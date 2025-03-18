@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What happened to all the games announced at WWDC 2024](https://appleinsider.com/articles/25/03/18/what-happened-to-all-the-games-announced-at-wwdc-2024?utm_medium=rss)
  - [Analogue’s 4K Nintendo 64 retro console has been delayed, again](https://www.theverge.com/news/631816/analogue-3d-delay-nintendo-64-modretro-teaser)
  - [Sources: Oracle is weighing a TikTok proposal that would have it provide security assurances and take a small stake while leaving the algorithm in Chinese hands &lpar;Bloomberg&rpar;](http://www.techmeme.com/250318/p27#a250318p27)
  - [Google updates its Gemini chatbot, adding Canvas, a space for users to create, refine, and share writing and coding projects, and Audio Overview from NotebookLM &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250318/p26#a250318p26)
- - [Eric Migicovsky unveils two Pebble smartwatches, the $149 Core 2 Duo shipping July 2025 and $225 Core Time 2 shipping December 2025, running its open-source OS &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/250318/p25#a250318p25)
- - [How to Protect Your Cats &lpar;and Backyard Chickens&rpar; From Bird Flu](https://www.wired.com/story/pets-and-backyard-flocks-are-at-risk-from-bird-flu-heres-how-to-protect-them/)<!-- TECH:END -->
+ - [Eric Migicovsky unveils two Pebble smartwatches, the $149 Core 2 Duo shipping July 2025 and $225 Core Time 2 shipping December 2025, running its open-source OS &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/250318/p25#a250318p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

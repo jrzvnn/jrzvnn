@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tencent releases five AI tools to turn text or images into 3D visuals and graphics, based on Hunyuan3D-2.0, and plans to integrate DeepSeek&#39;s R1 into WeChat &lpar;Bloomberg&rpar;](http://www.techmeme.com/250318/p15#a250318p15)
+ - [Don&#39;t Google &#39;Severance&#39; if you&#39;re about to be laid off](https://appleinsider.com/articles/25/03/18/dont-google-severance-if-youre-about-to-be-laid-off?utm_medium=rss)
  - [Apple loses antitrust appeal in Germany, now subject to steep fines and regulations](https://appleinsider.com/articles/25/03/18/apple-loses-antitrust-appeal-in-germany-now-subject-to-steep-fines-and-regulations?utm_medium=rss)
- - [Sources: Alphabet has agreed to buy cybersecurity startup Wiz for at least $32B and will announce the deal today, after talks over a $23B deal failed in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/250318/p14#a250318p14)
- - [Since Xi Jinping met DeepSeek founder Liang Wenfeng last month, Chinese officials are rushing to use the AI model, including in courthouses and in hospitals &lpar;New York Times&rpar;](http://www.techmeme.com/250318/p13#a250318p13)
- - [Bumble is getting ID verification](https://www.theverge.com/news/631560/bumble-id-verification-share-date)
- - [Germany&#39;s Federal Court of Justice rules against Apple&#39;s appeal against a regulatory assessment that opens Apple up to stricter controls in the country &lpar;Reuters&rpar;](http://www.techmeme.com/250318/p12#a250318p12)<!-- TECH:END -->
+ - [11 Best Cooling Mattresses &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-cooling-mattresses/)
+ - [Sources: Alphabet has agreed to buy cybersecurity startup Wiz for at least $32B and will announce the deal today, after talks over a $23B deal failed in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/250318/p14#a250318p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

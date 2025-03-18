@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch the Boeing Starliner astronauts return to Earth today](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)
+ - [Sources: US Commerce Secretary Howard Lutnick urged civil servants in charge of the $42B rural broadband program to increase the project&#39;s use of Starlink &lpar;Financial Times&rpar;](http://www.techmeme.com/250318/p45#a250318p45)
+ - [Multiple Tesla vehicles were set on fire in Las Vegas and Kansas City](https://www.theverge.com/news/632217/tesla-arson-dealership-vegas-kansas)
+ - [The Boeing Starliner astronauts returned to Earth today](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)
  - [Roku Tests Showing Ads Before the Home Screen Loads](https://www.wired.com/story/roku-tests-showing-video-ads-before-the-home-screen-loads/)
- - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)
- - [Tesla Got a Permit to Operate a Taxi Service in California—but There&#39;s a Catch](https://www.wired.com/story/tesla-got-a-permit-to-operate-a-taxi-service-in-california-but-theres-a-catch/)
- - [Tesla awarded ride-hail permit in California, a first step for robotaxis](https://www.theverge.com/news/632185/tesla-ride-hail-permit-california-cpuc-robotaxis)<!-- TECH:END -->
+ - [All the news about Nvidia’s RTX 50-series GPUs](https://www.theverge.com/2025/1/25/24351798/nvidia-rtx-5090-5080-5070-gpu-news-rumors)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

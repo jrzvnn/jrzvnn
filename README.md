@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon&#39;s Big Spring Sale 2025 starts March 25, but save up to $400 on Apple right now](https://appleinsider.com/articles/25/03/18/amazons-big-spring-sale-2025-starts-march-25-but-save-up-to-400-on-apple-right-now?utm_medium=rss)
  - [Satellite launch kicks off a new effort to monitor wildfires from space](https://www.theverge.com/news/631618/first-satellite-launch-firesat-google)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [Folding iPhone display engineering efforts rumored to be focused on power efficiency](https://appleinsider.com/articles/25/03/18/folding-iphone-display-engineering-efforts-rumored-to-be-focused-on-power-efficiency?utm_medium=rss)
- - [Watch the Boeing Starliner astronauts return to Earth](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)
- - [Mark Zuckerberg says Meta&#39;s Llama models have been downloaded 1B times since their 2023 debut, up from 650M downloads in early December 2024 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250318/p22#a250318p22)<!-- TECH:END -->
+ - [Watch the Boeing Starliner astronauts return to Earth](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

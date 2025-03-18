@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Exactly as I remember](http://9gag.com/gag/adBOwOd)
  - 😝 [Truck brake fail when descending a narrow hill](http://9gag.com/gag/aGy8QeG)
- - 💣 [I guess it&#39;s official. I am a shitty boss.](http://9gag.com/gag/ajPOvyp)
  - 😝 [When walking in nature with a tent, do not forget to close the doors. Wild cats are very curious.](http://9gag.com/gag/ayN4woX)
- - 👉 [When an Australian Globemaster aircraft thought it would be a good idea to fly between buildings during an air show.](http://9gag.com/gag/axyvL5b)<!-- MEMES:END -->
+ - 💣 [I guess it&#39;s official. I am a shitty boss.](http://9gag.com/gag/ajPOvyp)
+ - 😝 [When an Australian Globemaster aircraft thought it would be a good idea to fly between buildings during an air show.](http://9gag.com/gag/axyvL5b)
+ - 👉 [Priorities](http://9gag.com/gag/a34A6Gm)<!-- MEMES:END -->
 
 ---
 

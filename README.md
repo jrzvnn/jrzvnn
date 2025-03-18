@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never forget](http://9gag.com/gag/a87mZvp)
- - 😝 [Dad saving his favorite tree](http://9gag.com/gag/amoGwXy)
- - 💣 [Oh boy...](http://9gag.com/gag/a4PzX0m)
- - 😝 [Truck brake fail when descending a narrow hill](http://9gag.com/gag/aGy8QeG)
- - 👉 [Self-awareness](http://9gag.com/gag/axyvL6M)<!-- MEMES:END -->
+ - 😝 [How to Stay Safe During Train Travel in Europe](http://9gag.com/gag/aLnexxW)
+ - 😝 [To be 7&#39;3`...](http://9gag.com/gag/a0eVrAz)
+ - 💣 [When an Australian Globemaster aircraft thought it would be a good idea to fly between buildings during an air show.](http://9gag.com/gag/axyvL5b)
+ - 😝 [LOL, As someone who grew up a kid in the 80&#39;s. I can tell you that this method worked all the time..](http://9gag.com/gag/ajPOpLx)
+ - 👉 [Have you ever seen an ocean made of wood?](http://9gag.com/gag/aE0V9NG)<!-- MEMES:END -->
 
 ---
 

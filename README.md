@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When an Australian Globemaster aircraft thought it would be a good idea to fly between buildings during an air show.](http://9gag.com/gag/axyvL5b)
+ - 😝 [He cooked him well. The rifle thrown away was the biggest deception](http://9gag.com/gag/aVvEyEv)
  - 😝 [LBD](http://9gag.com/gag/ayN4OQM)
- - 💣 [Those who have been though hell don&#39;t get scared by sparks](http://9gag.com/gag/aAyE8Yd)
- - 😝 [Never forget](http://9gag.com/gag/a87mZvp)
- - 👉 [Motivation to survival\ud83e\udee3](http://9gag.com/gag/aW4LKYA)<!-- MEMES:END -->
+ - 💣 [Motivation to survival\ud83e\udee3](http://9gag.com/gag/aW4LKYA)
+ - 😝 [Those who have been though hell don&#39;t get scared by sparks](http://9gag.com/gag/aAyE8Yd)
+ - 👉 [She saw a future she wasnt ready for.](http://9gag.com/gag/aNDvNgG)<!-- MEMES:END -->
 
 ---
 

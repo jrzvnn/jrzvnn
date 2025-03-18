@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Taboola strikes a deal with Microsoft to sell display ads for MSN.com, Outlook, Games, Office products, and more, as it expands beyond native advertising &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250318/p21#a250318p21)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [CFPB workers are reinstated after a court order, but many still can’t work](https://www.theverge.com/news/631465/cfpb-probationary-employees-court-order-reinstatement)
- - [Nanoleaf’s new immersive backlight kit plugs directly into your PC](https://www.theverge.com/news/631610/nanoleaf-pc-screen-mirror-lightstrip-usb)<!-- TECH:END -->
+ - [HyperX Pulsefire Haste 2 Pro 4K Review: A Lighter and Faster Mouse](https://www.wired.com/review/hyperx-pulsefire-haste-2-pro-4k/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

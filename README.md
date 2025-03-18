@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some owners of devices running Roku OS report seeing autoplaying video ads before they can access the home screen; Roku says it is just a test &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/250317/p35#a250317p35)
- - [Best Internet Providers in San Antonio, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-san-antonio-tx/#ftag=CAD590a51e)
- - [Microsoft Adds Paywall for AI Features in Notepad and Paint](https://www.cnet.com/tech/services-and-software/microsoft-is-paywalling-notepad-and-paint-but-only-ai-features/#ftag=CAD590a51e)
- - [Top Broadband Director Warns of Musk Handout in Scathing Email Exit](https://www.cnet.com/home/internet/top-broadband-director-warns-of-musk-handout-in-scathing-email-exit/#ftag=CAD590a51e)
- - [Baseus Nomos 5-in-1 Desktop Charger review: A solid entry into the desktop charging hub genre](https://appleinsider.com/articles/25/03/18/baseus-nomos-5-in-1-desktop-charger-review-a-solid-entry-into-the-desktop-charging-hub-genre?utm_medium=rss)<!-- TECH:END -->
+ - [In an open letter to the OSTP, Ben Stiller and 400+ Hollywood creatives urge President Trump to not let Google, OpenAI, and others &quot;exploit&quot; copyrighted works &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250317/p37#a250317p37)
+ - [A critical Apache Tomcat RCE flaw is being exploited, letting attackers take over servers via a PUT request; Wallarm: the attack &quot;requires no authentication&quot; &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250317/p36#a250317p36)
+ - [Best Internet Providers in Columbus, Georgia](https://www.cnet.com/home/internet/best-internet-providers-in-columbus-ga/#ftag=CAD590a51e)
+ - [Analyst repeats rumor: entire iPhone 17 lineup to get in-house Apple Wi-Fi 7 chips](https://appleinsider.com/articles/25/03/18/analyst-repeats-rumor-entire-iphone-17-lineup-to-get-in-house-apple-wi-fi-7-chips?utm_medium=rss)
+ - [Some owners of devices running Roku OS report seeing autoplaying video ads before they can access the home screen; Roku says it is just a test &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/250317/p35#a250317p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

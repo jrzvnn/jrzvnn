@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HyperX Pulsefire Haste 2 Pro 4K Review: A Lighter and Faster Mouse](https://www.wired.com/review/hyperx-pulsefire-haste-2-pro-4k/)
+ - [Nanoleaf’s new immersive backlight kit plugs directly into your PC](https://www.theverge.com/news/631610/nanoleaf-pc-screen-mirror-lightstrip-usb)
  - [Hundreds of celebrities warn against letting OpenAI and Google &amp;#8216;freely exploit&amp;#8217; Hollywood](https://www.theverge.com/news/631637/celebrities-warn-openai-google-exploit-hollywood)
  - [Halliday, which helps developers delegate workflows to autonomous systems when creating smart contracts, raised a $20M Series A led by a16z Crypto &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/250318/p20#a250318p20)
- - [Switch 2, Steam Deck, and the next-gen console wars](https://www.theverge.com/the-vergecast/631619/switch-2-steam-deck-handheld-consoles-vergecast)
- - [Should You Take Ashwagandha Supplements for Stress and Anxiety?](https://www.cnet.com/health/nutrition/should-you-take-ashwagandha-supplements-for-stress-anxiety/#ftag=CAD590a51e)
- - [Meet the Game Developer Turning Fanfic Into Deadpool DLC](https://www.wired.com/story/emma-kidwell-turning-fanfic-into-deadpool-dlc/)<!-- TECH:END -->
+ - [Switch 2, Steam Deck, and the next-gen console wars](https://www.theverge.com/the-vergecast/631619/switch-2-steam-deck-handheld-consoles-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

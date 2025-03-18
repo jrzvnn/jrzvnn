@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US music subscriptions cross 100 million as digital downloads drop](https://www.theverge.com/news/632045/riaa-music-streaming-revenue-100-million-subscriptions)
  - [Nvidia says &amp;#8216;the age of generalist robotics is here&amp;#8217;](https://www.theverge.com/news/631743/nvidia-issac-groot-n1-robotics-foundation-model-available)
  - [Apple&#39;s MagSafe charger gets new firmware update](https://appleinsider.com/articles/25/03/18/apples-magsafe-charger-gets-new-firmware-update?utm_medium=rss)
  - [Denver drivers get free AirTags to cut auto thefts](https://appleinsider.com/articles/25/03/18/denver-drivers-get-free-airtags-to-cut-auto-thefts?utm_medium=rss)
- - [Nvidia’s RTX Pro 6000 has 96GB of VRAM and 600W of power](https://www.theverge.com/news/631868/nvidia-rtx-pro-6000-blackwell-gpu-professionals)
- - [Source: Elon Musk invested $150M to acquire more X shares in 2024 at a valuation close to his 2022 purchase price and &quot;expressed willingness&quot; to buy more shares &lpar;Bloomberg&rpar;](http://www.techmeme.com/250318/p37#a250318p37)<!-- TECH:END -->
+ - [Nvidia’s RTX Pro 6000 has 96GB of VRAM and 600W of power](https://www.theverge.com/news/631868/nvidia-rtx-pro-6000-blackwell-gpu-professionals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

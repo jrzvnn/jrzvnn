@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: US Commerce Department bureaus informed staffers in recent weeks that DeepSeek is banned on their government devices &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/250317/p34#a250317p34)
- - [Amazon sues the US CPSC, accusing it of stretching consumer safety law by ruling Amazon responsible for recalling products sold by third parties on Amazon.com &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250317/p33#a250317p33)
- - [The iOS 18.3.2 update is reportedly causing email delivery issues in the Mail app](https://appleinsider.com/articles/25/03/17/the-ios-1832-update-is-reportedly-causing-email-delivery-issues-in-the-mail-app?utm_medium=rss)
- - [President Trump&#39;s World Liberty Financial says it raised $250M in its second token sale, bringing the total amount of coins sold to $550M &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250317/p32#a250317p32)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
+ - [Some owners of devices running Roku OS report seeing autoplaying video ads before they can access the home screen; Roku says it is just a test &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/250317/p35#a250317p35)
+ - [Best Internet Providers in San Antonio, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-san-antonio-tx/#ftag=CAD590a51e)
+ - [Microsoft Adds Paywall for AI Features in Notepad and Paint](https://www.cnet.com/tech/services-and-software/microsoft-is-paywalling-notepad-and-paint-but-only-ai-features/#ftag=CAD590a51e)
+ - [Top Broadband Director Warns of Musk Handout in Scathing Email Exit](https://www.cnet.com/home/internet/top-broadband-director-warns-of-musk-handout-in-scathing-email-exit/#ftag=CAD590a51e)
+ - [Baseus Nomos 5-in-1 Desktop Charger review: A solid entry into the desktop charging hub genre](https://appleinsider.com/articles/25/03/18/baseus-nomos-5-in-1-desktop-charger-review-a-solid-entry-into-the-desktop-charging-hub-genre?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

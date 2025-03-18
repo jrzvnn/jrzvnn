@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Didi reports Q4 revenue up 7.1% YoY to ~$7.32B and a ~$180M net loss, down from a ~$6.2M profit in Q4 2023, as it recovers from China&#39;s $1.2B fine in July 2022 &lpar;Reuters&rpar;](http://www.techmeme.com/250318/p9#a250318p9)
+ - [Xiaomi reports Q4 revenue up 48.8% YoY to ~$15B, above ~$14.4B est., adjusted net profit up 69.4% YoY to ~$1.2B, above ~$884M est., boosted by smartphone sales &lpar;Reuters&rpar;](http://www.techmeme.com/250318/p8#a250318p8)
+ - [A look at Europe&#39;s options for building a &quot;European Cloud&quot;, which is likely to be more difficult than the &amp;euro;15B Galileo satellite system, and potential issues &lpar;Bert Hubert&#39;s writings&rpar;](http://www.techmeme.com/250318/p7#a250318p7)
  - [Ahead of its rumored March 19 release, a YouTuber posts a video of an alleged Pixel 9a, showing a flat rear panel, minimal camera bump, and large bezels &lpar;Rajesh Pandey/Android Police&rpar;](http://www.techmeme.com/250318/p6#a250318p6)
- - [BYD announces charging tech that&amp;#8217;s twice as fast as Tesla’s](https://www.theverge.com/news/631552/byd-1000kw-charging-ev-han-l-tang-l-battery)
- - [Tap to Pay on iPhone comes to nine more European countries](https://appleinsider.com/articles/25/03/18/tap-to-pay-on-iphone-comes-to-nine-more-european-countries?utm_medium=rss)
- - [Best Space Heaters in 2025](https://www.cnet.com/home/kitchen-and-household/best-space-heater/#ftag=CAD590a51e)
- - [Women&#39;s March Madness 2025: How to Watch Every Game Without Cable](https://www.cnet.com/tech/services-and-software/womens-march-madness-2025-how-to-watch-every-game-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [BYD announces charging tech that&amp;#8217;s twice as fast as Tesla’s](https://www.theverge.com/news/631552/byd-1000kw-charging-ev-han-l-tang-l-battery)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

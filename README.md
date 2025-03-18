@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Posting memes I found on my smartphone until I get bored or die #1156](http://9gag.com/gag/azxPngx)
- - 😝 [When an Australian Globemaster aircraft thought it would be a good idea to fly between buildings during an air show.](http://9gag.com/gag/axyvL5b)
- - 💣 [This one sparks joy too](http://9gag.com/gag/aPAPK7n)
- - 😝 [Priorities](http://9gag.com/gag/a34A6Gm)
- - 👉 [Footage shows 16-year-old Sean Simpson breaking down in court after being denied bail and ordered to stand trial for murder as an adult. Sean Simpson was charged with killing 16-year-old Zaquavious Dawkins in a North Carolina shooting in Jan 2025.](http://9gag.com/gag/azxP3nK)<!-- MEMES:END -->
+ - 😝 [Surprise](http://9gag.com/gag/a87mgv1)
+ - 😝 [2 people walked away from that survey laughing into the sunset](http://9gag.com/gag/ae9OBoB)
+ - 💣 [When an Australian Globemaster aircraft thought it would be a good idea to fly between buildings during an air show.](http://9gag.com/gag/axyvL5b)
+ - 😝 [What&#39;s happened UK?](http://9gag.com/gag/a0eVrXv)
+ - 👉 [Posting memes I found on my smartphone until I get bored or die #1156](http://9gag.com/gag/azxPngx)<!-- MEMES:END -->
 
 ---
 

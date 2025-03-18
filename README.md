@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Posting memes I found on my smartphone until I get bored or die #1156](http://9gag.com/gag/azxPngx)
- - 😝 [In 1979 kenny powers attempted to jump his car from Canada into the United States](http://9gag.com/gag/aGy8WQw)
- - 💣 [Never forget](http://9gag.com/gag/a87mZvp)
- - 😝 [Just finished this masterpiece, need another recommandation](http://9gag.com/gag/awymwzr)
- - 👉 [LBD](http://9gag.com/gag/ayN4OQM)<!-- MEMES:END -->
+ - 😝 [When an Australian Globemaster aircraft thought it would be a good idea to fly between buildings during an air show.](http://9gag.com/gag/axyvL5b)
+ - 😝 [LBD](http://9gag.com/gag/ayN4OQM)
+ - 💣 [Those who have been though hell don&#39;t get scared by sparks](http://9gag.com/gag/aAyE8Yd)
+ - 😝 [Never forget](http://9gag.com/gag/a87mZvp)
+ - 👉 [Motivation to survival\ud83e\udee3](http://9gag.com/gag/aW4LKYA)<!-- MEMES:END -->
 
 ---
 

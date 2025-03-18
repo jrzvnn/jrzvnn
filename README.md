@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Democratic FCC Commissioner Geoffrey Starks will resign this spring](https://www.theverge.com/news/631833/democratic-fcc-commissioner-geoffrey-starks-resigns)
- - [GM partners with Nvidia to use Nvidia Drive AGX, Omniverse with Cosmos, and more across driver assistance systems and factory planning and robotics &lpar;CNBC&rpar;](http://www.techmeme.com/250318/p34#a250318p34)
- - [Microsoft’s Xbox Adaptive Joystick is now available](https://www.theverge.com/news/631984/microsoft-xbox-pc-adaptive-joystick-controller-availability)
+ - [JD Vance tries to mend the MAGA-Tech divide](https://www.theverge.com/policy/632006/jd-vance-maga-tech-divide-andreesen-horowitz)
+ - [Oracle is reportedly in the lead to save TikTok from US ban](https://www.theverge.com/news/631999/oracle-tiktok-ban-deal-project-texas)
+ - [Nvidia announces Blackwell Ultra GB300 and Vera Rubin, its next AI ‘superchips’](https://www.theverge.com/news/631835/nvidia-blackwell-ultra-ai-chip-gb300)
  - [Chip race: Microsoft, Meta, Google, and Nvidia battle it out for AI chip supremacy](https://www.theverge.com/2024/2/1/24058186/ai-chips-meta-microsoft-google-nvidia)
- - [Our five favorite dunks from Drake’s label over his ‘Not Like Us’ lawsuit](https://www.theverge.com/news/631902/drake-umg-not-like-us-lawsuit-response)<!-- TECH:END -->
+ - [Democratic FCC Commissioner Geoffrey Starks will resign this spring](https://www.theverge.com/news/631833/democratic-fcc-commissioner-geoffrey-starks-resigns)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

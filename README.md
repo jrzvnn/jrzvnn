@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A former CHIPS Act program officer says Trump repealing the program risks US national security and tariffs alone will not revitalize domestic chip manufacturing &lpar;Mike Schmidt/Financial Times&rpar;](http://www.techmeme.com/250318/p11#a250318p11)
  - [Chicago-based Nerdio, which helps manage remote workers, raised $500M led by General Atlantic at a $1.2B valuation, sources say up from $300M in December 2022 &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/250318/p10#a250318p10)
  - [‘Airport Theory’ Will Make You Miss Your Flight](https://www.wired.com/story/airport-theory-aka-what-happens-if-you-miss-your-flight/)
  - [Didi reports Q4 revenue up 7.1% YoY to ~$7.32B and a ~$180M net loss, down from a ~$6.2M profit in Q4 2023, as it recovers from China&#39;s $1.2B fine in July 2022 &lpar;Reuters&rpar;](http://www.techmeme.com/250318/p9#a250318p9)
- - [Xiaomi reports Q4 revenue up 48.8% YoY to ~$15B, above ~$14.4B est., adjusted net profit up 69.4% YoY to ~$1.2B, above ~$884M est., boosted by smartphone sales &lpar;Reuters&rpar;](http://www.techmeme.com/250318/p8#a250318p8)
- - [A look at Europe&#39;s options for building a &quot;European Cloud&quot;, which is likely to be more difficult than the &amp;euro;15B Galileo satellite system, and potential issues &lpar;Bert Hubert&#39;s writings&rpar;](http://www.techmeme.com/250318/p7#a250318p7)<!-- TECH:END -->
+ - [Xiaomi reports Q4 revenue up 48.8% YoY to ~$15B, above ~$14.4B est., adjusted net profit up 69.4% YoY to ~$1.2B, above ~$884M est., boosted by smartphone sales &lpar;Reuters&rpar;](http://www.techmeme.com/250318/p8#a250318p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

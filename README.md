@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stability AI releases Stable Virtual Camera, an AI model with a non-commercial use license that can create &quot;immersive&quot; 3D videos using up to 32 2D images &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250318/p32#a250318p32)
- - [Adobe debuts an agent orchestrator with 10 initial Experience Agents for its Adobe Experience customer data management and marketing suite, to rival Salesforce &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250318/p31#a250318p31)
- - [Wait, why is the White House using Starlink to ‘improve Wi-Fi’?](https://www.theverge.com/news/631716/white-house-starlink-wi-fi-connectivity-musk)
- - [What happened to all the games announced at WWDC 2024](https://appleinsider.com/articles/25/03/18/what-happened-to-all-the-games-announced-at-wwdc-2024?utm_medium=rss)
- - [CISA scrambles to contact 130+ fired employees after court rules the layoffs unlawful but says re-hired staff will immediately be placed on administrative leave &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/250318/p30#a250318p30)<!-- TECH:END -->
+ - [Microsoft’s Xbox Adaptive Joystick is now available](https://www.theverge.com/news/631984/microsoft-xbox-pc-adaptive-joystick-controller-availability)
+ - [Chip race: Microsoft, Meta, Google, and Nvidia battle it out for AI chip supremacy](https://www.theverge.com/2024/2/1/24058186/ai-chips-meta-microsoft-google-nvidia)
+ - [Our five favorite dunks from Drake’s label over his ‘Not Like Us’ lawsuit](https://www.theverge.com/news/631902/drake-umg-not-like-us-lawsuit-response)
+ - [French music streamer Deezer reports &amp;euro;542M in 2024 revenue, up 12% YoY, ~9.7M total subs, and that it achieved positive free cash flow, a first for the company &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/250318/p33#a250318p33)
+ - [GM taps Nvidia to boost its embattled self-driving projects](https://www.theverge.com/news/631951/gm-nvidia-gtc-deal-cars-robots-factories)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

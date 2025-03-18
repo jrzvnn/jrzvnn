@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Posting memes I found on my smartphone until I get bored or die #1156](http://9gag.com/gag/azxPngx)
- - 😝 [Surprise](http://9gag.com/gag/a87mgv1)
- - 💣 [This one sparks joy too](http://9gag.com/gag/aPAPK7n)
- - 😝 [Footage shows 16-year-old Sean Simpson breaking down in court after being denied bail and ordered to stand trial for murder as an adult. Sean Simpson was charged with killing 16-year-old Zaquavious Dawkins in a North Carolina shooting in Jan 2025.](http://9gag.com/gag/azxP3nK)
- - 👉 [Oh boy...](http://9gag.com/gag/a4PzX0m)<!-- MEMES:END -->
+ - 😝 [Those who have been though hell don&#39;t get scared by sparks](http://9gag.com/gag/aAyE8Yd)
+ - 😝 [Canadian tv show in `Hot waters` for this skit](http://9gag.com/gag/aByLBnN)
+ - 💣 [Oh boy...](http://9gag.com/gag/a4PzX0m)
+ - 😝 [2 people walked away from that survey laughing into the sunset](http://9gag.com/gag/ae9OBoB)
+ - 👉 [Posting memes I found on my smartphone until I get bored or die #1156](http://9gag.com/gag/azxPngx)<!-- MEMES:END -->
 
 ---
 

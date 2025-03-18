@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Sources: investors valued X at $44B in a secondary deal earlier this month; X posted ~$1.2B in adjusted EBITDA in 2024 and is raising $2B in a primary round &lpar;Financial Times&rpar;](http://www.techmeme.com/250318/p46#a250318p46)
  - [Sources: US Commerce Secretary Howard Lutnick urged civil servants in charge of the $42B rural broadband program to increase the project&#39;s use of Starlink &lpar;Financial Times&rpar;](http://www.techmeme.com/250318/p45#a250318p45)
+ - [Finally! &#39;Stranded&#39; NASA Astronauts Return to Earth on SpaceX Dragon](https://www.cnet.com/science/finally-stranded-nasa-astronauts-return-to-earth-on-spacex-dragon/#ftag=CAD590a51e)
  - [Multiple Tesla vehicles were set on fire in Las Vegas and Kansas City](https://www.theverge.com/news/632217/tesla-arson-dealership-vegas-kansas)
- - [The Boeing Starliner astronauts returned to Earth today](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)
- - [Roku Tests Showing Ads Before the Home Screen Loads](https://www.wired.com/story/roku-tests-showing-video-ads-before-the-home-screen-loads/)<!-- TECH:END -->
+ - [The Boeing Starliner astronauts returned to Earth today](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

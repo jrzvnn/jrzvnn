@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Watch the Boeing Starliner astronauts return to Earth today](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)
  - [Apple has revealed a Passwords app vulnerability that lasted for months](https://www.theverge.com/news/632108/apple-ios-passwords-app-bug-vulnerability-phishing-attacks)
  - [A new Mission to Zyxx spin-off podcast is on the way](https://www.theverge.com/podcast/632052/mission-to-zyxx-the-young-old-derf-chronicles)
  - [Crossmint, which helps developers add crypto functionality to their code, raised $23.6M, including a seed and a Series A led by Ribbit Capital &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250318/p43#a250318p43)
- - [This watch has Pong and Missile Command instead of apps](https://www.theverge.com/news/632077/atari-2600-my-play-watch-pong-centipede-missile-command-super-breakout)
- - [Watch the Boeing Starliner astronauts return to Earth today](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)<!-- TECH:END -->
+ - [This watch has Pong and Missile Command instead of apps](https://www.theverge.com/news/632077/atari-2600-my-play-watch-pong-centipede-missile-command-super-breakout)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

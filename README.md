@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Attack on a Titan](http://9gag.com/gag/aYQO5eq)
- - 😝 [Yep, rage comics are the best](http://9gag.com/gag/aKG9Zbb)
- - 💣 [Priorities](http://9gag.com/gag/a34A6Gm)
  - 😝 [Posting memes I found on my smartphone until I get bored or die #1156](http://9gag.com/gag/azxPngx)
+ - 😝 [Molybdenum greese dispenser](http://9gag.com/gag/aRBZq0Q)
+ - 💣 [What&#39;s happened UK?](http://9gag.com/gag/a0eVrXv)
+ - 😝 [Attack on a Titan](http://9gag.com/gag/aYQO5eq)
  - 👉 [Trump sent the 238 members of the Tren de Aragua gang captured in the USA to El Salvador\u2019s Prison. They arrived last night!](http://9gag.com/gag/axyvrwY)<!-- MEMES:END -->
 
 ---

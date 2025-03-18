@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Space Heaters in 2025](https://www.cnet.com/home/kitchen-and-household/best-space-heater/#ftag=CAD590a51e)
+ - [Women&#39;s March Madness 2025: How to Watch Every Game Without Cable](https://www.cnet.com/tech/services-and-software/womens-march-madness-2025-how-to-watch-every-game-without-cable/#ftag=CAD590a51e)
  - [Anthropic Chief Product Officer Mike Krieger says the company is preparing enterprise features and discussing voice product launches with &quot;a bunch of partners&quot; &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/250318/p5#a250318p5)
- - [Best Internet Providers in Jersey City, New Jersey](https://www.cnet.com/home/internet/best-internet-providers-in-jersey-city-nj/#ftag=CAD590a51e)
- - [PitchBook: China led Asia with 715 AI VC deals in 2024, totaling $7.3B, South Korea followed with 308 deals worth $1.8B, and India with 306 deals totaling $1.7B &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250318/p4#a250318p4)
- - [A RevenueCat report, covering data from 75K+ mobile apps and $10B+ in revenue across 1B+ transactions, shows most apps fail to reach $1K/month after two years &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/250318/p3#a250318p3)
- - [LG Promo Codes: Extra 20% Off](https://www.wired.com/story/lg-promo-code/)<!-- TECH:END -->
+ - [Best Exercise Bikes for 2025](https://www.cnet.com/health/fitness/best-exercise-bike/#ftag=CAD590a51e)
+ - [Best Internet Providers in Jersey City, New Jersey](https://www.cnet.com/home/internet/best-internet-providers-in-jersey-city-nj/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

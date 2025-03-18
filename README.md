@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bumble is getting ID verification](https://www.theverge.com/news/631560/bumble-id-verification-share-date)
+ - [Germany&#39;s Federal Court of Justice rules against Apple&#39;s appeal against a regulatory assessment that opens Apple up to stricter controls in the country &lpar;Reuters&rpar;](http://www.techmeme.com/250318/p12#a250318p12)
  - [A former CHIPS Act program officer says Trump repealing the program risks US national security and tariffs alone will not revitalize domestic chip manufacturing &lpar;Mike Schmidt/Financial Times&rpar;](http://www.techmeme.com/250318/p11#a250318p11)
  - [Chicago-based Nerdio, which helps manage remote workers, raised $500M led by General Atlantic at a $1.2B valuation, sources say up from $300M in December 2022 &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/250318/p10#a250318p10)
- - [‘Airport Theory’ Will Make You Miss Your Flight](https://www.wired.com/story/airport-theory-aka-what-happens-if-you-miss-your-flight/)
- - [Didi reports Q4 revenue up 7.1% YoY to ~$7.32B and a ~$180M net loss, down from a ~$6.2M profit in Q4 2023, as it recovers from China&#39;s $1.2B fine in July 2022 &lpar;Reuters&rpar;](http://www.techmeme.com/250318/p9#a250318p9)
- - [Xiaomi reports Q4 revenue up 48.8% YoY to ~$15B, above ~$14.4B est., adjusted net profit up 69.4% YoY to ~$1.2B, above ~$884M est., boosted by smartphone sales &lpar;Reuters&rpar;](http://www.techmeme.com/250318/p8#a250318p8)<!-- TECH:END -->
+ - [Didi reports Q4 revenue up 7.1% YoY to ~$7.32B and a ~$180M net loss, down from a ~$6.2M profit in Q4 2023, as it recovers from China&#39;s $1.2B fine in July 2022 &lpar;Reuters&rpar;](http://www.techmeme.com/250318/p9#a250318p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

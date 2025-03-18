@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A new Mission to Zyxx spin-off podcast is on the way](https://www.theverge.com/podcast/632052/mission-to-zyxx-the-young-old-derf-chronicles)
+ - [Crossmint, which helps developers add crypto functionality to their code, raised $23.6M, including a seed and a Series A led by Ribbit Capital &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250318/p43#a250318p43)
  - [This watch has Pong and Missile Command instead of apps](https://www.theverge.com/news/632077/atari-2600-my-play-watch-pong-centipede-missile-command-super-breakout)
  - [Watch the Boeing Starliner astronauts return to Earth today](https://www.theverge.com/news/628311/nasa-crew-10-mission-starliner-astronauts-return-spacex)
- - [Nvidia updates the DGX Station, begins taking reservations for the DGX Spark box, formerly Project Digits, and unveils the RTX PRO workstation and server GPUs &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/250318/p42#a250318p42)
- - [Apple Pay expands to Puerto Rico](https://appleinsider.com/articles/25/03/18/apple-pay-expands-to-puerto-rico?utm_medium=rss)
- - [Sources: Sequoia&#39;s ~10% stake in Wiz would net the firm ~$3B from Wiz&#39;s sale to Alphabet, a 25-fold return; Greenoaks would secure ~$2B on its ~$300M investment &lpar;Bloomberg&rpar;](http://www.techmeme.com/250318/p41#a250318p41)<!-- TECH:END -->
+ - [Nvidia updates the DGX Station, begins taking reservations for the DGX Spark box, formerly Project Digits, and unveils the RTX PRO workstation and server GPUs &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/250318/p42#a250318p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

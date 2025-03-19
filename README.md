@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Here are all the Nvidia DGX Spark versions so far](https://www.theverge.com/news/632685/asus-ascent-gx10-dell-pro-max-gb10-hp-zgx-nano-nvidia-ai)
+ - [Europe is trying to get non-Apple smartwatches to work better with iPhones](https://www.theverge.com/news/632718/europe-digital-markets-act-apple-interoperability-smartwatches)
+ - [Analogue’s Pocket Dock now works with all of Nintendo’s retro wireless controllers](https://www.theverge.com/news/632679/analogue-pocket-dock-update-nintendo-switch-online-wireless-controllers)
  - [Plex is increasing Plex Pass prices for the first time in a decade and making remote playback for personal media a paid feature at $1.99/month or $19.99/year &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250319/p33#a250319p33)
- - [All the news about daily puzzle games](https://www.theverge.com/2024/10/25/24279439/news-games-crossword-wordle)
- - [Former Game Informer staff tease a possible revival](https://www.theverge.com/news/632610/game-informer-returning-gamestop)
- - [The EU is betraying its users and weakening their privacy for political gain](https://appleinsider.com/articles/25/03/19/the-eu-is-betraying-its-users-and-weakening-their-privacy-for-political-gain?utm_medium=rss)<!-- TECH:END -->
+ - [All the news about daily puzzle games](https://www.theverge.com/2024/10/25/24279439/news-games-crossword-wordle)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

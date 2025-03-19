@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [But can it run DOOM?](http://9gag.com/gag/awymR94)
  - 😝 [Female Bodybuilders vs 16 year old farmers.](http://9gag.com/gag/aXPND4g)
- - 💣 [Thank you joeyswoll](http://9gag.com/gag/aD2nEPw)
- - 😝 [I need a sleep Premium version](http://9gag.com/gag/a9yvQ6m)
- - 👉 [Yes, Common sense](http://9gag.com/gag/aQzQ0Rz)<!-- MEMES:END -->
+ - 😝 [Thank you joeyswoll](http://9gag.com/gag/aD2nEPw)
+ - 💣 [I need a sleep Premium version](http://9gag.com/gag/a9yvQ6m)
+ - 😝 [Yes, Common sense](http://9gag.com/gag/aQzQ0Rz)
+ - 👉 [She threw it straight in the hands of her father](http://9gag.com/gag/adBOZ0D)<!-- MEMES:END -->
 
 ---
 

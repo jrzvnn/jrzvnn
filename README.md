@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The weeklong TikTok fight over whether NYC influencers are ‘boring’](https://www.theverge.com/news/632040/nyc-influencers-boring-tiktok-algorithms)
  - [Google Pixel 9a hands-on: an iPhone 16e rival with a 120Hz display and water drop-inspired camera bump that seems to have minimal differences to the Pixel 9 &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/250319/p25#a250319p25)
  - [Google updates Wallet to let kids with Android smartphones tap to pay in stores in the US, the UK, Australia, Spain, and Poland under parental supervision &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250319/p24#a250319p24)
- - [Google unveils the $499 Pixel 9a, with no camera bump, a 6.3&quot; display, a Tensor G4 processor, and IP68 water resistance, shipping sometime in April 2025 &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/250319/p23#a250319p23)
- - [2025 iPad 11 review: Incredibly minor improvements, not enough for Apple Intelligence](https://appleinsider.com/articles/25/03/19/2025-ipad-11-review-incredibly-minor-improvements-not-enough-for-apple-intelligence?utm_medium=rss)
- - [The Pixel 9A is a midrange phone that actually looks like a good deal](https://www.theverge.com/news/631826/google-pixel-9a-specs-price-availability)<!-- TECH:END -->
+ - [Google unveils the $499+ Pixel 9a, with no camera bump, a 48MP rear camera, a 6.3&quot; display, a Tensor G4 chip, and IP68 water resistance, shipping in April 2025 &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/250319/p23#a250319p23)
+ - [2025 iPad 11 review: Incredibly minor improvements, not enough for Apple Intelligence](https://appleinsider.com/articles/25/03/19/2025-ipad-11-review-incredibly-minor-improvements-not-enough-for-apple-intelligence?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [When your mom farted.](http://9gag.com/gag/aByLDvz)
+ - 😝 [Female Bodybuilders vs 16 year old farmers.](http://9gag.com/gag/aXPND4g)
+ - 💣 [Sleepless](http://9gag.com/gag/aRBZxvq)
  - 😝 [Tow truck driver](http://9gag.com/gag/azxPNGz)
- - 😝 [Oh boy...](http://9gag.com/gag/a4PzX0m)
- - 💣 [Priorities](http://9gag.com/gag/a34A6Gm)
- - 😝 [Stop lying!](http://9gag.com/gag/aD2npdK)
- - 👉 [Give me your best tips and tricks you got](http://9gag.com/gag/an7nLvn)<!-- MEMES:END -->
+ - 👉 [Guy loses all in to a royal flush with quad aces in poker, a 1/2,7 billion chance of happening](http://9gag.com/gag/an7n6On)<!-- MEMES:END -->
 
 ---
 

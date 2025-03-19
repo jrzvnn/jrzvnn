@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Amber Riley explains &quot;the Masked Singer&quot; to detractors](https://www.reddit.com/r/funny/comments/1jejfnj/amber_riley_explains_the_masked_singer_to/)
- - 😝 [Always wondered where he kept them in the off season](https://www.reddit.com/r/funny/comments/1jejawf/always_wondered_where_he_kept_them_in_the_off/)
- - 💣 [my forearm boutta fall off](https://www.reddit.com/r/memes/comments/1jei743/my_forearm_boutta_fall_off/)
- - 😝 [Freedom at last, next stop is bald](https://www.reddit.com/r/memes/comments/1jeh6si/freedom_at_last_next_stop_is_bald/)
- - 👉 [Media vs Reality](https://www.reddit.com/r/memes/comments/1jeg4nm/media_vs_reality/)<!-- MEMES:END -->
+ - 😝 [Those who have been though hell don&#39;t get scared by sparks](http://9gag.com/gag/aAyE8Yd)
+ - 😝 [She threw it straight in the hands of her father](http://9gag.com/gag/adBOZ0D)
+ - 💣 [Priorities](http://9gag.com/gag/a34A6Gm)
+ - 😝 [Show the ugliest car ever built](http://9gag.com/gag/axyvxYp)
+ - 👉 [In 1979 kenny powers attempted to jump his car from Canada into the United States](http://9gag.com/gag/aGy8WQw)<!-- MEMES:END -->
 
 ---
 

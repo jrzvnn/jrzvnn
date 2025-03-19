@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tencent reports Q4 revenue up 11% YoY to ~$23.9B, vs. ~$23.4B est., profit up 90% YoY to ~$7B, vs. ~$6.3B est., and domestic game revenue up 23% YoY to ~$4.6B &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250319/p16#a250319p16)
  - [How Reddit became a lifeline for US federal workers in recent months, as Trump cuts the workforce; r/fednews gained millions of visitors since January 2025 &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/250319/p15#a250319p15)
  - [Best MacBooks &lpar;2025&rpar;: Which Apple Laptop Should You Buy?](https://www.wired.com/story/which-macbook-should-you-buy/)
  - [How Trump closing CBP One, an app launched in 2020 to let immigrants schedule CBP asylum appointments, is a gift to Mexican cartels&amp;apos; smuggling operations &lpar;Michael Scott Moore/Bloomberg&rpar;](http://www.techmeme.com/250319/p14#a250319p14)
- - [Windows 11 will soon let you know why your PC hardware sucks](https://www.theverge.com/news/632327/microsoft-windows-11-system-device-specs-recommendations)
- - [Annual meeting: Samsung co-CEO Han Jong-hee says the company will pursue &amp;quot;meaningful&amp;quot; M&amp;amp;A deals in 2025 and apologizes to investors for weak stock performance &lpar;Financial Times&rpar;](http://www.techmeme.com/250319/p13#a250319p13)<!-- TECH:END -->
+ - [Windows 11 will soon let you know why your PC hardware sucks](https://www.theverge.com/news/632327/microsoft-windows-11-system-device-specs-recommendations)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tow truck driver](http://9gag.com/gag/azxPNGz)
- - 😝 [Show the ugliest car ever built](http://9gag.com/gag/axyvxYp)
- - 💣 [Guy loses all in to a royal flush with quad aces in poker, a 1/2,7 billion chance of happening](http://9gag.com/gag/an7n6On)
- - 😝 [Agame where you can&#39;t react](http://9gag.com/gag/a6Z9voA)
- - 👉 [Stop lying!](http://9gag.com/gag/aD2npdK)<!-- MEMES:END -->
+ - 😝 [Thank you joeyswoll](http://9gag.com/gag/aD2nEPw)
+ - 😝 [Yes, Common sense](http://9gag.com/gag/aQzQ0Rz)
+ - 💣 [I need a sleep Premium version](http://9gag.com/gag/a9yvQ6m)
+ - 😝 [Female Bodybuilders vs 16 year old farmers.](http://9gag.com/gag/aXPND4g)
+ - 👉 [She threw it straight in the hands of her father](http://9gag.com/gag/adBOZ0D)<!-- MEMES:END -->
 
 ---
 

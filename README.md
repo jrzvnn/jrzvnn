@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Agame where you can&#39;t react](http://9gag.com/gag/a6Z9voA)
- - 😝 [Person tries to lay a trap and ends up getting obliterated](http://9gag.com/gag/a0eV2Oz)
- - 💣 [She threw it straight in the hands of her father](http://9gag.com/gag/adBOZ0D)
- - 😝 [Never forget](http://9gag.com/gag/a87mZvp)
- - 👉 [Guy loses all in to a royal flush with quad aces in poker, a 1/2,7 billion chance of happening](http://9gag.com/gag/an7n6On)<!-- MEMES:END -->
+ - 😝 [She saw a future she wasnt ready for.](http://9gag.com/gag/aNDvNgG)
+ - 😝 [Gr8 b8 m8 i rate 8/8](http://9gag.com/gag/azxP0Wq)
+ - 💣 [Why every time](http://9gag.com/gag/axyvXwY)
+ - 😝 [Models in nerds environment](http://9gag.com/gag/a2v8BAO)
+ - 👉 [The Japanese would approve this appropriate change!](http://9gag.com/gag/aAyEjYZ)<!-- MEMES:END -->
 
 ---
 

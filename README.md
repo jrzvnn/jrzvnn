@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [Apple won&#39;t be forced into allowing third party app marketplaces in Brazil, for now](https://appleinsider.com/articles/25/03/19/apple-wont-be-forced-into-allowing-third-party-app-marketplaces-in-brazil-for-now?utm_medium=rss)
- - [Report: LG will end its XR product commercialization efforts as it believes the market isn&#39;t growing as quickly as it expected, but will continue R&amp;D efforts &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250319/p39#a250319p39)
- - [Roborock opens pre-orders for its robot vacuum with an arm](https://www.theverge.com/news/632881/roborock-saros-z70-robot-vacuum-pre-orders-price)<!-- TECH:END -->
+ - [Samsung&#39;s One UI 7 to Arrive Next Month With Smarter AI Features](https://www.cnet.com/tech/services-and-software/samsungs-one-ui-7-to-arrive-next-month-with-smarter-ai-features/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 20, #178](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-20-178/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

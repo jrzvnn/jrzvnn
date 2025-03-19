@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix Games is getting its first MMO](https://www.theverge.com/news/632526/spirit-crossing-netflix-games-mmo-spry-fox)
+ - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
  - [All the news about Netflix’s gaming efforts](https://www.theverge.com/22772589/netflix-video-games-app-news-updates)
+ - [Netflix Games is getting its first MMO](https://www.theverge.com/news/632526/spirit-crossing-netflix-games-mmo-spry-fox)
  - [Andor creator refuses to publish scripts thanks to AI](https://www.theverge.com/news/632613/andor-tony-gilroy-ai-star-wars-training-copyright)
- - [Razer launches Wyvrn, a service with tools for game developers, including AI QA Copilot, for game testing, and AI Gamer Copilot, for real-time tips and guides &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/250319/p35#a250319p35)
- - [Verizon’s free satellite messaging service is now available](https://www.theverge.com/news/632618/verizon-satellite-messaging-samsung-s25-pixel-9)<!-- TECH:END -->
+ - [Razer launches Wyvrn, a service with tools for game developers, including AI QA Copilot, for game testing, and AI Gamer Copilot, for real-time tips and guides &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/250319/p35#a250319p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

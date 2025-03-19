@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI launches o1-pro, which uses more compute than o1 for &quot;consistently better responses&quot;, to some devs for $150/1M input tokens and $600/1M output tokens &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250319/p41#a250319p41)
+ - [Sources: CoreWeave plans to offer shares at $47 to $55 each when it begins marketing its IPO this week, aiming to raise between $2.3B and $2.7B &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/250319/p40#a250319p40)
+ - [Fired FTC commissioner warns of the ‘corrupting influence of billionaires’](https://www.theverge.com/news/632944/democratic-ftc-commissioner-alvaro-bedoya-tech-billionaires-trump)
  - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Apple won&#39;t be forced into allowing third party app marketplaces in Brazil, for now](https://appleinsider.com/articles/25/03/19/apple-wont-be-forced-into-allowing-third-party-app-marketplaces-in-brazil-for-now?utm_medium=rss)
- - [Samsung&#39;s One UI 7 to Arrive Next Month With Smarter AI Features](https://www.cnet.com/tech/services-and-software/samsungs-one-ui-7-to-arrive-next-month-with-smarter-ai-features/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 20, #178](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-20-178/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple won&#39;t be forced into allowing third party app marketplaces in Brazil, for now](https://appleinsider.com/articles/25/03/19/apple-wont-be-forced-into-allowing-third-party-app-marketplaces-in-brazil-for-now?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

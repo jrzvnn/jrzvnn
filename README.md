@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Those who have been though hell don&#39;t get scared by sparks](http://9gag.com/gag/aAyE8Yd)
- - 😝 [Priorities](http://9gag.com/gag/a34A6Gm)
- - 💣 [Stop lying!](http://9gag.com/gag/aD2npdK)
+ - 😝 [Tow truck driver](http://9gag.com/gag/azxPNGz)
+ - 😝 [Stop lying!](http://9gag.com/gag/aD2npdK)
+ - 💣 [Show the ugliest car ever built](http://9gag.com/gag/axyvxYp)
  - 😝 [Female Bodybuilders vs 16 year old farmers.](http://9gag.com/gag/aXPND4g)
- - 👉 [Show the ugliest car ever built](http://9gag.com/gag/axyvxYp)<!-- MEMES:END -->
+ - 👉 [Never forget](http://9gag.com/gag/a87mZvp)<!-- MEMES:END -->
 
 ---
 

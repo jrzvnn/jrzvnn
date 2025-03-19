@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This guy is hated now for doing this ?](http://9gag.com/gag/aW4LVM4)
- - 😝 [A Carrot Distracts a Doe While Her Kits Are Moved](http://9gag.com/gag/aryAPp6)
- - 💣 [The power of Dads!](http://9gag.com/gag/aO846m3)
- - 😝 [When your mom farted.](http://9gag.com/gag/aByLDvz)
- - 👉 [Models in nerds environment](http://9gag.com/gag/a2v8BAO)<!-- MEMES:END -->
+ - 😝 [The $5 regret](http://9gag.com/gag/aAyKBpd)
+ - 😝 [Update 13: Breast cancer has more than halved after 11 weeks of chemo, having an echo to check my heart and then the second round of drugs start. Happy Wednesday my dudes, f**k you all and see you next week.](http://9gag.com/gag/aO846py)
+ - 💣 [Elephant mourns death of her companion of 25 years, refuses to leave her side!](http://9gag.com/gag/ae9OXdB)
+ - 😝 [Expensive Petroleum](http://9gag.com/gag/aAyEnmL)
+ - 👉 [First Tesla, now Starlink ,bye bye Elon.](http://9gag.com/gag/aKGv4qg)<!-- MEMES:END -->
 
 ---
 

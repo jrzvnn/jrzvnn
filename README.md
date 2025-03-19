@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon’s free satellite messaging service is now available](https://www.theverge.com/news/632618/verizon-satellite-messaging-samsung-s25-pixel-9)
- - [Apple&#39;s iPhone 16e 5G surpasses iPhone 16 in most real-world speed tests](https://appleinsider.com/articles/25/03/19/apples-iphone-16e-5g-surpasses-iphone-16-in-most-real-world-speed-tests?utm_medium=rss)
- - [The EU is betraying iPhone users and weakening privacy for political gain](https://appleinsider.com/articles/25/03/19/the-eu-is-betraying-its-users-and-weakening-their-privacy-for-political-gain?utm_medium=rss)
- - [Pavel Durov says Telegram now has 1B+ MAUs, up from 950M in July 2024, and made $547M in profits in 2024, and calls WhatsApp &quot;a cheap, watered-down imitation&quot; &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250319/p34#a250319p34)
- - [Here are all the Nvidia DGX Spark versions so far](https://www.theverge.com/news/632685/asus-ascent-gx10-dell-pro-max-gb10-hp-zgx-nano-nvidia-ai)<!-- TECH:END -->
+ - [Netflix Games is getting its first MMO](https://www.theverge.com/news/632526/spirit-crossing-netflix-games-mmo-spry-fox)
+ - [All the news about Netflix’s gaming efforts](https://www.theverge.com/22772589/netflix-video-games-app-news-updates)
+ - [Andor creator refuses to publish scripts thanks to AI](https://www.theverge.com/news/632613/andor-tony-gilroy-ai-star-wars-training-copyright)
+ - [Razer launches Wyvrn, a service with tools for game developers, including AI QA Copilot, for game testing, and AI Gamer Copilot, for real-time tips and guides &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/250319/p35#a250319p35)
+ - [Verizon’s free satellite messaging service is now available](https://www.theverge.com/news/632618/verizon-satellite-messaging-samsung-s25-pixel-9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

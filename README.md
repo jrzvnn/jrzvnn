@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How a porch piracy gang stole thousands of iPhones in a sophisticated crime spree](https://appleinsider.com/articles/25/03/19/how-a-porch-piracy-gang-stole-thousands-of-iphones-in-a-sophisticated-crime-spree?utm_medium=rss)
+ - [The Playdate is about to get a price increase](https://www.theverge.com/news/632418/playdate-price-increase-panic-malaysia)
+ - [The Playdate has been out since April 2022 — here’s how it’s going](https://www.theverge.com/23733264/panic-playdate-handheld-gameboy-season-one-two)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Ripple CEO Brad Garlinghouse says the US SEC is set to drop an appeal in its case against Ripple, ending a long-standing legal battle over XRP &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/250319/p22#a250319p22)
- - [Utila, which offers a multi-party computation crypto wallet service, raised an $18M Series A led by Nyca Partners, taking its total funding to $30M &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/250319/p21#a250319p21)
- - [Amazon is blundering into an AI copyright nightmare](https://www.theverge.com/tech/631651/amazon-alexa-suno-ai-generated-song-copyright-nightmare)
- - [The Playdate has been out since April 2022 — here’s how it’s going](https://www.theverge.com/23733264/panic-playdate-handheld-gameboy-season-one-two)<!-- TECH:END -->
+ - [Ripple CEO Brad Garlinghouse says the US SEC is set to drop an appeal in its case against Ripple, ending a long-standing legal battle over XRP &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/250319/p22#a250319p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

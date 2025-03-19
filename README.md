@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Motivation to survival\ud83e\udee3](http://9gag.com/gag/aW4LKYA)
- - 😝 [Those who have been though hell don&#39;t get scared by sparks](http://9gag.com/gag/aAyE8Yd)
- - 💣 [3 V 1](http://9gag.com/gag/aZZwOAp)
- - 😝 [This absolutely insane and no one is talking about it!](http://9gag.com/gag/aVvEp0K)
- - 👉 [Female Bodybuilders vs 16 year old farmers.](http://9gag.com/gag/aXPND4g)<!-- MEMES:END -->
+ - 😝 [You gotta go back Marty!](http://9gag.com/gag/aAyEjX0)
+ - 😝 [3 V 1](http://9gag.com/gag/aZZwOAp)
+ - 💣 [Guy loses all in to a royal flush with quad aces in poker, a 1/2,7 billion chance of happening](http://9gag.com/gag/an7n6On)
+ - 😝 [Priorities](http://9gag.com/gag/a34A6Gm)
+ - 👉 [Never forget](http://9gag.com/gag/a87mZvp)<!-- MEMES:END -->
 
 ---
 

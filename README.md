@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [All the news about daily puzzle games](https://www.theverge.com/2024/10/25/24279439/news-games-crossword-wordle)
  - [Former Game Informer staff tease a possible revival](https://www.theverge.com/news/632610/game-informer-returning-gamestop)
  - [The EU is betraying its users and weakening their privacy for political gain](https://appleinsider.com/articles/25/03/19/the-eu-is-betraying-its-users-and-weakening-their-privacy-for-political-gain?utm_medium=rss)
  - [Plex Pass is going up in price — and now you&amp;#8217;ll need it for remote playback](https://www.theverge.com/news/632631/plex-subscription-price-increase-remote-playback)
- - [Streaming services keep getting more expensive: all the latest price increases](https://www.theverge.com/23901586/streaming-service-prices-netflix-disney-hulu-peacock-max)
- - [A new iPhone 16e survey overlooks who the device is for](https://appleinsider.com/articles/25/03/19/a-new-iphone-16e-survey-overlooks-who-the-device-is-for?utm_medium=rss)<!-- TECH:END -->
+ - [Streaming services keep getting more expensive: all the latest price increases](https://www.theverge.com/23901586/streaming-service-prices-netflix-disney-hulu-peacock-max)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

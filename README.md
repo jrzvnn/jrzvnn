@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung plans to roll out its Android 15-based One UI 7 from April 7 on the Galaxy S24 series, Z Fold6, and Z Flip6, with a &amp;quot;simplified&amp;quot; UI and new AI features &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250319/p12#a250319p12)
- - [How Dubai and the Middle East embraced drone shows, with the average show using 400+ drones and costing $112K+; the market was worth an estimated $339M in 2023 &lpar;Amar Diwakar/Rest of World&rpar;](http://www.techmeme.com/250319/p11#a250319p11)
- - [Samsung’s One UI 7 is rolling out to Galaxy phones in April](https://www.theverge.com/news/632318/samsung-one-ui-7-rollout-april-galaxy-s24-fold-6-flip-6)
- - [A close look at Nvidia&amp;apos;s GTC 2025 announcements, which focused on addressing pre- and post- training scaling, inference-time scaling working in tandem, and more &lpar;Dylan Patel/SemiAnalysis&rpar;](http://www.techmeme.com/250319/p10#a250319p10)
- - [Bakkt&amp;apos;s stock fell 27%+ on March 18 after the crypto company said that two of its largest clients, Bank of America and Webull, would not renew their agreements &lpar;Stephen Katte/Cointelegraph&rpar;](http://www.techmeme.com/250319/p9#a250319p9)<!-- TECH:END -->
+ - [How Reddit became a lifeline for US federal workers in recent months, as Trump cuts the workforce; r/fednews gained millions of visitors since January 2025 &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/250319/p15#a250319p15)
+ - [Best MacBooks &lpar;2025&rpar;: Which Apple Laptop Should You Buy?](https://www.wired.com/story/which-macbook-should-you-buy/)
+ - [How Trump closing CBP One, an app launched in 2020 to let immigrants schedule CBP asylum appointments, is a gift to Mexican cartels&amp;apos; smuggling operations &lpar;Michael Scott Moore/Bloomberg&rpar;](http://www.techmeme.com/250319/p14#a250319p14)
+ - [Windows 11 will soon let you know why your PC hardware sucks](https://www.theverge.com/news/632327/microsoft-windows-11-system-device-specs-recommendations)
+ - [Annual meeting: Samsung co-CEO Han Jong-hee says the company will pursue &amp;quot;meaningful&amp;quot; M&amp;amp;A deals in 2025 and apologizes to investors for weak stock performance &lpar;Financial Times&rpar;](http://www.techmeme.com/250319/p13#a250319p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

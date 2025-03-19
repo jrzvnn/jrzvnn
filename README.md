@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You gotta go back Marty!](http://9gag.com/gag/aAyEjX0)
- - 😝 [3 V 1](http://9gag.com/gag/aZZwOAp)
- - 💣 [Guy loses all in to a royal flush with quad aces in poker, a 1/2,7 billion chance of happening](http://9gag.com/gag/an7n6On)
- - 😝 [Priorities](http://9gag.com/gag/a34A6Gm)
- - 👉 [Never forget](http://9gag.com/gag/a87mZvp)<!-- MEMES:END -->
+ - 😝 [Drugs are bad for you, mmkay?](http://9gag.com/gag/aPAPKVq)
+ - 😝 [Oh boy...](http://9gag.com/gag/a4PzX0m)
+ - 💣 [Tow truck driver](http://9gag.com/gag/azxPNGz)
+ - 😝 [Gr8 b8 m8 i rate 8/8](http://9gag.com/gag/azxP0Wq)
+ - 👉 [Guy loses all in to a royal flush with quad aces in poker, a 1/2,7 billion chance of happening](http://9gag.com/gag/an7n6On)<!-- MEMES:END -->
 
 ---
 

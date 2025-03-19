@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gr8 b8 m8 i rate 8/8](http://9gag.com/gag/azxP0Wq)
  - 😝 [Priorities](http://9gag.com/gag/a34A6Gm)
+ - 😝 [It&#39;s so good I think it&#39;s bad for my health](http://9gag.com/gag/azxPWbq)
  - 💣 [Tow truck driver](http://9gag.com/gag/azxPNGz)
- - 😝 [Stop lying!](http://9gag.com/gag/aD2npdK)
+ - 😝 [Give me your best tips and tricks you got](http://9gag.com/gag/an7nLvn)
  - 👉 [Those who have been though hell don&#39;t get scared by sparks](http://9gag.com/gag/aAyE8Yd)<!-- MEMES:END -->
 
 ---

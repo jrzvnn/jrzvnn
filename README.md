@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU will force Apple to totally expose its iPhone features to all who ask](https://appleinsider.com/articles/25/03/19/eu-will-force-apple-to-totally-expose-its-iphone-features-to-all-who-ask?utm_medium=rss)
- - [In preliminary findings, the EU Commission charges Google with breaking the DMA in search and apps, and orders Apple to open iOS to connected devices &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/250319/p26#a250319p26)
- - [Day One brings its digital journaling app to Windows](https://www.theverge.com/news/632396/day-one-journaling-app-microsoft-windows-now-available)
- - [The weeklong TikTok fight over whether NYC influencers are ‘boring’](https://www.theverge.com/news/632040/nyc-influencers-boring-tiktok-algorithms)
- - [Google Pixel 9a hands-on: an iPhone 16e rival with a 120Hz display and water drop-inspired camera bump, priced for $300 less than the Pixel 9 with few tradeoffs &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/250319/p25#a250319p25)<!-- TECH:END -->
+ - [Sorry, Microsoft has fixed the Copilot automatic uninstall bug](https://www.theverge.com/news/632523/microsoft-copilot-uninstall-bug-fix)
+ - [What does OpenAI really want from Trump?](https://www.theverge.com/policy/632174/openai-trump-proposal-regulation)
+ - [Nvidia cuts RTX 50-series prices across Europe](https://www.theverge.com/news/632516/nvidia-rtx-50-series-price-cuts-europe-currency-changes)
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
+ - [Boston Dynamics Atlas robot: a full history](https://www.theverge.com/24132451/boston-dynamics-atlas-robot-retirement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump&amp;apos;s 20% tariffs on China, and a potential 25% tariffs on Mexico, the US&amp;apos; two biggest computer equipment import sources, may pile costs on US data centers &lpar;Mark Niquette/Bloomberg&rpar;](http://www.techmeme.com/250319/p18#a250319p18)
+ - [The future of search isn’t Google — and it’s $10 a month](https://www.theverge.com/web/631636/kagi-review-best-search-engine)
  - [Filing: Shopify says it is transitioning its US stock listing to the Nasdaq, nearly 10 years after filing to go public on the NYSE and Toronto Stock Exchange &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250319/p17#a250319p17)
  - [What happened to all the games announced at WWDC 2024](https://appleinsider.com/articles/25/03/18/what-happened-to-all-the-games-announced-at-wwdc-2024?utm_medium=rss)
- - [Windows 11 now lets you easily type with an Xbox controller](https://www.theverge.com/news/632342/microsoft-windows-11-gamepad-keyboard-xbox-controller-available-now)
- - [Tencent reports Q4 revenue up 11% YoY to ~$23.9B, vs. ~$23.4B est., profit up 90% YoY to ~$7B, vs. ~$6.3B est., and domestic game revenue up 23% YoY to ~$4.6B &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250319/p16#a250319p16)
- - [How Reddit became a lifeline for US federal workers in recent months, as Trump cuts the workforce; r/fednews gained millions of visitors since January 2025 &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/250319/p15#a250319p15)<!-- TECH:END -->
+ - [Windows 11 now lets you easily type with an Xbox controller](https://www.theverge.com/news/632342/microsoft-windows-11-gamepad-keyboard-xbox-controller-available-now)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

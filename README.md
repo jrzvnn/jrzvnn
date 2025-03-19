@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Posting memes I found on my smartphone until I get bored or die #1156](http://9gag.com/gag/azxPngx)
- - 😝 [When they made good scripts](http://9gag.com/gag/amoGj9d)
- - 💣 [Gr8 b8 m8 i rate 8/8](http://9gag.com/gag/azxP0Wq)
- - 😝 [3 V 1](http://9gag.com/gag/aZZwOAp)
- - 👉 [Never forget](http://9gag.com/gag/a87mZvp)<!-- MEMES:END -->
+ - 😝 [Those who have been though hell don&#39;t get scared by sparks](http://9gag.com/gag/aAyE8Yd)
+ - 😝 [Gr8 b8 m8 i rate 8/8](http://9gag.com/gag/azxP0Wq)
+ - 💣 [Stop lying!](http://9gag.com/gag/aD2npdK)
+ - 😝 [Female Bodybuilders vs 16 year old farmers.](http://9gag.com/gag/aXPND4g)
+ - 👉 [Guy loses all in to a royal flush with quad aces in poker, a 1/2,7 billion chance of happening](http://9gag.com/gag/an7n6On)<!-- MEMES:END -->
 
 ---
 

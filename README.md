@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The power of Dads!](http://9gag.com/gag/aO846m3)
- - 😝 [Ah man... noo. She was the chosen one](http://9gag.com/gag/aNDv7xb)
- - 💣 [Give me your best tips and tricks you got](http://9gag.com/gag/an7nLvn)
- - 😝 [When your mom farted.](http://9gag.com/gag/aByLDvz)
- - 👉 [The Japanese would approve this appropriate change!](http://9gag.com/gag/aAyEjYZ)<!-- MEMES:END -->
+ - 😝 [Agame where you can&#39;t react](http://9gag.com/gag/a6Z9voA)
+ - 😝 [Person tries to lay a trap and ends up getting obliterated](http://9gag.com/gag/a0eV2Oz)
+ - 💣 [She threw it straight in the hands of her father](http://9gag.com/gag/adBOZ0D)
+ - 😝 [Never forget](http://9gag.com/gag/a87mZvp)
+ - 👉 [Guy loses all in to a royal flush with quad aces in poker, a 1/2,7 billion chance of happening](http://9gag.com/gag/an7n6On)<!-- MEMES:END -->
 
 ---
 

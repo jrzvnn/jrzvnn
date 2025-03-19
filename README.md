@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tow truck driver](http://9gag.com/gag/azxPNGz)
- - 😝 [When they made good scripts](http://9gag.com/gag/amoGj9d)
- - 💣 [Gr8 b8 m8 i rate 8/8](http://9gag.com/gag/azxP0Wq)
+ - 😝 [Gr8 b8 m8 i rate 8/8](http://9gag.com/gag/azxP0Wq)
  - 😝 [Priorities](http://9gag.com/gag/a34A6Gm)
- - 👉 [Guy loses all in to a royal flush with quad aces in poker, a 1/2,7 billion chance of happening](http://9gag.com/gag/an7n6On)<!-- MEMES:END -->
+ - 💣 [Tow truck driver](http://9gag.com/gag/azxPNGz)
+ - 😝 [Stop lying!](http://9gag.com/gag/aD2npdK)
+ - 👉 [Those who have been though hell don&#39;t get scared by sparks](http://9gag.com/gag/aAyE8Yd)<!-- MEMES:END -->
 
 ---
 

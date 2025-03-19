@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump&amp;apos;s 20% tariffs on China, and a potential 25% tariffs on Mexico, the US&amp;apos; two biggest computer equipment import sources, may pile costs on US data centers &lpar;Mark Niquette/Bloomberg&rpar;](http://www.techmeme.com/250319/p18#a250319p18)
- - [The future of search isn’t Google — and it’s $10 a month](https://www.theverge.com/web/631636/kagi-review-best-search-engine)
- - [Filing: Shopify says it is transitioning its US stock listing to the Nasdaq, nearly 10 years after filing to go public on the NYSE and Toronto Stock Exchange &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250319/p17#a250319p17)
- - [What happened to all the games announced at WWDC 2024](https://appleinsider.com/articles/25/03/18/what-happened-to-all-the-games-announced-at-wwdc-2024?utm_medium=rss)
- - [Windows 11 now lets you easily type with an Xbox controller](https://www.theverge.com/news/632342/microsoft-windows-11-gamepad-keyboard-xbox-controller-available-now)<!-- TECH:END -->
+ - [BlackRock, Microsoft, and Abu Dhabi&amp;apos;s MGX say Nvidia and xAI joined a consortium to build AI infrastructure in the US; investors committed $100B for deployment &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/250319/p20#a250319p20)
+ - [A look at Israeli spyware company Paragon, which makes Graphite: suspected deployments in Australia, Canada, Cyprus, and others, a WhatsApp zero-click, and more &lpar;The Citizen Lab&rpar;](http://www.techmeme.com/250319/p19#a250319p19)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Former USAID employees are still stuck with their work devices](https://www.theverge.com/policy/632098/trump-phone-laptop-security-doge-usaid)
+ - [UK&#39;s Apple iCloud encryption fight could lead to similar demands elsewhere](https://appleinsider.com/articles/25/03/19/uks-apple-icloud-encryption-fight-could-lead-to-similar-demands-elsewhere?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

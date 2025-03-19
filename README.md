@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Motivation to survival\ud83e\udee3](http://9gag.com/gag/aW4LKYA)
  - 😝 [Those who have been though hell don&#39;t get scared by sparks](http://9gag.com/gag/aAyE8Yd)
- - 😝 [She threw it straight in the hands of her father](http://9gag.com/gag/adBOZ0D)
- - 💣 [Priorities](http://9gag.com/gag/a34A6Gm)
- - 😝 [Show the ugliest car ever built](http://9gag.com/gag/axyvxYp)
- - 👉 [In 1979 kenny powers attempted to jump his car from Canada into the United States](http://9gag.com/gag/aGy8WQw)<!-- MEMES:END -->
+ - 💣 [3 V 1](http://9gag.com/gag/aZZwOAp)
+ - 😝 [This absolutely insane and no one is talking about it!](http://9gag.com/gag/aVvEp0K)
+ - 👉 [Female Bodybuilders vs 16 year old farmers.](http://9gag.com/gag/aXPND4g)<!-- MEMES:END -->
 
 ---
 

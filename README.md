@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Current and former employees say the FTC removed 300+ business guidance blogs from the Biden era, including info on AI consumer protection and Big Tech lawsuits &lpar;Makena Kelly/Wired&rpar;](http://www.techmeme.com/250319/p5#a250319p5)
+ - [Chinese firms like Alibaba, Baidu and DeepSeek are open sourcing AI models to bypass US curbs, decentralize development, and tap global talent for refinement &lpar;June Yoon/Financial Times&rpar;](http://www.techmeme.com/250319/p4#a250319p4)
+ - [US sanctions, export controls, and tariff threats are driving TSMC&amp;apos;s Taiwan peers, including Foxconn, server maker Wiwynn, and Quanta, to expand US production &lpar;Bloomberg&rpar;](http://www.techmeme.com/250319/p3#a250319p3)
  - [NordVPN Coupon and Discount Codes: 77% Off](https://www.wired.com/story/nordvpn-coupon/)
- - [Global VR headset shipments fell 12% YoY in 2024, with Meta&amp;apos;s market share rising to 84%; Vision Pro shipments fell 43% QoQ in Q4, but its enterprise sales grew &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250319/p2#a250319p2)
- - [Adidas Promo Codes &amp; Deals: Up to 50% Off in March 2025](https://www.wired.com/story/adidas-promo-code/)
- - [Top KitchenAid Promo Codes and Coupons](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [Microsoft partners with Swiss startup Inait to deploy an AI model that simulates mammal brain reasoning to advance fields like financial trading and robotics &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/250319/p1#a250319p1)<!-- TECH:END -->
+ - [Global VR headset shipments fell 12% YoY in 2024, with Meta&amp;apos;s market share rising to 84%; Vision Pro shipments fell 43% QoQ in Q4, but its enterprise sales grew &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250319/p2#a250319p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

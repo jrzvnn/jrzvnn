@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LincPlus LincStation N2 review: All-SSD network storage, with style](https://appleinsider.com/articles/25/03/19/lincplus-lincstation-n2-review-all-ssd-network-storage-with-style?utm_medium=rss)
  - [Feds charge director with $11 million fraud over his unfinished Netflix show](https://www.theverge.com/news/632264/netflix-carl-rinsch-white-horse-fraud-charges)
  - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
  - [Democratic FTC commissioners say they were just ‘illegally fired’ by President Trump](https://www.theverge.com/news/632267/democratic-ftc-commissioners-alvaro-bedoya-rebecca-kelly-slaughter-illegally-fired-trump)
- - [Community Notes, on X and now rolling out on Meta&#39;s services, fall short of stopping misinformation; removing rewards for posting misinformation would help more &lpar;Bloomberg.com&rpar;](http://www.techmeme.com/250318/p47#a250318p47)
- - [Sources: investors valued X at $44B in a secondary deal earlier this month; X posted ~$1.2B in adjusted EBITDA in 2024 and is raising $2B in a primary round &lpar;Financial Times&rpar;](http://www.techmeme.com/250318/p46#a250318p46)<!-- TECH:END -->
+ - [Community Notes, on X and now rolling out on Meta&#39;s services, fall short of stopping misinformation; removing rewards for posting misinformation would help more &lpar;Bloomberg.com&rpar;](http://www.techmeme.com/250318/p47#a250318p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

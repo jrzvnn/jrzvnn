@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [There’s a big sale on the Pixel 9 Pro and Pixel 9 Pro XL right now](https://www.theverge.com/good-deals/632645/google-pixel-9-pro-xl-eero-pro-6e-deal-sale)
+ - [Microsoft has a new strategy chief to navigate its AI era](https://www.theverge.com/notepad-microsoft-newsletter/632830/microsoft-kathleen-hogan-strategy-chief-notepad)
  - [Verizon says its satellite messaging service is now available to owners of Pixel 9 and Galaxy S25 series phones at no extra charge &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/250319/p36#a250319p36)
  - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
- - [All the news about Netflix’s gaming efforts](https://www.theverge.com/22772589/netflix-video-games-app-news-updates)
- - [Netflix Games is getting its first MMO](https://www.theverge.com/news/632526/spirit-crossing-netflix-games-mmo-spry-fox)
- - [Andor creator refuses to publish scripts thanks to AI](https://www.theverge.com/news/632613/andor-tony-gilroy-ai-star-wars-training-copyright)<!-- TECH:END -->
+ - [All the news about Netflix’s gaming efforts](https://www.theverge.com/22772589/netflix-video-games-app-news-updates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

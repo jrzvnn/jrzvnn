@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No no no hail yes](http://9gag.com/gag/aLneYEV)
- - 😝 [Tow truck driver](http://9gag.com/gag/azxPNGz)
- - 💣 [Female Bodybuilders vs 16 year old farmers.](http://9gag.com/gag/aXPND4g)
- - 😝 [Give me your best tips and tricks you got](http://9gag.com/gag/an7nLvn)
- - 👉 [Guy loses all in to a royal flush with quad aces in poker, a 1/2,7 billion chance of happening](http://9gag.com/gag/an7n6On)<!-- MEMES:END -->
+ - 😝 [Those who have been though hell don&#39;t get scared by sparks](http://9gag.com/gag/aAyE8Yd)
+ - 😝 [Priorities](http://9gag.com/gag/a34A6Gm)
+ - 💣 [Stop lying!](http://9gag.com/gag/aD2npdK)
+ - 😝 [Female Bodybuilders vs 16 year old farmers.](http://9gag.com/gag/aXPND4g)
+ - 👉 [Show the ugliest car ever built](http://9gag.com/gag/axyvxYp)<!-- MEMES:END -->
 
 ---
 

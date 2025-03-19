@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says more changes to Search in the EU would &quot;reduce traffic to European businesses&quot; and changes to the Play Store may expose users to &quot;malware and fraud&quot; &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/250319/p37#a250319p37)
- - [There’s a big sale on the Pixel 9 Pro and Pixel 9 Pro XL right now](https://www.theverge.com/good-deals/632645/google-pixel-9-pro-xl-eero-pro-6e-deal-sale)
- - [Google Pixel 9A Live Updates: Release Date, Specs, Price](https://www.cnet.com/tech/mobile/google-pixel-9a-live-updates-release-date-specs-price/#ftag=CAD590a51e)
- - [Microsoft has a new strategy chief to navigate its AI era](https://www.theverge.com/notepad-microsoft-newsletter/632830/microsoft-kathleen-hogan-strategy-chief-notepad)
- - [The EU Won&#39;t Stop Apple From Making a Port-Free iPhone. That Doesn&#39;t Mean It Will](https://www.cnet.com/tech/mobile/the-eu-wont-stop-apple-from-making-a-port-free-iphone-that-doesnt-mean-it-will/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
+ - [The airport panopticon is getting people deported and detained](https://www.theverge.com/policy/632843/cbp-phone-search-airport-arrest-mass-deportations)
+ - [Plex announces price increases for 2025, remote streaming of personal media no longer free](https://appleinsider.com/articles/25/03/19/plex-announces-price-increases-for-2025-remote-streaming-of-personal-media-no-longer-free?utm_medium=rss)
+ - [A group of cross-discipline video game workers in the US and Canada announce a direct-join union called the United Videogame Workers, organizing with the CWA &lpar;Rebekah Valentine/IGN&rpar;](http://www.techmeme.com/250319/p38#a250319p38)
+ - [Google says more changes to Search in the EU would &quot;reduce traffic to European businesses&quot; and changes to the Play Store may expose users to &quot;malware and fraud&quot; &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/250319/p37#a250319p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

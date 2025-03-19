@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Plex Pass is going up in price — and now you&amp;#8217;ll need it for remote playback](https://www.theverge.com/news/632631/plex-subscription-price-increase-remote-playback)
+ - [Streaming services keep getting more expensive: all the latest price increases](https://www.theverge.com/23901586/streaming-service-prices-netflix-disney-hulu-peacock-max)
+ - [A new iPhone 16e survey overlooks who the device is for](https://appleinsider.com/articles/25/03/19/a-new-iphone-16e-survey-overlooks-who-the-device-is-for?utm_medium=rss)
  - [Sources: X has raised close to $1B in new equity in a deal that values the company at roughly $32B; Musk also participated in the raise &lpar;Bloomberg&rpar;](http://www.techmeme.com/250319/p32#a250319p32)
- - [Sources: Nvidia acquires Gretel, which offers synthetic data tools, for more than its most recent $320M valuation; Pitchbook: Gretel had previously raised $67M+ &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250319/p31#a250319p31)
- - [All the news about Netflix’s gaming efforts](https://www.theverge.com/22772589/netflix-video-games-app-news-updates)
- - [Amazon issues record-breaking $1,249 Apple Studio Display deal &lpar;save $350&rpar;](https://appleinsider.com/articles/25/03/19/amazon-issues-record-breaking-1249-apple-studio-display-deal-save-350?utm_medium=rss)
- - [A three-judge panel in US appeals court ruled, in a case involving AI generated poetry, that the Copyright Act requires human authorship for registration &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/250319/p30#a250319p30)<!-- TECH:END -->
+ - [Sources: Nvidia acquires Gretel, which offers synthetic data tools, for more than its most recent $320M valuation; Pitchbook: Gretel had previously raised $67M+ &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250319/p31#a250319p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

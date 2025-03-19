@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Give me your best tips and tricks you got](http://9gag.com/gag/an7nLvn)
- - 😝 [Totally not a coup](http://9gag.com/gag/aPAPOKR)
- - 💣 [The power of Dads!](http://9gag.com/gag/aO846m3)
- - 😝 [Gr8 b8 m8 i rate 8/8](http://9gag.com/gag/azxP0Wq)
- - 👉 [This guy is hated now for doing this ?](http://9gag.com/gag/aW4LVM4)<!-- MEMES:END -->
+ - 😝 [Agame where you can&#39;t react](http://9gag.com/gag/a6Z9voA)
+ - 😝 [The power of Dads!](http://9gag.com/gag/aO846m3)
+ - 💣 [Gr8 b8 m8 i rate 8/8](http://9gag.com/gag/azxP0Wq)
+ - 😝 [A Carrot Distracts a Doe While Her Kits Are Moved](http://9gag.com/gag/aryAPp6)
+ - 👉 [Models in nerds environment](http://9gag.com/gag/a2v8BAO)<!-- MEMES:END -->
 
 ---
 

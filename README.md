@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Female Bodybuilders vs 16 year old farmers.](http://9gag.com/gag/aXPND4g)
- - 😝 [Thank you joeyswoll](http://9gag.com/gag/aD2nEPw)
- - 💣 [I need a sleep Premium version](http://9gag.com/gag/a9yvQ6m)
- - 😝 [Yes, Common sense](http://9gag.com/gag/aQzQ0Rz)
- - 👉 [She threw it straight in the hands of her father](http://9gag.com/gag/adBOZ0D)<!-- MEMES:END -->
+ - 😝 [Posting memes I found on my smartphone until I get bored or die #1156](http://9gag.com/gag/azxPngx)
+ - 😝 [When they made good scripts](http://9gag.com/gag/amoGj9d)
+ - 💣 [Gr8 b8 m8 i rate 8/8](http://9gag.com/gag/azxP0Wq)
+ - 😝 [3 V 1](http://9gag.com/gag/aZZwOAp)
+ - 👉 [Never forget](http://9gag.com/gag/a87mZvp)<!-- MEMES:END -->
 
 ---
 

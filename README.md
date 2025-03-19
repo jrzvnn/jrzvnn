@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Now patched vulnerability left Apple Passwords open to targeted phishing attacks](https://appleinsider.com/articles/25/03/19/now-patched-vulnerability-left-apple-passwords-open-to-targeted-phishing-attacks?utm_medium=rss)
+ - [Sequoia is laying off its Washington, DC-based policy team and shuttering its office there this month, as other VC firms beef up their presence in the city &lpar;Jessica Mathews/Fortune&rpar;](http://www.techmeme.com/250318/p48#a250318p48)
+ - [Google’s Pixel Tablet is $120 off ahead of Amazon’s spring sales event](https://www.theverge.com/good-deals/631847/google-pixel-tablet-assassins-creed-shadows-deal-sale)
  - [LincPlus LincStation N2 review: All-SSD network storage, with style](https://appleinsider.com/articles/25/03/19/lincplus-lincstation-n2-review-all-ssd-network-storage-with-style?utm_medium=rss)
- - [Feds charge director with $11 million fraud over his unfinished Netflix show](https://www.theverge.com/news/632264/netflix-carl-rinsch-white-horse-fraud-charges)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Democratic FTC commissioners say they were just ‘illegally fired’ by President Trump](https://www.theverge.com/news/632267/democratic-ftc-commissioners-alvaro-bedoya-rebecca-kelly-slaughter-illegally-fired-trump)
- - [Community Notes, on X and now rolling out on Meta&#39;s services, fall short of stopping misinformation; removing rewards for posting misinformation would help more &lpar;Bloomberg.com&rpar;](http://www.techmeme.com/250318/p47#a250318p47)<!-- TECH:END -->
+ - [Feds charge director with $11 million fraud over his unfinished Netflix show](https://www.theverge.com/news/632264/netflix-carl-rinsch-white-horse-fraud-charges)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

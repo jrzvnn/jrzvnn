@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You are a champ!](http://9gag.com/gag/aAyKBXZ)
- - 😝 [Gr8 b8 m8 i rate 8/8](http://9gag.com/gag/azxP0Wq)
- - 💣 [Show the ugliest car ever built](http://9gag.com/gag/axyvxYp)
+ - 😝 [For real, what\u2019s up with this sh!t?](http://9gag.com/gag/amoGDn4)
  - 😝 [This guy is hated now for doing this ?](http://9gag.com/gag/aW4LVM4)
+ - 💣 [Give me your best tips and tricks you got](http://9gag.com/gag/an7nLvn)
+ - 😝 [When your mom farted.](http://9gag.com/gag/aByLDvz)
  - 👉 [Models in nerds environment](http://9gag.com/gag/a2v8BAO)<!-- MEMES:END -->
 
 ---

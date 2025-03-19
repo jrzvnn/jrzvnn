@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thank you joeyswoll](http://9gag.com/gag/aD2nEPw)
- - 😝 [Yes, Common sense](http://9gag.com/gag/aQzQ0Rz)
- - 💣 [I need a sleep Premium version](http://9gag.com/gag/a9yvQ6m)
- - 😝 [Female Bodybuilders vs 16 year old farmers.](http://9gag.com/gag/aXPND4g)
- - 👉 [The return of Vampurr](http://9gag.com/gag/aMVmpKV)<!-- MEMES:END -->
+ - 😝 [What&#39;s the probability?](http://9gag.com/gag/a6Z90n9)
+ - 😝 [Stop lying!](http://9gag.com/gag/aD2npdK)
+ - 💣 [Give me your best tips and tricks you got](http://9gag.com/gag/an7nLvn)
+ - 😝 [Show the ugliest car ever built](http://9gag.com/gag/axyvxYp)
+ - 👉 [Female Bodybuilders vs 16 year old farmers.](http://9gag.com/gag/aXPND4g)<!-- MEMES:END -->
 
 ---
 

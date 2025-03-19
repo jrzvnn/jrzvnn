@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Shopify says it is transitioning its US stock listing to the Nasdaq, nearly 10 years after filing to go public on the NYSE and Toronto Stock Exchange &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250319/p17#a250319p17)
+ - [What happened to all the games announced at WWDC 2024](https://appleinsider.com/articles/25/03/18/what-happened-to-all-the-games-announced-at-wwdc-2024?utm_medium=rss)
  - [Windows 11 now lets you easily type with an Xbox controller](https://www.theverge.com/news/632342/microsoft-windows-11-gamepad-keyboard-xbox-controller-available-now)
  - [Tencent reports Q4 revenue up 11% YoY to ~$23.9B, vs. ~$23.4B est., profit up 90% YoY to ~$7B, vs. ~$6.3B est., and domestic game revenue up 23% YoY to ~$4.6B &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250319/p16#a250319p16)
- - [How Reddit became a lifeline for US federal workers in recent months, as Trump cuts the workforce; r/fednews gained millions of visitors since January 2025 &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/250319/p15#a250319p15)
- - [Best MacBooks &lpar;2025&rpar;: Which Apple Laptop Should You Buy?](https://www.wired.com/story/which-macbook-should-you-buy/)
- - [How Trump closing CBP One, an app launched in 2020 to let immigrants schedule CBP asylum appointments, is a gift to Mexican cartels&amp;apos; smuggling operations &lpar;Michael Scott Moore/Bloomberg&rpar;](http://www.techmeme.com/250319/p14#a250319p14)<!-- TECH:END -->
+ - [How Reddit became a lifeline for US federal workers in recent months, as Trump cuts the workforce; r/fednews gained millions of visitors since January 2025 &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/250319/p15#a250319p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

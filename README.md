@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Tow truck driver](http://9gag.com/gag/azxPNGz)
- - 😝 [Stop lying!](http://9gag.com/gag/aD2npdK)
- - 💣 [Show the ugliest car ever built](http://9gag.com/gag/axyvxYp)
- - 😝 [Female Bodybuilders vs 16 year old farmers.](http://9gag.com/gag/aXPND4g)
- - 👉 [Never forget](http://9gag.com/gag/a87mZvp)<!-- MEMES:END -->
+ - 😝 [Show the ugliest car ever built](http://9gag.com/gag/axyvxYp)
+ - 💣 [Guy loses all in to a royal flush with quad aces in poker, a 1/2,7 billion chance of happening](http://9gag.com/gag/an7n6On)
+ - 😝 [Agame where you can&#39;t react](http://9gag.com/gag/a6Z9voA)
+ - 👉 [Stop lying!](http://9gag.com/gag/aD2npdK)<!-- MEMES:END -->
 
 ---
 

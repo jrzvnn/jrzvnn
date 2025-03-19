@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sue me!](http://9gag.com/gag/an7nmwn)
- - 😝 [Instagram hell](http://9gag.com/gag/aoyVB1x)
- - 💣 [Give me your best tips and tricks you got](http://9gag.com/gag/an7nLvn)
- - 😝 [Damn China at least you removed the blood But it&#39;s extreme](http://9gag.com/gag/ajPO258)
- - 👉 [Never forget](http://9gag.com/gag/a87mZvp)<!-- MEMES:END -->
+ - 😝 [Thank you joeyswoll](http://9gag.com/gag/aD2nEPw)
+ - 😝 [Yes, Common sense](http://9gag.com/gag/aQzQ0Rz)
+ - 💣 [I need a sleep Premium version](http://9gag.com/gag/a9yvQ6m)
+ - 😝 [Female Bodybuilders vs 16 year old farmers.](http://9gag.com/gag/aXPND4g)
+ - 👉 [The return of Vampurr](http://9gag.com/gag/aMVmpKV)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Verizon’s free satellite messaging service is now available](https://www.theverge.com/news/632618/verizon-satellite-messaging-samsung-s25-pixel-9)
  - [Apple&#39;s iPhone 16e 5G surpasses iPhone 16 in most real-world speed tests](https://appleinsider.com/articles/25/03/19/apples-iphone-16e-5g-surpasses-iphone-16-in-most-real-world-speed-tests?utm_medium=rss)
  - [The EU is betraying iPhone users and weakening privacy for political gain](https://appleinsider.com/articles/25/03/19/the-eu-is-betraying-its-users-and-weakening-their-privacy-for-political-gain?utm_medium=rss)
  - [Pavel Durov says Telegram now has 1B+ MAUs, up from 950M in July 2024, and made $547M in profits in 2024, and calls WhatsApp &quot;a cheap, watered-down imitation&quot; &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250319/p34#a250319p34)
- - [Here are all the Nvidia DGX Spark versions so far](https://www.theverge.com/news/632685/asus-ascent-gx10-dell-pro-max-gb10-hp-zgx-nano-nvidia-ai)
- - [Europe is trying to get non-Apple smartwatches to work better with iPhones](https://www.theverge.com/news/632718/europe-digital-markets-act-apple-interoperability-smartwatches)<!-- TECH:END -->
+ - [Here are all the Nvidia DGX Spark versions so far](https://www.theverge.com/news/632685/asus-ascent-gx10-dell-pro-max-gb10-hp-zgx-nano-nvidia-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

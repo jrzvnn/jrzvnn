@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mortgage Forecast This Week: Fed Holds Rates Steady Amid Economic Uncertainty](https://www.cnet.com/personal-finance/mortgage-forecast-this-week-fed-holds-rates-steady-amid-economic-uncertainty/#ftag=CAD590a51e)
+ - [31 Best Mother&#39;s Day Gifts for Every Kind of Mom in 2025](https://www.cnet.com/news/best-mothers-day-gifts/#ftag=CAD590a51e)
  - [OpenAI launches o1-pro, which uses more compute than o1 for &quot;consistently better responses&quot;, to some devs for $150/1M input tokens and $600/1M output tokens &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250319/p41#a250319p41)
  - [Sources: CoreWeave plans to offer shares at $47 to $55 each when it begins marketing its IPO this week, aiming to raise between $2.3B and $2.7B &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/250319/p40#a250319p40)
- - [Fired FTC commissioner warns of the ‘corrupting influence of billionaires’](https://www.theverge.com/news/632944/democratic-ftc-commissioner-alvaro-bedoya-tech-billionaires-trump)
- - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
- - [Apple won&#39;t be forced into allowing third party app marketplaces in Brazil, for now](https://appleinsider.com/articles/25/03/19/apple-wont-be-forced-into-allowing-third-party-app-marketplaces-in-brazil-for-now?utm_medium=rss)<!-- TECH:END -->
+ - [Fired FTC commissioner warns of the ‘corrupting influence of billionaires’](https://www.theverge.com/news/632944/democratic-ftc-commissioner-alvaro-bedoya-tech-billionaires-trump)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

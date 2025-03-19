@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Carrot Distracts a Doe While Her Kits Are Moved](http://9gag.com/gag/aryAPp6)
- - 😝 [Why every time](http://9gag.com/gag/axyvXwY)
- - 💣 [The power of Dads!](http://9gag.com/gag/aO846m3)
- - 😝 [The Japanese would approve this appropriate change!](http://9gag.com/gag/aAyEjYZ)
- - 👉 [Agame where you can&#39;t react](http://9gag.com/gag/a6Z9voA)<!-- MEMES:END -->
+ - 😝 [The power of Dads!](http://9gag.com/gag/aO846m3)
+ - 😝 [Motivation to survival\ud83e\udee3](http://9gag.com/gag/aW4LKYA)
+ - 💣 [Give me your best tips and tricks you got](http://9gag.com/gag/an7nLvn)
+ - 😝 [LBD](http://9gag.com/gag/ayN4OQM)
+ - 👉 [Never forget](http://9gag.com/gag/a87mZvp)<!-- MEMES:END -->
 
 ---
 

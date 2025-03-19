@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gr8 b8 m8 i rate 8/8](http://9gag.com/gag/azxP0Wq)
- - 😝 [Oh boy...](http://9gag.com/gag/a4PzX0m)
- - 💣 [Priorities](http://9gag.com/gag/a34A6Gm)
- - 😝 [You\u2019ve been a bad boy](http://9gag.com/gag/aLnexvW)
- - 👉 [It&#39;s so good I think it&#39;s bad for my health](http://9gag.com/gag/azxPWbq)<!-- MEMES:END -->
+ - 😝 [It&#39;s so good I think it&#39;s bad for my health](http://9gag.com/gag/azxPWbq)
+ - 😝 [Priorities](http://9gag.com/gag/a34A6Gm)
+ - 💣 [Inspired by nature](http://9gag.com/gag/a87mxne)
+ - 😝 [She threw it straight in the hands of her father](http://9gag.com/gag/adBOZ0D)
+ - 👉 [Gr8 b8 m8 i rate 8/8](http://9gag.com/gag/azxP0Wq)<!-- MEMES:END -->
 
 ---
 

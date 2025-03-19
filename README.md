@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The power of Dads!](http://9gag.com/gag/aO846m3)
- - 😝 [Motivation to survival\ud83e\udee3](http://9gag.com/gag/aW4LKYA)
- - 💣 [Give me your best tips and tricks you got](http://9gag.com/gag/an7nLvn)
- - 😝 [LBD](http://9gag.com/gag/ayN4OQM)
- - 👉 [Never forget](http://9gag.com/gag/a87mZvp)<!-- MEMES:END -->
+ - 😝 [A hidden drawer? No way!](http://9gag.com/gag/aMVmRoR)
+ - 😝 [How can your bill increase when you&#39;re insured\u203d](http://9gag.com/gag/aZZwA5z)
+ - 💣 [Totally not a coup](http://9gag.com/gag/aPAPOKR)
+ - 😝 [Agame where you can&#39;t react](http://9gag.com/gag/a6Z9voA)
+ - 👉 [Instagram hell](http://9gag.com/gag/aoyVB1x)<!-- MEMES:END -->
 
 ---
 

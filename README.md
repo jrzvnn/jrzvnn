@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Playdate has been out since April 2022 — here’s how it’s going](https://www.theverge.com/23733264/panic-playdate-handheld-gameboy-season-one-two)
- - [Leaked iPhone 17 Air case back up camera bar claims](https://appleinsider.com/articles/25/03/19/leaked-iphone-17-air-case-back-up-camera-bar-claims?utm_medium=rss)
- - [Nvidia says &amp;#8216;the age of generalist robotics is here&amp;#8217;](https://www.theverge.com/news/631743/nvidia-issac-groot-n1-robotics-foundation-model-available)
- - [Why Google made a $32 billion bet on Wiz](https://www.theverge.com/ai-artificial-intelligence/632167/google-wiz-acquisition-cloud-security-ai)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Ripple CEO Brad Garlinghouse says the US SEC is set to drop an appeal in its case against Ripple, ending a long-standing legal battle over XRP &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/250319/p22#a250319p22)
+ - [Utila, which offers a multi-party computation crypto wallet service, raised an $18M Series A led by Nyca Partners, taking its total funding to $30M &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/250319/p21#a250319p21)
+ - [Amazon is blundering into an AI copyright nightmare](https://www.theverge.com/tech/631651/amazon-alexa-suno-ai-generated-song-copyright-nightmare)
+ - [The Playdate has been out since April 2022 — here’s how it’s going](https://www.theverge.com/23733264/panic-playdate-handheld-gameboy-season-one-two)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

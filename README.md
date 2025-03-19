@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jensen Huang says Nvidia has not been approached about purchasing a stake in Intel, following a report about a consortium with TSMC to operate Intel&#39;s factories &lpar;Reuters&rpar;](http://www.techmeme.com/250319/p42#a250319p42)
  - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
  - [Mortgage Forecast This Week: Fed Holds Rates Steady Amid Economic Uncertainty](https://www.cnet.com/personal-finance/mortgage-forecast-this-week-fed-holds-rates-steady-amid-economic-uncertainty/#ftag=CAD590a51e)
  - [31 Best Mother&#39;s Day Gifts for Every Kind of Mom in 2025](https://www.cnet.com/news/best-mothers-day-gifts/#ftag=CAD590a51e)
- - [OpenAI launches o1-pro, which uses more compute than o1 for &quot;consistently better responses&quot;, to some devs for $150/1M input tokens and $600/1M output tokens &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250319/p41#a250319p41)
- - [Sources: CoreWeave plans to offer shares at $47 to $55 each when it begins marketing its IPO this week, aiming to raise between $2.3B and $2.7B &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/250319/p40#a250319p40)<!-- TECH:END -->
+ - [OpenAI launches o1-pro, which uses more compute than o1 for &quot;consistently better responses&quot;, to some devs for $150/1M input tokens and $600/1M output tokens &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250319/p41#a250319p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

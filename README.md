@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Search charged with breaking EU antitrust rules](https://www.theverge.com/news/618168/google-search-eu-dma-charge-violation)
- - [How the EU’s DMA is changing Big Tech: all of the news and updates](https://www.theverge.com/24040543/eu-dma-digital-markets-act-big-tech-antitrust)
- - [Google says it is &quot;checking on a component quality issue&quot; for the Pixel 9a, delaying its release from March to sometime in April; pre-orders are not yet open &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/250319/p29#a250319p29)
- - [Tesla crash victims’ families worried about Musk’s influence over investigations](https://www.theverge.com/news/632562/tesla-crash-victims-usdot-investigation-water-down)
- - [Google briefly delays Pixel 9A release to investigate &amp;#8216;component quality issue&amp;#8217;](https://www.theverge.com/news/632509/google-pixel-9a-quality-issue-delay)<!-- TECH:END -->
+ - [Sources: Nvidia acquires Gretel, which offers synthetic data tools, for more than its most recent $320M valuation; Pitchbook: Gretel had previously raised $67M+ &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250319/p31#a250319p31)
+ - [All the news about Netflix’s gaming efforts](https://www.theverge.com/22772589/netflix-video-games-app-news-updates)
+ - [Amazon issues record-breaking $1,249 Apple Studio Display deal &lpar;save $350&rpar;](https://appleinsider.com/articles/25/03/19/amazon-issues-record-breaking-1249-apple-studio-display-deal-save-350?utm_medium=rss)
+ - [A three-judge panel in US appeals court ruled, in a case involving AI generated poetry, that the Copyright Act requires human authorship for registration &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/250319/p30#a250319p30)
+ - [How the EU’s DMA is changing Big Tech: all of the news and updates](https://www.theverge.com/24040543/eu-dma-digital-markets-act-big-tech-antitrust)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft partners with Swiss startup Inait to deploy an AI model that simulates mammal brain reasoning to advance fields like financial trading and robotics &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/250319/p1#a250319p1)
  - [A source details how Google built the Pixel 10&amp;apos;s Tensor G5 chip without Samsung&amp;apos;s help, using in-house and off-the-shelf IP, and partnering with Arm and others &lpar;Kamila Wojciechowska/Android Authority&rpar;](http://www.techmeme.com/250318/p53#a250318p53)
  - [Flashpoint: 3.2B credentials were stolen from organizations in 2024, up 33% YoY, of which 2.1B were compromised using info-stealing malware infecting 23M hosts &lpar;Matt Kapko/CyberScoop&rpar;](http://www.techmeme.com/250318/p52#a250318p52)
  - [Sources: the real closer for Wiz and Google executives was President Trump&amp;apos;s election, which brought with it the prospect of a friendlier antitrust review &lpar;Reuters&rpar;](http://www.techmeme.com/250318/p51#a250318p51)
- - [How a VPN stops an ISP from throttling your online activities](https://appleinsider.com/inside/macos/tips/how-a-vpn-stops-an-isp-from-throttling-your-online-activities?utm_medium=rss)
- - [Sources: Indian edtech unicorn PhysicsWallah confidentially filed draft papers for a &amp;amp;#8377;4,600-crore IPO; the startup was valued at $2.8B in September 2024 &lpar;Moneycontrol&rpar;](http://www.techmeme.com/250318/p50#a250318p50)<!-- TECH:END -->
+ - [How a VPN stops an ISP from throttling your online activities](https://appleinsider.com/inside/macos/tips/how-a-vpn-stops-an-isp-from-throttling-your-online-activities?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

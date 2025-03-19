@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Elephant mourns death of her companion of 25 years, refuses to leave her side!](http://9gag.com/gag/ae9OXdB)
- - 😝 [Update 13: Breast cancer has more than halved after 11 weeks of chemo, having an echo to check my heart and then the second round of drugs start. Happy Wednesday my dudes, f**k you all and see you next week.](http://9gag.com/gag/aO846py)
- - 💣 [She threw it straight in the hands of her father](http://9gag.com/gag/adBOZ0D)
- - 😝 [There&#39;s something wrong with this toy](http://9gag.com/gag/an7nAOE)
- - 👉 [Expensive Petroleum](http://9gag.com/gag/aAyEnmL)<!-- MEMES:END -->
+ - 😝 [The power of Dads!](http://9gag.com/gag/aO846m3)
+ - 😝 [Ah man... noo. She was the chosen one](http://9gag.com/gag/aNDv7xb)
+ - 💣 [Give me your best tips and tricks you got](http://9gag.com/gag/an7nLvn)
+ - 😝 [When your mom farted.](http://9gag.com/gag/aByLDvz)
+ - 👉 [The Japanese would approve this appropriate change!](http://9gag.com/gag/aAyEjYZ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [BlackRock, Microsoft, and Abu Dhabi&amp;apos;s MGX say Nvidia and xAI joined a consortium to build AI infrastructure in the US; investors committed $100B for deployment &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/250319/p20#a250319p20)
- - [A look at Israeli spyware company Paragon, which makes Graphite: suspected deployments in Australia, Canada, Cyprus, and others, a WhatsApp zero-click, and more &lpar;The Citizen Lab&rpar;](http://www.techmeme.com/250319/p19#a250319p19)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Former USAID employees are still stuck with their work devices](https://www.theverge.com/policy/632098/trump-phone-laptop-security-doge-usaid)
- - [UK&#39;s Apple iCloud encryption fight could lead to similar demands elsewhere](https://appleinsider.com/articles/25/03/19/uks-apple-icloud-encryption-fight-could-lead-to-similar-demands-elsewhere?utm_medium=rss)<!-- TECH:END -->
+ - [The Playdate has been out since April 2022 — here’s how it’s going](https://www.theverge.com/23733264/panic-playdate-handheld-gameboy-season-one-two)
+ - [Leaked iPhone 17 Air case back up camera bar claims](https://appleinsider.com/articles/25/03/19/leaked-iphone-17-air-case-back-up-camera-bar-claims?utm_medium=rss)
+ - [Nvidia says &amp;#8216;the age of generalist robotics is here&amp;#8217;](https://www.theverge.com/news/631743/nvidia-issac-groot-n1-robotics-foundation-model-available)
+ - [Why Google made a $32 billion bet on Wiz](https://www.theverge.com/ai-artificial-intelligence/632167/google-wiz-acquisition-cloud-security-ai)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

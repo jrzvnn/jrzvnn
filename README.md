@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s so good I think it&#39;s bad for my health](http://9gag.com/gag/azxPWbq)
- - 😝 [What about me?](http://9gag.com/gag/aYQOX27)
- - 💣 [Those who have been though hell don&#39;t get scared by sparks](http://9gag.com/gag/aAyE8Yd)
- - 😝 [Female Bodybuilders vs 16 year old farmers.](http://9gag.com/gag/aXPND4g)
- - 👉 [Show the ugliest car ever built](http://9gag.com/gag/axyvxYp)<!-- MEMES:END -->
+ - 😝 [Gr8 b8 m8 i rate 8/8](http://9gag.com/gag/azxP0Wq)
+ - 😝 [Oh boy...](http://9gag.com/gag/a4PzX0m)
+ - 💣 [Priorities](http://9gag.com/gag/a34A6Gm)
+ - 😝 [You\u2019ve been a bad boy](http://9gag.com/gag/aLnexvW)
+ - 👉 [It&#39;s so good I think it&#39;s bad for my health](http://9gag.com/gag/azxPWbq)<!-- MEMES:END -->
 
 ---
 

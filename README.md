@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The $5 regret](http://9gag.com/gag/aAyKBpd)
- - 😝 [Update 13: Breast cancer has more than halved after 11 weeks of chemo, having an echo to check my heart and then the second round of drugs start. Happy Wednesday my dudes, f**k you all and see you next week.](http://9gag.com/gag/aO846py)
- - 💣 [Elephant mourns death of her companion of 25 years, refuses to leave her side!](http://9gag.com/gag/ae9OXdB)
- - 😝 [Expensive Petroleum](http://9gag.com/gag/aAyEnmL)
- - 👉 [First Tesla, now Starlink ,bye bye Elon.](http://9gag.com/gag/aKGv4qg)<!-- MEMES:END -->
+ - 😝 [You are a champ!](http://9gag.com/gag/aAyKBXZ)
+ - 😝 [Gr8 b8 m8 i rate 8/8](http://9gag.com/gag/azxP0Wq)
+ - 💣 [Show the ugliest car ever built](http://9gag.com/gag/axyvxYp)
+ - 😝 [This guy is hated now for doing this ?](http://9gag.com/gag/aW4LVM4)
+ - 👉 [Models in nerds environment](http://9gag.com/gag/a2v8BAO)<!-- MEMES:END -->
 
 ---
 

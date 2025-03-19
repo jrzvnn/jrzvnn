@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ghost connects its newsletters to the open web](https://www.theverge.com/news/632880/ghost-newsletter-blog-fediverse-activitypub-beta-live)
  - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
  - [The airport panopticon is getting people deported and detained](https://www.theverge.com/policy/632843/cbp-phone-search-airport-arrest-mass-deportations)
  - [Plex announces price increases for 2025, remote streaming of personal media no longer free](https://appleinsider.com/articles/25/03/19/plex-announces-price-increases-for-2025-remote-streaming-of-personal-media-no-longer-free?utm_medium=rss)
- - [A group of cross-discipline video game workers in the US and Canada announce a direct-join union called the United Videogame Workers, organizing with the CWA &lpar;Rebekah Valentine/IGN&rpar;](http://www.techmeme.com/250319/p38#a250319p38)
- - [Google says more changes to Search in the EU would &quot;reduce traffic to European businesses&quot; and changes to the Play Store may expose users to &quot;malware and fraud&quot; &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/250319/p37#a250319p37)<!-- TECH:END -->
+ - [A group of cross-discipline video game workers in the US and Canada announce a direct-join union called the United Videogame Workers, organizing with the CWA &lpar;Rebekah Valentine/IGN&rpar;](http://www.techmeme.com/250319/p38#a250319p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

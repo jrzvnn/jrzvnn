@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung’s One UI 7 is rolling out to Galaxy phones in April](https://www.theverge.com/news/632318/samsung-one-ui-7-rollout-april-galaxy-s24-fold-6-flip-6)
  - [A close look at Nvidia&amp;apos;s GTC 2025 announcements, which focused on addressing pre- and post- training scaling, inference-time scaling working in tandem, and more &lpar;Dylan Patel/SemiAnalysis&rpar;](http://www.techmeme.com/250319/p10#a250319p10)
  - [Bakkt&amp;apos;s stock fell 27%+ on March 18 after the crypto company said that two of its largest clients, Bank of America and Webull, would not renew their agreements &lpar;Stephen Katte/Cointelegraph&rpar;](http://www.techmeme.com/250319/p9#a250319p9)
  - [Jensen Huang says Nvidia will use co-packaged optical tech in two of its upcoming networking chips for its servers, but wider use will have to wait &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250319/p8#a250319p8)
- - [RIAA: US paid music streaming subscriptions hit 100M in 2024; streaming revenue grew 4% YoY to $14.9B; revenue from ad-supported services fell 2% to $1.8B &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/250319/p7#a250319p7)
- - [A look at Waymo&amp;apos;s progress, from Alphabet&amp;apos;s &amp;quot;moonshot&amp;quot; project to achieving commercial deployment in three cities, and its plans for future expansion &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/250319/p6#a250319p6)<!-- TECH:END -->
+ - [RIAA: US paid music streaming subscriptions hit 100M in 2024; streaming revenue grew 4% YoY to $14.9B; revenue from ad-supported services fell 2% to $1.8B &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/250319/p7#a250319p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

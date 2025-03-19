@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She saw a future she wasnt ready for.](http://9gag.com/gag/aNDvNgG)
- - 😝 [Gr8 b8 m8 i rate 8/8](http://9gag.com/gag/azxP0Wq)
- - 💣 [Why every time](http://9gag.com/gag/axyvXwY)
- - 😝 [Models in nerds environment](http://9gag.com/gag/a2v8BAO)
- - 👉 [The Japanese would approve this appropriate change!](http://9gag.com/gag/aAyEjYZ)<!-- MEMES:END -->
+ - 😝 [A Carrot Distracts a Doe While Her Kits Are Moved](http://9gag.com/gag/aryAPp6)
+ - 😝 [Why every time](http://9gag.com/gag/axyvXwY)
+ - 💣 [The power of Dads!](http://9gag.com/gag/aO846m3)
+ - 😝 [The Japanese would approve this appropriate change!](http://9gag.com/gag/aAyEjYZ)
+ - 👉 [Agame where you can&#39;t react](http://9gag.com/gag/a6Z9voA)<!-- MEMES:END -->
 
 ---
 

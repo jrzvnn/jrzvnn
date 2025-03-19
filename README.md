@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Agame where you can&#39;t react](http://9gag.com/gag/a6Z9voA)
- - 😝 [Tow truck driver](http://9gag.com/gag/azxPNGz)
- - 💣 [Give me your best tips and tricks you got](http://9gag.com/gag/an7nLvn)
- - 😝 [Female Bodybuilders vs 16 year old farmers.](http://9gag.com/gag/aXPND4g)
- - 👉 [Show the ugliest car ever built](http://9gag.com/gag/axyvxYp)<!-- MEMES:END -->
+ - 😝 [This guy is hated now for doing this ?](http://9gag.com/gag/aW4LVM4)
+ - 😝 [A Carrot Distracts a Doe While Her Kits Are Moved](http://9gag.com/gag/aryAPp6)
+ - 💣 [The power of Dads!](http://9gag.com/gag/aO846m3)
+ - 😝 [When your mom farted.](http://9gag.com/gag/aByLDvz)
+ - 👉 [Models in nerds environment](http://9gag.com/gag/a2v8BAO)<!-- MEMES:END -->
 
 ---
 

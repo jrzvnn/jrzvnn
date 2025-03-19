@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s so good I think it&#39;s bad for my health](http://9gag.com/gag/azxPWbq)
- - 😝 [Priorities](http://9gag.com/gag/a34A6Gm)
- - 💣 [Inspired by nature](http://9gag.com/gag/a87mxne)
- - 😝 [She threw it straight in the hands of her father](http://9gag.com/gag/adBOZ0D)
- - 👉 [Gr8 b8 m8 i rate 8/8](http://9gag.com/gag/azxP0Wq)<!-- MEMES:END -->
+ - 😝 [But can it run DOOM?](http://9gag.com/gag/awymR94)
+ - 😝 [Female Bodybuilders vs 16 year old farmers.](http://9gag.com/gag/aXPND4g)
+ - 💣 [Thank you joeyswoll](http://9gag.com/gag/aD2nEPw)
+ - 😝 [I need a sleep Premium version](http://9gag.com/gag/a9yvQ6m)
+ - 👉 [Yes, Common sense](http://9gag.com/gag/aQzQ0Rz)<!-- MEMES:END -->
 
 ---
 

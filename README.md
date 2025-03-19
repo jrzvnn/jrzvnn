@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says it is &quot;checking on a component quality issue&quot; for the Pixel 9a, delaying its release from March to sometime in April; pre-orders are not yet open &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/250319/p29#a250319p29)
+ - [Tesla crash victims’ families worried about Musk’s influence over investigations](https://www.theverge.com/news/632562/tesla-crash-victims-usdot-investigation-water-down)
  - [Google briefly delays Pixel 9A release to investigate &amp;#8216;component quality issue&amp;#8217;](https://www.theverge.com/news/632509/google-pixel-9a-quality-issue-delay)
  - [Q&amp;A with Netflix&#39;s Ted Sarandos on his 25-year anniversary at Netflix, his cameo on Apple TV+ series The Studio, competing with suppliers like Disney, and more &lpar;Variety&rpar;](http://www.techmeme.com/250319/p28#a250319p28)
- - [New M4 MacBook Air is great, but MacBook Pro still commands Apple&#39;s laptop business](https://appleinsider.com/articles/25/03/19/new-m4-macbook-air-is-great-but-macbook-pro-still-commands-apples-laptop-business?utm_medium=rss)
- - [Sorry, Microsoft has fixed the Copilot automatic uninstall bug](https://www.theverge.com/news/632523/microsoft-copilot-uninstall-bug-fix)
- - [What does OpenAI really want from Trump?](https://www.theverge.com/policy/632174/openai-trump-proposal-regulation)<!-- TECH:END -->
+ - [New M4 MacBook Air is great, but MacBook Pro still commands Apple&#39;s laptop business](https://appleinsider.com/articles/25/03/19/new-m4-macbook-air-is-great-but-macbook-pro-still-commands-apples-laptop-business?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

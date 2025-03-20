@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Elephant mourns death of her companion of 25 years, refuses to leave her side!](http://9gag.com/gag/ae9OXdB)
- - 😝 [First Tesla, now Starlink ,bye bye Elon.](http://9gag.com/gag/aKGv4qg)
- - 💣 [The $5 regret](http://9gag.com/gag/aAyKBpd)
- - 😝 [I heard that the heroine is a lesbian??? Is that true?](http://9gag.com/gag/a4PNpVd)
- - 👉 [This guy is hated now for doing this ?](http://9gag.com/gag/aW4LVM4)<!-- MEMES:END -->
+ - 😝 [Oh hell noo](http://9gag.com/gag/aD2nEqO)
+ - 😝 [Instagram hell](http://9gag.com/gag/aoyVB1x)
+ - 💣 [A Carrot Distracts a Doe While Her Kits Are Moved](http://9gag.com/gag/aryAPp6)
+ - 😝 [How can your bill increase when you&#39;re insured\u203d](http://9gag.com/gag/aZZwA5z)
+ - 👉 [Lol she crying she sorry after lol](http://9gag.com/gag/an7np5E)<!-- MEMES:END -->
 
 ---
 

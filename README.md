@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lady &lpar;?&rpar; hulk.....](http://9gag.com/gag/ae9OXqQ)
  - 😝 [Don&#39;t be her backup option](http://9gag.com/gag/adBO3KB)
- - 💣 [Stuff men go through](http://9gag.com/gag/an72q3o)
  - 😝 [Definitely not rick roll](http://9gag.com/gag/a5QweoL)
- - 👉 [Pattern recognition is bad, you bigot!](http://9gag.com/gag/aNDvynG)<!-- MEMES:END -->
+ - 💣 [Agame where you can&#39;t react](http://9gag.com/gag/a6Z9voA)
+ - 😝 [Beware of the Pharaoh&#39;s curse](http://9gag.com/gag/a87mPEV)
+ - 👉 [Stuff men go through](http://9gag.com/gag/an72q3o)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The System Shock 2 remaster comes out June 26th](https://www.theverge.com/pc-gaming/633595/system-shock-2-remaster-xbox-playstation-pc-release-date)
+ - [US attorney general re-announces &amp;#8216;severe&amp;#8217; charges against alleged Tesla arsonists](https://www.theverge.com/news/633445/pam-bondi-announces-old-tesla-vandalism-arrests)
  - [Stockholm-based Rerun, which is building a data stack for &quot;Physical AI&quot; like robots and drones, raised a $17M seed, bringing its total funding to $20.2M &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/250320/p42#a250320p42)
  - [Evidence Grows That Dark Energy Changes Over Time](https://www.wired.com/story/hints-grow-stronger-that-dark-energy-changes-over-time/)
- - [Google sues alleged scammers over 10,000 fake Maps listings](https://www.theverge.com/news/633601/google-sues-fake-business-scams-maps)
- - [Researchers unveil Aardvark, an AI weather prediction system that they say uses thousands of times less computing power and is much faster than current methods &lpar;The Guardian&rpar;](http://www.techmeme.com/250320/p41#a250320p41)
- - [Apple TV Plus is reportedly losing $1 billion per year](https://www.theverge.com/news/633591/apple-tv-plus-losing-1-billion)<!-- TECH:END -->
+ - [Google sues alleged scammers over 10,000 fake Maps listings](https://www.theverge.com/news/633601/google-sues-fake-business-scams-maps)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

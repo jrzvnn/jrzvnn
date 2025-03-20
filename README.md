@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Beware of the Pharaoh&#39;s curse](http://9gag.com/gag/a87mPEV)
  - 😝 [Damn China at least you removed the blood But it&#39;s extreme](http://9gag.com/gag/ajPO258)
- - 😝 [Sign me up](http://9gag.com/gag/ayN4O3W)
- - 💣 [Beware of the Pharaoh&#39;s curse](http://9gag.com/gag/a87mPEV)
- - 😝 [When your mom farted.](http://9gag.com/gag/aByLDvz)
- - 👉 [After his divorce, Esposito had to declare bankruptcy, and he considered suicide by arranging his own murder to provide insurance money for his children before being cast in Breaking Bad](http://9gag.com/gag/aGy8WRZ)<!-- MEMES:END -->
+ - 💣 [We Need To Stop Hapiness Before It Spreads. Like True 9gager Dr Hause.](http://9gag.com/gag/a6Z9WvA)
+ - 😝 [Models in nerds environment](http://9gag.com/gag/a2v8BAO)
+ - 👉 [How can your bill increase when you&#39;re insured\u203d](http://9gag.com/gag/aZZwA5z)<!-- MEMES:END -->
 
 ---
 

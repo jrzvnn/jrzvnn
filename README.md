@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Definitely not rick roll](http://9gag.com/gag/a5QweoL)
- - 😝 [A Carrot Distracts a Doe While Her Kits Are Moved](http://9gag.com/gag/aryAPp6)
- - 💣 [Pattern recognition is bad, you bigot!](http://9gag.com/gag/aNDvynG)
- - 😝 [The last remaining continent on the planet has MYSTERIOUSLY erupted in `violence.`](http://9gag.com/gag/ae9ZNyv)
- - 👉 [Close call. It&#39;s like a movie !](http://9gag.com/gag/aByVK81)<!-- MEMES:END -->
+ - 😝 [Chad warden](http://9gag.com/gag/aByVKGQ)
+ - 😝 [I&#39;m just a title](http://9gag.com/gag/axy62YD)
+ - 💣 [You Be Soft](http://9gag.com/gag/aMVP1gA)
+ - 😝 [Men only want one thing and it&#39;s](http://9gag.com/gag/aVvKQRd)
+ - 👉 [If someone breaks into your home, the cops prefer if you shoot them](http://9gag.com/gag/avy60Mq)<!-- MEMES:END -->
 
 ---
 

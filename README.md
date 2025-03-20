@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers unveil Aardvark, an AI weather prediction system that they say uses thousands of times less computing power and is much faster than current methods &lpar;The Guardian&rpar;](http://www.techmeme.com/250320/p41#a250320p41)
+ - [Apple TV Plus is reportedly losing $1 billion per year](https://www.theverge.com/news/633591/apple-tv-plus-losing-1-billion)
  - [Segway is recalling over 200,000 electric scooters that can collapse mid-ride](https://www.theverge.com/news/633575/segway-ninebot-electric-scooter-recall-max-g30p-g30lp)
  - [Comcast and Spectrum join in on the satellite messaging wave](https://www.theverge.com/news/633574/comcast-spectrum-satellite-emergency-messaging)
- - [Assassin&#39;s Creed Shadows now available for Mac, PC, and consoles](https://appleinsider.com/articles/25/03/20/assassins-creed-shadows-now-available-for-mac-pc-and-consoles?utm_medium=rss)
- - [Netflix has a new plan for games](https://www.theverge.com/games/633481/netflix-gaming-strategy-alain-tascan-interview)
- - [The Trump Administration Wants USAID on the Blockchain](https://www.wired.com/story/trump-administration-usaid-blockchain/)<!-- TECH:END -->
+ - [Assassin&#39;s Creed Shadows now available for Mac, PC, and consoles](https://appleinsider.com/articles/25/03/20/assassins-creed-shadows-now-available-for-mac-pc-and-consoles?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

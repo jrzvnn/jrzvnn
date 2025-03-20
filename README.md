@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Beware of the Pharaoh&#39;s curse](http://9gag.com/gag/a87mPEV)
- - 😝 [Damn China at least you removed the blood But it&#39;s extreme](http://9gag.com/gag/ajPO258)
- - 💣 [We Need To Stop Hapiness Before It Spreads. Like True 9gager Dr Hause.](http://9gag.com/gag/a6Z9WvA)
- - 😝 [Models in nerds environment](http://9gag.com/gag/a2v8BAO)
- - 👉 [How can your bill increase when you&#39;re insured\u203d](http://9gag.com/gag/aZZwA5z)<!-- MEMES:END -->
+ - 😝 [This guy is hated now for doing this ?](http://9gag.com/gag/aW4LVM4)
+ - 😝 [I want this to stay on the internet forever](http://9gag.com/gag/aLn4RKz)
+ - 💣 [The power of Dads!](http://9gag.com/gag/aO846m3)
+ - 😝 [Maybe not the best metaphor](http://9gag.com/gag/aoyVb80)
+ - 👉 [You are a champ!](http://9gag.com/gag/aAyKBXZ)<!-- MEMES:END -->
 
 ---
 

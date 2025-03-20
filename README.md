@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Google is improving Gmail’s search with AI](https://www.theverge.com/news/633459/google-gmail-search-ai-most-relevant-results)
  - [Sources: Microsoft chose not to exercise a ~$12B option to buy more data center capacity from CoreWeave; OpenAI snapped up the contract on March 10 &lpar;Semafor&rpar;](http://www.techmeme.com/250320/p39#a250320p39)
- - [Nintendo, Microsoft, and other developers will share accessibility labels about their games](https://www.theverge.com/news/633405/esa-accessible-games-initiative-nintendo-google-microsoft-ea-ubisoft)
- - [Germany&#39;s Munich Re agrees to acquire digital insurance company Next Insurance for $2.6B; Next Insurance has raised ~$1.2B from Capital G, Redpoint, and others &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250320/p38#a250320p38)
- - [The 33 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now &lpar;March 2025&rpar;](https://www.wired.com/story/best-movies-hbo-max-right-now/)<!-- TECH:END -->
+ - [McDonald&#39;s Launching Minecraft Happy Meals, Plus a &#39;Nether Hot Sauce&#39; For Nuggets](https://www.cnet.com/tech/gaming/mcdonalds-launching-minecraft-happy-meals-plus-a-nether-hot-sauce-for-nuggets/#ftag=CAD590a51e)
+ - [Best Robot Vacuums of 2025: These Machines Do the Work for You](https://www.cnet.com/home/kitchen-and-household/best-robot-vacuum/#ftag=CAD590a51e)
+ - [Nintendo, Microsoft, and other developers will share accessibility labels about their games](https://www.theverge.com/news/633405/esa-accessible-games-initiative-nintendo-google-microsoft-ea-ubisoft)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

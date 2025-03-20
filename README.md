@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Andor showrunner Tony Gilroy says the Disney+ show&#39;s scripts will not be released as planned, due to fears that they could be used as AI training data &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/250320/p11#a250320p11)
- - [Analysis: AT&amp;T and Verizon Speedtest users saw higher median download speeds on the iPhone 16e with the C1 modem than the iPhone 16; T-Mobile was the opposite &lpar;Sue Marek/Ookla&rpar;](http://www.techmeme.com/250320/p10#a250320p10)
- - [Google and UCB researchers detail &quot;inference-time search&quot;, which some call a fourth AI scaling law, though experts are skeptical of its usefulness in many cases &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250320/p9#a250320p9)
- - [Apple&#39;s stumble with Vision Pro, followed by falling flat on its face with AI, suggests the company may be slipping into a Vista-like drift of poor execution &lpar;Benedict Evans&rpar;](http://www.techmeme.com/250320/p8#a250320p8)
- - [Sources detail how Jeff Bezos made peace with Trump, with many citing Amazon&#39;s loss of the $10B JEDI contract during Trump&#39;s first term as a watershed moment &lpar;Financial Times&rpar;](http://www.techmeme.com/250320/p7#a250320p7)<!-- TECH:END -->
+ - [The UK&#39;s NCSC urges large entities, including energy and transport firms, to introduce &quot;post-quantum cryptography&quot; by 2035 to protect against quantum hackers &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/250320/p13#a250320p13)
+ - [Bluetti’s Handsfree 1 is the solar backpack I love hating](https://www.theverge.com/reviews/633112/bluetti-handfree-backpack-review-solar-battery-price-specs)
+ - [Crypto-friendly stablecoin legislation is poised to pass the US Senate with support from some pro-crypto Democratic Senators, including Kirsten Gillibrand &lpar;Steven T. Dennis/Bloomberg&rpar;](http://www.techmeme.com/250320/p12#a250320p12)
+ - [Low-Cost Drone Add-Ons From China Let Anyone With a Credit Card Turn Toys Into Weapons of War](https://www.wired.com/story/drone-accessories-weapons-of-war/)
+ - [Andor showrunner Tony Gilroy says the Disney+ show&#39;s scripts will not be released as planned, due to fears that they could be used as AI training data &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/250320/p11#a250320p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

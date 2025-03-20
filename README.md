@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh hell noo](http://9gag.com/gag/aD2nEqO)
- - 😝 [Instagram hell](http://9gag.com/gag/aoyVB1x)
+ - 😝 [Beware of the Pharaoh&#39;s curse](http://9gag.com/gag/a87mPEV)
+ - 😝 [No no no hail yes](http://9gag.com/gag/aLneYEV)
  - 💣 [A Carrot Distracts a Doe While Her Kits Are Moved](http://9gag.com/gag/aryAPp6)
- - 😝 [How can your bill increase when you&#39;re insured\u203d](http://9gag.com/gag/aZZwA5z)
- - 👉 [Lol she crying she sorry after lol](http://9gag.com/gag/an7np5E)<!-- MEMES:END -->
+ - 😝 [Pattern recognition is bad, you bigot!](http://9gag.com/gag/aNDvynG)
+ - 👉 [Drugs are bad for you, mmkay?](http://9gag.com/gag/aPAPKVq)<!-- MEMES:END -->
 
 ---
 

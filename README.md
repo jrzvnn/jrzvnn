@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Threads rolls out new features: ability to set following feed or any custom feed as the default, limit post replies to followers, a better video player, more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250320/p34#a250320p34)
+ - [Honda and Acura EV owners will get Tesla Supercharger access this summer](https://www.theverge.com/news/633372/honda-prologue-acura-zdx-tesla-supercharger)
+ - [OpenAI adds gpt-4o-mini-tts, a text-to-speech model that it says delivers more nuanced and realistic-sounding speech, and two speech-to-text models to its API &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250320/p33#a250320p33)
  - [John Giannandrea out as Siri chief, Apple Vision Pro lead in](https://appleinsider.com/articles/25/03/20/john-giannandrea-out-as-siri-chief-apple-vision-pro-lead-in?utm_medium=rss)
- - [Threads finally lets you set the following feed as default](https://www.theverge.com/news/633135/threads-limit-replies-followers-custom-feed-default)
- - [LG shuts down Art Lab, its NFT marketplace for TVs launched in 2022 during the NFT craze; LG Art Lab used the Hedera network and expanded to Ethereum in 2024 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250320/p32#a250320p32)
- - [DOGE Is Doing the Opposite of Government Auditing](https://www.wired.com/story/uncanny-valley-podcast-doge-government-auditing/)
- - [Apple puts the Vision Pro guy in charge of Siri](https://www.theverge.com/news/633358/apple-replace-siri-leader-john-giannandrea)<!-- TECH:END -->
+ - [Threads finally lets you set the following feed as default](https://www.theverge.com/news/633135/threads-limit-replies-followers-custom-feed-default)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

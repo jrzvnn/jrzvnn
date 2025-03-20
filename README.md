@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta will roll out its AI chatbot with text-only features in the EU this week on WhatsApp, Facebook, Instagram, and Messenger, nearly a year after pausing &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250320/p6#a250320p6)
+ - [Early-stage VC Long Journey Ventures, co-led by Cyan Banister, Arielle Zuckerberg, and Lee Jacobs, debuts with a ~$181.818M fund after five years in stealth &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/250320/p5#a250320p5)
+ - [Meta AI is rolling out in Europe after all](https://www.theverge.com/news/632876/meta-ai-europe-whatsapp-facebook-instagram-rollout)
  - [Baidu denies data breach allegations after a top executive&#39;s teenage daughter leaked users&#39; personal info, including phone numbers, following an online argument &lpar;Reuters&rpar;](http://www.techmeme.com/250320/p4#a250320p4)
- - [Analysis: Etsy&#39;s stock, which peaked during the COVID-19 pandemic, has lost its pandemic-era gains, while eBay&#39;s stock is up ~85% since January 2020 &lpar;Hyunsoo Rim/Sherwood News&rpar;](http://www.techmeme.com/250320/p3#a250320p3)
- - [Jensen Huang says Nvidia will spend hundreds of billions on US-made chips and electronics over four years as it shifts supply chains amid Trump&#39;s tariff threats &lpar;Financial Times&rpar;](http://www.techmeme.com/250320/p2#a250320p2)
- - [Sources: crypto exchange Kraken is nearing a $1.5B deal to acquire NinjaTrader, a US retail futures trading platform; the deal could be announced on March 20 &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/250320/p1#a250320p1)
- - [A look at unannounced disconnections from the grid by data centers, which can occur when they switch to local generators and may cause cascading grid failures &lpar;Tim McLaughlin/Reuters&rpar;](http://www.techmeme.com/250319/p48#a250319p48)<!-- TECH:END -->
+ - [Analysis: Etsy&#39;s stock, which peaked during the COVID-19 pandemic, has lost its pandemic-era gains, while eBay&#39;s stock is up ~85% since January 2020 &lpar;Hyunsoo Rim/Sherwood News&rpar;](http://www.techmeme.com/250320/p3#a250320p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

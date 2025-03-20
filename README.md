@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The fart that rules them all](http://9gag.com/gag/axy6N41)
- - 😝 [Beware of the Pharaoh&#39;s curse](http://9gag.com/gag/a87mPEV)
- - 💣 [Close call. It&#39;s like a movie !](http://9gag.com/gag/aByVK81)
  - 😝 [Mattress foam.](http://9gag.com/gag/aAyKYm2)
+ - 💣 [Close call. It&#39;s like a movie !](http://9gag.com/gag/aByVK81)
+ - 😝 [I hate acronyms and I&#39;m always late to the party](http://9gag.com/gag/aoyVr7n)
  - 👉 [IMDB removed rating from Snow White after falling below 2/10](http://9gag.com/gag/aW4nZAn)<!-- MEMES:END -->
 
 ---

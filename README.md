@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Damn China at least you removed the blood But it&#39;s extreme](http://9gag.com/gag/ajPO258)
- - 😝 [Instagram hell](http://9gag.com/gag/aoyVB1x)
- - 💣 [Not all cultures are equal](http://9gag.com/gag/a2v0E1Y)
- - 😝 [Anon loves his girlfriend](http://9gag.com/gag/abAOP9r)
- - 👉 [A Carrot Distracts a Doe While Her Kits Are Moved](http://9gag.com/gag/aryAPp6)<!-- MEMES:END -->
+ - 😝 [Sign me up](http://9gag.com/gag/ayN4O3W)
+ - 💣 [Beware of the Pharaoh&#39;s curse](http://9gag.com/gag/a87mPEV)
+ - 😝 [When your mom farted.](http://9gag.com/gag/aByLDvz)
+ - 👉 [After his divorce, Esposito had to declare bankruptcy, and he considered suicide by arranging his own murder to provide insurance money for his children before being cast in Breaking Bad](http://9gag.com/gag/aGy8WRZ)<!-- MEMES:END -->
 
 ---
 

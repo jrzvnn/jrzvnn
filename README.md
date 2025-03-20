@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Huawei unveils the 6.3&quot; Pura X, which folds to a square clamshell with a 3.5&quot; display, its first flagship running HarmonyOS 5, launching in China for ~$1,036 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250320/p21#a250320p21)
+ - [How Nvidia, SK Hynix, TSMC, and ASML, with a combined $4T+ market cap, dominate the AI supply chain, each having an 80% to 100% market share in their fields &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/250320/p20#a250320p20)
  - [Fujifilm’s GFX100RF puts medium format guts in a compact fixed-lens camera](https://www.theverge.com/news/633093/fujifilm-gfx100rf-camera-features-price)
  - [12 Best Early Amazon Spring Sale Deals &lpar;2025&rpar;](https://www.wired.com/story/amazon-spring-sale-2025/)
- - [A profile of longtime Elon Musk loyalist Steve Davis, who effectively runs DOGE after SpaceX, Boring Company, and X stints, based on interviews with 22 sources &lpar;New York Times&rpar;](http://www.techmeme.com/250320/p19#a250320p19)
- - [Is That Painting a Lost Masterpiece or a Fraud? Let’s Ask AI](https://www.wired.com/story/is-that-painting-a-lost-masterpiece-or-a-fraud-lets-ask-ai/)
- - [US schools spending billions on laptops, an idea supported by technologists and computer makers, has led to students&#39; worsening social skills and test scores &lpar;Michael R. Bloomberg/Bloomberg&rpar;](http://www.techmeme.com/250320/p18#a250320p18)<!-- TECH:END -->
+ - [A profile of longtime Elon Musk loyalist Steve Davis, who effectively runs DOGE after SpaceX, Boring Company, and X stints, based on interviews with 22 sources &lpar;New York Times&rpar;](http://www.techmeme.com/250320/p19#a250320p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

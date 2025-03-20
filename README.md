@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Temu-owner PDD reports Q4 revenue up 24% YoY to ~$15.3B, below est., and net income up 18% YoY to ~$3.8B, after intensifying domestic competition and US tariffs &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250320/p22#a250320p22)
- - [Huawei’s new flip phone is weirdly wide](https://www.theverge.com/news/633159/huawei-pura-x-flip-phone-wide-1610-aspect-ratio-harmonyos-next)
- - [The Best Smart Rings, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-smart-rings/)
- - [Huawei unveils the 6.3&quot; Pura X, which folds to a square clamshell with a 3.5&quot; display, its first flagship running HarmonyOS 5, launching in China for ~$1,036 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250320/p21#a250320p21)
- - [How Nvidia, SK Hynix, TSMC, and ASML, with a combined $4T+ market cap, dominate the AI supply chain, each having an 80% to 100% market share in their fields &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/250320/p20#a250320p20)<!-- TECH:END -->
+ - [Trump eliminating the USAGM cut the budget of the Open Technology Fund, launched in 2012 to let 24M+ people living in repressive regimes access the internet &lpar;Pranshu Verma/Washington Post&rpar;](http://www.techmeme.com/250320/p23#a250320p23)
+ - [13 Best MagSafe Power Banks for iPhones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-power-banks/)
+ - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
+ - [Space science is under threat from the anti-DEI purge](https://www.theverge.com/space/629948/space-science-dei-diversity-nasa-trump)
+ - [Temu-owner PDD reports Q4 revenue up 24% YoY to ~$15.3B, below est., and net income up 18% YoY to ~$3.8B, after intensifying domestic competition and US tariffs &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250320/p22#a250320p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

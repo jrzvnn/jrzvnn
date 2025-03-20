@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Agame where you can&#39;t react](http://9gag.com/gag/a6Z9voA)
- - 😝 [The fact they used a young white boy to represent these type of perpetrators was highly unrepresentative of reality. The makers of this Netflix show must think the public are stupid.](http://9gag.com/gag/aKGvzNN)
- - 💣 [Beware of the Pharaoh&#39;s curse](http://9gag.com/gag/a87mPEV)
- - 😝 [Definitely not rick roll](http://9gag.com/gag/a5QweoL)
- - 👉 [Stuff men go through](http://9gag.com/gag/an72q3o)<!-- MEMES:END -->
+ - 😝 [This guy is hated now for doing this ?](http://9gag.com/gag/aW4LVM4)
+ - 😝 [I heard that the heroine is a lesbian??? Is that true?](http://9gag.com/gag/a4PNpVd)
+ - 💣 [Definitely not rick roll](http://9gag.com/gag/a5QweoL)
+ - 😝 [Chad warden](http://9gag.com/gag/aByVKGQ)
+ - 👉 [Rare map cat](http://9gag.com/gag/aE0AdDe)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For real, what\u2019s up with this sh!t?](http://9gag.com/gag/amoGDn4)
- - 😝 [Models in nerds environment](http://9gag.com/gag/a2v8BAO)
- - 💣 [Show the ugliest car ever built](http://9gag.com/gag/axyvxYp)
- - 😝 [The entire Turkish people are taking to the streets to overthrow Erdogan&#39;s regime.](http://9gag.com/gag/avy6pKd)
- - 👉 [Welcome to Pakistan](http://9gag.com/gag/amoGE6o)<!-- MEMES:END -->
+ - 😝 [It&#39;s getting quite realistic...](http://9gag.com/gag/a1m0vn8)
+ - 😝 [This guy is hated now for doing this ?](http://9gag.com/gag/aW4LVM4)
+ - 💣 [A Carrot Distracts a Doe While Her Kits Are Moved](http://9gag.com/gag/aryAPp6)
+ - 😝 [The power of Dads!](http://9gag.com/gag/aO846m3)
+ - 👉 [You are a champ!](http://9gag.com/gag/aAyKBXZ)<!-- MEMES:END -->
 
 ---
 

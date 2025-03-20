@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [We’ve entered a forever war with bird flu](https://www.theverge.com/science/632605/forever-war-with-bird-flu)
  - [Discord plans to roll out third-party ads on its mobile apps, starting with a mobile pilot for Video Quests, which let users earning rewards, in June 2025 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250320/p26#a250320p26)
  - [Sources: Apple TV+ is losing $1B+ annually even as its subscriptions grew to ~45M in 2024; one source says Apple has spent $5B+ on content since its 2019 launch &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/250320/p25#a250320p25)
- - [Best Portable Chargers &lpar;2025&rpar;: iPhones, iPads, Laptops &amp; More](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
- - [Discord is getting mobile ads](https://www.theverge.com/news/633166/discord-mobile-video-ads-quests-ipo)<!-- TECH:END -->
+ - [&#39;Wicked&#39; Will Stream on Peacock Tomorrow: Here&#39;s the Release Time](https://www.cnet.com/tech/services-and-software/wicked-will-stream-on-peacock-tomorrow-heres-the-release-time/#ftag=CAD590a51e)
+ - [Best Portable Chargers &lpar;2025&rpar;: iPhones, iPads, Laptops &amp; More](https://www.wired.com/gallery/best-portable-chargers-power-banks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

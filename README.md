@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Temu-owner PDD reports Q4 revenue up 24% YoY to ~$15.3B, below est., and net income up 18% YoY to ~$3.8B, after intensifying domestic competition and US tariffs &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250320/p22#a250320p22)
+ - [Huawei’s new flip phone is weirdly wide](https://www.theverge.com/news/633159/huawei-pura-x-flip-phone-wide-1610-aspect-ratio-harmonyos-next)
+ - [The Best Smart Rings, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-smart-rings/)
  - [Huawei unveils the 6.3&quot; Pura X, which folds to a square clamshell with a 3.5&quot; display, its first flagship running HarmonyOS 5, launching in China for ~$1,036 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250320/p21#a250320p21)
- - [How Nvidia, SK Hynix, TSMC, and ASML, with a combined $4T+ market cap, dominate the AI supply chain, each having an 80% to 100% market share in their fields &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/250320/p20#a250320p20)
- - [Fujifilm’s GFX100RF puts medium format guts in a compact fixed-lens camera](https://www.theverge.com/news/633093/fujifilm-gfx100rf-camera-features-price)
- - [12 Best Early Amazon Spring Sale Deals &lpar;2025&rpar;](https://www.wired.com/story/amazon-spring-sale-2025/)
- - [A profile of longtime Elon Musk loyalist Steve Davis, who effectively runs DOGE after SpaceX, Boring Company, and X stints, based on interviews with 22 sources &lpar;New York Times&rpar;](http://www.techmeme.com/250320/p19#a250320p19)<!-- TECH:END -->
+ - [How Nvidia, SK Hynix, TSMC, and ASML, with a combined $4T+ market cap, dominate the AI supply chain, each having an 80% to 100% market share in their fields &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/250320/p20#a250320p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

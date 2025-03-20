@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ is losing billions of dollars -- as planned and expected](https://appleinsider.com/articles/25/03/20/apple-tv-is-losing-billions-of-dollars----as-planned-and-expected?utm_medium=rss)
- - [Walrus Foundation, which is building an on-chain storage network, raised $140M from Standard Crypto, a16z, and others in a sale of its cryptocurrency, $WAL &lpar;Fortune&rpar;](http://www.techmeme.com/250320/p27#a250320p27)
- - [Tesla recalls more than 46,000 Cybertrucks after trim starts falling off](https://www.theverge.com/news/633207/tesla-cybertruck-loose-trim-recall)
- - [Speediance Gym Monster 2 Review: All-in-One Workout Machine](https://www.wired.com/review/speediance-gym-monster-2/)
- - [The beautiful, retro tech of two theatrical sound designers](https://www.theverge.com/tech/631922/sound-design-interview-hardware-music-home)<!-- TECH:END -->
+ - [Netflix&amp;#8217;s CEO talks Apple TV, Amazon, and the NFL](https://www.theverge.com/news/633264/neflix-ceo-ted-sarandos-interview-apple-tv-plus-hbo-max-nfl)
+ - [A Livestreamed Tragedy on X Sparks a Memecoin Frenzy](https://www.wired.com/story/livestreamed-tragedy-x-memecoin-frenzy/)
+ - [LG’s NFT marketplace for TVs is shutting down](https://www.theverge.com/news/633272/lg-art-lab-nft-marketplace-shutdown)
+ - [2025 iPad 11 vs M1 iPad Air: Newer isn&#39;t always better](https://appleinsider.com/inside/ipad/vs/2025-ipad-11-vs-m1-ipad-air-newer-isnt-always-better?utm_medium=rss)
+ - [The Best Hearing Aids of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-hearing-aids/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

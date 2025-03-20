@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This guy is hated now for doing this ?](http://9gag.com/gag/aW4LVM4)
- - 😝 [I want this to stay on the internet forever](http://9gag.com/gag/aLn4RKz)
- - 💣 [The power of Dads!](http://9gag.com/gag/aO846m3)
- - 😝 [Maybe not the best metaphor](http://9gag.com/gag/aoyVb80)
- - 👉 [You are a champ!](http://9gag.com/gag/aAyKBXZ)<!-- MEMES:END -->
+ - 😝 [A Carrot Distracts a Doe While Her Kits Are Moved](http://9gag.com/gag/aryAPp6)
+ - 😝 [Lol she crying she sorry after lol](http://9gag.com/gag/an7np5E)
+ - 💣 [Show the ugliest car ever built](http://9gag.com/gag/axyvxYp)
+ - 😝 [You are a champ!](http://9gag.com/gag/aAyKBXZ)
+ - 👉 [Beware of the Pharaoh&#39;s curse](http://9gag.com/gag/a87mPEV)<!-- MEMES:END -->
 
 ---
 

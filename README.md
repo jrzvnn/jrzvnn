@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Show the ugliest car ever built](http://9gag.com/gag/axyvxYp)
  - 😝 [Mattress foam.](http://9gag.com/gag/aAyKYm2)
- - 💣 [Pattern recognition is bad, you bigot!](http://9gag.com/gag/aNDvynG)
+ - 😝 [Hottest black girls ever](http://9gag.com/gag/aKGvzVb)
+ - 💣 [A Carrot Distracts a Doe While Her Kits Are Moved](http://9gag.com/gag/aryAPp6)
  - 😝 [Definitely not rick roll](http://9gag.com/gag/a5QweoL)
- - 👉 [Hi bros.. Just got the paternity test and found out that my 5yr old son is not mine. My first post cuz im drunk.. Cheers &gt;&lt;](http://9gag.com/gag/a870LDe)<!-- MEMES:END -->
+ - 👉 [Pattern recognition is bad, you bigot!](http://9gag.com/gag/aNDvynG)<!-- MEMES:END -->
 
 ---
 

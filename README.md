@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bonk bonk](http://9gag.com/gag/a870LPQ)
- - 😝 [How can your bill increase when you&#39;re insured\u203d](http://9gag.com/gag/aZZwA5z)
- - 💣 [Maybe not the best metaphor](http://9gag.com/gag/aoyVb80)
- - 😝 [Hold X to activate boost](http://9gag.com/gag/ayN65o8)
- - 👉 [Agame where you can&#39;t react](http://9gag.com/gag/a6Z9voA)<!-- MEMES:END -->
+ - 😝 [Beware of the Pharaoh&#39;s curse](http://9gag.com/gag/a87mPEV)
+ - 😝 [Mondo Duplantis has broken the pole vault world record 11 times, while 10 of them were his own previous records. Every time he breaks the record he receives $100.000 in price money.](http://9gag.com/gag/a9yvQ0W)
+ - 💣 [How can your bill increase when you&#39;re insured\u203d](http://9gag.com/gag/aZZwA5z)
+ - 😝 [A Carrot Distracts a Doe While Her Kits Are Moved](http://9gag.com/gag/aryAPp6)
+ - 👉 [Stuff men go through](http://9gag.com/gag/an72q3o)<!-- MEMES:END -->
 
 ---
 

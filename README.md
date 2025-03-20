@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rare map cat](http://9gag.com/gag/aE0AdDe)
- - 😝 [I want this to stay on the internet forever](http://9gag.com/gag/aLn4RKz)
- - 💣 [Definitely not rick roll](http://9gag.com/gag/a5QweoL)
- - 😝 [You are a champ!](http://9gag.com/gag/aAyKBXZ)
- - 👉 [Chad warden](http://9gag.com/gag/aByVKGQ)<!-- MEMES:END -->
+ - 😝 [Models in nerds environment](http://9gag.com/gag/a2v8BAO)
+ - 😝 [Mattress foam.](http://9gag.com/gag/aAyKYm2)
+ - 💣 [A Carrot Distracts a Doe While Her Kits Are Moved](http://9gag.com/gag/aryAPp6)
+ - 😝 [Close call. It&#39;s like a movie !](http://9gag.com/gag/aByVK81)
+ - 👉 [Definitely not rick roll](http://9gag.com/gag/a5QweoL)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nearly All Cybertrucks Have Been Recalled Because Tesla Used the Wrong Glue](https://www.wired.com/story/tesla-cybertrucks-made-with-the-wrong-glue-hit-with-yet-another-sticky-recall/)
- - [Sources: Tim Cook lost faith in Apple AI head John Giannandrea to execute on product development and drafted in Vision Pro creator Mike Rockwell to oversee Siri &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250320/p31#a250320p31)
- - [Construction begins on delayed Apple TV+ studios](https://appleinsider.com/articles/25/03/20/construction-begins-on-delayed-apple-tv-studios?utm_medium=rss)
- - [Filing: CoreWeave is aiming to raise up to $2.7B in its US IPO at a valuation between $27.4B and $32B, selling 49M shares for $47 to $55; Nvidia owns 5.96% &lpar;Reuters&rpar;](http://www.techmeme.com/250320/p30#a250320p30)
- - [X sues Narendra Modi&#39;s government in New Delhi, saying its IT ministry has unlawfully expanded censorship powers to allow the easier removal of online content &lpar;Reuters&rpar;](http://www.techmeme.com/250320/p29#a250320p29)<!-- TECH:END -->
+ - [John Giannandrea out as Siri chief, Apple Vision Pro lead in](https://appleinsider.com/articles/25/03/20/john-giannandrea-out-as-siri-chief-apple-vision-pro-lead-in?utm_medium=rss)
+ - [Best Internet Providers in Philadelphia, Pennsylvania](https://www.cnet.com/home/internet/best-internet-providers-in-philadelphia-pa/#ftag=CAD590a51e)
+ - [Best Cordless Vacuums of 2025: We&#39;ve Picked the Best for Your Spring Cleaning Needs](https://www.cnet.com/home/kitchen-and-household/best-cordless-vacuum/#ftag=CAD590a51e)
+ - [Take Advantage of High APYs Following the Fed&#39;s Rate Pause. Today&#39;s CD Rates, March 20, 2025](https://www.cnet.com/personal-finance/banking/take-advantage-of-high-apys-following-the-feds-rate-pause-todays-cd-rates-march-20-2025/#ftag=CAD590a51e)
+ - [Nearly All Cybertrucks Have Been Recalled Because Tesla Used the Wrong Glue](https://www.wired.com/story/tesla-cybertrucks-made-with-the-wrong-glue-hit-with-yet-another-sticky-recall/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

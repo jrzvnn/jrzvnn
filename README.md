@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Who&#39;s Elon Musk’s Biggest Fan? His Mom](https://www.wired.com/story/uncanny-valley-podcast-elon-musk-mom-maye-musk/)
  - [Threads rolls out new features: ability to set following feed or any custom feed as the default, limit post replies to followers, a better video player, more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250320/p34#a250320p34)
  - [Honda and Acura EV owners will get Tesla Supercharger access this summer](https://www.theverge.com/news/633372/honda-prologue-acura-zdx-tesla-supercharger)
  - [OpenAI adds gpt-4o-mini-tts, a text-to-speech model that it says delivers more nuanced and realistic-sounding speech, and two speech-to-text models to its API &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250320/p33#a250320p33)
- - [John Giannandrea out as Siri chief, Apple Vision Pro lead in](https://appleinsider.com/articles/25/03/20/john-giannandrea-out-as-siri-chief-apple-vision-pro-lead-in?utm_medium=rss)
- - [Threads finally lets you set the following feed as default](https://www.theverge.com/news/633135/threads-limit-replies-followers-custom-feed-default)<!-- TECH:END -->
+ - [John Giannandrea out as Siri chief, Apple Vision Pro lead in](https://appleinsider.com/articles/25/03/20/john-giannandrea-out-as-siri-chief-apple-vision-pro-lead-in?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

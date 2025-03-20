@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Exams](http://9gag.com/gag/a0eVmzO)
- - 😝 [Close call. It&#39;s like a movie !](http://9gag.com/gag/aByVK81)
- - 💣 [Pattern recognition is bad, you bigot!](http://9gag.com/gag/aNDvynG)
- - 😝 [Hi bros.. Just got the paternity test and found out that my 5yr old son is not mine. My first post cuz im drunk.. Cheers &gt;&lt;](http://9gag.com/gag/a870LDe)
- - 👉 [A Carrot Distracts a Doe While Her Kits Are Moved](http://9gag.com/gag/aryAPp6)<!-- MEMES:END -->
+ - 😝 [Mattress foam.](http://9gag.com/gag/aAyKYm2)
+ - 😝 [How to spot a serial killer.](http://9gag.com/gag/aoyRZ70)
+ - 💣 [A Carrot Distracts a Doe While Her Kits Are Moved](http://9gag.com/gag/aryAPp6)
+ - 😝 [Someone should teach women what no means](http://9gag.com/gag/an72YvL)
+ - 👉 [Exams](http://9gag.com/gag/a0eVmzO)<!-- MEMES:END -->
 
 ---
 

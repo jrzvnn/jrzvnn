@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chad warden](http://9gag.com/gag/aByVKGQ)
- - 😝 [When your mom farted.](http://9gag.com/gag/aByLDvz)
- - 💣 [Definitely not rick roll](http://9gag.com/gag/a5QweoL)
- - 😝 [Stuff men go through](http://9gag.com/gag/an72q3o)
- - 👉 [Beware of the Pharaoh&#39;s curse](http://9gag.com/gag/a87mPEV)<!-- MEMES:END -->
+ - 😝 [Agame where you can&#39;t react](http://9gag.com/gag/a6Z9voA)
+ - 😝 [The fact they used a young white boy to represent these type of perpetrators was highly unrepresentative of reality. The makers of this Netflix show must think the public are stupid.](http://9gag.com/gag/aKGvzNN)
+ - 💣 [Beware of the Pharaoh&#39;s curse](http://9gag.com/gag/a87mPEV)
+ - 😝 [Definitely not rick roll](http://9gag.com/gag/a5QweoL)
+ - 👉 [Stuff men go through](http://9gag.com/gag/an72q3o)<!-- MEMES:END -->
 
 ---
 

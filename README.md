@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Carrot Distracts a Doe While Her Kits Are Moved](http://9gag.com/gag/aryAPp6)
- - 😝 [Lol she crying she sorry after lol](http://9gag.com/gag/an7np5E)
+ - 😝 [For real, what\u2019s up with this sh!t?](http://9gag.com/gag/amoGDn4)
+ - 😝 [Models in nerds environment](http://9gag.com/gag/a2v8BAO)
  - 💣 [Show the ugliest car ever built](http://9gag.com/gag/axyvxYp)
- - 😝 [You are a champ!](http://9gag.com/gag/aAyKBXZ)
- - 👉 [Beware of the Pharaoh&#39;s curse](http://9gag.com/gag/a87mPEV)<!-- MEMES:END -->
+ - 😝 [The entire Turkish people are taking to the streets to overthrow Erdogan&#39;s regime.](http://9gag.com/gag/avy6pKd)
+ - 👉 [Welcome to Pakistan](http://9gag.com/gag/amoGE6o)<!-- MEMES:END -->
 
 ---
 

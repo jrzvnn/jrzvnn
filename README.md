@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US schools spending billions on laptops, an idea supported by technologists and computer makers, has led to students&#39; worsening social skills and test scores &lpar;Michael R. Bloomberg/Bloomberg&rpar;](http://www.techmeme.com/250320/p18#a250320p18)
- - [7 Best WIRED-Tested Humidifiers for Home and Away &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-humidifiers/)
- - [Michael Seibel says he is leaving YC after 12+ years and moving to a &quot;Partner Emeritus&quot; role, after stepping back from &quot;leadership responsibilities&quot; in 2024 &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/250320/p17#a250320p17)
- - [A profile of Skydio, the US&#39; largest drone maker, after its first batch of drones proved disappointing in Ukraine and it competes with Chinese makers like DJI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250320/p16#a250320p16)
- - [Chip design software maker Synopsys unveils AgentEngineer, initially letting engineers give AI agents instructions with plans to expand to helping make chips &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250320/p15#a250320p15)<!-- TECH:END -->
+ - [Fujifilm’s GFX100RF puts medium format guts in a compact fixed-lens camera](https://www.theverge.com/news/633093/fujifilm-gfx100rf-camera-features-price)
+ - [12 Best Early Amazon Spring Sale Deals &lpar;2025&rpar;](https://www.wired.com/story/amazon-spring-sale-2025/)
+ - [A profile of longtime Elon Musk loyalist Steve Davis, who effectively runs DOGE after SpaceX, Boring Company, and X stints, based on interviews with 22 sources &lpar;New York Times&rpar;](http://www.techmeme.com/250320/p19#a250320p19)
+ - [Is That Painting a Lost Masterpiece or a Fraud? Let’s Ask AI](https://www.wired.com/story/is-that-painting-a-lost-masterpiece-or-a-fraud-lets-ask-ai/)
+ - [US schools spending billions on laptops, an idea supported by technologists and computer makers, has led to students&#39; worsening social skills and test scores &lpar;Michael R. Bloomberg/Bloomberg&rpar;](http://www.techmeme.com/250320/p18#a250320p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

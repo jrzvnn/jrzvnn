@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [We’ve entered a forever war with bird flu](https://www.theverge.com/science/632605/forever-war-with-bird-flu)
  - [Discord plans to roll out third-party ads on its mobile apps, starting with a mobile pilot for Video Quests, which let users earning rewards, in June 2025 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250320/p26#a250320p26)
  - [Sources: Apple TV+ is losing $1B+ annually even as its subscriptions grew to ~45M in 2024; one source says Apple has spent $5B+ on content since its 2019 launch &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/250320/p25#a250320p25)
  - [Best Portable Chargers &lpar;2025&rpar;: iPhones, iPads, Laptops &amp; More](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
- - [Discord is getting mobile ads](https://www.theverge.com/news/633166/discord-mobile-video-ads-quests-ipo)
- - [Forget folding iPhones, Apple wants a foldable Apple Watch](https://appleinsider.com/articles/25/03/20/forget-folding-iphones-apple-wants-a-foldable-apple-watch?utm_medium=rss)<!-- TECH:END -->
+ - [Discord is getting mobile ads](https://www.theverge.com/news/633166/discord-mobile-video-ads-quests-ipo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

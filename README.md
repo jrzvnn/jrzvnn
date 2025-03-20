@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Construction begins on delayed Apple TV+ studios](https://appleinsider.com/articles/25/03/20/construction-begins-on-delayed-apple-tv-studios?utm_medium=rss)
  - [Filing: CoreWeave is aiming to raise up to $2.7B in its US IPO at a valuation between $27.4B and $32B, selling 49M shares for $47 to $55; Nvidia owns 5.96% &lpar;Reuters&rpar;](http://www.techmeme.com/250320/p30#a250320p30)
  - [X sues Narendra Modi&#39;s government in New Delhi, saying its IT ministry has unlawfully expanded censorship powers to allow the easier removal of online content &lpar;Reuters&rpar;](http://www.techmeme.com/250320/p29#a250320p29)
  - [TikTok will now show missing child notifications](https://www.theverge.com/news/633319/tiktok-amber-alerts-launch)
- - [This digital notebook simulates E Ink screens to reduce distractions](https://www.theverge.com/news/633234/xp-pen-magic-note-pad-digital-notebook-stylus)
- - [10 of the Best Peacock Shows to Stream Now](https://www.cnet.com/tech/services-and-software/10-of-the-best-peacock-shows-to-stream-march-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This digital notebook simulates E Ink screens to reduce distractions](https://www.theverge.com/news/633234/xp-pen-magic-note-pad-digital-notebook-stylus)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

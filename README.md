@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Sources detail how Jeff Bezos made peace with Trump, with many citing Amazon&#39;s loss of the $10B JEDI contract during Trump&#39;s first term as a watershed moment &lpar;Financial Times&rpar;](http://www.techmeme.com/250320/p7#a250320p7)
  - [Meta will roll out its AI chatbot with text-only features in the EU this week on WhatsApp, Facebook, Instagram, and Messenger, nearly a year after pausing &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250320/p6#a250320p6)
- - [Early-stage VC Long Journey Ventures, co-led by Cyan Banister, Arielle Zuckerberg, and Lee Jacobs, debuts with a ~$181.818M fund after five years in stealth &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/250320/p5#a250320p5)
+ - [Early-stage VC firm Long Journey Ventures, co-led by Cyan Banister, Arielle Zuckerberg, and Lee Jacobs, debuts with a ~$181.8M fund after five years in stealth &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/250320/p5#a250320p5)
  - [Spring Equinox Is Today: Everything You Need to Know](https://www.cnet.com/science/space/spring-equinox-is-thursday-everything-you-need-to-know/#ftag=CAD590a51e)
  - [Meta AI Finally Arrives in Europe, Overcoming Regulatory Hurdles](https://www.cnet.com/tech/services-and-software/meta-ai-finally-arrives-in-europe-overcoming-regulatory-hurdles/#ftag=CAD590a51e)<!-- TECH:END -->
 

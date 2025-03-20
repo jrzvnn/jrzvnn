@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Michael Seibel says he is leaving YC after 12+ years and moving to a &quot;Partner Emeritus&quot; role, after stepping back from &quot;leadership responsibilities&quot; in 2024 &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/250320/p17#a250320p17)
  - [A profile of Skydio, the US&#39; largest drone maker, after its first batch of drones proved disappointing in Ukraine and it competes with Chinese makers like DJI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250320/p16#a250320p16)
  - [Chip design software maker Synopsys unveils AgentEngineer, initially letting engineers give AI agents instructions with plans to expand to helping make chips &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250320/p15#a250320p15)
  - [Bakkt names ex-SoftBank rainmaker Akshay Naheta as co-CEO to help turn around the struggling US crypto trading and custody platform; BKKT is down 62%+ in 2025 &lpar;Anto Antony/Bloomberg&rpar;](http://www.techmeme.com/250320/p14#a250320p14)
- - [Satellite Internet Will Let Us Put AI in Everything](https://www.wired.com/story/satellite-internet-will-let-us-put-ai-in-everything/)
- - [The UK&#39;s NCSC urges large entities, including energy and transport firms, to introduce &quot;post-quantum cryptography&quot; by 2035 to protect against quantum hackers &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/250320/p13#a250320p13)<!-- TECH:END -->
+ - [Satellite Internet Will Let Us Put AI in Everything](https://www.wired.com/story/satellite-internet-will-let-us-put-ai-in-everything/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

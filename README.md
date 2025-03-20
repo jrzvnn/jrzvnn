@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You are a champ!](http://9gag.com/gag/aAyKBXZ)
- - 😝 [IMDB removed rating from Snow White after falling below 2/10](http://9gag.com/gag/aW4nZAn)
- - 💣 [Pattern recognition is bad, you bigot!](http://9gag.com/gag/aNDvynG)
+ - 😝 [Show the ugliest car ever built](http://9gag.com/gag/axyvxYp)
  - 😝 [Mattress foam.](http://9gag.com/gag/aAyKYm2)
- - 👉 [A Carrot Distracts a Doe While Her Kits Are Moved](http://9gag.com/gag/aryAPp6)<!-- MEMES:END -->
+ - 💣 [Pattern recognition is bad, you bigot!](http://9gag.com/gag/aNDvynG)
+ - 😝 [Definitely not rick roll](http://9gag.com/gag/a5QweoL)
+ - 👉 [Hi bros.. Just got the paternity test and found out that my 5yr old son is not mine. My first post cuz im drunk.. Cheers &gt;&lt;](http://9gag.com/gag/a870LDe)<!-- MEMES:END -->
 
 ---
 

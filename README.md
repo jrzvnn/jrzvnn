@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stuff men go through](http://9gag.com/gag/an72q3o)
- - 😝 [Damn China at least you removed the blood But it&#39;s extreme](http://9gag.com/gag/ajPO258)
- - 💣 [Beware of the Pharaoh&#39;s curse](http://9gag.com/gag/a87mPEV)
- - 😝 [Definitely not rick roll](http://9gag.com/gag/a5QweoL)
- - 👉 [Mondo Duplantis has broken the pole vault world record 11 times, while 10 of them were his own previous records. Every time he breaks the record he receives $100.000 in price money.](http://9gag.com/gag/a9yvQ0W)<!-- MEMES:END -->
+ - 😝 [Bonk bonk](http://9gag.com/gag/a870LPQ)
+ - 😝 [By great Nobunaga&#39;s ghost!](http://9gag.com/gag/aZZ8PbQ)
+ - 💣 [When your mom farted.](http://9gag.com/gag/aByLDvz)
+ - 😝 [Maybe not the best metaphor](http://9gag.com/gag/aoyVb80)
+ - 👉 [You are a champ!](http://9gag.com/gag/aAyKBXZ)<!-- MEMES:END -->
 
 ---
 

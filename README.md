@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The power of Dads!](http://9gag.com/gag/aO846m3)
  - 😝 [Definitely not rick roll](http://9gag.com/gag/a5QweoL)
- - 😝 [You are a champ!](http://9gag.com/gag/aAyKBXZ)
- - 💣 [The political pendulum will fix our society soon...](http://9gag.com/gag/aZZ8WqV)
- - 😝 [Chad warden](http://9gag.com/gag/aByVKGQ)
- - 👉 [If someone breaks into your home, the cops prefer if you shoot them](http://9gag.com/gag/avy60Mq)<!-- MEMES:END -->
+ - 💣 [Pattern recognition is bad, you bigot!](http://9gag.com/gag/aNDvynG)
+ - 😝 [Mattress foam.](http://9gag.com/gag/aAyKYm2)
+ - 👉 [Hottest black girls ever](http://9gag.com/gag/aKGvzVb)<!-- MEMES:END -->
 
 ---
 

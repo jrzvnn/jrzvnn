@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nearly All Cybertrucks Have Been Recalled Because Tesla Used the Wrong Glue](https://www.wired.com/story/tesla-cybertrucks-made-with-the-wrong-glue-hit-with-yet-another-sticky-recall/)
+ - [Sources: Tim Cook lost faith in Apple AI head John Giannandrea to execute on product development and drafted in Vision Pro creator Mike Rockwell to oversee Siri &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250320/p31#a250320p31)
  - [Construction begins on delayed Apple TV+ studios](https://appleinsider.com/articles/25/03/20/construction-begins-on-delayed-apple-tv-studios?utm_medium=rss)
  - [Filing: CoreWeave is aiming to raise up to $2.7B in its US IPO at a valuation between $27.4B and $32B, selling 49M shares for $47 to $55; Nvidia owns 5.96% &lpar;Reuters&rpar;](http://www.techmeme.com/250320/p30#a250320p30)
- - [X sues Narendra Modi&#39;s government in New Delhi, saying its IT ministry has unlawfully expanded censorship powers to allow the easier removal of online content &lpar;Reuters&rpar;](http://www.techmeme.com/250320/p29#a250320p29)
- - [TikTok will now show missing child notifications](https://www.theverge.com/news/633319/tiktok-amber-alerts-launch)
- - [This digital notebook simulates E Ink screens to reduce distractions](https://www.theverge.com/news/633234/xp-pen-magic-note-pad-digital-notebook-stylus)<!-- TECH:END -->
+ - [X sues Narendra Modi&#39;s government in New Delhi, saying its IT ministry has unlawfully expanded censorship powers to allow the easier removal of online content &lpar;Reuters&rpar;](http://www.techmeme.com/250320/p29#a250320p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

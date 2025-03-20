@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [After his divorce, Esposito had to declare bankruptcy, and he considered suicide by arranging his own murder to provide insurance money for his children before being cast in Breaking Bad](http://9gag.com/gag/aGy8WRZ)
- - 😝 [Beware of the Pharaoh&#39;s curse](http://9gag.com/gag/a87mPEV)
- - 💣 [It&#39;s my loneliness or a totally normal behavior?](http://9gag.com/gag/aLneq9v)
- - 😝 [A Carrot Distracts a Doe While Her Kits Are Moved](http://9gag.com/gag/aryAPp6)
- - 👉 [The power of Dads!](http://9gag.com/gag/aO846m3)<!-- MEMES:END -->
+ - 😝 [Elephant mourns death of her companion of 25 years, refuses to leave her side!](http://9gag.com/gag/ae9OXdB)
+ - 😝 [First Tesla, now Starlink ,bye bye Elon.](http://9gag.com/gag/aKGv4qg)
+ - 💣 [The $5 regret](http://9gag.com/gag/aAyKBpd)
+ - 😝 [I heard that the heroine is a lesbian??? Is that true?](http://9gag.com/gag/a4PNpVd)
+ - 👉 [This guy is hated now for doing this ?](http://9gag.com/gag/aW4LVM4)<!-- MEMES:END -->
 
 ---
 

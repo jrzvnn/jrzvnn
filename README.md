@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US schools spending billions on laptops, an idea supported by technologists and computer makers, has led to students&#39; worsening social skills and test scores &lpar;Michael R. Bloomberg/Bloomberg&rpar;](http://www.techmeme.com/250320/p18#a250320p18)
+ - [7 Best WIRED-Tested Humidifiers for Home and Away &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-humidifiers/)
  - [Michael Seibel says he is leaving YC after 12+ years and moving to a &quot;Partner Emeritus&quot; role, after stepping back from &quot;leadership responsibilities&quot; in 2024 &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/250320/p17#a250320p17)
  - [A profile of Skydio, the US&#39; largest drone maker, after its first batch of drones proved disappointing in Ukraine and it competes with Chinese makers like DJI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250320/p16#a250320p16)
- - [Chip design software maker Synopsys unveils AgentEngineer, initially letting engineers give AI agents instructions with plans to expand to helping make chips &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250320/p15#a250320p15)
- - [Bakkt names ex-SoftBank rainmaker Akshay Naheta as co-CEO to help turn around the struggling US crypto trading and custody platform; BKKT is down 62%+ in 2025 &lpar;Anto Antony/Bloomberg&rpar;](http://www.techmeme.com/250320/p14#a250320p14)
- - [Satellite Internet Will Let Us Put AI in Everything](https://www.wired.com/story/satellite-internet-will-let-us-put-ai-in-everything/)<!-- TECH:END -->
+ - [Chip design software maker Synopsys unveils AgentEngineer, initially letting engineers give AI agents instructions with plans to expand to helping make chips &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250320/p15#a250320p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

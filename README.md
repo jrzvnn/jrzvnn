@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Assassin&#39;s Creed Shadows now available for Mac, PC, and consoles](https://appleinsider.com/articles/25/03/20/assassins-creed-shadows-now-available-for-mac-pc-and-consoles?utm_medium=rss)
+ - [Netflix has a new plan for games](https://www.theverge.com/games/633481/netflix-gaming-strategy-alain-tascan-interview)
+ - [The Trump Administration Wants USAID on the Blockchain](https://www.wired.com/story/trump-administration-usaid-blockchain/)
  - [Google adds &quot;smarter search&quot; to Gmail for Android, iOS, and the web, using AI to show the most relevant results instead of showing them in chronological order &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250320/p40#a250320p40)
- - [The EU wants Apple to open these iOS features to other gadgets](https://www.theverge.com/news/633493/apple-ios-eu-dma-iphone-interoperability-requirements)
- - [Here&amp;#8217;s the Steam on Xbox evidence Microsoft didn&amp;#8217;t want you to see](https://www.theverge.com/news/633478/microsoft-xbox-steam-games-support-ui)
- - [We ran the wrong headline about Trump firing the FTC commissioners](https://www.theverge.com/policy/633397/ftc-bedoya-slaughter-democrat-media)
- - [Google is improving Gmail’s search with AI](https://www.theverge.com/news/633459/google-gmail-search-ai-most-relevant-results)<!-- TECH:END -->
+ - [The EU wants Apple to open these iOS features to other gadgets](https://www.theverge.com/news/633493/apple-ios-eu-dma-iphone-interoperability-requirements)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

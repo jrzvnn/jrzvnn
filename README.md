@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Satellite Internet Will Let Us Put AI in Everything](https://www.wired.com/story/satellite-internet-will-let-us-put-ai-in-everything/)
  - [The UK&#39;s NCSC urges large entities, including energy and transport firms, to introduce &quot;post-quantum cryptography&quot; by 2035 to protect against quantum hackers &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/250320/p13#a250320p13)
  - [Bluetti’s Handsfree 1 is the solar backpack I love hating](https://www.theverge.com/reviews/633112/bluetti-handfree-backpack-review-solar-battery-price-specs)
  - [Crypto-friendly stablecoin legislation is poised to pass the US Senate with support from some pro-crypto Democratic Senators, including Kirsten Gillibrand &lpar;Steven T. Dennis/Bloomberg&rpar;](http://www.techmeme.com/250320/p12#a250320p12)
- - [Low-Cost Drone Add-Ons From China Let Anyone With a Credit Card Turn Toys Into Weapons of War](https://www.wired.com/story/drone-accessories-weapons-of-war/)
- - [Andor showrunner Tony Gilroy says the Disney+ show&#39;s scripts will not be released as planned, due to fears that they could be used as AI training data &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/250320/p11#a250320p11)<!-- TECH:END -->
+ - [Low-Cost Drone Add-Ons From China Let Anyone With a Credit Card Turn Toys Into Weapons of War](https://www.wired.com/story/drone-accessories-weapons-of-war/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

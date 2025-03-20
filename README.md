@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Skydio, the US&#39; largest drone maker, after its first batch of drones proved disappointing in Ukraine and it competes with Chinese makers like DJI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250320/p16#a250320p16)
+ - [Chip design software maker Synopsys unveils AgentEngineer, initially letting engineers give AI agents instructions with plans to expand to helping make chips &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250320/p15#a250320p15)
  - [Bakkt names ex-SoftBank rainmaker Akshay Naheta as co-CEO to help turn around the struggling US crypto trading and custody platform; BKKT is down 62%+ in 2025 &lpar;Anto Antony/Bloomberg&rpar;](http://www.techmeme.com/250320/p14#a250320p14)
  - [Satellite Internet Will Let Us Put AI in Everything](https://www.wired.com/story/satellite-internet-will-let-us-put-ai-in-everything/)
- - [The UK&#39;s NCSC urges large entities, including energy and transport firms, to introduce &quot;post-quantum cryptography&quot; by 2035 to protect against quantum hackers &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/250320/p13#a250320p13)
- - [Bluetti’s Handsfree 1 is the solar backpack I love hating](https://www.theverge.com/reviews/633112/bluetti-handfree-backpack-review-solar-battery-price-specs)
- - [Crypto-friendly stablecoin legislation is poised to pass the US Senate with support from some pro-crypto Democratic Senators, including Kirsten Gillibrand &lpar;Steven T. Dennis/Bloomberg&rpar;](http://www.techmeme.com/250320/p12#a250320p12)<!-- TECH:END -->
+ - [The UK&#39;s NCSC urges large entities, including energy and transport firms, to introduce &quot;post-quantum cryptography&quot; by 2035 to protect against quantum hackers &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/250320/p13#a250320p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

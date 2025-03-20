@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The $5 regret](http://9gag.com/gag/aAyKBpd)
- - 😝 [You\u2019re not catching that dog](http://9gag.com/gag/aYQDNQm)
- - 💣 [For](http://9gag.com/gag/aGyBYbZ)
- - 😝 [This guy is hated now for doing this ?](http://9gag.com/gag/aW4LVM4)
- - 👉 [I heard that the heroine is a lesbian??? Is that true?](http://9gag.com/gag/a4PNpVd)<!-- MEMES:END -->
+ - 😝 [Bonk bonk](http://9gag.com/gag/a870LPQ)
+ - 😝 [How can your bill increase when you&#39;re insured\u203d](http://9gag.com/gag/aZZwA5z)
+ - 💣 [Maybe not the best metaphor](http://9gag.com/gag/aoyVb80)
+ - 😝 [Hold X to activate boost](http://9gag.com/gag/ayN65o8)
+ - 👉 [Agame where you can&#39;t react](http://9gag.com/gag/a6Z9voA)<!-- MEMES:END -->
 
 ---
 

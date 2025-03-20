@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;We Don’t Want an AI Demo, We Want Answers’: Federal Workers Grill Trump Appointee During All-Hands](https://www.wired.com/story/gsa-staff-all-hands-meeting-ai/)
  - [The US SEC says proof-of-work crypto mining doesn&#39;t trigger federal securities laws and mining operators do not need to register their transactions with the SEC &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/250320/p44#a250320p44)
- - [These Are the Best Smart Devices for Amazon Alexa in 2025](https://www.cnet.com/home/smart-home/best-alexa-devices/#ftag=CAD590a51e)
  - [Apple&#39;s premature Apple Intelligence ad subject of new lawsuit](https://appleinsider.com/articles/25/03/20/apples-premature-apple-intelligence-ad-subject-of-new-lawsuit?utm_medium=rss)
- - [Best Smart Home Devices of 2025](https://www.cnet.com/home/smart-home/best-smart-home-devices/#ftag=CAD590a51e)
- - [Can&#39;t Catch Some Zs? These Are the 6 Most Common Sleep Disorders](https://www.cnet.com/health/sleep/cant-catch-zs-most-common-sleep-disorders/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Argentina-based neobank Ual&amp;aacute; raised an additional $66M for its Series E, after an initial raise of $300M led by Allianz X at a $2.75B valuation in November 2024 &lpar;Carolina Millan/Bloomberg&rpar;](http://www.techmeme.com/250320/p43#a250320p43)
+ - [The System Shock 2 remaster comes out June 26th](https://www.theverge.com/pc-gaming/633595/system-shock-2-remaster-xbox-playstation-pc-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

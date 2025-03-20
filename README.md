@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Models in nerds environment](http://9gag.com/gag/a2v8BAO)
+ - 😝 [Chad warden](http://9gag.com/gag/aByVKGQ)
  - 😝 [Mattress foam.](http://9gag.com/gag/aAyKYm2)
- - 💣 [A Carrot Distracts a Doe While Her Kits Are Moved](http://9gag.com/gag/aryAPp6)
+ - 💣 [You are a champ!](http://9gag.com/gag/aAyKBXZ)
  - 😝 [Close call. It&#39;s like a movie !](http://9gag.com/gag/aByVK81)
  - 👉 [Definitely not rick roll](http://9gag.com/gag/a5QweoL)<!-- MEMES:END -->
 

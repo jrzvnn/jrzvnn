@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The $5 regret](http://9gag.com/gag/aAyKBpd)
- - 😝 [For](http://9gag.com/gag/aGyBYbZ)
- - 💣 [This guy is hated now for doing this ?](http://9gag.com/gag/aW4LVM4)
- - 😝 [This gadget will produce your favourite ambience sound](http://9gag.com/gag/aXPV082)
- - 👉 [I heard that the heroine is a lesbian??? Is that true?](http://9gag.com/gag/a4PNpVd)<!-- MEMES:END -->
+ - 😝 [Instagram hell](http://9gag.com/gag/aoyVB1x)
+ - 😝 [Stuff men go through](http://9gag.com/gag/an72q3o)
+ - 💣 [Chad warden](http://9gag.com/gag/aByVKGQ)
+ - 😝 [Close call. It&#39;s like a movie !](http://9gag.com/gag/aByVK81)
+ - 👉 [Definitely not rick roll](http://9gag.com/gag/a5QweoL)<!-- MEMES:END -->
 
 ---
 

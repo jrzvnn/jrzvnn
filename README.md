@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube is investigating a bug causing low-res videos](https://www.theverge.com/news/633214/youtube-fix-low-res-videos-bug)
+ - [Q&amp;A with Sam Altman on the path to OpenAI, its origin story, building a consumer tech company, ads, competition, hallucinations, regulation, and the AI outlook &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250320/p24#a250320p24)
+ - [These Fruits and Vegetables Cost More Than You Think](https://www.cnet.com/news/these-fruits-and-vegetables-cost-more-than-you-think/#ftag=CAD590a51e)
  - [Trump eliminating the USAGM cut the budget of the Open Technology Fund, launched in 2012 to let 24M+ people living in repressive regimes access the internet &lpar;Pranshu Verma/Washington Post&rpar;](http://www.techmeme.com/250320/p23#a250320p23)
- - [13 Best MagSafe Power Banks for iPhones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-power-banks/)
- - [Trump’s first 100 days: all the news affecting the tech industry](https://www.theverge.com/24348851/donald-trump-presidency-tech-science-news)
- - [Space science is under threat from the anti-DEI purge](https://www.theverge.com/space/629948/space-science-dei-diversity-nasa-trump)
- - [Temu-owner PDD reports Q4 revenue up 24% YoY to ~$15.3B, below est., and net income up 18% YoY to ~$3.8B, after intensifying domestic competition and US tariffs &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250320/p22#a250320p22)<!-- TECH:END -->
+ - [13 Best MagSafe Power Banks for iPhones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-power-banks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

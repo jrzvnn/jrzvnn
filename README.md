@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stockholm-based Rerun, which is building a data stack for &quot;Physical AI&quot; like robots and drones, raised a $17M seed, bringing its total funding to $20.2M &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/250320/p42#a250320p42)
+ - [Evidence Grows That Dark Energy Changes Over Time](https://www.wired.com/story/hints-grow-stronger-that-dark-energy-changes-over-time/)
  - [Google sues alleged scammers over 10,000 fake Maps listings](https://www.theverge.com/news/633601/google-sues-fake-business-scams-maps)
  - [Researchers unveil Aardvark, an AI weather prediction system that they say uses thousands of times less computing power and is much faster than current methods &lpar;The Guardian&rpar;](http://www.techmeme.com/250320/p41#a250320p41)
- - [Apple TV Plus is reportedly losing $1 billion per year](https://www.theverge.com/news/633591/apple-tv-plus-losing-1-billion)
- - [Segway is recalling over 200,000 electric scooters that can collapse mid-ride](https://www.theverge.com/news/633575/segway-ninebot-electric-scooter-recall-max-g30p-g30lp)
- - [Comcast and Spectrum join in on the satellite messaging wave](https://www.theverge.com/news/633574/comcast-spectrum-satellite-emergency-messaging)<!-- TECH:END -->
+ - [Apple TV Plus is reportedly losing $1 billion per year](https://www.theverge.com/news/633591/apple-tv-plus-losing-1-billion)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

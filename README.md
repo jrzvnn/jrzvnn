@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Philadelphia-based Proscia, which provides pathology digitization software, raised $50M led by Insight Partners and others, taking its total funding to $130M &lpar;Aaron Weitzman/Axios&rpar;](http://www.techmeme.com/250319/p47#a250319p47)
+ - [How to run Mac OS 9 on Apple Silicon using UTM](https://appleinsider.com/inside/macos/tips/how-to-run-mac-os-9-on-apple-silicon-using-utm?utm_medium=rss)
+ - [‘Tesla Takedown’ protesters planning ‘biggest day of action’](https://www.theverge.com/news/633091/tesla-takedown-protesters-planning-biggest-day-of-action)
  - [Luxembourg&#39;s administrative court dismissed Amazon&#39;s appeal against a record &amp;euro;746M fine imposed by the country&#39;s privacy regulator in 2021 for GDPR violations &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250319/p46#a250319p46)
- - [AI startups Intology and Autoscience submitted AI-generated studies at a conference without disclosure and face criticism of co-opting peer review for publicity &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250319/p45#a250319p45)
- - [Hands on: Apple Vision Pro guest mode has massively improved since its first iteration](https://appleinsider.com/articles/25/03/20/hands-on-apple-vision-pro-guest-mode-has-massively-improved-since-its-first-iteration?utm_medium=rss)
- - [Best Internet Providers in Louisiana](https://www.cnet.com/home/internet/best-internet-providers-in-louisiana/#ftag=CAD590a51e)
- - [Newsletter service Ghost launches support for ActivityPub integration in beta for Ghost&lpar;Pro&rpar; subscribers, letting them share their posts across the fediverse &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250319/p44#a250319p44)<!-- TECH:END -->
+ - [Google Pixel 9A Live Updates: Release Date, Specs, Price](https://www.cnet.com/tech/mobile/google-pixel-9a-live-updates-release-date-specs-price/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

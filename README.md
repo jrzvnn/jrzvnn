@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bonk bonk](http://9gag.com/gag/a870LPQ)
- - 😝 [By great Nobunaga&#39;s ghost!](http://9gag.com/gag/aZZ8PbQ)
- - 💣 [When your mom farted.](http://9gag.com/gag/aByLDvz)
- - 😝 [Maybe not the best metaphor](http://9gag.com/gag/aoyVb80)
- - 👉 [You are a champ!](http://9gag.com/gag/aAyKBXZ)<!-- MEMES:END -->
+ - 😝 [The $5 regret](http://9gag.com/gag/aAyKBpd)
+ - 😝 [For](http://9gag.com/gag/aGyBYbZ)
+ - 💣 [You\u2019re not catching that dog](http://9gag.com/gag/aYQDNQm)
+ - 😝 [This guy is hated now for doing this ?](http://9gag.com/gag/aW4LVM4)
+ - 👉 [I heard that the heroine is a lesbian??? Is that true?](http://9gag.com/gag/a4PNpVd)<!-- MEMES:END -->
 
 ---
 

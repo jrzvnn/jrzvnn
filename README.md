@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Close call. It&#39;s like a movie !](http://9gag.com/gag/aByVK81)
- - 😝 [Mondo Duplantis has broken the pole vault world record 11 times, while 10 of them were his own previous records. Every time he breaks the record he receives $100.000 in price money.](http://9gag.com/gag/a9yvQ0W)
+ - 😝 [Rare map cat](http://9gag.com/gag/aE0AdDe)
+ - 😝 [I want this to stay on the internet forever](http://9gag.com/gag/aLn4RKz)
  - 💣 [Definitely not rick roll](http://9gag.com/gag/a5QweoL)
- - 😝 [Agame where you can&#39;t react](http://9gag.com/gag/a6Z9voA)
- - 👉 [Mattress foam.](http://9gag.com/gag/aAyKYm2)<!-- MEMES:END -->
+ - 😝 [You are a champ!](http://9gag.com/gag/aAyKBXZ)
+ - 👉 [Chad warden](http://9gag.com/gag/aByVKGQ)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The fart that rules them all](http://9gag.com/gag/axy6N41)
+ - 😝 [Beware of the Pharaoh&#39;s curse](http://9gag.com/gag/a87mPEV)
+ - 💣 [Close call. It&#39;s like a movie !](http://9gag.com/gag/aByVK81)
  - 😝 [Mattress foam.](http://9gag.com/gag/aAyKYm2)
- - 😝 [Chad warden](http://9gag.com/gag/aByVKGQ)
- - 💣 [Stuff men go through](http://9gag.com/gag/an72q3o)
- - 😝 [The last remaining continent on the planet has MYSTERIOUSLY erupted in `violence.`](http://9gag.com/gag/ae9ZNyv)
- - 👉 [Definitely not rick roll](http://9gag.com/gag/a5QweoL)<!-- MEMES:END -->
+ - 👉 [IMDB removed rating from Snow White after falling below 2/10](http://9gag.com/gag/aW4nZAn)<!-- MEMES:END -->
 
 ---
 

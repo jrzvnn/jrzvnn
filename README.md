@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Argentina-based neobank Ual&amp;aacute; raised an additional $66M for its Series E, after an initial raise of $300M led by Allianz X at a $2.75B valuation in November 2024 &lpar;Carolina Millan/Bloomberg&rpar;](http://www.techmeme.com/250320/p43#a250320p43)
  - [The System Shock 2 remaster comes out June 26th](https://www.theverge.com/pc-gaming/633595/system-shock-2-remaster-xbox-playstation-pc-release-date)
  - [US attorney general re-announces &amp;#8216;severe&amp;#8217; charges against alleged Tesla arsonists](https://www.theverge.com/news/633445/pam-bondi-announces-old-tesla-vandalism-arrests)
  - [Stockholm-based Rerun, which is building a data stack for &quot;Physical AI&quot; like robots and drones, raised a $17M seed, bringing its total funding to $20.2M &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/250320/p42#a250320p42)
- - [Evidence Grows That Dark Energy Changes Over Time](https://www.wired.com/story/hints-grow-stronger-that-dark-energy-changes-over-time/)
- - [Google sues alleged scammers over 10,000 fake Maps listings](https://www.theverge.com/news/633601/google-sues-fake-business-scams-maps)<!-- TECH:END -->
+ - [Evidence Grows That Dark Energy Changes Over Time](https://www.wired.com/story/hints-grow-stronger-that-dark-energy-changes-over-time/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

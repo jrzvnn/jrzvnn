@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is improving Gmail’s search with AI](https://www.theverge.com/news/633459/google-gmail-search-ai-most-relevant-results)
- - [Sources: Microsoft chose not to exercise a ~$12B option to buy more data center capacity from CoreWeave; OpenAI snapped up the contract on March 10 &lpar;Semafor&rpar;](http://www.techmeme.com/250320/p39#a250320p39)
- - [McDonald&#39;s Launching Minecraft Happy Meals, Plus a &#39;Nether Hot Sauce&#39; For Nuggets](https://www.cnet.com/tech/gaming/mcdonalds-launching-minecraft-happy-meals-plus-a-nether-hot-sauce-for-nuggets/#ftag=CAD590a51e)
- - [Best Robot Vacuums of 2025: These Machines Do the Work for You](https://www.cnet.com/home/kitchen-and-household/best-robot-vacuum/#ftag=CAD590a51e)
- - [Nintendo, Microsoft, and other developers will share accessibility labels about their games](https://www.theverge.com/news/633405/esa-accessible-games-initiative-nintendo-google-microsoft-ea-ubisoft)<!-- TECH:END -->
+ - [Google adds &quot;smarter search&quot; to Gmail for Android, iOS, and the web, using AI to show the most relevant results instead of showing them in chronological order &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250320/p40#a250320p40)
+ - [The EU wants Apple to open these iOS features to other gadgets](https://www.theverge.com/news/633493/apple-ios-eu-dma-iphone-interoperability-requirements)
+ - [Here&amp;#8217;s the Steam on Xbox evidence Microsoft didn&amp;#8217;t want you to see](https://www.theverge.com/news/633478/microsoft-xbox-steam-games-support-ui)
+ - [We ran the wrong headline about Trump firing the FTC commissioners](https://www.theverge.com/policy/633397/ftc-bedoya-slaughter-democrat-media)
+ - [Google is improving Gmail’s search with AI](https://www.theverge.com/news/633459/google-gmail-search-ai-most-relevant-results)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Luxembourg&#39;s administrative court dismissed Amazon&#39;s appeal against a record &amp;euro;746M fine imposed by the country&#39;s privacy regulator in 2021 for GDPR violations &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250319/p46#a250319p46)
+ - [AI startups Intology and Autoscience submitted AI-generated studies at a conference without disclosure and face criticism of co-opting peer review for publicity &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250319/p45#a250319p45)
  - [Hands on: Apple Vision Pro guest mode has massively improved since its first iteration](https://appleinsider.com/articles/25/03/20/hands-on-apple-vision-pro-guest-mode-has-massively-improved-since-its-first-iteration?utm_medium=rss)
- - [Newsletter service Ghost launches support for ActivityPub integration in beta for Ghost&lpar;Pro&rpar; subscribers, letting them share their posts across the fediverse &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250319/p44#a250319p44)
- - [SoftBank agrees to acquire Ampere Computing for $6.5B in cash, with Oracle and Carlyle selling their stakes as part of the deal, expected to close in H2 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250319/p43#a250319p43)
- - [Hollyland Lark M2S review: superb yet scarily tiny wireless microphone](https://appleinsider.com/articles/25/03/20/hollyland-lark-m2s-review-superb-yet-scarily-tiny-wireless-microphone?utm_medium=rss)
- - [Jensen Huang says Nvidia has not been approached about purchasing a stake in Intel, following a report about a consortium with TSMC to operate Intel&#39;s factories &lpar;Reuters&rpar;](http://www.techmeme.com/250319/p42#a250319p42)<!-- TECH:END -->
+ - [Best Internet Providers in Louisiana](https://www.cnet.com/home/internet/best-internet-providers-in-louisiana/#ftag=CAD590a51e)
+ - [Newsletter service Ghost launches support for ActivityPub integration in beta for Ghost&lpar;Pro&rpar; subscribers, letting them share their posts across the fediverse &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250319/p44#a250319p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

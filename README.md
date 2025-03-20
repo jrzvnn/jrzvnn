@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The fart that rules them all](http://9gag.com/gag/axy6N41)
- - 😝 [Mattress foam.](http://9gag.com/gag/aAyKYm2)
- - 💣 [Close call. It&#39;s like a movie !](http://9gag.com/gag/aByVK81)
- - 😝 [I hate acronyms and I&#39;m always late to the party](http://9gag.com/gag/aoyVr7n)
- - 👉 [IMDB removed rating from Snow White after falling below 2/10](http://9gag.com/gag/aW4nZAn)<!-- MEMES:END -->
+ - 😝 [Close call. It&#39;s like a movie !](http://9gag.com/gag/aByVK81)
+ - 😝 [Mondo Duplantis has broken the pole vault world record 11 times, while 10 of them were his own previous records. Every time he breaks the record he receives $100.000 in price money.](http://9gag.com/gag/a9yvQ0W)
+ - 💣 [Definitely not rick roll](http://9gag.com/gag/a5QweoL)
+ - 😝 [Agame where you can&#39;t react](http://9gag.com/gag/a6Z9voA)
+ - 👉 [Mattress foam.](http://9gag.com/gag/aAyKYm2)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Instagram hell](http://9gag.com/gag/aoyVB1x)
- - 😝 [Stuff men go through](http://9gag.com/gag/an72q3o)
- - 💣 [Chad warden](http://9gag.com/gag/aByVKGQ)
- - 😝 [Close call. It&#39;s like a movie !](http://9gag.com/gag/aByVK81)
- - 👉 [Definitely not rick roll](http://9gag.com/gag/a5QweoL)<!-- MEMES:END -->
+ - 😝 [Lady &lpar;?&rpar; hulk.....](http://9gag.com/gag/ae9OXqQ)
+ - 😝 [Don&#39;t be her backup option](http://9gag.com/gag/adBO3KB)
+ - 💣 [Stuff men go through](http://9gag.com/gag/an72q3o)
+ - 😝 [Definitely not rick roll](http://9gag.com/gag/a5QweoL)
+ - 👉 [Pattern recognition is bad, you bigot!](http://9gag.com/gag/aNDvynG)<!-- MEMES:END -->
 
 ---
 

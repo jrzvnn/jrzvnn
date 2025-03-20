@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google and UCB researchers detail &quot;inference-time search&quot;, which some call a fourth AI scaling law, though experts are skeptical of its usefulness in many cases &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250320/p9#a250320p9)
  - [Apple&#39;s stumble with Vision Pro, followed by falling flat on its face with AI, suggests the company may be slipping into a Vista-like drift of poor execution &lpar;Benedict Evans&rpar;](http://www.techmeme.com/250320/p8#a250320p8)
  - [Sources detail how Jeff Bezos made peace with Trump, with many citing Amazon&#39;s loss of the $10B JEDI contract during Trump&#39;s first term as a watershed moment &lpar;Financial Times&rpar;](http://www.techmeme.com/250320/p7#a250320p7)
- - [Meta will roll out its AI chatbot with text-only features in the EU this week on WhatsApp, Facebook, Instagram, and Messenger, nearly a year after pausing &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250320/p6#a250320p6)
- - [Early-stage VC firm Long Journey Ventures, co-led by Cyan Banister, Arielle Zuckerberg, and Lee Jacobs, debuts with a ~$181.8M fund after five years in stealth &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/250320/p5#a250320p5)
- - [Spring Equinox Is Today: Everything You Need to Know](https://www.cnet.com/science/space/spring-equinox-is-thursday-everything-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta plans to roll out its AI chatbot with text-only features in the EU this week on WhatsApp, Facebook, Instagram, and Messenger, nearly a year after pausing &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250320/p6#a250320p6)
+ - [Early-stage VC firm Long Journey Ventures, co-led by Cyan Banister, Arielle Zuckerberg, and Lee Jacobs, debuts with a ~$181.8M fund after five years in stealth &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/250320/p5#a250320p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

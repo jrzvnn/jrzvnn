@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic adds web search in preview for Claude 3.7 Sonnet, available now for paid US Claude users, with support for free users and more countries coming soon &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250320/p36#a250320p36)
+ - [Ford Bronco Electric Bike Review: Car Makers Now Make Electric Bikes](https://www.wired.com/review/ford-bronco-electric-bike/)
+ - [Source: Perplexity has discussed raising as much as $500M to $1B in a new round that would double its valuation to $18B; its current ARR is nearly $100M &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250320/p35#a250320p35)
  - [Who&#39;s Elon Musk’s Biggest Fan? His Mom](https://www.wired.com/story/uncanny-valley-podcast-elon-musk-mom-maye-musk/)
- - [Threads rolls out new features: ability to set following feed or any custom feed as the default, limit post replies to followers, a better video player, more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250320/p34#a250320p34)
- - [Honda and Acura EV owners will get Tesla Supercharger access this summer](https://www.theverge.com/news/633372/honda-prologue-acura-zdx-tesla-supercharger)
- - [OpenAI adds gpt-4o-mini-tts, a text-to-speech model that it says delivers more nuanced and realistic-sounding speech, and two speech-to-text models to its API &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250320/p33#a250320p33)
- - [John Giannandrea out as Siri chief, Apple Vision Pro lead in](https://appleinsider.com/articles/25/03/20/john-giannandrea-out-as-siri-chief-apple-vision-pro-lead-in?utm_medium=rss)<!-- TECH:END -->
+ - [Threads rolls out new features: ability to set following feed or any custom feed as the default, limit post replies to followers, a better video player, more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250320/p34#a250320p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

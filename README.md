@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LG shuts down Art Lab, its NFT marketplace for TVs launched in 2022 during the NFT craze; LG Art Lab used the Hedera network and expanded to Ethereum in 2024 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250320/p32#a250320p32)
  - [John Giannandrea out as Siri chief, Apple Vision Pro lead in](https://appleinsider.com/articles/25/03/20/john-giannandrea-out-as-siri-chief-apple-vision-pro-lead-in?utm_medium=rss)
+ - [Apple puts the Vision Pro guy in charge of Siri](https://www.theverge.com/news/633358/apple-replace-siri-leader-john-giannandrea)
  - [Best Internet Providers in Philadelphia, Pennsylvania](https://www.cnet.com/home/internet/best-internet-providers-in-philadelphia-pa/#ftag=CAD590a51e)
- - [Best Cordless Vacuums of 2025: We&#39;ve Picked the Best for Your Spring Cleaning Needs](https://www.cnet.com/home/kitchen-and-household/best-cordless-vacuum/#ftag=CAD590a51e)
- - [Take Advantage of High APYs Following the Fed&#39;s Rate Pause. Today&#39;s CD Rates, March 20, 2025](https://www.cnet.com/personal-finance/banking/take-advantage-of-high-apys-following-the-feds-rate-pause-todays-cd-rates-march-20-2025/#ftag=CAD590a51e)
- - [Nearly All Cybertrucks Have Been Recalled Because Tesla Used the Wrong Glue](https://www.wired.com/story/tesla-cybertrucks-made-with-the-wrong-glue-hit-with-yet-another-sticky-recall/)<!-- TECH:END -->
+ - [Best Cordless Vacuums of 2025: We&#39;ve Picked the Best for Your Spring Cleaning Needs](https://www.cnet.com/home/kitchen-and-household/best-cordless-vacuum/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

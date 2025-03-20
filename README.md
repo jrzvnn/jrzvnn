@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [X sues Narendra Modi&#39;s government in New Delhi, saying its IT ministry has unlawfully expanded censorship powers to allow the easier removal of online content &lpar;Reuters&rpar;](http://www.techmeme.com/250320/p29#a250320p29)
  - [TikTok will now show missing child notifications](https://www.theverge.com/news/633319/tiktok-amber-alerts-launch)
  - [This digital notebook simulates E Ink screens to reduce distractions](https://www.theverge.com/news/633234/xp-pen-magic-note-pad-digital-notebook-stylus)
- - [The TON Foundation raises over $400M from Sequoia Capital, Ribbit, and others via a sale of its Toncoin cryptocurrency, and says there are now 40M+ active users &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/250320/p28#a250320p28)<!-- TECH:END -->
+ - [10 of the Best Peacock Shows to Stream Now](https://www.cnet.com/tech/services-and-software/10-of-the-best-peacock-shows-to-stream-march-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

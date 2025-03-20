@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Beware of the Pharaoh&#39;s curse](http://9gag.com/gag/a87mPEV)
- - 😝 [No no no hail yes](http://9gag.com/gag/aLneYEV)
- - 💣 [A Carrot Distracts a Doe While Her Kits Are Moved](http://9gag.com/gag/aryAPp6)
- - 😝 [Pattern recognition is bad, you bigot!](http://9gag.com/gag/aNDvynG)
- - 👉 [Drugs are bad for you, mmkay?](http://9gag.com/gag/aPAPKVq)<!-- MEMES:END -->
+ - 😝 [Damn China at least you removed the blood But it&#39;s extreme](http://9gag.com/gag/ajPO258)
+ - 😝 [Instagram hell](http://9gag.com/gag/aoyVB1x)
+ - 💣 [Not all cultures are equal](http://9gag.com/gag/a2v0E1Y)
+ - 😝 [Anon loves his girlfriend](http://9gag.com/gag/abAOP9r)
+ - 👉 [A Carrot Distracts a Doe While Her Kits Are Moved](http://9gag.com/gag/aryAPp6)<!-- MEMES:END -->
 
 ---
 

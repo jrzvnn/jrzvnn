@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X sues Narendra Modi&#39;s government in New Delhi, saying its IT ministry has unlawfully expanded censorship powers to allow the easier removal of online content &lpar;Reuters&rpar;](http://www.techmeme.com/250320/p29#a250320p29)
+ - [TikTok will now show missing child notifications](https://www.theverge.com/news/633319/tiktok-amber-alerts-launch)
+ - [This digital notebook simulates E Ink screens to reduce distractions](https://www.theverge.com/news/633234/xp-pen-magic-note-pad-digital-notebook-stylus)
  - [The TON Foundation raises over $400M from Sequoia Capital, Ribbit, and others via a sale of its Toncoin cryptocurrency, and says there are now 40M+ active users &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/250320/p28#a250320p28)
- - [Get Disney Plus and Hulu bundle for only $2.99/mo for 4 months](https://appleinsider.com/articles/25/03/20/get-disney-plus-and-hulu-bundle-for-only-299mo-for-4-months?utm_medium=rss)
- - [Netflix&amp;#8217;s CEO talks Apple TV, Amazon, and the NFL](https://www.theverge.com/news/633264/neflix-ceo-ted-sarandos-interview-apple-tv-plus-hbo-max-nfl)
- - [A Livestreamed Tragedy on X Sparks a Memecoin Frenzy](https://www.wired.com/story/livestreamed-tragedy-x-memecoin-frenzy/)
- - [LG’s NFT marketplace for TVs is shutting down](https://www.theverge.com/news/633272/lg-art-lab-nft-marketplace-shutdown)<!-- TECH:END -->
+ - [Get Disney Plus and Hulu bundle for only $2.99/mo for 4 months](https://appleinsider.com/articles/25/03/20/get-disney-plus-and-hulu-bundle-for-only-299mo-for-4-months?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

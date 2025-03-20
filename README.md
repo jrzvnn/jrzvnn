@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Germany&#39;s Munich Re agrees to acquire digital insurance company Next Insurance for $2.6B; Next Insurance has raised ~$1.2B from Capital G, Redpoint, and others &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250320/p38#a250320p38)
+ - [The 33 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now &lpar;March 2025&rpar;](https://www.wired.com/story/best-movies-hbo-max-right-now/)
  - [The Pixel 9A&amp;#8217;s version of Gemini is missing a few features](https://www.theverge.com/news/633446/google-pixel-9a-gemini-nano-xxs-ai)
  - [Zagg’s new tablet dock adds over-sized playback controls to your iPad](https://www.theverge.com/news/633350/zagg-six-port-media-hub-tablet-usb-c-playback-controls)
- - [Source: Insight Partners is set to reap ~$2.7B from the pending sale of Wiz to Alphabet, a 15.5x return on its invested capital, based on its ~8% stake in Wiz &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/250320/p37#a250320p37)
- - [Google’s Pixel Buds Pro 2 are now $179, their lowest price yet](https://www.theverge.com/good-deals/633379/google-pixel-buds-pro-2-beats-studio-pro-headphones-deal-sale)
- - [Anthropic adds web search in preview for Claude 3.7 Sonnet, available now for paid US Claude users, with support for free users and more countries coming soon &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250320/p36#a250320p36)<!-- TECH:END -->
+ - [Source: Insight Partners is set to reap ~$2.7B from the pending sale of Wiz to Alphabet, a 15.5x return on its invested capital, based on its ~8% stake in Wiz &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/250320/p37#a250320p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

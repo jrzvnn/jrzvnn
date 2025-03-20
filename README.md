@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This guy is hated now for doing this ?](http://9gag.com/gag/aW4LVM4)
- - 😝 [I heard that the heroine is a lesbian??? Is that true?](http://9gag.com/gag/a4PNpVd)
- - 💣 [Definitely not rick roll](http://9gag.com/gag/a5QweoL)
+ - 😝 [Mattress foam.](http://9gag.com/gag/aAyKYm2)
  - 😝 [Chad warden](http://9gag.com/gag/aByVKGQ)
- - 👉 [Rare map cat](http://9gag.com/gag/aE0AdDe)<!-- MEMES:END -->
+ - 💣 [Stuff men go through](http://9gag.com/gag/an72q3o)
+ - 😝 [The last remaining continent on the planet has MYSTERIOUSLY erupted in `violence.`](http://9gag.com/gag/ae9ZNyv)
+ - 👉 [Definitely not rick roll](http://9gag.com/gag/a5QweoL)<!-- MEMES:END -->
 
 ---
 

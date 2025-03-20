@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mattress foam.](http://9gag.com/gag/aAyKYm2)
- - 😝 [How to spot a serial killer.](http://9gag.com/gag/aoyRZ70)
- - 💣 [A Carrot Distracts a Doe While Her Kits Are Moved](http://9gag.com/gag/aryAPp6)
- - 😝 [Someone should teach women what no means](http://9gag.com/gag/an72YvL)
- - 👉 [Exams](http://9gag.com/gag/a0eVmzO)<!-- MEMES:END -->
+ - 😝 [Hi bros.. Just got the paternity test and found out that my 5yr old son is not mine. My first post cuz im drunk.. Cheers &gt;&lt;](http://9gag.com/gag/a870LDe)
+ - 😝 [The last remaining continent on the planet has MYSTERIOUSLY erupted in `violence.`](http://9gag.com/gag/ae9ZNyv)
+ - 💣 [Pattern recognition is bad, you bigot!](http://9gag.com/gag/aNDvynG)
+ - 😝 [A Carrot Distracts a Doe While Her Kits Are Moved](http://9gag.com/gag/aryAPp6)
+ - 👉 [Hold X to activate boost](http://9gag.com/gag/ayN65o8)<!-- MEMES:END -->
 
 ---
 

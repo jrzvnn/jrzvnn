@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Digimon franchise is getting a mobile card came of its own](https://www.theverge.com/news/633224/bandai-digimon-alysion-mobile-game-trailer)
- - [We’ve entered a forever war with bird flu](https://www.theverge.com/science/632605/forever-war-with-bird-flu)
- - [Discord plans to roll out third-party ads on its mobile apps, starting with a mobile pilot for Video Quests, which let users earning rewards, in June 2025 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250320/p26#a250320p26)
- - [Sources: Apple TV+ is losing $1B+ annually even as its subscriptions grew to ~45M in 2024; one source says Apple has spent $5B+ on content since its 2019 launch &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/250320/p25#a250320p25)
- - [&#39;Wicked&#39; Will Stream on Peacock Tomorrow: Here&#39;s the Release Time](https://www.cnet.com/tech/services-and-software/wicked-will-stream-on-peacock-tomorrow-heres-the-release-time/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple TV+ is losing billions of dollars -- as planned and expected](https://appleinsider.com/articles/25/03/20/apple-tv-is-losing-billions-of-dollars----as-planned-and-expected?utm_medium=rss)
+ - [Walrus Foundation, which is building an on-chain storage network, raised $140M from Standard Crypto, a16z, and others in a sale of its cryptocurrency, $WAL &lpar;Fortune&rpar;](http://www.techmeme.com/250320/p27#a250320p27)
+ - [Tesla recalls more than 46,000 Cybertrucks after trim starts falling off](https://www.theverge.com/news/633207/tesla-cybertruck-loose-trim-recall)
+ - [Speediance Gym Monster 2 Review: All-in-One Workout Machine](https://www.wired.com/review/speediance-gym-monster-2/)
+ - [The beautiful, retro tech of two theatrical sound designers](https://www.theverge.com/tech/631922/sound-design-interview-hardware-music-home)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

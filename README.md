@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The fart that rules them all](http://9gag.com/gag/axy6N41)
  - 😝 [Chad warden](http://9gag.com/gag/aByVKGQ)
- - 😝 [I&#39;m just a title](http://9gag.com/gag/axy62YD)
- - 💣 [You Be Soft](http://9gag.com/gag/aMVP1gA)
- - 😝 [Men only want one thing and it&#39;s](http://9gag.com/gag/aVvKQRd)
- - 👉 [If someone breaks into your home, the cops prefer if you shoot them](http://9gag.com/gag/avy60Mq)<!-- MEMES:END -->
+ - 💣 [The last remaining continent on the planet has MYSTERIOUSLY erupted in `violence.`](http://9gag.com/gag/ae9ZNyv)
+ - 😝 [Stop, stop, stop, stoooop](http://9gag.com/gag/adBQ6B9)
+ - 👉 [Hi bros.. Just got the paternity test and found out that my 5yr old son is not mine. My first post cuz im drunk.. Cheers &gt;&lt;](http://9gag.com/gag/a870LDe)<!-- MEMES:END -->
 
 ---
 

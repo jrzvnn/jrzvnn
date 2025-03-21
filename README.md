@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Two spies caught on action](http://9gag.com/gag/aW4nWxd)
- - 😝 [Ma man](http://9gag.com/gag/ae9Z08Q)
- - 💣 [HAH! Got eem&#39;](http://9gag.com/gag/a870jj1)
- - 😝 [O_o](http://9gag.com/gag/aMVPrpG)
- - 👉 [Finally, a reason to switch permanently](http://9gag.com/gag/axy6EAL)<!-- MEMES:END -->
+ - 😝 [Demi Moore celebrating Bruce Willis\u2019 70th birthday with him.](http://9gag.com/gag/awy1brQ)
+ - 😝 [A happy man.](http://9gag.com/gag/aO8ZoNE)
+ - 💣 [Take a seat](http://9gag.com/gag/ajPLrvw)
+ - 😝 [Just left](http://9gag.com/gag/aVvKW1v)
+ - 👉 [Definitely not rick roll](http://9gag.com/gag/a5QweoL)<!-- MEMES:END -->
 
 ---
 

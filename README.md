@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s crazy.](http://9gag.com/gag/a6Z5m0m)
- - 😝 [Stuff men go through](http://9gag.com/gag/an72q3o)
- - 💣 [Big womeh](http://9gag.com/gag/aNDQK6v)
- - 😝 [Ubisoft really f**ks with the Japanese Royal Family](http://9gag.com/gag/aYQDej2)
- - 👉 [The last remaining continent on the planet has MYSTERIOUSLY erupted in `violence.`](http://9gag.com/gag/ae9ZNyv)<!-- MEMES:END -->
+ - 😝 [The last remaining continent on the planet has MYSTERIOUSLY erupted in `violence.`](http://9gag.com/gag/ae9ZNyv)
+ - 😝 [The fart that rules them all](http://9gag.com/gag/axy6N41)
+ - 💣 [This is what I pay the internet for.](http://9gag.com/gag/a5QwdDE)
+ - 😝 [I bet Richard San stole that hoodie](http://9gag.com/gag/aO8Zy4D)
+ - 👉 [Big womeh](http://9gag.com/gag/aNDQK6v)<!-- MEMES:END -->
 
 ---
 

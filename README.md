@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The last remaining continent on the planet has MYSTERIOUSLY erupted in `violence.`](http://9gag.com/gag/ae9ZNyv)
- - 😝 [Someone should teach women what no means](http://9gag.com/gag/an72YvL)
- - 💣 [Finally, a reason to switch permanently](http://9gag.com/gag/axy6EAL)
- - 😝 [Usual propaganda movie](http://9gag.com/gag/a9y5dD1)
- - 👉 [Demi Moore celebrating Bruce Willis\u2019 70th birthday with him.](http://9gag.com/gag/awy1brQ)<!-- MEMES:END -->
+ - 😝 [Take a seat](http://9gag.com/gag/ajPLrvw)
+ - 😝 [The fart that rules them all](http://9gag.com/gag/axy6N41)
+ - 💣 [Amazonian moaning sound](http://9gag.com/gag/avy62gZ)
+ - 😝 [WOW](http://9gag.com/gag/aLn4R6M)
+ - 👉 [Ma man](http://9gag.com/gag/ae9Z08Q)<!-- MEMES:END -->
 
 ---
 

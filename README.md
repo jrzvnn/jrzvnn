@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pwease buy it](http://9gag.com/gag/aPAovKG)
- - 😝 [Usual propaganda movie](http://9gag.com/gag/a9y5dD1)
- - 💣 [Oh, so Netflix will only cast white people if they make them into murderers\u2026](http://9gag.com/gag/aZZ8PxX)
- - 😝 [The last remaining continent on the planet has MYSTERIOUSLY erupted in `violence.`](http://9gag.com/gag/ae9ZNyv)
- - 👉 [Someone should teach women what no means](http://9gag.com/gag/an72YvL)<!-- MEMES:END -->
+ - 😝 [A dogs hearing](http://9gag.com/gag/ajPLnD0)
+ - 😝 [Once Upon a time, there was a meme for everything](http://9gag.com/gag/aVvKQpO)
+ - 💣 [According to Sun Tzu, if instructions are not clear, the fault lies with the commander](http://9gag.com/gag/aByVQDN)
+ - 😝 [Ma man](http://9gag.com/gag/ae9Z08Q)
+ - 👉 [Sharing my oldies collection #19](http://9gag.com/gag/aVvKW6n)<!-- MEMES:END -->
 
 ---
 

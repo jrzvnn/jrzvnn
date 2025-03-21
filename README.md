@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lyft says it plans to roll out robotaxis in partnership with May Mobility in Atlanta, starting summer 2025 &lpar;Bruna Horvath/NBC News&rpar;](http://www.techmeme.com/250321/p20#a250321p20)
  - [Anker&amp;#8217;s small and light 45W USB-C charger is now even smaller and lighter](https://www.theverge.com/news/633898/anker-nano-45w-charger-samsung-super-fast-chargin)
  - [Elon Musk made more promises about Optimus and Cybercabs at Tesla&amp;#8217;s surprise all-hands meeting](https://www.theverge.com/news/633907/elon-musk-tesla-employee-meeting-stock-value-drop-cybercab-optimus)
  - [Sources: KKR, Coatue, and other ByteDance investors are exploring buying out Chinese investors from TikTok US to assure Trump that it is free of Chinese control &lpar;Financial Times&rpar;](http://www.techmeme.com/250321/p19#a250321p19)
- - [The US Treasury&#39;s sanctions watchdog removes Tornado Cash from its global blacklist, after a federal appeals court ruled against the sanctions in November 2024 &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/250321/p18#a250321p18)
- - [Opening iOS is good news for smartwatches](https://www.theverge.com/news/633765/ios-eu-interoperability-smartwatches-headphones)<!-- TECH:END -->
+ - [The US Treasury&#39;s sanctions watchdog removes Tornado Cash from its global blacklist, after a federal appeals court ruled against the sanctions in November 2024 &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/250321/p18#a250321p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Interviews with 50+ current and ex-staffers reveal Google&#39;s two-year race to catch up with OpenAI, including through layoffs and lowering some guardrails &lpar;Wired&rpar;](http://www.techmeme.com/250321/p16#a250321p16)
  - [The future of internet liability is uncertain as congress targets Section 230](https://appleinsider.com/articles/25/03/21/the-future-of-internet-liability-is-uncertain-as-congress-targets-section-230?utm_medium=rss)
  - [14 Best USB Flash Drives &lpar;2025&rpar;: Pen Drives, Thumb Drives, Memory Sticks](https://www.wired.com/gallery/best-usb-flash-drives/)
  - [It&#39;s back: Pick up a MacBook Air for $699.99 while supplies last](https://appleinsider.com/articles/25/03/21/its-back-pick-up-a-macbook-air-for-69999-while-supplies-last?utm_medium=rss)
- - [The crypto bars are invading Washington](https://www.theverge.com/cryptocurrency/633590/crypto-bar-pubkey-washington)
- - [Bigscreen&amp;#8217;s super light Beyond 2 headset adds optional eye-tracking](https://www.theverge.com/news/633820/bigscreen-beyond-2-lightweight-eye-tracking-vr-headset)<!-- TECH:END -->
+ - [The crypto bars are invading Washington](https://www.theverge.com/cryptocurrency/633590/crypto-bar-pubkey-washington)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

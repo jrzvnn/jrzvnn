@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says its test removing European news content for 1% of users in eight EU countries found that there was no change to Search ad revenue due to the removal &lpar;Paul Liu/The Keyword&rpar;](http://www.techmeme.com/250321/p29#a250321p29)
+ - [It’s time to squad up in this preview from Apple’s Mythic Quest spinoff series](https://www.theverge.com/news/633884/mythic-quest-side-quest-the-last-raid)
  - [No DEI allowed for US mergers and acquisitions, says the new FCC chair](https://www.theverge.com/news/634244/fcc-brendan-carr-dei-us-mergers-acquisitions)
  - [Lyft’s robotaxis will launch in Atlanta this summer](https://www.theverge.com/news/634243/lyft-robotaxi-launch-may-mobility-atlanta)
- - [Lawmakers are trying to repeal Section 230 again](https://www.theverge.com/news/634189/section-230-repeal-graham-durbin)
- - [DoorDash partners with Klarna to offer payment plans, including credit options for purchases of $35 or more; Grubhub also uses Klarna as a payment option &lpar;Gael Cooper/CNET&rpar;](http://www.techmeme.com/250321/p28#a250321p28)
- - [My 5 Favorite Games from Xbox&#39;s GDC Showcase](https://www.cnet.com/tech/gaming/my-5-favorite-games-from-xboxs-gdc-showcase/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lawmakers are trying to repeal Section 230 again](https://www.theverge.com/news/634189/section-230-repeal-graham-durbin)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

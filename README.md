@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Once Upon a time, there was a meme for everything](http://9gag.com/gag/aVvKQpO)
- - 😝 [Accurate](http://9gag.com/gag/a340d05)
- - 💣 [Not a propaganda bot!](http://9gag.com/gag/a5QwPEN)
- - 😝 [Ma man](http://9gag.com/gag/ae9Z08Q)
- - 👉 [Sharing my folder #1](http://9gag.com/gag/aD283dx)<!-- MEMES:END -->
+ - 😝 [It&#39;s crazy.](http://9gag.com/gag/a6Z5m0m)
+ - 😝 [The last remaining continent on the planet has MYSTERIOUSLY erupted in `violence.`](http://9gag.com/gag/ae9ZNyv)
+ - 💣 [There was blood everywhere on the streets...](http://9gag.com/gag/ajPLnWx)
+ - 😝 [Tipical day in Brazil.](http://9gag.com/gag/apR6o7E)
+ - 👉 [O_o](http://9gag.com/gag/aMVPrpG)<!-- MEMES:END -->
 
 ---
 

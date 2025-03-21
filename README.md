@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Heathrow airport shutdown creates travel chaos](https://www.theverge.com/news/633687/heathrow-airport-closure-fire-power-outage-flights)
  - [How to Avoid US-Based Digital Services—and Why You Might Want To](https://www.wired.com/story/trump-era-digital-expat/)
  - [Micron Q2: revenue up 38% YoY to $8.05B vs. $7.89B est., net income up 99% to $1.58B, says data center revenue tripled, offers better-than-expected Q3 guidance &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250321/p10#a250321p10)
- - [Inside Google’s Two-Year Frenzy to Catch Up With OpenAI](https://www.wired.com/story/google-openai-gemini-chatgpt-artificial-intelligence/)
- - [Researchers Rush to Save US Government Data on Trans Youth—Before It Disappears](https://www.wired.com/story/researchers-rush-to-save-data-on-trans-youth-before-it-disappears/)
- - [A profile of Wiz CEO Assaf Rappaport, who served in Israel&#39;s elite cyber intelligence unit 8200; sources say Wiz was on track to surpass $1B of ARR in 2025 &lpar;Financial Times&rpar;](http://www.techmeme.com/250321/p9#a250321p9)<!-- TECH:END -->
+ - [Best Internet Providers in Rochester, New York](https://www.cnet.com/home/internet/best-internet-providers-in-rochester-ny/#ftag=CAD590a51e)
+ - [Best Internet Providers in Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-ohio/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

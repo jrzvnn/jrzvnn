@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [By great Nobunaga&#39;s ghost!](http://9gag.com/gag/aZZ8PbQ)
- - 😝 [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/adBO3nM)
- - 💣 [Sharing my folder #1](http://9gag.com/gag/aD283dx)
- - 😝 [The worst? Come on, what about Iraq weapons of mass destruction, axis of evil.](http://9gag.com/gag/amo6059)
- - 👉 [Take a seat](http://9gag.com/gag/ajPLrvw)<!-- MEMES:END -->
+ - 😝 [Exams](http://9gag.com/gag/a0eVmzO)
+ - 😝 [Amazonian moaning sound](http://9gag.com/gag/avy62gZ)
+ - 💣 [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/adBO3nM)
+ - 😝 [Take a seat](http://9gag.com/gag/ajPLrvw)
+ - 👉 [Hi bros.. Just got the paternity test and found out that my 5yr old son is not mine. My first post cuz im drunk.. Cheers &gt;&lt;](http://9gag.com/gag/a870LDe)<!-- MEMES:END -->
 
 ---
 

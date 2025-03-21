@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gen AI&#39;s Accuracy Problems Aren&#39;t Going Away Anytime Soon, Researchers Say](https://www.cnet.com/tech/services-and-software/gen-ais-accuracy-problems-arent-going-away-anytime-soon-researchers-say/#ftag=CAD590a51e)
+ - [Stock Market Volatility: Should We Really Keep Calm and Carry On?](https://www.cnet.com/personal-finance/stock-market-volatility-should-we-really-keep-calm-and-carry-on/#ftag=CAD590a51e)
  - [Google says its test removing European news content for 1% of users in eight EU countries found that there was no change to Search ad revenue due to the removal &lpar;Paul Liu/The Keyword&rpar;](http://www.techmeme.com/250321/p29#a250321p29)
  - [It’s time to squad up in this preview from Apple’s Mythic Quest spinoff series](https://www.theverge.com/news/633884/mythic-quest-side-quest-the-last-raid)
- - [No DEI allowed for US mergers and acquisitions, says the new FCC chair](https://www.theverge.com/news/634244/fcc-brendan-carr-dei-us-mergers-acquisitions)
- - [Lyft’s robotaxis will launch in Atlanta this summer](https://www.theverge.com/news/634243/lyft-robotaxi-launch-may-mobility-atlanta)
- - [Lawmakers are trying to repeal Section 230 again](https://www.theverge.com/news/634189/section-230-repeal-graham-durbin)<!-- TECH:END -->
+ - [Best Android Phone of 2025](https://www.cnet.com/tech/mobile/best-android-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lawmakers are trying to repeal Section 230 again](https://www.theverge.com/news/634189/section-230-repeal-graham-durbin)
+ - [DoorDash partners with Klarna to offer payment plans, including credit options for purchases of $35 or more; Grubhub also uses Klarna as a payment option &lpar;Gael Cooper/CNET&rpar;](http://www.techmeme.com/250321/p28#a250321p28)
  - [The best MagSafe and Qi2 chargers](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
  - [Drama over quantum computing&amp;#8217;s future heats up](https://www.theverge.com/tech/633248/beyond-the-hype-of-quantum-computers)
- - [The best iPad deals you can get](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Watch this ultra-detailed animation of the seafloor](https://www.theverge.com/nasa/634086/ocean-floor-map-satellite-nasa-cnes)
- - [Sources: Katie Haun is raising $1B across two new crypto-focused funds as her Haun Ventures is close to deploying most of the $1.5B raised in 2022 &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/250321/p27#a250321p27)<!-- TECH:END -->
+ - [The best iPad deals you can get](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sharing my oldies collection #19](http://9gag.com/gag/aVvKW6n)
- - 😝 [Not a propaganda bot!](http://9gag.com/gag/a5QwPEN)
- - 💣 [Sharing my folder #1](http://9gag.com/gag/aD283dx)
- - 😝 [A dogs hearing](http://9gag.com/gag/ajPLnD0)
- - 👉 [My man\ud83d\ude4c](http://9gag.com/gag/a4PNL71)<!-- MEMES:END -->
+ - 😝 [Chickens, plural](http://9gag.com/gag/an72KNz)
+ - 😝 [The last remaining continent on the planet has MYSTERIOUSLY erupted in `violence.`](http://9gag.com/gag/ae9ZNyv)
+ - 💣 [This is what I pay the internet for.](http://9gag.com/gag/a5QwdDE)
+ - 😝 [According to Sun Tzu, if instructions are not clear, the fault lies with the commander](http://9gag.com/gag/aByVQDN)
+ - 👉 [Big womeh](http://9gag.com/gag/aNDQK6v)<!-- MEMES:END -->
 
 ---
 

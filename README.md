@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The last remaining continent on the planet has MYSTERIOUSLY erupted in `violence.`](http://9gag.com/gag/ae9ZNyv)
- - 😝 [The fart that rules them all](http://9gag.com/gag/axy6N41)
- - 💣 [This is what I pay the internet for.](http://9gag.com/gag/a5QwdDE)
- - 😝 [I bet Richard San stole that hoodie](http://9gag.com/gag/aO8Zy4D)
- - 👉 [Big womeh](http://9gag.com/gag/aNDQK6v)<!-- MEMES:END -->
+ - 😝 [This game is colossal slop](http://9gag.com/gag/adBQNEM)
+ - 😝 [Coal miner waiting to get into the communal shower at the end of his shift, taken in Gelsenkirchen, Germany, 1958](http://9gag.com/gag/abA40Q9)
+ - 💣 [Rammstein video vs $300 million dollar Hollywood](http://9gag.com/gag/amo6LNV)
+ - 😝 [Treventus scan robot processes up to 2500 pages per hour](http://9gag.com/gag/ae9Z3QO)
+ - 👉 [This is what I pay the internet for.](http://9gag.com/gag/a5QwdDE)<!-- MEMES:END -->
 
 ---
 

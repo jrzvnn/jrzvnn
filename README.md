@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The fart that rules them all](http://9gag.com/gag/axy6N41)
- - 😝 [Ma man](http://9gag.com/gag/ae9Z08Q)
- - 💣 [Demi Moore celebrating Bruce Willis\u2019 70th birthday with him.](http://9gag.com/gag/awy1brQ)
- - 😝 [Hold X to activate boost](http://9gag.com/gag/ayN65o8)
- - 👉 [Two spies caught on action](http://9gag.com/gag/aW4nWxd)<!-- MEMES:END -->
+ - 😝 [Close call. It&#39;s like a movie !](http://9gag.com/gag/aByVK81)
+ - 😝 [Oh, so Netflix will only cast white people if they make them into murderers\u2026](http://9gag.com/gag/aZZ8PxX)
+ - 💣 [Two spies caught on action](http://9gag.com/gag/aW4nWxd)
+ - 😝 [Demi Moore celebrating Bruce Willis\u2019 70th birthday with him.](http://9gag.com/gag/awy1brQ)
+ - 👉 [Take a seat](http://9gag.com/gag/ajPLrvw)<!-- MEMES:END -->
 
 ---
 

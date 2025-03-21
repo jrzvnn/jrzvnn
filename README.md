@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Opening iOS is good news for smartwatches](https://www.theverge.com/news/633765/ios-eu-interoperability-smartwatches-headphones)
+ - [Yahoo strikes a deal to sell TechCrunch to media investment firm Regent, which acquired PCWorld publisher Foundry earlier this week &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250321/p17#a250321p17)
  - [Interviews with 50+ current and ex-staffers reveal Google&#39;s two-year race to catch up with OpenAI, including through layoffs and lowering some guardrails &lpar;Wired&rpar;](http://www.techmeme.com/250321/p16#a250321p16)
  - [The future of internet liability is uncertain as congress targets Section 230](https://appleinsider.com/articles/25/03/21/the-future-of-internet-liability-is-uncertain-as-congress-targets-section-230?utm_medium=rss)
- - [14 Best USB Flash Drives &lpar;2025&rpar;: Pen Drives, Thumb Drives, Memory Sticks](https://www.wired.com/gallery/best-usb-flash-drives/)
- - [It&#39;s back: Pick up a MacBook Air for $699.99 while supplies last](https://appleinsider.com/articles/25/03/21/its-back-pick-up-a-macbook-air-for-69999-while-supplies-last?utm_medium=rss)
- - [The crypto bars are invading Washington](https://www.theverge.com/cryptocurrency/633590/crypto-bar-pubkey-washington)<!-- TECH:END -->
+ - [14 Best USB Flash Drives &lpar;2025&rpar;: Pen Drives, Thumb Drives, Memory Sticks](https://www.wired.com/gallery/best-usb-flash-drives/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

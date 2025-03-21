@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rage from the Archives](http://9gag.com/gag/ayN6EzV)
- - 😝 [Take a seat](http://9gag.com/gag/ajPLrvw)
- - 💣 [Someone should teach women what no means](http://9gag.com/gag/an72YvL)
- - 😝 [Demi Moore celebrating Bruce Willis\u2019 70th birthday with him.](http://9gag.com/gag/awy1brQ)
- - 👉 [Two spies caught on action](http://9gag.com/gag/aW4nWxd)<!-- MEMES:END -->
+ - 😝 [The last remaining continent on the planet has MYSTERIOUSLY erupted in `violence.`](http://9gag.com/gag/ae9ZNyv)
+ - 😝 [Someone should teach women what no means](http://9gag.com/gag/an72YvL)
+ - 💣 [Finally, a reason to switch permanently](http://9gag.com/gag/axy6EAL)
+ - 😝 [Usual propaganda movie](http://9gag.com/gag/a9y5dD1)
+ - 👉 [Demi Moore celebrating Bruce Willis\u2019 70th birthday with him.](http://9gag.com/gag/awy1brQ)<!-- MEMES:END -->
 
 ---
 

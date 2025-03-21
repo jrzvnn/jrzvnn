@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Apple TV+ studio buildings taking shape in Culver City](https://appleinsider.com/articles/25/03/20/construction-begins-on-delayed-apple-tv-studios?utm_medium=rss)
- - [Trump&amp;#8217;s confusing crusade against Big Tech](https://www.theverge.com/the-vergecast/633757/trump-big-tech-tiktok-ftc-siri-vergecast)
- - [Source: US Senators Dick Durbin and Lindsey Graham plan to introduce a bipartisan bill with wide support that would make Section 230 expire on January 1, 2027 &lpar;Paris Martineau/The Information&rpar;](http://www.techmeme.com/250321/p14#a250321p14)
- - [&#39;Severance,&#39; the biggest success on Apple TV+, will be back for a third season](https://appleinsider.com/articles/25/03/21/severance-the-biggest-success-on-apple-tv-will-be-back-for-a-third-season?utm_medium=rss)
- - [M4 MacBook Air review: More power than ever, at a lower price point](https://appleinsider.com/articles/25/03/21/m4-macbook-air-review-more-power-than-ever-at-a-lower-price-point?utm_medium=rss)<!-- TECH:END -->
+ - [The FCC is probing Chicago public radio station WBEZ over on-air sponsorships](https://www.theverge.com/news/633792/fcc-probe-wbez-npr-pbs-radio-underwriting-investigation)
+ - [BuildOps, which develops software for commercial services contractors, raised a $127M Series C led by Meritech Capital at a $1B post-money valuation &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250321/p15#a250321p15)
+ - [GM blocks dealership from installing Apple CarPlay retrofit kits in EVs](https://www.theverge.com/news/633791/gm-apple-carplay-retrofit-shut-down)
+ - [Coca-Cola’s new hydrogen-powered vending machine doesn’t need a power outlet](https://www.theverge.com/news/633779/coca-cola-fuji-electric-vending-machine-hydrogen-power)
+ - [Pokémon TCG Pocket is getting in on the shiny hype](https://www.theverge.com/news/633759/pokemon-tcg-pocket-shining-revelry)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

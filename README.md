@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [No DEI allowed for US mergers and acquisitions, says the new FCC chair](https://www.theverge.com/news/634244/fcc-brendan-carr-dei-us-mergers-acquisitions)
+ - [Lyft’s robotaxis will launch in Atlanta this summer](https://www.theverge.com/news/634243/lyft-robotaxi-launch-may-mobility-atlanta)
  - [Lawmakers are trying to repeal Section 230 again](https://www.theverge.com/news/634189/section-230-repeal-graham-durbin)
  - [DoorDash partners with Klarna to offer payment plans, including credit options for purchases of $35 or more; Grubhub also uses Klarna as a payment option &lpar;Gael Cooper/CNET&rpar;](http://www.techmeme.com/250321/p28#a250321p28)
- - [The best MagSafe and Qi2 chargers](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
- - [Drama over quantum computing&amp;#8217;s future heats up](https://www.theverge.com/tech/633248/beyond-the-hype-of-quantum-computers)
- - [The best iPad deals you can get](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
+ - [My 5 Favorite Games from Xbox&#39;s GDC Showcase](https://www.cnet.com/tech/gaming/my-5-favorite-games-from-xboxs-gdc-showcase/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;We Don’t Want an AI Demo, We Want Answers’: Federal Workers Grill Trump Appointee During All-Hands](https://www.wired.com/story/gsa-staff-all-hands-meeting-ai/)
- - [The US SEC says proof-of-work crypto mining doesn&#39;t trigger federal securities laws and mining operators do not need to register their transactions with the SEC &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/250320/p44#a250320p44)
- - [These Are the Best Smart Devices for Amazon Alexa in 2025](https://www.cnet.com/home/smart-home/best-alexa-devices/#ftag=CAD590a51e)
- - [Apple&#39;s premature Apple Intelligence ad subject of new lawsuit](https://appleinsider.com/articles/25/03/20/apples-premature-apple-intelligence-ad-subject-of-new-lawsuit?utm_medium=rss)
- - [Best Smart Home Devices of 2025](https://www.cnet.com/home/smart-home/best-smart-home-devices/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [At Nvidia&#39;s Quantum Day, Jensen Huang walked back his January comments that cast doubt on the timeline for useful quantum computing and caused a stock selloff &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250320/p45#a250320p45)
+ - [Best Tablet 2025: Top Tablets From Apple, Samsung, Amazon and More](https://www.cnet.com/tech/computing/best-tablet/#ftag=CAD590a51e)
+ - [The crypto bars are invading Washington](https://www.theverge.com/cryptocurrency/633590/crypto-bar-pubkey-washington)
+ - [Speediance VeloNix stationary bike review: a solid biking experience for those who can afford it](https://appleinsider.com/articles/25/03/21/speediance-velonix-stationary-bike-review-a-solid-biking-experience-for-those-who-can-afford-it?utm_medium=rss)
+ - [Best Laptops of 2025](https://www.cnet.com/tech/computing/best-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

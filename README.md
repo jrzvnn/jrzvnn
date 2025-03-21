@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stuff men go through](http://9gag.com/gag/an72q3o)
- - 😝 [Dress code while in London](http://9gag.com/gag/azxKEYN)
- - 💣 [Someone should teach women what no means](http://9gag.com/gag/an72YvL)
- - 😝 [I wonder how much they paid for these.](http://9gag.com/gag/aW4n0GA)
- - 👉 [Hold X to activate boost](http://9gag.com/gag/ayN65o8)<!-- MEMES:END -->
+ - 😝 [Two spies caught on action](http://9gag.com/gag/aW4nWxd)
+ - 😝 [Ma man](http://9gag.com/gag/ae9Z08Q)
+ - 💣 [HAH! Got eem&#39;](http://9gag.com/gag/a870jj1)
+ - 😝 [O_o](http://9gag.com/gag/aMVPrpG)
+ - 👉 [Finally, a reason to switch permanently](http://9gag.com/gag/axy6EAL)<!-- MEMES:END -->
 
 ---
 

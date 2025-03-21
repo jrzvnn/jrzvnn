@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Heh](http://9gag.com/gag/avy60pn)
- - 😝 [Oh, so Netflix will only cast white people if they make them into murderers\u2026](http://9gag.com/gag/aZZ8PxX)
- - 💣 [I wonder how much they paid for these.](http://9gag.com/gag/aW4n0GA)
- - 😝 [Lady &lpar;?&rpar; hulk.....](http://9gag.com/gag/ae9OXqQ)
- - 👉 [Close call. It&#39;s like a movie !](http://9gag.com/gag/aByVK81)<!-- MEMES:END -->
+ - 😝 [By great Nobunaga&#39;s ghost!](http://9gag.com/gag/aZZ8PbQ)
+ - 😝 [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/adBO3nM)
+ - 💣 [Sharing my folder #1](http://9gag.com/gag/aD283dx)
+ - 😝 [The worst? Come on, what about Iraq weapons of mass destruction, axis of evil.](http://9gag.com/gag/amo6059)
+ - 👉 [Take a seat](http://9gag.com/gag/ajPLrvw)<!-- MEMES:END -->
 
 ---
 

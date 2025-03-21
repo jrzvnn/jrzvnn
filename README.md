@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Denver-based Multiply Mortgage, which provides an AI-based mortgage origination service for tech employees, raised a $23.5M Series A led by Kleiner Perkins &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250320/p47#a250320p47)
  - [Google says it uncovered 10K+ illegitimate listings, including for fake businesses, on Maps and files a lawsuit against the alleged scammers behind the fraud &lpar;Kara Fellows/CBS News&rpar;](http://www.techmeme.com/250320/p46#a250320p46)
  - [It&#39;s back: Pick up a MacBook Air for $699.99 while supplies last](https://appleinsider.com/articles/25/03/21/its-back-pick-up-a-macbook-air-for-69999-while-supplies-last?utm_medium=rss)
  - [At Nvidia&#39;s Quantum Day, Jensen Huang walked back his January comments that cast doubt on the timeline for useful quantum computing and caused a stock selloff &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250320/p45#a250320p45)
- - [Best Tablet 2025: Top Tablets From Apple, Samsung, Amazon and More](https://www.cnet.com/tech/computing/best-tablet/#ftag=CAD590a51e)
- - [The crypto bars are invading Washington](https://www.theverge.com/cryptocurrency/633590/crypto-bar-pubkey-washington)<!-- TECH:END -->
+ - [Best Tablet 2025: Top Tablets From Apple, Samsung, Amazon and More](https://www.cnet.com/tech/computing/best-tablet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Skateboard adventure](http://9gag.com/gag/aMVPbe6)
- - 😝 [Once Upon a time, there was a meme for everything](http://9gag.com/gag/aVvKQpO)
- - 💣 [Manners maketh man...](http://9gag.com/gag/aqy6mzp)
- - 😝 [That&#39;s so cute](http://9gag.com/gag/abA4y2X)
- - 👉 [According to Sun Tzu, if instructions are not clear, the fault lies with the commander](http://9gag.com/gag/aByVQDN)<!-- MEMES:END -->
+ - 😝 [Rage from the Archives](http://9gag.com/gag/ayN6EzV)
+ - 😝 [Take a seat](http://9gag.com/gag/ajPLrvw)
+ - 💣 [Someone should teach women what no means](http://9gag.com/gag/an72YvL)
+ - 😝 [Demi Moore celebrating Bruce Willis\u2019 70th birthday with him.](http://9gag.com/gag/awy1brQ)
+ - 👉 [Two spies caught on action](http://9gag.com/gag/aW4nWxd)<!-- MEMES:END -->
 
 ---
 

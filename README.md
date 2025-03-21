@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Take a seat](http://9gag.com/gag/ajPLrvw)
- - 😝 [How to spot a serial killer.](http://9gag.com/gag/aoyRZ70)
- - 💣 [Hi bros.. Just got the paternity test and found out that my 5yr old son is not mine. My first post cuz im drunk.. Cheers &gt;&lt;](http://9gag.com/gag/a870LDe)
- - 😝 [Hold X to activate boost](http://9gag.com/gag/ayN65o8)
+ - 😝 [Amazonian moaning sound](http://9gag.com/gag/avy62gZ)
+ - 😝 [Usual propaganda movie](http://9gag.com/gag/a9y5dD1)
+ - 💣 [Close call. It&#39;s like a movie !](http://9gag.com/gag/aByVK81)
+ - 😝 [Two spies caught on action](http://9gag.com/gag/aW4nWxd)
  - 👉 [Exams](http://9gag.com/gag/a0eVmzO)<!-- MEMES:END -->
 
 ---

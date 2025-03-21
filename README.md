@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Chinese AI startup Manycore, which develops spatial design software, has filed for a Hong Kong IPO, and reported a $58.3M loss from Q1 to Q3 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250321/p2#a250321p2)
  - [Shipments of India-manufactured smartphones grew 6% YoY in 2024, with Samsung and Apple accounting for ~94% of exports; Samsung&#39;s India exports grew 13% YoY &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250321/p1#a250321p1)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, March 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-march-21/#ftag=CAD590a51e)
  - [Denver-based Multiply Mortgage, which provides an AI-based mortgage origination service for tech employees, raised a $23.5M Series A led by Kleiner Perkins &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250320/p47#a250320p47)
- - [Google says it uncovered 10K+ illegitimate listings, including for fake businesses, on Maps and files a lawsuit against the alleged scammers behind the fraud &lpar;Kara Fellows/CBS News&rpar;](http://www.techmeme.com/250320/p46#a250320p46)
- - [It&#39;s back: Pick up a MacBook Air for $699.99 while supplies last](https://appleinsider.com/articles/25/03/21/its-back-pick-up-a-macbook-air-for-69999-while-supplies-last?utm_medium=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, March 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-march-21/#ftag=CAD590a51e)
+ - [Google says it uncovered 10K+ illegitimate listings, including for fake businesses, on Maps and files a lawsuit against the alleged scammers behind the fraud &lpar;Kara Fellows/CBS News&rpar;](http://www.techmeme.com/250320/p46#a250320p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

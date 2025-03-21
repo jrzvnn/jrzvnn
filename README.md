@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A dogs hearing](http://9gag.com/gag/ajPLnD0)
- - 😝 [Once Upon a time, there was a meme for everything](http://9gag.com/gag/aVvKQpO)
- - 💣 [According to Sun Tzu, if instructions are not clear, the fault lies with the commander](http://9gag.com/gag/aByVQDN)
- - 😝 [Ma man](http://9gag.com/gag/ae9Z08Q)
- - 👉 [Sharing my oldies collection #19](http://9gag.com/gag/aVvKW6n)<!-- MEMES:END -->
+ - 😝 [Stuff men go through](http://9gag.com/gag/an72q3o)
+ - 😝 [Dress code while in London](http://9gag.com/gag/azxKEYN)
+ - 💣 [Someone should teach women what no means](http://9gag.com/gag/an72YvL)
+ - 😝 [I wonder how much they paid for these.](http://9gag.com/gag/aW4n0GA)
+ - 👉 [Hold X to activate boost](http://9gag.com/gag/ayN65o8)<!-- MEMES:END -->
 
 ---
 

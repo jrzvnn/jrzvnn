@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple striving for better iPhone fold battery life](https://appleinsider.com/articles/25/03/21/apple-striving-for-better-iphone-fold-battery-life?utm_medium=rss)
+ - [High Thread Count Doesn’t Really Matter &lpar;2025&rpar;](https://www.wired.com/story/why-a-higher-thread-count-isnt-always-better/)
  - [Chinese food delivery giant Meituan reports Q4 revenue up 20% to $12.21B, vs. $12.1B est., net profit up 180% YoY to $858M, even as it faces stiff competition &lpar;Kimberley Kao/Wall Street Journal&rpar;](http://www.techmeme.com/250321/p11#a250321p11)
- - [Heathrow airport shutdown creates travel chaos](https://www.theverge.com/news/633687/heathrow-airport-closure-fire-power-outage-flights)
- - [How to Avoid US-Based Digital Services—and Why You Might Want To](https://www.wired.com/story/trump-era-digital-expat/)
- - [Micron Q2: revenue up 38% YoY to $8.05B vs. $7.89B est., net income up 99% to $1.58B, says data center revenue tripled, offers better-than-expected Q3 guidance &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250321/p10#a250321p10)
- - [Best Internet Providers in Rochester, New York](https://www.cnet.com/home/internet/best-internet-providers-in-rochester-ny/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Prime Video: 18 Epic Sci-Fi TV Shows You Should Watch Right Now](https://www.cnet.com/tech/services-and-software/prime-video-best-sci-fi-tv-shows-2025/#ftag=CAD590a51e)
+ - [Heathrow airport shutdown creates travel chaos](https://www.theverge.com/news/633687/heathrow-airport-closure-fire-power-outage-flights)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

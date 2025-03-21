@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just left](http://9gag.com/gag/aVvKW1v)
- - 😝 [I feel you, brother](http://9gag.com/gag/aW4nZEZ)
- - 💣 [Hold X to activate boost](http://9gag.com/gag/ayN65o8)
- - 😝 [Ubisoft really f**ks with the Japanese Royal Family](http://9gag.com/gag/aYQDej2)
- - 👉 [The last remaining continent on the planet has MYSTERIOUSLY erupted in `violence.`](http://9gag.com/gag/ae9ZNyv)<!-- MEMES:END -->
+ - 😝 [Preferred position](http://9gag.com/gag/agm7yWK)
+ - 😝 [Close call. It&#39;s like a movie !](http://9gag.com/gag/aByVK81)
+ - 💣 [Ma man](http://9gag.com/gag/ae9Z08Q)
+ - 😝 [HAH! Got eem&#39;](http://9gag.com/gag/a870jj1)
+ - 👉 [Ubisoft really f**ks with the Japanese Royal Family](http://9gag.com/gag/aYQDej2)<!-- MEMES:END -->
 
 ---
 

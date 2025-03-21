@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Apple TV+ studio buildings taking shape in Culver City](https://appleinsider.com/articles/25/03/20/construction-begins-on-delayed-apple-tv-studios?utm_medium=rss)
+ - [Trump&amp;#8217;s confusing crusade against Big Tech](https://www.theverge.com/the-vergecast/633757/trump-big-tech-tiktok-ftc-siri-vergecast)
+ - [Source: US Senators Dick Durbin and Lindsey Graham plan to introduce a bipartisan bill with wide support that would make Section 230 expire on January 1, 2027 &lpar;Paris Martineau/The Information&rpar;](http://www.techmeme.com/250321/p14#a250321p14)
  - [&#39;Severance,&#39; the biggest success on Apple TV+, will be back for a third season](https://appleinsider.com/articles/25/03/21/severance-the-biggest-success-on-apple-tv-will-be-back-for-a-third-season?utm_medium=rss)
- - [M4 MacBook Air review: More power than ever, at a lower price point](https://appleinsider.com/articles/25/03/21/m4-macbook-air-review-more-power-than-ever-at-a-lower-price-point?utm_medium=rss)
- - [Severance is returning for season 3](https://www.theverge.com/news/633737/severance-apple-tv-plus-season-3-renewal)
- - [Cloudflare announces AI Labyrinth, which uses AI-generated content to confuse and waste the resources of AI Crawlers and bots that ignore &quot;no crawl&quot; directives &lpar;The Cloudflare Blog&rpar;](http://www.techmeme.com/250321/p13#a250321p13)
- - [Apple redesigning iPhone fold display to extend battery life](https://appleinsider.com/articles/25/03/21/apple-striving-for-better-iphone-fold-battery-life?utm_medium=rss)<!-- TECH:END -->
+ - [M4 MacBook Air review: More power than ever, at a lower price point](https://appleinsider.com/articles/25/03/21/m4-macbook-air-review-more-power-than-ever-at-a-lower-price-point?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ma man](http://9gag.com/gag/ae9Z08Q)
- - 😝 [Manners maketh man...](http://9gag.com/gag/aqy6mzp)
- - 💣 [The Snow White we wanted](http://9gag.com/gag/aNDQZvb)
- - 😝 [Like a UFO](http://9gag.com/gag/abA4bXO)
- - 👉 [Once Upon a time, there was a meme for everything](http://9gag.com/gag/aVvKQpO)<!-- MEMES:END -->
+ - 😝 [Usual propaganda movie](http://9gag.com/gag/a9y5dD1)
+ - 😝 [Two spies caught on action](http://9gag.com/gag/aW4nWxd)
+ - 💣 [Ma man](http://9gag.com/gag/ae9Z08Q)
+ - 😝 [I wonder how much they paid for these.](http://9gag.com/gag/aW4n0GA)
+ - 👉 [Amazonian moaning sound](http://9gag.com/gag/avy62gZ)<!-- MEMES:END -->
 
 ---
 

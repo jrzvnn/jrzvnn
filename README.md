@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finally, a reason to switch permanently](http://9gag.com/gag/axy6EAL)
- - 😝 [I wonder how much they paid for these.](http://9gag.com/gag/aW4n0GA)
- - 💣 [Oh, so Netflix will only cast white people if they make them into murderers\u2026](http://9gag.com/gag/aZZ8PxX)
- - 😝 [The secret recipe of Chinese restaurant](http://9gag.com/gag/an72YRz)
- - 👉 [Take a seat](http://9gag.com/gag/ajPLrvw)<!-- MEMES:END -->
+ - 😝 [Heh](http://9gag.com/gag/avy60pn)
+ - 😝 [Oh, so Netflix will only cast white people if they make them into murderers\u2026](http://9gag.com/gag/aZZ8PxX)
+ - 💣 [I wonder how much they paid for these.](http://9gag.com/gag/aW4n0GA)
+ - 😝 [Lady &lpar;?&rpar; hulk.....](http://9gag.com/gag/ae9OXqQ)
+ - 👉 [Close call. It&#39;s like a movie !](http://9gag.com/gag/aByVK81)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ChatGPT accused of saying an innocent man murdered his children](https://www.theverge.com/news/633700/chatgpt-openai-child-murderer-ai-hallucination-norway-noyb)
  - [Apple striving for better iPhone fold battery life](https://appleinsider.com/articles/25/03/21/apple-striving-for-better-iphone-fold-battery-life?utm_medium=rss)
  - [High Thread Count Doesn’t Really Matter &lpar;2025&rpar;](https://www.wired.com/story/why-a-higher-thread-count-isnt-always-better/)
  - [Chinese food delivery giant Meituan reports Q4 revenue up 20% to $12.21B, vs. $12.1B est., net profit up 180% YoY to $858M, even as it faces stiff competition &lpar;Kimberley Kao/Wall Street Journal&rpar;](http://www.techmeme.com/250321/p11#a250321p11)
- - [Prime Video: 18 Epic Sci-Fi TV Shows You Should Watch Right Now](https://www.cnet.com/tech/services-and-software/prime-video-best-sci-fi-tv-shows-2025/#ftag=CAD590a51e)
- - [Heathrow airport shutdown creates travel chaos](https://www.theverge.com/news/633687/heathrow-airport-closure-fire-power-outage-flights)<!-- TECH:END -->
+ - [Prime Video: 18 Epic Sci-Fi TV Shows You Should Watch Right Now](https://www.cnet.com/tech/services-and-software/prime-video-best-sci-fi-tv-shows-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Coinbase is in advanced talks to buy Deribit, the largest bitcoin and ether options trading platform, which was reportedly valued at $4B-$5B in January &lpar;Bloomberg&rpar;](http://www.techmeme.com/250321/p22#a250321p22)
  - [Yahoo is selling TechCrunch](https://www.theverge.com/news/633950/yahoo-selling-techcrunch-regent-acquisition)
  - [The FCC is investigating Huawei, Hikvision, ZTE, China Telecom, and other Chinese companies over concerns they are ignoring restrictions on US operations &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/250321/p21#a250321p21)
  - [Elon Musk is paying voters again ahead of the Wisconsin Supreme Court election](https://www.theverge.com/news/633834/elon-musk-paying-voters-petition-wisconsin-supreme-court-race)
- - [What to expect from the M5 MacBook Pro, and when to expect it](https://appleinsider.com/articles/25/03/21/what-to-expect-from-the-m5-macbook-pro-and-when-to-expect-it?utm_medium=rss)
- - [Lyft says it plans to roll out robotaxis in partnership with May Mobility in Atlanta, starting summer 2025 &lpar;Bruna Horvath/NBC News&rpar;](http://www.techmeme.com/250321/p20#a250321p20)<!-- TECH:END -->
+ - [What to expect from the M5 MacBook Pro, and when to expect it](https://appleinsider.com/articles/25/03/21/what-to-expect-from-the-m5-macbook-pro-and-when-to-expect-it?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If someone breaks into your home, the cops prefer if you shoot them](http://9gag.com/gag/avy60Mq)
+ - 😝 [Once Upon a time, there was a meme for everything](http://9gag.com/gag/aVvKQpO)
  - 😝 [I&#39;m just a title](http://9gag.com/gag/axy62YD)
  - 💣 [F**k Ubisoft, but it&#39;s kinda the streamer&#39;s fault for agreeing to work with them](http://9gag.com/gag/aryXpqX)
  - 😝 [UK being UK](http://9gag.com/gag/aZZ8WQn)
- - 👉 [According to Sun Tzu, if instructions are not clear, the fault lies with the commander](http://9gag.com/gag/aByVQDN)<!-- MEMES:END -->
+ - 👉 [Men only want one thing and it&#39;s](http://9gag.com/gag/aVvKQRd)<!-- MEMES:END -->
 
 ---
 

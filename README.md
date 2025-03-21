@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta is testing a &quot;Write with Meta AI&quot; prompt on Instagram that gives users AI-generated suggestions to help write comments under other users&#39; posts &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250321/p24#a250321p24)
+ - [ICE is going after more international students](https://www.theverge.com/policy/634094/trump-dhs-arresting-palestine-student-activists-ice)
  - [Hungryroot Meal Kit Review &lpar;2025&rpar;: AI-Guided Menu](https://www.wired.com/review/hungryroot-meal-kit-review/)
  - [Another rare, functional Apple-1 has sold for $375,000 at auction](https://appleinsider.com/articles/25/03/21/another-rare-functional-apple-1-has-sold-for-375000-at-auction?utm_medium=rss)
- - [Sources: the UK weighs reducing or abolishing its 2% digital services tax on UK revenue of Big Tech companies by April 2 in an effort to avoid some US tariffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250321/p23#a250321p23)
- - [Samsung admits its bad software update bricked a lot of soundbars](https://www.theverge.com/news/634052/samsung-soundbar-bricked-repair-software-update)
- - [Alexa Plus is coming to almost every Echo — but your favorite skill might not make the cut](https://www.theverge.com/news/633736/alexa-plus-launching-on-all-echo-devices)<!-- TECH:END -->
+ - [Sources: the UK weighs reducing or abolishing its 2% digital services tax on UK revenue of Big Tech companies by April 2 in an effort to avoid some US tariffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250321/p23#a250321p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

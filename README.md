@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Amazonian moaning sound](http://9gag.com/gag/avy62gZ)
- - 😝 [Usual propaganda movie](http://9gag.com/gag/a9y5dD1)
- - 💣 [Close call. It&#39;s like a movie !](http://9gag.com/gag/aByVK81)
- - 😝 [Two spies caught on action](http://9gag.com/gag/aW4nWxd)
- - 👉 [Exams](http://9gag.com/gag/a0eVmzO)<!-- MEMES:END -->
+ - 😝 [Skateboard adventure](http://9gag.com/gag/aMVPbe6)
+ - 😝 [Once Upon a time, there was a meme for everything](http://9gag.com/gag/aVvKQpO)
+ - 💣 [Manners maketh man...](http://9gag.com/gag/aqy6mzp)
+ - 😝 [That&#39;s so cute](http://9gag.com/gag/abA4y2X)
+ - 👉 [According to Sun Tzu, if instructions are not clear, the fault lies with the commander](http://9gag.com/gag/aByVQDN)<!-- MEMES:END -->
 
 ---
 

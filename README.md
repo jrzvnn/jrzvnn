@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Ma man](http://9gag.com/gag/ae9Z08Q)
  - 😝 [Demi Moore celebrating Bruce Willis\u2019 70th birthday with him.](http://9gag.com/gag/awy1brQ)
- - 😝 [A happy man.](http://9gag.com/gag/aO8ZoNE)
- - 💣 [Take a seat](http://9gag.com/gag/ajPLrvw)
- - 😝 [Just left](http://9gag.com/gag/aVvKW1v)
- - 👉 [Definitely not rick roll](http://9gag.com/gag/a5QweoL)<!-- MEMES:END -->
+ - 💣 [Hold X to activate boost](http://9gag.com/gag/ayN65o8)
+ - 😝 [It&#39;s crazy.](http://9gag.com/gag/a6Z5m0m)
+ - 👉 [Take a seat](http://9gag.com/gag/ajPLrvw)<!-- MEMES:END -->
 
 ---
 

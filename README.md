@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Someone should teach women what no means](http://9gag.com/gag/an72YvL)
+ - 😝 [Chickens, plural](http://9gag.com/gag/an72KNz)
  - 😝 [Istanbul now it seems that Erdogan has no choice but to leave power. I do not know why presidents cling to their seats as long as the people do not want them.](http://9gag.com/gag/amo605o)
- - 💣 [Best of both worlds](http://9gag.com/gag/avy609X)
- - 😝 [The last remaining continent on the planet has MYSTERIOUSLY erupted in `violence.`](http://9gag.com/gag/ae9ZNyv)
- - 👉 [Two spies caught on action](http://9gag.com/gag/aW4nWxd)<!-- MEMES:END -->
+ - 💣 [Rammstein video vs $300 million dollar Hollywood](http://9gag.com/gag/amo6LNV)
+ - 😝 [`Honey, dinner is ready.`](http://9gag.com/gag/aXPVb1D)
+ - 👉 [Someone should teach women what no means](http://9gag.com/gag/an72YvL)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stuff men go through](http://9gag.com/gag/an72q3o)
- - 😝 [Just left](http://9gag.com/gag/aVvKW1v)
- - 💣 [Ubisoft really f**ks with the Japanese Royal Family](http://9gag.com/gag/aYQDej2)
- - 😝 [Two spies caught on action](http://9gag.com/gag/aW4nWxd)
- - 👉 [Demi Moore celebrating Bruce Willis\u2019 70th birthday with him.](http://9gag.com/gag/awy1brQ)<!-- MEMES:END -->
+ - 😝 [It&#39;s crazy.](http://9gag.com/gag/a6Z5m0m)
+ - 😝 [Big womeh](http://9gag.com/gag/aNDQK6v)
+ - 💣 [The fart that rules them all](http://9gag.com/gag/axy6N41)
+ - 😝 [Hold X to activate boost](http://9gag.com/gag/ayN65o8)
+ - 👉 [Definitely not rick roll](http://9gag.com/gag/a5QweoL)<!-- MEMES:END -->
 
 ---
 

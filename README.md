@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rammstein video vs $300 million dollar Hollywood](http://9gag.com/gag/amo6LNV)
- - 😝 [The last remaining continent on the planet has MYSTERIOUSLY erupted in `violence.`](http://9gag.com/gag/ae9ZNyv)
- - 💣 [What men won&#39;t do for a v.a.g.?](http://9gag.com/gag/aryX41K)
- - 😝 [Stuff men go through](http://9gag.com/gag/an72q3o)
- - 👉 [Ubisoft really f**ks with the Japanese Royal Family](http://9gag.com/gag/aYQDej2)<!-- MEMES:END -->
+ - 😝 [Sharing my oldies collection #19](http://9gag.com/gag/aVvKW6n)
+ - 😝 [Not a propaganda bot!](http://9gag.com/gag/a5QwPEN)
+ - 💣 [Sharing my folder #1](http://9gag.com/gag/aD283dx)
+ - 😝 [A dogs hearing](http://9gag.com/gag/ajPLnD0)
+ - 👉 [My man\ud83d\ude4c](http://9gag.com/gag/a4PNL71)<!-- MEMES:END -->
 
 ---
 

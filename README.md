@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [UK being UK](http://9gag.com/gag/aZZ8WQn)
- - 😝 [F**k Ubisoft, but it&#39;s kinda the streamer&#39;s fault for agreeing to work with them](http://9gag.com/gag/aryXpqX)
- - 💣 [Men only want one thing and it&#39;s](http://9gag.com/gag/aVvKQRd)
- - 😝 [Once Upon a time, there was a meme for everything](http://9gag.com/gag/aVvKQpO)
- - 👉 [Skateboard adventure](http://9gag.com/gag/aMVPbe6)<!-- MEMES:END -->
+ - 😝 [Take a seat](http://9gag.com/gag/ajPLrvw)
+ - 😝 [How to spot a serial killer.](http://9gag.com/gag/aoyRZ70)
+ - 💣 [Hi bros.. Just got the paternity test and found out that my 5yr old son is not mine. My first post cuz im drunk.. Cheers &gt;&lt;](http://9gag.com/gag/a870LDe)
+ - 😝 [Hold X to activate boost](http://9gag.com/gag/ayN65o8)
+ - 👉 [Exams](http://9gag.com/gag/a0eVmzO)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chickens, plural](http://9gag.com/gag/an72KNz)
+ - 😝 [Someone should teach women what no means](http://9gag.com/gag/an72YvL)
+ - 😝 [Istanbul now it seems that Erdogan has no choice but to leave power. I do not know why presidents cling to their seats as long as the people do not want them.](http://9gag.com/gag/amo605o)
+ - 💣 [Best of both worlds](http://9gag.com/gag/avy609X)
  - 😝 [The last remaining continent on the planet has MYSTERIOUSLY erupted in `violence.`](http://9gag.com/gag/ae9ZNyv)
- - 💣 [This is what I pay the internet for.](http://9gag.com/gag/a5QwdDE)
- - 😝 [According to Sun Tzu, if instructions are not clear, the fault lies with the commander](http://9gag.com/gag/aByVQDN)
- - 👉 [Big womeh](http://9gag.com/gag/aNDQK6v)<!-- MEMES:END -->
+ - 👉 [Two spies caught on action](http://9gag.com/gag/aW4nWxd)<!-- MEMES:END -->
 
 ---
 

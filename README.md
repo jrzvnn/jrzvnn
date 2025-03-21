@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Preferred position](http://9gag.com/gag/agm7yWK)
- - 😝 [Close call. It&#39;s like a movie !](http://9gag.com/gag/aByVK81)
- - 💣 [Ma man](http://9gag.com/gag/ae9Z08Q)
- - 😝 [HAH! Got eem&#39;](http://9gag.com/gag/a870jj1)
- - 👉 [Ubisoft really f**ks with the Japanese Royal Family](http://9gag.com/gag/aYQDej2)<!-- MEMES:END -->
+ - 😝 [Stuff men go through](http://9gag.com/gag/an72q3o)
+ - 😝 [Just left](http://9gag.com/gag/aVvKW1v)
+ - 💣 [Ubisoft really f**ks with the Japanese Royal Family](http://9gag.com/gag/aYQDej2)
+ - 😝 [Two spies caught on action](http://9gag.com/gag/aW4nWxd)
+ - 👉 [Demi Moore celebrating Bruce Willis\u2019 70th birthday with him.](http://9gag.com/gag/awy1brQ)<!-- MEMES:END -->
 
 ---
 

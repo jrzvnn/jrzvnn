@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s crazy.](http://9gag.com/gag/a6Z5m0m)
- - 😝 [The last remaining continent on the planet has MYSTERIOUSLY erupted in `violence.`](http://9gag.com/gag/ae9ZNyv)
- - 💣 [There was blood everywhere on the streets...](http://9gag.com/gag/ajPLnWx)
- - 😝 [Tipical day in Brazil.](http://9gag.com/gag/apR6o7E)
- - 👉 [O_o](http://9gag.com/gag/aMVPrpG)<!-- MEMES:END -->
+ - 😝 [Stop noticing.](http://9gag.com/gag/aVvKXoM)
+ - 😝 [The fart that rules them all](http://9gag.com/gag/axy6N41)
+ - 💣 [Just left](http://9gag.com/gag/aVvKW1v)
+ - 😝 [Take a seat](http://9gag.com/gag/ajPLrvw)
+ - 👉 [Hold X to activate boost](http://9gag.com/gag/ayN65o8)<!-- MEMES:END -->
 
 ---
 

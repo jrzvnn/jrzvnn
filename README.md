@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Katie Haun is raising $1B across two new crypto-focused funds as her Haun Ventures is close to deploying most of the $1.5B raised in 2022 &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/250321/p27#a250321p27)
+ - [Google will let you make AI podcasts from Gemini’s Deep Research](https://www.theverge.com/news/634117/google-gemini-ai-podcast-audio-overviews-deep-research)
  - [StubHub files for an IPO, with plans to list on the NYSE, and reports a $2.8M loss on $1.77B in revenue in 2024, vs. a $405M profit on $1.37B in revenue in 2023 &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250321/p26#a250321p26)
  - [Perplexity proposes to buy TikTok, says it wants to open source the algorithm and that it is &quot;singularly positioned to rebuild&quot; it &quot;without creating a monopoly&quot; &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/250321/p25#a250321p25)
- - [How ‘Careless People’ is becoming a bigger problem for Meta](https://www.theverge.com/command-line-newsletter/634080/careless-people-sarah-wynn-williams-book-meta-congress)
- - [Meta is testing a &quot;Write with Meta AI&quot; prompt on Instagram that gives users AI-generated suggestions to help write comments under other users&#39; posts &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250321/p24#a250321p24)
- - [ICE is going after more international students](https://www.theverge.com/policy/634094/trump-dhs-arresting-palestine-student-activists-ice)<!-- TECH:END -->
+ - [How ‘Careless People’ is becoming a bigger problem for Meta](https://www.theverge.com/command-line-newsletter/634080/careless-people-sarah-wynn-williams-book-meta-congress)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

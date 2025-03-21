@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hold X to activate boost](http://9gag.com/gag/ayN65o8)
- - 😝 [Exams](http://9gag.com/gag/a0eVmzO)
- - 💣 [Take a seat](http://9gag.com/gag/ajPLrvw)
- - 😝 [Finally, a reason to switch permanently](http://9gag.com/gag/axy6EAL)
- - 👉 [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/adBO3nM)<!-- MEMES:END -->
+ - 😝 [If someone breaks into your home, the cops prefer if you shoot them](http://9gag.com/gag/avy60Mq)
+ - 😝 [I&#39;m just a title](http://9gag.com/gag/axy62YD)
+ - 💣 [F**k Ubisoft, but it&#39;s kinda the streamer&#39;s fault for agreeing to work with them](http://9gag.com/gag/aryXpqX)
+ - 😝 [UK being UK](http://9gag.com/gag/aZZ8WQn)
+ - 👉 [According to Sun Tzu, if instructions are not clear, the fault lies with the commander](http://9gag.com/gag/aByVQDN)<!-- MEMES:END -->
 
 ---
 

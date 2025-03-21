@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Once Upon a time, there was a meme for everything](http://9gag.com/gag/aVvKQpO)
+ - 😝 [Accurate](http://9gag.com/gag/a340d05)
+ - 💣 [Not a propaganda bot!](http://9gag.com/gag/a5QwPEN)
  - 😝 [Ma man](http://9gag.com/gag/ae9Z08Q)
- - 😝 [Demi Moore celebrating Bruce Willis\u2019 70th birthday with him.](http://9gag.com/gag/awy1brQ)
- - 💣 [Hold X to activate boost](http://9gag.com/gag/ayN65o8)
- - 😝 [It&#39;s crazy.](http://9gag.com/gag/a6Z5m0m)
- - 👉 [Take a seat](http://9gag.com/gag/ajPLrvw)<!-- MEMES:END -->
+ - 👉 [Sharing my folder #1](http://9gag.com/gag/aD283dx)<!-- MEMES:END -->
 
 ---
 

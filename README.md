@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Researchers Rush to Save US Government Data on Trans Youth—Before It Disappears](https://www.wired.com/story/researchers-rush-to-save-data-on-trans-youth-before-it-disappears/)
  - [A profile of Wiz CEO Assaf Rappaport, who served in Israel&#39;s elite cyber intelligence unit 8200; sources say Wiz was on track to surpass $1B of ARR in 2025 &lpar;Financial Times&rpar;](http://www.techmeme.com/250321/p9#a250321p9)
- - [A book excerpt from AI Valley details the 2024 mass defection of staff at Inflection AI, which seemed to be thriving but faced scaling challenges, to Microsoft &lpar;Gary Rivlin/Bloomberg&rpar;](http://www.techmeme.com/250321/p8#a250321p8)
- - [A look at LibGen, one of the largest online pirate libraries, with 7.5M+ books and 81M+ research papers, allegedly used by Meta and OpenAI to train AI models &lpar;Alex Reisner/The Atlantic&rpar;](http://www.techmeme.com/250321/p7#a250321p7)
- - [Tencent says it has slowed the pace of its GPU rollout since implementing DeepSeek, and that most of its GPU capex goes toward its ad and gaming businesses &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/250321/p6#a250321p6)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 21, #179](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-21-179/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for March 21, #383](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-21-383/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for March 21, #649](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-21-649/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

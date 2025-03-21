@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hold X to activate boost](http://9gag.com/gag/ayN65o8)
- - 😝 [Stop noticing.](http://9gag.com/gag/aVvKXoM)
- - 💣 [The fart that rules them all](http://9gag.com/gag/axy6N41)
- - 😝 [Treventus scan robot processes up to 2500 pages per hour](http://9gag.com/gag/ae9Z3QO)
- - 👉 [Ubisoft really f**ks with the Japanese Royal Family](http://9gag.com/gag/aYQDej2)<!-- MEMES:END -->
+ - 😝 [It&#39;s crazy.](http://9gag.com/gag/a6Z5m0m)
+ - 😝 [Stuff men go through](http://9gag.com/gag/an72q3o)
+ - 💣 [Big womeh](http://9gag.com/gag/aNDQK6v)
+ - 😝 [Ubisoft really f**ks with the Japanese Royal Family](http://9gag.com/gag/aYQDej2)
+ - 👉 [The last remaining continent on the planet has MYSTERIOUSLY erupted in `violence.`](http://9gag.com/gag/ae9ZNyv)<!-- MEMES:END -->
 
 ---
 

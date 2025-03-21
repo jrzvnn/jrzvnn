@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Usual propaganda movie](http://9gag.com/gag/a9y5dD1)
- - 😝 [Two spies caught on action](http://9gag.com/gag/aW4nWxd)
- - 💣 [Ma man](http://9gag.com/gag/ae9Z08Q)
- - 😝 [I wonder how much they paid for these.](http://9gag.com/gag/aW4n0GA)
- - 👉 [Amazonian moaning sound](http://9gag.com/gag/avy62gZ)<!-- MEMES:END -->
+ - 😝 [The fart that rules them all](http://9gag.com/gag/axy6N41)
+ - 😝 [Ma man](http://9gag.com/gag/ae9Z08Q)
+ - 💣 [Demi Moore celebrating Bruce Willis\u2019 70th birthday with him.](http://9gag.com/gag/awy1brQ)
+ - 😝 [Hold X to activate boost](http://9gag.com/gag/ayN65o8)
+ - 👉 [Two spies caught on action](http://9gag.com/gag/aW4nWxd)<!-- MEMES:END -->
 
 ---
 

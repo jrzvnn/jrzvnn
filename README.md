@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel reorganizes Intel Foundry leadership as EVP Ann Kelleher, former GM of Technology Development and now strategic adviser, plans to retire later this year &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250321/p30#a250321p30)
  - [People keep putting fake walls in front of Teslas](https://www.theverge.com/news/634130/tesla-fsd-wile-e-coyote-youtube-test-cybertruck)
  - [Gen AI&#39;s Accuracy Problems Aren&#39;t Going Away Anytime Soon, Researchers Say](https://www.cnet.com/tech/services-and-software/gen-ais-accuracy-problems-arent-going-away-anytime-soon-researchers-say/#ftag=CAD590a51e)
  - [Stock Market Volatility: Should We Really Keep Calm and Carry On?](https://www.cnet.com/personal-finance/stock-market-volatility-should-we-really-keep-calm-and-carry-on/#ftag=CAD590a51e)
- - [Google says its test removing European news content for 1% of users in eight EU countries found that there was no change to Search ad revenue due to the removal &lpar;Paul Liu/The Keyword&rpar;](http://www.techmeme.com/250321/p29#a250321p29)
- - [It’s time to squad up in this preview from Apple’s Mythic Quest spinoff series](https://www.theverge.com/news/633884/mythic-quest-side-quest-the-last-raid)<!-- TECH:END -->
+ - [Google says its test removing European news content for 1% of users in eight EU countries found that there was no change to Search ad revenue due to the removal &lpar;Paul Liu/The Keyword&rpar;](http://www.techmeme.com/250321/p29#a250321p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

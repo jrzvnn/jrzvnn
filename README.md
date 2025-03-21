@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Perplexity proposes to buy TikTok, says it wants to open source the algorithm and that it is &quot;singularly positioned to rebuild&quot; it &quot;without creating a monopoly&quot; &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/250321/p25#a250321p25)
+ - [How ‘Careless People’ is becoming a bigger problem for Meta](https://www.theverge.com/command-line-newsletter/634080/careless-people-sarah-wynn-williams-book-meta-congress)
  - [Meta is testing a &quot;Write with Meta AI&quot; prompt on Instagram that gives users AI-generated suggestions to help write comments under other users&#39; posts &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250321/p24#a250321p24)
  - [ICE is going after more international students](https://www.theverge.com/policy/634094/trump-dhs-arresting-palestine-student-activists-ice)
- - [Hungryroot Meal Kit Review &lpar;2025&rpar;: AI-Guided Menu](https://www.wired.com/review/hungryroot-meal-kit-review/)
- - [Another rare, functional Apple-1 has sold for $375,000 at auction](https://appleinsider.com/articles/25/03/21/another-rare-functional-apple-1-has-sold-for-375000-at-auction?utm_medium=rss)
- - [Sources: the UK weighs reducing or abolishing its 2% digital services tax on UK revenue of Big Tech companies by April 2 in an effort to avoid some US tariffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250321/p23#a250321p23)<!-- TECH:END -->
+ - [Hungryroot Meal Kit Review &lpar;2025&rpar;: AI-Guided Menu](https://www.wired.com/review/hungryroot-meal-kit-review/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

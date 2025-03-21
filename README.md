@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elara Capital report: Blinkit, Zepto, and Swiggy Instamart are generating $350M to $400M in annualized ad revenue, or ~50% of Amazon India&#39;s FY 2024 ad revenue &lpar;Gaurav Bagur/The Ken&rpar;](http://www.techmeme.com/250321/p5#a250321p5)
  - [European Central Bank Chief Economist Philip Lane says Europe needs a digital euro to avoid rising stablecoin risks and reduce reliance on US payment firms &lpar;Bloomberg&rpar;](http://www.techmeme.com/250321/p4#a250321p4)
  - [Stockholm-based Evroc, which plans to build hyperscale data centers in Europe and an array of cloud services, raised a $55M Series A from Blisce and others &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/250321/p3#a250321p3)
  - [A look at Chinese AI startup Manycore, which develops spatial design software, has filed for a Hong Kong IPO, and reported a $58.3M loss from Q1 to Q3 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250321/p2#a250321p2)
- - [Shipments of India-manufactured smartphones grew 6% YoY in 2024, with Samsung and Apple accounting for ~94% of exports; Samsung&#39;s India exports grew 13% YoY &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250321/p1#a250321p1)
- - [Denver-based Multiply Mortgage, which provides an AI-based mortgage origination service for tech employees, raised a $23.5M Series A led by Kleiner Perkins &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250320/p47#a250320p47)<!-- TECH:END -->
+ - [Shipments of India-manufactured smartphones grew 6% YoY in 2024, with Samsung and Apple accounting for ~94% of exports; Samsung&#39;s India exports grew 13% YoY &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250321/p1#a250321p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

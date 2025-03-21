@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Take a seat](http://9gag.com/gag/ajPLrvw)
- - 😝 [The fart that rules them all](http://9gag.com/gag/axy6N41)
- - 💣 [Amazonian moaning sound](http://9gag.com/gag/avy62gZ)
- - 😝 [WOW](http://9gag.com/gag/aLn4R6M)
- - 👉 [Ma man](http://9gag.com/gag/ae9Z08Q)<!-- MEMES:END -->
+ - 😝 [Ma man](http://9gag.com/gag/ae9Z08Q)
+ - 😝 [Manners maketh man...](http://9gag.com/gag/aqy6mzp)
+ - 💣 [The Snow White we wanted](http://9gag.com/gag/aNDQZvb)
+ - 😝 [Like a UFO](http://9gag.com/gag/abA4bXO)
+ - 👉 [Once Upon a time, there was a meme for everything](http://9gag.com/gag/aVvKQpO)<!-- MEMES:END -->
 
 ---
 

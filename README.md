@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Severance,&#39; the biggest success on Apple TV+, will be back for a third season](https://appleinsider.com/articles/25/03/21/severance-the-biggest-success-on-apple-tv-will-be-back-for-a-third-season?utm_medium=rss)
+ - [M4 MacBook Air review: More power than ever, at a lower price point](https://appleinsider.com/articles/25/03/21/m4-macbook-air-review-more-power-than-ever-at-a-lower-price-point?utm_medium=rss)
+ - [Severance is returning for season 3](https://www.theverge.com/news/633737/severance-apple-tv-plus-season-3-renewal)
  - [Cloudflare announces AI Labyrinth, which uses AI-generated content to confuse and waste the resources of AI Crawlers and bots that ignore &quot;no crawl&quot; directives &lpar;The Cloudflare Blog&rpar;](http://www.techmeme.com/250321/p13#a250321p13)
- - [Apple redesigning iPhone fold display to extend battery life](https://appleinsider.com/articles/25/03/21/apple-striving-for-better-iphone-fold-battery-life?utm_medium=rss)
- - [iPhone fold report resurrects decade-old liquid metal component rumor](https://appleinsider.com/articles/25/03/21/iphone-fold-report-resurrects-decade-old-liquid-metal-component-rumor?utm_medium=rss)
- - [Ford Bronco Electric Bike Review: Car Makers Now Make Electric Bikes](https://www.wired.com/review/ford-bronco-electric-bike/)
- - [Samsung’s Galaxy Tab S10 FE Plus will be bigger and cost more](https://www.theverge.com/news/633712/samsung-galaxy-tab-s10-fe-plus-leak)<!-- TECH:END -->
+ - [Apple redesigning iPhone fold display to extend battery life](https://appleinsider.com/articles/25/03/21/apple-striving-for-better-iphone-fold-battery-life?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

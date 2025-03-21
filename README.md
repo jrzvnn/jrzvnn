@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dell UltraSharp 32 4K Thunderbolt Hub Monitor Review: Best IPS Panel](https://www.wired.com/review/dell-ultrasharp-32-4k-thunderbolt-hub-monitor/)
  - [The FCC is probing Chicago public radio station WBEZ over on-air sponsorships](https://www.theverge.com/news/633792/fcc-probe-wbez-npr-pbs-radio-underwriting-investigation)
  - [BuildOps, which develops software for commercial services contractors, raised a $127M Series C led by Meritech Capital at a $1B post-money valuation &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250321/p15#a250321p15)
  - [GM blocks dealership from installing Apple CarPlay retrofit kits in EVs](https://www.theverge.com/news/633791/gm-apple-carplay-retrofit-shut-down)
- - [Coca-Cola’s new hydrogen-powered vending machine doesn’t need a power outlet](https://www.theverge.com/news/633779/coca-cola-fuji-electric-vending-machine-hydrogen-power)
- - [Pokémon TCG Pocket is getting in on the shiny hype](https://www.theverge.com/news/633759/pokemon-tcg-pocket-shining-revelry)<!-- TECH:END -->
+ - [Coca-Cola’s new hydrogen-powered vending machine doesn’t need a power outlet](https://www.theverge.com/news/633779/coca-cola-fuji-electric-vending-machine-hydrogen-power)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

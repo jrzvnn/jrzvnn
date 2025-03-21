@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inside Google’s Two-Year Frenzy to Catch Up With OpenAI](https://www.wired.com/story/google-openai-gemini-chatgpt-artificial-intelligence/)
  - [Researchers Rush to Save US Government Data on Trans Youth—Before It Disappears](https://www.wired.com/story/researchers-rush-to-save-data-on-trans-youth-before-it-disappears/)
  - [A profile of Wiz CEO Assaf Rappaport, who served in Israel&#39;s elite cyber intelligence unit 8200; sources say Wiz was on track to surpass $1B of ARR in 2025 &lpar;Financial Times&rpar;](http://www.techmeme.com/250321/p9#a250321p9)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 21, #179](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-21-179/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for March 21, #383](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-21-383/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for March 21, #649](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-21-649/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for March 21, #383](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-21-383/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

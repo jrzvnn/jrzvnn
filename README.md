@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Apple Books -- the best app for book lovers](https://appleinsider.com/inside/ios-18/tips/inside-apple-books----the-best-app-for-book-lovers?utm_medium=rss)
- - [Apple Intelligence, iPhone 17, and a folding Apple Watch on the AppleInsider Podcast](https://appleinsider.com/articles/25/03/21/apple-intelligence-iphone-17-and-a-folding-apple-watch-on-the-appleinsider-podcast?utm_medium=rss)
- - [Elon Musk and Donald Trump Have Chosen Chaos](https://www.wired.com/story/elon-musk-donald-trump-chaos/)
- - [Report: North Korea is launching a new cybersecurity research unit called Research Center 227 focused on AI-based hacking and stealing digital assets &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250321/p12#a250321p12)
- - [ChatGPT accused of saying an innocent man murdered his children](https://www.theverge.com/news/633700/chatgpt-openai-child-murderer-ai-hallucination-norway-noyb)<!-- TECH:END -->
+ - [Cloudflare announces AI Labyrinth, which uses AI-generated content to confuse and waste the resources of AI Crawlers and bots that ignore &quot;no crawl&quot; directives &lpar;The Cloudflare Blog&rpar;](http://www.techmeme.com/250321/p13#a250321p13)
+ - [Apple redesigning iPhone fold display to extend battery life](https://appleinsider.com/articles/25/03/21/apple-striving-for-better-iphone-fold-battery-life?utm_medium=rss)
+ - [iPhone fold report resurrects decade-old liquid metal component rumor](https://appleinsider.com/articles/25/03/21/iphone-fold-report-resurrects-decade-old-liquid-metal-component-rumor?utm_medium=rss)
+ - [Ford Bronco Electric Bike Review: Car Makers Now Make Electric Bikes](https://www.wired.com/review/ford-bronco-electric-bike/)
+ - [Samsung’s Galaxy Tab S10 FE Plus will be bigger and cost more](https://www.theverge.com/news/633712/samsung-galaxy-tab-s10-fe-plus-leak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

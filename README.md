@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stop noticing.](http://9gag.com/gag/aVvKXoM)
- - 😝 [The fart that rules them all](http://9gag.com/gag/axy6N41)
- - 💣 [Just left](http://9gag.com/gag/aVvKW1v)
- - 😝 [Take a seat](http://9gag.com/gag/ajPLrvw)
- - 👉 [Hold X to activate boost](http://9gag.com/gag/ayN65o8)<!-- MEMES:END -->
+ - 😝 [Just left](http://9gag.com/gag/aVvKW1v)
+ - 😝 [I feel you, brother](http://9gag.com/gag/aW4nZEZ)
+ - 💣 [Hold X to activate boost](http://9gag.com/gag/ayN65o8)
+ - 😝 [Ubisoft really f**ks with the Japanese Royal Family](http://9gag.com/gag/aYQDej2)
+ - 👉 [The last remaining continent on the planet has MYSTERIOUSLY erupted in `violence.`](http://9gag.com/gag/ae9ZNyv)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Two spies caught on action](http://9gag.com/gag/aW4nWxd)
- - 😝 [Demi Moore celebrating Bruce Willis\u2019 70th birthday with him.](http://9gag.com/gag/awy1brQ)
- - 💣 [What men won&#39;t do for a v.a.g.?](http://9gag.com/gag/aryX41K)
- - 😝 [Ubisoft really f**ks with the Japanese Royal Family](http://9gag.com/gag/aYQDej2)
- - 👉 [When the guy isn&#39;t attractive](http://9gag.com/gag/agm70Z6)<!-- MEMES:END -->
+ - 😝 [Sharing my folder #1](http://9gag.com/gag/aD283dx)
+ - 😝 [Life is great](http://9gag.com/gag/aGyBDwX)
+ - 💣 [That&#39;s the neighbor again](http://9gag.com/gag/aYQDLbV)
+ - 😝 [My man\ud83d\ude4c](http://9gag.com/gag/a4PNL71)
+ - 👉 [Not the answer he expected](http://9gag.com/gag/avy6n2d)<!-- MEMES:END -->
 
 ---
 

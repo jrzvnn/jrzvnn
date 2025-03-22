@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The worst? Come on, what about Iraq weapons of mass destruction, axis of evil.](http://9gag.com/gag/amo6059)
- - 😝 [Ubisoft really f**ks with the Japanese Royal Family](http://9gag.com/gag/aYQDej2)
- - 💣 [Best day ever](http://9gag.com/gag/awy1VX4)
- - 😝 [Then he WHAT\u2026](http://9gag.com/gag/aAyK1Bg)
- - 👉 [Breakthrough: Injectable Oxygen!](http://9gag.com/gag/amo6ze2)<!-- MEMES:END -->
+ - 😝 [That&#39;s the neighbor again](http://9gag.com/gag/aYQDLbV)
+ - 😝 [Not the answer he expected](http://9gag.com/gag/avy6n2d)
+ - 💣 [Ubisoft really f**ks with the Japanese Royal Family](http://9gag.com/gag/aYQDej2)
+ - 😝 [Well, Well, Well...](http://9gag.com/gag/ae9Z6xm)
+ - 👉 [Valentines](http://9gag.com/gag/a1m0XO2)<!-- MEMES:END -->
 
 ---
 

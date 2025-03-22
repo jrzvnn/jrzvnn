@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [17 Best Early Amazon Spring Sale Deals &lpar;2025&rpar;](https://www.wired.com/story/amazon-spring-sale-2025-1/)
- - [A Mysterious Startup Is Developing a New Form of Solar Geoengineering](https://www.wired.com/story/a-mysterious-startup-is-developing-a-new-form-of-solar-geoengineering/)
- - [The 43 Best Movies on Netflix Right Now &lpar;March 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [BYD&#39;s 5-Minute EV Charging Sounds Great. But How Useful Is it?](https://www.wired.com/story/byd-5-minute-ev-charging/)
- - [The 44 Best Shows on Netflix Right Now &lpar;March 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
+ - [13 Best Hair Straighteners We Tested &lpar;2025&rpar; | WIRED](https://www.wired.com/gallery/best-hair-straighteners/)
+ - [AI is Invading All Aspects of Our Tech Lives. Good Luck Trying to Avoid It](https://www.cnet.com/tech/ai-is-invading-all-aspects-of-our-tech-lives-good-luck-trying-to-avoid-it/#ftag=CAD590a51e)
+ - [Meet the AI Fraud Fighters: A Deepfake Granny, Digital Bots and a YouTube Star](https://www.cnet.com/personal-finance/features/meet-the-ai-fraud-fighters-a-deepfake-granny-digital-bots-and-a-youtube-star/#ftag=CAD590a51e)
+ - [The Art of the Perfect Nap](https://www.wired.com/story/the-art-of-the-perfect-nap-sleep-science/)
+ - [Best VPN for Chrome 2025](https://www.cnet.com/tech/services-and-software/best-vpn-for-chrome/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

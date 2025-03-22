@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Index Ventures, Wiz&#39;s largest outside shareholder with a 13% stake, is set to turn its $245M investment into $4.3B from Wiz&#39;s pending sale to Alphabet for $32B &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250322/p3#a250322p3)
  - [Coinbase and others eye India comeback as regulators tease pivot; Electric Capital: India had 12% of crypto devs in 2024, only behind the US, up from 4% in 2018 &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/250322/p2#a250322p2)
  - [CoreWeave, prepping for a roadshow, faces $7.5B in debt repayments by the end of 2026, far above its cash flow, asking IPO investors to take a leap of faith &lpar;Financial Times&rpar;](http://www.techmeme.com/250322/p1#a250322p1)
  - [Developers worry about future monetization of Alexa&#39;s voice experiences, as Amazon prepares to launch Alexa+ without many of Alexa&#39;s 160K current skills &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/250321/p32#a250321p32)
- - [OpenAI, in partnership with MIT, releases its first study on how ChatGPT use affects emotional well-being, including differences in how men and women respond &lpar;Rhiannon Williams/MIT Technology Review&rpar;](http://www.techmeme.com/250321/p31#a250321p31)
- - [Intel reorganizes Intel Foundry leadership as EVP Ann Kelleher, former GM of Technology Development and now strategic adviser, plans to retire later this year &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250321/p30#a250321p30)<!-- TECH:END -->
+ - [OpenAI, in partnership with MIT, releases its first study on how ChatGPT use affects emotional well-being, including differences in how men and women respond &lpar;Rhiannon Williams/MIT Technology Review&rpar;](http://www.techmeme.com/250321/p31#a250321p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

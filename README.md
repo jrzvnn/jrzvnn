@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, Well, Well...](http://9gag.com/gag/ae9Z6xm)
- - 😝 [The most infuriating display in a game and all that for nothing](http://9gag.com/gag/a4PNYq6)
- - 💣 [Valentines](http://9gag.com/gag/a1m0XO2)
- - 😝 [That&#39;s the neighbor again](http://9gag.com/gag/aYQDLbV)
- - 👉 [HAH! Got eem&#39;](http://9gag.com/gag/a870jj1)<!-- MEMES:END -->
+ - 😝 [Japanese](http://9gag.com/gag/aQz7nRr)
+ - 😝 [Men are simple creatures](http://9gag.com/gag/an72Xmq)
+ - 💣 [What men won&#39;t do for a v.a.g.?](http://9gag.com/gag/aryX41K)
+ - 😝 [One of the best moments in British tv history](http://9gag.com/gag/aO8ZmAr)
+ - 👉 [Breakthrough: Injectable Oxygen!](http://9gag.com/gag/amo6ze2)<!-- MEMES:END -->
 
 ---
 

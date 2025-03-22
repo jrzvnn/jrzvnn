@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SwitchBot adds robot vacuums, smart shades, and its new Hub 3 to Home Assistant](https://www.theverge.com/news/634336/switchbot-home-assistant-45-device-integrations-coming-soon)
  - [24 Best Wireless Chargers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-wireless-chargers/)
  - [7 cool indie games from GDC 2025](https://www.theverge.com/games/633885/gdc-2025-best-indie-games)
  - [The best laptops you can get](https://www.theverge.com/21250695/best-laptops)
- - [X suspends several accounts belonging to opposition figures in Turkey, amid extensive protests sparked by the arrest of President Erdogan&#39;s main political rival &lpar;Eliza Gkritsi/Politico&rpar;](http://www.techmeme.com/250322/p12#a250322p12)
- - [The 6 Best OLED TVs &lpar;2025&rpar;](https://www.wired.com/gallery/best-oleds/)<!-- TECH:END -->
+ - [X suspends several accounts belonging to opposition figures in Turkey, amid extensive protests sparked by the arrest of President Erdogan&#39;s main political rival &lpar;Eliza Gkritsi/Politico&rpar;](http://www.techmeme.com/250322/p12#a250322p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just left](http://9gag.com/gag/aVvKW1v)
- - 😝 [Two spies caught on action](http://9gag.com/gag/aW4nWxd)
- - 💣 [It&#39;s as if the vegetable was fated to be with him](http://9gag.com/gag/a7o0byA)
- - 😝 [Best of both worlds](http://9gag.com/gag/avy609X)
- - 👉 [This is what I pay the internet for.](http://9gag.com/gag/a5QwdDE)<!-- MEMES:END -->
+ - 😝 [Experienced Lady](http://9gag.com/gag/a870b11)
+ - 😝 [Ubisoft really f**ks with the Japanese Royal Family](http://9gag.com/gag/aYQDej2)
+ - 💣 [When vegans see you upvote BBQ posts](http://9gag.com/gag/aW4nWpq)
+ - 😝 [Take a seat](http://9gag.com/gag/ajPLrvw)
+ - 👉 [The eclipse](http://9gag.com/gag/aMVPr61)<!-- MEMES:END -->
 
 ---
 

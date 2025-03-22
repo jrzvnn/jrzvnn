@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [2025 Federal Tax Brackets: Here&#39;s Why Your Paycheck May Be Bigger This Year](https://www.cnet.com/personal-finance/taxes/2025-federal-tax-brackets-heres-why-your-paycheck-may-be-bigger-this-year/#ftag=CAD590a51e)
  - [Best Expert-Tested Rowing Machines of 2025 for a Full-Body Workout Without Water](https://www.cnet.com/health/fitness/best-rowing-machine/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword Answers for Saturday, March 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-march-22/#ftag=CAD590a51e)
  - [A profile of Lisa Su, as AMD vies for a bigger chunk of the AI market; CTO Mark Papermaster says AMD had $5B in AI chip sales in 2024, up from $100M in 2023 &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250322/p9#a250322p9)
- - [Israel-based Kela, which develops tech for integrating AI, sensors, and edge devices into existing military systems, raised a $28M Series A and a $11M seed &lpar;Meytal Vaizberg/Globes Online&rpar;](http://www.techmeme.com/250322/p8#a250322p8)
- - [Inspiren, which provides workflow and staffing tech and AI-based fall detection for senior living facilities, raised a $35M Series A led by Avenir &lpar;Heather Landi/Fierce Healthcare&rpar;](http://www.techmeme.com/250322/p7#a250322p7)<!-- TECH:END -->
+ - [Israel-based Kela, which develops tech for integrating AI, sensors, and edge devices into existing military systems, raised a $28M Series A and a $11M seed &lpar;Meytal Vaizberg/Globes Online&rpar;](http://www.techmeme.com/250322/p8#a250322p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

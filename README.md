@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Breakthrough: Injectable Oxygen!](http://9gag.com/gag/amo6ze2)
- - 😝 [Not the answer he expected](http://9gag.com/gag/avy6n2d)
- - 💣 [The most infuriating display in a game and all that for nothing](http://9gag.com/gag/a4PNYq6)
- - 😝 [What men won&#39;t do for a v.a.g.?](http://9gag.com/gag/aryX41K)
- - 👉 [Rammstein video vs $300 million dollar Hollywood](http://9gag.com/gag/amo6LNV)<!-- MEMES:END -->
+ - 😝 [There was blood everywhere on the streets...](http://9gag.com/gag/ajPLnWx)
+ - 😝 [Okay what are the alternatives](http://9gag.com/gag/aW4nWA6)
+ - 💣 [That&#39;s the neighbor again](http://9gag.com/gag/aYQDLbV)
+ - 😝 [The most infuriating display in a game and all that for nothing](http://9gag.com/gag/a4PNYq6)
+ - 👉 [Not the answer he expected](http://9gag.com/gag/avy6n2d)<!-- MEMES:END -->
 
 ---
 

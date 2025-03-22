@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When the guy isn&#39;t attractive](http://9gag.com/gag/agm70Z6)
- - 😝 [Chickens, plural](http://9gag.com/gag/an72KNz)
- - 💣 [Take a seat](http://9gag.com/gag/ajPLrvw)
- - 😝 [Two spies caught on action](http://9gag.com/gag/aW4nWxd)
- - 👉 [Big womeh](http://9gag.com/gag/aNDQK6v)<!-- MEMES:END -->
+ - 😝 [Sharing my folder #1](http://9gag.com/gag/aD283dx)
+ - 😝 [Life is great](http://9gag.com/gag/aGyBDwX)
+ - 💣 [Not the answer he expected](http://9gag.com/gag/avy6n2d)
+ - 😝 [Super curious effects.](http://9gag.com/gag/aByV121)
+ - 👉 [My man\ud83d\ude4c](http://9gag.com/gag/a4PNL71)<!-- MEMES:END -->
 
 ---
 

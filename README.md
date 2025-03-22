@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [All iPhone 18 models rumored to get speed boost from 2nm chips](https://appleinsider.com/articles/25/03/22/all-iphone-18-models-rumored-to-get-speed-boost-from-2nm-chips?utm_medium=rss)
  - [As Spotify pushes its new video monetization program, sexually explicit videos have appeared on its top podcast charts, violating the company&#39;s terms of use &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/250322/p19#a250322p19)
- - [HHS Secretary Robert F. Kennedy Jr. praises cell phone restrictions in schools, saying their electromagnetic radiation causes neurological and cellular damage &lpar;Aria Bendix/NBC News&rpar;](http://www.techmeme.com/250322/p18#a250322p18)
- - [Today&#39;s NYT Strands Hints, Answers and Help for March 23, #385](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-23-385/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 23, #181](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-23-181/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for March 23, #1373](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-23-1373/#ftag=CAD590a51e)
+ - [The Absolute Best Horror Movies on Hulu](https://www.cnet.com/tech/services-and-software/the-absolute-best-horror-films-on-hulu-march-2025/#ftag=CAD590a51e)
+ - [HHS Secretary Robert F. Kennedy Jr. praises cell phone restrictions in schools, saying their electromagnetic radiation causes neurological and cellular damage &lpar;Aria Bendix/NBC News&rpar;](http://www.techmeme.com/250322/p18#a250322p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

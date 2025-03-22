@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Affirm co-founder Max Levchin on hitting profitability, international expansion, building an &quot;Affirm mafia&quot;, DOGE, friendship with Musk, more &lpar;Andrew Edgecliffe-Johnson/Semafor&rpar;](http://www.techmeme.com/250322/p11#a250322p11)
  - [13 Best Hair Straighteners We Tested &lpar;2025&rpar; | WIRED](https://www.wired.com/gallery/best-hair-straighteners/)
  - [AI is Invading All Aspects of Our Tech Lives. Good Luck Trying to Avoid It](https://www.cnet.com/tech/ai-is-invading-all-aspects-of-our-tech-lives-good-luck-trying-to-avoid-it/#ftag=CAD590a51e)
  - [Meet the AI Fraud Fighters: A Deepfake Granny, Digital Bots and a YouTube Star](https://www.cnet.com/personal-finance/features/meet-the-ai-fraud-fighters-a-deepfake-granny-digital-bots-and-a-youtube-star/#ftag=CAD590a51e)
- - [The Art of the Perfect Nap](https://www.wired.com/story/the-art-of-the-perfect-nap-sleep-science/)
- - [Best VPN for Chrome 2025](https://www.cnet.com/tech/services-and-software/best-vpn-for-chrome/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Art of the Perfect Nap](https://www.wired.com/story/the-art-of-the-perfect-nap-sleep-science/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

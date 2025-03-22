@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [2025 Federal Tax Brackets: Here&#39;s Why Your Paycheck May Be Bigger This Year](https://www.cnet.com/personal-finance/taxes/2025-federal-tax-brackets-heres-why-your-paycheck-may-be-bigger-this-year/#ftag=CAD590a51e)
- - [Best Expert-Tested Rowing Machines of 2025 for a Full-Body Workout Without Water](https://www.cnet.com/health/fitness/best-rowing-machine/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, March 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-march-22/#ftag=CAD590a51e)
- - [A profile of Lisa Su, as AMD vies for a bigger chunk of the AI market; CTO Mark Papermaster says AMD had $5B in AI chip sales in 2024, up from $100M in 2023 &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250322/p9#a250322p9)
- - [Israel-based Kela, which develops tech for integrating AI, sensors, and edge devices into existing military systems, raised a $28M Series A and a $11M seed &lpar;Meytal Vaizberg/Globes Online&rpar;](http://www.techmeme.com/250322/p8#a250322p8)<!-- TECH:END -->
+ - [Best Internet Providers in Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-oregon/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 22, #180](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-22-180/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for March 22, #384](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-22-384/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for March 22, #650](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-22-650/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for March 22, #1372](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-22-1372/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

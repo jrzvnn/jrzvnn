@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She gotta be embarrassed](http://9gag.com/gag/aGyB0K5)
- - 😝 [This song hits](http://9gag.com/gag/aW4nW0x)
- - 💣 [That&#39;s so true](http://9gag.com/gag/a6Z5Qne)
- - 😝 [Men are simple creatures](http://9gag.com/gag/an72Xmq)
- - 👉 [That&#39;s how it all began; that smile...](http://9gag.com/gag/a0e0YeO)<!-- MEMES:END -->
+ - 😝 [Well, Well, Well...](http://9gag.com/gag/ae9Z6xm)
+ - 😝 [The most infuriating display in a game and all that for nothing](http://9gag.com/gag/a4PNYq6)
+ - 💣 [Valentines](http://9gag.com/gag/a1m0XO2)
+ - 😝 [That&#39;s the neighbor again](http://9gag.com/gag/aYQDLbV)
+ - 👉 [HAH! Got eem&#39;](http://9gag.com/gag/a870jj1)<!-- MEMES:END -->
 
 ---
 

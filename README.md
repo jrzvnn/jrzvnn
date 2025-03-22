@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hard Grandad&lpar;s&rpar;](http://9gag.com/gag/aVvKeqK)
- - 😝 [Best of both worlds](http://9gag.com/gag/avy609X)
- - 💣 [Chickens, plural](http://9gag.com/gag/an72KNz)
- - 😝 [Someone should teach women what no means](http://9gag.com/gag/an72YvL)
- - 👉 [I wonder how much they paid for these.](http://9gag.com/gag/aW4n0GA)<!-- MEMES:END -->
+ - 😝 [Two spies caught on action](http://9gag.com/gag/aW4nWxd)
+ - 😝 [Demi Moore celebrating Bruce Willis\u2019 70th birthday with him.](http://9gag.com/gag/awy1brQ)
+ - 💣 [What men won&#39;t do for a v.a.g.?](http://9gag.com/gag/aryX41K)
+ - 😝 [Ubisoft really f**ks with the Japanese Royal Family](http://9gag.com/gag/aYQDej2)
+ - 👉 [When the guy isn&#39;t attractive](http://9gag.com/gag/agm70Z6)<!-- MEMES:END -->
 
 ---
 

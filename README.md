@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sharing my folder #1](http://9gag.com/gag/aD283dx)
- - 😝 [Life is great](http://9gag.com/gag/aGyBDwX)
- - 💣 [That&#39;s the neighbor again](http://9gag.com/gag/aYQDLbV)
- - 😝 [My man\ud83d\ude4c](http://9gag.com/gag/a4PNL71)
- - 👉 [Not the answer he expected](http://9gag.com/gag/avy6n2d)<!-- MEMES:END -->
+ - 😝 [Best of both worlds](http://9gag.com/gag/avy609X)
+ - 😝 [Pwease buy it](http://9gag.com/gag/aPAovKG)
+ - 💣 [Big womeh](http://9gag.com/gag/aNDQK6v)
+ - 😝 [I bet Richard San stole that hoodie](http://9gag.com/gag/aO8Zy4D)
+ - 👉 [The most infuriating display in a game and all that for nothing](http://9gag.com/gag/a4PNYq6)<!-- MEMES:END -->
 
 ---
 

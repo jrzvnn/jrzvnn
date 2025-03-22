@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not the answer he expected](http://9gag.com/gag/avy6n2d)
  - 😝 [Chickens, plural](http://9gag.com/gag/an72KNz)
- - 💣 [I bet Richard San stole that hoodie](http://9gag.com/gag/aO8Zy4D)
- - 😝 [How about you guys?](http://9gag.com/gag/aLn4BOg)
- - 👉 [Experienced highschool cheerleader](http://9gag.com/gag/a870YOd)<!-- MEMES:END -->
+ - 😝 [When the guy isn&#39;t attractive](http://9gag.com/gag/agm70Z6)
+ - 💣 [Ubisoft really f**ks with the Japanese Royal Family](http://9gag.com/gag/aYQDej2)
+ - 😝 [I bet Richard San stole that hoodie](http://9gag.com/gag/aO8Zy4D)
+ - 👉 [How about you guys?](http://9gag.com/gag/aLn4BOg)<!-- MEMES:END -->
 
 ---
 

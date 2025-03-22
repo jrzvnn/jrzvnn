@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This song hits](http://9gag.com/gag/aW4nW0x)
- - 😝 [Best day ever](http://9gag.com/gag/awy1VX4)
- - 💣 [The most infuriating display in a game and all that for nothing](http://9gag.com/gag/a4PNYq6)
- - 😝 [Chickens, plural](http://9gag.com/gag/an72KNz)
- - 👉 [Meme](http://9gag.com/gag/aZZ8Mep)<!-- MEMES:END -->
+ - 😝 [The most infuriating display in a game and all that for nothing](http://9gag.com/gag/a4PNYq6)
+ - 😝 [That&#39;s so true](http://9gag.com/gag/a6Z5Qne)
+ - 💣 [Abort](http://9gag.com/gag/apR6L5b)
+ - 😝 [How about you guys?](http://9gag.com/gag/aLn4BOg)
+ - 👉 [Breakthrough: Injectable Oxygen!](http://9gag.com/gag/amo6ze2)<!-- MEMES:END -->
 
 ---
 

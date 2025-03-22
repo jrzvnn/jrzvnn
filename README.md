@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men are simple creatures](http://9gag.com/gag/an72Xmq)
- - 😝 [Finland as a country do not exist !](http://9gag.com/gag/a5QwrLV)
- - 💣 [Chickens, plural](http://9gag.com/gag/an72KNz)
- - 😝 [That&#39;s so true](http://9gag.com/gag/a6Z5Qne)
- - 👉 [Two spies caught on action](http://9gag.com/gag/aW4nWxd)<!-- MEMES:END -->
+ - 😝 [Two spies caught on action](http://9gag.com/gag/aW4nWxd)
+ - 😝 [Japanese](http://9gag.com/gag/aQz7nRr)
+ - 💣 [Men are simple creatures](http://9gag.com/gag/an72Xmq)
+ - 😝 [What men won&#39;t do for a v.a.g.?](http://9gag.com/gag/aryX41K)
+ - 👉 [She gotta be embarrassed](http://9gag.com/gag/aGyB0K5)<!-- MEMES:END -->
 
 ---
 

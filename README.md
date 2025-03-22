@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Experienced Lady](http://9gag.com/gag/a870b11)
- - 😝 [Ubisoft really f**ks with the Japanese Royal Family](http://9gag.com/gag/aYQDej2)
- - 💣 [When vegans see you upvote BBQ posts](http://9gag.com/gag/aW4nWpq)
- - 😝 [Take a seat](http://9gag.com/gag/ajPLrvw)
- - 👉 [The eclipse](http://9gag.com/gag/aMVPr61)<!-- MEMES:END -->
+ - 😝 [Chickens, plural](http://9gag.com/gag/an72KNz)
+ - 😝 [The secret recipe of Chinese restaurant](http://9gag.com/gag/an72YRz)
+ - 💣 [Take a seat](http://9gag.com/gag/ajPLrvw)
+ - 😝 [Joya Williams , An executive assistant at Coca-Cola offered to sell company secrets to Pepsi for 1.5 million dollars. Pepsi responded by notifying Coca-Cola triggering a FBI investigation. She was sentenced to 8 years in prison](http://9gag.com/gag/a7o07eL)
+ - 👉 [Experienced highschool cheerleader](http://9gag.com/gag/a870YOd)<!-- MEMES:END -->
 
 ---
 

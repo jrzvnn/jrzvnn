@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, Well, Well...](http://9gag.com/gag/ae9Z6xm)
- - 😝 [Valentines](http://9gag.com/gag/a1m0XO2)
- - 💣 [The most infuriating display in a game and all that for nothing](http://9gag.com/gag/a4PNYq6)
- - 😝 [That&#39;s the neighbor again](http://9gag.com/gag/aYQDLbV)
- - 👉 [Not the answer he expected](http://9gag.com/gag/avy6n2d)<!-- MEMES:END -->
+ - 😝 [That&#39;s how it all began; that smile...](http://9gag.com/gag/a0e0YeO)
+ - 😝 [She gotta be embarrassed](http://9gag.com/gag/aGyB0K5)
+ - 💣 [Two spies caught on action](http://9gag.com/gag/aW4nWxd)
+ - 😝 [Finland as a country do not exist !](http://9gag.com/gag/a5QwrLV)
+ - 👉 [Ubisoft really f**ks with the Japanese Royal Family](http://9gag.com/gag/aYQDej2)<!-- MEMES:END -->
 
 ---
 

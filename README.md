@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chickens, plural](http://9gag.com/gag/an72KNz)
- - 😝 [Take a seat](http://9gag.com/gag/ajPLrvw)
- - 💣 [I bet Richard San stole that hoodie](http://9gag.com/gag/aO8Zy4D)
- - 😝 [Two spies caught on action](http://9gag.com/gag/aW4nWxd)
- - 👉 [Pink lady looks angry](http://9gag.com/gag/aXPV93D)<!-- MEMES:END -->
+ - 😝 [What men won&#39;t do for a v.a.g.?](http://9gag.com/gag/aryX41K)
+ - 😝 [Big womeh](http://9gag.com/gag/aNDQK6v)
+ - 💣 [I wonder how much they paid for these.](http://9gag.com/gag/aW4n0GA)
+ - 😝 [IMDB removed rating from Snow White after falling below 2/10](http://9gag.com/gag/aW4nZAn)
+ - 👉 [Chickens, plural](http://9gag.com/gag/an72KNz)<!-- MEMES:END -->
 
 ---
 

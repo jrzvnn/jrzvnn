@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [24 Best Wireless Chargers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-wireless-chargers/)
+ - [7 cool indie games from GDC 2025](https://www.theverge.com/games/633885/gdc-2025-best-indie-games)
+ - [The best laptops you can get](https://www.theverge.com/21250695/best-laptops)
  - [X suspends several accounts belonging to opposition figures in Turkey, amid extensive protests sparked by the arrest of President Erdogan&#39;s main political rival &lpar;Eliza Gkritsi/Politico&rpar;](http://www.techmeme.com/250322/p12#a250322p12)
- - [The 6 Best OLED TVs &lpar;2025&rpar;](https://www.wired.com/gallery/best-oleds/)
- - [Who Knew the Northern Lights Had a Season? We&#39;re In It Right Now](https://www.cnet.com/science/look-for-the-northern-lights-tonight-aurora-borealis-has-a-season-and-were-in-it-now/#ftag=CAD590a51e)
- - [New iPhone 17 Air Will Be an Ultrathin iPhone, Reports Say](https://www.cnet.com/tech/mobile/new-iphone-17-air-will-be-an-ultrathin-iphone-reports-say/#ftag=CAD590a51e)
- - [&#39;1923&#39; Season 2: When Episode 5 Hits Paramount Plus](https://www.cnet.com/tech/services-and-software/1923-season-2-when-episode-5-hits-paramount-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 6 Best OLED TVs &lpar;2025&rpar;](https://www.wired.com/gallery/best-oleds/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

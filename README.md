@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The most infuriating display in a game and all that for nothing](http://9gag.com/gag/a4PNYq6)
- - 😝 [HAH! Got eem&#39;](http://9gag.com/gag/a870jj1)
- - 💣 [Well, Well, Well...](http://9gag.com/gag/ae9Z6xm)
- - 😝 [That&#39;s the neighbor again](http://9gag.com/gag/aYQDLbV)
- - 👉 [Valentines](http://9gag.com/gag/a1m0XO2)<!-- MEMES:END -->
+ - 😝 [This song hits](http://9gag.com/gag/aW4nW0x)
+ - 😝 [Best day ever](http://9gag.com/gag/awy1VX4)
+ - 💣 [The most infuriating display in a game and all that for nothing](http://9gag.com/gag/a4PNYq6)
+ - 😝 [Chickens, plural](http://9gag.com/gag/an72KNz)
+ - 👉 [Meme](http://9gag.com/gag/aZZ8Mep)<!-- MEMES:END -->
 
 ---
 

@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tencent unveils Hunyuan T1, which leverages large-scale reinforcement learning to rival DeepSeek&#39;s R1 in both performance and pricing &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250322/p15#a250322p15)
+ - [Tencent unveils Hunyuan T1, an ultra-large-scale hybrid reasoning model that combines Transformer and Mamba, and rivals DeepSeek&#39;s R1 in performance and pricing &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250322/p15#a250322p15)
  - [Best Supplements to Reduce Cortisol: Experts Share If These Supplements Can Really Lower Stress](https://www.cnet.com/health/nutrition/best-cortisol-supplements/#ftag=CAD590a51e)
  - [Sources: The Bot Company, co-founded by ex-Cruise CEO Kyle Vogt to make AI-powered household robots, raised $150M at a $2B valuation, up from $550M in May 2024 &lpar;Reuters&rpar;](http://www.techmeme.com/250322/p14#a250322p14)
  - [&#39;The White Lotus&#39; Season 3: When to Watch Episode 6 on Max](https://www.cnet.com/tech/services-and-software/the-white-lotus-season-3-when-to-watch-episode-6-on-max/#ftag=CAD590a51e)

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not the answer he expected](http://9gag.com/gag/avy6n2d)
- - 😝 [The Queen](http://9gag.com/gag/amo6Yxj)
- - 💣 [She gotta be embarrassed](http://9gag.com/gag/aGyB0K5)
- - 😝 [Best day ever](http://9gag.com/gag/awy1VX4)
- - 👉 [That&#39;s the neighbor again](http://9gag.com/gag/aYQDLbV)<!-- MEMES:END -->
+ - 😝 [She was not fckng around](http://9gag.com/gag/abA4poB)
+ - 😝 [Meme](http://9gag.com/gag/aZZ8Mep)
+ - 💣 [Me too kid](http://9gag.com/gag/a5QwrYq)
+ - 😝 [These hackers are getting out of hand...](http://9gag.com/gag/a340Lo8)
+ - 👉 [Odd isn&#39;t it?](http://9gag.com/gag/a0e0jvL)<!-- MEMES:END -->
 
 ---
 

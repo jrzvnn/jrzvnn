@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Cloudflare is luring web-scraping bots into an ‘AI Labyrinth’](https://www.theverge.com/news/634345/cloudflare-ai-labyrinth-web-scraping-bots-training-data)
  - [Apple&#39;s M4 Mac mini plunges to $499, lowest price ever](https://appleinsider.com/articles/25/03/22/apples-m4-mac-mini-plunges-to-499-lowest-price-ever?utm_medium=rss)
  - [Kuo: A20 chips in iPhone 18 models will be made using TSMC&#39;s 2nm process, as TSMC&#39;s trial production of 2nm chips reached yields well above the 60-70% range &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/250322/p16#a250322p16)
- - [&#39;Suits LA&#39;: How to Watch Episode 5 of the Stephen Amell Spin-Off](https://www.cnet.com/tech/services-and-software/suits-la-how-to-watch-episode-5-stephen-amell-spinoff/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Pensacola, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-pensacola-fl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

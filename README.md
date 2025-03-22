@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Me too kid](http://9gag.com/gag/a5QwrYq)
  - 😝 [Gonna play it again.](http://9gag.com/gag/aZZ8MY6)
- - 💣 [Pink lady looks angry](http://9gag.com/gag/aXPV93D)
- - 😝 [Experienced highschool cheerleader](http://9gag.com/gag/a870YOd)
- - 👉 [The most infuriating display in a game and all that for nothing](http://9gag.com/gag/a4PNYq6)<!-- MEMES:END -->
+ - 💣 [Experienced highschool cheerleader](http://9gag.com/gag/a870YOd)
+ - 😝 [The most infuriating display in a game and all that for nothing](http://9gag.com/gag/a4PNYq6)
+ - 👉 [Breakthrough: Injectable Oxygen!](http://9gag.com/gag/amo6ze2)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s the neighbor again](http://9gag.com/gag/aYQDLbV)
- - 😝 [Not the answer he expected](http://9gag.com/gag/avy6n2d)
- - 💣 [Ubisoft really f**ks with the Japanese Royal Family](http://9gag.com/gag/aYQDej2)
- - 😝 [Well, Well, Well...](http://9gag.com/gag/ae9Z6xm)
- - 👉 [Valentines](http://9gag.com/gag/a1m0XO2)<!-- MEMES:END -->
+ - 😝 [Meme](http://9gag.com/gag/aZZ8Mep)
+ - 😝 [The most infuriating display in a game and all that for nothing](http://9gag.com/gag/a4PNYq6)
+ - 💣 [Me too kid](http://9gag.com/gag/a5QwrYq)
+ - 😝 [That&#39;s so true](http://9gag.com/gag/a6Z5Qne)
+ - 👉 [Not the answer he expected](http://9gag.com/gag/avy6n2d)<!-- MEMES:END -->
 
 ---
 

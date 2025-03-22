@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best of both worlds](http://9gag.com/gag/avy609X)
- - 😝 [Pwease buy it](http://9gag.com/gag/aPAovKG)
- - 💣 [Big womeh](http://9gag.com/gag/aNDQK6v)
- - 😝 [I bet Richard San stole that hoodie](http://9gag.com/gag/aO8Zy4D)
- - 👉 [The most infuriating display in a game and all that for nothing](http://9gag.com/gag/a4PNYq6)<!-- MEMES:END -->
+ - 😝 [Chickens, plural](http://9gag.com/gag/an72KNz)
+ - 😝 [Ubisoft really f**ks with the Japanese Royal Family](http://9gag.com/gag/aYQDej2)
+ - 💣 [Pink lady looks angry](http://9gag.com/gag/aXPV93D)
+ - 😝 [Experienced highschool cheerleader](http://9gag.com/gag/a870YOd)
+ - 👉 [The last remaining continent on the planet has MYSTERIOUSLY erupted in `violence.`](http://9gag.com/gag/ae9ZNyv)<!-- MEMES:END -->
 
 ---
 

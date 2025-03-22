@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The most infuriating display in a game and all that for nothing](http://9gag.com/gag/a4PNYq6)
- - 😝 [That&#39;s so true](http://9gag.com/gag/a6Z5Qne)
- - 💣 [Abort](http://9gag.com/gag/apR6L5b)
+ - 😝 [She gotta be embarrassed](http://9gag.com/gag/aGyB0K5)
+ - 😝 [Two spies caught on action](http://9gag.com/gag/aW4nWxd)
+ - 💣 [Best day ever](http://9gag.com/gag/awy1VX4)
  - 😝 [How about you guys?](http://9gag.com/gag/aLn4BOg)
  - 👉 [Breakthrough: Injectable Oxygen!](http://9gag.com/gag/amo6ze2)<!-- MEMES:END -->
 

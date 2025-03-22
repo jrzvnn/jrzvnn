@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ubisoft really f**ks with the Japanese Royal Family](http://9gag.com/gag/aYQDej2)
+ - 😝 [Breakthrough: Injectable Oxygen!](http://9gag.com/gag/amo6ze2)
+ - 😝 [Abort](http://9gag.com/gag/apR6L5b)
+ - 💣 [Two spies caught on action](http://9gag.com/gag/aW4nWxd)
  - 😝 [Experienced highschool cheerleader](http://9gag.com/gag/a870YOd)
- - 💣 [Not the answer he expected](http://9gag.com/gag/avy6n2d)
- - 😝 [Demi Moore celebrating Bruce Willis\u2019 70th birthday with him.](http://9gag.com/gag/awy1brQ)
- - 👉 [When vegans see you upvote BBQ posts](http://9gag.com/gag/aW4nWpq)<!-- MEMES:END -->
+ - 👉 [The most infuriating display in a game and all that for nothing](http://9gag.com/gag/a4PNYq6)<!-- MEMES:END -->
 
 ---
 

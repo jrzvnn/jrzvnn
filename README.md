@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tencent unveils Hunyuan T1, an ultra-large-scale hybrid reasoning model that combines Transformer and Mamba, and rivals DeepSeek&#39;s R1 in performance and pricing &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250322/p15#a250322p15)
+ - [Kuo: A20 chips in iPhone 18 models will be made using TSMC&#39;s 2nm process, as TSMC&#39;s trial production of 2nm chips reached yields well above the 60-70% range &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/250322/p16#a250322p16)
+ - [Tencent unveils Hunyuan T1, a new reasoning AI model powered by its Hunyuan Turbo S AI model, and claims it rivals DeepSeek&#39;s R1 in both performance and pricing &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250322/p15#a250322p15)
  - [Best Supplements to Reduce Cortisol: Experts Share If These Supplements Can Really Lower Stress](https://www.cnet.com/health/nutrition/best-cortisol-supplements/#ftag=CAD590a51e)
  - [Sources: The Bot Company, co-founded by ex-Cruise CEO Kyle Vogt to make AI-powered household robots, raised $150M at a $2B valuation, up from $550M in May 2024 &lpar;Reuters&rpar;](http://www.techmeme.com/250322/p14#a250322p14)
- - [&#39;The White Lotus&#39; Season 3: When to Watch Episode 6 on Max](https://www.cnet.com/tech/services-and-software/the-white-lotus-season-3-when-to-watch-episode-6-on-max/#ftag=CAD590a51e)
- - [Bank Scams Are Hard to Spot. Here&#39;s How to Tell if That Message Is Legit](https://www.cnet.com/personal-finance/banking/bank-scams-are-getting-harder-to-spot-heres-how-to-tell-if-that-message-is-legit/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;The White Lotus&#39; Season 3: When to Watch Episode 6 on Max](https://www.cnet.com/tech/services-and-software/the-white-lotus-season-3-when-to-watch-episode-6-on-max/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

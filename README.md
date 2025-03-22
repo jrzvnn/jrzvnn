@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chickens, plural](http://9gag.com/gag/an72KNz)
- - 😝 [When the guy isn&#39;t attractive](http://9gag.com/gag/agm70Z6)
- - 💣 [Ubisoft really f**ks with the Japanese Royal Family](http://9gag.com/gag/aYQDej2)
- - 😝 [I bet Richard San stole that hoodie](http://9gag.com/gag/aO8Zy4D)
- - 👉 [How about you guys?](http://9gag.com/gag/aLn4BOg)<!-- MEMES:END -->
+ - 😝 [Me too kid](http://9gag.com/gag/a5QwrYq)
+ - 😝 [Gonna play it again.](http://9gag.com/gag/aZZ8MY6)
+ - 💣 [Pink lady looks angry](http://9gag.com/gag/aXPV93D)
+ - 😝 [Experienced highschool cheerleader](http://9gag.com/gag/a870YOd)
+ - 👉 [The most infuriating display in a game and all that for nothing](http://9gag.com/gag/a4PNYq6)<!-- MEMES:END -->
 
 ---
 

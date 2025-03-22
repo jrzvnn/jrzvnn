@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me too kid](http://9gag.com/gag/a5QwrYq)
- - 😝 [Gonna play it again.](http://9gag.com/gag/aZZ8MY6)
- - 💣 [Experienced highschool cheerleader](http://9gag.com/gag/a870YOd)
- - 😝 [The most infuriating display in a game and all that for nothing](http://9gag.com/gag/a4PNYq6)
- - 👉 [Breakthrough: Injectable Oxygen!](http://9gag.com/gag/amo6ze2)<!-- MEMES:END -->
+ - 😝 [Well, Well, Well...](http://9gag.com/gag/ae9Z6xm)
+ - 😝 [Valentines](http://9gag.com/gag/a1m0XO2)
+ - 💣 [The most infuriating display in a game and all that for nothing](http://9gag.com/gag/a4PNYq6)
+ - 😝 [That&#39;s the neighbor again](http://9gag.com/gag/aYQDLbV)
+ - 👉 [Not the answer he expected](http://9gag.com/gag/avy6n2d)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meme](http://9gag.com/gag/aZZ8Mep)
- - 😝 [The most infuriating display in a game and all that for nothing](http://9gag.com/gag/a4PNYq6)
- - 💣 [Me too kid](http://9gag.com/gag/a5QwrYq)
- - 😝 [That&#39;s so true](http://9gag.com/gag/a6Z5Qne)
- - 👉 [Not the answer he expected](http://9gag.com/gag/avy6n2d)<!-- MEMES:END -->
+ - 😝 [Not the answer he expected](http://9gag.com/gag/avy6n2d)
+ - 😝 [The Queen](http://9gag.com/gag/amo6Yxj)
+ - 💣 [She gotta be embarrassed](http://9gag.com/gag/aGyB0K5)
+ - 😝 [Best day ever](http://9gag.com/gag/awy1VX4)
+ - 👉 [That&#39;s the neighbor again](http://9gag.com/gag/aYQDLbV)<!-- MEMES:END -->
 
 ---
 

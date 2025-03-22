@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rammstein video vs $300 million dollar Hollywood](http://9gag.com/gag/amo6LNV)
- - 😝 [Two spies caught on action](http://9gag.com/gag/aW4nWxd)
- - 💣 [Chickens, plural](http://9gag.com/gag/an72KNz)
- - 😝 [Take a seat](http://9gag.com/gag/ajPLrvw)
- - 👉 [The most infuriating display in a game and all that for nothing](http://9gag.com/gag/a4PNYq6)<!-- MEMES:END -->
+ - 😝 [The future is here, old cat](http://9gag.com/gag/a7o0dP2)
+ - 😝 [&#39;I want one for my desk](http://9gag.com/gag/ae9Z62B)
+ - 💣 [There was blood everywhere on the streets...](http://9gag.com/gag/ajPLnWx)
+ - 😝 [Okay what are the alternatives](http://9gag.com/gag/aW4nWA6)
+ - 👉 [That&#39;s the neighbor again](http://9gag.com/gag/aYQDLbV)<!-- MEMES:END -->
 
 ---
 

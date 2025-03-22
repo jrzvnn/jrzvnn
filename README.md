@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FBI Is Investigating Attacks on Tesla as ‘Domestic Terrorism.’ Here’s Why That Matters](https://www.wired.com/story/fbi-tesla-arson-domestic-terrorism-protests/)
- - [Verizon Satellite Messaging, a Retro Console, and Velotric&#39;s Ebike—Here’s Your Gear News of the Week](https://www.wired.com/story/verizon-brings-free-satellite-messaging-to-select-android-phones/)
- - [A profile of Jed McCaleb, the billionaire who was behind Mt. Gox and XRP, as his aerospace startup Vast looks to build a private space station with SpaceX &lpar;Bloomberg&rpar;](http://www.techmeme.com/250322/p10#a250322p10)
- - [Best Internet Providers in Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-oregon/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 22, #180](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-22-180/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [17 Best Early Amazon Spring Sale Deals &lpar;2025&rpar;](https://www.wired.com/story/amazon-spring-sale-2025-1/)
+ - [A Mysterious Startup Is Developing a New Form of Solar Geoengineering](https://www.wired.com/story/a-mysterious-startup-is-developing-a-new-form-of-solar-geoengineering/)
+ - [The 43 Best Movies on Netflix Right Now &lpar;March 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [BYD&#39;s 5-Minute EV Charging Sounds Great. But How Useful Is it?](https://www.wired.com/story/byd-5-minute-ev-charging/)
+ - [The 44 Best Shows on Netflix Right Now &lpar;March 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [When the guy isn&#39;t attractive](http://9gag.com/gag/agm70Z6)
+ - 😝 [Chickens, plural](http://9gag.com/gag/an72KNz)
+ - 💣 [Take a seat](http://9gag.com/gag/ajPLrvw)
  - 😝 [Two spies caught on action](http://9gag.com/gag/aW4nWxd)
- - 😝 [The worst? Come on, what about Iraq weapons of mass destruction, axis of evil.](http://9gag.com/gag/amo6059)
- - 💣 [What men won&#39;t do for a v.a.g.?](http://9gag.com/gag/aryX41K)
- - 😝 [I bet Richard San stole that hoodie](http://9gag.com/gag/aO8Zy4D)
- - 👉 [Someone should teach women what no means](http://9gag.com/gag/an72YvL)<!-- MEMES:END -->
+ - 👉 [Big womeh](http://9gag.com/gag/aNDQK6v)<!-- MEMES:END -->
 
 ---
 

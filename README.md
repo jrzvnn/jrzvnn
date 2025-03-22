@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Chickens, plural](http://9gag.com/gag/an72KNz)
- - 😝 [Ubisoft really f**ks with the Japanese Royal Family](http://9gag.com/gag/aYQDej2)
- - 💣 [Pink lady looks angry](http://9gag.com/gag/aXPV93D)
- - 😝 [Experienced highschool cheerleader](http://9gag.com/gag/a870YOd)
- - 👉 [The last remaining continent on the planet has MYSTERIOUSLY erupted in `violence.`](http://9gag.com/gag/ae9ZNyv)<!-- MEMES:END -->
+ - 😝 [Take a seat](http://9gag.com/gag/ajPLrvw)
+ - 💣 [I bet Richard San stole that hoodie](http://9gag.com/gag/aO8Zy4D)
+ - 😝 [Two spies caught on action](http://9gag.com/gag/aW4nWxd)
+ - 👉 [Pink lady looks angry](http://9gag.com/gag/aXPV93D)<!-- MEMES:END -->
 
 ---
 

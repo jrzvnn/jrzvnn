@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She gotta be embarrassed](http://9gag.com/gag/aGyB0K5)
- - 😝 [Two spies caught on action](http://9gag.com/gag/aW4nWxd)
+ - 😝 [The worst? Come on, what about Iraq weapons of mass destruction, axis of evil.](http://9gag.com/gag/amo6059)
+ - 😝 [Ubisoft really f**ks with the Japanese Royal Family](http://9gag.com/gag/aYQDej2)
  - 💣 [Best day ever](http://9gag.com/gag/awy1VX4)
- - 😝 [How about you guys?](http://9gag.com/gag/aLn4BOg)
+ - 😝 [Then he WHAT\u2026](http://9gag.com/gag/aAyK1Bg)
  - 👉 [Breakthrough: Injectable Oxygen!](http://9gag.com/gag/amo6ze2)<!-- MEMES:END -->
 
 ---

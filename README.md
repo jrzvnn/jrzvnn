@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Supplements to Reduce Cortisol: Experts Share If These Supplements Can Really Lower Stress](https://www.cnet.com/health/nutrition/best-cortisol-supplements/#ftag=CAD590a51e)
  - [Sources: The Bot Company, co-founded by ex-Cruise CEO Kyle Vogt to make AI-powered household robots, raised $150M at a $2B valuation, up from $550M in May 2024 &lpar;Reuters&rpar;](http://www.techmeme.com/250322/p14#a250322p14)
- - [Filings review: Builder.ai, which raised $450M from Microsoft and others, used an auditor with links to founder Sachin Duggal; Duggal resigned as CEO last month &lpar;Financial Times&rpar;](http://www.techmeme.com/250322/p13#a250322p13)
- - [Cybertruck Recall Hits 46K Vehicles Thanks to a Glue Failure](https://www.cnet.com/roadshow/news/cybertruck-recall-hits-46k-vehicles-thanks-to-a-glue-failure/#ftag=CAD590a51e)
- - [Photo Mode is my new gaming obsession](https://www.theverge.com/games/634125/assassins-creed-shadows-photo-mode-infinity-nikki)
- - [March Madness 2025: How to Watch the NCAA Men&#39;s Basketball Tournament Today](https://www.cnet.com/tech/services-and-software/march-madness-2025-how-to-watch-the-ncaa-mens-basketball-tournament-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;The White Lotus&#39; Season 3: When to Watch Episode 6 on Max](https://www.cnet.com/tech/services-and-software/the-white-lotus-season-3-when-to-watch-episode-6-on-max/#ftag=CAD590a51e)
+ - [Bank Scams Are Hard to Spot. Here&#39;s How to Tell if That Message Is Legit](https://www.cnet.com/personal-finance/banking/bank-scams-are-getting-harder-to-spot-heres-how-to-tell-if-that-message-is-legit/#ftag=CAD590a51e)
+ - [Departing Broadband Official Warns of Shift to Musk&#39;s &#39;Worse&#39; Satellite Internet](https://www.cnet.com/home/internet/departing-broadband-official-warns-of-shift-to-musks-worse-satellite-internet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

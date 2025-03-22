@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s how it all began; that smile...](http://9gag.com/gag/a0e0YeO)
- - 😝 [She gotta be embarrassed](http://9gag.com/gag/aGyB0K5)
- - 💣 [Two spies caught on action](http://9gag.com/gag/aW4nWxd)
+ - 😝 [Men are simple creatures](http://9gag.com/gag/an72Xmq)
  - 😝 [Finland as a country do not exist !](http://9gag.com/gag/a5QwrLV)
- - 👉 [Ubisoft really f**ks with the Japanese Royal Family](http://9gag.com/gag/aYQDej2)<!-- MEMES:END -->
+ - 💣 [Chickens, plural](http://9gag.com/gag/an72KNz)
+ - 😝 [That&#39;s so true](http://9gag.com/gag/a6Z5Qne)
+ - 👉 [Two spies caught on action](http://9gag.com/gag/aW4nWxd)<!-- MEMES:END -->
 
 ---
 

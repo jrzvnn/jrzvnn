@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The most infuriating display in a game and all that for nothing](http://9gag.com/gag/a4PNYq6)
- - 😝 [Well, Well, Well...](http://9gag.com/gag/ae9Z6xm)
- - 💣 [Valentines](http://9gag.com/gag/a1m0XO2)
- - 😝 [That&#39;s the neighbor again](http://9gag.com/gag/aYQDLbV)
- - 👉 [HAH! Got eem&#39;](http://9gag.com/gag/a870jj1)<!-- MEMES:END -->
+ - 😝 [These hackers are getting out of hand...](http://9gag.com/gag/a340Lo8)
+ - 😝 [Chickens, plural](http://9gag.com/gag/an72KNz)
+ - 💣 [How about you guys?](http://9gag.com/gag/aLn4BOg)
+ - 😝 [One of the best moments in British tv history](http://9gag.com/gag/aO8ZmAr)
+ - 👉 [Japanese](http://9gag.com/gag/aQz7nRr)<!-- MEMES:END -->
 
 ---
 

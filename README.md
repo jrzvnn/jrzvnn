@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Israel-based Kela, which develops tech for integrating AI, sensors, and edge devices into existing military systems, raised a $28M Series A and a $11M seed &lpar;Meytal Vaizberg/Globes Online&rpar;](http://www.techmeme.com/250322/p8#a250322p8)
  - [Inspiren, which provides workflow and staffing tech and AI-based fall detection for senior living facilities, raised a $35M Series A led by Avenir &lpar;Heather Landi/Fierce Healthcare&rpar;](http://www.techmeme.com/250322/p7#a250322p7)
  - [The crypto-lending industry, nearly wiped out in the last bear market, is staging a comeback as Cantor Fitzgerald launches a $2B Bitcoin financing business &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/250322/p6#a250322p6)
  - [A look at Amazon&#39;s suit against the Consumer Product Safety Commission, claiming the agency is unconstitutional, an argument favored by the Trump administration &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/250322/p5#a250322p5)
- - [A profile of StubHub CEO Eric Baker, who, according to the company&#39;s S-1, holds 5.2% of Class A shares but controls over 90% of the votes through Class B shares &lpar;Bloomberg&rpar;](http://www.techmeme.com/250322/p4#a250322p4)
- - [Index Ventures, Wiz&#39;s largest outside shareholder with a 13% stake, is set to turn its $245M investment into $4.3B from Wiz&#39;s pending sale to Alphabet for $32B &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250322/p3#a250322p3)<!-- TECH:END -->
+ - [A profile of StubHub CEO Eric Baker, who, according to the company&#39;s S-1, holds 5.2% of Class A shares but controls over 90% of the votes through Class B shares &lpar;Bloomberg&rpar;](http://www.techmeme.com/250322/p4#a250322p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

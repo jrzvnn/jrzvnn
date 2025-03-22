@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Verizon Satellite Messaging, a Retro Console, and Velotric&#39;s Ebike—Here’s Your Gear News of the Week](https://www.wired.com/story/verizon-brings-free-satellite-messaging-to-select-android-phones/)
  - [A profile of Jed McCaleb, the billionaire who was behind Mt. Gox and XRP, as his aerospace startup Vast looks to build a private space station with SpaceX &lpar;Bloomberg&rpar;](http://www.techmeme.com/250322/p10#a250322p10)
  - [Best Internet Providers in Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-oregon/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 22, #180](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-22-180/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for March 22, #384](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-22-384/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for March 22, #650](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-22-650/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for March 22, #384](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-22-384/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

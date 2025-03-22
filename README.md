@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chickens, plural](http://9gag.com/gag/an72KNz)
- - 😝 [Istanbul now it seems that Erdogan has no choice but to leave power. I do not know why presidents cling to their seats as long as the people do not want them.](http://9gag.com/gag/amo605o)
- - 💣 [Rammstein video vs $300 million dollar Hollywood](http://9gag.com/gag/amo6LNV)
- - 😝 [`Honey, dinner is ready.`](http://9gag.com/gag/aXPVb1D)
- - 👉 [Someone should teach women what no means](http://9gag.com/gag/an72YvL)<!-- MEMES:END -->
+ - 😝 [Joya Williams , An executive assistant at Coca-Cola offered to sell company secrets to Pepsi for 1.5 million dollars. Pepsi responded by notifying Coca-Cola triggering a FBI investigation. She was sentenced to 8 years in prison](http://9gag.com/gag/a7o07eL)
+ - 😝 [It&#39;s as if the vegetable was fated to be with him](http://9gag.com/gag/a7o0byA)
+ - 💣 [Chickens, plural](http://9gag.com/gag/an72KNz)
+ - 😝 [When vegans see you upvote BBQ posts](http://9gag.com/gag/aW4nWpq)
+ - 👉 [IMDB removed rating from Snow White after falling below 2/10](http://9gag.com/gag/aW4nZAn)<!-- MEMES:END -->
 
 ---
 

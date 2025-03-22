@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The 6 Best OLED TVs &lpar;2025&rpar;](https://www.wired.com/gallery/best-oleds/)
- - [An interview with Affirm co-founder Max Levchin on hitting profitability, international expansion, building an &quot;Affirm mafia&quot;, DOGE, friendship with Musk, more &lpar;Andrew Edgecliffe-Johnson/Semafor&rpar;](http://www.techmeme.com/250322/p11#a250322p11)
- - [13 Best Hair Straighteners We Tested &lpar;2025&rpar; | WIRED](https://www.wired.com/gallery/best-hair-straighteners/)
- - [AI is Invading All Aspects of Our Tech Lives. Good Luck Trying to Avoid It](https://www.cnet.com/tech/ai-is-invading-all-aspects-of-our-tech-lives-good-luck-trying-to-avoid-it/#ftag=CAD590a51e)
- - [Meet the AI Fraud Fighters: A Deepfake Granny, Digital Bots and a YouTube Star](https://www.cnet.com/personal-finance/features/meet-the-ai-fraud-fighters-a-deepfake-granny-digital-bots-and-a-youtube-star/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Who Knew the Northern Lights Had a Season? We&#39;re In It Right Now](https://www.cnet.com/science/look-for-the-northern-lights-tonight-aurora-borealis-has-a-season-and-were-in-it-now/#ftag=CAD590a51e)
+ - [New iPhone 17 Air Will Be an Ultrathin iPhone, Reports Say](https://www.cnet.com/tech/mobile/new-iphone-17-air-will-be-an-ultrathin-iphone-reports-say/#ftag=CAD590a51e)
+ - [&#39;1923&#39; Season 2: When Episode 5 Hits Paramount Plus](https://www.cnet.com/tech/services-and-software/1923-season-2-when-episode-5-hits-paramount-plus/#ftag=CAD590a51e)
+ - [Yes, You Have to Pay Taxes on Your CD Interest. Here&#39;s How to Do It](https://www.cnet.com/personal-finance/taxes/yes-you-have-to-pay-taxes-on-your-cd-interest-here-how-to-do-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

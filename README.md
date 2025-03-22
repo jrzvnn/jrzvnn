@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chickens, plural](http://9gag.com/gag/an72KNz)
- - 😝 [The secret recipe of Chinese restaurant](http://9gag.com/gag/an72YRz)
- - 💣 [Take a seat](http://9gag.com/gag/ajPLrvw)
- - 😝 [Joya Williams , An executive assistant at Coca-Cola offered to sell company secrets to Pepsi for 1.5 million dollars. Pepsi responded by notifying Coca-Cola triggering a FBI investigation. She was sentenced to 8 years in prison](http://9gag.com/gag/a7o07eL)
- - 👉 [Experienced highschool cheerleader](http://9gag.com/gag/a870YOd)<!-- MEMES:END -->
+ - 😝 [Hard Grandad&lpar;s&rpar;](http://9gag.com/gag/aVvKeqK)
+ - 😝 [Best of both worlds](http://9gag.com/gag/avy609X)
+ - 💣 [Chickens, plural](http://9gag.com/gag/an72KNz)
+ - 😝 [Someone should teach women what no means](http://9gag.com/gag/an72YvL)
+ - 👉 [I wonder how much they paid for these.](http://9gag.com/gag/aW4n0GA)<!-- MEMES:END -->
 
 ---
 

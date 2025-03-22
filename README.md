@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Breakthrough: Injectable Oxygen!](http://9gag.com/gag/amo6ze2)
- - 😝 [Abort](http://9gag.com/gag/apR6L5b)
- - 💣 [Two spies caught on action](http://9gag.com/gag/aW4nWxd)
- - 😝 [Experienced highschool cheerleader](http://9gag.com/gag/a870YOd)
- - 👉 [The most infuriating display in a game and all that for nothing](http://9gag.com/gag/a4PNYq6)<!-- MEMES:END -->
+ - 😝 [Not the answer he expected](http://9gag.com/gag/avy6n2d)
+ - 💣 [The most infuriating display in a game and all that for nothing](http://9gag.com/gag/a4PNYq6)
+ - 😝 [What men won&#39;t do for a v.a.g.?](http://9gag.com/gag/aryX41K)
+ - 👉 [Rammstein video vs $300 million dollar Hollywood](http://9gag.com/gag/amo6LNV)<!-- MEMES:END -->
 
 ---
 

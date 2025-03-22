@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Democratic Senators helping Trump&#39;s strongest Senate allies repeal Section 230 could give the Trump administration unprecedented power to control online speech &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/250322/p17#a250322p17)
  - [Cloudflare is luring web-scraping bots into an ‘AI Labyrinth’](https://www.theverge.com/news/634345/cloudflare-ai-labyrinth-web-scraping-bots-training-data)
  - [Apple&#39;s M4 Mac mini plunges to $499, lowest price ever](https://appleinsider.com/articles/25/03/22/apples-m4-mac-mini-plunges-to-499-lowest-price-ever?utm_medium=rss)
  - [Kuo: A20 chips in iPhone 18 models will be made using TSMC&#39;s 2nm process, as TSMC&#39;s trial production of 2nm chips reached yields well above the 60-70% range &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/250322/p16#a250322p16)
- - [&#39;Suits LA&#39;: How to Watch Episode 5 of the Stephen Amell Spin-Off](https://www.cnet.com/tech/services-and-software/suits-la-how-to-watch-episode-5-stephen-amell-spinoff/#ftag=CAD590a51e)
- - [Tencent unveils Hunyuan T1, a new reasoning AI model powered by its Hunyuan Turbo S AI model, and claims it rivals DeepSeek&#39;s R1 in both performance and pricing &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250322/p15#a250322p15)<!-- TECH:END -->
+ - [&#39;Suits LA&#39;: How to Watch Episode 5 of the Stephen Amell Spin-Off](https://www.cnet.com/tech/services-and-software/suits-la-how-to-watch-episode-5-stephen-amell-spinoff/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

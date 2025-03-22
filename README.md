@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filings review: Builder.ai, which raised $450M from Microsoft and others, used an auditor with links to founder Sachin Duggal; Duggal resigned as CEO last month &lpar;Financial Times&rpar;](http://www.techmeme.com/250322/p13#a250322p13)
+ - [Photo Mode is my new gaming obsession](https://www.theverge.com/games/634125/assassins-creed-shadows-photo-mode-infinity-nikki)
  - [SwitchBot adds robot vacuums, smart shades, and its new Hub 3 to Home Assistant](https://www.theverge.com/news/634336/switchbot-home-assistant-45-device-integrations-coming-soon)
  - [Spring Clean Your Tech: Where to Recycle Your Computers and Printers for Free](https://www.cnet.com/tech/computing/spring-clean-your-tech-where-to-recycle-your-computers-and-printers-for-free/#ftag=CAD590a51e)
- - [24 Best Wireless Chargers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-wireless-chargers/)
- - [7 cool indie games from GDC 2025](https://www.theverge.com/games/633885/gdc-2025-best-indie-games)
- - [The best laptops you can get](https://www.theverge.com/21250695/best-laptops)<!-- TECH:END -->
+ - [24 Best Wireless Chargers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-wireless-chargers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

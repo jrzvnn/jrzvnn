@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sharing my folder #1](http://9gag.com/gag/aD283dx)
- - 😝 [Life is great](http://9gag.com/gag/aGyBDwX)
- - 💣 [Not the answer he expected](http://9gag.com/gag/avy6n2d)
- - 😝 [Super curious effects.](http://9gag.com/gag/aByV121)
- - 👉 [My man\ud83d\ude4c](http://9gag.com/gag/a4PNL71)<!-- MEMES:END -->
+ - 😝 [Just left](http://9gag.com/gag/aVvKW1v)
+ - 😝 [Two spies caught on action](http://9gag.com/gag/aW4nWxd)
+ - 💣 [It&#39;s as if the vegetable was fated to be with him](http://9gag.com/gag/a7o0byA)
+ - 😝 [Best of both worlds](http://9gag.com/gag/avy609X)
+ - 👉 [This is what I pay the internet for.](http://9gag.com/gag/a5QwdDE)<!-- MEMES:END -->
 
 ---
 

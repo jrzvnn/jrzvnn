@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What men won&#39;t do for a v.a.g.?](http://9gag.com/gag/aryX41K)
- - 😝 [Big womeh](http://9gag.com/gag/aNDQK6v)
- - 💣 [I wonder how much they paid for these.](http://9gag.com/gag/aW4n0GA)
- - 😝 [IMDB removed rating from Snow White after falling below 2/10](http://9gag.com/gag/aW4nZAn)
- - 👉 [Chickens, plural](http://9gag.com/gag/an72KNz)<!-- MEMES:END -->
+ - 😝 [My man\ud83d\ude4c](http://9gag.com/gag/a4PNL71)
+ - 😝 [Life is great](http://9gag.com/gag/aGyBDwX)
+ - 💣 [There was blood everywhere on the streets...](http://9gag.com/gag/ajPLnWx)
+ - 😝 [That&#39;s the neighbor again](http://9gag.com/gag/aYQDLbV)
+ - 👉 [Okay what are the alternatives](http://9gag.com/gag/aW4nWA6)<!-- MEMES:END -->
 
 ---
 

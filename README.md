@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [The most infuriating display in a game and all that for nothing](http://9gag.com/gag/a4PNYq6)
  - 😝 [HAH! Got eem&#39;](http://9gag.com/gag/a870jj1)
- - 💣 [That&#39;s the neighbor again](http://9gag.com/gag/aYQDLbV)
- - 😝 [Valentines](http://9gag.com/gag/a1m0XO2)
- - 👉 [Well, Well, Well...](http://9gag.com/gag/ae9Z6xm)<!-- MEMES:END -->
+ - 💣 [Well, Well, Well...](http://9gag.com/gag/ae9Z6xm)
+ - 😝 [That&#39;s the neighbor again](http://9gag.com/gag/aYQDLbV)
+ - 👉 [Valentines](http://9gag.com/gag/a1m0XO2)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The future is here, old cat](http://9gag.com/gag/a7o0dP2)
- - 😝 [&#39;I want one for my desk](http://9gag.com/gag/ae9Z62B)
- - 💣 [There was blood everywhere on the streets...](http://9gag.com/gag/ajPLnWx)
- - 😝 [Okay what are the alternatives](http://9gag.com/gag/aW4nWA6)
- - 👉 [That&#39;s the neighbor again](http://9gag.com/gag/aYQDLbV)<!-- MEMES:END -->
+ - 😝 [Ubisoft really f**ks with the Japanese Royal Family](http://9gag.com/gag/aYQDej2)
+ - 😝 [Experienced highschool cheerleader](http://9gag.com/gag/a870YOd)
+ - 💣 [Not the answer he expected](http://9gag.com/gag/avy6n2d)
+ - 😝 [Demi Moore celebrating Bruce Willis\u2019 70th birthday with him.](http://9gag.com/gag/awy1brQ)
+ - 👉 [When vegans see you upvote BBQ posts](http://9gag.com/gag/aW4nWpq)<!-- MEMES:END -->
 
 ---
 

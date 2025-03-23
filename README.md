@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [These hackers are getting out of hand...](http://9gag.com/gag/a340Lo8)
- - 😝 [How about you guys?](http://9gag.com/gag/aLn4BOg)
- - 💣 [Still on payroll?](http://9gag.com/gag/ayN6x8Y)
- - 😝 [Then he WHAT\u2026](http://9gag.com/gag/aAyK1Bg)
- - 👉 [One of the best moments in British tv history](http://9gag.com/gag/aO8ZmAr)<!-- MEMES:END -->
+ - 😝 [One of the best moments in British tv history](http://9gag.com/gag/aO8ZmAr)
+ - 💣 [It&#39;s a mystery.](http://9gag.com/gag/aPAo9XV)
+ - 😝 [Still on payroll?](http://9gag.com/gag/ayN6x8Y)
+ - 👉 [How about you guys?](http://9gag.com/gag/aLn4BOg)<!-- MEMES:END -->
 
 ---
 

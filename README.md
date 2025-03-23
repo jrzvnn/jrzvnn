@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cologne-based Buynomics, which uses AI to let companies optimize pricing and promotions by simulating real-world shoppers&#39; behavior, raised a $30M Series B &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/250323/p1#a250323p1)
  - [Sources: OpenAI has spoken with Reliance about a potential product and sales partnership in India; Meta also plans to work with Reliance on new AI businesses &lpar;The Information&rpar;](http://www.techmeme.com/250322/p22#a250322p22)
  - [After leadership changes and an internal studio closure, Netflix aims to refine its gaming strategy, focusing on smaller-scale games rather than big-budget ones &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250322/p21#a250322p21)
  - [An interview with Yahoo CEO Jim Lanzone on the company&#39;s 30th anniversary, being in &quot;building mode&quot;, AI, acquiring AI-powered news aggregator Artifact, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/250322/p20#a250322p20)
- - [Hue accidentally leaks a new video doorbell](https://www.theverge.com/news/634362/hue-secure-video-doorbell-leak-app-qr-code-update)
- - [Best Internet Providers in Portland, Maine](https://www.cnet.com/home/internet/best-internet-providers-in-portland-me/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hue accidentally leaks a new video doorbell](https://www.theverge.com/news/634362/hue-secure-video-doorbell-leak-app-qr-code-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

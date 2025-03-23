@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He&#39;s a right dog](http://9gag.com/gag/avy6OvM)
+ - 😝 [It can even go lower!](http://9gag.com/gag/aGyBZwz)
  - 😝 [Well, That Was Unexpected](http://9gag.com/gag/aQz735q)
- - 💣 [Best day ever](http://9gag.com/gag/awy1VX4)
+ - 💣 [He&#39;s a right dog](http://9gag.com/gag/avy6OvM)
  - 😝 [Still on payroll?](http://9gag.com/gag/ayN6x8Y)
  - 👉 [Meanwhile on Indian TV show](http://9gag.com/gag/azxKqyB)<!-- MEMES:END -->
 

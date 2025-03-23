@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, March 23](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-march-23/#ftag=CAD590a51e)
+ - [Dubai-based NymCard, whose APIs let financial institutions in 10+ MENA countries manage card issuance, transaction processing, and more, raised a $33M Series B &lpar;Omar Faridi/Crowdfund Insider&rpar;](http://www.techmeme.com/250323/p4#a250323p4)
+ - [NYC-based Carbon Arc, which operates a cloud service offering datasets optimized for AI use with consumption-based pricing, raised $56M led by Liberty City &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250323/p3#a250323p3)
  - [Augment, a startup founded by Deliverr co-founder Harish Abbott and whose AI assistant can automate routine tasks in logistics, raised a $25M seed from 8VC &lpar;Grace Sharkey/FreightWaves&rpar;](http://www.techmeme.com/250323/p2#a250323p2)
  - [Cologne-based Buynomics, which uses AI to let companies optimize pricing and promotions by simulating real-world shoppers&#39; behavior, raised a $30M Series B &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/250323/p1#a250323p1)
- - [Disney Plus: 21 Marvelous TV Shows You Should Press Play on Right Now](https://www.cnet.com/tech/services-and-software/best-disney-plus-tv-shows-2025/#ftag=CAD590a51e)
- - [Sources: OpenAI has spoken with Reliance about a potential product and sales partnership in India; Meta also plans to work with Reliance on new AI businesses &lpar;The Information&rpar;](http://www.techmeme.com/250322/p22#a250322p22)<!-- TECH:END -->
+ - [Disney Plus: 21 Marvelous TV Shows You Should Press Play on Right Now](https://www.cnet.com/tech/services-and-software/best-disney-plus-tv-shows-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

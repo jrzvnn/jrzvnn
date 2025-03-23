@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The 13 Best TVs We’ve Reviewed, Plus Buying Advice &lpar;2025&rpar;](https://www.wired.com/gallery/best-tvs/)
- - [Gayle King, Katy Perry and Lauren Sánchez Are Going to Space Soon](https://www.cnet.com/science/gayle-king-katy-perry-and-lauren-sanchez-are-going-to-space-soon/#ftag=CAD590a51e)
  - [What Is Bluetooth? The History, How It Works, and What&#39;s Next](https://www.wired.com/story/what-is-bluetooth/)
- - [A Surprising Amount of People Hide Cash at Home. Here&#39;s Where They Should Be Putting It](https://www.cnet.com/personal-finance/banking/a-surprising-amount-of-people-hide-cash-at-home-heres-where-they-should-be-putting-it/#ftag=CAD590a51e)
- - [The Fed Holds Rates Steady So Don&#39;t Expect Changes to Your Credit Cards](https://www.cnet.com/personal-finance/the-fed-holds-rates-steady-again-so-dont-expect-your-cards-interest-rate-to-drop/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Why Balatro’s developer stays anonymous](https://www.theverge.com/games/634123/balatro-localthunk-developer-anonymous-update)
+ - [ProMotion again reported to come to the base iPhone 17](https://appleinsider.com/articles/25/03/23/promotion-again-reported-to-come-to-the-base-iphone-17?utm_medium=rss)
+ - [How to Use Apple’s Image Playground to Generate AI Art](https://www.wired.com/story/how-to-use-apples-image-playground-to-generate-ai-art/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

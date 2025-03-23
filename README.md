@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ubisoft really f**ks with the Japanese Royal Family](http://9gag.com/gag/aYQDej2)
- - 😝 [&#39;I want one for my desk](http://9gag.com/gag/ae9Z62B)
- - 💣 [Valentines](http://9gag.com/gag/a1m0XO2)
- - 😝 [I dont need it....i dont need it...I NEED IT](http://9gag.com/gag/aByVW5x)
- - 👉 [What it needs to make a man happy](http://9gag.com/gag/aQz7e18)<!-- MEMES:END -->
+ - 😝 [Still on payroll?](http://9gag.com/gag/ayN6x8Y)
+ - 😝 [A man of dedication and sheer will](http://9gag.com/gag/amo62Vd)
+ - 💣 [You heard her](http://9gag.com/gag/aO8ZVPM)
+ - 😝 [How about you guys?](http://9gag.com/gag/aLn4BOg)
+ - 👉 [Then he WHAT\u2026](http://9gag.com/gag/aAyK1Bg)<!-- MEMES:END -->
 
 ---
 

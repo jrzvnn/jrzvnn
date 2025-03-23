@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At worst i just listen to recaps](http://9gag.com/gag/aByV8Zz)
+ - 😝 [It&#39;s a mystery.](http://9gag.com/gag/aPAo9XV)
+ - 😝 [Here&#39;s another unusual. Any connoisseur that can tell me what car this is ?](http://9gag.com/gag/an72yBB)
+ - 💣 [You heard her](http://9gag.com/gag/aO8ZVPM)
  - 😝 [Sorry, if I had to see this, you have too.](http://9gag.com/gag/amo6Ymj)
- - 💣 [Then he WHAT\u2026](http://9gag.com/gag/aAyK1Bg)
- - 😝 [Meme](http://9gag.com/gag/aZZ8Mep)
- - 👉 [You heard her](http://9gag.com/gag/aO8ZVPM)<!-- MEMES:END -->
+ - 👉 [Then he WHAT\u2026](http://9gag.com/gag/aAyK1Bg)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Former staff, investors, and industry experts reflect on the demise of Dunzo, the Indian online delivery pioneer undone by mismanagement, competition, and more &lpar;Ananya Bhattacharya/Rest of World&rpar;](http://www.techmeme.com/250323/p6#a250323p6)
  - [Best Internet Providers in Sarasota, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-sarasota-fl/#ftag=CAD590a51e)
  - [Scientists are using AI to speed up drug repurposing, expanding the treatment possibilities for people with rare diseases and few options &lpar;Kate Morgan/New York Times&rpar;](http://www.techmeme.com/250323/p5#a250323p5)
  - [Dubai-based NymCard, whose APIs let financial institutions in 10+ MENA countries manage card issuance, transaction processing, and more, raised a $33M Series B &lpar;Omar Faridi/Crowdfund Insider&rpar;](http://www.techmeme.com/250323/p4#a250323p4)
- - [NYC-based Carbon Arc, which operates a cloud service offering datasets optimized for AI use with consumption-based pricing, raised $56M led by Liberty City &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250323/p3#a250323p3)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, March 23](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-march-23/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NYC-based Carbon Arc, which operates a cloud service offering datasets optimized for AI use with consumption-based pricing, raised $56M led by Liberty City &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250323/p3#a250323p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

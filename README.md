@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Reno, Nevada](https://www.cnet.com/home/internet/best-internet-providers-in-reno-nv/#ftag=CAD590a51e)
+ - [OpenAI’s Sora Is Plagued by Sexist, Racist, and Ableist Biases](https://www.wired.com/story/openai-sora-video-generator-bias/)
  - [Former staff, investors, and industry experts reflect on the demise of Dunzo, the Indian online delivery pioneer undone by mismanagement, competition, and more &lpar;Ananya Bhattacharya/Rest of World&rpar;](http://www.techmeme.com/250323/p6#a250323p6)
  - [Best Internet Providers in Sarasota, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-sarasota-fl/#ftag=CAD590a51e)
  - [Scientists are using AI to speed up drug repurposing, expanding the treatment possibilities for people with rare diseases and few options &lpar;Kate Morgan/New York Times&rpar;](http://www.techmeme.com/250323/p5#a250323p5)

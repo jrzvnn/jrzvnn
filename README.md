@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s a mystery.](http://9gag.com/gag/aPAo9XV)
+ - 😝 [Trust the process!](http://9gag.com/gag/a7o0DXz)
+ - 😝 [They made the kid wash his hands before this staged ass pic](http://9gag.com/gag/aD28jex)
+ - 💣 [It&#39;s a mystery.](http://9gag.com/gag/aPAo9XV)
  - 😝 [Meme](http://9gag.com/gag/aZZ8Mep)
- - 💣 [Apparently his life was so extraordinary the team that documented his life gave him a proper burial](http://9gag.com/gag/ayN6XXM)
- - 😝 [You heard her](http://9gag.com/gag/aO8ZVPM)
- - 👉 [Still on payroll?](http://9gag.com/gag/ayN6x8Y)<!-- MEMES:END -->
+ - 👉 [A man of dedication and sheer will](http://9gag.com/gag/amo62Vd)<!-- MEMES:END -->
 
 ---
 

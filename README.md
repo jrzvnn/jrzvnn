@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not the answer he expected](http://9gag.com/gag/avy6n2d)
- - 😝 [HAH! Got eem&#39;](http://9gag.com/gag/a870jj1)
- - 💣 [The perfect comment doesn\u2019t exi\u2026](http://9gag.com/gag/an72b1o)
- - 😝 [Ubisoft really f**ks with the Japanese Royal Family](http://9gag.com/gag/aYQDej2)
- - 👉 [Well, Well, Well...](http://9gag.com/gag/ae9Z6xm)<!-- MEMES:END -->
+ - 😝 [One of the best moments in British tv history](http://9gag.com/gag/aO8ZmAr)
+ - 😝 [It&#39;s as if the vegetable was fated to be with him](http://9gag.com/gag/a7o0byA)
+ - 💣 [They fired her a year ago btw](http://9gag.com/gag/aqy6LOv)
+ - 😝 [Then he WHAT\u2026](http://9gag.com/gag/aAyK1Bg)
+ - 👉 [Odd isn&#39;t it?](http://9gag.com/gag/a0e0jvL)<!-- MEMES:END -->
 
 ---
 

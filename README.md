@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What Is Bluetooth? The History, How It Works, and What&#39;s Next](https://www.wired.com/story/what-is-bluetooth/)
+ - [Why Balatro’s developer stays anonymous](https://www.theverge.com/games/634123/balatro-localthunk-developer-anonymous-update)
  - [ProMotion again reported to come to the base iPhone 17](https://appleinsider.com/articles/25/03/23/promotion-again-reported-to-come-to-the-base-iphone-17?utm_medium=rss)
  - [How to Use Apple’s Image Playground to Generate AI Art](https://www.wired.com/story/how-to-use-apples-image-playground-to-generate-ai-art/)
- - [Elon Musk&#39;s ties to President Trump can complicate Starlink&#39;s global rollout; Morgan Stanley estimates Starlink could make $16.3B in revenue in 2025, up 74% YoY &lpar;Financial Times&rpar;](http://www.techmeme.com/250323/p7#a250323p7)
- - [An old smartwatch favorite makes a comeback](https://www.theverge.com/installer-newsletter/633860/pebble-2-duo-assassins-creed-shadows-pixel-9a-installer)
- - [Is it safe to travel with your phone right now?](https://www.theverge.com/policy/634264/customs-border-protection-search-phone-airport-rights)<!-- TECH:END -->
+ - [Elon Musk&#39;s ties to President Trump can complicate Starlink&#39;s global rollout; Morgan Stanley estimates Starlink could make $16.3B in revenue in 2025, up 74% YoY &lpar;Financial Times&rpar;](http://www.techmeme.com/250323/p7#a250323p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

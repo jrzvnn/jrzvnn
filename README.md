@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [A happy misunderstanding](http://9gag.com/gag/aLn483V)
- - 😝 [A man of dedication and sheer will](http://9gag.com/gag/amo62Vd)
- - 💣 [Meme](http://9gag.com/gag/aZZ8Mep)
- - 😝 [Apparently his life was so extraordinary the team that documented his life gave him a proper burial](http://9gag.com/gag/ayN6XXM)
- - 👉 [Best day ever](http://9gag.com/gag/awy1VX4)<!-- MEMES:END -->
+ - 😝 [Meme](http://9gag.com/gag/aZZ8Mep)
+ - 💣 [At worst i just listen to recaps](http://9gag.com/gag/aByV8Zz)
+ - 😝 [Best day ever](http://9gag.com/gag/awy1VX4)
+ - 👉 [Apparently his life was so extraordinary the team that documented his life gave him a proper burial](http://9gag.com/gag/ayN6XXM)<!-- MEMES:END -->
 
 ---
 

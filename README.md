@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Still on payroll?](http://9gag.com/gag/ayN6x8Y)
- - 😝 [A man of dedication and sheer will](http://9gag.com/gag/amo62Vd)
- - 💣 [You heard her](http://9gag.com/gag/aO8ZVPM)
- - 😝 [How about you guys?](http://9gag.com/gag/aLn4BOg)
- - 👉 [Then he WHAT\u2026](http://9gag.com/gag/aAyK1Bg)<!-- MEMES:END -->
+ - 😝 [It&#39;s a mystery.](http://9gag.com/gag/aPAo9XV)
+ - 💣 [A man of dedication and sheer will](http://9gag.com/gag/amo62Vd)
+ - 😝 [Then he WHAT\u2026](http://9gag.com/gag/aAyK1Bg)
+ - 👉 [How about you guys?](http://9gag.com/gag/aLn4BOg)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Browser Use, whose open-source tool converts website elements into a &quot;text-like&quot; format that AI agents can better understand, raised a $17M seed led by Felicis &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250323/p10#a250323p10)
- - [I&#39;ve Been Running for Over 15 Years. Here Are the Best Treadmills of 2025](https://www.cnet.com/health/fitness/best-treadmill/#ftag=CAD590a51e)
- - [Apple may be reconsidering a plastic version of the Apple Watch SE](https://appleinsider.com/articles/25/03/23/apple-may-be-reconsidering-a-plastic-version-of-the-apple-watch-se?utm_medium=rss)
+ - [Apple may be reconsidering an all-plastic Apple Watch SE](https://appleinsider.com/articles/25/03/23/apple-may-be-reconsidering-a-plastic-version-of-the-apple-watch-se?utm_medium=rss)
  - [Gozney Tread Pizza Oven Review: Gorgeous and Compact](https://www.wired.com/review/gozney-tread-pizza-oven/)
- - [IFPI: global music streaming revenues hit a record $20.4B in 2024, driven by paid subscription revenues of $15.15B, up 9.5% YoY; paid subscribers reached 752M &lpar;Murray Stassen/Music Business Worldwide&rpar;](http://www.techmeme.com/250323/p9#a250323p9)<!-- TECH:END -->
+ - [IFPI: global music streaming revenues hit a record $20.4B in 2024, driven by paid subscription revenues of $15.15B, up 9.5% YoY; paid subscribers reached 752M &lpar;Murray Stassen/Music Business Worldwide&rpar;](http://www.techmeme.com/250323/p9#a250323p9)
+ - [Apple&#39;s Passwords App Security Flaw Was Potentially There &#39;For Years&#39;](https://www.cnet.com/tech/services-and-software/apples-passwords-app-security-flaw-was-potentially-there-for-years/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

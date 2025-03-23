@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [It ain&#39;t easy in the hood](http://9gag.com/gag/aqy67dp)
+ - 😝 [At worst i just listen to recaps](http://9gag.com/gag/aByV8Zz)
+ - 💣 [Meme](http://9gag.com/gag/aZZ8Mep)
  - 😝 [A happy misunderstanding](http://9gag.com/gag/aLn483V)
- - 😝 [Meme](http://9gag.com/gag/aZZ8Mep)
- - 💣 [At worst i just listen to recaps](http://9gag.com/gag/aByV8Zz)
- - 😝 [Best day ever](http://9gag.com/gag/awy1VX4)
  - 👉 [Apparently his life was so extraordinary the team that documented his life gave him a proper burial](http://9gag.com/gag/ayN6XXM)<!-- MEMES:END -->
 
 ---

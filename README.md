@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A man of dedication and sheer will](http://9gag.com/gag/amo62Vd)
  - 😝 [These hackers are getting out of hand...](http://9gag.com/gag/a340Lo8)
- - 😝 [One of the best moments in British tv history](http://9gag.com/gag/aO8ZmAr)
- - 💣 [It&#39;s a mystery.](http://9gag.com/gag/aPAo9XV)
- - 😝 [Still on payroll?](http://9gag.com/gag/ayN6x8Y)
+ - 💣 [One of the best moments in British tv history](http://9gag.com/gag/aO8ZmAr)
+ - 😝 [It&#39;s a mystery.](http://9gag.com/gag/aPAo9XV)
  - 👉 [How about you guys?](http://9gag.com/gag/aLn4BOg)<!-- MEMES:END -->
 
 ---

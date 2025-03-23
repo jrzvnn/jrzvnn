@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Apple Watch may get cameras and Apple Intelligence](https://www.theverge.com/news/634395/apple-watch-apple-intelligence-cameras)
  - [Sources: Apple plans to build its own AI models for Visual Intelligence and add cameras to the Watch; the redesigned plastic Apple Watch SE faces serious issues &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250323/p8#a250323p8)
  - [Apple Watch could gain cameras to improve AI features](https://appleinsider.com/articles/25/03/23/apple-watch-could-gain-cameras-to-improve-ai-features?utm_medium=rss)
  - [5 Best Rugs to Upgrade Any Room, Tested by WIRED &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-rugs-to-upgrade-any-room/)
- - [The 13 Best TVs We’ve Reviewed, Plus Buying Advice &lpar;2025&rpar;](https://www.wired.com/gallery/best-tvs/)
- - [Gayle King, Katy Perry and Lauren Sánchez Are Going to Space Soon](https://www.cnet.com/science/gayle-king-katy-perry-and-lauren-sanchez-are-going-to-space-soon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 13 Best TVs We’ve Reviewed, Plus Buying Advice &lpar;2025&rpar;](https://www.wired.com/gallery/best-tvs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

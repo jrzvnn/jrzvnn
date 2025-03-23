@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Georgian folk dance](http://9gag.com/gag/a340MX5)
- - 😝 [The perfect comment doesn\u2019t exi\u2026](http://9gag.com/gag/an72b1o)
- - 💣 [Meanwhile on Indian TV show](http://9gag.com/gag/azxKqyB)
- - 😝 [What it needs to make a man happy](http://9gag.com/gag/aQz7e18)
- - 👉 [A man of dedication and sheer will](http://9gag.com/gag/amo62Vd)<!-- MEMES:END -->
+ - 😝 [It&#39;s a mystery.](http://9gag.com/gag/aPAo9XV)
+ - 😝 [At worst i just listen to recaps](http://9gag.com/gag/aByV8Zz)
+ - 💣 [These hackers are getting out of hand...](http://9gag.com/gag/a340Lo8)
+ - 😝 [Demineralized water?](http://9gag.com/gag/aXPVx96)
+ - 👉 [You heard her](http://9gag.com/gag/aO8ZVPM)<!-- MEMES:END -->
 
 ---
 

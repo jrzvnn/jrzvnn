@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One of the best moments in British tv history](http://9gag.com/gag/aO8ZmAr)
- - 😝 [It&#39;s as if the vegetable was fated to be with him](http://9gag.com/gag/a7o0byA)
- - 💣 [They fired her a year ago btw](http://9gag.com/gag/aqy6LOv)
- - 😝 [Then he WHAT\u2026](http://9gag.com/gag/aAyK1Bg)
- - 👉 [Odd isn&#39;t it?](http://9gag.com/gag/a0e0jvL)<!-- MEMES:END -->
+ - 😝 [Ubisoft should write history books.](http://9gag.com/gag/aMVPG2X)
+ - 😝 [Textbook teachs us](http://9gag.com/gag/aE0AzLG)
+ - 💣 [Meme](http://9gag.com/gag/aZZ8Mep)
+ - 😝 [Odd isn&#39;t it?](http://9gag.com/gag/a0e0jvL)
+ - 👉 [Sorry, if I had to see this, you have too.](http://9gag.com/gag/amo6Ymj)<!-- MEMES:END -->
 
 ---
 

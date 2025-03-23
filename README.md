@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Crime blotter: Teenaged Apple Store robber agrees to pay security guards](https://appleinsider.com/articles/25/03/23/crime-blotter-teenaged-apple-store-robber-agrees-to-pay-security-guards?utm_medium=rss)
+ - [How to Get Free Tickets to TV Tapings and Movie Screenings](https://www.wired.com/story/how-to-get-free-tickets-to-tv-tapings-and-movie-screenings/)
  - [A Math Couple Solves a Major Group Theory Problem—After 20 Years of Work](https://www.wired.com/story/after-20-years-math-couple-solves-major-group-theory-problem/)
  - [Should You Smoke &lpar;Food&rpar; Indoors?](https://www.wired.com/story/smoking-indoors/)
- - [To Truly Fix Siri, Apple May Have to Backtrack on One Key Thing—Privacy](https://www.wired.com/story/to-truly-fix-siri-apple-may-have-to-backtrack-on-one-key-thing-privacy/)
- - [Best Internet Providers in Sedona, Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-sedona-az/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [To Truly Fix Siri, Apple May Have to Backtrack on One Key Thing—Privacy](https://www.wired.com/story/to-truly-fix-siri-apple-may-have-to-backtrack-on-one-key-thing-privacy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

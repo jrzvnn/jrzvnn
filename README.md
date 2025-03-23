@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ubisoft should write history books.](http://9gag.com/gag/aMVPG2X)
- - 😝 [Textbook teachs us](http://9gag.com/gag/aE0AzLG)
- - 💣 [Meme](http://9gag.com/gag/aZZ8Mep)
- - 😝 [Odd isn&#39;t it?](http://9gag.com/gag/a0e0jvL)
- - 👉 [Sorry, if I had to see this, you have too.](http://9gag.com/gag/amo6Ymj)<!-- MEMES:END -->
+ - 😝 [So, who gets it?](http://9gag.com/gag/a4PNGKm)
+ - 😝 [You Will Like It](http://9gag.com/gag/axy607Y)
+ - 💣 [It&#39;s as if the vegetable was fated to be with him](http://9gag.com/gag/a7o0byA)
+ - 😝 [At worst i just listen to recaps](http://9gag.com/gag/aByV8Zz)
+ - 👉 [They made the kid wash his hands before this staged ass pic](http://9gag.com/gag/aD28jex)<!-- MEMES:END -->
 
 ---
 

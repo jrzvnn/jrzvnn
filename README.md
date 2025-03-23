@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [She gotta be embarrassed](http://9gag.com/gag/aGyB0K5)
- - 😝 [At worst i just listen to recaps](http://9gag.com/gag/aByV8Zz)
+ - 😝 [They made the kid wash his hands before this staged ass pic](http://9gag.com/gag/aD28jex)
  - 💣 [Apparently his life was so extraordinary the team that documented his life gave him a proper burial](http://9gag.com/gag/ayN6XXM)
  - 😝 [Best day ever](http://9gag.com/gag/awy1VX4)
- - 👉 [Meanwhile on Indian TV show](http://9gag.com/gag/azxKqyB)<!-- MEMES:END -->
+ - 👉 [A happy misunderstanding](http://9gag.com/gag/aLn483V)<!-- MEMES:END -->
 
 ---
 

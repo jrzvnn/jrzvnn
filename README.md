@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Well, That Was Unexpected](http://9gag.com/gag/aQz735q)
+ - 😝 [He&#39;s a right dog](http://9gag.com/gag/avy6OvM)
+ - 💣 [Best day ever](http://9gag.com/gag/awy1VX4)
  - 😝 [It ain&#39;t easy in the hood](http://9gag.com/gag/aqy67dp)
- - 😝 [At worst i just listen to recaps](http://9gag.com/gag/aByV8Zz)
- - 💣 [Meme](http://9gag.com/gag/aZZ8Mep)
- - 😝 [A happy misunderstanding](http://9gag.com/gag/aLn483V)
- - 👉 [Apparently his life was so extraordinary the team that documented his life gave him a proper burial](http://9gag.com/gag/ayN6XXM)<!-- MEMES:END -->
+ - 👉 [Meanwhile on Indian TV show](http://9gag.com/gag/azxKqyB)<!-- MEMES:END -->
 
 ---
 

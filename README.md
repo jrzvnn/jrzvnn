@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, That Was Unexpected](http://9gag.com/gag/aQz735q)
  - 😝 [He&#39;s a right dog](http://9gag.com/gag/avy6OvM)
- - 💣 [Best day ever](http://9gag.com/gag/awy1VX4)
- - 😝 [It ain&#39;t easy in the hood](http://9gag.com/gag/aqy67dp)
+ - 😝 [Well, That Was Unexpected](http://9gag.com/gag/aQz735q)
+ - 💣 [It ain&#39;t easy in the hood](http://9gag.com/gag/aqy67dp)
+ - 😝 [Best day ever](http://9gag.com/gag/awy1VX4)
  - 👉 [Meanwhile on Indian TV show](http://9gag.com/gag/azxKqyB)<!-- MEMES:END -->
 
 ---

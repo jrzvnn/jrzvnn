@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Parents are the real heros..](http://9gag.com/gag/aE0ABw9)
  - 😝 [You heard her](http://9gag.com/gag/aO8ZVPM)
- - 😝 [At worst i just listen to recaps](http://9gag.com/gag/aByV8Zz)
- - 💣 [They made the kid wash his hands before this staged ass pic](http://9gag.com/gag/aD28jex)
- - 😝 [It&#39;s a mystery.](http://9gag.com/gag/aPAo9XV)
- - 👉 [Meme](http://9gag.com/gag/aZZ8Mep)<!-- MEMES:END -->
+ - 💣 [It&#39;s a mystery.](http://9gag.com/gag/aPAo9XV)
+ - 😝 [Meme](http://9gag.com/gag/aZZ8Mep)
+ - 👉 [Still on payroll?](http://9gag.com/gag/ayN6x8Y)<!-- MEMES:END -->
 
 ---
 

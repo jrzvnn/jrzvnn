@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Odd isn&#39;t it?](http://9gag.com/gag/a0e0jvL)
+ - 😝 [Japanese](http://9gag.com/gag/aQz7nRr)
  - 😝 [One of the best moments in British tv history](http://9gag.com/gag/aO8ZmAr)
- - 💣 [She was not fckng around](http://9gag.com/gag/abA4poB)
- - 😝 [\u201cAHHhH\u201d](http://9gag.com/gag/aAyKP00)
- - 👉 [They fired her a year ago btw](http://9gag.com/gag/aqy6LOv)<!-- MEMES:END -->
+ - 💣 [These hackers are getting out of hand...](http://9gag.com/gag/a340Lo8)
+ - 😝 [They made the kid wash his hands before this staged ass pic](http://9gag.com/gag/aD28jex)
+ - 👉 [You heard her](http://9gag.com/gag/aO8ZVPM)<!-- MEMES:END -->
 
 ---
 

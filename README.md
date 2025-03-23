@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Smile](http://9gag.com/gag/a0e0dDZ)
- - 😝 [Maybe Chemical X was originally colored white](http://9gag.com/gag/awy1VWW)
- - 💣 [They made the kid wash his hands before this staged ass pic](http://9gag.com/gag/aD28jex)
- - 😝 [That&#39;s how it all began; that smile...](http://9gag.com/gag/a0e0YeO)
- - 👉 [Facts](http://9gag.com/gag/ae9ZGEb)<!-- MEMES:END -->
+ - 😝 [Odd isn&#39;t it?](http://9gag.com/gag/a0e0jvL)
+ - 😝 [One of the best moments in British tv history](http://9gag.com/gag/aO8ZmAr)
+ - 💣 [She was not fckng around](http://9gag.com/gag/abA4poB)
+ - 😝 [\u201cAHHhH\u201d](http://9gag.com/gag/aAyKP00)
+ - 👉 [They fired her a year ago btw](http://9gag.com/gag/aqy6LOv)<!-- MEMES:END -->
 
 ---
 

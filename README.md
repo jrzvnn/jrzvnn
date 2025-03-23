@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japanese](http://9gag.com/gag/aQz7nRr)
- - 😝 [One of the best moments in British tv history](http://9gag.com/gag/aO8ZmAr)
- - 💣 [These hackers are getting out of hand...](http://9gag.com/gag/a340Lo8)
- - 😝 [They made the kid wash his hands before this staged ass pic](http://9gag.com/gag/aD28jex)
- - 👉 [You heard her](http://9gag.com/gag/aO8ZVPM)<!-- MEMES:END -->
+ - 😝 [Meme](http://9gag.com/gag/aZZ8Mep)
+ - 😝 [Wholesome toy](http://9gag.com/gag/a6Z5Lm8)
+ - 💣 [Facts](http://9gag.com/gag/ae9ZGEb)
+ - 😝 [It&#39;s as if the vegetable was fated to be with him](http://9gag.com/gag/a7o0byA)
+ - 👉 [One of the best moments in British tv history](http://9gag.com/gag/aO8ZmAr)<!-- MEMES:END -->
 
 ---
 

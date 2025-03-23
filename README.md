@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [He&#39;s a right dog](http://9gag.com/gag/avy6OvM)
- - 😝 [Apparently his life was so extraordinary the team that documented his life gave him a proper burial](http://9gag.com/gag/ayN6XXM)
- - 💣 [They made the kid wash his hands before this staged ass pic](http://9gag.com/gag/aD28jex)
- - 😝 [Best day ever](http://9gag.com/gag/awy1VX4)
+ - 😝 [Well, That Was Unexpected](http://9gag.com/gag/aQz735q)
+ - 💣 [Best day ever](http://9gag.com/gag/awy1VX4)
+ - 😝 [Still on payroll?](http://9gag.com/gag/ayN6x8Y)
  - 👉 [Meanwhile on Indian TV show](http://9gag.com/gag/azxKqyB)<!-- MEMES:END -->
 
 ---

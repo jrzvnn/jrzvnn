@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not the answer he expected](http://9gag.com/gag/avy6n2d)
- - 😝 [Then he WHAT\u2026](http://9gag.com/gag/aAyK1Bg)
- - 💣 [Meme](http://9gag.com/gag/aZZ8Mep)
- - 😝 [So, who gets it?](http://9gag.com/gag/a4PNGKm)
- - 👉 [How about you guys?](http://9gag.com/gag/aLn4BOg)<!-- MEMES:END -->
+ - 😝 [Well, Well, Well...](http://9gag.com/gag/ae9Z6xm)
+ - 😝 [I dont need it....i dont need it...I NEED IT](http://9gag.com/gag/aByVW5x)
+ - 💣 [Ubisoft really f**ks with the Japanese Royal Family](http://9gag.com/gag/aYQDej2)
+ - 😝 [Valentines](http://9gag.com/gag/a1m0XO2)
+ - 👉 [&#39;I want one for my desk](http://9gag.com/gag/ae9Z62B)<!-- MEMES:END -->
 
 ---
 

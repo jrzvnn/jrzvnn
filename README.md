@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After leadership changes and an internal studio closure, Netflix aims to refine its gaming strategy, focusing on smaller-scale games rather than big-budget ones &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250322/p21#a250322p21)
  - [An interview with Yahoo CEO Jim Lanzone on the company&#39;s 30th anniversary, being in &quot;building mode&quot;, AI, acquiring AI-powered news aggregator Artifact, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/250322/p20#a250322p20)
  - [Hue accidentally leaks a new video doorbell](https://www.theverge.com/news/634362/hue-secure-video-doorbell-leak-app-qr-code-update)
  - [Best Internet Providers in Portland, Maine](https://www.cnet.com/home/internet/best-internet-providers-in-portland-me/#ftag=CAD590a51e)
- - [All iPhone 18 models rumored to get speed boost from 2nm chips](https://appleinsider.com/articles/25/03/22/all-iphone-18-models-rumored-to-get-speed-boost-from-2nm-chips?utm_medium=rss)
- - [FBC Firebreak Brings Squad Combat to Haunted Offices With Remedy&#39;s Surreal Humor](https://www.cnet.com/tech/gaming/fbc-firebreak-brings-squad-combat-to-haunted-offices-with-remedys-surreal-humor/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [All iPhone 18 models rumored to get speed boost from 2nm chips](https://appleinsider.com/articles/25/03/22/all-iphone-18-models-rumored-to-get-speed-boost-from-2nm-chips?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s a mystery.](http://9gag.com/gag/aPAo9XV)
+ - 😝 [She was not fckng around](http://9gag.com/gag/abA4poB)
  - 😝 [Here&#39;s another unusual. Any connoisseur that can tell me what car this is ?](http://9gag.com/gag/an72yBB)
- - 💣 [You heard her](http://9gag.com/gag/aO8ZVPM)
- - 😝 [Sorry, if I had to see this, you have too.](http://9gag.com/gag/amo6Ymj)
- - 👉 [Then he WHAT\u2026](http://9gag.com/gag/aAyK1Bg)<!-- MEMES:END -->
+ - 💣 [Then he WHAT\u2026](http://9gag.com/gag/aAyK1Bg)
+ - 😝 [It&#39;s a mystery.](http://9gag.com/gag/aPAo9XV)
+ - 👉 [The AI in the new Assassins Creed is amazing! So sophistimakated!](http://9gag.com/gag/aE0AB6G)<!-- MEMES:END -->
 
 ---
 

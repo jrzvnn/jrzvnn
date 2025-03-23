@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Parents are the real heros..](http://9gag.com/gag/aE0ABw9)
- - 😝 [You heard her](http://9gag.com/gag/aO8ZVPM)
- - 💣 [It&#39;s a mystery.](http://9gag.com/gag/aPAo9XV)
+ - 😝 [It&#39;s a mystery.](http://9gag.com/gag/aPAo9XV)
  - 😝 [Meme](http://9gag.com/gag/aZZ8Mep)
+ - 💣 [Apparently his life was so extraordinary the team that documented his life gave him a proper burial](http://9gag.com/gag/ayN6XXM)
+ - 😝 [You heard her](http://9gag.com/gag/aO8ZVPM)
  - 👉 [Still on payroll?](http://9gag.com/gag/ayN6x8Y)<!-- MEMES:END -->
 
 ---

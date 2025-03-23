@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Then why exactly are you here my fair lady?](http://9gag.com/gag/aryXgd0)
+ - 😝 [How easy it\u2019s to copy keys](http://9gag.com/gag/aMVPjLV)
+ - 💣 [Meanwhile on Indian TV show](http://9gag.com/gag/azxKqyB)
  - 😝 [That was awesome](http://9gag.com/gag/amo6742)
- - 😝 [He&#39;s a right dog](http://9gag.com/gag/avy6OvM)
- - 💣 [Who else did this as a kid?](http://9gag.com/gag/aNDQYAG)
- - 😝 [Apparently his life was so extraordinary the team that documented his life gave him a proper burial](http://9gag.com/gag/ayN6XXM)
- - 👉 [Meanwhile on Indian TV show](http://9gag.com/gag/azxKqyB)<!-- MEMES:END -->
+ - 👉 [He&#39;s a right dog](http://9gag.com/gag/avy6OvM)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best deals you can already grab from Amazon’s spring sales event](https://www.theverge.com/tech/632597/amazon-big-spring-sale-2025-prime-day-deals)
  - [iPhone Fold leaker reaffirms 2026 launch forecasts](https://appleinsider.com/articles/25/03/23/iphone-fold-leaker-reaffirms-2026-launch-forecasts?utm_medium=rss)
  - [ProMotion screen again rumored to spread to base iPhone 17](https://appleinsider.com/articles/25/03/23/promotion-again-reported-to-come-to-the-base-iphone-17?utm_medium=rss)
  - [Browser Use, whose open-source tool converts website elements into a &quot;text-like&quot; format that AI agents can better understand, raised a $17M seed led by Felicis &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250323/p10#a250323p10)
- - [I&#39;ve Been Running for Over 15 Years. Here Are the Best Treadmills of 2025](https://www.cnet.com/health/fitness/best-treadmill/#ftag=CAD590a51e)
- - [Apple may be reconsidering an all-plastic Apple Watch SE](https://appleinsider.com/articles/25/03/23/apple-may-be-reconsidering-a-plastic-version-of-the-apple-watch-se?utm_medium=rss)<!-- TECH:END -->
+ - [I&#39;ve Been Running for Over 15 Years. Here Are the Best Treadmills of 2025](https://www.cnet.com/health/fitness/best-treadmill/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

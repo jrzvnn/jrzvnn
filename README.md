@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [So, who gets it?](http://9gag.com/gag/a4PNGKm)
  - 😝 [It&#39;s a mystery.](http://9gag.com/gag/aPAo9XV)
- - 💣 [Then he WHAT\u2026](http://9gag.com/gag/aAyK1Bg)
- - 😝 [A man of dedication and sheer will](http://9gag.com/gag/amo62Vd)
+ - 💣 [These hackers are getting out of hand...](http://9gag.com/gag/a340Lo8)
+ - 😝 [Meanwhile on Indian TV show](http://9gag.com/gag/azxKqyB)
  - 👉 [Sorry, if I had to see this, you have too.](http://9gag.com/gag/amo6Ymj)<!-- MEMES:END -->
 
 ---

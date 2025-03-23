@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It can even go lower!](http://9gag.com/gag/aGyBZwz)
- - 😝 [Well, That Was Unexpected](http://9gag.com/gag/aQz735q)
- - 💣 [He&#39;s a right dog](http://9gag.com/gag/avy6OvM)
- - 😝 [Still on payroll?](http://9gag.com/gag/ayN6x8Y)
+ - 😝 [That was awesome](http://9gag.com/gag/amo6742)
+ - 😝 [He&#39;s a right dog](http://9gag.com/gag/avy6OvM)
+ - 💣 [Who else did this as a kid?](http://9gag.com/gag/aNDQYAG)
+ - 😝 [Apparently his life was so extraordinary the team that documented his life gave him a proper burial](http://9gag.com/gag/ayN6XXM)
  - 👉 [Meanwhile on Indian TV show](http://9gag.com/gag/azxKqyB)<!-- MEMES:END -->
 
 ---

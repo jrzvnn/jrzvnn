@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [So, who gets it?](http://9gag.com/gag/a4PNGKm)
  - 😝 [That was awesome](http://9gag.com/gag/amo6742)
- - 😝 [He&#39;s a right dog](http://9gag.com/gag/avy6OvM)
- - 💣 [Who else did this as a kid?](http://9gag.com/gag/aNDQYAG)
- - 😝 [Apparently his life was so extraordinary the team that documented his life gave him a proper burial](http://9gag.com/gag/ayN6XXM)
- - 👉 [Meanwhile on Indian TV show](http://9gag.com/gag/azxKqyB)<!-- MEMES:END -->
+ - 💣 [He&#39;s a right dog](http://9gag.com/gag/avy6OvM)
+ - 😝 [Who else did this as a kid?](http://9gag.com/gag/aNDQYAG)
+ - 👉 [Apparently his life was so extraordinary the team that documented his life gave him a proper burial](http://9gag.com/gag/ayN6XXM)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She gotta be embarrassed](http://9gag.com/gag/aGyB0K5)
- - 😝 [They made the kid wash his hands before this staged ass pic](http://9gag.com/gag/aD28jex)
- - 💣 [Apparently his life was so extraordinary the team that documented his life gave him a proper burial](http://9gag.com/gag/ayN6XXM)
+ - 😝 [He&#39;s a right dog](http://9gag.com/gag/avy6OvM)
+ - 😝 [Apparently his life was so extraordinary the team that documented his life gave him a proper burial](http://9gag.com/gag/ayN6XXM)
+ - 💣 [They made the kid wash his hands before this staged ass pic](http://9gag.com/gag/aD28jex)
  - 😝 [Best day ever](http://9gag.com/gag/awy1VX4)
- - 👉 [A happy misunderstanding](http://9gag.com/gag/aLn483V)<!-- MEMES:END -->
+ - 👉 [Meanwhile on Indian TV show](http://9gag.com/gag/azxKqyB)<!-- MEMES:END -->
 
 ---
 

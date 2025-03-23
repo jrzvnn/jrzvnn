@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple may be reconsidering a plastic version of the Apple Watch SE](https://appleinsider.com/articles/25/03/23/apple-may-be-reconsidering-a-plastic-version-of-the-apple-watch-se?utm_medium=rss)
  - [Gozney Tread Pizza Oven Review: Gorgeous and Compact](https://www.wired.com/review/gozney-tread-pizza-oven/)
  - [IFPI: global music streaming revenues hit a record $20.4B in 2024, driven by paid subscription revenues of $15.15B, up 9.5% YoY; paid subscribers reached 752M &lpar;Murray Stassen/Music Business Worldwide&rpar;](http://www.techmeme.com/250323/p9#a250323p9)
  - [The Apple Watch may get cameras and Apple Intelligence](https://www.theverge.com/news/634395/apple-watch-apple-intelligence-cameras)
- - [Sources: Apple plans to build its own AI models for Visual Intelligence and add cameras to the Watch; the redesigned plastic Apple Watch SE faces serious issues &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250323/p8#a250323p8)
- - [Apple Watch could gain cameras to improve AI features](https://appleinsider.com/articles/25/03/23/apple-watch-could-gain-cameras-to-improve-ai-features?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Apple plans to build its own AI models for Visual Intelligence and add cameras to the Watch; the redesigned plastic Apple Watch SE faces serious issues &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250323/p8#a250323p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

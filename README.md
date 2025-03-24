@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony’s WH-1000XM5 wireless headphones are now available for $150 less](https://www.theverge.com/tech/634691/sony-headphones-oura-razer-deal-sale)
+ - [X’s head of engineering is out](https://www.theverge.com/twitter/634833/x-head-engineering-leaves-elon-musk)
+ - [Berlin-based workflow automation startup n8n raised a €55M Series B, sources say on a valuation of ~€250M, and says it has 3K+ enterprise customers &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250324/p19#a250324p19)
+ - [Sony’s noise-canceling WH-1000XM5 headphones are on sale for $150 off](https://www.theverge.com/tech/634691/sony-headphones-oura-razer-deal-sale)
  - [Blowout deal: Grab Apple&#39;s M3 MacBook Air with 16GB RAM for record low $799](https://appleinsider.com/articles/25/03/24/blowout-deal-grab-apples-m3-macbook-air-with-16gb-ram-for-record-low-799?utm_medium=rss)
- - [Massachusetts&#39; top securities regulator probes Robinhood&#39;s decision to launch a prediction markets hub, after sending the company a subpoena last week &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/250324/p18#a250324p18)
- - [iOS 18.4 RC Is Out: Your iPhone Could Get New Emoji and More Soon](https://www.cnet.com/tech/services-and-software/ios-18-4-rc-is-out-your-iphone-could-get-new-emoji-and-more-soon/#ftag=CAD590a51e)
- - [In a Shaky Economy, CDs Provide Security. Today&#39;s CD Rates, March 24, 2025](https://www.cnet.com/personal-finance/banking/in-a-shaky-economy-cds-provide-security-todays-cd-rates-march-24-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Massachusetts&#39; top securities regulator probes Robinhood&#39;s decision to launch a prediction markets hub, after sending the company a subpoena last week &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/250324/p18#a250324p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

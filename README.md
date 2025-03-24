@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump officials planned a military strike over Signal – with a magazine editor on the line](https://www.theverge.com/news/635042/the-atlantic-pete-hegseth-houthi-signal-group-chat)
+ - [Alleged Snowflake hacker agrees to be extradited to the US](https://www.theverge.com/news/635044/conner-moucka-snowflake-breach-us-extradition)
  - [Trump’s plans to save TikTok may fail to keep it online, Democrats warn](https://www.theverge.com/news/635019/tiktok-ban-deadline-extension-trump-markey-van-hollen-booker)
  - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
- - [Meta Quest might add single window screensharing in VR soon](https://www.theverge.com/news/635022/meta-quest-v76-code-share-screen-2d-window-vr-home)
- - [China published new rules last Friday banning the use of facial recognition without consent in private spaces like hotel rooms &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/250324/p23#a250324p23)
- - [How to Delete Your Data From 23andMe](https://www.wired.com/story/how-to-delete-your-data-from-23andme/)<!-- TECH:END -->
+ - [Meta Quest might add single window screensharing in VR soon](https://www.theverge.com/news/635022/meta-quest-v76-code-share-screen-2d-window-vr-home)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

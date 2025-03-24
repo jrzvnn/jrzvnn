@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Apple finally brings lossless audio and low-latency audio to AirPods Max](https://appleinsider.com/articles/25/03/24/apple-finally-brings-lossless-audio-and-low-latency-audio-to-airpods-max?utm_medium=rss)
  - [Apple says the AirPods Max will get 24-bit, 48 kHz lossless audio, including Personalized Spatial Audio, and ultra‑low latency in April via a software update &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/250324/p11#a250324p11)
  - [Apple’s AirPods Max with USB-C will soon support lossless audio](https://www.theverge.com/news/634506/apple-airpods-max-lossless-audio-low-latency-usb-c)
- - [Aviron Strong Rower Review: Get Gaming to Get Going](https://www.wired.com/review/aviron-strong-rower/)
- - [GoPro’s anamorphic lens is fun, fuss-free, and now available to buy](https://www.theverge.com/news/634504/gopro-hero-13-black-anamorphic-lens-availability)<!-- TECH:END -->
+ - [Gen AI&#39;s Accuracy Problems Aren&#39;t Going Away Anytime Soon, Researchers Say](https://www.cnet.com/tech/services-and-software/gen-ais-accuracy-problems-arent-going-away-anytime-soon-researchers-say/#ftag=CAD590a51e)
+ - [Aviron Strong Rower Review: Get Gaming to Get Going](https://www.wired.com/review/aviron-strong-rower/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

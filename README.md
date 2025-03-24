@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to delete your 23andMe data](https://www.theverge.com/news/634680/23andme-genetic-data-account-deletion-how-to)
  - [Google Drive for Windows on Arm PCs is now widely available](https://www.theverge.com/news/634704/google-drive-windows-on-arm-launch)
  - [Aura digital photo frames will continue to auto-sync with Google Photos after all](https://www.theverge.com/tech/634673/google-photos-aura-digital-photo-frame-auto-sync-fix)
  - [Minecraft is getting vibrant with its visuals](https://www.theverge.com/news/634690/minecraft-vibrant-visuals-update-minecraft-live)
- - [Microsoft announces security AI agents to help overwhelmed humans](https://www.theverge.com/news/634598/microsoft-security-copilot-ai-agents)
- - [Apple’s The Studio spins Hollywood chaos into comedic gold](https://www.theverge.com/tv-reviews/627183/the-studio-review-seth-rogen-apple)<!-- TECH:END -->
+ - [Microsoft announces security AI agents to help overwhelmed humans](https://www.theverge.com/news/634598/microsoft-security-copilot-ai-agents)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Chaos of NIH Cuts Has Left Early-Career Scientists Scrambling](https://www.wired.com/story/the-chaos-of-nih-cuts-has-left-early-career-scientists-scrambling/)
  - [Google confirms a &quot;technical issue&quot; on Google Maps &quot;that caused the deletion of Timeline data for some people&quot;, but says those with backups can restore the data &lpar;Hadlee Simons/Android Authority&rpar;](http://www.techmeme.com/250324/p8#a250324p8)
+ - [You Can Change the Default Apps on Your iPhone. Here&#39;s How](https://www.cnet.com/tech/services-and-software/you-can-change-the-default-apps-on-your-iphone-heres-how/#ftag=CAD590a51e)
  - [The Weight of the Internet Will Shock You](https://www.wired.com/story/story/weight-of-the-internet/)
- - [How Software Engineers Actually Use AI](https://www.wired.com/story/how-software-engineers-coders-actually-use-ai/)
- - [Quantum Computing Is Dead. Long Live Quantum Computing!](https://www.wired.com/story/quantum-computing-is-dead-alive/)
- - [The Quantum Apocalypse Is Coming. Be Very Afraid](https://www.wired.com/story/q-day-apocalypse-quantum-computers-encryption/)<!-- TECH:END -->
+ - [How Software Engineers Actually Use AI](https://www.wired.com/story/how-software-engineers-coders-actually-use-ai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

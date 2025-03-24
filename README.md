@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Aviron Strong Rower Review: Get Gaming to Get Going](https://www.wired.com/review/aviron-strong-rower/)
+ - [GoPro’s anamorphic lens is fun, fuss-free, and now available to buy](https://www.theverge.com/news/634504/gopro-hero-13-black-anamorphic-lens-availability)
  - [14 Best Carry-On Luggage &lpar;2024&rpar;: Away, Travelpro, and More](https://www.wired.com/gallery/best-carry-on-luggage/)
  - [Odd Apple Maps bug showing users random airport baggage claim spots](https://appleinsider.com/articles/25/03/24/odd-apple-maps-bug-showing-users-random-airport-baggage-claim-spots?utm_medium=rss)
- - [How to Buy the Best Keycaps for Your Mechanical Keyboard &lpar;2025&rpar;](https://www.wired.com/story/how-to-buy-keycaps-for-your-mechanical-keyboard/)
- - [Space Heater Safety Tips: How Not to Set a Fire](https://www.wired.com/story/space-heater-safety-tips/)
- - [CB Insights: Q1 2025 had 11 startup sales worth $1B+ or more, totaling a record $54.5B, up from two acquisitions worth $1B+ in Q1 2024, totaling $3.2B &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250324/p10#a250324p10)<!-- TECH:END -->
+ - [Red Dye No. 3 Was Banned. Here Are 9 Foods That Still Use It](https://www.cnet.com/health/red-dye-no-3-was-banned-here-are-9-foods-that-still-use-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

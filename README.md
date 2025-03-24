@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [31 year old Indiana teacher accused of r*ping her students including an instance where she forced 3 underaged boys to have s*x with her while wearing Scream masks.](http://9gag.com/gag/apR62pE)
- - 😝 [Samuel Benner, a farmer from the 1800s, published a book with market analysis on periods of panic, good times to buy, and good times to sell. 150 years later, his analysis has proven to be remarkably accurate.](http://9gag.com/gag/aryXGR6)
- - 💣 [Removing a wasp nest with gasoline.](http://9gag.com/gag/aO8ZYg2)
+ - 😝 [They made the kid wash his hands before this staged ass pic](http://9gag.com/gag/aD28jex)
+ - 😝 [My people&#39;s tradition](http://9gag.com/gag/aKGvdj6)
+ - 💣 [\u201cI got slapped for nothing!\u201d](http://9gag.com/gag/aGyBgVG)
  - 😝 [I can fix her](http://9gag.com/gag/a6Z5Nom)
- - 👉 [Built like a pixar mom](http://9gag.com/gag/a4PNQVw)<!-- MEMES:END -->
+ - 👉 [A happy misunderstanding](http://9gag.com/gag/aLn483V)<!-- MEMES:END -->
 
 ---
 

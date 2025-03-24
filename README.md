@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Space Heater Safety Tips: How Not to Set a Fire](https://www.wired.com/story/space-heater-safety-tips/)
+ - [CB Insights: Q1 2025 had 11 startup sales worth $1B+ or more, totaling a record $54.5B, up from two acquisitions worth $1B+ in Q1 2024, totaling $3.2B &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250324/p10#a250324p10)
  - [Teacher training in rural China boosted by Apple donations](https://appleinsider.com/articles/25/03/24/teacher-training-in-rural-china-boosted-by-apple-donations?utm_medium=rss)
  - [A survey of 730 software engineers: 75% have tried AI, 35.6% are AI optimists and 38.4% pessimists, freelance coders use AI more, 50% pay for AI tools, and more &lpar;Wired&rpar;](http://www.techmeme.com/250324/p9#a250324p9)
- - [Apple adds $99 million to its China Clean Energy Fund](https://appleinsider.com/articles/25/03/24/apple-adds-99-million-to-its-china-clean-energy-fund?utm_medium=rss)
- - [The Chaos of NIH Cuts Has Left Early-Career Scientists Scrambling](https://www.wired.com/story/the-chaos-of-nih-cuts-has-left-early-career-scientists-scrambling/)
- - [Google confirms a &quot;technical issue&quot; on Google Maps &quot;that caused the deletion of Timeline data for some people&quot;, but says those with backups can restore the data &lpar;Hadlee Simons/Android Authority&rpar;](http://www.techmeme.com/250324/p8#a250324p8)<!-- TECH:END -->
+ - [Apple adds $99 million to its China Clean Energy Fund](https://appleinsider.com/articles/25/03/24/apple-adds-99-million-to-its-china-clean-energy-fund?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Retail investors often bear the brunt of losses in the Solana blockchain&#39;s memecoin market, which is plagued by insider trading, rug pulls, and &quot;sniping&quot; &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/250323/p15#a250323p15)
  - [Google is rolling out new real-time AI video features, including the ability to &quot;see&quot; screens and camera feeds, for Gemini Advanced subscribers &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250323/p14#a250323p14)
  - [Google is rolling out Gemini’s real-time AI video features](https://www.theverge.com/news/634480/google-gemini-live-video-screen-sharing-astra-features-rolling-out)
  - [Research shows a surge in the popularity of deepfake porn services, with the 10 most popular &quot;nudifying&quot; websites receiving 18M views in January 2025 alone &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/250323/p13#a250323p13)
- - [Today&#39;s Wordle Hints, Answer and Help for March 24, #1374](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-24-1374/#ftag=CAD590a51e)
- - [How one of the world&#39;s major money laundering networks, linked to Cambodia&#39;s Huione Group, services online scammers using cryptocurrency, Telegram, and more &lpar;New York Times&rpar;](http://www.techmeme.com/250323/p12#a250323p12)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for March 24, #1374](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-24-1374/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

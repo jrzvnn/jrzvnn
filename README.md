@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Sources say that 11x, an AI-powered sales automation startup backed by a16z and Benchmark, has been misrepresenting its customer base and financial performance &lpar;TechCrunch&rpar;](http://www.techmeme.com/250324/p29#a250324p29)
  - [Sources: quantum computing startup PsiQuantum is raising at least $750M led by BlackRock at a $6B pre-money valuation &lpar;Reuters&rpar;](http://www.techmeme.com/250324/p28#a250324p28)
  - [Sources: Onavo co-founder Roi Tiger is closing a $55M Series A led by Greenoaks for his stealth cybersecurity startup at a valuation in the hundreds of millions &lpar;Ben Bergman/Business Insider&rpar;](http://www.techmeme.com/250324/p27#a250324p27)
- - [The FBI launched a task force to investigate Tesla attacks](https://www.theverge.com/news/635091/fbi-tesla-task-force-terrorism)
- - [Researchers say a Next.js flaw that existed for several years could&#39;ve allowed hackers to bypass middleware-based authentication; Vercel patched it on March 18 &lpar;Matt Kapko/CyberScoop&rpar;](http://www.techmeme.com/250324/p26#a250324p26)<!-- TECH:END -->
+ - [Your Next Laptop Is $300 off Thanks to Amazon’s Spring Sale Savings on This Microsoft Surface Pro](https://www.cnet.com/tech/this-incredible-amazon-spring-sale-deal-lets-you-save-over-300-on-microsofts-surface-pro-13/#ftag=CAD590a51e)
+ - [The FBI launched a task force to investigate Tesla attacks](https://www.theverge.com/news/635091/fbi-tesla-task-force-terrorism)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

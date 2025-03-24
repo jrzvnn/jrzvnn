@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI expands COO Brad Lightcap&#39;s responsibilities, including over global expansion and corporate partnerships; Sam Altman will focus on research and product &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250324/p17#a250324p17)
+ - [Leadership updates — OpenAI has grown a lot.  We remain focused on the same core ... &lpar;OpenAI&rpar;](http://www.techmeme.com/250324/p16#a250324p16)
+ - [Apple seeds release candidates for iOS 18.4, macOS 15.4](https://appleinsider.com/articles/25/03/24/apple-seeds-release-candidates-for-ios-184-macos-154?utm_medium=rss)
  - [Microsoft unveils 11 Security Copilot AI agents, five created by partners, that do things like triage phishing and data loss alerts, coming to preview in April &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250324/p15#a250324p15)
- - [How to delete your 23andMe data](https://www.theverge.com/news/634680/23andme-genetic-data-account-deletion-how-to)
- - [How Do You Pronounce Nvidia, Huawei, Bezos and Other Tech Terms?](https://www.cnet.com/tech/how-to-pronounce-nvidia-huawei-bezos-and-other-tech-terms/#ftag=CAD590a51e)
- - [Google Drive for Windows on Arm PCs is now widely available](https://www.theverge.com/news/634704/google-drive-windows-on-arm-launch)
- - [Aura digital photo frames will continue to auto-sync with Google Photos after all](https://www.theverge.com/tech/634673/google-photos-aura-digital-photo-frame-auto-sync-fix)<!-- TECH:END -->
+ - [How to delete your 23andMe data](https://www.theverge.com/news/634680/23andme-genetic-data-account-deletion-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

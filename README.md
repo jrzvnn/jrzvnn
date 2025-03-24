@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the Internet Archive, which sees ~100TB of material uploaded daily and had cataloged ~73K US government website pages that the Trump admin expunged &lpar;Emma Bowman/NPR&rpar;](http://www.techmeme.com/250324/p1#a250324p1)
+ - [A look at the Internet Archive, which sees ~100TB of material uploaded daily and has cataloged ~73K US government website pages that the Trump admin expunged &lpar;Emma Bowman/NPR&rpar;](http://www.techmeme.com/250324/p1#a250324p1)
  - [The daily amount of ETH burned on Ethereum due to transaction fees hit an all-time low on March 22, amid dips in other network metrics like active addresses &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/250323/p16#a250323p16)
  - [Retail investors often bear the brunt of losses in the Solana blockchain&#39;s memecoin market, which is plagued by insider trading, rug pulls, and &quot;sniping&quot; &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/250323/p15#a250323p15)
  - [Google is rolling out new real-time AI video features, including the ability to &quot;see&quot; screens and camera feeds, for Gemini Advanced subscribers &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250323/p14#a250323p14)

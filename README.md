@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F**k tech](http://9gag.com/gag/azxK9EK)
- - 😝 [Apparently his life was so extraordinary the team that documented his life gave him a proper burial](http://9gag.com/gag/ayN6XXM)
- - 💣 [Flashback](http://9gag.com/gag/a5QwMWE)
- - 😝 [They didn&#39;t even spare the damn bird](http://9gag.com/gag/aAyKxqg)
- - 👉 [What&#39;s the most painful breakup message you have received?](http://9gag.com/gag/aqy6gGR)<!-- MEMES:END -->
+ - 😝 [Then why exactly are you here my fair lady?](http://9gag.com/gag/aryXgd0)
+ - 😝 [My people&#39;s tradition](http://9gag.com/gag/aKGvdj6)
+ - 💣 [A happy misunderstanding](http://9gag.com/gag/aLn483V)
+ - 😝 [Removing a wasp nest with gasoline.](http://9gag.com/gag/aO8ZYg2)
+ - 👉 [Samuel Benner, a farmer from the 1800s, published a book with market analysis on periods of panic, good times to buy, and good times to sell. 150 years later, his analysis has proven to be remarkably accurate.](http://9gag.com/gag/aryXGR6)<!-- MEMES:END -->
 
 ---
 

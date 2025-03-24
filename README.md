@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A man of dedication and sheer will](http://9gag.com/gag/amo62Vd)
- - 😝 [He&#39;s a right dog](http://9gag.com/gag/avy6OvM)
+ - 😝 [They fired her a year ago btw](http://9gag.com/gag/aqy6LOv)
+ - 😝 [Chipotle manager fired due to online outrage mob](http://9gag.com/gag/aoyR10X)
  - 💣 [Never thought about.](http://9gag.com/gag/a0e05Md)
- - 😝 [Metro Statue](http://9gag.com/gag/aO8Zz4v)
- - 👉 [They fired her a year ago btw](http://9gag.com/gag/aqy6LOv)<!-- MEMES:END -->
+ - 😝 [Demineralized water?](http://9gag.com/gag/aXPVx96)
+ - 👉 [A happy misunderstanding](http://9gag.com/gag/aLn483V)<!-- MEMES:END -->
 
 ---
 

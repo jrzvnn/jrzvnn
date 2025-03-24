@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [They fired her a year ago btw](http://9gag.com/gag/aqy6LOv)
- - 😝 [Chipotle manager fired due to online outrage mob](http://9gag.com/gag/aoyR10X)
- - 💣 [Never thought about.](http://9gag.com/gag/a0e05Md)
- - 😝 [Demineralized water?](http://9gag.com/gag/aXPVx96)
- - 👉 [A happy misunderstanding](http://9gag.com/gag/aLn483V)<!-- MEMES:END -->
+ - 😝 [Still on payroll?](http://9gag.com/gag/ayN6x8Y)
+ - 💣 [A happy misunderstanding](http://9gag.com/gag/aLn483V)
+ - 😝 [Fun fact](http://9gag.com/gag/avy6G3n)
+ - 👉 [So, who gets it?](http://9gag.com/gag/a4PNGKm)<!-- MEMES:END -->
 
 ---
 

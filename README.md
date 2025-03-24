@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FBI launched a task force to investigate Tesla attacks](https://www.theverge.com/news/635091/fbi-tesla-task-force-terrorism)
  - [Researchers say a Next.js flaw that existed for several years could&#39;ve allowed hackers to bypass middleware-based authentication; Vercel patched it on March 18 &lpar;Matt Kapko/CyberScoop&rpar;](http://www.techmeme.com/250324/p26#a250324p26)
  - [Trump Media signs a non-binding agreement with Crypto.com to launch ETFs under its Truth.Fi brand later this year, comprising digital assets and securities &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/250324/p25#a250324p25)
  - [eToro files for an IPO, with plans to list on the Nasdaq, and reports 2024 revenue of $12.6B, about 96% of which was from cryptoassets, and net income of $192M &lpar;Matthew Griffin/Bloomberg&rpar;](http://www.techmeme.com/250324/p24#a250324p24)
- - [Trump officials planned a military strike over Signal – with a magazine editor on the line](https://www.theverge.com/news/635042/the-atlantic-pete-hegseth-houthi-signal-group-chat)
- - [Alleged Snowflake hacker agrees to be extradited to the US](https://www.theverge.com/news/635044/conner-moucka-snowflake-breach-us-extradition)<!-- TECH:END -->
+ - [Trump officials planned a military strike over Signal – with a magazine editor on the line](https://www.theverge.com/news/635042/the-atlantic-pete-hegseth-houthi-signal-group-chat)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

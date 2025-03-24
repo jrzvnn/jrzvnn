@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How easy it\u2019s to copy keys](http://9gag.com/gag/aMVPjLV)
- - 😝 [He&#39;s a right dog](http://9gag.com/gag/avy6OvM)
- - 💣 [They didn&#39;t even spare the damn bird](http://9gag.com/gag/aAyKxqg)
- - 😝 [That was awesome](http://9gag.com/gag/amo6742)
+ - 😝 [Well, That Was Unexpected](http://9gag.com/gag/aQz735q)
+ - 😝 [It can even go lower!](http://9gag.com/gag/aGyBZwz)
+ - 💣 [So, who gets it?](http://9gag.com/gag/a4PNGKm)
+ - 😝 [Still on payroll?](http://9gag.com/gag/ayN6x8Y)
  - 👉 [A happy misunderstanding](http://9gag.com/gag/aLn483V)<!-- MEMES:END -->
 
 ---

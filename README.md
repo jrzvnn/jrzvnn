@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You’ll soon be able to hear Apple Watch alarms even in silent mode](https://www.theverge.com/news/634962/apple-watch-watchos-silent-mode-wake-up-alarm)
- - [Don’t Sleep on These 29% Discounts on Siena Mattresses at Amazon Right Now](https://www.cnet.com/tech/dont-sleep-on-these-29-discounts-on-siena-mattresses-at-amazon-right-now/#ftag=CAD590a51e)
- - [Best Live TV Streaming Services for 2025](https://www.cnet.com/tech/services-and-software/best-live-tv-streaming-service-for-cord-cutters/#ftag=CAD590a51e)
- - [A look at lobbying efforts by AI companies since Trump&#39;s return; hundreds submitted comments after a second AI-related EO, which called for pro-growth AI policy &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/250324/p22#a250324p22)
- - [Here are the best deals you can already grab from Amazon’s spring sales event](https://www.theverge.com/tech/632597/amazon-big-spring-sale-2025-prime-day-deals)<!-- TECH:END -->
+ - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
+ - [Meta Quest might add single window screensharing in VR soon](https://www.theverge.com/news/635022/meta-quest-v76-code-share-screen-2d-window-vr-home)
+ - [China published new rules last Friday banning the use of facial recognition without consent in private spaces like hotel rooms &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/250324/p23#a250324p23)
+ - [How to Delete Your Data From 23andMe](https://www.wired.com/story/how-to-delete-your-data-from-23andme/)
+ - [You’ll soon be able to hear Apple Watch alarms even in silent mode](https://www.theverge.com/news/634962/apple-watch-watchos-silent-mode-wake-up-alarm)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

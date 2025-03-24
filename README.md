@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I\u2019m sure I\u2019ve posted this before, or something similar, but it\u2019s always worth a repost](http://9gag.com/gag/aD28xL9)
+ - 😝 [Well...Duh!](http://9gag.com/gag/aO8ZYmy)
  - 😝 [F**k tech](http://9gag.com/gag/azxK9EK)
  - 💣 [Understandable, have a nice day](http://9gag.com/gag/aVvKYKw)
  - 😝 [Apparently his life was so extraordinary the team that documented his life gave him a proper burial](http://9gag.com/gag/ayN6XXM)

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They didn&#39;t even spare the damn bird](http://9gag.com/gag/aAyKxqg)
- - 😝 [Meanwhile on Indian TV show](http://9gag.com/gag/azxKqyB)
- - 💣 [He&#39;s a right dog](http://9gag.com/gag/avy6OvM)
- - 😝 [31 year old Indiana teacher accused of r*ping her students including an instance where she forced 3 underaged boys to have s*x with her while wearing Scream masks.](http://9gag.com/gag/apR62pE)
- - 👉 [Demineralized water?](http://9gag.com/gag/aXPVx96)<!-- MEMES:END -->
+ - 😝 [Now, blow the candles!](http://9gag.com/gag/a7o0MMb)
+ - 😝 [F**k tech](http://9gag.com/gag/azxK9EK)
+ - 💣 [Apparently his life was so extraordinary the team that documented his life gave him a proper burial](http://9gag.com/gag/ayN6XXM)
+ - 😝 [Flashback](http://9gag.com/gag/a5QwMWE)
+ - 👉 [They didn&#39;t even spare the damn bird](http://9gag.com/gag/aAyKxqg)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Samuel Benner, a farmer from the 1800s, published a book with market analysis on periods of panic, good times to buy, and good times to sell. 150 years later, his analysis has proven to be remarkably accurate.](http://9gag.com/gag/aryXGR6)
- - 😝 [All this just for a moment? Was it worth it?](http://9gag.com/gag/aE0AgPG)
- - 💣 [A happy misunderstanding](http://9gag.com/gag/aLn483V)
+ - 😝 [Demineralized water?](http://9gag.com/gag/aXPVx96)
+ - 😝 [A happy misunderstanding](http://9gag.com/gag/aLn483V)
+ - 💣 [\u201cI got slapped for nothing!\u201d](http://9gag.com/gag/aGyBgVG)
  - 😝 [My people&#39;s tradition](http://9gag.com/gag/aKGvdj6)
- - 👉 [\u201cI got slapped for nothing!\u201d](http://9gag.com/gag/aGyBgVG)<!-- MEMES:END -->
+ - 👉 [Removing a wasp nest with gasoline.](http://9gag.com/gag/aO8ZYg2)<!-- MEMES:END -->
 
 ---
 

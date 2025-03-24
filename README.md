@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That was awesome](http://9gag.com/gag/amo6742)
  - 😝 [31 year old Indiana teacher accused of r*ping her students including an instance where she forced 3 underaged boys to have s*x with her while wearing Scream masks.](http://9gag.com/gag/apR62pE)
- - 💣 [Built like a pixar mom](http://9gag.com/gag/a4PNQVw)
+ - 😝 [Samuel Benner, a farmer from the 1800s, published a book with market analysis on periods of panic, good times to buy, and good times to sell. 150 years later, his analysis has proven to be remarkably accurate.](http://9gag.com/gag/aryXGR6)
+ - 💣 [Removing a wasp nest with gasoline.](http://9gag.com/gag/aO8ZYg2)
  - 😝 [I can fix her](http://9gag.com/gag/a6Z5Nom)
- - 👉 [I watched The Miniaturist for the plot](http://9gag.com/gag/aW4nEE6)<!-- MEMES:END -->
+ - 👉 [Built like a pixar mom](http://9gag.com/gag/a4PNQVw)<!-- MEMES:END -->
 
 ---
 

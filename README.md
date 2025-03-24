@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They didn&#39;t even spare the damn bird](http://9gag.com/gag/aAyKxqg)
- - 😝 [________O__o_________](http://9gag.com/gag/awy1A51)
- - 💣 [It can even go lower!](http://9gag.com/gag/aGyBZwz)
- - 😝 [Who else did this as a kid?](http://9gag.com/gag/aNDQYAG)
- - 👉 [Forget about her. Give it to me](http://9gag.com/gag/azxK1xm)<!-- MEMES:END -->
+ - 😝 [Coach yanked player\u2019s ponytail after they lost the game](http://9gag.com/gag/aW4nYA4)
+ - 😝 [All this just for a moment? Was it worth it?](http://9gag.com/gag/aE0AgPG)
+ - 💣 [So, who gets it?](http://9gag.com/gag/a4PNGKm)
+ - 😝 [Demineralized water?](http://9gag.com/gag/aXPVx96)
+ - 👉 [Then why exactly are you here my fair lady?](http://9gag.com/gag/aryXgd0)<!-- MEMES:END -->
 
 ---
 

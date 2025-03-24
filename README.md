@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro&#39;s about to begin his Gym Arc.....](http://9gag.com/gag/a9y5p71)
- - 😝 [I can&#39;t wait for ozempic to cause sudden heart attacks and clean up all the hypocrites](http://9gag.com/gag/amo6BEj)
- - 💣 [Samuel Benner, a farmer from the 1800s, published a book with market analysis on periods of panic, good times to buy, and good times to sell. 150 years later, his analysis has proven to be remarkably accurate.](http://9gag.com/gag/aryXGR6)
- - 😝 [Zinc Spark - The Spark of life](http://9gag.com/gag/a6Z5N12)
- - 👉 [Demineralized water?](http://9gag.com/gag/aXPVx96)<!-- MEMES:END -->
+ - 😝 [Samuel Benner, a farmer from the 1800s, published a book with market analysis on periods of panic, good times to buy, and good times to sell. 150 years later, his analysis has proven to be remarkably accurate.](http://9gag.com/gag/aryXGR6)
+ - 😝 [31 year old Indiana teacher accused of r*ping her students including an instance where she forced 3 underaged boys to have s*x with her while wearing Scream masks.](http://9gag.com/gag/apR62pE)
+ - 💣 [Bro&#39;s about to begin his Gym Arc.....](http://9gag.com/gag/a9y5p71)
+ - 😝 [What is going on here?](http://9gag.com/gag/a4PNRQv)
+ - 👉 [That was awesome](http://9gag.com/gag/amo6742)<!-- MEMES:END -->
 
 ---
 

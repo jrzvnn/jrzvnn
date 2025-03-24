@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DeepSeek releases MIT-licensed DeepSeek-V3-0324, the latest version of their enormous DeepSeek v3 model; the previous DeepSeek v3 version had a custom license &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250324/p14#a250324p14)
  - [Indiana Jones and the Great Circle arrives on PS5 in April](https://www.theverge.com/news/610817/indiana-jones-and-the-great-circle-ps5-release-date)
  - [Amazon slashes Apple Watch styles to as low as $169 &lpar;save up to $100&rpar;](https://appleinsider.com/articles/25/03/24/amazon-slashes-apple-watch-styles-to-as-low-as-169-save-up-to-100?utm_medium=rss)
  - [Rivian now has a bedroom to go with its kitchen](https://www.theverge.com/news/634607/rivian-camping-skycamp-mini-ikamper-tent)
- - [Q&amp;A with Splice CEO Kakul Srivastava on the music creation platform, the economics of creator platforms, why creatives &quot;deserve better&quot; than AI tools, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250324/p13#a250324p13)
- - [Best Running Shorts, Tested and Reviewed &lpar;2025&rpar;: Nike, Asics](https://www.wired.com/gallery/best-running-shorts/)<!-- TECH:END -->
+ - [Q&amp;A with Splice CEO Kakul Srivastava on the music creation platform, the economics of creator platforms, why creatives &quot;deserve better&quot; than AI tools, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250324/p13#a250324p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

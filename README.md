@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: Haofei Wang, X&#39;s director of engineering who joined the company in July 2023, has left the company &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/250324/p20#a250324p20)
- - [X’s head of engineering is out](https://www.theverge.com/twitter/634833/x-head-engineering-leaves-elon-musk)
- - [Best Internet Providers in Tulsa, Oklahoma](https://www.cnet.com/home/internet/best-internet-providers-in-tulsa-ok/#ftag=CAD590a51e)
  - [Berlin-based workflow automation startup n8n raised a €55M Series B, sources say on a valuation of ~€250M, and says it has 3K+ enterprise customers &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250324/p19#a250324p19)
- - [Best Internet Providers in San Diego, California](https://www.cnet.com/home/internet/best-internet-providers-in-san-diego-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sony’s WH-1000XM5 wireless headphones are now available for $150 less](https://www.theverge.com/tech/634691/sony-headphones-oura-razer-deal-sale)
+ - [Blowout deal: Grab Apple&#39;s M3 MacBook Air with 16GB RAM for record low $799](https://appleinsider.com/articles/25/03/24/blowout-deal-grab-apples-m3-macbook-air-with-16gb-ram-for-record-low-799?utm_medium=rss)
+ - [Massachusetts&#39; top securities regulator probes Robinhood&#39;s decision to launch a prediction markets hub, after sending the company a subpoena last week &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/250324/p18#a250324p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A man of dedication and sheer will](http://9gag.com/gag/amo62Vd)
+ - 😝 [Then why exactly are you here my fair lady?](http://9gag.com/gag/aryXgd0)
  - 😝 [Meanwhile on Indian TV show](http://9gag.com/gag/azxKqyB)
- - 💣 [Then why exactly are you here my fair lady?](http://9gag.com/gag/aryXgd0)
- - 😝 [A happy misunderstanding](http://9gag.com/gag/aLn483V)
- - 👉 [Finland as a country do not exist !](http://9gag.com/gag/a5QwrLV)<!-- MEMES:END -->
+ - 💣 [Finland as a country do not exist !](http://9gag.com/gag/a5QwrLV)
+ - 😝 [Demineralized water?](http://9gag.com/gag/aXPVx96)
+ - 👉 [A happy misunderstanding](http://9gag.com/gag/aLn483V)<!-- MEMES:END -->
 
 ---
 

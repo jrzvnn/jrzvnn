@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I watched The Miniaturist for the plot](http://9gag.com/gag/aW4nEE6)
- - 😝 [Demineralized water?](http://9gag.com/gag/aXPVx96)
- - 💣 [Then why exactly are you here my fair lady?](http://9gag.com/gag/aryXgd0)
  - 😝 [Coach yanked player\u2019s ponytail after they lost the game](http://9gag.com/gag/aW4nYA4)
- - 👉 [Removing a wasp nest with gasoline.](http://9gag.com/gag/aO8ZYg2)<!-- MEMES:END -->
+ - 😝 [Still on payroll?](http://9gag.com/gag/ayN6x8Y)
+ - 💣 [I watched The Miniaturist for the plot](http://9gag.com/gag/aW4nEE6)
+ - 😝 [That was awesome](http://9gag.com/gag/amo6742)
+ - 👉 [No one reads titles.](http://9gag.com/gag/avy6z2X)<!-- MEMES:END -->
 
 ---
 

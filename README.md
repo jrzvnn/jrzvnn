@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Haofei Wang, X&#39;s director of engineering who joined the company in July 2023, has left the company &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/250324/p20#a250324p20)
- - [Berlin-based workflow automation startup n8n raised a €55M Series B, sources say on a valuation of ~€250M, and says it has 3K+ enterprise customers &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250324/p19#a250324p19)
- - [Sony’s WH-1000XM5 wireless headphones are now available for $150 less](https://www.theverge.com/tech/634691/sony-headphones-oura-razer-deal-sale)
- - [Blowout deal: Grab Apple&#39;s M3 MacBook Air with 16GB RAM for record low $799](https://appleinsider.com/articles/25/03/24/blowout-deal-grab-apples-m3-macbook-air-with-16gb-ram-for-record-low-799?utm_medium=rss)
- - [Massachusetts&#39; top securities regulator probes Robinhood&#39;s decision to launch a prediction markets hub, after sending the company a subpoena last week &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/250324/p18#a250324p18)<!-- TECH:END -->
+ - [Here are the best deals you can already grab from Amazon’s spring sales event](https://www.theverge.com/tech/632597/amazon-big-spring-sale-2025-prime-day-deals)
+ - [Arcade, a gen-AI marketplace for designing jewelry, raised a $25M Series A led by Canaan Partners, bringing total funding to $42M, and expands to home goods &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250324/p21#a250324p21)
+ - [Ugreen x Genshin Impact charger review: A neat iPhone charging crossover for gamers](https://appleinsider.com/articles/25/03/24/ugreen-x-genshin-impact-charger-review-a-neat-iphone-charging-crossover-for-gamers?utm_medium=rss)
+ - [Apple’s iOS 18.4 update with AI-powered Priority Notifications is almost here](https://www.theverge.com/news/634920/apple-ios-18-4-priority-notifications-release-candidate)
+ - [Sources: Haofei Wang, X&#39;s director of engineering who joined the company in July 2023, has left the company &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/250324/p20#a250324p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

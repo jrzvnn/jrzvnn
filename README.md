@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well...Duh!](http://9gag.com/gag/aO8ZYmy)
- - 😝 [F**k tech](http://9gag.com/gag/azxK9EK)
- - 💣 [Understandable, have a nice day](http://9gag.com/gag/aVvKYKw)
- - 😝 [Apparently his life was so extraordinary the team that documented his life gave him a proper burial](http://9gag.com/gag/ayN6XXM)
- - 👉 [Flashback](http://9gag.com/gag/a5QwMWE)<!-- MEMES:END -->
+ - 😝 [A man of dedication and sheer will](http://9gag.com/gag/amo62Vd)
+ - 😝 [Meanwhile on Indian TV show](http://9gag.com/gag/azxKqyB)
+ - 💣 [Then why exactly are you here my fair lady?](http://9gag.com/gag/aryXgd0)
+ - 😝 [A happy misunderstanding](http://9gag.com/gag/aLn483V)
+ - 👉 [Finland as a country do not exist !](http://9gag.com/gag/a5QwrLV)<!-- MEMES:END -->
 
 ---
 

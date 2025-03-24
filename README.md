@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A happy misunderstanding](http://9gag.com/gag/aLn483V)
  - 😝 [Well, That Was Unexpected](http://9gag.com/gag/aQz735q)
- - 💣 [Meanwhile on Indian TV show](http://9gag.com/gag/azxKqyB)
  - 😝 [He&#39;s a right dog](http://9gag.com/gag/avy6OvM)
- - 👉 [Then why exactly are you here my fair lady?](http://9gag.com/gag/aryXgd0)<!-- MEMES:END -->
+ - 💣 [Meanwhile on Indian TV show](http://9gag.com/gag/azxKqyB)
+ - 😝 [A happy misunderstanding](http://9gag.com/gag/aLn483V)
+ - 👉 [31 year old Indiana teacher accused of r*ping her students including an instance where she forced 3 underaged boys to have s*x with her while wearing Scream masks.](http://9gag.com/gag/apR62pE)<!-- MEMES:END -->
 
 ---
 

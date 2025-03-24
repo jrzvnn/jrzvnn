@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Then why exactly are you here my fair lady?](http://9gag.com/gag/aryXgd0)
- - 😝 [My people&#39;s tradition](http://9gag.com/gag/aKGvdj6)
- - 💣 [A happy misunderstanding](http://9gag.com/gag/aLn483V)
- - 😝 [Removing a wasp nest with gasoline.](http://9gag.com/gag/aO8ZYg2)
- - 👉 [Samuel Benner, a farmer from the 1800s, published a book with market analysis on periods of panic, good times to buy, and good times to sell. 150 years later, his analysis has proven to be remarkably accurate.](http://9gag.com/gag/aryXGR6)<!-- MEMES:END -->
+ - 😝 [Built like a pixar mom](http://9gag.com/gag/a4PNQVw)
+ - 😝 [So, who gets it?](http://9gag.com/gag/a4PNGKm)
+ - 💣 [I watched The Miniaturist for the plot](http://9gag.com/gag/aW4nEE6)
+ - 😝 [A happy misunderstanding](http://9gag.com/gag/aLn483V)
+ - 👉 [That was awesome](http://9gag.com/gag/amo6742)<!-- MEMES:END -->
 
 ---
 

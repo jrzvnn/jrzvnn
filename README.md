@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Running Shorts, Tested and Reviewed &lpar;2025&rpar;: Nike, Asics](https://www.wired.com/gallery/best-running-shorts/)
+ - [A profile of Tornado Cash co-founder Roman Storm, who is set to go on trial for conspiracy to commit money laundering; Storm says most users were legitimate &lpar;Alexander Osipovich/Wall Street Journal&rpar;](http://www.techmeme.com/250324/p12#a250324p12)
+ - [Splice CEO Kakul Srivastava on where to draw hard lines around AI in music](https://www.theverge.com/decoder-podcast-with-nilay-patel/632036/splice-ceo-kakul-srivastava-on-why-ai-will-never-replace-human-creativity)
  - [Apple finally brings lossless audio and low-latency audio to AirPods Max](https://appleinsider.com/articles/25/03/24/apple-finally-brings-lossless-audio-and-low-latency-audio-to-airpods-max?utm_medium=rss)
- - [Apple says the AirPods Max will get 24-bit, 48 kHz lossless audio, including Personalized Spatial Audio, and ultra‑low latency in April via a software update &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/250324/p11#a250324p11)
- - [Apple’s AirPods Max with USB-C will soon support lossless audio](https://www.theverge.com/news/634506/apple-airpods-max-lossless-audio-low-latency-usb-c)
- - [Gen AI&#39;s Accuracy Problems Aren&#39;t Going Away Anytime Soon, Researchers Say](https://www.cnet.com/tech/services-and-software/gen-ais-accuracy-problems-arent-going-away-anytime-soon-researchers-say/#ftag=CAD590a51e)
- - [Aviron Strong Rower Review: Get Gaming to Get Going](https://www.wired.com/review/aviron-strong-rower/)<!-- TECH:END -->
+ - [Apple says the AirPods Max will get 24-bit, 48 kHz lossless audio, including Personalized Spatial Audio, and ultra‑low latency in April via a software update &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/250324/p11#a250324p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

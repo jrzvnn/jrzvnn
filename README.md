@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft unveils 11 Security Copilot AI agents, five created by partners, that do things like triage phishing and data loss alerts, coming to preview in April &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250324/p15#a250324p15)
  - [How to delete your 23andMe data](https://www.theverge.com/news/634680/23andme-genetic-data-account-deletion-how-to)
  - [Google Drive for Windows on Arm PCs is now widely available](https://www.theverge.com/news/634704/google-drive-windows-on-arm-launch)
  - [Aura digital photo frames will continue to auto-sync with Google Photos after all](https://www.theverge.com/tech/634673/google-photos-aura-digital-photo-frame-auto-sync-fix)
- - [Minecraft is getting vibrant with its visuals](https://www.theverge.com/news/634690/minecraft-vibrant-visuals-update-minecraft-live)
- - [Microsoft announces security AI agents to help overwhelmed humans](https://www.theverge.com/news/634598/microsoft-security-copilot-ai-agents)<!-- TECH:END -->
+ - [Minecraft is getting vibrant with its visuals](https://www.theverge.com/news/634690/minecraft-vibrant-visuals-update-minecraft-live)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

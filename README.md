@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They fired her a year ago btw](http://9gag.com/gag/aqy6LOv)
- - 😝 [Still on payroll?](http://9gag.com/gag/ayN6x8Y)
- - 💣 [A happy misunderstanding](http://9gag.com/gag/aLn483V)
- - 😝 [Fun fact](http://9gag.com/gag/avy6G3n)
- - 👉 [So, who gets it?](http://9gag.com/gag/a4PNGKm)<!-- MEMES:END -->
+ - 😝 [I\u2019m sure I\u2019ve posted this before, or something similar, but it\u2019s always worth a repost](http://9gag.com/gag/aD28xL9)
+ - 😝 [F**k tech](http://9gag.com/gag/azxK9EK)
+ - 💣 [Understandable, have a nice day](http://9gag.com/gag/aVvKYKw)
+ - 😝 [Apparently his life was so extraordinary the team that documented his life gave him a proper burial](http://9gag.com/gag/ayN6XXM)
+ - 👉 [Flashback](http://9gag.com/gag/a5QwMWE)<!-- MEMES:END -->
 
 ---
 

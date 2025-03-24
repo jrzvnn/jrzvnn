@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Don’t Sleep on These 29% Discounts on Siena Mattresses at Amazon Right Now](https://www.cnet.com/tech/dont-sleep-on-these-29-discounts-on-siena-mattresses-at-amazon-right-now/#ftag=CAD590a51e)
+ - [Best Live TV Streaming Services for 2025](https://www.cnet.com/tech/services-and-software/best-live-tv-streaming-service-for-cord-cutters/#ftag=CAD590a51e)
  - [A look at lobbying efforts by AI companies since Trump&#39;s return; hundreds submitted comments after a second AI-related EO, which called for pro-growth AI policy &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/250324/p22#a250324p22)
  - [Here are the best deals you can already grab from Amazon’s spring sales event](https://www.theverge.com/tech/632597/amazon-big-spring-sale-2025-prime-day-deals)
- - [Arcade, a gen-AI marketplace for designing jewelry, raised a $25M Series A led by Canaan Partners, bringing total funding to $42M, and expands to home goods &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250324/p21#a250324p21)
- - [Ugreen x Genshin Impact charger review: A neat iPhone charging crossover for gamers](https://appleinsider.com/articles/25/03/24/ugreen-x-genshin-impact-charger-review-a-neat-iphone-charging-crossover-for-gamers?utm_medium=rss)
- - [Apple’s iOS 18.4 update with AI-powered Priority Notifications is almost here](https://www.theverge.com/news/634920/apple-ios-18-4-priority-notifications-release-candidate)<!-- TECH:END -->
+ - [Arcade, a gen-AI marketplace for designing jewelry, raised a $25M Series A led by Canaan Partners, bringing total funding to $42M, and expands to home goods &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250324/p21#a250324p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

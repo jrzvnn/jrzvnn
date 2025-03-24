@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Scientists Scan Mysterious Planet as It Drifts Through Space](https://www.wired.com/story/scientists-scan-mysterious-planet-as-it-drifts-through-space/)
  - [Q&amp;A with Reid Hoffman on making people AI-curious through his new book Superagency, writing with AI, why AI &quot;gloomers&quot; are wrong, tech&#39;s DEI rollback, and more &lpar;The Guardian&rpar;](http://www.techmeme.com/250324/p6#a250324p6)
  - [An off-Broadway theater in New York is offering AI-powered live translations in 60 languages to attract new audiences, using AI tech from startup Worldly &lpar;Rachyl Jones/Semafor&rpar;](http://www.techmeme.com/250324/p5#a250324p5)
  - [Malaysia plans to tighten chip rules and says Washington demanded it track high-end Nvidia chips entering the country, suspecting many are ending up in China &lpar;Financial Times&rpar;](http://www.techmeme.com/250324/p4#a250324p4)
- - [Trump’s Aggression Sours Europe on US Cloud Giants](https://www.wired.com/story/trump-us-cloud-services-europe/)
- - [Source: South Korean chip startup FuriosaAI rejected an $800M takeover offer from Meta, opting to grow independently instead &lpar;Bloomberg&rpar;](http://www.techmeme.com/250324/p3#a250324p3)<!-- TECH:END -->
+ - [Trump’s Aggression Sours Europe on US Cloud Giants](https://www.wired.com/story/trump-us-cloud-services-europe/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alienware’s AW2725DF OLED gaming monitor is a steal at $599.99](https://www.theverge.com/tech/634773/alienware-aw2725df-oled-gaming-monitor-deal-sale)
  - [HomePod Mini 2 rumors, Nanoleaf monitor lights, &amp; cameras in Matter 1.5 on HomeKit Insider](https://appleinsider.com/articles/25/03/24/homepod-mini-2-rumors-nanoleaf-monitor-lights-cameras-in-matter-15-on-homekit-insider?utm_medium=rss)
  - [OpenAI expands COO Brad Lightcap&#39;s responsibilities, including over global expansion and corporate partnerships; Sam Altman will focus on research and product &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250324/p17#a250324p17)
  - [Leadership updates — OpenAI has grown a lot.  We remain focused on the same core ... &lpar;OpenAI&rpar;](http://www.techmeme.com/250324/p16#a250324p16)
- - [Using Starlink Wi-Fi in the White House Is a Slippery Slope for US Federal IT](https://www.wired.com/story/white-house-starlink-wifi/)
- - [Apple seeds release candidates for iOS 18.4, macOS 15.4](https://appleinsider.com/articles/25/03/24/apple-seeds-release-candidates-for-ios-184-macos-154?utm_medium=rss)<!-- TECH:END -->
+ - [Using Starlink Wi-Fi in the White House Is a Slippery Slope for US Federal IT](https://www.wired.com/story/white-house-starlink-wifi/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

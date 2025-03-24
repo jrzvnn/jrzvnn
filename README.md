@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Mars\u2014140 million miles from Earth. And yet, thanks to NASA, we\u2019re seeing it like it\u2019s just around the corner. Sound on!](http://9gag.com/gag/an725r5)
- - 😝 [I watched The Miniaturist for the plot](http://9gag.com/gag/aW4nEE6)
- - 💣 [A happy misunderstanding](http://9gag.com/gag/aLn483V)
- - 😝 [Still on payroll?](http://9gag.com/gag/ayN6x8Y)
- - 👉 [Samuel Benner, a farmer from the 1800s, published a book with market analysis on periods of panic, good times to buy, and good times to sell. 150 years later, his analysis has proven to be remarkably accurate.](http://9gag.com/gag/aryXGR6)<!-- MEMES:END -->
+ - 😝 [No one reads titles.](http://9gag.com/gag/avy6z2X)
+ - 💣 [I watched The Miniaturist for the plot](http://9gag.com/gag/aW4nEE6)
+ - 😝 [Samuel Benner, a farmer from the 1800s, published a book with market analysis on periods of panic, good times to buy, and good times to sell. 150 years later, his analysis has proven to be remarkably accurate.](http://9gag.com/gag/aryXGR6)
+ - 👉 [Zinc Spark - The Spark of life](http://9gag.com/gag/a6Z5N12)<!-- MEMES:END -->
 
 ---
 

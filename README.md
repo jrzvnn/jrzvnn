@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Indiana Jones and the Great Circle arrives on PS5 in April](https://www.theverge.com/news/610817/indiana-jones-and-the-great-circle-ps5-release-date)
+ - [Amazon slashes Apple Watch styles to as low as $169 &lpar;save up to $100&rpar;](https://appleinsider.com/articles/25/03/24/amazon-slashes-apple-watch-styles-to-as-low-as-169-save-up-to-100?utm_medium=rss)
+ - [Rivian now has a bedroom to go with its kitchen](https://www.theverge.com/news/634607/rivian-camping-skycamp-mini-ikamper-tent)
  - [Q&amp;A with Splice CEO Kakul Srivastava on the music creation platform, the economics of creator platforms, why creatives &quot;deserve better&quot; than AI tools, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250324/p13#a250324p13)
- - [Best Running Shorts, Tested and Reviewed &lpar;2025&rpar;: Nike, Asics](https://www.wired.com/gallery/best-running-shorts/)
- - [A profile of Tornado Cash co-founder Roman Storm, set to go on trial on July 14 for conspiracy to commit money laundering; Storm says most users were legitimate &lpar;Alexander Osipovich/Wall Street Journal&rpar;](http://www.techmeme.com/250324/p12#a250324p12)
- - [Splice CEO Kakul Srivastava on where to draw hard lines around AI in music](https://www.theverge.com/decoder-podcast-with-nilay-patel/632036/splice-ceo-kakul-srivastava-on-why-ai-will-never-replace-human-creativity)
- - [Apple finally brings lossless audio and low-latency audio to AirPods Max](https://appleinsider.com/articles/25/03/24/apple-finally-brings-lossless-audio-and-low-latency-audio-to-airpods-max?utm_medium=rss)<!-- TECH:END -->
+ - [Best Running Shorts, Tested and Reviewed &lpar;2025&rpar;: Nike, Asics](https://www.wired.com/gallery/best-running-shorts/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

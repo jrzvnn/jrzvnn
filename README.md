@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, That Was Unexpected](http://9gag.com/gag/aQz735q)
- - 😝 [He&#39;s a right dog](http://9gag.com/gag/avy6OvM)
- - 💣 [Meanwhile on Indian TV show](http://9gag.com/gag/azxKqyB)
- - 😝 [A happy misunderstanding](http://9gag.com/gag/aLn483V)
- - 👉 [31 year old Indiana teacher accused of r*ping her students including an instance where she forced 3 underaged boys to have s*x with her while wearing Scream masks.](http://9gag.com/gag/apR62pE)<!-- MEMES:END -->
+ - 😝 [They didn&#39;t even spare the damn bird](http://9gag.com/gag/aAyKxqg)
+ - 😝 [Meanwhile on Indian TV show](http://9gag.com/gag/azxKqyB)
+ - 💣 [He&#39;s a right dog](http://9gag.com/gag/avy6OvM)
+ - 😝 [31 year old Indiana teacher accused of r*ping her students including an instance where she forced 3 underaged boys to have s*x with her while wearing Scream masks.](http://9gag.com/gag/apR62pE)
+ - 👉 [Demineralized water?](http://9gag.com/gag/aXPVx96)<!-- MEMES:END -->
 
 ---
 

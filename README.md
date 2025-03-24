@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Teacher training in rural China boosted by Apple donations](https://appleinsider.com/articles/25/03/24/teacher-training-in-rural-china-boosted-by-apple-donations?utm_medium=rss)
  - [A survey of 730 software engineers: 75% have tried AI, 35.6% are AI optimists and 38.4% pessimists, freelance coders use AI more, 50% pay for AI tools, and more &lpar;Wired&rpar;](http://www.techmeme.com/250324/p9#a250324p9)
  - [Apple adds $99 million to its China Clean Energy Fund](https://appleinsider.com/articles/25/03/24/apple-adds-99-million-to-its-china-clean-energy-fund?utm_medium=rss)
  - [The Chaos of NIH Cuts Has Left Early-Career Scientists Scrambling](https://www.wired.com/story/the-chaos-of-nih-cuts-has-left-early-career-scientists-scrambling/)
- - [Google confirms a &quot;technical issue&quot; on Google Maps &quot;that caused the deletion of Timeline data for some people&quot;, but says those with backups can restore the data &lpar;Hadlee Simons/Android Authority&rpar;](http://www.techmeme.com/250324/p8#a250324p8)
- - [You Can Change the Default Apps on Your iPhone. Here&#39;s How](https://www.cnet.com/tech/services-and-software/you-can-change-the-default-apps-on-your-iphone-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google confirms a &quot;technical issue&quot; on Google Maps &quot;that caused the deletion of Timeline data for some people&quot;, but says those with backups can restore the data &lpar;Hadlee Simons/Android Authority&rpar;](http://www.techmeme.com/250324/p8#a250324p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

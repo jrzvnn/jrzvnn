@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump’s Aggression Sours Europe on US Cloud Giants](https://www.wired.com/story/trump-us-cloud-services-europe/)
+ - [Source: South Korean chip startup FuriosaAI rejected an $800M takeover offer from Meta, opting to grow independently instead &lpar;Bloomberg&rpar;](http://www.techmeme.com/250324/p3#a250324p3)
  - [Amazon drops AirPods 4 to $99.99, AirPods Pro 2 to $169.99 ahead of Big Spring Sale](https://appleinsider.com/articles/25/03/24/amazon-drops-airpods-4-to-9999-airpods-pro-2-to-16999-ahead-of-big-spring-sale?utm_medium=rss)
  - [23andMe files for Chapter 11 bankruptcy to &quot;maximize the value of its business&quot;; co-founder Anne Wojcicki steps down as CEO &lpar;Harry Suhartono/Bloomberg&rpar;](http://www.techmeme.com/250324/p2#a250324p2)
- - [A look at the Internet Archive, which sees ~100TB of material uploaded daily and has cataloged ~73K US government website pages that the Trump admin expunged &lpar;Emma Bowman/NPR&rpar;](http://www.techmeme.com/250324/p1#a250324p1)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 24, #182](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-24-182/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, March 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-march-24/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the Internet Archive, which sees ~100TB of material uploaded daily and has cataloged ~73K US government website pages that the Trump admin expunged &lpar;Emma Bowman/NPR&rpar;](http://www.techmeme.com/250324/p1#a250324p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

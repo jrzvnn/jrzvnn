@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [23andMe files for Chapter 11 bankruptcy to &quot;maximize the value of its business&quot;; co-founder Anne Wojcicki steps down as CEO &lpar;Harry Suhartono/Bloomberg&rpar;](http://www.techmeme.com/250324/p2#a250324p2)
  - [A look at the Internet Archive, which sees ~100TB of material uploaded daily and has cataloged ~73K US government website pages that the Trump admin expunged &lpar;Emma Bowman/NPR&rpar;](http://www.techmeme.com/250324/p1#a250324p1)
- - [The daily amount of ETH burned on Ethereum due to transaction fees hit an all-time low on March 22, amid dips in other network metrics like active addresses &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/250323/p16#a250323p16)
- - [Retail investors often bear the brunt of losses in the Solana blockchain&#39;s memecoin market, which is plagued by insider trading, rug pulls, and &quot;sniping&quot; &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/250323/p15#a250323p15)
- - [Google is rolling out new real-time AI video features, including the ability to &quot;see&quot; screens and camera feeds, for Gemini Advanced subscribers &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250323/p14#a250323p14)
- - [Google is rolling out Gemini’s real-time AI video features](https://www.theverge.com/news/634480/google-gemini-live-video-screen-sharing-astra-features-rolling-out)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 24, #182](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-24-182/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, March 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-march-24/#ftag=CAD590a51e)
+ - [The daily amount of ETH burned on Ethereum due to transaction fees hit an all-time low on March 22, amid dips in other network metrics like active addresses &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/250323/p16#a250323p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

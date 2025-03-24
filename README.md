@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Blowout deal: Grab Apple&#39;s M3 MacBook Air with 16GB RAM for record low $799](https://appleinsider.com/articles/25/03/24/blowout-deal-grab-apples-m3-macbook-air-with-16gb-ram-for-record-low-799?utm_medium=rss)
+ - [Massachusetts&#39; top securities regulator probes Robinhood&#39;s decision to launch a prediction markets hub, after sending the company a subpoena last week &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/250324/p18#a250324p18)
  - [iOS 18.4 RC Is Out: Your iPhone Could Get New Emoji and More Soon](https://www.cnet.com/tech/services-and-software/ios-18-4-rc-is-out-your-iphone-could-get-new-emoji-and-more-soon/#ftag=CAD590a51e)
  - [In a Shaky Economy, CDs Provide Security. Today&#39;s CD Rates, March 24, 2025](https://www.cnet.com/personal-finance/banking/in-a-shaky-economy-cds-provide-security-todays-cd-rates-march-24-2025/#ftag=CAD590a51e)
- - [Best Internet Providers in Staten Island, New York](https://www.cnet.com/home/internet/best-internet-providers-in-staten-island-ny/#ftag=CAD590a51e)
- - [OpenAI reshuffles leadership as Sam Altman pivots to technical focus](https://www.theverge.com/openai/634802/openai-leadership-change)
- - [How to Enter the US With Your Digital Privacy Intact](https://www.wired.com/2017/02/guide-getting-past-customs-digital-privacy-intact/)<!-- TECH:END -->
+ - [Best Internet Providers in Staten Island, New York](https://www.cnet.com/home/internet/best-internet-providers-in-staten-island-ny/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

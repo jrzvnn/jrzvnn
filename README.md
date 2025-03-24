@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeepSeek releases MIT-licensed DeepSeek-V3-0324, the latest version of their enormous DeepSeek v3 model; the previous DeepSeek v3 version had a custom license &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250324/p14#a250324p14)
- - [Apple Will Enable USB-C Lossless Audio on AirPods Max in April](https://www.cnet.com/tech/mobile/apple-will-enable-usb-c-lossless-audio-on-airpods-max-in-april/#ftag=CAD590a51e)
- - [Amazon slashes Apple Watch styles to as low as $169 &lpar;save up to $100&rpar;](https://appleinsider.com/articles/25/03/24/amazon-slashes-apple-watch-styles-to-as-low-as-169-save-up-to-100?utm_medium=rss)
- - [Q&amp;A with Splice CEO Kakul Srivastava on the music creation platform, the economics of creator platforms, why creatives &quot;deserve better&quot; than AI tools, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250324/p13#a250324p13)
- - [Best Running Shorts, Tested and Reviewed &lpar;2025&rpar;: Nike, Asics](https://www.wired.com/gallery/best-running-shorts/)<!-- TECH:END -->
+ - [Google Drive for Windows on Arm PCs is now widely available](https://www.theverge.com/news/634704/google-drive-windows-on-arm-launch)
+ - [Aura digital photo frames will continue to auto-sync with Google Photos after all](https://www.theverge.com/tech/634673/google-photos-aura-digital-photo-frame-auto-sync-fix)
+ - [Minecraft is getting vibrant with its visuals](https://www.theverge.com/news/634690/minecraft-vibrant-visuals-update-minecraft-live)
+ - [Microsoft announces security AI agents to help overwhelmed humans](https://www.theverge.com/news/634598/microsoft-security-copilot-ai-agents)
+ - [Apple’s The Studio spins Hollywood chaos into comedic gold](https://www.theverge.com/tv-reviews/627183/the-studio-review-seth-rogen-apple)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

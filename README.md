@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump’s plans to save TikTok may fail to keep it online, Democrats warn](https://www.theverge.com/news/635019/tiktok-ban-deadline-extension-trump-markey-van-hollen-booker)
  - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
  - [Meta Quest might add single window screensharing in VR soon](https://www.theverge.com/news/635022/meta-quest-v76-code-share-screen-2d-window-vr-home)
  - [China published new rules last Friday banning the use of facial recognition without consent in private spaces like hotel rooms &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/250324/p23#a250324p23)
- - [How to Delete Your Data From 23andMe](https://www.wired.com/story/how-to-delete-your-data-from-23andme/)
- - [You’ll soon be able to hear Apple Watch alarms even in silent mode](https://www.theverge.com/news/634962/apple-watch-watchos-silent-mode-wake-up-alarm)<!-- TECH:END -->
+ - [How to Delete Your Data From 23andMe](https://www.wired.com/story/how-to-delete-your-data-from-23andme/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Coach yanked player\u2019s ponytail after they lost the game](http://9gag.com/gag/aW4nYA4)
- - 😝 [Still on payroll?](http://9gag.com/gag/ayN6x8Y)
- - 💣 [I watched The Miniaturist for the plot](http://9gag.com/gag/aW4nEE6)
- - 😝 [That was awesome](http://9gag.com/gag/amo6742)
+ - 😝 [Forget about her. Give it to me](http://9gag.com/gag/azxK1xm)
+ - 😝 [Horse girls](http://9gag.com/gag/aKGvdyg)
+ - 💣 [Understandable, have a nice day](http://9gag.com/gag/aVvKYKw)
+ - 😝 [My people&#39;s tradition](http://9gag.com/gag/aKGvdj6)
  - 👉 [No one reads titles.](http://9gag.com/gag/avy6z2X)<!-- MEMES:END -->
 
 ---

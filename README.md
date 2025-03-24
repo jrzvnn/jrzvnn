@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A happy misunderstanding](http://9gag.com/gag/aLn483V)
+ - 😝 [I watched The Miniaturist for the plot](http://9gag.com/gag/aW4nEE6)
+ - 💣 [Removing a wasp nest with gasoline.](http://9gag.com/gag/aO8ZYg2)
  - 😝 [Coach yanked player\u2019s ponytail after they lost the game](http://9gag.com/gag/aW4nYA4)
- - 😝 [All this just for a moment? Was it worth it?](http://9gag.com/gag/aE0AgPG)
- - 💣 [So, who gets it?](http://9gag.com/gag/a4PNGKm)
- - 😝 [Demineralized water?](http://9gag.com/gag/aXPVx96)
- - 👉 [Then why exactly are you here my fair lady?](http://9gag.com/gag/aryXgd0)<!-- MEMES:END -->
+ - 👉 [All this just for a moment? Was it worth it?](http://9gag.com/gag/aE0AgPG)<!-- MEMES:END -->
 
 ---
 

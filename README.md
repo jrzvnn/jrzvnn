@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Then why exactly are you here my fair lady?](http://9gag.com/gag/aryXgd0)
- - 😝 [Meanwhile on Indian TV show](http://9gag.com/gag/azxKqyB)
- - 💣 [Finland as a country do not exist !](http://9gag.com/gag/a5QwrLV)
- - 😝 [Demineralized water?](http://9gag.com/gag/aXPVx96)
- - 👉 [A happy misunderstanding](http://9gag.com/gag/aLn483V)<!-- MEMES:END -->
+ - 😝 [A happy misunderstanding](http://9gag.com/gag/aLn483V)
+ - 😝 [Well, That Was Unexpected](http://9gag.com/gag/aQz735q)
+ - 💣 [Meanwhile on Indian TV show](http://9gag.com/gag/azxKqyB)
+ - 😝 [He&#39;s a right dog](http://9gag.com/gag/avy6OvM)
+ - 👉 [Then why exactly are you here my fair lady?](http://9gag.com/gag/aryXgd0)<!-- MEMES:END -->
 
 ---
 

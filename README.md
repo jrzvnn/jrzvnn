@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple finally brings lossless audio and low-latency audio to AirPods Max](https://appleinsider.com/articles/25/03/24/apple-finally-brings-lossless-audio-and-low-latency-audio-to-airpods-max?utm_medium=rss)
+ - [Apple says the AirPods Max will get 24-bit, 48 kHz lossless audio, including Personalized Spatial Audio, and ultra‑low latency in April via a software update &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/250324/p11#a250324p11)
+ - [Apple’s AirPods Max with USB-C will soon support lossless audio](https://www.theverge.com/news/634506/apple-airpods-max-lossless-audio-low-latency-usb-c)
  - [Aviron Strong Rower Review: Get Gaming to Get Going](https://www.wired.com/review/aviron-strong-rower/)
- - [GoPro’s anamorphic lens is fun, fuss-free, and now available to buy](https://www.theverge.com/news/634504/gopro-hero-13-black-anamorphic-lens-availability)
- - [14 Best Carry-On Luggage &lpar;2024&rpar;: Away, Travelpro, and More](https://www.wired.com/gallery/best-carry-on-luggage/)
- - [Odd Apple Maps bug showing users random airport baggage claim spots](https://appleinsider.com/articles/25/03/24/odd-apple-maps-bug-showing-users-random-airport-baggage-claim-spots?utm_medium=rss)
- - [Red Dye No. 3 Was Banned. Here Are 9 Foods That Still Use It](https://www.cnet.com/health/red-dye-no-3-was-banned-here-are-9-foods-that-still-use-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [GoPro’s anamorphic lens is fun, fuss-free, and now available to buy](https://www.theverge.com/news/634504/gopro-hero-13-black-anamorphic-lens-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

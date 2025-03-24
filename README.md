@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I watched The Miniaturist for the plot](http://9gag.com/gag/aW4nEE6)
  - 😝 [Demineralized water?](http://9gag.com/gag/aXPVx96)
- - 😝 [A happy misunderstanding](http://9gag.com/gag/aLn483V)
- - 💣 [\u201cI got slapped for nothing!\u201d](http://9gag.com/gag/aGyBgVG)
- - 😝 [My people&#39;s tradition](http://9gag.com/gag/aKGvdj6)
- - 👉 [Removing a wasp nest with gasoline.](http://9gag.com/gag/aO8ZYg2)<!-- MEMES:END -->
+ - 💣 [A happy misunderstanding](http://9gag.com/gag/aLn483V)
+ - 😝 [Removing a wasp nest with gasoline.](http://9gag.com/gag/aO8ZYg2)
+ - 👉 [My people&#39;s tradition](http://9gag.com/gag/aKGvdj6)<!-- MEMES:END -->
 
 ---
 

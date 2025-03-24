@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now, blow the candles!](http://9gag.com/gag/a7o0MMb)
  - 😝 [F**k tech](http://9gag.com/gag/azxK9EK)
- - 💣 [Apparently his life was so extraordinary the team that documented his life gave him a proper burial](http://9gag.com/gag/ayN6XXM)
- - 😝 [Flashback](http://9gag.com/gag/a5QwMWE)
+ - 😝 [Apparently his life was so extraordinary the team that documented his life gave him a proper burial](http://9gag.com/gag/ayN6XXM)
+ - 💣 [Flashback](http://9gag.com/gag/a5QwMWE)
+ - 😝 [They didn&#39;t even spare the damn bird](http://9gag.com/gag/aAyKxqg)
  - 👉 [What&#39;s the most painful breakup message you have received?](http://9gag.com/gag/aqy6gGR)<!-- MEMES:END -->
 
 ---

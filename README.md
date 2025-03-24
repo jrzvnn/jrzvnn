@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An off-Broadway theater in New York is offering AI-powered live translations in 60 languages to attract new audiences, using AI tech from startup Worldly &lpar;Rachyl Jones/Semafor&rpar;](http://www.techmeme.com/250324/p5#a250324p5)
  - [Malaysia plans to tighten chip rules, says Washington demanded it track high-end Nvidia chips entering the country, suspecting many are ending up in China &lpar;Financial Times&rpar;](http://www.techmeme.com/250324/p4#a250324p4)
  - [Trump’s Aggression Sours Europe on US Cloud Giants](https://www.wired.com/story/trump-us-cloud-services-europe/)
  - [Source: South Korean chip startup FuriosaAI rejected an $800M takeover offer from Meta, opting to grow independently instead &lpar;Bloomberg&rpar;](http://www.techmeme.com/250324/p3#a250324p3)
- - [Amazon drops AirPods 4 to $99.99, AirPods Pro 2 to $169.99 ahead of Big Spring Sale](https://appleinsider.com/articles/25/03/24/amazon-drops-airpods-4-to-9999-airpods-pro-2-to-16999-ahead-of-big-spring-sale?utm_medium=rss)
- - [23andMe files for Chapter 11 bankruptcy to &quot;maximize the value of its business&quot;; co-founder Anne Wojcicki steps down as CEO &lpar;Harry Suhartono/Bloomberg&rpar;](http://www.techmeme.com/250324/p2#a250324p2)<!-- TECH:END -->
+ - [Amazon drops AirPods 4 to $99.99, AirPods Pro 2 to $169.99 ahead of Big Spring Sale](https://appleinsider.com/articles/25/03/24/amazon-drops-airpods-4-to-9999-airpods-pro-2-to-16999-ahead-of-big-spring-sale?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

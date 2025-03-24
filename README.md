@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Forget about her. Give it to me](http://9gag.com/gag/azxK1xm)
- - 😝 [Horse girls](http://9gag.com/gag/aKGvdyg)
- - 💣 [Understandable, have a nice day](http://9gag.com/gag/aVvKYKw)
- - 😝 [My people&#39;s tradition](http://9gag.com/gag/aKGvdj6)
- - 👉 [No one reads titles.](http://9gag.com/gag/avy6z2X)<!-- MEMES:END -->
+ - 😝 [That was awesome](http://9gag.com/gag/amo6742)
+ - 😝 [Demineralized water?](http://9gag.com/gag/aXPVx96)
+ - 💣 [Still on payroll?](http://9gag.com/gag/ayN6x8Y)
+ - 😝 [I watched The Miniaturist for the plot](http://9gag.com/gag/aW4nEE6)
+ - 👉 [Samuel Benner, a farmer from the 1800s, published a book with market analysis on periods of panic, good times to buy, and good times to sell. 150 years later, his analysis has proven to be remarkably accurate.](http://9gag.com/gag/aryXGR6)<!-- MEMES:END -->
 
 ---
 

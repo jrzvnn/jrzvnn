@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Black people celebrating OJ&#39;s verdict in 1995 while white people look upon in shock that an obvious murderer would be acquitted](http://9gag.com/gag/aNDQYVw)
- - 😝 [I need your nopest gif. I know I&#39;ll regret it \ud805\udc03](http://9gag.com/gag/aVvKYdv)
- - 💣 [Bro&#39;s about to begin his Gym Arc.....](http://9gag.com/gag/a9y5p71)
- - 😝 [Repost #2025.14](http://9gag.com/gag/ae9Zrmj)
- - 👉 [The kick from Chuck Norris sounds like a gunshot](http://9gag.com/gag/aryXVGy)<!-- MEMES:END -->
+ - 😝 [The 1990&#39;s style is just better.](http://9gag.com/gag/aMVPxyG)
+ - 😝 [Mars\u2014140 million miles from Earth. And yet, thanks to NASA, we\u2019re seeing it like it\u2019s just around the corner. Sound on!](http://9gag.com/gag/an725r5)
+ - 💣 [Cool hobby](http://9gag.com/gag/aO8Z79M)
+ - 😝 [Word.](http://9gag.com/gag/a7o0W3r)
+ - 👉 [Still waiting for her answer](http://9gag.com/gag/a340wR5)<!-- MEMES:END -->
 
 ---
 

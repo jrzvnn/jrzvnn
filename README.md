@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The kick from Chuck Norris sounds like a gunshot](http://9gag.com/gag/aryXVGy)
+ - 😝 [Insane and evil](http://9gag.com/gag/azxKmpN)
  - 😝 [Game of the year](http://9gag.com/gag/ayN6emb)
  - 💣 [Assassin&#39;s Creed Shadows Next Gen Traversal Mechanic](http://9gag.com/gag/aByV0zQ)
- - 😝 [Manson showing Manson and Cage to Cage](http://9gag.com/gag/aGyBZBZ)
- - 👉 [Nice](http://9gag.com/gag/apR6mOE)<!-- MEMES:END -->
+ - 😝 [What is going on here?](http://9gag.com/gag/a4PNRQv)
+ - 👉 [Coach yanked player\u2019s ponytail after they lost the game](http://9gag.com/gag/aW4nYA4)<!-- MEMES:END -->
 
 ---
 

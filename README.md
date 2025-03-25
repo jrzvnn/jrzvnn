@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lol.](http://9gag.com/gag/aYQDy0q)
- - 😝 [Mars\u2014140 million miles from Earth. And yet, thanks to NASA, we\u2019re seeing it like it\u2019s just around the corner. Sound on!](http://9gag.com/gag/an725r5)
- - 💣 [Cool hobby](http://9gag.com/gag/aO8Z79M)
- - 😝 [Word.](http://9gag.com/gag/a7o0W3r)
- - 👉 [Still waiting for her answer](http://9gag.com/gag/a340wR5)<!-- MEMES:END -->
+ - 😝 [Insane and evil](http://9gag.com/gag/azxKmpN)
+ - 😝 [I can&#39;t wait for ozempic to cause sudden heart attacks and clean up all the hypocrites](http://9gag.com/gag/amo6BEj)
+ - 💣 [New milestone for AC Shadows](http://9gag.com/gag/avy6oZE)
+ - 😝 [Turkish Hairlines sponsored](http://9gag.com/gag/aGyBdWz)
+ - 👉 [I need your nopest gif. I know I&#39;ll regret it \ud805\udc03](http://9gag.com/gag/aVvKYdv)<!-- MEMES:END -->
 
 ---
 

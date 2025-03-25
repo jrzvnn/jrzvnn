@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [It’s Looking More Likely NASA Will Fly the Artemis II Mission](https://www.wired.com/story/as-preps-continue-its-looking-more-likely-nasa-will-fly-the-artemis-ii-mission/)
+ - [NY-based Silna, which provides healthcare revenue cycle management software, emerges from stealth with a $22M Series A co-led by Accel and Bain and a $5M seed &lpar;Erin Brodwin/Axios&rpar;](http://www.techmeme.com/250325/p37#a250325p37)
  - [2025 Swift Student Challenge winners to be announced on March 27](https://appleinsider.com/articles/25/03/25/2025-swift-student-challenge-winners-to-be-announced-on-march-27?utm_medium=rss)
  - [Amazon’s big spring sale is live, and here are the 66 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
- - [Google says its new ‘reasoning’ Gemini AI models are the best ones yet](https://www.theverge.com/news/635502/google-gemini-2-5-reasoning-ai-model)
- - [In an addendum to the GPT-4o system card, OpenAI says it is not blocking the image generation of adult public figures and that public figures can opt out &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250325/p36#a250325p36)
- - [“This man is not our boss” — EPA workers rally against DOGE cuts](https://www.theverge.com/news/635710/doge-musk-trump-environmental-protection-agency-epa)<!-- TECH:END -->
+ - [Signal Government Chat Goof Sparks a War Room Full of Memes](https://www.cnet.com/tech/signal-government-chat-goof-sparks-a-war-room-full-of-memes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of veteran Googler Liz Reid, who became Head of Search in March 2024 and rolled out major updates like AI Overviews, as Google competes with ChatGPT &lpar;Bloomberg&rpar;](http://www.techmeme.com/250325/p6#a250325p6)
  - [85 Best Amazon Spring Sale Deals &lpar;2025&rpar;](https://www.wired.com/story/amazon-spring-sale-2025-2/)
  - [Investors see opportunities in Malaysian tech stocks amid a shift to cheaper AI models like DeepSeek, as the country&#39;s chip sector faces US export rules &lpar;Norman Goh/Nikkei Asia&rpar;](http://www.techmeme.com/250325/p5#a250325p5)
  - [Scientists Observe Carbon Dioxide on Planets Outside the Solar System for the First Time](https://www.wired.com/story/scientists-observe-for-the-first-time-carbon-dioxide-on-other-planets-outside-the-solar-system/)
- - [Amazon&#39;s Big Spring Sale starts now, save up to $400 on Apple products](https://appleinsider.com/articles/25/03/25/amazons-big-spring-sale-starts-now-save-up-to-400-on-apple-products?utm_medium=rss)
- - [A look at the 25-year-old CVE program, which assigns unique IDs to flaws; 413 orgs now report CVEs, with 40K+ reported in 2024, pushing the total past 270K &lpar;Cynthia Brumfield/CyberScoop&rpar;](http://www.techmeme.com/250325/p4#a250325p4)<!-- TECH:END -->
+ - [Amazon&#39;s Big Spring Sale starts now, save up to $400 on Apple products](https://appleinsider.com/articles/25/03/25/amazons-big-spring-sale-starts-now-save-up-to-400-on-apple-products?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

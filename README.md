@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Blitzkrieg still viable](http://9gag.com/gag/aGyBdy7)
- - 😝 [\u201cI got slapped for nothing!\u201d](http://9gag.com/gag/aGyBgVG)
- - 💣 [New milestone for AC Shadows](http://9gag.com/gag/avy6oZE)
- - 😝 [Built like a pixar mom](http://9gag.com/gag/a4PNQVw)
+ - 😝 [All this just for a moment? Was it worth it?](http://9gag.com/gag/aE0AgPG)
+ - 😝 [Repost #2025.14](http://9gag.com/gag/ae9Zrmj)
+ - 💣 [Zinc Spark - The Spark of life](http://9gag.com/gag/a6Z5N12)
+ - 😝 [That was awesome](http://9gag.com/gag/amo6742)
  - 👉 [Bro&#39;s about to begin his Gym Arc.....](http://9gag.com/gag/a9y5p71)<!-- MEMES:END -->
 
 ---

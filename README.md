@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That was awesome](http://9gag.com/gag/amo6742)
- - 😝 [Nice](http://9gag.com/gag/apR6mOE)
- - 💣 [Repost #2025.14](http://9gag.com/gag/ae9Zrmj)
  - 😝 [Samuel Benner, a farmer from the 1800s, published a book with market analysis on periods of panic, good times to buy, and good times to sell. 150 years later, his analysis has proven to be remarkably accurate.](http://9gag.com/gag/aryXGR6)
- - 👉 [Ghost+ busters](http://9gag.com/gag/aNDQYMG)<!-- MEMES:END -->
+ - 😝 [The kick from Chuck Norris sounds like a gunshot](http://9gag.com/gag/aryXVGy)
+ - 💣 [I can&#39;t wait for ozempic to cause sudden heart attacks and clean up all the hypocrites](http://9gag.com/gag/amo6BEj)
+ - 😝 [Game of the year](http://9gag.com/gag/ayN6emb)
+ - 👉 [Nice](http://9gag.com/gag/apR6mOE)<!-- MEMES:END -->
 
 ---
 

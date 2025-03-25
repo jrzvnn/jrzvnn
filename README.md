@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A very old video as a reminder to not to be an idiot](http://9gag.com/gag/a4PNRvZ)
- - 😝 [I can&#39;t wait for ozempic to cause sudden heart attacks and clean up all the hypocrites](http://9gag.com/gag/amo6BEj)
- - 💣 [A reminder that 35 years ago Homer was considered comically obese at this weight \u2696\ufe0f](http://9gag.com/gag/an72Qb0)
+ - 😝 [Understandable](http://9gag.com/gag/a4PNQy6)
  - 😝 [Ghost+ busters](http://9gag.com/gag/aNDQYMG)
- - 👉 [I need your nopest gif. I know I&#39;ll regret it \ud805\udc03](http://9gag.com/gag/aVvKYdv)<!-- MEMES:END -->
+ - 💣 [Zinc Spark - The Spark of life](http://9gag.com/gag/a6Z5N12)
+ - 😝 [What daughter?](http://9gag.com/gag/a5Qw19g)
+ - 👉 [Nice](http://9gag.com/gag/apR6mOE)<!-- MEMES:END -->
 
 ---
 

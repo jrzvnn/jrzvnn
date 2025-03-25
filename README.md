@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is going on here?](http://9gag.com/gag/a4PNRQv)
- - 😝 [Black people celebrating OJ&#39;s verdict in 1995 while white people look upon in shock that an obvious murderer would be acquitted](http://9gag.com/gag/aNDQYVw)
- - 💣 [Ghost+ busters](http://9gag.com/gag/aNDQYMG)
- - 😝 [Game of the year](http://9gag.com/gag/ayN6emb)
- - 👉 [I need your nopest gif. I know I&#39;ll regret it \ud805\udc03](http://9gag.com/gag/aVvKYdv)<!-- MEMES:END -->
+ - 😝 [I bet she\u2019s heaps of fun and she loves sports\u2026 Let goofy people be goofy!](http://9gag.com/gag/adBQ8ON)
+ - 😝 [It&#39;s that easy](http://9gag.com/gag/aVvK7vy)
+ - 💣 [Explain pencils](http://9gag.com/gag/aMVPKX1)
+ - 😝 [Me to myself every day](http://9gag.com/gag/aMVPK3R)
+ - 👉 [Men only want 1 thing and it&#39;s disgusting](http://9gag.com/gag/aRBMXpG)<!-- MEMES:END -->
 
 ---
 

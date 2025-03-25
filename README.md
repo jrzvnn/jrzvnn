@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anker’s ‘InstaCord’ battery with dual retractable USB-C cables is 20 percent off](https://www.theverge.com/tech/635498/anker-laptop-power-bank-usb-c-deal-amazon-big-spring-sale-2025)
  - [GM-backed &amp;#8216;coast-to-coast&amp;#8217; EV charging network grows to 130 locations](https://www.theverge.com/news/635641/gm-evgo-pilot-truck-stop-ev-charging-network-expansion-i75)
  - [OpenAI is integrating Sora&#39;s image generation capabilities directly into ChatGPT across all tiers including free, initially just for images, not videos &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/250325/p29#a250325p29)
  - [Why I love the Calligraphr font-creation app](https://www.theverge.com/tech/634904/calligraphr-fonts-favorites)
- - [The Arc Prize Foundation says its new ARC-AGI-2 test stumps most AI models; humans get 60% of the questions right but GPT-4.5 and Claude 3.7 Sonnet score ~1% &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250325/p28#a250325p28)
- - [Amazon’s new James Bond movie will be produced by Amy Pascal and David Heyman](https://www.theverge.com/news/635566/amazon-james-bond-amy-pascal-david-heyman)<!-- TECH:END -->
+ - [The Arc Prize Foundation says its new ARC-AGI-2 test stumps most AI models; humans get 60% of the questions right but GPT-4.5 and Claude 3.7 Sonnet score ~1% &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250325/p28#a250325p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

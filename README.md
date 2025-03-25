@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [2025 Swift Student Challenge winners to be announced on March 27](https://appleinsider.com/articles/25/03/25/2025-swift-student-challenge-winners-to-be-announced-on-march-27?utm_medium=rss)
  - [Amazon’s big spring sale is live, and here are the 66 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
  - [Google says its new ‘reasoning’ Gemini AI models are the best ones yet](https://www.theverge.com/news/635502/google-gemini-2-5-reasoning-ai-model)
  - [In an addendum to the GPT-4o system card, OpenAI says it is not blocking the image generation of adult public figures and that public figures can opt out &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250325/p36#a250325p36)
- - [“This man is not our boss” — EPA workers rally against DOGE cuts](https://www.theverge.com/news/635710/doge-musk-trump-environmental-protection-agency-epa)
- - [Nosferatu and some of our favorite movies are buy two, get one free today](https://www.theverge.com/tech/635610/4k-blu-ray-dvd-bogo-amazon-big-spring-sale-2025)<!-- TECH:END -->
+ - [“This man is not our boss” — EPA workers rally against DOGE cuts](https://www.theverge.com/news/635710/doge-musk-trump-environmental-protection-agency-epa)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

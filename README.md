@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India&#39;s Finance Minister says the country will scrap a 6% tax on digital advertisements, easing costs for US tech giants, as a way of soothing US trade concerns &lpar;Reuters&rpar;](http://www.techmeme.com/250325/p20#a250325p20)
+ - [Since DeepSeek-R1&#39;s debut, Chinese companies like Baidu, DeepSeek, Tencent, Ant, and Alibaba have been flooding the market with low cost AI services and models &lpar;Bloomberg&rpar;](http://www.techmeme.com/250325/p19#a250325p19)
+ - [Trump Admin Plans to Cut Team Responsible for Critical Atomic Measurement Data](https://www.wired.com/story/nist-doge-layoffs-atomic-spectroscopy/)
  - [Professional DJs can now use Apple Music tracks directly](https://appleinsider.com/articles/25/03/25/professional-djs-can-now-use-apple-music-tracks-directly?utm_medium=rss)
- - [M3 iPad Air review: Same great do-it-all iPad with a faster chip](https://appleinsider.com/articles/25/03/25/m3-ipad-air-review-same-great-do-it-all-ipad-with-a-faster-chip?utm_medium=rss)
- - [Apple says it’ll use Apple Maps Look Around photos to train AI](https://www.theverge.com/news/635316/apple-maps-look-around-photos-apple-intelligence-training)
- - [Apple Music Classical gets three new features to aid discovery &amp; learning](https://appleinsider.com/articles/25/03/25/apple-music-classical-gets-three-new-features-to-aid-discovery-learning?utm_medium=rss)
- - [Spruce up your smart home this spring with up to 30% off Aqara cameras, locks &amp; sensors](https://appleinsider.com/articles/25/03/25/spruce-up-your-smart-home-this-spring-with-up-to-30-off-aqara-cameras-locks-sensors?utm_medium=rss)<!-- TECH:END -->
+ - [M3 iPad Air review: Same great do-it-all iPad with a faster chip](https://appleinsider.com/articles/25/03/25/m3-ipad-air-review-same-great-do-it-all-ipad-with-a-faster-chip?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

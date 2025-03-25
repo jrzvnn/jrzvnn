@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia’s AI assistant is here to optimize your gaming PC](https://www.theverge.com/news/635155/nvidia-g-assist-ai-assistant-available-download)
  - [Interviews with 24+ US government workers show many embraced Signal after Trump&#39;s return to office as a tactic to shield communications, impacting transparency &lpar;Washington Post&rpar;](http://www.techmeme.com/250325/p9#a250325p9)
  - [Internal TikTok memo: Blake Chandlee, who oversaw TikTok&#39;s ad sales globally, is moving to an advisory role; TikTok faces an April 5 deadline for a US sale &lpar;Bloomberg&rpar;](http://www.techmeme.com/250325/p8#a250325p8)
  - [‘Over 1 Million’ People Wanted a Cybertruck. Where Are They?](https://www.wired.com/story/where-did-the-one-million-people-who-wanted-a-cybertruck-go/)
- - [Binance suspends an employee for allegedly using insider information to sell tokens for significant profits; X users suggest the project was the memecoin UUU &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/250325/p7#a250325p7)
- - [RISC Architecture Really Did Change Everything](https://www.wired.com/story/angelina-jolie-was-right-about-risc-architecture/)<!-- TECH:END -->
+ - [Binance suspends an employee for allegedly using insider information to sell tokens for significant profits; X users suggest the project was the memecoin UUU &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/250325/p7#a250325p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

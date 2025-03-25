@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cool hobby](http://9gag.com/gag/aO8Z79M)
- - 😝 [I don&#39;t make the rules](http://9gag.com/gag/avy6oKM)
- - 💣 [Mars\u2014140 million miles from Earth. And yet, thanks to NASA, we\u2019re seeing it like it\u2019s just around the corner. Sound on!](http://9gag.com/gag/an725r5)
- - 😝 [I was there Gandalf....](http://9gag.com/gag/ae9ZDYO)
- - 👉 [Finally.. Someone opened!!](http://9gag.com/gag/awy1oAQ)<!-- MEMES:END -->
+ - 😝 [A happy misunderstanding](http://9gag.com/gag/aLn483V)
+ - 😝 [American aircraft carrier off the coast of Hodeida, Yemen.](http://9gag.com/gag/aLn48Vz)
+ - 💣 [What is going on here?](http://9gag.com/gag/a4PNRQv)
+ - 😝 [The kick from Chuck Norris sounds like a gunshot](http://9gag.com/gag/aryXVGy)
+ - 👉 [Wtf you done today cap?](http://9gag.com/gag/a8708v1)<!-- MEMES:END -->
 
 ---
 

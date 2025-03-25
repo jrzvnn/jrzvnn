@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I need your nopest gif. I know I&#39;ll regret it \ud805\udc03](http://9gag.com/gag/aVvKYdv)
+ - 😝 [The kick from Chuck Norris sounds like a gunshot](http://9gag.com/gag/aryXVGy)
+ - 💣 [That was awesome](http://9gag.com/gag/amo6742)
  - 😝 [Insane and evil](http://9gag.com/gag/azxKmpN)
- - 😝 [I can&#39;t wait for ozempic to cause sudden heart attacks and clean up all the hypocrites](http://9gag.com/gag/amo6BEj)
- - 💣 [New milestone for AC Shadows](http://9gag.com/gag/avy6oZE)
- - 😝 [Turkish Hairlines sponsored](http://9gag.com/gag/aGyBdWz)
- - 👉 [I need your nopest gif. I know I&#39;ll regret it \ud805\udc03](http://9gag.com/gag/aVvKYdv)<!-- MEMES:END -->
+ - 👉 [Ghost+ busters](http://9gag.com/gag/aNDQYMG)<!-- MEMES:END -->
 
 ---
 

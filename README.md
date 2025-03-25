@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Assassin&#39;s Creed Shadows Next Gen Traversal Mechanic](http://9gag.com/gag/aByV0zQ)
  - 😝 [Ghost+ busters](http://9gag.com/gag/aNDQYMG)
- - 😝 [Repost #2025.14](http://9gag.com/gag/ae9Zrmj)
- - 💣 [Nice](http://9gag.com/gag/apR6mOE)
+ - 💣 [The kick from Chuck Norris sounds like a gunshot](http://9gag.com/gag/aryXVGy)
  - 😝 [I forgot to take out the trash](http://9gag.com/gag/a9y5EoZ)
- - 👉 [What daughter?](http://9gag.com/gag/a5Qw19g)<!-- MEMES:END -->
+ - 👉 [Nice](http://9gag.com/gag/apR6mOE)<!-- MEMES:END -->
 
 ---
 

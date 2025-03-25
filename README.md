@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TechInsights: the costs of 300mm wafers at TSMC&#39;s Fab 21 near Phoenix, Arizona, are set to be only ~10% higher than those of similar wafers processed in Taiwan &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250325/p14#a250325p14)
  - [Sources: the European Commission is set to close its year-long probe into Apple&#39;s browser options on iOS after the company made changes to comply with the DMA &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250325/p13#a250325p13)
  - [Waymo plans to launch its Waymo One ride-hailing service in Washington, DC in 2026; the city currently prohibits autonomous vehicles without safety drivers &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250325/p12#a250325p12)
  - [Sources: companies like Nvidia and many governments are trying to persuade Trump&#39;s team to loosen incoming AI chip export rules, known as the AI diffusion rule &lpar;Bloomberg&rpar;](http://www.techmeme.com/250325/p11#a250325p11)
- - [Document: India orders Samsung and its executives in the country to pay $601M in back taxes and penalties for dodging tariffs on key telecoms equipment imports &lpar;Reuters&rpar;](http://www.techmeme.com/250325/p10#a250325p10)
- - [This Off-Beat Netflix Sleuth Series Is the Streamer&#39;s Best New Comedy](https://www.cnet.com/tech/services-and-software/this-off-beat-netflix-sleuth-series-is-the-streamers-best-new-comedy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Document: India orders Samsung and its executives in the country to pay $601M in back taxes and penalties for dodging tariffs on key telecoms equipment imports &lpar;Reuters&rpar;](http://www.techmeme.com/250325/p10#a250325p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Binance suspends an employee for allegedly using insider information to sell tokens for significant profits; X users suggest the project was the memecoin UUU &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/250325/p7#a250325p7)
+ - [RISC Architecture Really Did Change Everything](https://www.wired.com/story/angelina-jolie-was-right-about-risc-architecture/)
  - [A profile of veteran Googler Liz Reid, who became Head of Search in March 2024 and rolled out major updates like AI Overviews, as Google competes with ChatGPT &lpar;Bloomberg&rpar;](http://www.techmeme.com/250325/p6#a250325p6)
  - [85 Best Amazon Spring Sale Deals &lpar;2025&rpar;](https://www.wired.com/story/amazon-spring-sale-2025-2/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 25, #183](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-25-183/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for March 25, #387](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-25-387/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for March 25, #1375](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-25-1375/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 25, #183](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-25-183/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

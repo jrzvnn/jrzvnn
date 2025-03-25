@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says its new ‘reasoning’ Gemini AI models are the best ones yet](https://www.theverge.com/news/635502/google-gemini-2-5-reasoning-ai-model)
+ - [In an addendum to the GPT-4o system card, OpenAI says it is not blocking the image generation of adult public figures and that public figures can opt out &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250325/p36#a250325p36)
  - [“This man is not our boss” — EPA workers rally against DOGE cuts](https://www.theverge.com/news/635710/doge-musk-trump-environmental-protection-agency-epa)
  - [Nosferatu and some of our favorite movies are buy two, get one free today](https://www.theverge.com/tech/635610/4k-blu-ray-dvd-bogo-amazon-big-spring-sale-2025)
- - [Sources: Qualcomm has complained to antitrust regulators in the EU, US, and South Korea that Arm is hurting competition by restricting access to its technology &lpar;Bloomberg&rpar;](http://www.techmeme.com/250325/p35#a250325p35)
- - [Game Informer has officially returned](https://www.theverge.com/news/635915/game-informer-return-gunzilla-games)
- - [Best Internet Providers in Mississippi](https://www.cnet.com/home/internet/best-internet-providers-in-mississippi/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Qualcomm has complained to antitrust regulators in the EU, US, and South Korea that Arm is hurting competition by restricting access to its technology &lpar;Bloomberg&rpar;](http://www.techmeme.com/250325/p35#a250325p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

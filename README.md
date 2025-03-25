@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple faces billions in liability from Trump&#39;s TikTok ban delay](https://appleinsider.com/articles/25/03/25/apple-faces-billions-in-liability-from-trumps-tiktok-ban-delay?utm_medium=rss)
+ - [How Roomba got stuck](https://www.theverge.com/the-vergecast/635241/roomba-irobot-trouble-kobo-kindle-vergecast)
+ - [If you try to kill somebody, don&#39;t throw your iPad in the river afterwards](https://appleinsider.com/articles/25/03/25/if-you-try-to-kill-somebody-dont-throw-your-ipad-in-the-river-afterwards?utm_medium=rss)
  - [Amazon’s big spring sale is live, and here are the 50 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
- - [Apple may escape big fine after iPhone browser selection screen changes](https://appleinsider.com/articles/25/03/25/apple-may-escape-big-fine-after-iphone-browser-selection-screen-changes?utm_medium=rss)
- - [AirFly’s wireless headphone dongle adds volume controls and better sound](https://www.theverge.com/news/634582/twelve-south-airfly-pro-2-wireless-headphone-bluetooth-dongle)
- - [Otter’s new AI agent can speak up in meetings](https://www.theverge.com/news/635176/otter-ai-voice-activated-meeting-agent-availability)
- - [3D tech company Infinite Reality buys Napster for $207M; CEO John Acunto says the one-time file-sharing phenomenon will be used for marketing in the metaverse &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250325/p16#a250325p16)<!-- TECH:END -->
+ - [Apple may escape big fine after iPhone browser selection screen changes](https://appleinsider.com/articles/25/03/25/apple-may-escape-big-fine-after-iphone-browser-selection-screen-changes?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

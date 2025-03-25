@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spruce up your smart home this spring with up to 30% off Aqara cameras, locks &amp; sensors](https://appleinsider.com/articles/25/03/25/spruce-up-your-smart-home-this-spring-with-up-to-30-off-aqara-cameras-locks-sensors?utm_medium=rss)
- - [Apple Music is opening its catalog to DJs by integrating with popular DJ software and hardware platforms including Algoriddim&#39;s djay Pro and AlphaTheta &lpar;Michael Burkhardt/9to5Mac&rpar;](http://www.techmeme.com/250325/p18#a250325p18)
- - [Amazon’s big spring sale is live, and here are the 54 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
- - [AI startup Synthesia says it&#39;s creating a $1M stock pool to pay actors with equity for the use of their likeness, a first for the AI industry &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250325/p17#a250325p17)
- - [If you try to kill somebody, don&#39;t throw your iPad in the river afterwards](https://appleinsider.com/articles/25/03/25/if-you-try-to-kill-somebody-dont-throw-your-ipad-in-the-river-afterwards?utm_medium=rss)<!-- TECH:END -->
+ - [Professional DJs can now use Apple Music tracks directly](https://appleinsider.com/articles/25/03/25/professional-djs-can-now-use-apple-music-tracks-directly?utm_medium=rss)
+ - [M3 iPad Air review: Same great do-it-all iPad with a faster chip](https://appleinsider.com/articles/25/03/25/m3-ipad-air-review-same-great-do-it-all-ipad-with-a-faster-chip?utm_medium=rss)
+ - [Apple says it’ll use Apple Maps Look Around photos to train AI](https://www.theverge.com/news/635316/apple-maps-look-around-photos-apple-intelligence-training)
+ - [Apple Music Classical gets three new features to aid discovery &amp; learning](https://appleinsider.com/articles/25/03/25/apple-music-classical-gets-three-new-features-to-aid-discovery-learning?utm_medium=rss)
+ - [Spruce up your smart home this spring with up to 30% off Aqara cameras, locks &amp; sensors](https://appleinsider.com/articles/25/03/25/spruce-up-your-smart-home-this-spring-with-up-to-30-off-aqara-cameras-locks-sensors?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I bet she\u2019s heaps of fun and she loves sports\u2026 Let goofy people be goofy!](http://9gag.com/gag/adBQ8ON)
- - 😝 [It&#39;s that easy](http://9gag.com/gag/aVvK7vy)
- - 💣 [Explain pencils](http://9gag.com/gag/aMVPKX1)
- - 😝 [Me to myself every day](http://9gag.com/gag/aMVPK3R)
- - 👉 [Men only want 1 thing and it&#39;s disgusting](http://9gag.com/gag/aRBMXpG)<!-- MEMES:END -->
+ - 😝 [I forgot to take out the trash](http://9gag.com/gag/a9y5EoZ)
+ - 😝 [Manson showing Manson and Cage to Cage](http://9gag.com/gag/aGyBZBZ)
+ - 💣 [Ghost+ busters](http://9gag.com/gag/aNDQYMG)
+ - 😝 [Nice](http://9gag.com/gag/apR6mOE)
+ - 👉 [Coach yanked player\u2019s ponytail after they lost the game](http://9gag.com/gag/aW4nYA4)<!-- MEMES:END -->
 
 ---
 

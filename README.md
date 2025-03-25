@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finally.. Someone opened!!](http://9gag.com/gag/awy1oAQ)
- - 😝 [Lol.](http://9gag.com/gag/aYQDy0q)
- - 💣 [I bet she\u2019s heaps of fun and she loves sports\u2026 Let goofy people be goofy!](http://9gag.com/gag/adBQ8ON)
- - 😝 [Entitled much!?](http://9gag.com/gag/amo65Gj)
- - 👉 [The BLM shrine is gone, nation is healing.](http://9gag.com/gag/an72Q9q)<!-- MEMES:END -->
+ - 😝 [That was awesome](http://9gag.com/gag/amo6742)
+ - 😝 [Assassin&#39;s Creed Shadows Next Gen Traversal Mechanic](http://9gag.com/gag/aByV0zQ)
+ - 💣 [I need your nopest gif. I know I&#39;ll regret it \ud805\udc03](http://9gag.com/gag/aVvKYdv)
+ - 😝 [The kick from Chuck Norris sounds like a gunshot](http://9gag.com/gag/aryXVGy)
+ - 👉 [Insane and evil](http://9gag.com/gag/azxKmpN)<!-- MEMES:END -->
 
 ---
 

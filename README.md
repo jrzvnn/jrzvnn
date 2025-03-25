@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New milestone for AC Shadows](http://9gag.com/gag/avy6oZE)
- - 😝 [Manson showing Manson and Cage to Cage](http://9gag.com/gag/aGyBZBZ)
- - 💣 [The kick from Chuck Norris sounds like a gunshot](http://9gag.com/gag/aryXVGy)
- - 😝 [What is going on here?](http://9gag.com/gag/a4PNRQv)
- - 👉 [I need your nopest gif. I know I&#39;ll regret it \ud805\udc03](http://9gag.com/gag/aVvKYdv)<!-- MEMES:END -->
+ - 😝 [Word.](http://9gag.com/gag/a7o0W3r)
+ - 😝 [Lol.](http://9gag.com/gag/aYQDy0q)
+ - 💣 [Cool hobby](http://9gag.com/gag/aO8Z79M)
+ - 😝 [Still waiting for her answer](http://9gag.com/gag/a340wR5)
+ - 👉 [Finally.. Someone opened!!](http://9gag.com/gag/awy1oAQ)<!-- MEMES:END -->
 
 ---
 

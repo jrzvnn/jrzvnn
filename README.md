@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sky above Croatia right now.](http://9gag.com/gag/abA4GKL)
- - 😝 [A very old video as a reminder to not to be an idiot](http://9gag.com/gag/a4PNRvZ)
- - 💣 [Nice](http://9gag.com/gag/apR6mOE)
- - 😝 [Manson showing Manson and Cage to Cage](http://9gag.com/gag/aGyBZBZ)
- - 👉 [A reminder that 35 years ago Homer was considered comically obese at this weight \u2696\ufe0f](http://9gag.com/gag/an72Qb0)<!-- MEMES:END -->
+ - 😝 [Explain pencils](http://9gag.com/gag/aMVPKX1)
+ - 😝 [Second best](http://9gag.com/gag/aLn412g)
+ - 💣 [D-Day](http://9gag.com/gag/aYQDr62)
+ - 😝 [Perfection](http://9gag.com/gag/aD28d5w)
+ - 👉 [I wish I were half the man HE is](http://9gag.com/gag/apR6NAp)<!-- MEMES:END -->
 
 ---
 

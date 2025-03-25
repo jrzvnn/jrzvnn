@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [31 year old Indiana teacher accused of r*ping her students including an instance where she forced 3 underaged boys to have s*x with her while wearing Scream masks.](http://9gag.com/gag/apR62pE)
- - 😝 [Bro&#39;s about to begin his Gym Arc.....](http://9gag.com/gag/a9y5p71)
- - 💣 [I can&#39;t wait for ozempic to cause sudden heart attacks and clean up all the hypocrites](http://9gag.com/gag/amo6BEj)
- - 😝 [Turkish Hairlines sponsored](http://9gag.com/gag/aGyBdWz)
- - 👉 [Repost #2025.14](http://9gag.com/gag/ae9Zrmj)<!-- MEMES:END -->
+ - 😝 [Black people celebrating OJ&#39;s verdict in 1995 while white people look upon in shock that an obvious murderer would be acquitted](http://9gag.com/gag/aNDQYVw)
+ - 😝 [I need your nopest gif. I know I&#39;ll regret it \ud805\udc03](http://9gag.com/gag/aVvKYdv)
+ - 💣 [Bro&#39;s about to begin his Gym Arc.....](http://9gag.com/gag/a9y5p71)
+ - 😝 [Repost #2025.14](http://9gag.com/gag/ae9Zrmj)
+ - 👉 [The kick from Chuck Norris sounds like a gunshot](http://9gag.com/gag/aryXVGy)<!-- MEMES:END -->
 
 ---
 

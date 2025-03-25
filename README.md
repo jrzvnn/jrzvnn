@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ripple says it agreed to settle a US SEC civil lawsuit over the alleged sale of unregistered securities and pay just $50M of a previously imposed $125M fine &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250325/p33#a250325p33)
- - [Amazon’s big spring sale is live, and here are the 62 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
- - [Nielsen: YouTube was the #1 TV distributor in February, making up 11.6% of all US TV; viewers over age 50 accounted for 36% of time spent watching YouTube on TV &lpar;Rick Porter/The Hollywood Reporter&rpar;](http://www.techmeme.com/250325/p32#a250325p32)
- - [An internal NSA memo from February warned staff a vulnerability was identified in Signal and advised against using third-party apps to share sensitive info &lpar;James Laporta/CBS News&rpar;](http://www.techmeme.com/250325/p31#a250325p31)
- - [Databricks Has a Trick That Lets AI Models Improve Themselves](https://www.wired.com/story/databricks-has-a-trick-that-lets-ai-models-improve-themselves/)<!-- TECH:END -->
+ - [Sources: Qualcomm has complained to antitrust regulators in the EU, US, and South Korea that Arm is hurting competition by restricting access to its technology &lpar;Bloomberg&rpar;](http://www.techmeme.com/250325/p35#a250325p35)
+ - [Game Informer has officially returned](https://www.theverge.com/news/635915/game-informer-return-gunzilla-games)
+ - [Latest iOS 19 redesign rumor hinges on sketchy iMessage mockup](https://appleinsider.com/articles/25/03/25/latest-ios-19-redesign-rumor-hinges-on-sketchy-imessage-mockup?utm_medium=rss)
+ - [AT&amp;#038;T is slashing its autopay and paperless billing discounts](https://www.theverge.com/news/635903/att-autopay-paperless-billing-reduce-discounts)
+ - [GameStop says its board has unanimously approved a plan to buy bitcoin with its corporate cash, and it hasn&#39;t set a ceiling on how much bitcoin it may purchase &lpar;Yun Li/CNBC&rpar;](http://www.techmeme.com/250325/p34#a250325p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

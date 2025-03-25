@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Still waiting for her answer](http://9gag.com/gag/a340wR5)
- - 😝 [Lol.](http://9gag.com/gag/aYQDy0q)
- - 💣 [It&#39;s that easy](http://9gag.com/gag/aVvK7vy)
- - 😝 [The BLM shrine is gone, nation is healing.](http://9gag.com/gag/an72Q9q)
- - 👉 [Finally.. Someone opened!!](http://9gag.com/gag/awy1oAQ)<!-- MEMES:END -->
+ - 😝 [That was awesome](http://9gag.com/gag/amo6742)
+ - 😝 [Nice](http://9gag.com/gag/apR6mOE)
+ - 💣 [Repost #2025.14](http://9gag.com/gag/ae9Zrmj)
+ - 😝 [Samuel Benner, a farmer from the 1800s, published a book with market analysis on periods of panic, good times to buy, and good times to sell. 150 years later, his analysis has proven to be remarkably accurate.](http://9gag.com/gag/aryXGR6)
+ - 👉 [Ghost+ busters](http://9gag.com/gag/aNDQYMG)<!-- MEMES:END -->
 
 ---
 

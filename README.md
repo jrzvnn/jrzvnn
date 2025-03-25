@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Built like a pixar mom](http://9gag.com/gag/a4PNQVw)
- - 😝 [Decided to go less clothes today](http://9gag.com/gag/aPAoYdK)
- - 💣 [New milestone for AC Shadows](http://9gag.com/gag/avy6oZE)
- - 😝 [A happy misunderstanding](http://9gag.com/gag/aLn483V)
- - 👉 [Bro&#39;s about to begin his Gym Arc.....](http://9gag.com/gag/a9y5p71)<!-- MEMES:END -->
+ - 😝 [The kick from Chuck Norris sounds like a gunshot](http://9gag.com/gag/aryXVGy)
+ - 😝 [What is going on here?](http://9gag.com/gag/a4PNRQv)
+ - 💣 [Bro&#39;s about to begin his Gym Arc.....](http://9gag.com/gag/a9y5p71)
+ - 😝 [Black people celebrating OJ&#39;s verdict in 1995 while white people look upon in shock that an obvious murderer would be acquitted](http://9gag.com/gag/aNDQYVw)
+ - 👉 [I can fix her](http://9gag.com/gag/a6Z5Nom)<!-- MEMES:END -->
 
 ---
 

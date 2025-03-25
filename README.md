@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ripple says it agreed to settle a US SEC civil lawsuit over the alleged sale of unregistered securities and pay just $50M of a previously imposed $125M fine &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250325/p33#a250325p33)
  - [Amazon’s big spring sale is live, and here are the 62 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
  - [Nielsen: YouTube was the #1 TV distributor in February, making up 11.6% of all US TV; viewers over age 50 accounted for 36% of time spent watching YouTube on TV &lpar;Rick Porter/The Hollywood Reporter&rpar;](http://www.techmeme.com/250325/p32#a250325p32)
- - [An internal NSA memo from February warned staff a &quot;vulnerability has been identified&quot; in Signal and warned not to use third-party apps to share sensitive info &lpar;James Laporta/CBS News&rpar;](http://www.techmeme.com/250325/p31#a250325p31)
- - [Databricks Has a Trick That Lets AI Models Improve Themselves](https://www.wired.com/story/databricks-has-a-trick-that-lets-ai-models-improve-themselves/)
- - [The Kindle Colorsoft is now a far better deal thanks to Amazon’s Big Spring Sale](https://www.theverge.com/tech/635652/amazon-kindle-colorsoft-e-reader-deal-big-spring-sale-2025)<!-- TECH:END -->
+ - [An internal NSA memo from February warned staff a vulnerability was identified in Signal and advised against using third-party apps to share sensitive info &lpar;James Laporta/CBS News&rpar;](http://www.techmeme.com/250325/p31#a250325p31)
+ - [Databricks Has a Trick That Lets AI Models Improve Themselves](https://www.wired.com/story/databricks-has-a-trick-that-lets-ai-models-improve-themselves/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

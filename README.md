@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia’s AI assistant is here to optimize your gaming PC](https://www.theverge.com/news/635155/nvidia-g-assist-ai-assistant-available-download)
- - [Interviews with 24+ US government workers show many embraced Signal after Trump&#39;s return to office as a tactic to shield communications, impacting transparency &lpar;Washington Post&rpar;](http://www.techmeme.com/250325/p9#a250325p9)
- - [Internal TikTok memo: Blake Chandlee, who oversaw TikTok&#39;s ad sales globally, is moving to an advisory role; TikTok faces an April 5 deadline for a US sale &lpar;Bloomberg&rpar;](http://www.techmeme.com/250325/p8#a250325p8)
- - [‘Over 1 Million’ People Wanted a Cybertruck. Where Are They?](https://www.wired.com/story/where-did-the-one-million-people-who-wanted-a-cybertruck-go/)
- - [Binance suspends an employee for allegedly using insider information to sell tokens for significant profits; X users suggest the project was the memecoin UUU &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/250325/p7#a250325p7)<!-- TECH:END -->
+ - [Sources: companies like Nvidia and many governments are trying to persuade Trump&#39;s team to loosen incoming AI chip export rules, known as the AI diffusion rule &lpar;Bloomberg&rpar;](http://www.techmeme.com/250325/p11#a250325p11)
+ - [Document: India orders Samsung and its executives in the country to pay $601M in back taxes and penalties for dodging tariffs on key telecoms equipment imports &lpar;Reuters&rpar;](http://www.techmeme.com/250325/p10#a250325p10)
+ - [Inside Silicon Valley’s Invite-Only IRL Dating Scene](https://www.wired.com/story/silicon-valley-invitation-only-irl-dating/)
+ - [Waymo plans robotaxi launch in Washington, DC in 2026](https://www.theverge.com/news/634955/waymo-washington-dc-robotaxi-launch-2026)
+ - [Nvidia’s AI assistant is here to optimize your gaming PC](https://www.theverge.com/news/635155/nvidia-g-assist-ai-assistant-available-download)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

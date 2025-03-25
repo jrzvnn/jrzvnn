@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Black people celebrating OJ&#39;s verdict in 1995 while white people look upon in shock that an obvious murderer would be acquitted](http://9gag.com/gag/aNDQYVw)
- - 😝 [Bro&#39;s about to begin his Gym Arc.....](http://9gag.com/gag/a9y5p71)
- - 💣 [I watched The Miniaturist for the plot](http://9gag.com/gag/aW4nEE6)
- - 😝 [Demineralized water?](http://9gag.com/gag/aXPVx96)
- - 👉 [New milestone for AC Shadows](http://9gag.com/gag/avy6oZE)<!-- MEMES:END -->
+ - 😝 [I don&#39;t make the rules](http://9gag.com/gag/avy6oKM)
+ - 😝 [Cool hobby](http://9gag.com/gag/aO8Z79M)
+ - 💣 [I was there Gandalf....](http://9gag.com/gag/ae9ZDYO)
+ - 😝 [Mars\u2014140 million miles from Earth. And yet, thanks to NASA, we\u2019re seeing it like it\u2019s just around the corner. Sound on!](http://9gag.com/gag/an725r5)
+ - 👉 [Finally.. Someone opened!!](http://9gag.com/gag/awy1oAQ)<!-- MEMES:END -->
 
 ---
 

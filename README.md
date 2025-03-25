@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [“This man is not our boss” — EPA workers rally against DOGE cuts](https://www.theverge.com/news/635710/doge-musk-trump-environmental-protection-agency-epa)
  - [Nosferatu and some of our favorite movies are buy two, get one free today](https://www.theverge.com/tech/635610/4k-blu-ray-dvd-bogo-amazon-big-spring-sale-2025)
  - [Sources: Qualcomm has complained to antitrust regulators in the EU, US, and South Korea that Arm is hurting competition by restricting access to its technology &lpar;Bloomberg&rpar;](http://www.techmeme.com/250325/p35#a250325p35)
  - [Game Informer has officially returned](https://www.theverge.com/news/635915/game-informer-return-gunzilla-games)
- - [Latest iOS 19 redesign rumor hinges on sketchy iMessage mockup](https://appleinsider.com/articles/25/03/25/latest-ios-19-redesign-rumor-hinges-on-sketchy-imessage-mockup?utm_medium=rss)
- - [AT&amp;#038;T is slashing its autopay and paperless billing discounts](https://www.theverge.com/news/635903/att-autopay-paperless-billing-reduce-discounts)<!-- TECH:END -->
+ - [Best Internet Providers in Mississippi](https://www.cnet.com/home/internet/best-internet-providers-in-mississippi/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

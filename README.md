@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung says its co-CEO Han Jong-hee has died at 63 from cardiac arrest &lpar;Reuters&rpar;](http://www.techmeme.com/250324/p31#a250324p31)
- - [Trump Officials in Signal Fiasco Attended Secret Mar-a-Lago Dinner Shortly After Celebrating Bombing](https://www.wired.com/story/trump-officials-signal-chat-candlelight-dinner-mar-a-lago-yemen/)
- - [Act Before They’re Gone, Dozens of 4K Blu-Ray Sets Are $30 off or More During Amazon’s Spring Sale](https://www.cnet.com/tech/prep-for-your-next-movie-night-with-dozens-of-cheap-4k-blu-rays-during-amazons-spring-sale/#ftag=CAD590a51e)
- - [The Atlantic EIC was accidentally added to a Signal group chat with Trump officials about war plans; Signal isn&#39;t approved for sharing classified information &lpar;Jeffrey Goldberg/The Atlantic&rpar;](http://www.techmeme.com/250324/p30#a250324p30)
- - [Best Internet Providers in Santa Clarita, California](https://www.cnet.com/home/internet/best-internet-providers-in-santa-clarita-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chinese AI startups revamp business models after DeepSeek&#39;s rise; sources: Zhipu eyes IPO, 01.ai drops pre-training LLMs to sell apps using DeepSeek, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/250324/p33#a250324p33)
+ - [Apple seeds release candidates for iOS 18.4, macOS 15.4](https://appleinsider.com/articles/25/03/24/apple-seeds-release-candidates-for-ios-184-macos-154?utm_medium=rss)
+ - [Apple finally brings lossless audio and low-latency audio to AirPods Max](https://appleinsider.com/articles/25/03/24/apple-finally-brings-lossless-audio-and-low-latency-audio-to-airpods-max?utm_medium=rss)
+ - [OpenAI updates Advanced Voice Mode to make ChatGPT &quot;more direct, engaging, concise, specific, and creative&quot; for paying users, and interrupt all users less often &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250324/p32#a250324p32)
+ - [Samsung says its co-CEO Han Jong-hee has died at 63 from cardiac arrest &lpar;Reuters&rpar;](http://www.techmeme.com/250324/p31#a250324p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

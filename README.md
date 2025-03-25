@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Internal TikTok memo: Blake Chandlee, who oversaw TikTok&#39;s ad sales globally, is moving to an advisory role; TikTok faces an April 5 deadline for a US sale &lpar;Bloomberg&rpar;](http://www.techmeme.com/250325/p8#a250325p8)
+ - [‘Over 1 Million’ People Wanted a Cybertruck. Where Are They?](https://www.wired.com/story/where-did-the-one-million-people-who-wanted-a-cybertruck-go/)
  - [Binance suspends an employee for allegedly using insider information to sell tokens for significant profits; X users suggest the project was the memecoin UUU &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/250325/p7#a250325p7)
  - [RISC Architecture Really Did Change Everything](https://www.wired.com/story/angelina-jolie-was-right-about-risc-architecture/)
- - [A profile of veteran Googler Liz Reid, who became Head of Search in March 2024 and rolled out major updates like AI Overviews, as Google competes with ChatGPT &lpar;Bloomberg&rpar;](http://www.techmeme.com/250325/p6#a250325p6)
- - [85 Best Amazon Spring Sale Deals &lpar;2025&rpar;](https://www.wired.com/story/amazon-spring-sale-2025-2/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 25, #183](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-25-183/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of veteran Googler Liz Reid, who became Head of Search in March 2024 and rolled out major updates like AI Overviews, as Google competes with ChatGPT &lpar;Bloomberg&rpar;](http://www.techmeme.com/250325/p6#a250325p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

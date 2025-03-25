@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the 25-year-old CVE program, which assigns unique IDs to flaws; 413 orgs now report CVEs, with 40K+ reported in 2024, pushing the total past 270K &lpar;Cynthia Brumfield/CyberScoop&rpar;](http://www.techmeme.com/250325/p4#a250325p4)
  - [A look at Apple&#39;s strategy missteps with TV+, including trying to rival Netflix by building a platform from scratch, using TV+ to boost device sales, and more &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/250325/p3#a250325p3)
  - [Alibaba releases Qwen2.5-VL-32B, a 32B open model under Apache 2.0, claims better alignment with human preferences and math reasoning than earlier 2.5 VL models &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250325/p2#a250325p2)
  - [Some EU orgs weigh using Amazon, Google, and Microsoft cloud services over privacy fears under Trump; two European cloud providers say this is driving interest &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/250325/p1#a250325p1)
- - [Apple Watch could gain cameras for Visual Intelligence](https://appleinsider.com/articles/25/03/23/apple-watch-could-gain-cameras-to-improve-ai-features?utm_medium=rss)
- - [Alibaba Chairman Joe Tsai warns of a data center bubble, saying the buildout may outpace early AI demand and is starting to look indiscriminate &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250324/p35#a250324p35)<!-- TECH:END -->
+ - [Apple Watch could gain cameras for Visual Intelligence](https://appleinsider.com/articles/25/03/23/apple-watch-could-gain-cameras-to-improve-ai-features?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

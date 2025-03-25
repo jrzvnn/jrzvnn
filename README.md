@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon&#39;s Big Spring Sale starts now, save up to $400 on Apple products](https://appleinsider.com/articles/25/03/25/amazons-big-spring-sale-starts-now-save-up-to-400-on-apple-products?utm_medium=rss)
  - [A look at the 25-year-old CVE program, which assigns unique IDs to flaws; 413 orgs now report CVEs, with 40K+ reported in 2024, pushing the total past 270K &lpar;Cynthia Brumfield/CyberScoop&rpar;](http://www.techmeme.com/250325/p4#a250325p4)
  - [A look at Apple&#39;s strategy missteps with TV+, including trying to rival Netflix by building a platform from scratch, using TV+ to boost device sales, and more &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/250325/p3#a250325p3)
  - [Alibaba releases Qwen2.5-VL-32B, a 32B open model under Apache 2.0, claims better alignment with human preferences and math reasoning than earlier 2.5 VL models &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250325/p2#a250325p2)
- - [Some EU orgs weigh using Amazon, Google, and Microsoft cloud services over privacy fears under Trump; two European cloud providers say this is driving interest &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/250325/p1#a250325p1)
- - [Apple Watch could gain cameras for Visual Intelligence](https://appleinsider.com/articles/25/03/23/apple-watch-could-gain-cameras-to-improve-ai-features?utm_medium=rss)<!-- TECH:END -->
+ - [Some EU orgs weigh using Amazon, Google, and Microsoft cloud services over privacy fears under Trump; two European cloud providers say this is driving interest &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/250325/p1#a250325p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

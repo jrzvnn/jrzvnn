@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [If you try to kill somebody, don&#39;t throw your iPad in the river afterwards](https://appleinsider.com/articles/25/03/25/if-you-try-to-kill-somebody-dont-throw-your-ipad-in-the-river-afterwards?utm_medium=rss)
+ - [Samsung TV owners can finally get better 4K HDR on Netflix](https://www.theverge.com/news/635280/netflix-hdr10-plus-support-samsung-tvs)
  - [Ticketmaster may have violated consumer protection laws](https://www.theverge.com/news/635236/ticketmaster-oasis-investigation-action)
  - [The Bambu H2D isn’t just a bigger 3D printer — it’s a laser cutter, pen plotter, and Cricut competitor too](https://www.theverge.com/news/634294/bambu-lab-h2d-3d-printer-laser-pen-blade-price-release-date)
- - [Apple faces billions in liability from Trump&#39;s TikTok ban delay](https://appleinsider.com/articles/25/03/25/apple-faces-billions-in-liability-from-trumps-tiktok-ban-delay?utm_medium=rss)
- - [How Roomba got stuck](https://www.theverge.com/the-vergecast/635241/roomba-irobot-trouble-kobo-kindle-vergecast)
- - [If you try to kill somebody, don&#39;t throw your iPad in the river afterwards](https://appleinsider.com/articles/25/03/25/if-you-try-to-kill-somebody-dont-throw-your-ipad-in-the-river-afterwards?utm_medium=rss)<!-- TECH:END -->
+ - [Apple faces billions in liability from Trump&#39;s TikTok ban delay](https://appleinsider.com/articles/25/03/25/apple-faces-billions-in-liability-from-trumps-tiktok-ban-delay?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

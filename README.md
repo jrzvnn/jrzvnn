@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta rolls out a pilot program on Instagram designed to let US schools flag any potentially rule-violating post or account for prioritized review &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250325/p27#a250325p27)
+ - [Amazon’s big spring sale is live, and here are the 60 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
  - [Apple is reportedly investing heavily into Nvidia servers for AI development](https://appleinsider.com/articles/25/03/25/apple-is-reportedly-investing-heavily-into-nvidia-servers-for-ai-development?utm_medium=rss)
  - [How to apply to attend WWDC 2025 in person](https://appleinsider.com/inside/wwdc/tips/how-to-apply-to-attend-wwdc-2025-in-person?utm_medium=rss)
- - [Samsung&amp;#8217;s 3D Odyssey monitor is now available to reserve, and it might cost $2,000](https://www.theverge.com/news/635554/samsung-odyssey-3d-monitor-pricing-preorder)
- - [WWDC will be on June 9 with iOS 19, Apple Intelligence updates, and more](https://appleinsider.com/articles/25/03/25/wwdc-will-be-on-june-9-and-bring-apple-intelligence-updates?utm_medium=rss)
- - [Amazon Big Spring Sale: Samsung monitors, Thunderbolt docks are up to $300 off](https://appleinsider.com/articles/25/03/25/amazon-big-spring-sale-samsung-monitors-thunderbolt-docks-are-up-to-300-off?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung&amp;#8217;s 3D Odyssey monitor is now available to reserve, and it might cost $2,000](https://www.theverge.com/news/635554/samsung-odyssey-3d-monitor-pricing-preorder)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

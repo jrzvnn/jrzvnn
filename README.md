@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump&#39;s World Liberty Financial unveils USD1, a 1:1 USD-pegged stablecoin on Ethereum and Binance Smart Chain, with BitGo as custodian; its launch date is TBA &lpar;Bloomberg&rpar;](http://www.techmeme.com/250325/p21#a250325p21)
+ - [Sony brings more premium features to its budget wireless earbuds](https://www.theverge.com/news/634731/sony-wf-c710n-wireless-earbuds-bluetooth-headphones)
+ - [Instagram is giving schools a faster way to get students’ posts taken down](https://www.theverge.com/news/634977/instagram-school-partners-prioritize-reports)
  - [The Trump administration axes funding for climate impacts on health research](https://www.theverge.com/news/635322/health-climate-change-funding-trump-nih-hhs)
- - [Tesla Takedown: all the news about the protests roiling the automaker](https://www.theverge.com/news/635249/tesla-takedown-protest-stock-elon-musk-future)
- - [Amazon’s big spring sale is live, and here are the 56 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
- - [India&#39;s Finance Minister says the country will scrap a 6% tax on digital advertisements, easing costs for US tech giants, as a way of soothing US trade concerns &lpar;Reuters&rpar;](http://www.techmeme.com/250325/p20#a250325p20)
- - [Since DeepSeek-R1&#39;s debut, Chinese companies like Baidu, DeepSeek, Tencent, Ant, and Alibaba have been flooding the market with low cost AI services and models &lpar;Bloomberg&rpar;](http://www.techmeme.com/250325/p19#a250325p19)<!-- TECH:END -->
+ - [Tesla Takedown: all the news about the protests roiling the automaker](https://www.theverge.com/news/635249/tesla-takedown-protest-stock-elon-musk-future)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

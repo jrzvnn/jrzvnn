@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TechInsights: the costs of 300mm wafers at TSMC&#39;s Fab 21 near Phoenix, Arizona, are set to be only ~10% higher than those of similar wafers processed in Taiwan &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250325/p14#a250325p14)
- - [Sources: the European Commission is set to close its year-long probe into Apple&#39;s browser options on iOS after the company made changes to comply with the DMA &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250325/p13#a250325p13)
- - [Waymo plans to launch its Waymo One ride-hailing service in Washington, DC in 2026; the city currently prohibits autonomous vehicles without safety drivers &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250325/p12#a250325p12)
- - [Sources: companies like Nvidia and many governments are trying to persuade Trump&#39;s team to loosen incoming AI chip export rules, known as the AI diffusion rule &lpar;Bloomberg&rpar;](http://www.techmeme.com/250325/p11#a250325p11)
- - [Document: India orders Samsung and its executives in the country to pay $601M in back taxes and penalties for dodging tariffs on key telecoms equipment imports &lpar;Reuters&rpar;](http://www.techmeme.com/250325/p10#a250325p10)<!-- TECH:END -->
+ - [3D tech company Infinite Reality buys Napster for $207M; CEO John Acunto says the one-time file-sharing phenomenon will be used for marketing in the metaverse &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250325/p16#a250325p16)
+ - [Sources: AI chipmaker Cerebras&#39; IPO, in limbo for months, is delayed while Trump fills key roles and CFIUS reviews Abu Dhabi-based G42&#39;s $335M investment &lpar;Reuters&rpar;](http://www.techmeme.com/250325/p15#a250325p15)
+ - [A Powerbook G4 is barely fast enough to run a large language model](https://appleinsider.com/articles/25/03/25/a-powerbook-g4-is-barely-fast-enough-to-run-a-large-language-model?utm_medium=rss)
+ - [Lenovo ThinkPad X9 14 Aura Edition Review: No More TrackPoint](https://www.wired.com/review/lenovo-thinkpad-x9-14-aura-edition/)
+ - [Apple TV+ spends millions to hire &#39;F1&#39; team for UFO thriller](https://appleinsider.com/articles/25/03/25/apple-tv-spends-millions-to-hire-f1-team-for-ufo-thriller?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

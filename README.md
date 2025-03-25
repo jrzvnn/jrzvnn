@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lol.](http://9gag.com/gag/aYQDy0q)
- - 😝 [Entitled much!?](http://9gag.com/gag/amo65Gj)
- - 💣 [I bet she\u2019s heaps of fun and she loves sports\u2026 Let goofy people be goofy!](http://9gag.com/gag/adBQ8ON)
- - 😝 [The BLM shrine is gone, nation is healing.](http://9gag.com/gag/an72Q9q)
- - 👉 [It&#39;s that easy](http://9gag.com/gag/aVvK7vy)<!-- MEMES:END -->
+ - 😝 [The kick from Chuck Norris sounds like a gunshot](http://9gag.com/gag/aryXVGy)
+ - 😝 [Game of the year](http://9gag.com/gag/ayN6emb)
+ - 💣 [Assassin&#39;s Creed Shadows Next Gen Traversal Mechanic](http://9gag.com/gag/aByV0zQ)
+ - 😝 [Manson showing Manson and Cage to Cage](http://9gag.com/gag/aGyBZBZ)
+ - 👉 [Nice](http://9gag.com/gag/apR6mOE)<!-- MEMES:END -->
 
 ---
 

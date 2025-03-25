@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple may escape big fine after iPhone browser selection screen changes](https://appleinsider.com/articles/25/03/25/apple-may-escape-big-fine-after-iphone-browser-selection-screen-changes?utm_medium=rss)
+ - [AirFly’s wireless headphone dongle adds volume controls and better sound](https://www.theverge.com/news/634582/twelve-south-airfly-pro-2-wireless-headphone-bluetooth-dongle)
+ - [Otter’s new AI agent can speak up in meetings](https://www.theverge.com/news/635176/otter-ai-voice-activated-meeting-agent-availability)
  - [3D tech company Infinite Reality buys Napster for $207M; CEO John Acunto says the one-time file-sharing phenomenon will be used for marketing in the metaverse &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250325/p16#a250325p16)
- - [Sources: AI chipmaker Cerebras&#39; IPO, in limbo for months, is delayed while Trump fills key roles and CFIUS reviews Abu Dhabi-based G42&#39;s $335M investment &lpar;Reuters&rpar;](http://www.techmeme.com/250325/p15#a250325p15)
- - [A Powerbook G4 is barely fast enough to run a large language model](https://appleinsider.com/articles/25/03/25/a-powerbook-g4-is-barely-fast-enough-to-run-a-large-language-model?utm_medium=rss)
- - [Lenovo ThinkPad X9 14 Aura Edition Review: No More TrackPoint](https://www.wired.com/review/lenovo-thinkpad-x9-14-aura-edition/)
- - [Apple TV+ spends millions to hire &#39;F1&#39; team for UFO thriller](https://appleinsider.com/articles/25/03/25/apple-tv-spends-millions-to-hire-f1-team-for-ufo-thriller?utm_medium=rss)<!-- TECH:END -->
+ - [Best Internet Providers in Toledo, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-toledo-oh/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

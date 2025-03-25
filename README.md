@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Waymo plans to launch its Waymo One ride-hailing service in Washington, DC in 2026; the city currently prohibits autonomous vehicles without safety drivers &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250325/p12#a250325p12)
  - [Sources: companies like Nvidia and many governments are trying to persuade Trump&#39;s team to loosen incoming AI chip export rules, known as the AI diffusion rule &lpar;Bloomberg&rpar;](http://www.techmeme.com/250325/p11#a250325p11)
  - [Document: India orders Samsung and its executives in the country to pay $601M in back taxes and penalties for dodging tariffs on key telecoms equipment imports &lpar;Reuters&rpar;](http://www.techmeme.com/250325/p10#a250325p10)
  - [Inside Silicon Valley’s Invite-Only IRL Dating Scene](https://www.wired.com/story/silicon-valley-invitation-only-irl-dating/)
- - [Waymo plans robotaxi launch in Washington, DC in 2026](https://www.theverge.com/news/634955/waymo-washington-dc-robotaxi-launch-2026)
- - [Nvidia’s AI assistant is here to optimize your gaming PC](https://www.theverge.com/news/635155/nvidia-g-assist-ai-assistant-available-download)<!-- TECH:END -->
+ - [Waymo plans robotaxi launch in Washington, DC in 2026](https://www.theverge.com/news/634955/waymo-washington-dc-robotaxi-launch-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

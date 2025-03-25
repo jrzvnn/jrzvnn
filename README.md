@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 54 Best Shows on Disney+ Right Now &lpar;April 2025&rpar;](https://www.wired.com/story/best-shows-disney-plus/)
  - [WWDC will be on June 9 with iOS 19, Apple Intelligence updates, and more](https://appleinsider.com/articles/25/03/25/wwdc-will-be-on-june-9-and-bring-apple-intelligence-updates?utm_medium=rss)
  - [Anker’s ‘InstaCord’ battery with dual retractable USB-C cables is 20 percent off](https://www.theverge.com/tech/635498/anker-laptop-power-bank-usb-c-deal-amazon-big-spring-sale-2025)
  - [GM-backed &amp;#8216;coast-to-coast&amp;#8217; EV charging network grows to 130 locations](https://www.theverge.com/news/635641/gm-evgo-pilot-truck-stop-ev-charging-network-expansion-i75)
- - [OpenAI rolls out image generation powered by GPT-4o to ChatGPT &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/250325/p29#a250325p29)
- - [Why I love the Calligraphr font-creation app](https://www.theverge.com/tech/634904/calligraphr-fonts-favorites)<!-- TECH:END -->
+ - [OpenAI starts rolling out GPT-4o-powered &quot;Images in ChatGPT&quot; to all tiers including free; OpenAI says it&#39;s a step change above previous image-generating models &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/250325/p29#a250325p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

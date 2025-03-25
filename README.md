@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple is reportedly investing heavily into Nvidia servers for AI development](https://appleinsider.com/articles/25/03/25/apple-is-reportedly-investing-heavily-into-nvidia-servers-for-ai-development?utm_medium=rss)
  - [How to apply to attend WWDC 2025 in person](https://appleinsider.com/inside/wwdc/tips/how-to-apply-to-attend-wwdc-2025-in-person?utm_medium=rss)
  - [Samsung&amp;#8217;s 3D Odyssey monitor is now available to reserve, and it might cost $2,000](https://www.theverge.com/news/635554/samsung-odyssey-3d-monitor-pricing-preorder)
  - [WWDC will be on June 9 with iOS 19, Apple Intelligence updates, and more](https://appleinsider.com/articles/25/03/25/wwdc-will-be-on-june-9-and-bring-apple-intelligence-updates?utm_medium=rss)
- - [Amazon Big Spring Sale: Samsung monitors, Thunderbolt docks are up to $300 off](https://appleinsider.com/articles/25/03/25/amazon-big-spring-sale-samsung-monitors-thunderbolt-docks-are-up-to-300-off?utm_medium=rss)
- - [Apple announces WWDC 2025 for June 9-13, which will be an &quot;entirely online&quot; event free for developers, with an in-person special event at Apple Park on June 9 &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250325/p26#a250325p26)<!-- TECH:END -->
+ - [Amazon Big Spring Sale: Samsung monitors, Thunderbolt docks are up to $300 off](https://appleinsider.com/articles/25/03/25/amazon-big-spring-sale-samsung-monitors-thunderbolt-docks-are-up-to-300-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

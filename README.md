@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Still waiting for her answer](http://9gag.com/gag/a340wR5)
  - 😝 [Lol.](http://9gag.com/gag/aYQDy0q)
- - 😝 [My desk buddies](http://9gag.com/gag/a2v07yZ)
- - 💣 [Cool hobby](http://9gag.com/gag/aO8Z79M)
+ - 💣 [It&#39;s that easy](http://9gag.com/gag/aVvK7vy)
  - 😝 [The BLM shrine is gone, nation is healing.](http://9gag.com/gag/an72Q9q)
- - 👉 [Still waiting for her answer](http://9gag.com/gag/a340wR5)<!-- MEMES:END -->
+ - 👉 [Finally.. Someone opened!!](http://9gag.com/gag/awy1oAQ)<!-- MEMES:END -->
 
 ---
 

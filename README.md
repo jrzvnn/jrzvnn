@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Databricks Has a Trick That Lets AI Models Improve Themselves](https://www.wired.com/story/databricks-has-a-trick-that-lets-ai-models-improve-themselves/)
  - [The Kindle Colorsoft is now a far better deal thanks to Amazon’s Big Spring Sale](https://www.theverge.com/tech/635652/amazon-kindle-colorsoft-e-reader-deal-big-spring-sale-2025)
  - [Waymo plans robotaxi launch in Washington, DC in 2026](https://www.theverge.com/news/634955/waymo-washington-dc-robotaxi-launch-2026)
  - [Apple expands hearing health features to Australia, Brazil, Colombia, Saudi Arabia](https://appleinsider.com/articles/25/03/25/apple-expands-hearing-health-features-to-australia-brazil-colombia-saudi-arabia?utm_medium=rss)
- - [Nexthop AI launches with $110M in seed and Series A funding led by Lightspeed Ventures, offering hardware and software for cloud AI infrastructure &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250325/p30#a250325p30)
- - [The 54 Best Shows on Disney+ Right Now &lpar;April 2025&rpar;](https://www.wired.com/story/best-shows-disney-plus/)<!-- TECH:END -->
+ - [Nexthop AI launches with $110M in seed and Series A funding led by Lightspeed Ventures, offering hardware and software for cloud AI infrastructure &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250325/p30#a250325p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

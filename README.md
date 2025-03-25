@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How the meme lord has aged](http://9gag.com/gag/aKGvmrN)
- - 😝 [Me to myself every day](http://9gag.com/gag/aMVPK3R)
- - 💣 [Explain pencils](http://9gag.com/gag/aMVPKX1)
- - 😝 [Men only want 1 thing and it&#39;s disgusting](http://9gag.com/gag/aRBMXpG)
+ - 😝 [Ghost+ busters](http://9gag.com/gag/aNDQYMG)
+ - 😝 [Repost #2025.14](http://9gag.com/gag/ae9Zrmj)
+ - 💣 [Nice](http://9gag.com/gag/apR6mOE)
+ - 😝 [I forgot to take out the trash](http://9gag.com/gag/a9y5EoZ)
  - 👉 [What daughter?](http://9gag.com/gag/a5Qw19g)<!-- MEMES:END -->
 
 ---

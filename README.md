@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alibaba releases Qwen2.5-VL-32B, a 32B open model under Apache 2.0, claims better alignment with human preferences and math reasoning than earlier 2.5 VL models &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250325/p2#a250325p2)
  - [Some EU orgs weigh using Amazon, Google, and Microsoft cloud services over privacy fears under Trump; two European cloud providers say this is driving interest &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/250325/p1#a250325p1)
  - [Apple Watch could gain cameras for Visual Intelligence](https://appleinsider.com/articles/25/03/23/apple-watch-could-gain-cameras-to-improve-ai-features?utm_medium=rss)
  - [Alibaba Chairman Joe Tsai warns of a data center bubble, saying the buildout may outpace early AI demand and is starting to look indiscriminate &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250324/p35#a250324p35)
- - [Sources: the European Commission is expected to find that Meta violated the DMA and fine the company hundreds of millions of dollars, possibly over $1B &lpar;Thomas Barrabi/New York Post&rpar;](http://www.techmeme.com/250324/p34#a250324p34)
- - [How to build an offline reading library &amp; access articles anytime](https://appleinsider.com/inside/ipad/tips/how-to-build-an-offline-reading-library-access-articles-anytime?utm_medium=rss)<!-- TECH:END -->
+ - [23andMe Files for Bankruptcy, Loses CEO: &#39;Get Your Data out of There&#39;](https://www.cnet.com/health/medical/23andme-files-for-bankruptcy-loses-ceo-what-that-means-for-you-and-your-data/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

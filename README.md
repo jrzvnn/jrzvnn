@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump&#39;s World Liberty Financial unveils USD1, a 1:1 USD-pegged stablecoin on Ethereum and Binance Smart Chain, with BitGo as custodian; its launch date is TBA &lpar;Bloomberg&rpar;](http://www.techmeme.com/250325/p21#a250325p21)
- - [Sony brings more premium features to its budget wireless earbuds](https://www.theverge.com/news/634731/sony-wf-c710n-wireless-earbuds-bluetooth-headphones)
- - [Instagram is giving schools a faster way to get students’ posts taken down](https://www.theverge.com/news/634977/instagram-school-partners-prioritize-reports)
- - [The Trump administration axes funding for climate impacts on health research](https://www.theverge.com/news/635322/health-climate-change-funding-trump-nih-hhs)
- - [Tesla Takedown: all the news about the protests roiling the automaker](https://www.theverge.com/news/635249/tesla-takedown-protest-stock-elon-musk-future)<!-- TECH:END -->
+ - [As TikTok faces a US ban on April 5, the ByteDance-owned app has a new ad campaign framing TikTok as a savior of Americans and a champion of small businesses &lpar;Sapna Maheshwari/New York Times&rpar;](http://www.techmeme.com/250325/p22#a250325p22)
+ - [Discord’s refreshed UI includes a new overlay and full dark mode](https://www.theverge.com/news/635435/discord-ui-refresh-dark-mode-new-overlay)
+ - [Sony’s noise-canceling WH-1000XM5 headphones are on sale for $150 off](https://www.theverge.com/tech/634691/sony-headphones-oura-razer-deal-sale)
+ - [New iPhone 17 Air leak shows off what may be the thinnest iPhone ever](https://appleinsider.com/articles/25/03/25/new-iphone-17-air-leak-shows-off-what-may-be-the-thinnest-iphone-ever?utm_medium=rss)
+ - [Hoto’s handy, rechargeable tools are up to 50 percent off](https://www.theverge.com/tech/635326/hoto-electric-screwdriver-deal-amazon-big-spring-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

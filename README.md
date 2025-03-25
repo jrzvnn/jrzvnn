@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I forgot to take out the trash](http://9gag.com/gag/a9y5EoZ)
- - 😝 [Manson showing Manson and Cage to Cage](http://9gag.com/gag/aGyBZBZ)
- - 💣 [Ghost+ busters](http://9gag.com/gag/aNDQYMG)
- - 😝 [Nice](http://9gag.com/gag/apR6mOE)
- - 👉 [Coach yanked player\u2019s ponytail after they lost the game](http://9gag.com/gag/aW4nYA4)<!-- MEMES:END -->
+ - 😝 [How the meme lord has aged](http://9gag.com/gag/aKGvmrN)
+ - 😝 [Me to myself every day](http://9gag.com/gag/aMVPK3R)
+ - 💣 [Explain pencils](http://9gag.com/gag/aMVPKX1)
+ - 😝 [Men only want 1 thing and it&#39;s disgusting](http://9gag.com/gag/aRBMXpG)
+ - 👉 [What daughter?](http://9gag.com/gag/a5Qw19g)<!-- MEMES:END -->
 
 ---
 

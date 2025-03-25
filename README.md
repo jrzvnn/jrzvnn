@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Explain pencils](http://9gag.com/gag/aMVPKX1)
- - 😝 [Second best](http://9gag.com/gag/aLn412g)
- - 💣 [D-Day](http://9gag.com/gag/aYQDr62)
- - 😝 [Perfection](http://9gag.com/gag/aD28d5w)
- - 👉 [I wish I were half the man HE is](http://9gag.com/gag/apR6NAp)<!-- MEMES:END -->
+ - 😝 [Assassin&#39;s Creed Shadows Next Gen Traversal Mechanic](http://9gag.com/gag/aByV0zQ)
+ - 😝 [Dead internet](http://9gag.com/gag/aNDQg9v)
+ - 💣 [Ghost+ busters](http://9gag.com/gag/aNDQYMG)
+ - 😝 [I can fix her](http://9gag.com/gag/a6Z5Nom)
+ - 👉 [It seems that the Turkish people have actually decided to expel Erdogan from the presidency, so Erdogan is now living a terrifying nightmare in his last days.](http://9gag.com/gag/aZZ8rw6)<!-- MEMES:END -->
 
 ---
 

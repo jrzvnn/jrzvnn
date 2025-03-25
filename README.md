@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Waymo plans to launch its Waymo One ride-hailing service in Washington, DC in 2026; the city currently prohibits autonomous vehicles without safety drivers &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250325/p12#a250325p12)
  - [Sources: companies like Nvidia and many governments are trying to persuade Trump&#39;s team to loosen incoming AI chip export rules, known as the AI diffusion rule &lpar;Bloomberg&rpar;](http://www.techmeme.com/250325/p11#a250325p11)
  - [Document: India orders Samsung and its executives in the country to pay $601M in back taxes and penalties for dodging tariffs on key telecoms equipment imports &lpar;Reuters&rpar;](http://www.techmeme.com/250325/p10#a250325p10)
- - [Inside Silicon Valley’s Invite-Only IRL Dating Scene](https://www.wired.com/story/silicon-valley-invitation-only-irl-dating/)<!-- TECH:END -->
+ - [This Off-Beat Netflix Sleuth Series Is the Streamer&#39;s Best New Comedy](https://www.cnet.com/tech/services-and-software/this-off-beat-netflix-sleuth-series-is-the-streamers-best-new-comedy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

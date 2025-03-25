@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A happy misunderstanding](http://9gag.com/gag/aLn483V)
- - 😝 [American aircraft carrier off the coast of Hodeida, Yemen.](http://9gag.com/gag/aLn48Vz)
- - 💣 [What is going on here?](http://9gag.com/gag/a4PNRQv)
+ - 😝 [Hang in there pal](http://9gag.com/gag/axy612n)
+ - 😝 [What is going on here?](http://9gag.com/gag/a4PNRQv)
+ - 💣 [Zinc Spark - The Spark of life](http://9gag.com/gag/a6Z5N12)
  - 😝 [The kick from Chuck Norris sounds like a gunshot](http://9gag.com/gag/aryXVGy)
- - 👉 [Wtf you done today cap?](http://9gag.com/gag/a8708v1)<!-- MEMES:END -->
+ - 👉 [I can&#39;t wait for ozempic to cause sudden heart attacks and clean up all the hypocrites](http://9gag.com/gag/amo6BEj)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Assassin&#39;s Creed Shadows Next Gen Traversal Mechanic](http://9gag.com/gag/aByV0zQ)
- - 😝 [Ghost+ busters](http://9gag.com/gag/aNDQYMG)
- - 💣 [The kick from Chuck Norris sounds like a gunshot](http://9gag.com/gag/aryXVGy)
- - 😝 [I forgot to take out the trash](http://9gag.com/gag/a9y5EoZ)
- - 👉 [Nice](http://9gag.com/gag/apR6mOE)<!-- MEMES:END -->
+ - 😝 [Sky above Croatia right now.](http://9gag.com/gag/abA4GKL)
+ - 😝 [A very old video as a reminder to not to be an idiot](http://9gag.com/gag/a4PNRvZ)
+ - 💣 [Nice](http://9gag.com/gag/apR6mOE)
+ - 😝 [Manson showing Manson and Cage to Cage](http://9gag.com/gag/aGyBZBZ)
+ - 👉 [A reminder that 35 years ago Homer was considered comically obese at this weight \u2696\ufe0f](http://9gag.com/gag/an72Qb0)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nosferatu and some of our favorite movies are buy two, get one free today](https://www.theverge.com/tech/635610/4k-blu-ray-dvd-bogo-amazon-big-spring-sale-2025)
  - [Sources: Qualcomm has complained to antitrust regulators in the EU, US, and South Korea that Arm is hurting competition by restricting access to its technology &lpar;Bloomberg&rpar;](http://www.techmeme.com/250325/p35#a250325p35)
  - [Game Informer has officially returned](https://www.theverge.com/news/635915/game-informer-return-gunzilla-games)
  - [Latest iOS 19 redesign rumor hinges on sketchy iMessage mockup](https://appleinsider.com/articles/25/03/25/latest-ios-19-redesign-rumor-hinges-on-sketchy-imessage-mockup?utm_medium=rss)
- - [AT&amp;#038;T is slashing its autopay and paperless billing discounts](https://www.theverge.com/news/635903/att-autopay-paperless-billing-reduce-discounts)
- - [GameStop says its board has unanimously approved a plan to buy bitcoin with its corporate cash, and it hasn&#39;t set a ceiling on how much bitcoin it may purchase &lpar;Yun Li/CNBC&rpar;](http://www.techmeme.com/250325/p34#a250325p34)<!-- TECH:END -->
+ - [AT&amp;#038;T is slashing its autopay and paperless billing discounts](https://www.theverge.com/news/635903/att-autopay-paperless-billing-reduce-discounts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

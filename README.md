@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Samuel Benner, a farmer from the 1800s, published a book with market analysis on periods of panic, good times to buy, and good times to sell. 150 years later, his analysis has proven to be remarkably accurate.](http://9gag.com/gag/aryXGR6)
- - 😝 [31 year old Indiana teacher accused of r*ping her students including an instance where she forced 3 underaged boys to have s*x with her while wearing Scream masks.](http://9gag.com/gag/apR62pE)
- - 💣 [Bro&#39;s about to begin his Gym Arc.....](http://9gag.com/gag/a9y5p71)
- - 😝 [What is going on here?](http://9gag.com/gag/a4PNRQv)
- - 👉 [That was awesome](http://9gag.com/gag/amo6742)<!-- MEMES:END -->
+ - 😝 [Built like a pixar mom](http://9gag.com/gag/a4PNQVw)
+ - 😝 [Decided to go less clothes today](http://9gag.com/gag/aPAoYdK)
+ - 💣 [New milestone for AC Shadows](http://9gag.com/gag/avy6oZE)
+ - 😝 [A happy misunderstanding](http://9gag.com/gag/aLn483V)
+ - 👉 [Bro&#39;s about to begin his Gym Arc.....](http://9gag.com/gag/a9y5p71)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men only want 1 thing and it&#39;s disgusting](http://9gag.com/gag/aRBMXpG)
- - 😝 [Sydney Sweeney at a film&#39;s premiere.](http://9gag.com/gag/agm7mxr)
- - 💣 [When you have a grudge against Motorcycle riders...](http://9gag.com/gag/abA4ARp)
- - 😝 [Nintendo Gameboy](http://9gag.com/gag/an727dq)
- - 👉 [Last I checked, it was 2.3/10 \u2018outscoring\u2019 even Dragonball Evolution at 2.5/10! It went lower? What\u2019s the target?](http://9gag.com/gag/aXPVPdd)<!-- MEMES:END -->
+ - 😝 [Whoop](http://9gag.com/gag/apR6R58)
+ - 😝 [Cover, cover up everywhere..](http://9gag.com/gag/a5QwQGN)
+ - 💣 [Sydney Sweeney at a film&#39;s premiere.](http://9gag.com/gag/agm7mxr)
+ - 😝 [If Atom Eve was a goth](http://9gag.com/gag/a340163)
+ - 👉 [In 2001, Coca-Cola announced that it sold 4 times more than Pepsi, and this was the company&#39;s response](http://9gag.com/gag/agm7gZ1)<!-- MEMES:END -->
 
 ---
 

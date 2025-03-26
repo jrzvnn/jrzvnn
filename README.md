@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In 2001, Coca-Cola announced that it sold 4 times more than Pepsi, and this was the company&#39;s response](http://9gag.com/gag/agm7gZ1)
- - 😝 [The kick from Chuck Norris sounds like a gunshot](http://9gag.com/gag/aryXVGy)
- - 💣 [Tomorrow](http://9gag.com/gag/a340Re5)
- - 😝 [That&#39;s bad luck](http://9gag.com/gag/aMVPEVM)
- - 👉 [This is how pandas give birth to children](http://9gag.com/gag/aAyK0n2)<!-- MEMES:END -->
+ - 😝 [Paper craft that looks like flying bird](http://9gag.com/gag/a2v0Kx9)
+ - 😝 [I have hope](http://9gag.com/gag/a1m01RP)
+ - 💣 [Vending machina](http://9gag.com/gag/a4PNoj1)
+ - 😝 [I wish I were half the man HE is](http://9gag.com/gag/apR6NAp)
+ - 👉 [Hope he is a mafia leader](http://9gag.com/gag/a4PNE1y)<!-- MEMES:END -->
 
 ---
 

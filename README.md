@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tomorrow](http://9gag.com/gag/a340Re5)
- - 😝 [The kick from Chuck Norris sounds like a gunshot](http://9gag.com/gag/aryXVGy)
- - 💣 [Bet you weren&#39;t expecting that intro. Respect yourselves.](http://9gag.com/gag/a4PN31w)
+ - 😝 [Turkish Hairlines sponsored](http://9gag.com/gag/aGyBdWz)
+ - 😝 [Wrong turn ruined a race](http://9gag.com/gag/aO8Z3nv)
+ - 💣 [A masterclass in how not to ride downhill](http://9gag.com/gag/aNDQgMw)
  - 😝 [What daughter?](http://9gag.com/gag/a5Qw19g)
- - 👉 [I forgot to take out the trash](http://9gag.com/gag/a9y5EoZ)<!-- MEMES:END -->
+ - 👉 [I can fix her](http://9gag.com/gag/a6Z5Nom)<!-- MEMES:END -->
 
 ---
 

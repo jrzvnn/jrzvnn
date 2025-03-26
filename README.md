@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The aim](http://9gag.com/gag/ae9ZDzq)
- - 😝 [I forgot to take out the trash](http://9gag.com/gag/a9y5EoZ)
+ - 😝 [Good old times](http://9gag.com/gag/amo6ob2)
+ - 😝 [This is how pandas give birth to children](http://9gag.com/gag/aAyK0n2)
  - 💣 [In 2001, Coca-Cola announced that it sold 4 times more than Pepsi, and this was the company&#39;s response](http://9gag.com/gag/agm7gZ1)
- - 😝 [A very old video as a reminder to not to be an idiot](http://9gag.com/gag/a4PNRvZ)
- - 👉 [Game of the year](http://9gag.com/gag/ayN6emb)<!-- MEMES:END -->
+ - 😝 [Tomorrow](http://9gag.com/gag/a340Re5)
+ - 👉 [A very old video as a reminder to not to be an idiot](http://9gag.com/gag/a4PNRvZ)<!-- MEMES:END -->
 
 ---
 

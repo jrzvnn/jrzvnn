@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony PlayStation DualSense Edge Controller Review: Gaming Upgrade](https://www.wired.com/review/sony-playstation-dualsense-edge-controller/)
- - [Studio Ghibli’s archive is the key to its 4K restoration process](https://www.theverge.com/entertainment/634951/studio-ghibli-mononoke-4k-restoration-atsushi-okui)
- - [Indonesia&#39;s iPhone 16 ban will finally be lifted on April 11](https://appleinsider.com/articles/25/03/26/indonesias-iphone-16-ban-will-finally-be-lifted-on-april-11?utm_medium=rss)
- - [Apple denied intervention in Google search antitrust hearing](https://appleinsider.com/articles/25/03/26/apple-denied-intervention-in-google-search-antitrust-hearing?utm_medium=rss)
- - [15 Best Bluetooth Speakers Our Testers Jammed With in 2025](https://www.wired.com/gallery/best-bluetooth-speakers/)<!-- TECH:END -->
+ - [Mercury, which helps startups manage their finances, raised $300M led by Sequoia at a $3.5B valuation; the fintech saw $2B in deposits after SVB&#39;s collapse &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/250326/p23#a250326p23)
+ - [6 Best Password Managers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-password-managers/)
+ - [Get an iPhone 16e virtually free from T-Mobile &amp; enjoy more perks with Magenta Status](https://appleinsider.com/articles/25/03/26/get-an-iphone-16e-virtually-free-from-t-mobile-enjoy-more-perks-with-magenta-status?utm_medium=rss)
+ - [Chinese AI startup SenseTime reports FY 2024 revenue up 11% YoY to ~$524M, below ~$620M est., and a ~$592M net loss, above ~$551M est., as the AI race heats up &lpar;Rachel Yeo/Bloomberg&rpar;](http://www.techmeme.com/250326/p22#a250326p22)
+ - [Sony PlayStation DualSense Edge Controller Review: Gaming Upgrade](https://www.wired.com/review/sony-playstation-dualsense-edge-controller/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

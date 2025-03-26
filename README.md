@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Microsoft adds ‘deep reasoning’ Copilot AI for research and data analysis](https://www.theverge.com/microsoft/636089/microsoft-365-copilot-reasoning-ai-agents)
  - [Anthropic convinced a California federal judge to reject a preliminary bid to block it from using lyrics owned by UMG and other music publishers to train Claude &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/250325/p40#a250325p40)
+ - [The 15 Best Mobile Games in 2025: Top iPhone and Android Games](https://www.cnet.com/tech/gaming/the-15-best-mobile-games-in-2025-top-iphone-and-android-games/#ftag=CAD590a51e)
  - [How to shut down your iPhone in iOS 18](https://appleinsider.com/articles/25/03/26/how-to-shut-down-your-iphone-in-ios-18?utm_medium=rss)
- - [How Apple Savings compares vs other high-yield savings accounts](https://appleinsider.com/inside/apple-card/vs/how-apple-savings-compares-vs-other-high-yield-savings-accounts?utm_medium=rss)
- - [Character.AI adds a Parental Insights feature that lets teens send reports of their chatbot usage to their parents, including which bots they are talking to &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/250325/p39#a250325p39)<!-- TECH:END -->
+ - [Best Internet Providers in Oakland, California](https://www.cnet.com/home/internet/best-internet-providers-in-oakland-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

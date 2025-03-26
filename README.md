@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wrong turn ruined a race](http://9gag.com/gag/aO8Z3nv)
  - 😝 [Game of the year](http://9gag.com/gag/ayN6emb)
- - 💣 [Only in America.](http://9gag.com/gag/a340R37)
- - 😝 [I can fix her](http://9gag.com/gag/a6Z5Nom)
- - 👉 [Tomorrow](http://9gag.com/gag/a340Re5)<!-- MEMES:END -->
+ - 😝 [The kick from Chuck Norris sounds like a gunshot](http://9gag.com/gag/aryXVGy)
+ - 💣 [What daughter?](http://9gag.com/gag/a5Qw19g)
+ - 😝 [Second best](http://9gag.com/gag/aLn412g)
+ - 👉 [A very old video as a reminder to not to be an idiot](http://9gag.com/gag/a4PNRvZ)<!-- MEMES:END -->
 
 ---
 

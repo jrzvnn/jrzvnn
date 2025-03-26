@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And it has Karl Urban in it](http://9gag.com/gag/a870qVV)
- - 😝 [Just discovered this masterpiece of comedy. Highly recommended!!](http://9gag.com/gag/a7o0qnz)
- - 💣 [This is how pandas give birth to children](http://9gag.com/gag/aAyK0n2)
- - 😝 [Tomorrow](http://9gag.com/gag/a340Re5)
- - 👉 [Game of the year](http://9gag.com/gag/ayN6emb)<!-- MEMES:END -->
+ - 😝 [Perfection](http://9gag.com/gag/aD28d5w)
+ - 😝 [I have hope](http://9gag.com/gag/a1m01RP)
+ - 💣 [Vending machina](http://9gag.com/gag/a4PNoj1)
+ - 😝 [I wish I were half the man HE is](http://9gag.com/gag/apR6NAp)
+ - 👉 [Hope he is a mafia leader](http://9gag.com/gag/a4PNE1y)<!-- MEMES:END -->
 
 ---
 

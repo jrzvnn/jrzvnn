@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Understandable](http://9gag.com/gag/a4PNQy6)
- - 😝 [Ghost+ busters](http://9gag.com/gag/aNDQYMG)
- - 💣 [Zinc Spark - The Spark of life](http://9gag.com/gag/a6Z5N12)
- - 😝 [What daughter?](http://9gag.com/gag/a5Qw19g)
- - 👉 [Nice](http://9gag.com/gag/apR6mOE)<!-- MEMES:END -->
+ - 😝 [Wrong turn ruined a race](http://9gag.com/gag/aO8Z3nv)
+ - 😝 [New milestone for AC Shadows](http://9gag.com/gag/avy6oZE)
+ - 💣 [Only in America.](http://9gag.com/gag/a340R37)
+ - 😝 [A very old video as a reminder to not to be an idiot](http://9gag.com/gag/a4PNRvZ)
+ - 👉 [Bet you weren&#39;t expecting that intro. Respect yourselves.](http://9gag.com/gag/a4PN31w)<!-- MEMES:END -->
 
 ---
 

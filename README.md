@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gemini 2.5 Pro hands-on: a very strong model with 1M input and 64K output tokens, a January 2025 knowledge cut-off, and very, very impressive coding skills &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250326/p20#a250326p20)
+ - [The 8 Best Greens Powders, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-greens-powders/)
  - [Tim Cook continues China tour, launches developer education fund](https://appleinsider.com/articles/25/03/26/tim-cook-continues-china-tour-launches-developer-education-fund?utm_medium=rss)
  - [Sources: Fidelity Investments is in the advanced stages of testing its own stablecoin, managed by its digital assets arm, as Trump pledges to back stablecoins &lpar;Philip Stafford/Financial Times&rpar;](http://www.techmeme.com/250326/p19#a250326p19)
- - [GeoGuessr is coming to Steam after 12 years in your browser](https://www.theverge.com/news/636201/geoguessr-steam-browser-game-early-access)
- - [PS5 owners really want to play Xbox games, as Microsoft tops Sony’s preorder charts](https://www.theverge.com/news/636178/microsoft-playstation-store-ps5-xbox-games-preorder-chart)
- - [I Went Undercover in Crypto’s Answer to ‘Squid Game.’ It Nearly Broke Me](https://www.wired.com/story/crypto-the-game-undercover/)<!-- TECH:END -->
+ - [GeoGuessr is coming to Steam after 12 years in your browser](https://www.theverge.com/news/636201/geoguessr-steam-browser-game-early-access)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

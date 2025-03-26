@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube says Shorts views will now be counted each time a video starts to play or replay, rather than only after being watched for a certain number of seconds &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250326/p33#a250326p33)
+ - [Marvel unveils the gigantic cast for Avengers: Doomsday](https://www.theverge.com/news/636463/avengers-doomsday-cast-xmen-mcu)
  - [Some Kindles now let you double-tap anywhere to turn the page](https://www.theverge.com/news/636726/amazon-kindle-paperwhite-colorsoft-update-double-tap-turn-pages)
  - [Amazon Spring Sale deals on Verge staff home favorites](https://www.theverge.com/tech/635736/amazon-big-spring-sale-best-deals-tech-staff-picks-march-prime-day-2025)
- - [Best Internet Providers in Youngstown, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-youngstown-oh/#ftag=CAD590a51e)
- - [2025 HomePod mini 2 &amp; HomePod 3 rumors - what to expect, and when](https://appleinsider.com/articles/25/03/26/2025-homepod-mini-2-homepod-3-rumors---what-to-expect-and-when?utm_medium=rss)
- - [The Shokz OpenRun Pro 2 are worth their full price, but are more tempting at $30 off](https://www.theverge.com/tech/636668/shokz-bone-conduction-headphones-openrun-pro-2-sale-amazon-spring)<!-- TECH:END -->
+ - [2025 HomePod mini 2 &amp; HomePod 3 rumors - what to expect, and when](https://appleinsider.com/articles/25/03/26/2025-homepod-mini-2-homepod-3-rumors---what-to-expect-and-when?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

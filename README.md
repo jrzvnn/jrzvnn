@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Turkish Hairlines sponsored](http://9gag.com/gag/aGyBdWz)
- - 😝 [Wrong turn ruined a race](http://9gag.com/gag/aO8Z3nv)
- - 💣 [A masterclass in how not to ride downhill](http://9gag.com/gag/aNDQgMw)
+ - 😝 [Sorry if it&#39;s a repost but I don&#39;t remember seeing it](http://9gag.com/gag/aE0APnN)
  - 😝 [What daughter?](http://9gag.com/gag/a5Qw19g)
- - 👉 [I can fix her](http://9gag.com/gag/a6Z5Nom)<!-- MEMES:END -->
+ - 💣 [Second best](http://9gag.com/gag/aLn412g)
+ - 😝 [I can fix her](http://9gag.com/gag/a6Z5Nom)
+ - 👉 [Wrong turn ruined a race](http://9gag.com/gag/aO8Z3nv)<!-- MEMES:END -->
 
 ---
 

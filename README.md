@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how pandas give birth to children](http://9gag.com/gag/aAyK0n2)
- - 😝 [The kick from Chuck Norris sounds like a gunshot](http://9gag.com/gag/aryXVGy)
- - 💣 [Whoop](http://9gag.com/gag/apR6R58)
- - 😝 [I feel so bad for all single men who think THEIR life sucks...](http://9gag.com/gag/ayN6MPr)
- - 👉 [I forgot to take out the trash](http://9gag.com/gag/a9y5EoZ)<!-- MEMES:END -->
+ - 😝 [Men only want 1 thing and it&#39;s disgusting](http://9gag.com/gag/aRBMXpG)
+ - 😝 [Sydney Sweeney at a film&#39;s premiere.](http://9gag.com/gag/agm7mxr)
+ - 💣 [When you have a grudge against Motorcycle riders...](http://9gag.com/gag/abA4ARp)
+ - 😝 [Nintendo Gameboy](http://9gag.com/gag/an727dq)
+ - 👉 [Last I checked, it was 2.3/10 \u2018outscoring\u2019 even Dragonball Evolution at 2.5/10! It went lower? What\u2019s the target?](http://9gag.com/gag/aXPVPdd)<!-- MEMES:END -->
 
 ---
 

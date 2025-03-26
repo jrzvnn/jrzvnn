@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Vending machina](http://9gag.com/gag/a4PNoj1)
- - 😝 [Paper craft that looks like flying bird](http://9gag.com/gag/a2v0Kx9)
- - 💣 [I wish I were half the man HE is](http://9gag.com/gag/apR6NAp)
- - 😝 [Hope he is a mafia leader](http://9gag.com/gag/a4PNE1y)
- - 👉 [That&#39;s pretty cool](http://9gag.com/gag/a4PNPrA)<!-- MEMES:END -->
+ - 😝 [In 2001, Coca-Cola announced that it sold 4 times more than Pepsi, and this was the company&#39;s response](http://9gag.com/gag/agm7gZ1)
+ - 😝 [The kick from Chuck Norris sounds like a gunshot](http://9gag.com/gag/aryXVGy)
+ - 💣 [Game of the year](http://9gag.com/gag/ayN6emb)
+ - 😝 [Tomorrow](http://9gag.com/gag/a340Re5)
+ - 👉 [A very old video as a reminder to not to be an idiot](http://9gag.com/gag/a4PNRvZ)<!-- MEMES:END -->
 
 ---
 

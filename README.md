@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon Spring Sale deals on Verge staff home favorites](https://www.theverge.com/tech/635736/amazon-big-spring-sale-best-deals-tech-staff-picks-march-prime-day-2025)
  - [2025 HomePod mini 2 &amp; HomePod 3 rumors - what to expect, and when](https://appleinsider.com/articles/25/03/26/2025-homepod-mini-2-homepod-3-rumors---what-to-expect-and-when?utm_medium=rss)
  - [The Shokz OpenRun Pro 2 are worth their full price, but are more tempting at $30 off](https://www.theverge.com/tech/636668/shokz-bone-conduction-headphones-openrun-pro-2-sale-amazon-spring)
  - [Starboard Value nominates three directors including its CEO, Jeff Smith, to Autodesk&#39;s board, rekindling its proxy battle with Autodesk over margin concerns &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/250326/p32#a250326p32)
- - [SignalGate Isn&#39;t About Signal](https://www.wired.com/story/signalgate-isnt-about-signal/)
- - [Amazon’s big spring sale continues, and we found the 73 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)<!-- TECH:END -->
+ - [SignalGate Isn&#39;t About Signal](https://www.wired.com/story/signalgate-isnt-about-signal/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

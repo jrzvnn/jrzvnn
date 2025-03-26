@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If Atom Eve was a goth](http://9gag.com/gag/a340163)
- - 😝 [Last I checked, it was 2.3/10 \u2018outscoring\u2019 even Dragonball Evolution at 2.5/10! It went lower? What\u2019s the target?](http://9gag.com/gag/aXPVPdd)
+ - 😝 [The aim](http://9gag.com/gag/ae9ZDzq)
+ - 😝 [The hero that you always wanted to be](http://9gag.com/gag/a6Z5ZVb)
  - 💣 [Wrong turn ruined a race](http://9gag.com/gag/aO8Z3nv)
- - 😝 [I feel so bad for all single men who think THEIR life sucks...](http://9gag.com/gag/ayN6MPr)
- - 👉 [He enjoyed the ride](http://9gag.com/gag/amo6g3j)<!-- MEMES:END -->
+ - 😝 [The kick from Chuck Norris sounds like a gunshot](http://9gag.com/gag/aryXVGy)
+ - 👉 [Whoop](http://9gag.com/gag/apR6R58)<!-- MEMES:END -->
 
 ---
 

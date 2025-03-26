@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how pandas give birth to children](http://9gag.com/gag/aAyK0n2)
+ - 😝 [I understood everything!](http://9gag.com/gag/a6Z51Pq)
  - 😝 [Sydney Sweeney at a film&#39;s premiere.](http://9gag.com/gag/agm7mxr)
- - 💣 [In 2001, Coca-Cola announced that it sold 4 times more than Pepsi, and this was the company&#39;s response](http://9gag.com/gag/agm7gZ1)
- - 😝 [I feel so bad for all single men who think THEIR life sucks...](http://9gag.com/gag/ayN6MPr)
- - 👉 [Wrong turn ruined a race](http://9gag.com/gag/aO8Z3nv)<!-- MEMES:END -->
+ - 💣 [I feel so bad for all single men who think THEIR life sucks...](http://9gag.com/gag/ayN6MPr)
+ - 😝 [Wrong turn ruined a race](http://9gag.com/gag/aO8Z3nv)
+ - 👉 [If Atom Eve was a goth](http://9gag.com/gag/a340163)<!-- MEMES:END -->
 
 ---
 

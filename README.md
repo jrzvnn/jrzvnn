@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Look Around in Apple Maps imagery will be used to train Apple Intelligence](https://appleinsider.com/articles/25/03/26/look-around-in-apple-maps-imagery-will-be-used-to-train-apple-intelligence?utm_medium=rss)
- - [Gemini 2.5 Pro hands-on: a very strong model with 1M input and 64K output tokens, a January 2025 knowledge cut-off, and very, very impressive coding skills &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250326/p20#a250326p20)
- - [The 8 Best Greens Powders, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-greens-powders/)
- - [Tim Cook continues China tour, launches developer education fund](https://appleinsider.com/articles/25/03/26/tim-cook-continues-china-tour-launches-developer-education-fund?utm_medium=rss)
- - [Sources: Fidelity Investments is in the advanced stages of testing its own stablecoin, managed by its digital assets arm, as Trump pledges to back stablecoins &lpar;Philip Stafford/Financial Times&rpar;](http://www.techmeme.com/250326/p19#a250326p19)<!-- TECH:END -->
+ - [Leaker hints that iPhone 17 Pro will shoot 8K video](https://appleinsider.com/articles/25/03/26/leaker-hints-that-iphone-17-pro-will-shoot-8k-video?utm_medium=rss)
+ - [E-bikes banned on London public transport after unsafe mods cause fires](https://www.theverge.com/news/636207/tlf-london-underground-e-bike-ban-conversion-mods-fires)
+ - [How a Cup of Tea Laid the Foundations for Modern Statistical Analysis](https://www.wired.com/story/how-a-cup-of-tea-laid-the-foundations-for-modern-statistical-analysis-adam-kucharski-proof-book/)
+ - [Apple says the iPhone 16 series will be available in Indonesia from April 11, after Jakarta lifted a sales ban following Apple&#39;s $300M+ investment plan &lpar;Stanley Widianto/Reuters&rpar;](http://www.techmeme.com/250326/p21#a250326p21)
+ - [Look Around in Apple Maps imagery will be used to train Apple Intelligence](https://appleinsider.com/articles/25/03/26/look-around-in-apple-maps-imagery-will-be-used-to-train-apple-intelligence?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

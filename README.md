@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The aim](http://9gag.com/gag/ae9ZDzq)
- - 😝 [Whoop](http://9gag.com/gag/apR6R58)
- - 💣 [Sydney Sweeney at a film&#39;s premiere.](http://9gag.com/gag/agm7mxr)
  - 😝 [Last I checked, it was 2.3/10 \u2018outscoring\u2019 even Dragonball Evolution at 2.5/10! It went lower? What\u2019s the target?](http://9gag.com/gag/aXPVPdd)
- - 👉 [Giving this lost bee hive a new queen!](http://9gag.com/gag/abA4GX9)<!-- MEMES:END -->
+ - 💣 [Whoop](http://9gag.com/gag/apR6R58)
+ - 😝 [This is how pandas give birth to children](http://9gag.com/gag/aAyK0n2)
+ - 👉 [Wrong turn ruined a race](http://9gag.com/gag/aO8Z3nv)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 Best Smart Speakers &lpar;2025&rpar;: Alexa, Google Assistant, Siri](https://www.wired.com/story/best-smart-speakers/)
- - [Tim Cook&#39;s very light praise for DeepSeek is good politics, not endorsement](https://appleinsider.com/articles/25/03/26/tim-cooks-very-light-praise-for-deepseek-is-good-politics-not-endorsement?utm_medium=rss)
- - [What&amp;#8217;s on your desk, Jennifer Pattison Tuohy?](https://www.theverge.com/tech/634084/desk-home-office-jennifer-pattison-tuohy)
- - [No Man’s Sky gets prehistoric with Relics expansion](https://www.theverge.com/news/635890/no-mans-sky-relics-update-archaeology)
- - [Amazon’s big spring sale continues, and we found the 72 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)<!-- TECH:END -->
+ - [Amazon&#39;s Big Spring Sale starts now, save up to $400 on Apple products](https://appleinsider.com/articles/25/03/25/amazons-big-spring-sale-starts-now-save-up-to-400-on-apple-products?utm_medium=rss)
+ - [Waze is dropping Google Assistant on iPhone after leaving it broken for ‘over a year’](https://www.theverge.com/news/636286/waze-google-assistant-iphone-gemini)
+ - [eMarketer expects X to generate $1.31B in US ad sales in 2025, up 17.5%, and $2.26B in global ad sales, up 16.5%, the first year of ad revenue growth since 2022 &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/250326/p25#a250326p25)
+ - [Atomfall makes the postapocalypse quintessentially British](https://www.theverge.com/games-review/635297/atomfall-review-xbox-ps5-steam)
+ - [A New Social Media App Punishes Users for Rage-Baiting](https://www.wired.com/story/this-platform-wants-to-return-civil-discourse-to-social-media-by-scoring-users/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

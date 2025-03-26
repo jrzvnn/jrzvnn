@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US federal judge rejects OpenAI&#39;s request to dismiss the NYT&#39;s lawsuit, allowing the main copyright infringement claims to go forward while narrowing the suit &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/250326/p36#a250326p36)
  - [A software update for some Amazon Kindle models lets users double-tap the sides or back of the device to turn pages in books or scroll down in Home and Library &lpar;Michael Kozlowski/Good e-Reader&rpar;](http://www.techmeme.com/250326/p35#a250326p35)
  - [Some Kindles now let you double-tap anywhere to turn the page](https://www.theverge.com/news/636726/amazon-kindle-paperwhite-colorsoft-update-double-tap-turn-pages)
  - [DNI Tulsi Gabbard told a Congressional hearing that Signal comes &quot;pre-installed&quot; on government devices, hinting at a major shift following the Salt Typhoon hack &lpar;Maggie Miller/Politico&rpar;](http://www.techmeme.com/250326/p34#a250326p34)
- - [Mike Waltz Left His Venmo Friends List Public](https://www.wired.com/story/michael-waltz-left-his-venmo-public/)
- - [Best Internet Providers in Washington, DC](https://www.cnet.com/home/internet/best-internet-providers-in-washington-dc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mike Waltz Left His Venmo Friends List Public](https://www.wired.com/story/michael-waltz-left-his-venmo-public/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

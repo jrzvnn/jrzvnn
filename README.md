@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube Shorts will count views even if you scroll past](https://www.theverge.com/news/636876/youtube-shorts-views-counting-update)
- - [YouTube says Shorts views will now be counted each time a video starts to play or replay, rather than only after being watched for a certain number of seconds &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250326/p33#a250326p33)
- - [Marvel unveils the gigantic cast for Avengers: Doomsday](https://www.theverge.com/news/636463/avengers-doomsday-cast-xmen-mcu)
  - [Some Kindles now let you double-tap anywhere to turn the page](https://www.theverge.com/news/636726/amazon-kindle-paperwhite-colorsoft-update-double-tap-turn-pages)
- - [Amazon Spring Sale deals on Verge staff home favorites](https://www.theverge.com/tech/635736/amazon-big-spring-sale-best-deals-tech-staff-picks-march-prime-day-2025)<!-- TECH:END -->
+ - [DNI Tulsi Gabbard told a Congressional hearing that Signal comes &quot;pre-installed&quot; on government devices, hinting at a major shift following the Salt Typhoon hack &lpar;Maggie Miller/Politico&rpar;](http://www.techmeme.com/250326/p34#a250326p34)
+ - [Mike Waltz Left His Venmo Friends List Public](https://www.wired.com/story/michael-waltz-left-his-venmo-public/)
+ - [Best Internet Providers in Washington, DC](https://www.cnet.com/home/internet/best-internet-providers-in-washington-dc/#ftag=CAD590a51e)
+ - [Warzone&#39;s Verdansk Map Returns: Here&#39;s the Release Roadmap](https://www.cnet.com/tech/gaming/warzones-verdansk-map-returns-heres-the-release-roadmap/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best foldable phone you can buy](https://www.theverge.com/tech/635839/best-foldable-phone)
  - [Apple blocked from presenting at Google antitrust hearing where $20 billion search deal is at stake](https://www.theverge.com/news/636743/apple-google-antitrust-intervene-appeal-denied)
  - [The 20 best Amazon Big Spring Sale deals under $30](https://www.theverge.com/tech/636342/amazon-big-spring-sale-2025-best-deals-under-30-tech-gift-ideas)
- - [Apple doesn&#39;t appear to have plans to revive the iPhone mini](https://appleinsider.com/articles/25/03/26/apple-doesnt-appear-to-have-plans-to-revive-the-iphone-mini?utm_medium=rss)
- - [Leaked financial figures: Stripe doubled its free cash flow in 2024 to about $2.2B and grew revenues by about 28% to $5.1B; Chime grew revenues by 31% to $1.7B &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/250326/p31#a250326p31)
- - [I Took My Leica to Photograph Cars in the Arctic. These Are My Pro Tips](https://www.cnet.com/tech/computing/i-took-my-leica-to-photograph-cars-in-the-arctic-these-are-my-pro-tips/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Spilled! Is a Cozy Game About Cleaning Up Oil-Drenched Waterways](https://www.cnet.com/tech/gaming/spilled-is-a-cozy-game-about-cleaning-up-oil-drenched-waterways/#ftag=CAD590a51e)
+ - [Apple doesn&#39;t appear to have plans to revive the iPhone mini](https://appleinsider.com/articles/25/03/26/apple-doesnt-appear-to-have-plans-to-revive-the-iphone-mini?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

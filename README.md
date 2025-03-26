@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bain Capital agrees to acquire a majority stake in Italian IT company Namirial from private equity firm Ambienta, sources say valuing Namirial at €1.1B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250326/p14#a250326p14)
  - [101 Best Amazon Spring Sale Deals &lpar;2025&rpar;](https://www.wired.com/story/amazon-spring-sale-2025-2/)
  - [A cross-party committee of UK MPs casts doubt on the UK&#39;s plan to boost the public sector with AI, citing outdated tech, poor data, and a lack of digital skills &lpar;Delphine Strauss/Financial Times&rpar;](http://www.techmeme.com/250326/p13#a250326p13)
  - [Beneath Greenland’s Ice Lies a Climate Solution—and a New Geopolitical Battleground](https://www.wired.com/story/beneath-greenlands-ice-lies-a-climate-solution-and-a-new-geopolitical-battleground/)
- - [Q&amp;A with Careem CEO Mudassir Sheikha on the MENA ride-hailing giant becoming a super app, the spinout of its non-ride-hailing services from Uber, AI, and more &lpar;Anup Kaphle/Rest of World&rpar;](http://www.techmeme.com/250326/p12#a250326p12)
- - [Power chip companies Renesas, Infineon, and others are cutting jobs and spending, as disappointing EV market growth leaves them saddled with excess capacity &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250326/p11#a250326p11)<!-- TECH:END -->
+ - [Q&amp;A with Careem CEO Mudassir Sheikha on the MENA ride-hailing giant becoming a super app, the spinout of its non-ride-hailing services from Uber, AI, and more &lpar;Anup Kaphle/Rest of World&rpar;](http://www.techmeme.com/250326/p12#a250326p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

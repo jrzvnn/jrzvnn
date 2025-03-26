@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Explain pencils](http://9gag.com/gag/aMVPKX1)
  - 😝 [Perfection](http://9gag.com/gag/aD28d5w)
- - 💣 [The perfect necklace doesn&#39;t exist...](http://9gag.com/gag/axy6yVM)
- - 😝 [I have hope](http://9gag.com/gag/a1m01RP)
- - 👉 [I wish I were half the man HE is](http://9gag.com/gag/apR6NAp)<!-- MEMES:END -->
+ - 💣 [I have hope](http://9gag.com/gag/a1m01RP)
+ - 😝 [I wish I were half the man HE is](http://9gag.com/gag/apR6NAp)
+ - 👉 [The perfect necklace doesn&#39;t exist...](http://9gag.com/gag/axy6yVM)<!-- MEMES:END -->
 
 ---
 

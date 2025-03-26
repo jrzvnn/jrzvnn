@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A software update for some Amazon Kindle models lets users double-tap the sides or back of the device to turn pages in books or scroll down in Home and Library &lpar;Michael Kozlowski/Good e-Reader&rpar;](http://www.techmeme.com/250326/p35#a250326p35)
  - [Some Kindles now let you double-tap anywhere to turn the page](https://www.theverge.com/news/636726/amazon-kindle-paperwhite-colorsoft-update-double-tap-turn-pages)
  - [DNI Tulsi Gabbard told a Congressional hearing that Signal comes &quot;pre-installed&quot; on government devices, hinting at a major shift following the Salt Typhoon hack &lpar;Maggie Miller/Politico&rpar;](http://www.techmeme.com/250326/p34#a250326p34)
  - [Mike Waltz Left His Venmo Friends List Public](https://www.wired.com/story/michael-waltz-left-his-venmo-public/)
- - [Best Internet Providers in Washington, DC](https://www.cnet.com/home/internet/best-internet-providers-in-washington-dc/#ftag=CAD590a51e)
- - [Warzone&#39;s Verdansk Map Returns: Here&#39;s the Release Roadmap](https://www.cnet.com/tech/gaming/warzones-verdansk-map-returns-heres-the-release-roadmap/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Washington, DC](https://www.cnet.com/home/internet/best-internet-providers-in-washington-dc/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

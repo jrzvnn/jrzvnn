@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rivian spins out secret e-bike lab into a new company called Also](https://www.theverge.com/news/636520/rivian-ebike-scooter-also-spin-out-micormobility)
+ - [How Extropic Plans to Unseat Nvidia](https://www.wired.com/story/how-extropic-plans-to-unseat-nvidia/)
+ - [Avocado Mattress Review: A Comfortable, Eco-Friendly, Organic Mattress](https://www.wired.com/review/avocado-green-mattress/)
  - [Waze says it is removing Google Assistant for iPhone users, citing &quot;ongoing difficulties&quot; with the integration, after recently testing a Gemini-based assistant &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250326/p28#a250326p28)
- - [Wyze’s new camera filter claims to cut down on nuisance alerts](https://www.theverge.com/news/636353/wyze-no-big-deal-filter-security-camera-notifications)
- - [TD Cowen: Microsoft walked away from new data center projects in the US and Europe that had been set to consume 2 gigawatts, a sign of AI computing oversupply &lpar;Bloomberg&rpar;](http://www.techmeme.com/250326/p27#a250326p27)
- - [This company is using AI to give people American-sounding accents](https://www.theverge.com/news/636414/krisp-ai-accent-converter)
- - [World of Warcraft will rollback some Hardcore mode permadeaths](https://www.theverge.com/news/636320/world-of-warcraft-hardcore-permadeath-rollback-onlyfangs)<!-- TECH:END -->
+ - [Wyze’s new camera filter claims to cut down on nuisance alerts](https://www.theverge.com/news/636353/wyze-no-big-deal-filter-security-camera-notifications)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

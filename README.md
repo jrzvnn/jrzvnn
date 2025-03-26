@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Consumers stick to the edges of Apple&#39;s &#39;good, better, best&#39; iPad pricing philosophy](https://appleinsider.com/articles/25/03/26/consumers-stick-to-the-edges-of-apples-good-better-best-ipad-pricing-philosophy?utm_medium=rss)
  - [Amazon&#39;s Big Spring Sale starts now, save up to $400 on Apple products](https://appleinsider.com/articles/25/03/25/amazons-big-spring-sale-starts-now-save-up-to-400-on-apple-products?utm_medium=rss)
  - [Waze is dropping Google Assistant on iPhone after leaving it broken for ‘over a year’](https://www.theverge.com/news/636286/waze-google-assistant-iphone-gemini)
  - [eMarketer expects X to generate $1.31B in US ad sales in 2025, up 17.5%, and $2.26B in global ad sales, up 16.5%, the first year of ad revenue growth since 2022 &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/250326/p25#a250326p25)
- - [Atomfall makes the postapocalypse quintessentially British](https://www.theverge.com/games-review/635297/atomfall-review-xbox-ps5-steam)
- - [A New Social Media App Punishes Users for Rage-Baiting](https://www.wired.com/story/this-platform-wants-to-return-civil-discourse-to-social-media-by-scoring-users/)<!-- TECH:END -->
+ - [Atomfall makes the postapocalypse quintessentially British](https://www.theverge.com/games-review/635297/atomfall-review-xbox-ps5-steam)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

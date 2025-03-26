@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside DOGE&#39;s Plan to Invade the Treasury—and Throttle USAID](https://www.wired.com/story/elon-musk-doge-plan-treasury-usaid/)
- - [Island, which offers a Chromium-based secure enterprise browser, raised a $250M Series E led by Coatue at a $4.8B valuation, taking its total funding to ~$730M &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250326/p30#a250326p30)
- - [Canon redesigned its entry-level EOS R50 with improved video capabilities](https://www.theverge.com/news/636493/canon-eos-r50-v-camera-aps-c-4k-livestreaming)
- - [&#39;Severance&#39; editor was all-in on Apple hardware, but not Final Cut Pro](https://appleinsider.com/articles/25/03/26/severance-editor-was-all-in-on-apple-hardware-but-not-final-cut-pro?utm_medium=rss)
- - [Sources: Italy hands tax demands to Meta, X, and LinkedIn in the last step in its VAT case, seeking €887.6M from Meta, €12.5M from X, and ~€140M from LinkedIn &lpar;Reuters&rpar;](http://www.techmeme.com/250326/p29#a250326p29)<!-- TECH:END -->
+ - [I Took My Leica to Photograph Cars in the Arctic. These Are My Pro Tips](https://www.cnet.com/tech/computing/i-took-my-leica-to-photograph-cars-in-the-arctic-these-are-my-pro-tips/#ftag=CAD590a51e)
+ - [Microsoft’s account sign-in UI gets a new design and dark mode](https://www.theverge.com/news/636622/microsoft-account-sign-in-new-design-dark-mode)
+ - [Netflix Adds HDR10 Plus Format for Subscribers With Premium Accounts](https://www.cnet.com/tech/services-and-software/netflix-adds-hdr10-format-for-subscribers-with-premium-accounts/#ftag=CAD590a51e)
+ - [Best Riding Mowers for Cutting Grass Lawns in 2025](https://www.cnet.com/news/best-riding-mowers/#ftag=CAD590a51e)
+ - [Inside DOGE’s Plan to Invade the Treasury—and Throttle USAID](https://www.wired.com/story/elon-musk-doge-plan-treasury-usaid/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

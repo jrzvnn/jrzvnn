@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The aim](http://9gag.com/gag/ae9ZDzq)
- - 😝 [The hero that you always wanted to be](http://9gag.com/gag/a6Z5ZVb)
- - 💣 [Wrong turn ruined a race](http://9gag.com/gag/aO8Z3nv)
- - 😝 [The kick from Chuck Norris sounds like a gunshot](http://9gag.com/gag/aryXVGy)
- - 👉 [Whoop](http://9gag.com/gag/apR6R58)<!-- MEMES:END -->
+ - 😝 [Geisha game](http://9gag.com/gag/aD284EG)
+ - 😝 [If Atom Eve was a goth](http://9gag.com/gag/a340163)
+ - 💣 [In 2001, Coca-Cola announced that it sold 4 times more than Pepsi, and this was the company&#39;s response](http://9gag.com/gag/agm7gZ1)
+ - 😝 [I feel so bad for all single men who think THEIR life sucks...](http://9gag.com/gag/ayN6MPr)
+ - 👉 [The aim](http://9gag.com/gag/ae9ZDzq)<!-- MEMES:END -->
 
 ---
 

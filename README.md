@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft unveils AI deep reasoning agents for 365 Copilot: Researcher, based on OpenAI&#39;s deep research model, and o3-mini-based Analyst, rolling out in April &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/250326/p18#a250326p18)
+ - [The Best Programming Language for the End of the World](https://www.wired.com/story/forth-collapse-os-apocalypse-programming-language/)
+ - [The Worm That No Computer Scientist Can Crack](https://www.wired.com/story/openworm-worm-simulator-biology-code/)
  - [Sources: the EU&#39;s Huawei corruption probe is looking at alleged gifts like soccer tickets exchanged for political favors; one detainee was a Huawei lobbyist &lpar;Laura Dubois/Financial Times&rpar;](http://www.techmeme.com/250326/p17#a250326p17)
- - [Databricks details Test-time Adaptive Optimization, or TAO, a new approach to boost LLM performance without requiring labeled data, available now to customers &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250326/p16#a250326p16)
- - [Reolink’s wireless camera easily transitions from vanlife to homelife](https://www.theverge.com/reviews/636109/180-degree-wireless-4k-camera-review-vanlife-home-surveillance)
- - [The US adds export restrictions to 80 entities, primarily targeting Chinese companies, including server maker Nettrix and customers of Nvidia, Intel, and AMD &lpar;Ana Swanson/New York Times&rpar;](http://www.techmeme.com/250326/p15#a250326p15)
- - [Bain Capital agrees to acquire a majority stake in Italian IT company Namirial from private equity firm Ambienta, sources say valuing Namirial at €1.1B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250326/p14#a250326p14)<!-- TECH:END -->
+ - [Databricks details Test-time Adaptive Optimization, or TAO, a new approach to boost LLM performance without requiring labeled data, available now to customers &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250326/p16#a250326p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you have a grudge against Motorcycle riders...](http://9gag.com/gag/abA4ARp)
- - 😝 [Second best](http://9gag.com/gag/aLn412g)
- - 💣 [Men only want 1 thing and it&#39;s disgusting](http://9gag.com/gag/aRBMXpG)
- - 😝 [Nintendo Gameboy](http://9gag.com/gag/an727dq)
- - 👉 [Last I checked, it was 2.3/10 \u2018outscoring\u2019 even Dragonball Evolution at 2.5/10! It went lower? What\u2019s the target?](http://9gag.com/gag/aXPVPdd)<!-- MEMES:END -->
+ - 😝 [If Atom Eve was a goth](http://9gag.com/gag/a340163)
+ - 😝 [Last I checked, it was 2.3/10 \u2018outscoring\u2019 even Dragonball Evolution at 2.5/10! It went lower? What\u2019s the target?](http://9gag.com/gag/aXPVPdd)
+ - 💣 [Wrong turn ruined a race](http://9gag.com/gag/aO8Z3nv)
+ - 😝 [I feel so bad for all single men who think THEIR life sucks...](http://9gag.com/gag/ayN6MPr)
+ - 👉 [He enjoyed the ride](http://9gag.com/gag/amo6g3j)<!-- MEMES:END -->
 
 ---
 

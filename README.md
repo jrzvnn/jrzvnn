@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Utah&#39;s new law forces tech companies to add age verification, but Apple is already prepared](https://appleinsider.com/articles/25/03/26/utahs-new-law-forces-tech-companies-to-add-age-verification-but-apple-is-already-prepared?utm_medium=rss)
  - [Google says it plans to develop Android fully in private to streamline the development process but will continue to publish the source code for new releases &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/250326/p39#a250326p39)
- - [Nothing’s colorful, entry-level earbuds have fallen to their best price to date](https://www.theverge.com/tech/636935/nothing-ear-a-wireless-earbuds-amazon-big-spring-sale-2025-deal-sale)
- - [Trump says he will impose a 25 percent tariff on imported vehicles](https://www.theverge.com/news/637004/trump-auto-tariffs-25-percent)
- - [xAI&#39;s Grok AI chatbot is now integrated with Telegram for Telegram Premium users, marking Grok&#39;s first big expansion beyond X &lpar;Andrew Hutchinson/Social Media Today&rpar;](http://www.techmeme.com/250326/p38#a250326p38)<!-- TECH:END -->
+ - [9 of the Best Horror Movies to Stream on Max](https://www.cnet.com/tech/services-and-software/9-of-the-best-horror-movies-to-stream-on-max-march-2025/#ftag=CAD590a51e)
+ - [Play as These Nostalgic Film Characters This April on PlayStation Plus](https://www.cnet.com/tech/gaming/play-as-these-nostalgic-film-characters-this-april-on-playstation-plus/#ftag=CAD590a51e)
+ - [Nothing’s colorful, entry-level earbuds have fallen to their best price to date](https://www.theverge.com/tech/636935/nothing-ear-a-wireless-earbuds-amazon-big-spring-sale-2025-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

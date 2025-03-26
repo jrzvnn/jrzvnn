@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Marvel unveils the gigantic cast for Avengers: Doomsday](https://www.theverge.com/news/636463/avengers-doomsday-cast-xmen-mcu)
  - [Some Kindles now let you double-tap anywhere to turn the page](https://www.theverge.com/news/636726/amazon-kindle-paperwhite-colorsoft-update-double-tap-turn-pages)
  - [Amazon Spring Sale deals on Verge staff home favorites](https://www.theverge.com/tech/635736/amazon-big-spring-sale-best-deals-tech-staff-picks-march-prime-day-2025)
- - [2025 HomePod mini 2 &amp; HomePod 3 rumors - what to expect, and when](https://appleinsider.com/articles/25/03/26/2025-homepod-mini-2-homepod-3-rumors---what-to-expect-and-when?utm_medium=rss)<!-- TECH:END -->
+ - [Best Internet Providers in Youngstown, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-youngstown-oh/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

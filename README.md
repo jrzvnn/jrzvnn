@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I forgot to take out the trash](http://9gag.com/gag/a9y5EoZ)
- - 😝 [When you have a grudge against Motorcycle riders...](http://9gag.com/gag/abA4ARp)
- - 💣 [Whoop](http://9gag.com/gag/apR6R58)
- - 😝 [The kick from Chuck Norris sounds like a gunshot](http://9gag.com/gag/aryXVGy)
- - 👉 [Last I checked, it was 2.3/10 \u2018outscoring\u2019 even Dragonball Evolution at 2.5/10! It went lower? What\u2019s the target?](http://9gag.com/gag/aXPVPdd)<!-- MEMES:END -->
+ - 😝 [The aim](http://9gag.com/gag/ae9ZDzq)
+ - 😝 [Whoop](http://9gag.com/gag/apR6R58)
+ - 💣 [Sydney Sweeney at a film&#39;s premiere.](http://9gag.com/gag/agm7mxr)
+ - 😝 [Last I checked, it was 2.3/10 \u2018outscoring\u2019 even Dragonball Evolution at 2.5/10! It went lower? What\u2019s the target?](http://9gag.com/gag/aXPVPdd)
+ - 👉 [Giving this lost bee hive a new queen!](http://9gag.com/gag/abA4GX9)<!-- MEMES:END -->
 
 ---
 

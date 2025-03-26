@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Developers say aggressive AI crawlers are overwhelming open-source infrastructure and disproportionately burdening open-source projects &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/250326/p8#a250326p8)
  - [TRAI Chairman Anil Kumar Lahoti says India, with only 1% of global subsea cable landing stations, must expand its subsea cable infrastructure 10x to meet demand &lpar;Karan Mahadik/The Indian Express&rpar;](http://www.techmeme.com/250326/p7#a250326p7)
  - [State and former US officials say satellite internet like Starlink&#39;s may cut upfront costs for the $42B rural broadband program but could cost more long term &lpar;Kelcee Griffis/Bloomberg&rpar;](http://www.techmeme.com/250326/p6#a250326p6)
  - [As the EU considers funding a Starlink rival, experts say no single European network can match Starlink&#39;s range, likely requiring a patchwork of satellites &lpar;Financial Times&rpar;](http://www.techmeme.com/250326/p5#a250326p5)
- - [Best Internet Providers in Warren, Michigan](https://www.cnet.com/home/internet/best-internet-providers-in-warren-mi/#ftag=CAD590a51e)
- - [BMW partners with Alibaba to use Qwen-powered AI cockpit tech from Alibaba-backed Banma in its upcoming car models for the Chinese market, rolling out next year &lpar;Bloomberg&rpar;](http://www.techmeme.com/250326/p4#a250326p4)<!-- TECH:END -->
+ - [Best Internet Providers in Warren, Michigan](https://www.cnet.com/home/internet/best-internet-providers-in-warren-mi/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

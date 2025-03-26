@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Waze says it is removing Google Assistant for iPhone users, citing &quot;ongoing difficulties&quot; with the integration, after recently testing a Gemini-based assistant &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250326/p28#a250326p28)
  - [Wyze’s new camera filter claims to cut down on nuisance alerts](https://www.theverge.com/news/636353/wyze-no-big-deal-filter-security-camera-notifications)
  - [TD Cowen: Microsoft walked away from new data center projects in the US and Europe that had been set to consume 2 gigawatts, a sign of AI computing oversupply &lpar;Bloomberg&rpar;](http://www.techmeme.com/250326/p27#a250326p27)
  - [This company is using AI to give people American-sounding accents](https://www.theverge.com/news/636414/krisp-ai-accent-converter)
- - [World of Warcraft will rollback some Hardcore mode permadeaths](https://www.theverge.com/news/636320/world-of-warcraft-hardcore-permadeath-rollback-onlyfangs)
- - [iPad &lpar;A16&rpar; review: fast chip, double the storage, 2GB more RAM, good build quality and battery, and loads of apps, but an aging display and no M chips or AI &lpar;Jeff Dunn/Engadget&rpar;](http://www.techmeme.com/250326/p26#a250326p26)<!-- TECH:END -->
+ - [World of Warcraft will rollback some Hardcore mode permadeaths](https://www.theverge.com/news/636320/world-of-warcraft-hardcore-permadeath-rollback-onlyfangs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

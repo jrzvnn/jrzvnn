@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Character.AI adds a Parental Insights feature that lets teens send reports of their chatbot usage to their parents, including which bots they are talking to &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/250325/p39#a250325p39)
- - [Apple Savings APY drops to yet another all-time low of 3.75% during economic uncertainty](https://appleinsider.com/articles/25/03/26/apple-savings-apy-drops-to-yet-another-all-time-low-of-375-during-economic-uncertainty?utm_medium=rss)
- - [Latest iOS 19 mockups &#39;aren&#39;t representative&#39; of true redesign, says other leaker](https://appleinsider.com/articles/25/03/26/latest-ios-19-mockups-arent-representative-of-true-redesign-says-other-leaker?utm_medium=rss)
- - [Amazon’s big spring sale is live, and here are the 70 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
- - [Leaked email: Block lays off 931 employees, ~8% of staff, and moves 193 managers to individual contributor roles, in a second reorganization in just over a year &lpar;TechCrunch&rpar;](http://www.techmeme.com/250325/p38#a250325p38)<!-- TECH:END -->
+ - [Microsoft adds ‘deep reasoning’ Copilot AI for research and data analysis](https://www.theverge.com/microsoft/636089/microsoft-365-copilot-reasoning-ai-agents)
+ - [Anthropic convinced a California federal judge to reject a preliminary bid to block it from using lyrics owned by UMG and other music publishers to train Claude &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/250325/p40#a250325p40)
+ - [How to shut down your iPhone in iOS 18](https://appleinsider.com/articles/25/03/26/how-to-shut-down-your-iphone-in-ios-18?utm_medium=rss)
+ - [How Apple Savings compares vs other high-yield savings accounts](https://appleinsider.com/inside/apple-card/vs/how-apple-savings-compares-vs-other-high-yield-savings-accounts?utm_medium=rss)
+ - [Character.AI adds a Parental Insights feature that lets teens send reports of their chatbot usage to their parents, including which bots they are talking to &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/250325/p39#a250325p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

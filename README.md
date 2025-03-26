@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Insane and evil](http://9gag.com/gag/azxKmpN)
- - 😝 [Only in America.](http://9gag.com/gag/a340R37)
- - 💣 [Bet you weren&#39;t expecting that intro. Respect yourselves.](http://9gag.com/gag/a4PN31w)
- - 😝 [Turkish Hairlines sponsored](http://9gag.com/gag/aGyBdWz)
- - 👉 [A very old video as a reminder to not to be an idiot](http://9gag.com/gag/a4PNRvZ)<!-- MEMES:END -->
+ - 😝 [Explain pencils](http://9gag.com/gag/aMVPKX1)
+ - 😝 [Perfection](http://9gag.com/gag/aD28d5w)
+ - 💣 [The perfect necklace doesn&#39;t exist...](http://9gag.com/gag/axy6yVM)
+ - 😝 [I have hope](http://9gag.com/gag/a1m01RP)
+ - 👉 [I wish I were half the man HE is](http://9gag.com/gag/apR6NAp)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Last I checked, it was 2.3/10 \u2018outscoring\u2019 even Dragonball Evolution at 2.5/10! It went lower? What\u2019s the target?](http://9gag.com/gag/aXPVPdd)
- - 😝 [A knot that allows you to carry objects with a rope](http://9gag.com/gag/adBQPdM)
- - 💣 [It still tastes good tho](http://9gag.com/gag/a87061Y)
- - 😝 [Who remembers these?](http://9gag.com/gag/a8706GO)
- - 👉 [Whoop](http://9gag.com/gag/apR6R58)<!-- MEMES:END -->
+ - 😝 [Sydney Sweeney at a film&#39;s premiere.](http://9gag.com/gag/agm7mxr)
+ - 😝 [In 2001, Coca-Cola announced that it sold 4 times more than Pepsi, and this was the company&#39;s response](http://9gag.com/gag/agm7gZ1)
+ - 💣 [Colorado State Rep. Amy Paschal was seen coloring on her iPad during a debate on a gun control bill.](http://9gag.com/gag/ayN6eOy)
+ - 😝 [This is how pandas give birth to children](http://9gag.com/gag/aAyK0n2)
+ - 👉 [Last I checked, it was 2.3/10 \u2018outscoring\u2019 even Dragonball Evolution at 2.5/10! It went lower? What\u2019s the target?](http://9gag.com/gag/aXPVPdd)<!-- MEMES:END -->
 
 ---
 

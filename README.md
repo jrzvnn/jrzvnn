@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Starboard Value nominates three directors including its CEO, Jeff Smith, to Autodesk&#39;s board, rekindling its proxy battle with Autodesk over margin concerns &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/250326/p32#a250326p32)
+ - [Amazon’s big spring sale continues, and we found the 73 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
  - [The best foldable phone you can buy](https://www.theverge.com/tech/635839/best-foldable-phone)
  - [Apple blocked from presenting at Google antitrust hearing where $20 billion search deal is at stake](https://www.theverge.com/news/636743/apple-google-antitrust-intervene-appeal-denied)
- - [The 20 best Amazon Big Spring Sale deals under $30](https://www.theverge.com/tech/636342/amazon-big-spring-sale-2025-best-deals-under-30-tech-gift-ideas)
- - [Spilled! Is a Cozy Game About Cleaning Up Oil-Drenched Waterways](https://www.cnet.com/tech/gaming/spilled-is-a-cozy-game-about-cleaning-up-oil-drenched-waterways/#ftag=CAD590a51e)
- - [Apple doesn&#39;t appear to have plans to revive the iPhone mini](https://appleinsider.com/articles/25/03/26/apple-doesnt-appear-to-have-plans-to-revive-the-iphone-mini?utm_medium=rss)<!-- TECH:END -->
+ - [The 20 best Amazon Big Spring Sale deals under $30](https://www.theverge.com/tech/636342/amazon-big-spring-sale-2025-best-deals-under-30-tech-gift-ideas)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

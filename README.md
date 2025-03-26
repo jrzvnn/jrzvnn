@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Explain pencils](http://9gag.com/gag/aMVPKX1)
- - 😝 [Perfection](http://9gag.com/gag/aD28d5w)
- - 💣 [I have hope](http://9gag.com/gag/a1m01RP)
- - 😝 [I wish I were half the man HE is](http://9gag.com/gag/apR6NAp)
- - 👉 [The perfect necklace doesn&#39;t exist...](http://9gag.com/gag/axy6yVM)<!-- MEMES:END -->
+ - 😝 [Wrong turn ruined a race](http://9gag.com/gag/aO8Z3nv)
+ - 😝 [Game of the year](http://9gag.com/gag/ayN6emb)
+ - 💣 [Only in America.](http://9gag.com/gag/a340R37)
+ - 😝 [I can fix her](http://9gag.com/gag/a6Z5Nom)
+ - 👉 [Tomorrow](http://9gag.com/gag/a340Re5)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump says he will impose a 25 percent tariff on imported vehicles](https://www.theverge.com/news/637004/trump-auto-tariffs-25-percent)
+ - [xAI&#39;s Grok AI chatbot is now integrated with Telegram for Telegram Premium users, marking Grok&#39;s first big expansion beyond X &lpar;Andrew Hutchinson/Social Media Today&rpar;](http://www.techmeme.com/250326/p38#a250326p38)
+ - [Microsoft revamps its Windows Game Bar](https://www.theverge.com/news/636985/microsoft-xbox-march-2025-update-game-bar-look-pass-switching)
  - [Utah Gov. Spencer Cox signs a bill requiring Apple&#39;s and Google&#39;s mobile app stores to verify user ages and require parental consent for minors to use some apps &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250326/p37#a250326p37)
- - [Amazon’s big spring sale continues, and we found the 75 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
- - [ChatGPT’s new image generator is delayed for free users](https://www.theverge.com/news/636948/openai-chatgpt-image-generation-gpt-4o)
- - [A US federal judge rejects OpenAI&#39;s request to dismiss the NYT&#39;s lawsuit, allowing the main copyright infringement claims to go forward while narrowing the suit &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/250326/p36#a250326p36)
- - [A software update for some Amazon Kindle models lets users double-tap the sides or back of the device to turn pages in books or scroll down in Home and Library &lpar;Michael Kozlowski/Good e-Reader&rpar;](http://www.techmeme.com/250326/p35#a250326p35)<!-- TECH:END -->
+ - [Amazon’s big spring sale continues, and we found the 75 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

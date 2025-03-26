@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wyze’s new camera filter claims to cut down on nuisance alerts](https://www.theverge.com/news/636353/wyze-no-big-deal-filter-security-camera-notifications)
+ - [TD Cowen: Microsoft walked away from new data center projects in the US and Europe that had been set to consume 2 gigawatts, a sign of AI computing oversupply &lpar;Bloomberg&rpar;](http://www.techmeme.com/250326/p27#a250326p27)
+ - [This company is using AI to give people American-sounding accents](https://www.theverge.com/news/636414/krisp-ai-accent-converter)
  - [World of Warcraft will rollback some Hardcore mode permadeaths](https://www.theverge.com/news/636320/world-of-warcraft-hardcore-permadeath-rollback-onlyfangs)
- - [iPad &lpar;A16&rpar; review: fast chip, double the storage, 2GB more RAM, good build quality and battery, and loads of apps, but an aging display and no M chips or AI &lpar;Jeff Dunn/Engadget&rpar;](http://www.techmeme.com/250326/p26#a250326p26)
- - [21 Great Gifts for Mom: Ideas for the Best Mother &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-moms/)
- - [Metaphor: ReFantazio’s elaborate menus are designed to heighten your emotions](https://www.theverge.com/games/636243/metaphor-refantazio-ui-menu-interview-koji-ise)
- - [The base iPad is finally being left behind](https://www.theverge.com/apple/636335/ipad-2025-11th-generation-review)<!-- TECH:END -->
+ - [iPad &lpar;A16&rpar; review: fast chip, double the storage, 2GB more RAM, good build quality and battery, and loads of apps, but an aging display and no M chips or AI &lpar;Jeff Dunn/Engadget&rpar;](http://www.techmeme.com/250326/p26#a250326p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

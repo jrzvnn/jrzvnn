@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Careem CEO Mudassir Sheikha on the MENA ride-hailing giant becoming a super app, the spinout of its non-ride-hailing services from Uber, AI, and more &lpar;Anup Kaphle/Rest of World&rpar;](http://www.techmeme.com/250326/p12#a250326p12)
+ - [Power chip companies Renesas, Infineon, and others are cutting jobs and spending, as disappointing EV market growth leaves them saddled with excess capacity &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250326/p11#a250326p11)
+ - [Porsche&amp;#8217;s next Taycan gets an infotainment upgrade — but no new CarPlay](https://www.theverge.com/news/635940/porsche-2026-911-taycan-infotainment-pcm-alexa-carplay)
  - [A look at the origins of RISC architecture, the Arm vs. RISC-V war, and RISC&#39;s lasting impact, as its increasing global adoption risks US companies&#39; dominance &lpar;Jason Kehe/Wired&rpar;](http://www.techmeme.com/250326/p10#a250326p10)
- - [USCIS data shows Amazon got the most H-1B visas each year from 2020 to 2024; Google, Meta, Microsoft, and Apple ranked in the top 10 in 2024 &lpar;Ananya Bhattacharya/Rest of World&rpar;](http://www.techmeme.com/250326/p9#a250326p9)
- - [Developers say aggressive AI crawlers are overwhelming open-source infrastructure and disproportionately burdening open-source projects &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/250326/p8#a250326p8)
- - [TRAI Chairman Anil Kumar Lahoti says India, with only 1% of global subsea cable landing stations, must expand its subsea cable infrastructure 10x to meet demand &lpar;Karan Mahadik/The Indian Express&rpar;](http://www.techmeme.com/250326/p7#a250326p7)
- - [State and former US officials say satellite internet like Starlink&#39;s may cut upfront costs for the $42B rural broadband program but could cost more long term &lpar;Kelcee Griffis/Bloomberg&rpar;](http://www.techmeme.com/250326/p6#a250326p6)<!-- TECH:END -->
+ - [USCIS data shows Amazon got the most H-1B visas each year from 2020 to 2024; Google, Meta, Microsoft, and Apple ranked in the top 10 in 2024 &lpar;Ananya Bhattacharya/Rest of World&rpar;](http://www.techmeme.com/250326/p9#a250326p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

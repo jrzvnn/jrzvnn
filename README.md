@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [2025 HomePod mini 2 &amp; HomePod 3 rumors - what to expect, and when](https://appleinsider.com/articles/25/03/26/2025-homepod-mini-2-homepod-3-rumors---what-to-expect-and-when?utm_medium=rss)
+ - [The Shokz OpenRun Pro 2 are worth their full price, but are more tempting at $30 off](https://www.theverge.com/tech/636668/shokz-bone-conduction-headphones-openrun-pro-2-sale-amazon-spring)
  - [Starboard Value nominates three directors including its CEO, Jeff Smith, to Autodesk&#39;s board, rekindling its proxy battle with Autodesk over margin concerns &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/250326/p32#a250326p32)
- - [Amazon’s big spring sale continues, and we found the 73 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
- - [The best foldable phone you can buy](https://www.theverge.com/tech/635839/best-foldable-phone)
- - [Apple blocked from presenting at Google antitrust hearing where $20 billion search deal is at stake](https://www.theverge.com/news/636743/apple-google-antitrust-intervene-appeal-denied)
- - [The 20 best Amazon Big Spring Sale deals under $30](https://www.theverge.com/tech/636342/amazon-big-spring-sale-2025-best-deals-under-30-tech-gift-ideas)<!-- TECH:END -->
+ - [SignalGate Isn&#39;t About Signal](https://www.wired.com/story/signalgate-isnt-about-signal/)
+ - [Amazon’s big spring sale continues, and we found the 73 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

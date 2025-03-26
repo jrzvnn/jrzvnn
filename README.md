@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Took My Leica to Photograph Cars in the Arctic. These Are My Pro Tips](https://www.cnet.com/tech/computing/i-took-my-leica-to-photograph-cars-in-the-arctic-these-are-my-pro-tips/#ftag=CAD590a51e)
+ - [Apple doesn&#39;t appear to have plans to revive the iPhone mini](https://appleinsider.com/articles/25/03/26/apple-doesnt-appear-to-have-plans-to-revive-the-iphone-mini?utm_medium=rss)
+ - [Leaked financial figures: Stripe doubled its free cash flow in 2024 to about $2.2B and grew revenues by about 28% to $5.1B; Chime grew revenues by 31% to $1.7B &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/250326/p31#a250326p31)
  - [Microsoft’s account sign-in UI gets a new design and dark mode](https://www.theverge.com/news/636622/microsoft-account-sign-in-new-design-dark-mode)
- - [Netflix Adds HDR10 Plus Format for Subscribers With Premium Accounts](https://www.cnet.com/tech/services-and-software/netflix-adds-hdr10-format-for-subscribers-with-premium-accounts/#ftag=CAD590a51e)
- - [Best Riding Mowers for Cutting Grass Lawns in 2025](https://www.cnet.com/news/best-riding-mowers/#ftag=CAD590a51e)
- - [Inside DOGE’s Plan to Invade the Treasury—and Throttle USAID](https://www.wired.com/story/elon-musk-doge-plan-treasury-usaid/)<!-- TECH:END -->
+ - [Inside DOGE’s Plan to Invade the Treasury—and Throttle USAID](https://www.wired.com/story/elon-musk-doge-plan-treasury-usaid/)
+ - [Island, which offers a Chromium-based secure enterprise browser, raised a $250M Series E led by Coatue at a $4.8B valuation, taking its total funding to ~$730M &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250326/p30#a250326p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

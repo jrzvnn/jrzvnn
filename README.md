@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s big spring sale continues, and we found the 72 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
- - [US expands export blacklist to keep computing tech out of China](https://www.theverge.com/news/636277/us-chinese-export-restrictions-blacklist-80-companies)
- - [Mercury, which helps startups manage their finances, raised $300M led by Sequoia at a $3.5B valuation; the fintech saw $2B in deposits after SVB&#39;s collapse &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/250326/p23#a250326p23)
- - [6 Best Password Managers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-password-managers/)
- - [Get an iPhone 16e virtually free from T-Mobile &amp; enjoy more perks with Magenta Status](https://appleinsider.com/articles/25/03/26/get-an-iphone-16e-virtually-free-from-t-mobile-enjoy-more-perks-with-magenta-status?utm_medium=rss)<!-- TECH:END -->
+ - [10 Best Smart Speakers &lpar;2025&rpar;: Alexa, Google Assistant, Siri](https://www.wired.com/story/best-smart-speakers/)
+ - [Tim Cook&#39;s very light praise for DeepSeek is good politics, not endorsement](https://appleinsider.com/articles/25/03/26/tim-cooks-very-light-praise-for-deepseek-is-good-politics-not-endorsement?utm_medium=rss)
+ - [What&amp;#8217;s on your desk, Jennifer Pattison Tuohy?](https://www.theverge.com/tech/634084/desk-home-office-jennifer-pattison-tuohy)
+ - [No Man’s Sky gets prehistoric with Relics expansion](https://www.theverge.com/news/635890/no-mans-sky-relics-update-archaeology)
+ - [Amazon’s big spring sale continues, and we found the 72 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

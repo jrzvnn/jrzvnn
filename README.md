@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TurboTax Discount Codes: 20% Off | March 2025](https://www.wired.com/story/turbotax-coupon/)
+ - [The US adds six subsidiaries of Inspur Group, China&#39;s top cloud provider, and dozens of other Chinese entities to its export blacklist; Inspur was added in 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/250326/p1#a250326p1)
+ - [Best Internet Providers in Providence, Rhode Island](https://www.cnet.com/home/internet/best-internet-providers-in-providence-ri/#ftag=CAD590a51e)
  - [Microsoft adds ‘deep reasoning’ Copilot AI for research and data analysis](https://www.theverge.com/microsoft/636089/microsoft-365-copilot-reasoning-ai-agents)
- - [Anthropic convinced a California federal judge to reject a preliminary bid to block it from using lyrics owned by UMG and other music publishers to train Claude &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/250325/p40#a250325p40)
- - [The 15 Best Mobile Games in 2025: Top iPhone and Android Games](https://www.cnet.com/tech/gaming/the-15-best-mobile-games-in-2025-top-iphone-and-android-games/#ftag=CAD590a51e)
- - [How to shut down your iPhone in iOS 18](https://appleinsider.com/articles/25/03/26/how-to-shut-down-your-iphone-in-ios-18?utm_medium=rss)
- - [Best Internet Providers in Oakland, California](https://www.cnet.com/home/internet/best-internet-providers-in-oakland-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Anthropic convinced a California federal judge to reject a preliminary bid to block it from using lyrics owned by UMG and other music publishers to train Claude &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/250325/p40#a250325p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

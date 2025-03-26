@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The kick from Chuck Norris sounds like a gunshot](http://9gag.com/gag/aryXVGy)
- - 😝 [This is how pandas give birth to children](http://9gag.com/gag/aAyK0n2)
+ - 😝 [I forgot to take out the trash](http://9gag.com/gag/a9y5EoZ)
+ - 😝 [When you have a grudge against Motorcycle riders...](http://9gag.com/gag/abA4ARp)
  - 💣 [Whoop](http://9gag.com/gag/apR6R58)
- - 😝 [Former UFC champion Cain Velasquez has been sentenced to 5 years in prison for attempted murder after firing a gun at a man who allegedly molested his son over 100 times at a daycare](http://9gag.com/gag/awy1zmx)
- - 👉 [Sydney Sweeney at a film&#39;s premiere.](http://9gag.com/gag/agm7mxr)<!-- MEMES:END -->
+ - 😝 [The kick from Chuck Norris sounds like a gunshot](http://9gag.com/gag/aryXVGy)
+ - 👉 [Last I checked, it was 2.3/10 \u2018outscoring\u2019 even Dragonball Evolution at 2.5/10! It went lower? What\u2019s the target?](http://9gag.com/gag/aXPVPdd)<!-- MEMES:END -->
 
 ---
 

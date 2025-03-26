@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Databricks details Test-time Adaptive Optimization, or TAO, a new approach to boost LLM performance without requiring labeled data, available now to customers &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250326/p16#a250326p16)
+ - [Reolink’s wireless camera easily transitions from vanlife to homelife](https://www.theverge.com/reviews/636109/180-degree-wireless-4k-camera-review-vanlife-home-surveillance)
  - [The US adds export restrictions to 80 entities, primarily targeting Chinese companies, including server maker Nettrix and customers of Nvidia, Intel, and AMD &lpar;Ana Swanson/New York Times&rpar;](http://www.techmeme.com/250326/p15#a250326p15)
  - [Bain Capital agrees to acquire a majority stake in Italian IT company Namirial from private equity firm Ambienta, sources say valuing Namirial at €1.1B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250326/p14#a250326p14)
- - [101 Best Amazon Spring Sale Deals &lpar;2025&rpar;](https://www.wired.com/story/amazon-spring-sale-2025-2/)
- - [A cross-party committee of UK MPs casts doubt on the UK&#39;s plan to boost the public sector with AI, citing outdated tech, poor data, and a lack of digital skills &lpar;Delphine Strauss/Financial Times&rpar;](http://www.techmeme.com/250326/p13#a250326p13)
- - [Beneath Greenland’s Ice Lies a Climate Solution—and a New Geopolitical Battleground](https://www.wired.com/story/beneath-greenlands-ice-lies-a-climate-solution-and-a-new-geopolitical-battleground/)<!-- TECH:END -->
+ - [101 Best Amazon Spring Sale Deals &lpar;2025&rpar;](https://www.wired.com/story/amazon-spring-sale-2025-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

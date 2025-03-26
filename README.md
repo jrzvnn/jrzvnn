@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In 2001, Coca-Cola announced that it sold 4 times more than Pepsi, and this was the company&#39;s response](http://9gag.com/gag/agm7gZ1)
- - 😝 [What daughter?](http://9gag.com/gag/a5Qw19g)
- - 💣 [I feel so bad for all single men who think THEIR life sucks...](http://9gag.com/gag/ayN6MPr)
+ - 😝 [This is how pandas give birth to children](http://9gag.com/gag/aAyK0n2)
  - 😝 [Sydney Sweeney at a film&#39;s premiere.](http://9gag.com/gag/agm7mxr)
- - 👉 [He enjoyed the ride](http://9gag.com/gag/amo6g3j)<!-- MEMES:END -->
+ - 💣 [In 2001, Coca-Cola announced that it sold 4 times more than Pepsi, and this was the company&#39;s response](http://9gag.com/gag/agm7gZ1)
+ - 😝 [I feel so bad for all single men who think THEIR life sucks...](http://9gag.com/gag/ayN6MPr)
+ - 👉 [Wrong turn ruined a race](http://9gag.com/gag/aO8Z3nv)<!-- MEMES:END -->
 
 ---
 

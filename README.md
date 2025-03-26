@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube Shorts will count views even if you scroll past](https://www.theverge.com/news/636876/youtube-shorts-views-counting-update)
  - [YouTube says Shorts views will now be counted each time a video starts to play or replay, rather than only after being watched for a certain number of seconds &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250326/p33#a250326p33)
  - [Marvel unveils the gigantic cast for Avengers: Doomsday](https://www.theverge.com/news/636463/avengers-doomsday-cast-xmen-mcu)
  - [Some Kindles now let you double-tap anywhere to turn the page](https://www.theverge.com/news/636726/amazon-kindle-paperwhite-colorsoft-update-double-tap-turn-pages)
- - [Amazon Spring Sale deals on Verge staff home favorites](https://www.theverge.com/tech/635736/amazon-big-spring-sale-best-deals-tech-staff-picks-march-prime-day-2025)
- - [Best Internet Providers in Youngstown, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-youngstown-oh/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon Spring Sale deals on Verge staff home favorites](https://www.theverge.com/tech/635736/amazon-big-spring-sale-best-deals-tech-staff-picks-march-prime-day-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

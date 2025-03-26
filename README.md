@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TurboTax Discount Codes: 20% Off | March 2025](https://www.wired.com/story/turbotax-coupon/)
- - [The US adds six subsidiaries of Inspur Group, China&#39;s top cloud provider, and dozens of other Chinese entities to its export blacklist; Inspur was added in 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/250326/p1#a250326p1)
- - [Best Internet Providers in Providence, Rhode Island](https://www.cnet.com/home/internet/best-internet-providers-in-providence-ri/#ftag=CAD590a51e)
- - [Microsoft adds ‘deep reasoning’ Copilot AI for research and data analysis](https://www.theverge.com/microsoft/636089/microsoft-365-copilot-reasoning-ai-agents)
- - [Anthropic convinced a California federal judge to reject a preliminary bid to block it from using lyrics owned by UMG and other music publishers to train Claude &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/250325/p40#a250325p40)<!-- TECH:END -->
+ - [Docs: China&#39;s new energy rules could block the use of Nvidia&#39;s H20 chips in new data centers if implemented strictly, risking Nvidia&#39;s $17B/year China business &lpar;Financial Times&rpar;](http://www.techmeme.com/250326/p3#a250326p3)
+ - [Amazon unveils Interests, an AI search tool for finding products by passion or hobby, rolling out to all US users, and is testing a chatbot called Health AI &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250326/p2#a250326p2)
+ - [Design Within Reach Promo Codes: 20% Off | March 2025](https://www.wired.com/story/design-within-reach-promo-code/)
+ - [20% Wayfair Coupon &amp; Promo Codes | March 2025](https://www.wired.com/story/wayfair-coupon/)
+ - [TurboTax Discount Codes: 20% Off | March 2025](https://www.wired.com/story/turbotax-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in North Las Vegas, Nevada](https://www.cnet.com/home/internet/best-internet-providers-in-north-las-vegas-nv/#ftag=CAD590a51e)
- - [Netgear Orbi RBK973 review: Premium Wi-Fi 7 for when money is no object](https://appleinsider.com/articles/25/03/26/netgear-orbi-rbk973-review-premium-wi-fi-7-for-when-money-is-no-object?utm_medium=rss)
- - [Latest iOS 19 redesign rumor hinges on sketchy iMessage mockup](https://appleinsider.com/articles/25/03/25/latest-ios-19-redesign-rumor-hinges-on-sketchy-imessage-mockup?utm_medium=rss)
- - [It’s Looking More Likely NASA Will Fly the Artemis II Mission](https://www.wired.com/story/as-preps-continue-its-looking-more-likely-nasa-will-fly-the-artemis-ii-mission/)
- - [NY-based Silna, which provides healthcare revenue cycle management software, emerges from stealth with a $22M Series A co-led by Accel and Bain and a $5M seed &lpar;Erin Brodwin/Axios&rpar;](http://www.techmeme.com/250325/p37#a250325p37)<!-- TECH:END -->
+ - [Character.AI adds a Parental Insights feature that lets teens send reports of their chatbot usage to their parents, including which bots they are talking to &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/250325/p39#a250325p39)
+ - [Apple Savings APY drops to yet another all-time low of 3.75% during economic uncertainty](https://appleinsider.com/articles/25/03/26/apple-savings-apy-drops-to-yet-another-all-time-low-of-375-during-economic-uncertainty?utm_medium=rss)
+ - [Latest iOS 19 mockups &#39;aren&#39;t representative&#39; of true redesign, says other leaker](https://appleinsider.com/articles/25/03/26/latest-ios-19-mockups-arent-representative-of-true-redesign-says-other-leaker?utm_medium=rss)
+ - [Amazon’s big spring sale is live, and here are the 70 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
+ - [Leaked email: Block lays off 931 employees, ~8% of staff, and moves 193 managers to individual contributor roles, in a second reorganization in just over a year &lpar;TechCrunch&rpar;](http://www.techmeme.com/250325/p38#a250325p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

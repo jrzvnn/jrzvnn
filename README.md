@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in North Las Vegas, Nevada](https://www.cnet.com/home/internet/best-internet-providers-in-north-las-vegas-nv/#ftag=CAD590a51e)
+ - [Netgear Orbi RBK973 review: Premium Wi-Fi 7 for when money is no object](https://appleinsider.com/articles/25/03/26/netgear-orbi-rbk973-review-premium-wi-fi-7-for-when-money-is-no-object?utm_medium=rss)
  - [Latest iOS 19 redesign rumor hinges on sketchy iMessage mockup](https://appleinsider.com/articles/25/03/25/latest-ios-19-redesign-rumor-hinges-on-sketchy-imessage-mockup?utm_medium=rss)
  - [It’s Looking More Likely NASA Will Fly the Artemis II Mission](https://www.wired.com/story/as-preps-continue-its-looking-more-likely-nasa-will-fly-the-artemis-ii-mission/)
- - [NY-based Silna, which provides healthcare revenue cycle management software, emerges from stealth with a $22M Series A co-led by Accel and Bain and a $5M seed &lpar;Erin Brodwin/Axios&rpar;](http://www.techmeme.com/250325/p37#a250325p37)
- - [2025 Swift Student Challenge winners to be announced on March 27](https://appleinsider.com/articles/25/03/25/2025-swift-student-challenge-winners-to-be-announced-on-march-27?utm_medium=rss)
- - [Amazon’s big spring sale is live, and here are the 66 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)<!-- TECH:END -->
+ - [NY-based Silna, which provides healthcare revenue cycle management software, emerges from stealth with a $22M Series A co-led by Accel and Bain and a $5M seed &lpar;Erin Brodwin/Axios&rpar;](http://www.techmeme.com/250325/p37#a250325p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

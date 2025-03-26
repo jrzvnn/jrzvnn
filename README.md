@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaker hints that iPhone 17 Pro will shoot 8K video](https://appleinsider.com/articles/25/03/26/leaker-hints-that-iphone-17-pro-will-shoot-8k-video?utm_medium=rss)
- - [E-bikes banned on London public transport after unsafe mods cause fires](https://www.theverge.com/news/636207/tlf-london-underground-e-bike-ban-conversion-mods-fires)
- - [How a Cup of Tea Laid the Foundations for Modern Statistical Analysis](https://www.wired.com/story/how-a-cup-of-tea-laid-the-foundations-for-modern-statistical-analysis-adam-kucharski-proof-book/)
- - [Apple says the iPhone 16 series will be available in Indonesia from April 11, after Jakarta lifted a sales ban following Apple&#39;s $300M+ investment plan &lpar;Stanley Widianto/Reuters&rpar;](http://www.techmeme.com/250326/p21#a250326p21)
- - [Look Around in Apple Maps imagery will be used to train Apple Intelligence](https://appleinsider.com/articles/25/03/26/look-around-in-apple-maps-imagery-will-be-used-to-train-apple-intelligence?utm_medium=rss)<!-- TECH:END -->
+ - [Sony PlayStation DualSense Edge Controller Review: Gaming Upgrade](https://www.wired.com/review/sony-playstation-dualsense-edge-controller/)
+ - [Studio Ghibli’s archive is the key to its 4K restoration process](https://www.theverge.com/entertainment/634951/studio-ghibli-mononoke-4k-restoration-atsushi-okui)
+ - [Indonesia&#39;s iPhone 16 ban will finally be lifted on April 11](https://appleinsider.com/articles/25/03/26/indonesias-iphone-16-ban-will-finally-be-lifted-on-april-11?utm_medium=rss)
+ - [Apple denied intervention in Google search antitrust hearing](https://appleinsider.com/articles/25/03/26/apple-denied-intervention-in-google-search-antitrust-hearing?utm_medium=rss)
+ - [15 Best Bluetooth Speakers Our Testers Jammed With in 2025](https://www.wired.com/gallery/best-bluetooth-speakers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

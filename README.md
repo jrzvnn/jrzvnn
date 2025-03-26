@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you have a grudge against Motorcycle riders...](http://9gag.com/gag/abA4ARp)
- - 😝 [Whoop](http://9gag.com/gag/apR6R58)
- - 💣 [Giving this lost bee hive a new queen!](http://9gag.com/gag/abA4GX9)
- - 😝 [Cover, cover up everywhere..](http://9gag.com/gag/a5QwQGN)
- - 👉 [I forgot to take out the trash](http://9gag.com/gag/a9y5EoZ)<!-- MEMES:END -->
+ - 😝 [Geisha game](http://9gag.com/gag/aD284EG)
+ - 😝 [A very old video as a reminder to not to be an idiot](http://9gag.com/gag/a4PNRvZ)
+ - 💣 [In 2001, Coca-Cola announced that it sold 4 times more than Pepsi, and this was the company&#39;s response](http://9gag.com/gag/agm7gZ1)
+ - 😝 [Tomorrow](http://9gag.com/gag/a340Re5)
+ - 👉 [Former UFC champion Cain Velasquez has been sentenced to 5 years in prison for attempted murder after firing a gun at a man who allegedly molested his son over 100 times at a daycare](http://9gag.com/gag/awy1zmx)<!-- MEMES:END -->
 
 ---
 

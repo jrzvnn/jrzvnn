@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tomorrow](http://9gag.com/gag/a340Re5)
  - 😝 [And it has Karl Urban in it](http://9gag.com/gag/a870qVV)
+ - 😝 [Just discovered this masterpiece of comedy. Highly recommended!!](http://9gag.com/gag/a7o0qnz)
  - 💣 [This is how pandas give birth to children](http://9gag.com/gag/aAyK0n2)
- - 😝 [I can fix her](http://9gag.com/gag/a6Z5Nom)
- - 👉 [A very old video as a reminder to not to be an idiot](http://9gag.com/gag/a4PNRvZ)<!-- MEMES:END -->
+ - 😝 [Tomorrow](http://9gag.com/gag/a340Re5)
+ - 👉 [Game of the year](http://9gag.com/gag/ayN6emb)<!-- MEMES:END -->
 
 ---
 

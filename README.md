@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I understood everything!](http://9gag.com/gag/a6Z51Pq)
+ - 😝 [This is how pandas give birth to children](http://9gag.com/gag/aAyK0n2)
  - 😝 [Sydney Sweeney at a film&#39;s premiere.](http://9gag.com/gag/agm7mxr)
- - 💣 [I feel so bad for all single men who think THEIR life sucks...](http://9gag.com/gag/ayN6MPr)
- - 😝 [Wrong turn ruined a race](http://9gag.com/gag/aO8Z3nv)
- - 👉 [If Atom Eve was a goth](http://9gag.com/gag/a340163)<!-- MEMES:END -->
+ - 💣 [Wrong turn ruined a race](http://9gag.com/gag/aO8Z3nv)
+ - 😝 [If Atom Eve was a goth](http://9gag.com/gag/a340163)
+ - 👉 [I feel so bad for all single men who think THEIR life sucks...](http://9gag.com/gag/ayN6MPr)<!-- MEMES:END -->
 
 ---
 

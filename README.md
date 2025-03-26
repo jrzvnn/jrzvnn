@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GeoGuessr is coming to Steam after 12 years in your browser](https://www.theverge.com/news/636201/geoguessr-steam-browser-game-early-access)
  - [PS5 owners really want to play Xbox games, as Microsoft tops Sony’s preorder charts](https://www.theverge.com/news/636178/microsoft-playstation-store-ps5-xbox-games-preorder-chart)
  - [I Went Undercover in Crypto’s Answer to ‘Squid Game.’ It Nearly Broke Me](https://www.wired.com/story/crypto-the-game-undercover/)
  - [Microsoft unveils AI deep reasoning agents for 365 Copilot: Researcher, based on OpenAI&#39;s deep research model, and o3-mini-based Analyst, rolling out in April &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/250326/p18#a250326p18)
- - [The Best Programming Language for the End of the World](https://www.wired.com/story/forth-collapse-os-apocalypse-programming-language/)
- - [The Worm That No Computer Scientist Can Crack](https://www.wired.com/story/openworm-worm-simulator-biology-code/)<!-- TECH:END -->
+ - [The Best Programming Language for the End of the World](https://www.wired.com/story/forth-collapse-os-apocalypse-programming-language/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

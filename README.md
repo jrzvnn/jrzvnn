@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says it plans to develop Android fully in private to streamline the development process but will continue to publish the source code for new releases &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/250326/p39#a250326p39)
  - [Nothing’s colorful, entry-level earbuds have fallen to their best price to date](https://www.theverge.com/tech/636935/nothing-ear-a-wireless-earbuds-amazon-big-spring-sale-2025-deal-sale)
  - [Trump says he will impose a 25 percent tariff on imported vehicles](https://www.theverge.com/news/637004/trump-auto-tariffs-25-percent)
  - [xAI&#39;s Grok AI chatbot is now integrated with Telegram for Telegram Premium users, marking Grok&#39;s first big expansion beyond X &lpar;Andrew Hutchinson/Social Media Today&rpar;](http://www.techmeme.com/250326/p38#a250326p38)
- - [Microsoft revamps its Windows Game Bar](https://www.theverge.com/news/636985/microsoft-xbox-march-2025-update-game-bar-look-pass-switching)
- - [Utah Gov. Spencer Cox signs a bill requiring Apple&#39;s and Google&#39;s mobile app stores to verify user ages and require parental consent for minors to use some apps &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250326/p37#a250326p37)<!-- TECH:END -->
+ - [Microsoft revamps its Windows Game Bar](https://www.theverge.com/news/636985/microsoft-xbox-march-2025-update-game-bar-look-pass-switching)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

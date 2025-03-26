@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how pandas give birth to children](http://9gag.com/gag/aAyK0n2)
- - 😝 [In 2001, Coca-Cola announced that it sold 4 times more than Pepsi, and this was the company&#39;s response](http://9gag.com/gag/agm7gZ1)
- - 💣 [Tomorrow](http://9gag.com/gag/a340Re5)
- - 😝 [I forgot to take out the trash](http://9gag.com/gag/a9y5EoZ)
- - 👉 [Wrong turn ruined a race](http://9gag.com/gag/aO8Z3nv)<!-- MEMES:END -->
+ - 😝 [Vending machina](http://9gag.com/gag/a4PNoj1)
+ - 😝 [Paper craft that looks like flying bird](http://9gag.com/gag/a2v0Kx9)
+ - 💣 [I wish I were half the man HE is](http://9gag.com/gag/apR6NAp)
+ - 😝 [Hope he is a mafia leader](http://9gag.com/gag/a4PNE1y)
+ - 👉 [That&#39;s pretty cool](http://9gag.com/gag/a4PNPrA)<!-- MEMES:END -->
 
 ---
 

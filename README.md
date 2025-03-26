@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Game of the year](http://9gag.com/gag/ayN6emb)
+ - 😝 [Tomorrow](http://9gag.com/gag/a340Re5)
  - 😝 [The kick from Chuck Norris sounds like a gunshot](http://9gag.com/gag/aryXVGy)
- - 💣 [What daughter?](http://9gag.com/gag/a5Qw19g)
- - 😝 [Second best](http://9gag.com/gag/aLn412g)
- - 👉 [A very old video as a reminder to not to be an idiot](http://9gag.com/gag/a4PNRvZ)<!-- MEMES:END -->
+ - 💣 [Bet you weren&#39;t expecting that intro. Respect yourselves.](http://9gag.com/gag/a4PN31w)
+ - 😝 [What daughter?](http://9gag.com/gag/a5Qw19g)
+ - 👉 [I forgot to take out the trash](http://9gag.com/gag/a9y5EoZ)<!-- MEMES:END -->
 
 ---
 

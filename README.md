@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Last I checked, it was 2.3/10 \u2018outscoring\u2019 even Dragonball Evolution at 2.5/10! It went lower? What\u2019s the target?](http://9gag.com/gag/aXPVPdd)
- - 😝 [Sydney Sweeney at a film&#39;s premiere.](http://9gag.com/gag/agm7mxr)
- - 💣 [In 2001, Coca-Cola announced that it sold 4 times more than Pepsi, and this was the company&#39;s response](http://9gag.com/gag/agm7gZ1)
- - 😝 [The place where old white males turn young again.](http://9gag.com/gag/ayN6q1X)
- - 👉 [I forgot to take out the trash](http://9gag.com/gag/a9y5EoZ)<!-- MEMES:END -->
+ - 😝 [I forgot to take out the trash](http://9gag.com/gag/a9y5EoZ)
+ - 😝 [This is how pandas give birth to children](http://9gag.com/gag/aAyK0n2)
+ - 💣 [Sydney Sweeney at a film&#39;s premiere.](http://9gag.com/gag/agm7mxr)
+ - 😝 [In 2001, Coca-Cola announced that it sold 4 times more than Pepsi, and this was the company&#39;s response](http://9gag.com/gag/agm7gZ1)
+ - 👉 [Wrong turn ruined a race](http://9gag.com/gag/aO8Z3nv)<!-- MEMES:END -->
 
 ---
 

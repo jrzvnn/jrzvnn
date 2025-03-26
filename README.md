@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Italy hands tax demands to Meta, X, and LinkedIn in the last step in its VAT case, seeking €887.6M from Meta, €12.5M from X, and ~€140M from LinkedIn &lpar;Reuters&rpar;](http://www.techmeme.com/250326/p29#a250326p29)
- - [Get a MacBook for as low as $549.99 today only](https://appleinsider.com/articles/25/03/26/get-a-macbook-for-as-low-as-54999-today-only?utm_medium=rss)
- - [Roborock’s S8 MaxV Ultra, our favorite robovac, is cheaper than ever](https://www.theverge.com/good-deals/636455/roborock-s8-maxv-ultra-robot-vacuum-dreame-x40-ultra-spring-cleaning-deal-sale)
- - [Rivian spins out secret e-bike lab into a new company called Also](https://www.theverge.com/news/636520/rivian-ebike-scooter-also-spin-out-micormobility)
- - [How Extropic Plans to Unseat Nvidia](https://www.wired.com/story/how-extropic-plans-to-unseat-nvidia/)<!-- TECH:END -->
+ - [Inside DOGE&#39;s Plan to Invade the Treasury—and Throttle USAID](https://www.wired.com/story/elon-musk-doge-plan-treasury-usaid/)
+ - [Island, which offers a Chromium-based secure enterprise browser, raised a $250M Series E led by Coatue at a $4.8B valuation, taking its total funding to ~$730M &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250326/p30#a250326p30)
+ - [Canon redesigned its entry-level EOS R50 with improved video capabilities](https://www.theverge.com/news/636493/canon-eos-r50-v-camera-aps-c-4k-livestreaming)
+ - [&#39;Severance&#39; editor was all-in on Apple hardware, but not Final Cut Pro](https://appleinsider.com/articles/25/03/26/severance-editor-was-all-in-on-apple-hardware-but-not-final-cut-pro?utm_medium=rss)
+ - [Sources: Italy hands tax demands to Meta, X, and LinkedIn in the last step in its VAT case, seeking €887.6M from Meta, €12.5M from X, and ~€140M from LinkedIn &lpar;Reuters&rpar;](http://www.techmeme.com/250326/p29#a250326p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Maps can soon scan your screenshots to plan your vacation](https://www.theverge.com/news/637137/google-maps-screenshot-searchhotels-travel-features)
- - [Instacart will pay shoppers to take videos of store shelves](https://www.theverge.com/news/637149/instacart-store-view-shoppers-second-store-check)
- - [Turkey launches probe into Apple&#39;s alleged price fixing](https://appleinsider.com/articles/25/03/27/turkey-launches-probe-into-apples-alleged-price-fixing?utm_medium=rss)
- - [Liquid metal hinge in iPhone Fold to be twice as strong as titanium](https://appleinsider.com/articles/25/03/27/liquid-metal-hinge-in-iphone-fold-to-be-twice-as-strong-as-titanium?utm_medium=rss)
- - [Want to feel like a spy? Stick a smart chip in your manicure](https://www.theverge.com/tech-accessory-review/636922/jakcom-n3-smart-nail-chip-review-nfc-wearables)<!-- TECH:END -->
+ - [SSD upgrades for M4 Pro Mac mini are inching closer](https://appleinsider.com/articles/25/03/27/ssd-upgrades-for-m4-pro-mac-mini-are-inching-closer?utm_medium=rss)
+ - [Instacart rolls out Store View, paying shoppers to take videos of store shelves &quot;one aisle at a time&quot; to assess inventory, starting with select retailers &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250327/p22#a250327p22)
+ - [Google rolls out new Search, Maps, and Gemini features to help users plan vacations, including trip idea updates to AI Overviews and hotel price drop alerts &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250327/p21#a250327p21)
+ - [I Put Nvidia’s RTX 50-Series Laptop GPU to the Test. Here’s What I Found](https://www.wired.com/story/nvidias-rtx-50-series-laptop-gpu/)
+ - [7 Must-Try Air Fryer Accessories](https://www.cnet.com/news/7-must-try-air-fryer-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

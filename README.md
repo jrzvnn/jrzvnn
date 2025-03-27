@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Playing ps2 in vr](http://9gag.com/gag/avy65Vb)
- - 😝 [In 2001, Coca-Cola announced that it sold 4 times more than Pepsi, and this was the company&#39;s response](http://9gag.com/gag/agm7gZ1)
- - 💣 [He enjoyed the ride](http://9gag.com/gag/amo6g3j)
- - 😝 [The place where old white males turn young again.](http://9gag.com/gag/ayN6q1X)
- - 👉 [Cover, cover up everywhere..](http://9gag.com/gag/a5QwQGN)<!-- MEMES:END -->
+ - 😝 [Staying tru to the art](http://9gag.com/gag/adBQvy2)
+ - 😝 [I forgot to take out the trash](http://9gag.com/gag/a9y5EoZ)
+ - 💣 [Task Successfully Failed](http://9gag.com/gag/aoyRgrg)
+ - 😝 [I understood everything!](http://9gag.com/gag/a6Z51Pq)
+ - 👉 [... What?](http://9gag.com/gag/avy6WOO)<!-- MEMES:END -->
 
 ---
 

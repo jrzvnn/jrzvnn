@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta VP of Asia Pacific Dan Neary is leaving for personal reasons; the Singapore-based executive joined in 2013, and Meta now has ~1.1B users in the region &lpar;Newley Purnell/Bloomberg&rpar;](http://www.techmeme.com/250327/p18#a250327p18)
  - [Pat Gelsinger says TSMC&#39;s pledge to invest $100B+ in US chip manufacturing will do little to restore the US&#39; chipmaking leadership as R&amp;D will remain in Taiwan &lpar;Financial Times&rpar;](http://www.techmeme.com/250327/p17#a250327p17)
  - [These 18 Fantasy TV Shows on Netflix Are Out of This World](https://www.cnet.com/tech/services-and-software/best-fantasy-tv-shows-on-netflix-2025/#ftag=CAD590a51e)
  - [10 Foods You&#39;ll Be Shocked to Learn Contain Animal Byproducts](https://www.cnet.com/news/10-foods-youll-be-shocked-to-learn-contain-animal-byproducts/#ftag=CAD590a51e)
- - [Explore a Radioactive England in Atomfall on Xbox Game Pass Now](https://www.cnet.com/tech/gaming/explore-a-radioactive-england-in-atomfall-on-xbox-game-pass-now/#ftag=CAD590a51e)
- - [Garmin adds AI and a subscription tier to its app](https://www.theverge.com/news/636211/garmin-connect-plus-subscription-wearables)<!-- TECH:END -->
+ - [Explore a Radioactive England in Atomfall on Xbox Game Pass Now](https://www.cnet.com/tech/gaming/explore-a-radioactive-england-in-atomfall-on-xbox-game-pass-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

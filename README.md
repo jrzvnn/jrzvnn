@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Side eye](http://9gag.com/gag/apR6DeE)
+ - 😝 [Thanks to chatgpt Everything is studio Ghibli now. Even lord of the rings.](http://9gag.com/gag/a4PNNR1)
+ - 💣 [Just you](http://9gag.com/gag/aqy662M)
  - 😝 [... What?](http://9gag.com/gag/avy6WOO)
- - 😝 [Staying tru to the art](http://9gag.com/gag/adBQvy2)
- - 💣 [Absolute units](http://9gag.com/gag/aZZ8ny6)
- - 😝 [Four deputies in Harris County, Texas have committed suicide in the last 6 weeks.](http://9gag.com/gag/aAyKKB9)
- - 👉 [2 guys having a civilized conversation](http://9gag.com/gag/aD286Wx)<!-- MEMES:END -->
+ - 👉 [From Strangers to Spouses](http://9gag.com/gag/aZZ8wQ0)<!-- MEMES:END -->
 
 ---
 

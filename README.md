@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: CoreWeave plans to cut the size of its IPO to ~$1.5B, offering 37.5M shares at $40 each, down from 49M shares at $47 to $55, a sign of market volatility &lpar;Bloomberg&rpar;](http://www.techmeme.com/250327/p23#a250327p23)
- - [How to power your Apple devices off-grid with the best portable power station for camping](https://appleinsider.com/articles/25/03/27/how-to-power-your-apple-devices-off-grid-with-the-best-portable-power-station-for-camping?utm_medium=rss)
- - [TSMC&#39;s US chip fabrication facilities lag five years behind Taiwan](https://appleinsider.com/articles/25/03/27/tsmcs-us-chip-fabrication-facilities-lag-five-years-behind-taiwan?utm_medium=rss)
- - [Vizio All-in-One Soundbar &lpar;SV210D-0806&rpar; Review: Cheap Thrill](https://www.wired.com/review/vizio-all-in-one-2025/)
- - [SSD upgrades for M4 Pro Mac mini are inching closer](https://appleinsider.com/articles/25/03/27/ssd-upgrades-for-m4-pro-mac-mini-are-inching-closer?utm_medium=rss)<!-- TECH:END -->
+ - [Nintendo Switch 2 preorders start April 2nd, according to Best Buy Canada](https://www.theverge.com/news/637248/nintendo-switch-2-preorder-date-best-buy-canada)
+ - [Amazon’s big spring sale continues, and we found the 87 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
+ - [Capitalism vs. the bird flu](https://www.theverge.com/decoder-podcast-with-nilay-patel/637180/bird-flu-forever-war-capitalism-rfk-anti-vax)
+ - [GMC Sierra electric truck now starts at $64,495 with new Elevation and ATF trims](https://www.theverge.com/news/636648/gmc-sierra-ev-truck-atf-elevation-trim-price)
+ - [Source: CoreWeave plans to cut the size of its IPO to ~$1.5B, offering 37.5M shares at $40 each, down from 49M shares at $47 to $55, a sign of market volatility &lpar;Bloomberg&rpar;](http://www.techmeme.com/250327/p23#a250327p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

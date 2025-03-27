@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Despite it not on iPhone 16e, Apple&#39;s MagSafe isn&#39;t going anywhere](https://appleinsider.com/articles/25/03/27/despite-it-not-on-iphone-16e-apples-magsafe-isnt-going-anywhere?utm_medium=rss)
+ - [OpenAI&#39;s model behavior lead says OpenAI is &quot;shifting from blanket refusals in sensitive areas to a more precise approach focused on preventing real-world harm&quot; &lpar;Joanne Jang/Reservoir Samples&rpar;](http://www.techmeme.com/250327/p41#a250327p41)
+ - [FTC tells staff to stop calling the agency ‘independent’ in complaints](https://www.theverge.com/news/637768/ftc-independent-agency-email-trump)
  - [Ploopy upgraded its open-source trackball with better scrolling](https://www.theverge.com/news/637794/ploopyploopy-classic-2-trackball-open-source-upgrade)
- - [New &#39;Nintendo Today!&#39; app is aimed squarely at Nintendo&#39;s biggest fans](https://appleinsider.com/articles/25/03/27/new-nintendo-today-app-is-aimed-squarely-at-nintendos-biggest-fans?utm_medium=rss)
- - [Sources: the Chinese startup behind Manus is in talks with US VC firms and others to raise funding at a $500M+ valuation, up ~5x from its previous valuation &lpar;The Information&rpar;](http://www.techmeme.com/250327/p40#a250327p40)
- - [AppLovin&#39;s stock closes down over 20% after short seller Muddy Waters released a report, the third such short report against the company in about a month &lpar;Carmen Reinicke/Bloomberg&rpar;](http://www.techmeme.com/250327/p39#a250327p39)
- - [Unpacking ‘Good Quests,’ Christianity, and Caviar Bumps](https://www.wired.com/story/uncanny-valley-podcast-will-religion-save-silicon-valley/)<!-- TECH:END -->
+ - [New &#39;Nintendo Today!&#39; app is aimed squarely at Nintendo&#39;s biggest fans](https://appleinsider.com/articles/25/03/27/new-nintendo-today-app-is-aimed-squarely-at-nintendos-biggest-fans?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

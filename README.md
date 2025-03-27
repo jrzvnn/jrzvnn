@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A survey of US adults: 34% support a TikTok ban, down from 50% in March 2023, and 49% say TikTok is a national security threat, down from 59% in May 2023 &lpar;Colleen McClain/Pew Research Center&rpar;](http://www.techmeme.com/250327/p8#a250327p8)
  - [Vivaldi Browser Now Comes With Proton VPN for Free](https://www.wired.com/story/vivaldi-browser-proton-vpn-integration/)
  - [Portable Water Dispensers Are the New At-Home Hydration Hack](https://www.cnet.com/news/portable-water-dispensers-are-my-new-at-home-hydration-hack/#ftag=CAD590a51e)
  - [JPMorgan researchers say they have generated and certified truly random numbers using a quantum computer, a world-first with potential security and trading uses &lpar;Isabella Ward/Bloomberg&rpar;](http://www.techmeme.com/250327/p7#a250327p7)
- - [Sources: many new Chinese AI data centers sit unused due to weak demand and DeepSeek-driven shifts; local reports say ~80% of new computing resources are idle &lpar;Caiwei Chen/MIT Technology Review&rpar;](http://www.techmeme.com/250327/p6#a250327p6)
- - [Best Internet Providers in Wilkes-Barre, Pennsylvania](https://www.cnet.com/home/internet/best-internet-providers-in-wilkes-barre-pa/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: many new Chinese AI data centers sit unused due to weak demand and DeepSeek-driven shifts; local reports say ~80% of new computing resources are idle &lpar;Caiwei Chen/MIT Technology Review&rpar;](http://www.techmeme.com/250327/p6#a250327p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

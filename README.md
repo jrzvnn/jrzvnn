@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ubisoft carves out a unit, which includes Assassin&#39;s Creed, into a ~€4B subsidiary; Tencent will invest €1.16B to acquire a 25% stake in the new entity &lpar;Bloomberg&rpar;](http://www.techmeme.com/250327/p33#a250327p33)
  - [OpenAI says ‘our GPUs are melting’ as it limits ChatGPT image generation requests](https://www.theverge.com/news/637542/chatgpt-says-our-gpus-are-melting-as-it-puts-limit-on-image-generation-requests)
  - [Perplexity says it is working with a startup called Firmly.ai to make it easier for brands to sell goods directly through Perplexity&#39;s shopping results &lpar;Jason Del Rey/Fortune&rpar;](http://www.techmeme.com/250327/p32#a250327p32)
  - [Act Fast to Grab This OtterBox MagSafe Wireless Charging Stand While It’s a Cool $20 at Woot](https://www.cnet.com/tech/act-fast-to-grab-this-otterbox-magsafe-wireless-charging-stand-while-its-a-cool-20-at-woot/#ftag=CAD590a51e)
- - [La Liga Soccer Livestream: How to Watch Barcelona vs. Osasuna From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-barcelona-vs-osasuna-from-anywhere/#ftag=CAD590a51e)
- - [5 Best Phones You Can’t Buy in the US &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-phones-you-cant-buy-in-the-united-states/)<!-- TECH:END -->
+ - [La Liga Soccer Livestream: How to Watch Barcelona vs. Osasuna From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-barcelona-vs-osasuna-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

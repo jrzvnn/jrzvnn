@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo is launching a news app](https://www.theverge.com/news/637319/nintendo-today-news-app)
  - [How to turn off Apple Intelligence -- and keep turning it off](https://appleinsider.com/inside/apple-intelligence/tips/how-to-turn-off-apple-intelligence----and-keep-turning-it-off?utm_medium=rss)
  - [ChatGPT is turning everything into Studio Ghibli art — and it got weird fast](https://www.theverge.com/openai/636529/images-chatgpt-openai-studio-ghibli-copyright)
  - [Apple&#39;s M4 Mac mini plunges to $499, lowest price ever](https://appleinsider.com/articles/25/03/22/apples-m4-mac-mini-plunges-to-499-lowest-price-ever?utm_medium=rss)
- - [Cleo AI agrees to pay $17M to settle US FTC charges that it deceived customers about amounts and timing of available cash advances &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250327/p25#a250327p25)
- - [Metroid Prime 4: Beyond’s new trailer is an intro to its alien world](https://www.theverge.com/news/630255/metroid-prime-4-nintendo-switch-trailer)<!-- TECH:END -->
+ - [Cleo AI agrees to pay $17M to settle US FTC charges that it deceived customers about amounts and timing of available cash advances &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250327/p25#a250327p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

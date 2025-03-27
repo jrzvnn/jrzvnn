@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to power your Apple devices off-grid with the best portable power station for camping](https://appleinsider.com/articles/25/03/27/how-to-power-your-apple-devices-off-grid-with-the-best-portable-power-station-for-camping?utm_medium=rss)
+ - [TSMC&#39;s US chip fabrication facilities lag five years behind Taiwan](https://appleinsider.com/articles/25/03/27/tsmcs-us-chip-fabrication-facilities-lag-five-years-behind-taiwan?utm_medium=rss)
+ - [Vizio All-in-One Soundbar &lpar;SV210D-0806&rpar; Review: Cheap Thrill](https://www.wired.com/review/vizio-all-in-one-2025/)
  - [SSD upgrades for M4 Pro Mac mini are inching closer](https://appleinsider.com/articles/25/03/27/ssd-upgrades-for-m4-pro-mac-mini-are-inching-closer?utm_medium=rss)
- - [Instacart rolls out Store View, paying shoppers to take videos of store shelves &quot;one aisle at a time&quot; to assess inventory, starting with select retailers &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250327/p22#a250327p22)
- - [Google rolls out new Search, Maps, and Gemini features to help users plan vacations, including trip idea updates to AI Overviews and hotel price drop alerts &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250327/p21#a250327p21)
- - [I Put Nvidia’s RTX 50-Series Laptop GPU to the Test. Here’s What I Found](https://www.wired.com/story/nvidias-rtx-50-series-laptop-gpu/)
- - [7 Must-Try Air Fryer Accessories](https://www.cnet.com/news/7-must-try-air-fryer-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [All the news from Nintendo&amp;#8217;s March Direct showcase](https://www.theverge.com/games/636750/nintendo-switch-march-2025-direct)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

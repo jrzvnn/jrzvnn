@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta adds a Friends tab on Facebook that will show content just from users&#39; friends, with no recommended content, as it brings back &quot;OG&quot; Facebook experiences &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/250327/p31#a250327p31)
- - [Amazon Big Spring Sale: all the deals you should know about](https://www.theverge.com/tech/637403/amazon-spring-sale-prime-day-2025-deals)
- - [iPhone users can now set WhatsApp as their default calling and texting app](https://www.theverge.com/news/637489/iphone-whatsapp-default-calling-texting-app)
- - [Robosen’s self-transforming Bumblebee is finally giving Optimus Prime some backup](https://www.theverge.com/news/637505/robosen-hasbro-transformers-robot-toy-bumblebee-volkswagen)
- - [Appfigures: Signal downloads were up 45% from the daily average on March 24 in the US and up 42% in Yemen, after The Atlantic&#39;s story; global downloads grew 28% &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250327/p30#a250327p30)<!-- TECH:END -->
+ - [5 Best Phones You Can’t Buy in the US &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-phones-you-cant-buy-in-the-united-states/)
+ - [Satya Nadella: DeepSeek is the new bar for Microsoft’s AI success](https://www.theverge.com/notepad-microsoft-newsletter/637496/microsoft-satya-nadella-deepseek-chatgpt-ai-investments-notepad)
+ - [Nintendo’s news app launches with a tiny Switch 2 leak](https://www.theverge.com/news/637523/nintendo-today-switch-2-c-button-leak)
+ - [Meta adds a Friends tab on Facebook that will show content just from users&#39; friends, with no recommended posts, as it brings back &quot;OG&quot; Facebook experiences &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/250327/p31#a250327p31)
+ - [Amazon Big Spring Sale: all the deals you should know about](https://www.theverge.com/tech/637403/amazon-spring-sale-prime-day-2025-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

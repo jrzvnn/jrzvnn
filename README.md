@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In 2001, Coca-Cola announced that it sold 4 times more than Pepsi, and this was the company&#39;s response](http://9gag.com/gag/agm7gZ1)
- - 😝 [I understood everything!](http://9gag.com/gag/a6Z51Pq)
- - 💣 [I forgot to take out the trash](http://9gag.com/gag/a9y5EoZ)
  - 😝 [A Japanese student grows a chicken in an `open` egg](http://9gag.com/gag/aW4n4NA)
- - 👉 [The place where old white males turn young again.](http://9gag.com/gag/ayN6q1X)<!-- MEMES:END -->
+ - 😝 [Beach it is.](http://9gag.com/gag/azxKxmq)
+ - 💣 [And it was better](http://9gag.com/gag/aByVnAA)
+ - 😝 [Vaccinating dogs in Egypt using a blow dart](http://9gag.com/gag/aMVPVPX)
+ - 👉 [Whoop](http://9gag.com/gag/apR6R58)<!-- MEMES:END -->
 
 ---
 

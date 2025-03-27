@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yeah, it&#39;s not easy](http://9gag.com/gag/a0e00oO)
- - 😝 [So you\u2019re telling me I can take a popular meme, transform it into Studio Ghibli style anime](http://9gag.com/gag/aryXAoX)
- - 💣 [Visiting the British Museum, my disappointment is immeasurable and my day is ruined.](http://9gag.com/gag/aByVVWN)
- - 😝 [Snow White and the 7 low wage magical Cgi creatures.](http://9gag.com/gag/a7o004L)
- - 👉 [Back in my day](http://9gag.com/gag/a0e06MB)<!-- MEMES:END -->
+ - 😝 [Boomers on Facebook be like](http://9gag.com/gag/aMVPPV1)
+ - 😝 [She had a wonderful reaction to it](http://9gag.com/gag/aE0AM2N)
+ - 💣 [Staying tru to the art](http://9gag.com/gag/adBQvy2)
+ - 😝 [Tow truck driver ran over just doing his job](http://9gag.com/gag/aoyRRWe)
+ - 👉 [... What?](http://9gag.com/gag/avy6WOO)<!-- MEMES:END -->
 
 ---
 

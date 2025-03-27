@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New &#39;Nintendo Today!&#39; app is aimed squarely at Nintendo&#39;s biggest fans](https://appleinsider.com/articles/25/03/27/new-nintendo-today-app-is-aimed-squarely-at-nintendos-biggest-fans?utm_medium=rss)
  - [Sources: the Chinese startup behind Manus is in talks with US VC firms and others to raise funding at a $500M+ valuation, up ~5x from its previous valuation &lpar;The Information&rpar;](http://www.techmeme.com/250327/p40#a250327p40)
  - [AppLovin&#39;s stock closes down over 20% after short seller Muddy Waters released a report, the third such short report against the company in about a month &lpar;Carmen Reinicke/Bloomberg&rpar;](http://www.techmeme.com/250327/p39#a250327p39)
  - [Unpacking ‘Good Quests,’ Christianity, and Caviar Bumps](https://www.wired.com/story/uncanny-valley-podcast-will-religion-save-silicon-valley/)
- - [The 24 best Amazon Big Spring Sale deals under $30](https://www.theverge.com/tech/636342/amazon-big-spring-sale-2025-best-deals-under-30-tech-gift-ideas)
- - [Ubisoft&amp;#8217;s $4 billion carveout sells Tencent a 25 percent stake in some of its biggest games](https://www.theverge.com/news/637775/ubisoft-tencent-carveout-assassins-creed-far-cry-tom-clancy)<!-- TECH:END -->
+ - [The 24 best Amazon Big Spring Sale deals under $30](https://www.theverge.com/tech/636342/amazon-big-spring-sale-2025-best-deals-under-30-tech-gift-ideas)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

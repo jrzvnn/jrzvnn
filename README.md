@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the Chinese startup behind Manus is in talks with US VC firms and others to raise funding at a $500M+ valuation, up ~5x from its previous valuation &lpar;The Information&rpar;](http://www.techmeme.com/250327/p40#a250327p40)
  - [AppLovin&#39;s stock closes down over 20% after short seller Muddy Waters released a report, the third such short report against the company in about a month &lpar;Carmen Reinicke/Bloomberg&rpar;](http://www.techmeme.com/250327/p39#a250327p39)
  - [Unpacking ‘Good Quests,’ Christianity, and Caviar Bumps](https://www.wired.com/story/uncanny-valley-podcast-will-religion-save-silicon-valley/)
  - [The 24 best Amazon Big Spring Sale deals under $30](https://www.theverge.com/tech/636342/amazon-big-spring-sale-2025-best-deals-under-30-tech-gift-ideas)
- - [Ubisoft&amp;#8217;s $4 billion carveout sells Tencent a 25 percent stake in some of its biggest games](https://www.theverge.com/news/637775/ubisoft-tencent-carveout-assassins-creed-far-cry-tom-clancy)
- - [Amazon’s big spring sale continues, and we found the 94 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)<!-- TECH:END -->
+ - [Ubisoft&amp;#8217;s $4 billion carveout sells Tencent a 25 percent stake in some of its biggest games](https://www.theverge.com/news/637775/ubisoft-tencent-carveout-assassins-creed-far-cry-tom-clancy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI says ‘our GPUs are melting’ as it limits ChatGPT image generation requests](https://www.theverge.com/news/637542/chatgpt-says-our-gpus-are-melting-as-it-puts-limit-on-image-generation-requests)
  - [Perplexity says it is working with a startup called Firmly.ai to make it easier for brands to sell goods directly through Perplexity&#39;s shopping results &lpar;Jason Del Rey/Fortune&rpar;](http://www.techmeme.com/250327/p32#a250327p32)
- - [5 Best Phones You Can’t Buy in the US &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-phones-you-cant-buy-in-the-united-states/)
- - [Satya Nadella: DeepSeek is the new bar for Microsoft’s AI success](https://www.theverge.com/notepad-microsoft-newsletter/637496/microsoft-satya-nadella-deepseek-chatgpt-ai-investments-notepad)
- - [Nintendo’s news app launches with a tiny Switch 2 leak](https://www.theverge.com/news/637523/nintendo-today-switch-2-c-button-leak)
- - [Meta adds a Friends tab on Facebook that will show content just from users&#39; friends, with no recommended posts, as it brings back &quot;OG&quot; Facebook experiences &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/250327/p31#a250327p31)<!-- TECH:END -->
+ - [Act Fast to Grab This OtterBox MagSafe Wireless Charging Stand While It’s a Cool $20 at Woot](https://www.cnet.com/tech/act-fast-to-grab-this-otterbox-magsafe-wireless-charging-stand-while-its-a-cool-20-at-woot/#ftag=CAD590a51e)
+ - [La Liga Soccer Livestream: How to Watch Barcelona vs. Osasuna From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-barcelona-vs-osasuna-from-anywhere/#ftag=CAD590a51e)
+ - [5 Best Phones You Can’t Buy in the US &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-phones-you-cant-buy-in-the-united-states/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

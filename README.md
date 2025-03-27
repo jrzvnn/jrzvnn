@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Robinhood plans to roll out checking and savings accounts in 2025 for its paying Gold subscribers, aiming to provide more of a private banking-like experience &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250326/p43#a250326p43)
+ - [Apple to create new vice president of stores and retail operations, name Vanessa Trigub to role](https://appleinsider.com/articles/25/03/27/apple-to-create-new-vice-president-of-stores-and-retail-operations-name-vanessa-trigub-to-role?utm_medium=rss)
  - [Sources: Apple is promoting Vanessa Trigub to VP of stores and retail operations globally, as it streamlines management of its retail arm under Deirdre O&#39;Brien &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250326/p42#a250326p42)
  - [Filing: Dell says it had about 108K employees as of January 31, 2025, down from 120K employees in February 2024, marking a 10% annual reduction in its workforce &lpar;Polly Thompson/Business Insider&rpar;](http://www.techmeme.com/250326/p41#a250326p41)
- - [Amazon’s big spring sale continues, and we found the 85 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
- - [Robinhood is launching bank accounts that will deliver physical cash ‘to your doorstep’](https://www.theverge.com/news/636733/robinhood-banking-launch-cash-deliveries)
- - [Baseus Nomos MagSafe Battery review: A great &#39;just in case&#39; daily carry battery](https://appleinsider.com/articles/25/03/27/baseus-nomos-magsafe-battery-review-a-great-just-in-case-daily-carry-battery?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon’s big spring sale continues, and we found the 85 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

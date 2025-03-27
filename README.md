@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SignalGate Is Driving the Most US Downloads of Signal Ever](https://www.wired.com/story/signalgate-is-driving-the-most-us-downloads-of-signal-ever/)
+ - [Lumon Terminal Pro in Apple&#39;s online store is a master-class on media marketing](https://appleinsider.com/articles/25/03/27/apples-lumon-terminal-pro-in-the-store-is-a-master-class-on-media-marketing?utm_medium=rss)
+ - [Bird Buddy’s solar-powered smart feeder is $100 off](https://www.theverge.com/tech/637449/bird-buddy-pro-smart-bird-feeder-amazon-spring-sale-2025)
  - [Anthropic says it created a new tool for deciphering how LLMs &quot;think&quot; and used it to resolve some key questions about how Claude and probably other LLMs work &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/250327/p35#a250327p35)
- - [Nintendo is paving the way for the Switch 2](https://www.theverge.com/nintendo/637597/nintendo-virtual-game-cards-switch-2)
- - [&#39;Pop the Balloon&#39; Dating Show Is Coming to Netflix in April](https://www.cnet.com/tech/services-and-software/pop-the-balloon-dating-show-is-coming-to-netflix-in-april/#ftag=CAD590a51e)
- - [Seth Rogen&#39;s &#39;The Studio&#39; might just be Apple TV+&#39;s new &#39;Severance&#39;](https://appleinsider.com/articles/25/03/27/seth-rogens-the-studio-might-just-be-apple-tvs-new-severance?utm_medium=rss)
- - [Prime Members: Save Up to 50% on Alpaka Bags During Amazon’s Big Spring Sale](https://www.cnet.com/tech/prime-members-save-up-to-50-on-alpaka-bags-during-amazons-big-spring-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nintendo is paving the way for the Switch 2](https://www.theverge.com/nintendo/637597/nintendo-virtual-game-cards-switch-2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

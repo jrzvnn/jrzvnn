@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Immunefi: crypto industry lost a record $1.64B in Q1 2025 across 40 incidents, including $1.46B from the Bybit hack, vs. $348.3M across 63 incidents in Q1 2024 &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/250327/p38#a250327p38)
- - [Apple begins notifying 2025 Swift Student Challenge winners](https://appleinsider.com/articles/25/03/27/apple-begins-notifying-2025-swift-student-challenge-winners?utm_medium=rss)
- - [Final Cut Pro updates with Image Playground on Mac, portrait mode on iPad](https://appleinsider.com/articles/25/03/27/final-cut-pro-updates-with-image-playground-on-mac-portrait-mode-on-ipad?utm_medium=rss)
- - [Facebook&amp;#8217;s new Friends-only feed ditches all the algorithmic junk](https://www.theverge.com/news/637668/facebook-friends-only-feed-algorithm)
- - [Score Big Discounts on 4K Blu-rays and More During Amazon&#39;s Spring Sale](https://www.cnet.com/tech/score-big-discounts-on-4k-blu-ray-box-sets-during-amazons-spring-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 24 best Amazon Big Spring Sale deals under $30](https://www.theverge.com/tech/636342/amazon-big-spring-sale-2025-best-deals-under-30-tech-gift-ideas)
+ - [Ubisoft&amp;#8217;s $4 billion carveout sells Tencent a 25 percent stake in some of its biggest games](https://www.theverge.com/news/637775/ubisoft-tencent-carveout-assassins-creed-far-cry-tom-clancy)
+ - [Amazon’s big spring sale continues, and we found the 90 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Immunefi: crypto industry lost a record $1.64B in Q1 2025 across 40 incidents, including $1.46B from the Bybit hack, vs. $348.3M across 63 incidents in Q1 2024 &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/250327/p38#a250327p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

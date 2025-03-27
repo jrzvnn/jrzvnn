@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Wuthering Waves&#39; and &#39;Control Ultimate Edition&#39; now available on Mac](https://appleinsider.com/articles/25/03/27/wuthering-waves-and-control-ultimate-edition-now-available-on-mac?utm_medium=rss)
- - [TSMC&#39;s US chip fabrication facilities lag five years behind Taiwan](https://appleinsider.com/articles/25/03/27/tsmcs-us-chip-fabrication-facilities-lag-five-years-behind-taiwan?utm_medium=rss)
- - [Nintendo introduces new lending system for digital Switch games](https://www.theverge.com/news/637307/nintendo-switch-virtual-game-card-lending-system)
- - [Nintendo unveils Virtual Game Cards to make it easier for users to port over their existing Switch games to other devices and lend out games, available in April &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250327/p26#a250327p26)
- - [Light Phone III review: everything in moderation](https://www.theverge.com/reviews/637178/light-phone-iii-review-minimalist-smartphone)<!-- TECH:END -->
+ - [TikTok plans to launch TikTok Shop in France, Germany, and Italy on March 31, expanding its reach in Europe as TikTok&#39;s future in the US remains uncertain &lpar;Helen Reid/Reuters&rpar;](http://www.techmeme.com/250327/p27#a250327p27)
+ - [Pokémon Legends: Z-A’s gameplay will change depending on the time of day](https://www.theverge.com/news/637256/pokemon-legends-z-a-trailer-day-night-cycle)
+ - [How to turn off Apple Intelligence -- and keep turning it off](https://appleinsider.com/inside/apple-intelligence/tips/how-to-turn-off-apple-intelligence----and-keep-turning-it-off?utm_medium=rss)
+ - [It’s cheaper than ever to get a 4TB PCIe 4 SSD](https://www.theverge.com/tech/637258/samsung-990-pro-ssd-4tb-pc-laptop-ps5)
+ - [&#39;Wuthering Waves&#39; and &#39;Control Ultimate Edition&#39; now available on Mac](https://appleinsider.com/articles/25/03/27/wuthering-waves-and-control-ultimate-edition-now-available-on-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

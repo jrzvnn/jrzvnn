@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A story similar to the one in \u201cSixth, Sense\u201d happened in Poland, in one of the cleaning companies. A woman had been topping up a colleague&#39;s tea with a toxic substance in her absence for several months. The victim realized and recorded it with a hidden camera.](http://9gag.com/gag/a5Qw63N)
  - 😝 [Guy laughing in back.](http://9gag.com/gag/ayN63QV)
- - 💣 [Staying tru to the art](http://9gag.com/gag/adBQvy2)
- - 😝 [I\u00b4ll just leave this here](http://9gag.com/gag/aLn44w5)
+ - 😝 [Dora is Lost](http://9gag.com/gag/aryXZbB)
+ - 💣 [Reality of life](http://9gag.com/gag/a3405nv)
+ - 😝 [... What?](http://9gag.com/gag/avy6WOO)
  - 👉 [She had a wonderful reaction to it](http://9gag.com/gag/aE0AM2N)<!-- MEMES:END -->
 
 ---

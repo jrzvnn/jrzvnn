@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Want to feel like a spy? Stick a smart chip in your manicure](https://www.theverge.com/tech-accessory-review/636922/jakcom-n3-smart-nail-chip-review-nfc-wearables)
- - [Client notice: Chinese server maker H3C warns of potential shortages of Nvidia H20 chips, the most advanced AI chips available in China under US export rules &lpar;Reuters&rpar;](http://www.techmeme.com/250327/p20#a250327p20)
- - [Kids Smartwatches Can Fend Off Phones. What to Consider Before Buying](https://www.cnet.com/tech/mobile/kids-smartwatches-can-fend-off-phones-what-to-consider-before-buying/#ftag=CAD590a51e)
- - [2 of Streaming&#39;s Top 10 Shows This Week Replaced Major Characters During Production](https://www.cnet.com/tech/services-and-software/2-of-streamings-top-10-shows-this-week-replaced-major-characters-during-production/#ftag=CAD590a51e)
- - [Watch 30 of the Best Movies on Netflix Right Now](https://www.cnet.com/tech/services-and-software/best-movies-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Maps can soon scan your screenshots to plan your vacation](https://www.theverge.com/news/637137/google-maps-screenshot-searchhotels-travel-features)
+ - [Instacart will pay shoppers to take videos of store shelves](https://www.theverge.com/news/637149/instacart-store-view-shoppers-second-store-check)
+ - [Turkey launches probe into Apple&#39;s alleged price fixing](https://appleinsider.com/articles/25/03/27/turkey-launches-probe-into-apples-alleged-price-fixing?utm_medium=rss)
+ - [Liquid metal hinge in iPhone Fold to be twice as strong as titanium](https://appleinsider.com/articles/25/03/27/liquid-metal-hinge-in-iphone-fold-to-be-twice-as-strong-as-titanium?utm_medium=rss)
+ - [Want to feel like a spy? Stick a smart chip in your manicure](https://www.theverge.com/tech-accessory-review/636922/jakcom-n3-smart-nail-chip-review-nfc-wearables)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

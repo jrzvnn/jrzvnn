@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [A look at OpenWorm, a 13-year-old project that has so far failed to simulate C. elegans, one of the simplest and most extensively studied organisms in the world &lpar;Claire L. Evans/Wired&rpar;](http://www.techmeme.com/250327/p10#a250327p10)
  - [Poco’s F7 Ultra is a midrange phone with a flagship chip](https://www.theverge.com/news/637088/poco-f7-ultra-pro-snapdragon-8-elite)
  - [Takeaways after using AI search exclusively for one month: AI search is more of a UX revamp than a replacement for Google&#39;s blue links-based web search paradigm &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/250327/p9#a250327p9)
- - [A survey of US adults: 34% support a TikTok ban, down from 50% in March 2023, and 49% say TikTok is a national security threat, down from 59% in May 2023 &lpar;Colleen McClain/Pew Research Center&rpar;](http://www.techmeme.com/250327/p8#a250327p8)
- - [Vivaldi Browser Now Comes With Proton VPN for Free](https://www.wired.com/story/vivaldi-browser-proton-vpn-integration/)<!-- TECH:END -->
+ - [MLB 2025: How to Watch the Major League Baseball Season Without Cable](https://www.cnet.com/tech/services-and-software/mlb-2025-how-to-watch-the-major-league-baseball-season-without-cable/#ftag=CAD590a51e)
+ - [I Tested the Poco F7 Ultra. It&#39;s a Dependable, Visually Striking Companion](https://www.cnet.com/tech/mobile/i-tested-the-poco-f7-ultra-and-its-a-dependable-visually-striking-companion/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

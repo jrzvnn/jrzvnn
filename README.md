@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Last I checked, it was 2.3/10 \u2018outscoring\u2019 even Dragonball Evolution at 2.5/10! It went lower? What\u2019s the target?](http://9gag.com/gag/aXPVPdd)
- - 😝 [OpenAI turning historical images into Studio Ghibli anime](http://9gag.com/gag/aByV6OP)
- - 💣 [A knot that allows you to carry objects with a rope](http://9gag.com/gag/adBQPdM)
- - 😝 [Who remembers these?](http://9gag.com/gag/a8706GO)
- - 👉 [Whoop](http://9gag.com/gag/apR6R58)<!-- MEMES:END -->
+ - 😝 [Mexican TV shows are at another level.](http://9gag.com/gag/a9y5z0W)
+ - 😝 [If Atom Eve was a goth](http://9gag.com/gag/a340163)
+ - 💣 [Task Successfully Failed](http://9gag.com/gag/aoyRgrg)
+ - 😝 [The place where old white males turn young again.](http://9gag.com/gag/ayN6q1X)
+ - 👉 [So you\u2019re telling me I can take a popular meme, transform it into Studio Ghibli style anime](http://9gag.com/gag/aryXAoX)<!-- MEMES:END -->
 
 ---
 

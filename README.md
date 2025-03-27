@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vivaldi bundles Proton VPN into its web browser](https://www.theverge.com/news/637118/vivaldi-browser-proton-vpn-integration-availability)
+ - [After OpenAI released a new ChatGPT image generator, social media has been flooded with AI memes in the style of Studio Ghibli, highlighting copyright concerns &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250327/p15#a250327p15)
  - [An EU confidential decision, now public, shows the EU pressed Meta to create a separate version of Facebook Marketplace or let users access rival services &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/250327/p14#a250327p14)
  - [I Opted Out of AI Training. Does This Reduce My Future Influence?](https://www.wired.com/story/the-prompt-i-opted-out-of-ai-training/)
- - [Sources: after taking five years to build its first US plant, TSMC expects new factories to take two years; a 3nm plant is set for 2028 and 2nm before 2030 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250327/p13#a250327p13)
- - [March Madness 2025: How to Watch the Sweet 16 Today](https://www.cnet.com/tech/services-and-software/march-madness-2025-how-to-watch-the-sweet-16-today/#ftag=CAD590a51e)
- - [Hikaru Utada Would Rather Play CERN Than Coachella](https://www.wired.com/story/hikaru-utada-would-rather-play-cern-than-coachella/)<!-- TECH:END -->
+ - [Sources: after taking five years to build its first US plant, TSMC expects new factories to take two years; a 3nm plant is set for 2028 and 2nm before 2030 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250327/p13#a250327p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

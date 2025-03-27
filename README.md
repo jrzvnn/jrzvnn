@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Nvidia is in advanced talks to acquire Lepton AI, which rents Nvidia GPU servers, for several hundred million dollars; Lepton raised $11M in 2023 &lpar;The Information&rpar;](http://www.techmeme.com/250327/p16#a250327p16)
- - [Vivaldi bundles Proton VPN into its web browser](https://www.theverge.com/news/637118/vivaldi-browser-proton-vpn-integration-availability)
- - [After OpenAI released a new ChatGPT image generator, social media has been flooded with AI memes in the style of Studio Ghibli, highlighting copyright concerns &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250327/p15#a250327p15)
- - [An EU confidential decision, now public, shows the EU pressed Meta to create a separate version of Facebook Marketplace or let users access rival services &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/250327/p14#a250327p14)
- - [I Opted Out of AI Training. Does This Reduce My Future Influence?](https://www.wired.com/story/the-prompt-i-opted-out-of-ai-training/)<!-- TECH:END -->
+ - [Pat Gelsinger says TSMC&#39;s pledge to invest $100B+ in US chip manufacturing will do little to restore the US&#39; chipmaking leadership as R&amp;D will remain in Taiwan &lpar;Financial Times&rpar;](http://www.techmeme.com/250327/p17#a250327p17)
+ - [These 18 Fantasy TV Shows on Netflix Are Out of This World](https://www.cnet.com/tech/services-and-software/best-fantasy-tv-shows-on-netflix-2025/#ftag=CAD590a51e)
+ - [10 Foods You&#39;ll Be Shocked to Learn Contain Animal Byproducts](https://www.cnet.com/news/10-foods-youll-be-shocked-to-learn-contain-animal-byproducts/#ftag=CAD590a51e)
+ - [Explore a Radioactive England in Atomfall on Xbox Game Pass Now](https://www.cnet.com/tech/gaming/explore-a-radioactive-england-in-atomfall-on-xbox-game-pass-now/#ftag=CAD590a51e)
+ - [Garmin adds AI and a subscription tier to its app](https://www.theverge.com/news/636211/garmin-connect-plus-subscription-wearables)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

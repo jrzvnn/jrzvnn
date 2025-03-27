@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Guy laughing in back.](http://9gag.com/gag/ayN63QV)
- - 😝 [Dora is Lost](http://9gag.com/gag/aryXZbB)
- - 💣 [Reality of life](http://9gag.com/gag/a3405nv)
- - 😝 [... What?](http://9gag.com/gag/avy6WOO)
- - 👉 [She had a wonderful reaction to it](http://9gag.com/gag/aE0AM2N)<!-- MEMES:END -->
+ - 😝 [Side eye](http://9gag.com/gag/apR6DeE)
+ - 💣 [Vaccinating dogs in Egypt using a blow dart](http://9gag.com/gag/aMVPVPX)
+ - 😝 [Staying tru to the art](http://9gag.com/gag/adBQvy2)
+ - 👉 [Absolute units](http://9gag.com/gag/aZZ8ny6)<!-- MEMES:END -->
 
 ---
 

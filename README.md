@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Metroid Prime 4: Beyond’s new trailer is an intro to its alien world](https://www.theverge.com/news/630255/metroid-prime-4-nintendo-switch-trailer)
- - [Flexport CEO Ryan Petersen says the company generated revenue of $2.1B in 2024, up from $1.6B in 2023 but missed its target to be profitable by the end of 2024 &lpar;Paul Berger/Wall Street Journal&rpar;](http://www.techmeme.com/250327/p24#a250327p24)
- - [17 Best Gifts for Women Who Are Over This Planet &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-women-who-are-over-this-planet/)
- - [Nintendo Switch 2 preorders start April 2nd, according to Best Buy Canada](https://www.theverge.com/news/637248/nintendo-switch-2-preorder-date-best-buy-canada)
- - [Inside Maye Musk&#39;s Cozy Relationship With China](https://www.wired.com/story/maye-musk-china-influencer-brands/)<!-- TECH:END -->
+ - [How to turn off Apple Intelligence -- and keep turning it off](https://appleinsider.com/inside/apple-intelligence/tips/how-to-turn-off-apple-intelligence----and-keep-turning-it-off?utm_medium=rss)
+ - [ChatGPT is turning everything into Studio Ghibli art — and it got weird fast](https://www.theverge.com/openai/636529/images-chatgpt-openai-studio-ghibli-copyright)
+ - [Apple&#39;s M4 Mac mini plunges to $499, lowest price ever](https://appleinsider.com/articles/25/03/22/apples-m4-mac-mini-plunges-to-499-lowest-price-ever?utm_medium=rss)
+ - [Cleo AI agrees to pay $17M to settle US FTC charges that it deceived customers about amounts and timing of available cash advances &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250327/p25#a250327p25)
+ - [Metroid Prime 4: Beyond’s new trailer is an intro to its alien world](https://www.theverge.com/news/630255/metroid-prime-4-nintendo-switch-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

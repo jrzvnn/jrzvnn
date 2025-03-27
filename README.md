@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Former UFC champion Cain Velasquez has been sentenced to 5 years in prison for attempted murder after firing a gun at a man who allegedly molested his son over 100 times at a daycare](http://9gag.com/gag/awy1zmx)
+ - 😝 [Cover, cover up everywhere..](http://9gag.com/gag/a5QwQGN)
+ - 💣 [Sydney Sweeney at a film&#39;s premiere.](http://9gag.com/gag/agm7mxr)
  - 😝 [History fact](http://9gag.com/gag/a7o08rb)
- - 😝 [Vaccinating dogs in Egypt using a blow dart](http://9gag.com/gag/aMVPVPX)
- - 💣 [Heretic 2025](http://9gag.com/gag/ayN6Mqq)
- - 😝 [The place where old white males turn young again.](http://9gag.com/gag/ayN6q1X)
- - 👉 [Task Successfully Failed](http://9gag.com/gag/aoyRgrg)<!-- MEMES:END -->
+ - 👉 [If Atom Eve was a goth](http://9gag.com/gag/a340163)<!-- MEMES:END -->
 
 ---
 

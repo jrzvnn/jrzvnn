@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Robosen’s self-transforming Bumblebee is finally giving Optimus Prime some backup](https://www.theverge.com/news/637505/robosen-hasbro-transformers-robot-toy-bumblebee-volkswagen)
+ - [Appfigures: Signal downloads were up 45% from the daily average on March 24 in the US and up 42% in Yemen, after The Atlantic&#39;s story; global downloads grew 28% &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250327/p30#a250327p30)
  - [Audio-Technica’s R2-D2 earbuds play beeps and bloops for audio alerts](https://www.theverge.com/news/637222/audio-technica-star-wars-celebration-japan-wireless-earbuds)
  - [Mendel, which offers corporate spend management tools for companies in Latin America, raises a $35M Series B led by Base10, bringing its total funding to $60M &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250327/p29#a250327p29)
- - [Microsoft is giving its Office apps a speed boost](https://www.theverge.com/news/637469/microsoft-office-speed-boost-faster-launch)
- - [Nintendo Is Changing the Way Digital Games Work](https://www.wired.com/story/nintendo-virtual-game-cards-switch-2/)
- - [Amazon Luna gets EA games and is launching in more countries](https://www.theverge.com/news/637441/amazon-luna-ea-games-star-wars-dead-space)<!-- TECH:END -->
+ - [Microsoft is giving its Office apps a speed boost](https://www.theverge.com/news/637469/microsoft-office-speed-boost-faster-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Before Lazarus hits Adult Swim, listen to some of its transcendent music](https://www.theverge.com/news/637174/lazarus-kamasi-wasington-bonobo-floating-points-soundtrack)
+ - [Sources: Reddit banned r/WhitePeopleTwitter for 72 hours in February 2025 after Elon Musk messaged CEO Steve Huffman about users threatening DOGE staffers &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250327/p28#a250327p28)
  - [TikTok plans to launch TikTok Shop in France, Germany, and Italy on March 31, expanding its reach in Europe as TikTok&#39;s future in the US remains uncertain &lpar;Helen Reid/Reuters&rpar;](http://www.techmeme.com/250327/p27#a250327p27)
  - [Pokémon Legends: Z-A’s gameplay will change depending on the time of day](https://www.theverge.com/news/637256/pokemon-legends-z-a-trailer-day-night-cycle)
- - [How to turn off Apple Intelligence -- and keep turning it off](https://appleinsider.com/inside/apple-intelligence/tips/how-to-turn-off-apple-intelligence----and-keep-turning-it-off?utm_medium=rss)
- - [It’s cheaper than ever to get a 4TB PCIe 4 SSD](https://www.theverge.com/tech/637258/samsung-990-pro-ssd-4tb-pc-laptop-ps5)
- - [&#39;Wuthering Waves&#39; and &#39;Control Ultimate Edition&#39; now available on Mac](https://appleinsider.com/articles/25/03/27/wuthering-waves-and-control-ultimate-edition-now-available-on-mac?utm_medium=rss)<!-- TECH:END -->
+ - [How to turn off Apple Intelligence -- and keep turning it off](https://appleinsider.com/inside/apple-intelligence/tips/how-to-turn-off-apple-intelligence----and-keep-turning-it-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

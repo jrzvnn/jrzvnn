@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I understood everything!](http://9gag.com/gag/a6Z51Pq)
+ - 😝 [Yeah, it&#39;s not easy](http://9gag.com/gag/a0e00oO)
  - 😝 [A story similar to the one in \u201cSixth, Sense\u201d happened in Poland, in one of the cleaning companies. A woman had been topping up a colleague&#39;s tea with a toxic substance in her absence for several months. The victim realized and recorded it with a hidden camera.](http://9gag.com/gag/a5Qw63N)
  - 💣 [Absolute units](http://9gag.com/gag/aZZ8ny6)
- - 😝 [Just you](http://9gag.com/gag/aqy662M)
- - 👉 [He&#39;s now a blind snake charmer.](http://9gag.com/gag/adBQg42)<!-- MEMES:END -->
+ - 😝 [Staying tru to the art](http://9gag.com/gag/adBQvy2)
+ - 👉 [He enjoyed the ride](http://9gag.com/gag/amo6g3j)<!-- MEMES:END -->
 
 ---
 

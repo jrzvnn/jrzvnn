@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Task Successfully Failed](http://9gag.com/gag/aoyRgrg)
- - 😝 [Last I checked, it was 2.3/10 \u2018outscoring\u2019 even Dragonball Evolution at 2.5/10! It went lower? What\u2019s the target?](http://9gag.com/gag/aXPVPdd)
- - 💣 [If Atom Eve was a goth](http://9gag.com/gag/a340163)
- - 😝 [Staying tru to the art](http://9gag.com/gag/adBQvy2)
- - 👉 [He enjoyed the ride](http://9gag.com/gag/amo6g3j)<!-- MEMES:END -->
+ - 😝 [Even the son of Snow White producer threw rachel zegler under the bus.](http://9gag.com/gag/ae9ZOWj)
+ - 💣 [... What?](http://9gag.com/gag/avy6WOO)
+ - 😝 [So you\u2019re telling me I can take a popular meme, transform it into Studio Ghibli style anime](http://9gag.com/gag/aryXAoX)
+ - 👉 [Last I checked, it was 2.3/10 \u2018outscoring\u2019 even Dragonball Evolution at 2.5/10! It went lower? What\u2019s the target?](http://9gag.com/gag/aXPVPdd)<!-- MEMES:END -->
 
 ---
 

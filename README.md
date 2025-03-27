@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Task Successfully Failed](http://9gag.com/gag/aoyRgrg)
+ - 😝 [Last I checked, it was 2.3/10 \u2018outscoring\u2019 even Dragonball Evolution at 2.5/10! It went lower? What\u2019s the target?](http://9gag.com/gag/aXPVPdd)
+ - 💣 [If Atom Eve was a goth](http://9gag.com/gag/a340163)
  - 😝 [Staying tru to the art](http://9gag.com/gag/adBQvy2)
- - 😝 [I understood everything!](http://9gag.com/gag/a6Z51Pq)
- - 💣 [Task Successfully Failed](http://9gag.com/gag/aoyRgrg)
- - 😝 [So you\u2019re telling me I can take a popular meme, transform it into Studio Ghibli style anime](http://9gag.com/gag/aryXAoX)
- - 👉 [Former UFC champion Cain Velasquez has been sentenced to 5 years in prison for attempted murder after firing a gun at a man who allegedly molested his son over 100 times at a daycare](http://9gag.com/gag/awy1zmx)<!-- MEMES:END -->
+ - 👉 [He enjoyed the ride](http://9gag.com/gag/amo6g3j)<!-- MEMES:END -->
 
 ---
 

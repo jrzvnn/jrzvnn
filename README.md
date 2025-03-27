@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Baseus Nomos MagSafe Battery review: A great &#39;just in case&#39; daily carry battery](https://appleinsider.com/articles/25/03/27/baseus-nomos-magsafe-battery-review-a-great-just-in-case-daily-carry-battery?utm_medium=rss)
- - [Oracle customers confirm the authenticity of data samples shared by a threat actor who allegedly breached Oracle Cloud servers, after Oracle denied the breach &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250326/p40#a250326p40)
- - [Republicans are still pushing for child safety laws, while Democrats wonder if a weakened FTC can enforce them](https://www.theverge.com/news/637032/kids-online-safety-ftc-firings-trump-house-energy-commerce)
- - [Upgrade Your Gaming With This 34-Inch LG UltraGear Monitor, $140 off During Amazon&#39;s Big Spring Sale](https://www.cnet.com/tech/upgrade-your-gaming-setup-with-this-34-inch-lg-ultragear-monitor-now-140-off-during-the-amazon-big-spring-sale/#ftag=CAD590a51e)
- - [The Supreme Court Doesn’t Seem Eager to Axe This $9 Billion Broadband Subsidy](https://www.cnet.com/home/internet/the-supreme-court-doesnt-seem-eager-to-axe-this-9-billion-broadband-subsidy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Apple is promoting Vanessa Trigub to VP of stores and retail operations globally, as it streamlines management of its retail arm under Deirdre O&#39;Brien &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250326/p42#a250326p42)
+ - [Filing: Dell says it had about 108K employees as of January 31, 2025, down from 120K employees in February 2024, marking a 10% annual reduction in its workforce &lpar;Polly Thompson/Business Insider&rpar;](http://www.techmeme.com/250326/p41#a250326p41)
+ - [Amazon’s big spring sale continues, and we found the 85 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
+ - [Robinhood is launching bank accounts that will deliver physical cash ‘to your doorstep’](https://www.theverge.com/news/636733/robinhood-banking-launch-cash-deliveries)
+ - [Baseus Nomos MagSafe Battery review: A great &#39;just in case&#39; daily carry battery](https://appleinsider.com/articles/25/03/27/baseus-nomos-magsafe-battery-review-a-great-just-in-case-daily-carry-battery?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

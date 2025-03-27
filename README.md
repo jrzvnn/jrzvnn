@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Japanese student grows a chicken in an `open` egg](http://9gag.com/gag/aW4n4NA)
- - 😝 [Beach it is.](http://9gag.com/gag/azxKxmq)
- - 💣 [And it was better](http://9gag.com/gag/aByVnAA)
- - 😝 [Vaccinating dogs in Egypt using a blow dart](http://9gag.com/gag/aMVPVPX)
+ - 😝 [Last I checked, it was 2.3/10 \u2018outscoring\u2019 even Dragonball Evolution at 2.5/10! It went lower? What\u2019s the target?](http://9gag.com/gag/aXPVPdd)
+ - 😝 [OpenAI turning historical images into Studio Ghibli anime](http://9gag.com/gag/aByV6OP)
+ - 💣 [A knot that allows you to carry objects with a rope](http://9gag.com/gag/adBQPdM)
+ - 😝 [Who remembers these?](http://9gag.com/gag/a8706GO)
  - 👉 [Whoop](http://9gag.com/gag/apR6R58)<!-- MEMES:END -->
 
 ---

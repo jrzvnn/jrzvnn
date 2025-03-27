@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Task Successfully Failed](http://9gag.com/gag/aoyRgrg)
+ - 😝 [Teaching kids about the food](http://9gag.com/gag/aZZ8Dbz)
  - 😝 [From Strangers to Spouses](http://9gag.com/gag/aZZ8wQ0)
  - 💣 [... What?](http://9gag.com/gag/avy6WOO)
- - 😝 [A story similar to the one in \u201cSixth, Sense\u201d happened in Poland, in one of the cleaning companies. A woman had been topping up a colleague&#39;s tea with a toxic substance in her absence for several months. The victim realized and recorded it with a hidden camera.](http://9gag.com/gag/a5Qw63N)
- - 👉 [He definitely made the video 100x better](http://9gag.com/gag/aW4nL56)<!-- MEMES:END -->
+ - 😝 [He definitely made the video 100x better](http://9gag.com/gag/aW4nL56)
+ - 👉 [Task Successfully Failed](http://9gag.com/gag/aoyRgrg)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Immunefi: crypto industry lost a record $1.64B in Q1 2025 across 40 incidents, including $1.46B from the Bybit hack, vs. $348.3M across 63 incidents in Q1 2024 &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/250327/p38#a250327p38)
  - [Apple begins notifying 2025 Swift Student Challenge winners](https://appleinsider.com/articles/25/03/27/apple-begins-notifying-2025-swift-student-challenge-winners?utm_medium=rss)
  - [Final Cut Pro updates with Image Playground on Mac, portrait mode on iPad](https://appleinsider.com/articles/25/03/27/final-cut-pro-updates-with-image-playground-on-mac-portrait-mode-on-ipad?utm_medium=rss)
  - [Facebook&amp;#8217;s new Friends-only feed ditches all the algorithmic junk](https://www.theverge.com/news/637668/facebook-friends-only-feed-algorithm)
- - [Score Big Discounts on 4K Blu-rays and More During Amazon&#39;s Spring Sale](https://www.cnet.com/tech/score-big-discounts-on-4k-blu-ray-box-sets-during-amazons-spring-sale/#ftag=CAD590a51e)
- - [The 66 Best Movies on Disney+ Right Now &lpar;April 2025&rpar;](https://www.wired.com/story/best-movies-disney-plus/)<!-- TECH:END -->
+ - [Score Big Discounts on 4K Blu-rays and More During Amazon&#39;s Spring Sale](https://www.cnet.com/tech/score-big-discounts-on-4k-blu-ray-box-sets-during-amazons-spring-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

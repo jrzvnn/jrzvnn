@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good old times](http://9gag.com/gag/amo6ob2)
- - 😝 [Whoop](http://9gag.com/gag/apR6R58)
- - 💣 [Tony the ambassador of peace](http://9gag.com/gag/a5QwBPy)
- - 😝 [OpenAI turning historical images into Studio Ghibli anime](http://9gag.com/gag/aByV6OP)
- - 👉 [When the spinach hits just right.](http://9gag.com/gag/aAyK6VE)<!-- MEMES:END -->
+ - 😝 [A story similar to the one in \u201cSixth, Sense\u201d happened in Poland, in one of the cleaning companies. A woman had been topping up a colleague&#39;s tea with a toxic substance in her absence for several months. The victim realized and recorded it with a hidden camera.](http://9gag.com/gag/a5Qw63N)
+ - 😝 [He definitely made the video 100x better](http://9gag.com/gag/aW4nL56)
+ - 💣 [I understood everything!](http://9gag.com/gag/a6Z51Pq)
+ - 😝 [Absolute units](http://9gag.com/gag/aZZ8ny6)
+ - 👉 [From Strangers to Spouses](http://9gag.com/gag/aZZ8wQ0)<!-- MEMES:END -->
 
 ---
 

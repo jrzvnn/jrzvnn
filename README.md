@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi&#39;s Poco unveils the £649+ F7 Ultra, with a 6.67&quot; display, Snapdragon 8 Elite, a triple rear camera, 120W wired charging, and IP68, and the £499+ F7 Pro &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250327/p19#a250327p19)
- - [Manta Sound Sleep Mask Review: A Must-Have for Insomnia](https://www.wired.com/review/manta-sound/)
- - [Meta VP of Asia Pacific Dan Neary is leaving for personal reasons; the Singapore-based executive joined in 2013, and Meta now has ~1.1B users in the region &lpar;Newley Purnell/Bloomberg&rpar;](http://www.techmeme.com/250327/p18#a250327p18)
- - [Pat Gelsinger says TSMC&#39;s pledge to invest $100B+ in US chip manufacturing will do little to restore the US&#39; chipmaking leadership as R&amp;D will remain in Taiwan &lpar;Financial Times&rpar;](http://www.techmeme.com/250327/p17#a250327p17)
- - [These 18 Fantasy TV Shows on Netflix Are Out of This World](https://www.cnet.com/tech/services-and-software/best-fantasy-tv-shows-on-netflix-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Want to feel like a spy? Stick a smart chip in your manicure](https://www.theverge.com/tech-accessory-review/636922/jakcom-n3-smart-nail-chip-review-nfc-wearables)
+ - [Client notice: Chinese server maker H3C warns of potential shortages of Nvidia H20 chips, the most advanced AI chips available in China under US export rules &lpar;Reuters&rpar;](http://www.techmeme.com/250327/p20#a250327p20)
+ - [Kids Smartwatches Can Fend Off Phones. What to Consider Before Buying](https://www.cnet.com/tech/mobile/kids-smartwatches-can-fend-off-phones-what-to-consider-before-buying/#ftag=CAD590a51e)
+ - [2 of Streaming&#39;s Top 10 Shows This Week Replaced Major Characters During Production](https://www.cnet.com/tech/services-and-software/2-of-streamings-top-10-shows-this-week-replaced-major-characters-during-production/#ftag=CAD590a51e)
+ - [Watch 30 of the Best Movies on Netflix Right Now](https://www.cnet.com/tech/services-and-software/best-movies-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Utah&#39;s new law forces tech companies to add age verification, but Apple is already prepared](https://appleinsider.com/articles/25/03/26/utahs-new-law-forces-tech-companies-to-add-age-verification-but-apple-is-already-prepared?utm_medium=rss)
- - [Google says it plans to develop Android fully in private to streamline the development process but will continue to publish the source code for new releases &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/250326/p39#a250326p39)
- - [9 of the Best Horror Movies to Stream on Max](https://www.cnet.com/tech/services-and-software/9-of-the-best-horror-movies-to-stream-on-max-march-2025/#ftag=CAD590a51e)
- - [Play as These Nostalgic Film Characters This April on PlayStation Plus](https://www.cnet.com/tech/gaming/play-as-these-nostalgic-film-characters-this-april-on-playstation-plus/#ftag=CAD590a51e)
- - [Nothing’s colorful, entry-level earbuds have fallen to their best price to date](https://www.theverge.com/tech/636935/nothing-ear-a-wireless-earbuds-amazon-big-spring-sale-2025-deal-sale)<!-- TECH:END -->
+ - [Baseus Nomos MagSafe Battery review: A great &#39;just in case&#39; daily carry battery](https://appleinsider.com/articles/25/03/27/baseus-nomos-magsafe-battery-review-a-great-just-in-case-daily-carry-battery?utm_medium=rss)
+ - [Oracle customers confirm the authenticity of data samples shared by a threat actor who allegedly breached Oracle Cloud servers, after Oracle denied the breach &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250326/p40#a250326p40)
+ - [Republicans are still pushing for child safety laws, while Democrats wonder if a weakened FTC can enforce them](https://www.theverge.com/news/637032/kids-online-safety-ftc-firings-trump-house-energy-commerce)
+ - [Upgrade Your Gaming With This 34-Inch LG UltraGear Monitor, $140 off During Amazon&#39;s Big Spring Sale](https://www.cnet.com/tech/upgrade-your-gaming-setup-with-this-34-inch-lg-ultragear-monitor-now-140-off-during-the-amazon-big-spring-sale/#ftag=CAD590a51e)
+ - [The Supreme Court Doesn’t Seem Eager to Axe This $9 Billion Broadband Subsidy](https://www.cnet.com/home/internet/the-supreme-court-doesnt-seem-eager-to-axe-this-9-billion-broadband-subsidy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

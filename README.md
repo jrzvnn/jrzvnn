@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Former UFC champion Cain Velasquez has been sentenced to 5 years in prison for attempted murder after firing a gun at a man who allegedly molested his son over 100 times at a daycare](http://9gag.com/gag/awy1zmx)
- - 😝 [Cover, cover up everywhere..](http://9gag.com/gag/a5QwQGN)
- - 💣 [Sydney Sweeney at a film&#39;s premiere.](http://9gag.com/gag/agm7mxr)
  - 😝 [History fact](http://9gag.com/gag/a7o08rb)
- - 👉 [If Atom Eve was a goth](http://9gag.com/gag/a340163)<!-- MEMES:END -->
+ - 😝 [Cover, cover up everywhere..](http://9gag.com/gag/a5QwQGN)
+ - 💣 [Beach it is.](http://9gag.com/gag/azxKxmq)
+ - 😝 [Former UFC champion Cain Velasquez has been sentenced to 5 years in prison for attempted murder after firing a gun at a man who allegedly molested his son over 100 times at a daycare](http://9gag.com/gag/awy1zmx)
+ - 👉 [Reality of life](http://9gag.com/gag/a3405nv)<!-- MEMES:END -->
 
 ---
 

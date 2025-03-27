@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SignalGate Is Driving the Most US Downloads of Signal Ever](https://www.wired.com/story/signalgate-is-driving-the-most-us-downloads-of-signal-ever/)
- - [Lumon Terminal Pro in Apple&#39;s online store is a master-class on media marketing](https://appleinsider.com/articles/25/03/27/apples-lumon-terminal-pro-in-the-store-is-a-master-class-on-media-marketing?utm_medium=rss)
- - [Bird Buddy’s solar-powered smart feeder is $100 off](https://www.theverge.com/tech/637449/bird-buddy-pro-smart-bird-feeder-amazon-spring-sale-2025)
- - [Anthropic says it created a new tool for deciphering how LLMs &quot;think&quot; and used it to resolve some key questions about how Claude and probably other LLMs work &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/250327/p35#a250327p35)
- - [Nintendo is paving the way for the Switch 2](https://www.theverge.com/nintendo/637597/nintendo-virtual-game-cards-switch-2)<!-- TECH:END -->
+ - [Facebook&amp;#8217;s new Friends-only feed ditches all the algorithmic junk](https://www.theverge.com/news/637668/facebook-friends-only-feed-algorithm)
+ - [Amazon partners with Electronic Arts to bring EA games like Star Wars Jedi: Survivor to cloud gaming service Amazon Luna, which is now available in 14 countries &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250327/p36#a250327p36)
+ - [Super Bowl Halftime Show Complaints Focused on Lack of DEI for White People](https://www.wired.com/story/super-bowl-halftime-show-kendrick-lamar-complaints-focused-on-lack-of-dei-for-white-people/)
+ - [Amazon’s big spring sale continues, and we found the 87 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
+ - [SignalGate Is Driving the Most US Downloads of Signal Ever](https://www.wired.com/story/signalgate-is-driving-the-most-us-downloads-of-signal-ever/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Staying tru to the art](http://9gag.com/gag/adBQvy2)
- - 😝 [I forgot to take out the trash](http://9gag.com/gag/a9y5EoZ)
- - 💣 [Task Successfully Failed](http://9gag.com/gag/aoyRgrg)
  - 😝 [I understood everything!](http://9gag.com/gag/a6Z51Pq)
- - 👉 [... What?](http://9gag.com/gag/avy6WOO)<!-- MEMES:END -->
+ - 💣 [Task Successfully Failed](http://9gag.com/gag/aoyRgrg)
+ - 😝 [So you\u2019re telling me I can take a popular meme, transform it into Studio Ghibli style anime](http://9gag.com/gag/aryXAoX)
+ - 👉 [Former UFC champion Cain Velasquez has been sentenced to 5 years in prison for attempted murder after firing a gun at a man who allegedly molested his son over 100 times at a daycare](http://9gag.com/gag/awy1zmx)<!-- MEMES:END -->
 
 ---
 

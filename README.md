@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He enjoyed the ride](http://9gag.com/gag/amo6g3j)
+ - 😝 [Vaccinating dogs in Egypt using a blow dart](http://9gag.com/gag/aMVPVPX)
  - 😝 [He definitely made the video 100x better](http://9gag.com/gag/aW4nL56)
- - 💣 [Thanks to chatgpt Everything is studio Ghibli now. Even lord of the rings.](http://9gag.com/gag/a4PNNR1)
+ - 💣 [Absolute units](http://9gag.com/gag/aZZ8ny6)
  - 😝 [Health science is amazing! A full set of dental implants.](http://9gag.com/gag/aVvKvvd)
- - 👉 [Just Kill me Now!!](http://9gag.com/gag/avy6eYW)<!-- MEMES:END -->
+ - 👉 [Staying tru to the art](http://9gag.com/gag/adBQvy2)<!-- MEMES:END -->
 
 ---
 

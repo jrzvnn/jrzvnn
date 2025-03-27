@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Nvidia is in advanced talks to acquire Lepton AI, which rents Nvidia GPU servers, for several hundred million dollars; Lepton raised $11M in 2023 &lpar;The Information&rpar;](http://www.techmeme.com/250327/p16#a250327p16)
  - [Vivaldi bundles Proton VPN into its web browser](https://www.theverge.com/news/637118/vivaldi-browser-proton-vpn-integration-availability)
  - [After OpenAI released a new ChatGPT image generator, social media has been flooded with AI memes in the style of Studio Ghibli, highlighting copyright concerns &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250327/p15#a250327p15)
  - [An EU confidential decision, now public, shows the EU pressed Meta to create a separate version of Facebook Marketplace or let users access rival services &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/250327/p14#a250327p14)
- - [I Opted Out of AI Training. Does This Reduce My Future Influence?](https://www.wired.com/story/the-prompt-i-opted-out-of-ai-training/)
- - [Sources: after taking five years to build its first US plant, TSMC expects new factories to take two years; a 3nm plant is set for 2028 and 2nm before 2030 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250327/p13#a250327p13)<!-- TECH:END -->
+ - [I Opted Out of AI Training. Does This Reduce My Future Influence?](https://www.wired.com/story/the-prompt-i-opted-out-of-ai-training/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

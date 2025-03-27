@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Final Cut Pro updates with Image Playground on Mac, portrait mode on iPad](https://appleinsider.com/articles/25/03/27/final-cut-pro-updates-with-image-playground-on-mac-portrait-mode-on-ipad?utm_medium=rss)
  - [Facebook&amp;#8217;s new Friends-only feed ditches all the algorithmic junk](https://www.theverge.com/news/637668/facebook-friends-only-feed-algorithm)
- - [Amazon partners with Electronic Arts to bring EA games like Star Wars Jedi: Survivor to cloud gaming service Amazon Luna, which is now available in 14 countries &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250327/p36#a250327p36)
- - [Super Bowl Halftime Show Complaints Focused on Lack of DEI for White People](https://www.wired.com/story/super-bowl-halftime-show-kendrick-lamar-complaints-focused-on-lack-of-dei-for-white-people/)
- - [Amazon’s big spring sale continues, and we found the 87 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
- - [SignalGate Is Driving the Most US Downloads of Signal Ever](https://www.wired.com/story/signalgate-is-driving-the-most-us-downloads-of-signal-ever/)<!-- TECH:END -->
+ - [The 66 Best Movies on Disney+ Right Now &lpar;April 2025&rpar;](https://www.wired.com/story/best-movies-disney-plus/)
+ - [Source: the White House sent a &quot;records retention policy&quot; to DOGE staffers on Monday, reminding them to preserve their Signal messages and disable auto-delete &lpar;Kyle Cheney/Politico&rpar;](http://www.techmeme.com/250327/p37#a250327p37)
+ - [Amazon partners with Electronic Arts to bring EA games like Star Wars Jedi: Survivor to cloud gaming service Amazon Luna, which is now available in 14 countries &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250327/p36#a250327p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

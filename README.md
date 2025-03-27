@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Side eye](http://9gag.com/gag/apR6DeE)
- - 😝 [Thanks to chatgpt Everything is studio Ghibli now. Even lord of the rings.](http://9gag.com/gag/a4PNNR1)
- - 💣 [Just you](http://9gag.com/gag/aqy662M)
- - 😝 [... What?](http://9gag.com/gag/avy6WOO)
- - 👉 [From Strangers to Spouses](http://9gag.com/gag/aZZ8wQ0)<!-- MEMES:END -->
+ - 😝 [No more memes](http://9gag.com/gag/aKGvvm6)
+ - 😝 [Yeah, it&#39;s not easy](http://9gag.com/gag/a0e00oO)
+ - 💣 [So you\u2019re telling me I can take a popular meme, transform it into Studio Ghibli style anime](http://9gag.com/gag/aryXAoX)
+ - 😝 [It&#39;s that easy?](http://9gag.com/gag/aoyR32e)
+ - 👉 [Visiting the British Museum, my disappointment is immeasurable and my day is ruined.](http://9gag.com/gag/aByVVWN)<!-- MEMES:END -->
 
 ---
 

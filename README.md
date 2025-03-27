@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Teaching kids about the food](http://9gag.com/gag/aZZ8Dbz)
- - 😝 [From Strangers to Spouses](http://9gag.com/gag/aZZ8wQ0)
- - 💣 [... What?](http://9gag.com/gag/avy6WOO)
- - 😝 [He definitely made the video 100x better](http://9gag.com/gag/aW4nL56)
- - 👉 [Task Successfully Failed](http://9gag.com/gag/aoyRgrg)<!-- MEMES:END -->
+ - 😝 [Good old times](http://9gag.com/gag/amo6ob2)
+ - 😝 [Whoop](http://9gag.com/gag/apR6R58)
+ - 💣 [Tony the ambassador of peace](http://9gag.com/gag/a5QwBPy)
+ - 😝 [OpenAI turning historical images into Studio Ghibli anime](http://9gag.com/gag/aByV6OP)
+ - 👉 [When the spinach hits just right.](http://9gag.com/gag/aAyK6VE)<!-- MEMES:END -->
 
 ---
 

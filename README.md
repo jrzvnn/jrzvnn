@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: many new Chinese AI data centers sit unused due to weak demand and DeepSeek-driven shifts; local reports say ~80% of new computing resources are idle &lpar;Caiwei Chen/MIT Technology Review&rpar;](http://www.techmeme.com/250327/p6#a250327p6)
  - [The Trump administration cut $20M in funding from the Bureau of Industry and Security, which oversees chip export controls, representing ~10% of BIS&#39;s budget &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250327/p5#a250327p5)
  - [Anthropic and Databricks ink a five-year deal, expected to jointly generate $100M in revenue, by selling AI tools to businesses developing their own AI agents &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250327/p4#a250327p4)
  - [Alibaba releases open-source multimodal AI model Qwen2.5-Omni-7B on Hugging Face and GitHub, saying the model can be deployed on edge devices like smartphones &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250327/p3#a250327p3)
- - [Therabody Promo Codes: 10% Off | March 2025](https://www.wired.com/story/therabody-promo-code/)
- - [Sam Altman says OpenAI will support Anthropic&#39;s Model Context Protocol, an open-source standard that connects AI models to data for more relevant answers &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250327/p2#a250327p2)<!-- TECH:END -->
+ - [Therabody Promo Codes: 10% Off | March 2025](https://www.wired.com/story/therabody-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

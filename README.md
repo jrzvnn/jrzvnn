@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Japanese student grows a chicken in an `open` egg](http://9gag.com/gag/aW4n4NA)
- - 😝 [... What?](http://9gag.com/gag/avy6WOO)
- - 💣 [Staying tru to the art](http://9gag.com/gag/adBQvy2)
+ - 😝 [A little reminder of where the Yoko ono memes come from](http://9gag.com/gag/aByVEVD)
  - 😝 [Absolute units](http://9gag.com/gag/aZZ8ny6)
- - 👉 [I\u00b4ll just leave this here](http://9gag.com/gag/aLn44w5)<!-- MEMES:END -->
+ - 💣 [She had a wonderful reaction to it](http://9gag.com/gag/aE0AM2N)
+ - 😝 [I\u00b4ll just leave this here](http://9gag.com/gag/aLn44w5)
+ - 👉 [Staying tru to the art](http://9gag.com/gag/adBQvy2)<!-- MEMES:END -->
 
 ---
 

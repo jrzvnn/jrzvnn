@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple begins notifying 2025 Swift Student Challenge winners](https://appleinsider.com/articles/25/03/27/apple-begins-notifying-2025-swift-student-challenge-winners?utm_medium=rss)
  - [Final Cut Pro updates with Image Playground on Mac, portrait mode on iPad](https://appleinsider.com/articles/25/03/27/final-cut-pro-updates-with-image-playground-on-mac-portrait-mode-on-ipad?utm_medium=rss)
  - [Facebook&amp;#8217;s new Friends-only feed ditches all the algorithmic junk](https://www.theverge.com/news/637668/facebook-friends-only-feed-algorithm)
- - [The 66 Best Movies on Disney+ Right Now &lpar;April 2025&rpar;](https://www.wired.com/story/best-movies-disney-plus/)
- - [Source: the White House sent a &quot;records retention policy&quot; to DOGE staffers on Monday, reminding them to preserve their Signal messages and disable auto-delete &lpar;Kyle Cheney/Politico&rpar;](http://www.techmeme.com/250327/p37#a250327p37)
- - [Amazon partners with Electronic Arts to bring EA games like Star Wars Jedi: Survivor to cloud gaming service Amazon Luna, which is now available in 14 countries &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250327/p36#a250327p36)<!-- TECH:END -->
+ - [Score Big Discounts on 4K Blu-rays and More During Amazon&#39;s Spring Sale](https://www.cnet.com/tech/score-big-discounts-on-4k-blu-ray-box-sets-during-amazons-spring-sale/#ftag=CAD590a51e)
+ - [The 66 Best Movies on Disney+ Right Now &lpar;April 2025&rpar;](https://www.wired.com/story/best-movies-disney-plus/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

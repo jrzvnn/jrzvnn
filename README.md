@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Mike Clark, the chief architect of AMD&#39;s Zen microarchitecture, on x86, ARM, CPUs vs GPUs, Zen 4 to Zen 5, software developers, and more &lpar;Casey Muratori/Computer, Enhance!&rpar;](http://www.techmeme.com/250327/p12#a250327p12)
- - [A leaked Chinese dataset on &quot;public opinion work&quot; reveals 133,000 entries fed into an LLM designed to automatically flag content deemed sensitive by China &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/250327/p11#a250327p11)
- - [A look at OpenWorm, a 13-year-old project that has so far failed to simulate C. elegans, one of the simplest and most extensively studied organisms in the world &lpar;Claire L. Evans/Wired&rpar;](http://www.techmeme.com/250327/p10#a250327p10)
- - [Poco’s F7 Ultra is a midrange phone with a flagship chip](https://www.theverge.com/news/637088/poco-f7-ultra-pro-snapdragon-8-elite)
- - [Takeaways after using AI search exclusively for one month: AI search is more of a UX revamp than a replacement for Google&#39;s blue links-based web search paradigm &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/250327/p9#a250327p9)<!-- TECH:END -->
+ - [Sources: after taking five years to build its first US plant, TSMC expects new factories to take two years; a 3nm plant is set for 2028 and 2nm before 2030 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250327/p13#a250327p13)
+ - [March Madness 2025: How to Watch the Sweet 16 Today](https://www.cnet.com/tech/services-and-software/march-madness-2025-how-to-watch-the-sweet-16-today/#ftag=CAD590a51e)
+ - [Hikaru Utada Would Rather Play CERN Than Coachella](https://www.wired.com/story/hikaru-utada-would-rather-play-cern-than-coachella/)
+ - [Inside arXiv—the Most Transformative Platform in All of Science](https://www.wired.com/story/inside-arxiv-most-transformative-code-science/)
+ - [Uber Shuttle will get you to JFK airport for $10](https://www.theverge.com/news/636662/uber-shuttle-jfk-airport-ten-dollars)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

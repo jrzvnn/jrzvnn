@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [... What?](http://9gag.com/gag/avy6WOO)
  - 😝 [Vaccinating dogs in Egypt using a blow dart](http://9gag.com/gag/aMVPVPX)
- - 💣 [I understood everything!](http://9gag.com/gag/a6Z51Pq)
- - 😝 [The original Green Goblin mask was.... wait what? &lpar;Listen till the end&rpar;](http://9gag.com/gag/a6Z5E68)
- - 👉 [Last I checked, it was 2.3/10 \u2018outscoring\u2019 even Dragonball Evolution at 2.5/10! It went lower? What\u2019s the target?](http://9gag.com/gag/aXPVPdd)<!-- MEMES:END -->
+ - 😝 [Astronaut Chris Hadfield: &#39;It&#39;s Possible To Get Stuck Floating In The Space Station If You Can&#39;t Reach A Wall&#39;](http://9gag.com/gag/aLn4poM)
+ - 💣 [This is how pandas give birth to children](http://9gag.com/gag/aAyK0n2)
+ - 😝 [... What?](http://9gag.com/gag/avy6WOO)
+ - 👉 [If Atom Eve was a goth](http://9gag.com/gag/a340163)<!-- MEMES:END -->
 
 ---
 

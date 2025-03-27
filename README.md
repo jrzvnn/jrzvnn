@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US federal judge orders agencies whose leaders participated in the Signal chat on the Houthi attacks to preserve all messages sent from March 11 to March 15 &lpar;Andrew Goudsward/Reuters&rpar;](http://www.techmeme.com/250327/p42#a250327p42)
  - [Trump White House invites a bloc of conservative podcasters as a jab at legacy media](https://www.theverge.com/policy/637890/trump-white-house-podcast-row)
  - [Even More Venmo Accounts Tied to Trump Officials in Signal Group Chat Left Data Public](https://www.wired.com/story/even-more-venmo-accounts-tied-to-trump-officials-in-signal-group-chat-left-data-public/)
  - [Amazon’s latest Kindle Scribe is the cheapest it’s been in months](https://www.theverge.com/tech/637669/kindle-scribe-e-reader-amazon-big-spring-sale-2025-deal)
- - [Despite it not on iPhone 16e, Apple&#39;s MagSafe isn&#39;t going anywhere](https://appleinsider.com/articles/25/03/27/despite-it-not-on-iphone-16e-apples-magsafe-isnt-going-anywhere?utm_medium=rss)
- - [OpenAI&#39;s model behavior lead says OpenAI is &quot;shifting from blanket refusals in sensitive areas to a more precise approach focused on preventing real-world harm&quot; &lpar;Joanne Jang/Reservoir Samples&rpar;](http://www.techmeme.com/250327/p41#a250327p41)<!-- TECH:END -->
+ - [Apple&#39;s MagSafe isn&#39;t going anywhere](https://appleinsider.com/articles/25/03/27/despite-it-not-on-iphone-16e-apples-magsafe-isnt-going-anywhere?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

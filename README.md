@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [He enjoyed the ride](http://9gag.com/gag/amo6g3j)
+ - 😝 [He definitely made the video 100x better](http://9gag.com/gag/aW4nL56)
+ - 💣 [Thanks to chatgpt Everything is studio Ghibli now. Even lord of the rings.](http://9gag.com/gag/a4PNNR1)
  - 😝 [Health science is amazing! A full set of dental implants.](http://9gag.com/gag/aVvKvvd)
- - 😝 [Staying tru to the art](http://9gag.com/gag/adBQvy2)
- - 💣 [A story similar to the one in \u201cSixth, Sense\u201d happened in Poland, in one of the cleaning companies. A woman had been topping up a colleague&#39;s tea with a toxic substance in her absence for several months. The victim realized and recorded it with a hidden camera.](http://9gag.com/gag/a5Qw63N)
- - 😝 [History fact](http://9gag.com/gag/a7o08rb)
- - 👉 [He enjoyed the ride](http://9gag.com/gag/amo6g3j)<!-- MEMES:END -->
+ - 👉 [Just Kill me Now!!](http://9gag.com/gag/avy6eYW)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alibaba releases open-source multimodal AI model Qwen2.5-Omni-7B on Hugging Face and GitHub, saying the model can be deployed on edge devices like smartphones &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250327/p3#a250327p3)
+ - [Therabody Promo Codes: 10% Off | March 2025](https://www.wired.com/story/therabody-promo-code/)
  - [Sam Altman says OpenAI will support Anthropic&#39;s Model Context Protocol, an open-source standard that connects AI models to data for more relevant answers &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250327/p2#a250327p2)
  - [Former Intel CEO Pat Gelsinger joins VC firm Playground Global as a GP and the board of portfolio company xLight, which develops lasers for chip manufacturing &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250327/p1#a250327p1)
- - [Nvidia releases G-Assist, an experimental, gaming-centric AI chatbot that runs locally and provides real-time system information for a given game &lpar;Ryan Whitwam/Ars Technica&rpar;](http://www.techmeme.com/250326/p44#a250326p44)
- - [Flash deal: Grab an M4 Pro Mac mini for $1,199, record low price](https://appleinsider.com/articles/25/03/27/flash-deal-grab-an-m4-pro-mac-mini-for-1199-record-low-price?utm_medium=rss)
- - [Best 8K TVs for 2025: Why We&#39;re Not Recommending Any 8K TVs](https://www.cnet.com/tech/home-entertainment/best-8k-tvs-for-2025-why-were-not-recommending-any-8k-tvs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nvidia releases G-Assist, an experimental, gaming-centric AI chatbot that runs locally and provides real-time system information for a given game &lpar;Ryan Whitwam/Ars Technica&rpar;](http://www.techmeme.com/250326/p44#a250326p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

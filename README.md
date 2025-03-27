@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump White House invites a bloc of conservative podcasters as a jab at legacy media](https://www.theverge.com/policy/637890/trump-white-house-podcast-row)
+ - [Even More Venmo Accounts Tied to Trump Officials in Signal Group Chat Left Data Public](https://www.wired.com/story/even-more-venmo-accounts-tied-to-trump-officials-in-signal-group-chat-left-data-public/)
  - [Amazon’s latest Kindle Scribe is the cheapest it’s been in months](https://www.theverge.com/tech/637669/kindle-scribe-e-reader-amazon-big-spring-sale-2025-deal)
  - [Despite it not on iPhone 16e, Apple&#39;s MagSafe isn&#39;t going anywhere](https://appleinsider.com/articles/25/03/27/despite-it-not-on-iphone-16e-apples-magsafe-isnt-going-anywhere?utm_medium=rss)
- - [OpenAI&#39;s model behavior lead says OpenAI is &quot;shifting from blanket refusals in sensitive areas to a more precise approach focused on preventing real-world harm&quot; &lpar;Joanne Jang/Reservoir Samples&rpar;](http://www.techmeme.com/250327/p41#a250327p41)
- - [Today&#39;s NYT Connections Hints, Answers and Help for March 28, #656](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-28-656/#ftag=CAD590a51e)
- - [FTC tells staff to stop calling the agency ‘independent’ in complaints](https://www.theverge.com/news/637768/ftc-independent-agency-email-trump)<!-- TECH:END -->
+ - [OpenAI&#39;s model behavior lead says OpenAI is &quot;shifting from blanket refusals in sensitive areas to a more precise approach focused on preventing real-world harm&quot; &lpar;Joanne Jang/Reservoir Samples&rpar;](http://www.techmeme.com/250327/p41#a250327p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

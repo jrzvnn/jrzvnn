@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mexican TV shows are at another level.](http://9gag.com/gag/a9y5z0W)
- - 😝 [If Atom Eve was a goth](http://9gag.com/gag/a340163)
- - 💣 [Task Successfully Failed](http://9gag.com/gag/aoyRgrg)
+ - 😝 [History fact](http://9gag.com/gag/a7o08rb)
+ - 😝 [Vaccinating dogs in Egypt using a blow dart](http://9gag.com/gag/aMVPVPX)
+ - 💣 [Heretic 2025](http://9gag.com/gag/ayN6Mqq)
  - 😝 [The place where old white males turn young again.](http://9gag.com/gag/ayN6q1X)
- - 👉 [So you\u2019re telling me I can take a popular meme, transform it into Studio Ghibli style anime](http://9gag.com/gag/aryXAoX)<!-- MEMES:END -->
+ - 👉 [Task Successfully Failed](http://9gag.com/gag/aoyRgrg)<!-- MEMES:END -->
 
 ---
 

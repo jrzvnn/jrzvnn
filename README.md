@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AppLovin&#39;s stock closes down over 20% after short seller Muddy Waters released a report, the third such short report against the company in about a month &lpar;Carmen Reinicke/Bloomberg&rpar;](http://www.techmeme.com/250327/p39#a250327p39)
+ - [Unpacking ‘Good Quests,’ Christianity, and Caviar Bumps](https://www.wired.com/story/uncanny-valley-podcast-will-religion-save-silicon-valley/)
  - [The 24 best Amazon Big Spring Sale deals under $30](https://www.theverge.com/tech/636342/amazon-big-spring-sale-2025-best-deals-under-30-tech-gift-ideas)
  - [Ubisoft&amp;#8217;s $4 billion carveout sells Tencent a 25 percent stake in some of its biggest games](https://www.theverge.com/news/637775/ubisoft-tencent-carveout-assassins-creed-far-cry-tom-clancy)
- - [Amazon’s big spring sale continues, and we found the 90 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Immunefi: crypto industry lost a record $1.64B in Q1 2025 across 40 incidents, including $1.46B from the Bybit hack, vs. $348.3M across 63 incidents in Q1 2024 &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/250327/p38#a250327p38)<!-- TECH:END -->
+ - [Amazon’s big spring sale continues, and we found the 94 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

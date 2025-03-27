@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Before Lazarus hits Adult Swim, listen to some of its transcendent music](https://www.theverge.com/news/637174/lazarus-kamasi-wasington-bonobo-floating-points-soundtrack)
- - [Sources: Reddit banned r/WhitePeopleTwitter for 72 hours in February 2025 after Elon Musk messaged CEO Steve Huffman about users threatening DOGE staffers &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250327/p28#a250327p28)
- - [TikTok plans to launch TikTok Shop in France, Germany, and Italy on March 31, expanding its reach in Europe as TikTok&#39;s future in the US remains uncertain &lpar;Helen Reid/Reuters&rpar;](http://www.techmeme.com/250327/p27#a250327p27)
- - [Pokémon Legends: Z-A’s gameplay will change depending on the time of day](https://www.theverge.com/news/637256/pokemon-legends-z-a-trailer-day-night-cycle)
- - [How to turn off Apple Intelligence -- and keep turning it off](https://appleinsider.com/inside/apple-intelligence/tips/how-to-turn-off-apple-intelligence----and-keep-turning-it-off?utm_medium=rss)<!-- TECH:END -->
+ - [Audio-Technica’s R2-D2 earbuds play beeps and bloops for audio alerts](https://www.theverge.com/news/637222/audio-technica-star-wars-celebration-japan-wireless-earbuds)
+ - [Mendel, which offers corporate spend management tools for companies in Latin America, raises a $35M Series B led by Base10, bringing its total funding to $60M &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250327/p29#a250327p29)
+ - [Microsoft is giving its Office apps a speed boost](https://www.theverge.com/news/637469/microsoft-office-speed-boost-faster-launch)
+ - [Nintendo Is Changing the Way Digital Games Work](https://www.wired.com/story/nintendo-virtual-game-cards-switch-2/)
+ - [Amazon Luna gets EA games and is launching in more countries](https://www.theverge.com/news/637441/amazon-luna-ea-games-star-wars-dead-space)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

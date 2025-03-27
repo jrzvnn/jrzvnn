@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: CoreWeave plans to cut the size of its IPO to ~$1.5B, offering 37.5M shares at $40 each, down from 49M shares at $47 to $55, a sign of market volatility &lpar;Bloomberg&rpar;](http://www.techmeme.com/250327/p23#a250327p23)
  - [How to power your Apple devices off-grid with the best portable power station for camping](https://appleinsider.com/articles/25/03/27/how-to-power-your-apple-devices-off-grid-with-the-best-portable-power-station-for-camping?utm_medium=rss)
  - [TSMC&#39;s US chip fabrication facilities lag five years behind Taiwan](https://appleinsider.com/articles/25/03/27/tsmcs-us-chip-fabrication-facilities-lag-five-years-behind-taiwan?utm_medium=rss)
  - [Vizio All-in-One Soundbar &lpar;SV210D-0806&rpar; Review: Cheap Thrill](https://www.wired.com/review/vizio-all-in-one-2025/)
- - [SSD upgrades for M4 Pro Mac mini are inching closer](https://appleinsider.com/articles/25/03/27/ssd-upgrades-for-m4-pro-mac-mini-are-inching-closer?utm_medium=rss)
- - [All the news from Nintendo&amp;#8217;s March Direct showcase](https://www.theverge.com/games/636750/nintendo-switch-march-2025-direct)<!-- TECH:END -->
+ - [SSD upgrades for M4 Pro Mac mini are inching closer](https://appleinsider.com/articles/25/03/27/ssd-upgrades-for-m4-pro-mac-mini-are-inching-closer?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

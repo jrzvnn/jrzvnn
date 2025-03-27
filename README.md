@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo is launching a news app](https://www.theverge.com/news/637319/nintendo-today-news-app)
- - [How to turn off Apple Intelligence -- and keep turning it off](https://appleinsider.com/inside/apple-intelligence/tips/how-to-turn-off-apple-intelligence----and-keep-turning-it-off?utm_medium=rss)
- - [ChatGPT is turning everything into Studio Ghibli art — and it got weird fast](https://www.theverge.com/openai/636529/images-chatgpt-openai-studio-ghibli-copyright)
- - [Apple&#39;s M4 Mac mini plunges to $499, lowest price ever](https://appleinsider.com/articles/25/03/22/apples-m4-mac-mini-plunges-to-499-lowest-price-ever?utm_medium=rss)
- - [Cleo AI agrees to pay $17M to settle US FTC charges that it deceived customers about amounts and timing of available cash advances &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250327/p25#a250327p25)<!-- TECH:END -->
+ - [&#39;Wuthering Waves&#39; and &#39;Control Ultimate Edition&#39; now available on Mac](https://appleinsider.com/articles/25/03/27/wuthering-waves-and-control-ultimate-edition-now-available-on-mac?utm_medium=rss)
+ - [TSMC&#39;s US chip fabrication facilities lag five years behind Taiwan](https://appleinsider.com/articles/25/03/27/tsmcs-us-chip-fabrication-facilities-lag-five-years-behind-taiwan?utm_medium=rss)
+ - [Nintendo introduces new lending system for digital Switch games](https://www.theverge.com/news/637307/nintendo-switch-virtual-game-card-lending-system)
+ - [Nintendo unveils Virtual Game Cards to make it easier for users to port over their existing Switch games to other devices and lend out games, available in April &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250327/p26#a250327p26)
+ - [Light Phone III review: everything in moderation](https://www.theverge.com/reviews/637178/light-phone-iii-review-minimalist-smartphone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

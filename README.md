@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to turn off Apple Intelligence -- and why you need to keep turning it off](https://appleinsider.com/inside/apple-intelligence/tips/how-to-turn-off-apple-intelligence----and-keep-turning-it-off?utm_medium=rss)
- - [Apple issues second release candidate for macOS 15.4](https://appleinsider.com/articles/25/03/27/apple-issues-second-release-candidate-for-macos-154?utm_medium=rss)
- - [Ubisoft carves out a unit, which includes Assassin&#39;s Creed, into a ~€4B subsidiary; Tencent will invest €1.16B to acquire a 25% stake in the new entity &lpar;Bloomberg&rpar;](http://www.techmeme.com/250327/p33#a250327p33)
- - [OpenAI says ‘our GPUs are melting’ as it limits ChatGPT image generation requests](https://www.theverge.com/news/637542/chatgpt-says-our-gpus-are-melting-as-it-puts-limit-on-image-generation-requests)
- - [Perplexity says it is working with a startup called Firmly.ai to make it easier for brands to sell goods directly through Perplexity&#39;s shopping results &lpar;Jason Del Rey/Fortune&rpar;](http://www.techmeme.com/250327/p32#a250327p32)<!-- TECH:END -->
+ - [Anthropic says it created a new tool for deciphering how LLMs &quot;think&quot; and used it to resolve some key questions about how Claude and probably other LLMs work &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/250327/p35#a250327p35)
+ - [Nintendo is paving the way for the Switch 2](https://www.theverge.com/nintendo/637597/nintendo-virtual-game-cards-switch-2)
+ - [&#39;Pop the Balloon&#39; Dating Show Is Coming to Netflix in April](https://www.cnet.com/tech/services-and-software/pop-the-balloon-dating-show-is-coming-to-netflix-in-april/#ftag=CAD590a51e)
+ - [Seth Rogen&#39;s &#39;The Studio&#39; might just be Apple TV+&#39;s new &#39;Severance&#39;](https://appleinsider.com/articles/25/03/27/seth-rogens-the-studio-might-just-be-apple-tvs-new-severance?utm_medium=rss)
+ - [Prime Members: Save Up to 50% on Alpaka Bags During Amazon’s Big Spring Sale](https://www.cnet.com/tech/prime-members-save-up-to-50-on-alpaka-bags-during-amazons-big-spring-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

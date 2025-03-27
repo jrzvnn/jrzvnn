@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yeah, it&#39;s not easy](http://9gag.com/gag/a0e00oO)
- - 😝 [Snow White and the 7 low wage magical Cgi creatures.](http://9gag.com/gag/a7o004L)
- - 💣 [A perfect plug does not exist](http://9gag.com/gag/abA4xgO)
- - 😝 [PSA of the day](http://9gag.com/gag/aMVPPE1)
- - 👉 [Man...you need to oil that door...](http://9gag.com/gag/an72x50)<!-- MEMES:END -->
+ - 😝 [Staying tru to the art](http://9gag.com/gag/adBQvy2)
+ - 😝 [A perfect plug does not exist](http://9gag.com/gag/abA4xgO)
+ - 💣 [She had a wonderful reaction to it](http://9gag.com/gag/aE0AM2N)
+ - 😝 [I\u00b4ll just leave this here](http://9gag.com/gag/aLn44w5)
+ - 👉 [A little reminder of where the Yoko ono memes come from](http://9gag.com/gag/aByVEVD)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vivaldi Browser Now Comes With Proton VPN for Free](https://www.wired.com/story/vivaldi-browser-proton-vpn-integration/)
+ - [Portable Water Dispensers Are the New At-Home Hydration Hack](https://www.cnet.com/news/portable-water-dispensers-are-my-new-at-home-hydration-hack/#ftag=CAD590a51e)
  - [JPMorgan researchers say they have generated and certified truly random numbers using a quantum computer, a world-first with potential security and trading uses &lpar;Isabella Ward/Bloomberg&rpar;](http://www.techmeme.com/250327/p7#a250327p7)
  - [Sources: many new Chinese AI data centers sit unused due to weak demand and DeepSeek-driven shifts; local reports say ~80% of new computing resources are idle &lpar;Caiwei Chen/MIT Technology Review&rpar;](http://www.techmeme.com/250327/p6#a250327p6)
- - [The Trump administration cut $20M in funding from the Bureau of Industry and Security, which oversees chip export controls, representing ~10% of BIS&#39;s budget &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250327/p5#a250327p5)
- - [Anthropic and Databricks ink a five-year deal, expected to jointly generate $100M in revenue, by selling AI tools to businesses developing their own AI agents &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250327/p4#a250327p4)
- - [Alibaba releases open-source multimodal AI model Qwen2.5-Omni-7B on Hugging Face and GitHub, saying the model can be deployed on edge devices like smartphones &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250327/p3#a250327p3)<!-- TECH:END -->
+ - [Best Internet Providers in Wilkes-Barre, Pennsylvania](https://www.cnet.com/home/internet/best-internet-providers-in-wilkes-barre-pa/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

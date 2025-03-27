@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No more memes](http://9gag.com/gag/aKGvvm6)
  - 😝 [Yeah, it&#39;s not easy](http://9gag.com/gag/a0e00oO)
- - 💣 [It&#39;s that easy?](http://9gag.com/gag/aoyR32e)
- - 😝 [So you\u2019re telling me I can take a popular meme, transform it into Studio Ghibli style anime](http://9gag.com/gag/aryXAoX)
- - 👉 [Visiting the British Museum, my disappointment is immeasurable and my day is ruined.](http://9gag.com/gag/aByVVWN)<!-- MEMES:END -->
+ - 😝 [It&#39;s that easy?](http://9gag.com/gag/aoyR32e)
+ - 💣 [So you\u2019re telling me I can take a popular meme, transform it into Studio Ghibli style anime](http://9gag.com/gag/aryXAoX)
+ - 😝 [Visiting the British Museum, my disappointment is immeasurable and my day is ruined.](http://9gag.com/gag/aByVVWN)
+ - 👉 [Snow White and the 7 low wage magical Cgi creatures.](http://9gag.com/gag/a7o004L)<!-- MEMES:END -->
 
 ---
 

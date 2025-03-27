@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xiaomi&#39;s Poco unveils the £649+ F7 Ultra, with a 6.67&quot; display, Snapdragon 8 Elite, a triple rear camera, 120W wired charging, and IP68, and the £499+ F7 Pro &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250327/p19#a250327p19)
+ - [Manta Sound Sleep Mask Review: A Must-Have for Insomnia](https://www.wired.com/review/manta-sound/)
  - [Meta VP of Asia Pacific Dan Neary is leaving for personal reasons; the Singapore-based executive joined in 2013, and Meta now has ~1.1B users in the region &lpar;Newley Purnell/Bloomberg&rpar;](http://www.techmeme.com/250327/p18#a250327p18)
  - [Pat Gelsinger says TSMC&#39;s pledge to invest $100B+ in US chip manufacturing will do little to restore the US&#39; chipmaking leadership as R&amp;D will remain in Taiwan &lpar;Financial Times&rpar;](http://www.techmeme.com/250327/p17#a250327p17)
- - [These 18 Fantasy TV Shows on Netflix Are Out of This World](https://www.cnet.com/tech/services-and-software/best-fantasy-tv-shows-on-netflix-2025/#ftag=CAD590a51e)
- - [10 Foods You&#39;ll Be Shocked to Learn Contain Animal Byproducts](https://www.cnet.com/news/10-foods-youll-be-shocked-to-learn-contain-animal-byproducts/#ftag=CAD590a51e)
- - [Explore a Radioactive England in Atomfall on Xbox Game Pass Now](https://www.cnet.com/tech/gaming/explore-a-radioactive-england-in-atomfall-on-xbox-game-pass-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These 18 Fantasy TV Shows on Netflix Are Out of This World](https://www.cnet.com/tech/services-and-software/best-fantasy-tv-shows-on-netflix-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

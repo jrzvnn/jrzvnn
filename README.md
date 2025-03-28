@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He won life](http://9gag.com/gag/a1m02O8)
- - 😝 [Magnitude 7.3 Earthquake happened today &lpar;March 28&rpar; in Bangkok.](http://9gag.com/gag/aVvK20v)
- - 💣 [Thanks to chatgpt Everything is studio Ghibli now. Even lord of the rings.](http://9gag.com/gag/a4PNNR1)
- - 😝 [Hello again](http://9gag.com/gag/aAyKX3d)
- - 👉 [`Can i get 2 beer towers?` Say no more fam, I got you.](http://9gag.com/gag/aryXB30)<!-- MEMES:END -->
+ - 😝 [Studio Ghibli&#39;s Hayao Miyazaki Condemns AI Art as &#39;An Insult to Life Itself&#39;](http://9gag.com/gag/aGyBAow)
+ - 😝 [I don&#39;t speak whatever language he&#39;s speaking but I know exactly what he said.](http://9gag.com/gag/a7o02W2)
+ - 💣 [Australian shepherd &gt; tinder](http://9gag.com/gag/aQz72Zq)
+ - 😝 [Based](http://9gag.com/gag/awy1d8R)
+ - 👉 [For those that still download mp3s](http://9gag.com/gag/aGyB8X0)<!-- MEMES:END -->
 
 ---
 

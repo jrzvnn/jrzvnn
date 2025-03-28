@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EY: Indians collectively spent 1.1T hours on their smartphones in 2024, averaging five hours daily, with ~70% of the time on social media, gaming, and videos &lpar;Satviki Sanjay/Bloomberg&rpar;](http://www.techmeme.com/250327/p43#a250327p43)
  - [Our favorite robot vacuum deals from Amazon’s Big Spring Sale](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
  - [Infinacore P3 Pro Charger review: Reliable choice for home or travel](https://appleinsider.com/articles/25/03/27/infinacore-p3-pro-charger-review-reliable-choice-for-home-or-travel?utm_medium=rss)
- - [Amazon’s big spring sale continues, and we found the 95 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
- - [Nintendo digital lending feature reveals &amp;#8216;Switch 2 Edition&amp;#8217; games are on the way](https://www.theverge.com/news/637936/nintendo-switch-2-edition-games)
- - [A US federal judge orders agencies whose leaders participated in the Signal chat on the Houthi attacks to preserve all messages sent from March 11 to March 15 &lpar;Andrew Goudsward/Reuters&rpar;](http://www.techmeme.com/250327/p42#a250327p42)<!-- TECH:END -->
+ - [Best Massage Guns for 2025: Personal Trainer Tested](https://www.cnet.com/health/fitness/best-massage-gun/#ftag=CAD590a51e)
+ - [Amazon’s big spring sale continues, and we found the 95 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

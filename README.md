@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Woah](http://9gag.com/gag/aMVPmDP)
- - 😝 [Poor guy is just trying to do his job](http://9gag.com/gag/aPAooxB)
- - 💣 [Who&#39;s laughing now?](http://9gag.com/gag/aW4nb62)
- - 😝 [My mom is livid and hasn&#39;t stopped messaging/calling him. Dad just reads her texts and ignores them.](http://9gag.com/gag/a870KAp)
- - 👉 [X-ray scans showing cross sections of leg tissue between a triathlete and a sedentary man](http://9gag.com/gag/aQz7ZDr)<!-- MEMES:END -->
+ - 😝 [Tow truck driver ran over just doing his job](http://9gag.com/gag/aoyRRWe)
+ - 💣 [Poor guy is just trying to do his job](http://9gag.com/gag/aPAooxB)
+ - 😝 [Violince](http://9gag.com/gag/a9y5DpD)
+ - 👉 [Who&#39;s laughing now?](http://9gag.com/gag/aW4nb62)<!-- MEMES:END -->
 
 ---
 

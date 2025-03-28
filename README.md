@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s what military planning usually looks like — and why it doesn’t include Signal](https://www.theverge.com/politics/638419/signal-houthi-group-chat-military-security-scif-encryption)
  - [Anthropic researchers share the surprises they observed while watching Claude think: planning ahead, confusion between safety and helpfulness goals, lying, more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/250328/p15#a250328p15)
  - [Madison Square Garden&amp;#8217;s surveillance system banned this fan over his T-shirt design](https://www.theverge.com/news/637228/madison-square-garden-james-dolan-facial-recognition-fan-ban)
  - [Lowest price ever: Babbel lifetime subscription plunges to $124.99](https://appleinsider.com/articles/25/03/28/lowest-price-ever-babbel-lifetime-subscription-plunges-to-12499?utm_medium=rss)
- - [Apple Reportedly Has No Current Plans to Resurrect the iPhone Mini](https://www.cnet.com/tech/mobile/apple-has-no-current-plans-to-resurrect-the-iphone-mini/#ftag=CAD590a51e)
- - [Best Space Heaters in 2025](https://www.cnet.com/home/kitchen-and-household/best-space-heater/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [King Arthur wants to automate your sourdough starter](https://www.theverge.com/news/638390/sourdough-starter-king-arthur-flour-firstbuild-indiegogo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

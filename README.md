@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Intel says three board members will not stand for reelection at its 2025 annual meeting, shrinking the size of the board to 11 members &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/250328/p31#a250328p31)
  - [Source: hackers broke into Oracle&#39;s Cerner servers sometime after January 22 and stole patient data to extort US medical providers; the FBI is investigating &lpar;Bloomberg&rpar;](http://www.techmeme.com/250328/p30#a250328p30)
  - [Sources: Blackstone is evaluating a small minority investment in TikTok&#39;s US operations, joining the front-running bid by ByteDance&#39;s non-Chinese shareholders &lpar;Reuters&rpar;](http://www.techmeme.com/250328/p29#a250328p29)
  - [7 Best Bike Locks &lpar;2025&rpar;: Litelok, Abus, Hiplok, KryptoLok Compared](https://www.wired.com/gallery/best-bike-lock/)
- - [Elon Musk’s xAI Acquires X, Because of Course](https://www.wired.com/story/xai-x-acquisition-deal/)
- - [Judge saves the CFPB, for now](https://www.theverge.com/news/638987/cfpb-nteu-vought-preliminary-injunction-trump-doge)<!-- TECH:END -->
+ - [Elon Musk’s xAI Acquires X, Because of Course](https://www.wired.com/story/xai-x-acquisition-deal/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

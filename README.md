@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ChatGPT’s Ghibli filter is political now — but it always was](https://www.theverge.com/tech/638603/studio-ghibli-chatgpt-ai-filter-white-house-meme)
+ - [Trump pardons BitMEX founders Arthur Hayes, Benjamin Delo, and Samuel Reed, who previously pled guilty to federal criminal charges related to money laundering &lpar;CNBC&rpar;](http://www.techmeme.com/250328/p21#a250328p21)
  - [YouTube tests turning off notifications for channels you don&amp;#8217;t watch](https://www.theverge.com/news/638506/youtube-push-notification-test)
  - [Google will pay $100M in cash to settle a 2011 lawsuit accusing the company of charging for clicks on ads outside the geographic areas the advertisers targeted &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250328/p20#a250328p20)
- - [Google to pay $100 million to settle 14-year-old advertising lawsuit](https://www.theverge.com/news/638630/google-100-million-settlement-advertising-class-action-lawsuit)
- - [The US FDIC says banks can engage in cryptocurrency and other legally permitted activities without prior regulatory approval if they manage risks appropriately &lpar;Pete Schroeder/Reuters&rpar;](http://www.techmeme.com/250328/p19#a250328p19)
- - [CoreWeave opens down 2.5% at $39 in its Nasdaq debut; CoreWeave&#39;s offering is the largest US IPO since UiPath&#39;s NYSE debut in 2021 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250328/p18#a250328p18)<!-- TECH:END -->
+ - [Google to pay $100 million to settle 14-year-old advertising lawsuit](https://www.theverge.com/news/638630/google-100-million-settlement-advertising-class-action-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

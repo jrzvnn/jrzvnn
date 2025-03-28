@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube tests turning off notifications for channels you don&amp;#8217;t watch](https://www.theverge.com/news/638506/youtube-push-notification-test)
+ - [Google will pay $100M in cash to settle a 2011 lawsuit accusing the company of charging for clicks on ads outside the geographic areas the advertisers targeted &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250328/p20#a250328p20)
  - [Google to pay $100 million to settle 14-year-old advertising lawsuit](https://www.theverge.com/news/638630/google-100-million-settlement-advertising-class-action-lawsuit)
  - [The US FDIC says banks can engage in cryptocurrency and other legally permitted activities without prior regulatory approval if they manage risks appropriately &lpar;Pete Schroeder/Reuters&rpar;](http://www.techmeme.com/250328/p19#a250328p19)
- - [CoreWeave opens down 2.5% at $39 in its Nasdaq debut; CoreWeave&#39;s offering is the largest US IPO since UiPath&#39;s NYSE debut in 2021 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250328/p18#a250328p18)
- - [Helldivers 2 is locking out players who use older CPUs](https://www.theverge.com/news/638317/helldivers-2-avx2-cpu-requirement-lockout-sony)
- - [Apple&#39;s folding iPad or MacBook: What to expect, and when it will ship](https://appleinsider.com/articles/25/03/28/apples-folding-ipad-or-macbook-what-to-expect-and-when-it-will-ship?utm_medium=rss)<!-- TECH:END -->
+ - [CoreWeave opens down 2.5% at $39 in its Nasdaq debut; CoreWeave&#39;s offering is the largest US IPO since UiPath&#39;s NYSE debut in 2021 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250328/p18#a250328p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

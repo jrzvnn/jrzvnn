@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 30 best Amazon Big Spring Sale deals under $30](https://www.theverge.com/tech/636342/amazon-big-spring-sale-2025-best-deals-under-30-tech-gift-ideas)
  - [Elon Musk’s xAI buys Elon Musk’s X for $33 billion on paper](https://www.theverge.com/news/638933/elon-musk-x-xai-acquisition)
  - [Microsoft tests Quick Machine Recovery to restore PCs that can&amp;#8217;t boot](https://www.theverge.com/news/638890/microsoft-quick-machine-recovery-restore-pcs-crowdstrike)
  - [The 103 Best Amazon Spring Sale Deals for March 2025](https://www.wired.com/story/amazon-spring-sale-2025-3/)
- - [Elon Musk says xAI has acquired X in an all-stock transaction valuing xAI at $80B and X at $33B &lpar;Elon Musk/@elonmusk&rpar;](http://www.techmeme.com/250328/p27#a250328p27)
- - [Sources: ScaleAI is seeking a valuation as high as $25B in a potential tender offer; it was last valued at $13.8B in a $1B Series F round led by Accel in 2024 &lpar;Ben Bergman/Business Insider&rpar;](http://www.techmeme.com/250328/p26#a250328p26)<!-- TECH:END -->
+ - [Elon Musk says xAI has acquired X in an all-stock transaction valuing xAI at $80B and X at $33B &lpar;Elon Musk/@elonmusk&rpar;](http://www.techmeme.com/250328/p27#a250328p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

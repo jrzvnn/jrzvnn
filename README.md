@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For those that still download mp3s](http://9gag.com/gag/aGyB8X0)
- - 😝 [Black live or something](http://9gag.com/gag/a9y5XYZ)
- - 💣 [Woman went to the pet store to pick out a new cat, then this happened...](http://9gag.com/gag/aoyRVKw)
- - 😝 [London final boss](http://9gag.com/gag/aQz7Zxr)
- - 👉 [Based](http://9gag.com/gag/awy1d8R)<!-- MEMES:END -->
+ - 😝 [I don&#39;t speak whatever language he&#39;s speaking but I know exactly what he said.](http://9gag.com/gag/a7o02W2)
+ - 😝 [I am so...](http://9gag.com/gag/a9y5581)
+ - 💣 [Black live or something](http://9gag.com/gag/a9y5XYZ)
+ - 😝 [Based](http://9gag.com/gag/awy1d8R)
+ - 👉 [The French plight](http://9gag.com/gag/a5Qw2Vq)<!-- MEMES:END -->
 
 ---
 

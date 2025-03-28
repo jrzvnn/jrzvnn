@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Court documents: India criticizes Elon Musk&#39;s X for wrongly labeling an official website, used to notify tech firms of harmful content, as a &quot;censorship portal&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/250328/p5#a250328p5)
+ - [These Are 20 of the Absolute Best Sci-Fi TV Shows on Netflix](https://www.cnet.com/tech/services-and-software/best-sci-fi-tv-shows-on-netflix-2025/#ftag=CAD590a51e)
+ - [I Made My iPhone&#39;s Photo App So Much Better With This One Change](https://www.cnet.com/tech/services-and-software/i-made-my-iphones-photo-app-so-much-better-with-this-one-change/#ftag=CAD590a51e)
  - [The Tech You Need to Level Up Your Humanity](https://www.wired.com/gallery/gear-human-computing/)
- - [If Anthropic Succeeds, a Nation of Benevolent AI Geniuses Could Be Born](https://www.wired.com/story/anthropic-benevolent-artificial-intelligence/)
- - [Today&#39;s Wordle Hints, Answer and Help for March 28, #1378](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-28-1378/#ftag=CAD590a51e)
- - [Women&#39;s March Madness 2025: How to Watch the Sweet 16 Games Today](https://www.cnet.com/tech/services-and-software/womens-march-madness-2025-how-to-watch-the-sweet-16-games-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [If Anthropic Succeeds, a Nation of Benevolent AI Geniuses Could Be Born](https://www.wired.com/story/anthropic-benevolent-artificial-intelligence/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [MrBeast co-wrote a book with James Patterson](https://www.theverge.com/news/638785/mrbeast-james-patterson-book)
  - [Reddit shares are down 50% from a February high, after its Q4 earnings report showed its traffic took a hit from a change in Google&#39;s search algorithm &lpar;Carmen Reinicke/Bloomberg&rpar;](http://www.techmeme.com/250328/p24#a250328p24)
  - [Lenovo’s upcoming SteamOS handheld will cost $50 more than expected](https://www.theverge.com/tech/638729/lenovo-legion-go-s-steamos-price-increase)
- - [Former Twitch CEO Emmett Shear, who was OpenAI&#39;s interim CEO in 2023 when Sam Altman was fired, launches Softmax, a startup focused on AI alignment &lpar;Ashlee Vance/Core Memory&rpar;](http://www.techmeme.com/250328/p23#a250328p23)
- - [Side Quest’s creators wanted to tell stories about why people love games](https://www.theverge.com/tv/638323/apple-tv-plus-side-quest-ashly-burch-john-howell-harris-katie-mcelhenney)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for March 29, #391](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-29-391/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for March 29, #657](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-29-657/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: DOGE aims to migrate all Social Security Administration&#39;s computer systems off COBOL in a matter of months, risking the integrity of the system &lpar;Makena Kelly/Wired&rpar;](http://www.techmeme.com/250328/p14#a250328p14)
+ - [Apple TV+ documentary &#39;Fight for Glory: 2024 World Series&#39; takes a deep dive into the 2024 World Series](https://appleinsider.com/articles/25/03/28/apple-tv-documentary-fight-for-glory-2024-world-series-takes-a-deep-dive-into-the-2024-world-series?utm_medium=rss)
+ - [This Crazy Instrument Lets Us Hear How Dinosaurs Might Have Sounded](https://www.wired.com/story/this-crazy-instrument-lets-us-hear-how-dinosaurs-might-have-sounded/)
  - [Trump pardons ex-Nikola CEO Trevor Milton](https://www.theverge.com/news/638340/nikola-ceo-trevor-milton-trump-pardon)
- - [Google’s Pixel 9A will launch on April 10th](https://www.theverge.com/news/638348/google-pixel-9a-april-10-launch-date)
- - [Amazon’s big spring sale continues, and we found the 100 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
- - [NASA and Boeing investigate Starliner&amp;#8217;s &amp;#8216;anomalies&amp;#8217; before its next crewed flight](https://www.theverge.com/news/638289/nasa-boeing-starliner-flight-preparations-2026)
- - [ResMed Kontor Head Strap for Apple Vision Pro review: bring balance to spatial computing](https://appleinsider.com/articles/25/03/28/resmed-kontor-head-strap-for-apple-vision-pro-review-bring-balance-to-spatial-computing?utm_medium=rss)<!-- TECH:END -->
+ - [Google’s Pixel 9A will launch on April 10th](https://www.theverge.com/news/638348/google-pixel-9a-april-10-launch-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

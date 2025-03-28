@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [` Mommy tells me I&#39;m a girl` Jeff&#39;s story](http://9gag.com/gag/ayN6YXb)
- - 😝 [Spidergirl](http://9gag.com/gag/a340Aw8)
- - 💣 [All is Ghibli](http://9gag.com/gag/aZZ8EKQ)
- - 😝 [Based](http://9gag.com/gag/awy1d8R)
- - 👉 [I\u00b4ll just leave this here](http://9gag.com/gag/aLn44w5)<!-- MEMES:END -->
+ - 😝 [Woah](http://9gag.com/gag/aMVPmDP)
+ - 😝 [Poor guy is just trying to do his job](http://9gag.com/gag/aPAooxB)
+ - 💣 [Who&#39;s laughing now?](http://9gag.com/gag/aW4nb62)
+ - 😝 [My mom is livid and hasn&#39;t stopped messaging/calling him. Dad just reads her texts and ignores them.](http://9gag.com/gag/a870KAp)
+ - 👉 [X-ray scans showing cross sections of leg tissue between a triathlete and a sedentary man](http://9gag.com/gag/aQz7ZDr)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Interviews with Dario Amodei, Daniela Amodei, and other executives about Anthropic&#39;s origin, Claude, why DeepSeek isn&#39;t a threat, reaching AGI safely, more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/250328/p10#a250328p10)
+ - [Common Side Effects is coming back for a second season](https://www.theverge.com/news/638147/common-side-effects-season-2-renewal)
  - [EU antitrust agency may not fine Apple much to avoid tariff war escalation](https://appleinsider.com/articles/25/03/28/eu-antitrust-agency-may-not-fine-apple-much-to-avoid-tariff-war-escalation?utm_medium=rss)
  - [5 Best Phones With Headphone Jacks &lpar;2025&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-headphone-jack-phones/)
- - [Amazon MGM Studios head Jennifer Salke steps down](https://www.theverge.com/news/638138/amazon-mgm-studios-jennifer-salke-steps-down)
- - [Google starts offering user choice billing in the UK, initially to non-game developers, says 90%+ of developers are satisfied with Google Play&#39;s native billing &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250328/p9#a250328p9)
- - [Nintendo’s Legend of Zelda movie hits theaters in March 2027](https://www.theverge.com/news/638133/legend-of-zelda-movie-premiere-date-2027)<!-- TECH:END -->
+ - [Amazon MGM Studios head Jennifer Salke steps down](https://www.theverge.com/news/638138/amazon-mgm-studios-jennifer-salke-steps-down)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

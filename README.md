@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Studio Ghibli&#39;s Hayao Miyazaki Condemns AI Art as &#39;An Insult to Life Itself&#39;](http://9gag.com/gag/aGyBAow)
- - 😝 [I don&#39;t speak whatever language he&#39;s speaking but I know exactly what he said.](http://9gag.com/gag/a7o02W2)
- - 💣 [Australian shepherd &gt; tinder](http://9gag.com/gag/aQz72Zq)
- - 😝 [Based](http://9gag.com/gag/awy1d8R)
- - 👉 [For those that still download mp3s](http://9gag.com/gag/aGyB8X0)<!-- MEMES:END -->
+ - 😝 [For those that still download mp3s](http://9gag.com/gag/aGyB8X0)
+ - 😝 [Black live or something](http://9gag.com/gag/a9y5XYZ)
+ - 💣 [Woman went to the pet store to pick out a new cat, then this happened...](http://9gag.com/gag/aoyRVKw)
+ - 😝 [London final boss](http://9gag.com/gag/aQz7Zxr)
+ - 👉 [Based](http://9gag.com/gag/awy1d8R)<!-- MEMES:END -->
 
 ---
 

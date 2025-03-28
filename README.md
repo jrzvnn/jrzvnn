@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [First Alert’s new smart smoke alarm is meant to be a Google Nest Protect replacement](https://www.theverge.com/news/638234/first-alert-smart-smoke-alarm-google-nest-protect-replacement)
+ - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)
  - [Second release candidate betas of iOS 18.4 &amp; iPadOS 18.4 seeded to testers](https://appleinsider.com/articles/25/03/28/second-release-candidate-betas-of-ios-184-ipados-184-seeded-to-testers?utm_medium=rss)
  - [Michael Novogratz&#39;s Galaxy Digital will pay $200M as part of a settlement with the New York AG over the firm&#39;s role in promoting the failed Luna cryptocurrency &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/250328/p16#a250328p16)
- - [Madison Square Garden&amp;#8217;s surveillance system banned this fan over his T-shirt design](https://www.theverge.com/news/637228/madison-square-garden-james-dolan-facial-recognition-fan-ban)
- - [New Measles Outbreaks Confirmed in The US. Do You Need an MMR Booster to Keep Yourself Safe?](https://www.cnet.com/health/medical/new-measles-outbreaks-confirmed-in-the-us-do-you-need-an-mmr-booster/#ftag=CAD590a51e)
- - [Black Ops 6 Quad Feed Double XP Weekend Is Live Now](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-6-double-xp-weekend-march-28-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Madison Square Garden&amp;#8217;s surveillance system banned this fan over his T-shirt design](https://www.theverge.com/news/637228/madison-square-garden-james-dolan-facial-recognition-fan-ban)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

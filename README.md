@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US judge dismisses Samsung&#39;s Oura lawsuit, saying Samsung acted prematurely in seeking a judgment that Galaxy Ring doesn&#39;t infringe on Oura&#39;s patents &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250328/p12#a250328p12)
- - [Madison Square Garden&amp;#8217;s surveillance system banned this fan over his T-shirt design](https://www.theverge.com/news/637228/madison-square-garden-james-dolan-facial-recognition-fan-ban)
- - [Sperm Stem Cells Were Used for the First Time in an Attempt to Restore Fertility](https://www.wired.com/story/first-testicular-stem-cell-transplant-in-a-human-patient/)
- - [Judge dismisses Samsung’s smart ring lawsuit against Oura](https://www.theverge.com/news/638080/samsung-oura-patent-dismissal-smart-rings)
- - [DOGE Plans to Rebuild SSA Codebase In Months, Risking Benefits and System Collapse](https://www.wired.com/story/doge-rebuild-social-security-administration-cobol-benefits/)<!-- TECH:END -->
+ - [All-glass Apple Watch rumored to ship long before all-glass iPhone](https://appleinsider.com/articles/25/03/28/all-glass-apple-watch-rumored-to-ship-long-before-all-glass-iphone?utm_medium=rss)
+ - [First Alert’s new smart smoke alarm is meant to be a Google Nest Protect replacement](https://www.theverge.com/news/638234/first-alert-smart-smoke-alarm-google-nest-protect-replacement)
+ - [4 Best Smart Displays &lpar;2025&rpar;: Google Assistant and Amazon Alexa](https://www.wired.com/gallery/best-smart-displays/)
+ - [Yale’s new smart lock can match your Google Nest doorbell](https://www.theverge.com/news/638162/yale-smart-lock-with-matter-works-with-google-home)
+ - [Google discontinues Nest Protect smoke alarm and Nest x Yale door lock](https://www.theverge.com/news/638171/google-discontinuing-nest-protect-smoke-alarm-nest-x-yale-smart-lock)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

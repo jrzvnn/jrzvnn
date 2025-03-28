@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Black live or something](http://9gag.com/gag/a9y5XYZ)
- - 😝 [I\u00b4ll just leave this here](http://9gag.com/gag/aLn44w5)
- - 💣 [Dora is Lost](http://9gag.com/gag/aryXZbB)
- - 😝 [White trash psychotic chick](http://9gag.com/gag/axy6P1L)
- - 👉 [For those that still download mp3s](http://9gag.com/gag/aGyB8X0)<!-- MEMES:END -->
+ - 😝 [That smile. That damned smile.](http://9gag.com/gag/a0e0EmO)
+ - 😝 [He definitely made the video 100x better](http://9gag.com/gag/aW4nL56)
+ - 💣 [Without hesitation](http://9gag.com/gag/ajPLZvq)
+ - 😝 [Australian shepherd &gt; tinder](http://9gag.com/gag/aQz72Zq)
+ - 👉 [`Can i get 2 beer towers?` Say no more fam, I got you.](http://9gag.com/gag/aryXB30)<!-- MEMES:END -->
 
 ---
 

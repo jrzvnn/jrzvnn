@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [7 Best Sleep Masks &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sleep-masks/)
  - [The UK&#39;s Financial Conduct Authority says it intends to begin authorizing new crypto firms in 2026 after it designs a more stringent regulatory regime &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/250328/p7#a250328p7)
  - [‘Katamari Damacy’ Creator’s New Game Is About Teen Angst, Cute Dogs, and Eye Boogers](https://www.wired.com/story/katamari-damacy-creators-new-game-is-about-teen-angst-cute-dogs-and-eye-boogers/)
  - [We Mapped DOGE’s Silicon Valley and Corporate Connections](https://www.wired.com/story/elon-musk-doge-silicon-valley-corporate-connections/)
- - [Android Auto’s latest beta brings full Android game support](https://www.theverge.com/news/638059/android-auto-14-1-beta-game-support)
- - [Crypto.com says the US SEC won&#39;t pursue enforcement action; Crypto.com sued the SEC in October after receiving a Wells notice signaling potential charges &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/250328/p6#a250328p6)<!-- TECH:END -->
+ - [Android Auto’s latest beta brings full Android game support](https://www.theverge.com/news/638059/android-auto-14-1-beta-game-support)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

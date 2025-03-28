@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All is Ghibli](http://9gag.com/gag/aZZ8EKQ)
- - 😝 [Who&#39;s laughing now?](http://9gag.com/gag/aW4nb62)
- - 💣 [My mom is livid and hasn&#39;t stopped messaging/calling him. Dad just reads her texts and ignores them.](http://9gag.com/gag/a870KAp)
- - 😝 [Violince](http://9gag.com/gag/a9y5DpD)
- - 👉 [Woah](http://9gag.com/gag/aMVPmDP)<!-- MEMES:END -->
+ - 😝 [The world is healing.](http://9gag.com/gag/aAyKvwg)
+ - 😝 [The real Evil Queen. Her acting is so good, it doesn&#39;t even feel like she&#39;s acting.](http://9gag.com/gag/aGyB7yZ)
+ - 💣 [Without hesitation](http://9gag.com/gag/ajPLZvq)
+ - 😝 [Like a real Italian](http://9gag.com/gag/adBQ2zN)
+ - 👉 [My mom is livid and hasn&#39;t stopped messaging/calling him. Dad just reads her texts and ignores them.](http://9gag.com/gag/a870KAp)<!-- MEMES:END -->
 
 ---
 

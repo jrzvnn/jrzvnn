@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Blackstone is evaluating a small minority investment in TikTok&#39;s US operations, joining the front-running bid by ByteDance&#39;s non-Chinese shareholders &lpar;Reuters&rpar;](http://www.techmeme.com/250328/p29#a250328p29)
  - [Elon Musk’s xAI Acquires X, Because of Course](https://www.wired.com/story/xai-x-acquisition-deal/)
  - [Judge saves the CFPB, for now](https://www.theverge.com/news/638987/cfpb-nteu-vought-preliminary-injunction-trump-doge)
  - [Windows 11 is closing a loophole that let you skip making a Microsoft account](https://www.theverge.com/news/638967/microsoft-windows-11-account-internet-bypass-blocked)
- - [Elon Musk says xAI has acquired X in an all-stock transaction valuing xAI at $80B and X at $33B &lpar;CNBC&rpar;](http://www.techmeme.com/250328/p28#a250328p28)
- - [Act Fast to Grab New Apple and Samsung Gear While It’s a Massive 43% Off at Woot](https://www.cnet.com/tech/act-fast-to-grab-new-apple-and-samsung-gear-while-its-a-massive-43-off-at-woot/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk says xAI has acquired X in an all-stock transaction valuing xAI at $80B and X at $33B &lpar;CNBC&rpar;](http://www.techmeme.com/250328/p28#a250328p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

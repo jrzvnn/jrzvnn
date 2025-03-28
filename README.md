@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hope it doesn&#39;t rain](http://9gag.com/gag/avy699M)
- - 😝 [Australian shepherd &gt; tinder](http://9gag.com/gag/aQz72Zq)
- - 💣 [Without hesitation](http://9gag.com/gag/ajPLZvq)
- - 😝 [Save it and never use it again](http://9gag.com/gag/avy698b)
- - 👉 [Like a real Italian](http://9gag.com/gag/adBQ2zN)<!-- MEMES:END -->
+ - 😝 [All is Ghibli](http://9gag.com/gag/aZZ8EKQ)
+ - 😝 [Who&#39;s laughing now?](http://9gag.com/gag/aW4nb62)
+ - 💣 [My mom is livid and hasn&#39;t stopped messaging/calling him. Dad just reads her texts and ignores them.](http://9gag.com/gag/a870KAp)
+ - 😝 [Violince](http://9gag.com/gag/a9y5DpD)
+ - 👉 [Woah](http://9gag.com/gag/aMVPmDP)<!-- MEMES:END -->
 
 ---
 

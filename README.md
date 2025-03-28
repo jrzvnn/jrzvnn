@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump pardons ex-Nikola CEO Trevor Milton](https://www.theverge.com/news/638340/nikola-ceo-trevor-milton-trump-pardon)
  - [Google’s Pixel 9A will launch on April 10th](https://www.theverge.com/news/638348/google-pixel-9a-april-10-launch-date)
+ - [Amazon’s big spring sale continues, and we found the 100 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
  - [NASA and Boeing investigate Starliner&amp;#8217;s &amp;#8216;anomalies&amp;#8217; before its next crewed flight](https://www.theverge.com/news/638289/nasa-boeing-starliner-flight-preparations-2026)
- - [ResMed Kontor Head Strap for Apple Vision Pro review: bring balance to spatial computing](https://appleinsider.com/articles/25/03/28/resmed-kontor-head-strap-for-apple-vision-pro-review-bring-balance-to-spatial-computing?utm_medium=rss)
- - [Helldivers 2 is locking out players who use older CPUs](https://www.theverge.com/news/638317/helldivers-2-avx2-cpu-requirement-lockout-sony)
- - [All-glass Apple Watch rumored to ship long before all-glass iPhone](https://appleinsider.com/articles/25/03/28/all-glass-apple-watch-rumored-to-ship-long-before-all-glass-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [ResMed Kontor Head Strap for Apple Vision Pro review: bring balance to spatial computing](https://appleinsider.com/articles/25/03/28/resmed-kontor-head-strap-for-apple-vision-pro-review-bring-balance-to-spatial-computing?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

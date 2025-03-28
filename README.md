@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Second release candidate betas of iOS 18.4 &amp; iPadOS 18.4 seeded to testers](https://appleinsider.com/articles/25/03/28/second-release-candidate-betas-of-ios-184-ipados-184-seeded-to-testers?utm_medium=rss)
+ - [Michael Novogratz&#39;s Galaxy Digital will pay $200M as part of a settlement with the New York AG over the firm&#39;s role in promoting the failed Luna cryptocurrency &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/250328/p16#a250328p16)
  - [Madison Square Garden&amp;#8217;s surveillance system banned this fan over his T-shirt design](https://www.theverge.com/news/637228/madison-square-garden-james-dolan-facial-recognition-fan-ban)
- - [A beginner’s guide to using Signal](https://www.theverge.com/tech/637926/signal-app-how-to-features-encryption)
- - [Here’s what military planning usually looks like — and why it doesn’t include Signal](https://www.theverge.com/politics/638419/signal-houthi-group-chat-military-security-scif-encryption)
- - [Anthropic researchers share the surprises they observed while watching Claude think: planning ahead, confusion between safety and helpfulness goals, lying, more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/250328/p15#a250328p15)
- - [Lowest price ever: Babbel lifetime subscription plunges to $124.99](https://appleinsider.com/articles/25/03/28/lowest-price-ever-babbel-lifetime-subscription-plunges-to-12499?utm_medium=rss)<!-- TECH:END -->
+ - [New Measles Outbreaks Confirmed in The US. Do You Need an MMR Booster to Keep Yourself Safe?](https://www.cnet.com/health/medical/new-measles-outbreaks-confirmed-in-the-us-do-you-need-an-mmr-booster/#ftag=CAD590a51e)
+ - [Black Ops 6 Quad Feed Double XP Weekend Is Live Now](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-6-double-xp-weekend-march-28-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

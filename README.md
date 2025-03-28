@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Vaccinating dogs in Egypt using a blow dart](http://9gag.com/gag/aMVPVPX)
- - 😝 [... What?](http://9gag.com/gag/avy6WOO)
- - 💣 [Boxer/trainer Cus D&#39;Amato shows Ali how one can beat the shuffle in the most simple direct way.](http://9gag.com/gag/aXPVPRP)
- - 😝 [Spidergirl](http://9gag.com/gag/a340Aw8)
- - 👉 [I\u00b4ll just leave this here](http://9gag.com/gag/aLn44w5)<!-- MEMES:END -->
+ - 😝 [Guy laughing in back.](http://9gag.com/gag/ayN63QV)
+ - 😝 [The French plight](http://9gag.com/gag/a5Qw2Vq)
+ - 💣 [Feeding baby eels.](http://9gag.com/gag/a9y56B0)
+ - 😝 [Dora is Lost](http://9gag.com/gag/aryXZbB)
+ - 👉 [History fact](http://9gag.com/gag/a7o08rb)<!-- MEMES:END -->
 
 ---
 

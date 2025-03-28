@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [ChatGPT’s Ghibli filter is political now — but it always was](https://www.theverge.com/tech/638603/studio-ghibli-chatgpt-ai-filter-white-house-meme)
  - [Trump pardons BitMEX founders Arthur Hayes, Benjamin Delo, and Samuel Reed, who previously pled guilty to federal criminal charges related to money laundering &lpar;CNBC&rpar;](http://www.techmeme.com/250328/p21#a250328p21)
- - [YouTube tests turning off notifications for channels you don&amp;#8217;t watch](https://www.theverge.com/news/638506/youtube-push-notification-test)
- - [Google will pay $100M in cash to settle a 2011 lawsuit accusing the company of charging for clicks on ads outside the geographic areas the advertisers targeted &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250328/p20#a250328p20)
- - [Google to pay $100 million to settle 14-year-old advertising lawsuit](https://www.theverge.com/news/638630/google-100-million-settlement-advertising-class-action-lawsuit)<!-- TECH:END -->
+ - [Apple iPhone Users: Act Now to Grab an Anker MagSafe Phone Case at an All-Time Low of $8](https://www.cnet.com/tech/apple-iphone-users-act-now-to-grab-an-anker-magsafe-phone-case-at-an-all-time-low-of-8/#ftag=CAD590a51e)
+ - [Best Internet Providers in Towson, Maryland](https://www.cnet.com/home/internet/best-internet-providers-in-towson-md/#ftag=CAD590a51e)
+ - [YouTube tests turning off notifications for channels you don&amp;#8217;t watch](https://www.theverge.com/news/638506/youtube-push-notification-test)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

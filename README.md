@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woah](http://9gag.com/gag/aMVPmDP)
- - 😝 [Guy laughing in back.](http://9gag.com/gag/ayN63QV)
- - 💣 [Absolute units](http://9gag.com/gag/aZZ8ny6)
- - 😝 [From Strangers to Spouses](http://9gag.com/gag/aZZ8wQ0)
- - 👉 [The French plight](http://9gag.com/gag/a5Qw2Vq)<!-- MEMES:END -->
+ - 😝 [Tow truck driver ran over just doing his job](http://9gag.com/gag/aoyRRWe)
+ - 😝 [Absolute units](http://9gag.com/gag/aZZ8ny6)
+ - 💣 [The French plight](http://9gag.com/gag/a5Qw2Vq)
+ - 😝 [I\u00b4ll just leave this here](http://9gag.com/gag/aLn44w5)
+ - 👉 [... What?](http://9gag.com/gag/avy6WOO)<!-- MEMES:END -->
 
 ---
 

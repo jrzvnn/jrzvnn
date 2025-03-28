@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Studio Ghibli&#39;s Hayao Miyazaki Condemns AI Art as &#39;An Insult to Life Itself&#39;](http://9gag.com/gag/aGyBAow)
- - 😝 [Dora is Lost](http://9gag.com/gag/aryXZbB)
- - 💣 [Spidergirl](http://9gag.com/gag/a340Aw8)
- - 😝 [Elllot page watching all the X-Wen actors reprise their roles for Avengers but her.](http://9gag.com/gag/aMVPXVx)
- - 👉 [For those that still download mp3s](http://9gag.com/gag/aGyB8X0)<!-- MEMES:END -->
+ - 😝 [X-ray scans showing cross sections of leg tissue between a triathlete and a sedentary man](http://9gag.com/gag/aQz7ZDr)
+ - 😝 [Woah](http://9gag.com/gag/aMVPmDP)
+ - 💣 [I am so...](http://9gag.com/gag/a9y5581)
+ - 😝 [For those that still download mp3s](http://9gag.com/gag/aGyB8X0)
+ - 👉 [I\u00b4ll just leave this here](http://9gag.com/gag/aLn44w5)<!-- MEMES:END -->
 
 ---
 

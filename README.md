@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spidergirl](http://9gag.com/gag/a340Aw8)
- - 😝 [Based](http://9gag.com/gag/awy1d8R)
- - 💣 [Absolute units](http://9gag.com/gag/aZZ8ny6)
- - 😝 [Guy makes citizen arrest on mass stabber in Amsterdam earlier today](http://9gag.com/gag/a9y52m6)
- - 👉 [Guy laughing in back.](http://9gag.com/gag/ayN63QV)<!-- MEMES:END -->
+ - 😝 [Tow truck driver ran over just doing his job](http://9gag.com/gag/aoyRRWe)
+ - 😝 [Studio Ghibli&#39;s Hayao Miyazaki Condemns AI Art as &#39;An Insult to Life Itself&#39;](http://9gag.com/gag/aGyBAow)
+ - 💣 [Woah](http://9gag.com/gag/aMVPmDP)
+ - 😝 [I\u00b4ll just leave this here](http://9gag.com/gag/aLn44w5)
+ - 👉 [A little reminder of where the Yoko ono memes come from](http://9gag.com/gag/aByVEVD)<!-- MEMES:END -->
 
 ---
 

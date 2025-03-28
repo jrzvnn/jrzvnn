@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk’s xAI Acquires X, Because of Course](https://www.wired.com/story/xai-x-acquisition-deal/)
  - [Judge saves the CFPB, for now](https://www.theverge.com/news/638987/cfpb-nteu-vought-preliminary-injunction-trump-doge)
  - [Windows 11 is closing a loophole that let you skip making a Microsoft account](https://www.theverge.com/news/638967/microsoft-windows-11-account-internet-bypass-blocked)
  - [Elon Musk says xAI has acquired X in an all-stock transaction valuing xAI at $80B and X at $33B &lpar;CNBC&rpar;](http://www.techmeme.com/250328/p28#a250328p28)
- - [The 30 best Amazon Big Spring Sale deals under $30](https://www.theverge.com/tech/636342/amazon-big-spring-sale-2025-best-deals-under-30-tech-gift-ideas)
- - [Elon Musk’s xAI buys Elon Musk’s X for $33 billion on paper](https://www.theverge.com/news/638933/elon-musk-x-xai-acquisition)<!-- TECH:END -->
+ - [Act Fast to Grab New Apple and Samsung Gear While It’s a Massive 43% Off at Woot](https://www.cnet.com/tech/act-fast-to-grab-new-apple-and-samsung-gear-while-its-a-massive-43-off-at-woot/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Magnitude 7.3 Earthquake happened today &lpar;March 28&rpar; in Bangkok.](http://9gag.com/gag/aVvK20v)
+ - 😝 [Black live or something](http://9gag.com/gag/a9y5XYZ)
+ - 😝 [Guy makes citizen arrest on mass stabber in Amsterdam earlier today](http://9gag.com/gag/a9y52m6)
+ - 💣 [2 guys having a civilized conversation](http://9gag.com/gag/aD286Wx)
  - 😝 [The French plight](http://9gag.com/gag/a5Qw2Vq)
- - 💣 [Based](http://9gag.com/gag/awy1d8R)
- - 😝 [A little reminder of where the Yoko ono memes come from](http://9gag.com/gag/aByVEVD)
- - 👉 [Tow truck driver ran over just doing his job](http://9gag.com/gag/aoyRRWe)<!-- MEMES:END -->
+ - 👉 [I\u00b4ll just leave this here](http://9gag.com/gag/aLn44w5)<!-- MEMES:END -->
 
 ---
 

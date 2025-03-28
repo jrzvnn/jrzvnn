@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t speak whatever language he&#39;s speaking but I know exactly what he said.](http://9gag.com/gag/a7o02W2)
  - 😝 [I am so...](http://9gag.com/gag/a9y5581)
- - 💣 [Black live or something](http://9gag.com/gag/a9y5XYZ)
  - 😝 [Based](http://9gag.com/gag/awy1d8R)
- - 👉 [The French plight](http://9gag.com/gag/a5Qw2Vq)<!-- MEMES:END -->
+ - 💣 [Guy makes citizen arrest on mass stabber in Amsterdam earlier today](http://9gag.com/gag/a9y52m6)
+ - 😝 [Elllot page watching all the X-Wen actors reprise their roles for Avengers but her.](http://9gag.com/gag/aMVPXVx)
+ - 👉 [Tow truck driver ran over just doing his job](http://9gag.com/gag/aoyRRWe)<!-- MEMES:END -->
 
 ---
 

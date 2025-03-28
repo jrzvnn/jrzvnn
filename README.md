@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guy laughing in back.](http://9gag.com/gag/ayN63QV)
- - 😝 [Side eye](http://9gag.com/gag/apR6DeE)
- - 💣 [Vaccinating dogs in Egypt using a blow dart](http://9gag.com/gag/aMVPVPX)
- - 😝 [Staying tru to the art](http://9gag.com/gag/adBQvy2)
- - 👉 [Absolute units](http://9gag.com/gag/aZZ8ny6)<!-- MEMES:END -->
+ - 😝 [Tow truck driver ran over just doing his job](http://9gag.com/gag/aoyRRWe)
+ - 😝 [Dora is Lost](http://9gag.com/gag/aryXZbB)
+ - 💣 [A little reminder of where the Yoko ono memes come from](http://9gag.com/gag/aByVEVD)
+ - 😝 [Spidergirl](http://9gag.com/gag/a340Aw8)
+ - 👉 [Health science is amazing! A full set of dental implants.](http://9gag.com/gag/aVvKvvd)<!-- MEMES:END -->
 
 ---
 

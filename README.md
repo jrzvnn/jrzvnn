@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That smile. That damned smile.](http://9gag.com/gag/a0e0EmO)
- - 😝 [He definitely made the video 100x better](http://9gag.com/gag/aW4nL56)
- - 💣 [Without hesitation](http://9gag.com/gag/ajPLZvq)
- - 😝 [Australian shepherd &gt; tinder](http://9gag.com/gag/aQz72Zq)
- - 👉 [`Can i get 2 beer towers?` Say no more fam, I got you.](http://9gag.com/gag/aryXB30)<!-- MEMES:END -->
+ - 😝 [Studio Ghibli&#39;s Hayao Miyazaki Condemns AI Art as &#39;An Insult to Life Itself&#39;](http://9gag.com/gag/aGyBAow)
+ - 😝 [Dora is Lost](http://9gag.com/gag/aryXZbB)
+ - 💣 [Spidergirl](http://9gag.com/gag/a340Aw8)
+ - 😝 [Elllot page watching all the X-Wen actors reprise their roles for Avengers but her.](http://9gag.com/gag/aMVPXVx)
+ - 👉 [For those that still download mp3s](http://9gag.com/gag/aGyB8X0)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spidergirl](http://9gag.com/gag/a340Aw8)
- - 😝 [Studio Ghibli&#39;s Hayao Miyazaki Condemns AI Art as &#39;An Insult to Life Itself&#39;](http://9gag.com/gag/aGyBAow)
+ - 😝 [Feeding baby eels.](http://9gag.com/gag/a9y56B0)
+ - 😝 [I\u00b4ll just leave this here](http://9gag.com/gag/aLn44w5)
  - 💣 [Absolute units](http://9gag.com/gag/aZZ8ny6)
- - 😝 [Staying tru to the art](http://9gag.com/gag/adBQvy2)
- - 👉 [The French plight](http://9gag.com/gag/a5Qw2Vq)<!-- MEMES:END -->
+ - 😝 [Studio Ghibli&#39;s Hayao Miyazaki Condemns AI Art as &#39;An Insult to Life Itself&#39;](http://9gag.com/gag/aGyBAow)
+ - 👉 [Staying tru to the art](http://9gag.com/gag/adBQvy2)<!-- MEMES:END -->
 
 ---
 

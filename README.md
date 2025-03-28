@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CoreWeave raised $1.5B in its IPO, selling ~37.5M shares at $40 each, down from a planned 49M shares at $47-$55; source: Nvidia anchored with a ~$250M order &lpar;CNBC&rpar;](http://www.techmeme.com/250328/p4#a250328p4)
+ - [How Paul Ginsparg, a Cornell University physics professor, created the digital repository arXiv nearly 35 years ago to help researchers share their preprints &lpar;Sheon Han/Wired&rpar;](http://www.techmeme.com/250328/p3#a250328p3)
  - [Flash deal: Apple&#39;s M3 MacBook Air plunges to record low $769](https://appleinsider.com/articles/25/03/28/flash-deal-apples-m3-macbook-air-plunges-to-record-low-769?utm_medium=rss)
  - [Sources: the EU will impose minimal fines on Apple and Meta next week, far below the DMA&#39;s 10% of global turnover cap, to avoid tensions with President Trump &lpar;Financial Times&rpar;](http://www.techmeme.com/250328/p2#a250328p2)
- - [50% Off DoorDash Promo Code &amp; Coupons](https://www.wired.com/story/doordash-promo-code/)
- - [&#39;Aurora Borealis Forecast&#39; Is Trending, but Only the Northern States Will See Anything](https://www.cnet.com/science/aurora-borealis-forecast-is-trending-but-only-the-northern-states-will-see-anything/#ftag=CAD590a51e)
- - [Taiwan is investigating 11 Chinese tech firms, including SMIC, which is being probed for allegedly poaching engineers to access the island&#39;s advanced chip tech &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250328/p1#a250328p1)<!-- TECH:END -->
+ - [50% Off DoorDash Promo Code &amp; Coupons](https://www.wired.com/story/doordash-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

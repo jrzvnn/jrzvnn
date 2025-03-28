@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Razer Blade 16 &lpar;2025&rpar; Review: Slim yet Powerful](https://www.wired.com/review/razer-blade-16-2025/)
- - [WhatsApp users can now add music to their status](https://www.theverge.com/news/638063/whatsapp-status-music-song-clips-update)
- - [OpenAI has a Studio Ghibli problem](https://www.theverge.com/the-vergecast/638084/openai-studio-ghibli-images-vergecast)
- - [An appeals court agrees with India&#39;s antitrust regulator that Google&#39;s app store billing policy was unfair and restrictive but cuts the fine from $110M to $25M &lpar;Bloomberg&rpar;](http://www.techmeme.com/250328/p8#a250328p8)
- - [iPhone fold display when open rumored to retain a familiar aspect ratio](https://appleinsider.com/articles/25/03/28/iphone-fold-display-when-open-rumored-to-retain-a-familiar-aspect-ratio?utm_medium=rss)<!-- TECH:END -->
+ - [EU antitrust agency may not fine Apple much to avoid tariff war escalation](https://appleinsider.com/articles/25/03/28/eu-antitrust-agency-may-not-fine-apple-much-to-avoid-tariff-war-escalation?utm_medium=rss)
+ - [5 Best Phones With Headphone Jacks &lpar;2025&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-headphone-jack-phones/)
+ - [Amazon MGM Studios head Jennifer Salke steps down](https://www.theverge.com/news/638138/amazon-mgm-studios-jennifer-salke-steps-down)
+ - [Google starts offering user choice billing in the UK, initially to non-game developers, says 90%+ of developers are satisfied with Google Play&#39;s native billing &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250328/p9#a250328p9)
+ - [Nintendo’s Legend of Zelda movie hits theaters in March 2027](https://www.theverge.com/news/638133/legend-of-zelda-movie-premiere-date-2027)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

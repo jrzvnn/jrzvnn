@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Staying tru to the art](http://9gag.com/gag/adBQvy2)
+ - 😝 [The French plight](http://9gag.com/gag/a5Qw2Vq)
+ - 💣 [A Japanese student grows a chicken in an `open` egg](http://9gag.com/gag/aW4n4NA)
  - 😝 [Tow truck driver ran over just doing his job](http://9gag.com/gag/aoyRRWe)
- - 😝 [Welcome to President Bukele&#39;s GIANT MEGA PRISON. This facility is massive, employing 2,000 people at all times across three shifts, totaling 6,000 workers. It produces clothing for public schools, prisons, and hospitals. Each day a prisoner works here, contributing to the effort.](http://9gag.com/gag/aoyRV2A)
- - 💣 [Guy laughing in back.](http://9gag.com/gag/ayN63QV)
- - 😝 [Daylight robbery, literally](http://9gag.com/gag/ayN61ZW)
- - 👉 [Absolute units](http://9gag.com/gag/aZZ8ny6)<!-- MEMES:END -->
+ - 👉 [I\u00b4ll just leave this here](http://9gag.com/gag/aLn44w5)<!-- MEMES:END -->
 
 ---
 

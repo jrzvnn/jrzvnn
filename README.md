@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [‘Katamari Damacy’ Creator’s New Game Is About Teen Angst, Cute Dogs, and Eye Boogers](https://www.wired.com/story/katamari-damacy-creators-new-game-is-about-teen-angst-cute-dogs-and-eye-boogers/)
+ - [We Mapped DOGE’s Silicon Valley and Corporate Connections](https://www.wired.com/story/elon-musk-doge-silicon-valley-corporate-connections/)
+ - [Android Auto’s latest beta brings full Android game support](https://www.theverge.com/news/638059/android-auto-14-1-beta-game-support)
  - [Crypto.com says the US SEC won&#39;t pursue enforcement action; Crypto.com sued the SEC in October after receiving a Wells notice signaling potential charges &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/250328/p6#a250328p6)
- - [Court documents: India criticizes Elon Musk&#39;s X for wrongly labeling an official website, used to notify tech firms of harmful content, as a &quot;censorship portal&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/250328/p5#a250328p5)
- - [These Are 20 of the Absolute Best Sci-Fi TV Shows on Netflix](https://www.cnet.com/tech/services-and-software/best-sci-fi-tv-shows-on-netflix-2025/#ftag=CAD590a51e)
- - [I Made My iPhone&#39;s Photo App So Much Better With This One Change](https://www.cnet.com/tech/services-and-software/i-made-my-iphones-photo-app-so-much-better-with-this-one-change/#ftag=CAD590a51e)
- - [The Tech You Need to Level Up Your Humanity](https://www.wired.com/gallery/gear-human-computing/)<!-- TECH:END -->
+ - [Court documents: India criticizes Elon Musk&#39;s X for wrongly labeling an official website, used to notify tech firms of harmful content, as a &quot;censorship portal&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/250328/p5#a250328p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

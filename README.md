@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Madison Square Garden&amp;#8217;s surveillance system banned this fan over his T-shirt design](https://www.theverge.com/news/637228/madison-square-garden-james-dolan-facial-recognition-fan-ban)
  - [Judge dismisses Samsung’s smart ring lawsuit against Oura](https://www.theverge.com/news/638080/samsung-oura-patent-dismissal-smart-rings)
  - [DOGE Plans to Rebuild SSA Codebase In Months, Risking Benefits and System Collapse](https://www.wired.com/story/doge-rebuild-social-security-administration-cobol-benefits/)
  - [Amazon’s big spring sale continues, and we found the 98 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
- - [Anthropic&#39;s Claude Is Good at Poetry—and Bullshitting](https://www.wired.com/story/plaintext-anthropic-claude-brain-research/)
- - [Nvidia RTX 5090 mobile GPU:  more efficient and a little faster](https://www.theverge.com/tech/637898/nvidia-rtx-5090-laptop-gpu-impressions-benchmarks-testing-specs)<!-- TECH:END -->
+ - [Anthropic&#39;s Claude Is Good at Poetry—and Bullshitting](https://www.wired.com/story/plaintext-anthropic-claude-brain-research/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

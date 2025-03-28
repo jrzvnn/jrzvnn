@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A perfect plug does not exist](http://9gag.com/gag/abA4xgO)
  - 😝 [Man...you need to oil that door...](http://9gag.com/gag/an72x50)
- - 💣 [The French plight](http://9gag.com/gag/a5Qw2Vq)
- - 😝 [All is Ghibli](http://9gag.com/gag/aZZ8EKQ)
- - 👉 [He won life](http://9gag.com/gag/a1m02O8)<!-- MEMES:END -->
+ - 😝 [The French plight](http://9gag.com/gag/a5Qw2Vq)
+ - 💣 [All is Ghibli](http://9gag.com/gag/aZZ8EKQ)
+ - 😝 [He won life](http://9gag.com/gag/a1m02O8)
+ - 👉 [A strong female lead](http://9gag.com/gag/aVvK2xd)<!-- MEMES:END -->
 
 ---
 

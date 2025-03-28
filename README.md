@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Black live or something](http://9gag.com/gag/a9y5XYZ)
- - 😝 [Guy makes citizen arrest on mass stabber in Amsterdam earlier today](http://9gag.com/gag/a9y52m6)
- - 💣 [2 guys having a civilized conversation](http://9gag.com/gag/aD286Wx)
- - 😝 [The French plight](http://9gag.com/gag/a5Qw2Vq)
- - 👉 [I\u00b4ll just leave this here](http://9gag.com/gag/aLn44w5)<!-- MEMES:END -->
+ - 😝 [He won life](http://9gag.com/gag/a1m02O8)
+ - 😝 [Magnitude 7.3 Earthquake happened today &lpar;March 28&rpar; in Bangkok.](http://9gag.com/gag/aVvK20v)
+ - 💣 [Thanks to chatgpt Everything is studio Ghibli now. Even lord of the rings.](http://9gag.com/gag/a4PNNR1)
+ - 😝 [Hello again](http://9gag.com/gag/aAyKX3d)
+ - 👉 [`Can i get 2 beer towers?` Say no more fam, I got you.](http://9gag.com/gag/aryXB30)<!-- MEMES:END -->
 
 ---
 

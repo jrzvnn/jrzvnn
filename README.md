@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interviews with Dario Amodei, Daniela Amodei, and other executives about Anthropic&#39;s origin, Claude, why DeepSeek isn&#39;t a threat, reaching AGI safely, more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/250328/p10#a250328p10)
- - [Common Side Effects is coming back for a second season](https://www.theverge.com/news/638147/common-side-effects-season-2-renewal)
- - [EU antitrust agency may not fine Apple much to avoid tariff war escalation](https://appleinsider.com/articles/25/03/28/eu-antitrust-agency-may-not-fine-apple-much-to-avoid-tariff-war-escalation?utm_medium=rss)
- - [5 Best Phones With Headphone Jacks &lpar;2025&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-headphone-jack-phones/)
- - [Amazon MGM Studios head Jennifer Salke steps down](https://www.theverge.com/news/638138/amazon-mgm-studios-jennifer-salke-steps-down)<!-- TECH:END -->
+ - [Judge dismisses Samsung’s smart ring lawsuit against Oura](https://www.theverge.com/news/638080/samsung-oura-patent-dismissal-smart-rings)
+ - [DOGE Plans to Rebuild SSA Codebase In Months, Risking Benefits and System Collapse](https://www.wired.com/story/doge-rebuild-social-security-administration-cobol-benefits/)
+ - [Amazon’s big spring sale continues, and we found the 98 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
+ - [Anthropic&#39;s Claude Is Good at Poetry—and Bullshitting](https://www.wired.com/story/plaintext-anthropic-claude-brain-research/)
+ - [Nvidia RTX 5090 mobile GPU:  more efficient and a little faster](https://www.theverge.com/tech/637898/nvidia-rtx-5090-laptop-gpu-impressions-benchmarks-testing-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

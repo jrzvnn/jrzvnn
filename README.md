@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PUBG developer Krafton acquires a &quot;north of 75% stake&quot; in Pune-based gaming studio Nautilus Mobile for $14M in an all-cash deal, its first acquisition in India &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250327/p46#a250327p46)
  - [Q&amp;A with Snowflake CEO Sridhar Ramaswamy on working at Bell Labs and Google, building Neeva, Snowflake&#39;s business model and its approach to AI, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250327/p45#a250327p45)
  - [A look at Archetype, whose AI model Newton is trained to analyze output from sensors monitoring the physical world, including cities and factories &lpar;Mark Wilson/Fast Company&rpar;](http://www.techmeme.com/250327/p44#a250327p44)
  - [EY: Indians collectively spent 1.1T hours on their smartphones in 2024, averaging five hours daily, with ~70% of the time on social media, gaming, and videos &lpar;Satviki Sanjay/Bloomberg&rpar;](http://www.techmeme.com/250327/p43#a250327p43)
- - [Our favorite robot vacuum deals from Amazon’s Big Spring Sale](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
- - [Infinacore P3 Pro Charger review: Reliable choice for home or travel](https://appleinsider.com/articles/25/03/27/infinacore-p3-pro-charger-review-reliable-choice-for-home-or-travel?utm_medium=rss)<!-- TECH:END -->
+ - [Our favorite robot vacuum deals from Amazon’s Big Spring Sale](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

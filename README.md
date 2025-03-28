@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon’s big spring sale continues, and we found the 101 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
+ - [Far-Right Influencers Are Hosting a $10K-Per-Person Matchmaking Weekend to Repopulate the Earth](https://www.wired.com/story/natal-conference-matchmaking/)
  - [MrBeast co-wrote a book with James Patterson](https://www.theverge.com/news/638785/mrbeast-james-patterson-book)
  - [Reddit shares are down 50% from a February high, after its Q4 earnings report showed its traffic took a hit from a change in Google&#39;s search algorithm &lpar;Carmen Reinicke/Bloomberg&rpar;](http://www.techmeme.com/250328/p24#a250328p24)
- - [Lenovo’s upcoming SteamOS handheld will cost $50 more than expected](https://www.theverge.com/tech/638729/lenovo-legion-go-s-steamos-price-increase)
- - [Today&#39;s NYT Strands Hints, Answers and Help for March 29, #391](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-29-391/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for March 29, #657](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-29-657/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lenovo’s upcoming SteamOS handheld will cost $50 more than expected](https://www.theverge.com/tech/638729/lenovo-legion-go-s-steamos-price-increase)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

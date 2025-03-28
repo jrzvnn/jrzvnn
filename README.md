@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WTF! is this even legal? i know sea has diffrent laws, but its still killing people lol.](http://9gag.com/gag/aD28noG)
- - 😝 [Guy makes citizen arrest on mass stabber in Amsterdam earlier today](http://9gag.com/gag/a9y52m6)
- - 💣 [I\u00b4ll just leave this here](http://9gag.com/gag/aLn44w5)
- - 😝 [A Japanese student grows a chicken in an `open` egg](http://9gag.com/gag/aW4n4NA)
- - 👉 [Boxer/trainer Cus D&#39;Amato shows Ali how one can beat the shuffle in the most simple direct way.](http://9gag.com/gag/aXPVPRP)<!-- MEMES:END -->
+ - 😝 [Vaccinating dogs in Egypt using a blow dart](http://9gag.com/gag/aMVPVPX)
+ - 😝 [... What?](http://9gag.com/gag/avy6WOO)
+ - 💣 [Boxer/trainer Cus D&#39;Amato shows Ali how one can beat the shuffle in the most simple direct way.](http://9gag.com/gag/aXPVPRP)
+ - 😝 [Spidergirl](http://9gag.com/gag/a340Aw8)
+ - 👉 [I\u00b4ll just leave this here](http://9gag.com/gag/aLn44w5)<!-- MEMES:END -->
 
 ---
 

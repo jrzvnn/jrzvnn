@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: Blackstone is evaluating a small minority investment in TikTok&#39;s US operations, joining the front-running bid by ByteDance&#39;s non-Chinese shareholders &lpar;Reuters&rpar;](http://www.techmeme.com/250328/p29#a250328p29)
+ - [7 Best Bike Locks &lpar;2025&rpar;: Litelok, Abus, Hiplok, KryptoLok Compared](https://www.wired.com/gallery/best-bike-lock/)
  - [Elon Musk’s xAI Acquires X, Because of Course](https://www.wired.com/story/xai-x-acquisition-deal/)
  - [Judge saves the CFPB, for now](https://www.theverge.com/news/638987/cfpb-nteu-vought-preliminary-injunction-trump-doge)
- - [Windows 11 is closing a loophole that let you skip making a Microsoft account](https://www.theverge.com/news/638967/microsoft-windows-11-account-internet-bypass-blocked)
- - [Elon Musk says xAI has acquired X in an all-stock transaction valuing xAI at $80B and X at $33B &lpar;CNBC&rpar;](http://www.techmeme.com/250328/p28#a250328p28)<!-- TECH:END -->
+ - [Windows 11 is closing a loophole that let you skip making a Microsoft account](https://www.theverge.com/news/638967/microsoft-windows-11-account-internet-bypass-blocked)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tow truck driver ran over just doing his job](http://9gag.com/gag/aoyRRWe)
- - 😝 [Absolute units](http://9gag.com/gag/aZZ8ny6)
- - 💣 [The French plight](http://9gag.com/gag/a5Qw2Vq)
+ - 😝 [Studio Ghibli&#39;s Hayao Miyazaki Condemns AI Art as &#39;An Insult to Life Itself&#39;](http://9gag.com/gag/aGyBAow)
+ - 😝 [The French plight](http://9gag.com/gag/a5Qw2Vq)
+ - 💣 [Absolute units](http://9gag.com/gag/aZZ8ny6)
  - 😝 [I\u00b4ll just leave this here](http://9gag.com/gag/aLn44w5)
- - 👉 [... What?](http://9gag.com/gag/avy6WOO)<!-- MEMES:END -->
+ - 👉 [Guy makes citizen arrest on mass stabber in Amsterdam earlier today](http://9gag.com/gag/a9y52m6)<!-- MEMES:END -->
 
 ---
 

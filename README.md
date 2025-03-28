@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Poor guy is just trying to do his job](http://9gag.com/gag/aPAooxB)
- - 😝 [My mom is livid and hasn&#39;t stopped messaging/calling him. Dad just reads her texts and ignores them.](http://9gag.com/gag/a870KAp)
+ - 😝 [I\u00b4ll just leave this here](http://9gag.com/gag/aLn44w5)
  - 💣 [Woah](http://9gag.com/gag/aMVPmDP)
- - 😝 [X-ray scans showing cross sections of leg tissue between a triathlete and a sedentary man](http://9gag.com/gag/aQz7ZDr)
- - 👉 [Spidergirl](http://9gag.com/gag/a340Aw8)<!-- MEMES:END -->
+ - 😝 [Spidergirl](http://9gag.com/gag/a340Aw8)
+ - 👉 [Guy laughing in back.](http://9gag.com/gag/ayN63QV)<!-- MEMES:END -->
 
 ---
 

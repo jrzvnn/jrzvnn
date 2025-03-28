@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT’s Ghibli filter is political now — but it always was](https://www.theverge.com/tech/638603/studio-ghibli-chatgpt-ai-filter-white-house-meme)
- - [Trump pardons BitMEX founders Arthur Hayes, Benjamin Delo, and Samuel Reed, who previously pled guilty to federal criminal charges related to money laundering &lpar;CNBC&rpar;](http://www.techmeme.com/250328/p21#a250328p21)
- - [Apple iPhone Users: Act Now to Grab an Anker MagSafe Phone Case at an All-Time Low of $8](https://www.cnet.com/tech/apple-iphone-users-act-now-to-grab-an-anker-magsafe-phone-case-at-an-all-time-low-of-8/#ftag=CAD590a51e)
- - [Best Internet Providers in Towson, Maryland](https://www.cnet.com/home/internet/best-internet-providers-in-towson-md/#ftag=CAD590a51e)
- - [YouTube tests turning off notifications for channels you don&amp;#8217;t watch](https://www.theverge.com/news/638506/youtube-push-notification-test)<!-- TECH:END -->
+ - [Former Twitch CEO Emmett Shear, who was OpenAI&#39;s interim CEO in 2023 when Sam Altman was fired, launches Softmax, a startup focused on AI alignment &lpar;Ashlee Vance/Core Memory&rpar;](http://www.techmeme.com/250328/p23#a250328p23)
+ - [Side Quest’s creators wanted to tell stories about why people love games](https://www.theverge.com/tv/638323/apple-tv-plus-side-quest-ashly-burch-john-howell-harris-katie-mcelhenney)
+ - [A jury finds Frank founder Charlie Javice guilty of defrauding JPMorgan Chase by falsifying Frank user numbers; the charges carry a maximum sentence of 30 years &lpar;Luisa Beltran/Fortune&rpar;](http://www.techmeme.com/250328/p22#a250328p22)
+ - [ChatGPT’s Ghibli filter is political now, but it always was](https://www.theverge.com/tech/638603/studio-ghibli-chatgpt-ai-filter-white-house-meme)
+ - [Trump pardons BitMEX founders Arthur Hayes, Benjamin Delo, and Samuel Reed, who previously pled guilty to federal criminal charges related to money laundering &lpar;CNBC&rpar;](http://www.techmeme.com/250328/p21#a250328p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

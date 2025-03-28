@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google to pay $100 million to settle 14-year-old advertising lawsuit](https://www.theverge.com/news/638630/google-100-million-settlement-advertising-class-action-lawsuit)
+ - [The US FDIC says banks can engage in cryptocurrency and other legally permitted activities without prior regulatory approval if they manage risks appropriately &lpar;Pete Schroeder/Reuters&rpar;](http://www.techmeme.com/250328/p19#a250328p19)
+ - [CoreWeave opens down 2.5% at $39 in its Nasdaq debut; CoreWeave&#39;s offering is the largest US IPO since UiPath&#39;s NYSE debut in 2021 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250328/p18#a250328p18)
  - [Helldivers 2 is locking out players who use older CPUs](https://www.theverge.com/news/638317/helldivers-2-avx2-cpu-requirement-lockout-sony)
- - [Apple&#39;s folding iPad or MacBook: What to expect, and when it will ship](https://appleinsider.com/articles/25/03/28/apples-folding-ipad-or-macbook-what-to-expect-and-when-it-will-ship?utm_medium=rss)
- - [Musk threatens to sic the government on people ‘pushing’ Tesla ‘propaganda’](https://www.theverge.com/tesla/638174/elon-musk-tesla-protest-free-speech-fox-news)
- - [US chipmaker Wolfspeed&#39;s shares fell ~50% on Friday, hitting their lowest since 1998, a day after it appointed a new CEO, amid worries about CHIPS Act funding &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/250328/p17#a250328p17)
- - [First Alert’s new smart smoke alarm is meant to be a Google Nest Protect replacement](https://www.theverge.com/news/638234/first-alert-smart-smoke-alarm-google-nest-protect-replacement)<!-- TECH:END -->
+ - [Apple&#39;s folding iPad or MacBook: What to expect, and when it will ship](https://appleinsider.com/articles/25/03/28/apples-folding-ipad-or-macbook-what-to-expect-and-when-it-will-ship?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

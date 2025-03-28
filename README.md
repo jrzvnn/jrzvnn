@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woah](http://9gag.com/gag/aMVPmDP)
- - 😝 [Tow truck driver ran over just doing his job](http://9gag.com/gag/aoyRRWe)
- - 💣 [Poor guy is just trying to do his job](http://9gag.com/gag/aPAooxB)
- - 😝 [Violince](http://9gag.com/gag/a9y5DpD)
- - 👉 [Who&#39;s laughing now?](http://9gag.com/gag/aW4nb62)<!-- MEMES:END -->
+ - 😝 [Hope it doesn&#39;t rain](http://9gag.com/gag/avy699M)
+ - 😝 [Australian shepherd &gt; tinder](http://9gag.com/gag/aQz72Zq)
+ - 💣 [Without hesitation](http://9gag.com/gag/ajPLZvq)
+ - 😝 [Save it and never use it again](http://9gag.com/gag/avy698b)
+ - 👉 [Like a real Italian](http://9gag.com/gag/adBQ2zN)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Spidergirl](http://9gag.com/gag/a340Aw8)
- - 😝 [Staying tru to the art](http://9gag.com/gag/adBQvy2)
+ - 😝 [Based](http://9gag.com/gag/awy1d8R)
  - 💣 [Absolute units](http://9gag.com/gag/aZZ8ny6)
- - 😝 [I\u00b4ll just leave this here](http://9gag.com/gag/aLn44w5)
- - 👉 [The French plight](http://9gag.com/gag/a5Qw2Vq)<!-- MEMES:END -->
+ - 😝 [Guy makes citizen arrest on mass stabber in Amsterdam earlier today](http://9gag.com/gag/a9y52m6)
+ - 👉 [Guy laughing in back.](http://9gag.com/gag/ayN63QV)<!-- MEMES:END -->
 
 ---
 

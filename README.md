@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Tow truck driver ran over just doing his job](http://9gag.com/gag/aoyRRWe)
  - 😝 [Guy laughing in back.](http://9gag.com/gag/ayN63QV)
- - 😝 [The French plight](http://9gag.com/gag/a5Qw2Vq)
  - 💣 [Feeding baby eels.](http://9gag.com/gag/a9y56B0)
- - 😝 [Dora is Lost](http://9gag.com/gag/aryXZbB)
+ - 😝 [For those that still download mp3s](http://9gag.com/gag/aGyB8X0)
  - 👉 [History fact](http://9gag.com/gag/a7o08rb)<!-- MEMES:END -->
 
 ---

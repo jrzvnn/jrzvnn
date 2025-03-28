@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Razer Blade 16 &lpar;2025&rpar; Review: Slim yet Powerful](https://www.wired.com/review/razer-blade-16-2025/)
+ - [WhatsApp users can now add music to their status](https://www.theverge.com/news/638063/whatsapp-status-music-song-clips-update)
+ - [OpenAI has a Studio Ghibli problem](https://www.theverge.com/the-vergecast/638084/openai-studio-ghibli-images-vergecast)
  - [An appeals court agrees with India&#39;s antitrust regulator that Google&#39;s app store billing policy was unfair and restrictive but cuts the fine from $110M to $25M &lpar;Bloomberg&rpar;](http://www.techmeme.com/250328/p8#a250328p8)
- - [iPhone fold display when open rumored to retain a familiar aspect ratio](https://appleinsider.com/articles/25/03/28/iphone-fold-display-when-open-rumored-to-retain-a-familiar-aspect-ratio?utm_medium=rss)
- - [WWDC, Apple Watch cameras, and iOS 19 redesign on the AppleInsider Podcast](https://appleinsider.com/articles/25/03/28/wwdc-apple-watch-cameras-and-ios-19-redesign-on-the-appleinsider-podcast?utm_medium=rss)
- - [Inside Apple News - How to get the most out of your curated news, sports, &amp; puzzles feed](https://appleinsider.com/inside/apple-news/tips/inside-apple-news---how-to-get-the-most-out-of-your-curated-news-sports-puzzles-feed?utm_medium=rss)
- - [7 Best Sleep Masks &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sleep-masks/)<!-- TECH:END -->
+ - [iPhone fold display when open rumored to retain a familiar aspect ratio](https://appleinsider.com/articles/25/03/28/iphone-fold-display-when-open-rumored-to-retain-a-familiar-aspect-ratio?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

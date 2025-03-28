@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic researchers share the surprises they observed while watching Claude think: planning ahead, confusion between safety and helpfulness goals, lying, more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/250328/p15#a250328p15)
+ - [Madison Square Garden&amp;#8217;s surveillance system banned this fan over his T-shirt design](https://www.theverge.com/news/637228/madison-square-garden-james-dolan-facial-recognition-fan-ban)
+ - [Lowest price ever: Babbel lifetime subscription plunges to $124.99](https://appleinsider.com/articles/25/03/28/lowest-price-ever-babbel-lifetime-subscription-plunges-to-12499?utm_medium=rss)
  - [King Arthur wants to automate your sourdough starter](https://www.theverge.com/news/638390/sourdough-starter-king-arthur-flour-firstbuild-indiegogo)
- - [Sources: DOGE aims to migrate all Social Security Administration&#39;s computer systems off COBOL in a matter of months, risking the integrity of the system &lpar;Makena Kelly/Wired&rpar;](http://www.techmeme.com/250328/p14#a250328p14)
- - [Apple TV+ documentary &#39;Fight for Glory: 2024 World Series&#39; takes a deep dive into the 2024 World Series](https://appleinsider.com/articles/25/03/28/apple-tv-documentary-fight-for-glory-2024-world-series-takes-a-deep-dive-into-the-2024-world-series?utm_medium=rss)
- - [This Crazy Instrument Lets Us Hear How Dinosaurs Might Have Sounded](https://www.wired.com/story/this-crazy-instrument-lets-us-hear-how-dinosaurs-might-have-sounded/)
- - [Trump pardons ex-Nikola CEO Trevor Milton](https://www.theverge.com/news/638340/nikola-ceo-trevor-milton-trump-pardon)<!-- TECH:END -->
+ - [Sources: DOGE aims to migrate all Social Security Administration&#39;s computer systems off COBOL in a matter of months, risking the integrity of the system &lpar;Makena Kelly/Wired&rpar;](http://www.techmeme.com/250328/p14#a250328p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The French plight](http://9gag.com/gag/a5Qw2Vq)
  - 😝 [Woah](http://9gag.com/gag/aMVPmDP)
- - 💣 [For those that still download mp3s](http://9gag.com/gag/aGyB8X0)
- - 😝 [Guy makes citizen arrest on mass stabber in Amsterdam earlier today](http://9gag.com/gag/a9y52m6)
- - 👉 [History fact](http://9gag.com/gag/a7o08rb)<!-- MEMES:END -->
+ - 😝 [Guy laughing in back.](http://9gag.com/gag/ayN63QV)
+ - 💣 [Absolute units](http://9gag.com/gag/aZZ8ny6)
+ - 😝 [From Strangers to Spouses](http://9gag.com/gag/aZZ8wQ0)
+ - 👉 [The French plight](http://9gag.com/gag/a5Qw2Vq)<!-- MEMES:END -->
 
 ---
 

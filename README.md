@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I\u00b4ll just leave this here](http://9gag.com/gag/aLn44w5)
+ - 😝 [Spidergirl](http://9gag.com/gag/a340Aw8)
+ - 💣 [A little reminder of where the Yoko ono memes come from](http://9gag.com/gag/aByVEVD)
  - 😝 [Poor guy is just trying to do his job](http://9gag.com/gag/aPAooxB)
- - 😝 [Tow truck driver ran over just doing his job](http://9gag.com/gag/aoyRRWe)
- - 💣 [Spidergirl](http://9gag.com/gag/a340Aw8)
- - 😝 [Woah](http://9gag.com/gag/aMVPmDP)
  - 👉 [Based](http://9gag.com/gag/awy1d8R)<!-- MEMES:END -->
 
 ---

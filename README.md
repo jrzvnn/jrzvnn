@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All-glass Apple Watch rumored to ship long before all-glass iPhone](https://appleinsider.com/articles/25/03/28/all-glass-apple-watch-rumored-to-ship-long-before-all-glass-iphone?utm_medium=rss)
- - [First Alert’s new smart smoke alarm is meant to be a Google Nest Protect replacement](https://www.theverge.com/news/638234/first-alert-smart-smoke-alarm-google-nest-protect-replacement)
- - [4 Best Smart Displays &lpar;2025&rpar;: Google Assistant and Amazon Alexa](https://www.wired.com/gallery/best-smart-displays/)
- - [Yale’s new smart lock can match your Google Nest doorbell](https://www.theverge.com/news/638162/yale-smart-lock-with-matter-works-with-google-home)
- - [Google discontinues Nest Protect smoke alarm and Nest x Yale door lock](https://www.theverge.com/news/638171/google-discontinuing-nest-protect-smoke-alarm-nest-x-yale-smart-lock)<!-- TECH:END -->
+ - [Google’s Pixel 9A will launch on April 10th](https://www.theverge.com/news/638348/google-pixel-9a-april-10-launch-date)
+ - [NASA and Boeing investigate Starliner&amp;#8217;s &amp;#8216;anomalies&amp;#8217; before its next crewed flight](https://www.theverge.com/news/638289/nasa-boeing-starliner-flight-preparations-2026)
+ - [ResMed Kontor Head Strap for Apple Vision Pro review: bring balance to spatial computing](https://appleinsider.com/articles/25/03/28/resmed-kontor-head-strap-for-apple-vision-pro-review-bring-balance-to-spatial-computing?utm_medium=rss)
+ - [Helldivers 2 is locking out players who use older CPUs](https://www.theverge.com/news/638317/helldivers-2-avx2-cpu-requirement-lockout-sony)
+ - [All-glass Apple Watch rumored to ship long before all-glass iPhone](https://appleinsider.com/articles/25/03/28/all-glass-apple-watch-rumored-to-ship-long-before-all-glass-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

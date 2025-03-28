@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [The French plight](http://9gag.com/gag/a5Qw2Vq)
  - 💣 [All is Ghibli](http://9gag.com/gag/aZZ8EKQ)
  - 😝 [He won life](http://9gag.com/gag/a1m02O8)
- - 👉 [A strong female lead](http://9gag.com/gag/aVvK2xd)<!-- MEMES:END -->
+ - 👉 [Thanks to chatgpt Everything is studio Ghibli now. Even lord of the rings.](http://9gag.com/gag/a4PNNR1)<!-- MEMES:END -->
 
 ---
 

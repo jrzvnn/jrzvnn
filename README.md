@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That smile. That damned smile.](http://9gag.com/gag/a0e0EmO)
+ - 😝 [Poor guy is just trying to do his job](http://9gag.com/gag/aPAooxB)
  - 😝 [My mom is livid and hasn&#39;t stopped messaging/calling him. Dad just reads her texts and ignores them.](http://9gag.com/gag/a870KAp)
- - 💣 [`Can i get 2 beer towers?` Say no more fam, I got you.](http://9gag.com/gag/aryXB30)
- - 😝 [Without hesitation](http://9gag.com/gag/ajPLZvq)
- - 👉 [Australian shepherd &gt; tinder](http://9gag.com/gag/aQz72Zq)<!-- MEMES:END -->
+ - 💣 [Woah](http://9gag.com/gag/aMVPmDP)
+ - 😝 [X-ray scans showing cross sections of leg tissue between a triathlete and a sedentary man](http://9gag.com/gag/aQz7ZDr)
+ - 👉 [Spidergirl](http://9gag.com/gag/a340Aw8)<!-- MEMES:END -->
 
 ---
 

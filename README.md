@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Flash deal: Apple&#39;s M3 MacBook Air plunges to record low $769](https://appleinsider.com/articles/25/03/28/flash-deal-apples-m3-macbook-air-plunges-to-record-low-769?utm_medium=rss)
  - [Sources: the EU will impose minimal fines on Apple and Meta next week, far below the DMA&#39;s 10% of global turnover cap, to avoid tensions with President Trump &lpar;Financial Times&rpar;](http://www.techmeme.com/250328/p2#a250328p2)
  - [50% Off DoorDash Promo Code &amp; Coupons](https://www.wired.com/story/doordash-promo-code/)
  - [&#39;Aurora Borealis Forecast&#39; Is Trending, but Only the Northern States Will See Anything](https://www.cnet.com/science/aurora-borealis-forecast-is-trending-but-only-the-northern-states-will-see-anything/#ftag=CAD590a51e)
- - [Taiwan is investigating 11 Chinese tech firms, including SMIC, which is being probed for allegedly poaching engineers to access the island&#39;s advanced chip tech &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250328/p1#a250328p1)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, March 28](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-march-28/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Taiwan is investigating 11 Chinese tech firms, including SMIC, which is being probed for allegedly poaching engineers to access the island&#39;s advanced chip tech &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250328/p1#a250328p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

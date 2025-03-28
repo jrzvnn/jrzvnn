@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man...you need to oil that door...](http://9gag.com/gag/an72x50)
+ - 😝 [Magnitude 7.3 Earthquake happened today &lpar;March 28&rpar; in Bangkok.](http://9gag.com/gag/aVvK20v)
  - 😝 [The French plight](http://9gag.com/gag/a5Qw2Vq)
- - 💣 [All is Ghibli](http://9gag.com/gag/aZZ8EKQ)
- - 😝 [He won life](http://9gag.com/gag/a1m02O8)
- - 👉 [Thanks to chatgpt Everything is studio Ghibli now. Even lord of the rings.](http://9gag.com/gag/a4PNNR1)<!-- MEMES:END -->
+ - 💣 [Based](http://9gag.com/gag/awy1d8R)
+ - 😝 [A little reminder of where the Yoko ono memes come from](http://9gag.com/gag/aByVEVD)
+ - 👉 [Tow truck driver ran over just doing his job](http://9gag.com/gag/aoyRRWe)<!-- MEMES:END -->
 
 ---
 

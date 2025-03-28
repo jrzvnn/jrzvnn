@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Poor guy is just trying to do his job](http://9gag.com/gag/aPAooxB)
- - 😝 [I\u00b4ll just leave this here](http://9gag.com/gag/aLn44w5)
- - 💣 [Woah](http://9gag.com/gag/aMVPmDP)
- - 😝 [Spidergirl](http://9gag.com/gag/a340Aw8)
- - 👉 [Guy laughing in back.](http://9gag.com/gag/ayN63QV)<!-- MEMES:END -->
+ - 😝 [Tow truck driver ran over just doing his job](http://9gag.com/gag/aoyRRWe)
+ - 💣 [Spidergirl](http://9gag.com/gag/a340Aw8)
+ - 😝 [Woah](http://9gag.com/gag/aMVPmDP)
+ - 👉 [Based](http://9gag.com/gag/awy1d8R)<!-- MEMES:END -->
 
 ---
 

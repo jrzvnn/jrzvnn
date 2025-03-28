@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft tests Quick Machine Recovery to restore PCs that can&amp;#8217;t boot](https://www.theverge.com/news/638890/microsoft-quick-machine-recovery-restore-pcs-crowdstrike)
+ - [The 103 Best Amazon Spring Sale Deals for March 2025](https://www.wired.com/story/amazon-spring-sale-2025-3/)
  - [Elon Musk says xAI has acquired X in an all-stock transaction valuing xAI at $80B and X at $33B &lpar;Elon Musk/@elonmusk&rpar;](http://www.techmeme.com/250328/p27#a250328p27)
  - [Sources: ScaleAI is seeking a valuation as high as $25B in a potential tender offer; it was last valued at $13.8B in a $1B Series F round led by Accel in 2024 &lpar;Ben Bergman/Business Insider&rpar;](http://www.techmeme.com/250328/p26#a250328p26)
- - [The Fitbit-to-Google account migration deadline moves to 2026](https://www.theverge.com/news/638837/google-fitbit-account-migration-february-2026-extension)
- - [Sources: OpenAI is finalizing a $40B round led by SoftBank, receiving $10B initially and another $30B by 2025&#39;s end if it restructures into a for-profit company &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250328/p25#a250328p25)
- - [The Trump administration could green-light deep-sea mining for the first time](https://www.theverge.com/news/638732/battery-mineral-deep-sea-mining-the-metals-company-donald-trump)<!-- TECH:END -->
+ - [The Fitbit-to-Google account migration deadline moves to 2026](https://www.theverge.com/news/638837/google-fitbit-account-migration-february-2026-extension)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

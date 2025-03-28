@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US judge dismisses Samsung&#39;s Oura lawsuit, saying Samsung acted prematurely in seeking a judgment that Galaxy Ring doesn&#39;t infringe on Oura&#39;s patents &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250328/p12#a250328p12)
  - [Madison Square Garden&amp;#8217;s surveillance system banned this fan over his T-shirt design](https://www.theverge.com/news/637228/madison-square-garden-james-dolan-facial-recognition-fan-ban)
  - [Sperm Stem Cells Were Used for the First Time in an Attempt to Restore Fertility](https://www.wired.com/story/first-testicular-stem-cell-transplant-in-a-human-patient/)
  - [Judge dismisses Samsung’s smart ring lawsuit against Oura](https://www.theverge.com/news/638080/samsung-oura-patent-dismissal-smart-rings)
- - [DOGE Plans to Rebuild SSA Codebase In Months, Risking Benefits and System Collapse](https://www.wired.com/story/doge-rebuild-social-security-administration-cobol-benefits/)
- - [Amazon’s big spring sale continues, and we found the 98 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)<!-- TECH:END -->
+ - [DOGE Plans to Rebuild SSA Codebase In Months, Risking Benefits and System Collapse](https://www.wired.com/story/doge-rebuild-social-security-administration-cobol-benefits/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

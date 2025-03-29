@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sharing old gold until 9gag is good again.](http://9gag.com/gag/ae9Zm8p)
- - 😝 [Who&#39;s laughing now?](http://9gag.com/gag/aW4nb62)
- - 💣 [London final boss](http://9gag.com/gag/aQz7Zxr)
- - 😝 [For those that still download mp3s](http://9gag.com/gag/aGyB8X0)
- - 👉 [Bro turned so red](http://9gag.com/gag/aoyRRjn)<!-- MEMES:END -->
+ - 😝 [White trash psychotic chick](http://9gag.com/gag/axy6P1L)
+ - 😝 [Few people look as flawless as a ghibli characters](http://9gag.com/gag/aGyB7Aw)
+ - 💣 [Bro turned so red](http://9gag.com/gag/aoyRRjn)
+ - 😝 [TRACKWAY](http://9gag.com/gag/aYQDqWq)
+ - 👉 [`It does!!!`](http://9gag.com/gag/ae9Z7xp)<!-- MEMES:END -->
 
 ---
 

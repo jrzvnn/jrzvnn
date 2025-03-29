@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I’m still testing the new Razer Blade 16 and I have mixed feelings](https://www.theverge.com/tech/638930/razer-blade-16-2025-rtx-5090-gaming-laptop-impressions-price)
+ - [US tech companies are racing to establish more and bigger offshore campuses in India, fully staffed with highly skilled professionals in cities like Bengaluru &lpar;New York Times&rpar;](http://www.techmeme.com/250329/p7#a250329p7)
  - [13 Best Soundbars We’ve Tested and Reviewed &lpar;2025&rpar;: Sonos, Sony, Bose](https://www.wired.com/gallery/best-soundbars/)
  - [Samsung Galaxy S25 Edge: Everything We Know About the Upcoming Slimmer Phone](https://www.cnet.com/tech/mobile/samsung-galaxy-s25-edge-everything-we-know-about-the-upcoming-slimmer-phone/#ftag=CAD590a51e)
- - [How to Watch March Madness Without Cable](https://www.cnet.com/tech/services-and-software/how-to-watch-march-madness-without-cable/#ftag=CAD590a51e)
- - [Why Isn&#39;t My Internet Back Yet? The Hidden Challenges of Network Restoration](https://www.cnet.com/home/internet/why-isnt-my-internet-back-yet-the-hidden-challenges-of-network-restoration/#ftag=CAD590a51e)
- - [Is Your Internet Bill Getting You Down? Here&#39;s How to Shield Yourself From Pricing Traps](https://www.cnet.com/home/internet/beware-the-broadband-booby-traps-and-save-money/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Watch March Madness Without Cable](https://www.cnet.com/tech/services-and-software/how-to-watch-march-madness-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

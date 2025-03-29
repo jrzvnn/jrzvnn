@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AtGames Legends Ultimate HD Arcade Review: Bring the Arcade Home](https://www.wired.com/review/atgames-legends-ultimate-hd-arcade/)
- - [Assassin’s Creed Shadows lives up to the series’ name](https://www.theverge.com/games/637717/assassins-creed-shadows-stealth-assassinations)
- - [Sources: TSMC, Intel, and other chipmakers have slowed their expansions in Japan and Malaysia due to lackluster demand for older chips and tariff uncertainties &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250329/p8#a250329p8)
- - [Here&#39;s When Your T-Mobile Data Breach Settlement Check Is Coming](https://www.cnet.com/tech/mobile/heres-when-your-t-mobile-data-breach-settlement-check-is-coming/#ftag=CAD590a51e)
- - [Supreme Court Appears Reluctant to Eliminate Monthly Phone Fee](https://www.cnet.com/home/internet/supreme-court-appears-unlikely-to-eliminate-monthly-phone-fee/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Winston-Salem, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-winston-salem-nc/#ftag=CAD590a51e)
+ - [New Bambu H2D 3D Printer: Hype or Holy Grail? 50 Hours Later I&#39;m Still Deciding](https://www.cnet.com/tech/computing/ive-been-hands-on-with-bambu-labs-latest-3d-printer-the-h2d-and-its-more-than-the-sum-of-its-parts/#ftag=CAD590a51e)
+ - [Bundesliga Soccer Livestream: How to Watch Bayern Munich vs. St. Pauli From Anywhere](https://www.cnet.com/tech/services-and-software/bundesliga-soccer-livestream-how-to-watch-bayern-munich-vs-st-pauli-from-anywhere/#ftag=CAD590a51e)
+ - [&#39;Suits LA&#39;: How to Watch Episode 6 of the Stephen Amell Spin-Off](https://www.cnet.com/tech/services-and-software/suits-la-how-to-watch-episode-6-stephen-amell-spinoff/#ftag=CAD590a51e)
+ - [Instagram Finally Lets You Play Reels at 2X Speed. Here&#39;s How to Do It](https://www.cnet.com/tech/services-and-software/instagram-finally-lets-you-play-reels-at-2x-speed-heres-how-to-do-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

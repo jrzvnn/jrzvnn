@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Top Trump Officials’ Passwords and Personal Phone Numbers Discovered Online](https://www.wired.com/story/top-trump-officials-phone-numbers-personal-information-online/)
- - [Nintendo Switch 2 Preorder and Release Date Leaked by Retailer](https://www.cnet.com/tech/gaming/nintendo-switch-2-preorder-and-release-date-leaked-by-retailer/#ftag=CAD590a51e)
- - [Netflix&#39;s Wild New Crime Comedy Is a Delightful Standout](https://www.cnet.com/tech/services-and-software/netflixs-wild-new-crime-comedy-is-a-delightful-standout/#ftag=CAD590a51e)
- - [What Games Could the Characters Face in Squid Game&#39;s Final Season?](https://www.cnet.com/tech/services-and-software/what-games-could-the-characters-face-in-squid-games-final-season/#ftag=CAD590a51e)
- - [Google Discontinues Nest Protect, and Apple’s WWDC Gets a Date—Here’s Your Gear News of the Week](https://www.wired.com/story/google-discontinues-nest-protect-and-apples-wwdc-gets-a-date-heres-your-gear-news-of-the-week/)<!-- TECH:END -->
+ - [Google Discontinues Nest Protect, and Apple’s WWDC Gets a Date—Here’s Your Gear News of the Week](https://www.wired.com/story/google-discontinues-nest-protect-and-apples-wwdc-gets-a-date-heres-your-gear-news-of-the-week/)
+ - [World History Encyclopedia, the second most visited history site, says its traffic fell 25% in Nov. 2024 after AI search tools began presenting its information &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/250329/p6#a250329p6)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 29, #187](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-29-187/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for March 29, #391](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-29-391/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

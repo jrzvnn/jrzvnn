@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Few people look as flawless as a ghibli characters](http://9gag.com/gag/aGyB7Aw)
- - 😝 [Elllot page watching all the X-Wen actors reprise their roles for Avengers but her.](http://9gag.com/gag/aMVPXVx)
- - 💣 [No wonder winnie the pooh goes on so many adventures](http://9gag.com/gag/an72GYV)
- - 😝 [Wait for men short ......](http://9gag.com/gag/axy6mOL)
- - 👉 [A normal Day in the east](http://9gag.com/gag/aAyKZBZ)<!-- MEMES:END -->
+ - 😝 [Certified 9gag machine](http://9gag.com/gag/aMVPWg1)
+ - 😝 [Like a real Italian](http://9gag.com/gag/adBQ2zN)
+ - 💣 [My mom is livid and hasn&#39;t stopped messaging/calling him. Dad just reads her texts and ignores them.](http://9gag.com/gag/a870KAp)
+ - 😝 [` Mommy tells me I&#39;m a girl` Jeff&#39;s story](http://9gag.com/gag/ayN6YXb)
+ - 👉 [The real Evil Queen. Her acting is so good, it doesn&#39;t even feel like she&#39;s acting.](http://9gag.com/gag/aGyB7yZ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Surfshark Coupons and Deals: Up to 87% Off Plans](https://www.wired.com/story/surfshark-coupon/)
  - [Brooklyn-based Underdog, a fantasy sports and sports betting app, raised $70M in a first Series C tranche at a $1.23B valuation from Spark Capital &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250329/p2#a250329p2)
  - [Gensol&#39;s financial woes have cast doubt on the future of BluSmart, an Indian EV ride-hailing startup founded by Gensol&#39;s promoters, Anmol Jaggi and Puneet Jaggi &lpar;Debarghya Sil/Inc42 Media&rpar;](http://www.techmeme.com/250329/p1#a250329p1)
  - [FTX tells a US bankruptcy judge it will make the first payment to its main creditors on May 30 using the $11.4B cash hoard it has collected since shutting down &lpar;Steven Church/Bloomberg&rpar;](http://www.techmeme.com/250328/p36#a250328p36)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, March 29](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-march-29/#ftag=CAD590a51e)
- - [Adalytics: DoubleVerify, IAS, and Human Security, paid by advertisers to detect bots, regularly miss such traffic; DoubleVerify missed 21% of bot visits &lpar;Patience Haggin/Wall Street Journal&rpar;](http://www.techmeme.com/250328/p35#a250328p35)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, March 29](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-march-29/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

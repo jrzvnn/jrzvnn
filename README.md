@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A look at drone delivery startup Zipline, which has raised $500M+, made 1.4M+ deliveries in seven countries, and delivers packages for Walmart in two US cities &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/250329/p14#a250329p14)
- - [Amazon Spring Sale deals on Verge staff favorites](https://www.theverge.com/tech/635736/amazon-big-spring-sale-best-deals-tech-staff-picks-march-prime-day-2025)
- - [The Final Season of &#39;The Righteous Gemstones&#39; Is Here: When to Watch Episode 4 on Max](https://www.cnet.com/tech/services-and-software/the-final-season-of-the-righteous-gemstones-is-here-when-to-watch-episode-4-on-max/#ftag=CAD590a51e)
- - [Kalshi sues Nevada&#39;s gaming regulators to keep offering event contracts to bet on sports and politics, citing federal regulation by the US CFTC &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/250329/p13#a250329p13)
- - [March Madness 2025: How to Watch the Elite Eight Today](https://www.cnet.com/tech/services-and-software/march-madness-2025-how-to-watch-the-elite-eight-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for March 30, #392](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-30-392/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for March 30, #658](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-30-658/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for March 30, #1380](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-30-1380/#ftag=CAD590a51e)
+ - [Amazon Spring Sale deals on Verge staff favorites](https://www.theverge.com/tech/635736/amazon-big-spring-sale-best-deals-tech-staff-picks-march-prime-day-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

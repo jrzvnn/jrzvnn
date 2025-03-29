@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A book excerpt details how the OpenAI board ousted Sam Altman with help from Mira Murati, who provided examples of his alleged lies and other toxic behavior &lpar;Keach Hagey/Wall Street Journal&rpar;](http://www.techmeme.com/250329/p10#a250329p10)
  - [Amazon’s big spring sale continues, and we found the 100 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
  - [Dinnerly Meal Kit Review: Hearty Meals on a Budget](https://www.wired.com/review/dinnerly-meal-kit/)
  - [Watch FA Cup Soccer: Livestream Brighton vs. Nottingham Forest From Anywhere](https://www.cnet.com/tech/services-and-software/watch-fa-cup-soccer-livestream-brighton-vs-nottingham-forest-from-anywhere/#ftag=CAD590a51e)
- - [How Many Microplastics Are You Eating? 10 Foods With More Than You Think](https://www.cnet.com/health/nutrition/how-many-microplastics-are-you-eating-10-foods-with-more-than-you-think/#ftag=CAD590a51e)
- - [Replit CEO Amjad Masad says learning to code is a waste of time, citing Dario Amodei&#39;s prediction that AI may generate essentially all code by next year &lpar;Arfa Javaid/Financial Express&rpar;](http://www.techmeme.com/250329/p9#a250329p9)<!-- TECH:END -->
+ - [How Many Microplastics Are You Eating? 10 Foods With More Than You Think](https://www.cnet.com/health/nutrition/how-many-microplastics-are-you-eating-10-foods-with-more-than-you-think/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

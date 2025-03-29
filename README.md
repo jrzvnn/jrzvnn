@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I was there 3000yrs ago](http://9gag.com/gag/apR6jg8)
- - 😝 [Hello ladies](http://9gag.com/gag/axy6ABW)
- - 💣 [Elllot page watching all the X-Wen actors reprise their roles for Avengers but her.](http://9gag.com/gag/aMVPXVx)
- - 😝 [Interesting](http://9gag.com/gag/azxKDeq)
- - 👉 [Wait for men short ......](http://9gag.com/gag/axy6mOL)<!-- MEMES:END -->
+ - 😝 [Studio Ghibli&#39;s Hayao Miyazaki Condemns AI Art as &#39;An Insult to Life Itself&#39;](http://9gag.com/gag/aGyBAow)
+ - 😝 [No wonder winnie the pooh goes on so many adventures](http://9gag.com/gag/an72GYV)
+ - 💣 [Ghost Rider in the making](http://9gag.com/gag/aKGvNWQ)
+ - 😝 [Few people look as flawless as a ghibli characters](http://9gag.com/gag/aGyB7Aw)
+ - 👉 [Interesting](http://9gag.com/gag/azxKDeq)<!-- MEMES:END -->
 
 ---
 

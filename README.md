@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Uber and DoorDash are pressing GOP lawmakers to include independent contractors who drive rideshare vehicles and deliver food in Trump&#39;s no-tax-on-tips proposal &lpar;Richard Rubin/Wall Street Journal&rpar;](http://www.techmeme.com/250329/p15#a250329p15)
  - [A look at drone delivery startup Zipline, which has raised $500M+, made 1.4M+ deliveries in seven countries, and delivers packages for Walmart in two US cities &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/250329/p14#a250329p14)
  - [Today&#39;s NYT Strands Hints, Answers and Help for March 30, #392](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-30-392/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for March 30, #658](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-30-658/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for March 30, #1380](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-30-1380/#ftag=CAD590a51e)
- - [Amazon Spring Sale deals on Verge staff favorites](https://www.theverge.com/tech/635736/amazon-big-spring-sale-best-deals-tech-staff-picks-march-prime-day-2025)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for March 30, #1380](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-30-1380/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

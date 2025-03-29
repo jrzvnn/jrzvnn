@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [White trash psychotic chick](http://9gag.com/gag/axy6P1L)
- - 😝 [Few people look as flawless as a ghibli characters](http://9gag.com/gag/aGyB7Aw)
- - 💣 [Bro turned so red](http://9gag.com/gag/aoyRRjn)
+ - 😝 [X-ray scans showing cross sections of leg tissue between a triathlete and a sedentary man](http://9gag.com/gag/aQz7ZDr)
  - 😝 [TRACKWAY](http://9gag.com/gag/aYQDqWq)
+ - 💣 [Four deputies in Harris County, Texas have committed suicide in the last 6 weeks.](http://9gag.com/gag/aAyKKB9)
+ - 😝 [Who&#39;s laughing now?](http://9gag.com/gag/aW4nb62)
  - 👉 [`It does!!!`](http://9gag.com/gag/ae9Z7xp)<!-- MEMES:END -->
 
 ---

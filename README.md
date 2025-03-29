@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [X-ray scans showing cross sections of leg tissue between a triathlete and a sedentary man](http://9gag.com/gag/aQz7ZDr)
- - 😝 [TRACKWAY](http://9gag.com/gag/aYQDqWq)
- - 💣 [Four deputies in Harris County, Texas have committed suicide in the last 6 weeks.](http://9gag.com/gag/aAyKKB9)
- - 😝 [Who&#39;s laughing now?](http://9gag.com/gag/aW4nb62)
- - 👉 [`It does!!!`](http://9gag.com/gag/ae9Z7xp)<!-- MEMES:END -->
+ - 😝 [` Mommy tells me I&#39;m a girl` Jeff&#39;s story](http://9gag.com/gag/ayN6YXb)
+ - 😝 [Without hesitation](http://9gag.com/gag/ajPLZvq)
+ - 💣 [Like a real Italian](http://9gag.com/gag/adBQ2zN)
+ - 😝 [My mom is livid and hasn&#39;t stopped messaging/calling him. Dad just reads her texts and ignores them.](http://9gag.com/gag/a870KAp)
+ - 👉 [The real Evil Queen. Her acting is so good, it doesn&#39;t even feel like she&#39;s acting.](http://9gag.com/gag/aGyB7yZ)<!-- MEMES:END -->
 
 ---
 

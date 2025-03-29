@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;The White Lotus&#39; Season 3: When to Watch Episode 7 on Max](https://www.cnet.com/tech/services-and-software/the-white-lotus-season-3-when-to-watch-episode-7-on-max/#ftag=CAD590a51e)
+ - [Waiting for a Recession to Buy a Home? This Realtor Weighs In](https://www.cnet.com/personal-finance/waiting-for-a-recession-to-buy-a-home-this-realtor-weighs-in/#ftag=CAD590a51e)
  - [A book excerpt details how the OpenAI board ousted Sam Altman with help from Mira Murati, who provided examples of his alleged lies and other toxic behavior &lpar;Keach Hagey/Wall Street Journal&rpar;](http://www.techmeme.com/250329/p10#a250329p10)
- - [Amazon’s big spring sale continues, and we found the 100 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
- - [Dinnerly Meal Kit Review: Hearty Meals on a Budget](https://www.wired.com/review/dinnerly-meal-kit/)
- - [Watch FA Cup Soccer: Livestream Brighton vs. Nottingham Forest From Anywhere](https://www.cnet.com/tech/services-and-software/watch-fa-cup-soccer-livestream-brighton-vs-nottingham-forest-from-anywhere/#ftag=CAD590a51e)
- - [How Many Microplastics Are You Eating? 10 Foods With More Than You Think](https://www.cnet.com/health/nutrition/how-many-microplastics-are-you-eating-10-foods-with-more-than-you-think/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [March Madness 2025: How to Watch the Elite Eight Today](https://www.cnet.com/tech/services-and-software/march-madness-2025-how-to-watch-the-elite-eight-today/#ftag=CAD590a51e)
+ - [Amazon’s big spring sale continues, and we found the 100 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

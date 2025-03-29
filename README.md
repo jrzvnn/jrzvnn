@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My mom is livid and hasn&#39;t stopped messaging/calling him. Dad just reads her texts and ignores them.](http://9gag.com/gag/a870KAp)
- - 😝 [Like a real Italian](http://9gag.com/gag/adBQ2zN)
- - 💣 [` Mommy tells me I&#39;m a girl` Jeff&#39;s story](http://9gag.com/gag/ayN6YXb)
- - 😝 [The real Evil Queen. Her acting is so good, it doesn&#39;t even feel like she&#39;s acting.](http://9gag.com/gag/aGyB7yZ)
- - 👉 [Great way to exercise brain for little kids](http://9gag.com/gag/amo6neo)<!-- MEMES:END -->
+ - 😝 [Elllot page watching all the X-Wen actors reprise their roles for Avengers but her.](http://9gag.com/gag/aMVPXVx)
+ - 😝 [A normal Day in the east](http://9gag.com/gag/aAyKZBZ)
+ - 💣 [Wait for men short ......](http://9gag.com/gag/axy6mOL)
+ - 😝 [Can&#39;t blame the guy](http://9gag.com/gag/a0e0wGZ)
+ - 👉 [No wonder winnie the pooh goes on so many adventures](http://9gag.com/gag/an72GYV)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 22 Best Movies on Amazon Prime Right Now &lpar;March 2024&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
- - [US Cities Seeking to Ban Natural Gas in New Buildings Just Got a Big Win in Court](https://www.wired.com/story/us-cities-seeking-to-ban-natural-gas-in-new-buildings-just-got-a-big-win-in-court/)
- - [Top Trump Officials’ Passwords and Personal Phone Numbers Discovered Online](https://www.wired.com/story/top-trump-officials-phone-numbers-personal-information-online/)
- - [Nintendo Switch 2 Preorder and Release Date Leaked by Retailer](https://www.cnet.com/tech/gaming/nintendo-switch-2-preorder-and-release-date-leaked-by-retailer/#ftag=CAD590a51e)
- - [Netflix&#39;s Wild New Crime Comedy Is a Delightful Standout](https://www.cnet.com/tech/services-and-software/netflixs-wild-new-crime-comedy-is-a-delightful-standout/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [13 Best Soundbars We’ve Tested and Reviewed &lpar;2025&rpar;: Sonos, Sony, Bose](https://www.wired.com/gallery/best-soundbars/)
+ - [Samsung Galaxy S25 Edge: Everything We Know About the Upcoming Slimmer Phone](https://www.cnet.com/tech/mobile/samsung-galaxy-s25-edge-everything-we-know-about-the-upcoming-slimmer-phone/#ftag=CAD590a51e)
+ - [How to Watch March Madness Without Cable](https://www.cnet.com/tech/services-and-software/how-to-watch-march-madness-without-cable/#ftag=CAD590a51e)
+ - [Why Isn&#39;t My Internet Back Yet? The Hidden Challenges of Network Restoration](https://www.cnet.com/home/internet/why-isnt-my-internet-back-yet-the-hidden-challenges-of-network-restoration/#ftag=CAD590a51e)
+ - [Is Your Internet Bill Getting You Down? Here&#39;s How to Shield Yourself From Pricing Traps](https://www.cnet.com/home/internet/beware-the-broadband-booby-traps-and-save-money/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

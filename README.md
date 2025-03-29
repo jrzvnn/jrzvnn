@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Without hesitation](http://9gag.com/gag/ajPLZvq)
- - 😝 [Like a real Italian](http://9gag.com/gag/adBQ2zN)
- - 💣 [My mom is livid and hasn&#39;t stopped messaging/calling him. Dad just reads her texts and ignores them.](http://9gag.com/gag/a870KAp)
- - 😝 [Great way to exercise brain for little kids](http://9gag.com/gag/amo6neo)
- - 👉 [The real Evil Queen. Her acting is so good, it doesn&#39;t even feel like she&#39;s acting.](http://9gag.com/gag/aGyB7yZ)<!-- MEMES:END -->
+ - 😝 [No wonder winnie the pooh goes on so many adventures](http://9gag.com/gag/an72GYV)
+ - 😝 [Wait for men short ......](http://9gag.com/gag/axy6mOL)
+ - 💣 [Bro turned so red](http://9gag.com/gag/aoyRRjn)
+ - 😝 [Sharing old gold until 9gag is good again.](http://9gag.com/gag/ae9Zm8p)
+ - 👉 [Black live or something](http://9gag.com/gag/a9y5XYZ)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My mom is livid and hasn&#39;t stopped messaging/calling him. Dad just reads her texts and ignores them.](http://9gag.com/gag/a870KAp)
- - 😝 [Elllot page watching all the X-Wen actors reprise their roles for Avengers but her.](http://9gag.com/gag/aMVPXVx)
+ - 😝 [Based](http://9gag.com/gag/awy1d8R)
+ - 😝 [Wait for men short ......](http://9gag.com/gag/axy6mOL)
  - 💣 [Who&#39;s laughing now?](http://9gag.com/gag/aW4nb62)
- - 😝 [Sharing old gold until 9gag is good again.](http://9gag.com/gag/ae9Zm8p)
- - 👉 [Wait for men short ......](http://9gag.com/gag/axy6mOL)<!-- MEMES:END -->
+ - 😝 [A normal Day in the east](http://9gag.com/gag/aAyKZBZ)
+ - 👉 [`It does!!!`](http://9gag.com/gag/ae9Z7xp)<!-- MEMES:END -->
 
 ---
 

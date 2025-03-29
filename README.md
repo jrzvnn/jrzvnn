@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait for men short ......](http://9gag.com/gag/axy6mOL)
- - 😝 [Few people look as flawless as a ghibli characters](http://9gag.com/gag/aGyB7Aw)
- - 💣 [A normal Day in the east](http://9gag.com/gag/aAyKZBZ)
- - 😝 [Who&#39;s laughing now?](http://9gag.com/gag/aW4nb62)
- - 👉 [Sharing old gold until 9gag is good again.](http://9gag.com/gag/ae9Zm8p)<!-- MEMES:END -->
+ - 😝 [My mom is livid and hasn&#39;t stopped messaging/calling him. Dad just reads her texts and ignores them.](http://9gag.com/gag/a870KAp)
+ - 😝 [Elllot page watching all the X-Wen actors reprise their roles for Avengers but her.](http://9gag.com/gag/aMVPXVx)
+ - 💣 [Who&#39;s laughing now?](http://9gag.com/gag/aW4nb62)
+ - 😝 [Sharing old gold until 9gag is good again.](http://9gag.com/gag/ae9Zm8p)
+ - 👉 [Wait for men short ......](http://9gag.com/gag/axy6mOL)<!-- MEMES:END -->
 
 ---
 

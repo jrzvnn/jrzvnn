@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 29, #187](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-29-187/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for March 29, #391](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-march-29-391/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for March 29, #657](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-29-657/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for March 29, #1379](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-march-29-1379/#ftag=CAD590a51e)
- - [If TikTok Gets Banned Again Next Week, Here Are 8 Similar Apps to Try Instead](https://www.cnet.com/tech/services-and-software/if-tiktok-gets-banned-again-next-week-here-are-8-similar-apps-to-try-instead/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [If TikTok Gets Banned Again Next Week, Here Are 8 Similar Apps to Try Instead](https://www.cnet.com/tech/services-and-software/if-tiktok-gets-banned-again-next-week-here-are-8-similar-apps-to-try-instead/#ftag=CAD590a51e)
+ - [Top 10 Mattresses for Side Sleepers of 2025, Expert-Tested and Approved](https://www.cnet.com/health/sleep/best-mattress-for-side-sleepers/#ftag=CAD590a51e)
+ - [India&#39;s e-commerce market grew 10%-12% YoY to ~$60B in GMV in 2024, versus historical rates of over 20%, with 270M+ people shopping online, second only to China &lpar;Bain&rpar;](http://www.techmeme.com/250329/p5#a250329p5)
+ - [Bain and Flipkart report: quick commerce made up over two-thirds of India&#39;s e-grocery orders in 2024, with GMV rising nearly five times to $6B-$7B from 2022 &lpar;Ashwin Manikandan/Reuters&rpar;](http://www.techmeme.com/250329/p4#a250329p4)
+ - [BougeRV’s telescopic lantern is ridiculously versatile](https://www.theverge.com/reviews/638090/bougerv-flextail-telescopic-lantern-review-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

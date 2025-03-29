@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Amazon’s big spring sale continues, and we found the 100 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
  - [Dinnerly Meal Kit Review: Hearty Meals on a Budget](https://www.wired.com/review/dinnerly-meal-kit/)
- - [Replit CEO Amjad Masad says learning to code is a waste of time, citing Dario Amodei&#39;s prediction that AI may generate essentially all code by next year &lpar;Arfa Javaid/Financial Express&rpar;](http://www.techmeme.com/250329/p9#a250329p9)
- - [Best Internet Providers in Winston-Salem, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-winston-salem-nc/#ftag=CAD590a51e)
- - [New Bambu H2D 3D Printer: Hype or Holy Grail? 50 Hours Later I&#39;m Still Deciding](https://www.cnet.com/tech/computing/ive-been-hands-on-with-bambu-labs-latest-3d-printer-the-h2d-and-its-more-than-the-sum-of-its-parts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Watch FA Cup Soccer: Livestream Brighton vs. Nottingham Forest From Anywhere](https://www.cnet.com/tech/services-and-software/watch-fa-cup-soccer-livestream-brighton-vs-nottingham-forest-from-anywhere/#ftag=CAD590a51e)
+ - [How Many Microplastics Are You Eating? 10 Foods With More Than You Think](https://www.cnet.com/health/nutrition/how-many-microplastics-are-you-eating-10-foods-with-more-than-you-think/#ftag=CAD590a51e)
+ - [Replit CEO Amjad Masad says learning to code is a waste of time, citing Dario Amodei&#39;s prediction that AI may generate essentially all code by next year &lpar;Arfa Javaid/Financial Express&rpar;](http://www.techmeme.com/250329/p9#a250329p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

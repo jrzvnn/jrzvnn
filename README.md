@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Few people look as flawless as a ghibli characters](http://9gag.com/gag/aGyB7Aw)
- - 😝 [Who&#39;s laughing now?](http://9gag.com/gag/aW4nb62)
- - 💣 [Australian shepherd &gt; tinder](http://9gag.com/gag/aQz72Zq)
- - 😝 [Can&#39;t blame the guy](http://9gag.com/gag/a0e0wGZ)
- - 👉 [Based](http://9gag.com/gag/awy1d8R)<!-- MEMES:END -->
+ - 😝 [Elllot page watching all the X-Wen actors reprise their roles for Avengers but her.](http://9gag.com/gag/aMVPXVx)
+ - 💣 [No wonder winnie the pooh goes on so many adventures](http://9gag.com/gag/an72GYV)
+ - 😝 [Wait for men short ......](http://9gag.com/gag/axy6mOL)
+ - 👉 [A normal Day in the east](http://9gag.com/gag/aAyKZBZ)<!-- MEMES:END -->
 
 ---
 

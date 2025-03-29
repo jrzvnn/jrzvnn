@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No wonder winnie the pooh goes on so many adventures](http://9gag.com/gag/an72GYV)
- - 😝 [Who&#39;s laughing now?](http://9gag.com/gag/aW4nb62)
- - 💣 [Elllot page watching all the X-Wen actors reprise their roles for Avengers but her.](http://9gag.com/gag/aMVPXVx)
+ - 😝 [Apple maps](http://9gag.com/gag/a870V6V)
+ - 😝 [Elllot page watching all the X-Wen actors reprise their roles for Avengers but her.](http://9gag.com/gag/aMVPXVx)
+ - 💣 [`Whyis milk so expensive?`](http://9gag.com/gag/aNDQ3rw)
  - 😝 [Sharing old gold until 9gag is good again.](http://9gag.com/gag/ae9Zm8p)
  - 👉 [`It does!!!`](http://9gag.com/gag/ae9Z7xp)<!-- MEMES:END -->
 

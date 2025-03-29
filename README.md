@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [NYPD helicopter trying to find people to rescue on the roofs of WTC on September 11, 2001](http://9gag.com/gag/adBQee9)
  - 😝 [X-ray scans showing cross sections of leg tissue between a triathlete and a sedentary man](http://9gag.com/gag/aQz7ZDr)
- - 😝 [Based](http://9gag.com/gag/awy1d8R)
- - 💣 [Hello ladies](http://9gag.com/gag/axy6ABW)
- - 😝 [A normal Day in the east](http://9gag.com/gag/aAyKZBZ)
+ - 💣 [Apple maps](http://9gag.com/gag/a870V6V)
+ - 😝 [`Whyis milk so expensive?`](http://9gag.com/gag/aNDQ3rw)
  - 👉 [`protection bed`](http://9gag.com/gag/a870KPp)<!-- MEMES:END -->
 
 ---

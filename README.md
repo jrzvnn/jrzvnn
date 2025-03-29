@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at AI-generated fake movie trailers on YouTube; WBD, Paramount, and Sony have earned ad revenue from some videos instead of defending their copyright &lpar;Jake Kanter/Deadline&rpar;](http://www.techmeme.com/250329/p12#a250329p12)
  - [Hamish McKenzie says Substack is partnering with FIRE to support &quot;writers residing lawfully&quot; in the US targeted by the government for their writing &lpar;Hamish McKenzie/@hamishmckenzie&rpar;](http://www.techmeme.com/250329/p11#a250329p11)
  - [&#39;The White Lotus&#39; Season 3: When to Watch Episode 7 on Max](https://www.cnet.com/tech/services-and-software/the-white-lotus-season-3-when-to-watch-episode-7-on-max/#ftag=CAD590a51e)
  - [Waiting for a Recession to Buy a Home? This Realtor Weighs In](https://www.cnet.com/personal-finance/waiting-for-a-recession-to-buy-a-home-this-realtor-weighs-in/#ftag=CAD590a51e)
- - [A book excerpt details how the OpenAI board ousted Sam Altman with help from Mira Murati, who provided examples of his alleged lies and other toxic behavior &lpar;Keach Hagey/Wall Street Journal&rpar;](http://www.techmeme.com/250329/p10#a250329p10)
- - [March Madness 2025: How to Watch the Elite Eight Today](https://www.cnet.com/tech/services-and-software/march-madness-2025-how-to-watch-the-elite-eight-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A book excerpt details how the OpenAI board ousted Sam Altman with help from Mira Murati, who provided examples of his alleged lies and other toxic behavior &lpar;Keach Hagey/Wall Street Journal&rpar;](http://www.techmeme.com/250329/p10#a250329p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

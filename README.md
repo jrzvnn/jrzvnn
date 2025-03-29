@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Certified 9gag machine](http://9gag.com/gag/aMVPWg1)
- - 😝 [Like a real Italian](http://9gag.com/gag/adBQ2zN)
- - 💣 [My mom is livid and hasn&#39;t stopped messaging/calling him. Dad just reads her texts and ignores them.](http://9gag.com/gag/a870KAp)
- - 😝 [` Mommy tells me I&#39;m a girl` Jeff&#39;s story](http://9gag.com/gag/ayN6YXb)
- - 👉 [The real Evil Queen. Her acting is so good, it doesn&#39;t even feel like she&#39;s acting.](http://9gag.com/gag/aGyB7yZ)<!-- MEMES:END -->
+ - 😝 [`It does!!!`](http://9gag.com/gag/ae9Z7xp)
+ - 😝 [White trash psychotic chick](http://9gag.com/gag/axy6P1L)
+ - 💣 [Based](http://9gag.com/gag/awy1d8R)
+ - 😝 [Who&#39;s laughing now?](http://9gag.com/gag/aW4nb62)
+ - 👉 [A normal Day in the east](http://9gag.com/gag/aAyKZBZ)<!-- MEMES:END -->
 
 ---
 

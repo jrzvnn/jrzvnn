@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Two Streamers and $23 Is All You Need to Watch Every Game of March Madness](https://www.cnet.com/tech/services-and-software/two-streamers-and-23-is-all-you-need-to-watch-every-game-of-march-madness/#ftag=CAD590a51e)
  - [The 22 Best Movies on Amazon Prime Right Now &lpar;March 2024&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
  - [US Cities Seeking to Ban Natural Gas in New Buildings Just Got a Big Win in Court](https://www.wired.com/story/us-cities-seeking-to-ban-natural-gas-in-new-buildings-just-got-a-big-win-in-court/)
- - [Top Trump Officials’ Passwords and Personal Phone Numbers Discovered Online](https://www.wired.com/story/top-trump-officials-phone-numbers-personal-information-online/)
- - [Nintendo Switch 2 Preorder and Release Date Leaked by Retailer](https://www.cnet.com/tech/gaming/nintendo-switch-2-preorder-and-release-date-leaked-by-retailer/#ftag=CAD590a51e)
- - [Netflix&#39;s Wild New Crime Comedy Is a Delightful Standout](https://www.cnet.com/tech/services-and-software/netflixs-wild-new-crime-comedy-is-a-delightful-standout/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tax Refund? I Can Afford a Carton of Eggs With Mine](https://www.cnet.com/personal-finance/taxes/tax-refund-eggs-inflation-recession-indicator/#ftag=CAD590a51e)
+ - [We’re Veteran and Beginner Runners. These Are Our Running Essentials](https://www.cnet.com/health/fitness/veteran-beginner-runners-running-essentials/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

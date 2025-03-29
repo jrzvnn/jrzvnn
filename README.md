@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Whyis milk so expensive?`](http://9gag.com/gag/aNDQ3rw)
+ - 😝 [Wait for men short ......](http://9gag.com/gag/axy6mOL)
  - 😝 [Few people look as flawless as a ghibli characters](http://9gag.com/gag/aGyB7Aw)
- - 💣 [X-ray scans showing cross sections of leg tissue between a triathlete and a sedentary man](http://9gag.com/gag/aQz7ZDr)
- - 😝 [Interesting](http://9gag.com/gag/azxKDeq)
- - 👉 [`protection bed`](http://9gag.com/gag/a870KPp)<!-- MEMES:END -->
+ - 💣 [I was there 3000yrs ago](http://9gag.com/gag/apR6jg8)
+ - 😝 [Elllot page watching all the X-Wen actors reprise their roles for Avengers but her.](http://9gag.com/gag/aMVPXVx)
+ - 👉 [Hello ladies](http://9gag.com/gag/axy6ABW)<!-- MEMES:END -->
 
 ---
 

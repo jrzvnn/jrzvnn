@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Based](http://9gag.com/gag/awy1d8R)
- - 😝 [Wait for men short ......](http://9gag.com/gag/axy6mOL)
- - 💣 [Who&#39;s laughing now?](http://9gag.com/gag/aW4nb62)
- - 😝 [A normal Day in the east](http://9gag.com/gag/aAyKZBZ)
- - 👉 [`It does!!!`](http://9gag.com/gag/ae9Z7xp)<!-- MEMES:END -->
+ - 😝 [A little reminder of where the Yoko ono memes come from](http://9gag.com/gag/aByVEVD)
+ - 😝 [X-ray scans showing cross sections of leg tissue between a triathlete and a sedentary man](http://9gag.com/gag/aQz7ZDr)
+ - 💣 [Sharing old gold until 9gag is good again.](http://9gag.com/gag/ae9Zm8p)
+ - 😝 [Hello ladies](http://9gag.com/gag/axy6ABW)
+ - 👉 [Who&#39;s laughing now?](http://9gag.com/gag/aW4nb62)<!-- MEMES:END -->
 
 ---
 

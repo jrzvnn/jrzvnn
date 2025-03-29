@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Studio Ghibli&#39;s Hayao Miyazaki Condemns AI Art as &#39;An Insult to Life Itself&#39;](http://9gag.com/gag/aGyBAow)
- - 😝 [Woah](http://9gag.com/gag/aMVPmDP)
+ - 😝 [Based](http://9gag.com/gag/awy1d8R)
+ - 😝 [Bro turned so red](http://9gag.com/gag/aoyRRjn)
  - 💣 [Who&#39;s laughing now?](http://9gag.com/gag/aW4nb62)
- - 😝 [My mom is livid and hasn&#39;t stopped messaging/calling him. Dad just reads her texts and ignores them.](http://9gag.com/gag/a870KAp)
- - 👉 [Poor guy is just trying to do his job](http://9gag.com/gag/aPAooxB)<!-- MEMES:END -->
+ - 😝 [Four deputies in Harris County, Texas have committed suicide in the last 6 weeks.](http://9gag.com/gag/aAyKKB9)
+ - 👉 [X-ray scans showing cross sections of leg tissue between a triathlete and a sedentary man](http://9gag.com/gag/aQz7ZDr)<!-- MEMES:END -->
 
 ---
 

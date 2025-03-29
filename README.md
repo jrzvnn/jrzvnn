@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Four deputies in Harris County, Texas have committed suicide in the last 6 weeks.](http://9gag.com/gag/aAyKKB9)
- - 😝 [Bro turned so red](http://9gag.com/gag/aoyRRjn)
- - 💣 [Who&#39;s laughing now?](http://9gag.com/gag/aW4nb62)
- - 😝 [Few people look as flawless as a ghibli characters](http://9gag.com/gag/aGyB7Aw)
- - 👉 [For those that still download mp3s](http://9gag.com/gag/aGyB8X0)<!-- MEMES:END -->
+ - 😝 [Sharing old gold until 9gag is good again.](http://9gag.com/gag/ae9Zm8p)
+ - 😝 [Who&#39;s laughing now?](http://9gag.com/gag/aW4nb62)
+ - 💣 [London final boss](http://9gag.com/gag/aQz7Zxr)
+ - 😝 [For those that still download mp3s](http://9gag.com/gag/aGyB8X0)
+ - 👉 [Bro turned so red](http://9gag.com/gag/aoyRRjn)<!-- MEMES:END -->
 
 ---
 

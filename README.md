@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Studio Ghibli&#39;s Hayao Miyazaki Condemns AI Art as &#39;An Insult to Life Itself&#39;](http://9gag.com/gag/aGyBAow)
- - 😝 [No wonder winnie the pooh goes on so many adventures](http://9gag.com/gag/an72GYV)
- - 💣 [Ghost Rider in the making](http://9gag.com/gag/aKGvNWQ)
+ - 😝 [X-ray scans showing cross sections of leg tissue between a triathlete and a sedentary man](http://9gag.com/gag/aQz7ZDr)
  - 😝 [Few people look as flawless as a ghibli characters](http://9gag.com/gag/aGyB7Aw)
- - 👉 [Interesting](http://9gag.com/gag/azxKDeq)<!-- MEMES:END -->
+ - 💣 [No wonder winnie the pooh goes on so many adventures](http://9gag.com/gag/an72GYV)
+ - 😝 [Interesting](http://9gag.com/gag/azxKDeq)
+ - 👉 [You saw it here first](http://9gag.com/gag/a870VBY)<!-- MEMES:END -->
 
 ---
 

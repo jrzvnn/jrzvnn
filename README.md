@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [White trash psychotic chick](http://9gag.com/gag/axy6P1L)
- - 😝 [Based](http://9gag.com/gag/awy1d8R)
- - 💣 [Who&#39;s laughing now?](http://9gag.com/gag/aW4nb62)
- - 😝 [A normal Day in the east](http://9gag.com/gag/aAyKZBZ)
- - 👉 [`Whyis milk so expensive?`](http://9gag.com/gag/aNDQ3rw)<!-- MEMES:END -->
+ - 😝 [`Whyis milk so expensive?`](http://9gag.com/gag/aNDQ3rw)
+ - 😝 [When Jamaica broke the Men&#39;s 4x100m World Record at London 2012 Olympics !!](http://9gag.com/gag/a6Z5GqA)
+ - 💣 [Studio Ghibli&#39;s Hayao Miyazaki Condemns AI Art as &#39;An Insult to Life Itself&#39;](http://9gag.com/gag/aGyBAow)
+ - 😝 [Thank you for coming to my TedTalk?](http://9gag.com/gag/aGyBNyz)
+ - 👉 [Based](http://9gag.com/gag/awy1d8R)<!-- MEMES:END -->
 
 ---
 

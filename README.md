@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [X-ray scans showing cross sections of leg tissue between a triathlete and a sedentary man](http://9gag.com/gag/aQz7ZDr)
- - 😝 [Few people look as flawless as a ghibli characters](http://9gag.com/gag/aGyB7Aw)
- - 💣 [No wonder winnie the pooh goes on so many adventures](http://9gag.com/gag/an72GYV)
- - 😝 [Interesting](http://9gag.com/gag/azxKDeq)
- - 👉 [You saw it here first](http://9gag.com/gag/a870VBY)<!-- MEMES:END -->
+ - 😝 [Hello ladies](http://9gag.com/gag/axy6ABW)
+ - 😝 [Wait for men short ......](http://9gag.com/gag/axy6mOL)
+ - 💣 [A normal Day in the east](http://9gag.com/gag/aAyKZBZ)
+ - 😝 [I was there 3000yrs ago](http://9gag.com/gag/apR6jg8)
+ - 👉 [Elllot page watching all the X-Wen actors reprise their roles for Avengers but her.](http://9gag.com/gag/aMVPXVx)<!-- MEMES:END -->
 
 ---
 

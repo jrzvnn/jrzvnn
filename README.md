@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A little reminder of where the Yoko ono memes come from](http://9gag.com/gag/aByVEVD)
- - 😝 [X-ray scans showing cross sections of leg tissue between a triathlete and a sedentary man](http://9gag.com/gag/aQz7ZDr)
- - 💣 [Sharing old gold until 9gag is good again.](http://9gag.com/gag/ae9Zm8p)
- - 😝 [Hello ladies](http://9gag.com/gag/axy6ABW)
- - 👉 [Who&#39;s laughing now?](http://9gag.com/gag/aW4nb62)<!-- MEMES:END -->
+ - 😝 [Please return](http://9gag.com/gag/a9y5B9D)
+ - 😝 [` Mommy tells me I&#39;m a girl` Jeff&#39;s story](http://9gag.com/gag/ayN6YXb)
+ - 💣 [The real Evil Queen. Her acting is so good, it doesn&#39;t even feel like she&#39;s acting.](http://9gag.com/gag/aGyB7yZ)
+ - 😝 [Sharks eat less than 10 people a year, while Brazilians eat over 300,000 sharks annually. A Brazilian is 300,000 times more dangerous than a shark.](http://9gag.com/gag/a9y5VvD)
+ - 👉 [Save it and never use it again](http://9gag.com/gag/avy698b)<!-- MEMES:END -->
 
 ---
 

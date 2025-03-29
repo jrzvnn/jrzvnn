@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Amazon Spring Sale deals on Verge staff favorites](https://www.theverge.com/tech/635736/amazon-big-spring-sale-best-deals-tech-staff-picks-march-prime-day-2025)
+ - [The Final Season of &#39;The Righteous Gemstones&#39; Is Here: When to Watch Episode 4 on Max](https://www.cnet.com/tech/services-and-software/the-final-season-of-the-righteous-gemstones-is-here-when-to-watch-episode-4-on-max/#ftag=CAD590a51e)
  - [Kalshi sues Nevada&#39;s gaming regulators to keep offering event contracts to bet on sports and politics, citing federal regulation by the US CFTC &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/250329/p13#a250329p13)
  - [March Madness 2025: How to Watch the Elite Eight Today](https://www.cnet.com/tech/services-and-software/march-madness-2025-how-to-watch-the-elite-eight-today/#ftag=CAD590a51e)
- - [I Get to Watch Disney Fireworks Every Day Thanks to My 3D Printer and Some Elbow Grease](https://www.cnet.com/tech/computing/i-3d-printed-a-giant-disney-castle-and-now-i-watch-fireworks-every-day/#ftag=CAD590a51e)
- - [A look at AI-generated fake movie trailers on YouTube; WBD, Paramount, and Sony have earned ad revenue from some videos instead of defending their copyright &lpar;Jake Kanter/Deadline&rpar;](http://www.techmeme.com/250329/p12#a250329p12)<!-- TECH:END -->
+ - [I Get to Watch Disney Fireworks Every Day Thanks to My 3D Printer and Some Elbow Grease](https://www.cnet.com/tech/computing/i-3d-printed-a-giant-disney-castle-and-now-i-watch-fireworks-every-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

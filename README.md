@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`It does!!!`](http://9gag.com/gag/ae9Z7xp)
- - 😝 [White trash psychotic chick](http://9gag.com/gag/axy6P1L)
- - 💣 [Based](http://9gag.com/gag/awy1d8R)
- - 😝 [Who&#39;s laughing now?](http://9gag.com/gag/aW4nb62)
- - 👉 [A normal Day in the east](http://9gag.com/gag/aAyKZBZ)<!-- MEMES:END -->
+ - 😝 [X-ray scans showing cross sections of leg tissue between a triathlete and a sedentary man](http://9gag.com/gag/aQz7ZDr)
+ - 😝 [Based](http://9gag.com/gag/awy1d8R)
+ - 💣 [Wait for men short ......](http://9gag.com/gag/axy6mOL)
+ - 😝 [A normal Day in the east](http://9gag.com/gag/aAyKZBZ)
+ - 👉 [Elllot page watching all the X-Wen actors reprise their roles for Avengers but her.](http://9gag.com/gag/aMVPXVx)<!-- MEMES:END -->
 
 ---
 

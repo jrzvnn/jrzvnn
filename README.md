@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FTX tells a US bankruptcy judge it will make the first payment to its main creditors on May 30 using the $11.4B cash hoard it has collected since shutting down &lpar;Steven Church/Bloomberg&rpar;](http://www.techmeme.com/250328/p36#a250328p36)
  - [Today&#39;s NYT Mini Crossword Answers for Saturday, March 29](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-march-29/#ftag=CAD590a51e)
  - [Adalytics: DoubleVerify, IAS, and Human Security, paid by advertisers to detect bots, regularly miss such traffic; DoubleVerify missed 21% of bot visits &lpar;Patience Haggin/Wall Street Journal&rpar;](http://www.techmeme.com/250328/p35#a250328p35)
  - [The Pixel 9A Arrives Soon. Should You Buy It?](https://www.cnet.com/tech/mobile/the-pixel-9a-arrives-soon-should-you-buy-it/#ftag=CAD590a51e)
- - [In the latest Windows 11 preview build, Microsoft removed the &quot;bypassnro&quot; command, which let users skip signing into a Microsoft Account when installing Windows &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/250328/p34#a250328p34)
- - [A US judge rejects Musk&#39;s bid to dismiss a lawsuit claiming he defrauded ex-Twitter shareholders by delaying the disclosure of his initial Twitter investment &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250328/p33#a250328p33)<!-- TECH:END -->
+ - [In the latest Windows 11 preview build, Microsoft removed the &quot;bypassnro&quot; command, which let users skip signing into a Microsoft Account when installing Windows &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/250328/p34#a250328p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

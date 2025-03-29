@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India&#39;s e-commerce market grew 10%-12% YoY to ~$60B in GMV in 2024, versus historical rates of over 20%, with 270M+ people shopping online, second only to China &lpar;Bain&rpar;](http://www.techmeme.com/250329/p5#a250329p5)
+ - [Bain and Flipkart report: quick commerce made up over two-thirds of India&#39;s e-grocery orders in 2024, with GMV rising nearly five times to $6B-$7B from 2022 &lpar;Ashwin Manikandan/Reuters&rpar;](http://www.techmeme.com/250329/p4#a250329p4)
  - [BougeRV’s telescopic lantern is ridiculously versatile](https://www.theverge.com/reviews/638090/bougerv-flextail-telescopic-lantern-review-price)
  - [NYC-based Rain, which issues credit cards that let customers settle payments in stablecoins, raised $24.5M led by Norwest, taking its total funding to $30.5M &lpar;Catherine McGrath/Fortune&rpar;](http://www.techmeme.com/250329/p3#a250329p3)
- - [Surfshark Coupons and Deals: Up to 87% Off Plans](https://www.wired.com/story/surfshark-coupon/)
- - [Brooklyn-based Underdog, a fantasy sports and sports betting app, raised $70M in a first Series C tranche at a $1.23B valuation from Spark Capital &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250329/p2#a250329p2)
- - [Gensol&#39;s financial woes have cast doubt on the future of BluSmart, an Indian EV ride-hailing startup founded by Gensol&#39;s promoters, Anmol Jaggi and Puneet Jaggi &lpar;Debarghya Sil/Inc42 Media&rpar;](http://www.techmeme.com/250329/p1#a250329p1)<!-- TECH:END -->
+ - [Surfshark Coupons and Deals: Up to 87% Off Plans](https://www.wired.com/story/surfshark-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

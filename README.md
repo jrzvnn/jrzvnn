@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Everything? Not yet.](http://9gag.com/gag/a870Vnd)
- - 😝 [Spray foam](http://9gag.com/gag/a870vLZ)
- - 💣 [I was there 3000yrs ago](http://9gag.com/gag/apR6jg8)
- - 😝 [Surprise butt kick](http://9gag.com/gag/aKGvn23)
- - 👉 [A perfect American wife](http://9gag.com/gag/azxKBGZ)<!-- MEMES:END -->
+ - 😝 [A normal Day in the east](http://9gag.com/gag/aAyKZBZ)
+ - 😝 [When a rugby player kicks an American football.](http://9gag.com/gag/a870zPe)
+ - 💣 [Spray foam](http://9gag.com/gag/a870vLZ)
+ - 😝 [Pulling nails out of a beach bonfire site with a hydraulic scrap magnet.](http://9gag.com/gag/aMVP0rP)
+ - 👉 [Surprise butt kick](http://9gag.com/gag/aKGvn23)<!-- MEMES:END -->
 
 ---
 

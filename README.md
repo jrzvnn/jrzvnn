@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Interesting](http://9gag.com/gag/azxKDeq)
- - 😝 [Damn!!! Ended his career with to that crossover. Old 9gag memes](http://9gag.com/gag/ae9ZqYB)
- - 💣 [Spray foam](http://9gag.com/gag/a870vLZ)
- - 😝 [Is brother gonna fold?](http://9gag.com/gag/a2v0AMe)
- - 👉 [Pulling nails out of a beach bonfire site with a hydraulic scrap magnet.](http://9gag.com/gag/aMVP0rP)<!-- MEMES:END -->
+ - 😝 [Xena\u2026man i was in love](http://9gag.com/gag/aVvK4mP)
+ - 😝 [Great catwalkers are made...not born](http://9gag.com/gag/aAyK7dd)
+ - 💣 [Interesting...](http://9gag.com/gag/aByVbpO)
+ - 😝 [It gets better ...](http://9gag.com/gag/apR6n1b)
+ - 👉 [Outstanding move](http://9gag.com/gag/aAyKLmd)<!-- MEMES:END -->
 
 ---
 

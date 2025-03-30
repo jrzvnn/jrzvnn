@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Klarna&#39;s Walmart deal ahead of its IPO put long-simmering tensions between Klarna CEO Sebastian Siemiatkowski and Affirm CEO Max Levchin on public display &lpar;Bloomberg&rpar;](http://www.techmeme.com/250330/p9#a250330p9)
  - [Waterloo, Ontario-based logistics software company Descartes Systems Group acquires 3Gtms, an Ohio-based transportation software vendor, for $115M in cash &lpar;Alex Riehl/BetaKit&rpar;](http://www.techmeme.com/250330/p8#a250330p8)
  - [NYC-based Navina, which has developed an AI copilot for clinicians, raised a $55M Series C led by Goldman Sachs Alternatives, taking its total funding to $100M &lpar;Emma Beavins/Fierce Healthcare&rpar;](http://www.techmeme.com/250330/p7#a250330p7)
  - [PE firm Clearlake agrees to acquire and take private Dun &amp; Bradstreet, one of Wall Street&#39;s oldest data and analytics providers, for $7.7B including debt &lpar;Ryan Gould/Bloomberg&rpar;](http://www.techmeme.com/250330/p6#a250330p6)
- - [Marketing executives say big brands are allocating small amounts of their ad budget to X, seeking to avoid being perceived as boycotting Elon Musk&#39;s platform &lpar;Financial Times&rpar;](http://www.techmeme.com/250330/p5#a250330p5)
- - [Prolific fintech VC and QED Investors co-founder Frank Rotman says he will become partner emeritus by the end of 2025 and focus on launching his own startups &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250330/p4#a250330p4)<!-- TECH:END -->
+ - [Marketing executives say big brands are allocating small amounts of their ad budget to X, seeking to avoid being perceived as boycotting Elon Musk&#39;s platform &lpar;Financial Times&rpar;](http://www.techmeme.com/250330/p5#a250330p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Elllot page watching all the X-Wen actors reprise their roles for Avengers but her.](http://9gag.com/gag/aMVPXVx)
- - 😝 [History fact](http://9gag.com/gag/aE0AZ2n)
- - 💣 [Incredible how calm everyone was](http://9gag.com/gag/aD28rwB)
- - 😝 [Iranian women standing in front of a hijab poster](http://9gag.com/gag/ae9Z7Dq)
- - 👉 [His wives are all damn hot in most of his movies](http://9gag.com/gag/apR6jMB)<!-- MEMES:END -->
+ - 😝 [I was there 3000yrs ago](http://9gag.com/gag/apR6jg8)
+ - 😝 [Murdered by an actual scientist](http://9gag.com/gag/aGyB7yG)
+ - 💣 [Few people look as flawless as a ghibli characters](http://9gag.com/gag/aGyB7Aw)
+ - 😝 [Can&#39;t blame the guy](http://9gag.com/gag/a0e0wGZ)
+ - 👉 [Absolutely](http://9gag.com/gag/ajPLGzx)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice sis](http://9gag.com/gag/aRBM8eA)
- - 😝 [Well... We all know who is he.](http://9gag.com/gag/agm7b0v)
+ - 😝 [America is such a surreal place](http://9gag.com/gag/aRBM8Xj)
+ - 😝 [Incredible how calm everyone was](http://9gag.com/gag/aD28rwB)
  - 💣 [Can\u2019t believe we had this in the 60\u2019s. Scary to Imagine what they have now](http://9gag.com/gag/aGyBbm0)
- - 😝 [Interesting](http://9gag.com/gag/azxKDeq)
- - 👉 [America is such a surreal place](http://9gag.com/gag/aRBM8Xj)<!-- MEMES:END -->
+ - 😝 [A normal Day in the east](http://9gag.com/gag/aAyKZBZ)
+ - 👉 [When a rugby player kicks an American football.](http://9gag.com/gag/a870zPe)<!-- MEMES:END -->
 
 ---
 

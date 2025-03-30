@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple is working on a major Health app revamp and an AI doctor service, planned for H1 2026, and M5 updates for the iPad Pro and MacBook Pro this year &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250330/p15#a250330p15)
  - [11 Best Retro Game Consoles &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-retro-gaming-consoles/)
  - [Cambridge, UK-based Camgraphic, which is developing graphene-based photonics chips for AI, HPC, autonomous cars, and other applications, raised a €25M Series A &lpar;Maya Dharampal-Hornby/Sifted&rpar;](http://www.techmeme.com/250330/p14#a250330p14)
  - [Traeger Woodridge Pro Review: Fearless Smoking](https://www.wired.com/review/traeger-woodridge-pro-review/)
- - [Health app&#39;s future AI assistant will tell you how to keep fit](https://appleinsider.com/articles/25/03/30/health-apps-future-ai-assistant-will-tell-you-how-to-keep-fit?utm_medium=rss)
- - [Wahl Peanut Li Review: A Cordless Take on a Classic](https://www.wired.com/review/wahl-peanut-li-review/)<!-- TECH:END -->
+ - [Health app&#39;s future AI assistant will tell you how to keep fit](https://appleinsider.com/articles/25/03/30/health-apps-future-ai-assistant-will-tell-you-how-to-keep-fit?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

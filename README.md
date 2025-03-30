@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As ChatGPT&#39;s Studio Ghibli-style images going viral sparks a debate, AI may not devalue human-created art and may even elevate it by fueling a creation economy &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/250330/p13#a250330p13)
+ - [How Good Are EVs in the Cold? I Drove in the Arctic to Find Out](https://www.cnet.com/roadshow/news/features/how-good-are-evs-in-the-cold-i-drove-in-the-arctic-to-find-out/#ftag=CAD590a51e)
+ - [Spring Cleaning Your Tech: Where You Can Recycle Your Computers and Printers for Free](https://www.cnet.com/tech/computing/spring-cleaning-your-tech-where-you-can-recycle-your-computers-and-printers-for-free/#ftag=CAD590a51e)
  - [For a Master Class in Salt, Try Making Kimchi](https://www.wired.com/story/making-kimchi-salt/)
- - [Apple TV Plus is on a hot streak](https://www.theverge.com/installer-newsletter/638592/the-studio-apple-tv-plus-installer)
- - [The Best Cooling Sheets, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-cooling-sheets/)
- - [A look at inZOI, a new life simulation game by South Korean studio Krafton that aims to appeal to players in Asia, where The Sims never gained popularity &lpar;Bloomberg&rpar;](http://www.techmeme.com/250330/p12#a250330p12)
- - [Amazon&#39;s New AI Shopping Assistant Knows What You Like](https://www.cnet.com/tech/services-and-software/amazons-new-ai-shopping-assistant-knows-what-you-like/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple TV Plus is on a hot streak](https://www.theverge.com/installer-newsletter/638592/the-studio-apple-tv-plus-installer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

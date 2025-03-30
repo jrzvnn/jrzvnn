@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [America is such a surreal place](http://9gag.com/gag/aRBM8Xj)
- - 😝 [Incredible how calm everyone was](http://9gag.com/gag/aD28rwB)
- - 💣 [Can\u2019t believe we had this in the 60\u2019s. Scary to Imagine what they have now](http://9gag.com/gag/aGyBbm0)
- - 😝 [A normal Day in the east](http://9gag.com/gag/aAyKZBZ)
- - 👉 [When a rugby player kicks an American football.](http://9gag.com/gag/a870zPe)<!-- MEMES:END -->
+ - 😝 [&#39;Toxic&#39; masculinity wins again.](http://9gag.com/gag/a9y5N3K)
+ - 😝 [Magic and Crime](http://9gag.com/gag/aByVN5Z)
+ - 💣 [When a rugby player kicks an American football.](http://9gag.com/gag/a870zPe)
+ - 😝 [Well... We all know who is he.](http://9gag.com/gag/agm7b0v)
+ - 👉 [I was there 3000yrs ago](http://9gag.com/gag/apR6jg8)<!-- MEMES:END -->
 
 ---
 

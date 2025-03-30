@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can\u2019t believe we had this in the 60\u2019s. Scary to Imagine what they have now](http://9gag.com/gag/aGyBbm0)
- - 😝 [Surprise butt kick](http://9gag.com/gag/aKGvn23)
+ - 😝 [Incredible how calm everyone was](http://9gag.com/gag/aD28rwB)
+ - 😝 [`Whyis milk so expensive?`](http://9gag.com/gag/aNDQ3rw)
  - 💣 [Finally, I Found the Original!!!!](http://9gag.com/gag/a0e0W4q)
- - 😝 [America is such a surreal place](http://9gag.com/gag/aRBM8Xj)
- - 👉 [Check out the accuracy!](http://9gag.com/gag/aMVPDpR)<!-- MEMES:END -->
+ - 😝 [A normal Day in the east](http://9gag.com/gag/aAyKZBZ)
+ - 👉 [America is such a surreal place](http://9gag.com/gag/aRBM8Xj)<!-- MEMES:END -->
 
 ---
 

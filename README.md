@@ -157,8 +157,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s current enterprise offerings are built for single machines and have complex virtualization rules, saddling high-end users with inefficient remote setups &lpar;Ernie Smith/Tedium&rpar;](http://www.techmeme.com/250330/p20#a250330p20)
  - [Keychron Q3 HE review: An excellent compact mechanical keyboard](https://appleinsider.com/articles/25/03/30/keychron-q3-he-review-an-excellent-compact-mechanical-keyboard?utm_medium=rss)
+ - [Apple&#39;s current enterprise offerings are built for single machines and have complex virtualization rules, saddling high-end users with inefficient remote setups &lpar;Ernie Smith/Tedium&rpar;](http://www.techmeme.com/250330/p20#a250330p20)
  - [Apple donates to relief efforts after Myanmar-Thailand earthquake](https://appleinsider.com/articles/25/03/30/apple-donates-to-relief-efforts-after-myanmar-thailand-earthquake?utm_medium=rss)
  - [Grab a New Apple Pencil While It’s Down to $50 at Woot](https://www.cnet.com/tech/grab-a-new-apple-pencil-while-its-down-to-50-at-woot/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for March 31, #659](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-31-659/#ftag=CAD590a51e)<!-- TECH:END -->

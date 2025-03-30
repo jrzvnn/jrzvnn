@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Prolific fintech VC and QED Investors co-founder Frank Rotman says he will become partner emeritus by the end of 2025 and focus on launching his own startups &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250330/p4#a250330p4)
  - [Chinese chip equipment manufacturer SiCarrier debuted ~30 &quot;domestically controllable&quot; products at the Semicon China show, as China pushes for chip self-reliance &lpar;Wency Chen/South China Morning Post&rpar;](http://www.techmeme.com/250330/p3#a250330p3)
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, March 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-march-30/#ftag=CAD590a51e)
  - [Fleetio, which develops vehicle fleet management software, raised a $450M+ Series D and acquired Auto Integrate in a deal valuing the combined entity at $1.5B+ &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/250330/p2#a250330p2)
- - [Berlin-based Amboss, which makes study guide apps for medical students and online databases for clinicians, raised €240M, sources say at an €800M+ valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250330/p1#a250330p1)
- - [We went to 10 anti-Tesla protests — and a couple counter protests, too](https://www.theverge.com/tesla/639183/tesla-takedown-protest-march-29-elon-musk-doge)<!-- TECH:END -->
+ - [Berlin-based Amboss, which makes study guide apps for medical students and online databases for clinicians, raised €240M, sources say at an €800M+ valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250330/p1#a250330p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

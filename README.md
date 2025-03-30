@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese chip equipment manufacturer SiCarrier debuted ~30 &quot;domestically controllable&quot; products at the Semicon China show, as China pushes for chip self-reliance &lpar;Wency Chen/South China Morning Post&rpar;](http://www.techmeme.com/250330/p3#a250330p3)
+ - [Fleetio, which develops vehicle fleet management software, raised a $450M+ Series D and acquired Auto Integrate in a deal valuing the combined entity at $1.5B+ &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/250330/p2#a250330p2)
  - [Berlin-based Amboss, which makes study guide apps for medical students and online databases for clinicians, raised €240M, sources say at an €800M+ valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250330/p1#a250330p1)
  - [We went to 10 anti-Tesla protests — and a couple counter protests, too](https://www.theverge.com/tesla/639183/tesla-takedown-protest-march-29-elon-musk-doge)
- - [A look at the new, open-source Model Context Protocol for connecting LLMs to data sources and why its success depends on overcoming middleware challenges &lpar;Steven Sinofsky/Hardcore Software&rpar;](http://www.techmeme.com/250329/p17#a250329p17)
- - [I Spent Some Time With Samsung&#39;s AI Appliances. Is the Cost Worth The Hype?](https://www.cnet.com/news/i-spent-some-time-with-samsungs-ai-appliances-is-the-cost-worth-the-hype/#ftag=CAD590a51e)
- - [Samsung’s latest stick vac can alert you to calls and text messages](https://www.theverge.com/news/639078/samsung-bespoke-ai-jet-ultra-vacuum-text-messages)<!-- TECH:END -->
+ - [A look at the new, open-source Model Context Protocol for connecting LLMs to data sources and why its success depends on overcoming middleware challenges &lpar;Steven Sinofsky/Hardcore Software&rpar;](http://www.techmeme.com/250329/p17#a250329p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

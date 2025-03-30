@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In their honour](http://9gag.com/gag/aNDQ8mA)
- - 😝 [Friends never grow up](http://9gag.com/gag/aMVPWL6)
- - 💣 [Sheriffs showing the reporters rap sheet of the criminal after reporters kept defending the bad guy](http://9gag.com/gag/aGyBr07)
- - 😝 [Damn Mom](http://9gag.com/gag/a9y5V8o)
- - 👉 [That&#39;s why you gotta use your knees.](http://9gag.com/gag/ayN6VVM)<!-- MEMES:END -->
+ - 😝 [Sexist ball](http://9gag.com/gag/a1m0EWD)
+ - 😝 [When a rugby player kicks an American football.](http://9gag.com/gag/a870zPe)
+ - 💣 [A normal Day in the east](http://9gag.com/gag/aAyKZBZ)
+ - 😝 [A perfect American wife](http://9gag.com/gag/azxKBGZ)
+ - 👉 [`Whyis milk so expensive?`](http://9gag.com/gag/aNDQ3rw)<!-- MEMES:END -->
 
 ---
 

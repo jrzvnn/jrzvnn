@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [For a Master Class in Salt, Try Making Kimchi](https://www.wired.com/story/making-kimchi-salt/)
+ - [Apple TV Plus is on a hot streak](https://www.theverge.com/installer-newsletter/638592/the-studio-apple-tv-plus-installer)
  - [The Best Cooling Sheets, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-cooling-sheets/)
  - [A look at inZOI, a new life simulation game by South Korean studio Krafton that aims to appeal to players in Asia, where The Sims never gained popularity &lpar;Bloomberg&rpar;](http://www.techmeme.com/250330/p12#a250330p12)
- - [Why Adding a Full Hard Drive Can Make a Computer More Powerful](https://www.wired.com/story/catalytic-computing-taps-the-full-power-of-a-full-hard-drive/)
- - [4 Best Tax Services &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-tax-services/)
- - [Colon Cancer Explained: Signs, Risks and Prevention Tips You Should Know](https://www.cnet.com/health/medical/colon-cancer-explained-signs-risks-prevention-tips/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon&#39;s New AI Shopping Assistant Knows What You Like](https://www.cnet.com/tech/services-and-software/amazons-new-ai-shopping-assistant-knows-what-you-like/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Health app&#39;s future AI assistant will tell you how to keep fit](https://appleinsider.com/articles/25/03/30/health-apps-future-ai-assistant-will-tell-you-how-to-keep-fit?utm_medium=rss)
  - [Wahl Peanut Li Review: A Cordless Take on a Classic](https://www.wired.com/review/wahl-peanut-li-review/)
  - [M5 iPad Pro is in testing ahead of a late-2025 release](https://appleinsider.com/articles/25/03/30/m5-ipad-pro-is-in-testing-ahead-of-a-late-2025-release?utm_medium=rss)
- - [I Saw the AI Future of Video Games: It Starts With a Character Hopping Over a Box](https://www.cnet.com/tech/gaming/i-saw-video-game-ais-future-it-starts-a-character-hopping-over-a-box/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ghosts in the Kinect](https://www.theverge.com/games/638490/microsoft-kinect-ghost-hunting)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

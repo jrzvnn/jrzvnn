@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Damn!!! Ended his career with to that crossover. Old 9gag memes](http://9gag.com/gag/ae9ZqYB)
- - 😝 [WOW THAT REALLY HAPPENED](http://9gag.com/gag/aXPVedz)
- - 💣 [Finally, I Found the Original!!!!](http://9gag.com/gag/a0e0W4q)
- - 😝 [Surprise butt kick](http://9gag.com/gag/aKGvn23)
- - 👉 [Tis but a scratch](http://9gag.com/gag/adBQ44d)<!-- MEMES:END -->
+ - 😝 [These were the times](http://9gag.com/gag/aD28Lwd)
+ - 😝 [A true Chad](http://9gag.com/gag/aLn4Ojv)
+ - 💣 [Pulling nails out of a beach bonfire site with a hydraulic scrap magnet.](http://9gag.com/gag/aMVP0rP)
+ - 😝 [America is such a surreal place](http://9gag.com/gag/aRBM8Xj)
+ - 👉 [When a rugby player kicks an American football.](http://9gag.com/gag/a870zPe)<!-- MEMES:END -->
 
 ---
 

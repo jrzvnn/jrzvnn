@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Surprise butt kick](http://9gag.com/gag/aKGvn23)
+ - 😝 [I was there 3000yrs ago](http://9gag.com/gag/apR6jg8)
+ - 😝 [`It does!!!`](http://9gag.com/gag/ae9Z7xp)
+ - 💣 [A perfect American wife](http://9gag.com/gag/azxKBGZ)
  - 😝 [`Whyis milk so expensive?`](http://9gag.com/gag/aNDQ3rw)
- - 💣 [When a rugby player kicks an American football.](http://9gag.com/gag/a870zPe)
- - 😝 [Murdered by an actual scientist](http://9gag.com/gag/aGyB7yG)
- - 👉 [Women&#39;s](http://9gag.com/gag/a5Qw5oE)<!-- MEMES:END -->
+ - 👉 [Surprise butt kick](http://9gag.com/gag/aKGvn23)<!-- MEMES:END -->
 
 ---
 

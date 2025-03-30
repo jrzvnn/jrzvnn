@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Great catwalkers are made...not born](http://9gag.com/gag/aAyK7dd)
- - 😝 [My fellow souls like game enthusiast... we have good news..](http://9gag.com/gag/a6Z5z5L)
- - 💣 [I will not even be surprised if it turns out true](http://9gag.com/gag/a1m0nDP)
- - 😝 [Outstanding move](http://9gag.com/gag/aAyKLmd)
- - 👉 [Classic](http://9gag.com/gag/aoyRGWg)<!-- MEMES:END -->
+ - 😝 [Nice sis](http://9gag.com/gag/aRBM8eA)
+ - 😝 [Well... We all know who is he.](http://9gag.com/gag/agm7b0v)
+ - 💣 [Can\u2019t believe we had this in the 60\u2019s. Scary to Imagine what they have now](http://9gag.com/gag/aGyBbm0)
+ - 😝 [Interesting](http://9gag.com/gag/azxKDeq)
+ - 👉 [America is such a surreal place](http://9gag.com/gag/aRBM8Xj)<!-- MEMES:END -->
 
 ---
 

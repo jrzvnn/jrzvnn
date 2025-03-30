@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google announces it is rolling out Gemini 2.5 Pro Experimental to all Gemini users, after initially launching it for Gemini Advanced subscribers on March 25 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250330/p18#a250330p18)
  - [A look at the RainbowEx crypto Ponzi scheme, which ensnared 16,000 people in San Pedro, Argentina; different versions of the scam have emerged around the world &lpar;New York Times&rpar;](http://www.techmeme.com/250330/p17#a250330p17)
  - [The 50 best Amazon Big Spring Sale deals under $100](https://www.theverge.com/tech/638402/amazon-big-spring-sale-2025-best-deals-under-100-tech-gift-ideas)
  - [We Love the Lego Classic Brick Box Set, and It’s Now 49% Off Thanks to Amazon’s Big Spring Sale](https://www.cnet.com/tech/we-love-the-lego-classic-brick-box-set-and-its-now-49-off-thanks-to-amazons-big-spring-sale/#ftag=CAD590a51e)
- - [Straiker, which develops tech for securing enterprise AI applications, emerges from stealth with a $21M Series A from Lightspeed and Bain Capital &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250330/p16#a250330p16)
- - [Amazon’s big spring sale continues, and we found the 101 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)<!-- TECH:END -->
+ - [Straiker, which develops tech for securing enterprise AI applications, emerges from stealth with a $21M Series A from Lightspeed and Bain Capital &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250330/p16#a250330p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

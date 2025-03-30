@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The lion king](http://9gag.com/gag/aqy6zbj)
- - 😝 [`Whyis milk so expensive?`](http://9gag.com/gag/aNDQ3rw)
- - 💣 [Surprise butt kick](http://9gag.com/gag/aKGvn23)
- - 😝 [Sharp shooter](http://9gag.com/gag/aXPV2gb)
- - 👉 [Elllot page watching all the X-Wen actors reprise their roles for Avengers but her.](http://9gag.com/gag/aMVPXVx)<!-- MEMES:END -->
+ - 😝 [Murdered by an actual scientist](http://9gag.com/gag/aGyB7yG)
+ - 😝 [When a rugby player kicks an American football.](http://9gag.com/gag/a870zPe)
+ - 💣 [Can&#39;t blame the guy](http://9gag.com/gag/a0e0wGZ)
+ - 😝 [A perfect American wife](http://9gag.com/gag/azxKBGZ)
+ - 👉 [Surprise butt kick](http://9gag.com/gag/aKGvn23)<!-- MEMES:END -->
 
 ---
 

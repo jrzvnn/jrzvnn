@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A newborn&#39;s Babinski reflex](http://9gag.com/gag/a1m0OnY)
- - 😝 [Women&#39;s](http://9gag.com/gag/a5Qw5oE)
- - 💣 [Everything? Not yet.](http://9gag.com/gag/a870Vnd)
- - 😝 [Yolo](http://9gag.com/gag/aNDQRpA)
+ - 😝 [Incredible how calm everyone was](http://9gag.com/gag/aD28rwB)
+ - 😝 [Outjerked by Brave Browser. Brave...IN!](http://9gag.com/gag/aRBM2VQ)
+ - 💣 [I was there 3000yrs ago](http://9gag.com/gag/apR6jg8)
+ - 😝 [`It does!!!`](http://9gag.com/gag/ae9Z7xp)
  - 👉 [A normal Day in the east](http://9gag.com/gag/aAyKZBZ)<!-- MEMES:END -->
 
 ---

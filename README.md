@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I was there 3000yrs ago](http://9gag.com/gag/apR6jg8)
  - 😝 [When a rugby player kicks an American football.](http://9gag.com/gag/a870zPe)
- - 💣 [A normal Day in the east](http://9gag.com/gag/aAyKZBZ)
- - 😝 [Check out the accuracy!](http://9gag.com/gag/aMVPDpR)
- - 👉 [His wives are all damn hot in most of his movies](http://9gag.com/gag/apR6jMB)<!-- MEMES:END -->
+ - 😝 [WOW THAT REALLY HAPPENED](http://9gag.com/gag/aXPVedz)
+ - 💣 [I was there 3000yrs ago](http://9gag.com/gag/apR6jg8)
+ - 😝 [Finally, I Found the Original!!!!](http://9gag.com/gag/a0e0W4q)
+ - 👉 [Check out the accuracy!](http://9gag.com/gag/aMVPDpR)<!-- MEMES:END -->
 
 ---
 

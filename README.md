@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As ChatGPT&#39;s Studio Ghibli-style images going viral sparks a debate, AI may not devalue human-created art and may even elevate it by fueling a creation economy &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/250330/p13#a250330p13)
- - [How Good Are EVs in the Cold? I Drove in the Arctic to Find Out](https://www.cnet.com/roadshow/news/features/how-good-are-evs-in-the-cold-i-drove-in-the-arctic-to-find-out/#ftag=CAD590a51e)
- - [Spring Cleaning Your Tech: Where You Can Recycle Your Computers and Printers for Free](https://www.cnet.com/tech/computing/spring-cleaning-your-tech-where-you-can-recycle-your-computers-and-printers-for-free/#ftag=CAD590a51e)
- - [For a Master Class in Salt, Try Making Kimchi](https://www.wired.com/story/making-kimchi-salt/)
- - [Apple TV Plus is on a hot streak](https://www.theverge.com/installer-newsletter/638592/the-studio-apple-tv-plus-installer)<!-- TECH:END -->
+ - [Health app&#39;s future AI assistant will tell you how to keep fit](https://appleinsider.com/articles/25/03/30/health-apps-future-ai-assistant-will-tell-you-how-to-keep-fit?utm_medium=rss)
+ - [Wahl Peanut Li Review: A Cordless Take on a Classic](https://www.wired.com/review/wahl-peanut-li-review/)
+ - [M5 iPad Pro is in testing ahead of a late-2025 release](https://appleinsider.com/articles/25/03/30/m5-ipad-pro-is-in-testing-ahead-of-a-late-2025-release?utm_medium=rss)
+ - [Ghosts in the Kinect](https://www.theverge.com/games/638490/microsoft-kinect-ghost-hunting)
+ - [As ChatGPT&#39;s Studio Ghibli-style images going viral sparks a debate, AI may not devalue human-created art and may even elevate it by fueling a creation economy &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/250330/p13#a250330p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

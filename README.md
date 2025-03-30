@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finally, I Found the Original!!!!](http://9gag.com/gag/a0e0W4q)
- - 😝 [This should be a game Mechanic.](http://9gag.com/gag/abA4dgb)
- - 💣 [Check out the accuracy!](http://9gag.com/gag/aMVPDpR)
- - 😝 [`Whyis milk so expensive?`](http://9gag.com/gag/aNDQ3rw)
- - 👉 [A perfect American wife](http://9gag.com/gag/azxKBGZ)<!-- MEMES:END -->
+ - 😝 [Damn Mom](http://9gag.com/gag/a9y5V8o)
+ - 😝 [Sheriffs showing the reporters rap sheet of the criminal after reporters kept defending the bad guy](http://9gag.com/gag/aGyBr07)
+ - 💣 [That&#39;s why you gotta use your knees.](http://9gag.com/gag/ayN6VVM)
+ - 😝 [It gets better ...](http://9gag.com/gag/apR6n1b)
+ - 👉 [Xena\u2026man i was in love](http://9gag.com/gag/aVvK4mP)<!-- MEMES:END -->
 
 ---
 

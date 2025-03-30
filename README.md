@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Iranian women standing in front of a hijab poster](http://9gag.com/gag/ae9Z7Dq)
- - 😝 [Make me smile](http://9gag.com/gag/aLn4XrV)
- - 💣 [`protection bed`](http://9gag.com/gag/a870KPp)
- - 😝 [A normal Day in the east](http://9gag.com/gag/aAyKZBZ)
- - 👉 [Few people look as flawless as a ghibli characters](http://9gag.com/gag/aGyB7Aw)<!-- MEMES:END -->
+ - 😝 [The lion king](http://9gag.com/gag/aqy6zbj)
+ - 😝 [`Whyis milk so expensive?`](http://9gag.com/gag/aNDQ3rw)
+ - 💣 [Surprise butt kick](http://9gag.com/gag/aKGvn23)
+ - 😝 [Sharp shooter](http://9gag.com/gag/aXPV2gb)
+ - 👉 [Elllot page watching all the X-Wen actors reprise their roles for Avengers but her.](http://9gag.com/gag/aMVPXVx)<!-- MEMES:END -->
 
 ---
 

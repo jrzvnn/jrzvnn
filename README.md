@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [These were the times](http://9gag.com/gag/aD28Lwd)
- - 😝 [A true Chad](http://9gag.com/gag/aLn4Ojv)
- - 💣 [Pulling nails out of a beach bonfire site with a hydraulic scrap magnet.](http://9gag.com/gag/aMVP0rP)
- - 😝 [America is such a surreal place](http://9gag.com/gag/aRBM8Xj)
- - 👉 [When a rugby player kicks an American football.](http://9gag.com/gag/a870zPe)<!-- MEMES:END -->
+ - 😝 [Surprise butt kick](http://9gag.com/gag/aKGvn23)
+ - 😝 [WOW THAT REALLY HAPPENED](http://9gag.com/gag/aXPVedz)
+ - 💣 [When a rugby player kicks an American football.](http://9gag.com/gag/a870zPe)
+ - 😝 [His wives are all damn hot in most of his movies](http://9gag.com/gag/apR6jMB)
+ - 👉 [Pulling nails out of a beach bonfire site with a hydraulic scrap magnet.](http://9gag.com/gag/aMVP0rP)<!-- MEMES:END -->
 
 ---
 

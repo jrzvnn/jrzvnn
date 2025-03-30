@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [11 Best Retro Game Consoles &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-retro-gaming-consoles/)
+ - [Cambridge, UK-based Camgraphic, which is developing graphene-based photonics chips for AI, HPC, autonomous cars, and other applications, raised a €25M Series A &lpar;Maya Dharampal-Hornby/Sifted&rpar;](http://www.techmeme.com/250330/p14#a250330p14)
  - [Traeger Woodridge Pro Review: Fearless Smoking](https://www.wired.com/review/traeger-woodridge-pro-review/)
  - [Health app&#39;s future AI assistant will tell you how to keep fit](https://appleinsider.com/articles/25/03/30/health-apps-future-ai-assistant-will-tell-you-how-to-keep-fit?utm_medium=rss)
- - [Wahl Peanut Li Review: A Cordless Take on a Classic](https://www.wired.com/review/wahl-peanut-li-review/)
- - [M5 iPad Pro is in testing ahead of a late-2025 release](https://appleinsider.com/articles/25/03/30/m5-ipad-pro-is-in-testing-ahead-of-a-late-2025-release?utm_medium=rss)
- - [Ghosts in the Kinect](https://www.theverge.com/games/638490/microsoft-kinect-ghost-hunting)<!-- TECH:END -->
+ - [Wahl Peanut Li Review: A Cordless Take on a Classic](https://www.wired.com/review/wahl-peanut-li-review/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

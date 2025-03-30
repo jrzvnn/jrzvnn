@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Cooling Sheets, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-cooling-sheets/)
  - [A look at inZOI, a new life simulation game by South Korean studio Krafton that aims to appeal to players in Asia, where The Sims never gained popularity &lpar;Bloomberg&rpar;](http://www.techmeme.com/250330/p12#a250330p12)
  - [Why Adding a Full Hard Drive Can Make a Computer More Powerful](https://www.wired.com/story/catalytic-computing-taps-the-full-power-of-a-full-hard-drive/)
  - [4 Best Tax Services &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-tax-services/)
- - [Colon Cancer Explained: Signs, Risks and Prevention Tips You Should Know](https://www.cnet.com/health/medical/colon-cancer-explained-signs-risks-prevention-tips/#ftag=CAD590a51e)
- - [18 Stellar Sci-Fi TV Shows to Watch on Prime Video Right Now](https://www.cnet.com/tech/services-and-software/prime-video-best-sci-fi-tv-shows-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Colon Cancer Explained: Signs, Risks and Prevention Tips You Should Know](https://www.cnet.com/health/medical/colon-cancer-explained-signs-risks-prevention-tips/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

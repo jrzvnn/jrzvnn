@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Xena\u2026man i was in love](http://9gag.com/gag/aVvK4mP)
- - 😝 [Great catwalkers are made...not born](http://9gag.com/gag/aAyK7dd)
- - 💣 [Interesting...](http://9gag.com/gag/aByVbpO)
- - 😝 [It gets better ...](http://9gag.com/gag/apR6n1b)
- - 👉 [Outstanding move](http://9gag.com/gag/aAyKLmd)<!-- MEMES:END -->
+ - 😝 [You saw it here first](http://9gag.com/gag/a870VBY)
+ - 😝 [Check out the accuracy!](http://9gag.com/gag/aMVPDpR)
+ - 💣 [Interesting](http://9gag.com/gag/azxKDeq)
+ - 😝 [When a rugby player kicks an American football.](http://9gag.com/gag/a870zPe)
+ - 👉 [I can feel his pain](http://9gag.com/gag/avy6BYb)<!-- MEMES:END -->
 
 ---
 

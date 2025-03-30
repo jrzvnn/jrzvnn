@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When a rugby player kicks an American football.](http://9gag.com/gag/a870zPe)
- - 😝 [His wives are all damn hot in most of his movies](http://9gag.com/gag/apR6jMB)
- - 💣 [Check out the accuracy!](http://9gag.com/gag/aMVPDpR)
- - 😝 [Damn!!! Ended his career with to that crossover. Old 9gag memes](http://9gag.com/gag/ae9ZqYB)
- - 👉 [A perfect American wife](http://9gag.com/gag/azxKBGZ)<!-- MEMES:END -->
+ - 😝 [A normal Day in the east](http://9gag.com/gag/aAyKZBZ)
+ - 😝 [Nice sis](http://9gag.com/gag/aRBM8eA)
+ - 💣 [When a rugby player kicks an American football.](http://9gag.com/gag/a870zPe)
+ - 😝 [Finally, I Found the Original!!!!](http://9gag.com/gag/a0e0W4q)
+ - 👉 [His wives are all damn hot in most of his movies](http://9gag.com/gag/apR6jMB)<!-- MEMES:END -->
 
 ---
 

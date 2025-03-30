@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sharp shooter](http://9gag.com/gag/aXPV2gb)
- - 😝 [Elllot page watching all the X-Wen actors reprise their roles for Avengers but her.](http://9gag.com/gag/aMVPXVx)
- - 💣 [A perfect American wife](http://9gag.com/gag/azxKBGZ)
+ - 😝 [I was there 3000yrs ago](http://9gag.com/gag/apR6jg8)
  - 😝 [`It does!!!`](http://9gag.com/gag/ae9Z7xp)
- - 👉 [Few people look as flawless as a ghibli characters](http://9gag.com/gag/aGyB7Aw)<!-- MEMES:END -->
+ - 💣 [Ghost Rider in the making](http://9gag.com/gag/aKGvNWQ)
+ - 😝 [A normal Day in the east](http://9gag.com/gag/aAyKZBZ)
+ - 👉 [Finally, I Found the Original!!!!](http://9gag.com/gag/a0e0W4q)<!-- MEMES:END -->
 
 ---
 

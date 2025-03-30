@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [4 Best Tax Services &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-tax-services/)
+ - [Colon Cancer Explained: Signs, Risks and Prevention Tips You Should Know](https://www.cnet.com/health/medical/colon-cancer-explained-signs-risks-prevention-tips/#ftag=CAD590a51e)
+ - [18 Stellar Sci-Fi TV Shows to Watch on Prime Video Right Now](https://www.cnet.com/tech/services-and-software/prime-video-best-sci-fi-tv-shows-2025/#ftag=CAD590a51e)
  - [Dyna Robotics, which is building AI-powered robots to help businesses automate repetitive tasks like chopping food, emerged from stealth with a $23.5M seed &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/250330/p11#a250330p11)
- - [Bernstein: AI could erode India&#39;s $350B services export sector as AI replaces entry-level engineers at &quot;higher precision and speed&quot; at a fraction of the cost &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/250330/p10#a250330p10)
- - [How Klarna&#39;s Walmart deal ahead of its IPO put long-simmering tensions between Klarna CEO Sebastian Siemiatkowski and Affirm CEO Max Levchin on public display &lpar;Bloomberg&rpar;](http://www.techmeme.com/250330/p9#a250330p9)
- - [Waterloo, Ontario-based logistics software company Descartes Systems Group acquires 3Gtms, an Ohio-based transportation software vendor, for $115M in cash &lpar;Alex Riehl/BetaKit&rpar;](http://www.techmeme.com/250330/p8#a250330p8)<!-- TECH:END -->
+ - [Bernstein: AI could erode India&#39;s $350B services export sector as AI replaces entry-level engineers at &quot;higher precision and speed&quot; at a fraction of the cost &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/250330/p10#a250330p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

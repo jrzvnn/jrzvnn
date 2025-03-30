@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hello ladies](http://9gag.com/gag/axy6ABW)
- - 😝 [Wait for men short ......](http://9gag.com/gag/axy6mOL)
- - 💣 [A normal Day in the east](http://9gag.com/gag/aAyKZBZ)
- - 😝 [I was there 3000yrs ago](http://9gag.com/gag/apR6jg8)
+ - 😝 [Everything? Not yet.](http://9gag.com/gag/a870Vnd)
+ - 😝 [`It does!!!`](http://9gag.com/gag/ae9Z7xp)
+ - 💣 [Interesting](http://9gag.com/gag/azxKDeq)
+ - 😝 [Ghost Rider in the making](http://9gag.com/gag/aKGvNWQ)
  - 👉 [Elllot page watching all the X-Wen actors reprise their roles for Avengers but her.](http://9gag.com/gag/aMVPXVx)<!-- MEMES:END -->
 
 ---

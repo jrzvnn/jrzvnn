@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple donates to relief efforts after Myanmar-Thailand earthquake](https://appleinsider.com/articles/25/03/30/apple-donates-to-relief-efforts-after-myanmar-thailand-earthquake?utm_medium=rss)
  - [Ethereum is struggling to keep the interest of investors and developers, having fallen out of step in an industry transformed by the embrace of Donald Trump &lpar;Bloomberg&rpar;](http://www.techmeme.com/250330/p19#a250330p19)
  - [Work starts on Apple M6 chip with modems for future Macs](https://appleinsider.com/articles/25/03/30/apple-begins-work-on-future-m6-chip-with-modems-for-future-macs?utm_medium=rss)
  - [We Love the Dreame L10s Ultra Robot Vacuum and Mop Combo and It’s Now a Record Low of $300](https://www.cnet.com/tech/we-love-the-dreame-l10s-ultra-robot-vacuum-and-mop-combo-and-its-now-a-record-low-of-300/#ftag=CAD590a51e)
- - [Google announces it is rolling out Gemini 2.5 Pro Experimental to all Gemini users, after initially launching it for Gemini Advanced subscribers on March 25 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250330/p18#a250330p18)
- - [Best Satellite Internet Providers for 2025](https://www.cnet.com/home/internet/best-satellite-internet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google announces it is rolling out Gemini 2.5 Pro Experimental to all Gemini users, after initially launching it for Gemini Advanced subscribers on March 25 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250330/p18#a250330p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

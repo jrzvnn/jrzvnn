@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I was there 3000yrs ago](http://9gag.com/gag/apR6jg8)
+ - 😝 [My fellow souls like game enthusiast... we have good news..](http://9gag.com/gag/a6Z5z5L)
  - 😝 [I will not even be surprised if it turns out true](http://9gag.com/gag/a1m0nDP)
- - 💣 [When a rugby player kicks an American football.](http://9gag.com/gag/a870zPe)
- - 😝 [Incredible how calm everyone was](http://9gag.com/gag/aD28rwB)
- - 👉 [I can feel his pain](http://9gag.com/gag/avy6BYb)<!-- MEMES:END -->
+ - 💣 [Great catwalkers are made...not born](http://9gag.com/gag/aAyK7dd)
+ - 😝 [Outstanding move](http://9gag.com/gag/aAyKLmd)
+ - 👉 [Classic](http://9gag.com/gag/aoyRGWg)<!-- MEMES:END -->
 
 ---
 

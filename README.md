@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I was there 3000yrs ago](http://9gag.com/gag/apR6jg8)
- - 😝 [`It does!!!`](http://9gag.com/gag/ae9Z7xp)
- - 💣 [Ghost Rider in the making](http://9gag.com/gag/aKGvNWQ)
+ - 😝 [Iranian women standing in front of a hijab poster](http://9gag.com/gag/ae9Z7Dq)
+ - 😝 [Make me smile](http://9gag.com/gag/aLn4XrV)
+ - 💣 [`protection bed`](http://9gag.com/gag/a870KPp)
  - 😝 [A normal Day in the east](http://9gag.com/gag/aAyKZBZ)
- - 👉 [Finally, I Found the Original!!!!](http://9gag.com/gag/a0e0W4q)<!-- MEMES:END -->
+ - 👉 [Few people look as flawless as a ghibli characters](http://9gag.com/gag/aGyB7Aw)<!-- MEMES:END -->
 
 ---
 

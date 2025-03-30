@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Absolutely](http://9gag.com/gag/ajPLGzx)
- - 😝 [Women&#39;s](http://9gag.com/gag/a5Qw5oE)
- - 💣 [When a rugby player kicks an American football.](http://9gag.com/gag/a870zPe)
- - 😝 [Elllot page watching all the X-Wen actors reprise their roles for Avengers but her.](http://9gag.com/gag/aMVPXVx)
- - 👉 [Can&#39;t blame the guy](http://9gag.com/gag/a0e0wGZ)<!-- MEMES:END -->
+ - 😝 [Me like now](http://9gag.com/gag/agm7ZEr)
+ - 😝 [A strong female lead](http://9gag.com/gag/aVvK2xd)
+ - 💣 [Sharks eat less than 10 people a year, while Brazilians eat over 300,000 sharks annually. A Brazilian is 300,000 times more dangerous than a shark.](http://9gag.com/gag/a9y5VvD)
+ - 😝 [Friends never grow up](http://9gag.com/gag/aMVPWL6)
+ - 👉 [In their honour](http://9gag.com/gag/aNDQ8mA)<!-- MEMES:END -->
 
 ---
 

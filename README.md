@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dyna Robotics, which is building AI-powered robots to help businesses automate repetitive tasks like chopping food, emerged from stealth with a $23.5M seed &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/250330/p11#a250330p11)
  - [Bernstein: AI could erode India&#39;s $350B services export sector as AI replaces entry-level engineers at &quot;higher precision and speed&quot; at a fraction of the cost &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/250330/p10#a250330p10)
  - [How Klarna&#39;s Walmart deal ahead of its IPO put long-simmering tensions between Klarna CEO Sebastian Siemiatkowski and Affirm CEO Max Levchin on public display &lpar;Bloomberg&rpar;](http://www.techmeme.com/250330/p9#a250330p9)
  - [Waterloo, Ontario-based logistics software company Descartes Systems Group acquires 3Gtms, an Ohio-based transportation software vendor, for $115M in cash &lpar;Alex Riehl/BetaKit&rpar;](http://www.techmeme.com/250330/p8#a250330p8)
- - [NYC-based Navina, which has developed an AI copilot for clinicians, raised a $55M Series C led by Goldman Sachs Alternatives, taking its total funding to $100M &lpar;Emma Beavins/Fierce Healthcare&rpar;](http://www.techmeme.com/250330/p7#a250330p7)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 30, #188](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-30-188/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NYC-based Navina, which has developed an AI copilot for clinicians, raised a $55M Series C led by Goldman Sachs Alternatives, taking its total funding to $100M &lpar;Emma Beavins/Fierce Healthcare&rpar;](http://www.techmeme.com/250330/p7#a250330p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

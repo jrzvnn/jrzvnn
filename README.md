@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sexist ball](http://9gag.com/gag/a1m0EWD)
- - 😝 [When a rugby player kicks an American football.](http://9gag.com/gag/a870zPe)
- - 💣 [A normal Day in the east](http://9gag.com/gag/aAyKZBZ)
- - 😝 [A perfect American wife](http://9gag.com/gag/azxKBGZ)
- - 👉 [`Whyis milk so expensive?`](http://9gag.com/gag/aNDQ3rw)<!-- MEMES:END -->
+ - 😝 [Finally, I Found the Original!!!!](http://9gag.com/gag/a0e0W4q)
+ - 😝 [This should be a game Mechanic.](http://9gag.com/gag/abA4dgb)
+ - 💣 [Check out the accuracy!](http://9gag.com/gag/aMVPDpR)
+ - 😝 [`Whyis milk so expensive?`](http://9gag.com/gag/aNDQ3rw)
+ - 👉 [A perfect American wife](http://9gag.com/gag/azxKBGZ)<!-- MEMES:END -->
 
 ---
 

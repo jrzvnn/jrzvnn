@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Traeger Woodridge Pro Review: Fearless Smoking](https://www.wired.com/review/traeger-woodridge-pro-review/)
  - [Health app&#39;s future AI assistant will tell you how to keep fit](https://appleinsider.com/articles/25/03/30/health-apps-future-ai-assistant-will-tell-you-how-to-keep-fit?utm_medium=rss)
  - [Wahl Peanut Li Review: A Cordless Take on a Classic](https://www.wired.com/review/wahl-peanut-li-review/)
  - [M5 iPad Pro is in testing ahead of a late-2025 release](https://appleinsider.com/articles/25/03/30/m5-ipad-pro-is-in-testing-ahead-of-a-late-2025-release?utm_medium=rss)
- - [Ghosts in the Kinect](https://www.theverge.com/games/638490/microsoft-kinect-ghost-hunting)
- - [As ChatGPT&#39;s Studio Ghibli-style images going viral sparks a debate, AI may not devalue human-created art and may even elevate it by fueling a creation economy &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/250330/p13#a250330p13)<!-- TECH:END -->
+ - [I Saw the AI Future of Video Games: It Starts With a Character Hopping Over a Box](https://www.cnet.com/tech/gaming/i-saw-video-game-ais-future-it-starts-a-character-hopping-over-a-box/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Interesting](http://9gag.com/gag/azxKDeq)
- - 😝 [WOW THAT REALLY HAPPENED](http://9gag.com/gag/aXPVedz)
- - 💣 [5 speeds granny. Fear gave her wings](http://9gag.com/gag/ae9ZWYm)
  - 😝 [Damn!!! Ended his career with to that crossover. Old 9gag memes](http://9gag.com/gag/ae9ZqYB)
- - 👉 [I was there 3000yrs ago](http://9gag.com/gag/apR6jg8)<!-- MEMES:END -->
+ - 💣 [Spray foam](http://9gag.com/gag/a870vLZ)
+ - 😝 [Is brother gonna fold?](http://9gag.com/gag/a2v0AMe)
+ - 👉 [Pulling nails out of a beach bonfire site with a hydraulic scrap magnet.](http://9gag.com/gag/aMVP0rP)<!-- MEMES:END -->
 
 ---
 

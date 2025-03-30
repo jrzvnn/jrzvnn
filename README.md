@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me like now](http://9gag.com/gag/agm7ZEr)
- - 😝 [A strong female lead](http://9gag.com/gag/aVvK2xd)
- - 💣 [Sharks eat less than 10 people a year, while Brazilians eat over 300,000 sharks annually. A Brazilian is 300,000 times more dangerous than a shark.](http://9gag.com/gag/a9y5VvD)
- - 😝 [Friends never grow up](http://9gag.com/gag/aMVPWL6)
- - 👉 [In their honour](http://9gag.com/gag/aNDQ8mA)<!-- MEMES:END -->
+ - 😝 [Elllot page watching all the X-Wen actors reprise their roles for Avengers but her.](http://9gag.com/gag/aMVPXVx)
+ - 😝 [History fact](http://9gag.com/gag/aE0AZ2n)
+ - 💣 [Incredible how calm everyone was](http://9gag.com/gag/aD28rwB)
+ - 😝 [Iranian women standing in front of a hijab poster](http://9gag.com/gag/ae9Z7Dq)
+ - 👉 [His wives are all damn hot in most of his movies](http://9gag.com/gag/apR6jMB)<!-- MEMES:END -->
 
 ---
 

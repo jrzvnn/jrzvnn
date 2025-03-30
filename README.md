@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [How Klarna&#39;s Walmart deal ahead of its IPO put long-simmering tensions between Klarna CEO Sebastian Siemiatkowski and Affirm CEO Max Levchin on public display &lpar;Bloomberg&rpar;](http://www.techmeme.com/250330/p9#a250330p9)
  - [Waterloo, Ontario-based logistics software company Descartes Systems Group acquires 3Gtms, an Ohio-based transportation software vendor, for $115M in cash &lpar;Alex Riehl/BetaKit&rpar;](http://www.techmeme.com/250330/p8#a250330p8)
  - [NYC-based Navina, which has developed an AI copilot for clinicians, raised a $55M Series C led by Goldman Sachs Alternatives, taking its total funding to $100M &lpar;Emma Beavins/Fierce Healthcare&rpar;](http://www.techmeme.com/250330/p7#a250330p7)
- - [PE firm Clearlake agrees to acquire and take private Dun &amp; Bradstreet, one of Wall Street&#39;s oldest data and analytics providers, for $7.7B including debt &lpar;Ryan Gould/Bloomberg&rpar;](http://www.techmeme.com/250330/p6#a250330p6)
- - [Marketing executives say big brands are allocating small amounts of their ad budget to X, seeking to avoid being perceived as boycotting Elon Musk&#39;s platform &lpar;Financial Times&rpar;](http://www.techmeme.com/250330/p5#a250330p5)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for March 30, #188](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-march-30-188/#ftag=CAD590a51e)
+ - [PE firm Clearlake agrees to acquire and take private Dun &amp; Bradstreet, one of Wall Street&#39;s oldest data and analytics providers, for $7.7B including debt &lpar;Ryan Gould/Bloomberg&rpar;](http://www.techmeme.com/250330/p6#a250330p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

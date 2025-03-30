@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When a rugby player kicks an American football.](http://9gag.com/gag/a870zPe)
- - 😝 [WOW THAT REALLY HAPPENED](http://9gag.com/gag/aXPVedz)
- - 💣 [`Whyis milk so expensive?`](http://9gag.com/gag/aNDQ3rw)
- - 😝 [I was there 3000yrs ago](http://9gag.com/gag/apR6jg8)
- - 👉 [Finally, I Found the Original!!!!](http://9gag.com/gag/a0e0W4q)<!-- MEMES:END -->
+ - 😝 [America is such a surreal place](http://9gag.com/gag/aRBM8Xj)
+ - 😝 [This should be a game Mechanic.](http://9gag.com/gag/abA4dgb)
+ - 💣 [I was there 3000yrs ago](http://9gag.com/gag/apR6jg8)
+ - 😝 [Few people look as flawless as a ghibli characters](http://9gag.com/gag/aGyB7Aw)
+ - 👉 [Check out the accuracy!](http://9gag.com/gag/aMVPDpR)<!-- MEMES:END -->
 
 ---
 

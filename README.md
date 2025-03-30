@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Damn Mom](http://9gag.com/gag/a9y5V8o)
- - 😝 [Sheriffs showing the reporters rap sheet of the criminal after reporters kept defending the bad guy](http://9gag.com/gag/aGyBr07)
- - 💣 [That&#39;s why you gotta use your knees.](http://9gag.com/gag/ayN6VVM)
- - 😝 [It gets better ...](http://9gag.com/gag/apR6n1b)
- - 👉 [Xena\u2026man i was in love](http://9gag.com/gag/aVvK4mP)<!-- MEMES:END -->
+ - 😝 [Can\u2019t believe we had this in the 60\u2019s. Scary to Imagine what they have now](http://9gag.com/gag/aGyBbm0)
+ - 😝 [Surprise butt kick](http://9gag.com/gag/aKGvn23)
+ - 💣 [Finally, I Found the Original!!!!](http://9gag.com/gag/a0e0W4q)
+ - 😝 [America is such a surreal place](http://9gag.com/gag/aRBM8Xj)
+ - 👉 [Check out the accuracy!](http://9gag.com/gag/aMVPDpR)<!-- MEMES:END -->
 
 ---
 

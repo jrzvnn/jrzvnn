@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [40 years of service employee gets a classic Corvette](http://9gag.com/gag/a5QwvPg)
- - 😝 [Finally, I Found the Original!!!!](http://9gag.com/gag/a0e0W4q)
- - 💣 [Incredible how calm everyone was](http://9gag.com/gag/aD28rwB)
- - 😝 [Iranian women standing in front of a hijab poster](http://9gag.com/gag/ae9Z7Dq)
- - 👉 [A normal Day in the east](http://9gag.com/gag/aAyKZBZ)<!-- MEMES:END -->
+ - 😝 [When a rugby player kicks an American football.](http://9gag.com/gag/a870zPe)
+ - 😝 [WOW THAT REALLY HAPPENED](http://9gag.com/gag/aXPVedz)
+ - 💣 [`Whyis milk so expensive?`](http://9gag.com/gag/aNDQ3rw)
+ - 😝 [I was there 3000yrs ago](http://9gag.com/gag/apR6jg8)
+ - 👉 [Finally, I Found the Original!!!!](http://9gag.com/gag/a0e0W4q)<!-- MEMES:END -->
 
 ---
 

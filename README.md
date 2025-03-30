@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You saw it here first](http://9gag.com/gag/a870VBY)
- - 😝 [Check out the accuracy!](http://9gag.com/gag/aMVPDpR)
- - 💣 [Interesting](http://9gag.com/gag/azxKDeq)
- - 😝 [When a rugby player kicks an American football.](http://9gag.com/gag/a870zPe)
+ - 😝 [I was there 3000yrs ago](http://9gag.com/gag/apR6jg8)
+ - 😝 [I will not even be surprised if it turns out true](http://9gag.com/gag/a1m0nDP)
+ - 💣 [When a rugby player kicks an American football.](http://9gag.com/gag/a870zPe)
+ - 😝 [Incredible how calm everyone was](http://9gag.com/gag/aD28rwB)
  - 👉 [I can feel his pain](http://9gag.com/gag/avy6BYb)<!-- MEMES:END -->
 
 ---

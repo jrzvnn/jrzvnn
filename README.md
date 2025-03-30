@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The 50 best Amazon Big Spring Sale deals under $100](https://www.theverge.com/tech/638402/amazon-big-spring-sale-2025-best-deals-under-100-tech-gift-ideas)
  - [Straiker, which develops tech for securing enterprise AI applications, emerges from stealth with a $21M Series A from Lightspeed and Bain Capital &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250330/p16#a250330p16)
  - [Amazon’s big spring sale continues, and we found the 101 best deals](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
- - [No redesign expected for 2025&#39;s M5 MacBook Pro](https://appleinsider.com/articles/25/03/30/no-redesign-expected-for-2025s-m5-macbook-pro?utm_medium=rss)
- - [Sources: Apple is working on a major Health app revamp and an AI doctor service, planned for H1 2026, and M5 updates for the iPad Pro and MacBook Pro this year &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250330/p15#a250330p15)<!-- TECH:END -->
+ - [No redesign expected for 2025 M5 MacBook Pro](https://appleinsider.com/articles/25/03/30/no-redesign-expected-for-2025s-m5-macbook-pro?utm_medium=rss)
+ - [We Tested the DreamCloud Mattress: Could It Be the Best Budget Luxury Bed in 2025?](https://www.cnet.com/health/sleep/dreamcloud-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

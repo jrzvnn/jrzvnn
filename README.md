@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple begins work on future M6 chip with modems for future Macs](https://appleinsider.com/articles/25/03/30/apple-begins-work-on-future-m6-chip-with-modems-for-future-macs?utm_medium=rss)
+ - [We Love the Dreame L10s Ultra Robot Vacuum and Mop Combo and It’s Now a Record Low of $300](https://www.cnet.com/tech/we-love-the-dreame-l10s-ultra-robot-vacuum-and-mop-combo-and-its-now-a-record-low-of-300/#ftag=CAD590a51e)
  - [Google announces it is rolling out Gemini 2.5 Pro Experimental to all Gemini users, after initially launching it for Gemini Advanced subscribers on March 25 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250330/p18#a250330p18)
  - [Best Satellite Internet Providers for 2025](https://www.cnet.com/home/internet/best-satellite-internet/#ftag=CAD590a51e)
- - [A look at the RainbowEx crypto Ponzi scheme, which ensnared 16,000 people in San Pedro, Argentina; different versions of the scam have emerged around the world &lpar;New York Times&rpar;](http://www.techmeme.com/250330/p17#a250330p17)
- - [Act Fast to Score a New Dyson, iRobot, Eufy and Other Vacuums for Up to a Massive 60% Off at Woot](https://www.cnet.com/tech/act-fast-to-score-a-new-dyson-irobot-eufy-ecovacs-and-other-vacuums-for-up-to-a-massive-60-off-at-woot/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the RainbowEx crypto Ponzi scheme, which ensnared 16,000 people in San Pedro, Argentina; different versions of the scam have emerged around the world &lpar;New York Times&rpar;](http://www.techmeme.com/250330/p17#a250330p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

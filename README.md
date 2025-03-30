@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Incredible how calm everyone was](http://9gag.com/gag/aD28rwB)
- - 😝 [Outjerked by Brave Browser. Brave...IN!](http://9gag.com/gag/aRBM2VQ)
- - 💣 [I was there 3000yrs ago](http://9gag.com/gag/apR6jg8)
+ - 😝 [Sharp shooter](http://9gag.com/gag/aXPV2gb)
+ - 😝 [Elllot page watching all the X-Wen actors reprise their roles for Avengers but her.](http://9gag.com/gag/aMVPXVx)
+ - 💣 [A perfect American wife](http://9gag.com/gag/azxKBGZ)
  - 😝 [`It does!!!`](http://9gag.com/gag/ae9Z7xp)
- - 👉 [A normal Day in the east](http://9gag.com/gag/aAyKZBZ)<!-- MEMES:END -->
+ - 👉 [Few people look as flawless as a ghibli characters](http://9gag.com/gag/aGyB7Aw)<!-- MEMES:END -->
 
 ---
 

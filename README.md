@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When a rugby player kicks an American football.](http://9gag.com/gag/a870zPe)
- - 😝 [WOW THAT REALLY HAPPENED](http://9gag.com/gag/aXPVedz)
+ - 😝 [Everything? Not yet.](http://9gag.com/gag/a870Vnd)
+ - 😝 [Spray foam](http://9gag.com/gag/a870vLZ)
  - 💣 [I was there 3000yrs ago](http://9gag.com/gag/apR6jg8)
- - 😝 [Finally, I Found the Original!!!!](http://9gag.com/gag/a0e0W4q)
- - 👉 [Check out the accuracy!](http://9gag.com/gag/aMVPDpR)<!-- MEMES:END -->
+ - 😝 [Surprise butt kick](http://9gag.com/gag/aKGvn23)
+ - 👉 [A perfect American wife](http://9gag.com/gag/azxKBGZ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PE firm Clearlake agrees to acquire and take private Dun &amp; Bradstreet, one of Wall Street&#39;s oldest data and analytics providers, for $7.7B including debt &lpar;Ryan Gould/Bloomberg&rpar;](http://www.techmeme.com/250330/p6#a250330p6)
  - [Marketing executives say big brands are allocating small amounts of their ad budget to X, seeking to avoid being perceived as boycotting Elon Musk&#39;s platform &lpar;Financial Times&rpar;](http://www.techmeme.com/250330/p5#a250330p5)
  - [Prolific fintech VC and QED Investors co-founder Frank Rotman says he will become partner emeritus by the end of 2025 and focus on launching his own startups &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250330/p4#a250330p4)
  - [Chinese chip equipment manufacturer SiCarrier debuted ~30 &quot;domestically controllable&quot; products at the Semicon China show, as China pushes for chip self-reliance &lpar;Wency Chen/South China Morning Post&rpar;](http://www.techmeme.com/250330/p3#a250330p3)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, March 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-march-30/#ftag=CAD590a51e)
- - [Fleetio, which develops vehicle fleet management software, raised a $450M+ Series D and acquired Auto Integrate in a deal valuing the combined entity at $1.5B+ &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/250330/p2#a250330p2)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, March 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-march-30/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

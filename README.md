@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Surprise butt kick](http://9gag.com/gag/aKGvn23)
+ - 😝 [Interesting](http://9gag.com/gag/azxKDeq)
  - 😝 [WOW THAT REALLY HAPPENED](http://9gag.com/gag/aXPVedz)
- - 💣 [When a rugby player kicks an American football.](http://9gag.com/gag/a870zPe)
- - 😝 [His wives are all damn hot in most of his movies](http://9gag.com/gag/apR6jMB)
- - 👉 [Pulling nails out of a beach bonfire site with a hydraulic scrap magnet.](http://9gag.com/gag/aMVP0rP)<!-- MEMES:END -->
+ - 💣 [5 speeds granny. Fear gave her wings](http://9gag.com/gag/ae9ZWYm)
+ - 😝 [Damn!!! Ended his career with to that crossover. Old 9gag memes](http://9gag.com/gag/ae9ZqYB)
+ - 👉 [I was there 3000yrs ago](http://9gag.com/gag/apR6jg8)<!-- MEMES:END -->
 
 ---
 

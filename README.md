@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A normal Day in the east](http://9gag.com/gag/aAyKZBZ)
- - 😝 [When a rugby player kicks an American football.](http://9gag.com/gag/a870zPe)
- - 💣 [Spray foam](http://9gag.com/gag/a870vLZ)
- - 😝 [Pulling nails out of a beach bonfire site with a hydraulic scrap magnet.](http://9gag.com/gag/aMVP0rP)
- - 👉 [Surprise butt kick](http://9gag.com/gag/aKGvn23)<!-- MEMES:END -->
+ - 😝 [Damn!!! Ended his career with to that crossover. Old 9gag memes](http://9gag.com/gag/ae9ZqYB)
+ - 😝 [WOW THAT REALLY HAPPENED](http://9gag.com/gag/aXPVedz)
+ - 💣 [Finally, I Found the Original!!!!](http://9gag.com/gag/a0e0W4q)
+ - 😝 [Surprise butt kick](http://9gag.com/gag/aKGvn23)
+ - 👉 [Tis but a scratch](http://9gag.com/gag/adBQ44d)<!-- MEMES:END -->
 
 ---
 

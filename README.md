@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [America is such a surreal place](http://9gag.com/gag/aRBM8Xj)
- - 😝 [This should be a game Mechanic.](http://9gag.com/gag/abA4dgb)
- - 💣 [I was there 3000yrs ago](http://9gag.com/gag/apR6jg8)
- - 😝 [Few people look as flawless as a ghibli characters](http://9gag.com/gag/aGyB7Aw)
- - 👉 [Check out the accuracy!](http://9gag.com/gag/aMVPDpR)<!-- MEMES:END -->
+ - 😝 [In their honour](http://9gag.com/gag/aNDQ8mA)
+ - 😝 [Friends never grow up](http://9gag.com/gag/aMVPWL6)
+ - 💣 [Sheriffs showing the reporters rap sheet of the criminal after reporters kept defending the bad guy](http://9gag.com/gag/aGyBr07)
+ - 😝 [Damn Mom](http://9gag.com/gag/a9y5V8o)
+ - 👉 [That&#39;s why you gotta use your knees.](http://9gag.com/gag/ayN6VVM)<!-- MEMES:END -->
 
 ---
 

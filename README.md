@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If the keyboard button was a person](http://9gag.com/gag/a5QwAGq)
- - 😝 [Outstanding move](http://9gag.com/gag/aAyKLmd)
- - 💣 [I will not even be surprised if it turns out true](http://9gag.com/gag/a1m0nDP)
- - 😝 [Did he say Thank You once?](http://9gag.com/gag/aByVM4Z)
- - 👉 [My fellow souls like game enthusiast... we have good news..](http://9gag.com/gag/a6Z5z5L)<!-- MEMES:END -->
+ - 😝 [Spray foam](http://9gag.com/gag/a870vLZ)
+ - 😝 [Right answers only](http://9gag.com/gag/awy1G4r)
+ - 💣 [Frustration](http://9gag.com/gag/aYQD6Lv)
+ - 😝 [Bro lives in the backrooms](http://9gag.com/gag/aByVzQA)
+ - 👉 [Well... We all know who is he.](http://9gag.com/gag/agm7b0v)<!-- MEMES:END -->
 
 ---
 

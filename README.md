@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s AGI Lab Reveals Its First Work: Advanced AI Agents](https://www.wired.com/story/amazon-ai-agents-nova-web-browsing/)
- - [The 50 best things Microsoft has ever made](https://www.theverge.com/microsoft/636951/microsoft-50-best-products-anniversary)
- - [The Verge’s favorite stuff with style](https://www.theverge.com/tech/637800/favorites-style-ikea-seiko-nest)
- - [How the Trump family took over World Liberty Financial, which raised $550M+ via governance tokens; the family has a claim on 75% of net revenues of token sales &lpar;Reuters&rpar;](http://www.techmeme.com/250331/p20#a250331p20)
- - [I’m still testing the new Razer Blade 16, and I have mixed feelings](https://www.theverge.com/tech/638930/razer-blade-16-2025-rtx-5090-gaming-laptop-impressions-price)<!-- TECH:END -->
+ - [AirPods Pro hearing aid feature took six years to develop](https://appleinsider.com/articles/25/03/31/airpods-pro-hearing-aid-feature-took-six-years-to-develop?utm_medium=rss)
+ - [Hue doorbell leaks, Matter 1.5 rumored devices, and the first Matter smoke detector on HomeKit Insider](https://appleinsider.com/articles/25/03/31/hue-doorbell-leaks-matter-15-rumored-devices-and-the-first-matter-smoke-detector-on-homekit-insider?utm_medium=rss)
+ - [Amazon&#39;s AGI Lab unveils Nova Act, a general purpose AI agent to control a web browser and independently perform some simple actions, and a Nova Act SDK &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250331/p21#a250331p21)
+ - [TikTok, tariffs, and trials: everything happening in tech’s chaotic April](https://www.theverge.com/policy/638779/tariffs-tiktok-ban-meta-google-antitrust-trial-april-trump)
+ - [Amazon&#39;s AGI Lab Reveals Its First Work: Advanced AI Agents](https://www.wired.com/story/amazon-ai-agents-nova-web-browsing/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

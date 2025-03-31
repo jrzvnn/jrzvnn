@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Opening a 72-year-old tin of survival cookies and crackers from a fallout shelter](http://9gag.com/gag/a4PNgNZ)
- - 😝 [His wives are all damn hot in most of his movies](http://9gag.com/gag/apR6jMB)
- - 💣 [Is brother gonna fold?](http://9gag.com/gag/a2v0AMe)
- - 😝 [What was he thinking?!](http://9gag.com/gag/aAyKL7L)
- - 👉 [These were the times](http://9gag.com/gag/aD28Lwd)<!-- MEMES:END -->
+ - 😝 [Magic and Crime](http://9gag.com/gag/aByVN5Z)
+ - 😝 [Soccer](http://9gag.com/gag/aPAo0VG)
+ - 💣 [Opening a 72-year-old tin of survival cookies and crackers from a fallout shelter](http://9gag.com/gag/a4PNgNZ)
+ - 😝 [Hand egg](http://9gag.com/gag/aRBMWZB)
+ - 👉 [Is brother gonna fold?](http://9gag.com/gag/a2v0AMe)<!-- MEMES:END -->
 
 ---
 

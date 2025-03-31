@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CEO Matt Bromberg on ending Unity’s ‘war’ against its customers](https://www.theverge.com/decoder-podcast-with-nilay-patel/639509/unity-matt-bromberg-runtime-fee-interview)
+ - [Coyote vs. Acme is getting its day in theaters](https://www.theverge.com/news/632742/coyote-v-acme-ketchup-entertainment-theatrical-release)
  - [The 1TB Xbox Series X expansion card is back down to its lowest price ever](https://www.theverge.com/tech/639546/xbox-expansion-card-1tb-anker-battery-amazon-deal-sale)
  - [31 Best Mac Apps You Should Download Now &lpar;2025&rpar;: Free and Paid](https://www.wired.com/story/best-mac-apps/)
- - [Seattle-based Temporal, an open-source microservices orchestration service, raised a $146M Series C led by Tiger Global at a $1.72B post-money valuation &lpar;TechCrunch&rpar;](http://www.techmeme.com/250331/p25#a250331p25)
- - [Apple fined $162 million for hurting app developers with ‘excessively complex’ privacy options](https://www.theverge.com/news/639583/apple-fine-app-tracking-transpareny-france)
- - [Cerebras says it has resolved &quot;all open issues&quot; with the CFIUS, as it prepares for an IPO; the AI startup filed a notice about its ties to Abu Dhabi&#39;s G42 &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250331/p24#a250331p24)<!-- TECH:END -->
+ - [Seattle-based Temporal, an open-source microservices orchestration service, raised a $146M Series C led by Tiger Global at a $1.72B post-money valuation &lpar;TechCrunch&rpar;](http://www.techmeme.com/250331/p25#a250331p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Eric and Donald Trump Jr.&#39;s American Data Centers plans to merge with Hut 8&#39;s American Bitcoin and take a 20% stake, aiming to create the world&#39;s largest miner &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/250331/p17#a250331p17)
  - [TSMC says its Kaohsiung plant in Taiwan is set to begin 2nm wafer volume production in H2 2025, reaffirming its commitment to Taiwan during its US expansion &lpar;Reuters&rpar;](http://www.techmeme.com/250331/p16#a250331p16)
  - [Trump’s Trade War Pushes Canadian Tech Workers to Rethink Silicon Valley](https://www.wired.com/story/canada-startups-silicon-valley-trump-annexation/)
  - [Nokia and Amazon settle a long-running, global patent dispute over Amazon using Nokia&#39;s video tech in Prime Video and its devices, without disclosing the terms &lpar;Karin Matussek/Bloomberg&rpar;](http://www.techmeme.com/250331/p15#a250331p15)
- - [An interview with White House OSTP Director Michael Kratsios, a Peter Thiel protégé confirmed by the Senate on March 25, on US plans to counter Beijing on AI &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/250331/p14#a250331p14)
- - [14 of the Best Sci-Fi Movies You Can Watch on Prime Video Right Now](https://www.cnet.com/tech/services-and-software/best-sci-fi-movies-on-prime-video-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An interview with White House OSTP Director Michael Kratsios, a Peter Thiel protégé confirmed by the Senate on March 25, on US plans to counter Beijing on AI &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/250331/p14#a250331p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

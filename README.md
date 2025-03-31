@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Opening a 72-year-old tin of survival cookies and crackers from a fallout shelter](http://9gag.com/gag/a4PNgNZ)
  - 😝 [Bro lives in the backrooms](http://9gag.com/gag/aByVzQA)
- - 😝 [Magic and Crime](http://9gag.com/gag/aByVN5Z)
- - 💣 [Even Joker was shocked](http://9gag.com/gag/aPAo0Yn)
- - 😝 [Well... We all know who is he.](http://9gag.com/gag/agm7b0v)
- - 👉 [Graphic design is over. Sorry but there&#39;s no turning back now.](http://9gag.com/gag/avy6Vyn)<!-- MEMES:END -->
+ - 💣 [Soccer](http://9gag.com/gag/aPAo0VG)
+ - 😝 [Is brother gonna fold?](http://9gag.com/gag/a2v0AMe)
+ - 👉 [Right answers only](http://9gag.com/gag/awy1G4r)<!-- MEMES:END -->
 
 ---
 

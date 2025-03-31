@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Magic and Crime](http://9gag.com/gag/aByVN5Z)
- - 😝 [Soccer](http://9gag.com/gag/aPAo0VG)
- - 💣 [Opening a 72-year-old tin of survival cookies and crackers from a fallout shelter](http://9gag.com/gag/a4PNgNZ)
+ - 😝 [Frustration](http://9gag.com/gag/aYQD6Lv)
  - 😝 [Hand egg](http://9gag.com/gag/aRBMWZB)
- - 👉 [Is brother gonna fold?](http://9gag.com/gag/a2v0AMe)<!-- MEMES:END -->
+ - 💣 [Better snow white](http://9gag.com/gag/avy6BvZ)
+ - 😝 [It&#39;s beautiful](http://9gag.com/gag/aVvKrnP)
+ - 👉 [I am this old](http://9gag.com/gag/aoyRoxx)<!-- MEMES:END -->
 
 ---
 

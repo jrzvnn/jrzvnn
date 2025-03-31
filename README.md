@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Eric and Donald Trump Jr.&#39;s American Data Centers plans to merge with Hut 8&#39;s American Bitcoin and take a 20% stake, aiming to create the world&#39;s largest miner &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/250331/p17#a250331p17)
- - [TSMC says its Kaohsiung plant in Taiwan is set to begin 2nm wafer volume production in H2 2025, reaffirming its commitment to Taiwan during its US expansion &lpar;Reuters&rpar;](http://www.techmeme.com/250331/p16#a250331p16)
- - [Trump’s Trade War Pushes Canadian Tech Workers to Rethink Silicon Valley](https://www.wired.com/story/canada-startups-silicon-valley-trump-annexation/)
- - [Nokia and Amazon settle a long-running, global patent dispute over Amazon using Nokia&#39;s video tech in Prime Video and its devices, without disclosing the terms &lpar;Karin Matussek/Bloomberg&rpar;](http://www.techmeme.com/250331/p15#a250331p15)
- - [An interview with White House OSTP Director Michael Kratsios, a Peter Thiel protégé confirmed by the Senate on March 25, on US plans to counter Beijing on AI &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/250331/p14#a250331p14)<!-- TECH:END -->
+ - [Isomorphic Labs, a DeepMind spinoff focusing on drug discovery, raised $600M led by Thrive to research treatments, including for cancer and immune disorders &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/250331/p18#a250331p18)
+ - [France fines Apple over App Tracking Transparency, but doesn&#39;t order changes](https://appleinsider.com/articles/25/03/31/france-fines-apple-over-app-tracking-transparency-but-doesnt-order-changes?utm_medium=rss)
+ - [ChatGPT’s Projects Feature Brings Order to Your AI Chaos](https://www.wired.com/story/how-to-use-chatgpt-projects/)
+ - [The Bluetooth Lady Speaks! ‘Voice-Over Actors Will Be Artisans in the AI Age’](https://www.wired.com/story/the-bluetooth-lady-speaks-voiceover-actors-will-be-artisans-in-the-ai-age/)
+ - [Nintendo has moved beyond specs](https://www.theverge.com/games/638542/nintendo-switch-2-specs-details-relevance)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

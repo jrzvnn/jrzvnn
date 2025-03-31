@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Don&#39;t forget, they can vote and have kids](http://9gag.com/gag/a4PN8zm)
- - 😝 [Nice sis](http://9gag.com/gag/aRBM8eA)
- - 💣 [Buttoning up your boots](http://9gag.com/gag/aGyBvLz)
+ - 😝 [Opening a 72-year-old tin of survival cookies and crackers from a fallout shelter](http://9gag.com/gag/a4PNgNZ)
+ - 💣 [The ones will understand](http://9gag.com/gag/a340Dy1)
  - 😝 [Osama Bin Laden at Oxford in 1971. He is approximately 14 in this image.](http://9gag.com/gag/a340DQv)
- - 👉 [Even in dogs there are levels](http://9gag.com/gag/aVvKrQK)<!-- MEMES:END -->
+ - 👉 [Bro lives in the backrooms](http://9gag.com/gag/aByVzQA)<!-- MEMES:END -->
 
 ---
 

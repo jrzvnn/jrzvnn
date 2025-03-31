@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [This is how strong Squid&#39;s Ink is in stability and pigment intensity after a week](http://9gag.com/gag/aMVP7yG)
- - 😝 [America is such a surreal place](http://9gag.com/gag/aRBM8Xj)
- - 💣 [I love this game](http://9gag.com/gag/aNDQM5w)
- - 😝 [POV: Your mall is about to go out of business.](http://9gag.com/gag/aD285mx)
- - 👉 [The ones will understand](http://9gag.com/gag/a340Dy1)<!-- MEMES:END -->
+ - 😝 [Hulk Hogan and his new wife film their reaction to his ex-wife&#39;s `pain &amp; loneliness` &lpar;he divorced her for cheating with his son&#39;s best friend&rpar;.](http://9gag.com/gag/a0e0qYB)
+ - 💣 [2 types of 30+ men](http://9gag.com/gag/ae9Zzzq)
+ - 😝 [The ones will understand](http://9gag.com/gag/a340Dy1)
+ - 👉 [Opening a 72-year-old tin of survival cookies and crackers from a fallout shelter](http://9gag.com/gag/a4PNgNZ)<!-- MEMES:END -->
 
 ---
 

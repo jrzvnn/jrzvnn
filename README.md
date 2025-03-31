@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spray foam](http://9gag.com/gag/a870vLZ)
- - 😝 [Even Joker was shocked](http://9gag.com/gag/aPAo0Yn)
- - 💣 [Don&#39;t forget, they can vote and have kids](http://9gag.com/gag/a4PN8zm)
- - 😝 [Pulling nails out of a beach bonfire site with a hydraulic scrap magnet.](http://9gag.com/gag/aMVP0rP)
- - 👉 [AI Turns Memes Into Studio Ghibli Style](http://9gag.com/gag/azxKy9B)<!-- MEMES:END -->
+ - 😝 [If the keyboard button was a person](http://9gag.com/gag/a5QwAGq)
+ - 😝 [Outstanding move](http://9gag.com/gag/aAyKLmd)
+ - 💣 [I will not even be surprised if it turns out true](http://9gag.com/gag/a1m0nDP)
+ - 😝 [Did he say Thank You once?](http://9gag.com/gag/aByVM4Z)
+ - 👉 [My fellow souls like game enthusiast... we have good news..](http://9gag.com/gag/a6Z5z5L)<!-- MEMES:END -->
 
 ---
 

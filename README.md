@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An AI Image Generator’s Exposed Database Reveals What People Really Used It For](https://www.wired.com/story/genomis-ai-image-database-exposed/)
+ - [Galaxy Z Flip 7 FE looks just like last year’s flagship](https://www.theverge.com/news/639429/samsung-galaxy-z-flip-7-fe-leaks-renders-design-cover-screen)
+ - [PumpSwap, a new DEX launched by Pump.fun&#39;s creators, processed $2.43B in cumulative trading volume after just 10 days, shaking up the Solana DEX ecosystem &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/250331/p13#a250331p13)
  - [Startup Founder Claims Elon Musk Is Stealing the Name ‘Grok’](https://www.wired.com/story/grok-trademark-dispute-name/)
- - [Nasdaq-listed Chinese self-driving company WeRide, which reported a ~$260M loss in 2023 and a ~$344M loss in 2024, warns profitability is &quot;difficult to predict&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250331/p12#a250331p12)
- - [Huawei reports FY 2024 revenue up 22.4% YoY to ~$118.2B, near its ~$123B record in 2020, net profit down 28% YoY to ~$8.63B, and R&amp;D spend rising to ~$25B &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250331/p11#a250331p11)
- - [Memecoins attempting to profit from a man&#39;s suicide highlight Pump.fun&#39;s extreme lack of boundaries; one of the memecoins soared past $2M in total value &lpar;Kevin T. Dugan/Wall Street Journal&rpar;](http://www.techmeme.com/250331/p10#a250331p10)
- - [France&#39;s antitrust regulator fines Apple €150M after a lengthy investigation into how iOS asks to collect user data under ATT and the impact on advertisers &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/250331/p9#a250331p9)<!-- TECH:END -->
+ - [Nasdaq-listed Chinese self-driving company WeRide, which reported a ~$260M loss in 2023 and a ~$344M loss in 2024, warns profitability is &quot;difficult to predict&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250331/p12#a250331p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

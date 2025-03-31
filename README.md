@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The space race heats up: all the news on the latest rocket launches](https://www.theverge.com/news/637438/space-race-rocket-launches-news)
  - [We found 50 deals you can still get from Amazon’s spring sale for $100 or less](https://www.theverge.com/tech/638402/amazon-big-spring-sale-2025-best-deals-under-100-tech-gift-ideas)
  - [OpenAI closes a $40B funding round, the most ever raised by a private tech company, at a $300B post-money valuation; SoftBank led the round with $30B &lpar;CNBC&rpar;](http://www.techmeme.com/250331/p39#a250331p39)
  - [Switch 2 Nintendo Direct Updates: Rumors and How to Watch](https://www.cnet.com/tech/gaming/switch-2-nintendo-direct-updates-rumors-and-how-to-watch/#ftag=CAD590a51e)
- - [This Is How TAG Heuer Revamped Its Iconic F1 Watch](https://www.wired.com/story/this-is-how-tag-heuer-revamped-its-iconic-f1-2025-watch/)
- - [8 iPhone Battery Tips to Keep It Powered All Day](https://www.cnet.com/tech/mobile/8-iphone-battery-tips-to-keep-it-powered-all-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This Is How TAG Heuer Revamped Its Iconic F1 Watch](https://www.wired.com/story/this-is-how-tag-heuer-revamped-its-iconic-f1-2025-watch/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

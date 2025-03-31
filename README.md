@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spray foam](http://9gag.com/gag/a870vLZ)
- - 😝 [Can\u2019t believe we had this in the 60\u2019s. Scary to Imagine what they have now](http://9gag.com/gag/aGyBbm0)
+ - 😝 [Well... We all know who is he.](http://9gag.com/gag/agm7b0v)
+ - 😝 [Pulling nails out of a beach bonfire site with a hydraulic scrap magnet.](http://9gag.com/gag/aMVP0rP)
  - 💣 [Magic and Crime](http://9gag.com/gag/aByVN5Z)
- - 😝 [The ones will understand](http://9gag.com/gag/a340Dy1)
- - 👉 [His wives are all damn hot in most of his movies](http://9gag.com/gag/apR6jMB)<!-- MEMES:END -->
+ - 😝 [Spray foam](http://9gag.com/gag/a870vLZ)
+ - 👉 [Check out the accuracy!](http://9gag.com/gag/aMVPDpR)<!-- MEMES:END -->
 
 ---
 

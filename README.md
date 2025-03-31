@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Buttoning up your boots](http://9gag.com/gag/aGyBvLz)
- - 😝 [Have you ever heard of firesnow?](http://9gag.com/gag/aAyKA4R)
- - 💣 [Opening a 72-year-old tin of survival cookies and crackers from a fallout shelter](http://9gag.com/gag/a4PNgNZ)
- - 😝 [These were the times](http://9gag.com/gag/aD28Lwd)
+ - 😝 [Hulk Hogan and his new wife film their reaction to his ex-wife&#39;s `pain &amp; loneliness` &lpar;he divorced her for cheating with his son&#39;s best friend&rpar;.](http://9gag.com/gag/a0e0qYB)
+ - 😝 [The ones will understand](http://9gag.com/gag/a340Dy1)
+ - 💣 [Buttoning up your boots](http://9gag.com/gag/aGyBvLz)
+ - 😝 [Opening a 72-year-old tin of survival cookies and crackers from a fallout shelter](http://9gag.com/gag/a4PNgNZ)
  - 👉 [Even Joker was shocked](http://9gag.com/gag/aPAo0Yn)<!-- MEMES:END -->
 
 ---

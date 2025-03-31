@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft expands Copilot+ PC features like Live Captions and Cocreator, previously exclusive to models with Snapdragon chips, to models with AMD or Intel chips &lpar;Sean Endicott/Windows Central&rpar;](http://www.techmeme.com/250331/p43#a250331p43)
  - [At the Intel Vision conference, CEO Lip-Bu Tan says Intel plans to spin off non-core assets, create new products including custom semiconductors, and more &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250331/p42#a250331p42)
  - [OpenAI just raised another $40 billion round led by SoftBank](https://www.theverge.com/news/640259/openai-40-billion-softbank-investment)
  - [Source: SoftBank will invest an initial $7.5B in OpenAI&#39;s $40B round, plus $22.5B by 2025&#39;s end; other backers include Microsoft, Coatue, Altimeter, and Thrive &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250331/p41#a250331p41)
- - [Trump signs an EO to establish an office within the Commerce Department to facilitate investments above $1B in the US and administer funds from the CHIPS Act &lpar;Bloomberg&rpar;](http://www.techmeme.com/250331/p40#a250331p40)
- - [The 101 best last-minute deals from Amazon’s Big Spring Sale](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)<!-- TECH:END -->
+ - [Trump signs an EO to establish an office within the Commerce Department to facilitate investments above $1B in the US and administer funds from the CHIPS Act &lpar;Bloomberg&rpar;](http://www.techmeme.com/250331/p40#a250331p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spray foam](http://9gag.com/gag/a870vLZ)
- - 😝 [Right answers only](http://9gag.com/gag/awy1G4r)
- - 💣 [Frustration](http://9gag.com/gag/aYQD6Lv)
- - 😝 [Bro lives in the backrooms](http://9gag.com/gag/aByVzQA)
- - 👉 [Well... We all know who is he.](http://9gag.com/gag/agm7b0v)<!-- MEMES:END -->
+ - 😝 [When a rugby player kicks an American football.](http://9gag.com/gag/a870zPe)
+ - 😝 [Makeup](http://9gag.com/gag/adBQMAN)
+ - 💣 [Soccer](http://9gag.com/gag/aPAo0VG)
+ - 😝 [Even Joker was shocked](http://9gag.com/gag/aPAo0Yn)
+ - 👉 [Right answers only](http://9gag.com/gag/awy1G4r)<!-- MEMES:END -->
 
 ---
 

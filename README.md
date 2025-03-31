@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [These were the times](http://9gag.com/gag/aD28Lwd)
+ - 😝 [6.1 million Americans are behind on their mortgage, the highest in 20+ years. Brace for impact.](http://9gag.com/gag/azxKyxK)
+ - 😝 [Don&#39;t forget, they can vote and have kids](http://9gag.com/gag/a4PN8zm)
+ - 💣 [America is such a surreal place](http://9gag.com/gag/aRBM8Xj)
  - 😝 [Opening a 72-year-old tin of survival cookies and crackers from a fallout shelter](http://9gag.com/gag/a4PNgNZ)
- - 💣 [6.1 million Americans are behind on their mortgage, the highest in 20+ years. Brace for impact.](http://9gag.com/gag/azxKyxK)
- - 😝 [POV: Your mall is about to go out of business.](http://9gag.com/gag/aD285mx)
- - 👉 [America is such a surreal place](http://9gag.com/gag/aRBM8Xj)<!-- MEMES:END -->
+ - 👉 [This is a Korean girl studying in Canada](http://9gag.com/gag/abA48Kb)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hand egg](http://9gag.com/gag/aRBMWZB)
+ - 😝 [Opening a 72-year-old tin of survival cookies and crackers from a fallout shelter](http://9gag.com/gag/a4PNgNZ)
+ - 😝 [His wives are all damn hot in most of his movies](http://9gag.com/gag/apR6jMB)
+ - 💣 [Is brother gonna fold?](http://9gag.com/gag/a2v0AMe)
  - 😝 [What was he thinking?!](http://9gag.com/gag/aAyKL7L)
- - 💣 [Well... We all know who is he.](http://9gag.com/gag/agm7b0v)
- - 😝 [I guess being a good brother is weird.](http://9gag.com/gag/ajPLd3g)
- - 👉 [Soccer](http://9gag.com/gag/aPAo0VG)<!-- MEMES:END -->
+ - 👉 [These were the times](http://9gag.com/gag/aD28Lwd)<!-- MEMES:END -->
 
 ---
 

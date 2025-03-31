@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [POV: You enter a random bakery in rural Germany](http://9gag.com/gag/ae9ZBzp)
- - 😝 [Rock on girls](http://9gag.com/gag/aW4nXR2)
- - 💣 [When you decide to go with the cheaper company](http://9gag.com/gag/aLn4EWA)
- - 😝 [I need to laugh](http://9gag.com/gag/aNDQ54A)
- - 👉 [2 types of 30+ men](http://9gag.com/gag/ae9Zzzq)<!-- MEMES:END -->
+ - 😝 [Don&#39;t forget, they can vote and have kids](http://9gag.com/gag/a4PN8zm)
+ - 😝 [Nice sis](http://9gag.com/gag/aRBM8eA)
+ - 💣 [Buttoning up your boots](http://9gag.com/gag/aGyBvLz)
+ - 😝 [Osama Bin Laden at Oxford in 1971. He is approximately 14 in this image.](http://9gag.com/gag/a340DQv)
+ - 👉 [Even in dogs there are levels](http://9gag.com/gag/aVvKrQK)<!-- MEMES:END -->
 
 ---
 

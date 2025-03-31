@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Far-Right Influencers Are Hosting a $10K-per-Person Matchmaking Weekend to Repopulate the Earth](https://www.wired.com/story/natal-conference-matchmaking/)
  - [The Proud Boys and Militias Come to Tesla’s Defense](https://www.wired.com/story/proud-boys-and-militias-come-to-teslas-defense/)
  - [The 30 best Amazon Big Spring Sale deals you can still grab for under $30](https://www.theverge.com/tech/636342/amazon-big-spring-sale-2025-best-deals-under-30-tech-gift-ideas)
  - [Apple hasn&#39;t forgotten about some older iOS, iPadOS, and macOS versions](https://appleinsider.com/articles/25/03/31/apple-hasnt-forgotten-about-some-older-ios-ipados-and-macos-versions?utm_medium=rss)
- - [Apple releases visionOS 2.4 with Apple Intelligence, a Spatial Gallery app that features Apple-curated media, with &quot;new content released regularly&quot;, and more &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250331/p32#a250331p32)
- - [The Top New Features in Apple’s iOS 18 and iPadOS 18](https://www.wired.com/story/apple-iphone-ios-18-ipados-18-new-features/)<!-- TECH:END -->
+ - [Apple releases visionOS 2.4 with Apple Intelligence, a Spatial Gallery app that features Apple-curated media, with &quot;new content released regularly&quot;, and more &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250331/p32#a250331p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

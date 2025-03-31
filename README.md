@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [All the Top New Features in MacOS Sequoia](https://www.wired.com/story/apple-macos-sequoia-features/)
+ - [Sam Altman Says OpenAI Will Release an ‘Open Weight’ AI Model This Summer](https://www.wired.com/story/openai-sam-altman-announce-open-source-model/)
  - [Sam Altman says OpenAI is planning to &quot;release a powerful new open-weight language model with reasoning in the coming months&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250331/p36#a250331p36)
  - [Apple Watch Series 10 almost had a new health sensor](https://appleinsider.com/articles/25/03/31/apple-watch-series-10-almost-had-a-new-health-sensor?utm_medium=rss)
- - [TL;DR: we are excited to release a powerful new open-weight language model with reasoning in the coming months, and we want to talk to devs about how to make it maximally useful: https://openai.com/... we are excited to make this a very, very good model! __ we are planning to &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/250331/p35#a250331p35)
- - [Sam Altman says &quot;we added one million users in the last hour&quot;, following last week&#39;s Images for ChatGPT launch; over the weekend he said &quot;our GPUs are melting&quot; &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/250331/p34#a250331p34)
- - [Microsoft expands AI features across Intel and AMD-powered Copilot Plus PCs](https://www.theverge.com/news/640028/microsoft-copilot-plus-pcs-ai-intel-amd-rollout)<!-- TECH:END -->
+ - [IGN Live Fan Festival Returns With Games, Celebrities and More on June 7](https://www.cnet.com/tech/gaming/ign-live-fan-festival-returns-with-games-celebrities-and-more-on-june-7/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

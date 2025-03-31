@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Satisfaction compilation](http://9gag.com/gag/aW4nydq)
- - 😝 [Better snow white](http://9gag.com/gag/avy6BvZ)
- - 💣 [Hand egg](http://9gag.com/gag/aRBMWZB)
- - 😝 [I am this old](http://9gag.com/gag/aoyRoxx)
- - 👉 [We get nice graphics but soulless games](http://9gag.com/gag/a340gAQ)<!-- MEMES:END -->
+ - 😝 [More pocket money](http://9gag.com/gag/an720vE)
+ - 😝 [Bro lives in the backrooms](http://9gag.com/gag/aByVzQA)
+ - 💣 [Don&#39;t forget, they can vote and have kids](http://9gag.com/gag/a4PN8zm)
+ - 😝 [Graphic design is over. Sorry but there&#39;s no turning back now.](http://9gag.com/gag/avy6Vyn)
+ - 👉 [Is brother gonna fold?](http://9gag.com/gag/a2v0AMe)<!-- MEMES:END -->
 
 ---
 

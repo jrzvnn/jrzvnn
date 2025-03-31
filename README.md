@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPadOS 18.4 released with Apple Intelligence &amp; Mail tweaks](https://appleinsider.com/articles/25/03/31/ios-184-arrives-on-ipad-with-apple-intelligence-mail-tweaks?utm_medium=rss)
- - [&#39;1923&#39; Season 2: When New Episodes Hit Paramount Plus](https://www.cnet.com/tech/services-and-software/1923-season-2-when-new-episodes-hit-paramount-plus/#ftag=CAD590a51e)
- - [Apple Intelligence now available on Apple Vision Pro with visionOS 2.4](https://appleinsider.com/articles/25/03/31/apple-intelligence-now-available-on-apple-vision-pro-with-visionos-24?utm_medium=rss)
- - [iOS 18.4 lands with more Apple Intelligence, Apple Vision Pro app](https://appleinsider.com/articles/25/03/31/ios-184-lands-with-more-apple-intelligence-apple-vision-pro-app?utm_medium=rss)
- - [macOS Sequoia 15.4 arrives with Apple Mail categories, password timers, and more](https://appleinsider.com/articles/25/03/31/macos-sequoia-154-arrives-with-apple-mail-categories-password-timers-and-more?utm_medium=rss)<!-- TECH:END -->
+ - [New &#39;Break Through Silent Mode&#39; debuts in watchOS 11.4](https://appleinsider.com/articles/25/03/31/new-break-through-silent-mode-debuts-watchos-114-fixes-bugs?utm_medium=rss)
+ - [tvOS 18.4 brings Matter support for vacuums, lossless audio, and more to Apple TV](https://appleinsider.com/articles/25/03/31/tvos-184-brings-matter-support-for-vacuums-lossless-audio-and-more-to-apple-tv?utm_medium=rss)
+ - [Plex is rolling out its big app redesign](https://www.theverge.com/news/639839/plex-redesigned-app-android-ios-launch)
+ - [Substack rolls out a TikTok-like video feed in its app, initially featuring short-form videos under 10 minutes &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250331/p30#a250331p30)
+ - [iPadOS 18.4 released with Apple Intelligence &amp; Mail tweaks](https://appleinsider.com/articles/25/03/31/ios-184-arrives-on-ipad-with-apple-intelligence-mail-tweaks?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

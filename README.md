@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk and Taylor Swift can now hide details of their private jets](https://www.theverge.com/news/639468/faa-private-jet-trackers-aircraft-registration-information)
- - [7 Best Electric Toothbrushes, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-electric-toothbrushes/)
- - [When will physical video games go away?](https://www.theverge.com/games/638535/physical-digital-video-games-nintendo-xbox-ps5-disc-cart)
- - [Microsoft is redesigning the Windows BSOD and it might change to black](https://www.theverge.com/news/639445/microsoft-windows-bsod-black-new-design)
- - [Movie studios are being financially rewarded for AI slop on YouTube](https://www.theverge.com/news/639440/youtube-ai-fake-movie-trailer-crackdown-monetization)<!-- TECH:END -->
+ - [How the Trump family took over World Liberty Financial, which raised $550M+ via governance tokens; the family has a claim on 75% of net revenues of token sales &lpar;Reuters&rpar;](http://www.techmeme.com/250331/p20#a250331p20)
+ - [I’m still testing the new Razer Blade 16, and I have mixed feelings](https://www.theverge.com/tech/638930/razer-blade-16-2025-rtx-5090-gaming-laptop-impressions-price)
+ - [Foxconn plans to double iPhone production in India by the end of 2025](https://appleinsider.com/articles/25/03/31/foxconn-plans-to-double-iphone-production-in-india-by-the-end-of-2025?utm_medium=rss)
+ - [Barclays, Monzo, Lloyds, and other major UK banks join Amazon, Google, Match, Meta, BT, and Three in committing to live data sharing in a UK fraud clampdown &lpar;Georgina Quach/Financial Times&rpar;](http://www.techmeme.com/250331/p19#a250331p19)
+ - [ChatGPT’s Projects Feature Brings Order to Your AI Chaos](https://www.wired.com/story/how-to-use-chatgpt-projects/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [More pocket money](http://9gag.com/gag/an720vE)
- - 😝 [Bro lives in the backrooms](http://9gag.com/gag/aByVzQA)
- - 💣 [Don&#39;t forget, they can vote and have kids](http://9gag.com/gag/a4PN8zm)
- - 😝 [Graphic design is over. Sorry but there&#39;s no turning back now.](http://9gag.com/gag/avy6Vyn)
- - 👉 [Is brother gonna fold?](http://9gag.com/gag/a2v0AMe)<!-- MEMES:END -->
+ - 😝 [Stolen!](http://9gag.com/gag/a870NKe)
+ - 😝 [Check out the accuracy!](http://9gag.com/gag/aMVPDpR)
+ - 💣 [The ones will understand](http://9gag.com/gag/a340Dy1)
+ - 😝 [Is brother gonna fold?](http://9gag.com/gag/a2v0AMe)
+ - 👉 [When You Try to Show off in the Wrong Chat](http://9gag.com/gag/ae9ZqvW)<!-- MEMES:END -->
 
 ---
 

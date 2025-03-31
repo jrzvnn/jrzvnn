@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alexa+ will start rolling out to users today; sources: some features demoed in February are slated to arrive in two months, while others will take longer &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/250331/p29#a250331p29)
  - [Retym, which aims to bring its first AI data center chip to market this year, raised a $75M Series D led by Spark Capital, bringing its total funding to $180M &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/250331/p28#a250331p28)
  - [Plex&#39;s app facelift finally arrives for iPhone streamers](https://appleinsider.com/articles/25/03/31/plexs-app-facelift-finally-arrives-for-iphone-streamers?utm_medium=rss)
  - [Max’s rebranded logo and colors look very HBO](https://www.theverge.com/news/639682/hbo-max-logo-redesign-warner-bros-discovery-streaming)
- - [Runway releases its Gen-4 video-generating AI model to individual and enterprise users, touting its ability to maintain consistency of subjects, styles, more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250331/p27#a250331p27)
- - [Amazon’s new AI agent is designed do your shopping](https://www.theverge.com/news/639688/amazon-nova-act-ai-agent-web-browser)<!-- TECH:END -->
+ - [Runway releases its Gen-4 video-generating AI model to individual and enterprise users, touting its ability to maintain consistency of subjects, styles, more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250331/p27#a250331p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

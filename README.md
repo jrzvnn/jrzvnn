@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well... We all know who is he.](http://9gag.com/gag/agm7b0v)
- - 😝 [Pulling nails out of a beach bonfire site with a hydraulic scrap magnet.](http://9gag.com/gag/aMVP0rP)
- - 💣 [Magic and Crime](http://9gag.com/gag/aByVN5Z)
- - 😝 [Spray foam](http://9gag.com/gag/a870vLZ)
- - 👉 [Check out the accuracy!](http://9gag.com/gag/aMVPDpR)<!-- MEMES:END -->
+ - 😝 [Michael Winslow](http://9gag.com/gag/aPAo0ew)
+ - 😝 [I will not even be surprised if it turns out true](http://9gag.com/gag/a1m0nDP)
+ - 💣 [Outstanding move](http://9gag.com/gag/aAyKLmd)
+ - 😝 [My fellow souls like game enthusiast... we have good news..](http://9gag.com/gag/a6Z5z5L)
+ - 👉 [AI Turns Memes Into Studio Ghibli Style](http://9gag.com/gag/azxKy9B)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alexa+ will start rolling out to users today; sources: some features demoed in February are slated to arrive in two months, while others will take longer &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/250331/p29#a250331p29)
- - [Retym, which aims to bring its first AI data center chip to market this year, raised a $75M Series D led by Spark Capital, bringing its total funding to $180M &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/250331/p28#a250331p28)
- - [Plex&#39;s app facelift finally arrives for iPhone streamers](https://appleinsider.com/articles/25/03/31/plexs-app-facelift-finally-arrives-for-iphone-streamers?utm_medium=rss)
- - [Max’s rebranded logo and colors look very HBO](https://www.theverge.com/news/639682/hbo-max-logo-redesign-warner-bros-discovery-streaming)
- - [Runway releases its Gen-4 video-generating AI model to individual and enterprise users, touting its ability to maintain consistency of subjects, styles, more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250331/p27#a250331p27)<!-- TECH:END -->
+ - [iPadOS 18.4 released with Apple Intelligence &amp; Mail tweaks](https://appleinsider.com/articles/25/03/31/ios-184-arrives-on-ipad-with-apple-intelligence-mail-tweaks?utm_medium=rss)
+ - [&#39;1923&#39; Season 2: When New Episodes Hit Paramount Plus](https://www.cnet.com/tech/services-and-software/1923-season-2-when-new-episodes-hit-paramount-plus/#ftag=CAD590a51e)
+ - [Apple Intelligence now available on Apple Vision Pro with visionOS 2.4](https://appleinsider.com/articles/25/03/31/apple-intelligence-now-available-on-apple-vision-pro-with-visionos-24?utm_medium=rss)
+ - [iOS 18.4 lands with more Apple Intelligence, Apple Vision Pro app](https://appleinsider.com/articles/25/03/31/ios-184-lands-with-more-apple-intelligence-apple-vision-pro-app?utm_medium=rss)
+ - [macOS Sequoia 15.4 arrives with Apple Mail categories, password timers, and more](https://appleinsider.com/articles/25/03/31/macos-sequoia-154-arrives-with-apple-mail-categories-password-timers-and-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

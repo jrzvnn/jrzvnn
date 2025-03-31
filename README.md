@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [&#39;Toxic&#39; masculinity wins again.](http://9gag.com/gag/a9y5N3K)
- - 😝 [Don&#39;t forget, they can vote and have kids](http://9gag.com/gag/a4PN8zm)
- - 💣 [Magic and Crime](http://9gag.com/gag/aByVN5Z)
- - 😝 [Damn!!! Ended his career with to that crossover. Old 9gag memes](http://9gag.com/gag/ae9ZqYB)
+ - 😝 [Spray foam](http://9gag.com/gag/a870vLZ)
+ - 😝 [Even Joker was shocked](http://9gag.com/gag/aPAo0Yn)
+ - 💣 [Don&#39;t forget, they can vote and have kids](http://9gag.com/gag/a4PN8zm)
+ - 😝 [Pulling nails out of a beach bonfire site with a hydraulic scrap magnet.](http://9gag.com/gag/aMVP0rP)
  - 👉 [AI Turns Memes Into Studio Ghibli Style](http://9gag.com/gag/azxKy9B)<!-- MEMES:END -->
 
 ---

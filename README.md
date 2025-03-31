@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Want to feel like a spy? Stick a smart chip in your manicure](https://www.theverge.com/tech-accessory-review/636922/jakcom-n3-smart-nail-chip-review-nfc-wearables)
+ - [Amazon Spring Sale deals on Verge staff favorites](https://www.theverge.com/tech/635736/amazon-big-spring-sale-best-deals-tech-staff-picks-march-prime-day-2025)
  - [CEO Matt Bromberg on ending Unity’s ‘war’ against its customers](https://www.theverge.com/decoder-podcast-with-nilay-patel/639509/unity-matt-bromberg-runtime-fee-interview)
  - [Coyote vs. Acme is getting its day in theaters](https://www.theverge.com/news/632742/coyote-v-acme-ketchup-entertainment-theatrical-release)
- - [The 1TB Xbox Series X expansion card is back down to its lowest price ever](https://www.theverge.com/tech/639546/xbox-expansion-card-1tb-anker-battery-amazon-deal-sale)
- - [31 Best Mac Apps You Should Download Now &lpar;2025&rpar;: Free and Paid](https://www.wired.com/story/best-mac-apps/)
- - [Seattle-based Temporal, an open-source microservices orchestration service, raised a $146M Series C led by Tiger Global at a $1.72B post-money valuation &lpar;TechCrunch&rpar;](http://www.techmeme.com/250331/p25#a250331p25)<!-- TECH:END -->
+ - [The 1TB Xbox Series X expansion card is back down to its lowest price ever](https://www.theverge.com/tech/639546/xbox-expansion-card-1tb-anker-battery-amazon-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

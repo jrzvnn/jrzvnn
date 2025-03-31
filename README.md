@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Foxconn plans to assemble 25M to 30M iPhones in India in 2025, up from ~12M in 2024, and is conducting production trials at its new Bengaluru plant &lpar;Dia Rekhi/The Economic Times&rpar;](http://www.techmeme.com/250330/p24#a250330p24)
  - [Sources detail tensions between Apple and Elon Musk&#39;s SpaceX over efforts to expand satellite cellphone services &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250330/p23#a250330p23)
  - [Today&#39;s NYT Mini Crossword Answers for Monday, March 31](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-march-31/#ftag=CAD590a51e)
  - [Global foldable smartphone shipments increased by just 2.9% YoY in 2024, and shipments are expected to decline by about 4% YoY in 2025 &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250330/p22#a250330p22)
- - [Many LinkedIn users put part-time job-level effort to maintain their pages; LinkedIn: 85% of FTSE 100 CEOs have a presence on the platform, up from 12% in 2023 &lpar;Bethan Staton/Financial Times&rpar;](http://www.techmeme.com/250330/p21#a250330p21)
- - [Keychron Q3 HE review: An excellent compact mechanical keyboard](https://appleinsider.com/articles/25/03/30/keychron-q3-he-review-an-excellent-compact-mechanical-keyboard?utm_medium=rss)<!-- TECH:END -->
+ - [Many LinkedIn users put part-time job-level effort to maintain their pages; LinkedIn: 85% of FTSE 100 CEOs have a presence on the platform, up from 12% in 2023 &lpar;Bethan Staton/Financial Times&rpar;](http://www.techmeme.com/250330/p21#a250330p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

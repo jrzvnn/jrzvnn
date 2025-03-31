@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A true Chad](http://9gag.com/gag/aLn4Ojv)
+ - 😝 [Well... We all know who is he.](http://9gag.com/gag/agm7b0v)
+ - 💣 [Right answers only](http://9gag.com/gag/awy1G4r)
  - 😝 [Have you ever heard of firesnow?](http://9gag.com/gag/aAyKA4R)
- - 😝 [When You Try to Show off in the Wrong Chat](http://9gag.com/gag/ae9ZqvW)
- - 💣 [Soccer](http://9gag.com/gag/aPAo0VG)
- - 😝 [Don&#39;t forget, they can vote and have kids](http://9gag.com/gag/a4PN8zm)
- - 👉 [Well... We all know who is he.](http://9gag.com/gag/agm7b0v)<!-- MEMES:END -->
+ - 👉 [Is brother gonna fold?](http://9gag.com/gag/a2v0AMe)<!-- MEMES:END -->
 
 ---
 

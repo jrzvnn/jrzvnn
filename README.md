@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [AirPods Pro hearing aid feature took six years to develop](https://appleinsider.com/articles/25/03/31/airpods-pro-hearing-aid-feature-took-six-years-to-develop?utm_medium=rss)
+ - [Last Chance: 109 Best Amazon Spring Sale Deals for March 2025](https://www.wired.com/story/amazon-spring-sale-2025-4/)
+ - [Soundcore Aeroclip Open-Ear Earbuds Review: Great Value](https://www.wired.com/review/soundcore-aeroclip/)
  - [Hue doorbell leaks, Matter 1.5 rumored devices, and the first Matter smoke detector on HomeKit Insider](https://appleinsider.com/articles/25/03/31/hue-doorbell-leaks-matter-15-rumored-devices-and-the-first-matter-smoke-detector-on-homekit-insider?utm_medium=rss)
- - [Amazon&#39;s AGI Lab unveils Nova Act, a general purpose AI agent to control a web browser and independently perform some simple actions, and a Nova Act SDK &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250331/p21#a250331p21)
- - [TikTok, tariffs, and trials: everything happening in tech’s chaotic April](https://www.theverge.com/policy/638779/tariffs-tiktok-ban-meta-google-antitrust-trial-april-trump)
- - [Amazon&#39;s AGI Lab Reveals Its First Work: Advanced AI Agents](https://www.wired.com/story/amazon-ai-agents-nova-web-browsing/)<!-- TECH:END -->
+ - [Amazon&#39;s AGI Lab unveils Nova Act, a general purpose AI agent to control a web browser and independently perform some simple actions, and a Nova Act SDK &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250331/p21#a250331p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

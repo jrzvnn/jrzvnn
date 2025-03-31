@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s new AI agent is designed do your shopping](https://www.theverge.com/news/639688/amazon-nova-act-ai-agent-web-browser)
- - [Sources: GlobalFoundries mulls merging with UMC, Taiwan&#39;s 2nd-largest chipmaker, to form a bigger, US-based company with production in Asia, the US, and Europe &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250331/p26#a250331p26)
- - [Alexa Plus just launched in early access, but it&amp;#8217;s missing some features](https://www.theverge.com/news/639697/amazon-alexa-plus-launch-early-access-missing-features)
- - [Amazon Spring Sale deals on Verge staff favorites](https://www.theverge.com/tech/635736/amazon-big-spring-sale-best-deals-tech-staff-picks-march-prime-day-2025)
- - [Max’s rebranded logo and colors look very HBO](https://www.theverge.com/news/639682/hbo-max-logo-redesign-warner-bros-discovery-streaming)<!-- TECH:END -->
+ - [Retym, which aims to bring its first AI data center chip to market this year, raised a $75M Series D led by Spark Capital, bringing its total funding to $180M &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/250331/p28#a250331p28)
+ - [Plex&#39;s app facelift finally arrives for iPhone streamers](https://appleinsider.com/articles/25/03/31/plexs-app-facelift-finally-arrives-for-iphone-streamers?utm_medium=rss)
+ - [Max’s rebranded logo and colors look very HBO](https://www.theverge.com/news/639682/hbo-max-logo-redesign-warner-bros-discovery-streaming)
+ - [Runway releases its Gen-4 video-generating AI model to individual and enterprise users, touting its ability to maintain consistency of subjects, styles, more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250331/p27#a250331p27)
+ - [Amazon’s new AI agent is designed do your shopping](https://www.theverge.com/news/639688/amazon-nova-act-ai-agent-web-browser)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

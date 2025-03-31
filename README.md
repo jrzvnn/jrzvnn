@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Sesame, which makes realistic AI voice assistants, is in talks to raise $200M+ co-led by Sequoia Capital and Spark Capital, valuing the company at $1B+ &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250331/p37#a250331p37)
  - [Democratic Senators Call for Privacy Act Reform in Response to DOGE Takeover](https://www.wired.com/story/democratic-senators-privacy-act-reform-doge-takeover/)
  - [All the Top New Features in MacOS Sequoia](https://www.wired.com/story/apple-macos-sequoia-features/)
  - [Sam Altman Says OpenAI Will Release an ‘Open Weight’ AI Model This Summer](https://www.wired.com/story/openai-sam-altman-announce-open-source-model/)
- - [Sam Altman says OpenAI is planning to &quot;release a powerful new open-weight language model with reasoning in the coming months&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250331/p36#a250331p36)
- - [Apple Watch Series 10 almost had a new health sensor](https://appleinsider.com/articles/25/03/31/apple-watch-series-10-almost-had-a-new-health-sensor?utm_medium=rss)<!-- TECH:END -->
+ - [Sam Altman says OpenAI is planning to &quot;release a powerful new open-weight language model with reasoning in the coming months&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250331/p36#a250331p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

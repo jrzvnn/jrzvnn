@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI just raised another $40 billion round led by SoftBank](https://www.theverge.com/news/640259/openai-40-billion-softbank-investment)
+ - [Source: SoftBank will invest an initial $7.5B in OpenAI&#39;s $40B round, plus $22.5B by 2025&#39;s end; other backers include Microsoft, Coatue, Altimeter, and Thrive &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250331/p41#a250331p41)
  - [Trump signs an EO to establish an office within the Commerce Department to facilitate investments above $1B in the US and administer funds from the CHIPS Act &lpar;Bloomberg&rpar;](http://www.techmeme.com/250331/p40#a250331p40)
  - [The 101 best last-minute deals from Amazon’s Big Spring Sale](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
- - [The space race heats up: all the news on the latest rocket launches](https://www.theverge.com/news/637438/space-race-rocket-launches-news)
- - [We found 50 deals you can still get from Amazon’s spring sale for $100 or less](https://www.theverge.com/tech/638402/amazon-big-spring-sale-2025-best-deals-under-100-tech-gift-ideas)
- - [OpenAI closes a $40B funding round, the most ever raised by a private tech company, at a $300B post-money valuation; SoftBank led the round with $30B &lpar;CNBC&rpar;](http://www.techmeme.com/250331/p39#a250331p39)<!-- TECH:END -->
+ - [OpenAI Just Teased a New &#39;Open-Weights&#39; AI Model: Here&#39;s What That Means](https://www.cnet.com/tech/services-and-software/openai-just-teased-a-new-open-weights-ai-model-heres-what-that-means/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

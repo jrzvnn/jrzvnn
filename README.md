@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Report: 79% of 475 AI experts believe current public perceptions of AI do not match R&amp;D realities, while 76% said scaling current approaches will not yield AGI &lpar;Isaac Schultz/Gizmodo&rpar;](http://www.techmeme.com/250331/p3#a250331p3)
  - [South Korea-based Wrtn, a free-to-use AI platform with 5M+ users aggregating LLMs like GPT-4, Stable Diffusion 3, and Claude 3, raised a ~$56M extension round &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250331/p2#a250331p2)
  - [After Trump signed an EO to end the government&#39;s DEI programs, tech firms like Google are rebranding DEI efforts, using terms like &quot;learning&quot; or &quot;hiring&quot; &lpar;CNBC&rpar;](http://www.techmeme.com/250331/p1#a250331p1)
  - [Sources: Foxconn plans to assemble 25M to 30M iPhones in India in 2025, up from ~12M in 2024, and is conducting production trials at its new Bengaluru plant &lpar;Dia Rekhi/The Economic Times&rpar;](http://www.techmeme.com/250330/p24#a250330p24)
- - [Sources detail tensions between Apple and Elon Musk&#39;s SpaceX over efforts to expand satellite cellphone services &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250330/p23#a250330p23)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, March 31](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-march-31/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources detail tensions between Apple and Elon Musk&#39;s SpaceX over efforts to expand satellite cellphone services &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250330/p23#a250330p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

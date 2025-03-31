@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Startup Founder Claims Elon Musk Is Stealing the Name ‘Grok’](https://www.wired.com/story/grok-trademark-dispute-name/)
  - [Nasdaq-listed Chinese self-driving company WeRide, which reported a ~$260M loss in 2023 and a ~$344M loss in 2024, warns profitability is &quot;difficult to predict&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250331/p12#a250331p12)
  - [Huawei reports FY 2024 revenue up 22.4% YoY to ~$118.2B, near its ~$123B record in 2020, net profit down 28% YoY to ~$8.63B, and R&amp;D spend rising to ~$25B &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250331/p11#a250331p11)
  - [Memecoins attempting to profit from a man&#39;s suicide highlight Pump.fun&#39;s extreme lack of boundaries; one of the memecoins soared past $2M in total value &lpar;Kevin T. Dugan/Wall Street Journal&rpar;](http://www.techmeme.com/250331/p10#a250331p10)
- - [France&#39;s antitrust regulator fines Apple €150M after a lengthy investigation into how iOS asks to collect user data under ATT and the impact on advertisers &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/250331/p9#a250331p9)
- - [Chinese AI startup Zhipu, which secured three rounds of government-backed funding in March 2025, launches a free AI agent, intensifying the domestic AI race &lpar;Reuters&rpar;](http://www.techmeme.com/250331/p8#a250331p8)<!-- TECH:END -->
+ - [France&#39;s antitrust regulator fines Apple €150M after a lengthy investigation into how iOS asks to collect user data under ATT and the impact on advertisers &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/250331/p9#a250331p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

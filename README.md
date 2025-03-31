@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Want to feel like a spy? Stick a smart chip in your manicure](https://www.theverge.com/tech-accessory-review/636922/jakcom-n3-smart-nail-chip-review-nfc-wearables)
+ - [Amazon’s new AI agent is designed do your shopping](https://www.theverge.com/news/639688/amazon-nova-act-ai-agent-web-browser)
+ - [Sources: GlobalFoundries mulls merging with UMC, Taiwan&#39;s 2nd-largest chipmaker, to form a bigger, US-based company with production in Asia, the US, and Europe &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250331/p26#a250331p26)
+ - [Alexa Plus just launched in early access, but it&amp;#8217;s missing some features](https://www.theverge.com/news/639697/amazon-alexa-plus-launch-early-access-missing-features)
  - [Amazon Spring Sale deals on Verge staff favorites](https://www.theverge.com/tech/635736/amazon-big-spring-sale-best-deals-tech-staff-picks-march-prime-day-2025)
- - [CEO Matt Bromberg on ending Unity’s ‘war’ against its customers](https://www.theverge.com/decoder-podcast-with-nilay-patel/639509/unity-matt-bromberg-runtime-fee-interview)
- - [Coyote vs. Acme is getting its day in theaters](https://www.theverge.com/news/632742/coyote-v-acme-ketchup-entertainment-theatrical-release)
- - [The 1TB Xbox Series X expansion card is back down to its lowest price ever](https://www.theverge.com/tech/639546/xbox-expansion-card-1tb-anker-battery-amazon-deal-sale)<!-- TECH:END -->
+ - [Max’s rebranded logo and colors look very HBO](https://www.theverge.com/news/639682/hbo-max-logo-redesign-warner-bros-discovery-streaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

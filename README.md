@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [These were the times](http://9gag.com/gag/aD28Lwd)
- - 😝 [That Kemper interview](http://9gag.com/gag/a9y50jm)
- - 💣 [2 types of 30+ men](http://9gag.com/gag/ae9Zzzq)
- - 😝 [Damn!!! Ended his career with to that crossover. Old 9gag memes](http://9gag.com/gag/ae9ZqYB)
- - 👉 [Graphic design is over. Sorry but there&#39;s no turning back now.](http://9gag.com/gag/avy6Vyn)<!-- MEMES:END -->
+ - 😝 [Satisfaction compilation](http://9gag.com/gag/aW4nydq)
+ - 😝 [We get nice graphics but soulless games](http://9gag.com/gag/a340gAQ)
+ - 💣 [Hand egg](http://9gag.com/gag/aRBMWZB)
+ - 😝 [I need to laugh](http://9gag.com/gag/aNDQ54A)
+ - 👉 [Makes my life easier](http://9gag.com/gag/aRBMWBA)<!-- MEMES:END -->
 
 ---
 

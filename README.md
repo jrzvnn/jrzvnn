@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Michael Winslow](http://9gag.com/gag/aPAo0ew)
- - 😝 [I will not even be surprised if it turns out true](http://9gag.com/gag/a1m0nDP)
- - 💣 [Outstanding move](http://9gag.com/gag/aAyKLmd)
- - 😝 [My fellow souls like game enthusiast... we have good news..](http://9gag.com/gag/a6Z5z5L)
+ - 😝 [&#39;Toxic&#39; masculinity wins again.](http://9gag.com/gag/a9y5N3K)
+ - 😝 [Don&#39;t forget, they can vote and have kids](http://9gag.com/gag/a4PN8zm)
+ - 💣 [Magic and Crime](http://9gag.com/gag/aByVN5Z)
+ - 😝 [Damn!!! Ended his career with to that crossover. Old 9gag memes](http://9gag.com/gag/ae9ZqYB)
  - 👉 [AI Turns Memes Into Studio Ghibli Style](http://9gag.com/gag/azxKy9B)<!-- MEMES:END -->
 
 ---

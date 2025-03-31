@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Sesame, which makes realistic AI voice assistants, is in talks to raise $200M+ co-led by Sequoia Capital and Spark Capital, valuing the company at $1B+ &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250331/p37#a250331p37)
- - [Democratic Senators Call for Privacy Act Reform in Response to DOGE Takeover](https://www.wired.com/story/democratic-senators-privacy-act-reform-doge-takeover/)
- - [All the Top New Features in MacOS Sequoia](https://www.wired.com/story/apple-macos-sequoia-features/)
- - [Sam Altman Says OpenAI Will Release an ‘Open Weight’ AI Model This Summer](https://www.wired.com/story/openai-sam-altman-announce-open-source-model/)
- - [Sam Altman says OpenAI is planning to &quot;release a powerful new open-weight language model with reasoning in the coming months&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250331/p36#a250331p36)<!-- TECH:END -->
+ - [Tampa-based ReliaQuest, which provides AI-powered cybersecurity tools, raised $500M+ in a funding round led by EQT, KKR, and FTV Capital, valuing it at $3.4B &lpar;Angus Loten/Wall Street Journal&rpar;](http://www.techmeme.com/250331/p38#a250331p38)
+ - [Don&#39;t wait to update: iOS 18.4 introduces key security fixes](https://appleinsider.com/articles/25/03/31/dont-wait-to-update-ios-184-introduces-key-security-fixes?utm_medium=rss)
+ - [Do Renters Get Tax Deductions or Credits This Tax Season?](https://www.cnet.com/personal-finance/taxes/do-renters-get-tax-deductions-or-credits-this-tax-season/#ftag=CAD590a51e)
+ - [Top Officials Placed on Leave After Denying DOGE Access to Federal Payroll Systems](https://www.wired.com/story/doge-access-federal-payroll-systems-officials-leave-interior/)
+ - [When to Stream Episode 7 of Marvel&#39;s &#39;Daredevil: Born Again&#39;](https://www.cnet.com/tech/services-and-software/when-stream-episode-7-marvel-daredevil-born-again/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

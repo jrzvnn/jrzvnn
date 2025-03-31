@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sam Altman says &quot;we added one million users in the last hour&quot;, following last week&#39;s Images for ChatGPT launch; over the weekend he said &quot;our GPUs are melting&quot; &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/250331/p34#a250331p34)
+ - [Microsoft expands AI features across Intel and AMD-powered Copilot Plus PCs](https://www.theverge.com/news/640028/microsoft-copilot-plus-pcs-ai-intel-amd-rollout)
+ - [Cybersecurity Professor Mysteriously Disappears as FBI Raids His Homes](https://www.wired.com/story/cybersecurity-professor-mysteriously-disappears-as-fbi-raids-his-homes/)
  - [How JioHotstar became India&#39;s most popular streamer, with 100M subscribers paying less than $1/month on average, via a freemium model, micro dramas, and more &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250331/p33#a250331p33)
- - [SwitchBot’s smart button pusher is 30 percent off for Amazon’s Big Spring Sale](https://www.theverge.com/tech/639683/switchbot-bot-smart-switch-button-pusher-amazon-big-spring-2025-deal-sale)
- - [Far-Right Influencers Are Hosting a $10K-per-Person Matchmaking Weekend to Repopulate the Earth](https://www.wired.com/story/natal-conference-matchmaking/)
- - [The Proud Boys and Militias Come to Tesla’s Defense](https://www.wired.com/story/proud-boys-and-militias-come-to-teslas-defense/)
- - [The 30 best Amazon Big Spring Sale deals you can still grab for under $30](https://www.theverge.com/tech/636342/amazon-big-spring-sale-2025-best-deals-under-30-tech-gift-ideas)<!-- TECH:END -->
+ - [SwitchBot’s smart button pusher is 30 percent off for Amazon’s Big Spring Sale](https://www.theverge.com/tech/639683/switchbot-bot-smart-switch-button-pusher-amazon-big-spring-2025-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

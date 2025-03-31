@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A true Chad](http://9gag.com/gag/aLn4Ojv)
- - 😝 [Well... We all know who is he.](http://9gag.com/gag/agm7b0v)
- - 💣 [Right answers only](http://9gag.com/gag/awy1G4r)
- - 😝 [Have you ever heard of firesnow?](http://9gag.com/gag/aAyKA4R)
- - 👉 [Is brother gonna fold?](http://9gag.com/gag/a2v0AMe)<!-- MEMES:END -->
+ - 😝 [When rightwingers say there are too many regulations lol](http://9gag.com/gag/abA4DGr)
+ - 😝 [What was he thinking?!](http://9gag.com/gag/aAyKL7L)
+ - 💣 [Bro lives in the backrooms](http://9gag.com/gag/aByVzQA)
+ - 😝 [Stolen!](http://9gag.com/gag/a870NKe)
+ - 👉 [Soccer](http://9gag.com/gag/aPAo0VG)<!-- MEMES:END -->
 
 ---
 

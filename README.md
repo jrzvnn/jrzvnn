@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple releases iOS 18.4 with Priority notifications for Apple Intelligence, which adds support for eight more languages, Ambient Music via Control Center, more &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/250331/p31#a250331p31)
+ - [iOS 18.4 is out now with Apple Intelligence-powered priority notifications](https://www.theverge.com/news/639849/apple-ios-18-4-intelligence-priority-notifications)
  - [New &#39;Break Through Silent Mode&#39; debuts in watchOS 11.4](https://appleinsider.com/articles/25/03/31/new-break-through-silent-mode-debuts-watchos-114-fixes-bugs?utm_medium=rss)
  - [tvOS 18.4 brings Matter support for vacuums, lossless audio, and more to Apple TV](https://appleinsider.com/articles/25/03/31/tvos-184-brings-matter-support-for-vacuums-lossless-audio-and-more-to-apple-tv?utm_medium=rss)
- - [Plex is rolling out its big app redesign](https://www.theverge.com/news/639839/plex-redesigned-app-android-ios-launch)
- - [Substack rolls out a TikTok-like video feed in its app, initially featuring short-form videos under 10 minutes &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250331/p30#a250331p30)
- - [iPadOS 18.4 released with Apple Intelligence &amp; Mail tweaks](https://appleinsider.com/articles/25/03/31/ios-184-arrives-on-ipad-with-apple-intelligence-mail-tweaks?utm_medium=rss)<!-- TECH:END -->
+ - [Plex is rolling out its big app redesign](https://www.theverge.com/news/639839/plex-redesigned-app-android-ios-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

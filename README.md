@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t forget, they can vote and have kids](http://9gag.com/gag/a4PN8zm)
- - 😝 [Opening a 72-year-old tin of survival cookies and crackers from a fallout shelter](http://9gag.com/gag/a4PNgNZ)
- - 💣 [The ones will understand](http://9gag.com/gag/a340Dy1)
- - 😝 [Osama Bin Laden at Oxford in 1971. He is approximately 14 in this image.](http://9gag.com/gag/a340DQv)
- - 👉 [Bro lives in the backrooms](http://9gag.com/gag/aByVzQA)<!-- MEMES:END -->
+ - 😝 [Wait WHAT ?](http://9gag.com/gag/azxK3QK)
+ - 😝 [Even in dogs there are levels](http://9gag.com/gag/aVvKrQK)
+ - 💣 [Hulk Hogan and his new wife film their reaction to his ex-wife&#39;s `pain &amp; loneliness` &lpar;he divorced her for cheating with his son&#39;s best friend&rpar;.](http://9gag.com/gag/a0e0qYB)
+ - 😝 [The ones will understand](http://9gag.com/gag/a340Dy1)
+ - 👉 [A digital legend you\u2019ve probably never heard of\u2026](http://9gag.com/gag/amo6ZVX)<!-- MEMES:END -->
 
 ---
 

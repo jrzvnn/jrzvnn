@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [When will physical video games go away?](https://www.theverge.com/games/638535/physical-digital-video-games-nintendo-xbox-ps5-disc-cart)
  - [Microsoft is redesigning the Windows BSOD and it might change to black](https://www.theverge.com/news/639445/microsoft-windows-bsod-black-new-design)
  - [Movie studios are being financially rewarded for AI slop on YouTube](https://www.theverge.com/news/639440/youtube-ai-fake-movie-trailer-crackdown-monetization)
  - [Isomorphic Labs, a DeepMind spinoff focusing on drug discovery, raised $600M led by Thrive to research treatments, including for cancer and immune disorders &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/250331/p18#a250331p18)
- - [France fines Apple over App Tracking Transparency, but doesn&#39;t order changes](https://appleinsider.com/articles/25/03/31/france-fines-apple-over-app-tracking-transparency-but-doesnt-order-changes?utm_medium=rss)
- - [ChatGPT’s Projects Feature Brings Order to Your AI Chaos](https://www.wired.com/story/how-to-use-chatgpt-projects/)<!-- TECH:END -->
+ - [France fines Apple over App Tracking Transparency, but doesn&#39;t order changes](https://appleinsider.com/articles/25/03/31/france-fines-apple-over-app-tracking-transparency-but-doesnt-order-changes?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

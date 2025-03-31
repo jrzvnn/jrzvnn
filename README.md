@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Opening a 72-year-old tin of survival cookies and crackers from a fallout shelter](http://9gag.com/gag/a4PNgNZ)
- - 😝 [Bro lives in the backrooms](http://9gag.com/gag/aByVzQA)
- - 💣 [Soccer](http://9gag.com/gag/aPAo0VG)
- - 😝 [Is brother gonna fold?](http://9gag.com/gag/a2v0AMe)
- - 👉 [Right answers only](http://9gag.com/gag/awy1G4r)<!-- MEMES:END -->
+ - 😝 [Hand egg](http://9gag.com/gag/aRBMWZB)
+ - 😝 [What was he thinking?!](http://9gag.com/gag/aAyKL7L)
+ - 💣 [Well... We all know who is he.](http://9gag.com/gag/agm7b0v)
+ - 😝 [I guess being a good brother is weird.](http://9gag.com/gag/ajPLd3g)
+ - 👉 [Soccer](http://9gag.com/gag/aPAo0VG)<!-- MEMES:END -->
 
 ---
 

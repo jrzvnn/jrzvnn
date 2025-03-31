@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Satisfaction compilation](http://9gag.com/gag/aW4nydq)
- - 😝 [We get nice graphics but soulless games](http://9gag.com/gag/a340gAQ)
- - 💣 [Hand egg](http://9gag.com/gag/aRBMWZB)
- - 😝 [I need to laugh](http://9gag.com/gag/aNDQ54A)
- - 👉 [Makes my life easier](http://9gag.com/gag/aRBMWBA)<!-- MEMES:END -->
+ - 😝 [This is how strong Squid&#39;s Ink is in stability and pigment intensity after a week](http://9gag.com/gag/aMVP7yG)
+ - 😝 [Opening a 72-year-old tin of survival cookies and crackers from a fallout shelter](http://9gag.com/gag/a4PNgNZ)
+ - 💣 [I love this game](http://9gag.com/gag/aNDQM5w)
+ - 😝 [The ones will understand](http://9gag.com/gag/a340Dy1)
+ - 👉 [Buttoning up your boots](http://9gag.com/gag/aGyBvLz)<!-- MEMES:END -->
 
 ---
 

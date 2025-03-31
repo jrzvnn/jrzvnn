@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Frustration](http://9gag.com/gag/aYQD6Lv)
- - 😝 [Hand egg](http://9gag.com/gag/aRBMWZB)
- - 💣 [Better snow white](http://9gag.com/gag/avy6BvZ)
- - 😝 [It&#39;s beautiful](http://9gag.com/gag/aVvKrnP)
- - 👉 [I am this old](http://9gag.com/gag/aoyRoxx)<!-- MEMES:END -->
+ - 😝 [These were the times](http://9gag.com/gag/aD28Lwd)
+ - 😝 [Right answers only](http://9gag.com/gag/awy1G4r)
+ - 💣 [When You Try to Show off in the Wrong Chat](http://9gag.com/gag/ae9ZqvW)
+ - 😝 [Soccer](http://9gag.com/gag/aPAo0VG)
+ - 👉 [Don&#39;t forget, they can vote and have kids](http://9gag.com/gag/a4PN8zm)<!-- MEMES:END -->
 
 ---
 

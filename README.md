@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods Pro 2 and AirPods 4 receive new firmware update](https://appleinsider.com/articles/25/03/31/airpods-pro-2-and-airpods-4-receive-new-firmware-update?utm_medium=rss)
- - [Robot vacuums are getting upgraded support for Apple Home](https://www.theverge.com/news/640059/apple-ios-update-matter-robot-vacuum-roborock-irobot-ecovacs)
- - [Tampa-based ReliaQuest, which provides AI-powered cybersecurity tools, raised $500M+ in a funding round led by EQT, KKR, and FTV Capital, valuing it at $3.4B &lpar;Angus Loten/Wall Street Journal&rpar;](http://www.techmeme.com/250331/p38#a250331p38)
- - [Don&#39;t wait to update: iOS 18.4 introduces key security fixes](https://appleinsider.com/articles/25/03/31/dont-wait-to-update-ios-184-introduces-key-security-fixes?utm_medium=rss)
- - [Top Officials Placed on Leave After Denying DOGE Access to Federal Payroll Systems](https://www.wired.com/story/doge-access-federal-payroll-systems-officials-leave-interior/)<!-- TECH:END -->
+ - [OpenAI closes a $40B funding round, the most ever raised by a private tech company, at a $300B post-money valuation; SoftBank led the round with $30B &lpar;CNBC&rpar;](http://www.techmeme.com/250331/p39#a250331p39)
+ - [Switch 2 Nintendo Direct Updates: Rumors and How to Watch](https://www.cnet.com/tech/gaming/switch-2-nintendo-direct-updates-rumors-and-how-to-watch/#ftag=CAD590a51e)
+ - [This Is How TAG Heuer Revamped Its Iconic F1 Watch](https://www.wired.com/story/this-is-how-tag-heuer-revamped-its-iconic-f1-2025-watch/)
+ - [8 iPhone Battery Tips to Keep It Powered All Day](https://www.cnet.com/tech/mobile/8-iphone-battery-tips-to-keep-it-powered-all-day/#ftag=CAD590a51e)
+ - [AirPods Pro 2 and AirPods 4 receive new firmware update](https://appleinsider.com/articles/25/03/31/airpods-pro-2-and-airpods-4-receive-new-firmware-update?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

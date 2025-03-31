@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump signs an EO to establish an office within the Commerce Department to facilitate investments above $1B in the US and administer funds from the CHIPS Act &lpar;Bloomberg&rpar;](http://www.techmeme.com/250331/p40#a250331p40)
+ - [The 101 best last-minute deals from Amazon’s Big Spring Sale](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
  - [The space race heats up: all the news on the latest rocket launches](https://www.theverge.com/news/637438/space-race-rocket-launches-news)
  - [We found 50 deals you can still get from Amazon’s spring sale for $100 or less](https://www.theverge.com/tech/638402/amazon-big-spring-sale-2025-best-deals-under-100-tech-gift-ideas)
- - [OpenAI closes a $40B funding round, the most ever raised by a private tech company, at a $300B post-money valuation; SoftBank led the round with $30B &lpar;CNBC&rpar;](http://www.techmeme.com/250331/p39#a250331p39)
- - [Switch 2 Nintendo Direct Updates: Rumors and How to Watch](https://www.cnet.com/tech/gaming/switch-2-nintendo-direct-updates-rumors-and-how-to-watch/#ftag=CAD590a51e)
- - [This Is How TAG Heuer Revamped Its Iconic F1 Watch](https://www.wired.com/story/this-is-how-tag-heuer-revamped-its-iconic-f1-2025-watch/)<!-- TECH:END -->
+ - [OpenAI closes a $40B funding round, the most ever raised by a private tech company, at a $300B post-money valuation; SoftBank led the round with $30B &lpar;CNBC&rpar;](http://www.techmeme.com/250331/p39#a250331p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

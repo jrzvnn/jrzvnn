@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When a rugby player kicks an American football.](http://9gag.com/gag/a870zPe)
- - 😝 [Makeup](http://9gag.com/gag/adBQMAN)
- - 💣 [Soccer](http://9gag.com/gag/aPAo0VG)
- - 😝 [Even Joker was shocked](http://9gag.com/gag/aPAo0Yn)
- - 👉 [Right answers only](http://9gag.com/gag/awy1G4r)<!-- MEMES:END -->
+ - 😝 [When You Try to Show off in the Wrong Chat](http://9gag.com/gag/ae9ZqvW)
+ - 😝 [Magic and Crime](http://9gag.com/gag/aByVN5Z)
+ - 💣 [Well... We all know who is he.](http://9gag.com/gag/agm7b0v)
+ - 😝 [Soccer](http://9gag.com/gag/aPAo0VG)
+ - 👉 [Makeup](http://9gag.com/gag/adBQMAN)<!-- MEMES:END -->
 
 ---
 

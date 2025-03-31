@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple fined $162 million for hurting app developers with ‘excessively complex’ privacy options](https://www.theverge.com/news/639583/apple-fine-app-tracking-transpareny-france)
+ - [Cerebras says it has resolved &quot;all open issues&quot; with the CFIUS, as it prepares for an IPO; the AI startup filed a notice about its ties to Abu Dhabi&#39;s G42 &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250331/p24#a250331p24)
  - [Diet-to-Go Meal Plan Review: Simple, Healthy, Maybe Soggy](https://www.wired.com/review/diet-to-go-delivery-meal-plan/)
  - [Oracle is using very specific words to avoid responsibility for an Oracle Cloud breach, after a report on March 21 that a threat actor claimed responsibility &lpar;Kevin Beaumont/DoublePulsar&rpar;](http://www.techmeme.com/250331/p23#a250331p23)
- - [AMD completes its $4.9B purchase of data center equipment designer ZT Systems, announced in August 2024, taking on its roughly 1,000 design engineers &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250331/p22#a250331p22)
- - [AirPods Pro hearing aid feature took six years to develop](https://appleinsider.com/articles/25/03/31/airpods-pro-hearing-aid-feature-took-six-years-to-develop?utm_medium=rss)
- - [Last Chance: 109 Best Amazon Spring Sale Deals for March 2025](https://www.wired.com/story/amazon-spring-sale-2025-4/)<!-- TECH:END -->
+ - [AMD completes its $4.9B purchase of data center equipment designer ZT Systems, announced in August 2024, taking on its roughly 1,000 design engineers &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250331/p22#a250331p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

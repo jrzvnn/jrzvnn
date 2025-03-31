@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump’s Trade War Pushes Canadian Tech Workers to Rethink Silicon Valley](https://www.wired.com/story/canada-startups-silicon-valley-trump-annexation/)
+ - [Nokia and Amazon settle a long-running, global patent dispute over Amazon using Nokia&#39;s video tech in Prime Video and its devices, without disclosing the terms &lpar;Karin Matussek/Bloomberg&rpar;](http://www.techmeme.com/250331/p15#a250331p15)
+ - [An interview with White House OSTP Director Michael Kratsios, a Peter Thiel protégé confirmed by the Senate on March 25, on US plans to counter Beijing on AI &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/250331/p14#a250331p14)
  - [An AI Image Generator’s Exposed Database Reveals What People Really Used It For](https://www.wired.com/story/genomis-ai-image-database-exposed/)
- - [Galaxy Z Flip 7 FE looks just like last year’s flagship](https://www.theverge.com/news/639429/samsung-galaxy-z-flip-7-fe-leaks-renders-design-cover-screen)
- - [PumpSwap, a new DEX launched by Pump.fun&#39;s creators, processed $2.43B in cumulative trading volume after just 10 days, shaking up the Solana DEX ecosystem &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/250331/p13#a250331p13)
- - [Startup Founder Claims Elon Musk Is Stealing the Name ‘Grok’](https://www.wired.com/story/grok-trademark-dispute-name/)
- - [Nasdaq-listed Chinese self-driving company WeRide, which reported a ~$260M loss in 2023 and a ~$344M loss in 2024, warns profitability is &quot;difficult to predict&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250331/p12#a250331p12)<!-- TECH:END -->
+ - [Galaxy Z Flip 7 FE looks just like last year’s flagship](https://www.theverge.com/news/639429/samsung-galaxy-z-flip-7-fe-leaks-renders-design-cover-screen)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

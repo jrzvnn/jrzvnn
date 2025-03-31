@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well... We all know who is he.](http://9gag.com/gag/agm7b0v)
+ - 😝 [Damn!!! Ended his career with to that crossover. Old 9gag memes](http://9gag.com/gag/ae9ZqYB)
+ - 😝 [Magic and Crime](http://9gag.com/gag/aByVN5Z)
+ - 💣 [Well... We all know who is he.](http://9gag.com/gag/agm7b0v)
  - 😝 [Bro lives in the backrooms](http://9gag.com/gag/aByVzQA)
- - 💣 [I guess being a good brother is weird.](http://9gag.com/gag/ajPLd3g)
- - 😝 [Right answers only](http://9gag.com/gag/awy1G4r)
- - 👉 [His wives are all damn hot in most of his movies](http://9gag.com/gag/apR6jMB)<!-- MEMES:END -->
+ - 👉 [Right answers only](http://9gag.com/gag/awy1G4r)<!-- MEMES:END -->
 
 ---
 

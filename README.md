@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When rightwingers say there are too many regulations lol](http://9gag.com/gag/abA4DGr)
- - 😝 [What was he thinking?!](http://9gag.com/gag/aAyKL7L)
- - 💣 [Bro lives in the backrooms](http://9gag.com/gag/aByVzQA)
- - 😝 [Stolen!](http://9gag.com/gag/a870NKe)
- - 👉 [Soccer](http://9gag.com/gag/aPAo0VG)<!-- MEMES:END -->
+ - 😝 [Satisfaction compilation](http://9gag.com/gag/aW4nydq)
+ - 😝 [Better snow white](http://9gag.com/gag/avy6BvZ)
+ - 💣 [Hand egg](http://9gag.com/gag/aRBMWZB)
+ - 😝 [I am this old](http://9gag.com/gag/aoyRoxx)
+ - 👉 [We get nice graphics but soulless games](http://9gag.com/gag/a340gAQ)<!-- MEMES:END -->
 
 ---
 

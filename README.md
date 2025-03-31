@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Robot vacuums are getting upgraded support for Apple Home](https://www.theverge.com/news/640059/apple-ios-update-matter-robot-vacuum-roborock-irobot-ecovacs)
  - [Tampa-based ReliaQuest, which provides AI-powered cybersecurity tools, raised $500M+ in a funding round led by EQT, KKR, and FTV Capital, valuing it at $3.4B &lpar;Angus Loten/Wall Street Journal&rpar;](http://www.techmeme.com/250331/p38#a250331p38)
  - [Don&#39;t wait to update: iOS 18.4 introduces key security fixes](https://appleinsider.com/articles/25/03/31/dont-wait-to-update-ios-184-introduces-key-security-fixes?utm_medium=rss)
- - [Do Renters Get Tax Deductions or Credits This Tax Season?](https://www.cnet.com/personal-finance/taxes/do-renters-get-tax-deductions-or-credits-this-tax-season/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Top Officials Placed on Leave After Denying DOGE Access to Federal Payroll Systems](https://www.wired.com/story/doge-access-federal-payroll-systems-officials-leave-interior/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

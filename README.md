@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [&#39;Toxic&#39; masculinity wins again.](http://9gag.com/gag/a9y5N3K)
- - 😝 [Magic and Crime](http://9gag.com/gag/aByVN5Z)
- - 💣 [When a rugby player kicks an American football.](http://9gag.com/gag/a870zPe)
- - 😝 [Well... We all know who is he.](http://9gag.com/gag/agm7b0v)
- - 👉 [I was there 3000yrs ago](http://9gag.com/gag/apR6jg8)<!-- MEMES:END -->
+ - 😝 [Michael Winslow](http://9gag.com/gag/aPAo0ew)
+ - 😝 [Outstanding move](http://9gag.com/gag/aAyKLmd)
+ - 💣 [I will not even be surprised if it turns out true](http://9gag.com/gag/a1m0nDP)
+ - 😝 [My fellow souls like game enthusiast... we have good news..](http://9gag.com/gag/a6Z5z5L)
+ - 👉 [Did he say Thank You once?](http://9gag.com/gag/aByVM4Z)<!-- MEMES:END -->
 
 ---
 

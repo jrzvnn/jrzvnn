@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hulk Hogan and his new wife film their reaction to his ex-wife&#39;s `pain &amp; loneliness` &lpar;he divorced her for cheating with his son&#39;s best friend&rpar;.](http://9gag.com/gag/a0e0qYB)
- - 😝 [The ones will understand](http://9gag.com/gag/a340Dy1)
- - 💣 [Buttoning up your boots](http://9gag.com/gag/aGyBvLz)
+ - 😝 [These were the times](http://9gag.com/gag/aD28Lwd)
  - 😝 [Opening a 72-year-old tin of survival cookies and crackers from a fallout shelter](http://9gag.com/gag/a4PNgNZ)
- - 👉 [Even Joker was shocked](http://9gag.com/gag/aPAo0Yn)<!-- MEMES:END -->
+ - 💣 [6.1 million Americans are behind on their mortgage, the highest in 20+ years. Brace for impact.](http://9gag.com/gag/azxKyxK)
+ - 😝 [POV: Your mall is about to go out of business.](http://9gag.com/gag/aD285mx)
+ - 👉 [America is such a surreal place](http://9gag.com/gag/aRBM8Xj)<!-- MEMES:END -->
 
 ---
 

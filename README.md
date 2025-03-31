@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Democratic Senators Call for Privacy Act Reform in Response to DOGE Takeover](https://www.wired.com/story/democratic-senators-privacy-act-reform-doge-takeover/)
  - [All the Top New Features in MacOS Sequoia](https://www.wired.com/story/apple-macos-sequoia-features/)
  - [Sam Altman Says OpenAI Will Release an ‘Open Weight’ AI Model This Summer](https://www.wired.com/story/openai-sam-altman-announce-open-source-model/)
  - [Sam Altman says OpenAI is planning to &quot;release a powerful new open-weight language model with reasoning in the coming months&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250331/p36#a250331p36)
- - [Apple Watch Series 10 almost had a new health sensor](https://appleinsider.com/articles/25/03/31/apple-watch-series-10-almost-had-a-new-health-sensor?utm_medium=rss)
- - [IGN Live Fan Festival Returns With Games, Celebrities and More on June 7](https://www.cnet.com/tech/gaming/ign-live-fan-festival-returns-with-games-celebrities-and-more-on-june-7/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Watch Series 10 almost had a new health sensor](https://appleinsider.com/articles/25/03/31/apple-watch-series-10-almost-had-a-new-health-sensor?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

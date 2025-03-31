@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple hasn&#39;t forgotten about some older iOS, iPadOS, and macOS versions](https://appleinsider.com/articles/25/03/31/apple-hasnt-forgotten-about-some-older-ios-ipados-and-macos-versions?utm_medium=rss)
  - [Apple releases visionOS 2.4 with Apple Intelligence, a Spatial Gallery app that features Apple-curated media, with &quot;new content released regularly&quot;, and more &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250331/p32#a250331p32)
  - [The Top New Features in Apple’s iOS 18 and iPadOS 18](https://www.wired.com/story/apple-iphone-ios-18-ipados-18-new-features/)
- - [Apple releases iOS 18.4 with Priority notifications for Apple Intelligence, which adds support for eight more languages, Ambient Music via Control Center, more &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/250331/p31#a250331p31)
- - [iOS 18.4 is out now with Apple Intelligence-powered priority notifications](https://www.theverge.com/news/639849/apple-ios-18-4-intelligence-priority-notifications)
- - [New &#39;Break Through Silent Mode&#39; debuts in watchOS 11.4](https://appleinsider.com/articles/25/03/31/new-break-through-silent-mode-debuts-watchos-114-fixes-bugs?utm_medium=rss)<!-- TECH:END -->
+ - [Apple releases iOS 18.4 with Priority notifications for Apple Intelligence, which gets support for eight more languages, Ambient Music via Control Center, more &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/250331/p31#a250331p31)
+ - [iOS 18.4 is out now with Apple Intelligence-powered priority notifications](https://www.theverge.com/news/639849/apple-ios-18-4-intelligence-priority-notifications)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

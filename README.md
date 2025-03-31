@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [This is how strong Squid&#39;s Ink is in stability and pigment intensity after a week](http://9gag.com/gag/aMVP7yG)
- - 😝 [Opening a 72-year-old tin of survival cookies and crackers from a fallout shelter](http://9gag.com/gag/a4PNgNZ)
+ - 😝 [America is such a surreal place](http://9gag.com/gag/aRBM8Xj)
  - 💣 [I love this game](http://9gag.com/gag/aNDQM5w)
- - 😝 [The ones will understand](http://9gag.com/gag/a340Dy1)
- - 👉 [Buttoning up your boots](http://9gag.com/gag/aGyBvLz)<!-- MEMES:END -->
+ - 😝 [POV: Your mall is about to go out of business.](http://9gag.com/gag/aD285mx)
+ - 👉 [The ones will understand](http://9gag.com/gag/a340Dy1)<!-- MEMES:END -->
 
 ---
 

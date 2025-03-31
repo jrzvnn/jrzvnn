@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Michael Winslow](http://9gag.com/gag/aPAo0ew)
- - 😝 [Outstanding move](http://9gag.com/gag/aAyKLmd)
- - 💣 [I will not even be surprised if it turns out true](http://9gag.com/gag/a1m0nDP)
- - 😝 [My fellow souls like game enthusiast... we have good news..](http://9gag.com/gag/a6Z5z5L)
- - 👉 [Did he say Thank You once?](http://9gag.com/gag/aByVM4Z)<!-- MEMES:END -->
+ - 😝 [Spray foam](http://9gag.com/gag/a870vLZ)
+ - 😝 [Can\u2019t believe we had this in the 60\u2019s. Scary to Imagine what they have now](http://9gag.com/gag/aGyBbm0)
+ - 💣 [Magic and Crime](http://9gag.com/gag/aByVN5Z)
+ - 😝 [The ones will understand](http://9gag.com/gag/a340Dy1)
+ - 👉 [His wives are all damn hot in most of his movies](http://9gag.com/gag/apR6jMB)<!-- MEMES:END -->
 
 ---
 

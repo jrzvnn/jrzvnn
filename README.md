@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TSMC says its Kaohsiung plant in Taiwan is set to begin 2nm wafer volume production in H2 2025, reaffirming its commitment to Taiwan during its US expansion &lpar;Reuters&rpar;](http://www.techmeme.com/250331/p16#a250331p16)
  - [Trump’s Trade War Pushes Canadian Tech Workers to Rethink Silicon Valley](https://www.wired.com/story/canada-startups-silicon-valley-trump-annexation/)
  - [Nokia and Amazon settle a long-running, global patent dispute over Amazon using Nokia&#39;s video tech in Prime Video and its devices, without disclosing the terms &lpar;Karin Matussek/Bloomberg&rpar;](http://www.techmeme.com/250331/p15#a250331p15)
  - [An interview with White House OSTP Director Michael Kratsios, a Peter Thiel protégé confirmed by the Senate on March 25, on US plans to counter Beijing on AI &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/250331/p14#a250331p14)
- - [An AI Image Generator’s Exposed Database Reveals What People Really Used It For](https://www.wired.com/story/genomis-ai-image-database-exposed/)
- - [Galaxy Z Flip 7 FE looks just like last year’s flagship](https://www.theverge.com/news/639429/samsung-galaxy-z-flip-7-fe-leaks-renders-design-cover-screen)<!-- TECH:END -->
+ - [14 of the Best Sci-Fi Movies You Can Watch on Prime Video Right Now](https://www.cnet.com/tech/services-and-software/best-sci-fi-movies-on-prime-video-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stolen!](http://9gag.com/gag/a870NKe)
- - 😝 [Check out the accuracy!](http://9gag.com/gag/aMVPDpR)
- - 💣 [The ones will understand](http://9gag.com/gag/a340Dy1)
- - 😝 [Is brother gonna fold?](http://9gag.com/gag/a2v0AMe)
- - 👉 [When You Try to Show off in the Wrong Chat](http://9gag.com/gag/ae9ZqvW)<!-- MEMES:END -->
+ - 😝 [Better snow white](http://9gag.com/gag/avy6BvZ)
+ - 😝 [Satisfaction compilation](http://9gag.com/gag/aW4nydq)
+ - 💣 [I am this old](http://9gag.com/gag/aoyRoxx)
+ - 😝 [Hand egg](http://9gag.com/gag/aRBMWZB)
+ - 👉 [We get nice graphics but soulless games](http://9gag.com/gag/a340gAQ)<!-- MEMES:END -->
 
 ---
 

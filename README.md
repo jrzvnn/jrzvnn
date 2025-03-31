@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [France&#39;s antitrust regulator fines Apple €150M after a lengthy investigation into how iOS asks to collect user data under ATT and the impact on advertisers &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/250331/p9#a250331p9)
  - [Chinese AI startup Zhipu, which secured three rounds of government-backed funding in March 2025, launches a free AI agent, intensifying the domestic AI race &lpar;Reuters&rpar;](http://www.techmeme.com/250331/p8#a250331p8)
  - [An analysis finds 170+ violent vigilante attacks since 2023 by US &quot;pedophile hunters&quot;, whose online content has been amplified by websites like Kick and Locals &lpar;New York Times&rpar;](http://www.techmeme.com/250331/p7#a250331p7)
  - [Chinese startup Manus, whose AI agent service is still in beta, announces a $39 per month Manus Starter plan and an upgraded $199 per month Pro tier &lpar;Bloomberg&rpar;](http://www.techmeme.com/250331/p6#a250331p6)
- - [A look at the race between China and the US to build truly useful humanoid robots, as China lists &quot;embodied&quot; AI as a priority for a $138B state investment fund &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250331/p5#a250331p5)
- - [Japan earmarks up to ~$5.4B in additional aid for chipmaker Rapidus, which aims to begin mass production of 2nm chips in 2027, a highly ambitious target &lpar;Bloomberg&rpar;](http://www.techmeme.com/250331/p4#a250331p4)<!-- TECH:END -->
+ - [A look at the race between China and the US to build truly useful humanoid robots, as China lists &quot;embodied&quot; AI as a priority for a $138B state investment fund &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250331/p5#a250331p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Similarweb: Gemini&#39;s web app had 10.9M average daily visits in March, up 7.4% MoM; Sensor Tower: Claude and Gemini saw activity jump after flagship model debuts &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250401/p30#a250401p30)
  - [Hyundai’s Insteroid is an EV one-off for gamers](https://www.theverge.com/news/640849/hyundai-insteroid-inster-ev-concept-sport)
  - [Runway says its latest AI video model can actually generate consistent scenes and people](https://www.theverge.com/news/640821/runway-gen-4-artificial-intelligence-video-generator-filmmaking)
  - [Sources: a16z is in talks to join the Oracle-led frontrunner bid for TikTok&#39;s US arm, after being approached along with Blackstone Group and others &lpar;Financial Times&rpar;](http://www.techmeme.com/250401/p29#a250401p29)
- - [Premier League Soccer: Stream Arsenal vs. Fulham Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-arsenal-vs-fulham-live-from-anywhere/#ftag=CAD590a51e)
- - [Apple has just rereleased watchOS 11.4 to the public](https://appleinsider.com/articles/25/04/01/apple-has-just-rereleased-watchos-114-to-the-public?utm_medium=rss)<!-- TECH:END -->
+ - [Premier League Soccer: Stream Arsenal vs. Fulham Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-arsenal-vs-fulham-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

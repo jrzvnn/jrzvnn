@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lightmatter, which uses silicon photonics to move data in chips via light, unveils an interposer and chiplet for AI chips; the startup has raised $850M so far &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250401/p16#a250401p16)
+ - [The Alan Turing Institute, the UK&#39;s flagship AI agency, plans to focus on defense, environment, and health, after staff criticized its leadership in December &lpar;Financial Times&rpar;](http://www.techmeme.com/250401/p15#a250401p15)
  - [How some UK parents created a &quot;Smartphone Free Childhood&quot; pledge, signed by 124K+ people, after the UK government watered down a bill banning phones in schools &lpar;Megan Specia/New York Times&rpar;](http://www.techmeme.com/250401/p14#a250401p14)
  - [It’s the moment of truth for Zuckerberg’s Trump bet](https://www.theverge.com/news/640368/mark-zuckerberg-meta-eu-fine-trump)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 1, #190](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-1-190/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for April 1, #394](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-1-394/#ftag=CAD590a51e)
- - [Today&#39;s All-Symbol NYT Connections Answer Feels Like an April Fool&#39;s Joke](https://www.cnet.com/tech/gaming/todays-all-symbol-nyt-connections-answer-feels-like-an-april-fools-joke/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 1, #190](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-1-190/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

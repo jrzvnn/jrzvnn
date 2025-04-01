@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a friendly reminder of what we had to deal with before pandemics, war, and existential dread.](http://9gag.com/gag/a870gz6)
- - 😝 [Love how they jiggle.](http://9gag.com/gag/aByVeBO)
- - 💣 [Rock on girls](http://9gag.com/gag/aW4nXR2)
- - 😝 [Chat burn](http://9gag.com/gag/aByV5MO)
- - 👉 [When you decide to go with the cheaper company](http://9gag.com/gag/aLn4EWA)<!-- MEMES:END -->
+ - 😝 [Osama Bin Laden at Oxford in 1971. He is approximately 14 in this image.](http://9gag.com/gag/a340DQv)
+ - 😝 [It&#39;s hard work but someone has to do it](http://9gag.com/gag/aE0A54M)
+ - 💣 [Alison smith performing what would become one of the hardest rap openings of all time 1982](http://9gag.com/gag/a1m069P)
+ - 😝 [Wankpanzers, very revolutionary lmao](http://9gag.com/gag/aoyR7Qw)
+ - 👉 [Yes they do idiot. Bucks drop their antlers every single year.](http://9gag.com/gag/aryX7MX)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Haters gonna say it&#39;s fake.](http://9gag.com/gag/a870RGp)
+ - 😝 [This is a Korean girl studying in Canada](http://9gag.com/gag/abA48Kb)
+ - 😝 [Alison smith performing what would become one of the hardest rap openings of all time 1982](http://9gag.com/gag/a1m069P)
+ - 💣 [Have you ever heard of firesnow?](http://9gag.com/gag/aAyKA4R)
  - 😝 [Did they really make a joke into a serious episode of the good doctor?](http://9gag.com/gag/aoyRvM3)
- - 💣 [BLM Murals getting taken down in HD](http://9gag.com/gag/agm7D9g)
- - 😝 [A digital legend you\u2019ve probably never heard of\u2026](http://9gag.com/gag/amo6ZVX)
- - 👉 [Transaction](http://9gag.com/gag/abA4N1b)<!-- MEMES:END -->
+ - 👉 [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)<!-- MEMES:END -->
 
 ---
 

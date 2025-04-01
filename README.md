@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [watchOS 11.4 was briefly available, and was pulled by Apple [u]](https://appleinsider.com/articles/25/03/31/new-break-through-silent-mode-debuts-watchos-114-fixes-bugs?utm_medium=rss)
- - [In a new strategy, Amazon plans to release 14 to 16 movies per year in theaters, rivaling other major studios, with most running for 45 days before streaming &lpar;Nicole Sperling/New York Times&rpar;](http://www.techmeme.com/250401/p19#a250401p19)
- - [Nuphy Kick75 Keyboard review: Hybrid profile keyboard is a work in progress](https://appleinsider.com/articles/25/04/01/nuphy-kick75-keyboard-review-hybrid-profile-keyboard-in-progress?utm_medium=rss)
- - [Tether acquired 8,888 bitcoin worth $735M in Q1 2025, taking its total holdings to $7.8B and making it the sixth-largest bitcoin holder in a single wallet &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/250401/p18#a250401p18)
- - [7 Best Coffee Grinders, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-coffee-grinders/)<!-- TECH:END -->
+ - [Spec-tacular week](https://www.theverge.com/tech/631190/specs-gadgets-usb-battery-nintendo)
+ - [Ahead of the Switch 2, Nintendo is branching out to use its characters in cinema, theme parks, and merch in a Disney-like way to create more consistent revenue &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/250401/p20#a250401p20)
+ - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
+ - [These Are the Best Photoshop AI Tools: How to Use Generative Fill, Expand and Remove](https://www.cnet.com/tech/services-and-software/these-are-the-best-photoshop-ai-tools-how-to-use-generative-fill-expand-and-remove/#ftag=CAD590a51e)
+ - [N+ Bikes Mercedes-AMG F1 Track Edition 750 Electric Bike Review: All Looks, No Shine](https://www.wired.com/review/n-bikes-mercedes-amg-f1-track-edition-750-electric-bike/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

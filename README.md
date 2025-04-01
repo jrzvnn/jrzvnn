@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [How some UK parents created a &quot;Smartphone Free Childhood&quot; pledge, signed by 124K+ people, after the UK government watered down a bill banning phones in schools &lpar;Megan Specia/New York Times&rpar;](http://www.techmeme.com/250401/p14#a250401p14)
  - [It’s the moment of truth for Zuckerberg’s Trump bet](https://www.theverge.com/news/640368/mark-zuckerberg-meta-eu-fine-trump)
- - [Yuval Noah Harari: ‘How Do We Share the Planet With This New Superintelligence?’](https://www.wired.com/story/questions-answered-by-yuval-noah-harari-for-wired-ai-artificial-intelligence-singularity/)
- - [ChatGPT’s improved image generation is now available for free](https://www.theverge.com/news/640359/chat-gpt-4o-image-generator-ghibli-free-users)
- - [A look at Shanghai municipal government-backed SpaceSail, a satellite internet company that has launched ~90 satellites so far and plans to have 15,000 by 2030 &lpar;Lam Le/Rest of World&rpar;](http://www.techmeme.com/250401/p13#a250401p13)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 1, #190](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-1-190/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 1, #394](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-1-394/#ftag=CAD590a51e)
+ - [Today&#39;s All-Symbol NYT Connections Answer Feels Like an April Fool&#39;s Joke](https://www.cnet.com/tech/gaming/todays-all-symbol-nyt-connections-answer-feels-like-an-april-fools-joke/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

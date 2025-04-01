@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Sonos Arc is down to a new all-time low price](https://www.theverge.com/tech/640560/sonos-arc-second-gen-arlo-video-doorbell-deal-sale)
+ - [OpenAI says ChatGPT has hit 20M paid subscribers, up from 15.5M at the end of 2024, suggesting the company is making at least $415M in monthly revenue &lpar;The Information&rpar;](http://www.techmeme.com/250401/p24#a250401p24)
  - [Searching for the perfect minimalist smartphone](https://www.theverge.com/the-vergecast/640475/minimalist-smartphone-tesla-takedown-vergecast)
  - [Best Smart Home Safes for 2025: Durable Connectivity](https://www.cnet.com/home/security/best-smart-home-safes/#ftag=CAD590a51e)
- - [April Fools&amp;#8217; 2025: Dbrand’s new skins let you &amp;#8216;touch grass&amp;#8217; without the hassle of going outside](https://www.theverge.com/news/638284/dbrand-touch-grass-skin-tablet-smartphone-handheld-console)
- - [Nintendo Switch 2: Release Date Rumors, Everything We Know So Far](https://www.cnet.com/tech/gaming/nintendo-switch-2-release-date-rumors-everything-we-know-so-far/#ftag=CAD590a51e)
- - [2025 Mac Studio review: One clear purchase choice for most buyers](https://appleinsider.com/articles/25/04/01/2025-mac-studio-review-one-clear-purchase-choice-for-most-buyers?utm_medium=rss)<!-- TECH:END -->
+ - [April Fools&amp;#8217; 2025: Dbrand’s new skins let you &amp;#8216;touch grass&amp;#8217; without the hassle of going outside](https://www.theverge.com/news/638284/dbrand-touch-grass-skin-tablet-smartphone-handheld-console)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

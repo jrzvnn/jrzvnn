@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The ones will understand](http://9gag.com/gag/a340Dy1)
- - 😝 [Buttoning up your boots](http://9gag.com/gag/aGyBvLz)
- - 💣 [Based](http://9gag.com/gag/aByVebz)
- - 😝 [Somebody tells me it belongs here](http://9gag.com/gag/aLn43Mg)
- - 👉 [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)<!-- MEMES:END -->
+ - 😝 [Today is the day.](http://9gag.com/gag/apR6ZRn)
+ - 😝 [Chat burn](http://9gag.com/gag/aByV5MO)
+ - 💣 [When you decide to go with the cheaper company](http://9gag.com/gag/aLn4EWA)
+ - 😝 [2 types of 30+ men](http://9gag.com/gag/ae9Zzzq)
+ - 👉 [Love how they jiggle.](http://9gag.com/gag/aByVeBO)<!-- MEMES:END -->
 
 ---
 

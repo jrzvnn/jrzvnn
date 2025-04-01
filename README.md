@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait WHAT ?](http://9gag.com/gag/azxK3QK)
- - 😝 [Even in dogs there are levels](http://9gag.com/gag/aVvKrQK)
- - 💣 [Hulk Hogan and his new wife film their reaction to his ex-wife&#39;s `pain &amp; loneliness` &lpar;he divorced her for cheating with his son&#39;s best friend&rpar;.](http://9gag.com/gag/a0e0qYB)
- - 😝 [The ones will understand](http://9gag.com/gag/a340Dy1)
- - 👉 [A digital legend you\u2019ve probably never heard of\u2026](http://9gag.com/gag/amo6ZVX)<!-- MEMES:END -->
+ - 😝 [Based](http://9gag.com/gag/aByVebz)
+ - 😝 [Have you ever heard of firesnow?](http://9gag.com/gag/aAyKA4R)
+ - 💣 [Even Joker was shocked](http://9gag.com/gag/aPAo0Yn)
+ - 😝 [Osama Bin Laden at Oxford in 1971. He is approximately 14 in this image.](http://9gag.com/gag/a340DQv)
+ - 👉 [Love how they jiggle.](http://9gag.com/gag/aByVeBO)<!-- MEMES:END -->
 
 ---
 

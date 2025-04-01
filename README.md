@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Love how they jiggle.](http://9gag.com/gag/aByVeBO)
- - 😝 [Just a friendly reminder of what we had to deal with before pandemics, war, and existential dread.](http://9gag.com/gag/a870gz6)
- - 💣 [Rock on girls](http://9gag.com/gag/aW4nXR2)
- - 😝 [Chat burn](http://9gag.com/gag/aByV5MO)
- - 👉 [I need to laugh](http://9gag.com/gag/aNDQ54A)<!-- MEMES:END -->
+ - 😝 [Graphic design is over. Sorry but there&#39;s no turning back now.](http://9gag.com/gag/avy6Vyn)
+ - 😝 [Osama Bin Laden at Oxford in 1971. He is approximately 14 in this image.](http://9gag.com/gag/a340DQv)
+ - 💣 [The ones will understand](http://9gag.com/gag/a340Dy1)
+ - 😝 [Wait WHAT ?](http://9gag.com/gag/azxK3QK)
+ - 👉 [Buttoning up your boots](http://9gag.com/gag/aGyBvLz)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Alison smith performing what would become one of the hardest rap openings of all time 1982](http://9gag.com/gag/a1m069P)
- - 😝 [Buttoning up your boots](http://9gag.com/gag/aGyBvLz)
- - 💣 [Wankpanzers, very revolutionary lmao](http://9gag.com/gag/aoyR7Qw)
  - 😝 [Based](http://9gag.com/gag/aByVebz)
- - 👉 [It&#39;s hard work but someone has to do it](http://9gag.com/gag/aE0A54M)<!-- MEMES:END -->
+ - 😝 [Quiet quitting](http://9gag.com/gag/aRBMbj7)
+ - 💣 [Alison smith performing what would become one of the hardest rap openings of all time 1982](http://9gag.com/gag/a1m069P)
+ - 😝 [Wankpanzers, very revolutionary lmao](http://9gag.com/gag/aoyR7Qw)
+ - 👉 [6.1 million Americans are behind on their mortgage, the highest in 20+ years. Brace for impact.](http://9gag.com/gag/azxKyxK)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Osama Bin Laden at Oxford in 1971. He is approximately 14 in this image.](http://9gag.com/gag/a340DQv)
- - 😝 [It&#39;s hard work but someone has to do it](http://9gag.com/gag/aE0A54M)
+ - 😝 [What was he thinking?!](http://9gag.com/gag/aAyKL7L)
+ - 😝 [Somebody tells me it belongs here](http://9gag.com/gag/aLn43Mg)
  - 💣 [Alison smith performing what would become one of the hardest rap openings of all time 1982](http://9gag.com/gag/a1m069P)
- - 😝 [Wankpanzers, very revolutionary lmao](http://9gag.com/gag/aoyR7Qw)
- - 👉 [Yes they do idiot. Bucks drop their antlers every single year.](http://9gag.com/gag/aryX7MX)<!-- MEMES:END -->
+ - 😝 [Now its worth $10 million](http://9gag.com/gag/axy6qMn)
+ - 👉 [Buttoning up your boots](http://9gag.com/gag/aGyBvLz)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every time I see the queen bee, I feel a slight disappointment that there isn&#39;t at least a crown or something.](http://9gag.com/gag/a9y5eD6)
- - 😝 [Alison smith performing what would become one of the hardest rap openings of all time 1982](http://9gag.com/gag/a1m069P)
- - 💣 [This is a Korean girl studying in Canada](http://9gag.com/gag/abA48Kb)
- - 😝 [Marine Le Pen received a 2-year suspended sentence and a 2-year electronic bracelet from the court, with a 5-year ban on running for election, which guarantees her absence from the elections.](http://9gag.com/gag/aPAo2jw)
- - 👉 [When You Try to Show off in the Wrong Chat](http://9gag.com/gag/ae9ZqvW)<!-- MEMES:END -->
+ - 😝 [Love how they jiggle.](http://9gag.com/gag/aByVeBO)
+ - 😝 [Just a friendly reminder of what we had to deal with before pandemics, war, and existential dread.](http://9gag.com/gag/a870gz6)
+ - 💣 [Rock on girls](http://9gag.com/gag/aW4nXR2)
+ - 😝 [Chat burn](http://9gag.com/gag/aByV5MO)
+ - 👉 [I need to laugh](http://9gag.com/gag/aNDQ54A)<!-- MEMES:END -->
 
 ---
 

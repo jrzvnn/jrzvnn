@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Love how they jiggle.](http://9gag.com/gag/aByVeBO)
- - 😝 [Bro lives in the backrooms](http://9gag.com/gag/aByVzQA)
- - 💣 [Wait WHAT ?](http://9gag.com/gag/azxK3QK)
- - 😝 [This is a Korean girl studying in Canada](http://9gag.com/gag/abA48Kb)
- - 👉 [Have you ever heard of firesnow?](http://9gag.com/gag/aAyKA4R)<!-- MEMES:END -->
+ - 😝 [Based](http://9gag.com/gag/aByVebz)
+ - 😝 [6.1 million Americans are behind on their mortgage, the highest in 20+ years. Brace for impact.](http://9gag.com/gag/azxKyxK)
+ - 💣 [Love how they jiggle.](http://9gag.com/gag/aByVeBO)
+ - 😝 [Have you ever heard of firesnow?](http://9gag.com/gag/aAyKA4R)
+ - 👉 [It&#39;s hard work but someone has to do it](http://9gag.com/gag/aE0A54M)<!-- MEMES:END -->
 
 ---
 

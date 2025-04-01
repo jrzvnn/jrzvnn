@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: SoftBank is seeking a bridge loan of as much as $16.5B to help fund AI investments in the US; the loan may help SoftBank lead a $40B round in OpenAI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250401/p3#a250401p3)
  - [Sources: in recent weeks, Meta executives including Mark Zuckerberg have pressed US trade officials to oppose an impending EU fine and cease-and-desist order &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250401/p2#a250401p2)
  - [PayPal&#39;s Honey extension for Chrome has lost ~4M users from its peak of 20M after a viral December 2024 YouTube video accused Honey of employing shady tactics &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250401/p1#a250401p1)
  - [Microsoft has closed its IoT &amp; AI Insider Lab in Shanghai, reflecting a broader pullback from China amid geopolitical tensions; the lab was opened in May 2019 &lpar;Wency Chen/South China Morning Post&rpar;](http://www.techmeme.com/250331/p51#a250331p51)
- - [Sources: TSMC&#39;s recent $100B US investment pledge was merely an estimated price tag for existing long-term plans and reflects an intention rather than a promise &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/250331/p50#a250331p50)
- - [Sources: US Commerce Secretary Howard Lutnick signals withholding promised CHIPS Act grants as he pushes companies to substantially expand their US projects &lpar;Bloomberg&rpar;](http://www.techmeme.com/250331/p49#a250331p49)<!-- TECH:END -->
+ - [Sources: TSMC&#39;s recent $100B US investment pledge was merely an estimated price tag for existing long-term plans and reflects an intention rather than a promise &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/250331/p50#a250331p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

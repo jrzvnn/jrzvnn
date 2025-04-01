@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US judge rules Arkansas&#39; Social Media Safety Act, which requires minors have parental permission before creating social media accounts, infringes on 1A rights &lpar;Ufonobong Umanah/Bloomberg Law&rpar;](http://www.techmeme.com/250401/p28#a250401p28)
+ - [TikTok is shutting down its Instagram competitor, TikTok Notes, on May 8, directing users to Lemon8, a similar ByteDance-owned app &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250401/p27#a250401p27)
+ - [Future Apple Vision Pro headsets could get an Action Button](https://appleinsider.com/articles/25/04/01/future-apple-vision-pro-headsets-could-get-an-action-button?utm_medium=rss)
  - [ZeniMax union votes to authorize a strike](https://www.theverge.com/news/640423/zenimax-union-cwa-strike-authorization-vote)
- - [Meta VP of AI Research Joelle Pineau says she plans to leave in May 2025 after nearly eight years; she has led the FAIR group since early 2023 &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/250401/p26#a250401p26)
- - [The FAA hiding private jet details might not stop celebrity jet trackers](https://www.theverge.com/news/640706/faa-private-jet-info-process-wont-stop-online-jet-trackers)
- - [The DOGE Axe Comes for Libraries and Museums](https://www.wired.com/story/institute-museum-library-services-layoffs/)
- - [A shady, shuttered tech bootcamp may be sneaking back online](https://www.theverge.com/news/640674/prehired-fast-track-cfpb-bootcamp)<!-- TECH:END -->
+ - [23andMe Files for Chapter 11: What&#39;s Next For Your Data?](https://www.cnet.com/tech/services-and-software/23andme-files-for-bankruptcy-protection-what-will-happen-to-your-data/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

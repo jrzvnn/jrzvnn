@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The CDC Has Been Gutted](https://www.wired.com/story/cdc-gutted-rif/)
+ - [Best Graphics Cards &lpar;GPUs&rpar; for PC: Nvidia, AMD, Intel](https://www.wired.com/gallery/best-graphics-cards-gpu/)
+ - [Computing would be totally different had Apple not been formed 49 years ago, today](https://appleinsider.com/articles/20/04/01/apple-was-founded-44-years-ago-on-april-1-1976?utm_medium=rss)
  - [The Sonos Arc is down to a new all-time low price](https://www.theverge.com/tech/640560/sonos-arc-second-gen-arlo-video-doorbell-deal-sale)
- - [OpenAI says ChatGPT has hit 20M paid subscribers, up from 15.5M at the end of 2024, suggesting the company is making at least $415M in monthly revenue &lpar;The Information&rpar;](http://www.techmeme.com/250401/p24#a250401p24)
- - [Searching for the perfect minimalist smartphone](https://www.theverge.com/the-vergecast/640475/minimalist-smartphone-tesla-takedown-vergecast)
- - [Best Smart Home Safes for 2025: Durable Connectivity](https://www.cnet.com/home/security/best-smart-home-safes/#ftag=CAD590a51e)
- - [April Fools&amp;#8217; 2025: Dbrand’s new skins let you &amp;#8216;touch grass&amp;#8217; without the hassle of going outside](https://www.theverge.com/news/638284/dbrand-touch-grass-skin-tablet-smartphone-handheld-console)<!-- TECH:END -->
+ - [OpenAI says ChatGPT has hit 20M paid subscribers, up from 15.5M at the end of 2024, suggesting the company is making at least $415M in monthly revenue &lpar;The Information&rpar;](http://www.techmeme.com/250401/p24#a250401p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

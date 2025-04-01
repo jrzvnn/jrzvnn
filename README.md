@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Searching for the perfect minimalist smartphone](https://www.theverge.com/the-vergecast/640475/minimalist-smartphone-tesla-takedown-vergecast)
+ - [Best Smart Home Safes for 2025: Durable Connectivity](https://www.cnet.com/home/security/best-smart-home-safes/#ftag=CAD590a51e)
  - [April Fools&amp;#8217; 2025: Dbrand’s new skins let you &amp;#8216;touch grass&amp;#8217; without the hassle of going outside](https://www.theverge.com/news/638284/dbrand-touch-grass-skin-tablet-smartphone-handheld-console)
- - [2025 Mac Studio review: One clear purchase choice for most buyers](https://appleinsider.com/articles/25/04/01/2025-mac-studio-review-one-clear-purchase-choice-for-most-buyers?utm_medium=rss)
- - [Substack says it&amp;#8217;ll legally defend writers &amp;#8216;targeted by the government&amp;#8217;](https://www.theverge.com/news/640495/substack-legally-defend-writers-targeted-by-government)
- - [Spider-Man: Beyond the Spider-Verse swings into theaters in 2027](https://www.theverge.com/news/640415/spider-man-beyond-the-spider-verse-release-date)<!-- TECH:END -->
+ - [Nintendo Switch 2: Release Date Rumors, Everything We Know So Far](https://www.cnet.com/tech/gaming/nintendo-switch-2-release-date-rumors-everything-we-know-so-far/#ftag=CAD590a51e)
+ - [2025 Mac Studio review: One clear purchase choice for most buyers](https://appleinsider.com/articles/25/04/01/2025-mac-studio-review-one-clear-purchase-choice-for-most-buyers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mozilla says it&#39;s developing Thundermail, an email service similar to Gmail but with a focus on privacy, as part of an upcoming premium Thunderbird Pro suite &lpar;Jason Evangelho/Forbes&rpar;](http://www.techmeme.com/250401/p33#a250401p33)
- - [Thousands of federal health workers are losing their jobs in the US](https://www.theverge.com/news/640988/trump-rfk-health-human-services-cdc-fda-reductions)
- - [All of the updates about OpenAI](https://www.theverge.com/news/640086/openai-chat-gpt-news-updates)
- - [NFL swaps first-down chains for Sony&amp;#8217;s 8K cameras](https://www.theverge.com/news/640890/nfl-sony-hawk-eye-first-down-chains)
- - [Here are some must-have accessories for your Xbox Series X / S](https://www.theverge.com/21550830/xbox-series-x-s-wireless-controller-ssd-hard-drive-accessories)<!-- TECH:END -->
+ - [OWC Thunderbolt docks for Mac have dropped to record low prices, from $149.99](https://appleinsider.com/articles/25/04/01/owc-thunderbolt-docks-for-mac-have-dropped-to-record-low-prices-from-14999?utm_medium=rss)
+ - [Sources: WH national security adviser Michael Waltz and other National Security Council members have conducted government affairs over personal Gmail accounts &lpar;John Hudson/Washington Post&rpar;](http://www.techmeme.com/250401/p35#a250401p35)
+ - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
+ - [Sources: Visa has offered Apple ~$100M to become the network for the Apple Card; Amex is also competing, while Mastercard tries to keep its role as the network &lpar;AnnaMaria Andriotis/Wall Street Journal&rpar;](http://www.techmeme.com/250401/p34#a250401p34)
+ - [Mozilla says it&#39;s developing Thundermail, an email service similar to Gmail but with a focus on privacy, as part of an upcoming premium Thunderbird Pro suite &lpar;Jason Evangelho/Forbes&rpar;](http://www.techmeme.com/250401/p33#a250401p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is a Korean girl studying in Canada](http://9gag.com/gag/abA48Kb)
- - 😝 [Alison smith performing what would become one of the hardest rap openings of all time 1982](http://9gag.com/gag/a1m069P)
- - 💣 [Have you ever heard of firesnow?](http://9gag.com/gag/aAyKA4R)
- - 😝 [Did they really make a joke into a serious episode of the good doctor?](http://9gag.com/gag/aoyRvM3)
- - 👉 [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)<!-- MEMES:END -->
+ - 😝 [Buttoning up your boots](http://9gag.com/gag/aGyBvLz)
+ - 😝 [Based](http://9gag.com/gag/aByVebz)
+ - 💣 [This is a Korean girl studying in Canada](http://9gag.com/gag/abA48Kb)
+ - 😝 [Not today mofo, I\u2019m getting that passport.](http://9gag.com/gag/aMVPMyR)
+ - 👉 [Opening a 72-year-old tin of survival cookies and crackers from a fallout shelter](http://9gag.com/gag/a4PNgNZ)<!-- MEMES:END -->
 
 ---
 

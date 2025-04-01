@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to set up Wi-Fi calling on Android and iPhones](https://www.theverge.com/how-to/640036/wi-fi-calling-android-iphone-how-to)
- - [Gmail is making it easier for businesses to send encrypted emails to anyone](https://www.theverge.com/news/640422/google-gmail-email-encryption-enterprise-beta)
- - [Spec-tacular week](https://www.theverge.com/tech/631190/specs-gadgets-usb-battery-nintendo)
- - [Ahead of the Switch 2, Nintendo is branching out to use its characters in cinema, theme parks, and merch in a Disney-like way to create more consistent revenue &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/250401/p20#a250401p20)
- - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)<!-- TECH:END -->
+ - [Google is bringing its immersive Rewarded Video ads to Roblox, letting users watch ads in exchange for in-game benefits like virtual currency or power-ups &lpar;Kendra Barnett/Adweek&rpar;](http://www.techmeme.com/250401/p23#a250401p23)
+ - [20 Key iPhone Settings to Change &lpar;2025&rpar;](https://www.wired.com/story/key-iphone-settings-to-change/)
+ - [How to watch the Switch 2 Direct](https://www.theverge.com/news/638534/nintendo-switch-2-direct-stream-time-date-watch)
+ - [April Fools’ Day 2025: the best and cringiest pranks](https://www.theverge.com/news/639824/april-fools-day-2025-pranks-jokes-best-worst)
+ - [Elon Musk’s $1 million handout winners are connected to Republican causes](https://www.theverge.com/politics/640230/elon-musk-wisconsin-supreme-court-million-dollars-brad-schimel)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

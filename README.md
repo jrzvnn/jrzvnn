@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tether acquired 8,888 bitcoin worth $735M in Q1 2025, taking its total holdings to $7.8B and making it the sixth-largest bitcoin holder in a single wallet &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/250401/p18#a250401p18)
+ - [7 Best Coffee Grinders, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-coffee-grinders/)
+ - [Why the watt is the most important spec in battery-powered devices](https://www.theverge.com/tech/638559/watt-vs-mah-battery-measurement)
  - [Find My finally works in South Korea](https://appleinsider.com/articles/25/04/01/find-my-finally-works-in-south-korea?utm_medium=rss)
- - [HP Pavilion Plus 14 &lpar;2025&rpar; Review: Affordable OLED Laptop With a Fatal Flaw](https://www.cnet.com/tech/computing/hp-pavilion-plus-14-2025-review-affordable-oled-laptop-with-a-fatal-flaw/#ftag=CAD590a51e)
- - [13 Sci-Fi Shows on Apple TV Plus You Should Absolutely Watch Right Now](https://www.cnet.com/tech/services-and-software/best-apple-tv-plus-sci-fi-shows-2025/#ftag=CAD590a51e)
- - [I&#39;m Sticking With Netflix and Max in April, and You Probably Should, Too](https://www.cnet.com/tech/services-and-software/im-sticking-with-netflix-and-max-in-april-and-you-probably-should-too/#ftag=CAD590a51e)
- - [Best Internet Deals for April 2025](https://www.cnet.com/home/internet/best-internet-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to calculate your home battery needs for the next blackout](https://www.theverge.com/tech/638547/home-backup-power-watt-hours-battery-calculator)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

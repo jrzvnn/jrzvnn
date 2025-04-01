@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Alison smith performing what would become one of the hardest rap openings of all time 1982](http://9gag.com/gag/a1m069P)
+ - 😝 [Opening a 72-year-old tin of survival cookies and crackers from a fallout shelter](http://9gag.com/gag/a4PNgNZ)
+ - 😝 [It&#39;s hard work but someone has to do it](http://9gag.com/gag/aE0A54M)
+ - 💣 [Alison smith performing what would become one of the hardest rap openings of all time 1982](http://9gag.com/gag/a1m069P)
  - 😝 [This is a Korean girl studying in Canada](http://9gag.com/gag/abA48Kb)
- - 💣 [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)
- - 😝 [Buttoning up your boots](http://9gag.com/gag/aGyBvLz)
  - 👉 [Wait WHAT ?](http://9gag.com/gag/azxK3QK)<!-- MEMES:END -->
 
 ---

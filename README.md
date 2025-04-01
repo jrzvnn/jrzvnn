@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s hard work but someone has to do it](http://9gag.com/gag/aE0A54M)
+ - 😝 [Love how they jiggle.](http://9gag.com/gag/aByVeBO)
+ - 😝 [This is a Korean girl studying in Canada](http://9gag.com/gag/abA48Kb)
+ - 💣 [What was he thinking?!](http://9gag.com/gag/aAyKL7L)
  - 😝 [Osama Bin Laden at Oxford in 1971. He is approximately 14 in this image.](http://9gag.com/gag/a340DQv)
- - 💣 [Buttoning up your boots](http://9gag.com/gag/aGyBvLz)
- - 😝 [What was he thinking?!](http://9gag.com/gag/aAyKL7L)
  - 👉 [The ones will understand](http://9gag.com/gag/a340Dy1)<!-- MEMES:END -->
 
 ---

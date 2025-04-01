@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump advisor reportedly used personal Gmail for &amp;#8216;sensitive&amp;#8217; military discussions](https://www.theverge.com/news/641144/michael-waltz-gmail-national-security-signal)
  - [Leaked renders of the Google Pixel 10 Pro Fold show a design similar to its predecessor&#39;s; sources: it will feature a TSMC-made Tensor G5 chip and 16GB of RAM &lpar;Alexander Maxham/Android Headlines&rpar;](http://www.techmeme.com/250401/p40#a250401p40)
  - [Here&amp;#8217;s more of what you&amp;#8217;ll see through Meta&amp;#8217;s $1,000 smart glasses](https://www.theverge.com/news/641153/meta-hypernova-ray-ban-smart-glasses-price)
  - [Sources: Finland-based IQM, which builds full-stack superconducting quantum computers, is in talks to raise more than €200M; it raised a €128M Series A2 in 2022 &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/250401/p39#a250401p39)
- - [Google is fixing outdated Pixel weather forecasts](https://www.theverge.com/news/641127/google-pixel-weather-forecasts-bug)
- - [The best deals left over from Amazon’s Big Spring Sale](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)<!-- TECH:END -->
+ - [Google is fixing outdated Pixel weather forecasts](https://www.theverge.com/news/641127/google-pixel-weather-forecasts-bug)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

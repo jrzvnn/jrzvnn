@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Typical healthy medical test result](http://9gag.com/gag/ayN6AXy)
- - 😝 [Just a friendly reminder of what we had to deal with before pandemics, war, and existential dread.](http://9gag.com/gag/a870gz6)
- - 💣 [Rock on girls](http://9gag.com/gag/aW4nXR2)
- - 😝 [Chat burn](http://9gag.com/gag/aByV5MO)
- - 👉 [I need to laugh](http://9gag.com/gag/aNDQ54A)<!-- MEMES:END -->
+ - 😝 [Love how they jiggle.](http://9gag.com/gag/aByVeBO)
+ - 😝 [These were the times](http://9gag.com/gag/aD28Lwd)
+ - 💣 [This is a Korean girl studying in Canada](http://9gag.com/gag/abA48Kb)
+ - 😝 [Alison smith performing what would become one of the hardest rap openings of all time 1982](http://9gag.com/gag/a1m069P)
+ - 👉 [Bro lives in the backrooms](http://9gag.com/gag/aByVzQA)<!-- MEMES:END -->
 
 ---
 

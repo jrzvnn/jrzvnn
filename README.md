@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Finland-based IQM, which builds full-stack superconducting quantum computers, is in talks to raise more than €200M; it raised a €128M Series A2 in 2022 &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/250401/p39#a250401p39)
+ - [Google is fixing outdated Pixel weather forecasts](https://www.theverge.com/news/641127/google-pixel-weather-forecasts-bug)
  - [The best deals left over from Amazon’s Big Spring Sale](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
  - [Roblox players are going to start getting paid to watch ads](https://www.theverge.com/news/640707/roblox-google-rewarded-video-immersive-ads-paying-players)
- - [YouTube suspends two major fake movie trailer channels from its partner program, after a report on how the AI-heavy trailers generated millions in ad revenue &lpar;Jake Kanter/Deadline&rpar;](http://www.techmeme.com/250401/p38#a250401p38)
- - [T-Mobile closes Lumos deal after dropping DEI](https://www.theverge.com/news/641068/t-mobile-closes-lumos-deal-after-dropping-dei)
- - [Federal Judge Allows DOGE to Take Over $500 Million Office Building For Free](https://www.wired.com/story/judge-approves-doge-usip-office-building/)<!-- TECH:END -->
+ - [YouTube suspends two major fake movie trailer channels from its partner program, after a report on how the AI-heavy trailers generated millions in ad revenue &lpar;Jake Kanter/Deadline&rpar;](http://www.techmeme.com/250401/p38#a250401p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

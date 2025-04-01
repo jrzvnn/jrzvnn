@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The sacred has been profaned and resanctified](http://9gag.com/gag/aGyBmzz)
- - 😝 [This is a Korean girl studying in Canada](http://9gag.com/gag/abA48Kb)
- - 💣 [Wankpanzers, very revolutionary lmao](http://9gag.com/gag/aoyR7Qw)
- - 😝 [What was the plan here?](http://9gag.com/gag/aqy6oAZ)
- - 👉 [Bro lives in the backrooms](http://9gag.com/gag/aByVzQA)<!-- MEMES:END -->
+ - 😝 [Today is the day.](http://9gag.com/gag/apR6ZRn)
+ - 😝 [When you decide to go with the cheaper company](http://9gag.com/gag/aLn4EWA)
+ - 💣 [I need to laugh](http://9gag.com/gag/aNDQ54A)
+ - 😝 [The family hero!](http://9gag.com/gag/a5QwYyo)
+ - 👉 [Love how they jiggle.](http://9gag.com/gag/aByVeBO)<!-- MEMES:END -->
 
 ---
 

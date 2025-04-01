@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mozilla says it&#39;s developing Thundermail, an email service similar to Gmail but with a focus on privacy, as part of an upcoming premium Thunderbird Pro suite &lpar;Jason Evangelho/Forbes&rpar;](http://www.techmeme.com/250401/p33#a250401p33)
+ - [Thousands of federal health workers are losing their jobs in the US](https://www.theverge.com/news/640988/trump-rfk-health-human-services-cdc-fda-reductions)
  - [All of the updates about OpenAI](https://www.theverge.com/news/640086/openai-chat-gpt-news-updates)
  - [NFL swaps first-down chains for Sony&amp;#8217;s 8K cameras](https://www.theverge.com/news/640890/nfl-sony-hawk-eye-first-down-chains)
- - [Here are some must-have accessories for your Xbox Series X / S](https://www.theverge.com/21550830/xbox-series-x-s-wireless-controller-ssd-hard-drive-accessories)
- - [Sources: Meta is ramping up work on its first AR glasses with a display, which could be introduced as early as the end of 2025 and cost between $1K and $1,400 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250401/p32#a250401p32)
- - [Source: Agility Robotics, a maker of humanoid robots led by Peggy Johnson, is raising $400M at a $1.75B pre-money valuation; ~100 of its robots are in the field &lpar;Rocket Drew/The Information&rpar;](http://www.techmeme.com/250401/p31#a250401p31)<!-- TECH:END -->
+ - [Here are some must-have accessories for your Xbox Series X / S](https://www.theverge.com/21550830/xbox-series-x-s-wireless-controller-ssd-hard-drive-accessories)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

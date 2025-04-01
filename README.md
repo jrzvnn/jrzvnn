@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nuphy Kick75 Keyboard review: Hybrid profile keyboard is a work in progress](https://appleinsider.com/articles/25/04/01/nuphy-kick75-keyboard-review-hybrid-profile-keyboard-in-progress?utm_medium=rss)
  - [Tether acquired 8,888 bitcoin worth $735M in Q1 2025, taking its total holdings to $7.8B and making it the sixth-largest bitcoin holder in a single wallet &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/250401/p18#a250401p18)
  - [7 Best Coffee Grinders, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-coffee-grinders/)
  - [Why the watt is the most important spec in battery-powered devices](https://www.theverge.com/tech/638559/watt-vs-mah-battery-measurement)
- - [Find My finally works in South Korea](https://appleinsider.com/articles/25/04/01/find-my-finally-works-in-south-korea?utm_medium=rss)
- - [How to calculate your home battery needs for the next blackout](https://www.theverge.com/tech/638547/home-backup-power-watt-hours-battery-calculator)<!-- TECH:END -->
+ - [Find My finally works in South Korea](https://appleinsider.com/articles/25/04/01/find-my-finally-works-in-south-korea?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Promo Codes: $50 Off | April 2025](https://www.wired.com/story/samsung-promo-codes/)
  - [Industry executives say Rapido has a 20% share in India&#39;s four-wheeler ride-hailing segment; Uber has a ~50% share, while Ola holds most of the remaining 30% &lpar;The Economic Times&rpar;](http://www.techmeme.com/250401/p6#a250401p6)
  - [Blue Apron Coupons: $80 Off + Free Shipping | April 2025](https://www.wired.com/story/blue-apron-coupon/)
  - [Tinder unveils &quot;The Game Game&quot;, a free in-app voice-based game that invites users to flirt with AI chatbots powered by OpenAI&#39;s GPT-4o and GPT-4o mini models &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250401/p5#a250401p5)
- - [VistaPrint Coupon: Get Up to $50 Off](https://www.wired.com/story/vistaprint-coupon-code/)
- - [Dyson Promo Codes: 20% Off | April 2025](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)<!-- TECH:END -->
+ - [VistaPrint Coupon: Get Up to $50 Off](https://www.wired.com/story/vistaprint-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

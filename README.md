@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft says it used its AI-powered Security Copilot to discover previously unknown vulnerabilities in the GRUB2, U-Boot, and Barebox open-source bootloaders &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250401/p41#a250401p41)
  - [Visible’s new plan puts Verizon’s to shame](https://www.theverge.com/news/640896/visible-plus-pro-plan-verizon-unlimited-welcome)
  - [Trump advisor reportedly used personal Gmail for &amp;#8216;sensitive&amp;#8217; military discussions](https://www.theverge.com/news/641144/michael-waltz-gmail-national-security-signal)
  - [Leaked renders of the Google Pixel 10 Pro Fold show a design similar to its predecessor&#39;s; sources: it will feature a TSMC-made Tensor G5 chip and 16GB of RAM &lpar;Alexander Maxham/Android Headlines&rpar;](http://www.techmeme.com/250401/p40#a250401p40)
- - [Here&amp;#8217;s more of what you&amp;#8217;ll see through Meta&amp;#8217;s $1,000 smart glasses](https://www.theverge.com/news/641153/meta-hypernova-ray-ban-smart-glasses-price)
- - [Sources: Finland-based IQM, which builds full-stack superconducting quantum computers, is in talks to raise €200M+; IQM raised a €128M Series A2 in July 2022 &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/250401/p39#a250401p39)<!-- TECH:END -->
+ - [Here&amp;#8217;s more of what you&amp;#8217;ll see through Meta&amp;#8217;s $1,000 smart glasses](https://www.theverge.com/news/641153/meta-hypernova-ray-ban-smart-glasses-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Today is the day.](http://9gag.com/gag/apR6ZRn)
- - 😝 [When you decide to go with the cheaper company](http://9gag.com/gag/aLn4EWA)
- - 💣 [I need to laugh](http://9gag.com/gag/aNDQ54A)
- - 😝 [The family hero!](http://9gag.com/gag/a5QwYyo)
- - 👉 [Love how they jiggle.](http://9gag.com/gag/aByVeBO)<!-- MEMES:END -->
+ - 😝 [Alison smith performing what would become one of the hardest rap openings of all time 1982](http://9gag.com/gag/a1m069P)
+ - 😝 [Best friends](http://9gag.com/gag/aPAobmV)
+ - 💣 [Based](http://9gag.com/gag/aByVebz)
+ - 😝 [Wankpanzers, very revolutionary lmao](http://9gag.com/gag/aoyR7Qw)
+ - 👉 [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung says TM Roh, who oversees mobile, will temporarily step into a broader role overseeing its consumer electronics, after the death of co-CEO Han Jong-Hee &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250401/p17#a250401p17)
- - [Lightmatter, which uses silicon photonics to move data in chips via light, unveils an interposer and chiplet for AI chips; the startup has raised $850M so far &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250401/p16#a250401p16)
- - [The Alan Turing Institute, the UK&#39;s flagship AI agency, plans to focus on defense, environment, and health, after staff criticized its leadership in December &lpar;Financial Times&rpar;](http://www.techmeme.com/250401/p15#a250401p15)
- - [How some UK parents created a &quot;Smartphone Free Childhood&quot; pledge, signed by 124K+ people, after the UK government watered down a bill banning phones in schools &lpar;Megan Specia/New York Times&rpar;](http://www.techmeme.com/250401/p14#a250401p14)
- - [It’s the moment of truth for Zuckerberg’s Trump bet](https://www.theverge.com/news/640368/mark-zuckerberg-meta-eu-fine-trump)<!-- TECH:END -->
+ - [Find My finally works in South Korea](https://appleinsider.com/articles/25/04/01/find-my-finally-works-in-south-korea?utm_medium=rss)
+ - [HP Pavilion Plus 14 &lpar;2025&rpar; Review: Affordable OLED Laptop With a Fatal Flaw](https://www.cnet.com/tech/computing/hp-pavilion-plus-14-2025-review-affordable-oled-laptop-with-a-fatal-flaw/#ftag=CAD590a51e)
+ - [13 Sci-Fi Shows on Apple TV Plus You Should Absolutely Watch Right Now](https://www.cnet.com/tech/services-and-software/best-apple-tv-plus-sci-fi-shows-2025/#ftag=CAD590a51e)
+ - [I&#39;m Sticking With Netflix and Max in April, and You Probably Should, Too](https://www.cnet.com/tech/services-and-software/im-sticking-with-netflix-and-max-in-april-and-you-probably-should-too/#ftag=CAD590a51e)
+ - [Best Internet Deals for April 2025](https://www.cnet.com/home/internet/best-internet-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

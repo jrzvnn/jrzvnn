@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Marine Le Pen received a 2-year suspended sentence and a 2-year electronic bracelet from the court, with a 5-year ban on running for election, which guarantees her absence from the elections.](http://9gag.com/gag/aPAo2jw)
  - 😝 [The ones will understand](http://9gag.com/gag/a340Dy1)
- - 💣 [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)
+ - 😝 [Buttoning up your boots](http://9gag.com/gag/aGyBvLz)
+ - 💣 [Based](http://9gag.com/gag/aByVebz)
  - 😝 [Somebody tells me it belongs here](http://9gag.com/gag/aLn43Mg)
- - 👉 [Don&#39;t tell me it&#39;s her tetten](http://9gag.com/gag/azxKzMz)<!-- MEMES:END -->
+ - 👉 [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Yuval Noah Harari: ‘How Do We Share the Planet With This New Superintelligence?’](https://www.wired.com/story/questions-answered-by-yuval-noah-harari-for-wired-ai-artificial-intelligence-singularity/)
  - [ChatGPT’s improved image generation is now available for free](https://www.theverge.com/news/640359/chat-gpt-4o-image-generator-ghibli-free-users)
  - [A look at Shanghai municipal government-backed SpaceSail, a satellite internet company that has launched ~90 satellites so far and plans to have 15,000 by 2030 &lpar;Lam Le/Rest of World&rpar;](http://www.techmeme.com/250401/p13#a250401p13)
  - [Uncertainty around high-skilled visas is unsettling Silicon Valley&#39;s immigrant tech community, as tech companies tell employees on visas not to leave the US &lpar;Washington Post&rpar;](http://www.techmeme.com/250401/p12#a250401p12)
- - [Palworld and PUBG are getting dating sims](https://www.theverge.com/news/640147/palworld-pubg-dating-sims)
- - [With the Switch 2, Nintendo must do what it has rarely done before: follow one hit console with another; Nintendo sold 150M+ Switch units since its 2017 launch &lpar;Bloomberg&rpar;](http://www.techmeme.com/250401/p11#a250401p11)<!-- TECH:END -->
+ - [Palworld and PUBG are getting dating sims](https://www.theverge.com/news/640147/palworld-pubg-dating-sims)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

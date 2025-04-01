@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [USPTO suspended xAI&#39;s Grok trademark application, saying the name could be confused with companies Groq and Grokstream; startup Bizly claims rights to &quot;Grok&quot; &lpar;Zoë Schiffer/Wired&rpar;](http://www.techmeme.com/250401/p8#a250401p8)
+ - [Finally, an e-bike that charges off USB-C](https://www.theverge.com/news/639681/usb-c-charging-e-bike-ampler-nova-specs-price)
+ - [OpenAI&#39;s new image generator, powered by GPT-4o, is now available to all users; Altman last week mentioned a limit of three images per day for free-tier users &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250401/p7#a250401p7)
  - [20% Wayfair Coupon &amp; Promo Codes | April 2025](https://www.wired.com/story/wayfair-coupon/)
- - [Peacock Promo Code and Coupons: 16% Off April 2025](https://www.wired.com/story/peacock-promo-code/)
- - [Samsung Promo Codes: $50 Off | April 2025](https://www.wired.com/story/samsung-promo-codes/)
- - [Industry executives say Rapido has a 20% share in India&#39;s four-wheeler ride-hailing segment; Uber has a ~50% share, while Ola holds most of the remaining 30% &lpar;The Economic Times&rpar;](http://www.techmeme.com/250401/p6#a250401p6)
- - [Blue Apron Coupons: $80 Off + Free Shipping | April 2025](https://www.wired.com/story/blue-apron-coupon/)<!-- TECH:END -->
+ - [Peacock Promo Code and Coupons: 16% Off April 2025](https://www.wired.com/story/peacock-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

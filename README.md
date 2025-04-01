@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to set up Wi-Fi calling on Android and iPhones](https://www.theverge.com/how-to/640036/wi-fi-calling-android-iphone-how-to)
+ - [Gmail is making it easier for businesses to send encrypted emails to anyone](https://www.theverge.com/news/640422/google-gmail-email-encryption-enterprise-beta)
  - [Spec-tacular week](https://www.theverge.com/tech/631190/specs-gadgets-usb-battery-nintendo)
  - [Ahead of the Switch 2, Nintendo is branching out to use its characters in cinema, theme parks, and merch in a Disney-like way to create more consistent revenue &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/250401/p20#a250401p20)
- - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
- - [These Are the Best Photoshop AI Tools: How to Use Generative Fill, Expand and Remove](https://www.cnet.com/tech/services-and-software/these-are-the-best-photoshop-ai-tools-how-to-use-generative-fill-expand-and-remove/#ftag=CAD590a51e)
- - [N+ Bikes Mercedes-AMG F1 Track Edition 750 Electric Bike Review: All Looks, No Shine](https://www.wired.com/review/n-bikes-mercedes-amg-f1-track-edition-750-electric-bike/)<!-- TECH:END -->
+ - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

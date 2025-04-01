@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Love how they jiggle.](http://9gag.com/gag/aByVeBO)
- - 😝 [Based](http://9gag.com/gag/aByVebz)
- - 💣 [Somebody tells me it belongs here](http://9gag.com/gag/aLn43Mg)
- - 😝 [The ones will understand](http://9gag.com/gag/a340Dy1)
- - 👉 [It&#39;s hard work but someone has to do it](http://9gag.com/gag/aE0A54M)<!-- MEMES:END -->
+ - 😝 [It&#39;s hard work but someone has to do it](http://9gag.com/gag/aE0A54M)
+ - 😝 [Osama Bin Laden at Oxford in 1971. He is approximately 14 in this image.](http://9gag.com/gag/a340DQv)
+ - 💣 [Buttoning up your boots](http://9gag.com/gag/aGyBvLz)
+ - 😝 [What was he thinking?!](http://9gag.com/gag/aAyKL7L)
+ - 👉 [The ones will understand](http://9gag.com/gag/a340Dy1)<!-- MEMES:END -->
 
 ---
 

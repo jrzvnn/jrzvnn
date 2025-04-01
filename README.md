@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Similarweb: Gemini&#39;s web app had 10.9M average daily visits in March, up 7.4% MoM; Sensor Tower: Claude and Gemini saw activity jump after flagship model debuts &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250401/p30#a250401p30)
- - [Hyundai’s Insteroid is an EV one-off for gamers](https://www.theverge.com/news/640849/hyundai-insteroid-inster-ev-concept-sport)
- - [Runway says its latest AI video model can actually generate consistent scenes and people](https://www.theverge.com/news/640821/runway-gen-4-artificial-intelligence-video-generator-filmmaking)
- - [Sources: a16z is in talks to join the Oracle-led frontrunner bid for TikTok&#39;s US arm, after being approached along with Blackstone Group and others &lpar;Financial Times&rpar;](http://www.techmeme.com/250401/p29#a250401p29)
- - [Premier League Soccer: Stream Arsenal vs. Fulham Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-arsenal-vs-fulham-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: Agility Robotics, a maker of humanoid robots led by Peggy Johnson, is raising $400M at a $1.75B pre-money valuation; ~100 of its robots are in the field &lpar;Rocket Drew/The Information&rpar;](http://www.techmeme.com/250401/p31#a250401p31)
+ - [Keanu Reeves is coming back for John Wick 5](https://www.theverge.com/news/640876/john-wick-5-keanu-reeves-donnie-yen-spinoff)
+ - [NFL swaps first-down chains for Sony&amp;#8217;s 8K cameras](https://www.theverge.com/news/640890/nfl-sony-hawk-eye-first-down-chains)
+ - [The 46 Best Shows on Hulu Right Now &lpar;April 2025&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
+ - [Similarweb: Gemini&#39;s web app had 10.9M average daily visits in March, up 7.4% MoM; Sensor Tower: Claude and Gemini saw activity jump after flagship model debuts &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250401/p30#a250401p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

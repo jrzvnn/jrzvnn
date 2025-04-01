@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Searching for the perfect minimalist smartphone](https://www.theverge.com/the-vergecast/640475/minimalist-smartphone-tesla-takedown-vergecast)
+ - [April Fools&amp;#8217; 2025: Dbrand’s new skins let you &amp;#8216;touch grass&amp;#8217; without the hassle of going outside](https://www.theverge.com/news/638284/dbrand-touch-grass-skin-tablet-smartphone-handheld-console)
  - [2025 Mac Studio review: One clear purchase choice for most buyers](https://appleinsider.com/articles/25/04/01/2025-mac-studio-review-one-clear-purchase-choice-for-most-buyers?utm_medium=rss)
  - [Substack says it&amp;#8217;ll legally defend writers &amp;#8216;targeted by the government&amp;#8217;](https://www.theverge.com/news/640495/substack-legally-defend-writers-targeted-by-government)
- - [Spider-Man: Beyond the Spider-Verse swings into theaters in 2027](https://www.theverge.com/news/640415/spider-man-beyond-the-spider-verse-release-date)
- - [Google is bringing its immersive Rewarded Video ads to Roblox, letting users watch ads in exchange for in-game benefits like virtual currency or power-ups &lpar;Kendra Barnett/Adweek&rpar;](http://www.techmeme.com/250401/p23#a250401p23)
- - [20 Key iPhone Settings to Change &lpar;2025&rpar;](https://www.wired.com/story/key-iphone-settings-to-change/)<!-- TECH:END -->
+ - [Spider-Man: Beyond the Spider-Verse swings into theaters in 2027](https://www.theverge.com/news/640415/spider-man-beyond-the-spider-verse-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)
- - 😝 [Marine Le Pen received a 2-year suspended sentence and a 2-year electronic bracelet from the court, with a 5-year ban on running for election, which guarantees her absence from the elections.](http://9gag.com/gag/aPAo2jw)
- - 💣 [Wankpanzers, very revolutionary lmao](http://9gag.com/gag/aoyR7Qw)
- - 😝 [Best friends](http://9gag.com/gag/aPAobmV)
- - 👉 [6.1 million Americans are behind on their mortgage, the highest in 20+ years. Brace for impact.](http://9gag.com/gag/azxKyxK)<!-- MEMES:END -->
+ - 😝 [Love how they jiggle.](http://9gag.com/gag/aByVeBO)
+ - 😝 [Bro lives in the backrooms](http://9gag.com/gag/aByVzQA)
+ - 💣 [Wait WHAT ?](http://9gag.com/gag/azxK3QK)
+ - 😝 [This is a Korean girl studying in Canada](http://9gag.com/gag/abA48Kb)
+ - 👉 [Have you ever heard of firesnow?](http://9gag.com/gag/aAyKA4R)<!-- MEMES:END -->
 
 ---
 

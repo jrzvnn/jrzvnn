@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Pixel 10 Pro Fold might be mostly a spec bump](https://www.theverge.com/news/640626/google-pixel-10-pro-fold-leaked-renders-spec-bump)
- - [Xiaomi says it is cooperating with a Chinese police probe into a fatal crash by a car using its autonomous features; its stock is down 10%+ over the past week &lpar;New York Times&rpar;](http://www.techmeme.com/250401/p25#a250401p25)
- - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
- - [Nomad Sale: 5 Great Deals on Our Favorite Accessories](https://www.wired.com/story/nomad-april-sale-2025/)
- - [Apple&#39;s App Store used to host free VPN apps with ties to China military](https://appleinsider.com/articles/25/04/01/apples-app-store-used-to-host-free-vpn-apps-with-ties-to-china-military?utm_medium=rss)<!-- TECH:END -->
+ - [Meta VP of AI Research Joelle Pineau says she plans to leave in May 2025 after nearly eight years; she has led the FAIR group since early 2023 &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/250401/p26#a250401p26)
+ - [The FAA hiding private jet details might not stop celebrity jet trackers](https://www.theverge.com/news/640706/faa-private-jet-info-process-wont-stop-online-jet-trackers)
+ - [The DOGE Axe Comes for Libraries and Museums](https://www.wired.com/story/institute-museum-library-services-layoffs/)
+ - [A shady, shuttered tech bootcamp may be sneaking back online](https://www.theverge.com/news/640674/prehired-fast-track-cfpb-bootcamp)
+ - [Google’s Pixel 10 Pro Fold might be mostly a spec bump](https://www.theverge.com/news/640626/google-pixel-10-pro-fold-leaked-renders-spec-bump)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

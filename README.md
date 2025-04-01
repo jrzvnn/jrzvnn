@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nuphy Kick75 Keyboard review: Hybrid profile keyboard in progress](https://appleinsider.com/articles/25/04/01/nuphy-kick75-keyboard-review-hybrid-profile-keyboard-in-progress?utm_medium=rss)
+ - [Sources: CaaStle, a clothing inventory monetization platform that had raised $530M+, is almost broke and is accusing its founder of financial misconduct &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250331/p48#a250331p48)
+ - [LightSource, whose software helps companies manage their procurement process, costs, and vendor relationships, raised $33M led by Bain Capital and Lightspeed &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/250331/p47#a250331p47)
  - [The 95 best last-minute deals from Amazon’s Big Spring Sale](https://www.theverge.com/tech/634880/amazon-big-spring-sale-march-2025-prime-day-deals-shop)
- - [iPhone XS &amp; iPhone XR may not be supported on iOS 19](https://appleinsider.com/articles/25/04/01/iphone-xs-iphone-xr-may-not-be-supported-on-ios-19?utm_medium=rss)
- - [Coinbase&#39;s stock fell 31% in Q1 2025, its worst quarterly performance since FTX collapsed in 2022; nearly every major crypto-linked stock plunged alongside it &lpar;Matthew Griffin/Bloomberg&rpar;](http://www.techmeme.com/250331/p46#a250331p46)
- - [Amazon resumes drone deliveries in Texas and Arizona, after halting them in January to roll out a software update to fix issues with the drone&#39;s altitude sensor &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250331/p45#a250331p45)
- - [Builder.ai dropped H2 2024 revenue estimates by ~25% after some sales channels &quot;did not come through&quot; and says a full audit report is expected by summer 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250331/p44#a250331p44)<!-- TECH:END -->
+ - [iPhone XS &amp; iPhone XR may not be supported on iOS 19](https://appleinsider.com/articles/25/04/01/iphone-xs-iphone-xr-may-not-be-supported-on-ios-19?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

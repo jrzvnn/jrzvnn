@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Runway says its latest AI video model can actually generate consistent scenes and people](https://www.theverge.com/news/640821/runway-gen-4-artificial-intelligence-video-generator-filmmaking)
+ - [Sources: a16z is in talks to join the Oracle-led frontrunner bid for TikTok&#39;s US arm, after being approached along with Blackstone Group and others &lpar;Financial Times&rpar;](http://www.techmeme.com/250401/p29#a250401p29)
+ - [Premier League Soccer: Stream Arsenal vs. Fulham Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-arsenal-vs-fulham-live-from-anywhere/#ftag=CAD590a51e)
  - [Apple has just rereleased watchOS 11.4 to the public](https://appleinsider.com/articles/25/04/01/apple-has-just-rereleased-watchos-114-to-the-public?utm_medium=rss)
- - [Hundreds of scientists accuse Donald Trump of censorship](https://www.theverge.com/news/640664/science-censorship-trump-letter-climate-vaccine-national-academies)
- - [A US judge rules Arkansas&#39; Social Media Safety Act, which requires minors have parental permission before creating social media accounts, infringes on 1A rights &lpar;Ufonobong Umanah/Bloomberg Law&rpar;](http://www.techmeme.com/250401/p28#a250401p28)
- - [TikTok is shutting down its Instagram competitor, TikTok Notes, on May 8, directing users to Lemon8, a similar ByteDance-owned app &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250401/p27#a250401p27)
- - [Future Apple Vision Pro headsets could get an Action Button](https://appleinsider.com/articles/25/04/01/future-apple-vision-pro-headsets-could-get-an-action-button?utm_medium=rss)<!-- TECH:END -->
+ - [Best Standing Desks of 2025](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

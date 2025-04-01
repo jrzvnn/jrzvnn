@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s App Store used to host free VPN apps with ties to China military](https://appleinsider.com/articles/25/04/01/apples-app-store-used-to-host-free-vpn-apps-with-ties-to-china-military?utm_medium=rss)
+ - [Google’s Pixel 10 Pro Fold might be mostly a spec bump](https://www.theverge.com/news/640626/google-pixel-10-pro-fold-leaked-renders-spec-bump)
  - [The CDC Has Been Gutted](https://www.wired.com/story/cdc-gutted-rif/)
  - [Best Graphics Cards &lpar;GPUs&rpar; for PC: Nvidia, AMD, Intel](https://www.wired.com/gallery/best-graphics-cards-gpu/)
- - [Computing would be totally different had Apple not been formed 49 years ago, today](https://appleinsider.com/articles/20/04/01/apple-was-founded-44-years-ago-on-april-1-1976?utm_medium=rss)
- - [The Sonos Arc is down to a new all-time low price](https://www.theverge.com/tech/640560/sonos-arc-second-gen-arlo-video-doorbell-deal-sale)
- - [OpenAI says ChatGPT has hit 20M paid subscribers, up from 15.5M at the end of 2024, suggesting the company is making at least $415M in monthly revenue &lpar;The Information&rpar;](http://www.techmeme.com/250401/p24#a250401p24)<!-- TECH:END -->
+ - [Computing would be totally different had Apple not been formed 49 years ago, today](https://appleinsider.com/articles/20/04/01/apple-was-founded-44-years-ago-on-april-1-1976?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

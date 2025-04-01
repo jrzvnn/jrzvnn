@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spider-Man: Beyond the Spider-Verse swings into theaters in 2027](https://www.theverge.com/news/640415/spider-man-beyond-the-spider-verse-release-date)
  - [Google is bringing its immersive Rewarded Video ads to Roblox, letting users watch ads in exchange for in-game benefits like virtual currency or power-ups &lpar;Kendra Barnett/Adweek&rpar;](http://www.techmeme.com/250401/p23#a250401p23)
  - [20 Key iPhone Settings to Change &lpar;2025&rpar;](https://www.wired.com/story/key-iphone-settings-to-change/)
  - [How to watch the Switch 2 Direct](https://www.theverge.com/news/638534/nintendo-switch-2-direct-stream-time-date-watch)
- - [April Fools’ Day 2025: the best and cringiest pranks](https://www.theverge.com/news/639824/april-fools-day-2025-pranks-jokes-best-worst)
- - [Elon Musk’s $1 million handout winners are connected to Republican causes](https://www.theverge.com/politics/640230/elon-musk-wisconsin-supreme-court-million-dollars-brad-schimel)<!-- TECH:END -->
+ - [April Fools’ Day 2025: the best and cringiest pranks](https://www.theverge.com/news/639824/april-fools-day-2025-pranks-jokes-best-worst)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

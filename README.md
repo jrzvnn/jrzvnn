@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Alison smith performing what would become one of the hardest rap openings of all time 1982](http://9gag.com/gag/a1m069P)
- - 😝 [Best friends](http://9gag.com/gag/aPAobmV)
- - 💣 [Based](http://9gag.com/gag/aByVebz)
- - 😝 [Wankpanzers, very revolutionary lmao](http://9gag.com/gag/aoyR7Qw)
- - 👉 [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)<!-- MEMES:END -->
+ - 😝 [Buttoning up your boots](http://9gag.com/gag/aGyBvLz)
+ - 💣 [Wankpanzers, very revolutionary lmao](http://9gag.com/gag/aoyR7Qw)
+ - 😝 [Based](http://9gag.com/gag/aByVebz)
+ - 👉 [It&#39;s hard work but someone has to do it](http://9gag.com/gag/aE0A54M)<!-- MEMES:END -->
 
 ---
 

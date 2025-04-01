@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Palworld and PUBG are getting dating sims](https://www.theverge.com/news/640147/palworld-pubg-dating-sims)
  - [With Switch 2, Nintendo must do what it has rarely done before: follow one hit console with another; Nintendo has sold 150M+ Switch units since launch in 2017 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250401/p11#a250401p11)
  - [The US needs a new cybersecurity strategy, but offensive cyber operations are unlikely to deter Chinese state-sponsored hacking and come with significant risk &lpar;Marcus Hutchins/MalwareTech&rpar;](http://www.techmeme.com/250401/p10#a250401p10)
  - [A survey of 1,450 verified Indian IT professionals by Blind: 83% reported experiencing burnout, with 72% saying they routinely exceed the 48-hour workweek limit &lpar;John Xavier/The Hindu&rpar;](http://www.techmeme.com/250401/p9#a250401p9)
- - [USPTO suspended xAI&#39;s Grok trademark application, saying the name could be confused with companies Groq and Grokstream; startup Bizly claims rights to &quot;Grok&quot; &lpar;Zoë Schiffer/Wired&rpar;](http://www.techmeme.com/250401/p8#a250401p8)
- - [Finally, an e-bike that charges off USB-C](https://www.theverge.com/news/639681/usb-c-charging-e-bike-ampler-nova-specs-price)<!-- TECH:END -->
+ - [USPTO suspended xAI&#39;s Grok trademark application, saying the name could be confused with companies Groq and Grokstream; startup Bizly claims rights to &quot;Grok&quot; &lpar;Zoë Schiffer/Wired&rpar;](http://www.techmeme.com/250401/p8#a250401p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft has closed its IoT &amp; AI Insider Lab in Shanghai, reflecting a broader pullback from China amid geopolitical tensions; the lab was opened in May 2019 &lpar;Wency Chen/South China Morning Post&rpar;](http://www.techmeme.com/250331/p51#a250331p51)
  - [Sources: TSMC&#39;s recent $100B US investment pledge was merely an estimated price tag for existing long-term plans and reflects an intention rather than a promise &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/250331/p50#a250331p50)
  - [Sources: US Commerce Secretary Howard Lutnick signals withholding promised CHIPS Act grants as he pushes companies to substantially expand their US projects &lpar;Bloomberg&rpar;](http://www.techmeme.com/250331/p49#a250331p49)
- - [Nuphy Kick75 Keyboard review: Hybrid profile keyboard in progress](https://appleinsider.com/articles/25/04/01/nuphy-kick75-keyboard-review-hybrid-profile-keyboard-in-progress?utm_medium=rss)
- - [Sources: CaaStle, a clothing inventory monetization platform that had raised $530M+, is almost broke and is accusing its founder of financial misconduct &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250331/p48#a250331p48)
- - [LightSource, whose software helps companies manage their procurement process, costs, and vendor relationships, raised $33M led by Bain Capital and Lightspeed &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/250331/p47#a250331p47)<!-- TECH:END -->
+ - [April Fool&#39;s Day&#39;s NYT Mini Crossword Clues and Answers ARE IN ALL CAPS](https://www.cnet.com/tech/gaming/april-fools-days-nyt-mini-crossword-clues-and-answers-are-in-all-caps/#ftag=CAD590a51e)
+ - [Nuphy Kick75 Keyboard review: Hybrid profile keyboard in progress](https://appleinsider.com/articles/25/04/01/nuphy-kick75-keyboard-review-hybrid-profile-keyboard-in-progress?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

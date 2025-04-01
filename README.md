@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Based](http://9gag.com/gag/aByVebz)
  - 😝 [Have you ever heard of firesnow?](http://9gag.com/gag/aAyKA4R)
- - 💣 [Even Joker was shocked](http://9gag.com/gag/aPAo0Yn)
- - 😝 [Osama Bin Laden at Oxford in 1971. He is approximately 14 in this image.](http://9gag.com/gag/a340DQv)
- - 👉 [Love how they jiggle.](http://9gag.com/gag/aByVeBO)<!-- MEMES:END -->
+ - 😝 [Even Joker was shocked](http://9gag.com/gag/aPAo0Yn)
+ - 💣 [Buttoning up your boots](http://9gag.com/gag/aGyBvLz)
+ - 😝 [More pocket money](http://9gag.com/gag/an720vE)
+ - 👉 [Bro lives in the backrooms](http://9gag.com/gag/aByVzQA)<!-- MEMES:END -->
 
 ---
 

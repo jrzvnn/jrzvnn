@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Typical healthy medical test result](http://9gag.com/gag/ayN6AXy)
- - 😝 [Just a friendly reminder of what we had to deal with before pandemics, war, and existential dread.](http://9gag.com/gag/a870gz6)
- - 💣 [Rock on girls](http://9gag.com/gag/aW4nXR2)
- - 😝 [When you decide to go with the cheaper company](http://9gag.com/gag/aLn4EWA)
- - 👉 [Chat burn](http://9gag.com/gag/aByV5MO)<!-- MEMES:END -->
+ - 😝 [It&#39;s hard work but someone has to do it](http://9gag.com/gag/aE0A54M)
+ - 😝 [More pocket money](http://9gag.com/gag/an720vE)
+ - 💣 [Have you ever heard of firesnow?](http://9gag.com/gag/aAyKA4R)
+ - 😝 [Making fish hook that looks like a fly](http://9gag.com/gag/aVvKrxP)
+ - 👉 [The ones will understand](http://9gag.com/gag/a340Dy1)<!-- MEMES:END -->
 
 ---
 

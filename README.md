@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Buttoning up your boots](http://9gag.com/gag/aGyBvLz)
- - 😝 [Alison smith performing what would become one of the hardest rap openings of all time 1982](http://9gag.com/gag/a1m069P)
- - 💣 [Based](http://9gag.com/gag/aByVebz)
- - 😝 [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)
- - 👉 [This is how strong Squid&#39;s Ink is in stability and pigment intensity after a week](http://9gag.com/gag/aMVP7yG)<!-- MEMES:END -->
+ - 😝 [Quiet quitting](http://9gag.com/gag/aRBMbj7)
+ - 😝 [2 types of 30+ men](http://9gag.com/gag/ae9Zzzq)
+ - 💣 [Today is the day.](http://9gag.com/gag/apR6ZRn)
+ - 😝 [I need to laugh](http://9gag.com/gag/aNDQ54A)
+ - 👉 [The family hero!](http://9gag.com/gag/a5QwYyo)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The ones will understand](http://9gag.com/gag/a340Dy1)
- - 😝 [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)
- - 💣 [Alison smith performing what would become one of the hardest rap openings of all time 1982](http://9gag.com/gag/a1m069P)
+ - 😝 [Alison smith performing what would become one of the hardest rap openings of all time 1982](http://9gag.com/gag/a1m069P)
+ - 😝 [This is a Korean girl studying in Canada](http://9gag.com/gag/abA48Kb)
+ - 💣 [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)
  - 😝 [Buttoning up your boots](http://9gag.com/gag/aGyBvLz)
- - 👉 [Quiet quitting](http://9gag.com/gag/aRBMbj7)<!-- MEMES:END -->
+ - 👉 [Wait WHAT ?](http://9gag.com/gag/azxK3QK)<!-- MEMES:END -->
 
 ---
 

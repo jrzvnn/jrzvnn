@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple has just rereleased watchOS 11.4 to the public](https://appleinsider.com/articles/25/04/01/apple-has-just-rereleased-watchos-114-to-the-public?utm_medium=rss)
  - [Hundreds of scientists accuse Donald Trump of censorship](https://www.theverge.com/news/640664/science-censorship-trump-letter-climate-vaccine-national-academies)
  - [A US judge rules Arkansas&#39; Social Media Safety Act, which requires minors have parental permission before creating social media accounts, infringes on 1A rights &lpar;Ufonobong Umanah/Bloomberg Law&rpar;](http://www.techmeme.com/250401/p28#a250401p28)
  - [TikTok is shutting down its Instagram competitor, TikTok Notes, on May 8, directing users to Lemon8, a similar ByteDance-owned app &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250401/p27#a250401p27)
- - [Future Apple Vision Pro headsets could get an Action Button](https://appleinsider.com/articles/25/04/01/future-apple-vision-pro-headsets-could-get-an-action-button?utm_medium=rss)
- - [ZeniMax union votes to authorize a strike](https://www.theverge.com/news/640423/zenimax-union-cwa-strike-authorization-vote)<!-- TECH:END -->
+ - [Future Apple Vision Pro headsets could get an Action Button](https://appleinsider.com/articles/25/04/01/future-apple-vision-pro-headsets-could-get-an-action-button?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

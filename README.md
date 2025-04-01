@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [watchOS 11.4 was briefly available, and was pulled by Apple [u]](https://appleinsider.com/articles/25/03/31/new-break-through-silent-mode-debuts-watchos-114-fixes-bugs?utm_medium=rss)
+ - [In a new strategy, Amazon plans to release 14 to 16 movies per year in theaters, rivaling other major studios, with most running for 45 days before streaming &lpar;Nicole Sperling/New York Times&rpar;](http://www.techmeme.com/250401/p19#a250401p19)
  - [Nuphy Kick75 Keyboard review: Hybrid profile keyboard is a work in progress](https://appleinsider.com/articles/25/04/01/nuphy-kick75-keyboard-review-hybrid-profile-keyboard-in-progress?utm_medium=rss)
  - [Tether acquired 8,888 bitcoin worth $735M in Q1 2025, taking its total holdings to $7.8B and making it the sixth-largest bitcoin holder in a single wallet &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/250401/p18#a250401p18)
- - [7 Best Coffee Grinders, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-coffee-grinders/)
- - [Why the watt is the most important spec in battery-powered devices](https://www.theverge.com/tech/638559/watt-vs-mah-battery-measurement)
- - [Find My finally works in South Korea](https://appleinsider.com/articles/25/04/01/find-my-finally-works-in-south-korea?utm_medium=rss)<!-- TECH:END -->
+ - [7 Best Coffee Grinders, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-coffee-grinders/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

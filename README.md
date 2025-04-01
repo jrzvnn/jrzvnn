@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Circle files for an IPO, with plans to list on the NYSE; Circle is reportedly seeking a valuation between $4B and $5B &lpar;CNBC&rpar;](http://www.techmeme.com/250401/p37#a250401p37)
+ - [Mastercard may be in for a fight to stay Apple Card network provider](https://appleinsider.com/articles/25/04/01/mastercard-may-be-in-for-a-fight-to-stay-apple-card-network-provider?utm_medium=rss)
  - [CoreWeave shares close up 41.8% at $52.57 in their third trading day, bouncing back above the $40 IPO price and bringing the company&#39;s market cap to ~$24.9B &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250401/p36#a250401p36)
  - [OWC Thunderbolt docks for Mac have dropped to record low prices, from $149.99](https://appleinsider.com/articles/25/04/01/owc-thunderbolt-docks-for-mac-have-dropped-to-record-low-prices-from-14999?utm_medium=rss)
- - [Sources: WH national security adviser Michael Waltz and other National Security Council members have conducted government affairs over personal Gmail accounts &lpar;John Hudson/Washington Post&rpar;](http://www.techmeme.com/250401/p35#a250401p35)
- - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
- - [Sources: Visa has offered Apple ~$100M to become the network for the Apple Card; Amex is also competing, while Mastercard tries to keep its role as the network &lpar;AnnaMaria Andriotis/Wall Street Journal&rpar;](http://www.techmeme.com/250401/p34#a250401p34)<!-- TECH:END -->
+ - [Sources: WH national security adviser Michael Waltz and other National Security Council members have conducted government affairs over personal Gmail accounts &lpar;John Hudson/Washington Post&rpar;](http://www.techmeme.com/250401/p35#a250401p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

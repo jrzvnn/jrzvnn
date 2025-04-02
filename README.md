@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Qualcomm says it is weighing an acquisition offer for Alphawave, which has a market cap of ~$1.3B and makes high-speed semiconductor and connectivity technology &lpar;Amy Thomson/Bloomberg&rpar;](http://www.techmeme.com/250402/p5#a250402p5)
+ - [Sources: Arm decided not to pursue a deal after recently seeking to acquire Alphawave, a UK-listed supplier of semiconductor IP that is exploring a sale &lpar;Reuters&rpar;](http://www.techmeme.com/250402/p4#a250402p4)
+ - [Motorola’s first Edge 60 phone feels like canvas](https://www.theverge.com/news/640653/motorola-edge-60-fusion-launch-canvas-finish)
  - [15% Off Dell Coupon Codes | April 2025](https://www.wired.com/story/dell-coupon-code/)
- - [Visible Promo Code: Save $300 in April 2025](https://www.wired.com/story/visible-promo-code/)
- - [Qualcomm acquires the generative AI division of Vietnamese startup VinAI, following the acquisition of German AI and IoT company Edge Impulse in early March &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250402/p3#a250402p3)
- - [Bybit shutters its NFT marketplace, following a similar decision by NFT marketplace X2Y2; Token Terminal: daily NFT trading volume has dropped 70% YoY to $5.34M &lpar;Adrian Zmudzinski/Cointelegraph&rpar;](http://www.techmeme.com/250402/p2#a250402p2)
- - [In a new paper, Tim O&#39;Reilly and other researchers say OpenAI likely trained GPT-4o on paywalled books from O&#39;Reilly Media without a licensing agreement &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250402/p1#a250402p1)<!-- TECH:END -->
+ - [Visible Promo Code: Save $300 in April 2025](https://www.wired.com/story/visible-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

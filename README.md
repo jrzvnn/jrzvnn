@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Qualcomm acquires the generative AI division of Vietnamese startup VinAI, following the acquisition of German AI and IoT company Edge Impulse in early March &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250402/p3#a250402p3)
  - [Bybit shutters its NFT marketplace, following a similar decision by NFT marketplace X2Y2; Token Terminal: daily NFT trading volume has dropped 70% YoY to $5.34M &lpar;Adrian Zmudzinski/Cointelegraph&rpar;](http://www.techmeme.com/250402/p2#a250402p2)
  - [In a new paper, Tim O&#39;Reilly and other researchers say OpenAI likely trained GPT-4o on paywalled books from O&#39;Reilly Media without a licensing agreement &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250402/p1#a250402p1)
  - [Chef Robotics, which develops AI-powered robotic meal assembly systems, raised a $20.6M Series A led by Avataar Ventures, and an additional $22.5M in debt &lpar;CJ Haddad/CNBC&rpar;](http://www.techmeme.com/250401/p44#a250401p44)
- - [How to stop Spotlight hogging disk space on macOS](https://appleinsider.com/inside/macos/tips/how-to-stop-spotlight-hogging-disk-space-on-macos?utm_medium=rss)
- - [McDonald&#39;s Launches Minecraft Happy Meals, Plus a &#39;Nether&#39; Hot Sauce for Nuggets](https://www.cnet.com/tech/gaming/mcdonalds-launching-minecraft-happy-meals-plus-a-nether-hot-sauce-for-nuggets/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to stop Spotlight hogging disk space on macOS](https://appleinsider.com/inside/macos/tips/how-to-stop-spotlight-hogging-disk-space-on-macos?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Save $100 on Apple&#39;s iPad mini 7 at Amazon, now discounted to $399](https://appleinsider.com/articles/25/04/02/save-100-on-apples-ipad-mini-7-at-amazon-now-discounted-to-399?utm_medium=rss)
  - [Researchers detail a new AI-powered Probability of Fire model, which they say could outperform the conventional danger forecasts used by wildfire trackers &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/250402/p7#a250402p7)
  - [UMC, Taiwan&#39;s second-largest chipmaker, opened a $5B plant in Singapore featuring 22nm and 28nm manufacturing technology; mass production won&#39;t start until 2026 &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250402/p6#a250402p6)
- - [Qualcomm says it is weighing an acquisition offer for Alphawave, which has a market cap of ~$1.3B and makes high-speed semiconductor and connectivity technology &lpar;Amy Thomson/Bloomberg&rpar;](http://www.techmeme.com/250402/p5#a250402p5)<!-- TECH:END -->
+ - [Qualcomm says it is weighing an acquisition offer for Alphawave, which has a ~$1.3B market cap and makes high-speed chip and connectivity tech &lpar;Amy Thomson/Bloomberg&rpar;](http://www.techmeme.com/250402/p5#a250402p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

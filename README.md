@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [New in iOS 18.5: Show and hide contact photos directly from the Mail app](https://appleinsider.com/articles/25/04/02/new-in-ios-185-show-and-hide-contact-photos-directly-from-the-mail-app?utm_medium=rss)
+ - [WordPress.com owner Automattic is laying off 16 percent of workers](https://www.theverge.com/news/642187/automattic-wordpress-layoffs-matt-mullenweg)
  - [Trump&#39;s &#39;Liberation Day&#39; tariffs hit every one of Apple&#39;s international manufacturing partners](https://appleinsider.com/articles/25/04/02/trumps-liberation-day-tariffs-hit-every-one-of-apples-international-manufacturing-partners?utm_medium=rss)
- - [The Nintendo Switch smartphone app is getting some excellent new features](https://www.theverge.com/nintendo/642093/nintendo-switch-smartphone-app-zelda-notes)
- - [Siemens agrees to acquire Boston-based R&amp;D scientific software company Dotmatics from Insight Partners for $5.1B, in a deal expected to close in H1 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250402/p42#a250402p42)
- - [‘TikTok America,’ Amazon, and other rumors about who might buy TikTok](https://www.theverge.com/news/642158/tiktok-america-ban-amazon-applovin-rumor-deadline)
- - [Some Nintendo Switch 2 games will be more expensive](https://www.theverge.com/news/642143/nintendo-switch-2-games-price-expensive)<!-- TECH:END -->
+ - [The Nintendo Switch smartphone app is getting some excellent new features](https://www.theverge.com/nintendo/642093/nintendo-switch-smartphone-app-zelda-notes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

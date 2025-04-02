@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I love after bath Massage](http://9gag.com/gag/a9y5gG0)
- - 😝 [Wankpanzers, very revolutionary lmao](http://9gag.com/gag/aoyR7Qw)
- - 💣 [This is a Korean girl studying in Canada](http://9gag.com/gag/abA48Kb)
- - 😝 [This guy just won Florida&#39;s house elections with 57% of the votes](http://9gag.com/gag/ayN6GZp)
- - 👉 [Old but Gold](http://9gag.com/gag/a9y5g7j)<!-- MEMES:END -->
+ - 😝 [Randy, the @$hole](http://9gag.com/gag/aGyB4AK)
+ - 💣 [This guy just won Florida&#39;s house elections with 57% of the votes](http://9gag.com/gag/ayN6GZp)
+ - 😝 [Left wing Germany will not let you defend yourself against foreign invaders](http://9gag.com/gag/a340mWQ)
+ - 👉 [Wankpanzers, very revolutionary lmao](http://9gag.com/gag/aoyR7Qw)<!-- MEMES:END -->
 
 ---
 

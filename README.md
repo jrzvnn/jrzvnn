@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo says the Switch 2 will cost $450 for the console or $500 for a Mario Kart World bundle on its June 5 launch; North America pre-orders open on April 9 &lpar;The Verge&rpar;](http://www.techmeme.com/250402/p25#a250402p25)
- - [Hyrule Warriors: Age of Imprisonment hits the Switch 2 this winter](https://www.theverge.com/news/638770/hyrule-warriors-age-of-imprisonment)
- - [Nintendo unveils the Switch 2 Camera, a camera accessory with a stand, designed to sit next to a TV for video chats, launching on June 5 alongside the Switch 2 &lpar;The Verge&rpar;](http://www.techmeme.com/250402/p24#a250402p24)
- - [Nintendo says it will add Nintendo GameCube games to the library of titles playable on the Switch 2, including The Legend of Zelda: The Wind Waker from 2002 &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250402/p23#a250402p23)
- - [Netflix will offer more languages for subtitles and dubbing when watching on a TV](https://www.theverge.com/news/641206/netflix-subtitles-dubbing-tv-languages)<!-- TECH:END -->
+ - [Everything revealed during the Nintendo Switch 2 Direct](https://www.theverge.com/nintendo/638604/nintendo-switch-2-direct-news-trailers-stream)
+ - [Kirby Air Riders is a Switch 2 racing game from Masahiro Sakurai](https://www.theverge.com/news/641602/kirby-air-riders-switch-2-masahiro-sakurai)
+ - [Donkey Kong Bananza is coming to the Switch 2 in July](https://www.theverge.com/news/641537/donkey-kong-bananza-nintendo-switch-2)
+ - [Apple still wants an iPhone without physical buttons, but it won&#39;t happen soon](https://appleinsider.com/articles/25/04/02/apple-still-wants-an-iphone-without-physical-buttons-but-it-wont-happen-soon?utm_medium=rss)
+ - [Mario Kart World launches exclusively with the Nintendo Switch 2](https://www.theverge.com/news/634632/mario-kart-nintendo-switch-2-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

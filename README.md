@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I love after bath Massage](http://9gag.com/gag/a9y5gG0)
- - 😝 [The thing got weirder with every second](http://9gag.com/gag/a0e03DZ)
- - 💣 [Best friends](http://9gag.com/gag/aPAobmV)
- - 😝 [Wankpanzers, very revolutionary lmao](http://9gag.com/gag/aoyR7Qw)
- - 👉 [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)<!-- MEMES:END -->
+ - 😝 [RIP ICEMAN](http://9gag.com/gag/a9y5ooZ)
+ - 😝 [This guy just won Florida&#39;s house elections with 57% of the votes](http://9gag.com/gag/ayN6GZp)
+ - 💣 [Now its worth $10 million](http://9gag.com/gag/axy6qMn)
+ - 😝 [Old but Gold](http://9gag.com/gag/a9y5g7j)
+ - 👉 [Left wing Germany will not let you defend yourself against foreign invaders](http://9gag.com/gag/a340mWQ)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [RIP ICEMAN](http://9gag.com/gag/a9y5ooZ)
- - 😝 [This guy just won Florida&#39;s house elections with 57% of the votes](http://9gag.com/gag/ayN6GZp)
- - 💣 [Now its worth $10 million](http://9gag.com/gag/axy6qMn)
- - 😝 [Old but Gold](http://9gag.com/gag/a9y5g7j)
- - 👉 [Left wing Germany will not let you defend yourself against foreign invaders](http://9gag.com/gag/a340mWQ)<!-- MEMES:END -->
+ - 😝 [`Telling people in poverty to be more entrepreneurial is sick`](http://9gag.com/gag/aVvKNQv)
+ - 😝 [Careful what you are betting on\u2026](http://9gag.com/gag/aByVAoA)
+ - 💣 [Islam is super far right](http://9gag.com/gag/a340Vw3)
+ - 😝 [Quiet quitting](http://9gag.com/gag/aRBMbj7)
+ - 👉 [And everyone is happy on the Matrix](http://9gag.com/gag/amo6ewy)<!-- MEMES:END -->
 
 ---
 

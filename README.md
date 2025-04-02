@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTC chair says he’d ‘obey lawful orders’ if Trump asked to drop an antitrust case like Meta&amp;#8217;s](https://www.theverge.com/news/642068/ftc-chair-andrew-ferguson-trump-drop-meta-lawsuit-hypothetical)
- - [Sources: AppLovin has made a bid for TikTok and talked to casino magnate Steve Wynn about backing it &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250402/p38#a250402p38)
- - [Adobe updates Premiere Pro with AI-powered features like Generative Extend, which lets users extend clips by two seconds with 4K quality and background audio &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250402/p37#a250402p37)
- - [Here’s everything Nintendo has revealed about the Switch 2’s Joy-Cons](https://www.theverge.com/news/642024/nintendo-switch-2-joy-con-controllers-mouse-magnetic-attach-c-button)
- - [Here’s the Switch 2’s homescreen](https://www.theverge.com/nintendo/642004/nintendo-switch-2-homescreen-customization)<!-- TECH:END -->
+ - [Automattic lays off 16% of staff, CEO Matt Mullenweg says to become &quot;more agile and responsive&quot;; Automattic website listed 1,744 employees ahead of the layoffs &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250402/p39#a250402p39)
+ - [Sonos permanently drops the price of its Era 100 speaker and Ray soundbar](https://www.theverge.com/news/642013/sonos-era-100-ray-price-drop)
+ - [Here’s how you can preorder the Nintendo Switch 2 &lpar;or try to&rpar;](https://www.theverge.com/tech/24342715/nintendo-switch-2-preorder-price-release-date-availability-how-to-buy)
+ - [Verge staffers react to the Nintendo Switch 2](https://www.theverge.com/news/642049/nintendo-switch-2-verge-staff-reacts)
+ - [FTC chair says he’d ‘obey lawful orders’ if Trump asked to drop an antitrust case like Meta&amp;#8217;s](https://www.theverge.com/news/642068/ftc-chair-andrew-ferguson-trump-drop-meta-lawsuit-hypothetical)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

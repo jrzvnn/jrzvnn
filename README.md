@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GameCube games are coming to Nintendo Switch Online](https://www.theverge.com/news/24339906/nintendo-switch-2-gamecube-nso)
+ - [The Switch 2’s Pro Controller adds customizable rear buttons](https://www.theverge.com/news/637833/nintendo-switch-2-pro-controller-details)
+ - [Nintendo is upgrading the Switch’s best Zelda games with Switch 2 Editions](https://www.theverge.com/news/641365/nintendo-zelda-botw-totk-switch-2-edition-announced)
  - [The Nintendo Switch 2 has a camera accessory for video chats](https://www.theverge.com/news/641352/nintendo-switch-2-camera-launch)
- - [Nintendo says its new Joy-Con controllers have a C button for GameChat, which uses Switch 2&#39;s built-in mic, and the Switch 2 uses new microSD Express cards &lpar;Nathan Ingraham/Engadget&rpar;](http://www.techmeme.com/250402/p22#a250402p22)
- - [Metroid Prime 4: Beyond is getting a Nintendo Switch 2 Edition](https://www.theverge.com/news/640231/metroid-prime-4-nintendo-switch-2-enhanced-edition-beyond)
- - [Nintendo&amp;#8217;s Switch 2 C button is a Discord-like GameChat feature](https://www.theverge.com/news/24343637/nintendo-switch-2-joy-con-c-button-controller)
- - [Nintendo unveils GameShare, enabling local multiplayer on multiple Switch consoles with just one copy of a title, launching alongside the Switch 2 &lpar;Daniel Cooper/Engadget&rpar;](http://www.techmeme.com/250402/p21#a250402p21)<!-- TECH:END -->
+ - [Nintendo says its new Joy-Con controllers have a C button for GameChat, which uses Switch 2&#39;s built-in mic, and the Switch 2 uses new microSD Express cards &lpar;Nathan Ingraham/Engadget&rpar;](http://www.techmeme.com/250402/p22#a250402p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

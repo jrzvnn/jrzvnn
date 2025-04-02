@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe launches Premiere Pro’s generative AI video extender](https://www.theverge.com/news/641270/adobe-premiere-pro-generative-extend-generally-available)
- - [A livestream of Nintendo&#39;s Switch 2 event &lpar;Nintendo of America on YouTube&rpar;](http://www.techmeme.com/250402/p18#a250402p18)
- - [iPhone Fold won&#39;t be an iPad or iPhone killer](https://appleinsider.com/articles/25/04/02/iphone-fold-wont-be-an-ipad-or-iphone-killer?utm_medium=rss)
- - [AirPods Max firmware pulled before users could get new features](https://appleinsider.com/articles/25/04/02/airpods-max-firmware-pulled-before-users-could-get-new-features?utm_medium=rss)
- - [UFC signs a wide-ranging, multimillion-dollar, multiple-year sponsorship deal with Meta, which will be its &quot;official fan technology partner&quot; &lpar;Alex Sherman/CNBC&rpar;](http://www.techmeme.com/250402/p17#a250402p17)<!-- TECH:END -->
+ - [Segway’s robot mower for massive lawns hits the US](https://www.theverge.com/news/641373/segway-navimow-x3-robot-lawnmower-us-price-availability)
+ - [Nintendo unveils Switch 2 details: a 7.9&quot;, 120fps, 1080p display, larger Joy-Con controllers, 256GB of storage, 4K games at 60fps when docked, launching June 5 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250402/p20#a250402p20)
+ - [Patreon says it now has 6.7M paid podcast subscriptions, generating $472M+ in 2024 revenue, up 35% YoY, and signs podcasting deals with Sony Music and Wondery &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/250402/p19#a250402p19)
+ - [Mario Kart World launches exclusively with the Nintendo Switch 2](https://www.theverge.com/news/634632/mario-kart-nintendo-switch-2-trailer)
+ - [Nintendo Switch 2 arrives on June 5th](https://www.theverge.com/news/634603/nintendo-switch-2-price-release-date-details)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

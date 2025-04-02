@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Seattle-based Gable, which develops enterprise data coordination tech, raised a $20M Series A led by Crane Venture Partners, taking its total funding to $27M &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250402/p8#a250402p8)
- - [Save $100 on Apple&#39;s iPad mini 7 at Amazon, now discounted to $399](https://appleinsider.com/articles/25/04/02/save-100-on-apples-ipad-mini-7-at-amazon-now-discounted-to-399?utm_medium=rss)
- - [Researchers detail a new AI-powered Probability of Fire model, which they say could outperform the conventional danger forecasts used by wildfire trackers &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/250402/p7#a250402p7)
- - [UMC, Taiwan&#39;s second-largest chipmaker, opened a $5B plant in Singapore featuring 22nm and 28nm manufacturing technology; mass production won&#39;t start until 2026 &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250402/p6#a250402p6)
- - [Qualcomm says it is weighing an acquisition offer for Alphawave, which has a ~$1.3B market cap and makes high-speed chip and connectivity tech &lpar;Amy Thomson/Bloomberg&rpar;](http://www.techmeme.com/250402/p5#a250402p5)<!-- TECH:END -->
+ - [Indian investment bank The Rainmaker Group says 36+ Indian tech startups like Flipkart and PhonePe with a combined $100B valuation are set to go public by 2027 &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/250402/p10#a250402p10)
+ - [The Wikimedia Foundation says base bandwidth demand for downloading Wikimedia Commons multimedia content is up 50% since January 2024, driven by AI crawlers &lpar;Wikimedia&rpar;](http://www.techmeme.com/250402/p9#a250402p9)
+ - [Valve fixes Steam Deck update that caused boot loops](https://www.theverge.com/news/641241/steam-deck-update-client-boot-loop-tdp-gpu-clock)
+ - [In Search of the Last Wild Axolotls](https://www.wired.com/story/in-search-of-the-last-wild-axolotls-mexico/)
+ - [Roblox will let parents block people on their child’s friends list](https://www.theverge.com/news/641167/roblox-parental-controls-block-friends-experiences)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

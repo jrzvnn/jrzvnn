@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wankpanzers, very revolutionary lmao](http://9gag.com/gag/aoyR7Qw)
- - 😝 [Seeing them go down on eachother would make me furious](http://9gag.com/gag/aByVzN1)
- - 💣 [This is how strong Squid&#39;s Ink is in stability and pigment intensity after a week](http://9gag.com/gag/aMVP7yG)
- - 😝 [Initial investigation reveals the collapsed building in Bangkok used low quality rebars.](http://9gag.com/gag/agm7eq1)
- - 👉 [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)<!-- MEMES:END -->
+ - 😝 [Wait WHAT ?](http://9gag.com/gag/azxK3QK)
+ - 😝 [Peak Ozzy](http://9gag.com/gag/ae9ZwEv)
+ - 💣 [Old but Gold](http://9gag.com/gag/a9y5g7j)
+ - 😝 [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)
+ - 👉 [How much has the Internet ruined you?](http://9gag.com/gag/aKGvR4O)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The thing got weirder with every second](http://9gag.com/gag/a0e03DZ)
- - 😝 [At least he remembered his seatbelt](http://9gag.com/gag/a4PNO0v)
- - 💣 [Old but Gold](http://9gag.com/gag/a9y5g7j)
+ - 😝 [Wait WHAT ?](http://9gag.com/gag/azxK3QK)
  - 😝 [Randy, the @$hole](http://9gag.com/gag/aGyB4AK)
- - 👉 [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)<!-- MEMES:END -->
+ - 💣 [Ear reconstruction surgery in ribcage](http://9gag.com/gag/a0e0r5Q)
+ - 😝 [This guy just won Florida&#39;s house elections with 57% of the votes](http://9gag.com/gag/ayN6GZp)
+ - 👉 [Wankpanzers, very revolutionary lmao](http://9gag.com/gag/aoyR7Qw)<!-- MEMES:END -->
 
 ---
 

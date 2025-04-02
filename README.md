@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait WHAT ?](http://9gag.com/gag/azxK3QK)
- - 😝 [Peak Ozzy](http://9gag.com/gag/ae9ZwEv)
- - 💣 [Old but Gold](http://9gag.com/gag/a9y5g7j)
- - 😝 [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)
- - 👉 [How much has the Internet ruined you?](http://9gag.com/gag/aKGvR4O)<!-- MEMES:END -->
+ - 😝 [Randy, the @$hole](http://9gag.com/gag/aGyB4AK)
+ - 😝 [How much has the Internet ruined you?](http://9gag.com/gag/aKGvR4O)
+ - 💣 [Initial investigation reveals the collapsed building in Bangkok used low quality rebars.](http://9gag.com/gag/agm7eq1)
+ - 😝 [Did they really make a joke into a serious episode of the good doctor?](http://9gag.com/gag/aoyRvM3)
+ - 👉 [Not today mofo, I\u2019m getting that passport.](http://9gag.com/gag/aMVPMyR)<!-- MEMES:END -->
 
 ---
 

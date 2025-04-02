@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some Nintendo Switch 2 games will be more expensive](https://www.theverge.com/news/642143/nintendo-switch-2-games-price-expensive)
- - [Source: Trump plans to announce a company called TikTok America, with a 50% stake for US investors and 19.9% for ByteDance, which would license the algorithm &lpar;Kaya Yurieff/The Information&rpar;](http://www.techmeme.com/250402/p41#a250402p41)
- - [Sources: Zuckerberg is lobbying Trump for a settlement that would prevent Meta from facing an antitrust trial later this month; he visited the White House today &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250402/p40#a250402p40)
- - [FAA Tries to Stop You Tracking Celebrity Private Jets. Here&#39;s How](https://www.cnet.com/tech/services-and-software/faa-tries-to-stop-you-tracking-celebrity-private-jets-heres-how/#ftag=CAD590a51e)
- - [Automattic lays off 16% of staff, CEO Matt Mullenweg says to become &quot;more agile and responsive&quot;; Automattic website listed 1,744 employees ahead of the layoffs &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250402/p39#a250402p39)<!-- TECH:END -->
+ - [Trump&#39;s &#39;Liberation Day&#39; tariffs hit every one of Apple&#39;s international manufacturing partners](https://appleinsider.com/articles/25/04/02/trumps-liberation-day-tariffs-hit-every-one-of-apples-international-manufacturing-partners?utm_medium=rss)
+ - [The Nintendo Switch smartphone app is getting some excellent new features](https://www.theverge.com/nintendo/642093/nintendo-switch-smartphone-app-zelda-notes)
+ - [Siemens agrees to acquire Boston-based R&amp;D scientific software company Dotmatics from Insight Partners for $5.1B, in a deal expected to close in H1 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250402/p42#a250402p42)
+ - [‘TikTok America,’ Amazon, and other rumors about who might buy TikTok](https://www.theverge.com/news/642158/tiktok-america-ban-amazon-applovin-rumor-deadline)
+ - [Some Nintendo Switch 2 games will be more expensive](https://www.theverge.com/news/642143/nintendo-switch-2-games-price-expensive)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

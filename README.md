@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now its worth $10 million](http://9gag.com/gag/axy6qMn)
- - 😝 [Randy, the @$hole](http://9gag.com/gag/aGyB4AK)
- - 💣 [This is a Korean girl studying in Canada](http://9gag.com/gag/abA48Kb)
- - 😝 [Left wing Germany will not let you defend yourself against foreign invaders](http://9gag.com/gag/a340mWQ)
- - 👉 [Ear reconstruction surgery in ribcage](http://9gag.com/gag/a0e0r5Q)<!-- MEMES:END -->
+ - 😝 [Based](http://9gag.com/gag/aByVebz)
+ - 😝 [How much has the Internet ruined you?](http://9gag.com/gag/aKGvR4O)
+ - 💣 [Not today mofo, I\u2019m getting that passport.](http://9gag.com/gag/aMVPMyR)
+ - 😝 [Old but Gold](http://9gag.com/gag/a9y5g7j)
+ - 👉 [This guy just won Florida&#39;s house elections with 57% of the votes](http://9gag.com/gag/ayN6GZp)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chef Robotics, which develops AI-powered robotic meal assembly systems, raised a $20.6M Series A led by Avataar Ventures, and an additional $22.5M in debt &lpar;CJ Haddad/CNBC&rpar;](http://www.techmeme.com/250401/p44#a250401p44)
  - [How to stop Spotlight hogging disk space on macOS](https://appleinsider.com/inside/macos/tips/how-to-stop-spotlight-hogging-disk-space-on-macos?utm_medium=rss)
  - [Sources: AI coding startup Replit is in talks with investors to raise about $200M at a $3B valuation, almost triple its last valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250401/p43#a250401p43)
  - [Google researchers say DPRK&#39;s IT workers are fraudulently securing positions at companies in Germany, Portugal, and the UK, after facing sanctions in the US &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250401/p42#a250401p42)
- - [What Elden Ring Nightreign Is, and What It Isn&#39;t](https://www.cnet.com/tech/gaming/what-elden-ring-nightreign-is-and-what-it-isnt/#ftag=CAD590a51e)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
+ - [What Elden Ring Nightreign Is, and What It Isn&#39;t](https://www.cnet.com/tech/gaming/what-elden-ring-nightreign-is-and-what-it-isnt/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

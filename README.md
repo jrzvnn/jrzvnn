@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Telling people in poverty to be more entrepreneurial is sick`](http://9gag.com/gag/aVvKNQv)
- - 😝 [Careful what you are betting on\u2026](http://9gag.com/gag/aByVAoA)
- - 💣 [Islam is super far right](http://9gag.com/gag/a340Vw3)
- - 😝 [Quiet quitting](http://9gag.com/gag/aRBMbj7)
- - 👉 [And everyone is happy on the Matrix](http://9gag.com/gag/amo6ewy)<!-- MEMES:END -->
+ - 😝 [Ear reconstruction surgery in ribcage](http://9gag.com/gag/a0e0r5Q)
+ - 😝 [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)
+ - 💣 [Did they really make a joke into a serious episode of the good doctor?](http://9gag.com/gag/aoyRvM3)
+ - 😝 [Based](http://9gag.com/gag/aByVebz)
+ - 👉 [Wankpanzers, very revolutionary lmao](http://9gag.com/gag/aoyR7Qw)<!-- MEMES:END -->
 
 ---
 

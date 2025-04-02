@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Every Nintendo Switch 2 game announced in the Switch 2 Direct](https://www.theverge.com/news/641985/nintendo-switch-2-every-game-announced-direct)
  - [Best printer 2025: just buy a Brother laser printer, the winner is clear, middle finger in the air](https://www.theverge.com/tech/641940/best-printer-2025-just-buy-a-brother-laser-printer-middle-finger-in-the-air)
  - [Nintendo says the eShop will run more smoothly on the Switch 2](https://www.theverge.com/news/641966/nintendo-eshop-smooth-switch-2)
  - [Trump pardoned BitMEX owner HDR Global Trading, which had pleaded guilty and was fined $100M for money laundering, possibly the first US pardon of a corporation &lpar;Matt Sledge/The Intercept&rpar;](http://www.techmeme.com/250402/p33#a250402p33)
- - [$5 billion class action suit over Apple&#39;s ebook licensing is based on false premises](https://appleinsider.com/articles/25/04/02/5-billion-class-action-suit-over-apples-ebook-licensing-is-based-on-false-premises?utm_medium=rss)
- - [Google replaces Sissie Hsiao, leader of its consumer AI apps, including Gemini, with Josh Woodward, who leads Google Labs and oversaw NotebookLM&#39;s launch &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250402/p32#a250402p32)<!-- TECH:END -->
+ - [$5 billion class action suit over Apple&#39;s ebook licensing is based on false premises](https://appleinsider.com/articles/25/04/02/5-billion-class-action-suit-over-apples-ebook-licensing-is-based-on-false-premises?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

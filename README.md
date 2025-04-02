@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X users are asking Grok to fact check other users by tagging @grok, often on political or historical topics, as a new passive aggressive way to dunk on others &lpar;Katie Notopoulos/Business Insider&rpar;](http://www.techmeme.com/250402/p14#a250402p14)
  - [Trump admin poaches Apple attorney for NLRB, future of labor complaints in doubt](https://appleinsider.com/articles/25/04/02/trump-admin-poaches-apple-attorney-for-nlrb-future-of-labor-complaints-in-doubt?utm_medium=rss)
  - [This Startup Says It Can Clean Your Blood of Microplastics](https://www.wired.com/story/this-startup-promises-to-clean-your-blood-of-microplastics-clarify-clinics/)
  - [‘Adolescence’ Creator ‘Went Very, Very Deep’ in the Manosphere. Its Appeal Scared Him](https://www.wired.com/story/adolescence-creator-went-very-very-deep-in-the-manosphere-its-appeal-scared-him/)
- - [Micro USB is the bane of my existence](https://www.theverge.com/tech/638566/micro-usb-is-the-worst)
- - [In a March 28 brief, X asked SCOTUS to shield user data from US law enforcement without &quot;probable cause&quot;, in Coinbase user James Harper&#39;s long-running case &lpar;Financial Times&rpar;](http://www.techmeme.com/250402/p13#a250402p13)<!-- TECH:END -->
+ - [Micro USB is the bane of my existence](https://www.theverge.com/tech/638566/micro-usb-is-the-worst)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo says Switch 2 preorder buyers will need 50+ hours of original Switch gameplay, an anti-scalper mechanism &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250402/p29#a250402p29)
  - [Nintendo&amp;#8217;s Switch 2 preorder process has strict requirements to thwart scalpers](https://www.theverge.com/nintendo/641559/nintendo-switch-2-preorder-gameplay-requirements)
  - [Sources: President Trump told his inner circle, including Cabinet members, that Elon Musk will step back in the coming weeks; Trump remains pleased with DOGE &lpar;Rachael Bade/Politico&rpar;](http://www.techmeme.com/250402/p28#a250402p28)
  - [A sworn Irish affidavit: Keith O&#39;Brien, who allegedly spied for Deel while working at Rippling, says Deel paid him and he coordinated with Deel CEO Alex Bouaziz &lpar;Eric Newcomer/Newcomer&rpar;](http://www.techmeme.com/250402/p27#a250402p27)
- - [Nintendo goes in-depth on Switch 2 backward compatibility](https://www.theverge.com/news/641578/nintendo-switch-2-backwards-compatibility-games-faq)
- - [FromSoftware is making a multiplayer Switch 2 exclusive called The Duskbloods](https://www.theverge.com/news/641335/the-duskbloods-fromsoftware-nintendo-switch-2-exclusive-announcement)<!-- TECH:END -->
+ - [Nintendo goes in-depth on Switch 2 backward compatibility](https://www.theverge.com/news/641578/nintendo-switch-2-backwards-compatibility-games-faq)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

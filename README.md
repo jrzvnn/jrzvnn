@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Every Nintendo Switch 2 game announced in the Switch 2 Direct](https://www.theverge.com/news/641985/nintendo-switch-2-every-game-announced-direct)
- - [Best printer 2025: just buy a Brother laser printer, the winner is clear, middle finger in the air](https://www.theverge.com/tech/641940/best-printer-2025-just-buy-a-brother-laser-printer-middle-finger-in-the-air)
- - [Nintendo says the eShop will run more smoothly on the Switch 2](https://www.theverge.com/news/641966/nintendo-eshop-smooth-switch-2)
- - [Trump pardoned BitMEX owner HDR Global Trading, which had pleaded guilty and was fined $100M for money laundering, possibly the first US pardon of a corporation &lpar;Matt Sledge/The Intercept&rpar;](http://www.techmeme.com/250402/p33#a250402p33)
- - [$5 billion class action suit over Apple&#39;s ebook licensing is based on false premises](https://appleinsider.com/articles/25/04/02/5-billion-class-action-suit-over-apples-ebook-licensing-is-based-on-false-premises?utm_medium=rss)<!-- TECH:END -->
+ - [FDUSD stablecoin depegs 9% after Justin Sun raises concerns over Hong Kong-based First Digital Trust&#39;s solvency; Binance alone holds ~$2.2B worth of FDUSD &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250402/p35#a250402p35)
+ - [Apple restarts last developer beta cycle before WWDC with iOS 18.5, macOS 15.5](https://appleinsider.com/articles/25/04/02/apple-restarts-last-developer-beta-cycle-before-wwdc-with-ios-185-macos-155?utm_medium=rss)
+ - [Google’s NotebookLM leader is taking over as head of the Gemini app](https://www.theverge.com/news/642000/google-sissie-hsaio-stepping-down-notebooklm)
+ - [Anthropic debuts a Claude for Education tier for colleges, with Learning Mode, where it asks questions to test understanding, shares templates for papers, more &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250402/p34#a250402p34)
+ - [Every Nintendo Switch 2 game announced in the Switch 2 Direct](https://www.theverge.com/news/641985/nintendo-switch-2-every-game-announced-direct)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

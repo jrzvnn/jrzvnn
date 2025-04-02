@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Documents: the NLRB froze Janneke Parrish and Cher Scarlett&#39;s cases against Apple pending a review after Trump nominated an Apple attorney as general counsel &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/250402/p15#a250402p15)
+ - [The Best Mushroom Coffee, WIRED Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-mushroom-coffee/)
  - [X users are asking Grok to fact check other users by tagging @grok, often on political or historical topics, as a new passive aggressive way to dunk on others &lpar;Katie Notopoulos/Business Insider&rpar;](http://www.techmeme.com/250402/p14#a250402p14)
  - [Trump admin poaches Apple attorney for NLRB, future of labor complaints in doubt](https://appleinsider.com/articles/25/04/02/trump-admin-poaches-apple-attorney-for-nlrb-future-of-labor-complaints-in-doubt?utm_medium=rss)
- - [This Startup Says It Can Clean Your Blood of Microplastics](https://www.wired.com/story/this-startup-promises-to-clean-your-blood-of-microplastics-clarify-clinics/)
- - [‘Adolescence’ Creator ‘Went Very, Very Deep’ in the Manosphere. Its Appeal Scared Him](https://www.wired.com/story/adolescence-creator-went-very-very-deep-in-the-manosphere-its-appeal-scared-him/)
- - [Micro USB is the bane of my existence](https://www.theverge.com/tech/638566/micro-usb-is-the-worst)<!-- TECH:END -->
+ - [Switch 2 Nintendo Direct Live Updates: Last-Minute Rumors and Predictions](https://www.cnet.com/tech/gaming/switch-2-nintendo-direct-live-updates/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

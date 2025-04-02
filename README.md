@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Old but Gold](http://9gag.com/gag/a9y5g7j)
- - 😝 [Not today mofo, I\u2019m getting that passport.](http://9gag.com/gag/aMVPMyR)
- - 💣 [What was the plan here?](http://9gag.com/gag/aqy6oAZ)
- - 😝 [This guy just won Florida&#39;s house elections with 57% of the votes](http://9gag.com/gag/ayN6GZp)
- - 👉 [Randy, the @$hole](http://9gag.com/gag/aGyB4AK)<!-- MEMES:END -->
+ - 😝 [Ear reconstruction surgery in ribcage](http://9gag.com/gag/a0e0r5Q)
+ - 😝 [Peak Ozzy](http://9gag.com/gag/ae9ZwEv)
+ - 💣 [POV: Your mall is about to go out of business.](http://9gag.com/gag/aD285mx)
+ - 😝 [How much has the Internet ruined you?](http://9gag.com/gag/aKGvR4O)
+ - 👉 [Not today mofo, I\u2019m getting that passport.](http://9gag.com/gag/aMVPMyR)<!-- MEMES:END -->
 
 ---
 

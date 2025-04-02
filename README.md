@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GameCube games are coming to Nintendo Switch Online](https://www.theverge.com/news/24339906/nintendo-switch-2-gamecube-nso)
- - [The Switch 2’s Pro Controller adds customizable rear buttons](https://www.theverge.com/news/637833/nintendo-switch-2-pro-controller-details)
- - [Nintendo is upgrading the Switch’s best Zelda games with Switch 2 Editions](https://www.theverge.com/news/641365/nintendo-zelda-botw-totk-switch-2-edition-announced)
- - [The Nintendo Switch 2 has a camera accessory for video chats](https://www.theverge.com/news/641352/nintendo-switch-2-camera-launch)
- - [Nintendo says its new Joy-Con controllers have a C button for GameChat, which uses Switch 2&#39;s built-in mic, and the Switch 2 uses new microSD Express cards &lpar;Nathan Ingraham/Engadget&rpar;](http://www.techmeme.com/250402/p22#a250402p22)<!-- TECH:END -->
+ - [Nintendo says the Switch 2 will cost $450 for the console or $500 for a Mario Kart World bundle on its June 5 launch; North America pre-orders open on April 9 &lpar;The Verge&rpar;](http://www.techmeme.com/250402/p25#a250402p25)
+ - [Hyrule Warriors: Age of Imprisonment hits the Switch 2 this winter](https://www.theverge.com/news/638770/hyrule-warriors-age-of-imprisonment)
+ - [Nintendo unveils the Switch 2 Camera, a camera accessory with a stand, designed to sit next to a TV for video chats, launching on June 5 alongside the Switch 2 &lpar;The Verge&rpar;](http://www.techmeme.com/250402/p24#a250402p24)
+ - [Nintendo says it will add Nintendo GameCube games to the library of titles playable on the Switch 2, including The Legend of Zelda: The Wind Waker from 2002 &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250402/p23#a250402p23)
+ - [Netflix will offer more languages for subtitles and dubbing when watching on a TV](https://www.theverge.com/news/641206/netflix-subtitles-dubbing-tv-languages)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

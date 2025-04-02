@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how you can preorder the Nintendo Switch 2 &lpar;or try to&rpar;](https://www.theverge.com/tech/24342715/nintendo-switch-2-preorder-price-release-date-availability-how-to-buy)
- - [This Tool Probes Frontier AI Models for Lapses in Intelligence](https://www.wired.com/story/this-tool-probes-frontier-ai-models-for-lapses-in-intelligence/)
- - [Sony’s Latest Bravia Home Theater Gear Gets Bolder, Brighter](https://www.wired.com/story/sony-tv-soundbar-lineup-impressions-2025/)
- - [Sony&amp;#8217;s new Bravia lineup includes its &amp;#8216;King of TV&amp;#8217; successor](https://www.theverge.com/news/641755/sony-bravia-8-ii-qd-oled-announced-king-of-tv-successor)
- - [Sources: Amazon has put in a bid to acquire all of TikTok, but various parties involved do not appear to be taking it seriously, ahead of the April 5 deadline &lpar;New York Times&rpar;](http://www.techmeme.com/250402/p31#a250402p31)<!-- TECH:END -->
+ - [Nintendo says the eShop will run more smoothly on the Switch 2](https://www.theverge.com/news/641966/nintendo-eshop-smooth-switch-2)
+ - [Trump pardoned BitMEX owner HDR Global Trading, which had pleaded guilty and was fined $100M for money laundering, possibly the first US pardon of a corporation &lpar;Matt Sledge/The Intercept&rpar;](http://www.techmeme.com/250402/p33#a250402p33)
+ - [$5 billion class action suit over Apple&#39;s ebook licensing is based on false premises](https://appleinsider.com/articles/25/04/02/5-billion-class-action-suit-over-apples-ebook-licensing-is-based-on-false-premises?utm_medium=rss)
+ - [Google replaces Sissie Hsiao, leader of its consumer AI apps, including Gemini, with Josh Woodward, who leads Google Labs and oversaw NotebookLM&#39;s launch &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250402/p32#a250402p32)
+ - [Nintendo Switch 2 Direct Live Recap: Launches June 5, $450 and More Reveals](https://www.cnet.com/tech/gaming/switch-2-nintendo-direct-live-updates/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

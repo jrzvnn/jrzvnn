@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Oh nooooooo](http://9gag.com/gag/ajPLeDg)
- - 😝 [Ear reconstruction surgery in ribcage](http://9gag.com/gag/a0e0r5Q)
- - 💣 [What was the plan here?](http://9gag.com/gag/aqy6oAZ)
- - 😝 [Old but Gold](http://9gag.com/gag/a9y5g7j)
- - 👉 [Not today mofo, I\u2019m getting that passport.](http://9gag.com/gag/aMVPMyR)<!-- MEMES:END -->
+ - 😝 [Not today mofo, I\u2019m getting that passport.](http://9gag.com/gag/aMVPMyR)
+ - 💣 [Old but Gold](http://9gag.com/gag/a9y5g7j)
+ - 😝 [Scans of a 44 year-old man who &lpar;unknowingly&rpar; lived with 90% of his brain destroyed from hydrocephalus.](http://9gag.com/gag/aD28E4Z)
+ - 👉 [Behold King Gluteus Maximus](http://9gag.com/gag/aXPVB6D)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Quiet quitting](http://9gag.com/gag/aRBMbj7)
- - 😝 [Press F to pay respect](http://9gag.com/gag/ayN6O0y)
- - 💣 [`Telling people in poverty to be more entrepreneurial is sick`](http://9gag.com/gag/aVvKNQv)
- - 😝 [And everyone is happy on the Matrix](http://9gag.com/gag/amo6ewy)
- - 👉 [Would you rather?](http://9gag.com/gag/aD28yNx)<!-- MEMES:END -->
+ - 😝 [Oh nooooooo](http://9gag.com/gag/ajPLeDg)
+ - 😝 [Ear reconstruction surgery in ribcage](http://9gag.com/gag/a0e0r5Q)
+ - 💣 [Old but Gold](http://9gag.com/gag/a9y5g7j)
+ - 😝 [Based](http://9gag.com/gag/aByVebz)
+ - 👉 [Not today mofo, I\u2019m getting that passport.](http://9gag.com/gag/aMVPMyR)<!-- MEMES:END -->
 
 ---
 

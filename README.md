@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Based](http://9gag.com/gag/aByVebz)
- - 😝 [How much has the Internet ruined you?](http://9gag.com/gag/aKGvR4O)
- - 💣 [Not today mofo, I\u2019m getting that passport.](http://9gag.com/gag/aMVPMyR)
- - 😝 [Old but Gold](http://9gag.com/gag/a9y5g7j)
- - 👉 [This guy just won Florida&#39;s house elections with 57% of the votes](http://9gag.com/gag/ayN6GZp)<!-- MEMES:END -->
+ - 😝 [Best friends](http://9gag.com/gag/aPAobmV)
+ - 😝 [Ear reconstruction surgery in ribcage](http://9gag.com/gag/a0e0r5Q)
+ - 💣 [Randy, the @$hole](http://9gag.com/gag/aGyB4AK)
+ - 😝 [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)
+ - 👉 [Left wing Germany will not let you defend yourself against foreign invaders](http://9gag.com/gag/a340mWQ)<!-- MEMES:END -->
 
 ---
 

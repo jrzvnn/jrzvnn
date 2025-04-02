@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Documents: the NLRB froze Janneke Parrish and Cher Scarlett&#39;s cases against Apple pending a review after Trump nominated an Apple attorney as general counsel &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/250402/p15#a250402p15)
- - [The Best Mushroom Coffee, WIRED Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-mushroom-coffee/)
- - [X users are asking Grok to fact check other users by tagging @grok, often on political or historical topics, as a new passive aggressive way to dunk on others &lpar;Katie Notopoulos/Business Insider&rpar;](http://www.techmeme.com/250402/p14#a250402p14)
- - [Trump admin poaches Apple attorney for NLRB, future of labor complaints in doubt](https://appleinsider.com/articles/25/04/02/trump-admin-poaches-apple-attorney-for-nlrb-future-of-labor-complaints-in-doubt?utm_medium=rss)
- - [Switch 2 Nintendo Direct Live Updates: Last-Minute Rumors and Predictions](https://www.cnet.com/tech/gaming/switch-2-nintendo-direct-live-updates/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Roblox rolls out new parental controls, including letting parents block and report specific people on their child&#39;s friends list, building on changes from 2024 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250402/p16#a250402p16)
+ - [Everything revealed during the Nintendo Switch 2 Direct](https://www.theverge.com/nintendo/638604/nintendo-switch-2-direct-news-trailers-stream)
+ - [Samsung’s Tab S10 FE tablets arrive with a $50 price hike](https://www.theverge.com/news/641264/samsung-galaxy-tab-s10-fe-plus-size-specs-price-release-date)
+ - [iOS 18.4 appears to be restoring deleted apps and installing new ones](https://appleinsider.com/articles/25/04/02/ios-184-appears-to-be-restoring-deleted-apps-and-installing-new-ones?utm_medium=rss)
+ - [Documents: the NLRB froze Janneke Parrish and Cher Scarlett&#39;s cases against Apple pending a review after Trump nominated an Apple attorney as general counsel &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/250402/p15#a250402p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

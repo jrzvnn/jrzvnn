@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm says it is weighing an acquisition offer for Alphawave, which has a market cap of ~$1.3B and makes high-speed semiconductor and connectivity technology &lpar;Amy Thomson/Bloomberg&rpar;](http://www.techmeme.com/250402/p5#a250402p5)
- - [Sources: Arm decided not to pursue a deal after recently seeking to acquire Alphawave, a UK-listed supplier of semiconductor IP that is exploring a sale &lpar;Reuters&rpar;](http://www.techmeme.com/250402/p4#a250402p4)
  - [Motorola’s first Edge 60 phone feels like canvas](https://www.theverge.com/news/640653/motorola-edge-60-fusion-launch-canvas-finish)
  - [15% Off Dell Coupon Codes | April 2025](https://www.wired.com/story/dell-coupon-code/)
- - [Visible Promo Code: Save $300 in April 2025](https://www.wired.com/story/visible-promo-code/)<!-- TECH:END -->
+ - [Visible Promo Code: Save $300 in April 2025](https://www.wired.com/story/visible-promo-code/)
+ - [How to stop Spotlight hogging disk space on macOS](https://appleinsider.com/inside/macos/tips/how-to-stop-spotlight-hogging-disk-space-on-macos?utm_medium=rss)
+ - [McDonald&#39;s Launches Minecraft Happy Meals, Plus a &#39;Nether&#39; Hot Sauce for Nuggets](https://www.cnet.com/tech/gaming/mcdonalds-launching-minecraft-happy-meals-plus-a-nether-hot-sauce-for-nuggets/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

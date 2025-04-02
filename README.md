@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s how you can preorder the Nintendo Switch 2 &lpar;or try to&rpar;](https://www.theverge.com/tech/24342715/nintendo-switch-2-preorder-price-release-date-availability-how-to-buy)
  - [The Nintendo GameCube is about to get its due](https://www.theverge.com/news/642025/nintendo-switch-2-gamecube-zelda-wind-waker-f-zero-gx)
  - [How the Nintendo Switch 2 compares to prior models on paper](https://www.theverge.com/tech/641149/nintendo-switch-2-vs-oled-lite-specs-comparison-price)
  - [Source: Scale AI generated ~$870M in revenue in 2024, with its annualized run rate reaching $1.5B by the end of the year, and expects $2B in revenue in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250402/p46#a250402p46)
- - [The NaNoWriMo organization is shutting down](https://www.theverge.com/news/642258/nanowrimo-organization-shutting-down)
- - [The Founder of OnlyFans Wants to Buy TikTok](https://www.wired.com/story/founder-onlyfans-wants-to-buy-tiktok/)<!-- TECH:END -->
+ - [The NaNoWriMo organization is shutting down](https://www.theverge.com/news/642258/nanowrimo-organization-shutting-down)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

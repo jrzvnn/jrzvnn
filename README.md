@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox rolls out new parental controls, including letting parents block and report specific people on their child&#39;s friends list, building on changes from 2024 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250402/p16#a250402p16)
- - [Everything revealed during the Nintendo Switch 2 Direct](https://www.theverge.com/nintendo/638604/nintendo-switch-2-direct-news-trailers-stream)
- - [Samsung’s Tab S10 FE tablets arrive with a $50 price hike](https://www.theverge.com/news/641264/samsung-galaxy-tab-s10-fe-plus-size-specs-price-release-date)
- - [iOS 18.4 appears to be restoring deleted apps and installing new ones](https://appleinsider.com/articles/25/04/02/ios-184-appears-to-be-restoring-deleted-apps-and-installing-new-ones?utm_medium=rss)
- - [Documents: the NLRB froze Janneke Parrish and Cher Scarlett&#39;s cases against Apple pending a review after Trump nominated an Apple attorney as general counsel &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/250402/p15#a250402p15)<!-- TECH:END -->
+ - [Adobe launches Premiere Pro’s generative AI video extender](https://www.theverge.com/news/641270/adobe-premiere-pro-generative-extend-generally-available)
+ - [A livestream of Nintendo&#39;s Switch 2 event &lpar;Nintendo of America on YouTube&rpar;](http://www.techmeme.com/250402/p18#a250402p18)
+ - [iPhone Fold won&#39;t be an iPad or iPhone killer](https://appleinsider.com/articles/25/04/02/iphone-fold-wont-be-an-ipad-or-iphone-killer?utm_medium=rss)
+ - [AirPods Max firmware pulled before users could get new features](https://appleinsider.com/articles/25/04/02/airpods-max-firmware-pulled-before-users-could-get-new-features?utm_medium=rss)
+ - [UFC signs a wide-ranging, multimillion-dollar, multiple-year sponsorship deal with Meta, which will be its &quot;official fan technology partner&quot; &lpar;Alex Sherman/CNBC&rpar;](http://www.techmeme.com/250402/p17#a250402p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

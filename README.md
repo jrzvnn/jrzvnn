@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh nooooooo](http://9gag.com/gag/ajPLeDg)
  - 😝 [Ear reconstruction surgery in ribcage](http://9gag.com/gag/a0e0r5Q)
- - 💣 [Old but Gold](http://9gag.com/gag/a9y5g7j)
- - 😝 [Based](http://9gag.com/gag/aByVebz)
- - 👉 [Not today mofo, I\u2019m getting that passport.](http://9gag.com/gag/aMVPMyR)<!-- MEMES:END -->
+ - 😝 [Old but Gold](http://9gag.com/gag/a9y5g7j)
+ - 💣 [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)
+ - 😝 [Wankpanzers, very revolutionary lmao](http://9gag.com/gag/aoyR7Qw)
+ - 👉 [Oh nooooooo](http://9gag.com/gag/ajPLeDg)<!-- MEMES:END -->
 
 ---
 

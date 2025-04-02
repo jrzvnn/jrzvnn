@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best friends](http://9gag.com/gag/aPAobmV)
- - 😝 [Ear reconstruction surgery in ribcage](http://9gag.com/gag/a0e0r5Q)
- - 💣 [Randy, the @$hole](http://9gag.com/gag/aGyB4AK)
- - 😝 [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)
- - 👉 [Left wing Germany will not let you defend yourself against foreign invaders](http://9gag.com/gag/a340mWQ)<!-- MEMES:END -->
+ - 😝 [I love after bath Massage](http://9gag.com/gag/a9y5gG0)
+ - 😝 [Wankpanzers, very revolutionary lmao](http://9gag.com/gag/aoyR7Qw)
+ - 💣 [This is a Korean girl studying in Canada](http://9gag.com/gag/abA48Kb)
+ - 😝 [This guy just won Florida&#39;s house elections with 57% of the votes](http://9gag.com/gag/ayN6GZp)
+ - 👉 [Old but Gold](http://9gag.com/gag/a9y5g7j)<!-- MEMES:END -->
 
 ---
 

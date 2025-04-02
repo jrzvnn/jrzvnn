@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Have you ever heard of firesnow?](http://9gag.com/gag/aAyKA4R)
- - 😝 [Old but Gold](http://9gag.com/gag/a9y5g7j)
- - 💣 [Artichoke hearts](http://9gag.com/gag/ae9Z82O)
- - 😝 [Not today mofo, I\u2019m getting that passport.](http://9gag.com/gag/aMVPMyR)
- - 👉 [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)<!-- MEMES:END -->
+ - 😝 [This is a Korean girl studying in Canada](http://9gag.com/gag/abA48Kb)
+ - 😝 [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)
+ - 💣 [Wankpanzers, very revolutionary lmao](http://9gag.com/gag/aoyR7Qw)
+ - 😝 [Randy, the @$hole](http://9gag.com/gag/aGyB4AK)
+ - 👉 [Wait WHAT ?](http://9gag.com/gag/azxK3QK)<!-- MEMES:END -->
 
 ---
 

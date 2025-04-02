@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not today mofo, I\u2019m getting that passport.](http://9gag.com/gag/aMVPMyR)
- - 😝 [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)
- - 💣 [Old but Gold](http://9gag.com/gag/a9y5g7j)
- - 😝 [Prepare thy meat, Sir.](http://9gag.com/gag/aO8ZM6y)
- - 👉 [How much has the Internet ruined you?](http://9gag.com/gag/aKGvR4O)<!-- MEMES:END -->
+ - 😝 [This is a Korean girl studying in Canada](http://9gag.com/gag/abA48Kb)
+ - 😝 [Hulk Hogan and his new wife film their reaction to his ex-wife&#39;s `pain &amp; loneliness` &lpar;he divorced her for cheating with his son&#39;s best friend&rpar;.](http://9gag.com/gag/a0e0qYB)
+ - 💣 [Did they really make a joke into a serious episode of the good doctor?](http://9gag.com/gag/aoyRvM3)
+ - 😝 [A digital legend you\u2019ve probably never heard of\u2026](http://9gag.com/gag/amo6ZVX)
+ - 👉 [Transaction](http://9gag.com/gag/abA4N1b)<!-- MEMES:END -->
 
 ---
 

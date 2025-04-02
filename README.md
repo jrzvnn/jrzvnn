@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ear reconstruction surgery in ribcage](http://9gag.com/gag/a0e0r5Q)
- - 😝 [Peak Ozzy](http://9gag.com/gag/ae9ZwEv)
- - 💣 [POV: Your mall is about to go out of business.](http://9gag.com/gag/aD285mx)
- - 😝 [How much has the Internet ruined you?](http://9gag.com/gag/aKGvR4O)
- - 👉 [Not today mofo, I\u2019m getting that passport.](http://9gag.com/gag/aMVPMyR)<!-- MEMES:END -->
+ - 😝 [Love how they jiggle.](http://9gag.com/gag/aByVeBO)
+ - 😝 [Oh nooooooo](http://9gag.com/gag/ajPLeDg)
+ - 💣 [How much has the Internet ruined you?](http://9gag.com/gag/aKGvR4O)
+ - 😝 [Wait WHAT ?](http://9gag.com/gag/azxK3QK)
+ - 👉 [Loading cars onto a ferry](http://9gag.com/gag/a5QwgYV)<!-- MEMES:END -->
 
 ---
 

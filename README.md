@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Blowout deal: Snag an M3 Pro MacBook Pro for $1,499 while supplies last](https://appleinsider.com/articles/25/04/02/blowout-deal-snag-an-m3-pro-macbook-pro-for-1499-while-supplies-last?utm_medium=rss)
  - [Google unveils a NotebookLM &quot;Discover sources&quot; feature, which searches the web and recommends up to 10 sources for users to add to their notebooks &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250402/p45#a250402p45)
  - [The best ereader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
  - [Thunderbird email is going pro to better compete with Gmail](https://www.theverge.com/news/642228/thunderbird-pro-thundermail-email-service)
- - [Here Are the Switch 2 Games I&#39;m Excited to Play](https://www.cnet.com/tech/gaming/here-are-the-switch-2-games-im-excited-to-play/#ftag=CAD590a51e)
- - [Amazon plans to launch the first 27 satellites for its Project Kuiper internet network on April 9, after launching two prototype satellites in 2023 &lpar;Joey Roulette/Reuters&rpar;](http://www.techmeme.com/250402/p44#a250402p44)<!-- TECH:END -->
+ - [Here Are the Switch 2 Games I&#39;m Excited to Play](https://www.cnet.com/tech/gaming/here-are-the-switch-2-games-im-excited-to-play/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

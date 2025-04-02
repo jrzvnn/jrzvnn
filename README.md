@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Buttoning up your boots](http://9gag.com/gag/aGyBvLz)
- - 😝 [Based](http://9gag.com/gag/aByVebz)
- - 💣 [This is a Korean girl studying in Canada](http://9gag.com/gag/abA48Kb)
  - 😝 [Not today mofo, I\u2019m getting that passport.](http://9gag.com/gag/aMVPMyR)
- - 👉 [Opening a 72-year-old tin of survival cookies and crackers from a fallout shelter](http://9gag.com/gag/a4PNgNZ)<!-- MEMES:END -->
+ - 😝 [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)
+ - 💣 [Old but Gold](http://9gag.com/gag/a9y5g7j)
+ - 😝 [Prepare thy meat, Sir.](http://9gag.com/gag/aO8ZM6y)
+ - 👉 [How much has the Internet ruined you?](http://9gag.com/gag/aKGvR4O)<!-- MEMES:END -->
 
 ---
 

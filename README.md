@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a March 28 brief, X asked SCOTUS to shield user data from US law enforcement without &quot;probable cause&quot;, in Coinbase user James Harper&#39;s long-running case &lpar;Financial Times&rpar;](http://www.techmeme.com/250402/p13#a250402p13)
  - [Elon Musk&#39;s X and xAI all-stock merger broke Wall Street&#39;s usual rules, with the same advisers, Morgan Stanley and Sullivan &amp; Cromwell, working on both sides &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250402/p12#a250402p12)
+ - [iOS 18.4: How to Enable and Customize Apple Intelligence Priority Notifications](https://www.cnet.com/tech/services-and-software/ios-18-4-how-to-enable-and-customize-apple-intelligence-priority-notifications/#ftag=CAD590a51e)
  - [This Is How You Get a Chinese EV Into the United States](https://www.wired.com/story/this-is-how-you-get-a-chinese-ev-into-the-united-states/)
- - [In its first post-IPO earnings, Raspberry Pi reports FY 2024 revenue down 2% YoY to $259.5M, pre-tax profit down 57% YoY to $16.3M, and 1.9M Pi 5 units sold &lpar;Financial Times&rpar;](http://www.techmeme.com/250402/p11#a250402p11)
- - [Indian investment bank The Rainmaker Group says 36+ Indian tech startups like Flipkart and PhonePe with a combined $100B valuation are set to go public by 2027 &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/250402/p10#a250402p10)
- - [The Wikimedia Foundation says base bandwidth demand for downloading Wikimedia Commons multimedia content is up 50% since January 2024, driven by AI crawlers &lpar;Wikimedia&rpar;](http://www.techmeme.com/250402/p9#a250402p9)<!-- TECH:END -->
+ - [In its first post-IPO earnings, Raspberry Pi reports FY 2024 revenue down 2% YoY to $259.5M, pre-tax profit down 57% YoY to $16.3M, and 1.9M Pi 5 units sold &lpar;Financial Times&rpar;](http://www.techmeme.com/250402/p11#a250402p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

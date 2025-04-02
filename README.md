@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Uninvited Guest](http://9gag.com/gag/a6Z5vyb)
- - 😝 [Old but Gold](http://9gag.com/gag/a9y5g7j)
- - 💣 [Give him a chance](http://9gag.com/gag/an72p1B)
  - 😝 [Scans of a 44 year-old man who &lpar;unknowingly&rpar; lived with 90% of his brain destroyed from hydrocephalus.](http://9gag.com/gag/aD28E4Z)
- - 👉 [Best friends](http://9gag.com/gag/aPAobmV)<!-- MEMES:END -->
+ - 😝 [Not today mofo, I\u2019m getting that passport.](http://9gag.com/gag/aMVPMyR)
+ - 💣 [Artichoke hearts](http://9gag.com/gag/ae9Z82O)
+ - 😝 [He won the professor award !!](http://9gag.com/gag/a2v0Bm9)
+ - 👉 [Behold King Gluteus Maximus](http://9gag.com/gag/aXPVB6D)<!-- MEMES:END -->
 
 ---
 

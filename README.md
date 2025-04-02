@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [POV: Your mall is about to go out of business.](http://9gag.com/gag/aD285mx)
- - 😝 [`At Terry&#39;s custom cars, we come to you for your convenience.`](http://9gag.com/gag/a9y5xEK)
- - 💣 [This is a Korean girl studying in Canada](http://9gag.com/gag/abA48Kb)
- - 😝 [Initial investigation reveals the collapsed building in Bangkok used low quality rebars.](http://9gag.com/gag/agm7eq1)
- - 👉 [This guy just won Florida&#39;s house elections with 57% of the votes](http://9gag.com/gag/ayN6GZp)<!-- MEMES:END -->
+ - 😝 [The thing got weirder with every second](http://9gag.com/gag/a0e03DZ)
+ - 😝 [At least he remembered his seatbelt](http://9gag.com/gag/a4PNO0v)
+ - 💣 [Old but Gold](http://9gag.com/gag/a9y5g7j)
+ - 😝 [Randy, the @$hole](http://9gag.com/gag/aGyB4AK)
+ - 👉 [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)<!-- MEMES:END -->
 
 ---
 

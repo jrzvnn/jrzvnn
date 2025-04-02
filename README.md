@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Initial investigation reveals the collapsed building in Bangkok used low quality rebars.](http://9gag.com/gag/agm7eq1)
- - 😝 [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)
- - 💣 [Peak Ozzy](http://9gag.com/gag/ae9ZwEv)
- - 😝 [I love after bath Massage](http://9gag.com/gag/a9y5gG0)
- - 👉 [Randy, the @$hole](http://9gag.com/gag/aGyB4AK)<!-- MEMES:END -->
+ - 😝 [Not today mofo, I\u2019m getting that passport.](http://9gag.com/gag/aMVPMyR)
+ - 😝 [Quiet quitting](http://9gag.com/gag/aRBMbj7)
+ - 💣 [Old but Gold](http://9gag.com/gag/a9y5g7j)
+ - 😝 [This guy just won Florida&#39;s house elections with 57% of the votes](http://9gag.com/gag/ayN6GZp)
+ - 👉 [Peak Ozzy](http://9gag.com/gag/ae9ZwEv)<!-- MEMES:END -->
 
 ---
 

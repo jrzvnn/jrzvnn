@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A sworn Irish affidavit: Keith O&#39;Brien, who allegedly spied for Deel while working at Rippling, says Deel paid him and he coordinated with Deel CEO Alex Bouaziz &lpar;Eric Newcomer/Newcomer&rpar;](http://www.techmeme.com/250402/p27#a250402p27)
+ - [Nintendo goes in-depth on Switch 2 backward compatibility](https://www.theverge.com/news/641578/nintendo-switch-2-backwards-compatibility-games-faq)
+ - [FromSoftware is making a multiplayer Switch 2 exclusive called The Duskbloods](https://www.theverge.com/news/641335/the-duskbloods-fromsoftware-nintendo-switch-2-exclusive-announcement)
  - [The Switch 2’s Pro Controller adds customizable rear buttons](https://www.theverge.com/news/637833/nintendo-switch-2-pro-controller-details)
- - [Sources: ByteDance, Alibaba, Tencent, and other Chinese companies placed $16B+ in orders for Nvidia&#39;s H20 chips in Q1 2025, ahead of a potential US sales ban &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/250402/p26#a250402p26)
- - [Everything revealed during the Nintendo Switch 2 Direct](https://www.theverge.com/nintendo/638604/nintendo-switch-2-direct-news-trailers-stream)
- - [Kirby Air Riders is a Switch 2 racing game from Masahiro Sakurai](https://www.theverge.com/news/641602/kirby-air-riders-switch-2-masahiro-sakurai)
- - [Donkey Kong Bananza is coming to the Switch 2 in July](https://www.theverge.com/news/641537/donkey-kong-bananza-nintendo-switch-2)<!-- TECH:END -->
+ - [Nintendo Switch 2 Is Coming June 5 for $450](https://www.wired.com/story/nintendo-switch-2-release-date-pre-orders/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

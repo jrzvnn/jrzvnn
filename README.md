@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Husband embarrasses wife by pretending to be an influencer](http://9gag.com/gag/aoyRQA2)
- - 😝 [Now its worth $10 million](http://9gag.com/gag/axy6qMn)
- - 💣 [RIP ICEMAN](http://9gag.com/gag/a9y5ooZ)
- - 😝 [Did they really make a joke into a serious episode of the good doctor?](http://9gag.com/gag/aoyRvM3)
- - 👉 [Not today mofo, I\u2019m getting that passport.](http://9gag.com/gag/aMVPMyR)<!-- MEMES:END -->
+ - 😝 [Quiet quitting](http://9gag.com/gag/aRBMbj7)
+ - 😝 [Press F to pay respect](http://9gag.com/gag/ayN6O0y)
+ - 💣 [`Telling people in poverty to be more entrepreneurial is sick`](http://9gag.com/gag/aVvKNQv)
+ - 😝 [And everyone is happy on the Matrix](http://9gag.com/gag/amo6ewy)
+ - 👉 [Would you rather?](http://9gag.com/gag/aD28yNx)<!-- MEMES:END -->
 
 ---
 

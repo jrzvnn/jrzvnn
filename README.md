@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says it used its AI-powered Security Copilot to discover previously unknown vulnerabilities in the GRUB2, U-Boot, and Barebox open-source bootloaders &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250401/p41#a250401p41)
- - [Visible’s new plan puts Verizon’s to shame](https://www.theverge.com/news/640896/visible-plus-pro-plan-verizon-unlimited-welcome)
- - [Trump advisor reportedly used personal Gmail for &amp;#8216;sensitive&amp;#8217; military discussions](https://www.theverge.com/news/641144/michael-waltz-gmail-national-security-signal)
- - [Leaked renders of the Google Pixel 10 Pro Fold show a design similar to its predecessor&#39;s; sources: it will feature a TSMC-made Tensor G5 chip and 16GB of RAM &lpar;Alexander Maxham/Android Headlines&rpar;](http://www.techmeme.com/250401/p40#a250401p40)
- - [Here&amp;#8217;s more of what you&amp;#8217;ll see through Meta&amp;#8217;s $1,000 smart glasses](https://www.theverge.com/news/641153/meta-hypernova-ray-ban-smart-glasses-price)<!-- TECH:END -->
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [Doctor Behind Award-Winning Parkinson’s Research Among Scientists Purged From NIH](https://www.wired.com/story/doctor-breakthrough-parkinsons-research-nih-purge/)
+ - [Switch 2 Nintendo Direct Live Updates: Last-Minute Rumors and Predictions](https://www.cnet.com/tech/gaming/switch-2-nintendo-direct-live-updates/#ftag=CAD590a51e)
+ - [Aurzen ZIP Projector review: Bringing the mobile to the big screen](https://appleinsider.com/articles/25/04/02/aurzen-zip-projector-review-bringing-the-mobile-to-the-big-screen?utm_medium=rss)
+ - [Microsoft says it used its AI-powered Security Copilot to discover previously unknown vulnerabilities in the GRUB2, U-Boot, and Barebox open-source bootloaders &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250401/p41#a250401p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

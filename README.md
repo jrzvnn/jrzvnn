@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [With the Switch 2, it seems like Nintendo is kind of figuring out online](https://www.theverge.com/news/642290/nintendo-switch-2-online-figuring-out-gamechat)
  - [Donald Trump announces tariffs that could raise the price of almost everything you buy](https://www.theverge.com/news/642240/trump-tariffs-imports-apple-manufacturing)
  - [Blowout deal: Snag an M3 Pro MacBook Pro for $1,499 while supplies last](https://appleinsider.com/articles/25/04/02/blowout-deal-snag-an-m3-pro-macbook-pro-for-1499-while-supplies-last?utm_medium=rss)
  - [Google unveils a NotebookLM &quot;Discover sources&quot; feature, which searches the web and recommends up to 10 sources for users to add to their notebooks &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250402/p45#a250402p45)
- - [The best ereader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [Thunderbird email is going pro to better compete with Gmail](https://www.theverge.com/news/642228/thunderbird-pro-thundermail-email-service)<!-- TECH:END -->
+ - [The best ereader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

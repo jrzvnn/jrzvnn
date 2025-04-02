@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is a Korean girl studying in Canada](http://9gag.com/gag/abA48Kb)
- - 😝 [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)
- - 💣 [Wankpanzers, very revolutionary lmao](http://9gag.com/gag/aoyR7Qw)
- - 😝 [Randy, the @$hole](http://9gag.com/gag/aGyB4AK)
- - 👉 [Wait WHAT ?](http://9gag.com/gag/azxK3QK)<!-- MEMES:END -->
+ - 😝 [Hulk Hogan and his new wife film their reaction to his ex-wife&#39;s `pain &amp; loneliness` &lpar;he divorced her for cheating with his son&#39;s best friend&rpar;.](http://9gag.com/gag/a0e0qYB)
+ - 😝 [Did they really make a joke into a serious episode of the good doctor?](http://9gag.com/gag/aoyRvM3)
+ - 💣 [Transaction](http://9gag.com/gag/abA4N1b)
+ - 😝 [A digital legend you\u2019ve probably never heard of\u2026](http://9gag.com/gag/amo6ZVX)
+ - 👉 [Careful what you are betting on\u2026](http://9gag.com/gag/aByVAoA)<!-- MEMES:END -->
 
 ---
 

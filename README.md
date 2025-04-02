@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best ereader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
+ - [Thunderbird email is going pro to better compete with Gmail](https://www.theverge.com/news/642228/thunderbird-pro-thundermail-email-service)
+ - [Amazon plans to launch the first 27 satellites for its Project Kuiper internet network on April 9, after launching two prototype satellites in 2023 &lpar;Joey Roulette/Reuters&rpar;](http://www.techmeme.com/250402/p44#a250402p44)
  - [Europol says German and Dutch authorities shut down Kidflix, a CSAM streaming platform with 1.8M+ users between April 2022 and March 2025, on March 11 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250402/p43#a250402p43)
- - [Apple stumbles with latest AirPods Max firmware](https://www.theverge.com/news/642140/apple-airpods-max-lossless-audio-update-delay)
- - [Trump&#39;s solution to the TikTok predicament is &#39;TikTok America&#39;](https://appleinsider.com/articles/25/04/02/trumps-solution-to-the-tiktok-predicament-is-tiktok-america?utm_medium=rss)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [New in iOS 18.5: Show and hide contact photos directly from the Mail app](https://appleinsider.com/articles/25/04/02/new-in-ios-185-show-and-hide-contact-photos-directly-from-the-mail-app?utm_medium=rss)<!-- TECH:END -->
+ - [Apple stumbles with latest AirPods Max firmware](https://www.theverge.com/news/642140/apple-airpods-max-lossless-audio-update-delay)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

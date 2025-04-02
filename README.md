@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe updates Premiere Pro with AI-powered features like Generative Extend, which lets users extend clips by two seconds with 4K quality and background audio &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250402/p37#a250402p37)
+ - [Here’s everything Nintendo has revealed about the Switch 2’s Joy-Cons](https://www.theverge.com/news/642024/nintendo-switch-2-joy-con-controllers-mouse-magnetic-attach-c-button)
+ - [Here’s the Switch 2’s homescreen](https://www.theverge.com/nintendo/642004/nintendo-switch-2-homescreen-customization)
  - [Sources: Justin Sun bailed out Techteryx&#39;s TrueUSD after $456M in reserves, managed by First Digital, became illiquid; Techteryx says it was a victim of fraud &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/250402/p36#a250402p36)
- - [Cybersecurity Professor Faced China Funding Inquiry Before Disappearing, Sources Say](https://www.wired.com/story/xiaofeng-wang-indiana-university-research-probe-china/)
- - [FDUSD stablecoin depegged 9% after Justin Sun raised concerns over Hong Kong-based First Digital Trust&#39;s solvency; Binance alone holds ~$2.2B worth of FDUSD &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250402/p35#a250402p35)
- - [Apple restarts last developer beta cycle before WWDC with iOS 18.5, macOS 15.5](https://appleinsider.com/articles/25/04/02/apple-restarts-last-developer-beta-cycle-before-wwdc-with-ios-185-macos-155?utm_medium=rss)
- - [Google’s NotebookLM leader is taking over as head of the Gemini app](https://www.theverge.com/news/642000/google-sissie-hsaio-stepping-down-notebooklm)<!-- TECH:END -->
+ - [Cybersecurity Professor Faced China-Funding Inquiry Before Disappearing, Sources Say](https://www.wired.com/story/xiaofeng-wang-indiana-university-research-probe-china/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

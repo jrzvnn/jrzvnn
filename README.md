@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This guy just won Florida&#39;s house elections with 57% of the votes](http://9gag.com/gag/ayN6GZp)
  - 😝 [Wait WHAT ?](http://9gag.com/gag/azxK3QK)
- - 😝 [How much has the Internet ruined you?](http://9gag.com/gag/aKGvR4O)
- - 💣 [Based](http://9gag.com/gag/aByVebz)
- - 😝 [18 years ago, this guy sold his spot in line for $800 for the first iPhone release and got a h3ll of a deal](http://9gag.com/gag/ajPL4zQ)
- - 👉 [Not today mofo, I\u2019m getting that passport.](http://9gag.com/gag/aMVPMyR)<!-- MEMES:END -->
+ - 💣 [This is a Korean girl studying in Canada](http://9gag.com/gag/abA48Kb)
+ - 😝 [Would you rather?](http://9gag.com/gag/aD28yNx)
+ - 👉 [Wankpanzers, very revolutionary lmao](http://9gag.com/gag/aoyR7Qw)<!-- MEMES:END -->
 
 ---
 

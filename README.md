@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FTC chair says he’d ‘obey lawful orders’ if Trump asked to drop an antitrust case like Meta&amp;#8217;s](https://www.theverge.com/news/642068/ftc-chair-andrew-ferguson-trump-drop-meta-lawsuit-hypothetical)
  - [Sources: AppLovin has made a bid for TikTok and talked to casino magnate Steve Wynn about backing it &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250402/p38#a250402p38)
  - [Adobe updates Premiere Pro with AI-powered features like Generative Extend, which lets users extend clips by two seconds with 4K quality and background audio &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250402/p37#a250402p37)
  - [Here’s everything Nintendo has revealed about the Switch 2’s Joy-Cons](https://www.theverge.com/news/642024/nintendo-switch-2-joy-con-controllers-mouse-magnetic-attach-c-button)
- - [Every Switch 2 Game Releasing at Launch](https://www.cnet.com/tech/gaming/every-switch-2-game-releasing-at-launch/#ftag=CAD590a51e)
- - [Best Desks of 2025: I&#39;ve Spent Nearly 4,000 Hours Testing Desks. These Are the Ones You Want](https://www.cnet.com/news/best-desks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here’s the Switch 2’s homescreen](https://www.theverge.com/nintendo/642004/nintendo-switch-2-homescreen-customization)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

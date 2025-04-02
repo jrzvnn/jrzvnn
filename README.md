@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Love how they jiggle.](http://9gag.com/gag/aByVeBO)
- - 😝 [Oh nooooooo](http://9gag.com/gag/ajPLeDg)
- - 💣 [How much has the Internet ruined you?](http://9gag.com/gag/aKGvR4O)
- - 😝 [Wait WHAT ?](http://9gag.com/gag/azxK3QK)
- - 👉 [Loading cars onto a ferry](http://9gag.com/gag/a5QwgYV)<!-- MEMES:END -->
+ - 😝 [POV: Your mall is about to go out of business.](http://9gag.com/gag/aD285mx)
+ - 😝 [`At Terry&#39;s custom cars, we come to you for your convenience.`](http://9gag.com/gag/a9y5xEK)
+ - 💣 [This is a Korean girl studying in Canada](http://9gag.com/gag/abA48Kb)
+ - 😝 [Initial investigation reveals the collapsed building in Bangkok used low quality rebars.](http://9gag.com/gag/agm7eq1)
+ - 👉 [This guy just won Florida&#39;s house elections with 57% of the votes](http://9gag.com/gag/ayN6GZp)<!-- MEMES:END -->
 
 ---
 

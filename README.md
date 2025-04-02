@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh nooooooo](http://9gag.com/gag/ajPLeDg)
- - 😝 [Left wing Germany will not let you defend yourself against foreign invaders](http://9gag.com/gag/a340mWQ)
- - 💣 [Wankpanzers, very revolutionary lmao](http://9gag.com/gag/aoyR7Qw)
- - 😝 [What was the plan here?](http://9gag.com/gag/aqy6oAZ)
- - 👉 [Based](http://9gag.com/gag/aByVebz)<!-- MEMES:END -->
+ - 😝 [Press F to pay respect](http://9gag.com/gag/ayN6O0y)
+ - 😝 [`Telling people in poverty to be more entrepreneurial is sick`](http://9gag.com/gag/aVvKNQv)
+ - 💣 [Quiet quitting](http://9gag.com/gag/aRBMbj7)
+ - 😝 [And everyone is happy on the Matrix](http://9gag.com/gag/amo6ewy)
+ - 👉 [Would you rather?](http://9gag.com/gag/aD28yNx)<!-- MEMES:END -->
 
 ---
 

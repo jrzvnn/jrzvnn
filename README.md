@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Press F to pay respect](http://9gag.com/gag/ayN6O0y)
  - 😝 [And everyone is happy on the Matrix](http://9gag.com/gag/amo6ewy)
+ - 😝 [Press F to pay respect](http://9gag.com/gag/ayN6O0y)
  - 💣 [Would you rather?](http://9gag.com/gag/aD28yNx)
  - 😝 [This is peak male performance](http://9gag.com/gag/agm7DNw)
  - 👉 [Islam is super far right](http://9gag.com/gag/a340Vw3)<!-- MEMES:END -->

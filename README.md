@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple CEO Tim Cook makes a cool $24 million in serendipitous stock sale](https://appleinsider.com/articles/25/04/02/apple-ceo-tim-cook-makes-a-cool-24-million-in-serendipitous-stock-sale?utm_medium=rss)
+ - [Apple shares drop 7%+ after hours following Trump&#39;s announcement that the US will impose tariffs of 46% on Vietnam, 26% on India, and an additional 34% on China &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/250402/p48#a250402p48)
  - [Tech stocks fall in late trading after Trump announced new tariffs: Amazon drops as much as ~6%, Meta ~5%, Nvidia ~5%, Alphabet ~3%, and Microsoft ~3% &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250402/p47#a250402p47)
  - [Apple releases AirPods Max update with lossless audio after brief delay](https://www.theverge.com/news/642140/apple-airpods-max-lossless-audio-update-delay)
- - [Here’s how you can preorder the Nintendo Switch 2 &lpar;or try to&rpar;](https://www.theverge.com/tech/24342715/nintendo-switch-2-preorder-price-release-date-availability-how-to-buy)
- - [The Nintendo GameCube is about to get its due](https://www.theverge.com/news/642025/nintendo-switch-2-gamecube-zelda-wind-waker-f-zero-gx)
- - [How the Nintendo Switch 2 compares to prior models on paper](https://www.theverge.com/tech/641149/nintendo-switch-2-vs-oled-lite-specs-comparison-price)<!-- TECH:END -->
+ - [Here’s how you can preorder the Nintendo Switch 2 &lpar;or try to&rpar;](https://www.theverge.com/tech/24342715/nintendo-switch-2-preorder-price-release-date-availability-how-to-buy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

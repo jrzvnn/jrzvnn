@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ear reconstruction surgery in ribcage](http://9gag.com/gag/a0e0r5Q)
+ - 😝 [Uninvited Guest](http://9gag.com/gag/a6Z5vyb)
  - 😝 [Old but Gold](http://9gag.com/gag/a9y5g7j)
- - 💣 [Behold King Gluteus Maximus](http://9gag.com/gag/aXPVB6D)
- - 😝 [Best friends](http://9gag.com/gag/aPAobmV)
- - 👉 [...](http://9gag.com/gag/aPAoKoq)<!-- MEMES:END -->
+ - 💣 [Give him a chance](http://9gag.com/gag/an72p1B)
+ - 😝 [Scans of a 44 year-old man who &lpar;unknowingly&rpar; lived with 90% of his brain destroyed from hydrocephalus.](http://9gag.com/gag/aD28E4Z)
+ - 👉 [Best friends](http://9gag.com/gag/aPAobmV)<!-- MEMES:END -->
 
 ---
 

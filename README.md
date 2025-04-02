@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The White House says &quot;de minimis&quot; exemptions for packages under $800 from China and Hong Kong will end on May 2, affecting Temu, Shein, and other marketplaces &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/250402/p49#a250402p49)
+ - [Trump Tariffs Hit Antarctic Islands Inhabited by Zero Humans and Many Penguins](https://www.wired.com/story/trump-tariffs-antarctic-islands-heard-mcdonald/)
  - [Apple CEO Tim Cook makes a cool $24 million in serendipitous stock sale](https://appleinsider.com/articles/25/04/02/apple-ceo-tim-cook-makes-a-cool-24-million-in-serendipitous-stock-sale?utm_medium=rss)
  - [Which Nintendo Switch Accessories Will Work With the Nintendo Switch 2?](https://www.cnet.com/tech/gaming/which-nintendo-switch-accessories-will-work-with-the-nintendo-switch-2/#ftag=CAD590a51e)
- - [Apple shares drop 7%+ after hours following Trump&#39;s announcement that the US will impose tariffs of 46% on Vietnam, 26% on India, and an additional 34% on China &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/250402/p48#a250402p48)
- - [Tech stocks fall in late trading after Trump announced new tariffs: Amazon drops as much as ~6%, Meta ~5%, Nvidia ~5%, Alphabet ~3%, and Microsoft ~3% &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250402/p47#a250402p47)
- - [Apple releases AirPods Max update with lossless audio after brief delay](https://www.theverge.com/news/642140/apple-airpods-max-lossless-audio-update-delay)<!-- TECH:END -->
+ - [Apple shares drop 7%+ after hours following Trump&#39;s announcement that the US will impose tariffs of 46% on Vietnam, 26% on India, and an additional 34% on China &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/250402/p48#a250402p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [15% Off Dell Coupon Codes | April 2025](https://www.wired.com/story/dell-coupon-code/)
+ - [Visible Promo Code: Save $300 in April 2025](https://www.wired.com/story/visible-promo-code/)
  - [Qualcomm acquires the generative AI division of Vietnamese startup VinAI, following the acquisition of German AI and IoT company Edge Impulse in early March &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250402/p3#a250402p3)
  - [Bybit shutters its NFT marketplace, following a similar decision by NFT marketplace X2Y2; Token Terminal: daily NFT trading volume has dropped 70% YoY to $5.34M &lpar;Adrian Zmudzinski/Cointelegraph&rpar;](http://www.techmeme.com/250402/p2#a250402p2)
- - [In a new paper, Tim O&#39;Reilly and other researchers say OpenAI likely trained GPT-4o on paywalled books from O&#39;Reilly Media without a licensing agreement &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250402/p1#a250402p1)
- - [Chef Robotics, which develops AI-powered robotic meal assembly systems, raised a $20.6M Series A led by Avataar Ventures, and an additional $22.5M in debt &lpar;CJ Haddad/CNBC&rpar;](http://www.techmeme.com/250401/p44#a250401p44)
- - [How to stop Spotlight hogging disk space on macOS](https://appleinsider.com/inside/macos/tips/how-to-stop-spotlight-hogging-disk-space-on-macos?utm_medium=rss)<!-- TECH:END -->
+ - [In a new paper, Tim O&#39;Reilly and other researchers say OpenAI likely trained GPT-4o on paywalled books from O&#39;Reilly Media without a licensing agreement &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250402/p1#a250402p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

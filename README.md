@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a new paper, Tim O&#39;Reilly and other researchers say OpenAI likely trained GPT-4o on paywalled books from O&#39;Reilly Media without a licensing agreement &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250402/p1#a250402p1)
  - [Chef Robotics, which develops AI-powered robotic meal assembly systems, raised a $20.6M Series A led by Avataar Ventures, and an additional $22.5M in debt &lpar;CJ Haddad/CNBC&rpar;](http://www.techmeme.com/250401/p44#a250401p44)
  - [How to stop Spotlight hogging disk space on macOS](https://appleinsider.com/inside/macos/tips/how-to-stop-spotlight-hogging-disk-space-on-macos?utm_medium=rss)
- - [Sources: AI coding startup Replit is in talks with investors to raise about $200M at a $3B valuation, almost triple its last valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250401/p43#a250401p43)
- - [Google researchers say DPRK&#39;s IT workers are fraudulently securing positions at companies in Germany, Portugal, and the UK, after facing sanctions in the US &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250401/p42#a250401p42)
- - [What Elden Ring Nightreign Is, and What It Isn&#39;t](https://www.cnet.com/tech/gaming/what-elden-ring-nightreign-is-and-what-it-isnt/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [McDonald&#39;s Launches Minecraft Happy Meals, Plus a &#39;Nether&#39; Hot Sauce for Nuggets](https://www.cnet.com/tech/gaming/mcdonalds-launching-minecraft-happy-meals-plus-a-nether-hot-sauce-for-nuggets/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, April 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-april-2/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

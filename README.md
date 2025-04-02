@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Switch 2’s Pro Controller adds customizable rear buttons](https://www.theverge.com/news/637833/nintendo-switch-2-pro-controller-details)
+ - [Sources: ByteDance, Alibaba, Tencent, and other Chinese companies placed $16B+ in orders for Nvidia&#39;s H20 chips in Q1 2025, ahead of a potential US sales ban &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/250402/p26#a250402p26)
  - [Everything revealed during the Nintendo Switch 2 Direct](https://www.theverge.com/nintendo/638604/nintendo-switch-2-direct-news-trailers-stream)
  - [Kirby Air Riders is a Switch 2 racing game from Masahiro Sakurai](https://www.theverge.com/news/641602/kirby-air-riders-switch-2-masahiro-sakurai)
- - [Donkey Kong Bananza is coming to the Switch 2 in July](https://www.theverge.com/news/641537/donkey-kong-bananza-nintendo-switch-2)
- - [Apple still wants an iPhone without physical buttons, but it won&#39;t happen soon](https://appleinsider.com/articles/25/04/02/apple-still-wants-an-iphone-without-physical-buttons-but-it-wont-happen-soon?utm_medium=rss)
- - [Mario Kart World launches exclusively with the Nintendo Switch 2](https://www.theverge.com/news/634632/mario-kart-nintendo-switch-2-trailer)<!-- TECH:END -->
+ - [Donkey Kong Bananza is coming to the Switch 2 in July](https://www.theverge.com/news/641537/donkey-kong-bananza-nintendo-switch-2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

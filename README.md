@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Trump plans to announce a new company called TikTok America, which would be ~50% owned by new US investors and license the algorithm from ByteDance &lpar;Kaya Yurieff/The Information&rpar;](http://www.techmeme.com/250402/p41#a250402p41)
+ - [Sources: Zuckerberg is lobbying Trump for a settlement that would prevent Meta from facing an antitrust trial later this month; he visited the White House today &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250402/p40#a250402p40)
  - [Automattic lays off 16% of staff, CEO Matt Mullenweg says to become &quot;more agile and responsive&quot;; Automattic website listed 1,744 employees ahead of the layoffs &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250402/p39#a250402p39)
  - [Sonos permanently drops the price of its Era 100 speaker and Ray soundbar](https://www.theverge.com/news/642013/sonos-era-100-ray-price-drop)
- - [Here’s how you can preorder the Nintendo Switch 2 &lpar;or try to&rpar;](https://www.theverge.com/tech/24342715/nintendo-switch-2-preorder-price-release-date-availability-how-to-buy)
- - [Verge staffers react to the Nintendo Switch 2](https://www.theverge.com/news/642049/nintendo-switch-2-verge-staff-reacts)
- - [FTC chair says he’d ‘obey lawful orders’ if Trump asked to drop an antitrust case like Meta&amp;#8217;s](https://www.theverge.com/news/642068/ftc-chair-andrew-ferguson-trump-drop-meta-lawsuit-hypothetical)<!-- TECH:END -->
+ - [Here’s how you can preorder the Nintendo Switch 2 &lpar;or try to&rpar;](https://www.theverge.com/tech/24342715/nintendo-switch-2-preorder-price-release-date-availability-how-to-buy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And everyone is happy on the Matrix](http://9gag.com/gag/amo6ewy)
- - 😝 [Press F to pay respect](http://9gag.com/gag/ayN6O0y)
- - 💣 [Would you rather?](http://9gag.com/gag/aD28yNx)
- - 😝 [This is peak male performance](http://9gag.com/gag/agm7DNw)
- - 👉 [Islam is super far right](http://9gag.com/gag/a340Vw3)<!-- MEMES:END -->
+ - 😝 [Oh nooooooo](http://9gag.com/gag/ajPLeDg)
+ - 😝 [Ear reconstruction surgery in ribcage](http://9gag.com/gag/a0e0r5Q)
+ - 💣 [What was the plan here?](http://9gag.com/gag/aqy6oAZ)
+ - 😝 [Old but Gold](http://9gag.com/gag/a9y5g7j)
+ - 👉 [Not today mofo, I\u2019m getting that passport.](http://9gag.com/gag/aMVPMyR)<!-- MEMES:END -->
 
 ---
 

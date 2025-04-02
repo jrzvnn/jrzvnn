@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Old but Gold](http://9gag.com/gag/a9y5g7j)
+ - 😝 [Not today mofo, I\u2019m getting that passport.](http://9gag.com/gag/aMVPMyR)
+ - 💣 [What was the plan here?](http://9gag.com/gag/aqy6oAZ)
  - 😝 [This guy just won Florida&#39;s house elections with 57% of the votes](http://9gag.com/gag/ayN6GZp)
- - 😝 [Wait WHAT ?](http://9gag.com/gag/azxK3QK)
- - 💣 [This is a Korean girl studying in Canada](http://9gag.com/gag/abA48Kb)
- - 😝 [Would you rather?](http://9gag.com/gag/aD28yNx)
- - 👉 [Wankpanzers, very revolutionary lmao](http://9gag.com/gag/aoyR7Qw)<!-- MEMES:END -->
+ - 👉 [Randy, the @$hole](http://9gag.com/gag/aGyB4AK)<!-- MEMES:END -->
 
 ---
 

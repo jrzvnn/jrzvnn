@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers detail a new AI-powered Probability of Fire model, which they say could outperform the conventional danger forecasts used by wildfire trackers &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/250402/p7#a250402p7)
  - [UMC, Taiwan&#39;s second-largest chipmaker, opened a $5B plant in Singapore featuring 22nm and 28nm manufacturing technology; mass production won&#39;t start until 2026 &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250402/p6#a250402p6)
  - [Qualcomm says it is weighing an acquisition offer for Alphawave, which has a market cap of ~$1.3B and makes high-speed semiconductor and connectivity technology &lpar;Amy Thomson/Bloomberg&rpar;](http://www.techmeme.com/250402/p5#a250402p5)
  - [Sources: Arm decided not to pursue a deal after recently seeking to acquire Alphawave, a UK-listed supplier of semiconductor IP that is exploring a sale &lpar;Reuters&rpar;](http://www.techmeme.com/250402/p4#a250402p4)
- - [Motorola’s first Edge 60 phone feels like canvas](https://www.theverge.com/news/640653/motorola-edge-60-fusion-launch-canvas-finish)
- - [15% Off Dell Coupon Codes | April 2025](https://www.wired.com/story/dell-coupon-code/)<!-- TECH:END -->
+ - [Motorola’s first Edge 60 phone feels like canvas](https://www.theverge.com/news/640653/motorola-edge-60-fusion-launch-canvas-finish)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

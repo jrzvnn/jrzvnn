@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: AI coding startup Replit is in talks with investors to raise about $200M at a $3B valuation, almost triple its last valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250401/p43#a250401p43)
+ - [Google researchers say DPRK&#39;s IT workers are fraudulently securing positions at companies in Germany, Portugal, and the UK, after facing sanctions in the US &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250401/p42#a250401p42)
+ - [What Elden Ring Nightreign Is, and What It Isn&#39;t](https://www.cnet.com/tech/gaming/what-elden-ring-nightreign-is-and-what-it-isnt/#ftag=CAD590a51e)
  - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Doctor Behind Award-Winning Parkinson’s Research Among Scientists Purged From NIH](https://www.wired.com/story/doctor-breakthrough-parkinsons-research-nih-purge/)
- - [Switch 2 Nintendo Direct Live Updates: Last-Minute Rumors and Predictions](https://www.cnet.com/tech/gaming/switch-2-nintendo-direct-live-updates/#ftag=CAD590a51e)
- - [Aurzen ZIP Projector review: Bringing the mobile to the big screen](https://appleinsider.com/articles/25/04/02/aurzen-zip-projector-review-bringing-the-mobile-to-the-big-screen?utm_medium=rss)
- - [Microsoft says it used its AI-powered Security Copilot to discover previously unknown vulnerabilities in the GRUB2, U-Boot, and Barebox open-source bootloaders &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250401/p41#a250401p41)<!-- TECH:END -->
+ - [Doctor Behind Award-Winning Parkinson’s Research Among Scientists Purged From NIH](https://www.wired.com/story/doctor-breakthrough-parkinsons-research-nih-purge/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

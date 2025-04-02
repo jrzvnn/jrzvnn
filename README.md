@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some Nintendo Switch 2 games will be more expensive](https://www.theverge.com/news/642143/nintendo-switch-2-games-price-expensive)
  - [Source: Trump plans to announce a company called TikTok America, with a 50% stake for US investors and 19.9% for ByteDance, which would license the algorithm &lpar;Kaya Yurieff/The Information&rpar;](http://www.techmeme.com/250402/p41#a250402p41)
  - [Sources: Zuckerberg is lobbying Trump for a settlement that would prevent Meta from facing an antitrust trial later this month; he visited the White House today &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250402/p40#a250402p40)
- - [Automattic lays off 16% of staff, CEO Matt Mullenweg says to become &quot;more agile and responsive&quot;; Automattic website listed 1,744 employees ahead of the layoffs &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250402/p39#a250402p39)
- - [Sonos permanently drops the price of its Era 100 speaker and Ray soundbar](https://www.theverge.com/news/642013/sonos-era-100-ray-price-drop)
- - [Here’s how you can preorder the Nintendo Switch 2 &lpar;or try to&rpar;](https://www.theverge.com/tech/24342715/nintendo-switch-2-preorder-price-release-date-availability-how-to-buy)<!-- TECH:END -->
+ - [FAA Tries to Stop You Tracking Celebrity Private Jets. Here&#39;s How](https://www.cnet.com/tech/services-and-software/faa-tries-to-stop-you-tracking-celebrity-private-jets-heres-how/#ftag=CAD590a51e)
+ - [Automattic lays off 16% of staff, CEO Matt Mullenweg says to become &quot;more agile and responsive&quot;; Automattic website listed 1,744 employees ahead of the layoffs &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250402/p39#a250402p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

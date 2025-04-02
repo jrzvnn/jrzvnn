@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Segway’s robot mower for massive lawns hits the US](https://www.theverge.com/news/641373/segway-navimow-x3-robot-lawnmower-us-price-availability)
- - [Nintendo unveils Switch 2 details: a 7.9&quot;, 120fps, 1080p display, larger Joy-Con controllers, 256GB of storage, 4K games at 60fps when docked, launching June 5 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250402/p20#a250402p20)
- - [Patreon says it now has 6.7M paid podcast subscriptions, generating $472M+ in 2024 revenue, up 35% YoY, and signs podcasting deals with Sony Music and Wondery &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/250402/p19#a250402p19)
- - [Mario Kart World launches exclusively with the Nintendo Switch 2](https://www.theverge.com/news/634632/mario-kart-nintendo-switch-2-trailer)
- - [Nintendo Switch 2 arrives on June 5th](https://www.theverge.com/news/634603/nintendo-switch-2-price-release-date-details)<!-- TECH:END -->
+ - [The Nintendo Switch 2 has a camera accessory for video chats](https://www.theverge.com/news/641352/nintendo-switch-2-camera-launch)
+ - [Nintendo says its new Joy-Con controllers have a C button for GameChat, which uses Switch 2&#39;s built-in mic, and the Switch 2 uses new microSD Express cards &lpar;Nathan Ingraham/Engadget&rpar;](http://www.techmeme.com/250402/p22#a250402p22)
+ - [Metroid Prime 4: Beyond is getting a Nintendo Switch 2 Edition](https://www.theverge.com/news/640231/metroid-prime-4-nintendo-switch-2-enhanced-edition-beyond)
+ - [Nintendo&amp;#8217;s Switch 2 C button is a Discord-like GameChat feature](https://www.theverge.com/news/24343637/nintendo-switch-2-joy-con-c-button-controller)
+ - [Nintendo unveils GameShare, enabling local multiplayer on multiple Switch consoles with just one copy of a title, launching alongside the Switch 2 &lpar;Daniel Cooper/Engadget&rpar;](http://www.techmeme.com/250402/p21#a250402p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Short life expectancy](http://9gag.com/gag/a870B61)
- - 😝 [Behold King Gluteus Maximus](http://9gag.com/gag/aXPVB6D)
- - 💣 [Lol](http://9gag.com/gag/agm7W6n)
- - 😝 [Let me take a video of the train while standing on the tracks.](http://9gag.com/gag/agm7M9q)
- - 👉 [\u272e\u272e\u2729\u2729\u2729](http://9gag.com/gag/a1m5pP8)<!-- MEMES:END -->
+ - 😝 [Two types of introductions](http://9gag.com/gag/a4P5pYm)
+ - 😝 [ANY Orc is memorable in Lotr, EVERY orc is forgettable in Hobbit.](http://9gag.com/gag/aXP4ZjD)
+ - 💣 [He won the professor award !!](http://9gag.com/gag/a2v0Bm9)
+ - 😝 [RIP Val](http://9gag.com/gag/adBQZjM)
+ - 👉 [Those legs!](http://9gag.com/gag/aNDVmzb)<!-- MEMES:END -->
 
 ---
 

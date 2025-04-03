@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A natural problem solver.](http://9gag.com/gag/aoyRBpn)
- - 😝 [Would you rather?](http://9gag.com/gag/aD28yNx)
- - 💣 [That makes sense](http://9gag.com/gag/agm7MNK)
- - 😝 [This is peak male performance](http://9gag.com/gag/agm7DNw)
- - 👉 [He won the professor award !!](http://9gag.com/gag/a2v0Bm9)<!-- MEMES:END -->
+ - 😝 [Behold King Gluteus Maximus](http://9gag.com/gag/aXPVB6D)
+ - 😝 [Dunno why, but the first movie looks more realistic than the last](http://9gag.com/gag/aByV7D1)
+ - 💣 [This is a great stick](http://9gag.com/gag/aLn4YMA)
+ - 😝 [Finally someone who is captured for stealing.](http://9gag.com/gag/adBQ3zM)
+ - 👉 [Lol](http://9gag.com/gag/agm7W6n)<!-- MEMES:END -->
 
 ---
 

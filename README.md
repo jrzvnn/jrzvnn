@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon is testing a Buy for Me button powered by agentic AI that will let users purchase products from third-party websites without leaving Amazon&#39;s app &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250403/p29#a250403p29)
  - [How the Nintendo Switch 2 stacks up to the Steam Deck](https://www.theverge.com/tech/642866/nintendo-switch-2-steam-deck-lcd-oled-comparison-specs-price)
  - [The Kindle’s new Recaps feature will catch you up on a book series](https://www.theverge.com/news/642995/amazon-kindle-recaps-ebooks-software-update)
  - [France says a second EU response to Trump&#39;s tariffs will cover digital services, including those provided by Google, Amazon, Meta, Apple, and Microsoft &lpar;Euractiv&rpar;](http://www.techmeme.com/250403/p28#a250403p28)
- - [Amazon can now buy products from other websites for you](https://www.theverge.com/news/642947/amazon-ai-buy-products-other-websites)
- - [Sonos says it&amp;#8217;s &amp;#8216;assessing potential implications&amp;#8217; of Trump tariffs for customers](https://www.theverge.com/news/642913/sonos-trump-tariffs-statement-prices-supply-chain)<!-- TECH:END -->
+ - [Amazon can now buy products from other websites for you](https://www.theverge.com/news/642947/amazon-ai-buy-products-other-websites)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

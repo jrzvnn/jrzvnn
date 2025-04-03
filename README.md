@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How the Nintendo Switch 2 stacks up to the Steam Deck](https://www.theverge.com/tech/642866/nintendo-switch-2-steam-deck-lcd-oled-comparison-specs-price)
+ - [The Kindle’s new Recaps feature will catch you up on a book series](https://www.theverge.com/news/642995/amazon-kindle-recaps-ebooks-software-update)
  - [France says a second EU response to Trump&#39;s tariffs will cover digital services, including those provided by Google, Amazon, Meta, Apple, and Microsoft &lpar;Euractiv&rpar;](http://www.techmeme.com/250403/p28#a250403p28)
  - [Amazon can now buy products from other websites for you](https://www.theverge.com/news/642947/amazon-ai-buy-products-other-websites)
- - [Sonos says it&amp;#8217;s &amp;#8216;assessing potential implications&amp;#8217; of Trump tariffs for customers](https://www.theverge.com/news/642913/sonos-trump-tariffs-statement-prices-supply-chain)
- - [Sources: Intel and TSMC have reached a preliminary agreement for a joint venture to operate Intel&#39;s chipmaking facilities, with TSMC taking a 20% stake &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/250403/p27#a250403p27)
- - [The 39 Best Movies on Hulu This Week &lpar;April 2025&rpar;](https://www.wired.com/story/best-movies-hulu-right-now/)<!-- TECH:END -->
+ - [Sonos says it&amp;#8217;s &amp;#8216;assessing potential implications&amp;#8217; of Trump tariffs for customers](https://www.theverge.com/news/642913/sonos-trump-tariffs-statement-prices-supply-chain)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

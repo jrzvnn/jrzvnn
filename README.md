@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI says 130M+ ChatGPT users have generated 700M+ images since the feature&#39;s March 25 launch, and India is now the fastest-growing ChatGPT market &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250403/p20#a250403p20)
+ - [What AI anime memes tell us about the future of art and humanity](https://www.theverge.com/decoder-podcast-with-nilay-patel/642407/studio-ghibli-ai-art-debate-ethics-openai-chatgpt)
  - [Twelve South’s 3-in-1 HiRise 3 Deluxe charging stand is cheaper than ever](https://www.theverge.com/tech/641166/twelve-south-hirise-3-deluxe-charger-govee-floor-lamp-2-deal-sale)
  - [Apple&#39;s fight with Trump&#39;s tariffs will shift the cost to customers](https://appleinsider.com/articles/25/04/03/apples-fight-with-trumps-tariffs-will-shift-the-cost-to-customers?utm_medium=rss)
- - [Trump’s new tariff math looks a lot like ChatGPT’s](https://www.theverge.com/news/642620/trump-tariffs-formula-ai-chatgpt-gemini-claude-grok)
- - [Indie studio Heart Machine is experimenting with Patreon because ‘money is tough to come by’](https://www.theverge.com/games/640287/heart-machine-patreon-gdc)
- - [Nintendo Switch 2 Live Updates: Treehouse Stream, Preorder Info and More](https://www.cnet.com/tech/gaming/switch-2-nintendo-direct-live-updates/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Trump’s new tariff math looks a lot like ChatGPT’s](https://www.theverge.com/news/642620/trump-tariffs-formula-ai-chatgpt-gemini-claude-grok)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

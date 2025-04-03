@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Steve Jackson Games says tariffs are a ‘seismic shift’ for board games](https://www.theverge.com/news/643173/trump-tariffs-steve-jackson-board-game-industry)
+ - [TikTok tests TikTok for Artists, which provides musicians with analytics and fan engagement tools, in Australia, New Zealand, Japan, South Korea, and Indonesia &lpar;Stuart Dredge/Music Ally&rpar;](http://www.techmeme.com/250403/p34#a250403p34)
  - [An increasingly vocal contingent of GOP leaders, some of whom attended Y Combinator&#39;s Little Tech Competition Summit, call for antitrust action against Big Tech &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/250403/p33#a250403p33)
  - [Trump&amp;#8217;s tariffs mean you&amp;#8217;ll pay more for all gadgets](https://www.theverge.com/tech/643041/trump-tariff-consumer-electronics-gadgets-smartphones-laptops-wearables)
- - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
- - [Google&amp;#8217;s regular Pixel 10 will reportedly get worse &lpar;but more&rpar; cameras](https://www.theverge.com/news/643123/google-pixel-10-leak-telephoto-camera-downgrade-main)
- - [PSA pauses card grading submissions from outside the US](https://www.theverge.com/news/643117/psa-pausing-submissions-outside-us-tariffs)<!-- TECH:END -->
+ - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

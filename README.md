@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Trust issues loading\u2026 this baby\u2019s gonna start reading ingredient labels before taking a sip!](http://9gag.com/gag/aByVApx)
+ - 😝 [Rigged Tax System](http://9gag.com/gag/aW4nzb6)
+ - 💣 [Hard to compete with technology](http://9gag.com/gag/abA4ne9)
  - 😝 [Scans of a 44 year-old man who &lpar;unknowingly&rpar; lived with 90% of his brain destroyed from hydrocephalus.](http://9gag.com/gag/aD28E4Z)
- - 😝 [`Do not dare to correct me` moment](http://9gag.com/gag/a6Z50BR)
- - 💣 [Dunno why, but the first movie looks more realistic than the last](http://9gag.com/gag/aByV7D1)
- - 😝 [Literally wtf?!?](http://9gag.com/gag/aNDQxow)
- - 👉 [Ear reconstruction surgery in ribcage](http://9gag.com/gag/a0e0r5Q)<!-- MEMES:END -->
+ - 👉 [Behold King Gluteus Maximus](http://9gag.com/gag/aXPVB6D)<!-- MEMES:END -->
 
 ---
 

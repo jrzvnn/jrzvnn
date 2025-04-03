@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Two types of introductions](http://9gag.com/gag/a4P5pYm)
- - 😝 [Those legs!](http://9gag.com/gag/aNDVmzb)
- - 💣 [Cosplay](http://9gag.com/gag/a6ZnrV8)
- - 😝 [Helper cat is helping](http://9gag.com/gag/azxGgLK)
- - 👉 [The definition of insanity is . . .](http://9gag.com/gag/abAW3pp)<!-- MEMES:END -->
+ - 😝 [The definition of insanity is . . .](http://9gag.com/gag/abAW3pp)
+ - 😝 [\u272e\u272e\u2729\u2729\u2729](http://9gag.com/gag/a1m5pP8)
+ - 💣 [Let me take a video of the train while standing on the tracks.](http://9gag.com/gag/agm7M9q)
+ - 😝 [You got any? Jusk ask as a friend](http://9gag.com/gag/a5QGpPN)
+ - 👉 [VAR referees in Bulgaria betting live](http://9gag.com/gag/a0e0m9X)<!-- MEMES:END -->
 
 ---
 

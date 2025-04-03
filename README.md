@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Two types of introductions](http://9gag.com/gag/a4P5pYm)
  - 😝 [ANY Orc is memorable in Lotr, EVERY orc is forgettable in Hobbit.](http://9gag.com/gag/aXP4ZjD)
+ - 😝 [Two types of introductions](http://9gag.com/gag/a4P5pYm)
  - 💣 [He won the professor award !!](http://9gag.com/gag/a2v0Bm9)
  - 😝 [RIP Val](http://9gag.com/gag/adBQZjM)
  - 👉 [Those legs!](http://9gag.com/gag/aNDVmzb)<!-- MEMES:END -->

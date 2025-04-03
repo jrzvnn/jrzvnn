@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You got any? Jusk ask as a friend](http://9gag.com/gag/a5QGpPN)
- - 😝 [Scans of a 44 year-old man who &lpar;unknowingly&rpar; lived with 90% of his brain destroyed from hydrocephalus.](http://9gag.com/gag/aD28E4Z)
- - 💣 [The definition of insanity is . . .](http://9gag.com/gag/abAW3pp)
+ - 😝 [Behold King Gluteus Maximus](http://9gag.com/gag/aXPVB6D)
+ - 😝 [Two types of introductions](http://9gag.com/gag/a4P5pYm)
+ - 💣 [Literally wtf?!?](http://9gag.com/gag/aNDQxow)
  - 😝 [Dunno why, but the first movie looks more realistic than the last](http://9gag.com/gag/aByV7D1)
- - 👉 [Ear reconstruction surgery in ribcage](http://9gag.com/gag/a0e0r5Q)<!-- MEMES:END -->
+ - 👉 [Lol](http://9gag.com/gag/agm7W6n)<!-- MEMES:END -->
 
 ---
 

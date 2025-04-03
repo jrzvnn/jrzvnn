@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Key parts of the US Social Security site have crashed in the past week, as phone support is reduced; report: SSA&#39;s site was down four times in 10 days in March &lpar;Lucas Ropek/Gizmodo&rpar;](http://www.techmeme.com/250402/p50#a250402p50)
- - [Best Smart Home Gyms for 2025, as Tested by Our Resident Fitness Expert](https://www.cnet.com/health/fitness/best-smart-home-gym/#ftag=CAD590a51e)
- - [Apple security chief found not guilty of bribery charges over firearm permits](https://appleinsider.com/articles/25/04/03/apple-security-chief-found-not-guilty-of-bribery-charges-over-firearm-permits?utm_medium=rss)
- - [Trump and DOGE Defund Program That Boosted American Manufacturing for Decades](https://www.wired.com/story/nist-trump-manufacturing-extension-partnership/)
- - [Epic Games head Tim Sweeney criticizes Apple, calls it a &#39;gangster-style&#39; business](https://appleinsider.com/articles/25/04/02/epic-games-head-tim-sweeney-criticizes-apple-calls-it-a-gangster-style-business?utm_medium=rss)<!-- TECH:END -->
+ - [Trump’s Tariffs Could Reshape the US Tech Industry](https://www.wired.com/story/trump-global-tariffs-tech-industry-impacts/)
+ - [The Duskbloods Is New FromSoftware Gaming Action Coming to Switch 2 in 2026](https://www.cnet.com/tech/gaming/the-duskbloods-is-new-fromsoftware-gaming-coming-in-2026-to-switch-2/#ftag=CAD590a51e)
+ - [The US announces a new 34% &quot;reciprocal&quot; tariff rate on almost all products imported from China, going into effect from April 9, 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250402/p51#a250402p51)
+ - [Here’s how you can preorder the Nintendo Switch 2 &lpar;or try to&rpar;](https://www.theverge.com/tech/24342715/nintendo-switch-2-preorder-price-release-date-availability-how-to-buy)
+ - [Key parts of the US Social Security site have crashed in the past week, as phone support is reduced; report: SSA&#39;s site was down four times in 10 days in March &lpar;Lucas Ropek/Gizmodo&rpar;](http://www.techmeme.com/250402/p50#a250402p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

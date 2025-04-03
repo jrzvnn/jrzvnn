@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [ANY Orc is memorable in Lotr, EVERY orc is forgettable in Hobbit.](http://9gag.com/gag/aXP4ZjD)
- - 😝 [Two types of introductions](http://9gag.com/gag/a4P5pYm)
- - 💣 [He won the professor award !!](http://9gag.com/gag/a2v0Bm9)
- - 😝 [RIP Val](http://9gag.com/gag/adBQZjM)
- - 👉 [Those legs!](http://9gag.com/gag/aNDVmzb)<!-- MEMES:END -->
+ - 😝 [Let me take a video of the train while standing on the tracks.](http://9gag.com/gag/agm7M9q)
+ - 😝 [You got any? Jusk ask as a friend](http://9gag.com/gag/a5QGpPN)
+ - 💣 [Lol](http://9gag.com/gag/agm7W6n)
+ - 😝 [Finally someone who is captured for stealing.](http://9gag.com/gag/adBQ3zM)
+ - 👉 [Literally wtf?!?](http://9gag.com/gag/aNDQxow)<!-- MEMES:END -->
 
 ---
 

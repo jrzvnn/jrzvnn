@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Plaid raised $575M at a $6.1B valuation, below its peak $13B+ valuation in 2021, mostly to cover employees&#39; tax bills for those converting RSUs to common stock &lpar;Financial Times&rpar;](http://www.techmeme.com/250403/p13#a250403p13)
- - [23 Fun TV Shows You Should Watch on Disney Plus Immediately](https://www.cnet.com/tech/services-and-software/best-disney-plus-tv-shows-2025/#ftag=CAD590a51e)
- - [Best Internet Providers in Your Area](https://www.cnet.com/home/internet/best-internet-providers-in-my-area/#ftag=CAD590a51e)
  - [AV1 is supposed to make streaming better, so why isn’t everyone using it?](https://www.theverge.com/tech/635020/av1-streaming-netflix-youtube-google-adoption)
- - [Google&amp;#8217;s NotebookLM can now find its own sources](https://www.theverge.com/news/642490/google-notebooklm-discover-sources-ai-audio-overviews)<!-- TECH:END -->
+ - [Google&amp;#8217;s NotebookLM can now find its own sources](https://www.theverge.com/news/642490/google-notebooklm-discover-sources-ai-audio-overviews)
+ - [Sources: Microsoft has halted talks for, or delayed development of, data center projects in Indonesia, the UK, Australia, Illinois, North Dakota, and Wisconsin &lpar;Bloomberg&rpar;](http://www.techmeme.com/250403/p12#a250403p12)
+ - [PDD-owned Pinduoduo says it plans to allocate ~$13B over the next three years to support its merchants, following other Chinese e-commerce companies &lpar;Tracy Qu/Wall Street Journal&rpar;](http://www.techmeme.com/250403/p11#a250403p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

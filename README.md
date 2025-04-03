@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia says its custom processor for Nintendo&#39;s Switch 2 has &quot;dedicated RT Cores and Tensor Cores,&quot; enabling DLSS support and real-time ray tracing on Switch 2 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250403/p24#a250403p24)
  - [Apple integrates Apple Intelligence-powered Writing Tools into new iWork updates](https://appleinsider.com/articles/25/04/03/apple-integrates-apple-intelligence-powered-writing-tools-into-new-iwork-updates?utm_medium=rss)
  - [Hyundai&amp;#8217;s Ioniq 6 redesign is a little sportier and a bit weirder](https://www.theverge.com/news/642799/hyundai-ioniq-6-2026-facelift-redesign)
  - [If You Deposit $5,000 Into a CD Now, Here&#39;s How Much Interest You&#39;ll Earn](https://www.cnet.com/personal-finance/banking/how-much-interest-can-you-earn-by-depositing-5000-into-a-cd-today/#ftag=CAD590a51e)
- - [Apple &amp; Michigan State University partner to boost US manufacturing skills](https://appleinsider.com/articles/25/04/03/apple-michigan-state-university-partner-to-boost-us-manufacturing-skills?utm_medium=rss)
- - [No More Broadband Delays, State Legislators Urge DC](https://www.cnet.com/home/internet/no-more-broadband-delays-state-legislators-urge-dc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple &amp; Michigan State University partner to boost US manufacturing skills](https://appleinsider.com/articles/25/04/03/apple-michigan-state-university-partner-to-boost-us-manufacturing-skills?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

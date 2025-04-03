@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Dunno why, but the first movie looks more realistic than the last](http://9gag.com/gag/aByV7D1)
+ - 😝 [Give him a chance](http://9gag.com/gag/an72p1B)
+ - 💣 [Left wing Germany will not let you defend yourself against foreign invaders](http://9gag.com/gag/a340mWQ)
  - 😝 [Finally someone who is captured for stealing.](http://9gag.com/gag/adBQ3zM)
- - 😝 [April Fools\u2026.. NOT!](http://9gag.com/gag/aLn4yr5)
- - 💣 [Uninvited Guest](http://9gag.com/gag/a6Z5vyb)
- - 😝 [This is a great stick](http://9gag.com/gag/aLn4YMA)
- - 👉 [Husband embarrasses wife by pretending to be an influencer](http://9gag.com/gag/aoyRQA2)<!-- MEMES:END -->
+ - 👉 [Ear reconstruction surgery in ribcage](http://9gag.com/gag/a0e0r5Q)<!-- MEMES:END -->
 
 ---
 

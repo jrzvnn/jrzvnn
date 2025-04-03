@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You got any? Jusk ask as a friend](http://9gag.com/gag/a5QGpPN)
- - 😝 [`Do not dare to correct me` moment](http://9gag.com/gag/a6Z50BR)
- - 💣 [Literally wtf?!?](http://9gag.com/gag/aNDQxow)
- - 😝 [Behold King Gluteus Maximus](http://9gag.com/gag/aXPVB6D)
+ - 😝 [Live action](http://9gag.com/gag/adBnyPM)
+ - 😝 [Two types of introductions](http://9gag.com/gag/a4P5pYm)
+ - 💣 [Scans of a 44 year-old man who &lpar;unknowingly&rpar; lived with 90% of his brain destroyed from hydrocephalus.](http://9gag.com/gag/aD28E4Z)
+ - 😝 [When she was 23, Rosemary Kennedy, the sister of JFK and RFK, had a forced lobotomy arranged by her father. The surgery left her incapacitated for the rest of her life.](http://9gag.com/gag/a1m0zZD)
  - 👉 [Ear reconstruction surgery in ribcage](http://9gag.com/gag/a0e0r5Q)<!-- MEMES:END -->
 
 ---

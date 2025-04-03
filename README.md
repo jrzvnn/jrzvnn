@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The White House appears to have used an oversimplified calculation that several major AI chatbots recommend to calculate reciprocal tariffs &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250403/p21#a250403p21)
+ - [Donkey Kong Bananza was best in show at the Switch 2 hands-on](https://www.theverge.com/games/642699/donkey-kong-bananza-hands-on-preview-switch-2)
  - [OpenAI says 130M+ ChatGPT users have generated 700M+ images since the feature&#39;s March 25 launch, and India is now the fastest-growing ChatGPT market &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250403/p20#a250403p20)
  - [What AI anime memes tell us about the future of art and humanity](https://www.theverge.com/decoder-podcast-with-nilay-patel/642407/studio-ghibli-ai-art-debate-ethics-openai-chatgpt)
- - [Twelve South’s 3-in-1 HiRise 3 Deluxe charging stand is cheaper than ever](https://www.theverge.com/tech/641166/twelve-south-hirise-3-deluxe-charger-govee-floor-lamp-2-deal-sale)
- - [Apple&#39;s fight with Trump&#39;s tariffs will shift the cost to customers](https://appleinsider.com/articles/25/04/03/apples-fight-with-trumps-tariffs-will-shift-the-cost-to-customers?utm_medium=rss)
- - [Trump’s new tariff math looks a lot like ChatGPT’s](https://www.theverge.com/news/642620/trump-tariffs-formula-ai-chatgpt-gemini-claude-grok)<!-- TECH:END -->
+ - [Twelve South’s 3-in-1 HiRise 3 Deluxe charging stand is cheaper than ever](https://www.theverge.com/tech/641166/twelve-south-hirise-3-deluxe-charger-govee-floor-lamp-2-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

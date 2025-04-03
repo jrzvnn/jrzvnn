@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I love after bath Massage](http://9gag.com/gag/a9y5gG0)
- - 😝 [April Fools\u2026.. NOT!](http://9gag.com/gag/aLn4yr5)
- - 💣 [...](http://9gag.com/gag/aPAoKoq)
  - 😝 [Scans of a 44 year-old man who &lpar;unknowingly&rpar; lived with 90% of his brain destroyed from hydrocephalus.](http://9gag.com/gag/aD28E4Z)
- - 👉 [Behold King Gluteus Maximus](http://9gag.com/gag/aXPVB6D)<!-- MEMES:END -->
+ - 😝 [`Do not dare to correct me` moment](http://9gag.com/gag/a6Z50BR)
+ - 💣 [Dunno why, but the first movie looks more realistic than the last](http://9gag.com/gag/aByV7D1)
+ - 😝 [Literally wtf?!?](http://9gag.com/gag/aNDQxow)
+ - 👉 [Ear reconstruction surgery in ribcage](http://9gag.com/gag/a0e0r5Q)<!-- MEMES:END -->
 
 ---
 

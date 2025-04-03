@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Short life expectancy](http://9gag.com/gag/a870B61)
- - 😝 [Not cool](http://9gag.com/gag/a7o045z)
- - 💣 [Dewey has reappeared...](http://9gag.com/gag/aO8Do1R)
  - 😝 [Let me take a video of the train while standing on the tracks.](http://9gag.com/gag/agm7M9q)
- - 👉 [Lol](http://9gag.com/gag/agm7W6n)<!-- MEMES:END -->
+ - 😝 [You got any? Jusk ask as a friend](http://9gag.com/gag/a5QGpPN)
+ - 💣 [Dewey has reappeared...](http://9gag.com/gag/aO8Do1R)
+ - 😝 [New Naked Gun Movie](http://9gag.com/gag/aAy4RKZ)
+ - 👉 [Hats off to the police](http://9gag.com/gag/aVvmjYO)<!-- MEMES:END -->
 
 ---
 

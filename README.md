@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple shares hammered after Trump tariff announcement](https://appleinsider.com/articles/25/04/03/apple-shares-hammered-after-trump-tariff-announcement?utm_medium=rss)
  - [Bitcoin falls ~5% to ~$81K, ether drops 7%, and Solana falls 13% after President Trump unveiled tariffs; Coinbase&#39;s and MicroStrategy&#39;s shares fall by 7%+ &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250403/p18#a250403p18)
  - [AI video startup Runway raised $308M led by General Atlantic, sources say at a $3B+ valuation, and plans to hire more filmmakers, screenwriters, and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/250403/p17#a250403p17)
  - [Nintendo Switch 2 hands-on: larger than the Switch without being uncomfortable, flagship games play well, and the Joy-Con&#39;s mouse-like mode mostly works well &lpar;Andrew Webster/The Verge&rpar;](http://www.techmeme.com/250403/p16#a250403p16)
- - [We Played With the Nintendo Switch 2. It&#39;s Refined but Unsurprising](https://www.wired.com/story/this-is-the-nintendo-switch-2/)
- - [Nintendo Switch 2 hands-on: it’s all in the games](https://www.theverge.com/nintendo/642420/nintendo-switch-2-hands-on-preview)<!-- TECH:END -->
+ - [We Asked Experts if Powering Your Home With an EV Is the Future](https://www.cnet.com/roadshow/news/we-asked-experts-if-powering-your-home-with-an-ev-is-the-future/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

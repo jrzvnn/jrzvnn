@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic Games chief Tim Sweeney calls Apple a &#39;gangster-style&#39; business](https://appleinsider.com/articles/25/04/02/epic-games-head-tim-sweeney-criticizes-apple-calls-it-a-gangster-style-business?utm_medium=rss)
- - [How and where Trump&#39;s new tariffs affect Apple](https://appleinsider.com/articles/25/04/03/how-and-where-trumps-new-tariffs-affect-apple?utm_medium=rss)
- - [Universities are giving up the fight for free speech — students aren&amp;#8217;t](https://www.theverge.com/policy/642060/trump-first-amendment-college-campus-free-speech-columbia-harvard)
- - [Verizon now offers a three-year price lock — but there’s a catch](https://www.theverge.com/news/642325/verizon-myplan-price-lock-three-years)
- - [Sources: Ireland&#39;s DPC will fine TikTok €500M+ before the end of April for illegally shipping European users&#39; data to China, after a lengthy GDPR investigation &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/250403/p14#a250403p14)<!-- TECH:END -->
+ - [We Played With the Nintendo Switch 2. It&#39;s Refined But Unsurprising](https://www.wired.com/story/this-is-the-nintendo-switch-2/)
+ - [Nintendo Switch 2 hands-on: it’s all in the games](https://www.theverge.com/nintendo/642420/nintendo-switch-2-hands-on-preview)
+ - [Mario Kart World is pure chaos](https://www.theverge.com/nintendo/642432/mario-kart-world-hands-on-nintendo-switch-2)
+ - [The Nintendo GameCube still rules](https://www.theverge.com/nintendo/642436/nintendo-switch-2-gamecube-f-zero-hands-on)
+ - [I&amp;#8217;m not sold on the Switch 2&amp;#8217;s mouse-like controls](https://www.theverge.com/games/642493/nintendo-switch-mouse-controls-metroid-prime-4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

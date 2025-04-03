@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: Sumitomo Mitsui Banking Corp. is in talks with Fujitsu to help the bank&#39;s biggest customers make key decisions using AI-inferred demand predictions &lpar;Hideki Suzuki/Bloomberg&rpar;](http://www.techmeme.com/250403/p1#a250403p1)
+ - [5-Year Review of the Purple Hybrid Premier Mattress](https://www.cnet.com/health/sleep/5-year-review-of-the-purple-hybrid-premier-mattress/#ftag=CAD590a51e)
  - [Top KitchenAid Promo Codes and Coupons](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
  - [H&amp;R Block Coupons and Deals: 20% Off Tax Prep in 2025](https://www.wired.com/story/hr-block-coupon/)
- - [Can I interest you in an app that tracks your driving behavior?](https://www.theverge.com/news/642121/driving-smartphone-app-track-safety-ubi-aaa-research)
- - [Samsung has turned to Chinese customers like Baidu to prop up its ailing chip business; SemiAnalysis says Samsung is the &quot;biggest supplier of HBM into China&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250402/p53#a250402p53)<!-- TECH:END -->
+ - [Can I interest you in an app that tracks your driving behavior?](https://www.theverge.com/news/642121/driving-smartphone-app-track-safety-ubi-aaa-research)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

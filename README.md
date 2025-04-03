@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Can I interest you in an app that tracks your driving behavior?](https://www.theverge.com/news/642121/driving-smartphone-app-track-safety-ubi-aaa-research)
  - [Samsung has turned to Chinese customers like Baidu to prop up its ailing chip business; SemiAnalysis says Samsung is the &quot;biggest supplier of HBM into China&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250402/p53#a250402p53)
  - [Sources: Google is in advanced talks to rent Nvidia Blackwell AI chips from CoreWeave, highlighting how major Nvidia customers are struggling to get chips &lpar;The Information&rpar;](http://www.techmeme.com/250402/p52#a250402p52)
  - [Today&#39;s NYT Mini Crossword Answers for Thursday, April 3](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-april-3/#ftag=CAD590a51e)
- - [Trump’s Tariffs Could Reshape the US Tech Industry](https://www.wired.com/story/trump-global-tariffs-tech-industry-impacts/)
- - [The Duskbloods Is New FromSoftware Gaming Action Coming to Switch 2 in 2026](https://www.cnet.com/tech/gaming/the-duskbloods-is-new-fromsoftware-gaming-coming-in-2026-to-switch-2/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Trump’s Tariffs Could Reshape the US Tech Industry](https://www.wired.com/story/trump-global-tariffs-tech-industry-impacts/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

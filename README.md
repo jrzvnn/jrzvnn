@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let me take a video of the train while standing on the tracks.](http://9gag.com/gag/agm7M9q)
  - 😝 [You got any? Jusk ask as a friend](http://9gag.com/gag/a5QGpPN)
- - 💣 [Lol](http://9gag.com/gag/agm7W6n)
- - 😝 [Finally someone who is captured for stealing.](http://9gag.com/gag/adBQ3zM)
- - 👉 [Literally wtf?!?](http://9gag.com/gag/aNDQxow)<!-- MEMES:END -->
+ - 😝 [Let me take a video of the train while standing on the tracks.](http://9gag.com/gag/agm7M9q)
+ - 💣 [In Mongolia, the horse population significantly outnumbers the human population, with a ratio of approximately 3:1. There&#39;s a Mongolian saying, `A Man without a Horse is like a Bird without Wings`.](http://9gag.com/gag/avyE27O)
+ - 😝 [Hats off to the police](http://9gag.com/gag/aVvmjYO)
+ - 👉 [Short life expectancy](http://9gag.com/gag/a870B61)<!-- MEMES:END -->
 
 ---
 

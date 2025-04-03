@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We Played With the Nintendo Switch 2. It&#39;s Refined But Unsurprising](https://www.wired.com/story/this-is-the-nintendo-switch-2/)
- - [Nintendo Switch 2 hands-on: it’s all in the games](https://www.theverge.com/nintendo/642420/nintendo-switch-2-hands-on-preview)
- - [Mario Kart World is pure chaos](https://www.theverge.com/nintendo/642432/mario-kart-world-hands-on-nintendo-switch-2)
- - [The Nintendo GameCube still rules](https://www.theverge.com/nintendo/642436/nintendo-switch-2-gamecube-f-zero-hands-on)
- - [I&amp;#8217;m not sold on the Switch 2&amp;#8217;s mouse-like controls](https://www.theverge.com/games/642493/nintendo-switch-mouse-controls-metroid-prime-4)<!-- TECH:END -->
+ - [Bitcoin falls ~5% to ~$81K, ether drops 7%, and Solana falls 13% after President Trump unveiled tariffs; Coinbase&#39;s and MicroStrategy&#39;s shares fall by 7%+ &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250403/p18#a250403p18)
+ - [AI video startup Runway raised $308M led by General Atlantic, sources say at a $3B+ valuation, and plans to hire more filmmakers, screenwriters, and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/250403/p17#a250403p17)
+ - [Nintendo Switch 2 hands-on: larger than the Switch without being uncomfortable, flagship games play well, and the Joy-Con&#39;s mouse-like mode mostly works well &lpar;Andrew Webster/The Verge&rpar;](http://www.techmeme.com/250403/p16#a250403p16)
+ - [We Asked Experts if Powering Your Home With an EV Is the Future](https://www.cnet.com/roadshow/news/we-asked-experts-if-powering-your-home-with-an-ev-is-the-future/#ftag=CAD590a51e)
+ - [11 New Spring Anime 2025 Shows You Should Absolutely Watch This Season](https://www.cnet.com/tech/services-and-software/11-new-spring-anime-2025-shows-you-should-absolutely-watch-this-season/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

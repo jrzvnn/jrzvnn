@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AttoTude, which offers THz interconnect tech for AI and hyperscale data centers, raised a $50M Series B, after a $30M Series A and $11M seed in 2024 &lpar;FinSMEs&rpar;](http://www.techmeme.com/250403/p4#a250403p4)
  - [Adaptive Security, which uses AI for simulating cyberthreats, raised $43M co-led by OpenAI and a16z, marking OpenAI&#39;s first investment in a cybersecurity firm &lpar;Laya Neelakandan/CNBC&rpar;](http://www.techmeme.com/250403/p3#a250403p3)
  - [Netscout: DDoS attacks rose from 13M+ in 2023 to ~17M in 2024, becoming a staple of geopolitical conflict as new tech like AI supercharges their power &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/250403/p2#a250403p2)
  - [Sources: Sumitomo Mitsui Banking Corp. is in talks with Fujitsu to help the bank&#39;s biggest customers make key decisions using AI-inferred demand predictions &lpar;Hideki Suzuki/Bloomberg&rpar;](http://www.techmeme.com/250403/p1#a250403p1)
- - [5-Year Review of the Purple Hybrid Premier Mattress](https://www.cnet.com/health/sleep/5-year-review-of-the-purple-hybrid-premier-mattress/#ftag=CAD590a51e)
- - [Top KitchenAid Promo Codes and Coupons](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)<!-- TECH:END -->
+ - [5-Year Review of the Purple Hybrid Premier Mattress](https://www.cnet.com/health/sleep/5-year-review-of-the-purple-hybrid-premier-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon is ready to launch its Starlink competitor](https://www.theverge.com/news/642456/amazon-is-ready-to-launch-its-starlink-competitor)
+ - [Q&amp;A with Christopher Bishop on leading Microsoft&#39;s AI for Science lab, why scientific discovery will be AI&#39;s single most important application, and more &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/250403/p8#a250403p8)
  - [What will the Switch 2 cost after the Trump tariffs?](https://www.theverge.com/news/642459/switch-2-price-donald-trump-tariffs-china-vietnam-cambodia)
  - [Cyberhaven, whose AI-powered tech lets companies detect when employees use internal data in an unauthorized manner, raised a $100M Series D at a $1B+ valuation &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250403/p7#a250403p7)
- - [Circle&#39;s S-1 shows that it is basically a fintech and that, as of December 31, 2024, ~85% of USDC reserves were held in a BlackRock-managed money market fund &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/250403/p6#a250403p6)
- - [Rotterdam-based Gradyent, which lets energy providers optimize their systems by creating digital twins of heating and cooling grids, raised a €28M Series B &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/250403/p5#a250403p5)
- - [Want to Look at Your Phone Less? Just Cover Your Screen](https://www.wired.com/story/want-to-look-at-your-phone-less-just-cover-your-screen/)<!-- TECH:END -->
+ - [Circle&#39;s S-1 shows that it is basically a fintech and that, as of December 31, 2024, ~85% of USDC reserves were held in a BlackRock-managed money market fund &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/250403/p6#a250403p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

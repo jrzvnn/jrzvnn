@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify rolls out new ad tools, including an AI tool in the US and Canada to generate scripts and voiceovers, and pitches itself to advertisers as &quot;nutritional&quot; &lpar;Jessica Testa/New York Times&rpar;](http://www.techmeme.com/250403/p9#a250403p9)
  - [Amazon is ready to launch its Starlink competitor](https://www.theverge.com/news/642456/amazon-is-ready-to-launch-its-starlink-competitor)
  - [Q&amp;A with Christopher Bishop on leading Microsoft&#39;s AI for Science lab, why scientific discovery will be AI&#39;s single most important application, and more &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/250403/p8#a250403p8)
  - [What will the Switch 2 cost after the Trump tariffs?](https://www.theverge.com/news/642459/switch-2-price-donald-trump-tariffs-china-vietnam-cambodia)
- - [Cyberhaven, whose AI-powered tech lets companies detect when employees use internal data in an unauthorized manner, raised a $100M Series D at a $1B+ valuation &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250403/p7#a250403p7)
- - [Circle&#39;s S-1 shows that it is basically a fintech and that, as of December 31, 2024, ~85% of USDC reserves were held in a BlackRock-managed money market fund &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/250403/p6#a250403p6)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 3, #192](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-3-192/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

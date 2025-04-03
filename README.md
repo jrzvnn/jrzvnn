@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Uninvited Guest](http://9gag.com/gag/a6Z5vyb)
- - 😝 [Behold King Gluteus Maximus](http://9gag.com/gag/aXPVB6D)
- - 💣 [Gazan kid telling off Hamas to their faces after they used him as a human shield.](http://9gag.com/gag/aqy6o3p)
- - 😝 [When she was 23, Rosemary Kennedy, the sister of JFK and RFK, had a forced lobotomy arranged by her father. The surgery left her incapacitated for the rest of her life.](http://9gag.com/gag/a1m0zZD)
- - 👉 [Lol](http://9gag.com/gag/agm7W6n)<!-- MEMES:END -->
+ - 😝 [Give him a chance](http://9gag.com/gag/an72p1B)
+ - 😝 [That makes sense](http://9gag.com/gag/agm7MNK)
+ - 💣 [This is peak male performance](http://9gag.com/gag/agm7DNw)
+ - 😝 [RIP ICEMAN](http://9gag.com/gag/a9y5ooZ)
+ - 👉 [He won the professor award !!](http://9gag.com/gag/a2v0Bm9)<!-- MEMES:END -->
 
 ---
 

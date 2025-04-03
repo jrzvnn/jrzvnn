@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Ireland&#39;s DPC will fine TikTok €500M+ before the end of April for illegally shipping European users&#39; data to China, after a lengthy investigation &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/250403/p14#a250403p14)
- - [12 Best Umbrellas &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-umbrellas/)
- - [Plaid raised $575M at a $6.1B valuation, below its peak $13B+ valuation in 2021, mostly to cover employees&#39; tax bills for those converting RSUs to common stock &lpar;Financial Times&rpar;](http://www.techmeme.com/250403/p13#a250403p13)
- - [23 Fun TV Shows You Should Watch on Disney Plus Immediately](https://www.cnet.com/tech/services-and-software/best-disney-plus-tv-shows-2025/#ftag=CAD590a51e)
- - [Best Internet Providers in Your Area](https://www.cnet.com/home/internet/best-internet-providers-in-my-area/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Epic Games chief Tim Sweeney calls Apple a &#39;gangster-style&#39; business](https://appleinsider.com/articles/25/04/02/epic-games-head-tim-sweeney-criticizes-apple-calls-it-a-gangster-style-business?utm_medium=rss)
+ - [How and where Trump&#39;s new tariffs affect Apple](https://appleinsider.com/articles/25/04/03/how-and-where-trumps-new-tariffs-affect-apple?utm_medium=rss)
+ - [Universities are giving up the fight for free speech — students aren&amp;#8217;t](https://www.theverge.com/policy/642060/trump-first-amendment-college-campus-free-speech-columbia-harvard)
+ - [Verizon now offers a three-year price lock — but there’s a catch](https://www.theverge.com/news/642325/verizon-myplan-price-lock-three-years)
+ - [Sources: Ireland&#39;s DPC will fine TikTok €500M+ before the end of April for illegally shipping European users&#39; data to China, after a lengthy GDPR investigation &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/250403/p14#a250403p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

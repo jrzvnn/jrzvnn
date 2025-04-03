@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Two types of introductions](http://9gag.com/gag/a4P5pYm)
- - 😝 [From the archives](http://9gag.com/gag/a340ooQ)
+ - 😝 [Live action](http://9gag.com/gag/adBnyPM)
+ - 😝 [This is a great stick](http://9gag.com/gag/aLn4YMA)
  - 💣 [Let me take a video of the train while standing on the tracks.](http://9gag.com/gag/agm7M9q)
  - 😝 [Hats off to the police](http://9gag.com/gag/aVvmjYO)
- - 👉 [When she was 23, Rosemary Kennedy, the sister of JFK and RFK, had a forced lobotomy arranged by her father. The surgery left her incapacitated for the rest of her life.](http://9gag.com/gag/a1m0zZD)<!-- MEMES:END -->
+ - 👉 [VAR referees in Bulgaria betting live](http://9gag.com/gag/a0e0m9X)<!-- MEMES:END -->
 
 ---
 

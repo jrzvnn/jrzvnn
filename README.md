@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic Games head Tim Sweeney criticizes Apple, calls it a &#39;gangster-style&#39; business](https://appleinsider.com/articles/25/04/02/epic-games-head-tim-sweeney-criticizes-apple-calls-it-a-gangster-style-business?utm_medium=rss)
- - [The White House says &quot;de minimis&quot; exemptions for packages under $800 from China and Hong Kong will end on May 2, affecting Temu, Shein, and other marketplaces &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/250402/p49#a250402p49)
- - [Trump Tariffs Hit Antarctic Islands Inhabited by Zero Humans and Many Penguins](https://www.wired.com/story/trump-tariffs-antarctic-islands-heard-mcdonald/)
- - [Apple CEO Tim Cook makes a cool $24 million in serendipitous stock sale](https://appleinsider.com/articles/25/04/02/apple-ceo-tim-cook-makes-a-cool-24-million-in-serendipitous-stock-sale?utm_medium=rss)
- - [Which Nintendo Switch Accessories Will Work With the Nintendo Switch 2?](https://www.cnet.com/tech/gaming/which-nintendo-switch-accessories-will-work-with-the-nintendo-switch-2/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Key parts of the US Social Security site have crashed in the past week, as phone support is reduced; report: SSA&#39;s site was down four times in 10 days in March &lpar;Lucas Ropek/Gizmodo&rpar;](http://www.techmeme.com/250402/p50#a250402p50)
+ - [Best Smart Home Gyms for 2025, as Tested by Our Resident Fitness Expert](https://www.cnet.com/health/fitness/best-smart-home-gym/#ftag=CAD590a51e)
+ - [Apple security chief found not guilty of bribery charges over firearm permits](https://appleinsider.com/articles/25/04/03/apple-security-chief-found-not-guilty-of-bribery-charges-over-firearm-permits?utm_medium=rss)
+ - [Trump and DOGE Defund Program That Boosted American Manufacturing for Decades](https://www.wired.com/story/nist-trump-manufacturing-extension-partnership/)
+ - [Epic Games head Tim Sweeney criticizes Apple, calls it a &#39;gangster-style&#39; business](https://appleinsider.com/articles/25/04/02/epic-games-head-tim-sweeney-criticizes-apple-calls-it-a-gangster-style-business?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

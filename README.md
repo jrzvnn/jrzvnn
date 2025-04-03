@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You got any? Jusk ask as a friend](http://9gag.com/gag/a5QGpPN)
- - 😝 [Short life expectancy](http://9gag.com/gag/a870B61)
- - 💣 [\u272e\u272e\u2729\u2729\u2729](http://9gag.com/gag/a1m5pP8)
- - 😝 [VAR referees in Bulgaria betting live](http://9gag.com/gag/a0e0m9X)
- - 👉 [Live action](http://9gag.com/gag/adBnyPM)<!-- MEMES:END -->
+ - 😝 [Live action](http://9gag.com/gag/adBnyPM)
+ - 😝 [Helper cat is helping](http://9gag.com/gag/azxGgLK)
+ - 💣 [Those legs!](http://9gag.com/gag/aNDVmzb)
+ - 😝 [New Naked Gun Movie](http://9gag.com/gag/aAy4RKZ)
+ - 👉 [Cosplay](http://9gag.com/gag/a6ZnrV8)<!-- MEMES:END -->
 
 ---
 

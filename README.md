@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twelve South’s 3-in-1 HiRise 3 Deluxe charging stand is cheaper than ever](https://www.theverge.com/tech/641166/twelve-south-hirise-3-deluxe-charger-govee-floor-lamp-2-deal-sale)
  - [Apple&#39;s fight with Trump&#39;s tariffs will shift the cost to customers](https://appleinsider.com/articles/25/04/03/apples-fight-with-trumps-tariffs-will-shift-the-cost-to-customers?utm_medium=rss)
  - [Trump’s new tariff math looks a lot like ChatGPT’s](https://www.theverge.com/news/642620/trump-tariffs-formula-ai-chatgpt-gemini-claude-grok)
  - [Indie studio Heart Machine is experimenting with Patreon because ‘money is tough to come by’](https://www.theverge.com/games/640287/heart-machine-patreon-gdc)
- - [The Blunt Force Trauma of the Trump Tariffs](https://www.wired.com/story/trump-tariffs-penguins/)
- - [Unframe, which lets companies deploy tailored AI products for any use case within hours, comes out of stealth with $50M in funding from Bessemer, TLV, others &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250403/p19#a250403p19)<!-- TECH:END -->
+ - [Nintendo Switch 2 Live Updates: Treehouse Stream, Preorder Info and More](https://www.cnet.com/tech/gaming/switch-2-nintendo-direct-live-updates/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

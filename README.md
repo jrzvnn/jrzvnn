@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The White House appears to have used an oversimplified calculation that several major AI chatbots recommend to calculate reciprocal tariffs &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250403/p21#a250403p21)
- - [Donkey Kong Bananza was best in show at the Switch 2 hands-on](https://www.theverge.com/games/642699/donkey-kong-bananza-hands-on-preview-switch-2)
- - [OpenAI says 130M+ ChatGPT users have generated 700M+ images since the feature&#39;s March 25 launch, and India is now the fastest-growing ChatGPT market &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250403/p20#a250403p20)
- - [What AI anime memes tell us about the future of art and humanity](https://www.theverge.com/decoder-podcast-with-nilay-patel/642407/studio-ghibli-ai-art-debate-ethics-openai-chatgpt)
- - [Twelve South’s 3-in-1 HiRise 3 Deluxe charging stand is cheaper than ever](https://www.theverge.com/tech/641166/twelve-south-hirise-3-deluxe-charger-govee-floor-lamp-2-deal-sale)<!-- TECH:END -->
+ - [Nvidia confirms the Nintendo Switch 2 has DLSS and real-time ray tracing](https://www.theverge.com/news/642793/nintendo-switch-2-dlss-support-nvidia-ray-tracing)
+ - [M3gan 2.0 gives the doll some upgrades in new trailer](https://www.theverge.com/trailers/642696/m3gan-2-trailer-release-date)
+ - [Everything we know so far about the Nintendo Switch 2](https://www.theverge.com/nintendo/638604/nintendo-switch-2-direct-news-trailers-stream)
+ - [Stock Market Crashes: How to Protect Your Investments From Shocks to the System](https://www.cnet.com/personal-finance/stock-market-crashes-how-to-protect-your-investments-from-shocks-to-the-system/#ftag=CAD590a51e)
+ - [Trump’s tariffs are ‘a debacle of epic proportions’ for the auto industry](https://www.theverge.com/cars/642706/car-tariff-trump-price-increase-loan-ford-gm-tesla)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

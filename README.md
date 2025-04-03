@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI and Anthropic are fighting over college students with free AI](https://www.theverge.com/ai-artificial-intelligence/641193/openai-anthropic-education-tool-college)
+ - [Trump’s tariff plan includes a potential death blow to cheap Chinese e-commerce](https://www.theverge.com/news/642601/donald-trump-tariffs-de-minimis-shein-temu)
+ - [Rural fiber internet expansion is at risk as Trump administration holds funds](https://www.theverge.com/news/642809/rural-fiber-internet-expansion-trump-administration-starlink)
  - [Nvidia confirms the Nintendo Switch 2 has DLSS and real-time ray tracing](https://www.theverge.com/news/642793/nintendo-switch-2-dlss-support-nvidia-ray-tracing)
- - [M3gan 2.0 gives the doll some upgrades in new trailer](https://www.theverge.com/trailers/642696/m3gan-2-trailer-release-date)
- - [Everything we know so far about the Nintendo Switch 2](https://www.theverge.com/nintendo/638604/nintendo-switch-2-direct-news-trailers-stream)
- - [Stock Market Crashes: How to Protect Your Investments From Shocks to the System](https://www.cnet.com/personal-finance/stock-market-crashes-how-to-protect-your-investments-from-shocks-to-the-system/#ftag=CAD590a51e)
- - [Trump’s tariffs are ‘a debacle of epic proportions’ for the auto industry](https://www.theverge.com/cars/642706/car-tariff-trump-price-increase-loan-ford-gm-tesla)<!-- TECH:END -->
+ - [M3gan 2.0 gives the doll some upgrades in new trailer](https://www.theverge.com/trailers/642696/m3gan-2-trailer-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

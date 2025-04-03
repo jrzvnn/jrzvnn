@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the EU is preparing penalties against X for breaking the DSA, including demands for product changes and a fine that a source says could surpass $1B &lpar;Adam Satariano/New York Times&rpar;](http://www.techmeme.com/250403/p31#a250403p31)
+ - [Trump’s tariffs put the iPhone in a tough spot](https://www.theverge.com/tech/642769/trump-tariff-smartphone-apple-samsung-google)
  - [Here are the best iPad deals you can get](https://www.theverge.com/21280354/best-ipad-deals-apple)
  - [Microsoft releases its $350 enterprise Windows 365 Link mini PC in the US, Canada, the UK, Germany, and other countries, after unveiling it in November 2024 &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/250403/p30#a250403p30)
- - [TikTok is shutting down its Instagram-like Notes app](https://www.theverge.com/news/643063/tiktok-notes-shutting-down-instagram-rival)
- - [Windows 11 tests taskbar icons that scale up and down like on a Mac](https://www.theverge.com/news/643042/windows-11-insider-preview-beta-taskbar-icon-scale)
- - [Amazon is testing a Buy for Me button powered by agentic AI that will let users purchase products from third-party websites without leaving Amazon&#39;s app &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250403/p29#a250403p29)<!-- TECH:END -->
+ - [TikTok is shutting down its Instagram-like Notes app](https://www.theverge.com/news/643063/tiktok-notes-shutting-down-instagram-rival)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

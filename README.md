@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google&amp;#8217;s NotebookLM can now find its own sources](https://www.theverge.com/news/642490/google-notebooklm-discover-sources-ai-audio-overviews)
  - [Sources: Microsoft has halted talks for, or delayed development of, data center projects in Indonesia, the UK, Australia, Illinois, North Dakota, and Wisconsin &lpar;Bloomberg&rpar;](http://www.techmeme.com/250403/p12#a250403p12)
  - [PDD-owned Pinduoduo says it plans to allocate ~$13B over the next three years to support its merchants, following other Chinese e-commerce companies &lpar;Tracy Qu/Wall Street Journal&rpar;](http://www.techmeme.com/250403/p11#a250403p11)
  - [President Trump&#39;s tariffs are set to disrupt the Bitcoin mining sector, with many of the largest miners based in the US and the supply chain rooted in Asia &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/250403/p10#a250403p10)
- - [Struggling to Exercise? This May Be the Unexpected Reason Why](https://www.cnet.com/health/fitness/struggling-exercise-unexpected-reason-why/#ftag=CAD590a51e)
- - [Men&#39;s March Madness 2025: How to Watch the Final Four](https://www.cnet.com/tech/services-and-software/mens-march-madness-2025-how-to-watch-the-final-four/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Spotify rolls out new ad tools, including an AI tool in the US and Canada to generate scripts and voiceovers, and pitches itself to advertisers as &quot;nutritional&quot; &lpar;Jessica Testa/New York Times&rpar;](http://www.techmeme.com/250403/p9#a250403p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

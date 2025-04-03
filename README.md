@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I like this version of Snow White more.](http://9gag.com/gag/aLnGR8W)
- - 😝 [The definition of insanity is . . .](http://9gag.com/gag/abAW3pp)
- - 💣 [Helper cat is helping](http://9gag.com/gag/azxGgLK)
- - 😝 [\u272e\u272e\u2729\u2729\u2729](http://9gag.com/gag/a1m5pP8)
- - 👉 [...](http://9gag.com/gag/aPAoKoq)<!-- MEMES:END -->
+ - 😝 [Short life expectancy](http://9gag.com/gag/a870B61)
+ - 😝 [Not cool](http://9gag.com/gag/a7o045z)
+ - 💣 [Dewey has reappeared...](http://9gag.com/gag/aO8Do1R)
+ - 😝 [Let me take a video of the train while standing on the tracks.](http://9gag.com/gag/agm7M9q)
+ - 👉 [Lol](http://9gag.com/gag/agm7W6n)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I mean what are u?](http://9gag.com/gag/agm7POv)
- - 😝 [This is a great stick](http://9gag.com/gag/aLn4YMA)
- - 💣 [I can relate to myself](http://9gag.com/gag/aRBM5by)
  - 😝 [Finally someone who is captured for stealing.](http://9gag.com/gag/adBQ3zM)
- - 👉 [Ear reconstruction surgery in ribcage](http://9gag.com/gag/a0e0r5Q)<!-- MEMES:END -->
+ - 😝 [April Fools\u2026.. NOT!](http://9gag.com/gag/aLn4yr5)
+ - 💣 [Uninvited Guest](http://9gag.com/gag/a6Z5vyb)
+ - 😝 [This is a great stick](http://9gag.com/gag/aLn4YMA)
+ - 👉 [Husband embarrasses wife by pretending to be an influencer](http://9gag.com/gag/aoyRQA2)<!-- MEMES:END -->
 
 ---
 

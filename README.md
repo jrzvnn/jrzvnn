@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify rolls out new ad tools, including an AI tool in the US and Canada to generate scripts and voiceovers, and pitches itself to advertisers as &quot;nutritional&quot; &lpar;Jessica Testa/New York Times&rpar;](http://www.techmeme.com/250403/p9#a250403p9)
- - [Amazon is ready to launch its Starlink competitor](https://www.theverge.com/news/642456/amazon-is-ready-to-launch-its-starlink-competitor)
- - [Q&amp;A with Christopher Bishop on leading Microsoft&#39;s AI for Science lab, why scientific discovery will be AI&#39;s single most important application, and more &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/250403/p8#a250403p8)
- - [What will the Switch 2 cost after the Trump tariffs?](https://www.theverge.com/news/642459/switch-2-price-donald-trump-tariffs-china-vietnam-cambodia)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 3, #192](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-3-192/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PDD-owned Pinduoduo says it plans to allocate ~$13B over the next three years to support its merchants, following other Chinese e-commerce companies &lpar;Tracy Qu/Wall Street Journal&rpar;](http://www.techmeme.com/250403/p11#a250403p11)
+ - [President Trump&#39;s tariffs are set to disrupt the Bitcoin mining sector, with many of the largest miners based in the US and the supply chain rooted in Asia &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/250403/p10#a250403p10)
+ - [Struggling to Exercise? This May Be the Unexpected Reason Why](https://www.cnet.com/health/fitness/struggling-exercise-unexpected-reason-why/#ftag=CAD590a51e)
+ - [Men&#39;s March Madness 2025: How to Watch the Final Four](https://www.cnet.com/tech/services-and-software/mens-march-madness-2025-how-to-watch-the-final-four/#ftag=CAD590a51e)
+ - [Spotify rolls out new ad tools, including an AI tool in the US and Canada to generate scripts and voiceovers, and pitches itself to advertisers as &quot;nutritional&quot; &lpar;Jessica Testa/New York Times&rpar;](http://www.techmeme.com/250403/p9#a250403p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

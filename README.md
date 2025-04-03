@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Short life expectancy](http://9gag.com/gag/a870B61)
+ - 😝 [Trust issues loading\u2026 this baby\u2019s gonna start reading ingredient labels before taking a sip!](http://9gag.com/gag/aByVApx)
+ - 💣 [Give him a chance](http://9gag.com/gag/an72p1B)
  - 😝 [When she was 23, Rosemary Kennedy, the sister of JFK and RFK, had a forced lobotomy arranged by her father. The surgery left her incapacitated for the rest of her life.](http://9gag.com/gag/a1m0zZD)
- - 😝 [Literally wtf?!?](http://9gag.com/gag/aNDQxow)
- - 💣 [Gazan kid telling off Hamas to their faces after they used him as a human shield.](http://9gag.com/gag/aqy6o3p)
- - 😝 [Uploading stuff off my HD before I delet for ever #3](http://9gag.com/gag/abA4NX9)
- - 👉 [This is a great stick](http://9gag.com/gag/aLn4YMA)<!-- MEMES:END -->
+ - 👉 [Gazan kid telling off Hamas to their faces after they used him as a human shield.](http://9gag.com/gag/aqy6o3p)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple &amp; Michigan State University partner to boost US manufacturing skills](https://appleinsider.com/articles/25/04/03/apple-michigan-state-university-partner-to-boost-us-manufacturing-skills?utm_medium=rss)
+ - [Portland-based Hydrolix, a data lake service that offers a repository for log data, raised an $80M Series C led by QED, bringing its total raised to $148M &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250403/p23#a250403p23)
  - [OpenAI and Anthropic are fighting over college students with free AI](https://www.theverge.com/ai-artificial-intelligence/641193/openai-anthropic-education-tool-college)
  - [Trump’s tariff plan includes a potential death blow to cheap Chinese e-commerce](https://www.theverge.com/news/642601/donald-trump-tariffs-de-minimis-shein-temu)
- - [Rural fiber internet expansion is at risk as Trump administration holds funds](https://www.theverge.com/news/642809/rural-fiber-internet-expansion-trump-administration-starlink)
- - [Nvidia confirms the Nintendo Switch 2 has DLSS and real-time ray tracing](https://www.theverge.com/news/642793/nintendo-switch-2-dlss-support-nvidia-ray-tracing)
- - [M3gan 2.0 gives the doll some upgrades in new trailer](https://www.theverge.com/trailers/642696/m3gan-2-trailer-release-date)<!-- TECH:END -->
+ - [Rural fiber internet expansion is at risk as Trump administration holds funds](https://www.theverge.com/news/642809/rural-fiber-internet-expansion-trump-administration-starlink)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

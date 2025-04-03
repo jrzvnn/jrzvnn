@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It Might Be Time to Ditch Your Emotional Support Hoodie](https://www.wired.com/story/stop-wearing-a-hoodie-to-work/)
- - [Microsoft&amp;#8217;s miniature Windows 365 Link PC is available to buy now](https://www.theverge.com/news/642594/microsoft-windows-365-link-pc-on-sale)
- - [&#39;RoboCop: Rogue City&#39; set to storm onto Mac on April 30](https://appleinsider.com/articles/25/04/03/robocop-rogue-city-set-to-storm-onto-mac-on-april-30?utm_medium=rss)
- - [Apple shares hammered after Trump tariff announcement](https://appleinsider.com/articles/25/04/03/apple-shares-hammered-after-trump-tariff-announcement?utm_medium=rss)
- - [Bitcoin fell ~5% to ~$81K, ether dropped 7%, and Solana fell 13% after President Trump unveiled new tariffs; Coinbase&#39;s and MicroStrategy&#39;s shares are down 6%+ &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250403/p18#a250403p18)<!-- TECH:END -->
+ - [How to fax from iPhone with Municorn Fax app](https://appleinsider.com/articles/25/04/03/how-to-fax-from-iphone-with-municorn-fax-app?utm_medium=rss)
+ - [Star Trek: Strange New Worlds sets phasers to kitsch in new season 3 trailer](https://www.theverge.com/star-trek/642545/star-trek-strange-new-worlds-season-3-trailer)
+ - [Apple has its biggest stock drop in five years because of Trump&amp;#8217;s tariffs](https://www.theverge.com/news/642598/apple-amazon-microsoft-and-other-tech-stocks-are-getting-walloped-by-trumps-tariffs)
+ - [Nikon&amp;#8217;s full-frame Z5 II upgrades autofocus and shooting speeds](https://www.theverge.com/news/642605/nikon-camera-z5-ii-photography-full-frame-mirrorless-entry-level-availability-price)
+ - [It Might Be Time to Ditch Your Emotional Support Hoodie](https://www.wired.com/story/stop-wearing-a-hoodie-to-work/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

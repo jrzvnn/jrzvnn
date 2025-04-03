@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Windows 11 tests taskbar icons that scale up and down like on a Mac](https://www.theverge.com/news/643042/windows-11-insider-preview-beta-taskbar-icon-scale)
  - [Amazon is testing a Buy for Me button powered by agentic AI that will let users purchase products from third-party websites without leaving Amazon&#39;s app &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250403/p29#a250403p29)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 4, #397](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-4-397/#ftag=CAD590a51e)
  - [How the Nintendo Switch 2 stacks up to the Steam Deck](https://www.theverge.com/tech/642866/nintendo-switch-2-steam-deck-lcd-oled-comparison-specs-price)
- - [The Kindle’s new Recaps feature will catch you up on a book series](https://www.theverge.com/news/642995/amazon-kindle-recaps-ebooks-software-update)
- - [France says a second EU response to Trump&#39;s tariffs will cover digital services, including those provided by Google, Amazon, Meta, Apple, and Microsoft &lpar;Euractiv&rpar;](http://www.techmeme.com/250403/p28#a250403p28)
- - [Amazon can now buy products from other websites for you](https://www.theverge.com/news/642947/amazon-ai-buy-products-other-websites)<!-- TECH:END -->
+ - [Nintendo Switch 2: Every Reveal About the Console, New Games, Price, Release Date](https://www.cnet.com/tech/gaming/nintendo-switch-2-every-reveal-about-the-console-new-games-price-release-date/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

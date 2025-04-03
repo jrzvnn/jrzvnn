@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u272e\u272e\u2729\u2729\u2729](http://9gag.com/gag/a1m5pP8)
- - 😝 [Trust issues loading\u2026 this baby\u2019s gonna start reading ingredient labels before taking a sip!](http://9gag.com/gag/aByVApx)
- - 💣 [The definition of insanity is . . .](http://9gag.com/gag/abAW3pp)
  - 😝 [Behold King Gluteus Maximus](http://9gag.com/gag/aXPVB6D)
+ - 😝 [Two types of introductions](http://9gag.com/gag/a4P5pYm)
+ - 💣 [The definition of insanity is . . .](http://9gag.com/gag/abAW3pp)
+ - 😝 [\u272e\u272e\u2729\u2729\u2729](http://9gag.com/gag/a1m5pP8)
  - 👉 [Lol](http://9gag.com/gag/agm7W6n)<!-- MEMES:END -->
 
 ---

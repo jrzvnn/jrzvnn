@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Behold King Gluteus Maximus](http://9gag.com/gag/aXPVB6D)
- - 😝 [Dunno why, but the first movie looks more realistic than the last](http://9gag.com/gag/aByV7D1)
- - 💣 [This is a great stick](http://9gag.com/gag/aLn4YMA)
- - 😝 [Finally someone who is captured for stealing.](http://9gag.com/gag/adBQ3zM)
- - 👉 [Lol](http://9gag.com/gag/agm7W6n)<!-- MEMES:END -->
+ - 😝 [When she was 23, Rosemary Kennedy, the sister of JFK and RFK, had a forced lobotomy arranged by her father. The surgery left her incapacitated for the rest of her life.](http://9gag.com/gag/a1m0zZD)
+ - 😝 [Literally wtf?!?](http://9gag.com/gag/aNDQxow)
+ - 💣 [Gazan kid telling off Hamas to their faces after they used him as a human shield.](http://9gag.com/gag/aqy6o3p)
+ - 😝 [Uploading stuff off my HD before I delet for ever #3](http://9gag.com/gag/abA4NX9)
+ - 👉 [This is a great stick](http://9gag.com/gag/aLn4YMA)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
+ - [Google&amp;#8217;s regular Pixel 10 will reportedly get worse &lpar;but more&rpar; cameras](https://www.theverge.com/news/643123/google-pixel-10-leak-telephoto-camera-downgrade-main)
  - [PSA pauses card grading submissions from outside the US](https://www.theverge.com/news/643117/psa-pausing-submissions-outside-us-tariffs)
  - [A researcher says changes in X&#39;s web app show X plans to let Verified Organizations bid on abandoned X handles with prices ranging from $10,000 to $500,000+ &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250403/p32#a250403p32)
- - [Sources: the EU is preparing penalties against X for breaking the DSA, including demands for product changes and a fine that a source says could surpass $1B &lpar;Adam Satariano/New York Times&rpar;](http://www.techmeme.com/250403/p31#a250403p31)
- - [Trump’s tariffs put the iPhone in a tough spot](https://www.theverge.com/tech/642769/trump-tariff-smartphone-apple-samsung-google)
- - [These Fruits and Vegetables Have the Best &lpar;and Worst&rpar; Edible Yield](https://www.cnet.com/news/here-are-the-fruits-and-vegetables-with-the-best-and-worst-edible-yield/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: the EU is preparing penalties against X for breaking the DSA, including demands for product changes and a fine that a source says could surpass $1B &lpar;Adam Satariano/New York Times&rpar;](http://www.techmeme.com/250403/p31#a250403p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google DeepMind outlines its approach to AGI safety in four key areas of risk: misuse, misalignment, mistakes, and structural risks, focusing on the first two &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/250403/p26#a250403p26)
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
  - [Genki has a magnetic battery for the Switch 2 and a better Joy-Con charging dock](https://www.theverge.com/news/642869/genki-nintendo-switch-2-accessories-cases-shells-magnetic-battery)
  - [YouTube quietly removed &quot;gender identity&quot; from its hate speech policy after Trump took office; Google says enforcement of the policy remains unchanged &lpar;Taylor Lorenz/User Mag&rpar;](http://www.techmeme.com/250403/p25#a250403p25)
- - [The Arcade2TV-XR Combines the Past and Future Into an Immersive Gaming Experience](https://www.cnet.com/tech/gaming/the-arcade2tv-xr-combines-the-past-and-future-into-an-immersive-gaming-experience/#ftag=CAD590a51e)
- - [Nintendo’s Switch 2 era comes at a price](https://www.theverge.com/games/642868/nintendo-switch-2-price-console-games-accessories)
- - [Nintendo Switch 2 Live Updates: Treehouse Stream, Preorder Info and More](https://www.cnet.com/tech/gaming/switch-2-nintendo-direct-live-updates/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Arcade2TV-XR Combines the Past and Future Into an Immersive Gaming Experience](https://www.cnet.com/tech/gaming/the-arcade2tv-xr-combines-the-past-and-future-into-an-immersive-gaming-experience/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

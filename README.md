@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dewey has reappeared...](http://9gag.com/gag/aO8Do1R)
+ - 😝 [Short life expectancy](http://9gag.com/gag/a870B61)
  - 😝 [Behold King Gluteus Maximus](http://9gag.com/gag/aXPVB6D)
- - 💣 [Let me take a video of the train while standing on the tracks.](http://9gag.com/gag/agm7M9q)
- - 😝 [Lol](http://9gag.com/gag/agm7W6n)
- - 👉 [You got any? Jusk ask as a friend](http://9gag.com/gag/a5QGpPN)<!-- MEMES:END -->
+ - 💣 [Lol](http://9gag.com/gag/agm7W6n)
+ - 😝 [Let me take a video of the train while standing on the tracks.](http://9gag.com/gag/agm7M9q)
+ - 👉 [\u272e\u272e\u2729\u2729\u2729](http://9gag.com/gag/a1m5pP8)<!-- MEMES:END -->
 
 ---
 

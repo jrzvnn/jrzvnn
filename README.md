@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia says its custom processor for Nintendo&#39;s Switch 2 has &quot;dedicated RT Cores and Tensor Cores,&quot; enabling DLSS support and real-time ray tracing on Switch 2 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250403/p24#a250403p24)
- - [Apple integrates Apple Intelligence-powered Writing Tools into new iWork updates](https://appleinsider.com/articles/25/04/03/apple-integrates-apple-intelligence-powered-writing-tools-into-new-iwork-updates?utm_medium=rss)
- - [Hyundai&amp;#8217;s Ioniq 6 redesign is a little sportier and a bit weirder](https://www.theverge.com/news/642799/hyundai-ioniq-6-2026-facelift-redesign)
- - [If You Deposit $5,000 Into a CD Now, Here&#39;s How Much Interest You&#39;ll Earn](https://www.cnet.com/personal-finance/banking/how-much-interest-can-you-earn-by-depositing-5000-into-a-cd-today/#ftag=CAD590a51e)
- - [Apple &amp; Michigan State University partner to boost US manufacturing skills](https://appleinsider.com/articles/25/04/03/apple-michigan-state-university-partner-to-boost-us-manufacturing-skills?utm_medium=rss)<!-- TECH:END -->
+ - [Genki has a magnetic battery for the Switch 2 and a better Joy-Con charging dock](https://www.theverge.com/news/642869/genki-nintendo-switch-2-accessories-cases-shells-magnetic-battery)
+ - [YouTube quietly removed &quot;gender identity&quot; from its hate speech policy after Trump took office; Google says enforcement of the policy remains unchanged &lpar;Taylor Lorenz/User Mag&rpar;](http://www.techmeme.com/250403/p25#a250403p25)
+ - [The Arcade2TV-XR Combines the Past and Future Into an Immersive Gaming Experience](https://www.cnet.com/tech/gaming/the-arcade2tv-xr-combines-the-past-and-future-into-an-immersive-gaming-experience/#ftag=CAD590a51e)
+ - [Nintendo’s Switch 2 era comes at a price](https://www.theverge.com/games/642868/nintendo-switch-2-price-console-games-accessories)
+ - [Nintendo Switch 2 Live Updates: Treehouse Stream, Preorder Info and More](https://www.cnet.com/tech/gaming/switch-2-nintendo-direct-live-updates/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

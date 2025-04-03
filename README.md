@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AV1 is supposed to make streaming better, so why isn’t everyone using it?](https://www.theverge.com/tech/635020/av1-streaming-netflix-youtube-google-adoption)
  - [Google&amp;#8217;s NotebookLM can now find its own sources](https://www.theverge.com/news/642490/google-notebooklm-discover-sources-ai-audio-overviews)
  - [Sources: Microsoft has halted talks for, or delayed development of, data center projects in Indonesia, the UK, Australia, Illinois, North Dakota, and Wisconsin &lpar;Bloomberg&rpar;](http://www.techmeme.com/250403/p12#a250403p12)
  - [PDD-owned Pinduoduo says it plans to allocate ~$13B over the next three years to support its merchants, following other Chinese e-commerce companies &lpar;Tracy Qu/Wall Street Journal&rpar;](http://www.techmeme.com/250403/p11#a250403p11)
- - [President Trump&#39;s tariffs are set to disrupt the Bitcoin mining sector, with many of the largest miners based in the US and the supply chain rooted in Asia &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/250403/p10#a250403p10)
- - [Spotify rolls out new ad tools, including an AI tool in the US and Canada to generate scripts and voiceovers, and pitches itself to advertisers as &quot;nutritional&quot; &lpar;Jessica Testa/New York Times&rpar;](http://www.techmeme.com/250403/p9#a250403p9)<!-- TECH:END -->
+ - [President Trump&#39;s tariffs are set to disrupt the Bitcoin mining sector, with many of the largest miners based in the US and the supply chain rooted in Asia &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/250403/p10#a250403p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

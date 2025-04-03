@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Intel and TSMC have reached a preliminary agreement for a joint venture to operate Intel&#39;s chipmaking facilities, with TSMC taking a 20% stake &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/250403/p27#a250403p27)
  - [Apple&#39;s M2 MacBook Air is down to $749, but stock levels are low](https://appleinsider.com/articles/25/04/03/apples-m2-macbook-air-is-down-to-749-but-stock-levels-are-low?utm_medium=rss)
  - [Google DeepMind outlines its approach to AGI safety in four key areas of risk: misuse, misalignment, mistakes, and structural risks, focusing on the first two &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/250403/p26#a250403p26)
  - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [Genki has a magnetic battery for the Switch 2 and a better Joy-Con charging dock](https://www.theverge.com/news/642869/genki-nintendo-switch-2-accessories-cases-shells-magnetic-battery)
- - [YouTube quietly removed &quot;gender identity&quot; from its hate speech policy after Trump took office; Google says enforcement of the policy remains unchanged &lpar;Taylor Lorenz/User Mag&rpar;](http://www.techmeme.com/250403/p25#a250403p25)<!-- TECH:END -->
+ - [Genki has a magnetic battery for the Switch 2 and a better Joy-Con charging dock](https://www.theverge.com/news/642869/genki-nintendo-switch-2-accessories-cases-shells-magnetic-battery)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

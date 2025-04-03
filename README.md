@@ -169,7 +169,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Lol](http://9gag.com/gag/agm7W6n)
  - 😝 [`Do not dare to correct me` moment](http://9gag.com/gag/a6Z50BR)
  - 💣 [Behold King Gluteus Maximus](http://9gag.com/gag/aXPVB6D)
- - 😝 [When she was 23, Rosemary Kennedy, the sister of JFK and RFK, had a forced lobotomy arranged by her father. The surgery left her incapacitated for the rest of her life.](http://9gag.com/gag/a1m0zZD)
+ - 😝 [Finally someone who is captured for stealing.](http://9gag.com/gag/adBQ3zM)
  - 👉 [Literally wtf?!?](http://9gag.com/gag/aNDQxow)<!-- MEMES:END -->
 
 ---

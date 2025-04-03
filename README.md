@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [It Might Be Time to Ditch Your Emotional Support Hoodie](https://www.wired.com/story/stop-wearing-a-hoodie-to-work/)
+ - [Microsoft&amp;#8217;s miniature Windows 365 Link PC is available to buy now](https://www.theverge.com/news/642594/microsoft-windows-365-link-pc-on-sale)
+ - [&#39;RoboCop: Rogue City&#39; set to storm onto Mac on April 30](https://appleinsider.com/articles/25/04/03/robocop-rogue-city-set-to-storm-onto-mac-on-april-30?utm_medium=rss)
  - [Apple shares hammered after Trump tariff announcement](https://appleinsider.com/articles/25/04/03/apple-shares-hammered-after-trump-tariff-announcement?utm_medium=rss)
- - [Bitcoin falls ~5% to ~$81K, ether drops 7%, and Solana falls 13% after President Trump unveiled tariffs; Coinbase&#39;s and MicroStrategy&#39;s shares fall by 7%+ &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250403/p18#a250403p18)
- - [AI video startup Runway raised $308M led by General Atlantic, sources say at a $3B+ valuation, and plans to hire more filmmakers, screenwriters, and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/250403/p17#a250403p17)
- - [Nintendo Switch 2 hands-on: larger than the Switch without being uncomfortable, flagship games play well, and the Joy-Con&#39;s mouse-like mode mostly works well &lpar;Andrew Webster/The Verge&rpar;](http://www.techmeme.com/250403/p16#a250403p16)
- - [We Asked Experts if Powering Your Home With an EV Is the Future](https://www.cnet.com/roadshow/news/we-asked-experts-if-powering-your-home-with-an-ev-is-the-future/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bitcoin fell ~5% to ~$81K, ether dropped 7%, and Solana fell 13% after President Trump unveiled new tariffs; Coinbase&#39;s and MicroStrategy&#39;s shares are down 6%+ &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250403/p18#a250403p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

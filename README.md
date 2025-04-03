@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trust issues loading\u2026 this baby\u2019s gonna start reading ingredient labels before taking a sip!](http://9gag.com/gag/aByVApx)
- - 😝 [Rigged Tax System](http://9gag.com/gag/aW4nzb6)
- - 💣 [Hard to compete with technology](http://9gag.com/gag/abA4ne9)
- - 😝 [Scans of a 44 year-old man who &lpar;unknowingly&rpar; lived with 90% of his brain destroyed from hydrocephalus.](http://9gag.com/gag/aD28E4Z)
- - 👉 [Behold King Gluteus Maximus](http://9gag.com/gag/aXPVB6D)<!-- MEMES:END -->
+ - 😝 [Woooooo](http://9gag.com/gag/aByVpo2)
+ - 😝 [Not today mofo, I\u2019m getting that passport.](http://9gag.com/gag/aMVPMyR)
+ - 💣 [Artichoke hearts](http://9gag.com/gag/ae9Z82O)
+ - 😝 [Gazan kid telling off Hamas to their faces after they used him as a human shield.](http://9gag.com/gag/aqy6o3p)
+ - 👉 [Can&#39;t believe Ubisoft once made this scene, and now its releasing stuff like AC: Shadow with Geh Black Samurai... Where are we heading from this point onwards now?](http://9gag.com/gag/a2v06pZ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Unframe, which lets companies deploy tailored AI products for any use case within hours, comes out of stealth with $50M in funding from Bessemer, TLV, others &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250403/p19#a250403p19)
  - [How to fax from iPhone with Municorn Fax app](https://appleinsider.com/articles/25/04/03/how-to-fax-from-iphone-with-municorn-fax-app?utm_medium=rss)
  - [Star Trek: Strange New Worlds sets phasers to kitsch in new season 3 trailer](https://www.theverge.com/star-trek/642545/star-trek-strange-new-worlds-season-3-trailer)
- - [Apple has its biggest stock drop in five years because of Trump&amp;#8217;s tariffs](https://www.theverge.com/news/642598/apple-amazon-microsoft-and-other-tech-stocks-are-getting-walloped-by-trumps-tariffs)
- - [Nikon&amp;#8217;s full-frame Z5 II upgrades autofocus and shooting speeds](https://www.theverge.com/news/642605/nikon-camera-z5-ii-photography-full-frame-mirrorless-entry-level-availability-price)
- - [It Might Be Time to Ditch Your Emotional Support Hoodie](https://www.wired.com/story/stop-wearing-a-hoodie-to-work/)<!-- TECH:END -->
+ - [Apple has its biggest stock drop in five years because of Trump&amp;#8217;s tariffs](https://www.theverge.com/news/642598/apple-stock-trump-tariffs)
+ - [Nikon&amp;#8217;s full-frame Z5 II upgrades autofocus and shooting speeds](https://www.theverge.com/news/642605/nikon-camera-z5-ii-photography-full-frame-mirrorless-entry-level-availability-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

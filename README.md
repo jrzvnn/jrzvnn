@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woooooo](http://9gag.com/gag/aByVpo2)
- - 😝 [Not today mofo, I\u2019m getting that passport.](http://9gag.com/gag/aMVPMyR)
- - 💣 [Artichoke hearts](http://9gag.com/gag/ae9Z82O)
- - 😝 [Gazan kid telling off Hamas to their faces after they used him as a human shield.](http://9gag.com/gag/aqy6o3p)
- - 👉 [Can&#39;t believe Ubisoft once made this scene, and now its releasing stuff like AC: Shadow with Geh Black Samurai... Where are we heading from this point onwards now?](http://9gag.com/gag/a2v06pZ)<!-- MEMES:END -->
+ - 😝 [I mean what are u?](http://9gag.com/gag/agm7POv)
+ - 😝 [This is a great stick](http://9gag.com/gag/aLn4YMA)
+ - 💣 [I can relate to myself](http://9gag.com/gag/aRBM5by)
+ - 😝 [Finally someone who is captured for stealing.](http://9gag.com/gag/adBQ3zM)
+ - 👉 [Ear reconstruction surgery in ribcage](http://9gag.com/gag/a0e0r5Q)<!-- MEMES:END -->
 
 ---
 

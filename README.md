@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Man melted down at In-N-Out Burger accusing woman next to him of being racist for stopping him from touching her little daughter](http://9gag.com/gag/a2v0QVw)
+ - 😝 [Behold King Gluteus Maximus](http://9gag.com/gag/aXPVB6D)
+ - 💣 [Two types of introductions](http://9gag.com/gag/a4P5pYm)
  - 😝 [Let me take a video of the train while standing on the tracks.](http://9gag.com/gag/agm7M9q)
- - 💣 [Lol](http://9gag.com/gag/agm7W6n)
- - 😝 [\u272e\u272e\u2729\u2729\u2729](http://9gag.com/gag/a1m5pP8)
- - 👉 [The definition of insanity is . . .](http://9gag.com/gag/abAW3pp)<!-- MEMES:END -->
+ - 👉 [From the archives](http://9gag.com/gag/a340ooQ)<!-- MEMES:END -->
 
 ---
 

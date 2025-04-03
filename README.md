@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s M2 MacBook Air is down to $749, but stock levels are low](https://appleinsider.com/articles/25/04/03/apples-m2-macbook-air-is-down-to-749-but-stock-levels-are-low?utm_medium=rss)
  - [Google DeepMind outlines its approach to AGI safety in four key areas of risk: misuse, misalignment, mistakes, and structural risks, focusing on the first two &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/250403/p26#a250403p26)
  - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
  - [Genki has a magnetic battery for the Switch 2 and a better Joy-Con charging dock](https://www.theverge.com/news/642869/genki-nintendo-switch-2-accessories-cases-shells-magnetic-battery)
- - [YouTube quietly removed &quot;gender identity&quot; from its hate speech policy after Trump took office; Google says enforcement of the policy remains unchanged &lpar;Taylor Lorenz/User Mag&rpar;](http://www.techmeme.com/250403/p25#a250403p25)
- - [The Arcade2TV-XR Combines the Past and Future Into an Immersive Gaming Experience](https://www.cnet.com/tech/gaming/the-arcade2tv-xr-combines-the-past-and-future-into-an-immersive-gaming-experience/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [YouTube quietly removed &quot;gender identity&quot; from its hate speech policy after Trump took office; Google says enforcement of the policy remains unchanged &lpar;Taylor Lorenz/User Mag&rpar;](http://www.techmeme.com/250403/p25#a250403p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

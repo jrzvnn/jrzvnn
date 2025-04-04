@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple stock bloodbath continues after China applies retaliatory tariffs](https://appleinsider.com/articles/25/04/04/apple-stock-bloodbath-continues-after-china-applies-retaliatory-tariffs?utm_medium=rss)
+ - [Trump’s TikTok delay is ‘against the law’ top Senate Intelligence Democrat says](https://www.theverge.com/news/643964/tiktok-trump-ban-delay-warner-congress-response)
+ - [Analysts say Microsoft, whose shares fell the least among top tech companies, is shielded from the worst tariff impacts due to Azure and a broad enterprise base &lpar;Fortune&rpar;](http://www.techmeme.com/250404/p30#a250404p30)
  - [Sources: a TikTok deal, which was largely finalized by Wednesday, was put on hold after China indicated it would the reject the deal over Trump&#39;s tariffs &lpar;Reuters&rpar;](http://www.techmeme.com/250404/p29#a250404p29)
- - [The Nasdaq fell 5.8% on the second day following Trump&#39;s tariffs announcement, with Nvidia closing down 7.4%, Apple 7.3%, Netflix 6.7%, Meta 5%, and Amazon 4.2% &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250404/p28#a250404p28)
- - [Price hikes, idled factories, layoffs: how car companies are responding to Trump’s tariffs](https://www.theverge.com/electric-cars/643668/car-company-tariff-response-price-layoff-factory)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 5, #194](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-5-194/#ftag=CAD590a51e)
- - [Buy or Wait Guide: 10 Experts Predict How Tariffs Will Change Tech Prices in 2025 and What to Do Now](https://www.cnet.com/tech/mobile/buy-or-wait-guide-10-experts-predict-how-tariffs-will-change-tech-prices-in-2025-and-what-to-do-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Nasdaq fell 5.8% on the second day following Trump&#39;s tariffs announcement, with Nvidia closing down 7.4%, Apple 7.3%, Netflix 6.7%, Meta 5%, and Amazon 4.2% &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250404/p28#a250404p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

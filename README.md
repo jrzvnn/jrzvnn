@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New Naked Gun Movie](http://9gag.com/gag/aAy4RKZ)
- - 😝 [Man melted down at In-N-Out Burger accusing woman next to him of being racist for stopping him from touching her little daughter](http://9gag.com/gag/a2v0QVw)
- - 💣 [The definition of insanity is . . .](http://9gag.com/gag/abAW3pp)
- - 😝 [Hats off to the police](http://9gag.com/gag/aVvmjYO)
- - 👉 [Let me take a video of the train while standing on the tracks.](http://9gag.com/gag/agm7M9q)<!-- MEMES:END -->
+ - 😝 [He won the professor award !!](http://9gag.com/gag/a2v0Bm9)
+ - 😝 [He did it better](http://9gag.com/gag/amomqYj)
+ - 💣 [Scans of a 44 year-old man who &lpar;unknowingly&rpar; lived with 90% of his brain destroyed from hydrocephalus.](http://9gag.com/gag/aD28E4Z)
+ - 😝 [Literally wtf?!?](http://9gag.com/gag/aNDQxow)
+ - 👉 [In Mongolia, the horse population significantly outnumbers the human population, with a ratio of approximately 3:1. There&#39;s a Mongolian saying, `A Man without a Horse is like a Bird without Wings`.](http://9gag.com/gag/avyE27O)<!-- MEMES:END -->
 
 ---
 

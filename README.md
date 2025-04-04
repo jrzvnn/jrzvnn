@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Live action](http://9gag.com/gag/adBnyPM)
- - 😝 [Bridal](http://9gag.com/gag/an7vq9n)
- - 💣 [Hey Steve, you ever did reenactment?](http://9gag.com/gag/aByPRD1)
- - 😝 [He did it better](http://9gag.com/gag/amomqYj)
- - 👉 [&lpar;c&rpar; can&#39;t tell](http://9gag.com/gag/agm7ReK)<!-- MEMES:END -->
+ - 😝 [`You&#39;re not gonna like the answer`](http://9gag.com/gag/a7oVvA2)
+ - 😝 [Hey Steve, you ever did reenactment?](http://9gag.com/gag/aByPRD1)
+ - 💣 [In Mongolia, the horse population significantly outnumbers the human population, with a ratio of approximately 3:1. There&#39;s a Mongolian saying, `A Man without a Horse is like a Bird without Wings`.](http://9gag.com/gag/avyE27O)
+ - 😝 [What the worst that can happen?](http://9gag.com/gag/aPA8vmw)
+ - 👉 [He did it better](http://9gag.com/gag/amomqYj)<!-- MEMES:END -->
 
 ---
 

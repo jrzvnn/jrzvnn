@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [President Trump’s War on ‘Information Silos’ Is Bad News for Your Personal Data](https://www.wired.com/story/plaintext-trump-executive-order-information-silos-privacy/)
+ - [How Microsoft made it through 50 years](https://www.theverge.com/microsoft/643246/microsoft-50-business-model-cloud-ai)
  - [Apple Music on Windows finally gets Dolby Atmos support](https://appleinsider.com/articles/25/04/04/apple-music-on-windows-finally-gets-dolby-atmos-support?utm_medium=rss)
- - [China places some rare earth elements under export restrictions as part of its response to Trump&#39;s tariff package and imposes a 34% retaliatory tariff US goods &lpar;Reuters&rpar;](http://www.techmeme.com/250404/p11#a250404p11)
- - [Microsoft is now 50 years old](https://www.theverge.com/news/643251/microsoft-50-years-old-anniversary)
- - [Microsoft turns 50](https://www.theverge.com/news/643336/microsoft-50-years)
- - [Sources: Meta aims to release Llama 4 later this month after pushing back its release date at least twice due to underperformance in reasoning and math tasks &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/250404/p10#a250404p10)<!-- TECH:END -->
+ - [China places some rare earth elements under export restrictions as part of its response to Trump&#39;s tariffs and imposes a 34% retaliatory tariff on US goods &lpar;Reuters&rpar;](http://www.techmeme.com/250404/p11#a250404p11)
+ - [Microsoft is now 50 years old](https://www.theverge.com/news/643251/microsoft-50-years-old-anniversary)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

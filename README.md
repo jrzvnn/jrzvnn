@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HMD OffGrid Satellite Communicator Review: Fits in Your Pocket](https://www.wired.com/review/hmd-offgrid-satellite-communicator/)
- - [Apple and iPad birthdays, iOS 18.4, and AI health on the AppleInsider Podcast](https://appleinsider.com/articles/25/04/04/apple-and-ipad-birthdays-ios-184-and-ai-health-on-the-appleinsider-podcast?utm_medium=rss)
- - [How tariffs will change your gadgets](https://www.theverge.com/the-vergecast/643252/tariff-gadget-tech-prices-switch-2-vergecast)
- - [9 Best Protein Powders of 2025, Tested &amp; Reviewed by WIRED](https://www.wired.com/gallery/best-protein-powders/)
- - [Chainalysis estimates North Korean hackers stole over $6B in crypto over the past decade and accounted for ~60% of industry-wide theft losses in 2024 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250404/p9#a250404p9)<!-- TECH:END -->
+ - [Microsoft is now 50 years old](https://www.theverge.com/news/643251/microsoft-50-years-old-anniversary)
+ - [Microsoft turns 50](https://www.theverge.com/news/643336/microsoft-50-years)
+ - [Sources: Meta aims to release Llama 4 later this month after pushing back its release date at least twice due to underperformance in reasoning and math tasks &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/250404/p10#a250404p10)
+ - [Why Are Switch 2 Games So Expensive? Trump&#39;s Tariffs May Not Be Sole Factor](https://www.cnet.com/tech/gaming/why-are-switch-2-games-so-expensive-trumps-tariffs-may-not-be-sole-factor/#ftag=CAD590a51e)
+ - [Grand National 2025 Livestream: How to Watch Aintree Horse Racing From Anywhere](https://www.cnet.com/tech/services-and-software/grand-national-2025-livestream-how-to-watch-aintree-horse-racing-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

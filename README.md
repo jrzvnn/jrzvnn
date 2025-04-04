@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 4, #193](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-4-193/#ftag=CAD590a51e)
+ - [Women&#39;s March Madness 2025: How to Watch the Final Four Today](https://www.cnet.com/tech/services-and-software/womens-march-madness-2025-how-to-watch-the-final-four-today/#ftag=CAD590a51e)
+ - [Must-Have Running Essentials From a Beginner and a 15-Year Veteran Runner](https://www.cnet.com/health/fitness/must-have-running-essentials-beginner-15-year-veteran-runner/#ftag=CAD590a51e)
  - [Google hasn&#39;t released safety reports for its latest models, like Gemini 2.5 Pro and 2.0 Flash, raising concerns that it is prioritizing speed over transparency &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250404/p6#a250404p6)
- - [All the Nintendo Games You Can Update to Switch 2 for Free](https://www.cnet.com/tech/gaming/all-the-nintendo-games-you-can-update-to-switch-2-for-free/#ftag=CAD590a51e)
- - [Nasscom-Zinnov: Indian tech startup funding surged 23% YoY to $7.4B in 2024, with the number of deals up 27% YoY and newly founded startups more than doubling &lpar;Moneycontrol&rpar;](http://www.techmeme.com/250404/p5#a250404p5)
- - [Redpanda, which offers companies AI-powered data analytics tools, raised a $100M Series D led by GV, with participation from Lightspeed, at a $1B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250404/p4#a250404p4)
- - [Midjourney begins rolling out V7, its first new AI image model in nearly a year with a &quot;totally different architecture&quot;, a week after OpenAI&#39;s new image tool &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250404/p3#a250404p3)<!-- TECH:END -->
+ - [All the Nintendo Games You Can Update to Switch 2 for Free](https://www.cnet.com/tech/gaming/all-the-nintendo-games-you-can-update-to-switch-2-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

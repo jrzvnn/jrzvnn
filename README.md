@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DOGE has arrived at the FTC](https://www.theverge.com/news/643674/doge-members-spotted-ftc-elon-musk)
+ - [An immersive version of The Wizard of Oz is coming to the Las Vegas Sphere](https://www.theverge.com/news/643604/sphere-entertainment-las-vegas-wizard-of-oz-immersive-from-the-edge)
+ - [Q&amp;A with Microsoft&#39;s AI CEO Mustafa Suleyman about the new Copilot updates, differentiating Copilot from other assistants through personality and tone, and more &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/250404/p21#a250404p21)
  - [Google releases API pricing for Gemini 2.5 Pro: $1.25 per 1M input tokens and $10 for 1M output tokens for prompts up to 200K tokens, its priciest model yet &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250404/p20#a250404p20)
- - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
- - [‘Careless People’ author to testify during a Senate hearing about Facebook](https://www.theverge.com/news/643645/careless-people-sarah-wynn-williams-testify-senate)
- - [Here’s how Nintendo Switch 2 preorders will work](https://www.theverge.com/tech/24342715/nintendo-switch-2-preorder-price-release-date-availability-how-to-buy)
- - [Microsoft brings Copilot Vision feature to Windows and its iOS and Android apps, letting it analyze real-time video from a mobile camera, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250404/p19#a250404p19)<!-- TECH:END -->
+ - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cat Hugs The Lost Dog](http://9gag.com/gag/aMVn2EV)
  - 😝 [Bill Burr ripping through journalists and news media](http://9gag.com/gag/aoy4EnA)
- - 💣 [Don\u2019t cry! Don\u2019t cry! He\u2019s crying!](http://9gag.com/gag/aMVne0G)
+ - 😝 [Don\u2019t cry! Don\u2019t cry! He\u2019s crying!](http://9gag.com/gag/aMVne0G)
+ - 💣 [Captcha failed](http://9gag.com/gag/aqyQmPR)
  - 😝 [Being leftist destroys your Brain](http://9gag.com/gag/ae9Vj25)
  - 👉 [Based Meloni](http://9gag.com/gag/a34yPNv)<!-- MEMES:END -->
 

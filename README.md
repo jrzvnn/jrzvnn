@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Live action](http://9gag.com/gag/adBnyPM)
- - 😝 [You got any? Jusk ask as a friend](http://9gag.com/gag/a5QGpPN)
- - 💣 [What the worst that can happen?](http://9gag.com/gag/aPA8vmw)
- - 😝 [&lpar;c&rpar; can&#39;t tell](http://9gag.com/gag/agm7ReK)
- - 👉 [Bridal](http://9gag.com/gag/an7vq9n)<!-- MEMES:END -->
+ - 😝 [How easy guys to be entertained](http://9gag.com/gag/aMVn106)
+ - 😝 [School should be a place where kids want to be](http://9gag.com/gag/a9y8LdL)
+ - 💣 [I bet you can\u2019t find the nerd between the jocks!](http://9gag.com/gag/amomXDd)
+ - 😝 [Atleast the memes are back](http://9gag.com/gag/aRBzgAQ)
+ - 👉 [No national outrage](http://9gag.com/gag/aAy4YQ2)<!-- MEMES:END -->
 
 ---
 

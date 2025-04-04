@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Everything we know so far about the Nintendo Switch 2](https://www.theverge.com/nintendo/638604/nintendo-switch-2-direct-news-trailers-stream)
+ - [Sources: Klarna has halted its planned IPO in the wake of Trump&#39;s tariffs turmoil; StubHub has also delayed its IPO plans &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250404/p15#a250404p15)
+ - [Nintendo delays preorders for the Switch 2 from April 9, 2025 due to concerns about Trump&#39;s tariffs but the June 5 launch date remains unchanged &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250404/p14#a250404p14)
  - [12 Best Turntables &lpar;2024&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-turntables/)
- - [Sam Altman says OpenAI plans to release o3 and o4-mini &quot;after all&quot; and GPT-5 &quot;in a few months&quot;, citing challenges in &quot;smoothly integrating everything&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250404/p13#a250404p13)
- - [Z-Wave is remaking itself to find a new place in your smart home](https://www.theverge.com/tech/643328/does-z-wave-still-matter-in-the-smart-home)
- - [Nintendo delays Switch 2 preorders over tariff concerns](https://www.theverge.com/news/643483/nintendo-switch-2-preorders-delayed-tariffs)
- - [Philips Hue bulbs and lighting kits are deeply discounted today only](https://www.theverge.com/tech/643379/philips-hue-bulbs-lightstrips-baseus-usb-c-beats-pill-bluetooth-sale)<!-- TECH:END -->
+ - [Sam Altman says OpenAI plans to release o3 and o4-mini &quot;after all&quot; and GPT-5 &quot;in a few months&quot;, citing challenges in &quot;smoothly integrating everything&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250404/p13#a250404p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

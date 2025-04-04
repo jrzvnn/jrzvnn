@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Cat Hugs The Lost Dog](http://9gag.com/gag/aMVn2EV)
  - 😝 [\u272e\u272e\u2729\u2729\u2729](http://9gag.com/gag/a1m5pP8)
- - 😝 [You got any? Jusk ask as a friend](http://9gag.com/gag/a5QGpPN)
- - 💣 [Finally someone who is captured for stealing.](http://9gag.com/gag/adBQ3zM)
- - 😝 [`You&#39;re not gonna like the answer`](http://9gag.com/gag/a7oVvA2)
- - 👉 [In Mongolia, the horse population significantly outnumbers the human population, with a ratio of approximately 3:1. There&#39;s a Mongolian saying, `A Man without a Horse is like a Bird without Wings`.](http://9gag.com/gag/avyE27O)<!-- MEMES:END -->
+ - 💣 [Bill Burr ripping through journalists and news media](http://9gag.com/gag/aoy4EnA)
+ - 😝 [...](http://9gag.com/gag/aPAoKoq)
+ - 👉 [Don\u2019t cry! Don\u2019t cry! He\u2019s crying!](http://9gag.com/gag/aMVne0G)<!-- MEMES:END -->
 
 ---
 

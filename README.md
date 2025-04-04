@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How easy guys to be entertained](http://9gag.com/gag/aMVn106)
- - 😝 [School should be a place where kids want to be](http://9gag.com/gag/a9y8LdL)
- - 💣 [I bet you can\u2019t find the nerd between the jocks!](http://9gag.com/gag/amomXDd)
- - 😝 [Atleast the memes are back](http://9gag.com/gag/aRBzgAQ)
- - 👉 [No national outrage](http://9gag.com/gag/aAy4YQ2)<!-- MEMES:END -->
+ - 😝 [&lpar;c&rpar; can&#39;t tell](http://9gag.com/gag/agm7ReK)
+ - 😝 [Man melted down at In-N-Out Burger accusing woman next to him of being racist for stopping him from touching her little daughter](http://9gag.com/gag/a2v0QVw)
+ - 💣 [What the worst that can happen?](http://9gag.com/gag/aPA8vmw)
+ - 😝 [British man becomes a minority in his own land](http://9gag.com/gag/awyLKz8)
+ - 👉 [Bridal](http://9gag.com/gag/an7vq9n)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 17 Pro predicted to cost over $2000 because of Trump tariffs](https://appleinsider.com/articles/25/04/04/iphone-17-pro-predicted-to-cost-over-2000-because-of-trump-tariffs?utm_medium=rss)
+ - [Investors, founders, and others detail a culture of fear around criticizing Elon Musk or DOGE; some are appalled he is seen as a reflection of the tech industry &lpar;Issie Lapowsky/Politico&rpar;](http://www.techmeme.com/250404/p26#a250404p26)
  - [Microsoft brings Copilot Vision to Windows and mobile for AI help in the real world](https://www.theverge.com/news/643235/microsoft-copilot-vision-windows-desktop-apps-mobile)
- - [Apple Intelligence servers might soon rely on a new Japanese chipmaker](https://appleinsider.com/articles/25/04/04/apple-intelligence-servers-might-soon-rely-on-a-new-japanese-chipmaker?utm_medium=rss)
- - [GitHub announces &quot;premium requests&quot; for GitHub Copilot, a new system that imposes rate limits when users switch from the base GPT-4o to other AI models &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250404/p25#a250404p25)
- - [Trump delays TikTok ban for another 75 days](https://appleinsider.com/articles/25/04/04/trump-delays-tiktok-ban-for-another-75-days?utm_medium=rss)
- - [DOGE staffer ‘Big Balls’ has access to immigration agency’s data](https://www.theverge.com/policy/643807/doge-uscis-data-naturalization-elon-musk)<!-- TECH:END -->
+ - [Inside DOGE’s AI Push at the Department of Veterans Affairs](https://www.wired.com/story/doge-department-of-veterans-affairs-ai/)
+ - [Apple Intelligence servers might soon rely on a new Japanese chipmaker](https://appleinsider.com/articles/25/04/04/apple-intelligence-servers-might-soon-rely-on-a-new-japanese-chipmaker?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

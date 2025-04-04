@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [US officials say NSA director and Cyber Command head Timothy Haugh was fired on April 3, along with his deputy Wendy Noble &lpar;Washington Post&rpar;](http://www.techmeme.com/250403/p39#a250403p39)
  - [Bengaluru-based Scapia, which offers a travel-focused credit card and a travel app, raised a $40M Series B led by Peak XV, bringing its total funding to $72M &lpar;The Economic Times&rpar;](http://www.techmeme.com/250403/p38#a250403p38)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, April 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-april-4/#ftag=CAD590a51e)
  - [Report: Brazil&#39;s antitrust regulator is investigating Apple over ATT, saying Apple collects user data &quot;under more favorable conditions&quot;, after Meta complained &lpar;Filipe Espósito/9to5Mac&rpar;](http://www.techmeme.com/250403/p37#a250403p37)
- - [Health care navigation startup Solace, which matches patients with advocates, raised a $60M Series B led by Menlo Ventures, after a $14M Series A in August 2024 &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/250403/p36#a250403p36)
- - [Superman’s latest trailer introduces his team of robot assistants](https://www.theverge.com/news/643100/superman-robots-trailer)<!-- TECH:END -->
+ - [Health care navigation startup Solace, which matches patients with advocates, raised a $60M Series B led by Menlo Ventures, after a $14M Series A in August 2024 &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/250403/p36#a250403p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

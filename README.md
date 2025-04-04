@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DOGE has arrived at the FTC](https://www.theverge.com/news/643674/doge-members-spotted-ftc-elon-musk)
- - [An immersive version of The Wizard of Oz is coming to the Las Vegas Sphere](https://www.theverge.com/news/643604/sphere-entertainment-las-vegas-wizard-of-oz-immersive-from-the-edge)
- - [Q&amp;A with Microsoft&#39;s AI CEO Mustafa Suleyman about the new Copilot updates, differentiating Copilot from other assistants through personality and tone, and more &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/250404/p21#a250404p21)
- - [Google releases API pricing for Gemini 2.5 Pro: $1.25 per 1M input tokens and $10 for 1M output tokens for prompts up to 200K tokens, its priciest model yet &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250404/p20#a250404p20)
- - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)<!-- TECH:END -->
+ - [Apple&#39;s canceled Federation Square store lives on in Apple Vision Pro](https://appleinsider.com/articles/25/04/04/apples-canceled-federation-square-store-lives-on-in-apple-vision-pro?utm_medium=rss)
+ - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
+ - [How Trump&#39;s tariffs affect Meta, which relies heavily on SMBs around the world for ad revenue; 10% of Meta&#39;s 2023 revenue was from Chinese advertisers like Temu &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/250404/p22#a250404p22)
+ - [Microsoft employee disrupts 50th anniversary and calls AI boss &amp;#8216;war profiteer&amp;#8217;](https://www.theverge.com/news/643670/microsoft-employee-protest-50th-annivesary-ai)
+ - [DOGE has arrived at the FTC](https://www.theverge.com/news/643674/doge-members-spotted-ftc-elon-musk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

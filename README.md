@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sounds about right.](http://9gag.com/gag/aryZpD6)
- - 😝 [Don\u2019t cry! Don\u2019t cry! He\u2019s crying!](http://9gag.com/gag/aMVne0G)
- - 💣 [Being leftist destroys your Brain](http://9gag.com/gag/ae9Vj25)
- - 😝 [Based Meloni](http://9gag.com/gag/a34yPNv)
- - 👉 [Captcha failed](http://9gag.com/gag/aqyQmPR)<!-- MEMES:END -->
+ - 😝 [Dewey has reappeared...](http://9gag.com/gag/aO8Do1R)
+ - 😝 [Finally someone who is captured for stealing.](http://9gag.com/gag/adBQ3zM)
+ - 💣 [Yeah it&#39;s an understanding. Don&#39;t mess with the dog](http://9gag.com/gag/aByPKRZ)
+ - 😝 [You got any? Jusk ask as a friend](http://9gag.com/gag/a5QGpPN)
+ - 👉 [`You&#39;re not gonna like the answer`](http://9gag.com/gag/a7oVvA2)<!-- MEMES:END -->
 
 ---
 

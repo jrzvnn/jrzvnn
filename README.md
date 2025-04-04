@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft brings Copilot Vision to Windows and mobile for AI help in the real world](https://www.theverge.com/news/643235/microsoft-copilot-vision-windows-desktop-apps-mobile)
  - [Apple Intelligence servers might soon rely on a new Japanese chipmaker](https://appleinsider.com/articles/25/04/04/apple-intelligence-servers-might-soon-rely-on-a-new-japanese-chipmaker?utm_medium=rss)
  - [GitHub announces &quot;premium requests&quot; for GitHub Copilot, a new system that imposes rate limits when users switch from the base GPT-4o to other AI models &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250404/p25#a250404p25)
  - [Trump delays TikTok ban for another 75 days](https://appleinsider.com/articles/25/04/04/trump-delays-tiktok-ban-for-another-75-days?utm_medium=rss)
- - [DOGE staffer ‘Big Balls’ has access to immigration agency’s data](https://www.theverge.com/policy/643807/doge-uscis-data-naturalization-elon-musk)
- - [Meta&amp;#8217;s fact-checking program in the US officially ends soon](https://www.theverge.com/news/643786/meta-fact-checking-program-ending)<!-- TECH:END -->
+ - [DOGE staffer ‘Big Balls’ has access to immigration agency’s data](https://www.theverge.com/policy/643807/doge-uscis-data-naturalization-elon-musk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

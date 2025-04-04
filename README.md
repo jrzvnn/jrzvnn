@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s how Nintendo Switch 2 preorders will work](https://www.theverge.com/tech/24342715/nintendo-switch-2-preorder-price-release-date-availability-how-to-buy)
+ - [Microsoft brings Copilot Vision feature to Windows and its iOS and Android apps, letting it analyze real-time video from a mobile camera, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250404/p19#a250404p19)
+ - [Microsoft Copilot adds support for memory, personalization, web-based actions, podcast creation, camera and screen analysis, deep research, and more &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250404/p18#a250404p18)
  - [Microsoft updates Copilot with the greatest hits from other AIs](https://www.theverge.com/news/643199/microsoft-copilot-ai-new-features-memory-personalization-actions-vision)
- - [Microsoft brings Copilot Vision to Windows and mobile for AI help in the real world](https://www.theverge.com/news/643235/microsoft-copilot-vision-windows-desktop-apps-mobile)
- - [Microsoft Copilot can now use the web on your behalf](https://www.theverge.com/news/643276/microsoft-copilot-ai-actions-feature-availability)
- - [FromSoftware&amp;#8217;s Miyazaki assures fans the studio will still make single-player games](https://www.theverge.com/news/643368/duskbloods-details-nintendo-switch-2-miyazaki-interview-fromsoftware-single-player-multiplayer)
- - [Despite a tariff exemption on direct chip imports for now, the semiconductor industry faces challenges as higher prices for end products may hurt demand &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/250404/p17#a250404p17)<!-- TECH:END -->
+ - [Microsoft brings Copilot Vision to Windows and mobile for AI help in the real world](https://www.theverge.com/news/643235/microsoft-copilot-vision-windows-desktop-apps-mobile)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

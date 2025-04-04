@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Music on Windows finally gets Dolby Atmos support](https://appleinsider.com/articles/25/04/04/apple-music-on-windows-finally-gets-dolby-atmos-support?utm_medium=rss)
+ - [China places some rare earth elements under export restrictions as part of its response to Trump&#39;s tariff package and imposes a 34% retaliatory tariff US goods &lpar;Reuters&rpar;](http://www.techmeme.com/250404/p11#a250404p11)
  - [Microsoft is now 50 years old](https://www.theverge.com/news/643251/microsoft-50-years-old-anniversary)
  - [Microsoft turns 50](https://www.theverge.com/news/643336/microsoft-50-years)
- - [Sources: Meta aims to release Llama 4 later this month after pushing back its release date at least twice due to underperformance in reasoning and math tasks &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/250404/p10#a250404p10)
- - [Why Are Switch 2 Games So Expensive? Trump&#39;s Tariffs May Not Be Sole Factor](https://www.cnet.com/tech/gaming/why-are-switch-2-games-so-expensive-trumps-tariffs-may-not-be-sole-factor/#ftag=CAD590a51e)
- - [Grand National 2025 Livestream: How to Watch Aintree Horse Racing From Anywhere](https://www.cnet.com/tech/services-and-software/grand-national-2025-livestream-how-to-watch-aintree-horse-racing-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Meta aims to release Llama 4 later this month after pushing back its release date at least twice due to underperformance in reasoning and math tasks &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/250404/p10#a250404p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

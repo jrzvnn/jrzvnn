@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Sources: a TikTok deal, which was largely finalized by Wednesday, was put on hold after China indicated it would the reject the deal over Trump&#39;s tariffs &lpar;Reuters&rpar;](http://www.techmeme.com/250404/p29#a250404p29)
  - [The Nasdaq fell 5.8% on the second day following Trump&#39;s tariffs announcement, with Nvidia closing down 7.4%, Apple 7.3%, Netflix 6.7%, Meta 5%, and Amazon 4.2% &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250404/p28#a250404p28)
  - [Price hikes, idled factories, layoffs: how car companies are responding to Trump’s tariffs](https://www.theverge.com/electric-cars/643668/car-company-tariff-response-price-layoff-factory)
- - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
- - [The US SEC says that &quot;covered&quot; US dollar stablecoins like USDT and USDC are not securities, and registration is not required for minting or redeeming them &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/250404/p27#a250404p27)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 5, #194](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-5-194/#ftag=CAD590a51e)
+ - [Buy or Wait Guide: 10 Experts Predict How Tariffs Will Change Tech Prices in 2025 and What to Do Now](https://www.cnet.com/tech/mobile/buy-or-wait-guide-10-experts-predict-how-tariffs-will-change-tech-prices-in-2025-and-what-to-do-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

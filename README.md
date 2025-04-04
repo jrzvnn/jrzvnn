@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`You&#39;re not gonna like the answer`](http://9gag.com/gag/a7oVvA2)
- - 😝 [What the worst that can happen?](http://9gag.com/gag/aPA8vmw)
- - 💣 [Bridal](http://9gag.com/gag/an7vq9n)
- - 😝 [&lpar;c&rpar; can&#39;t tell](http://9gag.com/gag/agm7ReK)
- - 👉 [He did it better](http://9gag.com/gag/amomqYj)<!-- MEMES:END -->
+ - 😝 [Live action](http://9gag.com/gag/adBnyPM)
+ - 😝 [Bridal](http://9gag.com/gag/an7vq9n)
+ - 💣 [Hey Steve, you ever did reenactment?](http://9gag.com/gag/aByPRD1)
+ - 😝 [He did it better](http://9gag.com/gag/amomqYj)
+ - 👉 [&lpar;c&rpar; can&#39;t tell](http://9gag.com/gag/agm7ReK)<!-- MEMES:END -->
 
 ---
 

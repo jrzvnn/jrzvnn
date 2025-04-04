@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Short life expectancy](http://9gag.com/gag/a870B61)
- - 😝 [Man melted down at In-N-Out Burger accusing woman next to him of being racist for stopping him from touching her little daughter](http://9gag.com/gag/a2v0QVw)
- - 💣 [`Always has been`](http://9gag.com/gag/aryXjop)
- - 😝 [Not cool](http://9gag.com/gag/a7o045z)
- - 👉 [He did it better](http://9gag.com/gag/amomqYj)<!-- MEMES:END -->
+ - 😝 [What the worst that can happen?](http://9gag.com/gag/aPA8vmw)
+ - 😝 [`Always has been`](http://9gag.com/gag/aryXjop)
+ - 💣 [Not cool](http://9gag.com/gag/a7o045z)
+ - 😝 [Oh No, social credit -10000000](http://9gag.com/gag/aLnG6PW)
+ - 👉 [Scans of a 44 year-old man who &lpar;unknowingly&rpar; lived with 90% of his brain destroyed from hydrocephalus.](http://9gag.com/gag/aD28E4Z)<!-- MEMES:END -->
 
 ---
 

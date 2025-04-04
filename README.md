@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China retaliates with tariff that matches Trump&amp;#8217;s](https://www.theverge.com/news/643215/china-us-tariffs-34-percent-reciprocal-trump)
  - [Survey: 35% of US adults say AI will have a negative impact in the US over the next 20 years, while 56% of AI experts say AI will have a positive impact &lpar;Pew Research Center&rpar;](http://www.techmeme.com/250404/p7#a250404p7)
  - [Lemon8 and TikTok Could Be Banned. Here&#39;s How the Apps Are Different](https://www.cnet.com/tech/services-and-software/lemon8-and-tiktok-could-be-banned-heres-how-the-apps-are-different/#ftag=CAD590a51e)
  - [iOS 18.4: All the New Controls You Can Add to Your iPhone&#39;s Control Center](https://www.cnet.com/tech/services-and-software/ios-18-4-all-the-new-controls-you-can-add-to-your-iphones-control-center/#ftag=CAD590a51e)
- - [Netflix&#39;s 18 Fantasy TV Shows You Have to See to Believe](https://www.cnet.com/tech/services-and-software/best-fantasy-tv-shows-on-netflix-2025/#ftag=CAD590a51e)
- - [Shield Your Money From Stock Market Freefalls, Tariff Fallout and Recession. Today&#39;s CD Rates, April 4, 2025](https://www.cnet.com/personal-finance/banking/shield-your-money-from-stock-market-freefalls-tariff-fallout-and-recession-todays-cd-rates-april-4-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix&#39;s 18 Fantasy TV Shows You Have to See to Believe](https://www.cnet.com/tech/services-and-software/best-fantasy-tv-shows-on-netflix-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

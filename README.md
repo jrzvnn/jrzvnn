@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [BCA](http://9gag.com/gag/aoy4mG0)
- - 😝 [You got any? Jusk ask as a friend](http://9gag.com/gag/a5QGpPN)
- - 💣 [In Mongolia, the horse population significantly outnumbers the human population, with a ratio of approximately 3:1. There&#39;s a Mongolian saying, `A Man without a Horse is like a Bird without Wings`.](http://9gag.com/gag/avyE27O)
- - 😝 [VAR referees in Bulgaria betting live](http://9gag.com/gag/a0e0m9X)
- - 👉 [Jennifer Love Hewitt, 1998](http://9gag.com/gag/aE0Ar9p)<!-- MEMES:END -->
+ - 😝 [Sounds about right.](http://9gag.com/gag/aryZpD6)
+ - 😝 [Don\u2019t cry! Don\u2019t cry! He\u2019s crying!](http://9gag.com/gag/aMVne0G)
+ - 💣 [Being leftist destroys your Brain](http://9gag.com/gag/ae9Vj25)
+ - 😝 [Based Meloni](http://9gag.com/gag/a34yPNv)
+ - 👉 [Captcha failed](http://9gag.com/gag/aqyQmPR)<!-- MEMES:END -->
 
 ---
 

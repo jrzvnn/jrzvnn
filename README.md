@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Bridal](http://9gag.com/gag/an7vq9n)
+ - 😝 [You got any? Jusk ask as a friend](http://9gag.com/gag/a5QGpPN)
+ - 💣 [In Mongolia, the horse population significantly outnumbers the human population, with a ratio of approximately 3:1. There&#39;s a Mongolian saying, `A Man without a Horse is like a Bird without Wings`.](http://9gag.com/gag/avyE27O)
  - 😝 [VAR referees in Bulgaria betting live](http://9gag.com/gag/a0e0m9X)
- - 💣 [You got any? Jusk ask as a friend](http://9gag.com/gag/a5QGpPN)
- - 😝 [In Mongolia, the horse population significantly outnumbers the human population, with a ratio of approximately 3:1. There&#39;s a Mongolian saying, `A Man without a Horse is like a Bird without Wings`.](http://9gag.com/gag/avyE27O)
- - 👉 [`You&#39;re not gonna like the answer`](http://9gag.com/gag/a7oVvA2)<!-- MEMES:END -->
+ - 👉 [&lpar;c&rpar; can&#39;t tell](http://9gag.com/gag/agm7ReK)<!-- MEMES:END -->
 
 ---
 

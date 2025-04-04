@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What the worst that can happen?](http://9gag.com/gag/aPA8vmw)
- - 😝 [\u272e\u272e\u2729\u2729\u2729](http://9gag.com/gag/a1m5pP8)
- - 💣 [Live action](http://9gag.com/gag/adBnyPM)
+ - 😝 [Short life expectancy](http://9gag.com/gag/a870B61)
  - 😝 [Man melted down at In-N-Out Burger accusing woman next to him of being racist for stopping him from touching her little daughter](http://9gag.com/gag/a2v0QVw)
+ - 💣 [`Always has been`](http://9gag.com/gag/aryXjop)
+ - 😝 [Not cool](http://9gag.com/gag/a7o045z)
  - 👉 [He did it better](http://9gag.com/gag/amomqYj)<!-- MEMES:END -->
 
 ---

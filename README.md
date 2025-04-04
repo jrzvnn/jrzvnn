@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [President Trump’s War on ‘Information Silos’ Is Bad News for Your Personal Data](https://www.wired.com/story/plaintext-trump-executive-order-information-silos-privacy/)
- - [How Microsoft made it through 50 years](https://www.theverge.com/microsoft/643246/microsoft-50-business-model-cloud-ai)
- - [Apple Music on Windows finally gets Dolby Atmos support](https://appleinsider.com/articles/25/04/04/apple-music-on-windows-finally-gets-dolby-atmos-support?utm_medium=rss)
- - [China places some rare earth elements under export restrictions as part of its response to Trump&#39;s tariffs and imposes a 34% retaliatory tariff on US goods &lpar;Reuters&rpar;](http://www.techmeme.com/250404/p11#a250404p11)
- - [Microsoft is now 50 years old](https://www.theverge.com/news/643251/microsoft-50-years-old-anniversary)<!-- TECH:END -->
+ - [Here&amp;#8217;s the original source code for Microsoft&amp;#8217;s very first product](https://www.theverge.com/news/643415/microsoft-bill-gates-altair-basic-source-code)
+ - [NSA director fired after Trump&amp;#8217;s meeting with right-wing influencer Laura Loomer](https://www.theverge.com/news/643425/nsa-director-timothy-haugh-removal-laura-loomer)
+ - [Best Internet Providers in Denver, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-denver-co/#ftag=CAD590a51e)
+ - [Nintendo Switch 2 Live Updates: Preorder Info, Treehouse Day Two and More](https://www.cnet.com/tech/gaming/switch-2-nintendo-direct-live-updates/#ftag=CAD590a51e)
+ - [The Chase Sapphire Preferred 100K Welcome Bonus Won&#39;t Be Around Forever. Here&#39;s How I&#39;d Make the Most of It](https://www.cnet.com/personal-finance/credit-cards/the-chase-sapphire-preferred-100k-welcome-bonus-wont-be-around-forever-heres-how-id-make-the-most-of-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

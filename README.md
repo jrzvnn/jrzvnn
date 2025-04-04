@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`You&#39;re not gonna like the answer`](http://9gag.com/gag/a7oVvA2)
+ - 😝 [Sally Field during production of 1977&#39;s `Smokey and the Bandit`](http://9gag.com/gag/awy16RW)
  - 😝 [When she was 23, Rosemary Kennedy, the sister of JFK and RFK, had a forced lobotomy arranged by her father. The surgery left her incapacitated for the rest of her life.](http://9gag.com/gag/a1m0zZD)
- - 💣 [Lol](http://9gag.com/gag/agm7W6n)
- - 😝 [This is a great stick](http://9gag.com/gag/aLn4YMA)
- - 👉 [New Naked Gun Movie](http://9gag.com/gag/aAy4RKZ)<!-- MEMES:END -->
+ - 💣 [Man melted down at In-N-Out Burger accusing woman next to him of being racist for stopping him from touching her little daughter](http://9gag.com/gag/a2v0QVw)
+ - 😝 [VAR referees in Bulgaria betting live](http://9gag.com/gag/a0e0m9X)
+ - 👉 [You got any? Jusk ask as a friend](http://9gag.com/gag/a5QGpPN)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New Naked Gun Movie](http://9gag.com/gag/aAy4RKZ)
- - 😝 [Short life expectancy](http://9gag.com/gag/a870B61)
+ - 😝 [Hats off to the police](http://9gag.com/gag/aVvmjYO)
+ - 😝 [Man melted down at In-N-Out Burger accusing woman next to him of being racist for stopping him from touching her little daughter](http://9gag.com/gag/a2v0QVw)
  - 💣 [Not cool](http://9gag.com/gag/a7o045z)
- - 😝 [`Always has been`](http://9gag.com/gag/aryXjop)
- - 👉 [Hats off to the police](http://9gag.com/gag/aVvmjYO)<!-- MEMES:END -->
+ - 😝 [Dewey has reappeared...](http://9gag.com/gag/aO8Do1R)
+ - 👉 [New Naked Gun Movie](http://9gag.com/gag/aAy4RKZ)<!-- MEMES:END -->
 
 ---
 

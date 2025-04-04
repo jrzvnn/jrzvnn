@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Midjourney begins rolling out V7, its first new AI image model in nearly a year with a &quot;totally different architecture&quot;, a week after OpenAI&#39;s new image tool &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250404/p3#a250404p3)
  - [Meta antitrust case is the first major test of President Trump&#39;s FTC and its chair Andrew Ferguson, a Big Tech critic; Meta is exploring a possible settlement &lpar;Financial Times&rpar;](http://www.techmeme.com/250404/p2#a250404p2)
  - [President Trump reiterates he&#39;s open to tariff relief for China if it approves the sale of TikTok&#39;s US operations; the app faces an April 5 divestment deadline &lpar;Annmarie Hordern/Bloomberg&rpar;](http://www.techmeme.com/250404/p1#a250404p1)
  - [US officials say NSA director and Cyber Command head Timothy Haugh was fired on April 3, along with his deputy Wendy Noble &lpar;Washington Post&rpar;](http://www.techmeme.com/250403/p39#a250403p39)
- - [Bengaluru-based Scapia, which offers a travel-focused credit card and a travel app, raised a $40M Series B led by Peak XV, bringing its total funding to $72M &lpar;The Economic Times&rpar;](http://www.techmeme.com/250403/p38#a250403p38)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, April 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-april-4/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bengaluru-based Scapia, which offers a travel-focused credit card and a travel app, raised a $40M Series B led by Peak XV, bringing its total funding to $72M &lpar;The Economic Times&rpar;](http://www.techmeme.com/250403/p38#a250403p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

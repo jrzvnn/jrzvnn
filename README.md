@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s canceled Federation Square store lives on in Apple Vision Pro](https://appleinsider.com/articles/25/04/04/apples-canceled-federation-square-store-lives-on-in-apple-vision-pro?utm_medium=rss)
- - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
- - [How Trump&#39;s tariffs affect Meta, which relies heavily on SMBs around the world for ad revenue; 10% of Meta&#39;s 2023 revenue was from Chinese advertisers like Temu &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/250404/p22#a250404p22)
- - [Microsoft employee disrupts 50th anniversary and calls AI boss &amp;#8216;war profiteer&amp;#8217;](https://www.theverge.com/news/643670/microsoft-employee-protest-50th-annivesary-ai)
- - [DOGE has arrived at the FTC](https://www.theverge.com/news/643674/doge-members-spotted-ftc-elon-musk)<!-- TECH:END -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Trump delays TikTok ban again](https://www.theverge.com/news/643730/tiktok-ban-delay-donald-trump)
+ - [Apple will take a $33 billion hit to its bottom line because of Trump tariffs](https://appleinsider.com/articles/25/04/04/apple-will-take-a-33-billion-hit-to-its-bottom-line-because-of-trump-tariffs?utm_medium=rss)
+ - [Trump says he will sign an EO to keep TikTok running for an additional 75 days, as a deal &quot;requires more work to ensure all necessary approvals are signed&quot; &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250404/p23#a250404p23)
+ - [Apple&#39;s canceled Federation Square store lives on in Apple Vision Pro](https://appleinsider.com/articles/25/04/04/apples-canceled-federation-square-store-lives-on-in-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

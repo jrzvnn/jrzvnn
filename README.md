@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steve Jackson Games says tariffs are a ‘seismic shift’ for board games](https://www.theverge.com/news/643173/trump-tariffs-steve-jackson-board-game-industry)
- - [TikTok tests TikTok for Artists, which provides musicians with analytics and fan engagement tools, in Australia, New Zealand, Japan, South Korea, and Indonesia &lpar;Stuart Dredge/Music Ally&rpar;](http://www.techmeme.com/250403/p34#a250403p34)
- - [An increasingly vocal contingent of GOP leaders, some of whom attended Y Combinator&#39;s Little Tech Competition Summit, call for antitrust action against Big Tech &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/250403/p33#a250403p33)
- - [Trump&amp;#8217;s tariffs mean you&amp;#8217;ll pay more for all gadgets](https://www.theverge.com/tech/643041/trump-tariff-consumer-electronics-gadgets-smartphones-laptops-wearables)
- - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
+ - [Solace, a healthcare navigation service matching patients with advocates, raised a $60M Series B led by Menlo Ventures; it raised a $14M Series A in August 2024 &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/250403/p36#a250403p36)
+ - [Superman’s latest trailer introduces his team of robot assistants](https://www.theverge.com/news/643100/superman-robots-trailer)
+ - [More Apple chips could be made in US thanks to TSMC &amp; Intel joint venture](https://appleinsider.com/articles/25/04/04/more-apple-chips-could-be-made-in-us-thanks-to-tsmc-intel-joint-venture?utm_medium=rss)
+ - [OpenAI makes ChatGPT Plus free for college students in the US and Canada through the end of May, intensifying competition with Anthropic in higher education &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/250403/p35#a250403p35)
+ - [Apple begins notifying WWDC 2025 invite lottery winners](https://appleinsider.com/articles/25/04/04/apple-begins-notifying-wwdc-2025-invite-lottery-winners?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

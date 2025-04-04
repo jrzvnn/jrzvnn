@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tech stocks fell for a second day following Trump&#39;s tariffs announcement: Nvidia closed down 7.4%, Apple 7.3%, Netflix 6.7%, Meta 5%, and Amazon 4.2% &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250404/p28#a250404p28)
+ - [Price hikes, idled factories, layoffs: how car companies are responding to Trump’s tariffs](https://www.theverge.com/electric-cars/643668/car-company-tariff-response-price-layoff-factory)
  - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
  - [The US SEC says that &quot;covered&quot; US dollar stablecoins like USDT and USDC are not securities, and registration is not required for minting or redeeming them &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/250404/p27#a250404p27)
- - [iPhone 17 Pro predicted to cost over $2000 because of Trump tariffs](https://appleinsider.com/articles/25/04/04/iphone-17-pro-predicted-to-cost-over-2000-because-of-trump-tariffs?utm_medium=rss)
- - [Best WordPress Hosting for Easy Website Creation in 2025](https://www.cnet.com/tech/services-and-software/best-wordpress-hosting/#ftag=CAD590a51e)
- - [Investors, founders, and others detail a culture of fear around criticizing Elon Musk or DOGE; some are appalled he is seen as a reflection of the tech industry &lpar;Issie Lapowsky/Politico&rpar;](http://www.techmeme.com/250404/p26#a250404p26)<!-- TECH:END -->
+ - [iPhone 17 Pro predicted to cost over $2000 because of Trump tariffs](https://appleinsider.com/articles/25/04/04/iphone-17-pro-predicted-to-cost-over-2000-because-of-trump-tariffs?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

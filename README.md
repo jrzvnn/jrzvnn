@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hats off to the police](http://9gag.com/gag/aVvmjYO)
- - 😝 [Man melted down at In-N-Out Burger accusing woman next to him of being racist for stopping him from touching her little daughter](http://9gag.com/gag/a2v0QVw)
- - 💣 [Not cool](http://9gag.com/gag/a7o045z)
- - 😝 [Dewey has reappeared...](http://9gag.com/gag/aO8Do1R)
- - 👉 [New Naked Gun Movie](http://9gag.com/gag/aAy4RKZ)<!-- MEMES:END -->
+ - 😝 [BCA](http://9gag.com/gag/aoy4mG0)
+ - 😝 [New Naked Gun Movie](http://9gag.com/gag/aAy4RKZ)
+ - 💣 [When she was 23, Rosemary Kennedy, the sister of JFK and RFK, had a forced lobotomy arranged by her father. The surgery left her incapacitated for the rest of her life.](http://9gag.com/gag/a1m0zZD)
+ - 😝 [In Mongolia, the horse population significantly outnumbers the human population, with a ratio of approximately 3:1. There&#39;s a Mongolian saying, `A Man without a Horse is like a Bird without Wings`.](http://9gag.com/gag/avyE27O)
+ - 👉 [Not cool](http://9gag.com/gag/a7o045z)<!-- MEMES:END -->
 
 ---
 

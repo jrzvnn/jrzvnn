@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Codex, which is building a blockchain for stablecoins, raised a $15.8M seed led by Dragonfly, with Coinbase, Circle, and others participating &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250404/p24#a250404p24)
+ - [iPhone 17 Pro predicted to cost over $2000 because of Trump tariffs](https://appleinsider.com/articles/25/04/04/iphone-17-pro-predicted-to-cost-over-2000-because-of-trump-tariffs?utm_medium=rss)
+ - [SpaceX Took a Big Step Toward Reusing Starship’s Super Heavy Booster](https://www.wired.com/story/spacex-starship-super-heavy-booster-flight-proven/)
  - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Trump delays TikTok ban again](https://www.theverge.com/news/643730/tiktok-ban-delay-donald-trump)
- - [Apple will take a $33 billion hit to its bottom line because of Trump tariffs](https://appleinsider.com/articles/25/04/04/apple-will-take-a-33-billion-hit-to-its-bottom-line-because-of-trump-tariffs?utm_medium=rss)
- - [Trump says he will sign an EO to keep TikTok running for an additional 75 days, as a deal &quot;requires more work to ensure all necessary approvals are signed&quot; &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250404/p23#a250404p23)
- - [Apple&#39;s canceled Federation Square store lives on in Apple Vision Pro](https://appleinsider.com/articles/25/04/04/apples-canceled-federation-square-store-lives-on-in-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Trump delays TikTok ban again](https://www.theverge.com/news/643730/tiktok-ban-delay-donald-trump)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

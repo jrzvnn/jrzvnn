@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HMD OffGrid Satellite Communicator Review: Fits in Your Pocket](https://www.wired.com/review/hmd-offgrid-satellite-communicator/)
+ - [Apple and iPad birthdays, iOS 18.4, and AI health on the AppleInsider Podcast](https://appleinsider.com/articles/25/04/04/apple-and-ipad-birthdays-ios-184-and-ai-health-on-the-appleinsider-podcast?utm_medium=rss)
+ - [How tariffs will change your gadgets](https://www.theverge.com/the-vergecast/643252/tariff-gadget-tech-prices-switch-2-vergecast)
  - [9 Best Protein Powders of 2025, Tested &amp; Reviewed by WIRED](https://www.wired.com/gallery/best-protein-powders/)
- - [Chainalysis estimates North Korean hackers stole over $6B in crypto over the past decade and accounted for ~60% of industry-wide theft losses in 2024 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250404/p9#a250404p9)
- - [Honda is sending its hydrogen tech to space](https://www.theverge.com/news/642905/honda-moon-hydrogen-electrolysis-oxygen-iss)
- - [CarPlay in iOS 18.4 arrives with disconnection issues for some](https://appleinsider.com/articles/25/04/04/carplay-in-ios-184-arrives-with-disconnection-issues-for-some?utm_medium=rss)
- - [Apple Watch Series 11: What to Expect From Apple&#39;s Next Big Release](https://www.cnet.com/tech/mobile/apple-watch-series-11-what-to-expect-from-apples-next-big-release/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chainalysis estimates North Korean hackers stole over $6B in crypto over the past decade and accounted for ~60% of industry-wide theft losses in 2024 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250404/p9#a250404p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

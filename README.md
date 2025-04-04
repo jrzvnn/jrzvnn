@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ring’s founder is back at Amazon](https://www.theverge.com/news/644013/amazon-ring-founder-jamie-siminoff-return)
+ - [Amazon introduces a Kindle Recaps feature that uses GenAI and moderators to create short summaries of books in a series &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250404/p32#a250404p32)
  - [We just declared a trade war with the world](https://www.theverge.com/business/643970/trade-war-consequences-crazy)
  - [Sources: StubHub, Klarna, eToro, and adtech group MNTN have paused their IPO plans as President Trump&#39;s trade war upends the global economy &lpar;Fareed Sahloul/Bloomberg&rpar;](http://www.techmeme.com/250404/p31#a250404p31)
- - [Apple stock bloodbath continues after China applies retaliatory tariffs](https://appleinsider.com/articles/25/04/04/apple-stock-bloodbath-continues-after-china-applies-retaliatory-tariffs?utm_medium=rss)
- - [Trump’s TikTok delay is ‘against the law’ top Senate Intelligence Democrat says](https://www.theverge.com/news/643964/tiktok-trump-ban-delay-warner-congress-response)
- - [Analysts say Microsoft, whose shares fell the least among top tech companies, is shielded from the worst tariff impacts due to Azure and a broad enterprise base &lpar;Fortune&rpar;](http://www.techmeme.com/250404/p30#a250404p30)<!-- TECH:END -->
+ - [Apple stock bloodbath continues after China applies retaliatory tariffs](https://appleinsider.com/articles/25/04/04/apple-stock-bloodbath-continues-after-china-applies-retaliatory-tariffs?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

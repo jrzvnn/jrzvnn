@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What Is the Meta AI Button in WhatsApp, and How Do I Remove It?](https://www.wired.com/story/what-is-the-meta-ai-button-in-whatsapp-and-how-do-i-remove-it/)
- - [Authors can no longer publish to Apple Books directly from Pages](https://appleinsider.com/articles/25/04/04/authors-can-no-longer-publish-to-apple-books-directly-from-pages?utm_medium=rss)
- - [ReMarkable Tablets Just Got a Bunch of New Templates to Boost Your Productivity](https://www.wired.com/story/remarkable-tablets-just-got-a-bunch-of-great-templates-for-productivity/)
- - [Big Tech risks losing access to Europe by embracing Trump, pushing Europe to build its own companies and platforms and letting Chinese companies expand access &lpar;Foreign Affairs&rpar;](http://www.techmeme.com/250404/p8#a250404p8)
- - [Inside Apple Podcasts: how to get the most out of Apple&#39;s player](https://appleinsider.com/inside/ios-19/tips/inside-apple-podcasts-how-to-get-the-most-out-of-apples-player?utm_medium=rss)<!-- TECH:END -->
+ - [9 Best Protein Powders of 2025, Tested &amp; Reviewed by WIRED](https://www.wired.com/gallery/best-protein-powders/)
+ - [Chainalysis estimates North Korean hackers stole over $6B in crypto over the past decade and accounted for ~60% of industry-wide theft losses in 2024 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250404/p9#a250404p9)
+ - [Honda is sending its hydrogen tech to space](https://www.theverge.com/news/642905/honda-moon-hydrogen-electrolysis-oxygen-iss)
+ - [CarPlay in iOS 18.4 arrives with disconnection issues for some](https://appleinsider.com/articles/25/04/04/carplay-in-ios-184-arrives-with-disconnection-issues-for-some?utm_medium=rss)
+ - [Apple Watch Series 11: What to Expect From Apple&#39;s Next Big Release](https://www.cnet.com/tech/mobile/apple-watch-series-11-what-to-expect-from-apples-next-big-release/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

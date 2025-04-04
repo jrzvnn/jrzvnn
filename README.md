@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Philips Hue bulbs and lighting kits are deeply discounted today only](https://www.theverge.com/tech/643379/philips-hue-bulbs-lightstrips-baseus-usb-c-beats-pill-bluetooth-sale)
+ - [Vimeo launches Vimeo Streaming, letting creators launch subscription streaming services without coding experience and with features like AI-driven translations &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/250404/p12#a250404p12)
+ - [Why I’ve covered Microsoft for 25 years](https://www.theverge.com/notepad-microsoft-newsletter/643363/microsoft-tom-warren-reporting-notepad)
  - [Here&amp;#8217;s the original source code for Microsoft&amp;#8217;s very first product](https://www.theverge.com/news/643415/microsoft-bill-gates-altair-basic-source-code)
- - [NSA director fired after Trump&amp;#8217;s meeting with right-wing influencer Laura Loomer](https://www.theverge.com/news/643425/nsa-director-timothy-haugh-removal-laura-loomer)
- - [Best Internet Providers in Denver, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-denver-co/#ftag=CAD590a51e)
- - [Nintendo Switch 2 Live Updates: Preorder Info, Treehouse Day Two and More](https://www.cnet.com/tech/gaming/switch-2-nintendo-direct-live-updates/#ftag=CAD590a51e)
- - [The Chase Sapphire Preferred 100K Welcome Bonus Won&#39;t Be Around Forever. Here&#39;s How I&#39;d Make the Most of It](https://www.cnet.com/personal-finance/credit-cards/the-chase-sapphire-preferred-100k-welcome-bonus-wont-be-around-forever-heres-how-id-make-the-most-of-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NSA director fired after Trump&amp;#8217;s meeting with right-wing influencer Laura Loomer](https://www.theverge.com/news/643425/nsa-director-timothy-haugh-removal-laura-loomer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

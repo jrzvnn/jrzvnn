@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He won the professor award !!](http://9gag.com/gag/a2v0Bm9)
- - 😝 [He did it better](http://9gag.com/gag/amomqYj)
- - 💣 [Scans of a 44 year-old man who &lpar;unknowingly&rpar; lived with 90% of his brain destroyed from hydrocephalus.](http://9gag.com/gag/aD28E4Z)
- - 😝 [Literally wtf?!?](http://9gag.com/gag/aNDQxow)
- - 👉 [In Mongolia, the horse population significantly outnumbers the human population, with a ratio of approximately 3:1. There&#39;s a Mongolian saying, `A Man without a Horse is like a Bird without Wings`.](http://9gag.com/gag/avyE27O)<!-- MEMES:END -->
+ - 😝 [In Mongolia, the horse population significantly outnumbers the human population, with a ratio of approximately 3:1. There&#39;s a Mongolian saying, `A Man without a Horse is like a Bird without Wings`.](http://9gag.com/gag/avyE27O)
+ - 😝 [No national outrage](http://9gag.com/gag/aAy4YQ2)
+ - 💣 [The definition of insanity is . . .](http://9gag.com/gag/abAW3pp)
+ - 😝 [9gag keeps removing this post. Meta, is that you?](http://9gag.com/gag/a34yY1r)
+ - 👉 [VAR referees in Bulgaria betting live](http://9gag.com/gag/a0e0m9X)<!-- MEMES:END -->
 
 ---
 

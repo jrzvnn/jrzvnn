@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inside Apple Podcasts: how to get the most out of Apple&#39;s player](https://appleinsider.com/inside/ios-19/tips/inside-apple-podcasts-how-to-get-the-most-out-of-apples-player?utm_medium=rss)
  - [China retaliates with tariff that matches Trump&amp;#8217;s](https://www.theverge.com/news/643215/china-us-tariffs-34-percent-reciprocal-trump)
- - [Survey: 35% of US adults say AI will have a negative impact in the US over the next 20 years, while 56% of AI experts say AI will have a positive impact &lpar;Pew Research Center&rpar;](http://www.techmeme.com/250404/p7#a250404p7)
- - [Lemon8 and TikTok Could Be Banned. Here&#39;s How the Apps Are Different](https://www.cnet.com/tech/services-and-software/lemon8-and-tiktok-could-be-banned-heres-how-the-apps-are-different/#ftag=CAD590a51e)
- - [iOS 18.4: All the New Controls You Can Add to Your iPhone&#39;s Control Center](https://www.cnet.com/tech/services-and-software/ios-18-4-all-the-new-controls-you-can-add-to-your-iphones-control-center/#ftag=CAD590a51e)
- - [Netflix&#39;s 18 Fantasy TV Shows You Have to See to Believe](https://www.cnet.com/tech/services-and-software/best-fantasy-tv-shows-on-netflix-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Torpedo Bats and the Physics of the Sweet Spot](https://www.wired.com/story/torpedo-bats-and-the-physics-of-the-sweet-spot/)
+ - [HMD OffGrid Satellite Communicator Review: Fits in Your Pocket](https://www.wired.com/review/hmd-offgrid-satellite-communicator/)
+ - [ReMarkable Tablets Just Got a Bunch of New Templates to Boost Your Productivity](https://www.wired.com/story/remarkable-tablets-just-got-a-bunch-of-great-templates-for-productivity/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

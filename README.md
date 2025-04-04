@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [BCA](http://9gag.com/gag/aoy4mG0)
- - 😝 [VAR referees in Bulgaria betting live](http://9gag.com/gag/a0e0m9X)
+ - 😝 [`You&#39;re not gonna like the answer`](http://9gag.com/gag/a7oVvA2)
+ - 😝 [When she was 23, Rosemary Kennedy, the sister of JFK and RFK, had a forced lobotomy arranged by her father. The surgery left her incapacitated for the rest of her life.](http://9gag.com/gag/a1m0zZD)
  - 💣 [Lol](http://9gag.com/gag/agm7W6n)
- - 😝 [Short life expectancy](http://9gag.com/gag/a870B61)
- - 👉 [Finally someone who is captured for stealing.](http://9gag.com/gag/adBQ3zM)<!-- MEMES:END -->
+ - 😝 [This is a great stick](http://9gag.com/gag/aLn4YMA)
+ - 👉 [New Naked Gun Movie](http://9gag.com/gag/aAy4RKZ)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Live action](http://9gag.com/gag/adBnyPM)
+ - 😝 [`You&#39;re not gonna like the answer`](http://9gag.com/gag/a7oVvA2)
  - 😝 [What the worst that can happen?](http://9gag.com/gag/aPA8vmw)
- - 💣 [`You&#39;re not gonna like the answer`](http://9gag.com/gag/a7oVvA2)
+ - 💣 [Bridal](http://9gag.com/gag/an7vq9n)
  - 😝 [&lpar;c&rpar; can&#39;t tell](http://9gag.com/gag/agm7ReK)
- - 👉 [VAR referees in Bulgaria betting live](http://9gag.com/gag/a0e0m9X)<!-- MEMES:END -->
+ - 👉 [He did it better](http://9gag.com/gag/amomqYj)<!-- MEMES:END -->
 
 ---
 

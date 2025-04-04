@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man melted down at In-N-Out Burger accusing woman next to him of being racist for stopping him from touching her little daughter](http://9gag.com/gag/a2v0QVw)
- - 😝 [Dunno why, but the first movie looks more realistic than the last](http://9gag.com/gag/aByV7D1)
- - 💣 [VAR referees in Bulgaria betting live](http://9gag.com/gag/a0e0m9X)
- - 😝 [No national outrage](http://9gag.com/gag/aAy4YQ2)
- - 👉 [Short life expectancy](http://9gag.com/gag/a870B61)<!-- MEMES:END -->
+ - 😝 [New Naked Gun Movie](http://9gag.com/gag/aAy4RKZ)
+ - 😝 [Short life expectancy](http://9gag.com/gag/a870B61)
+ - 💣 [Not cool](http://9gag.com/gag/a7o045z)
+ - 😝 [`Always has been`](http://9gag.com/gag/aryXjop)
+ - 👉 [Hats off to the police](http://9gag.com/gag/aVvmjYO)<!-- MEMES:END -->
 
 ---
 

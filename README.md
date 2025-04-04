@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump delays TikTok ban again](https://www.theverge.com/news/643730/tiktok-ban-delay-donald-trump)
  - [Codex, which is building a blockchain for stablecoins, raised a $15.8M seed led by Dragonfly, with Coinbase, Circle, and others participating &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250404/p24#a250404p24)
  - [iPhone 17 Pro predicted to cost over $2000 because of Trump tariffs](https://appleinsider.com/articles/25/04/04/iphone-17-pro-predicted-to-cost-over-2000-because-of-trump-tariffs?utm_medium=rss)
  - [SpaceX Took a Big Step Toward Reusing Starship’s Super Heavy Booster](https://www.wired.com/story/spacex-starship-super-heavy-booster-flight-proven/)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Trump delays TikTok ban again](https://www.theverge.com/news/643730/tiktok-ban-delay-donald-trump)<!-- TECH:END -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

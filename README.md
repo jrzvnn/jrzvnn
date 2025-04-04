@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo delays Switch 2 preorders over tariff concerns](https://www.theverge.com/news/643483/nintendo-switch-2-preoders-delayed-tariffs)
  - [Philips Hue bulbs and lighting kits are deeply discounted today only](https://www.theverge.com/tech/643379/philips-hue-bulbs-lightstrips-baseus-usb-c-beats-pill-bluetooth-sale)
- - [Vimeo launches Vimeo Streaming, letting creators launch subscription streaming services without coding experience and with features like AI-driven translations &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/250404/p12#a250404p12)
+ - [Vimeo launches Vimeo Streaming, letting creators launch subscription streaming services without any coding experience and offering features like AI translations &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/250404/p12#a250404p12)
  - [Why I’ve covered Microsoft for 25 years](https://www.theverge.com/notepad-microsoft-newsletter/643363/microsoft-tom-warren-reporting-notepad)
- - [Here&amp;#8217;s the original source code for Microsoft&amp;#8217;s very first product](https://www.theverge.com/news/643415/microsoft-bill-gates-altair-basic-source-code)
- - [NSA director fired after Trump&amp;#8217;s meeting with right-wing influencer Laura Loomer](https://www.theverge.com/news/643425/nsa-director-timothy-haugh-removal-laura-loomer)<!-- TECH:END -->
+ - [Here&amp;#8217;s the original source code for Microsoft&amp;#8217;s very first product](https://www.theverge.com/news/643415/microsoft-bill-gates-altair-basic-source-code)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

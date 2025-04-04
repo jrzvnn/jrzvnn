@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A true man of culture](http://9gag.com/gag/aE0AeyN)
- - 😝 [Bridal](http://9gag.com/gag/an7vq9n)
- - 💣 [You got any? Jusk ask as a friend](http://9gag.com/gag/a5QGpPN)
- - 😝 [In Mongolia, the horse population significantly outnumbers the human population, with a ratio of approximately 3:1. There&#39;s a Mongolian saying, `A Man without a Horse is like a Bird without Wings`.](http://9gag.com/gag/avyE27O)
- - 👉 [He did it better](http://9gag.com/gag/amomqYj)<!-- MEMES:END -->
+ - 😝 [\u272e\u272e\u2729\u2729\u2729](http://9gag.com/gag/a1m5pP8)
+ - 😝 [Cat Hugs The Lost Dog](http://9gag.com/gag/aMVn2EV)
+ - 💣 [Bill Burr ripping through journalists and news media](http://9gag.com/gag/aoy4EnA)
+ - 😝 [Don\u2019t cry! Don\u2019t cry! He\u2019s crying!](http://9gag.com/gag/aMVne0G)
+ - 👉 [Being leftist destroys your Brain](http://9gag.com/gag/ae9Vj25)<!-- MEMES:END -->
 
 ---
 

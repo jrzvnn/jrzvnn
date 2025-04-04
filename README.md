@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What the worst that can happen?](http://9gag.com/gag/aPA8vmw)
+ - 😝 [\u272e\u272e\u2729\u2729\u2729](http://9gag.com/gag/a1m5pP8)
+ - 💣 [Live action](http://9gag.com/gag/adBnyPM)
  - 😝 [Man melted down at In-N-Out Burger accusing woman next to him of being racist for stopping him from touching her little daughter](http://9gag.com/gag/a2v0QVw)
- - 😝 [Short life expectancy](http://9gag.com/gag/a870B61)
- - 💣 [Not cool](http://9gag.com/gag/a7o045z)
- - 😝 [Finally someone who is captured for stealing.](http://9gag.com/gag/adBQ3zM)
- - 👉 [In Mongolia, the horse population significantly outnumbers the human population, with a ratio of approximately 3:1. There&#39;s a Mongolian saying, `A Man without a Horse is like a Bird without Wings`.](http://9gag.com/gag/avyE27O)<!-- MEMES:END -->
+ - 👉 [He did it better](http://9gag.com/gag/amomqYj)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What the worst that can happen?](http://9gag.com/gag/aPA8vmw)
- - 😝 [`Always has been`](http://9gag.com/gag/aryXjop)
- - 💣 [Not cool](http://9gag.com/gag/a7o045z)
- - 😝 [Oh No, social credit -10000000](http://9gag.com/gag/aLnG6PW)
- - 👉 [Scans of a 44 year-old man who &lpar;unknowingly&rpar; lived with 90% of his brain destroyed from hydrocephalus.](http://9gag.com/gag/aD28E4Z)<!-- MEMES:END -->
+ - 😝 [`You&#39;re not gonna like the answer`](http://9gag.com/gag/a7oVvA2)
+ - 😝 [He did it better](http://9gag.com/gag/amomqYj)
+ - 💣 [In Mongolia, the horse population significantly outnumbers the human population, with a ratio of approximately 3:1. There&#39;s a Mongolian saying, `A Man without a Horse is like a Bird without Wings`.](http://9gag.com/gag/avyE27O)
+ - 😝 [Not cool](http://9gag.com/gag/a7o045z)
+ - 👉 [\u272e\u272e\u2729\u2729\u2729](http://9gag.com/gag/a1m5pP8)<!-- MEMES:END -->
 
 ---
 

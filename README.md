@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple stock bloodbath continues after China applies retaliatory tariffs](https://appleinsider.com/articles/25/04/04/apple-stock-bloodbath-continues-after-china-applies-retaliatory-tariffs?utm_medium=rss)
- - [On Microsoft&#39;s 50th anniversary, company executives reflect on its history and how it responds to challenges and evolves &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250404/p16#a250404p16)
- - [Everything we know so far about the Nintendo Switch 2](https://www.theverge.com/nintendo/638604/nintendo-switch-2-direct-news-trailers-stream)
- - [Sources: Klarna has halted its planned IPO in the wake of Trump&#39;s tariffs turmoil; StubHub has also delayed its IPO plans &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250404/p15#a250404p15)
- - [Nintendo delays preorders for the Switch 2 from April 9, 2025 due to concerns about Trump&#39;s tariffs but the June 5 launch date remains unchanged &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250404/p14#a250404p14)<!-- TECH:END -->
+ - [Microsoft updates Copilot with the greatest hits from other AIs](https://www.theverge.com/news/643199/microsoft-copilot-ai-new-features-memory-personalization-actions-vision)
+ - [Microsoft brings Copilot Vision to Windows and mobile for AI help in the real world](https://www.theverge.com/news/643235/microsoft-copilot-vision-windows-desktop-apps-mobile)
+ - [Microsoft Copilot can now use the web on your behalf](https://www.theverge.com/news/643276/microsoft-copilot-ai-actions-feature-availability)
+ - [FromSoftware&amp;#8217;s Miyazaki assures fans the studio will still make single-player games](https://www.theverge.com/news/643368/duskbloods-details-nintendo-switch-2-miyazaki-interview-fromsoftware-single-player-multiplayer)
+ - [Despite a tariff exemption on direct chip imports for now, the semiconductor industry faces challenges as higher prices for end products may hurt demand &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/250404/p17#a250404p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

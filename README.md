@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Believe it or not, Tariffs.](http://9gag.com/gag/aE0owr9)
- - 😝 [This is a great stick](http://9gag.com/gag/aLn4YMA)
- - 💣 [VAR referees in Bulgaria betting live](http://9gag.com/gag/a0e0m9X)
- - 😝 [You got any? Jusk ask as a friend](http://9gag.com/gag/a5QGpPN)
- - 👉 [What the worst that can happen?](http://9gag.com/gag/aPA8vmw)<!-- MEMES:END -->
+ - 😝 [Cat Hugs The Lost Dog](http://9gag.com/gag/aMVn2EV)
+ - 😝 [Bill Burr ripping through journalists and news media](http://9gag.com/gag/aoy4EnA)
+ - 💣 [Don\u2019t cry! Don\u2019t cry! He\u2019s crying!](http://9gag.com/gag/aMVne0G)
+ - 😝 [Being leftist destroys your Brain](http://9gag.com/gag/ae9Vj25)
+ - 👉 [Based Meloni](http://9gag.com/gag/a34yPNv)<!-- MEMES:END -->
 
 ---
 

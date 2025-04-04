@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The AI industry doesn’t know if Trump just killed its GPU supply](https://www.theverge.com/tech/643753/gpu-tariffs-nvidia-tsmc-chips-openai)
- - [Starlink competition is ramping up in Ukraine](https://www.theverge.com/news/643780/ukraine-eutelsat-satellite-internet-germany-starlink-competition)
- - [Trump delays TikTok ban again](https://www.theverge.com/news/643730/tiktok-ban-delay-donald-trump)
- - [Codex, which is building a blockchain for stablecoins, raised a $15.8M seed led by Dragonfly, with Coinbase, Circle, and others participating &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250404/p24#a250404p24)
- - [iPhone 17 Pro predicted to cost over $2000 because of Trump tariffs](https://appleinsider.com/articles/25/04/04/iphone-17-pro-predicted-to-cost-over-2000-because-of-trump-tariffs?utm_medium=rss)<!-- TECH:END -->
+ - [GitHub announces &quot;premium requests&quot; for GitHub Copilot, a new system that imposes rate limits when users switch from the base GPT-4o to other AI models &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250404/p25#a250404p25)
+ - [Trump delays TikTok ban for another 75 days](https://appleinsider.com/articles/25/04/04/trump-delays-tiktok-ban-for-another-75-days?utm_medium=rss)
+ - [DOGE staffer ‘Big Balls’ has access to immigration agency’s data](https://www.theverge.com/policy/643807/doge-uscis-data-naturalization-elon-musk)
+ - [Meta&amp;#8217;s fact-checking program in the US officially ends soon](https://www.theverge.com/news/643786/meta-fact-checking-program-ending)
+ - [Microsoft CEOs interrupted by another employee protestor: &amp;#8216;shame on all of you&amp;#8217;](https://www.theverge.com/news/643777/microsoft-bill-gates-steve-ballmer-satya-nadella-employee-protestor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

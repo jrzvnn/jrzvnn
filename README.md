@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple stock bloodbath continues after China applies retaliatory tariffs](https://appleinsider.com/articles/25/04/04/apple-stock-bloodbath-continues-after-china-applies-retaliatory-tariffs?utm_medium=rss)
+ - [On Microsoft&#39;s 50th anniversary, company executives reflect on its history and how it responds to challenges and evolves &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250404/p16#a250404p16)
  - [Everything we know so far about the Nintendo Switch 2](https://www.theverge.com/nintendo/638604/nintendo-switch-2-direct-news-trailers-stream)
  - [Sources: Klarna has halted its planned IPO in the wake of Trump&#39;s tariffs turmoil; StubHub has also delayed its IPO plans &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250404/p15#a250404p15)
- - [Nintendo delays preorders for the Switch 2 from April 9, 2025 due to concerns about Trump&#39;s tariffs but the June 5 launch date remains unchanged &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250404/p14#a250404p14)
- - [Nintendo Switch 2 Pre-orders in US Delayed Due to Trump&#39;s Tariffs](https://www.cnet.com/tech/gaming/nintendo-switch-2-us-pre-orders-delayed-due-to-trumps-tariffs/#ftag=CAD590a51e)
- - [Attention College Students: ChatGPT Plus Is Free for You Through May](https://www.cnet.com/tech/services-and-software/attention-college-students-chatgpt-plus-is-free-for-you-through-may/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nintendo delays preorders for the Switch 2 from April 9, 2025 due to concerns about Trump&#39;s tariffs but the June 5 launch date remains unchanged &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250404/p14#a250404p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

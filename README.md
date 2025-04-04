@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Big Tech risks losing access to Europe by embracing Trump, pushing Europe to build its own companies and platforms and letting Chinese companies expand access &lpar;Foreign Affairs&rpar;](http://www.techmeme.com/250404/p8#a250404p8)
  - [Inside Apple Podcasts: how to get the most out of Apple&#39;s player](https://appleinsider.com/inside/ios-19/tips/inside-apple-podcasts-how-to-get-the-most-out-of-apples-player?utm_medium=rss)
  - [China retaliates with tariff that matches Trump&amp;#8217;s](https://www.theverge.com/news/643215/china-us-tariffs-34-percent-reciprocal-trump)
  - [Torpedo Bats and the Physics of the Sweet Spot](https://www.wired.com/story/torpedo-bats-and-the-physics-of-the-sweet-spot/)
- - [HMD OffGrid Satellite Communicator Review: Fits in Your Pocket](https://www.wired.com/review/hmd-offgrid-satellite-communicator/)
- - [ReMarkable Tablets Just Got a Bunch of New Templates to Boost Your Productivity](https://www.wired.com/story/remarkable-tablets-just-got-a-bunch-of-great-templates-for-productivity/)<!-- TECH:END -->
+ - [HMD OffGrid Satellite Communicator Review: Fits in Your Pocket](https://www.wired.com/review/hmd-offgrid-satellite-communicator/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

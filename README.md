@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Solace, a healthcare navigation service matching patients with advocates, raised a $60M Series B led by Menlo Ventures; it raised a $14M Series A in August 2024 &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/250403/p36#a250403p36)
+ - [Bengaluru-based Scapia, which offers a travel-focused credit card and a travel app, raised a $40M Series B led by Peak XV, bringing its total funding to $72M &lpar;The Economic Times&rpar;](http://www.techmeme.com/250403/p38#a250403p38)
+ - [Report: Brazil&#39;s antitrust regulator is investigating Apple over ATT, saying Apple collects user data &quot;under more favorable conditions&quot;, after Meta complained &lpar;Filipe Espósito/9to5Mac&rpar;](http://www.techmeme.com/250403/p37#a250403p37)
+ - [Health care navigation startup Solace, which matches patients with advocates, raised a $60M Series B led by Menlo Ventures, after a $14M Series A in August 2024 &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/250403/p36#a250403p36)
  - [Superman’s latest trailer introduces his team of robot assistants](https://www.theverge.com/news/643100/superman-robots-trailer)
- - [More Apple chips could be made in US thanks to TSMC &amp; Intel joint venture](https://appleinsider.com/articles/25/04/04/more-apple-chips-could-be-made-in-us-thanks-to-tsmc-intel-joint-venture?utm_medium=rss)
- - [OpenAI makes ChatGPT Plus free for college students in the US and Canada through the end of May, intensifying competition with Anthropic in higher education &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/250403/p35#a250403p35)
- - [Apple begins notifying WWDC 2025 invite lottery winners](https://appleinsider.com/articles/25/04/04/apple-begins-notifying-wwdc-2025-invite-lottery-winners?utm_medium=rss)<!-- TECH:END -->
+ - [More Apple chips could be made in US thanks to TSMC &amp; Intel joint venture](https://appleinsider.com/articles/25/04/04/more-apple-chips-could-be-made-in-us-thanks-to-tsmc-intel-joint-venture?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

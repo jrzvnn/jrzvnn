@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google releases API pricing for Gemini 2.5 Pro: $1.25 per 1M input tokens and $10 for 1M output tokens for prompts up to 200K tokens, its priciest model yet &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250404/p20#a250404p20)
+ - [US tariffs: how Trump’s tax is hitting Big Tech and beyond](https://www.theverge.com/604742/trump-tariffs-canada-mexico-china-updates)
+ - [‘Careless People’ author to testify during a Senate hearing about Facebook](https://www.theverge.com/news/643645/careless-people-sarah-wynn-williams-testify-senate)
  - [Here’s how Nintendo Switch 2 preorders will work](https://www.theverge.com/tech/24342715/nintendo-switch-2-preorder-price-release-date-availability-how-to-buy)
- - [Microsoft brings Copilot Vision feature to Windows and its iOS and Android apps, letting it analyze real-time video from a mobile camera, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250404/p19#a250404p19)
- - [Microsoft Copilot adds support for memory, personalization, web-based actions, podcast creation, camera and screen analysis, deep research, and more &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250404/p18#a250404p18)
- - [Microsoft updates Copilot with the greatest hits from other AIs](https://www.theverge.com/news/643199/microsoft-copilot-ai-new-features-memory-personalization-actions-vision)
- - [Microsoft brings Copilot Vision to Windows and mobile for AI help in the real world](https://www.theverge.com/news/643235/microsoft-copilot-vision-windows-desktop-apps-mobile)<!-- TECH:END -->
+ - [Microsoft brings Copilot Vision feature to Windows and its iOS and Android apps, letting it analyze real-time video from a mobile camera, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250404/p19#a250404p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

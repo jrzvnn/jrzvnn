@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Jaguar Land Rover pauses US shipments over Trump tariffs](https://www.theverge.com/news/644055/jaguar-land-rover-shipments-pause-april-trump-tariffs)
  - [In backing Trump, effective accelerationists like Musk and Andreessen got a &quot;Decel-in-Chief&quot;, who instigated a brain drain and tariffs that hurt tech companies &lpar;404 Media&rpar;](http://www.techmeme.com/250405/p10#a250405p10)
- - [The Zelle App Has Shut Down. Here&#39;s How You Can Still Send Money Digitally](https://www.cnet.com/personal-finance/banking/the-zelle-app-has-shut-down-heres-how-you-can-still-send-money-digitally/#ftag=CAD590a51e)
  - [Our 9 Favorite Pizza Ovens: Wood, Gas, and Electric &lpar;2025&rpar;](https://www.wired.com/gallery/best-backyard-pizza-ovens/)
- - [Bill Gates Has Published the Original Microsoft Source Code](https://www.cnet.com/tech/computing/bill-gates-has-published-the-original-microsoft-source-code/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
+ - [Palworld review for Mac: &#39;Pokemon with guns&#39; is a massive understatement](https://appleinsider.com/articles/25/04/05/palworld-review-for-mac-pokemon-with-guns-is-a-massive-understatement?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

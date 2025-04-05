@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked docs show Outlier and Scale AI use freelancers to write prompts about suicide, abuse, and terrorism to stress-test AI, urging creativity but banning CSAM &lpar;Effie Webb/Business Insider&rpar;](http://www.techmeme.com/250405/p8#a250405p8)
- - [The Best Protein Bar: 5 Dietitians Explain Which Ingredients to Look For](https://www.cnet.com/health/best-protein-bar-dietitians-ingredients/#ftag=CAD590a51e)
- - [Get Ready for &#39;The White Lotus&#39; Season 3 Finale: 5 Burning Questions and How to Watch](https://www.cnet.com/tech/services-and-software/get-ready-for-the-white-lotus-season-3-finale-5-burning-questions-and-how-to-watch/#ftag=CAD590a51e)
- - [Men&#39;s March Madness 2025: How to Watch the Final Four Today](https://www.cnet.com/tech/services-and-software/mens-march-madness-2025-how-to-watch-the-final-four-today/#ftag=CAD590a51e)
- - [How the GameCube Controller Works on Nintendo Switch 2—and How You Can Get One](https://www.wired.com/story/how-the-gamecube-controller-works-on-nintendo-switch-2-and-how-you-can-get-one/)<!-- TECH:END -->
+ - [The 45 Best Movies on Netflix Right Now &lpar;April 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 46 Best Shows on Netflix Right Now &lpar;April 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
+ - [‘Views’ are lies](https://www.theverge.com/social/639811/view-counts-tiktok-instagram-x-youtube-lies)
+ - [Best Internet Providers in Chandler, Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-chandler-az/#ftag=CAD590a51e)
+ - [Battery, Bump and Budget: Comparing Google Pixel 9A to Pixel 9, 9 Pro and 9 Pro XL](https://www.cnet.com/tech/mobile/battery-bump-and-budget-comparing-google-pixel-9a-to-pixel-9-9-pro-and-9pro-xl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

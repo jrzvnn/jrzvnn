@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Tron: Ares blends the real world with the digital in its first trailer](https://www.theverge.com/news/644047/tron-ares-first-trailer-poster-jared-leto-jeff-bridges)
  - [Joel Kaplan says Meta&#39;s US fact-checking program will be over by Monday, and Community Notes will start appearing on Facebook, Threads, and Instagram &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250405/p11#a250405p11)
  - [DOGE Is Planning a Hackathon at the IRS. It Wants Easier Access to Taxpayer Data](https://www.wired.com/story/doge-hackathon-irs-data-palantir/)
- - [The 7 writing apps I used to start and finish my book](https://www.theverge.com/apps/642131/7-writing-apps-book-scrivener-bear-iawriter)
- - [Jaguar Land Rover pauses US shipments over Trump tariffs](https://www.theverge.com/news/644055/jaguar-land-rover-shipments-pause-april-trump-tariffs)<!-- TECH:END -->
+ - [La Liga Soccer Livestream: How to Watch Barcelona vs. Betis From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-barcelona-vs-betis-from-anywhere/#ftag=CAD590a51e)
+ - [The Final Season of &#39;The Righteous Gemstones&#39; Is Here: Episode 5 Release Details](https://www.cnet.com/tech/services-and-software/the-final-season-of-the-righteous-gemstones-is-here-episode-5-release-details/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

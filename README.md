@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Selfie](http://9gag.com/gag/a87DYPZ)
- - 😝 [You came to the wrong neighborhood fool](http://9gag.com/gag/aVvmWyw)
- - 💣 [Pees his pants](http://9gag.com/gag/aLnGBmA)
- - 😝 [I like my rig clean](http://9gag.com/gag/awyLK54)
- - 👉 [Let down your weave yo!](http://9gag.com/gag/aYQPwYx)<!-- MEMES:END -->
+ - 😝 [The Greatest FBI Mystery Ever](http://9gag.com/gag/a9y8d4m)
+ - 😝 [Hey Netflix, what is wrong with you?](http://9gag.com/gag/a34y3P8)
+ - 💣 [This is why nobody wants to watch the WNBA even at its `best`](http://9gag.com/gag/aE0oz7p)
+ - 😝 [Let down your weave yo!](http://9gag.com/gag/aYQPwYx)
+ - 👉 [Hey Steve, you ever did reenactment?](http://9gag.com/gag/aByPRD1)<!-- MEMES:END -->
 
 ---
 

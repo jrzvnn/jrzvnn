@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Verizon’s Price Lock, a New Rolex, and Withings’ Blood Pressure Tech—Your Gear News of the Week](https://www.wired.com/story/verizons-price-lock-a-new-rolex-and-withings-blood-pressure-tech-your-gear-news-of-the-week/)
+ - [The 11 Most WIRED Watches That Dropped at Watches &amp; Wonders 2025](https://www.wired.com/story/the-11-most-wired-watches-that-dropped-at-watches-and-wonders-2025/)
  - [Trump’s Tariffs Are Threatening the US Semiconductor Revival](https://www.wired.com/story/trump-tariffs-impact-semiconductors-chips/)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 5, #194](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-5-194/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for April 5, #398](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-5-398/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for April 5, #664](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-5-664/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for April 5, #1386](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-5-1386/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 5, #398](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-5-398/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

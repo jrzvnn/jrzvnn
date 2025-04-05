@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What kinda dog is this ?](http://9gag.com/gag/a34ydNN)
  - 😝 [You came to the wrong neighborhood fool](http://9gag.com/gag/aVvmWyw)
- - 💣 [World IQ map by country makes sense](http://9gag.com/gag/aoy4jR2)
- - 😝 [Memes i stole, dumb or dank, Idgaf](http://9gag.com/gag/ajPBr51)
+ - 😝 [Pees his pants](http://9gag.com/gag/aLnGBmA)
+ - 💣 [Memes i stole, dumb or dank, Idgaf](http://9gag.com/gag/ajPBr51)
+ - 😝 [World IQ map by country makes sense](http://9gag.com/gag/aoy4jR2)
  - 👉 [I like my rig clean](http://9gag.com/gag/awyLK54)<!-- MEMES:END -->
 
 ---

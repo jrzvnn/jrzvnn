@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [NSA Chief Ousted Amid Trump Loyalty Firing Spree](https://www.wired.com/story/security-news-this-week-nsa-chief-ousted-amid-trump-loyalty-bloodbath/)
+ - [iOS 18.4 Brings New Emoji, Additional Controls and More to Your iPhone](https://www.cnet.com/tech/services-and-software/ios-18-4-brings-new-emoji-additonal-controls-and-more-to-your-iphone/#ftag=CAD590a51e)
  - [Verizon’s Price Lock, a New Rolex, and Withings’ Blood Pressure Tech—Your Gear News of the Week](https://www.wired.com/story/verizons-price-lock-a-new-rolex-and-withings-blood-pressure-tech-your-gear-news-of-the-week/)
  - [The 11 Most WIRED Watches That Dropped at Watches &amp; Wonders 2025](https://www.wired.com/story/the-11-most-wired-watches-that-dropped-at-watches-and-wonders-2025/)
- - [Trump’s Tariffs Are Threatening the US Semiconductor Revival](https://www.wired.com/story/trump-tariffs-impact-semiconductors-chips/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 5, #194](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-5-194/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Should You Buy a New iPhone This Weekend Before Tariffs Send Prices Soaring?](https://www.cnet.com/personal-finance/banking/should-you-buy-a-new-iphone-this-weekend-before-tariffs-send-prices-soaring/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What the worst that can happen?](http://9gag.com/gag/aPA8vmw)
  - 😝 [Selfie](http://9gag.com/gag/a87DYPZ)
+ - 😝 [Yeah it&#39;s an understanding. Don&#39;t mess with the dog](http://9gag.com/gag/aByPKRZ)
  - 💣 [This is why nobody wants to watch the WNBA even at its `best`](http://9gag.com/gag/aE0oz7p)
- - 😝 [I have bad feeling about this](http://9gag.com/gag/aryZK7X)
- - 👉 [Hey Netflix, what is wrong with you?](http://9gag.com/gag/a34y3P8)<!-- MEMES:END -->
+ - 😝 [Pees his pants](http://9gag.com/gag/aLnGBmA)
+ - 👉 [World IQ map by country makes sense](http://9gag.com/gag/aoy4jR2)<!-- MEMES:END -->
 
 ---
 

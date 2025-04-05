@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Affordable Car Is About to Go Extinct in the US](https://www.wired.com/story/trump-tariffs-affordable-cars-extinct-united-states/)
- - [Analysis: tech companies have pledged at least $1.4T in US spending since Trump was elected, although many of the plans aren&#39;t new and not all will be fulfilled &lpar;Bloomberg&rpar;](http://www.techmeme.com/250405/p7#a250405p7)
- - [Crunchbase: global VC funding reached $113B in Q1 2025, up 54% YoY, buoyed by OpenAI&#39;s $40B deal; PitchBook says 77% of US deal value in Q1 2025 went to AI &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250405/p6#a250405p6)
- - [ChatGPT Plus Is Free for College Students, for Now. Here&#39;s What to Know](https://www.cnet.com/tech/services-and-software/attention-college-students-chatgpt-plus-is-free-for-you-through-may/#ftag=CAD590a51e)
- - [New Jersey Governor Phil Murphy signs a law criminalizing the &quot;deceptive and dangerous&quot; creation and sharing of deepfakes, including fake AI nudes of minors &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/250405/p5#a250405p5)<!-- TECH:END -->
+ - [Trump’s Tariffs Are Threatening the US Semiconductor Revival](https://www.wired.com/story/trump-tariffs-impact-semiconductors-chips/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 5, #194](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-5-194/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 5, #398](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-5-398/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for April 5, #664](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-5-664/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for April 5, #1386](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-5-1386/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

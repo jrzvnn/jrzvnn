@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He didn&#39;t find it](http://9gag.com/gag/aYQPw7O)
- - 😝 [Yeah it&#39;s an understanding. Don&#39;t mess with the dog](http://9gag.com/gag/aByPKRZ)
- - 💣 [World IQ map by country makes sense](http://9gag.com/gag/aoy4jR2)
- - 😝 [GTA 6 looks weird](http://9gag.com/gag/a0e6Lxd)
- - 👉 [Would someone take him/her/they away?](http://9gag.com/gag/axybGYD)<!-- MEMES:END -->
+ - 😝 [I like my rig clean](http://9gag.com/gag/awyLK54)
+ - 😝 [World IQ map by country makes sense](http://9gag.com/gag/aoy4jR2)
+ - 💣 [This is why nobody wants to watch the WNBA even at its `best`](http://9gag.com/gag/aE0oz7p)
+ - 😝 [The Greatest FBI Mystery Ever](http://9gag.com/gag/a9y8d4m)
+ - 👉 [I have bad feeling about this](http://9gag.com/gag/aryZK7X)<!-- MEMES:END -->
 
 ---
 

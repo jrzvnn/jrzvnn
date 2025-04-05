@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9gag keeps removing this post. Meta, is that you?](http://9gag.com/gag/a34yY1r)
- - 😝 [Bridal](http://9gag.com/gag/an7vq9n)
- - 💣 [He did it better](http://9gag.com/gag/amomqYj)
- - 😝 [Switch 2](http://9gag.com/gag/aNDVrb0)
- - 👉 [Hey Steve, you ever did reenactment?](http://9gag.com/gag/aByPRD1)<!-- MEMES:END -->
+ - 😝 [I wonder why ..hahaha](http://9gag.com/gag/apRPqbM)
+ - 😝 [He did it better](http://9gag.com/gag/amomqYj)
+ - 💣 [Switch 2](http://9gag.com/gag/aNDVrb0)
+ - 😝 [Hey Steve, you ever did reenactment?](http://9gag.com/gag/aByPRD1)
+ - 👉 [`You&#39;re not gonna like the answer`](http://9gag.com/gag/a7oVvA2)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dewey has reappeared...](http://9gag.com/gag/aO8Do1R)
- - 😝 [In Mongolia, the horse population significantly outnumbers the human population, with a ratio of approximately 3:1. There&#39;s a Mongolian saying, `A Man without a Horse is like a Bird without Wings`.](http://9gag.com/gag/avyE27O)
- - 💣 [Hey Steve, you ever did reenactment?](http://9gag.com/gag/aByPRD1)
- - 😝 [I wonder why ..hahaha](http://9gag.com/gag/apRPqbM)
- - 👉 [Switch 2](http://9gag.com/gag/aNDVrb0)<!-- MEMES:END -->
+ - 😝 [How easy guys to be entertained](http://9gag.com/gag/aMVn106)
+ - 😝 [No national outrage](http://9gag.com/gag/aAy4YQ2)
+ - 💣 [School should be a place where kids want to be](http://9gag.com/gag/a9y8LdL)
+ - 😝 [This Laugh Should Be Copyrighted Or Criminalized](http://9gag.com/gag/axybZA1)
+ - 👉 [Believe it or not, Tariffs.](http://9gag.com/gag/aE0owr9)<!-- MEMES:END -->
 
 ---
 

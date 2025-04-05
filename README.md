@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Greatest FBI Mystery Ever](http://9gag.com/gag/a9y8d4m)
  - 😝 [I like my rig clean](http://9gag.com/gag/awyLK54)
- - 💣 [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)
+ - 😝 [Switch 2](http://9gag.com/gag/aNDVrb0)
+ - 💣 [Hey Steve, you ever did reenactment?](http://9gag.com/gag/aByPRD1)
  - 😝 [This is why nobody wants to watch the WNBA even at its `best`](http://9gag.com/gag/aE0oz7p)
  - 👉 [World IQ map by country makes sense](http://9gag.com/gag/aoy4jR2)<!-- MEMES:END -->
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is why nobody wants to watch the WNBA even at its `best`](http://9gag.com/gag/aE0oz7p)
- - 😝 [Hey Steve, you ever did reenactment?](http://9gag.com/gag/aByPRD1)
- - 💣 [Memes i stole, dumb or dank, Idgaf](http://9gag.com/gag/ajPBr51)
+ - 😝 [The sniff has meme potential](http://9gag.com/gag/aO8DK72)
+ - 😝 [I like my rig clean](http://9gag.com/gag/awyLK54)
+ - 💣 [Hey Steve, you ever did reenactment?](http://9gag.com/gag/aByPRD1)
  - 😝 [Selfie](http://9gag.com/gag/a87DYPZ)
- - 👉 [Additional &#39;nutrition&#39;](http://9gag.com/gag/aPA84oK)<!-- MEMES:END -->
+ - 👉 [World IQ map by country makes sense](http://9gag.com/gag/aoy4jR2)<!-- MEMES:END -->
 
 ---
 

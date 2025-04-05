@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I like my rig clean](http://9gag.com/gag/awyLK54)
- - 😝 [Color me brown, and call me Guinness book holder](http://9gag.com/gag/a5QGe4q)
- - 💣 [The sniff has meme potential](http://9gag.com/gag/aO8DK72)
+ - 😝 [Additional &#39;nutrition&#39;](http://9gag.com/gag/aPA84oK)
+ - 💣 [Color me brown, and call me Guinness book holder](http://9gag.com/gag/a5QGe4q)
  - 😝 [Memes i stole, dumb or dank, Idgaf](http://9gag.com/gag/ajPBr51)
- - 👉 [You came to the wrong neighborhood fool](http://9gag.com/gag/aVvmWyw)<!-- MEMES:END -->
+ - 👉 [`You&#39;re not gonna like the answer`](http://9gag.com/gag/a7oVvA2)<!-- MEMES:END -->
 
 ---
 

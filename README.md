@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I like my rig clean](http://9gag.com/gag/awyLK54)
- - 😝 [Surely it can\u2019t be that hard to not cheat](http://9gag.com/gag/aAy4VdZ)
- - 💣 [Switch 2](http://9gag.com/gag/aNDVrb0)
+ - 😝 [What kinda dog is this ?](http://9gag.com/gag/a34ydNN)
+ - 💣 [They give us reasons](http://9gag.com/gag/aE0odbn)
  - 😝 [Hey Steve, you ever did reenactment?](http://9gag.com/gag/aByPRD1)
- - 👉 [He did it better](http://9gag.com/gag/amomqYj)<!-- MEMES:END -->
+ - 👉 [Switch 2](http://9gag.com/gag/aNDVrb0)<!-- MEMES:END -->
 
 ---
 

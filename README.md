@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Crunchbase: global VC funding reached $113B in Q1 2025, up 54% YoY, buoyed by OpenAI&#39;s $40B deal; PitchBook says 77% of US deal value in Q1 2025 went to AI &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250405/p6#a250405p6)
+ - [ChatGPT Plus Is Free for College Students, for Now. Here&#39;s What to Know](https://www.cnet.com/tech/services-and-software/attention-college-students-chatgpt-plus-is-free-for-you-through-may/#ftag=CAD590a51e)
  - [New Jersey Governor Phil Murphy signs a law criminalizing the &quot;deceptive and dangerous&quot; creation and sharing of deepfakes, including fake AI nudes of minors &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/250405/p5#a250405p5)
  - [Google announces Sec-Gemini v1, an experimental AI model for cybersecurity, claiming it outperforms others on the leading CTI-MCQ threat intelligence benchmark &lpar;Google Online Security Blog&rpar;](http://www.techmeme.com/250405/p4#a250405p4)
- - [Utah-based SchoolAI, an AI-powered teaching and learning platform used in 1M+ classrooms across 80+ countries, raised a $25M Series A led by Insight Partners &lpar;FinSMEs&rpar;](http://www.techmeme.com/250405/p3#a250405p3)
- - [A US federal judge decides Elon Musk&#39;s lawsuit against OpenAI will go to a jury trial in spring 2026; Musk and OpenAI agreed to fast-track the trial last month &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/250405/p2#a250405p2)<!-- TECH:END -->
+ - [Utah-based SchoolAI, an AI-powered teaching and learning platform used in 1M+ classrooms across 80+ countries, raised a $25M Series A led by Insight Partners &lpar;FinSMEs&rpar;](http://www.techmeme.com/250405/p3#a250405p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

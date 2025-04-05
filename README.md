@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Schedule 1, a drug-dealing simulator made by a single developer, tops Steam charts with an estimated 2M+ copies sold after going viral on streams and TikTok &lpar;Harry Alston/TheGamer&rpar;](http://www.techmeme.com/250405/p12#a250405p12)
+ - [Best Stand-Up Paddleboards for 2025](https://www.cnet.com/health/fitness/best-stand-up-paddle-boards/#ftag=CAD590a51e)
  - [Tron: Ares blends the real world with the digital in its first trailer](https://www.theverge.com/news/644047/tron-ares-first-trailer-poster-jared-leto-jeff-bridges)
  - [Joel Kaplan says Meta&#39;s US fact-checking program will be over by Monday, and Community Notes will start appearing on Facebook, Threads, and Instagram &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250405/p11#a250405p11)
- - [DOGE Is Planning a Hackathon at the IRS. It Wants Easier Access to Taxpayer Data](https://www.wired.com/story/doge-hackathon-irs-data-palantir/)
- - [La Liga Soccer Livestream: How to Watch Barcelona vs. Betis From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-barcelona-vs-betis-from-anywhere/#ftag=CAD590a51e)
- - [The Final Season of &#39;The Righteous Gemstones&#39; Is Here: Episode 5 Release Details](https://www.cnet.com/tech/services-and-software/the-final-season-of-the-righteous-gemstones-is-here-episode-5-release-details/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DOGE Is Planning a Hackathon at the IRS. It Wants Easier Access to Taxpayer Data](https://www.wired.com/story/doge-hackathon-irs-data-palantir/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

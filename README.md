@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I like my rig clean](http://9gag.com/gag/awyLK54)
- - 😝 [World IQ map by country makes sense](http://9gag.com/gag/aoy4jR2)
+ - 😝 [Hey Netflix, what is wrong with you?](http://9gag.com/gag/a34y3P8)
+ - 😝 [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)
  - 💣 [This is why nobody wants to watch the WNBA even at its `best`](http://9gag.com/gag/aE0oz7p)
- - 😝 [The Greatest FBI Mystery Ever](http://9gag.com/gag/a9y8d4m)
- - 👉 [I have bad feeling about this](http://9gag.com/gag/aryZK7X)<!-- MEMES:END -->
+ - 😝 [You came to the wrong neighborhood fool](http://9gag.com/gag/aVvmWyw)
+ - 👉 [Let down your weave yo!](http://9gag.com/gag/aYQPwYx)<!-- MEMES:END -->
 
 ---
 

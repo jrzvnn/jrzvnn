@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [What kinda dog is this ?](http://9gag.com/gag/a34ydNN)
- - 😝 [Switch 2](http://9gag.com/gag/aNDVrb0)
- - 💣 [Memes i stole, dumb or dank, Idgaf](http://9gag.com/gag/ajPBr51)
- - 😝 [World IQ map by country makes sense](http://9gag.com/gag/aoy4jR2)
+ - 😝 [You came to the wrong neighborhood fool](http://9gag.com/gag/aVvmWyw)
+ - 💣 [World IQ map by country makes sense](http://9gag.com/gag/aoy4jR2)
+ - 😝 [Memes i stole, dumb or dank, Idgaf](http://9gag.com/gag/ajPBr51)
  - 👉 [I like my rig clean](http://9gag.com/gag/awyLK54)<!-- MEMES:END -->
 
 ---

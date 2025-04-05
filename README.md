@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Greatest FBI Mystery Ever](http://9gag.com/gag/a9y8d4m)
- - 😝 [Hey Netflix, what is wrong with you?](http://9gag.com/gag/a34y3P8)
- - 💣 [This is why nobody wants to watch the WNBA even at its `best`](http://9gag.com/gag/aE0oz7p)
- - 😝 [Let down your weave yo!](http://9gag.com/gag/aYQPwYx)
- - 👉 [Hey Steve, you ever did reenactment?](http://9gag.com/gag/aByPRD1)<!-- MEMES:END -->
+ - 😝 [Hootie party was a blast](http://9gag.com/gag/ae9VpMW)
+ - 😝 [Memes i stole, dumb or dank, Idgaf](http://9gag.com/gag/ajPBr51)
+ - 💣 [Switch 2](http://9gag.com/gag/aNDVrb0)
+ - 😝 [This is why nobody wants to watch the WNBA even at its `best`](http://9gag.com/gag/aE0oz7p)
+ - 👉 [Hey Netflix, what is wrong with you?](http://9gag.com/gag/a34y3P8)<!-- MEMES:END -->
 
 ---
 

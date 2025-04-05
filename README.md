@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [BBC cries foul over lack of branding for its Apple News stories](https://appleinsider.com/articles/25/04/05/bbc-cries-foul-over-lack-of-branding-for-its-apple-news-stories?utm_medium=rss)
  - [Schedule 1, a drug-dealing simulator made by a single developer, tops Steam charts with an estimated 2M+ copies sold after going viral on streams and TikTok &lpar;Harry Alston/TheGamer&rpar;](http://www.techmeme.com/250405/p12#a250405p12)
  - [Best Stand-Up Paddleboards for 2025](https://www.cnet.com/health/fitness/best-stand-up-paddle-boards/#ftag=CAD590a51e)
  - [Tron: Ares blends the real world with the digital in its first trailer](https://www.theverge.com/news/644047/tron-ares-first-trailer-poster-jared-leto-jeff-bridges)
- - [Joel Kaplan says Meta&#39;s US fact-checking program will be over by Monday, and Community Notes will start appearing on Facebook, Threads, and Instagram &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250405/p11#a250405p11)
- - [DOGE Is Planning a Hackathon at the IRS. It Wants Easier Access to Taxpayer Data](https://www.wired.com/story/doge-hackathon-irs-data-palantir/)<!-- TECH:END -->
+ - [Joel Kaplan says Meta&#39;s US fact-checking program will be over by Monday, and Community Notes will start appearing on Facebook, Threads, and Instagram &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250405/p11#a250405p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

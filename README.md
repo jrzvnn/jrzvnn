@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google announces Sec-Gemini v1, an experimental AI model for cybersecurity, claiming it outperforms others on the leading CTI-MCQ threat intelligence benchmark &lpar;Google Online Security Blog&rpar;](http://www.techmeme.com/250405/p4#a250405p4)
  - [Utah-based SchoolAI, an AI-powered teaching and learning platform used in 1M+ classrooms across 80+ countries, raised a $25M Series A led by Insight Partners &lpar;FinSMEs&rpar;](http://www.techmeme.com/250405/p3#a250405p3)
  - [A US federal judge decides Elon Musk&#39;s lawsuit against OpenAI will go to a jury trial in spring 2026; Musk and OpenAI agreed to fast-track the trial last month &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/250405/p2#a250405p2)
  - [SensorTower: users in India have spent $8M on ChatGPT subscriptions through IAP since 2023, not including web app purchases, versus ~$330M spent by US users &lpar;TechCrunch&rpar;](http://www.techmeme.com/250405/p1#a250405p1)
- - [Sources: enterprise AI search startup Glean is in talks to raise hundreds of millions, including money to buy employee shares, at an estimated ~$7B valuation &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250404/p35#a250404p35)
- - [Trump’s tariffs killed his TikTok deal](https://www.theverge.com/command-line-newsletter/644038/trumps-tariffs-tiktok-deal-china-bytedance)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, April 5](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-april-5/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I like my rig clean](http://9gag.com/gag/awyLK54)
- - 😝 [Additional &#39;nutrition&#39;](http://9gag.com/gag/aPA84oK)
- - 💣 [Color me brown, and call me Guinness book holder](http://9gag.com/gag/a5QGe4q)
- - 😝 [Memes i stole, dumb or dank, Idgaf](http://9gag.com/gag/ajPBr51)
- - 👉 [`You&#39;re not gonna like the answer`](http://9gag.com/gag/a7oVvA2)<!-- MEMES:END -->
+ - 😝 [This is why nobody wants to watch the WNBA even at its `best`](http://9gag.com/gag/aE0oz7p)
+ - 😝 [The sniff has meme potential](http://9gag.com/gag/aO8DK72)
+ - 💣 [Switch 2](http://9gag.com/gag/aNDVrb0)
+ - 😝 [Selfie](http://9gag.com/gag/a87DYPZ)
+ - 👉 [Additional &#39;nutrition&#39;](http://9gag.com/gag/aPA84oK)<!-- MEMES:END -->
 
 ---
 

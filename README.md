@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [More than 1,200 rallies rally worldwide protest Trump and Musk](https://www.theverge.com/news/644113/hands-off-rally-protests-trump-musk-footage)
- - [Meta launches Llama 4 Maverick with 400B parameters and Scout with 109B parameters and a 10M context window, and previews Behemoth with 2T total parameters &lpar;Meta&rpar;](http://www.techmeme.com/250405/p14#a250405p14)
- - [OpenAI and Google reject the UK&#39;s proposal to allow training AI on copyrighted work without permission unless rights holders opt out to &quot;reserve their rights&quot; &lpar;Joseph Bambridge/Politico&rpar;](http://www.techmeme.com/250405/p13#a250405p13)
- - [Microsoft has created an AI-generated version of Quake](https://www.theverge.com/news/644117/microsoft-quake-ii-ai-generated-tech-demo-muse-ai-model-copilot)
- - [Stephen Amell Suits Up in Legal Spinoff &#39;Suits LA&#39;: Here&#39;s How to Watch Episode 7](https://www.cnet.com/tech/services-and-software/stephen-amell-suits-up-legal-spinoff-suits-la-how-to-watch-episode-7/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta updates Meta AI in WhatsApp, Messenger, Instagram Direct, and the Meta.AI website with Llama 4 in 40 countries; multimodal features are US-only in English &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250405/p15#a250405p15)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 6, #195](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-6-195/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for April 6, #665](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-6-665/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 6, #399](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-6-399/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for April 6, #1387](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-6-1387/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

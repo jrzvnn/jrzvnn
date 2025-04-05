@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DOGE Is Planning a Hackathon at the IRS. It Wants Easier Access to Taxpayer Data](https://www.wired.com/story/doge-hackathon-irs-data-palantir/)
+ - [The 7 writing apps I used to start and finish my book](https://www.theverge.com/apps/642131/7-writing-apps-book-scrivener-bear-iawriter)
  - [Jaguar Land Rover pauses US shipments over Trump tariffs](https://www.theverge.com/news/644055/jaguar-land-rover-shipments-pause-april-trump-tariffs)
- - [In backing Trump, effective accelerationists like Musk and Andreessen got a &quot;Decel-in-Chief&quot;, who instigated a brain drain and tariffs that hurt tech companies &lpar;404 Media&rpar;](http://www.techmeme.com/250405/p10#a250405p10)
- - [Our 9 Favorite Pizza Ovens: Wood, Gas, and Electric &lpar;2025&rpar;](https://www.wired.com/gallery/best-backyard-pizza-ovens/)
- - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [Palworld review for Mac: &#39;Pokemon with guns&#39; is a massive understatement](https://appleinsider.com/articles/25/04/05/palworld-review-for-mac-pokemon-with-guns-is-a-massive-understatement?utm_medium=rss)<!-- TECH:END -->
+ - [In backing Trump, effective accelerationists like Musk and Andreessen got a &quot;Decel-in-Chief&quot;, who instigated a brain drain and tariffs that hurt tech companies &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250405/p10#a250405p10)
+ - [The Zelle App Has Shut Down. Here&#39;s How You Can Still Send Money Digitally](https://www.cnet.com/personal-finance/banking/the-zelle-app-has-shut-down-heres-how-you-can-still-send-money-digitally/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

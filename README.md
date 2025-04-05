@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I like my rig clean](http://9gag.com/gag/awyLK54)
- - 😝 [Color me brown, and call me Guinness book holder](http://9gag.com/gag/a5QGe4q)
+ - 😝 [Additional &#39;nutrition&#39;](http://9gag.com/gag/aPA84oK)
  - 💣 [British man becomes a minority in his own land](http://9gag.com/gag/awyLKz8)
- - 😝 [Bridal](http://9gag.com/gag/an7vq9n)
- - 👉 [`You&#39;re not gonna like the answer`](http://9gag.com/gag/a7oVvA2)<!-- MEMES:END -->
+ - 😝 [`You&#39;re not gonna like the answer`](http://9gag.com/gag/a7oVvA2)
+ - 👉 [Hey Steve, you ever did reenactment?](http://9gag.com/gag/aByPRD1)<!-- MEMES:END -->
 
 ---
 

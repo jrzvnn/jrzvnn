@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Leaked docs show Outlier and Scale AI use freelancers to write prompts about suicide, abuse, and terrorism to stress-test AI, urging creativity but banning CSAM &lpar;Effie Webb/Business Insider&rpar;](http://www.techmeme.com/250405/p8#a250405p8)
- - [How the GameCube Controller Works on Nintendo Switch 2—and How You Can Get One](https://www.wired.com/story/how-the-gamecube-controller-works-on-nintendo-switch-2-and-how-you-can-get-one/)
- - [Welcome to the Worst Allergy Season Ever](https://www.wired.com/story/welcome-to-the-worst-allergy-season-ever-pollen/)
- - [NSA Chief Ousted Amid Trump Loyalty Firing Spree](https://www.wired.com/story/security-news-this-week-nsa-chief-ousted-amid-trump-loyalty-bloodbath/)
- - [iOS 18.4 Brings New Emoji, Additional Controls and More to Your iPhone](https://www.cnet.com/tech/services-and-software/ios-18-4-brings-new-emoji-additonal-controls-and-more-to-your-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Protein Bar: 5 Dietitians Explain Which Ingredients to Look For](https://www.cnet.com/health/best-protein-bar-dietitians-ingredients/#ftag=CAD590a51e)
+ - [Get Ready for &#39;The White Lotus&#39; Season 3 Finale: 5 Burning Questions and How to Watch](https://www.cnet.com/tech/services-and-software/get-ready-for-the-white-lotus-season-3-finale-5-burning-questions-and-how-to-watch/#ftag=CAD590a51e)
+ - [Men&#39;s March Madness 2025: How to Watch the Final Four Today](https://www.cnet.com/tech/services-and-software/mens-march-madness-2025-how-to-watch-the-final-four-today/#ftag=CAD590a51e)
+ - [How the GameCube Controller Works on Nintendo Switch 2—and How You Can Get One](https://www.wired.com/story/how-the-gamecube-controller-works-on-nintendo-switch-2-and-how-you-can-get-one/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

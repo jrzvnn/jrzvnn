@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This Laugh Should Be Copyrighted Or Criminalized](http://9gag.com/gag/axybZA1)
- - 😝 [World IQ map by country makes sense](http://9gag.com/gag/aoy4jR2)
- - 💣 [You know it&#39;s a good prank when everybody laughs](http://9gag.com/gag/aO8DmoE)
- - 😝 [Cutest smile in a while](http://9gag.com/gag/aryZRp6)
- - 👉 [NOT EXACTLY RECIPROCAL, IS IT?](http://9gag.com/gag/ae9VpRB)<!-- MEMES:END -->
+ - 😝 [Selfie](http://9gag.com/gag/a87DYPZ)
+ - 😝 [Hey Steve, you ever did reenactment?](http://9gag.com/gag/aByPRD1)
+ - 💣 [This is why nobody wants to watch the WNBA even at its `best`](http://9gag.com/gag/aE0oz7p)
+ - 😝 [Memes i stole, dumb or dank, Idgaf](http://9gag.com/gag/ajPBr51)
+ - 👉 [I like my rig clean](http://9gag.com/gag/awyLK54)<!-- MEMES:END -->
 
 ---
 

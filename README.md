@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft unveils a replica of Quake II generated using its Muse AI model and playable in a browser, as part of the company&#39;s Copilot in Gaming push &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250405/p17#a250405p17)
  - [Sources: DOGE is hosting a &quot;hackathon&quot; in Washington DC next week to build a &quot;mega API&quot; for accessing all IRS data, with Palantir as a possible partner &lpar;Makena Kelly/Wired&rpar;](http://www.techmeme.com/250405/p16#a250405p16)
  - [Best Internet Providers in Boise, Idaho](https://www.cnet.com/home/internet/best-internet-providers-in-boise-id/#ftag=CAD590a51e)
  - [Meta updates Meta AI in WhatsApp, Messenger, Instagram Direct, and the Meta.AI website with Llama 4 in 40 countries; multimodal features are US-only in English &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250405/p15#a250405p15)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 6, #195](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-6-195/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for April 6, #665](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-6-665/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 6, #195](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-6-195/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

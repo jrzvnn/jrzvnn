@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I bet you can\u2019t find the nerd between the jocks!](http://9gag.com/gag/amomXDd)
- - 😝 [Atleast the memes are back](http://9gag.com/gag/aRBzgAQ)
- - 💣 [They got humor](http://9gag.com/gag/aKGWPK3)
- - 😝 [School should be a place where kids want to be](http://9gag.com/gag/a9y8LdL)
- - 👉 [No national outrage](http://9gag.com/gag/aAy4YQ2)<!-- MEMES:END -->
+ - 😝 [The sniff has meme potential](http://9gag.com/gag/aO8DK72)
+ - 😝 [Come ON, Nintendo. You were so close to greatness.](http://9gag.com/gag/aKGWwmb)
+ - 💣 [`You&#39;re not gonna like the answer`](http://9gag.com/gag/a7oVvA2)
+ - 😝 [Hey Steve, you ever did reenactment?](http://9gag.com/gag/aByPRD1)
+ - 👉 [It&#39;s a hard year, I just have one wish...](http://9gag.com/gag/a5QGprE)<!-- MEMES:END -->
 
 ---
 

@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [This is why nobody wants to watch the WNBA even at its `best`](http://9gag.com/gag/aE0oz7p)
- - 😝 [The sniff has meme potential](http://9gag.com/gag/aO8DK72)
- - 💣 [Switch 2](http://9gag.com/gag/aNDVrb0)
+ - 😝 [Hey Steve, you ever did reenactment?](http://9gag.com/gag/aByPRD1)
+ - 💣 [Memes i stole, dumb or dank, Idgaf](http://9gag.com/gag/ajPBr51)
  - 😝 [Selfie](http://9gag.com/gag/a87DYPZ)
  - 👉 [Additional &#39;nutrition&#39;](http://9gag.com/gag/aPA84oK)<!-- MEMES:END -->
 

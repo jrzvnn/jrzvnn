@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wonder why ..hahaha](http://9gag.com/gag/apRPqbM)
- - 😝 [`You&#39;re not gonna like the answer`](http://9gag.com/gag/a7oVvA2)
- - 💣 [Switch 2](http://9gag.com/gag/aNDVrb0)
  - 😝 [I like my rig clean](http://9gag.com/gag/awyLK54)
- - 👉 [For the ultimate highschool experience you need protection.](http://9gag.com/gag/abAWyXv)<!-- MEMES:END -->
+ - 😝 [Surely it can\u2019t be that hard to not cheat](http://9gag.com/gag/aAy4VdZ)
+ - 💣 [Switch 2](http://9gag.com/gag/aNDVrb0)
+ - 😝 [Hey Steve, you ever did reenactment?](http://9gag.com/gag/aByPRD1)
+ - 👉 [He did it better](http://9gag.com/gag/amomqYj)<!-- MEMES:END -->
 
 ---
 

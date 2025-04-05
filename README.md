@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For the ultimate highschool experience you need protection.](http://9gag.com/gag/abAWyXv)
- - 😝 [Switch 2](http://9gag.com/gag/aNDVrb0)
- - 💣 [Hey Steve, you ever did reenactment?](http://9gag.com/gag/aByPRD1)
  - 😝 [I like my rig clean](http://9gag.com/gag/awyLK54)
- - 👉 [British man becomes a minority in his own land](http://9gag.com/gag/awyLKz8)<!-- MEMES:END -->
+ - 😝 [Switch 2](http://9gag.com/gag/aNDVrb0)
+ - 💣 [Color me brown, and call me Guinness book holder](http://9gag.com/gag/a5QGe4q)
+ - 😝 [Bridal](http://9gag.com/gag/an7vq9n)
+ - 👉 [The sniff has meme potential](http://9gag.com/gag/aO8DK72)<!-- MEMES:END -->
 
 ---
 

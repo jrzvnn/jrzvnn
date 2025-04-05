@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [More than 1,200 rallies rally worldwide protest Trump and Musk](https://www.theverge.com/news/644113/hands-off-rally-protests-trump-musk-footage)
  - [Meta launches Llama 4 Maverick with 400B parameters and Scout with 109B parameters and a 10M context window, and previews Behemoth with 2T total parameters &lpar;Meta&rpar;](http://www.techmeme.com/250405/p14#a250405p14)
  - [OpenAI and Google reject the UK&#39;s proposal to allow training AI on copyrighted work without permission unless rights holders opt out to &quot;reserve their rights&quot; &lpar;Joseph Bambridge/Politico&rpar;](http://www.techmeme.com/250405/p13#a250405p13)
  - [Microsoft has created an AI-generated version of Quake](https://www.theverge.com/news/644117/microsoft-quake-ii-ai-generated-tech-demo-muse-ai-model-copilot)
- - [Stephen Amell Suits Up in Legal Spinoff &#39;Suits LA&#39;: Here&#39;s How to Watch Episode 7](https://www.cnet.com/tech/services-and-software/stephen-amell-suits-up-legal-spinoff-suits-la-how-to-watch-episode-7/#ftag=CAD590a51e)
- - [BBC cries foul over lack of branding for its Apple News stories](https://appleinsider.com/articles/25/04/05/bbc-cries-foul-over-lack-of-branding-for-its-apple-news-stories?utm_medium=rss)<!-- TECH:END -->
+ - [Stephen Amell Suits Up in Legal Spinoff &#39;Suits LA&#39;: Here&#39;s How to Watch Episode 7](https://www.cnet.com/tech/services-and-software/stephen-amell-suits-up-legal-spinoff-suits-la-how-to-watch-episode-7/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

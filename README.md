@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DOGE staffers are listed in the FCC directory](https://www.theverge.com/news/644031/doge-federal-communications-commission-directory)
+ - [Turbine, which allows LPs to borrow funds secured by their position in venture funds, emerges from stealth with a $13M Series A and an $8.75M seed &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250404/p34#a250404p34)
+ - [Could a Recession Bring Lower Mortgage Rates and Cheaper Home Prices? It&#39;s Complicated](https://www.cnet.com/personal-finance/could-a-recession-bring-lower-mortgage-rates-and-cheaper-home-prices-its-complicated/#ftag=CAD590a51e)
  - [Ring founder Jamie Siminoff rejoins Amazon as a VP of product overseeing Ring and related businesses, replacing Elizabeth Hamren, who succeeded him in 2023 &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250404/p33#a250404p33)
- - [Ring’s founder is back at Amazon](https://www.theverge.com/news/644013/amazon-ring-founder-jamie-siminoff-return)
- - [Amazon introduces a Kindle Recaps feature that uses GenAI and moderators to create short summaries of books in a series &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250404/p32#a250404p32)
- - [We just declared a trade war with the world](https://www.theverge.com/business/643970/trade-war-consequences-crazy)
- - [Sources: StubHub, Klarna, eToro, and adtech group MNTN have paused their IPO plans as President Trump&#39;s trade war upends the global economy &lpar;Fareed Sahloul/Bloomberg&rpar;](http://www.techmeme.com/250404/p31#a250404p31)<!-- TECH:END -->
+ - [Ring’s founder is back at Amazon](https://www.theverge.com/news/644013/amazon-ring-founder-jamie-siminoff-return)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

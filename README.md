@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I like my rig clean](http://9gag.com/gag/awyLK54)
- - 😝 [What kinda dog is this ?](http://9gag.com/gag/a34ydNN)
- - 💣 [They give us reasons](http://9gag.com/gag/aE0odbn)
- - 😝 [Hey Steve, you ever did reenactment?](http://9gag.com/gag/aByPRD1)
- - 👉 [Switch 2](http://9gag.com/gag/aNDVrb0)<!-- MEMES:END -->
+ - 😝 [9gag keeps removing this post. Meta, is that you?](http://9gag.com/gag/a34yY1r)
+ - 😝 [Bridal](http://9gag.com/gag/an7vq9n)
+ - 💣 [He did it better](http://9gag.com/gag/amomqYj)
+ - 😝 [Switch 2](http://9gag.com/gag/aNDVrb0)
+ - 👉 [Hey Steve, you ever did reenactment?](http://9gag.com/gag/aByPRD1)<!-- MEMES:END -->
 
 ---
 

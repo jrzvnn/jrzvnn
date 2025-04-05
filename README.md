@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You came to the wrong neighborhood fool](http://9gag.com/gag/aVvmWyw)
- - 😝 [Pees his pants](http://9gag.com/gag/aLnGBmA)
- - 💣 [Memes i stole, dumb or dank, Idgaf](http://9gag.com/gag/ajPBr51)
- - 😝 [World IQ map by country makes sense](http://9gag.com/gag/aoy4jR2)
- - 👉 [I like my rig clean](http://9gag.com/gag/awyLK54)<!-- MEMES:END -->
+ - 😝 [Drone kong](http://9gag.com/gag/a34yPMr)
+ - 😝 [The definition of simplicity and happiness\u2026](http://9gag.com/gag/ae9VpeQ)
+ - 💣 [You know it&#39;s a good prank when everybody laughs](http://9gag.com/gag/aO8DmoE)
+ - 😝 [This Laugh Should Be Copyrighted Or Criminalized](http://9gag.com/gag/axybZA1)
+ - 👉 [Cutest smile in a while](http://9gag.com/gag/aryZRp6)<!-- MEMES:END -->
 
 ---
 

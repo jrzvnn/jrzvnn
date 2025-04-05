@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Our 9 Favorite Pizza Ovens: Wood, Gas, and Electric &lpar;2025&rpar;](https://www.wired.com/gallery/best-backyard-pizza-ovens/)
  - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
  - [Palworld review for Mac: &#39;Pokemon with guns&#39; is a massive understatement](https://appleinsider.com/articles/25/04/05/palworld-review-for-mac-pokemon-with-guns-is-a-massive-understatement?utm_medium=rss)
  - [Beyerdynamic Amiron 300 Review: Quiet Luxury](https://www.wired.com/review/beyerdynamic-amiron-300/)
- - [Max: The 27 Absolute Best TV Shows to Watch](https://www.cnet.com/tech/services-and-software/best-tv-series-on-max-april-2025/#ftag=CAD590a51e)
- - [Sizing Up Your Next TV: Here&#39;s Where Big Screens Are Taking Us](https://www.cnet.com/tech/home-entertainment/features/sizing-up-your-next-tv-heres-where-big-screens-are-taking-us/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Max: The 27 Absolute Best TV Shows to Watch](https://www.cnet.com/tech/services-and-software/best-tv-series-on-max-april-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

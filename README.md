@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Selfie](http://9gag.com/gag/a87DYPZ)
- - 😝 [World IQ map by country makes sense](http://9gag.com/gag/aoy4jR2)
+ - 😝 [What kinda dog is this ?](http://9gag.com/gag/a34ydNN)
+ - 😝 [Switch 2](http://9gag.com/gag/aNDVrb0)
  - 💣 [Memes i stole, dumb or dank, Idgaf](http://9gag.com/gag/ajPBr51)
- - 😝 [I like my rig clean](http://9gag.com/gag/awyLK54)
- - 👉 [Switch 2](http://9gag.com/gag/aNDVrb0)<!-- MEMES:END -->
+ - 😝 [World IQ map by country makes sense](http://9gag.com/gag/aoy4jR2)
+ - 👉 [I like my rig clean](http://9gag.com/gag/awyLK54)<!-- MEMES:END -->
 
 ---
 

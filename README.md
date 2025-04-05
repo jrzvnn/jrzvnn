@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hey Netflix, what is wrong with you?](http://9gag.com/gag/a34y3P8)
- - 😝 [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)
+ - 😝 [Let down your weave yo!](http://9gag.com/gag/aYQPwYx)
+ - 😝 [Lazy title](http://9gag.com/gag/aD2Z3EK)
  - 💣 [This is why nobody wants to watch the WNBA even at its `best`](http://9gag.com/gag/aE0oz7p)
- - 😝 [You came to the wrong neighborhood fool](http://9gag.com/gag/aVvmWyw)
- - 👉 [Let down your weave yo!](http://9gag.com/gag/aYQPwYx)<!-- MEMES:END -->
+ - 😝 [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)
+ - 👉 [Would someone take him/her/they away?](http://9gag.com/gag/axybGYD)<!-- MEMES:END -->
 
 ---
 

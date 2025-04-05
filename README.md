@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)
- - 😝 [The Greatest FBI Mystery Ever](http://9gag.com/gag/a9y8d4m)
- - 💣 [I like my rig clean](http://9gag.com/gag/awyLK54)
- - 😝 [Let down your weave yo!](http://9gag.com/gag/aYQPwYx)
- - 👉 [Memes i stole, dumb or dank, Idgaf](http://9gag.com/gag/ajPBr51)<!-- MEMES:END -->
+ - 😝 [Selfie](http://9gag.com/gag/a87DYPZ)
+ - 😝 [You came to the wrong neighborhood fool](http://9gag.com/gag/aVvmWyw)
+ - 💣 [Pees his pants](http://9gag.com/gag/aLnGBmA)
+ - 😝 [I like my rig clean](http://9gag.com/gag/awyLK54)
+ - 👉 [Let down your weave yo!](http://9gag.com/gag/aYQPwYx)<!-- MEMES:END -->
 
 ---
 

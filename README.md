@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US federal judge decides Elon Musk&#39;s lawsuit against OpenAI will go to a jury trial in spring 2026; Musk and OpenAI agreed to fast-track the trial last month &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/250405/p2#a250405p2)
  - [SensorTower: users in India have spent $8M on ChatGPT subscriptions through IAP since 2023, not including web app purchases, versus ~$330M spent by US users &lpar;TechCrunch&rpar;](http://www.techmeme.com/250405/p1#a250405p1)
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, April 5](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-april-5/#ftag=CAD590a51e)
  - [Sources: enterprise AI search startup Glean is in talks to raise hundreds of millions, including money to buy employee shares, at an estimated ~$7B valuation &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250404/p35#a250404p35)
- - [Trump’s tariffs killed his TikTok deal](https://www.theverge.com/command-line-newsletter/644038/trumps-tariffs-tiktok-deal-china-bytedance)
- - [DOGE staffers are listed in the FCC directory](https://www.theverge.com/news/644031/doge-federal-communications-commission-directory)
- - [Turbine, which allows LPs to borrow funds secured by their position in venture funds, emerges from stealth with a $13M Series A and an $8.75M seed &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250404/p34#a250404p34)<!-- TECH:END -->
+ - [Trump’s tariffs killed his TikTok deal](https://www.theverge.com/command-line-newsletter/644038/trumps-tariffs-tiktok-deal-china-bytedance)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

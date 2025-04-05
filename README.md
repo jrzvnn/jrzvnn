@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Drone kong](http://9gag.com/gag/a34yPMr)
  - 😝 [The definition of simplicity and happiness\u2026](http://9gag.com/gag/ae9VpeQ)
- - 💣 [You know it&#39;s a good prank when everybody laughs](http://9gag.com/gag/aO8DmoE)
- - 😝 [This Laugh Should Be Copyrighted Or Criminalized](http://9gag.com/gag/axybZA1)
+ - 💣 [This Laugh Should Be Copyrighted Or Criminalized](http://9gag.com/gag/axybZA1)
+ - 😝 [You know it&#39;s a good prank when everybody laughs](http://9gag.com/gag/aO8DmoE)
  - 👉 [Cutest smile in a while](http://9gag.com/gag/aryZRp6)<!-- MEMES:END -->
 
 ---

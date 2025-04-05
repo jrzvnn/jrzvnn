@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Switch 2](http://9gag.com/gag/aNDVrb0)
- - 😝 [Memes i stole, dumb or dank, Idgaf](http://9gag.com/gag/ajPBr51)
- - 💣 [This is why nobody wants to watch the WNBA even at its `best`](http://9gag.com/gag/aE0oz7p)
  - 😝 [Selfie](http://9gag.com/gag/a87DYPZ)
- - 👉 [Hey Steve, you ever did reenactment?](http://9gag.com/gag/aByPRD1)<!-- MEMES:END -->
+ - 😝 [World IQ map by country makes sense](http://9gag.com/gag/aoy4jR2)
+ - 💣 [Memes i stole, dumb or dank, Idgaf](http://9gag.com/gag/ajPBr51)
+ - 😝 [I like my rig clean](http://9gag.com/gag/awyLK54)
+ - 👉 [Switch 2](http://9gag.com/gag/aNDVrb0)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Female fencer disqualified for refusing to compete against trans athlete in tournament](http://9gag.com/gag/adBnpjD)
- - 😝 [Let down your weave yo!](http://9gag.com/gag/aYQPwYx)
- - 💣 [This is why nobody wants to watch the WNBA even at its `best`](http://9gag.com/gag/aE0oz7p)
  - 😝 [I like my rig clean](http://9gag.com/gag/awyLK54)
- - 👉 [Memes i stole, dumb or dank, Idgaf](http://9gag.com/gag/ajPBr51)<!-- MEMES:END -->
+ - 😝 [Selfie](http://9gag.com/gag/a87DYPZ)
+ - 💣 [You came to the wrong neighborhood fool](http://9gag.com/gag/aVvmWyw)
+ - 😝 [Memes i stole, dumb or dank, Idgaf](http://9gag.com/gag/ajPBr51)
+ - 👉 [This is why nobody wants to watch the WNBA even at its `best`](http://9gag.com/gag/aE0oz7p)<!-- MEMES:END -->
 
 ---
 

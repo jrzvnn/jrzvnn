@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tron: Ares blends the real world with the digital in its first trailer](https://www.theverge.com/news/644047/tron-ares-first-trailer-poster-jared-leto-jeff-bridges)
  - [Joel Kaplan says Meta&#39;s US fact-checking program will be over by Monday, and Community Notes will start appearing on Facebook, Threads, and Instagram &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250405/p11#a250405p11)
  - [DOGE Is Planning a Hackathon at the IRS. It Wants Easier Access to Taxpayer Data](https://www.wired.com/story/doge-hackathon-irs-data-palantir/)
  - [The 7 writing apps I used to start and finish my book](https://www.theverge.com/apps/642131/7-writing-apps-book-scrivener-bear-iawriter)
- - [Jaguar Land Rover pauses US shipments over Trump tariffs](https://www.theverge.com/news/644055/jaguar-land-rover-shipments-pause-april-trump-tariffs)
- - [In backing Trump, effective accelerationists like Musk and Andreessen got a &quot;Decel-in-Chief&quot;, who instigated a brain drain and tariffs that hurt tech companies &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250405/p10#a250405p10)<!-- TECH:END -->
+ - [Jaguar Land Rover pauses US shipments over Trump tariffs](https://www.theverge.com/news/644055/jaguar-land-rover-shipments-pause-april-trump-tariffs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

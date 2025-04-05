@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
  - [Palworld review for Mac: &#39;Pokemon with guns&#39; is a massive understatement](https://appleinsider.com/articles/25/04/05/palworld-review-for-mac-pokemon-with-guns-is-a-massive-understatement?utm_medium=rss)
  - [Beyerdynamic Amiron 300 Review: Quiet Luxury](https://www.wired.com/review/beyerdynamic-amiron-300/)
- - [Miami-based Felix Pago, which uses stablecoins for cross-border remittances and handled $1B+ of transfers via WhatsApp in 2024, raised $75M Series B led by QED &lpar;Bloomberg&rpar;](http://www.techmeme.com/250405/p9#a250405p9)
- - [ChatGPT Image Generation Is Now Free for Everyone](https://www.cnet.com/tech/services-and-software/chatgpt-image-generation-is-now-free-for-everyone/#ftag=CAD590a51e)
- - [The 45 Best Movies on Netflix Right Now &lpar;April 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
+ - [Max: The 27 Absolute Best TV Shows to Watch](https://www.cnet.com/tech/services-and-software/best-tv-series-on-max-april-2025/#ftag=CAD590a51e)
+ - [Sizing Up Your Next TV: Here&#39;s Where Big Screens Are Taking Us](https://www.cnet.com/tech/home-entertainment/features/sizing-up-your-next-tv-heres-where-big-screens-are-taking-us/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

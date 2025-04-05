@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Miami-based Felix Pago, which uses stablecoins for cross-border remittances and handled $1B+ of transfers via WhatsApp in 2024, raised $75M Series B led by QED &lpar;Bloomberg&rpar;](http://www.techmeme.com/250405/p9#a250405p9)
  - [The 45 Best Movies on Netflix Right Now &lpar;April 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
  - [The 46 Best Shows on Netflix Right Now &lpar;April 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
  - [‘Views’ are lies](https://www.theverge.com/social/639811/view-counts-tiktok-instagram-x-youtube-lies)
- - [Best Internet Providers in Chandler, Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-chandler-az/#ftag=CAD590a51e)
- - [Battery, Bump and Budget: Comparing Google Pixel 9A to Pixel 9, 9 Pro and 9 Pro XL](https://www.cnet.com/tech/mobile/battery-bump-and-budget-comparing-google-pixel-9a-to-pixel-9-9-pro-and-9pro-xl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Chandler, Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-chandler-az/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

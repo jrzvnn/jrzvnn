@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Drone kong](http://9gag.com/gag/a34yPMr)
- - 😝 [The definition of simplicity and happiness\u2026](http://9gag.com/gag/ae9VpeQ)
- - 💣 [This Laugh Should Be Copyrighted Or Criminalized](http://9gag.com/gag/axybZA1)
- - 😝 [You know it&#39;s a good prank when everybody laughs](http://9gag.com/gag/aO8DmoE)
- - 👉 [Cutest smile in a while](http://9gag.com/gag/aryZRp6)<!-- MEMES:END -->
+ - 😝 [Female fencer disqualified for refusing to compete against trans athlete in tournament](http://9gag.com/gag/adBnpjD)
+ - 😝 [Let down your weave yo!](http://9gag.com/gag/aYQPwYx)
+ - 💣 [This is why nobody wants to watch the WNBA even at its `best`](http://9gag.com/gag/aE0oz7p)
+ - 😝 [I like my rig clean](http://9gag.com/gag/awyLK54)
+ - 👉 [Memes i stole, dumb or dank, Idgaf](http://9gag.com/gag/ajPBr51)<!-- MEMES:END -->
 
 ---
 

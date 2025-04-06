@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Daily chase](http://9gag.com/gag/a0e6dnO)
- - 😝 [Old growth lumber vs modern factory farmed lumber](http://9gag.com/gag/a87DM7e)
- - 💣 [We have to do this](http://9gag.com/gag/a0e6dyQ)
- - 😝 [He didn&#39;t find it](http://9gag.com/gag/aYQPw7O)
- - 👉 [This is why nobody wants to watch the WNBA even at its `best`](http://9gag.com/gag/aE0oz7p)<!-- MEMES:END -->
+ - 😝 [Thanks Eva](http://9gag.com/gag/aPA8MYq)
+ - 😝 [We are approaching the one year anniversary for the most incredible moment ever filmed](http://9gag.com/gag/aMVn8r1)
+ - 💣 [And she dress to complain](http://9gag.com/gag/ae9VYZB)
+ - 😝 [Insect macro photography](http://9gag.com/gag/ayNWD9b)
+ - 👉 [Breaking news](http://9gag.com/gag/aZZQmW9)<!-- MEMES:END -->
 
 ---
 

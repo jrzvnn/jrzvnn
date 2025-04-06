@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let down your weave yo!](http://9gag.com/gag/aYQPwYx)
- - 😝 [I have bad feeling about this](http://9gag.com/gag/aryZK7X)
- - 💣 [Hootie party was a blast](http://9gag.com/gag/ae9VpMW)
- - 😝 [What else did he expect?](http://9gag.com/gag/a1m5d52)
- - 👉 [I feel ya](http://9gag.com/gag/azxGjpb)<!-- MEMES:END -->
+ - 😝 [Selfie](http://9gag.com/gag/a87DYPZ)
+ - 😝 [With mayonnaise!](http://9gag.com/gag/a7oVbve)
+ - 💣 [I feel ya](http://9gag.com/gag/azxGjpb)
+ - 😝 [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)
+ - 👉 [Stupid ass movie](http://9gag.com/gag/azxGrbm)<!-- MEMES:END -->
 
 ---
 

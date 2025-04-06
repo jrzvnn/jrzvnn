@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I want to live ...](http://9gag.com/gag/aPA8vnG)
- - 😝 [What kinda dog is this ?](http://9gag.com/gag/a34ydNN)
- - 💣 [Ok\u2026 what cars were in the driveway?????](http://9gag.com/gag/aqyQmqp)
- - 😝 [How it all started.](http://9gag.com/gag/aoy4zGA)
- - 👉 [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)<!-- MEMES:END -->
+ - 😝 [I Dont play boss..its the guy from hardware store](http://9gag.com/gag/azxGVLz)
+ - 😝 [Service](http://9gag.com/gag/aE0ono9)
+ - 💣 [Would someone take him/her/they away?](http://9gag.com/gag/axybGYD)
+ - 😝 [I wonder why ..hahaha](http://9gag.com/gag/apRPqbM)
+ - 👉 [Hey Netflix, what is wrong with you?](http://9gag.com/gag/a34y3P8)<!-- MEMES:END -->
 
 ---
 

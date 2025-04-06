@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crime blotter: UPS employee charged in $200,000 theft that included Apple products](https://appleinsider.com/articles/25/04/06/crime-blotter-ups-employee-charged-in-200000-theft-that-included-apple-products?utm_medium=rss)
+ - [Apple plans another iPhone X style redesign for the iPhone 20](https://appleinsider.com/articles/25/04/06/apple-plans-another-iphone-x-style-redesign-for-the-iphone-20?utm_medium=rss)
  - [6 Best MagSafe Phone Grips &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-grips/)
  - [One streaming app to &lpar;almost&rpar; rule them all](https://www.theverge.com/installer-newsletter/643890/plex-delta-skylight-switch-2-installer)
- - [Acer Aspire 14 AI Review: Cheap Copilot Plus PC Offers Great Battery Life and Future-Proofing](https://www.cnet.com/tech/computing/acer-aspire-14-ai-review-cheap-copilot-plus-pc-offers-great-battery-life-and-future-proofing/#ftag=CAD590a51e)
- - [These Are 20 of the Absolute Best Sci-Fi TV Shows on Netflix](https://www.cnet.com/tech/services-and-software/best-sci-fi-tv-shows-on-netflix-2025/#ftag=CAD590a51e)
- - [Scientists Are Mapping the Boundaries of What Is Knowable and Unknowable](https://www.wired.com/story/next-level-chaos-traces-the-true-limit-of-predictability/)<!-- TECH:END -->
+ - [Acer Aspire 14 AI Review: Cheap Copilot Plus PC Offers Great Battery Life and Future-Proofing](https://www.cnet.com/tech/computing/acer-aspire-14-ai-review-cheap-copilot-plus-pc-offers-great-battery-life-and-future-proofing/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

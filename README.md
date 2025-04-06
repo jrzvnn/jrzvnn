@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What kinda dog is this ?](http://9gag.com/gag/a34ydNN)
- - 😝 [GTA 6 looks weird](http://9gag.com/gag/a0e6Lxd)
- - 💣 [Selfie](http://9gag.com/gag/a87DYPZ)
- - 😝 [Wisconsin killer who dismembered her boyfriend during meth-fueled sex attacks her own lawyer in court](http://9gag.com/gag/aYQPwbw)
- - 👉 [Hey Netflix, what is wrong with you?](http://9gag.com/gag/a34y3P8)<!-- MEMES:END -->
+ - 😝 [If you know you know](http://9gag.com/gag/aNDVnRw)
+ - 😝 [Bone story](http://9gag.com/gag/a2vy549)
+ - 💣 [Okay I&#39;m waiting for you degenerates to post the screenshots](http://9gag.com/gag/aNDVW2K)
+ - 😝 [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)
+ - 👉 [Wisconsin killer who dismembered her boyfriend during meth-fueled sex attacks her own lawyer in court](http://9gag.com/gag/aYQPwbw)<!-- MEMES:END -->
 
 ---
 

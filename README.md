@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)
- - 😝 [Bone story](http://9gag.com/gag/a2vy549)
- - 💣 [Old growth lumber vs modern factory farmed lumber](http://9gag.com/gag/a87DM7e)
  - 😝 [Language 0 understanding 100](http://9gag.com/gag/an7vN7n)
- - 👉 [Hey Netflix, what is wrong with you?](http://9gag.com/gag/a34y3P8)<!-- MEMES:END -->
+ - 😝 [Selfie](http://9gag.com/gag/a87DYPZ)
+ - 💣 [Hey Netflix, what is wrong with you?](http://9gag.com/gag/a34y3P8)
+ - 😝 [What kinda dog is this ?](http://9gag.com/gag/a34ydNN)
+ - 👉 [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)<!-- MEMES:END -->
 
 ---
 

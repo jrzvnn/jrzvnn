@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Selfie](http://9gag.com/gag/a87DYPZ)
- - 😝 [With mayonnaise!](http://9gag.com/gag/a7oVbve)
- - 💣 [I feel ya](http://9gag.com/gag/azxGjpb)
- - 😝 [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)
- - 👉 [Stupid ass movie](http://9gag.com/gag/azxGrbm)<!-- MEMES:END -->
+ - 😝 [When you are a apex predator, but you are smol...](http://9gag.com/gag/aXP4A5V)
+ - 😝 [Service](http://9gag.com/gag/aE0ono9)
+ - 💣 [We are approaching the one year anniversary for the most incredible moment ever filmed](http://9gag.com/gag/aMVn8r1)
+ - 😝 [He didn&#39;t stand a chance](http://9gag.com/gag/aGyMD37)
+ - 👉 [Thanks Eva](http://9gag.com/gag/aPA8MYq)<!-- MEMES:END -->
 
 ---
 

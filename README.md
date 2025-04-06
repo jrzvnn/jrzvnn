@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I Dont play boss..its the guy from hardware store](http://9gag.com/gag/azxGVLz)
- - 😝 [Service](http://9gag.com/gag/aE0ono9)
- - 💣 [Would someone take him/her/they away?](http://9gag.com/gag/axybGYD)
- - 😝 [I wonder why ..hahaha](http://9gag.com/gag/apRPqbM)
+ - 😝 [Let down your weave yo!](http://9gag.com/gag/aYQPwYx)
+ - 😝 [Would someone take him/her/they away?](http://9gag.com/gag/axybGYD)
+ - 💣 [I want to live ...](http://9gag.com/gag/aPA8vnG)
+ - 😝 [How it all started.](http://9gag.com/gag/aoy4zGA)
  - 👉 [Hey Netflix, what is wrong with you?](http://9gag.com/gag/a34y3P8)<!-- MEMES:END -->
 
 ---

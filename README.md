@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I feel ya](http://9gag.com/gag/azxGjpb)
- - 😝 [This is not a fashionable neighborhood, but a graveyard for the Sinaloa cartel.](http://9gag.com/gag/a87DjmZ)
+ - 😝 [Language 0 understanding 100](http://9gag.com/gag/an7vN7n)
+ - 😝 [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)
  - 💣 [Selfie](http://9gag.com/gag/a87DYPZ)
- - 😝 [Let down your weave yo!](http://9gag.com/gag/aYQPwYx)
- - 👉 [I have bad feeling about this](http://9gag.com/gag/aryZK7X)<!-- MEMES:END -->
+ - 😝 [A classic 2000s masterpiece](http://9gag.com/gag/a34yjP1)
+ - 👉 [I feel ya](http://9gag.com/gag/azxGjpb)<!-- MEMES:END -->
 
 ---
 

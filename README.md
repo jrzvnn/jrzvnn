@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A classic](http://9gag.com/gag/azxGr5K)
- - 😝 [Oh .. Yes ...](http://9gag.com/gag/aD2Zmw7)
- - 💣 [$130 lock bypassed with can - Proven Industries](http://9gag.com/gag/aPA8WOB)
- - 😝 [Fluoride in the water](http://9gag.com/gag/amomz86)
- - 👉 [What kind of military strategy is this?](http://9gag.com/gag/aqyQL1j)<!-- MEMES:END -->
+ - 😝 [All Contenders have reached Adult Age](http://9gag.com/gag/a34y74e)
+ - 😝 [Selfie](http://9gag.com/gag/a87DYPZ)
+ - 💣 [Premature sniperator](http://9gag.com/gag/amom93o)
+ - 😝 [I feel ya](http://9gag.com/gag/azxGjpb)
+ - 👉 [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [6 Best MagSafe Phone Grips &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-grips/)
+ - [One streaming app to &lpar;almost&rpar; rule them all](https://www.theverge.com/installer-newsletter/643890/plex-delta-skylight-switch-2-installer)
  - [Acer Aspire 14 AI Review: Cheap Copilot Plus PC Offers Great Battery Life and Future-Proofing](https://www.cnet.com/tech/computing/acer-aspire-14-ai-review-cheap-copilot-plus-pc-offers-great-battery-life-and-future-proofing/#ftag=CAD590a51e)
  - [These Are 20 of the Absolute Best Sci-Fi TV Shows on Netflix](https://www.cnet.com/tech/services-and-software/best-sci-fi-tv-shows-on-netflix-2025/#ftag=CAD590a51e)
- - [Scientists Are Mapping the Boundaries of What Is Knowable and Unknowable](https://www.wired.com/story/next-level-chaos-traces-the-true-limit-of-predictability/)
- - [Color is a mathematical nightmare](https://www.theverge.com/tech/643638/color-models-spaces-gamut-mathematical-nightmare)
- - [Cortisol Imbalance: Everything You Need to Know About the Stress Hormone](https://www.cnet.com/health/cortisol-imbalance-everything-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Scientists Are Mapping the Boundaries of What Is Knowable and Unknowable](https://www.wired.com/story/next-level-chaos-traces-the-true-limit-of-predictability/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thanks Eva](http://9gag.com/gag/aPA8MYq)
- - 😝 [What kinda dog is this ?](http://9gag.com/gag/a34ydNN)
- - 💣 [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)
+ - 😝 [Hootie party was a blast](http://9gag.com/gag/ae9VpMW)
+ - 😝 [Language 0 understanding 100](http://9gag.com/gag/an7vN7n)
+ - 💣 [Hey Netflix, what is wrong with you?](http://9gag.com/gag/a34y3P8)
  - 😝 [Old growth lumber vs modern factory farmed lumber](http://9gag.com/gag/a87DM7e)
  - 👉 [Selfie](http://9gag.com/gag/a87DYPZ)<!-- MEMES:END -->
 

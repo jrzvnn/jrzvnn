@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stupid ass movie](http://9gag.com/gag/azxGrbm)
- - 😝 [When you perfectly predict future](http://9gag.com/gag/aW4v0vK)
- - 💣 [What kinda dog is this ?](http://9gag.com/gag/a34ydNN)
- - 😝 [Hey Netflix, what is wrong with you?](http://9gag.com/gag/a34y3P8)
- - 👉 [Old growth lumber vs modern factory farmed lumber](http://9gag.com/gag/a87DM7e)<!-- MEMES:END -->
+ - 😝 [If you know you know](http://9gag.com/gag/aNDVnRw)
+ - 😝 [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)
+ - 💣 [When you perfectly predict future](http://9gag.com/gag/aW4v0vK)
+ - 😝 [Old growth lumber vs modern factory farmed lumber](http://9gag.com/gag/a87DM7e)
+ - 👉 [Language 0 understanding 100](http://9gag.com/gag/an7vN7n)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you are a apex predator, but you are smol...](http://9gag.com/gag/aXP4A5V)
- - 😝 [Service](http://9gag.com/gag/aE0ono9)
- - 💣 [We are approaching the one year anniversary for the most incredible moment ever filmed](http://9gag.com/gag/aMVn8r1)
- - 😝 [He didn&#39;t stand a chance](http://9gag.com/gag/aGyMD37)
- - 👉 [Thanks Eva](http://9gag.com/gag/aPA8MYq)<!-- MEMES:END -->
+ - 😝 [We have to do this](http://9gag.com/gag/a0e6dyQ)
+ - 😝 [He didn&#39;t find it](http://9gag.com/gag/aYQPw7O)
+ - 💣 [Selfie](http://9gag.com/gag/a87DYPZ)
+ - 😝 [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)
+ - 👉 [Okay I&#39;m waiting for you degenerates to post the screenshots](http://9gag.com/gag/aNDVW2K)<!-- MEMES:END -->
 
 ---
 

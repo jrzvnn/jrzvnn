@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone blamed for including journalist in highly classified bombing plans](https://appleinsider.com/articles/25/04/06/security-advisor-blames-iphone-for-revealing-war-plans?utm_medium=rss)
+ - [Apple given permission to keep TikTok in App Store until US deal is finalized](https://appleinsider.com/articles/25/04/06/apple-given-permission-to-keep-tiktok-in-app-store-until-us-deal-is-finalized?utm_medium=rss)
+ - [Sources: OpenAI is testing watermarks for images generated using ChatGPT&#39;s free account &lpar;Mayank Parmar/BleepingComputer&rpar;](http://www.techmeme.com/250406/p11#a250406p11)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 7, #196](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-7-196/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for April 7, #400](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-7-400/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for April 7, #666](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-7-666/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for April 7, #1388](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-7-1388/#ftag=CAD590a51e)
- - [Analysis: child begging livestreams are actively promoted by TikTok&#39;s algorithm and TikTok profits from the content despite having policies against begging &lpar;Shanti Das/The Guardian&rpar;](http://www.techmeme.com/250406/p10#a250406p10)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 7, #400](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-7-400/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

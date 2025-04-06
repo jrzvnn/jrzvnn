@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Scientists Are Mapping the Boundaries of What Is Knowable and Unknowable](https://www.wired.com/story/next-level-chaos-traces-the-true-limit-of-predictability/)
  - [Color is a mathematical nightmare](https://www.theverge.com/tech/643638/color-models-spaces-gamut-mathematical-nightmare)
- - [Anthropic&#39;s Alignment Science team: &quot;legibility&quot; or &quot;faithfulness&quot; of reasoning models&#39; Chain-of-Thought can&#39;t be trusted and models may actively hide reasoning &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/250406/p4#a250406p4)
- - [How Nissan Hopes to Navigate Trump’s Tariffs and Make Its EVs Great Again](https://www.wired.com/story/how-nissan-intends-to-navigate-trumps-tariffs-and-make-its-evs-great-again/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 6, #195](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-6-195/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Resume Writing Services for 2025](https://www.cnet.com/tech/services-and-software/best-resume-writing-services/#ftag=CAD590a51e)
+ - [What Are Carbon-Plated Running Shoes? An Expert Recommends These Brands](https://www.cnet.com/health/fitness/what-are-carbon-plated-running-shoes-expert-recommends-these-brands/#ftag=CAD590a51e)
+ - [Anthropic&#39;s Alignment Science team: &quot;legibility&quot; or &quot;faithfulness&quot; of reasoning models&#39; Chain-of-Thought can&#39;t be trusted and models may actively hide reasoning &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/250406/p4#a250406p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

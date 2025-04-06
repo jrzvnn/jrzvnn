@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No one will go home](http://9gag.com/gag/aVvmegn)
- - 😝 [Cutest smile in a while](http://9gag.com/gag/aryZRp6)
- - 💣 [Not forever, still have a vm with some classics](http://9gag.com/gag/aRBzeXA)
- - 😝 [He didn&#39;t stand a chance](http://9gag.com/gag/aGyMD37)
- - 👉 [M@n only want one thing and it\u2019s freaking amazing!](http://9gag.com/gag/aLnG24z)<!-- MEMES:END -->
+ - 😝 [What kinda dog is this ?](http://9gag.com/gag/a34ydNN)
+ - 😝 [GTA 6 looks weird](http://9gag.com/gag/a0e6Lxd)
+ - 💣 [Selfie](http://9gag.com/gag/a87DYPZ)
+ - 😝 [Wisconsin killer who dismembered her boyfriend during meth-fueled sex attacks her own lawyer in court](http://9gag.com/gag/aYQPwbw)
+ - 👉 [Hey Netflix, what is wrong with you?](http://9gag.com/gag/a34y3P8)<!-- MEMES:END -->
 
 ---
 

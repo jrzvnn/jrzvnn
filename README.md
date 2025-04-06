@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the US market for humanoids in homes and businesses; PitchBook says investors have poured $7.2B into 50+ startups since 2015, including $1.6B in 2024 &lpar;New York Times&rpar;](http://www.techmeme.com/250406/p5#a250406p5)
  - [Best Apple Desktop Computers &lpar;2025&rpar;: iMac, Mac Mini, Mac Studio](https://www.wired.com/gallery/best-apple-desktop-computer/)
  - [Your House is like a choose-your-own adventure mystery book](https://www.theverge.com/games-review/643827/your-house-review-pc-ios-android)
  - [‘Hands Off’: Protesters deliver a sweeping message to Trump and Musk at a DC rally](https://www.theverge.com/policy/644186/hands-off-washington-dc-protest-musk-trump-doge)
- - [Apple&#39;s Home Hub pushed back to 2026 after delayed Siri improvements](https://appleinsider.com/articles/25/04/06/apples-home-hub-pushed-back-to-2026-after-delayed-siri-improvements?utm_medium=rss)
- - [Crime blotter: UPS employee charged in $200,000 theft that included Apple products](https://appleinsider.com/articles/25/04/06/crime-blotter-ups-employee-charged-in-200000-theft-that-included-apple-products?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s Home Hub pushed back to 2026 after delayed Siri improvements](https://appleinsider.com/articles/25/04/06/apples-home-hub-pushed-back-to-2026-after-delayed-siri-improvements?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

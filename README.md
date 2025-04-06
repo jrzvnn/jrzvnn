@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is why nobody wants to watch the WNBA even at its `best`](http://9gag.com/gag/aE0oz7p)
- - 😝 [I have bad feeling about this](http://9gag.com/gag/aryZK7X)
- - 💣 [GTA 6 looks weird](http://9gag.com/gag/a0e6Lxd)
- - 😝 [The Greatest FBI Mystery Ever](http://9gag.com/gag/a9y8d4m)
- - 👉 [Would someone take him/her/they away?](http://9gag.com/gag/axybGYD)<!-- MEMES:END -->
+ - 😝 [I feel ya](http://9gag.com/gag/azxGjpb)
+ - 😝 [This is not a fashionable neighborhood, but a graveyard for the Sinaloa cartel.](http://9gag.com/gag/a87DjmZ)
+ - 💣 [Selfie](http://9gag.com/gag/a87DYPZ)
+ - 😝 [Let down your weave yo!](http://9gag.com/gag/aYQPwYx)
+ - 👉 [I have bad feeling about this](http://9gag.com/gag/aryZK7X)<!-- MEMES:END -->
 
 ---
 

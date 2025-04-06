@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All Contenders have reached Adult Age](http://9gag.com/gag/a34y74e)
+ - 😝 [Hootie party was a blast](http://9gag.com/gag/ae9VpMW)
  - 😝 [Selfie](http://9gag.com/gag/a87DYPZ)
  - 💣 [Premature sniperator](http://9gag.com/gag/amom93o)
  - 😝 [I feel ya](http://9gag.com/gag/azxGjpb)
- - 👉 [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)<!-- MEMES:END -->
+ - 👉 [Old growth lumber vs modern factory farmed lumber](http://9gag.com/gag/a87DM7e)<!-- MEMES:END -->
 
 ---
 

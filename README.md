@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All Contenders have reached Adult Age](http://9gag.com/gag/a34y74e)
- - 😝 [Premature sniperator](http://9gag.com/gag/amom93o)
- - 💣 [GTA 6 looks weird](http://9gag.com/gag/a0e6Lxd)
  - 😝 [What else did he expect?](http://9gag.com/gag/a1m5d52)
- - 👉 [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)<!-- MEMES:END -->
+ - 😝 [GTA 6 looks weird](http://9gag.com/gag/a0e6Lxd)
+ - 💣 [Premature sniperator](http://9gag.com/gag/amom93o)
+ - 😝 [Selfie](http://9gag.com/gag/a87DYPZ)
+ - 👉 [I feel ya](http://9gag.com/gag/azxGjpb)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I have bad feeling about this](http://9gag.com/gag/aryZK7X)
- - 😝 [I wonder why ..hahaha](http://9gag.com/gag/apRPqbM)
+ - 😝 [I want my pu$y phone rn!!](http://9gag.com/gag/an7vNWB)
+ - 😝 [GTA 6 looks weird](http://9gag.com/gag/a0e6Lxd)
  - 💣 [Would someone take him/her/they away?](http://9gag.com/gag/axybGYD)
- - 😝 [This is not a fashionable neighborhood, but a graveyard for the Sinaloa cartel.](http://9gag.com/gag/a87DjmZ)
- - 👉 [This is why nobody wants to watch the WNBA even at its `best`](http://9gag.com/gag/aE0oz7p)<!-- MEMES:END -->
+ - 😝 [This building at Cayman Island is declared headquarters of 40,000 separate businesses.](http://9gag.com/gag/aD2Z097)
+ - 👉 [A classic 2000s masterpiece](http://9gag.com/gag/a34yjP1)<!-- MEMES:END -->
 
 ---
 

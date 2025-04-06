@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [More than 1,300 rallies worldwide protest Trump and Musk](https://www.theverge.com/news/644113/hands-off-rally-protests-trump-musk-footage)
  - [Z-Wave, popular among smart home enthusiasts, becomes an open-source protocol with a new long-range technology as it seeks Matter support to avoid obsolescence &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250406/p7#a250406p7)
+ - [Bloodborne Is My Favorite FromSoft Game. I&#39;m Dreading Switch 2&#39;s The Duskbloods](https://www.cnet.com/tech/gaming/bloodborne-is-my-favorite-fromsoft-game-im-not-excited-for-the-duskbloods/#ftag=CAD590a51e)
  - [How to use your phone as a hotspot](https://www.theverge.com/how-to/643093/hotspot-pixel-iphone-how-to)
- - [‘Millions’ may have protested Trump and Musk yesterday](https://www.theverge.com/news/644237/millions-protested-hands-off-estimates-trump-musk-doge)
- - [Apple may be able to delay price increases, but not for long](https://appleinsider.com/articles/25/04/06/apple-may-be-able-to-delay-price-increases-but-not-for-long?utm_medium=rss)<!-- TECH:END -->
+ - [‘Millions’ may have protested Trump and Musk yesterday](https://www.theverge.com/news/644237/millions-protested-hands-off-estimates-trump-musk-doge)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

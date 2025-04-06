@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wisconsin killer who dismembered her boyfriend during meth-fueled sex attacks her own lawyer in court](http://9gag.com/gag/aYQPwbw)
- - 😝 [A classic 2000s masterpiece](http://9gag.com/gag/a34yjP1)
- - 💣 [I have bad feeling about this](http://9gag.com/gag/aryZK7X)
- - 😝 [I like my rig clean](http://9gag.com/gag/awyLK54)
- - 👉 [GTA 6 looks weird](http://9gag.com/gag/a0e6Lxd)<!-- MEMES:END -->
+ - 😝 [Stupid ass movie](http://9gag.com/gag/azxGrbm)
+ - 😝 [Bone story](http://9gag.com/gag/a2vy549)
+ - 💣 [... I got it](http://9gag.com/gag/ae9V30b)
+ - 😝 [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)
+ - 👉 [Hey Netflix, what is wrong with you?](http://9gag.com/gag/a34y3P8)<!-- MEMES:END -->
 
 ---
 

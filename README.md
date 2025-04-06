@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Language 0 understanding 100](http://9gag.com/gag/an7vN7n)
- - 😝 [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)
- - 💣 [Selfie](http://9gag.com/gag/a87DYPZ)
+ - 😝 [Wisconsin killer who dismembered her boyfriend during meth-fueled sex attacks her own lawyer in court](http://9gag.com/gag/aYQPwbw)
  - 😝 [A classic 2000s masterpiece](http://9gag.com/gag/a34yjP1)
- - 👉 [I feel ya](http://9gag.com/gag/azxGjpb)<!-- MEMES:END -->
+ - 💣 [I have bad feeling about this](http://9gag.com/gag/aryZK7X)
+ - 😝 [I like my rig clean](http://9gag.com/gag/awyLK54)
+ - 👉 [GTA 6 looks weird](http://9gag.com/gag/a0e6Lxd)<!-- MEMES:END -->
 
 ---
 

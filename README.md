@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The entire north face of Mt. St. Helens slides off before erupting in a massive explosion.](http://9gag.com/gag/awyLV9y)
- - 😝 [He didn&#39;t find it](http://9gag.com/gag/aYQPw7O)
- - 💣 [Hootie party was a blast](http://9gag.com/gag/ae9VpMW)
  - 😝 [Daily chase](http://9gag.com/gag/a0e6dnO)
- - 👉 [F**k Netflix](http://9gag.com/gag/aKGW3nW)<!-- MEMES:END -->
+ - 😝 [Hootie party was a blast](http://9gag.com/gag/ae9VpMW)
+ - 💣 [You need to men the fence with someone](http://9gag.com/gag/ae9VbgO)
+ - 😝 [Stupid ass movie](http://9gag.com/gag/azxGrbm)
+ - 👉 [What else did he expect?](http://9gag.com/gag/a1m5d52)<!-- MEMES:END -->
 
 ---
 

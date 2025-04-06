@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DOGE plans now reportedly include an IRS ‘hackathon’](https://www.theverge.com/news/644327/musk-doge-irs-hackathon-taxpayer-data-transfer-cloud)
  - [Paris-based Pennylane, which makes cloud-based accounting software, raised €75M, doubling its valuation to €2B, led by Sequoia and with Alphabet among investors &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250406/p12#a250406p12)
  - [iPhone blamed for including journalist in highly classified bombing plans](https://appleinsider.com/articles/25/04/06/security-advisor-blames-iphone-for-revealing-war-plans?utm_medium=rss)
  - [Apple given permission to keep TikTok in App Store until US deal is finalized](https://appleinsider.com/articles/25/04/06/apple-given-permission-to-keep-tiktok-in-app-store-until-us-deal-is-finalized?utm_medium=rss)
- - [Sources: OpenAI is testing watermarks for images generated using ChatGPT&#39;s free account &lpar;Mayank Parmar/BleepingComputer&rpar;](http://www.techmeme.com/250406/p11#a250406p11)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 7, #196](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-7-196/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: OpenAI is testing watermarks for images generated using ChatGPT&#39;s free account &lpar;Mayank Parmar/BleepingComputer&rpar;](http://www.techmeme.com/250406/p11#a250406p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

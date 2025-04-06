@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [With mayonnaise!](http://9gag.com/gag/a7oVbve)
- - 😝 [GTA 6 looks weird](http://9gag.com/gag/a0e6Lxd)
- - 💣 [I feel ya](http://9gag.com/gag/azxGjpb)
- - 😝 [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)
- - 👉 [What else did he expect?](http://9gag.com/gag/a1m5d52)<!-- MEMES:END -->
+ - 😝 [A classic](http://9gag.com/gag/azxGr5K)
+ - 😝 [Oh .. Yes ...](http://9gag.com/gag/aD2Zmw7)
+ - 💣 [$130 lock bypassed with can - Proven Industries](http://9gag.com/gag/aPA8WOB)
+ - 😝 [Fluoride in the water](http://9gag.com/gag/amomz86)
+ - 👉 [What kind of military strategy is this?](http://9gag.com/gag/aqyQL1j)<!-- MEMES:END -->
 
 ---
 

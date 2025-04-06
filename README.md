@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A classic 2000s masterpiece](http://9gag.com/gag/a34yjP1)
- - 😝 [Lazy title](http://9gag.com/gag/aD2Z3EK)
- - 💣 [I have bad feeling about this](http://9gag.com/gag/aryZK7X)
  - 😝 [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)
- - 👉 [Missing no more. Meet Link](http://9gag.com/gag/apRPBpn)<!-- MEMES:END -->
+ - 😝 [He didn&#39;t find it](http://9gag.com/gag/aYQPw7O)
+ - 💣 [Missing no more. Meet Link](http://9gag.com/gag/apRPBpn)
+ - 😝 [Kid interviewed with mum behind the scene! Parents working 24/7 for ends meet for the child ended up ignoring the child!](http://9gag.com/gag/a6ZnwXq)
+ - 👉 [How it all started.](http://9gag.com/gag/aoy4zGA)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Noise-Canceling Headphones &lpar;2025&rpar;: Over-Ears, Wireless Earbuds, Workout Pairs](https://www.wired.com/gallery/best-noise-canceling-headphones/)
+ - [Quantum mechanics might have the solution to joystick drift](https://www.theverge.com/tech/643886/joystick-drift-tunneling-magnetoresistance-tmr-hall-effect-gaming-solution)
  - [A look at the US market for humanoids in homes and businesses; PitchBook says investors have poured $7.2B into 50+ startups since 2015, including $1.6B in 2024 &lpar;New York Times&rpar;](http://www.techmeme.com/250406/p5#a250406p5)
  - [Celebrity Private Jets Can Still Be Tracked Despite New FAA Rules. Here&#39;s Why](https://www.cnet.com/tech/services-and-software/celebrity-private-jets-can-still-be-tracked-despite-new-faa-rules-heres-why/#ftag=CAD590a51e)
- - [Best Apple Desktop Computers &lpar;2025&rpar;: iMac, Mac Mini, Mac Studio](https://www.wired.com/gallery/best-apple-desktop-computer/)
- - [Signs Your Gut Is Unhealthy and How to Restore It](https://www.cnet.com/health/medical/signs-your-gut-is-unhealthy-and-how-to-restore-it/#ftag=CAD590a51e)
- - [Your House is like a choose-your-own adventure mystery book](https://www.theverge.com/games-review/643827/your-house-review-pc-ios-android)<!-- TECH:END -->
+ - [Best Apple Desktop Computers &lpar;2025&rpar;: iMac, Mac Mini, Mac Studio](https://www.wired.com/gallery/best-apple-desktop-computer/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

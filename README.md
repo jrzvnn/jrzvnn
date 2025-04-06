@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta AI gets two new models as Meta releases Llama 4](https://www.theverge.com/news/644171/llama-4-released-ai-model-whatsapp-messenger-instagram-direct)
+ - [The BBC complains to the UK CMA that Apple and Google&#39;s news aggregators weaken its relationship with the public by downplaying the BBC branding &lpar;Charles Martin/AppleInsider&rpar;](http://www.techmeme.com/250405/p19#a250405p19)
+ - [Mark Zuckerberg says Meta will share news about a Llama 4 Reasoning model &quot;in the next month&quot; &lpar;Cheyenne MacDonald/Engadget&rpar;](http://www.techmeme.com/250405/p18#a250405p18)
+ - [Meta releases two Llama 4 AI models](https://www.theverge.com/news/644171/llama-4-released-ai-model-whatsapp-messenger-instagram-direct)
  - [Microsoft unveils a replica of Quake II generated using its Muse AI model and playable in a browser, as part of the company&#39;s Copilot in Gaming push &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250405/p17#a250405p17)
- - [Sources: DOGE is hosting a &quot;hackathon&quot; in Washington DC next week to build a &quot;mega API&quot; for accessing all IRS data, with Palantir as a possible partner &lpar;Makena Kelly/Wired&rpar;](http://www.techmeme.com/250405/p16#a250405p16)
- - [Best Internet Providers in Boise, Idaho](https://www.cnet.com/home/internet/best-internet-providers-in-boise-id/#ftag=CAD590a51e)
- - [Meta updates Meta AI in WhatsApp, Messenger, Instagram Direct, and the Meta.AI website with Llama 4 in 40 countries; multimodal features are US-only in English &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250405/p15#a250405p15)<!-- TECH:END -->
+ - [Sources: DOGE is hosting a &quot;hackathon&quot; in Washington DC next week to build a &quot;mega API&quot; for accessing all IRS data, with Palantir as a possible partner &lpar;Makena Kelly/Wired&rpar;](http://www.techmeme.com/250405/p16#a250405p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

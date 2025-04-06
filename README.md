@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stupid ass movie](http://9gag.com/gag/azxGrbm)
- - 😝 [If you know you know](http://9gag.com/gag/aNDVnRw)
- - 💣 [Let down your weave yo!](http://9gag.com/gag/aYQPwYx)
- - 😝 [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)
- - 👉 [GTA 6 looks weird](http://9gag.com/gag/a0e6Lxd)<!-- MEMES:END -->
+ - 😝 [No one will go home](http://9gag.com/gag/aVvmegn)
+ - 😝 [Cutest smile in a while](http://9gag.com/gag/aryZRp6)
+ - 💣 [Not forever, still have a vm with some classics](http://9gag.com/gag/aRBzeXA)
+ - 😝 [He didn&#39;t stand a chance](http://9gag.com/gag/aGyMD37)
+ - 👉 [M@n only want one thing and it\u2019s freaking amazing!](http://9gag.com/gag/aLnG24z)<!-- MEMES:END -->
 
 ---
 

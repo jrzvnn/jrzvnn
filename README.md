@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We have to do this](http://9gag.com/gag/a0e6dyQ)
+ - 😝 [The entire north face of Mt. St. Helens slides off before erupting in a massive explosion.](http://9gag.com/gag/awyLV9y)
  - 😝 [He didn&#39;t find it](http://9gag.com/gag/aYQPw7O)
- - 💣 [Selfie](http://9gag.com/gag/a87DYPZ)
- - 😝 [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)
- - 👉 [Okay I&#39;m waiting for you degenerates to post the screenshots](http://9gag.com/gag/aNDVW2K)<!-- MEMES:END -->
+ - 💣 [Hootie party was a blast](http://9gag.com/gag/ae9VpMW)
+ - 😝 [Daily chase](http://9gag.com/gag/a0e6dnO)
+ - 👉 [F**k Netflix](http://9gag.com/gag/aKGW3nW)<!-- MEMES:END -->
 
 ---
 

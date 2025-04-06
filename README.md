@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple may be able to delay price increases, but not for long](https://appleinsider.com/articles/25/04/06/apple-may-be-able-to-delay-price-increases-but-not-for-long?utm_medium=rss)
+ - [The Best Samsung Galaxy S25 Cases and Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-samsung-galaxy-s25-cases-and-accessories/)
+ - [Wi-Fi is one of the great backward compatibility success stories](https://www.theverge.com/tech/640678/wi-fi-spec-backward-compatibility)
  - [How Apple may adjust to the US tariffs; sources: the iPhone 17 Pro&#39;s camera panel will span the width of the phone and will be the same color as the device &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250406/p6#a250406p6)
- - [Best Noise-Canceling Headphones &lpar;2025&rpar;: Over-Ears, Wireless Earbuds, Workout Pairs](https://www.wired.com/gallery/best-noise-canceling-headphones/)
- - [Best Comforters for 2025: Sleep Cooler This Spring With These 8 Options](https://www.cnet.com/health/sleep/best-comforters/#ftag=CAD590a51e)
- - [Quantum mechanics might have the solution to joystick drift](https://www.theverge.com/tech/643886/joystick-drift-tunneling-magnetoresistance-tmr-hall-effect-gaming-solution)
- - [A look at the US market for humanoids in homes and businesses; PitchBook says investors have poured $7.2B into 50+ startups since 2015, including $1.6B in 2024 &lpar;New York Times&rpar;](http://www.techmeme.com/250406/p5#a250406p5)<!-- TECH:END -->
+ - [Best Noise-Canceling Headphones &lpar;2025&rpar;: Over-Ears, Wireless Earbuds, Workout Pairs](https://www.wired.com/gallery/best-noise-canceling-headphones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

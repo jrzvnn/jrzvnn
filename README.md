@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I like my rig clean](http://9gag.com/gag/awyLK54)
- - 😝 [Thanks Eva](http://9gag.com/gag/aPA8MYq)
- - 💣 [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)
- - 😝 [This is why nobody wants to watch the WNBA even at its `best`](http://9gag.com/gag/aE0oz7p)
- - 👉 [Stupid ass movie](http://9gag.com/gag/azxGrbm)<!-- MEMES:END -->
+ - 😝 [With mayonnaise!](http://9gag.com/gag/a7oVbve)
+ - 😝 [GTA 6 looks weird](http://9gag.com/gag/a0e6Lxd)
+ - 💣 [I feel ya](http://9gag.com/gag/azxGjpb)
+ - 😝 [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)
+ - 👉 [What else did he expect?](http://9gag.com/gag/a1m5d52)<!-- MEMES:END -->
 
 ---
 

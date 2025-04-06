@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SandboxAQ, which uses quantum computing to develop AI, raised a $150M Series E extension from Google, Nvidia, and others, taking its total funding to $950M+ &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/250405/p20#a250405p20)
  - [The BBC complains to the UK CMA that Apple and Google&#39;s news aggregators weaken its relationship with the public by downplaying the BBC branding &lpar;Charles Martin/AppleInsider&rpar;](http://www.techmeme.com/250405/p19#a250405p19)
  - [Mark Zuckerberg says Meta will share news about a Llama 4 Reasoning model &quot;in the next month&quot; &lpar;Cheyenne MacDonald/Engadget&rpar;](http://www.techmeme.com/250405/p18#a250405p18)
  - [Meta releases two Llama 4 AI models](https://www.theverge.com/news/644171/llama-4-released-ai-model-whatsapp-messenger-instagram-direct)
- - [Microsoft unveils a replica of Quake II generated using its Muse AI model and playable in a browser, as part of the company&#39;s Copilot in Gaming push &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250405/p17#a250405p17)
- - [Sources: DOGE is hosting a &quot;hackathon&quot; in Washington DC next week to build a &quot;mega API&quot; for accessing all IRS data, with Palantir as a possible partner &lpar;Makena Kelly/Wired&rpar;](http://www.techmeme.com/250405/p16#a250405p16)<!-- TECH:END -->
+ - [Microsoft unveils a demo of Quake II generated using its Muse AI model, with limited playability in a browser, as part of the company&#39;s Copilot for Gaming push &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250405/p17#a250405p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

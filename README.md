@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Send him back, send him back! shouts the British](http://9gag.com/gag/a9y87Zm)
- - 😝 [They got humor](http://9gag.com/gag/aKGWPK3)
- - 💣 [You know it&#39;s a good prank when everybody laughs](http://9gag.com/gag/aO8DmoE)
- - 😝 [Not forever, still have a vm with some classics](http://9gag.com/gag/aRBzeXA)
- - 👉 [Cutest smile in a while](http://9gag.com/gag/aryZRp6)<!-- MEMES:END -->
+ - 😝 [This is why nobody wants to watch the WNBA even at its `best`](http://9gag.com/gag/aE0oz7p)
+ - 😝 [I have bad feeling about this](http://9gag.com/gag/aryZK7X)
+ - 💣 [GTA 6 looks weird](http://9gag.com/gag/a0e6Lxd)
+ - 😝 [The Greatest FBI Mystery Ever](http://9gag.com/gag/a9y8d4m)
+ - 👉 [Would someone take him/her/they away?](http://9gag.com/gag/axybGYD)<!-- MEMES:END -->
 
 ---
 

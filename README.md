@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use your phone as a hotspot](https://www.theverge.com/how-to/643093/hotspot-pixel-iphone-how-to)
  - [‘Millions’ may have protested Trump and Musk yesterday](https://www.theverge.com/news/644237/millions-protested-hands-off-estimates-trump-musk-doge)
  - [Apple may be able to delay price increases, but not for long](https://appleinsider.com/articles/25/04/06/apple-may-be-able-to-delay-price-increases-but-not-for-long?utm_medium=rss)
  - [The Best Samsung Galaxy S25 Cases and Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-samsung-galaxy-s25-cases-and-accessories/)
- - [Wi-Fi is one of the great backward compatibility success stories](https://www.theverge.com/tech/640678/wi-fi-spec-backward-compatibility)
- - [How Apple may adjust to the US tariffs; sources: the iPhone 17 Pro&#39;s camera panel will span the width of the phone and will be the same color as the device &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250406/p6#a250406p6)<!-- TECH:END -->
+ - [Wi-Fi is one of the great backward compatibility success stories](https://www.theverge.com/tech/640678/wi-fi-spec-backward-compatibility)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

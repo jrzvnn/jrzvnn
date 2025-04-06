@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [... I got it](http://9gag.com/gag/ae9V30b)
- - 😝 [He didn&#39;t find it](http://9gag.com/gag/aYQPw7O)
- - 💣 [The Greatest FBI Mystery Ever](http://9gag.com/gag/a9y8d4m)
- - 😝 [South African Bird&#39;s Rare Behavior of Resting On Ant Colony And Allowing It&#39;s Body To Be swarmed By Insects To Assists with Cleaning The Bird of Parasites](http://9gag.com/gag/aRBzAb5)
- - 👉 [What kinda dog is this ?](http://9gag.com/gag/a34ydNN)<!-- MEMES:END -->
+ - 😝 [I want to live ...](http://9gag.com/gag/aPA8vnG)
+ - 😝 [What kinda dog is this ?](http://9gag.com/gag/a34ydNN)
+ - 💣 [Ok\u2026 what cars were in the driveway?????](http://9gag.com/gag/aqyQmqp)
+ - 😝 [How it all started.](http://9gag.com/gag/aoy4zGA)
+ - 👉 [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)<!-- MEMES:END -->
 
 ---
 

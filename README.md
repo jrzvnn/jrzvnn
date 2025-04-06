@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: newly announced US tariffs for goods from China could raise the bill of materials for the iPhone 16 Pro with 256GB of storage from ~$550 to ~$850 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250406/p3#a250406p3)
- - [DeepSeek and Tsinghua University researchers detail an approach combining reasoning methods to let LLMs deliver better and faster results to general queries &lpar;Xinmei Shen/South China Morning Post&rpar;](http://www.techmeme.com/250406/p2#a250406p2)
- - [Foxconn reports Q1 revenue up 24.2% YoY to $49.5B, driven by AI demand, but says the impact of evolving global political conditions will need &quot;close monitoring&quot; &lpar;Ben Blanchard/Reuters&rpar;](http://www.techmeme.com/250406/p1#a250406p1)
- - [SandboxAQ, which uses quantum computing to develop AI, raised a $150M Series E extension from Google, Nvidia, and others, taking its total funding to $950M+ &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/250405/p20#a250405p20)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, April 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-april-6/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, April 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-april-6/#ftag=CAD590a51e)
+ - [Meta releases two Llama 4 AI models](https://www.theverge.com/news/644171/llama-4-released-ai-model-whatsapp-messenger-instagram-direct)
+ - [Best Internet Providers in Boise, Idaho](https://www.cnet.com/home/internet/best-internet-providers-in-boise-id/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 6, #195](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-6-195/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for April 6, #665](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-6-665/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

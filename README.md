@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Let down your weave yo!](http://9gag.com/gag/aYQPwYx)
+ - 😝 [I have bad feeling about this](http://9gag.com/gag/aryZK7X)
+ - 💣 [Hootie party was a blast](http://9gag.com/gag/ae9VpMW)
  - 😝 [What else did he expect?](http://9gag.com/gag/a1m5d52)
- - 😝 [GTA 6 looks weird](http://9gag.com/gag/a0e6Lxd)
- - 💣 [Premature sniperator](http://9gag.com/gag/amom93o)
- - 😝 [Selfie](http://9gag.com/gag/a87DYPZ)
  - 👉 [I feel ya](http://9gag.com/gag/azxGjpb)<!-- MEMES:END -->
 
 ---

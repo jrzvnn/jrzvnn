@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ok\u2026 what cars were in the driveway?????](http://9gag.com/gag/aqyQmqp)
- - 😝 [I like my rig clean](http://9gag.com/gag/awyLK54)
- - 💣 [Hey Netflix, what is wrong with you?](http://9gag.com/gag/a34y3P8)
- - 😝 [I want to live ...](http://9gag.com/gag/aPA8vnG)
- - 👉 [This is why nobody wants to watch the WNBA even at its `best`](http://9gag.com/gag/aE0oz7p)<!-- MEMES:END -->
+ - 😝 [Send him back, send him back! shouts the British](http://9gag.com/gag/a9y87Zm)
+ - 😝 [They got humor](http://9gag.com/gag/aKGWPK3)
+ - 💣 [You know it&#39;s a good prank when everybody laughs](http://9gag.com/gag/aO8DmoE)
+ - 😝 [Not forever, still have a vm with some classics](http://9gag.com/gag/aRBzeXA)
+ - 👉 [Cutest smile in a while](http://9gag.com/gag/aryZRp6)<!-- MEMES:END -->
 
 ---
 

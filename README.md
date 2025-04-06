@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let down your weave yo!](http://9gag.com/gag/aYQPwYx)
- - 😝 [Would someone take him/her/they away?](http://9gag.com/gag/axybGYD)
- - 💣 [I want to live ...](http://9gag.com/gag/aPA8vnG)
- - 😝 [How it all started.](http://9gag.com/gag/aoy4zGA)
- - 👉 [Hey Netflix, what is wrong with you?](http://9gag.com/gag/a34y3P8)<!-- MEMES:END -->
+ - 😝 [I have bad feeling about this](http://9gag.com/gag/aryZK7X)
+ - 😝 [I wonder why ..hahaha](http://9gag.com/gag/apRPqbM)
+ - 💣 [Would someone take him/her/they away?](http://9gag.com/gag/axybGYD)
+ - 😝 [This is not a fashionable neighborhood, but a graveyard for the Sinaloa cartel.](http://9gag.com/gag/a87DjmZ)
+ - 👉 [This is why nobody wants to watch the WNBA even at its `best`](http://9gag.com/gag/aE0oz7p)<!-- MEMES:END -->
 
 ---
 

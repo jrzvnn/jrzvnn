@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)
+ - 😝 [... I got it](http://9gag.com/gag/ae9V30b)
  - 😝 [He didn&#39;t find it](http://9gag.com/gag/aYQPw7O)
- - 💣 [Missing no more. Meet Link](http://9gag.com/gag/apRPBpn)
- - 😝 [Kid interviewed with mum behind the scene! Parents working 24/7 for ends meet for the child ended up ignoring the child!](http://9gag.com/gag/a6ZnwXq)
- - 👉 [How it all started.](http://9gag.com/gag/aoy4zGA)<!-- MEMES:END -->
+ - 💣 [The Greatest FBI Mystery Ever](http://9gag.com/gag/a9y8d4m)
+ - 😝 [South African Bird&#39;s Rare Behavior of Resting On Ant Colony And Allowing It&#39;s Body To Be swarmed By Insects To Assists with Cleaning The Bird of Parasites](http://9gag.com/gag/aRBzAb5)
+ - 👉 [What kinda dog is this ?](http://9gag.com/gag/a34ydNN)<!-- MEMES:END -->
 
 ---
 

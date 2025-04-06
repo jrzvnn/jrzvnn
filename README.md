@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Acer Aspire 14 AI Review: Cheap Copilot Plus PC Offers Great Battery Life and Future-Proofing](https://www.cnet.com/tech/computing/acer-aspire-14-ai-review-cheap-copilot-plus-pc-offers-great-battery-life-and-future-proofing/#ftag=CAD590a51e)
+ - [These Are 20 of the Absolute Best Sci-Fi TV Shows on Netflix](https://www.cnet.com/tech/services-and-software/best-sci-fi-tv-shows-on-netflix-2025/#ftag=CAD590a51e)
  - [Scientists Are Mapping the Boundaries of What Is Knowable and Unknowable](https://www.wired.com/story/next-level-chaos-traces-the-true-limit-of-predictability/)
  - [Color is a mathematical nightmare](https://www.theverge.com/tech/643638/color-models-spaces-gamut-mathematical-nightmare)
- - [Best Resume Writing Services for 2025](https://www.cnet.com/tech/services-and-software/best-resume-writing-services/#ftag=CAD590a51e)
- - [What Are Carbon-Plated Running Shoes? An Expert Recommends These Brands](https://www.cnet.com/health/fitness/what-are-carbon-plated-running-shoes-expert-recommends-these-brands/#ftag=CAD590a51e)
- - [Anthropic&#39;s Alignment Science team: &quot;legibility&quot; or &quot;faithfulness&quot; of reasoning models&#39; Chain-of-Thought can&#39;t be trusted and models may actively hide reasoning &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/250406/p4#a250406p4)<!-- TECH:END -->
+ - [Cortisol Imbalance: Everything You Need to Know About the Stress Hormone](https://www.cnet.com/health/cortisol-imbalance-everything-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

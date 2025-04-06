@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: child begging livestreams are actively promoted by TikTok&#39;s algorithm and TikTok profits from the content despite having policies against begging &lpar;Shanti Das/The Guardian&rpar;](http://www.techmeme.com/250406/p10#a250406p10)
- - [Security advisor blames iPhone for revealing war plans](https://appleinsider.com/articles/25/04/06/security-advisor-blames-iphone-for-revealing-war-plans?utm_medium=rss)
- - [Lina Khan, Steve Bannon, and others worry the FTC could abandon its Meta antitrust case after Zuckerberg&#39;s concessions to Trump; the trial is set for April 14 &lpar;Brendan Bordelon/Politico&rpar;](http://www.techmeme.com/250406/p9#a250406p9)
- - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
- - [Sources: Apple is keeping TikTok and other ByteDance apps on its US App Store for at least another 75 days, following assurances from AG Pam Bondi &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250406/p8#a250406p8)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 7, #196](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-7-196/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 7, #400](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-7-400/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for April 7, #666](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-7-666/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for April 7, #1388](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-7-1388/#ftag=CAD590a51e)
+ - [Analysis: child begging livestreams are actively promoted by TikTok&#39;s algorithm and TikTok profits from the content despite having policies against begging &lpar;Shanti Das/The Guardian&rpar;](http://www.techmeme.com/250406/p10#a250406p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

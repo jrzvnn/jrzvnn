@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Daily chase](http://9gag.com/gag/a0e6dnO)
- - 😝 [Hootie party was a blast](http://9gag.com/gag/ae9VpMW)
- - 💣 [You need to men the fence with someone](http://9gag.com/gag/ae9VbgO)
- - 😝 [Stupid ass movie](http://9gag.com/gag/azxGrbm)
- - 👉 [What else did he expect?](http://9gag.com/gag/a1m5d52)<!-- MEMES:END -->
+ - 😝 [Old growth lumber vs modern factory farmed lumber](http://9gag.com/gag/a87DM7e)
+ - 💣 [We have to do this](http://9gag.com/gag/a0e6dyQ)
+ - 😝 [He didn&#39;t find it](http://9gag.com/gag/aYQPw7O)
+ - 👉 [This is why nobody wants to watch the WNBA even at its `best`](http://9gag.com/gag/aE0oz7p)<!-- MEMES:END -->
 
 ---
 

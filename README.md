@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Stupid ass movie](http://9gag.com/gag/azxGrbm)
- - 😝 [Bone story](http://9gag.com/gag/a2vy549)
- - 💣 [... I got it](http://9gag.com/gag/ae9V30b)
+ - 😝 [If you know you know](http://9gag.com/gag/aNDVnRw)
+ - 💣 [Let down your weave yo!](http://9gag.com/gag/aYQPwYx)
  - 😝 [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)
- - 👉 [Hey Netflix, what is wrong with you?](http://9gag.com/gag/a34y3P8)<!-- MEMES:END -->
+ - 👉 [GTA 6 looks weird](http://9gag.com/gag/a0e6Lxd)<!-- MEMES:END -->
 
 ---
 

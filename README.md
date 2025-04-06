@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I like my rig clean](http://9gag.com/gag/awyLK54)
  - 😝 [Thanks Eva](http://9gag.com/gag/aPA8MYq)
- - 😝 [Bone story](http://9gag.com/gag/a2vy549)
- - 💣 [Hey Netflix, what is wrong with you?](http://9gag.com/gag/a34y3P8)
- - 😝 [Old growth lumber vs modern factory farmed lumber](http://9gag.com/gag/a87DM7e)
- - 👉 [Selfie](http://9gag.com/gag/a87DYPZ)<!-- MEMES:END -->
+ - 💣 [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)
+ - 😝 [This is why nobody wants to watch the WNBA even at its `best`](http://9gag.com/gag/aE0oz7p)
+ - 👉 [Stupid ass movie](http://9gag.com/gag/azxGrbm)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: UPS employee charged in $200,000 theft that included Apple products](https://appleinsider.com/articles/25/04/06/crime-blotter-ups-employee-charged-in-200000-theft-that-included-apple-products?utm_medium=rss)
- - [Apple plans another iPhone X style redesign for the iPhone 20](https://appleinsider.com/articles/25/04/06/apple-plans-another-iphone-x-style-redesign-for-the-iphone-20?utm_medium=rss)
- - [6 Best MagSafe Phone Grips &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-grips/)
- - [One streaming app to &lpar;almost&rpar; rule them all](https://www.theverge.com/installer-newsletter/643890/plex-delta-skylight-switch-2-installer)
- - [Acer Aspire 14 AI Review: Cheap Copilot Plus PC Offers Great Battery Life and Future-Proofing](https://www.cnet.com/tech/computing/acer-aspire-14-ai-review-cheap-copilot-plus-pc-offers-great-battery-life-and-future-proofing/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Apple Desktop Computers &lpar;2025&rpar;: iMac, Mac Mini, Mac Studio](https://www.wired.com/gallery/best-apple-desktop-computer/)
+ - [Your House is like a choose-your-own adventure mystery book](https://www.theverge.com/games-review/643827/your-house-review-pc-ios-android)
+ - [‘Hands Off’: Protesters deliver a sweeping message to Trump and Musk at a DC rally](https://www.theverge.com/policy/644186/hands-off-washington-dc-protest-musk-trump-doge)
+ - [Apple&#39;s Home Hub pushed back to 2026 after delayed Siri improvements](https://appleinsider.com/articles/25/04/06/apples-home-hub-pushed-back-to-2026-after-delayed-siri-improvements?utm_medium=rss)
+ - [Crime blotter: UPS employee charged in $200,000 theft that included Apple products](https://appleinsider.com/articles/25/04/06/crime-blotter-ups-employee-charged-in-200000-theft-that-included-apple-products?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

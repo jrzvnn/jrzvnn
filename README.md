@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Security advisor blames iPhone for revealing war plans](https://appleinsider.com/articles/25/04/06/security-advisor-blames-iphone-for-revealing-war-plans?utm_medium=rss)
  - [Lina Khan, Steve Bannon, and others worry the FTC could abandon its Meta antitrust case after Zuckerberg&#39;s concessions to Trump; the trial is set for April 14 &lpar;Brendan Bordelon/Politico&rpar;](http://www.techmeme.com/250406/p9#a250406p9)
  - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
  - [Sources: Apple is keeping TikTok and other ByteDance apps on its US App Store for at least another 75 days, following assurances from AG Pam Bondi &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250406/p8#a250406p8)
- - [More than 1,300 rallies worldwide protest Trump and Musk](https://www.theverge.com/news/644113/hands-off-rally-protests-trump-musk-footage)
- - [Z-Wave, popular among smart home enthusiasts, becomes an open-source protocol with a new long-range technology as it seeks Matter support to avoid obsolescence &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250406/p7#a250406p7)<!-- TECH:END -->
+ - [More than 1,300 rallies worldwide protest Trump and Musk](https://www.theverge.com/news/644113/hands-off-rally-protests-trump-musk-footage)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [SandboxAQ, which uses quantum computing to develop AI, raised a $150M Series E extension from Google, Nvidia, and others, taking its total funding to $950M+ &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/250405/p20#a250405p20)
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, April 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-april-6/#ftag=CAD590a51e)
  - [The BBC complains to the UK CMA that Apple and Google&#39;s news aggregators weaken its relationship with the public by downplaying the BBC branding &lpar;Charles Martin/AppleInsider&rpar;](http://www.techmeme.com/250405/p19#a250405p19)
  - [Mark Zuckerberg says Meta will share news about a Llama 4 Reasoning model &quot;in the next month&quot; &lpar;Cheyenne MacDonald/Engadget&rpar;](http://www.techmeme.com/250405/p18#a250405p18)
- - [Meta releases two Llama 4 AI models](https://www.theverge.com/news/644171/llama-4-released-ai-model-whatsapp-messenger-instagram-direct)
- - [Microsoft unveils a demo of Quake II generated using its Muse AI model, with limited playability in a browser, as part of the company&#39;s Copilot for Gaming push &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250405/p17#a250405p17)<!-- TECH:END -->
+ - [Meta releases two Llama 4 AI models](https://www.theverge.com/news/644171/llama-4-released-ai-model-whatsapp-messenger-instagram-direct)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

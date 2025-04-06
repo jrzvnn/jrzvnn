@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let down your weave yo!](http://9gag.com/gag/aYQPwYx)
+ - 😝 [A classic 2000s masterpiece](http://9gag.com/gag/a34yjP1)
  - 😝 [Lazy title](http://9gag.com/gag/aD2Z3EK)
- - 💣 [This is why nobody wants to watch the WNBA even at its `best`](http://9gag.com/gag/aE0oz7p)
+ - 💣 [I have bad feeling about this](http://9gag.com/gag/aryZK7X)
  - 😝 [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)
- - 👉 [Would someone take him/her/they away?](http://9gag.com/gag/axybGYD)<!-- MEMES:END -->
+ - 👉 [Missing no more. Meet Link](http://9gag.com/gag/apRPBpn)<!-- MEMES:END -->
 
 ---
 

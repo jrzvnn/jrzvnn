@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Thanks Eva](http://9gag.com/gag/aPA8MYq)
  - 😝 [What kinda dog is this ?](http://9gag.com/gag/a34ydNN)
- - 😝 [When you perfectly predict future](http://9gag.com/gag/aW4v0vK)
- - 💣 [Old growth lumber vs modern factory farmed lumber](http://9gag.com/gag/a87DM7e)
- - 😝 [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)
- - 👉 [I feel ya](http://9gag.com/gag/azxGjpb)<!-- MEMES:END -->
+ - 💣 [Oh look! The consequences of my own actions!](http://9gag.com/gag/a4P5dyA)
+ - 😝 [Old growth lumber vs modern factory farmed lumber](http://9gag.com/gag/a87DM7e)
+ - 👉 [Selfie](http://9gag.com/gag/a87DYPZ)<!-- MEMES:END -->
 
 ---
 

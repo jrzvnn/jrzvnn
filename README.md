@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Best Noise-Canceling Headphones &lpar;2025&rpar;: Over-Ears, Wireless Earbuds, Workout Pairs](https://www.wired.com/gallery/best-noise-canceling-headphones/)
+ - [Best Comforters for 2025: Sleep Cooler This Spring With These 8 Options](https://www.cnet.com/health/sleep/best-comforters/#ftag=CAD590a51e)
  - [Quantum mechanics might have the solution to joystick drift](https://www.theverge.com/tech/643886/joystick-drift-tunneling-magnetoresistance-tmr-hall-effect-gaming-solution)
  - [A look at the US market for humanoids in homes and businesses; PitchBook says investors have poured $7.2B into 50+ startups since 2015, including $1.6B in 2024 &lpar;New York Times&rpar;](http://www.techmeme.com/250406/p5#a250406p5)
- - [Celebrity Private Jets Can Still Be Tracked Despite New FAA Rules. Here&#39;s Why](https://www.cnet.com/tech/services-and-software/celebrity-private-jets-can-still-be-tracked-despite-new-faa-rules-heres-why/#ftag=CAD590a51e)
- - [Best Apple Desktop Computers &lpar;2025&rpar;: iMac, Mac Mini, Mac Studio](https://www.wired.com/gallery/best-apple-desktop-computer/)<!-- TECH:END -->
+ - [Celebrity Private Jets Can Still Be Tracked Despite New FAA Rules. Here&#39;s Why](https://www.cnet.com/tech/services-and-software/celebrity-private-jets-can-still-be-tracked-despite-new-faa-rules-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

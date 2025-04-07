@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You are a bodybuilder harry](http://9gag.com/gag/amom7qj)
- - 😝 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)
- - 💣 [Bob had that dog in him. What do you think she whispered in his ear?](http://9gag.com/gag/abAW6nX)
- - 😝 [Okay I&#39;m waiting for you degenerates to post the screenshots](http://9gag.com/gag/aNDVW2K)
- - 👉 [Oh Boy...](http://9gag.com/gag/a9y8pqL)<!-- MEMES:END -->
+ - 😝 [Is there?](http://9gag.com/gag/avyErZW)
+ - 😝 [Daily chase](http://9gag.com/gag/a0e6dnO)
+ - 💣 [You are a bodybuilder harry](http://9gag.com/gag/amom7qj)
+ - 😝 [How flies actually eat your food](http://9gag.com/gag/aO8Ddey)
+ - 👉 [F**k Netflix](http://9gag.com/gag/aKGW3nW)<!-- MEMES:END -->
 
 ---
 

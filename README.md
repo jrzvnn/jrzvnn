@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple could import more iPhones from India due to Trump&#39;s tariffs](https://appleinsider.com/articles/25/04/07/apple-could-import-more-iphones-from-india-due-to-trumps-tariffs?utm_medium=rss)
+ - [Microsoft fires employee protestor who called AI boss a ‘war profiteer’](https://www.theverge.com/news/644769/microsoft-fires-employee-protestor-war-profiteer)
  - [Apple stock hammered for third consecutive market day, falls on news of more tariffs](https://appleinsider.com/articles/25/04/07/apple-stock-hammered-for-third-consecutive-market-day-falls-on-news-of-more-tariffs?utm_medium=rss)
  - [Waymo: ‘no plans’ to use in-car camera data for targeted ads](https://www.theverge.com/news/644770/waymo-interior-camera-ai-training-ads-privacy)
- - [You can borrow and resell Nintendo&amp;#8217;s Switch 2 game-key cards](https://www.theverge.com/news/644803/nintendo-switch-2-game-key-cards-trade-borrow-resell)
- - [Microsoft fires employee protestor who called AI boss a ‘war profiteer’](https://www.theverge.com/news/644769/microsoft-fires-employee-protestor-war-profiteer)<!-- TECH:END -->
+ - [You can borrow and resell Nintendo&amp;#8217;s Switch 2 game-key cards](https://www.theverge.com/news/644803/nintendo-switch-2-game-key-cards-trade-borrow-resell)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

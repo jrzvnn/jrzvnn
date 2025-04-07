@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The CEO of humanoid robot startup Figure AI, which has raised $700M+ to date, seemingly exaggerated its deployment of robots at BMW in interviews and posts &lpar;Jason Del Rey/Fortune&rpar;](http://www.techmeme.com/250407/p24#a250407p24)
  - [Scammers are getting smarter, here&#39;s how you can prevent getting phished](https://appleinsider.com/inside/ios-18/tips/scammers-are-getting-smarter-heres-how-you-can-prevent-getting-phished?utm_medium=rss)
  - [Deals: Save up to $1,700 on MacBook Pros today](https://appleinsider.com/articles/25/04/07/deals-save-up-to-1700-on-macbook-pros-today?utm_medium=rss)
  - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)
- - [Promise Thunderbolt 5 enclosures boost speed &amp; storage for Mac creative workflows](https://appleinsider.com/articles/25/04/07/promise-thunderbolt-5-enclosures-boost-speed-storage-for-mac-creative-workflows?utm_medium=rss)
- - [Apple Vision Pro immersive video library management utility arrives for Mac](https://appleinsider.com/articles/25/04/07/apple-vision-pro-immersive-video-library-management-utility-arrives-for-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Promise Thunderbolt 5 enclosures boost speed &amp; storage for Mac creative workflows](https://appleinsider.com/articles/25/04/07/promise-thunderbolt-5-enclosures-boost-speed-storage-for-mac-creative-workflows?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

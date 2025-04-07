@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Waymo: ‘no plans’ to use in-car camera data for targeted ads](https://www.theverge.com/news/644770/waymo-interior-camera-ai-training-ads-privacy)
+ - [Apple stock hammered for third consecutive market day, falls on news of more tariffs](https://appleinsider.com/articles/25/04/07/apple-stock-hammered-for-third-consecutive-market-day-falls-on-news-of-more-tariffs?utm_medium=rss)
+ - [You can borrow and resell Nintendo&amp;#8217;s Switch 2 game-key cards](https://www.theverge.com/news/644803/nintendo-switch-2-game-key-cards-trade-borrow-resell)
  - [Microsoft fires employee protestor who called AI boss a ‘war profiteer’](https://www.theverge.com/news/644769/microsoft-fires-employee-protestor-war-profiteer)
- - [Google Search&#39;s AI Mode feature, rolled out to millions more in the US, now gains multimodal capabilities, letting users ask complex questions about pictures &lpar;Ryan Whitwam/Ars Technica&rpar;](http://www.techmeme.com/250407/p28#a250407p28)
- - [Whoopsie daisy Bitcoin!](https://www.theverge.com/cryptocurrency/644749/bitcoin-tariff-fall-pricing)
- - [Meta VP of generative AI Ahmad Al-Dahle denies a rumor that the company trained its Llama 4 models on test sets, saying Meta &quot;would never do that&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250407/p27#a250407p27)
- - [Atto&#39;s Fibre Channel and dual 100 gigabit Thunderbolt 5 adapters supercharge Mac media production](https://appleinsider.com/articles/25/04/07/attos-fibre-channel-and-dual-100-gigabit-thunderbolt-5-adapters-supercharge-mac-media-production?utm_medium=rss)<!-- TECH:END -->
+ - [Google Search&#39;s AI Mode feature, rolled out to millions more in the US, now gains multimodal capabilities, letting users ask complex questions about pictures &lpar;Ryan Whitwam/Ars Technica&rpar;](http://www.techmeme.com/250407/p28#a250407p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

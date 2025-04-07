@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stupid ass movie](http://9gag.com/gag/azxGrbm)
- - 😝 [David Beckham Can&#39;t Handle Ali G](http://9gag.com/gag/apRPLYb)
- - 💣 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)
- - 😝 [I feel ya](http://9gag.com/gag/azxGjpb)
+ - 😝 [Absolute cinema](http://9gag.com/gag/a9y8r1W)
+ - 😝 [Easy as it sound](http://9gag.com/gag/aD2ZjZN)
+ - 💣 [David Beckham Can&#39;t Handle Ali G](http://9gag.com/gag/apRPLYb)
+ - 😝 [Premature sniperator](http://9gag.com/gag/amom93o)
  - 👉 [F**k Netflix](http://9gag.com/gag/aKGW3nW)<!-- MEMES:END -->
 
 ---

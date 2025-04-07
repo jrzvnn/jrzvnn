@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My bees survived the winter.](http://9gag.com/gag/aoy41Ow)
- - 😝 [Thanks Eva](http://9gag.com/gag/aPA8MYq)
- - 💣 [I call it &#39;&#39;Pattern recognition&#39;&#39;](http://9gag.com/gag/adBn7VZ)
- - 😝 [Insect macro photography](http://9gag.com/gag/ayNWD9b)
- - 👉 [You need to men the fence with someone](http://9gag.com/gag/ae9VbgO)<!-- MEMES:END -->
+ - 😝 [A classic 2000s masterpiece](http://9gag.com/gag/a34yjP1)
+ - 😝 [Easy as it sound](http://9gag.com/gag/aD2ZjZN)
+ - 💣 [Is this really a cult?](http://9gag.com/gag/an7vy2V)
+ - 😝 [F**k Netflix](http://9gag.com/gag/aKGW3nW)
+ - 👉 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)<!-- MEMES:END -->
 
 ---
 

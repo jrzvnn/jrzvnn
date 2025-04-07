@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bob had that dog in him. What do you think she whispered in his ear?](http://9gag.com/gag/abAW6nX)
  - 😝 [What else did he expect?](http://9gag.com/gag/a1m5d52)
- - 💣 [Wholesome toy](http://9gag.com/gag/aO8DmDD)
- - 😝 [When you see your ex in public](http://9gag.com/gag/a6Zn7em)
- - 👉 [We have to do this](http://9gag.com/gag/a0e6dyQ)<!-- MEMES:END -->
+ - 😝 [The new Central Park 5, wait until the left starts defending them too and later make Netflix documentaries how they&#39;re innocent.](http://9gag.com/gag/a87DpO1)
+ - 💣 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)
+ - 😝 [Bob had that dog in him. What do you think she whispered in his ear?](http://9gag.com/gag/abAW6nX)
+ - 👉 [Wholesome toy](http://9gag.com/gag/aO8DmDD)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sonnet&#39;s new xMac &amp; PCIe gear give your Mac mini pro-level expansion](https://appleinsider.com/articles/25/04/07/sonnets-new-xmac-pcie-gear-give-your-mac-mini-pro-level-expansion?utm_medium=rss)
  - [Q&amp;A with Nintendo of America VP of Product Bill Trinen on pricing first-party games like Mario Kart World at $80, Joy-Con 2 and using it as a mouse, and more &lpar;Logan Plant/IGN&rpar;](http://www.techmeme.com/250407/p18#a250407p18)
  - [Nintendo confirmed the Switch 2’s Joy-Cons don’t use Hall effect joysticks](https://www.theverge.com/news/644457/nintendo-switch-2-joy-con-controller-hall-effect-joystick-drift)
  - [Mission: Impossible – The Final Reckoning’s new trailer is one big leap of faith](https://www.theverge.com/news/644410/mission-impossible-the-final-reckoning-trailer-premiere-date)
- - [UK bans fake reviews and ‘sneaky’ fees for online products](https://www.theverge.com/news/644414/uk-dmcc-bans-hidden-online-fees-fake-reviews)
- - [WhatsApp tests letting you block people from exporting your chats](https://www.theverge.com/news/644408/whatsapp-meta-chat-privacy-setting-block-export)<!-- TECH:END -->
+ - [UK bans fake reviews and ‘sneaky’ fees for online products](https://www.theverge.com/news/644414/uk-dmcc-bans-hidden-online-fees-fake-reviews)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

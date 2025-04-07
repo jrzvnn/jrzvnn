@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This movie is so underrated, from b4 disney got the woke virus, directed by Sam raimi too](http://9gag.com/gag/aryZ5LX)
- - 😝 [Mother cat gains the trust of a scared rescue kitten who was abused by it&#39;s previous owners](http://9gag.com/gag/aMVnAYX)
- - 💣 [Verbal Assassin](http://9gag.com/gag/amomrjv)
- - 😝 [The gay cleaning burglar](http://9gag.com/gag/aMVn80X)
- - 👉 [Young me creating an acc on 9Gag to watch some tettens](http://9gag.com/gag/aRBzjmB)<!-- MEMES:END -->
+ - 😝 [Well this is just really sad](http://9gag.com/gag/aByPWEx)
+ - 😝 [Daily chase](http://9gag.com/gag/a0e6dnO)
+ - 💣 [Stupid ass movie](http://9gag.com/gag/azxGrbm)
+ - 😝 [Is this really a cult?](http://9gag.com/gag/an7vy2V)
+ - 👉 [Yea...no thanks](http://9gag.com/gag/aNDVdGb)<!-- MEMES:END -->
 
 ---
 

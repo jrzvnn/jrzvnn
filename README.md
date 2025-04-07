@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stanford&#39;s 2025 AI index: China files more AI patents than the US, but US companies produced 40 frontier models, compared to 15 from China and three from Europe &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250407/p13#a250407p13)
- - [An IVF Alternative Could Make Having Babies Less Onerous](https://www.wired.com/story/this-alternative-ivf-method-matures-eggs-outside-the-body-gameto/)
- - [Devastating tariffs force Wedbush to slash Apple stock target by $75 to $250](https://appleinsider.com/articles/25/04/07/devastating-tariffs-force-wedbush-to-slash-apple-stock-target-by-75-to-250?utm_medium=rss)
- - [Lower Your Mortgage Rate by 1% or More With These Housing Hacks](https://www.cnet.com/personal-finance/lower-your-mortgage-rate-by-1-with-these-housing-hacks/#ftag=CAD590a51e)
- - [Best Internet Providers in Denver, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-denver-co/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Switch 2’s GameChat Social Feature Could Revolutionize the Way You Play With Friends](https://www.wired.com/story/the-switch-2s-gamechat-social-feature-could-revolutionize-the-way-you-play-with-friends/)
+ - [Nintendo Is ‘Actively Assessing’ What a Trade War Means for the Switch 2](https://www.wired.com/story/nintendo-is-actively-assessing-what-trade-war-means-for-switch-2/)
+ - [Why some Switch 2 carts won’t have games on them](https://www.theverge.com/nintendo/643635/nintendo-switch-2-game-key-cards-explained)
+ - [CalDigit&#39;s new Thunderbolt 5 docks unlock high-speed workflows &amp; multi-display setups](https://appleinsider.com/articles/25/04/07/caldigits-new-thunderbolt-5-docks-unlock-high-speed-workflows-multi-display-setups?utm_medium=rss)
+ - [Stanford&#39;s 2025 AI index: China files more AI patents than the US, but US companies produced 40 frontier models, compared to 15 from China and three from Europe &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250407/p13#a250407p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

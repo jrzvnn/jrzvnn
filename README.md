@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some Shein and Temu ‘haul video’ creators are stocking up](https://www.theverge.com/creators/644886/shein-temu-haul-creators-stocking-up-tariffs)
- - [Apple Store employees say the past few days have felt like holiday season, as the threat of tariffs and potential price hikes sparked a shopping frenzy &lpar;Bloomberg&rpar;](http://www.techmeme.com/250407/p30#a250407p30)
- - [Tarriff-related iPhone price increases estimated to be lower than feared](https://appleinsider.com/articles/25/04/07/new-post-tariff-iphone-cost-estimate-comes-in-much-lower-at-just-29-more?utm_medium=rss)
- - [It&amp;#8217;s not looking good for Tesla&amp;#8217;s Cybertruck range extender](https://www.theverge.com/news/644901/tesla-cybertruck-battery-range-extender-gone)
- - [You can build these marble runs and connect them to your smart home over Wi-Fi](https://www.theverge.com/news/644694/marblelous-marble-run-toy-wi-fi-smart-home-crowdfunding-kickstarter)<!-- TECH:END -->
+ - [Gemini Live&amp;#8217;s screensharing feature is rolling out to Pixel 9 and Galaxy S25 devices](https://www.theverge.com/news/644757/google-gemini-live-screen-share-video-camera-pixel-9)
+ - [Memo: Google tells staff they can discuss the DOJ&#39;s antitrust case, rescinding an earlier command, as part of a settlement with the Alphabet Workers Union &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/250407/p32#a250407p32)
+ - [Infineon agrees to acquire Marvell&#39;s Automotive Ethernet business for ~$2.5B in cash; the unit is expected to generate revenue of $225M to $250M in FY 2026 &lpar;Vallari Srivastava/Reuters&rpar;](http://www.techmeme.com/250407/p31#a250407p31)
+ - [Shopify CEO says no new hires without proof AI can&amp;#8217;t do the job](https://www.theverge.com/news/644943/shopify-ceo-memo-ai-hires-job)
+ - [Some Shein and Temu ‘haul video’ creators are stocking up](https://www.theverge.com/creators/644886/shein-temu-haul-creators-stocking-up-tariffs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

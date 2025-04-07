@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Major publishers call on the US government to &amp;#8216;Stop AI Theft&amp;#8217;](https://www.theverge.com/news/644612/major-publishers-stop-ai-theft-ad-campaign)
+ - [An unreleased version of a Waymo privacy policy found by Jane Manchun Wong says it may use interior camera data to train AI models and sell ads, with an opt out &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250407/p23#a250407p23)
+ - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
  - [One of the best 4K QD-OLED gaming monitors is cheaper than ever](https://www.theverge.com/tech/644427/alienware-4k-oled-gaming-monitor-240hz-lego-sale)
- - [The White House’s group chat screwup is even more ridiculous than we thought](https://www.theverge.com/news/644446/white-house-signal-group-chat-blamed-ios-siri-suggestion)
- - [The see-through Beats Studio Buds Plus are on sale for less than $100](https://www.theverge.com/tech/644500/beats-studio-buds-plus-android-ios-amazon-deal-sale)
- - [How Apple stockpiled iPhones to avoid tariffs and keep prices low for a while](https://appleinsider.com/articles/25/04/07/how-apple-stockpiled-iphones-to-avoid-tariffs-and-keep-prices-low-for-a-while?utm_medium=rss)
- - [Sources: the board of directors of clothing inventory monetization startup CaaStle let its CEO remain after fraud allegations and took months to warn investors &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250407/p22#a250407p22)<!-- TECH:END -->
+ - [The White House’s group chat screwup is even more ridiculous than we thought](https://www.theverge.com/news/644446/white-house-signal-group-chat-blamed-ios-siri-suggestion)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

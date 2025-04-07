@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: OpenAI recently discussed acquiring io Products, a startup co-founded by Jony Ive and Sam Altman to build an AI-powered device, for at least $500M &lpar;The Information&rpar;](http://www.techmeme.com/250407/p1#a250407p1)
  - [Today&#39;s NYT Mini Crossword Answers for Monday, April 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-april-7/#ftag=CAD590a51e)
  - [The UK bans hidden fees imposed by online businesses as well as the use or commissioning of fake reviews, effective April 6, with compliance enforced by the CMA &lpar;Jon Ungoed-Thomas/The Guardian&rpar;](http://www.techmeme.com/250406/p13#a250406p13)
  - [Best Family Phone Plans for 2025](https://www.cnet.com/tech/mobile/best-family-phone-plan/#ftag=CAD590a51e)
- - [DOGE plans now reportedly include an IRS ‘hackathon’](https://www.theverge.com/news/644327/musk-doge-irs-hackathon-taxpayer-data-transfer-cloud)
- - [Paris-based Pennylane, which makes cloud-based accounting software, raised €75M, doubling its valuation to €2B, led by Sequoia and with Alphabet among investors &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250406/p12#a250406p12)<!-- TECH:END -->
+ - [DOGE plans now reportedly include an IRS ‘hackathon’](https://www.theverge.com/news/644327/musk-doge-irs-hackathon-taxpayer-data-transfer-cloud)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

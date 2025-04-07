@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Premature sniperator](http://9gag.com/gag/amom93o)
- - 😝 [David Beckham Can&#39;t Handle Ali G](http://9gag.com/gag/apRPLYb)
- - 💣 [Bob had that dog in him. What do you think she whispered in his ear?](http://9gag.com/gag/abAW6nX)
- - 😝 [If you know you know](http://9gag.com/gag/aNDVnRw)
- - 👉 [Stupid ass movie](http://9gag.com/gag/azxGrbm)<!-- MEMES:END -->
+ - 😝 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)
+ - 😝 [We have to do this](http://9gag.com/gag/a0e6dyQ)
+ - 💣 [David Beckham Can&#39;t Handle Ali G](http://9gag.com/gag/apRPLYb)
+ - 😝 [Dramatical drop of Jack](http://9gag.com/gag/axyb00W)
+ - 👉 [Daily chase](http://9gag.com/gag/a0e6dnO)<!-- MEMES:END -->
 
 ---
 

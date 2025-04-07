@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)
- - 😝 [Only Fans Stonks](http://9gag.com/gag/aqyQrB7)
- - 💣 [A classic 2000s masterpiece](http://9gag.com/gag/a34yjP1)
- - 😝 [Dramatical drop of Jack](http://9gag.com/gag/axyb00W)
- - 👉 [This movie is so underrated, from b4 disney got the woke virus, directed by Sam raimi too](http://9gag.com/gag/aryZ5LX)<!-- MEMES:END -->
+ - 😝 [This movie is so underrated, from b4 disney got the woke virus, directed by Sam raimi too](http://9gag.com/gag/aryZ5LX)
+ - 😝 [Mother cat gains the trust of a scared rescue kitten who was abused by it&#39;s previous owners](http://9gag.com/gag/aMVnAYX)
+ - 💣 [Verbal Assassin](http://9gag.com/gag/amomrjv)
+ - 😝 [The gay cleaning burglar](http://9gag.com/gag/aMVn80X)
+ - 👉 [Young me creating an acc on 9Gag to watch some tettens](http://9gag.com/gag/aRBzjmB)<!-- MEMES:END -->
 
 ---
 

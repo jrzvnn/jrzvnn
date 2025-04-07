@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What else did he expect?](http://9gag.com/gag/a1m5d52)
+ - 😝 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)
  - 😝 [The U.S.S EnterThighs](http://9gag.com/gag/amom2pX)
- - 💣 [Still would](http://9gag.com/gag/aoy4Nx0)
- - 😝 [How flies actually eat your food](http://9gag.com/gag/aO8Ddey)
- - 👉 [Dramatical drop of Jack](http://9gag.com/gag/axyb00W)<!-- MEMES:END -->
+ - 💣 [Dramatical drop of Jack](http://9gag.com/gag/axyb00W)
+ - 😝 [`You know how to do this, right?` -`Yeah man, I didn&#39;t spend 100$ on gta 6 for nothing`](http://9gag.com/gag/ayNWXLq)
+ - 👉 [You are a bodybuilder harry](http://9gag.com/gag/amom7qj)<!-- MEMES:END -->
 
 ---
 

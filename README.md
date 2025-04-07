@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google TV remotes are getting a ‘Free TV’ button](https://www.theverge.com/news/644724/google-tv-remotes-free-live-button)
+ - [In a memo to staff Shopify&#39;s CEO says using AI is now a baseline expectation and that teams asking for more resources must first show why AI can&#39;t do the job &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250407/p26#a250407p26)
  - [Sources: Apple aims to send more iPhones to US from India, given new tariffs on China, but sees the situation as too uncertain to upend supply chain investments &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250407/p25#a250407p25)
  - [Apple TV+ brings Lumon Industries to life for thousands of &#39;Severance&#39; fans](https://appleinsider.com/articles/25/04/07/apple-tv-brings-lumon-industries-to-life-for-thousands-of-severance-fans?utm_medium=rss)
- - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
- - [The CEO of humanoid robot startup Figure AI, which has raised $700M+ to date, seemingly exaggerated its deployment of robots at BMW in interviews and posts &lpar;Jason Del Rey/Fortune&rpar;](http://www.techmeme.com/250407/p24#a250407p24)
- - [Scammers are getting smarter, here&#39;s how you can prevent getting phished](https://appleinsider.com/inside/ios-18/tips/scammers-are-getting-smarter-heres-how-you-can-prevent-getting-phished?utm_medium=rss)<!-- TECH:END -->
+ - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

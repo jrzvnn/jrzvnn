@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)
- - 😝 [Old growth lumber vs modern factory farmed lumber](http://9gag.com/gag/a87DM7e)
- - 💣 [What else did he expect?](http://9gag.com/gag/a1m5d52)
- - 😝 [Stupid ass movie](http://9gag.com/gag/azxGrbm)
- - 👉 [When you see your ex in public](http://9gag.com/gag/a6Zn7em)<!-- MEMES:END -->
+ - 😝 [Premature sniperator](http://9gag.com/gag/amom93o)
+ - 😝 [David Beckham Can&#39;t Handle Ali G](http://9gag.com/gag/apRPLYb)
+ - 💣 [Bob had that dog in him. What do you think she whispered in his ear?](http://9gag.com/gag/abAW6nX)
+ - 😝 [If you know you know](http://9gag.com/gag/aNDVnRw)
+ - 👉 [Stupid ass movie](http://9gag.com/gag/azxGrbm)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US big tech caught by surprise by the magnitude of Trump&#39;s tariffs](https://appleinsider.com/articles/25/04/07/us-big-tech-caught-by-surprise-by-the-magnitude-of-trumps-tariffs?utm_medium=rss)
  - [Filing: the UK Investigatory Powers Tribunal confirms Apple is appealing against a UK order to create a &quot;back door&quot; in its Advanced Data Protection service &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/250407/p9#a250407p9)
  - [Bluesky Can’t Take a Joke](https://www.wired.com/story/bluesky-cant-take-a-joke/)
  - [Source: AI coding startup Cursor, which has helped permeate &quot;vibe coding&quot;, hit 1M+ DAUs in March 2025, driven largely by word-of-mouth growth &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250407/p8#a250407p8)
- - [Tether CEO Paolo Ardoino says the company is involved in discussions about US rules on stablecoins, and may offer a US-only coin depending on new US regulations &lpar;Philip Stafford/Financial Times&rpar;](http://www.techmeme.com/250407/p7#a250407p7)
- - [Bitcoin is down 10% to around $76,000 after President Trump&#39;s global tariffs, far below its record $110,000 high at Trump&#39;s January 20 inauguration &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/250407/p6#a250407p6)<!-- TECH:END -->
+ - [Tether CEO Paolo Ardoino says the company is involved in discussions about US rules on stablecoins, and may offer a US-only coin depending on new US regulations &lpar;Philip Stafford/Financial Times&rpar;](http://www.techmeme.com/250407/p7#a250407p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

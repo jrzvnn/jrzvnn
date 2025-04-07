@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Old growth lumber vs modern factory farmed lumber](http://9gag.com/gag/a87DM7e)
- - 😝 [We have to do this](http://9gag.com/gag/a0e6dyQ)
- - 💣 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)
- - 😝 [The new Central Park 5, wait until the left starts defending them too and later make Netflix documentaries how they&#39;re innocent.](http://9gag.com/gag/a87DpO1)
- - 👉 [This is not a fashionable neighborhood, but a graveyard for the Sinaloa cartel.](http://9gag.com/gag/a87DjmZ)<!-- MEMES:END -->
+ - 😝 [We are approaching the one year anniversary for the most incredible moment ever filmed](http://9gag.com/gag/aMVn8r1)
+ - 😝 [And she dress to complain](http://9gag.com/gag/ae9VYZB)
+ - 💣 [This is how I choose my next company](http://9gag.com/gag/aW4v8v6)
+ - 😝 [Thanks Eva](http://9gag.com/gag/aPA8MYq)
+ - 👉 [You need to men the fence with someone](http://9gag.com/gag/ae9VbgO)<!-- MEMES:END -->
 
 ---
 

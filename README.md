@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Promise Thunderbolt 5 enclosures boost speed &amp; storage for Mac creative workflows](https://appleinsider.com/articles/25/04/07/promise-thunderbolt-5-enclosures-boost-speed-storage-for-mac-creative-workflows?utm_medium=rss)
  - [Apple Vision Pro immersive video library management utility arrives for Mac](https://appleinsider.com/articles/25/04/07/apple-vision-pro-immersive-video-library-management-utility-arrives-for-mac?utm_medium=rss)
  - [Major publishers call on the US government to &amp;#8216;Stop AI Theft&amp;#8217;](https://www.theverge.com/news/644612/major-publishers-stop-ai-theft-ad-campaign)
  - [An unreleased version of a Waymo privacy policy found by Jane Manchun Wong says it may use interior camera data to train AI models and sell ads, with an opt out &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250407/p23#a250407p23)
- - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
- - [One of the best 4K QD-OLED gaming monitors is cheaper than ever](https://www.theverge.com/tech/644427/alienware-4k-oled-gaming-monitor-240hz-lego-sale)<!-- TECH:END -->
+ - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

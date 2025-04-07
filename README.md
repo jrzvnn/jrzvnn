@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The gay cleaning burglar](http://9gag.com/gag/aMVn80X)
- - 😝 [Young me creating an acc on 9Gag to watch some tettens](http://9gag.com/gag/aRBzjmB)
- - 💣 [Fast Gun Warship Combat](http://9gag.com/gag/amom72X)
- - 😝 [Dramatical drop of Jack](http://9gag.com/gag/axyb00W)
- - 👉 [Life &amp; death](http://9gag.com/gag/aE0oBp9)<!-- MEMES:END -->
+ - 😝 [Bob had that dog in him. What do you think she whispered in his ear?](http://9gag.com/gag/abAW6nX)
+ - 😝 [How flies actually eat your food](http://9gag.com/gag/aO8Ddey)
+ - 💣 [Yea...no thanks](http://9gag.com/gag/aNDVdGb)
+ - 😝 [You are a bodybuilder harry](http://9gag.com/gag/amom7qj)
+ - 👉 [Dramatical drop of Jack](http://9gag.com/gag/axyb00W)<!-- MEMES:END -->
 
 ---
 

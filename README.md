@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Old growth lumber vs modern factory farmed lumber](http://9gag.com/gag/a87DM7e)
+ - 😝 [If you know you know](http://9gag.com/gag/aNDVnRw)
+ - 💣 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)
  - 😝 [When you see your ex in public](http://9gag.com/gag/a6Zn7em)
- - 😝 [Daily chase](http://9gag.com/gag/a0e6dnO)
- - 💣 [If you know you know](http://9gag.com/gag/aNDVnRw)
- - 😝 [Bob had that dog in him. What do you think she whispered in his ear?](http://9gag.com/gag/abAW6nX)
- - 👉 [Old growth lumber vs modern factory farmed lumber](http://9gag.com/gag/a87DM7e)<!-- MEMES:END -->
+ - 👉 [Stupid ass movie](http://9gag.com/gag/azxGrbm)<!-- MEMES:END -->
 
 ---
 

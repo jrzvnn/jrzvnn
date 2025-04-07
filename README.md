@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How flies actually eat your food](http://9gag.com/gag/aO8Ddey)
- - 😝 [Bobr Kurwa](http://9gag.com/gag/amom266)
- - 💣 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)
- - 😝 [F**k Netflix](http://9gag.com/gag/aKGW3nW)
- - 👉 [Yea...no thanks](http://9gag.com/gag/aNDVdGb)<!-- MEMES:END -->
+ - 😝 [The gay cleaning burglar](http://9gag.com/gag/aMVn80X)
+ - 😝 [Young me creating an acc on 9Gag to watch some tettens](http://9gag.com/gag/aRBzjmB)
+ - 💣 [Fast Gun Warship Combat](http://9gag.com/gag/amom72X)
+ - 😝 [Dramatical drop of Jack](http://9gag.com/gag/axyb00W)
+ - 👉 [Life &amp; death](http://9gag.com/gag/aE0oBp9)<!-- MEMES:END -->
 
 ---
 

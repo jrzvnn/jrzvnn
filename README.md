@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The see-through Beats Studio Buds Plus are on sale for less than $100](https://www.theverge.com/tech/644500/beats-studio-buds-plus-android-ios-amazon-deal-sale)
+ - [How Apple stockpiled iPhones to avoid tariffs and keep prices low for a while](https://appleinsider.com/articles/25/04/07/how-apple-stockpiled-iphones-to-avoid-tariffs-and-keep-prices-low-for-a-while?utm_medium=rss)
+ - [Sources: the board of directors of clothing inventory monetization startup CaaStle let its CEO remain after fraud allegations and took months to warn investors &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250407/p22#a250407p22)
  - [Krea, which helps creators generate AI content using the best available models, raised a $47M Series B and a $33M Series A; sources: Krea is valued at $500M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250407/p21#a250407p21)
- - [Nintendo’s Switch 2 upgrade packs for Zelda will cost $9.99](https://www.theverge.com/news/644516/legend-of-zelda-switch-2-upgrade-price)
- - [GM&amp;#8217;s UK design team imagines an electrified Corvette](https://www.theverge.com/news/644509/gm-corvette-uk-design-studio-concept-hypercar)
- - [Apple stocks plummet, as Trump threatens 104% tariff on China](https://appleinsider.com/articles/25/04/07/apple-stocks-plummet-as-trump-threatens-104-tariff-on-china?utm_medium=rss)
- - [Google&amp;#8217;s AI Mode can now see and search with images](https://www.theverge.com/news/644363/google-search-ai-mode-multimodal-lens-image-recognition)<!-- TECH:END -->
+ - [Nintendo’s Switch 2 upgrade packs for Zelda will cost $9.99](https://www.theverge.com/news/644516/legend-of-zelda-switch-2-upgrade-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Young me creating an acc on 9Gag to watch some tettens](http://9gag.com/gag/aRBzjmB)
- - 😝 [Fast Gun Warship Combat](http://9gag.com/gag/amom72X)
- - 💣 [Dramatical drop of Jack](http://9gag.com/gag/axyb00W)
- - 😝 [Life &amp; death](http://9gag.com/gag/aE0oBp9)
- - 👉 [This movie is so underrated, from b4 disney got the woke virus, directed by Sam raimi too](http://9gag.com/gag/aryZ5LX)<!-- MEMES:END -->
+ - 😝 [Dramatical drop of Jack](http://9gag.com/gag/axyb00W)
+ - 💣 [Life &amp; death](http://9gag.com/gag/aE0oBp9)
+ - 😝 [This movie is so underrated, from b4 disney got the woke virus, directed by Sam raimi too](http://9gag.com/gag/aryZ5LX)
+ - 👉 [Jean Claude Van Dam unholstering his leg in slow-mo was the stuff of the early 90\u2019s](http://9gag.com/gag/avyEOpO)<!-- MEMES:END -->
 
 ---
 

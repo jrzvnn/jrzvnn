@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK iCloud backdoor mandate hearing must be made public -- eventually](https://appleinsider.com/articles/25/04/07/uk-icloud-backdoor-mandate-hearing-must-be-made-public----eventually?utm_medium=rss)
- - [Global chip stocks drop as the US tariff rout intensifies, extending losses from last week; Nvidia, Intel, ASML, SK Hynix, Infineon, and STMicro all fall &lpar;Mauro Orru/Wall Street Journal&rpar;](http://www.techmeme.com/250407/p11#a250407p11)
- - [SignalFire raised a $1B+ fund to bet on early-stage AI startups, taking its AUM to $3B, and plans to use AI to spot market trends to help portfolio companies &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250407/p10#a250407p10)
- - [US big tech caught by surprise by the magnitude of Trump&#39;s tariffs](https://appleinsider.com/articles/25/04/07/us-big-tech-caught-by-surprise-by-the-magnitude-of-trumps-tariffs?utm_medium=rss)
- - [Filing: the UK Investigatory Powers Tribunal confirms Apple is appealing against a UK order to create a &quot;back door&quot; in its Advanced Data Protection service &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/250407/p9#a250407p9)<!-- TECH:END -->
+ - [Stanford&#39;s 2025 AI index: China files more AI patents than the US, but US companies produced 40 frontier models, compared to 15 from China and three from Europe &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250407/p13#a250407p13)
+ - [An IVF Alternative Could Make Having Babies Less Onerous](https://www.wired.com/story/this-alternative-ivf-method-matures-eggs-outside-the-body-gameto/)
+ - [Devastating tariffs force Wedbush to slash Apple stock target by $75 to $250](https://appleinsider.com/articles/25/04/07/devastating-tariffs-force-wedbush-to-slash-apple-stock-target-by-75-to-250?utm_medium=rss)
+ - [Lower Your Mortgage Rate by 1% or More With These Housing Hacks](https://www.cnet.com/personal-finance/lower-your-mortgage-rate-by-1-with-these-housing-hacks/#ftag=CAD590a51e)
+ - [Best Internet Providers in Denver, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-denver-co/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

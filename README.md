@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US tech stocks fall for a third session as markets open: Apple, Nvidia, and Tesla drop 6%+ each, Meta and Amazon fall 3%+, and Microsoft and Alphabet fall 1%+ &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250407/p16#a250407p16)
  - [OpenAI mulls taking over Jony Ive&#39;s AI startup for $500 million](https://appleinsider.com/articles/25/04/07/openai-mulls-taking-over-jony-ives-ai-startup-for-500-million?utm_medium=rss)
  - [Nintendo of America President Doug Bowser says the company is &quot;actively assessing&quot; the impact of US tariffs, and they &quot;weren&#39;t factored into&quot; Switch 2 pricing &lpar;Megan Farokhmanesh/Wired&rpar;](http://www.techmeme.com/250407/p15#a250407p15)
  - [Microsoft AI CEO Mustafa Suleyman says an &quot;off-frontier&quot; strategy of building models &quot;three or six months behind&quot; cuts costs and helps focus on some use cases &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250407/p14#a250407p14)
- - [Nintendo says tariffs aren’t the reason the Switch 2 costs $449.99](https://www.theverge.com/nintendo/643277/nintendo-switch-2-price-tariffs-doug-bowser-interview)
- - [The Blue Prince Review: A Unique Plunge Into an Ever-Changing Mystery Mansion](https://www.cnet.com/tech/gaming/the-blue-prince-is-a-unique-plunge-into-an-ever-changing-mystery-mansion/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nintendo says tariffs aren’t the reason the Switch 2 costs $449.99](https://www.theverge.com/nintendo/643277/nintendo-switch-2-price-tariffs-doug-bowser-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

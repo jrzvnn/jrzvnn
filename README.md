@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI is aiding radiologists with tools like tumor-detection algorithms; 75%+ of AI software cleared by the US FDA for medical use is designed to support radiology &lpar;Jamie Friedlander Serrano/Washington Post&rpar;](http://www.techmeme.com/250407/p3#a250407p3)
- - [A look at the ARC-AGI exam designed by French computer scientist François Chollet to show the gulf between AI models&#39; memorized answers and &quot;fluid intelligence&quot; &lpar;Matteo Wong/The Atlantic&rpar;](http://www.techmeme.com/250407/p2#a250407p2)
- - [Sources: OpenAI recently discussed acquiring io Products, a startup Sam Altman has been working on with Jony Ive to develop an AI-powered device, for $500M+ &lpar;The Information&rpar;](http://www.techmeme.com/250407/p1#a250407p1)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, April 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-april-7/#ftag=CAD590a51e)
- - [The UK bans hidden fees imposed by online businesses as well as the use or commissioning of fake reviews, effective April 6, with compliance enforced by the CMA &lpar;Jon Ungoed-Thomas/The Guardian&rpar;](http://www.techmeme.com/250406/p13#a250406p13)<!-- TECH:END -->
+ - [Nintendo and Sony fell by 10%+ on April 7 amid a widespread selloff in Japan exacerbated by US tariffs; most Switch hardware is assembled in China and Vietnam &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/250407/p4#a250407p4)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 7, #400](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-7-400/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for April 7, #666](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-7-666/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 7, #196](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-7-196/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for April 7, #1388](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-7-1388/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

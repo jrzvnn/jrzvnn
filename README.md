@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Store employees say the past few days have felt like holiday season, as the threat of tariffs and potential price hikes sparked a shopping frenzy &lpar;Bloomberg&rpar;](http://www.techmeme.com/250407/p30#a250407p30)
+ - [New post-tariff iPhone cost estimate comes in much lower at just 29% more](https://appleinsider.com/articles/25/04/07/new-post-tariff-iphone-cost-estimate-comes-in-much-lower-at-just-29-more?utm_medium=rss)
  - [It&amp;#8217;s not looking good for Tesla&amp;#8217;s Cybertruck range extender](https://www.theverge.com/news/644901/tesla-cybertruck-battery-range-extender-gone)
  - [You can build these marble runs and connect them to your smart home over Wi-Fi](https://www.theverge.com/news/644694/marblelous-marble-run-toy-wi-fi-smart-home-crowdfunding-kickstarter)
- - [Framework stops selling its six lowest-priced laptops in the US, saying those models would sell at a loss due to tariffs that went into effect on April 5 &lpar;Matthew Gault/404 Media&rpar;](http://www.techmeme.com/250407/p29#a250407p29)
- - [Apple could import more iPhones from India due to Trump&#39;s tariffs](https://appleinsider.com/articles/25/04/07/apple-could-import-more-iphones-from-india-due-to-trumps-tariffs?utm_medium=rss)
- - [Microsoft fires employee protestor who called AI boss a ‘war profiteer’](https://www.theverge.com/news/644769/microsoft-fires-employee-protestor-war-profiteer)<!-- TECH:END -->
+ - [Framework stops selling its six lowest-priced laptops in the US, saying those models would sell at a loss due to tariffs that went into effect on April 5 &lpar;Matthew Gault/404 Media&rpar;](http://www.techmeme.com/250407/p29#a250407p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

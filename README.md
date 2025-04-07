@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Young me creating an acc on 9Gag to watch some tettens](http://9gag.com/gag/aRBzjmB)
- - 😝 [You are a bodybuilder harry](http://9gag.com/gag/amom7qj)
- - 💣 [The U.S.S EnterThighs](http://9gag.com/gag/amom2pX)
- - 😝 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)
- - 👉 [Bob had that dog in him. What do you think she whispered in his ear?](http://9gag.com/gag/abAW6nX)<!-- MEMES:END -->
+ - 😝 [Is this really a cult?](http://9gag.com/gag/an7vy2V)
+ - 😝 [Bob had that dog in him. What do you think she whispered in his ear?](http://9gag.com/gag/abAW6nX)
+ - 💣 [Okay I&#39;m waiting for you degenerates to post the screenshots](http://9gag.com/gag/aNDVW2K)
+ - 😝 [Daily chase](http://9gag.com/gag/a0e6dnO)
+ - 👉 [David Beckham Can&#39;t Handle Ali G](http://9gag.com/gag/apRPLYb)<!-- MEMES:END -->
 
 ---
 

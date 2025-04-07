@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We are approaching the one year anniversary for the most incredible moment ever filmed](http://9gag.com/gag/aMVn8r1)
- - 😝 [And she dress to complain](http://9gag.com/gag/ae9VYZB)
- - 💣 [This is how I choose my next company](http://9gag.com/gag/aW4v8v6)
- - 😝 [Thanks Eva](http://9gag.com/gag/aPA8MYq)
- - 👉 [You need to men the fence with someone](http://9gag.com/gag/ae9VbgO)<!-- MEMES:END -->
+ - 😝 [When you see your ex in public](http://9gag.com/gag/a6Zn7em)
+ - 😝 [Daily chase](http://9gag.com/gag/a0e6dnO)
+ - 💣 [If you know you know](http://9gag.com/gag/aNDVnRw)
+ - 😝 [Bob had that dog in him. What do you think she whispered in his ear?](http://9gag.com/gag/abAW6nX)
+ - 👉 [Old growth lumber vs modern factory farmed lumber](http://9gag.com/gag/a87DM7e)<!-- MEMES:END -->
 
 ---
 

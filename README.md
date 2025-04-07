@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And she dress to complain](http://9gag.com/gag/ae9VYZB)
- - 😝 [Thanks Eva](http://9gag.com/gag/aPA8MYq)
- - 💣 [My bees survived the winter.](http://9gag.com/gag/aoy41Ow)
- - 😝 [The gay cleaning burglar](http://9gag.com/gag/aMVn80X)
- - 👉 [I like cats and coffee](http://9gag.com/gag/awyLQ5Q)<!-- MEMES:END -->
+ - 😝 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)
+ - 😝 [Bob had that dog in him. What do you think she whispered in his ear?](http://9gag.com/gag/abAW6nX)
+ - 💣 [F**k Netflix](http://9gag.com/gag/aKGW3nW)
+ - 😝 [Daily chase](http://9gag.com/gag/a0e6dnO)
+ - 👉 [David Beckham Can&#39;t Handle Ali G](http://9gag.com/gag/apRPLYb)<!-- MEMES:END -->
 
 ---
 

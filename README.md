@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)
- - 😝 [Premature sniperator](http://9gag.com/gag/amom93o)
- - 💣 [Magnet ear](http://9gag.com/gag/azxGAjx)
- - 😝 [All Contenders have reached Adult Age](http://9gag.com/gag/a34y74e)
+ - 😝 [Stupid ass movie](http://9gag.com/gag/azxGrbm)
+ - 😝 [David Beckham Can&#39;t Handle Ali G](http://9gag.com/gag/apRPLYb)
+ - 💣 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)
+ - 😝 [I feel ya](http://9gag.com/gag/azxGjpb)
  - 👉 [F**k Netflix](http://9gag.com/gag/aKGW3nW)<!-- MEMES:END -->
 
 ---

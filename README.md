@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google TV remotes are getting a ‘Free TV’ button](https://www.theverge.com/news/644724/google-tv-remotes-free-live-button)
- - [In a memo to staff Shopify&#39;s CEO says using AI is now a baseline expectation and that teams asking for more resources must first show why AI can&#39;t do the job &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250407/p26#a250407p26)
- - [Sources: Apple aims to send more iPhones to US from India, given new tariffs on China, but sees the situation as too uncertain to upend supply chain investments &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250407/p25#a250407p25)
- - [Apple TV+ brings Lumon Industries to life for thousands of &#39;Severance&#39; fans](https://appleinsider.com/articles/25/04/07/apple-tv-brings-lumon-industries-to-life-for-thousands-of-severance-fans?utm_medium=rss)
- - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)<!-- TECH:END -->
+ - [Whoopsie daisy Bitcoin!](https://www.theverge.com/cryptocurrency/644749/bitcoin-tariff-fall-pricing)
+ - [Meta VP of generative AI Ahmad Al-Dahle denies a rumor that the company trained its Llama 4 models on test sets, saying Meta &quot;would never do that&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250407/p27#a250407p27)
+ - [Atto&#39;s Fibre Channel and dual 100 gigabit Thunderbolt 5 adapters supercharge Mac media production](https://appleinsider.com/articles/25/04/07/attos-fibre-channel-and-dual-100-gigabit-thunderbolt-5-adapters-supercharge-mac-media-production?utm_medium=rss)
+ - [Scientists Claim to Have Brought Back the Dire Wolf](https://www.wired.com/story/scientists-brought-back-dire-wolf-deextinct/)
+ - [Google TV remotes are getting a ‘Free TV’ button](https://www.theverge.com/news/644724/google-tv-remotes-free-live-button)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

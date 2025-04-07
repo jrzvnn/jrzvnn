@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Broadcom announces a share buyback program of up to $10B, set to run through the end of the year; AVGO jumps 3%+ after hours, after closing up 5.37% on Monday &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/250407/p33#a250407p33)
  - [Gemini Live&amp;#8217;s screensharing feature is rolling out to Pixel 9 and Galaxy S25 devices](https://www.theverge.com/news/644757/google-gemini-live-screen-share-video-camera-pixel-9)
  - [Memo: Google tells staff they can discuss the DOJ&#39;s antitrust case, rescinding an earlier command, as part of a settlement with the Alphabet Workers Union &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/250407/p32#a250407p32)
  - [Infineon agrees to acquire Marvell&#39;s Automotive Ethernet business for ~$2.5B in cash; the unit is expected to generate revenue of $225M to $250M in FY 2026 &lpar;Vallari Srivastava/Reuters&rpar;](http://www.techmeme.com/250407/p31#a250407p31)
- - [Shopify CEO says no new hires without proof AI can&amp;#8217;t do the job](https://www.theverge.com/news/644943/shopify-ceo-memo-ai-hires-job)
- - [Some Shein and Temu ‘haul video’ creators are stocking up](https://www.theverge.com/creators/644886/shein-temu-haul-creators-stocking-up-tariffs)<!-- TECH:END -->
+ - [Shopify CEO says no new hires without proof AI can&amp;#8217;t do the job](https://www.theverge.com/news/644943/shopify-ceo-memo-ai-hires-job)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

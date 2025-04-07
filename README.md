@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)
- - 😝 [Bob had that dog in him. What do you think she whispered in his ear?](http://9gag.com/gag/abAW6nX)
- - 💣 [F**k Netflix](http://9gag.com/gag/aKGW3nW)
- - 😝 [Daily chase](http://9gag.com/gag/a0e6dnO)
- - 👉 [David Beckham Can&#39;t Handle Ali G](http://9gag.com/gag/apRPLYb)<!-- MEMES:END -->
+ - 😝 [Premature sniperator](http://9gag.com/gag/amom93o)
+ - 💣 [Magnet ear](http://9gag.com/gag/azxGAjx)
+ - 😝 [All Contenders have reached Adult Age](http://9gag.com/gag/a34y74e)
+ - 👉 [F**k Netflix](http://9gag.com/gag/aKGW3nW)<!-- MEMES:END -->
 
 ---
 

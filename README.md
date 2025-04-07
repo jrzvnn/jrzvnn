@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Absolute cinema](http://9gag.com/gag/a9y8r1W)
- - 😝 [Easy as it sound](http://9gag.com/gag/aD2ZjZN)
- - 💣 [David Beckham Can&#39;t Handle Ali G](http://9gag.com/gag/apRPLYb)
- - 😝 [Premature sniperator](http://9gag.com/gag/amom93o)
- - 👉 [F**k Netflix](http://9gag.com/gag/aKGW3nW)<!-- MEMES:END -->
+ - 😝 [My bees survived the winter.](http://9gag.com/gag/aoy41Ow)
+ - 😝 [Thanks Eva](http://9gag.com/gag/aPA8MYq)
+ - 💣 [I call it &#39;&#39;Pattern recognition&#39;&#39;](http://9gag.com/gag/adBn7VZ)
+ - 😝 [Insect macro photography](http://9gag.com/gag/ayNWD9b)
+ - 👉 [You need to men the fence with someone](http://9gag.com/gag/ae9VbgO)<!-- MEMES:END -->
 
 ---
 

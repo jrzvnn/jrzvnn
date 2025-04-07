@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Publishers say traffic to their sites has plummeted since Google rolled out AI Overviews; sources: Google acknowledged the drop in a meeting with publishers &lpar;Bloomberg&rpar;](http://www.techmeme.com/250407/p35#a250407p35)
  - [Framework stops selling some of its cheapest laptops due to Trump tariffs](https://www.theverge.com/news/644997/framework-stops-selling-some-of-its-cheapest-laptops-due-to-trump-tariffs)
  - [Rescale, which develops engineering software to help simulate complex physical systems, raised a $115M Series D, bringing its total funding to over $260M &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250407/p34#a250407p34)
  - [A flood of panic-buying has started in anticipation of major iPhone price increases](https://appleinsider.com/articles/25/04/07/a-flood-of-panic-buying-has-started-in-anticipation-of-major-iphone-price-increases?utm_medium=rss)
- - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
- - [Broadcom announces a share buyback program of up to $10B, set to run through the end of the year; AVGO jumps 3%+ after hours, after closing up 5.37% on Monday &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/250407/p33#a250407p33)<!-- TECH:END -->
+ - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

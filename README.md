@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK iCloud backdoor mandate hearing must be made public -- eventually](https://appleinsider.com/articles/25/04/07/uk-icloud-backdoor-mandate-hearing-must-be-made-public----eventually?utm_medium=rss)
+ - [Global chip stocks drop as the US tariff rout intensifies, extending losses from last week; Nvidia, Intel, ASML, SK Hynix, Infineon, and STMicro all fall &lpar;Mauro Orru/Wall Street Journal&rpar;](http://www.techmeme.com/250407/p11#a250407p11)
  - [SignalFire raised a $1B+ fund to bet on early-stage AI startups, taking its AUM to $3B, and plans to use AI to spot market trends to help portfolio companies &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250407/p10#a250407p10)
  - [US big tech caught by surprise by the magnitude of Trump&#39;s tariffs](https://appleinsider.com/articles/25/04/07/us-big-tech-caught-by-surprise-by-the-magnitude-of-trumps-tariffs?utm_medium=rss)
- - [Filing: the UK Investigatory Powers Tribunal confirms Apple is appealing against a UK order to create a &quot;back door&quot; in its Advanced Data Protection service &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/250407/p9#a250407p9)
- - [Bluesky Can’t Take a Joke](https://www.wired.com/story/bluesky-cant-take-a-joke/)
- - [Thinking About Switching to Fiber Internet? Here&#39;s Everything You Need to Know](https://www.cnet.com/home/internet/fiber-internet-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Filing: the UK Investigatory Powers Tribunal confirms Apple is appealing against a UK order to create a &quot;back door&quot; in its Advanced Data Protection service &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/250407/p9#a250407p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

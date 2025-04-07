@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is not a fashionable neighborhood, but a graveyard for the Sinaloa cartel.](http://9gag.com/gag/a87DjmZ)
- - 😝 [He didn&#39;t find it](http://9gag.com/gag/aYQPw7O)
- - 💣 [Stupid ass movie](http://9gag.com/gag/azxGrbm)
- - 😝 [Daily chase](http://9gag.com/gag/a0e6dnO)
- - 👉 [I feel ya](http://9gag.com/gag/azxGjpb)<!-- MEMES:END -->
+ - 😝 [Bob had that dog in him. What do you think she whispered in his ear?](http://9gag.com/gag/abAW6nX)
+ - 😝 [What else did he expect?](http://9gag.com/gag/a1m5d52)
+ - 💣 [Wholesome toy](http://9gag.com/gag/aO8DmDD)
+ - 😝 [When you see your ex in public](http://9gag.com/gag/a6Zn7em)
+ - 👉 [We have to do this](http://9gag.com/gag/a0e6dyQ)<!-- MEMES:END -->
 
 ---
 

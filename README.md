@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Daily chase](http://9gag.com/gag/a0e6dnO)
- - 😝 [F**k Netflix](http://9gag.com/gag/aKGW3nW)
- - 💣 [A classic 2000s masterpiece](http://9gag.com/gag/a34yjP1)
- - 😝 [Is this really a cult?](http://9gag.com/gag/an7vy2V)
- - 👉 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)<!-- MEMES:END -->
+ - 😝 [A classic 2000s masterpiece](http://9gag.com/gag/a34yjP1)
+ - 😝 [I feel ya](http://9gag.com/gag/azxGjpb)
+ - 💣 [Is this really a cult?](http://9gag.com/gag/an7vy2V)
+ - 😝 [What else did he expect?](http://9gag.com/gag/a1m5d52)
+ - 👉 [Daily chase](http://9gag.com/gag/a0e6dnO)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is there?](http://9gag.com/gag/avyErZW)
- - 😝 [Daily chase](http://9gag.com/gag/a0e6dnO)
- - 💣 [You are a bodybuilder harry](http://9gag.com/gag/amom7qj)
+ - 😝 [What else did he expect?](http://9gag.com/gag/a1m5d52)
+ - 😝 [The U.S.S EnterThighs](http://9gag.com/gag/amom2pX)
+ - 💣 [Still would](http://9gag.com/gag/aoy4Nx0)
  - 😝 [How flies actually eat your food](http://9gag.com/gag/aO8Ddey)
- - 👉 [F**k Netflix](http://9gag.com/gag/aKGW3nW)<!-- MEMES:END -->
+ - 👉 [Dramatical drop of Jack](http://9gag.com/gag/axyb00W)<!-- MEMES:END -->
 
 ---
 

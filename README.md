@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the ARC-AGI exam designed by French computer scientist François Chollet to show the gulf between AI models&#39; memorized answers and &quot;fluid intelligence&quot; &lpar;Matteo Wong/The Atlantic&rpar;](http://www.techmeme.com/250407/p2#a250407p2)
  - [Sources: OpenAI recently discussed acquiring io Products, a startup Sam Altman has been working on with Jony Ive to develop an AI-powered device, for $500M+ &lpar;The Information&rpar;](http://www.techmeme.com/250407/p1#a250407p1)
  - [Today&#39;s NYT Mini Crossword Answers for Monday, April 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-april-7/#ftag=CAD590a51e)
  - [The UK bans hidden fees imposed by online businesses as well as the use or commissioning of fake reviews, effective April 6, with compliance enforced by the CMA &lpar;Jon Ungoed-Thomas/The Guardian&rpar;](http://www.techmeme.com/250406/p13#a250406p13)
- - [Best Family Phone Plans for 2025](https://www.cnet.com/tech/mobile/best-family-phone-plan/#ftag=CAD590a51e)
- - [DOGE plans now reportedly include an IRS ‘hackathon’](https://www.theverge.com/news/644327/musk-doge-irs-hackathon-taxpayer-data-transfer-cloud)<!-- TECH:END -->
+ - [Best Family Phone Plans for 2025](https://www.cnet.com/tech/mobile/best-family-phone-plan/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

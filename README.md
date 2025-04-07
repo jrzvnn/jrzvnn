@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best Anime of 2024. Lists from Anime Trending, Anime Corner and r anime &lpar;clearer images in comments&rpar;](http://9gag.com/gag/aYQPxAw)
- - 😝 [David Beckham Can&#39;t Handle Ali G](http://9gag.com/gag/apRPLYb)
- - 💣 [We have to do this](http://9gag.com/gag/a0e6dyQ)
- - 😝 [It&#39;s a prank bro](http://9gag.com/gag/aryZgvB)
- - 👉 [Dramatical drop of Jack](http://9gag.com/gag/axyb00W)<!-- MEMES:END -->
+ - 😝 [Friendly reminder...](http://9gag.com/gag/azxGr9x)
+ - 😝 [I&#39;m no Sherlock Holmes, but hear me out...](http://9gag.com/gag/a1m5bmb)
+ - 💣 [Bob had that dog in him. What do you think she whispered in his ear?](http://9gag.com/gag/abAW6nX)
+ - 😝 [Oh Boy...](http://9gag.com/gag/a9y8pqL)
+ - 👉 [Yea...no thanks](http://9gag.com/gag/aNDVdGb)<!-- MEMES:END -->
 
 ---
 

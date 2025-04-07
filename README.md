@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well this is just really sad](http://9gag.com/gag/aByPWEx)
- - 😝 [Daily chase](http://9gag.com/gag/a0e6dnO)
- - 💣 [Stupid ass movie](http://9gag.com/gag/azxGrbm)
  - 😝 [Is this really a cult?](http://9gag.com/gag/an7vy2V)
- - 👉 [Yea...no thanks](http://9gag.com/gag/aNDVdGb)<!-- MEMES:END -->
+ - 😝 [Young me creating an acc on 9Gag to watch some tettens](http://9gag.com/gag/aRBzjmB)
+ - 💣 [I&#39;m no Sherlock Holmes, but hear me out...](http://9gag.com/gag/a1m5bmb)
+ - 😝 [Yea...no thanks](http://9gag.com/gag/aNDVdGb)
+ - 👉 [Daily chase](http://9gag.com/gag/a0e6dnO)<!-- MEMES:END -->
 
 ---
 

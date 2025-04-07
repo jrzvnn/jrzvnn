@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)
  - 😝 [Old growth lumber vs modern factory farmed lumber](http://9gag.com/gag/a87DM7e)
- - 😝 [If you know you know](http://9gag.com/gag/aNDVnRw)
- - 💣 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)
- - 😝 [When you see your ex in public](http://9gag.com/gag/a6Zn7em)
- - 👉 [Stupid ass movie](http://9gag.com/gag/azxGrbm)<!-- MEMES:END -->
+ - 💣 [What else did he expect?](http://9gag.com/gag/a1m5d52)
+ - 😝 [Stupid ass movie](http://9gag.com/gag/azxGrbm)
+ - 👉 [When you see your ex in public](http://9gag.com/gag/a6Zn7em)<!-- MEMES:END -->
 
 ---
 

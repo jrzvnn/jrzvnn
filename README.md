@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some Shein and Temu ‘haul video’ creators are stocking up](https://www.theverge.com/creators/644886/shein-temu-haul-creators-stocking-up-tariffs)
  - [Apple Store employees say the past few days have felt like holiday season, as the threat of tariffs and potential price hikes sparked a shopping frenzy &lpar;Bloomberg&rpar;](http://www.techmeme.com/250407/p30#a250407p30)
- - [New post-tariff iPhone cost estimate comes in much lower at just 29% more](https://appleinsider.com/articles/25/04/07/new-post-tariff-iphone-cost-estimate-comes-in-much-lower-at-just-29-more?utm_medium=rss)
+ - [Tarriff-related iPhone price increases estimated to be lower than feared](https://appleinsider.com/articles/25/04/07/new-post-tariff-iphone-cost-estimate-comes-in-much-lower-at-just-29-more?utm_medium=rss)
  - [It&amp;#8217;s not looking good for Tesla&amp;#8217;s Cybertruck range extender](https://www.theverge.com/news/644901/tesla-cybertruck-battery-range-extender-gone)
- - [You can build these marble runs and connect them to your smart home over Wi-Fi](https://www.theverge.com/news/644694/marblelous-marble-run-toy-wi-fi-smart-home-crowdfunding-kickstarter)
- - [Framework stops selling its six lowest-priced laptops in the US, saying those models would sell at a loss due to tariffs that went into effect on April 5 &lpar;Matthew Gault/404 Media&rpar;](http://www.techmeme.com/250407/p29#a250407p29)<!-- TECH:END -->
+ - [You can build these marble runs and connect them to your smart home over Wi-Fi](https://www.theverge.com/news/644694/marblelous-marble-run-toy-wi-fi-smart-home-crowdfunding-kickstarter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

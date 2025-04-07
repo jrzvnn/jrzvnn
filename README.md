@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Old growth lumber vs modern factory farmed lumber](http://9gag.com/gag/a87DM7e)
- - 😝 [This is not a fashionable neighborhood, but a graveyard for the Sinaloa cartel.](http://9gag.com/gag/a87DjmZ)
- - 💣 [The new Central Park 5, wait until the left starts defending them too and later make Netflix documentaries how they&#39;re innocent.](http://9gag.com/gag/a87DpO1)
- - 😝 [I feel ya](http://9gag.com/gag/azxGjpb)
- - 👉 [Slow down, mafriend](http://9gag.com/gag/aO8DV22)<!-- MEMES:END -->
+ - 😝 [We have to do this](http://9gag.com/gag/a0e6dyQ)
+ - 💣 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)
+ - 😝 [The new Central Park 5, wait until the left starts defending them too and later make Netflix documentaries how they&#39;re innocent.](http://9gag.com/gag/a87DpO1)
+ - 👉 [This is not a fashionable neighborhood, but a graveyard for the Sinaloa cartel.](http://9gag.com/gag/a87DjmZ)<!-- MEMES:END -->
 
 ---
 

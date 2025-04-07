@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Yea...no thanks](http://9gag.com/gag/aNDVdGb)
  - 😝 [I&#39;m no Sherlock Holmes, but hear me out...](http://9gag.com/gag/a1m5bmb)
- - 😝 [Daily chase](http://9gag.com/gag/a0e6dnO)
  - 💣 [David Beckham Can&#39;t Handle Ali G](http://9gag.com/gag/apRPLYb)
  - 😝 [Is this really a cult?](http://9gag.com/gag/an7vy2V)
- - 👉 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)<!-- MEMES:END -->
+ - 👉 [Bob had that dog in him. What do you think she whispered in his ear?](http://9gag.com/gag/abAW6nX)<!-- MEMES:END -->
 
 ---
 

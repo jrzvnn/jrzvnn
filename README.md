@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [It&amp;#8217;s not looking good for Tesla&amp;#8217;s Cybertruck range extender](https://www.theverge.com/news/644901/tesla-cybertruck-battery-range-extender-gone)
  - [You can build these marble runs and connect them to your smart home over Wi-Fi](https://www.theverge.com/news/644694/marblelous-marble-run-toy-wi-fi-smart-home-crowdfunding-kickstarter)
  - [Framework stops selling its six lowest-priced laptops in the US, saying those models would sell at a loss due to tariffs that went into effect on April 5 &lpar;Matthew Gault/404 Media&rpar;](http://www.techmeme.com/250407/p29#a250407p29)
  - [Apple could import more iPhones from India due to Trump&#39;s tariffs](https://appleinsider.com/articles/25/04/07/apple-could-import-more-iphones-from-india-due-to-trumps-tariffs?utm_medium=rss)
- - [Microsoft fires employee protestor who called AI boss a ‘war profiteer’](https://www.theverge.com/news/644769/microsoft-fires-employee-protestor-war-profiteer)
- - [Apple stock hammered for third consecutive market day, falls on news of more tariffs](https://appleinsider.com/articles/25/04/07/apple-stock-hammered-for-third-consecutive-market-day-falls-on-news-of-more-tariffs?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft fires employee protestor who called AI boss a ‘war profiteer’](https://www.theverge.com/news/644769/microsoft-fires-employee-protestor-war-profiteer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

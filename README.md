@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [One of the best 4K QD-OLED gaming monitors is cheaper than ever](https://www.theverge.com/tech/644427/alienware-4k-oled-gaming-monitor-240hz-lego-sale)
+ - [The White House’s group chat screwup is even more ridiculous than we thought](https://www.theverge.com/news/644446/white-house-signal-group-chat-blamed-ios-siri-suggestion)
  - [The see-through Beats Studio Buds Plus are on sale for less than $100](https://www.theverge.com/tech/644500/beats-studio-buds-plus-android-ios-amazon-deal-sale)
  - [How Apple stockpiled iPhones to avoid tariffs and keep prices low for a while](https://appleinsider.com/articles/25/04/07/how-apple-stockpiled-iphones-to-avoid-tariffs-and-keep-prices-low-for-a-while?utm_medium=rss)
- - [Sources: the board of directors of clothing inventory monetization startup CaaStle let its CEO remain after fraud allegations and took months to warn investors &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250407/p22#a250407p22)
- - [Krea, which helps creators generate AI content using the best available models, raised a $47M Series B and a $33M Series A; sources: Krea is valued at $500M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250407/p21#a250407p21)
- - [Nintendo’s Switch 2 upgrade packs for Zelda will cost $9.99](https://www.theverge.com/news/644516/legend-of-zelda-switch-2-upgrade-price)<!-- TECH:END -->
+ - [Sources: the board of directors of clothing inventory monetization startup CaaStle let its CEO remain after fraud allegations and took months to warn investors &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250407/p22#a250407p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

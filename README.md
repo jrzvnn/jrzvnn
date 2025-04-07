@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SignalFire raised a $1B+ fund to bet on early-stage AI startups, taking its AUM to $3B, and plans to use AI to spot market trends to help portfolio companies &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250407/p10#a250407p10)
  - [US big tech caught by surprise by the magnitude of Trump&#39;s tariffs](https://appleinsider.com/articles/25/04/07/us-big-tech-caught-by-surprise-by-the-magnitude-of-trumps-tariffs?utm_medium=rss)
  - [Filing: the UK Investigatory Powers Tribunal confirms Apple is appealing against a UK order to create a &quot;back door&quot; in its Advanced Data Protection service &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/250407/p9#a250407p9)
  - [Bluesky Can’t Take a Joke](https://www.wired.com/story/bluesky-cant-take-a-joke/)
- - [Source: AI coding startup Cursor, which has helped permeate &quot;vibe coding&quot;, hit 1M+ DAUs in March 2025, driven largely by word-of-mouth growth &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250407/p8#a250407p8)
- - [Tether CEO Paolo Ardoino says the company is involved in discussions about US rules on stablecoins, and may offer a US-only coin depending on new US regulations &lpar;Philip Stafford/Financial Times&rpar;](http://www.techmeme.com/250407/p7#a250407p7)<!-- TECH:END -->
+ - [Thinking About Switching to Fiber Internet? Here&#39;s Everything You Need to Know](https://www.cnet.com/home/internet/fiber-internet-explained/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

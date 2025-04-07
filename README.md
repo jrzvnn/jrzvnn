@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bitcoin is down 10% to around $76,000 after President Trump&#39;s global tariffs, far below its record $110,000 high at Trump&#39;s January 20 inauguration &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/250407/p6#a250407p6)
+ - [The AI Race Has Gotten Crowded—and China Is Closing In on the US](https://www.wired.com/story/stanford-study-global-artificial-intelligence-index/)
+ - [States Are Banning Forever Chemicals. Industry Is Fighting Back](https://www.wired.com/story/states-banning-pfas-forever-chemicals-industry-fighting-back/)
  - [TSMC and Foxconn fell by the Taiex exchange&#39;s daily 10% limit on April 7 as US tariffs roil global supply chains; Taiwan&#39;s 32% tariff is among Asia&#39;s highest &lpar;Reuters&rpar;](http://www.techmeme.com/250407/p5#a250407p5)
- - [Nintendo and Sony fell by 10%+ on April 7 amid a widespread selloff in Japan exacerbated by US tariffs; most Switch hardware is assembled in China and Vietnam &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/250407/p4#a250407p4)
- - [Today&#39;s NYT Strands Hints, Answers and Help for April 7, #400](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-7-400/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for April 7, #666](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-7-666/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 7, #196](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-7-196/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nintendo and Sony fell by 10%+ on April 7 amid a widespread selloff in Japan exacerbated by US tariffs; most Switch hardware is assembled in China and Vietnam &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/250407/p4#a250407p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

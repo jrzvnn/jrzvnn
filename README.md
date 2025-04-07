@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [And she dress to complain](http://9gag.com/gag/ae9VYZB)
  - 😝 [Thanks Eva](http://9gag.com/gag/aPA8MYq)
- - 💣 [The gay cleaning burglar](http://9gag.com/gag/aMVn80X)
- - 😝 [My bees survived the winter.](http://9gag.com/gag/aoy41Ow)
- - 👉 [I call it &#39;&#39;Pattern recognition&#39;&#39;](http://9gag.com/gag/adBn7VZ)<!-- MEMES:END -->
+ - 💣 [My bees survived the winter.](http://9gag.com/gag/aoy41Ow)
+ - 😝 [The gay cleaning burglar](http://9gag.com/gag/aMVn80X)
+ - 👉 [I like cats and coffee](http://9gag.com/gag/awyLQ5Q)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple stocks plummet, as Trump threatens 104% tariff on China](https://appleinsider.com/articles/25/04/07/apple-stocks-plummet-as-trump-threatens-104-tariff-on-china?utm_medium=rss)
  - [President Trump posts that the US will impose additional tariffs on China of 50%, effective April 9, unless China withdraws its 34% retaliatory tariffs &lpar;Ben Berkowitz/Axios&rpar;](http://www.techmeme.com/250407/p20#a250407p20)
  - [Death Stranding movie nabs director of Pig and A Quiet Place: Day One](https://www.theverge.com/news/644475/death-stranding-movie-director-pig-a-quiet-place)
  - [Officials: Apple sent five planes full of iPhones and other products from India to the US in just three days in the last week of March to avoid the 10% tariff &lpar;Times of India&rpar;](http://www.techmeme.com/250407/p19#a250407p19)
- - [22 years later, modders are keeping SimCity 4 alive](https://www.theverge.com/tech/640021/simcity-4-mods)
- - [One of the best 4K QD-OLED gaming monitors is cheaper than ever](https://www.theverge.com/tech/644427/alienware-4k-oled-gaming-monitor-240hz-lego-sale)<!-- TECH:END -->
+ - [22 years later, modders are keeping SimCity 4 alive](https://www.theverge.com/tech/640021/simcity-4-mods)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

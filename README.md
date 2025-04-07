@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What else did he expect?](http://9gag.com/gag/a1m5d52)
  - 😝 [Daily chase](http://9gag.com/gag/a0e6dnO)
- - 😝 [The new Central Park 5, wait until the left starts defending them too and later make Netflix documentaries how they&#39;re innocent.](http://9gag.com/gag/a87DpO1)
- - 💣 [Get lectured by a hairstylist on X](http://9gag.com/gag/aGyMDMn)
- - 😝 [David Beckham Can&#39;t Handle Ali G](http://9gag.com/gag/apRPLYb)
- - 👉 [Magnet ear](http://9gag.com/gag/azxGAjx)<!-- MEMES:END -->
+ - 💣 [The new Central Park 5, wait until the left starts defending them too and later make Netflix documentaries how they&#39;re innocent.](http://9gag.com/gag/a87DpO1)
+ - 😝 [I&#39;m no Sherlock Holmes, but hear me out...](http://9gag.com/gag/a1m5bmb)
+ - 👉 [Get lectured by a hairstylist on X](http://9gag.com/gag/aGyMDMn)<!-- MEMES:END -->
 
 ---
 

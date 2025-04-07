@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Krea, which helps creators generate AI content using the best available models, raised a $47M Series B and a $33M Series A; sources: Krea is valued at $500M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250407/p21#a250407p21)
+ - [Nintendo’s Switch 2 upgrade packs for Zelda will cost $9.99](https://www.theverge.com/news/644516/legend-of-zelda-switch-2-upgrade-price)
+ - [GM&amp;#8217;s UK design team imagines an electrified Corvette](https://www.theverge.com/news/644509/gm-corvette-uk-design-studio-concept-hypercar)
  - [Apple stocks plummet, as Trump threatens 104% tariff on China](https://appleinsider.com/articles/25/04/07/apple-stocks-plummet-as-trump-threatens-104-tariff-on-china?utm_medium=rss)
- - [President Trump posts that the US will impose additional tariffs on China of 50%, effective April 9, unless China withdraws its 34% retaliatory tariffs &lpar;Ben Berkowitz/Axios&rpar;](http://www.techmeme.com/250407/p20#a250407p20)
- - [Death Stranding movie nabs director of Pig and A Quiet Place: Day One](https://www.theverge.com/news/644475/death-stranding-movie-director-pig-a-quiet-place)
- - [Officials: Apple sent five planes full of iPhones and other products from India to the US in just three days in the last week of March to avoid the 10% tariff &lpar;Times of India&rpar;](http://www.techmeme.com/250407/p19#a250407p19)
- - [22 years later, modders are keeping SimCity 4 alive](https://www.theverge.com/tech/640021/simcity-4-mods)<!-- TECH:END -->
+ - [Google&amp;#8217;s AI Mode can now see and search with images](https://www.theverge.com/news/644363/google-search-ai-mode-multimodal-lens-image-recognition)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

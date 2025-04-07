@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft fires employee protestor who called AI boss a ‘war profiteer’](https://www.theverge.com/news/644769/microsoft-fires-employee-protestor-war-profiteer)
+ - [Google Search&#39;s AI Mode feature, rolled out to millions more in the US, now gains multimodal capabilities, letting users ask complex questions about pictures &lpar;Ryan Whitwam/Ars Technica&rpar;](http://www.techmeme.com/250407/p28#a250407p28)
  - [Whoopsie daisy Bitcoin!](https://www.theverge.com/cryptocurrency/644749/bitcoin-tariff-fall-pricing)
  - [Meta VP of generative AI Ahmad Al-Dahle denies a rumor that the company trained its Llama 4 models on test sets, saying Meta &quot;would never do that&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250407/p27#a250407p27)
- - [Atto&#39;s Fibre Channel and dual 100 gigabit Thunderbolt 5 adapters supercharge Mac media production](https://appleinsider.com/articles/25/04/07/attos-fibre-channel-and-dual-100-gigabit-thunderbolt-5-adapters-supercharge-mac-media-production?utm_medium=rss)
- - [Scientists Claim to Have Brought Back the Dire Wolf](https://www.wired.com/story/scientists-brought-back-dire-wolf-deextinct/)
- - [Google TV remotes are getting a ‘Free TV’ button](https://www.theverge.com/news/644724/google-tv-remotes-free-live-button)<!-- TECH:END -->
+ - [Atto&#39;s Fibre Channel and dual 100 gigabit Thunderbolt 5 adapters supercharge Mac media production](https://appleinsider.com/articles/25/04/07/attos-fibre-channel-and-dual-100-gigabit-thunderbolt-5-adapters-supercharge-mac-media-production?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

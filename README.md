@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Friendly reminder...](http://9gag.com/gag/azxGr9x)
- - 😝 [I&#39;m no Sherlock Holmes, but hear me out...](http://9gag.com/gag/a1m5bmb)
- - 💣 [Bob had that dog in him. What do you think she whispered in his ear?](http://9gag.com/gag/abAW6nX)
- - 😝 [Oh Boy...](http://9gag.com/gag/a9y8pqL)
+ - 😝 [How flies actually eat your food](http://9gag.com/gag/aO8Ddey)
+ - 😝 [Bobr Kurwa](http://9gag.com/gag/amom266)
+ - 💣 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)
+ - 😝 [F**k Netflix](http://9gag.com/gag/aKGW3nW)
  - 👉 [Yea...no thanks](http://9gag.com/gag/aNDVdGb)<!-- MEMES:END -->
 
 ---

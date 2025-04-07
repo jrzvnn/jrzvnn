@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Source: AI coding startup Cursor, which has helped permeate &quot;vibe coding&quot;, hit 1M+ DAUs in March 2025, driven largely by word-of-mouth growth &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250407/p8#a250407p8)
  - [Tether CEO Paolo Ardoino says the company is involved in discussions about US rules on stablecoins, and may offer a US-only coin depending on new US regulations &lpar;Philip Stafford/Financial Times&rpar;](http://www.techmeme.com/250407/p7#a250407p7)
  - [Bitcoin is down 10% to around $76,000 after President Trump&#39;s global tariffs, far below its record $110,000 high at Trump&#39;s January 20 inauguration &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/250407/p6#a250407p6)
- - [The AI Race Has Gotten Crowded—and China Is Closing In on the US](https://www.wired.com/story/stanford-study-global-artificial-intelligence-index/)
- - [States Are Banning Forever Chemicals. Industry Is Fighting Back](https://www.wired.com/story/states-banning-pfas-forever-chemicals-industry-fighting-back/)<!-- TECH:END -->
+ - [&#39;The White Lotus&#39; Season 3 Ending Explained: Who Dies in This Jam-Packed Finale?](https://www.cnet.com/tech/services-and-software/the-white-lotus-season-3-ending-explained-who-died-in-that-jam-packed-finale/#ftag=CAD590a51e)
+ - [iOS 18.4: Cook Delicious Recipes at Home With Apple News Food](https://www.cnet.com/tech/services-and-software/ios-18-4-cook-delicious-meals-at-home-with-apple-news-food/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chess](http://9gag.com/gag/aQzA3Pd)
+ - 😝 [LET ME TELL YOU SOMETHING](http://9gag.com/gag/aKGWV4g)
  - 😝 [I thought this shit only happen in anime, wtf](http://9gag.com/gag/avyE8xn)
- - 💣 [The absolute state of the UK police](http://9gag.com/gag/amom2x6)
- - 😝 [Necessary angle](http://9gag.com/gag/aByPxPA)
- - 👉 [Well this is just really sad](http://9gag.com/gag/aByPWEx)<!-- MEMES:END -->
+ - 💣 [Hee hee](http://9gag.com/gag/aD2ZzKx)
+ - 😝 [Peak acting &lpar; repost&rpar;](http://9gag.com/gag/adBnLzQ)
+ - 👉 [Me too, time traveller, me too](http://9gag.com/gag/aRBzjq5)<!-- MEMES:END -->
 
 ---
 

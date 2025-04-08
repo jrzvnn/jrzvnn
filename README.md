@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snap releases sponsored AI lenses, a new generative AI ad format users can interact with and that is powered by One Snap, its homegrown generative AI tech &lpar;Allison Schiff/AdExchanger&rpar;](http://www.techmeme.com/250408/p28#a250408p28)
  - [YouTube says Nope! to age-gating Balatro videos](https://www.theverge.com/news/645257/youtube-balatro-univeristy-videos-age-gated-localthunk)
  - [Asahi Linux M4 support hits a roadblock because of Apple Silicon changes](https://appleinsider.com/articles/25/04/08/asahi-linux-m4-support-hits-a-roadblock-because-of-apple-silicon-changes?utm_medium=rss)
  - [&#39;What the Clash&#39;, &#39;Lego Friends Heartlake Rush+&#39; and more come to Apple Arcade this May](https://appleinsider.com/articles/25/04/08/what-the-clash-lego-friends-heartlake-rush-and-more-come-to-apple-arcade-this-may?utm_medium=rss)
- - [Nintendo says Switch 2 pre-orders in Canada &quot;will not start on April 9, 2025 in order to align with the timing of pre-orders to be determined in the US&quot; &lpar;Bradly Shankar/MobileSyrup&rpar;](http://www.techmeme.com/250408/p27#a250408p27)
- - [Three QNAP Thunderbolt NAS models bring high-speed shared storage to Mac workflows](https://appleinsider.com/articles/25/04/08/three-qnap-thunderbolt-nas-models-bring-high-speed-shared-storage-to-mac-workflows?utm_medium=rss)<!-- TECH:END -->
+ - [Nintendo says Switch 2 pre-orders in Canada &quot;will not start on April 9, 2025 in order to align with the timing of pre-orders to be determined in the US&quot; &lpar;Bradly Shankar/MobileSyrup&rpar;](http://www.techmeme.com/250408/p27#a250408p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

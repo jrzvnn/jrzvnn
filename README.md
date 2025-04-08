@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good prank, but how?](http://9gag.com/gag/a6ZnV1L)
- - 😝 [It was an easy question](http://9gag.com/gag/a0e6QpX)
- - 💣 [Dire Wolf cry heard for the first time in 10,000 years after Jurassic Park-like \u201cresurrection\u201d](http://9gag.com/gag/aE0oxNe)
- - 😝 [I thought this shit only happen in anime, wtf](http://9gag.com/gag/avyE8xn)
- - 👉 [Chess](http://9gag.com/gag/aQzA3Pd)<!-- MEMES:END -->
+ - 😝 [That&#39;s a lot of effort. Time well spent.](http://9gag.com/gag/a9y8pVZ)
+ - 😝 [Tennis in anime](http://9gag.com/gag/a0e6K1X)
+ - 💣 [Still would](http://9gag.com/gag/aoy4Nx0)
+ - 😝 [Saleswoman explaining the special feature of the car](http://9gag.com/gag/aVvmYVM)
+ - 👉 [Great job](http://9gag.com/gag/aQzARQw)<!-- MEMES:END -->
 
 ---
 

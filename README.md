@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s a lot of effort. Time well spent.](http://9gag.com/gag/a9y8pVZ)
- - 😝 [Tennis in anime](http://9gag.com/gag/a0e6K1X)
- - 💣 [Still would](http://9gag.com/gag/aoy4Nx0)
- - 😝 [Saleswoman explaining the special feature of the car](http://9gag.com/gag/aVvmYVM)
- - 👉 [Great job](http://9gag.com/gag/aQzARQw)<!-- MEMES:END -->
+ - 😝 [Hee hee](http://9gag.com/gag/aD2ZzKx)
+ - 😝 [I thought this shit only happen in anime, wtf](http://9gag.com/gag/avyE8xn)
+ - 💣 [`You know how to do this, right?` -`Yeah man, I didn&#39;t spend 100$ on gta 6 for nothing`](http://9gag.com/gag/ayNWXLq)
+ - 😝 [A woman suggests Elon Musk go where he came from gets an unexpected surprise](http://9gag.com/gag/a6ZnVWq)
+ - 👉 [The voice stays on in bed](http://9gag.com/gag/awyLXN4)<!-- MEMES:END -->
 
 ---
 

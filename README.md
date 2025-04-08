@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump will hit China with 104 percent tariffs](https://www.theverge.com/news/645305/trump-104-percent-china-tariffs)
- - [The kid-friendly Fitbit Ace has returned to its best price to date](https://www.theverge.com/tech/645178/fitbit-ace-lte-fitness-tracker-apple-watch-se-2022-deal-sale)
- - [Hades II will launch first for consoles on Nintendo Switch and Switch 2](https://www.theverge.com/news/645303/hades-2-launch-nintendo-switch-consoles)
- - [CNET Survey: Tariff Fears Are Speeding Up Tech Purchases](https://www.cnet.com/personal-finance/banking/cnet-tariff-survey-2025/#ftag=CAD590a51e)
- - [Best Internet Providers in Corpus Christi, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-corpus-christi-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon plays catchup with new Nova AI models to generate voices and video](https://www.theverge.com/news/645357/amazon-nova-sonic-ai-conversational-voice-model-reel)
+ - [Apple gains ground as PC market heads into rocky 2025](https://appleinsider.com/articles/25/04/08/apple-gains-ground-as-pc-market-heads-into-rocky-2025?utm_medium=rss)
+ - [The next season of Love, Death, and Robots is coming to Netflix this May](https://www.theverge.com/news/645329/netflix-love-death-and-robots-season-4-trailer-release-date)
+ - [Tariffs Will Make Electronics More Expensive. If You Need a New Gadget, ‘Buy It Now’](https://www.wired.com/story/tariffs-are-going-to-make-your-electronics-more-expensive/)
+ - [Razer pauses direct laptop sales in the US as new tariffs loom](https://www.theverge.com/news/645276/razer-blade-gaming-laptops-sales-pause-us-tariffs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Elon shit](http://9gag.com/gag/a7oVMzL)
- - 😝 [The Return of Vampurr](http://9gag.com/gag/axybz9Y)
- - 💣 [This movie is so underrated, from b4 disney got the woke virus, directed by Sam raimi too](http://9gag.com/gag/aryZ5LX)
- - 😝 [Next gen mutation](http://9gag.com/gag/axyb0qp)
- - 👉 [You are a bodybuilder harry](http://9gag.com/gag/amom7qj)<!-- MEMES:END -->
+ - 😝 [Computer screen dying VERY slowly](http://9gag.com/gag/aAy432R)
+ - 😝 [LET ME TELL YOU SOMETHING](http://9gag.com/gag/aKGWV4g)
+ - 💣 [Only Fans Stonks](http://9gag.com/gag/aqyQrB7)
+ - 😝 [`You know how to do this, right?` -`Yeah man, I didn&#39;t spend 100$ on gta 6 for nothing`](http://9gag.com/gag/ayNWXLq)
+ - 👉 [A woman suggests Elon Musk go where he came from gets an unexpected surprise](http://9gag.com/gag/a6ZnVWq)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The kid-friendly Fitbit Ace has returned to its best price to date](https://www.theverge.com/tech/645178/fitbit-ace-lte-fitness-tracker-apple-watch-se-2022-deal-sale)
  - [Hades II will launch first for consoles on Nintendo Switch and Switch 2](https://www.theverge.com/news/645303/hades-2-launch-nintendo-switch-consoles)
- - [Snap releases sponsored AI lenses, a new generative AI ad format users can interact with and that is powered by One Snap, its homegrown generative AI tech &lpar;Allison Schiff/AdExchanger&rpar;](http://www.techmeme.com/250408/p28#a250408p28)
- - [YouTube says Nope! to age-gating Balatro videos](https://www.theverge.com/news/645257/youtube-balatro-univeristy-videos-age-gated-localthunk)
- - [Asahi Linux M4 support hits a roadblock because of Apple Silicon changes](https://appleinsider.com/articles/25/04/08/asahi-linux-m4-support-hits-a-roadblock-because-of-apple-silicon-changes?utm_medium=rss)
- - [&#39;What the Clash&#39;, &#39;Lego Friends Heartlake Rush+&#39; and more come to Apple Arcade this May](https://appleinsider.com/articles/25/04/08/what-the-clash-lego-friends-heartlake-rush-and-more-come-to-apple-arcade-this-may?utm_medium=rss)<!-- TECH:END -->
+ - [CNET Survey: Tariff Fears Are Speeding Up Tech Purchases](https://www.cnet.com/personal-finance/banking/cnet-tariff-survey-2025/#ftag=CAD590a51e)
+ - [Best Internet Providers in Corpus Christi, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-corpus-christi-tx/#ftag=CAD590a51e)
+ - [Best Wireless Headphones You Can Buy in 2025](https://www.cnet.com/tech/mobile/best-wireless-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

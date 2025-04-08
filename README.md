@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Computer screen dying VERY slowly](http://9gag.com/gag/aAy432R)
- - 😝 [LET ME TELL YOU SOMETHING](http://9gag.com/gag/aKGWV4g)
- - 💣 [Only Fans Stonks](http://9gag.com/gag/aqyQrB7)
- - 😝 [`You know how to do this, right?` -`Yeah man, I didn&#39;t spend 100$ on gta 6 for nothing`](http://9gag.com/gag/ayNWXLq)
- - 👉 [A woman suggests Elon Musk go where he came from gets an unexpected surprise](http://9gag.com/gag/a6ZnVWq)<!-- MEMES:END -->
+ - 😝 [A woman suggests Elon Musk go where he came from gets an unexpected surprise](http://9gag.com/gag/a6ZnVWq)
+ - 😝 [Only Fans Stonks](http://9gag.com/gag/aqyQrB7)
+ - 💣 [Dire Wolf cry heard for the first time in 10,000 years after Jurassic Park-like \u201cresurrection\u201d](http://9gag.com/gag/aE0oxNe)
+ - 😝 [Peak acting &lpar; repost&rpar;](http://9gag.com/gag/adBnLzQ)
+ - 👉 [I thought this shit only happen in anime, wtf](http://9gag.com/gag/avyE8xn)<!-- MEMES:END -->
 
 ---
 

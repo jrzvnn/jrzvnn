@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dramatical drop of Jack](http://9gag.com/gag/axyb00W)
- - 😝 [This movie is so underrated, from b4 disney got the woke virus, directed by Sam raimi too](http://9gag.com/gag/aryZ5LX)
- - 💣 [The Return of Vampurr](http://9gag.com/gag/axybz9Y)
- - 😝 [Jean Claude Van Dam unholstering his leg in slow-mo was the stuff of the early 90\u2019s](http://9gag.com/gag/avyEOpO)
- - 👉 [Next gen mutation](http://9gag.com/gag/axyb0qp)<!-- MEMES:END -->
+ - 😝 [Well this is just really sad](http://9gag.com/gag/aByPWEx)
+ - 😝 [Still would](http://9gag.com/gag/aoy4Nx0)
+ - 💣 [Young me creating an acc on 9Gag to watch some tettens](http://9gag.com/gag/aRBzjmB)
+ - 😝 [Well no\u2026 but actually yes](http://9gag.com/gag/a9y8Wv0)
+ - 👉 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)<!-- MEMES:END -->
 
 ---
 

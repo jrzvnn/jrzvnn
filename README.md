@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Mystery](http://9gag.com/gag/aGyMZX5)
- - 😝 [Peak acting &lpar; repost&rpar;](http://9gag.com/gag/adBnLzQ)
+ - 😝 [Chess](http://9gag.com/gag/aQzA3Pd)
  - 💣 [Streamer says this to 40,000 viewers, and now gets mass flagged on Twitch for promoting `Genocide`](http://9gag.com/gag/aE0o2KN)
- - 😝 [Scraping barnacles off the side of a ship](http://9gag.com/gag/a7oVMmr)
+ - 😝 [Peak acting &lpar; repost&rpar;](http://9gag.com/gag/adBnLzQ)
  - 👉 [This is why we can&#39;t have nice things](http://9gag.com/gag/aZZQLMW)<!-- MEMES:END -->
 
 ---

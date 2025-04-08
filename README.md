@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)
- - 😝 [The U.S.S EnterThighs](http://9gag.com/gag/amom2pX)
- - 💣 [Dramatical drop of Jack](http://9gag.com/gag/axyb00W)
- - 😝 [`You know how to do this, right?` -`Yeah man, I didn&#39;t spend 100$ on gta 6 for nothing`](http://9gag.com/gag/ayNWXLq)
- - 👉 [You are a bodybuilder harry](http://9gag.com/gag/amom7qj)<!-- MEMES:END -->
+ - 😝 [Daily chase](http://9gag.com/gag/a0e6dnO)
+ - 😝 [Trump said that the United States and Italy have been allies since the time of Ancient Rome. The translator&#39;s reaction is priceless.](http://9gag.com/gag/a5QGbKg)
+ - 💣 [Thai construction workers sing to synchronize their jumps](http://9gag.com/gag/aGyM1D0)
+ - 😝 [Scraping barnacles off the side of a ship](http://9gag.com/gag/a7oVMmr)
+ - 👉 [How flies actually eat your food](http://9gag.com/gag/aO8Ddey)<!-- MEMES:END -->
 
 ---
 

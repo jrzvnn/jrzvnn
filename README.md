@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A woman suggests Elon Musk go where he came from gets an unexpected surprise](http://9gag.com/gag/a6ZnVWq)
- - 😝 [Well this is just really sad](http://9gag.com/gag/aByPWEx)
- - 💣 [Dire Wolf cry heard for the first time in 10,000 years after Jurassic Park-like \u201cresurrection\u201d](http://9gag.com/gag/aE0oxNe)
+ - 😝 [It&#39;s a prank bro](http://9gag.com/gag/aryZgvB)
  - 😝 [How flies actually eat your food](http://9gag.com/gag/aO8Ddey)
- - 👉 [Equal rights and lefts](http://9gag.com/gag/a5QGMZO)<!-- MEMES:END -->
+ - 💣 [LET ME TELL YOU SOMETHING](http://9gag.com/gag/aKGWV4g)
+ - 😝 [I&#39;m no Sherlock Holmes, but hear me out...](http://9gag.com/gag/a1m5bmb)
+ - 👉 [Yea...no thanks](http://9gag.com/gag/aNDVdGb)<!-- MEMES:END -->
 
 ---
 

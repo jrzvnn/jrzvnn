@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Michigan](https://www.cnet.com/home/internet/best-internet-providers-in-michigan/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for April 9, #668](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-9-668/#ftag=CAD590a51e)
+ - [Zelle App Shuts Down. Here&#39;s How to Still Digitally Send Money for Free](https://www.cnet.com/personal-finance/banking/zelle-app-shuts-down-heres-how-to-still-digitally-send-money-for-free/#ftag=CAD590a51e)
  - [A look at Inkitt, a publishing platform that uses AI to create sequels and spinoffs of authors&#39; original work with minimal human input, raising quality concerns &lpar;Vauhini Vara/Bloomberg&rpar;](http://www.techmeme.com/250408/p3#a250408p3)
- - [A look at the state of AI in 2025 across training and inference costs, carbon footprint, investment activity, bills proposed in the US, and more &lpar;Eliza Strickland/IEEE Spectrum&rpar;](http://www.techmeme.com/250408/p2#a250408p2)
- - [Adidas Promo Codes &amp; Deals: 30% Off](https://www.wired.com/story/adidas-promo-code/)
- - [Best Internet Providers in Florida](https://www.cnet.com/home/internet/best-internet-providers-in-florida/#ftag=CAD590a51e)
- - [IBM unveils the z17 mainframe with a Telum II chip, built for 250+ AI use cases and able to process 450B daily inferences, 50% more than z16, available June 8 &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250408/p1#a250408p1)<!-- TECH:END -->
+ - [A look at the state of AI in 2025 across training and inference costs, carbon footprint, investment activity, bills proposed in the US, and more &lpar;Eliza Strickland/IEEE Spectrum&rpar;](http://www.techmeme.com/250408/p2#a250408p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

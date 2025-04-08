@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well this is just really sad](http://9gag.com/gag/aByPWEx)
- - 😝 [It&#39;s a prank bro](http://9gag.com/gag/aryZgvB)
- - 💣 [Dagestan motorcycle driving license test](http://9gag.com/gag/axyb1MW)
- - 😝 [Trump said that the United States and Italy have been allies since the time of Ancient Rome. The translator&#39;s reaction is priceless.](http://9gag.com/gag/a5QGbKg)
- - 👉 [I&#39;m no Sherlock Holmes, but hear me out...](http://9gag.com/gag/a1m5bmb)<!-- MEMES:END -->
+ - 😝 [The U.S.S EnterThighs](http://9gag.com/gag/amom2pX)
+ - 😝 [We have to do this](http://9gag.com/gag/a0e6dyQ)
+ - 💣 [It&#39;s a prank bro](http://9gag.com/gag/aryZgvB)
+ - 😝 [It was an easy question](http://9gag.com/gag/a0e6QpX)
+ - 👉 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)<!-- MEMES:END -->
 
 ---
 

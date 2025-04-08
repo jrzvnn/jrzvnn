@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Dramatical drop of Jack](http://9gag.com/gag/axyb00W)
- - 😝 [This movie is so underrated, from b4 disney got the woke virus, directed by Sam raimi too](http://9gag.com/gag/aryZ5LX)
- - 💣 [Jean Claude Van Dam unholstering his leg in slow-mo was the stuff of the early 90\u2019s](http://9gag.com/gag/avyEOpO)
+ - 😝 [Jean Claude Van Dam unholstering his leg in slow-mo was the stuff of the early 90\u2019s](http://9gag.com/gag/avyEOpO)
+ - 💣 [This movie is so underrated, from b4 disney got the woke virus, directed by Sam raimi too](http://9gag.com/gag/aryZ5LX)
  - 😝 [Next gen mutation](http://9gag.com/gag/axyb0qp)
  - 👉 [You are a bodybuilder harry](http://9gag.com/gag/amom7qj)<!-- MEMES:END -->
 

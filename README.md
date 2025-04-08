@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Time goes by](http://9gag.com/gag/aQzA14e)
+ - 😝 [Mystery](http://9gag.com/gag/aGyMZX5)
  - 😝 [Borderline psychological warfare](http://9gag.com/gag/aRBz0jj)
- - 💣 [Chilling Time](http://9gag.com/gag/aqyQK0j)
- - 😝 [PIRACY IT&#39;S A CRIME](http://9gag.com/gag/awyLoDB)
- - 👉 [I should have kept my Yaris](http://9gag.com/gag/amomB4y)<!-- MEMES:END -->
+ - 💣 [Peak acting &lpar; repost&rpar;](http://9gag.com/gag/adBnLzQ)
+ - 😝 [Anhydrous ammonia, coming to a neighborhood near you.](http://9gag.com/gag/aLnG0pV)
+ - 👉 [This is why we can&#39;t have nice things](http://9gag.com/gag/aZZQLMW)<!-- MEMES:END -->
 
 ---
 

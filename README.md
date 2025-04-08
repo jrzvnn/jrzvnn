@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Chess](http://9gag.com/gag/aQzA3Pd)
  - 😝 [I thought this shit only happen in anime, wtf](http://9gag.com/gag/avyE8xn)
- - 😝 [`You know how to do this, right?` -`Yeah man, I didn&#39;t spend 100$ on gta 6 for nothing`](http://9gag.com/gag/ayNWXLq)
  - 💣 [The absolute state of the UK police](http://9gag.com/gag/amom2x6)
  - 😝 [Necessary angle](http://9gag.com/gag/aByPxPA)
- - 👉 [Dagestan motorcycle driving license test](http://9gag.com/gag/axyb1MW)<!-- MEMES:END -->
+ - 👉 [Well this is just really sad](http://9gag.com/gag/aByPWEx)<!-- MEMES:END -->
 
 ---
 

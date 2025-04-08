@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The White House says that tariffs on China are set to rise to 104% at 12:01am ET Wednesday after China missed Trump&#39;s deadline to remove its reciprocal tariff &lpar;Elisabeth Buchwald/CNN&rpar;](http://www.techmeme.com/250408/p31#a250408p31)
+ - [Trump believes iPhones can be made in the US, says White House](https://www.theverge.com/news/645355/trump-us-iphone-manufacturing-dream-steve-jobs-tim-cook)
  - [YouTube says Nope! to age-gating Balatro videos](https://www.theverge.com/news/645257/youtube-balatro-univeristy-videos-age-gated-localthunk)
  - [Tesla Supercharger damaged in possible explosion in Washington](https://www.theverge.com/news/645378/tesla-supercharger-damaged-explosion-washington)
- - [Trump’s DOJ will no longer prosecute cryptocurrency fraud](https://www.theverge.com/policy/645399/trump-doj-cryptocurrency-fraud-prosecutions-memo)
- - [Razer pauses direct sales of the upcoming Blade 16 and other laptops in the US as new tariffs loom &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/250408/p30#a250408p30)
- - [White House Press Secretary Karoline Leavitt says that President Trump believes the US has the resources and workforce to build iPhones in the US &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250408/p29#a250408p29)<!-- TECH:END -->
+ - [Trump’s DOJ will no longer prosecute cryptocurrency fraud](https://www.theverge.com/policy/645399/trump-doj-cryptocurrency-fraud-prosecutions-memo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

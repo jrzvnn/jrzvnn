@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: US officials say DOGE is using AI to surveil at least one federal agency&#39;s communications for anti-Trump sentiment; a source says DOGE is using Signal &lpar;Reuters&rpar;](http://www.techmeme.com/250408/p14#a250408p14)
- - [Ooni Halo Pro Spiral Mixer Review: Dough as Far as the Eye Can See](https://www.wired.com/review/ooni-halo-pro-spiral-mixer/)
- - [Tech CEOs who spent big on Trump&#39;s inauguration are yet to see the investment pay off; Amazon, Apple, Google, Meta, and Microsoft are down 22% since January 20 &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/250408/p13#a250408p13)
- - [Toronto-based Tailscale, which helps set up corporate VPNs, raised $160M led by Accel, a source says at a $1.5B valuation, up from $1B in May 2022 &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250408/p12#a250408p12)
- - [Who Died in &#39;The White Lotus&#39; Season 3 Finale? Let&#39;s Break Down that Shootout Ending](https://www.cnet.com/tech/services-and-software/who-died-in-the-white-lotus-season-3-finale-lets-break-down-that-shootout-ending/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple shares clawing back, after $638 billion in value is destroyed](https://appleinsider.com/articles/25/04/08/apple-shares-clawing-back-after-638-billion-in-value-is-destroyed?utm_medium=rss)
+ - [Google says all new Google TV devices in the US must have a remote with a &quot;Free TV&quot; or &quot;Live TV&quot; button to open its Freeplay library of FAST channels &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/250408/p17#a250408p17)
+ - [Sources: Micron has told US customers that it plans to impose a surcharge on some products like SSDs from April 9 to account for President Trump&#39;s tariffs &lpar;Reuters&rpar;](http://www.techmeme.com/250408/p16#a250408p16)
+ - [Internal memo: the DOJ has disbanded the National Cryptocurrency Enforcement Unit, established by Biden in 2021, as the DOJ is &quot;not a digital assets regulator&quot; &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250408/p15#a250408p15)
+ - [Best Internet Providers in Las Vegas, Nevada](https://www.cnet.com/home/internet/best-internet-providers-in-las-vegas-nv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

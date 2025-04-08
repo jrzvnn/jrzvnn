@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Predator: Killer of Killers teases a most dangerous, multigenerational game in new trailer](https://www.theverge.com/news/645394/predator-killer-of-killers-trailer-reelase-date)
  - [Source: Instagram is working on an iPad app, and Adam Mosseri told staff to be willing to assume more &quot;risk&quot; to take advantage of a potential TikTok ban &lpar;The Information&rpar;](http://www.techmeme.com/250408/p33#a250408p33)
  - [Nintendo has already shipped &amp;#8216;some&amp;#8217; Switch 2 inventory to the US](https://www.theverge.com/news/645534/nintendo-switch-2-supply-demand-inventory-us-tariffs-doug-bowser)
  - [Limited-time offer: Apple TV+ drops to $2.99/month for first three months](https://appleinsider.com/articles/25/04/08/limited-time-offer-apple-tv-drops-to-299month-for-first-three-months?utm_medium=rss)
- - [11 Great Apple Deals on MacBooks, iPads, and AirPods &lpar;April 2025&rpar;](https://www.wired.com/story/apple-deals-april-2025/)
- - [Trump&#39;s belief that iPhone manufacturing could quickly move to the US is wrong](https://appleinsider.com/articles/25/04/08/trumps-belief-that-iphone-manufacturing-could-quickly-move-to-the-us-is-wrong?utm_medium=rss)<!-- TECH:END -->
+ - [11 Great Apple Deals on MacBooks, iPads, and AirPods &lpar;April 2025&rpar;](https://www.wired.com/story/apple-deals-april-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

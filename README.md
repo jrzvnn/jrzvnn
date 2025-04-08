@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Bluetooth trackers for finding your stuff](https://www.theverge.com/23769840/best-bluetooth-trackers)
+ - [Germany-based Hawk, which offers AI-powered anti-money laundering services, raised a $56M Series C led by One Peak and says it has over 80 customers worldwide &lpar;Cameron Emanuel-Burns/FinTech Futures&rpar;](http://www.techmeme.com/250408/p32#a250408p32)
  - [Dr. Oz Pushed for AI Health Care in First Medicare Agency Town Hall](https://www.wired.com/story/dr-oz-ai-health-care-medicare-cms-town-hall/)
  - [Apple stock rocked for fourth day, despite brief signs of recovery](https://appleinsider.com/articles/25/04/08/apple-stock-rocked-for-fourth-day-despite-brief-signs-of-recovery?utm_medium=rss)
- - [Today&#39;s Wordle Hints, Answer and Help for April 9, #1390](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-9-1390/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 9, #198](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-9-198/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for April 9, #402](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-9-402/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for April 9, #1390](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-9-1390/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [It was an easy question](http://9gag.com/gag/a0e6QpX)
+ - 😝 [Well no\u2026 but actually yes](http://9gag.com/gag/a9y8Wv0)
+ - 💣 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)
  - 😝 [Dramatical drop of Jack](http://9gag.com/gag/axyb00W)
- - 😝 [Jean Claude Van Dam unholstering his leg in slow-mo was the stuff of the early 90\u2019s](http://9gag.com/gag/avyEOpO)
- - 💣 [This movie is so underrated, from b4 disney got the woke virus, directed by Sam raimi too](http://9gag.com/gag/aryZ5LX)
- - 😝 [Next gen mutation](http://9gag.com/gag/axyb0qp)
- - 👉 [You are a bodybuilder harry](http://9gag.com/gag/amom7qj)<!-- MEMES:END -->
+ - 👉 [It&#39;s a prank bro](http://9gag.com/gag/aryZgvB)<!-- MEMES:END -->
 
 ---
 

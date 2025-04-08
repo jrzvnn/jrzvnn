@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Instagram is working on an iPad app, and Adam Mosseri told staff to be willing to assume more &quot;risk&quot; to take advantage of a potential TikTok ban &lpar;The Information&rpar;](http://www.techmeme.com/250408/p33#a250408p33)
  - [Nintendo has already shipped &amp;#8216;some&amp;#8217; Switch 2 inventory to the US](https://www.theverge.com/news/645534/nintendo-switch-2-supply-demand-inventory-us-tariffs-doug-bowser)
  - [Limited-time offer: Apple TV+ drops to $2.99/month for first three months](https://appleinsider.com/articles/25/04/08/limited-time-offer-apple-tv-drops-to-299month-for-first-three-months?utm_medium=rss)
- - [Trump&#39;s belief that iPhone manufacturing could quickly move to the US is wrong](https://appleinsider.com/articles/25/04/08/trumps-belief-that-iphone-manufacturing-could-quickly-move-to-the-us-is-wrong?utm_medium=rss)
- - [The best Bluetooth trackers for finding your stuff](https://www.theverge.com/23769840/best-bluetooth-trackers)
- - [Germany-based Hawk, which offers AI-powered anti-money laundering services, raised a $56M Series C led by One Peak and says it has over 80 customers worldwide &lpar;Cameron Emanuel-Burns/FinTech Futures&rpar;](http://www.techmeme.com/250408/p32#a250408p32)<!-- TECH:END -->
+ - [11 Great Apple Deals on MacBooks, iPads, and AirPods &lpar;April 2025&rpar;](https://www.wired.com/story/apple-deals-april-2025/)
+ - [Trump&#39;s belief that iPhone manufacturing could quickly move to the US is wrong](https://appleinsider.com/articles/25/04/08/trumps-belief-that-iphone-manufacturing-could-quickly-move-to-the-us-is-wrong?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

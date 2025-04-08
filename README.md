@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls out Gemini Live camera and screenshare features to the Pixel 9 series and Samsung Galaxy S25 devices, available in 45 languages for users over 18 &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/250408/p7#a250408p7)
- - [Your Teen&#39;s Instagram Account Protections Are Coming to Facebook and Messenger](https://www.cnet.com/tech/services-and-software/your-teens-instagram-account-protections-are-coming-to-facebook-and-messenger/#ftag=CAD590a51e)
- - [Best Dishwashers of 2025](https://www.cnet.com/home/kitchen-and-household/best-dishwasher/#ftag=CAD590a51e)
- - [Sources: Beijing opposes fast-fashion giant Shein&#39;s plans to move some production out of China, as it seeks to stave off a manufacturing exodus after US tariffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250408/p6#a250408p6)
- - [&#39;A Minecraft Movie&#39;: Is There a Post-Credits Scene?](https://www.cnet.com/tech/services-and-software/a-minecraft-movie-is-there-a-post-credit-scene/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Interviews with 40 sources describe concerns about Helsing, Europe&#39;s most valuable defense tech startup, including whether it can live up to its €5B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250408/p9#a250408p9)
+ - [Daily Harvest Review: Good Meals for Single Vegans Who Don’t Mind Mush](https://www.wired.com/review/daily-harvest/)
+ - [Ford Maverick Hybrid AWD 2025: prices, specs availability, review](https://www.wired.com/story/first-drive-ford-maverick-hybrid-awd-the-pickup-way-more-americans-should-be-driving/)
+ - [Meta rolls out Teen Accounts to Facebook and Messenger, automatically enrolling young users and adding built-in protections, in the US, the UK, and others &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250408/p8#a250408p8)
+ - [Google rolls out Gemini Live camera and screenshare features to the Pixel 9 series and Samsung Galaxy S25 devices, available in 45 languages for users over 18 &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/250408/p7#a250408p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [LET ME TELL YOU SOMETHING](http://9gag.com/gag/aKGWV4g)
+ - 😝 [Me too, time traveller, me too](http://9gag.com/gag/aRBzjq5)
+ - 😝 [Chess](http://9gag.com/gag/aQzA3Pd)
+ - 💣 [Peak acting &lpar; repost&rpar;](http://9gag.com/gag/adBnLzQ)
  - 😝 [I thought this shit only happen in anime, wtf](http://9gag.com/gag/avyE8xn)
- - 💣 [Hee hee](http://9gag.com/gag/aD2ZzKx)
- - 😝 [Peak acting &lpar; repost&rpar;](http://9gag.com/gag/adBnLzQ)
- - 👉 [Me too, time traveller, me too](http://9gag.com/gag/aRBzjq5)<!-- MEMES:END -->
+ - 👉 [Well this is just really sad](http://9gag.com/gag/aByPWEx)<!-- MEMES:END -->
 
 ---
 

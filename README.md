@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo has already shipped &amp;#8216;some&amp;#8217; Switch 2 inventory to the US](https://www.theverge.com/news/645534/nintendo-switch-2-supply-demand-inventory-us-tariffs-doug-bowser)
+ - [Limited-time offer: Apple TV+ drops to $2.99/month for first three months](https://appleinsider.com/articles/25/04/08/limited-time-offer-apple-tv-drops-to-299month-for-first-three-months?utm_medium=rss)
+ - [Trump&#39;s belief that iPhone manufacturing could quickly move to the US is wrong](https://appleinsider.com/articles/25/04/08/trumps-belief-that-iphone-manufacturing-could-quickly-move-to-the-us-is-wrong?utm_medium=rss)
  - [The best Bluetooth trackers for finding your stuff](https://www.theverge.com/23769840/best-bluetooth-trackers)
- - [Germany-based Hawk, which offers AI-powered anti-money laundering services, raised a $56M Series C led by One Peak and says it has over 80 customers worldwide &lpar;Cameron Emanuel-Burns/FinTech Futures&rpar;](http://www.techmeme.com/250408/p32#a250408p32)
- - [Dr. Oz Pushed for AI Health Care in First Medicare Agency Town Hall](https://www.wired.com/story/dr-oz-ai-health-care-medicare-cms-town-hall/)
- - [Apple stock rocked for fourth day, despite brief signs of recovery](https://appleinsider.com/articles/25/04/08/apple-stock-rocked-for-fourth-day-despite-brief-signs-of-recovery?utm_medium=rss)
- - [Today&#39;s Wordle Hints, Answer and Help for April 9, #1390](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-9-1390/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Germany-based Hawk, which offers AI-powered anti-money laundering services, raised a $56M Series C led by One Peak and says it has over 80 customers worldwide &lpar;Cameron Emanuel-Burns/FinTech Futures&rpar;](http://www.techmeme.com/250408/p32#a250408p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

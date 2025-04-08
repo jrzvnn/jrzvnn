@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon expands Haul, its Temu competitor, to offer name-brand items from Amazon&#39;s US inventory, as the US plans to end de minimis tariff exemptions on May 2 &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/250408/p36#a250408p36)
  - [Google says Deep Research is now available on Gemini 2.5 Pro Experimental for Gemini Advanced subscribers &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250408/p35#a250408p35)
  - [SmartThings gets Matter 1.4 support for water heaters, heat pumps, and more](https://www.theverge.com/news/645519/samsung-smartthings-matter-1-4-support)
  - [Aurascape, which offers enterprise security tools to mitigate risks from third-party AI apps, emerges from stealth with $50M from Menlo, Mayfield, and others &lpar;Ryan Naraine/SecurityWeek&rpar;](http://www.techmeme.com/250408/p34#a250408p34)
- - [Amazon is already changing its ultra-cheap Temu copycat](https://www.theverge.com/news/645465/amazon-haul-temu-ultra-cheap-tariffs-trump)
- - [Predator: Killer of Killers teases a most dangerous, multigenerational game in new trailer](https://www.theverge.com/news/645394/predator-killer-of-killers-trailer-reelase-date)<!-- TECH:END -->
+ - [Amazon is already changing its ultra-cheap Temu copycat](https://www.theverge.com/news/645465/amazon-haul-temu-ultra-cheap-tariffs-trump)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

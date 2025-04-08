@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rain, which offers an employer-integrated personal finance and earned wage access app, raised a $75M Series B led by Prosus at a $340M post-money valuation &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250408/p24#a250408p24)
- - [Emergency response drone maker Brinc announced $75M in funding led by Index Ventures, bringing total raised to $157.2M; Motorola will become Brinc&#39;s distributor &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250408/p23#a250408p23)
- - [Elon Musk dies to tutorial boss in Path of Exile 2 livestream](https://www.theverge.com/news/645131/elon-musk-path-of-exile-2-livestream)
- - [Best Internet Providers in Massachusetts](https://www.cnet.com/home/internet/best-internet-providers-in-massachusetts/#ftag=CAD590a51e)
- - [Best Internet Providers in Hickory, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-hickory-nc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Asahi Linux M4 support hits a roadblock because of Apple Silicon changes](https://appleinsider.com/articles/25/04/08/asahi-linux-m4-support-hits-a-roadblock-because-of-apple-silicon-changes?utm_medium=rss)
+ - [&#39;What the Clash&#39;, &#39;Lego Friends Heartlake Rush+&#39; and more come to Apple Arcade this May](https://appleinsider.com/articles/25/04/08/what-the-clash-lego-friends-heartlake-rush-and-more-come-to-apple-arcade-this-may?utm_medium=rss)
+ - [Nintendo says Switch 2 pre-orders in Canada &quot;will not start on April 9, 2025 in order to align with the timing of pre-orders to be determined in the US&quot; &lpar;Bradly Shankar/MobileSyrup&rpar;](http://www.techmeme.com/250408/p27#a250408p27)
+ - [Three QNAP Thunderbolt NAS models bring high-speed shared storage to Mac workflows](https://appleinsider.com/articles/25/04/08/three-qnap-thunderbolt-nas-models-bring-high-speed-shared-storage-to-mac-workflows?utm_medium=rss)
+ - [Sources: hackers intercepted ~100 bank regulators&#39; emails, 150K+ in total, for over a year at the US Treasury&#39;s OCC, which disclosed a breach on February 26 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250408/p26#a250408p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

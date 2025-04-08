@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rain, which offers an employer-integrated personal finance and earned wage access app, raised a $75M Series B led by Prosus at a $340M post-money valuation &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250408/p24#a250408p24)
  - [Emergency response drone maker Brinc announced $75M in funding led by Index Ventures, bringing total raised to $157.2M; Motorola will become Brinc&#39;s distributor &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250408/p23#a250408p23)
  - [Elon Musk dies to tutorial boss in Path of Exile 2 livestream](https://www.theverge.com/news/645131/elon-musk-path-of-exile-2-livestream)
  - [Best Internet Providers in Massachusetts](https://www.cnet.com/home/internet/best-internet-providers-in-massachusetts/#ftag=CAD590a51e)
- - [Best Internet Providers in Hickory, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-hickory-nc/#ftag=CAD590a51e)
- - [Rumors of a Final Fantasy 9 Remake Heat Up After Social Media Tease](https://www.cnet.com/tech/gaming/rumors-of-a-final-fantasy-ix-remake-heat-up-after-social-media-tease/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Hickory, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-hickory-nc/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

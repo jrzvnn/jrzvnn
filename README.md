@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Even Streaming Services Might Be Hurt by Trump’s Tariffs](https://www.wired.com/story/even-streaming-services-might-be-hurt-by-trumps-tariffs/)
  - [The White House says that tariffs on China are set to rise to 104% at 12:01am ET Wednesday after China missed Trump&#39;s deadline to remove its reciprocal tariff &lpar;Elisabeth Buchwald/CNN&rpar;](http://www.techmeme.com/250408/p31#a250408p31)
  - [Trump believes iPhones can be made in the US, says White House](https://www.theverge.com/news/645355/trump-us-iphone-manufacturing-dream-steve-jobs-tim-cook)
- - [YouTube says Nope! to age-gating Balatro videos](https://www.theverge.com/news/645257/youtube-balatro-univeristy-videos-age-gated-localthunk)
- - [Tesla Supercharger damaged in possible explosion in Washington](https://www.theverge.com/news/645378/tesla-supercharger-damaged-explosion-washington)<!-- TECH:END -->
+ - [Will the iPhone Really Cost More Than $3K After Trump&#39;s Tariffs Start Tomorrow?](https://www.cnet.com/personal-finance/banking/will-the-iphone-really-cost-more-than-3k-after-trumps-tariffs-start-tomorrow/#ftag=CAD590a51e)
+ - [Afraid of a Data Breach? Lock Your Social Security Number to Protect Your Identity](https://www.cnet.com/personal-finance/afraid-of-a-data-breach-lock-your-social-security-number-to-protect-your-identity/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sushi](http://9gag.com/gag/a2vyZjO)
- - 😝 [This movie is so underrated, from b4 disney got the woke virus, directed by Sam raimi too](http://9gag.com/gag/aryZ5LX)
- - 💣 [Great job](http://9gag.com/gag/aQzARQw)
- - 😝 [The Return of Vampurr](http://9gag.com/gag/axybz9Y)
- - 👉 [Next gen mutation](http://9gag.com/gag/axyb0qp)<!-- MEMES:END -->
+ - 😝 [Well this is just really sad](http://9gag.com/gag/aByPWEx)
+ - 😝 [It&#39;s a prank bro](http://9gag.com/gag/aryZgvB)
+ - 💣 [Dagestan motorcycle driving license test](http://9gag.com/gag/axyb1MW)
+ - 😝 [Trump said that the United States and Italy have been allies since the time of Ancient Rome. The translator&#39;s reaction is priceless.](http://9gag.com/gag/a5QGbKg)
+ - 👉 [I&#39;m no Sherlock Holmes, but hear me out...](http://9gag.com/gag/a1m5bmb)<!-- MEMES:END -->
 
 ---
 

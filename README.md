@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It was an easy question](http://9gag.com/gag/a0e6QpX)
- - 😝 [I know the perfect gif after the end of this video](http://9gag.com/gag/aVvmqNw)
- - 💣 [I thought this shit only happen in anime, wtf](http://9gag.com/gag/avyE8xn)
+ - 😝 [I thought this shit only happen in anime, wtf](http://9gag.com/gag/avyE8xn)
+ - 😝 [Dire Wolf cry heard for the first time in 10,000 years after Jurassic Park-like \u201cresurrection\u201d](http://9gag.com/gag/aE0oxNe)
+ - 💣 [This is why we can&#39;t have nice things](http://9gag.com/gag/aZZQLMW)
  - 😝 [Anhydrous ammonia, coming to a neighborhood near you.](http://9gag.com/gag/aLnG0pV)
- - 👉 [Borderline psychological warfare](http://9gag.com/gag/aRBz0jj)<!-- MEMES:END -->
+ - 👉 [Peak acting &lpar; repost&rpar;](http://9gag.com/gag/adBnLzQ)<!-- MEMES:END -->
 
 ---
 

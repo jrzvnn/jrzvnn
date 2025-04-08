@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Even Streaming Services Might Be Hurt by Trump’s Tariffs](https://www.wired.com/story/even-streaming-services-might-be-hurt-by-trumps-tariffs/)
- - [The White House says that tariffs on China are set to rise to 104% at 12:01am ET Wednesday after China missed Trump&#39;s deadline to remove its reciprocal tariff &lpar;Elisabeth Buchwald/CNN&rpar;](http://www.techmeme.com/250408/p31#a250408p31)
- - [Trump believes iPhones can be made in the US, says White House](https://www.theverge.com/news/645355/trump-us-iphone-manufacturing-dream-steve-jobs-tim-cook)
- - [Will the iPhone Really Cost More Than $3K After Trump&#39;s Tariffs Start Tomorrow?](https://www.cnet.com/personal-finance/banking/will-the-iphone-really-cost-more-than-3k-after-trumps-tariffs-start-tomorrow/#ftag=CAD590a51e)
- - [Afraid of a Data Breach? Lock Your Social Security Number to Protect Your Identity](https://www.cnet.com/personal-finance/afraid-of-a-data-breach-lock-your-social-security-number-to-protect-your-identity/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple stock rocked for fourth day, despite brief signs of recovery](https://appleinsider.com/articles/25/04/08/apple-stock-rocked-for-fourth-day-despite-brief-signs-of-recovery?utm_medium=rss)
+ - [Today&#39;s Wordle Hints, Answer and Help for April 9, #1390](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-9-1390/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 9, #198](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-9-198/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 9, #402](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-9-402/#ftag=CAD590a51e)
+ - [Best Facial Sunscreens of 2025, Tested and Chosen From 50 Top Brands](https://www.cnet.com/health/personal-care/best-sunscreen-for-face/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

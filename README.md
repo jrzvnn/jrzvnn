@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo says the Switch 2&#39;s new Game-Key cards, which trigger a game download when loaded, are not tied to a user&#39;s account and can be borrowed or resold &lpar;Darryn Bonthuys/GameSpot&rpar;](http://www.techmeme.com/250408/p5#a250408p5)
  - [Samsung reports Q1 revenue up ~10% YoY to ~$53.4B and operating profit flat YoY at ~$4.5B, above ~$3.8B est., boosted by Galaxy S25 and legacy DRAM sales &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250408/p4#a250408p4)
  - [Apple plans another iPhone X style redesign for the iPhone 20](https://appleinsider.com/articles/25/04/06/apple-plans-another-iphone-x-style-redesign-for-the-iphone-20?utm_medium=rss)
  - [Today&#39;s NYT Strands Hints, Answers and Help for April 8, #401](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-8-401/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 8, #197](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-8-197/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for April 8, #667](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-8-667/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 8, #197](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-8-197/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

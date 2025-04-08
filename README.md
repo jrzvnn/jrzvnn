@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Time goes by](http://9gag.com/gag/aQzA14e)
- - 😝 [Tennis in anime](http://9gag.com/gag/a0e6K1X)
- - 💣 [Still would](http://9gag.com/gag/aoy4Nx0)
- - 😝 [Great job](http://9gag.com/gag/aQzARQw)
- - 👉 [Saleswoman explaining the special feature of the car](http://9gag.com/gag/aVvmYVM)<!-- MEMES:END -->
+ - 😝 [This is why we can&#39;t have nice things](http://9gag.com/gag/aZZQLMW)
+ - 😝 [I thought this shit only happen in anime, wtf](http://9gag.com/gag/avyE8xn)
+ - 💣 [A woman suggests Elon Musk go where he came from gets an unexpected surprise](http://9gag.com/gag/a6ZnVWq)
+ - 😝 [It was an easy question](http://9gag.com/gag/a0e6QpX)
+ - 👉 [I&#39;m no Sherlock Holmes, but hear me out...](http://9gag.com/gag/a1m5bmb)<!-- MEMES:END -->
 
 ---
 

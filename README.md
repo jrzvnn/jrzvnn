@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Trump said that the United States and Italy have been allies since the time of Ancient Rome. The translator&#39;s reaction is priceless.](http://9gag.com/gag/a5QGbKg)
  - 😝 [It was an easy question](http://9gag.com/gag/a0e6QpX)
- - 😝 [Well no\u2026 but actually yes](http://9gag.com/gag/a9y8Wv0)
- - 💣 [I wonder what it smelled like.](http://9gag.com/gag/aRBzKoy)
- - 😝 [Dramatical drop of Jack](http://9gag.com/gag/axyb00W)
- - 👉 [It&#39;s a prank bro](http://9gag.com/gag/aryZgvB)<!-- MEMES:END -->
+ - 💣 [I&#39;m no Sherlock Holmes, but hear me out...](http://9gag.com/gag/a1m5bmb)
+ - 😝 [Well this is just really sad](http://9gag.com/gag/aByPWEx)
+ - 👉 [Yea...no thanks](http://9gag.com/gag/aNDVdGb)<!-- MEMES:END -->
 
 ---
 

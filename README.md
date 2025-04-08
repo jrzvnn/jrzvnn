@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Toronto-based Tailscale, which helps set up corporate VPNs, raised $160M led by Accel, a source says at a $1.5B valuation, up from $1B in May 2022 &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250408/p12#a250408p12)
  - [Turkish startup Sipay, which bills itself as &quot;Stripe for emerging markets&quot;, raised a $78M Series B at an $875M valuation to expand outside of Turkey &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/250408/p11#a250408p11)
  - [Analysts: the original Switch&#39;s huge success has given Nintendo a high mountain to climb, and the Switch 2 is a massive bet that fans want more of the same &lpar;Financial Times&rpar;](http://www.techmeme.com/250408/p10#a250408p10)
  - [Interviews with 40 sources describe concerns about Helsing, Europe&#39;s most valuable defense tech startup, including whether it can live up to its €5B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250408/p9#a250408p9)
- - [Daily Harvest Review: Good Meals for Single Vegans Who Don’t Mind Mush](https://www.wired.com/review/daily-harvest/)
- - [Ford Maverick Hybrid AWD 2025: prices, specs availability, review](https://www.wired.com/story/first-drive-ford-maverick-hybrid-awd-the-pickup-way-more-americans-should-be-driving/)<!-- TECH:END -->
+ - [Daily Harvest Review: Good Meals for Single Vegans Who Don’t Mind Mush](https://www.wired.com/review/daily-harvest/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

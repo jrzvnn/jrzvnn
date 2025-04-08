@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The voice stays on in bed](http://9gag.com/gag/awyLXN4)
- - 😝 [Chess](http://9gag.com/gag/aQzA3Pd)
- - 💣 [Scraping barnacles off the side of a ship](http://9gag.com/gag/a7oVMmr)
- - 😝 [Mystery](http://9gag.com/gag/aGyMZX5)
- - 👉 [Streamer says this to 40,000 viewers, and now gets mass flagged on Twitch for promoting `Genocide`](http://9gag.com/gag/aE0o2KN)<!-- MEMES:END -->
+ - 😝 [Time goes by](http://9gag.com/gag/aQzA14e)
+ - 😝 [Borderline psychological warfare](http://9gag.com/gag/aRBz0jj)
+ - 💣 [I should have kept my Yaris](http://9gag.com/gag/amomB4y)
+ - 😝 [My girlfriend...](http://9gag.com/gag/aByPgVx)
+ - 👉 [The man, who prepared a small puddle in the forest in Brazil, wondered and recorded the creatures that would benefit from this water](http://9gag.com/gag/an7v50n)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Transcarent, an app-based medical concierge service for businesses, completes its $621M acquisition of digital health company Accolade, taking it private &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250408/p21#a250408p21)
+ - [CalDigit’s new Thunderbolt 5 docks bring plenty of ports](https://www.theverge.com/news/645134/caldigit-thunderbolt-5-dock-ts5-plus-pricing-availability)
  - [Apple is not bringing pop star emojis to your iPhone](https://appleinsider.com/articles/25/04/08/apple-is-not-bringing-pop-star-emojis-to-your-iphone?utm_medium=rss)
  - [Qualtrics founder and Utah Jazz owner Ryan Smith launches a $1B fund aimed at connecting tech startups with sports and entertainment across 20 to 25 investments &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/250408/p20#a250408p20)
- - [Renoun Endurance 88 Skis Review: Switch Between Soft and Stiff](https://www.wired.com/review/renoun-endurance-88-skis/)
- - [How an unused nuclear power plant became home to a world-class acoustics lab](https://www.theverge.com/tech/644385/nuclear-power-plant-acoustics-lab)
- - [The best Android phones](https://www.theverge.com/23674658/best-android-phone)<!-- TECH:END -->
+ - [Renoun Endurance 88 Skis Review: Switch Between Soft and Stiff](https://www.wired.com/review/renoun-endurance-88-skis/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

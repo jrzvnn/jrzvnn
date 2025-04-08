@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: the White House orders federal agencies to name chief AI officers and expand the use of AI, rescinding Biden-era orders intended to place AI safeguards &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/250407/p36#a250407p36)
- - [Leaker wars escalate as Jon Prosser allegedly shows entire iOS 19 redesign](https://appleinsider.com/articles/25/04/07/leaker-wars-escalate-as-jon-prosser-allegedly-shows-entire-ios-19-redesign?utm_medium=rss)
- - [Publishers say traffic to their sites has plummeted since Google rolled out AI Overviews; sources: Google acknowledged the drop in a meeting with publishers &lpar;Bloomberg&rpar;](http://www.techmeme.com/250407/p35#a250407p35)
- - [Rescale, which develops engineering software to help simulate complex physical systems, raised a $115M Series D, bringing its total funding to over $260M &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250407/p34#a250407p34)
- - [A flood of panic-buying has started in anticipation of major iPhone price increases](https://appleinsider.com/articles/25/04/07/a-flood-of-panic-buying-has-started-in-anticipation-of-major-iphone-price-increases?utm_medium=rss)<!-- TECH:END -->
+ - [Meta got caught gaming AI benchmarks](https://www.theverge.com/meta/645012/meta-llama-4-maverick-benchmarks-gaming)
+ - [How LLMs, unlike previous transformative tech like the internet, disproportionately benefit regular people, with slower impact in corporations and governments &lpar;Andrej Karpathy/@karpathy&rpar;](http://www.techmeme.com/250407/p37#a250407p37)
+ - [Best Air Fryer Toaster Ovens for 2025](https://www.cnet.com/home/kitchen-and-household/best-countertop-oven-and-air-fryer/#ftag=CAD590a51e)
+ - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
+ - [Memo: the White House orders federal agencies to name chief AI officers and expand their use of AI, rescinding Biden-era orders intended to place AI safeguards &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/250407/p36#a250407p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

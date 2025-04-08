@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Turkish startup Sipay, which bills itself as &quot;Stripe for emerging markets&quot;, raised a $78M Series B at an $875M valuation to expand outside of Turkey &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/250408/p11#a250408p11)
  - [Analysts: the original Switch&#39;s huge success has given Nintendo a high mountain to climb, and the Switch 2 is a massive bet that fans want more of the same &lpar;Financial Times&rpar;](http://www.techmeme.com/250408/p10#a250408p10)
  - [Interviews with 40 sources describe concerns about Helsing, Europe&#39;s most valuable defense tech startup, including whether it can live up to its €5B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250408/p9#a250408p9)
  - [Daily Harvest Review: Good Meals for Single Vegans Who Don’t Mind Mush](https://www.wired.com/review/daily-harvest/)
- - [Ford Maverick Hybrid AWD 2025: prices, specs availability, review](https://www.wired.com/story/first-drive-ford-maverick-hybrid-awd-the-pickup-way-more-americans-should-be-driving/)
- - [Meta rolls out Teen Accounts to Facebook and Messenger, automatically enrolling young users and adding built-in protections, in the US, the UK, and others &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250408/p8#a250408p8)<!-- TECH:END -->
+ - [Ford Maverick Hybrid AWD 2025: prices, specs availability, review](https://www.wired.com/story/first-drive-ford-maverick-hybrid-awd-the-pickup-way-more-americans-should-be-driving/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump will hit China with 104 percent tariffs](https://www.theverge.com/news/645305/trump-104-percent-china-tariffs)
  - [The kid-friendly Fitbit Ace has returned to its best price to date](https://www.theverge.com/tech/645178/fitbit-ace-lte-fitness-tracker-apple-watch-se-2022-deal-sale)
  - [Hades II will launch first for consoles on Nintendo Switch and Switch 2](https://www.theverge.com/news/645303/hades-2-launch-nintendo-switch-consoles)
  - [CNET Survey: Tariff Fears Are Speeding Up Tech Purchases](https://www.cnet.com/personal-finance/banking/cnet-tariff-survey-2025/#ftag=CAD590a51e)
- - [Best Internet Providers in Corpus Christi, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-corpus-christi-tx/#ftag=CAD590a51e)
- - [Best Wireless Headphones You Can Buy in 2025](https://www.cnet.com/tech/mobile/best-wireless-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Corpus Christi, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-corpus-christi-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The U.S.S EnterThighs](http://9gag.com/gag/amom2pX)
- - 😝 [Daily chase](http://9gag.com/gag/a0e6dnO)
- - 💣 [Bob had that dog in him. What do you think she whispered in his ear?](http://9gag.com/gag/abAW6nX)
- - 😝 [China Will grow larger](http://9gag.com/gag/aqyQbBp)
- - 👉 [How flies actually eat your food](http://9gag.com/gag/aO8Ddey)<!-- MEMES:END -->
+ - 😝 [Life &amp; death](http://9gag.com/gag/aE0oBp9)
+ - 😝 [Dramatical drop of Jack](http://9gag.com/gag/axyb00W)
+ - 💣 [This movie is so underrated, from b4 disney got the woke virus, directed by Sam raimi too](http://9gag.com/gag/aryZ5LX)
+ - 😝 [Jean Claude Van Dam unholstering his leg in slow-mo was the stuff of the early 90\u2019s](http://9gag.com/gag/avyEOpO)
+ - 👉 [Next gen mutation](http://9gag.com/gag/axyb0qp)<!-- MEMES:END -->
 
 ---
 

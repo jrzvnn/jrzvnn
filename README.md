@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Emergency response drone maker Brinc announced $75M in funding led by Index Ventures, bringing total raised to $157.2M; Motorola will become Brinc&#39;s distributor &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250408/p23#a250408p23)
+ - [Elon Musk dies to tutorial boss in Path of Exile 2 livestream](https://www.theverge.com/news/645131/elon-musk-path-of-exile-2-livestream)
  - [Sources: a16z seeks to raise a $20B megafund for growth-stage investments in AI companies; global LPs see it as a way to invest in US firms without restrictions &lpar;Reuters&rpar;](http://www.techmeme.com/250408/p22#a250408p22)
  - [Apple Vision Pro gestures may spread to the iPhone, iPad, and Mac](https://appleinsider.com/articles/24/08/01/apple-vision-pro-gestures-may-spread-to-the-iphone-ipad-and-mac?utm_medium=rss)
- - [Dodgy report claims Apple Vision Pro 2 arriving by April 2026](https://appleinsider.com/articles/25/04/08/dodgy-report-claims-apple-vision-pro-2-arriving-by-april-2026?utm_medium=rss)
- - [The modifiers](https://www.theverge.com/creators/638649/small-business-ai-tiktok-gopro-upcycle-refurbish)
- - [Is there a ‘right’ way to use AI in art?](https://www.theverge.com/ai-artificial-intelligence/642599/is-there-a-right-way-to-use-ai-in-art)<!-- TECH:END -->
+ - [Dodgy report claims Apple Vision Pro 2 arriving by April 2026](https://appleinsider.com/articles/25/04/08/dodgy-report-claims-apple-vision-pro-2-arriving-by-april-2026?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

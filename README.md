@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is why we can&#39;t have nice things](http://9gag.com/gag/aZZQLMW)
- - 😝 [I thought this shit only happen in anime, wtf](http://9gag.com/gag/avyE8xn)
- - 💣 [A woman suggests Elon Musk go where he came from gets an unexpected surprise](http://9gag.com/gag/a6ZnVWq)
  - 😝 [It was an easy question](http://9gag.com/gag/a0e6QpX)
- - 👉 [I&#39;m no Sherlock Holmes, but hear me out...](http://9gag.com/gag/a1m5bmb)<!-- MEMES:END -->
+ - 😝 [I know the perfect gif after the end of this video](http://9gag.com/gag/aVvmqNw)
+ - 💣 [I thought this shit only happen in anime, wtf](http://9gag.com/gag/avyE8xn)
+ - 😝 [Anhydrous ammonia, coming to a neighborhood near you.](http://9gag.com/gag/aLnG0pV)
+ - 👉 [Borderline psychological warfare](http://9gag.com/gag/aRBz0jj)<!-- MEMES:END -->
 
 ---
 

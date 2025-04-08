@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo says the Switch 2&#39;s new Game-Key cards, which trigger a game download when loaded, are not tied to a user&#39;s account and can be borrowed or resold &lpar;Darryn Bonthuys/GameSpot&rpar;](http://www.techmeme.com/250408/p5#a250408p5)
- - [Samsung reports Q1 revenue up ~10% YoY to ~$53.4B and operating profit flat YoY at ~$4.5B, above ~$3.8B est., boosted by Galaxy S25 and legacy DRAM sales &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250408/p4#a250408p4)
- - [Apple plans another iPhone X style redesign for the iPhone 20](https://appleinsider.com/articles/25/04/06/apple-plans-another-iphone-x-style-redesign-for-the-iphone-20?utm_medium=rss)
- - [Today&#39;s NYT Strands Hints, Answers and Help for April 8, #401](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-8-401/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 8, #197](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-8-197/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google rolls out Gemini Live camera and screenshare features to the Pixel 9 series and Samsung Galaxy S25 devices, available in 45 languages for users over 18 &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/250408/p7#a250408p7)
+ - [Your Teen&#39;s Instagram Account Protections Are Coming to Facebook and Messenger](https://www.cnet.com/tech/services-and-software/your-teens-instagram-account-protections-are-coming-to-facebook-and-messenger/#ftag=CAD590a51e)
+ - [Best Dishwashers of 2025](https://www.cnet.com/home/kitchen-and-household/best-dishwasher/#ftag=CAD590a51e)
+ - [Sources: Beijing opposes fast-fashion giant Shein&#39;s plans to move some production out of China, as it seeks to stave off a manufacturing exodus after US tariffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250408/p6#a250408p6)
+ - [&#39;A Minecraft Movie&#39;: Is There a Post-Credits Scene?](https://www.cnet.com/tech/services-and-software/a-minecraft-movie-is-there-a-post-credit-scene/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

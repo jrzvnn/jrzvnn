@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Android phones](https://www.theverge.com/23674658/best-android-phone)
- - [Blackbird Labs, which makes a blockchain-based payment loyalty app for restaurants, raised $50M led by Spark Capital, taking its total funding to $85M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250408/p19#a250408p19)
- - [Torras brings spring vibes with pastel athleisure-inspired iPhone 16 Ostand Fitness cases](https://appleinsider.com/articles/25/04/08/torras-brings-spring-vibes-with-pastel-athleisure-inspired-iphone-16-ostand-fitness-cases?utm_medium=rss)
- - [Amazon launches Nova Sonic, an AI voice model to generate natural-sounding speech that it says is &quot;the most cost-efficient&quot; model on the market, via Bedrock &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250408/p18#a250408p18)
- - [Microsoft’s new Windows 11 Start menu is bigger and fixes a major pain point](https://www.theverge.com/news/645078/microsoft-windows-11-new-start-menu-bigger-redesign)<!-- TECH:END -->
+ - [Apple is not bringing pop star emojis to your iPhone](https://appleinsider.com/articles/25/04/08/apple-is-not-bringing-pop-star-emojis-to-your-iphone?utm_medium=rss)
+ - [Qualtrics founder and Utah Jazz owner Ryan Smith launches a $1B fund aimed at connecting tech startups with sports and entertainment across 20 to 25 investments &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/250408/p20#a250408p20)
+ - [Renoun Endurance 88 Skis Review: Switch Between Soft and Stiff](https://www.wired.com/review/renoun-endurance-88-skis/)
+ - [How an unused nuclear power plant became home to a world-class acoustics lab](https://www.theverge.com/tech/644385/nuclear-power-plant-acoustics-lab)
+ - [The best Android phones](https://www.theverge.com/23674658/best-android-phone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

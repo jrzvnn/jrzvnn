@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the state of AI in 2025 across training and inference costs, carbon footprint, investment activity, bills proposed in the US, and more &lpar;Eliza Strickland/IEEE Spectrum&rpar;](http://www.techmeme.com/250408/p2#a250408p2)
  - [Adidas Promo Codes &amp; Deals: 30% Off](https://www.wired.com/story/adidas-promo-code/)
  - [Best Internet Providers in Florida](https://www.cnet.com/home/internet/best-internet-providers-in-florida/#ftag=CAD590a51e)
- - [IBM unveils the z17 mainframe with a Telum II chip, built for 250+ AI use cases and can perform 450B daily inferences, 50% more than z16, available on June 8 &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250408/p1#a250408p1)
- - [Facebook, Instagram Fact-Checking Has Ended: What That Means for You](https://www.cnet.com/news/social-media/facebook-instagram-and-threads-will-stop-fact-checking-as-of-today/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, April 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-april-8/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [IBM unveils the z17 mainframe with a Telum II chip, built for 250+ AI use cases and able to process 450B daily inferences, 50% more than z16, available June 8 &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250408/p1#a250408p1)
+ - [Facebook, Instagram Fact-Checking Has Ended: What That Means for You](https://www.cnet.com/news/social-media/facebook-instagram-and-threads-will-stop-fact-checking-as-of-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

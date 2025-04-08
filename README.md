@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Michigan](https://www.cnet.com/home/internet/best-internet-providers-in-michigan/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for April 9, #668](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-9-668/#ftag=CAD590a51e)
- - [Zelle App Shuts Down. Here&#39;s How to Still Digitally Send Money for Free](https://www.cnet.com/personal-finance/banking/zelle-app-shuts-down-heres-how-to-still-digitally-send-money-for-free/#ftag=CAD590a51e)
- - [A look at Inkitt, a publishing platform that uses AI to create sequels and spinoffs of authors&#39; original work with minimal human input, raising quality concerns &lpar;Vauhini Vara/Bloomberg&rpar;](http://www.techmeme.com/250408/p3#a250408p3)
- - [A look at the state of AI in 2025 across training and inference costs, carbon footprint, investment activity, bills proposed in the US, and more &lpar;Eliza Strickland/IEEE Spectrum&rpar;](http://www.techmeme.com/250408/p2#a250408p2)<!-- TECH:END -->
+ - [Samsung reports Q1 revenue up ~10% YoY to ~$53.4B and operating profit flat YoY at ~$4.5B, above ~$3.8B est., boosted by Galaxy S25 and legacy DRAM sales &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250408/p4#a250408p4)
+ - [Apple plans another iPhone X style redesign for the iPhone 20](https://appleinsider.com/articles/25/04/06/apple-plans-another-iphone-x-style-redesign-for-the-iphone-20?utm_medium=rss)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 8, #401](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-8-401/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 8, #197](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-8-197/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for April 8, #667](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-8-667/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

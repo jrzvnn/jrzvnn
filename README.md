@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook, Instagram Fact-Checking Has Ended: What That Means for You](https://www.cnet.com/news/social-media/facebook-instagram-and-threads-will-stop-fact-checking-as-of-today/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, April 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-april-8/#ftag=CAD590a51e)
  - [Q&amp;A with UiPath CEO Daniel Dines on rejoining in May 2024 after stepping down, agentic AI being the future of automation, licensing AI tech, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250407/p39#a250407p39)
  - [LMArena says it&#39;s updating its leaderboard rules after Meta secured the #2 spot with a Llama 4 Maverick version it noted in fine print was not released publicly &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/250407/p38#a250407p38)
- - [Leaker wars escalate, Jon Prosser shows alleged iOS 19 redesign](https://appleinsider.com/articles/25/04/07/leaker-wars-escalate-as-jon-prosser-allegedly-shows-entire-ios-19-redesign?utm_medium=rss)<!-- TECH:END -->
+ - [Leaker wars escalate, Jon Prosser shows alleged iOS 19 redesign](https://appleinsider.com/articles/25/04/07/leaker-wars-escalate-as-jon-prosser-allegedly-shows-entire-ios-19-redesign?utm_medium=rss)
+ - [Meta got caught gaming AI benchmarks](https://www.theverge.com/meta/645012/meta-llama-4-maverick-benchmarks-gaming)
+ - [How LLMs, unlike previous transformative tech like the internet, disproportionately benefit regular people, with slower impact in corporations and governments &lpar;Andrej Karpathy/@karpathy&rpar;](http://www.techmeme.com/250407/p37#a250407p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

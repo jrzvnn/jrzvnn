@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hee hee](http://9gag.com/gag/aD2ZzKx)
+ - 😝 [The voice stays on in bed](http://9gag.com/gag/awyLXN4)
  - 😝 [I thought this shit only happen in anime, wtf](http://9gag.com/gag/avyE8xn)
- - 💣 [`You know how to do this, right?` -`Yeah man, I didn&#39;t spend 100$ on gta 6 for nothing`](http://9gag.com/gag/ayNWXLq)
- - 😝 [A woman suggests Elon Musk go where he came from gets an unexpected surprise](http://9gag.com/gag/a6ZnVWq)
- - 👉 [The voice stays on in bed](http://9gag.com/gag/awyLXN4)<!-- MEMES:END -->
+ - 💣 [A woman suggests Elon Musk go where he came from gets an unexpected surprise](http://9gag.com/gag/a6ZnVWq)
+ - 😝 [This is why we can&#39;t have nice things](http://9gag.com/gag/aZZQLMW)
+ - 👉 [It was an easy question](http://9gag.com/gag/a0e6QpX)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the rise of &quot;Frankenstein&quot; laptops in India, made by salvaging parts from multiple brands and sold to students, gig workers, and small businesses &lpar;The Verge&rpar;](http://www.techmeme.com/250408/p37#a250408p37)
  - [You can grab three months of Apple TV Plus for $2.99 a month right now](https://www.theverge.com/tech/645569/apple-tv-plus-streaming-deal-severance-silo-studio-sale)
  - [Instagram might finally release an iPad app](https://www.theverge.com/news/645625/instagram-ipad-app-tiktok)
  - [Arduboy creator says his tiny Game Boy won’t survive Trump’s tariffs](https://www.theverge.com/news/645555/arduboy-victim-trump-tariffs-us-china-kevin-bates)
- - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
- - [Amazon expands Haul, its Temu competitor, to offer name-brand items from Amazon&#39;s US inventory, as the US plans to end de minimis tariff exemptions on May 2 &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/250408/p36#a250408p36)<!-- TECH:END -->
+ - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

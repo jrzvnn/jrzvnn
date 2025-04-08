@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple shares clawing back, after $638 billion in value is destroyed](https://appleinsider.com/articles/25/04/08/apple-shares-clawing-back-after-638-billion-in-value-is-destroyed?utm_medium=rss)
- - [Google says all new Google TV devices in the US must have a remote with a &quot;Free TV&quot; or &quot;Live TV&quot; button to open its Freeplay library of FAST channels &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/250408/p17#a250408p17)
- - [Sources: Micron has told US customers that it plans to impose a surcharge on some products like SSDs from April 9 to account for President Trump&#39;s tariffs &lpar;Reuters&rpar;](http://www.techmeme.com/250408/p16#a250408p16)
- - [Internal memo: the DOJ has disbanded the National Cryptocurrency Enforcement Unit, established by Biden in 2021, as the DOJ is &quot;not a digital assets regulator&quot; &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250408/p15#a250408p15)
- - [Best Internet Providers in Las Vegas, Nevada](https://www.cnet.com/home/internet/best-internet-providers-in-las-vegas-nv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Torras brings spring vibes with pastel athleisure-inspired iPhone 16 Ostand Fitness cases](https://appleinsider.com/articles/25/04/08/torras-brings-spring-vibes-with-pastel-athleisure-inspired-iphone-16-ostand-fitness-cases?utm_medium=rss)
+ - [Amazon launches Nova Sonic, an AI voice model to generate natural-sounding speech that it says is &quot;the most cost-efficient&quot; model on the market, via Bedrock &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250408/p18#a250408p18)
+ - [Microsoft’s new Windows 11 Start menu is bigger and fixes a major pain point](https://www.theverge.com/news/645078/microsoft-windows-11-new-start-menu-bigger-redesign)
+ - [Asus ROG Flow Z13 &lpar;2025&rpar; Review: The Ultra-Portable Gaming PC](https://www.wired.com/review/asus-rog-flow-z13-2025/)
+ - [Motorola’s stylish stylus phone comes in blue or blue](https://www.theverge.com/gadgets/644773/motorola-moto-g-stylus-2025-specs-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It was an easy question](http://9gag.com/gag/a0e6QpX)
- - 😝 [Chess](http://9gag.com/gag/aQzA3Pd)
- - 💣 [This is why we can&#39;t have nice things](http://9gag.com/gag/aZZQLMW)
- - 😝 [A local tradtion where girls compete to capture a man, and ... ? guess what next](http://9gag.com/gag/abAWrVL)
- - 👉 [Peak acting &lpar; repost&rpar;](http://9gag.com/gag/adBnLzQ)<!-- MEMES:END -->
+ - 😝 [Time goes by](http://9gag.com/gag/aQzA14e)
+ - 😝 [Borderline psychological warfare](http://9gag.com/gag/aRBz0jj)
+ - 💣 [Chilling Time](http://9gag.com/gag/aqyQK0j)
+ - 😝 [PIRACY IT&#39;S A CRIME](http://9gag.com/gag/awyLoDB)
+ - 👉 [I should have kept my Yaris](http://9gag.com/gag/amomB4y)<!-- MEMES:END -->
 
 ---
 

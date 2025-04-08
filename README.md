@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Ooni Halo Pro Spiral Mixer Review: Dough as Far as the Eye Can See](https://www.wired.com/review/ooni-halo-pro-spiral-mixer/)
  - [Tech CEOs who spent big on Trump&#39;s inauguration are yet to see the investment pay off; Amazon, Apple, Google, Meta, and Microsoft are down 22% since January 20 &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/250408/p13#a250408p13)
  - [Toronto-based Tailscale, which helps set up corporate VPNs, raised $160M led by Accel, a source says at a $1.5B valuation, up from $1B in May 2022 &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250408/p12#a250408p12)
- - [Who Died in &#39;The White Lotus&#39; Season 3 Finale? Let&#39;s Break Down that Shootout Ending](https://www.cnet.com/tech/services-and-software/who-died-in-the-white-lotus-season-3-finale-lets-break-down-that-shootout-ending/#ftag=CAD590a51e)
- - [Turkish startup Sipay, which bills itself as &quot;Stripe for emerging markets&quot;, raised a $78M Series B at an $875M valuation to expand outside of Turkey &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/250408/p11#a250408p11)<!-- TECH:END -->
+ - [Turkish startup Sipay, which bills itself as &quot;Stripe for emerging markets&quot;, raised a $78M Series B at an $875M valuation to expand outside of Turkey &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/250408/p11#a250408p11)
+ - [Analysts: the original Switch&#39;s huge success has given Nintendo a high mountain to climb, and the Switch 2 is a massive bet that fans want more of the same &lpar;Financial Times&rpar;](http://www.techmeme.com/250408/p10#a250408p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

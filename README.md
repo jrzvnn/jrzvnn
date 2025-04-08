@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Razer pauses direct sales of the upcoming Blade 16 and other laptops in the US as new tariffs loom &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/250408/p30#a250408p30)
+ - [White House Press Secretary Karoline Leavitt says that President Trump believes the US has the resources and workforce to build iPhones in the US &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250408/p29#a250408p29)
+ - [Loss of Pulse alerts are rolling out on Pixel Watch 3](https://www.theverge.com/news/645356/google-pixel-watch-3-loss-of-pulse-wearables-smartwatch)
  - [Amazon plays catchup with new Nova AI models to generate voices and video](https://www.theverge.com/news/645357/amazon-nova-sonic-ai-conversational-voice-model-reel)
- - [Apple gains ground as PC market heads into rocky 2025](https://appleinsider.com/articles/25/04/08/apple-gains-ground-as-pc-market-heads-into-rocky-2025?utm_medium=rss)
- - [The next season of Love, Death, and Robots is coming to Netflix this May](https://www.theverge.com/news/645329/netflix-love-death-and-robots-season-4-trailer-release-date)
- - [Tariffs Will Make Electronics More Expensive. If You Need a New Gadget, ‘Buy It Now’](https://www.wired.com/story/tariffs-are-going-to-make-your-electronics-more-expensive/)
- - [Razer pauses direct laptop sales in the US as new tariffs loom](https://www.theverge.com/news/645276/razer-blade-gaming-laptops-sales-pause-us-tariffs)<!-- TECH:END -->
+ - [Apple gains ground as PC market heads into rocky 2025](https://appleinsider.com/articles/25/04/08/apple-gains-ground-as-pc-market-heads-into-rocky-2025?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

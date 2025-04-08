@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trump said that the United States and Italy have been allies since the time of Ancient Rome. The translator&#39;s reaction is priceless.](http://9gag.com/gag/a5QGbKg)
- - 😝 [It was an easy question](http://9gag.com/gag/a0e6QpX)
- - 💣 [I&#39;m no Sherlock Holmes, but hear me out...](http://9gag.com/gag/a1m5bmb)
+ - 😝 [A woman suggests Elon Musk go where he came from gets an unexpected surprise](http://9gag.com/gag/a6ZnVWq)
  - 😝 [Well this is just really sad](http://9gag.com/gag/aByPWEx)
- - 👉 [Yea...no thanks](http://9gag.com/gag/aNDVdGb)<!-- MEMES:END -->
+ - 💣 [Dire Wolf cry heard for the first time in 10,000 years after Jurassic Park-like \u201cresurrection\u201d](http://9gag.com/gag/aE0oxNe)
+ - 😝 [How flies actually eat your food](http://9gag.com/gag/aO8Ddey)
+ - 👉 [Equal rights and lefts](http://9gag.com/gag/a5QGMZO)<!-- MEMES:END -->
 
 ---
 

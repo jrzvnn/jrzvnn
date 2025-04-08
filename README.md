@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says Deep Research is now available on Gemini 2.5 Pro Experimental for Gemini Advanced subscribers &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250408/p35#a250408p35)
+ - [SmartThings gets Matter 1.4 support for water heaters, heat pumps, and more](https://www.theverge.com/news/645519/samsung-smartthings-matter-1-4-support)
  - [Aurascape, which offers enterprise security tools to mitigate risks from third-party AI apps, emerges from stealth with $50M from Menlo, Mayfield, and others &lpar;Ryan Naraine/SecurityWeek&rpar;](http://www.techmeme.com/250408/p34#a250408p34)
  - [Amazon is already changing its ultra-cheap Temu copycat](https://www.theverge.com/news/645465/amazon-haul-temu-ultra-cheap-tariffs-trump)
- - [Predator: Killer of Killers teases a most dangerous, multigenerational game in new trailer](https://www.theverge.com/news/645394/predator-killer-of-killers-trailer-reelase-date)
- - [Source: Instagram is working on an iPad app, and Adam Mosseri told staff to be willing to assume more &quot;risk&quot; to take advantage of a potential TikTok ban &lpar;The Information&rpar;](http://www.techmeme.com/250408/p33#a250408p33)
- - [Nintendo has already shipped &amp;#8216;some&amp;#8217; Switch 2 inventory to the US](https://www.theverge.com/news/645534/nintendo-switch-2-supply-demand-inventory-us-tariffs-doug-bowser)<!-- TECH:END -->
+ - [Predator: Killer of Killers teases a most dangerous, multigenerational game in new trailer](https://www.theverge.com/news/645394/predator-killer-of-killers-trailer-reelase-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

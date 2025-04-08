@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Adidas Promo Codes &amp; Deals: 30% Off](https://www.wired.com/story/adidas-promo-code/)
- - [Best Internet Providers in Florida](https://www.cnet.com/home/internet/best-internet-providers-in-florida/#ftag=CAD590a51e)
  - [IBM unveils the z17 mainframe with a Telum II chip, built for 250+ AI use cases and can perform 450B daily inferences, 50% more than z16, available on June 8 &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250408/p1#a250408p1)
  - [Facebook, Instagram Fact-Checking Has Ended: What That Means for You](https://www.cnet.com/news/social-media/facebook-instagram-and-threads-will-stop-fact-checking-as-of-today/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, April 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-april-8/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, April 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-april-8/#ftag=CAD590a51e)
+ - [Q&amp;A with UiPath CEO Daniel Dines on rejoining in May 2024 after stepping down, agentic AI being the future of automation, licensing AI tech, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250407/p39#a250407p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

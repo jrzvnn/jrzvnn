@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s a prank bro](http://9gag.com/gag/aryZgvB)
- - 😝 [How flies actually eat your food](http://9gag.com/gag/aO8Ddey)
- - 💣 [LET ME TELL YOU SOMETHING](http://9gag.com/gag/aKGWV4g)
- - 😝 [I&#39;m no Sherlock Holmes, but hear me out...](http://9gag.com/gag/a1m5bmb)
- - 👉 [Yea...no thanks](http://9gag.com/gag/aNDVdGb)<!-- MEMES:END -->
+ - 😝 [Sushi](http://9gag.com/gag/a2vyZjO)
+ - 😝 [This movie is so underrated, from b4 disney got the woke virus, directed by Sam raimi too](http://9gag.com/gag/aryZ5LX)
+ - 💣 [Great job](http://9gag.com/gag/aQzARQw)
+ - 😝 [The Return of Vampurr](http://9gag.com/gag/axybz9Y)
+ - 👉 [Next gen mutation](http://9gag.com/gag/axyb0qp)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube says Nope! to age-gating Balatro videos](https://www.theverge.com/news/645257/youtube-balatro-univeristy-videos-age-gated-localthunk)
+ - [Tesla Supercharger damaged in possible explosion in Washington](https://www.theverge.com/news/645378/tesla-supercharger-damaged-explosion-washington)
+ - [Trump’s DOJ will no longer prosecute cryptocurrency fraud](https://www.theverge.com/policy/645399/trump-doj-cryptocurrency-fraud-prosecutions-memo)
  - [Razer pauses direct sales of the upcoming Blade 16 and other laptops in the US as new tariffs loom &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/250408/p30#a250408p30)
- - [White House Press Secretary Karoline Leavitt says that President Trump believes the US has the resources and workforce to build iPhones in the US &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250408/p29#a250408p29)
- - [Loss of Pulse alerts are rolling out on Pixel Watch 3](https://www.theverge.com/news/645356/google-pixel-watch-3-loss-of-pulse-wearables-smartwatch)
- - [Amazon plays catchup with new Nova AI models to generate voices and video](https://www.theverge.com/news/645357/amazon-nova-sonic-ai-conversational-voice-model-reel)
- - [Apple gains ground as PC market heads into rocky 2025](https://appleinsider.com/articles/25/04/08/apple-gains-ground-as-pc-market-heads-into-rocky-2025?utm_medium=rss)<!-- TECH:END -->
+ - [White House Press Secretary Karoline Leavitt says that President Trump believes the US has the resources and workforce to build iPhones in the US &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250408/p29#a250408p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LMArena says it&#39;s updating its leaderboard rules after Meta secured the #2 spot with a Llama 4 Maverick version it noted in fine print was not released publicly &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/250407/p38#a250407p38)
  - [Leaker wars escalate, Jon Prosser shows alleged iOS 19 redesign](https://appleinsider.com/articles/25/04/07/leaker-wars-escalate-as-jon-prosser-allegedly-shows-entire-ios-19-redesign?utm_medium=rss)
  - [Meta got caught gaming AI benchmarks](https://www.theverge.com/meta/645012/meta-llama-4-maverick-benchmarks-gaming)
  - [How LLMs, unlike previous transformative tech like the internet, disproportionately benefit regular people, with slower impact in corporations and governments &lpar;Andrej Karpathy/@karpathy&rpar;](http://www.techmeme.com/250407/p37#a250407p37)
- - [Best Internet Providers in Baltimore, Maryland](https://www.cnet.com/home/internet/best-internet-providers-in-baltimore-md/#ftag=CAD590a51e)
- - [Best Air Fryer Toaster Ovens for 2025](https://www.cnet.com/home/kitchen-and-household/best-countertop-oven-and-air-fryer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Baltimore, Maryland](https://www.cnet.com/home/internet/best-internet-providers-in-baltimore-md/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

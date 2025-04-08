@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Android phones](https://www.theverge.com/23674658/best-android-phone)
+ - [Blackbird Labs, which makes a blockchain-based payment loyalty app for restaurants, raised $50M led by Spark Capital, taking its total funding to $85M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250408/p19#a250408p19)
  - [Torras brings spring vibes with pastel athleisure-inspired iPhone 16 Ostand Fitness cases](https://appleinsider.com/articles/25/04/08/torras-brings-spring-vibes-with-pastel-athleisure-inspired-iphone-16-ostand-fitness-cases?utm_medium=rss)
  - [Amazon launches Nova Sonic, an AI voice model to generate natural-sounding speech that it says is &quot;the most cost-efficient&quot; model on the market, via Bedrock &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250408/p18#a250408p18)
- - [Microsoft’s new Windows 11 Start menu is bigger and fixes a major pain point](https://www.theverge.com/news/645078/microsoft-windows-11-new-start-menu-bigger-redesign)
- - [Asus ROG Flow Z13 &lpar;2025&rpar; Review: The Ultra-Portable Gaming PC](https://www.wired.com/review/asus-rog-flow-z13-2025/)
- - [Motorola’s stylish stylus phone comes in blue or blue](https://www.theverge.com/gadgets/644773/motorola-moto-g-stylus-2025-specs-price)<!-- TECH:END -->
+ - [Microsoft’s new Windows 11 Start menu is bigger and fixes a major pain point](https://www.theverge.com/news/645078/microsoft-windows-11-new-start-menu-bigger-redesign)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

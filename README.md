@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Speaking too early, speaking too much.](http://9gag.com/gag/aYQP7AV)
- - 😝 [The Stupidity of Football...](http://9gag.com/gag/aZZQy6X)
- - 💣 [Legal activities](http://9gag.com/gag/aXP4oQV)
- - 😝 [Aladin\u2019s lamp is real after all](http://9gag.com/gag/aAy4bBp)
- - 👉 [Im just gonna leave it here](http://9gag.com/gag/a4P5ox6)<!-- MEMES:END -->
+ - 😝 [Genius man](http://9gag.com/gag/a7oVEEL)
+ - 😝 [The phone thief exercise program](http://9gag.com/gag/a7oVWR2)
+ - 💣 [Beer girl&#39;s pit crew reloads beer tank during a Japanese baseball match](http://9gag.com/gag/aGyMp1w)
+ - 😝 [Donald Tariff](http://9gag.com/gag/aMVnEqx)
+ - 👉 [Stuff saved over the years against bots 15#](http://9gag.com/gag/awyLZ01)<!-- MEMES:END -->
 
 ---
 

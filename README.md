@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Blocking New Yorkers trying to go home at 6pm on a Monday evening by trapping them in Grand Central Station will NOT win you any fans](http://9gag.com/gag/apRPm6p)
- - 😝 [Streamer says this to 40,000 viewers, and now gets mass flagged on Twitch for promoting `Genocide`](http://9gag.com/gag/aE0o2KN)
- - 💣 [The Chinese are trolling the US about sweatshop work](http://9gag.com/gag/aoy4e4e)
- - 😝 [Mystery](http://9gag.com/gag/aGyMZX5)
+ - 😝 [The Chinese are trolling the US about sweatshop work](http://9gag.com/gag/aoy4e4e)
+ - 😝 [Murican &#39;food&#39;](http://9gag.com/gag/aPA8RZQ)
+ - 💣 [Mystery](http://9gag.com/gag/aGyMZX5)
+ - 😝 [Chess](http://9gag.com/gag/aQzA3Pd)
  - 👉 [She knew what was hidden in that leaf](http://9gag.com/gag/a2vyovp)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Someone tell me what this is...](http://9gag.com/gag/adBngQD)
- - 😝 [Aaaaaand... there you go. Art of the Deal.](http://9gag.com/gag/aMVnKvV)
- - 💣 [The Chinese are trolling the US about sweatshop work](http://9gag.com/gag/aoy4e4e)
  - 😝 [Alcohol makes you do things](http://9gag.com/gag/aGyMdQ0)
- - 👉 [Aladin\u2019s lamp is real after all](http://9gag.com/gag/aAy4bBp)<!-- MEMES:END -->
+ - 😝 [Aaaaaand... there you go. Art of the Deal.](http://9gag.com/gag/aMVnKvV)
+ - 💣 [She wanted to say `I&#39;m a real woman` so bad..](http://9gag.com/gag/aW4vGxA)
+ - 😝 [Someone tell me what this is...](http://9gag.com/gag/adBngQD)
+ - 👉 [The Stupidity of Football...](http://9gag.com/gag/aZZQy6X)<!-- MEMES:END -->
 
 ---
 

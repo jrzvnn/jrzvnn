@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Call transcript: Luxshare Chair Wang Laichun says the iPhone and AirPods maker is in talks with customers to move production from China, including to the US &lpar;Reuters&rpar;](http://www.techmeme.com/250409/p16#a250409p16)
+ - [Protesting Tips: What to Bring, How to Act, How to Stay Safe](https://www.wired.com/story/how-to-protest-safely-gear-tips/)
+ - [The UK, the US, and other governments publish advisories on China-linked spyware families BadBazaar and Moonshine and highlight legitimate-looking Android apps &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250409/p15#a250409p15)
  - [Universal is building a UK theme park](https://www.theverge.com/news/645705/universal-studios-uk-theme-park-resort-plans)
- - [Germany says Google will change how it offers its Maps and Automotive Services to car makers in Europe, including letting them choose rival infotainment options &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/250409/p14#a250409p14)
- - [White House document: the US will tax imports of items priced up to $800 at the rate of 90% of their value, up from a planned 30%, targeting Chinese retailers &lpar;Karthikeyan Sundaram/Bloomberg&rpar;](http://www.techmeme.com/250409/p13#a250409p13)
- - [The EU unveils its AI Continent Action Plan, seeking to compete with the US and China, and says it wants to build &quot;AI gigafactories&quot; with ~100K AI chips &lpar;Mauro Orru/Wall Street Journal&rpar;](http://www.techmeme.com/250409/p12#a250409p12)
- - [Google rolls out Loss of Pulse Detection to the Pixel Watch 3 in the US after getting FDA clearance in February 2025; the feature rolled out in Europe in 2024 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250409/p11#a250409p11)<!-- TECH:END -->
+ - [Germany says Google will change how it offers its Maps and Automotive Services to car makers in Europe, including letting them choose rival infotainment options &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/250409/p14#a250409p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

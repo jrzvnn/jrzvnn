@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Germany says Google will change how it offers its Maps and Automotive Services to car makers in Europe, including letting them choose rival infotainment options &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/250409/p14#a250409p14)
+ - [White House document: the US will tax imports of items priced up to $800 at the rate of 90% of their value, up from a planned 30%, targeting Chinese retailers &lpar;Karthikeyan Sundaram/Bloomberg&rpar;](http://www.techmeme.com/250409/p13#a250409p13)
  - [The EU unveils its AI Continent Action Plan, seeking to compete with the US and China, and says it wants to build &quot;AI gigafactories&quot; with ~100K AI chips &lpar;Mauro Orru/Wall Street Journal&rpar;](http://www.techmeme.com/250409/p12#a250409p12)
  - [Google rolls out Loss of Pulse Detection to the Pixel Watch 3 in the US after getting FDA clearance in February 2025; the feature rolled out in Europe in 2024 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250409/p11#a250409p11)
- - [Statewatch and FOI documents: the UK government is developing a &quot;murder prediction&quot; tool to use personal data of those known to police to find likely killers &lpar;Vikram Dodd/The Guardian&rpar;](http://www.techmeme.com/250409/p10#a250409p10)
- - [Ofcom opens an investigation into a pro-suicide forum, its first using the Online Safety Act; the BBC linked the unnamed forum to 50+ deaths in the UK &lpar;BBC&rpar;](http://www.techmeme.com/250409/p9#a250409p9)
- - [Framework delays Laptop 12 orders in the US over tariffs](https://www.theverge.com/news/645694/framework-laptop-12-preorders-delayed-us)<!-- TECH:END -->
+ - [8 of the Best Cult Comedies Tubi Has to Offer](https://www.cnet.com/tech/services-and-software/8-of-the-best-cult-comedies-tubi-has-to-offer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

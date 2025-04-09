@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X&#39;s merger with xAI caps its yearslong turnaround push; sources say X&#39;s revenue fell to $2.6B in 2024, down from $3B in 2023 and about $4.6B in 2022 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250409/p6#a250409p6)
+ - [Docs: Canadian telecom Bell is lobbying to block Starlink subsidies, as Canada-US tensions and Musk&#39;s Trump ties put his satellite business under more scrutiny &lpar;Ilya Gridneff/Financial Times&rpar;](http://www.techmeme.com/250409/p5#a250409p5)
  - [The 12 Best Cooling Pillows You Can Buy in 2025](https://www.cnet.com/health/sleep/best-cooling-pillows/#ftag=CAD590a51e)
- - [Trump&#39;s 104% tariff against imports from China goes live](https://appleinsider.com/articles/25/04/09/trumps-104-tariff-against-imports-from-china-goes-live?utm_medium=rss)
- - [Hydrow Discount Code: Save Up to $150 in April | WIRED](https://www.wired.com/story/hydrow-discount-code/)
- - [Top TurboTax Discount Codes &amp; Coupons April 2025](https://www.wired.com/story/turbotax-coupon/)
- - [How to use the new text effects in Messages on iPhone with iOS 18](https://appleinsider.com/inside/ios-18/tips/how-to-use-the-new-text-effects-in-messages-on-iphone-with-ios-18?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft is backing away from its October 2024 plan to invest $1B in three Ohio data centers, the latest in a string of its data center project cancellations &lpar;Georgia Butler/DatacenterDynamics&rpar;](http://www.techmeme.com/250409/p4#a250409p4)
+ - [Sources: to offset tariffs, Apple, Dell, and others pressed suppliers to fly as many premium devices as possible to the US, especially those priced above $3,000 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250409/p3#a250409p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

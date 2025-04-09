@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PE firm EQT sells a €3B stake in Swedish enterprise software company IFS to investors including the Abu Dhabi Investment Authority, valuing IFS at €15B &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/250409/p28#a250409p28)
+ - [At an NRCC event, President Trump says he told TSMC it would pay a tax of up to 100% if it didn&#39;t build its US plants; in March, TSMC said it would invest $100B &lpar;Reuters&rpar;](http://www.techmeme.com/250409/p27#a250409p27)
  - [How Google used new AI techniques to enhance 90%+ of The Wizard of Oz, released in 1939, to show on the Las Vegas Sphere&#39;s giant screen from August 28, 2025 &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250409/p26#a250409p26)
  - [Reddit integrates Gemini into its conversational AI search tool Reddit Answers, in beta since December 2024, to improve search relevance and give quick answers &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250409/p25#a250409p25)
- - [Google launches Workspace Flows, an AI tool to automate multi-step processes, in alpha, and new Docs, Sheets, Meet, Chat, and Vids features, like audio in Docs &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250409/p24#a250409p24)
- - [Apple&#39;s airlifting imports to beat tariff deadline included Macs](https://appleinsider.com/articles/25/04/09/apples-airlifting-imports-to-beat-tariff-deadline-included-macs?utm_medium=rss)
- - [Google Cloud Next: Google unveils Gemini 2.5 Flash, a reasoning model ideal for &quot;high-volume, cost-sensitive&quot; and &quot;real-time&quot; apps, launching soon in Vertex AI &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250409/p23#a250409p23)<!-- TECH:END -->
+ - [Google launches Workspace Flows, an AI tool to automate multi-step processes, in alpha, and new Docs, Sheets, Meet, Chat, and Vids features, like audio in Docs &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250409/p24#a250409p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

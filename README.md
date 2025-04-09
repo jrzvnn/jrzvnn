@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe outlines agentic AI features coming to Photoshop, Acrobat, Premiere Pro, and more, including one-click context-aware edits and agents to analyze documents &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/250409/p38#a250409p38)
- - [Sources: after Jensen Huang went to Mar-a-Lago last week, the White House reversed course on Nvidia H20 export restrictions to China, in the works for months &lpar;NPR&rpar;](http://www.techmeme.com/250409/p37#a250409p37)
- - [Global shipments of personal computers rose 9.4% YoY in Q1, driven by OEMs ramping up US deliveries in anticipation of the first round of Trump&#39;s tariffs &lpar;Canalys&rpar;](http://www.techmeme.com/250409/p36#a250409p36)
- - [The Last of Us renewed for season 3 just ahead of HBO return](https://www.theverge.com/news/645923/the-last-of-us-renewed-for-season-3-just-ahead-of-hbo-return)
- - [Samsung is finally releasing Ballie](https://www.theverge.com/news/645853/samsung-is-finally-releasing-ballie)<!-- TECH:END -->
+ - [You can now give Google&amp;#8217;s AI video model camera directions](https://www.theverge.com/news/645906/you-can-now-give-googles-ai-video-model-camera-directions)
+ - [Why I love Twinkly Strings and Twinkly Flex](https://www.theverge.com/tech/644693/why-i-love-twinkly-strings-and-twinkly-flex)
+ - [Adobe brings 1,500 new fonts to Creative Cloud](https://www.theverge.com/news/645978/adobe-brings-1500-new-fonts-to-creative-cloud)
+ - [YouTube is supporting the ‘No Fakes Act’ targeting unauthorized AI replicas](https://www.theverge.com/news/645942/youtube-is-supporting-the-no-fakes-act-targeting-unauthorized-ai-replicas)
+ - [iPhone Fold in 2026 is probable, but iPad Fold is doubtful](https://appleinsider.com/articles/25/04/09/iphone-fold-in-2026-is-probable-but-ipad-fold-is-doubtful?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

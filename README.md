@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Statewatch and FOI documents: the UK government is developing a &quot;murder prediction&quot; tool to use personal data of those known to police to find likely killers &lpar;Vikram Dodd/The Guardian&rpar;](http://www.techmeme.com/250409/p10#a250409p10)
  - [Ofcom opens an investigation into a pro-suicide forum, its first using the Online Safety Act; the BBC linked the unnamed forum to 50+ deaths in the UK &lpar;BBC&rpar;](http://www.techmeme.com/250409/p9#a250409p9)
  - [Framework delays Laptop 12 orders in the US over tariffs](https://www.theverge.com/news/645694/framework-laptop-12-preorders-delayed-us)
- - [How Unitree and other Chinese humanoid startups are competing with those in the US, fueled by cheaper components, rapid innovation, and state-led financing &lpar;Financial Times&rpar;](http://www.techmeme.com/250409/p8#a250409p8)
- - [Microsoft starts testing Copilot Vision update that can &amp;#8216;see&amp;#8217; your screen and apps](https://www.theverge.com/news/645666/microsoft-copilot-vision-windows-beta-testing)
- - [PitchBook: despite a friendlier regulatory environment, crypto VC investments in the US fell 22% QoQ to ~$1.3B in Q1 2025, but rose slightly YoY from $1.1B &lpar;Teresa Xie/Bloomberg&rpar;](http://www.techmeme.com/250409/p7#a250409p7)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 9, #198](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-9-198/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 9, #402](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-9-402/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

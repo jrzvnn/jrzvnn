@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Time goes by](http://9gag.com/gag/aQzA14e)
- - 😝 [Borderline psychological warfare](http://9gag.com/gag/aRBz0jj)
- - 💣 [I should have kept my Yaris](http://9gag.com/gag/amomB4y)
- - 😝 [My girlfriend...](http://9gag.com/gag/aByPgVx)
- - 👉 [The man, who prepared a small puddle in the forest in Brazil, wondered and recorded the creatures that would benefit from this water](http://9gag.com/gag/an7v50n)<!-- MEMES:END -->
+ - 😝 [Blocking New Yorkers trying to go home at 6pm on a Monday evening by trapping them in Grand Central Station will NOT win you any fans](http://9gag.com/gag/apRPm6p)
+ - 😝 [Streamer says this to 40,000 viewers, and now gets mass flagged on Twitch for promoting `Genocide`](http://9gag.com/gag/aE0o2KN)
+ - 💣 [The Chinese are trolling the US about sweatshop work](http://9gag.com/gag/aoy4e4e)
+ - 😝 [Mystery](http://9gag.com/gag/aGyMZX5)
+ - 👉 [She knew what was hidden in that leaf](http://9gag.com/gag/a2vyovp)<!-- MEMES:END -->
 
 ---
 

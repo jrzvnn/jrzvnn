@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple stock faces another battering as China &amp; EU fight back against U.S. tariffs](https://appleinsider.com/articles/25/04/09/apple-faces-more-share-price-battering-as-china-fights-back-on-us-tariffs?utm_medium=rss)
  - [PE firm EQT sells a €3B stake in Swedish enterprise software company IFS to investors including the Abu Dhabi Investment Authority, valuing IFS at €15B &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/250409/p28#a250409p28)
- - [At an NRCC event, President Trump says he told TSMC it would pay a tax of up to 100% if it didn&#39;t build its US plants; in March, TSMC said it would invest $100B &lpar;Reuters&rpar;](http://www.techmeme.com/250409/p27#a250409p27)
- - [How Google used new AI techniques to enhance 90%+ of The Wizard of Oz, released in 1939, to show on the Las Vegas Sphere&#39;s giant screen from August 28, 2025 &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250409/p26#a250409p26)
- - [Reddit integrates Gemini into its conversational AI search tool Reddit Answers, in beta since December 2024, to improve search relevance and give quick answers &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250409/p25#a250409p25)
- - [Google launches Workspace Flows, an AI tool to automate multi-step processes, in alpha, and new Docs, Sheets, Meet, Chat, and Vids features, like audio in Docs &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250409/p24#a250409p24)<!-- TECH:END -->
+ - [This New Google Maps AI Tool Could Fix Congestion and Improve Roads Near You](https://www.cnet.com/tech/services-and-software/this-new-google-maps-ai-tool-could-fix-congestion-and-improve-roads-near-you/#ftag=CAD590a51e)
+ - [Best Internet Providers in Tampa, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-tampa-fl/#ftag=CAD590a51e)
+ - [At an RNCC event, President Trump says he told TSMC it would pay a tax of up to 100% if it didn&#39;t build US plants; in March, TSMC said it would invest $100B &lpar;Reuters&rpar;](http://www.techmeme.com/250409/p27#a250409p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

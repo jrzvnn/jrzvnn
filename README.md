@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This M4 iPad Pro is $200 off at Amazon, but supply is limited](https://appleinsider.com/articles/25/04/09/this-m4-ipad-pro-is-200-off-at-amazon-but-supply-is-limited?utm_medium=rss)
+ - [Google used AI to enhance The Wizard of Oz for the Las Vegas Sphere’s giant screen](https://www.theverge.com/news/645815/google-used-ai-to-enhance-the-wizard-of-oz-for-the-las-vegas-spheres-giant-screen)
+ - [Sources and a document: Amazon has canceled orders for multiple products made in China and other Asian countries after Trump&#39;s April 2 tariff announcement &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/250409/p32#a250409p32)
  - [Q&amp;A with Google Cloud CEO Thomas Kurian on Google Cloud Next, AI, DeepMind, AWS, hosting 200 models, training and inference costs, model training, and more &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/250409/p31#a250409p31)
- - [Trump triples tariffs on low value packages from China and Hong Kong](https://www.theverge.com/policy/645771/trump-triples-tariffs-on-low-value-packages-from-china-and-hong-kong)
- - [Sources: Amazon is considering a $15B warehouse expansion plan for nearly 80 new US logistics facilities, reversing its post-pandemic construction slowdown &lpar;Bloomberg&rpar;](http://www.techmeme.com/250409/p30#a250409p30)
- - [Best Wireless Headphones &lpar;2025&rpar;: Tested Over Many Hours](https://www.wired.com/gallery/best-wireless-headphones/)
- - [Xbox’s next major games showcase streams in June](https://www.theverge.com/news/645779/xboxs-next-major-games-showcase-streams-in-june)<!-- TECH:END -->
+ - [Trump triples tariffs on low value packages from China and Hong Kong](https://www.theverge.com/policy/645771/trump-triples-tariffs-on-low-value-packages-from-china-and-hong-kong)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

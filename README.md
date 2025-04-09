@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [My girlfriend...](http://9gag.com/gag/aByPgVx)
+ - 😝 [Real estate, huh?](http://9gag.com/gag/aQzAdwq)
+ - 💣 [The phone thief exercise program](http://9gag.com/gag/a7oVWR2)
  - 😝 [Streamer says this to 40,000 viewers, and now gets mass flagged on Twitch for promoting `Genocide`](http://9gag.com/gag/aE0o2KN)
- - 😝 [The phone thief exercise program](http://9gag.com/gag/a7oVWR2)
- - 💣 [Smurf](http://9gag.com/gag/a0e6QVZ)
- - 😝 [Chess](http://9gag.com/gag/aQzA3Pd)
- - 👉 [She knew what was hidden in that leaf](http://9gag.com/gag/a2vyovp)<!-- MEMES:END -->
+ - 👉 [The man, who prepared a small puddle in the forest in Brazil, wondered and recorded the creatures that would benefit from this water](http://9gag.com/gag/an7v50n)<!-- MEMES:END -->
 
 ---
 

@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Summer H. Howell cast in the lead role of Amazon&#39;s CARRIE &lpar;Stephen King&rpar; adaptation](http://9gag.com/gag/aW4vjZA)
- - 😝 [Vitaly, an American Streamer went to Phillipines to annoy locals and be a nuisance to civilians. Kept making faces and gestures during a press conference. Now faces up to 24 years in prison in Phillipines.](http://9gag.com/gag/aE0oPOx)
- - 💣 [Anhydrous ammonia, coming to a neighborhood near you.](http://9gag.com/gag/aLnG0pV)
- - 😝 [Streamer says this to 40,000 viewers, and now gets mass flagged on Twitch for promoting `Genocide`](http://9gag.com/gag/aE0o2KN)
+ - 😝 [Saleswoman explaining the special feature of the car](http://9gag.com/gag/aVvmYVM)
+ - 💣 [Vitaly, an American Streamer went to Phillipines to annoy locals and be a nuisance to civilians. Kept making faces and gestures during a press conference. Now faces up to 24 years in prison in Phillipines.](http://9gag.com/gag/aE0oPOx)
+ - 😝 [War is coming boys!](http://9gag.com/gag/aRBz0bG)
  - 👉 [The Stupidity of Football...](http://9gag.com/gag/aZZQy6X)<!-- MEMES:END -->
 
 ---

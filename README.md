@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Donald Trump Wants to Save the Coal Industry. He&#39;s Too Late](https://www.wired.com/story/donald-trump-wants-to-save-the-coal-industry-hes-too-late/)
+ - [Trump&#39;s belief that iPhone manufacturing could quickly move to the US is wrong](https://appleinsider.com/articles/25/04/08/trumps-belief-that-iphone-manufacturing-could-quickly-move-to-the-us-is-wrong?utm_medium=rss)
  - [Your next iPhone might cost more but Apple may bet you won&#39;t notice much](https://appleinsider.com/articles/25/04/09/your-next-iphone-might-cost-more-but-apple-may-bet-you-wont-notice-much?utm_medium=rss)
  - [Source: Nintendo has decided to postpone the Switch 2&#39;s release in China, an apparent response to the country&#39;s tight controls targeting the gaming industry &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250409/p35#a250409p35)
- - [Don&#39;t read too much into reports about Luxshare moving to the US](https://appleinsider.com/articles/25/04/09/dont-read-too-much-into-reports-about-luxshare-moving-to-the-us?utm_medium=rss)
- - [Autonomous delivery startup Nuro raised a $106M Series E at a $6B valuation, down from $8.6B in 2021 after its $600M Series D, taking its total funding to $2.2B &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250409/p34#a250409p34)
- - [These Apps Help You Visualize What&#39;s Hogging Your Hard Drive](https://www.wired.com/story/these-apps-help-you-visualize-whats-hogging-your-hard-drive/)<!-- TECH:END -->
+ - [Don&#39;t read too much into reports about Luxshare moving to the US](https://appleinsider.com/articles/25/04/09/dont-read-too-much-into-reports-about-luxshare-moving-to-the-us?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

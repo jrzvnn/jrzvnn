@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leaked iPhone 17 Pro case again shows enlarged camera bump](https://appleinsider.com/articles/25/04/09/leaked-iphone-17-pro-case-again-shows-enlarged-camera-bump?utm_medium=rss)
+ - [US ITC data: in 2024, China accounted for 86% of US game console imports, 79% of PC monitor imports, 73% of smartphone imports, and 66% of laptop imports &lpar;Bloomberg&rpar;](http://www.techmeme.com/250409/p17#a250409p17)
  - [Call transcript: Luxshare Chair Wang Laichun says the iPhone and AirPods maker is in talks with customers to move production from China, including to the US &lpar;Reuters&rpar;](http://www.techmeme.com/250409/p16#a250409p16)
  - [Protesting Tips: What to Bring, How to Act, How to Stay Safe](https://www.wired.com/story/how-to-protest-safely-gear-tips/)
- - [The UK, the US, and other governments publish advisories on China-linked spyware families BadBazaar and Moonshine and highlight legitimate-looking Android apps &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250409/p15#a250409p15)
- - [Universal is building a UK theme park](https://www.theverge.com/news/645705/universal-studios-uk-theme-park-resort-plans)
- - [Germany says Google will change how it offers its Maps and Automotive Services to car makers in Europe, including letting them choose rival infotainment options &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/250409/p14#a250409p14)<!-- TECH:END -->
+ - [The UK, the US, and other governments publish advisories on China-linked spyware families BadBazaar and Moonshine and highlight legitimate-looking Android apps &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250409/p15#a250409p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ripple agrees to acquire prime brokerage Hidden Road for $1.25B; Hidden Road plans to use Ripple&#39;s RLUSD stablecoin as collateral across its platform &lpar;Will Canny/CoinDesk&rpar;](http://www.techmeme.com/250409/p1#a250409p1)
  - [How to use the new text effects in Messages on iPhone with iOS 18](https://appleinsider.com/inside/ios-18/tips/how-to-use-the-new-text-effects-in-messages-on-iphone-with-ios-18?utm_medium=rss)
  - [Today&#39;s NYT Mini Crossword Answers for Wednesday, April 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-april-9/#ftag=CAD590a51e)
  - [London-based NexGen Cloud, which offers a GPU-as-a-service cloud for clients that need flexible access to train AI, raised a $45M Series A at a $354M valuation &lpar;David Prosser/Forbes&rpar;](http://www.techmeme.com/250408/p38#a250408p38)
- - [Best Comforters for 2025: Refresh Your Bedding for Spring With These 8 Options](https://www.cnet.com/health/sleep/best-comforters/#ftag=CAD590a51e)
- - [A look at the rise of &quot;Frankenstein&quot; laptops in India, made by salvaging parts from multiple brands and sold to students, gig workers, and small businesses &lpar;The Verge&rpar;](http://www.techmeme.com/250408/p37#a250408p37)<!-- TECH:END -->
+ - [Best Comforters for 2025: Refresh Your Bedding for Spring With These 8 Options](https://www.cnet.com/health/sleep/best-comforters/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

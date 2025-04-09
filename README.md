@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Italy says it is withdrawing its support for STMicro CEO Jean-Marc Chery and his management team as chip demand slumps; Italy and France own nearly 28% &lpar;Daniele Lepido/Bloomberg&rpar;](http://www.techmeme.com/250409/p19#a250409p19)
- - [China retaliates with additional 50 percent tariff on US goods, matching Trump’s](https://www.theverge.com/news/645730/china-tariffs-us-retaliatory-84-percent)
- - [UK-based high-end fashion marketplace Lyst agrees to a $154M acquisition by Japan-based fashion and e-commerce company Zozo; Lyst was valued at $700M+ in 2021 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250409/p18#a250409p18)
- - [Leaked iPhone 17 Pro case again shows enlarged camera bump](https://appleinsider.com/articles/25/04/09/leaked-iphone-17-pro-case-again-shows-enlarged-camera-bump?utm_medium=rss)
- - [US ITC data: in 2024, China accounted for 86% of US game console imports, 79% of PC monitor imports, 73% of smartphone imports, and 66% of laptop imports &lpar;Bloomberg&rpar;](http://www.techmeme.com/250409/p17#a250409p17)<!-- TECH:END -->
+ - [Apple&#39;s airlifting imports to beat tariff deadline included Macs](https://appleinsider.com/articles/25/04/09/apples-airlifting-imports-to-beat-tariff-deadline-included-macs?utm_medium=rss)
+ - [Google Cloud Next: Google unveils Gemini 2.5 Flash, a reasoning model ideal for &quot;high-volume&quot; and &quot;real-time&quot; applications, launching soon in Vertex AI &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250409/p23#a250409p23)
+ - [Google Cloud Next: Google unveils Ironwood, its seventh-generation TPU and the first optimized for inference, available in a 256-chip or a 9,216-chip cluster &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250409/p22#a250409p22)
+ - [Google Cloud Next: Google Cloud launches its Unified Security platform, integrating security operations, threat intelligence, and AI for enterprise customers &lpar;Taryn Plumb/VentureBeat&rpar;](http://www.techmeme.com/250409/p21#a250409p21)
+ - [Google Cloud Next: Google updates Gemini Code Assist to add agentic capabilities, including creating apps from product specifications in Google Docs, in preview &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250409/p20#a250409p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

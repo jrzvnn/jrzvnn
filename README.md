@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dagestan motorcycle driving license test](http://9gag.com/gag/axyb1MW)
  - 😝 [Saleswoman explaining the special feature of the car](http://9gag.com/gag/aVvmYVM)
- - 💣 [Streamer says this to 40,000 viewers, and now gets mass flagged on Twitch for promoting `Genocide`](http://9gag.com/gag/aE0o2KN)
  - 😝 [She knew what was hidden in that leaf](http://9gag.com/gag/a2vyovp)
- - 👉 [Mystery](http://9gag.com/gag/aGyMZX5)<!-- MEMES:END -->
+ - 💣 [Mystery](http://9gag.com/gag/aGyMZX5)
+ - 😝 [Streamer says this to 40,000 viewers, and now gets mass flagged on Twitch for promoting `Genocide`](http://9gag.com/gag/aE0o2KN)
+ - 👉 [Anhydrous ammonia, coming to a neighborhood near you.](http://9gag.com/gag/aLnG0pV)<!-- MEMES:END -->
 
 ---
 

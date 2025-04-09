@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Chinese are trolling the US about sweatshop work](http://9gag.com/gag/aoy4e4e)
- - 😝 [Scraping barnacles off the side of a ship](http://9gag.com/gag/a7oVMmr)
+ - 😝 [Peak acting &lpar; repost&rpar;](http://9gag.com/gag/adBnLzQ)
+ - 😝 [Dagestan motorcycle driving license test](http://9gag.com/gag/axyb1MW)
  - 💣 [Blocking New Yorkers trying to go home at 6pm on a Monday evening by trapping them in Grand Central Station will NOT win you any fans](http://9gag.com/gag/apRPm6p)
  - 😝 [Mystery](http://9gag.com/gag/aGyMZX5)
  - 👉 [She knew what was hidden in that leaf](http://9gag.com/gag/a2vyovp)<!-- MEMES:END -->

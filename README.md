@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Streamer says this to 40,000 viewers, and now gets mass flagged on Twitch for promoting `Genocide`](http://9gag.com/gag/aE0o2KN)
- - 😝 [Real estate, huh?](http://9gag.com/gag/aQzAdwq)
- - 💣 [Our entire lives have been a recession.](http://9gag.com/gag/aGyMgqn)
- - 😝 [The man, who prepared a small puddle in the forest in Brazil, wondered and recorded the creatures that would benefit from this water](http://9gag.com/gag/an7v50n)
- - 👉 [The phone thief exercise program](http://9gag.com/gag/a7oVWR2)<!-- MEMES:END -->
+ - 😝 [Aladin\u2019s lamp is real after all](http://9gag.com/gag/aAy4bBp)
+ - 😝 [Summer H. Howell cast in the lead role of Amazon&#39;s CARRIE &lpar;Stephen King&rpar; adaptation](http://9gag.com/gag/aW4vjZA)
+ - 💣 [I thought this shit only happen in anime, wtf](http://9gag.com/gag/avyE8xn)
+ - 😝 [War is coming boys!](http://9gag.com/gag/aRBz0bG)
+ - 👉 [Vitaly, an American Streamer went to Phillipines to annoy locals and be a nuisance to civilians. Kept making faces and gestures during a press conference. Now faces up to 24 years in prison in Phillipines.](http://9gag.com/gag/aE0oPOx)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Genius man](http://9gag.com/gag/a7oVEEL)
- - 😝 [The phone thief exercise program](http://9gag.com/gag/a7oVWR2)
- - 💣 [Beer girl&#39;s pit crew reloads beer tank during a Japanese baseball match](http://9gag.com/gag/aGyMp1w)
- - 😝 [Donald Tariff](http://9gag.com/gag/aMVnEqx)
- - 👉 [Stuff saved over the years against bots 15#](http://9gag.com/gag/awyLZ01)<!-- MEMES:END -->
+ - 😝 [The Stupidity of Football...](http://9gag.com/gag/aZZQy6X)
+ - 😝 [Speaking too early, speaking too much.](http://9gag.com/gag/aYQP7AV)
+ - 💣 [War is coming boys!](http://9gag.com/gag/aRBz0bG)
+ - 😝 [RunAnEC2For5MinsAndWin](http://9gag.com/gag/aO8D3y6)
+ - 👉 [Anhydrous ammonia, coming to a neighborhood near you.](http://9gag.com/gag/aLnG0pV)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This M4 iPad Pro is $200 off at Amazon, but supply is limited](https://appleinsider.com/articles/25/04/09/this-m4-ipad-pro-is-200-off-at-amazon-but-supply-is-limited?utm_medium=rss)
- - [Google used AI to enhance The Wizard of Oz for the Las Vegas Sphere’s giant screen](https://www.theverge.com/news/645815/google-used-ai-to-enhance-the-wizard-of-oz-for-the-las-vegas-spheres-giant-screen)
- - [Sources and a document: Amazon has canceled orders for multiple products made in China and other Asian countries after Trump&#39;s April 2 tariff announcement &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/250409/p32#a250409p32)
- - [Q&amp;A with Google Cloud CEO Thomas Kurian on Google Cloud Next, AI, DeepMind, AWS, hosting 200 models, training and inference costs, model training, and more &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/250409/p31#a250409p31)
- - [Trump triples tariffs on low value packages from China and Hong Kong](https://www.theverge.com/policy/645771/trump-triples-tariffs-on-low-value-packages-from-china-and-hong-kong)<!-- TECH:END -->
+ - [Autonomous delivery startup Nuro raised a $106M Series E at a $6B valuation, down from $8.6B in 2021 after a $600M Series D, taking its total funding to $2.2B &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250409/p34#a250409p34)
+ - [These Apps Help You Visualize What&#39;s Hogging Your Hard Drive](https://www.wired.com/story/these-apps-help-you-visualize-whats-hogging-your-hard-drive/)
+ - [Murderbot is going through it in the first trailer for Apple&amp;#8217;s sci-fi series](https://www.theverge.com/news/645746/murderbot-trailer-apple-tv-plus)
+ - [Samsung&amp;#8217;s The Frame Pro was never going to be cheap — and it isn&amp;#8217;t](https://www.theverge.com/news/645778/samsungs-the-frame-pro-was-never-going-to-be-cheap-and-it-isnt)
+ - [Trump’s new tariffs leave small creators scrambling](https://www.theverge.com/games/645782/trumps-new-tariffs-leave-small-creators-scrambling)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

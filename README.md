@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Borderline psychological warfare](http://9gag.com/gag/aRBz0jj)
- - 😝 [I should have kept my Yaris](http://9gag.com/gag/amomB4y)
- - 💣 [My girlfriend...](http://9gag.com/gag/aByPgVx)
- - 😝 [The man, who prepared a small puddle in the forest in Brazil, wondered and recorded the creatures that would benefit from this water](http://9gag.com/gag/an7v50n)
- - 👉 [Streamer says this to 40,000 viewers, and now gets mass flagged on Twitch for promoting `Genocide`](http://9gag.com/gag/aE0o2KN)<!-- MEMES:END -->
+ - 😝 [A woman suggests Elon Musk go where he came from gets an unexpected surprise](http://9gag.com/gag/a6ZnVWq)
+ - 😝 [Saleswoman explaining the special feature of the car](http://9gag.com/gag/aVvmYVM)
+ - 💣 [She knew what was hidden in that leaf](http://9gag.com/gag/a2vyovp)
+ - 😝 [Blocking New Yorkers trying to go home at 6pm on a Monday evening by trapping them in Grand Central Station will NOT win you any fans](http://9gag.com/gag/apRPm6p)
+ - 👉 [Mystery](http://9gag.com/gag/aGyMZX5)<!-- MEMES:END -->
 
 ---
 

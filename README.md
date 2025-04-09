@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe outlines agentic AI features coming to Photoshop, Acrobat, Premiere Pro, and more, including one-click context-aware edits and agents to analyze documents &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/250409/p38#a250409p38)
  - [Sources: after Jensen Huang went to Mar-a-Lago last week, the White House reversed course on Nvidia H20 export restrictions to China, in the works for months &lpar;NPR&rpar;](http://www.techmeme.com/250409/p37#a250409p37)
  - [Global shipments of personal computers rose 9.4% YoY in Q1, driven by OEMs ramping up US deliveries in anticipation of the first round of Trump&#39;s tariffs &lpar;Canalys&rpar;](http://www.techmeme.com/250409/p36#a250409p36)
  - [The Last of Us renewed for season 3 just ahead of HBO return](https://www.theverge.com/news/645923/the-last-of-us-renewed-for-season-3-just-ahead-of-hbo-return)
- - [Samsung is finally releasing Ballie](https://www.theverge.com/news/645853/samsung-is-finally-releasing-ballie)
- - [These might be Microsoft’s new Office icons](https://www.theverge.com/news/645891/these-might-be-microsofts-new-office-icons)<!-- TECH:END -->
+ - [Samsung is finally releasing Ballie](https://www.theverge.com/news/645853/samsung-is-finally-releasing-ballie)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

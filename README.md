@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now give Google&amp;#8217;s AI video model camera directions](https://www.theverge.com/news/645906/you-can-now-give-googles-ai-video-model-camera-directions)
- - [Why I love Twinkly Strings and Twinkly Flex](https://www.theverge.com/tech/644693/why-i-love-twinkly-strings-and-twinkly-flex)
- - [Adobe brings 1,500 new fonts to Creative Cloud](https://www.theverge.com/news/645978/adobe-brings-1500-new-fonts-to-creative-cloud)
- - [YouTube is supporting the ‘No Fakes Act’ targeting unauthorized AI replicas](https://www.theverge.com/news/645942/youtube-is-supporting-the-no-fakes-act-targeting-unauthorized-ai-replicas)
- - [iPhone Fold in 2026 is probable, but iPad Fold is doubtful](https://appleinsider.com/articles/25/04/09/iphone-fold-in-2026-is-probable-but-ipad-fold-is-doubtful?utm_medium=rss)<!-- TECH:END -->
+ - [The best AirPods to buy](https://www.theverge.com/tech/645217/the-best-airpods-to-buy)
+ - [Anthropic debuts Claude&#39;s Max plan, with 5x the usage limits of Pro for $100/month or 20x the usage for $200/month, plus early access to new models and features &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250409/p39#a250409p39)
+ - [WordPress.com is offering a new AI site builder](https://www.theverge.com/news/645993/wordpress-com-is-offering-a-new-ai-site-builder)
+ - [The Switch 2&amp;#8217;s Joy-Con charging grip has two extra buttons](https://www.theverge.com/news/645996/the-switch-2s-joy-con-charging-grip-has-two-extra-buttons)
+ - [Elon Musk&#39;s DOGE Is Getting Audited](https://www.wired.com/story/gao-audit-elon-musk-doge-government-agencies/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Legal activities](http://9gag.com/gag/aXP4oQV)
- - 😝 [Rememberwhoyouare](http://9gag.com/gag/aD2ZDqw)
- - 💣 [Alcohol makes you do things](http://9gag.com/gag/aGyMdQ0)
- - 😝 [Mystery](http://9gag.com/gag/aGyMZX5)
- - 👉 [The Stupidity of Football...](http://9gag.com/gag/aZZQy6X)<!-- MEMES:END -->
+ - 😝 [Speaking too early, speaking too much.](http://9gag.com/gag/aYQP7AV)
+ - 😝 [The Stupidity of Football...](http://9gag.com/gag/aZZQy6X)
+ - 💣 [Legal activities](http://9gag.com/gag/aXP4oQV)
+ - 😝 [Aladin\u2019s lamp is real after all](http://9gag.com/gag/aAy4bBp)
+ - 👉 [Im just gonna leave it here](http://9gag.com/gag/a4P5ox6)<!-- MEMES:END -->
 
 ---
 

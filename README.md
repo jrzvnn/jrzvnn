@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple stock finally claws back some losses following mixed Trump tariff message](https://appleinsider.com/articles/25/04/09/apple-stock-finally-claws-back-some-losses-following-mixed-trump-tariff-message?utm_medium=rss)
+ - [The UK&#39;s BoE plans to track AI use by banks and hedge funds, saying their risk managers may not fully understand the AI being run, which may threaten markets &lpar;Bloomberg&rpar;](http://www.techmeme.com/250409/p45#a250409p45)
+ - [Market Madness, Manufacturing, and the Liberation Day of It All](https://www.wired.com/story/uncanny-valley-podcast-trump-tariffs-market-madness/)
  - [Sen. Ron Wyden plans to block the nomination of Sean Plankey to head CISA until the agency releases a 2022 report about security flaws at US telecom companies &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/250409/p44#a250409p44)
- - [Trump says the future of AI is powered by coal](https://www.theverge.com/energy/646011/trump-says-the-future-of-ai-is-powered-by-coal)
- - [US DOGE Service Agreement With Department of Labor Shows $1.3 Million Fee—and Details Its Mission](https://www.wired.com/story/department-of-labor-doge-usds-payment/)
- - [Sources: Italy is seeking €1.2B from fintech group ION following a probe by prosecutors in Bologna into alleged tax evasion over the 2013-2023 period &lpar;Reuters&rpar;](http://www.techmeme.com/250409/p43#a250409p43)
- - [Framework raised prices and then un-raised them an hour later because of Trump](https://www.theverge.com/news/646057/framework-raised-prices-and-then-un-raised-them-an-hour-later-because-of-trump)<!-- TECH:END -->
+ - [Trump says the future of AI is powered by coal](https://www.theverge.com/energy/646011/trump-says-the-future-of-ai-is-powered-by-coal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

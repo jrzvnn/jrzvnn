@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Docs: NSO Group, which is still on the US Commerce Department&#39;s Entity List, has hired Vogel Group, a lobbying firm with direct ties to the Trump administration &lpar;Vas Panagiotopoulos/Wired&rpar;](http://www.techmeme.com/250409/p49#a250409p49)
  - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)
  - [BTC jumped 7%+ to ~$83K, while ETH, DOGE, XRP, and SOL gained over 12% as Trump paused some tariffs; Strategy closed up 25%, Robinhood up 24%, Coinbase up 17% &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250409/p48#a250409p48)
- - [Adobe is building AI agents for Photoshop and Premiere Pro](https://www.theverge.com/news/646205/adobe-photoshop-premiere-pro-ai-creative-agent-actions)
- - [Framework opens Laptop 12 preorders in the UK, Europe, and Canada starting at €569, £499, and CA$719; US preorders are delayed due to Trump&#39;s tariffs &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250409/p47#a250409p47)
- - [Aqara adds support for 50 new Matter device types](https://www.theverge.com/news/646199/aqara-matter-support-50-new-device-types)<!-- TECH:END -->
+ - [Starlink Is Caught in the Middle of Trump’s Trade War](https://www.cnet.com/home/internet/starlink-is-caught-in-the-middle-of-trumps-trade-war/#ftag=CAD590a51e)
+ - [Adobe is building AI agents for Photoshop and Premiere Pro](https://www.theverge.com/news/646205/adobe-photoshop-premiere-pro-ai-creative-agent-actions)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Donald Trump Wants to Save the Coal Industry. He&#39;s Too Late](https://www.wired.com/story/donald-trump-wants-to-save-the-coal-industry-hes-too-late/)
- - [Trump&#39;s belief that iPhone manufacturing could quickly move to the US is wrong](https://appleinsider.com/articles/25/04/08/trumps-belief-that-iphone-manufacturing-could-quickly-move-to-the-us-is-wrong?utm_medium=rss)
- - [Your next iPhone might cost more but Apple may bet you won&#39;t notice much](https://appleinsider.com/articles/25/04/09/your-next-iphone-might-cost-more-but-apple-may-bet-you-wont-notice-much?utm_medium=rss)
- - [Source: Nintendo has decided to postpone the Switch 2&#39;s release in China, an apparent response to the country&#39;s tight controls targeting the gaming industry &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250409/p35#a250409p35)
- - [Don&#39;t read too much into reports about Luxshare moving to the US](https://appleinsider.com/articles/25/04/09/dont-read-too-much-into-reports-about-luxshare-moving-to-the-us?utm_medium=rss)<!-- TECH:END -->
+ - [These might be Microsoft’s new Office icons](https://www.theverge.com/news/645891/these-might-be-microsofts-new-office-icons)
+ - [Apple&#39;s $500 billion US investment announcement is business as usual](https://appleinsider.com/articles/25/02/25/apples-500-billion-us-investment-announcement-is-business-as-usual?utm_medium=rss)
+ - [The AI Agent Era Requires a New Kind of Game Theory](https://www.wired.com/story/zico-kolter-ai-agents-game-theory/)
+ - [Sony adds three new wireless speakers to bass-boosted ULT Power Sound lineup](https://www.theverge.com/news/645745/sony-adds-three-new-wireless-speakers-to-bass-boosted-ult-power-sound-lineup)
+ - [Sony seemingly bakes tariff penalty into its new US TV pricing](https://www.theverge.com/news/645832/sony-bravia-ii-oled-5-pricing-tariffs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

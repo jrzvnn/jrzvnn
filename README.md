@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Alcohol makes you do things](http://9gag.com/gag/aGyMdQ0)
- - 😝 [Aaaaaand... there you go. Art of the Deal.](http://9gag.com/gag/aMVnKvV)
- - 💣 [She wanted to say `I&#39;m a real woman` so bad..](http://9gag.com/gag/aW4vGxA)
- - 😝 [Someone tell me what this is...](http://9gag.com/gag/adBngQD)
+ - 😝 [Legal activities](http://9gag.com/gag/aXP4oQV)
+ - 😝 [Rememberwhoyouare](http://9gag.com/gag/aD2ZDqw)
+ - 💣 [Alcohol makes you do things](http://9gag.com/gag/aGyMdQ0)
+ - 😝 [Mystery](http://9gag.com/gag/aGyMZX5)
  - 👉 [The Stupidity of Football...](http://9gag.com/gag/aZZQy6X)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based NexGen Cloud, which offers GPU-as-a-service for customers that need flexible access to train AI, raised a $45M Series A at a $354M valuation &lpar;David Prosser/Forbes&rpar;](http://www.techmeme.com/250408/p38#a250408p38)
- - [A look at the rise of &quot;Frankenstein&quot; laptops in India, made by salvaging parts from multiple brands and sold to students, gig workers, and small businesses &lpar;The Verge&rpar;](http://www.techmeme.com/250408/p37#a250408p37)
+ - [How to use the new text effects in Messages on iPhone with iOS 18](https://appleinsider.com/inside/ios-18/tips/how-to-use-the-new-text-effects-in-messages-on-iphone-with-ios-18?utm_medium=rss)
  - [You can grab three months of Apple TV Plus for $2.99 a month right now](https://www.theverge.com/tech/645569/apple-tv-plus-streaming-deal-severance-silo-studio-sale)
  - [Instagram might finally release an iPad app](https://www.theverge.com/news/645625/instagram-ipad-app-tiktok)
- - [Arduboy creator says his tiny Game Boy won’t survive Trump’s tariffs](https://www.theverge.com/news/645555/arduboy-victim-trump-tariffs-us-china-kevin-bates)<!-- TECH:END -->
+ - [Arduboy creator says his tiny Game Boy won’t survive Trump’s tariffs](https://www.theverge.com/news/645555/arduboy-victim-trump-tariffs-us-china-kevin-bates)
+ - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

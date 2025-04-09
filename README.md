@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Summer H. Howell cast in the lead role of Amazon&#39;s CARRIE &lpar;Stephen King&rpar; adaptation](http://9gag.com/gag/aW4vjZA)
- - 😝 [The Chinese are trolling the US about sweatshop work](http://9gag.com/gag/aoy4e4e)
- - 💣 [Chess](http://9gag.com/gag/aQzA3Pd)
- - 😝 [War is coming boys!](http://9gag.com/gag/aRBz0bG)
- - 👉 [She knew what was hidden in that leaf](http://9gag.com/gag/a2vyovp)<!-- MEMES:END -->
+ - 😝 [Real estate, huh?](http://9gag.com/gag/aQzAdwq)
+ - 😝 [Streamer says this to 40,000 viewers, and now gets mass flagged on Twitch for promoting `Genocide`](http://9gag.com/gag/aE0o2KN)
+ - 💣 [The man, who prepared a small puddle in the forest in Brazil, wondered and recorded the creatures that would benefit from this water](http://9gag.com/gag/an7v50n)
+ - 😝 [Our entire lives have been a recession.](http://9gag.com/gag/aGyMgqn)
+ - 👉 [The phone thief exercise program](http://9gag.com/gag/a7oVWR2)<!-- MEMES:END -->
 
 ---
 

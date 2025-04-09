@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump says the future of AI is powered by coal](https://www.theverge.com/energy/646011/trump-says-the-future-of-ai-is-powered-by-coal)
+ - [US DOGE Service Agreement With Department of Labor Shows $1.3 Million Fee—and Details Its Mission](https://www.wired.com/story/department-of-labor-doge-usds-payment/)
  - [Sources: Italy is seeking €1.2B from fintech group ION following a probe by prosecutors in Bologna into alleged tax evasion over the 2013-2023 period &lpar;Reuters&rpar;](http://www.techmeme.com/250409/p43#a250409p43)
  - [Framework raised prices and then un-raised them an hour later because of Trump](https://www.theverge.com/news/646057/framework-raised-prices-and-then-un-raised-them-an-hour-later-because-of-trump)
- - [Gemini can now turn your Google Docs into podcasts](https://www.theverge.com/news/645986/gemini-can-now-turn-your-google-docs-into-podcasts)
- - [Google announces Agent2Agent, an open interoperability protocol to enable seamless collaboration between AI agents across diverse frameworks and vendors &lpar;Alexey Shabanov/TestingCatalog&rpar;](http://www.techmeme.com/250409/p42#a250409p42)
- - [Smart home device manufacturers are bracing for chaos — again](https://www.theverge.com/smart-home/645927/smart-home-device-manufacturers-are-bracing-for-chaos-again)<!-- TECH:END -->
+ - [Gemini can now turn your Google Docs into podcasts](https://www.theverge.com/news/645986/gemini-can-now-turn-your-google-docs-into-podcasts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

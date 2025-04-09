@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How and why??](http://9gag.com/gag/a0e6K0d)
- - 😝 [Oops : When your Zoom background reveals way more than your lecture notes.](http://9gag.com/gag/aLnGgWx)
- - 💣 [The voice stays on in bed](http://9gag.com/gag/awyLXN4)
- - 😝 [She knew what was hidden in that leaf](http://9gag.com/gag/a2vyovp)
- - 👉 [Vitaly, an American Streamer went to Phillipines to annoy locals and be a nuisance to civilians. Kept making faces and gestures during a press conference. Now faces up to 24 years in prison in Phillipines.](http://9gag.com/gag/aE0oPOx)<!-- MEMES:END -->
+ - 😝 [Summer H. Howell cast in the lead role of Amazon&#39;s CARRIE &lpar;Stephen King&rpar; adaptation](http://9gag.com/gag/aW4vjZA)
+ - 😝 [The Chinese are trolling the US about sweatshop work](http://9gag.com/gag/aoy4e4e)
+ - 💣 [Chess](http://9gag.com/gag/aQzA3Pd)
+ - 😝 [War is coming boys!](http://9gag.com/gag/aRBz0bG)
+ - 👉 [She knew what was hidden in that leaf](http://9gag.com/gag/a2vyovp)<!-- MEMES:END -->
 
 ---
 

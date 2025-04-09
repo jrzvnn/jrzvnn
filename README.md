@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China retaliates with additional 50 percent tariff on US goods, matching Trump’s](https://www.theverge.com/news/645730/china-tariffs-us-retaliatory-84-percent)
+ - [UK-based high-end fashion marketplace Lyst agrees to a $154M acquisition by Japan-based fashion and e-commerce company Zozo; Lyst was valued at $700M+ in 2021 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250409/p18#a250409p18)
  - [Leaked iPhone 17 Pro case again shows enlarged camera bump](https://appleinsider.com/articles/25/04/09/leaked-iphone-17-pro-case-again-shows-enlarged-camera-bump?utm_medium=rss)
  - [US ITC data: in 2024, China accounted for 86% of US game console imports, 79% of PC monitor imports, 73% of smartphone imports, and 66% of laptop imports &lpar;Bloomberg&rpar;](http://www.techmeme.com/250409/p17#a250409p17)
- - [Call transcript: Luxshare Chair Wang Laichun says the iPhone and AirPods maker is in talks with customers to move production from China, including to the US &lpar;Reuters&rpar;](http://www.techmeme.com/250409/p16#a250409p16)
- - [Amazon&#39;s Rival to Starlink Satellite Service Is Planning a Rocket Launch: How to Watch Tonight](https://www.cnet.com/science/space/amazons-rival-to-starlink-satellite-service-is-planning-a-rocket-launch-how-to-watch-tonight/#ftag=CAD590a51e)
- - [The Titanic Gets Digitally Cloned in This New National Geographic Documentary](https://www.cnet.com/tech/home-entertainment/the-titanic-gets-digitally-cloned-in-this-new-national-geographic-documentary/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Call transcript: Luxshare Chair Wang Laichun says the iPhone and AirPods maker is in talks with customers to move production from China, including to the US &lpar;Reuters&rpar;](http://www.techmeme.com/250409/p16#a250409p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

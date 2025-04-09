@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Google Cloud CEO Thomas Kurian on Google Cloud Next, AI, DeepMind, AWS, hosting 200 models, training and inference costs, model training, and more &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/250409/p31#a250409p31)
  - [Trump triples tariffs on low value packages from China and Hong Kong](https://www.theverge.com/policy/645771/trump-triples-tariffs-on-low-value-packages-from-china-and-hong-kong)
  - [Sources: Amazon is considering a $15B warehouse expansion plan for nearly 80 new US logistics facilities, reversing its post-pandemic construction slowdown &lpar;Bloomberg&rpar;](http://www.techmeme.com/250409/p30#a250409p30)
  - [Best Wireless Headphones &lpar;2025&rpar;: Tested Over Many Hours](https://www.wired.com/gallery/best-wireless-headphones/)
- - [Xbox’s next major games showcase streams in June](https://www.theverge.com/news/645779/xboxs-next-major-games-showcase-streams-in-june)
- - [Samsung and Google plan to launch Ballie, a soccer-ball-shaped home robot that uses AI and can project video onto walls &quot;like a personal BB-8&quot;, in summer 2025 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250409/p29#a250409p29)<!-- TECH:END -->
+ - [Xbox’s next major games showcase streams in June](https://www.theverge.com/news/645779/xboxs-next-major-games-showcase-streams-in-june)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

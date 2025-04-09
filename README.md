@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These might be Microsoft’s new Office icons](https://www.theverge.com/news/645891/these-might-be-microsofts-new-office-icons)
- - [Apple&#39;s $500 billion US investment announcement is business as usual](https://appleinsider.com/articles/25/02/25/apples-500-billion-us-investment-announcement-is-business-as-usual?utm_medium=rss)
- - [The AI Agent Era Requires a New Kind of Game Theory](https://www.wired.com/story/zico-kolter-ai-agents-game-theory/)
- - [Sony adds three new wireless speakers to bass-boosted ULT Power Sound lineup](https://www.theverge.com/news/645745/sony-adds-three-new-wireless-speakers-to-bass-boosted-ult-power-sound-lineup)
- - [Sony seemingly bakes tariff penalty into its new US TV pricing](https://www.theverge.com/news/645832/sony-bravia-ii-oled-5-pricing-tariffs)<!-- TECH:END -->
+ - [Sources: after Jensen Huang went to Mar-a-Lago last week, the White House reversed course on Nvidia H20 export restrictions to China, in the works for months &lpar;NPR&rpar;](http://www.techmeme.com/250409/p37#a250409p37)
+ - [Global shipments of personal computers rose 9.4% YoY in Q1, driven by OEMs ramping up US deliveries in anticipation of the first round of Trump&#39;s tariffs &lpar;Canalys&rpar;](http://www.techmeme.com/250409/p36#a250409p36)
+ - [The Last of Us renewed for season 3 just ahead of HBO return](https://www.theverge.com/news/645923/the-last-of-us-renewed-for-season-3-just-ahead-of-hbo-return)
+ - [Samsung is finally releasing Ballie](https://www.theverge.com/news/645853/samsung-is-finally-releasing-ballie)
+ - [These might be Microsoft’s new Office icons](https://www.theverge.com/news/645891/these-might-be-microsofts-new-office-icons)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Teenage Engineering has updated its KO II synthesizer with new sampling powers](https://www.theverge.com/news/646021/teenage-engineering-has-updated-its-ko-ii-synthesizer-with-new-sampling-powers)
+ - [Trump announces a 90-day tariff pause for some countries and a &quot;lowered Reciprocal Tariff during this period, of 10%&quot;, but raises tariffs on China to 125% &lpar;Dan Mangan/CNBC&rpar;](http://www.techmeme.com/250409/p40#a250409p40)
  - [The best AirPods to buy](https://www.theverge.com/tech/645217/the-best-airpods-to-buy)
  - [Anthropic debuts Claude&#39;s Max plan, with 5x the usage limits of Pro for $100/month or 20x the usage for $200/month, plus early access to new models and features &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250409/p39#a250409p39)
- - [WordPress.com is offering a new AI site builder](https://www.theverge.com/news/645993/wordpress-com-is-offering-a-new-ai-site-builder)
- - [The Switch 2&amp;#8217;s Joy-Con charging grip has two extra buttons](https://www.theverge.com/news/645996/the-switch-2s-joy-con-charging-grip-has-two-extra-buttons)
- - [Elon Musk&#39;s DOGE Is Getting Audited](https://www.wired.com/story/gao-audit-elon-musk-doge-government-agencies/)<!-- TECH:END -->
+ - [WordPress.com is offering a new AI site builder](https://www.theverge.com/news/645993/wordpress-com-is-offering-a-new-ai-site-builder)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

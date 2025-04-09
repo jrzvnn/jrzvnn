@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sen. Ron Wyden plans to block the nomination of Sean Plankey to head CISA until the agency releases a 2022 report about security flaws at US telecom companies &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/250409/p44#a250409p44)
  - [Trump says the future of AI is powered by coal](https://www.theverge.com/energy/646011/trump-says-the-future-of-ai-is-powered-by-coal)
  - [US DOGE Service Agreement With Department of Labor Shows $1.3 Million Fee—and Details Its Mission](https://www.wired.com/story/department-of-labor-doge-usds-payment/)
  - [Sources: Italy is seeking €1.2B from fintech group ION following a probe by prosecutors in Bologna into alleged tax evasion over the 2013-2023 period &lpar;Reuters&rpar;](http://www.techmeme.com/250409/p43#a250409p43)
- - [Framework raised prices and then un-raised them an hour later because of Trump](https://www.theverge.com/news/646057/framework-raised-prices-and-then-un-raised-them-an-hour-later-because-of-trump)
- - [Gemini can now turn your Google Docs into podcasts](https://www.theverge.com/news/645986/gemini-can-now-turn-your-google-docs-into-podcasts)<!-- TECH:END -->
+ - [Framework raised prices and then un-raised them an hour later because of Trump](https://www.theverge.com/news/646057/framework-raised-prices-and-then-un-raised-them-an-hour-later-because-of-trump)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Italy is seeking €1.2B from fintech group ION following a probe by prosecutors in Bologna into alleged tax evasion over the 2013-2023 period &lpar;Reuters&rpar;](http://www.techmeme.com/250409/p43#a250409p43)
+ - [Framework raised prices and then un-raised them an hour later because of Trump](https://www.theverge.com/news/646057/framework-raised-prices-and-then-un-raised-them-an-hour-later-because-of-trump)
+ - [Gemini can now turn your Google Docs into podcasts](https://www.theverge.com/news/645986/gemini-can-now-turn-your-google-docs-into-podcasts)
  - [Google announces Agent2Agent, an open interoperability protocol to enable seamless collaboration between AI agents across diverse frameworks and vendors &lpar;Alexey Shabanov/TestingCatalog&rpar;](http://www.techmeme.com/250409/p42#a250409p42)
- - [Smart home device manufacturers are bracing for chaos — again](https://www.theverge.com/smart-home/645927/smart-home-device-manufacturers-are-bracing-for-chaos-again)
- - [So You’ve Got a &#39;Fortnite&#39; Accent and You Want to Get Rid of It](https://www.wired.com/story/so-youve-got-a-fortnite-accent-and-you-want-to-get-rid-of-it/)
- - [Spyware Maker NSO Group Is Paving a Path Back Into Trump’s America](https://www.wired.com/story/nso-group-the-vogel-group-lobbying-trump-administration/)
- - [Trade war escalates: Trump hikes China tariffs to 125%, pauses others for 90 days](https://appleinsider.com/articles/25/04/09/trade-war-escalates-trump-hikes-china-tariffs-to-125-pauses-others-for-90-days?utm_medium=rss)<!-- TECH:END -->
+ - [Smart home device manufacturers are bracing for chaos — again](https://www.theverge.com/smart-home/645927/smart-home-device-manufacturers-are-bracing-for-chaos-again)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Google used new AI techniques to enhance 90%+ of The Wizard of Oz, released in 1939, to show on the Las Vegas Sphere&#39;s giant screen from August 28, 2025 &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250409/p26#a250409p26)
+ - [Reddit integrates Gemini into its conversational AI search tool Reddit Answers, in beta since December 2024, to improve search relevance and give quick answers &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250409/p25#a250409p25)
+ - [Google launches Workspace Flows, an AI tool to automate multi-step processes, in alpha, and new Docs, Sheets, Meet, Chat, and Vids features, like audio in Docs &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250409/p24#a250409p24)
  - [Apple&#39;s airlifting imports to beat tariff deadline included Macs](https://appleinsider.com/articles/25/04/09/apples-airlifting-imports-to-beat-tariff-deadline-included-macs?utm_medium=rss)
- - [Google Cloud Next: Google unveils Gemini 2.5 Flash, a reasoning model ideal for &quot;high-volume&quot; and &quot;real-time&quot; applications, launching soon in Vertex AI &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250409/p23#a250409p23)
- - [Google Cloud Next: Google unveils Ironwood, its seventh-generation TPU and the first optimized for inference, available in a 256-chip or a 9,216-chip cluster &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250409/p22#a250409p22)
- - [Google Cloud Next: Google Cloud launches its Unified Security platform, integrating security operations, threat intelligence, and AI for enterprise customers &lpar;Taryn Plumb/VentureBeat&rpar;](http://www.techmeme.com/250409/p21#a250409p21)
- - [Google Cloud Next: Google updates Gemini Code Assist to add agentic capabilities, including creating apps from product specifications in Google Docs, in preview &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250409/p20#a250409p20)<!-- TECH:END -->
+ - [Google Cloud Next: Google unveils Gemini 2.5 Flash, a reasoning model ideal for &quot;high-volume, cost-sensitive&quot; and &quot;real-time&quot; apps, launching soon in Vertex AI &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250409/p23#a250409p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

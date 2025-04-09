@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Moreno Valley, California](https://www.cnet.com/home/internet/best-internet-providers-in-moreno-valley-ca/#ftag=CAD590a51e)
  - [President Trump directs the DOJ to investigate former CISA director Chris Krebs, who was fired after he contradicted Trump&#39;s baseless 2020 election fraud claims &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/250409/p50#a250409p50)
+ - [27 Best Travel Tech Gifts in 2025: Must-Have Gadgets to Bring on Their Next Trip](https://www.cnet.com/tech/mobile/best-travel-tech-gifts/#ftag=CAD590a51e)
  - [New Apple Watch ad reveals how the Emergency SOS feature saved a man in Australia](https://appleinsider.com/articles/25/04/09/new-apple-watch-ad-reveals-how-the-emergency-sos-feature-saved-a-man-in-australia?utm_medium=rss)
- - [Lawmakers are skeptical of Zuckerberg’s commitment to free speech](https://www.theverge.com/news/646288/congress-zuckerberg-wynn-williams-careless-people)
- - [Trump blinks: Floats suggestion that Apple might get a tariff exemption](https://appleinsider.com/articles/25/04/09/trump-blinks-floats-suggestion-that-apple-might-get-a-tariff-exemption?utm_medium=rss)
- - [Docs: NSO Group, which is still on the US Commerce Department&#39;s Entity List, has hired Vogel Group, a lobbying firm with direct ties to the Trump administration &lpar;Vas Panagiotopoulos/Wired&rpar;](http://www.techmeme.com/250409/p49#a250409p49)<!-- TECH:END -->
+ - [Lawmakers are skeptical of Zuckerberg’s commitment to free speech](https://www.theverge.com/news/646288/congress-zuckerberg-wynn-williams-careless-people)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

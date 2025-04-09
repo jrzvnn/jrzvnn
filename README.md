@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [One of our favorite video doorbells is on sale for $80](https://www.theverge.com/tech/645930/one-of-our-favorite-video-doorbells-is-on-sale-for-80)
+ - [Trade war escalates: Trump hikes China tariffs to 125%, pauses others for 90 days](https://appleinsider.com/articles/25/04/09/trade-war-escalates-trump-hikes-china-tariffs-to-125-pauses-others-for-90-days?utm_medium=rss)
  - [Apple is closing its Northbrook store &amp; there won&#39;t be a replacement](https://appleinsider.com/articles/25/04/09/apple-is-closing-its-northbrook-store-there-wont-be-a-replacement?utm_medium=rss)
  - [Trump announces a &amp;#8217;90-day pause’ on tariffs outside of China](https://www.theverge.com/news/646029/trump-announces-a-90-day-pause-on-tariffs-outside-of-china)
- - [Trade war escalates: Trump hikes China tariffs to 125%, pauses others for 90 days](https://appleinsider.com/articles/25/04/09/trade-war-escalates-trump-hikes-china-tariffs-to-125-pauses-others-for-90-days?utm_medium=rss)
- - [Teenage Engineering has updated its KO II synthesizer with new sampling powers](https://www.theverge.com/news/646021/teenage-engineering-has-updated-its-ko-ii-synthesizer-with-new-sampling-powers)
- - [Trump announces a 90-day tariff pause for some countries and a &quot;lowered Reciprocal Tariff during this period, of 10%&quot;, but raises tariffs on China to 125% &lpar;Dan Mangan/CNBC&rpar;](http://www.techmeme.com/250409/p40#a250409p40)<!-- TECH:END -->
+ - [Teenage Engineering has updated its KO II synthesizer with new sampling powers](https://www.theverge.com/news/646021/teenage-engineering-has-updated-its-ko-ii-synthesizer-with-new-sampling-powers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

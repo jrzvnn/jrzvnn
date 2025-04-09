@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Summer H. Howell cast in the lead role of Amazon&#39;s CARRIE &lpar;Stephen King&rpar; adaptation](http://9gag.com/gag/aW4vjZA)
- - 😝 [War is coming boys!](http://9gag.com/gag/aRBz0bG)
- - 💣 [Anhydrous ammonia, coming to a neighborhood near you.](http://9gag.com/gag/aLnG0pV)
+ - 😝 [Aladin\u2019s lamp is real after all](http://9gag.com/gag/aAy4bBp)
+ - 😝 [Blocking New Yorkers trying to go home at 6pm on a Monday evening by trapping them in Grand Central Station will NOT win you any fans](http://9gag.com/gag/apRPm6p)
+ - 💣 [Aaaaaand... there you go. Art of the Deal.](http://9gag.com/gag/aMVnKvV)
  - 😝 [The Stupidity of Football...](http://9gag.com/gag/aZZQy6X)
- - 👉 [Aladin\u2019s lamp is real after all](http://9gag.com/gag/aAy4bBp)<!-- MEMES:END -->
+ - 👉 [Anhydrous ammonia, coming to a neighborhood near you.](http://9gag.com/gag/aLnG0pV)<!-- MEMES:END -->
 
 ---
 

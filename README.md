@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Blocking New Yorkers trying to go home at 6pm on a Monday evening by trapping them in Grand Central Station will NOT win you any fans](http://9gag.com/gag/apRPm6p)
- - 😝 [Dire Wolf cry heard for the first time in 10,000 years after Jurassic Park-like \u201cresurrection\u201d](http://9gag.com/gag/aE0oxNe)
- - 💣 [This is why we can&#39;t have nice things](http://9gag.com/gag/aZZQLMW)
- - 😝 [The Stupidity of Football...](http://9gag.com/gag/aZZQy6X)
- - 👉 [The Chinese are trolling the US about sweatshop work](http://9gag.com/gag/aoy4e4e)<!-- MEMES:END -->
+ - 😝 [JWST found that most galaxies rotate in the same direction, so the universe was born rotating. We are in a black hole. Eureka!](http://9gag.com/gag/aQzA35z)
+ - 😝 [Streamer says this to 40,000 viewers, and now gets mass flagged on Twitch for promoting `Genocide`](http://9gag.com/gag/aE0o2KN)
+ - 💣 [Vitaly, an American Streamer went to Phillipines to annoy locals and be a nuisance to civilians. Kept making faces and gestures during a press conference. Now faces up to 24 years in prison in Phillipines.](http://9gag.com/gag/aE0oPOx)
+ - 😝 [This is why we can&#39;t have nice things](http://9gag.com/gag/aZZQLMW)
+ - 👉 [He&#39;s just like me](http://9gag.com/gag/agm8Bvv)<!-- MEMES:END -->
 
 ---
 

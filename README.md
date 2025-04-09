@@ -169,7 +169,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Someone tell me what this is...](http://9gag.com/gag/adBngQD)
  - 😝 [Aaaaaand... there you go. Art of the Deal.](http://9gag.com/gag/aMVnKvV)
  - 💣 [The Chinese are trolling the US about sweatshop work](http://9gag.com/gag/aoy4e4e)
- - 😝 [Rememberwhoyouare](http://9gag.com/gag/aD2ZDqw)
+ - 😝 [Alcohol makes you do things](http://9gag.com/gag/aGyMdQ0)
  - 👉 [Aladin\u2019s lamp is real after all](http://9gag.com/gag/aAy4bBp)<!-- MEMES:END -->
 
 ---

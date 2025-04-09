@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: to offset tariffs, Apple, Dell, and others pressed suppliers to fly as many premium devices as possible to the US, especially those priced above $3,000 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250409/p3#a250409p3)
+ - [Trump&#39;s 104% tariff against imports from China goes live](https://appleinsider.com/articles/25/04/09/trumps-104-tariff-against-imports-from-china-goes-live?utm_medium=rss)
  - [Pune, India-based online payments firm Easebuzz raised a $30M Series A led by Bessemer, says revenue grew 2x+ YoY to ~$78M in FY 2025 while staying profitable &lpar;Moneycontrol&rpar;](http://www.techmeme.com/250409/p2#a250409p2)
  - [Hydrow Discount Code: Save Up to $150 in April | WIRED](https://www.wired.com/story/hydrow-discount-code/)
- - [Top TurboTax Discount Codes &amp; Coupons April 2025](https://www.wired.com/story/turbotax-coupon/)
- - [Ripple agrees to acquire prime brokerage Hidden Road for $1.25B; Hidden Road plans to use Ripple&#39;s RLUSD stablecoin as collateral across its platform &lpar;Will Canny/CoinDesk&rpar;](http://www.techmeme.com/250409/p1#a250409p1)
- - [How to use the new text effects in Messages on iPhone with iOS 18](https://appleinsider.com/inside/ios-18/tips/how-to-use-the-new-text-effects-in-messages-on-iphone-with-ios-18?utm_medium=rss)<!-- TECH:END -->
+ - [Top TurboTax Discount Codes &amp; Coupons April 2025](https://www.wired.com/story/turbotax-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

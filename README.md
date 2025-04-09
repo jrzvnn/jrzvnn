@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Chinese are trolling the US about sweatshop work](http://9gag.com/gag/aoy4e4e)
- - 😝 [The Stupidity of Football...](http://9gag.com/gag/aZZQy6X)
- - 💣 [Vitaly, an American Streamer went to Phillipines to annoy locals and be a nuisance to civilians. Kept making faces and gestures during a press conference. Now faces up to 24 years in prison in Phillipines.](http://9gag.com/gag/aE0oPOx)
- - 😝 [Aladin\u2019s lamp is real after all](http://9gag.com/gag/aAy4bBp)
- - 👉 [Anhydrous ammonia, coming to a neighborhood near you.](http://9gag.com/gag/aLnG0pV)<!-- MEMES:END -->
+ - 😝 [Streamer says this to 40,000 viewers, and now gets mass flagged on Twitch for promoting `Genocide`](http://9gag.com/gag/aE0o2KN)
+ - 😝 [Vitaly, an American Streamer went to Phillipines to annoy locals and be a nuisance to civilians. Kept making faces and gestures during a press conference. Now faces up to 24 years in prison in Phillipines.](http://9gag.com/gag/aE0oPOx)
+ - 💣 [Anhydrous ammonia, coming to a neighborhood near you.](http://9gag.com/gag/aLnG0pV)
+ - 😝 [War is coming boys!](http://9gag.com/gag/aRBz0bG)
+ - 👉 [The Stupidity of Football...](http://9gag.com/gag/aZZQy6X)<!-- MEMES:END -->
 
 ---
 

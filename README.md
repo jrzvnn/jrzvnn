@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My girlfriend...](http://9gag.com/gag/aByPgVx)
- - 😝 [Real estate, huh?](http://9gag.com/gag/aQzAdwq)
- - 💣 [The phone thief exercise program](http://9gag.com/gag/a7oVWR2)
- - 😝 [Streamer says this to 40,000 viewers, and now gets mass flagged on Twitch for promoting `Genocide`](http://9gag.com/gag/aE0o2KN)
- - 👉 [The man, who prepared a small puddle in the forest in Brazil, wondered and recorded the creatures that would benefit from this water](http://9gag.com/gag/an7v50n)<!-- MEMES:END -->
+ - 😝 [How and why??](http://9gag.com/gag/a0e6K0d)
+ - 😝 [Oops : When your Zoom background reveals way more than your lecture notes.](http://9gag.com/gag/aLnGgWx)
+ - 💣 [The voice stays on in bed](http://9gag.com/gag/awyLXN4)
+ - 😝 [She knew what was hidden in that leaf](http://9gag.com/gag/a2vyovp)
+ - 👉 [Vitaly, an American Streamer went to Phillipines to annoy locals and be a nuisance to civilians. Kept making faces and gestures during a press conference. Now faces up to 24 years in prison in Phillipines.](http://9gag.com/gag/aE0oPOx)<!-- MEMES:END -->
 
 ---
 

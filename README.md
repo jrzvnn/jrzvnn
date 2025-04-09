@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple is closing its Northbrook store &amp; there won&#39;t be a replacement](https://appleinsider.com/articles/25/04/09/apple-is-closing-its-northbrook-store-there-wont-be-a-replacement?utm_medium=rss)
+ - [Trump announces a &amp;#8217;90-day pause’ on tariffs outside of China](https://www.theverge.com/news/646029/trump-announces-a-90-day-pause-on-tariffs-outside-of-china)
+ - [Trade war escalates: Trump hikes China tariffs to 125%, pauses others for 90 days](https://appleinsider.com/articles/25/04/09/trade-war-escalates-trump-hikes-china-tariffs-to-125-pauses-others-for-90-days?utm_medium=rss)
  - [Teenage Engineering has updated its KO II synthesizer with new sampling powers](https://www.theverge.com/news/646021/teenage-engineering-has-updated-its-ko-ii-synthesizer-with-new-sampling-powers)
- - [Trump announces a 90-day tariff pause for some countries and a &quot;lowered Reciprocal Tariff during this period, of 10%&quot;, but raises tariffs on China to 125% &lpar;Dan Mangan/CNBC&rpar;](http://www.techmeme.com/250409/p40#a250409p40)
- - [The best AirPods to buy](https://www.theverge.com/tech/645217/the-best-airpods-to-buy)
- - [Anthropic debuts Claude&#39;s Max plan, with 5x the usage limits of Pro for $100/month or 20x the usage for $200/month, plus early access to new models and features &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250409/p39#a250409p39)
- - [WordPress.com is offering a new AI site builder](https://www.theverge.com/news/645993/wordpress-com-is-offering-a-new-ai-site-builder)<!-- TECH:END -->
+ - [Trump announces a 90-day tariff pause for some countries and a &quot;lowered Reciprocal Tariff during this period, of 10%&quot;, but raises tariffs on China to 125% &lpar;Dan Mangan/CNBC&rpar;](http://www.techmeme.com/250409/p40#a250409p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

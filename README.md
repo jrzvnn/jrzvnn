@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple stock faces another battering as China &amp; EU fight back against U.S. tariffs](https://appleinsider.com/articles/25/04/09/apple-faces-more-share-price-battering-as-china-fights-back-on-us-tariffs?utm_medium=rss)
- - [PE firm EQT sells a €3B stake in Swedish enterprise software company IFS to investors including the Abu Dhabi Investment Authority, valuing IFS at €15B &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/250409/p28#a250409p28)
- - [This New Google Maps AI Tool Could Fix Congestion and Improve Roads Near You](https://www.cnet.com/tech/services-and-software/this-new-google-maps-ai-tool-could-fix-congestion-and-improve-roads-near-you/#ftag=CAD590a51e)
- - [Best Internet Providers in Tampa, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-tampa-fl/#ftag=CAD590a51e)
- - [At an NRCC event, President Trump says he told TSMC it would pay a tax of up to 100% if it didn&#39;t build US plants; in March, TSMC said it would invest $100B &lpar;Reuters&rpar;](http://www.techmeme.com/250409/p27#a250409p27)<!-- TECH:END -->
+ - [Trump triples tariffs on low value packages from China and Hong Kong](https://www.theverge.com/policy/645771/trump-triples-tariffs-on-low-value-packages-from-china-and-hong-kong)
+ - [Sources: Amazon is considering a $15B warehouse expansion plan for nearly 80 new US logistics facilities, reversing its post-pandemic construction slowdown &lpar;Bloomberg&rpar;](http://www.techmeme.com/250409/p30#a250409p30)
+ - [Best Wireless Headphones &lpar;2025&rpar;: Tested Over Many Hours](https://www.wired.com/gallery/best-wireless-headphones/)
+ - [Xbox’s next major games showcase streams in June](https://www.theverge.com/news/645779/xboxs-next-major-games-showcase-streams-in-june)
+ - [Samsung and Google plan to launch Ballie, a soccer-ball-shaped home robot that uses AI and can project video onto walls &quot;like a personal BB-8&quot;, in summer 2025 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250409/p29#a250409p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

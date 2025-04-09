@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe is building AI agents for Photoshop and Premiere Pro](https://www.theverge.com/news/646205/adobe-photoshop-premiere-pro-ai-creative-agent-actions)
+ - [Framework opens Laptop 12 preorders in the UK, Europe, and Canada starting at €569, £499, and CA$719; US preorders are delayed due to Trump&#39;s tariffs &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250409/p47#a250409p47)
  - [Aqara adds support for 50 new Matter device types](https://www.theverge.com/news/646199/aqara-matter-support-50-new-device-types)
  - [Framework’s entry-level modular Laptop 12 starts at £499](https://www.theverge.com/news/646031/framework-laptop-12-price-preorder-uk-eu-ca)
- - [Nasdaq jumps 12% after Trump announced a 90-day tariff pause, with Nvidia up 19%, Apple up 15%, Meta up 15%, Amazon up 12%, Microsoft up 10%, Alphabet up 10% &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250409/p46#a250409p46)
- - [Could the iPhone&#39;s Price Double With Trump&#39;s New 125% Tariff? We Do the Math](https://www.cnet.com/personal-finance/banking/could-iphone-prices-double-after-tariff-hikes-we-do-the-math/#ftag=CAD590a51e)
- - [I Took Over 1,000 Photos With the Xiaomi 15 Ultra. Check Out My Favorites](https://www.cnet.com/pictures/i-took-over-1000-photos-with-the-xiaomi-15-ultra-check-out-my-favorites/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nasdaq jumps 12% after Trump announced a 90-day tariff pause, with Nvidia up 19%, Apple up 15%, Meta up 15%, Amazon up 12%, Microsoft up 10%, Alphabet up 10% &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250409/p46#a250409p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

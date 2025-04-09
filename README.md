@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Saleswoman explaining the special feature of the car](http://9gag.com/gag/aVvmYVM)
- - 😝 [She knew what was hidden in that leaf](http://9gag.com/gag/a2vyovp)
- - 💣 [Mystery](http://9gag.com/gag/aGyMZX5)
- - 😝 [Streamer says this to 40,000 viewers, and now gets mass flagged on Twitch for promoting `Genocide`](http://9gag.com/gag/aE0o2KN)
- - 👉 [Anhydrous ammonia, coming to a neighborhood near you.](http://9gag.com/gag/aLnG0pV)<!-- MEMES:END -->
+ - 😝 [Time goes by](http://9gag.com/gag/aQzA14e)
+ - 😝 [I should have kept my Yaris](http://9gag.com/gag/amomB4y)
+ - 💣 [My girlfriend...](http://9gag.com/gag/aByPgVx)
+ - 😝 [The man, who prepared a small puddle in the forest in Brazil, wondered and recorded the creatures that would benefit from this water](http://9gag.com/gag/an7v50n)
+ - 👉 [Streamer says this to 40,000 viewers, and now gets mass flagged on Twitch for promoting `Genocide`](http://9gag.com/gag/aE0o2KN)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Docs: Canadian telecom Bell is lobbying to block Starlink subsidies, as Canada-US tensions and Musk&#39;s Trump ties put his satellite business under more scrutiny &lpar;Ilya Gridneff/Financial Times&rpar;](http://www.techmeme.com/250409/p5#a250409p5)
+ - [The 12 Best Cooling Pillows You Can Buy in 2025](https://www.cnet.com/health/sleep/best-cooling-pillows/#ftag=CAD590a51e)
+ - [Microsoft is backing away from its October 2024 plan to invest $1B in three Ohio data centers, the latest in a string of its data center project cancellations &lpar;Georgia Butler/DatacenterDynamics&rpar;](http://www.techmeme.com/250409/p4#a250409p4)
  - [Sources: to offset tariffs, Apple, Dell, and others pressed suppliers to fly as many premium devices as possible to the US, especially those priced above $3,000 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250409/p3#a250409p3)
- - [Trump&#39;s 104% tariff against imports from China goes live](https://appleinsider.com/articles/25/04/09/trumps-104-tariff-against-imports-from-china-goes-live?utm_medium=rss)
- - [Pune, India-based online payments firm Easebuzz raised a $30M Series A led by Bessemer, says revenue grew 2x+ YoY to ~$78M in FY 2025 while staying profitable &lpar;Moneycontrol&rpar;](http://www.techmeme.com/250409/p2#a250409p2)
- - [Hydrow Discount Code: Save Up to $150 in April | WIRED](https://www.wired.com/story/hydrow-discount-code/)
- - [Top TurboTax Discount Codes &amp; Coupons April 2025](https://www.wired.com/story/turbotax-coupon/)<!-- TECH:END -->
+ - [Trump&#39;s 104% tariff against imports from China goes live](https://appleinsider.com/articles/25/04/09/trumps-104-tariff-against-imports-from-china-goes-live?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Framework’s entry-level modular Laptop 12 starts at £499](https://www.theverge.com/news/646031/framework-laptop-12-price-preorder-uk-eu-ca)
  - [Nasdaq jumps 12% after Trump announced a 90-day tariff pause, with Nvidia up 19%, Apple up 15%, Meta up 15%, Amazon up 12%, Microsoft up 10%, Alphabet up 10% &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250409/p46#a250409p46)
- - [Apple stock finally claws back some losses following mixed Trump tariff message](https://appleinsider.com/articles/25/04/09/apple-stock-finally-claws-back-some-losses-following-mixed-trump-tariff-message?utm_medium=rss)
- - [The UK&#39;s BoE plans to track AI use by banks and hedge funds, saying their risk managers may not fully understand the AI being run, which may threaten markets &lpar;Bloomberg&rpar;](http://www.techmeme.com/250409/p45#a250409p45)
- - [Market Madness, Manufacturing, and the Liberation Day of It All](https://www.wired.com/story/uncanny-valley-podcast-trump-tariffs-market-madness/)<!-- TECH:END -->
+ - [Could the iPhone&#39;s Price Double With Trump&#39;s New 125% Tariff? We Do the Math](https://www.cnet.com/personal-finance/banking/could-iphone-prices-double-after-tariff-hikes-we-do-the-math/#ftag=CAD590a51e)
+ - [I Took Over 1,000 Photos With the Xiaomi 15 Ultra. Check Out My Favorites](https://www.cnet.com/pictures/i-took-over-1000-photos-with-the-xiaomi-15-ultra-check-out-my-favorites/#ftag=CAD590a51e)
+ - [Apple stock finally claws back some losses following mixed Trump tariff message](https://appleinsider.com/articles/25/04/09/apple-stock-finally-claws-back-some-losses-following-mixed-trump-tariff-message?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

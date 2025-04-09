@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Vitaly, an American Streamer went to Phillipines to annoy locals and be a nuisance to civilians. Kept making faces and gestures during a press conference. Now faces up to 24 years in prison in Phillipines.](http://9gag.com/gag/aE0oPOx)
+ - 😝 [Someone tell me what this is...](http://9gag.com/gag/adBngQD)
+ - 😝 [Aaaaaand... there you go. Art of the Deal.](http://9gag.com/gag/aMVnKvV)
+ - 💣 [The Chinese are trolling the US about sweatshop work](http://9gag.com/gag/aoy4e4e)
  - 😝 [Rememberwhoyouare](http://9gag.com/gag/aD2ZDqw)
- - 💣 [This is why we can&#39;t have nice things](http://9gag.com/gag/aZZQLMW)
- - 😝 [Mystery](http://9gag.com/gag/aGyMZX5)
- - 👉 [The Chinese are trolling the US about sweatshop work](http://9gag.com/gag/aoy4e4e)<!-- MEMES:END -->
+ - 👉 [Aladin\u2019s lamp is real after all](http://9gag.com/gag/aAy4bBp)<!-- MEMES:END -->
 
 ---
 

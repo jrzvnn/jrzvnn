@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chess](http://9gag.com/gag/aQzA3Pd)
- - 😝 [Mystery](http://9gag.com/gag/aGyMZX5)
- - 💣 [I thought this shit only happen in anime, wtf](http://9gag.com/gag/avyE8xn)
- - 😝 [Streamer says this to 40,000 viewers, and now gets mass flagged on Twitch for promoting `Genocide`](http://9gag.com/gag/aE0o2KN)
- - 👉 [She knew what was hidden in that leaf](http://9gag.com/gag/a2vyovp)<!-- MEMES:END -->
+ - 😝 [War is coming boys!](http://9gag.com/gag/aRBz0bG)
+ - 😝 [The voice stays on in bed](http://9gag.com/gag/awyLXN4)
+ - 💣 [Chess](http://9gag.com/gag/aQzA3Pd)
+ - 😝 [She knew what was hidden in that leaf](http://9gag.com/gag/a2vyovp)
+ - 👉 [Streamer says this to 40,000 viewers, and now gets mass flagged on Twitch for promoting `Genocide`](http://9gag.com/gag/aE0o2KN)<!-- MEMES:END -->
 
 ---
 

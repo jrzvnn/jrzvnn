@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [On the Go with Pikachu](http://9gag.com/gag/ae9VAGq)
- - 😝 [I should have kept my Yaris](http://9gag.com/gag/amomB4y)
- - 💣 [My girlfriend...](http://9gag.com/gag/aByPgVx)
- - 😝 [The man, who prepared a small puddle in the forest in Brazil, wondered and recorded the creatures that would benefit from this water](http://9gag.com/gag/an7v50n)
- - 👉 [Streamer says this to 40,000 viewers, and now gets mass flagged on Twitch for promoting `Genocide`](http://9gag.com/gag/aE0o2KN)<!-- MEMES:END -->
+ - 😝 [Chess](http://9gag.com/gag/aQzA3Pd)
+ - 😝 [Mystery](http://9gag.com/gag/aGyMZX5)
+ - 💣 [I thought this shit only happen in anime, wtf](http://9gag.com/gag/avyE8xn)
+ - 😝 [Streamer says this to 40,000 viewers, and now gets mass flagged on Twitch for promoting `Genocide`](http://9gag.com/gag/aE0o2KN)
+ - 👉 [She knew what was hidden in that leaf](http://9gag.com/gag/a2vyovp)<!-- MEMES:END -->
 
 ---
 

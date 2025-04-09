@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Streamer says this to 40,000 viewers, and now gets mass flagged on Twitch for promoting `Genocide`](http://9gag.com/gag/aE0o2KN)
- - 😝 [Aladin\u2019s lamp is real after all](http://9gag.com/gag/aAy4bBp)
- - 💣 [This is why we can&#39;t have nice things](http://9gag.com/gag/aZZQLMW)
- - 😝 [JWST found that most galaxies rotate in the same direction, so the universe was born rotating. We are in a black hole. Eureka!](http://9gag.com/gag/aQzA35z)
- - 👉 [He&#39;s just like me](http://9gag.com/gag/agm8Bvv)<!-- MEMES:END -->
+ - 😝 [The Chinese are trolling the US about sweatshop work](http://9gag.com/gag/aoy4e4e)
+ - 😝 [War is coming boys!](http://9gag.com/gag/aRBz0bG)
+ - 💣 [Vitaly, an American Streamer went to Phillipines to annoy locals and be a nuisance to civilians. Kept making faces and gestures during a press conference. Now faces up to 24 years in prison in Phillipines.](http://9gag.com/gag/aE0oPOx)
+ - 😝 [Mystery](http://9gag.com/gag/aGyMZX5)
+ - 👉 [The Stupidity of Football...](http://9gag.com/gag/aZZQy6X)<!-- MEMES:END -->
 
 ---
 

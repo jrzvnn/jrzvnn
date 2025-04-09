@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Real estate, huh?](http://9gag.com/gag/aQzAdwq)
+ - 😝 [Dagestan motorcycle driving license test](http://9gag.com/gag/axyb1MW)
  - 😝 [Streamer says this to 40,000 viewers, and now gets mass flagged on Twitch for promoting `Genocide`](http://9gag.com/gag/aE0o2KN)
- - 💣 [She knew what was hidden in that leaf](http://9gag.com/gag/a2vyovp)
- - 😝 [Blocking New Yorkers trying to go home at 6pm on a Monday evening by trapping them in Grand Central Station will NOT win you any fans](http://9gag.com/gag/apRPm6p)
+ - 💣 [Blocking New Yorkers trying to go home at 6pm on a Monday evening by trapping them in Grand Central Station will NOT win you any fans](http://9gag.com/gag/apRPm6p)
+ - 😝 [She knew what was hidden in that leaf](http://9gag.com/gag/a2vyovp)
  - 👉 [Mystery](http://9gag.com/gag/aGyMZX5)<!-- MEMES:END -->
 
 ---

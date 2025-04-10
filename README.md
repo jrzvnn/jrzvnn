@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [BeReal rolls out in-feed ads in the US, says it has an estimated 40M MAUs, including 5M in the US, and 85% of its users are Gen Z &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250410/p42#a250410p42)
  - [OnePlus won&amp;#8217;t say why its Watch 3 suddenly costs $170 more than promised](https://www.theverge.com/news/646730/oneplus-watch-3-tariffs-price-hike-smartwatch)
  - [nEye Systems, which is developing data center chips that use light to send data, raised a $58M Series B led by CapitalG, bringing its total funding to $72.5M &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250410/p41#a250410p41)
- - [Vampire Survivors will let you share saves across platforms — but not on PlayStation](https://www.theverge.com/news/646760/vampire-survivors-cross-saves-playstation-emerald-diorama)
- - [The 24 Best Movies on Apple TV+ Right Now &lpar;April 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
- - [Sonos appoints software veteran Hugo Barra to its board, replacing Mike Volpi, who is stepping down after 15 years; Barra is the head of product at /dev/agents &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/250410/p40#a250410p40)<!-- TECH:END -->
+ - [Best Internet Providers in Las Cruces, New Mexico](https://www.cnet.com/home/internet/best-internet-providers-in-las-cruces-nm/#ftag=CAD590a51e)
+ - [Vampire Survivors will let you share saves across platforms — but not on PlayStation](https://www.theverge.com/news/646760/vampire-survivors-cross-saves-playstation-emerald-diorama)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

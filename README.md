@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Stupidity of Football...](http://9gag.com/gag/aZZQy6X)
- - 😝 [Speaking too early, speaking too much.](http://9gag.com/gag/aYQP7AV)
- - 💣 [War is coming boys!](http://9gag.com/gag/aRBz0bG)
  - 😝 [RunAnEC2For5MinsAndWin](http://9gag.com/gag/aO8D3y6)
- - 👉 [Anhydrous ammonia, coming to a neighborhood near you.](http://9gag.com/gag/aLnG0pV)<!-- MEMES:END -->
+ - 😝 [Fellow cinnamon enthusiast](http://9gag.com/gag/avyEojb)
+ - 💣 [Dat laugh tho\u2026](http://9gag.com/gag/aPA87Gn)
+ - 😝 [Speaking too early, speaking too much.](http://9gag.com/gag/aYQP7AV)
+ - 👉 [Smurf](http://9gag.com/gag/a0e6QVZ)<!-- MEMES:END -->
 
 ---
 

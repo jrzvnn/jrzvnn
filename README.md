@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Moreno Valley, California](https://www.cnet.com/home/internet/best-internet-providers-in-moreno-valley-ca/#ftag=CAD590a51e)
- - [President Trump directs the DOJ to investigate former CISA director Chris Krebs, who was fired after he contradicted Trump&#39;s baseless 2020 election fraud claims &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/250409/p50#a250409p50)
- - [27 Best Travel Tech Gifts in 2025: Must-Have Gadgets to Bring on Their Next Trip](https://www.cnet.com/tech/mobile/best-travel-tech-gifts/#ftag=CAD590a51e)
- - [New Apple Watch ad reveals how the Emergency SOS feature saved a man in Australia](https://appleinsider.com/articles/25/04/09/new-apple-watch-ad-reveals-how-the-emergency-sos-feature-saved-a-man-in-australia?utm_medium=rss)
- - [Lawmakers are skeptical of Zuckerberg’s commitment to free speech](https://www.theverge.com/news/646288/congress-zuckerberg-wynn-williams-careless-people)<!-- TECH:END -->
+ - [In her Senate testimony, Sarah Wynn-Williams alleged Meta briefed China on US AI efforts, ignored warnings on China potentially accessing US user data, and more &lpar;Barbara Ortutay/Associated Press&rpar;](http://www.techmeme.com/250409/p54#a250409p54)
+ - [Alti Play Desk Mat review: A high quality workspace enhancer](https://appleinsider.com/articles/25/04/10/alti-play-desk-mat-review-a-high-quality-workspace-enhancer?utm_medium=rss)
+ - [Amazon Scrubs Wednesday Rocket Launch for Its Starlink Satellite Service Rival](https://www.cnet.com/science/space/amazon-scrubs-wednesday-rocket-launch-for-its-starlink-satellite-service-rival/#ftag=CAD590a51e)
+ - [The US Senate confirms former SEC Commissioner Paul Atkins as SEC chair, succeeding Gary Gensler; Atkins is widely expected to support crypto-friendly policies &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/250409/p53#a250409p53)
+ - [OpenAI countersues Elon Musk, claiming harassment and asking a federal judge to stop Musk from any further attacks in a case over OpenAI&#39;s future structure &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/250409/p52#a250409p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

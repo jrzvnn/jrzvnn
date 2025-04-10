@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Typical day in EU paradise!](http://9gag.com/gag/aZZQrg6)
- - 😝 [The Stupidity of Football...](http://9gag.com/gag/aZZQy6X)
- - 💣 [Someone tell me what this is...](http://9gag.com/gag/adBngQD)
- - 😝 [War is coming boys!](http://9gag.com/gag/aRBz0bG)
- - 👉 [Alcohol makes you do things](http://9gag.com/gag/aGyMdQ0)<!-- MEMES:END -->
+ - 😝 [She is an experienced English tutor. ...](http://9gag.com/gag/aoy4PY2)
+ - 😝 [Hey mister](http://9gag.com/gag/a7oV1Dz)
+ - 💣 [Typical day in EU paradise!](http://9gag.com/gag/aZZQrg6)
+ - 😝 [Alcohol makes you do things](http://9gag.com/gag/aGyMdQ0)
+ - 👉 [Someone tell me what this is...](http://9gag.com/gag/adBngQD)<!-- MEMES:END -->
 
 ---
 

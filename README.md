@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sonos appoints software veteran Hugo Barra to its board, replacing Mike Volpi, who is stepping down after 15 years; Barra is the head of product at /dev/agents &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/250410/p40#a250410p40)
  - [Mike Flanagan is adapting Stephen King’s Carrie for Amazon](https://www.theverge.com/news/646606/mike-flanagan-carrie-amazon-series)
  - [Canva is now in the coding and spreadsheet business](https://www.theverge.com/news/646682/canva-visual-suite-2-0-ai-spreadsheets-creative-workspace)
  - [Sources: Chinese officials acknowledged in a secret December meeting that China was behind Volt Typhoon hacks, linking them to escalating US support for Taiwan &lpar;Dustin Volz/Wall Street Journal&rpar;](http://www.techmeme.com/250410/p39#a250410p39)
- - [DoorDash launches robot deliveries in LA and Chicago in partnership with Coco Robotics, whose robots already deliver for DoorDash sub-brand Wolt in Helsinki &lpar;Lawrence Bonk/Engadget&rpar;](http://www.techmeme.com/250410/p38#a250410p38)
- - [The Trump Administration Is Turning Science Against Itself](https://www.wired.com/story/trump-administration-science/)<!-- TECH:END -->
+ - [DoorDash launches robot deliveries in LA and Chicago in partnership with Coco Robotics, whose robots already deliver for DoorDash sub-brand Wolt in Helsinki &lpar;Lawrence Bonk/Engadget&rpar;](http://www.techmeme.com/250410/p38#a250410p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She wanted to say `I&#39;m a real woman` so bad..](http://9gag.com/gag/aW4vGxA)
- - 😝 [Mine now](http://9gag.com/gag/aByPyB2)
- - 💣 [Rememberwhoyouare](http://9gag.com/gag/aD2ZDqw)
- - 😝 [PERFECT](http://9gag.com/gag/aYQPGeq)
- - 👉 [33 units in one day..](http://9gag.com/gag/aXP4Lgg)<!-- MEMES:END -->
+ - 😝 [What would you do ?](http://9gag.com/gag/a9y8qDL)
+ - 😝 [Imagine a president tweeting, \u2018This is the right time to buy,\u2019 then pausing the tariffs, and later happily saying how his friends made $2.5 billion and $900 million. How are Americans fine with this?](http://9gag.com/gag/agm8Qrw)
+ - 💣 [Typical day in EU paradise!](http://9gag.com/gag/aZZQrg6)
+ - 😝 [Alcohol makes you do things](http://9gag.com/gag/aGyMdQ0)
+ - 👉 [`The key to a happy life is to accept that you are never actually in control`](http://9gag.com/gag/a9y813m)<!-- MEMES:END -->
 
 ---
 

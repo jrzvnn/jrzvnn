@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI updates ChatGPT with a memory feature that references past chats for answers, rolling out to ChatGPT Pro and Plus subscribers, but not in the UK and EEA &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250410/p36#a250410p36)
- - [Sources: Mira Murati&#39;s Thinking Machines Lab is raising upwards of $2B at a $10B+ valuation, after previously seeking $1B at a $9B valuation in February 2025 &lpar;Ben Bergman/Business Insider&rpar;](http://www.techmeme.com/250410/p35#a250410p35)
- - [The tariff apocalypse has not been canceled](https://www.theverge.com/politics/646604/trump-tariffs-reciprocal-pause-canada-mexico-china-de-minimis)
- - [The OnePlus Watch 3 launches in the US after it was pulled to fix the &quot;Meda in China&quot; typo, but for $500, up from $330 OnePlus had previously announced &lpar;Matt Horne/Android Authority&rpar;](http://www.techmeme.com/250410/p34#a250410p34)
- - [Inside Apple Via del Corso -- Rome&#39;s store that&#39;s also a museum](https://appleinsider.com/articles/25/04/10/inside-apple-via-del-corso----romes-store-thats-also-a-museum?utm_medium=rss)<!-- TECH:END -->
+ - [Canva launches Canva AI, which lets users create images and design ideas, and Canva Code, to create mini apps that can be integrated in designs &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250410/p37#a250410p37)
+ - [Trump&amp;#8217;s tariffs &amp;#8216;pause&amp;#8217; could help Nintendo ship more Switch 2s](https://www.theverge.com/news/646693/trump-tariffs-pause-nintendo-switch-2)
+ - [Sony is now selling both Last of Us games in one package](https://www.theverge.com/news/646661/the-last-of-us-complete-ps5-collection-date-trailer)
+ - [Apple quickly shipped 600 tons of iPhones to &amp;#8216;beat&amp;#8217; the new tariffs](https://www.theverge.com/news/646666/iphones-india-shipments-tariffs)
+ - [OpenAI updates ChatGPT with a memory feature that references past chats for answers, rolling out to ChatGPT Pro and Plus subscribers, but not in the UK and EEA &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250410/p36#a250410p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

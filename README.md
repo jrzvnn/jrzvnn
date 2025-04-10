@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The Stupidity of Football...](http://9gag.com/gag/aZZQy6X)
- - 😝 [Alcohol makes you do things](http://9gag.com/gag/aGyMdQ0)
- - 💣 [When things turn out better than you expected](http://9gag.com/gag/a34y4zQ)
  - 😝 [Legal activities](http://9gag.com/gag/aXP4oQV)
- - 👉 [33 units in one day..](http://9gag.com/gag/aXP4Lgg)<!-- MEMES:END -->
+ - 💣 [When things turn out better than you expected](http://9gag.com/gag/a34y4zQ)
+ - 😝 [The Art of the Grift](http://9gag.com/gag/a9y8qGW)
+ - 👉 [Typical day in EU paradise!](http://9gag.com/gag/aZZQrg6)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK home secretary criticizes Steam for hosting No Mercy, a game with sexual violence, rape, and incest; Steam removed the game in the UK, Australia, and Canada &lpar;Vikki Blake/GamesIndustry.biz&rpar;](http://www.techmeme.com/250410/p43#a250410p43)
- - [BeReal rolls out in-feed ads in the US, says it has an estimated 40M MAUs, including 5M in the US, and 85% of its users are Gen Z &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250410/p42#a250410p42)
- - [OnePlus won&amp;#8217;t say why its Watch 3 suddenly costs $170 more than promised](https://www.theverge.com/news/646730/oneplus-watch-3-tariffs-price-hike-smartwatch)
- - [nEye Systems, which is developing data center chips that use light to send data, raised a $58M Series B led by CapitalG, bringing its total funding to $72.5M &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250410/p41#a250410p41)
- - [Best Internet Providers in Las Cruces, New Mexico](https://www.cnet.com/home/internet/best-internet-providers-in-las-cruces-nm/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Garmin’s new cycling headlight includes a 4K incident camera](https://www.theverge.com/news/646777/garmin-cycling-varia-vue-headlight-4k-camera-safety-security)
+ - [Instagram may finally be coming to iPad after 15 years](https://appleinsider.com/articles/25/04/10/instagram-may-finally-be-coming-to-ipad-after-15-years?utm_medium=rss)
+ - [Dodgy report claims Apple Vision Pro 2 arriving by April 2026](https://appleinsider.com/articles/25/04/08/dodgy-report-claims-apple-vision-pro-2-arriving-by-april-2026?utm_medium=rss)
+ - [Leaked iPhone 17 Pro case again shows enlarged camera bump](https://appleinsider.com/articles/25/04/09/leaked-iphone-17-pro-case-again-shows-enlarged-camera-bump?utm_medium=rss)
+ - [Apple is not bringing pop star emojis to your iPhone](https://appleinsider.com/articles/25/04/08/apple-is-not-bringing-pop-star-emojis-to-your-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

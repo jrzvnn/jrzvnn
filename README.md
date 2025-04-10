@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Stupidity of Football...](http://9gag.com/gag/aZZQy6X)
- - 😝 [Owner fills restaurant with fresh water to stop muddy flood waters from entering.](http://9gag.com/gag/aZZQZp9)
+ - 😝 [Hey mister](http://9gag.com/gag/a7oV1Dz)
+ - 😝 [Vitaly, an American Streamer went to Phillipines to annoy locals and be a nuisance to civilians. Kept making faces and gestures during a press conference. Now faces up to 24 years in prison in Phillipines.](http://9gag.com/gag/aE0oPOx)
  - 💣 [Speaking too early, speaking too much.](http://9gag.com/gag/aYQP7AV)
- - 😝 [War is coming boys!](http://9gag.com/gag/aRBz0bG)
- - 👉 [Anhydrous ammonia, coming to a neighborhood near you.](http://9gag.com/gag/aLnG0pV)<!-- MEMES:END -->
+ - 😝 [Legal activities](http://9gag.com/gag/aXP4oQV)
+ - 👉 [Someone tell me what this is...](http://9gag.com/gag/adBngQD)<!-- MEMES:END -->
 
 ---
 

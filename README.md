@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In his annual shareholder letter, Amazon CEO Andy Jassy says the company has to operate like the &quot;world&#39;s largest startup&quot; to stay competitive in AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250410/p22#a250410p22)
  - [China will show fewer US films in response to tariffs](https://www.theverge.com/news/646362/china-reduces-us-film-imports-trump-tariffs)
  - [Analysis: Intel CEO Lip-Bu Tan and his VC firms invested in 600+ Chinese tech companies including 8+ with military ties; a source says he divested the positions &lpar;Reuters&rpar;](http://www.techmeme.com/250410/p21#a250410p21)
- - [An Experimental Obesity Pill Mimics Gastric Bypass Surgery](https://www.wired.com/story/syntis-bio-weight-loss-pill-gastric-bypass/)
- - [A deep dive on what Trump&#39;s Liberation Day tariffs mean for AI infrastructure: how the tariffs work, the USMCA&#39;s GPU loophole, GPU/XPU global trade, and more &lpar;Dylan Patel/SemiAnalysis&rpar;](http://www.techmeme.com/250410/p20#a250410p20)
- - [Data centers&#39; global electricity demand will exceed 945 TWh by 2030, and US data centers are set to account for nearly 50% of electricity demand growth by 2030 &lpar;IEA&rpar;](http://www.techmeme.com/250410/p19#a250410p19)<!-- TECH:END -->
+ - [South of Midnight, Blue Prince Are Now on Xbox Game Pass. GTA 5 Due Soon](https://www.cnet.com/tech/services-and-software/play-south-of-midnight-and-blue-prince-now-gta-5-soon-on-xbox-game-pass/#ftag=CAD590a51e)
+ - [I Went to Chicago&#39;s New Harry Potter Shop: Magical Props, Exclusive Merch, Butterbeer](https://www.cnet.com/pictures/inside-harry-potter-shop-chicago-from-magical-props-to-exclusive-merch-and-butterbeer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

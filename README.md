@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI updates ChatGPT with a memory feature that references past chats for answers, rolling out to ChatGPT Pro and Plus subscribers, but not in the UK and EEA &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250410/p36#a250410p36)
  - [Sources: Mira Murati&#39;s Thinking Machines Lab is raising upwards of $2B at a $10B+ valuation, after previously seeking $1B at a $9B valuation in February 2025 &lpar;Ben Bergman/Business Insider&rpar;](http://www.techmeme.com/250410/p35#a250410p35)
  - [The tariff apocalypse has not been canceled](https://www.theverge.com/politics/646604/trump-tariffs-reciprocal-pause-canada-mexico-china-de-minimis)
  - [The OnePlus Watch 3 launches in the US after it was pulled to fix the &quot;Meda in China&quot; typo, but for $500, up from $330 OnePlus had previously announced &lpar;Matt Horne/Android Authority&rpar;](http://www.techmeme.com/250410/p34#a250410p34)
- - [Inside Apple Via del Corso -- Rome&#39;s store that&#39;s also a museum](https://appleinsider.com/articles/25/04/10/inside-apple-via-del-corso----romes-store-thats-also-a-museum?utm_medium=rss)
- - [The Nasdaq falls 6%+, with Apple down 7%+, Nvidia down 8%+, and Meta down 7%+, as the White House confirms that Trump&#39;s tariffs on China now total 145% &lpar;CNBC&rpar;](http://www.techmeme.com/250410/p33#a250410p33)<!-- TECH:END -->
+ - [Inside Apple Via del Corso -- Rome&#39;s store that&#39;s also a museum](https://appleinsider.com/articles/25/04/10/inside-apple-via-del-corso----romes-store-thats-also-a-museum?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

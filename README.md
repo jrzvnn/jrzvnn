@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how you get drug dealers to stop landing airplanes on your roads](http://9gag.com/gag/apRP9xW)
- - 😝 [Imagine a president tweeting, \u2018This is the right time to buy,\u2019 then pausing the tariffs, and later happily saying how his friends made $2.5 billion and $900 million. How are Americans fine with this?](http://9gag.com/gag/agm8Qrw)
+ - 😝 [Bro&#39;s about to accidentally nuke Soviet union](http://9gag.com/gag/aVvmbNw)
+ - 😝 [Prince Rupert\u2019s Drop vs Hydraulic Press](http://9gag.com/gag/aW4vpKd)
  - 💣 [Legal activities](http://9gag.com/gag/aXP4oQV)
- - 😝 [The Art of the Grift](http://9gag.com/gag/a9y8qGW)
+ - 😝 [Typical day in EU paradise!](http://9gag.com/gag/aZZQrg6)
  - 👉 [When things turn out better than you expected](http://9gag.com/gag/a34y4zQ)<!-- MEMES:END -->
 
 ---

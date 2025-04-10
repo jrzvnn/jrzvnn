@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stunts are finally getting their own category at the Oscars](https://www.theverge.com/news/646835/oscars-stunt-awards-category-2027)
- - [Trump’s Trade War Is Strengthening China’s Soft Power](https://www.wired.com/story/china-tariffs-response-trump-retaliation/)
- - [When Does &#39;Hacks&#39; Season 4 Come Out on Max?](https://www.cnet.com/tech/services-and-software/when-does-hacks-season-4-come-out-on-max/#ftag=CAD590a51e)
- - [Best Internet Providers in Albuquerque, New Mexico](https://www.cnet.com/home/internet/best-internet-providers-in-albuquerque-nm/#ftag=CAD590a51e)
- - [Razer’s PC-to-mobile streaming platform is now available](https://www.theverge.com/news/646810/razer-pc-remote-play-ios-android-game-streaming)<!-- TECH:END -->
+ - [The cybersecurity industry is mostly quiet after Trump canceled SentinelOne&#39;s security clearances for hiring Chris Krebs; SentinelOne says it will cooperate &lpar;Reuters&rpar;](http://www.techmeme.com/250410/p46#a250410p46)
+ - [Bluesky gets a revamped search page and emoji reactions in DMs](https://www.theverge.com/social/646851/bluesky-1-1-search-explore-page-chat-reactions-emoji)
+ - [Here Are The 8 New Emoji Apple Brought To Your iPhone With iOS 18.4](https://www.cnet.com/tech/services-and-software/here-are-the-8-new-emoji-apple-brought-to-your-iphone-with-ios-18-4/#ftag=CAD590a51e)
+ - [Best-Sounding Bluetooth Speakers for 2025](https://www.cnet.com/tech/home-entertainment/best-sounding-bluetooth-speakers/#ftag=CAD590a51e)
+ - [Stunts are finally getting their own category at the Oscars](https://www.theverge.com/news/646835/oscars-stunt-awards-category-2027)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mystery](http://9gag.com/gag/aGyMZX5)
- - 😝 [War is coming boys!](http://9gag.com/gag/aRBz0bG)
- - 💣 [The Stupidity of Football...](http://9gag.com/gag/aZZQy6X)
- - 😝 [Typical day in EU paradise!](http://9gag.com/gag/aZZQrg6)
- - 👉 [Vitaly, an American Streamer went to Phillipines to annoy locals and be a nuisance to civilians. Kept making faces and gestures during a press conference. Now faces up to 24 years in prison in Phillipines.](http://9gag.com/gag/aE0oPOx)<!-- MEMES:END -->
+ - 😝 [Speaking too early, speaking too much.](http://9gag.com/gag/aYQP7AV)
+ - 😝 [Vitaly, an American Streamer went to Phillipines to annoy locals and be a nuisance to civilians. Kept making faces and gestures during a press conference. Now faces up to 24 years in prison in Phillipines.](http://9gag.com/gag/aE0oPOx)
+ - 💣 [War is coming boys!](http://9gag.com/gag/aRBz0bG)
+ - 😝 [The Stupidity of Football...](http://9gag.com/gag/aZZQy6X)
+ - 👉 [Typical day in EU paradise!](http://9gag.com/gag/aZZQrg6)<!-- MEMES:END -->
 
 ---
 

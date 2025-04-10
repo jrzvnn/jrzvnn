@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Razer launches Razer PC Remote Play, which streams PC games to mobile devices running Windows, iOS, iPadOS, or Android at their native resolutions &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/250410/p47#a250410p47)
+ - [The FDA Just Cleared the Dexcom G7 15-Day, the Longest-Lasting CGM](https://www.cnet.com/health/medical/the-fda-just-cleared-the-dexcom-g7-15-day-the-longest-lasting-cgm/#ftag=CAD590a51e)
  - [The cybersecurity industry is mostly quiet after Trump canceled SentinelOne&#39;s security clearances for hiring Chris Krebs; SentinelOne says it will cooperate &lpar;Reuters&rpar;](http://www.techmeme.com/250410/p46#a250410p46)
  - [Bluesky gets a revamped search page and emoji reactions in DMs](https://www.theverge.com/social/646851/bluesky-1-1-search-explore-page-chat-reactions-emoji)
- - [Here Are The 8 New Emoji Apple Brought To Your iPhone With iOS 18.4](https://www.cnet.com/tech/services-and-software/here-are-the-8-new-emoji-apple-brought-to-your-iphone-with-ios-18-4/#ftag=CAD590a51e)
- - [Best-Sounding Bluetooth Speakers for 2025](https://www.cnet.com/tech/home-entertainment/best-sounding-bluetooth-speakers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here Are The 8 New Emoji Apple Brought To Your iPhone With iOS 18.4](https://www.cnet.com/tech/services-and-software/here-are-the-8-new-emoji-apple-brought-to-your-iphone-with-ios-18-4/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

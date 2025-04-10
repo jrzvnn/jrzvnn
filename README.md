@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This would be a sign the world is healing](http://9gag.com/gag/awyLy7Q)
- - 😝 [Every romance movie is just a woman cheating on her hardworking husband](http://9gag.com/gag/azxGxPx)
- - 💣 [Typical day in EU paradise!](http://9gag.com/gag/aZZQrg6)
+ - 😝 [`So f**king hot`](http://9gag.com/gag/aRBzLV7)
+ - 😝 [Legal activities](http://9gag.com/gag/aXP4oQV)
+ - 💣 [The Stupidity of Football...](http://9gag.com/gag/aZZQy6X)
  - 😝 [Someone tell me what this is...](http://9gag.com/gag/adBngQD)
- - 👉 [Alcohol makes you do things](http://9gag.com/gag/aGyMdQ0)<!-- MEMES:END -->
+ - 👉 [Typical day in EU paradise!](http://9gag.com/gag/aZZQrg6)<!-- MEMES:END -->
 
 ---
 

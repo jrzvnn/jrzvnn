@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Stupidity of Football...](http://9gag.com/gag/aZZQy6X)
- - 😝 [Legal activities](http://9gag.com/gag/aXP4oQV)
- - 💣 [When things turn out better than you expected](http://9gag.com/gag/a34y4zQ)
  - 😝 [The Art of the Grift](http://9gag.com/gag/a9y8qGW)
- - 👉 [Typical day in EU paradise!](http://9gag.com/gag/aZZQrg6)<!-- MEMES:END -->
+ - 😝 [When things turn out better than you expected](http://9gag.com/gag/a34y4zQ)
+ - 💣 [Legal activities](http://9gag.com/gag/aXP4oQV)
+ - 😝 [Typical day in EU paradise!](http://9gag.com/gag/aZZQrg6)
+ - 👉 [The Stupidity of Football...](http://9gag.com/gag/aZZQy6X)<!-- MEMES:END -->
 
 ---
 

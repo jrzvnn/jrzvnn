@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Block reaches a $40M settlement with NYDFS for critical gaps in its AML program, particularly concerning risk-based controls and customer due diligence &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/250410/p26#a250410p26)
  - [A UK edition of Saturday Night Live is premiering in 2026](https://www.theverge.com/news/646478/snl-uk-2026-premiere)
  - [How to Fast-Charge Your Smartphone](https://www.wired.com/story/how-to-fast-charge-your-phone/)
- - [Why the Stars May Finally Be Aligning for Rory McIlroy to Capture that Elusive Green Jacket at the Masters](https://www.cnet.com/tech/services-and-software/why-the-stars-may-finally-be-aligning-for-rory-mcilroy-to-capture-the-elusive-green-jacket-at-the-masters/#ftag=CAD590a51e)
- - [Behind the scenes, Siri&#39;s failed iOS 18 upgrade was a decade-long managerial car crash](https://appleinsider.com/articles/25/04/10/behind-the-scenes-siris-failed-ios-18-upgrade-was-a-decade-long-managerial-car-crash?utm_medium=rss)<!-- TECH:END -->
+ - [Behind the scenes, Siri&#39;s failed iOS 18 upgrade was a decade-long managerial car crash](https://appleinsider.com/articles/25/04/10/behind-the-scenes-siris-failed-ios-18-upgrade-was-a-decade-long-managerial-car-crash?utm_medium=rss)
+ - [HDMI 2.2 vs. HDMI 2.1: What You Need to Know](https://www.wired.com/story/hdmi-22-vs-hdmi-21/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

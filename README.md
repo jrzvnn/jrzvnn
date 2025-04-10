@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peak acting &lpar; repost&rpar;](http://9gag.com/gag/adBnLzQ)
- - 😝 [He&#39;s just like me](http://9gag.com/gag/agm8Bvv)
- - 💣 [Always ready for some coke...](http://9gag.com/gag/a9y8qjm)
- - 😝 [The phone thief exercise program](http://9gag.com/gag/a7oVWR2)
- - 👉 [Beer girl&#39;s pit crew reloads beer tank during a Japanese baseball match](http://9gag.com/gag/aGyMp1w)<!-- MEMES:END -->
+ - 😝 [History fact](http://9gag.com/gag/aMVnZoA)
+ - 😝 [Aladin\u2019s lamp is real after all](http://9gag.com/gag/aAy4bBp)
+ - 💣 [Speaking too early, speaking too much.](http://9gag.com/gag/aYQP7AV)
+ - 😝 [The Stupidity of Football...](http://9gag.com/gag/aZZQy6X)
+ - 👉 [Anhydrous ammonia, coming to a neighborhood near you.](http://9gag.com/gag/aLnG0pV)<!-- MEMES:END -->
 
 ---
 

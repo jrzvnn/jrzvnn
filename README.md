@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China will show fewer US films in response to tariffs](https://www.theverge.com/news/646362/china-reduces-us-film-imports-trump-tariffs)
+ - [Analysis: Intel CEO Lip-Bu Tan and his VC firms invested in 600+ Chinese tech companies including 8+ with military ties; a source says he divested the positions &lpar;Reuters&rpar;](http://www.techmeme.com/250410/p21#a250410p21)
+ - [An Experimental Obesity Pill Mimics Gastric Bypass Surgery](https://www.wired.com/story/syntis-bio-weight-loss-pill-gastric-bypass/)
  - [A deep dive on what Trump&#39;s Liberation Day tariffs mean for AI infrastructure: how the tariffs work, the USMCA&#39;s GPU loophole, GPU/XPU global trade, and more &lpar;Dylan Patel/SemiAnalysis&rpar;](http://www.techmeme.com/250410/p20#a250410p20)
- - [Data centers&#39; global electricity demand will exceed 945 TWh by 2030, and US data centers are set to account for nearly 50% of electricity demand growth by 2030 &lpar;IEA&rpar;](http://www.techmeme.com/250410/p19#a250410p19)
- - [Greenpeace: emissions from AI chip production rose 357% in 2024, driven by a heavy reliance on fossil fuels, outpacing a 351% rise in electricity consumption &lpar;Aaron Clark/Bloomberg&rpar;](http://www.techmeme.com/250410/p18#a250410p18)
- - [SignalGate Is Making People Rethink Who’s in Their Group Chats](https://www.wired.com/story/signalgate-is-making-people-rethink-whos-in-their-group-chats/)
- - [Sources: Apple chartered cargo flights to ferry 600 tons of iPhones, or up to 1.5M units, to the US from India; a source says Apple &quot;wanted to beat the tariff&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/250410/p17#a250410p17)<!-- TECH:END -->
+ - [Data centers&#39; global electricity demand will exceed 945 TWh by 2030, and US data centers are set to account for nearly 50% of electricity demand growth by 2030 &lpar;IEA&rpar;](http://www.techmeme.com/250410/p19#a250410p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

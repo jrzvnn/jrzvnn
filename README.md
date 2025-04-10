@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Greenpeace: emissions from AI chip production rose 357% in 2024, driven by a heavy reliance on fossil fuels, outpacing a 351% rise in electricity consumption &lpar;Aaron Clark/Bloomberg&rpar;](http://www.techmeme.com/250410/p18#a250410p18)
+ - [SignalGate Is Making People Rethink Who’s in Their Group Chats](https://www.wired.com/story/signalgate-is-making-people-rethink-whos-in-their-group-chats/)
+ - [Sources: Apple chartered cargo flights to ferry 600 tons of iPhones, or up to 1.5M units, to the US from India; a source says Apple &quot;wanted to beat the tariff&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/250410/p17#a250410p17)
  - [In an interview with Meta CTO Andrew Bosworth, James Cameron says he is cautiously optimistic about generative AI&#39;s role in filmmaking, including cutting costs &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/250410/p16#a250410p16)
- - [7 Best Natural Deodorants, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-natural-deodorants/)
- - [Get Ready to See Tariff Surcharges on Your Receipts](https://www.wired.com/story/get-ready-to-see-tariff-surcharges-on-your-receipts/)
- - [SentinelLabs: AkiraBot spammers exploited OpenAI&#39;s gpt-4o-mini-based API to create unique messages, bypassing spam filters to target 80K+ sites in four months &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/250410/p15#a250410p15)
- - [Ziroh Labs and the Indian Institute of Technology partner to launch Kompact AI, which they say is an affordable AI system to run large models on standard CPUs &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250410/p14#a250410p14)<!-- TECH:END -->
+ - [7 Best Natural Deodorants, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-natural-deodorants/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

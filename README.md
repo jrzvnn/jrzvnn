@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DoorDash launches robot deliveries in LA and Chicago in partnership with Coco Robotics, whose robots already deliver for DoorDash sub-brand Wolt in Helsinki &lpar;Lawrence Bonk/Engadget&rpar;](http://www.techmeme.com/250410/p38#a250410p38)
+ - [The Trump Administration Is Turning Science Against Itself](https://www.wired.com/story/trump-administration-science/)
  - [Sonos appoints software veteran Hugo Barra to its board after app troubles](https://www.theverge.com/news/646609/sonos-hugo-barra-board-of-directors)
  - [The best foldable phone you can buy](https://www.theverge.com/tech/635839/best-foldable-phone)
- - [Canva launches Canva AI, which lets users create images and design ideas, and Canva Code, to create mini apps that can be integrated in designs &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250410/p37#a250410p37)
- - [Trump&amp;#8217;s tariffs &amp;#8216;pause&amp;#8217; could help Nintendo ship more Switch 2s](https://www.theverge.com/news/646693/trump-tariffs-pause-nintendo-switch-2)
- - [Sony is now selling both Last of Us games in one package](https://www.theverge.com/news/646661/the-last-of-us-complete-ps5-collection-date-trailer)<!-- TECH:END -->
+ - [Canva launches Canva AI, which lets users create images and design ideas, and Canva Code, to create mini apps that can be integrated in designs &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250410/p37#a250410p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

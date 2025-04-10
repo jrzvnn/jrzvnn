@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Typical day in EU paradise!](http://9gag.com/gag/aZZQrg6)
  - 😝 [`So f**king hot`](http://9gag.com/gag/aRBzLV7)
- - 😝 [Legal activities](http://9gag.com/gag/aXP4oQV)
- - 💣 [The Stupidity of Football...](http://9gag.com/gag/aZZQy6X)
- - 😝 [Someone tell me what this is...](http://9gag.com/gag/adBngQD)
- - 👉 [Typical day in EU paradise!](http://9gag.com/gag/aZZQrg6)<!-- MEMES:END -->
+ - 💣 [Someone tell me what this is...](http://9gag.com/gag/adBngQD)
+ - 😝 [Alcohol makes you do things](http://9gag.com/gag/aGyMdQ0)
+ - 👉 [Imagine a president tweeting, \u2018This is the right time to buy,\u2019 then pausing the tariffs, and later happily saying how his friends made $2.5 billion and $900 million. How are Americans fine with this?](http://9gag.com/gag/agm8Qrw)<!-- MEMES:END -->
 
 ---
 

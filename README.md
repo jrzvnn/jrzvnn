@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hmm](http://9gag.com/gag/aKGWdQb)
- - 😝 [Dat laugh tho\u2026](http://9gag.com/gag/aPA87Gn)
- - 💣 [War is coming boys!](http://9gag.com/gag/aRBz0bG)
- - 😝 [Speaking too early, speaking too much.](http://9gag.com/gag/aYQP7AV)
- - 👉 [A local tradtion where girls compete to capture a man, and ... ? guess what next](http://9gag.com/gag/abAWrVL)<!-- MEMES:END -->
+ - 😝 [Peak acting &lpar; repost&rpar;](http://9gag.com/gag/adBnLzQ)
+ - 😝 [He&#39;s just like me](http://9gag.com/gag/agm8Bvv)
+ - 💣 [Always ready for some coke...](http://9gag.com/gag/a9y8qjm)
+ - 😝 [The phone thief exercise program](http://9gag.com/gag/a7oVWR2)
+ - 👉 [Beer girl&#39;s pit crew reloads beer tank during a Japanese baseball match](http://9gag.com/gag/aGyMp1w)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Switch 2&#39;s Mouse Controls Could Make it an FPS-Friendly Console](https://www.cnet.com/tech/gaming/the-switch-2s-mouse-controls-could-make-it-an-fps-friendly-console/#ftag=CAD590a51e)
- - [Asus Vivobook S15 Review: Old-School OLED Laptop Powered by Modern AI CPU](https://www.cnet.com/tech/computing/asus-vivobook-s15-review-old-school-oled-laptop-powered-by-modern-ai-cpu/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for April 10, #669](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-10-669/#ftag=CAD590a51e)
- - [Play Blue Prince Now, Hogwarts Legacy and More Soon on PlayStation Plus](https://www.cnet.com/tech/services-and-software/play-blue-prince-now-hogwarts-legacy-and-more-soon-on-playstation-plus/#ftag=CAD590a51e)
- - [34 Viral TikTok Gifts That Are Actually Worth a Look &lpar;2025&rpar;](https://www.wired.com/gallery/best-viral-tiktok-gadgets/)<!-- TECH:END -->
+ - [Google Pixel 9a Review: Still the Best Smartphone](https://www.wired.com/review/google-pixel-9a/)
+ - [Here come the e-bikes using DJI’s excellent Avinox drive system](https://www.theverge.com/news/645702/djis-avinox-drive-system-finds-a-home-in-several-new-e-bikes)
+ - [The Flipper Zero creators have a new tool to fight work distractions](https://www.theverge.com/news/645883/the-flipper-zero-creators-have-a-new-tool-to-fight-work-distractions)
+ - [Google Pixel 9A review: a midrange phone done right](https://www.theverge.com/phone-review/646135/google-pixel-9a-review-a-midrange-phone-done-right)
+ - [watchOS also rumored to get visionOS design elements](https://appleinsider.com/articles/25/04/10/rumor-repeats-claim-watchos-to-get-visionos-design-elements-makes-wild-ai-claim?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

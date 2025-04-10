@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The tariff apocalypse has not been canceled](https://www.theverge.com/politics/646604/trump-tariffs-reciprocal-pause-canada-mexico-china-de-minimis)
+ - [The OnePlus Watch 3 launches in the US after it was pulled to fix the &quot;Meda in China&quot; typo, but for $500, up from $330 OnePlus had previously announced &lpar;Matt Horne/Android Authority&rpar;](http://www.techmeme.com/250410/p34#a250410p34)
  - [Inside Apple Via del Corso -- Rome&#39;s store that&#39;s also a museum](https://appleinsider.com/articles/25/04/10/inside-apple-via-del-corso----romes-store-thats-also-a-museum?utm_medium=rss)
  - [The Nasdaq falls 6%+, with Apple down 7%+, Nvidia down 8%+, and Meta down 7%+, as the White House confirms that Trump&#39;s tariffs on China now total 145% &lpar;CNBC&rpar;](http://www.techmeme.com/250410/p33#a250410p33)
- - [Google says it will give a 71% discount to US federal agencies for Workspace, as it looks to capitalize on the Trump administration&#39;s cost-cutting push &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/250410/p32#a250410p32)
- - [Trump&#39;s Trade War With China Is Now Hurting Hollywood—and US Soft Power](https://www.wired.com/story/trumps-trade-war-with-china-is-now-hurting-hollywood-and-us-soft-power/)
- - [US iPhone production&#39;s main challenge is a century of big business labor decisions](https://appleinsider.com/articles/25/04/10/us-iphone-productions-main-challenge-is-a-century-of-big-business-labor-decisions?utm_medium=rss)<!-- TECH:END -->
+ - [Google says it will give a 71% discount to US federal agencies for Workspace, as it looks to capitalize on the Trump administration&#39;s cost-cutting push &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/250410/p32#a250410p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Picking up a ride in London these days ..](http://9gag.com/gag/aLnGnov)
- - 😝 [Vitaly, an American Streamer went to Phillipines to annoy locals and be a nuisance to civilians. Kept making faces and gestures during a press conference. Now faces up to 24 years in prison in Phillipines.](http://9gag.com/gag/aE0oPOx)
- - 💣 [Someone tell me what this is...](http://9gag.com/gag/adBngQD)
+ - 😝 [War is coming boys!](http://9gag.com/gag/aRBz0bG)
+ - 😝 [The Stupidity of Football...](http://9gag.com/gag/aZZQy6X)
+ - 💣 [Legal activities](http://9gag.com/gag/aXP4oQV)
  - 😝 [Hey mister](http://9gag.com/gag/a7oV1Dz)
- - 👉 [A local tradtion where girls compete to capture a man, and ... ? guess what next](http://9gag.com/gag/abAWrVL)<!-- MEMES:END -->
+ - 👉 [RunAnEC2For5MinsAndWin](http://9gag.com/gag/aO8D3y6)<!-- MEMES:END -->
 
 ---
 

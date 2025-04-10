@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In an interview with Meta CTO Andrew Bosworth, James Cameron says he is cautiously optimistic about generative AI&#39;s role in filmmaking, including cutting costs &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/250410/p16#a250410p16)
+ - [7 Best Natural Deodorants, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-natural-deodorants/)
+ - [Get Ready to See Tariff Surcharges on Your Receipts](https://www.wired.com/story/get-ready-to-see-tariff-surcharges-on-your-receipts/)
  - [SentinelLabs: AkiraBot spammers exploited OpenAI&#39;s gpt-4o-mini-based API to create unique messages, bypassing spam filters to target 80K+ sites in four months &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/250410/p15#a250410p15)
- - [Ziroh Labs and the Indian Institute of Technology partner to launch Kompact AI, which they say is an affordable AI system to run large models on standard CPUs &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250410/p14#a250410p14)
- - [Shopping for an EV or Plug-In Hybrid? Here Are the Ones Built in the US](https://www.wired.com/story/all-the-evs-and-hybrids-built-in-the-us/)
- - [Google DeepMind CEO Demis Hassabis says Google would add support for Anthropic&#39;s Model Context Protocol to its Gemini models and SDK, but offered no timeframe &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250410/p13#a250410p13)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 10, #199](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-10-199/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ziroh Labs and the Indian Institute of Technology partner to launch Kompact AI, which they say is an affordable AI system to run large models on standard CPUs &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250410/p14#a250410p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Incident.io, which streamlines incident management for organizations with 200+ users, raised a $62M Series B led by Insight, sources say at a ~$400M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250410/p25#a250410p25)
  - [What&amp;#8217;s on your desk, Allison Johnson?](https://www.theverge.com/tech/644860/whats-on-your-desk-allison-johnson)
  - [8 Best Cheap Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-cheap-phones/)
  - [Yield Sec: US online gross gambling revenue was $90.1B in 2024, of which $67.1B went to illegal casinos; unlicensed operators in California had $5.5B in revenue &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/250410/p24#a250410p24)
- - [Big Tech’s tax bill is on the table in tariff talks](https://www.theverge.com/policy/645830/digital-services-tax-uk-us-trade-negotiaton-tariffs-silicon-valley)
- - [Instagram may finally be coming to iPad after 15 years](https://appleinsider.com/articles/25/04/10/instagram-may-finally-be-coming-to-ipad-after-15-years?utm_medium=rss)<!-- TECH:END -->
+ - [Big Tech’s tax bill is on the table in tariff talks](https://www.theverge.com/policy/645830/digital-services-tax-uk-us-trade-negotiaton-tariffs-silicon-valley)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

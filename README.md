@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kevin Rose and Alexis Ohanian&#39;s Digg launches a $5 early-access program called Groundbreakers, giving a &quot;front-row seat to how Digg is being rebuilt&quot; &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/250410/p31#a250410p31)
- - [Labor Leaders Fear Elon Musk and DOGE Could Gain Access to Whistleblower Files](https://www.wired.com/story/elon-musk-doge-osha-whistleblower-files/)
- - [Here come the e-bikes using DJI’s excellent Avinox drive system](https://www.theverge.com/news/645702/dji-avinox-e-bikes-drive-system)
- - [Microsoft’s 50th birthday party sure was eventful](https://www.theverge.com/notepad-microsoft-newsletter/646391/microsoft-50th-birthday-party-event-notepad)
- - [OpenAI gets ready to launch GPT-4.1](https://www.theverge.com/news/646458/openai-gpt-4-1-ai-model)<!-- TECH:END -->
+ - [Inside Apple Via del Corso -- Rome&#39;s store that&#39;s also a museum](https://appleinsider.com/articles/25/04/10/inside-apple-via-del-corso----romes-store-thats-also-a-museum?utm_medium=rss)
+ - [The Nasdaq falls 6%+, with Apple down 7%+, Nvidia down 8%+, and Meta down 7%+, as the White House confirms that Trump&#39;s tariffs on China now total 145% &lpar;CNBC&rpar;](http://www.techmeme.com/250410/p33#a250410p33)
+ - [Google says it will give a 71% discount to US federal agencies for Workspace, as it looks to capitalize on the Trump administration&#39;s cost-cutting push &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/250410/p32#a250410p32)
+ - [Trump&#39;s Trade War With China Is Now Hurting Hollywood—and US Soft Power](https://www.wired.com/story/trumps-trade-war-with-china-is-now-hurting-hollywood-and-us-soft-power/)
+ - [US iPhone production&#39;s main challenge is a century of big business labor decisions](https://appleinsider.com/articles/25/04/10/us-iphone-productions-main-challenge-is-a-century-of-big-business-labor-decisions?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

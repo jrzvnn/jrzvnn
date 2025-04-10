@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Solid, which offers APIs for banking, payments, cards, and crypto products and had raised $81M, files for Chapter 11, citing a &quot;costly&quot; lawsuit with FTV Capital &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250410/p8#a250410p8)
  - [Tel Aviv-based Anecdotes, which helps automate corporate governance, risk, and compliance processes, raised a $30M Series B extension, taking the round to $55M &lpar;Sophie Shulman/CTech&rpar;](http://www.techmeme.com/250410/p7#a250410p7)
  - [Artisan, which is building AI sales development representatives, raised a $25M Series A led by Glade Brook Capital, after raising $12M in September 2024 &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250410/p6#a250410p6)
  - [Austin-based network security startup Portnox, which develops zero-trust access control tools, raised a $37.5M Series B, taking its total funding to $59.5M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250410/p5#a250410p5)
- - [OpenAI launches the Pioneers Program, which aims to work with &quot;multiple companies&quot; to design tailored AI benchmarks for specific domains like legal and finance &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250410/p4#a250410p4)
- - [Universal&#39;s UK Theme Park Will Teach Brits Like Me How to Have High-Octane Fun](https://www.cnet.com/tech/universals-uk-theme-park-will-teach-brits-like-me-how-to-have-high-octane-fun/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI launches the Pioneers Program, which aims to work with &quot;multiple companies&quot; to design tailored AI benchmarks for specific domains like legal and finance &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250410/p4#a250410p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

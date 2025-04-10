@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Block reaches a $40M settlement with NYDFS for critical gaps in its AML program, particularly concerning risk-based controls and customer due diligence &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/250410/p26#a250410p26)
- - [A UK edition of Saturday Night Live is premiering in 2026](https://www.theverge.com/news/646478/snl-uk-2026-premiere)
- - [How to Fast-Charge Your Smartphone](https://www.wired.com/story/how-to-fast-charge-your-phone/)
- - [Behind the scenes, Siri&#39;s failed iOS 18 upgrade was a decade-long managerial car crash](https://appleinsider.com/articles/25/04/10/behind-the-scenes-siris-failed-ios-18-upgrade-was-a-decade-long-managerial-car-crash?utm_medium=rss)
- - [HDMI 2.2 vs. HDMI 2.1: What You Need to Know](https://www.wired.com/story/hdmi-22-vs-hdmi-21/)<!-- TECH:END -->
+ - [Why DOGE is killing the agency that keeps banks from ripping you off](https://www.theverge.com/decoder-podcast-with-nilay-patel/646441/doge-trump-musk-cfpb-rohit-chopra-banks-fraud-scams)
+ - [There are several ways to save on a Google Pixel 9A](https://www.theverge.com/tech/646429/pixel-9a-gift-card-carrier-discount-sale)
+ - [Apple&#39;s high storage prices may be key to mitigating iPhone 17 Pro price rises](https://appleinsider.com/articles/25/04/10/apples-high-storage-prices-may-be-key-to-mitigating-iphone-17-pro-price-rises?utm_medium=rss)
+ - [Report details the internal chaos behind Apple&#39;s Siri failure, in part due to poor leadership, with John Giannandrea&#39;s AI/ML group dubbed &quot;AIMLess&quot; internally &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/250410/p27#a250410p27)
+ - [Block reaches a $40M settlement with NYDFS for critical gaps in its AML program, particularly concerning risk-based controls and customer due diligence &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/250410/p26#a250410p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

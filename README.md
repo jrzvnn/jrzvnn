@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Stupidity of Football...](http://9gag.com/gag/aZZQy6X)
- - 😝 [War is coming boys!](http://9gag.com/gag/aRBz0bG)
- - 💣 [Speaking too early, speaking too much.](http://9gag.com/gag/aYQP7AV)
  - 😝 [Anhydrous ammonia, coming to a neighborhood near you.](http://9gag.com/gag/aLnG0pV)
- - 👉 [Someone tell me what this is...](http://9gag.com/gag/adBngQD)<!-- MEMES:END -->
+ - 😝 [War is coming boys!](http://9gag.com/gag/aRBz0bG)
+ - 💣 [Someone tell me what this is...](http://9gag.com/gag/adBngQD)
+ - 😝 [We don&#39;t have to live like this](http://9gag.com/gag/aAy4yMo)
+ - 👉 [Vitaly, an American Streamer went to Phillipines to annoy locals and be a nuisance to civilians. Kept making faces and gestures during a press conference. Now faces up to 24 years in prison in Phillipines.](http://9gag.com/gag/aE0oPOx)<!-- MEMES:END -->
 
 ---
 

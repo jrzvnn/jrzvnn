@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The Art of the Grift](http://9gag.com/gag/a9y8qGW)
  - 😝 [Typical day in EU paradise!](http://9gag.com/gag/aZZQrg6)
- - 😝 [Legal activities](http://9gag.com/gag/aXP4oQV)
- - 💣 [Alcohol makes you do things](http://9gag.com/gag/aGyMdQ0)
- - 😝 [Imagine a president tweeting, \u2018This is the right time to buy,\u2019 then pausing the tariffs, and later happily saying how his friends made $2.5 billion and $900 million. How are Americans fine with this?](http://9gag.com/gag/agm8Qrw)
- - 👉 [The Art of the Grift](http://9gag.com/gag/a9y8qGW)<!-- MEMES:END -->
+ - 💣 [Legal activities](http://9gag.com/gag/aXP4oQV)
+ - 😝 [Alcohol makes you do things](http://9gag.com/gag/aGyMdQ0)
+ - 👉 [Imagine a president tweeting, \u2018This is the right time to buy,\u2019 then pausing the tariffs, and later happily saying how his friends made $2.5 billion and $900 million. How are Americans fine with this?](http://9gag.com/gag/agm8Qrw)<!-- MEMES:END -->
 
 ---
 

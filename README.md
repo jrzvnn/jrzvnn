@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She is an experienced English tutor. ...](http://9gag.com/gag/aoy4PY2)
- - 😝 [Hey mister](http://9gag.com/gag/a7oV1Dz)
+ - 😝 [This would be a sign the world is healing](http://9gag.com/gag/awyLy7Q)
+ - 😝 [Every romance movie is just a woman cheating on her hardworking husband](http://9gag.com/gag/azxGxPx)
  - 💣 [Typical day in EU paradise!](http://9gag.com/gag/aZZQrg6)
- - 😝 [Alcohol makes you do things](http://9gag.com/gag/aGyMdQ0)
- - 👉 [Someone tell me what this is...](http://9gag.com/gag/adBngQD)<!-- MEMES:END -->
+ - 😝 [Someone tell me what this is...](http://9gag.com/gag/adBngQD)
+ - 👉 [Alcohol makes you do things](http://9gag.com/gag/aGyMdQ0)<!-- MEMES:END -->
 
 ---
 

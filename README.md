@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SILQ, a new B2B e-commerce firm formed by the merger of Bangladesh-based ShopUp and Saudi Arabia-based Sary, raised $110M co-led by Sanabil and Valar Ventures &lpar;Bloomberg&rpar;](http://www.techmeme.com/250410/p3#a250410p3)
  - [xAI launches an API for Grok 3 and Grok 3 mini with &quot;reasoning&quot; capabilities; Grok 3 costs $3/$15 per million input/output tokens, Grok 3 mini costs $0.30/$0.50 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250410/p2#a250410p2)
  - [A look at Isomorphic Labs, a life sciences startup spun out of Google DeepMind aiming to &quot;solve all disease&quot; through AI-powered drug discovery &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250410/p1#a250410p1)
  - [You Can Play the New Game in ‘Black Mirror’—and It’s an Adorable Nightmare](https://www.wired.com/story/thronglets-game-black-mirror-netflix-night-school/)
- - [Court document: NSO Group&#39;s spyware Pegasus was used to target 1,223 WhatsApp users in 51 countries in a 2019 attack; Mexico led with 456 victims, India had 100 &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250409/p58#a250409p58)
- - [Google introduces Firebase Studio, an AI-powered platform that lets users create custom mobile and web apps, APIs, backends, and frontends from their browser &lpar;Taryn Plumb/VentureBeat&rpar;](http://www.techmeme.com/250409/p57#a250409p57)<!-- TECH:END -->
+ - [Court document: NSO Group&#39;s spyware Pegasus was used to target 1,223 WhatsApp users in 51 countries in a 2019 attack; Mexico led with 456 victims, India had 100 &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250409/p58#a250409p58)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

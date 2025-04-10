@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SILQ, a new B2B e-commerce firm formed by the merger of Bangladesh-based ShopUp and Saudi Arabia-based Sary, raised $110M co-led by Sanabil and Valar Ventures &lpar;Bloomberg&rpar;](http://www.techmeme.com/250410/p3#a250410p3)
- - [xAI launches an API for Grok 3 and Grok 3 mini with &quot;reasoning&quot; capabilities; Grok 3 costs $3/$15 per million input/output tokens, Grok 3 mini costs $0.30/$0.50 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250410/p2#a250410p2)
- - [A look at Isomorphic Labs, a life sciences startup spun out of Google DeepMind aiming to &quot;solve all disease&quot; through AI-powered drug discovery &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250410/p1#a250410p1)
- - [You Can Play the New Game in ‘Black Mirror’—and It’s an Adorable Nightmare](https://www.wired.com/story/thronglets-game-black-mirror-netflix-night-school/)
- - [Court document: NSO Group&#39;s spyware Pegasus was used to target 1,223 WhatsApp users in 51 countries in a 2019 attack; Mexico led with 456 victims, India had 100 &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250409/p58#a250409p58)<!-- TECH:END -->
+ - [Tel Aviv-based Anecdotes, which helps automate corporate governance, risk, and compliance processes, raised a $30M Series B extension, taking the round to $55M &lpar;Sophie Shulman/CTech&rpar;](http://www.techmeme.com/250410/p7#a250410p7)
+ - [Artisan, which is building AI sales development representatives, raised a $25M Series A led by Glade Brook Capital, after raising $12M in September 2024 &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250410/p6#a250410p6)
+ - [Austin-based network security startup Portnox, which develops zero-trust access control tools, raised a $37.5M Series B, taking its total funding to $59.5M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250410/p5#a250410p5)
+ - [OpenAI launches the Pioneers Program, which aims to work with &quot;multiple companies&quot; to design tailored AI benchmarks for specific domains like legal and finance &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250410/p4#a250410p4)
+ - [Universal&#39;s UK Theme Park Will Teach Brits Like Me How to Have High-Octane Fun](https://www.cnet.com/tech/universals-uk-theme-park-will-teach-brits-like-me-how-to-have-high-octane-fun/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

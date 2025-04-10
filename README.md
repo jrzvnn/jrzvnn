@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Art of the Grift](http://9gag.com/gag/a9y8qGW)
- - 😝 [When things turn out better than you expected](http://9gag.com/gag/a34y4zQ)
+ - 😝 [This is how you get drug dealers to stop landing airplanes on your roads](http://9gag.com/gag/apRP9xW)
+ - 😝 [Imagine a president tweeting, \u2018This is the right time to buy,\u2019 then pausing the tariffs, and later happily saying how his friends made $2.5 billion and $900 million. How are Americans fine with this?](http://9gag.com/gag/agm8Qrw)
  - 💣 [Legal activities](http://9gag.com/gag/aXP4oQV)
- - 😝 [Typical day in EU paradise!](http://9gag.com/gag/aZZQrg6)
- - 👉 [The Stupidity of Football...](http://9gag.com/gag/aZZQy6X)<!-- MEMES:END -->
+ - 😝 [The Art of the Grift](http://9gag.com/gag/a9y8qGW)
+ - 👉 [When things turn out better than you expected](http://9gag.com/gag/a34y4zQ)<!-- MEMES:END -->
 
 ---
 

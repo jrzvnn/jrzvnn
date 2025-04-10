@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Trump’s Trade War Is Strengthening China’s Soft Power](https://www.wired.com/story/china-tariffs-response-trump-retaliation/)
+ - [When Does &#39;Hacks&#39; Season 4 Come Out on Max?](https://www.cnet.com/tech/services-and-software/when-does-hacks-season-4-come-out-on-max/#ftag=CAD590a51e)
+ - [Best Internet Providers in Albuquerque, New Mexico](https://www.cnet.com/home/internet/best-internet-providers-in-albuquerque-nm/#ftag=CAD590a51e)
  - [Razer’s PC-to-mobile streaming platform is now available](https://www.theverge.com/news/646810/razer-pc-remote-play-ios-android-game-streaming)
- - [Some Meta insiders fear FAIR is &quot;dying a slow death&quot; as Joelle Pineau exits; Yann LeCun says it&#39;s &quot;a new beginning&quot; focused on &quot;Advanced Machine Intelligence&quot; &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/250410/p45#a250410p45)
- - [watchOS also rumored to get visionOS design elements](https://appleinsider.com/articles/25/04/10/rumor-repeats-claim-watchos-to-get-visionos-design-elements-makes-wild-ai-claim?utm_medium=rss)
- - [A Room With a View: Check Out This Stunning Aurora From the ISS](https://www.cnet.com/science/space/a-room-with-a-view-check-out-this-stunning-aurora-from-the-iss/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Some Meta insiders fear FAIR is &quot;dying a slow death&quot; as Joelle Pineau exits; Yann LeCun says it&#39;s &quot;a new beginning&quot; focused on &quot;Advanced Machine Intelligence&quot; &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/250410/p45#a250410p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [War is coming boys!](http://9gag.com/gag/aRBz0bG)
- - 😝 [The Stupidity of Football...](http://9gag.com/gag/aZZQy6X)
- - 💣 [Legal activities](http://9gag.com/gag/aXP4oQV)
+ - 😝 [Anhydrous ammonia, coming to a neighborhood near you.](http://9gag.com/gag/aLnG0pV)
+ - 😝 [Speaking too early, speaking too much.](http://9gag.com/gag/aYQP7AV)
+ - 💣 [The Art of the Grift](http://9gag.com/gag/a9y8qGW)
  - 😝 [Hey mister](http://9gag.com/gag/a7oV1Dz)
- - 👉 [RunAnEC2For5MinsAndWin](http://9gag.com/gag/aO8D3y6)<!-- MEMES:END -->
+ - 👉 [The Stupidity of Football...](http://9gag.com/gag/aZZQy6X)<!-- MEMES:END -->
 
 ---
 

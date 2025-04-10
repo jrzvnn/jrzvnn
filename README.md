@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Garmin’s new cycling headlight includes a 4K incident camera](https://www.theverge.com/news/646777/garmin-cycling-varia-vue-headlight-4k-camera-safety-security)
- - [Instagram may finally be coming to iPad after 15 years](https://appleinsider.com/articles/25/04/10/instagram-may-finally-be-coming-to-ipad-after-15-years?utm_medium=rss)
- - [Dodgy report claims Apple Vision Pro 2 arriving by April 2026](https://appleinsider.com/articles/25/04/08/dodgy-report-claims-apple-vision-pro-2-arriving-by-april-2026?utm_medium=rss)
- - [Leaked iPhone 17 Pro case again shows enlarged camera bump](https://appleinsider.com/articles/25/04/09/leaked-iphone-17-pro-case-again-shows-enlarged-camera-bump?utm_medium=rss)
- - [Apple is not bringing pop star emojis to your iPhone](https://appleinsider.com/articles/25/04/08/apple-is-not-bringing-pop-star-emojis-to-your-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [The Nasdaq falls 4%, with Meta closing down 7%, Nvidia down 6%, Amazon down 5%, and Apple down 4% as the White House say Trump&#39;s tariffs on China now total 145% &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250410/p44#a250410p44)
+ - [NHTSA staffers evaluating the risks of self-driving cars were reportedly fired by DOGE](https://www.theverge.com/news/646797/nhtsa-staffers-office-vehicle-automation-safety-firing-doge-tesla)
+ - [AAPL crumble: stock hit again, as White House clarifies 145% China tariff rate](https://appleinsider.com/articles/25/04/10/aapl-crumble-stock-hit-again-as-white-house-clarifies-145-china-tariff-rate?utm_medium=rss)
+ - [Hundreds of Video Game Workers Join New Union as Trump Attacks Labor Rights](https://www.wired.com/story/hundreds-of-video-game-workers-join-new-union-as-trump-attacks-labor-rights/)
+ - [Garmin’s new cycling headlight includes a 4K incident camera](https://www.theverge.com/news/646777/garmin-cycling-varia-vue-headlight-4k-camera-safety-security)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

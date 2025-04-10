@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TSMC reports Q1 revenue up ~42% YoY to $25.5B, above est. and its fastest revenue growth since 2022, as electronics makers stockpiled chips ahead of US tariffs &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/250410/p11#a250410p11)
  - [Trump&#39;s global tariffs are an opportunity for EU to bolster its tech sector via strategic investments, streamlining regulations, and deepening its single market &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/250410/p10#a250410p10)
  - [Q&amp;A with CMU professor and OpenAI board member Zico Kolter on CMU&#39;s partnership with Google, the dangers of AI agents interacting with one another, and more &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250410/p9#a250410p9)
  - [I Played the Thronglets Game From Black Mirror. Here&#39;s What I Learned](https://www.cnet.com/tech/services-and-software/i-played-thronglets-from-black-mirror-and-heres-what-i-learned/#ftag=CAD590a51e)
- - [Best Internet Providers in Nashville, Tennessee](https://www.cnet.com/home/internet/best-internet-providers-in-nashville-tn/#ftag=CAD590a51e)
- - [Solid, which offers APIs for banking, payments, cards, and crypto products and had raised $81M, files for Chapter 11, citing a &quot;costly&quot; lawsuit with FTV Capital &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250410/p8#a250410p8)<!-- TECH:END -->
+ - [Best Internet Providers in Nashville, Tennessee](https://www.cnet.com/home/internet/best-internet-providers-in-nashville-tn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

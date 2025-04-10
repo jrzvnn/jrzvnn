@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [RunAnEC2For5MinsAndWin](http://9gag.com/gag/aO8D3y6)
- - 😝 [Fellow cinnamon enthusiast](http://9gag.com/gag/avyEojb)
- - 💣 [Dat laugh tho\u2026](http://9gag.com/gag/aPA87Gn)
  - 😝 [Speaking too early, speaking too much.](http://9gag.com/gag/aYQP7AV)
- - 👉 [Smurf](http://9gag.com/gag/a0e6QVZ)<!-- MEMES:END -->
+ - 😝 [Smurf](http://9gag.com/gag/a0e6QVZ)
+ - 💣 [Peak acting &lpar; repost&rpar;](http://9gag.com/gag/adBnLzQ)
+ - 😝 [Big Markups Fly High!](http://9gag.com/gag/amomvRv)
+ - 👉 [Vitaly, an American Streamer went to Phillipines to annoy locals and be a nuisance to civilians. Kept making faces and gestures during a press conference. Now faces up to 24 years in prison in Phillipines.](http://9gag.com/gag/aE0oPOx)<!-- MEMES:END -->
 
 ---
 

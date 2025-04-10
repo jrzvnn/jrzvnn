@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Judge berates AI entrepreneur for using a generated ‘lawyer’ in court](https://www.theverge.com/news/646372/ai-lawyer-artificial-avatar-new-york-court-case-video)
- - [In his annual shareholder letter, Amazon CEO Andy Jassy says the company has to operate like the &quot;world&#39;s largest startup&quot; to stay competitive in AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250410/p22#a250410p22)
- - [China will show fewer US films in response to tariffs](https://www.theverge.com/news/646362/china-reduces-us-film-imports-trump-tariffs)
- - [Analysis: Intel CEO Lip-Bu Tan and his VC firms invested in 600+ Chinese tech companies including 8+ with military ties; a source says he divested the positions &lpar;Reuters&rpar;](http://www.techmeme.com/250410/p21#a250410p21)
- - [South of Midnight, Blue Prince Are Now on Xbox Game Pass. GTA 5 Due Soon](https://www.cnet.com/tech/services-and-software/play-south-of-midnight-and-blue-prince-now-gta-5-soon-on-xbox-game-pass/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Switch 2&#39;s Mouse Controls Could Make it an FPS-Friendly Console](https://www.cnet.com/tech/gaming/the-switch-2s-mouse-controls-could-make-it-an-fps-friendly-console/#ftag=CAD590a51e)
+ - [Asus Vivobook S15 Review: Old-School OLED Laptop Powered by Modern AI CPU](https://www.cnet.com/tech/computing/asus-vivobook-s15-review-old-school-oled-laptop-powered-by-modern-ai-cpu/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for April 10, #669](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-10-669/#ftag=CAD590a51e)
+ - [Play Blue Prince Now, Hogwarts Legacy and More Soon on PlayStation Plus](https://www.cnet.com/tech/services-and-software/play-blue-prince-now-hogwarts-legacy-and-more-soon-on-playstation-plus/#ftag=CAD590a51e)
+ - [34 Viral TikTok Gifts That Are Actually Worth a Look &lpar;2025&rpar;](https://www.wired.com/gallery/best-viral-tiktok-gadgets/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

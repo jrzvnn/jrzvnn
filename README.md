@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Typical day in EU paradise!](http://9gag.com/gag/aZZQrg6)
- - 😝 [Every romance movie is just a woman cheating on her hardworking husband](http://9gag.com/gag/azxGxPx)
- - 💣 [Alcohol makes you do things](http://9gag.com/gag/aGyMdQ0)
- - 😝 [RunAnEC2For5MinsAndWin](http://9gag.com/gag/aO8D3y6)
- - 👉 [Speaking too early, speaking too much.](http://9gag.com/gag/aYQP7AV)<!-- MEMES:END -->
+ - 😝 [The Stupidity of Football...](http://9gag.com/gag/aZZQy6X)
+ - 💣 [Someone tell me what this is...](http://9gag.com/gag/adBngQD)
+ - 😝 [War is coming boys!](http://9gag.com/gag/aRBz0bG)
+ - 👉 [Alcohol makes you do things](http://9gag.com/gag/aGyMdQ0)<!-- MEMES:END -->
 
 ---
 

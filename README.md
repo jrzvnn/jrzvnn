@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Hey mister](http://9gag.com/gag/a7oV1Dz)
- - 😝 [War is coming boys!](http://9gag.com/gag/aRBz0bG)
- - 💣 [Speaking too early, speaking too much.](http://9gag.com/gag/aYQP7AV)
- - 😝 [Anhydrous ammonia, coming to a neighborhood near you.](http://9gag.com/gag/aLnG0pV)
+ - 😝 [RunAnEC2For5MinsAndWin](http://9gag.com/gag/aO8D3y6)
+ - 💣 [War is coming boys!](http://9gag.com/gag/aRBz0bG)
+ - 😝 [Speaking too early, speaking too much.](http://9gag.com/gag/aYQP7AV)
  - 👉 [Vitaly, an American Streamer went to Phillipines to annoy locals and be a nuisance to civilians. Kept making faces and gestures during a press conference. Now faces up to 24 years in prison in Phillipines.](http://9gag.com/gag/aE0oPOx)<!-- MEMES:END -->
 
 ---

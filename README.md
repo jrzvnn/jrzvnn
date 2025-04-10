@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [History fact](http://9gag.com/gag/aMVnZoA)
- - 😝 [Aladin\u2019s lamp is real after all](http://9gag.com/gag/aAy4bBp)
+ - 😝 [Hmm](http://9gag.com/gag/aKGWdQb)
+ - 😝 [War is coming boys!](http://9gag.com/gag/aRBz0bG)
  - 💣 [Speaking too early, speaking too much.](http://9gag.com/gag/aYQP7AV)
- - 😝 [The Stupidity of Football...](http://9gag.com/gag/aZZQy6X)
- - 👉 [Anhydrous ammonia, coming to a neighborhood near you.](http://9gag.com/gag/aLnG0pV)<!-- MEMES:END -->
+ - 😝 [Vitaly, an American Streamer went to Phillipines to annoy locals and be a nuisance to civilians. Kept making faces and gestures during a press conference. Now faces up to 24 years in prison in Phillipines.](http://9gag.com/gag/aE0oPOx)
+ - 👉 [Typical day in EU paradise!](http://9gag.com/gag/aZZQrg6)<!-- MEMES:END -->
 
 ---
 

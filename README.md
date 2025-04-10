@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Beer girl&#39;s pit crew reloads beer tank during a Japanese baseball match](http://9gag.com/gag/aGyMp1w)
- - 😝 [He&#39;s just like me](http://9gag.com/gag/agm8Bvv)
- - 💣 [Always ready for some coke...](http://9gag.com/gag/a9y8qjm)
- - 😝 [The return of vampire Cat](http://9gag.com/gag/aLnGnA6)
- - 👉 [Donald Tariff](http://9gag.com/gag/aMVnEqx)<!-- MEMES:END -->
+ - 😝 [The Stupidity of Football...](http://9gag.com/gag/aZZQy6X)
+ - 😝 [War is coming boys!](http://9gag.com/gag/aRBz0bG)
+ - 💣 [Speaking too early, speaking too much.](http://9gag.com/gag/aYQP7AV)
+ - 😝 [Anhydrous ammonia, coming to a neighborhood near you.](http://9gag.com/gag/aLnG0pV)
+ - 👉 [Someone tell me what this is...](http://9gag.com/gag/adBngQD)<!-- MEMES:END -->
 
 ---
 

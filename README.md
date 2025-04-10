@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A UK edition of Saturday Night Live is premiering in 2026](https://www.theverge.com/news/646478/snl-uk-2026-premiere)
+ - [How to Fast-Charge Your Smartphone](https://www.wired.com/story/how-to-fast-charge-your-phone/)
+ - [Behind the scenes, Siri&#39;s failed iOS 18 upgrade was a decade-long managerial car crash](https://appleinsider.com/articles/25/04/10/behind-the-scenes-siris-failed-ios-18-upgrade-was-a-decade-long-managerial-car-crash?utm_medium=rss)
  - [HDMI 2.2 vs. HDMI 2.1: What You Need to Know](https://www.wired.com/story/hdmi-22-vs-hdmi-21/)
- - [How these guitar modeling companies are recreating rare vintage sounds for the digital age](https://www.theverge.com/creators/643080/guitar-map-modeling)
- - [Incident.io, which streamlines incident management for organizations with 200+ users, raised a $62M Series B led by Insight, sources say at a ~$400M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250410/p25#a250410p25)
- - [What&amp;#8217;s on your desk, Allison Johnson?](https://www.theverge.com/tech/644860/whats-on-your-desk-allison-johnson)
- - [8 Best Cheap Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-cheap-phones/)<!-- TECH:END -->
+ - [How these guitar modeling companies are recreating rare vintage sounds for the digital age](https://www.theverge.com/creators/643080/guitar-map-modeling)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

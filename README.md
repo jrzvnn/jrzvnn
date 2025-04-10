@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sonos appoints software veteran Hugo Barra to its board after app troubles](https://www.theverge.com/news/646609/sonos-hugo-barra-board-of-directors)
+ - [The best foldable phone you can buy](https://www.theverge.com/tech/635839/best-foldable-phone)
  - [Canva launches Canva AI, which lets users create images and design ideas, and Canva Code, to create mini apps that can be integrated in designs &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250410/p37#a250410p37)
  - [Trump&amp;#8217;s tariffs &amp;#8216;pause&amp;#8217; could help Nintendo ship more Switch 2s](https://www.theverge.com/news/646693/trump-tariffs-pause-nintendo-switch-2)
- - [Sony is now selling both Last of Us games in one package](https://www.theverge.com/news/646661/the-last-of-us-complete-ps5-collection-date-trailer)
- - [Apple quickly shipped 600 tons of iPhones to &amp;#8216;beat&amp;#8217; the new tariffs](https://www.theverge.com/news/646666/iphones-india-shipments-tariffs)
- - [OpenAI updates ChatGPT with a memory feature that references past chats for answers, rolling out to ChatGPT Pro and Plus subscribers, but not in the UK and EEA &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250410/p36#a250410p36)<!-- TECH:END -->
+ - [Sony is now selling both Last of Us games in one package](https://www.theverge.com/news/646661/the-last-of-us-complete-ps5-collection-date-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

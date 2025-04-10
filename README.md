@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Speaking too early, speaking too much.](http://9gag.com/gag/aYQP7AV)
- - 😝 [Vitaly, an American Streamer went to Phillipines to annoy locals and be a nuisance to civilians. Kept making faces and gestures during a press conference. Now faces up to 24 years in prison in Phillipines.](http://9gag.com/gag/aE0oPOx)
- - 💣 [War is coming boys!](http://9gag.com/gag/aRBz0bG)
- - 😝 [The Stupidity of Football...](http://9gag.com/gag/aZZQy6X)
- - 👉 [Typical day in EU paradise!](http://9gag.com/gag/aZZQrg6)<!-- MEMES:END -->
+ - 😝 [Beer girl&#39;s pit crew reloads beer tank during a Japanese baseball match](http://9gag.com/gag/aGyMp1w)
+ - 😝 [He&#39;s just like me](http://9gag.com/gag/agm8Bvv)
+ - 💣 [Always ready for some coke...](http://9gag.com/gag/a9y8qjm)
+ - 😝 [The return of vampire Cat](http://9gag.com/gag/aLnGnA6)
+ - 👉 [Donald Tariff](http://9gag.com/gag/aMVnEqx)<!-- MEMES:END -->
 
 ---
 

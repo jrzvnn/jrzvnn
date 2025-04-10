@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI gets ready to launch GPT-4.1](https://www.theverge.com/news/646458/openai-gpt-4-1-ai-model)
+ - [Meta says LLMs have historically leaned left and wants to remove that bias with Llama 4 to &quot;understand and articulate both sides of a contentious issue&quot; &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250410/p30#a250410p30)
  - [A look at the internal chaos behind Apple&#39;s Siri failure, in part due to poor leadership, with John Giannandrea&#39;s AI/ML group dubbed &quot;AIMLess&quot; internally &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/250410/p29#a250410p29)
  - [Source: ByteDance&#39;s revenue from international operations, which are primarily TikTok, rose 63% to $39B in 2024; overall revenue grew 29% to $155B &lpar;The Information&rpar;](http://www.techmeme.com/250410/p28#a250410p28)
- - [Why hundreds flock to play with decades-old computers](https://www.theverge.com/video/646507/vintage-computer-festival-east-2025)
- - [These Are the Best Smart Devices That Work With Amazon Alexa in 2025](https://www.cnet.com/home/smart-home/best-alexa-devices/#ftag=CAD590a51e)
- - [Why DOGE is killing the agency that keeps banks from ripping you off](https://www.theverge.com/decoder-podcast-with-nilay-patel/646441/doge-trump-musk-cfpb-rohit-chopra-banks-fraud-scams)<!-- TECH:END -->
+ - [Why hundreds flock to play with decades-old computers](https://www.theverge.com/video/646507/vintage-computer-festival-east-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

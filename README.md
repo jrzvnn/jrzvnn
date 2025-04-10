@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Typical day in EU paradise!](http://9gag.com/gag/aZZQrg6)
- - 😝 [`So f**king hot`](http://9gag.com/gag/aRBzLV7)
- - 💣 [Someone tell me what this is...](http://9gag.com/gag/adBngQD)
- - 😝 [Alcohol makes you do things](http://9gag.com/gag/aGyMdQ0)
- - 👉 [Imagine a president tweeting, \u2018This is the right time to buy,\u2019 then pausing the tariffs, and later happily saying how his friends made $2.5 billion and $900 million. How are Americans fine with this?](http://9gag.com/gag/agm8Qrw)<!-- MEMES:END -->
+ - 😝 [She wanted to say `I&#39;m a real woman` so bad..](http://9gag.com/gag/aW4vGxA)
+ - 😝 [Mine now](http://9gag.com/gag/aByPyB2)
+ - 💣 [Rememberwhoyouare](http://9gag.com/gag/aD2ZDqw)
+ - 😝 [PERFECT](http://9gag.com/gag/aYQPGeq)
+ - 👉 [33 units in one day..](http://9gag.com/gag/aXP4Lgg)<!-- MEMES:END -->
 
 ---
 

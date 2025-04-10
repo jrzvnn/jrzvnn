@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Hmm](http://9gag.com/gag/aKGWdQb)
+ - 😝 [Dat laugh tho\u2026](http://9gag.com/gag/aPA87Gn)
+ - 💣 [War is coming boys!](http://9gag.com/gag/aRBz0bG)
  - 😝 [Speaking too early, speaking too much.](http://9gag.com/gag/aYQP7AV)
- - 😝 [Smurf](http://9gag.com/gag/a0e6QVZ)
- - 💣 [Peak acting &lpar; repost&rpar;](http://9gag.com/gag/adBnLzQ)
- - 😝 [Big Markups Fly High!](http://9gag.com/gag/amomvRv)
- - 👉 [Vitaly, an American Streamer went to Phillipines to annoy locals and be a nuisance to civilians. Kept making faces and gestures during a press conference. Now faces up to 24 years in prison in Phillipines.](http://9gag.com/gag/aE0oPOx)<!-- MEMES:END -->
+ - 👉 [A local tradtion where girls compete to capture a man, and ... ? guess what next](http://9gag.com/gag/abAWrVL)<!-- MEMES:END -->
 
 ---
 

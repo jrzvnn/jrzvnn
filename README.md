@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [What would you do ?](http://9gag.com/gag/a9y8qDL)
- - 😝 [Is this accurate?](http://9gag.com/gag/aD2ZnqZ)
- - 💣 [This guy was mining 1 Bitcoin per day in 2011](http://9gag.com/gag/ayNW3Zb)
+ - 😝 [The worst part of betrayal is that it is never from your enemies](http://9gag.com/gag/an7vnYL)
+ - 💣 [Sweet girl](http://9gag.com/gag/ayNWNRq)
  - 😝 [For my friend? ALWAYS.](http://9gag.com/gag/a2vy8VO)
- - 👉 [I expect that screenshot](http://9gag.com/gag/aZZQZV9)<!-- MEMES:END -->
+ - 👉 [Bro&#39;s about to accidentally nuke Soviet union](http://9gag.com/gag/aVvmbNw)<!-- MEMES:END -->
 
 ---
 

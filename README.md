@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp gets a dozen new features inspired by others](https://www.theverge.com/news/646988/whatsapp-chat-video-call-online-status-update)
- - [Indonesians can again buy the iPhone 16 as ban is finally lifted](https://appleinsider.com/articles/25/04/11/indonesians-can-again-buy-the-iphone-16-as-ban-is-finally-lifted?utm_medium=rss)
- - [The Best Google Pixel Phones of 2025, Tested and Reviewed: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)
- - [Digg will let you reserve your username &lpar;for a price&rpar;](https://www.theverge.com/news/646985/digg-relaunch-groundbreakers-early-access-username-reservation-5-dollars)
- - [Pages for iPad explained -- how to get the most out of Apple&#39;s word processing power house](https://appleinsider.com/inside/iwork/tips/pages-for-ipad-explained----how-to-get-the-most-out-of-apples-word-processing-power-house?utm_medium=rss)<!-- TECH:END -->
+ - [Meta goes to trial to avoid a breakup](https://www.theverge.com/policy/646828/meta-ftc-antitrust-trial-preview-instagram-whatsapp)
+ - [US Defense Secretary Pete Hegseth cuts $5.1B in IT and consulting contracts, including with Accenture and Deloitte, calling them &quot;wasteful spending&quot; &lpar;Business Insider&rpar;](http://www.techmeme.com/250411/p10#a250411p10)
+ - [France plans country-wide digital identity cards on iPhone by the summer](https://appleinsider.com/articles/25/04/11/france-plans-country-wide-digital-identity-cards-on-iphone-by-the-summer?utm_medium=rss)
+ - [AI reasoning models cost more to benchmark, making it harder to independently verify claims; Artificial Analysis: OpenAI&#39;s o1 costs $2,767.05 to evaluate &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250411/p9#a250411p9)
+ - [I’m Googley-Eyed for the Walton Goggins Goggle Glasses](https://www.wired.com/story/walton-goggins-goggle-glasses-rave/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

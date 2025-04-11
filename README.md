@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The UK’s Top 6 Mattresses in a Box to Improve Your Sleep in 2025](https://www.wired.com/gallery/the-best-mattresses-to-improve-your-sleep-in-2025/)
+ - [EC president von der Leyen: the EU may tax Big Tech ad revenue, targeting Meta and Google, if Trump trade talks fail and won&#39;t revisit its &quot;untouchable&quot; rules &lpar;Financial Times&rpar;](http://www.techmeme.com/250411/p4#a250411p4)
  - [Despite Trump admin pressure, Apple is unlikely to move iPhone production to the US soon due to facility, labor, and supply chain gaps only Asia can fill now &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250411/p3#a250411p3)
  - [Source: Google laid off hundreds of employees in its platforms and devices unit, which works on Android, Pixel, and Chrome, after offering buyouts in January &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/250411/p2#a250411p2)
- - [Sources: OpenAI recently gave staff and third-party groups just days, vs. several months previously, to evaluate risks and performance of its latest models &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/250411/p1#a250411p1)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, April 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-april-11/#ftag=CAD590a51e)
- - [How to use profiles to change how Terminal windows look in macOS](https://appleinsider.com/inside/macos/tips/how-to-use-profiles-to-change-how-terminal-windows-look-in-macos?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: OpenAI recently gave staff and third-party groups just days, vs. several months previously, to evaluate risks and performance of its latest models &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/250411/p1#a250411p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

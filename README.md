@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microtransactions Made Up 58% of PC Video Game Revenue in 2024, Research Shows](https://www.cnet.com/tech/gaming/microtransactions-made-up-58-of-pc-video-game-revenue-in-2024-research-shows/#ftag=CAD590a51e)
+ - [I Like to Buy Stocks With Part of My Tax Refund. I Don&#39;t Suggest That for Most People Right Now](https://www.cnet.com/personal-finance/taxes/i-like-to-buy-stocks-with-part-of-my-tax-refund-i-dont-suggest-that-for-most-people-right-now/#ftag=CAD590a51e)
+ - [Apple’s Siri upgrade may arrive in fall](https://www.theverge.com/news/647106/apple-siri-update-fall-2025-release-rumors)
  - [OpenAI will retire GPT-4, launched over two years ago, from ChatGPT on April 30, to be &quot;fully replaced&quot; by GPT-4o; GPT-4 will remain available in OpenAI&#39;s API &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250411/p14#a250411p14)
- - [Bring your vinyl to the beach with Toshiba’s new portable wireless record player](https://www.theverge.com/news/647072/toshiba-aurex-ax-rp10-record-player-wireless-portable-vinyl)
- - [The Verge is nominated for two Webby Awards — help us win them!](https://www.theverge.com/video/646816/webby-nominations-2025-vergecast-video)
- - [Dame Hug Review: A Sex Toy for Couples](https://www.wired.com/review/dame-hug/)
- - [The moms are thrifting on Instagram](https://www.theverge.com/creators/647027/instagram-resellers-thrifting-sale-shop-preowned-clothing)<!-- TECH:END -->
+ - [Bring your vinyl to the beach with Toshiba’s new portable wireless record player](https://www.theverge.com/news/647072/toshiba-aurex-ax-rp10-record-player-wireless-portable-vinyl)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Someone tell me what this is...](http://9gag.com/gag/adBngQD)
- - 😝 [What would you do ?](http://9gag.com/gag/a9y8qDL)
- - 💣 [Flat is Justice](http://9gag.com/gag/aNDVPN6)
+ - 😝 [Another one from my meme archives to cleanse your feed](http://9gag.com/gag/a7oVOWe)
+ - 😝 [Smoke Ring Toss](http://9gag.com/gag/avyEWxO)
+ - 💣 [Oui zoun&#39;t taulke laeque z\u00e0t](http://9gag.com/gag/aqyQX8R)
  - 😝 [For my friend? ALWAYS.](http://9gag.com/gag/a2vy8VO)
- - 👉 [If `F**k around and find out` was a person:](http://9gag.com/gag/a9y8yDK)<!-- MEMES:END -->
+ - 👉 [`So f**king hot`](http://9gag.com/gag/aRBzLV7)<!-- MEMES:END -->
 
 ---
 

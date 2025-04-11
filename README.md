@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ohhhh the Turmanity](http://9gag.com/gag/a87DmX3)
- - 😝 [Buster Keaton crazy stunt 1924](http://9gag.com/gag/ayNW4qq)
- - 💣 [I can FIX her](http://9gag.com/gag/apRPDQ5)
+ - 😝 [What would you do ?](http://9gag.com/gag/a9y8qDL)
+ - 😝 [Is this accurate?](http://9gag.com/gag/aD2ZnqZ)
+ - 💣 [This guy was mining 1 Bitcoin per day in 2011](http://9gag.com/gag/ayNW3Zb)
  - 😝 [For my friend? ALWAYS.](http://9gag.com/gag/a2vy8VO)
- - 👉 [Im just gonna leave it here](http://9gag.com/gag/a4P5ox6)<!-- MEMES:END -->
+ - 👉 [I expect that screenshot](http://9gag.com/gag/aZZQZV9)<!-- MEMES:END -->
 
 ---
 

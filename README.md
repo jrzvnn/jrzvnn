@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can run Doom on this $666 collector&amp;#8217;s edition box](https://www.theverge.com/news/647361/doom-limited-run-games-collector-edition-cacodemon-handheld)
+ - [ChatGPT is transforming LinkedIn users into really dull dolls](https://www.theverge.com/news/647356/chatgpt-ai-barbie-action-figure-viral-trend)
+ - [There is increasing uncertainty about China approving Synopsys&#39; $35B Ansys acquisition, amid the escalating tariff fight between the US and China &lpar;Bloomberg&rpar;](http://www.techmeme.com/250411/p19#a250411p19)
  - [You can save up to $1,800 on Samsung’s last-gen Frame TV](https://www.theverge.com/tech/647229/samsung-frame-tv-light-phone-3-preorder-deal-sale)
- - [Steve Jobs didn&#39;t tolerate yes-men, understood his influence at Pixar](https://appleinsider.com/articles/25/04/11/steve-jobs-didnt-tolerate-yes-men-understood-his-influence-at-pixar?utm_medium=rss)
- - [The US Is Turning a Blind Eye to Crypto Crimes](https://www.wired.com/story/the-us-is-turning-a-blind-eye-to-crypto-crimes/)
- - [All the &#39;Black Mirror&#39; Season 7 Episodes Ranked](https://www.wired.com/story/all-the-black-mirror-season-7-episodes-ranked/)
- - [How Nintendo is navigating tariff chaos, including shipping an estimated 1.7M Switch 2 units to the US before tariffs took effect, assembling in Vietnam, more &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/250411/p18#a250411p18)<!-- TECH:END -->
+ - [Steve Jobs didn&#39;t tolerate yes-men, understood his influence at Pixar](https://appleinsider.com/articles/25/04/11/steve-jobs-didnt-tolerate-yes-men-understood-his-influence-at-pixar?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

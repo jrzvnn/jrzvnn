@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I love lamp ...](http://9gag.com/gag/aVvmved)
- - 😝 [Fingers Getting pruney time-lapse](http://9gag.com/gag/a9y8Egm)
- - 💣 [33 units in one day..](http://9gag.com/gag/aXP4Lgg)
- - 😝 [Why the tape?](http://9gag.com/gag/axyb3vn)
- - 👉 [Bro&#39;s about to accidentally nuke Soviet union](http://9gag.com/gag/aVvmbNw)<!-- MEMES:END -->
+ - 😝 [You are a battery](http://9gag.com/gag/aKGWG3O)
+ - 😝 [When things turn out better than you expected](http://9gag.com/gag/a34y4zQ)
+ - 💣 [Cave divers as soon as they hear there is a new spot called `The devil&#39;s asscrack` with 0% Survival rate](http://9gag.com/gag/aAy46X2)
+ - 😝 [CT scan mashine without its outer casing](http://9gag.com/gag/aNDVpRb)
+ - 👉 [Flat is Justice](http://9gag.com/gag/aNDVPN6)<!-- MEMES:END -->
 
 ---
 

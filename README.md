@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sweet girl](http://9gag.com/gag/ayNWNRq)
+ - 😝 [Bro&#39;s about to accidentally nuke Soviet union](http://9gag.com/gag/aVvmbNw)
  - 😝 [What in the Happy-Tree-Friends f**k!?](http://9gag.com/gag/avyEyNX)
- - 💣 [\u201cArtax! Don\u2019t let the sadness of the swamp get to you!\u201d](http://9gag.com/gag/apRP6K9)
+ - 💣 [This would be a sign the world is healing](http://9gag.com/gag/awyLy7Q)
  - 😝 [For my friend? ALWAYS.](http://9gag.com/gag/a2vy8VO)
- - 👉 [Guy tries to help spider out without killing it](http://9gag.com/gag/aGyMyg0)<!-- MEMES:END -->
+ - 👉 [Building nightmare](http://9gag.com/gag/adBn1mN)<!-- MEMES:END -->
 
 ---
 

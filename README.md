@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro&#39;s about to accidentally nuke Soviet union](http://9gag.com/gag/aVvmbNw)
- - 😝 [Prince Rupert\u2019s Drop vs Hydraulic Press](http://9gag.com/gag/aW4vpKd)
- - 💣 [Legal activities](http://9gag.com/gag/aXP4oQV)
- - 😝 [Typical day in EU paradise!](http://9gag.com/gag/aZZQrg6)
- - 👉 [When things turn out better than you expected](http://9gag.com/gag/a34y4zQ)<!-- MEMES:END -->
+ - 😝 [She feeling proud or not?](http://9gag.com/gag/agm8QXq)
+ - 😝 [Name the game and `that part`](http://9gag.com/gag/aLnGp6z)
+ - 💣 [`So f**king hot`](http://9gag.com/gag/aRBzLV7)
+ - 😝 [RunAnEC2For5MinsAndWin](http://9gag.com/gag/aO8D3y6)
+ - 👉 [Bro&#39;s about to accidentally nuke Soviet union](http://9gag.com/gag/aVvmbNw)<!-- MEMES:END -->
 
 ---
 

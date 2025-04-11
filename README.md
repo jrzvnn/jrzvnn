@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [South of Midnight is a game worth hollerin’ about](https://www.theverge.com/games-review/647143/south-of-midnight-review-xbox-compulsion-games)
- - [The Social Security Administration Is Gutting Regional Staff and Shifting All Public Communications to X](https://www.wired.com/story/social-security-administration-regional-office-elon-musk-x/)
- - [China exempts products from AMD, Nvidia, Intel, Qualcomm, and others that are made by Taiwanese companies like TSMC from the 125% tariff on US products &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250411/p17#a250411p17)
- - [7 Essential Vitamins to Support Healthy Hair Growth](https://www.cnet.com/health/nutrition/7-essential-vitamins-to-support-healthy-hair-growth/#ftag=CAD590a51e)
- - [DoorDash is expanding into sidewalk robot delivery in the US](https://www.theverge.com/news/647206/door-dash-coco-side-walk-robot-delivery-la-chicago)<!-- TECH:END -->
+ - [The US Is Turning a Blind Eye to Crypto Crimes](https://www.wired.com/story/the-us-is-turning-a-blind-eye-to-crypto-crimes/)
+ - [All the &#39;Black Mirror&#39; Season 7 Episodes Ranked](https://www.wired.com/story/all-the-black-mirror-season-7-episodes-ranked/)
+ - [How Nintendo is navigating tariff chaos, including shipping an estimated 1.7M Switch 2 units to the US before tariffs took effect, assembling in Vietnam, more &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/250411/p18#a250411p18)
+ - [Spiking Bond Yields May Have Paused the Tariffs, but They Could Cost You in the Long Run](https://www.cnet.com/personal-finance/investing/bond-yields-may-have-paused-the-tariffs-but-they-could-cost-you-in-the-long-run/#ftag=CAD590a51e)
+ - [What Trump’s Tariffs Mean for Tech—and You](https://www.wired.com/story/uncanny-valley-podcast-trump-tariffs-tech-industry/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

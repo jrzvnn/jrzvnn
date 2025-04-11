@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This Is How US Tariffs Could Make Smartphones Dumber](https://www.wired.com/story/this-is-how-us-tariffs-could-make-smartphones-dumber/)
+ - [Apple Vision Pro 2: What the rumor mill sees coming, and when it might arrive](https://appleinsider.com/articles/25/04/11/apple-vision-pro-2-what-the-rumor-mill-sees-coming-and-when-it-might-arrie?utm_medium=rss)
  - [Apple hampered its Siri ambitions by penny-pinching](https://appleinsider.com/articles/25/04/11/apple-hampered-its-siri-ambitions-by-penny-pinching?utm_medium=rss)
  - [BlackRock&#39;s crypto ETFs saw $3B in net inflows in Q1 2025, down 83% QoQ; BlackRock had ~$50.3B in digital assets at the end of Q1, or 0.5% of its total assets &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/250411/p15#a250411p15)
- - [Microtransactions Made Up 58% of PC Video Game Revenue in 2024, Research Shows](https://www.cnet.com/tech/gaming/microtransactions-made-up-58-of-pc-video-game-revenue-in-2024-research-shows/#ftag=CAD590a51e)
- - [I Like to Buy Stocks With Part of My Tax Refund. I Don&#39;t Suggest That for Most People Right Now](https://www.cnet.com/personal-finance/taxes/i-like-to-buy-stocks-with-part-of-my-tax-refund-i-dont-suggest-that-for-most-people-right-now/#ftag=CAD590a51e)
- - [Apple’s Siri upgrade may arrive in fall](https://www.theverge.com/news/647106/apple-siri-update-fall-2025-release-rumors)<!-- TECH:END -->
+ - [Microtransactions Made Up 58% of PC Video Game Revenue in 2024, Research Shows](https://www.cnet.com/tech/gaming/microtransactions-made-up-58-of-pc-video-game-revenue-in-2024-research-shows/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

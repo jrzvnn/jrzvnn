@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She feeling proud or not?](http://9gag.com/gag/agm8QXq)
- - 😝 [Name the game and `that part`](http://9gag.com/gag/aLnGp6z)
- - 💣 [`So f**king hot`](http://9gag.com/gag/aRBzLV7)
+ - 😝 [If `F**k around and find out` was a person:](http://9gag.com/gag/a9y8yDK)
+ - 😝 [Legal activities](http://9gag.com/gag/aXP4oQV)
+ - 💣 [Bro&#39;s about to accidentally nuke Soviet union](http://9gag.com/gag/aVvmbNw)
  - 😝 [RunAnEC2For5MinsAndWin](http://9gag.com/gag/aO8D3y6)
- - 👉 [Bro&#39;s about to accidentally nuke Soviet union](http://9gag.com/gag/aVvmbNw)<!-- MEMES:END -->
+ - 👉 [Another loss for the US in tax revenue.](http://9gag.com/gag/avyEQME)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hey, are you alright](http://9gag.com/gag/adBnvmD)
- - 😝 [Oui zoun&#39;t taulke laeque z\u00e0t](http://9gag.com/gag/aqyQX8R)
- - 💣 [Another one from my meme archives to cleanse your feed](http://9gag.com/gag/a7oVOWe)
- - 😝 [Rememberwhoyouare](http://9gag.com/gag/aD2ZDqw)
- - 👉 [So much winning for oligarchs and friends](http://9gag.com/gag/amom12y)<!-- MEMES:END -->
+ - 😝 [What would you do ?](http://9gag.com/gag/a9y8qDL)
+ - 😝 [Every romance movie is just a woman cheating on her hardworking husband](http://9gag.com/gag/azxGxPx)
+ - 💣 [Typical day in EU paradise!](http://9gag.com/gag/aZZQrg6)
+ - 😝 [Why the tape?](http://9gag.com/gag/axyb3vn)
+ - 👉 [Cave divers as soon as they hear there is a new spot called `The devil&#39;s asscrack` with 0% Survival rate](http://9gag.com/gag/aAy46X2)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Black history](http://9gag.com/gag/amomGGv)
- - 😝 [Well, f**k my Life bois. Apparently I have a tumour near my spine. Already contacted hospital for operation so f**k you and I&#39;ll see you idk](http://9gag.com/gag/aAy4yLL)
- - 💣 [Buster Keaton crazy stunt 1924](http://9gag.com/gag/ayNW4qq)
+ - 😝 [Ohhhh the Turmanity](http://9gag.com/gag/a87DmX3)
+ - 😝 [Buster Keaton crazy stunt 1924](http://9gag.com/gag/ayNW4qq)
+ - 💣 [I can FIX her](http://9gag.com/gag/apRPDQ5)
  - 😝 [For my friend? ALWAYS.](http://9gag.com/gag/a2vy8VO)
- - 👉 [I can FIX her](http://9gag.com/gag/apRPDQ5)<!-- MEMES:END -->
+ - 👉 [Im just gonna leave it here](http://9gag.com/gag/a4P5ox6)<!-- MEMES:END -->
 
 ---
 

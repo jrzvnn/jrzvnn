@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WhatsApp gets a dozen new features inspired by others](https://www.theverge.com/news/646988/whatsapp-chat-video-call-online-status-update)
+ - [Indonesians can again buy the iPhone 16 as ban is finally lifted](https://appleinsider.com/articles/25/04/11/indonesians-can-again-buy-the-iphone-16-as-ban-is-finally-lifted?utm_medium=rss)
  - [The Best Google Pixel Phones of 2025, Tested and Reviewed: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)
  - [Digg will let you reserve your username &lpar;for a price&rpar;](https://www.theverge.com/news/646985/digg-relaunch-groundbreakers-early-access-username-reservation-5-dollars)
- - [Pages for iPad explained -- how to get the most out of Apple&#39;s word processing power house](https://appleinsider.com/inside/iwork/tips/pages-for-ipad-explained----how-to-get-the-most-out-of-apples-word-processing-power-house?utm_medium=rss)
- - [This Famous Physics Experiment Shows Why the Government Should Support ‘Useless’ Science](https://www.wired.com/story/why-the-government-should-support-useless-science/)
- - [Sources: Tim Cook approved doubling Apple&#39;s AI chips budget in 2023 after John Giannandrea sought more GPUs, but CFO Luca Maestri cut the increase to under half &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/250411/p8#a250411p8)<!-- TECH:END -->
+ - [Pages for iPad explained -- how to get the most out of Apple&#39;s word processing power house](https://appleinsider.com/inside/iwork/tips/pages-for-ipad-explained----how-to-get-the-most-out-of-apples-word-processing-power-house?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

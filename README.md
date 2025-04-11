@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why the tape?](http://9gag.com/gag/axyb3vn)
- - 😝 [Sweet girl](http://9gag.com/gag/ayNWNRq)
- - 💣 [Bro&#39;s about to accidentally nuke Soviet union](http://9gag.com/gag/aVvmbNw)
+ - 😝 [Ohhhh the Turmanity](http://9gag.com/gag/a87DmX3)
+ - 😝 [She delivers daily savage beatdowns](http://9gag.com/gag/a5QGwrG)
+ - 💣 [Buster Keaton crazy stunt 1924](http://9gag.com/gag/ayNW4qq)
  - 😝 [For my friend? ALWAYS.](http://9gag.com/gag/a2vy8VO)
- - 👉 [`So f**king hot`](http://9gag.com/gag/aRBzLV7)<!-- MEMES:END -->
+ - 👉 [When she wants to drive but you want to stay alive](http://9gag.com/gag/a9y88p0)<!-- MEMES:END -->
 
 ---
 

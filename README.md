@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube&amp;#8217;s new AI tool generates free background music for videos](https://www.theverge.com/news/647422/youtube-ai-music-assistant-generator-background)
  - [Apple stock rebounds again following week of tariff chaos](https://appleinsider.com/articles/25/04/11/apple-stock-rebounds-again-following-week-of-tariff-chaos?utm_medium=rss)
  - [Ann Arbor, Michigan-based Optilogic, a supply chain software provider, raised a $40M Series B led by NewRoad Capital and launches a tariff optimization tool &lpar;Colin Campbell/Axios&rpar;](http://www.techmeme.com/250411/p21#a250411p21)
  - [A group of former OpenAI employees file an amicus brief in support of Elon Musk in his lawsuit opposing OpenAI&#39;s for-profit transition &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250411/p20#a250411p20)
- - [You can run Doom on this $666 collector&amp;#8217;s edition box](https://www.theverge.com/news/647361/doom-limited-run-games-collector-edition-cacodemon-handheld)
- - [ChatGPT is transforming LinkedIn users into really dull dolls](https://www.theverge.com/news/647356/chatgpt-ai-barbie-action-figure-viral-trend)<!-- TECH:END -->
+ - [You can run Doom on this $666 collector&amp;#8217;s edition box](https://www.theverge.com/news/647361/doom-limited-run-games-collector-edition-cacodemon-handheld)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

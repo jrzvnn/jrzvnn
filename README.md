@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [How to use profiles to change how Terminal windows look in macOS](https://appleinsider.com/inside/macos/tips/how-to-use-profiles-to-change-how-terminal-windows-look-in-macos?utm_medium=rss)
  - [China discloses details about its ~$8.2B AI Industry Investment Fund, aimed at early-stage investments in AI projects, established with money from the Big Fund &lpar;Ann Cao/South China Morning Post&rpar;](http://www.techmeme.com/250410/p51#a250410p51)
- - [The DOJ charges AI shopping app Nate&#39;s ex-CEO Albert Saniger with fraud, alleging the app relies heavily on human workers in the Philippines; Nate raised $50M+ &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/250410/p50#a250410p50)
+ - [The DOJ charges AI shopping app Nate&#39;s ex-CEO, Albert Saniger, with fraud, alleging the app relies heavily on workers in the Philippines; Nate had raised $50M+ &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/250410/p50#a250410p50)
  - [Oppo launches the Find X8 Ultra in China, with a 6.82&quot; OLED, a Snapdragon 8 Elite, a 6,100mAh battery, four rear cameras, and 100W charging, starting at ~$890 &lpar;Hadlee Simons/Android Authority&rpar;](http://www.techmeme.com/250410/p49#a250410p49)
  - [Trump signs a bill repealing IRS rules that treat DeFi platforms as brokers and require them to report user data, the first pro-crypto effort to clear Congress &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/250410/p48#a250410p48)<!-- TECH:END -->
 

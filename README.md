@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this accurate?](http://9gag.com/gag/aD2ZnqZ)
- - 😝 [Best mum award!](http://9gag.com/gag/a9y85rL)
- - 💣 [This guy was mining 1 Bitcoin per day in 2011](http://9gag.com/gag/ayNW3Zb)
+ - 😝 [Notice how only women are attending](http://9gag.com/gag/aXP4N5v)
+ - 😝 [I love lamp ...](http://9gag.com/gag/aVvmved)
+ - 💣 [`So f**king hot`](http://9gag.com/gag/aRBzLV7)
  - 😝 [For my friend? ALWAYS.](http://9gag.com/gag/a2vy8VO)
- - 👉 [I expect that screenshot](http://9gag.com/gag/aZZQZV9)<!-- MEMES:END -->
+ - 👉 [The worst part of betrayal is that it is never from your enemies](http://9gag.com/gag/an7vnYL)<!-- MEMES:END -->
 
 ---
 

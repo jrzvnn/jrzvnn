@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Tim Cook approved doubling Apple&#39;s AI chips budget in 2023 after John Giannandrea sought more GPUs, but CFO Luca Maestri cut the increase to under half &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/250411/p8#a250411p8)
+ - [Sex-Fantasy Chatbots Are Leaking a Constant Stream of Explicit Messages](https://www.wired.com/story/sex-fantasy-chatbots-are-leaking-explicit-messages-every-minute/)
  - [Madrid-based Jobandtalent, which connects gig workers with companies, raised a $103M Series F at a $1.5B valuation, down from its $500M Series E at $2.35B &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250411/p7#a250411p7)
  - [ChatGPT will now remember your old conversations](https://www.theverge.com/news/646968/openai-chatgpt-long-term-memory-upgrade)
- - [Bermuda-based Meanwhile, which offers life insurance to US citizens with BTC holdings, raised a $40M Series A led by Framework and Fulgur at a $190M valuation &lpar;Catherine McGrath/Fortune&rpar;](http://www.techmeme.com/250411/p6#a250411p6)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 11, #200](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-11-200/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for April 11, #404](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-11-404/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bermuda-based Meanwhile, which offers life insurance to US citizens with BTC holdings, raised a $40M Series A led by Framework and Fulgur at a $190M valuation &lpar;Catherine McGrath/Fortune&rpar;](http://www.techmeme.com/250411/p6#a250411p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

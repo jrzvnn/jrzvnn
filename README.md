@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube&amp;#8217;s new AI tool generates free background music for videos](https://www.theverge.com/news/647422/youtube-ai-music-assistant-generator-background)
- - [Apple stock rebounds again following week of tariff chaos](https://appleinsider.com/articles/25/04/11/apple-stock-rebounds-again-following-week-of-tariff-chaos?utm_medium=rss)
- - [Ann Arbor, Michigan-based Optilogic, a supply chain software provider, raised a $40M Series B led by NewRoad Capital and launches a tariff optimization tool &lpar;Colin Campbell/Axios&rpar;](http://www.techmeme.com/250411/p21#a250411p21)
- - [A group of former OpenAI employees file an amicus brief in support of Elon Musk in his lawsuit opposing OpenAI&#39;s for-profit transition &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250411/p20#a250411p20)
- - [You can run Doom on this $666 collector&amp;#8217;s edition box](https://www.theverge.com/news/647361/doom-limited-run-games-collector-edition-cacodemon-handheld)<!-- TECH:END -->
+ - [Blue Water Autonomy, which says it is building a 100-ton autonomous naval ship, emerges from stealth with a $14M seed from Eclipse VC, Riot, and Impatient &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/250411/p22#a250411p22)
+ - [10 Best Android Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
+ - [This algorithm wasn&amp;#8217;t supposed to keep people in jail, but it does in Louisiana](https://www.theverge.com/news/647405/louisiana-tiger-algorithm-parole)
+ - [Best Smartwatch for 2025](https://www.cnet.com/tech/mobile/best-smartwatch/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 12, #201](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-12-201/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

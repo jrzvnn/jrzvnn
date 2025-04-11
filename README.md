@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cave divers as soon as they hear there is a new spot called `The devil&#39;s asscrack` with 0% Survival rate](http://9gag.com/gag/aAy46X2)
- - 😝 [Mind Blowing Idea](http://9gag.com/gag/ajPBOLp)
- - 💣 [Building nightmare](http://9gag.com/gag/adBn1mN)
+ - 😝 [Guy tries to help spider out without killing it](http://9gag.com/gag/aGyMyg0)
+ - 😝 [Building nightmare](http://9gag.com/gag/adBn1mN)
+ - 💣 [You are a battery](http://9gag.com/gag/aKGWG3O)
  - 😝 [For my friend? ALWAYS.](http://9gag.com/gag/a2vy8VO)
- - 👉 [The worst part of betrayal is that it is never from your enemies](http://9gag.com/gag/an7vnYL)<!-- MEMES:END -->
+ - 👉 [Prince Rupert\u2019s Drop vs Hydraulic Press](http://9gag.com/gag/aW4vpKd)<!-- MEMES:END -->
 
 ---
 

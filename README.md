@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No.. I&#39;m not entering that](http://9gag.com/gag/aAy4Ee0)
- - 😝 [This guy was mining 1 Bitcoin per day in 2011](http://9gag.com/gag/ayNW3Zb)
- - 💣 [Guy tries to help spider out without killing it](http://9gag.com/gag/aGyMyg0)
+ - 😝 [Sweden will never be the same, downhill from now on Sweden \ud83c\uddf8\ud83c\uddea.](http://9gag.com/gag/aNDV9qb)
+ - 😝 [Cave divers as soon as they hear there is a new spot called `The devil&#39;s asscrack` with 0% Survival rate](http://9gag.com/gag/aAy46X2)
+ - 💣 [I love lamp ...](http://9gag.com/gag/aVvmved)
  - 😝 [For my friend? ALWAYS.](http://9gag.com/gag/a2vy8VO)
- - 👉 [`So f**king hot`](http://9gag.com/gag/aRBzLV7)<!-- MEMES:END -->
+ - 👉 [This guy was mining 1 Bitcoin per day in 2011](http://9gag.com/gag/ayNW3Zb)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Shopify Workers Are Expected to Use Gen AI at Work. Is Your Job Next?](https://www.cnet.com/tech/services-and-software/shopify-workers-are-expected-to-use-gen-ai-at-work-is-your-job-next/#ftag=CAD590a51e)
  - [Palantir Is Helping DOGE With a Massive IRS Data Project](https://www.wired.com/story/palantir-doge-irs-mega-api-data/)
  - [Sources: Ilya Sutskever&#39;s Safe Superintelligence raised $2B led by Greenoaks at a $32B valuation; SSI last raised $1B at a $5B valuation in September 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/250411/p24#a250411p24)
- - [Meta adds Stripe CEO Patrick Collison and Dina Powell McCormick, who worked as deputy national security adviser to Trump in his first term, to its board &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250411/p23#a250411p23)
- - [Baldur&amp;#8217;s Gate 3 is getting 12 new subclasses next week](https://www.theverge.com/news/647395/baldurs-gate-3-patch-8-release-date)
- - [Blue Water Autonomy, which says it is building a 100-ton autonomous naval ship, emerges from stealth with a $14M seed from Eclipse VC, Riot, and Impatient &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/250411/p22#a250411p22)<!-- TECH:END -->
+ - [Load Faster and Crash Less with Marvel Rival&#39;s New Experimental Feature](https://www.cnet.com/tech/gaming/load-faster-and-crash-less-with-marvel-rivals-new-experimental-feature/#ftag=CAD590a51e)
+ - [Meta adds Stripe CEO Patrick Collison and Dina Powell McCormick, who worked as deputy national security adviser to Trump in his first term, to its board &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250411/p23#a250411p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

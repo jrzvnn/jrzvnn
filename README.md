@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rememberwhoyouare](http://9gag.com/gag/aD2ZDqw)
- - 😝 [`So f**king hot`](http://9gag.com/gag/aRBzLV7)
- - 💣 [So much winning for oligarchs and friends](http://9gag.com/gag/amom12y)
- - 😝 [Another one from my meme archives to cleanse your feed](http://9gag.com/gag/a7oVOWe)
- - 👉 [The difference between conspiracy theory and reality is just a couple of months](http://9gag.com/gag/aByP69O)<!-- MEMES:END -->
+ - 😝 [300lbs vs 50lbs](http://9gag.com/gag/aLnGv4v)
+ - 😝 [Cave divers as soon as they hear there is a new spot called `The devil&#39;s asscrack` with 0% Survival rate](http://9gag.com/gag/aAy46X2)
+ - 💣 [I expect that screenshot](http://9gag.com/gag/aZZQZV9)
+ - 😝 [We don&#39;t have to live like this](http://9gag.com/gag/aAy4yMo)
+ - 👉 [Hey mister](http://9gag.com/gag/a7oV1Dz)<!-- MEMES:END -->
 
 ---
 

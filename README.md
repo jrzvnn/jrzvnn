@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bermuda-based Meanwhile, which offers life insurance to US citizens with BTC holdings, raised a $40M Series A led by Framework and Fulgur at a $190M valuation &lpar;Catherine McGrath/Fortune&rpar;](http://www.techmeme.com/250411/p6#a250411p6)
  - [China calls US a &amp;#8216;joke&amp;#8217; as it raises tariff for final time](https://www.theverge.com/news/646949/china-tariff-increase-trump-retaliation-us-joke)
  - [American small-business owners who source goods from overseas, especially from China, and sell them online, face acute uncertainty about the tariffs&#39; impact &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/250411/p5#a250411p5)
  - [The UK’s Top 6 Mattresses in a Box to Improve Your Sleep in 2025](https://www.wired.com/gallery/the-best-mattresses-to-improve-your-sleep-in-2025/)
- - [EC president von der Leyen: the EU may tax Big Tech ad revenue, targeting Meta and Google, if Trump trade talks fail and won&#39;t revisit its &quot;untouchable&quot; rules &lpar;Financial Times&rpar;](http://www.techmeme.com/250411/p4#a250411p4)
- - [Despite Trump admin pressure, Apple is unlikely to move iPhone production to the US soon due to facility, labor, and supply chain gaps only Asia can fill now &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250411/p3#a250411p3)<!-- TECH:END -->
+ - [EC president von der Leyen: the EU may tax Big Tech ad revenue, targeting Meta and Google, if Trump trade talks fail and won&#39;t revisit its &quot;untouchable&quot; rules &lpar;Financial Times&rpar;](http://www.techmeme.com/250411/p4#a250411p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

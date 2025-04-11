@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You are a battery](http://9gag.com/gag/aKGWG3O)
- - 😝 [When things turn out better than you expected](http://9gag.com/gag/a34y4zQ)
- - 💣 [Cave divers as soon as they hear there is a new spot called `The devil&#39;s asscrack` with 0% Survival rate](http://9gag.com/gag/aAy46X2)
- - 😝 [CT scan mashine without its outer casing](http://9gag.com/gag/aNDVpRb)
- - 👉 [Flat is Justice](http://9gag.com/gag/aNDVPN6)<!-- MEMES:END -->
+ - 😝 [Oui zoun&#39;t taulke laeque z\u00e0t](http://9gag.com/gag/aqyQX8R)
+ - 😝 [Rememberwhoyouare](http://9gag.com/gag/aD2ZDqw)
+ - 💣 [So much winning for oligarchs and friends](http://9gag.com/gag/amom12y)
+ - 😝 [There&#39;s something wrong with this toy](http://9gag.com/gag/aVvmEPK)
+ - 👉 [The difference between conspiracy theory and reality is just a couple of months](http://9gag.com/gag/aByP69O)<!-- MEMES:END -->
 
 ---
 

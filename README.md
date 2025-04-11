@@ -157,10 +157,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microtransactions Made Up 58% of PC Video Game Revenue in 2024, Research Shows](https://www.cnet.com/tech/gaming/microtransactions-made-up-58-of-pc-video-game-revenue-in-2024-research-shows/#ftag=CAD590a51e)
- - [I Like to Buy Stocks With Part of My Tax Refund. I Don&#39;t Suggest That for Most People Right Now](https://www.cnet.com/personal-finance/taxes/i-like-to-buy-stocks-with-part-of-my-tax-refund-i-dont-suggest-that-for-most-people-right-now/#ftag=CAD590a51e)
+ - [Apple hampered its Siri ambitions by penny-pinching](https://appleinsider.com/articles/25/04/11/apple-hampered-its-siri-ambitions-by-penny-pinching?utm_medium=rss)
+ - [BlackRock&#39;s crypto ETFs saw $3B in net inflows in Q1 2025, down 83% QoQ; BlackRock had ~$50.3B in digital assets at the end of Q1, or 0.5% of its total assets &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/250411/p15#a250411p15)
  - [Apple’s Siri upgrade may arrive in fall](https://www.theverge.com/news/647106/apple-siri-update-fall-2025-release-rumors)
- - [OpenAI will retire GPT-4, launched over two years ago, from ChatGPT on April 30, to be &quot;fully replaced&quot; by GPT-4o; GPT-4 will remain available in OpenAI&#39;s API &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250411/p14#a250411p14)
+ - [OpenAI plans to retire GPT-4, launched in March 2023, from ChatGPT on April 30, to be &quot;fully replaced&quot; by GPT-4o; GPT-4 will remain available via OpenAI&#39;s API &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250411/p14#a250411p14)
  - [Bring your vinyl to the beach with Toshiba’s new portable wireless record player](https://www.theverge.com/news/647072/toshiba-aurex-ax-rp10-record-player-wireless-portable-vinyl)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

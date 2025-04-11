@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So much winning for oligarchs and friends](http://9gag.com/gag/amom12y)
- - 😝 [Rememberwhoyouare](http://9gag.com/gag/aD2ZDqw)
- - 💣 [Another one from my meme archives to cleanse your feed](http://9gag.com/gag/a7oVOWe)
- - 😝 [`So f**king hot`](http://9gag.com/gag/aRBzLV7)
- - 👉 [The difference between conspiracy theory and reality is just a couple of months](http://9gag.com/gag/aByP69O)<!-- MEMES:END -->
+ - 😝 [Someone tell me what this is...](http://9gag.com/gag/adBngQD)
+ - 😝 [What would you do ?](http://9gag.com/gag/a9y8qDL)
+ - 💣 [Flat is Justice](http://9gag.com/gag/aNDVPN6)
+ - 😝 [For my friend? ALWAYS.](http://9gag.com/gag/a2vy8VO)
+ - 👉 [If `F**k around and find out` was a person:](http://9gag.com/gag/a9y8yDK)<!-- MEMES:END -->
 
 ---
 

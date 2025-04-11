@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China exempts products from AMD, Nvidia, Intel, Qualcomm, and others that are made by Taiwanese companies like TSMC from the 125% tariff on US products &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250411/p17#a250411p17)
+ - [7 Essential Vitamins to Support Healthy Hair Growth](https://www.cnet.com/health/nutrition/7-essential-vitamins-to-support-healthy-hair-growth/#ftag=CAD590a51e)
  - [DoorDash is expanding into sidewalk robot delivery in the US](https://www.theverge.com/news/647206/door-dash-coco-side-walk-robot-delivery-la-chicago)
- - [Buckle up for more subscriptions](https://www.theverge.com/news/647055/garmin-polar-subscriptions-tariffs)
- - [SmartScout: China-based electronics accessories maker Anker has raised prices by ~18% on a fifth of its products on Amazon, as US starts applying new tariffs &lpar;Reuters&rpar;](http://www.techmeme.com/250411/p16#a250411p16)
- - [US Tariffs Could Make Smartphones Dumber](https://www.wired.com/story/us-tariffs-could-make-smartphones-dumber/)
- - [T-Mobile Increases Prices Again for Some Customers](https://www.cnet.com/tech/mobile/t-mobile-increases-prices-again-for-some-customers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Last of Us Complete Likely Not Last Time We&#39;ll See the Last of Us](https://www.cnet.com/tech/gaming/the-last-of-us-complete-likely-not-last-time-well-see-the-last-of-us/#ftag=CAD590a51e)
+ - [Apple Shoppers Are Panic-Buying iPhones as Tariffs Hit, Report Says](https://www.cnet.com/tech/mobile/apple-shoppers-are-panic-buying-iphones-as-tariffs-hit-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DoorDash is expanding into sidewalk robot delivery in the US](https://www.theverge.com/news/647206/door-dash-coco-side-walk-robot-delivery-la-chicago)
  - [Buckle up for more subscriptions](https://www.theverge.com/news/647055/garmin-polar-subscriptions-tariffs)
  - [SmartScout: China-based electronics accessories maker Anker has raised prices by ~18% on a fifth of its products on Amazon, as US starts applying new tariffs &lpar;Reuters&rpar;](http://www.techmeme.com/250411/p16#a250411p16)
  - [US Tariffs Could Make Smartphones Dumber](https://www.wired.com/story/us-tariffs-could-make-smartphones-dumber/)
- - [Apple Vision Pro 2: What the rumor mill sees coming, and when it might arrive](https://appleinsider.com/articles/25/04/11/apple-vision-pro-2-what-the-rumor-mill-sees-coming-and-when-it-might-arrie?utm_medium=rss)
- - [Apple hampered its Siri ambitions by penny-pinching](https://appleinsider.com/articles/25/04/11/apple-hampered-its-siri-ambitions-by-penny-pinching?utm_medium=rss)<!-- TECH:END -->
+ - [T-Mobile Increases Prices Again for Some Customers](https://www.cnet.com/tech/mobile/t-mobile-increases-prices-again-for-some-customers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple stock rebounds again following week of tariff chaos](https://appleinsider.com/articles/25/04/11/apple-stock-rebounds-again-following-week-of-tariff-chaos?utm_medium=rss)
+ - [Ann Arbor, Michigan-based Optilogic, a supply chain software provider, raised a $40M Series B led by NewRoad Capital and launches a tariff optimization tool &lpar;Colin Campbell/Axios&rpar;](http://www.techmeme.com/250411/p21#a250411p21)
  - [A group of former OpenAI employees file an amicus brief in support of Elon Musk in his lawsuit opposing OpenAI&#39;s for-profit transition &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250411/p20#a250411p20)
  - [You can run Doom on this $666 collector&amp;#8217;s edition box](https://www.theverge.com/news/647361/doom-limited-run-games-collector-edition-cacodemon-handheld)
- - [ChatGPT is transforming LinkedIn users into really dull dolls](https://www.theverge.com/news/647356/chatgpt-ai-barbie-action-figure-viral-trend)
- - [Best MicroSD Express Cards for Nintendo Switch 2 You Can Buy Right Now](https://www.cnet.com/deals/best-microsd-express-cards-for-nintendo-switch-2/#ftag=CAD590a51e)
- - [There is increasing uncertainty about China approving Synopsys&#39; $35B Ansys acquisition, amid the escalating tariff fight between the US and China &lpar;Bloomberg&rpar;](http://www.techmeme.com/250411/p19#a250411p19)<!-- TECH:END -->
+ - [ChatGPT is transforming LinkedIn users into really dull dolls](https://www.theverge.com/news/647356/chatgpt-ai-barbie-action-figure-viral-trend)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

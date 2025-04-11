@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [No.. I&#39;m not entering that](http://9gag.com/gag/aAy4Ee0)
  - 😝 [This guy was mining 1 Bitcoin per day in 2011](http://9gag.com/gag/ayNW3Zb)
- - 😝 [What in the Happy-Tree-Friends f**k!?](http://9gag.com/gag/avyEyNX)
- - 💣 [Nightmares](http://9gag.com/gag/a0e6X7q)
+ - 💣 [Guy tries to help spider out without killing it](http://9gag.com/gag/aGyMyg0)
  - 😝 [For my friend? ALWAYS.](http://9gag.com/gag/a2vy8VO)
- - 👉 [I expect that screenshot](http://9gag.com/gag/aZZQZV9)<!-- MEMES:END -->
+ - 👉 [`So f**king hot`](http://9gag.com/gag/aRBzLV7)<!-- MEMES:END -->
 
 ---
 

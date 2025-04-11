@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If `F**k around and find out` was a person:](http://9gag.com/gag/a9y8yDK)
+ - 😝 [Sweet girl](http://9gag.com/gag/ayNWNRq)
  - 😝 [What in the Happy-Tree-Friends f**k!?](http://9gag.com/gag/avyEyNX)
  - 💣 [\u201cArtax! Don\u2019t let the sadness of the swamp get to you!\u201d](http://9gag.com/gag/apRP6K9)
  - 😝 [For my friend? ALWAYS.](http://9gag.com/gag/a2vy8VO)
- - 👉 [I love lamp ...](http://9gag.com/gag/aVvmved)<!-- MEMES:END -->
+ - 👉 [Guy tries to help spider out without killing it](http://9gag.com/gag/aGyMyg0)<!-- MEMES:END -->
 
 ---
 

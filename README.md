@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who invented this?](http://9gag.com/gag/a87DqAZ)
- - 😝 [And then Inflation happened](http://9gag.com/gag/a34yAb8)
- - 💣 [What would you do ?](http://9gag.com/gag/a9y8qDL)
+ - 😝 [Notice how only women are attending](http://9gag.com/gag/aXP4N5v)
+ - 😝 [This guy was mining 1 Bitcoin per day in 2011](http://9gag.com/gag/ayNW3Zb)
+ - 💣 [What in the Happy-Tree-Friends f**k!?](http://9gag.com/gag/avyEyNX)
  - 😝 [For my friend? ALWAYS.](http://9gag.com/gag/a2vy8VO)
- - 👉 [What in the Happy-Tree-Friends f**k!?](http://9gag.com/gag/avyEyNX)<!-- MEMES:END -->
+ - 👉 [Sweet girl](http://9gag.com/gag/ayNWNRq)<!-- MEMES:END -->
 
 ---
 

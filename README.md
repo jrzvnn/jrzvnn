@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ireland&#39;s DPC launches a probe into how personal data in publicly accessible X posts was used to train Grok, which could stoke tensions between the EU and US &lpar;Ellen O&#39;Regan/Politico&rpar;](http://www.techmeme.com/250411/p13#a250411p13)
- - [China calls Trump&#39;s trade war a joke, jumps tariffs on U.S. goods to 125%](https://appleinsider.com/articles/25/04/11/china-calls-trumps-trade-war-a-joke-jumps-tariffs-on-us-goods-to-125?utm_medium=rss)
- - [Tesla’s latest Cybertruck has longer range and the cheapest price yet](https://www.theverge.com/news/647060/tesla-cybertruck-rwd-long-lange-model-launch-entry)
- - [Pixel Watch 4 leaks suggest Google is doubling down on battery again](https://www.theverge.com/news/647012/pixel-watch-4-renders-onleaks)
- - [China&#39;s retail giants launch initiatives to help Chinese exporters pivot to the domestic market in response to the US trade war; JD.com launched a $27B fund &lpar;Reuters&rpar;](http://www.techmeme.com/250411/p12#a250411p12)<!-- TECH:END -->
+ - [OpenAI will retire GPT-4, launched over two years ago, from ChatGPT on April 30, to be &quot;fully replaced&quot; by GPT-4o; GPT-4 will remain available in OpenAI&#39;s API &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250411/p14#a250411p14)
+ - [Bring your vinyl to the beach with Toshiba’s new portable wireless record player](https://www.theverge.com/news/647072/toshiba-aurex-ax-rp10-record-player-wireless-portable-vinyl)
+ - [The Verge is nominated for two Webby Awards — help us win them!](https://www.theverge.com/video/646816/webby-nominations-2025-vergecast-video)
+ - [Dame Hug Review: A Sex Toy for Couples](https://www.wired.com/review/dame-hug/)
+ - [The moms are thrifting on Instagram](https://www.theverge.com/creators/647027/instagram-resellers-thrifting-sale-shop-preowned-clothing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

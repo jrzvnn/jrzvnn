@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And then Inflation happened](http://9gag.com/gag/a34yAb8)
  - 😝 [She feeling proud or not?](http://9gag.com/gag/agm8QXq)
+ - 😝 [Hey mister](http://9gag.com/gag/a7oV1Dz)
  - 💣 [`So f**king hot`](http://9gag.com/gag/aRBzLV7)
  - 😝 [For my friend? ALWAYS.](http://9gag.com/gag/a2vy8VO)
- - 👉 [I expect that screenshot](http://9gag.com/gag/aZZQZV9)<!-- MEMES:END -->
+ - 👉 [What would you do ?](http://9gag.com/gag/a9y8qDL)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ohhhh the Turmanity](http://9gag.com/gag/a87DmX3)
- - 😝 [She delivers daily savage beatdowns](http://9gag.com/gag/a5QGwrG)
- - 💣 [Buster Keaton crazy stunt 1924](http://9gag.com/gag/ayNW4qq)
+ - 😝 [If `F**k around and find out` was a person:](http://9gag.com/gag/a9y8yDK)
+ - 😝 [What in the Happy-Tree-Friends f**k!?](http://9gag.com/gag/avyEyNX)
+ - 💣 [\u201cArtax! Don\u2019t let the sadness of the swamp get to you!\u201d](http://9gag.com/gag/apRP6K9)
  - 😝 [For my friend? ALWAYS.](http://9gag.com/gag/a2vy8VO)
- - 👉 [When she wants to drive but you want to stay alive](http://9gag.com/gag/a9y88p0)<!-- MEMES:END -->
+ - 👉 [I love lamp ...](http://9gag.com/gag/aVvmved)<!-- MEMES:END -->
 
 ---
 

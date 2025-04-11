@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/ayNW3bV)
- - 😝 [You are a battery](http://9gag.com/gag/aKGWG3O)
- - 💣 [Men hungry, men like food, men like women make food. Men simple.](http://9gag.com/gag/a9y8yED)
- - 😝 [300lbs vs 50lbs](http://9gag.com/gag/aLnGv4v)
- - 👉 [What would you do ?](http://9gag.com/gag/a9y8qDL)<!-- MEMES:END -->
+ - 😝 [So much winning for oligarchs and friends](http://9gag.com/gag/amom12y)
+ - 😝 [Rememberwhoyouare](http://9gag.com/gag/aD2ZDqw)
+ - 💣 [Another one from my meme archives to cleanse your feed](http://9gag.com/gag/a7oVOWe)
+ - 😝 [`So f**king hot`](http://9gag.com/gag/aRBzLV7)
+ - 👉 [The difference between conspiracy theory and reality is just a couple of months](http://9gag.com/gag/aByP69O)<!-- MEMES:END -->
 
 ---
 

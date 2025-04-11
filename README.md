@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shopify Workers Are Expected to Use Gen AI at Work. Is Your Job Next?](https://www.cnet.com/tech/services-and-software/shopify-workers-are-expected-to-use-gen-ai-at-work-is-your-job-next/#ftag=CAD590a51e)
- - [Palantir Is Helping DOGE With a Massive IRS Data Project](https://www.wired.com/story/palantir-doge-irs-mega-api-data/)
- - [Sources: Ilya Sutskever&#39;s Safe Superintelligence raised $2B led by Greenoaks at a $32B valuation; SSI last raised $1B at a $5B valuation in September 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/250411/p24#a250411p24)
- - [Load Faster and Crash Less with Marvel Rival&#39;s New Experimental Feature](https://www.cnet.com/tech/gaming/load-faster-and-crash-less-with-marvel-rivals-new-experimental-feature/#ftag=CAD590a51e)
- - [Meta adds Stripe CEO Patrick Collison and Dina Powell McCormick, who worked as deputy national security adviser to Trump in his first term, to its board &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250411/p23#a250411p23)<!-- TECH:END -->
+ - [Katy Perry Blasts to Space With Blue Origin Monday: How to Watch](https://www.cnet.com/science/space/katy-perry-blasts-to-space-with-blue-origin-monday-how-to-watch/#ftag=CAD590a51e)
+ - [Anker Products on Amazon Are Reportedly 18% More Expensive as Tariffs Ramp Up](https://www.cnet.com/tech/computing/anker-products-on-amazon-are-already-18-more-expensive-as-tariffs-ramp-up-report-says/#ftag=CAD590a51e)
+ - [Kia Is Joining the EV Pickup Segment With a Truck Coming to the US](https://www.cnet.com/roadshow/news/kia-is-joining-the-ev-pickup-segment-with-a-truck-coming-to-the-us/#ftag=CAD590a51e)
+ - [Razer Laptop Sales Halted in US Due to Tariffs, Report Says](https://www.cnet.com/tech/gaming/razer-laptop-sales-halted-in-us-due-to-tariffs-report-says/#ftag=CAD590a51e)
+ - [Shopify Workers Are Expected to Use Gen AI at Work. Is Your Job Next?](https://www.cnet.com/tech/services-and-software/shopify-workers-are-expected-to-use-gen-ai-at-work-is-your-job-next/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

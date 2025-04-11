@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Legal activities](http://9gag.com/gag/aXP4oQV)
- - 😝 [What would you do ?](http://9gag.com/gag/a9y8qDL)
- - 💣 [When things turn out better than you expected](http://9gag.com/gag/a34y4zQ)
+ - 😝 [And then Inflation happened](http://9gag.com/gag/a34yAb8)
+ - 😝 [She feeling proud or not?](http://9gag.com/gag/agm8QXq)
+ - 💣 [`So f**king hot`](http://9gag.com/gag/aRBzLV7)
  - 😝 [For my friend? ALWAYS.](http://9gag.com/gag/a2vy8VO)
  - 👉 [I expect that screenshot](http://9gag.com/gag/aZZQZV9)<!-- MEMES:END -->
 

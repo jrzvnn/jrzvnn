@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`So f**king hot`](http://9gag.com/gag/aRBzLV7)
- - 😝 [Rememberwhoyouare](http://9gag.com/gag/aD2ZDqw)
- - 💣 [Cave divers as soon as they hear there is a new spot called `The devil&#39;s asscrack` with 0% Survival rate](http://9gag.com/gag/aAy46X2)
- - 😝 [So much winning for oligarchs and friends](http://9gag.com/gag/amom12y)
- - 👉 [Oui zoun&#39;t taulke laeque z\u00e0t](http://9gag.com/gag/aqyQX8R)<!-- MEMES:END -->
+ - 😝 [This would be a sign the world is healing](http://9gag.com/gag/awyLy7Q)
+ - 😝 [Typical day in EU paradise!](http://9gag.com/gag/aZZQrg6)
+ - 💣 [Every romance movie is just a woman cheating on her hardworking husband](http://9gag.com/gag/azxGxPx)
+ - 😝 [If `F**k around and find out` was a person:](http://9gag.com/gag/a9y8yDK)
+ - 👉 [What would you do ?](http://9gag.com/gag/a9y8qDL)<!-- MEMES:END -->
 
 ---
 

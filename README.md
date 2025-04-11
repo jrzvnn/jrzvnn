@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hey mister](http://9gag.com/gag/a7oV1Dz)
  - 😝 [Legal activities](http://9gag.com/gag/aXP4oQV)
- - 💣 [If `F**k around and find out` was a person:](http://9gag.com/gag/a9y8yDK)
+ - 😝 [What would you do ?](http://9gag.com/gag/a9y8qDL)
+ - 💣 [When things turn out better than you expected](http://9gag.com/gag/a34y4zQ)
  - 😝 [For my friend? ALWAYS.](http://9gag.com/gag/a2vy8VO)
- - 👉 [`The key to a happy life is to accept that you are never actually in control`](http://9gag.com/gag/a9y813m)<!-- MEMES:END -->
+ - 👉 [I expect that screenshot](http://9gag.com/gag/aZZQZV9)<!-- MEMES:END -->
 
 ---
 

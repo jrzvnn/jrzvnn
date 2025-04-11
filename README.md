@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Dog Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-dog-accessories/)
  - [Microsoft is rolling out a preview of its Recall AI feature to Copilot+ PCs, after previously delaying its launch twice over security and privacy concerns &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250411/p11#a250411p11)
  - [26 Best Gifts for Cat Lovers &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-cat-lovers/)
  - [This Famous Physics Experiment Shows Why the Government Should Support ‘Useless’ Science](https://www.wired.com/story/why-the-government-should-support-useless-science/)
- - [Doctor Who’s new companion is going to keep him on his toes](https://www.theverge.com/interview/644708/doctor-whos-new-companion-is-going-to-keep-him-on-his-toes)
- - [How the tech world is responding to tariff chaos](https://www.theverge.com/the-vergecast/647001/tariffs-trump-tech-prices-vergecast)<!-- TECH:END -->
+ - [Doctor Who’s new companion is going to keep him on his toes](https://www.theverge.com/interview/644708/doctor-whos-new-companion-is-going-to-keep-him-on-his-toes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

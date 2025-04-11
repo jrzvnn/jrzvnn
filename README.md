@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cave divers as soon as they hear there is a new spot called `The devil&#39;s asscrack` with 0% Survival rate](http://9gag.com/gag/aAy46X2)
- - 😝 [When things turn out better than you expected](http://9gag.com/gag/a34y4zQ)
- - 💣 [Every romance movie is just a woman cheating on her hardworking husband](http://9gag.com/gag/azxGxPx)
+ - 😝 [Rememberwhoyouare](http://9gag.com/gag/aD2ZDqw)
  - 😝 [`So f**king hot`](http://9gag.com/gag/aRBzLV7)
- - 👉 [Hey mister](http://9gag.com/gag/a7oV1Dz)<!-- MEMES:END -->
+ - 💣 [So much winning for oligarchs and friends](http://9gag.com/gag/amom12y)
+ - 😝 [The difference between conspiracy theory and reality is just a couple of months](http://9gag.com/gag/aByP69O)
+ - 👉 [Another one from my meme archives to cleanse your feed](http://9gag.com/gag/a7oVOWe)<!-- MEMES:END -->
 
 ---
 

@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Madrid-based Jobandtalent, which connects gig workers with companies, raised a $103M Series F at a $1.5B valuation, down from its $500M Series E at $2.35B &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250411/p7#a250411p7)
  - [ChatGPT will now remember your old conversations](https://www.theverge.com/news/646968/openai-chatgpt-long-term-memory-upgrade)
  - [Bermuda-based Meanwhile, which offers life insurance to US citizens with BTC holdings, raised a $40M Series A led by Framework and Fulgur at a $190M valuation &lpar;Catherine McGrath/Fortune&rpar;](http://www.techmeme.com/250411/p6#a250411p6)
- - [China calls US a &amp;#8216;joke&amp;#8217; as it raises tariff for final time](https://www.theverge.com/news/646949/china-tariff-increase-trump-retaliation-us-joke)
- - [American small-business owners who source goods from overseas, especially from China, and sell them online, face acute uncertainty about the tariffs&#39; impact &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/250411/p5#a250411p5)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 11, #200](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-11-200/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 11, #404](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-11-404/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Netflix is testing an OpenAI-powered search engine that lets users find shows via inquiries that go beyond genres or actors&#39; names, like the subscriber&#39;s mood &lpar;Bloomberg&rpar;](http://www.techmeme.com/250411/p26#a250411p26)
  - [Apple Pencil Pro can now look like a crayon](https://appleinsider.com/articles/25/04/11/apple-pencil-pro-can-now-look-like-a-crayon?utm_medium=rss)
  - [Revolut plans to add UK stocks to its trading platform as some investors look to diversify away from US equities, and says it has over 800K UK trading customers &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/250411/p25#a250411p25)
- - [Katy Perry Blasts to Space With Blue Origin Monday: How to Watch](https://www.cnet.com/science/space/katy-perry-blasts-to-space-with-blue-origin-monday-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AI and Data Centers Could Use as Much Energy as Japan by 2030](https://www.cnet.com/tech/services-and-software/ai-and-data-centers-could-use-as-much-energy-as-japan-by-2030/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

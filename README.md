@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This Famous Physics Experiment Shows Why the Government Should Support ‘Useless’ Science](https://www.wired.com/story/why-the-government-should-support-useless-science/)
  - [Sources: Tim Cook approved doubling Apple&#39;s AI chips budget in 2023 after John Giannandrea sought more GPUs, but CFO Luca Maestri cut the increase to under half &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/250411/p8#a250411p8)
  - [Sex-Fantasy Chatbots Are Leaking a Constant Stream of Explicit Messages](https://www.wired.com/story/sex-fantasy-chatbots-are-leaking-explicit-messages-every-minute/)
- - [Madrid-based Jobandtalent, which connects gig workers with companies, raised a $103M Series F at a $1.5B valuation, down from its $500M Series E at $2.35B &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250411/p7#a250411p7)
- - [ChatGPT will now remember your old conversations](https://www.theverge.com/news/646968/openai-chatgpt-long-term-memory-upgrade)
- - [Bermuda-based Meanwhile, which offers life insurance to US citizens with BTC holdings, raised a $40M Series A led by Framework and Fulgur at a $190M valuation &lpar;Catherine McGrath/Fortune&rpar;](http://www.techmeme.com/250411/p6#a250411p6)<!-- TECH:END -->
+ - [8 Muscle-Building Foods That&#39;ll Actually Help You See Results](https://www.cnet.com/health/nutrition/best-muscle-building-foods/#ftag=CAD590a51e)
+ - [If You Only Watch One &#39;Black Mirror&#39; Episode, It Should Be This Romantic Mindbender](https://www.cnet.com/tech/services-and-software/if-you-only-watch-one-black-mirror-episode-it-should-be-this-romantic-mindbender/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

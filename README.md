@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Notice how only women are attending](http://9gag.com/gag/aXP4N5v)
- - 😝 [This guy was mining 1 Bitcoin per day in 2011](http://9gag.com/gag/ayNW3Zb)
- - 💣 [What in the Happy-Tree-Friends f**k!?](http://9gag.com/gag/avyEyNX)
+ - 😝 [What would you do ?](http://9gag.com/gag/a9y8qDL)
+ - 😝 [And then Inflation happened](http://9gag.com/gag/a34yAb8)
+ - 💣 [This guy was mining 1 Bitcoin per day in 2011](http://9gag.com/gag/ayNW3Zb)
  - 😝 [For my friend? ALWAYS.](http://9gag.com/gag/a2vy8VO)
- - 👉 [Sweet girl](http://9gag.com/gag/ayNWNRq)<!-- MEMES:END -->
+ - 👉 [\u201cArtax! Don\u2019t let the sadness of the swamp get to you!\u201d](http://9gag.com/gag/apRP6K9)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Title](http://9gag.com/gag/ayNW3bV)
+ - 😝 [You are a battery](http://9gag.com/gag/aKGWG3O)
+ - 💣 [Men hungry, men like food, men like women make food. Men simple.](http://9gag.com/gag/a9y8yED)
  - 😝 [300lbs vs 50lbs](http://9gag.com/gag/aLnGv4v)
- - 😝 [Cave divers as soon as they hear there is a new spot called `The devil&#39;s asscrack` with 0% Survival rate](http://9gag.com/gag/aAy46X2)
- - 💣 [I expect that screenshot](http://9gag.com/gag/aZZQZV9)
- - 😝 [We don&#39;t have to live like this](http://9gag.com/gag/aAy4yMo)
- - 👉 [Hey mister](http://9gag.com/gag/a7oV1Dz)<!-- MEMES:END -->
+ - 👉 [What would you do ?](http://9gag.com/gag/a9y8qDL)<!-- MEMES:END -->
 
 ---
 

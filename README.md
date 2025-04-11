@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China&#39;s retail giants launch initiatives to help Chinese exporters pivot to the domestic market in response to the US trade war; JD.com launched a $27B fund &lpar;Reuters&rpar;](http://www.techmeme.com/250411/p12#a250411p12)
+ - [China calls Trump&#39;s trade war a joke, jumps tariffs on U.S. goods to 125%](https://appleinsider.com/articles/25/04/11/china-calls-trumps-trade-war-a-joke-jumps-tariffs-on-us-goods-to-125?utm_medium=rss)
+ - [Tesla’s latest Cybertruck has longer range and the cheapest price yet](https://www.theverge.com/news/647060/tesla-cybertruck-rwd-long-lange-model-launch-entry)
+ - [Pixel Watch 4 leaks suggest Google is doubling down on battery again](https://www.theverge.com/news/647012/pixel-watch-4-renders-onleaks)
  - [Celebrate Surfshark VPN&#39;s birthday with deals from $1.99/mo on the premium service](https://appleinsider.com/articles/25/04/11/celebrate-surfshark-vpns-birthday-with-deals-from-199mo-on-the-premium-service?utm_medium=rss)
- - [Where Were Big Tech’s CEOs on Tariffs?](https://www.wired.com/story/plaintext-tech-ceos-silent-trump-tariffs/)
- - [‘Book Boyfriends’ and ‘Shadow Daddies’: the men cashing in on romantasy](https://www.theverge.com/books/642259/booktok-romantasy-men)
- - [Best Dog Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-dog-accessories/)<!-- TECH:END -->
+ - [Where Were Big Tech’s CEOs on Tariffs?](https://www.wired.com/story/plaintext-tech-ceos-silent-trump-tariffs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

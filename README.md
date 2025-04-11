@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Another one from my meme archives to cleanse your feed](http://9gag.com/gag/a7oVOWe)
- - 😝 [Smoke Ring Toss](http://9gag.com/gag/avyEWxO)
- - 💣 [Oui zoun&#39;t taulke laeque z\u00e0t](http://9gag.com/gag/aqyQX8R)
+ - 😝 [`The key to a happy life is to accept that you are never actually in control`](http://9gag.com/gag/a9y813m)
+ - 😝 [Hey mister](http://9gag.com/gag/a7oV1Dz)
+ - 💣 [For the modern audience.](http://9gag.com/gag/aKGWGN6)
  - 😝 [For my friend? ALWAYS.](http://9gag.com/gag/a2vy8VO)
- - 👉 [`So f**king hot`](http://9gag.com/gag/aRBzLV7)<!-- MEMES:END -->
+ - 👉 [This is how you get drug dealers to stop landing airplanes on your roads](http://9gag.com/gag/apRP9xW)<!-- MEMES:END -->
 
 ---
 

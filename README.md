@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Notice how only women are attending](http://9gag.com/gag/aXP4N5v)
- - 😝 [I love lamp ...](http://9gag.com/gag/aVvmved)
- - 💣 [`So f**king hot`](http://9gag.com/gag/aRBzLV7)
+ - 😝 [Why the tape?](http://9gag.com/gag/axyb3vn)
+ - 😝 [Sweet girl](http://9gag.com/gag/ayNWNRq)
+ - 💣 [Bro&#39;s about to accidentally nuke Soviet union](http://9gag.com/gag/aVvmbNw)
  - 😝 [For my friend? ALWAYS.](http://9gag.com/gag/a2vy8VO)
- - 👉 [The worst part of betrayal is that it is never from your enemies](http://9gag.com/gag/an7vnYL)<!-- MEMES:END -->
+ - 👉 [`So f**king hot`](http://9gag.com/gag/aRBzLV7)<!-- MEMES:END -->
 
 ---
 

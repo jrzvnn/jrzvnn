@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta adds Stripe CEO Patrick Collison and Dina Powell McCormick, who worked as deputy national security adviser to Trump in his first term, to its board &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250411/p23#a250411p23)
+ - [Baldur&amp;#8217;s Gate 3 is getting 12 new subclasses next week](https://www.theverge.com/news/647395/baldurs-gate-3-patch-8-release-date)
  - [Blue Water Autonomy, which says it is building a 100-ton autonomous naval ship, emerges from stealth with a $14M seed from Eclipse VC, Riot, and Impatient &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/250411/p22#a250411p22)
  - [10 Best Android Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
- - [This algorithm wasn&amp;#8217;t supposed to keep people in jail, but it does in Louisiana](https://www.theverge.com/news/647405/louisiana-tiger-algorithm-parole)
- - [Best Smartwatch for 2025](https://www.cnet.com/tech/mobile/best-smartwatch/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 12, #201](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-12-201/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This algorithm wasn&amp;#8217;t supposed to keep people in jail, but it does in Louisiana](https://www.theverge.com/news/647405/louisiana-tiger-algorithm-parole)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

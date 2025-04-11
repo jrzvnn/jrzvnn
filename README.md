@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sweden will never be the same, downhill from now on Sweden \ud83c\uddf8\ud83c\uddea.](http://9gag.com/gag/aNDV9qb)
  - 😝 [Cave divers as soon as they hear there is a new spot called `The devil&#39;s asscrack` with 0% Survival rate](http://9gag.com/gag/aAy46X2)
- - 💣 [I love lamp ...](http://9gag.com/gag/aVvmved)
+ - 😝 [Mind Blowing Idea](http://9gag.com/gag/ajPBOLp)
+ - 💣 [Building nightmare](http://9gag.com/gag/adBn1mN)
  - 😝 [For my friend? ALWAYS.](http://9gag.com/gag/a2vy8VO)
- - 👉 [This guy was mining 1 Bitcoin per day in 2011](http://9gag.com/gag/ayNW3Zb)<!-- MEMES:END -->
+ - 👉 [The worst part of betrayal is that it is never from your enemies](http://9gag.com/gag/an7vnYL)<!-- MEMES:END -->
 
 ---
 

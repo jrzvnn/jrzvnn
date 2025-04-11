@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta goes to trial to avoid a breakup](https://www.theverge.com/policy/646828/meta-ftc-antitrust-trial-preview-instagram-whatsapp)
- - [US Defense Secretary Pete Hegseth cuts $5.1B in IT and consulting contracts, including with Accenture and Deloitte, calling them &quot;wasteful spending&quot; &lpar;Business Insider&rpar;](http://www.techmeme.com/250411/p10#a250411p10)
- - [France plans country-wide digital identity cards on iPhone by the summer](https://appleinsider.com/articles/25/04/11/france-plans-country-wide-digital-identity-cards-on-iphone-by-the-summer?utm_medium=rss)
- - [AI reasoning models cost more to benchmark, making it harder to independently verify claims; Artificial Analysis: OpenAI&#39;s o1 costs $2,767.05 to evaluate &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250411/p9#a250411p9)
- - [I’m Googley-Eyed for the Walton Goggins Goggle Glasses](https://www.wired.com/story/walton-goggins-goggle-glasses-rave/)<!-- TECH:END -->
+ - [This Famous Physics Experiment Shows Why the Government Should Support ‘Useless’ Science](https://www.wired.com/story/why-the-government-should-support-useless-science/)
+ - [Doctor Who’s new companion is going to keep him on his toes](https://www.theverge.com/interview/644708/doctor-whos-new-companion-is-going-to-keep-him-on-his-toes)
+ - [How the tech world is responding to tariff chaos](https://www.theverge.com/the-vergecast/647001/tariffs-trump-tech-prices-vergecast)
+ - [The Best Cat Toys for Your Furry Friend &lpar;2025&rpar;](https://www.wired.com/story/best-cat-toys/)
+ - [10 Best Sunglasses of 2025: Meta Ray-Ban, Oakleys, and More](https://www.wired.com/gallery/best-sunglasses/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

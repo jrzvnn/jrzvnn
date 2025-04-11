@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What would you do ?](http://9gag.com/gag/a9y8qDL)
- - 😝 [The worst part of betrayal is that it is never from your enemies](http://9gag.com/gag/an7vnYL)
- - 💣 [Sweet girl](http://9gag.com/gag/ayNWNRq)
+ - 😝 [Who invented this?](http://9gag.com/gag/a87DqAZ)
+ - 😝 [And then Inflation happened](http://9gag.com/gag/a34yAb8)
+ - 💣 [What would you do ?](http://9gag.com/gag/a9y8qDL)
  - 😝 [For my friend? ALWAYS.](http://9gag.com/gag/a2vy8VO)
- - 👉 [Bro&#39;s about to accidentally nuke Soviet union](http://9gag.com/gag/aVvmbNw)<!-- MEMES:END -->
+ - 👉 [What in the Happy-Tree-Friends f**k!?](http://9gag.com/gag/avyEyNX)<!-- MEMES:END -->
 
 ---
 

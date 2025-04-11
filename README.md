@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [A group of former OpenAI employees file an amicus brief in support of Elon Musk in his lawsuit opposing OpenAI&#39;s for-profit transition &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250411/p20#a250411p20)
  - [You can run Doom on this $666 collector&amp;#8217;s edition box](https://www.theverge.com/news/647361/doom-limited-run-games-collector-edition-cacodemon-handheld)
  - [ChatGPT is transforming LinkedIn users into really dull dolls](https://www.theverge.com/news/647356/chatgpt-ai-barbie-action-figure-viral-trend)
- - [There is increasing uncertainty about China approving Synopsys&#39; $35B Ansys acquisition, amid the escalating tariff fight between the US and China &lpar;Bloomberg&rpar;](http://www.techmeme.com/250411/p19#a250411p19)
- - [You can save up to $1,800 on Samsung’s last-gen Frame TV](https://www.theverge.com/tech/647229/samsung-frame-tv-light-phone-3-preorder-deal-sale)<!-- TECH:END -->
+ - [Best MicroSD Express Cards for Nintendo Switch 2 You Can Buy Right Now](https://www.cnet.com/deals/best-microsd-express-cards-for-nintendo-switch-2/#ftag=CAD590a51e)
+ - [There is increasing uncertainty about China approving Synopsys&#39; $35B Ansys acquisition, amid the escalating tariff fight between the US and China &lpar;Bloomberg&rpar;](http://www.techmeme.com/250411/p19#a250411p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

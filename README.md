@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`So f**king hot`](http://9gag.com/gag/aRBzLV7)
- - 😝 [I wonder how it tasted](http://9gag.com/gag/aoy4y4X)
- - 💣 [Hey mister](http://9gag.com/gag/a7oV1Dz)
+ - 😝 [Hey mister](http://9gag.com/gag/a7oV1Dz)
+ - 😝 [Legal activities](http://9gag.com/gag/aXP4oQV)
+ - 💣 [If `F**k around and find out` was a person:](http://9gag.com/gag/a9y8yDK)
  - 😝 [For my friend? ALWAYS.](http://9gag.com/gag/a2vy8VO)
- - 👉 [What would you do ?](http://9gag.com/gag/a9y8qDL)<!-- MEMES:END -->
+ - 👉 [`The key to a happy life is to accept that you are never actually in control`](http://9gag.com/gag/a9y813m)<!-- MEMES:END -->
 
 ---
 

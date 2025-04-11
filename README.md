@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Digg will let you reserve your username &lpar;for a price&rpar;](https://www.theverge.com/news/646985/digg-relaunch-groundbreakers-early-access-username-reservation-5-dollars)
+ - [Pages for iPad explained -- how to get the most out of Apple&#39;s word processing power house](https://appleinsider.com/inside/iwork/tips/pages-for-ipad-explained----how-to-get-the-most-out-of-apples-word-processing-power-house?utm_medium=rss)
  - [This Famous Physics Experiment Shows Why the Government Should Support ‘Useless’ Science](https://www.wired.com/story/why-the-government-should-support-useless-science/)
  - [Sources: Tim Cook approved doubling Apple&#39;s AI chips budget in 2023 after John Giannandrea sought more GPUs, but CFO Luca Maestri cut the increase to under half &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/250411/p8#a250411p8)
- - [Sex-Fantasy Chatbots Are Leaking a Constant Stream of Explicit Messages](https://www.wired.com/story/sex-fantasy-chatbots-are-leaking-explicit-messages-every-minute/)
- - [8 Muscle-Building Foods That&#39;ll Actually Help You See Results](https://www.cnet.com/health/nutrition/best-muscle-building-foods/#ftag=CAD590a51e)
- - [If You Only Watch One &#39;Black Mirror&#39; Episode, It Should Be This Romantic Mindbender](https://www.cnet.com/tech/services-and-software/if-you-only-watch-one-black-mirror-episode-it-should-be-this-romantic-mindbender/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sex-Fantasy Chatbots Are Leaking a Constant Stream of Explicit Messages](https://www.wired.com/story/sex-fantasy-chatbots-are-leaking-explicit-messages-every-minute/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

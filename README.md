@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Pencil Pro can now look like a crayon](https://appleinsider.com/articles/25/04/11/apple-pencil-pro-can-now-look-like-a-crayon?utm_medium=rss)
+ - [Revolut plans to add UK stocks to its trading platform as some investors look to diversify away from US equities, and says it has over 800K UK trading customers &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/250411/p25#a250411p25)
  - [Katy Perry Blasts to Space With Blue Origin Monday: How to Watch](https://www.cnet.com/science/space/katy-perry-blasts-to-space-with-blue-origin-monday-how-to-watch/#ftag=CAD590a51e)
  - [Anker Products on Amazon Are Reportedly 18% More Expensive as Tariffs Ramp Up](https://www.cnet.com/tech/computing/anker-products-on-amazon-are-already-18-more-expensive-as-tariffs-ramp-up-report-says/#ftag=CAD590a51e)
- - [Kia Is Joining the EV Pickup Segment With a Truck Coming to the US](https://www.cnet.com/roadshow/news/kia-is-joining-the-ev-pickup-segment-with-a-truck-coming-to-the-us/#ftag=CAD590a51e)
- - [Razer Laptop Sales Halted in US Due to Tariffs, Report Says](https://www.cnet.com/tech/gaming/razer-laptop-sales-halted-in-us-due-to-tariffs-report-says/#ftag=CAD590a51e)
- - [Shopify Workers Are Expected to Use Gen AI at Work. Is Your Job Next?](https://www.cnet.com/tech/services-and-software/shopify-workers-are-expected-to-use-gen-ai-at-work-is-your-job-next/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Kia Is Joining the EV Pickup Segment With a Truck Coming to the US](https://www.cnet.com/roadshow/news/kia-is-joining-the-ev-pickup-segment-with-a-truck-coming-to-the-us/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

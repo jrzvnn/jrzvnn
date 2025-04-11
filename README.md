@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She feeling proud or not?](http://9gag.com/gag/agm8QXq)
- - 😝 [Hey mister](http://9gag.com/gag/a7oV1Dz)
- - 💣 [`So f**king hot`](http://9gag.com/gag/aRBzLV7)
+ - 😝 [Black history](http://9gag.com/gag/amomGGv)
+ - 😝 [Well, f**k my Life bois. Apparently I have a tumour near my spine. Already contacted hospital for operation so f**k you and I&#39;ll see you idk](http://9gag.com/gag/aAy4yLL)
+ - 💣 [Buster Keaton crazy stunt 1924](http://9gag.com/gag/ayNW4qq)
  - 😝 [For my friend? ALWAYS.](http://9gag.com/gag/a2vy8VO)
- - 👉 [What would you do ?](http://9gag.com/gag/a9y8qDL)<!-- MEMES:END -->
+ - 👉 [I can FIX her](http://9gag.com/gag/apRPDQ5)<!-- MEMES:END -->
 
 ---
 

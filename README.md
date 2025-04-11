@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro&#39;s about to accidentally nuke Soviet union](http://9gag.com/gag/aVvmbNw)
+ - 😝 [This guy was mining 1 Bitcoin per day in 2011](http://9gag.com/gag/ayNW3Zb)
  - 😝 [What in the Happy-Tree-Friends f**k!?](http://9gag.com/gag/avyEyNX)
- - 💣 [This would be a sign the world is healing](http://9gag.com/gag/awyLy7Q)
+ - 💣 [Nightmares](http://9gag.com/gag/a0e6X7q)
  - 😝 [For my friend? ALWAYS.](http://9gag.com/gag/a2vy8VO)
- - 👉 [Building nightmare](http://9gag.com/gag/adBn1mN)<!-- MEMES:END -->
+ - 👉 [I expect that screenshot](http://9gag.com/gag/aZZQZV9)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`The key to a happy life is to accept that you are never actually in control`](http://9gag.com/gag/a9y813m)
- - 😝 [Hey mister](http://9gag.com/gag/a7oV1Dz)
- - 💣 [For the modern audience.](http://9gag.com/gag/aKGWGN6)
+ - 😝 [`So f**king hot`](http://9gag.com/gag/aRBzLV7)
+ - 😝 [I wonder how it tasted](http://9gag.com/gag/aoy4y4X)
+ - 💣 [Hey mister](http://9gag.com/gag/a7oV1Dz)
  - 😝 [For my friend? ALWAYS.](http://9gag.com/gag/a2vy8VO)
- - 👉 [This is how you get drug dealers to stop landing airplanes on your roads](http://9gag.com/gag/apRP9xW)<!-- MEMES:END -->
+ - 👉 [What would you do ?](http://9gag.com/gag/a9y8qDL)<!-- MEMES:END -->
 
 ---
 

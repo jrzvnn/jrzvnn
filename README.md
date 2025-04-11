@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Dog Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-dog-accessories/)
- - [Microsoft is rolling out a preview of its Recall AI feature to Copilot+ PCs, after previously delaying its launch twice over security and privacy concerns &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250411/p11#a250411p11)
- - [26 Best Gifts for Cat Lovers &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-cat-lovers/)
- - [This Famous Physics Experiment Shows Why the Government Should Support ‘Useless’ Science](https://www.wired.com/story/why-the-government-should-support-useless-science/)
- - [Doctor Who’s new companion is going to keep him on his toes](https://www.theverge.com/interview/644708/doctor-whos-new-companion-is-going-to-keep-him-on-his-toes)<!-- TECH:END -->
+ - [China&#39;s retail giants launch initiatives to help Chinese exporters pivot to the domestic market in response to the US trade war; JD.com launched a $27B fund &lpar;Reuters&rpar;](http://www.techmeme.com/250411/p12#a250411p12)
+ - [Celebrate Surfshark VPN&#39;s birthday with deals from $1.99/mo on the premium service](https://appleinsider.com/articles/25/04/11/celebrate-surfshark-vpns-birthday-with-deals-from-199mo-on-the-premium-service?utm_medium=rss)
+ - [Where Were Big Tech’s CEOs on Tariffs?](https://www.wired.com/story/plaintext-tech-ceos-silent-trump-tariffs/)
+ - [‘Book Boyfriends’ and ‘Shadow Daddies’: the men cashing in on romantasy](https://www.theverge.com/books/642259/booktok-romantasy-men)
+ - [Best Dog Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-dog-accessories/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

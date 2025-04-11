@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If `F**k around and find out` was a person:](http://9gag.com/gag/a9y8yDK)
- - 😝 [Legal activities](http://9gag.com/gag/aXP4oQV)
- - 💣 [Bro&#39;s about to accidentally nuke Soviet union](http://9gag.com/gag/aVvmbNw)
- - 😝 [RunAnEC2For5MinsAndWin](http://9gag.com/gag/aO8D3y6)
- - 👉 [Another loss for the US in tax revenue.](http://9gag.com/gag/avyEQME)<!-- MEMES:END -->
+ - 😝 [I love lamp ...](http://9gag.com/gag/aVvmved)
+ - 😝 [Fingers Getting pruney time-lapse](http://9gag.com/gag/a9y8Egm)
+ - 💣 [33 units in one day..](http://9gag.com/gag/aXP4Lgg)
+ - 😝 [Why the tape?](http://9gag.com/gag/axyb3vn)
+ - 👉 [Bro&#39;s about to accidentally nuke Soviet union](http://9gag.com/gag/aVvmbNw)<!-- MEMES:END -->
 
 ---
 

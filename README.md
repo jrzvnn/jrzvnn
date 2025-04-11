@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This would be a sign the world is healing](http://9gag.com/gag/awyLy7Q)
- - 😝 [Typical day in EU paradise!](http://9gag.com/gag/aZZQrg6)
- - 💣 [Every romance movie is just a woman cheating on her hardworking husband](http://9gag.com/gag/azxGxPx)
- - 😝 [If `F**k around and find out` was a person:](http://9gag.com/gag/a9y8yDK)
- - 👉 [What would you do ?](http://9gag.com/gag/a9y8qDL)<!-- MEMES:END -->
+ - 😝 [`So f**king hot`](http://9gag.com/gag/aRBzLV7)
+ - 😝 [Rememberwhoyouare](http://9gag.com/gag/aD2ZDqw)
+ - 💣 [So much winning for oligarchs and friends](http://9gag.com/gag/amom12y)
+ - 😝 [The difference between conspiracy theory and reality is just a couple of months](http://9gag.com/gag/aByP69O)
+ - 👉 [Another one from my meme archives to cleanse your feed](http://9gag.com/gag/a7oVOWe)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can save up to $1,800 on Samsung’s last-gen Frame TV](https://www.theverge.com/tech/647229/samsung-frame-tv-light-phone-3-preorder-deal-sale)
+ - [Steve Jobs didn&#39;t tolerate yes-men, understood his influence at Pixar](https://appleinsider.com/articles/25/04/11/steve-jobs-didnt-tolerate-yes-men-understood-his-influence-at-pixar?utm_medium=rss)
  - [The US Is Turning a Blind Eye to Crypto Crimes](https://www.wired.com/story/the-us-is-turning-a-blind-eye-to-crypto-crimes/)
  - [All the &#39;Black Mirror&#39; Season 7 Episodes Ranked](https://www.wired.com/story/all-the-black-mirror-season-7-episodes-ranked/)
- - [How Nintendo is navigating tariff chaos, including shipping an estimated 1.7M Switch 2 units to the US before tariffs took effect, assembling in Vietnam, more &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/250411/p18#a250411p18)
- - [Spiking Bond Yields May Have Paused the Tariffs, but They Could Cost You in the Long Run](https://www.cnet.com/personal-finance/investing/bond-yields-may-have-paused-the-tariffs-but-they-could-cost-you-in-the-long-run/#ftag=CAD590a51e)
- - [What Trump’s Tariffs Mean for Tech—and You](https://www.wired.com/story/uncanny-valley-podcast-trump-tariffs-tech-industry/)<!-- TECH:END -->
+ - [How Nintendo is navigating tariff chaos, including shipping an estimated 1.7M Switch 2 units to the US before tariffs took effect, assembling in Vietnam, more &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/250411/p18#a250411p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

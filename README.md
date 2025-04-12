@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What\u2019s the trick behind this](http://9gag.com/gag/aMVnm5V)
- - 😝 [This guy was mining 1 Bitcoin per day in 2011](http://9gag.com/gag/ayNW3Zb)
- - 💣 [Honestly, what\u2019s up with that?](http://9gag.com/gag/aZZQZo9)
+ - 😝 [She delivers daily savage beatdowns](http://9gag.com/gag/a5QGwrG)
+ - 😝 [Rocket Science](http://9gag.com/gag/aVvmKDn)
+ - 💣 [The next time someone asks why US cars sell poorly in the EU, send them this](http://9gag.com/gag/aE0oVmN)
  - 😝 [For my friend? ALWAYS.](http://9gag.com/gag/a2vy8VO)
- - 👉 [Is this accurate?](http://9gag.com/gag/aD2ZnqZ)<!-- MEMES:END -->
+ - 👉 [Come out and play bapack-bapack](http://9gag.com/gag/awyL1vQ)<!-- MEMES:END -->
 
 ---
 

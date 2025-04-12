@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 20th-Anniversary Edition Could Bring Major Design Overhaul](https://www.cnet.com/tech/mobile/iphone-20th-anniversary-edition-could-bring-major-design-overhaul/#ftag=CAD590a51e)
  - [Is Airplane Mode on Flights Necessary or Outdated? &lpar;2025&rpar;](https://www.wired.com/story/phone-on-airplane-mode-how-to/)
- - [The 24 Best Shows on Amazon Prime Right Now &lpar;April 2025&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)
- - [A look at the battle between Uber and its unlikely ally, Chinese-owned rival 99, against the São Paulo city government, which banned motorcycle taxis in 2023 &lpar;Gabriela Sá Pessoa/Rest of World&rpar;](http://www.techmeme.com/250412/p9#a250412p9)
- - [China Secretly &lpar;and Weirdly&rpar; Admits It Hacked US Infrastructure](https://www.wired.com/story/china-admits-hacking-us-infrastructure/)
- - [The Vuori Performance Joggers Are Everything a Pair of Sweatpants Should Be](https://www.wired.com/story/vuori-performance-joggers-rave/)<!-- TECH:END -->
+ - [32 Best Mother&#39;s Day Gifts for Every Kind of Mom in 2025](https://www.cnet.com/news/best-mothers-day-gifts/#ftag=CAD590a51e)
+ - [What the Post-Credits Scene in &#39;A Minecraft Movie&#39; Means for a Potential Sequel](https://www.cnet.com/tech/services-and-software/a-minecraft-movie-is-there-a-post-credit-scene/#ftag=CAD590a51e)
+ - [Love &#39;Black Mirror&#39;? You Can Play the Actual Game From the Episode &#39;Plaything&#39; Now](https://www.cnet.com/tech/gaming/love-black-mirror-you-can-play-the-actual-game-from-the-episode-plaything-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

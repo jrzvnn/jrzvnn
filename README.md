@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the battle between Uber and its unlikely ally, Chinese-owned rival 99, against the São Paulo city government, which banned motorcycle taxis in 2023 &lpar;Gabriela Sá Pessoa/Rest of World&rpar;](http://www.techmeme.com/250412/p9#a250412p9)
  - [China Secretly &lpar;and Weirdly&rpar; Admits It Hacked US Infrastructure](https://www.wired.com/story/china-admits-hacking-us-infrastructure/)
  - [The Vuori Performance Joggers Are Everything a Pair of Sweatpants Should Be](https://www.wired.com/story/vuori-performance-joggers-rave/)
- - [An Instagram iPad App, a New Motorola Razr, and Gemini’s Latest—Here’s Your Gear News of the Week](https://www.wired.com/story/an-instagram-ipad-app-a-new-motorola-razr-and-geminis-latest/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 12, #201](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-12-201/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for April 12, #405](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-12-405/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What You Need to Know About Your iPhone&#39;s Enhanced Visual Search](https://www.cnet.com/tech/services-and-software/what-you-need-to-know-about-your-iphones-enhanced-visual-search/#ftag=CAD590a51e)
+ - [An Instagram iPad App, a New Motorola Razr, and Gemini’s Latest—Here’s Your Gear News of the Week](https://www.wired.com/story/an-instagram-ipad-app-a-new-motorola-razr-and-geminis-latest/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

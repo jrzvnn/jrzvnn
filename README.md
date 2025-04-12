@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s Mythic Quest has come to an end](https://www.theverge.com/tv/647661/apples-mythic-quest-has-come-to-an-end)
  - [Arguments start Monday in the FTC&#39;s antitrust suit targeting Meta&#39;s acquisitions of Instagram and WhatsApp, amid reports Zuckerberg asked Trump to intervene &lpar;Washington Post&rpar;](http://www.techmeme.com/250412/p13#a250412p13)
  - [&#39;Black Mirror&#39; Season 7 Episodes: Ranking the Satisfying New Sci-Fi Entries](https://www.cnet.com/tech/services-and-software/black-mirror-season-7-episodes-ranking-the-satisfying-new-sci-fi-entries/#ftag=CAD590a51e)
  - [Apple TV+&#39;s Mythic Quest to end with revised fourth season finale](https://appleinsider.com/articles/25/04/12/apple-tvs-mythic-quest-to-end-with-revised-fourth-season-finale?utm_medium=rss)
- - [Nintendo Switch 2 Hands-On: My Verdict After Playing All the Games](https://www.cnet.com/tech/gaming/nintendo-switch-2-hands-on-my-verdict-after-playing-all-the-games/#ftag=CAD590a51e)
- - [When to Watch Episode 8 of Stephen Amell&#39;s Legal Spinoff &#39;Suits LA&#39;](https://www.cnet.com/tech/services-and-software/when-to-watch-episode-8-stephen-amell-legal-spinoff-suits-la/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nintendo Switch 2 Hands-On: My Verdict After Playing All the Games](https://www.cnet.com/tech/gaming/nintendo-switch-2-hands-on-my-verdict-after-playing-all-the-games/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

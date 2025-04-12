@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It\u2019s just super mario! How hard can it b\u2026.. dang!](http://9gag.com/gag/ayNW60y)
- - 😝 [What\u2019s the trick behind this](http://9gag.com/gag/aMVnm5V)
- - 💣 [Is this accurate?](http://9gag.com/gag/aD2ZnqZ)
- - 😝 [It&#39;s not every day you see a crawfish at the airport.](http://9gag.com/gag/agm8Q7x)
- - 👉 [Who gives them money??](http://9gag.com/gag/aO8D4Xr)<!-- MEMES:END -->
+ - 😝 [Nightmares](http://9gag.com/gag/a0e6X7q)
+ - 😝 [Why women live longer](http://9gag.com/gag/a7oV01b)
+ - 💣 [And that was the luckiest day of his life\u2026](http://9gag.com/gag/aO8Den6)
+ - 😝 [Who wants to pet a reptile anyways?](http://9gag.com/gag/amom6W2)
+ - 👉 [This guy was mining 1 Bitcoin per day in 2011](http://9gag.com/gag/ayNW3Zb)<!-- MEMES:END -->
 
 ---
 

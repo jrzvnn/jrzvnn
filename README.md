@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nightmares](http://9gag.com/gag/a0e6X7q)
- - 😝 [Why women live longer](http://9gag.com/gag/a7oV01b)
- - 💣 [And that was the luckiest day of his life\u2026](http://9gag.com/gag/aO8Den6)
- - 😝 [Who wants to pet a reptile anyways?](http://9gag.com/gag/amom6W2)
- - 👉 [This guy was mining 1 Bitcoin per day in 2011](http://9gag.com/gag/ayNW3Zb)<!-- MEMES:END -->
+ - 😝 [The next time someone asks why US cars sell poorly in the EU, send them this](http://9gag.com/gag/aE0oVmN)
+ - 😝 [Come out and play bapack-bapack](http://9gag.com/gag/awyL1vQ)
+ - 💣 [Buster Keaton crazy stunt 1924](http://9gag.com/gag/ayNW4qq)
+ - 😝 [I&#39;m so nervous watching this](http://9gag.com/gag/aLnGG0P)
+ - 👉 [Scorpions are so interesting](http://9gag.com/gag/a0e66gL)<!-- MEMES:END -->
 
 ---
 

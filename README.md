@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [It&#39;s not every day you see a crawfish at the airport.](http://9gag.com/gag/agm8Q7x)
  - 😝 [`So f**king hot`](http://9gag.com/gag/aRBzLV7)
- - 💣 [Female caught stealing](http://9gag.com/gag/axybbqW)
- - 😝 [Prince Rupert\u2019s Drop vs Hydraulic Press](http://9gag.com/gag/aW4vpKd)
- - 👉 [Helicopter crashes in the Hudson River in New York City](http://9gag.com/gag/agm81Kx)<!-- MEMES:END -->
+ - 💣 [Prince Rupert\u2019s Drop vs Hydraulic Press](http://9gag.com/gag/aW4vpKd)
+ - 😝 [Helicopter crashes in the Hudson River in New York City](http://9gag.com/gag/agm81Kx)
+ - 👉 [Nightmares](http://9gag.com/gag/a0e6X7q)<!-- MEMES:END -->
 
 ---
 

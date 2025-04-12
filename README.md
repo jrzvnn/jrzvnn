@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She delivers daily savage beatdowns](http://9gag.com/gag/a5QGwrG)
- - 😝 [I&#39;m so nervous watching this](http://9gag.com/gag/aLnGG0P)
- - 💣 [Rocket Science](http://9gag.com/gag/aVvmKDn)
+ - 😝 [I&#39;m f**ked](http://9gag.com/gag/aGyM816)
+ - 😝 [Netflix&#39;s complete detachment from reality](http://9gag.com/gag/a87DAeY)
+ - 💣 [This guy was mining 1 Bitcoin per day in 2011](http://9gag.com/gag/ayNW3Zb)
  - 😝 [For my friend? ALWAYS.](http://9gag.com/gag/a2vy8VO)
- - 👉 [The next time someone asks why US cars sell poorly in the EU, send them this](http://9gag.com/gag/aE0oVmN)<!-- MEMES:END -->
+ - 👉 [Hello get\u2026damn woman](http://9gag.com/gag/agm87jq)<!-- MEMES:END -->
 
 ---
 

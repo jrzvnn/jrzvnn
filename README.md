@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Honestly, what\u2019s up with that?](http://9gag.com/gag/aZZQZo9)
- - 😝 [Is this accurate?](http://9gag.com/gag/aD2ZnqZ)
- - 💣 [This guy was mining 1 Bitcoin per day in 2011](http://9gag.com/gag/ayNW3Zb)
+ - 😝 [What\u2019s the trick behind this](http://9gag.com/gag/aMVnm5V)
+ - 😝 [This guy was mining 1 Bitcoin per day in 2011](http://9gag.com/gag/ayNW3Zb)
+ - 💣 [Honestly, what\u2019s up with that?](http://9gag.com/gag/aZZQZo9)
  - 😝 [For my friend? ALWAYS.](http://9gag.com/gag/a2vy8VO)
- - 👉 [Beetle del 1969 Super Beetle del 1970 volkswagen hybrid rv called](http://9gag.com/gag/aMVnBKP)<!-- MEMES:END -->
+ - 👉 [Is this accurate?](http://9gag.com/gag/aD2ZnqZ)<!-- MEMES:END -->
 
 ---
 

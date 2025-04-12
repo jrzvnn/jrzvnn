@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [It&#39;s not every day you see a crawfish at the airport.](http://9gag.com/gag/agm8Q7x)
  - 😝 [`So f**king hot`](http://9gag.com/gag/aRBzLV7)
- - 😝 [What\u2019s the trick behind this](http://9gag.com/gag/aMVnm5V)
- - 💣 [Hello get\u2026damn woman](http://9gag.com/gag/agm87jq)
- - 😝 [For my friend? ALWAYS.](http://9gag.com/gag/a2vy8VO)
- - 👉 [Money](http://9gag.com/gag/aZZQQE0)<!-- MEMES:END -->
+ - 💣 [Female caught stealing](http://9gag.com/gag/axybbqW)
+ - 😝 [Prince Rupert\u2019s Drop vs Hydraulic Press](http://9gag.com/gag/aW4vpKd)
+ - 👉 [Helicopter crashes in the Hudson River in New York City](http://9gag.com/gag/agm81Kx)<!-- MEMES:END -->
 
 ---
 

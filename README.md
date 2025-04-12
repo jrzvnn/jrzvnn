@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Arguments start Monday in the FTC&#39;s antitrust suit targeting Meta&#39;s acquisitions of Instagram and WhatsApp, amid reports Zuckerberg asked Trump to intervene &lpar;Washington Post&rpar;](http://www.techmeme.com/250412/p13#a250412p13)
+ - [Apple TV+&#39;s Mythic Quest to end with revised fourth season finale](https://appleinsider.com/articles/25/04/12/apple-tvs-mythic-quest-to-end-with-revised-fourth-season-finale?utm_medium=rss)
  - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
  - [Trump excludes smartphones, computers, chips from tariffs](https://www.theverge.com/news/647666/trump-exempts-smartphones-laptops-chips-tariffs)
- - [India&#39;s JioHotstar now has 200M+ paid subscribers, driven by multi-language IPL cricket streams, ranking third-largest globally after Netflix and Prime Video &lpar;Bloomberg&rpar;](http://www.techmeme.com/250412/p12#a250412p12)
- - [The Best Pixel 9 Cases, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-google-pixel-9-cases-and-accessories/)
- - [What Is the Best Motor Oil for Your Car in 2025](https://www.cnet.com/roadshow/news/what-is-the-best-motor-oil-for-your-car-in-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [India&#39;s JioHotstar now has 200M+ paid subscribers, driven by multi-language IPL cricket streams, ranking third-largest globally after Netflix and Prime Video &lpar;Bloomberg&rpar;](http://www.techmeme.com/250412/p12#a250412p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

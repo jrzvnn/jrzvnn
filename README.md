@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;d love her](http://9gag.com/gag/aZZQED9)
- - 😝 [Texas&#39; GDP equals Canada&#39;s. Plus we carry guns.](http://9gag.com/gag/aAy4Kb9)
- - 💣 [Perfect soccer kick](http://9gag.com/gag/aMVnv8G)
- - 😝 [I&#39;d be pist also](http://9gag.com/gag/aVvmm0d)
- - 👉 [Thats right.](http://9gag.com/gag/ayNWR0r)<!-- MEMES:END -->
+ - 😝 [What\u2019s the trick behind this](http://9gag.com/gag/aMVnm5V)
+ - 😝 [When the food is too spicy](http://9gag.com/gag/an7vxEn)
+ - 💣 [Good Genetics](http://9gag.com/gag/a1m5D9b)
+ - 😝 [In the film \u201cTaxi Driver\u201d &lpar;1976&rpar;, 12 year-old Jodie Foster &lpar;right&rpar; had her 20 year-old sister, Connie, to stand-in for her in the more &#39;explicit&#39; scenes.](http://9gag.com/gag/aO8DZnR)
+ - 👉 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)<!-- MEMES:END -->
 
 ---
 

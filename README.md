@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m so nervous watching this](http://9gag.com/gag/aLnGG0P)
- - 😝 [Arizona Iced Tea CEO when asked why he doesn&#39;t raise the price of his drink from 99 cents.](http://9gag.com/gag/a9y8mjD)
- - 💣 [Texas&#39; GDP equals Canada&#39;s. Plus we carry guns.](http://9gag.com/gag/aAy4Kb9)
- - 😝 [Where is he going](http://9gag.com/gag/aqyQWoM)
- - 👉 [Thats right.](http://9gag.com/gag/ayNWR0r)<!-- MEMES:END -->
+ - 😝 [Good Genetics](http://9gag.com/gag/a1m5D9b)
+ - 😝 [This guy was mining 1 Bitcoin per day in 2011](http://9gag.com/gag/ayNW3Zb)
+ - 💣 [Building nightmare](http://9gag.com/gag/adBn1mN)
+ - 😝 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)
+ - 👉 [How to attract any man](http://9gag.com/gag/aGyMGmw)<!-- MEMES:END -->
 
 ---
 

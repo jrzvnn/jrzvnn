@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Average dad humor](http://9gag.com/gag/aVvmKow)
- - 😝 [Hello get\u2026damn woman](http://9gag.com/gag/agm87jq)
- - 💣 [Judge wipes the smirk of his face!](http://9gag.com/gag/a34y89v)
- - 😝 [This guy was mining 1 Bitcoin per day in 2011](http://9gag.com/gag/ayNW3Zb)
- - 👉 [How to attract any man](http://9gag.com/gag/aGyMGmw)<!-- MEMES:END -->
+ - 😝 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)
+ - 😝 [What\u2019s the trick behind this](http://9gag.com/gag/aMVnm5V)
+ - 💣 [How to attract any man](http://9gag.com/gag/aGyMGmw)
+ - 😝 [When the food is too spicy](http://9gag.com/gag/an7vxEn)
+ - 👉 [Welcome to the gym bro](http://9gag.com/gag/aXP4NK2)<!-- MEMES:END -->
 
 ---
 

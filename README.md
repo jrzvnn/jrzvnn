@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Vuori Performance Joggers Are Everything a Pair of Sweatpants Should Be](https://www.wired.com/story/vuori-performance-joggers-rave/)
+ - [An Instagram iPad App, a New Motorola Razr, and Gemini’s Latest—Here’s Your Gear News of the Week](https://www.wired.com/story/an-instagram-ipad-app-a-new-motorola-razr-and-geminis-latest/)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 12, #201](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-12-201/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for April 12, #405](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-12-405/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for April 12, #671](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-12-671/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for April 12, #1393](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-12-1393/#ftag=CAD590a51e)
- - [Best TVs of 2025: Tested by CNET Experts](https://www.cnet.com/tech/home-entertainment/best-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for April 12, #671](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-12-671/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

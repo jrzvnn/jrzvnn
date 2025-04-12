@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
- - [Netflix is testing an OpenAI-powered search engine that lets users find shows via inquiries that go beyond genres or actors&#39; names, like the subscriber&#39;s mood &lpar;Bloomberg&rpar;](http://www.techmeme.com/250411/p26#a250411p26)
- - [Apple Pencil Pro can now look like a crayon](https://appleinsider.com/articles/25/04/11/apple-pencil-pro-can-now-look-like-a-crayon?utm_medium=rss)
- - [Revolut plans to add UK stocks to its trading platform as some investors look to diversify away from US equities, and says it has over 800K UK trading customers &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/250411/p25#a250411p25)
- - [AI and Data Centers Could Use as Much Energy as Japan by 2030](https://www.cnet.com/tech/services-and-software/ai-and-data-centers-could-use-as-much-energy-as-japan-by-2030/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [YipitData: Waymo&#39;s robotaxis made up about 20% of rides offered by Uber in Austin in the last week of March, after launching on March 4 &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250411/p28#a250411p28)
+ - [OpenAI Is Reportedly Preparing to Launch GPT-4.1](https://www.cnet.com/tech/services-and-software/openai-is-reportedly-preparing-to-launch-gpt-4-1/#ftag=CAD590a51e)
+ - [Filing: Founders Fund has closed a $4.6B late-stage venture fund; source: a substantial amount of the capital was provided by the firm&#39;s general partners &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/250411/p27#a250411p27)
+ - [Big Tech cozied up to Trump — it’s not getting much in return](https://www.theverge.com/command-line-newsletter/647519/big-tech-trump-tarrifs)
+ - [Netflix is testing a new OpenAI-powered search](https://www.theverge.com/news/647518/netflix-openai-search-beta-test-ios)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

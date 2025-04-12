@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump excludes smartphones, computers, chips from tariffs](https://www.theverge.com/news/647666/trump-exempts-smartphones-laptops-chips-tariffs)
  - [Trump gives Apple a giant break with wide-ranging tariff exemptions](https://appleinsider.com/articles/25/04/12/trump-gives-apple-a-giant-break-with-wide-ranging-tariff-exemptions?utm_medium=rss)
- - [Breville Smart Oven Air Fryer Compact Review: Versatile, Uneven](https://www.wired.com/review/breville-smart-oven-air-fryer-compact/)
- - [The Trump administration excludes smartphones along with selected computers and laptops from reciprocal tariffs &lpar;Financial Times&rpar;](http://www.techmeme.com/250412/p10#a250412p10)
- - [New Google Maps AI Tool Could Help Congestion and Fix Roads Near You](https://www.cnet.com/tech/services-and-software/google-maps-new-ai-tool-could-help-congestion-and-fix-roads-near-you/#ftag=CAD590a51e)
- - [Zelle App Is No More. But You Can Still Send Money Digitally With These Banks](https://www.cnet.com/personal-finance/banking/zelle-app-is-no-more-but-you-can-still-send-money-digitally-with-these-banks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Trump administration excludes smartphones, laptops, hard drives, processors, memory chips, and machines used to make semiconductors from reciprocal tariffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250412/p11#a250412p11)
+ - [Asus Vivobook 14 Copilot+ PC Review: A Budget Windows Laptop](https://www.wired.com/review/asus-vivobook-14-copilot-pc-2025/)
+ - [There’s nothing wrong with a thong made out of a keyboard](https://www.theverge.com/creators/647080/wearable-technology-art)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

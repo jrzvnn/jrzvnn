@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Notice how only women are attending](http://9gag.com/gag/aXP4N5v)
+ - 😝 [Why women live longer](http://9gag.com/gag/a7oV01b)
+ - 😝 [Hello get\u2026damn woman](http://9gag.com/gag/agm87jq)
+ - 💣 [Nightmares](http://9gag.com/gag/a0e6X7q)
  - 😝 [It\u2019s just super mario! How hard can it b\u2026.. dang!](http://9gag.com/gag/ayNW60y)
- - 💣 [What\u2019s the trick behind this](http://9gag.com/gag/aMVnm5V)
- - 😝 [Who gives them money??](http://9gag.com/gag/aO8D4Xr)
- - 👉 [This guy was mining 1 Bitcoin per day in 2011](http://9gag.com/gag/ayNW3Zb)<!-- MEMES:END -->
+ - 👉 [The worst part of betrayal is that it is never from your enemies](http://9gag.com/gag/an7vnYL)<!-- MEMES:END -->
 
 ---
 

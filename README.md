@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)
- - 😝 [Building nightmare](http://9gag.com/gag/adBn1mN)
- - 💣 [How to attract any man](http://9gag.com/gag/aGyMGmw)
- - 😝 [Good Genetics](http://9gag.com/gag/a1m5D9b)
- - 👉 [Hello get\u2026damn woman](http://9gag.com/gag/agm87jq)<!-- MEMES:END -->
+ - 😝 [Average dad humor](http://9gag.com/gag/aVvmKow)
+ - 😝 [Hello get\u2026damn woman](http://9gag.com/gag/agm87jq)
+ - 💣 [Judge wipes the smirk of his face!](http://9gag.com/gag/a34y89v)
+ - 😝 [This guy was mining 1 Bitcoin per day in 2011](http://9gag.com/gag/ayNW3Zb)
+ - 👉 [How to attract any man](http://9gag.com/gag/aGyMGmw)<!-- MEMES:END -->
 
 ---
 

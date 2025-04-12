@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guy tries to help spider out without killing it](http://9gag.com/gag/aGyMyg0)
- - 😝 [Building nightmare](http://9gag.com/gag/adBn1mN)
- - 💣 [You are a battery](http://9gag.com/gag/aKGWG3O)
+ - 😝 [What\u2019s the trick behind this](http://9gag.com/gag/aMVnm5V)
+ - 😝 [If `F**k around and find out` was a person:](http://9gag.com/gag/a9y8yDK)
+ - 💣 [The worst part of betrayal is that it is never from your enemies](http://9gag.com/gag/an7vnYL)
  - 😝 [For my friend? ALWAYS.](http://9gag.com/gag/a2vy8VO)
- - 👉 [Prince Rupert\u2019s Drop vs Hydraulic Press](http://9gag.com/gag/aW4vpKd)<!-- MEMES:END -->
+ - 👉 [Hello get\u2026damn woman](http://9gag.com/gag/agm87jq)<!-- MEMES:END -->
 
 ---
 

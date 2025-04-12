@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good Genetics](http://9gag.com/gag/a1m5D9b)
- - 😝 [Wtf..](http://9gag.com/gag/azxGO6z)
- - 💣 [Average dad humor](http://9gag.com/gag/aVvmKow)
- - 😝 [Welcome to the gym bro](http://9gag.com/gag/aXP4NK2)
- - 👉 [I&#39;d love her](http://9gag.com/gag/aZZQED9)<!-- MEMES:END -->
+ - 😝 [Who wants to pet a reptile anyways?](http://9gag.com/gag/amom6W2)
+ - 😝 [How to attract any man](http://9gag.com/gag/aGyMGmw)
+ - 💣 [Good Genetics](http://9gag.com/gag/a1m5D9b)
+ - 😝 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)
+ - 👉 [Welcome to the gym bro](http://9gag.com/gag/aXP4NK2)<!-- MEMES:END -->
 
 ---
 

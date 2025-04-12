@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bain Capital agrees to buy Blackstone-backed HealthEdge, which offers SaaS for health insurers to modernize their systems, sources say for ~$2.6B including debt &lpar;Financial Times&rpar;](http://www.techmeme.com/250411/p32#a250411p32)
  - [Sources: Binance asked the US Treasury last month to loosen oversight on its AML compliance, after Binance entered into deal talks with Trump&#39;s crypto venture &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250411/p31#a250411p31)
  - [Source: Alphabet and Nvidia are among investors backing Safe Superintelligence; Google Cloud announced on April 9 that SSI is using its TPUs for AI research &lpar;Reuters&rpar;](http://www.techmeme.com/250411/p30#a250411p30)
  - [Report Hints at Improved Siri This Fall After Inner Apple Turmoil](https://www.cnet.com/tech/mobile/report-hints-at-improved-siri-this-fall-after-inner-apple-turmoil/#ftag=CAD590a51e)
- - [Newzoo: global consumer spending for PC and console gaming fell 2% YoY to $80.2B in 2024, with console revenues leading market share with $42.8B, down 3.9% YoY &lpar;Sophie McEvoy/GamesIndustry.biz&rpar;](http://www.techmeme.com/250411/p29#a250411p29)
- - [YipitData: Waymo&#39;s robotaxis made up about 20% of rides offered by Uber in Austin in the last week of March, after launching on March 4 &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250411/p28#a250411p28)<!-- TECH:END -->
+ - [Newzoo: global consumer spending for PC and console gaming fell 2% YoY to $80.2B in 2024, with console revenues leading market share with $42.8B, down 3.9% YoY &lpar;Sophie McEvoy/GamesIndustry.biz&rpar;](http://www.techmeme.com/250411/p29#a250411p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

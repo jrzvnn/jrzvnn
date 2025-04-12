@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The next time someone asks why US cars sell poorly in the EU, send them this](http://9gag.com/gag/aE0oVmN)
- - 😝 [Come out and play bapack-bapack](http://9gag.com/gag/awyL1vQ)
- - 💣 [Buster Keaton crazy stunt 1924](http://9gag.com/gag/ayNW4qq)
- - 😝 [I&#39;m so nervous watching this](http://9gag.com/gag/aLnGG0P)
- - 👉 [Scorpions are so interesting](http://9gag.com/gag/a0e66gL)<!-- MEMES:END -->
+ - 😝 [Building nightmare](http://9gag.com/gag/adBn1mN)
+ - 😝 [Prince Rupert\u2019s Drop vs Hydraulic Press](http://9gag.com/gag/aW4vpKd)
+ - 💣 [As it is Friday . . .](http://9gag.com/gag/a0e6VGX)
+ - 😝 [What would have you done ?](http://9gag.com/gag/amomx7X)
+ - 👉 [So it begins](http://9gag.com/gag/a7oV0Km)<!-- MEMES:END -->
 
 ---
 

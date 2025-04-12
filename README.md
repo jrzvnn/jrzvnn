@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Arguments start Monday in the FTC&#39;s antitrust suit targeting Meta&#39;s acquisitions of Instagram and WhatsApp, amid reports Zuckerberg asked Trump to intervene &lpar;Washington Post&rpar;](http://www.techmeme.com/250412/p13#a250412p13)
+ - [&#39;Black Mirror&#39; Season 7 Episodes: Ranking the Satisfying New Sci-Fi Entries](https://www.cnet.com/tech/services-and-software/black-mirror-season-7-episodes-ranking-the-satisfying-new-sci-fi-entries/#ftag=CAD590a51e)
  - [Apple TV+&#39;s Mythic Quest to end with revised fourth season finale](https://appleinsider.com/articles/25/04/12/apple-tvs-mythic-quest-to-end-with-revised-fourth-season-finale?utm_medium=rss)
- - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
- - [Trump excludes smartphones, computers, chips from tariffs](https://www.theverge.com/news/647666/trump-exempts-smartphones-laptops-chips-tariffs)
- - [India&#39;s JioHotstar now has 200M+ paid subscribers, driven by multi-language IPL cricket streams, ranking third-largest globally after Netflix and Prime Video &lpar;Bloomberg&rpar;](http://www.techmeme.com/250412/p12#a250412p12)<!-- TECH:END -->
+ - [Nintendo Switch 2 Hands-On: My Verdict After Playing All the Games](https://www.cnet.com/tech/gaming/nintendo-switch-2-hands-on-my-verdict-after-playing-all-the-games/#ftag=CAD590a51e)
+ - [When to Watch Episode 8 of Stephen Amell&#39;s Legal Spinoff &#39;Suits LA&#39;](https://www.cnet.com/tech/services-and-software/when-to-watch-episode-8-stephen-amell-legal-spinoff-suits-la/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`So f**king hot`](http://9gag.com/gag/aRBzLV7)
- - 😝 [Nightmares](http://9gag.com/gag/a0e6X7q)
- - 💣 [They use black magic](http://9gag.com/gag/aQzAQr7)
+ - 😝 [Notice how only women are attending](http://9gag.com/gag/aXP4N5v)
+ - 😝 [It\u2019s just super mario! How hard can it b\u2026.. dang!](http://9gag.com/gag/ayNW60y)
+ - 💣 [What\u2019s the trick behind this](http://9gag.com/gag/aMVnm5V)
  - 😝 [Who gives them money??](http://9gag.com/gag/aO8D4Xr)
- - 👉 [Hello get\u2026damn woman](http://9gag.com/gag/agm87jq)<!-- MEMES:END -->
+ - 👉 [This guy was mining 1 Bitcoin per day in 2011](http://9gag.com/gag/ayNW3Zb)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Proposed NASA Budget Cuts ‘Would Decimate American Leadership in Space’](https://www.wired.com/story/proposed-nasa-budget-cuts-would-decimate-american-leadership-in-space/)
- - [ByteDance, which spent an estimated $11B in 2024 on infrastructure for AI, is using data from ~1B users of its apps as the linchpin of its growing AI business &lpar;Meaghan Tobin/New York Times&rpar;](http://www.techmeme.com/250412/p8#a250412p8)
- - [Architect Partners: Q1 2025 was a record quarter for crypto M&amp;A with 61 deals and $2.2B in total deal value, including Kraken&#39;s $1.5B acquisition of NinjaTrader &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/250412/p7#a250412p7)
- - [Asia&#39;s startup funding fell 40% YoY to ~$13B in Q1 2025, the lowest funding for a quarter since $12.3B in Q4 2014; AI startup funding fell 50% YoY to just $1.8B &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/250412/p6#a250412p6)
- - [One Man’s Quest to Reforest the Rio Grande Valley](https://www.wired.com/story/the-rio-grande-valley-was-once-covered-in-forest-one-man-is-trying-to-bring-it-back/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 12, #201](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-12-201/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 12, #405](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-12-405/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for April 12, #671](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-12-671/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for April 12, #1393](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-12-1393/#ftag=CAD590a51e)
+ - [Best TVs of 2025: Tested by CNET Experts](https://www.cnet.com/tech/home-entertainment/best-tv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

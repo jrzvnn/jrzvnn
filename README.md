@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bungie’s slick-looking Marathon shooter arrives on September 23rd](https://www.theverge.com/news/646977/bungie-marathon-release-date-september-alpha-test-details)
  - [UK government report: 43% of businesses faced a cyber breach or attack in the past year; phishing was the most common type, affecting 85% of those attacked &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/250412/p14#a250412p14)
+ - [Apple’s Mythic Quest has come to an end](https://www.theverge.com/tv/647661/apples-mythic-quest-has-come-to-an-end)
  - [Yes, Walking Counts as Exercise. A Personal Trainer Shares the Biggest Benefits](https://www.cnet.com/health/fitness/yes-walking-counts-as-exercise-personal-trainer-shares-the-biggest-benefits/#ftag=CAD590a51e)
- - [Arguments start Monday in the FTC&#39;s antitrust suit targeting Meta&#39;s acquisitions of Instagram and WhatsApp, amid reports Zuckerberg asked Trump to intervene &lpar;Washington Post&rpar;](http://www.techmeme.com/250412/p13#a250412p13)
- - [&#39;Black Mirror&#39; Season 7 Episodes: Ranking the Satisfying New Sci-Fi Entries](https://www.cnet.com/tech/services-and-software/black-mirror-season-7-episodes-ranking-the-satisfying-new-sci-fi-entries/#ftag=CAD590a51e)
- - [Apple TV+&#39;s Mythic Quest to end with revised fourth season finale](https://appleinsider.com/articles/25/04/12/apple-tvs-mythic-quest-to-end-with-revised-fourth-season-finale?utm_medium=rss)<!-- TECH:END -->
+ - [Arguments start Monday in the FTC&#39;s antitrust suit targeting Meta&#39;s acquisitions of Instagram and WhatsApp, amid reports Zuckerberg asked Trump to intervene &lpar;Washington Post&rpar;](http://www.techmeme.com/250412/p13#a250412p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

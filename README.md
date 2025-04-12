@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What in the Happy-Tree-Friends f**k!?](http://9gag.com/gag/avyEyNX)
- - 😝 [Average dad humor](http://9gag.com/gag/aVvmKow)
- - 💣 [It&#39;s not every day you see a crawfish at the airport.](http://9gag.com/gag/agm8Q7x)
+ - 😝 [Peak acting](http://9gag.com/gag/aAy44zL)
+ - 😝 [Who gives them money??](http://9gag.com/gag/aO8D4Xr)
+ - 💣 [Nightmares](http://9gag.com/gag/a0e6X7q)
  - 😝 [For my friend? ALWAYS.](http://9gag.com/gag/a2vy8VO)
- - 👉 [Peak acting](http://9gag.com/gag/aAy44zL)<!-- MEMES:END -->
+ - 👉 [It&#39;s not every day you see a crawfish at the airport.](http://9gag.com/gag/agm8Q7x)<!-- MEMES:END -->
 
 ---
 

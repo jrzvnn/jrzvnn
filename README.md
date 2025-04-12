@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Proposed NASA Budget Cuts ‘Would Decimate American Leadership in Space’](https://www.wired.com/story/proposed-nasa-budget-cuts-would-decimate-american-leadership-in-space/)
  - [ByteDance, which spent an estimated $11B in 2024 on infrastructure for AI, is using data from ~1B users of its apps as the linchpin of its growing AI business &lpar;Meaghan Tobin/New York Times&rpar;](http://www.techmeme.com/250412/p8#a250412p8)
  - [Architect Partners: Q1 2025 was a record quarter for crypto M&amp;A with 61 deals and $2.2B in total deal value, including Kraken&#39;s $1.5B acquisition of NinjaTrader &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/250412/p7#a250412p7)
  - [Asia&#39;s startup funding fell 40% YoY to ~$13B in Q1 2025, the lowest funding for a quarter since $12.3B in Q4 2014; AI startup funding fell 50% YoY to just $1.8B &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/250412/p6#a250412p6)
- - [One Man’s Quest to Reforest the Rio Grande Valley](https://www.wired.com/story/the-rio-grande-valley-was-once-covered-in-forest-one-man-is-trying-to-bring-it-back/)
- - [Don&#39;t Buy an iPhone Until You See How Tariffs Could Double the Price. We Do the Math](https://www.cnet.com/personal-finance/taxes/dont-buy-an-iphone-until-you-see-how-tariffs-could-double-the-price-we-do-the-math/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [One Man’s Quest to Reforest the Rio Grande Valley](https://www.wired.com/story/the-rio-grande-valley-was-once-covered-in-forest-one-man-is-trying-to-bring-it-back/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

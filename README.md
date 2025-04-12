@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She delivers daily savage beatdowns](http://9gag.com/gag/a5QGwrG)
- - 😝 [Rocket Science](http://9gag.com/gag/aVvmKDn)
- - 💣 [The next time someone asks why US cars sell poorly in the EU, send them this](http://9gag.com/gag/aE0oVmN)
+ - 😝 [What in the Happy-Tree-Friends f**k!?](http://9gag.com/gag/avyEyNX)
+ - 😝 [Average dad humor](http://9gag.com/gag/aVvmKow)
+ - 💣 [It&#39;s not every day you see a crawfish at the airport.](http://9gag.com/gag/agm8Q7x)
  - 😝 [For my friend? ALWAYS.](http://9gag.com/gag/a2vy8VO)
- - 👉 [Come out and play bapack-bapack](http://9gag.com/gag/awyL1vQ)<!-- MEMES:END -->
+ - 👉 [Peak acting](http://9gag.com/gag/aAy44zL)<!-- MEMES:END -->
 
 ---
 

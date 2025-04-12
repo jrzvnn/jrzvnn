@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)
- - 😝 [What\u2019s the trick behind this](http://9gag.com/gag/aMVnm5V)
- - 💣 [How to attract any man](http://9gag.com/gag/aGyMGmw)
- - 😝 [When the food is too spicy](http://9gag.com/gag/an7vxEn)
- - 👉 [Welcome to the gym bro](http://9gag.com/gag/aXP4NK2)<!-- MEMES:END -->
+ - 😝 [I&#39;m so nervous watching this](http://9gag.com/gag/aLnGG0P)
+ - 😝 [Arizona Iced Tea CEO when asked why he doesn&#39;t raise the price of his drink from 99 cents.](http://9gag.com/gag/a9y8mjD)
+ - 💣 [Texas&#39; GDP equals Canada&#39;s. Plus we carry guns.](http://9gag.com/gag/aAy4Kb9)
+ - 😝 [Where is he going](http://9gag.com/gag/aqyQWoM)
+ - 👉 [Thats right.](http://9gag.com/gag/ayNWR0r)<!-- MEMES:END -->
 
 ---
 

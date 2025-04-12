@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What\u2019s the trick behind this](http://9gag.com/gag/aMVnm5V)
- - 😝 [If `F**k around and find out` was a person:](http://9gag.com/gag/a9y8yDK)
- - 💣 [The worst part of betrayal is that it is never from your enemies](http://9gag.com/gag/an7vnYL)
+ - 😝 [Notice how only women are attending](http://9gag.com/gag/aXP4N5v)
+ - 😝 [What in the Happy-Tree-Friends f**k!?](http://9gag.com/gag/avyEyNX)
+ - 💣 [So it begins](http://9gag.com/gag/a7oV0Km)
  - 😝 [For my friend? ALWAYS.](http://9gag.com/gag/a2vy8VO)
- - 👉 [Hello get\u2026damn woman](http://9gag.com/gag/agm87jq)<!-- MEMES:END -->
+ - 👉 [If `F**k around and find out` was a person:](http://9gag.com/gag/a9y8yDK)<!-- MEMES:END -->
 
 ---
 

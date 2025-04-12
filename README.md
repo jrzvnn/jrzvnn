@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Is Airplane Mode on Flights Necessary or Outdated? &lpar;2025&rpar;](https://www.wired.com/story/phone-on-airplane-mode-how-to/)
  - [The 24 Best Shows on Amazon Prime Right Now &lpar;April 2025&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)
  - [A look at the battle between Uber and its unlikely ally, Chinese-owned rival 99, against the São Paulo city government, which banned motorcycle taxis in 2023 &lpar;Gabriela Sá Pessoa/Rest of World&rpar;](http://www.techmeme.com/250412/p9#a250412p9)
  - [China Secretly &lpar;and Weirdly&rpar; Admits It Hacked US Infrastructure](https://www.wired.com/story/china-admits-hacking-us-infrastructure/)
- - [The Vuori Performance Joggers Are Everything a Pair of Sweatpants Should Be](https://www.wired.com/story/vuori-performance-joggers-rave/)
- - [What You Need to Know About Your iPhone&#39;s Enhanced Visual Search](https://www.cnet.com/tech/services-and-software/what-you-need-to-know-about-your-iphones-enhanced-visual-search/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Vuori Performance Joggers Are Everything a Pair of Sweatpants Should Be](https://www.wired.com/story/vuori-performance-joggers-rave/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

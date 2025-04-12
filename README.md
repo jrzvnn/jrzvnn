@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Trump excludes smartphones, computers, chips from tariffs](https://www.theverge.com/news/647666/trump-exempts-smartphones-laptops-chips-tariffs)
  - [India&#39;s JioHotstar now has 200M+ paid subscribers, driven by multi-language IPL cricket streams, ranking third-largest globally after Netflix and Prime Video &lpar;Bloomberg&rpar;](http://www.techmeme.com/250412/p12#a250412p12)
  - [The Best Pixel 9 Cases, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-google-pixel-9-cases-and-accessories/)
- - [Best King-Size Mattresses for 2025, Tested by CNET’s Sleep Experts](https://www.cnet.com/health/sleep/best-king-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What Is the Best Motor Oil for Your Car in 2025](https://www.cnet.com/roadshow/news/what-is-the-best-motor-oil-for-your-car-in-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

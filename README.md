@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Notice how only women are attending](http://9gag.com/gag/aXP4N5v)
- - 😝 [Who gives them money??](http://9gag.com/gag/aO8D4Xr)
- - 💣 [Title](http://9gag.com/gag/ayNW3bV)
+ - 😝 [`So f**king hot`](http://9gag.com/gag/aRBzLV7)
+ - 😝 [What\u2019s the trick behind this](http://9gag.com/gag/aMVnm5V)
+ - 💣 [Hello get\u2026damn woman](http://9gag.com/gag/agm87jq)
  - 😝 [For my friend? ALWAYS.](http://9gag.com/gag/a2vy8VO)
- - 👉 [Nightmares](http://9gag.com/gag/a0e6X7q)<!-- MEMES:END -->
+ - 👉 [Money](http://9gag.com/gag/aZZQQE0)<!-- MEMES:END -->
 
 ---
 

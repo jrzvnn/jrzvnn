@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Pixel 9 Cases, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-google-pixel-9-cases-and-accessories/)
  - [Trump excludes smartphones, computers, chips from tariffs](https://www.theverge.com/news/647666/trump-exempts-smartphones-laptops-chips-tariffs)
  - [Best King-Size Mattresses for 2025, Tested by CNET’s Sleep Experts](https://www.cnet.com/health/sleep/best-king-mattress/#ftag=CAD590a51e)
  - [Best Internet Providers in West Valley City, Utah](https://www.cnet.com/home/internet/best-internet-providers-in-west-valley-city-ut/#ftag=CAD590a51e)
- - [Trump gives Apple a giant break with wide-ranging tariff exemptions](https://appleinsider.com/articles/25/04/12/trump-gives-apple-a-giant-break-with-wide-ranging-tariff-exemptions?utm_medium=rss)
- - [The Trump administration excludes smartphones, laptops, hard drives, processors, memory chips, and machines used to make semiconductors from reciprocal tariffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250412/p11#a250412p11)<!-- TECH:END -->
+ - [Trump gives Apple a giant break with wide-ranging tariff exemptions](https://appleinsider.com/articles/25/04/12/trump-gives-apple-a-giant-break-with-wide-ranging-tariff-exemptions?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

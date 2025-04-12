@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How the Pentagon uses AI tools from Vannevar Labs, which got a DoD deal worth up to $99M, to scan open-source intelligence, write intelligence reports, and more &lpar;James O&#39;Donnell/MIT Technology Review&rpar;](http://www.techmeme.com/250412/p15#a250412p15)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 13, #202](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-13-202/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for April 13, #406](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-13-406/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for April 13, #1394](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-13-1394/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for April 13, #672](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-13-672/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Trump excludes smartphones, computers, chips from higher tariffs](https://www.theverge.com/news/647666/trump-exempts-smartphones-laptops-chips-tariffs)
+ - [Amazon&#39;s M4 MacBook Air sale drops 24GB, 512GB spec to $1,329](https://appleinsider.com/articles/25/04/12/amazons-m4-macbook-air-sale-drops-24gb-512gb-spec-to-1329?utm_medium=rss)
+ - [Scared by the Measles Outbreaks in the US? The MMR Vaccine Is the Best Way to Protect Yourself.](https://www.cnet.com/health/medical/scared-by-the-measles-outbreaks-in-the-us-the-mmr-vaccine-is-the-best-way-to-protect-yourself/#ftag=CAD590a51e)
+ - [How to Join Bungie&#39;s Marathon Alpha Test Ahead of Its September Launch](https://www.cnet.com/tech/gaming/how-to-join-bungies-marathon-alpha-test-ahead-of-its-september-launch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

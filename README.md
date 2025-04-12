@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s not every day you see a crawfish at the airport.](http://9gag.com/gag/agm8Q7x)
  - 😝 [`So f**king hot`](http://9gag.com/gag/aRBzLV7)
- - 💣 [Prince Rupert\u2019s Drop vs Hydraulic Press](http://9gag.com/gag/aW4vpKd)
- - 😝 [Helicopter crashes in the Hudson River in New York City](http://9gag.com/gag/agm81Kx)
- - 👉 [Nightmares](http://9gag.com/gag/a0e6X7q)<!-- MEMES:END -->
+ - 😝 [Nightmares](http://9gag.com/gag/a0e6X7q)
+ - 💣 [They use black magic](http://9gag.com/gag/aQzAQr7)
+ - 😝 [Who gives them money??](http://9gag.com/gag/aO8D4Xr)
+ - 👉 [Hello get\u2026damn woman](http://9gag.com/gag/agm87jq)<!-- MEMES:END -->
 
 ---
 

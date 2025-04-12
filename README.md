@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon&#39;s M4 MacBook Air sale drops 24GB, 512GB spec to $1,329](https://appleinsider.com/articles/25/04/12/amazons-m4-macbook-air-sale-drops-24gb-512gb-spec-to-1329?utm_medium=rss)
+ - [Tariff Surprise: Smartphones and Computers Get Exempted in Late-Night Reversal](https://www.cnet.com/tech/tariff-surprise-smartphones-and-computers-get-exempted-in-late-night-reversal/#ftag=CAD590a51e)
  - [Bungie’s slick-looking Marathon shooter arrives on September 23rd](https://www.theverge.com/news/646977/bungie-marathon-release-date-september-alpha-test-details)
  - [UK government report: 43% of businesses faced a cyber breach or attack in the past year; phishing was the most common type, affecting 85% of those attacked &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/250412/p14#a250412p14)
- - [Apple’s Mythic Quest has come to an end](https://www.theverge.com/tv/647661/apples-mythic-quest-has-come-to-an-end)
- - [Yes, Walking Counts as Exercise. A Personal Trainer Shares the Biggest Benefits](https://www.cnet.com/health/fitness/yes-walking-counts-as-exercise-personal-trainer-shares-the-biggest-benefits/#ftag=CAD590a51e)
- - [Arguments start Monday in the FTC&#39;s antitrust suit targeting Meta&#39;s acquisitions of Instagram and WhatsApp, amid reports Zuckerberg asked Trump to intervene &lpar;Washington Post&rpar;](http://www.techmeme.com/250412/p13#a250412p13)<!-- TECH:END -->
+ - [How to Join Bungie&#39;s Marathon Alpha Test Ahead of Its September Launch](https://www.cnet.com/tech/gaming/how-to-join-bungies-marathon-alpha-test-ahead-of-its-september-launch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

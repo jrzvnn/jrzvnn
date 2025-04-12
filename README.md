@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Notice how only women are attending](http://9gag.com/gag/aXP4N5v)
- - 😝 [What in the Happy-Tree-Friends f**k!?](http://9gag.com/gag/avyEyNX)
- - 💣 [So it begins](http://9gag.com/gag/a7oV0Km)
+ - 😝 [If `F**k around and find out` was a person:](http://9gag.com/gag/a9y8yDK)
+ - 😝 [Torque Magnifyer crack](http://9gag.com/gag/aRBzM7j)
+ - 💣 [Best mum award!](http://9gag.com/gag/a9y85rL)
  - 😝 [For my friend? ALWAYS.](http://9gag.com/gag/a2vy8VO)
- - 👉 [If `F**k around and find out` was a person:](http://9gag.com/gag/a9y8yDK)<!-- MEMES:END -->
+ - 👉 [This guy was mining 1 Bitcoin per day in 2011](http://9gag.com/gag/ayNW3Zb)<!-- MEMES:END -->
 
 ---
 

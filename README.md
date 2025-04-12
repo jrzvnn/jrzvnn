@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best mum award!](http://9gag.com/gag/a9y85rL)
- - 😝 [Arizona Iced Tea CEO when asked why he doesn&#39;t raise the price of his drink from 99 cents.](http://9gag.com/gag/a9y8mjD)
- - 💣 [Bro got a B- on a high school business project and decided to do this...](http://9gag.com/gag/aYQPM8w)
- - 😝 [Texas&#39; GDP equals Canada&#39;s. Plus we carry guns.](http://9gag.com/gag/aAy4Kb9)
- - 👉 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)<!-- MEMES:END -->
+ - 😝 [Wtf..](http://9gag.com/gag/azxGO6z)
+ - 😝 [Who wants to pet a reptile anyways?](http://9gag.com/gag/amom6W2)
+ - 💣 [Good Genetics](http://9gag.com/gag/a1m5D9b)
+ - 😝 [Hand over your dog, and nobody gets hurt.](http://9gag.com/gag/a1m5DxY)
+ - 👉 [Welcome to the gym bro](http://9gag.com/gag/aXP4NK2)<!-- MEMES:END -->
 
 ---
 

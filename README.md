@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Architect Partners: Q1 2025 was a record quarter for crypto M&amp;A with 61 deals and $2.2B in total deal value, including Kraken&#39;s $1.5B acquisition of NinjaTrader &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/250412/p7#a250412p7)
  - [Asia&#39;s startup funding fell 40% YoY to ~$13B in Q1 2025, the lowest funding for a quarter since $12.3B in Q4 2014; AI startup funding fell 50% YoY to just $1.8B &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/250412/p6#a250412p6)
  - [One Man’s Quest to Reforest the Rio Grande Valley](https://www.wired.com/story/the-rio-grande-valley-was-once-covered-in-forest-one-man-is-trying-to-bring-it-back/)
- - [Appfigures: ChatGPT was the most downloaded app globally in March, excluding games, with 46M downloads across App Store and Google Play, its biggest month ever &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250412/p5#a250412p5)<!-- TECH:END -->
+ - [Don&#39;t Buy an iPhone Until You See How Tariffs Could Double the Price. We Do the Math](https://www.cnet.com/personal-finance/taxes/dont-buy-an-iphone-until-you-see-how-tariffs-could-double-the-price-we-do-the-math/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

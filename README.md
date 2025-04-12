@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Architect Partners: Q1 2025 was a record quarter for crypto M&amp;A with 61 deals and $2.2B in total deal value, including Kraken&#39;s $1.5B acquisition of NinjaTrader &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/250412/p7#a250412p7)
+ - [Asia&#39;s startup funding fell 40% YoY to ~$13B in Q1 2025, the lowest funding for a quarter since $12.3B in Q4 2014; AI startup funding fell 50% YoY to just $1.8B &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/250412/p6#a250412p6)
+ - [One Man’s Quest to Reforest the Rio Grande Valley](https://www.wired.com/story/the-rio-grande-valley-was-once-covered-in-forest-one-man-is-trying-to-bring-it-back/)
  - [Appfigures: ChatGPT was the most downloaded app globally in March, excluding games, with 46M downloads across App Store and Google Play, its biggest month ever &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250412/p5#a250412p5)
- - [In Q1 2025, SK Hynix overtook Samsung for the first time to lead global DRAM revenues with a 36% share, driven by its dominant 70% market share in HBM &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250412/p4#a250412p4)
- - [US investigators are probing whether the China ties of TP-Link Systems Inc., the US-based business of Wi-Fi router giant TP-Link, pose an &quot;unacceptable risk&quot; &lpar;Kate O&#39;Keeffe/Bloomberg&rpar;](http://www.techmeme.com/250412/p3#a250412p3)
- - [Sources: Palantir is helping DOGE build an API layer above all IRS databases; DOGE wants Palantir&#39;s Foundry software to be the &quot;read center of all IRS systems&quot; &lpar;Makena Kelly/Wired&rpar;](http://www.techmeme.com/250412/p2#a250412p2)
- - [Google says some terms in AI Overviews will link to Google&#39;s search results &quot;to help people more easily explore topics and discover relevant websites&quot; &lpar;Barry Schwartz/Search Engine Land&rpar;](http://www.techmeme.com/250412/p1#a250412p1)<!-- TECH:END -->
+ - [In Q1 2025, SK Hynix overtook Samsung for the first time to lead global DRAM revenues with a 36% share, driven by its dominant 70% market share in HBM &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250412/p4#a250412p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

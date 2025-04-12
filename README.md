@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Trump excludes smartphones, computers, chips from tariffs](https://www.theverge.com/news/647666/trump-exempts-smartphones-laptops-chips-tariffs)
+ - [Best King-Size Mattresses for 2025, Tested by CNET’s Sleep Experts](https://www.cnet.com/health/sleep/best-king-mattress/#ftag=CAD590a51e)
+ - [Best Internet Providers in West Valley City, Utah](https://www.cnet.com/home/internet/best-internet-providers-in-west-valley-city-ut/#ftag=CAD590a51e)
  - [Trump gives Apple a giant break with wide-ranging tariff exemptions](https://appleinsider.com/articles/25/04/12/trump-gives-apple-a-giant-break-with-wide-ranging-tariff-exemptions?utm_medium=rss)
- - [The Trump administration excludes smartphones, laptops, hard drives, processors, memory chips, and machines used to make semiconductors from reciprocal tariffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250412/p11#a250412p11)
- - [Asus Vivobook 14 Copilot+ PC Review: A Budget Windows Laptop](https://www.wired.com/review/asus-vivobook-14-copilot-pc-2025/)
- - [There’s nothing wrong with a thong made out of a keyboard](https://www.theverge.com/creators/647080/wearable-technology-art)<!-- TECH:END -->
+ - [The Trump administration excludes smartphones, laptops, hard drives, processors, memory chips, and machines used to make semiconductors from reciprocal tariffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250412/p11#a250412p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

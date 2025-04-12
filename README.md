@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peak acting](http://9gag.com/gag/aAy44zL)
+ - 😝 [Notice how only women are attending](http://9gag.com/gag/aXP4N5v)
  - 😝 [Who gives them money??](http://9gag.com/gag/aO8D4Xr)
- - 💣 [Nightmares](http://9gag.com/gag/a0e6X7q)
+ - 💣 [Title](http://9gag.com/gag/ayNW3bV)
  - 😝 [For my friend? ALWAYS.](http://9gag.com/gag/a2vy8VO)
- - 👉 [It&#39;s not every day you see a crawfish at the airport.](http://9gag.com/gag/agm8Q7x)<!-- MEMES:END -->
+ - 👉 [Nightmares](http://9gag.com/gag/a0e6X7q)<!-- MEMES:END -->
 
 ---
 

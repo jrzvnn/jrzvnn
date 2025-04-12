@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Average dad humor](http://9gag.com/gag/aVvmKow)
- - 😝 [I expect that screenshot](http://9gag.com/gag/aZZQZV9)
- - 💣 [Hello get\u2026damn woman](http://9gag.com/gag/agm87jq)
+ - 😝 [Sweden will never be the same, downhill from now on Sweden \ud83c\uddf8\ud83c\uddea.](http://9gag.com/gag/aNDV9qb)
+ - 😝 [John Cena struggling to stay in character](http://9gag.com/gag/ae9VVvQ)
+ - 💣 [I&#39;m f**ked](http://9gag.com/gag/aGyM816)
  - 😝 [For my friend? ALWAYS.](http://9gag.com/gag/a2vy8VO)
- - 👉 [Prince Rupert\u2019s Drop vs Hydraulic Press](http://9gag.com/gag/aW4vpKd)<!-- MEMES:END -->
+ - 👉 [Average dad humor](http://9gag.com/gag/aVvmKow)<!-- MEMES:END -->
 
 ---
 

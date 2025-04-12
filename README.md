@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Building nightmare](http://9gag.com/gag/adBn1mN)
- - 😝 [The forbidden pasta machine](http://9gag.com/gag/aVvmKdd)
- - 💣 [Good Genetics](http://9gag.com/gag/a1m5D9b)
- - 😝 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)
- - 👉 [How to attract any man](http://9gag.com/gag/aGyMGmw)<!-- MEMES:END -->
+ - 😝 [I&#39;d love her](http://9gag.com/gag/aZZQED9)
+ - 😝 [Texas&#39; GDP equals Canada&#39;s. Plus we carry guns.](http://9gag.com/gag/aAy4Kb9)
+ - 💣 [Perfect soccer kick](http://9gag.com/gag/aMVnv8G)
+ - 😝 [I&#39;d be pist also](http://9gag.com/gag/aVvmm0d)
+ - 👉 [Thats right.](http://9gag.com/gag/ayNWR0r)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US investigators are probing whether the China ties of TP-Link Systems Inc., the US-based business of Wi-Fi router giant TP-Link, pose an &quot;unacceptable risk&quot; &lpar;Kate O&#39;Keeffe/Bloomberg&rpar;](http://www.techmeme.com/250412/p3#a250412p3)
  - [Sources: Palantir is helping DOGE build an API layer above all IRS databases; DOGE wants Palantir&#39;s Foundry software to be the &quot;read center of all IRS systems&quot; &lpar;Makena Kelly/Wired&rpar;](http://www.techmeme.com/250412/p2#a250412p2)
  - [Google says some terms in AI Overviews will link to Google&#39;s search results &quot;to help people more easily explore topics and discover relevant websites&quot; &lpar;Barry Schwartz/Search Engine Land&rpar;](http://www.techmeme.com/250412/p1#a250412p1)
  - [Bain Capital agrees to buy Blackstone-backed HealthEdge, which offers SaaS for health insurers to modernize their systems, sources say for ~$2.6B including debt &lpar;Financial Times&rpar;](http://www.techmeme.com/250411/p32#a250411p32)
- - [Best Internet Providers in Washington, DC](https://www.cnet.com/home/internet/best-internet-providers-in-washington-dc/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, April 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-april-12/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Washington, DC](https://www.cnet.com/home/internet/best-internet-providers-in-washington-dc/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

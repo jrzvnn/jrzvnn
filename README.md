@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m f**ked](http://9gag.com/gag/aGyM816)
- - 😝 [Netflix&#39;s complete detachment from reality](http://9gag.com/gag/a87DAeY)
- - 💣 [This guy was mining 1 Bitcoin per day in 2011](http://9gag.com/gag/ayNW3Zb)
+ - 😝 [Average dad humor](http://9gag.com/gag/aVvmKow)
+ - 😝 [I expect that screenshot](http://9gag.com/gag/aZZQZV9)
+ - 💣 [Hello get\u2026damn woman](http://9gag.com/gag/agm87jq)
  - 😝 [For my friend? ALWAYS.](http://9gag.com/gag/a2vy8VO)
- - 👉 [Hello get\u2026damn woman](http://9gag.com/gag/agm87jq)<!-- MEMES:END -->
+ - 👉 [Prince Rupert\u2019s Drop vs Hydraulic Press](http://9gag.com/gag/aW4vpKd)<!-- MEMES:END -->
 
 ---
 

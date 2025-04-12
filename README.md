@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This guy was mining 1 Bitcoin per day in 2011](http://9gag.com/gag/ayNW3Zb)
- - 😝 [Good Genetics](http://9gag.com/gag/a1m5D9b)
- - 💣 [So it begins](http://9gag.com/gag/a7oV0Km)
- - 😝 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)
- - 👉 [Prince Rupert\u2019s Drop vs Hydraulic Press](http://9gag.com/gag/aW4vpKd)<!-- MEMES:END -->
+ - 😝 [Best mum award!](http://9gag.com/gag/a9y85rL)
+ - 😝 [Arizona Iced Tea CEO when asked why he doesn&#39;t raise the price of his drink from 99 cents.](http://9gag.com/gag/a9y8mjD)
+ - 💣 [Bro got a B- on a high school business project and decided to do this...](http://9gag.com/gag/aYQPM8w)
+ - 😝 [Texas&#39; GDP equals Canada&#39;s. Plus we carry guns.](http://9gag.com/gag/aAy4Kb9)
+ - 👉 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)<!-- MEMES:END -->
 
 ---
 

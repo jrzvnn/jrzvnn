@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [During a street interview, Savannah Craven was hit by Brianna Rivers. Brianna Rivers got arrested now, and made a `Gofundme` claiming she is the victim.](http://9gag.com/gag/a7oV9mz)
- - 😝 [Prince Rupert\u2019s Drop vs Hydraulic Press](http://9gag.com/gag/aW4vpKd)
- - 💣 [What\u2019s the trick behind this](http://9gag.com/gag/aMVnm5V)
+ - 😝 [This guy was mining 1 Bitcoin per day in 2011](http://9gag.com/gag/ayNW3Zb)
  - 😝 [Good Genetics](http://9gag.com/gag/a1m5D9b)
- - 👉 [Notice how only women are attending](http://9gag.com/gag/aXP4N5v)<!-- MEMES:END -->
+ - 💣 [So it begins](http://9gag.com/gag/a7oV0Km)
+ - 😝 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)
+ - 👉 [Prince Rupert\u2019s Drop vs Hydraulic Press](http://9gag.com/gag/aW4vpKd)<!-- MEMES:END -->
 
 ---
 

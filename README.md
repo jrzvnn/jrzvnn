@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sweden will never be the same, downhill from now on Sweden \ud83c\uddf8\ud83c\uddea.](http://9gag.com/gag/aNDV9qb)
- - 😝 [John Cena struggling to stay in character](http://9gag.com/gag/ae9VVvQ)
- - 💣 [I&#39;m f**ked](http://9gag.com/gag/aGyM816)
+ - 😝 [Honestly, what\u2019s up with that?](http://9gag.com/gag/aZZQZo9)
+ - 😝 [Is this accurate?](http://9gag.com/gag/aD2ZnqZ)
+ - 💣 [This guy was mining 1 Bitcoin per day in 2011](http://9gag.com/gag/ayNW3Zb)
  - 😝 [For my friend? ALWAYS.](http://9gag.com/gag/a2vy8VO)
- - 👉 [Average dad humor](http://9gag.com/gag/aVvmKow)<!-- MEMES:END -->
+ - 👉 [Beetle del 1969 Super Beetle del 1970 volkswagen hybrid rv called](http://9gag.com/gag/aMVnBKP)<!-- MEMES:END -->
 
 ---
 

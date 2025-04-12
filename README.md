@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If `F**k around and find out` was a person:](http://9gag.com/gag/a9y8yDK)
- - 😝 [Torque Magnifyer crack](http://9gag.com/gag/aRBzM7j)
- - 💣 [Best mum award!](http://9gag.com/gag/a9y85rL)
+ - 😝 [It&#39;s not every day you see a crawfish at the airport.](http://9gag.com/gag/agm8Q7x)
+ - 😝 [I&#39;m f**ked](http://9gag.com/gag/aGyM816)
+ - 💣 [Building nightmare](http://9gag.com/gag/adBn1mN)
  - 😝 [For my friend? ALWAYS.](http://9gag.com/gag/a2vy8VO)
- - 👉 [This guy was mining 1 Bitcoin per day in 2011](http://9gag.com/gag/ayNW3Zb)<!-- MEMES:END -->
+ - 👉 [Could&#39;ve gone worse...](http://9gag.com/gag/a87DDOQ)<!-- MEMES:END -->
 
 ---
 

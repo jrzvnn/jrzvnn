@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [In the film \u201cTaxi Driver\u201d &lpar;1976&rpar;, 12 year-old Jodie Foster &lpar;right&rpar; had her 20 year-old sister, Connie, to stand-in for her in the more &#39;explicit&#39; scenes.](http://9gag.com/gag/aO8DZnR)
  - 😝 [Building nightmare](http://9gag.com/gag/adBn1mN)
- - 😝 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)
  - 💣 [Judge wipes the smirk of his face!](http://9gag.com/gag/a34y89v)
  - 😝 [Good Genetics](http://9gag.com/gag/a1m5D9b)
- - 👉 [The ninja missed him](http://9gag.com/gag/aRBzodG)<!-- MEMES:END -->
+ - 👉 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)<!-- MEMES:END -->
 
 ---
 

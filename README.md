@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Breville Smart Oven Air Fryer Compact Review: Versatile, Uneven](https://www.wired.com/review/breville-smart-oven-air-fryer-compact/)
  - [The Trump administration excludes smartphones along with selected computers and laptops from reciprocal tariffs &lpar;Financial Times&rpar;](http://www.techmeme.com/250412/p10#a250412p10)
- - [Blue Prince will steal your time just like Balatro](https://www.theverge.com/games-review/647451/blue-prince-review-architectural-roguelike-balatro)
- - [iPhone 20th-Anniversary Edition Could Bring Major Design Overhaul](https://www.cnet.com/tech/mobile/iphone-20th-anniversary-edition-could-bring-major-design-overhaul/#ftag=CAD590a51e)
- - [Is Airplane Mode on Flights Necessary or Outdated? &lpar;2025&rpar;](https://www.wired.com/story/phone-on-airplane-mode-how-to/)
- - [32 Best Mother&#39;s Day Gifts for Every Kind of Mom in 2025](https://www.cnet.com/news/best-mothers-day-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New Google Maps AI Tool Could Help Congestion and Fix Roads Near You](https://www.cnet.com/tech/services-and-software/google-maps-new-ai-tool-could-help-congestion-and-fix-roads-near-you/#ftag=CAD590a51e)
+ - [Zelle App Is No More. But You Can Still Send Money Digitally With These Banks](https://www.cnet.com/personal-finance/banking/zelle-app-is-no-more-but-you-can-still-send-money-digitally-with-these-banks/#ftag=CAD590a51e)
+ - [Blue Prince will steal your time just like Balatro](https://www.theverge.com/games-review/647451/blue-prince-review-architectural-roguelike-balatro)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

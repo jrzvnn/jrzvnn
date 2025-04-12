@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Buy or Wait Guide: How Tariffs Will Change Tech Prices and What to Do Now, According to Experts](https://www.cnet.com/tech/mobile/buy-or-wait-guide-how-tariffs-will-change-tech-prices-and-what-to-do-now-according-to-experts/#ftag=CAD590a51e)
  - [A look at Energy Department&#39;s Argonne National Lab&#39;s PRO-AID, an AI-based tool that can assist with nuclear reactor design and help operators run nuclear plants &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250412/p16#a250412p16)
  - [Science Saru’s The Ghost in the Shell series gets a new teaser trailer](https://www.theverge.com/tv/647769/ghost-in-the-shell-anime-science-saru-teaser-trailer)
  - [How the Pentagon uses AI tools from Vannevar Labs, which got a DoD deal worth up to $99M, to scan open-source intelligence, write intelligence reports, and more &lpar;James O&#39;Donnell/MIT Technology Review&rpar;](http://www.techmeme.com/250412/p15#a250412p15)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 13, #202](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-13-202/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 13, #202](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-13-202/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 13, #406](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-13-406/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

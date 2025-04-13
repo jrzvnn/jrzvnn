@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Perfect soccer kick](http://9gag.com/gag/aMVnv8G)
- - 😝 [I&#39;d be pist also](http://9gag.com/gag/aVvmm0d)
- - 💣 [The ninja missed him](http://9gag.com/gag/aRBzodG)
- - 😝 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)
- - 👉 [Judge wipes the smirk of his face!](http://9gag.com/gag/a34y89v)<!-- MEMES:END -->
+ - 😝 [Seriously, what&#39;s up with that](http://9gag.com/gag/azxGGoq)
+ - 😝 [Third guys voice is smooth like butter](http://9gag.com/gag/a2vybne)
+ - 💣 [I&#39;d love her](http://9gag.com/gag/aZZQED9)
+ - 😝 [Who gives them money??](http://9gag.com/gag/aO8D4Xr)
+ - 👉 [Must maintain discipline.](http://9gag.com/gag/aVvmZz8)<!-- MEMES:END -->
 
 ---
 

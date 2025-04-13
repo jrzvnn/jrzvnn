@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf..](http://9gag.com/gag/azxGO6z)
- - 😝 [Gollum did it better TBH](http://9gag.com/gag/aVvmZgn)
- - 💣 [Good Genetics](http://9gag.com/gag/a1m5D9b)
- - 😝 [`BLYATTTTTTT` famous last words](http://9gag.com/gag/amomxAV)
- - 👉 [Welcome to the gym bro](http://9gag.com/gag/aXP4NK2)<!-- MEMES:END -->
+ - 😝 [Perfect soccer kick](http://9gag.com/gag/aMVnv8G)
+ - 😝 [The ninja missed him](http://9gag.com/gag/aRBzodG)
+ - 💣 [Thats right.](http://9gag.com/gag/ayNWR0r)
+ - 😝 [I&#39;d be pist also](http://9gag.com/gag/aVvmm0d)
+ - 👉 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A French law requiring adult sites to run age checks and block users under 18 became applicable to sites based in France and outside of the EU on April 11 &lpar;Politico&rpar;](http://www.techmeme.com/250413/p16#a250413p16)
  - [According to a recently published support page, OpenAI may soon require organizations to complete an ID verification process to access new advanced AI models &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250413/p15#a250413p15)
  - [A look at slopsquatting, a supply chain attack where threat actors create malicious packages on indexes using AI-hallucinated names resembling popular libraries &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250413/p14#a250413p14)
  - [Simulated Musk, Zuckerberg voices are speaking from hacked crosswalk buttons](https://www.theverge.com/news/647830/crosswalk-hack-musk-zuckerberg-voices-california)
- - [Today&#39;s NYT Strands Hints, Answers and Help for April 14, #407](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-14-407/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for April 14, #673](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-14-673/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 14, #407](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-14-407/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple is working on a lighter and cheaper Vision Pro and a Mac-tethered model with ultra-low latency; iPadOS 19 overhaul will make it more like macOS &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250413/p8#a250413p8)
+ - [Wool, water, Wi-Fi: Modernizing an ancient business at the final frontiers of e-commerce](https://www.theverge.com/tech/647720/kyrgyzstan-viral-slippers-machines)
  - [Apple Watch to get small hardware changes, big software updates](https://appleinsider.com/articles/25/04/13/apple-watch-to-get-small-hardware-changes-big-software-updates?utm_medium=rss)
  - [iPads could get more Mac-like features soon](https://www.theverge.com/ipad/647793/ipad-ipados-macos-features-windowing-multitasking-stage-manager)
- - [Tim Cook really wants Apple Glass to become a reality](https://appleinsider.com/articles/25/04/13/tim-cook-really-wants-apple-glass-to-become-a-reality?utm_medium=rss)
- - [A look at Bitcoin Commons, a coworking hub in Austin where ex-staffers of companies like Apple are building crypto startups, as Trump rolls back regulations &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250413/p7#a250413p7)
- - [Thistle Meal Kit Review: Surprisingly Tasty](https://www.wired.com/review/thistle-meal-kit/)<!-- TECH:END -->
+ - [Tim Cook really wants Apple Glass to become a reality](https://appleinsider.com/articles/25/04/13/tim-cook-really-wants-apple-glass-to-become-a-reality?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

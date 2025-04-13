@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Seriously, what&#39;s up with that](http://9gag.com/gag/azxGGoq)
- - 😝 [What would have you done ?](http://9gag.com/gag/amomx7X)
- - 💣 [I love statistics.](http://9gag.com/gag/aQzAObw)
- - 😝 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)
- - 👉 [Metric System](http://9gag.com/gag/aKGWYQN)<!-- MEMES:END -->
+ - 😝 [When the food is too spicy](http://9gag.com/gag/an7vxEn)
+ - 💣 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)
+ - 😝 [Wait what](http://9gag.com/gag/a9y8m76)
+ - 👉 [In the film \u201cTaxi Driver\u201d &lpar;1976&rpar;, 12 year-old Jodie Foster &lpar;right&rpar; had her 20 year-old sister, Connie, to stand-in for her in the more &#39;explicit&#39; scenes.](http://9gag.com/gag/aO8DZnR)<!-- MEMES:END -->
 
 ---
 

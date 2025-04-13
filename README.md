@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Excel doesn\u2019t see fractions. It sees deadlines.](http://9gag.com/gag/aNDVO94)
  - 😝 [The friend who jokes at wrong time](http://9gag.com/gag/aByP4WN)
- - 💣 [Captain, is he lying?](http://9gag.com/gag/aByPOp2)
- - 😝 [How to attract any man](http://9gag.com/gag/aGyMGmw)
- - 👉 [Pain](http://9gag.com/gag/a87DVbY)<!-- MEMES:END -->
+ - 😝 [Captain, is he lying?](http://9gag.com/gag/aByPOp2)
+ - 💣 [How to attract any man](http://9gag.com/gag/aGyMGmw)
+ - 😝 [Pain](http://9gag.com/gag/a87DVbY)
+ - 👉 [I love statistics.](http://9gag.com/gag/aQzAObw)<!-- MEMES:END -->
 
 ---
 

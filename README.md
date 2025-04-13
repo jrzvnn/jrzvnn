@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Magic](http://9gag.com/gag/ayNWQQV)
- - 😝 [Wish i had a maid to make my wife jealous. Also a wife.](http://9gag.com/gag/an7vEm5)
- - 💣 [Lil Wayne with the police officer, `Uncle Bob,` who saved his life when he was 12 years old.](http://9gag.com/gag/azxGGBN)
- - 😝 [Good Genetics](http://9gag.com/gag/a1m5D9b)
- - 👉 [`BLYATTTTTTT` famous last words](http://9gag.com/gag/amomxAV)<!-- MEMES:END -->
+ - 😝 [Perfect soccer kick](http://9gag.com/gag/aMVnv8G)
+ - 😝 [Thats right.](http://9gag.com/gag/ayNWR0r)
+ - 💣 [The ninja missed him](http://9gag.com/gag/aRBzodG)
+ - 😝 [I&#39;d be pist also](http://9gag.com/gag/aVvmm0d)
+ - 👉 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)<!-- MEMES:END -->
 
 ---
 

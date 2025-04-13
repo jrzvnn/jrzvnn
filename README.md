@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The friend who jokes at wrong time](http://9gag.com/gag/aByP4WN)
  - 😝 [The ninja missed him](http://9gag.com/gag/aRBzodG)
- - 💣 [I&#39;d set him free](http://9gag.com/gag/a6Znn4e)
+ - 😝 [Classic](http://9gag.com/gag/aYQP142)
+ - 💣 [What would have you done ?](http://9gag.com/gag/amomx7X)
  - 😝 [Pain](http://9gag.com/gag/a87DVbY)
- - 👉 [Exactly what I thought.](http://9gag.com/gag/aoy4nqn)<!-- MEMES:END -->
+ - 👉 [The friend who jokes at wrong time](http://9gag.com/gag/aByP4WN)<!-- MEMES:END -->
 
 ---
 

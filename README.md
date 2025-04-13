@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, April 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-april-13/#ftag=CAD590a51e)
  - [Freitag’s newest messenger bag is  made from trash to last](https://www.theverge.com/reviews/647245/freitag-henry-messenger-bag-review-seatbelt-truck-tarp)
  - [Analysis: paper gains from the Trump family&#39;s investments in various crypto projects, including NFTs, DeFi, Bitcoin mining, and memecoins, are approaching $1B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250413/p5#a250413p5)
  - [Small Language Models Are the New Rage, Researchers Say](https://www.wired.com/story/why-researchers-are-turning-to-small-language-models/)
- - [Copenhagen-based Sparrow Quantum, which is developing photonic quantum chips based on research conducted at the Niels Bohr Institute, raised a €21.5M Series A &lpar;Vishal Singh/Silicon Canals&rpar;](http://www.techmeme.com/250413/p4#a250413p4)
- - [Tel Aviv-based Groundcover, an eBPF observability service for monitoring the performance of apps, systems, and their infrastructure, raised a $35M Series B &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250413/p3#a250413p3)<!-- TECH:END -->
+ - [Copenhagen-based Sparrow Quantum, which is developing photonic quantum chips based on research conducted at the Niels Bohr Institute, raised a €21.5M Series A &lpar;Vishal Singh/Silicon Canals&rpar;](http://www.techmeme.com/250413/p4#a250413p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

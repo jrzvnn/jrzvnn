@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I love statistics.](http://9gag.com/gag/aQzAObw)
- - 😝 [He Did Her Dirty](http://9gag.com/gag/a9y85A1)
- - 💣 [What are you watching?](http://9gag.com/gag/abAWQ1p)
- - 😝 [Fast food employee shoots at family over missing curly fries](http://9gag.com/gag/aYQPPv0)
- - 👉 [In the film \u201cTaxi Driver\u201d &lpar;1976&rpar;, 12 year-old Jodie Foster &lpar;right&rpar; had her 20 year-old sister, Connie, to stand-in for her in the more &#39;explicit&#39; scenes.](http://9gag.com/gag/aO8DZnR)<!-- MEMES:END -->
+ - 😝 [Judge wipes the smirk of his face!](http://9gag.com/gag/a34y89v)
+ - 😝 [Inflation made easy for you monkey](http://9gag.com/gag/a5QGqKy)
+ - 💣 [What you get in hollywood for a 100 million dollars](http://9gag.com/gag/ae9VmZm)
+ - 😝 [Die? I don\u2019t know her... said the flower](http://9gag.com/gag/a2vyOrw)
+ - 👉 [Bro got a B- on a high school business project and decided to do this...](http://9gag.com/gag/aYQPM8w)<!-- MEMES:END -->
 
 ---
 

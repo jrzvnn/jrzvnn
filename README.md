@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon slashes M4 iPad Pro to $899, Apple Pencil Pro $99](https://appleinsider.com/articles/25/04/13/amazon-slashes-m4-ipad-pro-to-899-apple-pencil-pro-99?utm_medium=rss)
  - [Apple Vision Pro 2: What the rumor mill sees coming, and when it might arrive](https://appleinsider.com/articles/25/04/11/apple-vision-pro-2-what-the-rumor-mill-sees-coming-and-when-it-might-arrie?utm_medium=rss)
  - [Lawmakers who benefited from crypto super PACs are advancing crypto priorities in Congress, like the Genius Act, which establishes rules for stablecoin issuers &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/250413/p12#a250413p12)
  - [I&#39;m a Tax Pro. These Tax Breaks Confuse My Clients Every Year](https://www.cnet.com/personal-finance/taxes/im-a-tax-pro-these-tax-breaks-confuse-my-clients-every-year/#ftag=CAD590a51e)
- - [Best Samsung Phone of 2025](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)
- - [Netflix&#39;s &#39;iHostage&#39; drama retells Amsterdam Apple Store&#39;s fatal standoff](https://appleinsider.com/articles/25/04/13/netflixs-ihostage-drama-retells-amsterdam-apple-store-standoff?utm_medium=rss)<!-- TECH:END -->
+ - [Best Samsung Phone of 2025](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

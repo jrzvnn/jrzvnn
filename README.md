@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Seriously, what&#39;s up with that](http://9gag.com/gag/azxGGoq)
- - 😝 [What are you watching?](http://9gag.com/gag/abAWQ1p)
- - 💣 [When the food is too spicy](http://9gag.com/gag/an7vxEn)
- - 😝 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)
- - 👉 [In the film \u201cTaxi Driver\u201d &lpar;1976&rpar;, 12 year-old Jodie Foster &lpar;right&rpar; had her 20 year-old sister, Connie, to stand-in for her in the more &#39;explicit&#39; scenes.](http://9gag.com/gag/aO8DZnR)<!-- MEMES:END -->
+ - 😝 [Bro got a B- on a high school business project and decided to do this...](http://9gag.com/gag/aYQPM8w)
+ - 😝 [Captain, is he lying?](http://9gag.com/gag/aByPOp2)
+ - 💣 [Make sense](http://9gag.com/gag/aoy48ew)
+ - 😝 [Excel doesn\u2019t see fractions. It sees deadlines.](http://9gag.com/gag/aNDVO94)
+ - 👉 [Die? I don\u2019t know her... said the flower](http://9gag.com/gag/a2vyOrw)<!-- MEMES:END -->
 
 ---
 

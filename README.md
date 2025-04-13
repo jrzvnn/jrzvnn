@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: paper gains from the Trump family&#39;s investments in various crypto projects, including NFTs, DeFi, Bitcoin mining, and memecoins, are approaching $1B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250413/p5#a250413p5)
+ - [Small Language Models Are the New Rage, Researchers Say](https://www.wired.com/story/why-researchers-are-turning-to-small-language-models/)
  - [Copenhagen-based Sparrow Quantum, which is developing photonic quantum chips based on research conducted at the Niels Bohr Institute, raised a €21.5M Series A &lpar;Vishal Singh/Silicon Canals&rpar;](http://www.techmeme.com/250413/p4#a250413p4)
  - [Tel Aviv-based Groundcover, an eBPF observability service for monitoring the performance of apps, systems, and their infrastructure, raised a $35M Series B &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250413/p3#a250413p3)
- - [Alibaba&#39;s AI assistant Quark surpassed ByteDance&#39;s Doubao to become China&#39;s most popular AI app in March, with ~150M and ~100M MAUs globally, respectively &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/250413/p2#a250413p2)
- - [LiveKit, which offers open-source tools for building apps to transmit real-time audio and video, raised a $45M Series B; LiveKit also powers ChatGPT Voice Mode &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250413/p1#a250413p1)
- - [Sam Altman says ChatGPT users had doubled in the past few weeks and that &quot;10% of the world uses our systems&quot;, which would peg the number closer to 800M users &lpar;Martine Paris/Forbes&rpar;](http://www.techmeme.com/250412/p19#a250412p19)<!-- TECH:END -->
+ - [Alibaba&#39;s AI assistant Quark surpassed ByteDance&#39;s Doubao to become China&#39;s most popular AI app in March, with ~150M and ~100M MAUs globally, respectively &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/250413/p2#a250413p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

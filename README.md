@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [If You Like to Get Nerdy in the Kitchen, Try Roasting a Chicken on a Stick](https://www.wired.com/story/poultree-chicken-on-a-stick/)
  - [A 2024 Louisiana parole law cedes much of the parole board&#39;s power to TIGER, an algorithm with immutable risk scores, blocking thousands from early release &lpar;Richard A. Webster/ProPublica&rpar;](http://www.techmeme.com/250413/p6#a250413p6)
- - [Carbon-Plated Running Shoes: Pros, Cons and Expert-Recommended Brands](https://www.cnet.com/health/fitness/carbon-plated-running-shoes-pros-cons-expert-recommended-brands/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, April 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-april-13/#ftag=CAD590a51e)
- - [Freitag’s newest messenger bag is  made from trash to last](https://www.theverge.com/reviews/647245/freitag-henry-messenger-bag-review-seatbelt-truck-tarp)<!-- TECH:END -->
+ - [14 Sci-Fi Movies You Should Absolutely Watch on Prime Video Right Now](https://www.cnet.com/tech/services-and-software/best-sci-fi-movies-on-prime-video-2025/#ftag=CAD590a51e)
+ - [Map Your Hikes This Spring With This iOS Feature on iPhone](https://www.cnet.com/tech/services-and-software/map-your-hikes-this-spring-with-this-ios-feature-on-iphone/#ftag=CAD590a51e)
+ - [Carbon-Plated Running Shoes: Pros, Cons and Expert-Recommended Brands](https://www.cnet.com/health/fitness/carbon-plated-running-shoes-pros-cons-expert-recommended-brands/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

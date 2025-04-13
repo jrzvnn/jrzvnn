@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wireless electricity](http://9gag.com/gag/aKGWeXN)
- - 😝 [Wish i had a maid to make my wife jealous. Also a wife.](http://9gag.com/gag/an7vEm5)
- - 💣 [In the film \u201cTaxi Driver\u201d &lpar;1976&rpar;, 12 year-old Jodie Foster &lpar;right&rpar; had her 20 year-old sister, Connie, to stand-in for her in the more &#39;explicit&#39; scenes.](http://9gag.com/gag/aO8DZnR)
- - 😝 [The ninja missed him](http://9gag.com/gag/aRBzodG)
- - 👉 [What would have you done ?](http://9gag.com/gag/amomx7X)<!-- MEMES:END -->
+ - 😝 [`BLYATTTTTTT` famous last words](http://9gag.com/gag/amomxAV)
+ - 😝 [F Rules!](http://9gag.com/gag/axybvwK)
+ - 💣 [They use black magic](http://9gag.com/gag/aQzAQr7)
+ - 😝 [Welcome to the gym bro](http://9gag.com/gag/aXP4NK2)
+ - 👉 [When the food is too spicy](http://9gag.com/gag/an7vxEn)<!-- MEMES:END -->
 
 ---
 

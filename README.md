@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Seriously, what&#39;s up with that](http://9gag.com/gag/azxGGoq)
+ - 😝 [Wait what](http://9gag.com/gag/a9y8m76)
  - 😝 [Magic](http://9gag.com/gag/ayNWQQV)
- - 💣 [`BLYATTTTTTT` famous last words](http://9gag.com/gag/amomxAV)
- - 😝 [Rabid fox, trying to bite his way through](http://9gag.com/gag/axybYVD)
- - 👉 [Wireless electricity](http://9gag.com/gag/aKGWeXN)<!-- MEMES:END -->
+ - 💣 [Short title](http://9gag.com/gag/agm8xR1)
+ - 😝 [Seriously, what&#39;s up with that](http://9gag.com/gag/azxGGoq)
+ - 👉 [When the food is too spicy](http://9gag.com/gag/an7vxEn)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix&#39;s &#39;iHostage&#39; drama retells Amsterdam Apple Store&#39;s fatal standoff](https://appleinsider.com/articles/25/04/13/netflixs-ihostage-drama-retells-amsterdam-apple-store-standoff?utm_medium=rss)
  - [Smartphone tariffs are coming back in ‘a month or two,’ says Trump admin](https://www.theverge.com/news/647811/smartphone-laptop-chips-tariffs-returning-semiconductor-sector-tariffs)
  - [Source: Trump plans to instruct the Commerce Department to launch a Section 232 national security probe into chip imports, which could lead to new tariffs &lpar;Ari Hawkins/Politico&rpar;](http://www.techmeme.com/250413/p11#a250413p11)
  - [iPhone &amp; Mac tariff reprieve only temporary](https://appleinsider.com/articles/25/04/13/iphone-mac-tariff-reprieve-only-temporary?utm_medium=rss)
- - [Jack Dorsey says &quot;delete all IP law&quot; in an X post and Musk says &quot;I agree&quot;; Dorsey says current models &quot;take way too much&quot; from creators and &quot;only rent-seek&quot; &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250413/p10#a250413p10)
- - [US Commerce Secretary Howard Lutnick says consumer electronics exempt from tariffs may be included in semiconductor tariffs likely coming in &quot;a month or two&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250413/p9#a250413p9)<!-- TECH:END -->
+ - [Jack Dorsey says &quot;delete all IP law&quot; in an X post and Musk says &quot;I agree&quot;; Dorsey says current models &quot;take way too much&quot; from creators and &quot;only rent-seek&quot; &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250413/p10#a250413p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

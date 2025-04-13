@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GHD Duet Blowdry Review: Power and Fantastic Styling—for a Price](https://www.wired.com/review/ghd-duet-blowdry/)
  - [If You Like to Get Nerdy in the Kitchen, Try Roasting a Chicken on a Stick](https://www.wired.com/story/poultree-chicken-on-a-stick/)
  - [A 2024 Louisiana parole law cedes much of the parole board&#39;s power to TIGER, an algorithm with immutable risk scores, blocking thousands from early release &lpar;Richard A. Webster/ProPublica&rpar;](http://www.techmeme.com/250413/p6#a250413p6)
  - [14 Sci-Fi Movies You Should Absolutely Watch on Prime Video Right Now](https://www.cnet.com/tech/services-and-software/best-sci-fi-movies-on-prime-video-2025/#ftag=CAD590a51e)
- - [Map Your Hikes This Spring With This iOS Feature on iPhone](https://www.cnet.com/tech/services-and-software/map-your-hikes-this-spring-with-this-ios-feature-on-iphone/#ftag=CAD590a51e)
- - [Carbon-Plated Running Shoes: Pros, Cons and Expert-Recommended Brands](https://www.cnet.com/health/fitness/carbon-plated-running-shoes-pros-cons-expert-recommended-brands/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Map Your Hikes This Spring With This iOS Feature on iPhone](https://www.cnet.com/tech/services-and-software/map-your-hikes-this-spring-with-this-ios-feature-on-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

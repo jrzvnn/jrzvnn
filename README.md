@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [12 Best Laptops of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-laptops/)
  - [Sources: Apple is working on a lighter and cheaper Vision Pro and a Mac-tethered model with ultra-low latency; iPadOS 19 overhaul will make it more like macOS &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250413/p8#a250413p8)
- - [Premier League Soccer: Stream Newcastle United Newcastle vs. Man United From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-newcastle-united-newcastle-vs-man-united-from-anywhere/#ftag=CAD590a51e)
  - [Wool, water, Wi-Fi: Modernizing an ancient business at the final frontiers of e-commerce](https://www.theverge.com/tech/647720/kyrgyzstan-viral-slippers-machines)
- - [Apple Watch to get small hardware changes, big software updates](https://appleinsider.com/articles/25/04/13/apple-watch-to-get-small-hardware-changes-big-software-updates?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Watch to get small hardware changes, big software updates](https://appleinsider.com/articles/25/04/13/apple-watch-to-get-small-hardware-changes-big-software-updates?utm_medium=rss)
+ - [iPads could get more Mac-like features soon](https://www.theverge.com/ipad/647793/ipad-ipados-macos-features-windowing-multitasking-stage-manager)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

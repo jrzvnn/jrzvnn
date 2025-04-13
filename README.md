@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Short title](http://9gag.com/gag/agm8xR1)
- - 😝 [Pain](http://9gag.com/gag/a87DVbY)
- - 💣 [Wireless electricity](http://9gag.com/gag/aKGWeXN)
- - 😝 [Does size matter?](http://9gag.com/gag/aoy48zA)
- - 👉 [When the food is too spicy](http://9gag.com/gag/an7vxEn)<!-- MEMES:END -->
+ - 😝 [Seriously, what&#39;s up with that](http://9gag.com/gag/azxGGoq)
+ - 😝 [Magic](http://9gag.com/gag/ayNWQQV)
+ - 💣 [`BLYATTTTTTT` famous last words](http://9gag.com/gag/amomxAV)
+ - 😝 [Rabid fox, trying to bite his way through](http://9gag.com/gag/axybYVD)
+ - 👉 [Wireless electricity](http://9gag.com/gag/aKGWeXN)<!-- MEMES:END -->
 
 ---
 

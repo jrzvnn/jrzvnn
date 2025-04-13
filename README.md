@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It\u2019s just super mario! How hard can it b\u2026.. dang!](http://9gag.com/gag/ayNW60y)
- - 😝 [Wait what](http://9gag.com/gag/a9y8m76)
- - 💣 [Must maintain discipline.](http://9gag.com/gag/aVvmZz8)
- - 😝 [Seriously, what&#39;s up with that](http://9gag.com/gag/azxGGoq)
- - 👉 [Someone wearing a full-face prosthetic mask to avoid being identified by CCTV and facial recognition.](http://9gag.com/gag/a6Zn5DA)<!-- MEMES:END -->
+ - 😝 [Perfect soccer kick](http://9gag.com/gag/aMVnv8G)
+ - 😝 [I&#39;d be pist also](http://9gag.com/gag/aVvmm0d)
+ - 💣 [The ninja missed him](http://9gag.com/gag/aRBzodG)
+ - 😝 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)
+ - 👉 [Judge wipes the smirk of his face!](http://9gag.com/gag/a34y89v)<!-- MEMES:END -->
 
 ---
 

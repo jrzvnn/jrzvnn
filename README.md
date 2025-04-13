@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`BLYATTTTTTT` famous last words](http://9gag.com/gag/amomxAV)
- - 😝 [F Rules!](http://9gag.com/gag/axybvwK)
- - 💣 [They use black magic](http://9gag.com/gag/aQzAQr7)
- - 😝 [Welcome to the gym bro](http://9gag.com/gag/aXP4NK2)
- - 👉 [When the food is too spicy](http://9gag.com/gag/an7vxEn)<!-- MEMES:END -->
+ - 😝 [Who gives them money??](http://9gag.com/gag/aO8D4Xr)
+ - 😝 [Must maintain discipline.](http://9gag.com/gag/aVvmZz8)
+ - 💣 [Gollum did it better TBH](http://9gag.com/gag/aVvmZgn)
+ - 😝 [When the food is too spicy](http://9gag.com/gag/an7vxEn)
+ - 👉 [He Did Her Dirty](http://9gag.com/gag/a9y85A1)<!-- MEMES:END -->
 
 ---
 

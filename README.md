@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F Rules!](http://9gag.com/gag/axybvwK)
- - 😝 [When the food is too spicy](http://9gag.com/gag/an7vxEn)
- - 💣 [Gollum did it better TBH](http://9gag.com/gag/aVvmZgn)
- - 😝 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)
+ - 😝 [Wtf..](http://9gag.com/gag/azxGO6z)
+ - 😝 [Gollum did it better TBH](http://9gag.com/gag/aVvmZgn)
+ - 💣 [Good Genetics](http://9gag.com/gag/a1m5D9b)
+ - 😝 [`BLYATTTTTTT` famous last words](http://9gag.com/gag/amomxAV)
  - 👉 [Welcome to the gym bro](http://9gag.com/gag/aXP4NK2)<!-- MEMES:END -->
 
 ---

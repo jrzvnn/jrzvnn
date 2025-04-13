@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [...](http://9gag.com/gag/aLnGAZA)
- - 😝 [What would have you done ?](http://9gag.com/gag/amomx7X)
- - 💣 [Magic](http://9gag.com/gag/ayNWQQV)
- - 😝 [In the film \u201cTaxi Driver\u201d &lpar;1976&rpar;, 12 year-old Jodie Foster &lpar;right&rpar; had her 20 year-old sister, Connie, to stand-in for her in the more &#39;explicit&#39; scenes.](http://9gag.com/gag/aO8DZnR)
- - 👉 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)<!-- MEMES:END -->
+ - 😝 [Perfect soccer kick](http://9gag.com/gag/aMVnv8G)
+ - 😝 [I&#39;d be pist also](http://9gag.com/gag/aVvmm0d)
+ - 💣 [The ninja missed him](http://9gag.com/gag/aRBzodG)
+ - 😝 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)
+ - 👉 [Judge wipes the smirk of his face!](http://9gag.com/gag/a34y89v)<!-- MEMES:END -->
 
 ---
 

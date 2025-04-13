@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The ninja missed him](http://9gag.com/gag/aRBzodG)
- - 😝 [Wait what](http://9gag.com/gag/a9y8m76)
+ - 😝 [...](http://9gag.com/gag/aLnGAZA)
+ - 😝 [What would have you done ?](http://9gag.com/gag/amomx7X)
  - 💣 [Magic](http://9gag.com/gag/ayNWQQV)
- - 😝 [What are you watching?](http://9gag.com/gag/abAWQ1p)
- - 👉 [When the food is too spicy](http://9gag.com/gag/an7vxEn)<!-- MEMES:END -->
+ - 😝 [In the film \u201cTaxi Driver\u201d &lpar;1976&rpar;, 12 year-old Jodie Foster &lpar;right&rpar; had her 20 year-old sister, Connie, to stand-in for her in the more &#39;explicit&#39; scenes.](http://9gag.com/gag/aO8DZnR)
+ - 👉 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)<!-- MEMES:END -->
 
 ---
 

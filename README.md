@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Thistle Meal Kit Review: Surprisingly Tasty](https://www.wired.com/review/thistle-meal-kit/)
  - [iPadOS 19 rumored to get more Mac-like in productivity push](https://appleinsider.com/articles/25/04/13/ipados-19-rumored-to-get-more-mac-like-in-productivity-push?utm_medium=rss)
  - [Future Apple Vision Pro rumored to be directly connected to a Mac](https://appleinsider.com/articles/25/04/13/future-apple-vision-pro-rumored-to-be-directly-connected-to-a-mac?utm_medium=rss)
  - [The Best TV Deals on 2024 Models to Skip the Tariffs](https://www.wired.com/story/best-tv-soundbar-deals-beat-tariffs/)
- - [The Best Backpacking Water Filters of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-backpacking-water-filters/)
- - [GHD Duet Blowdry Review: Power and Fantastic Styling—for a Price](https://www.wired.com/review/ghd-duet-blowdry/)<!-- TECH:END -->
+ - [The Best Backpacking Water Filters of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-backpacking-water-filters/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

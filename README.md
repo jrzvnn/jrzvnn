@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US Commerce Secretary Howard Lutnick says consumer electronics exempt from tariffs may be included in semiconductor tariffs likely coming in &quot;a month or two&quot; &lpar;Aime Williams/Financial Times&rpar;](http://www.techmeme.com/250413/p9#a250413p9)
+ - [Microplastics Aren&#39;t Just Found in Seafood Anymore. These Are 9 Other Foods to Watch](https://www.cnet.com/health/nutrition/microplastics-arent-just-found-in-seafood-anymore-the-9-other-foods-to-watch/#ftag=CAD590a51e)
+ - [Can You Really Go to Jail for Not Paying Your Taxes? The Answer May Surprise You](https://www.cnet.com/personal-finance/can-you-really-go-to-jail-for-not-paying-your-taxes-the-answer-may-surprise-you/#ftag=CAD590a51e)
  - [How the Switch 2 compares to the ROG Ally](https://www.theverge.com/tech/647048/switch-2-versus-rog-ally-x-asus-nintendo-specs-price-screen-games)
- - [12 Best Laptops of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-laptops/)
- - [Premier League Soccer: Stream Newcastle United Newcastle vs. Man United From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-newcastle-united-newcastle-vs-man-united-from-anywhere/#ftag=CAD590a51e)
- - [Wool, water, Wi-Fi: Modernizing an ancient business at the final frontiers of e-commerce](https://www.theverge.com/tech/647720/kyrgyzstan-viral-slippers-machines)
- - [Apple Watch to get small hardware changes, big software updates](https://appleinsider.com/articles/25/04/13/apple-watch-to-get-small-hardware-changes-big-software-updates?utm_medium=rss)<!-- TECH:END -->
+ - [An iPad Instagram App Might Actually Be Happening](https://www.cnet.com/tech/services-and-software/an-ipad-instagram-app-might-actually-be-happening/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

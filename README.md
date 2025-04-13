@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Smartphone tariffs are coming back in ‘a month or two,’ says Trump admin](https://www.theverge.com/news/647811/smartphone-laptop-chips-tariffs-returning-semiconductor-sector-tariffs)
+ - [Source: Trump plans to instruct the Commerce Department to launch a Section 232 national security probe into chip imports, which could lead to new tariffs &lpar;Ari Hawkins/Politico&rpar;](http://www.techmeme.com/250413/p11#a250413p11)
  - [iPhone &amp; Mac tariff reprieve only temporary](https://appleinsider.com/articles/25/04/13/iphone-mac-tariff-reprieve-only-temporary?utm_medium=rss)
  - [Jack Dorsey says &quot;delete all IP law&quot; in an X post and Musk says &quot;I agree&quot;; Dorsey says current models &quot;take way too much&quot; from creators and &quot;only rent-seek&quot; &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250413/p10#a250413p10)
- - [US Commerce Secretary Howard Lutnick says consumer electronics exempt from tariffs may be included in semiconductor tariffs likely coming in &quot;a month or two&quot; &lpar;Aime Williams/Financial Times&rpar;](http://www.techmeme.com/250413/p9#a250413p9)
- - [Microplastics Aren&#39;t Just Found in Seafood Anymore. These Are 9 Other Foods to Watch](https://www.cnet.com/health/nutrition/microplastics-arent-just-found-in-seafood-anymore-the-9-other-foods-to-watch/#ftag=CAD590a51e)
- - [Can You Really Go to Jail for Not Paying Your Taxes? The Answer May Surprise You](https://www.cnet.com/personal-finance/can-you-really-go-to-jail-for-not-paying-your-taxes-the-answer-may-surprise-you/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US Commerce Secretary Howard Lutnick says consumer electronics exempt from tariffs may be included in semiconductor tariffs likely coming in &quot;a month or two&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250413/p9#a250413p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

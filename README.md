@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Internal beehive](http://9gag.com/gag/a6Znp2e)
- - 😝 [The ninja missed him](http://9gag.com/gag/aRBzodG)
- - 💣 [Wish i had a maid to make my wife jealous. Also a wife.](http://9gag.com/gag/an7vEm5)
- - 😝 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)
- - 👉 [What would have you done ?](http://9gag.com/gag/amomx7X)<!-- MEMES:END -->
+ - 😝 [Magic](http://9gag.com/gag/ayNWQQV)
+ - 😝 [Wish i had a maid to make my wife jealous. Also a wife.](http://9gag.com/gag/an7vEm5)
+ - 💣 [Lil Wayne with the police officer, `Uncle Bob,` who saved his life when he was 12 years old.](http://9gag.com/gag/azxGGBN)
+ - 😝 [Good Genetics](http://9gag.com/gag/a1m5D9b)
+ - 👉 [`BLYATTTTTTT` famous last words](http://9gag.com/gag/amomxAV)<!-- MEMES:END -->
 
 ---
 

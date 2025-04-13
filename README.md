@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Perfect soccer kick](http://9gag.com/gag/aMVnv8G)
+ - 😝 [Internal beehive](http://9gag.com/gag/a6Znp2e)
  - 😝 [The ninja missed him](http://9gag.com/gag/aRBzodG)
- - 💣 [Thats right.](http://9gag.com/gag/ayNWR0r)
- - 😝 [I&#39;d be pist also](http://9gag.com/gag/aVvmm0d)
- - 👉 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)<!-- MEMES:END -->
+ - 💣 [Wish i had a maid to make my wife jealous. Also a wife.](http://9gag.com/gag/an7vEm5)
+ - 😝 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)
+ - 👉 [What would have you done ?](http://9gag.com/gag/amomx7X)<!-- MEMES:END -->
 
 ---
 

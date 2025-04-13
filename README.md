@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [&gt;Trump hikes China tariffs to 30% and then 84% &gt;China reciprocates &gt;Trump hikes tariffs to 145% &gt;China reciprocates &gt;Trump announces that he wants Xi to call him &gt;China does nothing &gt;Trump announces he would be ready to `make a deal` &gt;China does nothing &gt;Trump rolls back tariffs](http://9gag.com/gag/aYQPAPv)
+ - 😝 [The friend who jokes at wrong time](http://9gag.com/gag/aByP4WN)
  - 😝 [The ninja missed him](http://9gag.com/gag/aRBzodG)
- - 💣 [Short title](http://9gag.com/gag/agm8xR1)
- - 😝 [Classic](http://9gag.com/gag/aYQP142)
- - 👉 [`BLYATTTTTTT` famous last words](http://9gag.com/gag/amomxAV)<!-- MEMES:END -->
+ - 💣 [I&#39;d set him free](http://9gag.com/gag/a6Znn4e)
+ - 😝 [Pain](http://9gag.com/gag/a87DVbY)
+ - 👉 [Exactly what I thought.](http://9gag.com/gag/aoy4nqn)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPadOS 19 rumored to get more Mac-like in productivity push](https://appleinsider.com/articles/25/04/13/ipados-19-rumored-to-get-more-mac-like-in-productivity-push?utm_medium=rss)
+ - [Future Apple Vision Pro rumored to be directly connected to a Mac](https://appleinsider.com/articles/25/04/13/future-apple-vision-pro-rumored-to-be-directly-connected-to-a-mac?utm_medium=rss)
+ - [The Best TV Deals on 2024 Models to Skip the Tariffs](https://www.wired.com/story/best-tv-soundbar-deals-beat-tariffs/)
  - [The Best Backpacking Water Filters of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-backpacking-water-filters/)
- - [GHD Duet Blowdry Review: Power and Fantastic Styling—for a Price](https://www.wired.com/review/ghd-duet-blowdry/)
- - [If You Like to Get Nerdy in the Kitchen, Try Roasting a Chicken on a Stick](https://www.wired.com/story/poultree-chicken-on-a-stick/)
- - [A 2024 Louisiana parole law cedes much of the parole board&#39;s power to TIGER, an algorithm with immutable risk scores, blocking thousands from early release &lpar;Richard A. Webster/ProPublica&rpar;](http://www.techmeme.com/250413/p6#a250413p6)
- - [14 Sci-Fi Movies You Should Absolutely Watch on Prime Video Right Now](https://www.cnet.com/tech/services-and-software/best-sci-fi-movies-on-prime-video-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [GHD Duet Blowdry Review: Power and Fantastic Styling—for a Price](https://www.wired.com/review/ghd-duet-blowdry/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

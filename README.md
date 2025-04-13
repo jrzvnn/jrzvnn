@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Seriously, what&#39;s up with that](http://9gag.com/gag/azxGGoq)
- - 😝 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)
- - 💣 [I got on the train for the first time in 10 years ...](http://9gag.com/gag/a4P5Wm1)
  - 😝 [What are you watching?](http://9gag.com/gag/abAWQ1p)
- - 👉 [`BLYATTTTTTT` famous last words](http://9gag.com/gag/amomxAV)<!-- MEMES:END -->
+ - 💣 [When the food is too spicy](http://9gag.com/gag/an7vxEn)
+ - 😝 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)
+ - 👉 [In the film \u201cTaxi Driver\u201d &lpar;1976&rpar;, 12 year-old Jodie Foster &lpar;right&rpar; had her 20 year-old sister, Connie, to stand-in for her in the more &#39;explicit&#39; scenes.](http://9gag.com/gag/aO8DZnR)<!-- MEMES:END -->
 
 ---
 

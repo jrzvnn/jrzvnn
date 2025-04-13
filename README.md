@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Commerce Secretary Howard Lutnick says consumer electronics exempt from tariffs may be included in semiconductor tariffs likely coming in &quot;a month or two&quot; &lpar;Aime Williams/Financial Times&rpar;](http://www.techmeme.com/250413/p9#a250413p9)
  - [How the Switch 2 compares to the ROG Ally](https://www.theverge.com/tech/647048/switch-2-versus-rog-ally-x-asus-nintendo-specs-price-screen-games)
  - [12 Best Laptops of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-laptops/)
- - [Sources: Apple is working on a lighter and cheaper Vision Pro and a Mac-tethered model with ultra-low latency; iPadOS 19 overhaul will make it more like macOS &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250413/p8#a250413p8)
- - [Premier League Soccer: Stream Newcastle United Newcastle vs. Man United From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-newcastle-united-newcastle-vs-man-united-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Premier League Soccer: Stream Newcastle United Newcastle vs. Man United From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-newcastle-united-newcastle-vs-man-united-from-anywhere/#ftag=CAD590a51e)
+ - [Wool, water, Wi-Fi: Modernizing an ancient business at the final frontiers of e-commerce](https://www.theverge.com/tech/647720/kyrgyzstan-viral-slippers-machines)
+ - [Apple Watch to get small hardware changes, big software updates](https://appleinsider.com/articles/25/04/13/apple-watch-to-get-small-hardware-changes-big-software-updates?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

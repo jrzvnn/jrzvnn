@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When the food is too spicy](http://9gag.com/gag/an7vxEn)
- - 😝 [The ninja missed him](http://9gag.com/gag/aRBzodG)
- - 💣 [&gt;Trump hikes China tariffs to 30% and then 84% &gt;China reciprocates &gt;Trump hikes tariffs to 145% &gt;China reciprocates &gt;Trump announces that he wants Xi to call him &gt;China does nothing &gt;Trump announces he would be ready to `make a deal` &gt;China does nothing &gt;Trump rolls back tariffs](http://9gag.com/gag/aYQPAPv)
- - 😝 [Seriously, what&#39;s up with that](http://9gag.com/gag/azxGGoq)
- - 👉 [U can&#39;t park there mate! .... why?](http://9gag.com/gag/apRPYbM)<!-- MEMES:END -->
+ - 😝 [Excel doesn\u2019t see fractions. It sees deadlines.](http://9gag.com/gag/aNDVO94)
+ - 😝 [The friend who jokes at wrong time](http://9gag.com/gag/aByP4WN)
+ - 💣 [Captain, is he lying?](http://9gag.com/gag/aByPOp2)
+ - 😝 [How to attract any man](http://9gag.com/gag/aGyMGmw)
+ - 👉 [Pain](http://9gag.com/gag/a87DVbY)<!-- MEMES:END -->
 
 ---
 

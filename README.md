@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Seriously, what&#39;s up with that](http://9gag.com/gag/azxGGoq)
- - 😝 [Third guys voice is smooth like butter](http://9gag.com/gag/a2vybne)
- - 💣 [I&#39;d love her](http://9gag.com/gag/aZZQED9)
- - 😝 [Who gives them money??](http://9gag.com/gag/aO8D4Xr)
- - 👉 [Must maintain discipline.](http://9gag.com/gag/aVvmZz8)<!-- MEMES:END -->
+ - 😝 [Good Genetics](http://9gag.com/gag/a1m5D9b)
+ - 💣 [When the food is too spicy](http://9gag.com/gag/an7vxEn)
+ - 😝 [I&#39;d love her](http://9gag.com/gag/aZZQED9)
+ - 👉 [Third guys voice is smooth like butter](http://9gag.com/gag/a2vybne)<!-- MEMES:END -->
 
 ---
 

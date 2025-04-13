@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix&#39;s &#39;iHostage&#39; drama retells Amsterdam Apple Store&#39;s fatal standoff](https://appleinsider.com/articles/25/04/13/netflixs-ihostage-drama-retells-amsterdam-apple-store-standoff?utm_medium=rss)
- - [Smartphone tariffs are coming back in ‘a month or two,’ says Trump admin](https://www.theverge.com/news/647811/smartphone-laptop-chips-tariffs-returning-semiconductor-sector-tariffs)
- - [Source: Trump plans to instruct the Commerce Department to launch a Section 232 national security probe into chip imports, which could lead to new tariffs &lpar;Ari Hawkins/Politico&rpar;](http://www.techmeme.com/250413/p11#a250413p11)
- - [iPhone &amp; Mac tariff reprieve only temporary](https://appleinsider.com/articles/25/04/13/iphone-mac-tariff-reprieve-only-temporary?utm_medium=rss)
- - [Jack Dorsey says &quot;delete all IP law&quot; in an X post and Musk says &quot;I agree&quot;; Dorsey says current models &quot;take way too much&quot; from creators and &quot;only rent-seek&quot; &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250413/p10#a250413p10)<!-- TECH:END -->
+ - [Apple Vision Pro 2: What the rumor mill sees coming, and when it might arrive](https://appleinsider.com/articles/25/04/11/apple-vision-pro-2-what-the-rumor-mill-sees-coming-and-when-it-might-arrie?utm_medium=rss)
+ - [Lawmakers who benefited from crypto super PACs are advancing crypto priorities in Congress, like the Genius Act, which establishes rules for stablecoin issuers &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/250413/p12#a250413p12)
+ - [I&#39;m a Tax Pro. These Tax Breaks Confuse My Clients Every Year](https://www.cnet.com/personal-finance/taxes/im-a-tax-pro-these-tax-breaks-confuse-my-clients-every-year/#ftag=CAD590a51e)
+ - [Best Samsung Phone of 2025](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)
+ - [Netflix&#39;s &#39;iHostage&#39; drama retells Amsterdam Apple Store&#39;s fatal standoff](https://appleinsider.com/articles/25/04/13/netflixs-ihostage-drama-retells-amsterdam-apple-store-standoff?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

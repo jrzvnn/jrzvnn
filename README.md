@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Judge wipes the smirk of his face!](http://9gag.com/gag/a34y89v)
- - 😝 [Inflation made easy for you monkey](http://9gag.com/gag/a5QGqKy)
- - 💣 [What you get in hollywood for a 100 million dollars](http://9gag.com/gag/ae9VmZm)
- - 😝 [Die? I don\u2019t know her... said the flower](http://9gag.com/gag/a2vyOrw)
- - 👉 [Bro got a B- on a high school business project and decided to do this...](http://9gag.com/gag/aYQPM8w)<!-- MEMES:END -->
+ - 😝 [Seriously, what&#39;s up with that](http://9gag.com/gag/azxGGoq)
+ - 😝 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)
+ - 💣 [I got on the train for the first time in 10 years ...](http://9gag.com/gag/a4P5Wm1)
+ - 😝 [What are you watching?](http://9gag.com/gag/abAWQ1p)
+ - 👉 [`BLYATTTTTTT` famous last words](http://9gag.com/gag/amomxAV)<!-- MEMES:END -->
 
 ---
 

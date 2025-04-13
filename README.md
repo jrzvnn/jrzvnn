@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Captain, is he lying?](http://9gag.com/gag/aByPOp2)
- - 😝 [The friend who jokes at wrong time](http://9gag.com/gag/aByP4WN)
- - 💣 [Everyone\u2019s Fighting. I\u2019m Just Watching.](http://9gag.com/gag/aNDVjVr)
+ - 😝 [Short title](http://9gag.com/gag/agm8xR1)
  - 😝 [Pain](http://9gag.com/gag/a87DVbY)
- - 👉 [I love statistics.](http://9gag.com/gag/aQzAObw)<!-- MEMES:END -->
+ - 💣 [The friend who jokes at wrong time](http://9gag.com/gag/aByP4WN)
+ - 😝 [Very Effective](http://9gag.com/gag/aryZ8X0)
+ - 👉 [What is your favourite movie that you will never watch second time?](http://9gag.com/gag/adBnRYZ)<!-- MEMES:END -->
 
 ---
 

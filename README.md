@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Third guys voice is smooth like butter](http://9gag.com/gag/a2vybne)
- - 😝 [`BLYATTTTTTT` famous last words](http://9gag.com/gag/amomxAV)
- - 💣 [Wait what](http://9gag.com/gag/a9y8m76)
+ - 😝 [I love statistics.](http://9gag.com/gag/aQzAObw)
+ - 😝 [He Did Her Dirty](http://9gag.com/gag/a9y85A1)
+ - 💣 [What are you watching?](http://9gag.com/gag/abAWQ1p)
  - 😝 [Fast food employee shoots at family over missing curly fries](http://9gag.com/gag/aYQPPv0)
- - 👉 [What are you watching?](http://9gag.com/gag/abAWQ1p)<!-- MEMES:END -->
+ - 👉 [In the film \u201cTaxi Driver\u201d &lpar;1976&rpar;, 12 year-old Jodie Foster &lpar;right&rpar; had her 20 year-old sister, Connie, to stand-in for her in the more &#39;explicit&#39; scenes.](http://9gag.com/gag/aO8DZnR)<!-- MEMES:END -->
 
 ---
 

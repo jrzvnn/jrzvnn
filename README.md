@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro got a B- on a high school business project and decided to do this...](http://9gag.com/gag/aYQPM8w)
- - 😝 [Captain, is he lying?](http://9gag.com/gag/aByPOp2)
- - 💣 [Make sense](http://9gag.com/gag/aoy48ew)
- - 😝 [Excel doesn\u2019t see fractions. It sees deadlines.](http://9gag.com/gag/aNDVO94)
- - 👉 [Die? I don\u2019t know her... said the flower](http://9gag.com/gag/a2vyOrw)<!-- MEMES:END -->
+ - 😝 [Seriously, what&#39;s up with that](http://9gag.com/gag/azxGGoq)
+ - 😝 [What would have you done ?](http://9gag.com/gag/amomx7X)
+ - 💣 [I love statistics.](http://9gag.com/gag/aQzAObw)
+ - 😝 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)
+ - 👉 [Metric System](http://9gag.com/gag/aKGWYQN)<!-- MEMES:END -->
 
 ---
 

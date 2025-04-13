@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [It\u2019s just super mario! How hard can it b\u2026.. dang!](http://9gag.com/gag/ayNW60y)
+ - 😝 [Wait what](http://9gag.com/gag/a9y8m76)
+ - 💣 [Must maintain discipline.](http://9gag.com/gag/aVvmZz8)
  - 😝 [Seriously, what&#39;s up with that](http://9gag.com/gag/azxGGoq)
- - 😝 [Good Genetics](http://9gag.com/gag/a1m5D9b)
- - 💣 [When the food is too spicy](http://9gag.com/gag/an7vxEn)
- - 😝 [I&#39;d love her](http://9gag.com/gag/aZZQED9)
- - 👉 [Third guys voice is smooth like butter](http://9gag.com/gag/a2vybne)<!-- MEMES:END -->
+ - 👉 [Someone wearing a full-face prosthetic mask to avoid being identified by CCTV and facial recognition.](http://9gag.com/gag/a6Zn5DA)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The ninja missed him](http://9gag.com/gag/aRBzodG)
- - 😝 [Classic](http://9gag.com/gag/aYQP142)
- - 💣 [What would have you done ?](http://9gag.com/gag/amomx7X)
+ - 😝 [Captain, is he lying?](http://9gag.com/gag/aByPOp2)
+ - 😝 [The friend who jokes at wrong time](http://9gag.com/gag/aByP4WN)
+ - 💣 [Everyone\u2019s Fighting. I\u2019m Just Watching.](http://9gag.com/gag/aNDVjVr)
  - 😝 [Pain](http://9gag.com/gag/a87DVbY)
- - 👉 [The friend who jokes at wrong time](http://9gag.com/gag/aByP4WN)<!-- MEMES:END -->
+ - 👉 [I love statistics.](http://9gag.com/gag/aQzAObw)<!-- MEMES:END -->
 
 ---
 

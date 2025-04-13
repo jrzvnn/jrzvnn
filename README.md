@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait what](http://9gag.com/gag/a9y8m76)
- - 😝 [Magic](http://9gag.com/gag/ayNWQQV)
- - 💣 [Short title](http://9gag.com/gag/agm8xR1)
+ - 😝 [When the food is too spicy](http://9gag.com/gag/an7vxEn)
+ - 😝 [The ninja missed him](http://9gag.com/gag/aRBzodG)
+ - 💣 [&gt;Trump hikes China tariffs to 30% and then 84% &gt;China reciprocates &gt;Trump hikes tariffs to 145% &gt;China reciprocates &gt;Trump announces that he wants Xi to call him &gt;China does nothing &gt;Trump announces he would be ready to `make a deal` &gt;China does nothing &gt;Trump rolls back tariffs](http://9gag.com/gag/aYQPAPv)
  - 😝 [Seriously, what&#39;s up with that](http://9gag.com/gag/azxGGoq)
- - 👉 [When the food is too spicy](http://9gag.com/gag/an7vxEn)<!-- MEMES:END -->
+ - 👉 [U can&#39;t park there mate! .... why?](http://9gag.com/gag/apRPYbM)<!-- MEMES:END -->
 
 ---
 

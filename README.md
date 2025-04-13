@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Homeland Security Email Tells a US Citizen to &#39;Immediately&#39; Self-Deport](https://www.wired.com/story/homeland-security-email-tells-a-us-citizen-to-immediately-self-deport/)
+ - [AI could transform medicine by helping doctors and medical students improve their empathy and bedside manner before they interact with real patients &lpar;Kate Pickert/Bloomberg&rpar;](http://www.techmeme.com/250412/p17#a250412p17)
+ - [Best Internet Providers in Alaska](https://www.cnet.com/home/internet/best-internet-providers-in-alaska/#ftag=CAD590a51e)
  - [Buy or Wait Guide: How Tariffs Will Change Tech Prices and What to Do Now, According to Experts](https://www.cnet.com/tech/mobile/buy-or-wait-guide-how-tariffs-will-change-tech-prices-and-what-to-do-now-according-to-experts/#ftag=CAD590a51e)
- - [A look at the US Energy Department&#39;s Argonne National Lab, whose AI-based PRO-AID tool assists in nuclear reactor design and helps operators run nuclear plants &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250412/p16#a250412p16)
- - [Science Saru’s The Ghost in the Shell series gets a new teaser trailer](https://www.theverge.com/tv/647769/ghost-in-the-shell-anime-science-saru-teaser-trailer)
- - [How the Pentagon uses AI tools from Vannevar Labs, which got a DoD deal worth up to $99M, to scan open-source intelligence, write intelligence reports, and more &lpar;James O&#39;Donnell/MIT Technology Review&rpar;](http://www.techmeme.com/250412/p15#a250412p15)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 13, #202](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-13-202/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the US Energy Department&#39;s Argonne National Lab, whose AI-based PRO-AID tool assists in nuclear reactor design and helps operators run nuclear plants &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250412/p16#a250412p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

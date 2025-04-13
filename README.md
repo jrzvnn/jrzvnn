@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Simulated Musk, Zuckerberg voices are speaking from hacked crosswalk buttons](https://www.theverge.com/news/647830/crosswalk-hack-musk-zuckerberg-voices-california)
  - [China has suspended exports of a wide range of rare earth minerals and magnets that are crucial for making semiconductors, robots, drones, cars, and more &lpar;Keith Bradsher/New York Times&rpar;](http://www.techmeme.com/250413/p13#a250413p13)
  - [Amazon slashes M4 iPad Pro to $899, Apple Pencil Pro $99](https://appleinsider.com/articles/25/04/13/amazon-slashes-m4-ipad-pro-to-899-apple-pencil-pro-99?utm_medium=rss)
  - [Best Internet Providers in Las Cruces, New Mexico](https://www.cnet.com/home/internet/best-internet-providers-in-las-cruces-nm/#ftag=CAD590a51e)
- - [Apple Vision Pro 2: What the rumor mill sees coming, and when it might arrive](https://appleinsider.com/articles/25/04/11/apple-vision-pro-2-what-the-rumor-mill-sees-coming-and-when-it-might-arrie?utm_medium=rss)
- - [Lawmakers who benefited from crypto super PACs are advancing crypto priorities in Congress, like the Genius Act, which establishes rules for stablecoin issuers &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/250413/p12#a250413p12)<!-- TECH:END -->
+ - [Apple Vision Pro 2: What the rumor mill sees coming, and when it might arrive](https://appleinsider.com/articles/25/04/11/apple-vision-pro-2-what-the-rumor-mill-sees-coming-and-when-it-might-arrie?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

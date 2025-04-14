@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Very Effective](http://9gag.com/gag/aryZ8X0)
- - 😝 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)
- - 💣 [Pain](http://9gag.com/gag/a87DVbY)
- - 😝 [When the food is too spicy](http://9gag.com/gag/an7vxEn)
- - 👉 [Magic](http://9gag.com/gag/ayNWQQV)<!-- MEMES:END -->
+ - 😝 [Exactly what I thought.](http://9gag.com/gag/aoy4nqn)
+ - 💣 [Lawyer roles](http://9gag.com/gag/an7vDPn)
+ - 😝 [Gollum did it better TBH](http://9gag.com/gag/aVvmZgn)
+ - 👉 [The friend who jokes at wrong time](http://9gag.com/gag/aByP4WN)<!-- MEMES:END -->
 
 ---
 

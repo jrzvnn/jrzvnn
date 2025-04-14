@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rosie looks proud](http://9gag.com/gag/a34ypqv)
- - 😝 [Throwback to when we ruled the flippers on pinball machines! This brings them days back](http://9gag.com/gag/a4P5rqy)
- - 💣 [Trying to get some work done](http://9gag.com/gag/aW4vdLZ)
- - 😝 [GOAT for a reason](http://9gag.com/gag/aGyMoZ6)
- - 👉 [Exactly what I thought.](http://9gag.com/gag/aoy4nqn)<!-- MEMES:END -->
+ - 😝 [Dancing](http://9gag.com/gag/a5QGq3G)
+ - 😝 [Helping Sea Turtles shed some weight](http://9gag.com/gag/avyEDGW)
+ - 💣 [Did the Dr do that?](http://9gag.com/gag/a0e6xKd)
+ - 😝 [Today, I learned about Scaphism.](http://9gag.com/gag/aKGWp2N)
+ - 👉 [Classic](http://9gag.com/gag/aYQP142)<!-- MEMES:END -->
 
 ---
 

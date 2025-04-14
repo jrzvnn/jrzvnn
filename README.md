@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Did the Dr do that?](http://9gag.com/gag/a0e6xKd)
- - 😝 [Low blow by China](http://9gag.com/gag/avyEDpd)
- - 💣 [Bwoah its okay.](http://9gag.com/gag/aVvmVnK)
- - 😝 [Helping Sea Turtles shed some weight](http://9gag.com/gag/avyEDGW)
- - 👉 [Would you help him ?](http://9gag.com/gag/a34ypwr)<!-- MEMES:END -->
+ - 😝 [Rabid fox, trying to bite his way through](http://9gag.com/gag/axybYVD)
+ - 😝 [Bwoah its okay.](http://9gag.com/gag/aVvmVnK)
+ - 💣 [`Money can&#39;t buy happiness.`](http://9gag.com/gag/agm8dZ6)
+ - 😝 [Quick reaction](http://9gag.com/gag/a6ZnGbb)
+ - 👉 [Helping Sea Turtles shed some weight](http://9gag.com/gag/avyEDGW)<!-- MEMES:END -->
 
 ---
 

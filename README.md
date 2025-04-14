@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Dancing](http://9gag.com/gag/a5QGq3G)
- - 😝 [Helping Sea Turtles shed some weight](http://9gag.com/gag/avyEDGW)
- - 💣 [Did the Dr do that?](http://9gag.com/gag/a0e6xKd)
- - 😝 [Today, I learned about Scaphism.](http://9gag.com/gag/aKGWp2N)
- - 👉 [Classic](http://9gag.com/gag/aYQP142)<!-- MEMES:END -->
+ - 😝 [Sorry for the feelings, but my wife died yesterday, and I am broken inside, may God have her in his glory and I will love her forever and ever.](http://9gag.com/gag/ae9VPbB)
+ - 💣 [CROOTT](http://9gag.com/gag/azxGB6x)
+ - 😝 [Would you help him ?](http://9gag.com/gag/a34ypwr)
+ - 👉 [Helping Sea Turtles shed some weight](http://9gag.com/gag/avyEDGW)<!-- MEMES:END -->
 
 ---
 

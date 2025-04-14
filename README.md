@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait what](http://9gag.com/gag/a9y8m76)
+ - 😝 [...](http://9gag.com/gag/aLnGAZA)
  - 😝 [Pain](http://9gag.com/gag/a87DVbY)
- - 💣 [The friend who jokes at wrong time](http://9gag.com/gag/aByP4WN)
- - 😝 [Rabid fox, trying to bite his way through](http://9gag.com/gag/axybYVD)
+ - 💣 [What would have you done ?](http://9gag.com/gag/amomx7X)
+ - 😝 [The friend who jokes at wrong time](http://9gag.com/gag/aByP4WN)
  - 👉 [What is your favourite movie that you will never watch second time?](http://9gag.com/gag/adBnRYZ)<!-- MEMES:END -->
 
 ---

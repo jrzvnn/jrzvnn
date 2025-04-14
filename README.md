@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Did the Dr do that?](http://9gag.com/gag/a0e6xKd)
- - 😝 [The friend who jokes at wrong time](http://9gag.com/gag/aByP4WN)
- - 💣 [I got you...](http://9gag.com/gag/ae9VP6m)
- - 😝 [Today, I learned about Scaphism.](http://9gag.com/gag/aKGWp2N)
- - 👉 [Low blow by China](http://9gag.com/gag/avyEDpd)<!-- MEMES:END -->
+ - 😝 [Rosie looks proud](http://9gag.com/gag/a34ypqv)
+ - 😝 [GOAT for a reason](http://9gag.com/gag/aGyMoZ6)
+ - 💣 [Trying to get some work done](http://9gag.com/gag/aW4vdLZ)
+ - 😝 [Throwback to when we ruled the flippers on pinball machines! This brings them days back](http://9gag.com/gag/a4P5rqy)
+ - 👉 [Exactly what I thought.](http://9gag.com/gag/aoy4nqn)<!-- MEMES:END -->
 
 ---
 

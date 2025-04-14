@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Earn rewards &amp; boost your health with Apple Watch on April 24](https://appleinsider.com/articles/25/04/14/earn-rewards-boost-your-health-with-apple-watch-on-april-24?utm_medium=rss)
+ - [Meta says it plans to train its AI models on public content, like posts and comments, and interactions that users have with its AI in the EU starting this week &lpar;Meta&rpar;](http://www.techmeme.com/250414/p16#a250414p16)
  - [Katy Perry has launched to space with Blue Origin](https://www.theverge.com/news/647935/katy-perry-is-going-to-space-with-blue-origin)
  - [AAPL opens market at highest price since Trump tariff bombshell](https://appleinsider.com/articles/25/04/14/aapl-opens-market-at-highest-price-since-trump-tariff-bombshell?utm_medium=rss)
- - [How to Build a PC &lpar;2025&rpar;: Hardware Suggestions, Instructions, and More](https://www.wired.com/story/how-to-build-a-pc/)
- - [HBO’s The Last of Us had to speed up Abby’s reveal](https://www.theverge.com/tv/647170/the-last-of-us-season-2-hbo-abby)
- - [Stream games to iPhone from Windows with new Razer PC Remote Play app](https://appleinsider.com/articles/25/04/14/stream-games-to-iphone-from-windows-with-new-razer-pc-remote-play-app?utm_medium=rss)<!-- TECH:END -->
+ - [How to Build a PC &lpar;2025&rpar;: Hardware Suggestions, Instructions, and More](https://www.wired.com/story/how-to-build-a-pc/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

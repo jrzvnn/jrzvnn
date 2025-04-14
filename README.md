@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wood planing competition for thinnest plane of wood](http://9gag.com/gag/amomdYo)
- - 😝 [Bro is using technological warfare](http://9gag.com/gag/aqyQW0Z)
- - 💣 [Should have jus hired John Wick.](http://9gag.com/gag/an7vdqz)
  - 😝 [Today, I learned about Scaphism.](http://9gag.com/gag/aKGWp2N)
- - 👉 [I didn\u2019t think offroading looked all that fun until I saw this vidoe.](http://9gag.com/gag/aByPoZx)<!-- MEMES:END -->
+ - 😝 [Pain](http://9gag.com/gag/a87DVbY)
+ - 💣 [I didn\u2019t think offroading looked all that fun until I saw this vidoe.](http://9gag.com/gag/aByPoZx)
+ - 😝 [`Money can&#39;t buy happiness.`](http://9gag.com/gag/agm8dZ6)
+ - 👉 [Quick reaction](http://9gag.com/gag/a6ZnGbb)<!-- MEMES:END -->
 
 ---
 

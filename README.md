@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Did the Dr do that?](http://9gag.com/gag/a0e6xKd)
- - 😝 [Bwoah its okay.](http://9gag.com/gag/aVvmVnK)
- - 💣 [Low blow by China](http://9gag.com/gag/avyEDpd)
- - 😝 [Would you help him ?](http://9gag.com/gag/a34ypwr)
- - 👉 [`Money can&#39;t buy happiness.`](http://9gag.com/gag/agm8dZ6)<!-- MEMES:END -->
+ - 😝 [Low blow by China](http://9gag.com/gag/avyEDpd)
+ - 💣 [Bwoah its okay.](http://9gag.com/gag/aVvmVnK)
+ - 😝 [Helping Sea Turtles shed some weight](http://9gag.com/gag/avyEDGW)
+ - 👉 [Would you help him ?](http://9gag.com/gag/a34ypwr)<!-- MEMES:END -->
 
 ---
 

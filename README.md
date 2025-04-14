@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pain](http://9gag.com/gag/a87DVbY)
- - 😝 [Universal vise](http://9gag.com/gag/agm8j36)
- - 💣 [I love statistics.](http://9gag.com/gag/aQzAObw)
- - 😝 [Happy Birthday Ron Perlman 13 April 1950 &lpar;age 75 years&rpar;](http://9gag.com/gag/avyEmGO)
- - 👉 [Well appreciated](http://9gag.com/gag/agm8j0r)<!-- MEMES:END -->
+ - 😝 [How would this work for real](http://9gag.com/gag/aKGWYwg)
+ - 😝 [Wireless electricity](http://9gag.com/gag/aKGWeXN)
+ - 💣 [Exactly what I thought.](http://9gag.com/gag/aoy4nqn)
+ - 😝 [Lawyer roles](http://9gag.com/gag/an7vDPn)
+ - 👉 [U can&#39;t park there mate! .... why?](http://9gag.com/gag/apRPYbM)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Bad grenade toss during police training](http://9gag.com/gag/a9y8DV6)
  - 😝 [I got you...](http://9gag.com/gag/ae9VP6m)
- - 😝 [Rabid fox, trying to bite his way through](http://9gag.com/gag/axybYVD)
- - 💣 [Dancing](http://9gag.com/gag/a5QGq3G)
- - 😝 [Quick reaction](http://9gag.com/gag/a6ZnGbb)
- - 👉 [Today, I learned about Scaphism.](http://9gag.com/gag/aKGWp2N)<!-- MEMES:END -->
+ - 💣 [Bwoah its okay.](http://9gag.com/gag/aVvmVnK)
+ - 😝 [Why are they doing this?](http://9gag.com/gag/amomRA4)
+ - 👉 [Helping Sea Turtles shed some weight](http://9gag.com/gag/avyEDGW)<!-- MEMES:END -->
 
 ---
 

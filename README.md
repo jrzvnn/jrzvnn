@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Did the Dr do that?](http://9gag.com/gag/a0e6xKd)
  - 😝 [Bwoah its okay.](http://9gag.com/gag/aVvmVnK)
  - 💣 [Low blow by China](http://9gag.com/gag/avyEDpd)
- - 😝 [Today, I learned about Scaphism.](http://9gag.com/gag/aKGWp2N)
- - 👉 [Part of this must have felt really good four him.](http://9gag.com/gag/aQzANXK)<!-- MEMES:END -->
+ - 😝 [Would you help him ?](http://9gag.com/gag/a34ypwr)
+ - 👉 [`Money can&#39;t buy happiness.`](http://9gag.com/gag/agm8dZ6)<!-- MEMES:END -->
 
 ---
 

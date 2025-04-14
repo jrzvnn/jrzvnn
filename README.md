@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Rosie looks proud](http://9gag.com/gag/a34ypqv)
- - 😝 [GOAT for a reason](http://9gag.com/gag/aGyMoZ6)
- - 💣 [Trying to get some work done](http://9gag.com/gag/aW4vdLZ)
  - 😝 [Throwback to when we ruled the flippers on pinball machines! This brings them days back](http://9gag.com/gag/a4P5rqy)
+ - 💣 [Trying to get some work done](http://9gag.com/gag/aW4vdLZ)
+ - 😝 [GOAT for a reason](http://9gag.com/gag/aGyMoZ6)
  - 👉 [Exactly what I thought.](http://9gag.com/gag/aoy4nqn)<!-- MEMES:END -->
 
 ---

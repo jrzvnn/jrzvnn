@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon slashes M4 iPad Pro to $899, save up to $200 on range](https://appleinsider.com/articles/25/04/13/amazon-slashes-m4-ipad-pro-to-899-apple-pencil-pro-99?utm_medium=rss)
  - [Save $100 on this Apple Watch Series 10, plus grab deals from $169](https://appleinsider.com/articles/25/04/14/save-100-on-this-apple-watch-series-10-plus-grab-deals-from-169?utm_medium=rss)
  - [Sources: banks are providing Silver Lake $2B in debt for its 51% acquisition of Altera; Intel will receive ~$3.4B in cash from Silver Lake as part of the deal &lpar;Bloomberg&rpar;](http://www.techmeme.com/250414/p32#a250414p32)
  - [A Cybersecurity Professor Disappeared Amid an FBI Search. His Family Is ‘Determined to Fight’](https://www.wired.com/story/professor-xiaofeng-wang-update/)
- - [The Trump administration begins a probe into imports of semiconductors on national security grounds, as part of a bid to impose tariffs on the sector &lpar;Ismail Shakil/Reuters&rpar;](http://www.techmeme.com/250414/p31#a250414p31)
- - [Samsung Pauses One UI 7 Rollout After Bug Locks Users Out of Phones](https://www.cnet.com/tech/services-and-software/samsung-pauses-one-ui-7-rollout-after-bug-locks-users-out-of-phones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Trump administration begins a probe into imports of semiconductors on national security grounds, as part of a bid to impose tariffs on the sector &lpar;Ismail Shakil/Reuters&rpar;](http://www.techmeme.com/250414/p31#a250414p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Short title](http://9gag.com/gag/agm8xR1)
- - 😝 [Nope rope](http://9gag.com/gag/aO8DPRR)
- - 💣 [I love statistics.](http://9gag.com/gag/aQzAObw)
- - 😝 [The friend who jokes at wrong time](http://9gag.com/gag/aByP4WN)
- - 👉 [What is your favourite movie that you will never watch second time?](http://9gag.com/gag/adBnRYZ)<!-- MEMES:END -->
+ - 😝 [U can&#39;t park there mate! .... why?](http://9gag.com/gag/apRPYbM)
+ - 😝 [Rabid fox, trying to bite his way through](http://9gag.com/gag/axybYVD)
+ - 💣 [...](http://9gag.com/gag/aLnGAZA)
+ - 😝 [Did the Dr do that?](http://9gag.com/gag/a0e6xKd)
+ - 👉 [Metric System](http://9gag.com/gag/aKGWYQN)<!-- MEMES:END -->
 
 ---
 

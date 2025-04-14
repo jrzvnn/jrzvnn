@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Palate Cleanse: This IS Their Job!](http://9gag.com/gag/ajPBMwq)
- - 😝 [Physics says they only need 35 km/h &lpar;22 mph&rpar; to stay on the track &lpar;IG:astrokirsten&rpar;](http://9gag.com/gag/aMVnNqA)
- - 💣 [Rosie looks proud](http://9gag.com/gag/a34ypqv)
- - 😝 [Part of this must have felt really good four him.](http://9gag.com/gag/aQzANXK)
- - 👉 [And this is how real depression looks like](http://9gag.com/gag/apRPjZD)<!-- MEMES:END -->
+ - 😝 [I got you...](http://9gag.com/gag/ae9VP6m)
+ - 😝 [Rabid fox, trying to bite his way through](http://9gag.com/gag/axybYVD)
+ - 💣 [Dancing](http://9gag.com/gag/a5QGq3G)
+ - 😝 [Quick reaction](http://9gag.com/gag/a6ZnGbb)
+ - 👉 [Today, I learned about Scaphism.](http://9gag.com/gag/aKGWp2N)<!-- MEMES:END -->
 
 ---
 

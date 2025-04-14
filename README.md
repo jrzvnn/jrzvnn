@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [U can&#39;t park there mate! .... why?](http://9gag.com/gag/apRPYbM)
+ - 😝 [Hate crime](http://9gag.com/gag/aXP4Rmv)
+ - 💣 [No golf for you, motherf\u00f9cker](http://9gag.com/gag/ae9VmnO)
  - 😝 [How would this work for real](http://9gag.com/gag/aKGWYwg)
- - 😝 [Wireless electricity](http://9gag.com/gag/aKGWeXN)
- - 💣 [Exactly what I thought.](http://9gag.com/gag/aoy4nqn)
- - 😝 [Lawyer roles](http://9gag.com/gag/an7vDPn)
- - 👉 [U can&#39;t park there mate! .... why?](http://9gag.com/gag/apRPYbM)<!-- MEMES:END -->
+ - 👉 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)<!-- MEMES:END -->
 
 ---
 

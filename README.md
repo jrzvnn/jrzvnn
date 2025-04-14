@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [On-device Apple Intelligence training seems to be based on controversial technology](https://appleinsider.com/articles/25/04/14/on-device-apple-intelligence-training-seems-to-be-based-on-controversial-technology?utm_medium=rss)
  - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
  - [Data center operator Applied Digital reports Q3 revenue up 22% YoY to $53M, vs. $63M est., as clients delay renewing their leases; APLD drops 13%+ after hours &lpar;Priyanka.G/Reuters&rpar;](http://www.techmeme.com/250414/p34#a250414p34)
  - [OpenAI plans to wind down the availability of GPT-4.5 via its API on July 14, 2025, after launching the model as a research preview on February 27, 2025 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250414/p33#a250414p33)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Samsung Pauses One UI 7 Rollout After Bug Locks Users Out of Phones](https://www.cnet.com/tech/services-and-software/samsung-pauses-one-ui-7-rollout-after-bug-locks-users-out-of-phones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

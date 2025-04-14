@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI debuts its GPT-4.1 flagship AI model](https://www.theverge.com/news/647896/openai-chatgpt-gpt-4-1-mini-nano-launch-availability)
- - [OpenAI’s New GPT 4.1 Models Excel at Coding](https://www.wired.com/story/openai-announces-4-1-ai-model-coding/)
- - [Sony’s excellent WF-1000XM5 earbuds have hit their lowest price ever](https://www.theverge.com/tech/648207/sony-wf-1000xm5-noise-canceling-earbuds-amazon-target-deal-sale)
- - [Trump confirms he reduced tariffs to help Tim Cook](https://appleinsider.com/articles/25/04/14/trump-confirms-he-reduced-tariffs-to-help-tim-cook?utm_medium=rss)
- - [Apple seeds second iOS 18.5, macOS 15.5 developer beta round](https://appleinsider.com/articles/25/04/14/apple-seeds-second-ios-185-macos-155-developer-beta-round?utm_medium=rss)<!-- TECH:END -->
+ - [Premier League Soccer: Stream Bournemouth vs. Fulham From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-bournemouth-vs-fulham-from-anywhere/#ftag=CAD590a51e)
+ - [Best Internet Providers in Bloomington, Indiana](https://www.cnet.com/home/internet/best-internet-providers-in-bloomington-in/#ftag=CAD590a51e)
+ - [Switch 2 Hands-On: Is It Worth the Upgrade? My First Impressions](https://www.cnet.com/tech/gaming/switch-2-hands-on-is-it-worth-the-upgrade-my-first-impressions/#ftag=CAD590a51e)
+ - [7 Beginner Workouts to Kickstart Your Fitness Journey in 2025](https://www.cnet.com/health/fitness/best-beginner-workouts/#ftag=CAD590a51e)
+ - [OpenAI debuts its GPT-4.1 flagship AI model](https://www.theverge.com/news/647896/openai-chatgpt-gpt-4-1-mini-nano-launch-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

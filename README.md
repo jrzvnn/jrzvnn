@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto exchange Kraken begins rolling out commission-free trading for over 11,000 US-listed stocks and ETFs, initially in nine US states and DC &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/250414/p24#a250414p24)
- - [Meta AI will soon train on EU users&amp;#8217; data](https://www.theverge.com/news/648128/meta-training-ai-eu-user-data)
- - [You can hot swap the battery on Samsung’s new rugged tablet](https://www.theverge.com/news/648022/samsung-rugged-military-grade-galaxy-xcover7-pro-tab-active)
- - [HBO’s Harry Potter TV series has cast its regulars &lpar;not those ones&rpar;](https://www.theverge.com/news/648099/harry-potter-tv-series-hbo-warner-bros-casting-announcement)
- - [Sources: the European Commission is issuing burner phones and laptops to some US-bound staff to mitigate espionage risks, a move typically reserved for China &lpar;Andy Bounds/Financial Times&rpar;](http://www.techmeme.com/250414/p23#a250414p23)<!-- TECH:END -->
+ - [Apple seeds second iOS 18.5, macOS 15.5 developer beta round](https://appleinsider.com/articles/25/04/14/apple-seeds-second-ios-185-macos-155-developer-beta-round?utm_medium=rss)
+ - [OpenAI debuts new flagship AI model](https://www.theverge.com/news/647896/openai-chatgpt-gpt-4-1-mini-nano-launch-availability)
+ - [Sources: OpenAI&#39;s upcoming o3 and o4-mini reasoning models may excel at suggesting new types of science experiments, from nuclear fusion to pathogen detection &lpar;The Information&rpar;](http://www.techmeme.com/250414/p25#a250414p25)
+ - [Star Wars is getting a turn-based strategy game called Zero Company](https://www.theverge.com/news/648151/star-wars-zero-company-strategy-game-celebration)
+ - [Crypto exchange Kraken begins rolling out commission-free trading for over 11,000 US-listed stocks and ETFs, initially in nine US states and DC &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/250414/p24#a250414p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

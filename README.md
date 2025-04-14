@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia starts producing its Blackwell AI chip at TSMC&amp;#8217;s Arizona plant](https://www.theverge.com/news/648086/nvidia-blackwell-ai-tsmc-arizona-plant)
+ - [Apple&#39;s first Bristol store is about to close permanently](https://appleinsider.com/articles/25/04/14/apples-first-bristol-store-is-about-to-close-permanently?utm_medium=rss)
  - [The Subjective Charms of Objective-C](https://www.wired.com/story/objective-c-programming-language-verbose/)
  - [Health and Human Services Systems Are in Danger of Collapsing, Workers Say](https://www.wired.com/story/department-health-human-services-possible-collapse/)
- - [Eddington doomscrolls back to the pandemic’s darkest days in new trailer](https://www.theverge.com/trailers/648004/eddington-trailer-a24-ari-aster)
- - [34 Best Family Board Games &lpar;2025&rpar;: Catan, Onitama, Codenames](https://www.wired.com/gallery/best-family-board-games/)
- - [Source: FTC Chair Andrew Ferguson, Assistant AG Gail Slater, and activist Mike Davis met Trump on April 8 to combat Meta&#39;s lobbying over the FTC antitrust case &lpar;Ben Smith/Semafor&rpar;](http://www.techmeme.com/250414/p22#a250414p22)<!-- TECH:END -->
+ - [Eddington doomscrolls back to the pandemic’s darkest days in new trailer](https://www.theverge.com/trailers/648004/eddington-trailer-a24-ari-aster)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

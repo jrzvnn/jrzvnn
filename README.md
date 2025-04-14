@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Star Wars is getting a turn-based strategy game called Zero Company](https://www.theverge.com/news/648151/star-wars-zero-company-strategy-game-celebration)
  - [FTC v. Meta: the US argued Meta has a monopoly in the &quot;personal social networking&quot; market, which it claims includes only Instagram, WhatsApp, Snapchat, and MeWe &lpar;Brendan Bordelon/Politico&rpar;](http://www.techmeme.com/250414/p29#a250414p29)
  - [Online trading platform Webull closed up 374.72% on its second day of trading following its SPAC merger, giving it a market cap of almost $30B &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250414/p28#a250414p28)
  - [On-device Apple Intelligence training seems to be based on controversial technology](https://appleinsider.com/articles/25/04/14/on-device-apple-intelligence-training-seems-to-be-based-on-controversial-technology?utm_medium=rss)
- - [Apple&amp;#8217;s complicated plan to improve its AI while protecting privacy](https://www.theverge.com/news/648496/apple-improve-ai-models-differential-privacy)
- - [Microsoft’s Recall AI Tool Is Making an Unwelcome Return](https://www.wired.com/story/microsoft-recall-returns-privacy/)<!-- TECH:END -->
+ - [Apple&amp;#8217;s complicated plan to improve its AI while protecting privacy](https://www.theverge.com/news/648496/apple-improve-ai-models-differential-privacy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

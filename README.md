@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [President Trump told reporters he would announce the tariff rate on imported semiconductors over the next week, giving some flexibility to certain companies &lpar;Reuters&rpar;](http://www.techmeme.com/250413/p17#a250413p17)
+ - [What ‘The Last of Us’ Season Premiere’s Final Moments Really Mean](https://www.wired.com/story/last-of-us-season-2-premiere/)
  - [FTC v. Meta Trial: The Future of Instagram and WhatsApp Is at Stake](https://www.wired.com/story/meta-ftc-trial-begins-instagram-whatsapp/)
  - [People are turning on Elon Musk](https://www.theverge.com/news/647850/elon-musk-americans-unfavorable-views-polls)
- - [A French law requiring adult sites to run age checks and block users under 18 became applicable to sites based in France and outside of the EU on April 11 &lpar;Politico&rpar;](http://www.techmeme.com/250413/p16#a250413p16)
- - [According to a recently published support page, OpenAI may soon require organizations to complete an ID verification process to access new advanced AI models &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250413/p15#a250413p15)
- - [A look at slopsquatting, a supply chain attack where threat actors create malicious packages on indexes using AI-hallucinated names resembling popular libraries &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250413/p14#a250413p14)<!-- TECH:END -->
+ - [Best Internet Providers in Mankato, Minnesota](https://www.cnet.com/home/internet/best-internet-providers-in-mankato-mn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

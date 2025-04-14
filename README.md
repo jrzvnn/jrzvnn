@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Very Effective](http://9gag.com/gag/aryZ8X0)
- - 😝 [Do u have light? One second..](http://9gag.com/gag/aoy4LvX)
- - 💣 [Magic](http://9gag.com/gag/ayNWQQV)
- - 😝 [Useless invention #69](http://9gag.com/gag/a5QGjxG)
- - 👉 [The Art Of The Deal](http://9gag.com/gag/ae9V7jq)<!-- MEMES:END -->
+ - 😝 [Wireless electricity](http://9gag.com/gag/aKGWeXN)
+ - 😝 [Denmark must always prove itself better than the rest of us.](http://9gag.com/gag/an7vxxn)
+ - 💣 [Lawyer roles](http://9gag.com/gag/an7vDPn)
+ - 😝 [Pain](http://9gag.com/gag/a87DVbY)
+ - 👉 [Trade?](http://9gag.com/gag/aYQPMAO)<!-- MEMES:END -->
 
 ---
 

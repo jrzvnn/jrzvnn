@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Samsung pauses its global One UI 7 rollout, citing a &quot;serious bug&quot;, after starting on April 7, seven months after Android 15&#39;s launch; Samsung hasn&#39;t commented &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250414/p8#a250414p8)
  - [Sources: Intel is nearing a deal to sell its stake in Altera to Silver Lake and could announce it as soon as this week; Intel paid $17B for Altera in 2015 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250414/p7#a250414p7)
- - [Legal experts: Meta&#39;s FTC antitrust trial, where Mark Zuckerberg could take the stand as early as today, is set to be more grueling than Congressional hearings &lpar;New York Times&rpar;](http://www.techmeme.com/250414/p6#a250414p6)
+ - [Legal expert: Meta&#39;s FTC antitrust trial, where Mark Zuckerberg could take the stand as early as today, is set to be more grueling than Congressional hearings &lpar;New York Times&rpar;](http://www.techmeme.com/250414/p6#a250414p6)
  - [Samsung pauses One UI 7 rollout worldwide](https://www.theverge.com/news/647888/samsung-one-ui-7-update-android-15-pause-s24-z-fold-6-flip-6)
- - [The Most Dangerous Hackers You’ve Never Heard Of](https://www.wired.com/story/most-dangerous-hackers-youve-never-heard-of/)<!-- TECH:END -->
+ - [WrestleMania 41: Match Card and How to Watch &lpar;It&#39;s Not Streaming Where You&#39;d Expect&rpar;](https://www.cnet.com/tech/services-and-software/wrestlemania-41-how-to-watch-and-match-card-its-not-streaming-where-youd-expect/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

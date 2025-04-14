@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Snow White](http://9gag.com/gag/a1m5OwG)
- - 😝 [Very Effective](http://9gag.com/gag/aryZ8X0)
- - 💣 [The friend who jokes at wrong time](http://9gag.com/gag/aByP4WN)
- - 😝 [U can&#39;t park there mate! .... why?](http://9gag.com/gag/apRPYbM)
- - 👉 [Short title](http://9gag.com/gag/agm8xR1)<!-- MEMES:END -->
+ - 😝 [A short and pitty pp](http://9gag.com/gag/aryZ27X)
+ - 😝 [Pain](http://9gag.com/gag/a87DVbY)
+ - 💣 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)
+ - 😝 [Exactly what I thought.](http://9gag.com/gag/aoy4nqn)
+ - 👉 [Snow White](http://9gag.com/gag/a1m5OwG)<!-- MEMES:END -->
 
 ---
 

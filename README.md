@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is the concern about bringing jobs back?](http://9gag.com/gag/avyEm0n)
- - 😝 [Exactly what I thought.](http://9gag.com/gag/aoy4nqn)
- - 💣 [The Art Of The Deal](http://9gag.com/gag/ae9V7jq)
- - 😝 [U can&#39;t park there mate! .... why?](http://9gag.com/gag/apRPYbM)
- - 👉 [Metric System](http://9gag.com/gag/aKGWYQN)<!-- MEMES:END -->
+ - 😝 [Pain](http://9gag.com/gag/a87DVbY)
+ - 😝 [Well appreciated](http://9gag.com/gag/agm8j0r)
+ - 💣 [Happy Birthday Ron Perlman 13 April 1950 &lpar;age 75 years&rpar;](http://9gag.com/gag/avyEmGO)
+ - 😝 [Universal vise](http://9gag.com/gag/agm8j36)
+ - 👉 [I love statistics.](http://9gag.com/gag/aQzAObw)<!-- MEMES:END -->
 
 ---
 

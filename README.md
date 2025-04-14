@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta antitrust trial: updates from the monopoly battle with the FTC](https://www.theverge.com/news/646809/ftc-v-meta-antitrust-monopoly-trial-instagram-whatsapp)
- - [Earn rewards &amp; boost your health with Apple Watch on April 24](https://appleinsider.com/articles/25/04/14/earn-rewards-boost-your-health-with-apple-watch-on-april-24?utm_medium=rss)
- - [Meta says it plans to train its AI models on public content, like posts and comments, and interactions that users have with its AI in the EU starting this week &lpar;Meta&rpar;](http://www.techmeme.com/250414/p16#a250414p16)
- - [Katy Perry launched into space with Blue Origin](https://www.theverge.com/news/647935/katy-perry-is-going-to-space-with-blue-origin)
- - [AAPL opens market at highest price since Trump tariff bombshell](https://appleinsider.com/articles/25/04/14/aapl-opens-market-at-highest-price-since-trump-tariff-bombshell?utm_medium=rss)<!-- TECH:END -->
+ - [Autonomous trucking startup Kodiak Robotics says it plans to go public in the US via blank-check company Ares Acquisition Corp II, valuing Kodiak at $2.5B &lpar;Deborah Sophia/Reuters&rpar;](http://www.techmeme.com/250414/p18#a250414p18)
+ - [Lots of Matter updates, Samsung Ballie readies launch, &amp; more on HomeKit Insider](https://appleinsider.com/articles/25/04/14/lots-of-matter-updates-samsung-ballie-readies-launch-more-on-homekit-insider?utm_medium=rss)
+ - [Are prediction markets gambling? Robinhood CEO Vlad Tenev is betting not](https://www.theverge.com/decoder-podcast-with-nilay-patel/645822/robinhood-ceo-vlad-tenev)
+ - [Helinox Chair One &lpar;re&rpar; Review: The Best Camping Chair](https://www.wired.com/review/helinox-chair-one-re/)
+ - [Hugging Face acquires French startup Pollen Robotics, which makes the bug-eyed, two-armed, humanoid robot called Reachy 2, and plans to sell the robot &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250414/p17#a250414p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

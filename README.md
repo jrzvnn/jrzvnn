@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
  - [Data center operator Applied Digital reports Q3 revenue up 22% YoY to $53M, vs. $63M est., as clients delay renewing their leases; APLD drops 13%+ after hours &lpar;Priyanka.G/Reuters&rpar;](http://www.techmeme.com/250414/p34#a250414p34)
  - [OpenAI plans to wind down the availability of GPT-4.5 via its API on July 14, 2025, after launching the model as a research preview on February 27, 2025 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250414/p33#a250414p33)
- - [Samsung Pauses One UI 7 Rollout After Bug Locks Users Out of Phones](https://www.cnet.com/tech/services-and-software/samsung-pauses-one-ui-7-rollout-after-bug-locks-users-out-of-phones/#ftag=CAD590a51e)
- - [Amazon slashes M4 iPad Pro to $899, save up to $200 on range](https://appleinsider.com/articles/25/04/13/amazon-slashes-m4-ipad-pro-to-899-apple-pencil-pro-99?utm_medium=rss)
- - [Save $100 on this Apple Watch Series 10, plus grab deals from $169](https://appleinsider.com/articles/25/04/14/save-100-on-this-apple-watch-series-10-plus-grab-deals-from-169?utm_medium=rss)<!-- TECH:END -->
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [Samsung Pauses One UI 7 Rollout After Bug Locks Users Out of Phones](https://www.cnet.com/tech/services-and-software/samsung-pauses-one-ui-7-rollout-after-bug-locks-users-out-of-phones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

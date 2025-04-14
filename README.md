@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Classic](http://9gag.com/gag/aYQP142)
- - 😝 [Sorry for the feelings, but my wife died yesterday, and I am broken inside, may God have her in his glory and I will love her forever and ever.](http://9gag.com/gag/ae9VPbB)
- - 💣 [Low blow by China](http://9gag.com/gag/avyEDpd)
+ - 😝 [Low blow by China](http://9gag.com/gag/avyEDpd)
+ - 😝 [Rabid fox, trying to bite his way through](http://9gag.com/gag/axybYVD)
+ - 💣 [I got you...](http://9gag.com/gag/ae9VP6m)
  - 😝 [Would you help him ?](http://9gag.com/gag/a34ypwr)
- - 👉 [CROOTT](http://9gag.com/gag/azxGB6x)<!-- MEMES:END -->
+ - 👉 [Helping Sea Turtles shed some weight](http://9gag.com/gag/avyEDGW)<!-- MEMES:END -->
 
 ---
 

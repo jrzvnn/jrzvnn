@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple plans to begin on-device, privacy-centric analysis of user data, comparing it to synthetic data, to improve AI, in beta versions of iOS 18.5, macOS 15.5 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250414/p27#a250414p27)
  - [Apple rebrands its advertising business as &#39;Apple Ads&#39;](https://appleinsider.com/articles/25/04/14/apple-rebrands-its-advertising-business-as-apple-ads?utm_medium=rss)
  - [Premier League Soccer: Stream Bournemouth vs. Fulham From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-bournemouth-vs-fulham-from-anywhere/#ftag=CAD590a51e)
  - [Best Internet Providers in Bloomington, Indiana](https://www.cnet.com/home/internet/best-internet-providers-in-bloomington-in/#ftag=CAD590a51e)
- - [Switch 2 Hands-On: Is It Worth the Upgrade? My First Impressions](https://www.cnet.com/tech/gaming/switch-2-hands-on-is-it-worth-the-upgrade-my-first-impressions/#ftag=CAD590a51e)
- - [7 Beginner Workouts to Kickstart Your Fitness Journey in 2025](https://www.cnet.com/health/fitness/best-beginner-workouts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Switch 2 Hands-On: Is It Worth the Upgrade? My First Impressions](https://www.cnet.com/tech/gaming/switch-2-hands-on-is-it-worth-the-upgrade-my-first-impressions/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

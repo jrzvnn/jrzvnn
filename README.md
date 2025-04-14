@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can hot swap the battery on Samsung’s new rugged tablet](https://www.theverge.com/news/648022/samsung-rugged-military-grade-galaxy-xcover7-pro-tab-active)
  - [HBO’s Harry Potter TV series has cast its regulars &lpar;not those ones&rpar;](https://www.theverge.com/news/648099/harry-potter-tv-series-hbo-warner-bros-casting-announcement)
  - [Sources: the European Commission is issuing burner phones and laptops to some US-bound staff to mitigate espionage risks, a move typically reserved for China &lpar;Andy Bounds/Financial Times&rpar;](http://www.techmeme.com/250414/p23#a250414p23)
  - [Nvidia starts producing its Blackwell AI chip at TSMC&amp;#8217;s Arizona plant](https://www.theverge.com/news/648086/nvidia-blackwell-ai-tsmc-arizona-plant)
- - [Apple&#39;s first Bristol store is about to close permanently](https://appleinsider.com/articles/25/04/14/apples-first-bristol-store-is-about-to-close-permanently?utm_medium=rss)
- - [The Subjective Charms of Objective-C](https://www.wired.com/story/objective-c-programming-language-verbose/)<!-- TECH:END -->
+ - [The 25 Best iPhone 16 and iPhone 16 Pro Cases for 2025](https://www.cnet.com/tech/mobile/best-iphone-16-and-iphone-16-pro-cases/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump says he wants to deport some US citizens, too](https://www.theverge.com/policy/648338/trump-deport-us-citizens-el-salvador)
  - [The best smart rings for tracking sleep and health](https://www.theverge.com/tech/647901/best-smart-rings)
  - [Apple plans to begin on-device, privacy-centric analysis of user data, comparing it to synthetic data, to improve AI, in beta versions of iOS 18.5, macOS 15.5 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250414/p27#a250414p27)
  - [If You Deleted This Weird New Folder in Windows, You Need to Put It Back. Here&#39;s How](https://www.cnet.com/tech/services-and-software/if-you-deleted-this-weird-new-folder-in-windows-you-need-to-put-it-back-heres-how/#ftag=CAD590a51e)
- - [Best Cheap iPhone 16 Case? These $10 Transparent MagSafe Cases Stand Out](https://www.cnet.com/deals/best-cheap-iphone-16-case-these-10-transparent-magsafe-cases-stand-out/#ftag=CAD590a51e)
- - [Apple rebrands its advertising business as &#39;Apple Ads&#39;](https://appleinsider.com/articles/25/04/14/apple-rebrands-its-advertising-business-as-apple-ads?utm_medium=rss)<!-- TECH:END -->
+ - [Best Cheap iPhone 16 Case? These $10 Transparent MagSafe Cases Stand Out](https://www.cnet.com/deals/best-cheap-iphone-16-case-these-10-transparent-magsafe-cases-stand-out/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

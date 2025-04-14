@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple asked suppliers in India, Vietnam, and Thailand to ramp up production earlier in 2025; Indian factory utilization rates are already at the limit &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250414/p5#a250414p5)
- - [Topgolf and Puttshack founders&#39; Poolhouse raised a $34M seed to build a &quot;tech-enabled&quot; version of pool, including via video projections and tracking players &lpar;Josh Noble/Financial Times&rpar;](http://www.techmeme.com/250414/p4#a250414p4)
- - [A CD Can Protect Your Money From Economic Turmoil. Today&#39;s CD Rates, April 14, 2025](https://www.cnet.com/personal-finance/banking/a-cd-can-protect-your-money-from-economic-turmoil-todays-cd-rates-april-14-2025/#ftag=CAD590a51e)
- - [Best Internet Providers in Fort Collins, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-fort-collins-co/#ftag=CAD590a51e)
- - [Sony hikes PlayStation 5 prices in Europe, the UK, Australia, and New Zealand, citing a &quot;challenging economic environment&quot;; the PS5 Pro remains the same price &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250414/p3#a250414p3)<!-- TECH:END -->
+ - [Legal experts: Meta&#39;s FTC antitrust trial, where Mark Zuckerberg could take the stand as early as today, is set to be more grueling than Congressional hearings &lpar;New York Times&rpar;](http://www.techmeme.com/250414/p6#a250414p6)
+ - [Samsung pauses One UI 7 rollout worldwide](https://www.theverge.com/news/647888/samsung-one-ui-7-update-android-15-pause-s24-z-fold-6-flip-6)
+ - [The Most Dangerous Hackers You’ve Never Heard Of](https://www.wired.com/story/most-dangerous-hackers-youve-never-heard-of/)
+ - [Why It’s Impossible for Most Small Businesses to Manufacture in the US](https://www.wired.com/story/tariffs-small-businesses-why-make-things-in-china/)
+ - [Gamaredon: The Turncoat Spies Relentlessly Hacking Ukraine](https://www.wired.com/story/gamaredon-turncoat-spies-hacking-ukraine/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

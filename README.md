@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple leads global smartphone market as iPhone 16e boosts sales](https://appleinsider.com/articles/25/04/14/apple-leads-global-smartphone-market-as-iphone-16e-boosts-sales?utm_medium=rss)
- - [8 Best Space Heaters &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-space-heaters/)
- - [New iPhone Fold leak details screen resolutions &amp; under-display camera](https://appleinsider.com/articles/25/04/14/new-iphone-fold-leak-details-screen-resolutions-under-display-camera?utm_medium=rss)
- - [African Private Capital Association: VC inflows to Africa fell 22% YoY to $3.6B in 2024, after a 31% YoY drop in 2023; fintechs had 116 deals raising $1.4B &lpar;Ruth Olurounbi/Bloomberg&rpar;](http://www.techmeme.com/250414/p11#a250414p11)
- - [Global smartphone sales grew 3% YoY in Q1 2025; Apple took the top spot, its first ever for Q1, with a 19% share, and Vivo was the fastest growing brand &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250414/p10#a250414p10)<!-- TECH:END -->
+ - [An Open Source Pioneer Wants to Unleash Open Source AI Robots](https://www.wired.com/story/hugging-face-acquires-open-source-robot-startup/)
+ - [Lime will recycle bike and scooter batteries with Redwood Materials](https://www.theverge.com/news/646207/lime-redwood-material-battery-recycle-ebike-scooter)
+ - [Chipolo’s colorful new trackers now work with Apple’s and Google’s networks](https://www.theverge.com/news/647246/chipolo-pop-bluetooth-tracker-apple-find-my-device-google)
+ - [Apple’s picked a very fitnessy way to mark a decade of smartwatches](https://www.theverge.com/news/647417/apple-watch-10th-anniversary-global-close-your-rings-day)
+ - [Intel says it will sell a 51% stake in Altera to Silver Lake, valuing the programmable chip unit at $8.7B; Intel bought Altera for $15B in 2015 &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250414/p13#a250414p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

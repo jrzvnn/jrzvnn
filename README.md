@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)
+ - 😝 [Magic](http://9gag.com/gag/ayNWQQV)
  - 😝 [When the food is too spicy](http://9gag.com/gag/an7vxEn)
- - 💣 [Exactly what I thought.](http://9gag.com/gag/aoy4nqn)
- - 😝 [Very Effective](http://9gag.com/gag/aryZ8X0)
+ - 💣 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)
+ - 😝 [Pain](http://9gag.com/gag/a87DVbY)
  - 👉 [The Art Of The Deal](http://9gag.com/gag/ae9V7jq)<!-- MEMES:END -->
 
 ---

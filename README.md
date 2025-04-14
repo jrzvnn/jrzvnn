@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rabid fox, trying to bite his way through](http://9gag.com/gag/axybYVD)
- - 😝 [Bwoah its okay.](http://9gag.com/gag/aVvmVnK)
- - 💣 [`Money can&#39;t buy happiness.`](http://9gag.com/gag/agm8dZ6)
- - 😝 [Quick reaction](http://9gag.com/gag/a6ZnGbb)
- - 👉 [Helping Sea Turtles shed some weight](http://9gag.com/gag/avyEDGW)<!-- MEMES:END -->
+ - 😝 [Palate Cleanse: This IS Their Job!](http://9gag.com/gag/ajPBMwq)
+ - 😝 [Physics says they only need 35 km/h &lpar;22 mph&rpar; to stay on the track &lpar;IG:astrokirsten&rpar;](http://9gag.com/gag/aMVnNqA)
+ - 💣 [Rosie looks proud](http://9gag.com/gag/a34ypqv)
+ - 😝 [Part of this must have felt really good four him.](http://9gag.com/gag/aQzANXK)
+ - 👉 [And this is how real depression looks like](http://9gag.com/gag/apRPjZD)<!-- MEMES:END -->
 
 ---
 

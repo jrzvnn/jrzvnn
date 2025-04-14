@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Snow White](http://9gag.com/gag/a1m5OwG)
  - 😝 [Very Effective](http://9gag.com/gag/aryZ8X0)
- - 😝 [Exactly what I thought.](http://9gag.com/gag/aoy4nqn)
- - 💣 [Lawyer roles](http://9gag.com/gag/an7vDPn)
- - 😝 [Gollum did it better TBH](http://9gag.com/gag/aVvmZgn)
- - 👉 [The friend who jokes at wrong time](http://9gag.com/gag/aByP4WN)<!-- MEMES:END -->
+ - 💣 [The friend who jokes at wrong time](http://9gag.com/gag/aByP4WN)
+ - 😝 [U can&#39;t park there mate! .... why?](http://9gag.com/gag/apRPYbM)
+ - 👉 [Short title](http://9gag.com/gag/agm8xR1)<!-- MEMES:END -->
 
 ---
 

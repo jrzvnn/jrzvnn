@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Did the Dr do that?](http://9gag.com/gag/a0e6xKd)
  - 😝 [Bwoah its okay.](http://9gag.com/gag/aVvmVnK)
- - 😝 [Quick reaction](http://9gag.com/gag/a6ZnGbb)
  - 💣 [Low blow by China](http://9gag.com/gag/avyEDpd)
- - 😝 [Helping Sea Turtles shed some weight](http://9gag.com/gag/avyEDGW)
- - 👉 [Can you fix her](http://9gag.com/gag/a34yxr3)<!-- MEMES:END -->
+ - 😝 [Today, I learned about Scaphism.](http://9gag.com/gag/aKGWp2N)
+ - 👉 [Part of this must have felt really good four him.](http://9gag.com/gag/aQzANXK)<!-- MEMES:END -->
 
 ---
 

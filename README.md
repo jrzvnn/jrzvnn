@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Autonomous trucking startup Kodiak Robotics says it plans to go public in the US via blank-check company Ares Acquisition Corp II, valuing Kodiak at $2.5B &lpar;Deborah Sophia/Reuters&rpar;](http://www.techmeme.com/250414/p18#a250414p18)
- - [Lots of Matter updates, Samsung Ballie readies launch, &amp; more on HomeKit Insider](https://appleinsider.com/articles/25/04/14/lots-of-matter-updates-samsung-ballie-readies-launch-more-on-homekit-insider?utm_medium=rss)
- - [Are prediction markets gambling? Robinhood CEO Vlad Tenev is betting not](https://www.theverge.com/decoder-podcast-with-nilay-patel/645822/robinhood-ceo-vlad-tenev)
- - [Helinox Chair One &lpar;re&rpar; Review: The Best Camping Chair](https://www.wired.com/review/helinox-chair-one-re/)
- - [Hugging Face acquires French startup Pollen Robotics, which makes the bug-eyed, two-armed, humanoid robot called Reachy 2, and plans to sell the robot &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250414/p17#a250414p17)<!-- TECH:END -->
+ - [The Meta Quest 3S just got its first discount](https://www.theverge.com/tech/647954/meta-quest-3s-ps5-sale-deals)
+ - [Meta says it plans to train its AI models on public content, like posts and comments, and interactions that users have with its AI in the EU starting this week &lpar;Associated Press&rpar;](http://www.techmeme.com/250414/p20#a250414p20)
+ - [In The Last of Us season 2, Joel finally goes to therapy](https://www.theverge.com/tv/647211/last-of-us-season-2-therapist-catherine-ohara)
+ - [FTC v. Meta: in opening arguments, FTC lawyers accuse Meta of a &quot;buy-or-bury strategy&quot; to cement a social networking monopoly by buying Instagram and WhatsApp &lpar;New York Times&rpar;](http://www.techmeme.com/250414/p19#a250414p19)
+ - [Autonomous trucking startup Kodiak Robotics says it plans to go public in the US via blank-check company Ares Acquisition Corp II, valuing Kodiak at $2.5B &lpar;Deborah Sophia/Reuters&rpar;](http://www.techmeme.com/250414/p18#a250414p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

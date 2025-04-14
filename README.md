@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [On Oligarchial Idiocracy.](http://9gag.com/gag/aZZQR8Q)
- - 😝 [Milk is milk.](http://9gag.com/gag/agm8426)
- - 💣 [Wireless electricity](http://9gag.com/gag/aKGWeXN)
  - 😝 [Very Effective](http://9gag.com/gag/aryZ8X0)
+ - 😝 [Do u have light? One second..](http://9gag.com/gag/aoy4LvX)
+ - 💣 [Magic](http://9gag.com/gag/ayNWQQV)
+ - 😝 [Useless invention #69](http://9gag.com/gag/a5QGjxG)
  - 👉 [The Art Of The Deal](http://9gag.com/gag/ae9V7jq)<!-- MEMES:END -->
 
 ---

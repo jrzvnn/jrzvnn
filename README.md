@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Today, I learned about Scaphism.](http://9gag.com/gag/aKGWp2N)
- - 😝 [Bro is using technological warfare](http://9gag.com/gag/aqyQW0Z)
- - 💣 [Pain](http://9gag.com/gag/a87DVbY)
- - 😝 [CROOTT](http://9gag.com/gag/azxGB6x)
- - 👉 [Quick reaction](http://9gag.com/gag/a6ZnGbb)<!-- MEMES:END -->
+ - 😝 [Should have jus hired John Wick.](http://9gag.com/gag/an7vdqz)
+ - 💣 [Low blow by China](http://9gag.com/gag/avyEDpd)
+ - 😝 [Classic](http://9gag.com/gag/aYQP142)
+ - 👉 [Did the Dr do that?](http://9gag.com/gag/a0e6xKd)<!-- MEMES:END -->
 
 ---
 

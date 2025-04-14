@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Today, I learned about Scaphism.](http://9gag.com/gag/aKGWp2N)
+ - 😝 [The friend who jokes at wrong time](http://9gag.com/gag/aByP4WN)
+ - 💣 [How would this work for real](http://9gag.com/gag/aKGWYwg)
  - 😝 [Classic](http://9gag.com/gag/aYQP142)
- - 😝 [Did the Dr do that?](http://9gag.com/gag/a0e6xKd)
- - 💣 [Low blow by China](http://9gag.com/gag/avyEDpd)
- - 😝 [I got you...](http://9gag.com/gag/ae9VP6m)
- - 👉 [No golf for you, motherf\u00f9cker](http://9gag.com/gag/ae9VmnO)<!-- MEMES:END -->
+ - 👉 [CROOTT](http://9gag.com/gag/azxGB6x)<!-- MEMES:END -->
 
 ---
 

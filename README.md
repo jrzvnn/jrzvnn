@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A short and pitty pp](http://9gag.com/gag/aryZ27X)
- - 😝 [Pain](http://9gag.com/gag/a87DVbY)
- - 💣 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)
+ - 😝 [Is the concern about bringing jobs back?](http://9gag.com/gag/avyEm0n)
  - 😝 [Exactly what I thought.](http://9gag.com/gag/aoy4nqn)
- - 👉 [Snow White](http://9gag.com/gag/a1m5OwG)<!-- MEMES:END -->
+ - 💣 [The Art Of The Deal](http://9gag.com/gag/ae9V7jq)
+ - 😝 [U can&#39;t park there mate! .... why?](http://9gag.com/gag/apRPYbM)
+ - 👉 [Metric System](http://9gag.com/gag/aKGWYQN)<!-- MEMES:END -->
 
 ---
 

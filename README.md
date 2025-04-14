@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI debuts its GPT-4.1 flagship AI model](https://www.theverge.com/news/647896/openai-chatgpt-gpt-4-1-mini-nano-launch-availability)
+ - [OpenAI’s New GPT 4.1 Models Excel at Coding](https://www.wired.com/story/openai-announces-4-1-ai-model-coding/)
  - [Sony’s excellent WF-1000XM5 earbuds have hit their lowest price ever](https://www.theverge.com/tech/648207/sony-wf-1000xm5-noise-canceling-earbuds-amazon-target-deal-sale)
  - [Trump confirms he reduced tariffs to help Tim Cook](https://appleinsider.com/articles/25/04/14/trump-confirms-he-reduced-tariffs-to-help-tim-cook?utm_medium=rss)
- - [Apple seeds second iOS 18.5, macOS 15.5 developer beta round](https://appleinsider.com/articles/25/04/14/apple-seeds-second-ios-185-macos-155-developer-beta-round?utm_medium=rss)
- - [OpenAI debuts its GPT-4.1 flagship AI model](https://www.theverge.com/news/647896/openai-chatgpt-gpt-4-1-mini-nano-launch-availability)
- - [China escalates US tariff war by halting rare earth mineral exports](https://appleinsider.com/articles/25/04/14/china-escalates-us-tariff-war-by-halting-rare-earth-mineral-exports?utm_medium=rss)<!-- TECH:END -->
+ - [Apple seeds second iOS 18.5, macOS 15.5 developer beta round](https://appleinsider.com/articles/25/04/14/apple-seeds-second-ios-185-macos-155-developer-beta-round?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

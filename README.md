@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Topgolf and Puttshack founders&#39; Poolhouse raised a $34M seed to build a &quot;tech-enabled&quot; version of pool, including via video projections and tracking players &lpar;Josh Noble/Financial Times&rpar;](http://www.techmeme.com/250414/p4#a250414p4)
+ - [A CD Can Protect Your Money From Economic Turmoil. Today&#39;s CD Rates, April 14, 2025](https://www.cnet.com/personal-finance/banking/a-cd-can-protect-your-money-from-economic-turmoil-todays-cd-rates-april-14-2025/#ftag=CAD590a51e)
+ - [Best Internet Providers in Fort Collins, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-fort-collins-co/#ftag=CAD590a51e)
  - [Sony hikes PlayStation 5 prices in Europe, the UK, Australia, and New Zealand, citing a &quot;challenging economic environment&quot;; the PS5 Pro remains the same price &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250414/p3#a250414p3)
- - [PS5 price rises substantially in UK and Europe](https://www.theverge.com/news/647869/sony-ps5-price-rise-uk-europe-australia-new-zealand)
- - [Dealroom: UK-based startups raised £16.2B in 2024, the lowest amount since 2020, as several consider moving their headquarters to the US in search of capital &lpar;Financial Times&rpar;](http://www.techmeme.com/250414/p2#a250414p2)
- - [A look at the limits of large context LLMs, as their increased latency, higher costs, and reduced usability result in diminishing returns for enterprises &lpar;VentureBeat&rpar;](http://www.techmeme.com/250414/p1#a250414p1)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 14, #203](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-14-203/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PS5 price rises substantially in UK and Europe](https://www.theverge.com/news/647869/sony-ps5-price-rise-uk-europe-australia-new-zealand)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

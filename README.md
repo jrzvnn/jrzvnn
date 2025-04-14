@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An Open Source Pioneer Wants to Unleash Open Source AI Robots](https://www.wired.com/story/hugging-face-acquires-open-source-robot-startup/)
- - [Lime will recycle bike and scooter batteries with Redwood Materials](https://www.theverge.com/news/646207/lime-redwood-material-battery-recycle-ebike-scooter)
- - [Chipolo’s colorful new trackers now work with Apple’s and Google’s networks](https://www.theverge.com/news/647246/chipolo-pop-bluetooth-tracker-apple-find-my-device-google)
- - [Apple’s picked a very fitnessy way to mark a decade of smartwatches](https://www.theverge.com/news/647417/apple-watch-10th-anniversary-global-close-your-rings-day)
- - [Intel says it will sell a 51% stake in Altera to Silver Lake, valuing the programmable chip unit at $8.7B; Intel bought Altera for $15B in 2015 &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250414/p13#a250414p13)<!-- TECH:END -->
+ - [Katy Perry has launched to space with Blue Origin](https://www.theverge.com/news/647935/katy-perry-is-going-to-space-with-blue-origin)
+ - [AAPL opens market at highest price since Trump tariff bombshell](https://appleinsider.com/articles/25/04/14/aapl-opens-market-at-highest-price-since-trump-tariff-bombshell?utm_medium=rss)
+ - [How to Build a PC &lpar;2025&rpar;: Hardware Suggestions, Instructions, and More](https://www.wired.com/story/how-to-build-a-pc/)
+ - [HBO’s The Last of Us had to speed up Abby’s reveal](https://www.theverge.com/tv/647170/the-last-of-us-season-2-hbo-abby)
+ - [Stream games to iPhone from Windows with new Razer PC Remote Play app](https://appleinsider.com/articles/25/04/14/stream-games-to-iphone-from-windows-with-new-razer-pc-remote-play-app?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

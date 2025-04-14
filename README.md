@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Art Of The Deal](http://9gag.com/gag/ae9V7jq)
- - 😝 [The friend who jokes at wrong time](http://9gag.com/gag/aByP4WN)
- - 💣 [What is your favourite movie that you will never watch second time?](http://9gag.com/gag/adBnRYZ)
+ - 😝 [Useless invention #69](http://9gag.com/gag/a5QGjxG)
  - 😝 [Snow White](http://9gag.com/gag/a1m5OwG)
- - 👉 [No golf for you, motherf\u00f9cker](http://9gag.com/gag/ae9VmnO)<!-- MEMES:END -->
+ - 💣 [The friend who jokes at wrong time](http://9gag.com/gag/aByP4WN)
+ - 😝 [Yeah me too ngl](http://9gag.com/gag/aAy4mD2)
+ - 👉 [What is your favourite movie that you will never watch second time?](http://9gag.com/gag/adBnRYZ)<!-- MEMES:END -->
 
 ---
 

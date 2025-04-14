@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [...](http://9gag.com/gag/aLnGAZA)
- - 😝 [Pain](http://9gag.com/gag/a87DVbY)
- - 💣 [What would have you done ?](http://9gag.com/gag/amomx7X)
- - 😝 [The friend who jokes at wrong time](http://9gag.com/gag/aByP4WN)
- - 👉 [What is your favourite movie that you will never watch second time?](http://9gag.com/gag/adBnRYZ)<!-- MEMES:END -->
+ - 😝 [On Oligarchial Idiocracy.](http://9gag.com/gag/aZZQR8Q)
+ - 😝 [Milk is milk.](http://9gag.com/gag/agm8426)
+ - 💣 [Wireless electricity](http://9gag.com/gag/aKGWeXN)
+ - 😝 [Very Effective](http://9gag.com/gag/aryZ8X0)
+ - 👉 [The Art Of The Deal](http://9gag.com/gag/ae9V7jq)<!-- MEMES:END -->
 
 ---
 

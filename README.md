@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump confirms he reduced tariffs to help Tim Cook](https://appleinsider.com/articles/25/04/14/trump-confirms-he-reduced-tariffs-to-help-tim-cook?utm_medium=rss)
  - [Apple seeds second iOS 18.5, macOS 15.5 developer beta round](https://appleinsider.com/articles/25/04/14/apple-seeds-second-ios-185-macos-155-developer-beta-round?utm_medium=rss)
- - [OpenAI debuts new flagship AI model](https://www.theverge.com/news/647896/openai-chatgpt-gpt-4-1-mini-nano-launch-availability)
- - [Sources: OpenAI&#39;s upcoming o3 and o4-mini reasoning models may excel at suggesting new types of science experiments, from nuclear fusion to pathogen detection &lpar;The Information&rpar;](http://www.techmeme.com/250414/p25#a250414p25)
- - [Star Wars is getting a turn-based strategy game called Zero Company](https://www.theverge.com/news/648151/star-wars-zero-company-strategy-game-celebration)
- - [Crypto exchange Kraken begins rolling out commission-free trading for over 11,000 US-listed stocks and ETFs, initially in nine US states and DC &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/250414/p24#a250414p24)<!-- TECH:END -->
+ - [OpenAI debuts its GPT-4.1 flagship AI model](https://www.theverge.com/news/647896/openai-chatgpt-gpt-4-1-mini-nano-launch-availability)
+ - [China escalates US tariff war by halting rare earth mineral exports](https://appleinsider.com/articles/25/04/14/china-escalates-us-tariff-war-by-halting-rare-earth-mineral-exports?utm_medium=rss)
+ - [OpenAI releases GPT‑4.1, GPT‑4.1 mini, and GPT‑4.1 nano, which excel at coding, instruction following, and long context understanding, available via its API &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250414/p26#a250414p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

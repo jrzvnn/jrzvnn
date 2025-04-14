@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Today, I learned about Scaphism.](http://9gag.com/gag/aKGWp2N)
- - 😝 [Should have jus hired John Wick.](http://9gag.com/gag/an7vdqz)
- - 💣 [Low blow by China](http://9gag.com/gag/avyEDpd)
  - 😝 [Classic](http://9gag.com/gag/aYQP142)
- - 👉 [Did the Dr do that?](http://9gag.com/gag/a0e6xKd)<!-- MEMES:END -->
+ - 😝 [Did the Dr do that?](http://9gag.com/gag/a0e6xKd)
+ - 💣 [Low blow by China](http://9gag.com/gag/avyEDpd)
+ - 😝 [I got you...](http://9gag.com/gag/ae9VP6m)
+ - 👉 [No golf for you, motherf\u00f9cker](http://9gag.com/gag/ae9VmnO)<!-- MEMES:END -->
 
 ---
 

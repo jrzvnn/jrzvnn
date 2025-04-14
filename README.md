@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wireless electricity](http://9gag.com/gag/aKGWeXN)
- - 😝 [Denmark must always prove itself better than the rest of us.](http://9gag.com/gag/an7vxxn)
- - 💣 [Lawyer roles](http://9gag.com/gag/an7vDPn)
- - 😝 [Pain](http://9gag.com/gag/a87DVbY)
- - 👉 [Trade?](http://9gag.com/gag/aYQPMAO)<!-- MEMES:END -->
+ - 😝 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)
+ - 😝 [When the food is too spicy](http://9gag.com/gag/an7vxEn)
+ - 💣 [Exactly what I thought.](http://9gag.com/gag/aoy4nqn)
+ - 😝 [Very Effective](http://9gag.com/gag/aryZ8X0)
+ - 👉 [The Art Of The Deal](http://9gag.com/gag/ae9V7jq)<!-- MEMES:END -->
 
 ---
 

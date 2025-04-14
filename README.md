@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [U can&#39;t park there mate! .... why?](http://9gag.com/gag/apRPYbM)
- - 😝 [Hate crime](http://9gag.com/gag/aXP4Rmv)
- - 💣 [No golf for you, motherf\u00f9cker](http://9gag.com/gag/ae9VmnO)
- - 😝 [How would this work for real](http://9gag.com/gag/aKGWYwg)
- - 👉 [Prelude to battle between monsters](http://9gag.com/gag/awyLdrD)<!-- MEMES:END -->
+ - 😝 [Short title](http://9gag.com/gag/agm8xR1)
+ - 😝 [Nope rope](http://9gag.com/gag/aO8DPRR)
+ - 💣 [I love statistics.](http://9gag.com/gag/aQzAObw)
+ - 😝 [The friend who jokes at wrong time](http://9gag.com/gag/aByP4WN)
+ - 👉 [What is your favourite movie that you will never watch second time?](http://9gag.com/gag/adBnRYZ)<!-- MEMES:END -->
 
 ---
 

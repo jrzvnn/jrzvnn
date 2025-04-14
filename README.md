@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&amp;#8217;s complicated plan to improve its AI while protecting privacy](https://www.theverge.com/news/648496/apple-improve-ai-models-differential-privacy)
+ - [Microsoft’s Recall AI Tool Is Making an Unwelcome Return](https://www.wired.com/story/microsoft-recall-returns-privacy/)
+ - [Best Internet Providers in Spring Hill, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-spring-hill-fl/#ftag=CAD590a51e)
  - [Trump says he wants to deport some US citizens, too](https://www.theverge.com/policy/648338/trump-deport-us-citizens-el-salvador)
- - [The best smart rings for tracking sleep and health](https://www.theverge.com/tech/647901/best-smart-rings)
- - [Apple plans to begin on-device, privacy-centric analysis of user data, comparing it to synthetic data, to improve AI, in beta versions of iOS 18.5, macOS 15.5 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250414/p27#a250414p27)
- - [If You Deleted This Weird New Folder in Windows, You Need to Put It Back. Here&#39;s How](https://www.cnet.com/tech/services-and-software/if-you-deleted-this-weird-new-folder-in-windows-you-need-to-put-it-back-heres-how/#ftag=CAD590a51e)
- - [Best Cheap iPhone 16 Case? These $10 Transparent MagSafe Cases Stand Out](https://www.cnet.com/deals/best-cheap-iphone-16-case-these-10-transparent-magsafe-cases-stand-out/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best smart rings for tracking sleep and health](https://www.theverge.com/tech/647901/best-smart-rings)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

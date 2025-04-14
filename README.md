@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: banks are providing Silver Lake $2B in debt for its 51% acquisition of Altera; Intel will receive ~$3.4B in cash from Silver Lake as part of the deal &lpar;Bloomberg&rpar;](http://www.techmeme.com/250414/p32#a250414p32)
+ - [A Cybersecurity Professor Disappeared Amid an FBI Search. His Family Is &#39;Determined to Fight&#39;](https://www.wired.com/story/professor-xiaofeng-wang-update/)
  - [The Trump administration begins a probe into imports of semiconductors on national security grounds, as part of a bid to impose tariffs on the sector &lpar;Ismail Shakil/Reuters&rpar;](http://www.techmeme.com/250414/p31#a250414p31)
  - [Source: by 2030, Netflix aims to hit a $1T valuation, earn ~$9B in global ad sales, and double its $39B revenue and triple its $10B operating income from 2024 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250414/p30#a250414p30)
- - [Samsung Pauses One UI 7 Rollout After Bug Locks Users Out of Phones](https://www.cnet.com/tech/services-and-software/samsung-pauses-one-ui-7-rollout-after-bug-locks-users-out-of-phones/#ftag=CAD590a51e)
- - [Best Cheap iPhone 16 Case? These Two $10 Transparent MagSafe Cases Stand Out](https://www.cnet.com/deals/best-cheap-iphone-16-case-these-two-10-transparent-magsafe-cases-stand-out/#ftag=CAD590a51e)
- - [Nvidia Says It Started Making Chips for AI in the US](https://www.cnet.com/tech/services-and-software/nvidia-says-its-making-chips-in-arizona-supercomputers-in-texas/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Pauses One UI 7 Rollout After Bug Locks Users Out of Phones](https://www.cnet.com/tech/services-and-software/samsung-pauses-one-ui-7-rollout-after-bug-locks-users-out-of-phones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Useless invention #69](http://9gag.com/gag/a5QGjxG)
- - 😝 [Snow White](http://9gag.com/gag/a1m5OwG)
- - 💣 [The friend who jokes at wrong time](http://9gag.com/gag/aByP4WN)
- - 😝 [Yeah me too ngl](http://9gag.com/gag/aAy4mD2)
- - 👉 [What is your favourite movie that you will never watch second time?](http://9gag.com/gag/adBnRYZ)<!-- MEMES:END -->
+ - 😝 [Wood planing competition for thinnest plane of wood](http://9gag.com/gag/amomdYo)
+ - 😝 [Bro is using technological warfare](http://9gag.com/gag/aqyQW0Z)
+ - 💣 [Should have jus hired John Wick.](http://9gag.com/gag/an7vdqz)
+ - 😝 [Today, I learned about Scaphism.](http://9gag.com/gag/aKGWp2N)
+ - 👉 [I didn\u2019t think offroading looked all that fun until I saw this vidoe.](http://9gag.com/gag/aByPoZx)<!-- MEMES:END -->
 
 ---
 

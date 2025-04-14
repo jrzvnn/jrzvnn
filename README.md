@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung pauses its global One UI 7 rollout, citing a &quot;serious bug&quot;, after starting on April 7, seven months after Android 15&#39;s launch; Samsung hasn&#39;t commented &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250414/p8#a250414p8)
+ - [Sources: Intel is nearing a deal to sell its stake in Altera to Silver Lake and could announce it as soon as this week; Intel paid $17B for Altera in 2015 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250414/p7#a250414p7)
  - [Legal experts: Meta&#39;s FTC antitrust trial, where Mark Zuckerberg could take the stand as early as today, is set to be more grueling than Congressional hearings &lpar;New York Times&rpar;](http://www.techmeme.com/250414/p6#a250414p6)
  - [Samsung pauses One UI 7 rollout worldwide](https://www.theverge.com/news/647888/samsung-one-ui-7-update-android-15-pause-s24-z-fold-6-flip-6)
- - [The Most Dangerous Hackers You’ve Never Heard Of](https://www.wired.com/story/most-dangerous-hackers-youve-never-heard-of/)
- - [Why It’s Impossible for Most Small Businesses to Manufacture in the US](https://www.wired.com/story/tariffs-small-businesses-why-make-things-in-china/)
- - [Gamaredon: The Turncoat Spies Relentlessly Hacking Ukraine](https://www.wired.com/story/gamaredon-turncoat-spies-hacking-ukraine/)<!-- TECH:END -->
+ - [The Most Dangerous Hackers You’ve Never Heard Of](https://www.wired.com/story/most-dangerous-hackers-youve-never-heard-of/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

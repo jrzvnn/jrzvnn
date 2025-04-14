@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: FTC Chair Andrew Ferguson, Assistant AG Gail Slater, and activist Mike Davis met Trump on April 8 to combat Meta&#39;s lobbying over the FTC antitrust case &lpar;Ben Smith/Semafor&rpar;](http://www.techmeme.com/250414/p22#a250414p22)
- - [Q&amp;A with Robinhood co-founder Vlad Tenev on becoming sole CEO, prediction markets, regulatory compliance, sports betting, the American dream, media, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250414/p21#a250414p21)
- - [The Meta Quest 3S just got its first discount](https://www.theverge.com/tech/647954/meta-quest-3s-ps5-sale-deals)
- - [Meta says it plans to train its AI models on public content, like posts and comments, and interactions that users have with its AI in the EU starting this week &lpar;Associated Press&rpar;](http://www.techmeme.com/250414/p20#a250414p20)
- - [In The Last of Us season 2, Joel finally goes to therapy](https://www.theverge.com/tv/647211/last-of-us-season-2-therapist-catherine-ohara)<!-- TECH:END -->
+ - [The Subjective Charms of Objective-C](https://www.wired.com/story/objective-c-programming-language-verbose/)
+ - [Health and Human Services Systems Are in Danger of Collapsing, Workers Say](https://www.wired.com/story/department-health-human-services-possible-collapse/)
+ - [Eddington doomscrolls back to the pandemic’s darkest days in new trailer](https://www.theverge.com/trailers/648004/eddington-trailer-a24-ari-aster)
+ - [34 Best Family Board Games &lpar;2025&rpar;: Catan, Onitama, Codenames](https://www.wired.com/gallery/best-family-board-games/)
+ - [Source: FTC Chair Andrew Ferguson, Assistant AG Gail Slater, and activist Mike Davis met Trump on April 8 to combat Meta&#39;s lobbying over the FTC antitrust case &lpar;Ben Smith/Semafor&rpar;](http://www.techmeme.com/250414/p22#a250414p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

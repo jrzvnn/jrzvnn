@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HBO’s Harry Potter TV series has cast its regulars &lpar;not those ones&rpar;](https://www.theverge.com/news/648099/harry-potter-tv-series-hbo-warner-bros-casting-announcement)
  - [Sources: the European Commission is issuing burner phones and laptops to some US-bound staff to mitigate espionage risks, a move typically reserved for China &lpar;Andy Bounds/Financial Times&rpar;](http://www.techmeme.com/250414/p23#a250414p23)
  - [Nvidia starts producing its Blackwell AI chip at TSMC&amp;#8217;s Arizona plant](https://www.theverge.com/news/648086/nvidia-blackwell-ai-tsmc-arizona-plant)
  - [Apple&#39;s first Bristol store is about to close permanently](https://appleinsider.com/articles/25/04/14/apples-first-bristol-store-is-about-to-close-permanently?utm_medium=rss)
- - [The Subjective Charms of Objective-C](https://www.wired.com/story/objective-c-programming-language-verbose/)
- - [Health and Human Services Systems Are in Danger of Collapsing, Workers Say](https://www.wired.com/story/department-health-human-services-possible-collapse/)<!-- TECH:END -->
+ - [The Subjective Charms of Objective-C](https://www.wired.com/story/objective-c-programming-language-verbose/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

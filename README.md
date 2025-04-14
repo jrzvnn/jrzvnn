@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [African Private Capital Association: VC inflows to Africa fell 22% YoY to $3.6B in 2024, after a 31% YoY drop in 2023; fintechs had 116 deals raising $1.4B &lpar;Ruth Olurounbi/Bloomberg&rpar;](http://www.techmeme.com/250414/p11#a250414p11)
  - [Global smartphone sales grew 3% YoY in Q1 2025; Apple took the top spot, its first ever for Q1, with a 19% share, and Vivo was the fastest growing brand &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250414/p10#a250414p10)
  - [India now makes one in five of all iPhones worldwide](https://appleinsider.com/articles/25/04/14/india-now-makes-one-in-five-of-all-iphones-worldwide?utm_medium=rss)
  - [How private prison company Geo Group built a lucrative side business making digital tools like smart watches and tracking apps to help ICE surveil immigrants &lpar;New York Times&rpar;](http://www.techmeme.com/250414/p9#a250414p9)
- - [Samsung pauses its global One UI 7 rollout, citing a &quot;serious bug&quot;, after starting on April 7, seven months after Android 15&#39;s launch; Samsung hasn&#39;t commented &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250414/p8#a250414p8)
- - [Sources: Intel is nearing a deal to sell its stake in Altera to Silver Lake and could announce it as soon as this week; Intel paid $17B for Altera in 2015 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250414/p7#a250414p7)<!-- TECH:END -->
+ - [Samsung pauses its global One UI 7 rollout, citing a &quot;serious bug&quot;, after starting on April 7, seven months after Android 15&#39;s launch; Samsung hasn&#39;t commented &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250414/p8#a250414p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

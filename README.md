@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [U can&#39;t park there mate! .... why?](http://9gag.com/gag/apRPYbM)
- - 😝 [Rabid fox, trying to bite his way through](http://9gag.com/gag/axybYVD)
- - 💣 [...](http://9gag.com/gag/aLnGAZA)
- - 😝 [Did the Dr do that?](http://9gag.com/gag/a0e6xKd)
- - 👉 [Metric System](http://9gag.com/gag/aKGWYQN)<!-- MEMES:END -->
+ - 😝 [The Art Of The Deal](http://9gag.com/gag/ae9V7jq)
+ - 😝 [The friend who jokes at wrong time](http://9gag.com/gag/aByP4WN)
+ - 💣 [What is your favourite movie that you will never watch second time?](http://9gag.com/gag/adBnRYZ)
+ - 😝 [Snow White](http://9gag.com/gag/a1m5OwG)
+ - 👉 [No golf for you, motherf\u00f9cker](http://9gag.com/gag/ae9VmnO)<!-- MEMES:END -->
 
 ---
 

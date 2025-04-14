@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Art Of The Deal](http://9gag.com/gag/ae9V7jq)
- - 😝 [That\u2019s not America First!](http://9gag.com/gag/aryZqgB)
- - 💣 [Very Effective](http://9gag.com/gag/aryZ8X0)
- - 😝 [U can&#39;t park there mate! .... why?](http://9gag.com/gag/apRPYbM)
- - 👉 [Short title](http://9gag.com/gag/agm8xR1)<!-- MEMES:END -->
+ - 😝 [Pain](http://9gag.com/gag/a87DVbY)
+ - 😝 [Universal vise](http://9gag.com/gag/agm8j36)
+ - 💣 [I love statistics.](http://9gag.com/gag/aQzAObw)
+ - 😝 [Happy Birthday Ron Perlman 13 April 1950 &lpar;age 75 years&rpar;](http://9gag.com/gag/avyEmGO)
+ - 👉 [Well appreciated](http://9gag.com/gag/agm8j0r)<!-- MEMES:END -->
 
 ---
 

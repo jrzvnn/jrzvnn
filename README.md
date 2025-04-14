@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Low blow by China](http://9gag.com/gag/avyEDpd)
- - 😝 [Rabid fox, trying to bite his way through](http://9gag.com/gag/axybYVD)
- - 💣 [I got you...](http://9gag.com/gag/ae9VP6m)
- - 😝 [Would you help him ?](http://9gag.com/gag/a34ypwr)
- - 👉 [Helping Sea Turtles shed some weight](http://9gag.com/gag/avyEDGW)<!-- MEMES:END -->
+ - 😝 [Bwoah its okay.](http://9gag.com/gag/aVvmVnK)
+ - 😝 [Quick reaction](http://9gag.com/gag/a6ZnGbb)
+ - 💣 [Low blow by China](http://9gag.com/gag/avyEDpd)
+ - 😝 [Helping Sea Turtles shed some weight](http://9gag.com/gag/avyEDGW)
+ - 👉 [Can you fix her](http://9gag.com/gag/a34yxr3)<!-- MEMES:END -->
 
 ---
 

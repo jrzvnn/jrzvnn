@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Notion Mail is a minimalist but powerful take on email](https://www.theverge.com/apps/648464/notion-mail-email-app)
  - [Why Doctor Who&amp;#8217;s latest robot threat is a dangerous AI: &amp;#8216;this is what&amp;#8217;s happening&amp;#8217;](https://www.theverge.com/interview/648349/doctor-who-incels-missbelindachandra)
  - [The best MagSafe and Qi2 chargers](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
  - [AI safety and security startup Virtue AI raised $30M in seed and Series A funding and says its customers include several frontier labs, Uber, and Glean &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/250415/p14#a250415p14)
- - [Beats Cables adds more color to Apple&#39;s connectivity accessory lineup](https://appleinsider.com/articles/25/04/15/beats-cables-adds-more-color-to-apples-connectivity-accessory-lineup?utm_medium=rss)
- - [PowerA Fusion Pro Wireless Controller Review: Great Sticks](https://www.wired.com/review/powera-fusion-pro-wireless/)<!-- TECH:END -->
+ - [Beats Cables adds more color to Apple&#39;s connectivity accessory lineup](https://appleinsider.com/articles/25/04/15/beats-cables-adds-more-color-to-apples-connectivity-accessory-lineup?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

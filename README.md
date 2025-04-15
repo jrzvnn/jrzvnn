@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone Fold rumored to cost over $2000](https://appleinsider.com/articles/25/04/15/iphone-fold-rumored-to-cost-over-2000?utm_medium=rss)
+ - [Amazon’s latest Fire HD tablets are now on sale starting at $95](https://www.theverge.com/tech/648968/amazon-fire-hd-10-tablet-amazfit-band-7-tracker-deal-sale)
  - [Google’s geothermal energy ambitions are growing](https://www.theverge.com/news/648979/google-geothermal-energy-power-purchase-agreement-asia-taiwan)
  - [Whistleblower: at NLRB, DOGE staff disabled monitoring tools, deleted logs, one worked on &quot;NxGenBdoorExtract&quot;; one DOGE account tried to log in via a Russian IP &lpar;Jenna McLaughlin/NPR&rpar;](http://www.techmeme.com/250415/p25#a250415p25)
- - [Source: Anthropic could launch a &quot;voice mode&quot; feature for Claude as soon as this month, which will initially roll out on a limited basis &lpar;Bloomberg&rpar;](http://www.techmeme.com/250415/p24#a250415p24)
- - [Anthropic says Claude now integrates with Google Workspace for access to Gmail, Calendar, and Google Docs, coming first to Max, Team, Enterprise, and Pro plans &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250415/p23#a250415p23)
- - [Google rolls out its text-to-video AI model Veo 2 to Gemini Advanced subscribers and makes its Whisk Animate tool available for Google One AI Premium users &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250415/p22#a250415p22)<!-- TECH:END -->
+ - [Source: Anthropic could launch a &quot;voice mode&quot; feature for Claude as soon as this month, which will initially roll out on a limited basis &lpar;Bloomberg&rpar;](http://www.techmeme.com/250415/p24#a250415p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

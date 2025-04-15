@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Billings, Montana](https://www.cnet.com/home/internet/best-internet-providers-in-billings-mt/#ftag=CAD590a51e)
  - [At the request of South Korean regulator, Apple blocked 14 and Google blocked 17 crypto apps, including exchanges KuCoin and MEXC, from their app stores &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/250415/p2#a250415p2)
  - [How to Watch the Lyrids Meteor Shower](https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/)
  - [Top KitchenAid Promo Codes and Coupons](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [India plans to add 200M-300M UPI users, including via delegated accounts for kids, and pitch UPI abroad; PwC: India makes up ~46% of global digital transactions &lpar;Bloomberg&rpar;](http://www.techmeme.com/250415/p1#a250415p1)
- - [Wayfair Promo Codes &amp; Coupons: 50% Off | April 2025](https://www.wired.com/story/wayfair-coupon/)<!-- TECH:END -->
+ - [India plans to add 200M-300M UPI users, including via delegated accounts for kids, and pitch UPI abroad; PwC: India makes up ~46% of global digital transactions &lpar;Bloomberg&rpar;](http://www.techmeme.com/250415/p1#a250415p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

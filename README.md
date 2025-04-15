@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guys? is that the... you know... the secs?](http://9gag.com/gag/aByPNoD)
- - 😝 [He Know&#39;s the vibes](http://9gag.com/gag/a4P5rgv)
- - 💣 [I tried it. It totally works, trust me.](http://9gag.com/gag/aNDVqjA)
- - 😝 [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)
- - 👉 [Today, I learned about Scaphism.](http://9gag.com/gag/aKGWp2N)<!-- MEMES:END -->
+ - 😝 [That\u2019s not a knoif](http://9gag.com/gag/ayNWZYY)
+ - 😝 [Weakness disgusts me](http://9gag.com/gag/aAy4q5d)
+ - 💣 [And this is how real depression looks like](http://9gag.com/gag/apRPjZD)
+ - 😝 [Women would never know this feeling](http://9gag.com/gag/a4P5mNm)
+ - 👉 [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Very Effective](http://9gag.com/gag/aryZ8X0)
- - 😝 [What game is it?](http://9gag.com/gag/a5QGqwO)
- - 💣 [Would you help him ?](http://9gag.com/gag/a34ypwr)
- - 😝 [Goals....](http://9gag.com/gag/a4P5wmy)
- - 👉 [Let&#39;s go](http://9gag.com/gag/aqyQdYP)<!-- MEMES:END -->
+ - 😝 [Let&#39;s go](http://9gag.com/gag/aqyQdYP)
+ - 😝 [Would you help him ?](http://9gag.com/gag/a34ypwr)
+ - 💣 [Goals....](http://9gag.com/gag/a4P5wmy)
+ - 😝 [Helping Sea Turtles shed some weight](http://9gag.com/gag/avyEDGW)
+ - 👉 [Quick reaction](http://9gag.com/gag/a6ZnGbb)<!-- MEMES:END -->
 
 ---
 

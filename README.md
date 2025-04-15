@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic is reportedly launching a voice AI you can speak to](https://www.theverge.com/news/649175/anthropic-claude-ai-voice-mode-report)
+ - [On TikTok, Chinese factories are trolling anxious American shoppers](https://www.theverge.com/tech/649049/tiktok-chinese-factories-tariffs-birkenstock-hermes)
  - [Google Search is going to be google.com globally](https://www.theverge.com/news/649160/google-search-com-globally)
  - [Anthropic&#39;s Claude adds Research, capable of searching the web and internal documents to give comprehensive answers, in beta for Max, Team, Enterprise plans &lpar;Ben Sherry/Inc&rpar;](http://www.techmeme.com/250415/p27#a250415p27)
- - [China Outs US Hackers for Attack, a New Frontier in Spy Games &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/250415/p26#a250415p26)
- - [iPhone Fold rumored to cost over $2000](https://appleinsider.com/articles/25/04/15/iphone-fold-rumored-to-cost-over-2000?utm_medium=rss)
- - [Dune: Awakening will slumber for just a bit longer](https://www.theverge.com/news/649025/dune-awakening-delayed-release-date-june)<!-- TECH:END -->
+ - [China Outs US Hackers for Attack, a New Frontier in Spy Games &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/250415/p26#a250415p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

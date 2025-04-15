@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cohere debuts Embed 4, its search engine for enterprise AI assistants, now with a 128K context length, better multimodal abilities for complex documents, more &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/250415/p16#a250415p16)
- - [Notion releases Notion Mail, a lightweight Gmail client to help users schedule meetings and organize and draft emails, available as a free macOS and web app &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/250415/p15#a250415p15)
- - [Price war: Get Apple&#39;s M4 MacBook Pro with 24GB RAM, 1TB SSD for $1,799](https://appleinsider.com/articles/25/04/15/price-war-get-apples-m4-macbook-pro-with-24gb-ram-1tb-ssd-for-1799?utm_medium=rss)
- - [Leaked images suggest Oblivion remaster coming soon](https://www.theverge.com/news/648877/oblivion-remaster-images-leaked-microsoft)
- - [12 Best Heat Protectant Sprays for Wet and Dry Hair &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-heat-protectants-for-hair/)<!-- TECH:END -->
+ - [4chan’s ‘cesspool of the internet’ is down after apparently being hacked](https://www.theverge.com/news/648908/4chan-hacked-down-outage-leak)
+ - [OpenAI is building a social network](https://www.theverge.com/openai/648130/openai-social-network-x-competitor)
+ - [Apple about to launch accessory discount with in-store recycling promotion](https://appleinsider.com/articles/25/04/15/apple-about-to-launch-accessory-discount-with-in-store-recycling-promotion?utm_medium=rss)
+ - [Best Internet Providers in Hialeah, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-hialeah-fl/#ftag=CAD590a51e)
+ - [Cohere debuts Embed 4, its search engine for enterprise AI assistants, now with a 128K context length, better multimodal abilities for complex documents, more &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/250415/p16#a250415p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

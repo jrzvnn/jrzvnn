@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Android Phones Will Now Automatically Restart After 3 Days if Untouched. Here&#39;s Why](https://www.cnet.com/tech/mobile/android-phones-will-now-automatically-restart-after-3-days-if-untouched-heres-why/#ftag=CAD590a51e)
+ - [Hertz Data Breach Included Credit Card, Personal Data: Here&#39;s What You Should Know](https://www.cnet.com/tech/services-and-software/hertz-data-breach-included-credit-card-personal-data-heres-what-you-should-know/#ftag=CAD590a51e)
  - [Nvidia unveils its RTX 5060 family, including the RTX 5060 Ti with 4,608 CUDA cores for $379 with 8GB of VRAM or $429 for 16GB of VRAM, launching on April 16 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250415/p12#a250415p12)
- - [Purple Carrot Meal Kit Review: Worth the Prep Time](https://www.wired.com/review/purple-carrot-meal-kit/)
- - [Nanoleaf’s new pegboard dock lights up your accessories and room](https://www.theverge.com/news/648318/nanoleaf-pegboard-desk-dock-lighting-charging)
- - [Nvidia’s RTX 5060 Ti arrives on April 16th starting at $379](https://www.theverge.com/news/648705/nvidias-rtx-5060-ti-gpu-pricing-release-date)
- - [The 2025 Vergecast streaming draft](https://www.theverge.com/the-vergecast/648771/best-streaming-services-2025-vergecast)<!-- TECH:END -->
+ - [Best Internet Providers in Ocala, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-ocala-fl/#ftag=CAD590a51e)
+ - [Purple Carrot Meal Kit Review: Worth the Prep Time](https://www.wired.com/review/purple-carrot-meal-kit/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

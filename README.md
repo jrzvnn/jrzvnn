@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Notion Mail is a minimalist but powerful take on email](https://www.theverge.com/apps/648464/notion-mail-email-app)
- - [Why Doctor Who&amp;#8217;s latest robot threat is a dangerous AI: &amp;#8216;this is what&amp;#8217;s happening&amp;#8217;](https://www.theverge.com/interview/648349/doctor-who-incels-missbelindachandra)
- - [The best MagSafe and Qi2 chargers](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
- - [AI safety and security startup Virtue AI raised $30M in seed and Series A funding and says its customers include several frontier labs, Uber, and Glean &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/250415/p14#a250415p14)
- - [Beats Cables adds more color to Apple&#39;s connectivity accessory lineup](https://appleinsider.com/articles/25/04/15/beats-cables-adds-more-color-to-apples-connectivity-accessory-lineup?utm_medium=rss)<!-- TECH:END -->
+ - [Cohere debuts Embed 4, its search engine for enterprise AI assistants, now with a 128K context length, better multimodal abilities for complex documents, more &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/250415/p16#a250415p16)
+ - [Notion releases Notion Mail, a lightweight Gmail client to help users schedule meetings and organize and draft emails, available as a free macOS and web app &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/250415/p15#a250415p15)
+ - [Price war: Get Apple&#39;s M4 MacBook Pro with 24GB RAM, 1TB SSD for $1,799](https://appleinsider.com/articles/25/04/15/price-war-get-apples-m4-macbook-pro-with-24gb-ram-1tb-ssd-for-1799?utm_medium=rss)
+ - [Leaked images suggest Oblivion remaster coming soon](https://www.theverge.com/news/648877/oblivion-remaster-images-leaked-microsoft)
+ - [12 Best Heat Protectant Sprays for Wet and Dry Hair &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-heat-protectants-for-hair/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women would never know this feeling](http://9gag.com/gag/a4P5mNm)
- - 😝 [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)
- - 💣 [This must be a nice neighborhood!](http://9gag.com/gag/ajPB3Lq)
- - 😝 [Exciting!](http://9gag.com/gag/avyEXRq)
- - 👉 [When your staircase is more festive than your ornaments](http://9gag.com/gag/aRBz807)<!-- MEMES:END -->
+ - 😝 [Would you help him ?](http://9gag.com/gag/a34ypwr)
+ - 😝 [Low blow by China](http://9gag.com/gag/avyEDpd)
+ - 💣 [Helping Sea Turtles shed some weight](http://9gag.com/gag/avyEDGW)
+ - 😝 [Who&#39;s That Pokemon??](http://9gag.com/gag/aO8DA3y)
+ - 👉 [Snow white is somehow even worse than you think](http://9gag.com/gag/aryZd67)<!-- MEMES:END -->
 
 ---
 

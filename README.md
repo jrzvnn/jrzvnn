@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Helping Sea Turtles shed some weight](http://9gag.com/gag/avyEDGW)
- - 😝 [He didn\u2019t want to kiss me after my 10 man Bukakke, and that hurt](http://9gag.com/gag/avyE4Pq)
- - 💣 [Wow](http://9gag.com/gag/awyL8yx)
- - 😝 [Today, I learned about Scaphism.](http://9gag.com/gag/aKGWp2N)
- - 👉 [I tried it. It totally works, trust me.](http://9gag.com/gag/aNDVqjA)<!-- MEMES:END -->
+ - 😝 [Now you can&#39;t have a hobby either](http://9gag.com/gag/a34ynOm)
+ - 💣 [Today, I learned about Scaphism.](http://9gag.com/gag/aKGWp2N)
+ - 😝 [Wow](http://9gag.com/gag/awyL8yx)
+ - 👉 [Snow white is somehow even worse than you think](http://9gag.com/gag/aryZd67)<!-- MEMES:END -->
 
 ---
 

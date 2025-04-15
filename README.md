@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: activist investor Elliott has built a position worth $1.5B+ in HPE, making it one of the company&#39;s top five shareholders; HPE is down ~30% in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250415/p13#a250415p13)
- - [Android Phones Will Now Automatically Restart After 3 Days if Untouched. Here&#39;s Why](https://www.cnet.com/tech/mobile/android-phones-will-now-automatically-restart-after-3-days-if-untouched-heres-why/#ftag=CAD590a51e)
- - [Hertz Data Breach Included Credit Card, Personal Data: Here&#39;s What You Should Know](https://www.cnet.com/tech/services-and-software/hertz-data-breach-included-credit-card-personal-data-heres-what-you-should-know/#ftag=CAD590a51e)
- - [Nvidia unveils its RTX 5060 family, including the RTX 5060 Ti with 4,608 CUDA cores for $379 with 8GB of VRAM or $429 for 16GB of VRAM, launching on April 16 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250415/p12#a250415p12)
- - [Best Internet Providers in Ocala, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-ocala-fl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AI safety and security startup Virtue AI raised $30M in seed and Series A funding and says its customers include several frontier labs, Uber, and Glean &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/250415/p14#a250415p14)
+ - [Beats Cables adds more color to Apple&#39;s connectivity accessory lineup](https://appleinsider.com/articles/25/04/15/beats-cables-adds-more-color-to-apples-connectivity-accessory-lineup?utm_medium=rss)
+ - [PowerA Fusion Pro Wireless Controller Review: Great Sticks](https://www.wired.com/review/powera-fusion-pro-wireless/)
+ - [Where to buy refurbished products](https://www.theverge.com/21530290/refurbished-tech-products-gadgets-where-to-buy-amazon-ebay)
+ - [What you should know before buying refurbished gadgets](https://www.theverge.com/21258681/refurbished-tech-products-gadgets-how-to-buy-used-repair-e-waste)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

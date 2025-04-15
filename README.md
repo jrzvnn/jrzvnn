@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I didn\u2019t think offroading looked all that fun until I saw this vidoe.](http://9gag.com/gag/aByPoZx)
- - 😝 [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)
- - 💣 [Why are they doing this?](http://9gag.com/gag/amomRA4)
- - 😝 [Bwoah its okay.](http://9gag.com/gag/aVvmVnK)
- - 👉 [Goals....](http://9gag.com/gag/a4P5wmy)<!-- MEMES:END -->
+ - 😝 [He is proposing to a golden retriever](http://9gag.com/gag/aZZQd5X)
+ - 😝 [Low blow by China](http://9gag.com/gag/avyEDpd)
+ - 💣 [Bwoah its okay.](http://9gag.com/gag/aVvmVnK)
+ - 😝 [Quick reaction](http://9gag.com/gag/a6ZnGbb)
+ - 👉 [Part of this must have felt really good four him.](http://9gag.com/gag/aQzANXK)<!-- MEMES:END -->
 
 ---
 

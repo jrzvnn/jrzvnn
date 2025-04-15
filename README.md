@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple about to launch accessory discount with in-store recycling promotion](https://appleinsider.com/articles/25/04/15/apple-about-to-launch-accessory-discount-with-in-store-recycling-promotion?utm_medium=rss)
+ - [In the first update to its Preparedness Framework since 2023, OpenAI says it &quot;may adjust&quot; its own safeguards if rival frontier labs release &quot;high-risk&quot; AI &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250415/p31#a250415p31)
  - [Meta’s antitrust trial slide redactions aren’t actually hiding anything](https://www.theverge.com/news/648893/meta-redacted-documents-leak-ftc-antitrust-opening-statement)
  - [A 2018 email from Mark Zuckerberg explored spinning off Instagram; he testified his thinking at the time took into account where politics seemed to be going &lpar;Bloomberg&rpar;](http://www.techmeme.com/250415/p30#a250415p30)
- - [A look at the FCC&#39;s &quot;Delete, Delete, Delete&quot; initiative, meant to identify burdensome rules, as ISPs, broadcasters, and others send in deregulation wishlists &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/250415/p29#a250415p29)
- - [Mark Zuckerberg once suggested wiping all Facebook friends lists to boost usage](https://www.theverge.com/news/649246/mark-zuckerberg-facebook-friends-wipe-reset-meta-antitrust-trial)
- - [Blackmagic Design says tariffs have made camera price hikes ‘unavoidable’](https://www.theverge.com/news/649225/blackmagic-design-trump-us-tariffs-price-hike)<!-- TECH:END -->
+ - [A look at the FCC&#39;s &quot;Delete, Delete, Delete&quot; initiative, meant to identify burdensome rules, as ISPs, broadcasters, and others send in deregulation wishlists &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/250415/p29#a250415p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

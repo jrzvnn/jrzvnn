@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Mission accompished](http://9gag.com/gag/ajPBG0w)
+ - 😝 [Rosie looks proud](http://9gag.com/gag/a34ypqv)
+ - 💣 [Palate Cleanse: This IS Their Job!](http://9gag.com/gag/ajPBMwq)
  - 😝 [Part of this must have felt really good four him.](http://9gag.com/gag/aQzANXK)
- - 😝 [Low blow by China](http://9gag.com/gag/avyEDpd)
- - 💣 [Binturong, Southeast Asia and Northeast India.](http://9gag.com/gag/azxGoVx)
- - 😝 [Should have jus hired John Wick.](http://9gag.com/gag/an7vdqz)
- - 👉 [Bwoah its okay.](http://9gag.com/gag/aVvmVnK)<!-- MEMES:END -->
+ - 👉 [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)<!-- MEMES:END -->
 
 ---
 

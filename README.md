@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [UK data-based car insurance startup Marshmallow raised $90M, roughly split 50-50 in equity and debt, at a $2B+ valuation, up from $1.25B in September 2021 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250415/p10#a250415p10)
+ - [Polaroid Flip Review: The Best Polaroid For Most People](https://www.wired.com/review/polaroid-flip/)
  - [A New Mexico Man Faces Federal Charges for Allegedly Setting Fire to a Tesla Showroom](https://www.wired.com/story/doj-pam-bondi-federal-indictment-tesla-protest/)
  - [US satellite startup Astranis and Taiwanese telco Chunghwa plan to launch a dedicated MicroGEO satellite by the end of 2025, with full bandwidth as soon as 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250415/p9#a250415p9)
- - [FCC Chair Brendan Carr says &quot;allied western democracies&quot; need to focus on China and those &quot;concerned about Starlink&quot; should be more fearful of a Chinese version &lpar;Financial Times&rpar;](http://www.techmeme.com/250415/p8#a250415p8)
- - [There’s AI Inside Windows Paint and Notepad Now. Here’s How to Use It](https://www.wired.com/story/theres-even-ai-inside-windows-paint-and-notepad-now-heres-how-to-use-it/)<!-- TECH:END -->
+ - [FCC Chair Brendan Carr says &quot;allied western democracies&quot; need to focus on China and those &quot;concerned about Starlink&quot; should be more fearful of a Chinese version &lpar;Financial Times&rpar;](http://www.techmeme.com/250415/p8#a250415p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

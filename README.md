@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Today, I learned about Scaphism.](http://9gag.com/gag/aKGWp2N)
  - 😝 [Now you can&#39;t have a hobby either](http://9gag.com/gag/a34ynOm)
+ - 😝 [Today, I learned about Scaphism.](http://9gag.com/gag/aKGWp2N)
  - 💣 [I tried it. It totally works, trust me.](http://9gag.com/gag/aNDVqjA)
- - 😝 [Wow](http://9gag.com/gag/awyL8yx)
+ - 😝 [Snow white is somehow even worse than you think](http://9gag.com/gag/aryZd67)
  - 👉 [2 years of AI Progress](http://9gag.com/gag/abAWEQE)<!-- MEMES:END -->
 
 ---

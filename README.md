@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He is proposing to a golden retriever](http://9gag.com/gag/aZZQd5X)
+ - 😝 [U can&#39;t park there mate! .... why?](http://9gag.com/gag/apRPYbM)
  - 😝 [Low blow by China](http://9gag.com/gag/avyEDpd)
- - 💣 [Bwoah its okay.](http://9gag.com/gag/aVvmVnK)
- - 😝 [Quick reaction](http://9gag.com/gag/a6ZnGbb)
+ - 💣 [Bad grenade toss during police training](http://9gag.com/gag/a9y8DV6)
+ - 😝 [Bwoah its okay.](http://9gag.com/gag/aVvmVnK)
  - 👉 [Part of this must have felt really good four him.](http://9gag.com/gag/aQzANXK)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I tried it. It totally works, trust me.](http://9gag.com/gag/aNDVqjA)
- - 😝 [Quick reaction](http://9gag.com/gag/a6ZnGbb)
- - 💣 [Boys vs Girls after 3 Rounds](http://9gag.com/gag/aRBzypj)
- - 😝 [Let&#39;s go](http://9gag.com/gag/aqyQdYP)
- - 👉 [Low blow by China](http://9gag.com/gag/avyEDpd)<!-- MEMES:END -->
+ - 😝 [He Know&#39;s the vibes](http://9gag.com/gag/a4P5rgv)
+ - 😝 [Boys vs Girls after 3 Rounds](http://9gag.com/gag/aRBzypj)
+ - 💣 [Did the Dr do that?](http://9gag.com/gag/a0e6xKd)
+ - 😝 [2 years of AI Progress](http://9gag.com/gag/abAWEQE)
+ - 👉 [Would you help him ?](http://9gag.com/gag/a34ypwr)<!-- MEMES:END -->
 
 ---
 

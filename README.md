@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 Best Rain Jackets &lpar;2025&rpar;: Cheap, Eco-Friendly, Hiking, and Running](https://www.wired.com/story/best-rain-jackets/)
- - [5 Things I Love About My Experience With T-Mobile 5G Home Internet &lpar;and a Few Bummers Too&rpar;](https://www.cnet.com/home/internet/my-t-mobile-5g-home-internet-experience/#ftag=CAD590a51e)
- - [Google rolls out a Play services update, including an Android security feature to auto-reboot phones and tablets that are &quot;locked for three consecutive days&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250415/p11#a250415p11)
- - [Apple chooses Samsung Display to supply iPhone Fold OLED screens](https://appleinsider.com/articles/25/04/15/apple-chooses-samsung-display-to-supply-iphone-fold-oled-screens?utm_medium=rss)
- - [13 Best Leggings of 2025, Tested and Reviewed by WIRED](https://www.wired.com/gallery/the-best-leggings/)<!-- TECH:END -->
+ - [Nvidia unveils its RTX 5060 family, including the RTX 5060 Ti with 4,608 CUDA cores for $379 with 8GB of VRAM or $429 for 16GB of VRAM, launching on April 16 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250415/p12#a250415p12)
+ - [Purple Carrot Meal Kit Review: Worth the Prep Time](https://www.wired.com/review/purple-carrot-meal-kit/)
+ - [Nanoleaf’s new pegboard dock lights up your accessories and room](https://www.theverge.com/news/648318/nanoleaf-pegboard-desk-dock-lighting-charging)
+ - [Nvidia’s RTX 5060 Ti arrives on April 16th starting at $379](https://www.theverge.com/news/648705/nvidias-rtx-5060-ti-gpu-pricing-release-date)
+ - [The 2025 Vergecast streaming draft](https://www.theverge.com/the-vergecast/648771/best-streaming-services-2025-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

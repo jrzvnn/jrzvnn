@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [U can&#39;t park there mate! .... why?](http://9gag.com/gag/apRPYbM)
- - 😝 [Low blow by China](http://9gag.com/gag/avyEDpd)
- - 💣 [Bad grenade toss during police training](http://9gag.com/gag/a9y8DV6)
- - 😝 [Bwoah its okay.](http://9gag.com/gag/aVvmVnK)
- - 👉 [Part of this must have felt really good four him.](http://9gag.com/gag/aQzANXK)<!-- MEMES:END -->
+ - 😝 [Should have jus hired John Wick.](http://9gag.com/gag/an7vdqz)
+ - 😝 [The friend who jokes at wrong time](http://9gag.com/gag/aByP4WN)
+ - 💣 [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)
+ - 😝 [Part of this must have felt really good four him.](http://9gag.com/gag/aQzANXK)
+ - 👉 [Quick reaction](http://9gag.com/gag/a6ZnGbb)<!-- MEMES:END -->
 
 ---
 

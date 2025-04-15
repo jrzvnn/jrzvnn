@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dune: Awakening will slumber for just a bit longer](https://www.theverge.com/news/649025/dune-awakening-delayed-release-date-june)
+ - [Lucid Gravity 2026 Review: Prices, Specs, Availability](https://www.wired.com/review/lucid-gravity-2026/)
  - [iPhone Fold rumored to cost over $2000](https://appleinsider.com/articles/25/04/15/iphone-fold-rumored-to-cost-over-2000?utm_medium=rss)
  - [Amazon’s latest Fire HD tablets are now on sale starting at $95](https://www.theverge.com/tech/648968/amazon-fire-hd-10-tablet-amazfit-band-7-tracker-deal-sale)
- - [Google’s geothermal energy ambitions are growing](https://www.theverge.com/news/648979/google-geothermal-energy-power-purchase-agreement-asia-taiwan)
- - [Whistleblower: at NLRB, DOGE staff disabled monitoring tools, deleted logs, one worked on &quot;NxGenBdoorExtract&quot;; one DOGE account tried to log in via a Russian IP &lpar;Jenna McLaughlin/NPR&rpar;](http://www.techmeme.com/250415/p25#a250415p25)
- - [Source: Anthropic could launch a &quot;voice mode&quot; feature for Claude as soon as this month, which will initially roll out on a limited basis &lpar;Bloomberg&rpar;](http://www.techmeme.com/250415/p24#a250415p24)<!-- TECH:END -->
+ - [Google’s geothermal energy ambitions are growing](https://www.theverge.com/news/648979/google-geothermal-energy-power-purchase-agreement-asia-taiwan)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

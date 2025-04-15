@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This must be a nice neighborhood!](http://9gag.com/gag/ajPB3Lq)
- - 😝 [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)
- - 💣 [Exciting!](http://9gag.com/gag/avyEXRq)
- - 😝 [When your staircase is more festive than your ornaments](http://9gag.com/gag/aRBz807)
- - 👉 [First day in my new job. These are my new colleagues](http://9gag.com/gag/aYQPBYO)<!-- MEMES:END -->
+ - 😝 [Today, I learned about Scaphism.](http://9gag.com/gag/aKGWp2N)
+ - 😝 [Now you can&#39;t have a hobby either](http://9gag.com/gag/a34ynOm)
+ - 💣 [I tried it. It totally works, trust me.](http://9gag.com/gag/aNDVqjA)
+ - 😝 [Wow](http://9gag.com/gag/awyL8yx)
+ - 👉 [2 years of AI Progress](http://9gag.com/gag/abAWEQE)<!-- MEMES:END -->
 
 ---
 

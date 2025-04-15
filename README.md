@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The valuation of Kavak, a Mexico City-based online used car dealer and LATAM&#39;s most valuable startup, was cut by $6.5B to $2.2B in a $127M equity round in March &lpar;Michael O&#39;Boyle/Bloomberg&rpar;](http://www.techmeme.com/250415/p28#a250415p28)
+ - [Suspected 4chan Hack Could Expose Longtime, Anonymous Admins](https://www.wired.com/story/2025-4chan-hack-admin-leak/)
  - [Mark Zuckerberg suggested spinning off Instagram](https://www.theverge.com/policy/649213/mark-zuckerberg-meta-instagram-spin-off-ftc-antitrust-trial)
  - [Anthropic is reportedly launching a voice AI you can speak to](https://www.theverge.com/news/649175/anthropic-claude-ai-voice-mode-report)
- - [On TikTok, Chinese factories are trolling anxious American shoppers](https://www.theverge.com/tech/649049/tiktok-chinese-factories-tariffs-birkenstock-hermes)
- - [Google Search is going to be google.com globally](https://www.theverge.com/news/649160/google-search-com-globally)
- - [Anthropic&#39;s Claude adds Research, capable of searching the web and internal documents to give comprehensive answers, in beta for Max, Team, Enterprise plans &lpar;Ben Sherry/Inc&rpar;](http://www.techmeme.com/250415/p27#a250415p27)<!-- TECH:END -->
+ - [On TikTok, Chinese factories are trolling anxious American shoppers](https://www.theverge.com/tech/649049/tiktok-chinese-factories-tariffs-birkenstock-hermes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

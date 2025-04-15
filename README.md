@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He didn\u2019t want to kiss me after my 10 man Bukakke, and that hurt](http://9gag.com/gag/avyE4Pq)
- - 😝 [I tried it. It totally works, trust me.](http://9gag.com/gag/aNDVqjA)
- - 💣 [Chicken can be eating medium rare. Hear me out \u2026](http://9gag.com/gag/axybm0Y)
- - 😝 [Boys vs Girls after 3 Rounds](http://9gag.com/gag/aRBzypj)
- - 👉 [He is proposing to a golden retriever](http://9gag.com/gag/aZZQd5X)<!-- MEMES:END -->
+ - 😝 [Who&#39;s That Pokemon??](http://9gag.com/gag/aO8DA3y)
+ - 😝 [Today, I learned about Scaphism.](http://9gag.com/gag/aKGWp2N)
+ - 💣 [Bad grenade toss during police training](http://9gag.com/gag/a9y8DV6)
+ - 😝 [He Know&#39;s the vibes](http://9gag.com/gag/a4P5rgv)
+ - 👉 [I tried it. It totally works, trust me.](http://9gag.com/gag/aNDVqjA)<!-- MEMES:END -->
 
 ---
 

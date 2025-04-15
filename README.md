@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Meta offered $450M in late March to settle the FTC&#39;s antitrust case and raised its offer to ~$1B as the trial neared; the FTC had demanded $30B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250415/p34#a250415p34)
+ - [Figma confidentially files for a US IPO; the company was valued at $12.5B in a May 2024 tender offer &lpar;Jaiveer Singh Shekhawat/Reuters&rpar;](http://www.techmeme.com/250415/p33#a250415p33)
+ - [Here&#39;s What Happened to Those SignalGate Messages](https://www.wired.com/story/heres-what-happened-to-those-signalgate-messages/)
  - [Sources: the US DOD&#39;s Defense Digital Service is effectively shutting down as nearly all staff are resigning, saying they were sidelined by DOGE&#39;s efforts &lpar;Mohar Chatterjee/Politico&rpar;](http://www.techmeme.com/250415/p32#a250415p32)
- - [The CVE program for tracking security flaws is about to lose federal funding](https://www.theverge.com/news/649314/cve-mitre-funding-vulnerabilities-exposures-funding)
- - [Apple about to launch accessory discount with in-store recycling promotion](https://appleinsider.com/articles/25/04/15/apple-about-to-launch-accessory-discount-with-in-store-recycling-promotion?utm_medium=rss)
- - [Making Sense of Phone Tariffs: See How Much iPhone Prices Could Rise](https://www.cnet.com/personal-finance/taxes/making-sense-of-phone-tariffs-see-how-much-prices-iphone-prices-could-rise/#ftag=CAD590a51e)
- - [In the first update to its Preparedness Framework since 2023, OpenAI says it &quot;may adjust&quot; its own safeguards if rival frontier labs release &quot;high-risk&quot; AI &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250415/p31#a250415p31)<!-- TECH:END -->
+ - [The CVE program for tracking security flaws is about to lose federal funding](https://www.theverge.com/news/649314/cve-mitre-funding-vulnerabilities-exposures-funding)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

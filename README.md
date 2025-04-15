@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why Doctor Who&amp;#8217;s latest robot threat is a dangerous AI: &amp;#8216;this is what&amp;#8217;s happening&amp;#8217;](https://www.theverge.com/interview/648349/doctor-who-incels-missbelindachandra)
+ - [The best MagSafe and Qi2 chargers](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
  - [AI safety and security startup Virtue AI raised $30M in seed and Series A funding and says its customers include several frontier labs, Uber, and Glean &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/250415/p14#a250415p14)
  - [Beats Cables adds more color to Apple&#39;s connectivity accessory lineup](https://appleinsider.com/articles/25/04/15/beats-cables-adds-more-color-to-apples-connectivity-accessory-lineup?utm_medium=rss)
- - [PowerA Fusion Pro Wireless Controller Review: Great Sticks](https://www.wired.com/review/powera-fusion-pro-wireless/)
- - [Where to buy refurbished products](https://www.theverge.com/21530290/refurbished-tech-products-gadgets-where-to-buy-amazon-ebay)
- - [What you should know before buying refurbished gadgets](https://www.theverge.com/21258681/refurbished-tech-products-gadgets-how-to-buy-used-repair-e-waste)<!-- TECH:END -->
+ - [PowerA Fusion Pro Wireless Controller Review: Great Sticks](https://www.wired.com/review/powera-fusion-pro-wireless/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

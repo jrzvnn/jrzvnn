@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [He Know&#39;s the vibes](http://9gag.com/gag/a4P5rgv)
+ - 😝 [Would you help him ?](http://9gag.com/gag/a34ypwr)
+ - 💣 [He didn\u2019t want to kiss me after my 10 man Bukakke, and that hurt](http://9gag.com/gag/avyE4Pq)
  - 😝 [Who&#39;s That Pokemon??](http://9gag.com/gag/aO8DA3y)
- - 😝 [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)
- - 💣 [Helping Sea Turtles shed some weight](http://9gag.com/gag/avyEDGW)
- - 😝 [I tried it. It totally works, trust me.](http://9gag.com/gag/aNDVqjA)
  - 👉 [Today, I learned about Scaphism.](http://9gag.com/gag/aKGWp2N)<!-- MEMES:END -->
 
 ---

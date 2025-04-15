@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Filing: Nvidia says it will record a $5.5B charge after the US said it would require a license to export the H20 chips to China; NVDA drops 6%+ after hours &lpar;CNBC&rpar;](http://www.techmeme.com/250415/p35#a250415p35)
  - [ChatGPT now has a section for your AI-generated images](https://www.theverge.com/news/649247/chatgpt-image-library)
  - [Sources: Meta offered $450M in late March to settle the FTC&#39;s antitrust case and raised its offer to ~$1B as the trial neared; the FTC had demanded $30B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250415/p34#a250415p34)
- - [Figma confidentially files for a US IPO; the company was valued at $12.5B in a May 2024 tender offer &lpar;Jaiveer Singh Shekhawat/Reuters&rpar;](http://www.techmeme.com/250415/p33#a250415p33)
- - [Here’s What Happened to Those SignalGate Messages](https://www.wired.com/story/heres-what-happened-to-those-signalgate-messages/)
- - [Sources: the US DOD&#39;s Defense Digital Service is effectively shutting down as nearly all staff are resigning, saying they were sidelined by DOGE&#39;s efforts &lpar;Mohar Chatterjee/Politico&rpar;](http://www.techmeme.com/250415/p32#a250415p32)<!-- TECH:END -->
+ - [Figma confidentially files for a US IPO; the company was valued at $12.5B in a May 2024 tender offer &lpar;Jaiveer Singh Shekhawat/Reuters&rpar;](http://www.techmeme.com/250415/p33#a250415p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

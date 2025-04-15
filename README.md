@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Japan&#39;s FTC orders Google to stop alleged abuse of its market power over local smartphone manufacturers, ahead of high-stakes US trade negotiations this week &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/250415/p4#a250415p4)
  - [Your Favorite Sex Toy Brand Might Go Under](https://www.wired.com/story/your-favorite-sex-toy-brand-might-go-under/)
  - [‘We Are Not Programmed to Die,’ Says Nobel Laureate Venki Ramakrishnan](https://www.wired.com/story/we-are-not-programmed-to-die-says-nobel-laureate-venki-ramakrishnan/)
  - [4 Gut Healing Hacks to Stop Gas &amp; Bloating](https://www.cnet.com/health/medical/4-gut-healing-hacks-to-stop-gas-bloating/#ftag=CAD590a51e)
- - [An interview with Google VP of Search Elizabeth Reid on AI Overviews&#39; launch a year ago, the future of AI search, its impact on the ad revenue model, and more &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250415/p3#a250415p3)
- - [Best Internet Providers in Billings, Montana](https://www.cnet.com/home/internet/best-internet-providers-in-billings-mt/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An interview with Google VP of Search Elizabeth Reid on AI Overviews&#39; launch a year ago, the future of AI search, its impact on the ad revenue model, and more &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250415/p3#a250415p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

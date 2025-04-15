@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Should have jus hired John Wick.](http://9gag.com/gag/an7vdqz)
- - 😝 [The friend who jokes at wrong time](http://9gag.com/gag/aByP4WN)
- - 💣 [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)
- - 😝 [Part of this must have felt really good four him.](http://9gag.com/gag/aQzANXK)
- - 👉 [Quick reaction](http://9gag.com/gag/a6ZnGbb)<!-- MEMES:END -->
+ - 😝 [Helping Sea Turtles shed some weight](http://9gag.com/gag/avyEDGW)
+ - 😝 [Quick reaction](http://9gag.com/gag/a6ZnGbb)
+ - 💣 [Why are they doing this?](http://9gag.com/gag/amomRA4)
+ - 😝 [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)
+ - 👉 [Part of this must have felt really good four him.](http://9gag.com/gag/aQzANXK)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Part of this must have felt really good four him.](http://9gag.com/gag/aQzANXK)
- - 😝 [I didn\u2019t think offroading looked all that fun until I saw this vidoe.](http://9gag.com/gag/aByPoZx)
+ - 😝 [Let&#39;s go](http://9gag.com/gag/aqyQdYP)
+ - 😝 [Did the Dr do that?](http://9gag.com/gag/a0e6xKd)
  - 💣 [Why are they doing this?](http://9gag.com/gag/amomRA4)
- - 😝 [Bad grenade toss during police training](http://9gag.com/gag/a9y8DV6)
- - 👉 [Would you help him ?](http://9gag.com/gag/a34ypwr)<!-- MEMES:END -->
+ - 😝 [Part of this must have felt really good four him.](http://9gag.com/gag/aQzANXK)
+ - 👉 [I didn\u2019t think offroading looked all that fun until I saw this vidoe.](http://9gag.com/gag/aByPoZx)<!-- MEMES:END -->
 
 ---
 

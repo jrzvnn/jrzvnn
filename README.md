@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bad grenade toss during police training](http://9gag.com/gag/a9y8DV6)
+ - 😝 [Let&#39;s go](http://9gag.com/gag/aqyQdYP)
+ - 😝 [Exciting!](http://9gag.com/gag/avyEXRq)
+ - 💣 [`Money can&#39;t buy happiness.`](http://9gag.com/gag/agm8dZ6)
  - 😝 [I got you...](http://9gag.com/gag/ae9VP6m)
- - 💣 [Bwoah its okay.](http://9gag.com/gag/aVvmVnK)
- - 😝 [Why are they doing this?](http://9gag.com/gag/amomRA4)
- - 👉 [Helping Sea Turtles shed some weight](http://9gag.com/gag/avyEDGW)<!-- MEMES:END -->
+ - 👉 [Dancing](http://9gag.com/gag/a5QGq3G)<!-- MEMES:END -->
 
 ---
 

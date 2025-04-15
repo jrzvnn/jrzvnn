@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mark Zuckerberg takes the stand](https://www.theverge.com/policy/648666/mark-zuckerberg-meta-ftc-trial-testimony-instagram)
+ - [Science Corp., which was started by Neuralink co-founder Max Hodak to develop a retina and brain implant system, raised over $100M led by Khosla Ventures &lpar;Ike Swetlitz/Bloomberg&rpar;](http://www.techmeme.com/250414/p37#a250414p37)
  - [Anker Solix C1000X review: Useful but noisy large power bank](https://appleinsider.com/articles/25/04/15/anker-solix-c1000x-review-useful-but-noisy-large-power-bank?utm_medium=rss)
  - [AMD announces its first 2nm silicon fabricated on TSMC&#39;s N2 process, set to debut on its 6th-gen EPYC &quot;Venice&quot; chip, which is expected to launch in 2026 &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250414/p36#a250414p36)
- - [&quot;This Is the Moment&quot; -- Overwatch 2&#39;s New Stadium Mode Is the Biggest Change in 9 Years](https://www.cnet.com/tech/gaming/this-is-the-moment-overwatch-2s-new-stadium-mode-is-the-biggest-change-in-9-years/#ftag=CAD590a51e)
- - [South Korea increases assistance to semiconductor industry by ~25% to $23.25B amid US tariffs, competition with China; the sector represents 21% of its exports &lpar;Reuters&rpar;](http://www.techmeme.com/250414/p35#a250414p35)
- - [On-device Apple Intelligence training seems to be based on controversial technology](https://appleinsider.com/articles/25/04/14/on-device-apple-intelligence-training-seems-to-be-based-on-controversial-technology?utm_medium=rss)<!-- TECH:END -->
+ - [&#39;This Is the Moment&#39; -- Overwatch 2&#39;s New Stadium Mode Is the Biggest Change in 9 Years](https://www.cnet.com/tech/gaming/this-is-the-moment-overwatch-2s-new-stadium-mode-is-the-biggest-change-in-9-years/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dune: Awakening will slumber for just a bit longer](https://www.theverge.com/news/649025/dune-awakening-delayed-release-date-june)
- - [Lucid Gravity 2026 Review: Prices, Specs, Availability](https://www.wired.com/review/lucid-gravity-2026/)
+ - [Google Search is going to be google.com globally](https://www.theverge.com/news/649160/google-search-com-globally)
+ - [Anthropic&#39;s Claude adds Research, capable of searching the web and internal documents to give comprehensive answers, in beta for Max, Team, Enterprise plans &lpar;Ben Sherry/Inc&rpar;](http://www.techmeme.com/250415/p27#a250415p27)
+ - [China Outs US Hackers for Attack, a New Frontier in Spy Games &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/250415/p26#a250415p26)
  - [iPhone Fold rumored to cost over $2000](https://appleinsider.com/articles/25/04/15/iphone-fold-rumored-to-cost-over-2000?utm_medium=rss)
- - [Amazon’s latest Fire HD tablets are now on sale starting at $95](https://www.theverge.com/tech/648968/amazon-fire-hd-10-tablet-amazfit-band-7-tracker-deal-sale)
- - [Google’s geothermal energy ambitions are growing](https://www.theverge.com/news/648979/google-geothermal-energy-power-purchase-agreement-asia-taiwan)<!-- TECH:END -->
+ - [Dune: Awakening will slumber for just a bit longer](https://www.theverge.com/news/649025/dune-awakening-delayed-release-date-june)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mark Zuckerberg&#39;s $1B Instagram and $19B WhatsApp deals, central to the FTC&#39;s antitrust case, were mocked at the time, and the trial hinges on hypotheticals &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/250415/p21#a250415p21)
+ - [Comcast announces a five-year price lock for Xfinity internet plans](https://www.theverge.com/news/648974/comcast-five-year-price-lock-xfinity-internet)
  - [Google must stop favoring Search and Chrome on Android in Japan](https://www.theverge.com/news/648996/google-antitrust-japan-order-google-search-android-chrome)
  - [FTC v. Meta: Mark Zuckerberg testified about his acquisitions of Instagram and WhatsApp, including a 2012 email exchange rationalizing the apps&#39; acquisition &lpar;Bloomberg&rpar;](http://www.techmeme.com/250415/p20#a250415p20)
- - [Tom Hiddleston dances through the new Life of Chuck trailer](https://www.theverge.com/news/648782/life-of-chuck-trailer-tom-hiddleston-dance)
- - [How to play classic arcade games on your iPhone or iPad](https://appleinsider.com/inside/iphone/tips/how-to-play-classic-arcade-games-on-your-iphone-or-ipad?utm_medium=rss)
- - [Sources: OpenAI is in the early stages of building its own X-like social network, focused on ChatGPT image generation, and is asking some outsiders for feedback &lpar;The Verge&rpar;](http://www.techmeme.com/250415/p19#a250415p19)<!-- TECH:END -->
+ - [Tom Hiddleston dances through the new Life of Chuck trailer](https://www.theverge.com/news/648782/life-of-chuck-trailer-tom-hiddleston-dance)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

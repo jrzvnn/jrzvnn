@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [4chan is down after an apparent hack late on April 14; an Imgur post seems to show a hacker gained shell access to 4chan&#39;s hosting server and doxxed some users &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/250415/p17#a250415p17)
- - [4chan’s ‘cesspool of the internet’ is down after apparently being hacked](https://www.theverge.com/news/648908/4chan-hacked-down-outage-leak)
- - [OpenAI is building a social network](https://www.theverge.com/openai/648130/openai-social-network-x-competitor)
- - [Apple about to launch accessory discount with in-store recycling promotion](https://appleinsider.com/articles/25/04/15/apple-about-to-launch-accessory-discount-with-in-store-recycling-promotion?utm_medium=rss)
- - [Best Internet Providers in Hialeah, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-hialeah-fl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [FTC v. Meta: Mark Zuckerberg testified about his acquisitions of Instagram and WhatsApp, including a 2012 email exchange rationalizing the apps&#39; acquisition &lpar;Bloomberg&rpar;](http://www.techmeme.com/250415/p20#a250415p20)
+ - [Tom Hiddleston dances through the new Life of Chuck trailer](https://www.theverge.com/news/648782/life-of-chuck-trailer-tom-hiddleston-dance)
+ - [How to play classic arcade games on your iPhone or iPad](https://appleinsider.com/inside/iphone/tips/how-to-play-classic-arcade-games-on-your-iphone-or-ipad?utm_medium=rss)
+ - [Sources: OpenAI is in the early stages of building its own X-like social network, focused on ChatGPT image generation, and is asking some outsiders for feedback &lpar;The Verge&rpar;](http://www.techmeme.com/250415/p19#a250415p19)
+ - [Stern Pinball’s Brand-New King Kong Game Is Totally Bananas](https://www.wired.com/story/stern-pinball-king-kong-myth-of-terror-island/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [At the request of South Korean regulator, Apple blocked 14 and Google blocked 17 crypto apps, including exchanges KuCoin and MEXC, from their app stores &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/250415/p2#a250415p2)
+ - [How to Watch the Lyrids Meteor Shower](https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/)
  - [Top KitchenAid Promo Codes and Coupons](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
  - [India plans to add 200M-300M UPI users, including via delegated accounts for kids, and pitch UPI abroad; PwC: India makes up ~46% of global digital transactions &lpar;Bloomberg&rpar;](http://www.techmeme.com/250415/p1#a250415p1)
- - [Wayfair Promo Codes &amp; Coupons: 50% Off | April 2025](https://www.wired.com/story/wayfair-coupon/)
- - [Adidas Promo Codes &amp; Deals: 25% Off](https://www.wired.com/story/adidas-promo-code/)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, April 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-april-15/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Wayfair Promo Codes &amp; Coupons: 50% Off | April 2025](https://www.wired.com/story/wayfair-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

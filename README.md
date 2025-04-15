@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The generation of technology in hand , no life skills needed.](http://9gag.com/gag/aW4veZd)
+ - 😝 [Who&#39;s That Pokemon??](http://9gag.com/gag/aO8DA3y)
  - 😝 [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)
- - 💣 [I tried it. It totally works, trust me.](http://9gag.com/gag/aNDVqjA)
- - 😝 [Snow white is somehow even worse than you think](http://9gag.com/gag/aryZd67)
+ - 💣 [Helping Sea Turtles shed some weight](http://9gag.com/gag/avyEDGW)
+ - 😝 [I tried it. It totally works, trust me.](http://9gag.com/gag/aNDVqjA)
  - 👉 [Today, I learned about Scaphism.](http://9gag.com/gag/aKGWp2N)<!-- MEMES:END -->
 
 ---

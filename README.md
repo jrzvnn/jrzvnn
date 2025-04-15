@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He Know&#39;s the vibes](http://9gag.com/gag/a4P5rgv)
+ - 😝 [Did the Dr do that?](http://9gag.com/gag/a0e6xKd)
+ - 😝 [He is proposing to a golden retriever](http://9gag.com/gag/aZZQd5X)
+ - 💣 [Low blow by China](http://9gag.com/gag/avyEDpd)
  - 😝 [Bad grenade toss during police training](http://9gag.com/gag/a9y8DV6)
- - 💣 [Goals....](http://9gag.com/gag/a4P5wmy)
- - 😝 [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)
- - 👉 [Quick reaction](http://9gag.com/gag/a6ZnGbb)<!-- MEMES:END -->
+ - 👉 [Would you help him ?](http://9gag.com/gag/a34ypwr)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [On-device Apple Intelligence training seems to be based on controversial technology](https://appleinsider.com/articles/25/04/14/on-device-apple-intelligence-training-seems-to-be-based-on-controversial-technology?utm_medium=rss)
- - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Data center operator Applied Digital reports Q3 revenue up 22% YoY to $53M, vs. $63M est., as clients delay renewing their leases; APLD drops 13%+ after hours &lpar;Priyanka.G/Reuters&rpar;](http://www.techmeme.com/250414/p34#a250414p34)
- - [OpenAI plans to wind down the availability of GPT-4.5 via its API on July 14, 2025, after launching the model as a research preview on February 27, 2025 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250414/p33#a250414p33)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
+ - [Anker Solix C1000X review: Useful but noisy large power bank](https://appleinsider.com/articles/25/04/15/anker-solix-c1000x-review-useful-but-noisy-large-power-bank?utm_medium=rss)
+ - [AMD announces its first 2nm silicon fabricated on TSMC&#39;s N2 process, set to debut on its 6th-gen EPYC &quot;Venice&quot; chip, which is expected to launch in 2026 &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250414/p36#a250414p36)
+ - [&quot;This Is the Moment&quot; -- Overwatch 2&#39;s New Stadium Mode Is the Biggest Change in 9 Years](https://www.cnet.com/tech/gaming/this-is-the-moment-overwatch-2s-new-stadium-mode-is-the-biggest-change-in-9-years/#ftag=CAD590a51e)
+ - [South Korea increases assistance to semiconductor industry by ~25% to $23.25B amid US tariffs, competition with China; the sector represents 21% of its exports &lpar;Reuters&rpar;](http://www.techmeme.com/250414/p35#a250414p35)
+ - [On-device Apple Intelligence training seems to be based on controversial technology](https://appleinsider.com/articles/25/04/14/on-device-apple-intelligence-training-seems-to-be-based-on-controversial-technology?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

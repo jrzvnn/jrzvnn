@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FCC Chair Brendan Carr says &quot;allied western democracies&quot; need to focus on China and those &quot;concerned about Starlink&quot; should be more fearful of a Chinese version &lpar;Financial Times&rpar;](http://www.techmeme.com/250415/p8#a250415p8)
+ - [There’s AI Inside Windows Paint and Notepad Now. Here’s How to Use It](https://www.wired.com/story/theres-even-ai-inside-windows-paint-and-notepad-now-heres-how-to-use-it/)
+ - [Chinese state media: police in Harbin accuse the NSA of launching &quot;advanced&quot; cyberattacks during the Asian Winter Games in February 2025 and name three agents &lpar;Reuters&rpar;](http://www.techmeme.com/250415/p7#a250415p7)
  - [An interview with eFishery CEO Gibran Huzaifah and 20+ sources detail how Gibran&#39;s &quot;fake-it-till-you-make-it&quot; deceptions spiraled, losing investors $300M+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/250415/p6#a250415p6)
- - [Hertz says hackers stole customer credit card and driver’s license data](https://www.theverge.com/news/648741/hertz-customer-data-breach-hackers-cleo-vulnerability)
- - [Nvidia&#39;s $500B US spending plan follows a familiar pattern of companies trying to please President Trump and offers few details on what AI gear would be US-made &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250415/p5#a250415p5)
- - [Japan&#39;s FTC orders Google to stop alleged abuse of its market power over local smartphone manufacturers, ahead of high-stakes US trade negotiations this week &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/250415/p4#a250415p4)
- - [Don&#39;t Miss Out on APYs Up to 4.50%. Today&#39;s CD Rates, April 15, 2025](https://www.cnet.com/personal-finance/banking/dont-miss-out-on-apys-up-to-4-50-todays-cd-rates-april-15-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hertz says hackers stole customer credit card and driver’s license data](https://www.theverge.com/news/648741/hertz-customer-data-breach-hackers-cleo-vulnerability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

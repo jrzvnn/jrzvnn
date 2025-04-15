@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The friend who jokes at wrong time](http://9gag.com/gag/aByP4WN)
  - 😝 [Why are they doing this?](http://9gag.com/gag/amomRA4)
- - 💣 [Did the Dr do that?](http://9gag.com/gag/a0e6xKd)
- - 😝 [Part of this must have felt really good four him.](http://9gag.com/gag/aQzANXK)
- - 👉 [Low blow by China](http://9gag.com/gag/avyEDpd)<!-- MEMES:END -->
+ - 😝 [Helping Sea Turtles shed some weight](http://9gag.com/gag/avyEDGW)
+ - 💣 [Part of this must have felt really good four him.](http://9gag.com/gag/aQzANXK)
+ - 😝 [Let&#39;s go](http://9gag.com/gag/aqyQdYP)
+ - 👉 [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)<!-- MEMES:END -->
 
 ---
 

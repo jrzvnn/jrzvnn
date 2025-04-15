@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI is adding an image library to ChatGPT to make it easier for users to access their AI-generated images, rolling out to all Free, Plus, and Pro users &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250415/p37#a250415p37)
  - [OpenAI names new nonprofit &amp;#8216;advisors&amp;#8217;](https://www.theverge.com/news/649430/openai-nonprofit-commission-advisors)
  - [Meta says its not a monopoly, claims iMessage is more popular than Facebook Messenger](https://appleinsider.com/articles/25/04/15/meta-says-its-not-a-monopoly-claims-imessage-is-more-popular-than-facebook-messenger?utm_medium=rss)
  - [Google plans to redirect all Search users to google.com over the coming months, saying &quot;country-level domains are no longer necessary&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250415/p36#a250415p36)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Filing: Nvidia says it will record a $5.5B charge after the US said it would require a license to export the H20 chips to China; NVDA drops 6%+ after hours &lpar;CNBC&rpar;](http://www.techmeme.com/250415/p35#a250415p35)<!-- TECH:END -->
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

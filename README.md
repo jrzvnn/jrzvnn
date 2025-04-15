@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let&#39;s go](http://9gag.com/gag/aqyQdYP)
- - 😝 [Did the Dr do that?](http://9gag.com/gag/a0e6xKd)
- - 💣 [Part of this must have felt really good four him.](http://9gag.com/gag/aQzANXK)
- - 😝 [Bwoah its okay.](http://9gag.com/gag/aVvmVnK)
- - 👉 [Goals....](http://9gag.com/gag/a4P5wmy)<!-- MEMES:END -->
+ - 😝 [The friend who jokes at wrong time](http://9gag.com/gag/aByP4WN)
+ - 😝 [Why are they doing this?](http://9gag.com/gag/amomRA4)
+ - 💣 [Did the Dr do that?](http://9gag.com/gag/a0e6xKd)
+ - 😝 [Part of this must have felt really good four him.](http://9gag.com/gag/aQzANXK)
+ - 👉 [Low blow by China](http://9gag.com/gag/avyEDpd)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: TSMC is close to finalizing specs for a new chip packaging method, known in the industry as &quot;panel-level&quot;, to meet rising demand for powerful AI chips &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250414/p38#a250414p38)
- - [How to use Apple Software Restore to clone your Mac&#39;s drive](https://appleinsider.com/inside/macos/tips/how-to-use-apple-software-restore-to-clone-your-macs-drive?utm_medium=rss)
- - [Mark Zuckerberg takes the stand](https://www.theverge.com/policy/648666/mark-zuckerberg-meta-ftc-trial-testimony-instagram)
- - [Science Corp., which was started by Neuralink co-founder Max Hodak to develop a retina and brain implant system, raised over $100M led by Khosla Ventures &lpar;Ike Swetlitz/Bloomberg&rpar;](http://www.techmeme.com/250414/p37#a250414p37)
- - [Anker Solix C1000X review: Useful but noisy large power bank](https://appleinsider.com/articles/25/04/15/anker-solix-c1000x-review-useful-but-noisy-large-power-bank?utm_medium=rss)<!-- TECH:END -->
+ - [India plans to add 200M-300M UPI users, including via delegated accounts for kids, and pitch UPI abroad; PwC: India makes up ~46% of global digital transactions &lpar;Bloomberg&rpar;](http://www.techmeme.com/250415/p1#a250415p1)
+ - [Wayfair Promo Codes &amp; Coupons: 50% Off | April 2025](https://www.wired.com/story/wayfair-coupon/)
+ - [Adidas Promo Codes &amp; Deals: 25% Off](https://www.wired.com/story/adidas-promo-code/)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, April 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-april-15/#ftag=CAD590a51e)
+ - [Sources: TSMC is close to finalizing specs for a new chip packaging method, known in the industry as &quot;panel-level&quot;, to meet rising demand for powerful AI chips &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250414/p38#a250414p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

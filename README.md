@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Physics says they only need 35 km/h &lpar;22 mph&rpar; to stay on the track &lpar;IG:astrokirsten&rpar;](http://9gag.com/gag/aMVnNqA)
- - 😝 [Rosie looks proud](http://9gag.com/gag/a34ypqv)
- - 💣 [Palate Cleanse: This IS Their Job!](http://9gag.com/gag/ajPBMwq)
- - 😝 [I need this](http://9gag.com/gag/aAy4q6R)
- - 👉 [Part of this must have felt really good four him.](http://9gag.com/gag/aQzANXK)<!-- MEMES:END -->
+ - 😝 [I didn\u2019t think offroading looked all that fun until I saw this vidoe.](http://9gag.com/gag/aByPoZx)
+ - 😝 [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)
+ - 💣 [Why are they doing this?](http://9gag.com/gag/amomRA4)
+ - 😝 [Bwoah its okay.](http://9gag.com/gag/aVvmVnK)
+ - 👉 [Goals....](http://9gag.com/gag/a4P5wmy)<!-- MEMES:END -->
 
 ---
 

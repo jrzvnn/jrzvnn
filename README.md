@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US launches semiconductor probe to explain away tariff exemptions](https://appleinsider.com/articles/25/04/15/us-launches-semiconductor-probe-to-explain-away-tariff-exemptions?utm_medium=rss)
+ - [Android phones will soon reboot if they’re locked for a few days](https://www.theverge.com/news/648757/google-android-update-automatic-reboot-phone-locked)
  - [The 7 Best Milk Frothers for Your Home Espresso Setup &lpar;2025&rpar;](https://www.wired.com/gallery/best-milk-frothers/)
  - [UK data-based car insurance startup Marshmallow raised $90M, roughly split 50-50 in equity and debt, at a $2B+ valuation, up from $1.25B in September 2021 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250415/p10#a250415p10)
- - [Polaroid Flip Review: The Best Polaroid For Most People](https://www.wired.com/review/polaroid-flip/)
- - [A New Mexico Man Faces Federal Charges for Allegedly Setting Fire to a Tesla Showroom](https://www.wired.com/story/doj-pam-bondi-federal-indictment-tesla-protest/)
- - [Apple Watch Series 11: What the Rumors Reveal About Apple&#39;s Smartwatch Future](https://www.cnet.com/tech/mobile/apple-watch-series-11-what-the-rumors-reveal-about-apples-smartwatch-future/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Polaroid Flip Review: The Best Polaroid For Most People](https://www.wired.com/review/polaroid-flip/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

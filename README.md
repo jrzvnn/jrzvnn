@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Let&#39;s go](http://9gag.com/gag/aqyQdYP)
  - 😝 [Did the Dr do that?](http://9gag.com/gag/a0e6xKd)
- - 💣 [Why are they doing this?](http://9gag.com/gag/amomRA4)
- - 😝 [Part of this must have felt really good four him.](http://9gag.com/gag/aQzANXK)
- - 👉 [I didn\u2019t think offroading looked all that fun until I saw this vidoe.](http://9gag.com/gag/aByPoZx)<!-- MEMES:END -->
+ - 💣 [Part of this must have felt really good four him.](http://9gag.com/gag/aQzANXK)
+ - 😝 [Bwoah its okay.](http://9gag.com/gag/aVvmVnK)
+ - 👉 [Goals....](http://9gag.com/gag/a4P5wmy)<!-- MEMES:END -->
 
 ---
 

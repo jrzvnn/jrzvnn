@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now you can&#39;t have a hobby either](http://9gag.com/gag/a34ynOm)
- - 😝 [Today, I learned about Scaphism.](http://9gag.com/gag/aKGWp2N)
- - 💣 [I tried it. It totally works, trust me.](http://9gag.com/gag/aNDVqjA)
- - 😝 [Snow white is somehow even worse than you think](http://9gag.com/gag/aryZd67)
- - 👉 [2 years of AI Progress](http://9gag.com/gag/abAWEQE)<!-- MEMES:END -->
+ - 😝 [Women would never know this feeling](http://9gag.com/gag/a4P5mNm)
+ - 😝 [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)
+ - 💣 [This must be a nice neighborhood!](http://9gag.com/gag/ajPB3Lq)
+ - 😝 [Exciting!](http://9gag.com/gag/avyEXRq)
+ - 👉 [When your staircase is more festive than your ornaments](http://9gag.com/gag/aRBz807)<!-- MEMES:END -->
 
 ---
 

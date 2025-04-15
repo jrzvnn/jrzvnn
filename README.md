@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MITRE, the nonprofit research organization behind the CVE program, says the US government funding needed to develop and operate CVE will expire on April 16 &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/250415/p38#a250415p38)
+ - [The student arrested at his naturalization interview knew it was coming](https://www.theverge.com/policy/649427/ice-arrest-mohsen-mahdawi-citizenship-interview-uscis)
  - [OpenAI is adding an image library to ChatGPT to make it easier for users to access their AI-generated images, rolling out to all Free, Plus, and Pro users &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250415/p37#a250415p37)
  - [OpenAI names new nonprofit &amp;#8216;advisors&amp;#8217;](https://www.theverge.com/news/649430/openai-nonprofit-commission-advisors)
- - [Meta says its not a monopoly, claims iMessage is more popular than Facebook Messenger](https://appleinsider.com/articles/25/04/15/meta-says-its-not-a-monopoly-claims-imessage-is-more-popular-than-facebook-messenger?utm_medium=rss)
- - [Google plans to redirect all Search users to google.com over the coming months, saying &quot;country-level domains are no longer necessary&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250415/p36#a250415p36)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
+ - [Meta says its not a monopoly, claims iMessage is more popular than Facebook Messenger](https://appleinsider.com/articles/25/04/15/meta-says-its-not-a-monopoly-claims-imessage-is-more-popular-than-facebook-messenger?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

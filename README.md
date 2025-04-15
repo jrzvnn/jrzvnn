@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who&#39;s That Pokemon??](http://9gag.com/gag/aO8DA3y)
- - 😝 [Today, I learned about Scaphism.](http://9gag.com/gag/aKGWp2N)
- - 💣 [Bad grenade toss during police training](http://9gag.com/gag/a9y8DV6)
+ - 😝 [Guys? is that the... you know... the secs?](http://9gag.com/gag/aByPNoD)
  - 😝 [He Know&#39;s the vibes](http://9gag.com/gag/a4P5rgv)
- - 👉 [I tried it. It totally works, trust me.](http://9gag.com/gag/aNDVqjA)<!-- MEMES:END -->
+ - 💣 [I tried it. It totally works, trust me.](http://9gag.com/gag/aNDVqjA)
+ - 😝 [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)
+ - 👉 [Today, I learned about Scaphism.](http://9gag.com/gag/aKGWp2N)<!-- MEMES:END -->
 
 ---
 

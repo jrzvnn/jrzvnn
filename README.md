@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the US DOD&#39;s Defense Digital Service is effectively shutting down as nearly all staff are resigning, saying they were sidelined by DOGE&#39;s efforts &lpar;Mohar Chatterjee/Politico&rpar;](http://www.techmeme.com/250415/p32#a250415p32)
  - [The CVE program for tracking security flaws is about to lose federal funding](https://www.theverge.com/news/649314/cve-mitre-funding-vulnerabilities-exposures-funding)
  - [Apple about to launch accessory discount with in-store recycling promotion](https://appleinsider.com/articles/25/04/15/apple-about-to-launch-accessory-discount-with-in-store-recycling-promotion?utm_medium=rss)
- - [In the first update to its Preparedness Framework since 2023, OpenAI says it &quot;may adjust&quot; its own safeguards if rival frontier labs release &quot;high-risk&quot; AI &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250415/p31#a250415p31)
- - [Meta’s antitrust trial slide redactions aren’t actually hiding anything](https://www.theverge.com/news/648893/meta-redacted-documents-leak-ftc-antitrust-opening-statement)
- - [A 2018 email from Mark Zuckerberg explored spinning off Instagram; he testified his thinking at the time took into account where politics seemed to be going &lpar;Bloomberg&rpar;](http://www.techmeme.com/250415/p30#a250415p30)<!-- TECH:END -->
+ - [Making Sense of Phone Tariffs: See How Much iPhone Prices Could Rise](https://www.cnet.com/personal-finance/taxes/making-sense-of-phone-tariffs-see-how-much-prices-iphone-prices-could-rise/#ftag=CAD590a51e)
+ - [In the first update to its Preparedness Framework since 2023, OpenAI says it &quot;may adjust&quot; its own safeguards if rival frontier labs release &quot;high-risk&quot; AI &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250415/p31#a250415p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

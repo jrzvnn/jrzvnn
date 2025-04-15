@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Helping Sea Turtles shed some weight](http://9gag.com/gag/avyEDGW)
- - 😝 [Now you can&#39;t have a hobby either](http://9gag.com/gag/a34ynOm)
- - 💣 [Today, I learned about Scaphism.](http://9gag.com/gag/aKGWp2N)
- - 😝 [Wow](http://9gag.com/gag/awyL8yx)
- - 👉 [Snow white is somehow even worse than you think](http://9gag.com/gag/aryZd67)<!-- MEMES:END -->
+ - 😝 [This must be a nice neighborhood!](http://9gag.com/gag/ajPB3Lq)
+ - 😝 [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)
+ - 💣 [Exciting!](http://9gag.com/gag/avyEXRq)
+ - 😝 [When your staircase is more festive than your ornaments](http://9gag.com/gag/aRBz807)
+ - 👉 [First day in my new job. These are my new colleagues](http://9gag.com/gag/aYQPBYO)<!-- MEMES:END -->
 
 ---
 

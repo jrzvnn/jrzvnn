@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Low blow by China](http://9gag.com/gag/avyEDpd)
- - 😝 [He Know&#39;s the vibes](http://9gag.com/gag/a4P5rgv)
+ - 😝 [Part of this must have felt really good four him.](http://9gag.com/gag/aQzANXK)
+ - 😝 [Helping Sea Turtles shed some weight](http://9gag.com/gag/avyEDGW)
  - 💣 [Snow white is somehow even worse than you think](http://9gag.com/gag/aryZd67)
  - 😝 [Who&#39;s That Pokemon??](http://9gag.com/gag/aO8DA3y)
- - 👉 [Part of this must have felt really good four him.](http://9gag.com/gag/aQzANXK)<!-- MEMES:END -->
+ - 👉 [Today, I learned about Scaphism.](http://9gag.com/gag/aKGWp2N)<!-- MEMES:END -->
 
 ---
 

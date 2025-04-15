@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mission accompished](http://9gag.com/gag/ajPBG0w)
- - 😝 [Rosie looks proud](http://9gag.com/gag/a34ypqv)
- - 💣 [Palate Cleanse: This IS Their Job!](http://9gag.com/gag/ajPBMwq)
  - 😝 [Part of this must have felt really good four him.](http://9gag.com/gag/aQzANXK)
- - 👉 [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)<!-- MEMES:END -->
+ - 😝 [I didn\u2019t think offroading looked all that fun until I saw this vidoe.](http://9gag.com/gag/aByPoZx)
+ - 💣 [Why are they doing this?](http://9gag.com/gag/amomRA4)
+ - 😝 [Bad grenade toss during police training](http://9gag.com/gag/a9y8DV6)
+ - 👉 [Would you help him ?](http://9gag.com/gag/a34ypwr)<!-- MEMES:END -->
 
 ---
 

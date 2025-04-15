@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US launches semiconductor probe to explain away tariff exemptions](https://appleinsider.com/articles/25/04/15/us-launches-semiconductor-probe-to-explain-away-tariff-exemptions?utm_medium=rss)
- - [Android phones will soon reboot if they’re locked for a few days](https://www.theverge.com/news/648757/google-android-update-automatic-reboot-phone-locked)
- - [The 7 Best Milk Frothers for Your Home Espresso Setup &lpar;2025&rpar;](https://www.wired.com/gallery/best-milk-frothers/)
- - [UK data-based car insurance startup Marshmallow raised $90M, roughly split 50-50 in equity and debt, at a $2B+ valuation, up from $1.25B in September 2021 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250415/p10#a250415p10)
- - [Polaroid Flip Review: The Best Polaroid For Most People](https://www.wired.com/review/polaroid-flip/)<!-- TECH:END -->
+ - [6 Best Rain Jackets &lpar;2025&rpar;: Cheap, Eco-Friendly, Hiking, and Running](https://www.wired.com/story/best-rain-jackets/)
+ - [5 Things I Love About My Experience With T-Mobile 5G Home Internet &lpar;and a Few Bummers Too&rpar;](https://www.cnet.com/home/internet/my-t-mobile-5g-home-internet-experience/#ftag=CAD590a51e)
+ - [Google rolls out a Play services update, including an Android security feature to auto-reboot phones and tablets that are &quot;locked for three consecutive days&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250415/p11#a250415p11)
+ - [Apple chooses Samsung Display to supply iPhone Fold OLED screens](https://appleinsider.com/articles/25/04/15/apple-chooses-samsung-display-to-supply-iphone-fold-oled-screens?utm_medium=rss)
+ - [13 Best Leggings of 2025, Tested and Reviewed by WIRED](https://www.wired.com/gallery/the-best-leggings/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

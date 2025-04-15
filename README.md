@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark Zuckerberg&#39;s $1B Instagram and $19B WhatsApp deals, central to the FTC&#39;s antitrust case, were mocked at the time, and the trial hinges on hypotheticals &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/250415/p21#a250415p21)
- - [Comcast announces a five-year price lock for Xfinity internet plans](https://www.theverge.com/news/648974/comcast-five-year-price-lock-xfinity-internet)
- - [Google must stop favoring Search and Chrome on Android in Japan](https://www.theverge.com/news/648996/google-antitrust-japan-order-google-search-android-chrome)
- - [FTC v. Meta: Mark Zuckerberg testified about his acquisitions of Instagram and WhatsApp, including a 2012 email exchange rationalizing the apps&#39; acquisition &lpar;Bloomberg&rpar;](http://www.techmeme.com/250415/p20#a250415p20)
- - [Tom Hiddleston dances through the new Life of Chuck trailer](https://www.theverge.com/news/648782/life-of-chuck-trailer-tom-hiddleston-dance)<!-- TECH:END -->
+ - [Google rolls out its text-to-video AI model Veo 2 to Gemini Advanced subscribers and makes its Whisk Animate tool available for Google One AI Premium users &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250415/p22#a250415p22)
+ - [iPhone Fold rumored to cost over $2000](https://appleinsider.com/articles/25/04/15/iphone-fold-rumored-to-cost-over-2000?utm_medium=rss)
+ - [It’s time for Europe to choose between US or Chinese satellite tech, says FCC chair](https://www.theverge.com/news/649052/fcc-brendan-carr-starlink-europe-satellite-internet)
+ - [Anthropic launches research tool and Google Workspace integration](https://www.theverge.com/ai-artificial-intelligence/648595/anthropic-claude-research-google-workplace)
+ - [Google rolls out its AI video generator to Gemini Advanced subscribers](https://www.theverge.com/news/648816/google-veo-2-ai-video-generation-gemini-advanced)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

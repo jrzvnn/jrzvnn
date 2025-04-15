@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Top KitchenAid Promo Codes and Coupons](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
  - [India plans to add 200M-300M UPI users, including via delegated accounts for kids, and pitch UPI abroad; PwC: India makes up ~46% of global digital transactions &lpar;Bloomberg&rpar;](http://www.techmeme.com/250415/p1#a250415p1)
  - [Wayfair Promo Codes &amp; Coupons: 50% Off | April 2025](https://www.wired.com/story/wayfair-coupon/)
  - [Adidas Promo Codes &amp; Deals: 25% Off](https://www.wired.com/story/adidas-promo-code/)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, April 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-april-15/#ftag=CAD590a51e)
- - [Sources: TSMC is close to finalizing specs for a new chip packaging method, known in the industry as &quot;panel-level&quot;, to meet rising demand for powerful AI chips &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250414/p38#a250414p38)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, April 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-april-15/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta’s antitrust trial slide redactions aren’t actually hiding anything](https://www.theverge.com/news/648893/meta-redacted-documents-leak-ftc-antitrust-opening-statement)
+ - [A 2018 email from Mark Zuckerberg explored spinning off Instagram; he testified his thinking at the time took into account where politics seemed to be going &lpar;Bloomberg&rpar;](http://www.techmeme.com/250415/p30#a250415p30)
+ - [A look at the FCC&#39;s &quot;Delete, Delete, Delete&quot; initiative, meant to identify burdensome rules, as ISPs, broadcasters, and others send in deregulation wishlists &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/250415/p29#a250415p29)
  - [Mark Zuckerberg once suggested wiping all Facebook friends lists to boost usage](https://www.theverge.com/news/649246/mark-zuckerberg-facebook-friends-wipe-reset-meta-antitrust-trial)
- - [Blackmagic Design says tariffs have made camera price hikes ‘unavoidable’](https://www.theverge.com/news/649225/blackmagic-design-trump-us-tariffs-price-hike)
- - [How India&#39;s emerging filmmakers use iPhone 16 Pro Max](https://appleinsider.com/articles/25/04/15/how-indias-emerging-filmmakers-use-iphone-16-pro-max?utm_medium=rss)
- - [The valuation of Kavak, a Mexico City-based online used car dealer and LATAM&#39;s most valuable startup, was cut by $6.5B to $2.2B in a $127M equity round in March &lpar;Michael O&#39;Boyle/Bloomberg&rpar;](http://www.techmeme.com/250415/p28#a250415p28)
- - [Suspected 4chan Hack Could Expose Longtime, Anonymous Admins](https://www.wired.com/story/2025-4chan-hack-admin-leak/)<!-- TECH:END -->
+ - [Blackmagic Design says tariffs have made camera price hikes ‘unavoidable’](https://www.theverge.com/news/649225/blackmagic-design-trump-us-tariffs-price-hike)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

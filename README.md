@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now you can&#39;t have a hobby either](http://9gag.com/gag/a34ynOm)
- - 😝 [I tried it. It totally works, trust me.](http://9gag.com/gag/aNDVqjA)
- - 💣 [Wow](http://9gag.com/gag/awyL8yx)
- - 😝 [Recognize these two?](http://9gag.com/gag/a34yD7r)
- - 👉 [Snow white is somehow even worse than you think](http://9gag.com/gag/aryZd67)<!-- MEMES:END -->
+ - 😝 [Women would never know this feeling](http://9gag.com/gag/a4P5mNm)
+ - 😝 [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)
+ - 💣 [Exciting!](http://9gag.com/gag/avyEXRq)
+ - 😝 [This must be a nice neighborhood!](http://9gag.com/gag/ajPB3Lq)
+ - 👉 [When your staircase is more festive than your ornaments](http://9gag.com/gag/aRBz807)<!-- MEMES:END -->
 
 ---
 

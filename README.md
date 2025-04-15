@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why are they doing this?](http://9gag.com/gag/amomRA4)
- - 😝 [Helping Sea Turtles shed some weight](http://9gag.com/gag/avyEDGW)
- - 💣 [Part of this must have felt really good four him.](http://9gag.com/gag/aQzANXK)
- - 😝 [Let&#39;s go](http://9gag.com/gag/aqyQdYP)
- - 👉 [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)<!-- MEMES:END -->
+ - 😝 [Bad grenade toss during police training](http://9gag.com/gag/a9y8DV6)
+ - 😝 [Quick reaction](http://9gag.com/gag/a6ZnGbb)
+ - 💣 [Why are they doing this?](http://9gag.com/gag/amomRA4)
+ - 😝 [Bwoah its okay.](http://9gag.com/gag/aVvmVnK)
+ - 👉 [Low blow by China](http://9gag.com/gag/avyEDpd)<!-- MEMES:END -->
 
 ---
 

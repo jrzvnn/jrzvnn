@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Did the Dr do that?](http://9gag.com/gag/a0e6xKd)
- - 😝 [He is proposing to a golden retriever](http://9gag.com/gag/aZZQd5X)
- - 💣 [Low blow by China](http://9gag.com/gag/avyEDpd)
- - 😝 [Bad grenade toss during police training](http://9gag.com/gag/a9y8DV6)
- - 👉 [Would you help him ?](http://9gag.com/gag/a34ypwr)<!-- MEMES:END -->
+ - 😝 [I tried it. It totally works, trust me.](http://9gag.com/gag/aNDVqjA)
+ - 😝 [Quick reaction](http://9gag.com/gag/a6ZnGbb)
+ - 💣 [Boys vs Girls after 3 Rounds](http://9gag.com/gag/aRBzypj)
+ - 😝 [Let&#39;s go](http://9gag.com/gag/aqyQdYP)
+ - 👉 [Low blow by China](http://9gag.com/gag/avyEDpd)<!-- MEMES:END -->
 
 ---
 

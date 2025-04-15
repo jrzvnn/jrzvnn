@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Would you help him ?](http://9gag.com/gag/a34ypwr)
- - 😝 [Low blow by China](http://9gag.com/gag/avyEDpd)
- - 💣 [Helping Sea Turtles shed some weight](http://9gag.com/gag/avyEDGW)
- - 😝 [Who&#39;s That Pokemon??](http://9gag.com/gag/aO8DA3y)
- - 👉 [Snow white is somehow even worse than you think](http://9gag.com/gag/aryZd67)<!-- MEMES:END -->
+ - 😝 [Recognize these two?](http://9gag.com/gag/a34yD7r)
+ - 😝 [Helping Sea Turtles shed some weight](http://9gag.com/gag/avyEDGW)
+ - 💣 [Wow](http://9gag.com/gag/awyL8yx)
+ - 😝 [Snow white is somehow even worse than you think](http://9gag.com/gag/aryZd67)
+ - 👉 [He didn\u2019t want to kiss me after my 10 man Bukakke, and that hurt](http://9gag.com/gag/avyE4Pq)<!-- MEMES:END -->
 
 ---
 

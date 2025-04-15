@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia&#39;s $500B US spending plan follows a familiar pattern of companies trying to please President Trump and offers few details on what AI gear would be US-made &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250415/p5#a250415p5)
  - [Japan&#39;s FTC orders Google to stop alleged abuse of its market power over local smartphone manufacturers, ahead of high-stakes US trade negotiations this week &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/250415/p4#a250415p4)
- - [Don&#39;t Miss Out on APYs Up to 4.50%. Today&#39;s CD Rates, April 15, 2025](https://www.cnet.com/personal-finance/banking/dont-miss-out-on-apys-up-to-4-50-todays-cd-rates-april-15-2025/#ftag=CAD590a51e)
- - [I Tried ChatGPT Canvas to Make Writing and Coding Easier](https://www.cnet.com/tech/services-and-software/i-tried-chatgpt-canvas-to-make-writing-and-coding-easier/#ftag=CAD590a51e)
- - [What Muscles Do Squats Work? Plus, Personal Trainer Tips for the Best Squat](https://www.cnet.com/health/fitness/what-muscles-squats-work-personal-trainer-tips-best-squat/#ftag=CAD590a51e)
- - [Best Internet Providers in Auburn, Alabama](https://www.cnet.com/home/internet/best-internet-providers-in-auburn-al/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Your Favorite Sex Toy Brand Might Go Under](https://www.wired.com/story/your-favorite-sex-toy-brand-might-go-under/)
+ - [‘We Are Not Programmed to Die,’ Says Nobel Laureate Venki Ramakrishnan](https://www.wired.com/story/we-are-not-programmed-to-die-says-nobel-laureate-venki-ramakrishnan/)
+ - [4 Gut Healing Hacks to Stop Gas &amp; Bloating](https://www.cnet.com/health/medical/4-gut-healing-hacks-to-stop-gas-bloating/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

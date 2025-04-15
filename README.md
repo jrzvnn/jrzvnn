@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [4chan is down after an apparent hack late on April 14; an Imgur post seems to show a hacker gained shell access to 4chan&#39;s hosting server and doxxed some users &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/250415/p17#a250415p17)
  - [4chan’s ‘cesspool of the internet’ is down after apparently being hacked](https://www.theverge.com/news/648908/4chan-hacked-down-outage-leak)
  - [OpenAI is building a social network](https://www.theverge.com/openai/648130/openai-social-network-x-competitor)
  - [Apple about to launch accessory discount with in-store recycling promotion](https://appleinsider.com/articles/25/04/15/apple-about-to-launch-accessory-discount-with-in-store-recycling-promotion?utm_medium=rss)
- - [Best Internet Providers in Hialeah, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-hialeah-fl/#ftag=CAD590a51e)
- - [Cohere debuts Embed 4, its search engine for enterprise AI assistants, now with a 128K context length, better multimodal abilities for complex documents, more &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/250415/p16#a250415p16)<!-- TECH:END -->
+ - [Best Internet Providers in Hialeah, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-hialeah-fl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

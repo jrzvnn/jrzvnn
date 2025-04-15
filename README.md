@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let&#39;s go](http://9gag.com/gag/aqyQdYP)
- - 😝 [Exciting!](http://9gag.com/gag/avyEXRq)
- - 💣 [`Money can&#39;t buy happiness.`](http://9gag.com/gag/agm8dZ6)
- - 😝 [I got you...](http://9gag.com/gag/ae9VP6m)
- - 👉 [Dancing](http://9gag.com/gag/a5QGq3G)<!-- MEMES:END -->
+ - 😝 [Very Effective](http://9gag.com/gag/aryZ8X0)
+ - 😝 [What game is it?](http://9gag.com/gag/a5QGqwO)
+ - 💣 [Would you help him ?](http://9gag.com/gag/a34ypwr)
+ - 😝 [Goals....](http://9gag.com/gag/a4P5wmy)
+ - 👉 [Let&#39;s go](http://9gag.com/gag/aqyQdYP)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump administration decides to fund CVE cybersecurity tracker after all](https://www.theverge.com/news/649835/cve-cybersecurity-program-contract-renewed)
- - [Trump vs. China: How the tariff war has hit Apple so far](https://appleinsider.com/articles/25/04/16/trump-vs-china-how-the-tariff-war-has-hit-apple-so-far?utm_medium=rss)
- - [UBS: Nvidia&#39;s $5.5B inventory charge indicates ~$13B in actual H20 sales; Nvidia reported $17.11B in FY 2025 revenue from China, up from $10.31B in FY 2024 &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/250416/p33#a250416p33)
- - [Apple cuts more than 60% of its global greenhouse gas emissions](https://appleinsider.com/articles/25/04/16/apple-cuts-more-than-60-of-its-global-greenhouse-gas-emissions?utm_medium=rss)
- - [Spotify is down](https://www.theverge.com/news/649632/spotify-is-down-outage-report-uk-us)<!-- TECH:END -->
+ - [Figma tells AI startup to stop using the term ‘Dev Mode’](https://www.theverge.com/news/649851/figma-dev-mode-trademark-loveable-dispute)
+ - [Q&amp;A with Phil Spencer on A Minecraft Movie, potential IP for future movies, Microsoft&#39;s Hollywood goals, Fallout Season 2 and the Minecraft TV series, and more &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/250416/p35#a250416p35)
+ - [DJI’s new drone speaker lets cops yell at you from the sky](https://www.theverge.com/news/649855/dji-drone-speaker-spotlight-zenmuse-jet-engine)
+ - [TikTok is getting its own version of community notes](https://www.theverge.com/news/649828/tiktok-footnotes-community-notes-us-test)
+ - [Mark Zuckerberg says TikTok has been &quot;probably the highest competitive threat for Instagram and Facebook over the last few years&quot;, in his third day of testimony &lpar;New York Times&rpar;](http://www.techmeme.com/250416/p34#a250416p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

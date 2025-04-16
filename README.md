@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple cuts more than 60% of its global greenhouse gas emissions](https://appleinsider.com/articles/25/04/16/apple-cuts-more-than-60-of-its-global-greenhouse-gas-emissions?utm_medium=rss)
- - [Spotify is down](https://www.theverge.com/news/649632/spotify-is-down-outage-report-uk-us)
- - [Spotify is down in the US, Europe, and more; users reported issues from 8:00AM ET, and Spotify says it is &quot;aware of the outage&quot; and it is not &quot;a security hack&quot; &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250416/p32#a250416p32)
+ - [Trump administration decides to fund CVE cybersecurity tracker after all](https://www.theverge.com/news/649835/cve-cybersecurity-program-contract-renewed)
  - [Trump vs. China: How the tariff war has hit Apple so far](https://appleinsider.com/articles/25/04/16/trump-vs-china-how-the-tariff-war-has-hit-apple-so-far?utm_medium=rss)
- - [Documents: ICE awarded Palantir nearly $30M in April 2025 to enhance its Investigative Case Management system, after a $90M, five-year deal in September 2022 &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/250416/p31#a250416p31)<!-- TECH:END -->
+ - [UBS: Nvidia&#39;s $5.5B inventory charge indicates ~$13B in actual H20 sales; Nvidia reported $17.11B in FY 2025 revenue from China, up from $10.31B in FY 2024 &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/250416/p33#a250416p33)
+ - [Apple cuts more than 60% of its global greenhouse gas emissions](https://appleinsider.com/articles/25/04/16/apple-cuts-more-than-60-of-its-global-greenhouse-gas-emissions?utm_medium=rss)
+ - [Spotify is down](https://www.theverge.com/news/649632/spotify-is-down-outage-report-uk-us)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

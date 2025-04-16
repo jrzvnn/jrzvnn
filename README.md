@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Zuckerberg&amp;#8217;s antitrust testimony aired his wildest ideas in Meta&amp;#8217;s history](https://www.theverge.com/policy/649520/zuckerberg-meta-ftc-antitrust-testimony-facebook-history)
+ - [Email: Mark Zuckerberg offered to buy Snapchat for $6B in 2013; Zuckerberg testified that he thought Snapchat &quot;wasn&#39;t growing at the potential that it could&quot; &lpar;Business Insider&rpar;](http://www.techmeme.com/250415/p40#a250415p40)
+ - [Best Internet Providers in Charlotte, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-charlotte-nc/#ftag=CAD590a51e)
  - [Sources: chip industry executives told US officials and lawmakers that Trump&#39;s new tariffs could cost US semiconductor equipment makers more than $1B a year &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/250415/p39#a250415p39)
- - [Skullcandy partners with Bose for its new $99 ANC earbuds](https://www.theverge.com/news/649008/skullcandy-method-360-anc-wireless-earbuds-bose-tuning-bluetooth-headphones)
- - [Mitre, the nonprofit research organization behind the CVE program, says the US government funding needed to develop and operate CVE will expire on April 16 &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/250415/p38#a250415p38)
- - [The student arrested at his naturalization interview knew it was coming](https://www.theverge.com/policy/649427/ice-arrest-mohsen-mahdawi-citizenship-interview-uscis)
- - [OpenAI is adding an image library to ChatGPT to make it easier for users to access their AI-generated images, rolling out to all Free, Plus, and Pro users &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250415/p37#a250415p37)<!-- TECH:END -->
+ - [How to Join Bungie&#39;s Marathon Alpha Test Ahead of Its September Launch](https://www.cnet.com/tech/gaming/how-to-join-bungies-marathon-alpha-test-ahead-of-its-september-launch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

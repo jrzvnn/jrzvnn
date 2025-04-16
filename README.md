@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Strange isn&#39;t it](http://9gag.com/gag/amomQ79)
- - 😝 [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)
- - 💣 [This must be a nice neighborhood!](http://9gag.com/gag/ajPB3Lq)
- - 😝 [Exciting!](http://9gag.com/gag/avyEXRq)
- - 👉 [When your staircase is more festive than your ornaments](http://9gag.com/gag/aRBz807)<!-- MEMES:END -->
+ - 😝 [He Know&#39;s the vibes](http://9gag.com/gag/a4P5rgv)
+ - 😝 [WTF](http://9gag.com/gag/a4P58xZ)
+ - 💣 [Recognize these two?](http://9gag.com/gag/a34yD7r)
+ - 😝 [Wow](http://9gag.com/gag/awyL8yx)
+ - 👉 [The generation of technology in hand , no life skills needed.](http://9gag.com/gag/aW4veZd)<!-- MEMES:END -->
 
 ---
 

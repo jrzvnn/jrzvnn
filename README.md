@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how many layers of protection doctors wear when dealing with highly infectious diseases](http://9gag.com/gag/apRP7d8)
- - 😝 [Maybe maybe maybe](http://9gag.com/gag/a5QGg6O)
- - 💣 [Over a game?](http://9gag.com/gag/a87Dvrp)
- - 😝 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)
- - 👉 [Who&#39;s That Pokemon??](http://9gag.com/gag/aO8DA3y)<!-- MEMES:END -->
+ - 😝 [Fair enough](http://9gag.com/gag/aVvmrn8)
+ - 😝 [Recycling Bottles by Cutting Them in Half to Create Drinking Glasses](http://9gag.com/gag/adBnMvQ)
+ - 💣 [Maybe maybe maybe](http://9gag.com/gag/a5QGg6O)
+ - 😝 [Over a game?](http://9gag.com/gag/a87Dvrp)
+ - 👉 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)<!-- MEMES:END -->
 
 ---
 

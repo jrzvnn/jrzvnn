@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guys? is that the... you know... the secs?](http://9gag.com/gag/aByPNoD)
- - 😝 [He is proposing to a golden retriever](http://9gag.com/gag/aZZQd5X)
- - 💣 [Do you like Korean girls?](http://9gag.com/gag/a34ye1Q)
- - 😝 [Wow](http://9gag.com/gag/awyL8yx)
- - 👉 [I&#39;m with Jesus on this one.](http://9gag.com/gag/aQzADG8)<!-- MEMES:END -->
+ - 😝 [We all know it&#39;s the logo](http://9gag.com/gag/awyLGmW)
+ - 😝 [I&#39;m with Jesus on this one.](http://9gag.com/gag/aQzADG8)
+ - 💣 [Wow](http://9gag.com/gag/awyL8yx)
+ - 😝 [He Know&#39;s the vibes](http://9gag.com/gag/a4P5rgv)
+ - 👉 [Do you like Korean girls?](http://9gag.com/gag/a34ye1Q)<!-- MEMES:END -->
 
 ---
 

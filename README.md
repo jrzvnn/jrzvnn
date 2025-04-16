@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A reclining bronze effigy of the poet Victor Noir. It is rubbed by women who believe it will bring them a partner and fertility.](http://9gag.com/gag/aVvm5X2)
- - 😝 [The generation of technology in hand , no life skills needed.](http://9gag.com/gag/aW4veZd)
- - 💣 [Recycling Bottles by Cutting Them in Half to Create Drinking Glasses](http://9gag.com/gag/adBnMvQ)
+ - 😝 [Man helps save small dog from a large dog](http://9gag.com/gag/avyEqNW)
  - 😝 [Stand up for your rights](http://9gag.com/gag/amomKxd)
- - 👉 [This is how many layers of protection doctors wear when dealing with highly infectious diseases](http://9gag.com/gag/apRP7d8)<!-- MEMES:END -->
+ - 💣 [The day Copper saw his sister for the first time](http://9gag.com/gag/a1m5BXD)
+ - 😝 [A reclining bronze effigy of the poet Victor Noir. It is rubbed by women who believe it will bring them a partner and fertility.](http://9gag.com/gag/aVvm5X2)
+ - 👉 [Over a game?](http://9gag.com/gag/a87Dvrp)<!-- MEMES:END -->
 
 ---
 

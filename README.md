@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [US Secretary of State Marco Rubio confirms the elimination of R/FIMI, an office aimed at tracking and countering foreign disinformation campaigns &lpar;Eileen Guo/MIT Technology Review&rpar;](http://www.techmeme.com/250416/p48#a250416p48)
  - [This ICE-snitching app is actually promoting a meme coin](https://www.theverge.com/tech/650015/iceraid-app-immigrant-bounty-hunting-crypto)
  - [Synology partially drops support for third-party drives in 2025 NAS range](https://appleinsider.com/articles/25/04/16/synology-partially-drops-support-for-third-party-drives-in-2025-nas-range?utm_medium=rss)
- - [‘Stupid and Dangerous’: CISA Funding Chaos Threatens Essential Cybersecurity Program](https://www.wired.com/story/cve-program-cisa-funding-chaos/)<!-- TECH:END -->
+ - [Skullcandy&#39;s New Method 360 ANC Are $100 Bose Earbuds In Disguise](https://www.cnet.com/tech/mobile/skullcandys-new-method-360-anc-are-100-bose-earbuds-in-disguise/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

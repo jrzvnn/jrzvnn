@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hehe](http://9gag.com/gag/aE0oKEo)
- - 😝 [This is how many layers of protection doctors wear when dealing with highly infectious diseases](http://9gag.com/gag/apRP7d8)
- - 💣 [Fair enough](http://9gag.com/gag/aVvmrn8)
+ - 😝 [Be gentle it\u2019s been a while](http://9gag.com/gag/a0e6G0n)
+ - 😝 [Over a game?](http://9gag.com/gag/a87Dvrp)
+ - 💣 [This is how many layers of protection doctors wear when dealing with highly infectious diseases](http://9gag.com/gag/apRP7d8)
  - 😝 [Maybe maybe maybe](http://9gag.com/gag/a5QGg6O)
- - 👉 [When sharing is no longer caring...](http://9gag.com/gag/aAy4LDp)<!-- MEMES:END -->
+ - 👉 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)<!-- MEMES:END -->
 
 ---
 

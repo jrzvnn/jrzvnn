@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A first look at Microsoft’s new Xbox Copilot](https://www.theverge.com/notepad-microsoft-newsletter/649665/microsoft-xbox-copilot-first-look-notepad)
+ - [FTC v. Meta live: Mark Zuckerberg takes the stand](https://www.theverge.com/news/646809/ftc-v-meta-antitrust-monopoly-trial-instagram-whatsapp)
+ - [Microsoft adds a &quot;computer use&quot; tool in Copilot Studio to let AI agents use websites and desktop apps; the feature is designed to detect UI changes dynamically &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250416/p30#a250416p30)
  - [TikTok begins testing Footnotes, a Community Notes-like feature to add &quot;more context&quot; to videos, in the US; Footnotes won&#39;t affect algorithmic ranking &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/250416/p29#a250416p29)
- - [Young People Are Making Up to $36K a Year Renting Their T-Shirts and Speakers](https://www.wired.com/story/young-people-are-making-up-to-dollar36k-a-year-renting-their-t-shirts-and-speakers/)
- - [CISA says it will extend funding to Mitre, which runs the CVE Program, and &quot;there will be no lapse in critical CVE services&quot;, after Mitre said funding expired &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250416/p28#a250416p28)
- - [Get rewarded for recycling with Apple&#39;s 2025 Earth Day offer](https://appleinsider.com/articles/25/04/16/get-rewarded-for-recycling-with-apples-2025-earth-day-offer?utm_medium=rss)
- - [Nvidia GeForce RTX 5060 Ti 16GB review: great value and performance, and GDDR7 offers more bandwidth, but the GPU&#39;s pricing and availability remain uncertain &lpar;Jarred Walton/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250416/p27#a250416p27)<!-- TECH:END -->
+ - [Young People Are Making Up to $36K a Year Renting Their T-Shirts and Speakers](https://www.wired.com/story/young-people-are-making-up-to-dollar36k-a-year-renting-their-t-shirts-and-speakers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

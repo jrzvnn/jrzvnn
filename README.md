@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lowest prices: Grab a MacBook Air for as low as $799](https://appleinsider.com/articles/25/04/16/lowest-prices-grab-a-macbook-air-for-as-low-as-799?utm_medium=rss)
- - [What Is DHGate and Should You Use It?](https://www.wired.com/story/what-is-dhgate-and-should-you-use-it/)
- - [Next Apple Vision headset may use titanium to cut weight](https://appleinsider.com/articles/25/04/16/next-apple-vision-headset-may-use-titanium-to-cut-weight?utm_medium=rss)
- - [Anker’s new UV printer can create fake wood and paint textures on various materials](https://www.theverge.com/news/649760/anker-eufymake-uv-printer-e1-kickstarter)
- - [Figma tells AI startup to stop using the term ‘Dev Mode’](https://www.theverge.com/news/649851/figma-dev-mode-trademark-loveable-dispute)<!-- TECH:END -->
+ - [Amazon’s newest Kindle Scribe has returned to its best price to date](https://www.theverge.com/tech/649820/amazon-kindle-scribe-2025-google-nest-indoor-cam-wired-deal-sale)
+ - [Whisky development ends on macOS to help Wine flourish](https://appleinsider.com/articles/25/04/16/whisky-development-ends-on-macos-to-help-wine-flourish?utm_medium=rss)
+ - [Deezer says ~18% of songs uploaded to the service are AI-generated; 20K AI-generated songs are uploaded daily, nearly twice the number reported four months ago &lpar;Reuters&rpar;](http://www.techmeme.com/250416/p36#a250416p36)
+ - [Lyft gets a toehold in Europe with FreeNow acquisition](https://www.theverge.com/news/649772/lyft-freenow-acquisition-taxi-bmw-mercedes)
+ - [Meet The AI Agent With Multiple Personalities](https://www.wired.com/story/simular-ai-agent-multiple-models-personalities/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

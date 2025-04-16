@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Over a game?](http://9gag.com/gag/a87Dvrp)
- - 😝 [Be gentle it\u2019s been a while](http://9gag.com/gag/a0e6G0n)
- - 💣 [Maybe maybe maybe](http://9gag.com/gag/a5QGg6O)
- - 😝 [When sharing is no longer caring...](http://9gag.com/gag/aAy4LDp)
- - 👉 [Man helps save small dog from a large dog](http://9gag.com/gag/avyEqNW)<!-- MEMES:END -->
+ - 😝 [...](http://9gag.com/gag/agm89Mn)
+ - 😝 [Life is like Chess](http://9gag.com/gag/aYQP5Qm)
+ - 💣 [This is Money Cat, upvoting does nothing for you and he evades Taxes](http://9gag.com/gag/aW4vyDx)
+ - 😝 [Little dude is going places](http://9gag.com/gag/aAy45PZ)
+ - 👉 [What&#39;s your addiction? Pretty sure you have one](http://9gag.com/gag/ae9VBYb)<!-- MEMES:END -->
 
 ---
 

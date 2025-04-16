@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DOGE Cuts Pull AmeriCorps Volunteers Off of Disaster Relief Jobs](https://www.wired.com/story/doge-cuts-americorps-volunteers-disaster-relief-jobs/)
  - [Zoom is coming back following a major outage](https://www.theverge.com/news/650123/zoom-down-outage-video-calls)
  - [Former CISA Director Chris Krebs says he is resigning from SentinelOne to more freely challenge the White House, after Trump directed the DOJ to investigate him &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250416/p49#a250416p49)
  - [US Secretary of State Marco Rubio confirms the elimination of R/FIMI, an office aimed at tracking and countering foreign disinformation campaigns &lpar;Eileen Guo/MIT Technology Review&rpar;](http://www.techmeme.com/250416/p48#a250416p48)
- - [This ICE-snitching app is actually promoting a meme coin](https://www.theverge.com/tech/650015/iceraid-app-immigrant-bounty-hunting-crypto)
- - [Synology partially drops support for third-party drives in 2025 NAS range](https://appleinsider.com/articles/25/04/16/synology-partially-drops-support-for-third-party-drives-in-2025-nas-range?utm_medium=rss)<!-- TECH:END -->
+ - [This ICE-snitching app is actually promoting a meme coin](https://www.theverge.com/tech/650015/iceraid-app-immigrant-bounty-hunting-crypto)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

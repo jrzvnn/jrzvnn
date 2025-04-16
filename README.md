@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple says it has reduced its global greenhouse gas emissions by over 60% vs. 2015 levels as part of its commitment to reach full carbon neutrality by 2030 &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/250416/p37#a250416p37)
- - [Amazon’s newest Kindle Scribe has returned to its best price to date](https://www.theverge.com/tech/649820/amazon-kindle-scribe-2025-google-nest-indoor-cam-wired-deal-sale)
- - [Whisky development ends on macOS to help Wine flourish](https://appleinsider.com/articles/25/04/16/whisky-development-ends-on-macos-to-help-wine-flourish?utm_medium=rss)
- - [Deezer says ~18% of songs uploaded to the service are AI-generated; 20K AI-generated songs are uploaded daily, nearly twice the number reported four months ago &lpar;Reuters&rpar;](http://www.techmeme.com/250416/p36#a250416p36)
- - [Lyft gets a toehold in Europe with FreeNow acquisition](https://www.theverge.com/news/649772/lyft-freenow-acquisition-taxi-bmw-mercedes)<!-- TECH:END -->
+ - [OpenAI debuts Codex CLI, an open-source coding agent tool for terminals that links AI models with local code and computing tasks, like moving files &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250416/p39#a250416p39)
+ - [OpenAI launches o3, its most advanced reasoning model, and o4-mini, a lower cost alternative that still delivers &quot;impressive results&quot;, for ChatGPT paid users &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/250416/p38#a250416p38)
+ - [Xbox will soon let you purchase games in its mobile app](https://www.theverge.com/news/649958/xbox-purchase-games-mobile-app-launch)
+ - [How to set up Do Not Disturb modes on your Android phone](https://www.theverge.com/how-to/649276/do-not-disturb-android-galaxy-how-to)
+ - [OpenAI’s upgraded o3 model can use images when reasoning](https://www.theverge.com/news/649941/openai-o3-o4-mini-model-images-reasoning)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

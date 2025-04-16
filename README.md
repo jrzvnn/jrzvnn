@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [15 Best Outdoor Security Cameras &lpar;2025&rpar;: Battery-Powered, LTE, No Subscription](https://www.wired.com/gallery/best-outdoor-security-cameras/)
- - [Lyft acquires Hamburg-based taxi app FreeNow from BMW and Mercedes-Benz for €175M and says the combined operations will serve 50M+ riders annually &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250416/p22#a250416p22)
- - [13 Best Beauty Box Subscriptions, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-beauty-subscription-boxes/)
- - [Nvidia’s latest GPU drivers fix lots of bugs and crashes](https://www.theverge.com/news/649599/nvidia-driver-576-02-bug-fixes-crashes-download-game-ready)
- - [In pursuit of a viral, five-year-old compact camera](https://www.theverge.com/tech/649145/canon-powershot-g7x-iii-tiktok-how-to-buy)<!-- TECH:END -->
+ - [Medicare broker Chapter, which was co-founded by Vivek Ramaswamy and uses AI to aggregate comprehensive plan data, raised $75M at a $1.5B valuation &lpar;Max Chafkin/Bloomberg&rpar;](http://www.techmeme.com/250416/p24#a250416p24)
+ - [Aura Aspen Review &lpar;2025&rpar;: Made for Vertical](https://www.wired.com/review/aura-aspen-review/)
+ - [Back Market and iFixit Want You to Use Your Phone for at Least 5 Years](https://www.wired.com/story/back-market-ifixit-partnership-repair/)
+ - [PNY GeForce RTX 5060 Ti OC Review: High-Definition Gaming](https://www.wired.com/review/pny-geforce-rtx-5060-ti-oc/)
+ - [Patreon is getting livestreaming](https://www.theverge.com/news/649180/patreon-livestreaming-video-twitch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

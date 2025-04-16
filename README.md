@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Be gentle it\u2019s been a while](http://9gag.com/gag/a0e6G0n)
- - 😝 [We\u2019ll just sell beef to the country that worships cows!](http://9gag.com/gag/aZZQoZ3)
- - 💣 [I&#39;m with Jesus on this one.](http://9gag.com/gag/aQzADG8)
- - 😝 [Who&#39;s That Pokemon??](http://9gag.com/gag/aO8DA3y)
- - 👉 [Wow](http://9gag.com/gag/awyL8yx)<!-- MEMES:END -->
+ - 😝 [Guys? is that the... you know... the secs?](http://9gag.com/gag/aByPNoD)
+ - 😝 [He is proposing to a golden retriever](http://9gag.com/gag/aZZQd5X)
+ - 💣 [Do you like Korean girls?](http://9gag.com/gag/a34ye1Q)
+ - 😝 [Wow](http://9gag.com/gag/awyL8yx)
+ - 👉 [I&#39;m with Jesus on this one.](http://9gag.com/gag/aQzADG8)<!-- MEMES:END -->
 
 ---
 

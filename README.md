@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He didn\u2019t want to kiss me after my 10 man Bukakke, and that hurt](http://9gag.com/gag/avyE4Pq)
- - 😝 [Maybe maybe maybe](http://9gag.com/gag/a5QGg6O)
- - 💣 [Dude captures the take-off speed of an airplane](http://9gag.com/gag/a2vyAVe)
- - 😝 [Man helps save small dog from a large dog](http://9gag.com/gag/avyEqNW)
- - 👉 [The day Copper saw his sister for the first time](http://9gag.com/gag/a1m5BXD)<!-- MEMES:END -->
+ - 😝 [Do you like Korean girls?](http://9gag.com/gag/a34ye1Q)
+ - 😝 [Over a game?](http://9gag.com/gag/a87Dvrp)
+ - 💣 [This is how many layers of protection doctors wear when dealing with highly infectious diseases](http://9gag.com/gag/apRP7d8)
+ - 😝 [The day Copper saw his sister for the first time](http://9gag.com/gag/a1m5BXD)
+ - 👉 [He didn\u2019t want to kiss me after my 10 man Bukakke, and that hurt](http://9gag.com/gag/avyE4Pq)<!-- MEMES:END -->
 
 ---
 

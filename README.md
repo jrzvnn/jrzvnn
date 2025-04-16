@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lowest prices: Grab a MacBook Air for as low as $799](https://appleinsider.com/articles/25/04/16/lowest-prices-grab-a-macbook-air-for-as-low-as-799?utm_medium=rss)
+ - [What Is DHGate and Should You Use It?](https://www.wired.com/story/what-is-dhgate-and-should-you-use-it/)
  - [Next Apple Vision headset may use titanium to cut weight](https://appleinsider.com/articles/25/04/16/next-apple-vision-headset-may-use-titanium-to-cut-weight?utm_medium=rss)
  - [Anker’s new UV printer can create fake wood and paint textures on various materials](https://www.theverge.com/news/649760/anker-eufymake-uv-printer-e1-kickstarter)
- - [Poker Face’s latest trailer will leave you guessing whodunnit.](https://www.theverge.com/trailers/649899/poker-face-season-2-whodunnit)
- - [Figma tells AI startup to stop using the term ‘Dev Mode’](https://www.theverge.com/news/649851/figma-dev-mode-trademark-loveable-dispute)
- - [Q&amp;A with Phil Spencer on A Minecraft Movie, potential IP for future movies, Microsoft&#39;s Hollywood goals, Fallout Season 2 and the Minecraft TV series, and more &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/250416/p35#a250416p35)<!-- TECH:END -->
+ - [Figma tells AI startup to stop using the term ‘Dev Mode’](https://www.theverge.com/news/649851/figma-dev-mode-trademark-loveable-dispute)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

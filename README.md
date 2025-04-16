@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at India&#39;s efforts to catch up in the AI race, as the government reviews 67 bids from startups and research labs seeking funding for domestic AI models &lpar;Krishn Kaushik/Financial Times&rpar;](http://www.techmeme.com/250416/p3#a250416p3)
- - [Best Internet Providers in Maury, Tennessee](https://www.cnet.com/home/internet/best-internet-providers-in-maury-tn/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, April 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-april-16/#ftag=CAD590a51e)
- - [Indian food delivery and quick commerce platform Swiggy launches Pyng, an online marketplace to let users find verified professionals like financial advisors &lpar;Debaroti Adhikary/Moneycontrol&rpar;](http://www.techmeme.com/250416/p2#a250416p2)
- - [Goldman Sachs Alternatives acquires India-based HR SaaS company PeopleStrong from Multiples PE, sources say for $130M; Tracxn: Multiples PE held an 84.3% stake &lpar;Pranav Mukul/The Economic Times&rpar;](http://www.techmeme.com/250416/p1#a250416p1)<!-- TECH:END -->
+ - [BougeRV’s electric wagon isn’t afraid of hills](https://www.theverge.com/reviews/648903/bougerv-wagon-cart-review-hill-price-sand)
+ - [Experts say Chinese investors would be wary of backing AI startups building foundation models; PitchBook: in Q1, AI/ML VC funding in China fell 30% YoY to $1.2B &lpar;Rest of World&rpar;](http://www.techmeme.com/250416/p6#a250416p6)
+ - [Analysis: stablecoins&#39; market value rose ~4.5% from the end of February to a new high of ~$234B in April, as crypto traders sat out the market volatility &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/250416/p5#a250416p5)
+ - [Trump&#39;s planned tariffs on chip imports risk upending a global supply chain and could lead to oversupply as the US and other countries seek domestic production &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250416/p4#a250416p4)
+ - [A look at India&#39;s efforts to catch up in the AI race, as the government reviews 67 bids from startups and research labs seeking funding for domestic AI models &lpar;Krishn Kaushik/Financial Times&rpar;](http://www.techmeme.com/250416/p3#a250416p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

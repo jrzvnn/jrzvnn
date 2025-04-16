@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [FTC v. Meta: Mark Zuckerberg says he considers TikTok the &quot;highest competitive threat&quot; for Facebook and Instagram in the past few years &lpar;Julia Shapero/The Hill&rpar;](http://www.techmeme.com/250416/p52#a250416p52)
  - [Gemini Live’s screensharing feature is now free for Android users](https://www.theverge.com/news/650285/google-gemini-live-screensharing-camera-feature-android-free)
  - [The US House opens a probe on whether Nvidia knowingly provided AI tech to DeepSeek in violation of US rules and asks Nvidia for details on its Asian customers &lpar;New York Times&rpar;](http://www.techmeme.com/250416/p51#a250416p51)
- - [Marco Rubio Kills State Department Anti-Propaganda Shop, Promises ‘Twitter Files’ Sequel](https://www.wired.com/story/global-engagement-center-rubio-propaganda-disinformation-twitter-files/)
- - [Microsoft Copilot can now &amp;#8216;see&amp;#8217; what&amp;#8217;s on your screen in Edge](https://www.theverge.com/news/650259/microsoft-copilot-can-now-see-whats-on-your-screen-in-edge)<!-- TECH:END -->
+ - [You&#39;ll Be Able to Buy Games and More From the Xbox Mobile App Soon](https://www.cnet.com/tech/services-and-software/youll-be-able-to-buy-games-and-more-from-the-xbox-mobile-app-soon/#ftag=CAD590a51e)
+ - [Marco Rubio Kills State Department Anti-Propaganda Shop, Promises ‘Twitter Files’ Sequel](https://www.wired.com/story/global-engagement-center-rubio-propaganda-disinformation-twitter-files/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

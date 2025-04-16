@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Data orchestration startup Hammerspace, which counts Nvidia, Meta, Tesla, Palantir, and the DOD as clients, raised $100M, sources say at a $500M+ valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250416/p21#a250416p21)
- - [8 Best Beard Trimmers &lpar;2025&rpar;: Full Beards, Hair, Stubble](https://www.wired.com/gallery/best-beard-trimmers/)
- - [7 Best Vitamins and Natural Supplements for the Best Sleep](https://www.cnet.com/health/sleep/best-vitamins-and-supplements-for-sleep/#ftag=CAD590a51e)
- - [CVE Board members launch the CVE Foundation, a dedicated, non-profit to continue identifying vulnerabilities, after the US ended its contract with Mitre &lpar;CVE Foundation&rpar;](http://www.techmeme.com/250416/p20#a250416p20)
- - [We Spoke With Eye Experts: These 13 Habits Are Secretly Hurting Your Eyes](https://www.cnet.com/health/personal-care/we-spoke-with-experts-these-13-daily-habits-are-hurting-your-eye-health/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [15 Best Outdoor Security Cameras &lpar;2025&rpar;: Battery-Powered, LTE, No Subscription](https://www.wired.com/gallery/best-outdoor-security-cameras/)
+ - [Lyft acquires Hamburg-based taxi app FreeNow from BMW and Mercedes-Benz for €175M and says the combined operations will serve 50M+ riders annually &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250416/p22#a250416p22)
+ - [13 Best Beauty Box Subscriptions, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-beauty-subscription-boxes/)
+ - [Nvidia’s latest GPU drivers fix lots of bugs and crashes](https://www.theverge.com/news/649599/nvidia-driver-576-02-bug-fixes-crashes-download-game-ready)
+ - [In pursuit of a viral, five-year-old compact camera](https://www.theverge.com/tech/649145/canon-powershot-g7x-iii-tiktok-how-to-buy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

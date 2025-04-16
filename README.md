@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [xAI unveils Grok Studio, a canvas-like tool for its Grok chatbot that can generate and edit documents, run code like Python and JavaScript, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250415/p44#a250415p44)
+ - [São Paulo-based Onfly, which offers a corporate travel and expense management service, raised a $40M Series B led by Tidemark to expand further into LATAM &lpar;Justin Dawes/Skift&rpar;](http://www.techmeme.com/250415/p43#a250415p43)
+ - [&#39;Daredevil: Born Again&#39; Season Finale: Ending and Post-Credits Scene Explained](https://www.cnet.com/tech/services-and-software/daredevil-born-again-season-finale-ending-and-post-credits-scene-explained/#ftag=CAD590a51e)
  - [OKX relaunches in the US and unveils a new crypto wallet for users, two months after a $500M DOJ settlement over insufficient anti-money laundering processes &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250415/p42#a250415p42)
- - [PitchBook: US startups raised $91.5B in Q1 2025, up 116% YoY, while the number of deals fell 25% YoY to 3,003, as more money went into fewer very large rounds &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/250415/p41#a250415p41)
- - [Zuckerberg&amp;#8217;s antitrust testimony aired his wildest ideas in Meta&amp;#8217;s history](https://www.theverge.com/policy/649520/zuckerberg-meta-ftc-antitrust-testimony-facebook-history)
- - [Email: Mark Zuckerberg offered to buy Snapchat for $6B in 2013; Zuckerberg testified that he thought Snapchat &quot;wasn&#39;t growing at the potential that it could&quot; &lpar;Business Insider&rpar;](http://www.techmeme.com/250415/p40#a250415p40)
- - [Best Internet Providers in Charlotte, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-charlotte-nc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PitchBook: US startups raised $91.5B in Q1 2025, up 116% YoY, while the number of deals fell 25% YoY to 3,003, as more money went into fewer very large rounds &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/250415/p41#a250415p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

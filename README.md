@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Be gentle it\u2019s been a while](http://9gag.com/gag/a0e6G0n)
- - 😝 [Would you help him ?](http://9gag.com/gag/a34ypwr)
- - 💣 [Low blow by China](http://9gag.com/gag/avyEDpd)
+ - 😝 [We\u2019ll just sell beef to the country that worships cows!](http://9gag.com/gag/aZZQoZ3)
+ - 💣 [I&#39;m with Jesus on this one.](http://9gag.com/gag/aQzADG8)
  - 😝 [Who&#39;s That Pokemon??](http://9gag.com/gag/aO8DA3y)
- - 👉 [He didn\u2019t want to kiss me after my 10 man Bukakke, and that hurt](http://9gag.com/gag/avyE4Pq)<!-- MEMES:END -->
+ - 👉 [Wow](http://9gag.com/gag/awyL8yx)<!-- MEMES:END -->
 
 ---
 

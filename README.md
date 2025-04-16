@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Online risks will escalate as the global security vulnerability database gets defunded](https://appleinsider.com/articles/25/04/16/online-risks-will-escalate-as-the-global-security-vulnerability-database-gets-defunded?utm_medium=rss)
- - [SEC filing: AMD estimates new US export rules for its MI308 chips to China will cost ~$800M in inventory, purchase commitments, and related reserves charges &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250416/p26#a250416p26)
- - [Nintendo Switch 2 Backward Compatibility: What You Need to Know](https://www.wired.com/story/nintendo-switch-2-backward-compatibility/)
- - [Patreon plans to test livestreaming within its mobile app and on the web with select users this week ahead of a wider rollout in summer 2025 &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250416/p25#a250416p25)
- - [Medicare broker Chapter, which was co-founded by Vivek Ramaswamy and uses AI to aggregate comprehensive plan data, raised $75M at a $1.5B valuation &lpar;Max Chafkin/Bloomberg&rpar;](http://www.techmeme.com/250416/p24#a250416p24)<!-- TECH:END -->
+ - [Get rewarded for recycling with Apple&#39;s 2025 Earth Day offer](https://appleinsider.com/articles/25/04/16/get-rewarded-for-recycling-with-apples-2025-earth-day-offer?utm_medium=rss)
+ - [Nvidia GeForce RTX 5060 Ti 16GB review: great value and performance, and GDDR7 offers more bandwidth, but the GPU&#39;s pricing and availability remain uncertain &lpar;Jarred Walton/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250416/p27#a250416p27)
+ - [Every Intel Mac mini is now obsolete or vintage, and will be missed](https://appleinsider.com/articles/25/04/16/every-intel-mac-mini-is-now-obsolete-or-vintage-and-will-be-missed?utm_medium=rss)
+ - [Spotify is down](https://www.theverge.com/news/649632/spotify-is-down-outage-report-uk-us)
+ - [Online risks will escalate as the global security vulnerability database gets defunded](https://appleinsider.com/articles/25/04/16/online-risks-will-escalate-as-the-global-security-vulnerability-database-gets-defunded?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

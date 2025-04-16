@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guys? is that the... you know... the secs?](http://9gag.com/gag/aByPNoD)
- - 😝 [Binturong, Southeast Asia and Northeast India.](http://9gag.com/gag/azxGoVx)
- - 💣 [Recycling Bottles by Cutting Them in Half to Create Drinking Glasses](http://9gag.com/gag/adBnMvQ)
- - 😝 [When sharing is no longer caring...](http://9gag.com/gag/aAy4LDp)
+ - 😝 [Stand up for your rights](http://9gag.com/gag/amomKxd)
+ - 😝 [WTF](http://9gag.com/gag/a4P58xZ)
+ - 💣 [He didn\u2019t want to kiss me after my 10 man Bukakke, and that hurt](http://9gag.com/gag/avyE4Pq)
+ - 😝 [Dude captures the take-off speed of an airplane](http://9gag.com/gag/a2vyAVe)
  - 👉 [Over a game?](http://9gag.com/gag/a87Dvrp)<!-- MEMES:END -->
 
 ---

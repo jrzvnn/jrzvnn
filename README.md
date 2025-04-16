@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The &amp;#8216;Oscars of Science&amp;#8217; can&amp;#8217;t take a Trump joke](https://www.theverge.com/news/649558/breakthrough-prize-seth-rogan-trump-joke-removed)
  - [In a notice last week, China said it would exempt advanced chips from its US tariffs; experts say the move shows China won&#39;t let a trade war impact chip supply &lpar;Meaghan Tobin/New York Times&rpar;](http://www.techmeme.com/250416/p17#a250416p17)
  - [River: China&#39;s local governments held 15,000 bitcoin worth $1.4B at the end of 2024, the world&#39;s 14th biggest holder, sparking a debate on how to handle it &lpar;Reuters&rpar;](http://www.techmeme.com/250416/p16#a250416p16)
- - [FOI documents: Australian Communications Minister Michelle Rowland gave a personal guarantee to YouTube that it would be exempt from a teen social media ban &lpar;Angus Whitley/Bloomberg&rpar;](http://www.techmeme.com/250416/p15#a250416p15)<!-- TECH:END -->
+ - [The 6 Best White Noise Machines to Help You Sleep in 2025](https://www.cnet.com/health/sleep/best-white-noise-machines/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [He didn\u2019t want to kiss me after my 10 man Bukakke, and that hurt](http://9gag.com/gag/avyE4Pq)
+ - 😝 [Maybe maybe maybe](http://9gag.com/gag/a5QGg6O)
+ - 💣 [Dude captures the take-off speed of an airplane](http://9gag.com/gag/a2vyAVe)
  - 😝 [Man helps save small dog from a large dog](http://9gag.com/gag/avyEqNW)
- - 😝 [Stand up for your rights](http://9gag.com/gag/amomKxd)
- - 💣 [The day Copper saw his sister for the first time](http://9gag.com/gag/a1m5BXD)
- - 😝 [A reclining bronze effigy of the poet Victor Noir. It is rubbed by women who believe it will bring them a partner and fertility.](http://9gag.com/gag/aVvm5X2)
- - 👉 [Over a game?](http://9gag.com/gag/a87Dvrp)<!-- MEMES:END -->
+ - 👉 [The day Copper saw his sister for the first time](http://9gag.com/gag/a1m5BXD)<!-- MEMES:END -->
 
 ---
 

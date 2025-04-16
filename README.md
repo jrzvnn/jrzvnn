@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Microsoft Copilot can now &amp;#8216;see&amp;#8217; what&amp;#8217;s on your screen in Edge](https://www.theverge.com/news/650259/microsoft-copilot-can-now-see-whats-on-your-screen-in-edge)
  - [Tech stocks plunge amid uncertainty over US tariff plans and China export controls: AMD, Nvidia, and ASML dropped 7%, Applied Materials and Lam Research fell 5% &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250416/p50#a250416p50)
- - [DOGE Cuts Pull AmeriCorps Volunteers Off of Disaster Relief Jobs](https://www.wired.com/story/doge-cuts-americorps-volunteers-disaster-relief-jobs/)
- - [Zoom is back following a major outage](https://www.theverge.com/news/650123/zoom-down-outage-video-calls)
- - [Former CISA Director Chris Krebs says he is resigning from SentinelOne to more freely challenge the White House, after Trump directed the DOJ to investigate him &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250416/p49#a250416p49)<!-- TECH:END -->
+ - [Tariffs Are Doing Strange Things to Mortgage Rates. What Homebuyers Need to Know](https://www.cnet.com/personal-finance/mortgages/tariffs-are-doing-strange-things-to-mortgage-rates-what-homebuyers-need-to-know/#ftag=CAD590a51e)
+ - [Aurora Borealis Might Be Visible in the Far North Skies Tonight](https://www.cnet.com/science/space/aurora-borealis-might-be-visible-in-the-far-north-skies-tonight/#ftag=CAD590a51e)
+ - [DOGE Cuts Pull AmeriCorps Volunteers Off of Disaster Relief Jobs](https://www.wired.com/story/doge-cuts-americorps-volunteers-disaster-relief-jobs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

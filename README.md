@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fair enough](http://9gag.com/gag/aVvmrn8)
  - 😝 [Recycling Bottles by Cutting Them in Half to Create Drinking Glasses](http://9gag.com/gag/adBnMvQ)
- - 💣 [Maybe maybe maybe](http://9gag.com/gag/a5QGg6O)
  - 😝 [Over a game?](http://9gag.com/gag/a87Dvrp)
+ - 💣 [When sharing is no longer caring...](http://9gag.com/gag/aAy4LDp)
+ - 😝 [Maybe maybe maybe](http://9gag.com/gag/a5QGg6O)
  - 👉 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)<!-- MEMES:END -->
 
 ---

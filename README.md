@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hehe](http://9gag.com/gag/aE0oKEo)
- - 😝 [Life is like Chess](http://9gag.com/gag/aYQP5Qm)
- - 💣 [First day in my new job. These are my new colleagues](http://9gag.com/gag/aYQPBYO)
- - 😝 [Who knew books could break out of jail?](http://9gag.com/gag/an7vZ5b)
- - 👉 [Strange isn&#39;t it](http://9gag.com/gag/amomQ79)<!-- MEMES:END -->
+ - 😝 [A reclining bronze effigy of the poet Victor Noir. It is rubbed by women who believe it will bring them a partner and fertility.](http://9gag.com/gag/aVvm5X2)
+ - 😝 [The generation of technology in hand , no life skills needed.](http://9gag.com/gag/aW4veZd)
+ - 💣 [Recycling Bottles by Cutting Them in Half to Create Drinking Glasses](http://9gag.com/gag/adBnMvQ)
+ - 😝 [Stand up for your rights](http://9gag.com/gag/amomKxd)
+ - 👉 [This is how many layers of protection doctors wear when dealing with highly infectious diseases](http://9gag.com/gag/apRP7d8)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He Know&#39;s the vibes](http://9gag.com/gag/a4P5rgv)
+ - 😝 [We\u2019ll just sell beef to the country that worships cows!](http://9gag.com/gag/aZZQoZ3)
  - 😝 [WTF](http://9gag.com/gag/a4P58xZ)
- - 💣 [Recognize these two?](http://9gag.com/gag/a34yD7r)
- - 😝 [Wow](http://9gag.com/gag/awyL8yx)
+ - 💣 [Wow](http://9gag.com/gag/awyL8yx)
+ - 😝 [Would you help him ?](http://9gag.com/gag/a34ypwr)
  - 👉 [The generation of technology in hand , no life skills needed.](http://9gag.com/gag/aW4veZd)<!-- MEMES:END -->
 
 ---

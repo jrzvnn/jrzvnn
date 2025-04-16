@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI debuts Codex CLI, an open-source coding agent tool for terminals that links AI models with local code and computing tasks, like moving files &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250416/p39#a250416p39)
- - [OpenAI launches o3, its most advanced reasoning model, and o4-mini, a lower cost alternative that still delivers &quot;impressive results&quot;, for ChatGPT paid users &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/250416/p38#a250416p38)
- - [Xbox will soon let you purchase games in its mobile app](https://www.theverge.com/news/649958/xbox-purchase-games-mobile-app-launch)
- - [How to set up Do Not Disturb modes on your Android phone](https://www.theverge.com/how-to/649276/do-not-disturb-android-galaxy-how-to)
- - [OpenAI’s upgraded o3 model can use images when reasoning](https://www.theverge.com/news/649941/openai-o3-o4-mini-model-images-reasoning)<!-- TECH:END -->
+ - [OpenAI says o3 and o4-mini are its first reasoning models that can use all ChatGPT tools, including web browsing, Python, and image generation &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250416/p41#a250416p41)
+ - [Apple releases security updates for iOS 18.4.1, macOS Sequoia 15.4.1](https://appleinsider.com/articles/25/04/16/apple-releases-security-updates-for-ios-1841-macos-sequoia-1541?utm_medium=rss)
+ - [OpenAI says o3 and o4-mini represent a significant breakthrough in visual perception by reasoning with images in their chain of thought &lpar;OpenAI&rpar;](http://www.techmeme.com/250416/p40#a250416p40)
+ - [Will Meta Really Have to Sell Instagram and WhatsApp?](https://www.wired.com/story/uncanny-valley-podcast-ftc-meta-trial-instagram-whatsapp/)
+ - [OpenAI debuts Codex CLI, an open-source coding agent tool for terminals that links AI models with local code and computing tasks, like moving files &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250416/p39#a250416p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

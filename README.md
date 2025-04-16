@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s carbon footprint is shrinking](https://www.theverge.com/news/650082/apple-environmental-progress-report-greenhouse-gas-emissions-climate-energy)
  - [Indian EV ride-hailing startup BluSmart appears to have suspended service a day after regulators launched a probe into Gensol, which shares its co-founders &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250416/p47#a250416p47)
  - [Zoom is down](https://www.theverge.com/news/650123/zoom-down-outage-video-calls)
  - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
- - [Sensor Tower: Temu and Shein cut their ad spending on platforms including Meta and X an average of 31% and 19%, respectively, so far in April, compared to March &lpar;Financial Times&rpar;](http://www.techmeme.com/250416/p46#a250416p46)
- - [Don&#39;t wait to update: iOS 18.4.1 addresses two actively exploited vulnerabilities](https://appleinsider.com/articles/25/04/16/dont-wait-to-update-ios-1841-addresses-two-actively-exploited-vulnerabilities?utm_medium=rss)<!-- TECH:END -->
+ - [Sensor Tower: Temu and Shein cut their ad spending on platforms including Meta and X an average of 31% and 19%, respectively, so far in April, compared to March &lpar;Financial Times&rpar;](http://www.techmeme.com/250416/p46#a250416p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

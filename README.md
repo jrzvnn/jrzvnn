@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [River: China&#39;s local governments held 15,000 bitcoin worth $1.4B at the end of 2024, the world&#39;s 14th biggest holder, sparking a debate on how to handle it &lpar;Reuters&rpar;](http://www.techmeme.com/250416/p16#a250416p16)
  - [FOI documents: Australian Communications Minister Michelle Rowland gave a personal guarantee to YouTube that it would be exempt from a teen social media ban &lpar;Angus Whitley/Bloomberg&rpar;](http://www.techmeme.com/250416/p15#a250416p15)
  - [Sources: Nvidia did not warn at least some major customers in advance about new US export rules on its H20 chips to China; the US told Nvidia about a week ago &lpar;Reuters&rpar;](http://www.techmeme.com/250416/p14#a250416p14)
  - [California&#39;s AG declines to join Elon Musk&#39;s lawsuit against OpenAI, saying the office did not see how Musk&#39;s action serves the state&#39;s public interest &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/250416/p13#a250416p13)
- - [A look at Huawei&#39;s AI CloudMatrix 384 rack-scale system, which is less power-efficient than Nvidia&#39;s GB200 NVL72, though this is not a limiting factor in China &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/250416/p12#a250416p12)
- - [UK filing: in 2023, following Elon Musk&#39;s acquisition, X had £69.1M in UK revenue, down 66.3% YoY, and its profit fell from £5.6M to £1.2M &lpar;Ben Quinn/The Guardian&rpar;](http://www.techmeme.com/250416/p11#a250416p11)<!-- TECH:END -->
+ - [A look at Huawei&#39;s AI CloudMatrix 384 rack-scale system, which is less power-efficient than Nvidia&#39;s GB200 NVL72, though this is not a limiting factor in China &lpar;Dylan Patel/SemiAnalysis&rpar;](http://www.techmeme.com/250416/p12#a250416p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When sharing is no longer caring...](http://9gag.com/gag/aAy4LDp)
- - 😝 [Recognize these two?](http://9gag.com/gag/a34yD7r)
- - 💣 [This is how many layers of protection doctors wear when dealing with highly infectious diseases](http://9gag.com/gag/apRP7d8)
- - 😝 [Dude captures the take-off speed of an airplane](http://9gag.com/gag/a2vyAVe)
- - 👉 [Hehe](http://9gag.com/gag/aE0oKEo)<!-- MEMES:END -->
+ - 😝 [Hehe](http://9gag.com/gag/aE0oKEo)
+ - 😝 [This is how many layers of protection doctors wear when dealing with highly infectious diseases](http://9gag.com/gag/apRP7d8)
+ - 💣 [Fair enough](http://9gag.com/gag/aVvmrn8)
+ - 😝 [Maybe maybe maybe](http://9gag.com/gag/a5QGg6O)
+ - 👉 [When sharing is no longer caring...](http://9gag.com/gag/aAy4LDp)<!-- MEMES:END -->
 
 ---
 

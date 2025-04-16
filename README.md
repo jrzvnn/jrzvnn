@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe maybe maybe](http://9gag.com/gag/a5QGg6O)
  - 😝 [This is how many layers of protection doctors wear when dealing with highly infectious diseases](http://9gag.com/gag/apRP7d8)
- - 💣 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)
- - 😝 [When sharing is no longer caring...](http://9gag.com/gag/aAy4LDp)
- - 👉 [Over a game?](http://9gag.com/gag/a87Dvrp)<!-- MEMES:END -->
+ - 😝 [People who annoy you..](http://9gag.com/gag/aPA8Lxw)
+ - 💣 [Maybe maybe maybe](http://9gag.com/gag/a5QGg6O)
+ - 😝 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)
+ - 👉 [Man helps save small dog from a large dog](http://9gag.com/gag/avyEqNW)<!-- MEMES:END -->
 
 ---
 

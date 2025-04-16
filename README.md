@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)
- - 😝 [When sharing is no longer caring...](http://9gag.com/gag/aAy4LDp)
- - 💣 [He Know&#39;s the vibes](http://9gag.com/gag/a4P5rgv)
- - 😝 [Biblically accurate Max Verstappen](http://9gag.com/gag/ayNWzgb)
- - 👉 [He didn\u2019t want to kiss me after my 10 man Bukakke, and that hurt](http://9gag.com/gag/avyE4Pq)<!-- MEMES:END -->
+ - 😝 [TVs back then: immovable giants of status](http://9gag.com/gag/a0e6g4d)
+ - 😝 [Right man in the wrong place](http://9gag.com/gag/aAy4Lwp)
+ - 💣 [First day in my new job. These are my new colleagues](http://9gag.com/gag/aYQPBYO)
+ - 😝 [Who knew books could break out of jail?](http://9gag.com/gag/an7vZ5b)
+ - 👉 [Strange isn&#39;t it](http://9gag.com/gag/amomQ79)<!-- MEMES:END -->
 
 ---
 

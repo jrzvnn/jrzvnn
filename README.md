@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CISA says it will extend funding to Mitre, which runs the CVE Program, and &quot;there will be no lapse in critical CVE services&quot;, after Mitre said funding expired &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250416/p28#a250416p28)
  - [Get rewarded for recycling with Apple&#39;s 2025 Earth Day offer](https://appleinsider.com/articles/25/04/16/get-rewarded-for-recycling-with-apples-2025-earth-day-offer?utm_medium=rss)
  - [Nvidia GeForce RTX 5060 Ti 16GB review: great value and performance, and GDDR7 offers more bandwidth, but the GPU&#39;s pricing and availability remain uncertain &lpar;Jarred Walton/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250416/p27#a250416p27)
  - [Every Intel Mac mini is now obsolete or vintage, and will be missed](https://appleinsider.com/articles/25/04/16/every-intel-mac-mini-is-now-obsolete-or-vintage-and-will-be-missed?utm_medium=rss)
- - [Spotify is down](https://www.theverge.com/news/649632/spotify-is-down-outage-report-uk-us)
- - [Online risks will escalate as the global security vulnerability database gets defunded](https://appleinsider.com/articles/25/04/16/online-risks-will-escalate-as-the-global-security-vulnerability-database-gets-defunded?utm_medium=rss)<!-- TECH:END -->
+ - [Spotify is down](https://www.theverge.com/news/649632/spotify-is-down-outage-report-uk-us)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

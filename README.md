@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He didn\u2019t want to kiss me after my 10 man Bukakke, and that hurt](http://9gag.com/gag/avyE4Pq)
- - 😝 [Stand up for your rights](http://9gag.com/gag/amomKxd)
- - 💣 [WTF](http://9gag.com/gag/a4P58xZ)
- - 😝 [Over a game?](http://9gag.com/gag/a87Dvrp)
- - 👉 [The generation of technology in hand , no life skills needed.](http://9gag.com/gag/aW4veZd)<!-- MEMES:END -->
+ - 😝 [Little dude is going places](http://9gag.com/gag/aAy45PZ)
+ - 😝 [The day Copper saw his sister for the first time](http://9gag.com/gag/a1m5BXD)
+ - 💣 [Dude captures the take-off speed of an airplane](http://9gag.com/gag/a2vyAVe)
+ - 😝 [Man helps save small dog from a large dog](http://9gag.com/gag/avyEqNW)
+ - 👉 [Recycling Bottles by Cutting Them in Half to Create Drinking Glasses](http://9gag.com/gag/adBnMvQ)<!-- MEMES:END -->
 
 ---
 

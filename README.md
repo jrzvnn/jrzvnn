@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Hehe](http://9gag.com/gag/aE0oKEo)
+ - 😝 [Do you like Korean girls?](http://9gag.com/gag/a34ye1Q)
+ - 💣 [Snow white is somehow even worse than you think](http://9gag.com/gag/aryZd67)
  - 😝 [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)
- - 😝 [Snow white is somehow even worse than you think](http://9gag.com/gag/aryZd67)
- - 💣 [WTF](http://9gag.com/gag/a4P58xZ)
- - 😝 [I&#39;m with Jesus on this one.](http://9gag.com/gag/aQzADG8)
- - 👉 [The generation of technology in hand , no life skills needed.](http://9gag.com/gag/aW4veZd)<!-- MEMES:END -->
+ - 👉 [I&#39;m with Jesus on this one.](http://9gag.com/gag/aQzADG8)<!-- MEMES:END -->
 
 ---
 

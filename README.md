@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Indian food delivery and quick commerce platform Swiggy launches Pyng, an online marketplace to let users find verified professionals like financial advisors &lpar;Debaroti Adhikary/Moneycontrol&rpar;](http://www.techmeme.com/250416/p2#a250416p2)
  - [Goldman Sachs Alternatives acquires India-based HR SaaS company PeopleStrong from Multiples PE, sources say for $130M; Tracxn: Multiples PE held an 84.3% stake &lpar;Pranav Mukul/The Economic Times&rpar;](http://www.techmeme.com/250416/p1#a250416p1)
+ - [Best Internet Providers in Madison, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-madison-wi/#ftag=CAD590a51e)
  - [Cape Town-based Stitch, which provides an online payments suite to enterprises, raised a $55M Series B led by QED Investors, bringing its total funding to $107M &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/250415/p45#a250415p45)
- - [xAI unveils Grok Studio, a canvas-like tool for its Grok chatbot that can generate and edit documents, run code like Python and JavaScript, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250415/p44#a250415p44)
- - [São Paulo-based Onfly, which offers a corporate travel and expense management service, raised a $40M Series B led by Tidemark to expand further into LATAM &lpar;Justin Dawes/Skift&rpar;](http://www.techmeme.com/250415/p43#a250415p43)
- - [&#39;Daredevil: Born Again&#39; Season Finale: Ending and Post-Credits Scene Explained](https://www.cnet.com/tech/services-and-software/daredevil-born-again-season-finale-ending-and-post-credits-scene-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [xAI unveils Grok Studio, a canvas-like tool for its Grok chatbot that can generate and edit documents, run code like Python and JavaScript, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250415/p44#a250415p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

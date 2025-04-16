@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Data orchestration startup Hammerspace, which counts Nvidia, Meta, Tesla, Palantir, and the DOD as clients, raised $100M, sources say at a $500M+ valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250416/p21#a250416p21)
+ - [8 Best Beard Trimmers &lpar;2025&rpar;: Full Beards, Hair, Stubble](https://www.wired.com/gallery/best-beard-trimmers/)
+ - [7 Best Vitamins and Natural Supplements for the Best Sleep](https://www.cnet.com/health/sleep/best-vitamins-and-supplements-for-sleep/#ftag=CAD590a51e)
  - [CVE Board members launch the CVE Foundation, a dedicated, non-profit to continue identifying vulnerabilities, after the US ended its contract with Mitre &lpar;CVE Foundation&rpar;](http://www.techmeme.com/250416/p20#a250416p20)
- - [Microsoft lets Copilot Studio use a computer on its own](https://www.theverge.com/news/649574/microsoft-copilot-studio-computer-use-ai)
- - [US credit and debit card data: Shein&#39;s US sales rose 29% YoY in March and 38% YoY in April&#39;s first 11 days, while Temu rose 46% and 60%, ahead of US tariffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250416/p19#a250416p19)
- - [Nissan Sakura 2025 Review: Price, Availability, Specs](https://www.wired.com/review/review-nissan-sakura-2025/)
- - [Google says it suspended 39.2M US advertiser accounts on its platform in 2024, up over 3x from 12.7M in 2023, and took down 1.8B ads, aided by new AI tools &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250416/p18#a250416p18)<!-- TECH:END -->
+ - [We Spoke With Eye Experts: These 13 Habits Are Secretly Hurting Your Eyes](https://www.cnet.com/health/personal-care/we-spoke-with-experts-these-13-daily-habits-are-hurting-your-eye-health/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

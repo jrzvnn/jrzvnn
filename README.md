@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Would you help him ?](http://9gag.com/gag/a34ypwr)
- - 😝 [WTF](http://9gag.com/gag/a4P58xZ)
- - 💣 [Wow](http://9gag.com/gag/awyL8yx)
+ - 😝 [The generation of technology in hand , no life skills needed.](http://9gag.com/gag/aW4veZd)
  - 😝 [I&#39;m with Jesus on this one.](http://9gag.com/gag/aQzADG8)
- - 👉 [The generation of technology in hand , no life skills needed.](http://9gag.com/gag/aW4veZd)<!-- MEMES:END -->
+ - 💣 [Would you help him ?](http://9gag.com/gag/a34ypwr)
+ - 😝 [WTF](http://9gag.com/gag/a4P58xZ)
+ - 👉 [Wow](http://9gag.com/gag/awyL8yx)<!-- MEMES:END -->
 
 ---
 

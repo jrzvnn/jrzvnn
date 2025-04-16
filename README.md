@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [TVs back then: immovable giants of status](http://9gag.com/gag/a0e6g4d)
- - 😝 [Who knew books could break out of jail?](http://9gag.com/gag/an7vZ5b)
- - 💣 [First day in my new job. These are my new colleagues](http://9gag.com/gag/aYQPBYO)
- - 😝 [Right man in the wrong place](http://9gag.com/gag/aAy4Lwp)
- - 👉 [This is Money Cat, upvoting does nothing for you and he evades Taxes](http://9gag.com/gag/aW4vyDx)<!-- MEMES:END -->
+ - 😝 [Recycling Bottles by Cutting Them in Half to Create Drinking Glasses](http://9gag.com/gag/adBnMvQ)
+ - 😝 [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)
+ - 💣 [WTF](http://9gag.com/gag/a4P58xZ)
+ - 😝 [I&#39;m with Jesus on this one.](http://9gag.com/gag/aQzADG8)
+ - 👉 [He didn\u2019t want to kiss me after my 10 man Bukakke, and that hurt](http://9gag.com/gag/avyE4Pq)<!-- MEMES:END -->
 
 ---
 

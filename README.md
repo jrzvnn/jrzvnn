@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Biblically accurate Max Verstappen](http://9gag.com/gag/ayNWzgb)
  - 😝 [Hehe](http://9gag.com/gag/aE0oKEo)
- - 😝 [Do you like Korean girls?](http://9gag.com/gag/a34ye1Q)
- - 💣 [Snow white is somehow even worse than you think](http://9gag.com/gag/aryZd67)
- - 😝 [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)
- - 👉 [I&#39;m with Jesus on this one.](http://9gag.com/gag/aQzADG8)<!-- MEMES:END -->
+ - 💣 [I&#39;m with Jesus on this one.](http://9gag.com/gag/aQzADG8)
+ - 😝 [When sharing is no longer caring...](http://9gag.com/gag/aAy4LDp)
+ - 👉 [Snow white is somehow even worse than you think](http://9gag.com/gag/aryZd67)<!-- MEMES:END -->
 
 ---
 

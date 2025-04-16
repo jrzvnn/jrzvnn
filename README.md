@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I tried it. It totally works, trust me.](http://9gag.com/gag/aNDVqjA)
- - 😝 [Recognize these two?](http://9gag.com/gag/a34yD7r)
- - 💣 [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)
- - 😝 [2 years of AI Progress](http://9gag.com/gag/abAWEQE)
- - 👉 [Wow](http://9gag.com/gag/awyL8yx)<!-- MEMES:END -->
+ - 😝 [Be gentle it\u2019s been a while](http://9gag.com/gag/a0e6G0n)
+ - 😝 [The generation of technology in hand , no life skills needed.](http://9gag.com/gag/aW4veZd)
+ - 💣 [I tried it. It totally works, trust me.](http://9gag.com/gag/aNDVqjA)
+ - 😝 [WTF](http://9gag.com/gag/a4P58xZ)
+ - 👉 [He didn\u2019t want to kiss me after my 10 man Bukakke, and that hurt](http://9gag.com/gag/avyE4Pq)<!-- MEMES:END -->
 
 ---
 

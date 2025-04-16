@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Be gentle it\u2019s been a while](http://9gag.com/gag/a0e6G0n)
- - 😝 [The generation of technology in hand , no life skills needed.](http://9gag.com/gag/aW4veZd)
- - 💣 [I tried it. It totally works, trust me.](http://9gag.com/gag/aNDVqjA)
- - 😝 [WTF](http://9gag.com/gag/a4P58xZ)
+ - 😝 [Would you help him ?](http://9gag.com/gag/a34ypwr)
+ - 💣 [Low blow by China](http://9gag.com/gag/avyEDpd)
+ - 😝 [Who&#39;s That Pokemon??](http://9gag.com/gag/aO8DA3y)
  - 👉 [He didn\u2019t want to kiss me after my 10 man Bukakke, and that hurt](http://9gag.com/gag/avyE4Pq)<!-- MEMES:END -->
 
 ---

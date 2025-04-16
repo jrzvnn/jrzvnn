@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sensor Tower: Temu and Shein cut their ad spending on platforms including Meta and X an average of 31% and 19%, respectively, so far in April, compared to March &lpar;Financial Times&rpar;](http://www.techmeme.com/250416/p46#a250416p46)
  - [Don&#39;t wait to update: iOS 18.4.1 addresses two actively exploited vulnerabilities](https://appleinsider.com/articles/25/04/16/dont-wait-to-update-ios-1841-addresses-two-actively-exploited-vulnerabilities?utm_medium=rss)
  - [Sources: Intel told its Chinese clients last week that sales of some AI chips would require a license; Nvidia was blindsided by Trump&#39;s curbs on its H20 chips &lpar;Financial Times&rpar;](http://www.techmeme.com/250416/p45#a250416p45)
  - [Trump’s Tariffs Could Hit You in an Unexpected Place: Your Vinyl Collection](https://www.wired.com/story/trumps-tariffs-could-hit-you-in-an-unexpected-place-your-vinyl-collection/)
- - [Sources: the Trump administration plans to eliminate the IRS&#39; free Direct File tax program, after IRS staff were told in mid-March to stop working on it &lpar;Fatima Hussein/Associated Press&rpar;](http://www.techmeme.com/250416/p44#a250416p44)
- - [Apple releases security updates for iOS 18.4.1, macOS Sequoia 15.4.1](https://appleinsider.com/articles/25/04/16/apple-releases-security-updates-for-ios-1841-macos-sequoia-1541?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: the Trump administration plans to eliminate the IRS&#39; free Direct File tax program, after IRS staff were told in mid-March to stop working on it &lpar;Fatima Hussein/Associated Press&rpar;](http://www.techmeme.com/250416/p44#a250416p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

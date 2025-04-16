@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Over a game?](http://9gag.com/gag/a87Dvrp)
- - 😝 [Little lower](http://9gag.com/gag/aKGWZLg)
- - 💣 [Be gentle it\u2019s been a while](http://9gag.com/gag/a0e6G0n)
- - 😝 [Who&#39;s That Pokemon??](http://9gag.com/gag/aO8DA3y)
- - 👉 [Maybe maybe maybe](http://9gag.com/gag/a5QGg6O)<!-- MEMES:END -->
+ - 😝 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)
+ - 💣 [This is how many layers of protection doctors wear when dealing with highly infectious diseases](http://9gag.com/gag/apRP7d8)
+ - 😝 [Maybe maybe maybe](http://9gag.com/gag/a5QGg6O)
+ - 👉 [Who&#39;s That Pokemon??](http://9gag.com/gag/aO8DA3y)<!-- MEMES:END -->
 
 ---
 

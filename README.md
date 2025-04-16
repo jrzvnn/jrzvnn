@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Little dude is going places](http://9gag.com/gag/aAy45PZ)
- - 😝 [The day Copper saw his sister for the first time](http://9gag.com/gag/a1m5BXD)
- - 💣 [Dude captures the take-off speed of an airplane](http://9gag.com/gag/a2vyAVe)
- - 😝 [Man helps save small dog from a large dog](http://9gag.com/gag/avyEqNW)
- - 👉 [Recycling Bottles by Cutting Them in Half to Create Drinking Glasses](http://9gag.com/gag/adBnMvQ)<!-- MEMES:END -->
+ - 😝 [Right man in the wrong place](http://9gag.com/gag/aAy4Lwp)
+ - 😝 [Hehe](http://9gag.com/gag/aE0oKEo)
+ - 💣 [First day in my new job. These are my new colleagues](http://9gag.com/gag/aYQPBYO)
+ - 😝 [Who knew books could break out of jail?](http://9gag.com/gag/an7vZ5b)
+ - 👉 [Strange isn&#39;t it](http://9gag.com/gag/amomQ79)<!-- MEMES:END -->
 
 ---
 

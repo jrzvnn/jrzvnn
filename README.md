@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Recycling Bottles by Cutting Them in Half to Create Drinking Glasses](http://9gag.com/gag/adBnMvQ)
  - 😝 [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)
+ - 😝 [Snow white is somehow even worse than you think](http://9gag.com/gag/aryZd67)
  - 💣 [WTF](http://9gag.com/gag/a4P58xZ)
  - 😝 [I&#39;m with Jesus on this one.](http://9gag.com/gag/aQzADG8)
- - 👉 [He didn\u2019t want to kiss me after my 10 man Bukakke, and that hurt](http://9gag.com/gag/avyE4Pq)<!-- MEMES:END -->
+ - 👉 [The generation of technology in hand , no life skills needed.](http://9gag.com/gag/aW4veZd)<!-- MEMES:END -->
 
 ---
 

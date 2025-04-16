@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [BougeRV’s electric wagon isn’t afraid of hills](https://www.theverge.com/reviews/648903/bougerv-wagon-cart-review-hill-price-sand)
+ - [Inside San Francisco-based live-in startup accelerator HF0, whose alumni include OpenSea&#39;s founders; HF0&#39;s latest fund is $100M, up from its previous $16M fund &lpar;Ellen Huet/Bloomberg&rpar;](http://www.techmeme.com/250416/p8#a250416p8)
+ - [European carmakers are increasingly doing deals with Chinese rivals to prevent them from falling behind in core areas such as software and autonomous driving &lpar;Financial Times&rpar;](http://www.techmeme.com/250416/p7#a250416p7)
+ - [BougeRV’s electric wagon is the uphill king and downhill menace](https://www.theverge.com/reviews/648903/bougerv-wagon-cart-review-hill-price-sand)
  - [Experts say Chinese investors would be wary of backing AI startups building foundation models; PitchBook: in Q1, AI/ML VC funding in China fell 30% YoY to $1.2B &lpar;Rest of World&rpar;](http://www.techmeme.com/250416/p6#a250416p6)
- - [Analysis: stablecoins&#39; market value rose ~4.5% from the end of February to a new high of ~$234B in April, as crypto traders sat out the market volatility &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/250416/p5#a250416p5)
- - [Trump&#39;s planned tariffs on chip imports risk upending a global supply chain and could lead to oversupply as the US and other countries seek domestic production &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250416/p4#a250416p4)
- - [A look at India&#39;s efforts to catch up in the AI race, as the government reviews 67 bids from startups and research labs seeking funding for domestic AI models &lpar;Krishn Kaushik/Financial Times&rpar;](http://www.techmeme.com/250416/p3#a250416p3)<!-- TECH:END -->
+ - [Analysis: stablecoins&#39; market value rose ~4.5% from the end of February to a new high of ~$234B in April, as crypto traders sat out the market volatility &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/250416/p5#a250416p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We\u2019ll just sell beef to the country that worships cows!](http://9gag.com/gag/aZZQoZ3)
- - 😝 [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)
+ - 😝 [Would you help him ?](http://9gag.com/gag/a34ypwr)
+ - 😝 [WTF](http://9gag.com/gag/a4P58xZ)
  - 💣 [Wow](http://9gag.com/gag/awyL8yx)
  - 😝 [I&#39;m with Jesus on this one.](http://9gag.com/gag/aQzADG8)
  - 👉 [The generation of technology in hand , no life skills needed.](http://9gag.com/gag/aW4veZd)<!-- MEMES:END -->

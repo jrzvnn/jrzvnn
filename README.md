@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Right man in the wrong place](http://9gag.com/gag/aAy4Lwp)
  - 😝 [Hehe](http://9gag.com/gag/aE0oKEo)
+ - 😝 [Life is like Chess](http://9gag.com/gag/aYQP5Qm)
  - 💣 [First day in my new job. These are my new colleagues](http://9gag.com/gag/aYQPBYO)
  - 😝 [Who knew books could break out of jail?](http://9gag.com/gag/an7vZ5b)
  - 👉 [Strange isn&#39;t it](http://9gag.com/gag/amomQ79)<!-- MEMES:END -->

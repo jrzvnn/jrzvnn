@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This must be a nice neighborhood!](http://9gag.com/gag/ajPB3Lq)
- - 😝 [Exciting!](http://9gag.com/gag/avyEXRq)
- - 💣 [When your staircase is more festive than your ornaments](http://9gag.com/gag/aRBz807)
- - 😝 [My favorite 3D visual T-shirt](http://9gag.com/gag/a5QGgDL)
- - 👉 [Strange isn&#39;t it](http://9gag.com/gag/amomQ79)<!-- MEMES:END -->
+ - 😝 [We\u2019ll just sell beef to the country that worships cows!](http://9gag.com/gag/aZZQoZ3)
+ - 😝 [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)
+ - 💣 [Wow](http://9gag.com/gag/awyL8yx)
+ - 😝 [I&#39;m with Jesus on this one.](http://9gag.com/gag/aQzADG8)
+ - 👉 [The generation of technology in hand , no life skills needed.](http://9gag.com/gag/aW4veZd)<!-- MEMES:END -->
 
 ---
 

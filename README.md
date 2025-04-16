@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Huawei&#39;s AI CloudMatrix 384 rack-scale system, which is less power-efficient than Nvidia&#39;s GB200 NVL72, though this is not a limiting factor in China &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/250416/p12#a250416p12)
+ - [UK filing: in 2023, following Elon Musk&#39;s acquisition, X had £69.1M in UK revenue, down 66.3% YoY, and its profit fell from £5.6M to £1.2M &lpar;Ben Quinn/The Guardian&rpar;](http://www.techmeme.com/250416/p11#a250416p11)
+ - [The Wild Plan to Terraform Mars by Slamming Asteroids Into It](https://www.wired.com/story/terraform-mars-by-throwing-asteroids/)
  - [Starlink, which entered Nigeria in January 2023, ranks second among pure-play ISPs with 65K+ Nigerian subscribers in Q3 2024 due to reliable, high-speed access &lpar;Damilare Dosunmu/Rest of World&rpar;](http://www.techmeme.com/250416/p10#a250416p10)
- - [ASML reports Q1 net sales up 46% YoY to €7.74B, vs. €7.8B est., a €2.36B net profit, €3.94B net bookings, below €4.89B est., and warns of tariff uncertainty &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250416/p9#a250416p9)
- - [Inside San Francisco-based live-in startup accelerator HF0, whose alumni include OpenSea&#39;s founders; HF0&#39;s latest fund is $100M, up from its previous $16M fund &lpar;Ellen Huet/Bloomberg&rpar;](http://www.techmeme.com/250416/p8#a250416p8)
- - [European carmakers are increasingly doing deals with Chinese rivals to prevent them from falling behind in core areas such as software and autonomous driving &lpar;Financial Times&rpar;](http://www.techmeme.com/250416/p7#a250416p7)
- - [BougeRV’s electric wagon is the uphill king and downhill menace](https://www.theverge.com/reviews/648903/bougerv-wagon-cart-review-hill-price-sand)<!-- TECH:END -->
+ - [ASML reports Q1 net sales up 46% YoY to €7.74B, vs. €7.8B est., a €2.36B net profit, €3.94B net bookings, below €4.89B est., and warns of tariff uncertainty &lpar;CNBC&rpar;](http://www.techmeme.com/250416/p9#a250416p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

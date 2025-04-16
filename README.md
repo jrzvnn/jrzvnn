@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Medicare broker Chapter, which was co-founded by Vivek Ramaswamy and uses AI to aggregate comprehensive plan data, raised $75M at a $1.5B valuation &lpar;Max Chafkin/Bloomberg&rpar;](http://www.techmeme.com/250416/p24#a250416p24)
- - [Aura Aspen Review &lpar;2025&rpar;: Made for Vertical](https://www.wired.com/review/aura-aspen-review/)
- - [Back Market and iFixit Want You to Use Your Phone for at Least 5 Years](https://www.wired.com/story/back-market-ifixit-partnership-repair/)
- - [PNY GeForce RTX 5060 Ti OC Review: High-Definition Gaming](https://www.wired.com/review/pny-geforce-rtx-5060-ti-oc/)
- - [Patreon is getting livestreaming](https://www.theverge.com/news/649180/patreon-livestreaming-video-twitch)<!-- TECH:END -->
+ - [Online risks will escalate as the global security vulnerability database gets defunded](https://appleinsider.com/articles/25/04/16/online-risks-will-escalate-as-the-global-security-vulnerability-database-gets-defunded?utm_medium=rss)
+ - [SEC filing: AMD estimates new US export rules for its MI308 chips to China will cost ~$800M in inventory, purchase commitments, and related reserves charges &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250416/p26#a250416p26)
+ - [Nintendo Switch 2 Backward Compatibility: What You Need to Know](https://www.wired.com/story/nintendo-switch-2-backward-compatibility/)
+ - [Patreon plans to test livestreaming within its mobile app and on the web with select users this week ahead of a wider rollout in summer 2025 &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250416/p25#a250416p25)
+ - [Medicare broker Chapter, which was co-founded by Vivek Ramaswamy and uses AI to aggregate comprehensive plan data, raised $75M at a $1.5B valuation &lpar;Max Chafkin/Bloomberg&rpar;](http://www.techmeme.com/250416/p24#a250416p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

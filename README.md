@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [...](http://9gag.com/gag/agm89Mn)
- - 😝 [Life is like Chess](http://9gag.com/gag/aYQP5Qm)
- - 💣 [This is Money Cat, upvoting does nothing for you and he evades Taxes](http://9gag.com/gag/aW4vyDx)
- - 😝 [Little dude is going places](http://9gag.com/gag/aAy45PZ)
- - 👉 [What&#39;s your addiction? Pretty sure you have one](http://9gag.com/gag/ae9VBYb)<!-- MEMES:END -->
+ - 😝 [Maybe maybe maybe](http://9gag.com/gag/a5QGg6O)
+ - 😝 [This is how many layers of protection doctors wear when dealing with highly infectious diseases](http://9gag.com/gag/apRP7d8)
+ - 💣 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)
+ - 😝 [When sharing is no longer caring...](http://9gag.com/gag/aAy4LDp)
+ - 👉 [Over a game?](http://9gag.com/gag/a87Dvrp)<!-- MEMES:END -->
 
 ---
 

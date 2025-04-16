@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ASML reports Q1 net sales up 46% YoY to €7.74B, vs. €7.8B est., a €2.36B net profit, €3.94B net bookings, below €4.89B est., and warns of tariff uncertainty &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250416/p9#a250416p9)
  - [Inside San Francisco-based live-in startup accelerator HF0, whose alumni include OpenSea&#39;s founders; HF0&#39;s latest fund is $100M, up from its previous $16M fund &lpar;Ellen Huet/Bloomberg&rpar;](http://www.techmeme.com/250416/p8#a250416p8)
  - [European carmakers are increasingly doing deals with Chinese rivals to prevent them from falling behind in core areas such as software and autonomous driving &lpar;Financial Times&rpar;](http://www.techmeme.com/250416/p7#a250416p7)
  - [BougeRV’s electric wagon is the uphill king and downhill menace](https://www.theverge.com/reviews/648903/bougerv-wagon-cart-review-hill-price-sand)
- - [Experts say Chinese investors would be wary of backing AI startups building foundation models; PitchBook: in Q1, AI/ML VC funding in China fell 30% YoY to $1.2B &lpar;Rest of World&rpar;](http://www.techmeme.com/250416/p6#a250416p6)
- - [Analysis: stablecoins&#39; market value rose ~4.5% from the end of February to a new high of ~$234B in April, as crypto traders sat out the market volatility &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/250416/p5#a250416p5)<!-- TECH:END -->
+ - [Experts say Chinese investors would be wary of backing AI startups building foundation models; PitchBook: in Q1, AI/ML VC funding in China fell 30% YoY to $1.2B &lpar;Rest of World&rpar;](http://www.techmeme.com/250416/p6#a250416p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We all know it&#39;s the logo](http://9gag.com/gag/awyLGmW)
- - 😝 [I&#39;m with Jesus on this one.](http://9gag.com/gag/aQzADG8)
- - 💣 [Wow](http://9gag.com/gag/awyL8yx)
- - 😝 [He Know&#39;s the vibes](http://9gag.com/gag/a4P5rgv)
- - 👉 [Do you like Korean girls?](http://9gag.com/gag/a34ye1Q)<!-- MEMES:END -->
+ - 😝 [Women would never know this feeling](http://9gag.com/gag/a4P5mNm)
+ - 😝 [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)
+ - 💣 [This must be a nice neighborhood!](http://9gag.com/gag/ajPB3Lq)
+ - 😝 [Exciting!](http://9gag.com/gag/avyEXRq)
+ - 👉 [When your staircase is more festive than your ornaments](http://9gag.com/gag/aRBz807)<!-- MEMES:END -->
 
 ---
 

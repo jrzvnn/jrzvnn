@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Recycling Bottles by Cutting Them in Half to Create Drinking Glasses](http://9gag.com/gag/adBnMvQ)
  - 😝 [Over a game?](http://9gag.com/gag/a87Dvrp)
- - 💣 [When sharing is no longer caring...](http://9gag.com/gag/aAy4LDp)
- - 😝 [Maybe maybe maybe](http://9gag.com/gag/a5QGg6O)
- - 👉 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)<!-- MEMES:END -->
+ - 😝 [Be gentle it\u2019s been a while](http://9gag.com/gag/a0e6G0n)
+ - 💣 [Maybe maybe maybe](http://9gag.com/gag/a5QGg6O)
+ - 😝 [When sharing is no longer caring...](http://9gag.com/gag/aAy4LDp)
+ - 👉 [Man helps save small dog from a large dog](http://9gag.com/gag/avyEqNW)<!-- MEMES:END -->
 
 ---
 

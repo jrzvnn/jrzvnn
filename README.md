@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
+ - [Your Favorite Patreon Creators Will Soon Be Able to Livestream from the Platform](https://www.cnet.com/tech/services-and-software/your-favorite-patreon-creators-will-soon-be-able-to-livestream-from-the-platform/#ftag=CAD590a51e)
+ - [What Is DHgate? Trump Tariffs Drive Surge in Downloads for Chinese Apps](https://www.cnet.com/culture/fashion/what-is-dhgate-trump-tariffs-drive-surge-in-downloads-for-chinese-apps/#ftag=CAD590a51e)
  - [Sensor Tower: Temu and Shein cut their ad spending on platforms including Meta and X an average of 31% and 19%, respectively, so far in April, compared to March &lpar;Financial Times&rpar;](http://www.techmeme.com/250416/p46#a250416p46)
- - [Don&#39;t wait to update: iOS 18.4.1 addresses two actively exploited vulnerabilities](https://appleinsider.com/articles/25/04/16/dont-wait-to-update-ios-1841-addresses-two-actively-exploited-vulnerabilities?utm_medium=rss)
- - [Sources: Intel told its Chinese clients last week that sales of some AI chips would require a license; Nvidia was blindsided by Trump&#39;s curbs on its H20 chips &lpar;Financial Times&rpar;](http://www.techmeme.com/250416/p45#a250416p45)
- - [Trump’s Tariffs Could Hit You in an Unexpected Place: Your Vinyl Collection](https://www.wired.com/story/trumps-tariffs-could-hit-you-in-an-unexpected-place-your-vinyl-collection/)
- - [Sources: the Trump administration plans to eliminate the IRS&#39; free Direct File tax program, after IRS staff were told in mid-March to stop working on it &lpar;Fatima Hussein/Associated Press&rpar;](http://www.techmeme.com/250416/p44#a250416p44)<!-- TECH:END -->
+ - [Don&#39;t wait to update: iOS 18.4.1 addresses two actively exploited vulnerabilities](https://appleinsider.com/articles/25/04/16/dont-wait-to-update-ios-1841-addresses-two-actively-exploited-vulnerabilities?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

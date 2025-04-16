@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [California&#39;s AG declines to join Elon Musk&#39;s lawsuit against OpenAI, saying the office did not see how Musk&#39;s action serves the state&#39;s public interest &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/250416/p13#a250416p13)
  - [A look at Huawei&#39;s AI CloudMatrix 384 rack-scale system, which is less power-efficient than Nvidia&#39;s GB200 NVL72, though this is not a limiting factor in China &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/250416/p12#a250416p12)
  - [UK filing: in 2023, following Elon Musk&#39;s acquisition, X had £69.1M in UK revenue, down 66.3% YoY, and its profit fell from £5.6M to £1.2M &lpar;Ben Quinn/The Guardian&rpar;](http://www.techmeme.com/250416/p11#a250416p11)
  - [The Wild Plan to Terraform Mars by Slamming Asteroids Into It](https://www.wired.com/story/terraform-mars-by-throwing-asteroids/)
- - [Starlink, which entered Nigeria in January 2023, ranks second among pure-play ISPs with 65K+ Nigerian subscribers in Q3 2024 due to reliable, high-speed access &lpar;Damilare Dosunmu/Rest of World&rpar;](http://www.techmeme.com/250416/p10#a250416p10)
- - [ASML reports Q1 net sales up 46% YoY to €7.74B, vs. €7.8B est., a €2.36B net profit, €3.94B net bookings, below €4.89B est., and warns of tariff uncertainty &lpar;CNBC&rpar;](http://www.techmeme.com/250416/p9#a250416p9)<!-- TECH:END -->
+ - [Starlink, which entered Nigeria in January 2023, ranks second among pure-play ISPs with 65K+ Nigerian subscribers in Q3 2024 due to reliable, high-speed access &lpar;Damilare Dosunmu/Rest of World&rpar;](http://www.techmeme.com/250416/p10#a250416p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

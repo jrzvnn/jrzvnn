@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do you like Korean girls?](http://9gag.com/gag/a34ye1Q)
- - 😝 [Over a game?](http://9gag.com/gag/a87Dvrp)
+ - 😝 [When sharing is no longer caring...](http://9gag.com/gag/aAy4LDp)
+ - 😝 [Recognize these two?](http://9gag.com/gag/a34yD7r)
  - 💣 [This is how many layers of protection doctors wear when dealing with highly infectious diseases](http://9gag.com/gag/apRP7d8)
- - 😝 [The day Copper saw his sister for the first time](http://9gag.com/gag/a1m5BXD)
- - 👉 [He didn\u2019t want to kiss me after my 10 man Bukakke, and that hurt](http://9gag.com/gag/avyE4Pq)<!-- MEMES:END -->
+ - 😝 [Dude captures the take-off speed of an airplane](http://9gag.com/gag/a2vyAVe)
+ - 👉 [Hehe](http://9gag.com/gag/aE0oKEo)<!-- MEMES:END -->
 
 ---
 

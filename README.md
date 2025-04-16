@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [TVs back then: immovable giants of status](http://9gag.com/gag/a0e6g4d)
- - 😝 [Right man in the wrong place](http://9gag.com/gag/aAy4Lwp)
- - 💣 [First day in my new job. These are my new colleagues](http://9gag.com/gag/aYQPBYO)
- - 😝 [Who knew books could break out of jail?](http://9gag.com/gag/an7vZ5b)
- - 👉 [Strange isn&#39;t it](http://9gag.com/gag/amomQ79)<!-- MEMES:END -->
+ - 😝 [Guys? is that the... you know... the secs?](http://9gag.com/gag/aByPNoD)
+ - 😝 [Binturong, Southeast Asia and Northeast India.](http://9gag.com/gag/azxGoVx)
+ - 💣 [Recycling Bottles by Cutting Them in Half to Create Drinking Glasses](http://9gag.com/gag/adBnMvQ)
+ - 😝 [When sharing is no longer caring...](http://9gag.com/gag/aAy4LDp)
+ - 👉 [Over a game?](http://9gag.com/gag/a87Dvrp)<!-- MEMES:END -->
 
 ---
 

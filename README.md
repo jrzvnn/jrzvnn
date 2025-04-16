@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Biblically accurate Max Verstappen](http://9gag.com/gag/ayNWzgb)
- - 😝 [Hehe](http://9gag.com/gag/aE0oKEo)
- - 💣 [I&#39;m with Jesus on this one.](http://9gag.com/gag/aQzADG8)
+ - 😝 [When you put your old guitar on Craigslist for free &amp; your ring camera sends you this...](http://9gag.com/gag/azxGo9q)
  - 😝 [When sharing is no longer caring...](http://9gag.com/gag/aAy4LDp)
- - 👉 [Snow white is somehow even worse than you think](http://9gag.com/gag/aryZd67)<!-- MEMES:END -->
+ - 💣 [He Know&#39;s the vibes](http://9gag.com/gag/a4P5rgv)
+ - 😝 [Biblically accurate Max Verstappen](http://9gag.com/gag/ayNWzgb)
+ - 👉 [He didn\u2019t want to kiss me after my 10 man Bukakke, and that hurt](http://9gag.com/gag/avyE4Pq)<!-- MEMES:END -->
 
 ---
 

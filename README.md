@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says it suspended 39.2M US advertiser accounts on its platform in 2024, up over 3x from 12.7M in 2023, and took down 1.8B ads, aided by new AI tools &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250416/p18#a250416p18)
  - [The &amp;#8216;Oscars of Science&amp;#8217; can&amp;#8217;t take a Trump joke](https://www.theverge.com/news/649558/breakthrough-prize-seth-rogan-trump-joke-removed)
- - [In a notice last week, China said it would exempt advanced chips from its US tariffs; experts say the move shows China won&#39;t let a trade war impact chip supply &lpar;Meaghan Tobin/New York Times&rpar;](http://www.techmeme.com/250416/p17#a250416p17)
- - [River: China&#39;s local governments held 15,000 bitcoin worth $1.4B at the end of 2024, the world&#39;s 14th biggest holder, sparking a debate on how to handle it &lpar;Reuters&rpar;](http://www.techmeme.com/250416/p16#a250416p16)
- - [The 6 Best White Noise Machines to Help You Sleep in 2025](https://www.cnet.com/health/sleep/best-white-noise-machines/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 6 Best White Noise Machines to Help You Sleep in 2025](https://www.cnet.com/health/sleep/best-white-noise-machines/#ftag=CAD590a51e)
+ - [Best Ring Video Doorbells of 2025](https://www.cnet.com/home/security/best-ring-video-doorbells/#ftag=CAD590a51e)
+ - [Maximize Your Earnings With APYs up to 4.50%. Today&#39;s CD Rates, April 16, 2025](https://www.cnet.com/personal-finance/banking/maximize-your-earnings-with-apys-up-to-4-50-todays-cd-rates-april-16-2025/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 16, #205](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-16-205/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

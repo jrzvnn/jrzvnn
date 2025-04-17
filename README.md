@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Global Payments shares plunge 15%+ and FIS shares jump 9%+ after Global Payments said it&#39;s buying Worldpay from FIS and GTCR and selling Issuer Solutions to FIS &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250417/p30#a250417p30)
  - [Sources: Amazon plans to release its first TV streaming device with its Vega OS, used in some Echo devices, in 2025 and is courting publishers to add their apps &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/250417/p29#a250417p29)
+ - [Grok Now Remembers What You Talked About, and Here&#39;s How to Make It Stop](https://www.cnet.com/tech/services-and-software/grok-now-remembers-what-you-talked-about-and-heres-how-to-make-it-stop/#ftag=CAD590a51e)
  - [Google Is Once Again Deemed a Monopoly, This Time in Ad Tech](https://www.wired.com/story/judge-rules-google-ad-business-monopoly/)
- - [Donald Trump’s crusade against offshore wind just got more serious](https://www.theverge.com/news/650974/offshore-wind-donald-trump-empire-new-york-halt)
- - [Sources: Tim Cook spoke to the US Commerce Secretary last week about how tariffs could affect iPhone prices before Trump exempted products from Apple and others &lpar;Washington Post&rpar;](http://www.techmeme.com/250417/p28#a250417p28)
- - [LMArena says it&#39;s starting a company, whose corporate name will be Arena Intelligence, with plans to raise money, and releases a new beta version of its website &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250417/p27#a250417p27)<!-- TECH:END -->
+ - [Europa League Soccer: Livestream Manchester United vs. Lyon From Anywhere](https://www.cnet.com/tech/services-and-software/europa-league-soccer-livestream-man-united-vs-lyon-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

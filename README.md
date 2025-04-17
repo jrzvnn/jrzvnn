@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI launches Flex processing in beta, an API option halving o3 and o4-mini prices in exchange for slower responses and &quot;occasional resource unavailability&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250417/p37#a250417p37)
  - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
  - [Tesla&amp;#8217;s spring update activates adaptive high beams that won&amp;#8217;t blind oncoming drivers](https://www.theverge.com/news/651504/tesla-spring-update-2025-adaptive-headlights-ev-route-planning)
  - [The CFPB Has Been Gutted](https://www.wired.com/story/cfpb-has-been-gutted/)
- - [The best Android phones](https://www.theverge.com/23674658/best-android-phone)
- - [Google rolls out Gemini 2.5 Flash in preview, with support for Canvas for working on text or code; developers can disable thinking or set a token limit for it &lpar;Ryan Whitwam/Ars Technica&rpar;](http://www.techmeme.com/250417/p36#a250417p36)<!-- TECH:END -->
+ - [The best Android phones](https://www.theverge.com/23674658/best-android-phone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

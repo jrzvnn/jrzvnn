@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Effects of crowd movement at stadiums](http://9gag.com/gag/avyEjZX)
- - 😝 [Just the tip, you glutton.](http://9gag.com/gag/aNDVMXv)
- - 💣 [I thought she looked familiar.](http://9gag.com/gag/a9y8g4D)
- - 😝 [Prince Rupert&#39;s drops &lpar;also known as Dutch tears or Batavian tears&rpar;](http://9gag.com/gag/aXP41P2)
- - 👉 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)<!-- MEMES:END -->
+ - 😝 [Bro is a legend](http://9gag.com/gag/azxGp8Z)
+ - 😝 [Chineese doctor fixes dislocated elbow in seconds](http://9gag.com/gag/awyLwmB)
+ - 💣 [Americans unite.](http://9gag.com/gag/aryZYV5)
+ - 😝 [The most amazing father and daughters duo](http://9gag.com/gag/aByPe2D)
+ - 👉 [5 LEGO walkers vs 7 Obstacles](http://9gag.com/gag/aRBzpPj)<!-- MEMES:END -->
 
 ---
 

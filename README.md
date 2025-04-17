@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [...](http://9gag.com/gag/agm89Mn)
- - 😝 [Karma is ... Black?](http://9gag.com/gag/aD2Zv67)
- - 💣 [This is Money Cat, upvoting does nothing for you and he evades Taxes](http://9gag.com/gag/aW4vyDx)
- - 😝 [Why?](http://9gag.com/gag/an7voM5)
- - 👉 [Little dude is going places](http://9gag.com/gag/aAy45PZ)<!-- MEMES:END -->
+ - 😝 [This is how many layers of protection doctors wear when dealing with highly infectious diseases](http://9gag.com/gag/apRP7d8)
+ - 😝 [GIF](http://9gag.com/gag/aQzAKOw)
+ - 💣 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)
+ - 😝 [Man helps save small dog from a large dog](http://9gag.com/gag/avyEqNW)
+ - 👉 [People who annoy you..](http://9gag.com/gag/aPA8Lxw)<!-- MEMES:END -->
 
 ---
 

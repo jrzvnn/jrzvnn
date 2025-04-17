@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTC v. Meta: Mark Zuckerberg says he considers TikTok the &quot;highest competitive threat&quot; for Facebook and Instagram in the past few years &lpar;Julia Shapero/The Hill&rpar;](http://www.techmeme.com/250416/p52#a250416p52)
- - [Gemini Live’s screensharing feature is now free for Android users](https://www.theverge.com/news/650285/google-gemini-live-screensharing-camera-feature-android-free)
- - [The US House opens a probe on whether Nvidia knowingly provided AI tech to DeepSeek in violation of US rules and asks Nvidia for details on its Asian customers &lpar;New York Times&rpar;](http://www.techmeme.com/250416/p51#a250416p51)
- - [You&#39;ll Be Able to Buy Games and More From the Xbox Mobile App Soon](https://www.cnet.com/tech/services-and-software/youll-be-able-to-buy-games-and-more-from-the-xbox-mobile-app-soon/#ftag=CAD590a51e)
- - [Marco Rubio Kills State Department Anti-Propaganda Shop, Promises ‘Twitter Files’ Sequel](https://www.wired.com/story/global-engagement-center-rubio-propaganda-disinformation-twitter-files/)<!-- TECH:END -->
+ - [A US judge grants a permanent injunction against an Ohio law that required platforms to verify users are at least 16 and seek parental consent for younger users &lpar;Bloomberg Law&rpar;](http://www.techmeme.com/250416/p55#a250416p55)
+ - [Zuckerberg tells court he made WhatsApp and Instagram better](https://www.theverge.com/policy/650360/mark-zuckerberg-defends-instagram-whatsapp-ftc-meta-antitrust-trial)
+ - [Google is making Gemini Live camera and screen sharing features free for all Android users in the coming weeks after launching them for Advanced users last week &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250416/p54#a250416p54)
+ - [Big tech upset at Meta&#39;s poorly executed court document redactions](https://appleinsider.com/articles/25/04/17/big-tech-upset-at-metas-poorly-executed-court-document-redactions?utm_medium=rss)
+ - [Moment SuperCage review: The ultimate iPhone filmmaking accessory](https://appleinsider.com/articles/25/04/17/moment-supercage-review-the-ultimate-iphone-filmmaking-accessory?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

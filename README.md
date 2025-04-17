@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump’s Tariffs Haven’t Resulted in Higher Prices on Amazon—Yet](https://www.wired.com/story/amazon-prices-tariffs-why-higher-lower/)
  - [The Wikimedia Foundation partners with Kaggle to release a dataset of &quot;structured Wikipedia content in English and French&quot; optimized for AI model training &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250417/p15#a250417p15)
  - [Processor cost could drive prices of the iPhone 18 range up](https://appleinsider.com/articles/25/04/17/processor-cost-could-drive-prices-of-the-iphone-18-range-up?utm_medium=rss)
  - [This ‘College Protester’ Isn’t Real. It’s an AI-Powered Undercover Bot for Cops](https://www.wired.com/story/massive-blue-overwatch-ai-personas-police-suspects/)
- - [Wikipedia is giving AI developers its data to fend off bot scrapers](https://www.theverge.com/news/650467/wikipedia-kaggle-partnership-ai-dataset-machine-learning)
- - [Measles Cases Are Rising. Other Preventable Diseases Could Follow](https://www.wired.com/story/measles-cases-are-rising-other-diseases-could-follow/)<!-- TECH:END -->
+ - [Wikipedia is giving AI developers its data to fend off bot scrapers](https://www.theverge.com/news/650467/wikipedia-kaggle-partnership-ai-dataset-machine-learning)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

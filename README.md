@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A call from Tim Cook helped convince Trump to introduce tariff exemptions](https://appleinsider.com/articles/25/04/17/a-call-from-tim-cook-helped-convince-trump-to-introduce-tariff-exemptions?utm_medium=rss)
  - [Just look at Huawei’s trifold phone](https://www.theverge.com/mobile/650749/huawei-mate-xt-trifoldphotos)
  - [Google is offering its Google One AI Premium plan for free to US college students until spring 2026; students have until June 30, 2025, to sign up &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250417/p31#a250417p31)
  - [The 35 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now &lpar;April 2025&rpar;](https://www.wired.com/story/best-movies-hbo-max-right-now/)
- - [Global Payments shares plunge 15%+ and FIS shares jump 9%+ after Global Payments said it&#39;s buying Worldpay from FIS and GTCR and selling Issuer Solutions to FIS &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250417/p30#a250417p30)
- - [Sources: Amazon plans to release its first TV streaming device with its Vega OS, used in some Echo devices, in 2025 and is courting publishers to add their apps &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/250417/p29#a250417p29)<!-- TECH:END -->
+ - [Global Payments shares plunge 15%+ and FIS shares jump 9%+ after Global Payments said it&#39;s buying Worldpay from FIS and GTCR and selling Issuer Solutions to FIS &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250417/p30#a250417p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

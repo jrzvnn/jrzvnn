@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla&amp;#8217;s spring update activates adaptive high beams that won&amp;#8217;t blind oncoming drivers](https://www.theverge.com/news/651504/tesla-spring-update-2025-adaptive-headlights-ev-route-planning)
  - [The CFPB Has Been Gutted](https://www.wired.com/story/cfpb-has-been-gutted/)
  - [The best Android phones](https://www.theverge.com/23674658/best-android-phone)
  - [Google rolls out Gemini 2.5 Flash in preview, with support for Canvas for working on text or code; developers can disable thinking or set a token limit for it &lpar;Ryan Whitwam/Ars Technica&rpar;](http://www.techmeme.com/250417/p36#a250417p36)
- - [Facebook, WhatsApp, and Instagram block use of Apple Intelligence](https://appleinsider.com/articles/25/04/17/facebook-whatsapp-and-instagram-block-use-of-apple-intelligence?utm_medium=rss)
- - [Netflix says co-founder Reed Hastings has left his post as executive chairman to become chairman and non-executive director of the company &lpar;Dade Hayes/Deadline&rpar;](http://www.techmeme.com/250417/p35#a250417p35)<!-- TECH:END -->
+ - [Facebook, WhatsApp, and Instagram block use of Apple Intelligence](https://appleinsider.com/articles/25/04/17/facebook-whatsapp-and-instagram-block-use-of-apple-intelligence?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Transferring the carbonation from a coke](http://9gag.com/gag/a34yOw5)
- - 😝 [Maybe maybe maybe](http://9gag.com/gag/a5QGg6O)
- - 💣 [Bro is a legend](http://9gag.com/gag/azxGp8Z)
+ - 😝 [Bro is a legend](http://9gag.com/gag/azxGp8Z)
+ - 💣 [WTF](http://9gag.com/gag/a4P58xZ)
  - 😝 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)
- - 👉 [Hehe](http://9gag.com/gag/aE0oKEo)<!-- MEMES:END -->
+ - 👉 [I thought she looked familiar.](http://9gag.com/gag/a9y8g4D)<!-- MEMES:END -->
 
 ---
 

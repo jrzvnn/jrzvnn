@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TSMC reports Q1 net income up 60.3% YoY to $11.1B, beating estimates, as customers stockpiled chips anticipating global trade disruptions spurred by US tariffs &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/250417/p4#a250417p4)
+ - [China bans automakers from using &quot;smart driving&quot; or &quot;autonomous driving&quot; in ads for driver-assist tech and tightens scrutiny after a fatal Xiaomi EV crash &lpar;Reuters&rpar;](http://www.techmeme.com/250417/p3#a250417p3)
  - [Newegg Promo Code: 10% Off - April 2025](https://www.wired.com/story/newegg-promo-code/)
  - [Peacock Promo Code and Coupons: 16% Off April 2025](https://www.wired.com/story/peacock-promo-code/)
- - [Strava acquires massively popular Runna app](https://www.theverge.com/tech/648075/strava-runna-acquisition-running-fitness-tech)
- - [Sources: OpenAI and SoftBank are considering investing in the UK for Stargate as part of an international expansion, if the project proves successful in the US &lpar;Financial Times&rpar;](http://www.techmeme.com/250417/p2#a250417p2)
- - [Docusign unveils AI contract agents, which can analyze agreements and surface issues that usually require human intervention, available by the end of 2025 &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/250417/p1#a250417p1)<!-- TECH:END -->
+ - [Strava acquires massively popular Runna app](https://www.theverge.com/tech/648075/strava-runna-acquisition-running-fitness-tech)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

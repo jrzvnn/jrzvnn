@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Transferring the carbonation from a coke](http://9gag.com/gag/a34yOw5)
+ - 😝 [My definition of wealth](http://9gag.com/gag/aAy45mZ)
  - 😝 [Bro is a legend](http://9gag.com/gag/azxGp8Z)
- - 💣 [WTF](http://9gag.com/gag/a4P58xZ)
- - 😝 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)
- - 👉 [I thought she looked familiar.](http://9gag.com/gag/a9y8g4D)<!-- MEMES:END -->
+ - 💣 [Little dude is going places](http://9gag.com/gag/aAy45PZ)
+ - 😝 [What&#39;s your addiction? Pretty sure you have one](http://9gag.com/gag/ae9VBYb)
+ - 👉 [Balkan dad morning routine](http://9gag.com/gag/adBnwrQ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US community colleges are battling a flood of fake, or bot, students who bilk financial aid by enrolling in online classes and submitting AI-generated work &lpar;Jakob McWhinney/Voice of San Diego&rpar;](http://www.techmeme.com/250417/p6#a250417p6)
+ - [Study: in South Korea, users with active YouTube accounts spent 210 minutes/day on the service in Q4, while Netflix subs spent 96 minutes/day on the streamer &lpar;Max Goldbart/Deadline&rpar;](http://www.techmeme.com/250417/p5#a250417p5)
  - [TSMC reports Q1 net income up 60.3% YoY to $11.1B, beating estimates, as customers stockpiled chips anticipating global trade disruptions spurred by US tariffs &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/250417/p4#a250417p4)
  - [China bans automakers from using &quot;smart driving&quot; or &quot;autonomous driving&quot; in ads for driver-assist tech and tightens scrutiny after a fatal Xiaomi EV crash &lpar;Reuters&rpar;](http://www.techmeme.com/250417/p3#a250417p3)
- - [Newegg Promo Code: 10% Off - April 2025](https://www.wired.com/story/newegg-promo-code/)
- - [Peacock Promo Code and Coupons: 16% Off April 2025](https://www.wired.com/story/peacock-promo-code/)
- - [Strava acquires massively popular Runna app](https://www.theverge.com/tech/648075/strava-runna-acquisition-running-fitness-tech)<!-- TECH:END -->
+ - [Newegg Promo Code: 10% Off - April 2025](https://www.wired.com/story/newegg-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Transferring the carbonation from a coke](http://9gag.com/gag/a34yOw5)
- - 😝 [Bro is a legend](http://9gag.com/gag/azxGp8Z)
- - 💣 [RUMOR - It seems that JK Rowling is suing Warner Brothers for the rights to Harry Potter, as the studio is looking for a diverse cast for the new version but Rowling prefers a cast more traditional and fait](http://9gag.com/gag/aLnGZ8v)
- - 😝 [I thought she looked familiar.](http://9gag.com/gag/a9y8g4D)
- - 👉 [Maybe maybe maybe](http://9gag.com/gag/a5QGg6O)<!-- MEMES:END -->
+ - 😝 [What&#39;s your addiction? Pretty sure you have one](http://9gag.com/gag/ae9VBYb)
+ - 😝 [Balkan dad morning routine](http://9gag.com/gag/adBnwrQ)
+ - 💣 [Its a big big project ,mom!!](http://9gag.com/gag/a34y6ne)
+ - 😝 [Karma is ... Black?](http://9gag.com/gag/aD2Zv67)
+ - 👉 [It&#39;s not a color thing, it&#39;s a culture thing](http://9gag.com/gag/azxGW1m)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google has an illegal monopoly on online advertising, judge rules](https://appleinsider.com/articles/25/04/17/google-has-an-illegal-monopoly-on-online-advertising-judge-rules?utm_medium=rss)
- - [Bose’s QuietComfort Ultra are nearly $200 off in refurbished condition](https://www.theverge.com/tech/650816/bose-quietcomfort-ultra-headphones-refurbished-ebay-deal-sale)
- - [Goodfire, which works on decoding the inner workings of AI models, raised $50M led by Menlo; source: Anthropic invested $1M, its first startup investment &lpar;Rocket Drew/The Information&rpar;](http://www.techmeme.com/250417/p25#a250417p25)
- - [Astronomers Report Increased Possibility of Life on Distant K2-18b Planet](https://www.cnet.com/science/space/astronomers-report-increased-possibility-of-life-on-distant-k2-18b-planet/#ftag=CAD590a51e)
- - [How Americans Are Surveilled During Protests](https://www.wired.com/story/uncanny-valley-podcast-how-americans-are-surveilled-during-protests/)<!-- TECH:END -->
+ - [Facebook considered offering an ad-free subscription after the Cambridge Analytica scandal](https://www.theverge.com/news/650927/facebook-paid-ad-free-subscription-cambridge-analytica)
+ - [Discord gets sued for allegedly violating child safety laws](https://www.theverge.com/news/650849/discord-gets-sued-for-allegedly-violating-child-safety-laws)
+ - [The first folding e-reader is smaller than a paperback](https://www.theverge.com/news/650922/readmoo-e-ink-mooink-v-color-folding-screen-ereader)
+ - [Google One AI Premium is free for college students until Spring 2026](https://www.theverge.com/news/650921/google-one-ai-premium-gemini-free-college-education)
+ - [New Jersey&#39;s AG sues Discord, alleging the platform&#39;s features to keep children under 13 safe from sexual predators and harmful content are inadequate &lpar;Justin Ling/Wired&rpar;](http://www.techmeme.com/250417/p26#a250417p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook, WhatsApp, and Instagram block use of Apple Intelligence](https://appleinsider.com/articles/25/04/17/facebook-whatsapp-and-instagram-block-use-of-apple-intelligence?utm_medium=rss)
- - [Bruvi BV-01 Review: Biodegradable Pods, Fast Coffee](https://www.wired.com/review/bruvi-bv-01/)
- - [Trump’s Tariffs Haven’t Resulted in Higher Prices on Amazon—Yet](https://www.wired.com/story/amazon-prices-tariffs-why-higher-lower/)
- - [The Wikimedia Foundation partners with Kaggle to release a dataset of &quot;structured Wikipedia content in English and French&quot; optimized for AI model training &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250417/p15#a250417p15)
- - [Processor cost could drive prices of the iPhone 18 range up](https://appleinsider.com/articles/25/04/17/processor-cost-could-drive-prices-of-the-iphone-18-range-up?utm_medium=rss)<!-- TECH:END -->
+ - [Best Kindle to Buy in 2025, Tested and Reviewed](https://www.wired.com/gallery/best-kindle/)
+ - [Archer and United plan NYC air taxi service for airport trips](https://www.theverge.com/news/650254/archer-nyc-air-taxi-airports-jfk-lga-united)
+ - [Discord is verifying some users&amp;#8217; age with ID and facial scans](https://www.theverge.com/news/650493/discord-age-verification-face-id-scan-experiment)
+ - [BondiBoost Blowout Brush Review: Proceed With Caution](https://www.wired.com/review/bondiboost-blowout-brush/)
+ - [The US FDA cleared Neuralink rival Precision Neuroscience in late March 2025 to offer a less invasive brain implant; the device contains 1,024 metal electrodes &lpar;Ike Swetlitz/Bloomberg&rpar;](http://www.techmeme.com/250417/p16#a250417p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

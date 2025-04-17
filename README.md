@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Santiago, Chile-based Toku, which helps businesses accept consumer payments, send payment reminders, and more, raised a $39M Series A led by Oak HC/FT &lpar;Jeff Kauflin/Forbes&rpar;](http://www.techmeme.com/250417/p20#a250417p20)
+ - [US v. Google redux: all the news from the ad tech trial](https://www.theverge.com/24237832/google-monopoly-trial-ad-tech-antitrust-us-search)
  - [13 Best Earplugs &lpar;2025&rpar;: for Concerts, Sleep, and Listening](https://www.wired.com/gallery/best-earplugs/)
  - [Galactus hungers in Fantastic Four: First Steps’ new trailer](https://www.theverge.com/news/643579/fantastic-four-first-steps-trailer-silver-surfer)
- - [New Jersey Sues Discord for Allegedly Failing to Protect Children](https://www.wired.com/story/new-jersey-sues-discord/)
- - [A US judge says Google acted illegally to maintain a monopoly in some online advertising tech, the second time in a year a court found Google acted illegally &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/250417/p19#a250417p19)
- - [Google loses adtech monopoly case](https://www.theverge.com/news/650665/google-loses-ad-tech-antitrust-monopoly-lawsuit)<!-- TECH:END -->
+ - [New Jersey Sues Discord for Allegedly Failing to Protect Children](https://www.wired.com/story/new-jersey-sues-discord/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

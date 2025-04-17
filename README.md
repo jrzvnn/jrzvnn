@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the CFPB terminated more than 1,400 workers, leaving about 200 employees and effectively gutting the agency that Elon Musk previously said to &quot;delete&quot; &lpar;Makena Kelly/Wired&rpar;](http://www.techmeme.com/250417/p38#a250417p38)
  - [Nike Workout Shoes With Compression and Heating Will Cost $900](https://www.cnet.com/tech/nike-workout-shoes-with-compression-and-heating-will-cost-900/#ftag=CAD590a51e)
  - [OpenAI launches Flex processing in beta, an API option halving o3 and o4-mini prices in exchange for slower responses and &quot;occasional resource unavailability&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250417/p37#a250417p37)
  - [Android 16&#39;s Last Beta is Rolling Out: How to Install Beta 4 on Your Pixel](https://www.cnet.com/tech/mobile/android-16-last-beta-rolling-out-how-to-install-beta-4-on-your-pixel/#ftag=CAD590a51e)
- - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
- - [Tesla&amp;#8217;s spring update activates adaptive high beams that won&amp;#8217;t blind oncoming drivers](https://www.theverge.com/news/651504/tesla-spring-update-2025-adaptive-headlights-ev-route-planning)<!-- TECH:END -->
+ - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

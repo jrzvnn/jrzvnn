@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Wikimedia Foundation partners with Kaggle to release a dataset of &quot;structured Wikipedia content in English and French&quot; optimized for AI model training &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250417/p15#a250417p15)
+ - [Processor cost could drive prices of the iPhone 18 range up](https://appleinsider.com/articles/25/04/17/processor-cost-could-drive-prices-of-the-iphone-18-range-up?utm_medium=rss)
+ - [This ‘College Protester’ Isn’t Real. It’s an AI-Powered Undercover Bot for Cops](https://www.wired.com/story/massive-blue-overwatch-ai-personas-police-suspects/)
  - [Wikipedia is giving AI developers its data to fend off bot scrapers](https://www.theverge.com/news/650467/wikipedia-kaggle-partnership-ai-dataset-machine-learning)
- - [Measles Cases Are Rising. Other Preventable Diseases Could Follow](https://www.wired.com/story/measles-cases-are-rising-other-diseases-could-follow/)
- - [If I Don’t Use AI, Will My Grandkids Still Think I’m Cool?](https://www.wired.com/story/the-prompt-using-chatgpt-with-grandkids/)
- - [TSMC CEO C. C. Wei says &quot;TSMC is not engaged in any discussion with other companies regarding any joint venture&quot;, after a recent report of a tie-up with Intel &lpar;Bloomberg&rpar;](http://www.techmeme.com/250417/p14#a250417p14)
- - [Nvidia CEO Jensen Huang arrived in China on April 16 and visited Beijing on April 17, a source says to meet officials to discuss Trump&#39;s new chip export rules &lpar;Financial Times&rpar;](http://www.techmeme.com/250417/p13#a250417p13)<!-- TECH:END -->
+ - [Measles Cases Are Rising. Other Preventable Diseases Could Follow](https://www.wired.com/story/measles-cases-are-rising-other-diseases-could-follow/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

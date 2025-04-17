@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro fked around and found out](http://9gag.com/gag/aO8DMO3)
+ - 😝 [Yup, every night](http://9gag.com/gag/a0e6rQB)
  - 😝 [A master chef is still a master blindfolded](http://9gag.com/gag/a9y8e8j)
- - 💣 [Always makes me laugh.](http://9gag.com/gag/aD2Zy0w)
- - 😝 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)
- - 👉 [Bro is a legend](http://9gag.com/gag/azxGp8Z)<!-- MEMES:END -->
+ - 💣 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)
+ - 😝 [9gaggers...](http://9gag.com/gag/a9y8GLo)
+ - 👉 [I thought she looked familiar.](http://9gag.com/gag/a9y8g4D)<!-- MEMES:END -->
 
 ---
 

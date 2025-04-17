@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro is a legend](http://9gag.com/gag/azxGp8Z)
- - 😝 [Chineese doctor fixes dislocated elbow in seconds](http://9gag.com/gag/awyLwmB)
- - 💣 [Americans unite.](http://9gag.com/gag/aryZYV5)
- - 😝 [The most amazing father and daughters duo](http://9gag.com/gag/aByPe2D)
- - 👉 [5 LEGO walkers vs 7 Obstacles](http://9gag.com/gag/aRBzpPj)<!-- MEMES:END -->
+ - 😝 [Yup, every night](http://9gag.com/gag/a0e6rQB)
+ - 😝 [Transferring the carbonation from a coke](http://9gag.com/gag/a34yOw5)
+ - 💣 [Chineese doctor fixes dislocated elbow in seconds](http://9gag.com/gag/awyLwmB)
+ - 😝 [Culvert being cleaned](http://9gag.com/gag/a1m5gqv)
+ - 👉 [I thought she looked familiar.](http://9gag.com/gag/a9y8g4D)<!-- MEMES:END -->
 
 ---
 

@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Best Kindle to Buy in 2025, Tested and Reviewed](https://www.wired.com/gallery/best-kindle/)
  - [Archer and United plan NYC air taxi service for airport trips](https://www.theverge.com/news/650254/archer-nyc-air-taxi-airports-jfk-lga-united)
+ - [A Doctor at Apple Reveals 9 Hidden Apple Watch Features](https://www.cnet.com/health/medical/doctor-apple-reveals-hidden-apple-watch-features/#ftag=CAD590a51e)
  - [Discord is verifying some users&amp;#8217; age with ID and facial scans](https://www.theverge.com/news/650493/discord-age-verification-face-id-scan-experiment)
- - [BondiBoost Blowout Brush Review: Proceed With Caution](https://www.wired.com/review/bondiboost-blowout-brush/)
- - [The US FDA cleared Neuralink rival Precision Neuroscience in late March 2025 to offer a less invasive brain implant; the device contains 1,024 metal electrodes &lpar;Ike Swetlitz/Bloomberg&rpar;](http://www.techmeme.com/250417/p16#a250417p16)<!-- TECH:END -->
+ - [BondiBoost Blowout Brush Review: Proceed With Caution](https://www.wired.com/review/bondiboost-blowout-brush/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

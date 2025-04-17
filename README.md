@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Haha!](http://9gag.com/gag/agm8eZx)
  - 😝 [This is Money Cat, upvoting does nothing for you and he evades Taxes](http://9gag.com/gag/aW4vyDx)
- - 💣 [Why?](http://9gag.com/gag/an7voM5)
- - 😝 [My definition of wealth](http://9gag.com/gag/aAy45mZ)
- - 👉 [Little dude is going places](http://9gag.com/gag/aAy45PZ)<!-- MEMES:END -->
+ - 😝 [Why?](http://9gag.com/gag/an7voM5)
+ - 💣 [My definition of wealth](http://9gag.com/gag/aAy45mZ)
+ - 😝 [Little dude is going places](http://9gag.com/gag/aAy45PZ)
+ - 👉 [What&#39;s your addiction? Pretty sure you have one](http://9gag.com/gag/ae9VBYb)<!-- MEMES:END -->
 
 ---
 

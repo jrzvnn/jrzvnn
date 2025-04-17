@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Perplexity is in discussions to integrate its AI assistant on Samsung&#39;s devices and has reached an agreement to preload Perplexity on Motorola&#39;s phones &lpar;Bloomberg&rpar;](http://www.techmeme.com/250416/p57#a250416p57)
+ - [Discord requires some UK and Australian users to verify their age by scanning their face or ID to access sensitive material; Discord says it&#39;s &quot;an experiment&quot; &lpar;Chris Scullion/Video Games Chronicle&rpar;](http://www.techmeme.com/250416/p56#a250416p56)
  - [A US judge grants a permanent injunction against an Ohio law that required platforms to verify users are at least 16 and seek parental consent for younger users &lpar;Bloomberg Law&rpar;](http://www.techmeme.com/250416/p55#a250416p55)
  - [Zuckerberg tells court he made WhatsApp and Instagram better](https://www.theverge.com/policy/650360/mark-zuckerberg-defends-instagram-whatsapp-ftc-meta-antitrust-trial)
- - [Google is making Gemini Live camera and screen sharing features free for all Android users in the coming weeks after launching them for Advanced users last week &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250416/p54#a250416p54)
- - [Big tech upset at Meta&#39;s poorly executed court document redactions](https://appleinsider.com/articles/25/04/17/big-tech-upset-at-metas-poorly-executed-court-document-redactions?utm_medium=rss)
- - [Moment SuperCage review: The ultimate iPhone filmmaking accessory](https://appleinsider.com/articles/25/04/17/moment-supercage-review-the-ultimate-iphone-filmmaking-accessory?utm_medium=rss)<!-- TECH:END -->
+ - [Google is making Gemini Live camera and screen sharing features free for all Android users in the coming weeks after launching them for Advanced users last week &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250416/p54#a250416p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

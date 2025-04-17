@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wikipedia is giving AI developers its data to fend off bot scrapers](https://www.theverge.com/news/650467/wikipedia-kaggle-partnership-ai-dataset-machine-learning)
+ - [Measles Cases Are Rising. Other Preventable Diseases Could Follow](https://www.wired.com/story/measles-cases-are-rising-other-diseases-could-follow/)
+ - [If I Don’t Use AI, Will My Grandkids Still Think I’m Cool?](https://www.wired.com/story/the-prompt-using-chatgpt-with-grandkids/)
  - [TSMC CEO C. C. Wei says &quot;TSMC is not engaged in any discussion with other companies regarding any joint venture&quot;, after a recent report of a tie-up with Intel &lpar;Bloomberg&rpar;](http://www.techmeme.com/250417/p14#a250417p14)
- - [Nvidia CEO Jensen Huang arrived in China on April 16 and visited Beijing on April 17, a source says to meet officials to discuss Trump&#39;s new chip export rules &lpar;Financial Times&rpar;](http://www.techmeme.com/250417/p13#a250417p13)
- - [Polish parcel locker operator InPost acquires UK delivery service Yodel, boosting its UK market share from 2% to ~8% and delivering 300M+ UK parcels annually &lpar;Konrad Krasuski/Bloomberg&rpar;](http://www.techmeme.com/250417/p12#a250417p12)
- - [Sources: Nvidia has privately pushed back against new US export rules, arguing China can already make some H20-level chips; Nvidia sold ~$12B of H20s in FY 2024 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250417/p11#a250417p11)
- - [In Q1 2025, AI and ML startups raised $73.1B, accounting for 57.9% of global VC funding, with OpenAI&#39;s recent round led by SoftBank contributing $40B &lpar;Jacob Robbins/PitchBook&rpar;](http://www.techmeme.com/250417/p10#a250417p10)<!-- TECH:END -->
+ - [Nvidia CEO Jensen Huang arrived in China on April 16 and visited Beijing on April 17, a source says to meet officials to discuss Trump&#39;s new chip export rules &lpar;Financial Times&rpar;](http://www.techmeme.com/250417/p13#a250417p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Karma is ... Black?](http://9gag.com/gag/aD2Zv67)
  - 😝 [9gaggers...](http://9gag.com/gag/a9y8GLo)
- - 😝 [11 minutes feels like 11 Years](http://9gag.com/gag/a9y8w5W)
  - 💣 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)
- - 😝 [Maybe maybe maybe](http://9gag.com/gag/a5QGg6O)
+ - 😝 [Over a game?](http://9gag.com/gag/a87Dvrp)
  - 👉 [Man helps save small dog from a large dog](http://9gag.com/gag/avyEqNW)<!-- MEMES:END -->
 
 ---

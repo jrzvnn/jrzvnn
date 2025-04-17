@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Newegg Promo Code: 10% Off - April 2025](https://www.wired.com/story/newegg-promo-code/)
+ - [Peacock Promo Code and Coupons: 16% Off April 2025](https://www.wired.com/story/peacock-promo-code/)
+ - [Strava acquires massively popular Runna app](https://www.theverge.com/tech/648075/strava-runna-acquisition-running-fitness-tech)
  - [Sources: OpenAI and SoftBank are considering investing in the UK for Stargate as part of an international expansion, if the project proves successful in the US &lpar;Financial Times&rpar;](http://www.techmeme.com/250417/p2#a250417p2)
- - [Docusign unveils AI contract agents, which can analyze agreements and surface issues that usually require human intervention, available by the end of 2025 &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/250417/p1#a250417p1)
- - [Auradine, which manufactures Bitcoin miners and offers AI infrastructure, raised a $153M Series C, with $138M in equity and $15M in debt, led by StepStone Group &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/250416/p59#a250416p59)
- - [xAI announces a memory feature for Grok in beta that enables the AI chatbot to remember details from past conversations and give more personalized responses &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250416/p58#a250416p58)
- - [iPhone 16 Camera Control button -- the ultimate guide](https://appleinsider.com/inside/iphone-16/tips/iphone-16-camera-control-button----the-ultimate-guide?utm_medium=rss)<!-- TECH:END -->
+ - [Docusign unveils AI contract agents, which can analyze agreements and surface issues that usually require human intervention, available by the end of 2025 &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/250417/p1#a250417p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

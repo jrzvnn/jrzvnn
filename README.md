@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Workers and researchers say data annotation jobs that many Venezuelans relied on have become scarce and poorly paid with the rise of generative AI &lpar;Laura Rodríguez Salamanca/Rest of World&rpar;](http://www.techmeme.com/250417/p7#a250417p7)
+ - [Is the Viral TikTok Sleepy Girl Mocktail As Good as It Sounds? We Found Out](https://www.cnet.com/health/sleep/is-the-viral-sleepy-girl-mocktail-as-good-as-it-sounds-we-found-out/#ftag=CAD590a51e)
+ - [Broadband is Expensive. CNET Survey Finds 63% of Internet Users Are Paying More Than Before](https://www.cnet.com/home/internet/broadband-is-expensive-cnet-survey-finds-63-of-internet-users-are-paying-more-than-before/#ftag=CAD590a51e)
  - [US community colleges are battling a flood of fake, or bot, students who bilk financial aid by enrolling in online classes and submitting AI-generated work &lpar;Jakob McWhinney/Voice of San Diego&rpar;](http://www.techmeme.com/250417/p6#a250417p6)
- - [Study: in South Korea, users with active YouTube accounts spent 210 minutes/day on the service in Q4, while Netflix subs spent 96 minutes/day on the streamer &lpar;Max Goldbart/Deadline&rpar;](http://www.techmeme.com/250417/p5#a250417p5)
- - [TSMC reports Q1 net income up 60.3% YoY to $11.1B, beating estimates, as customers stockpiled chips anticipating global trade disruptions spurred by US tariffs &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/250417/p4#a250417p4)
- - [China bans automakers from using &quot;smart driving&quot; or &quot;autonomous driving&quot; in ads for driver-assist tech and tightens scrutiny after a fatal Xiaomi EV crash &lpar;Reuters&rpar;](http://www.techmeme.com/250417/p3#a250417p3)<!-- TECH:END -->
+ - [Study: in South Korea, users with active YouTube accounts spent 210 minutes/day on the service in Q4, while Netflix subs spent 96 minutes/day on the streamer &lpar;Max Goldbart/Deadline&rpar;](http://www.techmeme.com/250417/p5#a250417p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

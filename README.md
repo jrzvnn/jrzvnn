@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says &quot;we won half of this case and we will appeal the other half&quot; of the US antitrust ruling, and &quot;we disagree&quot; with the decision on its publisher tools &lpar;@newsfromgoogle&rpar;](http://www.techmeme.com/250417/p22#a250417p22)
+ - [Thousands of Urine and Tissue Samples Are in Danger of Rotting After Staff Cuts at a CDC Laboratory](https://www.wired.com/story/cdc-job-cuts-niosh-human-samples/)
  - [Google has an illegal monopoly on online advertising, judge rules](https://appleinsider.com/articles/25/04/17/google-has-an-illegal-monopoly-on-online-advertising-judge-rules?utm_medium=rss)
  - [In her ruling, Judge Brinkema says Google did not meet the monopoly definition for tools used to buy display ads, but did for ad exchanges and website ad tools &lpar;Bloomberg&rpar;](http://www.techmeme.com/250417/p21#a250417p21)
- - [Anti-Vaxxers Are Grifting Off the Measles Outbreak—and Claim a Bioweapon Caused It](https://www.wired.com/story/antivax-grift-measles-crisis-bioweapon/)
- - [Santiago, Chile-based Toku, which helps businesses accept consumer payments, send payment reminders, and more, raised a $39M Series A led by Oak HC/FT &lpar;Jeff Kauflin/Forbes&rpar;](http://www.techmeme.com/250417/p20#a250417p20)
- - [US v. Google redux: all the news from the ad tech trial](https://www.theverge.com/24237832/google-monopoly-trial-ad-tech-antitrust-us-search)<!-- TECH:END -->
+ - [Anti-Vaxxers Are Grifting Off the Measles Outbreak—and Claim a Bioweapon Caused It](https://www.wired.com/story/antivax-grift-measles-crisis-bioweapon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

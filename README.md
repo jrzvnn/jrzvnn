@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Transferring the carbonation from a coke](http://9gag.com/gag/a34yOw5)
+ - 😝 [Maybe maybe maybe](http://9gag.com/gag/a5QGg6O)
+ - 💣 [Bro is a legend](http://9gag.com/gag/azxGp8Z)
  - 😝 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)
- - 😝 [Over a game?](http://9gag.com/gag/a87Dvrp)
- - 💣 [A reclining bronze effigy of the poet Victor Noir. It is rubbed by women who believe it will bring them a partner and fertility.](http://9gag.com/gag/aVvm5X2)
- - 😝 [I thought she looked familiar.](http://9gag.com/gag/a9y8g4D)
- - 👉 [11 minutes feels like 11 Years](http://9gag.com/gag/a9y8w5W)<!-- MEMES:END -->
+ - 👉 [Hehe](http://9gag.com/gag/aE0oKEo)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo shows off Mario Kart World&amp;#8217;s new courses, items, and open world features](https://www.theverge.com/news/649138/mario-kart-world-direct-nintendo-switch-2-gameplay)
+ - [Perplexity is reportedly key to Motorola&amp;#8217;s next Razr](https://www.theverge.com/news/650585/perplexity-ai-samsung-motorola-razr-assistant)
+ - [Best Apple Watch 2024: Buyer’s Guide to the Series 10, SE &amp; More](https://www.wired.com/gallery/best-apple-watch/)
  - [Mario Kart World Direct: Live Nintendo Switch 2 News](https://www.cnet.com/tech/gaming/switch-2-nintendo-direct-live-updates/#ftag=CAD590a51e)
- - [Temu and Shein are raising their US prices next week](https://www.theverge.com/news/650556/temu-shein-us-price-increase-tariffs)
- - [Best Internet Providers in Columbus, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-columbus-oh/#ftag=CAD590a51e)
- - [Global Payments acquires the 45% stake in Worldpay that Fidelity still owned and buys the 55% held by PE firm GTCR, in a deal valuing Worldpay at $24.3B &lpar;Steve Dickson/Bloomberg&rpar;](http://www.techmeme.com/250417/p17#a250417p17)
- - [GameSir G7 SE Controller Review: Hall Effect for Less](https://www.wired.com/review/gamesir-g7-se-review/)<!-- TECH:END -->
+ - [Temu and Shein are raising their US prices next week](https://www.theverge.com/news/650556/temu-shein-us-price-increase-tariffs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

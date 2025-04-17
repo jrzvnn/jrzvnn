@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google has an illegal monopoly on online advertising, judge rules](https://appleinsider.com/articles/25/04/17/google-has-an-illegal-monopoly-on-online-advertising-judge-rules?utm_medium=rss)
+ - [In her ruling, Judge Brinkema says Google did not meet the monopoly definition for tools used to buy display ads, but did for ad exchanges and website ad tools &lpar;Bloomberg&rpar;](http://www.techmeme.com/250417/p21#a250417p21)
+ - [Anti-Vaxxers Are Grifting Off the Measles Outbreak—and Claim a Bioweapon Caused It](https://www.wired.com/story/antivax-grift-measles-crisis-bioweapon/)
  - [Santiago, Chile-based Toku, which helps businesses accept consumer payments, send payment reminders, and more, raised a $39M Series A led by Oak HC/FT &lpar;Jeff Kauflin/Forbes&rpar;](http://www.techmeme.com/250417/p20#a250417p20)
- - [US v. Google redux: all the news from the ad tech trial](https://www.theverge.com/24237832/google-monopoly-trial-ad-tech-antitrust-us-search)
- - [13 Best Earplugs &lpar;2025&rpar;: for Concerts, Sleep, and Listening](https://www.wired.com/gallery/best-earplugs/)
- - [Galactus hungers in Fantastic Four: First Steps’ new trailer](https://www.theverge.com/news/643579/fantastic-four-first-steps-trailer-silver-surfer)
- - [New Jersey Sues Discord for Allegedly Failing to Protect Children](https://www.wired.com/story/new-jersey-sues-discord/)<!-- TECH:END -->
+ - [US v. Google redux: all the news from the ad tech trial](https://www.theverge.com/24237832/google-monopoly-trial-ad-tech-antitrust-us-search)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

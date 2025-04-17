@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 18, #207](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-18-207/#ftag=CAD590a51e)
  - [CFPB workers are receiving mass layoff notices](https://www.theverge.com/news/651570/cfpb-layoffs-notices-doge)
  - [Sources: the CFPB terminated more than 1,400 workers, leaving about 200 employees and effectively gutting the agency that Elon Musk previously said to &quot;delete&quot; &lpar;Makena Kelly/Wired&rpar;](http://www.techmeme.com/250417/p38#a250417p38)
- - [Nike Workout Shoes With Compression and Heating Will Cost $900](https://www.cnet.com/tech/nike-workout-shoes-with-compression-and-heating-will-cost-900/#ftag=CAD590a51e)
- - [OpenAI launches Flex processing in beta, an API option halving o3 and o4-mini prices in exchange for slower responses and &quot;occasional resource unavailability&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250417/p37#a250417p37)
- - [Android 16&#39;s Last Beta is Rolling Out: How to Install Beta 4 on Your Pixel](https://www.cnet.com/tech/mobile/android-16-last-beta-rolling-out-how-to-install-beta-4-on-your-pixel/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Marvel Rivals&#39; New Costume Customization Is Fairly Priced, but There&#39;s a Problem](https://www.cnet.com/tech/gaming/marvel-rivals-new-costume-customization-is-fairly-priced-but-theres-a-problem/#ftag=CAD590a51e)
+ - [Nike Workout Shoes With Compression and Heating Will Cost $900](https://www.cnet.com/tech/nike-workout-shoes-with-compression-and-heating-will-cost-900/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

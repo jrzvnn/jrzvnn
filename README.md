@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A retro hardware maker willing to pay Trump’s tariffs is suspending US shipments anyway](https://www.theverge.com/news/651007/retrotink-us-shipments-suspended-trump-tariffs)
+ - [Playdate’s second season of games starts in May](https://www.theverge.com/news/648193/playdate-season-2-games-price-release-date)
  - [Facebook considered offering an ad-free subscription after the Cambridge Analytica scandal](https://www.theverge.com/news/650927/facebook-paid-ad-free-subscription-cambridge-analytica)
  - [Discord gets sued for allegedly violating child safety laws](https://www.theverge.com/news/650849/discord-gets-sued-for-allegedly-violating-child-safety-laws)
- - [The first folding e-reader is smaller than a paperback](https://www.theverge.com/news/650922/readmoo-e-ink-mooink-v-color-folding-screen-ereader)
- - [Google One AI Premium is free for college students until Spring 2026](https://www.theverge.com/news/650921/google-one-ai-premium-gemini-free-college-education)
- - [New Jersey&#39;s AG sues Discord, alleging the platform&#39;s features to keep children under 13 safe from sexual predators and harmful content are inadequate &lpar;Justin Ling/Wired&rpar;](http://www.techmeme.com/250417/p26#a250417p26)<!-- TECH:END -->
+ - [The first folding e-reader is smaller than a paperback](https://www.theverge.com/news/650922/readmoo-e-ink-mooink-v-color-folding-screen-ereader)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

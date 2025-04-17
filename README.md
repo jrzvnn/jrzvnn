@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yup, every night](http://9gag.com/gag/a0e6rQB)
- - 😝 [Transferring the carbonation from a coke](http://9gag.com/gag/a34yOw5)
- - 💣 [Chineese doctor fixes dislocated elbow in seconds](http://9gag.com/gag/awyLwmB)
- - 😝 [Culvert being cleaned](http://9gag.com/gag/a1m5gqv)
- - 👉 [I thought she looked familiar.](http://9gag.com/gag/a9y8g4D)<!-- MEMES:END -->
+ - 😝 [Chineese doctor fixes dislocated elbow in seconds](http://9gag.com/gag/awyLwmB)
+ - 😝 [I thought she looked familiar.](http://9gag.com/gag/a9y8g4D)
+ - 💣 [Yup, every night](http://9gag.com/gag/a0e6rQB)
+ - 😝 [Maybe maybe maybe](http://9gag.com/gag/a5QGg6O)
+ - 👉 [Prince Rupert&#39;s drops &lpar;also known as Dutch tears or Batavian tears&rpar;](http://9gag.com/gag/aXP41P2)<!-- MEMES:END -->
 
 ---
 

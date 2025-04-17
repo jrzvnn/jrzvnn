@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [RUMOR - It seems that JK Rowling is suing Warner Brothers for the rights to Harry Potter, as the studio is looking for a diverse cast for the new version but Rowling prefers a cast more traditional and fait](http://9gag.com/gag/aLnGZ8v)
- - 😝 [Prince Rupert&#39;s drops &lpar;also known as Dutch tears or Batavian tears&rpar;](http://9gag.com/gag/aXP41P2)
- - 💣 [Effects of crowd movement at stadiums](http://9gag.com/gag/avyEjZX)
- - 😝 [Always makes me laugh.](http://9gag.com/gag/aD2Zy0w)
- - 👉 [This is how many layers of protection doctors wear when dealing with highly infectious diseases](http://9gag.com/gag/apRP7d8)<!-- MEMES:END -->
+ - 😝 [I thought she looked familiar.](http://9gag.com/gag/a9y8g4D)
+ - 😝 [This is how many layers of protection doctors wear when dealing with highly infectious diseases](http://9gag.com/gag/apRP7d8)
+ - 💣 [Prince Rupert&#39;s drops &lpar;also known as Dutch tears or Batavian tears&rpar;](http://9gag.com/gag/aXP41P2)
+ - 😝 [Chineese doctor fixes dislocated elbow in seconds](http://9gag.com/gag/awyLwmB)
+ - 👉 [Man helps save small dog from a large dog](http://9gag.com/gag/avyEqNW)<!-- MEMES:END -->
 
 ---
 

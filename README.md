@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Karma is ... Black?](http://9gag.com/gag/aD2Zv67)
  - 😝 [9gaggers...](http://9gag.com/gag/a9y8GLo)
+ - 😝 [Little lower](http://9gag.com/gag/aKGWZLg)
  - 💣 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)
  - 😝 [Over a game?](http://9gag.com/gag/a87Dvrp)
  - 👉 [Man helps save small dog from a large dog](http://9gag.com/gag/avyEqNW)<!-- MEMES:END -->

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A master chef is still a master blindfolded](http://9gag.com/gag/a9y8e8j)
- - 😝 [Transferring the carbonation from a coke](http://9gag.com/gag/a34yOw5)
- - 💣 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)
- - 😝 [I thought she looked familiar.](http://9gag.com/gag/a9y8g4D)
- - 👉 [Man helps save small dog from a large dog](http://9gag.com/gag/avyEqNW)<!-- MEMES:END -->
+ - 😝 [Little dude is going places](http://9gag.com/gag/aAy45PZ)
+ - 😝 [Bro is a legend](http://9gag.com/gag/azxGp8Z)
+ - 💣 [What&#39;s your addiction? Pretty sure you have one](http://9gag.com/gag/ae9VBYb)
+ - 😝 [Balkan dad morning routine](http://9gag.com/gag/adBnwrQ)
+ - 👉 [Karma is ... Black?](http://9gag.com/gag/aD2Zv67)<!-- MEMES:END -->
 
 ---
 

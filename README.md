@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix revenue rises to $10.5 billion following price hike](https://www.theverge.com/news/650930/netflix-revenue-rises-earnings-q1-2025)
+ - [Razer has quietly un-paused some laptop sales](https://www.theverge.com/news/651199/razer-blade-16-laptop-sales-resume-us-tariffs)
  - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Netflix reports Q1 revenue up 12.5% YoY to $10.54B, vs. $10.51B est., net income of $2.89B, and stops reporting number of subscribers on a quarterly basis &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250417/p34#a250417p34)
- - [Former YC President Geoff Ralston launches Safe AI Fund, or SAIF, providing initial funding of $100K with a $10M cap to startups that &quot;enhance AI safety&quot; &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250417/p33#a250417p33)
- - [Framework Laptop 13 review: it&#39;s modular and customizable, has a great keyboard and improved thermals, but it&#39;s pricey and the screen&#39;s brightness can be better &lpar;Kyle Barr/Gizmodo&rpar;](http://www.techmeme.com/250417/p32#a250417p32)
- - [Judge blocks Ohio&amp;#8217;s online parental consent law](https://www.theverge.com/news/651255/ohio-social-media-parental-consent-law-blocked-netchoice)<!-- TECH:END -->
+ - [Netflix reports Q1 revenue up 12.5% YoY to $10.54B, vs. $10.51B est., net income of $2.89B, and stops reporting subscriber numbers on a quarterly basis &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250417/p34#a250417p34)
+ - [Former YC President Geoff Ralston launches Safe AI Fund, or SAIF, providing initial funding of $100K with a $10M cap to startups that &quot;enhance AI safety&quot; &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250417/p33#a250417p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Little dude is going places](http://9gag.com/gag/aAy45PZ)
- - 😝 [Bro is a legend](http://9gag.com/gag/azxGp8Z)
- - 💣 [What&#39;s your addiction? Pretty sure you have one](http://9gag.com/gag/ae9VBYb)
- - 😝 [Balkan dad morning routine](http://9gag.com/gag/adBnwrQ)
- - 👉 [Karma is ... Black?](http://9gag.com/gag/aD2Zv67)<!-- MEMES:END -->
+ - 😝 [Transferring the carbonation from a coke](http://9gag.com/gag/a34yOw5)
+ - 😝 [Dude captures the take-off speed of an airplane](http://9gag.com/gag/a2vyAVe)
+ - 💣 [A master chef is still a master blindfolded](http://9gag.com/gag/a9y8e8j)
+ - 😝 [He thought he was smart...](http://9gag.com/gag/aMVno01)
+ - 👉 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)<!-- MEMES:END -->
 
 ---
 

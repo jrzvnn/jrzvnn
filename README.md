@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m sorry come again](http://9gag.com/gag/aNDVbWb)
- - 😝 [Bro fked around and found out](http://9gag.com/gag/aO8DMO3)
- - 💣 [Yup, every night](http://9gag.com/gag/a0e6rQB)
+ - 😝 [A master chef is still a master blindfolded](http://9gag.com/gag/a9y8e8j)
  - 😝 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)
- - 👉 [I thought she looked familiar.](http://9gag.com/gag/a9y8g4D)<!-- MEMES:END -->
+ - 💣 [Prince Rupert&#39;s drops &lpar;also known as Dutch tears or Batavian tears&rpar;](http://9gag.com/gag/aXP41P2)
+ - 😝 [I thought she looked familiar.](http://9gag.com/gag/a9y8g4D)
+ - 👉 [Always makes me laugh.](http://9gag.com/gag/aD2Zy0w)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s your addiction? Pretty sure you have one](http://9gag.com/gag/ae9VBYb)
- - 😝 [Balkan dad morning routine](http://9gag.com/gag/adBnwrQ)
- - 💣 [Its a big big project ,mom!!](http://9gag.com/gag/a34y6ne)
- - 😝 [Karma is ... Black?](http://9gag.com/gag/aD2Zv67)
- - 👉 [It&#39;s not a color thing, it&#39;s a culture thing](http://9gag.com/gag/azxGW1m)<!-- MEMES:END -->
+ - 😝 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)
+ - 😝 [Wonder why](http://9gag.com/gag/a0e6yQX)
+ - 💣 [Bro fked around and found out](http://9gag.com/gag/aO8DMO3)
+ - 😝 [Oh well..... i guess i should get lost in the crowd then](http://9gag.com/gag/aqyQPMR)
+ - 👉 [Bro is a legend](http://9gag.com/gag/azxGp8Z)<!-- MEMES:END -->
 
 ---
 

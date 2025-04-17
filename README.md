@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)
- - 😝 [Hehe](http://9gag.com/gag/aE0oKEo)
- - 💣 [Little lower](http://9gag.com/gag/aKGWZLg)
- - 😝 [Over a game?](http://9gag.com/gag/a87Dvrp)
- - 👉 [Dude captures the take-off speed of an airplane](http://9gag.com/gag/a2vyAVe)<!-- MEMES:END -->
+ - 😝 [11 minutes feels like 11 Years](http://9gag.com/gag/a9y8w5W)
+ - 😝 [Little lower](http://9gag.com/gag/aKGWZLg)
+ - 💣 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)
+ - 😝 [People who annoy you..](http://9gag.com/gag/aPA8Lxw)
+ - 👉 [Over a game?](http://9gag.com/gag/a87Dvrp)<!-- MEMES:END -->
 
 ---
 

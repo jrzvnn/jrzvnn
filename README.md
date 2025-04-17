@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Tim Cook spoke to US Commerce Secretary Howard Lutnick last week about how tariffs could affect iPhone prices, before Trump exempted Apple products &lpar;Washington Post&rpar;](http://www.techmeme.com/250417/p28#a250417p28)
- - [LMArena says it&#39;s starting a company, whose corporate name will be Arena Intelligence, with plans to raise money, and releases a new beta version of its website &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250417/p27#a250417p27)
- - [A retro hardware maker willing to pay Trump’s tariffs is suspending US shipments anyway](https://www.theverge.com/news/651007/retrotink-us-shipments-suspended-trump-tariffs)
- - [Playdate’s second season of games starts in May](https://www.theverge.com/news/648193/playdate-season-2-games-price-release-date)
- - [Best Internet Providers in Valrico, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-valrico-fl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Amazon plans to release its first TV streaming device with its Vega OS, used in some Echo devices, in 2025 and is courting publishers to add their apps &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/250417/p29#a250417p29)
+ - [Google Is Once Again Deemed a Monopoly, This Time in Ad Tech](https://www.wired.com/story/judge-rules-google-ad-business-monopoly/)
+ - [Donald Trump’s crusade against offshore wind just got more serious](https://www.theverge.com/news/650974/offshore-wind-donald-trump-empire-new-york-halt)
+ - [Sources: Tim Cook spoke to the US Commerce Secretary last week about how tariffs could affect iPhone prices before Trump exempted products from Apple and others &lpar;Washington Post&rpar;](http://www.techmeme.com/250417/p28#a250417p28)
+ - [LMArena says it&#39;s starting a company, whose corporate name will be Arena Intelligence, with plans to raise money, and releases a new beta version of its website &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250417/p27#a250417p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

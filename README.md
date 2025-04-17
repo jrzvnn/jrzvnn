@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Two-factor authentication](http://9gag.com/gag/abAWLzL)
- - 😝 [Man helps save small dog from a large dog](http://9gag.com/gag/avyEqNW)
- - 💣 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)
+ - 😝 [9gaggers...](http://9gag.com/gag/a9y8GLo)
  - 😝 [11 minutes feels like 11 Years](http://9gag.com/gag/a9y8w5W)
- - 👉 [People who annoy you..](http://9gag.com/gag/aPA8Lxw)<!-- MEMES:END -->
+ - 💣 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)
+ - 😝 [Maybe maybe maybe](http://9gag.com/gag/a5QGg6O)
+ - 👉 [Man helps save small dog from a large dog](http://9gag.com/gag/avyEqNW)<!-- MEMES:END -->
 
 ---
 

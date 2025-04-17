@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Smashing, an AI-powered news and social media posts aggregation app by Goodreads co-founder Otis Chandler, shuts down, citing its inability to grow quickly &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250417/p9#a250417p9)
+ - [Konvoy: the gaming industry saw 43 M&amp;A transactions and 77 VC deals in Q1 2025, and the sector is projected to be worth $186B in 2026, a 4.7% YoY jump &lpar;Rachel Kaser/VentureBeat&rpar;](http://www.techmeme.com/250417/p8#a250417p8)
  - [Workers and researchers say data annotation jobs that many Venezuelans relied on have become scarce and poorly paid with the rise of generative AI &lpar;Laura Rodríguez Salamanca/Rest of World&rpar;](http://www.techmeme.com/250417/p7#a250417p7)
  - [Is the Viral TikTok Sleepy Girl Mocktail As Good as It Sounds? We Found Out](https://www.cnet.com/health/sleep/is-the-viral-sleepy-girl-mocktail-as-good-as-it-sounds-we-found-out/#ftag=CAD590a51e)
- - [Broadband is Expensive. CNET Survey Finds 63% of Internet Users Are Paying More Than Before](https://www.cnet.com/home/internet/broadband-is-expensive-cnet-survey-finds-63-of-internet-users-are-paying-more-than-before/#ftag=CAD590a51e)
- - [US community colleges are battling a flood of fake, or bot, students who bilk financial aid by enrolling in online classes and submitting AI-generated work &lpar;Jakob McWhinney/Voice of San Diego&rpar;](http://www.techmeme.com/250417/p6#a250417p6)
- - [Study: in South Korea, users with active YouTube accounts spent 210 minutes/day on the service in Q4, while Netflix subs spent 96 minutes/day on the streamer &lpar;Max Goldbart/Deadline&rpar;](http://www.techmeme.com/250417/p5#a250417p5)<!-- TECH:END -->
+ - [Broadband is Expensive. CNET Survey Finds 63% of Internet Users Are Paying More Than Before](https://www.cnet.com/home/internet/broadband-is-expensive-cnet-survey-finds-63-of-internet-users-are-paying-more-than-before/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

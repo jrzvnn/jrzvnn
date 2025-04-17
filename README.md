@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You&#39;ve been hit by...](http://9gag.com/gag/aNDV7e3)
- - 😝 [WTF](http://9gag.com/gag/a4P58xZ)
- - 💣 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)
- - 😝 [People who annoy you..](http://9gag.com/gag/aPA8Lxw)
- - 👉 [Man helps save small dog from a large dog](http://9gag.com/gag/avyEqNW)<!-- MEMES:END -->
+ - 😝 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)
+ - 😝 [Over a game?](http://9gag.com/gag/a87Dvrp)
+ - 💣 [A reclining bronze effigy of the poet Victor Noir. It is rubbed by women who believe it will bring them a partner and fertility.](http://9gag.com/gag/aVvm5X2)
+ - 😝 [I thought she looked familiar.](http://9gag.com/gag/a9y8g4D)
+ - 👉 [11 minutes feels like 11 Years](http://9gag.com/gag/a9y8w5W)<!-- MEMES:END -->
 
 ---
 

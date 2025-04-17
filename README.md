@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Netflix reports Q1 revenue up 12.5% YoY to $10.54B, vs. $10.51B est., net income of $2.89B, and stops reporting number of subscribers on a quarterly basis &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250417/p34#a250417p34)
+ - [Former YC President Geoff Ralston launches Safe AI Fund, or SAIF, providing initial funding of $100K with a $10M cap to startups that &quot;enhance AI safety&quot; &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250417/p33#a250417p33)
  - [Framework Laptop 13 review: it&#39;s modular and customizable, has a great keyboard and improved thermals, but it&#39;s pricey and the screen&#39;s brightness can be better &lpar;Kyle Barr/Gizmodo&rpar;](http://www.techmeme.com/250417/p32#a250417p32)
- - [Judge blocks Ohio&amp;#8217;s online parental consent law](https://www.theverge.com/news/651255/ohio-social-media-parental-consent-law-blocked-netchoice)
- - [A call from Tim Cook helped convince Trump to introduce tariff exemptions](https://appleinsider.com/articles/25/04/17/a-call-from-tim-cook-helped-convince-trump-to-introduce-tariff-exemptions?utm_medium=rss)
- - [Just look at Huawei’s trifold phone](https://www.theverge.com/mobile/650749/huawei-mate-xt-trifoldphotos)
- - [Google is offering its Google One AI Premium plan for free to US college students until spring 2026; students have until June 30, 2025, to sign up &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250417/p31#a250417p31)<!-- TECH:END -->
+ - [Judge blocks Ohio&amp;#8217;s online parental consent law](https://www.theverge.com/news/651255/ohio-social-media-parental-consent-law-blocked-netchoice)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

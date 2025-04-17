@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia CEO Jensen Huang arrived in China on April 16 and visited Beijing on April 17, a source says to meet officials to discuss Trump&#39;s new chip export rules &lpar;Financial Times&rpar;](http://www.techmeme.com/250417/p13#a250417p13)
  - [Polish parcel locker operator InPost acquires UK delivery service Yodel, boosting its UK market share from 2% to ~8% and delivering 300M+ UK parcels annually &lpar;Konrad Krasuski/Bloomberg&rpar;](http://www.techmeme.com/250417/p12#a250417p12)
  - [Sources: Nvidia has privately pushed back against new US export rules, arguing China can already make some H20-level chips; Nvidia sold ~$12B of H20s in FY 2024 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250417/p11#a250417p11)
  - [In Q1 2025, AI and ML startups raised $73.1B, accounting for 57.9% of global VC funding, with OpenAI&#39;s recent round led by SoftBank contributing $40B &lpar;Jacob Robbins/PitchBook&rpar;](http://www.techmeme.com/250417/p10#a250417p10)
- - [Smashing, an AI-powered news and social media posts aggregation app by Goodreads co-founder Otis Chandler, shuts down, citing its inability to grow quickly &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250417/p9#a250417p9)
- - [Konvoy: the gaming industry saw 43 M&amp;A transactions and 77 VC deals in Q1 2025, and the sector is projected to be worth $186B in 2026, a 4.7% YoY jump &lpar;Rachel Kaser/VentureBeat&rpar;](http://www.techmeme.com/250417/p8#a250417p8)<!-- TECH:END -->
+ - [Smashing, an AI-powered news and social media posts aggregation app by Goodreads co-founder Otis Chandler, shuts down, citing its inability to grow quickly &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250417/p9#a250417p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

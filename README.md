@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe maybe maybe](http://9gag.com/gag/a5QGg6O)
- - 😝 [Transferring the carbonation from a coke](http://9gag.com/gag/a34yOw5)
- - 💣 [Stand up for your rights](http://9gag.com/gag/amomKxd)
- - 😝 [This is how many layers of protection doctors wear when dealing with highly infectious diseases](http://9gag.com/gag/apRP7d8)
- - 👉 [Man helps save small dog from a large dog](http://9gag.com/gag/avyEqNW)<!-- MEMES:END -->
+ - 😝 [Life is like Chess](http://9gag.com/gag/aYQP5Qm)
+ - 😝 [Karma is ... Black?](http://9gag.com/gag/aD2Zv67)
+ - 💣 [This is Money Cat, upvoting does nothing for you and he evades Taxes](http://9gag.com/gag/aW4vyDx)
+ - 😝 [Little dude is going places](http://9gag.com/gag/aAy45PZ)
+ - 👉 [Why?](http://9gag.com/gag/an7voM5)<!-- MEMES:END -->
 
 ---
 

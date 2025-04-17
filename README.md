@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Effects of crowd movement at stadiums](http://9gag.com/gag/avyEjZX)
- - 😝 [Prince Rupert&#39;s drops &lpar;also known as Dutch tears or Batavian tears&rpar;](http://9gag.com/gag/aXP41P2)
- - 💣 [Chineese doctor fixes dislocated elbow in seconds](http://9gag.com/gag/awyLwmB)
- - 😝 [Maybe maybe maybe](http://9gag.com/gag/a5QGg6O)
- - 👉 [I thought she looked familiar.](http://9gag.com/gag/a9y8g4D)<!-- MEMES:END -->
+ - 😝 [I see that as a win](http://9gag.com/gag/ayNWGDV)
+ - 😝 [Americans unite.](http://9gag.com/gag/aryZYV5)
+ - 💣 [The most amazing father and daughters duo](http://9gag.com/gag/aByPe2D)
+ - 😝 [5 LEGO walkers vs 7 Obstacles](http://9gag.com/gag/aRBzpPj)
+ - 👉 [Chineese doctor fixes dislocated elbow in seconds](http://9gag.com/gag/awyLwmB)<!-- MEMES:END -->
 
 ---
 

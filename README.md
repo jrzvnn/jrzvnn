@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Docusign unveils AI contract agents, which can analyze agreements and surface issues that usually require human intervention, available by the end of 2025 &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/250417/p1#a250417p1)
  - [Auradine, which manufactures Bitcoin miners and offers AI infrastructure, raised a $153M Series C, with $138M in equity and $15M in debt, led by StepStone Group &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/250416/p59#a250416p59)
  - [xAI announces a memory feature for Grok in beta that enables the AI chatbot to remember details from past conversations and give more personalized responses &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250416/p58#a250416p58)
  - [iPhone 16 Camera Control button -- the ultimate guide](https://appleinsider.com/inside/iphone-16/tips/iphone-16-camera-control-button----the-ultimate-guide?utm_medium=rss)
- - [Sources: Perplexity is in discussions to integrate its AI assistant on Samsung&#39;s devices and has reached an agreement to preload Perplexity on Motorola&#39;s phones &lpar;Bloomberg&rpar;](http://www.techmeme.com/250416/p57#a250416p57)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, April 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-april-17/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Perplexity is in discussions to integrate its AI assistant on Samsung&#39;s devices and has reached an agreement to preload Perplexity on Motorola&#39;s phones &lpar;Bloomberg&rpar;](http://www.techmeme.com/250416/p57#a250416p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

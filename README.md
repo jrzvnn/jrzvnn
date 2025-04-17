@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Life is like Chess](http://9gag.com/gag/aYQP5Qm)
+ - 😝 [...](http://9gag.com/gag/agm89Mn)
  - 😝 [Karma is ... Black?](http://9gag.com/gag/aD2Zv67)
  - 💣 [This is Money Cat, upvoting does nothing for you and he evades Taxes](http://9gag.com/gag/aW4vyDx)
- - 😝 [Little dude is going places](http://9gag.com/gag/aAy45PZ)
- - 👉 [Why?](http://9gag.com/gag/an7voM5)<!-- MEMES:END -->
+ - 😝 [Why?](http://9gag.com/gag/an7voM5)
+ - 👉 [Little dude is going places](http://9gag.com/gag/aAy45PZ)<!-- MEMES:END -->
 
 ---
 

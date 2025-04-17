@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [9 Best Indoor Security Cameras &lpar;2025&rpar;: For Homes and Apartments](https://www.wired.com/gallery/best-security-cameras/)
+ - [At $79, Google’s TV Streamer 4K has never been cheaper](https://www.theverge.com/tech/650588/google-tv-streamer-4k-ipad-pro-m2-deal-sale)
  - [Audio-Technica&amp;#8217;s new $9,999 turntable levitates and glows](https://www.theverge.com/news/650584/audio-technica-hotaru-turntable-record-player-vinyl-levitate)
  - [8 Best Dash Appliances &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-dash-appliances/)
- - [Sinners is a breathtakingly horrific ode to Black mythology](https://www.theverge.com/movie-reviews/649188/sinners-review)
- - [How shippers are trying to keep up with Trump&amp;#8217;s trade war](https://www.theverge.com/decoder-podcast-with-nilay-patel/649986/trump-tariffs-china-ryan-petersen-flexport-interview)
- - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)<!-- TECH:END -->
+ - [Sinners is a breathtakingly horrific ode to Black mythology](https://www.theverge.com/movie-reviews/649188/sinners-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

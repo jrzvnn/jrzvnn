@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LMArena says it&#39;s starting a company, whose corporate name will be Arena Intelligence, with plans to raise money, and releases a new beta version of its website &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250417/p27#a250417p27)
  - [A retro hardware maker willing to pay Trump’s tariffs is suspending US shipments anyway](https://www.theverge.com/news/651007/retrotink-us-shipments-suspended-trump-tariffs)
  - [Playdate’s second season of games starts in May](https://www.theverge.com/news/648193/playdate-season-2-games-price-release-date)
  - [Facebook considered offering an ad-free subscription after the Cambridge Analytica scandal](https://www.theverge.com/news/650927/facebook-paid-ad-free-subscription-cambridge-analytica)
- - [Discord gets sued for allegedly violating child safety laws](https://www.theverge.com/news/650849/discord-gets-sued-for-allegedly-violating-child-safety-laws)
- - [The first folding e-reader is smaller than a paperback](https://www.theverge.com/news/650922/readmoo-e-ink-mooink-v-color-folding-screen-ereader)<!-- TECH:END -->
+ - [Discord gets sued for allegedly violating child safety laws](https://www.theverge.com/news/650849/discord-gets-sued-for-allegedly-violating-child-safety-laws)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

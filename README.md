@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My definition of wealth](http://9gag.com/gag/aAy45mZ)
- - 😝 [Bro is a legend](http://9gag.com/gag/azxGp8Z)
- - 💣 [Little dude is going places](http://9gag.com/gag/aAy45PZ)
- - 😝 [What&#39;s your addiction? Pretty sure you have one](http://9gag.com/gag/ae9VBYb)
- - 👉 [Balkan dad morning routine](http://9gag.com/gag/adBnwrQ)<!-- MEMES:END -->
+ - 😝 [9gaggers...](http://9gag.com/gag/a9y8GLo)
+ - 😝 [Maybe maybe maybe](http://9gag.com/gag/a5QGg6O)
+ - 💣 [I thought she looked familiar.](http://9gag.com/gag/a9y8g4D)
+ - 😝 [Little lower](http://9gag.com/gag/aKGWZLg)
+ - 👉 [People who annoy you..](http://9gag.com/gag/aPA8Lxw)<!-- MEMES:END -->
 
 ---
 

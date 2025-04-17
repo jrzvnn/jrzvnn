@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Facebook, WhatsApp, and Instagram block use of Apple Intelligence](https://appleinsider.com/articles/25/04/17/facebook-whatsapp-and-instagram-block-use-of-apple-intelligence?utm_medium=rss)
+ - [Netflix says co-founder Reed Hastings has left his post as executive chairman to become chairman and non-executive director of the company &lpar;Dade Hayes/Deadline&rpar;](http://www.techmeme.com/250417/p35#a250417p35)
  - [Netflix revenue rises to $10.5 billion following price hike](https://www.theverge.com/news/650930/netflix-revenue-rises-earnings-q1-2025)
  - [Razer has quietly un-paused some laptop sales](https://www.theverge.com/news/651199/razer-blade-16-laptop-sales-resume-us-tariffs)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Netflix reports Q1 revenue up 12.5% YoY to $10.54B, vs. $10.51B est., net income of $2.89B, and stops reporting subscriber numbers on a quarterly basis &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250417/p34#a250417p34)
- - [Former YC President Geoff Ralston launches Safe AI Fund, or SAIF, providing initial funding of $100K with a $10M cap to startups that &quot;enhance AI safety&quot; &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250417/p33#a250417p33)<!-- TECH:END -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

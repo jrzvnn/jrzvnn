@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google has an illegal monopoly on online advertising, judge rules](https://appleinsider.com/articles/25/04/17/google-has-an-illegal-monopoly-on-online-advertising-judge-rules?utm_medium=rss)
- - [Instagram Blend lets you share a Reels feed with friends](https://www.theverge.com/news/650333/instagram-blend-reels-feed-friends-dm-group-chat)
- - [Framework Laptop 13 &lpar;2025&rpar; review: getting better with age](https://www.theverge.com/reviews/650608/framework-laptop-13-review-2025-amd-ryzen-ai-300)
- - [Brendan Carr threatens Comcast over coverage of Abrego Garcia](https://www.theverge.com/news/650664/fcc-brendan-carr-abrego-garcia-coverage-threats)
- - [The DOJ and 17 US states that brought the antitrust case seek to force Google to sell off its &quot;network&quot; ad business, which is ~12% of Alphabet&#39;s total revenue &lpar;Axios&rpar;](http://www.techmeme.com/250417/p23#a250417p23)<!-- TECH:END -->
+ - [Bose’s QuietComfort Ultra are nearly $200 off in refurbished condition](https://www.theverge.com/tech/650816/bose-quietcomfort-ultra-headphones-refurbished-ebay-deal-sale)
+ - [Goodfire, which works on decoding the inner workings of AI models, raised $50M led by Menlo; source: Anthropic invested $1M, its first startup investment &lpar;Rocket Drew/The Information&rpar;](http://www.techmeme.com/250417/p25#a250417p25)
+ - [How Americans Are Surveilled During Protests](https://www.wired.com/story/uncanny-valley-podcast-how-americans-are-surveilled-during-protests/)
+ - [Instagram launches Blend, an invite-only, personalized Reels feed for users and their friends in a group chat with new content everyday &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250417/p24#a250417p24)
+ - [Google has an illegal monopoly on online advertising, judge rules](https://appleinsider.com/articles/25/04/17/google-has-an-illegal-monopoly-on-online-advertising-judge-rules?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

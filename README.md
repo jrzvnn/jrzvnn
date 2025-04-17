@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google loses adtech monopoly case](https://www.theverge.com/news/650665/google-loses-ad-tech-antitrust-monopoly-lawsuit)
- - [Leaked email: the US CFPB plans a 50% reduction in supervisory activities and a shift in focus from fintech companies back to traditional banks &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250417/p18#a250417p18)
- - [Scientists Find Promising Indication of Extraterrestrial Life—124 Light-Years Away](https://www.wired.com/story/scientists-find-promising-indication-of-extraterrestrial-life-124-light-years-away/)
- - [9 Best Indoor Security Cameras &lpar;2025&rpar;: For Homes and Apartments](https://www.wired.com/gallery/best-security-cameras/)
- - [At $79, Google’s TV Streamer 4K has never been cheaper](https://www.theverge.com/tech/650588/google-tv-streamer-4k-ipad-pro-m2-deal-sale)<!-- TECH:END -->
+ - [13 Best Earplugs &lpar;2025&rpar;: for Concerts, Sleep, and Listening](https://www.wired.com/gallery/best-earplugs/)
+ - [Galactus hungers in Fantastic Four: First Steps’ new trailer](https://www.theverge.com/news/643579/fantastic-four-first-steps-trailer-silver-surfer)
+ - [New Jersey Sues Discord for Allegedly Failing to Protect Children](https://www.wired.com/story/new-jersey-sues-discord/)
+ - [A US judge says Google acted illegally to maintain a monopoly in some online advertising tech, the second time in a year a court found Google acted illegally &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/250417/p19#a250417p19)
+ - [Google loses adtech monopoly case](https://www.theverge.com/news/650665/google-loses-ad-tech-antitrust-monopoly-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

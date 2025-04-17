@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is Money Cat, upvoting does nothing for you and he evades Taxes](http://9gag.com/gag/aW4vyDx)
- - 😝 [Why?](http://9gag.com/gag/an7voM5)
- - 💣 [My definition of wealth](http://9gag.com/gag/aAy45mZ)
- - 😝 [Little dude is going places](http://9gag.com/gag/aAy45PZ)
- - 👉 [What&#39;s your addiction? Pretty sure you have one](http://9gag.com/gag/ae9VBYb)<!-- MEMES:END -->
+ - 😝 [You&#39;ve been hit by...](http://9gag.com/gag/aNDV7e3)
+ - 😝 [WTF](http://9gag.com/gag/a4P58xZ)
+ - 💣 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)
+ - 😝 [People who annoy you..](http://9gag.com/gag/aPA8Lxw)
+ - 👉 [Man helps save small dog from a large dog](http://9gag.com/gag/avyEqNW)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Kindle to Buy in 2025, Tested and Reviewed](https://www.wired.com/gallery/best-kindle/)
- - [Archer and United plan NYC air taxi service for airport trips](https://www.theverge.com/news/650254/archer-nyc-air-taxi-airports-jfk-lga-united)
- - [A Doctor at Apple Reveals 9 Hidden Apple Watch Features](https://www.cnet.com/health/medical/doctor-apple-reveals-hidden-apple-watch-features/#ftag=CAD590a51e)
- - [Discord is verifying some users&amp;#8217; age with ID and facial scans](https://www.theverge.com/news/650493/discord-age-verification-face-id-scan-experiment)
- - [BondiBoost Blowout Brush Review: Proceed With Caution](https://www.wired.com/review/bondiboost-blowout-brush/)<!-- TECH:END -->
+ - [Mario Kart World Direct: Live Nintendo Switch 2 News](https://www.cnet.com/tech/gaming/switch-2-nintendo-direct-live-updates/#ftag=CAD590a51e)
+ - [Temu and Shein are raising their US prices next week](https://www.theverge.com/news/650556/temu-shein-us-price-increase-tariffs)
+ - [Best Internet Providers in Columbus, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-columbus-oh/#ftag=CAD590a51e)
+ - [Global Payments acquires the 45% stake in Worldpay that Fidelity still owned and buys the 55% held by PE firm GTCR, in a deal valuing Worldpay at $24.3B &lpar;Steve Dickson/Bloomberg&rpar;](http://www.techmeme.com/250417/p17#a250417p17)
+ - [GameSir G7 SE Controller Review: Hall Effect for Less](https://www.wired.com/review/gamesir-g7-se-review/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

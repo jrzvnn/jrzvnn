@@ -157,10 +157,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Next Apple Vision headset could have a refined battery cable](https://appleinsider.com/articles/25/04/17/next-apple-vision-headset-could-have-a-refined-battery-cable?utm_medium=rss)
  - [Nintendo shows off Mario Kart World&amp;#8217;s new courses, items, and open world features](https://www.theverge.com/news/649138/mario-kart-world-direct-nintendo-switch-2-gameplay)
  - [Perplexity is reportedly key to Motorola&amp;#8217;s next Razr](https://www.theverge.com/news/650585/perplexity-ai-samsung-motorola-razr-assistant)
  - [Best Apple Watch 2024: Buyer’s Guide to the Series 10, SE &amp; More](https://www.wired.com/gallery/best-apple-watch/)
- - [Mario Kart World Direct: Live Nintendo Switch 2 News](https://www.cnet.com/tech/gaming/switch-2-nintendo-direct-live-updates/#ftag=CAD590a51e)
  - [Temu and Shein are raising their US prices next week](https://www.theverge.com/news/650556/temu-shein-us-price-increase-tariffs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

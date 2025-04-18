@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CFPB workers are receiving mass layoff notices](https://www.theverge.com/news/651570/cfpb-layoffs-notices-doge)
- - [Sources: the CFPB terminated more than 1,400 workers, leaving about 200 employees and effectively gutting the agency that Elon Musk previously said to &quot;delete&quot; &lpar;Makena Kelly/Wired&rpar;](http://www.techmeme.com/250417/p38#a250417p38)
- - [Nike Workout Shoes With Compression and Heating Will Cost $900](https://www.cnet.com/tech/nike-workout-shoes-with-compression-and-heating-will-cost-900/#ftag=CAD590a51e)
- - [OpenAI launches Flex processing in beta, an API option halving o3 and o4-mini prices in exchange for slower responses and &quot;occasional resource unavailability&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250417/p37#a250417p37)
- - [Android 16&#39;s Last Beta is Rolling Out: How to Install Beta 4 on Your Pixel](https://www.cnet.com/tech/mobile/android-16-last-beta-rolling-out-how-to-install-beta-4-on-your-pixel/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US consumers are flocking to Chinese shopping apps DHgate and Taobao, which let them buy direct from manufacturers, as Shein and Temu prices rise amid tariffs &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250417/p41#a250417p41)
+ - [Sources: Meta asked Microsoft, Amazon, and others over the past year to fund Llama training costs in exchange for incentives, as part of a &quot;Llama Consortium&quot; &lpar;The Information&rpar;](http://www.techmeme.com/250417/p40#a250417p40)
+ - [Apple Intelligence features, such as Writing Tools, are no longer available in Meta&#39;s iOS apps including Facebook, WhatsApp, and Threads &lpar;Filipe Espósito/9to5Mac&rpar;](http://www.techmeme.com/250417/p39#a250417p39)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 18, #207](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-18-207/#ftag=CAD590a51e)
+ - [CFPB workers are receiving mass layoff notices](https://www.theverge.com/news/651570/cfpb-layoffs-notices-doge)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

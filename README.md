@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So many images to try. &lpar;in hidden sub-sub-sub-folders&rpar;.](http://9gag.com/gag/aYQP5yw)
- - 😝 [Woody woodpecker](http://9gag.com/gag/aAy4919)
- - 💣 [Boeing CEO earns $32.8M; while the company spirals downward.](http://9gag.com/gag/agm8z7W)
- - 😝 [Bro fked around and found out](http://9gag.com/gag/aO8DMO3)
- - 👉 [Effects of crowd movement at stadiums](http://9gag.com/gag/avyEjZX)<!-- MEMES:END -->
+ - 😝 [Always makes me laugh.](http://9gag.com/gag/aD2Zy0w)
+ - 😝 [Man helps save small dog from a large dog](http://9gag.com/gag/avyEqNW)
+ - 💣 [I&#39;m sorry come again](http://9gag.com/gag/aNDVbWb)
+ - 😝 [Transferring the carbonation from a coke](http://9gag.com/gag/a34yOw5)
+ - 👉 [Just the tip, you glutton.](http://9gag.com/gag/aNDVMXv)<!-- MEMES:END -->
 
 ---
 

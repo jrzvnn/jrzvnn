@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The MAGA-tech situationship](https://www.theverge.com/politics/651439/maga-tech-populism-antitrust-bannon-lina-khan-ftc)
- - [14 Best Tablets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-tablets/)
- - [Nintendo says Switch 2 pre-orders will start in the US on April 24, with the price staying at the initially announced $450; prices of accessories will go up &lpar;The Verge&rpar;](http://www.techmeme.com/250418/p9#a250418p9)
- - [Satisfy Your Sweet Tooth With These 6 Natural Sugar Substitutes](https://www.cnet.com/health/nutrition/6-natural-sugar-substitutes/#ftag=CAD590a51e)
- - [Sources: the EU planned to penalize Meta and Apple on Tuesday but delayed the announcement, avoiding a conflict with the Trump administration before trade talks &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250418/p8#a250418p8)<!-- TECH:END -->
+ - [ICE Is Paying Palantir $30 Million to Build ‘ImmigrationOS’ Surveillance Platform](https://www.wired.com/story/ice-palantir-immigrationos/)
+ - [Apple brings game card sharing to Apple Sports](https://appleinsider.com/articles/25/04/18/apple-brings-game-card-sharing-to-apple-sports?utm_medium=rss)
+ - [Subaru&amp;#8217;s only EV adds 25 percent more range, faster charging, and improved AWD](https://www.theverge.com/news/651786/subaru-solterra-ev-2026-facelift)
+ - [The Nintendo Switch 2 Price Won&#39;t Get Hit By Trump&#39;s Tariffs](https://www.wired.com/story/the-nintendo-switch-2-price-wont-get-hit-by-trumps-tariffs/)
+ - [The MAGA-tech situationship](https://www.theverge.com/politics/651439/maga-tech-populism-antitrust-bannon-lina-khan-ftc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

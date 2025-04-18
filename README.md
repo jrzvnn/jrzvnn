@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro is a legend](http://9gag.com/gag/azxGp8Z)
- - 😝 [Female](http://9gag.com/gag/aGyMQm5)
- - 💣 [I\u2019d prefer to keep the dogs and deport the Islamists if I\u2019m honest.](http://9gag.com/gag/avyEj8q)
- - 😝 [Propaganda video](http://9gag.com/gag/aPA8NGP)
- - 👉 [Some good news](http://9gag.com/gag/aqyQPgp)<!-- MEMES:END -->
+ - 😝 [I thought she looked familiar.](http://9gag.com/gag/a9y8g4D)
+ - 😝 [Transferring the carbonation from a coke](http://9gag.com/gag/a34yOw5)
+ - 💣 [Effects of crowd movement at stadiums](http://9gag.com/gag/avyEjZX)
+ - 😝 [He thought he was smart...](http://9gag.com/gag/aMVno01)
+ - 👉 [Propaganda video](http://9gag.com/gag/aPA8NGP)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Effects of crowd movement at stadiums](http://9gag.com/gag/avyEjZX)
- - 😝 [Propaganda video](http://9gag.com/gag/aPA8NGP)
- - 💣 [Keeping things simple.](http://9gag.com/gag/awyL6nx)
- - 😝 [Meow meow Motherf**ker](http://9gag.com/gag/ayNWOoq)
+ - 😝 [Prince Rupert&#39;s drops &lpar;also known as Dutch tears or Batavian tears&rpar;](http://9gag.com/gag/aXP41P2)
+ - 😝 [Keeping things simple.](http://9gag.com/gag/awyL6nx)
+ - 💣 [Female](http://9gag.com/gag/aGyMQm5)
+ - 😝 [I&#39;m sorry come again](http://9gag.com/gag/aNDVbWb)
  - 👉 [He thought he was smart...](http://9gag.com/gag/aMVno01)<!-- MEMES:END -->
 
 ---

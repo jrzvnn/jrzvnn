@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wonder why](http://9gag.com/gag/a0e6yQX)
- - 😝 [This is how many layers of protection doctors wear when dealing with highly infectious diseases](http://9gag.com/gag/apRP7d8)
- - 💣 [Prince Rupert&#39;s drops &lpar;also known as Dutch tears or Batavian tears&rpar;](http://9gag.com/gag/aXP41P2)
- - 😝 [I thought she looked familiar.](http://9gag.com/gag/a9y8g4D)
- - 👉 [Man helps save small dog from a large dog](http://9gag.com/gag/avyEqNW)<!-- MEMES:END -->
+ - 😝 [Chineese doctor fixes dislocated elbow in seconds](http://9gag.com/gag/awyLwmB)
+ - 😝 [Hol up - here have a chair](http://9gag.com/gag/aRBzdL5)
+ - 💣 [Shark photobombs birthday video](http://9gag.com/gag/axybKRM)
+ - 😝 [Effects of crowd movement at stadiums](http://9gag.com/gag/avyEjZX)
+ - 👉 [Woody woodpecker](http://9gag.com/gag/aAy4919)<!-- MEMES:END -->
 
 ---
 

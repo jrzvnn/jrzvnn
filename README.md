@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Target and GameStop announce when their Switch 2 preorders start](https://www.theverge.com/news/651971/nintendo-switch-2-target-preorders-time)
  - [Experts say two federal judges declaring Google a monopoly within a year signals a judicial shift toward addressing anticompetitive behavior in digital markets &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/250418/p13#a250418p13)
  - [When you report bugs on iOS, some content may be used for AI training](https://appleinsider.com/articles/25/04/18/when-you-report-bugs-on-ios-some-content-may-be-used-for-ai-training?utm_medium=rss)
- - [WWE WrestleMania 41: Match Card and Where to Watch All the Action](https://www.cnet.com/tech/services-and-software/wwe-wrestlemania-41-match-card-and-where-to-watch-all-the-action/#ftag=CAD590a51e)
- - [Cops can’t do cell tower mass surveillance ‘dumps,’ court rules](https://www.theverge.com/news/652036/cops-cell-tower-dumps-unconstitutional-court-ruling)
- - [I Played All the Switch 2 Games: What to Look Forward To After April 24 Preorders](https://www.cnet.com/tech/gaming/i-played-all-the-switch-2-games-what-to-look-forward-to-after-april-24-preorders/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [After 100 Years, We Now Have a Video of a Living Colossal Squid: Watch Now](https://www.cnet.com/science/biology/after-100-years-we-now-have-a-video-of-a-living-colossal-squid-watch-now/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for April 19, #1400](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-19-1400/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

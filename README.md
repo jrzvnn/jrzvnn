@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [5 LEGO walkers vs 7 Obstacles](http://9gag.com/gag/aRBzpPj)
+ - 😝 [Keeping things simple.](http://9gag.com/gag/awyL6nx)
  - 😝 [Delivered](http://9gag.com/gag/ae9VLRO)
- - 💣 [Chineese doctor fixes dislocated elbow in seconds](http://9gag.com/gag/awyLwmB)
- - 😝 [A family of three foxes](http://9gag.com/gag/a87DP1V)
+ - 💣 [A family of three foxes](http://9gag.com/gag/a87DP1V)
+ - 😝 [Chineese doctor fixes dislocated elbow in seconds](http://9gag.com/gag/awyLwmB)
  - 👉 [Always makes me laugh.](http://9gag.com/gag/aD2Zy0w)<!-- MEMES:END -->
 
 ---

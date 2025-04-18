@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WWE WrestleMania 41: Match Card and Where to Watch All the Action](https://www.cnet.com/tech/services-and-software/wwe-wrestlemania-41-match-card-and-where-to-watch-all-the-action/#ftag=CAD590a51e)
  - [Cops can’t do cell tower mass surveillance ‘dumps,’ court rules](https://www.theverge.com/news/652036/cops-cell-tower-dumps-unconstitutional-court-ruling)
+ - [I Played All the Switch 2 Games: What to Look Forward To After April 24 Preorders](https://www.cnet.com/tech/gaming/i-played-all-the-switch-2-games-what-to-look-forward-to-after-april-24-preorders/#ftag=CAD590a51e)
  - [Oregon sues Coinbase, alleging it&#39;s selling unregistered securities; Coinbase&#39;s Chief Legal Officer says it&#39;s a &quot;copycat case&quot; of SEC&#39;s now-dropped lawsuit &lpar;Vince Quill/Cointelegraph&rpar;](http://www.techmeme.com/250418/p12#a250418p12)
- - [Judge Blocks DOGE From Laying Off 90 Percent of CFPB](https://www.wired.com/story/cfpb-terminations-paused-trump/)
- - [Kia&amp;#8217;s affordable EV4 will still be imported to the US](https://www.theverge.com/news/651998/kia-ev4-new-york-auto-show-2026)
- - [Scammers Are Impersonating the FBI. Here&#39;s How To Spot Them](https://www.cnet.com/tech/services-and-software/scammers-are-impersonating-the-fbi-heres-how-to-spot-them/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Judge Blocks DOGE From Laying Off 90 Percent of CFPB](https://www.wired.com/story/cfpb-terminations-paused-trump/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

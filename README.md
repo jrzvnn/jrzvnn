@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I have asked AI to draw itself without canonic human observation and vizualization pattern. How would it draw itself for itself.](http://9gag.com/gag/adBnmYd)
- - 😝 [Meanwhile in Denmark](http://9gag.com/gag/aD2ZEOZ)
- - 💣 [Anon wins with team work](http://9gag.com/gag/aRBzxQq)
- - 😝 [He\u2019s walking on sunshine](http://9gag.com/gag/aMVnRwM)
- - 👉 [This ain\u2019t a rock\u2026This is a gharial, a rare crocodile species on the verge of extinction](http://9gag.com/gag/aLnGZDP)<!-- MEMES:END -->
+ - 😝 [Mt. Everest Death Zone](http://9gag.com/gag/aXP4yAg)
+ - 😝 [This ain\u2019t a rock\u2026This is a gharial, a rare crocodile species on the verge of extinction](http://9gag.com/gag/aLnGZDP)
+ - 💣 [Meanwhile in Denmark](http://9gag.com/gag/aD2ZEOZ)
+ - 😝 [Anon wins with team work](http://9gag.com/gag/aRBzxQq)
+ - 👉 [How Beethoven used to `hear` music](http://9gag.com/gag/aO8D646)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Strawberry pickers in the U.S. earn $2.35 per box.](http://9gag.com/gag/aByPqmZ)
- - 😝 [Squirrel\u2019s stash of nuts in an antenna](http://9gag.com/gag/aKGWMLN)
- - 💣 [Snake shedding its skin while being held](http://9gag.com/gag/aByPeGQ)
- - 😝 [I thought she looked familiar.](http://9gag.com/gag/a9y8g4D)
- - 👉 [8 time Olympic medalist Shelly-Ann-Fraser-Pryce obliterates other parents in a footrace](http://9gag.com/gag/aD2ZpjZ)<!-- MEMES:END -->
+ - 😝 [So it happened &lpar;@fukufaku&rpar;](http://9gag.com/gag/aRBznqA)
+ - 💣 [I thought she looked familiar.](http://9gag.com/gag/a9y8g4D)
+ - 😝 [Always makes me laugh.](http://9gag.com/gag/aD2Zy0w)
+ - 👉 [Meow meow Motherf**ker](http://9gag.com/gag/ayNWOoq)<!-- MEMES:END -->
 
 ---
 

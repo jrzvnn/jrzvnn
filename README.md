@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Eyes of a sniper, hands of a surgeon: John Lowe&#39;s historic 9-dart finish](http://9gag.com/gag/aLnGEyA)
- - 😝 [This ain\u2019t a rock\u2026This is a gharial, a rare crocodile species on the verge of extinction](http://9gag.com/gag/aLnGZDP)
- - 💣 [The survey says SEX!!](http://9gag.com/gag/aKGW0xb)
- - 😝 [I thought she looked familiar.](http://9gag.com/gag/a9y8g4D)
+ - 😝 [In a warehouse of a baklava business with 86 branches across Turkey, 11 tons of worm-infested walnut kernels were seized.](http://9gag.com/gag/aYQP3nw)
+ - 😝 [Meanwhile in Denmark](http://9gag.com/gag/aD2ZEOZ)
+ - 💣 [I thought she looked familiar.](http://9gag.com/gag/a9y8g4D)
+ - 😝 [I have asked AI to draw itself without canonic human observation and vizualization pattern. How would it draw itself for itself.](http://9gag.com/gag/adBnmYd)
  - 👉 [He\u2019s walking on sunshine](http://9gag.com/gag/aMVnRwM)<!-- MEMES:END -->
 
 ---

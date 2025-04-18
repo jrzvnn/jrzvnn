@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [My Fleece Jacket Is See-Through: Alpha Direct and Grid Fleece](https://www.wired.com/story/alpha-direct-and-grid-fleece/)
- - [Razer Blade 16 &lpar;2025&rpar; review: ultra settings on an ultra-thin laptop for an ultra-high price](https://www.theverge.com/reviews/649577/razer-blade-16-2025-rtx-5090-review)
- - [5 Unexpected Health Benefits Experts Say You Can Get From Spring Cleaning](https://www.cnet.com/health/unexpected-health-benefits-experts-spring-cleaning/#ftag=CAD590a51e)
- - [How to Sleep in an Airport &lpar;2025&rpar;: Gear and Expert Advice](https://www.wired.com/story/how-to-sleep-in-an-airport/)
- - [The Best Cheap Smart Gadgets CNET Editors Use In Their Own Homes](https://www.cnet.com/home/smart-home/best-cheap-smart-gadgets-cnet-editors-use-in-their-homes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nintendo Switch 2 pre-orders start April 24th and the price is still $449.99](https://www.theverge.com/news/643616/nintendo-switch-2-us-preorders-date)
+ - [The Best N95, KF94, and KN95 Face Masks &lpar;2025&rpar;](https://www.wired.com/story/best-disposable-face-masks-n95-kn95-kf94-surgical/)
+ - [EcoFlow’s new Glacier fridge and Wave A/C look like worthy successors](https://www.theverge.com/news/650449/ecoflow-wave-3-glacier-classic-combo-price-date-specs)
+ - [Big Tech is back on trial](https://www.theverge.com/the-vergecast/651733/meta-antitrust-google-adtech-vergecast)
+ - [Filing: Netflix co-CEOs Ted Sarandos and Greg Peters saw total compensation of about $61.9M and $60.3M in 2024, up from $49.8M and $40.1M in 2023, respectively &lpar;Jill Goldsmith/Deadline&rpar;](http://www.techmeme.com/250418/p6#a250418p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

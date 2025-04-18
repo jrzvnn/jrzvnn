@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Power of lightning strikes](http://9gag.com/gag/an7vw9B)
- - 😝 [He thought he was smart...](http://9gag.com/gag/aMVno01)
- - 💣 [I&#39;m sorry come again](http://9gag.com/gag/aNDVbWb)
- - 😝 [Boeing CEO earns $32.8M; while the company spirals downward.](http://9gag.com/gag/agm8z7W)
- - 👉 [Shark photobombs birthday video](http://9gag.com/gag/axybKRM)<!-- MEMES:END -->
+ - 😝 [Woody woodpecker](http://9gag.com/gag/aAy4919)
+ - 😝 [Effects of crowd movement at stadiums](http://9gag.com/gag/avyEjZX)
+ - 💣 [Boeing CEO earns $32.8M; while the company spirals downward.](http://9gag.com/gag/agm8z7W)
+ - 😝 [Wonder why](http://9gag.com/gag/a0e6yQX)
+ - 👉 [Chineese doctor fixes dislocated elbow in seconds](http://9gag.com/gag/awyLwmB)<!-- MEMES:END -->
 
 ---
 

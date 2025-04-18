@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iRobot’s Roomba Combo 10 Max is nearly 50 percent off for Verge readers](https://www.theverge.com/tech/651608/roomba-combo-10-max-steelseries-arctis-pro-wireless-headset-deal-sale)
+ - [EU puts Apple fine on hold while US trade talks continue](https://appleinsider.com/articles/25/04/18/eu-puts-apple-fine-on-hold-while-us-trade-talks-continue?utm_medium=rss)
+ - [Covid.gov now points to a &amp;#8216;lab leak&amp;#8217; conspiracy website](https://www.theverge.com/news/651825/covid-gov-lab-leak-conspiracy-website)
  - [FEMA Isn&#39;t Ready for Disaster Season, Workers Say](https://www.wired.com/story/fema-isnt-ready-for-disaster-season-workers-say-hurricanes-fires-floods/)
- - [Here’s how Nintendo Switch 2 preorders will work](https://www.theverge.com/tech/24342715/nintendo-switch-2-preorder-price-release-date-availability-how-to-buy)
- - [ICE Is Paying Palantir $30 Million to Build ‘ImmigrationOS’ Surveillance Platform](https://www.wired.com/story/ice-palantir-immigrationos/)
- - [Apple brings game card sharing to Apple Sports](https://appleinsider.com/articles/25/04/18/apple-brings-game-card-sharing-to-apple-sports?utm_medium=rss)
- - [Subaru&amp;#8217;s only EV adds 25 percent more range, faster charging, and improved AWD](https://www.theverge.com/news/651786/subaru-solterra-ev-2026-facelift)<!-- TECH:END -->
+ - [Here’s how Nintendo Switch 2 preorders will work](https://www.theverge.com/tech/24342715/nintendo-switch-2-preorder-price-release-date-availability-how-to-buy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

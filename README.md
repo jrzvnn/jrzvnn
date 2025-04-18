@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I thought she looked familiar.](http://9gag.com/gag/a9y8g4D)
- - 😝 [Transferring the carbonation from a coke](http://9gag.com/gag/a34yOw5)
- - 💣 [Effects of crowd movement at stadiums](http://9gag.com/gag/avyEjZX)
- - 😝 [He thought he was smart...](http://9gag.com/gag/aMVno01)
- - 👉 [Propaganda video](http://9gag.com/gag/aPA8NGP)<!-- MEMES:END -->
+ - 😝 [Effects of crowd movement at stadiums](http://9gag.com/gag/avyEjZX)
+ - 😝 [Wonder why](http://9gag.com/gag/a0e6yQX)
+ - 💣 [Boeing CEO earns $32.8M; while the company spirals downward.](http://9gag.com/gag/agm8z7W)
+ - 😝 [Propaganda video](http://9gag.com/gag/aPA8NGP)
+ - 👉 [Meow meow Motherf**ker](http://9gag.com/gag/ayNWOoq)<!-- MEMES:END -->
 
 ---
 

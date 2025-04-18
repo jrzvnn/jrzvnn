@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Keeping things simple.](http://9gag.com/gag/awyL6nx)
- - 😝 [Always makes me laugh.](http://9gag.com/gag/aD2Zy0w)
- - 💣 [Everything, everywhere, all at once.](http://9gag.com/gag/aW4vKQ6)
- - 😝 [I&#39;m going under the knife &lpar;and angle grinder&rpar; in a few hours. F**k you and see you tomorrow. Stay safe.](http://9gag.com/gag/aZZQ6E6)
- - 👉 [RUMOR - It seems that JK Rowling is suing Warner Brothers for the rights to Harry Potter, as the studio is looking for a diverse cast for the new version but Rowling prefers a cast more traditional and fait](http://9gag.com/gag/aLnGZ8v)<!-- MEMES:END -->
+ - 😝 [Squirrel\u2019s stash of nuts in an antenna](http://9gag.com/gag/aKGWMLN)
+ - 😝 [Bro fked around and found out](http://9gag.com/gag/aO8DMO3)
+ - 💣 [Propaganda video](http://9gag.com/gag/aPA8NGP)
+ - 😝 [Strawberry pickers in the U.S. earn $2.35 per box.](http://9gag.com/gag/aByPqmZ)
+ - 👉 [Some good news](http://9gag.com/gag/aqyQPgp)<!-- MEMES:END -->
 
 ---
 

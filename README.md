@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He thought he was smart...](http://9gag.com/gag/aMVno01)
+ - 😝 [I&#39;m sorry come again](http://9gag.com/gag/aNDVbWb)
  - 😝 [Wonder why](http://9gag.com/gag/a0e6yQX)
- - 💣 [Bro fked around and found out](http://9gag.com/gag/aO8DMO3)
- - 😝 [I\u2019d prefer to keep the dogs and deport the Islamists if I\u2019m honest.](http://9gag.com/gag/avyEj8q)
- - 👉 [Effects of crowd movement at stadiums](http://9gag.com/gag/avyEjZX)<!-- MEMES:END -->
+ - 💣 [Hol up - here have a chair](http://9gag.com/gag/aRBzdL5)
+ - 😝 [Chineese doctor fixes dislocated elbow in seconds](http://9gag.com/gag/awyLwmB)
+ - 👉 [Meow meow Motherf**ker](http://9gag.com/gag/ayNWOoq)<!-- MEMES:END -->
 
 ---
 

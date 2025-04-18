@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo Switch 2 pre-orders start April 24th and the price is still $449.99](https://www.theverge.com/news/643616/nintendo-switch-2-us-preorders-date)
- - [The Best N95, KF94, and KN95 Face Masks &lpar;2025&rpar;](https://www.wired.com/story/best-disposable-face-masks-n95-kn95-kf94-surgical/)
- - [EcoFlow’s new Glacier fridge and Wave A/C look like worthy successors](https://www.theverge.com/news/650449/ecoflow-wave-3-glacier-classic-combo-price-date-specs)
- - [Big Tech is back on trial](https://www.theverge.com/the-vergecast/651733/meta-antitrust-google-adtech-vergecast)
- - [Filing: Netflix co-CEOs Ted Sarandos and Greg Peters saw total compensation of about $61.9M and $60.3M in 2024, up from $49.8M and $40.1M in 2023, respectively &lpar;Jill Goldsmith/Deadline&rpar;](http://www.techmeme.com/250418/p6#a250418p6)<!-- TECH:END -->
+ - [The humble screenshot might be the key to great AI assistants](https://www.theverge.com/ai-artificial-intelligence/650809/screenshots-apps-ai-pixel-nothing)
+ - [Elon Musk’s SpaceX is reportedly the &amp;#8216;frontrunner&amp;#8217; for Trump&amp;#8217;s missile shield contract](https://www.theverge.com/news/651757/elon-musk-spacex-golden-dome-missile-defense-frontrunner)
+ - [Inside Apple TV 4K -- the best addition to your TV set](https://appleinsider.com/inside/apple-tv/tips/inside-apple-tv-4k----the-best-addition-to-your-tv-set?utm_medium=rss)
+ - [Nintendo Switch 2 preorders start April 24th and the price is still $449.99](https://www.theverge.com/news/643616/nintendo-switch-2-us-preorders-date)
+ - [The Best N95, KF94, and KN95 Face Masks &lpar;2025&rpar;](https://www.wired.com/story/best-disposable-face-masks-n95-kn95-kf94-surgical/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Judge pauses mass firing of consumer protection workers](https://www.theverge.com/news/651909/cfpb-terminations-paused-berman-jackson-trump-court-order)
  - [DOGE Is Just Getting Warmed Up](https://www.wired.com/story/doge-is-just-getting-warmed-up-data-immigration/)
  - [A US judge temporarily halts mass firings at the US CFPB after the agency fired between 1,400 and 1,500 workers, eliminating as much as 90% of its workforce &lpar;Douglas Gillison/Reuters&rpar;](http://www.techmeme.com/250418/p11#a250418p11)
  - [How to scan a QR code with your phone](https://www.theverge.com/how-to/651781/qr-code-android-ios-how-to)
- - [Apple Watch Series 11: What&#39;s expected to arrive this fall](https://appleinsider.com/articles/25/04/18/apple-watch-series-11-whats-expected-to-arrive-this-fall?utm_medium=rss)
- - [Apple Is Planning New Vision Pro Models and Rival to Meta Ray-Ban Glasses, Report Says](https://www.cnet.com/tech/mobile/apple-is-planning-new-vision-pro-models-and-rival-to-meta-ray-ban-glasses-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Watch Series 11: What&#39;s expected to arrive this fall](https://appleinsider.com/articles/25/04/18/apple-watch-series-11-whats-expected-to-arrive-this-fall?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

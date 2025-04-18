@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro fked around and found out](http://9gag.com/gag/aO8DMO3)
- - 😝 [Female](http://9gag.com/gag/aGyMQm5)
- - 💣 [Chineese doctor fixes dislocated elbow in seconds](http://9gag.com/gag/awyLwmB)
- - 😝 [He thought he was smart...](http://9gag.com/gag/aMVno01)
- - 👉 [Effects of crowd movement at stadiums](http://9gag.com/gag/avyEjZX)<!-- MEMES:END -->
+ - 😝 [Effects of crowd movement at stadiums](http://9gag.com/gag/avyEjZX)
+ - 😝 [Propaganda video](http://9gag.com/gag/aPA8NGP)
+ - 💣 [Keeping things simple.](http://9gag.com/gag/awyL6nx)
+ - 😝 [Meow meow Motherf**ker](http://9gag.com/gag/ayNWOoq)
+ - 👉 [He thought he was smart...](http://9gag.com/gag/aMVno01)<!-- MEMES:END -->
 
 ---
 

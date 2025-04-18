@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ted Sarandos says Netflix talent uses &quot;AI tools to do set references, pre-vis, VFX sequence prep, shot planning&quot; and AI can make movies &quot;10% better&quot; &lpar;Dade Hayes/Deadline&rpar;](http://www.techmeme.com/250418/p5#a250418p5)
- - [9 Best Curling Irons of 2025, Tested for All Hair Types](https://www.wired.com/gallery/best-curling-iron/)
- - [Apple iPad &lpar;A16, 2025&rpar; Review: Brilliantly Basic](https://www.wired.com/review/apple-ipad-a16-2025/)
- - [Best Internet Providers in Eau Claire, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-eau-claire-wi/#ftag=CAD590a51e)
- - [LG’s Integrated TV Ad Tech Analyzes Your Emotions](https://www.wired.com/story/lg-zenapse-integrated-tv-ads-emotional-analysis/)<!-- TECH:END -->
+ - [My Fleece Jacket Is See-Through: Alpha Direct and Grid Fleece](https://www.wired.com/story/alpha-direct-and-grid-fleece/)
+ - [Razer Blade 16 &lpar;2025&rpar; review: ultra settings on an ultra-thin laptop for an ultra-high price](https://www.theverge.com/reviews/649577/razer-blade-16-2025-rtx-5090-review)
+ - [5 Unexpected Health Benefits Experts Say You Can Get From Spring Cleaning](https://www.cnet.com/health/unexpected-health-benefits-experts-spring-cleaning/#ftag=CAD590a51e)
+ - [How to Sleep in an Airport &lpar;2025&rpar;: Gear and Expert Advice](https://www.wired.com/story/how-to-sleep-in-an-airport/)
+ - [The Best Cheap Smart Gadgets CNET Editors Use In Their Own Homes](https://www.cnet.com/home/smart-home/best-cheap-smart-gadgets-cnet-editors-use-in-their-homes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

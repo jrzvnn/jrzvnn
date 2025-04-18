@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cops can’t do cell tower mass surveillance ‘dumps,’ court rules](https://www.theverge.com/news/652036/cops-cell-tower-dumps-unconstitutional-court-ruling)
  - [Oregon sues Coinbase, alleging it&#39;s selling unregistered securities; Coinbase&#39;s Chief Legal Officer says it&#39;s a &quot;copycat case&quot; of SEC&#39;s now-dropped lawsuit &lpar;Vince Quill/Cointelegraph&rpar;](http://www.techmeme.com/250418/p12#a250418p12)
  - [Judge Blocks DOGE From Laying Off 90 Percent of CFPB](https://www.wired.com/story/cfpb-terminations-paused-trump/)
- - [Scammers Are Impersonating the FBI. Here&#39;s How To Spot Them](https://www.cnet.com/tech/services-and-software/scammers-are-impersonating-the-fbi-heres-how-to-spot-them/#ftag=CAD590a51e)
- - [Mortgage Rates at a Tipping Point. Why Trump&#39;s Tariffs Have the Housing Market on Edge](https://www.cnet.com/personal-finance/mortgages/mortgage-rates-at-a-tipping-point-why-trumps-tariffs-have-the-housing-market-on-edge/#ftag=CAD590a51e)
- - [NBA Playoffs 2025: TV Schedule, First Round Matchups, How to Watch Today&#39;s Games](https://www.cnet.com/tech/services-and-software/nba-playoffs-2025-tv-schedule-first-round-matchups-how-to-watch-todays-games/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Kia&amp;#8217;s affordable EV4 will still be imported to the US](https://www.theverge.com/news/651998/kia-ev4-new-york-auto-show-2026)
+ - [Scammers Are Impersonating the FBI. Here&#39;s How To Spot Them](https://www.cnet.com/tech/services-and-software/scammers-are-impersonating-the-fbi-heres-how-to-spot-them/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

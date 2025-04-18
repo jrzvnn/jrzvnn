@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I see that as a win](http://9gag.com/gag/ayNWGDV)
- - 😝 [Americans unite.](http://9gag.com/gag/aryZYV5)
- - 💣 [The most amazing father and daughters duo](http://9gag.com/gag/aByPe2D)
- - 😝 [5 LEGO walkers vs 7 Obstacles](http://9gag.com/gag/aRBzpPj)
- - 👉 [Chineese doctor fixes dislocated elbow in seconds](http://9gag.com/gag/awyLwmB)<!-- MEMES:END -->
+ - 😝 [Wonder why](http://9gag.com/gag/a0e6yQX)
+ - 😝 [This is how many layers of protection doctors wear when dealing with highly infectious diseases](http://9gag.com/gag/apRP7d8)
+ - 💣 [Prince Rupert&#39;s drops &lpar;also known as Dutch tears or Batavian tears&rpar;](http://9gag.com/gag/aXP41P2)
+ - 😝 [I thought she looked familiar.](http://9gag.com/gag/a9y8g4D)
+ - 👉 [Man helps save small dog from a large dog](http://9gag.com/gag/avyEqNW)<!-- MEMES:END -->
 
 ---
 

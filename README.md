@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Keeping things simple.](http://9gag.com/gag/awyL6nx)
- - 😝 [Delivered](http://9gag.com/gag/ae9VLRO)
- - 💣 [A family of three foxes](http://9gag.com/gag/a87DP1V)
- - 😝 [Chineese doctor fixes dislocated elbow in seconds](http://9gag.com/gag/awyLwmB)
- - 👉 [Always makes me laugh.](http://9gag.com/gag/aD2Zy0w)<!-- MEMES:END -->
+ - 😝 [Bro is a legend](http://9gag.com/gag/azxGp8Z)
+ - 😝 [Female](http://9gag.com/gag/aGyMQm5)
+ - 💣 [I\u2019d prefer to keep the dogs and deport the Islamists if I\u2019m honest.](http://9gag.com/gag/avyEj8q)
+ - 😝 [Propaganda video](http://9gag.com/gag/aPA8NGP)
+ - 👉 [Some good news](http://9gag.com/gag/aqyQPgp)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woody woodpecker](http://9gag.com/gag/aAy4919)
- - 😝 [Effects of crowd movement at stadiums](http://9gag.com/gag/avyEjZX)
- - 💣 [Boeing CEO earns $32.8M; while the company spirals downward.](http://9gag.com/gag/agm8z7W)
- - 😝 [Wonder why](http://9gag.com/gag/a0e6yQX)
- - 👉 [Chineese doctor fixes dislocated elbow in seconds](http://9gag.com/gag/awyLwmB)<!-- MEMES:END -->
+ - 😝 [Bro is a legend](http://9gag.com/gag/azxGp8Z)
+ - 😝 [The most amazing father and daughters duo](http://9gag.com/gag/aByPe2D)
+ - 💣 [5 LEGO walkers vs 7 Obstacles](http://9gag.com/gag/aRBzpPj)
+ - 😝 [Chineese doctor fixes dislocated elbow in seconds](http://9gag.com/gag/awyLwmB)
+ - 👉 [Delivered](http://9gag.com/gag/ae9VLRO)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Star Wars: Starfighter stars Ryan Gosling and hits theaters in 2027](https://www.theverge.com/news/651695/star-wars-starfighter-date-ryan-gosling)
+ - [Memo: CEO Lip-Bu Tan flattens Intel&#39;s leadership team, with important semiconductor groups reporting directly to him, and names Sachin Katti as CTO and AI chief &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250417/p42#a250417p42)
  - [US consumers are flocking to Chinese shopping apps DHgate and Taobao, which let them buy direct from manufacturers, as Shein and Temu prices rise amid tariffs &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250417/p41#a250417p41)
- - [Sources: Meta asked Microsoft, Amazon, and others over the past year to fund Llama training costs in exchange for incentives, as part of a &quot;Llama Consortium&quot; &lpar;The Information&rpar;](http://www.techmeme.com/250417/p40#a250417p40)
- - [Apple Intelligence features, such as Writing Tools, are no longer available in Meta&#39;s iOS apps including Facebook, WhatsApp, and Threads &lpar;Filipe Espósito/9to5Mac&rpar;](http://www.techmeme.com/250417/p39#a250417p39)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 18, #207](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-18-207/#ftag=CAD590a51e)
- - [CFPB workers are receiving mass layoff notices](https://www.theverge.com/news/651570/cfpb-layoffs-notices-doge)<!-- TECH:END -->
+ - [Best Internet Providers in Greensboro, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-greensboro-nc/#ftag=CAD590a51e)
+ - [Sources: Meta asked Microsoft, Amazon, and others over the past year to fund Llama training costs in exchange for incentives, as part of a &quot;Llama Consortium&quot; &lpar;The Information&rpar;](http://www.techmeme.com/250417/p40#a250417p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

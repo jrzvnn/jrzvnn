@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s how Nintendo Switch 2 preorders will work](https://www.theverge.com/tech/24342715/nintendo-switch-2-preorder-price-release-date-availability-how-to-buy)
  - [ICE Is Paying Palantir $30 Million to Build ‘ImmigrationOS’ Surveillance Platform](https://www.wired.com/story/ice-palantir-immigrationos/)
  - [Apple brings game card sharing to Apple Sports](https://appleinsider.com/articles/25/04/18/apple-brings-game-card-sharing-to-apple-sports?utm_medium=rss)
  - [Subaru&amp;#8217;s only EV adds 25 percent more range, faster charging, and improved AWD](https://www.theverge.com/news/651786/subaru-solterra-ev-2026-facelift)
- - [The Nintendo Switch 2 Price Won&#39;t Get Hit By Trump&#39;s Tariffs](https://www.wired.com/story/the-nintendo-switch-2-price-wont-get-hit-by-trumps-tariffs/)
- - [The MAGA-tech situationship](https://www.theverge.com/politics/651439/maga-tech-populism-antitrust-bannon-lina-khan-ftc)<!-- TECH:END -->
+ - [The Nintendo Switch 2 Price Won&#39;t Get Hit By Trump&#39;s Tariffs](https://www.wired.com/story/the-nintendo-switch-2-price-wont-get-hit-by-trumps-tariffs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Always makes me laugh.](http://9gag.com/gag/aD2Zy0w)
- - 😝 [He\u2019s walking on sunshine](http://9gag.com/gag/aMVnRwM)
- - 💣 [So it happened &lpar;@fukufaku&rpar;](http://9gag.com/gag/aRBznqA)
- - 😝 [Strawberry pickers in the U.S. earn $2.35 per box.](http://9gag.com/gag/aByPqmZ)
- - 👉 [I have asked AI to draw itself without canonic human observation and vizualization pattern. How would it draw itself for itself.](http://9gag.com/gag/adBnmYd)<!-- MEMES:END -->
+ - 😝 [Everything, everywhere, all at once.](http://9gag.com/gag/aW4vKQ6)
+ - 😝 [I&#39;m going under the knife &lpar;and angle grinder&rpar; in a few hours. F**k you and see you tomorrow. Stay safe.](http://9gag.com/gag/aZZQ6E6)
+ - 💣 [Michael bay directed](http://9gag.com/gag/adBnZ4j)
+ - 😝 [RUMOR - It seems that JK Rowling is suing Warner Brothers for the rights to Harry Potter, as the studio is looking for a diverse cast for the new version but Rowling prefers a cast more traditional and fait](http://9gag.com/gag/aLnGZ8v)
+ - 👉 [Vienna](http://9gag.com/gag/aryZQPV)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Effects of crowd movement at stadiums](http://9gag.com/gag/avyEjZX)
- - 😝 [Wonder why](http://9gag.com/gag/a0e6yQX)
- - 💣 [Boeing CEO earns $32.8M; while the company spirals downward.](http://9gag.com/gag/agm8z7W)
- - 😝 [Propaganda video](http://9gag.com/gag/aPA8NGP)
- - 👉 [Meow meow Motherf**ker](http://9gag.com/gag/ayNWOoq)<!-- MEMES:END -->
+ - 😝 [Squirrel\u2019s stash of nuts in an antenna](http://9gag.com/gag/aKGWMLN)
+ - 😝 [Bro fked around and found out](http://9gag.com/gag/aO8DMO3)
+ - 💣 [Wonder why](http://9gag.com/gag/a0e6yQX)
+ - 😝 [The mayor of Toronto, wearing a hijab, met with the city\u2019s Muslim community leaders to discuss what they consider the biggest national problem in Canada: Islamophobia.](http://9gag.com/gag/aRBzYQj)
+ - 👉 [Transferring the carbonation from a coke](http://9gag.com/gag/a34yOw5)<!-- MEMES:END -->
 
 ---
 

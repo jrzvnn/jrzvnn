@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I thought she looked familiar.](http://9gag.com/gag/a9y8g4D)
- - 😝 [He couldn&#39;t even be mad bro knew the whole lyrics](http://9gag.com/gag/aByPqA1)
- - 💣 [How Beethoven used to `hear` music](http://9gag.com/gag/aO8D646)
+ - 😝 [Anon wins with team work](http://9gag.com/gag/aRBzxQq)
  - 😝 [Very thoughtful](http://9gag.com/gag/a7oVjWx)
- - 👉 [The mayor of Toronto, wearing a hijab, met with the city\u2019s Muslim community leaders to discuss what they consider the biggest national problem in Canada: Islamophobia.](http://9gag.com/gag/aRBzYQj)<!-- MEMES:END -->
+ - 💣 [The survey says SEX!!](http://9gag.com/gag/aKGW0xb)
+ - 😝 [Finger her to a good mood.](http://9gag.com/gag/aryZP0X)
+ - 👉 [He\u2019s walking on sunshine](http://9gag.com/gag/aMVnRwM)<!-- MEMES:END -->
 
 ---
 

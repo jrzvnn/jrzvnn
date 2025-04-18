@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [5 LEGO walkers vs 7 Obstacles](http://9gag.com/gag/aRBzpPj)
- - 😝 [Delivered](http://9gag.com/gag/ae9VLRO)
- - 💣 [Chineese doctor fixes dislocated elbow in seconds](http://9gag.com/gag/awyLwmB)
- - 😝 [Always makes me laugh.](http://9gag.com/gag/aD2Zy0w)
- - 👉 [A family of three foxes](http://9gag.com/gag/a87DP1V)<!-- MEMES:END -->
+ - 😝 [Prince Rupert&#39;s drops &lpar;also known as Dutch tears or Batavian tears&rpar;](http://9gag.com/gag/aXP41P2)
+ - 😝 [Bro fked around and found out](http://9gag.com/gag/aO8DMO3)
+ - 💣 [Meow meow Motherf**ker](http://9gag.com/gag/ayNWOoq)
+ - 😝 [I\u2019d prefer to keep the dogs and deport the Islamists if I\u2019m honest.](http://9gag.com/gag/avyEj8q)
+ - 👉 [Female](http://9gag.com/gag/aGyMQm5)<!-- MEMES:END -->
 
 ---
 

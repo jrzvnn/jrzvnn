@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Squirrel\u2019s stash of nuts in an antenna](http://9gag.com/gag/aKGWMLN)
- - 😝 [Bro fked around and found out](http://9gag.com/gag/aO8DMO3)
- - 💣 [Wonder why](http://9gag.com/gag/a0e6yQX)
+ - 😝 [I&#39;m sorry come again](http://9gag.com/gag/aNDVbWb)
+ - 😝 [Effects of crowd movement at stadiums](http://9gag.com/gag/avyEjZX)
+ - 💣 [Transferring the carbonation from a coke](http://9gag.com/gag/a34yOw5)
  - 😝 [The mayor of Toronto, wearing a hijab, met with the city\u2019s Muslim community leaders to discuss what they consider the biggest national problem in Canada: Islamophobia.](http://9gag.com/gag/aRBzYQj)
- - 👉 [Transferring the carbonation from a coke](http://9gag.com/gag/a34yOw5)<!-- MEMES:END -->
+ - 👉 [Propaganda video](http://9gag.com/gag/aPA8NGP)<!-- MEMES:END -->
 
 ---
 

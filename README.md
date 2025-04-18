@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Prince Rupert&#39;s drops &lpar;also known as Dutch tears or Batavian tears&rpar;](http://9gag.com/gag/aXP41P2)
  - 😝 [Always makes me laugh.](http://9gag.com/gag/aD2Zy0w)
- - 😝 [Man helps save small dog from a large dog](http://9gag.com/gag/avyEqNW)
- - 💣 [I&#39;m sorry come again](http://9gag.com/gag/aNDVbWb)
- - 😝 [Transferring the carbonation from a coke](http://9gag.com/gag/a34yOw5)
- - 👉 [Just the tip, you glutton.](http://9gag.com/gag/aNDVMXv)<!-- MEMES:END -->
+ - 💣 [Effects of crowd movement at stadiums](http://9gag.com/gag/avyEjZX)
+ - 😝 [I thought she looked familiar.](http://9gag.com/gag/a9y8g4D)
+ - 👉 [A reclining bronze effigy of the poet Victor Noir. It is rubbed by women who believe it will bring them a partner and fertility.](http://9gag.com/gag/aVvm5X2)<!-- MEMES:END -->
 
 ---
 

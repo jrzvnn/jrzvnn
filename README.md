@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m sorry come again](http://9gag.com/gag/aNDVbWb)
- - 😝 [Effects of crowd movement at stadiums](http://9gag.com/gag/avyEjZX)
- - 💣 [Transferring the carbonation from a coke](http://9gag.com/gag/a34yOw5)
- - 😝 [The mayor of Toronto, wearing a hijab, met with the city\u2019s Muslim community leaders to discuss what they consider the biggest national problem in Canada: Islamophobia.](http://9gag.com/gag/aRBzYQj)
- - 👉 [Propaganda video](http://9gag.com/gag/aPA8NGP)<!-- MEMES:END -->
+ - 😝 [Keeping things simple.](http://9gag.com/gag/awyL6nx)
+ - 😝 [Always makes me laugh.](http://9gag.com/gag/aD2Zy0w)
+ - 💣 [Everything, everywhere, all at once.](http://9gag.com/gag/aW4vKQ6)
+ - 😝 [I&#39;m going under the knife &lpar;and angle grinder&rpar; in a few hours. F**k you and see you tomorrow. Stay safe.](http://9gag.com/gag/aZZQ6E6)
+ - 👉 [RUMOR - It seems that JK Rowling is suing Warner Brothers for the rights to Harry Potter, as the studio is looking for a diverse cast for the new version but Rowling prefers a cast more traditional and fait](http://9gag.com/gag/aLnGZ8v)<!-- MEMES:END -->
 
 ---
 

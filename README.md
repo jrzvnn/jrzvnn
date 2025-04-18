@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Keeping things simple.](http://9gag.com/gag/awyL6nx)
- - 😝 [The most amazing father and daughters duo](http://9gag.com/gag/aByPe2D)
- - 💣 [5 LEGO walkers vs 7 Obstacles](http://9gag.com/gag/aRBzpPj)
- - 😝 [Chineese doctor fixes dislocated elbow in seconds](http://9gag.com/gag/awyLwmB)
- - 👉 [Delivered](http://9gag.com/gag/ae9VLRO)<!-- MEMES:END -->
+ - 😝 [Bro fked around and found out](http://9gag.com/gag/aO8DMO3)
+ - 😝 [Female](http://9gag.com/gag/aGyMQm5)
+ - 💣 [Chineese doctor fixes dislocated elbow in seconds](http://9gag.com/gag/awyLwmB)
+ - 😝 [He thought he was smart...](http://9gag.com/gag/aMVno01)
+ - 👉 [Effects of crowd movement at stadiums](http://9gag.com/gag/avyEjZX)<!-- MEMES:END -->
 
 ---
 

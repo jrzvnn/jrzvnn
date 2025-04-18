@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I have asked AI to draw itself without canonic human observation and vizualization pattern. How would it draw itself for itself.](http://9gag.com/gag/adBnmYd)
- - 😝 [RUMOR - It seems that JK Rowling is suing Warner Brothers for the rights to Harry Potter, as the studio is looking for a diverse cast for the new version but Rowling prefers a cast more traditional and fait](http://9gag.com/gag/aLnGZ8v)
- - 💣 [This young lady is the first person to use these new wireless bionic hands](http://9gag.com/gag/aXP4Byg)
- - 😝 [The survey says SEX!!](http://9gag.com/gag/aKGW0xb)
- - 👉 [This ain\u2019t a rock\u2026This is a gharial, a rare crocodile species on the verge of extinction](http://9gag.com/gag/aLnGZDP)<!-- MEMES:END -->
+ - 😝 [Chineese doctor fixes dislocated elbow in seconds](http://9gag.com/gag/awyLwmB)
+ - 😝 [How Beethoven used to `hear` music](http://9gag.com/gag/aO8D646)
+ - 💣 [In a warehouse of a baklava business with 86 branches across Turkey, 11 tons of worm-infested walnut kernels were seized.](http://9gag.com/gag/aYQP3nw)
+ - 😝 [Eyes of a sniper, hands of a surgeon: John Lowe&#39;s historic 9-dart finish](http://9gag.com/gag/aLnGEyA)
+ - 👉 [The survey says SEX!!](http://9gag.com/gag/aKGW0xb)<!-- MEMES:END -->
 
 ---
 

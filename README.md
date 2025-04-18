@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mt. Everest Death Zone](http://9gag.com/gag/aXP4yAg)
- - 😝 [This ain\u2019t a rock\u2026This is a gharial, a rare crocodile species on the verge of extinction](http://9gag.com/gag/aLnGZDP)
- - 💣 [Meanwhile in Denmark](http://9gag.com/gag/aD2ZEOZ)
- - 😝 [Anon wins with team work](http://9gag.com/gag/aRBzxQq)
- - 👉 [How Beethoven used to `hear` music](http://9gag.com/gag/aO8D646)<!-- MEMES:END -->
+ - 😝 [I thought she looked familiar.](http://9gag.com/gag/a9y8g4D)
+ - 😝 [He couldn&#39;t even be mad bro knew the whole lyrics](http://9gag.com/gag/aByPqA1)
+ - 💣 [How Beethoven used to `hear` music](http://9gag.com/gag/aO8D646)
+ - 😝 [Very thoughtful](http://9gag.com/gag/a7oVjWx)
+ - 👉 [The mayor of Toronto, wearing a hijab, met with the city\u2019s Muslim community leaders to discuss what they consider the biggest national problem in Canada: Islamophobia.](http://9gag.com/gag/aRBzYQj)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The MAGA-tech situationship](https://www.theverge.com/politics/651439/maga-tech-populism-antitrust-bannon-lina-khan-ftc)
  - [14 Best Tablets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-tablets/)
  - [Nintendo says Switch 2 pre-orders will start in the US on April 24, with the price staying at the initially announced $450; prices of accessories will go up &lpar;The Verge&rpar;](http://www.techmeme.com/250418/p9#a250418p9)
- - [Sources: the EU planned to penalize Meta and Apple on Tuesday but delayed the announcement, avoiding a conflict with the Trump administration before trade talks &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250418/p8#a250418p8)
- - [A look at Google&#39;s efforts to improve Search with AI; sources: its leaders have struggled to articulate a vision for how they want Search features to evolve &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/250418/p7#a250418p7)
- - [Amazon&#39;s best Apple deals: $299 Apple Watch Series 10, iPads &amp; MacBooks up to $600 off](https://appleinsider.com/articles/25/04/18/amazons-best-apple-deals-299-apple-watch-series-10-ipads-macbooks-up-to-600-off?utm_medium=rss)<!-- TECH:END -->
+ - [Satisfy Your Sweet Tooth With These 6 Natural Sugar Substitutes](https://www.cnet.com/health/nutrition/6-natural-sugar-substitutes/#ftag=CAD590a51e)
+ - [Sources: the EU planned to penalize Meta and Apple on Tuesday but delayed the announcement, avoiding a conflict with the Trump administration before trade talks &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250418/p8#a250418p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

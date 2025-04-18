@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Insiders, including tech execs, say President Trump&#39;s trade war may hinder the US computing industry by raising costs for building chip fabs and AI data centers &lpar;Financial Times&rpar;](http://www.techmeme.com/250418/p3#a250418p3)
  - [A look at ways AI is being used to cut carbon emissions: calculating fuel-efficient driving patterns, monitoring grid infrastructure, and more &lpar;Coco Liu/Bloomberg&rpar;](http://www.techmeme.com/250418/p2#a250418p2)
  - [China&#39;s Q1 2025 smartphone shipments grew 3.3% YoY to 71.6M units; Xiaomi led with 18.6% market share, Apple was the only foreign brand in top 5 with 13.7% &lpar;IDC&rpar;](http://www.techmeme.com/250418/p1#a250418p1)
  - [Today&#39;s NYT Mini Crossword Answers for Friday, April 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-april-18/#ftag=CAD590a51e)
- - [ChatGPT users are figuring out the location of photos using o3&#39;s image-analyzing capabilities paired with its web search functionality, raising privacy concerns &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250417/p43#a250417p43)
- - [How to enable or disable Spotlight extensions in macOS](https://appleinsider.com/inside/macos-sequoia/tips/how-to-enable-or-disable-spotlight-extensions-in-macos?utm_medium=rss)<!-- TECH:END -->
+ - [ChatGPT users are figuring out the location of photos using o3&#39;s image-analyzing capabilities paired with its web search functionality, raising privacy concerns &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250417/p43#a250417p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

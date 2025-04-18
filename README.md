@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The humble screenshot might be the key to great AI assistants](https://www.theverge.com/ai-artificial-intelligence/650809/screenshots-apps-ai-pixel-nothing)
- - [Elon Musk’s SpaceX is reportedly the &amp;#8216;frontrunner&amp;#8217; for Trump&amp;#8217;s missile shield contract](https://www.theverge.com/news/651757/elon-musk-spacex-golden-dome-missile-defense-frontrunner)
- - [Inside Apple TV 4K -- the best addition to your TV set](https://appleinsider.com/inside/apple-tv/tips/inside-apple-tv-4k----the-best-addition-to-your-tv-set?utm_medium=rss)
- - [Nintendo Switch 2 preorders start April 24th and the price is still $449.99](https://www.theverge.com/news/643616/nintendo-switch-2-us-preorders-date)
- - [The Best N95, KF94, and KN95 Face Masks &lpar;2025&rpar;](https://www.wired.com/story/best-disposable-face-masks-n95-kn95-kf94-surgical/)<!-- TECH:END -->
+ - [A look at Google&#39;s efforts to improve Search with AI; sources: its leaders have struggled to articulate a vision for how they want Search features to evolve &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/250418/p7#a250418p7)
+ - [Amazon&#39;s best Apple deals: $299 Apple Watch Series 10, iPads &amp; MacBooks up to $600 off](https://appleinsider.com/articles/25/04/18/amazons-best-apple-deals-299-apple-watch-series-10-ipads-macbooks-up-to-600-off?utm_medium=rss)
+ - [Google claims it won half of its monopoly case, and will appeal the rest](https://appleinsider.com/articles/25/04/18/google-claims-it-won-half-of-its-monopoly-case-and-will-appeal-the-rest?utm_medium=rss)
+ - [Meta&#39;s Monopoly Made It a Fair-Weather Friend](https://www.wired.com/story/plaintext-ftc-meta-trial-mark-zuckerberg/)
+ - [The humble screenshot might be the key to great AI assistants](https://www.theverge.com/ai-artificial-intelligence/650809/screenshots-apps-ai-pixel-nothing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

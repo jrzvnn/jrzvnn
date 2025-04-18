@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The government doesn’t understand Meta](https://www.theverge.com/command-line-newsletter/652191/ftc-meta-antitrust-trial-instagram-whatsapp-network-effects)
+ - [Here’s how Nintendo Switch 2 preorders will work](https://www.theverge.com/tech/24342715/nintendo-switch-2-preorder-price-release-date-availability-how-to-buy)
+ - [OpenAI says its new o3 and o4-mini AI models hallucinate more often than its previous reasoning and traditional models, and the company doesn&#39;t know why &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250418/p14#a250418p14)
  - [Tesla’s Cybertruck is getting deeper discounts and production cuts](https://www.theverge.com/news/652164/tesla-cybertruck-discounts-production-cuts-2024-foundation-series)
- - [Apple wants to patent its once discarded haptic button design, known as &#39;Project Bongo&#39;](https://appleinsider.com/articles/25/04/18/apple-wants-to-patent-its-once-discarded-haptic-button-design-known-as-project-bongo?utm_medium=rss)
- - [GameStop, Target, and Walmart announce when their Switch 2 preorders start](https://www.theverge.com/news/651971/nintendo-switch-2-target-preorders-time)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [DOGE Is Building a Master Database to Surveil and Track Immigrants](https://www.wired.com/story/doge-collecting-immigrant-data-surveil-track/)<!-- TECH:END -->
+ - [Apple wants to patent its once discarded haptic button design, known as &#39;Project Bongo&#39;](https://appleinsider.com/articles/25/04/18/apple-wants-to-patent-its-once-discarded-haptic-button-design-known-as-project-bongo?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

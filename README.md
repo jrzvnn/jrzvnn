@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Oregon sues Coinbase, alleging it&#39;s selling unregistered securities; Coinbase&#39;s Chief Legal Officer says it&#39;s a &quot;copycat case&quot; of SEC&#39;s now-dropped lawsuit &lpar;Vince Quill/Cointelegraph&rpar;](http://www.techmeme.com/250418/p12#a250418p12)
+ - [Judge Blocks DOGE From Laying Off 90 Percent of CFPB](https://www.wired.com/story/cfpb-terminations-paused-trump/)
  - [Kia&amp;#8217;s affordable EV4 will still be imported to the US](https://www.theverge.com/news/651998/kia-ev4-new-york-auto-show-2026)
  - [AMD’s Ryzen 7 7800X3D is the star of Micro Center’s discounted PC part bundle](https://www.theverge.com/tech/651921/amd-ryzen-7-7800x3d-bundle-microcenter-deal-sale)
- - [Target announces when its Switch 2 preorders will kick off](https://www.theverge.com/news/651971/nintendo-switch-2-target-preorders-time)
- - [Judge pauses mass firing of consumer protection workers](https://www.theverge.com/news/651909/cfpb-terminations-paused-berman-jackson-trump-court-order)
- - [DOGE Is Just Getting Warmed Up](https://www.wired.com/story/doge-is-just-getting-warmed-up-data-immigration/)<!-- TECH:END -->
+ - [Target announces when its Switch 2 preorders will kick off](https://www.theverge.com/news/651971/nintendo-switch-2-target-preorders-time)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

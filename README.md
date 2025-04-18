@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LG’s Integrated TV Ad Tech Analyzes Your Emotions](https://www.wired.com/story/lg-zenapse-integrated-tv-ads-emotional-analysis/)
  - [Facebook, WhatsApp, and Instagram block use of Apple Intelligence](https://appleinsider.com/articles/25/04/17/facebook-whatsapp-and-instagram-block-use-of-apple-intelligence?utm_medium=rss)
  - [DOGE Has Access to Sensitive Labor Department Data on Immigrants and Farm Workers](https://www.wired.com/story/doge-access-immigration-data-department-of-labor/)
  - [Google breakup, Apple Ads, and Apple Vision Pro 2 on the AppleInsider Podcast](https://appleinsider.com/articles/25/04/18/google-breakup-apple-ads-and-apple-vision-pro-2-on-the-appleinsider-podcast?utm_medium=rss)
- - [Exaforce, which lets cybersecurity teams work with AI agents to cut false positives and busywork, raised a $75M Series A led by Khosla, Mayfield, and Thomvest &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/250418/p4#a250418p4)
- - [Inside Apple TV 4K -- the best addition to your TV set](https://appleinsider.com/inside/apple-tv/tips/inside-apple-tv-4k----the-best-addition-to-your-tv-set?utm_medium=rss)<!-- TECH:END -->
+ - [Exaforce, which lets cybersecurity teams work with AI agents to cut false positives and busywork, raised a $75M Series A led by Khosla, Mayfield, and Thomvest &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/250418/p4#a250418p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

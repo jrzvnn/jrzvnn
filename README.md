@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [9 Best Curling Irons of 2025, Tested for All Hair Types](https://www.wired.com/gallery/best-curling-iron/)
  - [Apple iPad &lpar;A16, 2025&rpar; Review: Brilliantly Basic](https://www.wired.com/review/apple-ipad-a16-2025/)
+ - [Best Internet Providers in Eau Claire, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-eau-claire-wi/#ftag=CAD590a51e)
  - [LG’s Integrated TV Ad Tech Analyzes Your Emotions](https://www.wired.com/story/lg-zenapse-integrated-tv-ads-emotional-analysis/)
- - [Facebook, WhatsApp, and Instagram block use of Apple Intelligence](https://appleinsider.com/articles/25/04/17/facebook-whatsapp-and-instagram-block-use-of-apple-intelligence?utm_medium=rss)
- - [DOGE Has Access to Sensitive Labor Department Data on Immigrants and Farm Workers](https://www.wired.com/story/doge-access-immigration-data-department-of-labor/)
- - [Google breakup, Apple Ads, and Apple Vision Pro 2 on the AppleInsider Podcast](https://appleinsider.com/articles/25/04/18/google-breakup-apple-ads-and-apple-vision-pro-2-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Facebook, WhatsApp, and Instagram block use of Apple Intelligence](https://appleinsider.com/articles/25/04/17/facebook-whatsapp-and-instagram-block-use-of-apple-intelligence?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

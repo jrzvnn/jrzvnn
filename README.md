@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Squirrel\u2019s stash of nuts in an antenna](http://9gag.com/gag/aKGWMLN)
- - 😝 [Bro fked around and found out](http://9gag.com/gag/aO8DMO3)
- - 💣 [Propaganda video](http://9gag.com/gag/aPA8NGP)
  - 😝 [Strawberry pickers in the U.S. earn $2.35 per box.](http://9gag.com/gag/aByPqmZ)
- - 👉 [Some good news](http://9gag.com/gag/aqyQPgp)<!-- MEMES:END -->
+ - 😝 [Squirrel\u2019s stash of nuts in an antenna](http://9gag.com/gag/aKGWMLN)
+ - 💣 [Snake shedding its skin while being held](http://9gag.com/gag/aByPeGQ)
+ - 😝 [I thought she looked familiar.](http://9gag.com/gag/a9y8g4D)
+ - 👉 [8 time Olympic medalist Shelly-Ann-Fraser-Pryce obliterates other parents in a footrace](http://9gag.com/gag/aD2ZpjZ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD’s Ryzen 7 7800X3D is the star of Micro Center’s discounted PC part bundle](https://www.theverge.com/tech/651921/amd-ryzen-7-7800x3d-bundle-microcenter-deal-sale)
+ - [Target announces when its Switch 2 preorders will kick off](https://www.theverge.com/news/651971/nintendo-switch-2-target-preorders-time)
  - [Judge pauses mass firing of consumer protection workers](https://www.theverge.com/news/651909/cfpb-terminations-paused-berman-jackson-trump-court-order)
  - [DOGE Is Just Getting Warmed Up](https://www.wired.com/story/doge-is-just-getting-warmed-up-data-immigration/)
- - [A US judge temporarily halts mass firings at the US CFPB after the agency fired between 1,400 and 1,500 workers, eliminating as much as 90% of its workforce &lpar;Douglas Gillison/Reuters&rpar;](http://www.techmeme.com/250418/p11#a250418p11)
- - [How to scan a QR code with your phone](https://www.theverge.com/how-to/651781/qr-code-android-ios-how-to)
- - [Apple Watch Series 11: What&#39;s expected to arrive this fall](https://appleinsider.com/articles/25/04/18/apple-watch-series-11-whats-expected-to-arrive-this-fall?utm_medium=rss)<!-- TECH:END -->
+ - [A US judge temporarily halts mass firings at the US CFPB after the agency fired between 1,400 and 1,500 workers, eliminating as much as 90% of its workforce &lpar;Douglas Gillison/Reuters&rpar;](http://www.techmeme.com/250418/p11#a250418p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

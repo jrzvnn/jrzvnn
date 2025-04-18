@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Prince Rupert&#39;s drops &lpar;also known as Dutch tears or Batavian tears&rpar;](http://9gag.com/gag/aXP41P2)
- - 😝 [Always makes me laugh.](http://9gag.com/gag/aD2Zy0w)
- - 💣 [Effects of crowd movement at stadiums](http://9gag.com/gag/avyEjZX)
- - 😝 [I thought she looked familiar.](http://9gag.com/gag/a9y8g4D)
- - 👉 [A reclining bronze effigy of the poet Victor Noir. It is rubbed by women who believe it will bring them a partner and fertility.](http://9gag.com/gag/aVvm5X2)<!-- MEMES:END -->
+ - 😝 [He thought he was smart...](http://9gag.com/gag/aMVno01)
+ - 😝 [Wonder why](http://9gag.com/gag/a0e6yQX)
+ - 💣 [Bro fked around and found out](http://9gag.com/gag/aO8DMO3)
+ - 😝 [I\u2019d prefer to keep the dogs and deport the Islamists if I\u2019m honest.](http://9gag.com/gag/avyEj8q)
+ - 👉 [Effects of crowd movement at stadiums](http://9gag.com/gag/avyEjZX)<!-- MEMES:END -->
 
 ---
 

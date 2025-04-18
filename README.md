@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m sorry come again](http://9gag.com/gag/aNDVbWb)
  - 😝 [Wonder why](http://9gag.com/gag/a0e6yQX)
- - 💣 [Hol up - here have a chair](http://9gag.com/gag/aRBzdL5)
+ - 😝 [Balkan dad morning routine](http://9gag.com/gag/adBnwrQ)
+ - 💣 [I&#39;m sorry come again](http://9gag.com/gag/aNDVbWb)
  - 😝 [Chineese doctor fixes dislocated elbow in seconds](http://9gag.com/gag/awyLwmB)
- - 👉 [Meow meow Motherf**ker](http://9gag.com/gag/ayNWOoq)<!-- MEMES:END -->
+ - 👉 [I thought she looked familiar.](http://9gag.com/gag/a9y8g4D)<!-- MEMES:END -->
 
 ---
 

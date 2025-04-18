@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ChatGPT users are figuring out the location of photos using o3&#39;s image-analyzing capabilities paired with its web search functionality, raising privacy concerns &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250417/p43#a250417p43)
  - [How to enable or disable Spotlight extensions in macOS](https://appleinsider.com/inside/macos-sequoia/tips/how-to-enable-or-disable-spotlight-extensions-in-macos?utm_medium=rss)
  - [Star Wars: Starfighter stars Ryan Gosling and hits theaters in 2027](https://www.theverge.com/news/651695/star-wars-starfighter-date-ryan-gosling)
  - [Memo: CEO Lip-Bu Tan flattens Intel&#39;s leadership team, with important semiconductor groups reporting directly to him, and names Sachin Katti as CTO and AI chief &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250417/p42#a250417p42)
- - [US consumers are flocking to Chinese shopping apps DHgate and Taobao, which let them buy direct from manufacturers, as Shein and Temu prices rise amid tariffs &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250417/p41#a250417p41)
- - [Best Internet Providers in Greensboro, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-greensboro-nc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US consumers are flocking to Chinese shopping apps DHgate and Taobao, which let them buy direct from manufacturers, as Shein and Temu prices rise amid tariffs &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250417/p41#a250417p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

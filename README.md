@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple replaced Mythic Quest&amp;#8217;s series finale after the show was cancelled](https://www.theverge.com/tv/651829/mythic-quest-new-finale)
+ - [A Nevada judge rules that &quot;tower dumps&quot;, the law enforcement practice of grabbing vast troves of private personal data from cell towers, is unconstitutional &lpar;Matthew Gault/404 Media&rpar;](http://www.techmeme.com/250418/p10#a250418p10)
  - [iRobot’s Roomba Combo 10 Max is nearly 50 percent off for Verge readers](https://www.theverge.com/tech/651608/roomba-combo-10-max-steelseries-arctis-pro-wireless-headset-deal-sale)
  - [EU puts Apple fine on hold while US trade talks continue](https://appleinsider.com/articles/25/04/18/eu-puts-apple-fine-on-hold-while-us-trade-talks-continue?utm_medium=rss)
- - [Covid.gov now points to a &amp;#8216;lab leak&amp;#8217; conspiracy website](https://www.theverge.com/news/651825/covid-gov-lab-leak-conspiracy-website)
- - [FEMA Isn&#39;t Ready for Disaster Season, Workers Say](https://www.wired.com/story/fema-isnt-ready-for-disaster-season-workers-say-hurricanes-fires-floods/)
- - [Here’s how Nintendo Switch 2 preorders will work](https://www.theverge.com/tech/24342715/nintendo-switch-2-preorder-price-release-date-availability-how-to-buy)<!-- TECH:END -->
+ - [Covid․gov now points to a &amp;#8216;lab leak&amp;#8217; conspiracy website](https://www.theverge.com/news/651825/covid-gov-lab-leak-conspiracy-website)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

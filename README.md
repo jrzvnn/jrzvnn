@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The humble screenshot might be the key to great AI assistants](https://www.theverge.com/ai-artificial-intelligence/650809/screenshots-apps-ai-pixel-nothing)
  - [Elon Musk’s SpaceX is reportedly the &amp;#8216;frontrunner&amp;#8217; for Trump&amp;#8217;s missile shield contract](https://www.theverge.com/news/651757/elon-musk-spacex-golden-dome-missile-defense-frontrunner)
- - [Switch 2 U.S. Preorders Starting April 24, Price Staying at $450, Nintendo Confirms](https://www.cnet.com/tech/gaming/switch-2-u-s-preorders-starting-april-24-price-staying-at-450-nintendo-confirms/#ftag=CAD590a51e)
  - [Inside Apple TV 4K -- the best addition to your TV set](https://appleinsider.com/inside/apple-tv/tips/inside-apple-tv-4k----the-best-addition-to-your-tv-set?utm_medium=rss)
- - [Nintendo Switch 2 preorders start April 24th and the price is still $449.99](https://www.theverge.com/news/643616/nintendo-switch-2-us-preorders-date)<!-- TECH:END -->
+ - [Nintendo Switch 2 preorders start April 24th and the price is still $449.99](https://www.theverge.com/news/643616/nintendo-switch-2-us-preorders-date)
+ - [The Best N95, KF94, and KN95 Face Masks &lpar;2025&rpar;](https://www.wired.com/story/best-disposable-face-masks-n95-kn95-kf94-surgical/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

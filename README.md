@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [O_o](http://9gag.com/gag/aZZEPY0)
- - 😝 [8 time Olympic medalist Shelly-Ann-Fraser-Pryce obliterates other parents in a footrace](http://9gag.com/gag/aD2ZpjZ)
- - 💣 [Play this at her wedding](http://9gag.com/gag/aRBvQKj)
- - 😝 [Best wingman](http://9gag.com/gag/ayNWOZY)
+ - 😝 [The average 9gagger in the comment section](http://9gag.com/gag/amomEdj)
+ - 😝 [If I have money I want hire them all](http://9gag.com/gag/a9ymb21)
+ - 💣 [Which event completely destroyed your self esteem anons?](http://9gag.com/gag/avyEYnW)
+ - 😝 [Play this at her wedding](http://9gag.com/gag/aRBvQKj)
  - 👉 [_____](http://9gag.com/gag/aqyx4MP)<!-- MEMES:END -->
 
 ---

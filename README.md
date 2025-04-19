@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [9 Best Digital Notebooks, Tablets, and Smart Pens &lpar;2025&rpar;](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/)
+ - [A look at Foxconn&#39;s $2.5B &quot;Project Elephant&quot;, an upcoming factory on the outskirts of Bengaluru, its second-largest factory outside China, creating 40,000 jobs &lpar;Ananya Bhattacharya/Rest of World&rpar;](http://www.techmeme.com/250419/p6#a250419p6)
  - [Florida Man Enters the Encryption Wars](https://www.wired.com/story/florida-man-enters-the-encryption-wars/)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 19, #208](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-19-208/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for April 19, #412](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-19-412/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for April 19, #678](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-19-678/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for April 19, #1400](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-19-1400/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 19, #412](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-19-412/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

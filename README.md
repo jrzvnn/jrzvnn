@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Times have changed indeed](http://9gag.com/gag/aW4oQ76)
- - 😝 [M. E. G. A.](http://9gag.com/gag/aAyMRZ9)
- - 💣 [Case closed](http://9gag.com/gag/a9ymj4j)
- - 😝 [_____](http://9gag.com/gag/aqyx4MP)
- - 👉 [He\u2019s walking on sunshine](http://9gag.com/gag/aMVnRwM)<!-- MEMES:END -->
+ - 😝 [Just a game](http://9gag.com/gag/a1m5Gxw)
+ - 😝 [8 time Olympic medalist Shelly-Ann-Fraser-Pryce obliterates other parents in a footrace](http://9gag.com/gag/aD2ZpjZ)
+ - 💣 [He\u2019s walking on sunshine](http://9gag.com/gag/aMVnRwM)
+ - 😝 [Which event completely destroyed your self esteem anons?](http://9gag.com/gag/avyEYnW)
+ - 👉 [_____](http://9gag.com/gag/aqyx4MP)<!-- MEMES:END -->
 
 ---
 

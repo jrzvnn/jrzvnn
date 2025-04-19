@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Star Wars Outlaws will get its next story DLC on May 15th](https://www.theverge.com/news/652348/star-wars-outlaws-story-update-a-pirates-fortune-switch-2-release-date-announced)
  - [An AI Customer Service Chatbot Made Up a Company Policy—and Created a Mess](https://www.wired.com/story/cursor-ai-hallucination-policy-customer-service/)
  - [A half-marathon in Beijing featured a road race with human runners and 21 Chinese humanoid robots, highlighting both the progress and limitations of such robots &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250419/p8#a250419p8)
  - [18 Best Apple Watch Accessories &lpar;2025&rpar;: Bands, Chargers, Cases, and Screen Protectors](https://www.wired.com/gallery/best-apple-watch-accessories/)
- - [&#39;MobLand&#39; Release Schedule: When to Watch Episode 4 of the Tom Hardy Series](https://www.cnet.com/tech/services-and-software/mobland-release-schedule-when-to-watch-episode-4-of-the-tom-hardy-series/#ftag=CAD590a51e)
- - [Best iPad to Buy &lpar;and Some to Avoid&rpar; in 2025](https://www.wired.com/gallery/the-best-ipad/)<!-- TECH:END -->
+ - [&#39;MobLand&#39; Release Schedule: When to Watch Episode 4 of the Tom Hardy Series](https://www.cnet.com/tech/services-and-software/mobland-release-schedule-when-to-watch-episode-4-of-the-tom-hardy-series/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

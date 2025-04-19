@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Huawei unveils the Ascend 920 AI chip, expected to hit mass production in H2 2025, after Trump included Nvidia H20 in the ban on AI chip exports to China &lpar;Jowi Morales/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250419/p10#a250419p10)
+ - [Best Internet Providers in Bozeman, Montana](https://www.cnet.com/home/internet/best-internet-providers-in-bozeman-mt/#ftag=CAD590a51e)
  - [Australian shoemaker business has been transformed by iPhone, says Apple](https://appleinsider.com/articles/25/04/19/australian-shoemaker-business-has-been-transformed-by-iphone-says-apple?utm_medium=rss)
  - [Over 700 events and protests across the US mark ‘A National Day of Action’](https://www.theverge.com/news/652341/nation-day-of-action-50501-protests-50-states)
- - [A comparison of OpenAI&#39;s o3, o4-mini, and GPT-4.1; Aaron Levie says o3 nailed a multi-step financial modeling task; Scale AI CEO says o3 is &quot;a big breakthrough&quot; &lpar;Every&rpar;](http://www.techmeme.com/250419/p9#a250419p9)
- - [Apple Watch Series 11: What&#39;s expected to arrive this fall](https://appleinsider.com/articles/25/04/18/apple-watch-series-11-whats-expected-to-arrive-this-fall?utm_medium=rss)
- - [Star Wars Outlaws will get its next story DLC on May 15th](https://www.theverge.com/news/652348/star-wars-outlaws-story-update-a-pirates-fortune-switch-2-release-date-announced)<!-- TECH:END -->
+ - [A comparison of OpenAI&#39;s o3, o4-mini, and GPT-4.1; Aaron Levie says o3 nailed a multi-step financial modeling task; Scale AI CEO says o3 is &quot;a big breakthrough&quot; &lpar;Every&rpar;](http://www.techmeme.com/250419/p9#a250419p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

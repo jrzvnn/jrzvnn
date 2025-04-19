@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Which event completely destroyed your self esteem anons?](http://9gag.com/gag/avyEYnW)
+ - 😝 [8 time Olympic medalist Shelly-Ann-Fraser-Pryce obliterates other parents in a footrace](http://9gag.com/gag/aD2ZpjZ)
  - 😝 [Meow meow Motherf**ker](http://9gag.com/gag/ayNWOoq)
- - 💣 [What you think?](http://9gag.com/gag/a5QzeXo)
- - 😝 [Heh](http://9gag.com/gag/adBx0xj)
- - 👉 [M. E. G. A.](http://9gag.com/gag/aAyMRZ9)<!-- MEMES:END -->
+ - 💣 [If I have money I want hire them all](http://9gag.com/gag/a9ymb21)
+ - 😝 [The average 9gagger in the comment section](http://9gag.com/gag/amomEdj)
+ - 👉 [`YOU be respectful, now!`](http://9gag.com/gag/aE0oLKe)<!-- MEMES:END -->
 
 ---
 

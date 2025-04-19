@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best iPad to Buy &lpar;and Some to Avoid&rpar; in 2025](https://www.wired.com/gallery/the-best-ipad/)
  - [Who Said Vacuums Can’t Be Cute?](https://www.wired.com/story/worx-cube-vacuum-is-cute/)
  - [The Apple Watch Series 10 is back on sale for a record low of $299](https://www.theverge.com/tech/651889/apple-watch-series-10-8bitdo-ultimate-2-wireless-controller-deal-sale)
  - [In Haste, you gotta go fast](https://www.theverge.com/games-review/647481/haste-broken-worlds-game-review-pc)
- - [Google is in more danger than ever of being broken up](https://www.theverge.com/policy/652170/google-search-ad-tech-remedies-antitrust-chrome-breakup)
- - [Cybersecurity experts say the Trump administration&#39;s removal of security guardrails has given US adversaries more room to operate in the disinformation space &lpar;New York Times&rpar;](http://www.techmeme.com/250419/p7#a250419p7)<!-- TECH:END -->
+ - [Google is in more danger than ever of being broken up](https://www.theverge.com/policy/652170/google-search-ad-tech-remedies-antitrust-chrome-breakup)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

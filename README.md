@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Synology is tightening restrictions on third-party NAS hard drives](https://www.theverge.com/news/652364/synology-nas-third-party-hard-drive-restrictions)
  - [Yet another iPhone 17 Pro case leak shows off camera bar design](https://appleinsider.com/articles/25/04/19/yet-another-iphone-17-pro-case-leak-shows-off-camera-bar-design?utm_medium=rss)
  - [Stumbling and Overheating, Most Humanoid Robots Fail to Finish Half Marathon in Beijing](https://www.wired.com/story/beijing-half-marathon-humanoid-robots/)
  - [Sales data: AI evaluation startups have modest revenue; Weights &amp; Biases hit $50M ARR by Dec. 2024, but only 2% of that was from its AI evaluation product Weave &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250419/p11#a250419p11)
- - [Today&#39;s NYT Connections Hints, Answers and Help for April 20, #679](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-20-679/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for April 20, #413](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-20-413/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for April 20, #679](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-20-679/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

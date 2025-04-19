@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The average 9gagger in the comment section](http://9gag.com/gag/amomEdj)
- - 😝 [If I have money I want hire them all](http://9gag.com/gag/a9ymb21)
- - 💣 [Which event completely destroyed your self esteem anons?](http://9gag.com/gag/avyEYnW)
- - 😝 [Play this at her wedding](http://9gag.com/gag/aRBvQKj)
- - 👉 [_____](http://9gag.com/gag/aqyx4MP)<!-- MEMES:END -->
+ - 😝 [No politics, just Polish humor](http://9gag.com/gag/adBxNpj)
+ - 😝 [Bro is checking long like a CS2 PRO](http://9gag.com/gag/aD2bAPw)
+ - 💣 [Good news ...](http://9gag.com/gag/aoy4Bm2)
+ - 😝 [Woman on the phone drove into a 1948 Jaguar XK120.](http://9gag.com/gag/aO89KA6)
+ - 👉 [She is an astronaut](http://9gag.com/gag/awyO031)<!-- MEMES:END -->
 
 ---
 

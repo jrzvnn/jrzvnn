@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [When a m@n controls his lust, he becomes un$toppable.](http://9gag.com/gag/abAW7oB)
+ - 😝 [Strawberry pickers in the U.S. earn $2.35 per box.](http://9gag.com/gag/aByPqmZ)
+ - 💣 [Just a game](http://9gag.com/gag/a1m5Gxw)
  - 😝 [Best wingman](http://9gag.com/gag/ayNWOZY)
- - 😝 [Meow meow Motherf**ker](http://9gag.com/gag/ayNWOoq)
- - 💣 [Times have changed indeed](http://9gag.com/gag/aW4oQ76)
- - 😝 [8 time Olympic medalist Shelly-Ann-Fraser-Pryce obliterates other parents in a footrace](http://9gag.com/gag/aD2ZpjZ)
- - 👉 [I have asked AI to draw itself without canonic human observation and vizualization pattern. How would it draw itself for itself.](http://9gag.com/gag/adBnmYd)<!-- MEMES:END -->
+ - 👉 [10/10 I will hit the retry option](http://9gag.com/gag/a4PApZ1)<!-- MEMES:END -->
 
 ---
 

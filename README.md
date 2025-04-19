@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The new Star Wars strategy game launches in 2026](https://www.theverge.com/news/648543/star-wars-zero-company-celebration)
  - [Should You Buy a New iPhone This Weekend Before They Get More Expensive?](https://www.cnet.com/personal-finance/taxes/should-you-buy-a-new-iphone-this-weekend-before-they-get-more-expensive/#ftag=CAD590a51e)
  - [Best Internet Providers in Jackson, Tennessee](https://www.cnet.com/home/internet/best-internet-providers-in-jackson-tn/#ftag=CAD590a51e)
  - [A profile of Bo Hines, a 29-year-old official in the Trump administration who has become the main liaison between the White House and the crypto industry &lpar;Fortune&rpar;](http://www.techmeme.com/250419/p5#a250419p5)
- - [Best Internet Providers in Berkeley, California](https://www.cnet.com/home/internet/best-internet-providers-in-berkeley-ca/#ftag=CAD590a51e)
- - [India&#39;s top IT firms, TCS, Infosys, and Wipro, are facing their steepest growth slowdown in years amid global economic uncertainty and geopolitical challenges &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/250419/p4#a250419p4)<!-- TECH:END -->
+ - [Best Internet Providers in Berkeley, California](https://www.cnet.com/home/internet/best-internet-providers-in-berkeley-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

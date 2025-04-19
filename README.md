@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inside WWE’s divide-and-conquer YouTube strategy](https://www.theverge.com/youtube/652094/wwe-vault-youtube-interview)
  - [Best Internet Providers in Hayward, California](https://www.cnet.com/home/internet/best-internet-providers-in-hayward-ca/#ftag=CAD590a51e)
  - [The creator of Papers, Please wants developers to make weirder, more personal games](https://www.theverge.com/games/651376/lucas-pope-papers-please-gdc-2025-pioneer-award)
  - [Best AeroPress Coffee Makers Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-aeropress/)
- - [Marvel Rivals Season 2: The 6 Best Heroes to Start Learning Now](https://www.cnet.com/tech/gaming/marvel-rivals-season-2-the-best-heroes-to-learn-right-now/#ftag=CAD590a51e)
- - [iPhone 16 Pro vs. Galaxy S25 Ultra: Camera Champions Compared](https://www.cnet.com/tech/mobile/iphone-16-pro-vs-galaxy-s25-ultra-camera-champions-compared/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Marvel Rivals Season 2: The 6 Best Heroes to Start Learning Now](https://www.cnet.com/tech/gaming/marvel-rivals-season-2-the-best-heroes-to-learn-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

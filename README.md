@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India&#39;s top IT firms, TCS, Infosys, and Wipro, are facing their steepest growth slowdown in years amid global economic uncertainty and geopolitical challenges &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/250419/p4#a250419p4)
  - [Sources: BOA, principally lobbying through trade associations, is pushing US lawmakers for rules favoring banks over tech companies in stablecoin issuance &lpar;The Block&rpar;](http://www.techmeme.com/250419/p3#a250419p3)
  - [Garment workshops are closing across the &quot;Shein village&quot; in Panyu, China, after the US ended the de minimis exemption; Shein urges suppliers to shift to Vietnam &lpar;Kentaro Shiozaki/Nikkei Asia&rpar;](http://www.techmeme.com/250419/p2#a250419p2)
  - [API-based background check provider Checkr acquires income and employment verification startup Truework, which had raised $125M+ and was last valued at ~$480M &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250419/p1#a250419p1)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, April 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-april-19/#ftag=CAD590a51e)
- - [PE firm KKR agrees to acquire and take private Frankfurt-listed IT company Datagroup for about €450M in an all-cash deal expected to close in Q3 2025 &lpar;Emma-Victoria Farr/Reuters&rpar;](http://www.techmeme.com/250418/p17#a250418p17)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, April 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-april-19/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

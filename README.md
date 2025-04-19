@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A profile of Bo Hines, a 29-year-old official in the Trump administration who has become the main liaison between the White House and the crypto industry &lpar;Fortune&rpar;](http://www.techmeme.com/250419/p5#a250419p5)
+ - [Best Internet Providers in Berkeley, California](https://www.cnet.com/home/internet/best-internet-providers-in-berkeley-ca/#ftag=CAD590a51e)
  - [India&#39;s top IT firms, TCS, Infosys, and Wipro, are facing their steepest growth slowdown in years amid global economic uncertainty and geopolitical challenges &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/250419/p4#a250419p4)
  - [Sources: BOA, principally lobbying through trade associations, is pushing US lawmakers for rules favoring banks over tech companies in stablecoin issuance &lpar;The Block&rpar;](http://www.techmeme.com/250419/p3#a250419p3)
- - [Garment workshops are closing across the &quot;Shein village&quot; in Panyu, China, after the US ended the de minimis exemption; Shein urges suppliers to shift to Vietnam &lpar;Kentaro Shiozaki/Nikkei Asia&rpar;](http://www.techmeme.com/250419/p2#a250419p2)
- - [API-based background check provider Checkr acquires income and employment verification startup Truework, which had raised $125M+ and was last valued at ~$480M &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250419/p1#a250419p1)<!-- TECH:END -->
+ - [Garment workshops are closing across the &quot;Shein village&quot; in Panyu, China, after the US ended the de minimis exemption; Shein urges suppliers to shift to Vietnam &lpar;Kentaro Shiozaki/Nikkei Asia&rpar;](http://www.techmeme.com/250419/p2#a250419p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

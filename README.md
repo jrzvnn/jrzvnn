@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Always makes me laugh.](http://9gag.com/gag/aD2Zy0w)
- - 😝 [Meanwhile in Denmark](http://9gag.com/gag/aD2ZEOZ)
- - 💣 [10/10 I will hit the retry option](http://9gag.com/gag/a4PApZ1)
- - 😝 [What you think?](http://9gag.com/gag/a5QzeXo)
- - 👉 [Anon wins with team work](http://9gag.com/gag/aRBzxQq)<!-- MEMES:END -->
+ - 😝 [How Beethoven used to `hear` music](http://9gag.com/gag/aO8D646)
+ - 😝 [Basic instincts lol.](http://9gag.com/gag/aoy4ro0)
+ - 💣 [Vienna](http://9gag.com/gag/aryZQPV)
+ - 😝 [Turned 34. F**k you all and see you tomorrow.](http://9gag.com/gag/a87ed0O)
+ - 👉 [Finger her to a good mood.](http://9gag.com/gag/aryZP0X)<!-- MEMES:END -->
 
 ---
 

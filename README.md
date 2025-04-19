@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [10/10 I will hit the retry option](http://9gag.com/gag/a4PApZ1)
- - 😝 [The mayor of Toronto, wearing a hijab, met with the city\u2019s Muslim community leaders to discuss what they consider the biggest national problem in Canada: Islamophobia.](http://9gag.com/gag/aRBzYQj)
- - 💣 [Anon wins with team work](http://9gag.com/gag/aRBzxQq)
- - 😝 [Best wingman](http://9gag.com/gag/ayNWOZY)
- - 👉 [M. E. G. A.](http://9gag.com/gag/aAyMRZ9)<!-- MEMES:END -->
+ - 😝 [8 time Olympic medalist Shelly-Ann-Fraser-Pryce obliterates other parents in a footrace](http://9gag.com/gag/aD2ZpjZ)
+ - 😝 [Lol](http://9gag.com/gag/aXP45b9)
+ - 💣 [10/10 I will hit the retry option](http://9gag.com/gag/a4PApZ1)
+ - 😝 [Times have changed indeed](http://9gag.com/gag/aW4oQ76)
+ - 👉 [Best wingman](http://9gag.com/gag/ayNWOZY)<!-- MEMES:END -->
 
 ---
 

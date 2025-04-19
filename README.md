@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best wingman](http://9gag.com/gag/ayNWOZY)
- - 😝 [_____](http://9gag.com/gag/aqyx4MP)
- - 💣 [Strawberry pickers in the U.S. earn $2.35 per box.](http://9gag.com/gag/aByPqmZ)
+ - 😝 [The average 9gagger in the comment section](http://9gag.com/gag/amomEdj)
  - 😝 [What you think?](http://9gag.com/gag/a5QzeXo)
- - 👉 [If I have money I want hire them all](http://9gag.com/gag/a9ymb21)<!-- MEMES:END -->
+ - 💣 [If I have money I want hire them all](http://9gag.com/gag/a9ymb21)
+ - 😝 [M. E. G. A.](http://9gag.com/gag/aAyMRZ9)
+ - 👉 [Meow meow Motherf**ker](http://9gag.com/gag/ayNWOoq)<!-- MEMES:END -->
 
 ---
 

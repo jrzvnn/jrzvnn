@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Press X To Start](http://9gag.com/gag/a1mVvKD)
- - 😝 [Finger her to a good mood.](http://9gag.com/gag/aryZP0X)
- - 💣 [Times have changed indeed](http://9gag.com/gag/aW4oQ76)
- - 😝 [Making Lego Car CROSS Narrow Bridges](http://9gag.com/gag/azxO7Oj)
- - 👉 [Propaganda video](http://9gag.com/gag/aPA8NGP)<!-- MEMES:END -->
+ - 😝 [10/10 I will hit the retry option](http://9gag.com/gag/a4PApZ1)
+ - 😝 [The mayor of Toronto, wearing a hijab, met with the city\u2019s Muslim community leaders to discuss what they consider the biggest national problem in Canada: Islamophobia.](http://9gag.com/gag/aRBzYQj)
+ - 💣 [Anon wins with team work](http://9gag.com/gag/aRBzxQq)
+ - 😝 [Best wingman](http://9gag.com/gag/ayNWOZY)
+ - 👉 [M. E. G. A.](http://9gag.com/gag/aAyMRZ9)<!-- MEMES:END -->
 
 ---
 

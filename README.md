@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When a m@n controls his lust, he becomes un$toppable.](http://9gag.com/gag/abAW7oB)
- - 😝 [Strawberry pickers in the U.S. earn $2.35 per box.](http://9gag.com/gag/aByPqmZ)
- - 💣 [Just a game](http://9gag.com/gag/a1m5Gxw)
- - 😝 [Best wingman](http://9gag.com/gag/ayNWOZY)
- - 👉 [10/10 I will hit the retry option](http://9gag.com/gag/a4PApZ1)<!-- MEMES:END -->
+ - 😝 [Press X To Start](http://9gag.com/gag/a1mVvKD)
+ - 😝 [Finger her to a good mood.](http://9gag.com/gag/aryZP0X)
+ - 💣 [Times have changed indeed](http://9gag.com/gag/aW4oQ76)
+ - 😝 [Making Lego Car CROSS Narrow Bridges](http://9gag.com/gag/azxO7Oj)
+ - 👉 [Propaganda video](http://9gag.com/gag/aPA8NGP)<!-- MEMES:END -->
 
 ---
 

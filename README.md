@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Trump administration&#39;s restrictions on AI chip exports by Nvidia, AMD, and Intel to China could help turn Huawei into a global chip-making powerhouse &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/250418/p15#a250418p15)
+ - [Best Sports Bras for Women, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-sports-bras/)
+ - [House Democrats: DOGE is building a ‘master database’ of Americans’ sensitive information](https://www.theverge.com/tech/652215/doge-cross-agency-master-database-sensitive-information)
  - [The government doesn’t understand Meta](https://www.theverge.com/command-line-newsletter/652191/ftc-meta-antitrust-trial-instagram-whatsapp-network-effects)
- - [Here’s how Nintendo Switch 2 preorders will work](https://www.theverge.com/tech/24342715/nintendo-switch-2-preorder-price-release-date-availability-how-to-buy)
- - [OpenAI says its new o3 and o4-mini AI models hallucinate more often than its previous reasoning and traditional models, and the company doesn&#39;t know why &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250418/p14#a250418p14)
- - [Tesla’s Cybertruck is getting deeper discounts and production cuts](https://www.theverge.com/news/652164/tesla-cybertruck-discounts-production-cuts-2024-foundation-series)
- - [Apple wants to patent its once discarded haptic button design, known as &#39;Project Bongo&#39;](https://appleinsider.com/articles/25/04/18/apple-wants-to-patent-its-once-discarded-haptic-button-design-known-as-project-bongo?utm_medium=rss)<!-- TECH:END -->
+ - [Here’s how Nintendo Switch 2 preorders will work](https://www.theverge.com/tech/24342715/nintendo-switch-2-preorder-price-release-date-availability-how-to-buy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Florida Man Enters the Encryption Wars](https://www.wired.com/story/florida-man-enters-the-encryption-wars/)
- - [Scientists Think They’ve Found the Region of the Brain That Regulates Conscious Perception](https://www.wired.com/story/scientists-think-theyve-found-the-brain-region-that-regulates-conscious-perception/)
- - [The new Star Wars strategy game launches in 2026](https://www.theverge.com/news/648543/star-wars-zero-company-celebration)
- - [Should You Buy a New iPhone This Weekend Before They Get More Expensive?](https://www.cnet.com/personal-finance/taxes/should-you-buy-a-new-iphone-this-weekend-before-they-get-more-expensive/#ftag=CAD590a51e)
- - [Best Internet Providers in Jackson, Tennessee](https://www.cnet.com/home/internet/best-internet-providers-in-jackson-tn/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 19, #208](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-19-208/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 19, #412](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-19-412/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for April 19, #678](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-19-678/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for April 19, #1400](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-19-1400/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

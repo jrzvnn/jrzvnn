@@ -159,8 +159,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Beats Cables, Skullcandy ANC Headphones, and a Severance Keyboard—Your Gear News of the Week](https://www.wired.com/story/skullcandy-wireless-earbuds-cables-from-beats-and-a-severance-keyboard-your-gear-news-of-the-week/)
  - [The 47 Best Movies on Netflix Right Now &lpar;April 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [As Summer Approaches, Federal Cuts Threaten Program to Keep Vulnerable People Cool](https://www.wired.com/story/people-would-die-as-summer-approaches-trump-is-jeopardizing-funding-for-ac/)
  - [The 48 Best Shows on Netflix Right Now &lpar;April 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
+ - [As Summer Approaches, Federal Cuts Threaten Program to Keep Vulnerable People Cool](https://www.wired.com/story/people-would-die-as-summer-approaches-trump-is-jeopardizing-funding-for-ac/)
  - [9 Best Digital Notebooks, Tablets, and Smart Pens &lpar;2025&rpar;](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

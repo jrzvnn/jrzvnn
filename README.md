@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [8 time Olympic medalist Shelly-Ann-Fraser-Pryce obliterates other parents in a footrace](http://9gag.com/gag/aD2ZpjZ)
- - 😝 [Meow meow Motherf**ker](http://9gag.com/gag/ayNWOoq)
- - 💣 [If I have money I want hire them all](http://9gag.com/gag/a9ymb21)
  - 😝 [The average 9gagger in the comment section](http://9gag.com/gag/amomEdj)
- - 👉 [`YOU be respectful, now!`](http://9gag.com/gag/aE0oLKe)<!-- MEMES:END -->
+ - 😝 [Best wingman](http://9gag.com/gag/ayNWOZY)
+ - 💣 [If I have money I want hire them all](http://9gag.com/gag/a9ymb21)
+ - 😝 [Very thoughtful](http://9gag.com/gag/a7oVjWx)
+ - 👉 [He\u2019s walking on sunshine](http://9gag.com/gag/aMVnRwM)<!-- MEMES:END -->
 
 ---
 

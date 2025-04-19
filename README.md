@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The average 9gagger in the comment section](http://9gag.com/gag/amomEdj)
- - 😝 [Best wingman](http://9gag.com/gag/ayNWOZY)
- - 💣 [If I have money I want hire them all](http://9gag.com/gag/a9ymb21)
- - 😝 [Very thoughtful](http://9gag.com/gag/a7oVjWx)
- - 👉 [He\u2019s walking on sunshine](http://9gag.com/gag/aMVnRwM)<!-- MEMES:END -->
+ - 😝 [We got to celebrate our diffrences](http://9gag.com/gag/aByEKx1)
+ - 😝 [Based JK](http://9gag.com/gag/amoxXOj)
+ - 💣 [She is an astronaut](http://9gag.com/gag/awyO031)
+ - 😝 [Good news ...](http://9gag.com/gag/aoy4Bm2)
+ - 👉 [Bro is checking long like a CS2 PRO](http://9gag.com/gag/aD2bAPw)<!-- MEMES:END -->
 
 ---
 

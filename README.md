@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Apple Watch Series 11: What&#39;s expected to arrive this fall](https://appleinsider.com/articles/25/04/18/apple-watch-series-11-whats-expected-to-arrive-this-fall?utm_medium=rss)
  - [Star Wars Outlaws will get its next story DLC on May 15th](https://www.theverge.com/news/652348/star-wars-outlaws-story-update-a-pirates-fortune-switch-2-release-date-announced)
  - [An AI Customer Service Chatbot Made Up a Company Policy—and Created a Mess](https://www.wired.com/story/cursor-ai-hallucination-policy-customer-service/)
- - [A half-marathon in Beijing featured a road race with human runners and 21 Chinese humanoid robots, highlighting both the progress and limitations of such robots &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250419/p8#a250419p8)<!-- TECH:END -->
+ - [Best Internet Providers in Lake Erie Beach, New York](https://www.cnet.com/home/internet/best-internet-providers-in-lake-erie-beach-ny/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

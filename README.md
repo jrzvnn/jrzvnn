@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a game](http://9gag.com/gag/a1m5Gxw)
- - 😝 [8 time Olympic medalist Shelly-Ann-Fraser-Pryce obliterates other parents in a footrace](http://9gag.com/gag/aD2ZpjZ)
- - 💣 [He\u2019s walking on sunshine](http://9gag.com/gag/aMVnRwM)
- - 😝 [Which event completely destroyed your self esteem anons?](http://9gag.com/gag/avyEYnW)
- - 👉 [_____](http://9gag.com/gag/aqyx4MP)<!-- MEMES:END -->
+ - 😝 [If I have money I want hire them all](http://9gag.com/gag/a9ymb21)
+ - 😝 [_____](http://9gag.com/gag/aqyx4MP)
+ - 💣 [The average 9gagger in the comment section](http://9gag.com/gag/amomEdj)
+ - 😝 [He\u2019s walking on sunshine](http://9gag.com/gag/aMVnRwM)
+ - 👉 [Best wingman](http://9gag.com/gag/ayNWOZY)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He couldn&#39;t even be mad bro knew the whole lyrics](http://9gag.com/gag/aByPqA1)
- - 😝 [Best wingman](http://9gag.com/gag/ayNWOZY)
- - 💣 [Anon wins with team work](http://9gag.com/gag/aRBzxQq)
- - 😝 [He\u2019s walking on sunshine](http://9gag.com/gag/aMVnRwM)
- - 👉 [Strawberry pickers in the U.S. earn $2.35 per box.](http://9gag.com/gag/aByPqmZ)<!-- MEMES:END -->
+ - 😝 [What you think?](http://9gag.com/gag/a5QzeXo)
+ - 😝 [Meow meow Motherf**ker](http://9gag.com/gag/ayNWOoq)
+ - 💣 [8 time Olympic medalist Shelly-Ann-Fraser-Pryce obliterates other parents in a footrace](http://9gag.com/gag/aD2ZpjZ)
+ - 😝 [When a m@n controls his lust, he becomes un$toppable.](http://9gag.com/gag/abAW7oB)
+ - 👉 [I have asked AI to draw itself without canonic human observation and vizualization pattern. How would it draw itself for itself.](http://9gag.com/gag/adBnmYd)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Times have changed indeed](http://9gag.com/gag/aW4oQ76)
- - 😝 [Bro is checking long like a CS2 PRO](http://9gag.com/gag/aD2bAPw)
- - 💣 [She is an astronaut](http://9gag.com/gag/awyO031)
- - 😝 [I&#39;m not that rich... also him](http://9gag.com/gag/amoxXrd)
- - 👉 [Propaganda video](http://9gag.com/gag/aPA8NGP)<!-- MEMES:END -->
+ - 😝 [Woman on the phone drove into a 1948 Jaguar XK120.](http://9gag.com/gag/aO89KA6)
+ - 😝 [Propaganda video](http://9gag.com/gag/aPA8NGP)
+ - 💣 [Bro is checking long like a CS2 PRO](http://9gag.com/gag/aD2bAPw)
+ - 😝 [She is an astronaut](http://9gag.com/gag/awyO031)
+ - 👉 [The life of a 9gagger](http://9gag.com/gag/aByPDy1)<!-- MEMES:END -->
 
 ---
 

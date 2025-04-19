@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anon wins with team work](http://9gag.com/gag/aRBzxQq)
- - 😝 [Very thoughtful](http://9gag.com/gag/a7oVjWx)
- - 💣 [The survey says SEX!!](http://9gag.com/gag/aKGW0xb)
- - 😝 [Finger her to a good mood.](http://9gag.com/gag/aryZP0X)
- - 👉 [He\u2019s walking on sunshine](http://9gag.com/gag/aMVnRwM)<!-- MEMES:END -->
+ - 😝 [They call him meow meow](http://9gag.com/gag/axybpgW)
+ - 😝 [This young lady is the first person to use these new wireless bionic hands](http://9gag.com/gag/aXP4Byg)
+ - 💣 [Meow meow Motherf**ker](http://9gag.com/gag/ayNWOoq)
+ - 😝 [How Beethoven used to `hear` music](http://9gag.com/gag/aO8D646)
+ - 👉 [In a warehouse of a baklava business with 86 branches across Turkey, 11 tons of worm-infested walnut kernels were seized.](http://9gag.com/gag/aYQP3nw)<!-- MEMES:END -->
 
 ---
 

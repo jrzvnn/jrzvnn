@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Best iPad to Buy &lpar;and Some to Avoid&rpar; in 2025](https://www.wired.com/gallery/the-best-ipad/)
- - [Who Said Vacuums Can’t Be Cute?](https://www.wired.com/story/worx-cube-vacuum-is-cute/)
- - [The Apple Watch Series 10 is back on sale for a record low of $299](https://www.theverge.com/tech/651889/apple-watch-series-10-8bitdo-ultimate-2-wireless-controller-deal-sale)
- - [In Haste, you gotta go fast](https://www.theverge.com/games-review/647481/haste-broken-worlds-game-review-pc)
- - [Google is in more danger than ever of being broken up](https://www.theverge.com/policy/652170/google-search-ad-tech-remedies-antitrust-chrome-breakup)<!-- TECH:END -->
+ - [Rideable Horse Robot Viral Video: The Real Story Behind It](https://www.cnet.com/tech/rideable-horse-robot-viral-video-the-real-story-behind-it/#ftag=CAD590a51e)
+ - [Premier League Soccer: Stream Aston Villa vs. Newcastle Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-aston-villa-vs-newcastle-live-from-anywhere/#ftag=CAD590a51e)
+ - [Fiber Advantage for Homeowners: Faster and Futureproof but Unequal](https://www.cnet.com/home/internet/fiber-advantage-for-homeowners-faster-and-futureproof-but-unequal/#ftag=CAD590a51e)
+ - [Who Said Vacuums Can’t Be Cute?](https://www.wired.com/story/worx-cube-vacuum-is-cute/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

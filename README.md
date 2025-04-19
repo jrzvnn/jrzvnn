@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Hayward, California](https://www.cnet.com/home/internet/best-internet-providers-in-hayward-ca/#ftag=CAD590a51e)
+ - [The creator of Papers, Please wants developers to make weirder, more personal games](https://www.theverge.com/games/651376/lucas-pope-papers-please-gdc-2025-pioneer-award)
  - [Best AeroPress Coffee Makers Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-aeropress/)
- - [Surge pricing, the scourge of ridehailing, is evolving for the robotaxi era](https://www.theverge.com/autonomous-cars/652010/robotaxi-surge-pricing-waymo-uber-price-demand)
- - [Beats Cables, Skullcandy ANC Headphones, and a Severance Keyboard—Your Gear News of the Week](https://www.wired.com/story/skullcandy-wireless-earbuds-cables-from-beats-and-a-severance-keyboard-your-gear-news-of-the-week/)
- - [Best Internet Providers in Elmira, New York](https://www.cnet.com/home/internet/best-internet-providers-in-elmira-ny/#ftag=CAD590a51e)
- - [&#39;Secrets of the Penguins&#39; NatGeo Doc Uncovers &#39;Astonishing&#39; New Behavior](https://www.cnet.com/tech/home-entertainment/secrets-of-the-penguins-natgeo-doc-uncovers-astonishing-new-behavior/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Marvel Rivals Season 2: The 6 Best Heroes to Start Learning Now](https://www.cnet.com/tech/gaming/marvel-rivals-season-2-the-best-heroes-to-learn-right-now/#ftag=CAD590a51e)
+ - [iPhone 16 Pro vs. Galaxy S25 Ultra: Camera Champions Compared](https://www.cnet.com/tech/mobile/iphone-16-pro-vs-galaxy-s25-ultra-camera-champions-compared/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

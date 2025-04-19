@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A comparison of OpenAI&#39;s o3, o4-mini, and GPT-4.1; Aaron Levie says o3 nailed a multi-step financial modeling task; Scale AI CEO says o3 is &quot;a big breakthrough&quot; &lpar;Every&rpar;](http://www.techmeme.com/250419/p9#a250419p9)
+ - [Apple Watch Series 11: What&#39;s expected to arrive this fall](https://appleinsider.com/articles/25/04/18/apple-watch-series-11-whats-expected-to-arrive-this-fall?utm_medium=rss)
  - [Star Wars Outlaws will get its next story DLC on May 15th](https://www.theverge.com/news/652348/star-wars-outlaws-story-update-a-pirates-fortune-switch-2-release-date-announced)
  - [An AI Customer Service Chatbot Made Up a Company Policy—and Created a Mess](https://www.wired.com/story/cursor-ai-hallucination-policy-customer-service/)
- - [A half-marathon in Beijing featured a road race with human runners and 21 Chinese humanoid robots, highlighting both the progress and limitations of such robots &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250419/p8#a250419p8)
- - [18 Best Apple Watch Accessories &lpar;2025&rpar;: Bands, Chargers, Cases, and Screen Protectors](https://www.wired.com/gallery/best-apple-watch-accessories/)
- - [&#39;MobLand&#39; Release Schedule: When to Watch Episode 4 of the Tom Hardy Series](https://www.cnet.com/tech/services-and-software/mobland-release-schedule-when-to-watch-episode-4-of-the-tom-hardy-series/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A half-marathon in Beijing featured a road race with human runners and 21 Chinese humanoid robots, highlighting both the progress and limitations of such robots &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250419/p8#a250419p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

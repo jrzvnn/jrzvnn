@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Chineese doctor fixes dislocated elbow in seconds](http://9gag.com/gag/awyLwmB)
  - 😝 [Oh well..... i guess i should get lost in the crowd then](http://9gag.com/gag/aqyQPMR)
- - 😝 [\u2026 Alexa play This is America please](http://9gag.com/gag/aZZQAMQ)
  - 💣 [How Beethoven used to `hear` music](http://9gag.com/gag/aO8D646)
- - 😝 [Ant Mill &lpar;Ant Death Spiral&rpar; - a phenomenon where a small group of army ants become trapped in a rotating circle and follow each other until they die from exhaustion.](http://9gag.com/gag/aGyMW7n)
- - 👉 [High winds causing chaos in Utah](http://9gag.com/gag/aAy4j1Z)<!-- MEMES:END -->
+ - 😝 [That smile. That damn smile.](http://9gag.com/gag/aLnGyKx)
+ - 👉 [He\u2019s walking on sunshine](http://9gag.com/gag/aMVnRwM)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We got to celebrate our diffrences](http://9gag.com/gag/aByEKx1)
- - 😝 [Based JK](http://9gag.com/gag/amoxXOj)
- - 💣 [She is an astronaut](http://9gag.com/gag/awyO031)
- - 😝 [Good news ...](http://9gag.com/gag/aoy4Bm2)
- - 👉 [Bro is checking long like a CS2 PRO](http://9gag.com/gag/aD2bAPw)<!-- MEMES:END -->
+ - 😝 [Times have changed indeed](http://9gag.com/gag/aW4oQ76)
+ - 😝 [M. E. G. A.](http://9gag.com/gag/aAyMRZ9)
+ - 💣 [Case closed](http://9gag.com/gag/a9ymj4j)
+ - 😝 [_____](http://9gag.com/gag/aqyx4MP)
+ - 👉 [He\u2019s walking on sunshine](http://9gag.com/gag/aMVnRwM)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cybersecurity experts say the Trump administration&#39;s removal of security guardrails has given US adversaries more room to operate in the disinformation space &lpar;New York Times&rpar;](http://www.techmeme.com/250419/p7#a250419p7)
  - [Inside WWE’s divide-and-conquer YouTube strategy](https://www.theverge.com/youtube/652094/wwe-vault-youtube-interview)
  - [Best Internet Providers in Hayward, California](https://www.cnet.com/home/internet/best-internet-providers-in-hayward-ca/#ftag=CAD590a51e)
  - [The creator of Papers, Please wants developers to make weirder, more personal games](https://www.theverge.com/games/651376/lucas-pope-papers-please-gdc-2025-pioneer-award)
- - [Best AeroPress Coffee Makers Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-aeropress/)
- - [Marvel Rivals Season 2: The 6 Best Heroes to Start Learning Now](https://www.cnet.com/tech/gaming/marvel-rivals-season-2-the-best-heroes-to-learn-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best AeroPress Coffee Makers Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-aeropress/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

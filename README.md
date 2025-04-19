@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [He couldn&#39;t even be mad bro knew the whole lyrics](http://9gag.com/gag/aByPqA1)
  - 😝 [Anon wins with team work](http://9gag.com/gag/aRBzxQq)
- - 😝 [Meanwhile in Denmark](http://9gag.com/gag/aD2ZEOZ)
- - 💣 [In a warehouse of a baklava business with 86 branches across Turkey, 11 tons of worm-infested walnut kernels were seized.](http://9gag.com/gag/aYQP3nw)
- - 😝 [Meow meow Motherf**ker](http://9gag.com/gag/ayNWOoq)
- - 👉 [10/10 I will hit the retry option](http://9gag.com/gag/a4PApZ1)<!-- MEMES:END -->
+ - 💣 [It could be worse](http://9gag.com/gag/aVvmp6M)
+ - 😝 [That smile. That damn smile.](http://9gag.com/gag/aLnGyKx)
+ - 👉 [This young lady is the first person to use these new wireless bionic hands](http://9gag.com/gag/aXP4Byg)<!-- MEMES:END -->
 
 ---
 

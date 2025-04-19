@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They call him meow meow](http://9gag.com/gag/axybpgW)
- - 😝 [This young lady is the first person to use these new wireless bionic hands](http://9gag.com/gag/aXP4Byg)
- - 💣 [Meow meow Motherf**ker](http://9gag.com/gag/ayNWOoq)
- - 😝 [How Beethoven used to `hear` music](http://9gag.com/gag/aO8D646)
- - 👉 [In a warehouse of a baklava business with 86 branches across Turkey, 11 tons of worm-infested walnut kernels were seized.](http://9gag.com/gag/aYQP3nw)<!-- MEMES:END -->
+ - 😝 [The dog who observed, planned and executed the perfect scare](http://9gag.com/gag/a1mVpAb)
+ - 😝 [Turned 34. F**k you all and see you tomorrow.](http://9gag.com/gag/a87ed0O)
+ - 💣 [With all that stupid Blue Origin shit going on, lets not forget this.](http://9gag.com/gag/aoy4b8w)
+ - 😝 [Vienna](http://9gag.com/gag/aryZQPV)
+ - 👉 [Basic instincts lol.](http://9gag.com/gag/aoy4ro0)<!-- MEMES:END -->
 
 ---
 

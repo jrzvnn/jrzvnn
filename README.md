@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Meow meow Motherf**ker](http://9gag.com/gag/ayNWOoq)
- - 😝 [Anon wins with team work](http://9gag.com/gag/aRBzxQq)
- - 💣 [Times have changed indeed](http://9gag.com/gag/aW4oQ76)
- - 😝 [Woman on the phone drove into a 1948 Jaguar XK120.](http://9gag.com/gag/aO89KA6)
- - 👉 [The average 9gagger in the comment section](http://9gag.com/gag/amomEdj)<!-- MEMES:END -->
+ - 😝 [Which event completely destroyed your self esteem anons?](http://9gag.com/gag/avyEYnW)
+ - 💣 [Anon wins with team work](http://9gag.com/gag/aRBzxQq)
+ - 😝 [Just a game](http://9gag.com/gag/a1m5Gxw)
+ - 👉 [_____](http://9gag.com/gag/aqyx4MP)<!-- MEMES:END -->
 
 ---
 

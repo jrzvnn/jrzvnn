@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best AeroPress Coffee Makers Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-aeropress/)
+ - [Surge pricing, the scourge of ridehailing, is evolving for the robotaxi era](https://www.theverge.com/autonomous-cars/652010/robotaxi-surge-pricing-waymo-uber-price-demand)
  - [Beats Cables, Skullcandy ANC Headphones, and a Severance Keyboard—Your Gear News of the Week](https://www.wired.com/story/skullcandy-wireless-earbuds-cables-from-beats-and-a-severance-keyboard-your-gear-news-of-the-week/)
- - [The 47 Best Movies on Netflix Right Now &lpar;April 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 48 Best Shows on Netflix Right Now &lpar;April 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [As Summer Approaches, Federal Cuts Threaten Program to Keep Vulnerable People Cool](https://www.wired.com/story/people-would-die-as-summer-approaches-trump-is-jeopardizing-funding-for-ac/)
- - [9 Best Digital Notebooks, Tablets, and Smart Pens &lpar;2025&rpar;](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/)<!-- TECH:END -->
+ - [Best Internet Providers in Elmira, New York](https://www.cnet.com/home/internet/best-internet-providers-in-elmira-ny/#ftag=CAD590a51e)
+ - [&#39;Secrets of the Penguins&#39; NatGeo Doc Uncovers &#39;Astonishing&#39; New Behavior](https://www.cnet.com/tech/home-entertainment/secrets-of-the-penguins-natgeo-doc-uncovers-astonishing-new-behavior/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

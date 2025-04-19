@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [He couldn&#39;t even be mad bro knew the whole lyrics](http://9gag.com/gag/aByPqA1)
- - 😝 [Anon wins with team work](http://9gag.com/gag/aRBzxQq)
- - 💣 [It could be worse](http://9gag.com/gag/aVvmp6M)
- - 😝 [That smile. That damn smile.](http://9gag.com/gag/aLnGyKx)
- - 👉 [This young lady is the first person to use these new wireless bionic hands](http://9gag.com/gag/aXP4Byg)<!-- MEMES:END -->
+ - 😝 [Best wingman](http://9gag.com/gag/ayNWOZY)
+ - 💣 [Anon wins with team work](http://9gag.com/gag/aRBzxQq)
+ - 😝 [He\u2019s walking on sunshine](http://9gag.com/gag/aMVnRwM)
+ - 👉 [Strawberry pickers in the U.S. earn $2.35 per box.](http://9gag.com/gag/aByPqmZ)<!-- MEMES:END -->
 
 ---
 

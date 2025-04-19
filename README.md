@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If I have money I want hire them all](http://9gag.com/gag/a9ymb21)
- - 😝 [Meow meow Motherf**ker](http://9gag.com/gag/ayNWOoq)
- - 💣 [10/10 I will hit the retry option](http://9gag.com/gag/a4PApZ1)
- - 😝 [Best wingman](http://9gag.com/gag/ayNWOZY)
- - 👉 [M. E. G. A.](http://9gag.com/gag/aAyMRZ9)<!-- MEMES:END -->
+ - 😝 [Times have changed indeed](http://9gag.com/gag/aW4oQ76)
+ - 😝 [Bro is checking long like a CS2 PRO](http://9gag.com/gag/aD2bAPw)
+ - 💣 [She is an astronaut](http://9gag.com/gag/awyO031)
+ - 😝 [I&#39;m not that rich... also him](http://9gag.com/gag/amoxXrd)
+ - 👉 [Propaganda video](http://9gag.com/gag/aPA8NGP)<!-- MEMES:END -->
 
 ---
 

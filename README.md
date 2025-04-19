@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Mt. Everest Death Zone](http://9gag.com/gag/aXP4yAg)
+ - 😝 [Strawberry pickers in the U.S. earn $2.35 per box.](http://9gag.com/gag/aByPqmZ)
+ - 💣 [Anon wins with team work](http://9gag.com/gag/aRBzxQq)
  - 😝 [Chineese doctor fixes dislocated elbow in seconds](http://9gag.com/gag/awyLwmB)
- - 😝 [Oh well..... i guess i should get lost in the crowd then](http://9gag.com/gag/aqyQPMR)
- - 💣 [How Beethoven used to `hear` music](http://9gag.com/gag/aO8D646)
- - 😝 [That smile. That damn smile.](http://9gag.com/gag/aLnGyKx)
- - 👉 [He\u2019s walking on sunshine](http://9gag.com/gag/aMVnRwM)<!-- MEMES:END -->
+ - 👉 [The mayor of Toronto, wearing a hijab, met with the city\u2019s Muslim community leaders to discuss what they consider the biggest national problem in Canada: Islamophobia.](http://9gag.com/gag/aRBzYQj)<!-- MEMES:END -->
 
 ---
 

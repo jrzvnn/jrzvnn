@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An AI Customer Service Chatbot Made Up a Company Policy—and Created a Mess](https://www.wired.com/story/cursor-ai-hallucination-policy-customer-service/)
  - [A half-marathon in Beijing featured a road race with human runners and 21 Chinese humanoid robots, highlighting both the progress and limitations of such robots &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250419/p8#a250419p8)
  - [18 Best Apple Watch Accessories &lpar;2025&rpar;: Bands, Chargers, Cases, and Screen Protectors](https://www.wired.com/gallery/best-apple-watch-accessories/)
  - [Best iPad to Buy &lpar;and Some to Avoid&rpar; in 2025](https://www.wired.com/gallery/the-best-ipad/)
- - [Rideable Horse Robot Viral Video: The Real Story Behind It](https://www.cnet.com/tech/rideable-horse-robot-viral-video-the-real-story-behind-it/#ftag=CAD590a51e)
- - [Premier League Soccer: Stream Aston Villa vs. Newcastle Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-aston-villa-vs-newcastle-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Rideable Horse Robot Viral Video: The Real Story Behind It](https://www.cnet.com/tech/rideable-horse-robot-viral-video-the-real-story-behind-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Deals: Amazon drops Apple&#39;s 14-inch MacBook Pro with M4 Pro chip to $1,829](https://appleinsider.com/articles/25/04/19/deals-amazon-drops-apples-14-inch-macbook-pro-with-m4-pro-chip-to-1829?utm_medium=rss)
+ - [Best Internet Providers in Flagstaff, Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-flagstaff-az/#ftag=CAD590a51e)
  - [Synology is tightening restrictions on third-party NAS hard drives](https://www.theverge.com/news/652364/synology-nas-third-party-hard-drive-restrictions)
  - [What Are NAD Plus Supplements and Can They Really Reverse the Aging Process?](https://www.cnet.com/health/nutrition/can-nad-supplements-reverse-aging-process/#ftag=CAD590a51e)
- - [How to Watch WrestleMania 41 Live and Every Match on the Card](https://www.cnet.com/tech/services-and-software/wwe-wrestlemania-41-match-card-and-where-to-watch-all-the-action/#ftag=CAD590a51e)
- - [Yet another iPhone 17 Pro case leak shows off camera bar design](https://appleinsider.com/articles/25/04/19/yet-another-iphone-17-pro-case-leak-shows-off-camera-bar-design?utm_medium=rss)<!-- TECH:END -->
+ - [How to Watch WrestleMania 41 Live and Every Match on the Card](https://www.cnet.com/tech/services-and-software/wwe-wrestlemania-41-match-card-and-where-to-watch-all-the-action/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

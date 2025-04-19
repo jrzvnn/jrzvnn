@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Apple Watch Series 10 is back on sale for a record low of $299](https://www.theverge.com/tech/651889/apple-watch-series-10-8bitdo-ultimate-2-wireless-controller-deal-sale)
+ - [In Haste, you gotta go fast](https://www.theverge.com/games-review/647481/haste-broken-worlds-game-review-pc)
+ - [Google is in more danger than ever of being broken up](https://www.theverge.com/policy/652170/google-search-ad-tech-remedies-antitrust-chrome-breakup)
  - [Cybersecurity experts say the Trump administration&#39;s removal of security guardrails has given US adversaries more room to operate in the disinformation space &lpar;New York Times&rpar;](http://www.techmeme.com/250419/p7#a250419p7)
- - [Garmin Vivoactive 6 Review: Reliable, Real Intelligence](https://www.wired.com/review/garmin-vivoactive-6/)
- - [Inside WWE’s divide-and-conquer YouTube strategy](https://www.theverge.com/youtube/652094/wwe-vault-youtube-interview)
- - [Best Internet Providers in Hayward, California](https://www.cnet.com/home/internet/best-internet-providers-in-hayward-ca/#ftag=CAD590a51e)
- - [The creator of Papers, Please wants developers to make weirder, more personal games](https://www.theverge.com/games/651376/lucas-pope-papers-please-gdc-2025-pioneer-award)<!-- TECH:END -->
+ - [Garmin Vivoactive 6 Review: Reliable, Real Intelligence](https://www.wired.com/review/garmin-vivoactive-6/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

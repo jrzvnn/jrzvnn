@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No politics, just Polish humor](http://9gag.com/gag/adBxNpj)
- - 😝 [Bro is checking long like a CS2 PRO](http://9gag.com/gag/aD2bAPw)
- - 💣 [Good news ...](http://9gag.com/gag/aoy4Bm2)
- - 😝 [Woman on the phone drove into a 1948 Jaguar XK120.](http://9gag.com/gag/aO89KA6)
- - 👉 [She is an astronaut](http://9gag.com/gag/awyO031)<!-- MEMES:END -->
+ - 😝 [Complaining about a free apartment](http://9gag.com/gag/aVvZzzK)
+ - 😝 [Stevie Wonder is overcome by emotions while singing his friend&#39;s song](http://9gag.com/gag/aYQMNOm)
+ - 💣 [Which event completely destroyed your self esteem anons?](http://9gag.com/gag/avyEYnW)
+ - 😝 [Mighty Olo](http://9gag.com/gag/aQzmpqz)
+ - 👉 [_____](http://9gag.com/gag/aqyx4MP)<!-- MEMES:END -->
 
 ---
 

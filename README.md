@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [8 time Olympic medalist Shelly-Ann-Fraser-Pryce obliterates other parents in a footrace](http://9gag.com/gag/aD2ZpjZ)
- - 😝 [Lol](http://9gag.com/gag/aXP45b9)
+ - 😝 [If I have money I want hire them all](http://9gag.com/gag/a9ymb21)
+ - 😝 [Meow meow Motherf**ker](http://9gag.com/gag/ayNWOoq)
  - 💣 [10/10 I will hit the retry option](http://9gag.com/gag/a4PApZ1)
- - 😝 [Times have changed indeed](http://9gag.com/gag/aW4oQ76)
- - 👉 [Best wingman](http://9gag.com/gag/ayNWOZY)<!-- MEMES:END -->
+ - 😝 [Best wingman](http://9gag.com/gag/ayNWOZY)
+ - 👉 [M. E. G. A.](http://9gag.com/gag/aAyMRZ9)<!-- MEMES:END -->
 
 ---
 

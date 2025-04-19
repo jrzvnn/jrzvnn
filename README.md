@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anon wins with team work](http://9gag.com/gag/aRBzxQq)
- - 😝 [Keeping things simple.](http://9gag.com/gag/awyL6nx)
- - 💣 [So it happened &lpar;@fukufaku&rpar;](http://9gag.com/gag/aRBznqA)
- - 😝 [This young lady is the first person to use these new wireless bionic hands](http://9gag.com/gag/aXP4Byg)
- - 👉 [In a warehouse of a baklava business with 86 branches across Turkey, 11 tons of worm-infested walnut kernels were seized.](http://9gag.com/gag/aYQP3nw)<!-- MEMES:END -->
+ - 😝 [Very thoughtful](http://9gag.com/gag/a7oVjWx)
+ - 😝 [When teacher took &#39;engaging with parents&#39; way to seriously.](http://9gag.com/gag/aVvmnXM)
+ - 💣 [Case closed](http://9gag.com/gag/a9ymj4j)
+ - 😝 [Ant Mill &lpar;Ant Death Spiral&rpar; - a phenomenon where a small group of army ants become trapped in a rotating circle and follow each other until they die from exhaustion.](http://9gag.com/gag/aGyMW7n)
+ - 👉 [The mayor of Toronto, wearing a hijab, met with the city\u2019s Muslim community leaders to discuss what they consider the biggest national problem in Canada: Islamophobia.](http://9gag.com/gag/aRBzYQj)<!-- MEMES:END -->
 
 ---
 

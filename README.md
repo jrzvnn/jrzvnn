@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He\u2019s walking on sunshine](http://9gag.com/gag/aMVnRwM)
+ - 😝 [Oh well..... i guess i should get lost in the crowd then](http://9gag.com/gag/aqyQPMR)
  - 😝 [\u2026 Alexa play This is America please](http://9gag.com/gag/aZZQAMQ)
- - 💣 [10/10 I will hit the retry option](http://9gag.com/gag/a4PApZ1)
- - 😝 [Bro fked around and found out](http://9gag.com/gag/aO8DMO3)
- - 👉 [The mayor of Toronto, wearing a hijab, met with the city\u2019s Muslim community leaders to discuss what they consider the biggest national problem in Canada: Islamophobia.](http://9gag.com/gag/aRBzYQj)<!-- MEMES:END -->
+ - 💣 [How Beethoven used to `hear` music](http://9gag.com/gag/aO8D646)
+ - 😝 [Ant Mill &lpar;Ant Death Spiral&rpar; - a phenomenon where a small group of army ants become trapped in a rotating circle and follow each other until they die from exhaustion.](http://9gag.com/gag/aGyMW7n)
+ - 👉 [High winds causing chaos in Utah](http://9gag.com/gag/aAy4j1Z)<!-- MEMES:END -->
 
 ---
 

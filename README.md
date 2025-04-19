@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The survey says SEX!!](http://9gag.com/gag/aKGW0xb)
- - 😝 [Very thoughtful](http://9gag.com/gag/a7oVjWx)
- - 💣 [This young lady is the first person to use these new wireless bionic hands](http://9gag.com/gag/aXP4Byg)
+ - 😝 [Always makes me laugh.](http://9gag.com/gag/aD2Zy0w)
  - 😝 [Meanwhile in Denmark](http://9gag.com/gag/aD2ZEOZ)
+ - 💣 [10/10 I will hit the retry option](http://9gag.com/gag/a4PApZ1)
+ - 😝 [What you think?](http://9gag.com/gag/a5QzeXo)
  - 👉 [Anon wins with team work](http://9gag.com/gag/aRBzxQq)<!-- MEMES:END -->
 
 ---

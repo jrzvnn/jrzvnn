@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mt. Everest Death Zone](http://9gag.com/gag/aXP4yAg)
- - 😝 [Strawberry pickers in the U.S. earn $2.35 per box.](http://9gag.com/gag/aByPqmZ)
- - 💣 [Anon wins with team work](http://9gag.com/gag/aRBzxQq)
- - 😝 [Chineese doctor fixes dislocated elbow in seconds](http://9gag.com/gag/awyLwmB)
- - 👉 [The mayor of Toronto, wearing a hijab, met with the city\u2019s Muslim community leaders to discuss what they consider the biggest national problem in Canada: Islamophobia.](http://9gag.com/gag/aRBzYQj)<!-- MEMES:END -->
+ - 😝 [Anon wins with team work](http://9gag.com/gag/aRBzxQq)
+ - 😝 [Keeping things simple.](http://9gag.com/gag/awyL6nx)
+ - 💣 [So it happened &lpar;@fukufaku&rpar;](http://9gag.com/gag/aRBznqA)
+ - 😝 [This young lady is the first person to use these new wireless bionic hands](http://9gag.com/gag/aXP4Byg)
+ - 👉 [In a warehouse of a baklava business with 86 branches across Turkey, 11 tons of worm-infested walnut kernels were seized.](http://9gag.com/gag/aYQP3nw)<!-- MEMES:END -->
 
 ---
 

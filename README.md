@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The survey says SEX!!](http://9gag.com/gag/aKGW0xb)
  - 😝 [Very thoughtful](http://9gag.com/gag/a7oVjWx)
- - 😝 [It could be worse](http://9gag.com/gag/aVvmp6M)
- - 💣 [When a m@n controls his lust, he becomes un$toppable.](http://9gag.com/gag/abAW7oB)
- - 😝 [8 time Olympic medalist Shelly-Ann-Fraser-Pryce obliterates other parents in a footrace](http://9gag.com/gag/aD2ZpjZ)
- - 👉 [The survey says SEX!!](http://9gag.com/gag/aKGW0xb)<!-- MEMES:END -->
+ - 💣 [This young lady is the first person to use these new wireless bionic hands](http://9gag.com/gag/aXP4Byg)
+ - 😝 [Meanwhile in Denmark](http://9gag.com/gag/aD2ZEOZ)
+ - 👉 [Anon wins with team work](http://9gag.com/gag/aRBzxQq)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stumbling and Overheating, Most Humanoid Robots Fail to Finish Half Marathon in Beijing](https://www.wired.com/story/beijing-half-marathon-humanoid-robots/)
  - [Sales data: AI evaluation startups have modest revenue; Weights &amp; Biases hit $50M ARR by Dec. 2024, but only 2% of that was from its AI evaluation product Weave &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250419/p11#a250419p11)
  - [42 of the Best TV Shows on Netflix That Aren&#39;t Boring](https://www.cnet.com/tech/services-and-software/best-tv-shows-netflix-2025/#ftag=CAD590a51e)
  - [Huawei unveils the Ascend 920 AI chip, expected to hit mass production in H2 2025, after Trump included Nvidia H20 in the ban on AI chip exports to China &lpar;Jowi Morales/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250419/p10#a250419p10)
- - [Best Internet Providers in Bozeman, Montana](https://www.cnet.com/home/internet/best-internet-providers-in-bozeman-mt/#ftag=CAD590a51e)
- - [Australian shoemaker business has been transformed by iPhone, says Apple](https://appleinsider.com/articles/25/04/19/australian-shoemaker-business-has-been-transformed-by-iphone-says-apple?utm_medium=rss)<!-- TECH:END -->
+ - [Best Internet Providers in Bozeman, Montana](https://www.cnet.com/home/internet/best-internet-providers-in-bozeman-mt/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

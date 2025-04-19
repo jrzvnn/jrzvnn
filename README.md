@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [API-based background check provider Checkr acquires income and employment verification startup Truework, which had raised $125M+ and was last valued at ~$480M &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250419/p1#a250419p1)
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, April 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-april-19/#ftag=CAD590a51e)
  - [PE firm KKR agrees to acquire and take private Frankfurt-listed IT company Datagroup for about €450M in an all-cash deal expected to close in Q3 2025 &lpar;Emma-Victoria Farr/Reuters&rpar;](http://www.techmeme.com/250418/p17#a250418p17)
  - [HR management company Paychex acquires Paycor, which provides HR and payroll management software, for $4.1B in an all-cash deal &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/250418/p16#a250418p16)
- - [The Trump administration&#39;s restrictions on AI chip exports by Nvidia, AMD, and Intel to China could help turn Huawei into a global chip-making powerhouse &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/250418/p15#a250418p15)
- - [Best Sports Bras for Women, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-sports-bras/)<!-- TECH:END -->
+ - [The Trump administration&#39;s restrictions on AI chip exports by Nvidia, AMD, and Intel to China could help turn Huawei into a global chip-making powerhouse &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/250418/p15#a250418p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

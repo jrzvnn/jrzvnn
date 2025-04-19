@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meow meow Motherf**ker](http://9gag.com/gag/ayNWOoq)
+ - 😝 [The average 9gagger in the comment section](http://9gag.com/gag/amomEdj)
+ - 😝 [If I have money I want hire them all](http://9gag.com/gag/a9ymb21)
+ - 💣 [Look at the rear of that...](http://9gag.com/gag/azxOg6z)
  - 😝 [Which event completely destroyed your self esteem anons?](http://9gag.com/gag/avyEYnW)
- - 💣 [Anon wins with team work](http://9gag.com/gag/aRBzxQq)
- - 😝 [Just a game](http://9gag.com/gag/a1m5Gxw)
- - 👉 [_____](http://9gag.com/gag/aqyx4MP)<!-- MEMES:END -->
+ - 👉 [Meow meow Motherf**ker](http://9gag.com/gag/ayNWOoq)<!-- MEMES:END -->
 
 ---
 

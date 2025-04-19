@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Very thoughtful](http://9gag.com/gag/a7oVjWx)
+ - 😝 [It could be worse](http://9gag.com/gag/aVvmp6M)
+ - 💣 [When a m@n controls his lust, he becomes un$toppable.](http://9gag.com/gag/abAW7oB)
  - 😝 [8 time Olympic medalist Shelly-Ann-Fraser-Pryce obliterates other parents in a footrace](http://9gag.com/gag/aD2ZpjZ)
- - 😝 [The survey says SEX!!](http://9gag.com/gag/aKGW0xb)
- - 💣 [He\u2019s walking on sunshine](http://9gag.com/gag/aMVnRwM)
- - 😝 [Anon wins with team work](http://9gag.com/gag/aRBzxQq)
- - 👉 [In a warehouse of a baklava business with 86 branches across Turkey, 11 tons of worm-infested walnut kernels were seized.](http://9gag.com/gag/aYQP3nw)<!-- MEMES:END -->
+ - 👉 [The survey says SEX!!](http://9gag.com/gag/aKGW0xb)<!-- MEMES:END -->
 
 ---
 

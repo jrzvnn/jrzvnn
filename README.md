@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The dog who observed, planned and executed the perfect scare](http://9gag.com/gag/a1mVpAb)
- - 😝 [Turned 34. F**k you all and see you tomorrow.](http://9gag.com/gag/a87ed0O)
- - 💣 [With all that stupid Blue Origin shit going on, lets not forget this.](http://9gag.com/gag/aoy4b8w)
- - 😝 [Vienna](http://9gag.com/gag/aryZQPV)
- - 👉 [Basic instincts lol.](http://9gag.com/gag/aoy4ro0)<!-- MEMES:END -->
+ - 😝 [He\u2019s walking on sunshine](http://9gag.com/gag/aMVnRwM)
+ - 😝 [\u2026 Alexa play This is America please](http://9gag.com/gag/aZZQAMQ)
+ - 💣 [10/10 I will hit the retry option](http://9gag.com/gag/a4PApZ1)
+ - 😝 [Bro fked around and found out](http://9gag.com/gag/aO8DMO3)
+ - 👉 [The mayor of Toronto, wearing a hijab, met with the city\u2019s Muslim community leaders to discuss what they consider the biggest national problem in Canada: Islamophobia.](http://9gag.com/gag/aRBzYQj)<!-- MEMES:END -->
 
 ---
 

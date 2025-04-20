@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [How money gets perfectly cut for board games](http://9gag.com/gag/axyOEAM)
- - 😝 [Winning the easiest million](http://9gag.com/gag/aNDBmA6)
- - 💣 [Title](http://9gag.com/gag/aRBvPN2)
- - 😝 [_____](http://9gag.com/gag/aqyx4MP)
- - 👉 [If I have money I want hire them all](http://9gag.com/gag/a9ymb21)<!-- MEMES:END -->
+ - 😝 [No handcuffs too](http://9gag.com/gag/an7vA6n)
+ - 💣 [In another life](http://9gag.com/gag/a87eYQp)
+ - 😝 [Finally some peace and quiet](http://9gag.com/gag/aMVzeVX)
+ - 👉 [You have to be comfortable with heights to work construction in New York City](http://9gag.com/gag/a4PAK9p)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Savage](http://9gag.com/gag/aGyGYpw)
- - 😝 [You have to be comfortable with heights to work construction in New York City](http://9gag.com/gag/a4PAK9p)
- - 💣 [Which event completely destroyed your self esteem anons?](http://9gag.com/gag/avyEYnW)
  - 😝 [Mighty Olo](http://9gag.com/gag/aQzmpqz)
- - 👉 [Play this at her wedding](http://9gag.com/gag/aRBvQKj)<!-- MEMES:END -->
+ - 😝 [I&#39;m trying my best, ok?](http://9gag.com/gag/a348PEe)
+ - 💣 [Times have changed indeed](http://9gag.com/gag/aW4oQ76)
+ - 😝 [Heh](http://9gag.com/gag/adBx0xj)
+ - 👉 [Strawberry pickers in the U.S. earn $2.35 per box.](http://9gag.com/gag/aByPqmZ)<!-- MEMES:END -->
 
 ---
 

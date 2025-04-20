@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finally some peace and quiet](http://9gag.com/gag/aMVzeVX)
- - 😝 [Title](http://9gag.com/gag/aRBvPN2)
- - 💣 [All honey no juice](http://9gag.com/gag/aRBvQP5)
- - 😝 [How money gets perfectly cut for board games](http://9gag.com/gag/axyOEAM)
- - 👉 [Play this at her wedding](http://9gag.com/gag/aRBvQKj)<!-- MEMES:END -->
+ - 😝 [_____](http://9gag.com/gag/aqyx4MP)
+ - 😝 [Not planned to show](http://9gag.com/gag/a348PW3)
+ - 💣 [Lost at sea is the market for new up-and-coming.](http://9gag.com/gag/agmx3wg)
+ - 😝 [Play this at her wedding](http://9gag.com/gag/aRBvQKj)
+ - 👉 [What you think?](http://9gag.com/gag/a5QzeXo)<!-- MEMES:END -->
 
 ---
 

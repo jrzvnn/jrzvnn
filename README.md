@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;The Last of Us&#39; Is on Tonight: When to Watch Season 2, Episode 2](https://www.cnet.com/tech/services-and-software/the-last-of-us-is-on-tonight-when-to-watch-season-2-episode-2/#ftag=CAD590a51e)
  - [Framework Laptop 13 &lpar;AMD, 2025&rpar; Review: The Long Game](https://www.wired.com/review/framework-laptop-13-amd-2025/)
  - [The success of A Minecraft Movie, set to hit $700M in ticket sales globally this weekend, signals Hollywood&#39;s breakthrough in adapting video games into films &lpar;Christopher Grimes/Financial Times&rpar;](http://www.techmeme.com/250420/p5#a250420p5)
  - [12 Probiotic Foods to Eat for a Healthy Gut](https://www.cnet.com/health/nutrition/12-probiotic-foods-to-eat-for-a-healthy-gut/#ftag=CAD590a51e)
- - [Henk Rogers on telling the real story of Tetris: ‘I have to set the record straight’](https://www.theverge.com/interview/649723/henk-rogers-tetris-book-interview)
- - [Best Internet Providers in Corona, California](https://www.cnet.com/home/internet/best-internet-providers-in-corona-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Henk Rogers on telling the real story of Tetris: ‘I have to set the record straight’](https://www.theverge.com/interview/649723/henk-rogers-tetris-book-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

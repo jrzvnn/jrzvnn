@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not planned to show](http://9gag.com/gag/a348PW3)
- - 😝 [If I have money I want hire them all](http://9gag.com/gag/a9ymb21)
- - 💣 [Play this at her wedding](http://9gag.com/gag/aRBvQKj)
- - 😝 [Mighty Olo](http://9gag.com/gag/aQzmpqz)
- - 👉 [Case closed](http://9gag.com/gag/a9ymj4j)<!-- MEMES:END -->
+ - 😝 [Heh](http://9gag.com/gag/adBx0xj)
+ - 😝 [_____](http://9gag.com/gag/aqyx4MP)
+ - 💣 [O_o](http://9gag.com/gag/aZZEPY0)
+ - 😝 [Finally some peace and quiet](http://9gag.com/gag/aMVzeVX)
+ - 👉 [Creativity at minds](http://9gag.com/gag/aByERzN)<!-- MEMES:END -->
 
 ---
 

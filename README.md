@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Netherland](http://9gag.com/gag/aQzmPj8)
- - 😝 [Bro knows something that we don&#39;t know...](http://9gag.com/gag/aByEQ82)
- - 💣 [All honey no juice](http://9gag.com/gag/aRBvQP5)
- - 😝 [Lost at sea is the market for new up-and-coming.](http://9gag.com/gag/agmx3wg)
- - 👉 [Is this what they call upcycling?](http://9gag.com/gag/aQzm4N8)<!-- MEMES:END -->
+ - 😝 [Merry whatever, you deranged psychopaths!](http://9gag.com/gag/awyOK88)
+ - 😝 [His parents surprised him with a dirt bike](http://9gag.com/gag/aVvZQx8)
+ - 💣 [What you think?](http://9gag.com/gag/a5QzeXo)
+ - 😝 [Wow no shittin? You came just in time](http://9gag.com/gag/aVvZzdO)
+ - 👉 [Girls and boys](http://9gag.com/gag/aLnAQG6)<!-- MEMES:END -->
 
 ---
 

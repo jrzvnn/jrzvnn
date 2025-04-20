@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How money gets perfectly cut for board games](http://9gag.com/gag/axyOEAM)
- - 😝 [Netherland](http://9gag.com/gag/aQzmPj8)
- - 💣 [Finally some peace and quiet](http://9gag.com/gag/aMVzeVX)
  - 😝 [Not planned to show](http://9gag.com/gag/a348PW3)
- - 👉 [He couldn&#39;t even be mad bro knew the whole lyrics](http://9gag.com/gag/aByPqA1)<!-- MEMES:END -->
+ - 😝 [If I have money I want hire them all](http://9gag.com/gag/a9ymb21)
+ - 💣 [Play this at her wedding](http://9gag.com/gag/aRBvQKj)
+ - 😝 [Mighty Olo](http://9gag.com/gag/aQzmpqz)
+ - 👉 [Case closed](http://9gag.com/gag/a9ymj4j)<!-- MEMES:END -->
 
 ---
 

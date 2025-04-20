@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shiieet](http://9gag.com/gag/axyOdY1)
- - 😝 [The life of a 9gagger](http://9gag.com/gag/aByPDy1)
- - 💣 [Girls and boys](http://9gag.com/gag/aLnAQG6)
- - 😝 [Bro is checking long like a CS2 PRO](http://9gag.com/gag/aD2bAPw)
- - 👉 [Good news ...](http://9gag.com/gag/aoy4Bm2)<!-- MEMES:END -->
+ - 😝 [If I have money I want hire them all](http://9gag.com/gag/a9ymb21)
+ - 😝 [Strawberry pickers in the U.S. earn $2.35 per box.](http://9gag.com/gag/aByPqmZ)
+ - 💣 [O_o](http://9gag.com/gag/aZZEPY0)
+ - 😝 [Mighty Olo](http://9gag.com/gag/aQzmpqz)
+ - 👉 [Times have changed indeed](http://9gag.com/gag/aW4oQ76)<!-- MEMES:END -->
 
 ---
 

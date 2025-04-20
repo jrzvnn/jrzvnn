@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That\u2019s not cool](http://9gag.com/gag/aPAe4jK)
- - 😝 [Day/night](http://9gag.com/gag/aByERDz)
- - 💣 [Crazy Mom attacks Principal](http://9gag.com/gag/aByEQVN)
- - 😝 [Miss Gill for the win. When you recognize 19 students just by their voice.](http://9gag.com/gag/aGyGRLX)
- - 👉 [Don&#39;t blink your eyes! \ud83d\udc40](http://9gag.com/gag/azxOgxK)<!-- MEMES:END -->
+ - 😝 [Woof, squirt, woof, woof, squirt squirt!!](http://9gag.com/gag/aNDBoE0)
+ - 😝 [Mighty Olo](http://9gag.com/gag/aQzmpqz)
+ - 💣 [Day/night](http://9gag.com/gag/aByERDz)
+ - 😝 [Professional camerawork](http://9gag.com/gag/aRBvPy2)
+ - 👉 [Lost at sea is the market for new up-and-coming.](http://9gag.com/gag/agmx3wg)<!-- MEMES:END -->
 
 ---
 

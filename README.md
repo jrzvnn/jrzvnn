@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shiieet](http://9gag.com/gag/axyOdY1)
- - 😝 [The life of a 9gagger](http://9gag.com/gag/aByPDy1)
- - 💣 [Bro is checking long like a CS2 PRO](http://9gag.com/gag/aD2bAPw)
- - 😝 [Good news ...](http://9gag.com/gag/aoy4Bm2)
- - 👉 [She is an astronaut](http://9gag.com/gag/awyO031)<!-- MEMES:END -->
+ - 😝 [Savage](http://9gag.com/gag/aGyGYpw)
+ - 😝 [You have to be comfortable with heights to work construction in New York City](http://9gag.com/gag/a4PAK9p)
+ - 💣 [Which event completely destroyed your self esteem anons?](http://9gag.com/gag/avyEYnW)
+ - 😝 [Mighty Olo](http://9gag.com/gag/aQzmpqz)
+ - 👉 [Play this at her wedding](http://9gag.com/gag/aRBvQKj)<!-- MEMES:END -->
 
 ---
 

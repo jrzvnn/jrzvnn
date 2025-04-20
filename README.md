@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [_____](http://9gag.com/gag/aqyx4MP)
- - 😝 [Not planned to show](http://9gag.com/gag/a348PW3)
- - 💣 [Lost at sea is the market for new up-and-coming.](http://9gag.com/gag/agmx3wg)
- - 😝 [Play this at her wedding](http://9gag.com/gag/aRBvQKj)
- - 👉 [What you think?](http://9gag.com/gag/a5QzeXo)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/aRBvPN2)
+ - 😝 [Netherland](http://9gag.com/gag/aQzmPj8)
+ - 💣 [Woof, squirt, woof, woof, squirt squirt!!](http://9gag.com/gag/aNDBoE0)
+ - 😝 [Look at the rear of that...](http://9gag.com/gag/azxOg6z)
+ - 👉 [Crazy Mom attacks Principal](http://9gag.com/gag/aByEQVN)<!-- MEMES:END -->
 
 ---
 

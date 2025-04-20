@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mighty Olo](http://9gag.com/gag/aQzmpqz)
- - 😝 [Case closed](http://9gag.com/gag/a9ymj4j)
- - 💣 [Winning the easiest million](http://9gag.com/gag/aNDBmA6)
- - 😝 [Finally some peace and quiet](http://9gag.com/gag/aMVzeVX)
- - 👉 [_____](http://9gag.com/gag/aqyx4MP)<!-- MEMES:END -->
+ - 😝 [Heh](http://9gag.com/gag/adBx0xj)
+ - 😝 [Which event completely destroyed your self esteem anons?](http://9gag.com/gag/avyEYnW)
+ - 💣 [Is it dewey or doy](http://9gag.com/gag/aAyMYrg)
+ - 😝 [How money gets perfectly cut for board games](http://9gag.com/gag/axyOEAM)
+ - 👉 [What you think?](http://9gag.com/gag/a5QzeXo)<!-- MEMES:END -->
 
 ---
 

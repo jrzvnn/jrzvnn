@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Miss Gill for the win. When you recognize 19 students just by their voice.](http://9gag.com/gag/aGyGRLX)
  - 😝 [Lost at sea is the market for new up-and-coming.](http://9gag.com/gag/agmx3wg)
+ - 💣 [Not planned to show](http://9gag.com/gag/a348PW3)
  - 😝 [Day/night](http://9gag.com/gag/aByERDz)
- - 💣 [Behind the scenes footage of something idk](http://9gag.com/gag/axyOd9L)
- - 😝 [That\u2019s not cool](http://9gag.com/gag/aPAe4jK)
- - 👉 [Miss Gill for the win. When you recognize 19 students just by their voice.](http://9gag.com/gag/aGyGRLX)<!-- MEMES:END -->
+ - 👉 [Don&#39;t blink your eyes! \ud83d\udc40](http://9gag.com/gag/azxOgxK)<!-- MEMES:END -->
 
 ---
 

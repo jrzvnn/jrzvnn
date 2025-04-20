@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mouse Mode on Nintendo Switch 2 Already Needs an Overhaul](https://www.wired.com/story/mouse-mode-on-nintendo-switch-2-already-needs-an-overhaul/)
- - [Everybody’s got a favorite new game](https://www.theverge.com/installer-newsletter/652291/blue-prince-great-circle-baldurs-gate-games-installer)
- - [Crime blotter: Florida UPS driver accused of stealing 171 iPhones](https://appleinsider.com/articles/25/04/20/crime-blotter-florida-ups-driver-accused-of-stealing-171-iphones?utm_medium=rss)
- - [India&#39;s Open Network for Digital Commerce has struggled to break the near-duopoly of Zomato and Swiggy in online food delivery after cutting back on discounts &lpar;Krishnapriya V.S./The India Forum&rpar;](http://www.techmeme.com/250420/p4#a250420p4)
- - [Scientists Are Mapping the Bizarre, Chaotic Spacetime Inside Black Holes](https://www.wired.com/story/new-maps-of-the-bizarre-chaotic-space-time-inside-black-holes/)<!-- TECH:END -->
+ - [9 Best Smartwatches &lpar;2025&rpar;: Apple, Wear OS, Hybrid &amp; Kids&#39; Watches](https://www.wired.com/gallery/best-smartwatches/)
+ - [Premier League Soccer: Stream Leicester vs. Liverpool Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-leicester-vs-liverpool-live-from-anywhere/#ftag=CAD590a51e)
+ - [24 Hours Without Internet: I Tried This Digital Detox and Thrived](https://www.cnet.com/home/internet/24-hours-without-internet-my-digital-detox/#ftag=CAD590a51e)
+ - [Here&#39;s How to Watch Every Major US Space Launch Scheduled in 2025](https://www.cnet.com/science/space/how-to-watch-every-major-us-space-launch-scheduled-in-2025/#ftag=CAD590a51e)
+ - [Mouse Mode on Nintendo Switch 2 Already Needs an Overhaul](https://www.wired.com/story/mouse-mode-on-nintendo-switch-2-already-needs-an-overhaul/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Fortnite is getting a Star Wars Battle Royale with Darth Jar Jar](https://www.theverge.com/news/651258/fortnite-star-wars-galactic-battle-darth-jar-jar-binks)
- - [2026 Kia EV4: Wild-Styled EV Sedan &lpar;Hopefully&rpar; Won&#39;t Break the Bank](https://www.cnet.com/roadshow/news/2026-kia-ev4-first-look-new-york-auto-show/#ftag=CAD590a51e)
- - [Star Wars: Visions is returning in October — and getting a spinoff series](https://www.theverge.com/tv/649362/star-wars-visions-volume-3-release-date)
- - [The 6 Best Blow-Dry Brushes of 2025](https://www.wired.com/gallery/best-blow-dry-brushes/)
- - [Best Pillow for Every Sleeper in 2025](https://www.cnet.com/health/sleep/best-pillow/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Oops, All Angles! 2026 Kia EV4 Arrives at New York Auto Show](https://www.cnet.com/roadshow/pictures/2026-kia-ev4-new-york-auto-show-debut/#ftag=CAD590a51e)
+ - [2026 Kia K4 Hatchback Joins Lineup in New York](https://www.cnet.com/roadshow/pictures/2026-kia-k4-hatchback-joins-lineup-in-new-york/#ftag=CAD590a51e)
+ - [&#39;Andor&#39; Season 2: Release Date and Time for the Star Wars Prequel Series](https://www.cnet.com/tech/services-and-software/andor-season-2-release-date-and-time-for-the-star-wars-prequel-series/#ftag=CAD590a51e)
+ - [2026 Kia EV4: Wild-Styled EV Sedan &lpar;Hopefully&rpar; Won&#39;t Break the Bank](https://www.cnet.com/roadshow/news/2026-kia-ev4-first-look-new-york-auto-show/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

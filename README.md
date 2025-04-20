@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fortnite is getting a Star Wars Battle Royale with Darth Jar Jar](https://www.theverge.com/news/651258/fortnite-star-wars-galactic-battle-darth-jar-jar-binks)
  - [2026 Kia EV4: Wild-Styled EV Sedan &lpar;Hopefully&rpar; Won&#39;t Break the Bank](https://www.cnet.com/roadshow/news/2026-kia-ev4-first-look-new-york-auto-show/#ftag=CAD590a51e)
  - [Star Wars: Visions is returning in October — and getting a spinoff series](https://www.theverge.com/tv/649362/star-wars-visions-volume-3-release-date)
  - [The 6 Best Blow-Dry Brushes of 2025](https://www.wired.com/gallery/best-blow-dry-brushes/)
- - [Best Pillow for Every Sleeper in 2025](https://www.cnet.com/health/sleep/best-pillow/#ftag=CAD590a51e)
- - [&#39;The Last of Us&#39; Is on Tonight: When to Watch Season 2, Episode 2](https://www.cnet.com/tech/services-and-software/the-last-of-us-is-on-tonight-when-to-watch-season-2-episode-2/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Pillow for Every Sleeper in 2025](https://www.cnet.com/health/sleep/best-pillow/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

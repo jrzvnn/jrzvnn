@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [India&#39;s Open Network for Digital Commerce has struggled to break the near-duopoly of Zomato and Swiggy in online food delivery after cutting back on discounts &lpar;Krishnapriya V.S./The India Forum&rpar;](http://www.techmeme.com/250420/p4#a250420p4)
  - [Scientists Are Mapping the Bizarre, Chaotic Spacetime Inside Black Holes](https://www.wired.com/story/new-maps-of-the-bizarre-chaotic-space-time-inside-black-holes/)
- - [9 Best Early Deals From the Amazon Book Sale &lpar;2025&rpar;](https://www.wired.com/story/amazon-book-sale-2025/)
- - [Do You Need a Fancy Bread Knife?](https://www.wired.com/story/do-you-need-a-fancy-bread-knife/)
- - [Don&#39;t Expect Much From iOS 18.5 Public Beta 1, Small Changes Coming](https://www.cnet.com/tech/services-and-software/dont-expect-much-from-ios-18-5-public-beta-1-small-changes-coming/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Digital Redlining: What It Is and How It Continues to Impact Communities](https://www.cnet.com/home/internet/digital-redlining-and-its-enduring-impact-on-communities/#ftag=CAD590a51e)
+ - [Starry Internet Review: Plans, Pricing, Speed and Availability](https://www.cnet.com/home/internet/starry-internet-review/#ftag=CAD590a51e)
+ - [9 Best Early Deals From the Amazon Book Sale &lpar;2025&rpar;](https://www.wired.com/story/amazon-book-sale-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

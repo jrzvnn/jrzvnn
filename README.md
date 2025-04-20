@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro knows something that we don&#39;t know...](http://9gag.com/gag/aByEQ82)
- - 😝 [Savage](http://9gag.com/gag/aGyGYpw)
- - 💣 [_____](http://9gag.com/gag/aqyx4MP)
- - 😝 [Creativity at minds](http://9gag.com/gag/aByERzN)
- - 👉 [Heh](http://9gag.com/gag/adBx0xj)<!-- MEMES:END -->
+ - 😝 [Shiieet](http://9gag.com/gag/axyOdY1)
+ - 😝 [The life of a 9gagger](http://9gag.com/gag/aByPDy1)
+ - 💣 [Girls and boys](http://9gag.com/gag/aLnAQG6)
+ - 😝 [Bro is checking long like a CS2 PRO](http://9gag.com/gag/aD2bAPw)
+ - 👉 [Good news ...](http://9gag.com/gag/aoy4Bm2)<!-- MEMES:END -->
 
 ---
 

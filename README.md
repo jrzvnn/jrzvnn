@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Merry whatever, you deranged psychopaths!](http://9gag.com/gag/awyOK88)
- - 😝 [His parents surprised him with a dirt bike](http://9gag.com/gag/aVvZQx8)
- - 💣 [Doctors and Engineers](http://9gag.com/gag/agmx0Wx)
- - 😝 [N..](http://9gag.com/gag/aQzmnEw)
- - 👉 [Peak male content](http://9gag.com/gag/aNDBe5b)<!-- MEMES:END -->
+ - 😝 [You have to be comfortable with heights to work construction in New York City](http://9gag.com/gag/a4PAK9p)
+ - 😝 [Don&#39;t blink your eyes! \ud83d\udc40](http://9gag.com/gag/azxOgxK)
+ - 💣 [Case closed](http://9gag.com/gag/a9ymj4j)
+ - 😝 [Crazy Mom attacks Principal](http://9gag.com/gag/aByEQVN)
+ - 👉 [Not planned to show](http://9gag.com/gag/a348PW3)<!-- MEMES:END -->
 
 ---
 

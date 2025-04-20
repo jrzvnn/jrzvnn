@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Arlington, Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-arlington-va/#ftag=CAD590a51e)
  - [Coinbase faces pump-and-dump accusations after its subsidiary Base launched a &quot;content coin&quot; on Zora; Coinbase clarifies that Base will never sell the tokens &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250419/p12#a250419p12)
  - [Deals: Amazon drops Apple&#39;s 14-inch MacBook Pro with M4 Pro chip to $1,829](https://appleinsider.com/articles/25/04/19/deals-amazon-drops-apples-14-inch-macbook-pro-with-m4-pro-chip-to-1829?utm_medium=rss)
  - [Best Internet Providers in Flagstaff, Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-flagstaff-az/#ftag=CAD590a51e)
- - [Synology is tightening restrictions on third-party NAS hard drives](https://www.theverge.com/news/652364/synology-nas-third-party-hard-drive-restrictions)
- - [What Are NAD Plus Supplements and Can They Really Reverse the Aging Process?](https://www.cnet.com/health/nutrition/can-nad-supplements-reverse-aging-process/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Synology is tightening restrictions on third-party NAS hard drives](https://www.theverge.com/news/652364/synology-nas-third-party-hard-drive-restrictions)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

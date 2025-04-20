@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If I have money I want hire them all](http://9gag.com/gag/a9ymb21)
- - 😝 [Strawberry pickers in the U.S. earn $2.35 per box.](http://9gag.com/gag/aByPqmZ)
- - 💣 [O_o](http://9gag.com/gag/aZZEPY0)
- - 😝 [Mighty Olo](http://9gag.com/gag/aQzmpqz)
- - 👉 [Times have changed indeed](http://9gag.com/gag/aW4oQ76)<!-- MEMES:END -->
+ - 😝 [How money gets perfectly cut for board games](http://9gag.com/gag/axyOEAM)
+ - 😝 [Netherland](http://9gag.com/gag/aQzmPj8)
+ - 💣 [Finally some peace and quiet](http://9gag.com/gag/aMVzeVX)
+ - 😝 [Not planned to show](http://9gag.com/gag/a348PW3)
+ - 👉 [He couldn&#39;t even be mad bro knew the whole lyrics](http://9gag.com/gag/aByPqA1)<!-- MEMES:END -->
 
 ---
 

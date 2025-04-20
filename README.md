@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A lot of Logitech products cost more now than two months ago](https://www.theverge.com/logitech/652423/logitech-price-increases-mouse-keyboard-accessories)
  - [After lobbying US Congress to shelve the Senate-passed KOSA bill in 2024, Meta has now made headway in lobbying for an app store age-verification bill &lpar;Ruth Reader/Politico&rpar;](http://www.techmeme.com/250420/p7#a250420p7)
- - [Subaru Solterra EV Debuts Divisive Look for 2026 Model Year](https://www.cnet.com/roadshow/pictures/subaru-solterra-ev-debuts-divisive-look-for-2026-model-year/#ftag=CAD590a51e)
- - [Subaru Boosts 2026 Solterra EV&#39;s Range, Debuts Larger Trailseeker Electric SUV](https://www.cnet.com/roadshow/news/subaru-boosts-2026-solterra-evs-range-debuts-larger-trailseeker-electric-suv/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 21, #210](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-21-210/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for April 21, #414](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-21-414/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 12 Best Cooling Pillows You Can Buy in 2025](https://www.cnet.com/health/sleep/best-cooling-pillows/#ftag=CAD590a51e)
+ - [WrestleMania 41: Don&#39;t Miss Today&#39;s Final Matches](https://www.cnet.com/tech/services-and-software/wrestlemania-41-dont-miss-todays-final-matches/#ftag=CAD590a51e)
+ - [Subaru Solterra EV Debuts Divisive Look for 2026 Model Year](https://www.cnet.com/roadshow/pictures/subaru-solterra-ev-debuts-divisive-look-for-2026-model-year/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

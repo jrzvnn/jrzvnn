@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Case closed](http://9gag.com/gag/a9ymj4j)
- - 😝 [Creativity at minds](http://9gag.com/gag/aByERzN)
- - 💣 [My man](http://9gag.com/gag/aRBvwKQ)
- - 😝 [Dead man&#39;s POV](http://9gag.com/gag/a2vyBmY)
- - 👉 [Look at the rear of that...](http://9gag.com/gag/azxOg6z)<!-- MEMES:END -->
+ - 😝 [The survey says SEX!!](http://9gag.com/gag/aKGW0xb)
+ - 😝 [Finger her to a good mood.](http://9gag.com/gag/aryZP0X)
+ - 💣 [Winning the easiest million](http://9gag.com/gag/aNDBmA6)
+ - 😝 [What you think?](http://9gag.com/gag/a5QzeXo)
+ - 👉 [Mighty Olo](http://9gag.com/gag/aQzmpqz)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Complaining about a free apartment](http://9gag.com/gag/aVvZzzK)
- - 😝 [Stevie Wonder is overcome by emotions while singing his friend&#39;s song](http://9gag.com/gag/aYQMNOm)
- - 💣 [Which event completely destroyed your self esteem anons?](http://9gag.com/gag/avyEYnW)
  - 😝 [Mighty Olo](http://9gag.com/gag/aQzmpqz)
+ - 😝 [Case closed](http://9gag.com/gag/a9ymj4j)
+ - 💣 [Winning the easiest million](http://9gag.com/gag/aNDBmA6)
+ - 😝 [Finally some peace and quiet](http://9gag.com/gag/aMVzeVX)
  - 👉 [_____](http://9gag.com/gag/aqyx4MP)<!-- MEMES:END -->
 
 ---

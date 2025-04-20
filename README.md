@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crux, a financing software provider for clean energy companies, raised a $50M Series B led by Lowercarbon Capital, taking its total funding to more than $77M &lpar;Katie Fehrenbacher/Axios&rpar;](http://www.techmeme.com/250420/p1#a250420p1)
  - [Plano, Texas-based Tapcheck, which works with companies to let workers access their earnings before payday, raised a $25M Series A extension and $200M in debt &lpar;CTech&rpar;](http://www.techmeme.com/250419/p14#a250419p14)
  - [Revel, which builds software for controlling critical hardware like rockets, emerges from stealth with $30M in funding, including a ~$23M Series A led by Thrive &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250419/p13#a250419p13)
  - [Today&#39;s NYT Mini Crossword Answers for Sunday, April 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-april-20/#ftag=CAD590a51e)
- - [Best Internet Providers in Arlington, Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-arlington-va/#ftag=CAD590a51e)
- - [Coinbase faces pump-and-dump accusations after its subsidiary Base launched a &quot;content coin&quot; on Zora; Coinbase clarifies that Base will never sell the tokens &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250419/p12#a250419p12)<!-- TECH:END -->
+ - [Best Internet Providers in Arlington, Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-arlington-va/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

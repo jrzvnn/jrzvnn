@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All honey no juice](http://9gag.com/gag/aRBvQP5)
- - 😝 [Netherland](http://9gag.com/gag/aQzmPj8)
- - 💣 [Crazy Mom attacks Principal](http://9gag.com/gag/aByEQVN)
- - 😝 [Not planned to show](http://9gag.com/gag/a348PW3)
- - 👉 [Best way to get ur answers](http://9gag.com/gag/awyO7NB)<!-- MEMES:END -->
+ - 😝 [Finally some peace and quiet](http://9gag.com/gag/aMVzeVX)
+ - 😝 [Title](http://9gag.com/gag/aRBvPN2)
+ - 💣 [All honey no juice](http://9gag.com/gag/aRBvQP5)
+ - 😝 [How money gets perfectly cut for board games](http://9gag.com/gag/axyOEAM)
+ - 👉 [Play this at her wedding](http://9gag.com/gag/aRBvQKj)<!-- MEMES:END -->
 
 ---
 

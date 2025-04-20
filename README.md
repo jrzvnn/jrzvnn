@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [10/10 I will hit the retry option](http://9gag.com/gag/a4PApZ1)
- - 😝 [Bro knows something that we don&#39;t know...](http://9gag.com/gag/aByEQ82)
- - 💣 [Mighty Olo](http://9gag.com/gag/aQzmpqz)
  - 😝 [Cops had enough](http://9gag.com/gag/aD2ZBD9)
- - 👉 [All honey no juice](http://9gag.com/gag/aRBvQP5)<!-- MEMES:END -->
+ - 😝 [Case closed](http://9gag.com/gag/a9ymj4j)
+ - 💣 [No handcuffs too](http://9gag.com/gag/an7vA6n)
+ - 😝 [Not planned to show](http://9gag.com/gag/a348PW3)
+ - 👉 [Bro knows something that we don&#39;t know...](http://9gag.com/gag/aByEQ82)<!-- MEMES:END -->
 
 ---
 

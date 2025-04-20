@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yeah \u2026 he got played !!](http://9gag.com/gag/a7o9vzw)
- - 😝 [O_o](http://9gag.com/gag/aZZEPY0)
- - 💣 [Behind the scenes footage of something idk](http://9gag.com/gag/axyOd9L)
- - 😝 [Netherland](http://9gag.com/gag/aQzmPj8)
- - 👉 [Mighty Olo](http://9gag.com/gag/aQzmpqz)<!-- MEMES:END -->
+ - 😝 [Shiieet](http://9gag.com/gag/axyOdY1)
+ - 😝 [Heh](http://9gag.com/gag/adBx0xj)
+ - 💣 [Mighty Olo](http://9gag.com/gag/aQzmpqz)
+ - 😝 [Hey wanna hang out?](http://9gag.com/gag/ae9xjdb)
+ - 👉 [Finally some peace and quiet](http://9gag.com/gag/aMVzeVX)<!-- MEMES:END -->
 
 ---
 

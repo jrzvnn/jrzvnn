@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [9 Best Early Deals From the Amazon Book Sale &lpar;2025&rpar;](https://www.wired.com/story/amazon-book-sale-2025/)
  - [Do You Need a Fancy Bread Knife?](https://www.wired.com/story/do-you-need-a-fancy-bread-knife/)
+ - [Don&#39;t Expect Much From iOS 18.5 Public Beta 1, Small Changes Coming](https://www.cnet.com/tech/services-and-software/dont-expect-much-from-ios-18-5-public-beta-1-small-changes-coming/#ftag=CAD590a51e)
  - [Best Internet Providers in Brazil, Indiana](https://www.cnet.com/home/internet/best-internet-providers-in-brazil-in/#ftag=CAD590a51e)
- - [How YouTube is adapting to the AI era; a VP expects that in five years, every video uploaded to YouTube could be dubbed automatically into every spoken language &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/250420/p3#a250420p3)
- - [Assort Health, which is developing voice AI agents for healthcare to manage patient phone calls, raised a $22M Series A co-led by First Round and Chemistry &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250420/p2#a250420p2)
- - [Crux, a financing software provider for clean energy companies, raised a $50M Series B led by Lowercarbon Capital, taking its total funding to more than $77M &lpar;Katie Fehrenbacher/Axios&rpar;](http://www.techmeme.com/250420/p1#a250420p1)<!-- TECH:END -->
+ - [How YouTube is adapting to the AI era; a VP expects that in five years, every video uploaded to YouTube could be dubbed automatically into every spoken language &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/250420/p3#a250420p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

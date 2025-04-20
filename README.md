@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A look at the race to turn brainwaves into fluent speech, as researchers at universities in California and companies use brain implants and AI to make advances &lpar;Financial Times&rpar;](http://www.techmeme.com/250420/p6#a250420p6)
+ - [Best Robot Vacuums of 2025: These Machines Do the Work for You](https://www.cnet.com/home/kitchen-and-household/best-robot-vacuum/#ftag=CAD590a51e)
  - [Fortnite is getting a Star Wars Battle Royale with Darth Jar Jar](https://www.theverge.com/news/651258/fortnite-star-wars-galactic-battle-darth-jar-jar-binks)
  - [Oops, All Angles! 2026 Kia EV4 Arrives at New York Auto Show](https://www.cnet.com/roadshow/pictures/2026-kia-ev4-new-york-auto-show-debut/#ftag=CAD590a51e)
- - [2026 Kia K4 Hatchback Joins Lineup in New York](https://www.cnet.com/roadshow/pictures/2026-kia-k4-hatchback-joins-lineup-in-new-york/#ftag=CAD590a51e)
- - [&#39;Andor&#39; Season 2: Release Date and Time for the Star Wars Prequel Series](https://www.cnet.com/tech/services-and-software/andor-season-2-release-date-and-time-for-the-star-wars-prequel-series/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [2026 Kia K4 Hatchback Joins Lineup in New York](https://www.cnet.com/roadshow/pictures/2026-kia-k4-hatchback-joins-lineup-in-new-york/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

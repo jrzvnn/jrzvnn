@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She is an astronaut](http://9gag.com/gag/awyO031)
- - 😝 [His parents surprised him with a dirt bike](http://9gag.com/gag/aVvZQx8)
- - 💣 [Title](http://9gag.com/gag/aRBvPN2)
- - 😝 [The obligatory Easter post](http://9gag.com/gag/a6ZBy8b)
- - 👉 [What you think?](http://9gag.com/gag/a5QzeXo)<!-- MEMES:END -->
+ - 😝 [10/10 I will hit the retry option](http://9gag.com/gag/a4PApZ1)
+ - 😝 [Bro knows something that we don&#39;t know...](http://9gag.com/gag/aByEQ82)
+ - 💣 [Mighty Olo](http://9gag.com/gag/aQzmpqz)
+ - 😝 [Cops had enough](http://9gag.com/gag/aD2ZBD9)
+ - 👉 [All honey no juice](http://9gag.com/gag/aRBvQP5)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How money gets perfectly cut for board games](http://9gag.com/gag/axyOEAM)
- - 😝 [No handcuffs too](http://9gag.com/gag/an7vA6n)
- - 💣 [In another life](http://9gag.com/gag/a87eYQp)
- - 😝 [Finally some peace and quiet](http://9gag.com/gag/aMVzeVX)
- - 👉 [You have to be comfortable with heights to work construction in New York City](http://9gag.com/gag/a4PAK9p)<!-- MEMES:END -->
+ - 😝 [In another life](http://9gag.com/gag/a87eYQp)
+ - 😝 [Creativity at minds](http://9gag.com/gag/aByERzN)
+ - 💣 [_____](http://9gag.com/gag/aqyx4MP)
+ - 😝 [Winning the easiest million](http://9gag.com/gag/aNDBmA6)
+ - 👉 [No handcuffs too](http://9gag.com/gag/an7vA6n)<!-- MEMES:END -->
 
 ---
 

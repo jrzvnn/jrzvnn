@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The survey says SEX!!](http://9gag.com/gag/aKGW0xb)
- - 😝 [Winning the easiest million](http://9gag.com/gag/aNDBmA6)
- - 💣 [O_o](http://9gag.com/gag/aZZEPY0)
- - 😝 [How money gets perfectly cut for board games](http://9gag.com/gag/axyOEAM)
- - 👉 [What you think?](http://9gag.com/gag/a5QzeXo)<!-- MEMES:END -->
+ - 😝 [Shiieet](http://9gag.com/gag/axyOdY1)
+ - 😝 [The life of a 9gagger](http://9gag.com/gag/aByPDy1)
+ - 💣 [Bro is checking long like a CS2 PRO](http://9gag.com/gag/aD2bAPw)
+ - 😝 [Good news ...](http://9gag.com/gag/aoy4Bm2)
+ - 👉 [She is an astronaut](http://9gag.com/gag/awyO031)<!-- MEMES:END -->
 
 ---
 

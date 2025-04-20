@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shiieet](http://9gag.com/gag/axyOdY1)
- - 😝 [Heh](http://9gag.com/gag/adBx0xj)
- - 💣 [Mighty Olo](http://9gag.com/gag/aQzmpqz)
- - 😝 [Hey wanna hang out?](http://9gag.com/gag/ae9xjdb)
- - 👉 [Finally some peace and quiet](http://9gag.com/gag/aMVzeVX)<!-- MEMES:END -->
+ - 😝 [Times have changed indeed](http://9gag.com/gag/aW4oQ76)
+ - 😝 [Finally some peace and quiet](http://9gag.com/gag/aMVzeVX)
+ - 💣 [What you think?](http://9gag.com/gag/a5QzeXo)
+ - 😝 [_____](http://9gag.com/gag/aqyx4MP)
+ - 👉 [If I have money I want hire them all](http://9gag.com/gag/a9ymb21)<!-- MEMES:END -->
 
 ---
 

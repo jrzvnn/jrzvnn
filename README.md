@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The survey says SEX!!](http://9gag.com/gag/aKGW0xb)
- - 😝 [Finger her to a good mood.](http://9gag.com/gag/aryZP0X)
- - 💣 [Winning the easiest million](http://9gag.com/gag/aNDBmA6)
- - 😝 [What you think?](http://9gag.com/gag/a5QzeXo)
- - 👉 [Mighty Olo](http://9gag.com/gag/aQzmpqz)<!-- MEMES:END -->
+ - 😝 [Winning the easiest million](http://9gag.com/gag/aNDBmA6)
+ - 💣 [O_o](http://9gag.com/gag/aZZEPY0)
+ - 😝 [How money gets perfectly cut for board games](http://9gag.com/gag/axyOEAM)
+ - 👉 [What you think?](http://9gag.com/gag/a5QzeXo)<!-- MEMES:END -->
 
 ---
 

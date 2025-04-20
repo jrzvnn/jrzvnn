@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lost at sea is the market for new up-and-coming.](http://9gag.com/gag/agmx3wg)
- - 😝 [Winning the easiest million](http://9gag.com/gag/aNDBmA6)
- - 💣 [Bro knows something that we don&#39;t know...](http://9gag.com/gag/aByEQ82)
- - 😝 [Best way to get ur answers](http://9gag.com/gag/awyO7NB)
- - 👉 [Crazy Mom attacks Principal](http://9gag.com/gag/aByEQVN)<!-- MEMES:END -->
+ - 😝 [Netherland](http://9gag.com/gag/aQzmPj8)
+ - 😝 [Look at the rear of that...](http://9gag.com/gag/azxOg6z)
+ - 💣 [How money gets perfectly cut for board games](http://9gag.com/gag/axyOEAM)
+ - 😝 [Woof, squirt, woof, woof, squirt squirt!!](http://9gag.com/gag/aNDBoE0)
+ - 👉 [You have to be comfortable with heights to work construction in New York City](http://9gag.com/gag/a4PAK9p)<!-- MEMES:END -->
 
 ---
 

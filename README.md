@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/aRBvPN2)
- - 😝 [Netherland](http://9gag.com/gag/aQzmPj8)
- - 💣 [Woof, squirt, woof, woof, squirt squirt!!](http://9gag.com/gag/aNDBoE0)
- - 😝 [Look at the rear of that...](http://9gag.com/gag/azxOg6z)
- - 👉 [Crazy Mom attacks Principal](http://9gag.com/gag/aByEQVN)<!-- MEMES:END -->
+ - 😝 [How money gets perfectly cut for board games](http://9gag.com/gag/axyOEAM)
+ - 😝 [You have to be comfortable with heights to work construction in New York City](http://9gag.com/gag/a4PAK9p)
+ - 💣 [Best way to get ur answers](http://9gag.com/gag/awyO7NB)
+ - 😝 [Case closed](http://9gag.com/gag/a9ymj4j)
+ - 👉 [Not planned to show](http://9gag.com/gag/a348PW3)<!-- MEMES:END -->
 
 ---
 

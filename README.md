@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Merry whatever, you deranged psychopaths!](http://9gag.com/gag/awyOK88)
- - 😝 [His parents surprised him with a dirt bike](http://9gag.com/gag/aVvZQx8)
- - 💣 [What you think?](http://9gag.com/gag/a5QzeXo)
- - 😝 [Wow no shittin? You came just in time](http://9gag.com/gag/aVvZzdO)
- - 👉 [Girls and boys](http://9gag.com/gag/aLnAQG6)<!-- MEMES:END -->
+ - 😝 [How money gets perfectly cut for board games](http://9gag.com/gag/axyOEAM)
+ - 😝 [Winning the easiest million](http://9gag.com/gag/aNDBmA6)
+ - 💣 [Title](http://9gag.com/gag/aRBvPN2)
+ - 😝 [_____](http://9gag.com/gag/aqyx4MP)
+ - 👉 [If I have money I want hire them all](http://9gag.com/gag/a9ymb21)<!-- MEMES:END -->
 
 ---
 

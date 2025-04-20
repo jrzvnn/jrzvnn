@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India&#39;s Open Network for Digital Commerce has struggled to break the near-duopoly of Zomato and Swiggy in online food delivery after cutting back on discounts &lpar;Krishnapriya V.S./The India Forum&rpar;](http://www.techmeme.com/250420/p4#a250420p4)
+ - [Scientists Are Mapping the Bizarre, Chaotic Spacetime Inside Black Holes](https://www.wired.com/story/new-maps-of-the-bizarre-chaotic-space-time-inside-black-holes/)
  - [9 Best Early Deals From the Amazon Book Sale &lpar;2025&rpar;](https://www.wired.com/story/amazon-book-sale-2025/)
  - [Do You Need a Fancy Bread Knife?](https://www.wired.com/story/do-you-need-a-fancy-bread-knife/)
- - [Don&#39;t Expect Much From iOS 18.5 Public Beta 1, Small Changes Coming](https://www.cnet.com/tech/services-and-software/dont-expect-much-from-ios-18-5-public-beta-1-small-changes-coming/#ftag=CAD590a51e)
- - [Best Internet Providers in Brazil, Indiana](https://www.cnet.com/home/internet/best-internet-providers-in-brazil-in/#ftag=CAD590a51e)
- - [How YouTube is adapting to the AI era; a VP expects that in five years, every video uploaded to YouTube could be dubbed automatically into every spoken language &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/250420/p3#a250420p3)<!-- TECH:END -->
+ - [Don&#39;t Expect Much From iOS 18.5 Public Beta 1, Small Changes Coming](https://www.cnet.com/tech/services-and-software/dont-expect-much-from-ios-18-5-public-beta-1-small-changes-coming/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

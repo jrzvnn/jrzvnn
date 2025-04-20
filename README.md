@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Heh](http://9gag.com/gag/adBx0xj)
+ - 😝 [How money gets perfectly cut for board games](http://9gag.com/gag/axyOEAM)
  - 😝 [_____](http://9gag.com/gag/aqyx4MP)
  - 💣 [O_o](http://9gag.com/gag/aZZEPY0)
- - 😝 [Finally some peace and quiet](http://9gag.com/gag/aMVzeVX)
- - 👉 [Creativity at minds](http://9gag.com/gag/aByERzN)<!-- MEMES:END -->
+ - 😝 [If I have money I want hire them all](http://9gag.com/gag/a9ymb21)
+ - 👉 [He couldn&#39;t even be mad bro knew the whole lyrics](http://9gag.com/gag/aByPqA1)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Play this at her wedding](http://9gag.com/gag/aRBvQKj)
+ - 😝 [She is an astronaut](http://9gag.com/gag/awyO031)
  - 😝 [His parents surprised him with a dirt bike](http://9gag.com/gag/aVvZQx8)
- - 💣 [Bro knows something that we don&#39;t know...](http://9gag.com/gag/aByEQ82)
- - 😝 [Cops had enough](http://9gag.com/gag/aD2ZBD9)
- - 👉 [Finally some peace and quiet](http://9gag.com/gag/aMVzeVX)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/aRBvPN2)
+ - 😝 [The obligatory Easter post](http://9gag.com/gag/a6ZBy8b)
+ - 👉 [What you think?](http://9gag.com/gag/a5QzeXo)<!-- MEMES:END -->
 
 ---
 

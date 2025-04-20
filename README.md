@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In another life](http://9gag.com/gag/a87eYQp)
- - 😝 [Creativity at minds](http://9gag.com/gag/aByERzN)
- - 💣 [_____](http://9gag.com/gag/aqyx4MP)
+ - 😝 [Lost at sea is the market for new up-and-coming.](http://9gag.com/gag/agmx3wg)
  - 😝 [Winning the easiest million](http://9gag.com/gag/aNDBmA6)
- - 👉 [No handcuffs too](http://9gag.com/gag/an7vA6n)<!-- MEMES:END -->
+ - 💣 [Bro knows something that we don&#39;t know...](http://9gag.com/gag/aByEQ82)
+ - 😝 [Best way to get ur answers](http://9gag.com/gag/awyO7NB)
+ - 👉 [Crazy Mom attacks Principal](http://9gag.com/gag/aByEQVN)<!-- MEMES:END -->
 
 ---
 

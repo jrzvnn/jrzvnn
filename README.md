@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Cops had enough](http://9gag.com/gag/aD2ZBD9)
- - 😝 [Case closed](http://9gag.com/gag/a9ymj4j)
- - 💣 [No handcuffs too](http://9gag.com/gag/an7vA6n)
- - 😝 [Not planned to show](http://9gag.com/gag/a348PW3)
- - 👉 [Bro knows something that we don&#39;t know...](http://9gag.com/gag/aByEQ82)<!-- MEMES:END -->
+ - 😝 [All honey no juice](http://9gag.com/gag/aRBvQP5)
+ - 💣 [Mighty Olo](http://9gag.com/gag/aQzmpqz)
+ - 😝 [Creativity at minds](http://9gag.com/gag/aByERzN)
+ - 👉 [Heh](http://9gag.com/gag/adBx0xj)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Times have changed indeed](http://9gag.com/gag/aW4oQ76)
- - 😝 [Finally some peace and quiet](http://9gag.com/gag/aMVzeVX)
- - 💣 [What you think?](http://9gag.com/gag/a5QzeXo)
- - 😝 [_____](http://9gag.com/gag/aqyx4MP)
- - 👉 [If I have money I want hire them all](http://9gag.com/gag/a9ymb21)<!-- MEMES:END -->
+ - 😝 [Play this at her wedding](http://9gag.com/gag/aRBvQKj)
+ - 😝 [His parents surprised him with a dirt bike](http://9gag.com/gag/aVvZQx8)
+ - 💣 [Bro knows something that we don&#39;t know...](http://9gag.com/gag/aByEQ82)
+ - 😝 [Cops had enough](http://9gag.com/gag/aD2ZBD9)
+ - 👉 [Finally some peace and quiet](http://9gag.com/gag/aMVzeVX)<!-- MEMES:END -->
 
 ---
 

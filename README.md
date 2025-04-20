@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How money gets perfectly cut for board games](http://9gag.com/gag/axyOEAM)
- - 😝 [_____](http://9gag.com/gag/aqyx4MP)
- - 💣 [O_o](http://9gag.com/gag/aZZEPY0)
- - 😝 [If I have money I want hire them all](http://9gag.com/gag/a9ymb21)
- - 👉 [He couldn&#39;t even be mad bro knew the whole lyrics](http://9gag.com/gag/aByPqA1)<!-- MEMES:END -->
+ - 😝 [Yeah \u2026 he got played !!](http://9gag.com/gag/a7o9vzw)
+ - 😝 [O_o](http://9gag.com/gag/aZZEPY0)
+ - 💣 [Behind the scenes footage of something idk](http://9gag.com/gag/axyOd9L)
+ - 😝 [Netherland](http://9gag.com/gag/aQzmPj8)
+ - 👉 [Mighty Olo](http://9gag.com/gag/aQzmpqz)<!-- MEMES:END -->
 
 ---
 

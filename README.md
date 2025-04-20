@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Heh](http://9gag.com/gag/adBx0xj)
- - 😝 [Which event completely destroyed your self esteem anons?](http://9gag.com/gag/avyEYnW)
- - 💣 [Is it dewey or doy](http://9gag.com/gag/aAyMYrg)
- - 😝 [How money gets perfectly cut for board games](http://9gag.com/gag/axyOEAM)
- - 👉 [What you think?](http://9gag.com/gag/a5QzeXo)<!-- MEMES:END -->
+ - 😝 [Case closed](http://9gag.com/gag/a9ymj4j)
+ - 😝 [Creativity at minds](http://9gag.com/gag/aByERzN)
+ - 💣 [My man](http://9gag.com/gag/aRBvwKQ)
+ - 😝 [Dead man&#39;s POV](http://9gag.com/gag/a2vyBmY)
+ - 👉 [Look at the rear of that...](http://9gag.com/gag/azxOg6z)<!-- MEMES:END -->
 
 ---
 

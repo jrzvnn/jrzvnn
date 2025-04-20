@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Do You Need a Fancy Bread Knife?](https://www.wired.com/story/do-you-need-a-fancy-bread-knife/)
  - [Best Internet Providers in Brazil, Indiana](https://www.cnet.com/home/internet/best-internet-providers-in-brazil-in/#ftag=CAD590a51e)
  - [How YouTube is adapting to the AI era; a VP expects that in five years, every video uploaded to YouTube could be dubbed automatically into every spoken language &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/250420/p3#a250420p3)
  - [Assort Health, which is developing voice AI agents for healthcare to manage patient phone calls, raised a $22M Series A co-led by First Round and Chemistry &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250420/p2#a250420p2)
- - [Crux, a financing software provider for clean energy companies, raised a $50M Series B led by Lowercarbon Capital, taking its total funding to more than $77M &lpar;Katie Fehrenbacher/Axios&rpar;](http://www.techmeme.com/250420/p1#a250420p1)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 20, #209](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-20-209/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Crux, a financing software provider for clean energy companies, raised a $50M Series B led by Lowercarbon Capital, taking its total funding to more than $77M &lpar;Katie Fehrenbacher/Axios&rpar;](http://www.techmeme.com/250420/p1#a250420p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

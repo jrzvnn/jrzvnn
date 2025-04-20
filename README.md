@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mighty Olo](http://9gag.com/gag/aQzmpqz)
- - 😝 [I&#39;m trying my best, ok?](http://9gag.com/gag/a348PEe)
- - 💣 [Times have changed indeed](http://9gag.com/gag/aW4oQ76)
- - 😝 [Heh](http://9gag.com/gag/adBx0xj)
- - 👉 [Strawberry pickers in the U.S. earn $2.35 per box.](http://9gag.com/gag/aByPqmZ)<!-- MEMES:END -->
+ - 😝 [Bro knows something that we don&#39;t know...](http://9gag.com/gag/aByEQ82)
+ - 😝 [Savage](http://9gag.com/gag/aGyGYpw)
+ - 💣 [_____](http://9gag.com/gag/aqyx4MP)
+ - 😝 [Creativity at minds](http://9gag.com/gag/aByERzN)
+ - 👉 [Heh](http://9gag.com/gag/adBx0xj)<!-- MEMES:END -->
 
 ---
 

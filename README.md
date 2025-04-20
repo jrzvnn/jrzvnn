@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woof, squirt, woof, woof, squirt squirt!!](http://9gag.com/gag/aNDBoE0)
- - 😝 [Mighty Olo](http://9gag.com/gag/aQzmpqz)
- - 💣 [Day/night](http://9gag.com/gag/aByERDz)
- - 😝 [Professional camerawork](http://9gag.com/gag/aRBvPy2)
- - 👉 [Lost at sea is the market for new up-and-coming.](http://9gag.com/gag/agmx3wg)<!-- MEMES:END -->
+ - 😝 [Lost at sea is the market for new up-and-coming.](http://9gag.com/gag/agmx3wg)
+ - 😝 [Day/night](http://9gag.com/gag/aByERDz)
+ - 💣 [Behind the scenes footage of something idk](http://9gag.com/gag/axyOd9L)
+ - 😝 [That\u2019s not cool](http://9gag.com/gag/aPAe4jK)
+ - 👉 [Miss Gill for the win. When you recognize 19 students just by their voice.](http://9gag.com/gag/aGyGRLX)<!-- MEMES:END -->
 
 ---
 

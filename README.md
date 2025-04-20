@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mighty Olo](http://9gag.com/gag/aQzmpqz)
- - 😝 [Lost at sea is the market for new up-and-coming.](http://9gag.com/gag/agmx3wg)
+ - 😝 [Unbelievable Hugo Calderano has just become the first person born in the Americas to win the Table Tennis World Cup. He has just defeated the top1-ranked player in the final, with a stadium in China packed with opposing fans](http://9gag.com/gag/a9ymPqm)
+ - 😝 [Don&#39;t blink your eyes! \ud83d\udc40](http://9gag.com/gag/azxOgxK)
  - 💣 [Miss Gill for the win. When you recognize 19 students just by their voice.](http://9gag.com/gag/aGyGRLX)
- - 😝 [Day/night](http://9gag.com/gag/aByERDz)
- - 👉 [Bro summoned his last what](http://9gag.com/gag/aoyxjP3)<!-- MEMES:END -->
+ - 😝 [Bro summoned his last what](http://9gag.com/gag/aoyxjP3)
+ - 👉 [He has a degree in iPhone camera app](http://9gag.com/gag/an7xK3z)<!-- MEMES:END -->
 
 ---
 

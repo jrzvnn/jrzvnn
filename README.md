@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, yeah](http://9gag.com/gag/aQzmpDe)
- - 😝 [The date that never ended](http://9gag.com/gag/aRBvVbq)
- - 💣 [Both of these photos are of 34 year old men](http://9gag.com/gag/ajPxAr1)
- - 😝 [He has a degree in iPhone camera app](http://9gag.com/gag/an7xK3z)
- - 👉 [Can&#39;t control it!](http://9gag.com/gag/azxOLON)<!-- MEMES:END -->
+ - 😝 [Faith in humanity restored!](http://9gag.com/gag/azxOV4p)
+ - 😝 [High Five](http://9gag.com/gag/aQzmxvW)
+ - 💣 [Critical success](http://9gag.com/gag/ayN1LEb)
+ - 😝 [Goalkeeper : ` I fear nothing even god... except that one guy.`](http://9gag.com/gag/a2vD5LE)
+ - 👉 [Bullying](http://9gag.com/gag/a4PAj5d)<!-- MEMES:END -->
 
 ---
 

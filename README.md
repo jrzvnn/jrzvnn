@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [High Five](http://9gag.com/gag/aQzmxvW)
- - 😝 [The pope had to go right on Easter](http://9gag.com/gag/aYQMKo2)
- - 💣 [Best role for Cruise, Spacey, Paltrow and DeVito](http://9gag.com/gag/aGyG0KZ)
- - 😝 [Goalkeeper : ` I fear nothing even god... except that one guy.`](http://9gag.com/gag/a2vD5LE)
- - 👉 [Bullying](http://9gag.com/gag/a4PAj5d)<!-- MEMES:END -->
+ - 😝 [Both of these photos are of 34 year old men](http://9gag.com/gag/ajPxAr1)
+ - 😝 [Dad recorded his daughter every week for 20 years](http://9gag.com/gag/a348jGm)
+ - 💣 [He has a degree in iPhone camera app](http://9gag.com/gag/an7xK3z)
+ - 😝 [Bad romance](http://9gag.com/gag/a9ymWVj)
+ - 👉 [Miss Gill for the win. When you recognize 19 students just by their voice.](http://9gag.com/gag/aGyGRLX)<!-- MEMES:END -->
 
 ---
 

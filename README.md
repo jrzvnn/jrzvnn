@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Circus Performer shows you how to fly](http://9gag.com/gag/a87eLr6)
- - 😝 [Bro summoned his last what](http://9gag.com/gag/aoyxjP3)
- - 💣 [He has a degree in iPhone camera app](http://9gag.com/gag/an7xK3z)
- - 😝 [Day/night](http://9gag.com/gag/aByERDz)
- - 👉 [Both of these photos are of 34 year old men](http://9gag.com/gag/ajPxAr1)<!-- MEMES:END -->
+ - 😝 [Did he say `thank you`?](http://9gag.com/gag/a2vD5Be)
+ - 😝 [The obligatory Easter post](http://9gag.com/gag/a6ZBy8b)
+ - 💣 [Bullying](http://9gag.com/gag/a4PAj5d)
+ - 😝 [High Five](http://9gag.com/gag/aQzmxvW)
+ - 👉 [What would you do?](http://9gag.com/gag/abAx0yE)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US FTC sues Uber, claiming the company charged for Uber One without consent, made it difficult to cancel, and failed to deliver promised savings &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250421/p11#a250421p11)
+ - [Third developer betas of iOS 18.5, macOS 15.5 seeded to testers](https://appleinsider.com/articles/25/04/21/third-developer-betas-of-ios-185-macos-155-seeded-to-testers?utm_medium=rss)
  - [Report: over a thousand international students have had US immigration statuses terminated in 2025; a Caltech ML professor says it&#39;s harming the talent pipeline &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250421/p10#a250421p10)
- - [China threatens countries Trump is pressing to isolate Beijing](https://appleinsider.com/articles/25/04/21/china-threatens-countries-trump-is-pressing-to-isolate-beijing?utm_medium=rss)
- - [Meta is testing using AI tools in the US to detect teen Instagram users, even if they&#39;ve lied about their birthday, and place them under Teen Account settings &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/250421/p9#a250421p9)
- - [Bluesky starts rolling out blue check verification, initially limiting verification to select organizations and its moderation team &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250421/p8#a250421p8)
- - [Airbnb now shows the full price of your stay by default](https://www.theverge.com/news/652635/airbnb-full-price-stay-default)<!-- TECH:END -->
+ - [Trade war escalations between Trump and China to significantly impact Apple](https://appleinsider.com/articles/25/04/21/china-threatens-countries-trump-is-pressing-to-isolate-beijing?utm_medium=rss)
+ - [Meta is testing using AI tools in the US to detect teen Instagram users, even if they&#39;ve lied about their birthday, and place them under Teen Account settings &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/250421/p9#a250421p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

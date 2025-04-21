@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DHL halts international deliveries to US consumers worth over $800](https://www.theverge.com/news/652977/dhl-shipment-delays-us-tariffs-business-to-consumer)
  - [Circle unveils a network designed to link financial institutions and enable real-time settlement of cross-border payments, starting with USDC and EURC in May &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/250421/p17#a250421p17)
  - [GameStop, Target, Walmart, and Best Buy announce when their Switch 2 preorders start](https://www.theverge.com/news/651971/nintendo-switch-2-target-preorders-time)
  - [Microsoft has improved Recall, but biometrics are only required for setup and users can open it with just a PIN, and sensitive data filtering is unreliable &lpar;Kevin Beaumont/DoublePulsar&rpar;](http://www.techmeme.com/250421/p16#a250421p16)
- - [Next Apple Vision headset could have a refined battery cable](https://appleinsider.com/articles/25/04/17/next-apple-vision-headset-could-have-a-refined-battery-cable?utm_medium=rss)
- - [&#39;Andor&#39; Season 2 Premiere: When to Watch the Star Wars Series](https://www.cnet.com/tech/services-and-software/andor-season-2-premiere-when-to-watch-star-wars-series/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Next Apple Vision headset could have a refined battery cable](https://appleinsider.com/articles/25/04/17/next-apple-vision-headset-could-have-a-refined-battery-cable?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

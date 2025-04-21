@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber accused of signing up and charging subscription customers without consent](https://www.theverge.com/news/652673/uber-ftc-lawsuit-subscription-signup-billing-consent)
- - [Bluesky is adding blue checks for ‘authentic and notable’ accounts](https://www.theverge.com/news/652687/bluesky-blue-checks-verification-authentic-notable-accounts)
- - [The US FTC sues Uber, claiming the company charged for Uber One without consent, made it difficult to cancel, and failed to deliver promised savings &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250421/p11#a250421p11)
- - [Third developer betas of iOS 18.5, macOS 15.5 seeded to testers](https://appleinsider.com/articles/25/04/21/third-developer-betas-of-ios-185-macos-155-seeded-to-testers?utm_medium=rss)
- - [Report: over a thousand international students have had US immigration statuses terminated in 2025; a Caltech ML professor says it&#39;s harming the talent pipeline &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250421/p10#a250421p10)<!-- TECH:END -->
+ - [Sony shows off the PS5 Pro’s liquid metal updates](https://www.theverge.com/news/652556/ps5-pro-teardown-liquid-metal-cooling-changes)
+ - [Kia&amp;#8217;s face-lifted EV6 is a bit pricier for 2025](https://www.theverge.com/news/652702/kia-ev6-2025-facelift-us-price-hike-gt-wind-light)
+ - [Apple cleans up its image with Apple Intelligence in a new ad spot](https://appleinsider.com/articles/25/04/21/apple-cleans-up-its-image-with-apple-intelligence-in-a-new-ad-spot?utm_medium=rss)
+ - [Google settles an Android TV case with India&#39;s competition regulator, will offer standalone licenses for Play Store and Play Services for Android TVs in India &lpar;NDTV&rpar;](http://www.techmeme.com/250421/p12#a250421p12)
+ - [Uber accused of signing up and charging subscription customers without consent](https://www.theverge.com/news/652673/uber-ftc-lawsuit-subscription-signup-billing-consent)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

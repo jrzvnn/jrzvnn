@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Verizon’s consumer chief: Net neutrality ‘went literally nowhere’](https://www.theverge.com/decoder-podcast-with-nilay-patel/652470/verizon-consumer-sowmyanarayan-sampath-net-neutrality-5g-china)
+ - [The Verge’s 2025 Mother’s Day gift guide](https://www.theverge.com/tech/647527/best-mothers-day-gift-ideas-2025-mom-tech-gadgets)
  - [Long Range Matter Devices, Nanoleaf Pegboard Lights, Arlo Updates, &amp; the Best Find My Devices on HomeKit Insider](https://appleinsider.com/articles/25/04/21/long-range-matter-devices-nanoleaf-pegboard-lights-arlo-updates-the-best-find-my-devices-on-homekit-insider?utm_medium=rss)
  - [Beware of this sneaky Google phishing scam](https://www.theverge.com/news/652509/google-no-reply-dkim-phishing-scam)
- - [Cupertino returns $12.1 million to Apple after long-running sales tax dispute](https://appleinsider.com/articles/25/04/21/cupertino-returns-121-million-to-apple-after-long-running-sales-tax-dispute?utm_medium=rss)
- - [Brand aggregator Upexi says it is raising $100M to accumulate Solana, causing its shares to surge over 400%, part of a trend of companies investing in crypto &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/250421/p6#a250421p6)
- - [EU insists Trump won&#39;t make it back off Apple](https://appleinsider.com/articles/25/04/21/eu-insists-trump-wont-make-it-back-off-apple?utm_medium=rss)<!-- TECH:END -->
+ - [Cupertino returns $12.1 million to Apple after long-running sales tax dispute](https://appleinsider.com/articles/25/04/21/cupertino-returns-121-million-to-apple-after-long-running-sales-tax-dispute?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

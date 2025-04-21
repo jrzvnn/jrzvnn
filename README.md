@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not planned to show](http://9gag.com/gag/a348PW3)
+ - 😝 [Lost at sea is the market for new up-and-coming.](http://9gag.com/gag/agmx3wg)
  - 😝 [Bro summoned his last what](http://9gag.com/gag/aoyxjP3)
- - 💣 [Lost at sea is the market for new up-and-coming.](http://9gag.com/gag/agmx3wg)
- - 😝 [Netherland](http://9gag.com/gag/aQzmPj8)
+ - 💣 [Netherland](http://9gag.com/gag/aQzmPj8)
+ - 😝 [Damn..](http://9gag.com/gag/aRBveLQ)
  - 👉 [Day/night](http://9gag.com/gag/aByERDz)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Did he say `thank you`?](http://9gag.com/gag/a2vD5Be)
- - 😝 [Best role for Cruise, Spacey, Paltrow and DeVito](http://9gag.com/gag/aGyG0KZ)
- - 💣 [Used 100% of his brain...](http://9gag.com/gag/aZZENpz)
- - 😝 [Goalkeeper : ` I fear nothing even god... except that one guy.`](http://9gag.com/gag/a2vD5LE)
- - 👉 [You know what,](http://9gag.com/gag/aYQMK6w)<!-- MEMES:END -->
+ - 😝 [Meanwhile in London, man arrested by 5 cops and facing jail time for &#39;aggravated communication&#39; and &#39;illegal offensive use of speech&#39; on X](http://9gag.com/gag/aByE3vD)
+ - 😝 [Bullying](http://9gag.com/gag/a4PAj5d)
+ - 💣 [Well, yeah](http://9gag.com/gag/aQzmpDe)
+ - 😝 [View from below](http://9gag.com/gag/aryxOM0)
+ - 👉 [Rejected from the small weiner club](http://9gag.com/gag/aD2bjyx)<!-- MEMES:END -->
 
 ---
 

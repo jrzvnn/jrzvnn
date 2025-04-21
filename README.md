@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Valorant’s mobile version is coming to China first](https://www.theverge.com/news/652555/valorant-mobile-china)
  - [Verizon’s consumer chief: Net neutrality ‘went literally nowhere’](https://www.theverge.com/decoder-podcast-with-nilay-patel/652470/verizon-consumer-sowmyanarayan-sampath-net-neutrality-5g-china)
  - [The Verge’s 2025 Mother’s Day gift guide](https://www.theverge.com/tech/647527/best-mothers-day-gift-ideas-2025-mom-tech-gadgets)
  - [Long Range Matter Devices, Nanoleaf Pegboard Lights, Arlo Updates, &amp; the Best Find My Devices on HomeKit Insider](https://appleinsider.com/articles/25/04/21/long-range-matter-devices-nanoleaf-pegboard-lights-arlo-updates-the-best-find-my-devices-on-homekit-insider?utm_medium=rss)
- - [Beware of this sneaky Google phishing scam](https://www.theverge.com/news/652509/google-no-reply-dkim-phishing-scam)
- - [Cupertino returns $12.1 million to Apple after long-running sales tax dispute](https://appleinsider.com/articles/25/04/21/cupertino-returns-121-million-to-apple-after-long-running-sales-tax-dispute?utm_medium=rss)<!-- TECH:END -->
+ - [Beware of this sneaky Google phishing scam](https://www.theverge.com/news/652509/google-no-reply-dkim-phishing-scam)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

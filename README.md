@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Unbelievable Hugo Calderano has just become the first person born in the Americas to win the Table Tennis World Cup. He has just defeated the top1-ranked player in the final, with a stadium in China packed with opposing fans](http://9gag.com/gag/a9ymPqm)
  - 😝 [Both of these photos are of 34 year old men](http://9gag.com/gag/ajPxAr1)
- - 😝 [Not planned to show](http://9gag.com/gag/a348PW3)
- - 💣 [Unbelievable Hugo Calderano has just become the first person born in the Americas to win the Table Tennis World Cup. He has just defeated the top1-ranked player in the final, with a stadium in China packed with opposing fans](http://9gag.com/gag/a9ymPqm)
- - 😝 [That\u2019s not cool](http://9gag.com/gag/aPAe4jK)
- - 👉 [Day/night](http://9gag.com/gag/aByERDz)<!-- MEMES:END -->
+ - 💣 [Day/night](http://9gag.com/gag/aByERDz)
+ - 😝 [Bro summoned his last what](http://9gag.com/gag/aoyxjP3)
+ - 👉 [Lost at sea is the market for new up-and-coming.](http://9gag.com/gag/agmx3wg)<!-- MEMES:END -->
 
 ---
 

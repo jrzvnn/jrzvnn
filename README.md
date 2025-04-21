@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Well, yeah](http://9gag.com/gag/aQzmpDe)
+ - 😝 [View from below](http://9gag.com/gag/aryxOM0)
+ - 💣 [Both of these photos are of 34 year old men](http://9gag.com/gag/ajPxAr1)
  - 😝 [If you are swimming and see a large circle of bubbles forming around you, get out of there as soon as possible](http://9gag.com/gag/a5QzZ8N)
- - 😝 [What would you do?](http://9gag.com/gag/abAx0yE)
- - 💣 [View from below](http://9gag.com/gag/aryxOM0)
- - 😝 [Floor tiles suddenly shattering inside a room](http://9gag.com/gag/aGyGR96)
- - 👉 [Well, yeah](http://9gag.com/gag/aQzmpDe)<!-- MEMES:END -->
+ - 👉 [Too many such examples](http://9gag.com/gag/a6ZBbRe)<!-- MEMES:END -->
 
 ---
 

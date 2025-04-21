@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TSMC says its role in the semiconductor supply chain limits its ability to comply with export rules, after reports its tech was used in Huawei&#39;s Ascend 910B &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/250421/p3#a250421p3)
  - [Urevo CyberPad for Home Review: Biggest Incline Ever](https://www.wired.com/review/urevo-cyberpad/)
  - [How to Protect Yourself From Phone Searches at the US Border](https://www.wired.com/story/how-to-protect-yourself-from-phone-searches-at-the-us-border/)
  - [These 20 Sci-Fi Series on Netflix Might Ruin All Other TV for You](https://www.cnet.com/tech/services-and-software/best-sci-fi-tv-shows-on-netflix-2025/#ftag=CAD590a51e)
- - [This Massive Screen for Live Sports Puts You in the Best Seat in the Stadium](https://www.wired.com/story/cosm-live-sports-immersive-experiences/)
- - [Meta is ramping up its AI-driven age detection](https://www.theverge.com/news/651826/meta-instagram-age-detection-ai-settings)<!-- TECH:END -->
+ - [This Massive Screen for Live Sports Puts You in the Best Seat in the Stadium](https://www.wired.com/story/cosm-live-sports-immersive-experiences/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

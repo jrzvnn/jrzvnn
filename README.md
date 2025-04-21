@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro summoned his last what](http://9gag.com/gag/aoyxjP3)
- - 😝 [A real normal woman](http://9gag.com/gag/azxObyp)
- - 💣 [Well, yeah](http://9gag.com/gag/aQzmpDe)
- - 😝 [He has a degree in iPhone camera app](http://9gag.com/gag/an7xK3z)
- - 👉 [Can&#39;t control it!](http://9gag.com/gag/azxOLON)<!-- MEMES:END -->
+ - 😝 [Best role for Cruise, Spacey, Paltrow and DeVito](http://9gag.com/gag/aGyG0KZ)
+ - 😝 [High Five](http://9gag.com/gag/aQzmxvW)
+ - 💣 [All aboard the 30s trains!](http://9gag.com/gag/azxOr2Z)
+ - 😝 [Critical success](http://9gag.com/gag/ayN1LEb)
+ - 👉 [Goalkeeper : ` I fear nothing even god... except that one guy.`](http://9gag.com/gag/a2vD5LE)<!-- MEMES:END -->
 
 ---
 

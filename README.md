@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Last of Us ripped off the Band-aid](https://www.theverge.com/tv/651902/the-last-of-us-season-2-joel)
- - [Technics EAH-AZ100 Earbuds Review: Smaller Size, Better Sound](https://www.wired.com/review/technics-eah-az100/)
- - [Apple iPhone 16E vs. Samsung Galaxy S24 FE: Comparing the Lower-Cost Phones](https://www.cnet.com/tech/mobile/apple-iphone-16e-vs-samsung-galaxy-s24-fe-comparing-the-lower-cost-phones/#ftag=CAD590a51e)
- - [Pixel 9 Pro Fold vs. Oppo Find N5 Camera Comparison: Which Takes Better Pictures?](https://www.cnet.com/tech/mobile/pixel-9-pro-fold-vs-oppo-find-n5-camera-comparison-which-takes-better-pictures/#ftag=CAD590a51e)
- - [Sources: Ola&#39;s AI venture Krutrim is looking to raise up to $300M, down from a planned raise of about $500M, after seeing poor investor appetite &lpar;Livemint&rpar;](http://www.techmeme.com/250421/p4#a250421p4)<!-- TECH:END -->
+ - [Apple sued for $5M for not recovering data after iPhone theft](https://appleinsider.com/articles/25/04/21/apple-sued-for-5m-for-not-recovering-data-after-iphone-theft?utm_medium=rss)
+ - [No escape, no control: A &#39;Severance&#39; keyboard is coming soon](https://appleinsider.com/articles/25/04/21/no-escape-no-control-a-severance-keyboard-is-coming-soon?utm_medium=rss)
+ - [The Best Shapewear &lpar;2025&rpar;: Bodysuits, Briefs, and More](https://www.wired.com/gallery/best-shapewear/)
+ - [Sources: Circle, BitGo, and other firms plan to apply for bank charters or licenses, as the Trump administration pushes to bring crypto into mainstream finance &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250421/p5#a250421p5)
+ - [The Last of Us ripped off the Band-aid](https://www.theverge.com/tv/651902/the-last-of-us-season-2-joel)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

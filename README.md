@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Creativity at minds](http://9gag.com/gag/aByERzN)
- - 😝 [One glass pane further please, is the exit](http://9gag.com/gag/adBxYvB)
- - 💣 [Best way to get ur answers](http://9gag.com/gag/awyO7NB)
- - 😝 [Both of these photos are of 34 year old men](http://9gag.com/gag/ajPxAr1)
- - 👉 [Netherland](http://9gag.com/gag/aQzmPj8)<!-- MEMES:END -->
+ - 😝 [Not planned to show](http://9gag.com/gag/a348PW3)
+ - 😝 [Bro summoned his last what](http://9gag.com/gag/aoyxjP3)
+ - 💣 [Lost at sea is the market for new up-and-coming.](http://9gag.com/gag/agmx3wg)
+ - 😝 [Netherland](http://9gag.com/gag/aQzmPj8)
+ - 👉 [Day/night](http://9gag.com/gag/aByERDz)<!-- MEMES:END -->
 
 ---
 

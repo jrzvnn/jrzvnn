@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Beware of this sneaky Google phishing scam](https://www.theverge.com/news/652509/google-no-reply-dkim-phishing-scam)
+ - [Cupertino returns $12.1 million to Apple after long-running sales tax dispute](https://appleinsider.com/articles/25/04/21/cupertino-returns-121-million-to-apple-after-long-running-sales-tax-dispute?utm_medium=rss)
  - [Brand aggregator Upexi says it is raising $100M to accumulate Solana, causing its shares to surge over 400%, part of a trend of companies investing in crypto &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/250421/p6#a250421p6)
  - [EU insists Trump won&#39;t make it back off Apple](https://appleinsider.com/articles/25/04/21/eu-insists-trump-wont-make-it-back-off-apple?utm_medium=rss)
- - [Apple sued for $5M for not recovering data after iPhone theft](https://appleinsider.com/articles/25/04/21/apple-sued-for-5m-for-not-recovering-data-after-iphone-theft?utm_medium=rss)
- - [No escape, no control: A &#39;Severance&#39; keyboard is coming soon](https://appleinsider.com/articles/25/04/21/no-escape-no-control-a-severance-keyboard-is-coming-soon?utm_medium=rss)
- - [The Best Shapewear &lpar;2025&rpar;: Bodysuits, Briefs, and More](https://www.wired.com/gallery/best-shapewear/)<!-- TECH:END -->
+ - [Apple sued for $5M for not recovering data after iPhone theft](https://appleinsider.com/articles/25/04/21/apple-sued-for-5m-for-not-recovering-data-after-iphone-theft?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unbelievable Hugo Calderano has just become the first person born in the Americas to win the Table Tennis World Cup. He has just defeated the top1-ranked player in the final, with a stadium in China packed with opposing fans](http://9gag.com/gag/a9ymPqm)
- - 😝 [Don&#39;t blink your eyes! \ud83d\udc40](http://9gag.com/gag/azxOgxK)
- - 💣 [Miss Gill for the win. When you recognize 19 students just by their voice.](http://9gag.com/gag/aGyGRLX)
- - 😝 [Bro summoned his last what](http://9gag.com/gag/aoyxjP3)
- - 👉 [He has a degree in iPhone camera app](http://9gag.com/gag/an7xK3z)<!-- MEMES:END -->
+ - 😝 [He has a degree in iPhone camera app](http://9gag.com/gag/an7xK3z)
+ - 😝 [Creativity at minds](http://9gag.com/gag/aByERzN)
+ - 💣 [Bad maneuver](http://9gag.com/gag/aoyxZg0)
+ - 😝 [Behind the scenes footage of something idk](http://9gag.com/gag/axyOd9L)
+ - 👉 [That\u2019s not cool](http://9gag.com/gag/aPAe4jK)<!-- MEMES:END -->
 
 ---
 

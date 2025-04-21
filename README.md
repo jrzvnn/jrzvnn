@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peak male content](http://9gag.com/gag/aNDBe5b)
- - 😝 [Based JK](http://9gag.com/gag/amoxXOj)
- - 💣 [N..](http://9gag.com/gag/aQzmnEw)
- - 😝 [The obligatory Easter post](http://9gag.com/gag/a6ZBy8b)
- - 👉 [What would you do?](http://9gag.com/gag/abAx0yE)<!-- MEMES:END -->
+ - 😝 [Miss Gill for the win. When you recognize 19 students just by their voice.](http://9gag.com/gag/aGyGRLX)
+ - 😝 [Day/night](http://9gag.com/gag/aByERDz)
+ - 💣 [All honey no juice](http://9gag.com/gag/aRBvQP5)
+ - 😝 [Netherland](http://9gag.com/gag/aQzmPj8)
+ - 👉 [Bro summoned his last what](http://9gag.com/gag/aoyxjP3)<!-- MEMES:END -->
 
 ---
 

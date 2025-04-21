@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine having so much money and that\u2019s the best the cosmetic surgeon could do\u2026](http://9gag.com/gag/ae9xpZp)
- - 😝 [Best way to get ur answers](http://9gag.com/gag/awyO7NB)
- - 💣 [Well, yeah](http://9gag.com/gag/aQzmpDe)
- - 😝 [Bad romance](http://9gag.com/gag/a9ymWVj)
- - 👉 [Not even hold hands?](http://9gag.com/gag/aryxNOX)<!-- MEMES:END -->
+ - 😝 [High Five](http://9gag.com/gag/aQzmxvW)
+ - 😝 [The pope had to go right on Easter](http://9gag.com/gag/aYQMKo2)
+ - 💣 [Best role for Cruise, Spacey, Paltrow and DeVito](http://9gag.com/gag/aGyG0KZ)
+ - 😝 [Goalkeeper : ` I fear nothing even god... except that one guy.`](http://9gag.com/gag/a2vD5LE)
+ - 👉 [Bullying](http://9gag.com/gag/a4PAj5d)<!-- MEMES:END -->
 
 ---
 

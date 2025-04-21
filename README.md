@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [No escape, no control: A &#39;Severance&#39; keyboard is coming soon](https://appleinsider.com/articles/25/04/21/no-escape-no-control-a-severance-keyboard-is-coming-soon?utm_medium=rss)
  - [The Best Shapewear &lpar;2025&rpar;: Bodysuits, Briefs, and More](https://www.wired.com/gallery/best-shapewear/)
  - [Sources: Circle, BitGo, and other firms plan to apply for bank charters or licenses, as the Trump administration pushes to bring crypto into mainstream finance &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250421/p5#a250421p5)
- - [The Last of Us ripped off the Band-aid](https://www.theverge.com/tv/651902/the-last-of-us-season-2-joel)<!-- TECH:END -->
+ - [Best CD Rates - Week of April 21 - April 25, 2025](https://www.cnet.com/personal-finance/banking/best-cd-rates-week-of-april-21-april-25-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

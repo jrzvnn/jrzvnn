@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bluesky starts rolling out blue check verification, initially limiting verification to select organizations and its moderation team &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/250421/p20#a250421p20)
+ - [A Columbia student suspended over a tool to cheat on job interviews says he&#39;s raised a $5.3M seed for Cluely, which offers an AI tool to &quot;cheat on everything&quot; &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/250421/p19#a250421p19)
  - [The US v. Google remedies trial opens with the DOJ arguing that Google should be forced to divest Chrome, and Google calling the proposed remedies &quot;extreme&quot; &lpar;Julian Mark/Washington Post&rpar;](http://www.techmeme.com/250421/p18#a250421p18)
  - [iPhone 17 Pro could be available in Sky Blue, leaker claims](https://appleinsider.com/articles/25/04/21/iphone-17-pro-could-be-available-in-sky-blue-leaker-claims?utm_medium=rss)
- - [DHL halts international deliveries to US consumers worth over $800](https://www.theverge.com/news/652977/dhl-shipment-delays-us-tariffs-business-to-consumer)
- - [&#39;Black Mirror&#39;: Ranking the 6 New Episodes in Season 7](https://www.cnet.com/tech/services-and-software/black-mirror-ranking-the-6-new-episodes-in-season-7/#ftag=CAD590a51e)
- - [Student Loans in Default Will Be Sent to Collections Starting May 5, Department of Education Says](https://www.cnet.com/personal-finance/loans/student-loans-in-default-will-be-sent-to-collections-starting-may-5-department-of-education-says/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DHL halts international deliveries to US consumers worth over $800](https://www.theverge.com/news/652977/dhl-shipment-delays-us-tariffs-business-to-consumer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

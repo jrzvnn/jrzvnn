@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Road rager had a change of mind](http://9gag.com/gag/aLnAQdA)
- - 😝 [Miss Gill for the win. When you recognize 19 students just by their voice.](http://9gag.com/gag/aGyGRLX)
- - 💣 [Bro summoned his last what](http://9gag.com/gag/aoyxjP3)
- - 😝 [Circus Performer shows you how to fly](http://9gag.com/gag/a87eLr6)
- - 👉 [Day/night](http://9gag.com/gag/aByERDz)<!-- MEMES:END -->
+ - 😝 [Creativity at minds](http://9gag.com/gag/aByERzN)
+ - 😝 [One glass pane further please, is the exit](http://9gag.com/gag/adBxYvB)
+ - 💣 [Best way to get ur answers](http://9gag.com/gag/awyO7NB)
+ - 😝 [Both of these photos are of 34 year old men](http://9gag.com/gag/ajPxAr1)
+ - 👉 [Netherland](http://9gag.com/gag/aQzmPj8)<!-- MEMES:END -->
 
 ---
 

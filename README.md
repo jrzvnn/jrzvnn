@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the tactile devices from OneCourt, Field of Vision, and Touch2See that help visually impaired spectators follow live sports with their fingers &lpar;Tom Wiggins/Wired&rpar;](http://www.techmeme.com/250421/p2#a250421p2)
  - [WrestleMania 41: How to Rewatch All of the Weekend Matches](https://www.cnet.com/tech/services-and-software/wrestlemania-41-how-to-rewatch-all-of-the-weekend-matches/#ftag=CAD590a51e)
  - [Q&amp;A with Dan Kim and Hassan Khan, former officials at the CHIPS Program Office, on subsidizing supply versus coercing demand, the program&#39;s future, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250421/p1#a250421p1)
  - [Best Internet Providers in Georgia](https://www.cnet.com/home/internet/best-internet-providers-in-georgia/#ftag=CAD590a51e)
- - [Best Internet Providers in Coon Rapids, Minnesota](https://www.cnet.com/home/internet/best-internet-providers-in-coon-rapids-mn/#ftag=CAD590a51e)
- - [Models like o3 and Gemini 2.5 Pro feel like &quot;Jagged AGI&quot;: unreliable, even at some mundane tasks, but still offering superhuman capabilities in many areas &lpar;Ethan Mollick/One Useful Thing&rpar;](http://www.techmeme.com/250420/p11#a250420p11)<!-- TECH:END -->
+ - [Best Internet Providers in Coon Rapids, Minnesota](https://www.cnet.com/home/internet/best-internet-providers-in-coon-rapids-mn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

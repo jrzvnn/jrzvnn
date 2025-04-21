@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Airbnb now shows the full cost of a stay, excluding taxes, in search results by default; a Biden-era FTC rule on &quot;junk fees&quot; is set to go into effect on May 12 &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250421/p14#a250421p14)
- - [CATL’s new EV battery blows BYD’s speediest-charging cells out of the water](https://www.theverge.com/news/652762/catl-china-ev-battery-charging-sodium-ev-range)
- - [Money, Chrome, and ChatGPT: The high stakes of Google&amp;#8217;s monopoly trial](https://www.theverge.com/policy/652708/google-search-antitrust-remedies-trial-opening)
- - [Anker’s MagSafe-friendly 622 power bank is down to just $23](https://www.theverge.com/tech/652667/anker-622-magnetic-battery-maggo-nothing-ear-a-earbuds-deal-sale)
- - [You Have to Rent ‘Conclave’ Today, Because Streaming Is Messier Than Ever](https://www.wired.com/story/you-have-to-rent-conclave-today-because-streaming-is-messier-than-ever/)<!-- TECH:END -->
+ - [Judge overseeing hearing on fixing Google&#39;s monopoly questioned if DOJ&#39;s proposal to force a sale of Chrome met the &quot;causation&quot; standard for a structural remedy &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/250421/p15#a250421p15)
+ - [Game Boy clone maker Anbernic suspends all shipments to US](https://www.theverge.com/news/652797/anbernic-suspend-shipments-tariffs-us-china)
+ - [The ACLU Is Suing the Government to Get Access to DOGE Records](https://www.wired.com/story/aclu-lawsuit-government-doge-access-sensitive-data/)
+ - [Spring Cleaning Your Tech: How to Recycle Computers and Printers for Free](https://www.cnet.com/tech/computing/spring-cleaning-your-tech-how-to-recycle-computers-and-printers-for-free/#ftag=CAD590a51e)
+ - [Airbnb now shows the full cost of a stay, excluding taxes, in search results by default; a Biden-era FTC rule on &quot;junk fees&quot; is set to go into effect on May 12 &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250421/p14#a250421p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

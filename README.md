@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [High Five](http://9gag.com/gag/aQzmxvW)
- - 😝 [Did he say `thank you`?](http://9gag.com/gag/a2vD5Be)
- - 💣 [Best role for Cruise, Spacey, Paltrow and DeVito](http://9gag.com/gag/aGyG0KZ)
- - 😝 [The pope had to go right on Easter](http://9gag.com/gag/aYQMKo2)
- - 👉 [Used 100% of his brain...](http://9gag.com/gag/aZZENpz)<!-- MEMES:END -->
+ - 😝 [The date that never ended](http://9gag.com/gag/aRBvVbq)
+ - 😝 [Sometimes you don&#39;t know what you&#39;ve got till it&#39;s gone](http://9gag.com/gag/aByEwp2)
+ - 💣 [He has a degree in iPhone camera app](http://9gag.com/gag/an7xK3z)
+ - 😝 [If you are swimming and see a large circle of bubbles forming around you, get out of there as soon as possible](http://9gag.com/gag/a5QzZ8N)
+ - 👉 [View from below](http://9gag.com/gag/aryxOM0)<!-- MEMES:END -->
 
 ---
 

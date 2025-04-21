@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, yeah](http://9gag.com/gag/aQzmpDe)
- - 😝 [Popen&#39;t](http://9gag.com/gag/a348735)
- - 💣 [Both of these photos are of 34 year old men](http://9gag.com/gag/ajPxAr1)
- - 😝 [He has a degree in iPhone camera app](http://9gag.com/gag/an7xK3z)
- - 👉 [Dad recorded his daughter every week for 20 years](http://9gag.com/gag/a348jGm)<!-- MEMES:END -->
+ - 😝 [Imagine having so much money and that\u2019s the best the cosmetic surgeon could do\u2026](http://9gag.com/gag/ae9xpZp)
+ - 😝 [Best way to get ur answers](http://9gag.com/gag/awyO7NB)
+ - 💣 [Well, yeah](http://9gag.com/gag/aQzmpDe)
+ - 😝 [Bad romance](http://9gag.com/gag/a9ymWVj)
+ - 👉 [Not even hold hands?](http://9gag.com/gag/aryxNOX)<!-- MEMES:END -->
 
 ---
 

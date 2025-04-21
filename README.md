@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Nintendo&amp;#8217;s new amiibo might be getting a price hike](https://www.theverge.com/news/652885/nintendo-switch-2-amiibo-price-increase)
+ - [Researchers Shoot Lasers At People&#39;s Eyes To Help Them See A New Color](https://www.cnet.com/science/researchers-shoot-lasers-at-peoples-eyes-to-help-them-see-a-new-color/#ftag=CAD590a51e)
  - [Judge overseeing hearing on fixing Google&#39;s monopoly questioned if DOJ&#39;s proposal to force a sale of Chrome met the &quot;causation&quot; standard for a structural remedy &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/250421/p15#a250421p15)
  - [Game Boy clone maker Anbernic suspends all shipments to US](https://www.theverge.com/news/652797/anbernic-suspend-shipments-tariffs-us-china)
- - [The ACLU Is Suing the Government to Get Access to DOGE Records](https://www.wired.com/story/aclu-lawsuit-government-doge-access-sensitive-data/)
- - [Spring Cleaning Your Tech: How to Recycle Computers and Printers for Free](https://www.cnet.com/tech/computing/spring-cleaning-your-tech-how-to-recycle-computers-and-printers-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [We Recommend These 15 Essential Oils to Relieve Anxiety and Stress](https://www.cnet.com/health/mental/we-recommend-these-15-essential-oils-to-relieve-anxiety-and-stress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

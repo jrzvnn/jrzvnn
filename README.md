@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best role for Cruise, Spacey, Paltrow and DeVito](http://9gag.com/gag/aGyG0KZ)
- - 😝 [High Five](http://9gag.com/gag/aQzmxvW)
- - 💣 [All aboard the 30s trains!](http://9gag.com/gag/azxOr2Z)
- - 😝 [Critical success](http://9gag.com/gag/ayN1LEb)
- - 👉 [Goalkeeper : ` I fear nothing even god... except that one guy.`](http://9gag.com/gag/a2vD5LE)<!-- MEMES:END -->
+ - 😝 [Well, yeah](http://9gag.com/gag/aQzmpDe)
+ - 😝 [Popen&#39;t](http://9gag.com/gag/a348735)
+ - 💣 [Both of these photos are of 34 year old men](http://9gag.com/gag/ajPxAr1)
+ - 😝 [He has a degree in iPhone camera app](http://9gag.com/gag/an7xK3z)
+ - 👉 [Dad recorded his daughter every week for 20 years](http://9gag.com/gag/a348jGm)<!-- MEMES:END -->
 
 ---
 

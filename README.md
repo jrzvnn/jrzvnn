@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Circle unveils a network designed to link financial institutions and enable real-time settlement of cross-border payments, starting with USDC and EURC in May &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/250421/p17#a250421p17)
+ - [GameStop, Target, Walmart, and Best Buy announce when their Switch 2 preorders start](https://www.theverge.com/news/651971/nintendo-switch-2-target-preorders-time)
+ - [Microsoft has improved Recall, but biometrics are only required for setup and users can open it with just a PIN, and sensitive data filtering is unreliable &lpar;Kevin Beaumont/DoublePulsar&rpar;](http://www.techmeme.com/250421/p16#a250421p16)
  - [Next Apple Vision headset could have a refined battery cable](https://appleinsider.com/articles/25/04/17/next-apple-vision-headset-could-have-a-refined-battery-cable?utm_medium=rss)
- - [Nintendo&amp;#8217;s new amiibo might be getting a price hike](https://www.theverge.com/news/652885/nintendo-switch-2-amiibo-price-increase)
- - [Researchers Shoot Lasers At People&#39;s Eyes To Help Them See A New Color](https://www.cnet.com/science/researchers-shoot-lasers-at-peoples-eyes-to-help-them-see-a-new-color/#ftag=CAD590a51e)
- - [Judge overseeing hearing on fixing Google&#39;s monopoly questioned if DOJ&#39;s proposal to force a sale of Chrome met the &quot;causation&quot; standard for a structural remedy &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/250421/p15#a250421p15)
- - [Game Boy clone maker Anbernic suspends all shipments to US](https://www.theverge.com/news/652797/anbernic-suspend-shipments-tariffs-us-china)<!-- TECH:END -->
+ - [&#39;Andor&#39; Season 2 Premiere: When to Watch the Star Wars Series](https://www.cnet.com/tech/services-and-software/andor-season-2-premiere-when-to-watch-star-wars-series/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

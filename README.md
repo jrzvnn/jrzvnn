@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EU insists Trump won&#39;t make it back off Apple](https://appleinsider.com/articles/25/04/21/eu-insists-trump-wont-make-it-back-off-apple?utm_medium=rss)
  - [Apple sued for $5M for not recovering data after iPhone theft](https://appleinsider.com/articles/25/04/21/apple-sued-for-5m-for-not-recovering-data-after-iphone-theft?utm_medium=rss)
  - [No escape, no control: A &#39;Severance&#39; keyboard is coming soon](https://appleinsider.com/articles/25/04/21/no-escape-no-control-a-severance-keyboard-is-coming-soon?utm_medium=rss)
  - [The Best Shapewear &lpar;2025&rpar;: Bodysuits, Briefs, and More](https://www.wired.com/gallery/best-shapewear/)
- - [Sources: Circle, BitGo, and other firms plan to apply for bank charters or licenses, as the Trump administration pushes to bring crypto into mainstream finance &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250421/p5#a250421p5)
- - [Best CD Rates - Week of April 21 - April 25, 2025](https://www.cnet.com/personal-finance/banking/best-cd-rates-week-of-april-21-april-25-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Circle, BitGo, and other firms plan to apply for bank charters or licenses, as the Trump administration pushes to bring crypto into mainstream finance &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250421/p5#a250421p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

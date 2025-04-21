@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Airbnb now shows the full cost of a stay, excluding taxes, in search results by default; a Biden-era FTC rule on &quot;junk fees&quot; is set to go into effect on May 12 &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250421/p14#a250421p14)
  - [CATL’s new EV battery blows BYD’s speediest-charging cells out of the water](https://www.theverge.com/news/652762/catl-china-ev-battery-charging-sodium-ev-range)
  - [Money, Chrome, and ChatGPT: The high stakes of Google&amp;#8217;s monopoly trial](https://www.theverge.com/policy/652708/google-search-antitrust-remedies-trial-opening)
  - [Anker’s MagSafe-friendly 622 power bank is down to just $23](https://www.theverge.com/tech/652667/anker-622-magnetic-battery-maggo-nothing-ear-a-earbuds-deal-sale)
- - [You Have to Rent ‘Conclave’ Today, Because Streaming Is Messier Than Ever](https://www.wired.com/story/you-have-to-rent-conclave-today-because-streaming-is-messier-than-ever/)
- - [Time May Be Running Out to Buy an iPhone Before Tariffs Hike the Price](https://www.cnet.com/personal-finance/taxes/time-may-be-running-out-to-buy-an-iphone-before-tariffs-hike-the-price/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You Have to Rent ‘Conclave’ Today, Because Streaming Is Messier Than Ever](https://www.wired.com/story/you-have-to-rent-conclave-today-because-streaming-is-messier-than-ever/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

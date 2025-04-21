@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Life was good back then](http://9gag.com/gag/aqyxbdM)
- - 😝 [View from below](http://9gag.com/gag/aryxOM0)
- - 💣 [Too many such examples](http://9gag.com/gag/a6ZBbRe)
  - 😝 [Floor tiles suddenly shattering inside a room](http://9gag.com/gag/aGyGR96)
- - 👉 [Easter Day in Rotterdam, Netherlands](http://9gag.com/gag/aPAeG2G)<!-- MEMES:END -->
+ - 😝 [View from below](http://9gag.com/gag/aryxOM0)
+ - 💣 [Meanwhile in London, man arrested by 5 cops and facing jail time for &#39;aggravated communication&#39; and &#39;illegal offensive use of speech&#39; on X](http://9gag.com/gag/aByE3vD)
+ - 😝 [Life was good back then](http://9gag.com/gag/aqyxbdM)
+ - 👉 [Dad recorded his daughter every week for 20 years](http://9gag.com/gag/a348jGm)<!-- MEMES:END -->
 
 ---
 

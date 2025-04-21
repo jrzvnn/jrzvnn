@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The US v. Google remedies trial opens with the DOJ arguing that Google should be forced to divest Chrome, and Google calling the proposed remedies &quot;extreme&quot; &lpar;Julian Mark/Washington Post&rpar;](http://www.techmeme.com/250421/p18#a250421p18)
  - [iPhone 17 Pro could be available in Sky Blue, leaker claims](https://appleinsider.com/articles/25/04/21/iphone-17-pro-could-be-available-in-sky-blue-leaker-claims?utm_medium=rss)
  - [DHL halts international deliveries to US consumers worth over $800](https://www.theverge.com/news/652977/dhl-shipment-delays-us-tariffs-business-to-consumer)
- - [Circle unveils a network designed to link financial institutions and enable real-time settlement of cross-border payments, starting with USDC and EURC in May &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/250421/p17#a250421p17)
- - [GameStop, Target, Walmart, and Best Buy announce when their Switch 2 preorders start](https://www.theverge.com/news/651971/nintendo-switch-2-target-preorders-time)<!-- TECH:END -->
+ - [&#39;Black Mirror&#39;: Ranking the 6 New Episodes in Season 7](https://www.cnet.com/tech/services-and-software/black-mirror-ranking-the-6-new-episodes-in-season-7/#ftag=CAD590a51e)
+ - [Student Loans in Default Will Be Sent to Collections Starting May 5, Department of Education Says](https://www.cnet.com/personal-finance/loans/student-loans-in-default-will-be-sent-to-collections-starting-may-5-department-of-education-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Best role for Cruise, Spacey, Paltrow and DeVito](http://9gag.com/gag/aGyG0KZ)
  - 😝 [Faith in humanity restored!](http://9gag.com/gag/azxOV4p)
- - 😝 [High Five](http://9gag.com/gag/aQzmxvW)
- - 💣 [Critical success](http://9gag.com/gag/ayN1LEb)
- - 😝 [Goalkeeper : ` I fear nothing even god... except that one guy.`](http://9gag.com/gag/a2vD5LE)
- - 👉 [Bullying](http://9gag.com/gag/a4PAj5d)<!-- MEMES:END -->
+ - 💣 [High Five](http://9gag.com/gag/aQzmxvW)
+ - 😝 [Critical success](http://9gag.com/gag/ayN1LEb)
+ - 👉 [Goalkeeper : ` I fear nothing even god... except that one guy.`](http://9gag.com/gag/a2vD5LE)<!-- MEMES:END -->
 
 ---
 

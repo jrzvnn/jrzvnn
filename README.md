@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Miss Gill for the win. When you recognize 19 students just by their voice.](http://9gag.com/gag/aGyGRLX)
- - 😝 [Day/night](http://9gag.com/gag/aByERDz)
- - 💣 [All honey no juice](http://9gag.com/gag/aRBvQP5)
- - 😝 [Netherland](http://9gag.com/gag/aQzmPj8)
- - 👉 [Bro summoned his last what](http://9gag.com/gag/aoyxjP3)<!-- MEMES:END -->
+ - 😝 [All honey no juice](http://9gag.com/gag/aRBvQP5)
+ - 😝 [The date that never ended](http://9gag.com/gag/aRBvVbq)
+ - 💣 [Bro summoned his last what](http://9gag.com/gag/aoyxjP3)
+ - 😝 [Circus Performer shows you how to fly](http://9gag.com/gag/a87eLr6)
+ - 👉 [Both of these photos are of 34 year old men](http://9gag.com/gag/ajPxAr1)<!-- MEMES:END -->
 
 ---
 

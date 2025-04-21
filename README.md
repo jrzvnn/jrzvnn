@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro summoned his last what](http://9gag.com/gag/aoyxjP3)
- - 😝 [Can&#39;t control it!](http://9gag.com/gag/azxOLON)
- - 💣 [Best way to get ur answers](http://9gag.com/gag/awyO7NB)
- - 😝 [Both of these photos are of 34 year old men](http://9gag.com/gag/ajPxAr1)
- - 👉 [The date that never ended](http://9gag.com/gag/aRBvVbq)<!-- MEMES:END -->
+ - 😝 [Well, yeah](http://9gag.com/gag/aQzmpDe)
+ - 😝 [The date that never ended](http://9gag.com/gag/aRBvVbq)
+ - 💣 [Both of these photos are of 34 year old men](http://9gag.com/gag/ajPxAr1)
+ - 😝 [He has a degree in iPhone camera app](http://9gag.com/gag/an7xK3z)
+ - 👉 [Can&#39;t control it!](http://9gag.com/gag/azxOLON)<!-- MEMES:END -->
 
 ---
 

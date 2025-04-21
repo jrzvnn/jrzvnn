@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whoops](http://9gag.com/gag/abAxb98)
+ - 😝 [Life was good back then](http://9gag.com/gag/aqyxbdM)
  - 😝 [View from below](http://9gag.com/gag/aryxOM0)
- - 💣 [Afraid of what?](http://9gag.com/gag/aAyMd0L)
+ - 💣 [Too many such examples](http://9gag.com/gag/a6ZBbRe)
  - 😝 [Floor tiles suddenly shattering inside a room](http://9gag.com/gag/aGyGR96)
  - 👉 [Easter Day in Rotterdam, Netherlands](http://9gag.com/gag/aPAeG2G)<!-- MEMES:END -->
 

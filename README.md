@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can&#39;t control it!](http://9gag.com/gag/azxOLON)
- - 😝 [All honey no juice](http://9gag.com/gag/aRBvQP5)
- - 💣 [He has a degree in iPhone camera app](http://9gag.com/gag/an7xK3z)
+ - 😝 [Day/night](http://9gag.com/gag/aByERDz)
  - 😝 [Bro summoned his last what](http://9gag.com/gag/aoyxjP3)
- - 👉 [Circus Performer shows you how to fly](http://9gag.com/gag/a87eLr6)<!-- MEMES:END -->
+ - 💣 [He has a degree in iPhone camera app](http://9gag.com/gag/an7xK3z)
+ - 😝 [Circus Performer shows you how to fly](http://9gag.com/gag/a87eLr6)
+ - 👉 [Can&#39;t control it!](http://9gag.com/gag/azxOLON)<!-- MEMES:END -->
 
 ---
 

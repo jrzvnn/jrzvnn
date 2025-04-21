@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CATL’s new EV battery blows BYD’s speediest-charging cells out of the water](https://www.theverge.com/news/652762/catl-china-ev-battery-charging-sodium-ev-range)
+ - [Money, Chrome, and ChatGPT: The high stakes of Google&amp;#8217;s monopoly trial](https://www.theverge.com/policy/652708/google-search-antitrust-remedies-trial-opening)
  - [Anker’s MagSafe-friendly 622 power bank is down to just $23](https://www.theverge.com/tech/652667/anker-622-magnetic-battery-maggo-nothing-ear-a-earbuds-deal-sale)
- - [You Have to Rent &#39;Conclave&#39; Today Because Streaming Is Messier Than Ever](https://www.wired.com/story/you-have-to-rent-conclave-today-because-streaming-is-messier-than-ever/)
- - [After Meta blocked news on its platforms in Canada, misleading content from right-wing Facebook pages like Canada Proud has surged ahead of the federal election &lpar;New York Times&rpar;](http://www.techmeme.com/250421/p13#a250421p13)
- - [Sony shows off the PS5 Pro’s liquid metal updates](https://www.theverge.com/news/652556/ps5-pro-teardown-liquid-metal-cooling-changes)
- - [Kia&amp;#8217;s face-lifted EV6 is a bit pricier for 2025](https://www.theverge.com/news/652702/kia-ev6-2025-facelift-us-price-hike-gt-wind-light)<!-- TECH:END -->
+ - [You Have to Rent ‘Conclave’ Today, Because Streaming Is Messier Than Ever](https://www.wired.com/story/you-have-to-rent-conclave-today-because-streaming-is-messier-than-ever/)
+ - [Time May Be Running Out to Buy an iPhone Before Tariffs Hike the Price](https://www.cnet.com/personal-finance/taxes/time-may-be-running-out-to-buy-an-iphone-before-tariffs-hike-the-price/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

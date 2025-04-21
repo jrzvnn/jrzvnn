@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meanwhile in London, man arrested by 5 cops and facing jail time for &#39;aggravated communication&#39; and &#39;illegal offensive use of speech&#39; on X](http://9gag.com/gag/aByE3vD)
+ - 😝 [Two fishermen in Australia caught this bizarre looking fish](http://9gag.com/gag/azxOLKB)
+ - 😝 [Love makes me shy](http://9gag.com/gag/awyOK78)
+ - 💣 [If you are swimming and see a large circle of bubbles forming around you, get out of there as soon as possible](http://9gag.com/gag/a5QzZ8N)
  - 😝 [Bullying](http://9gag.com/gag/a4PAj5d)
- - 💣 [Well, yeah](http://9gag.com/gag/aQzmpDe)
- - 😝 [View from below](http://9gag.com/gag/aryxOM0)
- - 👉 [Rejected from the small weiner club](http://9gag.com/gag/aD2bjyx)<!-- MEMES:END -->
+ - 👉 [View from below](http://9gag.com/gag/aryxOM0)<!-- MEMES:END -->
 
 ---
 

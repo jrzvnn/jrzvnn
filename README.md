@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Report: over a thousand international students have had US immigration statuses terminated in 2025; a Caltech ML professor says it&#39;s harming the talent pipeline &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250421/p10#a250421p10)
+ - [China threatens countries Trump is pressing to isolate Beijing](https://appleinsider.com/articles/25/04/21/china-threatens-countries-trump-is-pressing-to-isolate-beijing?utm_medium=rss)
+ - [Meta is testing using AI tools in the US to detect teen Instagram users, even if they&#39;ve lied about their birthday, and place them under Teen Account settings &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/250421/p9#a250421p9)
  - [Bluesky starts rolling out blue check verification, initially limiting verification to select organizations and its moderation team &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250421/p8#a250421p8)
- - [Airbnb now shows the full price of your stay by default](https://www.theverge.com/news/652635/airbnb-full-price-stay-default)
- - [Vivo wants its new smartphone to replace your camera](https://www.theverge.com/news/652506/viva-x200-ultra-smartphone-camera-snapdragon-8-elite)
- - [Bethesda confirms Oblivion remaster&amp;#8217;s imminent reveal](https://www.theverge.com/news/652597/bethesda-oblivion-remaster-livestream-tomorrow)
- - [Apple&#39;s 14-inch MacBook Pro is on sale from $1,099 - here&#39;s where to grab the best deals](https://appleinsider.com/articles/25/04/21/apples-14-inch-macbook-pro-is-on-sale-from-1099---heres-where-to-grab-the-best-deals?utm_medium=rss)<!-- TECH:END -->
+ - [Airbnb now shows the full price of your stay by default](https://www.theverge.com/news/652635/airbnb-full-price-stay-default)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

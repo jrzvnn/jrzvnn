@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Huawei plans mass shipments of its 910C chip, which combines two 910B chips and is comparable to Nvidia&#39;s H100, to Chinese customers as early as May &lpar;Reuters&rpar;](http://www.techmeme.com/250421/p7#a250421p7)
- - [Valorant’s mobile version is coming to China first](https://www.theverge.com/news/652555/valorant-mobile-china)
- - [Verizon’s consumer chief: Net neutrality ‘went literally nowhere’](https://www.theverge.com/decoder-podcast-with-nilay-patel/652470/verizon-consumer-sowmyanarayan-sampath-net-neutrality-5g-china)
- - [The Verge’s 2025 Mother’s Day gift guide](https://www.theverge.com/tech/647527/best-mothers-day-gift-ideas-2025-mom-tech-gadgets)
- - [Long Range Matter Devices, Nanoleaf Pegboard Lights, Arlo Updates, &amp; the Best Find My Devices on HomeKit Insider](https://appleinsider.com/articles/25/04/21/long-range-matter-devices-nanoleaf-pegboard-lights-arlo-updates-the-best-find-my-devices-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
+ - [Airbnb now shows the full price of your stay by default](https://www.theverge.com/news/652635/airbnb-full-price-stay-default)
+ - [Vivo wants its new smartphone to replace your camera](https://www.theverge.com/news/652506/viva-x200-ultra-smartphone-camera-snapdragon-8-elite)
+ - [Bethesda confirms Oblivion remaster&amp;#8217;s imminent reveal](https://www.theverge.com/news/652597/bethesda-oblivion-remaster-livestream-tomorrow)
+ - [Apple&#39;s 14-inch MacBook Pro is on sale from $1,099 - here&#39;s where to grab the best deals](https://appleinsider.com/articles/25/04/21/apples-14-inch-macbook-pro-is-on-sale-from-1099---heres-where-to-grab-the-best-deals?utm_medium=rss)
+ - [Bluesky Is Rolling Out Official Verification](https://www.wired.com/story/bluesky-official-verification-blue-check/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

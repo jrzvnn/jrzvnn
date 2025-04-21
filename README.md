@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Last of Us ripped off the Band-aid](https://www.theverge.com/tv/651902/the-last-of-us-season-2-joel)
  - [Technics EAH-AZ100 Earbuds Review: Smaller Size, Better Sound](https://www.wired.com/review/technics-eah-az100/)
- - [Sources: Ola&#39;s AI venture Krutrim is looking to raise up to $300M, down from a planned raise of about $500M, after seeing poor investor appetite &lpar;Livemint&rpar;](http://www.techmeme.com/250421/p4#a250421p4)
- - [TSMC says its role in the semiconductor supply chain limits its ability to comply with export rules, after reports its tech was used in Huawei&#39;s Ascend 910B &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/250421/p3#a250421p3)
- - [Urevo CyberPad for Home Review: Biggest Incline Ever](https://www.wired.com/review/urevo-cyberpad/)
- - [Don&#39;t Hoard Old Tech. CNET Survey Finds 31% of US Adults Hold Onto Unused Devices](https://www.cnet.com/tech/recycling-tech-survey-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple iPhone 16E vs. Samsung Galaxy S24 FE: Comparing the Lower-Cost Phones](https://www.cnet.com/tech/mobile/apple-iphone-16e-vs-samsung-galaxy-s24-fe-comparing-the-lower-cost-phones/#ftag=CAD590a51e)
+ - [Pixel 9 Pro Fold vs. Oppo Find N5 Camera Comparison: Which Takes Better Pictures?](https://www.cnet.com/tech/mobile/pixel-9-pro-fold-vs-oppo-find-n5-camera-comparison-which-takes-better-pictures/#ftag=CAD590a51e)
+ - [Sources: Ola&#39;s AI venture Krutrim is looking to raise up to $300M, down from a planned raise of about $500M, after seeing poor investor appetite &lpar;Livemint&rpar;](http://www.techmeme.com/250421/p4#a250421p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

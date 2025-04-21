@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Technics EAH-AZ100 Earbuds Review: Smaller Size, Better Sound](https://www.wired.com/review/technics-eah-az100/)
+ - [Sources: Ola&#39;s AI venture Krutrim is looking to raise up to $300M, down from a planned raise of about $500M, after seeing poor investor appetite &lpar;Livemint&rpar;](http://www.techmeme.com/250421/p4#a250421p4)
  - [TSMC says its role in the semiconductor supply chain limits its ability to comply with export rules, after reports its tech was used in Huawei&#39;s Ascend 910B &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/250421/p3#a250421p3)
  - [Urevo CyberPad for Home Review: Biggest Incline Ever](https://www.wired.com/review/urevo-cyberpad/)
- - [Don&#39;t Hoard Old Tech. CNET Survey Finds 31% of US Adults Hold Onto Unused Devices](https://www.cnet.com/tech/recycling-tech-survey-2025/#ftag=CAD590a51e)
- - [How to Protect Yourself From Phone Searches at the US Border](https://www.wired.com/story/how-to-protect-yourself-from-phone-searches-at-the-us-border/)
- - [These 20 Sci-Fi Series on Netflix Might Ruin All Other TV for You](https://www.cnet.com/tech/services-and-software/best-sci-fi-tv-shows-on-netflix-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Don&#39;t Hoard Old Tech. CNET Survey Finds 31% of US Adults Hold Onto Unused Devices](https://www.cnet.com/tech/recycling-tech-survey-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

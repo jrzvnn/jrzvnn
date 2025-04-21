@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Protect Yourself From Phone Searches at the US Border](https://www.wired.com/story/how-to-protect-yourself-from-phone-searches-at-the-us-border/)
  - [This Massive Screen for Live Sports Puts You in the Best Seat in the Stadium](https://www.wired.com/story/cosm-live-sports-immersive-experiences/)
  - [Meta is ramping up its AI-driven age detection](https://www.theverge.com/news/651826/meta-instagram-age-detection-ai-settings)
  - [A look at the tactile devices from OneCourt, Field of Vision, and Touch2See that help visually impaired spectators follow live sports with their fingers &lpar;Tom Wiggins/Wired&rpar;](http://www.techmeme.com/250421/p2#a250421p2)
- - [Best VPN for iPhone 2025: Privacy Protection on the Go](https://www.cnet.com/tech/services-and-software/best-vpn-for-iphone/#ftag=CAD590a51e)
- - [WrestleMania 41: How to Rewatch All of the Weekend Matches](https://www.cnet.com/tech/services-and-software/wrestlemania-41-how-to-rewatch-all-of-the-weekend-matches/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best VPN for iPhone 2025: Privacy Protection on the Go](https://www.cnet.com/tech/services-and-software/best-vpn-for-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

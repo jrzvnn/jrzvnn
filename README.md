@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Did he say `thank you`?](http://9gag.com/gag/a2vD5Be)
- - 😝 [The obligatory Easter post](http://9gag.com/gag/a6ZBy8b)
- - 💣 [Bullying](http://9gag.com/gag/a4PAj5d)
- - 😝 [High Five](http://9gag.com/gag/aQzmxvW)
- - 👉 [What would you do?](http://9gag.com/gag/abAx0yE)<!-- MEMES:END -->
+ - 😝 [All honey no juice](http://9gag.com/gag/aRBvQP5)
+ - 😝 [Circus Performer shows you how to fly](http://9gag.com/gag/a87eLr6)
+ - 💣 [Can&#39;t control it!](http://9gag.com/gag/azxOLON)
+ - 😝 [WTF?](http://9gag.com/gag/aGyGYmw)
+ - 👉 [Bro summoned his last what](http://9gag.com/gag/aoyxjP3)<!-- MEMES:END -->
 
 ---
 

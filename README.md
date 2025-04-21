@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, yeah](http://9gag.com/gag/aQzmpDe)
- - 😝 [View from below](http://9gag.com/gag/aryxOM0)
+ - 😝 [What my friend sents me in the 3rd month of his residency. He says this has been quite a common occurrence., and the patients are mostly male.](http://9gag.com/gag/a9ymrpj)
+ - 😝 [Rejected from the small weiner club](http://9gag.com/gag/aD2bjyx)
  - 💣 [Both of these photos are of 34 year old men](http://9gag.com/gag/ajPxAr1)
- - 😝 [If you are swimming and see a large circle of bubbles forming around you, get out of there as soon as possible](http://9gag.com/gag/a5QzZ8N)
+ - 😝 [Floor tiles suddenly shattering inside a room](http://9gag.com/gag/aGyGR96)
  - 👉 [Too many such examples](http://9gag.com/gag/a6ZBbRe)<!-- MEMES:END -->
 
 ---

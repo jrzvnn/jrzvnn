@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lost at sea is the market for new up-and-coming.](http://9gag.com/gag/agmx3wg)
- - 😝 [Circus Performer shows you how to fly](http://9gag.com/gag/a87eLr6)
- - 💣 [Creativity at minds](http://9gag.com/gag/aByERzN)
- - 😝 [Day/night](http://9gag.com/gag/aByERDz)
- - 👉 [Both of these photos are of 34 year old men](http://9gag.com/gag/ajPxAr1)<!-- MEMES:END -->
+ - 😝 [Peak male content](http://9gag.com/gag/aNDBe5b)
+ - 😝 [Based JK](http://9gag.com/gag/amoxXOj)
+ - 💣 [N..](http://9gag.com/gag/aQzmnEw)
+ - 😝 [Hand carved cat](http://9gag.com/gag/aGyGDZn)
+ - 👉 [Have you?](http://9gag.com/gag/aD2bo4O)<!-- MEMES:END -->
 
 ---
 

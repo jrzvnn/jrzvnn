@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Two fishermen in Australia caught this bizarre looking fish](http://9gag.com/gag/azxOLKB)
- - 😝 [Love makes me shy](http://9gag.com/gag/awyOK78)
- - 💣 [If you are swimming and see a large circle of bubbles forming around you, get out of there as soon as possible](http://9gag.com/gag/a5QzZ8N)
- - 😝 [Bullying](http://9gag.com/gag/a4PAj5d)
- - 👉 [View from below](http://9gag.com/gag/aryxOM0)<!-- MEMES:END -->
+ - 😝 [What my friend sents me in the 3rd month of his residency. He says this has been quite a common occurrence., and the patients are mostly male.](http://9gag.com/gag/a9ymrpj)
+ - 😝 [Well, yeah](http://9gag.com/gag/aQzmpDe)
+ - 💣 [View from below](http://9gag.com/gag/aryxOM0)
+ - 😝 [Floor tiles suddenly shattering inside a room](http://9gag.com/gag/aGyGR96)
+ - 👉 [Both of these photos are of 34 year old men](http://9gag.com/gag/ajPxAr1)<!-- MEMES:END -->
 
 ---
 

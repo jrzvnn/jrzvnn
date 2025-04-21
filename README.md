@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Used 100% of his brain...](http://9gag.com/gag/aZZENpz)
- - 😝 [If you are swimming and see a large circle of bubbles forming around you, get out of there as soon as possible](http://9gag.com/gag/a5QzZ8N)
- - 💣 [Best role for Cruise, Spacey, Paltrow and DeVito](http://9gag.com/gag/aGyG0KZ)
- - 😝 [Bullying](http://9gag.com/gag/a4PAj5d)
- - 👉 [The pope had to go right on Easter](http://9gag.com/gag/aYQMKo2)<!-- MEMES:END -->
+ - 😝 [Whoops](http://9gag.com/gag/abAxb98)
+ - 😝 [View from below](http://9gag.com/gag/aryxOM0)
+ - 💣 [Afraid of what?](http://9gag.com/gag/aAyMd0L)
+ - 😝 [Floor tiles suddenly shattering inside a room](http://9gag.com/gag/aGyGR96)
+ - 👉 [Easter Day in Rotterdam, Netherlands](http://9gag.com/gag/aPAeG2G)<!-- MEMES:END -->
 
 ---
 

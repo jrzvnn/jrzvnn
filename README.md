@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bluesky starts rolling out blue check verification, initially limiting verification to select organizations and its moderation team &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250421/p8#a250421p8)
  - [Airbnb now shows the full price of your stay by default](https://www.theverge.com/news/652635/airbnb-full-price-stay-default)
  - [Vivo wants its new smartphone to replace your camera](https://www.theverge.com/news/652506/viva-x200-ultra-smartphone-camera-snapdragon-8-elite)
  - [Bethesda confirms Oblivion remaster&amp;#8217;s imminent reveal](https://www.theverge.com/news/652597/bethesda-oblivion-remaster-livestream-tomorrow)
- - [Apple&#39;s 14-inch MacBook Pro is on sale from $1,099 - here&#39;s where to grab the best deals](https://appleinsider.com/articles/25/04/21/apples-14-inch-macbook-pro-is-on-sale-from-1099---heres-where-to-grab-the-best-deals?utm_medium=rss)
- - [Bluesky Is Rolling Out Official Verification](https://www.wired.com/story/bluesky-official-verification-blue-check/)<!-- TECH:END -->
+ - [Apple&#39;s 14-inch MacBook Pro is on sale from $1,099 - here&#39;s where to grab the best deals](https://appleinsider.com/articles/25/04/21/apples-14-inch-macbook-pro-is-on-sale-from-1099---heres-where-to-grab-the-best-deals?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

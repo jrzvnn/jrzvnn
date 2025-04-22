@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Supabase, an open-source alternative to Google&#39;s Firebase that&#39;s used by 2M+ developers, raises $200M Series D at $2B valuation &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250422/p20#a250422p20)
  - [The 8 Best Earth Day Deals of 2025](https://www.wired.com/story/earth-day-deals-2025/)
  - [Future MacBook keyboard could have customizable aluminum keys](https://appleinsider.com/articles/22/12/15/future-macbook-keyboard-could-have-customizable-aluminum-keys?utm_medium=rss)
  - [MacBook shipments soared in early 2025 over tariff fears](https://appleinsider.com/articles/25/04/22/macbook-shipments-soared-in-2025-but-tariffs-played-a-bigger-role?utm_medium=rss)
- - [New Siri chief is replacing existing teams with Vision Pro staffers](https://appleinsider.com/articles/25/04/22/new-siri-chief-is-replacing-existing-teams-with-vision-pro-staffers?utm_medium=rss)
- - [Google Fi is launching a $35 / month unlimited plan](https://www.theverge.com/news/653244/google-fi-unlimited-essentials-plan)<!-- TECH:END -->
+ - [Motorola Razr 60 Promo Pictures Leak Ahead of Announcement](https://www.cnet.com/tech/mobile/motorola-razr-60-promo-pictures-leak-ahead-of-announcement/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

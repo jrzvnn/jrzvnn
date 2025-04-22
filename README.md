@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Floor tiles suddenly shattering inside a room](http://9gag.com/gag/aGyGR96)
- - 😝 [This one brings joy. FAFO! US cops at it!](http://9gag.com/gag/aNDBKR0)
- - 💣 [Not even hold hands?](http://9gag.com/gag/aryxNOX)
- - 😝 [Easter Day in Rotterdam, Netherlands](http://9gag.com/gag/aPAeG2G)
- - 👉 [Whoops](http://9gag.com/gag/abAxb98)<!-- MEMES:END -->
+ - 😝 [Meanwhile in London, man arrested by 5 cops and facing jail time for &#39;aggravated communication&#39; and &#39;illegal offensive use of speech&#39; on X](http://9gag.com/gag/aByE3vD)
+ - 😝 [Not even hold hands?](http://9gag.com/gag/aryxNOX)
+ - 💣 [This one brings joy. FAFO! US cops at it!](http://9gag.com/gag/aNDBKR0)
+ - 😝 [Whoops](http://9gag.com/gag/abAxb98)
+ - 👉 [What my friend sents me in the 3rd month of his residency. He says this has been quite a common occurrence., and the patients are mostly male.](http://9gag.com/gag/a9ymrpj)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bungie&#39;s &#39;Myth&#39; resurrected by fans for modern Mac gamers](https://appleinsider.com/articles/25/04/22/bungies-myth-resurrected-by-fans-for-modern-mac-gamers?utm_medium=rss)
+ - [11 Best Nature Documentaries on Netflix, Hulu, and More &lpar;2025&rpar;](https://www.wired.com/story/the-11-best-nature-documentaries-will-make-you-want-to-touch-grass/)
+ - [The best free apps for video meetings](https://www.theverge.com/21286781/best-video-call-apps-free)
  - [MacBook shipments soared in 2025 but tariffs played a bigger role](https://appleinsider.com/articles/25/04/22/macbook-shipments-soared-in-2025-but-tariffs-played-a-bigger-role?utm_medium=rss)
- - [Best Wireless Earbuds, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-wirefree-earbuds/)
- - [Airbnb Will Now Display Full Prices for Rentals -- Even the Sneaky Fees](https://www.cnet.com/tech/services-and-software/airbnb-will-now-display-full-prices-for-rentals-even-the-sneaky-fees/#ftag=CAD590a51e)
- - [Hybrid Meat Is All the Rage. Here&#39;s What It Is and Why It&#39;s Worth Trying](https://www.cnet.com/news/hybrid-meat-is-all-the-rage-heres-what-it-is-and-why-its-worth-trying/#ftag=CAD590a51e)
- - [Docs: in July 2024, Amazon set up Project Greenland to manage and optimize GPU allocation across its retail unit; Amazon says it now has &quot;ample&quot; GPU capacity &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/250422/p9#a250422p9)<!-- TECH:END -->
+ - [Best Wireless Earbuds, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-wirefree-earbuds/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

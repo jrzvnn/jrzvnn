@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How AI is reshaping wildlife conservation — for better or worse](https://www.theverge.com/ai-artificial-intelligence/653322/ai-wildlife-conservation)
+ - [FTC v. Meta live: the latest from the battle over Instagram and WhatsApp](https://www.theverge.com/news/646809/ftc-v-meta-antitrust-monopoly-trial-instagram-whatsapp)
+ - [Why I love my ridiculous 77-inch LG C3 OLED TV](https://www.theverge.com/tech/651072/lg-c3-oled-tv-favorites)
  - [Bungie&#39;s &#39;Myth&#39; resurrected by fans for modern Mac gamers](https://appleinsider.com/articles/25/04/22/bungies-myth-resurrected-by-fans-for-modern-mac-gamers?utm_medium=rss)
- - [11 Best Nature Documentaries on Netflix, Hulu, and More &lpar;2025&rpar;](https://www.wired.com/story/the-11-best-nature-documentaries-will-make-you-want-to-touch-grass/)
- - [The best free apps for video meetings](https://www.theverge.com/21286781/best-video-call-apps-free)
- - [MacBook shipments soared in 2025 but tariffs played a bigger role](https://appleinsider.com/articles/25/04/22/macbook-shipments-soared-in-2025-but-tariffs-played-a-bigger-role?utm_medium=rss)
- - [Best Wireless Earbuds, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-wirefree-earbuds/)<!-- TECH:END -->
+ - [Anker Nebula Capsule Air Review: Little LED Can; Can Light a Little](https://www.cnet.com/tech/home-entertainment/anker-nebula-capsule-air-review-little-led-can-can-light-a-little/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

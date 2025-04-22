@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluesky starts rolling out blue check verification, initially limiting verification to select organizations and its moderation team &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/250421/p20#a250421p20)
- - [A Columbia student suspended over a tool to cheat on job interviews says he&#39;s raised a $5.3M seed for Cluely, which offers an AI tool to &quot;cheat on everything&quot; &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/250421/p19#a250421p19)
- - [The US v. Google remedies trial opens with the DOJ arguing that Google should be forced to divest Chrome, and Google calling the proposed remedies &quot;extreme&quot; &lpar;Julian Mark/Washington Post&rpar;](http://www.techmeme.com/250421/p18#a250421p18)
- - [iPhone 17 Pro could be available in Sky Blue, leaker claims](https://appleinsider.com/articles/25/04/21/iphone-17-pro-could-be-available-in-sky-blue-leaker-claims?utm_medium=rss)
- - [DHL halts international deliveries to US consumers worth over $800](https://www.theverge.com/news/652977/dhl-shipment-delays-us-tariffs-business-to-consumer)<!-- TECH:END -->
+ - [Here’s where can try to preorder the Nintendo Switch 2 later this week](https://www.theverge.com/tech/24342715/nintendo-switch-2-preorder-price-release-date-availability-how-to-buy)
+ - [Crypto casinos rival traditional betting groups in scale despite being illegal in most countries, with $81.4B in gross gaming revenue in 2024, up 5x since 2022 &lpar;Marianna Giusti/Financial Times&rpar;](http://www.techmeme.com/250421/p21#a250421p21)
+ - [Lyrids Meteor Shower Peaking Tuesday: Get Outside and Watch the Fireballs](https://www.cnet.com/science/lyrids-meteor-shower-peaking-tuesday-get-outside-and-watch-the-fireballs/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 22, #211](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-22-211/#ftag=CAD590a51e)
+ - [Bluesky starts rolling out blue check verification, initially limiting verification to select organizations and its moderation team &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/250421/p20#a250421p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

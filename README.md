@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meanwhile in London, man arrested by 5 cops and facing jail time for &#39;aggravated communication&#39; and &#39;illegal offensive use of speech&#39; on X](http://9gag.com/gag/aByE3vD)
- - 😝 [Not even hold hands?](http://9gag.com/gag/aryxNOX)
- - 💣 [This one brings joy. FAFO! US cops at it!](http://9gag.com/gag/aNDBKR0)
  - 😝 [Whoops](http://9gag.com/gag/abAxb98)
- - 👉 [What my friend sents me in the 3rd month of his residency. He says this has been quite a common occurrence., and the patients are mostly male.](http://9gag.com/gag/a9ymrpj)<!-- MEMES:END -->
+ - 😝 [The Sisters of My First Love](http://9gag.com/gag/aKG8D1g)
+ - 💣 [Too many such examples](http://9gag.com/gag/a6ZBbRe)
+ - 😝 [This one brings joy. FAFO! US cops at it!](http://9gag.com/gag/aNDBKR0)
+ - 👉 [Damn..](http://9gag.com/gag/aRBveLQ)<!-- MEMES:END -->
 
 ---
 

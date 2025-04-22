@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Boeing agrees to sell parts of its digital aviation unit, including software maker Jeppesen and navigation app ForeFlight, to Thoma Bravo for $10.55B in cash &lpar;Financial Times&rpar;](http://www.techmeme.com/250422/p13#a250422p13)
- - [Apple offers visionOS support to the Godot game engine](https://appleinsider.com/articles/25/04/22/apple-offers-visionos-support-to-the-godot-game-engine?utm_medium=rss)
- - [NAD told Apple to modify or discontinue certain Apple Intelligence feature claims](https://appleinsider.com/articles/25/04/22/bbb-told-apple-to-modify-or-discontinue-certain-apple-intelligence-feature-claims?utm_medium=rss)
- - [Global PC shipments rose 6.7% YoY in Q1 2025 driven by anticipation of US tariffs and growing adoption of AI PCs; Apple rose 17% YoY and Lenovo jumped 11% YoY &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250422/p12#a250422p12)
- - [The EPA cracked down on Tesla and SpaceX. Then Elon Musk and DOGE took over.](https://www.theverge.com/environment/652767/elon-musk-trump-tesla-spacex-epa-enforcement)<!-- TECH:END -->
+ - [Apple drops &quot;available now&quot; from an Apple Intelligence page featuring an AI-supercharged Siri and removes a Siri-related video, after the BBB nonprofit inquired &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250422/p16#a250422p16)
+ - [Surprise! Xbox Game Pass Subscribers Can Play Oblivion Remastered Now](https://www.cnet.com/tech/services-and-software/surprise-xbox-game-pass-subscribers-can-play-oblivion-remastered-now/#ftag=CAD590a51e)
+ - [La Liga Soccer Livestream: How to Watch Barcelona vs. RCD Mallorca From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-barcelona-vs-rcd-mallorca-from-anywhere/#ftag=CAD590a51e)
+ - [The Washington Post partners with OpenAI to make its content &quot;more accessible&quot; in ChatGPT; OpenAI says it now has similar deals with 20+ other publishers &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250422/p15#a250422p15)
+ - [Instagram launches its CapCut clone, Edits](https://www.theverge.com/news/653136/instagram-edits-meta-capcut-clone-tiktok-bytedance)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

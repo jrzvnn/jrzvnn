@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Boss finds out you lied on your resume](http://9gag.com/gag/awyOQAx)
  - 😝 [Simple as that](http://9gag.com/gag/axyOVpW)
- - 😝 [Life was good back then](http://9gag.com/gag/aqyxbdM)
  - 💣 [Whoops](http://9gag.com/gag/abAxb98)
  - 😝 [What my friend sents me in the 3rd month of his residency. He says this has been quite a common occurrence., and the patients are mostly male.](http://9gag.com/gag/a9ymrpj)
- - 👉 [Not even hold hands?](http://9gag.com/gag/aryxNOX)<!-- MEMES:END -->
+ - 👉 [Easter Day in Rotterdam, Netherlands](http://9gag.com/gag/aPAeG2G)<!-- MEMES:END -->
 
 ---
 

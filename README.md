@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Ithaca, New York](https://www.cnet.com/home/internet/best-internet-providers-in-ithaca-ny/#ftag=CAD590a51e)
+ - [Knight Takes Pawn. Chess Lessons Are Coming to Duolingo](https://www.cnet.com/tech/services-and-software/knight-takes-pawn-chess-lessons-are-coming-to-duolingo/#ftag=CAD590a51e)
  - [Duolingo is getting a chess course](https://www.theverge.com/news/649319/duolingo-chess-course-ios-test)
  - [Samsung Promo Codes: 30% Off | April 2025](https://www.wired.com/story/samsung-promo-codes/)
- - [Vimeo Promo Codes and Deals: Save Up to 40%](https://www.wired.com/story/vimeo-promo-code/)
- - [Top KitchenAid Promo Codes and Coupons](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [Flipkart plans to shift its holding company from Singapore to India as Walmart aims to take it public; Flipkart moved the entity to Singapore in 2011 &lpar;Kashish Tandon/Reuters&rpar;](http://www.techmeme.com/250422/p1#a250422p1)<!-- TECH:END -->
+ - [Vimeo Promo Codes and Deals: Save Up to 40%](https://www.wired.com/story/vimeo-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

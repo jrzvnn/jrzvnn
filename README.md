@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Boss finds out you lied on your resume](http://9gag.com/gag/awyOQAx)
- - 😝 [Too many such examples](http://9gag.com/gag/a6ZBbRe)
- - 💣 [Damn..](http://9gag.com/gag/aRBveLQ)
- - 😝 [What my friend sents me in the 3rd month of his residency. He says this has been quite a common occurrence., and the patients are mostly male.](http://9gag.com/gag/a9ymrpj)
- - 👉 [Robbery attempt in Poland](http://9gag.com/gag/a9ymAjL)<!-- MEMES:END -->
+ - 😝 [Used 100% of his brain...](http://9gag.com/gag/aZZENpz)
+ - 😝 [View from below](http://9gag.com/gag/aryxOM0)
+ - 💣 [The pope had to go right on Easter](http://9gag.com/gag/aYQMKo2)
+ - 😝 [All aboard the 30s trains!](http://9gag.com/gag/azxOr2Z)
+ - 👉 [Popen&#39;t](http://9gag.com/gag/a348735)<!-- MEMES:END -->
 
 ---
 

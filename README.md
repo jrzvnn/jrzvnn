@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Several VCs say they fear Trump&#39;s tariffs could slow down tech investments, further decelerate the market for IPOs, and put some tech startups out of business &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250422/p10#a250422p10)
+ - [Apple drops ‘available now’ from Apple Intelligence page](https://www.theverge.com/news/653413/apple-intelligence-available-now-advertising-claim)
  - [4chan Is Dead. Its Toxic Legacy Is Everywhere](https://www.wired.com/story/4chan-is-dead-its-toxic-legacy-is-everywhere/)
  - [How AI is reshaping wildlife conservation — for better or worse](https://www.theverge.com/ai-artificial-intelligence/653322/ai-wildlife-conservation)
- - [FTC v. Meta live: the latest from the battle over Instagram and WhatsApp](https://www.theverge.com/news/646809/ftc-v-meta-antitrust-monopoly-trial-instagram-whatsapp)
- - [Why I love my ridiculous 77-inch LG C3 OLED TV](https://www.theverge.com/tech/651072/lg-c3-oled-tv-favorites)
- - [Bungie&#39;s &#39;Myth&#39; resurrected by fans for modern Mac gamers](https://appleinsider.com/articles/25/04/22/bungies-myth-resurrected-by-fans-for-modern-mac-gamers?utm_medium=rss)<!-- TECH:END -->
+ - [FTC v. Meta live: the latest from the battle over Instagram and WhatsApp](https://www.theverge.com/news/646809/ftc-v-meta-antitrust-monopoly-trial-instagram-whatsapp)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

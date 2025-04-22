@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m telling you, this meme&#39;s BONKOS!](http://9gag.com/gag/aGyGe1K)
- - 😝 [Damn..](http://9gag.com/gag/aRBveLQ)
- - 💣 [View from below](http://9gag.com/gag/aryxOM0)
- - 😝 [Simple as that](http://9gag.com/gag/axyOVpW)
- - 👉 [Potty training in Dubai?](http://9gag.com/gag/a5QznMr)<!-- MEMES:END -->
+ - 😝 [Shes lucky, she can skip school](http://9gag.com/gag/aVvZDYn)
+ - 😝 [Millionaire preacher for next Pope](http://9gag.com/gag/axyO0BY)
+ - 💣 [Potty training in Dubai?](http://9gag.com/gag/a5QznMr)
+ - 😝 [That zoom was diabolical](http://9gag.com/gag/avyxOEZ)
+ - 👉 [Damn..](http://9gag.com/gag/aRBveLQ)<!-- MEMES:END -->
 
 ---
 

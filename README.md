@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WBD rolls out a $7.99/month Extra Member Add-On for US Max subscribers, about two years after Netflix made a similar move to crack down on password sharing &lpar;Tony Maglio/The Hollywood Reporter&rpar;](http://www.techmeme.com/250422/p24#a250422p24)
- - [OpenAI tells judge it would buy Chrome from Google](https://www.theverge.com/news/653882/openai-chrome-google-us-judge)
- - [Tesla’s revenue and profits tank amid political chaos](https://www.theverge.com/news/653645/tesla-q1-earnings-2025-revenue-profit-elon-musk)
- - [Here’s All the Health and Human Services Data DOGE Has Access To](https://www.wired.com/story/doge-data-access-hhs/)
- - [Review: McDonald&#39;s Minecraft Meals Feature The Hottest Nugget Sauce Ever](https://www.cnet.com/tech/gaming/mcdonalds-minecraft-meals-with-hottest-nugget-sauce-ever-nether-flame-sauce-only-month-left/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amid Tesla Earnings Slide, Pressure’s on for Cybercab](https://www.wired.com/story/tesla-earnings-cybercab/)
+ - [Best Graduation Gifts for College Grads in 2025](https://www.cnet.com/news/best-college-graduation-gifts/#ftag=CAD590a51e)
+ - [Motorola Razr 60 Promo Pictures Leak Ahead of Announcement](https://www.cnet.com/tech/mobile/motorola-razr-60-promo-pictures-leak-ahead-of-announcement/#ftag=CAD590a51e)
+ - [Apple&#39;s MagSafe Charging Explained: Qi2, Faster Charging and More Accessories](https://www.cnet.com/tech/mobile/apples-magsafe-charging-explained-qi2-faster-charging-and-more-accessories/#ftag=CAD590a51e)
+ - [WBD rolls out a $7.99/month Extra Member Add-On for US Max subscribers, about two years after Netflix made a similar move to crack down on password sharing &lpar;Tony Maglio/The Hollywood Reporter&rpar;](http://www.techmeme.com/250422/p24#a250422p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

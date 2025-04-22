@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US hikes tariffs on solar products from Asia](https://www.theverge.com/news/653750/tariffs-solar-us-china-southeast-asia)
  - [Max is going to make you pay for people you share your password with](https://www.theverge.com/news/653778/max-password-sharing-extra-member-add-on)
  - [DOJ v. Google: an OpenAI exec says Google declined to let OpenAI access its search index; a DOJ remedy proposal would make Google share its index with rivals &lpar;Bloomberg&rpar;](http://www.techmeme.com/250422/p21#a250422p21)
  - [Teen Coder Shuts Down Free Mac App Whisky, Encourages Supporting the Paid Alternative](https://www.wired.com/story/teen-coder-shuts-down-open-source-mac-app-whisky/)
- - [Bluesky Introduces Blue Checkmarks and New Verification Methods](https://www.cnet.com/tech/services-and-software/bluesky-introduces-blue-checkmarks-and-new-verification-methods/#ftag=CAD590a51e)
- - [Tech Clutter Overload: New CNET Survey Shows 31% of US Adults Hang On to Old Devices](https://www.cnet.com/tech/recycling-tech-survey-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bluesky Introduces Blue Checkmarks and New Verification Methods](https://www.cnet.com/tech/services-and-software/bluesky-introduces-blue-checkmarks-and-new-verification-methods/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

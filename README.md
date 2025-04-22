@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Docs: in July 2024, Amazon set up Project Greenland to manage and optimize GPU allocation across its retail unit; Amazon says it now has &quot;ample&quot; GPU capacity &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/250422/p9#a250422p9)
- - [How to keep your data safe when you travel](https://www.theverge.com/the-vergecast/653243/data-privacy-borders-travel-big-tech-streaming)
- - [How to Responsibly Dispose of Your Electronics &lpar;2025&rpar;](https://www.wired.com/story/how-to-responsibly-dispose-electronics/)
- - [T-Mobile is shuffling its high-end plans](https://www.theverge.com/news/652616/t-mobile-experience-more-beyond-unlimited-plans)
- - [Insta360’s new 360-degree action cam lets you replace damaged lenses](https://www.theverge.com/news/652785/insta360-x5-action-camera-replaceable-lens)<!-- TECH:END -->
+ - [MacBook shipments soared in 2025 but tariffs played a bigger role](https://appleinsider.com/articles/25/04/22/macbook-shipments-soared-in-2025-but-tariffs-played-a-bigger-role?utm_medium=rss)
+ - [Best Wireless Earbuds, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-wirefree-earbuds/)
+ - [Airbnb Will Now Display Full Prices for Rentals -- Even the Sneaky Fees](https://www.cnet.com/tech/services-and-software/airbnb-will-now-display-full-prices-for-rentals-even-the-sneaky-fees/#ftag=CAD590a51e)
+ - [Hybrid Meat Is All the Rage. Here&#39;s What It Is and Why It&#39;s Worth Trying](https://www.cnet.com/news/hybrid-meat-is-all-the-rage-heres-what-it-is-and-why-its-worth-trying/#ftag=CAD590a51e)
+ - [Docs: in July 2024, Amazon set up Project Greenland to manage and optimize GPU allocation across its retail unit; Amazon says it now has &quot;ample&quot; GPU capacity &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/250422/p9#a250422p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

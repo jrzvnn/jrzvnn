@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DOJ v. Google: a Google VP says the company pays Samsung an &quot;enormous sum of money&quot; every month to preinstall Gemini on its devices as part of a two-year deal &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/250422/p2#a250422p2)
  - [Best Internet Providers in Ithaca, New York](https://www.cnet.com/home/internet/best-internet-providers-in-ithaca-ny/#ftag=CAD590a51e)
  - [Knight Takes Pawn. Chess Lessons Are Coming to Duolingo](https://www.cnet.com/tech/services-and-software/knight-takes-pawn-chess-lessons-are-coming-to-duolingo/#ftag=CAD590a51e)
  - [Duolingo is getting a chess course](https://www.theverge.com/news/649319/duolingo-chess-course-ios-test)
- - [Samsung Promo Codes: 30% Off | April 2025](https://www.wired.com/story/samsung-promo-codes/)
- - [Vimeo Promo Codes and Deals: Save Up to 40%](https://www.wired.com/story/vimeo-promo-code/)<!-- TECH:END -->
+ - [Samsung Promo Codes: 30% Off | April 2025](https://www.wired.com/story/samsung-promo-codes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

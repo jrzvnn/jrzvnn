@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Floor tiles suddenly shattering inside a room](http://9gag.com/gag/aGyGR96)
+ - 😝 [This one brings joy. FAFO! US cops at it!](http://9gag.com/gag/aNDBKR0)
+ - 💣 [Not even hold hands?](http://9gag.com/gag/aryxNOX)
  - 😝 [Easter Day in Rotterdam, Netherlands](http://9gag.com/gag/aPAeG2G)
- - 😝 [View from below](http://9gag.com/gag/aryxOM0)
- - 💣 [Subaru Saves](http://9gag.com/gag/a4PAdvZ)
- - 😝 [Robbery attempt in Poland](http://9gag.com/gag/a9ymAjL)
- - 👉 [True romance is in the simple things](http://9gag.com/gag/aryxb2V)<!-- MEMES:END -->
+ - 👉 [Whoops](http://9gag.com/gag/abAxb98)<!-- MEMES:END -->
 
 ---
 

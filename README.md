@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just going in blind](http://9gag.com/gag/a87e8XO)
+ - 😝 [Paradox life](http://9gag.com/gag/ajPxNgg)
+ - 😝 [What my friend sents me in the 3rd month of his residency. He says this has been quite a common occurrence., and the patients are mostly male.](http://9gag.com/gag/a9ymrpj)
+ - 💣 [Afraid of what?](http://9gag.com/gag/aAyMd0L)
  - 😝 [This one brings joy. FAFO! US cops at it!](http://9gag.com/gag/aNDBKR0)
- - 💣 [Easter Day in Rotterdam, Netherlands](http://9gag.com/gag/aPAeG2G)
- - 😝 [Robbery attempt in Poland](http://9gag.com/gag/a9ymAjL)
- - 👉 [Life was good back then](http://9gag.com/gag/aqyxbdM)<!-- MEMES:END -->
+ - 👉 [Potty training in Dubai?](http://9gag.com/gag/a5QznMr)<!-- MEMES:END -->
 
 ---
 

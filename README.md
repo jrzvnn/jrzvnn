@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google is scrapping its planned changes for third-party cookies in Chrome](https://www.theverge.com/news/653964/google-privacy-sandbox-plans-scrapped-third-party-cookies)
+ - [Tesla is making progress on its 1950s diner and drive-in](https://www.theverge.com/news/653959/tesla-1950s-diner-drive-in-near-complete-los-angeles)
  - [Elon Musk says he’ll step back from DOGE starting in May](https://www.theverge.com/news/653928/elon-musk-doge-step-back-tesla-earnings)
  - [After Tesla&#39;s Earnings Slide, Pressure&#39;s on for Cybercab](https://www.wired.com/story/tesla-earnings-cybercab/)
- - [Best Graduation Gifts for College Grads in 2025](https://www.cnet.com/news/best-college-graduation-gifts/#ftag=CAD590a51e)
- - [Motorola Razr 60 Promo Pictures Leak Ahead of Announcement](https://www.cnet.com/tech/mobile/motorola-razr-60-promo-pictures-leak-ahead-of-announcement/#ftag=CAD590a51e)
- - [Apple&#39;s MagSafe Charging Explained: Qi2, Faster Charging and More Accessories](https://www.cnet.com/tech/mobile/apples-magsafe-charging-explained-qi2-faster-charging-and-more-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Graduation Gifts for College Grads in 2025](https://www.cnet.com/news/best-college-graduation-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

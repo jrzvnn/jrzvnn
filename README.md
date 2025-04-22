@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whoops](http://9gag.com/gag/abAxb98)
- - 😝 [The Sisters of My First Love](http://9gag.com/gag/aKG8D1g)
- - 💣 [Too many such examples](http://9gag.com/gag/a6ZBbRe)
- - 😝 [This one brings joy. FAFO! US cops at it!](http://9gag.com/gag/aNDBKR0)
- - 👉 [Damn..](http://9gag.com/gag/aRBveLQ)<!-- MEMES:END -->
+ - 😝 [Used 100% of his brain...](http://9gag.com/gag/aZZENpz)
+ - 😝 [Bullying](http://9gag.com/gag/a4PAj5d)
+ - 💣 [The pope had to go right on Easter](http://9gag.com/gag/aYQMKo2)
+ - 😝 [All aboard the 30s trains!](http://9gag.com/gag/azxOr2Z)
+ - 👉 [Popen&#39;t](http://9gag.com/gag/a348735)<!-- MEMES:END -->
 
 ---
 

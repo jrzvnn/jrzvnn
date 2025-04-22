@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amid Tesla Earnings Slide, Pressure’s on for Cybercab](https://www.wired.com/story/tesla-earnings-cybercab/)
+ - [Elon Musk says he’ll step back from DOGE starting in May](https://www.theverge.com/news/653928/elon-musk-doge-step-back-tesla-earnings)
+ - [After Tesla&#39;s Earnings Slide, Pressure&#39;s on for Cybercab](https://www.wired.com/story/tesla-earnings-cybercab/)
  - [Best Graduation Gifts for College Grads in 2025](https://www.cnet.com/news/best-college-graduation-gifts/#ftag=CAD590a51e)
  - [Motorola Razr 60 Promo Pictures Leak Ahead of Announcement](https://www.cnet.com/tech/mobile/motorola-razr-60-promo-pictures-leak-ahead-of-announcement/#ftag=CAD590a51e)
- - [Apple&#39;s MagSafe Charging Explained: Qi2, Faster Charging and More Accessories](https://www.cnet.com/tech/mobile/apples-magsafe-charging-explained-qi2-faster-charging-and-more-accessories/#ftag=CAD590a51e)
- - [WBD rolls out a $7.99/month Extra Member Add-On for US Max subscribers, about two years after Netflix made a similar move to crack down on password sharing &lpar;Tony Maglio/The Hollywood Reporter&rpar;](http://www.techmeme.com/250422/p24#a250422p24)<!-- TECH:END -->
+ - [Apple&#39;s MagSafe Charging Explained: Qi2, Faster Charging and More Accessories](https://www.cnet.com/tech/mobile/apples-magsafe-charging-explained-qi2-faster-charging-and-more-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

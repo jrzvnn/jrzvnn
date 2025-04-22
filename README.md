@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WBD rolls out a $7.99/month Extra Member Add-On for US Max subscribers, about two years after Netflix made a similar move to crack down on password sharing &lpar;Tony Maglio/The Hollywood Reporter&rpar;](http://www.techmeme.com/250422/p24#a250422p24)
  - [OpenAI tells judge it would buy Chrome from Google](https://www.theverge.com/news/653882/openai-chrome-google-us-judge)
  - [Tesla’s revenue and profits tank amid political chaos](https://www.theverge.com/news/653645/tesla-q1-earnings-2025-revenue-profit-elon-musk)
  - [Here’s All the Health and Human Services Data DOGE Has Access To](https://www.wired.com/story/doge-data-access-hhs/)
- - [Researcher: the official SDK JS library for interacting with the XRP Ledger, with 140K+ weekly downloads, was compromised; XRP Ledger Foundation says it&#39;s fixed &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250422/p23#a250422p23)
- - [China tariff war worries and more: What to expect from Apple&#39;s Q2 2025 earnings](https://appleinsider.com/articles/25/04/22/china-tariff-war-worries-and-more-what-to-expect-from-apples-q2-2025-earnings?utm_medium=rss)<!-- TECH:END -->
+ - [Review: McDonald&#39;s Minecraft Meals Feature The Hottest Nugget Sauce Ever](https://www.cnet.com/tech/gaming/mcdonalds-minecraft-meals-with-hottest-nugget-sauce-ever-nether-flame-sauce-only-month-left/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Top KitchenAid Promo Codes and Coupons](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
+ - [Flipkart plans to shift its holding company from Singapore to India as Walmart aims to take it public; Flipkart moved the entity to Singapore in 2011 &lpar;Kashish Tandon/Reuters&rpar;](http://www.techmeme.com/250422/p1#a250422p1)
  - [Getting started with ChatGPT&#39;s &#39;Work With Apps on macOS&#39; feature](https://appleinsider.com/articles/25/04/22/getting-started-with-chatgpts-work-with-apps-on-macos-feature?utm_medium=rss)
  - [Third developer betas of iOS 18.5, macOS 15.5 seeded to testers](https://appleinsider.com/articles/25/04/21/third-developer-betas-of-ios-185-macos-155-seeded-to-testers?utm_medium=rss)
- - [Q&amp;A with Verizon consumer CEO Sowmyanarayan Sampath on why net neutrality &quot;has gone literally nowhere&quot;, owning Yahoo, FCC probes over DEI, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250421/p22#a250421p22)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, April 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-april-22/#ftag=CAD590a51e)
- - [Here’s where can try to preorder the Nintendo Switch 2 later this week](https://www.theverge.com/tech/24342715/nintendo-switch-2-preorder-price-release-date-availability-how-to-buy)<!-- TECH:END -->
+ - [Q&amp;A with Verizon consumer CEO Sowmyanarayan Sampath on why net neutrality &quot;has gone literally nowhere&quot;, owning Yahoo, FCC probes over DEI, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250421/p22#a250421p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

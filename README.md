@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Millionaire preacher for next Pope](http://9gag.com/gag/axyO0BY)
- - 😝 [Damn..](http://9gag.com/gag/aRBveLQ)
- - 💣 [Life was good back then](http://9gag.com/gag/aqyxbdM)
- - 😝 [Dad recorded his daughter every week for 20 years](http://9gag.com/gag/a348jGm)
- - 👉 [Change my mind.](http://9gag.com/gag/a9ymA0W)<!-- MEMES:END -->
+ - 😝 [Life was good back then](http://9gag.com/gag/aqyxbdM)
+ - 😝 [What my friend sents me in the 3rd month of his residency. He says this has been quite a common occurrence., and the patients are mostly male.](http://9gag.com/gag/a9ymrpj)
+ - 💣 [Damn..](http://9gag.com/gag/aRBveLQ)
+ - 😝 [Klaus Schwab is out. This guys is in.](http://9gag.com/gag/awyOX18)
+ - 👉 [Millionaire preacher for next Pope](http://9gag.com/gag/axyO0BY)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Floor tiles suddenly shattering inside a room](http://9gag.com/gag/aGyGR96)
- - 😝 [View from below](http://9gag.com/gag/aryxOM0)
- - 💣 [Meanwhile in London, man arrested by 5 cops and facing jail time for &#39;aggravated communication&#39; and &#39;illegal offensive use of speech&#39; on X](http://9gag.com/gag/aByE3vD)
- - 😝 [Life was good back then](http://9gag.com/gag/aqyxbdM)
- - 👉 [Dad recorded his daughter every week for 20 years](http://9gag.com/gag/a348jGm)<!-- MEMES:END -->
+ - 😝 [Best role for Cruise, Spacey, Paltrow and DeVito](http://9gag.com/gag/aGyG0KZ)
+ - 😝 [Used 100% of his brain...](http://9gag.com/gag/aZZENpz)
+ - 💣 [If you are swimming and see a large circle of bubbles forming around you, get out of there as soon as possible](http://9gag.com/gag/a5QzZ8N)
+ - 😝 [Bullying](http://9gag.com/gag/a4PAj5d)
+ - 👉 [The pope had to go right on Easter](http://9gag.com/gag/aYQMKo2)<!-- MEMES:END -->
 
 ---
 

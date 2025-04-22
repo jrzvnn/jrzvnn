@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Whoops](http://9gag.com/gag/abAxb98)
+ - 😝 [Change my mind.](http://9gag.com/gag/a9ymA0W)
+ - 💣 [Easter Day in Rotterdam, Netherlands](http://9gag.com/gag/aPAeG2G)
  - 😝 [Damn..](http://9gag.com/gag/aRBveLQ)
- - 😝 [What my friend sents me in the 3rd month of his residency. He says this has been quite a common occurrence., and the patients are mostly male.](http://9gag.com/gag/a9ymrpj)
- - 💣 [Simple as that](http://9gag.com/gag/axyOVpW)
- - 😝 [Potty training in Dubai?](http://9gag.com/gag/a5QznMr)
- - 👉 [Easter Day in Rotterdam, Netherlands](http://9gag.com/gag/aPAeG2G)<!-- MEMES:END -->
+ - 👉 [Simple as that](http://9gag.com/gag/axyOVpW)<!-- MEMES:END -->
 
 ---
 

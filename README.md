@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [BBB told Apple to modify or discontinue certain Apple Intelligence feature claims](https://appleinsider.com/articles/25/04/22/bbb-told-apple-to-modify-or-discontinue-certain-apple-intelligence-feature-claims?utm_medium=rss)
+ - [Bethesda officially unveils Oblivion Remastered, launching today](https://www.theverge.com/news/649795/the-elder-scrolls-iv-oblivion-remastered-release-date)
  - [Several VCs say they fear Trump&#39;s tariffs could slow down tech investments, further decelerate the market for IPOs, and put some tech startups out of business &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250422/p10#a250422p10)
  - [Apple drops ‘available now’ from Apple Intelligence page](https://www.theverge.com/news/653413/apple-intelligence-available-now-advertising-claim)
- - [4chan Is Dead. Its Toxic Legacy Is Everywhere](https://www.wired.com/story/4chan-is-dead-its-toxic-legacy-is-everywhere/)
- - [How AI is reshaping wildlife conservation — for better or worse](https://www.theverge.com/ai-artificial-intelligence/653322/ai-wildlife-conservation)
- - [FTC v. Meta live: the latest from the battle over Instagram and WhatsApp](https://www.theverge.com/news/646809/ftc-v-meta-antitrust-monopoly-trial-instagram-whatsapp)<!-- TECH:END -->
+ - [4chan Is Dead. Its Toxic Legacy Is Everywhere](https://www.wired.com/story/4chan-is-dead-its-toxic-legacy-is-everywhere/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

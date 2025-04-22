@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We do live in a strange timeline.](http://9gag.com/gag/aAyMD6d)
- - 😝 [Potty training in Dubai?](http://9gag.com/gag/a5QznMr)
- - 💣 [Whoops](http://9gag.com/gag/abAxb98)
- - 😝 [Mr Flow](http://9gag.com/gag/a87e8EV)
- - 👉 [What my friend sents me in the 3rd month of his residency. He says this has been quite a common occurrence., and the patients are mostly male.](http://9gag.com/gag/a9ymrpj)<!-- MEMES:END -->
+ - 😝 [Millionaire preacher for next Pope](http://9gag.com/gag/axyO0BY)
+ - 😝 [View from below](http://9gag.com/gag/aryxOM0)
+ - 💣 [Simple as that](http://9gag.com/gag/axyOVpW)
+ - 😝 [Easter Day in Rotterdam, Netherlands](http://9gag.com/gag/aPAeG2G)
+ - 👉 [This one brings joy. FAFO! US cops at it!](http://9gag.com/gag/aNDBKR0)<!-- MEMES:END -->
 
 ---
 

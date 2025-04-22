@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Washington Post will now let ChatGPT summarize its articles](https://www.theverge.com/news/653500/the-washington-post-openai-chatgpt-partnership)
+ - [Tariffs not stopping Americans from wanting new iPhones with Apple Intelligence](https://appleinsider.com/articles/25/04/22/tariffs-not-stopping-americans-from-wanting-new-iphones-with-apple-intelligence?utm_medium=rss)
  - [BBB told Apple to modify or discontinue certain Apple Intelligence feature claims](https://appleinsider.com/articles/25/04/22/bbb-told-apple-to-modify-or-discontinue-certain-apple-intelligence-feature-claims?utm_medium=rss)
  - [Bethesda officially reveals Oblivion Remastered, available today](https://www.theverge.com/news/649795/the-elder-scrolls-iv-oblivion-remastered-release-date)
- - [Several VCs say they fear Trump&#39;s tariffs could slow down tech investments, further decelerate the market for IPOs, and put some tech startups out of business &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250422/p10#a250422p10)
- - [Apple drops ‘available now’ from Apple Intelligence page](https://www.theverge.com/news/653413/apple-intelligence-available-now-advertising-claim)
- - [4chan Is Dead. Its Toxic Legacy Is Everywhere](https://www.wired.com/story/4chan-is-dead-its-toxic-legacy-is-everywhere/)<!-- TECH:END -->
+ - [Several VCs say they fear Trump&#39;s tariffs could slow down tech investments, further decelerate the market for IPOs, and put some tech startups out of business &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250422/p10#a250422p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

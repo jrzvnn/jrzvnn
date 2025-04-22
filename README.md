@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [View from below](http://9gag.com/gag/aryxOM0)
- - 😝 [In China, for affordable prices, people can rent an entire mall after closing hours for soft gel wars.](http://9gag.com/gag/azxOrWb)
- - 💣 [Whoops](http://9gag.com/gag/abAxb98)
- - 😝 [Life was good back then](http://9gag.com/gag/aqyxbdM)
- - 👉 [Too many such examples](http://9gag.com/gag/a6ZBbRe)<!-- MEMES:END -->
+ - 😝 [Liberals will say it&#39;s a fake.](http://9gag.com/gag/ae9xe0Q)
+ - 😝 [Used 100% of his brain...](http://9gag.com/gag/aZZENpz)
+ - 💣 [Bullying](http://9gag.com/gag/a4PAj5d)
+ - 😝 [The pope had to go right on Easter](http://9gag.com/gag/aYQMKo2)
+ - 👉 [My favorite mug](http://9gag.com/gag/aQzme7w)<!-- MEMES:END -->
 
 ---
 

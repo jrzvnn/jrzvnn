@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We do live in a strange timeline.](http://9gag.com/gag/aAyMD6d)
  - 😝 [I&#39;m telling you, this meme&#39;s BONKOS!](http://9gag.com/gag/aGyGe1K)
- - 💣 [Change my mind.](http://9gag.com/gag/a9ymA0W)
  - 😝 [Damn..](http://9gag.com/gag/aRBveLQ)
- - 👉 [What my friend sents me in the 3rd month of his residency. He says this has been quite a common occurrence., and the patients are mostly male.](http://9gag.com/gag/a9ymrpj)<!-- MEMES:END -->
+ - 💣 [View from below](http://9gag.com/gag/aryxOM0)
+ - 😝 [Simple as that](http://9gag.com/gag/axyOVpW)
+ - 👉 [Potty training in Dubai?](http://9gag.com/gag/a5QznMr)<!-- MEMES:END -->
 
 ---
 

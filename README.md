@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don\u2019t Eat Them!](http://9gag.com/gag/a87e87p)
- - 😝 [She&#39;s like a gem among a bunch of pebbles...](http://9gag.com/gag/aAyMDOR)
- - 💣 [New eu requirement for mobile phones](http://9gag.com/gag/a1mVQj2)
- - 😝 [Change my mind](http://9gag.com/gag/aD2bx8K)
+ - 😝 [Life was good back then](http://9gag.com/gag/aqyxbdM)
+ - 😝 [Damn..](http://9gag.com/gag/aRBveLQ)
+ - 💣 [In 2019, CCTV footage captured a mysterious man saving a person&#39;s life just in time by tapping on his shoulder and briefly telling him to look out. The mysterious man was never seen again.](http://9gag.com/gag/aMVzAvx)
+ - 😝 [Remember, they are allowed to vote too.](http://9gag.com/gag/ae9x6xj)
  - 👉 [That zoom was diabolical](http://9gag.com/gag/avyxOEZ)<!-- MEMES:END -->
 
 ---

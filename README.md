@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Used 100% of his brain...](http://9gag.com/gag/aZZENpz)
- - 😝 [Bullying](http://9gag.com/gag/a4PAj5d)
- - 💣 [The pope had to go right on Easter](http://9gag.com/gag/aYQMKo2)
- - 😝 [All aboard the 30s trains!](http://9gag.com/gag/azxOr2Z)
- - 👉 [Popen&#39;t](http://9gag.com/gag/a348735)<!-- MEMES:END -->
+ - 😝 [Simple as that](http://9gag.com/gag/axyOVpW)
+ - 😝 [Life was good back then](http://9gag.com/gag/aqyxbdM)
+ - 💣 [Whoops](http://9gag.com/gag/abAxb98)
+ - 😝 [What my friend sents me in the 3rd month of his residency. He says this has been quite a common occurrence., and the patients are mostly male.](http://9gag.com/gag/a9ymrpj)
+ - 👉 [Not even hold hands?](http://9gag.com/gag/aryxNOX)<!-- MEMES:END -->
 
 ---
 

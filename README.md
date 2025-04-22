@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best role for Cruise, Spacey, Paltrow and DeVito](http://9gag.com/gag/aGyG0KZ)
- - 😝 [Used 100% of his brain...](http://9gag.com/gag/aZZENpz)
- - 💣 [If you are swimming and see a large circle of bubbles forming around you, get out of there as soon as possible](http://9gag.com/gag/a5QzZ8N)
- - 😝 [Bullying](http://9gag.com/gag/a4PAj5d)
- - 👉 [The pope had to go right on Easter](http://9gag.com/gag/aYQMKo2)<!-- MEMES:END -->
+ - 😝 [Floor tiles suddenly shattering inside a room](http://9gag.com/gag/aGyGR96)
+ - 😝 [Rich country in 1895](http://9gag.com/gag/aXP7AB6)
+ - 💣 [Sometimes you don&#39;t know what you&#39;ve got till it&#39;s gone](http://9gag.com/gag/aByEwp2)
+ - 😝 [What my friend sents me in the 3rd month of his residency. He says this has been quite a common occurrence., and the patients are mostly male.](http://9gag.com/gag/a9ymrpj)
+ - 👉 [Too many such examples](http://9gag.com/gag/a6ZBbRe)<!-- MEMES:END -->
 
 ---
 

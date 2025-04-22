@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Docs: in July 2024, Amazon set up Project Greenland to manage and optimize GPU allocation across its retail unit; Amazon says it now has &quot;ample&quot; GPU capacity &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/250422/p9#a250422p9)
+ - [How to keep your data safe when you travel](https://www.theverge.com/the-vergecast/653243/data-privacy-borders-travel-big-tech-streaming)
  - [How to Responsibly Dispose of Your Electronics &lpar;2025&rpar;](https://www.wired.com/story/how-to-responsibly-dispose-electronics/)
  - [T-Mobile is shuffling its high-end plans](https://www.theverge.com/news/652616/t-mobile-experience-more-beyond-unlimited-plans)
- - [Insta360’s new 360-degree action cam lets you replace damaged lenses](https://www.theverge.com/news/652785/insta360-x5-action-camera-replaceable-lens)
- - [How Apple&#39;s new Machine Learning research will help Apple Intelligence get smarter](https://appleinsider.com/articles/25/04/22/how-apples-new-machine-learning-research-will-help-apple-intelligence-get-smarter?utm_medium=rss)
- - [Best Kitchen Composters &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/home-composters-buying-guide/)<!-- TECH:END -->
+ - [Insta360’s new 360-degree action cam lets you replace damaged lenses](https://www.theverge.com/news/652785/insta360-x5-action-camera-replaceable-lens)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

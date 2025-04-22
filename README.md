@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SAP reports Q1 cloud revenue up 26% YoY to €4.99B, vs. €5.05B est., and adjusted operating income up 58% to €2.5B, beating estimates; SAP jumps 9%+ after hours &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/250422/p25#a250422p25)
  - [Google is scrapping its planned changes for third-party cookies in Chrome](https://www.theverge.com/news/653964/google-privacy-sandbox-plans-scrapped-third-party-cookies)
  - [Tesla is making progress on its 1950s diner and drive-in](https://www.theverge.com/news/653959/tesla-1950s-diner-drive-in-near-complete-los-angeles)
  - [Elon Musk says he’ll step back from DOGE starting in May](https://www.theverge.com/news/653928/elon-musk-doge-step-back-tesla-earnings)
- - [After Tesla&#39;s Earnings Slide, Pressure&#39;s on for Cybercab](https://www.wired.com/story/tesla-earnings-cybercab/)
- - [Best Graduation Gifts for College Grads in 2025](https://www.cnet.com/news/best-college-graduation-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [After Tesla&#39;s Earnings Slide, Pressure&#39;s on for Cybercab](https://www.wired.com/story/tesla-earnings-cybercab/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Boss finds out you lied on your resume](http://9gag.com/gag/awyOQAx)
- - 😝 [Simple as that](http://9gag.com/gag/axyOVpW)
- - 💣 [Whoops](http://9gag.com/gag/abAxb98)
+ - 😝 [Too many such examples](http://9gag.com/gag/a6ZBbRe)
+ - 💣 [Damn..](http://9gag.com/gag/aRBveLQ)
  - 😝 [What my friend sents me in the 3rd month of his residency. He says this has been quite a common occurrence., and the patients are mostly male.](http://9gag.com/gag/a9ymrpj)
- - 👉 [Easter Day in Rotterdam, Netherlands](http://9gag.com/gag/aPAeG2G)<!-- MEMES:END -->
+ - 👉 [Robbery attempt in Poland](http://9gag.com/gag/a9ymAjL)<!-- MEMES:END -->
 
 ---
 

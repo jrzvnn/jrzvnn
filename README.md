@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What my friend sents me in the 3rd month of his residency. He says this has been quite a common occurrence., and the patients are mostly male.](http://9gag.com/gag/a9ymrpj)
  - 😝 [Change my mind.](http://9gag.com/gag/a9ymA0W)
- - 💣 [View from below](http://9gag.com/gag/aryxOM0)
- - 😝 [Potty training in Dubai?](http://9gag.com/gag/a5QznMr)
- - 👉 [Simple as that](http://9gag.com/gag/axyOVpW)<!-- MEMES:END -->
+ - 😝 [Simple as that](http://9gag.com/gag/axyOVpW)
+ - 💣 [Afraid of what?](http://9gag.com/gag/aAyMd0L)
+ - 😝 [What my friend sents me in the 3rd month of his residency. He says this has been quite a common occurrence., and the patients are mostly male.](http://9gag.com/gag/a9ymrpj)
+ - 👉 [Damn..](http://9gag.com/gag/aRBveLQ)<!-- MEMES:END -->
 
 ---
 

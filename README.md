@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple pursuing idea of an all-screen iPhone with a wrap around display](https://appleinsider.com/articles/21/10/05/apple-pursuing-idea-of-an-iphone-with-a-wrap-around-display?utm_medium=rss)
- - [Windows 11 can be squeezed onto an iPad Air, with big caveats](https://appleinsider.com/articles/25/04/22/developer-squeezes-windows-11-onto-an-ipad-air?utm_medium=rss)
- - [He Built Memecoin Factory Pump.Fun. Did He Make a Small Fortune Dumping His Own Shitcoins as a Teen?](https://www.wired.com/story/pumpfun-founder-memecoin-rugpulls-teen/)
- - [Supabase, an open-source alternative to Google&#39;s Firebase that&#39;s used by 2M+ developers, raises $200M Series D at $2B valuation &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250422/p20#a250422p20)
- - [The 8 Best Earth Day Deals of 2025](https://www.wired.com/story/earth-day-deals-2025/)<!-- TECH:END -->
+ - [DOJ v. Google: an OpenAI exec says Google declined to let OpenAI access its search index; a DOJ remedy proposal would make Google share its index with rivals &lpar;Bloomberg&rpar;](http://www.techmeme.com/250422/p21#a250422p21)
+ - [Teen Coder Shuts Down Free Mac App Whisky, Encourages Supporting the Paid Alternative](https://www.wired.com/story/teen-coder-shuts-down-open-source-mac-app-whisky/)
+ - [Bluesky Introduces Blue Checkmarks and New Verification Methods](https://www.cnet.com/tech/services-and-software/bluesky-introduces-blue-checkmarks-and-new-verification-methods/#ftag=CAD590a51e)
+ - [Tech Clutter Overload: New CNET Survey Shows 31% of US Adults Hang On to Old Devices](https://www.cnet.com/tech/recycling-tech-survey-2025/#ftag=CAD590a51e)
+ - [Apple pursuing idea of an all-screen iPhone with a wrap around display](https://appleinsider.com/articles/21/10/05/apple-pursuing-idea-of-an-iphone-with-a-wrap-around-display?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

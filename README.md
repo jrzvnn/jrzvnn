@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Liberals will say it&#39;s a fake.](http://9gag.com/gag/ae9xe0Q)
- - 😝 [Used 100% of his brain...](http://9gag.com/gag/aZZENpz)
- - 💣 [Bullying](http://9gag.com/gag/a4PAj5d)
- - 😝 [The pope had to go right on Easter](http://9gag.com/gag/aYQMKo2)
- - 👉 [My favorite mug](http://9gag.com/gag/aQzme7w)<!-- MEMES:END -->
+ - 😝 [Easter Day in Rotterdam, Netherlands](http://9gag.com/gag/aPAeG2G)
+ - 😝 [View from below](http://9gag.com/gag/aryxOM0)
+ - 💣 [Subaru Saves](http://9gag.com/gag/a4PAdvZ)
+ - 😝 [Robbery attempt in Poland](http://9gag.com/gag/a9ymAjL)
+ - 👉 [True romance is in the simple things](http://9gag.com/gag/aryxb2V)<!-- MEMES:END -->
 
 ---
 

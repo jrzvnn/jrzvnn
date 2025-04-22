@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple pursuing idea of an all-screen iPhone with a wrap around display](https://appleinsider.com/articles/21/10/05/apple-pursuing-idea-of-an-iphone-with-a-wrap-around-display?utm_medium=rss)
+ - [Windows 11 can be squeezed onto an iPad Air, with big caveats](https://appleinsider.com/articles/25/04/22/developer-squeezes-windows-11-onto-an-ipad-air?utm_medium=rss)
+ - [He Built Memecoin Factory Pump.Fun. Did He Make a Small Fortune Dumping His Own Shitcoins as a Teen?](https://www.wired.com/story/pumpfun-founder-memecoin-rugpulls-teen/)
  - [Supabase, an open-source alternative to Google&#39;s Firebase that&#39;s used by 2M+ developers, raises $200M Series D at $2B valuation &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250422/p20#a250422p20)
- - [The 8 Best Earth Day Deals of 2025](https://www.wired.com/story/earth-day-deals-2025/)
- - [Future MacBook keyboard could have customizable aluminum keys](https://appleinsider.com/articles/22/12/15/future-macbook-keyboard-could-have-customizable-aluminum-keys?utm_medium=rss)
- - [MacBook shipments soared in early 2025 over tariff fears](https://appleinsider.com/articles/25/04/22/macbook-shipments-soared-in-2025-but-tariffs-played-a-bigger-role?utm_medium=rss)
- - [Motorola Razr 60 Promo Pictures Leak Ahead of Announcement](https://www.cnet.com/tech/mobile/motorola-razr-60-promo-pictures-leak-ahead-of-announcement/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 8 Best Earth Day Deals of 2025](https://www.wired.com/story/earth-day-deals-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

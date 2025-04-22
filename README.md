@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snag Apple&#39;s M4 MacBook Air for $929 &amp; save $300 on Samsung 32&quot; M8 monitor &lpar;now $399&rpar;](https://appleinsider.com/articles/25/04/22/snag-apples-m4-macbook-air-for-929-save-300-on-samsung-32-m8-monitor-now-399?utm_medium=rss)
- - [The US DOJ says Google backed off more restrictive Gemini distribution deals, partly due to its case; Google says rivals talked to Samsung about chatbot deals &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/250422/p11#a250422p11)
- - [The Washington Post will now let ChatGPT summarize its articles](https://www.theverge.com/news/653500/the-washington-post-openai-chatgpt-partnership)
- - [Tariffs not stopping Americans from wanting new iPhones with Apple Intelligence](https://appleinsider.com/articles/25/04/22/tariffs-not-stopping-americans-from-wanting-new-iphones-with-apple-intelligence?utm_medium=rss)
- - [Social Media Apps Blamed by Many Teens for Mental Health Struggles](https://www.cnet.com/tech/services-and-software/social-media-apps-blamed-by-many-teens-for-mental-health-struggles/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Boeing agrees to sell parts of its digital aviation unit, including software maker Jeppesen and navigation app ForeFlight, to Thoma Bravo for $10.55B in cash &lpar;Financial Times&rpar;](http://www.techmeme.com/250422/p13#a250422p13)
+ - [Apple offers visionOS support to the Godot game engine](https://appleinsider.com/articles/25/04/22/apple-offers-visionos-support-to-the-godot-game-engine?utm_medium=rss)
+ - [NAD told Apple to modify or discontinue certain Apple Intelligence feature claims](https://appleinsider.com/articles/25/04/22/bbb-told-apple-to-modify-or-discontinue-certain-apple-intelligence-feature-claims?utm_medium=rss)
+ - [Global PC shipments rose 6.7% YoY in Q1 2025 driven by anticipation of US tariffs and growing adoption of AI PCs; Apple rose 17% YoY and Lenovo jumped 11% YoY &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250422/p12#a250422p12)
+ - [The EPA cracked down on Tesla and SpaceX. Then Elon Musk and DOGE took over.](https://www.theverge.com/environment/652767/elon-musk-trump-tesla-spacex-epa-enforcement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

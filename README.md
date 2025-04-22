@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Responsibly Dispose of Your Electronics &lpar;2025&rpar;](https://www.wired.com/story/how-to-responsibly-dispose-electronics/)
+ - [T-Mobile is shuffling its high-end plans](https://www.theverge.com/news/652616/t-mobile-experience-more-beyond-unlimited-plans)
+ - [Insta360’s new 360-degree action cam lets you replace damaged lenses](https://www.theverge.com/news/652785/insta360-x5-action-camera-replaceable-lens)
  - [How Apple&#39;s new Machine Learning research will help Apple Intelligence get smarter](https://appleinsider.com/articles/25/04/22/how-apples-new-machine-learning-research-will-help-apple-intelligence-get-smarter?utm_medium=rss)
- - [Best Kitchen Composters &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/home-composters-buying-guide/)
- - [A survey of US teens and parents: 48% of teens say social media harms people their age, up from 32% in 2022, and girls&#39; experiences skew more negative at times &lpar;Pew Research Center&rpar;](http://www.techmeme.com/250422/p8#a250422p8)
- - [Manychat, which offers social messaging tools for brands, raised a $140M Series B led by Summit, after an $18M Series A in 2019, and says it has ~1.5M customers &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250422/p7#a250422p7)
- - [How to Buy Ethical and Eco-Friendly Electronics &lpar;2025&rpar;](https://www.wired.com/story/how-to-buy-ethical-and-eco-friendly-electronics/)<!-- TECH:END -->
+ - [Best Kitchen Composters &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/home-composters-buying-guide/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

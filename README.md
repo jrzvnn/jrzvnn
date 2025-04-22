@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 17e may be nearing test production ahead of a 2026 launch](https://appleinsider.com/articles/25/04/22/iphone-17e-may-be-nearing-test-production-ahead-of-a-2026-launch?utm_medium=rss)
+ - [Nvidia&amp;#8217;s GPU drivers are a mess](https://www.theverge.com/news/653115/nvidia-gpu-drivers-black-screen-crashes-issues)
  - [7 Best Eco-Friendly Cleaning Products &lpar;2025&rpar;](https://www.wired.com/gallery/best-eco-friendly-cleaning-products/)
  - [Investors Worry Trump’s Tariffs Could Cause a ‘World of Hurt’ for Startups](https://www.wired.com/story/tariffs-startups-ipo-investments/)
- - [Uber users can now earn miles with Delta Air Lines](https://www.theverge.com/news/652755/uber-delta-sky-miles-earn-trips-eats)
- - [Pinterest is prompting teens to close the app at school](https://www.theverge.com/news/653094/pinterest-school-hours-prompt-minors-focus)
- - [How to Buy Used or Refurbished Electronics &lpar;2025&rpar;](https://www.wired.com/story/how-to-buy-refurbished-electronics/)<!-- TECH:END -->
+ - [Uber users can now earn miles with Delta Air Lines](https://www.theverge.com/news/652755/uber-delta-sky-miles-earn-trips-eats)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

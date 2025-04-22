@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Human vs. dog](http://9gag.com/gag/aD2bG6O)
- - 😝 [Liberals will say it&#39;s a fake.](http://9gag.com/gag/ae9xe0Q)
- - 💣 [This is so beautiful](http://9gag.com/gag/aAyMx32)
- - 😝 [Don\u2019t Eat Them!](http://9gag.com/gag/a87e87p)
- - 👉 [Perfectly balanced, as all things should be.](http://9gag.com/gag/aZZEgzQ)<!-- MEMES:END -->
+ - 😝 [What my friend sents me in the 3rd month of his residency. He says this has been quite a common occurrence., and the patients are mostly male.](http://9gag.com/gag/a9ymrpj)
+ - 😝 [Change my mind.](http://9gag.com/gag/a9ymA0W)
+ - 💣 [View from below](http://9gag.com/gag/aryxOM0)
+ - 😝 [Potty training in Dubai?](http://9gag.com/gag/a5QznMr)
+ - 👉 [Simple as that](http://9gag.com/gag/axyOVpW)<!-- MEMES:END -->
 
 ---
 

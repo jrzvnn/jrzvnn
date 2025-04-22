@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Life was good back then](http://9gag.com/gag/aqyxbdM)
  - 😝 [Millionaire preacher for next Pope](http://9gag.com/gag/axyO0BY)
- - 💣 [What my friend sents me in the 3rd month of his residency. He says this has been quite a common occurrence., and the patients are mostly male.](http://9gag.com/gag/a9ymrpj)
- - 😝 [Klaus Schwab is out. This guys is in.](http://9gag.com/gag/awyOX18)
- - 👉 [How to kill your tourism industry, American edition: Two German teen girls were arrested, strip-searched, detained in a deportation facility and deported to Japan while backpacking in Hawaii, despite having ESTA travel authorization.](http://9gag.com/gag/aryxgR5)<!-- MEMES:END -->
+ - 😝 [Life was good back then](http://9gag.com/gag/aqyxbdM)
+ - 💣 [How to kill your tourism industry, American edition: Two German teen girls were arrested, strip-searched, detained in a deportation facility and deported to Japan while backpacking in Hawaii, despite having ESTA travel authorization.](http://9gag.com/gag/aryxgR5)
+ - 😝 [Uber Driver blues](http://9gag.com/gag/a7o9D8e)
+ - 👉 [Damn..](http://9gag.com/gag/aRBveLQ)<!-- MEMES:END -->
 
 ---
 

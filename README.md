@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Used 100% of his brain...](http://9gag.com/gag/aZZENpz)
- - 😝 [View from below](http://9gag.com/gag/aryxOM0)
- - 💣 [The pope had to go right on Easter](http://9gag.com/gag/aYQMKo2)
- - 😝 [All aboard the 30s trains!](http://9gag.com/gag/azxOr2Z)
- - 👉 [Popen&#39;t](http://9gag.com/gag/a348735)<!-- MEMES:END -->
+ - 😝 [Just going in blind](http://9gag.com/gag/a87e8XO)
+ - 😝 [This one brings joy. FAFO! US cops at it!](http://9gag.com/gag/aNDBKR0)
+ - 💣 [Easter Day in Rotterdam, Netherlands](http://9gag.com/gag/aPAeG2G)
+ - 😝 [Robbery attempt in Poland](http://9gag.com/gag/a9ymAjL)
+ - 👉 [Life was good back then](http://9gag.com/gag/aqyxbdM)<!-- MEMES:END -->
 
 ---
 

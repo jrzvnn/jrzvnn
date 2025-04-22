@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Verizon consumer CEO Sowmyanarayan Sampath on why net neutrality &quot;has gone literally nowhere&quot;, owning Yahoo, FCC probes over DEI, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250421/p22#a250421p22)
  - [Here’s where can try to preorder the Nintendo Switch 2 later this week](https://www.theverge.com/tech/24342715/nintendo-switch-2-preorder-price-release-date-availability-how-to-buy)
  - [Crypto casinos rival traditional betting groups in scale despite being illegal in most countries, with $81.4B in gross gaming revenue in 2024, up 5x since 2022 &lpar;Marianna Giusti/Financial Times&rpar;](http://www.techmeme.com/250421/p21#a250421p21)
  - [Lyrids Meteor Shower Peaking Tuesday: Get Outside and Watch the Fireballs](https://www.cnet.com/science/lyrids-meteor-shower-peaking-tuesday-get-outside-and-watch-the-fireballs/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 22, #211](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-22-211/#ftag=CAD590a51e)
- - [Bluesky starts rolling out blue check verification, initially limiting verification to select organizations and its moderation team &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/250421/p20#a250421p20)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 22, #211](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-22-211/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

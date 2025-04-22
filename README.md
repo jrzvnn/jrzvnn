@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US v. Google: OpenAI&#39;s ChatGPT chief, Nick Turley, says the company would be interested in buying Chrome from Google if a federal court orders it to be spun off &lpar;Bloomberg&rpar;](http://www.techmeme.com/250422/p26#a250422p26)
  - [SAP reports Q1 cloud revenue up 26% YoY to €4.99B, vs. €5.05B est., and adjusted operating income up 58% to €2.5B, beating estimates; SAP jumps 9%+ after hours &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/250422/p25#a250422p25)
  - [Google is scrapping its planned changes for third-party cookies in Chrome](https://www.theverge.com/news/653964/google-privacy-sandbox-plans-scrapped-third-party-cookies)
  - [Tesla is making progress on its 1950s diner and drive-in](https://www.theverge.com/news/653959/tesla-1950s-diner-drive-in-near-complete-los-angeles)
- - [Elon Musk says he’ll step back from DOGE starting in May](https://www.theverge.com/news/653928/elon-musk-doge-step-back-tesla-earnings)
- - [After Tesla&#39;s Earnings Slide, Pressure&#39;s on for Cybercab](https://www.wired.com/story/tesla-earnings-cybercab/)<!-- TECH:END -->
+ - [Get Up to $1,250 Toward Your Next Trip With the Chase Sapphire Preferred&#39;s Limited-Time 100K Bonus](https://www.cnet.com/personal-finance/credit-cards/get-up-to-1250-toward-your-next-trip-with-the-chase-sapphire-preferreds-limited-time-100k-bonus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

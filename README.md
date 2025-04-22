@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Manychat, which offers social messaging tools for brands, raised a $140M Series B led by Summit, after an $18M Series A in 2019, and says it has ~1.5M customers &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250422/p7#a250422p7)
+ - [How to Buy Ethical and Eco-Friendly Electronics &lpar;2025&rpar;](https://www.wired.com/story/how-to-buy-ethical-and-eco-friendly-electronics/)
  - [iPhone 17e may be nearing test production ahead of a 2026 launch](https://appleinsider.com/articles/25/04/22/iphone-17e-may-be-nearing-test-production-ahead-of-a-2026-launch?utm_medium=rss)
  - [Nvidia&amp;#8217;s GPU drivers are a mess](https://www.theverge.com/news/653115/nvidia-gpu-drivers-black-screen-crashes-issues)
- - [7 Best Eco-Friendly Cleaning Products &lpar;2025&rpar;](https://www.wired.com/gallery/best-eco-friendly-cleaning-products/)
- - [Investors Worry Trump’s Tariffs Could Cause a ‘World of Hurt’ for Startups](https://www.wired.com/story/tariffs-startups-ipo-investments/)
- - [Uber users can now earn miles with Delta Air Lines](https://www.theverge.com/news/652755/uber-delta-sky-miles-earn-trips-eats)<!-- TECH:END -->
+ - [7 Best Eco-Friendly Cleaning Products &lpar;2025&rpar;](https://www.wired.com/gallery/best-eco-friendly-cleaning-products/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whoops](http://9gag.com/gag/abAxb98)
- - 😝 [Easter Day in Rotterdam, Netherlands](http://9gag.com/gag/aPAeG2G)
+ - 😝 [What my friend sents me in the 3rd month of his residency. He says this has been quite a common occurrence., and the patients are mostly male.](http://9gag.com/gag/a9ymrpj)
+ - 😝 [We do live in a strange timeline.](http://9gag.com/gag/aAyMD6d)
  - 💣 [Simple as that](http://9gag.com/gag/axyOVpW)
  - 😝 [This one brings joy. FAFO! US cops at it!](http://9gag.com/gag/aNDBKR0)
- - 👉 [Potty training in Dubai?](http://9gag.com/gag/a5QznMr)<!-- MEMES:END -->
+ - 👉 [Damn..](http://9gag.com/gag/aRBveLQ)<!-- MEMES:END -->
 
 ---
 

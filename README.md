@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 8 Best Earth Day Deals of 2025](https://www.wired.com/story/earth-day-deals-2025/)
  - [Future MacBook keyboard could have customizable aluminum keys](https://appleinsider.com/articles/22/12/15/future-macbook-keyboard-could-have-customizable-aluminum-keys?utm_medium=rss)
  - [MacBook shipments soared in early 2025 over tariff fears](https://appleinsider.com/articles/25/04/22/macbook-shipments-soared-in-2025-but-tariffs-played-a-bigger-role?utm_medium=rss)
  - [New Siri chief is replacing existing teams with Vision Pro staffers](https://appleinsider.com/articles/25/04/22/new-siri-chief-is-replacing-existing-teams-with-vision-pro-staffers?utm_medium=rss)
- - [Google Fi is launching a $35 / month unlimited plan](https://www.theverge.com/news/653244/google-fi-unlimited-essentials-plan)
- - [FTC v. Meta: Instagram co-founder Kevin Systrom testifies that &quot;Mark was not investing in Instagram because he believed we were a threat to their growth&quot; &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/250422/p19#a250422p19)<!-- TECH:END -->
+ - [Google Fi is launching a $35 / month unlimited plan](https://www.theverge.com/news/653244/google-fi-unlimited-essentials-plan)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

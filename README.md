@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla’s revenue and profits tank amid political chaos](https://www.theverge.com/news/653645/tesla-q1-earnings-2025-revenue-profit-elon-musk)
+ - [Researcher: the official SDK JS library for interacting with the XRP Ledger, with 140K+ weekly downloads, was compromised; XRP Ledger Foundation says it&#39;s fixed &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250422/p23#a250422p23)
  - [China tariff war worries and more: What to expect from Apple&#39;s Q2 2025 earnings](https://appleinsider.com/articles/25/04/22/china-tariff-war-worries-and-more-what-to-expect-from-apples-q2-2025-earnings?utm_medium=rss)
  - [Nissan&amp;#8217;s GT-R set to return by 2030 as a plug-in hybrid](https://www.theverge.com/news/653822/nissan-r36-gt-r-plug-in-hybrid)
- - [SK Telecom, South Korea&#39;s largest telecom, says hackers accessed USIM-related customer info, potentially useful in SIM swap attacks and targeted surveillance &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250422/p22#a250422p22)
- - [The Oscars officially don’t care if films use AI](https://www.theverge.com/news/653504/oscars-film-award-rule-change-ai)
- - [The US hikes tariffs on solar products from Asia](https://www.theverge.com/news/653750/tariffs-solar-us-china-southeast-asia)<!-- TECH:END -->
+ - [SK Telecom, South Korea&#39;s largest telecom, says hackers accessed USIM-related customer info, potentially useful in SIM swap attacks and targeted surveillance &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250422/p22#a250422p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

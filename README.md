@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Change my mind.](http://9gag.com/gag/a9ymA0W)
- - 😝 [Simple as that](http://9gag.com/gag/axyOVpW)
- - 💣 [Afraid of what?](http://9gag.com/gag/aAyMd0L)
- - 😝 [What my friend sents me in the 3rd month of his residency. He says this has been quite a common occurrence., and the patients are mostly male.](http://9gag.com/gag/a9ymrpj)
- - 👉 [Damn..](http://9gag.com/gag/aRBveLQ)<!-- MEMES:END -->
+ - 😝 [He think he can get away because he&#39;s a minor](http://9gag.com/gag/a1mVoe2)
+ - 😝 [That zoom was diabolical](http://9gag.com/gag/avyxOEZ)
+ - 💣 [Perfectly balanced, as all things should be.](http://9gag.com/gag/aZZEgzQ)
+ - 😝 [Don\u2019t Eat Them!](http://9gag.com/gag/a87e87p)
+ - 👉 [We want him as next Pope without any ifs or buts. Bishop Athanasius Schneider speaks very clearly: `They are not refugees, they are invaders who want to Islamize Europe. They want to destroy historical culture in Europe.\u201d](http://9gag.com/gag/a87epnZ)<!-- MEMES:END -->
 
 ---
 

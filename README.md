@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Life was good back then](http://9gag.com/gag/aqyxbdM)
- - 😝 [Dad recorded his daughter every week for 20 years](http://9gag.com/gag/a348jGm)
- - 💣 [What my friend sents me in the 3rd month of his residency. He says this has been quite a common occurrence., and the patients are mostly male.](http://9gag.com/gag/a9ymrpj)
- - 😝 [Damn..](http://9gag.com/gag/aRBveLQ)
- - 👉 [How to kill your tourism industry, American edition: Two German teen girls were arrested, strip-searched, detained in a deportation facility and deported to Japan while backpacking in Hawaii, despite having ESTA travel authorization.](http://9gag.com/gag/aryxgR5)<!-- MEMES:END -->
+ - 😝 [Don\u2019t Eat Them!](http://9gag.com/gag/a87e87p)
+ - 😝 [She&#39;s like a gem among a bunch of pebbles...](http://9gag.com/gag/aAyMDOR)
+ - 💣 [New eu requirement for mobile phones](http://9gag.com/gag/a1mVQj2)
+ - 😝 [Change my mind](http://9gag.com/gag/aD2bx8K)
+ - 👉 [That zoom was diabolical](http://9gag.com/gag/avyxOEZ)<!-- MEMES:END -->
 
 ---
 

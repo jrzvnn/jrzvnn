@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shes lucky, she can skip school](http://9gag.com/gag/aVvZDYn)
  - 😝 [Millionaire preacher for next Pope](http://9gag.com/gag/axyO0BY)
- - 💣 [Potty training in Dubai?](http://9gag.com/gag/a5QznMr)
- - 😝 [That zoom was diabolical](http://9gag.com/gag/avyxOEZ)
- - 👉 [Damn..](http://9gag.com/gag/aRBveLQ)<!-- MEMES:END -->
+ - 😝 [Easter Day in Rotterdam, Netherlands](http://9gag.com/gag/aPAeG2G)
+ - 💣 [Shes lucky, she can skip school](http://9gag.com/gag/aVvZDYn)
+ - 😝 [Simple as that](http://9gag.com/gag/axyOVpW)
+ - 👉 [Whoops](http://9gag.com/gag/abAxb98)<!-- MEMES:END -->
 
 ---
 

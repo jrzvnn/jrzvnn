@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Floor tiles suddenly shattering inside a room](http://9gag.com/gag/aGyGR96)
- - 😝 [Sometimes you don&#39;t know what you&#39;ve got till it&#39;s gone](http://9gag.com/gag/aByEwp2)
- - 💣 [Too many such examples](http://9gag.com/gag/a6ZBbRe)
+ - 😝 [View from below](http://9gag.com/gag/aryxOM0)
+ - 😝 [In China, for affordable prices, people can rent an entire mall after closing hours for soft gel wars.](http://9gag.com/gag/azxOrWb)
+ - 💣 [Whoops](http://9gag.com/gag/abAxb98)
  - 😝 [Life was good back then](http://9gag.com/gag/aqyxbdM)
- - 👉 [Damn..](http://9gag.com/gag/aRBveLQ)<!-- MEMES:END -->
+ - 👉 [Too many such examples](http://9gag.com/gag/a6ZBbRe)<!-- MEMES:END -->
 
 ---
 

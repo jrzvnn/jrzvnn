@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Millionaire preacher for next Pope](http://9gag.com/gag/axyO0BY)
- - 😝 [Easter Day in Rotterdam, Netherlands](http://9gag.com/gag/aPAeG2G)
- - 💣 [Shes lucky, she can skip school](http://9gag.com/gag/aVvZDYn)
- - 😝 [Simple as that](http://9gag.com/gag/axyOVpW)
- - 👉 [Whoops](http://9gag.com/gag/abAxb98)<!-- MEMES:END -->
+ - 😝 [Human vs. dog](http://9gag.com/gag/aD2bG6O)
+ - 😝 [Liberals will say it&#39;s a fake.](http://9gag.com/gag/ae9xe0Q)
+ - 💣 [This is so beautiful](http://9gag.com/gag/aAyMx32)
+ - 😝 [Don\u2019t Eat Them!](http://9gag.com/gag/a87e87p)
+ - 👉 [Perfectly balanced, as all things should be.](http://9gag.com/gag/aZZEgzQ)<!-- MEMES:END -->
 
 ---
 

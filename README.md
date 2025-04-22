@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China tariff war worries and more: What to expect from Apple&#39;s Q2 2025 earnings](https://appleinsider.com/articles/25/04/22/china-tariff-war-worries-and-more-what-to-expect-from-apples-q2-2025-earnings?utm_medium=rss)
+ - [Nissan&amp;#8217;s GT-R set to return by 2030 as a plug-in hybrid](https://www.theverge.com/news/653822/nissan-r36-gt-r-plug-in-hybrid)
  - [SK Telecom, South Korea&#39;s largest telecom, says hackers accessed USIM-related customer info, potentially useful in SIM swap attacks and targeted surveillance &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250422/p22#a250422p22)
  - [The Oscars officially don’t care if films use AI](https://www.theverge.com/news/653504/oscars-film-award-rule-change-ai)
- - [The US hikes tariffs on solar products from Asia](https://www.theverge.com/news/653750/tariffs-solar-us-china-southeast-asia)
- - [Max Streaming Password Crackdown: $8 Extra Member Fee Rollout Begins](https://www.cnet.com/tech/services-and-software/max-streaming-password-crackdown-8-extra-member-fee-rollout-begins/#ftag=CAD590a51e)
- - [Best Internet Providers in Horseheads, New York](https://www.cnet.com/home/internet/best-internet-providers-in-horseheads-ny/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US hikes tariffs on solar products from Asia](https://www.theverge.com/news/653750/tariffs-solar-us-china-southeast-asia)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

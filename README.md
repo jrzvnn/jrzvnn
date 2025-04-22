@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A draft executive order sent to US agencies shows the Trump administration is considering issuing an order to create a policy integrating AI into K-12 education &lpar;Frances Vinall/Washington Post&rpar;](http://www.techmeme.com/250422/p6#a250422p6)
  - [Duolingo plans to add a chess course, which uses short puzzles to help learn the game, in beta on iOS in English in the coming weeks before an Android launch &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250422/p5#a250422p5)
  - [How to Buy Used or Refurbished Electronics &lpar;2025&rpar;](https://www.wired.com/story/how-to-buy-refurbished-electronics/)
  - [Sources: the US plans to push India to give Amazon, Walmart, and other US online retailers full access to its $125B e-commerce market, as part of tariff talks &lpar;Financial Times&rpar;](http://www.techmeme.com/250422/p4#a250422p4)
- - [The 7 Best Earth Day Deals of 2025](https://www.wired.com/story/earth-day-deals-2025/)
- - [Google rolls out opt-in Sensitive Content Warnings in Messages to blur nude images on Android; the System SafetyCore-powered content classification is on-device &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250422/p3#a250422p3)<!-- TECH:END -->
+ - [The 7 Best Earth Day Deals of 2025](https://www.wired.com/story/earth-day-deals-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

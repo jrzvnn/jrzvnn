@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTC v. Meta: Instagram co-founder Kevin Systrom testifies that &quot;Mark was not investing in Instagram because he believed we were a threat to their growth&quot; &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/250422/p19#a250422p19)
- - [Instagram launches Edits, a &quot;video creation app designed for creators&quot; intended to rival ByteDance&#39;s CapCut app, for free on iOS and Android &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250422/p18#a250422p18)
- - [In a reversal, Google says it won&#39;t roll out a new standalone third-party Chrome cookie prompt, meaning adtech companies can keep using related targeting tools &lpar;Ronan Shields/Digiday&rpar;](http://www.techmeme.com/250422/p17#a250422p17)
- - [Apple drops &quot;available now&quot; from an Apple Intelligence page featuring an AI-supercharged Siri and removes a Siri-related video, after the BBB nonprofit inquired &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250422/p16#a250422p16)
- - [Surprise! Xbox Game Pass Subscribers Can Play Oblivion Remastered Now](https://www.cnet.com/tech/services-and-software/surprise-xbox-game-pass-subscribers-can-play-oblivion-remastered-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Future MacBook keyboard could have customizable aluminum keys](https://appleinsider.com/articles/22/12/15/future-macbook-keyboard-could-have-customizable-aluminum-keys?utm_medium=rss)
+ - [MacBook shipments soared in early 2025 over tariff fears](https://appleinsider.com/articles/25/04/22/macbook-shipments-soared-in-2025-but-tariffs-played-a-bigger-role?utm_medium=rss)
+ - [New Siri chief is replacing existing teams with Vision Pro staffers](https://appleinsider.com/articles/25/04/22/new-siri-chief-is-replacing-existing-teams-with-vision-pro-staffers?utm_medium=rss)
+ - [Google Fi is launching a $35 / month unlimited plan](https://www.theverge.com/news/653244/google-fi-unlimited-essentials-plan)
+ - [FTC v. Meta: Instagram co-founder Kevin Systrom testifies that &quot;Mark was not investing in Instagram because he believed we were a threat to their growth&quot; &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/250422/p19#a250422p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

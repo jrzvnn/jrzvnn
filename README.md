@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Millionaire preacher for next Pope](http://9gag.com/gag/axyO0BY)
- - 😝 [View from below](http://9gag.com/gag/aryxOM0)
- - 💣 [Simple as that](http://9gag.com/gag/axyOVpW)
+ - 😝 [Whoops](http://9gag.com/gag/abAxb98)
  - 😝 [Easter Day in Rotterdam, Netherlands](http://9gag.com/gag/aPAeG2G)
- - 👉 [This one brings joy. FAFO! US cops at it!](http://9gag.com/gag/aNDBKR0)<!-- MEMES:END -->
+ - 💣 [Simple as that](http://9gag.com/gag/axyOVpW)
+ - 😝 [This one brings joy. FAFO! US cops at it!](http://9gag.com/gag/aNDBKR0)
+ - 👉 [Potty training in Dubai?](http://9gag.com/gag/a5QznMr)<!-- MEMES:END -->
 
 ---
 

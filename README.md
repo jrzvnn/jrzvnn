@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Did Tim Cook finagle a special tariff deal? Senator Warren wants to know](https://www.theverge.com/news/654882/apple-tim-cook-tariff-deal-senator-warren)
  - [&#39;Sinners&#39; Proves Audiences Crave Sex, Vampires—and Fresh Ideas](https://www.wired.com/story/sinners-proves-audiences-crave-sex-vampires-and-fresh-ideas/)
  - [Perplexity wants to buy Chrome if Google has to sell it](https://www.theverge.com/policy/654835/perplexity-google-antitrust-trial-remedies-chrome)
  - [Tesla says it has started testing its autonomous ride-hailing service with employees in Austin and the Bay Area, and has completed 15,000 miles of driving &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250423/p50#a250423p50)
- - [Senator Warren asks if Apple CEO Tim Cook&#39;s Trump playbook is blatant corruption](https://appleinsider.com/articles/25/04/23/senator-warren-asks-if-apple-ceo-tim-cooks-trump-playbook-is-blatant-corruption?utm_medium=rss)
- - [TSMC plans to begin production with its A14 fabrication process in 2028 and an intermediary A16 chip process in late 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250423/p49#a250423p49)<!-- TECH:END -->
+ - [Senator Warren asks if Apple CEO Tim Cook&#39;s Trump playbook is blatant corruption](https://appleinsider.com/articles/25/04/23/senator-warren-asks-if-apple-ceo-tim-cooks-trump-playbook-is-blatant-corruption?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

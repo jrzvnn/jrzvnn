@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Cursor maker Anysphere has reached ~$300M in ARR and declined an acquisition offer from OpenAI, which now aims to buy rival Windsurf, with $100M in ARR &lpar;TechCrunch&rpar;](http://www.techmeme.com/250423/p5#a250423p5)
+ - [Source: ByteDance, Alibaba, and Tencent asked Nvidia to ship ~1M H20s, ideally by the end of May, but the actual number delivered fell short due to new US curbs &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250423/p4#a250423p4)
+ - [The Tech That Safeguards the Conclave’s Secrecy](https://www.wired.com/story/technology-used-to-shield-conclave-pope-francis/)
  - [A week after a hack, 4chan remains down, apparently pushed off the internet by rival hackers; its toxic legacy carries on across social platforms and culture &lpar;Ryan Broderick/Wired&rpar;](http://www.techmeme.com/250423/p3#a250423p3)
- - [Elon Musk says production of Tesla&#39;s humanoid robot, Optimus, is being affected by China&#39;s recent restrictions on exports of rare earth minerals used in magnets &lpar;Bloomberg&rpar;](http://www.techmeme.com/250423/p2#a250423p2)
- - [Surfshark Promo Codes: 86% Off | April 2025](https://www.wired.com/story/surfshark-coupon/)
- - [Adidas Promo Codes &amp; Deals: 15% Off](https://www.wired.com/story/adidas-promo-code/)
- - [Meta&#39;s Oversight Board says Meta&#39;s new speech policies were &quot;announced hastily&quot; in January and asks the company to assess the impact on vulnerable user groups &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250423/p1#a250423p1)<!-- TECH:END -->
+ - [Elon Musk says production of Tesla&#39;s humanoid robot, Optimus, is being affected by China&#39;s recent restrictions on exports of rare earth minerals used in magnets &lpar;Bloomberg&rpar;](http://www.techmeme.com/250423/p2#a250423p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

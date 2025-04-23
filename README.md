@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is the exact opposite of how eyes adjust to light](http://9gag.com/gag/aPAe9gG)
- - 😝 [How to kill your tourism industry, American edition: Two German teen girls were arrested, strip-searched, detained in a deportation facility and deported to Japan while backpacking in Hawaii, despite having ESTA travel authorization.](http://9gag.com/gag/aryxgR5)
- - 💣 [Change my mind.](http://9gag.com/gag/a9ymA0W)
+ - 😝 [In 2019, CCTV footage captured a mysterious man saving a person&#39;s life just in time by tapping on his shoulder and briefly telling him to look out. The mysterious man was never seen again.](http://9gag.com/gag/aMVzAvx)
+ - 😝 [Today&#39;s episode of `America` is just fire. United States Secretary of Homeland Security Kristi Noem had her purse stolen in a restaurant in DC. Inside was 3K in cash, her passport and her Homeland Security access card.](http://9gag.com/gag/aZZEgg0)
+ - 💣 [How to kill your tourism industry, American edition: Two German teen girls were arrested, strip-searched, detained in a deportation facility and deported to Japan while backpacking in Hawaii, despite having ESTA travel authorization.](http://9gag.com/gag/aryxgR5)
  - 😝 [Interrupting a street interview](http://9gag.com/gag/ajPxNAQ)
- - 👉 [Thicc](http://9gag.com/gag/aGyGjR7)<!-- MEMES:END -->
+ - 👉 [White Outside. Dead Inside!](http://9gag.com/gag/aYQMY92)<!-- MEMES:END -->
 
 ---
 

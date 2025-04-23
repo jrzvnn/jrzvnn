@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anker’s 4K outdoor projector looks and sounds great… on paper](https://www.theverge.com/news/654392/anker-x1-waterproof-4k-projector-satellite-speaker-price-specs)
  - [Perplexity’s AI voice assistant is now available on iOS](https://www.theverge.com/news/654946/perplexity-ai-mobile-assistant-ios-iphone)
  - [Sources: OpenAI aims to debut its next &quot;open&quot; model, which will be &quot;text in, text out&quot; and possibly let developers turn &quot;reasoning&quot; on and off, in early summer &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250423/p52#a250423p52)
  - [Anker’s first Thunderbolt 5 dock has a built-in power supply](https://www.theverge.com/news/654787/anker-prime-tb5-thunderbolt-5-dock)
- - [The White House says that fines on Apple and Meta by the EU are a &quot;novel form of economic extortion&quot; that the United States will not tolerate &lpar;Reuters&rpar;](http://www.techmeme.com/250423/p51#a250423p51)
- - [Did Tim Cook finagle a special tariff deal? Senator Warren wants to know](https://www.theverge.com/news/654882/apple-tim-cook-tariff-deal-senator-warren)<!-- TECH:END -->
+ - [The White House says that fines on Apple and Meta by the EU are a &quot;novel form of economic extortion&quot; that the United States will not tolerate &lpar;Reuters&rpar;](http://www.techmeme.com/250423/p51#a250423p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

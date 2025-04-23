@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Threads adds more ads](https://www.theverge.com/news/654048/meta-threads-ads-advertisers-globally)
- - [YouTube&amp;#8217;s TV changes include a redesign and more multiview](https://www.theverge.com/news/653916/youtube-tv-multiview-non-sports-content)
- - [How WBD rebuilt Max to focus on adult-oriented shows like The Pitt, dropping Netflix&#39;s &quot;more is better&quot; approach, and expects it to hit 150M subscribers in 2026 &lpar;Joe Flint/Wall Street Journal&rpar;](http://www.techmeme.com/250423/p32#a250423p32)
- - [Final Cut Pro support comes to Logitech MX Creative Console](https://appleinsider.com/articles/25/04/23/final-cut-pro-support-comes-to-logitech-mx-creative-console?utm_medium=rss)
- - [iPhone 16e had stronger demand than iPhone SE 3 did at launch](https://appleinsider.com/articles/25/04/23/iphone-16e-had-stronger-demand-than-iphone-se-3-did-at-launch?utm_medium=rss)<!-- TECH:END -->
+ - [How 2025’s surprise RPG hit lured some big-name stars](https://www.theverge.com/interview/653315/clair-obscur-expedition-33-rpg-interview-andy-serkis)
+ - [Sony’s new PS5 update brings back its classic console themes](https://www.theverge.com/news/654454/sony-ps5-update-classic-playstation-console-themes-audio-focus)
+ - [Meta rolls out live translations and other AI features to all Ray-Ban smart glasses, unveils new color lens combos, and plans an India, Mexico, and UAE debut &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/250423/p35#a250423p35)
+ - [Meta says it is opening Threads to all advertisers worldwide, but ads will only appear in select markets at launch, after testing ads in the US and others &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250423/p34#a250423p34)
+ - [Meta rolls out live translations to all Ray-Ban smart glasses users](https://www.theverge.com/news/654387/meta-smart-glasses-ray-ban-live-translation-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

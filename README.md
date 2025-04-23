@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ghost of Yōtei hits the PS5 in October](https://www.theverge.com/news/654227/ghost-of-yotei-ps5-release-date-trailer)
- - [In 2024, 62% of all child sexual abuse webpages found were traced to an EU country, and the Netherlands remains the most abused global location for hosting CSAM &lpar;IWF&rpar;](http://www.techmeme.com/250423/p21#a250423p21)
- - [Best MacBooks &lpar;2025&rpar;: Which Apple Laptop Should You Buy?](https://www.wired.com/story/which-macbook-should-you-buy/)
- - [Elon Musk says he’ll step back from DOGE starting in May](https://www.theverge.com/news/653928/elon-musk-doge-step-back-tesla-earnings)
- - [Character.AI unveils AvatarFX, a new AI video generation model in closed beta that animates characters in diverse styles and voices, including human-like and 2D &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250423/p20#a250423p20)<!-- TECH:END -->
+ - [Chainguard, which helps companies secure software supply chains, raised a $356M Series D led by Kleiner and IVP at a $3.5B valuation, up from $1.12B in 2024 &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250423/p25#a250423p25)
+ - [On the 20th birthday of its first video, YouTube says it has had 20T+ uploads, including 20M+ daily now, and unveils app and TV updates, including new Multiview &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250423/p24#a250423p24)
+ - [The Tariffs Are Coming For Baby Products](https://www.wired.com/story/tariffs-are-coming-for-baby-products/)
+ - [YouTube is everything and everything is YouTube](https://www.theverge.com/youtube/654240/youtube-future-creators-ai-music-content)
+ - [I used the &amp;#8216;cheat on everything&amp;#8217; AI tool and it didn&amp;#8217;t help me cheat on anything](https://www.theverge.com/ai-artificial-intelligence/654223/cheat-on-everything-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

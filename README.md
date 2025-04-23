@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We want him as next Pope without any ifs or buts. Bishop Athanasius Schneider speaks very clearly: `They are not refugees, they are invaders who want to Islamize Europe. They want to destroy historical culture in Europe.\u201d](http://9gag.com/gag/a87epnZ)
- - 😝 [Don\u2019t Eat Them!](http://9gag.com/gag/a87e87p)
- - 💣 [Just going in blind](http://9gag.com/gag/a87e8XO)
+ - 😝 [After the ship&#39;s captain slaughtered her family, scuttled the boat, and dinghied to safety,\u00a0Terry Jo Duperrault floated 84 hours on a piece of corkboard too small to lay down and without food, water, or shelter. This is the photo beginning the rescue.](http://9gag.com/gag/aQzm1pd)
  - 😝 [That zoom was diabolical](http://9gag.com/gag/avyxOEZ)
- - 👉 [In loving memory of the headphone jack.](http://9gag.com/gag/aPAeYbB)<!-- MEMES:END -->
+ - 💣 [Interrupting a street interview](http://9gag.com/gag/ajPxNAQ)
+ - 😝 [The innocence of Facebook people](http://9gag.com/gag/a4PAQr1)
+ - 👉 [Thicc](http://9gag.com/gag/aGyGjR7)<!-- MEMES:END -->
 
 ---
 

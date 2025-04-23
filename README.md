@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unfortunate airplane seating.](http://9gag.com/gag/a6ZBKLL)
  - 😝 [Learning self-defense!](http://9gag.com/gag/a1mVWdG)
+ - 😝 [Unfortunate airplane seating.](http://9gag.com/gag/a6ZBKLL)
  - 💣 [Dude just entered the cutscene](http://9gag.com/gag/aXP7x7z)
  - 😝 [What culture? The world you live in is our culture.](http://9gag.com/gag/avyx5Ln)
  - 👉 [Wholesome indeed](http://9gag.com/gag/a6ZBKM8)<!-- MEMES:END -->

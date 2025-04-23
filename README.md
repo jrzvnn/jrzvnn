@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nari Labs unveils Dia, a 1.6B parameter text-to-speech model designed to produce naturalistic dialogue directly from text prompts, built with &quot;zero funding&quot; &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250423/p10#a250423p10)
+ - [Finland Could Be the First Country in the World to Bury Nuclear Waste Permanently](https://www.wired.com/story/finland-is-developing-a-permanent-way-to-deal-with-spent-nuclear-fuel/)
  - [Elon Musk says he’ll step back from DOGE starting in May](https://www.theverge.com/news/653928/elon-musk-doge-step-back-tesla-earnings)
- - [Eli Lilly Sues 4 GLP-1 Telehealth Startups, Escalating War on Knockoff Drugs](https://www.wired.com/story/glp-1-compounding-fda-lawsuits/)
- - [This Artificial Wetland Is Reusing Wastewater to Revive a Lost Ecosystem](https://www.wired.com/story/this-artificial-wetland-is-reusing-wastewater-to-revive-a-lost-ecosystem/)
- - [Noxtua, which develops AI tech to research, analyze, and draft legal documents, raised an €80.7M Series B led by C.H. Beck, Germany&#39;s leading legal publisher &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/250423/p9#a250423p9)
- - [When to Replace Your Contact Lenses, and What Happens When They Expire](https://www.cnet.com/health/personal-care/when-replace-contact-lenses-what-happens-when-they-expire/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Clair Obscur: Expedition 33 Producer Talks Inspirations: FromSoftware, French Novels](https://www.cnet.com/tech/gaming/clair-obscur-expedition-33-producer-talks-whats-coming-in-the-french-jrpg/#ftag=CAD590a51e)
+ - [9 Tips for Starting Clair Obscur: Expedition 33](https://www.cnet.com/tech/gaming/9-tips-for-starting-clair-obscur-expedition-33/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

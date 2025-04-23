@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia announces the general availability of its NeMo platform to build AI agents, supporting Meta&#39;s Llama, Microsoft&#39;s Phi, Google&#39;s Gemma, and Mistral &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250423/p28#a250423p28)
  - [The Kindle Colorsoft, Amazon’s first color e-reader, is $55 off](https://www.theverge.com/tech/653291/kindle-colorsoft-signature-edition-amazon-book-sale-2025-deal)
  - [Endor Labs, which scans AI-generated code for vulnerabilities, raised a $93M Series B, taking its total funding to $163M, and says it performs 1M+ weekly scans &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250423/p27#a250423p27)
  - [Morel Biggie Bluetooth Speaker Review](https://www.wired.com/review/review-morel-biggie-bluetooth-speaker/)
- - [Microsoft launches new OpenAI-powered AI agents, Researcher and Analyst, designed to function as digital colleagues, available via its Agent Store &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/250423/p26#a250423p26)
- - [&#39;Wednesday&#39; Season 2 to Darken Screens This August, New Trailer Reveals](https://www.cnet.com/tech/services-and-software/wednesday-season-2-to-darken-screens-this-august-new-trailer-reveals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft launches new OpenAI-powered AI agents, Researcher and Analyst, designed to function as digital colleagues, available via its Agent Store &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/250423/p26#a250423p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

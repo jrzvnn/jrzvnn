@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Potty training in Dubai?](http://9gag.com/gag/a5QznMr)
- - 😝 [How to kill your tourism industry, American edition: Two German teen girls were arrested, strip-searched, detained in a deportation facility and deported to Japan while backpacking in Hawaii, despite having ESTA travel authorization.](http://9gag.com/gag/aryxgR5)
- - 💣 [When you hate your neighbour](http://9gag.com/gag/aAyMep9)
- - 😝 [The innocence of Facebook people](http://9gag.com/gag/a4PAQr1)
- - 👉 [Thicc](http://9gag.com/gag/aGyGjR7)<!-- MEMES:END -->
+ - 😝 [This what the inside of what a water heater looks like](http://9gag.com/gag/aZZE7Yn)
+ - 😝 [Interrupting a street interview](http://9gag.com/gag/ajPxNAQ)
+ - 💣 [Remember his dick memes](http://9gag.com/gag/axyO1bY)
+ - 😝 [Thicc](http://9gag.com/gag/aGyGjR7)
+ - 👉 [That zoom was diabolical](http://9gag.com/gag/avyxOEZ)<!-- MEMES:END -->
 
 ---
 

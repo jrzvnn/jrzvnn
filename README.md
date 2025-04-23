@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Trust No One](http://9gag.com/gag/a5Qzr6r)
  - 😝 [How to kill your tourism industry, American edition: Two German teen girls were arrested, strip-searched, detained in a deportation facility and deported to Japan while backpacking in Hawaii, despite having ESTA travel authorization.](http://9gag.com/gag/aryxgR5)
- - 💣 [Life was good back then](http://9gag.com/gag/aqyxbdM)
- - 😝 [The innocence of Facebook people](http://9gag.com/gag/a4PAQr1)
- - 👉 [10 years later : oh wait, she wasn\u2019t talking about tires being bald](http://9gag.com/gag/a2vDop1)<!-- MEMES:END -->
+ - 💣 [Potty training in Dubai?](http://9gag.com/gag/a5QznMr)
+ - 😝 [Life was good back then](http://9gag.com/gag/aqyxbdM)
+ - 👉 [A heated argument](http://9gag.com/gag/adBxXv9)<!-- MEMES:END -->
 
 ---
 

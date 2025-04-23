@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple and Meta hit with the EU&amp;#8217;s first DMA antitrust fines](https://www.theverge.com/news/627522/apple-meta-eu-dma-antitrust-fines)
- - [FTC v. Meta: the first two weeks have been like entering a time warp, focusing on long-dead apps like Path, underscoring the FTC&#39;s challenge in bringing a case &lpar;New York Times&rpar;](http://www.techmeme.com/250423/p15#a250423p15)
- - [Trump&#39;s chip tariffs may lead to even more overseas manufacturing to offset costs, not creating self-sufficiency; the US should focus on China&#39;s chip subsidies &lpar;Chris Miller/Financial Times&rpar;](http://www.techmeme.com/250423/p14#a250423p14)
- - [Samsung resumes its troubled One UI 7 rollout](https://www.theverge.com/news/654129/samsung-one-ui-7-rollout-resumes-globally)
- - [How Nike and US manufacturer Flex&#39;s plan to automate sneaker production in Guadalajara ran into trouble, with factory robots struggling to handle soft materials &lpar;Jon Emont/Wall Street Journal&rpar;](http://www.techmeme.com/250423/p13#a250423p13)<!-- TECH:END -->
+ - [Samsung resumes rolling out One UI 7, per users on Reddit, X, and forums, after pausing it earlier in April, bringing new icons, a new camera UI, and more &lpar;Hadlee Simons/Android Authority&rpar;](http://www.techmeme.com/250423/p16#a250423p16)
+ - [EU cuts Apple anti-competition fine to $570 million to avoid Trump retaliation](https://appleinsider.com/articles/25/04/23/eu-cuts-apple-anti-competition-fine-to-570-million-to-avoid-trump-retaliation?utm_medium=rss)
+ - [The 9 Best Pillows We Found After Months of Testing &lpar;2025&rpar;](https://www.wired.com/gallery/best-pillows/)
+ - [FTC v. Meta: the first two weeks have been like entering a time warp, focusing on long-dead apps like Path, underscoring the FTC&#39;s challenge in bringing a case &lpar;New York Times&rpar;](http://www.techmeme.com/250423/p15#a250423p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is so beautiful](http://9gag.com/gag/aAyMx32)
- - 😝 [Good boi\u2019s love](http://9gag.com/gag/a348wn3)
- - 💣 [In loving memory of the headphone jack.](http://9gag.com/gag/aPAeYbB)
  - 😝 [New eu requirement for mobile phones](http://9gag.com/gag/a1mVQj2)
- - 👉 [Unfortunate airplane seating.](http://9gag.com/gag/a6ZBKLL)<!-- MEMES:END -->
+ - 😝 [In loving memory of the headphone jack.](http://9gag.com/gag/aPAeYbB)
+ - 💣 [Good boi\u2019s love](http://9gag.com/gag/a348wn3)
+ - 😝 [Unfortunate airplane seating.](http://9gag.com/gag/a6ZBKLL)
+ - 👉 [Dude just entered the cutscene](http://9gag.com/gag/aXP7x7z)<!-- MEMES:END -->
 
 ---
 

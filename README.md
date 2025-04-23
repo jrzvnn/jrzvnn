@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This is the exact opposite of how eyes adjust to light](http://9gag.com/gag/aPAe9gG)
  - 😝 [How to kill your tourism industry, American edition: Two German teen girls were arrested, strip-searched, detained in a deportation facility and deported to Japan while backpacking in Hawaii, despite having ESTA travel authorization.](http://9gag.com/gag/aryxgR5)
- - 😝 [That zoom was diabolical](http://9gag.com/gag/avyxOEZ)
- - 💣 [Simple as that](http://9gag.com/gag/axyOVpW)
- - 😝 [Potty training in Dubai?](http://9gag.com/gag/a5QznMr)
- - 👉 [White Outside. Dead Inside!](http://9gag.com/gag/aYQMY92)<!-- MEMES:END -->
+ - 💣 [Change my mind.](http://9gag.com/gag/a9ymA0W)
+ - 😝 [Interrupting a street interview](http://9gag.com/gag/ajPxNAQ)
+ - 👉 [Thicc](http://9gag.com/gag/aGyGjR7)<!-- MEMES:END -->
 
 ---
 

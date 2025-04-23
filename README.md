@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Discord CEO Jason Citron is stepping down and will be succeeded by Humam Sakhnini, effective April 28; Citron will stay on the board and serve as a CEO advisor &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250423/p40#a250423p40)
+ - [Five years of Apple Silicon: How Apple continues to revolutionize chips](https://appleinsider.com/articles/25/04/23/five-years-of-apple-silicon-how-apple-continues-to-revolutionize-chips?utm_medium=rss)
+ - [Star Wars’ &#39;Andor&#39; Season 2 Depicts the Banality of American Fascism](https://www.wired.com/story/star-wars-andor-season-2-depicts-the-banality-of-american-fascism/)
  - [WhatsApp now lets you block people from exporting your entire chat history](https://www.theverge.com/news/654592/whatsapp-advanced-chat-privacy-block-exporting-chats)
- - [Nvidia updates its G-Assist AI chatbot, offering plugin and API support to let developers connect to external services and tools, such as Spotify and Gemini &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250423/p39#a250423p39)
- - [14 Best Deals From the Amazon Book Sale &lpar;2025&rpar;](https://www.wired.com/story/amazon-book-sale-2025/)
- - [Discord co-founder and CEO Jason Citron is stepping down](https://www.theverge.com/news/654594/discord-new-ceo-jason-citron-humam-sakhnini)
- - [Is Tesla on the Outs in China?](https://www.wired.com/story/uncanny-valley-podcast-tesla-china/)<!-- TECH:END -->
+ - [Nvidia updates its G-Assist AI chatbot, offering plugin and API support to let developers connect to external services and tools, such as Spotify and Gemini &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250423/p39#a250423p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

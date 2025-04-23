@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Learning self-defense!](http://9gag.com/gag/a1mVWdG)
- - 😝 [In loving memory of the headphone jack.](http://9gag.com/gag/aPAeYbB)
- - 💣 [This is so beautiful](http://9gag.com/gag/aAyMx32)
- - 😝 [New eu requirement for mobile phones](http://9gag.com/gag/a1mVQj2)
- - 👉 [Too many such examples](http://9gag.com/gag/a6ZBbRe)<!-- MEMES:END -->
+ - 😝 [This what the inside of what a water heater looks like](http://9gag.com/gag/aZZE7Yn)
+ - 😝 [Eh looks dangerous](http://9gag.com/gag/apRxpw9)
+ - 💣 [Life was good back then](http://9gag.com/gag/aqyxbdM)
+ - 😝 [Thicc](http://9gag.com/gag/aGyGjR7)
+ - 👉 [White Outside. Dead Inside!](http://9gag.com/gag/aYQMY92)<!-- MEMES:END -->
 
 ---
 

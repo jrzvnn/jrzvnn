@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [How to kill your tourism industry, American edition: Two German teen girls were arrested, strip-searched, detained in a deportation facility and deported to Japan while backpacking in Hawaii, despite having ESTA travel authorization.](http://9gag.com/gag/aryxgR5)
  - 😝 [That zoom was diabolical](http://9gag.com/gag/avyxOEZ)
- - 😝 [In 2019, CCTV footage captured a mysterious man saving a person&#39;s life just in time by tapping on his shoulder and briefly telling him to look out. The mysterious man was never seen again.](http://9gag.com/gag/aMVzAvx)
- - 💣 [Potty training in Dubai?](http://9gag.com/gag/a5QznMr)
- - 😝 [Use paper straws](http://9gag.com/gag/a6ZBoWA)
- - 👉 [Change my mind.](http://9gag.com/gag/a9ymA0W)<!-- MEMES:END -->
+ - 💣 [Simple as that](http://9gag.com/gag/axyOVpW)
+ - 😝 [Potty training in Dubai?](http://9gag.com/gag/a5QznMr)
+ - 👉 [White Outside. Dead Inside!](http://9gag.com/gag/aYQMY92)<!-- MEMES:END -->
 
 ---
 

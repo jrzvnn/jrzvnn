@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Logitech’s MX Creative Console now supports Figma and Adobe Lightroom](https://www.theverge.com/news/653708/logitech-mx-creative-console-adobe-lightroom-figma-davinci-resolve-affinity-photo)
  - [Study: models like OpenAI&#39;s o3 outperform expert virologists in wet lab problem-solving, which might accelerate research but could also be abused by bad actors &lpar;Andrew R. Chow/Time&rpar;](http://www.techmeme.com/250423/p7#a250423p7)
  - [UN says the ~$40B cybercrime call center industry, tied to East and Southeast Asian crime syndicates, is expanding globally to regions with weak governance &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/250423/p6#a250423p6)
  - [Sources: Cursor maker Anysphere has reached ~$300M in ARR and declined an acquisition offer from OpenAI, which now aims to buy rival Windsurf, with $100M in ARR &lpar;TechCrunch&rpar;](http://www.techmeme.com/250423/p5#a250423p5)
- - [Source: ByteDance, Alibaba, and Tencent asked Nvidia to ship ~1M H20s, ideally by the end of May, but the actual number delivered fell short due to new US curbs &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250423/p4#a250423p4)
- - [The Tech That Safeguards the Conclave’s Secrecy](https://www.wired.com/story/technology-used-to-shield-conclave-pope-francis/)<!-- TECH:END -->
+ - [Source: ByteDance, Alibaba, and Tencent asked Nvidia to ship ~1M H20s, ideally by the end of May, but the actual number delivered fell short due to new US curbs &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250423/p4#a250423p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

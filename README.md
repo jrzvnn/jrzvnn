@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Eli Lilly Sues 4 GLP-1 Telehealth Startups, Escalating War on Knockoff Drugs](https://www.wired.com/story/glp-1-compounding-fda-lawsuits/)
+ - [This Artificial Wetland Is Reusing Wastewater to Revive a Lost Ecosystem](https://www.wired.com/story/this-artificial-wetland-is-reusing-wastewater-to-revive-a-lost-ecosystem/)
  - [Noxtua, which develops AI tech to research, analyze, and draft legal documents, raised an €80.7M Series B led by C.H. Beck, Germany&#39;s leading legal publisher &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/250423/p9#a250423p9)
  - [A look at New Mexico&#39;s efforts to become a quantum computing hub through partnerships between the state, its universities, and national labs and companies &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250423/p8#a250423p8)
- - [How to Prepare for a Recession: 5 Money Rules Experts Recommend](https://www.cnet.com/personal-finance/banking/how-to-prepare-for-a-recession-5-money-rules-experts-recommend/#ftag=CAD590a51e)
- - [Logitech’s MX Creative Console now supports Figma and Adobe Lightroom](https://www.theverge.com/news/653708/logitech-mx-creative-console-adobe-lightroom-figma-davinci-resolve-affinity-photo)
- - [Study: models like OpenAI&#39;s o3 outperform expert virologists in wet lab problem-solving, which might accelerate research but could also be abused by bad actors &lpar;Andrew R. Chow/Time&rpar;](http://www.techmeme.com/250423/p7#a250423p7)<!-- TECH:END -->
+ - [How to Prepare for a Recession: 5 Money Rules Experts Recommend](https://www.cnet.com/personal-finance/banking/how-to-prepare-for-a-recession-5-money-rules-experts-recommend/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

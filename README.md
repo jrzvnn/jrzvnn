@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mantra&#39;s CEO begins burning $80M worth of his OM tokens and plans to burn $80M worth from partners, after a 90% collapse on April 13 erased $5B+ in market value &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/250422/p30#a250422p30)
  - [Source: Intel is set to announce plans this week to cut 20%+ of its staff, its first major restructuring under Lip-Bu Tan; it had 108,900 workers in Dec. 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250422/p29#a250422p29)
  - [Instagram co-founder: Zuckerberg saw us as a ‘threat’ to Facebook](https://www.theverge.com/policy/654069/instagram-co-founder-zuckerberg-saw-us-as-a-threat-to-facebook)
  - [Sources: Cantor&#39;s Brandon Lutnick, son of the US commerce secretary, seeks to form a $3B BTC acquisition vehicle with SoftBank, Tether, and Bitfinex as partners &lpar;Financial Times&rpar;](http://www.techmeme.com/250422/p28#a250422p28)
- - [Superpower, which uses AI for personalized health overviews and offers biannual lab testing that analyzes 100+ blood biomarkers, launches with a $30M Series A &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250422/p27#a250422p27)
- - [Xfinity Mobile Adds Premium Unlimited Plan With Twice-Yearly Device Upgrades](https://www.cnet.com/tech/mobile/xfinity-mobile-adds-premium-unlimited-plan-with-twice-yearly-device-upgrades/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Superpower, which uses AI for personalized health overviews and offers biannual lab testing that analyzes 100+ blood biomarkers, launches with a $30M Series A &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250422/p27#a250422p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

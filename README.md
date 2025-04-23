@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [13 Best Mattresses Online—We Slept on Them for At Least a Week &lpar;2025&rpar;](https://www.wired.com/gallery/best-mattresses/)
+ - [Sources: Amazon&#39;s Project Kuiper has completed just a few dozen satellites so far, far below the pace needed to reach the FCC&#39;s 1,618 deadline by July 2026 &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/250423/p19#a250423p19)
+ - [The EU isn&amp;#8217;t happy with Apple&amp;#8217;s tax on alternative app stores](https://www.theverge.com/news/636196/apple-eu-dma-probe-alternative-app-stores-tax)
  - [Nourish, which offers virtual, insurance-covered nutritional care from 3,000+ dietitians, raised a $70M Series B led by JPM, sources say at a $1B+ valuation &lpar;Rebecca Torrence/Business Insider&rpar;](http://www.techmeme.com/250423/p18#a250423p18)
- - [Geoffrey Hinton, other AI experts, and 10 former OpenAI staff, write to the CA and DE AGs opposing OpenAI&#39;s for-profit restructure, echoing Elon Musk&#39;s concerns &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/250423/p17#a250423p17)
- - [Muscle Memory Isn’t What You Think It Is](https://www.wired.com/story/book-excerpt-on-muscle-bonnie-tsui/)
- - [Nintendo Switch 2 Preorders: Everything You Need to Know](https://www.wired.com/story/nintendo-switch-2-buying-guide/)
- - [20 years ago, the first videos uploaded to YouTube were short and sweet](https://www.theverge.com/news/653899/youtube-video-20-year-anniversary-first-three-videos)<!-- TECH:END -->
+ - [Geoffrey Hinton, other AI experts, and 10 former OpenAI staff, write to the CA and DE AGs opposing OpenAI&#39;s for-profit restructure, echoing Elon Musk&#39;s concerns &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/250423/p17#a250423p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

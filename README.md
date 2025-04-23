@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon-owned Woot slashes Mac mini, iMac to as low as $369.99](https://appleinsider.com/articles/25/04/23/amazon-owned-woot-slashes-mac-mini-imac-to-as-low-as-36999?utm_medium=rss)
- - [OpenAI brings the tech behind the new ChatGPT image generator to its API, for $5/1M text input tokens, $10/1M image input tokens, and $40/1M image output tokens &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250423/p44#a250423p44)
- - [US v. Google: a Perplexity executive says Google&#39;s contract with Motorola blocked Perplexity from being the default AI assistant on new Motorola devices &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/250423/p43#a250423p43)
- - [Microsoft 365 Copilot&#39;s Business Version Gets ChatGPT 4o Image Generation](https://www.cnet.com/tech/services-and-software/microsoft-365-copilots-business-version-gets-chatgpt-4o-image-generation/#ftag=CAD590a51e)
- - [Hybrid Meat Is the Carnivore&#39;s Compromise. Here&#39;s What It Is and How to Make It](https://www.cnet.com/news/hybrid-meat-is-the-carnivores-compromise-heres-what-it-is-and-how-to-make-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Internal documents: several Google units have notified remote workers that their jobs will be in jeopardy if they don&#39;t show up at the office three days a week &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/250423/p47#a250423p47)
+ - [Lexus&amp;#8217; redesigned ES sedan can be electric or hybrid](https://www.theverge.com/news/654750/lexus-2026-es-350h-350e-550e-shanghai-ev)
+ - [IBM reports Q1 revenue up 0.6% YoY to $14.54B, vs. $14.4B est., software revenue up 7% to $6.34B, and maintains its full-year forecast &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250423/p46#a250423p46)
+ - [iRobot’s latest Roomba robot vacuum is great news for pet owners](https://www.theverge.com/news/654732/irobot-roomba-max-705-robot-vacuum-launches)
+ - [President Donald Trump will have dinner with the top 220 holders of the TRUMP memecoin on May 22, according to the memecoin&#39;s website; TRUMP jumps 40%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/250423/p45#a250423p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

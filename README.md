@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The innocence of Facebook people](http://9gag.com/gag/a4PAQr1)
- - 😝 [Millionaire preacher for next Pope](http://9gag.com/gag/axyO0BY)
- - 💣 [In 2019, CCTV footage captured a mysterious man saving a person&#39;s life just in time by tapping on his shoulder and briefly telling him to look out. The mysterious man was never seen again.](http://9gag.com/gag/aMVzAvx)
- - 😝 [A heated argument](http://9gag.com/gag/adBxXv9)
- - 👉 [Remember, they are allowed to vote too.](http://9gag.com/gag/ae9x6xj)<!-- MEMES:END -->
+ - 😝 [She&#39;s like a gem among a bunch of pebbles...](http://9gag.com/gag/aAyMDOR)
+ - 😝 [In loving memory of the headphone jack.](http://9gag.com/gag/aPAeYbB)
+ - 💣 [Don\u2019t Eat Them!](http://9gag.com/gag/a87e87p)
+ - 😝 [That zoom was diabolical](http://9gag.com/gag/avyxOEZ)
+ - 👉 [Just going in blind](http://9gag.com/gag/a87e8XO)<!-- MEMES:END -->
 
 ---
 

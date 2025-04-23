@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thicc](http://9gag.com/gag/aGyGjR7)
- - 😝 [Potty training in Dubai?](http://9gag.com/gag/a5QznMr)
- - 💣 [The innocence of Facebook people](http://9gag.com/gag/a4PAQr1)
- - 😝 [Interrupting a street interview](http://9gag.com/gag/ajPxNAQ)
- - 👉 [White Outside. Dead Inside!](http://9gag.com/gag/aYQMY92)<!-- MEMES:END -->
+ - 😝 [Didn&#39;t even see it coming](http://9gag.com/gag/aO89BA2)
+ - 😝 [But they say terroism has no religion!](http://9gag.com/gag/a348RdN)
+ - 💣 [In 2019, CCTV footage captured a mysterious man saving a person&#39;s life just in time by tapping on his shoulder and briefly telling him to look out. The mysterious man was never seen again.](http://9gag.com/gag/aMVzAvx)
+ - 😝 [Change my mind.](http://9gag.com/gag/a9ymA0W)
+ - 👉 [The innocence of Facebook people](http://9gag.com/gag/a4PAQr1)<!-- MEMES:END -->
 
 ---
 

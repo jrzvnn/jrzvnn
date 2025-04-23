@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Facepalm](http://9gag.com/gag/a9ymRmo)
- - 😝 [Paddy the Baddy](http://9gag.com/gag/axyO7eM)
- - 💣 [That zoom was diabolical](http://9gag.com/gag/avyxOEZ)
+ - 😝 [Interrupting a street interview](http://9gag.com/gag/ajPxNAQ)
+ - 😝 [Potty training in Dubai?](http://9gag.com/gag/a5QznMr)
+ - 💣 [How to kill your tourism industry, American edition: Two German teen girls were arrested, strip-searched, detained in a deportation facility and deported to Japan while backpacking in Hawaii, despite having ESTA travel authorization.](http://9gag.com/gag/aryxgR5)
  - 😝 [The innocence of Facebook people](http://9gag.com/gag/a4PAQr1)
- - 👉 [Thicc](http://9gag.com/gag/aGyGjR7)<!-- MEMES:END -->
+ - 👉 [That zoom was diabolical](http://9gag.com/gag/avyxOEZ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The White House says that fines on Apple and Meta by the EU are a &quot;novel form of economic extortion&quot; that the United States will not tolerate &lpar;Reuters&rpar;](http://www.techmeme.com/250423/p51#a250423p51)
  - [Did Tim Cook finagle a special tariff deal? Senator Warren wants to know](https://www.theverge.com/news/654882/apple-tim-cook-tariff-deal-senator-warren)
  - [&#39;Sinners&#39; Proves Audiences Crave Sex, Vampires—and Fresh Ideas](https://www.wired.com/story/sinners-proves-audiences-crave-sex-vampires-and-fresh-ideas/)
  - [Perplexity wants to buy Chrome if Google has to sell it](https://www.theverge.com/policy/654835/perplexity-google-antitrust-trial-remedies-chrome)
- - [Tesla says it has started testing its autonomous ride-hailing service with employees in Austin and the Bay Area, and has completed 15,000 miles of driving &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250423/p50#a250423p50)
- - [Senator Warren asks if Apple CEO Tim Cook&#39;s Trump playbook is blatant corruption](https://appleinsider.com/articles/25/04/23/senator-warren-asks-if-apple-ceo-tim-cooks-trump-playbook-is-blatant-corruption?utm_medium=rss)<!-- TECH:END -->
+ - [There Are 6 Internet Connection Types to Get Online. Here’s What You Need to Know](https://www.cnet.com/home/internet/what-are-the-different-internet-connection-types/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

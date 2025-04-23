@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 23, #212](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-23-212/#ftag=CAD590a51e)
- - [US v. Google: OpenAI&#39;s ChatGPT chief, Nick Turley, says the company would be interested in buying Chrome from Google if a federal court orders it to be spun off &lpar;Bloomberg&rpar;](http://www.techmeme.com/250422/p26#a250422p26)
- - [Trump Administration Delays Rural Broadband Program By 90 Days](https://www.cnet.com/home/internet/trump-administration-delays-rural-broadband-program-by-90-days/#ftag=CAD590a51e)
- - [SAP reports Q1 cloud revenue up 26% YoY to €4.99B, vs. €5.05B est., and adjusted operating income up 58% to €2.5B, beating estimates; SAP jumps 9%+ after hours &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/250422/p25#a250422p25)
- - [Google is scrapping its planned changes for third-party cookies in Chrome](https://www.theverge.com/news/653964/google-privacy-sandbox-plans-scrapped-third-party-cookies)<!-- TECH:END -->
+ - [Source: Intel is set to announce plans this week to cut 20%+ of its staff, its first major restructuring under Lip-Bu Tan; it had 108,900 workers in Dec. 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250422/p29#a250422p29)
+ - [Instagram co-founder: Zuckerberg saw us as a ‘threat’ to Facebook](https://www.theverge.com/policy/654069/instagram-co-founder-zuckerberg-saw-us-as-a-threat-to-facebook)
+ - [Sources: Cantor&#39;s Brandon Lutnick, son of the US commerce secretary, seeks to form a $3B BTC acquisition vehicle with SoftBank, Tether, and Bitfinex as partners &lpar;Financial Times&rpar;](http://www.techmeme.com/250422/p28#a250422p28)
+ - [Superpower, which uses AI for personalized health overviews and offers biannual lab testing that analyzes 100+ blood biomarkers, launches with a $30M Series A &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250422/p27#a250422p27)
+ - [Xfinity Mobile Adds Premium Unlimited Plan With Twice-Yearly Device Upgrades](https://www.cnet.com/tech/mobile/xfinity-mobile-adds-premium-unlimited-plan-with-twice-yearly-device-upgrades/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

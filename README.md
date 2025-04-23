@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta&#39;s Oversight Board says Meta&#39;s new speech policies were &quot;announced hastily&quot; in January and asks the company to assess the impact on vulnerable user groups &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250423/p1#a250423p1)
  - [A look at Huawei&#39;s smart driving software unit, which became profitable in 2024 after revenue grew over 5x and is powering car systems by BYD, BMW, and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/250422/p32#a250422p32)
  - [Bethesda, Maryland-based AuthMind, which offers observability-based identity protection services to enterprises, raised a $19.3M seed led by Cheyenne Ventures &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250422/p31#a250422p31)
  - [Today&#39;s NYT Mini Crossword Answers for Wednesday, April 23](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-april-23/#ftag=CAD590a51e)
- - [Mantra&#39;s CEO begins burning $80M worth of his OM tokens and plans to burn $80M worth from partners, after a 90% collapse on April 13 erased $5B+ in market value &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/250422/p30#a250422p30)
- - [Source: Intel is set to announce plans this week to cut 20%+ of its staff, its first major restructuring under Lip-Bu Tan; it had 108,900 workers in Dec. 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250422/p29#a250422p29)<!-- TECH:END -->
+ - [Mantra&#39;s CEO begins burning $80M worth of his OM tokens and plans to burn $80M worth from partners, after a 90% collapse on April 13 erased $5B+ in market value &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/250422/p30#a250422p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

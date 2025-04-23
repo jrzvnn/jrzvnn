@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon-owned Woot slashes Mac mini, iMac to as low as $369.99](https://appleinsider.com/articles/25/04/23/amazon-owned-woot-slashes-mac-mini-imac-to-as-low-as-36999?utm_medium=rss)
+ - [OpenAI brings the tech behind the new ChatGPT image generator to its API, for $5/1M text input tokens, $10/1M image input tokens, and $40/1M image output tokens &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250423/p44#a250423p44)
  - [US v. Google: a Perplexity executive says Google&#39;s contract with Motorola blocked Perplexity from being the default AI assistant on new Motorola devices &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/250423/p43#a250423p43)
  - [Documents: OpenAI told investors it expects revenues of $125B in 2029 and $174B in 2030, with sales from agents and other products exceeding those from ChatGPT &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250423/p42#a250423p42)
- - [PlayStation Classic Themes Are Returning to PS5 in Next Update](https://www.cnet.com/tech/gaming/playstation-classic-themes-are-returning-to-ps5-in-next-update/#ftag=CAD590a51e)
- - [Sharge’s transparent Shargeek 170 power bank is now only $99](https://www.theverge.com/tech/654590/shargeek-170-power-bank-elder-scrolls-oblivion-remastered-deal-sale)
- - [Source: Neuralink has begun preliminary discussions to raise about $500M at an $8.5B pre-money valuation; PitchBook: it was valued at $3.5B as of November 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250423/p41#a250423p41)<!-- TECH:END -->
+ - [PlayStation Classic Themes Are Returning to PS5 in Next Update](https://www.cnet.com/tech/gaming/playstation-classic-themes-are-returning-to-ps5-in-next-update/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

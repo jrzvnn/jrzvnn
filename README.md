@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk says he’ll step back from DOGE starting in May](https://www.theverge.com/news/653928/elon-musk-doge-step-back-tesla-earnings)
  - [Eli Lilly Sues 4 GLP-1 Telehealth Startups, Escalating War on Knockoff Drugs](https://www.wired.com/story/glp-1-compounding-fda-lawsuits/)
  - [This Artificial Wetland Is Reusing Wastewater to Revive a Lost Ecosystem](https://www.wired.com/story/this-artificial-wetland-is-reusing-wastewater-to-revive-a-lost-ecosystem/)
  - [Noxtua, which develops AI tech to research, analyze, and draft legal documents, raised an €80.7M Series B led by C.H. Beck, Germany&#39;s leading legal publisher &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/250423/p9#a250423p9)
- - [A look at New Mexico&#39;s efforts to become a quantum computing hub through partnerships between the state, its universities, and national labs and companies &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250423/p8#a250423p8)
- - [How to Prepare for a Recession: 5 Money Rules Experts Recommend](https://www.cnet.com/personal-finance/banking/how-to-prepare-for-a-recession-5-money-rules-experts-recommend/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [When to Replace Your Contact Lenses, and What Happens When They Expire](https://www.cnet.com/health/personal-care/when-replace-contact-lenses-what-happens-when-they-expire/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

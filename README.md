@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump Media partners with Crypto.com and Florida-based Yorkville America Digital to launch ETFs by the end of 2025, as it moves into financial services &lpar;Matthew Goldstein/New York Times&rpar;](http://www.techmeme.com/250423/p11#a250423p11)
  - [Nari Labs unveils Dia, a 1.6B parameter text-to-speech model designed to produce naturalistic dialogue directly from text prompts, built with &quot;zero funding&quot; &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250423/p10#a250423p10)
  - [Finland Could Be the First Country in the World to Bury Nuclear Waste Permanently](https://www.wired.com/story/finland-is-developing-a-permanent-way-to-deal-with-spent-nuclear-fuel/)
  - [Elon Musk says he’ll step back from DOGE starting in May](https://www.theverge.com/news/653928/elon-musk-doge-step-back-tesla-earnings)
- - [Clair Obscur: Expedition 33 Producer Talks Inspirations: FromSoftware, French Novels](https://www.cnet.com/tech/gaming/clair-obscur-expedition-33-producer-talks-whats-coming-in-the-french-jrpg/#ftag=CAD590a51e)
- - [9 Tips for Starting Clair Obscur: Expedition 33](https://www.cnet.com/tech/gaming/9-tips-for-starting-clair-obscur-expedition-33/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Clair Obscur: Expedition 33 Producer Talks Inspirations: FromSoftware, French Novels](https://www.cnet.com/tech/gaming/clair-obscur-expedition-33-producer-talks-whats-coming-in-the-french-jrpg/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

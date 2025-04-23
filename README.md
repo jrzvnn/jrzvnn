@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TSMC plans to begin production with its A14 fabrication process in 2028 and an intermediary A16 chip process in late 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250423/p49#a250423p49)
  - [New Jersey sues RealPage, accusing the property management software company and 10 of the state&#39;s largest landlords of conspiring to drive up residential rents &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250423/p48#a250423p48)
  - [Playing Oblivion for the first time is like opening an RPG time capsule](https://www.theverge.com/games-review/654770/oblivion-remaster-hands-on-xbox-gamepass-bethesda)
  - [Internal documents: several Google units have notified remote workers that their jobs will be in jeopardy if they don&#39;t show up at the office three days a week &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/250423/p47#a250423p47)
- - [Lexus&amp;#8217; redesigned ES sedan can be electric or hybrid](https://www.theverge.com/news/654750/lexus-2026-es-350h-350e-550e-shanghai-ev)
- - [IBM reports Q1 revenue up 0.6% YoY to $14.54B, vs. $14.4B est., software revenue up 7% to $6.34B, and maintains its full-year forecast &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250423/p46#a250423p46)<!-- TECH:END -->
+ - [Lexus&amp;#8217; redesigned ES sedan can be electric or hybrid](https://www.theverge.com/news/654750/lexus-2026-es-350h-350e-550e-shanghai-ev)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Court data: Google estimates its Gemini AI chatbot had 35M DAUs and 350M MAUs worldwide as of last month while ChatGPT had 160M DAUs and 600M MAUs &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/250423/p38#a250423p38)
  - [Predator: Badlands turns the tables in new trailer](https://www.theverge.com/news/654531/predator-badlands-trailer-release-date)
  - [For Scale](https://www.theverge.com/cs/features/653517/vietnam-war-casualties-cost-bombs-impact-scale)
  - [Listen Labs, which uses AI to conduct thousands of voice interviews simultaneously for customer research, raised $27M across a seed and Series A led by Sequoia &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/250423/p37#a250423p37)
- - [AI Is Spreading Old Stereotypes to New Languages and Cultures](https://www.wired.com/story/ai-bias-spreading-stereotypes-across-languages-and-cultures-margaret-mitchell/)
- - [Analysis: three X users who used to receive hundreds of thousands of views daily have seen their reach collapse after feuding with Elon Musk in December 2024 &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/250423/p36#a250423p36)<!-- TECH:END -->
+ - [AI Is Spreading Old Stereotypes to New Languages and Cultures](https://www.wired.com/story/ai-bias-spreading-stereotypes-across-languages-and-cultures-margaret-mitchell/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

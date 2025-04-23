@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Life was good back then](http://9gag.com/gag/aqyxbdM)
  - 😝 [10 years later : oh wait, she wasn\u2019t talking about tires being bald](http://9gag.com/gag/a2vDop1)
- - 💣 [The innocence of Facebook people](http://9gag.com/gag/a4PAQr1)
- - 😝 [This is the exact opposite of how eyes adjust to light](http://9gag.com/gag/aPAe9gG)
- - 👉 [How to kill your tourism industry, American edition: Two German teen girls were arrested, strip-searched, detained in a deportation facility and deported to Japan while backpacking in Hawaii, despite having ESTA travel authorization.](http://9gag.com/gag/aryxgR5)<!-- MEMES:END -->
+ - 😝 [Millionaire preacher for next Pope](http://9gag.com/gag/axyO0BY)
+ - 💣 [In 2019, CCTV footage captured a mysterious man saving a person&#39;s life just in time by tapping on his shoulder and briefly telling him to look out. The mysterious man was never seen again.](http://9gag.com/gag/aMVzAvx)
+ - 😝 [How to kill your tourism industry, American edition: Two German teen girls were arrested, strip-searched, detained in a deportation facility and deported to Japan while backpacking in Hawaii, despite having ESTA travel authorization.](http://9gag.com/gag/aryxgR5)
+ - 👉 [That zoom was diabolical](http://9gag.com/gag/avyxOEZ)<!-- MEMES:END -->
 
 ---
 

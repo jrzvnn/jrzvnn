@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Unfortunate airplane seating.](http://9gag.com/gag/a6ZBKLL)
- - 😝 [Dude just entered the cutscene](http://9gag.com/gag/aXP7x7z)
- - 💣 [Learning self-defense!](http://9gag.com/gag/a1mVWdG)
+ - 😝 [Learning self-defense!](http://9gag.com/gag/a1mVWdG)
+ - 💣 [Dude just entered the cutscene](http://9gag.com/gag/aXP7x7z)
  - 😝 [What culture? The world you live in is our culture.](http://9gag.com/gag/avyx5Ln)
- - 👉 [So that\u2019s why\u2026](http://9gag.com/gag/aRBvXzq)<!-- MEMES:END -->
+ - 👉 [Wholesome indeed](http://9gag.com/gag/a6ZBKM8)<!-- MEMES:END -->
 
 ---
 

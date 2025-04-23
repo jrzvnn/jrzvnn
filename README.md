@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oblivion Remastered Game Size Summarized](http://9gag.com/gag/a4PARYy)
- - 😝 [How to kill your tourism industry, American edition: Two German teen girls were arrested, strip-searched, detained in a deportation facility and deported to Japan while backpacking in Hawaii, despite having ESTA travel authorization.](http://9gag.com/gag/aryxgR5)
- - 💣 [Thicc](http://9gag.com/gag/aGyGjR7)
+ - 😝 [We want him as next Pope without any ifs or buts. Bishop Athanasius Schneider speaks very clearly: `They are not refugees, they are invaders who want to Islamize Europe. They want to destroy historical culture in Europe.\u201d](http://9gag.com/gag/a87epnZ)
+ - 😝 [Don\u2019t Eat Them!](http://9gag.com/gag/a87e87p)
+ - 💣 [Just going in blind](http://9gag.com/gag/a87e8XO)
  - 😝 [That zoom was diabolical](http://9gag.com/gag/avyxOEZ)
- - 👉 [Interrupting a street interview](http://9gag.com/gag/ajPxNAQ)<!-- MEMES:END -->
+ - 👉 [In loving memory of the headphone jack.](http://9gag.com/gag/aPAeYbB)<!-- MEMES:END -->
 
 ---
 

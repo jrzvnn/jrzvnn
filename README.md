@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Nike and US manufacturer Flex&#39;s plan to automate sneaker production in Guadalajara ran into trouble, with factory robots struggling to handle soft materials &lpar;Jon Emont/Wall Street Journal&rpar;](http://www.techmeme.com/250423/p13#a250423p13)
- - [Bad News for China: Rare Earth Elements Aren’t That Rare](https://www.wired.com/story/rare-earth-minerals-china-tariffs/)
- - [The EU Commission fines Apple €500M and Meta €200M under the DMA and issues cease-and-desist orders; Apple says it will appeal, and Meta says it likely would &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250423/p12#a250423p12)
- - [Trump Media partners with Crypto.com and Florida-based Yorkville America Digital to launch ETFs by the end of 2025, as it moves into financial services &lpar;Matthew Goldstein/New York Times&rpar;](http://www.techmeme.com/250423/p11#a250423p11)
- - [Nari Labs unveils Dia, a 1.6B parameter text-to-speech model designed to produce naturalistic dialogue directly from text prompts, built with &quot;zero funding&quot; &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250423/p10#a250423p10)<!-- TECH:END -->
+ - [Apple and Meta hit with the EU&amp;#8217;s first DMA antitrust fines](https://www.theverge.com/news/627522/apple-meta-eu-dma-antitrust-fines)
+ - [FTC v. Meta: the first two weeks have been like entering a time warp, focusing on long-dead apps like Path, underscoring the FTC&#39;s challenge in bringing a case &lpar;New York Times&rpar;](http://www.techmeme.com/250423/p15#a250423p15)
+ - [Trump&#39;s chip tariffs may lead to even more overseas manufacturing to offset costs, not creating self-sufficiency; the US should focus on China&#39;s chip subsidies &lpar;Chris Miller/Financial Times&rpar;](http://www.techmeme.com/250423/p14#a250423p14)
+ - [Samsung resumes its troubled One UI 7 rollout](https://www.theverge.com/news/654129/samsung-one-ui-7-rollout-resumes-globally)
+ - [How Nike and US manufacturer Flex&#39;s plan to automate sneaker production in Guadalajara ran into trouble, with factory robots struggling to handle soft materials &lpar;Jon Emont/Wall Street Journal&rpar;](http://www.techmeme.com/250423/p13#a250423p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

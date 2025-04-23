@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple and Meta hit with the EU&amp;#8217;s first DMA antitrust fines](https://www.theverge.com/news/627522/apple-meta-eu-dma-antitrust-fines)
- - [Samsung resumes rolling out One UI 7, per users on Reddit, X, and forums, after pausing it earlier in April, bringing new icons, a new camera UI, and more &lpar;Hadlee Simons/Android Authority&rpar;](http://www.techmeme.com/250423/p16#a250423p16)
- - [EU cuts Apple anti-competition fine to $570 million to avoid Trump retaliation](https://appleinsider.com/articles/25/04/23/eu-cuts-apple-anti-competition-fine-to-570-million-to-avoid-trump-retaliation?utm_medium=rss)
- - [The 9 Best Pillows We Found After Months of Testing &lpar;2025&rpar;](https://www.wired.com/gallery/best-pillows/)
- - [FTC v. Meta: the first two weeks have been like entering a time warp, focusing on long-dead apps like Path, underscoring the FTC&#39;s challenge in bringing a case &lpar;New York Times&rpar;](http://www.techmeme.com/250423/p15#a250423p15)<!-- TECH:END -->
+ - [Geoffrey Hinton, other AI experts, and 10 former OpenAI staff, write to the CA and DE AGs opposing OpenAI&#39;s for-profit restructure, echoing Elon Musk&#39;s concerns &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/250423/p17#a250423p17)
+ - [Muscle Memory Isn’t What You Think It Is](https://www.wired.com/story/book-excerpt-on-muscle-bonnie-tsui/)
+ - [Nintendo Switch 2 Preorders: Everything You Need to Know](https://www.wired.com/story/nintendo-switch-2-buying-guide/)
+ - [20 years ago, the first videos uploaded to YouTube were short and sweet](https://www.theverge.com/news/653899/youtube-video-20-year-anniversary-first-three-videos)
+ - [Apple and Meta hit with the EU&amp;#8217;s first DMA antitrust fines](https://www.theverge.com/news/627522/apple-meta-eu-dma-antitrust-fines)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

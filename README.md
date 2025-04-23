@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Life was good back then](http://9gag.com/gag/aqyxbdM)
- - 😝 [White Outside. Dead Inside!](http://9gag.com/gag/aYQMY92)
- - 💣 [Millionaire preacher for next Pope](http://9gag.com/gag/axyO0BY)
- - 😝 [That zoom was diabolical](http://9gag.com/gag/avyxOEZ)
- - 👉 [The innocence of Facebook people](http://9gag.com/gag/a4PAQr1)<!-- MEMES:END -->
+ - 😝 [Thicc](http://9gag.com/gag/aGyGjR7)
+ - 😝 [Potty training in Dubai?](http://9gag.com/gag/a5QznMr)
+ - 💣 [The innocence of Facebook people](http://9gag.com/gag/a4PAQr1)
+ - 😝 [Interrupting a street interview](http://9gag.com/gag/ajPxNAQ)
+ - 👉 [White Outside. Dead Inside!](http://9gag.com/gag/aYQMY92)<!-- MEMES:END -->
 
 ---
 

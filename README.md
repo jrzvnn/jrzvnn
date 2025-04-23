@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Learning self-defense!](http://9gag.com/gag/a1mVWdG)
- - 😝 [Unfortunate airplane seating.](http://9gag.com/gag/a6ZBKLL)
- - 💣 [Dude just entered the cutscene](http://9gag.com/gag/aXP7x7z)
- - 😝 [What culture? The world you live in is our culture.](http://9gag.com/gag/avyx5Ln)
- - 👉 [Wholesome indeed](http://9gag.com/gag/a6ZBKM8)<!-- MEMES:END -->
+ - 😝 [I think the guy is a millionarie by now.](http://9gag.com/gag/aO897D3)
+ - 😝 [Potty training in Dubai?](http://9gag.com/gag/a5QznMr)
+ - 💣 [Klaus Schwab is out. This guys is in.](http://9gag.com/gag/awyOX18)
+ - 😝 [In 2019, CCTV footage captured a mysterious man saving a person&#39;s life just in time by tapping on his shoulder and briefly telling him to look out. The mysterious man was never seen again.](http://9gag.com/gag/aMVzAvx)
+ - 👉 [This what the inside of what a water heater looks like](http://9gag.com/gag/aZZE7Yn)<!-- MEMES:END -->
 
 ---
 

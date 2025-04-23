@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: OpenAI aims to debut its next &quot;open&quot; model, which will be &quot;text in, text out&quot; and possibly let developers turn &quot;reasoning&quot; on and off, in early summer &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250423/p52#a250423p52)
+ - [Anker’s first Thunderbolt 5 dock has a built-in power supply](https://www.theverge.com/news/654787/anker-prime-tb5-thunderbolt-5-dock)
  - [The White House says that fines on Apple and Meta by the EU are a &quot;novel form of economic extortion&quot; that the United States will not tolerate &lpar;Reuters&rpar;](http://www.techmeme.com/250423/p51#a250423p51)
  - [Did Tim Cook finagle a special tariff deal? Senator Warren wants to know](https://www.theverge.com/news/654882/apple-tim-cook-tariff-deal-senator-warren)
- - [&#39;Sinners&#39; Proves Audiences Crave Sex, Vampires—and Fresh Ideas](https://www.wired.com/story/sinners-proves-audiences-crave-sex-vampires-and-fresh-ideas/)
- - [Perplexity wants to buy Chrome if Google has to sell it](https://www.theverge.com/policy/654835/perplexity-google-antitrust-trial-remedies-chrome)
- - [There Are 6 Internet Connection Types to Get Online. Here’s What You Need to Know](https://www.cnet.com/home/internet/what-are-the-different-internet-connection-types/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Sinners&#39; Proves Audiences Crave Sex, Vampires—and Fresh Ideas](https://www.wired.com/story/sinners-proves-audiences-crave-sex-vampires-and-fresh-ideas/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

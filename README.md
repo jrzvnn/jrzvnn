@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [After the ship&#39;s captain slaughtered her family, scuttled the boat, and dinghied to safety,\u00a0Terry Jo Duperrault floated 84 hours on a piece of corkboard too small to lay down and without food, water, or shelter. This is the photo beginning the rescue.](http://9gag.com/gag/aQzm1pd)
+ - 😝 [Interrupting a street interview](http://9gag.com/gag/ajPxNAQ)
  - 😝 [That zoom was diabolical](http://9gag.com/gag/avyxOEZ)
- - 💣 [Interrupting a street interview](http://9gag.com/gag/ajPxNAQ)
- - 😝 [The innocence of Facebook people](http://9gag.com/gag/a4PAQr1)
- - 👉 [Thicc](http://9gag.com/gag/aGyGjR7)<!-- MEMES:END -->
+ - 💣 [Thicc](http://9gag.com/gag/aGyGjR7)
+ - 😝 [White Outside. Dead Inside!](http://9gag.com/gag/aYQMY92)
+ - 👉 [Change my mind.](http://9gag.com/gag/a9ymA0W)<!-- MEMES:END -->
 
 ---
 

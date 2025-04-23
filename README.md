@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Discord co-founder and CEO Jason Citron is stepping down](https://www.theverge.com/news/654594/discord-new-ceo-jason-citron-humam-sakhnini)
+ - [Is Tesla on the Outs in China?](https://www.wired.com/story/uncanny-valley-podcast-tesla-china/)
+ - [Roku says its ads aren’t meant to be ‘interruptive’ after controversial test](https://www.theverge.com/tech/654389/roku-2025-event-ads-interview)
  - [Adobe and Figma tools are getting ChatGPT’s upgraded image generation model](https://www.theverge.com/news/654561/openai-chatgpt-image-generation-model-adobe-figma)
- - [The Old Guard sequel is coming to Netflix this July](https://www.theverge.com/netflix/654516/the-old-guard-2-premiere-date)
- - [Court data: Google estimates its Gemini AI chatbot had 35M DAUs and 350M MAUs worldwide as of last month while ChatGPT had 160M DAUs and 600M MAUs &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/250423/p38#a250423p38)
- - [Predator: Badlands turns the tables in new trailer](https://www.theverge.com/news/654531/predator-badlands-trailer-release-date)
- - [For Scale](https://www.theverge.com/cs/features/653517/vietnam-war-casualties-cost-bombs-impact-scale)<!-- TECH:END -->
+ - [The Old Guard sequel is coming to Netflix this July](https://www.theverge.com/netflix/654516/the-old-guard-2-premiere-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

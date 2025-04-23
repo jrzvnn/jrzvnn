@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to kill your tourism industry, American edition: Two German teen girls were arrested, strip-searched, detained in a deportation facility and deported to Japan while backpacking in Hawaii, despite having ESTA travel authorization.](http://9gag.com/gag/aryxgR5)
- - 😝 [True romance is in the simple things](http://9gag.com/gag/aryxb2V)
- - 💣 [Potty training in Dubai?](http://9gag.com/gag/a5QznMr)
+ - 😝 [Interrupting a street interview](http://9gag.com/gag/ajPxNAQ)
+ - 😝 [Boss finds out you lied on your resume](http://9gag.com/gag/awyOQAx)
+ - 💣 [White Outside. Dead Inside!](http://9gag.com/gag/aYQMY92)
  - 😝 [The innocence of Facebook people](http://9gag.com/gag/a4PAQr1)
  - 👉 [Life was good back then](http://9gag.com/gag/aqyxbdM)<!-- MEMES:END -->
 

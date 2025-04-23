@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thicc](http://9gag.com/gag/aGyGjR7)
- - 😝 [What my friend sents me in the 3rd month of his residency. He says this has been quite a common occurrence., and the patients are mostly male.](http://9gag.com/gag/a9ymrpj)
- - 💣 [Paddy the Baddy](http://9gag.com/gag/axyO7eM)
- - 😝 [When you hate your neighbour](http://9gag.com/gag/aAyMep9)
- - 👉 [Life was good back then](http://9gag.com/gag/aqyxbdM)<!-- MEMES:END -->
+ - 😝 [Facepalm](http://9gag.com/gag/a9ymRmo)
+ - 😝 [Paddy the Baddy](http://9gag.com/gag/axyO7eM)
+ - 💣 [That zoom was diabolical](http://9gag.com/gag/avyxOEZ)
+ - 😝 [The innocence of Facebook people](http://9gag.com/gag/a4PAQr1)
+ - 👉 [Thicc](http://9gag.com/gag/aGyGjR7)<!-- MEMES:END -->
 
 ---
 

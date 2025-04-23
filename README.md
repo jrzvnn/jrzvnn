@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trust No One](http://9gag.com/gag/a5Qzr6r)
+ - 😝 [Potty training in Dubai?](http://9gag.com/gag/a5QznMr)
+ - 😝 [Today&#39;s episode of `America` is just fire. United States Secretary of Homeland Security Kristi Noem had her purse stolen in a restaurant in DC. Inside was 3K in cash, her passport and her Homeland Security access card.](http://9gag.com/gag/aZZEgg0)
+ - 💣 [Life was good back then](http://9gag.com/gag/aqyxbdM)
  - 😝 [How to kill your tourism industry, American edition: Two German teen girls were arrested, strip-searched, detained in a deportation facility and deported to Japan while backpacking in Hawaii, despite having ESTA travel authorization.](http://9gag.com/gag/aryxgR5)
- - 💣 [Potty training in Dubai?](http://9gag.com/gag/a5QznMr)
- - 😝 [Life was good back then](http://9gag.com/gag/aqyxbdM)
- - 👉 [A heated argument](http://9gag.com/gag/adBxXv9)<!-- MEMES:END -->
+ - 👉 [I still dont get how those eye melter 3000 headlights aren&#39;t forbidden yet. Unlike neon underside from the 2000&#39;s these are actually dangerous.](http://9gag.com/gag/aD2bWYN)<!-- MEMES:END -->
 
 ---
 

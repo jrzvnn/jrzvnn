@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Interrupting a street interview](http://9gag.com/gag/ajPxNAQ)
- - 😝 [That zoom was diabolical](http://9gag.com/gag/avyxOEZ)
- - 💣 [In 2019, CCTV footage captured a mysterious man saving a person&#39;s life just in time by tapping on his shoulder and briefly telling him to look out. The mysterious man was never seen again.](http://9gag.com/gag/aMVzAvx)
+ - 😝 [Unfortunate airplane seating.](http://9gag.com/gag/a6ZBKLL)
+ - 😝 [Dude just entered the cutscene](http://9gag.com/gag/aXP7x7z)
+ - 💣 [Learning self-defense!](http://9gag.com/gag/a1mVWdG)
  - 😝 [What culture? The world you live in is our culture.](http://9gag.com/gag/avyx5Ln)
- - 👉 [White Outside. Dead Inside!](http://9gag.com/gag/aYQMY92)<!-- MEMES:END -->
+ - 👉 [So that\u2019s why\u2026](http://9gag.com/gag/aRBvXzq)<!-- MEMES:END -->
 
 ---
 

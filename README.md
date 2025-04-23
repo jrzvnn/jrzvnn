@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This what the inside of what a water heater looks like](http://9gag.com/gag/aZZE7Yn)
- - 😝 [Interrupting a street interview](http://9gag.com/gag/ajPxNAQ)
- - 💣 [Remember his dick memes](http://9gag.com/gag/axyO1bY)
- - 😝 [Thicc](http://9gag.com/gag/aGyGjR7)
- - 👉 [That zoom was diabolical](http://9gag.com/gag/avyxOEZ)<!-- MEMES:END -->
+ - 😝 [Learning self-defense!](http://9gag.com/gag/a1mVWdG)
+ - 😝 [In loving memory of the headphone jack.](http://9gag.com/gag/aPAeYbB)
+ - 💣 [This is so beautiful](http://9gag.com/gag/aAyMx32)
+ - 😝 [New eu requirement for mobile phones](http://9gag.com/gag/a1mVQj2)
+ - 👉 [Too many such examples](http://9gag.com/gag/a6ZBbRe)<!-- MEMES:END -->
 
 ---
 

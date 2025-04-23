@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Unfortunate airplane seating.](http://9gag.com/gag/a6ZBKLL)
  - 😝 [Paddy the Baddy](http://9gag.com/gag/axyO7eM)
- - 😝 [In loving memory of the headphone jack.](http://9gag.com/gag/aPAeYbB)
  - 💣 [This is so beautiful](http://9gag.com/gag/aAyMx32)
- - 😝 [New eu requirement for mobile phones](http://9gag.com/gag/a1mVQj2)
- - 👉 [Learning self-defense!](http://9gag.com/gag/a1mVWdG)<!-- MEMES:END -->
+ - 😝 [In loving memory of the headphone jack.](http://9gag.com/gag/aPAeYbB)
+ - 👉 [New eu requirement for mobile phones](http://9gag.com/gag/a1mVQj2)<!-- MEMES:END -->
 
 ---
 

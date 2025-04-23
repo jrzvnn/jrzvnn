@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia announces the general availability of its NeMo platform to build AI agents, supporting Meta&#39;s Llama, Microsoft&#39;s Phi, Google&#39;s Gemma, and Mistral &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250423/p28#a250423p28)
- - [The Kindle Colorsoft, Amazon’s first color e-reader, is $55 off](https://www.theverge.com/tech/653291/kindle-colorsoft-signature-edition-amazon-book-sale-2025-deal)
- - [Endor Labs, which scans AI-generated code for vulnerabilities, raised a $93M Series B, taking its total funding to $163M, and says it performs 1M+ weekly scans &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250423/p27#a250423p27)
- - [Morel Biggie Bluetooth Speaker Review](https://www.wired.com/review/review-morel-biggie-bluetooth-speaker/)
- - [Microsoft launches new OpenAI-powered AI agents, Researcher and Analyst, designed to function as digital colleagues, available via its Agent Store &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/250423/p26#a250423p26)<!-- TECH:END -->
+ - [The FBI says cybercriminals and online scammers stole a record $16.6B in 2024, up from $12.5B in 2023; over 60s lost $4.8B, including $1.8B via investment scams &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/250423/p30#a250423p30)
+ - [Roku updates its $30 Streaming Stick and $40 Streaming Stick Plus, saying they are &quot;the most compact sticks on the market&quot;, and unveils new software updates &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/250423/p29#a250423p29)
+ - [The best Sonos speakers to buy in 2025](https://www.theverge.com/tech/652171/best-sonos-speakers)
+ - [For Scale](https://www.theverge.com/cs/features/653517/vietnam-war-casualties-cost-bombs-impact-scale)
+ - [WobKey Rainy 75 Review: A Great Budget Mechanical Keyboard](https://www.wired.com/review/wobkey-rainy-75/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

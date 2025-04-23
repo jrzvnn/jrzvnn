@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe and Figma tools are getting ChatGPT’s upgraded image generation model](https://www.theverge.com/news/654561/openai-chatgpt-image-generation-model-adobe-figma)
+ - [The Old Guard sequel is coming to Netflix this July](https://www.theverge.com/netflix/654516/the-old-guard-2-premiere-date)
  - [Court data: Google estimates its Gemini AI chatbot had 35M DAUs and 350M MAUs worldwide as of last month while ChatGPT had 160M DAUs and 600M MAUs &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/250423/p38#a250423p38)
  - [Predator: Badlands turns the tables in new trailer](https://www.theverge.com/news/654531/predator-badlands-trailer-release-date)
- - [For Scale](https://www.theverge.com/cs/features/653517/vietnam-war-casualties-cost-bombs-impact-scale)
- - [Listen Labs, which uses AI to conduct thousands of voice interviews simultaneously for customer research, raised $27M across a seed and Series A led by Sequoia &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/250423/p37#a250423p37)
- - [AI Is Spreading Old Stereotypes to New Languages and Cultures](https://www.wired.com/story/ai-bias-spreading-stereotypes-across-languages-and-cultures-margaret-mitchell/)<!-- TECH:END -->
+ - [For Scale](https://www.theverge.com/cs/features/653517/vietnam-war-casualties-cost-bombs-impact-scale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

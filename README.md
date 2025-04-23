@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;You Can&#39;t Lick a Badger Twice&#39;: Google Failures Highlight a Fundamental AI Flaw](https://www.wired.com/story/google-ai-overviews-meaning/)
  - [SK Hynix reports Q1 revenue up 42% YoY to ~$12.4B, vs. ~$12.1B est, and operating profit up 158% YoY to ~$5.2B, vs. ~$4.6B est., on demand for its HBM chips &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250423/p53#a250423p53)
  - [Anker’s 4K outdoor projector looks and sounds great… on paper](https://www.theverge.com/news/654392/anker-x1-waterproof-4k-projector-satellite-speaker-price-specs)
  - [Perplexity’s AI voice assistant is now available on iOS](https://www.theverge.com/news/654946/perplexity-ai-mobile-assistant-ios-iphone)
- - [Sources: OpenAI aims to debut its next &quot;open&quot; model, which will be &quot;text in, text out&quot; and possibly let developers turn &quot;reasoning&quot; on and off, in early summer &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250423/p52#a250423p52)
- - [Anker’s first Thunderbolt 5 dock has a built-in power supply](https://www.theverge.com/news/654787/anker-prime-tb5-thunderbolt-5-dock)<!-- TECH:END -->
+ - [Sources: OpenAI aims to debut its next &quot;open&quot; model, which will be &quot;text in, text out&quot; and possibly let developers turn &quot;reasoning&quot; on and off, in early summer &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250423/p52#a250423p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

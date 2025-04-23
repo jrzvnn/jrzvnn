@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I think the guy is a millionarie by now.](http://9gag.com/gag/aO897D3)
- - 😝 [Potty training in Dubai?](http://9gag.com/gag/a5QznMr)
- - 💣 [Klaus Schwab is out. This guys is in.](http://9gag.com/gag/awyOX18)
+ - 😝 [Illegal or not, this will definitely worth the money when those idiot neighbors have a karaoke night shouting `alexa change the song` till 2 am and can`t sleep](http://9gag.com/gag/aKG8mgZ)
+ - 😝 [Sad truth](http://9gag.com/gag/aD2bx07)
+ - 💣 [CHILDBIRTH? EASY MODE FOR ELASTIGIRL](http://9gag.com/gag/an7x9Go)
  - 😝 [In 2019, CCTV footage captured a mysterious man saving a person&#39;s life just in time by tapping on his shoulder and briefly telling him to look out. The mysterious man was never seen again.](http://9gag.com/gag/aMVzAvx)
- - 👉 [This what the inside of what a water heater looks like](http://9gag.com/gag/aZZE7Yn)<!-- MEMES:END -->
+ - 👉 [Klaus Schwab is out. This guys is in.](http://9gag.com/gag/awyOX18)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Discord CEO Jason Citron is stepping down and will be succeeded by Humam Sakhnini, effective April 28; Citron will stay on the board and serve as a CEO advisor &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250423/p40#a250423p40)
- - [Five years of Apple Silicon: How Apple continues to revolutionize chips](https://appleinsider.com/articles/25/04/23/five-years-of-apple-silicon-how-apple-continues-to-revolutionize-chips?utm_medium=rss)
- - [Star Wars’ &#39;Andor&#39; Season 2 Depicts the Banality of American Fascism](https://www.wired.com/story/star-wars-andor-season-2-depicts-the-banality-of-american-fascism/)
+ - [Sharge’s transparent Shargeek 170 power bank is now only $99](https://www.theverge.com/tech/654590/shargeek-170-power-bank-elder-scrolls-oblivion-remastered-deal-sale)
+ - [Source: Neuralink has begun preliminary discussions to raise about $500M at an $8.5B pre-money valuation; PitchBook: it was valued at $3.5B as of November 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250423/p41#a250423p41)
  - [WhatsApp now lets you block people from exporting your entire chat history](https://www.theverge.com/news/654592/whatsapp-advanced-chat-privacy-block-exporting-chats)
- - [Nvidia updates its G-Assist AI chatbot, offering plugin and API support to let developers connect to external services and tools, such as Spotify and Gemini &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250423/p39#a250423p39)<!-- TECH:END -->
+ - [Pete Buttigieg makes his first foray into the podcast manosphere](https://www.theverge.com/internet-culture/654543/pete-buttigieg-flagrant-podcast)
+ - [Discord co-founder and CEO Jason Citron is stepping down](https://www.theverge.com/news/654594/discord-new-ceo-jason-citron-humam-sakhnini)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

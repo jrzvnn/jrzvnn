@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Final Cut Pro support comes to Logitech MX Creative Console](https://appleinsider.com/articles/25/04/23/final-cut-pro-support-comes-to-logitech-mx-creative-console?utm_medium=rss)
  - [iPhone 16e had stronger demand than iPhone SE 3 did at launch](https://appleinsider.com/articles/25/04/23/iphone-16e-had-stronger-demand-than-iphone-se-3-did-at-launch?utm_medium=rss)
  - [A deep dive on AMD 2.0: a new sense of urgency, rapid AI software stack progress, a critical talent retention challenge, ROCm lags Nvidia&#39;s CUDA, and more &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/250423/p31#a250423p31)
  - [The FBI says cybercriminals and online scammers stole a record $16.6B in 2024, up from $12.5B in 2023; over 60s lost $4.8B, including $1.8B via investment scams &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/250423/p30#a250423p30)
- - [Roku updates its $30 Streaming Stick and $40 Streaming Stick Plus, saying they are &quot;the most compact sticks on the market&quot;, and unveils new software updates &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/250423/p29#a250423p29)
- - [The best Sonos speakers to buy in 2025](https://www.theverge.com/tech/652171/best-sonos-speakers)<!-- TECH:END -->
+ - [Roku updates its $30 Streaming Stick and $40 Streaming Stick Plus, saying they are &quot;the most compact sticks on the market&quot;, and unveils new software updates &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/250423/p29#a250423p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

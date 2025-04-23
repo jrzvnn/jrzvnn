@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s Xbox app is now available on LG smart TVs](https://www.theverge.com/news/654143/microsoft-xbox-app-lg-smart-tv-cloud-gaming-available-download)
- - [Elon Musk’s robotaxi fantasy is starting to unravel](https://www.theverge.com/tesla/654253/tesla-robotaxi-elon-musk-earnings-promise-fantasy)
- - [Intel is boosting the performance of its Arrow Lake CPUs for free](https://www.theverge.com/news/654483/intel-arrow-lake-cpu-200s-boost-free-update)
- - [Here’s how to increase your chances of nabbing a Switch 2 preorder](https://www.theverge.com/tech/653010/nintendo-switch-2-preorder-tips-tricks-release-date-price-availability-how-to-buy)
- - [How 2025’s surprise RPG hit lured some big-name stars](https://www.theverge.com/interview/653315/clair-obscur-expedition-33-rpg-interview-andy-serkis)<!-- TECH:END -->
+ - [Predator: Badlands turns the tables in new trailer](https://www.theverge.com/news/654531/predator-badlands-trailer-release-date)
+ - [For Scale](https://www.theverge.com/cs/features/653517/vietnam-war-casualties-cost-bombs-impact-scale)
+ - [Listen Labs, which uses AI to conduct thousands of voice interviews simultaneously for customer research, raised $27M across a seed and Series A led by Sequoia &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/250423/p37#a250423p37)
+ - [AI Is Spreading Old Stereotypes to New Languages and Cultures](https://www.wired.com/story/ai-bias-spreading-stereotypes-across-languages-and-cultures-margaret-mitchell/)
+ - [Analysis: three X users who used to receive hundreds of thousands of views daily have seen their reach collapse after feuding with Elon Musk in December 2024 &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/250423/p36#a250423p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

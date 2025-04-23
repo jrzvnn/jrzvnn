@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WhatsApp now lets you block people from exporting your entire chat history](https://www.theverge.com/news/654592/whatsapp-advanced-chat-privacy-block-exporting-chats)
+ - [Nvidia updates its G-Assist AI chatbot, offering plugin and API support to let developers connect to external services and tools, such as Spotify and Gemini &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250423/p39#a250423p39)
+ - [14 Best Deals From the Amazon Book Sale &lpar;2025&rpar;](https://www.wired.com/story/amazon-book-sale-2025/)
  - [Discord co-founder and CEO Jason Citron is stepping down](https://www.theverge.com/news/654594/discord-new-ceo-jason-citron-humam-sakhnini)
- - [Is Tesla on the Outs in China?](https://www.wired.com/story/uncanny-valley-podcast-tesla-china/)
- - [Roku says its ads aren’t meant to be ‘interruptive’ after controversial test](https://www.theverge.com/tech/654389/roku-2025-event-ads-interview)
- - [Adobe and Figma tools are getting ChatGPT’s upgraded image generation model](https://www.theverge.com/news/654561/openai-chatgpt-image-generation-model-adobe-figma)
- - [The Old Guard sequel is coming to Netflix this July](https://www.theverge.com/netflix/654516/the-old-guard-2-premiere-date)<!-- TECH:END -->
+ - [Is Tesla on the Outs in China?](https://www.wired.com/story/uncanny-valley-podcast-tesla-china/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

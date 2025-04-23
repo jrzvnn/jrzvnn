@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She&#39;s like a gem among a bunch of pebbles...](http://9gag.com/gag/aAyMDOR)
- - 😝 [In loving memory of the headphone jack.](http://9gag.com/gag/aPAeYbB)
- - 💣 [Don\u2019t Eat Them!](http://9gag.com/gag/a87e87p)
- - 😝 [That zoom was diabolical](http://9gag.com/gag/avyxOEZ)
- - 👉 [Just going in blind](http://9gag.com/gag/a87e8XO)<!-- MEMES:END -->
+ - 😝 [Trust No One](http://9gag.com/gag/a5Qzr6r)
+ - 😝 [How to kill your tourism industry, American edition: Two German teen girls were arrested, strip-searched, detained in a deportation facility and deported to Japan while backpacking in Hawaii, despite having ESTA travel authorization.](http://9gag.com/gag/aryxgR5)
+ - 💣 [Life was good back then](http://9gag.com/gag/aqyxbdM)
+ - 😝 [The innocence of Facebook people](http://9gag.com/gag/a4PAQr1)
+ - 👉 [10 years later : oh wait, she wasn\u2019t talking about tires being bald](http://9gag.com/gag/a2vDop1)<!-- MEMES:END -->
 
 ---
 

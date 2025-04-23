@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Endor Labs, which scans AI-generated code for vulnerabilities, raised a $93M Series B, taking its total funding to $163M, and says it performs 1M+ weekly scans &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250423/p27#a250423p27)
+ - [Morel Biggie Bluetooth Speaker Review](https://www.wired.com/review/review-morel-biggie-bluetooth-speaker/)
+ - [Microsoft launches new OpenAI-powered AI agents, Researcher and Analyst, designed to function as digital colleagues, available via its Agent Store &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/250423/p26#a250423p26)
  - [Chainguard, which helps companies secure software supply chains, raised a $356M Series D led by Kleiner and IVP at a $3.5B valuation, up from $1.12B in 2024 &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250423/p25#a250423p25)
- - [On the 20th birthday of its first video, YouTube says it has had 20T+ uploads, including 20M+ daily now, and unveils app and TV updates, including new Multiview &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250423/p24#a250423p24)
- - [The Tariffs Are Coming For Baby Products](https://www.wired.com/story/tariffs-are-coming-for-baby-products/)
- - [YouTube is everything and everything is YouTube](https://www.theverge.com/youtube/654240/youtube-future-creators-ai-music-content)
- - [I used the &amp;#8216;cheat on everything&amp;#8217; AI tool and it didn&amp;#8217;t help me cheat on anything](https://www.theverge.com/ai-artificial-intelligence/654223/cheat-on-everything-ai)<!-- TECH:END -->
+ - [On the 20th birthday of its first video, YouTube says it has had 20T+ uploads, including 20M+ daily now, and unveils app and TV updates, including new Multiview &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250423/p24#a250423p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

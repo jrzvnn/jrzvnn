@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel is boosting the performance of its Arrow Lake CPUs for free](https://www.theverge.com/news/654483/intel-arrow-lake-cpu-200s-boost-free-update)
  - [Here’s how to increase your chances of nabbing a Switch 2 preorder](https://www.theverge.com/tech/653010/nintendo-switch-2-preorder-tips-tricks-release-date-price-availability-how-to-buy)
  - [How 2025’s surprise RPG hit lured some big-name stars](https://www.theverge.com/interview/653315/clair-obscur-expedition-33-rpg-interview-andy-serkis)
  - [Sony’s new PS5 update brings back its classic console themes](https://www.theverge.com/news/654454/sony-ps5-update-classic-playstation-console-themes-audio-focus)
- - [Meta rolls out live translations and other AI features to all Ray-Ban smart glasses, unveils new color lens combos, and plans an India, Mexico, and UAE debut &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/250423/p35#a250423p35)
- - [Meta says it is opening Threads to all advertisers worldwide, but ads will only appear in select markets at launch, after testing ads in the US and others &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250423/p34#a250423p34)<!-- TECH:END -->
+ - [Meta rolls out live translations and other AI features to all Ray-Ban smart glasses, unveils new color lens combos, and plans an India, Mexico, and UAE debut &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/250423/p35#a250423p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

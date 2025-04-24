@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [20 Best Gifts for Women Who Are Over This Reality &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-women-who-are-over-this-planet/)
+ - [Apple&#39;s India supply chain expansion held back by Chinese tensions](https://appleinsider.com/articles/25/04/24/apples-india-supply-chain-expansion-held-back-by-chinese-tensions?utm_medium=rss)
  - [GameStop is set to open Nintendo Switch 2 preorders at 11AM ET](https://www.theverge.com/tech/654944/nintendo-switch-2-preorder-gamestop-mario-kart-world-bundle)
  - [20 Great Gifts for Mom: Ideas for the Best Mother &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-moms/)
- - [The Apple Watch Turns 10. Here&#39;s How Far It&#39;s Come](https://www.wired.com/story/apple-watch-turns-10/)
- - [The Napalm Girl Standard](https://www.theverge.com/cs/features/654425/vietnam-war-napalm-girl-photo-free-speech-nick-ut)
- - [Former DOJ antitrust chief says a Google break up will benefit the internet](https://www.theverge.com/decoder-podcast-with-nilay-patel/654243/jonathan-kanter-antitrust-google-ad-tech-monopoly-doj)<!-- TECH:END -->
+ - [The Apple Watch Just Turned 10. Here&#39;s How Far It&#39;s Come](https://www.wired.com/story/apple-watch-turns-10/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

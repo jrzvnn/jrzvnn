@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The floor is \u2026 molten aluminum?](http://9gag.com/gag/aD2bg8x)
+ - 😝 [Thank God the diver was fren shaped](http://9gag.com/gag/aKG87K3)
  - 😝 [The first rule of fight club\u2026](http://9gag.com/gag/a7o91vz)
- - 💣 [PREDATOR BADLANDS TRAILER JUST DROPPED. As a fan of the Alien/predator franchise WTF is this? I swear to God Hollywood never ever learn anything](http://9gag.com/gag/ayN125Y)
- - 😝 [Cops try to make paralysed man walk](http://9gag.com/gag/ajPxmvQ)
- - 👉 [UK take notes](http://9gag.com/gag/aQzmEYe)<!-- MEMES:END -->
+ - 💣 [Cops try to make paralysed man walk](http://9gag.com/gag/ajPxmvQ)
+ - 😝 [Sliced human body at the Museum of Life Sciences in Brazil](http://9gag.com/gag/awyOBXx)
+ - 👉 [PREDATOR BADLANDS TRAILER JUST DROPPED. As a fan of the Alien/predator franchise WTF is this? I swear to God Hollywood never ever learn anything](http://9gag.com/gag/ayN125Y)<!-- MEMES:END -->
 
 ---
 

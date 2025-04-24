@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sliced human body at the Museum of Life Sciences in Brazil](http://9gag.com/gag/awyOBXx)
- - 😝 [A bit too realistic](http://9gag.com/gag/aVvZ7nw)
- - 💣 [What culture? The world you live in is our culture.](http://9gag.com/gag/avyx5Ln)
+ - 😝 [\u201cHey man you selling anything?\u201d](http://9gag.com/gag/adBxgzD)
  - 😝 [Cardinal Kevin Farrell, Cardinal Pietro Parolin, and Archbishop Edgar Pe\u00f1a Parra seal the doors to late Pope Francis&#39; apartments.](http://9gag.com/gag/abAxM6E)
- - 👉 [The innocence of Facebook people](http://9gag.com/gag/a4PAQr1)<!-- MEMES:END -->
+ - 💣 [Remember his dick memes](http://9gag.com/gag/axyO1bY)
+ - 😝 [Illegal or not, this will definitely worth the money when those idiot neighbors have a karaoke night shouting `alexa change the song` till 2 am and can`t sleep](http://9gag.com/gag/aKG8mgZ)
+ - 👉 [A bit too realistic](http://9gag.com/gag/aVvZ7nw)<!-- MEMES:END -->
 
 ---
 

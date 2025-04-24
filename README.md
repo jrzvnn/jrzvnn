@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lowest price ever: Apple&#39;s M4 MacBook Air &lpar;2025&rpar; falls to $909](https://appleinsider.com/articles/25/04/24/lowest-price-ever-apples-m4-macbook-air-2025-falls-to-909?utm_medium=rss)
- - [On the Apple Watch&#39;s 10th anniversary, a look at how Apple reshaped the watch industry and ushered in a new age of fitness tracking &lpar;Adrienne So/Wired&rpar;](http://www.techmeme.com/250424/p19#a250424p19)
- - [Samsung says its ‘Screens Everywhere’ approach won&amp;#8217;t mean ads everywhere, for now](https://www.theverge.com/tech/654685/samsung-screens-everywhere-home-appliances-strategy-interview-exclusive)
- - [20 Best Gifts for Women Who Are Over This Reality &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-women-who-are-over-this-planet/)
- - [Apple&#39;s India supply chain expansion held back by Chinese tensions](https://appleinsider.com/articles/25/04/24/apples-india-supply-chain-expansion-held-back-by-chinese-tensions?utm_medium=rss)<!-- TECH:END -->
+ - [GameStop’s Switch 2 preorders started poorly, too](https://www.theverge.com/news/655626/nintendo-switch-2-gamestop-preorder)
+ - [Eufy’s new floor mopping robovac has a portable deep cleaner](https://www.theverge.com/news/655552/eufy-omni-e28-robot-vacuum-anker-portable-deep-cleaner-stains)
+ - [Here’s where you can try to preorder the Switch 2](https://www.theverge.com/tech/653010/nintendo-switch-2-preorder-tips-tricks-release-date-price-availability-how-to-buy)
+ - [Nintendo Switch 2 preorders are open at GameStop](https://www.theverge.com/tech/654944/nintendo-switch-2-preorder-gamestop-mario-kart-world-bundle)
+ - [This is Razer&amp;#8217;s first vertical mouse](https://www.theverge.com/news/655492/razer-pro-click-v2-vertical-edition-gaming-mouse-announcement-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

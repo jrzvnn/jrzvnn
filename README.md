@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They\u2019re so entitled and selfish](http://9gag.com/gag/aQzmXd7)
- - 😝 [Wholesome indeed](http://9gag.com/gag/a6ZBKM8)
- - 💣 [When math finally justifies itself in the middle of the ocean](http://9gag.com/gag/an7xQrz)
- - 😝 [When you hate your neighbour](http://9gag.com/gag/aAyMep9)
+ - 😝 [The people behind the voices](http://9gag.com/gag/awyOXwW)
+ - 😝 [The innocence of Facebook people](http://9gag.com/gag/a4PAQr1)
+ - 💣 [Change my mind.](http://9gag.com/gag/a9ymA0W)
+ - 😝 [Facepalm](http://9gag.com/gag/a9ymRmo)
  - 👉 [Illegal or not, this will definitely worth the money when those idiot neighbors have a karaoke night shouting `alexa change the song` till 2 am and can`t sleep](http://9gag.com/gag/aKG8mgZ)<!-- MEMES:END -->
 
 ---

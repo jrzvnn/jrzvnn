@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GTA V is Twitch’s most watched game of 2024](https://www.theverge.com/news/655394/gta-5-most-watched-twitch-game-gta-vi)
  - [Pokémon TCG Pocket’s next expansion is bringing Alola back](https://www.theverge.com/news/655384/pokemon-tcg-pocket-celestial-guardians)
  - [Acer Swift 16 AI Review: A Bargain 16-Inch Laptop](https://www.wired.com/review/acer-swift-16-ai/)
  - [Google extends the Pixel 7A&amp;#8217;s repair program for battery swelling issues](https://www.theverge.com/news/655371/google-pixel-7a-extended-repair-program-battery-swelling)
- - [The EU unveils new mandatory labels for smartphones and tablets sold in the bloc that rate energy efficiency, durability, and repairability, starting June 20 &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250424/p18#a250424p18)
- - [VW and Uber unveil an ambitious plan to launch a commercial robotaxi service using ID. BUZZ vehicles in US cities over the next decade, starting in LA in 2026 &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/250424/p17#a250424p17)<!-- TECH:END -->
+ - [The EU unveils new mandatory labels for smartphones and tablets sold in the bloc that rate energy efficiency, durability, and repairability, starting June 20 &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250424/p18#a250424p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

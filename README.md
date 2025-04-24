@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I think the guy is a millionarie by now.](http://9gag.com/gag/aO897D3)
  - 😝 [Sad truth](http://9gag.com/gag/aD2bx07)
- - 😝 [Klaus Schwab is out. This guys is in.](http://9gag.com/gag/awyOX18)
- - 💣 [CHILDBIRTH? EASY MODE FOR ELASTIGIRL](http://9gag.com/gag/an7x9Go)
- - 😝 [What culture? The world you live in is our culture.](http://9gag.com/gag/avyx5Ln)
- - 👉 [I think the guy is a millionarie by now.](http://9gag.com/gag/aO897D3)<!-- MEMES:END -->
+ - 💣 [What culture? The world you live in is our culture.](http://9gag.com/gag/avyx5Ln)
+ - 😝 [Confirmed: The Pope was one of us.](http://9gag.com/gag/aD2bDN7)
+ - 👉 [Crazy power](http://9gag.com/gag/ayN1X48)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If there&#39;s a tail after you - just trop it](http://9gag.com/gag/aoyx512)
- - 😝 [But they say terroism has no religion!](http://9gag.com/gag/a348RdN)
- - 💣 [The floor is \u2026 molten aluminum?](http://9gag.com/gag/aD2bg8x)
- - 😝 [White Outside. Dead Inside!](http://9gag.com/gag/aYQMY92)
- - 👉 [Klaus Schwab is out. This guys is in.](http://9gag.com/gag/awyOX18)<!-- MEMES:END -->
+ - 😝 [Sad truth](http://9gag.com/gag/aD2bx07)
+ - 😝 [Klaus Schwab is out. This guys is in.](http://9gag.com/gag/awyOX18)
+ - 💣 [CHILDBIRTH? EASY MODE FOR ELASTIGIRL](http://9gag.com/gag/an7x9Go)
+ - 😝 [What culture? The world you live in is our culture.](http://9gag.com/gag/avyx5Ln)
+ - 👉 [I think the guy is a millionarie by now.](http://9gag.com/gag/aO897D3)<!-- MEMES:END -->
 
 ---
 

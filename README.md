@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [IGN and CNET owner Ziff Davis sues OpenAI](https://www.theverge.com/news/656044/ziff-davis-sues-openai-ign-cnet-pcmag)
  - [Intel CEO Lip-Bu Tan announces changes, including an engineering refocus, reductions in unnecessary bureaucracy and workforce, and four-day-per-week RTO policy &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250424/p38#a250424p38)
  - [In a Boon for Tesla, Feds Weaken Rules for Reporting on Self-Driving](https://www.wired.com/story/feds-weaken-self-driving-reporting-rules/)
  - [The EU Commission says it banned officials from meeting with lobbyists acting on Huawei&#39;s behalf, after the EU Parliament banned Huawei staff from its premises &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/250424/p37#a250424p37)
- - [Razer Releases a Vertical Edition Ergonomic Mouse](https://www.cnet.com/tech/computing/razer-releases-a-vertical-edition-ergonomic-mouse/#ftag=CAD590a51e)
- - [Apple explains how App Store reviews are summarized with AI](https://appleinsider.com/articles/25/04/24/apple-explains-how-app-store-reviews-are-summarized-with-ai?utm_medium=rss)<!-- TECH:END -->
+ - [Razer Releases a Vertical Edition Ergonomic Mouse](https://www.cnet.com/tech/computing/razer-releases-a-vertical-edition-ergonomic-mouse/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

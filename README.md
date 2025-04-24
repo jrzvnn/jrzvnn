@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I got my Switch 2 preorder the old-fashioned way: lining up at GameStop](https://www.theverge.com/games/655949/switch-2-in-person-preorder-gamestop)
+ - [Meta is trying to clean up Facebook spam](https://www.theverge.com/news/655984/meta-reduce-facebook-spam)
  - [Meta lays off Reality Labs staffers, affecting Oculus Studios teams; sources: 100+ staff are affected, including those involved in Meta&#39;s hardware efforts &lpar;Bloomberg&rpar;](http://www.techmeme.com/250424/p34#a250424p34)
  - [Sources: Adam Neumann&#39;s real estate startup Flow raised more than $100M from investors including a16z in a round that more than doubles its valuation to ~$2.5B &lpar;Sonali Basak/Bloomberg&rpar;](http://www.techmeme.com/250424/p33#a250424p33)
- - [Trump goes after websites that raise money for his enemies](https://www.theverge.com/politics/655939/trump-actblue-executive-order)
- - [Google’s AI Overviews now reach more than 1.5 billion people every month](https://www.theverge.com/news/655930/google-q1-2025-earnings)
- - [Alphabet reports Google Cloud Q1 revenue up 28% YoY to $12.26B, vs. $12.27B est., and says AI Overviews now has 1.5B users per month, up from 1B in October &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/250424/p32#a250424p32)<!-- TECH:END -->
+ - [Trump goes after websites that raise money for his enemies](https://www.theverge.com/politics/655939/trump-actblue-executive-order)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

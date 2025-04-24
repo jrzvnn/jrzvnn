@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft&#39;s 2025 Work Trend Index report, based on a survey of 31,000 people, argues that &quot;Frontier Firms&quot; utilizing agentic AI as digital workers are emerging &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/250424/p3#a250424p3)
- - [Where to preorder the Pro 2 controller and other Switch 2 accessories](https://www.theverge.com/tech/652945/nintendo-switch-2-accessories-pro-controller-cases-camera-preorder-price-availability)
- - [Nintendo Switch 2 preorders were a total mess — at first](https://www.theverge.com/news/654571/nintendo-switch-2-preorders-issues-problems)
- - [Hex crypto project founder Richard Heart says he has &quot;defeated the SEC completely&quot; after the regulator abandoned its securities fraud lawsuit against him &lpar;Connor Sephton/Decrypt&rpar;](http://www.techmeme.com/250424/p2#a250424p2)
- - [Here’s where you can try to preorder the Switch 2 right now](https://www.theverge.com/tech/653010/nintendo-switch-2-preorder-tips-tricks-release-date-price-availability-how-to-buy)<!-- TECH:END -->
+ - [Q&amp;A with Margaret Mitchell, an AI ethics researcher at Hugging Face, on a dataset called SHADES designed to test AI models for bias in languages beyond English &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/250424/p6#a250424p6)
+ - [Here’s where you can try to preorder the Switch 2 &lpar;update: sold out&rpar;](https://www.theverge.com/tech/653010/nintendo-switch-2-preorder-tips-tricks-release-date-price-availability-how-to-buy)
+ - [Hands-on with Cluely&#39;s &quot;cheat on everything&quot; tool: the AI can&#39;t intuit what the user needs despite being given prior context and takes long to give a response &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250424/p5#a250424p5)
+ - [Nintendo says invites for its own Switch 2 sales may arrive after launch](https://www.theverge.com/news/655159/my-nintendo-store-switch-2-invites)
+ - [Hackers have been using hijacked online brokerage accounts in Japan to drive up penny stocks globally in an illicit $700M trading spree since February 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250424/p4#a250424p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

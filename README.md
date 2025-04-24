@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Illegal or not, this will definitely worth the money when those idiot neighbors have a karaoke night shouting `alexa change the song` till 2 am and can`t sleep](http://9gag.com/gag/aKG8mgZ)
- - 😝 [UK take notes](http://9gag.com/gag/aQzmEYe)
- - 💣 [Cops try to make paralysed man walk](http://9gag.com/gag/ajPxmvQ)
+ - 😝 [Seeing masks for sale like this is concerning](http://9gag.com/gag/aMVzV0V)
+ - 😝 [Sliced human body at the Museum of Life Sciences in Brazil](http://9gag.com/gag/awyOBXx)
+ - 💣 [\u201cHey man you selling anything?\u201d](http://9gag.com/gag/adBxgzD)
  - 😝 [Judge can&#39;t believe his eyes](http://9gag.com/gag/aryxn55)
- - 👉 [40 records on eating ------ shallowing](http://9gag.com/gag/aqyxnZv)<!-- MEMES:END -->
+ - 👉 [Cops try to make paralysed man walk](http://9gag.com/gag/ajPxmvQ)<!-- MEMES:END -->
 
 ---
 

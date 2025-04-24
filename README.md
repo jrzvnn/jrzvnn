@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Get a free Apple Watch &#39;Global Close Your Rings Day&#39; pin at retail stores](https://appleinsider.com/articles/25/04/24/get-a-free-apple-watch-global-close-your-rings-day-pin-at-retail-stores?utm_medium=rss)
+ - [Where to preorder the Pro 2 controller and other Switch 2 accessories](https://www.theverge.com/tech/652945/nintendo-switch-2-accessories-pro-controller-cases-camera-preorder-price-availability)
  - [GameStop’s Switch 2 preorders started poorly, too](https://www.theverge.com/news/655626/nintendo-switch-2-gamestop-preorder)
  - [Eufy’s new floor mopping robovac has a portable deep cleaner](https://www.theverge.com/news/655552/eufy-omni-e28-robot-vacuum-anker-portable-deep-cleaner-stains)
- - [Here’s where you can try to preorder the Switch 2](https://www.theverge.com/tech/653010/nintendo-switch-2-preorder-tips-tricks-release-date-price-availability-how-to-buy)
- - [Nintendo Switch 2 preorders are open at GameStop](https://www.theverge.com/tech/654944/nintendo-switch-2-preorder-gamestop-mario-kart-world-bundle)
- - [This is Razer&amp;#8217;s first vertical mouse](https://www.theverge.com/news/655492/razer-pro-click-v2-vertical-edition-gaming-mouse-announcement-price)<!-- TECH:END -->
+ - [Here’s where you can try to preorder the Switch 2](https://www.theverge.com/tech/653010/nintendo-switch-2-preorder-tips-tricks-release-date-price-availability-how-to-buy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

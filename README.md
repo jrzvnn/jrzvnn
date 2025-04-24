@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Independence, Missouri](https://www.cnet.com/home/internet/best-internet-providers-in-independence-mo/#ftag=CAD590a51e)
+ - [Videos on TikTok, Instagram, and other apps urging US consumers to buy directly from Chinese factories are surging in popularity, racking up millions of views &lpar;New York Times&rpar;](http://www.techmeme.com/250424/p7#a250424p7)
  - [Q&amp;A with Margaret Mitchell, an AI ethics researcher at Hugging Face, on a dataset called SHADES designed to test AI models for bias in languages beyond English &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/250424/p6#a250424p6)
  - [Here’s where you can try to preorder the Switch 2 &lpar;update: sold out&rpar;](https://www.theverge.com/tech/653010/nintendo-switch-2-preorder-tips-tricks-release-date-price-availability-how-to-buy)
- - [Hands-on with Cluely&#39;s &quot;cheat on everything&quot; tool: the AI can&#39;t intuit what the user needs despite being given prior context and takes long to give a response &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250424/p5#a250424p5)
- - [Nintendo says invites for its own Switch 2 sales may arrive after launch](https://www.theverge.com/news/655159/my-nintendo-store-switch-2-invites)
- - [Hackers have been using hijacked online brokerage accounts in Japan to drive up penny stocks globally in an illicit $700M trading spree since February 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250424/p4#a250424p4)<!-- TECH:END -->
+ - [Hands-on with Cluely&#39;s &quot;cheat on everything&quot; tool: the AI can&#39;t intuit what the user needs despite being given prior context and takes long to give a response &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250424/p5#a250424p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LinkedIn expands its free verification system to the wider web, letting sites display LinkedIn verification, starting with Adobe&#39;s new Content Authenticity app &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250424/p12#a250424p12)
  - [Adobe unveils its Firefly Image Model 4 and Model 4 Ultra, launches a redesigned Firefly web app, is testing a new Adobe Content Authenticity web app, and more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250424/p11#a250424p11)
- - [Adobe’s new app helps credit creators and fight AI fakery](https://www.theverge.com/news/654883/adobe-content-authenticity-web-app-beta-availability)
- - [Adobe adds more image generators to its growing AI family](https://www.theverge.com/news/655230/adobe-ai-firefly-image-model-4-availability)
- - [LinkedIn will let your verified identity show up on other platforms](https://www.theverge.com/news/655233/linkedin-verification-external-platforms-adobe)
- - [Revolut reports 2024 revenue up 72% YoY to £3.1B, net profit up 149% YoY to £1.1B, and wealth unit revenue up 298% YoY to £506M; its loan book grew 86% to £979M &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250424/p10#a250424p10)<!-- TECH:END -->
+ - [Best CD Rates - Week of April 21-25, 2025](https://www.cnet.com/personal-finance/banking/best-cd-rates-week-of-april-21-april-25-2025/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for April 24, #683](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-24-683/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for April 24, #1405](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-24-1405/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

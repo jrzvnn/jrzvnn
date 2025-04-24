@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [White Outside. Dead Inside!](http://9gag.com/gag/aYQMY92)
- - 😝 [I think the guy is a millionarie by now.](http://9gag.com/gag/aO897D3)
- - 💣 [What culture? The world you live in is our culture.](http://9gag.com/gag/avyx5Ln)
- - 😝 [CHILDBIRTH? EASY MODE FOR ELASTIGIRL](http://9gag.com/gag/an7x9Go)
- - 👉 [Facepalm](http://9gag.com/gag/a9ymRmo)<!-- MEMES:END -->
+ - 😝 [What culture? The world you live in is our culture.](http://9gag.com/gag/avyx5Ln)
+ - 😝 [Facepalm](http://9gag.com/gag/a9ymRmo)
+ - 💣 [CHILDBIRTH? EASY MODE FOR ELASTIGIRL](http://9gag.com/gag/an7x9Go)
+ - 😝 [This dude flying in a jet-powered wingsuit right next to the A380 at over 250 km/h &lpar;155 mph&rpar;](http://9gag.com/gag/aRBv3XG)
+ - 👉 [Sad truth](http://9gag.com/gag/aD2bx07)<!-- MEMES:END -->
 
 ---
 

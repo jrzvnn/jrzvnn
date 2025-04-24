@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ofcom outlines 40+ child safety measures for websites and apps to introduce from July 2025 or face large fines under the Online Safety Act, including age checks &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/250424/p13#a250424p13)
  - [LinkedIn expands its free verification system to the wider web, letting sites display LinkedIn verification, starting with Adobe&#39;s new Content Authenticity app &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250424/p12#a250424p12)
  - [Adobe unveils its Firefly Image Model 4 and Model 4 Ultra, launches a redesigned Firefly web app, is testing a new Adobe Content Authenticity web app, and more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250424/p11#a250424p11)
  - [Best CD Rates - Week of April 21-25, 2025](https://www.cnet.com/personal-finance/banking/best-cd-rates-week-of-april-21-april-25-2025/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for April 24, #683](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-24-683/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for April 24, #1405](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-24-1405/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for April 24, #683](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-24-683/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

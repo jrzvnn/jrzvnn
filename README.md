@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe unveils its Firefly Image Model 4 and Model 4 Ultra, launches a redesigned Firefly web app, is testing a new Adobe Content Authenticity web app, and more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250424/p11#a250424p11)
  - [Adobe’s new app helps credit creators and fight AI fakery](https://www.theverge.com/news/654883/adobe-content-authenticity-web-app-beta-availability)
  - [Adobe adds more image generators to its growing AI family](https://www.theverge.com/news/655230/adobe-ai-firefly-image-model-4-availability)
  - [LinkedIn will let your verified identity show up on other platforms](https://www.theverge.com/news/655233/linkedin-verification-external-platforms-adobe)
- - [Revolut reports 2024 revenue up 72% YoY to £3.1B, net profit up 149% YoY to £1.1B, and wealth unit revenue up 298% YoY to £506M; its loan book grew 86% to £979M &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250424/p10#a250424p10)
- - [STMicro reports Q1 revenue down 27.3% YoY to $2.52B, below its $2.51B guidance, and projects Q2 revenue down 16.2% YoY to $2.71B, excluding any tariff changes &lpar;Nathan Vifflin/Reuters&rpar;](http://www.techmeme.com/250424/p9#a250424p9)<!-- TECH:END -->
+ - [Revolut reports 2024 revenue up 72% YoY to £3.1B, net profit up 149% YoY to £1.1B, and wealth unit revenue up 298% YoY to £506M; its loan book grew 86% to £979M &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250424/p10#a250424p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

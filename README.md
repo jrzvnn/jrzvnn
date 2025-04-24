@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is that your real hair?](http://9gag.com/gag/aW4oEBq)
- - 😝 [UK take notes](http://9gag.com/gag/aQzmEYe)
- - 💣 [Sliced human body at the Museum of Life Sciences in Brazil](http://9gag.com/gag/awyOBXx)
+ - 😝 [A bit too realistic](http://9gag.com/gag/aVvZ7nw)
+ - 😝 [I got bitten! Here\u2019s the snake! Now give me the antidote quick!](http://9gag.com/gag/aW4oxqA)
+ - 💣 [Your money or your life](http://9gag.com/gag/aVvZ7Ey)
  - 😝 [Cops try to make paralysed man walk](http://9gag.com/gag/ajPxmvQ)
- - 👉 [PREDATOR BADLANDS TRAILER JUST DROPPED. As a fan of the Alien/predator franchise WTF is this? I swear to God Hollywood never ever learn anything](http://9gag.com/gag/ayN125Y)<!-- MEMES:END -->
+ - 👉 [Popping the Pope](http://9gag.com/gag/a9ymKxL)<!-- MEMES:END -->
 
 ---
 

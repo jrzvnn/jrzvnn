@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wife material](http://9gag.com/gag/aGyGzDz)
+ - 😝 [The first rule of fight club\u2026](http://9gag.com/gag/a7o91vz)
  - 😝 [\u201cHey man you selling anything?\u201d](http://9gag.com/gag/adBxgzD)
- - 💣 [UK take notes](http://9gag.com/gag/aQzmEYe)
+ - 💣 [Cops try to make paralysed man walk](http://9gag.com/gag/ajPxmvQ)
  - 😝 [40 records on eating ------ shallowing](http://9gag.com/gag/aqyxnZv)
- - 👉 [The first rule of fight club\u2026](http://9gag.com/gag/a7o91vz)<!-- MEMES:END -->
+ - 👉 [Sliced human body at the Museum of Life Sciences in Brazil](http://9gag.com/gag/awyOBXx)<!-- MEMES:END -->
 
 ---
 

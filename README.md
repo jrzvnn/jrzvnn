@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta lays off Reality Labs staffers, affecting Oculus Studios teams; sources: 100+ staff are affected, including those involved in Meta&#39;s hardware efforts &lpar;Bloomberg&rpar;](http://www.techmeme.com/250424/p34#a250424p34)
  - [Sources: Adam Neumann&#39;s real estate startup Flow raised more than $100M from investors including a16z in a round that more than doubles its valuation to ~$2.5B &lpar;Sonali Basak/Bloomberg&rpar;](http://www.techmeme.com/250424/p33#a250424p33)
  - [Trump goes after websites that raise money for his enemies](https://www.theverge.com/politics/655939/trump-actblue-executive-order)
  - [Google’s AI Overviews now reach more than 1.5 billion people every month](https://www.theverge.com/news/655930/google-q1-2025-earnings)
- - [Alphabet reports Google Cloud Q1 revenue up 28% YoY to $12.26B, vs. $12.27B est., and says AI Overviews now has 1.5B users per month, up from 1B in October &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/250424/p32#a250424p32)
- - [Alphabet says it surpassed 270M paid subscriptions, driven by YouTube and Google One, and reports YouTube Q1 ad revenue up 10.3% YoY to $8.93B, vs. $8.97B est. &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250424/p31#a250424p31)<!-- TECH:END -->
+ - [Alphabet reports Google Cloud Q1 revenue up 28% YoY to $12.26B, vs. $12.27B est., and says AI Overviews now has 1.5B users per month, up from 1B in October &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/250424/p32#a250424p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

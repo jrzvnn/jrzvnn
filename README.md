@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bowers &amp;#038; Wilkins upgraded our pick for the best sounding wireless headphones](https://www.theverge.com/news/655885/bowers-wilkins-px7-s3-wireless-anc-headphones)
+ - [How Apple&#39;s use of eucalyptus in Apple 2030 is controversial](https://appleinsider.com/articles/25/04/24/how-apples-use-of-eucalyptus-in-apple-2030-is-controversial?utm_medium=rss)
  - [The Switch 2&amp;#8217;s GameCube controller costs $64.99](https://www.theverge.com/news/655895/nintendo-switch-2-gamecube-controller-cost-online)
  - [Meta moves Threads from Threads.net to Threads.com and updates its web app, including features to more easily access custom feeds, create new columns, and more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250424/p27#a250424p27)
- - [The 62 Best Movies on Disney+ Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/best-movies-disney-plus/)
- - [Remedy&amp;#8217;s multiplayer Control spinoff FBC: Firebreak launches in June](https://www.theverge.com/news/654718/fbc-firebreak-release-date-remedy-control)
- - [Threads’ web app is moving from .net to .com](https://www.theverge.com/news/655510/threads-com-web-app-domain)<!-- TECH:END -->
+ - [The 62 Best Movies on Disney+ Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/best-movies-disney-plus/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

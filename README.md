@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft&#39;s 2025 Work Trend Index report, based on a survey of 31,000 people, argues that &quot;Frontier Firms&quot; utilizing agentic AI as digital workers are emerging &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/250424/p3#a250424p3)
  - [Where to preorder the Pro 2 controller and other Switch 2 accessories](https://www.theverge.com/tech/652945/nintendo-switch-2-accessories-pro-controller-cases-camera-preorder-price-availability)
  - [Nintendo Switch 2 preorders were a total mess — at first](https://www.theverge.com/news/654571/nintendo-switch-2-preorders-issues-problems)
  - [Hex crypto project founder Richard Heart says he has &quot;defeated the SEC completely&quot; after the regulator abandoned its securities fraud lawsuit against him &lpar;Connor Sephton/Decrypt&rpar;](http://www.techmeme.com/250424/p2#a250424p2)
- - [Here’s where you can try to preorder the Switch 2 right now](https://www.theverge.com/tech/653010/nintendo-switch-2-preorder-tips-tricks-release-date-price-availability-how-to-buy)
- - [The European Commission says that Meta&#39;s Facebook Marketplace should no longer be designated under the DMA, citing fewer than 10,000 business users in 2024 &lpar;European Commission&rpar;](http://www.techmeme.com/250424/p1#a250424p1)<!-- TECH:END -->
+ - [Here’s where you can try to preorder the Switch 2 right now](https://www.theverge.com/tech/653010/nintendo-switch-2-preorder-tips-tricks-release-date-price-availability-how-to-buy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

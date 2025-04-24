@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [India shows muscles](http://9gag.com/gag/azxO2wq)
- - 😝 [If there&#39;s a tail after you - just trop it](http://9gag.com/gag/aoyx512)
- - 💣 [Bantha Poodoo](http://9gag.com/gag/abAxYNE)
- - 😝 [Oblivion Remastered kept the double take voice acting mistake that&#39;s been there since 2006](http://9gag.com/gag/azxOMpp)
- - 👉 [CHILDBIRTH? EASY MODE FOR ELASTIGIRL](http://9gag.com/gag/an7x9Go)<!-- MEMES:END -->
+ - 😝 [CHILDBIRTH? EASY MODE FOR ELASTIGIRL](http://9gag.com/gag/an7x9Go)
+ - 💣 [Well that was unexpected](http://9gag.com/gag/aZZELpV)
+ - 😝 [Really!?](http://9gag.com/gag/a5QzXPr)
+ - 👉 [Sliced human body at the Museum of Life Sciences in Brazil](http://9gag.com/gag/awyOBXx)<!-- MEMES:END -->
 
 ---
 

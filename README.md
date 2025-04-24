@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bethesda didn&#39;t remaster Oblivion](http://9gag.com/gag/a6ZBEne)
- - 😝 [White Outside. Dead Inside!](http://9gag.com/gag/aYQMY92)
- - 💣 [Thicc](http://9gag.com/gag/aGyGjR7)
- - 😝 [A bit too realistic](http://9gag.com/gag/aVvZ7nw)
- - 👉 [Popping the Pope](http://9gag.com/gag/a9ymKxL)<!-- MEMES:END -->
+ - 😝 [They\u2019re so entitled and selfish](http://9gag.com/gag/aQzmXd7)
+ - 😝 [Wholesome indeed](http://9gag.com/gag/a6ZBKM8)
+ - 💣 [When math finally justifies itself in the middle of the ocean](http://9gag.com/gag/an7xQrz)
+ - 😝 [When you hate your neighbour](http://9gag.com/gag/aAyMep9)
+ - 👉 [Illegal or not, this will definitely worth the money when those idiot neighbors have a karaoke night shouting `alexa change the song` till 2 am and can`t sleep](http://9gag.com/gag/aKG8mgZ)<!-- MEMES:END -->
 
 ---
 

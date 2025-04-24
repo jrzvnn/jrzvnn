@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;You Can&#39;t Lick a Badger Twice&#39;: Google Failures Highlight a Fundamental AI Flaw](https://www.wired.com/story/google-ai-overviews-meaning/)
- - [SK Hynix reports Q1 revenue up 42% YoY to ~$12.4B, vs. ~$12.1B est, and operating profit up 158% YoY to ~$5.2B, vs. ~$4.6B est., on demand for its HBM chips &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250423/p53#a250423p53)
- - [Anker’s 4K outdoor projector looks and sounds great… on paper](https://www.theverge.com/news/654392/anker-x1-waterproof-4k-projector-satellite-speaker-price-specs)
- - [Perplexity’s AI voice assistant is now available on iOS](https://www.theverge.com/news/654946/perplexity-ai-mobile-assistant-ios-iphone)
- - [Sources: OpenAI aims to debut its next &quot;open&quot; model, which will be &quot;text in, text out&quot; and possibly let developers turn &quot;reasoning&quot; on and off, in early summer &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250423/p52#a250423p52)<!-- TECH:END -->
+ - [Interfax: Russia&#39;s Central Bank and Finance Ministry plan to launch a crypto exchange for &quot;highly qualified investors&quot; under an experimental legal regime &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/250423/p56#a250423p56)
+ - [Auto industry tariffs are doing what now? 24 hours of White House confusion](https://www.theverge.com/transportation/655010/auto-industry-tariffs-white-house-confusion-china-canada)
+ - [Trump signs an EO to boost AI education and workforce training, and establishes an AI education task force led by White House OSTP Director Michael Kratsios &lpar;Stephanie Lai/Bloomberg&rpar;](http://www.techmeme.com/250423/p55#a250423p55)
+ - [Motorola Razr 2025: Latest Details on New Razr Plus and Ultra Flip Phones](https://www.cnet.com/tech/mobile/motorola-razr-2025-razr-plus-ultra-60-flip-phone-news-release-date-price-specs/#ftag=CAD590a51e)
+ - [The Best N95, KF94, and KN95 Face Masks &lpar;2025&rpar;](https://www.wired.com/story/best-disposable-face-masks-n95-kn95-kf94-surgical/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

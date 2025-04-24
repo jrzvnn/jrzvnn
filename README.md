@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EU Commission says it banned officials from meeting with lobbyists acting on Huawei&#39;s behalf, after the EU Parliament banned Huawei staff from its premises &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/250424/p37#a250424p37)
+ - [Razer Releases a Vertical Edition Ergonomic Mouse](https://www.cnet.com/tech/computing/razer-releases-a-vertical-edition-ergonomic-mouse/#ftag=CAD590a51e)
  - [Apple explains how App Store reviews are summarized with AI](https://appleinsider.com/articles/25/04/24/apple-explains-how-app-store-reviews-are-summarized-with-ai?utm_medium=rss)
- - [Protecting Your Phone—and Your Privacy—at the US Border](https://www.wired.com/story/uncanny-valley-podcast-phone-privacy-us-border-travel/)
- - [Ziff Davis sues OpenAI, alleging it used Ziff Davis&#39; content to train AI models; sources say Ziff Davis is seeking at least hundreds of millions of dollars &lpar;Benjamin Mullin/New York Times&rpar;](http://www.techmeme.com/250424/p36#a250424p36)
- - [Yahoo wants to buy Chrome](https://www.theverge.com/policy/655975/yahoo-search-web-browser-prototype-google-trial-antitrust-chrome)
- - [Today’s your last chance to get three months of Apple TV Plus for $9](https://www.theverge.com/tech/655859/apple-tv-plus-the-studio-severance-mythic-quest-deal-sale)<!-- TECH:END -->
+ - [PayPal Partners With Coinbase and Rolls Out Rewards System for PYUSD Holders](https://www.cnet.com/personal-finance/paypal-partners-with-coinbase-and-rolls-out-rewards-system-for-pyusd-holders/#ftag=CAD590a51e)
+ - [Protecting Your Phone—and Your Privacy—at the US Border](https://www.wired.com/story/uncanny-valley-podcast-phone-privacy-us-border-travel/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

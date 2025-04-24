@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cardinal Kevin Farrell, Cardinal Pietro Parolin, and Archbishop Edgar Pe\u00f1a Parra seal the doors to late Pope Francis&#39; apartments.](http://9gag.com/gag/abAxM6E)
- - 😝 [Guy saves little Dog stuck at elevator door.](http://9gag.com/gag/aqyxKjp)
- - 💣 [A bit too realistic](http://9gag.com/gag/aVvZ7nw)
- - 😝 [Real life Good or Cheap or Fast, lol](http://9gag.com/gag/aYQMrZw)
- - 👉 [Illegal or not, this will definitely worth the money when those idiot neighbors have a karaoke night shouting `alexa change the song` till 2 am and can`t sleep](http://9gag.com/gag/aKG8mgZ)<!-- MEMES:END -->
+ - 😝 [Well that was unexpected](http://9gag.com/gag/aZZELpV)
+ - 😝 [A bit too realistic](http://9gag.com/gag/aVvZ7nw)
+ - 💣 [Cardinal Kevin Farrell, Cardinal Pietro Parolin, and Archbishop Edgar Pe\u00f1a Parra seal the doors to late Pope Francis&#39; apartments.](http://9gag.com/gag/abAxM6E)
+ - 😝 [Facepalm](http://9gag.com/gag/a9ymRmo)
+ - 👉 [I got bitten! Here\u2019s the snake! Now give me the antidote quick!](http://9gag.com/gag/aW4oxqA)<!-- MEMES:END -->
 
 ---
 

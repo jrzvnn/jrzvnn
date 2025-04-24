@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US will not tolerate EU fine against Apple, says White House](https://appleinsider.com/articles/25/04/24/us-will-not-tolerate-eu-fine-against-apple-says-white-house?utm_medium=rss)
- - [Elon Musk is stepping back from DOGE in May, spending 1-2 days per week on government work, as tariffs, customer anger, and Chinese competition weigh on Tesla &lpar;Financial Times&rpar;](http://www.techmeme.com/250424/p15#a250424p15)
- - [The ‘small’ OnePlus 13T packs a big battery](https://www.theverge.com/news/655256/oneplus-13t-launch-china-screen-size-small-compact)
- - [How to Use Instagram Edits, Meta’s New CapCut Clone for Editing Videos](https://www.wired.com/story/how-to-use-instagram-edits-capcut-clone/)
- - [Best Internet Providers in Springfield, Missouri](https://www.cnet.com/home/internet/best-internet-providers-in-springfield-mo/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Framework Laptop 13 review: a matte 3:2 display, AMD&#39;s Ryzen AI CPU is the Laptop 13&#39;s fastest ever, and Copilot+, but some glitchiness and poor battery life &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/250424/p16#a250424p16)
+ - [Mac Studio M4 Max review one month later: Costly computing power, worth every cent](https://appleinsider.com/articles/25/04/24/mac-studio-m4-max-review-one-month-later-costly-computing-power-worth-every-cent?utm_medium=rss)
+ - [Dummy iPhone 17 Slim is barely wide enough for its own buttons](https://appleinsider.com/articles/25/04/24/dummy-iphone-17-slim-is-barely-wide-enough-for-its-own-buttons?utm_medium=rss)
+ - [11 Best Diffusers for Curly Hair &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-diffusers/)
+ - [US will not tolerate EU fine against Apple, says White House](https://appleinsider.com/articles/25/04/24/us-will-not-tolerate-eu-fine-against-apple-says-white-house?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

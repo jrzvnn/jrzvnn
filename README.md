@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola’s new Razr Ultra brings the wood back panel back](https://www.theverge.com/gadgets/654846/motorola-razr-ultra-2025-specs-screen-price)
- - [Apple Watch arrived on buyers&#39; wrists 10 years ago](https://appleinsider.com/articles/25/04/24/apple-watch-arrived-on-buyers-wrists-10-years-ago?utm_medium=rss)
- - [GameStop’s Switch 2 preorders started poorly, too](https://www.theverge.com/news/655626/nintendo-switch-2-gamestop-preorder)
- - [Get a free Apple Watch &#39;Global Close Your Rings Day&#39; pin at retail stores](https://appleinsider.com/articles/25/04/24/get-a-free-apple-watch-global-close-your-rings-day-pin-at-retail-stores?utm_medium=rss)
- - [Where to preorder the Pro 2 controller and other Switch 2 accessories](https://www.theverge.com/tech/652945/nintendo-switch-2-accessories-pro-controller-cases-camera-preorder-price-availability)<!-- TECH:END -->
+ - [ServiceNow reports Q1 revenue up 19% YoY to $3.09B and gives an upbeat forecast; its CEO says it had &quot;very positive&quot; discussions with DOGE; NOW jumps 14%+ &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250424/p22#a250424p22)
+ - [Motorola unveils three new Razr models, including the $1,300 Razr Ultra flip phone with a 7-inch inner and 4-inch outer screen and wood option, shipping May 15 &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/250424/p21#a250424p21)
+ - [Iffy leak claims iPadOS 19 could gain macOS menu bar](https://appleinsider.com/articles/25/04/24/iffy-leak-claims-ipados-19-could-gain-macos-menu-bar?utm_medium=rss)
+ - [An interview with Kyle Fish, who Anthropic hired in 2024 as a welfare researcher to study AI consciousness and estimates a ~15% chance that models are conscious &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/250424/p20#a250424p20)
+ - [Motorola&#39;s Latest Razr Phones Are All In on AI](https://www.wired.com/story/motorola-razr-2025-family-news/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

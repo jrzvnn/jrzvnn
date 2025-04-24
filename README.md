@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interfax: Russia&#39;s Central Bank and Finance Ministry plan to launch a crypto exchange for &quot;highly qualified investors&quot; under an experimental legal regime &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/250423/p56#a250423p56)
- - [Auto industry tariffs are doing what now? 24 hours of White House confusion](https://www.theverge.com/transportation/655010/auto-industry-tariffs-white-house-confusion-china-canada)
- - [Trump signs an EO to boost AI education and workforce training, and establishes an AI education task force led by White House OSTP Director Michael Kratsios &lpar;Stephanie Lai/Bloomberg&rpar;](http://www.techmeme.com/250423/p55#a250423p55)
+ - [Meta&#39;s Oversight Board rules that two posts disparaging trans women aren&#39;t hate speech, in the first major test since Meta weakened its policies in January &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/250423/p58#a250423p58)
  - [Motorola Razr 2025: Latest Details on New Razr Plus and Ultra Flip Phones](https://www.cnet.com/tech/mobile/motorola-razr-2025-razr-plus-ultra-60-flip-phone-news-release-date-price-specs/#ftag=CAD590a51e)
- - [The Best N95, KF94, and KN95 Face Masks &lpar;2025&rpar;](https://www.wired.com/story/best-disposable-face-masks-n95-kn95-kf94-surgical/)<!-- TECH:END -->
+ - [Uncertainty returns for Apple as Trump tariff pause halved for countries not making a deal](https://appleinsider.com/articles/25/04/24/uncertainty-returns-for-apple-as-trump-tariff-pause-halved-for-countries-not-making-a-deal?utm_medium=rss)
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, April 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-april-24/#ftag=CAD590a51e)
+ - [Perplexity&#39;s iOS app enables support for the company&#39;s conversational AI voice assistant, letting users ask the chatbot to write emails, set reminders, and more &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/250423/p57#a250423p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

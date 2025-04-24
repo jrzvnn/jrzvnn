@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The people behind the voices](http://9gag.com/gag/awyOXwW)
- - 😝 [The innocence of Facebook people](http://9gag.com/gag/a4PAQr1)
- - 💣 [Change my mind.](http://9gag.com/gag/a9ymA0W)
- - 😝 [Facepalm](http://9gag.com/gag/a9ymRmo)
- - 👉 [Illegal or not, this will definitely worth the money when those idiot neighbors have a karaoke night shouting `alexa change the song` till 2 am and can`t sleep](http://9gag.com/gag/aKG8mgZ)<!-- MEMES:END -->
+ - 😝 [Crazy power](http://9gag.com/gag/ayN1X48)
+ - 😝 [I think the guy is a millionarie by now.](http://9gag.com/gag/aO897D3)
+ - 💣 [I got bitten! Here\u2019s the snake! Now give me the antidote quick!](http://9gag.com/gag/aW4oxqA)
+ - 😝 [Klaus Schwab is out. This guys is in.](http://9gag.com/gag/awyOX18)
+ - 👉 [Popping the Pope](http://9gag.com/gag/a9ymKxL)<!-- MEMES:END -->
 
 ---
 

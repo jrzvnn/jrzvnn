@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The ‘small’ OnePlus 13T packs a big battery](https://www.theverge.com/news/655256/oneplus-13t-launch-china-screen-size-small-compact)
+ - [How to Use Instagram Edits, Meta’s New CapCut Clone for Editing Videos](https://www.wired.com/story/how-to-use-instagram-edits-capcut-clone/)
+ - [Best Internet Providers in Springfield, Missouri](https://www.cnet.com/home/internet/best-internet-providers-in-springfield-mo/#ftag=CAD590a51e)
  - [The US Has Spent Over $500,000 on Hyper-Targeted YouTube Ads to Discourage Irregular Migration](https://www.wired.com/story/dhs-youtube-ads-mexico-migration/)
- - [US v. Google: DuckDuckGo CEO Gabriel Weinberg testifies that Chrome is worth &quot;upwards of $50B if it went on the market&quot; based on &quot;back-of-the-envelope&quot; math &lpar;Bloomberg&rpar;](http://www.techmeme.com/250424/p14#a250424p14)
- - [Ofcom outlines 40+ child safety measures for websites and apps to introduce from July 2025 or face large fines under the Online Safety Act, including age checks &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/250424/p13#a250424p13)
- - [LinkedIn expands its free verification system to the wider web, letting sites display LinkedIn verification, starting with Adobe&#39;s new Content Authenticity app &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250424/p12#a250424p12)
- - [Adobe unveils its Firefly Image Model 4 and Model 4 Ultra, launches a redesigned Firefly web app, is testing a new Adobe Content Authenticity web app, and more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250424/p11#a250424p11)<!-- TECH:END -->
+ - [US v. Google: DuckDuckGo CEO Gabriel Weinberg testifies that Chrome is worth &quot;upwards of $50B if it went on the market&quot; based on &quot;back-of-the-envelope&quot; math &lpar;Bloomberg&rpar;](http://www.techmeme.com/250424/p14#a250424p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

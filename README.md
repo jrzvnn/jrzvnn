@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump updates Biden’s robo-car crash reporting rule to benefit Tesla](https://www.theverge.com/news/655834/trump-tesla-crash-reporting-rule-adas-nhtsa-sgo)
  - [The NHTSA plans to ease rules for autonomous vehicles, including loosening crash reporting requirements and simplifying approvals, in changes championed by Musk &lpar;Financial Times&rpar;](http://www.techmeme.com/250424/p28#a250424p28)
  - [Bowers &amp;#038; Wilkins upgraded our pick for the best sounding wireless headphones](https://www.theverge.com/news/655885/bowers-wilkins-px7-s3-wireless-anc-headphones)
  - [How Apple&#39;s use of eucalyptus in Apple 2030 is controversial](https://appleinsider.com/articles/25/04/24/how-apples-use-of-eucalyptus-in-apple-2030-is-controversial?utm_medium=rss)
- - [The Switch 2&amp;#8217;s GameCube controller costs $64.99](https://www.theverge.com/news/655895/nintendo-switch-2-gamecube-controller-cost-online)
- - [Everything Motorola Announced: Razr Ultra, Razr Plus, Moto AI and More](https://www.cnet.com/tech/mobile/motorola-razr-2025-razr-plus-ultra-60-flip-phone-news-release-date-price-specs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Switch 2&amp;#8217;s GameCube controller costs $64.99](https://www.theverge.com/news/655895/nintendo-switch-2-gamecube-controller-cost-online)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

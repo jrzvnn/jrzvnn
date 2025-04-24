@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bought my first house at 36yo. FU and I\u2019ll see you tomorrow](http://9gag.com/gag/aRBvEK2)
- - 😝 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)
- - 💣 [Sadly it ends](http://9gag.com/gag/aRBvr5j)
- - 😝 [First time seeing him idiot](http://9gag.com/gag/a348EnQ)
- - 👉 [UK take notes](http://9gag.com/gag/aQzmEYe)<!-- MEMES:END -->
+ - 😝 [PREDATOR BADLANDS TRAILER JUST DROPPED. As a fan of the Alien/predator franchise WTF is this? I swear to God Hollywood never ever learn anything](http://9gag.com/gag/ayN125Y)
+ - 😝 [Cops try to make paralysed man walk](http://9gag.com/gag/ajPxmvQ)
+ - 💣 [Wife material](http://9gag.com/gag/aGyGzDz)
+ - 😝 [UK take notes](http://9gag.com/gag/aQzmEYe)
+ - 👉 [Confirmed: The Pope was one of us.](http://9gag.com/gag/aD2bDN7)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Love, Death, and Robots Vol. 4 introduces its cast in wild new trailer](https://www.theverge.com/news/655312/love-death-and-robots-vol-4-cast-trailer)
+ - [Sources: earlier in 2025, Chinese authorities refused to let an Apple equipment supplier export machinery to India needed for the iPhone 17&#39;s trial production &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/250424/p23#a250424p23)
+ - [Scientists Find Measles Likely To Become Endemic in the US Over Next 20 Years](https://www.wired.com/story/scientists-say-measles-likely-to-become-endemic-in-us-polio-diphtheria-rubella/)
  - [The Best Motorola Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-motorola-phones/)
- - [Tactical, turn-based RPG &#39;Sunderfolk&#39; uses iPhones, iPads as controllers](https://appleinsider.com/articles/25/04/24/tactical-turn-based-rpg-sunderfolk-uses-iphones-ipads-as-controllers?utm_medium=rss)
- - [ServiceNow reports Q1 revenue up 19% YoY to $3.09B and gives an upbeat forecast; its CEO says it had &quot;very positive&quot; discussions with DOGE; NOW jumps 14%+ &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250424/p22#a250424p22)
- - [Motorola unveils three new Razr models, including the $1,300 Razr Ultra flip phone with a 7-inch inner and 4-inch outer screen and wood option, shipping May 15 &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/250424/p21#a250424p21)
- - [Iffy leak claims iPadOS 19 could gain macOS menu bar](https://appleinsider.com/articles/25/04/24/iffy-leak-claims-ipados-19-could-gain-macos-menu-bar?utm_medium=rss)<!-- TECH:END -->
+ - [Tactical, turn-based RPG &#39;Sunderfolk&#39; uses iPhones, iPads as controllers](https://appleinsider.com/articles/25/04/24/tactical-turn-based-rpg-sunderfolk-uses-iphones-ipads-as-controllers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

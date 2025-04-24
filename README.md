@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u201cHey man you selling anything?\u201d](http://9gag.com/gag/adBxgzD)
  - 😝 [Cardinal Kevin Farrell, Cardinal Pietro Parolin, and Archbishop Edgar Pe\u00f1a Parra seal the doors to late Pope Francis&#39; apartments.](http://9gag.com/gag/abAxM6E)
- - 💣 [Remember his dick memes](http://9gag.com/gag/axyO1bY)
- - 😝 [Illegal or not, this will definitely worth the money when those idiot neighbors have a karaoke night shouting `alexa change the song` till 2 am and can`t sleep](http://9gag.com/gag/aKG8mgZ)
- - 👉 [A bit too realistic](http://9gag.com/gag/aVvZ7nw)<!-- MEMES:END -->
+ - 😝 [Guy saves little Dog stuck at elevator door.](http://9gag.com/gag/aqyxKjp)
+ - 💣 [A bit too realistic](http://9gag.com/gag/aVvZ7nw)
+ - 😝 [Real life Good or Cheap or Fast, lol](http://9gag.com/gag/aYQMrZw)
+ - 👉 [Illegal or not, this will definitely worth the money when those idiot neighbors have a karaoke night shouting `alexa change the song` till 2 am and can`t sleep](http://9gag.com/gag/aKG8mgZ)<!-- MEMES:END -->
 
 ---
 

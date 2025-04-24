@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Where to preorder all of the new Nintendo Switch 2 accessories](https://www.theverge.com/tech/652945/nintendo-switch-2-accessories-pro-controller-cases-camera-preorder-price-availability)
+ - [Nintendo Switch 2 Preorders Are Live: Everything You Need to Know](https://www.wired.com/story/nintendo-switch-2-buying-guide/)
+ - [Here’s where you can try to preorder the Switch 2 right now](https://www.theverge.com/tech/653010/nintendo-switch-2-preorder-tips-tricks-release-date-price-availability-how-to-buy)
  - [Report: Bluesky restricted access to 72 accounts in Turkey at the government&#39;s request; the accounts are available on third-party apps using the AT Protocol &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250423/p59#a250423p59)
- - [Meta&#39;s Oversight Board rules that two posts disparaging trans women aren&#39;t hate speech, in the first major test since Meta weakened its policies in January &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/250423/p58#a250423p58)
- - [Motorola Razr 2025: Latest Details on New Razr Plus and Ultra Flip Phones](https://www.cnet.com/tech/mobile/motorola-razr-2025-razr-plus-ultra-60-flip-phone-news-release-date-price-specs/#ftag=CAD590a51e)
- - [Uncertainty returns for Apple as Trump tariff pause halved for countries not making a deal](https://appleinsider.com/articles/25/04/24/uncertainty-returns-for-apple-as-trump-tariff-pause-halved-for-countries-not-making-a-deal?utm_medium=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, April 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-april-24/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta&#39;s Oversight Board rules that two posts disparaging trans women aren&#39;t hate speech, in the first major test since Meta weakened its policies in January &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/250423/p58#a250423p58)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

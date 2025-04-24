@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [India shows muscles](http://9gag.com/gag/azxO2wq)
+ - 😝 [Bantha Poodoo](http://9gag.com/gag/abAxYNE)
+ - 😝 [What culture? The world you live in is our culture.](http://9gag.com/gag/avyx5Ln)
+ - 💣 [Is that your real hair?](http://9gag.com/gag/aW4oEBq)
  - 😝 [CHILDBIRTH? EASY MODE FOR ELASTIGIRL](http://9gag.com/gag/an7x9Go)
- - 💣 [Well that was unexpected](http://9gag.com/gag/aZZELpV)
- - 😝 [Really!?](http://9gag.com/gag/a5QzXPr)
- - 👉 [Sliced human body at the Museum of Life Sciences in Brazil](http://9gag.com/gag/awyOBXx)<!-- MEMES:END -->
+ - 👉 [If there&#39;s a tail after you - just trop it](http://9gag.com/gag/aoyx512)<!-- MEMES:END -->
 
 ---
 

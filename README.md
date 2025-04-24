@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [How things have changed](http://9gag.com/gag/a5QzRNO)
+ - 😝 [A bit too realistic](http://9gag.com/gag/aVvZ7nw)
+ - 💣 [Really!?](http://9gag.com/gag/a5QzXPr)
  - 😝 [Bantha Poodoo](http://9gag.com/gag/abAxYNE)
- - 😝 [What culture? The world you live in is our culture.](http://9gag.com/gag/avyx5Ln)
- - 💣 [Is that your real hair?](http://9gag.com/gag/aW4oEBq)
- - 😝 [CHILDBIRTH? EASY MODE FOR ELASTIGIRL](http://9gag.com/gag/an7x9Go)
- - 👉 [If there&#39;s a tail after you - just trop it](http://9gag.com/gag/aoyx512)<!-- MEMES:END -->
+ - 👉 [Popping the Pope](http://9gag.com/gag/a9ymKxL)<!-- MEMES:END -->
 
 ---
 

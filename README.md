@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the collapse of Stenn, an invoice financing startup that got major banks to unwittingly fund millions in suspect payments and was last valued at $900M &lpar;Bloomberg&rpar;](http://www.techmeme.com/250424/p8#a250424p8)
  - [Best Internet Providers in Independence, Missouri](https://www.cnet.com/home/internet/best-internet-providers-in-independence-mo/#ftag=CAD590a51e)
  - [Videos on TikTok, Instagram, and other apps urging US consumers to buy directly from Chinese factories are surging in popularity, racking up millions of views &lpar;New York Times&rpar;](http://www.techmeme.com/250424/p7#a250424p7)
- - [Q&amp;A with Margaret Mitchell, an AI ethics researcher at Hugging Face, on a dataset called SHADES designed to test AI models for bias in languages beyond English &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/250424/p6#a250424p6)
- - [Here’s where you can try to preorder the Switch 2 &lpar;update: sold out&rpar;](https://www.theverge.com/tech/653010/nintendo-switch-2-preorder-tips-tricks-release-date-price-availability-how-to-buy)
- - [Hands-on with Cluely&#39;s &quot;cheat on everything&quot; tool: the AI can&#39;t intuit what the user needs despite being given prior context and takes long to give a response &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250424/p5#a250424p5)<!-- TECH:END -->
+ - [Q&amp;A with Margaret Mitchell, an AI ethics researcher at Hugging Face, on the SHADES dataset, designed to test AI models for bias in languages beyond English &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/250424/p6#a250424p6)
+ - [Here’s where you can try to preorder the Switch 2 &lpar;update: sold out&rpar;](https://www.theverge.com/tech/653010/nintendo-switch-2-preorder-tips-tricks-release-date-price-availability-how-to-buy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

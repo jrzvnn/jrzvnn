@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A bit too realistic](http://9gag.com/gag/aVvZ7nw)
- - 😝 [I got bitten! Here\u2019s the snake! Now give me the antidote quick!](http://9gag.com/gag/aW4oxqA)
- - 💣 [Your money or your life](http://9gag.com/gag/aVvZ7Ey)
- - 😝 [Cops try to make paralysed man walk](http://9gag.com/gag/ajPxmvQ)
+ - 😝 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)
+ - 😝 [Wife material](http://9gag.com/gag/aGyGzDz)
+ - 💣 [Judge can&#39;t believe his eyes](http://9gag.com/gag/aryxn55)
+ - 😝 [Sliced human body at the Museum of Life Sciences in Brazil](http://9gag.com/gag/awyOBXx)
  - 👉 [Popping the Pope](http://9gag.com/gag/a9ymKxL)<!-- MEMES:END -->
 
 ---

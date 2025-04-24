@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What culture? The world you live in is our culture.](http://9gag.com/gag/avyx5Ln)
- - 😝 [Facepalm](http://9gag.com/gag/a9ymRmo)
- - 💣 [CHILDBIRTH? EASY MODE FOR ELASTIGIRL](http://9gag.com/gag/an7x9Go)
- - 😝 [This dude flying in a jet-powered wingsuit right next to the A380 at over 250 km/h &lpar;155 mph&rpar;](http://9gag.com/gag/aRBv3XG)
- - 👉 [Sad truth](http://9gag.com/gag/aD2bx07)<!-- MEMES:END -->
+ - 😝 [Sliced human body at the Museum of Life Sciences in Brazil](http://9gag.com/gag/awyOBXx)
+ - 😝 [A bit too realistic](http://9gag.com/gag/aVvZ7nw)
+ - 💣 [What culture? The world you live in is our culture.](http://9gag.com/gag/avyx5Ln)
+ - 😝 [Cardinal Kevin Farrell, Cardinal Pietro Parolin, and Archbishop Edgar Pe\u00f1a Parra seal the doors to late Pope Francis&#39; apartments.](http://9gag.com/gag/abAxM6E)
+ - 👉 [The innocence of Facebook people](http://9gag.com/gag/a4PAQr1)<!-- MEMES:END -->
 
 ---
 

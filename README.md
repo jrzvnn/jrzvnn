@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [VW and Uber unveil an ambitious plan to launch a commercial robotaxi service using ID. BUZZ vehicles in US cities over the next decade, starting in LA in 2026 &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/250424/p17#a250424p17)
+ - [Best Internet Providers in Spartanburg, South Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-spartanburg-sc/#ftag=CAD590a51e)
  - [22 Best MacBook Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-macbook-accessories/)
  - [Brondell Swash Thinline T44 bidet review: king of the throne](https://www.theverge.com/reviews/651375/brondell-swash-thinline-t44-bidet-review)
- - [New TSMC 1.4nm chip is destined for the iPhone 19](https://appleinsider.com/articles/25/04/24/new-tsmc-14nm-chip-is-destined-for-the-iphone-19?utm_medium=rss)
- - [New smartphone labels for battery life and repairability are coming to the EU](https://www.theverge.com/news/655275/smartphone-tablet-labels-eu-energy-efficiency-battery-life-repairability)
- - [6 Best LED Face Masks and Red-Light Therapy Devices of 2025](https://www.wired.com/story/led-face-masks-and-red-light-therapy/)<!-- TECH:END -->
+ - [New TSMC 1.4nm chip is destined for the iPhone 19](https://appleinsider.com/articles/25/04/24/new-tsmc-14nm-chip-is-destined-for-the-iphone-19?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

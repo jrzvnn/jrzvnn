@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Who Is Doge?&#39; Has Become a Metaphysical Question](https://www.wired.com/story/elon-musk-doge-mystery-general-services-administration/)
  - [Love, Death, and Robots Vol. 4 introduces its cast in wild new trailer](https://www.theverge.com/news/655312/love-death-and-robots-vol-4-cast-trailer)
  - [Sources: earlier in 2025, Chinese authorities refused to let an Apple equipment supplier export machinery to India needed for the iPhone 17&#39;s trial production &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/250424/p23#a250424p23)
  - [Scientists Find Measles Likely To Become Endemic in the US Over Next 20 Years](https://www.wired.com/story/scientists-say-measles-likely-to-become-endemic-in-us-polio-diphtheria-rubella/)
- - [The Best Motorola Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-motorola-phones/)
- - [Tactical, turn-based RPG &#39;Sunderfolk&#39; uses iPhones, iPads as controllers](https://appleinsider.com/articles/25/04/24/tactical-turn-based-rpg-sunderfolk-uses-iphones-ipads-as-controllers?utm_medium=rss)<!-- TECH:END -->
+ - [The Best Motorola Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-motorola-phones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

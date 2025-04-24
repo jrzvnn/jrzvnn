@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Popping the Pope](http://9gag.com/gag/a9ymKxL)
- - 😝 [Thank God the diver was fren shaped](http://9gag.com/gag/aKG87K3)
- - 💣 [Illegal or not, this will definitely worth the money when those idiot neighbors have a karaoke night shouting `alexa change the song` till 2 am and can`t sleep](http://9gag.com/gag/aKG8mgZ)
- - 😝 [PREDATOR BADLANDS TRAILER JUST DROPPED. As a fan of the Alien/predator franchise WTF is this? I swear to God Hollywood never ever learn anything](http://9gag.com/gag/ayN125Y)
- - 👉 [Elected Criminal Ring](http://9gag.com/gag/awyOzD1)<!-- MEMES:END -->
+ - 😝 [So that\u2019s why\u2026](http://9gag.com/gag/aRBvXzq)
+ - 😝 [I think you may have something here](http://9gag.com/gag/aKG8mX6)
+ - 💣 [They\u2019re so entitled and selfish](http://9gag.com/gag/aQzmXd7)
+ - 😝 [What culture? The world you live in is our culture.](http://9gag.com/gag/avyx5Ln)
+ - 👉 [Illegal or not, this will definitely worth the money when those idiot neighbors have a karaoke night shouting `alexa change the song` till 2 am and can`t sleep](http://9gag.com/gag/aKG8mgZ)<!-- MEMES:END -->
 
 ---
 

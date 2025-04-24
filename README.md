@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The European Commission says that Meta&#39;s Facebook Marketplace should no longer be designated under the DMA, citing fewer than 10,000 business users in 2024 &lpar;European Commission&rpar;](http://www.techmeme.com/250424/p1#a250424p1)
  - [Here’s where you can try to preorder the Switch 2 right now](https://www.theverge.com/tech/653010/nintendo-switch-2-preorder-tips-tricks-release-date-price-availability-how-to-buy)
  - [Nintendo Switch 2 preorders are off to a messy start](https://www.theverge.com/news/654571/nintendo-switch-2-preorders-issues-problems)
  - [Where to preorder all of the new Nintendo Switch 2 accessories](https://www.theverge.com/tech/652945/nintendo-switch-2-accessories-pro-controller-cases-camera-preorder-price-availability)
- - [Nintendo Switch 2 Preorders Are Live: Everything You Need to Know](https://www.wired.com/story/nintendo-switch-2-buying-guide/)
- - [Report: Bluesky restricted access to 72 accounts in Turkey at the government&#39;s request; the accounts are available on third-party apps using the AT Protocol &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250423/p59#a250423p59)<!-- TECH:END -->
+ - [Nintendo Switch 2 Preorders Are Live: Everything You Need to Know](https://www.wired.com/story/nintendo-switch-2-buying-guide/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

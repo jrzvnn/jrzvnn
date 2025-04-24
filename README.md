@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Seeing masks for sale like this is concerning](http://9gag.com/gag/aMVzV0V)
- - 😝 [Sliced human body at the Museum of Life Sciences in Brazil](http://9gag.com/gag/awyOBXx)
- - 💣 [\u201cHey man you selling anything?\u201d](http://9gag.com/gag/adBxgzD)
- - 😝 [Judge can&#39;t believe his eyes](http://9gag.com/gag/aryxn55)
- - 👉 [Cops try to make paralysed man walk](http://9gag.com/gag/ajPxmvQ)<!-- MEMES:END -->
+ - 😝 [Wife material](http://9gag.com/gag/aGyGzDz)
+ - 😝 [\u201cHey man you selling anything?\u201d](http://9gag.com/gag/adBxgzD)
+ - 💣 [UK take notes](http://9gag.com/gag/aQzmEYe)
+ - 😝 [40 records on eating ------ shallowing](http://9gag.com/gag/aqyxnZv)
+ - 👉 [The first rule of fight club\u2026](http://9gag.com/gag/a7o91vz)<!-- MEMES:END -->
 
 ---
 

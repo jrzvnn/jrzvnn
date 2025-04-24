@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lowest price ever: Apple&#39;s M4 MacBook Air &lpar;2025&rpar; falls to $909](https://appleinsider.com/articles/25/04/24/lowest-price-ever-apples-m4-macbook-air-2025-falls-to-909?utm_medium=rss)
+ - [On the Apple Watch&#39;s 10th anniversary, a look at how Apple reshaped the watch industry and ushered in a new age of fitness tracking &lpar;Adrienne So/Wired&rpar;](http://www.techmeme.com/250424/p19#a250424p19)
  - [Samsung says its ‘Screens Everywhere’ approach won&amp;#8217;t mean ads everywhere, for now](https://www.theverge.com/tech/654685/samsung-screens-everywhere-home-appliances-strategy-interview-exclusive)
  - [20 Best Gifts for Women Who Are Over This Reality &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-women-who-are-over-this-planet/)
- - [Apple&#39;s India supply chain expansion held back by Chinese tensions](https://appleinsider.com/articles/25/04/24/apples-india-supply-chain-expansion-held-back-by-chinese-tensions?utm_medium=rss)
- - [GameStop is set to open Nintendo Switch 2 preorders at 11AM ET](https://www.theverge.com/tech/654944/nintendo-switch-2-preorder-gamestop-mario-kart-world-bundle)
- - [20 Great Gifts for Mom: Ideas for the Best Mother &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-moms/)<!-- TECH:END -->
+ - [Apple&#39;s India supply chain expansion held back by Chinese tensions](https://appleinsider.com/articles/25/04/24/apples-india-supply-chain-expansion-held-back-by-chinese-tensions?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

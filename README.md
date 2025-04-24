@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Facepalm](http://9gag.com/gag/a9ymRmo)
+ - 😝 [Bethesda didn&#39;t remaster Oblivion](http://9gag.com/gag/a6ZBEne)
  - 😝 [White Outside. Dead Inside!](http://9gag.com/gag/aYQMY92)
  - 💣 [Thicc](http://9gag.com/gag/aGyGjR7)
- - 😝 [Bethesda didn&#39;t remaster Oblivion](http://9gag.com/gag/a6ZBEne)
- - 👉 [Crazy power](http://9gag.com/gag/ayN1X48)<!-- MEMES:END -->
+ - 😝 [A bit too realistic](http://9gag.com/gag/aVvZ7nw)
+ - 👉 [Popping the Pope](http://9gag.com/gag/a9ymKxL)<!-- MEMES:END -->
 
 ---
 

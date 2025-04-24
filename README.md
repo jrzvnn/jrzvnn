@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel reports Q1 revenue flat YoY at $12.67B, vs. $12.3B est., forecasts Q2 revenue below est., and reduces its 2025 capex target; INTC drops 5%+ after hours &lpar;Reuters&rpar;](http://www.techmeme.com/250424/p35#a250424p35)
+ - [Apple shifts robotics team away from Giannandrea&#39;s AI organization to prioritize hardware](https://appleinsider.com/articles/25/04/24/apple-shifts-robotics-team-away-from-giannandreas-ai-organization-to-prioritize-hardware?utm_medium=rss)
  - [I got my Switch 2 preorder the old-fashioned way: lining up at GameStop](https://www.theverge.com/games/655949/switch-2-in-person-preorder-gamestop)
  - [Meta is trying to clean up Facebook spam](https://www.theverge.com/news/655984/meta-reduce-facebook-spam)
- - [Meta lays off Reality Labs staffers, affecting Oculus Studios teams; sources: 100+ staff are affected, including those involved in Meta&#39;s hardware efforts &lpar;Bloomberg&rpar;](http://www.techmeme.com/250424/p34#a250424p34)
- - [Sources: Adam Neumann&#39;s real estate startup Flow raised more than $100M from investors including a16z in a round that more than doubles its valuation to ~$2.5B &lpar;Sonali Basak/Bloomberg&rpar;](http://www.techmeme.com/250424/p33#a250424p33)
- - [Trump goes after websites that raise money for his enemies](https://www.theverge.com/politics/655939/trump-actblue-executive-order)<!-- TECH:END -->
+ - [Meta lays off Reality Labs staffers, affecting Oculus Studios teams; sources: 100+ staff are affected, including those involved in Meta&#39;s hardware efforts &lpar;Bloomberg&rpar;](http://www.techmeme.com/250424/p34#a250424p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

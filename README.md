@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crazy power](http://9gag.com/gag/ayN1X48)
- - 😝 [I think the guy is a millionarie by now.](http://9gag.com/gag/aO897D3)
- - 💣 [I got bitten! Here\u2019s the snake! Now give me the antidote quick!](http://9gag.com/gag/aW4oxqA)
- - 😝 [Klaus Schwab is out. This guys is in.](http://9gag.com/gag/awyOX18)
- - 👉 [Popping the Pope](http://9gag.com/gag/a9ymKxL)<!-- MEMES:END -->
+ - 😝 [If there&#39;s a tail after you - just trop it](http://9gag.com/gag/aoyx512)
+ - 😝 [But they say terroism has no religion!](http://9gag.com/gag/a348RdN)
+ - 💣 [The floor is \u2026 molten aluminum?](http://9gag.com/gag/aD2bg8x)
+ - 😝 [White Outside. Dead Inside!](http://9gag.com/gag/aYQMY92)
+ - 👉 [Klaus Schwab is out. This guys is in.](http://9gag.com/gag/awyOX18)<!-- MEMES:END -->
 
 ---
 

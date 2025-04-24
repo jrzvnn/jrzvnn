@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Framework Laptop 13 review: a matte 3:2 display, AMD&#39;s Ryzen AI CPU is the Laptop 13&#39;s fastest ever, and Copilot+, but some glitchiness and poor battery life &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/250424/p16#a250424p16)
- - [Mac Studio M4 Max review one month later: Costly computing power, worth every cent](https://appleinsider.com/articles/25/04/24/mac-studio-m4-max-review-one-month-later-costly-computing-power-worth-every-cent?utm_medium=rss)
- - [Dummy iPhone 17 Slim is barely wide enough for its own buttons](https://appleinsider.com/articles/25/04/24/dummy-iphone-17-slim-is-barely-wide-enough-for-its-own-buttons?utm_medium=rss)
- - [11 Best Diffusers for Curly Hair &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-diffusers/)
- - [US will not tolerate EU fine against Apple, says White House](https://appleinsider.com/articles/25/04/24/us-will-not-tolerate-eu-fine-against-apple-says-white-house?utm_medium=rss)<!-- TECH:END -->
+ - [22 Best MacBook Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-macbook-accessories/)
+ - [Brondell Swash Thinline T44 bidet review: king of the throne](https://www.theverge.com/reviews/651375/brondell-swash-thinline-t44-bidet-review)
+ - [New TSMC 1.4nm chip is destined for the iPhone 19](https://appleinsider.com/articles/25/04/24/new-tsmc-14nm-chip-is-destined-for-the-iphone-19?utm_medium=rss)
+ - [New smartphone labels for battery life and repairability are coming to the EU](https://www.theverge.com/news/655275/smartphone-tablet-labels-eu-energy-efficiency-battery-life-repairability)
+ - [6 Best LED Face Masks and Red-Light Therapy Devices of 2025](https://www.wired.com/story/led-face-masks-and-red-light-therapy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

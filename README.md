@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Klaus Schwab is out. This guys is in.](http://9gag.com/gag/awyOX18)
- - 😝 [A bit too realistic](http://9gag.com/gag/aVvZ7nw)
- - 💣 [Auto sorting trashcan](http://9gag.com/gag/aMVzAqX)
- - 😝 [Absolute mind blown back then.](http://9gag.com/gag/a87eov3)
- - 👉 [The man Playing the Guitar](http://9gag.com/gag/a4PAGxm)<!-- MEMES:END -->
+ - 😝 [Facepalm](http://9gag.com/gag/a9ymRmo)
+ - 😝 [White Outside. Dead Inside!](http://9gag.com/gag/aYQMY92)
+ - 💣 [Thicc](http://9gag.com/gag/aGyGjR7)
+ - 😝 [Bethesda didn&#39;t remaster Oblivion](http://9gag.com/gag/a6ZBEne)
+ - 👉 [Crazy power](http://9gag.com/gag/ayN1X48)<!-- MEMES:END -->
 
 ---
 

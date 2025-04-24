@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Here&amp;#8217;s the cheaper Nintendo Switch 2 camera that&amp;#8217;s small enough to go handheld](https://www.theverge.com/news/655709/hori-usb-nintendo-switch-2-camera-gamechat-handheld)
  - [Motorola&#39;s new Razr phones will include Perplexity&#39;s AI search engine, as part of a distribution partnership that lets Perplexity gain users rather than revenue &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250424/p24#a250424p24)
  - [The Real Winners of the Trump Memecoin Feeding Frenzy](https://www.wired.com/story/trump-memecoin-dinner-winners/)
- - [&#39;Who Is Doge?&#39; Has Become a Metaphysical Question](https://www.wired.com/story/elon-musk-doge-mystery-general-services-administration/)<!-- TECH:END -->
+ - [‘Who Is Doge?’ Has Become a Metaphysical Question](https://www.wired.com/story/elon-musk-doge-mystery-general-services-administration/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

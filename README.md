@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US v. Google: a Yahoo executive estimates that a bid for Chrome would cost tens of billions of dollars, and says Yahoo &quot;would be able to pursue it with Apollo&quot; &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/250424/p39#a250424p39)
+ - [Bluesky is down](https://www.theverge.com/news/656058/bluesky-down-outage-feeds-not-loading)
+ - [Nintendo’s Switch 2 upgrades for Mario Party and Kirby will cost $19.99](https://www.theverge.com/news/656049/nintendo-switch-2-edition-upgrade-pack-price)
  - [IGN and CNET owner Ziff Davis sues OpenAI](https://www.theverge.com/news/656044/ziff-davis-sues-openai-ign-cnet-pcmag)
- - [Intel CEO Lip-Bu Tan announces changes, including an engineering refocus, reductions in unnecessary bureaucracy and workforce, and four-day-per-week RTO policy &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250424/p38#a250424p38)
- - [In a Boon for Tesla, Feds Weaken Rules for Reporting on Self-Driving](https://www.wired.com/story/feds-weaken-self-driving-reporting-rules/)
- - [The EU Commission says it banned officials from meeting with lobbyists acting on Huawei&#39;s behalf, after the EU Parliament banned Huawei staff from its premises &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/250424/p37#a250424p37)
- - [Razer Releases a Vertical Edition Ergonomic Mouse](https://www.cnet.com/tech/computing/razer-releases-a-vertical-edition-ergonomic-mouse/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Intel CEO Lip-Bu Tan announces changes, including an engineering refocus, reductions in unnecessary bureaucracy and workforce, and four-day-per-week RTO policy &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250424/p38#a250424p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

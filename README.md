@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alphabet reports Q1 revenue up 12% YoY to $90.2B, net income up 46% YoY to $34.54B, Services revenue up 10% to $77.3B, and Other Bets revenue down 9% to $450M &lpar;Alphabet&rpar;](http://www.techmeme.com/250424/p30#a250424p30)
- - [Sources: Apple plans to relocate its secret robotics team from John Giannandrea&#39;s AI unit and place it under SVP John Ternus, who oversees hardware engineering &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250424/p29#a250424p29)
- - [Trump updates Biden’s robo-car crash reporting rule to benefit Tesla](https://www.theverge.com/news/655834/trump-tesla-crash-reporting-rule-adas-nhtsa-sgo)
- - [The NHTSA plans to ease rules for autonomous vehicles, including loosening crash reporting requirements and simplifying approvals, in changes championed by Musk &lpar;Financial Times&rpar;](http://www.techmeme.com/250424/p28#a250424p28)
- - [Bowers &amp;#038; Wilkins upgraded our pick for the best sounding wireless headphones](https://www.theverge.com/news/655885/bowers-wilkins-px7-s3-wireless-anc-headphones)<!-- TECH:END -->
+ - [Sources: Adam Neumann&#39;s real estate startup Flow raised more than $100M from investors including a16z in a round that more than doubles its valuation to ~$2.5B &lpar;Sonali Basak/Bloomberg&rpar;](http://www.techmeme.com/250424/p33#a250424p33)
+ - [Trump goes after websites that raise money for his enemies](https://www.theverge.com/politics/655939/trump-actblue-executive-order)
+ - [Google’s AI Overviews now reach more than 1.5 billion people every month](https://www.theverge.com/news/655930/google-q1-2025-earnings)
+ - [Alphabet reports Google Cloud Q1 revenue up 28% YoY to $12.26B, vs. $12.27B est., and says AI Overviews now has 1.5B users per month, up from 1B in October &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/250424/p32#a250424p32)
+ - [Alphabet says it surpassed 270M paid subscriptions, driven by YouTube and Google One, and reports YouTube Q1 ad revenue up 10.3% YoY to $8.93B, vs. $8.97B est. &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250424/p31#a250424p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

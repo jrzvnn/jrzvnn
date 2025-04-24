@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I think you may have something here](http://9gag.com/gag/aKG8mX6)
- - 😝 [They\u2019re so entitled and selfish](http://9gag.com/gag/aQzmXd7)
- - 💣 [What culture? The world you live in is our culture.](http://9gag.com/gag/avyx5Ln)
- - 😝 [Illegal or not, this will definitely worth the money when those idiot neighbors have a karaoke night shouting `alexa change the song` till 2 am and can`t sleep](http://9gag.com/gag/aKG8mgZ)
- - 👉 [Nostalgia](http://9gag.com/gag/adBx8KB)<!-- MEMES:END -->
+ - 😝 [India shows muscles](http://9gag.com/gag/azxO2wq)
+ - 😝 [If there&#39;s a tail after you - just trop it](http://9gag.com/gag/aoyx512)
+ - 💣 [Bantha Poodoo](http://9gag.com/gag/abAxYNE)
+ - 😝 [Oblivion Remastered kept the double take voice acting mistake that&#39;s been there since 2006](http://9gag.com/gag/azxOMpp)
+ - 👉 [CHILDBIRTH? EASY MODE FOR ELASTIGIRL](http://9gag.com/gag/an7x9Go)<!-- MEMES:END -->
 
 ---
 

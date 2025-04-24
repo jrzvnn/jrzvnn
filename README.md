@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A bit too realistic](http://9gag.com/gag/aVvZ7nw)
- - 😝 [Facepalm](http://9gag.com/gag/a9ymRmo)
- - 💣 [I think the guy is a millionarie by now.](http://9gag.com/gag/aO897D3)
+ - 😝 [White Outside. Dead Inside!](http://9gag.com/gag/aYQMY92)
+ - 😝 [I think the guy is a millionarie by now.](http://9gag.com/gag/aO897D3)
+ - 💣 [What culture? The world you live in is our culture.](http://9gag.com/gag/avyx5Ln)
  - 😝 [CHILDBIRTH? EASY MODE FOR ELASTIGIRL](http://9gag.com/gag/an7x9Go)
- - 👉 [Crazy power](http://9gag.com/gag/ayN1X48)<!-- MEMES:END -->
+ - 👉 [Facepalm](http://9gag.com/gag/a9ymRmo)<!-- MEMES:END -->
 
 ---
 

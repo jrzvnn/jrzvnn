@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I think the guy is a millionarie by now.](http://9gag.com/gag/aO897D3)
- - 😝 [Sad truth](http://9gag.com/gag/aD2bx07)
- - 💣 [What culture? The world you live in is our culture.](http://9gag.com/gag/avyx5Ln)
- - 😝 [Confirmed: The Pope was one of us.](http://9gag.com/gag/aD2bDN7)
+ - 😝 [A bit too realistic](http://9gag.com/gag/aVvZ7nw)
+ - 😝 [Facepalm](http://9gag.com/gag/a9ymRmo)
+ - 💣 [I think the guy is a millionarie by now.](http://9gag.com/gag/aO897D3)
+ - 😝 [CHILDBIRTH? EASY MODE FOR ELASTIGIRL](http://9gag.com/gag/an7x9Go)
  - 👉 [Crazy power](http://9gag.com/gag/ayN1X48)<!-- MEMES:END -->
 
 ---

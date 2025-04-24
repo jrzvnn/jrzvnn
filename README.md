@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alphabet reports Q1 revenue up 12% YoY to $90.2B, net income up 46% YoY to $34.54B, Services revenue up 10% to $77.3B, and Other Bets revenue down 9% to $450M &lpar;Alphabet&rpar;](http://www.techmeme.com/250424/p30#a250424p30)
+ - [Sources: Apple plans to relocate its secret robotics team from John Giannandrea&#39;s AI unit and place it under SVP John Ternus, who oversees hardware engineering &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250424/p29#a250424p29)
  - [Trump updates Biden’s robo-car crash reporting rule to benefit Tesla](https://www.theverge.com/news/655834/trump-tesla-crash-reporting-rule-adas-nhtsa-sgo)
  - [The NHTSA plans to ease rules for autonomous vehicles, including loosening crash reporting requirements and simplifying approvals, in changes championed by Musk &lpar;Financial Times&rpar;](http://www.techmeme.com/250424/p28#a250424p28)
- - [Bowers &amp;#038; Wilkins upgraded our pick for the best sounding wireless headphones](https://www.theverge.com/news/655885/bowers-wilkins-px7-s3-wireless-anc-headphones)
- - [How Apple&#39;s use of eucalyptus in Apple 2030 is controversial](https://appleinsider.com/articles/25/04/24/how-apples-use-of-eucalyptus-in-apple-2030-is-controversial?utm_medium=rss)
- - [The Switch 2&amp;#8217;s GameCube controller costs $64.99](https://www.theverge.com/news/655895/nintendo-switch-2-gamecube-controller-cost-online)<!-- TECH:END -->
+ - [Bowers &amp;#038; Wilkins upgraded our pick for the best sounding wireless headphones](https://www.theverge.com/news/655885/bowers-wilkins-px7-s3-wireless-anc-headphones)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

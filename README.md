@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trigger warning: racism](http://9gag.com/gag/a4PAoZd)
- - 😝 [Popping the Pope](http://9gag.com/gag/a9ymKxL)
- - 💣 [Sliced human body at the Museum of Life Sciences in Brazil](http://9gag.com/gag/awyOBXx)
- - 😝 [Bantha Poodoo](http://9gag.com/gag/abAxYNE)
- - 👉 [Really!?](http://9gag.com/gag/a5QzXPr)<!-- MEMES:END -->
+ - 😝 [Almost Accurate](http://9gag.com/gag/aqyxejL)
+ - 😝 [What culture? The world you live in is our culture.](http://9gag.com/gag/avyx5Ln)
+ - 💣 [Illegal or not, this will definitely worth the money when those idiot neighbors have a karaoke night shouting `alexa change the song` till 2 am and can`t sleep](http://9gag.com/gag/aKG8mgZ)
+ - 😝 [Bought my first house at 36yo. FU and I\u2019ll see you tomorrow](http://9gag.com/gag/aRBvEK2)
+ - 👉 [Nostalgia](http://9gag.com/gag/adBx8KB)<!-- MEMES:END -->
 
 ---
 

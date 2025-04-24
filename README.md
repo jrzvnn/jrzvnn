@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel reports Q1 revenue flat YoY at $12.67B, vs. $12.3B est., forecasts Q2 revenue below est., and reduces its 2025 capex target; INTC drops 5%+ after hours &lpar;Reuters&rpar;](http://www.techmeme.com/250424/p35#a250424p35)
- - [Apple shifts robotics team away from Giannandrea&#39;s AI organization to prioritize hardware](https://appleinsider.com/articles/25/04/24/apple-shifts-robotics-team-away-from-giannandreas-ai-organization-to-prioritize-hardware?utm_medium=rss)
- - [I got my Switch 2 preorder the old-fashioned way: lining up at GameStop](https://www.theverge.com/games/655949/switch-2-in-person-preorder-gamestop)
- - [Meta is trying to clean up Facebook spam](https://www.theverge.com/news/655984/meta-reduce-facebook-spam)
- - [Meta lays off Reality Labs staffers, affecting Oculus Studios teams; sources: 100+ staff are affected, including those involved in Meta&#39;s hardware efforts &lpar;Bloomberg&rpar;](http://www.techmeme.com/250424/p34#a250424p34)<!-- TECH:END -->
+ - [Apple explains how App Store reviews are summarized with AI](https://appleinsider.com/articles/25/04/24/apple-explains-how-app-store-reviews-are-summarized-with-ai?utm_medium=rss)
+ - [Protecting Your Phone—and Your Privacy—at the US Border](https://www.wired.com/story/uncanny-valley-podcast-phone-privacy-us-border-travel/)
+ - [Ziff Davis sues OpenAI, alleging it used Ziff Davis&#39; content to train AI models; sources say Ziff Davis is seeking at least hundreds of millions of dollars &lpar;Benjamin Mullin/New York Times&rpar;](http://www.techmeme.com/250424/p36#a250424p36)
+ - [Yahoo wants to buy Chrome](https://www.theverge.com/policy/655975/yahoo-search-web-browser-prototype-google-trial-antitrust-chrome)
+ - [Today’s your last chance to get three months of Apple TV Plus for $9](https://www.theverge.com/tech/655859/apple-tv-plus-the-studio-severance-mythic-quest-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

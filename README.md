@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Meta lays off an unspecified number of employees in Reality Labs, affecting Oculus Studios teams and, sources say, staff involved in Meta&#39;s hardware efforts &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250424/p26#a250424p26)
  - [Now Kia EVs can use Tesla’s Superchargers](https://www.theverge.com/news/655855/kia-tesla-supercharger-access-nacs-ev6-ev9-niro)
  - [Ember’s 16-ounce temperature-controlled Tumbler is half off](https://www.theverge.com/tech/655836/ember-tumbler-fitbit-charge-6-deal-sale)
- - [What&#39;s Free on the Epic Games Store This Week?](https://www.cnet.com/tech/gaming/list-of-free-games-on-the-epic-games-store-this-week/#ftag=CAD590a51e)
- - [Meta is laying off employees in Reality Labs](https://www.theverge.com/meta/655835/meta-layoffs-reality-labs-vr-supernatural)<!-- TECH:END -->
+ - [Meta is laying off employees in Reality Labs](https://www.theverge.com/meta/655835/meta-layoffs-reality-labs-vr-supernatural)
+ - [Netflix rolls out dialogue-only subtitles](https://www.theverge.com/news/655784/netflix-subtitle-option-spoken-dialogue-only-english)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

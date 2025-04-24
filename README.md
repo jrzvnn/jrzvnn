@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thank God the diver was fren shaped](http://9gag.com/gag/aKG87K3)
- - 😝 [The first rule of fight club\u2026](http://9gag.com/gag/a7o91vz)
- - 💣 [Cops try to make paralysed man walk](http://9gag.com/gag/ajPxmvQ)
- - 😝 [Sliced human body at the Museum of Life Sciences in Brazil](http://9gag.com/gag/awyOBXx)
- - 👉 [PREDATOR BADLANDS TRAILER JUST DROPPED. As a fan of the Alien/predator franchise WTF is this? I swear to God Hollywood never ever learn anything](http://9gag.com/gag/ayN125Y)<!-- MEMES:END -->
+ - 😝 [Bought my first house at 36yo. FU and I\u2019ll see you tomorrow](http://9gag.com/gag/aRBvEK2)
+ - 😝 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)
+ - 💣 [Sadly it ends](http://9gag.com/gag/aRBvr5j)
+ - 😝 [First time seeing him idiot](http://9gag.com/gag/a348EnQ)
+ - 👉 [UK take notes](http://9gag.com/gag/aQzmEYe)<!-- MEMES:END -->
 
 ---
 

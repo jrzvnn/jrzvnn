@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sinners’ cinematographer wants you to feel the Mississippi Delta’s vastness](https://www.theverge.com/interview/654441/sinners-autumn-durald-arkapaw-interview)
- - [Here&amp;#8217;s the cheaper Nintendo Switch 2 camera that&amp;#8217;s small enough to go handheld](https://www.theverge.com/news/655709/hori-usb-nintendo-switch-2-camera-gamechat-handheld)
- - [Motorola&#39;s new Razr phones will include Perplexity&#39;s AI search engine, as part of a distribution partnership that lets Perplexity gain users rather than revenue &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250424/p24#a250424p24)
- - [The Real Winners of the Trump Memecoin Feeding Frenzy](https://www.wired.com/story/trump-memecoin-dinner-winners/)
- - [‘Who Is Doge?’ Has Become a Metaphysical Question](https://www.wired.com/story/elon-musk-doge-mystery-general-services-administration/)<!-- TECH:END -->
+ - [Meta is laying off employees in Reality Labs](https://www.theverge.com/meta/655835/meta-layoffs-reality-labs-vr-supernatural)
+ - [Netflix rolls out dialogue-only subtitles](https://www.theverge.com/news/655784/netflix-subtitle-option-spoken-dialogue-only-english)
+ - [Infinite Reality, a metaverse startup that claims it is valued at $15.5B, faces questions about the legitimacy of its funding, investor identities, and more &lpar;Phoebe Liu/Forbes&rpar;](http://www.techmeme.com/250424/p25#a250424p25)
+ - [Nintendo Switch 2 preorders are sold out everywhere](https://www.theverge.com/news/655361/nintendo-switch-2-preorders-sold-out-walmart-gamestop-target)
+ - [GameStop’s Switch 2 preorders started poorly, too](https://www.theverge.com/news/655626/nintendo-switch-2-gamestop-preorder)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

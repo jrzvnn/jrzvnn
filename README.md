@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Illegal or not, this will definitely worth the money when those idiot neighbors have a karaoke night shouting `alexa change the song` till 2 am and can`t sleep](http://9gag.com/gag/aKG8mgZ)
- - 😝 [This dude flying in a jet-powered wingsuit right next to the A380 at over 250 km/h &lpar;155 mph&rpar;](http://9gag.com/gag/aRBv3XG)
- - 💣 [Pathetic](http://9gag.com/gag/aByEmLP)
- - 😝 [Sliced human body at the Museum of Life Sciences in Brazil](http://9gag.com/gag/awyOBXx)
- - 👉 [A bit too realistic](http://9gag.com/gag/aVvZ7nw)<!-- MEMES:END -->
+ - 😝 [Women of principle](http://9gag.com/gag/aMVzEWR)
+ - 😝 [So that\u2019s why\u2026](http://9gag.com/gag/aRBvXzq)
+ - 💣 [I think you may have something here](http://9gag.com/gag/aKG8mX6)
+ - 😝 [They\u2019re so entitled and selfish](http://9gag.com/gag/aQzmXd7)
+ - 👉 [What culture? The world you live in is our culture.](http://9gag.com/gag/avyx5Ln)<!-- MEMES:END -->
 
 ---
 

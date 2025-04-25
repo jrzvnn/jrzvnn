@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Baidu CEO Robin Li says demand for text-based models like DeepSeek&#39;s is &quot;shrinking&quot; and claims its model had a higher propensity for &quot;hallucinations&quot; &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/250425/p9#a250425p9)
+ - [Best Open Earbuds, Tested and Reviewed &lpar;2025&rpar;: Bose and More](https://www.wired.com/gallery/best-open-ear-buds/)
  - [Behold the Social Security Administration’s AI Training Video](https://www.wired.com/story/social-security-ai-training-video/)
  - [Toshiba Europe researchers say they used quantum key distribution cryptography to send messages over a 250km German commercial telecommunications network &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/250425/p8#a250425p8)
- - [Best Internet Providers in South Dakota](https://www.cnet.com/home/internet/best-internet-providers-in-south-dakota/#ftag=CAD590a51e)
- - [You Can Lock and Hide Apps on Your iPhone With This Trick](https://www.cnet.com/tech/services-and-software/you-can-lock-and-hide-apps-on-your-iphone-with-this-trick/#ftag=CAD590a51e)
- - [Investors Lost $5.8B to Cryptocurrency Scams Last Year. Here&#39;s How to Keep Your Money Safe](https://www.cnet.com/personal-finance/investors-lost-5-8b-to-cryptocurrency-scams-last-year-heres-how-to-keep-your-money-safe/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in South Dakota](https://www.cnet.com/home/internet/best-internet-providers-in-south-dakota/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

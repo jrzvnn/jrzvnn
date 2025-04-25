@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Temu and Shein raise prices ahead of de minimis tariff exemption expiring on May 2 and urged customers to make purchases prior to April 25 to avoid 120% tariffs &lpar;CNN&rpar;](http://www.techmeme.com/250425/p13#a250425p13)
+ - [Apple to Shift All US iPhone Assembly to India Amid Tariff Turmoil, Report Says](https://www.cnet.com/tech/mobile/apple-to-shift-all-us-iphone-assembly-to-india-amid-tariff-turmoil-report-says/#ftag=CAD590a51e)
  - [Behind the Scenes](https://www.theverge.com/cs/features/655554/apocalypse-now-extras-vietnam-war-francis-ford-coppola)
  - [The Meta Trial Shows the Dangers of Selling Out](https://www.wired.com/story/the-meta-trial-shows-the-dangers-of-selling-out/)
- - [Boox&amp;#8217;s newest Android e-readers let you take notes](https://www.theverge.com/news/656174/boox-go-7-series-e-ink-e-reader-stylus-color)
- - [Apple May Shift to Making US iPhones in India. It Won&#39;t Be Easy](https://www.wired.com/story/apple-may-shift-to-making-us-iphones-in-india-it-wont-be-easy/)<!-- TECH:END -->
+ - [Boox&amp;#8217;s newest Android e-readers let you take notes](https://www.theverge.com/news/656174/boox-go-7-series-e-ink-e-reader-stylus-color)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

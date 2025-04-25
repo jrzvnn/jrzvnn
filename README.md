@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Docs: Scale AI had revenue of $870M in 2024, missing its $1B target, and plans a $150M share sale that values the startup at around $25B, up 80% from a year ago &lpar;The Information&rpar;](http://www.techmeme.com/250425/p23#a250425p23)
+ - [The US SEC Chairman says the agency has ample authority to oversee digital assets as Congress debates if SEC or the CFTC should be the primary crypto regulator &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/250425/p22#a250425p22)
+ - [Deliveroo, which listed in London with a £7.6B valuation in 2021, says it received a buyout proposal from DoorDash that would value the company at £2.7B &lpar;Financial Times&rpar;](http://www.techmeme.com/250425/p21#a250425p21)
  - [Sources: Chinese AI startup Manus raised $75M led by Benchmark at a $500M valuation, and plans to expand to markets including the US, Japan, and the Middle East &lpar;Bloomberg&rpar;](http://www.techmeme.com/250425/p20#a250425p20)
- - [The world’s biggest zipper maker is developing a self-propelled zipper](https://www.theverge.com/news/656535/ykk-self-propelled-zipper-prototype)
- - [He Bought a Racetrack 6 Years Ago. Now He Runs the Netflix of Grassroots Motorsports](https://www.wired.com/story/garrett-mitchell-cleetus-mcfarland-frdm-motorsportsstreaming/)
- - [Sources: China has quietly exempted from tariffs at least eight classifications of US-made microchips, as it seeks to exempt &quot;irreplaceable&quot; goods &lpar;Washington Post&rpar;](http://www.techmeme.com/250425/p19#a250425p19)
- - [Chromebooks could get a boost from Snapdragon X Plus chips soon](https://www.theverge.com/news/656496/chromebook-qualcomm-snapdragon-x-plus)<!-- TECH:END -->
+ - [The world’s biggest zipper maker is developing a self-propelled zipper](https://www.theverge.com/news/656535/ykk-self-propelled-zipper-prototype)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

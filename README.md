@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cops try to make paralysed man walk](http://9gag.com/gag/ajPxmvQ)
- - 😝 [A bit too realistic](http://9gag.com/gag/aVvZ7nw)
- - 💣 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)
- - 😝 [Really!?](http://9gag.com/gag/a5QzXPr)
- - 👉 [Peaceful people](http://9gag.com/gag/aByEdYN)<!-- MEMES:END -->
+ - 😝 [Cutting wood](http://9gag.com/gag/aAyM0xd)
+ - 😝 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)
+ - 💣 [Judge can&#39;t believe his eyes](http://9gag.com/gag/aryxn55)
+ - 😝 [Peaceful people](http://9gag.com/gag/aByEdYN)
+ - 👉 [Imagine marrying Mystique... Now imagine the possibilities..](http://9gag.com/gag/a2vD1bw)<!-- MEMES:END -->
 
 ---
 

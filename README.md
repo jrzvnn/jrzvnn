@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t get married](http://9gag.com/gag/ayN14wy)
- - 😝 [Trigger warning: racism](http://9gag.com/gag/a4PAoZd)
- - 💣 [Indian reporter in USA interrupted by Peace lover](http://9gag.com/gag/apRxDQ8)
- - 😝 [Black hot chili peppers](http://9gag.com/gag/a3480vr)
- - 👉 [Wait a minute](http://9gag.com/gag/a348591)<!-- MEMES:END -->
+ - 😝 [Show me the best movie CGI that still hold up to this day.](http://9gag.com/gag/an7x7Eb)
+ - 😝 [Student who is late for class answers a question correctly in seconds](http://9gag.com/gag/avyxemq)
+ - 💣 [\u201cHey man you selling anything?\u201d](http://9gag.com/gag/adBxgzD)
+ - 😝 [Evil human being](http://9gag.com/gag/aKG8AYZ)
+ - 👉 [Don&#39;t get married](http://9gag.com/gag/ayN14wy)<!-- MEMES:END -->
 
 ---
 

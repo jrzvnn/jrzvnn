@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A bowl of European Fruit Loops &lpar;top&rpar; compared to a bowl of American Fruit Loops &lpar;bottom&rpar;. Notice the lack of vibrant colors due to the absence of harmful dyes.](http://9gag.com/gag/a2vDKEO)
- - 😝 [Hey :&rpar;](http://9gag.com/gag/awyOMrQ)
- - 💣 [Cops try to make paralysed man walk](http://9gag.com/gag/ajPxmvQ)
- - 😝 [No context needed](http://9gag.com/gag/aNDBpM0)
- - 👉 [Wife material](http://9gag.com/gag/aGyGzDz)<!-- MEMES:END -->
+ - 😝 [Container unboxing in open sea - free tobacco &lpar;3:04&rpar;](http://9gag.com/gag/apRxR49)
+ - 😝 [Fish sticks are back on the menu](http://9gag.com/gag/a87eGdd)
+ - 💣 [Thank God the diver was fren shaped](http://9gag.com/gag/aKG87K3)
+ - 😝 [Too bad they don&#39;t make movies like this anymore](http://9gag.com/gag/aByEZdN)
+ - 👉 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)<!-- MEMES:END -->
 
 ---
 

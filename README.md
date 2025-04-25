@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Really!?](http://9gag.com/gag/a5QzXPr)
- - 😝 [Peaceful people](http://9gag.com/gag/aByEdYN)
- - 💣 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)
+ - 😝 [No context needed](http://9gag.com/gag/aNDBpM0)
+ - 😝 [Show me the best movie CGI that still hold up to this day.](http://9gag.com/gag/an7x7Eb)
+ - 💣 [UK take notes](http://9gag.com/gag/aQzmEYe)
  - 😝 [After a terrorist attack on india, india decides to stop their water and orders all Pakistanis to go back till Tuesday, all visas are cancelled , borders are closed](http://9gag.com/gag/aByEyG2)
  - 👉 [Judge can&#39;t believe his eyes](http://9gag.com/gag/aryxn55)<!-- MEMES:END -->
 

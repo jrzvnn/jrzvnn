@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)
- - 😝 [Don&#39;t play with fire](http://9gag.com/gag/a7o9E6w)
- - 💣 [Peaceful people](http://9gag.com/gag/aByEdYN)
- - 😝 [Cops try to make paralysed man walk](http://9gag.com/gag/ajPxmvQ)
- - 👉 [Really!?](http://9gag.com/gag/a5QzXPr)<!-- MEMES:END -->
+ - 😝 [Really!?](http://9gag.com/gag/a5QzXPr)
+ - 😝 [Peaceful people](http://9gag.com/gag/aByEdYN)
+ - 💣 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)
+ - 😝 [After a terrorist attack on india, india decides to stop their water and orders all Pakistanis to go back till Tuesday, all visas are cancelled , borders are closed](http://9gag.com/gag/aByEyG2)
+ - 👉 [Judge can&#39;t believe his eyes](http://9gag.com/gag/aryxn55)<!-- MEMES:END -->
 
 ---
 

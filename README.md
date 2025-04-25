@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mac mini prices plunge to as low as $360 this weekend](https://appleinsider.com/articles/25/04/25/mac-mini-prices-plunge-to-as-low-as-360-this-weekend?utm_medium=rss)
+ - [Swiss National Bank says cryptocurrencies failed to meet its currency reserve standards, as a referendum campaign seeks to require SNB to hold bitcoin reserves &lpar;John Revill/Reuters&rpar;](http://www.techmeme.com/250425/p16#a250425p16)
+ - [Tom Hanks &#39;Greyhound&#39; sequel sails into D-Day &amp; the Pacific](https://appleinsider.com/articles/25/04/25/tom-hanks-greyhound-sequel-sails-into-d-day-the-pacific?utm_medium=rss)
  - [The FBI arrested a sitting judge for ‘obstruction of justice’](https://www.theverge.com/policy/656261/judge-arrested-trump-ice-obstruction-of-justice)
- - [Waymo might be willing to sell you a self-driving car, says Sundar Pichai](https://www.theverge.com/news/656267/waymo-self-driving-car-personal-long-term-business-earnings)
- - [CB Insights: fintech startups globally raised a combined $10.3B in Q1, the highest since Q1 2023; 19 US fintech startups have raised over $50M in 2025 so far &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250425/p15#a250425p15)
- - [The 9 Best Wine Glasses for Every Kind of Wine &lpar;2025&rpar;](https://www.wired.com/gallery/best-wine-glasses/)
- - [An AI-generated radio host in Australia went unnoticed for months](https://www.theverge.com/news/656245/australian-radio-station-ai-dj-workdays-with-thy)<!-- TECH:END -->
+ - [Waymo might be willing to sell you a self-driving car, says Sundar Pichai](https://www.theverge.com/news/656267/waymo-self-driving-car-personal-long-term-business-earnings)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

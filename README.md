@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple wants nearly every iPhone 18 sold in the US to come from India](https://appleinsider.com/articles/25/04/25/apple-wants-nearly-every-iphone-18-sold-in-the-us-to-come-from-india?utm_medium=rss)
  - [ChatGPT is getting a &amp;#8216;lightweight&amp;#8217; version of its deep research tool](https://www.theverge.com/news/656142/chatgpt-lightweight-deep-research-free-plus-team-pro)
- - [Baidu CEO Robin Li says demand for text-based models like DeepSeek&#39;s is &quot;shrinking&quot; and claims its model had a higher propensity for &quot;hallucinations&quot; &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/250425/p9#a250425p9)
  - [Best Open Earbuds, Tested and Reviewed &lpar;2025&rpar;: Bose and More](https://www.wired.com/gallery/best-open-ear-buds/)
  - [Behold the Social Security Administration’s AI Training Video](https://www.wired.com/story/social-security-ai-training-video/)
- - [Toshiba Europe researchers say they used quantum key distribution cryptography to send messages over a 250km German commercial telecommunications network &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/250425/p8#a250425p8)<!-- TECH:END -->
+ - [Best Internet Providers in South Dakota](https://www.cnet.com/home/internet/best-internet-providers-in-south-dakota/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

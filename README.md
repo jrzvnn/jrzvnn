@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nostalgia](http://9gag.com/gag/adBx8KB)
- - 😝 [Bought my first house at 36yo. FU and I\u2019ll see you tomorrow](http://9gag.com/gag/aRBvEK2)
- - 💣 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)
- - 😝 [Sadly it ends](http://9gag.com/gag/aRBvr5j)
+ - 😝 [World Map according to Korea in 15th century.](http://9gag.com/gag/agmxAGx)
+ - 😝 [Cops try to make paralysed man walk](http://9gag.com/gag/ajPxmvQ)
+ - 💣 [\u201cHey man you selling anything?\u201d](http://9gag.com/gag/adBxgzD)
+ - 😝 [Really!?](http://9gag.com/gag/a5QzXPr)
  - 👉 [UK take notes](http://9gag.com/gag/aQzmEYe)<!-- MEMES:END -->
 
 ---

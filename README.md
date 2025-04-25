@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Three European scientific funding agencies have put research programs with China on hold since 2021 due to concerns over the country&#39;s Data Security Law &lpar;Andrew Silver/Reuters&rpar;](http://www.techmeme.com/250425/p6#a250425p6)
  - [JD.com&#39;s costly bid to challenge Meituan in food delivery, while the latter enters the e-commerce space, has led to a loss of ~$70B in combined market value &lpar;Charlotte Yang/Bloomberg&rpar;](http://www.techmeme.com/250425/p5#a250425p5)
  - [OpenAI expands deep research usage for Plus, Pro, and Team users with an o4-mini-powered lightweight version, which also rolls out to Free users today &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250425/p4#a250425p4)
  - [Baidu rolls out Ernie 4.5 Turbo and X1 Turbo, new versions of its flagship foundation and reasoning models, as it looks to take on Alibaba&#39;s Qwen and DeepSeek &lpar;Bloomberg&rpar;](http://www.techmeme.com/250425/p3#a250425p3)
- - [Adobe says Firefly users can now generate images using OpenAI&#39;s GPT, Google&#39;s Imagen 3 and Veo 2, and Flux 1.1 Pro, in addition to its own Firefly image models &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250425/p2#a250425p2)
- - [50% Off Wayfair Promo Code &amp; Coupons | April 2025](https://www.wired.com/story/wayfair-coupon/)<!-- TECH:END -->
+ - [Adobe says Firefly users can now generate images using OpenAI&#39;s GPT, Google&#39;s Imagen 3 and Veo 2, and Flux 1.1 Pro, in addition to its own Firefly image models &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250425/p2#a250425p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

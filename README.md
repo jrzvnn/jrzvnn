@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ice cream machine that never puts sticks right](http://9gag.com/gag/avyx5nW)
- - 😝 [Dress shoes was putting in work](http://9gag.com/gag/aRBvrb5)
- - 💣 [No context needed](http://9gag.com/gag/aNDBpM0)
+ - 😝 [Nostalgia](http://9gag.com/gag/adBx8KB)
+ - 😝 [Sadly it ends](http://9gag.com/gag/aRBvr5j)
+ - 💣 [Bought my first house at 36yo. FU and I\u2019ll see you tomorrow](http://9gag.com/gag/aRBvEK2)
  - 😝 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)
- - 👉 [Judge can&#39;t believe his eyes](http://9gag.com/gag/aryxn55)<!-- MEMES:END -->
+ - 👉 [UK take notes](http://9gag.com/gag/aQzmEYe)<!-- MEMES:END -->
 
 ---
 

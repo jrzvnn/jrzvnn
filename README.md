@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [World Map according to Korea in 15th century.](http://9gag.com/gag/agmxAGx)
- - 😝 [Thank God the diver was fren shaped](http://9gag.com/gag/aKG87K3)
- - 💣 [Ice cream machine that never puts sticks right](http://9gag.com/gag/avyx5nW)
- - 😝 [Sliced human body at the Museum of Life Sciences in Brazil](http://9gag.com/gag/awyOBXx)
- - 👉 [Really!?](http://9gag.com/gag/a5QzXPr)<!-- MEMES:END -->
+ - 😝 [Nostalgia](http://9gag.com/gag/adBx8KB)
+ - 😝 [Bought my first house at 36yo. FU and I\u2019ll see you tomorrow](http://9gag.com/gag/aRBvEK2)
+ - 💣 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)
+ - 😝 [Sadly it ends](http://9gag.com/gag/aRBvr5j)
+ - 👉 [UK take notes](http://9gag.com/gag/aQzmEYe)<!-- MEMES:END -->
 
 ---
 

@@ -158,9 +158,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [YouTube is testing a new AI Overviews carousel in its search results for queries focused on products and location information, for some US Premium subscribers &lpar;Danny Goodwin/Search Engine Land&rpar;](http://www.techmeme.com/250424/p45#a250424p45)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, April 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-april-25/#ftag=CAD590a51e)
  - [Sources: the US is conducting a criminal antitrust probe into TP-Link&#39;s pricing strategies and whether the router maker represents a national security threat &lpar;Bloomberg&rpar;](http://www.techmeme.com/250424/p44#a250424p44)
  - [This $25,000 Electric Slate Truck Transforms Into an SUV](https://www.cnet.com/roadshow/news/this-25000-slate-electric-truck-transforms-into-an-suv/#ftag=CAD590a51e)
- - [Keep It Simple: New Slate Truck Could Be Next Year&#39;s Cheapest EV](https://www.cnet.com/roadshow/pictures/keep-it-simple-new-slate-truck-could-be-next-years-cheapest-ev/#ftag=CAD590a51e)
  - [Slate Auto’s $25K Electric Pickup Is Here: Pricing, Specs, Range, Release Date](https://www.wired.com/story/slate-auto-electric-pickup/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

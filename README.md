@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Show me the best movie CGI that still hold up to this day.](http://9gag.com/gag/an7x7Eb)
+ - 😝 [Confirmed: The Pope was one of us.](http://9gag.com/gag/aD2bDN7)
+ - 💣 [Evil human being](http://9gag.com/gag/aKG8AYZ)
  - 😝 [Student who is late for class answers a question correctly in seconds](http://9gag.com/gag/avyxemq)
- - 💣 [\u201cHey man you selling anything?\u201d](http://9gag.com/gag/adBxgzD)
- - 😝 [Evil human being](http://9gag.com/gag/aKG8AYZ)
  - 👉 [Don&#39;t get married](http://9gag.com/gag/ayN14wy)<!-- MEMES:END -->
 
 ---

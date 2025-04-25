@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The awesome result, when Ubisoft dev manage to escape their terrible company, to create a wonderful game, free from the terrible corpo bullshit](http://9gag.com/gag/ae9x1Kq)
  - 😝 [Show me the best movie CGI that still hold up to this day.](http://9gag.com/gag/an7x7Eb)
- - 😝 [Confirmed: The Pope was one of us.](http://9gag.com/gag/aD2bDN7)
  - 💣 [Evil human being](http://9gag.com/gag/aKG8AYZ)
- - 😝 [Student who is late for class answers a question correctly in seconds](http://9gag.com/gag/avyxemq)
+ - 😝 [Confirmed: The Pope was one of us.](http://9gag.com/gag/aD2bDN7)
  - 👉 [Don&#39;t get married](http://9gag.com/gag/ayN14wy)<!-- MEMES:END -->
 
 ---

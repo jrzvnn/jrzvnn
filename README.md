@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peaceful people](http://9gag.com/gag/aByEdYN)
- - 😝 [Show me the best movie CGI that still hold up to this day.](http://9gag.com/gag/an7x7Eb)
- - 💣 [Really!?](http://9gag.com/gag/a5QzXPr)
- - 😝 [Confirmed: The Pope was one of us.](http://9gag.com/gag/aD2bDN7)
- - 👉 [Wife material](http://9gag.com/gag/aGyGzDz)<!-- MEMES:END -->
+ - 😝 [Baby do you remember the money we saved to buy a house?](http://9gag.com/gag/aXP7VjV)
+ - 😝 [Evil human being](http://9gag.com/gag/aKG8AYZ)
+ - 💣 [Wait a minute, he got the point](http://9gag.com/gag/aqyxXop)
+ - 😝 [Trigger warning: racism](http://9gag.com/gag/a4PAoZd)
+ - 👉 [Indian reporter in USA interrupted by Peace lover](http://9gag.com/gag/apRxDQ8)<!-- MEMES:END -->
 
 ---
 

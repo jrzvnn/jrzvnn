@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [PREDATOR BADLANDS TRAILER JUST DROPPED. As a fan of the Alien/predator franchise WTF is this? I swear to God Hollywood never ever learn anything](http://9gag.com/gag/ayN125Y)
  - 😝 [Ice cream machine that never puts sticks right](http://9gag.com/gag/avyx5nW)
- - 😝 [Judge can&#39;t believe his eyes](http://9gag.com/gag/aryxn55)
- - 💣 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)
- - 😝 [Cutting wood](http://9gag.com/gag/aAyM0xd)
- - 👉 [No context needed](http://9gag.com/gag/aNDBpM0)<!-- MEMES:END -->
+ - 💣 [Sliced human body at the Museum of Life Sciences in Brazil](http://9gag.com/gag/awyOBXx)
+ - 😝 [Cops try to make paralysed man walk](http://9gag.com/gag/ajPxmvQ)
+ - 👉 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)<!-- MEMES:END -->
 
 ---
 

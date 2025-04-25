@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mac mini prices plunge to as low as $360 this weekend](https://appleinsider.com/articles/25/04/25/mac-mini-prices-plunge-to-as-low-as-360-this-weekend?utm_medium=rss)
- - [Swiss National Bank says cryptocurrencies failed to meet its currency reserve standards, as a referendum campaign seeks to require SNB to hold bitcoin reserves &lpar;John Revill/Reuters&rpar;](http://www.techmeme.com/250425/p16#a250425p16)
- - [Tom Hanks &#39;Greyhound&#39; sequel sails into D-Day &amp; the Pacific](https://appleinsider.com/articles/25/04/25/tom-hanks-greyhound-sequel-sails-into-d-day-the-pacific?utm_medium=rss)
- - [The FBI arrested a sitting judge for ‘obstruction of justice’](https://www.theverge.com/policy/656261/judge-arrested-trump-ice-obstruction-of-justice)
- - [Waymo might be willing to sell you a self-driving car, says Sundar Pichai](https://www.theverge.com/news/656267/waymo-self-driving-car-personal-long-term-business-earnings)<!-- TECH:END -->
+ - [Microsoft launches Recall and AI-powered Windows search for Copilot Plus PCs](https://www.theverge.com/news/656106/microsoft-recall-copilot-plus-pc-available)
+ - [Google is killing software support for early Nest Thermostats](https://www.theverge.com/news/656332/google-ending-support-nest-thermostats)
+ - [Adidas’ 3D-printed shoes are launching globally on May 2nd](https://www.theverge.com/news/656374/adidas-climacool-shoe-3d-printed-global-availability)
+ - [Bill Gates’ daughter Phoebe launched a shopping app](https://www.theverge.com/news/656349/phoebe-gates-phia-shopping-app-extension)
+ - [Mac mini prices plunge to as low as $360 this weekend](https://appleinsider.com/articles/25/04/25/mac-mini-prices-plunge-to-as-low-as-360-this-weekend?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

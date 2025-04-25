@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cutting wood](http://9gag.com/gag/aAyM0xd)
- - 😝 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)
- - 💣 [Judge can&#39;t believe his eyes](http://9gag.com/gag/aryxn55)
- - 😝 [Peaceful people](http://9gag.com/gag/aByEdYN)
- - 👉 [Imagine marrying Mystique... Now imagine the possibilities..](http://9gag.com/gag/a2vD1bw)<!-- MEMES:END -->
+ - 😝 [First time seeing him idiot](http://9gag.com/gag/a348EnQ)
+ - 😝 [Wait a minute, he got the point](http://9gag.com/gag/aqyxXop)
+ - 💣 [My wife from beyond the three point stripe...](https://www.reddit.com/r/funny/comments/1k7mm5n/my_wife_from_beyond_the_three_point_stripe/)
+ - 😝 [This guy&#39;s DIY audio visualizer](http://9gag.com/gag/aYQMQ3q)
+ - 👉 [Evil human being](http://9gag.com/gag/aKG8AYZ)<!-- MEMES:END -->
 
 ---
 

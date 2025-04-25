@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 9 Best Wine Glasses for Every Kind of Wine &lpar;2025&rpar;](https://www.wired.com/gallery/best-wine-glasses/)
+ - [An AI-generated radio host in Australia went unnoticed for months](https://www.theverge.com/news/656245/australian-radio-station-ai-dj-workdays-with-thy)
  - [CalDigit Element 5 Hub review: A fast and reliable Thunderbolt 5 hub with only the essentials](https://appleinsider.com/articles/25/04/25/caldigit-element-5-hub-review-a-fast-and-reliable-thunderbolt-5-hub-with-only-the-essentials?utm_medium=rss)
  - [Sources: the US pushed back against EU&#39;s AI code of practice; the code is voluntary, still being finalized, and aims to help companies comply with the AI Act &lpar;Bloomberg&rpar;](http://www.techmeme.com/250425/p14#a250425p14)
- - [Temu and Shein raise prices ahead of de minimis tariff exemption expiring on May 2 and urged customers to make purchases prior to April 25 to avoid 120% tariffs &lpar;CNN&rpar;](http://www.techmeme.com/250425/p13#a250425p13)
- - [Apple to Shift All US iPhone Assembly to India Amid Tariff Turmoil, Report Says](https://www.cnet.com/tech/mobile/apple-to-shift-all-us-iphone-assembly-to-india-amid-tariff-turmoil-report-says/#ftag=CAD590a51e)
- - [Behind the Scenes](https://www.theverge.com/cs/features/655554/apocalypse-now-extras-vietnam-war-francis-ford-coppola)<!-- TECH:END -->
+ - [Temu and Shein raise prices ahead of de minimis tariff exemption expiring on May 2 and urged customers to make purchases prior to April 25 to avoid 120% tariffs &lpar;CNN&rpar;](http://www.techmeme.com/250425/p13#a250425p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

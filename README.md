@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No context needed](http://9gag.com/gag/aNDBpM0)
- - 😝 [Ice cream machine that never puts sticks right](http://9gag.com/gag/avyx5nW)
- - 💣 [Confirmed: The Pope was one of us.](http://9gag.com/gag/aD2bDN7)
- - 😝 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)
- - 👉 [Judge can&#39;t believe his eyes](http://9gag.com/gag/aryxn55)<!-- MEMES:END -->
+ - 😝 [Really!?](http://9gag.com/gag/a5QzXPr)
+ - 😝 [New year new me and some coworkers cant handle confidence](http://9gag.com/gag/a6ZBEGN)
+ - 💣 [Peaceful people](http://9gag.com/gag/aByEdYN)
+ - 😝 [Cutting wood](http://9gag.com/gag/aAyM0xd)
+ - 👉 [Ice cream machine that never puts sticks right](http://9gag.com/gag/avyx5nW)<!-- MEMES:END -->
 
 ---
 

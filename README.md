@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Behold the Social Security Administration’s AI Training Video](https://www.wired.com/story/social-security-ai-training-video/)
+ - [Toshiba Europe researchers say they used quantum key distribution cryptography to send messages over a 250km German commercial telecommunications network &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/250425/p8#a250425p8)
  - [Microsoft made an ad with generative AI and nobody noticed](https://www.theverge.com/news/656104/microsoft-surface-ad-generative-ai-copilot-intel)
  - [Brazil&#39;s AI-based social security app, launched in 2018, has cut bureaucracy in some cases but wrongly rejected hundreds of vulnerable people over minor errors &lpar;Gabriel Daros/Rest of World&rpar;](http://www.techmeme.com/250425/p7#a250425p7)
- - [Three European scientific funding agencies have put research programs with China on hold since 2021 due to concerns over the country&#39;s Data Security Law &lpar;Andrew Silver/Reuters&rpar;](http://www.techmeme.com/250425/p6#a250425p6)
- - [Best Internet Providers in Rock Hill, South Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-rock-hill-sc/#ftag=CAD590a51e)
- - [JD.com&#39;s costly bid to challenge Meituan in food delivery, while the latter enters the e-commerce space, has led to a loss of ~$70B in combined market value &lpar;Charlotte Yang/Bloomberg&rpar;](http://www.techmeme.com/250425/p5#a250425p5)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 25, #214](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-25-214/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

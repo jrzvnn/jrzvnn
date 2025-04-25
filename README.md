@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Evil human being](http://9gag.com/gag/aKG8AYZ)
- - 😝 [Picture frame fall of the wall](http://9gag.com/gag/aW4oLq2)
- - 💣 [UK take notes](http://9gag.com/gag/aQzmEYe)
+ - 😝 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)
  - 😝 [Don&#39;t play with fire](http://9gag.com/gag/a7o9E6w)
- - 👉 [Show me the best movie CGI that still hold up to this day.](http://9gag.com/gag/an7x7Eb)<!-- MEMES:END -->
+ - 💣 [Peaceful people](http://9gag.com/gag/aByEdYN)
+ - 😝 [Cops try to make paralysed man walk](http://9gag.com/gag/ajPxmvQ)
+ - 👉 [Really!?](http://9gag.com/gag/a5QzXPr)<!-- MEMES:END -->
 
 ---
 

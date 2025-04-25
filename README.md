@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [First time seeing him idiot](http://9gag.com/gag/a348EnQ)
- - 😝 [Wait a minute, he got the point](http://9gag.com/gag/aqyxXop)
- - 💣 [This guy&#39;s DIY audio visualizer](http://9gag.com/gag/aYQMQ3q)
- - 😝 [Evil human being](http://9gag.com/gag/aKG8AYZ)
- - 👉 [Hmmm....](http://9gag.com/gag/aO89eAy)<!-- MEMES:END -->
+ - 😝 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)
+ - 😝 [No context needed](http://9gag.com/gag/aNDBpM0)
+ - 💣 [Judge can&#39;t believe his eyes](http://9gag.com/gag/aryxn55)
+ - 😝 [Peaceful people](http://9gag.com/gag/aByEdYN)
+ - 👉 [After a terrorist attack on india, india decides to stop their water and orders all Pakistanis to go back till Tuesday, all visas are cancelled , borders are closed](http://9gag.com/gag/aByEyG2)<!-- MEMES:END -->
 
 ---
 

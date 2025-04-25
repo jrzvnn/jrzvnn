@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [World Map according to Korea in 15th century.](http://9gag.com/gag/agmxAGx)
+ - 😝 [Thank God the diver was fren shaped](http://9gag.com/gag/aKG87K3)
  - 😝 [Cops try to make paralysed man walk](http://9gag.com/gag/ajPxmvQ)
- - 💣 [\u201cHey man you selling anything?\u201d](http://9gag.com/gag/adBxgzD)
- - 😝 [Really!?](http://9gag.com/gag/a5QzXPr)
- - 👉 [UK take notes](http://9gag.com/gag/aQzmEYe)<!-- MEMES:END -->
+ - 💣 [Ice cream machine that never puts sticks right](http://9gag.com/gag/avyx5nW)
+ - 😝 [Judge can&#39;t believe his eyes](http://9gag.com/gag/aryxn55)
+ - 👉 [Wife material](http://9gag.com/gag/aGyGzDz)<!-- MEMES:END -->
 
 ---
 

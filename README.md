@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Show me the best movie CGI that still hold up to this day.](http://9gag.com/gag/an7x7Eb)
- - 😝 [Cutting wood](http://9gag.com/gag/aAyM0xd)
- - 💣 [Confirmed: The Pope was one of us.](http://9gag.com/gag/aD2bDN7)
- - 😝 [Peaceful people](http://9gag.com/gag/aByEdYN)
+ - 😝 [An easy-peasy lemon squeezy way to catch fish bait](http://9gag.com/gag/aE0W8L9)
+ - 😝 [Really!?](http://9gag.com/gag/a5QzXPr)
+ - 💣 [\u201cHey man you selling anything?\u201d](http://9gag.com/gag/adBxgzD)
+ - 😝 [Don&#39;t get married](http://9gag.com/gag/ayN14wy)
  - 👉 [Evil human being](http://9gag.com/gag/aKG8AYZ)<!-- MEMES:END -->
 
 ---

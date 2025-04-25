@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluesky is back up after a major outage](https://www.theverge.com/news/656058/bluesky-down-outage-feeds-not-loading)
- - [Facebook will reduce the reach of accounts sharing spammy content and make them ineligible for monetization, after Zuckerberg promised a return to &quot;OG Facebook&quot; &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250424/p41#a250424p41)
- - [The Rare Planetary &#39;Smiley Face&#39; in the Stars Is Happening Thursday Into Friday](https://www.cnet.com/news/catch-a-rare-planetary-smiley-face-in-the-stars-this-week-heres-how/#ftag=CAD590a51e)
- - [The US Federal Reserve withdraws guidance requiring banks to seek regulatory approval before engaging in crypto-related activities, joining the FDIC and OCC &lpar;Pete Schroeder/Reuters&rpar;](http://www.techmeme.com/250424/p40#a250424p40)
- - [US v. Google: a Yahoo executive estimates that a bid for Chrome would cost tens of billions of dollars, and says Yahoo &quot;would be able to pursue it with Apollo&quot; &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/250424/p39#a250424p39)<!-- TECH:END -->
+ - [Tabletop game companies sue Trump to stop tariffs](https://www.theverge.com/news/656074/trump-tariffs-lawsuit-tabletop-game-companies-stonemaier-princess-awesome)
+ - [Source: Alphabet&#39;s Q1 profit was boosted by $8B in unrealized gains from an investment in SpaceX; Alphabet has been a major SpaceX investor since at least 2015 &lpar;Davey Alba/Bloomberg&rpar;](http://www.techmeme.com/250424/p43#a250424p43)
+ - [Best Internet Providers in Nampa, Idaho](https://www.cnet.com/home/internet/best-internet-providers-in-nampa-id/#ftag=CAD590a51e)
+ - [Netflix rolls out subtitles with just spoken dialog, without audio cues or speaker names, and says ~50% of US viewing hours happen with subtitles or captions on &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250424/p42#a250424p42)
+ - [Razer Releases a Vertical Edition Ergonomic Mouse](https://www.cnet.com/tech/computing/razer-releases-a-vertical-edition-ergonomic-mouse/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

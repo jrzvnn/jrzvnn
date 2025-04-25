@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Butterfly Effect, the Chinese startup behind Manus, has discussed setting up a new HQ outside China, and separating its domestic and global businesses &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/250425/p27#a250425p27)
  - [Trump DOJ goon threatens Wikipedia](https://www.theverge.com/news/656720/ed-martin-dc-attorney-wikipedia-nonprofit-threat)
  - [Trump offers a private dinner to his biggest memecoin buyers](https://www.theverge.com/cryptocurrency/656700/trump-contest-meme-coin)
  - [Gmail gets a slider on Android tablets, AI on the side](https://www.theverge.com/news/656708/gmail-app-gemini-image-generator-workspace-ios-material-3)
- - [Deel sues Rippling for alleged defamation, libel, and deceptive trade practices, says Rippling placed an insider within Deel, is not tax compliant, and more &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250425/p26#a250425p26)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 26, #215](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-26-215/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in the Bronx, New York](https://www.cnet.com/home/internet/best-internet-providers-in-the-bronx-ny/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

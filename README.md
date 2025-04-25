@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Cops try to make paralysed man walk](http://9gag.com/gag/ajPxmvQ)
+ - 😝 [A bit too realistic](http://9gag.com/gag/aVvZ7nw)
+ - 💣 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)
  - 😝 [Really!?](http://9gag.com/gag/a5QzXPr)
- - 😝 [New year new me and some coworkers cant handle confidence](http://9gag.com/gag/a6ZBEGN)
- - 💣 [Peaceful people](http://9gag.com/gag/aByEdYN)
- - 😝 [Cutting wood](http://9gag.com/gag/aAyM0xd)
- - 👉 [Ice cream machine that never puts sticks right](http://9gag.com/gag/avyx5nW)<!-- MEMES:END -->
+ - 👉 [Peaceful people](http://9gag.com/gag/aByEdYN)<!-- MEMES:END -->
 
 ---
 

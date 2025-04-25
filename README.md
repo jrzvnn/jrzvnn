@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Don&#39;t get married](http://9gag.com/gag/ayN14wy)
- - 😝 [Show me the best movie CGI that still hold up to this day.](http://9gag.com/gag/an7x7Eb)
- - 💣 [Wife material](http://9gag.com/gag/aGyGzDz)
- - 😝 [Every single one before was awesome.](http://9gag.com/gag/a87emXZ)
- - 👉 [Confirmed: The Pope was one of us.](http://9gag.com/gag/aD2bDN7)<!-- MEMES:END -->
+ - 😝 [Trigger warning: racism](http://9gag.com/gag/a4PAoZd)
+ - 💣 [Indian reporter in USA interrupted by Peace lover](http://9gag.com/gag/apRxDQ8)
+ - 😝 [Black hot chili peppers](http://9gag.com/gag/a3480vr)
+ - 👉 [Wait a minute](http://9gag.com/gag/a348591)<!-- MEMES:END -->
 
 ---
 

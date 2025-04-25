@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Docs: X&#39;s data licensing and subscriptions revenue grew 32% YoY to $91M in February, ad revenue grew 4% YoY to $146M; Twitter had $4.5B in ad revenue in 2021 &lpar;Carmen Arroyo/Bloomberg&rpar;](http://www.techmeme.com/250425/p12#a250425p12)
  - [Everybody wants to buy Chrome](https://www.theverge.com/the-vergecast/656159/chrome-google-antitrust-ai-meta-vergecast)
  - [Nous, which plans to launch an AI training system on Solana using people&#39;s idle computing power, raised a $50M Series A, a source says at a $1B token valuation &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/250425/p11#a250425p11)
  - [Aviron Victory Treadmill Review: Get Low](https://www.wired.com/review/aviron-victory-treadmill/)
- - [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)
- - [Five years of Apple Silicon, and ten years of Apple Watch on the AppleInsider Podcast](https://appleinsider.com/articles/25/04/25/five-years-of-apple-silicon-and-ten-years-of-apple-watch-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

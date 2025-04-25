@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Behold the Social Security Administration’s AI Training Video](https://www.wired.com/story/social-security-ai-training-video/)
  - [Toshiba Europe researchers say they used quantum key distribution cryptography to send messages over a 250km German commercial telecommunications network &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/250425/p8#a250425p8)
- - [Microsoft made an ad with generative AI and nobody noticed](https://www.theverge.com/news/656104/microsoft-surface-ad-generative-ai-copilot-intel)
- - [Brazil&#39;s AI-based social security app, launched in 2018, has cut bureaucracy in some cases but wrongly rejected hundreds of vulnerable people over minor errors &lpar;Gabriel Daros/Rest of World&rpar;](http://www.techmeme.com/250425/p7#a250425p7)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 25, #214](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-25-214/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in South Dakota](https://www.cnet.com/home/internet/best-internet-providers-in-south-dakota/#ftag=CAD590a51e)
+ - [You Can Lock and Hide Apps on Your iPhone With This Trick](https://www.cnet.com/tech/services-and-software/you-can-lock-and-hide-apps-on-your-iphone-with-this-trick/#ftag=CAD590a51e)
+ - [Investors Lost $5.8B to Cryptocurrency Scams Last Year. Here&#39;s How to Keep Your Money Safe](https://www.cnet.com/personal-finance/investors-lost-5-8b-to-cryptocurrency-scams-last-year-heres-how-to-keep-your-money-safe/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Five years of Apple Silicon, and ten years of Apple Watch on the AppleInsider Podcast](https://appleinsider.com/articles/25/04/25/five-years-of-apple-silicon-and-ten-years-of-apple-watch-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Sources: Tencent Music is in advanced talks to buy Chinese podcasting startup Ximalaya in a $2.4B deal &lpar;Bloomberg&rpar;](http://www.techmeme.com/250425/p10#a250425p10)
  - [7 Best Shower Water Filters, WIRED Tested and Reviewed](https://www.wired.com/gallery/best-shower-water-filters/)
  - [Inside Apple Journal - the most personal diary you&#39;ll ever have](https://appleinsider.com/inside/ios/tips/inside-apple-journal---the-most-personal-diary-youll-ever-have?utm_medium=rss)
- - [Apple wants nearly every iPhone 18 sold in the US to come from India](https://appleinsider.com/articles/25/04/25/apple-wants-nearly-every-iphone-18-sold-in-the-us-to-come-from-india?utm_medium=rss)
- - [ChatGPT is getting a &amp;#8216;lightweight&amp;#8217; version of its deep research tool](https://www.theverge.com/news/656142/chatgpt-lightweight-deep-research-free-plus-team-pro)
- - [Baidu CEO Robin Li says demand for text-based models like DeepSeek&#39;s is &quot;shrinking&quot; and claims its model had a higher propensity for &quot;hallucinations&quot; &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/250425/p9#a250425p9)<!-- TECH:END -->
+ - [Apple wants nearly every iPhone 18 sold in the US to come from India](https://appleinsider.com/articles/25/04/25/apple-wants-nearly-every-iphone-18-sold-in-the-us-to-come-from-india?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wife material](http://9gag.com/gag/aGyGzDz)
- - 😝 [Black hot chili peppers](http://9gag.com/gag/a3480vr)
- - 💣 [Evil human being](http://9gag.com/gag/aKG8AYZ)
- - 😝 [Really!?](http://9gag.com/gag/a5QzXPr)
- - 👉 [UK take notes](http://9gag.com/gag/aQzmEYe)<!-- MEMES:END -->
+ - 😝 [Don&#39;t get married](http://9gag.com/gag/ayN14wy)
+ - 😝 [Show me the best movie CGI that still hold up to this day.](http://9gag.com/gag/an7x7Eb)
+ - 💣 [Wife material](http://9gag.com/gag/aGyGzDz)
+ - 😝 [Every single one before was awesome.](http://9gag.com/gag/a87emXZ)
+ - 👉 [Confirmed: The Pope was one of us.](http://9gag.com/gag/aD2bDN7)<!-- MEMES:END -->
 
 ---
 

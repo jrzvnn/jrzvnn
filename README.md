@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [After a terrorist attack on india, india decides to stop their water and orders all Pakistanis to go back till Tuesday, all visas are cancelled , borders are closed](http://9gag.com/gag/aByEyG2)
- - 😝 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)
- - 💣 [UK take notes](http://9gag.com/gag/aQzmEYe)
+ - 😝 [UK take notes](http://9gag.com/gag/aQzmEYe)
+ - 💣 [Elected Criminal Ring](http://9gag.com/gag/awyOzD1)
  - 😝 [Container unboxing in open sea - free tobacco &lpar;3:04&rpar;](http://9gag.com/gag/apRxR49)
- - 👉 [No context needed](http://9gag.com/gag/aNDBpM0)<!-- MEMES:END -->
+ - 👉 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)<!-- MEMES:END -->
 
 ---
 

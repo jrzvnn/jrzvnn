@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe says Firefly users can now generate images using OpenAI&#39;s GPT, Google&#39;s Imagen 3 and Veo 2, and Flux 1.1 Pro, in addition to its own Firefly image models &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250425/p2#a250425p2)
+ - [50% Off Wayfair Promo Code &amp; Coupons | April 2025](https://www.wired.com/story/wayfair-coupon/)
  - [Sources: Apple plans to move assembly of all US-sold iPhones, ~60M/year, to India by the end of 2026, as President Trump&#39;s trade war pushes a pivot from China &lpar;Financial Times&rpar;](http://www.techmeme.com/250425/p1#a250425p1)
  - [YouTube is testing a new AI Overviews carousel in its search results for queries focused on products and location information, for some US Premium subscribers &lpar;Danny Goodwin/Search Engine Land&rpar;](http://www.techmeme.com/250424/p45#a250424p45)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, April 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-april-25/#ftag=CAD590a51e)
- - [Sources: the US is conducting a criminal antitrust probe into TP-Link&#39;s pricing strategies and whether the router maker represents a national security threat &lpar;Bloomberg&rpar;](http://www.techmeme.com/250424/p44#a250424p44)
- - [This $25,000 Electric Slate Truck Transforms Into an SUV](https://www.cnet.com/roadshow/news/this-25000-slate-electric-truck-transforms-into-an-suv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, April 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-april-25/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

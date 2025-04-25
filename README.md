@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [First time seeing him idiot](http://9gag.com/gag/a348EnQ)
  - 😝 [Wait a minute, he got the point](http://9gag.com/gag/aqyxXop)
- - 💣 [My wife from beyond the three point stripe...](https://www.reddit.com/r/funny/comments/1k7mm5n/my_wife_from_beyond_the_three_point_stripe/)
- - 😝 [This guy&#39;s DIY audio visualizer](http://9gag.com/gag/aYQMQ3q)
- - 👉 [Evil human being](http://9gag.com/gag/aKG8AYZ)<!-- MEMES:END -->
+ - 💣 [This guy&#39;s DIY audio visualizer](http://9gag.com/gag/aYQMQ3q)
+ - 😝 [Evil human being](http://9gag.com/gag/aKG8AYZ)
+ - 👉 [Hmmm....](http://9gag.com/gag/aO89eAy)<!-- MEMES:END -->
 
 ---
 

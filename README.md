@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Judge can&#39;t believe his eyes](http://9gag.com/gag/aryxn55)
- - 😝 [UK take notes](http://9gag.com/gag/aQzmEYe)
- - 💣 [After a terrorist attack on india, india decides to stop their water and orders all Pakistanis to go back till Tuesday, all visas are cancelled , borders are closed](http://9gag.com/gag/aByEyG2)
+ - 😝 [Evil human being](http://9gag.com/gag/aKG8AYZ)
  - 😝 [Picture frame fall of the wall](http://9gag.com/gag/aW4oLq2)
- - 👉 [Evil human being](http://9gag.com/gag/aKG8AYZ)<!-- MEMES:END -->
+ - 💣 [UK take notes](http://9gag.com/gag/aQzmEYe)
+ - 😝 [Don&#39;t play with fire](http://9gag.com/gag/a7o9E6w)
+ - 👉 [Show me the best movie CGI that still hold up to this day.](http://9gag.com/gag/an7x7Eb)<!-- MEMES:END -->
 
 ---
 

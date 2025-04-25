@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Waymo might be willing to sell you a self-driving car, says Sundar Pichai](https://www.theverge.com/news/656267/waymo-self-driving-car-personal-long-term-business-earnings)
+ - [CB Insights: fintech startups globally raised a combined $10.3B in Q1, the highest since Q1 2023; 19 US fintech startups have raised over $50M in 2025 so far &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250425/p15#a250425p15)
  - [The 9 Best Wine Glasses for Every Kind of Wine &lpar;2025&rpar;](https://www.wired.com/gallery/best-wine-glasses/)
  - [An AI-generated radio host in Australia went unnoticed for months](https://www.theverge.com/news/656245/australian-radio-station-ai-dj-workdays-with-thy)
- - [These Groceries May See a Price Spike Because of Tariffs](https://www.cnet.com/news/these-groceries-are-most-likely-to-be-affected-by-tariffs/#ftag=CAD590a51e)
- - [Do Vibration Plates Really Work? We Asked Personal Trainers What They Think](https://www.cnet.com/health/fitness/do-vibration-plates-really-work/#ftag=CAD590a51e)
- - [Yes, the Department of Education Will Garnish Your Wages for Defaulted Student Loans. Here&#39;s What to Do](https://www.cnet.com/personal-finance/loans/yes-the-department-of-education-will-garnish-your-wages-for-defaulted-student-loans-heres-what-to-do/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These Groceries May See a Price Spike Because of Tariffs](https://www.cnet.com/news/these-groceries-are-most-likely-to-be-affected-by-tariffs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

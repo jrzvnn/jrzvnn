@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Container unboxing in open sea - free tobacco &lpar;3:04&rpar;](http://9gag.com/gag/apRxR49)
  - 😝 [World Map according to Korea in 15th century.](http://9gag.com/gag/agmxAGx)
- - 💣 [Hey :&rpar;](http://9gag.com/gag/awyOMrQ)
- - 😝 [Your money or your life](http://9gag.com/gag/aVvZ7Ey)
- - 👉 [No context needed](http://9gag.com/gag/aNDBpM0)<!-- MEMES:END -->
+ - 😝 [Thank God the diver was fren shaped](http://9gag.com/gag/aKG87K3)
+ - 💣 [Ice cream machine that never puts sticks right](http://9gag.com/gag/avyx5nW)
+ - 😝 [Sliced human body at the Museum of Life Sciences in Brazil](http://9gag.com/gag/awyOBXx)
+ - 👉 [Really!?](http://9gag.com/gag/a5QzXPr)<!-- MEMES:END -->
 
 ---
 

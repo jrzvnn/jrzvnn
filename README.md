@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nostalgia](http://9gag.com/gag/adBx8KB)
- - 😝 [Sadly it ends](http://9gag.com/gag/aRBvr5j)
- - 💣 [Bought my first house at 36yo. FU and I\u2019ll see you tomorrow](http://9gag.com/gag/aRBvEK2)
- - 😝 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)
- - 👉 [UK take notes](http://9gag.com/gag/aQzmEYe)<!-- MEMES:END -->
+ - 😝 [Cutting wood](http://9gag.com/gag/aAyM0xd)
+ - 😝 [Oops!](http://9gag.com/gag/aD2b4eO)
+ - 💣 [Good old days...](http://9gag.com/gag/aVvZb8y)
+ - 😝 [Ice cream machine that never puts sticks right](http://9gag.com/gag/avyx5nW)
+ - 👉 [No context needed](http://9gag.com/gag/aNDBpM0)<!-- MEMES:END -->
 
 ---
 

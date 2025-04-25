@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Docs: X&#39;s data licensing and subscriptions revenue grew 32% YoY to $91M in February, ad revenue grew 4% YoY to $146M; Twitter had $4.5B in ad revenue in 2021 &lpar;Carmen Arroyo/Bloomberg&rpar;](http://www.techmeme.com/250425/p12#a250425p12)
- - [Everybody wants to buy Chrome](https://www.theverge.com/the-vergecast/656159/chrome-google-antitrust-ai-meta-vergecast)
- - [Nous, which plans to launch an AI training system on Solana using people&#39;s idle computing power, raised a $50M Series A, a source says at a $1B token valuation &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/250425/p11#a250425p11)
- - [Aviron Victory Treadmill Review: Get Low](https://www.wired.com/review/aviron-victory-treadmill/)
- - [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)<!-- TECH:END -->
+ - [Behind the Scenes](https://www.theverge.com/cs/features/655554/apocalypse-now-extras-vietnam-war-francis-ford-coppola)
+ - [The Meta Trial Shows the Dangers of Selling Out](https://www.wired.com/story/the-meta-trial-shows-the-dangers-of-selling-out/)
+ - [Boox&amp;#8217;s newest Android e-readers let you take notes](https://www.theverge.com/news/656174/boox-go-7-series-e-ink-e-reader-stylus-color)
+ - [Apple May Shift to Making US iPhones in India. It Won&#39;t Be Easy](https://www.wired.com/story/apple-may-shift-to-making-us-iphones-in-india-it-wont-be-easy/)
+ - [Docs: X&#39;s data licensing and subscriptions revenue grew 32% YoY to $91M in February, ad revenue grew 4% YoY to $146M; Twitter had $4.5B in ad revenue in 2021 &lpar;Carmen Arroyo/Bloomberg&rpar;](http://www.techmeme.com/250425/p12#a250425p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

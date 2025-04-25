@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Infinity Nikki is coming soon to Steam and will add co-op mode](https://www.theverge.com/games/656486/infinity-nikki-co-op-steam-bubble-season)
+ - [NASA’s Perseverance Rover Finds Strange Rocks on Mars](https://www.wired.com/story/nasa-rover-finds-strange-rocks-on-mars-perseverance-curiosity/)
+ - [iPhone 17 Air -- All the rumors about Apple&#39;s thinnest iPhone yet](https://appleinsider.com/articles/25/04/25/iphone-17-air----all-the-rumors-about-apples-thinnest-iphone-yet?utm_medium=rss)
  - [Windows 11’s voice typing will soon let you turn off the ****ing profanity filter](https://www.theverge.com/news/656453/microsoft-windows-11-profanity-filter-voice-typing-swearing)
- - [Internal presentation by Microsoft&#39;s CFO Amy Hood: number of users for Copilot has been flat over the past year with ~20M weekly users, as ChatGPT grew to 400M &lpar;Newcomer&rpar;](http://www.techmeme.com/250425/p18#a250425p18)
- - [Signalgate: Pete Hegseth’s problematic passion for groupchats](https://www.theverge.com/news/637939/signalgate-signal-pete-hegseth-houthi-pc-small-group)
- - [Shein and Temu raise prices in response to Trump tariffs](https://www.theverge.com/tech/656165/shein-temu-price-increase-trump-tariffs-fast-fashion)
- - [Microsoft makes Recall available to all Copilot+ PCs, along with a new AI-powered Windows search and Click to Do, which works like Google&#39;s Circle to Search &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250425/p17#a250425p17)<!-- TECH:END -->
+ - [Internal presentation by Microsoft&#39;s CFO Amy Hood: number of users for Copilot has been flat over the past year with ~20M weekly users, as ChatGPT grew to 400M &lpar;Newcomer&rpar;](http://www.techmeme.com/250425/p18#a250425p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

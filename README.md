@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why are companies lining up to buy Chrome?](https://www.theverge.com/chrome/656613/google-chrome-buyers-openai-yahoo-perplexity)
  - [Sources: Microsoft plans to increase the use of third-party firms for selling software to SMBs; in-house sellers will get more training and focus on AI products &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250425/p25#a250425p25)
+ - [Perplexity’s CEO on fighting Google and the coming AI browser war](https://www.theverge.com/command-line-newsletter/656599/perplexitys-ceo-on-fighting-google-and-the-coming-ai-browser-war)
  - [Meta and Booz Allen partner to deploy Space Llama, a fine-tuned version of Llama 3.2, for research aboard the International Space Station National Laboratory &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250425/p24#a250425p24)
- - [Docs: Scale AI had revenue of $870M in 2024, missing its $1B target, and plans a $150M share sale that values the startup at around $25B, up 80% from a year ago &lpar;The Information&rpar;](http://www.techmeme.com/250425/p23#a250425p23)
- - [Best Internet Providers in Missoula, Montana](https://www.cnet.com/home/internet/best-internet-providers-in-missoula-mt/#ftag=CAD590a51e)
- - [The US SEC Chairman says the agency has ample authority to oversee digital assets as Congress debates if SEC or the CFTC should be the primary crypto regulator &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/250425/p22#a250425p22)<!-- TECH:END -->
+ - [Clair Obscur: Expedition 33 is an audacious RPG with all the right moves](https://www.theverge.com/games-review/656405/clair-obscur-expedition-33-review-xbox-ps5-pc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

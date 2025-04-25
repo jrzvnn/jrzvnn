@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Signalgate: Pete Hegseth’s problematic passion for groupchats](https://www.theverge.com/news/637939/signalgate-signal-pete-hegseth-houthi-pc-small-group)
+ - [Shein and Temu raise prices in response to Trump tariffs](https://www.theverge.com/tech/656165/shein-temu-price-increase-trump-tariffs-fast-fashion)
  - [Microsoft makes Recall available to all Copilot+ PCs, along with a new AI-powered Windows search and Click to Do, which works like Google&#39;s Circle to Search &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250425/p17#a250425p17)
  - [WD’s 2TB SSD for Xbox is $50 off and the M4 MacBook Air is just $899](https://www.theverge.com/tech/656169/wd-black-c50-xbox-storage-card-m4-macbook-air-deal-sale)
- - [Microsoft launches Recall and AI-powered Windows search for Copilot Plus PCs](https://www.theverge.com/news/656106/microsoft-recall-copilot-plus-pc-available)
- - [Google is killing software support for early Nest Thermostats](https://www.theverge.com/news/656332/google-ending-support-nest-thermostats)
- - [Adidas’ 3D-printed shoes are launching globally on May 2nd](https://www.theverge.com/news/656374/adidas-climacool-shoe-3d-printed-global-availability)<!-- TECH:END -->
+ - [Microsoft launches Recall and AI-powered Windows search for Copilot Plus PCs](https://www.theverge.com/news/656106/microsoft-recall-copilot-plus-pc-available)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

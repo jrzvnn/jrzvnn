@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [GTFO, adios](http://9gag.com/gag/aGyGEVK)
  - 😝 [Ice cream machine that never puts sticks right](http://9gag.com/gag/avyx5nW)
- - 💣 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)
- - 😝 [Judge can&#39;t believe his eyes](http://9gag.com/gag/aryxn55)
- - 👉 [No context needed](http://9gag.com/gag/aNDBpM0)<!-- MEMES:END -->
+ - 😝 [Dress shoes was putting in work](http://9gag.com/gag/aRBvrb5)
+ - 💣 [No context needed](http://9gag.com/gag/aNDBpM0)
+ - 😝 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)
+ - 👉 [Judge can&#39;t believe his eyes](http://9gag.com/gag/aryxn55)<!-- MEMES:END -->
 
 ---
 

@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [After a terrorist attack on india, india decides to stop their water and orders all Pakistanis to go back till Tuesday, all visas are cancelled , borders are closed](http://9gag.com/gag/aByEyG2)
  - 😝 [Show me the best movie CGI that still hold up to this day.](http://9gag.com/gag/an7x7Eb)
- - 💣 [Confirmed: The Pope was one of us.](http://9gag.com/gag/aD2bDN7)
- - 😝 [Really!?](http://9gag.com/gag/a5QzXPr)
- - 👉 [Peaceful people](http://9gag.com/gag/aByEdYN)<!-- MEMES:END -->
+ - 💣 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)
+ - 😝 [Peaceful people](http://9gag.com/gag/aByEdYN)
+ - 👉 [Evil human being](http://9gag.com/gag/aKG8AYZ)<!-- MEMES:END -->
 
 ---
 

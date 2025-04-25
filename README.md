@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Baidu rolls out Ernie 4.5 Turbo and X1 Turbo, new versions of its flagship foundation and reasoning models, as it looks to take on Alibaba&#39;s Qwen and DeepSeek &lpar;Bloomberg&rpar;](http://www.techmeme.com/250425/p3#a250425p3)
  - [Adobe says Firefly users can now generate images using OpenAI&#39;s GPT, Google&#39;s Imagen 3 and Veo 2, and Flux 1.1 Pro, in addition to its own Firefly image models &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250425/p2#a250425p2)
  - [50% Off Wayfair Promo Code &amp; Coupons | April 2025](https://www.wired.com/story/wayfair-coupon/)
  - [Sources: Apple plans to move assembly of all US-sold iPhones, ~60M/year, to India by the end of 2026, as President Trump&#39;s trade war pushes a pivot from China &lpar;Financial Times&rpar;](http://www.techmeme.com/250425/p1#a250425p1)
- - [YouTube is testing a new AI Overviews carousel in its search results for queries focused on products and location information, for some US Premium subscribers &lpar;Danny Goodwin/Search Engine Land&rpar;](http://www.techmeme.com/250424/p45#a250424p45)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, April 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-april-25/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [YouTube is testing a new AI Overviews carousel in its search results for queries focused on products and location information, for some US Premium subscribers &lpar;Danny Goodwin/Search Engine Land&rpar;](http://www.techmeme.com/250424/p45#a250424p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

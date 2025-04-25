@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta and Booz Allen partner to deploy Space Llama, a fine-tuned version of Llama 3.2, for research aboard the International Space Station National Laboratory &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250425/p24#a250425p24)
  - [Clair Obscur: Expedition 33 is an audacious RPG with all the right moves](https://www.theverge.com/games-review/656405/clair-obscur-expedition-33-review-xbox-ps5-pc)
  - [Is this the antidote to America’s truck bloat problem?](https://www.theverge.com/electric-cars/656270/slate-truck-bloat-size-weight-safety-tech)
  - [Docs: Scale AI had revenue of $870M in 2024, missing its $1B target, and plans a $150M share sale that values the startup at around $25B, up 80% from a year ago &lpar;The Information&rpar;](http://www.techmeme.com/250425/p23#a250425p23)
- - [The US SEC Chairman says the agency has ample authority to oversee digital assets as Congress debates if SEC or the CFTC should be the primary crypto regulator &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/250425/p22#a250425p22)
- - [Deliveroo, which listed in London with a £7.6B valuation in 2021, says it received a buyout proposal from DoorDash that would value the company at £2.7B &lpar;Financial Times&rpar;](http://www.techmeme.com/250425/p21#a250425p21)<!-- TECH:END -->
+ - [The US SEC Chairman says the agency has ample authority to oversee digital assets as Congress debates if SEC or the CFTC should be the primary crypto regulator &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/250425/p22#a250425p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bluesky is back up after a major outage](https://www.theverge.com/news/656058/bluesky-down-outage-feeds-not-loading)
+ - [Facebook will reduce the reach of accounts sharing spammy content and make them ineligible for monetization, after Zuckerberg promised a return to &quot;OG Facebook&quot; &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250424/p41#a250424p41)
+ - [The Rare Planetary &#39;Smiley Face&#39; in the Stars Is Happening Thursday Into Friday](https://www.cnet.com/news/catch-a-rare-planetary-smiley-face-in-the-stars-this-week-heres-how/#ftag=CAD590a51e)
  - [The US Federal Reserve withdraws guidance requiring banks to seek regulatory approval before engaging in crypto-related activities, joining the FDIC and OCC &lpar;Pete Schroeder/Reuters&rpar;](http://www.techmeme.com/250424/p40#a250424p40)
- - [US v. Google: a Yahoo executive estimates that a bid for Chrome would cost tens of billions of dollars, and says Yahoo &quot;would be able to pursue it with Apollo&quot; &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/250424/p39#a250424p39)
- - [Bluesky is down](https://www.theverge.com/news/656058/bluesky-down-outage-feeds-not-loading)
- - [Nintendo’s Switch 2 upgrades for Mario Party and Kirby will cost $19.99](https://www.theverge.com/news/656049/nintendo-switch-2-edition-upgrade-pack-price)
- - [IGN and CNET owner Ziff Davis sues OpenAI](https://www.theverge.com/news/656044/ziff-davis-sues-openai-ign-cnet-pcmag)<!-- TECH:END -->
+ - [US v. Google: a Yahoo executive estimates that a bid for Chrome would cost tens of billions of dollars, and says Yahoo &quot;would be able to pursue it with Apollo&quot; &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/250424/p39#a250424p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

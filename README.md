@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Deel sues Rippling for alleged defamation, libel, and deceptive trade practices, says Rippling placed an insider within Deel, is not tax compliant, and more &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250425/p26#a250425p26)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 26, #215](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-26-215/#ftag=CAD590a51e)
  - [USAID decides not to collect former workers’ abandoned devices](https://www.theverge.com/news/656626/usaid-terminated-workers-devices-phone-laptop-ipad)
  - [Why are companies lining up to buy Chrome?](https://www.theverge.com/chrome/656613/google-chrome-buyers-openai-yahoo-perplexity)
- - [Perplexity’s CEO on fighting Google and the coming AI browser war](https://www.theverge.com/command-line-newsletter/656599/perplexitys-ceo-on-fighting-google-and-the-coming-ai-browser-war)
- - [Today&#39;s NYT Connections Hints, Answers and Help for April 26, #685](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-26-685/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Microsoft plans to increase the use of third-party firms for selling software to SMBs; in-house sellers will get more training and focus on AI products &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250425/p25#a250425p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [USAID decides not to collect former workers’ abandoned devices](https://www.theverge.com/news/656626/usaid-terminated-workers-devices-phone-laptop-ipad)
  - [Why are companies lining up to buy Chrome?](https://www.theverge.com/chrome/656613/google-chrome-buyers-openai-yahoo-perplexity)
  - [Sources: Microsoft plans to increase the use of third-party firms for selling software to SMBs; in-house sellers will get more training and focus on AI products &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250425/p25#a250425p25)
  - [Perplexity’s CEO on fighting Google and the coming AI browser war](https://www.theverge.com/command-line-newsletter/656599/perplexitys-ceo-on-fighting-google-and-the-coming-ai-browser-war)
- - [Meta and Booz Allen partner to deploy Space Llama, a fine-tuned version of Llama 3.2, for research aboard the International Space Station National Laboratory &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250425/p24#a250425p24)
- - [Clair Obscur: Expedition 33 is an audacious RPG with all the right moves](https://www.theverge.com/games-review/656405/clair-obscur-expedition-33-review-xbox-ps5-pc)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for April 26, #685](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-26-685/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

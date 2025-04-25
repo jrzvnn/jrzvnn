@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thank God the diver was fren shaped](http://9gag.com/gag/aKG87K3)
- - 😝 [Cops try to make paralysed man walk](http://9gag.com/gag/ajPxmvQ)
- - 💣 [Ice cream machine that never puts sticks right](http://9gag.com/gag/avyx5nW)
+ - 😝 [Ice cream machine that never puts sticks right](http://9gag.com/gag/avyx5nW)
  - 😝 [Judge can&#39;t believe his eyes](http://9gag.com/gag/aryxn55)
- - 👉 [Wife material](http://9gag.com/gag/aGyGzDz)<!-- MEMES:END -->
+ - 💣 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)
+ - 😝 [Cutting wood](http://9gag.com/gag/aAyM0xd)
+ - 👉 [No context needed](http://9gag.com/gag/aNDBpM0)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The world’s biggest zipper maker is developing a self-propelled zipper](https://www.theverge.com/news/656535/ykk-self-propelled-zipper-prototype)
+ - [He Bought a Racetrack 6 Years Ago. Now He Runs the Netflix of Grassroots Motorsports](https://www.wired.com/story/garrett-mitchell-cleetus-mcfarland-frdm-motorsportsstreaming/)
  - [Sources: China has quietly exempted from tariffs at least eight classifications of US-made microchips, as it seeks to exempt &quot;irreplaceable&quot; goods &lpar;Washington Post&rpar;](http://www.techmeme.com/250425/p19#a250425p19)
  - [Chromebooks could get a boost from Snapdragon X Plus chips soon](https://www.theverge.com/news/656496/chromebook-qualcomm-snapdragon-x-plus)
- - [Infinity Nikki is coming soon to Steam and will add co-op mode](https://www.theverge.com/games/656486/infinity-nikki-co-op-steam-bubble-season)
- - [NASA’s Perseverance Rover Finds Strange Rocks on Mars](https://www.wired.com/story/nasa-rover-finds-strange-rocks-on-mars-perseverance-curiosity/)
- - [iPhone 17 Air -- All the rumors about Apple&#39;s thinnest iPhone yet](https://appleinsider.com/articles/25/04/25/iphone-17-air----all-the-rumors-about-apples-thinnest-iphone-yet?utm_medium=rss)<!-- TECH:END -->
+ - [Infinity Nikki is coming soon to Steam and will add co-op mode](https://www.theverge.com/games/656486/infinity-nikki-co-op-steam-bubble-season)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

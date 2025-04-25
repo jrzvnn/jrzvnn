@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Baby do you remember the money we saved to buy a house?](http://9gag.com/gag/aXP7VjV)
- - 😝 [Evil human being](http://9gag.com/gag/aKG8AYZ)
- - 💣 [Wait a minute, he got the point](http://9gag.com/gag/aqyxXop)
- - 😝 [Trigger warning: racism](http://9gag.com/gag/a4PAoZd)
- - 👉 [Indian reporter in USA interrupted by Peace lover](http://9gag.com/gag/apRxDQ8)<!-- MEMES:END -->
+ - 😝 [Wife material](http://9gag.com/gag/aGyGzDz)
+ - 😝 [Black hot chili peppers](http://9gag.com/gag/a3480vr)
+ - 💣 [Evil human being](http://9gag.com/gag/aKG8AYZ)
+ - 😝 [Really!?](http://9gag.com/gag/a5QzXPr)
+ - 👉 [UK take notes](http://9gag.com/gag/aQzmEYe)<!-- MEMES:END -->
 
 ---
 

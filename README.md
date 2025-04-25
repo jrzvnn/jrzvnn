@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nostalgia](http://9gag.com/gag/adBx8KB)
- - 😝 [Sadly it ends](http://9gag.com/gag/aRBvr5j)
- - 💣 [Bought my first house at 36yo. FU and I\u2019ll see you tomorrow](http://9gag.com/gag/aRBvEK2)
- - 😝 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)
- - 👉 [UK take notes](http://9gag.com/gag/aQzmEYe)<!-- MEMES:END -->
+ - 😝 [Confirmed: The Pope was one of us.](http://9gag.com/gag/aD2bDN7)
+ - 😝 [Peaceful people](http://9gag.com/gag/aByEdYN)
+ - 💣 [Judge can&#39;t believe his eyes](http://9gag.com/gag/aryxn55)
+ - 😝 [Ice cream machine that never puts sticks right](http://9gag.com/gag/avyx5nW)
+ - 👉 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)<!-- MEMES:END -->
 
 ---
 

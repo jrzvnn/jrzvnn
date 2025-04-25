@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cutting wood](http://9gag.com/gag/aAyM0xd)
- - 😝 [Oops!](http://9gag.com/gag/aD2b4eO)
- - 💣 [Good old days...](http://9gag.com/gag/aVvZb8y)
- - 😝 [Ice cream machine that never puts sticks right](http://9gag.com/gag/avyx5nW)
- - 👉 [No context needed](http://9gag.com/gag/aNDBpM0)<!-- MEMES:END -->
+ - 😝 [Hey :&rpar;](http://9gag.com/gag/awyOMrQ)
+ - 😝 [No context needed](http://9gag.com/gag/aNDBpM0)
+ - 💣 [Confirmed: The Pope was one of us.](http://9gag.com/gag/aD2bDN7)
+ - 😝 [Cops try to make paralysed man walk](http://9gag.com/gag/ajPxmvQ)
+ - 👉 [Cutting wood](http://9gag.com/gag/aAyM0xd)<!-- MEMES:END -->
 
 ---
 

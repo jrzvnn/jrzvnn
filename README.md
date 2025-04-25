@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leaked letter: interim DC attorney Ed Martin accused Wikipedia of allowing foreign manipulation and propaganda, threatening its tax-exempt status &lpar;Gabe Kaminsky/The Free Press&rpar;](http://www.techmeme.com/250425/p28#a250425p28)
  - [Sources: Butterfly Effect, the Chinese startup behind Manus, has discussed setting up a new HQ outside China, and separating its domestic and global businesses &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/250425/p27#a250425p27)
  - [Trump DOJ goon threatens Wikipedia](https://www.theverge.com/news/656720/ed-martin-dc-attorney-wikipedia-nonprofit-threat)
  - [Trump offers a private dinner to his biggest memecoin buyers](https://www.theverge.com/cryptocurrency/656700/trump-contest-meme-coin)
- - [Gmail gets a slider on Android tablets, AI on the side](https://www.theverge.com/news/656708/gmail-app-gemini-image-generator-workspace-ios-material-3)
- - [Best Internet Providers in the Bronx, New York](https://www.cnet.com/home/internet/best-internet-providers-in-the-bronx-ny/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Gmail gets a slider on Android tablets, AI on the side](https://www.theverge.com/news/656708/gmail-app-gemini-image-generator-workspace-ios-material-3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

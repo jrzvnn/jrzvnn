@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Vacuuming some wasps](http://9gag.com/gag/avyxzQZ)
- - 😝 [Confirmed: The Pope was one of us.](http://9gag.com/gag/aD2bDN7)
+ - 😝 [GTFO, adios](http://9gag.com/gag/aGyGEVK)
+ - 😝 [Ice cream machine that never puts sticks right](http://9gag.com/gag/avyx5nW)
  - 💣 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)
  - 😝 [Judge can&#39;t believe his eyes](http://9gag.com/gag/aryxn55)
- - 👉 [Wife material](http://9gag.com/gag/aGyGzDz)<!-- MEMES:END -->
+ - 👉 [No context needed](http://9gag.com/gag/aNDBpM0)<!-- MEMES:END -->
 
 ---
 

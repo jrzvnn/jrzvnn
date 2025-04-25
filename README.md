@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hey :&rpar;](http://9gag.com/gag/awyOMrQ)
- - 😝 [No context needed](http://9gag.com/gag/aNDBpM0)
- - 💣 [Confirmed: The Pope was one of us.](http://9gag.com/gag/aD2bDN7)
- - 😝 [Cops try to make paralysed man walk](http://9gag.com/gag/ajPxmvQ)
- - 👉 [Cutting wood](http://9gag.com/gag/aAyM0xd)<!-- MEMES:END -->
+ - 😝 [Nostalgia](http://9gag.com/gag/adBx8KB)
+ - 😝 [Sadly it ends](http://9gag.com/gag/aRBvr5j)
+ - 💣 [Bought my first house at 36yo. FU and I\u2019ll see you tomorrow](http://9gag.com/gag/aRBvEK2)
+ - 😝 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)
+ - 👉 [UK take notes](http://9gag.com/gag/aQzmEYe)<!-- MEMES:END -->
 
 ---
 

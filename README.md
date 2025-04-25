@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [PREDATOR BADLANDS TRAILER JUST DROPPED. As a fan of the Alien/predator franchise WTF is this? I swear to God Hollywood never ever learn anything](http://9gag.com/gag/ayN125Y)
- - 😝 [Cops try to make paralysed man walk](http://9gag.com/gag/ajPxmvQ)
- - 💣 [Wife material](http://9gag.com/gag/aGyGzDz)
- - 😝 [UK take notes](http://9gag.com/gag/aQzmEYe)
- - 👉 [Confirmed: The Pope was one of us.](http://9gag.com/gag/aD2bDN7)<!-- MEMES:END -->
+ - 😝 [A bowl of European Fruit Loops &lpar;top&rpar; compared to a bowl of American Fruit Loops &lpar;bottom&rpar;. Notice the lack of vibrant colors due to the absence of harmful dyes.](http://9gag.com/gag/a2vDKEO)
+ - 😝 [Hey :&rpar;](http://9gag.com/gag/awyOMrQ)
+ - 💣 [Cops try to make paralysed man walk](http://9gag.com/gag/ajPxmvQ)
+ - 😝 [No context needed](http://9gag.com/gag/aNDBpM0)
+ - 👉 [Wife material](http://9gag.com/gag/aGyGzDz)<!-- MEMES:END -->
 
 ---
 

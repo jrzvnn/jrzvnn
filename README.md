@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Busted!](http://9gag.com/gag/aNDBBEr)
- - 😝 [Redpill](http://9gag.com/gag/aByEPY2)
- - 💣 [Prescription medication being filled at a pharmacy](http://9gag.com/gag/avyxWBX)
- - 😝 [Did someone said old memes?](http://9gag.com/gag/an7xvEV)
- - 👉 [Is it too late?](http://9gag.com/gag/a87eD0p)<!-- MEMES:END -->
+ - 😝 [Creating a core memory.](http://9gag.com/gag/aByEE52)
+ - 😝 [I love golf, I just hit really hard](http://9gag.com/gag/axyOOwp)
+ - 💣 [Yeah bro, you showed him!](http://9gag.com/gag/ajPxLVp)
+ - 😝 [Brunettes have more fun!](http://9gag.com/gag/avyxEEd)
+ - 👉 [Redpill](http://9gag.com/gag/aByEPY2)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Danish frogmen](http://9gag.com/gag/ae9x42B)
- - 😝 [Swiss Guards and anti-drone weapons to protect Pope Francis&#39; funeral](http://9gag.com/gag/aAyME0R)
- - 💣 [Spider lives matter](http://9gag.com/gag/adBx1W2)
- - 😝 [Opened the fridge to eat leftover spaghetti and saw this monstrosity](http://9gag.com/gag/avyx1BM)
- - 👉 [Yeah bro, you showed him!](http://9gag.com/gag/ajPxLVp)<!-- MEMES:END -->
+ - 😝 [Father and daughter get struck by lightning at a baseball game](http://9gag.com/gag/ayN1qBM)
+ - 😝 [Prescription medication being filled at a pharmacy](http://9gag.com/gag/avyxWBX)
+ - 💣 [Picture frame fall of the wall](http://9gag.com/gag/aW4oLq2)
+ - 😝 [Oblivion is a Masterpiece](http://9gag.com/gag/aqyxRmL)
+ - 👉 [Container unboxing in open sea - free tobacco &lpar;3:04&rpar;](http://9gag.com/gag/apRxR49)<!-- MEMES:END -->
 
 ---
 

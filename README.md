@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In response to Pakistanis muslim terrorist killing Hindus and Christians in Jammu and Kashmir &lpar;India&rpar; , the India has initiated cold start, that is targeted terrorist killing and if Pakistanis wants to protect their beloved terrorists the Indians will have the reason for war!!](http://9gag.com/gag/aAyME9E)
- - 😝 [The original h0rny convo\u2026](http://9gag.com/gag/apRx1BD)
- - 💣 [Father and daughter get struck by lightning at a baseball game](http://9gag.com/gag/ayN1qBM)
- - 😝 [He got 300k in the end, and karma got her the following year; she&#39;s dead](http://9gag.com/gag/ae9xxzp)
- - 👉 [Literal cancer on earth](http://9gag.com/gag/aKG8AZQ)<!-- MEMES:END -->
+ - 😝 [Literal cancer on earth](http://9gag.com/gag/aKG8AZQ)
+ - 😝 [Deaf people be like...](http://9gag.com/gag/a6ZBDX9)
+ - 💣 [Device for infant leg muscle development in the 1940s.](http://9gag.com/gag/ae9xOWq)
+ - 😝 [Be smart. Work less](http://9gag.com/gag/aD2b69B)
+ - 👉 [When you want to have sex with a suspect in the back of your cop car, but you lock yourself in.](http://9gag.com/gag/aQzm7gw)<!-- MEMES:END -->
 
 ---
 

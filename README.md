@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use Visual Intelligence on the iPhone](https://www.theverge.com/how-to/655625/visual-intelligence-iphone-how-to)
  - [US v. Google: Chrome General Manager Parisa Tabriz testified that only Google can run Chrome, given the browser&#39;s &quot;interdependencies&quot; on other parts of Google &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/250426/p11#a250426p11)
+ - [Best Internet Providers in Pasadena, California](https://www.cnet.com/home/internet/best-internet-providers-in-pasadena-ca/#ftag=CAD590a51e)
  - [11 Best MagSafe Wallets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-wallets/)
- - [Is Google’s smart tag network any good yet?](https://www.theverge.com/google/655319/google-find-my-device-smart-tag-network-one-year-later)
- - [Q&amp;A with Perplexity CEO Aravind Srinivas on Motorola partnership, Perplexity&#39;s upcoming browser Comet, TikTok bid, ChatGPT&#39;s scale, Google&#39;s DOJ trial, and more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250426/p10#a250426p10)
- - [The 11 Best Scented Candles &lpar;2025&rpar;](https://www.wired.com/gallery/best-scented-candles/)<!-- TECH:END -->
+ - [Is Google’s smart tag network any good yet?](https://www.theverge.com/google/655319/google-find-my-device-smart-tag-network-one-year-later)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

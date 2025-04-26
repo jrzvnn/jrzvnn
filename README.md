@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stripe plans to test a stablecoin payments product aimed at companies outside the US, the UK, and the EU, using tech from Bridge, which Stripe acquired recently &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/250426/p15#a250426p15)
  - [Watching OpenAI&#39;s o3 guess a photo&#39;s location feels surreal, dystopian, and entertaining, including running Python code to examine details like license plates &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250426/p14#a250426p14)
  - [Here’s how you can prepare for the next round of Nintendo Switch 2 preorders](https://www.theverge.com/tech/653010/nintendo-switch-2-preorder-tips-tricks-release-date-price-availability-how-to-buy)
  - [Sources: ~300 London-based DeepMind staff sought to unionize with the CWU in recent weeks, to challenge AI sales to defense groups and Google&#39;s ties to Israel &lpar;Financial Times&rpar;](http://www.techmeme.com/250426/p13#a250426p13)
- - [Camera Champions Face Off: iPhone 16 Pro vs. Galaxy S25 Ultra](https://www.cnet.com/tech/mobile/camera-champions-face-off-iphone-16-pro-vs-galaxy-s25-ultra/#ftag=CAD590a51e)
- - [Digital photo frame company Nixplay cut its free cloud storage to almost nothing](https://www.theverge.com/news/656845/nixplay-smart-digital-photo-frame-cloud-storage-subscription)<!-- TECH:END -->
+ - [Camera Champions Face Off: iPhone 16 Pro vs. Galaxy S25 Ultra](https://www.cnet.com/tech/mobile/camera-champions-face-off-iphone-16-pro-vs-galaxy-s25-ultra/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

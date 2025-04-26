@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kuxiu’s ‘world first’ solid-state power bank costs a little more but lasts much longer](https://www.theverge.com/reviews/656183/kuxius-semi-solid-state-power-bank-costs-a-little-more-but-lasts-much-longer)
  - [Best Early Memorial Day Mattress Deals &lpar;2025&rpar;](https://www.wired.com/story/best-early-memorial-day-mattress-sales/)
  - [Preparing for a Recession? 6 Financial Tips That Make Sense](https://www.cnet.com/personal-finance/banking/preparing-for-a-recession-6-financial-tips-that-make-sense/#ftag=CAD590a51e)
  - [Did Apple Just Save the iPhone From Extreme Tariff Price Hikes?](https://www.cnet.com/personal-finance/taxes/did-apple-just-save-the-iphone-from-extreme-tariff-price-hikes/#ftag=CAD590a51e)
- - [Docs and sources detail the opaque market for shares of Elon Musk&#39;s private companies; Valor recently offered investors $1B worth of shares in SpaceX and xAI &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250426/p8#a250426p8)
- - [A profile of Saudi billionaire investor Prince Alwaleed, who, along with his investment firm Kingdom Holding, is the second-biggest shareholder in XAI Holdings &lpar;Devon Pendleton/Bloomberg&rpar;](http://www.techmeme.com/250426/p7#a250426p7)<!-- TECH:END -->
+ - [Docs and sources detail the opaque market for shares of Elon Musk&#39;s private companies; Valor recently offered investors $1B worth of shares in SpaceX and xAI &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250426/p8#a250426p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

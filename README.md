@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Pakistani Defence Minister accidentally admits pakistan is supporting and funding global terrorism. Let them fight. I just hope both sides have fun.](http://9gag.com/gag/aQzm7PK)
- - 😝 [Evil human being](http://9gag.com/gag/aKG8AYZ)
- - 💣 [India effectively stopped the flow of water into Pakistan. Halting 80% of the water they require for agriculture. Edging closer to war.](http://9gag.com/gag/aZZEn1p)
- - 😝 [When you want to have sex with a suspect in the back of your cop car, but you lock yourself in.](http://9gag.com/gag/aQzm7gw)
- - 👉 [Hair Colors says it all](http://9gag.com/gag/a87e0GZ)<!-- MEMES:END -->
+ - 😝 [Good old days...](http://9gag.com/gag/aVvZb8y)
+ - 💣 [I was there 20 years ago](http://9gag.com/gag/aD2bYpB)
+ - 😝 [Don&#39;t get married](http://9gag.com/gag/ayN14wy)
+ - 👉 [Picture frame fall of the wall](http://9gag.com/gag/aW4oLq2)<!-- MEMES:END -->
 
 ---
 

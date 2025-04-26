@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Opened the fridge to eat leftover spaghetti and saw this monstrosity](http://9gag.com/gag/avyx1BM)
- - 😝 [Rubber Tree Tapping](http://9gag.com/gag/aRBvBb2)
- - 💣 [Picture frame fall of the wall](http://9gag.com/gag/aW4oLq2)
- - 😝 [Yeah bro, you showed him!](http://9gag.com/gag/ajPxLVp)
- - 👉 [Device for infant leg muscle development in the 1940s.](http://9gag.com/gag/ae9xOWq)<!-- MEMES:END -->
+ - 😝 [Redpill](http://9gag.com/gag/aByEPY2)
+ - 😝 [Black hot chili peppers](http://9gag.com/gag/a3480vr)
+ - 💣 [Yeah bro, you showed him!](http://9gag.com/gag/ajPxLVp)
+ - 😝 [Father and daughter get struck by lightning at a baseball game](http://9gag.com/gag/ayN1qBM)
+ - 👉 [Container unboxing in open sea - free tobacco &lpar;3:04&rpar;](http://9gag.com/gag/apRxR49)<!-- MEMES:END -->
 
 ---
 

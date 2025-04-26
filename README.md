@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Father and daughter get struck by lightning at a baseball game](http://9gag.com/gag/ayN1qBM)
- - 😝 [Prescription medication being filled at a pharmacy](http://9gag.com/gag/avyxWBX)
- - 💣 [Picture frame fall of the wall](http://9gag.com/gag/aW4oLq2)
- - 😝 [Oblivion is a Masterpiece](http://9gag.com/gag/aqyxRmL)
+ - 😝 [Be smart. Work less](http://9gag.com/gag/aD2b69B)
+ - 😝 [I\u2019m doing my part](http://9gag.com/gag/aVvZKgv)
+ - 💣 [Device for infant leg muscle development in the 1940s.](http://9gag.com/gag/ae9xOWq)
+ - 😝 [Picture frame fall of the wall](http://9gag.com/gag/aW4oLq2)
  - 👉 [Container unboxing in open sea - free tobacco &lpar;3:04&rpar;](http://9gag.com/gag/apRxR49)<!-- MEMES:END -->
 
 ---

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Picture frame fall of the wall](http://9gag.com/gag/aW4oLq2)
  - 😝 [Every single one before was awesome.](http://9gag.com/gag/a87emXZ)
- - 💣 [Be smart. Work less](http://9gag.com/gag/aD2b69B)
- - 😝 [India effectively stopped the flow of water into Pakistan. Halting 80% of the water they require for agriculture. Edging closer to war.](http://9gag.com/gag/aZZEn1p)
+ - 😝 [Container unboxing in open sea - free tobacco &lpar;3:04&rpar;](http://9gag.com/gag/apRxR49)
+ - 💣 [....well that was exciting](http://9gag.com/gag/aYQMG4x)
+ - 😝 [Danish frogmen](http://9gag.com/gag/ae9x42B)
  - 👉 [How the hell did this happen?](http://9gag.com/gag/a9ymzrD)<!-- MEMES:END -->
 
 ---

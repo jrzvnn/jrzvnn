@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at efforts by Apple and others to become carbon neutral by investing in eucalyptus farms in Brazil&#39;s Cerrado region, amid skepticism from some ecologists &lpar;Gregory Barber/MIT Technology Review&rpar;](http://www.techmeme.com/250426/p9#a250426p9)
+ - [Pete Hegseth’s Signal Scandal Spirals Out of Control](https://www.wired.com/story/pete-hegseths-signal-scandal-spirals-out-of-control/)
  - [Meta Ray-Bans Now Speak Your Language, Roku’s New Streaming Sticks, and Kia EVs Get Supercharged—Your Gear News of the Week](https://www.wired.com/story/roku-meta-ray-bans-kia-evs-your-gear-news-of-the-week/)
  - [Kuxiu’s ‘world first’ solid-state power bank costs more but lasts much longer](https://www.theverge.com/reviews/656183/kuxius-semi-solid-state-power-bank-costs-a-little-more-but-lasts-much-longer)
- - [Best Early Memorial Day Mattress Deals &lpar;2025&rpar;](https://www.wired.com/story/best-early-memorial-day-mattress-sales/)
- - [Today&#39;s Wordle Hints, Answer and Help for April 26, #1407](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-26-1407/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for April 26, #685](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-26-685/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Early Memorial Day Mattress Deals &lpar;2025&rpar;](https://www.wired.com/story/best-early-memorial-day-mattress-sales/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

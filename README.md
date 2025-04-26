@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Creating a core memory.](http://9gag.com/gag/aByEE52)
- - 😝 [I love golf, I just hit really hard](http://9gag.com/gag/axyOOwp)
- - 💣 [Yeah bro, you showed him!](http://9gag.com/gag/ajPxLVp)
+ - 😝 [Yay for old memes](http://9gag.com/gag/aLnAm6z)
+ - 😝 [Yeah bro, you showed him!](http://9gag.com/gag/ajPxLVp)
+ - 💣 [Redpill](http://9gag.com/gag/aByEPY2)
  - 😝 [Brunettes have more fun!](http://9gag.com/gag/avyxEEd)
- - 👉 [Redpill](http://9gag.com/gag/aByEPY2)<!-- MEMES:END -->
+ - 👉 [Creating a core memory.](http://9gag.com/gag/aByEE52)<!-- MEMES:END -->
 
 ---
 

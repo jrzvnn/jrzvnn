@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Did someone said old memes?](http://9gag.com/gag/an7xvEV)
- - 😝 [The original h0rny convo\u2026](http://9gag.com/gag/apRx1BD)
- - 💣 [Black hot chili peppers](http://9gag.com/gag/a3480vr)
- - 😝 [Don&#39;t get married](http://9gag.com/gag/ayN14wy)
- - 👉 [India effectively stopped the flow of water into Pakistan. Halting 80% of the water they require for agriculture. Edging closer to war.](http://9gag.com/gag/aZZEn1p)<!-- MEMES:END -->
+ - 😝 [Rubber Tree Tapping](http://9gag.com/gag/aRBvBb2)
+ - 😝 [Card trick](http://9gag.com/gag/aAyM4XL)
+ - 💣 [Every single one before was awesome.](http://9gag.com/gag/a87emXZ)
+ - 😝 [Before going into the water, you always grab your flotation device](http://9gag.com/gag/a0en61L)
+ - 👉 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)<!-- MEMES:END -->
 
 ---
 

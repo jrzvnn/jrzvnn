@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Container unboxing in open sea - free tobacco &lpar;3:04&rpar;](http://9gag.com/gag/apRxR49)
- - 😝 [The coast of New Zealand has very strong winds, so the trees here have learned to grow sideways.](http://9gag.com/gag/aE0W6We)
- - 💣 [Danish frogmen](http://9gag.com/gag/ae9x42B)
  - 😝 [....well that was exciting](http://9gag.com/gag/aYQMG4x)
- - 👉 [Don&#39;t get married](http://9gag.com/gag/ayN14wy)<!-- MEMES:END -->
+ - 😝 [Don&#39;t get married](http://9gag.com/gag/ayN14wy)
+ - 💣 [Evil human being](http://9gag.com/gag/aKG8AYZ)
+ - 😝 [When you want to have sex with a suspect in the back of your cop car, but you lock yourself in.](http://9gag.com/gag/aQzm7gw)
+ - 👉 [Father and daughter get struck by lightning at a baseball game](http://9gag.com/gag/ayN1qBM)<!-- MEMES:END -->
 
 ---
 

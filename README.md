@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Creating a core memory.](http://9gag.com/gag/aByEE52)
+ - 😝 [Brunettes have more fun!](http://9gag.com/gag/avyxEEd)
  - 😝 [I had an old sacred text buried away](http://9gag.com/gag/aAyM4BE)
  - 💣 [Is it too late?](http://9gag.com/gag/a87eD0p)
  - 😝 [Yay for old memes](http://9gag.com/gag/aLnAm6z)

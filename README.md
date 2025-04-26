@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Best Noise-Canceling Headphones &lpar;2025&rpar;: Over-Ears, Wireless Earbuds, Workout Pairs](https://www.wired.com/gallery/best-noise-canceling-headphones/)
- - [4 Common Oral Health Changes Caused by Aging, and How to Prevent Them](https://www.cnet.com/health/personal-care/common-oral-health-changes-caused-aging-how-prevent/#ftag=CAD590a51e)
- - [Disneyland and Disney World: What to Know About the 70th Anniversary, New Rides Coming](https://www.cnet.com/tech/services-and-software/disneyland-and-disney-world-what-to-know-about-the-70th-anniversary-new-rides-coming/#ftag=CAD590a51e)
  - [Grid-Scale Battery Storage Is Quietly Revolutionizing the Energy System](https://www.wired.com/story/grid-scale-battery-storage-is-quietly-revolutionizing-the-energy-system/)
- - [The 22 Best Movies on Amazon Prime Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)<!-- TECH:END -->
+ - [The 22 Best Movies on Amazon Prime Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
+ - [The 40 Best Movies on Netflix Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 24 Best Shows on Amazon Prime Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

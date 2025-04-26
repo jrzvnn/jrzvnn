@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Don&#39;t get married](http://9gag.com/gag/ayN14wy)
- - 😝 [India effectively stopped the flow of water into Pakistan. Halting 80% of the water they require for agriculture. Edging closer to war.](http://9gag.com/gag/aZZEn1p)
- - 💣 [YEAH JAPANESE GYM](http://9gag.com/gag/ajPxVb1)
- - 😝 [Pakistani Defence Minister accidentally admits pakistan is supporting and funding global terrorism. Let them fight. I just hope both sides have fun.](http://9gag.com/gag/aQzm7PK)
- - 👉 [Black hot chili peppers](http://9gag.com/gag/a3480vr)<!-- MEMES:END -->
+ - 😝 [Container unboxing in open sea - free tobacco &lpar;3:04&rpar;](http://9gag.com/gag/apRxR49)
+ - 💣 [Atlanta is not a real place](http://9gag.com/gag/aQzmQ3r)
+ - 😝 [Cutting wood](http://9gag.com/gag/aAyM0xd)
+ - 👉 [How the hell did this happen?](http://9gag.com/gag/a9ymzrD)<!-- MEMES:END -->
 
 ---
 

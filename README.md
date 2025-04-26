@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Perplexity CEO Aravind Srinivas on Motorola partnership, Perplexity&#39;s upcoming browser Comet, TikTok bid, ChatGPT&#39;s scale, Google&#39;s DOJ trial, and more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250426/p10#a250426p10)
  - [The 11 Best Scented Candles &lpar;2025&rpar;](https://www.wired.com/gallery/best-scented-candles/)
- - [Google is paying Samsung an ‘enormous sum’ to preinstall Gemini](https://www.theverge.com/news/652746/google-samsung-gemini-default-placement-antitrust-trial)
- - [20 Mother&#39;s Day Gift Ideas Our Editors Have Tried and Love &lpar;2025&rpar;](https://www.wired.com/gallery/best-mothers-day-gifts-2024/)
- - [Bionic Bay mixes floppy physics with hard sci-fi](https://www.theverge.com/games-review/656284/bionic-bay-review-ps5-steam)
- - [Fujifilm Instax Mini 41 Review: A Stylish, Capable Budget Instant Camera](https://www.wired.com/review/fujifilm-instax-mini-41/)<!-- TECH:END -->
+ - [Premier League Soccer: Stream Newcastle vs. Ipswich Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-newcastle-vs-ipswich-live-from-anywhere/#ftag=CAD590a51e)
+ - [Astronomers Say There&#39;s an Increased Possibility of Life on This Distant Planet](https://www.cnet.com/science/space/astronomers-say-theres-an-increased-possibility-of-life-on-this-distant-planet/#ftag=CAD590a51e)
+ - [Google is paying Samsung an ‘enormous sum’ to preinstall Gemini](https://www.theverge.com/news/652746/google-samsung-gemini-default-placement-antitrust-trial)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

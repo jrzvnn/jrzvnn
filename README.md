@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Black hot chili peppers](http://9gag.com/gag/a3480vr)
- - 😝 [Picture frame fall of the wall](http://9gag.com/gag/aW4oLq2)
- - 💣 [Don&#39;t get married](http://9gag.com/gag/ayN14wy)
  - 😝 [Student who is late for class answers a question correctly in seconds](http://9gag.com/gag/avyxemq)
- - 👉 [Every single one before was awesome.](http://9gag.com/gag/a87emXZ)<!-- MEMES:END -->
+ - 💣 [India effectively stopped the flow of water into Pakistan. Halting 80% of the water they require for agriculture. Edging closer to war.](http://9gag.com/gag/aZZEn1p)
+ - 😝 [Wait a minute, he got the point](http://9gag.com/gag/aqyxXop)
+ - 👉 [Evil human being](http://9gag.com/gag/aKG8AYZ)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cutting wood](http://9gag.com/gag/aAyM0xd)
- - 😝 [Father and daughter get struck by lightning at a baseball game](http://9gag.com/gag/ayN1qBM)
- - 💣 [F**k yeah weekend](http://9gag.com/gag/aD2bnMO)
- - 😝 [Don&#39;t get married](http://9gag.com/gag/ayN14wy)
- - 👉 [Good old days...](http://9gag.com/gag/aVvZb8y)<!-- MEMES:END -->
+ - 😝 [Picture frame fall of the wall](http://9gag.com/gag/aW4oLq2)
+ - 😝 [Every single one before was awesome.](http://9gag.com/gag/a87emXZ)
+ - 💣 [Be smart. Work less](http://9gag.com/gag/aD2b69B)
+ - 😝 [India effectively stopped the flow of water into Pakistan. Halting 80% of the water they require for agriculture. Edging closer to war.](http://9gag.com/gag/aZZEn1p)
+ - 👉 [How the hell did this happen?](http://9gag.com/gag/a9ymzrD)<!-- MEMES:END -->
 
 ---
 

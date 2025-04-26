@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This Transformable Electric Truck Could Become the Cheapest EV in the US](https://www.cnet.com/roadshow/news/this-transformable-electric-truck-could-become-the-cheapest-ev-in-the-us/#ftag=CAD590a51e)
  - [At a major Hong Kong electronics exhibition, some Chinese companies say they are exploring ways to lower or skirt tariffs while others plan to wait them out &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250426/p16#a250426p16)
- - [A new Alien: Earth teaser includes the miracle of alien birth](https://www.theverge.com/entertainment/656905/alien-earth-teasers-gestation-complete-crate-fx-hulu)
- - [Chris Eubank Jr. vs. Conor Benn Fight Livestream: When It Starts and How to Watch This Boxing Rematch](https://www.cnet.com/tech/services-and-software/chris-eubank-jr-vs-conor-benn-fight-livestream-when-it-starts-and-how-to-watch-boxing-rematch/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for April 27, #420](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-27-420/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for April 27, #686](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-27-686/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [London Marathon 2025: How to Watch Live From Anywhere](https://www.cnet.com/tech/services-and-software/london-marathon-2025-how-to-watch-live-from-anywhere/#ftag=CAD590a51e)
+ - [Best Internet Providers in Lawrenceville, Georgia](https://www.cnet.com/home/internet/best-internet-providers-in-lawrenceville-ga/#ftag=CAD590a51e)
+ - [A new Alien: Earth teaser includes the miracle of alien birth](https://www.theverge.com/entertainment/656905/alien-earth-teasers-gestation-complete-crate-fx-hulu)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

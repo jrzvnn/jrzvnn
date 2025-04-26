@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An easy-peasy lemon squeezy way to catch fish bait](http://9gag.com/gag/aE0W8L9)
- - 😝 [Really!?](http://9gag.com/gag/a5QzXPr)
- - 💣 [\u201cHey man you selling anything?\u201d](http://9gag.com/gag/adBxgzD)
- - 😝 [Don&#39;t get married](http://9gag.com/gag/ayN14wy)
- - 👉 [Evil human being](http://9gag.com/gag/aKG8AYZ)<!-- MEMES:END -->
+ - 😝 [Pakistani Defence Minister accidentally admits pakistan is supporting and funding global terrorism. Let them fight. I just hope both sides have fun.](http://9gag.com/gag/aQzm7PK)
+ - 😝 [Evil human being](http://9gag.com/gag/aKG8AYZ)
+ - 💣 [India effectively stopped the flow of water into Pakistan. Halting 80% of the water they require for agriculture. Edging closer to war.](http://9gag.com/gag/aZZEn1p)
+ - 😝 [When you want to have sex with a suspect in the back of your cop car, but you lock yourself in.](http://9gag.com/gag/aQzm7gw)
+ - 👉 [Hair Colors says it all](http://9gag.com/gag/a87e0GZ)<!-- MEMES:END -->
 
 ---
 

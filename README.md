@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Be smart. Work less](http://9gag.com/gag/aD2b69B)
- - 😝 [Yeah bro, you showed him!](http://9gag.com/gag/ajPxLVp)
- - 💣 [Danish frogmen](http://9gag.com/gag/ae9x42B)
- - 😝 [Literal cancer on earth](http://9gag.com/gag/aKG8AZQ)
- - 👉 [Redpill](http://9gag.com/gag/aByEPY2)<!-- MEMES:END -->
+ - 😝 [Busted!](http://9gag.com/gag/aNDBBEr)
+ - 😝 [Redpill](http://9gag.com/gag/aByEPY2)
+ - 💣 [Prescription medication being filled at a pharmacy](http://9gag.com/gag/avyxWBX)
+ - 😝 [Did someone said old memes?](http://9gag.com/gag/an7xvEV)
+ - 👉 [Is it too late?](http://9gag.com/gag/a87eD0p)<!-- MEMES:END -->
 
 ---
 

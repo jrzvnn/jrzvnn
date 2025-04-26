@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US DOJ official says Tyler Buchanan, a 23-year-old from Scotland, and an alleged Scattered Spider cybercrime group member, was extradited from Spain to the US &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/250426/p2#a250426p2)
+ - [Etsy agrees to sell Reverb, an online musical instruments marketplace that it acquired for $275M in 2019, to investors Creator Partners and Servco &lpar;Stuart Dredge/Music Ally&rpar;](http://www.techmeme.com/250426/p1#a250426p1)
  - [Autodesk adds Jeff Epstein and Christie Simons to its board and settles the proxy fight with Starboard Value, which has criticized Autodesk for underperformance &lpar;Svea Herbst-Bayliss/Reuters&rpar;](http://www.techmeme.com/250425/p34#a250425p34)
  - [Many AI features, like Gmail&#39;s AI assistant, feel useless because they don&#39;t allow users to edit system prompts, constraining the AI models they&#39;re built with &lpar;Pete Koomen&rpar;](http://www.techmeme.com/250425/p33#a250425p33)
- - [Sources: XAI Holdings, the newly combined entity housing xAI and X, is in talks to raise roughly $20B, or possibly more, valuing the company at more than $120B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250425/p32#a250425p32)
- - [GPU prices are out of control again](https://www.theverge.com/report/656783/gpu-prices-are-out-of-control-again)
- - [Bending to industry, Donald Trump issues executive order to “expedite” deep sea mining](https://www.theverge.com/news/656766/donald-trump-executive-order-deep-sea-mining)<!-- TECH:END -->
+ - [Sources: XAI Holdings, the newly combined entity housing xAI and X, is in talks to raise roughly $20B, or possibly more, valuing the company at more than $120B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250425/p32#a250425p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

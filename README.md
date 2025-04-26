@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every single one before was awesome.](http://9gag.com/gag/a87emXZ)
  - 😝 [Container unboxing in open sea - free tobacco &lpar;3:04&rpar;](http://9gag.com/gag/apRxR49)
- - 💣 [....well that was exciting](http://9gag.com/gag/aYQMG4x)
- - 😝 [Danish frogmen](http://9gag.com/gag/ae9x42B)
- - 👉 [How the hell did this happen?](http://9gag.com/gag/a9ymzrD)<!-- MEMES:END -->
+ - 😝 [Black hot chili peppers](http://9gag.com/gag/a3480vr)
+ - 💣 [Hair Colors says it all](http://9gag.com/gag/a87e0GZ)
+ - 😝 [Pope Leo XIII is the earliest-born person ever captured on film. He was born in 1810.](http://9gag.com/gag/aVvZomw)
+ - 👉 [Be smart. Work less](http://9gag.com/gag/aD2b69B)<!-- MEMES:END -->
 
 ---
 

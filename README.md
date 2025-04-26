@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US v. Google: Chrome General Manager Parisa Tabriz testified that only Google can run Chrome, given the browser&#39;s &quot;interdependencies&quot; on other parts of Google &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/250426/p11#a250426p11)
  - [11 Best MagSafe Wallets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-wallets/)
  - [Is Google’s smart tag network any good yet?](https://www.theverge.com/google/655319/google-find-my-device-smart-tag-network-one-year-later)
  - [Q&amp;A with Perplexity CEO Aravind Srinivas on Motorola partnership, Perplexity&#39;s upcoming browser Comet, TikTok bid, ChatGPT&#39;s scale, Google&#39;s DOJ trial, and more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250426/p10#a250426p10)
- - [The 11 Best Scented Candles &lpar;2025&rpar;](https://www.wired.com/gallery/best-scented-candles/)
- - [Premier League Soccer: Stream Newcastle vs. Ipswich Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-newcastle-vs-ipswich-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 11 Best Scented Candles &lpar;2025&rpar;](https://www.wired.com/gallery/best-scented-candles/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

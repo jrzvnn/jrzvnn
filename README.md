@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Creating a core memory.](http://9gag.com/gag/aByEE52)
- - 😝 [When you want to have sex with a suspect in the back of your cop car, but you lock yourself in.](http://9gag.com/gag/aQzm7gw)
- - 💣 [I had an old sacred text buried away](http://9gag.com/gag/aAyM4BE)
  - 😝 [Yay for old memes](http://9gag.com/gag/aLnAm6z)
- - 👉 [Redpill](http://9gag.com/gag/aByEPY2)<!-- MEMES:END -->
+ - 😝 [BREAKING: Main Epstein-accuser Virginia Giuffre dies by `suicide`](http://9gag.com/gag/a1mV5BY)
+ - 💣 [Man arrested for &#39;violent speech&#39; after shouting &#39;Come on England&#39; next to pro-Hamas crowd calling for destruction of Israel](http://9gag.com/gag/agmxONg)
+ - 😝 [Fixed it. Those damn rookies don&#39;t even study memology these days](http://9gag.com/gag/avyxv2X)
+ - 👉 [Is it too late?](http://9gag.com/gag/a87eD0p)<!-- MEMES:END -->
 
 ---
 

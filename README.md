@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Prompt engineering roles, one of the buzziest jobs in 2023, become obsolete as AI models better intuit user intent and companies train staff in writing prompts &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250426/p17#a250426p17)
+ - [42 of the Best TV Shows on Netflix That Will Keep You Entertained](https://www.cnet.com/tech/services-and-software/best-tv-shows-netflix-2025/#ftag=CAD590a51e)
  - [This Transformable Electric Truck Could Become the Cheapest EV in the US](https://www.cnet.com/roadshow/news/this-transformable-electric-truck-could-become-the-cheapest-ev-in-the-us/#ftag=CAD590a51e)
  - [At a major Hong Kong electronics exhibition, some Chinese companies say they are exploring ways to lower or skirt tariffs while others plan to wait them out &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250426/p16#a250426p16)
- - [London Marathon 2025: How to Watch Live From Anywhere](https://www.cnet.com/tech/services-and-software/london-marathon-2025-how-to-watch-live-from-anywhere/#ftag=CAD590a51e)
- - [Best Internet Providers in Lawrenceville, Georgia](https://www.cnet.com/home/internet/best-internet-providers-in-lawrenceville-ga/#ftag=CAD590a51e)
- - [A new Alien: Earth teaser includes the miracle of alien birth](https://www.theverge.com/entertainment/656905/alien-earth-teasers-gestation-complete-crate-fx-hulu)<!-- TECH:END -->
+ - [London Marathon 2025: How to Watch Live From Anywhere](https://www.cnet.com/tech/services-and-software/london-marathon-2025-how-to-watch-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

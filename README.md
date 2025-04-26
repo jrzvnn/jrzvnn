@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NetEase has lost at least three senior executives in recent months, as CEO William Ding pulls back on investments and cuts jobs in a bid to boost profits &lpar;Bloomberg&rpar;](http://www.techmeme.com/250426/p5#a250426p5)
+ - [A Nigerian tribunal upholds a $220M fine imposed on Meta in July 2024 for discriminatory and exploitative practices against Nigerian consumers &lpar;Nnaemeka Onyekachi/Nairametrics&rpar;](http://www.techmeme.com/250426/p4#a250426p4)
+ - [Symbiotic, which is building a &quot;universal staking&quot; platform after starting as a restaking protocol on Ethereum, raised a $29M Series A led by Pantera Capital &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/250426/p3#a250426p3)
  - [50% Off Wayfair Promo Code &amp; Coupons | April 2025](https://www.wired.com/story/wayfair-coupon/)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, April 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-april-26/#ftag=CAD590a51e)
- - [A US DOJ official says Tyler Buchanan, a 23-year-old from Scotland, and an alleged Scattered Spider cybercrime group member, was extradited from Spain to the US &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/250426/p2#a250426p2)
- - [Etsy agrees to sell Reverb, an online musical instruments marketplace that it acquired for $275M in 2019, to investors Creator Partners and Servco &lpar;Stuart Dredge/Music Ally&rpar;](http://www.techmeme.com/250426/p1#a250426p1)
- - [Autodesk adds Jeff Epstein and Christie Simons to its board and settles the proxy fight with Starboard Value, which has criticized Autodesk for underperformance &lpar;Svea Herbst-Bayliss/Reuters&rpar;](http://www.techmeme.com/250425/p34#a250425p34)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, April 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-april-26/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

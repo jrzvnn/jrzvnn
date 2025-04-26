@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Watching OpenAI&#39;s o3 guess a photo&#39;s location feels surreal, dystopian, and entertaining, including running Python code to examine details like license plates &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250426/p14#a250426p14)
  - [Here’s how you can prepare for the next round of Nintendo Switch 2 preorders](https://www.theverge.com/tech/653010/nintendo-switch-2-preorder-tips-tricks-release-date-price-availability-how-to-buy)
  - [Sources: ~300 London-based DeepMind staff sought to unionize with the CWU in recent weeks, to challenge AI sales to defense groups and Google&#39;s ties to Israel &lpar;Financial Times&rpar;](http://www.techmeme.com/250426/p13#a250426p13)
- - [Digital photo frame company Nixplay cut its free cloud storage to almost nothing](https://www.theverge.com/news/656845/nixplay-smart-digital-photo-frame-cloud-storage-subscription)
- - [&#39;The Righteous Gemstones&#39; Is Ending: When to Watch the Second to Last Episode](https://www.cnet.com/tech/services-and-software/the-righteous-gemstones-is-ending-when-to-watch-episode-second-to-last-episode/#ftag=CAD590a51e)
- - [a16z, which owns ~20% of Deel, a stake worth $2.5B+, is advising Deel in fighting Rippling, whose CEO Parker Conrad said a16z pushed him out of Zenefits in 2016 &lpar;The Information&rpar;](http://www.techmeme.com/250426/p12#a250426p12)<!-- TECH:END -->
+ - [Camera Champions Face Off: iPhone 16 Pro vs. Galaxy S25 Ultra](https://www.cnet.com/tech/mobile/camera-champions-face-off-iphone-16-pro-vs-galaxy-s25-ultra/#ftag=CAD590a51e)
+ - [Digital photo frame company Nixplay cut its free cloud storage to almost nothing](https://www.theverge.com/news/656845/nixplay-smart-digital-photo-frame-cloud-storage-subscription)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

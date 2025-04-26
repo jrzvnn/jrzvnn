@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Evil human being](http://9gag.com/gag/aKG8AYZ)
- - 😝 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)
- - 💣 [Container unboxing in open sea - free tobacco &lpar;3:04&rpar;](http://9gag.com/gag/apRxR49)
- - 😝 [Father and daughter get struck by lightning at a baseball game](http://9gag.com/gag/ayN1qBM)
+ - 😝 [Black hot chili peppers](http://9gag.com/gag/a3480vr)
+ - 😝 [Picture frame fall of the wall](http://9gag.com/gag/aW4oLq2)
+ - 💣 [Don&#39;t get married](http://9gag.com/gag/ayN14wy)
+ - 😝 [Student who is late for class answers a question correctly in seconds](http://9gag.com/gag/avyxemq)
  - 👉 [Every single one before was awesome.](http://9gag.com/gag/a87emXZ)<!-- MEMES:END -->
 
 ---

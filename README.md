@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In response to Pakistanis muslim terrorist killing Hindus and Christians in Jammu and Kashmir &lpar;India&rpar; , the India has initiated cold start, that is targeted terrorist killing and if Pakistanis wants to protect their beloved terrorists the Indians will have the reason for war!!](http://9gag.com/gag/aAyME9E)
- - 😝 [The original h0rny convo\u2026](http://9gag.com/gag/apRx1BD)
- - 💣 [F**k yeah weekend](http://9gag.com/gag/aD2bnMO)
- - 😝 [Pakistani Defence Minister accidentally admits pakistan is supporting and funding global terrorism. Let them fight. I just hope both sides have fun.](http://9gag.com/gag/aQzm7PK)
- - 👉 [Father and daughter get struck by lightning at a baseball game](http://9gag.com/gag/ayN1qBM)<!-- MEMES:END -->
+ - 😝 [Container unboxing in open sea - free tobacco &lpar;3:04&rpar;](http://9gag.com/gag/apRxR49)
+ - 😝 [The coast of New Zealand has very strong winds, so the trees here have learned to grow sideways.](http://9gag.com/gag/aE0W6We)
+ - 💣 [Danish frogmen](http://9gag.com/gag/ae9x42B)
+ - 😝 [....well that was exciting](http://9gag.com/gag/aYQMG4x)
+ - 👉 [Don&#39;t get married](http://9gag.com/gag/ayN14wy)<!-- MEMES:END -->
 
 ---
 

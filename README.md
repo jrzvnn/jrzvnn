@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Redpill](http://9gag.com/gag/aByEPY2)
- - 😝 [Father and daughter get struck by lightning at a baseball game](http://9gag.com/gag/ayN1qBM)
- - 💣 [It&#39;s time](http://9gag.com/gag/aLnAeE5)
- - 😝 [Oblivion is a Masterpiece](http://9gag.com/gag/aqyxRmL)
- - 👉 [Man arrested for &#39;violent speech&#39; after shouting &#39;Come on England&#39; next to pro-Hamas crowd calling for destruction of Israel](http://9gag.com/gag/agmxONg)<!-- MEMES:END -->
+ - 😝 [In response to Pakistanis muslim terrorist killing Hindus and Christians in Jammu and Kashmir &lpar;India&rpar; , the India has initiated cold start, that is targeted terrorist killing and if Pakistanis wants to protect their beloved terrorists the Indians will have the reason for war!!](http://9gag.com/gag/aAyME9E)
+ - 😝 [The original h0rny convo\u2026](http://9gag.com/gag/apRx1BD)
+ - 💣 [Father and daughter get struck by lightning at a baseball game](http://9gag.com/gag/ayN1qBM)
+ - 😝 [He got 300k in the end, and karma got her the following year; she&#39;s dead](http://9gag.com/gag/ae9xxzp)
+ - 👉 [Literal cancer on earth](http://9gag.com/gag/aKG8AZQ)<!-- MEMES:END -->
 
 ---
 

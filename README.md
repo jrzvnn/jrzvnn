@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yay for old memes](http://9gag.com/gag/aLnAm6z)
- - 😝 [Yeah bro, you showed him!](http://9gag.com/gag/ajPxLVp)
- - 💣 [Redpill](http://9gag.com/gag/aByEPY2)
  - 😝 [Brunettes have more fun!](http://9gag.com/gag/avyxEEd)
- - 👉 [Creating a core memory.](http://9gag.com/gag/aByEE52)<!-- MEMES:END -->
+ - 😝 [A Buddha statue in Afghanistan before its destruction. 1992.](http://9gag.com/gag/axyOWrb)
+ - 💣 [I had an old sacred text buried away](http://9gag.com/gag/aAyM4BE)
+ - 😝 [Creating a core memory.](http://9gag.com/gag/aByEE52)
+ - 👉 [Is it too late?](http://9gag.com/gag/a87eD0p)<!-- MEMES:END -->
 
 ---
 

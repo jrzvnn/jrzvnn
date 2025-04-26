@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Black hot chili peppers](http://9gag.com/gag/a3480vr)
- - 😝 [Student who is late for class answers a question correctly in seconds](http://9gag.com/gag/avyxemq)
- - 💣 [India effectively stopped the flow of water into Pakistan. Halting 80% of the water they require for agriculture. Edging closer to war.](http://9gag.com/gag/aZZEn1p)
- - 😝 [Wait a minute, he got the point](http://9gag.com/gag/aqyxXop)
- - 👉 [Evil human being](http://9gag.com/gag/aKG8AYZ)<!-- MEMES:END -->
+ - 😝 [Did someone said old memes?](http://9gag.com/gag/an7xvEV)
+ - 😝 [The original h0rny convo\u2026](http://9gag.com/gag/apRx1BD)
+ - 💣 [Black hot chili peppers](http://9gag.com/gag/a3480vr)
+ - 😝 [Don&#39;t get married](http://9gag.com/gag/ayN14wy)
+ - 👉 [India effectively stopped the flow of water into Pakistan. Halting 80% of the water they require for agriculture. Edging closer to war.](http://9gag.com/gag/aZZEn1p)<!-- MEMES:END -->
 
 ---
 

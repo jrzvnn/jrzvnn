@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Creating a core memory.](http://9gag.com/gag/aByEE52)
- - 😝 [Danish frogmen](http://9gag.com/gag/ae9x42B)
- - 💣 [Literal cancer on earth](http://9gag.com/gag/aKG8AZQ)
- - 😝 [Redpill](http://9gag.com/gag/aByEPY2)
- - 👉 [I love golf, I just hit really hard](http://9gag.com/gag/axyOOwp)<!-- MEMES:END -->
+ - 😝 [Literal cancer on earth](http://9gag.com/gag/aKG8AZQ)
+ - 😝 [I love golf, I just hit really hard](http://9gag.com/gag/axyOOwp)
+ - 💣 [Yeah bro, you showed him!](http://9gag.com/gag/ajPxLVp)
+ - 😝 [I had an old sacred text buried away](http://9gag.com/gag/aAyM4BE)
+ - 👉 [BREAKING: Main Epstein-accuser Virginia Giuffre dies by `suicide`](http://9gag.com/gag/a1mV5BY)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Card trick](http://9gag.com/gag/aAyM4XL)
  - 😝 [Picture frame fall of the wall](http://9gag.com/gag/aW4oLq2)
- - 💣 [How to move big rocks without help from space aliens.](http://9gag.com/gag/an7xOg5)
  - 😝 [Yeah bro, you showed him!](http://9gag.com/gag/ajPxLVp)
- - 👉 [When you want to have sex with a suspect in the back of your cop car, but you lock yourself in.](http://9gag.com/gag/aQzm7gw)<!-- MEMES:END -->
+ - 💣 [....well that was exciting](http://9gag.com/gag/aYQMG4x)
+ - 😝 [Man arrested for &#39;violent speech&#39; after shouting &#39;Come on England&#39; next to pro-Hamas crowd calling for destruction of Israel](http://9gag.com/gag/agmxONg)
+ - 👉 [Before going into the water, you always grab your flotation device](http://9gag.com/gag/a0en61L)<!-- MEMES:END -->
 
 ---
 

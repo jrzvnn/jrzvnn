@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How the hell did this happen?](http://9gag.com/gag/a9ymzrD)
- - 😝 [Atlanta is not a real place](http://9gag.com/gag/aQzmQ3r)
- - 💣 [Container unboxing in open sea - free tobacco &lpar;3:04&rpar;](http://9gag.com/gag/apRxR49)
- - 😝 [Student who is late for class answers a question correctly in seconds](http://9gag.com/gag/avyxemq)
- - 👉 [Father and daughter get struck by lightning at a baseball game](http://9gag.com/gag/ayN1qBM)<!-- MEMES:END -->
+ - 😝 [Pakistani Defence Minister accidentally admits pakistan is supporting and funding global terrorism. Let them fight. I just hope both sides have fun.](http://9gag.com/gag/aQzm7PK)
+ - 😝 [Container unboxing in open sea - free tobacco &lpar;3:04&rpar;](http://9gag.com/gag/apRxR49)
+ - 💣 [Yeah bro, you showed him!](http://9gag.com/gag/ajPxLVp)
+ - 😝 [Don&#39;t get married](http://9gag.com/gag/ayN14wy)
+ - 👉 [Cutting wood](http://9gag.com/gag/aAyM0xd)<!-- MEMES:END -->
 
 ---
 

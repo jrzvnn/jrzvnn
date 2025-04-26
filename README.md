@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pakistani Defence Minister accidentally admits pakistan is supporting and funding global terrorism. Let them fight. I just hope both sides have fun.](http://9gag.com/gag/aQzm7PK)
- - 😝 [Container unboxing in open sea - free tobacco &lpar;3:04&rpar;](http://9gag.com/gag/apRxR49)
- - 💣 [Yeah bro, you showed him!](http://9gag.com/gag/ajPxLVp)
+ - 😝 [Cutting wood](http://9gag.com/gag/aAyM0xd)
+ - 😝 [Father and daughter get struck by lightning at a baseball game](http://9gag.com/gag/ayN1qBM)
+ - 💣 [F**k yeah weekend](http://9gag.com/gag/aD2bnMO)
  - 😝 [Don&#39;t get married](http://9gag.com/gag/ayN14wy)
- - 👉 [Cutting wood](http://9gag.com/gag/aAyM0xd)<!-- MEMES:END -->
+ - 👉 [Good old days...](http://9gag.com/gag/aVvZb8y)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [....well that was exciting](http://9gag.com/gag/aYQMG4x)
- - 😝 [UK take notes](http://9gag.com/gag/aQzmEYe)
- - 💣 [F**k yeah weekend](http://9gag.com/gag/aD2bnMO)
+ - 😝 [Don&#39;t get married](http://9gag.com/gag/ayN14wy)
+ - 😝 [India effectively stopped the flow of water into Pakistan. Halting 80% of the water they require for agriculture. Edging closer to war.](http://9gag.com/gag/aZZEn1p)
+ - 💣 [YEAH JAPANESE GYM](http://9gag.com/gag/ajPxVb1)
  - 😝 [Pakistani Defence Minister accidentally admits pakistan is supporting and funding global terrorism. Let them fight. I just hope both sides have fun.](http://9gag.com/gag/aQzm7PK)
- - 👉 [Student who is late for class answers a question correctly in seconds](http://9gag.com/gag/avyxemq)<!-- MEMES:END -->
+ - 👉 [Black hot chili peppers](http://9gag.com/gag/a3480vr)<!-- MEMES:END -->
 
 ---
 

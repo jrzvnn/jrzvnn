@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says it will end support for 1st- and 2nd-gen Nest thermostats on October 25, and won&#39;t launch new models in Europe due to its &quot;unique&quot; heating systems &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/250425/p29#a250425p29)
- - [Leaked letter: interim DC attorney Ed Martin accused Wikipedia of allowing foreign manipulation and propaganda, threatening its tax-exempt status &lpar;Gabe Kaminsky/The Free Press&rpar;](http://www.techmeme.com/250425/p28#a250425p28)
- - [Sources: Butterfly Effect, the Chinese startup behind Manus, has discussed setting up a new HQ outside China, and separating its domestic and global businesses &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/250425/p27#a250425p27)
- - [Trump DOJ goon threatens Wikipedia](https://www.theverge.com/news/656720/ed-martin-dc-attorney-wikipedia-nonprofit-threat)
- - [Best Internet Providers in New Hampshire](https://www.cnet.com/home/internet/best-internet-providers-in-new-hampshire/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [GPU prices are out of control again](https://www.theverge.com/report/656783/gpu-prices-are-out-of-control-again)
+ - [Bending to industry, Donald Trump issues executive order to “expedite” deep sea mining](https://www.theverge.com/news/656766/donald-trump-executive-order-deep-sea-mining)
+ - [Interpretability, or understanding how AI models work, can help mitigate many AI risks, such as misalignment and misuse, that stem from AI systems&#39; opacity &lpar;Dario Amodei&rpar;](http://www.techmeme.com/250425/p31#a250425p31)
+ - [Watch FA Cup Soccer: Livestream Crystal Palace vs. Aston Villa From Anywhere](https://www.cnet.com/tech/services-and-software/watch-fa-cup-soccer-livestream-crystal-palace-vs-aston-villa-from-anywhere/#ftag=CAD590a51e)
+ - [Reducto, which helps companies convert complex documents into inputs for LLMs, raised a $24.5M Series A led by Benchmark, following a $8.4M seed in October 2024 &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250425/p30#a250425p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [a16z, which owns ~20% of Deel, a stake worth $2.5B+, is advising Deel in fighting Rippling, whose CEO Parker Conrad said a16z pushed him out of Zenefits in 2016 &lpar;The Information&rpar;](http://www.techmeme.com/250426/p12#a250426p12)
  - [How to use Visual Intelligence on the iPhone](https://www.theverge.com/how-to/655625/visual-intelligence-iphone-how-to)
  - [US v. Google: Chrome General Manager Parisa Tabriz testified that only Google can run Chrome, given the browser&#39;s &quot;interdependencies&quot; on other parts of Google &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/250426/p11#a250426p11)
  - [Best Internet Providers in Pasadena, California](https://www.cnet.com/home/internet/best-internet-providers-in-pasadena-ca/#ftag=CAD590a51e)
- - [11 Best MagSafe Wallets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-wallets/)
- - [Is Google’s smart tag network any good yet?](https://www.theverge.com/google/655319/google-find-my-device-smart-tag-network-one-year-later)<!-- TECH:END -->
+ - [11 Best MagSafe Wallets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-wallets/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

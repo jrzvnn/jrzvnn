@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Art of the deal, amirite?](http://9gag.com/gag/a1mV7Qw)
  - 😝 [Picture frame fall of the wall](http://9gag.com/gag/aW4oLq2)
- - 😝 [Yeah bro, you showed him!](http://9gag.com/gag/ajPxLVp)
- - 💣 [....well that was exciting](http://9gag.com/gag/aYQMG4x)
- - 😝 [Man arrested for &#39;violent speech&#39; after shouting &#39;Come on England&#39; next to pro-Hamas crowd calling for destruction of Israel](http://9gag.com/gag/agmxONg)
- - 👉 [Before going into the water, you always grab your flotation device](http://9gag.com/gag/a0en61L)<!-- MEMES:END -->
+ - 💣 [Device for infant leg muscle development in the 1940s.](http://9gag.com/gag/ae9xOWq)
+ - 😝 [Mehran Karimi Nasseri](http://9gag.com/gag/ae9xOjb)
+ - 👉 [Yeah bro, you showed him!](http://9gag.com/gag/ajPxLVp)<!-- MEMES:END -->
 
 ---
 

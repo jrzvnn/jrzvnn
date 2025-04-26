@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rubber Tree Tapping](http://9gag.com/gag/aRBvBb2)
  - 😝 [Card trick](http://9gag.com/gag/aAyM4XL)
- - 💣 [Every single one before was awesome.](http://9gag.com/gag/a87emXZ)
- - 😝 [Before going into the water, you always grab your flotation device](http://9gag.com/gag/a0en61L)
- - 👉 [Why fix what&#39;s not broken, right?](http://9gag.com/gag/aD2b7mB)<!-- MEMES:END -->
+ - 😝 [Picture frame fall of the wall](http://9gag.com/gag/aW4oLq2)
+ - 💣 [How to move big rocks without help from space aliens.](http://9gag.com/gag/an7xOg5)
+ - 😝 [Yeah bro, you showed him!](http://9gag.com/gag/ajPxLVp)
+ - 👉 [When you want to have sex with a suspect in the back of your cop car, but you lock yourself in.](http://9gag.com/gag/aQzm7gw)<!-- MEMES:END -->
 
 ---
 

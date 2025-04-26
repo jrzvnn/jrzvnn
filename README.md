@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Brunettes have more fun!](http://9gag.com/gag/avyxEEd)
- - 😝 [A Buddha statue in Afghanistan before its destruction. 1992.](http://9gag.com/gag/axyOWrb)
- - 💣 [I had an old sacred text buried away](http://9gag.com/gag/aAyM4BE)
  - 😝 [Creating a core memory.](http://9gag.com/gag/aByEE52)
- - 👉 [Is it too late?](http://9gag.com/gag/a87eD0p)<!-- MEMES:END -->
+ - 😝 [I had an old sacred text buried away](http://9gag.com/gag/aAyM4BE)
+ - 💣 [Is it too late?](http://9gag.com/gag/a87eD0p)
+ - 😝 [Yay for old memes](http://9gag.com/gag/aLnAm6z)
+ - 👉 [Literal cancer on earth](http://9gag.com/gag/aKG8AZQ)<!-- MEMES:END -->
 
 ---
 

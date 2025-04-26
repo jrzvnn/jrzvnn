@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stripe plans to test a stablecoin payments product aimed at companies outside the US, the UK, and the EU, using tech from Bridge, which Stripe acquired recently &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/250426/p15#a250426p15)
- - [US Wants Judge to Break Up Google, Force Sale of Chrome: Here&#39;s What to Know](https://www.cnet.com/tech/us-wants-judge-to-break-up-google-force-sale-of-chrome-heres-what-to-know/#ftag=CAD590a51e)
- - [Watching OpenAI&#39;s o3 guess a photo&#39;s location feels surreal, dystopian, and entertaining, including running Python code to examine details like license plates &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250426/p14#a250426p14)
- - [Here’s how you can prepare for the next round of Nintendo Switch 2 preorders](https://www.theverge.com/tech/653010/nintendo-switch-2-preorder-tips-tricks-release-date-price-availability-how-to-buy)
- - [Sources: ~300 London-based DeepMind staff sought to unionize with the CWU in recent weeks, to challenge AI sales to defense groups and Google&#39;s ties to Israel &lpar;Financial Times&rpar;](http://www.techmeme.com/250426/p13#a250426p13)<!-- TECH:END -->
+ - [A new Alien: Earth teaser includes the miracle of alien birth](https://www.theverge.com/entertainment/656905/alien-earth-teasers-gestation-complete-crate-fx-hulu)
+ - [Chris Eubank Jr. vs. Conor Benn Fight Livestream: When It Starts and How to Watch This Boxing Rematch](https://www.cnet.com/tech/services-and-software/chris-eubank-jr-vs-conor-benn-fight-livestream-when-it-starts-and-how-to-watch-boxing-rematch/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 27, #420](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-27-420/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for April 27, #686](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-27-686/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for April 27, #1408](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-27-1408/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

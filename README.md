@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Preparing for a Recession? 6 Financial Tips That Make Sense](https://www.cnet.com/personal-finance/banking/preparing-for-a-recession-6-financial-tips-that-make-sense/#ftag=CAD590a51e)
  - [Did Apple Just Save the iPhone From Extreme Tariff Price Hikes?](https://www.cnet.com/personal-finance/taxes/did-apple-just-save-the-iphone-from-extreme-tariff-price-hikes/#ftag=CAD590a51e)
  - [Docs and sources detail the opaque market for shares of Elon Musk&#39;s private companies; Valor recently offered investors $1B worth of shares in SpaceX and xAI &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250426/p8#a250426p8)
  - [A profile of Saudi billionaire investor Prince Alwaleed, who, along with his investment firm Kingdom Holding, is the second-biggest shareholder in XAI Holdings &lpar;Devon Pendleton/Bloomberg&rpar;](http://www.techmeme.com/250426/p7#a250426p7)
- - [IBM has booked $6B in sales around generative AI and Red Hat&#39;s revenue has about doubled since IBM bought it, fueling a ~2x jump in IBM&#39;s stock since April 2020 &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/250426/p6#a250426p6)
- - [NetEase has lost at least three senior executives in recent months, as CEO William Ding pulls back on investments and cuts jobs in a bid to boost profits &lpar;Bloomberg&rpar;](http://www.techmeme.com/250426/p5#a250426p5)<!-- TECH:END -->
+ - [IBM has booked $6B in sales around generative AI and Red Hat&#39;s revenue has about doubled since IBM bought it, fueling a ~2x jump in IBM&#39;s stock since April 2020 &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/250426/p6#a250426p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

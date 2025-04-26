@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Art of the deal, amirite?](http://9gag.com/gag/a1mV7Qw)
- - 😝 [Picture frame fall of the wall](http://9gag.com/gag/aW4oLq2)
- - 💣 [Device for infant leg muscle development in the 1940s.](http://9gag.com/gag/ae9xOWq)
- - 😝 [Mehran Karimi Nasseri](http://9gag.com/gag/ae9xOjb)
+ - 😝 [Danish frogmen](http://9gag.com/gag/ae9x42B)
+ - 😝 [Swiss Guards and anti-drone weapons to protect Pope Francis&#39; funeral](http://9gag.com/gag/aAyME0R)
+ - 💣 [Spider lives matter](http://9gag.com/gag/adBx1W2)
+ - 😝 [Opened the fridge to eat leftover spaghetti and saw this monstrosity](http://9gag.com/gag/avyx1BM)
  - 👉 [Yeah bro, you showed him!](http://9gag.com/gag/ajPxLVp)<!-- MEMES:END -->
 
 ---

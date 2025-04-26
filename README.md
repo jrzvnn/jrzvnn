@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Brunettes have more fun!](http://9gag.com/gag/avyxEEd)
- - 😝 [I had an old sacred text buried away](http://9gag.com/gag/aAyM4BE)
- - 💣 [Is it too late?](http://9gag.com/gag/a87eD0p)
+ - 😝 [Creating a core memory.](http://9gag.com/gag/aByEE52)
+ - 😝 [When you want to have sex with a suspect in the back of your cop car, but you lock yourself in.](http://9gag.com/gag/aQzm7gw)
+ - 💣 [I had an old sacred text buried away](http://9gag.com/gag/aAyM4BE)
  - 😝 [Yay for old memes](http://9gag.com/gag/aLnAm6z)
- - 👉 [Literal cancer on earth](http://9gag.com/gag/aKG8AZQ)<!-- MEMES:END -->
+ - 👉 [Redpill](http://9gag.com/gag/aByEPY2)<!-- MEMES:END -->
 
 ---
 

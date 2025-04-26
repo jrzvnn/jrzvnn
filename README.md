@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at efforts by Apple and others to become carbon neutral by investing in eucalyptus farms in Brazil&#39;s Cerrado region, amid skepticism from some ecologists &lpar;Gregory Barber/MIT Technology Review&rpar;](http://www.techmeme.com/250426/p9#a250426p9)
- - [Pete Hegseth’s Signal Scandal Spirals Out of Control](https://www.wired.com/story/pete-hegseths-signal-scandal-spirals-out-of-control/)
- - [Meta Ray-Bans Now Speak Your Language, Roku’s New Streaming Sticks, and Kia EVs Get Supercharged—Your Gear News of the Week](https://www.wired.com/story/roku-meta-ray-bans-kia-evs-your-gear-news-of-the-week/)
- - [Kuxiu’s ‘world first’ solid-state power bank costs more but lasts much longer](https://www.theverge.com/reviews/656183/kuxius-semi-solid-state-power-bank-costs-a-little-more-but-lasts-much-longer)
- - [Best Early Memorial Day Mattress Deals &lpar;2025&rpar;](https://www.wired.com/story/best-early-memorial-day-mattress-sales/)<!-- TECH:END -->
+ - [Grid-Scale Battery Storage Is Quietly Revolutionizing the Energy System](https://www.wired.com/story/grid-scale-battery-storage-is-quietly-revolutionizing-the-energy-system/)
+ - [The 22 Best Movies on Amazon Prime Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
+ - [The 40 Best Movies on Netflix Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 24 Best Shows on Amazon Prime Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)
+ - [The 40 Best Shows on Netflix Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

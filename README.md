@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Noise-Canceling Headphones &lpar;2025&rpar;: Over-Ears, Wireless Earbuds, Workout Pairs](https://www.wired.com/gallery/best-noise-canceling-headphones/)
  - [Grid-Scale Battery Storage Is Quietly Revolutionizing the Energy System](https://www.wired.com/story/grid-scale-battery-storage-is-quietly-revolutionizing-the-energy-system/)
  - [The 22 Best Movies on Amazon Prime Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
  - [The 40 Best Movies on Netflix Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 24 Best Shows on Amazon Prime Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)
- - [The 40 Best Shows on Netflix Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
+ - [The 24 Best Shows on Amazon Prime Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

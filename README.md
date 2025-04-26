@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google is paying Samsung an ‘enormous sum’ to preinstall Gemini](https://www.theverge.com/news/652746/google-samsung-gemini-default-placement-antitrust-trial)
+ - [20 Mother&#39;s Day Gift Ideas Our Editors Have Tried and Love &lpar;2025&rpar;](https://www.wired.com/gallery/best-mothers-day-gifts-2024/)
  - [Bionic Bay mixes floppy physics with hard sci-fi](https://www.theverge.com/games-review/656284/bionic-bay-review-ps5-steam)
  - [Fujifilm Instax Mini 41 Review: A Stylish, Capable Budget Instant Camera](https://www.wired.com/review/fujifilm-instax-mini-41/)
- - [BoldHue Review: Print Your Own Foundation](https://www.wired.com/review/boldhue/)
- - [Best Noise-Canceling Headphones &lpar;2025&rpar;: Over-Ears, Wireless Earbuds, Workout Pairs](https://www.wired.com/gallery/best-noise-canceling-headphones/)
- - [4 Common Oral Health Changes Caused by Aging, and How to Prevent Them](https://www.cnet.com/health/personal-care/common-oral-health-changes-caused-aging-how-prevent/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Raspberry Pi Explained: What Is It and How Can I Use It for My Home’s Internet Connection?](https://www.cnet.com/home/internet/raspberry-pi-explained/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Container unboxing in open sea - free tobacco &lpar;3:04&rpar;](http://9gag.com/gag/apRxR49)
- - 😝 [Black hot chili peppers](http://9gag.com/gag/a3480vr)
- - 💣 [Hair Colors says it all](http://9gag.com/gag/a87e0GZ)
- - 😝 [Pope Leo XIII is the earliest-born person ever captured on film. He was born in 1810.](http://9gag.com/gag/aVvZomw)
- - 👉 [Be smart. Work less](http://9gag.com/gag/aD2b69B)<!-- MEMES:END -->
+ - 😝 [Hair Colors says it all](http://9gag.com/gag/a87e0GZ)
+ - 😝 [Evil human being](http://9gag.com/gag/aKG8AYZ)
+ - 💣 [India effectively stopped the flow of water into Pakistan. Halting 80% of the water they require for agriculture. Edging closer to war.](http://9gag.com/gag/aZZEn1p)
+ - 😝 [Every single one before was awesome.](http://9gag.com/gag/a87emXZ)
+ - 👉 [Student who is late for class answers a question correctly in seconds](http://9gag.com/gag/avyxemq)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Literal cancer on earth](http://9gag.com/gag/aKG8AZQ)
- - 😝 [Deaf people be like...](http://9gag.com/gag/a6ZBDX9)
- - 💣 [Device for infant leg muscle development in the 1940s.](http://9gag.com/gag/ae9xOWq)
- - 😝 [Be smart. Work less](http://9gag.com/gag/aD2b69B)
- - 👉 [When you want to have sex with a suspect in the back of your cop car, but you lock yourself in.](http://9gag.com/gag/aQzm7gw)<!-- MEMES:END -->
+ - 😝 [Pathetic](http://9gag.com/gag/aMVzzxM)
+ - 😝 [Card trick](http://9gag.com/gag/aAyM4XL)
+ - 💣 [Old meme is old](http://9gag.com/gag/a1mV5O6)
+ - 😝 [Be thankful to your father..](http://9gag.com/gag/a5Qzw1L)
+ - 👉 [Have a nice weekend my fellow degenerates](http://9gag.com/gag/a9ym85K)<!-- MEMES:END -->
 
 ---
 

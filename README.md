@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Redpill](http://9gag.com/gag/aByEPY2)
- - 😝 [Black hot chili peppers](http://9gag.com/gag/a3480vr)
- - 💣 [Yeah bro, you showed him!](http://9gag.com/gag/ajPxLVp)
  - 😝 [Father and daughter get struck by lightning at a baseball game](http://9gag.com/gag/ayN1qBM)
- - 👉 [Container unboxing in open sea - free tobacco &lpar;3:04&rpar;](http://9gag.com/gag/apRxR49)<!-- MEMES:END -->
+ - 💣 [It&#39;s time](http://9gag.com/gag/aLnAeE5)
+ - 😝 [Oblivion is a Masterpiece](http://9gag.com/gag/aqyxRmL)
+ - 👉 [Man arrested for &#39;violent speech&#39; after shouting &#39;Come on England&#39; next to pro-Hamas crowd calling for destruction of Israel](http://9gag.com/gag/agmxONg)<!-- MEMES:END -->
 
 ---
 

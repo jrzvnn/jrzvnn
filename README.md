@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [At a major Hong Kong electronics exhibition, some Chinese companies say they are exploring ways to lower or skirt tariffs while others plan to wait them out &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250426/p16#a250426p16)
  - [A new Alien: Earth teaser includes the miracle of alien birth](https://www.theverge.com/entertainment/656905/alien-earth-teasers-gestation-complete-crate-fx-hulu)
  - [Chris Eubank Jr. vs. Conor Benn Fight Livestream: When It Starts and How to Watch This Boxing Rematch](https://www.cnet.com/tech/services-and-software/chris-eubank-jr-vs-conor-benn-fight-livestream-when-it-starts-and-how-to-watch-boxing-rematch/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for April 27, #420](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-27-420/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for April 27, #686](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-27-686/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for April 27, #1408](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-27-1408/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for April 27, #686](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-27-686/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

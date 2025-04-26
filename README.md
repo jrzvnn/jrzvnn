@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Many AI features, like Gmail&#39;s AI assistant, feel useless because they don&#39;t allow users to edit system prompts, constraining the AI models they&#39;re built with &lpar;Pete Koomen/koomen.dev&rpar;](http://www.techmeme.com/250425/p33#a250425p33)
+ - [Sources: XAI Holdings, the newly combined entity housing xAI and X, is in talks to raise roughly $20B, or possibly more, valuing the company at more than $120B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250425/p32#a250425p32)
  - [GPU prices are out of control again](https://www.theverge.com/report/656783/gpu-prices-are-out-of-control-again)
  - [Bending to industry, Donald Trump issues executive order to “expedite” deep sea mining](https://www.theverge.com/news/656766/donald-trump-executive-order-deep-sea-mining)
- - [Interpretability, or understanding how AI models work, can help mitigate many AI risks, such as misalignment and misuse, that stem from AI systems&#39; opacity &lpar;Dario Amodei&rpar;](http://www.techmeme.com/250425/p31#a250425p31)
- - [Watch FA Cup Soccer: Livestream Crystal Palace vs. Aston Villa From Anywhere](https://www.cnet.com/tech/services-and-software/watch-fa-cup-soccer-livestream-crystal-palace-vs-aston-villa-from-anywhere/#ftag=CAD590a51e)
- - [Reducto, which helps companies convert complex documents into inputs for LLMs, raised a $24.5M Series A led by Benchmark, following a $8.4M seed in October 2024 &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250425/p30#a250425p30)<!-- TECH:END -->
+ - [Interpretability, or understanding how AI models work, can help mitigate many AI risks, such as misalignment and misuse, that stem from AI systems&#39; opacity &lpar;Dario Amodei&rpar;](http://www.techmeme.com/250425/p31#a250425p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

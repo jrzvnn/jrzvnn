@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pathetic](http://9gag.com/gag/aMVzzxM)
- - 😝 [Card trick](http://9gag.com/gag/aAyM4XL)
- - 💣 [Old meme is old](http://9gag.com/gag/a1mV5O6)
- - 😝 [Be thankful to your father..](http://9gag.com/gag/a5Qzw1L)
- - 👉 [Have a nice weekend my fellow degenerates](http://9gag.com/gag/a9ym85K)<!-- MEMES:END -->
+ - 😝 [Creating a core memory.](http://9gag.com/gag/aByEE52)
+ - 😝 [Danish frogmen](http://9gag.com/gag/ae9x42B)
+ - 💣 [Literal cancer on earth](http://9gag.com/gag/aKG8AZQ)
+ - 😝 [Redpill](http://9gag.com/gag/aByEPY2)
+ - 👉 [I love golf, I just hit really hard](http://9gag.com/gag/axyOOwp)<!-- MEMES:END -->
 
 ---
 

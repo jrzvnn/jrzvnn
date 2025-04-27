@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [While Apple&#39;s iPhone manufacturing in India matches China in quality, making the extraordinarily complex 20th anniversary iPhones outside China remains doubtful &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250427/p13#a250427p13)
  - [Best price ever: Apple&#39;s M4 MacBook Air plunges to $849](https://appleinsider.com/articles/25/04/27/best-price-ever-apples-m4-macbook-air-plunges-to-849?utm_medium=rss)
  - [Architect Partners: crypto firms have struck 88 M&amp;A and SPAC deals worth $8.2B so far in 2025, nearly 3x the $2.75B transaction value across 188 deals in 2024 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250427/p12#a250427p12)
  - [Cortisol Imbalance: Causes and How to Fix Your Stress Hormone Levels](https://www.cnet.com/health/cortisol-imbalance-causes-and-how-to-fix-your-stress-hormone-levels/#ftag=CAD590a51e)
- - [What Is DHgate? App Surges in Popularity, but Might Not Be Helpful Against Tariffs](https://www.cnet.com/culture/fashion/what-is-dhgate-app-surges-in-popularity-but-might-not-be-helpful-against-tariffs/#ftag=CAD590a51e)
- - [Best Internet Providers in Tillamook, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-tillamook-or/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What Is DHgate? App Surges in Popularity, but Might Not Be Helpful Against Tariffs](https://www.cnet.com/culture/fashion/what-is-dhgate-app-surges-in-popularity-but-might-not-be-helpful-against-tariffs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

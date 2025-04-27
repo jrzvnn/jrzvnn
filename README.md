@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nike is facing a lawsuit from people who bought its NFTs](https://www.theverge.com/news/656960/nike-lawsuit-rtfkt-nft-virtual-shoes)
  - [Relax and Destress With Our Wellness Editors&#39; Favorite Comfort Shows](https://www.cnet.com/health/sleep/relax-and-destress-with-our-wellness-editors-favorite-comfort-shows/#ftag=CAD590a51e)
  - [While Apple&#39;s iPhone manufacturing in India matches China in quality, making the extraordinarily complex 20th anniversary iPhones outside China remains doubtful &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250427/p13#a250427p13)
  - [Step Out of the Shadows. How to Turn Off Your iPhone&#39;s Incognito Mode](https://www.cnet.com/tech/mobile/step-out-of-the-shadows-how-to-turn-off-your-iphones-incognito-mode/#ftag=CAD590a51e)
- - [Best price ever: Apple&#39;s M4 MacBook Air plunges to $849](https://appleinsider.com/articles/25/04/27/best-price-ever-apples-m4-macbook-air-plunges-to-849?utm_medium=rss)
- - [Architect Partners: crypto firms have struck 88 M&amp;A and SPAC deals worth $8.2B so far in 2025, nearly 3x the $2.75B transaction value across 188 deals in 2024 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250427/p12#a250427p12)<!-- TECH:END -->
+ - [Best price ever: Apple&#39;s M4 MacBook Air plunges to $849](https://appleinsider.com/articles/25/04/27/best-price-ever-apples-m4-macbook-air-plunges-to-849?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

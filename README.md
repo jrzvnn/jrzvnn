@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me when old memes pop up.](http://9gag.com/gag/aByE44P)
- - 😝 [I love golf, I just hit really hard](http://9gag.com/gag/axyOOwp)
- - 💣 [Would like to recieve, even a bad one](http://9gag.com/gag/aZZE2WW)
- - 😝 [Women&#39;s section,` he said. `Easy,` he thought.](http://9gag.com/gag/a5QzqYO)
- - 👉 [Go woke, get broke](http://9gag.com/gag/aoyx852)<!-- MEMES:END -->
+ - 😝 [LoL](http://9gag.com/gag/a4PAqby)
+ - 😝 [I feel like I missed out on her prime years](http://9gag.com/gag/aD2bOjZ)
+ - 💣 [Yay for old memes](http://9gag.com/gag/aLnAm6z)
+ - 😝 [It is funny because she is..](http://9gag.com/gag/aRBvRv2)
+ - 👉 [During assembly of the A380, engineers discovered that the cables were too short. This was caused by the use of different design software by German and French engineers. This miscalculation led to a two-year delay.](http://9gag.com/gag/aZZEQx3)<!-- MEMES:END -->
 
 ---
 

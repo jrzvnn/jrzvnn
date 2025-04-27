@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India faces a shortage of agentic AI professionals, with executives estimating fewer than 100,000 available against a projected need of 200,000 by 2026 &lpar;Prachi Verma/The Economic Times&rpar;](http://www.techmeme.com/250427/p9#a250427p9)
- - [Dyson Supersonic r Hair Dryer Review: A Tiny Powerhouse](https://www.wired.com/review/review-dyson-supersonic-r-hair-dryer/)
- - [Star Wars is so back](https://www.theverge.com/installer-newsletter/656510/star-wars-andor-razr-ultra-instagram-edits-installer)
- - [9 Best Electric Kettles &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-electric-kettles/)
- - [9 Houseplants You Couldn&#39;t Kill if You Tried, According to Experts](https://www.cnet.com/news/we-asked-experts-about-the-hardest-houseplants-to-kill/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lighter Apple Vision Pro expected by early 2026](https://appleinsider.com/articles/25/04/27/lighter-apple-vision-pro-expected-by-early-2026?utm_medium=rss)
+ - [Parallelle Traveler Review: Unparalleled Attention to Detail](https://www.wired.com/review/parallelle-traveller/)
+ - [OnePlus 13R review: Maybe just buy a Pixel 9A](https://www.theverge.com/reviews/656305/oneplus-13r-review-maybe-just-buy-a-pixel-9a)
+ - [Clair Obscur: Expedition 33’s battles are best when you break them](https://www.theverge.com/games/656552/clair-obscur-expedition-33-battles)
+ - [India faces a shortage of agentic AI professionals, with executives estimating fewer than 100,000 available against a projected need of 200,000 by 2026 &lpar;Prachi Verma/The Economic Times&rpar;](http://www.techmeme.com/250427/p9#a250427p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

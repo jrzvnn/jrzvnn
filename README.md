@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is what muscle spasms look like.](http://9gag.com/gag/an7xrQ5)
- - 😝 [Does this count as bringing old stuff back?](http://9gag.com/gag/an7xv4q)
- - 💣 [Trow da rocky down](http://9gag.com/gag/aGyGBZ5)
+ - 😝 [My confession to the old classics...](http://9gag.com/gag/a9ym2PZ)
+ - 😝 [Fixed it. Those damn rookies don&#39;t even study memology these days](http://9gag.com/gag/avyxv2X)
+ - 💣 [Brunettes have more fun!](http://9gag.com/gag/avyxEEd)
  - 😝 [Im getting married guys!! After more than 12 years on this app as a loner, i finally met the One. He is an engineer, he loves tractors and he gave me a chicken. We are getting married tomorrow. So, Im super happy and excited about the future. Just wanted to say thank you all!](http://9gag.com/gag/axyO6LY)
- - 👉 [I feel like I missed out on her prime years](http://9gag.com/gag/aD2bOjZ)<!-- MEMES:END -->
+ - 👉 [Oh this the right time to drop this?](http://9gag.com/gag/abAxQop)<!-- MEMES:END -->
 
 ---
 

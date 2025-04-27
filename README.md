@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Flooding starts in Pakistan after India unexpectedly releases water in the Jhelum River without prior notification](http://9gag.com/gag/aW4oby3)
- - 😝 [Yay for old memes](http://9gag.com/gag/aLnAm6z)
- - 💣 [Redpill](http://9gag.com/gag/aByEPY2)
- - 😝 [Literal cancer on earth](http://9gag.com/gag/aKG8AZQ)
- - 👉 [Creating a core memory.](http://9gag.com/gag/aByEE52)<!-- MEMES:END -->
+ - 😝 [I had an old sacred text buried away](http://9gag.com/gag/aAyM4BE)
+ - 💣 [Literal cancer on earth](http://9gag.com/gag/aKG8AZQ)
+ - 😝 [Fixed it. Those damn rookies don&#39;t even study memology these days](http://9gag.com/gag/avyxv2X)
+ - 👉 [He got 300k in the end, and karma got her the following year; she&#39;s dead](http://9gag.com/gag/ae9xxzp)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alpaca, which offers APIs for financial firms to connect and trade in US stocks, raised a $52M Series C to expand into the Middle East, Europe, and Asia &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/250427/p4#a250427p4)
+ - [NYC-based Healthee, whose AI assistant Zoe lets its clients&#39; workers navigate health insurance and benefits options, raised a $50M Series B led by Key1 Capital &lpar;Erin Brodwin/Axios&rpar;](http://www.techmeme.com/250427/p3#a250427p3)
  - [Filing: China&#39;s leading flash memory chipmaker YMTC raised ~$219M from Hebei Yangyuan Zhihui Beverage Co. at a ~$22.1B valuation in December 2023 &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250427/p2#a250427p2)
  - [4chan is back online after being down for 10 days, following a hack that leaked the emails of its lead administrators, known as &quot;janitors&quot; &lpar;Owen Carry/Know Your Meme&rpar;](http://www.techmeme.com/250427/p1#a250427p1)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 27, #216](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-27-216/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, April 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-april-27/#ftag=CAD590a51e)
- - [Test conversations with some Meta AI digital companions, including celebrity-voiced ones, show them engaging in sexual chats even when users identify as minors &lpar;Jeff Horwitz/Wall Street Journal&rpar;](http://www.techmeme.com/250426/p19#a250426p19)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 27, #216](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-27-216/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

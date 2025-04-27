@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Lighter Apple Vision Pro expected by early 2026](https://appleinsider.com/articles/25/04/27/lighter-apple-vision-pro-expected-by-early-2026?utm_medium=rss)
  - [Parallelle Traveler Review: Unparalleled Attention to Detail](https://www.wired.com/review/parallelle-traveller/)
+ - [Pokemon TCG Pocket&#39;s Celestial Guardians Expansion Will Launch Alongside a Special Event](https://www.cnet.com/tech/gaming/pokemon-tcg-pockets-celestial-guardians-expansion-will-launch-alongside-a-special-event/#ftag=CAD590a51e)
  - [OnePlus 13R review: Maybe just buy a Pixel 9A](https://www.theverge.com/reviews/656305/oneplus-13r-review-maybe-just-buy-a-pixel-9a)
- - [Clair Obscur: Expedition 33’s battles are best when you break them](https://www.theverge.com/games/656552/clair-obscur-expedition-33-battles)
- - [India faces a shortage of agentic AI professionals, with executives estimating fewer than 100,000 available against a projected need of 200,000 by 2026 &lpar;Prachi Verma/The Economic Times&rpar;](http://www.techmeme.com/250427/p9#a250427p9)<!-- TECH:END -->
+ - [Clair Obscur: Expedition 33’s battles are best when you break them](https://www.theverge.com/games/656552/clair-obscur-expedition-33-battles)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

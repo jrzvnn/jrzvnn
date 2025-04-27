@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Busted!](http://9gag.com/gag/aNDBBEr)
+ - 😝 [My confession to the old classics...](http://9gag.com/gag/a9ym2PZ)
  - 😝 [Wife brought home a sit stand desk from the second hand store with a pc attached](http://9gag.com/gag/aW4oLK4)
- - 💣 [My confession to the old classics...](http://9gag.com/gag/a9ym2PZ)
- - 😝 [LoL](http://9gag.com/gag/a4PAqby)
- - 👉 [Brunettes have more fun!](http://9gag.com/gag/avyxEEd)<!-- MEMES:END -->
+ - 💣 [LoL](http://9gag.com/gag/a4PAqby)
+ - 😝 [Im getting married guys!! After more than 12 years on this app as a loner, i finally met the One. He is an engineer, he loves tractors and he gave me a chicken. We are getting married tomorrow. So, Im super happy and excited about the future. Just wanted to say thank you all!](http://9gag.com/gag/axyO6LY)
+ - 👉 [Help a bro here](http://9gag.com/gag/an7x2vL)<!-- MEMES:END -->
 
 ---
 

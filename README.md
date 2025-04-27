@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Fixed it. Those damn rookies don&#39;t even study memology these days](http://9gag.com/gag/avyxv2X)
+ - 😝 [What a simple time we had](http://9gag.com/gag/aryxZXd)
+ - 💣 [Busted!](http://9gag.com/gag/aNDBBEr)
  - 😝 [He got 300k in the end, and karma got her the following year; she&#39;s dead](http://9gag.com/gag/ae9xxzp)
- - 💣 [Creating a core memory.](http://9gag.com/gag/aByEE52)
- - 😝 [Busted!](http://9gag.com/gag/aNDBBEr)
- - 👉 [During assembly of the A380, engineers discovered that the cables were too short. This was caused by the use of different design software by German and French engineers. This miscalculation led to a two-year delay.](http://9gag.com/gag/aZZEQx3)<!-- MEMES:END -->
+ - 👉 [13-month-old weighs 12.5kg &lpar;27.5lbs&rpar; and is 82cm &lpar;32 inches&rpar; tall](http://9gag.com/gag/adBxnLZ)<!-- MEMES:END -->
 
 ---
 

@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [I love golf, I just hit really hard](http://9gag.com/gag/axyOOwp)
  - 💣 [Would like to recieve, even a bad one](http://9gag.com/gag/aZZE2WW)
  - 😝 [Women&#39;s section,` he said. `Easy,` he thought.](http://9gag.com/gag/a5QzqYO)
- - 👉 [Another classic from the past](http://9gag.com/gag/a1mVwdv)<!-- MEMES:END -->
+ - 👉 [Go woke, get broke](http://9gag.com/gag/aoyx852)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India faces a shortage of agentic AI professionals, with executives estimating fewer than 100,000 available against a projected need of 200,000 by 2026 &lpar;Prachi Verma/The Economic Times&rpar;](http://www.techmeme.com/250427/p9#a250427p9)
+ - [Dyson Supersonic r Hair Dryer Review: A Tiny Powerhouse](https://www.wired.com/review/review-dyson-supersonic-r-hair-dryer/)
  - [Star Wars is so back](https://www.theverge.com/installer-newsletter/656510/star-wars-andor-razr-ultra-instagram-edits-installer)
  - [9 Best Electric Kettles &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-electric-kettles/)
- - [A New Quantum Algorithm Speeds Up Solving a Huge Class of Problems](https://www.wired.com/story/quantum-speedup-found-for-huge-class-of-hard-problems/)
- - [Bishop Takes Rook: You&#39;ll Be Able to Learn Chess on Duolingo Soon](https://www.cnet.com/tech/services-and-software/bishop-takes-rook-you-be-able-to-learn-chess-on-duolingo-soon/#ftag=CAD590a51e)
- - [How To Use Gemini AI To Summarize YouTube Videos](https://www.wired.com/story/how-to-use-gemini-ai-to-watch-and-summarize-youtube-videos-for-you/)<!-- TECH:END -->
+ - [9 Houseplants You Couldn&#39;t Kill if You Tried, According to Experts](https://www.cnet.com/news/we-asked-experts-about-the-hardest-houseplants-to-kill/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

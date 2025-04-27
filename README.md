@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A New Quantum Algorithm Speeds Up Solving a Huge Class of Problems](https://www.wired.com/story/quantum-speedup-found-for-huge-class-of-hard-problems/)
  - [How To Use Gemini AI To Summarize YouTube Videos](https://www.wired.com/story/how-to-use-gemini-ai-to-watch-and-summarize-youtube-videos-for-you/)
  - [Premier League Soccer: Stream Liverpool vs. Tottenham Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-liverpool-vs-tottenham-live-from-anywhere/#ftag=CAD590a51e)
  - [Experts say that India lags behind China in deep tech innovation due to its historical focus on services, lower R&amp;D investment, and a brain drain of AI talent &lpar;Furquan Ameen/Rest of World&rpar;](http://www.techmeme.com/250427/p8#a250427p8)
- - [Premier League Soccer: Stream Bournemouth vs. Man United Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-bournemouth-vs-man-united-live-from-anywhere/#ftag=CAD590a51e)
- - [Did the FTC Call You and Ask for Money? It&#39;s a Scam](https://www.cnet.com/personal-finance/did-the-ftc-call-you-and-ask-for-money-its-a-scam/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Premier League Soccer: Stream Bournemouth vs. Man United Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-bournemouth-vs-man-united-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

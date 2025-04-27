@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is what muscle spasms look like.](http://9gag.com/gag/an7xrQ5)
- - 😝 [13-month-old weighs 12.5kg &lpar;27.5lbs&rpar; and is 82cm &lpar;32 inches&rpar; tall](http://9gag.com/gag/adBxnLZ)
- - 💣 [What?](http://9gag.com/gag/aYQMqd7)
- - 😝 [Oh no!](http://9gag.com/gag/aO89pN3)
- - 👉 [Im getting married guys!! After more than 12 years on this app as a loner, i finally met the One. He is an engineer, he loves tractors and he gave me a chicken. We are getting married tomorrow. So, Im super happy and excited about the future. Just wanted to say thank you all!](http://9gag.com/gag/axyO6LY)<!-- MEMES:END -->
+ - 😝 [Im getting married guys!! After more than 12 years on this app as a loner, i finally met the One. He is an engineer, he loves tractors and he gave me a chicken. We are getting married tomorrow. So, Im super happy and excited about the future. Just wanted to say thank you all!](http://9gag.com/gag/axyO6LY)
+ - 😝 [I feel like I missed out on her prime years](http://9gag.com/gag/aD2bOjZ)
+ - 💣 [During assembly of the A380, engineers discovered that the cables were too short. This was caused by the use of different design software by German and French engineers. This miscalculation led to a two-year delay.](http://9gag.com/gag/aZZEQx3)
+ - 😝 [LoL](http://9gag.com/gag/a4PAqby)
+ - 👉 [Does this count as bringing old stuff back?](http://9gag.com/gag/an7xv4q)<!-- MEMES:END -->
 
 ---
 

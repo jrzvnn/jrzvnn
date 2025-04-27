@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wife brought home a sit stand desk from the second hand store with a pc attached](http://9gag.com/gag/aW4oLK4)
- - 😝 [Is it too late?](http://9gag.com/gag/a87eD0p)
- - 💣 [Yay for old memes](http://9gag.com/gag/aLnAm6z)
- - 😝 [He got 300k in the end, and karma got her the following year; she&#39;s dead](http://9gag.com/gag/ae9xxzp)
- - 👉 [Device for infant leg muscle development in the 1940s.](http://9gag.com/gag/ae9xOWq)<!-- MEMES:END -->
+ - 😝 [Fixed it. Those damn rookies don&#39;t even study memology these days](http://9gag.com/gag/avyxv2X)
+ - 😝 [Device for infant leg muscle development in the 1940s.](http://9gag.com/gag/ae9xOWq)
+ - 💣 [Is it too late?](http://9gag.com/gag/a87eD0p)
+ - 😝 [Old memes are awesome](http://9gag.com/gag/a0en0wX)
+ - 👉 [Im getting married guys!! After more than 12 years on this app as a loner, i finally met the One. He is an engineer, he loves tractors and he gave me a chicken. We are getting married tomorrow. So, Im super happy and excited about the future. Just wanted to say thank you all!](http://9gag.com/gag/axyO6LY)<!-- MEMES:END -->
 
 ---
 

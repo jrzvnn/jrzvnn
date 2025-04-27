@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Flooding starts in Pakistan after India unexpectedly releases water in the Jhelum River without prior notification](http://9gag.com/gag/aW4oby3)
- - 😝 [I had an old sacred text buried away](http://9gag.com/gag/aAyM4BE)
- - 💣 [Literal cancer on earth](http://9gag.com/gag/aKG8AZQ)
- - 😝 [Fixed it. Those damn rookies don&#39;t even study memology these days](http://9gag.com/gag/avyxv2X)
- - 👉 [He got 300k in the end, and karma got her the following year; she&#39;s dead](http://9gag.com/gag/ae9xxzp)<!-- MEMES:END -->
+ - 😝 [Wife brought home a sit stand desk from the second hand store with a pc attached](http://9gag.com/gag/aW4oLK4)
+ - 😝 [Is it too late?](http://9gag.com/gag/a87eD0p)
+ - 💣 [Yay for old memes](http://9gag.com/gag/aLnAm6z)
+ - 😝 [He got 300k in the end, and karma got her the following year; she&#39;s dead](http://9gag.com/gag/ae9xxzp)
+ - 👉 [Device for infant leg muscle development in the 1940s.](http://9gag.com/gag/ae9xOWq)<!-- MEMES:END -->
 
 ---
 

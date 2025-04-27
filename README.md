@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: Meesho accounts for about 37% of India&#39;s e-commerce orders, but only 8%-9% of the sector&#39;s total value due to the small average transaction size &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/250427/p14#a250427p14)
  - [Nike is facing a lawsuit from people who bought its NFTs](https://www.theverge.com/news/656960/nike-lawsuit-rtfkt-nft-virtual-shoes)
- - [Relax and Destress With Our Wellness Editors&#39; Favorite Comfort Shows](https://www.cnet.com/health/sleep/relax-and-destress-with-our-wellness-editors-favorite-comfort-shows/#ftag=CAD590a51e)
- - [While Apple&#39;s iPhone manufacturing in India matches China in quality, making the extraordinarily complex 20th anniversary iPhones outside China remains doubtful &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250427/p13#a250427p13)
- - [Step Out of the Shadows. How to Turn Off Your iPhone&#39;s Incognito Mode](https://www.cnet.com/tech/mobile/step-out-of-the-shadows-how-to-turn-off-your-iphones-incognito-mode/#ftag=CAD590a51e)
- - [Best price ever: Apple&#39;s M4 MacBook Air plunges to $849](https://appleinsider.com/articles/25/04/27/best-price-ever-apples-m4-macbook-air-plunges-to-849?utm_medium=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for April 28, #687](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-28-687/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for April 28, #421](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-28-421/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for April 28, #1409](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-28-1409/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

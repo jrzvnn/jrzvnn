@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Huawei has approached some clients to test the technical feasibility of the Ascend 910D, Huawei&#39;s newest AI chip that it hopes will beat Nvidia&#39;s H100 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250427/p11#a250427p11)
  - [7 Best Mesh Routers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-mesh-wifi-routers/)
  - [Most Americans Are Missing Out on Cash by Hoarding Old Tech, CNET Survey Finds](https://www.cnet.com/tech/recycling-tech-survey-2025/#ftag=CAD590a51e)
  - [A look at the rise of &quot;pure play&quot; bitcoin companies like Twenty One, as the stock market is paying far more for crypto exposure than the crypto market itself is &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/250427/p10#a250427p10)
- - [Lighter Apple Vision Pro expected by early 2026](https://appleinsider.com/articles/25/04/27/lighter-apple-vision-pro-expected-by-early-2026?utm_medium=rss)
- - [Parallelle Traveler Review: Unparalleled Attention to Detail](https://www.wired.com/review/parallelle-traveller/)<!-- TECH:END -->
+ - [Lighter Apple Vision Pro expected by early 2026](https://appleinsider.com/articles/25/04/27/lighter-apple-vision-pro-expected-by-early-2026?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

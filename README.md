@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Does this count as bringing old stuff back?](http://9gag.com/gag/an7xv4q)
- - 😝 [Wife brought home a sit stand desk from the second hand store with a pc attached](http://9gag.com/gag/aW4oLK4)
- - 💣 [My confession to the old classics...](http://9gag.com/gag/a9ym2PZ)
+ - 😝 [Have a nice weekend my fellow degenerates](http://9gag.com/gag/a9ym85K)
+ - 😝 [White culture appreciation #5](http://9gag.com/gag/aMVzOQX)
+ - 💣 [Remember him?](http://9gag.com/gag/aGyGBK0)
  - 😝 [Im getting married guys!! After more than 12 years on this app as a loner, i finally met the One. He is an engineer, he loves tractors and he gave me a chicken. We are getting married tomorrow. So, Im super happy and excited about the future. Just wanted to say thank you all!](http://9gag.com/gag/axyO6LY)
- - 👉 [Help a bro here](http://9gag.com/gag/an7x2vL)<!-- MEMES:END -->
+ - 👉 [BREAKING: Main Epstein-accuser Virginia Giuffre dies by `suicide`](http://9gag.com/gag/a1mV5BY)<!-- MEMES:END -->
 
 ---
 

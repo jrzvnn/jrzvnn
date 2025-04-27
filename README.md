@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Old meme is old](http://9gag.com/gag/a1mV5O6)
- - 😝 [Be thankful to your father..](http://9gag.com/gag/a5Qzw1L)
- - 💣 [Pathetic](http://9gag.com/gag/aMVzzxM)
- - 😝 [Have a nice weekend my fellow degenerates](http://9gag.com/gag/a9ym85K)
- - 👉 [Remember him?](http://9gag.com/gag/aGyGBK0)<!-- MEMES:END -->
+ - 😝 [Fixed it. Those damn rookies don&#39;t even study memology these days](http://9gag.com/gag/avyxv2X)
+ - 😝 [BREAKING: Main Epstein-accuser Virginia Giuffre dies by `suicide`](http://9gag.com/gag/a1mV5BY)
+ - 💣 [Literal cancer on earth](http://9gag.com/gag/aKG8AZQ)
+ - 😝 [Is it too late?](http://9gag.com/gag/a87eD0p)
+ - 👉 [Redpill](http://9gag.com/gag/aByEPY2)<!-- MEMES:END -->
 
 ---
 

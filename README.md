@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wife brought home a sit stand desk from the second hand store with a pc attached](http://9gag.com/gag/aW4oLK4)
- - 😝 [What a simple time we had](http://9gag.com/gag/aryxZXd)
- - 💣 [Fixed it. Those damn rookies don&#39;t even study memology these days](http://9gag.com/gag/avyxv2X)
- - 😝 [LoL](http://9gag.com/gag/a4PAqby)
- - 👉 [Help a bro here](http://9gag.com/gag/an7x2vL)<!-- MEMES:END -->
+ - 😝 [Im getting married guys!! After more than 12 years on this app as a loner, i finally met the One. He is an engineer, he loves tractors and he gave me a chicken. We are getting married tomorrow. So, Im super happy and excited about the future. Just wanted to say thank you all!](http://9gag.com/gag/axyO6LY)
+ - 😝 [You look cute every time I see you](http://9gag.com/gag/a9ymXrZ)
+ - 💣 [Have a nice weekend my fellow degenerates](http://9gag.com/gag/a9ym85K)
+ - 😝 [Remember him?](http://9gag.com/gag/aGyGBK0)
+ - 👉 [BREAKING: Main Epstein-accuser Virginia Giuffre dies by `suicide`](http://9gag.com/gag/a1mV5BY)<!-- MEMES:END -->
 
 ---
 

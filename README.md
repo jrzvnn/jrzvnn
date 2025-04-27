@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fixed it. Those damn rookies don&#39;t even study memology these days](http://9gag.com/gag/avyxv2X)
- - 😝 [What a simple time we had](http://9gag.com/gag/aryxZXd)
- - 💣 [Busted!](http://9gag.com/gag/aNDBBEr)
- - 😝 [He got 300k in the end, and karma got her the following year; she&#39;s dead](http://9gag.com/gag/ae9xxzp)
- - 👉 [13-month-old weighs 12.5kg &lpar;27.5lbs&rpar; and is 82cm &lpar;32 inches&rpar; tall](http://9gag.com/gag/adBxnLZ)<!-- MEMES:END -->
+ - 😝 [Card trick](http://9gag.com/gag/aAyM4XL)
+ - 😝 [Be thankful to your father..](http://9gag.com/gag/a5Qzw1L)
+ - 💣 [You look cute every time I see you](http://9gag.com/gag/a9ymXrZ)
+ - 😝 [Have a nice weekend my fellow degenerates](http://9gag.com/gag/a9ym85K)
+ - 👉 [Remember him?](http://9gag.com/gag/aGyGBK0)<!-- MEMES:END -->
 
 ---
 

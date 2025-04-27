@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh no!](http://9gag.com/gag/aO89pN3)
  - 😝 [LoL](http://9gag.com/gag/a4PAqby)
- - 💣 [This is what muscle spasms look like.](http://9gag.com/gag/an7xrQ5)
- - 😝 [Im getting married guys!! After more than 12 years on this app as a loner, i finally met the One. He is an engineer, he loves tractors and he gave me a chicken. We are getting married tomorrow. So, Im super happy and excited about the future. Just wanted to say thank you all!](http://9gag.com/gag/axyO6LY)
+ - 😝 [13-month-old weighs 12.5kg &lpar;27.5lbs&rpar; and is 82cm &lpar;32 inches&rpar; tall](http://9gag.com/gag/adBxnLZ)
+ - 💣 [Im getting married guys!! After more than 12 years on this app as a loner, i finally met the One. He is an engineer, he loves tractors and he gave me a chicken. We are getting married tomorrow. So, Im super happy and excited about the future. Just wanted to say thank you all!](http://9gag.com/gag/axyO6LY)
+ - 😝 [Title go here](http://9gag.com/gag/a0enOWZ)
  - 👉 [During assembly of the A380, engineers discovered that the cables were too short. This was caused by the use of different design software by German and French engineers. This miscalculation led to a two-year delay.](http://9gag.com/gag/aZZEQx3)<!-- MEMES:END -->
 
 ---

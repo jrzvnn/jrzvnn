@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [LoL](http://9gag.com/gag/a4PAqby)
- - 😝 [I feel like I missed out on her prime years](http://9gag.com/gag/aD2bOjZ)
- - 💣 [Yay for old memes](http://9gag.com/gag/aLnAm6z)
- - 😝 [It is funny because she is..](http://9gag.com/gag/aRBvRv2)
- - 👉 [During assembly of the A380, engineers discovered that the cables were too short. This was caused by the use of different design software by German and French engineers. This miscalculation led to a two-year delay.](http://9gag.com/gag/aZZEQx3)<!-- MEMES:END -->
+ - 😝 [What?](http://9gag.com/gag/aYQMqd7)
+ - 😝 [This is what muscle spasms look like.](http://9gag.com/gag/an7xrQ5)
+ - 💣 [I feel like I missed out on her prime years](http://9gag.com/gag/aD2bOjZ)
+ - 😝 [Yay for old memes](http://9gag.com/gag/aLnAm6z)
+ - 👉 [French citizen of Bosnian ancestry stabs a muslim in a French mosque. Then takes a cell phone out and records a dying victim while insulting Islam](http://9gag.com/gag/a87ezo6)<!-- MEMES:END -->
 
 ---
 

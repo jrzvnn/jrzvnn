@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What?](http://9gag.com/gag/aYQMqd7)
- - 😝 [This is what muscle spasms look like.](http://9gag.com/gag/an7xrQ5)
- - 💣 [I feel like I missed out on her prime years](http://9gag.com/gag/aD2bOjZ)
- - 😝 [Yay for old memes](http://9gag.com/gag/aLnAm6z)
- - 👉 [French citizen of Bosnian ancestry stabs a muslim in a French mosque. Then takes a cell phone out and records a dying victim while insulting Islam](http://9gag.com/gag/a87ezo6)<!-- MEMES:END -->
+ - 😝 [Oh no!](http://9gag.com/gag/aO89pN3)
+ - 😝 [LoL](http://9gag.com/gag/a4PAqby)
+ - 💣 [This is what muscle spasms look like.](http://9gag.com/gag/an7xrQ5)
+ - 😝 [Im getting married guys!! After more than 12 years on this app as a loner, i finally met the One. He is an engineer, he loves tractors and he gave me a chicken. We are getting married tomorrow. So, Im super happy and excited about the future. Just wanted to say thank you all!](http://9gag.com/gag/axyO6LY)
+ - 👉 [During assembly of the A380, engineers discovered that the cables were too short. This was caused by the use of different design software by German and French engineers. This miscalculation led to a two-year delay.](http://9gag.com/gag/aZZEQx3)<!-- MEMES:END -->
 
 ---
 

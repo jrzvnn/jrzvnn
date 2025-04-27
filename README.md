@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump&#39;s tariffs could slow robot adoption in the US, as buyer demand weakens and supplies of key components like magnets and actuators are disrupted &lpar;Financial Times&rpar;](http://www.techmeme.com/250427/p7#a250427p7)
  - [Tel Aviv-based Sentra, whose cloud data security software now includes controls aimed at keeping AI prompts free from restricted data, raised a $50M Series B &lpar;Ryan Naraine/SecurityWeek&rpar;](http://www.techmeme.com/250427/p6#a250427p6)
+ - [Best Internet Providers in Worcester, Massachusetts](https://www.cnet.com/home/internet/best-internet-providers-in-worcester-ma/#ftag=CAD590a51e)
  - [Salsa, which provides APIs and UI components that let vertical SaaS platforms offer payroll as a feature to their customers, raised a $20M Series A led by Altos &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250427/p5#a250427p5)
- - [Alpaca, which offers APIs for financial firms to connect and trade in US stocks, raised a $52M Series C to expand into the Middle East, Europe, and Asia &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/250427/p4#a250427p4)
- - [NYC-based Healthee, whose AI assistant Zoe lets its clients&#39; workers navigate health insurance and benefits options, raised a $50M Series B led by Key1 Capital &lpar;Erin Brodwin/Axios&rpar;](http://www.techmeme.com/250427/p3#a250427p3)
- - [Filing: China&#39;s leading flash memory chipmaker YMTC raised ~$219M from Hebei Yangyuan Zhihui Beverage Co. at a ~$22.1B valuation in December 2023 &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250427/p2#a250427p2)<!-- TECH:END -->
+ - [Alpaca, which offers APIs for financial firms to connect and trade in US stocks, raised a $52M Series C to expand into the Middle East, Europe, and Asia &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/250427/p4#a250427p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

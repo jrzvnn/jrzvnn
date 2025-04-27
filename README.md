@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [BREAKING: Main Epstein-accuser Virginia Giuffre dies by `suicide`](http://9gag.com/gag/a1mV5BY)
- - 😝 [Me when old memes pop up.](http://9gag.com/gag/aByE44P)
- - 💣 [Not Tony, he gets a pass](http://9gag.com/gag/apRxVeb)
- - 😝 [I love golf, I just hit really hard](http://9gag.com/gag/axyOOwp)
- - 👉 [Would like to recieve, even a bad one](http://9gag.com/gag/aZZE2WW)<!-- MEMES:END -->
+ - 😝 [What?](http://9gag.com/gag/aYQMqd7)
+ - 😝 [LoL](http://9gag.com/gag/a4PAqby)
+ - 💣 [During assembly of the A380, engineers discovered that the cables were too short. This was caused by the use of different design software by German and French engineers. This miscalculation led to a two-year delay.](http://9gag.com/gag/aZZEQx3)
+ - 😝 [Flooding starts in Pakistan after India unexpectedly releases water in the Jhelum River without prior notification](http://9gag.com/gag/aW4oby3)
+ - 👉 [I feel like I missed out on her prime years](http://9gag.com/gag/aD2bOjZ)<!-- MEMES:END -->
 
 ---
 

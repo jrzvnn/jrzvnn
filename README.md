@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A New Quantum Algorithm Speeds Up Solving a Huge Class of Problems](https://www.wired.com/story/quantum-speedup-found-for-huge-class-of-hard-problems/)
+ - [Bishop Takes Rook: You&#39;ll Be Able to Learn Chess on Duolingo Soon](https://www.cnet.com/tech/services-and-software/bishop-takes-rook-you-be-able-to-learn-chess-on-duolingo-soon/#ftag=CAD590a51e)
  - [How To Use Gemini AI To Summarize YouTube Videos](https://www.wired.com/story/how-to-use-gemini-ai-to-watch-and-summarize-youtube-videos-for-you/)
- - [Premier League Soccer: Stream Liverpool vs. Tottenham Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-liverpool-vs-tottenham-live-from-anywhere/#ftag=CAD590a51e)
- - [Experts say that India lags behind China in deep tech innovation due to its historical focus on services, lower R&amp;D investment, and a brain drain of AI talent &lpar;Furquan Ameen/Rest of World&rpar;](http://www.techmeme.com/250427/p8#a250427p8)
- - [Premier League Soccer: Stream Bournemouth vs. Man United Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-bournemouth-vs-man-united-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;The Last of Us&#39; Is On Tonight: When to Watch Season 2, Episode 3](https://www.cnet.com/tech/services-and-software/the-last-of-us-is-on-tonight-when-to-watch-season-2-episode-3/#ftag=CAD590a51e)
+ - [Best Portable Projector for 2025](https://www.cnet.com/tech/home-entertainment/best-portable-projector/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

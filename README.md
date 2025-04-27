@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [What?](http://9gag.com/gag/aYQMqd7)
  - 😝 [Fixed it. Those damn rookies don&#39;t even study memology these days](http://9gag.com/gag/avyxv2X)
  - 💣 [Busted!](http://9gag.com/gag/aNDBBEr)
- - 😝 [Im getting married guys!! After more than 12 years on this app as a loner, i finally met the One. He is an engineer, he loves tractors and he gave me a chicken. We are getting married tomorrow. So, Im super happy and excited about the future. Just wanted to say thank you all!](http://9gag.com/gag/axyO6LY)
- - 👉 [LoL](http://9gag.com/gag/a4PAqby)<!-- MEMES:END -->
+ - 😝 [LoL](http://9gag.com/gag/a4PAqby)
+ - 👉 [Help a bro here](http://9gag.com/gag/an7x2vL)<!-- MEMES:END -->
 
 ---
 

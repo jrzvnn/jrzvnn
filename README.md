@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [George Hinton worries AI companies are under-investing in safety research, embracing military usage, and sharing model weights while pushing for less regulation &lpar;CBS Mornings on YouTube&rpar;](http://www.techmeme.com/250427/p16#a250427p16)
+ - [Geoffrey Hinton fears AI companies are under-investing in safety research, embracing military usage, and sharing model weights while pushing for less regulation &lpar;CBS Mornings on YouTube&rpar;](http://www.techmeme.com/250427/p16#a250427p16)
  - [A profile of Darktrace CEO Jill Popelka, who joined the British cyber security firm in Jan. 2024 and was at the helm when it was bought by Thoma Bravo for £4.3B &lpar;Anjli Raval/Financial Times&rpar;](http://www.techmeme.com/250427/p15#a250427p15)
  - [Your Kidneys Deserve Better -- These 13 Superfoods Can Help](https://www.cnet.com/health/nutrition/your-kidneys-deserve-better-these-13-superfoods-can-help/#ftag=CAD590a51e)
  - [Best Internet Providers in Norfolk, Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-norfolk-va/#ftag=CAD590a51e)

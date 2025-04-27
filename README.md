@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [LoL](http://9gag.com/gag/a4PAqby)
- - 😝 [What?](http://9gag.com/gag/aYQMqd7)
- - 💣 [Yay for old memes](http://9gag.com/gag/aLnAm6z)
  - 😝 [Oh this the right time to drop this?](http://9gag.com/gag/abAxQop)
- - 👉 [Fixed it. Those damn rookies don&#39;t even study memology these days](http://9gag.com/gag/avyxv2X)<!-- MEMES:END -->
+ - 😝 [Flooding starts in Pakistan after India unexpectedly releases water in the Jhelum River without prior notification](http://9gag.com/gag/aW4oby3)
+ - 💣 [My confession to the old classics...](http://9gag.com/gag/a9ym2PZ)
+ - 😝 [During assembly of the A380, engineers discovered that the cables were too short. This was caused by the use of different design software by German and French engineers. This miscalculation led to a two-year delay.](http://9gag.com/gag/aZZEQx3)
+ - 👉 [I feel like I missed out on her prime years](http://9gag.com/gag/aD2bOjZ)<!-- MEMES:END -->
 
 ---
 

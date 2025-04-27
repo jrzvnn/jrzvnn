@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Fixed it. Those damn rookies don&#39;t even study memology these days](http://9gag.com/gag/avyxv2X)
- - 😝 [Headwinds matching airspeed](http://9gag.com/gag/a9ym5AZ)
- - 💣 [Did someone said old memes?](http://9gag.com/gag/an7xvEV)
- - 😝 [He got 300k in the end, and karma got her the following year; she&#39;s dead](http://9gag.com/gag/ae9xxzp)
- - 👉 [Literal cancer on earth](http://9gag.com/gag/aKG8AZQ)<!-- MEMES:END -->
+ - 😝 [Yay for old memes](http://9gag.com/gag/aLnAm6z)
+ - 💣 [Creating a core memory.](http://9gag.com/gag/aByEE52)
+ - 😝 [Flooding starts in Pakistan after India unexpectedly releases water in the Jhelum River without prior notification](http://9gag.com/gag/aW4oby3)
+ - 👉 [Redpill](http://9gag.com/gag/aByEPY2)<!-- MEMES:END -->
 
 ---
 

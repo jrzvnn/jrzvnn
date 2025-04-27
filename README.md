@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Darktrace CEO Jill Popelka, who joined the British cyber security firm in Jan. 2024 and was at the helm when it was bought by Thoma Bravo for £4.3B &lpar;Anjli Raval/Financial Times&rpar;](http://www.techmeme.com/250427/p15#a250427p15)
  - [Best Internet Providers in Norfolk, Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-norfolk-va/#ftag=CAD590a51e)
  - [Analysis: Meesho accounts for about 37% of India&#39;s e-commerce orders, but only 8%-9% of the sector&#39;s total value due to the small average transaction size &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/250427/p14#a250427p14)
  - [Nike is facing a lawsuit from people who bought its NFTs](https://www.theverge.com/news/656960/nike-lawsuit-rtfkt-nft-virtual-shoes)
- - [Today&#39;s NYT Connections Hints, Answers and Help for April 28, #687](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-28-687/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for April 28, #421](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-april-28-421/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for April 28, #687](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-april-28-687/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

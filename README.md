@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Brunettes have more fun!](http://9gag.com/gag/avyxEEd)
+ - 😝 [This is what muscle spasms look like.](http://9gag.com/gag/an7xrQ5)
  - 😝 [Does this count as bringing old stuff back?](http://9gag.com/gag/an7xv4q)
- - 💣 [Wife brought home a sit stand desk from the second hand store with a pc attached](http://9gag.com/gag/aW4oLK4)
+ - 💣 [Trow da rocky down](http://9gag.com/gag/aGyGBZ5)
  - 😝 [Im getting married guys!! After more than 12 years on this app as a loner, i finally met the One. He is an engineer, he loves tractors and he gave me a chicken. We are getting married tomorrow. So, Im super happy and excited about the future. Just wanted to say thank you all!](http://9gag.com/gag/axyO6LY)
- - 👉 [My confession to the old classics...](http://9gag.com/gag/a9ym2PZ)<!-- MEMES:END -->
+ - 👉 [I feel like I missed out on her prime years](http://9gag.com/gag/aD2bOjZ)<!-- MEMES:END -->
 
 ---
 

@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Huawei has approached some clients to test the technical feasibility of the Ascend 910D, Huawei&#39;s newest AI chip that it hopes will beat Nvidia&#39;s H100 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250427/p11#a250427p11)
+ - [Sources: Huawei has approached some clients about testing the technical feasibility of the Ascend 910D, its newest AI chip that it hopes will beat Nvidia&#39;s H100 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250427/p11#a250427p11)
  - [7 Best Mesh Routers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-mesh-wifi-routers/)
  - [Most Americans Are Missing Out on Cash by Hoarding Old Tech, CNET Survey Finds](https://www.cnet.com/tech/recycling-tech-survey-2025/#ftag=CAD590a51e)
  - [A look at the rise of &quot;pure play&quot; bitcoin companies like Twenty One, as the stock market is paying far more for crypto exposure than the crypto market itself is &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/250427/p10#a250427p10)

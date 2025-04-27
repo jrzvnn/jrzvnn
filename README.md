@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [4chan is back online after being down for 10 days, following a hack that leaked the emails of its lead administrators, known as &quot;janitors&quot; &lpar;Owen Carry/Know Your Meme&rpar;](http://www.techmeme.com/250427/p1#a250427p1)
  - [Test conversations with some Meta AI digital companions, including celebrity-voiced ones, show them engaging in sexual chats even when users identify as minors &lpar;Jeff Horwitz/Wall Street Journal&rpar;](http://www.techmeme.com/250426/p19#a250426p19)
  - [Bitcoin miners&#39; earnings power and stocks have diverged from the asset they help produce, as the hashrate languishes amid technical and macroeconomic headwinds &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/250426/p18#a250426p18)
  - [Watch FA Cup Soccer: Livestream Nottingham Forest vs. Man City From Anywhere](https://www.cnet.com/tech/services-and-software/watch-fa-cup-soccer-livestream-nottingham-forest-vs-man-city-from-anywhere/#ftag=CAD590a51e)
- - [Prompt engineering roles, one of the buzziest jobs in 2023, become obsolete as AI models better intuit user intent and companies train staff in writing prompts &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250426/p17#a250426p17)
- - [Can Cold Plunges and Saunas Improve Your Rest? We Asked an Expert](https://www.cnet.com/health/sleep/saunas-cold-plunges-sleep-benefits-health-risks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Prompt engineering roles, one of the buzziest jobs in 2023, become obsolete as AI models better intuit user intent and companies train staff in writing prompts &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250426/p17#a250426p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,9 +157,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the rise of &quot;pure play&quot; bitcoin companies like Twenty One, as the stock market pays far more for crypto exposure than the crypto market itself &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/250427/p10#a250427p10)
  - [Lighter Apple Vision Pro expected by early 2026](https://appleinsider.com/articles/25/04/27/lighter-apple-vision-pro-expected-by-early-2026?utm_medium=rss)
  - [Parallelle Traveler Review: Unparalleled Attention to Detail](https://www.wired.com/review/parallelle-traveller/)
- - [Pokemon TCG Pocket&#39;s Celestial Guardians Expansion Will Launch Alongside a Special Event](https://www.cnet.com/tech/gaming/pokemon-tcg-pockets-celestial-guardians-expansion-will-launch-alongside-a-special-event/#ftag=CAD590a51e)
  - [OnePlus 13R review: Maybe just buy a Pixel 9A](https://www.theverge.com/reviews/656305/oneplus-13r-review-maybe-just-buy-a-pixel-9a)
  - [Clair Obscur: Expedition 33’s battles are best when you break them](https://www.theverge.com/games/656552/clair-obscur-expedition-33-battles)<!-- TECH:END -->
 

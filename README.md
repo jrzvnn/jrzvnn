@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Most people don\u2019t realize how steep a NASCAR track is](http://9gag.com/gag/aD2bQ9x)
- - 😝 [A team of passionate gamers, made a masterpiece, without any woke agenda bullshit forcibly pushed inside, and the game sold way more in two days than the Ubisoft latest crap did since it&#39;s release? How is it possible?!?](http://9gag.com/gag/ajPxdLG)
- - 💣 [Old stuff is back](http://9gag.com/gag/aryxdn6)
- - 😝 [Dad Misses His Daughter&#39;s Graduation Day Because Of Power Tripping Cop](http://9gag.com/gag/aoyxd1X)
- - 👉 [Title go here](http://9gag.com/gag/a0enOWZ)<!-- MEMES:END -->
+ - 😝 [MOM TAKES REVENGE ON DAUGHTERS SA ATTACKER AND GETS ARRESTED](http://9gag.com/gag/abAxdNB)
+ - 😝 [100.000+ protesters in Ireland against the mass immigration invasion of Ireland](http://9gag.com/gag/amoxpn9)
+ - 💣 [The Sandfall Interactive team who created Clair obscure: Expedition 33...no blue-haired women, no shaved-headed guys with red lipstick. The game is a masterpiece. Coincidence?](http://9gag.com/gag/aRBvy32)
+ - 😝 [Since old memes are back, I post my old stuff Nr. 6](http://9gag.com/gag/awyOGWx)
+ - 👉 [Breaking the Box Office LOL](http://9gag.com/gag/a0enWmn)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google announces a special Android event ahead of I/O](https://www.theverge.com/news/656589/google-android-event-io-2025)
  - [Widespread power outage hits Spain and neighboring countries France and Portugal](https://www.theverge.com/news/657017/major-blackout-spain-portugal-france-europe)
  - [China tariff war worries and more: What to expect from Apple&#39;s Q2 2025 earnings](https://appleinsider.com/articles/25/04/22/china-tariff-war-worries-and-more-what-to-expect-from-apples-q2-2025-earnings?utm_medium=rss)
  - [Google Play Games might be headed to the graveyard](https://www.theverge.com/news/657208/google-play-games-app-graveyard-watch)
- - [Kickstarter introduces a &quot;Tariff Manager tool&quot; that lets creators add extra charges for backers on projects that were already fully funded &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250428/p13#a250428p13)
- - [A Mac mini can be made portable for about three times the cost of a MacBook Air](https://appleinsider.com/articles/25/04/28/a-mac-mini-can-be-made-portable-for-about-three-times-the-cost-of-a-macbook-air?utm_medium=rss)<!-- TECH:END -->
+ - [Kickstarter introduces a &quot;Tariff Manager tool&quot; that lets creators add extra charges for backers on projects that were already fully funded &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250428/p13#a250428p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

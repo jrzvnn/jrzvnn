@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Widespread power outage hits Spain and neighboring countries France and Portugal](https://www.theverge.com/news/657017/major-blackout-spain-portugal-france-europe)
+ - [China tariff war worries and more: What to expect from Apple&#39;s Q2 2025 earnings](https://appleinsider.com/articles/25/04/22/china-tariff-war-worries-and-more-what-to-expect-from-apples-q2-2025-earnings?utm_medium=rss)
+ - [Google Play Games might be headed to the graveyard](https://www.theverge.com/news/657208/google-play-games-app-graveyard-watch)
  - [Kickstarter introduces a &quot;Tariff Manager tool&quot; that lets creators add extra charges for backers on projects that were already fully funded &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250428/p13#a250428p13)
- - [A Mac mini can be made portable for about three times the cost of a MacBook Air](https://appleinsider.com/articles/25/04/28/a-mac-mini-can-be-made-portable-for-about-three-times-the-cost-of-a-macbook-air?utm_medium=rss)
- - [Deals: iPad 11 drops to $299, AirPods fall to $99 at Amazon](https://appleinsider.com/articles/25/04/28/deals-ipad-11-drops-to-299-airpods-fall-to-99-at-amazon?utm_medium=rss)
- - [America is living in tariff limbo](https://www.theverge.com/tech/656695/trump-tariffs-china-canada-mexico-trade-war-anxiety)
- - [OnePlus backs off its Watch 3’s huge price hike](https://www.theverge.com/news/657170/oneplus-watch-3-price-hike-reversed)<!-- TECH:END -->
+ - [A Mac mini can be made portable for about three times the cost of a MacBook Air](https://appleinsider.com/articles/25/04/28/a-mac-mini-can-be-made-portable-for-about-three-times-the-cost-of-a-macbook-air?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

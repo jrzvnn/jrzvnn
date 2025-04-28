@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Agonizing Task of Turning Europe’s Power Back On](https://www.wired.com/story/europe-blackout-spain-portugal-power-outage/)
- - [Tennis star Alexander Zverev calls out automated line judging system](https://www.theverge.com/news/657300/tennis-star-alexander-zverev-hawk-eye-els-line-judging)
- - [Wii Homebrew Channel development shuts down over ‘stolen’ code](https://www.theverge.com/news/657294/wii-homebrew-channel-archived-stolen-nintendo-code)
- - [Apple moves to a fourth round of iOS 18.5, macOS 15.5 developer betas](https://appleinsider.com/articles/25/04/28/apple-moves-to-a-fourth-round-of-ios-185-macos-155-developer-betas?utm_medium=rss)
- - [Temu adds &quot;import charges&quot; of between 130% and 150% &quot;due to recent changes in global trade rules and tariffs&quot;; Shein also hikes prices but without explicit fees &lpar;CNBC&rpar;](http://www.techmeme.com/250428/p16#a250428p16)<!-- TECH:END -->
+ - [Q&amp;A with Alvaro Bedoya and Rebecca Slaughter who Trump fired, likely illegally, as FTC commissioners, on Meta, fighting for privacy, and bribes in the US &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250428/p17#a250428p17)
+ - [Shein, Temu Prices Surge as High as 377% Ahead of Tariff Increases](https://www.cnet.com/news/politics/shein-temu-prices-surge-as-high-as-377-ahead-of-tariff-increases/#ftag=CAD590a51e)
+ - [Kia Electric Pickup Truck: What We Know So Far About the New EV](https://www.cnet.com/roadshow/news/kia-electric-pickup-truck-what-we-know-so-far-about-the-new-ev/#ftag=CAD590a51e)
+ - [Google Nest Is Cutting Off Access for Early-Gen Nest Thermostats: Here&#39;s When](https://www.cnet.com/news/google-nest-is-cutting-off-access-for-early-gen-nest-thermostats-heres-when/#ftag=CAD590a51e)
+ - [The Agonizing Task of Turning Europe’s Power Back On](https://www.wired.com/story/europe-blackout-spain-portugal-power-outage/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

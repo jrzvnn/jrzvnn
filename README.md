@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Duolingo will replace contract workers with AI](https://www.theverge.com/news/657594/duolingo-ai-first-replace-contract-workers)
  - [Amazon launches 27 satellites for its Project Kuiper broadband internet program, the first batch of 3,236 satellites it plans to send into low-Earth orbit &lpar;Joey Roulette/Reuters&rpar;](http://www.techmeme.com/250428/p28#a250428p28)
  - [China&#39;s Pony.ai says it can now build its most advanced autonomous driving system at 70% lower cost and plans to start mass production of robotaxis in mid-2025 &lpar;Jiahui Huang/Wall Street Journal&rpar;](http://www.techmeme.com/250428/p27#a250428p27)
  - [Europe’s Devastating Power Outage in Photos](https://www.wired.com/gallery/europes-devastating-power-outage-in-photos/)
- - [Alibaba unveils the Qwen3 family of open-weight &quot;hybrid&quot; AI reasoning models, including Qwen3-235B-A22B, with 235B total parameters and 22B activated parameters &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250428/p26#a250428p26)
- - [Apple reportedly scraps stronger anti-reflective display planned for iPhone 17](https://appleinsider.com/articles/25/04/28/apple-reportedly-scraps-stronger-anti-reflective-display-planned-for-iphone-17?utm_medium=rss)<!-- TECH:END -->
+ - [Alibaba unveils the Qwen3 family of open-weight &quot;hybrid&quot; AI reasoning models, including Qwen3-235B-A22B, with 235B total parameters and 22B activated parameters &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250428/p26#a250428p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

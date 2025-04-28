@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HomeKit dehumidifiers, Roomba 705 Max, &amp; Aqara G5 Pro review on HomeKit Insider](https://appleinsider.com/articles/25/04/28/homekit-dehumidifiers-roomba-705-max-aqara-g5-pro-review-on-homekit-insider?utm_medium=rss)
- - [Apple revenue could actually benefit from China tariff war](https://appleinsider.com/articles/25/04/28/apple-revenue-could-actually-benefit-from-china-tariff-war?utm_medium=rss)
- - [Widespread power outage hits Spain and neighboring countries France and Portugal](https://www.theverge.com/news/657017/major-blackout-spain-portugal-france-europe)
- - [A look at Microsoft freezing ~1.5GW of data centers set for 2025 and 2026; Microsoft has walked away from significantly more than 2GW of non-binding contracts &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/250428/p8#a250428p8)
- - [HP EliteBook Ultra G1i Review: A Laptop That’s All Business](https://www.wired.com/review/hp-elitebook-ultra-g1i-2025/)<!-- TECH:END -->
+ - [Netflix’s Tudum 2025 event will stream live next month](https://www.theverge.com/news/656687/netflix-tudum-2025-streaming-date)
+ - [Tel Aviv-based Lightrun, an observability platform that uses AI to identify and debug code in production, raised a $70M Series B co-led by Accel and Insight &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250428/p11#a250428p11)
+ - [Which Instax Camera Should You Buy?](https://www.wired.com/gallery/which-instax-camera-should-you-buy/)
+ - [Rebooted Beats Pill ships in two new summer-ready colors](https://appleinsider.com/articles/25/04/28/rebooted-beats-pill-ships-in-two-new-summer-ready-colors?utm_medium=rss)
+ - [Skin Deep makes immersive sims messy and manic](https://www.theverge.com/games-review/656336/skin-deep-review-steam)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

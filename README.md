@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing’s second modular phone reinvents the rules](https://www.theverge.com/news/657064/nothing-cmf-phone-pro-2-launch-us-release-price-modules)
- - [China tariff war worries and more: What to expect from Apple&#39;s Q2 2025 earnings](https://appleinsider.com/articles/25/04/22/china-tariff-war-worries-and-more-what-to-expect-from-apples-q2-2025-earnings?utm_medium=rss)
- - [Brendan Carr’s FCC is an anti-consumer, rights-trampling harassment machine](https://www.theverge.com/tech/656653/brendan-carr-fcc-anti-consumer-harassment-dei-trump)
- - [Netflix’s Tudum 2025 event will stream live next month](https://www.theverge.com/news/656687/netflix-tudum-2025-streaming-date)
- - [Tel Aviv-based Lightrun, an observability platform that uses AI to identify and debug code in production, raised a $70M Series B co-led by Accel and Insight &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250428/p11#a250428p11)<!-- TECH:END -->
+ - [OnePlus backs off its Watch 3’s huge price hike](https://www.theverge.com/news/657170/oneplus-watch-3-price-hike-reversed)
+ - [7 Best Flower Delivery Services of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-flower-delivery-service/)
+ - [In March 2025, World Uyghur Congress members were targeted with a spearphishing campaign via Windows malware in a legitimate Uyghur language word processor &lpar;The Citizen Lab&rpar;](http://www.techmeme.com/250428/p12#a250428p12)
+ - [Fired FTC commissioners on fighting for their jobs back](https://www.theverge.com/decoder-podcast-with-nilay-patel/657115/ftc-bedoya-slaughter-trump-fired-supreme-court-interview)
+ - [Nothing’s second modular phone reinvents the rules](https://www.theverge.com/news/657064/nothing-cmf-phone-pro-2-launch-us-release-price-modules)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

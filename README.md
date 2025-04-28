@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [That depends](http://9gag.com/gag/a9ymBd6)
+ - 😝 [Stacey&#39;s Got It Going On](http://9gag.com/gag/aPAeXdR)
+ - 💣 [Imagine hitting that and she suddenly makes that face](http://9gag.com/gag/aPAep0q)
  - 😝 [Trust me you fu`ked up](http://9gag.com/gag/an7xrZ0)
- - 😝 [Safety always comes first..](http://9gag.com/gag/aLnANYg)
- - 💣 [Stacey&#39;s Got It Going On](http://9gag.com/gag/aPAeXdR)
- - 😝 [Body armour company demonstrates their stab proof vest on their CEO](http://9gag.com/gag/aE0WN1O)
- - 👉 [Imagine hitting that and she suddenly makes that face](http://9gag.com/gag/aPAep0q)<!-- MEMES:END -->
+ - 👉 [Oh no!](http://9gag.com/gag/aO89pN3)<!-- MEMES:END -->
 
 ---
 

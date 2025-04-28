@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trust me you fu`ked up](http://9gag.com/gag/an7xrZ0)
- - 😝 [Imagine hitting that and she suddenly makes that face](http://9gag.com/gag/aPAep0q)
- - 💣 [End-to-end encryption in real life. Children play chinese whispers](http://9gag.com/gag/a348p95)
- - 😝 [Gas, Grass or Ass... there is no free ride](http://9gag.com/gag/a87eXR1)
- - 👉 [MOM TAKES REVENGE ON DAUGHTERS SA ATTACKER AND GETS ARRESTED](http://9gag.com/gag/abAxdNB)<!-- MEMES:END -->
+ - 😝 [Breaking the Box Office LOL](http://9gag.com/gag/a0enWmn)
+ - 😝 [MOM TAKES REVENGE ON DAUGHTERS SA ATTACKER AND GETS ARRESTED](http://9gag.com/gag/abAxdNB)
+ - 💣 [The Sandfall Interactive team who created Clair obscure: Expedition 33...no blue-haired women, no shaved-headed guys with red lipstick. The game is a masterpiece. Coincidence?](http://9gag.com/gag/aRBvy32)
+ - 😝 [Since old memes are back, I post my old stuff Nr. 6](http://9gag.com/gag/awyOGWx)
+ - 👉 [100.000+ protesters in Ireland against the mass immigration invasion of Ireland](http://9gag.com/gag/amoxpn9)<!-- MEMES:END -->
 
 ---
 

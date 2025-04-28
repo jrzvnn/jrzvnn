@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Predator](http://9gag.com/gag/an7xEjz)
+ - 😝 [Oh this the right time to drop this?](http://9gag.com/gag/abAxQop)
  - 😝 [Fixed it. Those damn rookies don&#39;t even study memology these days](http://9gag.com/gag/avyxv2X)
- - 💣 [Yay for old memes](http://9gag.com/gag/aLnAm6z)
+ - 💣 [Oh no!](http://9gag.com/gag/aO89pN3)
  - 😝 [French citizen of Bosnian ancestry stabs a muslim in a French mosque. Then takes a cell phone out and records a dying victim while insulting Islam](http://9gag.com/gag/a87ezo6)
- - 👉 [I feel like I missed out on her prime years](http://9gag.com/gag/aD2bOjZ)<!-- MEMES:END -->
+ - 👉 [A team of passionate gamers, made a masterpiece, without any woke agenda bullshit forcibly pushed inside, and the game sold way more in two days than the Ubisoft latest crap did since it&#39;s release? How is it possible?!?](http://9gag.com/gag/ajPxdLG)<!-- MEMES:END -->
 
 ---
 

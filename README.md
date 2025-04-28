@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Time to bring back memes #17](http://9gag.com/gag/a7o9NAb)
- - 😝 [Yay for old memes](http://9gag.com/gag/aLnAm6z)
- - 💣 [Does this count as bringing old stuff back?](http://9gag.com/gag/an7xv4q)
- - 😝 [French citizen of Bosnian ancestry stabs a muslim in a French mosque. Then takes a cell phone out and records a dying victim while insulting Islam](http://9gag.com/gag/a87ezo6)
+ - 😝 [Does this count as bringing old stuff back?](http://9gag.com/gag/an7xv4q)
+ - 😝 [Predator](http://9gag.com/gag/an7xEjz)
+ - 💣 [Oh no!](http://9gag.com/gag/aO89pN3)
+ - 😝 [What?](http://9gag.com/gag/aYQMqd7)
  - 👉 [I feel like I missed out on her prime years](http://9gag.com/gag/aD2bOjZ)<!-- MEMES:END -->
 
 ---

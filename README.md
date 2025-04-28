@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Around 50% of US adults say AI will have a negative impact on news over the next 20 years; 10% say a positive effect; 59% say AI will lead to fewer journalists &lpar;Michael Lipka/Pew Research Center&rpar;](http://www.techmeme.com/250428/p24#a250428p24)
- - [GOG is adding some classic Star Wars games to its preservation program](https://www.theverge.com/news/657540/gog-star-wars-game-preservation-program)
- - [OpenAI says users made over a billion web searches in ChatGPT last week and that WhatsApp users can now message 1-800-ChatGPT to get up-to-date search results &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250428/p22#a250428p22)
- - [NXP says CEO Kurt Sievers will retire at 2025&#39;s end, names Rafael Sotomayor as president, reports Q1 revenue down 9% YoY to $2.84B; NXPI drops 7%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250428/p23#a250428p23)
- - [DHL restarts deliveries of international packages worth more than $800](https://www.theverge.com/news/657489/dhl-shipment-resume-us-tariffs-business-to-consumer)<!-- TECH:END -->
+ - [Alibaba unveils the Qwen3 family of open-source &quot;hybrid&quot; AI reasoning models, including Qwen3-235B-A22B, with 235B total parameters and 22B activated parameters &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250428/p26#a250428p26)
+ - [Apple reportedly scraps stronger anti-reflective display planned for iPhone 17](https://appleinsider.com/articles/25/04/28/apple-reportedly-scraps-stronger-anti-reflective-display-planned-for-iphone-17?utm_medium=rss)
+ - [&amp;#8216;Video games are not manufactured in China,’ Playasia reassures tariff-wary customers](https://www.theverge.com/news/657560/playasia-video-games-manufactured-china)
+ - [Sources: a group of Wall Street banks has sold the final $1.2B of X debt at 98 cents on the dollar, after lending $13B for Musk&#39;s takeover of Twitter in 2022 &lpar;Alexander Saeedy/Wall Street Journal&rpar;](http://www.techmeme.com/250428/p25#a250428p25)
+ - [Around 50% of US adults say AI will have a negative impact on news over the next 20 years; 10% say a positive effect; 59% say AI will lead to fewer journalists &lpar;Michael Lipka/Pew Research Center&rpar;](http://www.techmeme.com/250428/p24#a250428p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

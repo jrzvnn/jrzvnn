@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GOG is adding some classic Star Wars games to its preservation program](https://www.theverge.com/news/657540/gog-star-wars-game-preservation-program)
  - [OpenAI says users made over a billion web searches in ChatGPT last week and that WhatsApp users can now message 1-800-ChatGPT to get up-to-date search results &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250428/p22#a250428p22)
  - [NXP says CEO Kurt Sievers will retire at 2025&#39;s end, names Rafael Sotomayor as president, reports Q1 revenue down 9% YoY to $2.84B; NXPI drops 7%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250428/p23#a250428p23)
  - [DHL restarts deliveries of international packages worth more than $800](https://www.theverge.com/news/657489/dhl-shipment-resume-us-tariffs-business-to-consumer)
- - [Consumers get ahead of tariffs, Morgan Stanley hikes AAPL price target to $235](https://appleinsider.com/articles/25/04/28/consumers-get-ahead-of-tariffs-morgan-stanley-hikes-aapl-price-target-to-235?utm_medium=rss)
- - [The DJI Phantom is no more](https://www.theverge.com/news/657359/dji-phantom-drone-line-end-of-life-4-pro-advanced)<!-- TECH:END -->
+ - [Consumers get ahead of tariffs, Morgan Stanley hikes AAPL price target to $235](https://appleinsider.com/articles/25/04/28/consumers-get-ahead-of-tariffs-morgan-stanley-hikes-aapl-price-target-to-235?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

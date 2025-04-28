@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Flooding starts in Pakistan after India unexpectedly releases water in the Jhelum River without prior notification](http://9gag.com/gag/aW4oby3)
- - 😝 [LoL](http://9gag.com/gag/a4PAqby)
- - 💣 [Gotta promote the business](http://9gag.com/gag/awyOv3B)
- - 😝 [Oh no!](http://9gag.com/gag/aO89pN3)
- - 👉 [Title go here](http://9gag.com/gag/a0enOWZ)<!-- MEMES:END -->
+ - 😝 [A team of passionate gamers, made a masterpiece, without any woke agenda bullshit forcibly pushed inside, and the game sold way more in two days than the Ubisoft latest crap did since it&#39;s release? How is it possible?!?](http://9gag.com/gag/ajPxdLG)
+ - 😝 [Is it too late?](http://9gag.com/gag/a87eD0p)
+ - 💣 [LoL](http://9gag.com/gag/a4PAqby)
+ - 😝 [Gotta promote the business](http://9gag.com/gag/awyOv3B)
+ - 👉 [Oh no!](http://9gag.com/gag/aO89pN3)<!-- MEMES:END -->
 
 ---
 

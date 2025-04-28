@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Mac mini can be made portable for about three times the cost of a MacBook Air](https://appleinsider.com/articles/25/04/28/a-mac-mini-can-be-made-portable-for-about-three-times-the-cost-of-a-macbook-air?utm_medium=rss)
+ - [Deals: iPad 11 drops to $299, AirPods fall to $99 at Amazon](https://appleinsider.com/articles/25/04/28/deals-ipad-11-drops-to-299-airpods-fall-to-99-at-amazon?utm_medium=rss)
  - [America is living in tariff limbo](https://www.theverge.com/tech/656695/trump-tariffs-china-canada-mexico-trade-war-anxiety)
  - [OnePlus backs off its Watch 3’s huge price hike](https://www.theverge.com/news/657170/oneplus-watch-3-price-hike-reversed)
- - [7 Best Flower Delivery Services of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-flower-delivery-service/)
- - [In March 2025, World Uyghur Congress members were targeted with a spearphishing campaign via Windows malware in a legitimate Uyghur language word processor &lpar;The Citizen Lab&rpar;](http://www.techmeme.com/250428/p12#a250428p12)
- - [Fired FTC commissioners on fighting for their jobs back](https://www.theverge.com/decoder-podcast-with-nilay-patel/657115/ftc-bedoya-slaughter-trump-fired-supreme-court-interview)<!-- TECH:END -->
+ - [Best Peloton Alternatives for 2025 to Help You Meet Your Fitness Goals](https://www.cnet.com/health/fitness/best-peloton-alternative/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

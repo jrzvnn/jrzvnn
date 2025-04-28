@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A team of passionate gamers, made a masterpiece, without any woke agenda bullshit forcibly pushed inside, and the game sold way more in two days than the Ubisoft latest crap did since it&#39;s release? How is it possible?!?](http://9gag.com/gag/ajPxdLG)
- - 😝 [Yay for old memes](http://9gag.com/gag/aLnAm6z)
- - 💣 [Fixed it. Those damn rookies don&#39;t even study memology these days](http://9gag.com/gag/avyxv2X)
- - 😝 [Flooding starts in Pakistan after India unexpectedly releases water in the Jhelum River without prior notification](http://9gag.com/gag/aW4oby3)
- - 👉 [I feel like I missed out on her prime years](http://9gag.com/gag/aD2bOjZ)<!-- MEMES:END -->
+ - 😝 [Blowtorch vs paper cut with water](http://9gag.com/gag/a87eVQQ)
+ - 😝 [Go woke, get broke](http://9gag.com/gag/aoyx852)
+ - 💣 [Women&#39;s section,` he said. `Easy,` he thought.](http://9gag.com/gag/a5QzqYO)
+ - 😝 [Whoa. Cool hai...](http://9gag.com/gag/a6ZBGEq)
+ - 👉 [More countries should follow this. Even India has started deporting bangladeshis.](http://9gag.com/gag/ajPxxB0)<!-- MEMES:END -->
 
 ---
 

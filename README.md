@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dad Misses His Daughter&#39;s Graduation Day Because Of Power Tripping Cop](http://9gag.com/gag/aoyxd1X)
- - 😝 [Imagine hitting that and she suddenly makes that face](http://9gag.com/gag/aPAep0q)
- - 💣 [Spreading love without hair](http://9gag.com/gag/aoyx8qg)
+ - 😝 [Safety always comes first..](http://9gag.com/gag/aLnANYg)
+ - 😝 [They are cooked](http://9gag.com/gag/a6ZBxQA)
+ - 💣 [Imagine hitting that and she suddenly makes that face](http://9gag.com/gag/aPAep0q)
  - 😝 [Trust me you fu`ked up](http://9gag.com/gag/an7xrZ0)
- - 👉 [Tight or not??](http://9gag.com/gag/aoyxDLn)<!-- MEMES:END -->
+ - 👉 [Breaking the Box Office LOL](http://9gag.com/gag/a0enWmn)<!-- MEMES:END -->
 
 ---
 

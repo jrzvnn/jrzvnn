@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Im getting married guys!! After more than 12 years on this app as a loner, i finally met the One. He is an engineer, he loves tractors and he gave me a chicken. We are getting married tomorrow. So, Im super happy and excited about the future. Just wanted to say thank you all!](http://9gag.com/gag/axyO6LY)
- - 😝 [I feel like I missed out on her prime years](http://9gag.com/gag/aD2bOjZ)
- - 💣 [During assembly of the A380, engineers discovered that the cables were too short. This was caused by the use of different design software by German and French engineers. This miscalculation led to a two-year delay.](http://9gag.com/gag/aZZEQx3)
- - 😝 [LoL](http://9gag.com/gag/a4PAqby)
- - 👉 [Does this count as bringing old stuff back?](http://9gag.com/gag/an7xv4q)<!-- MEMES:END -->
+ - 😝 [Blowtorch vs paper cut with water](http://9gag.com/gag/a87eVQQ)
+ - 😝 [Go woke, get broke](http://9gag.com/gag/aoyx852)
+ - 💣 [Women&#39;s section,` he said. `Easy,` he thought.](http://9gag.com/gag/a5QzqYO)
+ - 😝 [More countries should follow this. Even India has started deporting bangladeshis.](http://9gag.com/gag/ajPxxB0)
+ - 👉 [Whoa. Cool hai...](http://9gag.com/gag/a6ZBGEq)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nothing’s second modular phone reinvents the rules](https://www.theverge.com/news/657064/nothing-cmf-phone-pro-2-launch-us-release-price-modules)
+ - [China tariff war worries and more: What to expect from Apple&#39;s Q2 2025 earnings](https://appleinsider.com/articles/25/04/22/china-tariff-war-worries-and-more-what-to-expect-from-apples-q2-2025-earnings?utm_medium=rss)
+ - [Brendan Carr’s FCC is an anti-consumer, rights-trampling harassment machine](https://www.theverge.com/tech/656653/brendan-carr-fcc-anti-consumer-harassment-dei-trump)
  - [Netflix’s Tudum 2025 event will stream live next month](https://www.theverge.com/news/656687/netflix-tudum-2025-streaming-date)
- - [Tel Aviv-based Lightrun, an observability platform that uses AI to identify and debug code in production, raised a $70M Series B co-led by Accel and Insight &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250428/p11#a250428p11)
- - [Which Instax Camera Should You Buy?](https://www.wired.com/gallery/which-instax-camera-should-you-buy/)
- - [Rebooted Beats Pill ships in two new summer-ready colors](https://appleinsider.com/articles/25/04/28/rebooted-beats-pill-ships-in-two-new-summer-ready-colors?utm_medium=rss)
- - [Skin Deep makes immersive sims messy and manic](https://www.theverge.com/games-review/656336/skin-deep-review-steam)<!-- TECH:END -->
+ - [Tel Aviv-based Lightrun, an observability platform that uses AI to identify and debug code in production, raised a $70M Series B co-led by Accel and Insight &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250428/p11#a250428p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

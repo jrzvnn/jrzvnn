@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [German defense startup ARX Robotics, which makes self-driving, modular battlefield robots, raised €31M led by HV Capital and plans to build a plant in England &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/250428/p6#a250428p6)
- - [A deep dive on Apple&#39;s iPhone manufacturing process, including 2,700 parts from 187 suppliers in 28 countries; just 30 suppliers have no presence in China &lpar;Financial Times&rpar;](http://www.techmeme.com/250428/p5#a250428p5)
- - [Donald Trump Is Already Ruining Christmas](https://www.wired.com/story/christmas-toys-trump-tariffs-china/)
- - [Music creation startup Splice buys London-based orchestral sound studio Spitfire Audio, a source says for ~$50M; sources say Splice has $100M+ in annual revenue &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/250428/p4#a250428p4)
- - [Scientists Believe They’ve Witnessed ‘Planetary Suicide’ for the First Time](https://www.wired.com/story/this-planet-plunged-directly-onto-its-sun-and-astronomers-are-at-a-loss-as-to-how-to-interpret-it/)<!-- TECH:END -->
+ - [Apple fights India antitrust claims by boasting how much developers have been paid](https://appleinsider.com/articles/25/04/28/apple-fights-india-antitrust-claims-by-boasting-how-much-developers-have-been-paid?utm_medium=rss)
+ - [Oxo Rapid Brewer Review &lpar;2025&rpar;: Fast, Tasty Cold Brew](https://www.wired.com/review/oxo-rapid-brewer/)
+ - [Poop Drones Are Keeping Sewers Running So Humans Don&#39;t Have to](https://www.wired.com/story/poop-drones-are-keeping-sewers-running-so-humans-dont-have-to/)
+ - [Car Subscription Features Raise Your Risk of Government Surveillance, Police Records Show](https://www.wired.com/story/police-records-car-subscription-features-surveillance/)
+ - [German defense startup ARX Robotics, which makes self-driving, modular battlefield robots, raised €31M led by HV Capital and plans to build a plant in England &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/250428/p6#a250428p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

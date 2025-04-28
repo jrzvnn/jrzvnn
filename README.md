@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Europe&#39;s Devastating Power Outage, in Photos](https://www.wired.com/gallery/europes-devastating-power-outage-in-photos/)
+ - [China&#39;s Pony.ai says it can now build its most advanced autonomous driving system at 70% lower cost and plans to start mass production of robotaxis in mid-2025 &lpar;Jiahui Huang/Wall Street Journal&rpar;](http://www.techmeme.com/250428/p27#a250428p27)
+ - [Europe&#39;s Devastating Power Outage in Photos](https://www.wired.com/gallery/europes-devastating-power-outage-in-photos/)
  - [Alibaba unveils the Qwen3 family of open-weight &quot;hybrid&quot; AI reasoning models, including Qwen3-235B-A22B, with 235B total parameters and 22B activated parameters &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250428/p26#a250428p26)
  - [Apple reportedly scraps stronger anti-reflective display planned for iPhone 17](https://appleinsider.com/articles/25/04/28/apple-reportedly-scraps-stronger-anti-reflective-display-planned-for-iphone-17?utm_medium=rss)
- - [&amp;#8216;Video games are not manufactured in China,’ Playasia reassures tariff-wary customers](https://www.theverge.com/news/657560/playasia-video-games-manufactured-china)
- - [Sources: a group of Wall Street banks has sold the final $1.2B of X debt at 98 cents on the dollar, after lending $13B for Musk&#39;s takeover of Twitter in 2022 &lpar;Alexander Saeedy/Wall Street Journal&rpar;](http://www.techmeme.com/250428/p25#a250428p25)<!-- TECH:END -->
+ - [&amp;#8216;Video games are not manufactured in China,’ Playasia reassures tariff-wary customers](https://www.theverge.com/news/657560/playasia-video-games-manufactured-china)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

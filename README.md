@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [America is living in tariff limbo](https://www.theverge.com/tech/656695/trump-tariffs-china-canada-mexico-trade-war-anxiety)
  - [OnePlus backs off its Watch 3’s huge price hike](https://www.theverge.com/news/657170/oneplus-watch-3-price-hike-reversed)
  - [7 Best Flower Delivery Services of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-flower-delivery-service/)
  - [In March 2025, World Uyghur Congress members were targeted with a spearphishing campaign via Windows malware in a legitimate Uyghur language word processor &lpar;The Citizen Lab&rpar;](http://www.techmeme.com/250428/p12#a250428p12)
- - [Fired FTC commissioners on fighting for their jobs back](https://www.theverge.com/decoder-podcast-with-nilay-patel/657115/ftc-bedoya-slaughter-trump-fired-supreme-court-interview)
- - [Nothing’s second modular phone reinvents the rules](https://www.theverge.com/news/657064/nothing-cmf-phone-pro-2-launch-us-release-price-modules)<!-- TECH:END -->
+ - [Fired FTC commissioners on fighting for their jobs back](https://www.theverge.com/decoder-podcast-with-nilay-patel/657115/ftc-bedoya-slaughter-trump-fired-supreme-court-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

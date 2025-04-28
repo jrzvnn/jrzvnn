@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Pixel Watch 2 is now on sale for $100 off](https://www.theverge.com/tech/657220/pixel-watch-apple-ue-buds-sale-deal)
+ - [iPhone 17 takes a big step towards mass production](https://appleinsider.com/articles/25/04/28/iphone-17-takes-a-big-step-towards-mass-production?utm_medium=rss)
+ - [These wireless headphones have ‘80s Sony Walkman vibes](https://www.theverge.com/news/657273/km5-lightwear-wireless-headphones-hp1-sony-walkman)
  - [Researchers say bots on Reddit posing as rape victims and more were effective at changing minds in 1K+ posts, in an unauthorized AI persuasion experiment &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/250428/p15#a250428p15)
- - [Palo Alto Networks says it aims to acquire Seattle-based Protect AI, sources say for $500M; Protect AI&#39;s $60M Series B in 2024 was at a reported $400M valuation &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250428/p14#a250428p14)
- - [Google announces a special Android event ahead of I/O](https://www.theverge.com/news/656589/google-android-event-io-2025)
- - [Widespread power outage hits Spain and neighboring countries France and Portugal](https://www.theverge.com/news/657017/major-blackout-spain-portugal-france-europe)
- - [China tariff war worries and more: What to expect from Apple&#39;s Q2 2025 earnings](https://appleinsider.com/articles/25/04/22/china-tariff-war-worries-and-more-what-to-expect-from-apples-q2-2025-earnings?utm_medium=rss)<!-- TECH:END -->
+ - [Best Internet Providers in Warner Robins, Georgia](https://www.cnet.com/home/internet/best-internet-providers-in-warner-robins-ga/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

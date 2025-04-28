@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The DJI Phantom is no more](https://www.theverge.com/news/657359/dji-phantom-drone-line-end-of-life-4-pro-advanced)
  - [Nothing announces the $279 CMF Phone 2 Pro, with a 6.77&quot; 120Hz AMOLED display and three rear cameras, including a 50MP telephoto lens, plus three new earbuds &lpar;Prakhar Khanna/ZDNET&rpar;](http://www.techmeme.com/250428/p21#a250428p21)
  - [The Verge’s 2025 Mother’s Day gift guide](https://www.theverge.com/tech/647527/best-mothers-day-gift-ideas-2025-mom-tech-gadgets)
  - [A deep dive on GPT-4o&#39;s tendency to give sycophantic responses, an issue Sam Altman promised to fix and that may be caused by OpenAI optimizing for engagement &lpar;Zvi Mowshowitz/Don&#39;t Worry About the Vase&rpar;](http://www.techmeme.com/250428/p20#a250428p20)
- - [Last call: Surfshark VPN deals from $1.99/mo end April 30](https://appleinsider.com/articles/25/04/28/last-call-surfshark-vpn-deals-from-199mo-end-april-30?utm_medium=rss)
- - [New ChatGPT &amp;#8216;glazes too much,&amp;#8217; says Sam Altman](https://www.theverge.com/tech/657409/chat-gpt-sycophantic-responses-gpt-4o-sam-altman)<!-- TECH:END -->
+ - [Last call: Surfshark VPN deals from $1.99/mo end April 30](https://appleinsider.com/articles/25/04/28/last-call-surfshark-vpn-deals-from-199mo-end-april-30?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

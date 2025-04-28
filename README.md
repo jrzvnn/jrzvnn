@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Temu adds &quot;import charges&quot; of between 130% and 150% &quot;due to recent changes in global trade rules and tariffs&quot;; Shein also hikes prices but without explicit fees &lpar;CNBC&rpar;](http://www.techmeme.com/250428/p16#a250428p16)
+ - [Neurotech companies are selling your brain data, senators warn](https://www.theverge.com/policy/657202/ftc-letter-senators-neurotech-companies-brain-computer-interface)
+ - [Apple’s most affordable iPad is now the cheapest it’s ever been](https://www.theverge.com/tech/657256/apple-eleventh-generation-ipad-deal-sale)
  - [The Pixel Watch 2 is now on sale for $100 off](https://www.theverge.com/tech/657220/pixel-watch-apple-ue-buds-sale-deal)
- - [iPhone 17 takes a big step towards mass production](https://appleinsider.com/articles/25/04/28/iphone-17-takes-a-big-step-towards-mass-production?utm_medium=rss)
- - [These wireless headphones have ‘80s Sony Walkman vibes](https://www.theverge.com/news/657273/km5-lightwear-wireless-headphones-hp1-sony-walkman)
- - [Researchers say bots on Reddit posing as rape victims and more were effective at changing minds in 1K+ posts, in an unauthorized AI persuasion experiment &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/250428/p15#a250428p15)
- - [Best Internet Providers in Warner Robins, Georgia](https://www.cnet.com/home/internet/best-internet-providers-in-warner-robins-ga/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 17 takes a big step towards mass production](https://appleinsider.com/articles/25/04/28/iphone-17-takes-a-big-step-towards-mass-production?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

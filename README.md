@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HomeKit dehumidifiers, Roomba 705 Max, &amp; Aqara G5 Pro review on HomeKit Insider](https://appleinsider.com/articles/25/04/28/homekit-dehumidifiers-roomba-705-max-aqara-g5-pro-review-on-homekit-insider?utm_medium=rss)
+ - [Apple revenue could actually benefit from China tariff war](https://appleinsider.com/articles/25/04/28/apple-revenue-could-actually-benefit-from-china-tariff-war?utm_medium=rss)
  - [Widespread power outage hits Spain and neighboring countries France and Portugal](https://www.theverge.com/news/657017/major-blackout-spain-portugal-france-europe)
- - [Spotify says it has paid $100M+ to podcast publishers and creators since January 2025 via a new creator program based on Premium subscriber video engagement &lpar;Jessica Testa/New York Times&rpar;](http://www.techmeme.com/250428/p7#a250428p7)
- - [Apple fights India antitrust claims by boasting how much developers have been paid](https://appleinsider.com/articles/25/04/28/apple-fights-india-antitrust-claims-by-boasting-how-much-developers-have-been-paid?utm_medium=rss)
- - [Oxo Rapid Brewer Review &lpar;2025&rpar;: Fast, Tasty Cold Brew](https://www.wired.com/review/oxo-rapid-brewer/)
- - [Poop Drones Are Keeping Sewers Running So Humans Don&#39;t Have to](https://www.wired.com/story/poop-drones-are-keeping-sewers-running-so-humans-dont-have-to/)<!-- TECH:END -->
+ - [A look at Microsoft freezing ~1.5GW of data centers set for 2025 and 2026; Microsoft has walked away from significantly more than 2GW of non-binding contracts &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/250428/p8#a250428p8)
+ - [HP EliteBook Ultra G1i Review: A Laptop That’s All Business](https://www.wired.com/review/hp-elitebook-ultra-g1i-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

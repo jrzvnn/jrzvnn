@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Vance and the Don are allying us with them, happy noises.](http://9gag.com/gag/a9ymVXo)
- - 😝 [A Movie so bad it drives people who watched it to turn Mad](http://9gag.com/gag/ae9xRPB)
- - 💣 [MOM TAKES REVENGE ON DAUGHTERS SA ATTACKER AND GETS ARRESTED](http://9gag.com/gag/abAxdNB)
- - 😝 [Not a rage comic, but a classic nonetheless.](http://9gag.com/gag/aqyxYRj)
- - 👉 [Imagine hitting that and she suddenly makes that face](http://9gag.com/gag/aPAep0q)<!-- MEMES:END -->
+ - 😝 [Trust me you fu`ked up](http://9gag.com/gag/an7xrZ0)
+ - 😝 [That depends](http://9gag.com/gag/a9ymBd6)
+ - 💣 [What kind of performance art is this?](http://9gag.com/gag/aVvZ2xv)
+ - 😝 [MOM TAKES REVENGE ON DAUGHTERS SA ATTACKER AND GETS ARRESTED](http://9gag.com/gag/abAxdNB)
+ - 👉 [I feel like I missed out on her prime years](http://9gag.com/gag/aD2bOjZ)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What?](http://9gag.com/gag/aYQMqd7)
+ - 😝 [Time to bring back memes #17](http://9gag.com/gag/a7o9NAb)
  - 😝 [Yay for old memes](http://9gag.com/gag/aLnAm6z)
  - 💣 [Does this count as bringing old stuff back?](http://9gag.com/gag/an7xv4q)
- - 😝 [They are cooked](http://9gag.com/gag/a6ZBxQA)
- - 👉 [My confession to the old classics...](http://9gag.com/gag/a9ym2PZ)<!-- MEMES:END -->
+ - 😝 [French citizen of Bosnian ancestry stabs a muslim in a French mosque. Then takes a cell phone out and records a dying victim while insulting Islam](http://9gag.com/gag/a87ezo6)
+ - 👉 [I feel like I missed out on her prime years](http://9gag.com/gag/aD2bOjZ)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [P-1 AI, which is developing an AI-powered engineering agent and hopes AI can eventually design complex machines, emerges from stealth with $23M in seed funding &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/250428/p18#a250428p18)
+ - [Pope Francis Is Laid To Rest: Here&#39;s What Comes Next as Conclave Begins May 7](https://www.cnet.com/tech/services-and-software/pope-francis-is-laid-to-rest-heres-what-comes-next-as-conclave-begins-may-7/#ftag=CAD590a51e)
  - [A pirated iOS port of Blue Prince is climbing the App Store charts](https://www.theverge.com/news/657370/blue-prince-ios-port-app-store)
- - [WhatsApp is working on video and voice calls on the web](https://www.theverge.com/news/657336/whatsapp-voice-video-call-buttons-web-client)
- - [Q&amp;A with Alvaro Bedoya and Rebecca Slaughter who Trump fired, likely illegally, as FTC commissioners, on Meta, fighting for privacy, and bribes in the US &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250428/p17#a250428p17)
- - [Shein, Temu Prices Surge as High as 377% Ahead of Tariff Increases](https://www.cnet.com/news/politics/shein-temu-prices-surge-as-high-as-377-ahead-of-tariff-increases/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Exercise Bikes in 2025: At-Home Workouts for Less Than You Might Think](https://www.cnet.com/health/fitness/best-exercise-bike/#ftag=CAD590a51e)
+ - [WhatsApp is working on video and voice calls on the web](https://www.theverge.com/news/657336/whatsapp-voice-video-call-buttons-web-client)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

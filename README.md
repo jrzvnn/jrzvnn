@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kickstarter introduces a &quot;Tariff Manager tool&quot; that lets creators add extra charges for backers on projects that were already fully funded &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250428/p13#a250428p13)
  - [A Mac mini can be made portable for about three times the cost of a MacBook Air](https://appleinsider.com/articles/25/04/28/a-mac-mini-can-be-made-portable-for-about-three-times-the-cost-of-a-macbook-air?utm_medium=rss)
  - [Deals: iPad 11 drops to $299, AirPods fall to $99 at Amazon](https://appleinsider.com/articles/25/04/28/deals-ipad-11-drops-to-299-airpods-fall-to-99-at-amazon?utm_medium=rss)
  - [America is living in tariff limbo](https://www.theverge.com/tech/656695/trump-tariffs-china-canada-mexico-trade-war-anxiety)
- - [OnePlus backs off its Watch 3’s huge price hike](https://www.theverge.com/news/657170/oneplus-watch-3-price-hike-reversed)
- - [Best Peloton Alternatives for 2025 to Help You Meet Your Fitness Goals](https://www.cnet.com/health/fitness/best-peloton-alternative/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OnePlus backs off its Watch 3’s huge price hike](https://www.theverge.com/news/657170/oneplus-watch-3-price-hike-reversed)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

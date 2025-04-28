@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [P-1 AI, which is developing an AI-powered engineering agent and hopes AI can eventually design complex machines, emerges from stealth with $23M in seed funding &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/250428/p18#a250428p18)
- - [Pope Francis Is Laid To Rest: Here&#39;s What Comes Next as Conclave Begins May 7](https://www.cnet.com/tech/services-and-software/pope-francis-is-laid-to-rest-heres-what-comes-next-as-conclave-begins-may-7/#ftag=CAD590a51e)
- - [A pirated iOS port of Blue Prince is climbing the App Store charts](https://www.theverge.com/news/657370/blue-prince-ios-port-app-store)
- - [Best Exercise Bikes in 2025: At-Home Workouts for Less Than You Might Think](https://www.cnet.com/health/fitness/best-exercise-bike/#ftag=CAD590a51e)
- - [WhatsApp is working on video and voice calls on the web](https://www.theverge.com/news/657336/whatsapp-voice-video-call-buttons-web-client)<!-- TECH:END -->
+ - [OpenAI announces that it will start showing product recommendations in ChatGPT, even for logged-out users, with buy buttons that link to merchants&#39; sites &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/250428/p19#a250428p19)
+ - [The Kickstarter you backed may soon ask for more money to cover Trump’s tariffs](https://www.theverge.com/news/657413/kickstarter-project-trump-tariffs-surcharge-fee)
+ - [OpenAI Adds Shopping to ChatGPT](https://www.wired.com/story/openai-adds-shopping-to-chatgpt/)
+ - [ChatGPT is getting better for shopping](https://www.theverge.com/news/656729/openai-chatgpt-search-shopping)
+ - [An Acclaimed Book About Digital Manipulation Was Actually Written by AI](https://www.wired.com/story/an-acclaimed-book-about-digital-manipulation-was-actually-written-by-ai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the sprawling network of group chats that began in 2020 as a place for SV leaders to talk candidly, with Marc Andreessen playing a central role &lpar;Ben Smith/Semafor&rpar;](http://www.techmeme.com/250427/p18#a250427p18)
  - [Huawei&#39;s recovery shows the limits of US policies aimed at restricting China, and how those policies can backfire, spurring Chinese firms to innovate and grow &lpar;Samm Sacks/Bloomberg&rpar;](http://www.techmeme.com/250427/p17#a250427p17)
+ - [Best Internet Providers in Stamford, Connecticut](https://www.cnet.com/home/internet/best-internet-providers-in-stamford-ct/#ftag=CAD590a51e)
  - [Geoffrey Hinton fears AI companies are under-investing in safety research, embracing military usage, and sharing model weights while pushing for less regulation &lpar;CBS Mornings on YouTube&rpar;](http://www.techmeme.com/250427/p16#a250427p16)
- - [A profile of Darktrace CEO Jill Popelka, who joined the British cyber security firm in Jan. 2024 and was at the helm when it was bought by Thoma Bravo for £4.3B &lpar;Anjli Raval/Financial Times&rpar;](http://www.techmeme.com/250427/p15#a250427p15)
- - [Your Kidneys Deserve Better -- These 13 Superfoods Can Help](https://www.cnet.com/health/nutrition/your-kidneys-deserve-better-these-13-superfoods-can-help/#ftag=CAD590a51e)
- - [Best Internet Providers in Salt Lake City, Utah](https://www.cnet.com/home/internet/best-internet-providers-in-salt-lake-city-ut/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Palm Springs, California](https://www.cnet.com/home/internet/best-internet-providers-in-palm-springs-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Last call: Surfshark VPN deals from $1.99/mo end April 30](https://appleinsider.com/articles/25/04/28/last-call-surfshark-vpn-deals-from-199mo-end-april-30?utm_medium=rss)
+ - [New ChatGPT &amp;#8216;glazes too much,&amp;#8217; says Sam Altman](https://www.theverge.com/tech/657409/chat-gpt-sycophantic-responses-gpt-4o-sam-altman)
  - [How Marc Andreessen’s Signal group chats helped spawn the tech right](https://www.theverge.com/politics/657407/how-marc-andreesens-signal-group-chats-helped-spawned-the-tech-right)
  - [A pirated iOS port of Blue Prince fooled people into paying $10](https://www.theverge.com/news/657370/blue-prince-ios-port-app-store)
- - [OpenAI announces that it will start showing product recommendations in ChatGPT, even for logged-out users, with buy buttons that link to merchants&#39; sites &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/250428/p19#a250428p19)
- - [The Kickstarter you backed may soon ask for more money to cover Trump’s tariffs](https://www.theverge.com/news/657413/kickstarter-project-trump-tariffs-surcharge-fee)
- - [OpenAI Adds Shopping to ChatGPT](https://www.wired.com/story/openai-adds-shopping-to-chatgpt/)<!-- TECH:END -->
+ - [OpenAI announces that it will start showing product recommendations in ChatGPT, even for logged-out users, with buy buttons that link to merchants&#39; sites &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/250428/p19#a250428p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

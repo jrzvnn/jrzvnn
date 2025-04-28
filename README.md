@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Blowtorch vs paper cut with water](http://9gag.com/gag/a87eVQQ)
- - 😝 [Go woke, get broke](http://9gag.com/gag/aoyx852)
- - 💣 [Women&#39;s section,` he said. `Easy,` he thought.](http://9gag.com/gag/a5QzqYO)
- - 😝 [More countries should follow this. Even India has started deporting bangladeshis.](http://9gag.com/gag/ajPxxB0)
- - 👉 [Whoa. Cool hai...](http://9gag.com/gag/a6ZBGEq)<!-- MEMES:END -->
+ - 😝 [What?](http://9gag.com/gag/aYQMqd7)
+ - 😝 [Yay for old memes](http://9gag.com/gag/aLnAm6z)
+ - 💣 [Does this count as bringing old stuff back?](http://9gag.com/gag/an7xv4q)
+ - 😝 [They are cooked](http://9gag.com/gag/a6ZBxQA)
+ - 👉 [My confession to the old classics...](http://9gag.com/gag/a9ym2PZ)<!-- MEMES:END -->
 
 ---
 

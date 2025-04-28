@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Since old memes are back, I post my old stuff Nr. 6](http://9gag.com/gag/awyOGWx)
- - 😝 [Go woke, get broke](http://9gag.com/gag/aoyx852)
- - 💣 [MOM TAKES REVENGE ON DAUGHTERS SA ATTACKER AND GETS ARRESTED](http://9gag.com/gag/abAxdNB)
- - 😝 [The Sandfall Interactive team who created Clair obscure: Expedition 33...no blue-haired women, no shaved-headed guys with red lipstick. The game is a masterpiece. Coincidence?](http://9gag.com/gag/aRBvy32)
- - 👉 [100.000+ protesters in Ireland against the mass immigration invasion of Ireland](http://9gag.com/gag/amoxpn9)<!-- MEMES:END -->
+ - 😝 [Dad Misses His Daughter&#39;s Graduation Day Because Of Power Tripping Cop](http://9gag.com/gag/aoyxd1X)
+ - 😝 [Imagine hitting that and she suddenly makes that face](http://9gag.com/gag/aPAep0q)
+ - 💣 [Spreading love without hair](http://9gag.com/gag/aoyx8qg)
+ - 😝 [Trust me you fu`ked up](http://9gag.com/gag/an7xrZ0)
+ - 👉 [Tight or not??](http://9gag.com/gag/aoyxDLn)<!-- MEMES:END -->
 
 ---
 

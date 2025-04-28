@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Chrome won the browser wars fair and square, and the web will be worse off if Google is forced to sell it, even to atone for ad market monopoly abuses &lpar;David Heinemeier Hansson/HEY&rpar;](http://www.techmeme.com/250428/p3#a250428p3)
- - [While Big Tech is largely spared from tariffs, small companies making devices like baby monitors face price hikes, shortages, and degrading product quality &lpar;Nicole Nguyen/Wall Street Journal&rpar;](http://www.techmeme.com/250428/p2#a250428p2)
- - [How AI tools like Autistic Translator and Goblin Tools are helping those with autism and other neurodiverse people understand social situations &lpar;Andrea Jiménez/Washington Post&rpar;](http://www.techmeme.com/250428/p1#a250428p1)
- - [How to Watch the Eta Aquariids Meteor Shower](https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for April 28, #217](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-april-28-217/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [German defense startup ARX Robotics, which makes self-driving, modular battlefield robots, raised €31M led by HV Capital and plans to build a plant in England &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/250428/p6#a250428p6)
+ - [A deep dive on Apple&#39;s iPhone manufacturing process, including 2,700 parts from 187 suppliers in 28 countries; just 30 suppliers have no presence in China &lpar;Financial Times&rpar;](http://www.techmeme.com/250428/p5#a250428p5)
+ - [Donald Trump Is Already Ruining Christmas](https://www.wired.com/story/christmas-toys-trump-tariffs-china/)
+ - [Music creation startup Splice buys London-based orchestral sound studio Spitfire Audio, a source says for ~$50M; sources say Splice has $100M+ in annual revenue &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/250428/p4#a250428p4)
+ - [Scientists Believe They’ve Witnessed ‘Planetary Suicide’ for the First Time](https://www.wired.com/story/this-planet-plunged-directly-onto-its-sun-and-astronomers-are-at-a-loss-as-to-how-to-interpret-it/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

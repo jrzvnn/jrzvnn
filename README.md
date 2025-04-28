@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify says it has paid $100M+ to podcast publishers and creators since January 2025 via a new creator program based on Premium subscriber video engagement &lpar;Jessica Testa/New York Times&rpar;](http://www.techmeme.com/250428/p7#a250428p7)
  - [Apple fights India antitrust claims by boasting how much developers have been paid](https://appleinsider.com/articles/25/04/28/apple-fights-india-antitrust-claims-by-boasting-how-much-developers-have-been-paid?utm_medium=rss)
  - [Oxo Rapid Brewer Review &lpar;2025&rpar;: Fast, Tasty Cold Brew](https://www.wired.com/review/oxo-rapid-brewer/)
  - [Poop Drones Are Keeping Sewers Running So Humans Don&#39;t Have to](https://www.wired.com/story/poop-drones-are-keeping-sewers-running-so-humans-dont-have-to/)
- - [Car Subscription Features Raise Your Risk of Government Surveillance, Police Records Show](https://www.wired.com/story/police-records-car-subscription-features-surveillance/)
- - [German defense startup ARX Robotics, which makes self-driving, modular battlefield robots, raised €31M led by HV Capital and plans to build a plant in England &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/250428/p6#a250428p6)<!-- TECH:END -->
+ - [Car Subscription Features Raise Your Risk of Government Surveillance, Police Records Show](https://www.wired.com/story/police-records-car-subscription-features-surveillance/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

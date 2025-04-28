@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I feel like I missed out on her prime years](http://9gag.com/gag/aD2bOjZ)
  - 😝 [Title go here](http://9gag.com/gag/a0enOWZ)
- - 💣 [They are cooked](http://9gag.com/gag/a6ZBxQA)
- - 😝 [This is what muscle spasms look like.](http://9gag.com/gag/an7xrQ5)
- - 👉 [Imagine hitting that and she suddenly makes that face](http://9gag.com/gag/aPAep0q)<!-- MEMES:END -->
+ - 😝 [MOM TAKES REVENGE ON DAUGHTERS SA ATTACKER AND GETS ARRESTED](http://9gag.com/gag/abAxdNB)
+ - 💣 [Imagine hitting that and she suddenly makes that face](http://9gag.com/gag/aPAep0q)
+ - 😝 [I feel like I missed out on her prime years](http://9gag.com/gag/aD2bOjZ)
+ - 👉 [This is what muscle spasms look like.](http://9gag.com/gag/an7xrQ5)<!-- MEMES:END -->
 
 ---
 

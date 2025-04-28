@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [A team of passionate gamers, made a masterpiece, without any woke agenda bullshit forcibly pushed inside, and the game sold way more in two days than the Ubisoft latest crap did since it&#39;s release? How is it possible?!?](http://9gag.com/gag/ajPxdLG)
- - 😝 [Is it too late?](http://9gag.com/gag/a87eD0p)
- - 💣 [LoL](http://9gag.com/gag/a4PAqby)
- - 😝 [Gotta promote the business](http://9gag.com/gag/awyOv3B)
- - 👉 [Oh no!](http://9gag.com/gag/aO89pN3)<!-- MEMES:END -->
+ - 😝 [Yay for old memes](http://9gag.com/gag/aLnAm6z)
+ - 💣 [Fixed it. Those damn rookies don&#39;t even study memology these days](http://9gag.com/gag/avyxv2X)
+ - 😝 [Flooding starts in Pakistan after India unexpectedly releases water in the Jhelum River without prior notification](http://9gag.com/gag/aW4oby3)
+ - 👉 [I feel like I missed out on her prime years](http://9gag.com/gag/aD2bOjZ)<!-- MEMES:END -->
 
 ---
 

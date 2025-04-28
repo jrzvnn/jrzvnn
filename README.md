@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A team of passionate gamers, made a masterpiece, without any woke agenda bullshit forcibly pushed inside, and the game sold way more in two days than the Ubisoft latest crap did since it&#39;s release? How is it possible?!?](http://9gag.com/gag/ajPxdLG)
  - 😝 [Imagine hitting that and she suddenly makes that face](http://9gag.com/gag/aPAep0q)
- - 😝 [My confession to the old classics...](http://9gag.com/gag/a9ym2PZ)
- - 💣 [I feel like I missed out on her prime years](http://9gag.com/gag/aD2bOjZ)
- - 😝 [Oh no!](http://9gag.com/gag/aO89pN3)
- - 👉 [Title go here](http://9gag.com/gag/a0enOWZ)<!-- MEMES:END -->
+ - 💣 [MOM TAKES REVENGE ON DAUGHTERS SA ATTACKER AND GETS ARRESTED](http://9gag.com/gag/abAxdNB)
+ - 😝 [French citizen of Bosnian ancestry stabs a muslim in a French mosque. Then takes a cell phone out and records a dying victim while insulting Islam](http://9gag.com/gag/a87ezo6)
+ - 👉 [Oh no!](http://9gag.com/gag/aO89pN3)<!-- MEMES:END -->
 
 ---
 

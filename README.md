@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Safety always comes first..](http://9gag.com/gag/aLnANYg)
  - 😝 [A team of passionate gamers, made a masterpiece, without any woke agenda bullshit forcibly pushed inside, and the game sold way more in two days than the Ubisoft latest crap did since it&#39;s release? How is it possible?!?](http://9gag.com/gag/ajPxdLG)
- - 😝 [Imagine hitting that and she suddenly makes that face](http://9gag.com/gag/aPAep0q)
- - 💣 [Safety always comes first..](http://9gag.com/gag/aLnANYg)
- - 😝 [Trust me you fu`ked up](http://9gag.com/gag/an7xrZ0)
- - 👉 [Body armour company demonstrates their stab proof vest on their CEO](http://9gag.com/gag/aE0WN1O)<!-- MEMES:END -->
+ - 💣 [Most people don\u2019t realize how steep a NASCAR track is](http://9gag.com/gag/aD2bQ9x)
+ - 😝 [Body armour company demonstrates their stab proof vest on their CEO](http://9gag.com/gag/aE0WN1O)
+ - 👉 [Dad Misses His Daughter&#39;s Graduation Day Because Of Power Tripping Cop](http://9gag.com/gag/aoyxd1X)<!-- MEMES:END -->
 
 ---
 

@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Trust me you fu`ked up](http://9gag.com/gag/an7xrZ0)
- - 😝 [I feel like I missed out on her prime years](http://9gag.com/gag/aD2bOjZ)
- - 💣 [Title go here](http://9gag.com/gag/a0enOWZ)
- - 😝 [Gas, Grass or Ass... there is no free ride](http://9gag.com/gag/a87eXR1)
+ - 😝 [Safety always comes first..](http://9gag.com/gag/aLnANYg)
+ - 💣 [Stacey&#39;s Got It Going On](http://9gag.com/gag/aPAeXdR)
+ - 😝 [Body armour company demonstrates their stab proof vest on their CEO](http://9gag.com/gag/aE0WN1O)
  - 👉 [Imagine hitting that and she suddenly makes that face](http://9gag.com/gag/aPAep0q)<!-- MEMES:END -->
 
 ---

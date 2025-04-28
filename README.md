@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Marc Andreessen’s Signal group chats helped spawn the tech right](https://www.theverge.com/politics/657407/how-marc-andreesens-signal-group-chats-helped-spawned-the-tech-right)
  - [A pirated iOS port of Blue Prince fooled people into paying $10](https://www.theverge.com/news/657370/blue-prince-ios-port-app-store)
  - [OpenAI announces that it will start showing product recommendations in ChatGPT, even for logged-out users, with buy buttons that link to merchants&#39; sites &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/250428/p19#a250428p19)
  - [The Kickstarter you backed may soon ask for more money to cover Trump’s tariffs](https://www.theverge.com/news/657413/kickstarter-project-trump-tariffs-surcharge-fee)
- - [OpenAI Adds Shopping to ChatGPT](https://www.wired.com/story/openai-adds-shopping-to-chatgpt/)
- - [ChatGPT is getting better for shopping](https://www.theverge.com/news/656729/openai-chatgpt-search-shopping)<!-- TECH:END -->
+ - [OpenAI Adds Shopping to ChatGPT](https://www.wired.com/story/openai-adds-shopping-to-chatgpt/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

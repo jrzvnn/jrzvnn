@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Agonizing Task of Turning Europe’s Power Back On](https://www.wired.com/story/europe-blackout-spain-portugal-power-outage/)
  - [Tennis star Alexander Zverev calls out automated line judging system](https://www.theverge.com/news/657300/tennis-star-alexander-zverev-hawk-eye-els-line-judging)
  - [Wii Homebrew Channel development shuts down over ‘stolen’ code](https://www.theverge.com/news/657294/wii-homebrew-channel-archived-stolen-nintendo-code)
  - [Apple moves to a fourth round of iOS 18.5, macOS 15.5 developer betas](https://appleinsider.com/articles/25/04/28/apple-moves-to-a-fourth-round-of-ios-185-macos-155-developer-betas?utm_medium=rss)
- - [Temu adds &quot;import charges&quot; of between 130% and 150% &quot;due to recent changes in global trade rules and tariffs&quot;; Shein also hikes prices but without explicit fees &lpar;CNBC&rpar;](http://www.techmeme.com/250428/p16#a250428p16)
- - [Neurotech companies are selling your brain data, senators warn](https://www.theverge.com/policy/657202/ftc-letter-senators-neurotech-companies-brain-computer-interface)<!-- TECH:END -->
+ - [Temu adds &quot;import charges&quot; of between 130% and 150% &quot;due to recent changes in global trade rules and tariffs&quot;; Shein also hikes prices but without explicit fees &lpar;CNBC&rpar;](http://www.techmeme.com/250428/p16#a250428p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

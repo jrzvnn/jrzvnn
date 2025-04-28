@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Safety always comes first..](http://9gag.com/gag/aLnANYg)
- - 😝 [They are cooked](http://9gag.com/gag/a6ZBxQA)
- - 💣 [Imagine hitting that and she suddenly makes that face](http://9gag.com/gag/aPAep0q)
- - 😝 [Trust me you fu`ked up](http://9gag.com/gag/an7xrZ0)
- - 👉 [Breaking the Box Office LOL](http://9gag.com/gag/a0enWmn)<!-- MEMES:END -->
+ - 😝 [Go woke, get broke](http://9gag.com/gag/aoyx852)
+ - 😝 [MOM TAKES REVENGE ON DAUGHTERS SA ATTACKER AND GETS ARRESTED](http://9gag.com/gag/abAxdNB)
+ - 💣 [Since old memes are back, I post my old stuff Nr. 6](http://9gag.com/gag/awyOGWx)
+ - 😝 [The Sandfall Interactive team who created Clair obscure: Expedition 33...no blue-haired women, no shaved-headed guys with red lipstick. The game is a masterpiece. Coincidence?](http://9gag.com/gag/aRBvy32)
+ - 👉 [100.000+ protesters in Ireland against the mass immigration invasion of Ireland](http://9gag.com/gag/amoxpn9)<!-- MEMES:END -->
 
 ---
 

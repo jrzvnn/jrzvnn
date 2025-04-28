@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Does this count as bringing old stuff back?](http://9gag.com/gag/an7xv4q)
- - 😝 [Predator](http://9gag.com/gag/an7xEjz)
- - 💣 [Oh no!](http://9gag.com/gag/aO89pN3)
- - 😝 [What?](http://9gag.com/gag/aYQMqd7)
- - 👉 [I feel like I missed out on her prime years](http://9gag.com/gag/aD2bOjZ)<!-- MEMES:END -->
+ - 😝 [Flooding starts in Pakistan after India unexpectedly releases water in the Jhelum River without prior notification](http://9gag.com/gag/aW4oby3)
+ - 😝 [LoL](http://9gag.com/gag/a4PAqby)
+ - 💣 [Gotta promote the business](http://9gag.com/gag/awyOv3B)
+ - 😝 [Oh no!](http://9gag.com/gag/aO89pN3)
+ - 👉 [Title go here](http://9gag.com/gag/a0enOWZ)<!-- MEMES:END -->
 
 ---
 

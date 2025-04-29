@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Slate Truck is a whole new kind of car](https://www.theverge.com/the-vergecast/657836/slate-truck-auto-pickup-screen-time-vergecast)
- - [MAGA’s next wave of influencers saved TikTok](https://www.theverge.com/politics/656717/trump-tiktok-ban-maga-influencers)
+ - [Amazon says showing tariff prices on the main Amazon site was never under consideration, but Amazon Haul has considered showing import duties on some products &lpar;Jeff Stein/@jstein_wapo&rpar;](http://www.techmeme.com/250429/p15#a250429p15)
+ - [Spotify reports Q1 revenue up 15% YoY to €4.2B, operating income of €509M, below its €548M forecast, Q2 MAUs forecast below analysts&#39; estimates; SPOT drops 8%+ &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/250429/p14#a250429p14)
  - [HelloFresh Meal Kit Review &lpar;2025&rpar;: Modern and Tasty, With Caveats](https://www.wired.com/review/hellofresh-meal-kit-2025/)
- - [White House calls Amazon ‘hostile’ after report says it will label tariff price hikes](https://www.theverge.com/news/657807/trump-amazon-tariff-hostile-pricing)
- - [Amazon to display cost of tariffs on products in &#39;hostile and political&#39; act](https://appleinsider.com/articles/25/04/29/amazon-to-display-cost-of-tariffs-on-products-in-hostile-and-political-act?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon to display cost of tariffs on products in &#39;hostile and political&#39; act](https://appleinsider.com/articles/25/04/29/amazon-to-display-cost-of-tariffs-on-products-in-hostile-and-political-act?utm_medium=rss)
+ - [Oligo researchers detail AirBorne, a set of vulnerabilities in Apple&#39;s AirPlay SDK that could affect 10M+ third-party devices; Apple has patched its own devices &lpar;Wired&rpar;](http://www.techmeme.com/250429/p13#a250429p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

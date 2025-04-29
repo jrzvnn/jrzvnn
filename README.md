@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hugging Face releases SO-101, a programmable, 3D-printable robotic arm that can pick up and place objects, costing $100 to $500 depending on the supplier &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250429/p3#a250429p3)
- - [Washington state lawmakers pass new taxes amid a record budget deficit, targeting Amazon, Microsoft, and others to raise $9B+; Gov. Bob Ferguson can now sign &lpar;Anna Edgerton/Bloomberg&rpar;](http://www.techmeme.com/250429/p2#a250429p2)
- - [As Measles Cases Surge, Mexico Issues a US Travel Alert](https://www.wired.com/story/as-measles-cases-surge-mexico-issues-a-us-travel-alert/)
- - [New Starlink subscription drops hardware price to $0](https://www.theverge.com/news/657659/new-starlink-subscription-drops-hardware-price-to-0)
- - [Open letter: the EFF and top security experts urge the Trump administration to end its probe of ex-CISA chief Chris Krebs, calling it political and harmful &lpar;Josh Richman/Electronic Frontier ...&rpar;](http://www.techmeme.com/250429/p1#a250429p1)<!-- TECH:END -->
+ - [Amazon launches its first satellites to rival Starlink](https://www.theverge.com/news/657689/amazon-project-kuiper-satellite-launch)
+ - [Spotify reports Q1 revenue up 15% YoY to €4.2B, subscribers up 12% YoY to 268M, above its 265M guidance, MAUs up 10% YoY to 678M, and a €509M operating income &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/250429/p5#a250429p5)
+ - [Nvidia issues yet another GPU hotfix driver to address crashes and bugs](https://www.theverge.com/news/657686/nvidia-driver-hotfix-release-bugs-crashes-fixes)
+ - [Sources: Amazon is seeking steep supplier discounts and setting tough terms to protect margins amid US tariffs, following its playbook from Trump&#39;s first term &lpar;Rafe Uddin/Financial Times&rpar;](http://www.techmeme.com/250429/p4#a250429p4)
+ - [Trump’s Tariffs Will Widen the Digital Divide](https://www.wired.com/story/trumps-tariffs-will-widen-the-digital-divide/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

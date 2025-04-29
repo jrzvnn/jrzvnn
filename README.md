@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bluetooth](http://9gag.com/gag/axyO8MD)
- - 😝 [Illegal immigrants tried to speedrun the border\u2026 and failed miserably](http://9gag.com/gag/aVvZ8bd)
- - 💣 [The mosquitoes death trap](http://9gag.com/gag/adBx4Md)
- - 😝 [Body armour company demonstrates their stab proof vest on their CEO](http://9gag.com/gag/aE0WN1O)
- - 👉 [Let\u2019s make fun of them while they can\u2019t see a thing..](http://9gag.com/gag/amoxOyV)<!-- MEMES:END -->
+ - 😝 [So they are the same in everywhere?](http://9gag.com/gag/ae9xz3Q)
+ - 😝 [Decades ahead of rest of the world](http://9gag.com/gag/aKG8y1Q)
+ - 💣 [Nailed it!](http://9gag.com/gag/aYQMvqN)
+ - 😝 [Yes. That.](http://9gag.com/gag/aQzmK2q)
+ - 👉 [CAR](http://9gag.com/gag/a348DW1)<!-- MEMES:END -->
 
 ---
 

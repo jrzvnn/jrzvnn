@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I bot](http://9gag.com/gag/aYQMnQq)
- - 😝 [They are cooked](http://9gag.com/gag/a6ZBxQA)
- - 💣 [Most people don\u2019t realize how steep a NASCAR track is](http://9gag.com/gag/aD2bQ9x)
- - 😝 [Mene](http://9gag.com/gag/apRxje9)
- - 👉 [Doing my part](http://9gag.com/gag/aO89NXr)<!-- MEMES:END -->
+ - 😝 [Infinite money](http://9gag.com/gag/a1mVODb)
+ - 😝 [The difference is 2 days](http://9gag.com/gag/a4PAxMv)
+ - 💣 [Teach em early, teach em right](http://9gag.com/gag/aGyGNXG)
+ - 😝 [That&#39;s not mom](http://9gag.com/gag/a6ZBGz2)
+ - 👉 [Gotta promote the business](http://9gag.com/gag/awyOv3B)<!-- MEMES:END -->
 
 ---
 

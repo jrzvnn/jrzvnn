@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a first for the country, France blames Russia&#39;s GRU for a string of local cyber attacks, including on ministries, defense firms, and think tanks &lpar;John Irish/Reuters&rpar;](http://www.techmeme.com/250429/p27#a250429p27)
+ - [Minisforum TB4-01 12-in-1 Thunderbolt 4 Dock review: 2.5 gigabit ethernet and legacy ports, inexpensively](https://appleinsider.com/articles/25/04/29/minisforum-tb4-01-12-in-1-thunderbolt-4-dock-review-25-gigabit-ethernet-and-legacy-ports-inexpensively?utm_medium=rss)
+ - [Meta says its Llama AI models have been downloaded 1.2B times, up from 1B downloads in March and 650M downloads in early December 2024 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250429/p26#a250429p26)
  - [WhatsApp plans to add cloud-based AI features like message summarization and composition, utilizing a system called Private Processing to maintain data privacy &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/250429/p25#a250429p25)
- - [AirPlay security flaws could help hackers spread malware on your network](https://www.theverge.com/news/657873/apple-airplay-carplay-vulnerabilities-bugs-security-risk)
- - [SK Telecom announces free SIM card replacements to its 25M mobile customers following a recent USIM data breach, but only 6M cards are available through May &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250429/p24#a250429p24)
- - [Meta debuts an API for its Llama AI models, in limited preview with pricing yet to be publicly announced &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250429/p23#a250429p23)
- - [WhatsApp Is Walking a Tightrope Between AI Features and Privacy](https://www.wired.com/story/whatsapp-private-processing-generative-ai-security-risks/)<!-- TECH:END -->
+ - [Sorry Shoppers, Amazon Says Tariff Cost Feature &#39;Is Not Going to Happen&#39;](https://www.cnet.com/tech/services-and-software/sorry-shoppers-amazon-says-tariff-cost-feature-is-not-going-to-happen/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

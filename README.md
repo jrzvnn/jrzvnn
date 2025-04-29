@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reddit bans researchers who used AI bots to manipulate commenters](https://www.theverge.com/ai-artificial-intelligence/657978/reddit-ai-experiment-banned)
+ - [Trump reportedly complained to Bezos about Amazon’s tariff plan](https://www.theverge.com/news/658008/trump-bezos-complain-amazon-tariff-plan-rumor)
  - [Google updates Audio Overviews in NotebookLM to expand support beyond English to 50+ languages, including Spanish, French, Hindi, Turkish, Korean, and Chinese &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250429/p20#a250429p20)
  - [Sources: President Trump called Jeff Bezos on Tuesday morning to complain about reports that Amazon was adding tariff prices to listings &lpar;CNN&rpar;](http://www.techmeme.com/250429/p19#a250429p19)
- - [Scoop: Trump called Amazon founder Jeff Bezos Tuesday morning to complain about reports that his company was considering displaying the cost U.S. tariffs next to prices for certain products on its website, two senior White House officials told @CNN &lpar;Alayna Treene/@alaynatreene&rpar;](http://www.techmeme.com/250429/p18#a250429p18)
- - [Amazon says Amazon Haul &quot;considered the idea of listing import charges on certain products&quot;, but &quot;this was never a consideration for the main Amazon site&quot; &lpar;Fortune&rpar;](http://www.techmeme.com/250429/p17#a250429p17)
- - [Google’s AI podcast maker is now available in over 50 languages](https://www.theverge.com/news/657785/google-audio-overviews-ai-podcasts-50-languages)<!-- TECH:END -->
+ - [Scoop: Trump called Amazon founder Jeff Bezos Tuesday morning to complain about reports that his company was considering displaying the cost U.S. tariffs next to prices for certain products on its website, two senior White House officials told @CNN &lpar;Alayna Treene/@alaynatreene&rpar;](http://www.techmeme.com/250429/p18#a250429p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

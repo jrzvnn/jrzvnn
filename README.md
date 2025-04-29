@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The mosquitoes death trap](http://9gag.com/gag/adBx4Md)
- - 😝 [Illegal immigrants tried to speedrun the border\u2026 and failed miserably](http://9gag.com/gag/aVvZ8bd)
- - 💣 [I bot](http://9gag.com/gag/aYQMnQq)
- - 😝 [Bluetooth](http://9gag.com/gag/axyO8MD)
- - 👉 [Let\u2019s make fun of them while they can\u2019t see a thing..](http://9gag.com/gag/amoxOyV)<!-- MEMES:END -->
+ - 😝 [Dad Misses His Daughter&#39;s Graduation Day Because Of Power Tripping Cop](http://9gag.com/gag/aoyxd1X)
+ - 😝 [Body armour company demonstrates their stab proof vest on their CEO](http://9gag.com/gag/aE0WN1O)
+ - 💣 [The mosquitoes death trap](http://9gag.com/gag/adBx4Md)
+ - 😝 [I bot](http://9gag.com/gag/aYQMnQq)
+ - 👉 [Bluetooth](http://9gag.com/gag/axyO8MD)<!-- MEMES:END -->
 
 ---
 

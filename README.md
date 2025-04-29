@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US House passes the Take It Down Act to criminalize the posting of nonconsensual sexual images of others and to require online platforms to remove them &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/250428/p29#a250428p29)
- - [Duolingo will replace contract workers with AI](https://www.theverge.com/news/657594/duolingo-ai-first-replace-contract-workers)
- - [Amazon launches 27 satellites for its Project Kuiper broadband internet program, the first batch of 3,236 satellites it plans to send into low-Earth orbit &lpar;Joey Roulette/Reuters&rpar;](http://www.techmeme.com/250428/p28#a250428p28)
- - [China&#39;s Pony.ai says it can now build its most advanced autonomous driving system at 70% lower cost and plans to start mass production of robotaxis in mid-2025 &lpar;Jiahui Huang/Wall Street Journal&rpar;](http://www.techmeme.com/250428/p27#a250428p27)
- - [Europe’s Devastating Power Outage in Photos](https://www.wired.com/gallery/europes-devastating-power-outage-in-photos/)<!-- TECH:END -->
+ - [Critics fear the Take It Down Act, one of the few online safety laws to pass in years, could be weaponized against content the Trump admin or its allies dislike &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250428/p30#a250428p30)
+ - [Take It Down Act heads to Trump’s desk](https://www.theverge.com/news/657632/take-it-down-act-passes-house-deepfakes)
+ - [ExpressVPN review: Simple to use VPN, but powerful](https://appleinsider.com/articles/25/04/29/expressvpn-review-simple-to-use-vpn-but-powerful?utm_medium=rss)
+ - [Champions League Soccer Semifinal: Livestream Arsenal vs. PSG From Anywhere](https://www.cnet.com/tech/services-and-software/champions-league-soccer-semifinal-livestream-arsenal-vs-psg-from-anywhere/#ftag=CAD590a51e)
+ - [The US House passes the Take It Down Act to criminalize posting nonconsensual sexual images of others, including deepfakes, and require platforms to remove them &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/250428/p29#a250428p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

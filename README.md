@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Appfigures: Google Play hosts 1.8M apps, down from 3.4M at the beginning of 2024, a 47% decline likely due to raised minimum quality requirements &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250429/p37#a250429p37)
  - [Lyft’s AI ‘Earnings Assistant’ offers ideas about how drivers can make more money](https://www.theverge.com/news/658195/lyft-ai-earnings-assistant-drivers)
  - [iPhone 17 dummy video offers a new look at Apple&#39;s 2025 device lineup](https://appleinsider.com/articles/25/04/29/iphone-17-dummy-video-offers-a-new-look-at-apples-2025-device-lineup?utm_medium=rss)
  - [Sources: Trump officials are considering removing a Biden-era rule that divides the world into tiers that help determine how many AI chips a country can obtain &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/250429/p36#a250429p36)
- - [Tests appear to show Instagram blocking minors from accessing AI Studio, its user-generated chatbot character platform, after recent reports on safety issues &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/250429/p35#a250429p35)
- - [Supermicro reports preliminary Q3 revenue of $4.5B to $4.6B, vs. $5.5B est., earnings per share of $0.29 to $0.31, vs. $0.54 est.; SMCI drops 16%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250429/p34#a250429p34)<!-- TECH:END -->
+ - [Tests appear to show Instagram blocking minors from accessing AI Studio, its user-generated chatbot character platform, after recent reports on safety issues &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/250429/p35#a250429p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

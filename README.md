@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Breaking the Box Office LOL](http://9gag.com/gag/a0enWmn)
- - 😝 [Mene](http://9gag.com/gag/apRxje9)
- - 💣 [Which movie You Could Watch Over and Over Again Without Getting Bored?, this is mine.](http://9gag.com/gag/a7o9njq)
- - 😝 [Dad Misses His Daughter&#39;s Graduation Day Because Of Power Tripping Cop](http://9gag.com/gag/aoyxd1X)
- - 👉 [They are cooked](http://9gag.com/gag/a6ZBxQA)<!-- MEMES:END -->
+ - 😝 [Trust me you fu`ked up](http://9gag.com/gag/an7xrZ0)
+ - 😝 [Which movie You Could Watch Over and Over Again Without Getting Bored?, this is mine.](http://9gag.com/gag/a7o9njq)
+ - 💣 [The difference is 2 days](http://9gag.com/gag/a4PAxMv)
+ - 😝 [They are cooked](http://9gag.com/gag/a6ZBxQA)
+ - 👉 [Imagine hitting that and she suddenly makes that face](http://9gag.com/gag/aPAep0q)<!-- MEMES:END -->
 
 ---
 

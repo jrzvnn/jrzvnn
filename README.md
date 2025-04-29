@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Apple funds new fire station that covers its Nevada data center](https://appleinsider.com/articles/25/04/29/apple-funds-new-fire-station-that-covers-its-nevada-data-center?utm_medium=rss)
  - [Best Organic Mattress and Bedding &lpar;2025&rpar;: Nontoxic, Natural Sleep](https://www.wired.com/story/best-organic-mattresses/)
- - [PayPal reports Q1 net revenue up 1% YoY to $7.8B, transaction margin dollars up 7% to $3.7B, above est., TPV up 3% to $417.2B, and active accounts up 2% to 436M &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250429/p10#a250429p10)
- - [Helsinki-based IXI, which is building low-power glasses that can autofocus to a user&#39;s prescription, emerges from stealth and raised a $36.5M Series A &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250429/p9#a250429p9)
- - [AI Is Using Your Likes to Get Inside Your Head](https://www.wired.com/story/like-the-button-that-changed-the-world-book-excerpt/)<!-- TECH:END -->
+ - [No Caller ID vs. Unknown Caller on iPhone: The Key Difference](https://www.cnet.com/tech/mobile/no-caller-id-vs-unknown-caller-on-iphone-the-key-difference/#ftag=CAD590a51e)
+ - [What&#39;s a Raspberry Pi? How You Can Use It for Your Home’s Internet](https://www.cnet.com/home/internet/whats-raspberry-pi/#ftag=CAD590a51e)
+ - [PayPal reports Q1 net revenue up 1% YoY to $7.8B, transaction margin dollars up 7% to $3.7B, above est., TPV up 3% to $417.2B, and active accounts up 2% to 436M &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250429/p10#a250429p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

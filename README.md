@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Doing my part](http://9gag.com/gag/aO89NXr)
- - 😝 [The difference is 2 days](http://9gag.com/gag/a4PAxMv)
- - 💣 [They are cooked](http://9gag.com/gag/a6ZBxQA)
  - 😝 [I bot](http://9gag.com/gag/aYQMnQq)
- - 👉 [Gas, Grass or Ass... there is no free ride](http://9gag.com/gag/a87eXR1)<!-- MEMES:END -->
+ - 😝 [They are cooked](http://9gag.com/gag/a6ZBxQA)
+ - 💣 [Most people don\u2019t realize how steep a NASCAR track is](http://9gag.com/gag/aD2bQ9x)
+ - 😝 [Mene](http://9gag.com/gag/apRxje9)
+ - 👉 [Doing my part](http://9gag.com/gag/aO89NXr)<!-- MEMES:END -->
 
 ---
 

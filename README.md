@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Livestream of Meta&#39;s LlamaCon 2025 keynote &lpar;Meta Developers on YouTube&rpar;](http://www.techmeme.com/250429/p22#a250429p22)
- - [Apple quietly launches &#39;Snapshot&#39; artists, actors, and athletes discovery guide](https://appleinsider.com/articles/25/04/29/apple-quietly-launches-snapshot-artists-actors-and-athletes-discovery-guide?utm_medium=rss)
- - [The UK government publishes draft legislation on cryptoassets, set to be finalized later in 2025, and says it will work with US officials on crypto regulation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250429/p21#a250429p21)
- - [Starlink Gives Away Residential Kit Worth $349 for Free, but There Are Some Catches](https://www.cnet.com/home/internet/starlink-giving-away-residential-kit-worth-349-for-free-but-there-are-some-catches/#ftag=CAD590a51e)
- - [Meta&#39;s New AI App For Phones Is Also Its Hub For Glasses](https://www.cnet.com/tech/services-and-software/metas-new-ai-app-for-phones-is-also-its-hub-for-glasses/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AirPlay security flaws could help hackers spread malware on your network](https://www.theverge.com/news/657873/apple-airplay-carplay-vulnerabilities-bugs-security-risk)
+ - [SK Telecom announces free SIM card replacements to its 25M mobile customers following a recent USIM data breach, but only 6M cards are available through May &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250429/p24#a250429p24)
+ - [Meta debuts an API for its Llama AI models, in limited preview with pricing yet to be publicly announced &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250429/p23#a250429p23)
+ - [WhatsApp Is Walking a Tightrope Between AI Features and Privacy](https://www.wired.com/story/whatsapp-private-processing-generative-ai-security-risks/)
+ - [Livestream of Meta&#39;s LlamaCon 2025 keynote &lpar;Meta Developers on YouTube&rpar;](http://www.techmeme.com/250429/p22#a250429p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

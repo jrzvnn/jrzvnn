@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon&#39;s Kuiper Satellite Service Rocket Successfully Launches](https://www.cnet.com/science/space/amazons-kuiper-satellite-service-rocket-successfully-launches-competes-with-musks-starlink/#ftag=CAD590a51e)
  - [Sources detail a growing rift between Sam Altman and Satya Nadella, whose partnership began after a 2018 meeting; Microsoft can block OpenAI&#39;s for-profit move &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250428/p32#a250428p32)
  - [What you should know about Apple&#39;s switch from rsync to openrsync](https://appleinsider.com/inside/macos-sequoia/tips/what-you-should-know-about-apples-switch-from-rsync-to-openrsync?utm_medium=rss)
- - [Duolingo CEO Luis von Ahn says the company will &quot;gradually stop using contractors to do work that AI can handle&quot;, as part of a shift to become &quot;AI-first&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250428/p31#a250428p31)
- - [Plans for iPhone 17 anti-reflective &amp; scratch proof display scrapped](https://appleinsider.com/articles/25/04/28/apple-reportedly-scraps-stronger-anti-reflective-display-planned-for-iphone-17?utm_medium=rss)
- - [Critics fear the Take It Down Act, one of the few online safety laws to pass in years, could be weaponized against content the Trump admin or its allies dislike &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250428/p30#a250428p30)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, April 29](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-april-29/#ftag=CAD590a51e)
+ - [Duolingo CEO Luis von Ahn says the company will &quot;gradually stop using contractors to do work that AI can handle&quot;, as part of a shift to become &quot;AI-first&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250428/p31#a250428p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

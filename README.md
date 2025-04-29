@@ -167,7 +167,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Dad Misses His Daughter&#39;s Graduation Day Because Of Power Tripping Cop](http://9gag.com/gag/aoyxd1X)
- - 😝 [Body armour company demonstrates their stab proof vest on their CEO](http://9gag.com/gag/aE0WN1O)
+ - 😝 [Illegal immigrants tried to speedrun the border\u2026 and failed miserably](http://9gag.com/gag/aVvZ8bd)
  - 💣 [The mosquitoes death trap](http://9gag.com/gag/adBx4Md)
  - 😝 [I bot](http://9gag.com/gag/aYQMnQq)
  - 👉 [Bluetooth](http://9gag.com/gag/axyO8MD)<!-- MEMES:END -->

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google tracked 75 zero-day vulnerabilities exploited in the wild in 2024, down from 98 in 2023 but up from 63 in 2022, with government hackers leading the use &lpar;Google Cloud Blog&rpar;](http://www.techmeme.com/250429/p8#a250429p8)
  - [Sources: Scattered Spider carried out a ransomware attack on UK retailer M&amp;S, which employs 64K+ in 1,400 stores, that caused huge disruption starting April 22 &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250429/p7#a250429p7)
  - [Source: Amazon plans to soon show how much President Trump&#39;s tariffs are adding to the price of each product next to its total listed price &lpar;Punchbowl News&rpar;](http://www.techmeme.com/250429/p6#a250429p6)
  - [Amazon launches its first satellites to rival Starlink](https://www.theverge.com/news/657689/amazon-project-kuiper-satellite-launch)
- - [Spotify reports Q1 revenue up 15% YoY to €4.2B, subscribers up 12% YoY to 268M, above its 265M guidance, MAUs up 10% YoY to 678M, and a €509M operating income &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/250429/p5#a250429p5)
- - [Nvidia issues yet another GPU hotfix driver to address crashes and bugs](https://www.theverge.com/news/657686/nvidia-driver-hotfix-release-bugs-crashes-fixes)<!-- TECH:END -->
+ - [Spotify reports Q1 revenue up 15% YoY to €4.2B, subscribers up 12% YoY to 268M, above its 265M guidance, MAUs up 10% YoY to 678M, and a €509M operating income &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/250429/p5#a250429p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

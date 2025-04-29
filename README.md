@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This was the top post the day I created an account](http://9gag.com/gag/aGyGro5)
- - 😝 [Dad Misses His Daughter&#39;s Graduation Day Because Of Power Tripping Cop](http://9gag.com/gag/aoyxd1X)
- - 💣 [Illegal immigrants tried to speedrun the border\u2026 and failed miserably](http://9gag.com/gag/aVvZ8bd)
- - 😝 [I bot](http://9gag.com/gag/aYQMnQq)
- - 👉 [The mosquitoes death trap](http://9gag.com/gag/adBx4Md)<!-- MEMES:END -->
+ - 😝 [So they are the same in everywhere?](http://9gag.com/gag/ae9xz3Q)
+ - 😝 [Decades ahead of rest of the world](http://9gag.com/gag/aKG8y1Q)
+ - 💣 [Nailed it!](http://9gag.com/gag/aYQMvqN)
+ - 😝 [Yes. That.](http://9gag.com/gag/aQzmK2q)
+ - 👉 [CAR](http://9gag.com/gag/a348DW1)<!-- MEMES:END -->
 
 ---
 

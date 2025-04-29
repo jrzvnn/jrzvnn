@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon to display cost of tariffs on products in &#39;hostile and political&#39; act [u]](https://appleinsider.com/articles/25/04/29/amazon-to-display-cost-of-tariffs-on-products-in-hostile-and-political-act?utm_medium=rss)
+ - [Borderlands 4 release date moved up two weeks](https://www.theverge.com/news/657884/borderlands-4-new-release-date-gta-vi)
  - [Rumored iPhone 18 memory bandwidth boost will greatly enhance processing power](https://appleinsider.com/articles/25/04/29/rumored-iphone-18-memory-bandwidth-boost-will-greatly-enhance-processing-power?utm_medium=rss)
  - [Meta launches the Meta AI app, a standalone ChatGPT competitor featuring a Discover feed, where users can see AI interactions that friends have chosen to share &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250429/p16#a250429p16)
- - [12 Best Delivery Chocolate Boxes to Send and Receive &lpar;2025&rpar;](https://www.wired.com/gallery/best-delivery-chocolate-boxes/)
- - [Hackers could hijack AirPlay &amp; CarPlay devices using set of &#39;Airborne&#39; flaws](https://appleinsider.com/articles/25/04/29/hackers-could-hijack-airplay-carplay-devices-using-set-of-airborne-flaws?utm_medium=rss)
- - [Meta’s ChatGPT competitor shows how your friends use AI](https://www.theverge.com/ai-artificial-intelligence/657645/meta-ai-app-chatgpt-competitor-release-ios-android)<!-- TECH:END -->
+ - [12 Best Delivery Chocolate Boxes to Send and Receive &lpar;2025&rpar;](https://www.wired.com/gallery/best-delivery-chocolate-boxes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

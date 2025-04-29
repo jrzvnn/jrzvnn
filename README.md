@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple funds new fire station that covers its Nevada data center](https://appleinsider.com/articles/25/04/29/apple-funds-new-fire-station-that-covers-its-nevada-data-center?utm_medium=rss)
- - [Best Organic Mattress and Bedding &lpar;2025&rpar;: Nontoxic, Natural Sleep](https://www.wired.com/story/best-organic-mattresses/)
- - [No Caller ID vs. Unknown Caller on iPhone: The Key Difference](https://www.cnet.com/tech/mobile/no-caller-id-vs-unknown-caller-on-iphone-the-key-difference/#ftag=CAD590a51e)
- - [What&#39;s a Raspberry Pi? How You Can Use It for Your Home’s Internet](https://www.cnet.com/home/internet/whats-raspberry-pi/#ftag=CAD590a51e)
- - [PayPal reports Q1 net revenue up 1% YoY to $7.8B, transaction margin dollars up 7% to $3.7B, above est., TPV up 3% to $417.2B, and active accounts up 2% to 436M &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250429/p10#a250429p10)<!-- TECH:END -->
+ - [What you should know about Apple&#39;s switch from rsync to openrsync](https://appleinsider.com/inside/macos-sequoia/tips/what-you-should-know-about-apples-switch-from-rsync-to-openrsync?utm_medium=rss)
+ - [Best Internet Providers in Odessa, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-odessa-tx/#ftag=CAD590a51e)
+ - [Apple supplier Pegatron says tariffs will mean third world-style shortages for US](https://appleinsider.com/articles/25/04/29/apple-supplier-pegatron-says-tariffs-will-mean-third-world-style-shortages-for-us?utm_medium=rss)
+ - [Millions of Apple Airplay-Enabled Devices Can Be Hacked via Wi-Fi](https://www.wired.com/story/airborne-airplay-flaws/)
+ - [Asus Vivobook Pro 15 Review: For Creators and Gamers](https://www.wired.com/review/asus-vivobook-pro-15-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

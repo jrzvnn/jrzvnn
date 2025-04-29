@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon denies it had plans to be clear about consumer tariff costs](https://appleinsider.com/articles/25/04/29/amazon-to-display-cost-of-tariffs-on-products-in-hostile-and-political-act?utm_medium=rss)
- - [Amazon has no choice but to display tariffs on prices now](https://www.theverge.com/amazon/657959/amazon-has-no-choice-but-to-display-tariffs-on-prices-now)
- - [Parallels Desktop 20.3 update adds Touch ID and OBS support](https://appleinsider.com/articles/25/04/29/touch-id-and-obs-support-now-in-parallels-desktop-203?utm_medium=rss)
- - [12 Best Foods for Your Eye Health](https://www.cnet.com/health/personal-care/best-food-for-eye-health/#ftag=CAD590a51e)
- - [Amazon Haul May Show You Tariff Costs, but Main Amazon Storefront Will Not](https://www.cnet.com/tech/services-and-software/amazon-haul-may-show-you-tariff-costs-but-main-amazon-storefront-will-not/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google updates Audio Overviews in NotebookLM to expand support beyond English to 50+ languages, including Spanish, French, Hindi, Turkish, Korean, and Chinese &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250429/p20#a250429p20)
+ - [Sources: President Trump called Jeff Bezos on Tuesday morning to complain about reports that Amazon was adding tariff prices to listings &lpar;CNN&rpar;](http://www.techmeme.com/250429/p19#a250429p19)
+ - [Scoop: Trump called Amazon founder Jeff Bezos Tuesday morning to complain about reports that his company was considering displaying the cost U.S. tariffs next to prices for certain products on its website, two senior White House officials told @CNN &lpar;Alayna Treene/@alaynatreene&rpar;](http://www.techmeme.com/250429/p18#a250429p18)
+ - [Amazon says Amazon Haul &quot;considered the idea of listing import charges on certain products&quot;, but &quot;this was never a consideration for the main Amazon site&quot; &lpar;Fortune&rpar;](http://www.techmeme.com/250429/p17#a250429p17)
+ - [Google’s AI podcast maker is now available in over 50 languages](https://www.theverge.com/news/657785/google-audio-overviews-ai-podcasts-50-languages)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

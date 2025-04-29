@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So they are the same in everywhere?](http://9gag.com/gag/ae9xz3Q)
- - 😝 [Decades ahead of rest of the world](http://9gag.com/gag/aKG8y1Q)
- - 💣 [Nailed it!](http://9gag.com/gag/aYQMvqN)
- - 😝 [Yes. That.](http://9gag.com/gag/aQzmK2q)
- - 👉 [CAR](http://9gag.com/gag/a348DW1)<!-- MEMES:END -->
+ - 😝 [Doing my part](http://9gag.com/gag/aO89NXr)
+ - 😝 [Bluetooth](http://9gag.com/gag/axyO8MD)
+ - 💣 [Imagine hitting that and she suddenly makes that face](http://9gag.com/gag/aPAep0q)
+ - 😝 [The mosquitoes death trap](http://9gag.com/gag/adBx4Md)
+ - 👉 [One of those rare real ones](http://9gag.com/gag/ayN1rEW)<!-- MEMES:END -->
 
 ---
 

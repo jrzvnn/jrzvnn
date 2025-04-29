@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [True love](http://9gag.com/gag/azxODBm)
- - 😝 [Tight or not??](http://9gag.com/gag/aoyxDLn)
- - 💣 [The mosquitoes death trap](http://9gag.com/gag/adBx4Md)
- - 😝 [Old stuff is back](http://9gag.com/gag/aryxdn6)
- - 👉 [Let\u2019s make fun of them while they can\u2019t see a thing..](http://9gag.com/gag/amoxOyV)<!-- MEMES:END -->
+ - 😝 [Skooma Steves super power](http://9gag.com/gag/an7xWvV)
+ - 😝 [Illegal immigrants tried to speedrun the border\u2026 and failed miserably](http://9gag.com/gag/aVvZ8bd)
+ - 💣 [Let\u2019s make fun of them while they can\u2019t see a thing..](http://9gag.com/gag/amoxOyV)
+ - 😝 [Doing my part](http://9gag.com/gag/aO89NXr)
+ - 👉 [The mosquitoes death trap](http://9gag.com/gag/adBx4Md)<!-- MEMES:END -->
 
 ---
 

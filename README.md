@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Livestream of Meta&#39;s LlamaCon 2025 keynote &lpar;Meta Developers on YouTube&rpar;](http://www.techmeme.com/250429/p22#a250429p22)
+ - [Apple quietly launches &#39;Snapshot&#39; artists, actors, and athletes discovery guide](https://appleinsider.com/articles/25/04/29/apple-quietly-launches-snapshot-artists-actors-and-athletes-discovery-guide?utm_medium=rss)
  - [The UK government publishes draft legislation on cryptoassets, set to be finalized later in 2025, and says it will work with US officials on crypto regulation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250429/p21#a250429p21)
- - [Reddit bans researchers who used AI bots to manipulate commenters](https://www.theverge.com/ai-artificial-intelligence/657978/reddit-ai-experiment-banned)
- - [Trump reportedly complained to Bezos about Amazon’s tariff plan](https://www.theverge.com/news/658008/trump-bezos-complain-amazon-tariff-plan-rumor)
- - [Google updates Audio Overviews in NotebookLM to expand support beyond English to 50+ languages, including Spanish, French, Hindi, Turkish, Korean, and Chinese &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250429/p20#a250429p20)
- - [Sources: President Trump called Jeff Bezos on Tuesday morning to complain about reports that Amazon was adding tariff prices to listings &lpar;CNN&rpar;](http://www.techmeme.com/250429/p19#a250429p19)<!-- TECH:END -->
+ - [Starlink Gives Away Residential Kit Worth $349 for Free, but There Are Some Catches](https://www.cnet.com/home/internet/starlink-giving-away-residential-kit-worth-349-for-free-but-there-are-some-catches/#ftag=CAD590a51e)
+ - [Meta&#39;s New AI App For Phones Is Also Its Hub For Glasses](https://www.cnet.com/tech/services-and-software/metas-new-ai-app-for-phones-is-also-its-hub-for-glasses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

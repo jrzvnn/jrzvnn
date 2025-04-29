@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I was there 3000 years ago](http://9gag.com/gag/aYQMZ8v)
- - 😝 [The flute makes it perfect](http://9gag.com/gag/aW4oPwn)
- - 💣 [Never trust the older brother...](http://9gag.com/gag/aGyGNvK)
- - 😝 [Gotta save the planet bro](http://9gag.com/gag/aAyMqAg)
- - 👉 [Nailed it!](http://9gag.com/gag/aYQMvqN)<!-- MEMES:END -->
+ - 😝 [True love](http://9gag.com/gag/azxODBm)
+ - 😝 [Tight or not??](http://9gag.com/gag/aoyxDLn)
+ - 💣 [The mosquitoes death trap](http://9gag.com/gag/adBx4Md)
+ - 😝 [Old stuff is back](http://9gag.com/gag/aryxdn6)
+ - 👉 [Let\u2019s make fun of them while they can\u2019t see a thing..](http://9gag.com/gag/amoxOyV)<!-- MEMES:END -->
 
 ---
 

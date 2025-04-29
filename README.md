@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a first for the country, France blames Russia&#39;s GRU for a string of local cyber attacks, including on ministries, defense firms, and think tanks &lpar;John Irish/Reuters&rpar;](http://www.techmeme.com/250429/p27#a250429p27)
- - [Minisforum TB4-01 12-in-1 Thunderbolt 4 Dock review: 2.5 gigabit ethernet and legacy ports, inexpensively](https://appleinsider.com/articles/25/04/29/minisforum-tb4-01-12-in-1-thunderbolt-4-dock-review-25-gigabit-ethernet-and-legacy-ports-inexpensively?utm_medium=rss)
- - [Meta says its Llama AI models have been downloaded 1.2B times, up from 1B downloads in March and 650M downloads in early December 2024 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250429/p26#a250429p26)
- - [WhatsApp plans to add cloud-based AI features like message summarization and composition, utilizing a system called Private Processing to maintain data privacy &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/250429/p25#a250429p25)
- - [Sorry Shoppers, Amazon Says Tariff Cost Feature &#39;Is Not Going to Happen&#39;](https://www.cnet.com/tech/services-and-software/sorry-shoppers-amazon-says-tariff-cost-feature-is-not-going-to-happen/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PayPal is expanding PayPal Ads to sell programmatic ads on the open web, using shopping data from its services to help advertisers target ads &lpar;Lauren Johnson/Adweek&rpar;](http://www.techmeme.com/250429/p28#a250429p28)
+ - [Tesla won’t have to report as many Level 2 crashes after Trump’s rule change](https://www.theverge.com/news/657859/tesla-adas-crash-report-nhtsa-sgo-trump-musk)
+ - [Apple’s latest AirPods Pro are down to their best price of the year](https://www.theverge.com/tech/639837/apple-airpods-pro-2-usb-c-wireless-earbuds-deal-sale)
+ - [Isuzu starts mass producing its first all-electric pickup truck](https://www.theverge.com/news/658108/isuzu-d-max-ev-mass-production-europe-2025)
+ - [OnePlus won’t sell the 13T in the US or Europe](https://www.theverge.com/news/658021/oneplus-13t-13s-europe-us-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

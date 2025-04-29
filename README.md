@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Body armour company demonstrates their stab proof vest on their CEO](http://9gag.com/gag/aE0WN1O)
- - 😝 [The mosquitoes death trap](http://9gag.com/gag/adBx4Md)
- - 💣 [Bluetooth](http://9gag.com/gag/axyO8MD)
- - 😝 [Tight or not??](http://9gag.com/gag/aoyxDLn)
- - 👉 [Let\u2019s make fun of them while they can\u2019t see a thing..](http://9gag.com/gag/amoxOyV)<!-- MEMES:END -->
+ - 😝 [Gotta save the planet bro](http://9gag.com/gag/aAyMqAg)
+ - 😝 [Decades ahead of rest of the world](http://9gag.com/gag/aKG8y1Q)
+ - 💣 [Nailed it!](http://9gag.com/gag/aYQMvqN)
+ - 😝 [Yes. That.](http://9gag.com/gag/aQzmK2q)
+ - 👉 [One of those rare real ones](http://9gag.com/gag/ayN1rEW)<!-- MEMES:END -->
 
 ---
 

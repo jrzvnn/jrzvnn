@@ -157,9 +157,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon to display cost of tariffs on products in &#39;hostile and political&#39; act](https://appleinsider.com/articles/25/04/29/amazon-to-display-cost-of-tariffs-on-products-in-hostile-and-political-act?utm_medium=rss)
  - [Oligo researchers detail AirBorne, a set of vulnerabilities in Apple&#39;s AirPlay SDK that may affect 10M+ third-party devices; Apple patched its own devices &lpar;Wired&rpar;](http://www.techmeme.com/250429/p13#a250429p13)
  - [White House Press Secretary Karoline Leavitt says Amazon reportedly adding tariff pricing to each product on its site &quot;is a hostile and political act by Amazon&quot; &lpar;Kevin Breuninger/CNBC&rpar;](http://www.techmeme.com/250429/p12#a250429p12)
- - [Amazon to display cost of tariffs on products in &#39;hostile and political&#39; act](https://appleinsider.com/articles/25/04/29/amazon-to-display-cost-of-tariffs-on-products-in-hostile-and-political-act?utm_medium=rss)
  - [WH Press Secretary Karoline Leavitt responds to Punchbowl News scoop today from @Dareasmunhoz and @BenBrodyDC on Amazon reflecting tariff prices &quot;I just got off the phone with the president about Amazon&#39;s announcement. This is a hostile and political act by Amazon.&quot; &lpar;Brendan Pedersen/@brendanpedersen&rpar;](http://www.techmeme.com/250429/p11#a250429p11)
  - [Bird Buddy’s new nature camera attracts and records more than just birds](https://www.theverge.com/news/657183/bird-buddy-petal-nature-camera-wonder-blocks-insects-plants-pollinators)<!-- TECH:END -->
 

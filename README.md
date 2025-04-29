@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Since old memes are back, I post my old stuff Nr. 6](http://9gag.com/gag/awyOGWx)
- - 😝 [Old but gold!](http://9gag.com/gag/aryx900)
- - 💣 [Breaking the Box Office LOL](http://9gag.com/gag/a0enWmn)
- - 😝 [Another classic from the past](http://9gag.com/gag/a1mVwdv)
- - 👉 [The flute makes it perfect](http://9gag.com/gag/aW4oPwn)<!-- MEMES:END -->
+ - 😝 [What type of whistle?](http://9gag.com/gag/aQzmDOW)
+ - 😝 [A Movie so bad it drives people who watched it to turn Mad](http://9gag.com/gag/ae9xRPB)
+ - 💣 [The difference is 2 days](http://9gag.com/gag/a4PAxMv)
+ - 😝 [I bot](http://9gag.com/gag/aYQMnQq)
+ - 👉 [Gotta promote the business](http://9gag.com/gag/awyOv3B)<!-- MEMES:END -->
 
 ---
 

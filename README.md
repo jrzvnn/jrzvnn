@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Decades ahead of rest of the world](http://9gag.com/gag/aKG8y1Q)
- - 😝 [Healthy](http://9gag.com/gag/aByEzeZ)
- - 💣 [Yes. That.](http://9gag.com/gag/aQzmK2q)
- - 😝 [Nailed it!](http://9gag.com/gag/aYQMvqN)
- - 👉 [CAR](http://9gag.com/gag/a348DW1)<!-- MEMES:END -->
+ - 😝 [Xbox users](http://9gag.com/gag/aE0WbNN)
+ - 😝 [Body armour company demonstrates their stab proof vest on their CEO](http://9gag.com/gag/aE0WN1O)
+ - 💣 [Free X-Ray](http://9gag.com/gag/amoxO2V)
+ - 😝 [True love](http://9gag.com/gag/azxODBm)
+ - 👉 [Professional fisher fishing with a unit of a fishing pole](http://9gag.com/gag/aVvZr02)<!-- MEMES:END -->
 
 ---
 

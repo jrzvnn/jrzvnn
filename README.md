@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arms race: Apple&#39;s waiting for robotics for US iPhone assembly, says Commerce Secretary](https://appleinsider.com/articles/25/04/29/arms-race-apples-waiting-for-robotics-for-us-iphone-assembly-says-commerce-secretary?utm_medium=rss)
+ - [SoFi plans to bring back crypto investing in 2025; SoFi chose to drop it in 2023 to get a bank charter, forcing users to Blockchain.com or to liquidate holdings &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/250429/p31#a250429p31)
+ - [Snapchat scraps ‘simple’ redesign as it loses users in North America](https://www.theverge.com/news/658306/snapchat-simple-redesign-losing-north-american-users)
+ - [Apple launches a new celebrity hub that’s all about Apple](https://www.theverge.com/news/658283/apple-snapshot-website-celebrity-profile-wiki-tv-music)
  - [Slate Auto confirms where it&amp;#8217;ll build its $20,000 Truck](https://www.theverge.com/news/658223/slate-factory-electric-truck-location-indiana)
- - [The latest update of GPT-4o is &quot;now 100% rolled back&quot; for free users and is currently rolling back for paid users, as OpenAI aims to fix the model&#39;s sycophancy &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250429/p30#a250429p30)
- - [The 45 Best Shows on Hulu Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
- - [Chipmaking equipment manufacturer ASM says orders in Q1 rose 14% YoY to €834M, vs. €808M est., but notes demand in non-AI-related segments was &quot;sluggish&quot; &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/250429/p29#a250429p29)<!-- TECH:END -->
+ - [Natasha Lyonne to direct and star in a new sci-fi film created with generative AI](https://www.theverge.com/film/657990/natasha-lyonne-uncanny-valley-asteria-marey)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

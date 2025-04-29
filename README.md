@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The mosquitoes death trap](http://9gag.com/gag/adBx4Md)
- - 😝 [Teach em early, teach em right](http://9gag.com/gag/aGyGNXG)
- - 💣 [Oh no!](http://9gag.com/gag/aO89pN3)
- - 😝 [How can you even have such a low IQ?](http://9gag.com/gag/a1mV8W6)
- - 👉 [Title go here](http://9gag.com/gag/a0enOWZ)<!-- MEMES:END -->
+ - 😝 [Look at the tv](http://9gag.com/gag/aGyGNnw)
+ - 😝 [The flute makes it perfect](http://9gag.com/gag/aW4oPwn)
+ - 💣 [Gotta save the planet bro](http://9gag.com/gag/aAyMqAg)
+ - 😝 [Never trust the older brother...](http://9gag.com/gag/aGyGNvK)
+ - 👉 [Nailed it!](http://9gag.com/gag/aYQMvqN)<!-- MEMES:END -->
 
 ---
 

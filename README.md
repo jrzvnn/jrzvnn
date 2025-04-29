@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [End-to-end encryption in real life. Children play chinese whispers](http://9gag.com/gag/a348p95)
- - 😝 [Trust me you fu`ked up](http://9gag.com/gag/an7xrZ0)
- - 💣 [They are cooked](http://9gag.com/gag/a6ZBxQA)
- - 😝 [Safety always comes first..](http://9gag.com/gag/aLnANYg)
- - 👉 [Dad Misses His Daughter&#39;s Graduation Day Because Of Power Tripping Cop](http://9gag.com/gag/aoyxd1X)<!-- MEMES:END -->
+ - 😝 [Tight or not??](http://9gag.com/gag/aoyxDLn)
+ - 😝 [Dad Misses His Daughter&#39;s Graduation Day Because Of Power Tripping Cop](http://9gag.com/gag/aoyxd1X)
+ - 💣 [Body armour company demonstrates their stab proof vest on their CEO](http://9gag.com/gag/aE0WN1O)
+ - 😝 [Which movie You Could Watch Over and Over Again Without Getting Bored?, this is mine.](http://9gag.com/gag/a7o9njq)
+ - 👉 [Gas, Grass or Ass... there is no free ride](http://9gag.com/gag/a87eXR1)<!-- MEMES:END -->
 
 ---
 

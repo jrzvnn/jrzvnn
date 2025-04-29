@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Starlink subscription drops hardware price to $0](https://www.theverge.com/news/657659/new-starlink-subscription-drops-hardware-price-to-0)
  - [In an open letter, EFF and top security experts urge the Trump admin to end its probe of ex-CISA chief Chris Krebs, calling it political and harmful to security &lpar;Josh Richman/Electronic Frontier ...&rpar;](http://www.techmeme.com/250429/p1#a250429p1)
  - [Save up to $1,000 today only on these 14-inch MacBook Pros](https://appleinsider.com/articles/25/04/29/save-up-to-1000-today-only-on-these-14-inch-macbook-pros?utm_medium=rss)
  - [15% Off Wayfair Promo Code | April 2025 Coupons](https://www.wired.com/story/wayfair-coupon/)
- - [20% Off DoorDash Promo Code | April 2025](https://www.wired.com/story/doordash-promo-code/)
- - [Top KitchenAid Promo Codes and Coupons](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)<!-- TECH:END -->
+ - [20% Off DoorDash Promo Code | April 2025](https://www.wired.com/story/doordash-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

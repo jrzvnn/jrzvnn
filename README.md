@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI undoes its glaze-heavy ChatGPT update](https://www.theverge.com/news/658315/openai-chatgpt-gpt-4o-roll-back-glaze-update)
+ - [Snap reports Q1 revenue up 14% YoY to $1.36B, vs. $1.35B est., and declines to provide guidance, citing macroeconomic uncertainties; SNAP drops 12%+ after hours &lpar;CNBC&rpar;](http://www.techmeme.com/250429/p32#a250429p32)
  - [SoFi plans to bring back crypto investing in 2025; SoFi chose to drop it in 2023 to get a bank charter, forcing users to Blockchain.com or to liquidate holdings &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/250429/p31#a250429p31)
  - [Snapchat scraps ‘simple’ redesign as it loses users in North America](https://www.theverge.com/news/658306/snapchat-simple-redesign-losing-north-american-users)
- - [Apple launches a new celebrity hub that’s all about Apple](https://www.theverge.com/news/658283/apple-snapshot-website-celebrity-profile-wiki-tv-music)
- - [Slate Auto confirms where it&amp;#8217;ll build its $20,000 Truck](https://www.theverge.com/news/658223/slate-factory-electric-truck-location-indiana)
- - [Natasha Lyonne to direct and star in a new sci-fi film created with generative AI](https://www.theverge.com/film/657990/natasha-lyonne-uncanny-valley-asteria-marey)<!-- TECH:END -->
+ - [Apple launches a new celebrity hub that’s all about Apple](https://www.theverge.com/news/658283/apple-snapshot-website-celebrity-profile-wiki-tv-music)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look at the tv](http://9gag.com/gag/aGyGNnw)
+ - 😝 [I was there 3000 years ago](http://9gag.com/gag/aYQMZ8v)
  - 😝 [The flute makes it perfect](http://9gag.com/gag/aW4oPwn)
- - 💣 [Gotta save the planet bro](http://9gag.com/gag/aAyMqAg)
- - 😝 [Never trust the older brother...](http://9gag.com/gag/aGyGNvK)
+ - 💣 [Never trust the older brother...](http://9gag.com/gag/aGyGNvK)
+ - 😝 [Gotta save the planet bro](http://9gag.com/gag/aAyMqAg)
  - 👉 [Nailed it!](http://9gag.com/gag/aYQMvqN)<!-- MEMES:END -->
 
 ---

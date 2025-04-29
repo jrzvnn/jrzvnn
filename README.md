@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon to display cost of tariffs on products in &#39;hostile and political&#39; act](https://appleinsider.com/articles/25/04/29/amazon-to-display-cost-of-tariffs-on-products-in-hostile-and-political-act?utm_medium=rss)
+ - [Weapons’ new trailer makes PTA meetings look like a nightmare](https://www.theverge.com/trailers/657798/weapons-new-trailer-makes-pta-meetings-look-like-a-nightmare)
  - [Amazon says showing tariff prices on the main Amazon site was never under consideration, but Amazon Haul has considered showing import duties on some products &lpar;Jeff Stein/@jstein_wapo&rpar;](http://www.techmeme.com/250429/p15#a250429p15)
  - [Former Disney employee sentenced to three years for menu hacking](https://www.theverge.com/news/657867/former-disney-employee-sentenced-menu-hacking)
- - [Spotify reports Q1 revenue up 15% YoY to €4.2B, operating income of €509M, below its €548M forecast, Q2 MAUs forecast below analysts&#39; estimates; SPOT drops 8%+ &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/250429/p14#a250429p14)
- - [The Slate Truck is a whole new kind of car](https://www.theverge.com/the-vergecast/657836/slate-truck-auto-pickup-screen-time-vergecast)
- - [MAGA’s next wave of influencers saved TikTok](https://www.theverge.com/politics/656717/trump-tiktok-ban-maga-influencers)<!-- TECH:END -->
+ - [Spotify reports Q1 revenue up 15% YoY to €4.2B, operating income of €509M, below its €548M forecast, Q2 MAUs forecast below analysts&#39; estimates; SPOT drops 8%+ &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/250429/p14#a250429p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Slate Auto confirms where it&amp;#8217;ll build its $20,000 Truck](https://www.theverge.com/news/658223/slate-factory-electric-truck-location-indiana)
  - [The latest update of GPT-4o is &quot;now 100% rolled back&quot; for free users and is currently rolling back for paid users, as OpenAI aims to fix the model&#39;s sycophancy &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250429/p30#a250429p30)
  - [The 45 Best Shows on Hulu Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
  - [Chipmaking equipment manufacturer ASM says orders in Q1 rose 14% YoY to €834M, vs. €808M est., but notes demand in non-AI-related segments was &quot;sluggish&quot; &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/250429/p29#a250429p29)
- - [PayPal is expanding PayPal Ads to sell programmatic ads on the open web, using shopping data from its services to help advertisers target ads &lpar;Lauren Johnson/Adweek&rpar;](http://www.techmeme.com/250429/p28#a250429p28)
- - [The Best Way to Clean Your Ears, How You Definitely Shouldn’t Be Doing It](https://www.cnet.com/health/personal-care/the-best-way-to-clean-your-ears-how-you-definitely-shouldnt-be-doing-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PayPal is expanding PayPal Ads to sell programmatic ads on the open web, using shopping data from its services to help advertisers target ads &lpar;Lauren Johnson/Adweek&rpar;](http://www.techmeme.com/250429/p28#a250429p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

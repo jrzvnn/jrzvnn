@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon to display cost of tariffs on products in &#39;hostile and political&#39; act](https://appleinsider.com/articles/25/04/29/amazon-to-display-cost-of-tariffs-on-products-in-hostile-and-political-act?utm_medium=rss)
- - [Weapons’ new trailer makes PTA meetings look like a nightmare](https://www.theverge.com/trailers/657798/weapons-new-trailer-makes-pta-meetings-look-like-a-nightmare)
- - [Amazon says showing tariff prices on the main Amazon site was never under consideration, but Amazon Haul has considered showing import duties on some products &lpar;Jeff Stein/@jstein_wapo&rpar;](http://www.techmeme.com/250429/p15#a250429p15)
- - [Former Disney employee sentenced to three years for menu hacking](https://www.theverge.com/news/657867/former-disney-employee-sentenced-menu-hacking)
- - [Spotify reports Q1 revenue up 15% YoY to €4.2B, operating income of €509M, below its €548M forecast, Q2 MAUs forecast below analysts&#39; estimates; SPOT drops 8%+ &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/250429/p14#a250429p14)<!-- TECH:END -->
+ - [Rumored iPhone 18 memory bandwidth boost will greatly enhance processing power](https://appleinsider.com/articles/25/04/29/rumored-iphone-18-memory-bandwidth-boost-will-greatly-enhance-processing-power?utm_medium=rss)
+ - [Meta launches the Meta AI app, a standalone ChatGPT competitor featuring a Discover feed, where users can see AI interactions that friends have chosen to share &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250429/p16#a250429p16)
+ - [12 Best Delivery Chocolate Boxes to Send and Receive &lpar;2025&rpar;](https://www.wired.com/gallery/best-delivery-chocolate-boxes/)
+ - [Hackers could hijack AirPlay &amp; CarPlay devices using set of &#39;Airborne&#39; flaws](https://appleinsider.com/articles/25/04/29/hackers-could-hijack-airplay-carplay-devices-using-set-of-airborne-flaws?utm_medium=rss)
+ - [Meta’s ChatGPT competitor shows how your friends use AI](https://www.theverge.com/ai-artificial-intelligence/657645/meta-ai-app-chatgpt-competitor-release-ios-android)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

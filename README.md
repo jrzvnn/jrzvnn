@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I bot](http://9gag.com/gag/aYQMnQq)
- - 😝 [Most people don\u2019t realize how steep a NASCAR track is](http://9gag.com/gag/aD2bQ9x)
- - 💣 [Doing my part](http://9gag.com/gag/aO89NXr)
- - 😝 [Trust me you fu`ked up](http://9gag.com/gag/an7xrZ0)
- - 👉 [That&#39;s not mom](http://9gag.com/gag/a6ZBGz2)<!-- MEMES:END -->
+ - 😝 [Since old memes are back, I post my old stuff Nr. 6](http://9gag.com/gag/awyOGWx)
+ - 😝 [Old but gold!](http://9gag.com/gag/aryx900)
+ - 💣 [Breaking the Box Office LOL](http://9gag.com/gag/a0enWmn)
+ - 😝 [Another classic from the past](http://9gag.com/gag/a1mVwdv)
+ - 👉 [The flute makes it perfect](http://9gag.com/gag/aW4oPwn)<!-- MEMES:END -->
 
 ---
 

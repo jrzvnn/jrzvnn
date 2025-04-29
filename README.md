@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Doing my part](http://9gag.com/gag/aO89NXr)
  - 😝 [Bluetooth](http://9gag.com/gag/axyO8MD)
- - 💣 [Imagine hitting that and she suddenly makes that face](http://9gag.com/gag/aPAep0q)
- - 😝 [The mosquitoes death trap](http://9gag.com/gag/adBx4Md)
- - 👉 [One of those rare real ones](http://9gag.com/gag/ayN1rEW)<!-- MEMES:END -->
+ - 😝 [Illegal immigrants tried to speedrun the border\u2026 and failed miserably](http://9gag.com/gag/aVvZ8bd)
+ - 💣 [The mosquitoes death trap](http://9gag.com/gag/adBx4Md)
+ - 😝 [Body armour company demonstrates their stab proof vest on their CEO](http://9gag.com/gag/aE0WN1O)
+ - 👉 [Let\u2019s make fun of them while they can\u2019t see a thing..](http://9gag.com/gag/amoxOyV)<!-- MEMES:END -->
 
 ---
 

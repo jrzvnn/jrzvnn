@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon to display cost of tariffs on products in &#39;hostile and political&#39; act [u]](https://appleinsider.com/articles/25/04/29/amazon-to-display-cost-of-tariffs-on-products-in-hostile-and-political-act?utm_medium=rss)
- - [Borderlands 4 release date moved up two weeks](https://www.theverge.com/news/657884/borderlands-4-new-release-date-gta-vi)
- - [Rumored iPhone 18 memory bandwidth boost will greatly enhance processing power](https://appleinsider.com/articles/25/04/29/rumored-iphone-18-memory-bandwidth-boost-will-greatly-enhance-processing-power?utm_medium=rss)
- - [Meta launches the Meta AI app, a standalone ChatGPT competitor featuring a Discover feed, where users can see AI interactions that friends have chosen to share &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250429/p16#a250429p16)
- - [12 Best Delivery Chocolate Boxes to Send and Receive &lpar;2025&rpar;](https://www.wired.com/gallery/best-delivery-chocolate-boxes/)<!-- TECH:END -->
+ - [Amazon has no choice but to display tariffs on prices now](https://www.theverge.com/amazon/657959/amazon-has-no-choice-but-to-display-tariffs-on-prices-now)
+ - [Amazon denies it had plans to be clear about consumer tariff costs](https://appleinsider.com/articles/25/04/29/amazon-to-display-cost-of-tariffs-on-products-in-hostile-and-political-act?utm_medium=rss)
+ - [Touch ID and OBS support now in Parallels Desktop 20.3](https://appleinsider.com/articles/25/04/29/touch-id-and-obs-support-now-in-parallels-desktop-203?utm_medium=rss)
+ - [12 Best Foods for Your Eye Health](https://www.cnet.com/health/personal-care/best-food-for-eye-health/#ftag=CAD590a51e)
+ - [Amazon Haul May Show You Tariff Costs, but Main Amazon Storefront Will Not](https://www.cnet.com/tech/services-and-software/amazon-haul-may-show-you-tariff-costs-but-main-amazon-storefront-will-not/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

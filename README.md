@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The UK government publishes draft legislation on cryptoassets, set to be finalized later in 2025, and says it will work with US officials on crypto regulation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250429/p21#a250429p21)
  - [Reddit bans researchers who used AI bots to manipulate commenters](https://www.theverge.com/ai-artificial-intelligence/657978/reddit-ai-experiment-banned)
  - [Trump reportedly complained to Bezos about Amazon’s tariff plan](https://www.theverge.com/news/658008/trump-bezos-complain-amazon-tariff-plan-rumor)
  - [Google updates Audio Overviews in NotebookLM to expand support beyond English to 50+ languages, including Spanish, French, Hindi, Turkish, Korean, and Chinese &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250429/p20#a250429p20)
- - [Sources: President Trump called Jeff Bezos on Tuesday morning to complain about reports that Amazon was adding tariff prices to listings &lpar;CNN&rpar;](http://www.techmeme.com/250429/p19#a250429p19)
- - [Scoop: Trump called Amazon founder Jeff Bezos Tuesday morning to complain about reports that his company was considering displaying the cost U.S. tariffs next to prices for certain products on its website, two senior White House officials told @CNN &lpar;Alayna Treene/@alaynatreene&rpar;](http://www.techmeme.com/250429/p18#a250429p18)<!-- TECH:END -->
+ - [Sources: President Trump called Jeff Bezos on Tuesday morning to complain about reports that Amazon was adding tariff prices to listings &lpar;CNN&rpar;](http://www.techmeme.com/250429/p19#a250429p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

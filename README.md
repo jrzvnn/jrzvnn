@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Duolingo CEO Luis von Ahn says the company will &quot;gradually stop using contractors to do work that AI can handle&quot;, as part of a shift to become &quot;AI-first&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250428/p31#a250428p31)
+ - [Plans for iPhone 17 anti-reflective &amp; scratch proof display scrapped](https://appleinsider.com/articles/25/04/28/apple-reportedly-scraps-stronger-anti-reflective-display-planned-for-iphone-17?utm_medium=rss)
  - [Critics fear the Take It Down Act, one of the few online safety laws to pass in years, could be weaponized against content the Trump admin or its allies dislike &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250428/p30#a250428p30)
  - [Take It Down Act heads to Trump’s desk](https://www.theverge.com/news/657632/take-it-down-act-passes-house-deepfakes)
- - [ExpressVPN review: Simple to use VPN, but powerful](https://appleinsider.com/articles/25/04/29/expressvpn-review-simple-to-use-vpn-but-powerful?utm_medium=rss)
- - [Champions League Soccer Semifinal: Livestream Arsenal vs. PSG From Anywhere](https://www.cnet.com/tech/services-and-software/champions-league-soccer-semifinal-livestream-arsenal-vs-psg-from-anywhere/#ftag=CAD590a51e)
- - [The US House passes the Take It Down Act to criminalize posting nonconsensual sexual images of others, including deepfakes, and require platforms to remove them &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/250428/p29#a250428p29)<!-- TECH:END -->
+ - [ExpressVPN review: Simple to use VPN, but powerful](https://appleinsider.com/articles/25/04/29/expressvpn-review-simple-to-use-vpn-but-powerful?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

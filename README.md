@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Skooma Steves super power](http://9gag.com/gag/an7xWvV)
+ - 😝 [Safety always comes first..](http://9gag.com/gag/aLnANYg)
+ - 😝 [Let\u2019s make fun of them while they can\u2019t see a thing..](http://9gag.com/gag/amoxOyV)
+ - 💣 [The mosquitoes death trap](http://9gag.com/gag/adBx4Md)
  - 😝 [Illegal immigrants tried to speedrun the border\u2026 and failed miserably](http://9gag.com/gag/aVvZ8bd)
- - 💣 [Let\u2019s make fun of them while they can\u2019t see a thing..](http://9gag.com/gag/amoxOyV)
- - 😝 [Doing my part](http://9gag.com/gag/aO89NXr)
- - 👉 [The mosquitoes death trap](http://9gag.com/gag/adBx4Md)<!-- MEMES:END -->
+ - 👉 [That depends](http://9gag.com/gag/a9ymBd6)<!-- MEMES:END -->
 
 ---
 

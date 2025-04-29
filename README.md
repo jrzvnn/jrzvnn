@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bluetooth](http://9gag.com/gag/axyO8MD)
- - 😝 [Doing my part](http://9gag.com/gag/aO89NXr)
- - 💣 [Let\u2019s make fun of them while they can\u2019t see a thing..](http://9gag.com/gag/amoxOyV)
- - 😝 [One of those rare real ones](http://9gag.com/gag/ayN1rEW)
- - 👉 [You know the reason...](http://9gag.com/gag/a348DZQ)<!-- MEMES:END -->
+ - 😝 [Decades ahead of rest of the world](http://9gag.com/gag/aKG8y1Q)
+ - 😝 [Healthy](http://9gag.com/gag/aByEzeZ)
+ - 💣 [Yes. That.](http://9gag.com/gag/aQzmK2q)
+ - 😝 [Nailed it!](http://9gag.com/gag/aYQMvqN)
+ - 👉 [CAR](http://9gag.com/gag/a348DW1)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The EPA says it still cares about forever chemicals, but health advocates are wary](https://www.theverge.com/news/658244/forever-chemicals-pfas-drinking-water-standards-epa-trump)
+ - [Meta&#39;s First LlamaCon Shows the Tech Giant&#39;s Still Playing Catch-Up](https://www.cnet.com/tech/services-and-software/metas-first-llamacon-shows-the-tech-giants-still-playing-catch-up/#ftag=CAD590a51e)
  - [OpenAI undoes its glaze-heavy ChatGPT update](https://www.theverge.com/news/658315/openai-chatgpt-gpt-4o-roll-back-glaze-update)
  - [Snap reports Q1 revenue up 14% YoY to $1.36B, vs. $1.35B est., and declines to provide guidance, citing macroeconomic uncertainties; SNAP drops 12%+ after hours &lpar;CNBC&rpar;](http://www.techmeme.com/250429/p32#a250429p32)
- - [SoFi plans to bring back crypto investing in 2025; SoFi chose to drop it in 2023 to get a bank charter, forcing users to Blockchain.com or to liquidate holdings &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/250429/p31#a250429p31)
- - [Snapchat scraps ‘simple’ redesign as it loses users in North America](https://www.theverge.com/news/658306/snapchat-simple-redesign-losing-north-american-users)<!-- TECH:END -->
+ - [SoFi plans to bring back crypto investing in 2025; SoFi chose to drop it in 2023 to get a bank charter, forcing users to Blockchain.com or to liquidate holdings &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/250429/p31#a250429p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Washington state lawmakers pass new taxes amid a record budget deficit, targeting Amazon, Microsoft, and others to raise $9B+; Gov. Bob Ferguson can now sign &lpar;Anna Edgerton/Bloomberg&rpar;](http://www.techmeme.com/250429/p2#a250429p2)
  - [As Measles Cases Surge, Mexico Issues a US Travel Alert](https://www.wired.com/story/as-measles-cases-surge-mexico-issues-a-us-travel-alert/)
  - [New Starlink subscription drops hardware price to $0](https://www.theverge.com/news/657659/new-starlink-subscription-drops-hardware-price-to-0)
  - [Open letter: the EFF and top security experts urge the Trump administration to end its probe of ex-CISA chief Chris Krebs, calling it political and harmful &lpar;Josh Richman/Electronic Frontier ...&rpar;](http://www.techmeme.com/250429/p1#a250429p1)
- - [Save up to $1,000 today only on these 14-inch MacBook Pros](https://appleinsider.com/articles/25/04/29/save-up-to-1000-today-only-on-these-14-inch-macbook-pros?utm_medium=rss)
- - [15% Off Wayfair Promo Code | April 2025 Coupons](https://www.wired.com/story/wayfair-coupon/)<!-- TECH:END -->
+ - [Save up to $1,000 today only on these 14-inch MacBook Pros](https://appleinsider.com/articles/25/04/29/save-up-to-1000-today-only-on-these-14-inch-macbook-pros?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

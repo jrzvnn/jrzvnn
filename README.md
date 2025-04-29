@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tight or not??](http://9gag.com/gag/aoyxDLn)
- - 😝 [Dad Misses His Daughter&#39;s Graduation Day Because Of Power Tripping Cop](http://9gag.com/gag/aoyxd1X)
+ - 😝 [For Scotland](http://9gag.com/gag/aE0WZGK)
+ - 😝 [Gas, Grass or Ass... there is no free ride](http://9gag.com/gag/a87eXR1)
  - 💣 [Body armour company demonstrates their stab proof vest on their CEO](http://9gag.com/gag/aE0WN1O)
- - 😝 [Which movie You Could Watch Over and Over Again Without Getting Bored?, this is mine.](http://9gag.com/gag/a7o9njq)
- - 👉 [Gas, Grass or Ass... there is no free ride](http://9gag.com/gag/a87eXR1)<!-- MEMES:END -->
+ - 😝 [Dad Misses His Daughter&#39;s Graduation Day Because Of Power Tripping Cop](http://9gag.com/gag/aoyxd1X)
+ - 👉 [Which movie You Could Watch Over and Over Again Without Getting Bored?, this is mine.](http://9gag.com/gag/a7o9njq)<!-- MEMES:END -->
 
 ---
 

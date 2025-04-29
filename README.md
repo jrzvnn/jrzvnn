@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bring back old feelings](http://9gag.com/gag/ajPx3e1)
- - 😝 [Wait, what?\u2026](http://9gag.com/gag/awyOPG1)
- - 💣 [That&#39;s not mom](http://9gag.com/gag/a6ZBGz2)
- - 😝 [How can you even have such a low IQ?](http://9gag.com/gag/a1mV8W6)
- - 👉 [Title go here](http://9gag.com/gag/a0enOWZ)<!-- MEMES:END -->
+ - 😝 [My contribution, Wait for it\u2026\u2026](http://9gag.com/gag/azxOvQN)
+ - 😝 [Another classic from the past](http://9gag.com/gag/a1mVwdv)
+ - 💣 [Breaking the Box Office LOL](http://9gag.com/gag/a0enWmn)
+ - 😝 [I was there 3000 years ago](http://9gag.com/gag/aYQMZ8v)
+ - 👉 [The flute makes it perfect](http://9gag.com/gag/aW4oPwn)<!-- MEMES:END -->
 
 ---
 

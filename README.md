@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What type of whistle?](http://9gag.com/gag/aQzmDOW)
- - 😝 [A Movie so bad it drives people who watched it to turn Mad](http://9gag.com/gag/ae9xRPB)
- - 💣 [The difference is 2 days](http://9gag.com/gag/a4PAxMv)
+ - 😝 [Doing my part](http://9gag.com/gag/aO89NXr)
+ - 😝 [The difference is 2 days](http://9gag.com/gag/a4PAxMv)
+ - 💣 [They are cooked](http://9gag.com/gag/a6ZBxQA)
  - 😝 [I bot](http://9gag.com/gag/aYQMnQq)
- - 👉 [Gotta promote the business](http://9gag.com/gag/awyOv3B)<!-- MEMES:END -->
+ - 👉 [Gas, Grass or Ass... there is no free ride](http://9gag.com/gag/a87eXR1)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chipmaking equipment manufacturer ASM says orders in Q1 rose 14% YoY to €834M, vs. €808M est., but notes demand in non-AI-related segments was &quot;sluggish&quot; &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/250429/p29#a250429p29)
  - [PayPal is expanding PayPal Ads to sell programmatic ads on the open web, using shopping data from its services to help advertisers target ads &lpar;Lauren Johnson/Adweek&rpar;](http://www.techmeme.com/250429/p28#a250429p28)
  - [Tesla won’t have to report as many Level 2 crashes after Trump’s rule change](https://www.theverge.com/news/657859/tesla-adas-crash-report-nhtsa-sgo-trump-musk)
  - [Apple’s latest AirPods Pro are down to their best price of the year](https://www.theverge.com/tech/639837/apple-airpods-pro-2-usb-c-wireless-earbuds-deal-sale)
- - [Isuzu starts mass producing its first all-electric pickup truck](https://www.theverge.com/news/658108/isuzu-d-max-ev-mass-production-europe-2025)
- - [OnePlus won’t sell the 13T in the US or Europe](https://www.theverge.com/news/658021/oneplus-13t-13s-europe-us-availability)<!-- TECH:END -->
+ - [Isuzu starts mass producing its first all-electric pickup truck](https://www.theverge.com/news/658108/isuzu-d-max-ev-mass-production-europe-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

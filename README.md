@@ -157,9 +157,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon has no choice but to display tariffs on prices now](https://www.theverge.com/amazon/657959/amazon-has-no-choice-but-to-display-tariffs-on-prices-now)
  - [Amazon denies it had plans to be clear about consumer tariff costs](https://appleinsider.com/articles/25/04/29/amazon-to-display-cost-of-tariffs-on-products-in-hostile-and-political-act?utm_medium=rss)
- - [Touch ID and OBS support now in Parallels Desktop 20.3](https://appleinsider.com/articles/25/04/29/touch-id-and-obs-support-now-in-parallels-desktop-203?utm_medium=rss)
+ - [Amazon has no choice but to display tariffs on prices now](https://www.theverge.com/amazon/657959/amazon-has-no-choice-but-to-display-tariffs-on-prices-now)
+ - [Parallels Desktop 20.3 update adds Touch ID and OBS support](https://appleinsider.com/articles/25/04/29/touch-id-and-obs-support-now-in-parallels-desktop-203?utm_medium=rss)
  - [12 Best Foods for Your Eye Health](https://www.cnet.com/health/personal-care/best-food-for-eye-health/#ftag=CAD590a51e)
  - [Amazon Haul May Show You Tariff Costs, but Main Amazon Storefront Will Not](https://www.cnet.com/tech/services-and-software/amazon-haul-may-show-you-tariff-costs-but-main-amazon-storefront-will-not/#ftag=CAD590a51e)<!-- TECH:END -->
 

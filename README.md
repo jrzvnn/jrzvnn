@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [100.000+ protesters in Ireland against the mass immigration invasion of Ireland](http://9gag.com/gag/amoxpn9)
- - 😝 [Old but gold!](http://9gag.com/gag/aryx900)
- - 💣 [Since old memes are back, I post my old stuff Nr. 6](http://9gag.com/gag/awyOGWx)
- - 😝 [The flute makes it perfect](http://9gag.com/gag/aW4oPwn)
- - 👉 [I was there 3000 years ago](http://9gag.com/gag/aYQMZ8v)<!-- MEMES:END -->
+ - 😝 [Trust me you fu`ked up](http://9gag.com/gag/an7xrZ0)
+ - 😝 [Most people don\u2019t realize how steep a NASCAR track is](http://9gag.com/gag/aD2bQ9x)
+ - 💣 [They are cooked](http://9gag.com/gag/a6ZBxQA)
+ - 😝 [Title go here](http://9gag.com/gag/a0enOWZ)
+ - 👉 [Imagine hitting that and she suddenly makes that face](http://9gag.com/gag/aPAep0q)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EPA says it still cares about forever chemicals, but health advocates are wary](https://www.theverge.com/news/658244/forever-chemicals-pfas-drinking-water-standards-epa-trump)
- - [Meta&#39;s First LlamaCon Shows the Tech Giant&#39;s Still Playing Catch-Up](https://www.cnet.com/tech/services-and-software/metas-first-llamacon-shows-the-tech-giants-still-playing-catch-up/#ftag=CAD590a51e)
- - [OpenAI undoes its glaze-heavy ChatGPT update](https://www.theverge.com/news/658315/openai-chatgpt-gpt-4o-roll-back-glaze-update)
- - [Snap reports Q1 revenue up 14% YoY to $1.36B, vs. $1.35B est., and declines to provide guidance, citing macroeconomic uncertainties; SNAP drops 12%+ after hours &lpar;CNBC&rpar;](http://www.techmeme.com/250429/p32#a250429p32)
- - [SoFi plans to bring back crypto investing in 2025; SoFi chose to drop it in 2023 to get a bank charter, forcing users to Blockchain.com or to liquidate holdings &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/250429/p31#a250429p31)<!-- TECH:END -->
+ - [Supermicro reports preliminary Q3 revenue of $4.5B to $4.6B, vs. $5.5B est., earnings per share of $0.29 to $0.31, vs. $0.54 est.; SMCI drops 16%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250429/p34#a250429p34)
+ - [Apple Watch SE 3 might be available in larger 41mm and 45mm sizes](https://appleinsider.com/articles/25/04/29/apple-watch-se-3-might-be-available-in-larger-41mm-and-45mm-sizes?utm_medium=rss)
+ - [Intel&#39;s next chip node, 14A, is slated for a 2027 release, will feature &quot;Turbo Cells&quot; and allegedly have 15-20% better performance-per-watt over the 18A process &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/250429/p33#a250429p33)
+ - [Netflix is streaming a showcase of Hitchcock’s greatest films this June](https://www.theverge.com/news/658321/netflix-hitchcock-movie-showcase-paris-theater)
+ - [The EPA says it still cares about forever chemicals, but health advocates are wary](https://www.theverge.com/news/658244/forever-chemicals-pfas-drinking-water-standards-epa-trump)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

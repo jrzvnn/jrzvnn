@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The mosquitoes death trap](http://9gag.com/gag/adBx4Md)
  - 😝 [Teach em early, teach em right](http://9gag.com/gag/aGyGNXG)
- - 😝 [What type of whistle?](http://9gag.com/gag/aQzmDOW)
- - 💣 [Which movie You Could Watch Over and Over Again Without Getting Bored?, this is mine.](http://9gag.com/gag/a7o9njq)
+ - 💣 [Oh no!](http://9gag.com/gag/aO89pN3)
  - 😝 [How can you even have such a low IQ?](http://9gag.com/gag/a1mV8W6)
- - 👉 [Illegal immigrants tried to speedrun the border\u2026 and failed miserably](http://9gag.com/gag/aVvZ8bd)<!-- MEMES:END -->
+ - 👉 [Title go here](http://9gag.com/gag/a0enOWZ)<!-- MEMES:END -->
 
 ---
 

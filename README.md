@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Infinite money](http://9gag.com/gag/a1mVODb)
- - 😝 [The difference is 2 days](http://9gag.com/gag/a4PAxMv)
- - 💣 [Teach em early, teach em right](http://9gag.com/gag/aGyGNXG)
- - 😝 [That&#39;s not mom](http://9gag.com/gag/a6ZBGz2)
- - 👉 [Gotta promote the business](http://9gag.com/gag/awyOv3B)<!-- MEMES:END -->
+ - 😝 [Bring back old feelings](http://9gag.com/gag/ajPx3e1)
+ - 😝 [Wait, what?\u2026](http://9gag.com/gag/awyOPG1)
+ - 💣 [That&#39;s not mom](http://9gag.com/gag/a6ZBGz2)
+ - 😝 [How can you even have such a low IQ?](http://9gag.com/gag/a1mV8W6)
+ - 👉 [Title go here](http://9gag.com/gag/a0enOWZ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WhatsApp plans to add cloud-based AI features like message summarization and composition, utilizing a system called Private Processing to maintain data privacy &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/250429/p25#a250429p25)
  - [AirPlay security flaws could help hackers spread malware on your network](https://www.theverge.com/news/657873/apple-airplay-carplay-vulnerabilities-bugs-security-risk)
  - [SK Telecom announces free SIM card replacements to its 25M mobile customers following a recent USIM data breach, but only 6M cards are available through May &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250429/p24#a250429p24)
  - [Meta debuts an API for its Llama AI models, in limited preview with pricing yet to be publicly announced &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250429/p23#a250429p23)
- - [WhatsApp Is Walking a Tightrope Between AI Features and Privacy](https://www.wired.com/story/whatsapp-private-processing-generative-ai-security-risks/)
- - [Livestream of Meta&#39;s LlamaCon 2025 keynote &lpar;Meta Developers on YouTube&rpar;](http://www.techmeme.com/250429/p22#a250429p22)<!-- TECH:END -->
+ - [WhatsApp Is Walking a Tightrope Between AI Features and Privacy](https://www.wired.com/story/whatsapp-private-processing-generative-ai-security-risks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

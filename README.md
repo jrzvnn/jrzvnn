@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What you should know about Apple&#39;s switch from rsync to openrsync](https://appleinsider.com/inside/macos-sequoia/tips/what-you-should-know-about-apples-switch-from-rsync-to-openrsync?utm_medium=rss)
- - [Best Internet Providers in Odessa, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-odessa-tx/#ftag=CAD590a51e)
- - [Apple supplier Pegatron says tariffs will mean third world-style shortages for US](https://appleinsider.com/articles/25/04/29/apple-supplier-pegatron-says-tariffs-will-mean-third-world-style-shortages-for-us?utm_medium=rss)
- - [Millions of Apple Airplay-Enabled Devices Can Be Hacked via Wi-Fi](https://www.wired.com/story/airborne-airplay-flaws/)
- - [Asus Vivobook Pro 15 Review: For Creators and Gamers](https://www.wired.com/review/asus-vivobook-pro-15-2025/)<!-- TECH:END -->
+ - [White House Press Secretary Karoline Leavitt says Amazon reportedly adding tariff pricing to each product on its site &quot;is a hostile and political act by Amazon&quot; &lpar;Brendan Pedersen/@brendanpedersen&rpar;](http://www.techmeme.com/250429/p11#a250429p11)
+ - [Bird Buddy’s new nature camera attracts and records more than just birds](https://www.theverge.com/news/657183/bird-buddy-petal-nature-camera-wonder-blocks-insects-plants-pollinators)
+ - [Whatever happened to the Kids Online Safety Act?](https://www.theverge.com/politics/657358/kids-online-safety-100-days-trump-administration)
+ - [Better than Apple AirTag: the best Find My trackers](https://appleinsider.com/articles/25/04/29/better-than-apple-airtag-the-best-find-my-trackers?utm_medium=rss)
+ - [What you should know about Apple&#39;s switch from rsync to openrsync](https://appleinsider.com/inside/macos-sequoia/tips/what-you-should-know-about-apples-switch-from-rsync-to-openrsync?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

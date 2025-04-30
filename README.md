@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [eBay reports Q1 revenue up 1% YoY to $2.59B vs. $2.55B est., forecasts Q2 revenue above est.; CFO Steve Priest to step down in May, with Peggy Alford succeeding &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/250430/p52#a250430p52)
- - [Mark Zuckerberg says Threads has 350M MAUs, having added 30M in Q1 2025, compared to 20M in Q4 2024 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250430/p51#a250430p51)
- - [Galaxy Digital plans to list on the Nasdaq Global Select Market on May 16; it will still have shares listed on the Toronto Stock Exchange for some time &lpar;Liz Napolitano/Decrypt&rpar;](http://www.techmeme.com/250430/p50#a250430p50)
- - [Sketchy rumors hint at an iPhone desktop mode](https://www.theverge.com/news/659175/iphone-desktop-mode-sketchy-rumors)
- - [Amazon says it will spend $4B+ to expand its US rural delivery network by the end of 2026, growing the network to 200+ delivery stations and creating 100K jobs &lpar;Sriparna Roy/Reuters&rpar;](http://www.techmeme.com/250430/p49#a250430p49)<!-- TECH:END -->
+ - [Mark Zuckerberg is planning a premium tier and ads for Meta&amp;#8217;s AI app](https://www.theverge.com/news/659242/mark-zuckerberg-is-planning-a-premium-tier-and-ads-for-metas-ai-app)
+ - [WiZ’s new TV light sync box undercuts Philips Hue’s pricing by half](https://www.theverge.com/news/659188/wiz-hdmi-sync-box-announced-price-specs-launch-date)
+ - [Petition calls for Apple to resume updates for discontinued AirPort routers](https://appleinsider.com/articles/25/04/30/petition-calls-for-apple-to-resume-updates-for-discontinued-airport-routers?utm_medium=rss)
+ - [RFK Jr.&#39;s HHS Orders Lab Studying Deadly Infectious Diseases to Stop Research](https://www.wired.com/story/hhs-niaid-irf-ebola-disease-research-stop/)
+ - [eBay reports Q1 revenue up 1% YoY to $2.59B vs. $2.55B est., forecasts Q2 revenue above est.; CFO Steve Priest to step down in May, with Peggy Alford succeeding &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/250430/p52#a250430p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

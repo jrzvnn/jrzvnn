@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Body armour company demonstrates their stab proof vest on their CEO](http://9gag.com/gag/aE0WN1O)
- - 😝 [When even CGI bugs need a take two](http://9gag.com/gag/apRxzyb)
- - 💣 [Wish I knew](http://9gag.com/gag/aD2bNGZ)
+ - 😝 [Bad Luck Ron](http://9gag.com/gag/azxODmx)
  - 😝 [Pro tip: Set down your weapon](http://9gag.com/gag/aYQMvwq)
- - 👉 [Check Please](http://9gag.com/gag/ayN1ZRV)<!-- MEMES:END -->
+ - 💣 [No, but no](http://9gag.com/gag/aD2bN9w)
+ - 😝 [When 98 minutes feels like a masterpiece](http://9gag.com/gag/aD2bre9)
+ - 👉 [Bluetooth](http://9gag.com/gag/axyO8MD)<!-- MEMES:END -->
 
 ---
 

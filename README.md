@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Marc Andreessen says VC may be one of the last fields safe from AI after it replaces most workers, as it requires &quot;intangible&quot; skills like psychological insight &lpar;Lucas Ropek/Gizmodo&rpar;](http://www.techmeme.com/250430/p47#a250430p47)
- - [Nuvo, a B2B startup that scales trade partnerships by streamlining credit approvals and more, raised a $34M Series A from Sequoia Capital and Spark Capital &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250430/p46#a250430p46)
- - [Robinhood reports Q1 revenue up 50% YoY to $927M, vs. $920.1M est., crypto transaction revenue up 100% to $252M, increases share buyback authorization by $500M &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/250430/p45#a250430p45)
- - [Apple sends warnings about mercenary spyware attacks on iOS](https://appleinsider.com/articles/25/04/30/apple-sends-warnings-about-mercenary-spyware-attacks-on-ios?utm_medium=rss)
- - [The BBC deepfaked Agatha Christie to teach a writing course](https://www.theverge.com/news/659150/bbc-agatha-christie-ai-maestro-classes)<!-- TECH:END -->
+ - [Galaxy Digital plans to list on the Nasdaq Global Select Market on May 16; it will still have shares listed on the Toronto Stock Exchange for some time &lpar;Liz Napolitano/Decrypt&rpar;](http://www.techmeme.com/250430/p50#a250430p50)
+ - [Sketchy rumors hint at an iPhone desktop mode](https://www.theverge.com/news/659175/iphone-desktop-mode-sketchy-rumors)
+ - [Amazon says it will spend $4B+ to expand its US rural delivery network by the end of 2026, growing the network to 200+ delivery stations and creating 100K jobs &lpar;Sriparna Roy/Reuters&rpar;](http://www.techmeme.com/250430/p49#a250430p49)
+ - [Dating Apps Are Using Roleplaying Games to Fix Your Rizz](https://www.wired.com/story/dating-apps-are-using-roleplaying-games-to-fix-your-rizz/)
+ - [Microsoft&#39;s Q3 capex rose 52.9% YoY to $21.4B, vs. $22.4B est.; Microsoft reiterated this month that it would spend $80B on its data center build-out this year &lpar;Reuters&rpar;](http://www.techmeme.com/250430/p48#a250430p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

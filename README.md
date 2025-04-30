@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I loved him! I understood him! I was him!](http://9gag.com/gag/a348rYv)
- - 😝 [Pro tip: Set down your weapon](http://9gag.com/gag/aYQMvwq)
- - 💣 [Bluetooth](http://9gag.com/gag/axyO8MD)
- - 😝 [Star Wars: Revenge of the Sith got re-released to theaters after 20 years and made 25mil dollars](http://9gag.com/gag/aRBv9gA)
- - 👉 [True love](http://9gag.com/gag/azxODBm)<!-- MEMES:END -->
+ - 😝 [Teach em early, teach em right](http://9gag.com/gag/aGyGNXG)
+ - 😝 [Gas, Grass or Ass... there is no free ride](http://9gag.com/gag/a87eXR1)
+ - 💣 [A toilet designed for proper pooping posture](http://9gag.com/gag/agmxp2v)
+ - 😝 [You know the reason...](http://9gag.com/gag/a348DZQ)
+ - 👉 [One of those rare real ones](http://9gag.com/gag/ayN1rEW)<!-- MEMES:END -->
 
 ---
 

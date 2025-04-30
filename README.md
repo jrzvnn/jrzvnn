@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta, Spotify lobby to pass the buck on age verification to Apple and Google](https://appleinsider.com/articles/25/04/30/meta-spotify-lobby-to-pass-the-buck-on-age-verification-to-apple-and-google?utm_medium=rss)
+ - [These Startups Are Building Advanced AI Models Without Data Centers](https://www.wired.com/story/these-startups-are-building-advanced-ai-models-over-the-internet-with-untapped-data/)
  - [Google confirms it’s close to getting Gemini support on iPhones](https://www.theverge.com/news/658770/google-gemini-apple-iphone-deal-ai)
  - [Hands on with all four iPhone 17 dummy models](https://appleinsider.com/articles/25/04/30/hands-on-with-all-four-iphone-17-dummy-models?utm_medium=rss)
- - [Today only: Get an 8TB 16-inch MacBook Pro for $1,899](https://appleinsider.com/articles/25/04/30/today-only-get-an-8tb-16-inch-macbook-pro-for-1899?utm_medium=rss)
- - [Duolingo launches 148 new language courses developed with generative AI, doubling its offerings for non-English speakers within a year, as it aims for 1B+ users &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250430/p31#a250430p31)
- - [WhatsApp is working on private AI chats in the cloud](https://www.theverge.com/news/658646/whatsapp-is-working-on-private-ai-chats-in-the-cloud)<!-- TECH:END -->
+ - [Today only: Get an 8TB 16-inch MacBook Pro for $1,899](https://appleinsider.com/articles/25/04/30/today-only-get-an-8tb-16-inch-macbook-pro-for-1899?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

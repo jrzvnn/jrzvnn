@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pro tip: Set down your weapon](http://9gag.com/gag/aYQMvwq)
- - 😝 [Bring back old feelings](http://9gag.com/gag/ajPx3e1)
- - 💣 [A toilet designed for proper pooping posture](http://9gag.com/gag/agmxp2v)
- - 😝 [One of those rare real ones](http://9gag.com/gag/ayN1rEW)
- - 👉 [It was at this moment](http://9gag.com/gag/a0en3gZ)<!-- MEMES:END -->
+ - 😝 [A toilet designed for proper pooping posture](http://9gag.com/gag/agmxp2v)
+ - 😝 [From my archives #3](http://9gag.com/gag/azxOv1b)
+ - 💣 [You know the reason...](http://9gag.com/gag/a348DZQ)
+ - 😝 [DAM SON](http://9gag.com/gag/aYQM5dV)
+ - 👉 [Bring back old feelings](http://9gag.com/gag/ajPx3e1)<!-- MEMES:END -->
 
 ---
 

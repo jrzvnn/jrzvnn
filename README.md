@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Duolingo launches 148 new language courses developed with generative AI, doubling its offerings for non-English speakers within a year, as it aims for 1B+ users &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250430/p31#a250430p31)
+ - [WhatsApp is working on private AI chats in the cloud](https://www.theverge.com/news/658646/whatsapp-is-working-on-private-ai-chats-in-the-cloud)
  - [US v. Google: Sundar Pichai says he had at least a &quot;couple&quot; of calls with Tim Cook in 2024 about a Gemini deal; Cook said Apple plans to add more AI chatbots &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/250430/p30#a250430p30)
  - [SEC filing: Intel EVP and Chief Commercial Officer Christoph Schell is resigning &quot;in order to pursue another career opportunity&quot; after joining in February 2022 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250430/p29#a250430p29)
- - [Warning systems for floods, hurricanes, and famine are suffering from Donald Trump’s data purge](https://www.theverge.com/tech/656714/trump-disaster-hurricane-flood-famine-data-purge-usaid)
- - [US v. Google: Sundar Pichai says the DOJ&#39;s proposal to share Google search data with rivals amounts to a &quot;de facto&quot; spinoff of Google&#39;s search engine and its IP &lpar;Bloomberg&rpar;](http://www.techmeme.com/250430/p28#a250430p28)
- - [Donald Trump might actually believe these Calibri labels are real MS-13 tattoos](https://www.theverge.com/politics/658612/donald-trump-kilmar-abrego-garcia-tattoos-photoshop)<!-- TECH:END -->
+ - [Warning systems for floods, hurricanes, and famine are suffering from Donald Trump’s data purge](https://www.theverge.com/tech/656714/trump-disaster-hurricane-flood-famine-data-purge-usaid)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

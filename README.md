@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to solve the age old problem of getting splashed with oil when cooking](http://9gag.com/gag/ayN1K0q)
- - 😝 [Pro tip: Set down your weapon](http://9gag.com/gag/aYQMvwq)
- - 💣 [You know the reason...](http://9gag.com/gag/a348DZQ)
+ - 😝 [Let\u2019s make fun of them while they can\u2019t see a thing..](http://9gag.com/gag/amoxOyV)
+ - 😝 [One of those rare real ones](http://9gag.com/gag/ayN1rEW)
+ - 💣 [When I grow up I will be a pirate](http://9gag.com/gag/aD2bvGG)
  - 😝 [You&#39;ll do anything for $120?](http://9gag.com/gag/apRxneE)
- - 👉 [From my archives #3](http://9gag.com/gag/azxOv1b)<!-- MEMES:END -->
+ - 👉 [How to solve the age old problem of getting splashed with oil when cooking](http://9gag.com/gag/ayN1K0q)<!-- MEMES:END -->
 
 ---
 

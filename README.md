@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Finland passes legislation, which goes into effect August 1, to restrict the use of mobile phones during the school day, following Denmark, France, and Norway &lpar;Miranda Bryant/The Guardian&rpar;](http://www.techmeme.com/250430/p32#a250430p32)
+ - [Google wants Gemini AI deal with Apple by mid-2025](https://appleinsider.com/articles/25/04/30/google-wants-gemini-ai-deal-with-apple-by-mid-2025?utm_medium=rss)
+ - [A Tariff Standoff With China, Power Outages, and the End of Christmas](https://www.wired.com/story/uncanny-valley-podcast-trump-tariffs-end-of-christmas/)
  - [Meta, Spotify lobby to pass the buck on age verification to Apple and Google](https://appleinsider.com/articles/25/04/30/meta-spotify-lobby-to-pass-the-buck-on-age-verification-to-apple-and-google?utm_medium=rss)
- - [These Startups Are Building Advanced AI Models Without Data Centers](https://www.wired.com/story/these-startups-are-building-advanced-ai-models-over-the-internet-with-untapped-data/)
- - [Google confirms it’s close to getting Gemini support on iPhones](https://www.theverge.com/news/658770/google-gemini-apple-iphone-deal-ai)
- - [Hands on with all four iPhone 17 dummy models](https://appleinsider.com/articles/25/04/30/hands-on-with-all-four-iphone-17-dummy-models?utm_medium=rss)
- - [Today only: Get an 8TB 16-inch MacBook Pro for $1,899](https://appleinsider.com/articles/25/04/30/today-only-get-an-8tb-16-inch-macbook-pro-for-1899?utm_medium=rss)<!-- TECH:END -->
+ - [These Startups Are Building Advanced AI Models Without Data Centers](https://www.wired.com/story/these-startups-are-building-advanced-ai-models-over-the-internet-with-untapped-data/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

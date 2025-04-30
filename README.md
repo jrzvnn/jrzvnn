@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [An Indian court directs the government to block Proton Mail after a local firm alleged its staff received emails containing obscene content sent via the service &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250429/p42#a250429p42)
+ - [Virtual Game Cards Are Nintendo&#39;s New Way to Share Switch Games Digitally](https://www.cnet.com/tech/gaming/virtual-game-cards-are-nintendos-new-way-to-share-switch-games-digitally/#ftag=CAD590a51e)
  - [Nintendo’s new Switch 1 update is getting things ready for Switch 2](https://www.theverge.com/news/658511/nintendo-switch-20-0-0-update-virtual-game-card-gameshare-switch-2)
  - [Grab reports Q1 revenue up 18% YoY to $773M, vs. $762.6M est., deliveries revenue up 18% YoY to $415M, and mobility revenue of $282M, as spending remains strong &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250429/p41#a250429p41)
- - [Sources: Apple shuffles its global affairs division, including management of teams for Europe, India, and China, and changes Apple Music&#39;s leadership structure &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250429/p40#a250429p40)
- - [Icemag 2 Power Bank review: Flashy, fun, functional](https://appleinsider.com/articles/25/04/30/icemag-2-power-bank-review-flashy-fun-functional?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Apple shuffles its global affairs division, including management of teams for Europe, India, and China, and changes Apple Music&#39;s leadership structure &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250429/p40#a250429p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

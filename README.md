@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mark Zuckerberg says Threads has 350M MAUs, having added 30M in Q1 2025, vs. 20M in Q4 2024 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250430/p51#a250430p51)
  - [Galaxy Digital plans to list on the Nasdaq Global Select Market on May 16; it will still have shares listed on the Toronto Stock Exchange for some time &lpar;Liz Napolitano/Decrypt&rpar;](http://www.techmeme.com/250430/p50#a250430p50)
  - [Sketchy rumors hint at an iPhone desktop mode](https://www.theverge.com/news/659175/iphone-desktop-mode-sketchy-rumors)
  - [Amazon says it will spend $4B+ to expand its US rural delivery network by the end of 2026, growing the network to 200+ delivery stations and creating 100K jobs &lpar;Sriparna Roy/Reuters&rpar;](http://www.techmeme.com/250430/p49#a250430p49)
- - [Dating Apps Are Using Roleplaying Games to Fix Your Rizz](https://www.wired.com/story/dating-apps-are-using-roleplaying-games-to-fix-your-rizz/)
- - [Microsoft&#39;s Q3 capex rose 52.9% YoY to $21.4B, vs. $22.4B est.; Microsoft reiterated this month that it would spend $80B on its data center build-out this year &lpar;Reuters&rpar;](http://www.techmeme.com/250430/p48#a250430p48)<!-- TECH:END -->
+ - [Dating Apps Are Using Roleplaying Games to Fix Your Rizz](https://www.wired.com/story/dating-apps-are-using-roleplaying-games-to-fix-your-rizz/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

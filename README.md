@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You know the reason...](http://9gag.com/gag/a348DZQ)
- - 😝 [Doing my part](http://9gag.com/gag/aO89NXr)
- - 💣 [So close](http://9gag.com/gag/aD2bqAd)
+ - 😝 [Go, Piper](http://9gag.com/gag/aYQMBO2)
  - 😝 [When 98 minutes feels like a masterpiece](http://9gag.com/gag/aD2bre9)
- - 👉 [Pro tip: Set down your weapon](http://9gag.com/gag/aYQMvwq)<!-- MEMES:END -->
+ - 💣 [So close](http://9gag.com/gag/aD2bqAd)
+ - 😝 [You know the reason...](http://9gag.com/gag/a348DZQ)
+ - 👉 [One of those rare real ones](http://9gag.com/gag/ayN1rEW)<!-- MEMES:END -->
 
 ---
 

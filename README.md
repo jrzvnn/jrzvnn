@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says its GPT-4o update could be &amp;#8216;uncomfortable, unsettling, and cause distress&amp;#8217;](https://www.theverge.com/news/658850/openai-chatgpt-gpt-4o-update-sycophantic)
- - [Sundar Pichai says the DOJ’s antitrust plan could kill Google Search](https://www.theverge.com/policy/658738/google-ceo-sundar-pichai-testifies-doj-search-antitrust-trial)
- - [Finland passes legislation, which goes into effect August 1, to restrict the use of mobile phones during the school day, following Denmark, France, and Norway &lpar;Miranda Bryant/The Guardian&rpar;](http://www.techmeme.com/250430/p32#a250430p32)
- - [Google wants Gemini AI deal with Apple by mid-2025](https://appleinsider.com/articles/25/04/30/google-wants-gemini-ai-deal-with-apple-by-mid-2025?utm_medium=rss)
- - [A Tariff Standoff With China, Power Outages, and the End of Christmas](https://www.wired.com/story/uncanny-valley-podcast-trump-tariffs-end-of-christmas/)<!-- TECH:END -->
+ - [Automakers can’t figure out what the hell is going on with Trump’s tariffs](https://www.theverge.com/news/658607/auto-tariff-trump-relief-uncertainty-guidance-paralyze)
+ - [Staples Dexley Ergonomic Mesh Chair Review: Best Budget Chair](https://www.wired.com/review/staples-dexley-ergonomic-mesh-chair/)
+ - [Elizabeth Warren asks Jeff Bezos if he got any favors for his ‘subservience’ to Trump](https://www.theverge.com/news/658829/elizabeth-warren-jeff-bezos-amazon-trump-tariffs)
+ - [Razer PC Remote Play vs Steam Link: PC game streaming to iOS has never been easier](https://appleinsider.com/articles/25/04/30/razer-pc-remote-play-vs-steam-link-pc-game-streaming-to-ios-has-never-been-easier?utm_medium=rss)
+ - [OpenAI says its GPT-4o update could be &amp;#8216;uncomfortable, unsettling, and cause distress&amp;#8217;](https://www.theverge.com/news/658850/openai-chatgpt-gpt-4o-update-sycophantic)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

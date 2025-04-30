@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Raycast brings its super-powerful Mac launcher to iOS, sort of](https://www.theverge.com/apple-ios/658265/raycast-ios-launcher)
+ - [Two new iPhone factories years in the making open in India](https://appleinsider.com/articles/25/04/30/two-new-iphone-factories-years-in-the-making-open-in-india?utm_medium=rss)
  - [Sources: Shein is exploring ways to restructure its US business if Trump sticks with punitive tariffs on Chinese imports; the de minimis exemption closes May 2 &lpar;Financial Times&rpar;](http://www.techmeme.com/250430/p17#a250430p17)
  - [GameSir X5 Lite review: good iPhone controller, unbeatable price](https://appleinsider.com/articles/25/04/30/gamesir-x5-lite-review-good-iphone-controller-unbeatable-price?utm_medium=rss)
- - [What Are the Best Coffee Beans for Cold Brew?](https://www.wired.com/story/best-coffee-beans-for-cold-brew/)
- - [Two new iPhone factories years in the making open in India](https://appleinsider.com/articles/25/04/30/two-new-iphone-factories-years-in-the-making-open-in-india?utm_medium=rss)
- - [GPD Win Max 2 review: a surprisingly competent tiny laptop that doubles as a gaming handheld](https://www.theverge.com/laptop-review/657618/gpd-win-max-2-review-2024-2025-tiny-laptop-handheld-gaming)<!-- TECH:END -->
+ - [What Are the Best Coffee Beans for Cold Brew?](https://www.wired.com/story/best-coffee-beans-for-cold-brew/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

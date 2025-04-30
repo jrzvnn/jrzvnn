@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Q3: Windows OEM and Devices revenue up 3% YoY, gaming revenue up 5%, Xbox hardware revenue down 6%, and Xbox content and services revenue up 8% &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250430/p41#a250430p41)
- - [Here are our favorite deals from Amazon’s annual gaming sale](https://www.theverge.com/tech/657379/amazon-gaming-week-best-deals-headsets-tvs-games-2025)
- - [Meta&#39;s Reality Labs posts Q1 revenue down 6% YoY to $412M, vs. $492.7M est., and a $4.2B operating loss, vs. $4.6B est.; Reality Labs has lost $60B+ since 2020 &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250430/p40#a250430p40)
- - [Microsoft reports strong cloud growth in Q3 earnings](https://www.theverge.com/news/658793/microsoft-q3-2025-earnings-revenue-profits-windows-xbox-gaming-surface)
- - [Microsoft Q3: Intelligent Cloud revenue up 21% YoY to $26.75B, vs. $26.16B est., Azure and other cloud services up 33%, above est.; MSFT jumps 5%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250430/p39#a250430p39)<!-- TECH:END -->
+ - [Apple sends warnings about mercenary spyware attacks on iOS](https://appleinsider.com/articles/25/04/30/apple-sends-warnings-about-mercenary-spyware-attacks-on-ios?utm_medium=rss)
+ - [The BBC deepfaked Agatha Christie to teach a writing course](https://www.theverge.com/news/659150/bbc-agatha-christie-ai-maestro-classes)
+ - [Qualcomm reports Q2 revenue up 17% YoY to $11B, vs. $10.6B est., handsets revenue up 12%, forecasts Q3 revenue slightly below est.; QCOM drops 5%+ after hours &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250430/p44#a250430p44)
+ - [Meta says it expects its capex for FY2025 to be $64B to $72B, an increase from its prior expectation of $60B to $65B &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250430/p42#a250430p42)
+ - [Meta&#39;s Reality Labs posts Q1 revenue down 6% YoY to $412M, vs. $492.7M est., and a $4.2B operating loss, vs. $4.6B est.; Reality Labs has lost $60B+ since 2020 &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250430/p43#a250430p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

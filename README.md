@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Duolingo said it just doubled its language courses thanks to AI](https://www.theverge.com/news/658968/duolingo-language-courses-ai)
+ - [Kia reveals pricing for its first electric PV5 van with UK preorders](https://www.theverge.com/news/658931/kia-pv5-uk-price-preorder-essential-plus-ev-van)
+ - [Google’s Play Store lost nearly half its apps](https://www.theverge.com/news/658932/google-play-store-lost-half-apps)
  - [Q&amp;A with Mark Zuckerberg on Llama 4, benchmarks, AI friends, DeepSeek, China, export controls, open source, monetizing AGI, aligning with Trump, and more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](http://www.techmeme.com/250430/p33#a250430p33)
- - [Bluetti&#39;s covering the cost for your green transition -- plus an all-new solar generator](https://appleinsider.com/articles/25/04/30/bluettis-covering-the-cost-for-your-green-transition----plus-an-all-new-solar-generator?utm_medium=rss)
- - [Automakers can’t figure out what the hell is going on with Trump’s tariffs](https://www.theverge.com/news/658607/auto-tariff-trump-relief-uncertainty-guidance-paralyze)
- - [Staples Dexley Ergonomic Mesh Chair Review: Best Budget Chair](https://www.wired.com/review/staples-dexley-ergonomic-mesh-chair/)
- - [Elizabeth Warren asks Jeff Bezos if he got any favors for his ‘subservience’ to Trump](https://www.theverge.com/news/658829/elizabeth-warren-jeff-bezos-amazon-trump-tariffs)<!-- TECH:END -->
+ - [Bluetti&#39;s covering the cost for your green transition -- plus an all-new solar generator](https://appleinsider.com/articles/25/04/30/bluettis-covering-the-cost-for-your-green-transition----plus-an-all-new-solar-generator?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

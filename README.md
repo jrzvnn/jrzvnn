@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I look bad bro](http://9gag.com/gag/a87evRd)
- - 😝 [Let\u2019s make fun of them while they can\u2019t see a thing..](http://9gag.com/gag/amoxOyV)
- - 💣 [Teach em early, teach em right](http://9gag.com/gag/aGyGNXG)
- - 😝 [Doing my part](http://9gag.com/gag/aO89NXr)
- - 👉 [Pro tip: Set down your weapon](http://9gag.com/gag/aYQMvwq)<!-- MEMES:END -->
+ - 😝 [Terror atack in this barbershop in sweden . 5 dead. Guess the story .](http://9gag.com/gag/a2vDpmp)
+ - 😝 [IQ left the chat](http://9gag.com/gag/a9ymeRK)
+ - 💣 [A toilet designed for proper pooping posture](http://9gag.com/gag/agmxp2v)
+ - 😝 [Pro tip: Set down your weapon](http://9gag.com/gag/aYQMvwq)
+ - 👉 [You know the reason...](http://9gag.com/gag/a348DZQ)<!-- MEMES:END -->
 
 ---
 

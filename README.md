@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Terror atack in this barbershop in sweden . 5 dead. Guess the story .](http://9gag.com/gag/a2vDpmp)
- - 😝 [I look bad bro](http://9gag.com/gag/a87evRd)
- - 💣 [From my archives #3](http://9gag.com/gag/azxOv1b)
+ - 😝 [How to solve the age old problem of getting splashed with oil when cooking](http://9gag.com/gag/ayN1K0q)
+ - 😝 [Pro tip: Set down your weapon](http://9gag.com/gag/aYQMvwq)
+ - 💣 [You know the reason...](http://9gag.com/gag/a348DZQ)
  - 😝 [You&#39;ll do anything for $120?](http://9gag.com/gag/apRxneE)
- - 👉 [Not mine tho](http://9gag.com/gag/aW4oAvK)<!-- MEMES:END -->
+ - 👉 [From my archives #3](http://9gag.com/gag/azxOv1b)<!-- MEMES:END -->
 
 ---
 

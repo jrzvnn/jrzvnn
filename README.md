@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Donald Trump might actually believe these Calibri labels are real MS-13 tattoos](https://www.theverge.com/politics/658612/donald-trump-kilmar-abrego-garcia-tattoos-photoshop)
- - [iPhone average selling price rises despite shift away from Pro models](https://appleinsider.com/articles/25/04/30/iphone-average-selling-price-rises-despite-shift-away-from-pro-models?utm_medium=rss)
- - [Boox launches its first color E Ink monitor](https://www.theverge.com/news/658705/boox-mira-pro-color-e-ink-desktop-monitor)
- - [Wikipedia says it will use AI to build new features that &quot;remove technical barriers&quot; for editors, moderators, and patrollers, automate tedious tasks, and more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250430/p27#a250430p27)
- - [Meta, Spotify, and Match launch the Coalition for a Competitive Mobile Experience, a lobbying coalition to take on Apple and Google over user age verification &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/250430/p26#a250430p26)<!-- TECH:END -->
+ - [US v. Google: Sundar Pichai says he had at least a &quot;couple&quot; of calls with Tim Cook in 2024 about a Gemini deal; Cook said Apple plans to add more AI chatbots &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/250430/p30#a250430p30)
+ - [SEC filing: Intel EVP and Chief Commercial Officer Christoph Schell is resigning &quot;in order to pursue another career opportunity&quot; after joining in February 2022 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250430/p29#a250430p29)
+ - [Warning systems for floods, hurricanes, and famine are suffering from Donald Trump’s data purge](https://www.theverge.com/tech/656714/trump-disaster-hurricane-flood-famine-data-purge-usaid)
+ - [US v. Google: Sundar Pichai says the DOJ&#39;s proposal to share Google search data with rivals amounts to a &quot;de facto&quot; spinoff of Google&#39;s search engine and its IP &lpar;Bloomberg&rpar;](http://www.techmeme.com/250430/p28#a250430p28)
+ - [Donald Trump might actually believe these Calibri labels are real MS-13 tattoos](https://www.theverge.com/politics/658612/donald-trump-kilmar-abrego-garcia-tattoos-photoshop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

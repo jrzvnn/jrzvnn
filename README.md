@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [At LlamaCon, Satya Nadella said 20%-30% of code in Microsoft&#39;s repositories was written by AI and the company was seeing more progress in Python and less in C++ &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250430/p2#a250430p2)
  - [In Q1 2025, Cloudflare blocked 20.5M DDoS attacks, a 358% YoY increase, and in Q2 it blocked an attack with, by far, the most intense packet rate on record &lpar;The Cloudflare Blog&rpar;](http://www.techmeme.com/250430/p1#a250430p1)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, April 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-april-30/#ftag=CAD590a51e)
  - [An Indian court directs the government to block Proton Mail after a local firm alleged its staff received emails containing obscene content sent via the service &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250429/p42#a250429p42)
- - [Virtual Game Cards Are Nintendo&#39;s New Way to Share Switch Games Digitally](https://www.cnet.com/tech/gaming/virtual-game-cards-are-nintendos-new-way-to-share-switch-games-digitally/#ftag=CAD590a51e)
- - [Nintendo’s new Switch 1 update is getting things ready for Switch 2](https://www.theverge.com/news/658511/nintendo-switch-20-0-0-update-virtual-game-card-gameshare-switch-2)
- - [Grab reports Q1 revenue up 18% YoY to $773M, vs. $762.6M est., deliveries revenue up 18% YoY to $415M, and mobility revenue of $282M, as spending remains strong &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250429/p41#a250429p41)<!-- TECH:END -->
+ - [Virtual Game Cards Are Nintendo&#39;s New Way to Share Switch Games Digitally](https://www.cnet.com/tech/gaming/virtual-game-cards-are-nintendos-new-way-to-share-switch-games-digitally/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

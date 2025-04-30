@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who takes whom?](http://9gag.com/gag/azxOy3x)
- - 😝 [Something special for guests](http://9gag.com/gag/a87eNEZ)
- - 💣 [Let\u2019s make fun of them while they can\u2019t see a thing..](http://9gag.com/gag/amoxOyV)
  - 😝 [When you do a really good job](http://9gag.com/gag/a348r61)
+ - 😝 [Let\u2019s make fun of them while they can\u2019t see a thing..](http://9gag.com/gag/amoxOyV)
+ - 💣 [You&#39;ll do anything for $120?](http://9gag.com/gag/apRxneE)
+ - 😝 [Who takes whom?](http://9gag.com/gag/azxOy3x)
  - 👉 [Frank Castle, ladies and gents](http://9gag.com/gag/a1mVjX6)<!-- MEMES:END -->
 
 ---

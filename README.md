@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Teach em early, teach em right](http://9gag.com/gag/aGyGNXG)
- - 😝 [Gas, Grass or Ass... there is no free ride](http://9gag.com/gag/a87eXR1)
- - 💣 [A toilet designed for proper pooping posture](http://9gag.com/gag/agmxp2v)
- - 😝 [You know the reason...](http://9gag.com/gag/a348DZQ)
- - 👉 [One of those rare real ones](http://9gag.com/gag/ayN1rEW)<!-- MEMES:END -->
+ - 😝 [Yes. That.](http://9gag.com/gag/aQzmK2q)
+ - 😝 [That&#39;s pretty cool](http://9gag.com/gag/a348rDr)
+ - 💣 [Nailed it!](http://9gag.com/gag/aYQMvqN)
+ - 😝 [Illegal immigrants tried to speedrun the border\u2026 and failed miserably](http://9gag.com/gag/aVvZ8bd)
+ - 👉 [CAR](http://9gag.com/gag/a348DW1)<!-- MEMES:END -->
 
 ---
 

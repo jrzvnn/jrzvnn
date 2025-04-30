@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I look bad bro](http://9gag.com/gag/a87evRd)
  - 😝 [A toilet designed for proper pooping posture](http://9gag.com/gag/agmxp2v)
+ - 😝 [Pro tip: Set down your weapon](http://9gag.com/gag/aYQMvwq)
  - 💣 [Something special for guests](http://9gag.com/gag/a87eNEZ)
- - 😝 [Doctor or Engineer?](http://9gag.com/gag/aMVz5EW)
- - 👉 [You know the reason...](http://9gag.com/gag/a348DZQ)<!-- MEMES:END -->
+ - 😝 [I look bad bro](http://9gag.com/gag/a87evRd)
+ - 👉 [Most likely the next GOTY, and it would be deserved. A game made with passion, without forced agenda, careless investors, and corporate bullshit](http://9gag.com/gag/aXP7QNv)<!-- MEMES:END -->
 
 ---
 

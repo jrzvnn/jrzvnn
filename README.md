@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [From my archives #3](http://9gag.com/gag/azxOv1b)
- - 😝 [Doing my part](http://9gag.com/gag/aO89NXr)
+ - 😝 [Pro tip: Set down your weapon](http://9gag.com/gag/aYQMvwq)
+ - 😝 [Teach em early, teach em right](http://9gag.com/gag/aGyGNXG)
  - 💣 [You know the reason...](http://9gag.com/gag/a348DZQ)
- - 😝 [From the archive](http://9gag.com/gag/avyx42Z)
- - 👉 [Pro tip: Set down your weapon](http://9gag.com/gag/aYQMvwq)<!-- MEMES:END -->
+ - 😝 [Doing my part](http://9gag.com/gag/aO89NXr)
+ - 👉 [Illegal immigrants tried to speedrun the border\u2026 and failed miserably](http://9gag.com/gag/aVvZ8bd)<!-- MEMES:END -->
 
 ---
 

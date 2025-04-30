@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kintsugi, which uses AI to help companies automate their sales tax compliance, raised $18M at a $150M post-money valuation, up from $80M in November 2024 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250430/p25#a250430p25)
+ - [TSMC breaks ground on third plant in Arizona](https://appleinsider.com/articles/25/04/30/tsmc-breaks-ground-on-third-plant-in-arizona?utm_medium=rss)
  - [Yale&amp;#8217;s new smart lock can disarm your ADT security system with your fingerprint](https://www.theverge.com/news/658636/yale-zwave-smart-lock-disarms-adt-system-fingerprint-reader)
  - [Grindr rolls out A-List, powered by Claude Sonnet 3.7 and AWS&#39; Bedrock, to curate &quot;meaningful past connections, high-potential matches&quot; and chat summaries &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250430/p24#a250430p24)
- - [AI legal analysis startup Supio, which focuses on personal injury law across 114+ case types, raised $60M led by Sapphire, taking its total funding to $91M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250430/p23#a250430p23)
- - [Meta tightens privacy policy around Ray-Ban glasses to boost AI training](https://www.theverge.com/news/658602/meta-ray-ban-privacy-policy-ai-training-voice-recordings)
- - [Corsair K70 Pro TKL Review: Pro Isn’t Always Better](https://www.wired.com/review/corsair-k70-pro-tkl/)<!-- TECH:END -->
+ - [AI legal analysis startup Supio, which focuses on personal injury law across 114+ case types, raised $60M led by Sapphire, taking its total funding to $91M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250430/p23#a250430p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

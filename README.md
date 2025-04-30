@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Terror atack in this barbershop in sweden . 5 dead. Guess the story .](http://9gag.com/gag/a2vDpmp)
- - 😝 [IQ left the chat](http://9gag.com/gag/a9ymeRK)
- - 💣 [A toilet designed for proper pooping posture](http://9gag.com/gag/agmxp2v)
- - 😝 [Pro tip: Set down your weapon](http://9gag.com/gag/aYQMvwq)
- - 👉 [You know the reason...](http://9gag.com/gag/a348DZQ)<!-- MEMES:END -->
+ - 😝 [In the name of Father](http://9gag.com/gag/a9ym0V0)
+ - 😝 [Illegal immigrants tried to speedrun the border\u2026 and failed miserably](http://9gag.com/gag/aVvZ8bd)
+ - 💣 [CAR](http://9gag.com/gag/a348DW1)
+ - 😝 [Wise man](http://9gag.com/gag/aPAe2Qg)
+ - 👉 [Let\u2019s make fun of them while they can\u2019t see a thing..](http://9gag.com/gag/amoxOyV)<!-- MEMES:END -->
 
 ---
 

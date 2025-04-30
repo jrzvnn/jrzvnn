@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bad Luck Ron](http://9gag.com/gag/azxODmx)
- - 😝 [Pro tip: Set down your weapon](http://9gag.com/gag/aYQMvwq)
- - 💣 [No, but no](http://9gag.com/gag/aD2bN9w)
+ - 😝 [You know the reason...](http://9gag.com/gag/a348DZQ)
+ - 😝 [Doing my part](http://9gag.com/gag/aO89NXr)
+ - 💣 [So close](http://9gag.com/gag/aD2bqAd)
  - 😝 [When 98 minutes feels like a masterpiece](http://9gag.com/gag/aD2bre9)
- - 👉 [Bluetooth](http://9gag.com/gag/axyO8MD)<!-- MEMES:END -->
+ - 👉 [Pro tip: Set down your weapon](http://9gag.com/gag/aYQMvwq)<!-- MEMES:END -->
 
 ---
 

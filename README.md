@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft President Brad Smith says the company would take the US government to court if necessary to protect European customers&#39; access to its services &lpar;Financial Times&rpar;](http://www.techmeme.com/250430/p15#a250430p15)
+ - [Trump’s Policies Are Creating Uncertainty for Fossil Fuel Companies](https://www.wired.com/story/trumps-policies-are-creating-uncertainty-for-fossil-fuel-companies/)
+ - [EA says it laid off staff and canceled &quot;two early-stage incubation projects&quot;; sources say EA cut 300 to 400 roles and its Respawn unit canceled a Titanfall game &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250430/p14#a250430p14)
  - [Sources: Huawei has sold 10+ sets of its AI chip cluster CloudMatrix 384, including to data centers that serve Chinese tech companies, in a bid to rival Nvidia &lpar;Financial Times&rpar;](http://www.techmeme.com/250430/p13#a250430p13)
- - [New York City wants subway cameras to predict ‘trouble’ before it happens](https://www.theverge.com/news/658524/mta-ai-predictive-crime-new-york-subway-platforms)
- - [Filing: PayPal says the US SEC concluded its investigation into PayPal USD stablecoin in February 2025 &quot;without enforcement action&quot; &lpar;Martin Young/Cointelegraph&rpar;](http://www.techmeme.com/250430/p12#a250430p12)
- - [Samsung says that &quot;growing policy risks&quot; would increase uncertainty for its chip business, while tariffs would raise prices for smartphone components and TVs &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/250430/p11#a250430p11)
- - [Xiaomi unveils open-source AI reasoning model MiMo, joining other Chinese tech leaders hoping to make a splash in the burgeoning AI field endorsed by Beijing &lpar;Yuan Gao/Bloomberg&rpar;](http://www.techmeme.com/250430/p10#a250430p10)<!-- TECH:END -->
+ - [New York City wants subway cameras to predict ‘trouble’ before it happens](https://www.theverge.com/news/658524/mta-ai-predictive-crime-new-york-subway-platforms)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

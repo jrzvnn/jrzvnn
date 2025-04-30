@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Terror atack in this barbershop in sweden . 5 dead. Guess the story .](http://9gag.com/gag/a2vDpmp)
+ - 😝 [I look bad bro](http://9gag.com/gag/a87evRd)
+ - 💣 [From my archives #3](http://9gag.com/gag/azxOv1b)
  - 😝 [You&#39;ll do anything for $120?](http://9gag.com/gag/apRxneE)
- - 😝 [Something special for guests](http://9gag.com/gag/a87eNEZ)
- - 💣 [Not mine tho](http://9gag.com/gag/aW4oAvK)
- - 😝 [You know the reason...](http://9gag.com/gag/a348DZQ)
- - 👉 [When 98 minutes feels like a masterpiece](http://9gag.com/gag/aD2bre9)<!-- MEMES:END -->
+ - 👉 [Not mine tho](http://9gag.com/gag/aW4oAvK)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Nature&#39;s version of sushi on a conveyor belt](http://9gag.com/gag/aAyMz5d)
  - 😝 [When you do a really good job](http://9gag.com/gag/a348r61)
- - 😝 [Let\u2019s make fun of them while they can\u2019t see a thing..](http://9gag.com/gag/amoxOyV)
- - 💣 [You&#39;ll do anything for $120?](http://9gag.com/gag/apRxneE)
- - 😝 [Who takes whom?](http://9gag.com/gag/azxOy3x)
- - 👉 [Frank Castle, ladies and gents](http://9gag.com/gag/a1mVjX6)<!-- MEMES:END -->
+ - 💣 [Frank Castle, ladies and gents](http://9gag.com/gag/a1mVjX6)
+ - 😝 [Profesor Gandalf](http://9gag.com/gag/aLnA7eW)
+ - 👉 [When you try to pickpocket wrong person in Barcelona](http://9gag.com/gag/ayN1bEW)<!-- MEMES:END -->
 
 ---
 

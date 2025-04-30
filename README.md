@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Donald Trump might actually believe these Calibri labels are real MS-13 tattoos](https://www.theverge.com/politics/658612/donald-trump-kilmar-abrego-garcia-tattoos-photoshop)
+ - [iPhone average selling price rises despite shift away from Pro models](https://appleinsider.com/articles/25/04/30/iphone-average-selling-price-rises-despite-shift-away-from-pro-models?utm_medium=rss)
  - [Boox launches its first color E Ink monitor](https://www.theverge.com/news/658705/boox-mira-pro-color-e-ink-desktop-monitor)
  - [Wikipedia says it will use AI to build new features that &quot;remove technical barriers&quot; for editors, moderators, and patrollers, automate tedious tasks, and more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250430/p27#a250430p27)
- - [Inflation Cools in March, but Don&#39;t Expect Interest Rates to Budge](https://www.cnet.com/personal-finance/banking/inflation-cools-in-march-but-dont-expect-interest-rates-to-budge/#ftag=CAD590a51e)
- - [Meta, Spotify, and Match launch the Coalition for a Competitive Mobile Experience, a lobbying coalition to take on Apple and Google over user age verification &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/250430/p26#a250430p26)
- - [FTC v. Meta live: updates from the battle for Instagram and WhatsApp](https://www.theverge.com/news/646809/ftc-v-meta-antitrust-monopoly-trial-instagram-whatsapp)<!-- TECH:END -->
+ - [Meta, Spotify, and Match launch the Coalition for a Competitive Mobile Experience, a lobbying coalition to take on Apple and Google over user age verification &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/250430/p26#a250430p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

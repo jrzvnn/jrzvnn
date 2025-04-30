@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It was at this moment](http://9gag.com/gag/a0en3gZ)
+ - 😝 [When you do a really good job](http://9gag.com/gag/a348r61)
+ - 😝 [When I grow up I will be a pirate](http://9gag.com/gag/aD2bvGG)
+ - 💣 [It was at this moment](http://9gag.com/gag/a0en3gZ)
  - 😝 [DAM SON](http://9gag.com/gag/aYQM5dV)
- - 💣 [Frank Castle, ladies and gents](http://9gag.com/gag/a1mVjX6)
- - 😝 [Ban cousin marriage](http://9gag.com/gag/aByEb2Q)
  - 👉 [Who takes whom?](http://9gag.com/gag/azxOy3x)<!-- MEMES:END -->
 
 ---

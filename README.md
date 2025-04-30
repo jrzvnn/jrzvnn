@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Go, Piper](http://9gag.com/gag/aYQMBO2)
- - 😝 [When 98 minutes feels like a masterpiece](http://9gag.com/gag/aD2bre9)
- - 💣 [So close](http://9gag.com/gag/aD2bqAd)
- - 😝 [You know the reason...](http://9gag.com/gag/a348DZQ)
- - 👉 [One of those rare real ones](http://9gag.com/gag/ayN1rEW)<!-- MEMES:END -->
+ - 😝 [I loved him! I understood him! I was him!](http://9gag.com/gag/a348rYv)
+ - 😝 [Pro tip: Set down your weapon](http://9gag.com/gag/aYQMvwq)
+ - 💣 [Bluetooth](http://9gag.com/gag/axyO8MD)
+ - 😝 [Star Wars: Revenge of the Sith got re-released to theaters after 20 years and made 25mil dollars](http://9gag.com/gag/aRBv9gA)
+ - 👉 [True love](http://9gag.com/gag/azxODBm)<!-- MEMES:END -->
 
 ---
 

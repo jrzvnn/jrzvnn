@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [YouTube is testing blurred thumbnails for &amp;#8216;mature content&amp;#8217;](https://www.theverge.com/news/658828/youtube-experiment-test-blurred-thumnail-mature-sexual-content)
  - [Sonnet Echo 13 Thunderbolt 5 SSD Dock review: Speedy storage, legacy ports, great price](https://appleinsider.com/articles/25/04/30/sonnet-echo-13-thunderbolt-5-ssd-dock-review-speedy-storage-legacy-ports-great-price?utm_medium=rss)
+ - [Waymo Is in a Growing Number of Cities. Here&#39;s What to Know About the Robotaxi Service](https://www.cnet.com/roadshow/news/waymo-is-in-a-growing-number-of-cities-heres-what-to-know-about-the-robotaxi-service/#ftag=CAD590a51e)
  - [Duolingo said it just doubled its language courses thanks to AI](https://www.theverge.com/news/658968/duolingo-language-courses-ai)
- - [Kia reveals pricing for its first electric PV5 van with UK preorders](https://www.theverge.com/news/658931/kia-pv5-uk-price-preorder-essential-plus-ev-van)
- - [Google’s Play Store lost nearly half its apps](https://www.theverge.com/news/658932/google-play-store-lost-half-apps)<!-- TECH:END -->
+ - [Kia reveals pricing for its first electric PV5 van with UK preorders](https://www.theverge.com/news/658931/kia-pv5-uk-price-preorder-essential-plus-ev-van)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

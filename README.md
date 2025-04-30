@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [From my archives #3](http://9gag.com/gag/azxOv1b)
- - 😝 [One of those rare real ones](http://9gag.com/gag/ayN1rEW)
- - 💣 [Bluetooth](http://9gag.com/gag/axyO8MD)
- - 😝 [True love](http://9gag.com/gag/azxODBm)
- - 👉 [Teach em early, teach em right](http://9gag.com/gag/aGyGNXG)<!-- MEMES:END -->
+ - 😝 [Free X-Ray](http://9gag.com/gag/amoxO2V)
+ - 😝 [Something special for guests](http://9gag.com/gag/a87eNEZ)
+ - 💣 [True love](http://9gag.com/gag/azxODBm)
+ - 😝 [Babe](http://9gag.com/gag/aqyxBP7)
+ - 👉 [You know the reason...](http://9gag.com/gag/a348DZQ)<!-- MEMES:END -->
 
 ---
 

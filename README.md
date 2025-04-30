@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Corsair Void Wireless v2 Review: Dolby Atmos on Bigger Heads](https://www.wired.com/review/corsair-void-wireless-v2/)
- - [The DOGE days have just begun](https://www.theverge.com/tech/656704/elon-musk-doge-100-days-recap-list)
- - [Rad Power Bikes’ bestselling RadRunner is getting a Class 3 upgrade](https://www.theverge.com/news/658316/rad-power-bikes-introduces-its-first-class-3-e-bike)
- - [Miami-based Cast, which optimizes AI and other workloads via automation, raised a $108M Series C led by G2 and Vision Fund 2, sources say at a $900M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250430/p20#a250430p20)
- - [DeepSeek quietly open-sources Prover-V2 AI, a math-focused, 671B-parameter model using mixture-of-experts, on Hugging Face, one day after Alibaba released Qwen3 &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/250430/p19#a250430p19)<!-- TECH:END -->
+ - [AI legal analysis startup Supio, which focuses on personal injury law across 114+ case types, raised $60M led by Sapphire, taking its total funding to $91M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250430/p23#a250430p23)
+ - [Meta tightens privacy policy around Ray-Ban glasses to boost AI training](https://www.theverge.com/news/658602/meta-ray-ban-privacy-policy-ai-training-voice-recordings)
+ - [Corsair K70 Pro TKL Review: Pro Isn’t Always Better](https://www.wired.com/review/corsair-k70-pro-tkl/)
+ - [Rogo, which offers an AI chatbot that replicates an investment banker, raised a $50M Series B led by Thrive at a $350M valuation, after raising $18.5M in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/250430/p22#a250430p22)
+ - [Nvidia’s new tool can turn 3D scenes into AI images](https://www.theverge.com/news/658613/nvidia-ai-blueprint-blender-3d-image-references)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

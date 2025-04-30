@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube is testing blurred thumbnails for &amp;#8216;mature content&amp;#8217;](https://www.theverge.com/news/658828/youtube-experiment-test-blurred-thumnail-mature-sexual-content)
+ - [Sonnet Echo 13 Thunderbolt 5 SSD Dock review: Speedy storage, legacy ports, great price](https://appleinsider.com/articles/25/04/30/sonnet-echo-13-thunderbolt-5-ssd-dock-review-speedy-storage-legacy-ports-great-price?utm_medium=rss)
  - [Duolingo said it just doubled its language courses thanks to AI](https://www.theverge.com/news/658968/duolingo-language-courses-ai)
  - [Kia reveals pricing for its first electric PV5 van with UK preorders](https://www.theverge.com/news/658931/kia-pv5-uk-price-preorder-essential-plus-ev-van)
- - [Google’s Play Store lost nearly half its apps](https://www.theverge.com/news/658932/google-play-store-lost-half-apps)
- - [Q&amp;A with Mark Zuckerberg on Llama 4, benchmarks, AI friends, DeepSeek, China, export controls, open source, monetizing AGI, aligning with Trump, and more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](http://www.techmeme.com/250430/p33#a250430p33)
- - [Bluetti&#39;s covering the cost for your green transition -- plus an all-new solar generator](https://appleinsider.com/articles/25/04/30/bluettis-covering-the-cost-for-your-green-transition----plus-an-all-new-solar-generator?utm_medium=rss)<!-- TECH:END -->
+ - [Google’s Play Store lost nearly half its apps](https://www.theverge.com/news/658932/google-play-store-lost-half-apps)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

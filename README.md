@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A toilet designed for proper pooping posture](http://9gag.com/gag/agmxp2v)
- - 😝 [You know the reason...](http://9gag.com/gag/a348DZQ)
- - 💣 [One of those rare real ones](http://9gag.com/gag/ayN1rEW)
- - 😝 [Frank Castle, ladies and gents](http://9gag.com/gag/a1mVjX6)
- - 👉 [You&#39;ll do anything for $120?](http://9gag.com/gag/apRxneE)<!-- MEMES:END -->
+ - 😝 [It was at this moment](http://9gag.com/gag/a0en3gZ)
+ - 😝 [DAM SON](http://9gag.com/gag/aYQM5dV)
+ - 💣 [Frank Castle, ladies and gents](http://9gag.com/gag/a1mVjX6)
+ - 😝 [Ban cousin marriage](http://9gag.com/gag/aByEb2Q)
+ - 👉 [Who takes whom?](http://9gag.com/gag/azxOy3x)<!-- MEMES:END -->
 
 ---
 

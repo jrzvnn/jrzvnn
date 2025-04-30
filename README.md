@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nuvo, a B2B startup that scales trade partnerships by streamlining credit approvals and more, raised a $34M Series A from Sequoia Capital and Spark Capital &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250430/p46#a250430p46)
+ - [Robinhood reports Q1 revenue up 50% YoY to $927M, vs. $920.1M est., crypto transaction revenue up 100% to $252M, increases share buyback authorization by $500M &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/250430/p45#a250430p45)
  - [Apple sends warnings about mercenary spyware attacks on iOS](https://appleinsider.com/articles/25/04/30/apple-sends-warnings-about-mercenary-spyware-attacks-on-ios?utm_medium=rss)
  - [The BBC deepfaked Agatha Christie to teach a writing course](https://www.theverge.com/news/659150/bbc-agatha-christie-ai-maestro-classes)
- - [Qualcomm reports Q2 revenue up 17% YoY to $11B, vs. $10.6B est., handsets revenue up 12%, forecasts Q3 revenue slightly below est.; QCOM drops 5%+ after hours &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250430/p44#a250430p44)
- - [Meta says it expects its capex for FY2025 to be $64B to $72B, an increase from its prior expectation of $60B to $65B &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250430/p42#a250430p42)
- - [Meta&#39;s Reality Labs posts Q1 revenue down 6% YoY to $412M, vs. $492.7M est., and a $4.2B operating loss, vs. $4.6B est.; Reality Labs has lost $60B+ since 2020 &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250430/p43#a250430p43)<!-- TECH:END -->
+ - [Qualcomm reports Q2 revenue up 17% YoY to $11B, vs. $10.6B est., handsets revenue up 12%, forecasts Q3 revenue slightly below est.; QCOM drops 5%+ after hours &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250430/p44#a250430p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

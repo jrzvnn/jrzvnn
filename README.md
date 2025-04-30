@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New York City wants subway cameras to predict ‘trouble’ before it happens](https://www.theverge.com/news/658524/mta-ai-predictive-crime-new-york-subway-platforms)
+ - [Filing: PayPal says the US SEC concluded its investigation into PayPal USD stablecoin in February 2025 &quot;without enforcement action&quot; &lpar;Martin Young/Cointelegraph&rpar;](http://www.techmeme.com/250430/p12#a250430p12)
  - [Samsung says that &quot;growing policy risks&quot; would increase uncertainty for its chip business, while tariffs would raise prices for smartphone components and TVs &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/250430/p11#a250430p11)
  - [Xiaomi unveils open-source AI reasoning model MiMo, joining other Chinese tech leaders hoping to make a splash in the burgeoning AI field endorsed by Beijing &lpar;Yuan Gao/Bloomberg&rpar;](http://www.techmeme.com/250430/p10#a250430p10)
- - [The US DOJ&#39;s antitrust lawsuit seeking to break up Live Nation and Ticketmaster may set the tone for how the Trump administration approaches competition policy &lpar;Financial Times&rpar;](http://www.techmeme.com/250430/p9#a250430p9)
- - [IAB: full-time US digital creator jobs grew from 200,000 in 2020 to 1.5M in 2024; the internet-supported economy accounts for 18% of US GDP, up from 2% in 2008 &lpar;Axios&rpar;](http://www.techmeme.com/250430/p8#a250430p8)
- - [Beauhurst: UK equity crowdfunding, once one of fintech&#39;s hottest trends, fell 58% from its 2021 peak to £335M in 2024, and dropped ~60% YoY in Q1 2025 to £42.6M &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/250430/p7#a250430p7)<!-- TECH:END -->
+ - [The US DOJ&#39;s antitrust lawsuit seeking to break up Live Nation and Ticketmaster may set the tone for how the Trump administration approaches competition policy &lpar;Financial Times&rpar;](http://www.techmeme.com/250430/p9#a250430p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

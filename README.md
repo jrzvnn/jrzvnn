@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Visa partners with Stripe&#39;s Bridge to help fintechs launch their own stablecoin-linked card programs in multiple countries at once, starting in Latin America &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/250430/p35#a250430p35)
+ - [AI Code Hallucinations Increase the Risk of ‘Package Confusion’ Attacks](https://www.wired.com/story/ai-code-hallucinations-increase-the-risk-of-package-confusion-attacks/)
+ - [Visa announces Visa Intelligent Commerce, opening its payment network to developers building AI agents to find and buy products for users &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/250430/p34#a250430p34)
  - [YouTube is testing blurred thumbnails for &amp;#8216;mature content&amp;#8217;](https://www.theverge.com/news/658828/youtube-experiment-test-blurred-thumnail-mature-sexual-content)
- - [Sonnet Echo 13 Thunderbolt 5 SSD Dock review: Speedy storage, legacy ports, great price](https://appleinsider.com/articles/25/04/30/sonnet-echo-13-thunderbolt-5-ssd-dock-review-speedy-storage-legacy-ports-great-price?utm_medium=rss)
- - [Waymo Is in a Growing Number of Cities. Here&#39;s What to Know About the Robotaxi Service](https://www.cnet.com/roadshow/news/waymo-is-in-a-growing-number-of-cities-heres-what-to-know-about-the-robotaxi-service/#ftag=CAD590a51e)
- - [Duolingo said it just doubled its language courses thanks to AI](https://www.theverge.com/news/658968/duolingo-language-courses-ai)
- - [Kia reveals pricing for its first electric PV5 van with UK preorders](https://www.theverge.com/news/658931/kia-pv5-uk-price-preorder-essential-plus-ev-van)<!-- TECH:END -->
+ - [Sonnet Echo 13 Thunderbolt 5 SSD Dock review: Speedy storage, legacy ports, great price](https://appleinsider.com/articles/25/04/30/sonnet-echo-13-thunderbolt-5-ssd-dock-review-speedy-storage-legacy-ports-great-price?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

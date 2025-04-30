@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Free X-Ray](http://9gag.com/gag/amoxO2V)
- - 😝 [Something special for guests](http://9gag.com/gag/a87eNEZ)
- - 💣 [True love](http://9gag.com/gag/azxODBm)
- - 😝 [Babe](http://9gag.com/gag/aqyxBP7)
- - 👉 [You know the reason...](http://9gag.com/gag/a348DZQ)<!-- MEMES:END -->
+ - 😝 [From my archives #3](http://9gag.com/gag/azxOv1b)
+ - 😝 [Doing my part](http://9gag.com/gag/aO89NXr)
+ - 💣 [You know the reason...](http://9gag.com/gag/a348DZQ)
+ - 😝 [From the archive](http://9gag.com/gag/avyx42Z)
+ - 👉 [Pro tip: Set down your weapon](http://9gag.com/gag/aYQMvwq)<!-- MEMES:END -->
 
 ---
 

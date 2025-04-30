@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Who takes whom?](http://9gag.com/gag/azxOy3x)
+ - 😝 [Something special for guests](http://9gag.com/gag/a87eNEZ)
+ - 💣 [Let\u2019s make fun of them while they can\u2019t see a thing..](http://9gag.com/gag/amoxOyV)
  - 😝 [When you do a really good job](http://9gag.com/gag/a348r61)
- - 😝 [When I grow up I will be a pirate](http://9gag.com/gag/aD2bvGG)
- - 💣 [It was at this moment](http://9gag.com/gag/a0en3gZ)
- - 😝 [DAM SON](http://9gag.com/gag/aYQM5dV)
- - 👉 [Who takes whom?](http://9gag.com/gag/azxOy3x)<!-- MEMES:END -->
+ - 👉 [Frank Castle, ladies and gents](http://9gag.com/gag/a1mVjX6)<!-- MEMES:END -->
 
 ---
 

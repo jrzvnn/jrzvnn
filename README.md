@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Yale&amp;#8217;s new smart lock can disarm your ADT security system with your fingerprint](https://www.theverge.com/news/658636/yale-zwave-smart-lock-disarms-adt-system-fingerprint-reader)
+ - [Grindr rolls out A-List, powered by Claude Sonnet 3.7 and AWS&#39; Bedrock, to curate &quot;meaningful past connections, high-potential matches&quot; and chat summaries &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250430/p24#a250430p24)
  - [AI legal analysis startup Supio, which focuses on personal injury law across 114+ case types, raised $60M led by Sapphire, taking its total funding to $91M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250430/p23#a250430p23)
  - [Meta tightens privacy policy around Ray-Ban glasses to boost AI training](https://www.theverge.com/news/658602/meta-ray-ban-privacy-policy-ai-training-voice-recordings)
- - [Corsair K70 Pro TKL Review: Pro Isn’t Always Better](https://www.wired.com/review/corsair-k70-pro-tkl/)
- - [Rogo, which offers an AI chatbot that replicates an investment banker, raised a $50M Series B led by Thrive at a $350M valuation, after raising $18.5M in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/250430/p22#a250430p22)
- - [Nvidia’s new tool can turn 3D scenes into AI images](https://www.theverge.com/news/658613/nvidia-ai-blueprint-blender-3d-image-references)<!-- TECH:END -->
+ - [Corsair K70 Pro TKL Review: Pro Isn’t Always Better](https://www.wired.com/review/corsair-k70-pro-tkl/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

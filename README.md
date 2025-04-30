@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Most likely the next GOTY, and it would be deserved. A game made with passion, without forced agenda, careless investors, and corporate bullshit](http://9gag.com/gag/aXP7QNv)
- - 😝 [Pro tip: Set down your weapon](http://9gag.com/gag/aYQMvwq)
- - 💣 [Nice Jiggle Physics](http://9gag.com/gag/aXP7mVd)
- - 😝 [Terror atack in this barbershop in sweden . 5 dead. Guess the story .](http://9gag.com/gag/a2vDpmp)
+ - 😝 [I look bad bro](http://9gag.com/gag/a87evRd)
+ - 😝 [A toilet designed for proper pooping posture](http://9gag.com/gag/agmxp2v)
+ - 💣 [Something special for guests](http://9gag.com/gag/a87eNEZ)
+ - 😝 [Doctor or Engineer?](http://9gag.com/gag/aMVz5EW)
  - 👉 [You know the reason...](http://9gag.com/gag/a348DZQ)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Find a girl that looks at you the way... oh never mind](http://9gag.com/gag/aKG8Zdj)
- - 😝 [One of those rare real ones](http://9gag.com/gag/ayN1rEW)
+ - 😝 [Pro tip: Set down your weapon](http://9gag.com/gag/aYQMvwq)
+ - 😝 [Bring back old feelings](http://9gag.com/gag/ajPx3e1)
  - 💣 [A toilet designed for proper pooping posture](http://9gag.com/gag/agmxp2v)
- - 😝 [You&#39;ll do anything for $120?](http://9gag.com/gag/apRxneE)
- - 👉 [Pro tip: Set down your weapon](http://9gag.com/gag/aYQMvwq)<!-- MEMES:END -->
+ - 😝 [One of those rare real ones](http://9gag.com/gag/ayN1rEW)
+ - 👉 [It was at this moment](http://9gag.com/gag/a0en3gZ)<!-- MEMES:END -->
 
 ---
 

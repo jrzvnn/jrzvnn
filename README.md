@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Shein is exploring ways to restructure its US business if Trump sticks with punitive tariffs on Chinese imports; the de minimis exemption closes May 2 &lpar;Financial Times&rpar;](http://www.techmeme.com/250430/p17#a250430p17)
+ - [GameSir X5 Lite review: good iPhone controller, unbeatable price](https://appleinsider.com/articles/25/04/30/gamesir-x5-lite-review-good-iphone-controller-unbeatable-price?utm_medium=rss)
+ - [What Are the Best Coffee Beans for Cold Brew?](https://www.wired.com/story/best-coffee-beans-for-cold-brew/)
  - [Two new iPhone factories years in the making open in India](https://appleinsider.com/articles/25/04/30/two-new-iphone-factories-years-in-the-making-open-in-india?utm_medium=rss)
- - [GPD Win Max 2 review: a surprisingly competent tiny laptop that doubles as a gaming handheld](https://www.theverge.com/laptop-review/657618/gpd-win-max-2-review-2024-2025-tiny-laptop-handheld-gaming)
- - [Galaxy S25 Ultra vs. S25 and S25 Plus: AI Features and Specs Comparison](https://www.cnet.com/tech/mobile/galaxy-s25-ultra-vs-s25-and-s25-plus-in-depth-specs-and-features-comparison/#ftag=CAD590a51e)
- - [Adyen reports Q1 net revenue up 22% YoY to €534.7M, below €539.6M est., and processed payment volume up 6% YoY to €314.8B, below est.; ADYEN drops ~5% &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/250430/p16#a250430p16)
- - [Microsoft President Brad Smith says the company would take the US government to court if necessary to protect European customers&#39; access to its services &lpar;Financial Times&rpar;](http://www.techmeme.com/250430/p15#a250430p15)<!-- TECH:END -->
+ - [GPD Win Max 2 review: a surprisingly competent tiny laptop that doubles as a gaming handheld](https://www.theverge.com/laptop-review/657618/gpd-win-max-2-review-2024-2025-tiny-laptop-handheld-gaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

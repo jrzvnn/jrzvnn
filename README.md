@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [IQ left the chat](http://9gag.com/gag/a9ymeRK)
- - 😝 [I look bad bro](http://9gag.com/gag/a87evRd)
- - 💣 [Go, Piper](http://9gag.com/gag/aYQMBO2)
+ - 😝 [Find a girl that looks at you the way... oh never mind](http://9gag.com/gag/aKG8Zdj)
  - 😝 [One of those rare real ones](http://9gag.com/gag/ayN1rEW)
- - 👉 [You&#39;ll do anything for $120?](http://9gag.com/gag/apRxneE)<!-- MEMES:END -->
+ - 💣 [A toilet designed for proper pooping posture](http://9gag.com/gag/agmxp2v)
+ - 😝 [You&#39;ll do anything for $120?](http://9gag.com/gag/apRxneE)
+ - 👉 [Pro tip: Set down your weapon](http://9gag.com/gag/aYQMvwq)<!-- MEMES:END -->
 
 ---
 

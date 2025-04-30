@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Factor Delivery Meals Review &lpar;2025&rpar;: Tender Salmon, Room to Grow](https://www.wired.com/review/factor-ready-to-heat-meals/)
- - [Identity verification startup Persona, which has 3,000+ clients, raised a $200M Series D led by Ribbit at a $2B valuation, taking its total funding to $417M &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/250430/p18#a250430p18)
- - [Would you wear a smart ring that proves you’re not a cheater?](https://www.theverge.com/wearables/657475/raw-ring-wearables-emotion-tracking-smart-ring)
- - [Content moderators are organizing against Big Tech](https://www.theverge.com/news/658566/content-moderator-union-alliance-meta-tiktok-google)
- - [On shuffle: Managerial movements for Apple Music, Global Affairs teams](https://appleinsider.com/articles/25/04/30/on-shuffle-managerial-movements-for-apple-music-global-affairs-teams?utm_medium=rss)<!-- TECH:END -->
+ - [Corsair Void Wireless v2 Review: Dolby Atmos on Bigger Heads](https://www.wired.com/review/corsair-void-wireless-v2/)
+ - [The DOGE days have just begun](https://www.theverge.com/tech/656704/elon-musk-doge-100-days-recap-list)
+ - [Rad Power Bikes’ bestselling RadRunner is getting a Class 3 upgrade](https://www.theverge.com/news/658316/rad-power-bikes-introduces-its-first-class-3-e-bike)
+ - [Miami-based Cast, which optimizes AI and other workloads via automation, raised a $108M Series C led by G2 and Vision Fund 2, sources say at a $900M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250430/p20#a250430p20)
+ - [DeepSeek quietly open-sources Prover-V2 AI, a math-focused, 671B-parameter model using mixture-of-experts, on Hugging Face, one day after Alibaba released Qwen3 &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/250430/p19#a250430p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

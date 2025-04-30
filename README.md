@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The TikTok ban is back in court — in Meta’s antitrust trial](https://www.theverge.com/policy/659102/tiktok-ban-meta-antitrust-trial-instagram)
- - [Sonnet Echo 13 Thunderbolt 5 SSD Dock review: Speedy storage, legacy ports, great price](https://appleinsider.com/articles/25/04/30/sonnet-echo-13-thunderbolt-5-ssd-dock-review-speedy-storage-legacy-ports-great-price?utm_medium=rss)
- - [Meta reports Q1 revenue up 16% YoY to $42.3B, net income up 35% YoY to $16.6B, and family daily active people up 6% YoY to 3.43B on average for March 2025 &lpar;Meta&rpar;](http://www.techmeme.com/250430/p38#a250430p38)
- - [Microsoft reports Q3 revenue up 13% YoY to $70.1B, Microsoft 365 Commercial products and cloud services revenue up 11% YoY, and net income up 18% YoY to $25.8B &lpar;Microsoft&rpar;](http://www.techmeme.com/250430/p37#a250430p37)
- - [Sources: Ripple has proposed a takeover of Circle for $4B to $5B, a bid that was rejected as too low; Ripple remains interested in Circle &lpar;Bloomberg Tax&rpar;](http://www.techmeme.com/250430/p36#a250430p36)<!-- TECH:END -->
+ - [Microsoft Q3: Windows OEM and Devices revenue up 3% YoY, gaming revenue up 5%, Xbox hardware revenue down 6%, and Xbox content and services revenue up 8% &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250430/p41#a250430p41)
+ - [Here are our favorite deals from Amazon’s annual gaming sale](https://www.theverge.com/tech/657379/amazon-gaming-week-best-deals-headsets-tvs-games-2025)
+ - [Meta&#39;s Reality Labs posts Q1 revenue down 6% YoY to $412M, vs. $492.7M est., and a $4.2B operating loss, vs. $4.6B est.; Reality Labs has lost $60B+ since 2020 &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250430/p40#a250430p40)
+ - [Microsoft reports strong cloud growth in Q3 earnings](https://www.theverge.com/news/658793/microsoft-q3-2025-earnings-revenue-profits-windows-xbox-gaming-surface)
+ - [Microsoft Q3: Intelligent Cloud revenue up 21% YoY to $26.75B, vs. $26.16B est., Azure and other cloud services up 33%, above est.; MSFT jumps 5%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250430/p39#a250430p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

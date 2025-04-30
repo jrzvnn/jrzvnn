@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Ripple has proposed a takeover of Circle for $4B to $5B, a bid that was rejected as too low; Ripple remains interested in Circle &lpar;Bloomberg Tax&rpar;](http://www.techmeme.com/250430/p36#a250430p36)
- - [Nintendo limits a game-sharing loophole as it introduces Virtual Game Cards](https://www.theverge.com/news/659074/nintendo-switch-online-game-sharing-loophole)
- - [DOGE Put a College Student in Charge of Using AI to Rewrite Regulations](https://www.wired.com/story/doge-college-student-ai-rewrite-regulations-deregulation/)
- - [Visa partners with Stripe&#39;s Bridge to help fintechs launch their own stablecoin-linked card programs in multiple countries at once, starting in Latin America &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/250430/p35#a250430p35)
- - [AI Code Hallucinations Increase the Risk of ‘Package Confusion’ Attacks](https://www.wired.com/story/ai-code-hallucinations-increase-the-risk-of-package-confusion-attacks/)<!-- TECH:END -->
+ - [The TikTok ban is back in court — in Meta’s antitrust trial](https://www.theverge.com/policy/659102/tiktok-ban-meta-antitrust-trial-instagram)
+ - [Sonnet Echo 13 Thunderbolt 5 SSD Dock review: Speedy storage, legacy ports, great price](https://appleinsider.com/articles/25/04/30/sonnet-echo-13-thunderbolt-5-ssd-dock-review-speedy-storage-legacy-ports-great-price?utm_medium=rss)
+ - [Meta reports Q1 revenue up 16% YoY to $42.3B, net income up 35% YoY to $16.6B, and family daily active people up 6% YoY to 3.43B on average for March 2025 &lpar;Meta&rpar;](http://www.techmeme.com/250430/p38#a250430p38)
+ - [Microsoft reports Q3 revenue up 13% YoY to $70.1B, Microsoft 365 Commercial products and cloud services revenue up 11% YoY, and net income up 18% YoY to $25.8B &lpar;Microsoft&rpar;](http://www.techmeme.com/250430/p37#a250430p37)
+ - [Sources: Ripple has proposed a takeover of Circle for $4B to $5B, a bid that was rejected as too low; Ripple remains interested in Circle &lpar;Bloomberg Tax&rpar;](http://www.techmeme.com/250430/p36#a250430p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

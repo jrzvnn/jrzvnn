@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Marc Andreessen says VC may be one of the last fields safe from AI after it replaces most workers, as it requires &quot;intangible&quot; skills like psychological insight &lpar;Lucas Ropek/Gizmodo&rpar;](http://www.techmeme.com/250430/p47#a250430p47)
  - [Nuvo, a B2B startup that scales trade partnerships by streamlining credit approvals and more, raised a $34M Series A from Sequoia Capital and Spark Capital &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250430/p46#a250430p46)
  - [Robinhood reports Q1 revenue up 50% YoY to $927M, vs. $920.1M est., crypto transaction revenue up 100% to $252M, increases share buyback authorization by $500M &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/250430/p45#a250430p45)
  - [Apple sends warnings about mercenary spyware attacks on iOS](https://appleinsider.com/articles/25/04/30/apple-sends-warnings-about-mercenary-spyware-attacks-on-ios?utm_medium=rss)
- - [The BBC deepfaked Agatha Christie to teach a writing course](https://www.theverge.com/news/659150/bbc-agatha-christie-ai-maestro-classes)
- - [Qualcomm reports Q2 revenue up 17% YoY to $11B, vs. $10.6B est., handsets revenue up 12%, forecasts Q3 revenue slightly below est.; QCOM drops 5%+ after hours &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250430/p44#a250430p44)<!-- TECH:END -->
+ - [The BBC deepfaked Agatha Christie to teach a writing course](https://www.theverge.com/news/659150/bbc-agatha-christie-ai-maestro-classes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

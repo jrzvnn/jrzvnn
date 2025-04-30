@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Raycast brings its super-powerful Mac launcher to iOS, sort of](https://www.theverge.com/apple-ios/658265/raycast-ios-launcher)
- - [Two new iPhone factories years in the making open in India](https://appleinsider.com/articles/25/04/30/two-new-iphone-factories-years-in-the-making-open-in-india?utm_medium=rss)
- - [Sources: Shein is exploring ways to restructure its US business if Trump sticks with punitive tariffs on Chinese imports; the de minimis exemption closes May 2 &lpar;Financial Times&rpar;](http://www.techmeme.com/250430/p17#a250430p17)
- - [GameSir X5 Lite review: good iPhone controller, unbeatable price](https://appleinsider.com/articles/25/04/30/gamesir-x5-lite-review-good-iphone-controller-unbeatable-price?utm_medium=rss)
- - [What Are the Best Coffee Beans for Cold Brew?](https://www.wired.com/story/best-coffee-beans-for-cold-brew/)<!-- TECH:END -->
+ - [Factor Delivery Meals Review &lpar;2025&rpar;: Tender Salmon, Room to Grow](https://www.wired.com/review/factor-ready-to-heat-meals/)
+ - [Identity verification startup Persona, which has 3,000+ clients, raised a $200M Series D led by Ribbit at a $2B valuation, taking its total funding to $417M &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/250430/p18#a250430p18)
+ - [Would you wear a smart ring that proves you’re not a cheater?](https://www.theverge.com/wearables/657475/raw-ring-wearables-emotion-tracking-smart-ring)
+ - [Content moderators are organizing against Big Tech](https://www.theverge.com/news/658566/content-moderator-union-alliance-meta-tiktok-google)
+ - [On shuffle: Managerial movements for Apple Music, Global Affairs teams](https://appleinsider.com/articles/25/04/30/on-shuffle-managerial-movements-for-apple-music-global-affairs-teams?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

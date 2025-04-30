@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Doctor or Engineer?](http://9gag.com/gag/aMVz5EW)
- - 😝 [Pro tip: Set down your weapon](http://9gag.com/gag/aYQMvwq)
- - 💣 [You know the reason...](http://9gag.com/gag/a348DZQ)
- - 😝 [DAM SON](http://9gag.com/gag/aYQM5dV)
- - 👉 [From my archives #3](http://9gag.com/gag/azxOv1b)<!-- MEMES:END -->
+ - 😝 [From my archives #3](http://9gag.com/gag/azxOv1b)
+ - 😝 [Who takes whom?](http://9gag.com/gag/azxOy3x)
+ - 💣 [DAM SON](http://9gag.com/gag/aYQM5dV)
+ - 😝 [A toilet designed for proper pooping posture](http://9gag.com/gag/agmxp2v)
+ - 👉 [You know the reason...](http://9gag.com/gag/a348DZQ)<!-- MEMES:END -->
 
 ---
 

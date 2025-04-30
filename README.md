@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A toilet designed for proper pooping posture](http://9gag.com/gag/agmxp2v)
- - 😝 [From my archives #3](http://9gag.com/gag/azxOv1b)
- - 💣 [You know the reason...](http://9gag.com/gag/a348DZQ)
- - 😝 [DAM SON](http://9gag.com/gag/aYQM5dV)
- - 👉 [Bring back old feelings](http://9gag.com/gag/ajPx3e1)<!-- MEMES:END -->
+ - 😝 [Nice upgrade bro](http://9gag.com/gag/azxOwnj)
+ - 😝 [Local tip from local guy](http://9gag.com/gag/aByEebP)
+ - 💣 [Doing my Part](http://9gag.com/gag/a2vDXRp)
+ - 😝 [A lawyer for men](http://9gag.com/gag/aO89W3M)
+ - 👉 [In the name of Father](http://9gag.com/gag/a9ym0V0)<!-- MEMES:END -->
 
 ---
 

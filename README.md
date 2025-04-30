@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yes. That.](http://9gag.com/gag/aQzmK2q)
  - 😝 [That&#39;s pretty cool](http://9gag.com/gag/a348rDr)
- - 💣 [Nailed it!](http://9gag.com/gag/aYQMvqN)
- - 😝 [Illegal immigrants tried to speedrun the border\u2026 and failed miserably](http://9gag.com/gag/aVvZ8bd)
- - 👉 [CAR](http://9gag.com/gag/a348DW1)<!-- MEMES:END -->
+ - 😝 [Nailed it!](http://9gag.com/gag/aYQMvqN)
+ - 💣 [Illegal immigrants tried to speedrun the border\u2026 and failed miserably](http://9gag.com/gag/aVvZ8bd)
+ - 😝 [CAR](http://9gag.com/gag/a348DW1)
+ - 👉 [Let\u2019s make fun of them while they can\u2019t see a thing..](http://9gag.com/gag/amoxOyV)<!-- MEMES:END -->
 
 ---
 

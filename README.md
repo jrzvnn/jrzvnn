@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In the name of Father](http://9gag.com/gag/a9ym0V0)
- - 😝 [CAR](http://9gag.com/gag/a348DW1)
- - 💣 [Let\u2019s make fun of them while they can\u2019t see a thing..](http://9gag.com/gag/amoxOyV)
- - 😝 [Wise man](http://9gag.com/gag/aPAe2Qg)
+ - 😝 [Most likely the next GOTY, and it would be deserved. A game made with passion, without forced agenda, careless investors, and corporate bullshit](http://9gag.com/gag/aXP7QNv)
+ - 😝 [Pro tip: Set down your weapon](http://9gag.com/gag/aYQMvwq)
+ - 💣 [Nice Jiggle Physics](http://9gag.com/gag/aXP7mVd)
+ - 😝 [Terror atack in this barbershop in sweden . 5 dead. Guess the story .](http://9gag.com/gag/a2vDpmp)
  - 👉 [You know the reason...](http://9gag.com/gag/a348DZQ)<!-- MEMES:END -->
 
 ---

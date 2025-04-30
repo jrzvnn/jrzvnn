@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to solve the age old problem of getting splashed with oil when cooking](http://9gag.com/gag/ayN1K0q)
- - 😝 [Pro tip: Set down your weapon](http://9gag.com/gag/aYQMvwq)
- - 💣 [You&#39;ll do anything for $120?](http://9gag.com/gag/apRxneE)
- - 😝 [From my archives #3](http://9gag.com/gag/azxOv1b)
- - 👉 [One of those rare real ones](http://9gag.com/gag/ayN1rEW)<!-- MEMES:END -->
+ - 😝 [IQ left the chat](http://9gag.com/gag/a9ymeRK)
+ - 😝 [I look bad bro](http://9gag.com/gag/a87evRd)
+ - 💣 [Go, Piper](http://9gag.com/gag/aYQMBO2)
+ - 😝 [One of those rare real ones](http://9gag.com/gag/ayN1rEW)
+ - 👉 [You&#39;ll do anything for $120?](http://9gag.com/gag/apRxneE)<!-- MEMES:END -->
 
 ---
 

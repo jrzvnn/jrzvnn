@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Huawei has sold 10+ sets of its AI chip cluster CloudMatrix 384, including to data centers that serve Chinese tech companies, in a bid to rival Nvidia &lpar;Financial Times&rpar;](http://www.techmeme.com/250430/p13#a250430p13)
  - [New York City wants subway cameras to predict ‘trouble’ before it happens](https://www.theverge.com/news/658524/mta-ai-predictive-crime-new-york-subway-platforms)
  - [Filing: PayPal says the US SEC concluded its investigation into PayPal USD stablecoin in February 2025 &quot;without enforcement action&quot; &lpar;Martin Young/Cointelegraph&rpar;](http://www.techmeme.com/250430/p12#a250430p12)
  - [Samsung says that &quot;growing policy risks&quot; would increase uncertainty for its chip business, while tariffs would raise prices for smartphone components and TVs &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/250430/p11#a250430p11)
- - [Xiaomi unveils open-source AI reasoning model MiMo, joining other Chinese tech leaders hoping to make a splash in the burgeoning AI field endorsed by Beijing &lpar;Yuan Gao/Bloomberg&rpar;](http://www.techmeme.com/250430/p10#a250430p10)
- - [The US DOJ&#39;s antitrust lawsuit seeking to break up Live Nation and Ticketmaster may set the tone for how the Trump administration approaches competition policy &lpar;Financial Times&rpar;](http://www.techmeme.com/250430/p9#a250430p9)<!-- TECH:END -->
+ - [Xiaomi unveils open-source AI reasoning model MiMo, joining other Chinese tech leaders hoping to make a splash in the burgeoning AI field endorsed by Beijing &lpar;Yuan Gao/Bloomberg&rpar;](http://www.techmeme.com/250430/p10#a250430p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

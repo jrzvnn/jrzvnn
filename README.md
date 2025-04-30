@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [eBay reports Q1 revenue up 1% YoY to $2.59B vs. $2.55B est., forecasts Q2 revenue above est.; CFO Steve Priest to step down in May, with Peggy Alford succeeding &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/250430/p52#a250430p52)
  - [Mark Zuckerberg says Threads has 350M MAUs, having added 30M in Q1 2025, compared to 20M in Q4 2024 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250430/p51#a250430p51)
- - [Seth Rogen Is the Next Free Operator in Black Ops 6, Bringing Weed to a Gunfight](https://www.cnet.com/tech/gaming/seth-rogen-is-the-next-free-operator-in-black-ops-6-bringing-weed-to-a-gunfight/#ftag=CAD590a51e)
  - [Galaxy Digital plans to list on the Nasdaq Global Select Market on May 16; it will still have shares listed on the Toronto Stock Exchange for some time &lpar;Liz Napolitano/Decrypt&rpar;](http://www.techmeme.com/250430/p50#a250430p50)
- - [Sketchy rumors hint at an iPhone desktop mode](https://www.theverge.com/news/659175/iphone-desktop-mode-sketchy-rumors)<!-- TECH:END -->
+ - [Sketchy rumors hint at an iPhone desktop mode](https://www.theverge.com/news/659175/iphone-desktop-mode-sketchy-rumors)
+ - [Amazon says it will spend $4B+ to expand its US rural delivery network by the end of 2026, growing the network to 200+ delivery stations and creating 100K jobs &lpar;Sriparna Roy/Reuters&rpar;](http://www.techmeme.com/250430/p49#a250430p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

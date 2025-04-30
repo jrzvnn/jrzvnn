@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Fortnite&#39; could return to Apple App Store after Judge finds Apple in violation of injunction](https://appleinsider.com/articles/25/04/30/fortnite-could-return-to-apple-app-store-after-judge-finds-apple-in-violation-of-injunction?utm_medium=rss)
  - [A US judge rules Apple violated a court order in Epic&#39;s case to open the App Store to outside payment options, and refers Apple for a criminal contempt probe &lpar;Josh Sisco/Bloomberg&rpar;](http://www.techmeme.com/250430/p55#a250430p55)
  - [A judge just blew up Apple&amp;#8217;s control of the App Store](https://www.theverge.com/news/659246/apple-epic-app-store-judge-ruling-control)
  - [In Meta&#39;s earnings call, Mark Zuckerberg says the company plans to add ads to the Meta AI app, plus a paid tier for more compute and functionality &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250430/p54#a250430p54)
- - [US v. Google: Sundar Pichai said Google expects to strike a Gemini deal with Apple by mid-2025 and Tim Cook told him Apple plans to add more AI models this year &lpar;The Verge&rpar;](http://www.techmeme.com/250430/p53#a250430p53)
- - [Mark Zuckerberg is planning a premium tier and ads for Meta&amp;#8217;s AI app](https://www.theverge.com/news/659242/mark-zuckerberg-is-planning-a-premium-tier-and-ads-for-metas-ai-app)<!-- TECH:END -->
+ - [US v. Google: Sundar Pichai said Google expects to strike a Gemini deal with Apple by mid-2025 and Tim Cook told him Apple plans to add more AI models this year &lpar;The Verge&rpar;](http://www.techmeme.com/250430/p53#a250430p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

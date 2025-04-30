@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice upgrade bro](http://9gag.com/gag/azxOwnj)
- - 😝 [Local tip from local guy](http://9gag.com/gag/aByEebP)
- - 💣 [Doing my Part](http://9gag.com/gag/a2vDXRp)
- - 😝 [A lawyer for men](http://9gag.com/gag/aO89W3M)
- - 👉 [In the name of Father](http://9gag.com/gag/a9ym0V0)<!-- MEMES:END -->
+ - 😝 [Doctor or Engineer?](http://9gag.com/gag/aMVz5EW)
+ - 😝 [Pro tip: Set down your weapon](http://9gag.com/gag/aYQMvwq)
+ - 💣 [You know the reason...](http://9gag.com/gag/a348DZQ)
+ - 😝 [DAM SON](http://9gag.com/gag/aYQM5dV)
+ - 👉 [From my archives #3](http://9gag.com/gag/azxOv1b)<!-- MEMES:END -->
 
 ---
 

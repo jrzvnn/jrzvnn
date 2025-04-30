@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I look bad bro](http://9gag.com/gag/a87evRd)
- - 😝 [It was at this moment](http://9gag.com/gag/a0en3gZ)
- - 💣 [People keep ramming into the gate of a closed off road](http://9gag.com/gag/a7o9xPm)
- - 😝 [Who takes whom?](http://9gag.com/gag/azxOy3x)
- - 👉 [Frank Castle, ladies and gents](http://9gag.com/gag/a1mVjX6)<!-- MEMES:END -->
+ - 😝 [Super Based. Woman interrupts Muslim Rally at Texas State Capitol.](http://9gag.com/gag/aAyM902)
+ - 😝 [Outsmarted the outsmarter](http://9gag.com/gag/avyxwpd)
+ - 💣 [Who takes whom?](http://9gag.com/gag/azxOy3x)
+ - 😝 [In the name of Father](http://9gag.com/gag/a9ym0V0)
+ - 👉 [You&#39;ll do anything for $120?](http://9gag.com/gag/apRxneE)<!-- MEMES:END -->
 
 ---
 

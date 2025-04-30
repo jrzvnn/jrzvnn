@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Ripple has proposed a takeover of Circle for $4B to $5B, a bid that was rejected as too low; Ripple remains interested in Circle &lpar;Bloomberg Tax&rpar;](http://www.techmeme.com/250430/p36#a250430p36)
  - [Nintendo limits a game-sharing loophole as it introduces Virtual Game Cards](https://www.theverge.com/news/659074/nintendo-switch-online-game-sharing-loophole)
  - [DOGE Put a College Student in Charge of Using AI to Rewrite Regulations](https://www.wired.com/story/doge-college-student-ai-rewrite-regulations-deregulation/)
  - [Visa partners with Stripe&#39;s Bridge to help fintechs launch their own stablecoin-linked card programs in multiple countries at once, starting in Latin America &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/250430/p35#a250430p35)
- - [AI Code Hallucinations Increase the Risk of ‘Package Confusion’ Attacks](https://www.wired.com/story/ai-code-hallucinations-increase-the-risk-of-package-confusion-attacks/)
- - [Visa announces Visa Intelligent Commerce, opening its payment network to developers building AI agents to find and buy products for users &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/250430/p34#a250430p34)<!-- TECH:END -->
+ - [AI Code Hallucinations Increase the Risk of ‘Package Confusion’ Attacks](https://www.wired.com/story/ai-code-hallucinations-increase-the-risk-of-package-confusion-attacks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US judge rules Apple violated a 2021 court order to open the App Store to outside payment options, and refers the case for a criminal contempt investigation &lpar;Josh Sisco/Bloomberg&rpar;](http://www.techmeme.com/250430/p55#a250430p55)
+ - [A judge just blew up Apple&amp;#8217;s control of the App Store](https://www.theverge.com/news/659246/apple-epic-app-store-judge-ruling-control)
  - [In Meta&#39;s earnings call, Mark Zuckerberg says the company plans to add ads to the Meta AI app, plus a paid tier for more compute and functionality &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250430/p54#a250430p54)
  - [US v. Google: Sundar Pichai said Google expects to strike a Gemini deal with Apple by mid-2025 and Tim Cook told him Apple plans to add more AI models this year &lpar;The Verge&rpar;](http://www.techmeme.com/250430/p53#a250430p53)
- - [Mark Zuckerberg is planning a premium tier and ads for Meta&amp;#8217;s AI app](https://www.theverge.com/news/659242/mark-zuckerberg-is-planning-a-premium-tier-and-ads-for-metas-ai-app)
- - [WiZ’s new TV light sync box undercuts Philips Hue’s pricing by half](https://www.theverge.com/news/659188/wiz-hdmi-sync-box-announced-price-specs-launch-date)
- - [Petition calls for Apple to resume updates for discontinued AirPort routers](https://appleinsider.com/articles/25/04/30/petition-calls-for-apple-to-resume-updates-for-discontinued-airport-routers?utm_medium=rss)<!-- TECH:END -->
+ - [Mark Zuckerberg is planning a premium tier and ads for Meta&amp;#8217;s AI app](https://www.theverge.com/news/659242/mark-zuckerberg-is-planning-a-premium-tier-and-ads-for-metas-ai-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

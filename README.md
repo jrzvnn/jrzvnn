@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let\u2019s make fun of them while they can\u2019t see a thing..](http://9gag.com/gag/amoxOyV)
- - 😝 [One of those rare real ones](http://9gag.com/gag/ayN1rEW)
- - 💣 [When I grow up I will be a pirate](http://9gag.com/gag/aD2bvGG)
- - 😝 [You&#39;ll do anything for $120?](http://9gag.com/gag/apRxneE)
- - 👉 [How to solve the age old problem of getting splashed with oil when cooking](http://9gag.com/gag/ayN1K0q)<!-- MEMES:END -->
+ - 😝 [Not mine tho](http://9gag.com/gag/aW4oAvK)
+ - 😝 [When I grow up I will be a pirate](http://9gag.com/gag/aD2bvGG)
+ - 💣 [Let\u2019s make fun of them while they can\u2019t see a thing..](http://9gag.com/gag/amoxOyV)
+ - 😝 [Pro tip: Set down your weapon](http://9gag.com/gag/aYQMvwq)
+ - 👉 [DAM SON](http://9gag.com/gag/aYQM5dV)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gramps!!](http://9gag.com/gag/aqyxE7L)
- - 😝 [Profesor Gandalf](http://9gag.com/gag/aLnA7eW)
- - 💣 [You&#39;ll do anything for $120?](http://9gag.com/gag/apRxneE)
- - 😝 [Journalist interviews a random train passanger about the blackout in Spain](http://9gag.com/gag/aGyG4Y6)
- - 👉 [Outsmarted the outsmarter](http://9gag.com/gag/avyxwpd)<!-- MEMES:END -->
+ - 😝 [What the](http://9gag.com/gag/aGyG577)
+ - 😝 [You&#39;re either gonna die or have a great relationship. Either way you just know she&#39;s gonna try to peg you. Gotta sleep with a pillow strapped around your ass when you sleep now](http://9gag.com/gag/ae9xz2p)
+ - 💣 [Chinese tourist deals with pickpocket in Barcelona, 29.04.2025](http://9gag.com/gag/azxO3Kj)
+ - 😝 [Outsmarted the outsmarter](http://9gag.com/gag/avyxwpd)
+ - 👉 [How to strengthen love](http://9gag.com/gag/agmxbBq)<!-- MEMES:END -->
 
 ---
 

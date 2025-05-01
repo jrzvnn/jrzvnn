@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump’s Quest for Crypto Riches Is a Constitutional Scandal Waiting to Happen](https://www.wired.com/story/trumps-quest-for-crypto-riches-is-a-constitutional-scandal-waiting-to-happen/)
+ - [In an hour-long Q&amp;A with reporters, Elon Musk talked DOGE, including acknowledging its shortcoming, leaving the US government, working with Trump, and more &lpar;Alex Isenstadt/Axios&rpar;](http://www.techmeme.com/250501/p21#a250501p21)
  - [Q&amp;A with Mark Zuckerberg on LlamaCon, Llama API, Meta&#39;s AI opportunity, social networking 2.0, Ray-Bans, Apple, the Meta AI app, tariffs, Reality Labs, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250501/p20#a250501p20)
  - [Uber launches a simpler UI for older adults, offering larger text, easy to find saved destinations, and fewer homescreen buttons; Lyft plans a similar update &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250501/p19#a250501p19)
- - [15 Best Coffee Subscriptions to Keep You Wired &lpar;2025&rpar;](https://www.wired.com/gallery/best-coffee-subscriptions/)
- - [Play Clair Obscur, Call of Duty and More on Xbox Game Pass Now](https://www.cnet.com/tech/services-and-software/play-clair-obscur-call-of-duty-and-more-on-xbox-game-pass-now/#ftag=CAD590a51e)
- - [iPhone 16 Plus vs. iPhone 16 Pro Max: How the Latest Big iPhones Compare](https://www.cnet.com/tech/mobile/iphone-16-plus-vs-iphone-16-pro-max-how-the-latest-big-iphones-compare/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [15 Best Coffee Subscriptions to Keep You Wired &lpar;2025&rpar;](https://www.wired.com/gallery/best-coffee-subscriptions/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

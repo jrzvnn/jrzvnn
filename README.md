@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Uber launches a simpler UI for older adults, offering larger text, easy to find saved destinations, and fewer homescreen buttons; Lyft plans a similar update &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250501/p19#a250501p19)
+ - [15 Best Coffee Subscriptions to Keep You Wired &lpar;2025&rpar;](https://www.wired.com/gallery/best-coffee-subscriptions/)
  - [As Trump closes the de minimis exemption on May 2, small online sellers on platforms like Etsy and eBay scramble to adapt; DHL and FedEx face duties up to 145% &lpar;Danielle Kaye/New York Times&rpar;](http://www.techmeme.com/250501/p18#a250501p18)
  - [On Meta&#39;s Q1 call, Mark Zuckerberg says WhatsApp now has 3B+ MAUs, up from 2B in February 2020 and 1.5B in January 2018; Facebook passed 3B MAUs in July 2023 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250501/p17#a250501p17)
- - [2025 Is the Year of the Humanoid Robot Factory Worker](https://www.wired.com/story/2025-year-of-the-humanoid-robot-factory-worker/)
- - [Global smartphone shipments rose 0.2% to 296.9M in Q1 2025; Samsung shipped 60.5M units for a 20% market share and Apple shipped 55M units for a 19% share &lpar;Canalys&rpar;](http://www.techmeme.com/250501/p16#a250501p16)
- - [Tesla board denies report it wanted to replace Elon Musk](https://www.theverge.com/news/659396/tesla-new-ceo-elon-musk-replacement-wsj-report-denial)<!-- TECH:END -->
+ - [2025 Is the Year of the Humanoid Robot Factory Worker](https://www.wired.com/story/2025-year-of-the-humanoid-robot-factory-worker/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

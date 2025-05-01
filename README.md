@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Journalist interviews a random train passanger about the blackout in Spain](http://9gag.com/gag/aGyG4Y6)
- - 😝 [Did she consult a lawyer before stealing? hahahaha](http://9gag.com/gag/a2vDe09)
- - 💣 [When you do a really good job](http://9gag.com/gag/a348r61)
+ - 😝 [In the name of Father](http://9gag.com/gag/a9ym0V0)
+ - 💣 [Meme](http://9gag.com/gag/adBxELd)
  - 😝 [Terrifying](http://9gag.com/gag/aLnA57M)
- - 👉 [In the name of Father](http://9gag.com/gag/a9ym0V0)<!-- MEMES:END -->
+ - 👉 [I need to go to Japan to clear this image that every Westerner has a big dick.](http://9gag.com/gag/avyxNNO)<!-- MEMES:END -->
 
 ---
 

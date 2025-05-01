@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google launches Little Language Lessons, three experimental AI tools to help users learn specific phrases in a new language, sound less formal, and more &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250501/p4#a250501p4)
  - [Kadrey v. Meta, centered on the use of LibGen to train Llama AI models, begins Thursday and marks the first big test in the ongoing battle over AI and copyright &lpar;Financial Times&rpar;](http://www.techmeme.com/250501/p3#a250501p3)
  - [Adidas Promo Codes &amp; Deals: 25% Off](https://www.wired.com/story/adidas-promo-code/)
  - [Tuft &amp; Needle Promo Codes: 20% Off | May 2025](https://www.wired.com/story/tuft-and-needle-promo-code/)
- - [VistaPrint Coupon: Get Up to $50 Off](https://www.wired.com/story/vistaprint-coupon-code/)
- - [These Are the Best Camera Phones for 2025 That We Tested](https://www.cnet.com/tech/mobile/best-camera-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [VistaPrint Coupon: Get Up to $50 Off](https://www.wired.com/story/vistaprint-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

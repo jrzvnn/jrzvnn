@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Frank Castle, ladies and gents](http://9gag.com/gag/a1mVjX6)
- - 😝 [Outsmarted the outsmarter](http://9gag.com/gag/avyxwpd)
- - 💣 [Super Based. Woman interrupts Muslim Rally at Texas State Capitol.](http://9gag.com/gag/aAyM902)
- - 😝 [SuperShopper](http://9gag.com/gag/a87exMV)
- - 👉 [This never gets old](http://9gag.com/gag/aPAe2oG)<!-- MEMES:END -->
+ - 😝 [Foam depot tool](http://9gag.com/gag/a4PAvKw)
+ - 😝 [Profesor Gandalf](http://9gag.com/gag/aLnA7eW)
+ - 💣 [Let me guess, yet another fund raiser for the perpetrator to Buy Large Mansions?](http://9gag.com/gag/aNDB7x6)
+ - 😝 [The waterfalls changes into lava falls when the sunsets](http://9gag.com/gag/aZZE5R9)
+ - 👉 [The Trick](http://9gag.com/gag/aLnA75A)<!-- MEMES:END -->
 
 ---
 

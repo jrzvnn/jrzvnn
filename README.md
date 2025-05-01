@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LinkedIn Games Are Still the Best Part of LinkedIn](https://www.wired.com/story/games-are-still-the-best-part-of-linkedin/)
- - [Sinners is getting an IMAX re-release](https://www.theverge.com/news/659658/sinners-70mm-imax-rerelease)
- - [Sources: AWS is developing an AI-assisted coding service that offers features similar to Cursor and goes beyond its current coding assistant Amazon Q Developer &lpar;Kevin McLaughlin/The Information&rpar;](http://www.techmeme.com/250501/p43#a250501p43)
- - [The Dangerous Decline in Vaccination Rates](https://www.wired.com/story/uncanny-valley-podcast-vaccination-rates-declining-measles-rfk/)
- - [Epic Games Store Webshops launches to help iOS developers offer out-of-app purchases](https://appleinsider.com/articles/25/05/01/epic-games-store-webshops-launches-to-help-ios-developers-offer-out-of-app-purchases?utm_medium=rss)<!-- TECH:END -->
+ - [In a case related to its Activision acquisition, Microsoft dropped a law firm that settled with Trump in favor of a firm that is fighting a Trump EO &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/250501/p44#a250501p44)
+ - [The 40 Best Movies on Hulu This Week &lpar;May 2025&rpar;](https://www.wired.com/story/best-movies-hulu-right-now/)
+ - [Google dusts off Google Voice and adds three-way calling](https://www.theverge.com/news/659719/google-voice-app-update-call-ui-merge-three-way)
+ - [Shokz’ new open headphones don’t care what ear you clip them to](https://www.theverge.com/news/659701/shokz-opendots-one-bluetooth-wireless-headphones-open)
+ - [LinkedIn Games Are Still the Best Part of LinkedIn](https://www.wired.com/story/games-are-still-the-best-part-of-linkedin/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gruve.ai, which aims to change the traditional IT consultancy model by using AI agents to improve enterprise margins, raised a $20M Series A led by Mayfield &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250501/p12#a250501p12)
  - [Experts say China&#39;s hacking breakthroughs have become more secretive since laws began requiring researchers to report vulnerabilities to the government first &lpar;Jamie Tarabay/Bloomberg&rpar;](http://www.techmeme.com/250501/p11#a250501p11)
  - [Norway&#39;s $1.8T oil fund aims to save $400M from its $2B in annual trading costs by using AI to trade more efficiently, and it has already saved nearly $100M &lpar;Financial Times&rpar;](http://www.techmeme.com/250501/p10#a250501p10)
  - [Will CapCut Be Banned With TikTok? These Alternatives Could Be the Answer](https://www.cnet.com/tech/services-and-software/will-capcut-be-banned-with-tiktok-these-alternatives-could-be-the-answer/#ftag=CAD590a51e)
- - [North Korea Stole Your Job](https://www.wired.com/story/north-korea-stole-your-tech-job-ai-interviews/)
- - [EcoFlow Wave 3 review: a portable A/C and heater that&amp;#8217;s better in every way](https://www.theverge.com/reviews/658641/ecoflow-wave-3-air-conditioner-review-vanlife)<!-- TECH:END -->
+ - [North Korea Stole Your Job](https://www.wired.com/story/north-korea-stole-your-tech-job-ai-interviews/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

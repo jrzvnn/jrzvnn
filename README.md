@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Journalist interviews a random train passanger about the blackout in Spain](http://9gag.com/gag/aGyG4Y6)
- - 😝 [In the name of Father](http://9gag.com/gag/a9ym0V0)
- - 💣 [Meme](http://9gag.com/gag/adBxELd)
- - 😝 [Terrifying](http://9gag.com/gag/aLnA57M)
- - 👉 [I need to go to Japan to clear this image that every Westerner has a big dick.](http://9gag.com/gag/avyxNNO)<!-- MEMES:END -->
+ - 😝 [Smartphone concept from 2013](http://9gag.com/gag/a1mV9w2)
+ - 😝 [Meme](http://9gag.com/gag/adBxELd)
+ - 💣 [Let\u2019s Play!](http://9gag.com/gag/aqyxPAv)
+ - 😝 [The Princess didn\u2019t like the cocaine she just liked the smell of it.](http://9gag.com/gag/aKG8o0O)
+ - 👉 [In the name of Father](http://9gag.com/gag/a9ym0V0)<!-- MEMES:END -->
 
 ---
 

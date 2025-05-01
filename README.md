@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Fortnite&#39; could return to Apple App Store after Judge finds Apple in violation of injunction](https://appleinsider.com/articles/25/04/30/fortnite-could-return-to-apple-app-store-after-judge-finds-apple-in-violation-of-injunction?utm_medium=rss)
- - [A US judge rules Apple violated a court order in Epic&#39;s case to open the App Store to outside payment options, and refers Apple for a criminal contempt probe &lpar;Josh Sisco/Bloomberg&rpar;](http://www.techmeme.com/250430/p55#a250430p55)
- - [A judge just blew up Apple&amp;#8217;s control of the App Store](https://www.theverge.com/news/659246/apple-epic-app-store-judge-ruling-control)
- - [In Meta&#39;s earnings call, Mark Zuckerberg says the company plans to add ads to the Meta AI app, plus a paid tier for more compute and functionality &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250430/p54#a250430p54)
- - [US v. Google: Sundar Pichai said Google expects to strike a Gemini deal with Apple by mid-2025 and Tim Cook told him Apple plans to add more AI models this year &lpar;The Verge&rpar;](http://www.techmeme.com/250430/p53#a250430p53)<!-- TECH:END -->
+ - [Sources: about a month ago, Tesla board members opened a search for a CEO to succeed Elon Musk; the current status of the succession planning is not clear &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250430/p59#a250430p59)
+ - [AWS launches Nova Premier, which can process text, images, and videos, and is priced at $2.50/1M input tokens and $12.50/1M output tokens, available in Bedrock &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250430/p58#a250430p58)
+ - [Fortnite Is Making Its Way Back to the Apple App Store](https://www.cnet.com/tech/gaming/fortnite-is-once-again-making-its-way-back-to-the-apple-app-store/#ftag=CAD590a51e)
+ - [Tim Sweeney says Epic plans to submit Fortnite to the US iOS App Store next week and offers a &quot;peace proposal&quot; to end all litigation over App Store policies &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/250430/p57#a250430p57)
+ - [&#39;Fortnite&#39; could return to Apple App Store if Apple accepts Epic peace proposal](https://appleinsider.com/articles/25/05/01/fortnite-could-return-to-apple-app-store-if-apple-accepts-epic-peace-proposal?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

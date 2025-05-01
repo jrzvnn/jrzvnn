@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sinners is getting an IMAX re-release](https://www.theverge.com/news/659658/sinners-70mm-imax-rerelease)
+ - [Sources: AWS is developing an AI-assisted coding service that offers features similar to Cursor and goes beyond its current coding assistant Amazon Q Developer &lpar;Kevin McLaughlin/The Information&rpar;](http://www.techmeme.com/250501/p43#a250501p43)
  - [The Dangerous Decline in Vaccination Rates](https://www.wired.com/story/uncanny-valley-podcast-vaccination-rates-declining-measles-rfk/)
  - [Epic Games Store Webshops launches to help iOS developers offer out-of-app purchases](https://appleinsider.com/articles/25/05/01/epic-games-store-webshops-launches-to-help-ios-developers-offer-out-of-app-purchases?utm_medium=rss)
- - [Game developer Scopely says Monopoly Go! crossed $5B in gross bookings in just 24 months, significantly ahead of the previous benchmark of 40 months &lpar;Rachel Kaser/VentureBeat&rpar;](http://www.techmeme.com/250501/p42#a250501p42)
- - [Uber Is Making It Easier for Seniors to Book Rides](https://www.cnet.com/tech/services-and-software/uber-is-making-it-easier-for-seniors-to-book-rides/#ftag=CAD590a51e)
- - [It&#39;s Gonna Be Meme: Justin Timberlake&#39;s Iconic May Joke Turns 25](https://www.cnet.com/tech/its-gonna-be-may-justin-timberlake-meme-unofficial-anthem/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Game developer Scopely says Monopoly Go! crossed $5B in gross bookings in just 24 months, significantly ahead of the previous benchmark of 40 months &lpar;Rachel Kaser/VentureBeat&rpar;](http://www.techmeme.com/250501/p42#a250501p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

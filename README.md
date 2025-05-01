@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice view](http://9gag.com/gag/aNDBNDK)
- - 😝 [What a cover](http://9gag.com/gag/a87eRBZ)
- - 💣 [A classic!](http://9gag.com/gag/a348XdN)
- - 😝 [In the name of Father](http://9gag.com/gag/a9ym0V0)
- - 👉 [When you do a really good job](http://9gag.com/gag/a348r61)<!-- MEMES:END -->
+ - 😝 [The waterfalls changes into lava falls when the sunsets](http://9gag.com/gag/aZZE5R9)
+ - 😝 [The Trick](http://9gag.com/gag/aLnA75A)
+ - 💣 [Old but gold. Joy.](http://9gag.com/gag/axyOqwL)
+ - 😝 [Foam depot tool](http://9gag.com/gag/a4PAvKw)
+ - 👉 [Waiting for it...](http://9gag.com/gag/aqyxPZv)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Smartphone concept from 2013](http://9gag.com/gag/a1mV9w2)
- - 😝 [Meme](http://9gag.com/gag/adBxELd)
- - 💣 [Let\u2019s Play!](http://9gag.com/gag/aqyxPAv)
- - 😝 [The Princess didn\u2019t like the cocaine she just liked the smell of it.](http://9gag.com/gag/aKG8o0O)
- - 👉 [In the name of Father](http://9gag.com/gag/a9ym0V0)<!-- MEMES:END -->
+ - 😝 [When you do a really good job](http://9gag.com/gag/a348r61)
+ - 😝 [Up for anything...](http://9gag.com/gag/ajPxwe8)
+ - 💣 [High five, little basketball player](http://9gag.com/gag/abAxn8B)
+ - 😝 [In the name of Father](http://9gag.com/gag/a9ym0V0)
+ - 👉 [I need to go to Japan to clear this image that every Westerner has a big dick.](http://9gag.com/gag/avyxNNO)<!-- MEMES:END -->
 
 ---
 

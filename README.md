@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [2025 Is the Year of the Humanoid Robot Factory Worker](https://www.wired.com/story/2025-year-of-the-humanoid-robot-factory-worker/)
  - [Global smartphone shipments rose 0.2% to 296.9M in Q1 2025; Samsung shipped 60.5M units for a 20% market share and Apple shipped 55M units for a 19% share &lpar;Canalys&rpar;](http://www.techmeme.com/250501/p16#a250501p16)
  - [Tesla board denies report it wanted to replace Elon Musk](https://www.theverge.com/news/659396/tesla-new-ceo-elon-musk-replacement-wsj-report-denial)
  - [Microsoft releases three Phi-4 reasoning models on Hugging Face, expanding its Phi &quot;small model&quot; family, which it launched in May 2024 for edge app developers &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250501/p15#a250501p15)
- - [Microsoft says GitHub Copilot has 15M+ users, up 4x YoY; GitHub CEO Thomas Dohmke says its code review agent, launched in April, has handled 8M+ pull requests &lpar;Paul Thurrott/Thurrott&rpar;](http://www.techmeme.com/250501/p14#a250501p14)
- - [An oral history from 19 current and former natural language processing researchers of the past five years, including how LLMs and ChatGPT disrupted their fields &lpar;John Pavlus/Quanta Magazine&rpar;](http://www.techmeme.com/250501/p13#a250501p13)<!-- TECH:END -->
+ - [Microsoft says GitHub Copilot has 15M+ users, up 4x YoY; GitHub CEO Thomas Dohmke says its code review agent, launched in April, has handled 8M+ pull requests &lpar;Paul Thurrott/Thurrott&rpar;](http://www.techmeme.com/250501/p14#a250501p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

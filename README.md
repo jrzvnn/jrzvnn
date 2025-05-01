@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Christian Bale had initially turned down the possibility of appearing in any comic book or superhero films after Batman, seeing the genre as uninteresting. He agreed to take part in \u201cThor: Love and Thunder\u201d after his kids begged him to take the role. His performance outstands all](http://9gag.com/gag/aD2bKP9)
- - 😝 [When you do a really good job](http://9gag.com/gag/a348r61)
- - 💣 [SuperShopper](http://9gag.com/gag/a87exMV)
- - 😝 [Outsmarted the outsmarter](http://9gag.com/gag/avyxwpd)
- - 👉 [In the name of Father](http://9gag.com/gag/a9ym0V0)<!-- MEMES:END -->
+ - 😝 [Terrifying](http://9gag.com/gag/aLnA57M)
+ - 😝 [From my archive](http://9gag.com/gag/aAyMAML)
+ - 💣 [Journalist interviews a random train passanger about the blackout in Spain](http://9gag.com/gag/aGyG4Y6)
+ - 😝 [Wtf bruh](http://9gag.com/gag/aD2bKr9)
+ - 👉 [When you do a really good job](http://9gag.com/gag/a348r61)<!-- MEMES:END -->
 
 ---
 

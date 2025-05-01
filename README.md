@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The waterfalls changes into lava falls when the sunsets](http://9gag.com/gag/aZZE5R9)
- - 😝 [The Trick](http://9gag.com/gag/aLnA75A)
- - 💣 [Old but gold. Joy.](http://9gag.com/gag/axyOqwL)
- - 😝 [Foam depot tool](http://9gag.com/gag/a4PAvKw)
- - 👉 [Waiting for it...](http://9gag.com/gag/aqyxPZv)<!-- MEMES:END -->
+ - 😝 [In the name of Father](http://9gag.com/gag/a9ym0V0)
+ - 😝 [Nice view](http://9gag.com/gag/aNDBNDK)
+ - 💣 [Frank Castle, ladies and gents](http://9gag.com/gag/a1mVjX6)
+ - 😝 [Meme](http://9gag.com/gag/adBxELd)
+ - 👉 [Chinese tourist deals with pickpocket in Barcelona, 29.04.2025](http://9gag.com/gag/azxO3Kj)<!-- MEMES:END -->
 
 ---
 

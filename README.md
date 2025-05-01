@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple reports second quarter results &lpar;Apple Inc.&rpar;](http://www.techmeme.com/250501/p51#a250501p51)
+ - [Airbnb reports Q1 revenue up 6% YoY to $2.27B, vs. $2.26B est., Gross Booking Value up 7% YoY to $24.5B, in line with est., and forecasts Q2 revenue below est. &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250501/p50#a250501p50)
+ - [Reddit reports Q1 revenue up 61% YoY to $392M, vs. $370M est., global daily active uniques up 31% to 108.1M, Q2 guidance above est.; RDDT jumps 15%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250501/p49#a250501p49)
  - [Aurora’s driverless trucks are making deliveries in Texas](https://www.theverge.com/news/659518/aurora-autonomous-truck-first-delivery-texas)
- - [Mother&#39;s Day mega deals: Apple gear on sale from $15](https://appleinsider.com/articles/25/05/01/mothers-day-mega-deals-apple-gear-on-sale-from-15?utm_medium=rss)
- - [Amazon reports Q1 ad revenue up 18% YoY to $13.92B, vs. $13.74B est., and subscription services revenue up 9% YoY to $11.72B &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250501/p48#a250501p48)
- - [Amazon reports Q1 AWS revenue up 17% YoY to $29.3B, vs. $29.42B est., and AWS operating income up 23% YoY to $11.55B &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250501/p47#a250501p47)
- - [Amazon reports Q1 revenue up 9% YoY to $155.7B, operating income of $18.4B, up from $15.3B in Q1 2024, and net income of $17.1B, up from $10.4B in Q1 2024 &lpar;Amazon.com, Inc.&rpar;](http://www.techmeme.com/250501/p46#a250501p46)<!-- TECH:END -->
+ - [Mother&#39;s Day mega deals: Apple gear on sale from $15](https://appleinsider.com/articles/25/05/01/mothers-day-mega-deals-apple-gear-on-sale-from-15?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [North Korea Stole Your Job](https://www.wired.com/story/north-korea-stole-your-tech-job-ai-interviews/)
  - [EcoFlow Wave 3 review: a portable A/C and heater that&amp;#8217;s better in every way](https://www.theverge.com/reviews/658641/ecoflow-wave-3-air-conditioner-review-vanlife)
  - [AI tools from Google, LinkedIn, Salesforce, and others are helping job seekers sell their skills, identify new roles, and tailor résumés to different fields &lpar;Lindsay Ellis/Wall Street Journal&rpar;](http://www.techmeme.com/250501/p9#a250501p9)
  - [Alibaba releases Qwen2.5-Omni-3B, a scaled-down 3B-parameter variant of its flagship 7B-parameter multimodal model, designed to run on consumer PCs and laptops &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250501/p8#a250501p8)
- - [JetBrains makes Mellum, its 4B-parameter code-generating AI model released last year, openly available on Hugging Face under an Apache 2.0 license &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250501/p7#a250501p7)
- - [A researcher says Windows RDP lets users log in using passwords that have been revoked or changed; Microsoft says it has no plans to change the behavior &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/250501/p6#a250501p6)<!-- TECH:END -->
+ - [JetBrains makes Mellum, its 4B-parameter code-generating AI model released last year, openly available on Hugging Face under an Apache 2.0 license &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250501/p7#a250501p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

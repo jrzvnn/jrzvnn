@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Old but gold. Joy.](http://9gag.com/gag/axyOqwL)
- - 😝 [Nice view](http://9gag.com/gag/aNDBNDK)
- - 💣 [It was at this moment](http://9gag.com/gag/a0en3gZ)
- - 😝 [Down in one](http://9gag.com/gag/aQzmGeK)
- - 👉 [Waiting for it...](http://9gag.com/gag/aqyxPZv)<!-- MEMES:END -->
+ - 😝 [When you do a really good job](http://9gag.com/gag/a348r61)
+ - 😝 [I need to go to Japan to clear this image that every Westerner has a big dick.](http://9gag.com/gag/avyxNNO)
+ - 💣 [Terrifying](http://9gag.com/gag/aLnA57M)
+ - 😝 [Let\u2019s Play!](http://9gag.com/gag/aqyxPAv)
+ - 👉 [Did she consult a lawyer before stealing? hahahaha](http://9gag.com/gag/a2vDe09)<!-- MEMES:END -->
 
 ---
 

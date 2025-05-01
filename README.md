@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic Games says it will take a 0% store fee from developers on their first $1M in revenue per app per year, and plans to let developers launch own webshops &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/250501/p38#a250501p38)
- - [LinkedIn will share ad revenue with creators for the first time, starting with 30 B2B creators, and says users now watch 36% more video content than a year ago &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/250501/p37#a250501p37)
- - [Google is putting AI Mode right in Search](https://www.theverge.com/news/659448/google-ai-mode-search-public-test-us)
- - [Google says &quot;a small percentage&quot; of people in the US will start seeing a tab in Search for its AI Mode chatbot &quot;in the coming weeks&quot; &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250501/p36#a250501p36)
- - [House Republicans move to stop California from setting its own vehicle pollution standards](https://www.theverge.com/news/659547/house-republicans-climate-california-car-truck-pollution-waiver-congressional-review)<!-- TECH:END -->
+ - [Data integration company Fivetran acquires Census, which helps companies move data out of databases and into operational tools and was valued at $630M in 2022 &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250501/p41#a250501p41)
+ - [Lyft launches ‘Lyft Silver’ for older riders, with simpler app and more accessible vehicles](https://www.theverge.com/lyft/659621/lyft-silver-older-riders-seniors-app-vehicles)
+ - [SanDisk Extreme Pro with USB 4 review: Good for Mac, avoid for Windows](https://appleinsider.com/articles/25/05/01/sandisk-extreme-pro-with-usb-4-review-good-for-mac-avoid-for-windows?utm_medium=rss)
+ - [Redis, the popular in-memory data store, returns its main system to open source license AGPL, after facing criticism in 2024 for moving to a dual-license model &lpar;Lindsay Clark/The Register&rpar;](http://www.techmeme.com/250501/p40#a250501p40)
+ - [Apple slapped with $502M bill for UK cellular patent infringement](https://appleinsider.com/articles/25/05/01/apple-slapped-with-502m-bill-for-uk-cellular-patent-infringement?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

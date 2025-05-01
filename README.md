@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [True Anomaly, which designs hardware and software for military and intelligence space reconnaissance, raised a $260M Series C led by Accel &lpar;Sandra Erwin/SpaceNews&rpar;](http://www.techmeme.com/250501/p29#a250501p29)
  - [GM thanks Trump for the $5 billion tariff hit it expects to take](https://www.theverge.com/news/659491/gm-thanks-trump-for-the-5-billion-tariff-hit-it-expects-to-take)
  - [22 Mother&#39;s Day Gift Ideas Our Editors Have Tried and Love &lpar;2025&rpar;](https://www.wired.com/gallery/best-mothers-day-gifts-2025/)
  - [Think Twice Before Creating That ChatGPT Action Figure](https://www.wired.com/story/chatgpt-image-generator-action-figure-privacy/)
- - [Pinterest rolls out global AI labels to mark images made or edited with generative AI, adding an &quot;AI modified&quot; stamp, via metadata analysis and AI classifiers &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250501/p28#a250501p28)
- - [Epic Games vs Apple -- The continuing App Store saga](https://appleinsider.com/articles/20/08/23/apple-versus-epic-games-fortnite-app-store-saga----the-story-so-far?utm_medium=rss)<!-- TECH:END -->
+ - [Pinterest rolls out global AI labels to mark images made or edited with generative AI, adding an &quot;AI modified&quot; stamp, via metadata analysis and AI classifiers &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250501/p28#a250501p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

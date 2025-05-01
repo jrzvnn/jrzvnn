@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple to buy back $100 billion in stock, raise dividend by 4%](https://appleinsider.com/articles/25/05/01/apple-to-buy-back-100-billion-in-stock-raise-dividend-by-4?utm_medium=rss)
- - [Last quarter before Trump tariffs sees Apple beat Wall Street with $95.4 billion earnings](https://appleinsider.com/articles/25/05/01/trump-tariff-fears-drove-apple-to-wall-street-beating-954-billion-q2-earnings?utm_medium=rss)
- - [Apple reports Q2 revenue from Services, which includes the App Store, Apple TV+, and Apple Music, up 12% YoY to $26.65B, an all-time high but below $26.7B est. &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250501/p53#a250501p53)
- - [Apple Q2: iPhone up 2% YoY to $46.84B, vs. $45.84B est., Mac up 7% to $7.95B, iPad up 15% to $6.4B, and Wearables, Home, and Accessories down 5% to $7.52B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250501/p52#a250501p52)
- - [Apple reports Q2 revenue up 5% YoY to $95.4B, vs. $94.66B est., net income up 5% to $24.78B, China net sales down 2% to $16B &lpar;Apple Inc.&rpar;](http://www.techmeme.com/250501/p51#a250501p51)<!-- TECH:END -->
+ - [Block reports Q1 revenue down 3% YoY to $5.77B, vs. $6.2B est., gross profit up 9% to $2.3B, below est., issues weak profit guidance; XYZ drops 15%+ after hours &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250501/p56#a250501p56)
+ - [Instacart reports Q1 revenue up 9% YoY to $897M, gross transaction volume up 10% to $9.1B, forecasts Q2 adjusted EBITDA above est.; CART jumps 6%+ after hours &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250501/p55#a250501p55)
+ - [Apple doesn’t seem too worried about Trump’s tariffs](https://www.theverge.com/news/659650/apple-q2-2025-earnings-tariffs-app-store)
+ - [Roku reports Q1 revenue up 16% YoY to $1.02B vs. $1.01B est., a net loss of $27.4M, compared to $50.9M a year ago, and stops posting streaming household figures &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250501/p54#a250501p54)
+ - [Apple to buy back $100 billion in stock, raise dividend by 4%](https://appleinsider.com/articles/25/05/01/apple-to-buy-back-100-billion-in-stock-raise-dividend-by-4?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

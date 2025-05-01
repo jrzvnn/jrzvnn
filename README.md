@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice view](http://9gag.com/gag/aNDBNDK)
- - 😝 [Journalist interviews a random train passanger about the blackout in Spain](http://9gag.com/gag/aGyG4Y6)
- - 💣 [Wtf bruh](http://9gag.com/gag/aD2bKr9)
  - 😝 [SuperShopper](http://9gag.com/gag/a87exMV)
- - 👉 [Let\u2019s Play!](http://9gag.com/gag/aqyxPAv)<!-- MEMES:END -->
+ - 😝 [Journalist interviews a random train passanger about the blackout in Spain](http://9gag.com/gag/aGyG4Y6)
+ - 💣 [Frank Castle, ladies and gents](http://9gag.com/gag/a1mVjX6)
+ - 😝 [Outsmarted the outsmarter](http://9gag.com/gag/avyxwpd)
+ - 👉 [Chinese tourist deals with pickpocket in Barcelona, 29.04.2025](http://9gag.com/gag/azxO3Kj)<!-- MEMES:END -->
 
 ---
 

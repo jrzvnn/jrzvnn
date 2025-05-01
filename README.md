@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon’s CEO says the company can weather challenges from tariffs because of how big it is](https://www.theverge.com/news/659868/amazon-ceo-andy-jassy-tariffs)
+ - [DJI&amp;#8217;s back-to-back Osmo Pocket 3 price hikes take it from $519 to $799 in two months](https://www.theverge.com/tech/659791/dji-osmo-pocket-3-price-hike-tariffs)
+ - [Tim Cook says Apple estimates tariffs will add $900M in costs for the June quarter, assuming the current tariff policy remains in place &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/250501/p57#a250501p57)
  - [iPhone panic buying ahead of Trump&#39;s tariff implementation was light](https://appleinsider.com/articles/25/05/01/iphone-panic-buying-ahead-of-trumps-tariff-implementation-was-light?utm_medium=rss)
- - [Last quarter before Trump tariffs sees Apple beat Wall Street with $95.4 billion earnings](https://appleinsider.com/articles/25/05/01/trump-tariff-fears-drove-apple-to-wall-street-beating-954-billion-q2-earnings?utm_medium=rss)
- - [Tim Cook: Half of Q2 iPhone sales in US came from India](https://appleinsider.com/articles/25/05/01/tim-cook-half-of-q2-iphone-sales-in-us-came-from-india?utm_medium=rss)
- - [Block reports Q1 revenue down 3% YoY to $5.77B, vs. $6.2B est., gross profit up 9% to $2.3B, below est., issues weak profit guidance; XYZ drops 15%+ after hours &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250501/p56#a250501p56)
- - [Instacart reports Q1 revenue up 9% YoY to $897M, gross transaction volume up 10% to $9.1B, forecasts Q2 adjusted EBITDA above est.; CART jumps 6%+ after hours &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250501/p55#a250501p55)<!-- TECH:END -->
+ - [Last quarter before Trump tariffs sees Apple beat Wall Street with $95.4 billion earnings](https://appleinsider.com/articles/25/05/01/trump-tariff-fears-drove-apple-to-wall-street-beating-954-billion-q2-earnings?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is raising prices on Xbox consoles, controllers, and games worldwide](https://www.theverge.com/news/659430/microsoft-xbox-console-controller-game-price-increases-worldwide)
- - [Roblox reports Q1 revenue up 29% YoY to ~$1B, Bookings up 31% YoY to ~$1.2B, above $1.11B est., and DAUs up 26% YoY to 97.8M, above 93.3M est.; RBLX jumps 8%+ &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250501/p24#a250501p24)
- - [Apple sure has had a rough 2025](https://www.theverge.com/apple/659359/apple-sure-has-had-a-rough-2025)
- - [Lenovo Legion Go S Review: Held Back By Microsoft](https://www.wired.com/review/lenovo-legion-go-s/)
- - [Meta updated Ray-Ban Meta smart glasses&#39; privacy policy on April 29 to enable the Hey Meta voice command by default, store voice recordings for a year, and more &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/250501/p23#a250501p23)<!-- TECH:END -->
+ - [Meta and Spotify are teaming up to lobby against Apple and Google](https://www.theverge.com/news/659443/meta-spotify-match-garmin-lobby-group-apple-google-age-verification)
+ - [London&#39;s Court of Appeal rules Apple must pay Optis $502M as a lump sum for using Optis&#39; 4G patents from 2013 to 2027, overturning a 2023 High Court decision &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/250501/p26#a250501p26)
+ - [Microsoft raises the prices of its Xbox Series S and X consoles, Xbox controllers, and some new Xbox games globally; the Xbox Series S is up $80 to $380 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250501/p25#a250501p25)
+ - [Apple gains market share as smartphone industry flatlines in early 2025](https://appleinsider.com/articles/25/05/01/apple-gains-market-share-as-smartphone-industry-flatlines-in-early-2025?utm_medium=rss)
+ - [EveryPlate Meal Kit Review &lpar;2025&rpar;: Low Cost, Good Taste](https://www.wired.com/review/everyplate-meal-kit/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

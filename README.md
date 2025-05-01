@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)
+ - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
  - [Spotify says it submitted an iOS app update letting US customers use other payment options beyond Apple&#39;s; Patreon earlier said it would do the same &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250501/p60#a250501p60)
  - [Microsoft goes passwordless by default on new accounts](https://www.theverge.com/news/659929/microsoft-passwordless-passkeys-by-default)
- - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)
- - [A Judge Says Meta’s AI Copyright Case Is About ‘the Next Taylor Swift’](https://www.wired.com/story/meta-lawsuit-copyright-hearing-artificial-intelligence/)
- - [The investigation into Pete Hegseth’s Signal group chats is growing](https://www.theverge.com/news/659878/the-investigation-into-pete-hegseths-signal-group-chats-is-growing)<!-- TECH:END -->
+ - [A Judge Says Meta’s AI Copyright Case Is About ‘the Next Taylor Swift’](https://www.wired.com/story/meta-lawsuit-copyright-hearing-artificial-intelligence/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

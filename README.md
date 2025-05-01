@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Foam depot tool](http://9gag.com/gag/a4PAvKw)
- - 😝 [Profesor Gandalf](http://9gag.com/gag/aLnA7eW)
- - 💣 [Let me guess, yet another fund raiser for the perpetrator to Buy Large Mansions?](http://9gag.com/gag/aNDB7x6)
- - 😝 [The waterfalls changes into lava falls when the sunsets](http://9gag.com/gag/aZZE5R9)
- - 👉 [The Trick](http://9gag.com/gag/aLnA75A)<!-- MEMES:END -->
+ - 😝 [Christian Bale had initially turned down the possibility of appearing in any comic book or superhero films after Batman, seeing the genre as uninteresting. He agreed to take part in \u201cThor: Love and Thunder\u201d after his kids begged him to take the role. His performance outstands all](http://9gag.com/gag/aD2bKP9)
+ - 😝 [When you do a really good job](http://9gag.com/gag/a348r61)
+ - 💣 [Journalist interviews a random train passanger about the blackout in Spain](http://9gag.com/gag/aGyG4Y6)
+ - 😝 [Wtf bruh](http://9gag.com/gag/aD2bKr9)
+ - 👉 [Outsmarted the outsmarter](http://9gag.com/gag/avyxwpd)<!-- MEMES:END -->
 
 ---
 

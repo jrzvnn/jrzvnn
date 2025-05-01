@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Polygon sold to GameRant owner Valnet](https://www.theverge.com/news/659575/polygon-vox-media-sold-valnet-gamerant)
- - [Polygon staffers, including co-founder and EIC Chris Plante, say the video games website has laid them off; sources say Vox Media sold Polygon to Valnet &lpar;Ethan Gach/Kotaku&rpar;](http://www.techmeme.com/250501/p35#a250501p35)
- - [Meta reignites its fight with Apple over platform power &amp; developer freedom](https://appleinsider.com/articles/25/05/01/meta-reignites-its-fight-with-apple-over-platform-power-developer-freedom?utm_medium=rss)
- - [Waymo is still good at avoiding serious death and destruction after 56.7 million miles](https://www.theverge.com/news/658952/waymo-injury-prevention-human-benchmark-study)
- - [Google is putting AI Mode right in Search](https://www.theverge.com/news/659448/google-ai-mode-search-public-test-us)<!-- TECH:END -->
+ - [LinkedIn will share ad revenue with creators for the first time, starting with 30 B2B creators, and says users now watch 36% more video content than a year ago &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/250501/p37#a250501p37)
+ - [Google is putting AI Mode right in Search](https://www.theverge.com/news/659448/google-ai-mode-search-public-test-us)
+ - [Google says &quot;a small percentage&quot; of people in the US will start seeing a tab in Search for its AI Mode chatbot &quot;in the coming weeks&quot; &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250501/p36#a250501p36)
+ - [House Republicans move to stop California from setting its own vehicle pollution standards](https://www.theverge.com/news/659547/house-republicans-climate-california-car-truck-pollution-waiver-congressional-review)
+ - [Polygon sold to GameRant owner Valnet](https://www.theverge.com/news/659575/polygon-vox-media-sold-valnet-gamerant)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

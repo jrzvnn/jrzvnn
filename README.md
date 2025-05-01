@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Dangerous Decline in Vaccination Rates](https://www.wired.com/story/uncanny-valley-podcast-vaccination-rates-declining-measles-rfk/)
+ - [Epic Games Store Webshops launches to help iOS developers offer out-of-app purchases](https://appleinsider.com/articles/25/05/01/epic-games-store-webshops-launches-to-help-ios-developers-offer-out-of-app-purchases?utm_medium=rss)
  - [Game developer Scopely says Monopoly Go! crossed $5B in gross bookings in just 24 months, significantly ahead of the previous benchmark of 40 months &lpar;Rachel Kaser/VentureBeat&rpar;](http://www.techmeme.com/250501/p42#a250501p42)
- - [Epic is offering developers an alternative to Apple&amp;#8217;s in-app purchases](https://www.theverge.com/news/659655/epic-games-store-revenue-share-webshops-apple-in-app-purchases)
- - [MoviePass’ next big pivot is basically blockchain sports betting for film buffs](https://www.theverge.com/film/659517/moviepass-mogul-nfts-mysten-sui-blockchain)
- - [Data integration company Fivetran acquires Census, which helps companies move data out of databases and into operational tools and was valued at $630M in 2022 &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250501/p41#a250501p41)
- - [Lyft launches ‘Lyft Silver’ for older riders, with simpler app and more accessible vehicles](https://www.theverge.com/lyft/659621/lyft-silver-older-riders-seniors-app-vehicles)<!-- TECH:END -->
+ - [Uber Is Making It Easier for Seniors to Book Rides](https://www.cnet.com/tech/services-and-software/uber-is-making-it-easier-for-seniors-to-book-rides/#ftag=CAD590a51e)
+ - [It&#39;s Gonna Be Meme: Justin Timberlake&#39;s Iconic May Joke Turns 25](https://www.cnet.com/tech/its-gonna-be-may-justin-timberlake-meme-unofficial-anthem/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [37 Best Graduation Gift Ideas &lpar;2025&rpar;: For College Grads](https://www.wired.com/gallery/best-graduation-gift-ideas-2024/)
  - [Dub, which lets users trade the same stock as celebrities and politicians like Nancy Pelosi, raised a $30M Series A co-led by Notable Capital and Neo &lpar;Catherine McGrath/Fortune&rpar;](http://www.techmeme.com/250501/p30#a250501p30)
  - [Fortnite’s Star Wars season will let you fly an X-Wing and use Force Lightning](https://www.theverge.com/news/659347/fortnite-star-wars-galactic-battle-season-battle-pass)
  - [Anker’s Soundcore Liberty 5 earbuds boost battery life but ditch heart rate tracking](https://www.theverge.com/news/659516/anker-soundcore-liberty-5-wireless-earbuds-bluetooth-dolby-audio)
- - [Epic vs. Apple: What Apple is being forced to do to the App Store](https://appleinsider.com/articles/25/05/01/epic-vs-apple-what-apple-is-being-forced-to-do-to-the-app-store?utm_medium=rss)
- - [11 Best Strollers for Almost Every Budget and Need &lpar;2025&rpar;](https://www.wired.com/gallery/best-stroller-for-kids/)<!-- TECH:END -->
+ - [Epic vs. Apple: What Apple is being forced to do to the App Store](https://appleinsider.com/articles/25/05/01/epic-vs-apple-what-apple-is-being-forced-to-do-to-the-app-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

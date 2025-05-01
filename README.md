@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Mark Zuckerberg on LlamaCon, Llama API, Meta&#39;s AI opportunity, social networking 2.0, Ray-Bans, Apple, the Meta AI app, tariffs, Reality Labs, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250501/p20#a250501p20)
  - [Uber launches a simpler UI for older adults, offering larger text, easy to find saved destinations, and fewer homescreen buttons; Lyft plans a similar update &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250501/p19#a250501p19)
  - [15 Best Coffee Subscriptions to Keep You Wired &lpar;2025&rpar;](https://www.wired.com/gallery/best-coffee-subscriptions/)
- - [As Trump closes the de minimis exemption on May 2, small online sellers on platforms like Etsy and eBay scramble to adapt; DHL and FedEx face duties up to 145% &lpar;Danielle Kaye/New York Times&rpar;](http://www.techmeme.com/250501/p18#a250501p18)
- - [On Meta&#39;s Q1 call, Mark Zuckerberg says WhatsApp now has 3B+ MAUs, up from 2B in February 2020 and 1.5B in January 2018; Facebook passed 3B MAUs in July 2023 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250501/p17#a250501p17)
- - [2025 Is the Year of the Humanoid Robot Factory Worker](https://www.wired.com/story/2025-year-of-the-humanoid-robot-factory-worker/)<!-- TECH:END -->
+ - [Play Clair Obscur, Call of Duty and More on Xbox Game Pass Now](https://www.cnet.com/tech/services-and-software/play-clair-obscur-call-of-duty-and-more-on-xbox-game-pass-now/#ftag=CAD590a51e)
+ - [iPhone 16 Plus vs. iPhone 16 Pro Max: How the Latest Big iPhones Compare](https://www.cnet.com/tech/mobile/iphone-16-plus-vs-iphone-16-pro-max-how-the-latest-big-iphones-compare/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

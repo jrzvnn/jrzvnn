@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Outsmarted the outsmarter](http://9gag.com/gag/avyxwpd)
  - 😝 [Who takes whom?](http://9gag.com/gag/azxOy3x)
- - 💣 [Profesor Gandalf](http://9gag.com/gag/aLnA7eW)
- - 😝 [DAM SON](http://9gag.com/gag/aYQM5dV)
- - 👉 [Chinese tourist deals with pickpocket in Barcelona, 29.04.2025](http://9gag.com/gag/azxO3Kj)<!-- MEMES:END -->
+ - 😝 [Profesor Gandalf](http://9gag.com/gag/aLnA7eW)
+ - 💣 [Journalist interviews a random train passanger about the blackout in Spain](http://9gag.com/gag/aGyG4Y6)
+ - 😝 [In the name of Father](http://9gag.com/gag/a9ym0V0)
+ - 👉 [DAM SON](http://9gag.com/gag/aYQM5dV)<!-- MEMES:END -->
 
 ---
 

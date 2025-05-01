@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Foam depot tool](http://9gag.com/gag/a4PAvKw)
- - 😝 [Woman throws food at a white woman because \u201cwhite people are inferior.\u201d Wait for it...](http://9gag.com/gag/agmxWxW)
- - 💣 [The waterfalls changes into lava falls when the sunsets](http://9gag.com/gag/aZZE5R9)
- - 😝 [The Trick](http://9gag.com/gag/aLnA75A)
- - 👉 [Old but gold. Joy.](http://9gag.com/gag/axyOqwL)<!-- MEMES:END -->
+ - 😝 [Nice view](http://9gag.com/gag/aNDBNDK)
+ - 😝 [What a cover](http://9gag.com/gag/a87eRBZ)
+ - 💣 [A classic!](http://9gag.com/gag/a348XdN)
+ - 😝 [In the name of Father](http://9gag.com/gag/a9ym0V0)
+ - 👉 [When you do a really good job](http://9gag.com/gag/a348r61)<!-- MEMES:END -->
 
 ---
 

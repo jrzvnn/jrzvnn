@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You&#39;re either gonna die or have a great relationship. Either way you just know she&#39;s gonna try to peg you. Gotta sleep with a pillow strapped around your ass when you sleep now](http://9gag.com/gag/ae9xz2p)
- - 😝 [High five, little basketball player](http://9gag.com/gag/abAxn8B)
- - 💣 [DAM SON](http://9gag.com/gag/aYQM5dV)
- - 😝 [When you do a really good job](http://9gag.com/gag/a348r61)
- - 👉 [Journalist interviews a random train passanger about the blackout in Spain](http://9gag.com/gag/aGyG4Y6)<!-- MEMES:END -->
+ - 😝 [Nature&#39;s version of sushi on a conveyor belt](http://9gag.com/gag/aAyMz5d)
+ - 😝 [Profesor Gandalf](http://9gag.com/gag/aLnA7eW)
+ - 💣 [Local tip from local guy](http://9gag.com/gag/aByEebP)
+ - 😝 [Can this run Doom?](http://9gag.com/gag/amox3X4)
+ - 👉 [The Trick](http://9gag.com/gag/aLnA75A)<!-- MEMES:END -->
 
 ---
 

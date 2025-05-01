@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [JetBrains makes Mellum, its 4B-parameter code-generating AI model released last year, openly available on Hugging Face under an Apache 2.0 license &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250501/p7#a250501p7)
+ - [A researcher says Windows RDP lets users log in using passwords that have been revoked or changed; Microsoft says it has no plans to change the behavior &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/250501/p6#a250501p6)
+ - [Sources: Adani Group pauses talks with Israel&#39;s Tower Semiconductor on a $10B chip project in Maharashtra, India, due to uncertainty over potential demand &lpar;Reuters&rpar;](http://www.techmeme.com/250501/p5#a250501p5)
  - [Google launches Little Language Lessons, three experimental AI tools to help users learn specific phrases in a new language, sound less formal, and more &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250501/p4#a250501p4)
- - [Kadrey v. Meta, centered on the use of LibGen to train Llama AI models, begins Thursday and marks the first big test in the ongoing battle over AI and copyright &lpar;Financial Times&rpar;](http://www.techmeme.com/250501/p3#a250501p3)
- - [Adidas Promo Codes &amp; Deals: 25% Off](https://www.wired.com/story/adidas-promo-code/)
- - [Tuft &amp; Needle Promo Codes: 20% Off | May 2025](https://www.wired.com/story/tuft-and-needle-promo-code/)
- - [VistaPrint Coupon: Get Up to $50 Off](https://www.wired.com/story/vistaprint-coupon-code/)<!-- TECH:END -->
+ - [Kadrey v. Meta, centered on the use of LibGen to train Llama AI models, begins Thursday and marks the first big test in the ongoing battle over AI and copyright &lpar;Financial Times&rpar;](http://www.techmeme.com/250501/p3#a250501p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

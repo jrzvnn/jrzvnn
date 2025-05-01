@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Old but gold. Joy.](http://9gag.com/gag/axyOqwL)
  - 😝 [Nice view](http://9gag.com/gag/aNDBNDK)
- - 😝 [I need to go to Japan to clear this image that every Westerner has a big dick.](http://9gag.com/gag/avyxNNO)
- - 💣 [High five, little basketball player](http://9gag.com/gag/abAxn8B)
- - 😝 [Let\u2019s Play!](http://9gag.com/gag/aqyxPAv)
- - 👉 [In the name of Father](http://9gag.com/gag/a9ym0V0)<!-- MEMES:END -->
+ - 💣 [It was at this moment](http://9gag.com/gag/a0en3gZ)
+ - 😝 [Down in one](http://9gag.com/gag/aQzmGeK)
+ - 👉 [Waiting for it...](http://9gag.com/gag/aqyxPZv)<!-- MEMES:END -->
 
 ---
 

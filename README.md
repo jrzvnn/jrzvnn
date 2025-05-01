@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Terrifying](http://9gag.com/gag/aLnA57M)
- - 😝 [From my archive](http://9gag.com/gag/aAyMAML)
- - 💣 [Journalist interviews a random train passanger about the blackout in Spain](http://9gag.com/gag/aGyG4Y6)
  - 😝 [Wtf bruh](http://9gag.com/gag/aD2bKr9)
- - 👉 [When you do a really good job](http://9gag.com/gag/a348r61)<!-- MEMES:END -->
+ - 😝 [Super Based. Woman interrupts Muslim Rally at Texas State Capitol.](http://9gag.com/gag/aAyM902)
+ - 💣 [Twirling a cane with their toes](http://9gag.com/gag/aLnA54g)
+ - 😝 [In the name of Father](http://9gag.com/gag/a9ym0V0)
+ - 👉 [Terrifying](http://9gag.com/gag/aLnA57M)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy hardcore](http://9gag.com/gag/aNDBE16)
- - 😝 [Sweet now i can watch my asian por-um.. political commentary and know what&#39;s going on](http://9gag.com/gag/aO895M2)
- - 💣 [Galaxy brain](http://9gag.com/gag/aAyM9Gg)
- - 😝 [Waiting for it...](http://9gag.com/gag/aqyxPZv)
- - 👉 [Local tip from local guy](http://9gag.com/gag/aByEebP)<!-- MEMES:END -->
+ - 😝 [Who takes whom?](http://9gag.com/gag/azxOy3x)
+ - 😝 [Chinese tourist deals with pickpocket in Barcelona, 29.04.2025](http://9gag.com/gag/azxO3Kj)
+ - 💣 [From my archive](http://9gag.com/gag/aAyMAML)
+ - 😝 [Profesor Gandalf](http://9gag.com/gag/aLnA7eW)
+ - 👉 [In the name of Father](http://9gag.com/gag/a9ym0V0)<!-- MEMES:END -->
 
 ---
 

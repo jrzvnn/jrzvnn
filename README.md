@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Super Based. Woman interrupts Muslim Rally at Texas State Capitol.](http://9gag.com/gag/aAyM902)
- - 😝 [Outsmarted the outsmarter](http://9gag.com/gag/avyxwpd)
- - 💣 [Who takes whom?](http://9gag.com/gag/azxOy3x)
- - 😝 [In the name of Father](http://9gag.com/gag/a9ym0V0)
- - 👉 [You&#39;ll do anything for $120?](http://9gag.com/gag/apRxneE)<!-- MEMES:END -->
+ - 😝 [Gramps!!](http://9gag.com/gag/aqyxE7L)
+ - 😝 [Profesor Gandalf](http://9gag.com/gag/aLnA7eW)
+ - 💣 [You&#39;ll do anything for $120?](http://9gag.com/gag/apRxneE)
+ - 😝 [Journalist interviews a random train passanger about the blackout in Spain](http://9gag.com/gag/aGyG4Y6)
+ - 👉 [Outsmarted the outsmarter](http://9gag.com/gag/avyxwpd)<!-- MEMES:END -->
 
 ---
 

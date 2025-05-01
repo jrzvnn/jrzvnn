@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: about a month ago, Tesla board members opened a search for a CEO to succeed Elon Musk; the current status of the succession planning is not clear &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250430/p59#a250430p59)
- - [AWS launches Nova Premier, which can process text, images, and videos, and is priced at $2.50/1M input tokens and $12.50/1M output tokens, available in Bedrock &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250430/p58#a250430p58)
- - [Fortnite Is Making Its Way Back to the Apple App Store](https://www.cnet.com/tech/gaming/fortnite-is-once-again-making-its-way-back-to-the-apple-app-store/#ftag=CAD590a51e)
- - [Tim Sweeney says Epic plans to submit Fortnite to the US iOS App Store next week and offers a &quot;peace proposal&quot; to end all litigation over App Store policies &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/250430/p57#a250430p57)
- - [&#39;Fortnite&#39; could return to Apple App Store if Apple accepts Epic peace proposal](https://appleinsider.com/articles/25/05/01/fortnite-could-return-to-apple-app-store-if-apple-accepts-epic-peace-proposal?utm_medium=rss)<!-- TECH:END -->
+ - [World&#39;s WLD launches in most of the US, including on Coinbase, starting this week, as Tools for Humanity debuts a portable &quot;orb mini&quot; device for iris scanning &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250430/p61#a250430p61)
+ - [Satechi Mac Mini M4 Hub &amp; Stand review: Small, but too tight on bandwidth](https://appleinsider.com/articles/25/05/01/satechi-mac-mini-m4-hub-stand-review-small-but-too-tight-on-bandwidth?utm_medium=rss)
+ - [Sam Altman&#39;s Eye-Scanning Orb Is Now Coming to the US](https://www.wired.com/story/sam-altman-orb-eyeball-scan-launch-us/)
+ - [Apple says it disagrees with the court&#39;s injunction in its dispute against Epic Games and plans to appeal, but will comply with the order in the meantime &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/250430/p60#a250430p60)
+ - [Apple exec ‘outright lied’ during Epic trial](https://www.theverge.com/news/659301/apple-executive-lied-under-oath-epic-alex-roman)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

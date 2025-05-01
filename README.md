@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple to buy back $100 billion in stock, raise dividend by 4%](https://appleinsider.com/articles/25/05/01/apple-to-buy-back-100-billion-in-stock-raise-dividend-by-4?utm_medium=rss)
+ - [Last quarter before Trump tariffs sees Apple beat Wall Street with $95.4 billion earnings](https://appleinsider.com/articles/25/05/01/trump-tariff-fears-drove-apple-to-wall-street-beating-954-billion-q2-earnings?utm_medium=rss)
+ - [Apple reports Q2 revenue from Services, which includes the App Store, Apple TV+, and Apple Music, up 12% YoY to $26.65B, an all-time high but below $26.7B est. &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250501/p53#a250501p53)
  - [Apple Q2: iPhone up 2% YoY to $46.84B, vs. $45.84B est., Mac up 7% to $7.95B, iPad up 15% to $6.4B, and Wearables, Home, and Accessories down 5% to $7.52B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250501/p52#a250501p52)
- - [Trump tariff fears drove Apple to Wall Street-beating $95.4 billion Q2 earnings](https://appleinsider.com/articles/25/05/01/trump-tariff-fears-drove-apple-to-wall-street-beating-954-billion-q2-earnings?utm_medium=rss)
- - [Apple reports Q2 revenue up 5% YoY to $95.4B, vs. $94.66B est., net income up 5% to $24.78B, China net sales down 2% to $16B &lpar;Apple Inc.&rpar;](http://www.techmeme.com/250501/p51#a250501p51)
- - [Airbnb reports Q1 revenue up 6% YoY to $2.27B, vs. $2.26B est., Gross Booking Value up 7% YoY to $24.5B, in line with est., and forecasts Q2 revenue below est. &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250501/p50#a250501p50)
- - [Reddit reports Q1 revenue up 61% YoY to $392M, vs. $370M est., global daily active uniques up 31% to 108.1M, Q2 guidance above est.; RDDT jumps 15%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250501/p49#a250501p49)<!-- TECH:END -->
+ - [Apple reports Q2 revenue up 5% YoY to $95.4B, vs. $94.66B est., net income up 5% to $24.78B, China net sales down 2% to $16B &lpar;Apple Inc.&rpar;](http://www.techmeme.com/250501/p51#a250501p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

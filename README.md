@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic Games vs Apple -- The continuing App Store saga](https://appleinsider.com/articles/20/08/23/apple-versus-epic-games-fortnite-app-store-saga----the-story-so-far?utm_medium=rss)
- - [Pinterest is finally doing something about its AI infestation](https://www.theverge.com/news/659485/pinterest-ai-image-label-filter-features)
- - [Sources: CVC and Blackstone invest $2B+ in equity and debt to take a minority stake in Istanbul-based Dream Games, which makes Royal Match, valuing it at ~$5B &lpar;Financial Times&rpar;](http://www.techmeme.com/250501/p27#a250501p27)
- - [Jazz legend Kamasi Washington was influenced by anime, and now he’s making music for one](https://www.theverge.com/interview/657483/lazarus-kamasi-washington-interview)
- - [Best Day Hiking Backpacks &lpar;2025&rpar;: Osprey, Rab, Yeti](https://www.wired.com/gallery/best-day-hiking-backpacks/)<!-- TECH:END -->
+ - [GM thanks Trump for the $5 billion tariff hit it expects to take](https://www.theverge.com/news/659491/gm-thanks-trump-for-the-5-billion-tariff-hit-it-expects-to-take)
+ - [22 Mother&#39;s Day Gift Ideas Our Editors Have Tried and Love &lpar;2025&rpar;](https://www.wired.com/gallery/best-mothers-day-gifts-2025/)
+ - [Think Twice Before Creating That ChatGPT Action Figure](https://www.wired.com/story/chatgpt-image-generator-action-figure-privacy/)
+ - [Pinterest rolls out global AI labels to mark images made or edited with generative AI, adding an &quot;AI modified&quot; stamp, via metadata analysis and AI classifiers &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250501/p28#a250501p28)
+ - [Epic Games vs Apple -- The continuing App Store saga](https://appleinsider.com/articles/20/08/23/apple-versus-epic-games-fortnite-app-store-saga----the-story-so-far?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

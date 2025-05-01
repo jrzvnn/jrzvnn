@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone panic buying ahead of Trump&#39;s tariff implementation was light](https://appleinsider.com/articles/25/05/01/iphone-panic-buying-ahead-of-trumps-tariff-implementation-was-light?utm_medium=rss)
+ - [Last quarter before Trump tariffs sees Apple beat Wall Street with $95.4 billion earnings](https://appleinsider.com/articles/25/05/01/trump-tariff-fears-drove-apple-to-wall-street-beating-954-billion-q2-earnings?utm_medium=rss)
+ - [Tim Cook: Half of Q2 iPhone sales in US came from India](https://appleinsider.com/articles/25/05/01/tim-cook-half-of-q2-iphone-sales-in-us-came-from-india?utm_medium=rss)
  - [Block reports Q1 revenue down 3% YoY to $5.77B, vs. $6.2B est., gross profit up 9% to $2.3B, below est., issues weak profit guidance; XYZ drops 15%+ after hours &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250501/p56#a250501p56)
- - [Instacart reports Q1 revenue up 9% YoY to $897M, gross transaction volume up 10% to $9.1B, forecasts Q2 adjusted EBITDA above est.; CART jumps 6%+ after hours &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250501/p55#a250501p55)
- - [Apple doesn’t seem too worried about Trump’s tariffs](https://www.theverge.com/news/659650/apple-q2-2025-earnings-tariffs-app-store)
- - [Roku reports Q1 revenue up 16% YoY to $1.02B vs. $1.01B est., a net loss of $27.4M, compared to $50.9M a year ago, and stops posting streaming household figures &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250501/p54#a250501p54)
- - [Apple to buy back $100 billion in stock, raise dividend by 4%](https://appleinsider.com/articles/25/05/01/apple-to-buy-back-100-billion-in-stock-raise-dividend-by-4?utm_medium=rss)<!-- TECH:END -->
+ - [Instacart reports Q1 revenue up 9% YoY to $897M, gross transaction volume up 10% to $9.1B, forecasts Q2 adjusted EBITDA above est.; CART jumps 6%+ after hours &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250501/p55#a250501p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

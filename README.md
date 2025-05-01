@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta and Spotify are teaming up to lobby against Apple and Google](https://www.theverge.com/news/659443/meta-spotify-match-garmin-lobby-group-apple-google-age-verification)
- - [London&#39;s Court of Appeal rules Apple must pay Optis $502M as a lump sum for using Optis&#39; 4G patents from 2013 to 2027, overturning a 2023 High Court decision &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/250501/p26#a250501p26)
- - [Microsoft raises the prices of its Xbox Series S and X consoles, Xbox controllers, and some new Xbox games globally; the Xbox Series S is up $80 to $380 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250501/p25#a250501p25)
- - [Apple gains market share as smartphone industry flatlines in early 2025](https://appleinsider.com/articles/25/05/01/apple-gains-market-share-as-smartphone-industry-flatlines-in-early-2025?utm_medium=rss)
- - [EveryPlate Meal Kit Review &lpar;2025&rpar;: Low Cost, Good Taste](https://www.wired.com/review/everyplate-meal-kit/)<!-- TECH:END -->
+ - [Pinterest is finally doing something about its AI infestation](https://www.theverge.com/news/659485/pinterest-ai-image-label-filter-features)
+ - [Sources: CVC and Blackstone invest $2B+ in equity and debt to take a minority stake in Istanbul-based Dream Games, which makes Royal Match, valuing it at ~$5B &lpar;Financial Times&rpar;](http://www.techmeme.com/250501/p27#a250501p27)
+ - [Jazz legend Kamasi Washington was influenced by anime, and now he’s making music for one](https://www.theverge.com/interview/657483/lazarus-kamasi-washington-interview)
+ - [Best Day Hiking Backpacks &lpar;2025&rpar;: Osprey, Rab, Yeti](https://www.wired.com/gallery/best-day-hiking-backpacks/)
+ - [Meta and Spotify are teaming up to lobby against Apple and Google](https://www.theverge.com/news/659443/meta-spotify-match-garmin-lobby-group-apple-google-age-verification)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

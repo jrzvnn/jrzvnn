@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [High five, little basketball player](http://9gag.com/gag/abAxn8B)
- - 😝 [Chinese tourist deals with pickpocket in Barcelona, 29.04.2025](http://9gag.com/gag/azxO3Kj)
- - 💣 [Outsmarted the outsmarter](http://9gag.com/gag/avyxwpd)
  - 😝 [In the name of Father](http://9gag.com/gag/a9ym0V0)
- - 👉 [You&#39;re either gonna die or have a great relationship. Either way you just know she&#39;s gonna try to peg you. Gotta sleep with a pillow strapped around your ass when you sleep now](http://9gag.com/gag/ae9xz2p)<!-- MEMES:END -->
+ - 😝 [Bro calculate every possibility before he spoke lol](http://9gag.com/gag/aLnA5OW)
+ - 💣 [You&#39;re either gonna die or have a great relationship. Either way you just know she&#39;s gonna try to peg you. Gotta sleep with a pillow strapped around your ass when you sleep now](http://9gag.com/gag/ae9xz2p)
+ - 😝 [When you do a really good job](http://9gag.com/gag/a348r61)
+ - 👉 [How do you do fellow victims?](http://9gag.com/gag/azxOwZK)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you do a really good job](http://9gag.com/gag/a348r61)
- - 😝 [I need to go to Japan to clear this image that every Westerner has a big dick.](http://9gag.com/gag/avyxNNO)
- - 💣 [Terrifying](http://9gag.com/gag/aLnA57M)
- - 😝 [Let\u2019s Play!](http://9gag.com/gag/aqyxPAv)
- - 👉 [Did she consult a lawyer before stealing? hahahaha](http://9gag.com/gag/a2vDe09)<!-- MEMES:END -->
+ - 😝 [Journalist interviews a random train passanger about the blackout in Spain](http://9gag.com/gag/aGyG4Y6)
+ - 😝 [Did she consult a lawyer before stealing? hahahaha](http://9gag.com/gag/a2vDe09)
+ - 💣 [When you do a really good job](http://9gag.com/gag/a348r61)
+ - 😝 [Terrifying](http://9gag.com/gag/aLnA57M)
+ - 👉 [In the name of Father](http://9gag.com/gag/a9ym0V0)<!-- MEMES:END -->
 
 ---
 

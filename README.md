@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Norway&#39;s $1.8T oil fund aims to save $400M from its $2B in annual trading costs by using AI to trade more efficiently, and it has already saved nearly $100M &lpar;Financial Times&rpar;](http://www.techmeme.com/250501/p10#a250501p10)
+ - [Will CapCut Be Banned With TikTok? These Alternatives Could Be the Answer](https://www.cnet.com/tech/services-and-software/will-capcut-be-banned-with-tiktok-these-alternatives-could-be-the-answer/#ftag=CAD590a51e)
  - [North Korea Stole Your Job](https://www.wired.com/story/north-korea-stole-your-tech-job-ai-interviews/)
  - [EcoFlow Wave 3 review: a portable A/C and heater that&amp;#8217;s better in every way](https://www.theverge.com/reviews/658641/ecoflow-wave-3-air-conditioner-review-vanlife)
- - [AI tools from Google, LinkedIn, Salesforce, and others are helping job seekers sell their skills, identify new roles, and tailor résumés to different fields &lpar;Lindsay Ellis/Wall Street Journal&rpar;](http://www.techmeme.com/250501/p9#a250501p9)
- - [Alibaba releases Qwen2.5-Omni-3B, a scaled-down 3B-parameter variant of its flagship 7B-parameter multimodal model, designed to run on consumer PCs and laptops &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250501/p8#a250501p8)<!-- TECH:END -->
+ - [AI tools from Google, LinkedIn, Salesforce, and others are helping job seekers sell their skills, identify new roles, and tailor résumés to different fields &lpar;Lindsay Ellis/Wall Street Journal&rpar;](http://www.techmeme.com/250501/p9#a250501p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

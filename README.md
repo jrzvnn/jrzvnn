@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Outsmarted the outsmarter](http://9gag.com/gag/avyxwpd)
- - 😝 [Wtf bruh](http://9gag.com/gag/aD2bKr9)
- - 💣 [When I grow up I will be a pirate](http://9gag.com/gag/aD2bvGG)
  - 😝 [Suffering of being success](http://9gag.com/gag/aGyGXvn)
- - 👉 [Meme](http://9gag.com/gag/adBxELd)<!-- MEMES:END -->
+ - 😝 [Terrifying](http://9gag.com/gag/aLnA57M)
+ - 💣 [Journalist interviews a random train passanger about the blackout in Spain](http://9gag.com/gag/aGyG4Y6)
+ - 😝 [When you do a really good job](http://9gag.com/gag/a348r61)
+ - 👉 [Is this a win/win?](http://9gag.com/gag/avyxMnb)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you do a really good job](http://9gag.com/gag/a348r61)
- - 😝 [In the name of Father](http://9gag.com/gag/a9ym0V0)
- - 💣 [Outsmarted the outsmarter](http://9gag.com/gag/avyxwpd)
- - 😝 [What a cover](http://9gag.com/gag/a87eRBZ)
- - 👉 [Profesor Gandalf](http://9gag.com/gag/aLnA7eW)<!-- MEMES:END -->
+ - 😝 [Wtf bruh](http://9gag.com/gag/aD2bKr9)
+ - 😝 [Let me guess, yet another fund raiser for the perpetrator to Buy Large Mansions?](http://9gag.com/gag/aNDB7x6)
+ - 💣 [Profesor Gandalf](http://9gag.com/gag/aLnA7eW)
+ - 😝 [Outsmarted the outsmarter](http://9gag.com/gag/avyxwpd)
+ - 👉 [What a cover](http://9gag.com/gag/a87eRBZ)<!-- MEMES:END -->
 
 ---
 

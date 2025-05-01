@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dub, which lets users trade the same stock as celebrities and politicians like Nancy Pelosi, raised a $30M Series A co-led by Notable Capital and Neo &lpar;Catherine McGrath/Fortune&rpar;](http://www.techmeme.com/250501/p30#a250501p30)
+ - [Fortnite’s Star Wars season will let you fly an X-Wing and use Force Lightning](https://www.theverge.com/news/659347/fortnite-star-wars-galactic-battle-season-battle-pass)
  - [Anker’s Soundcore Liberty 5 earbuds boost battery life but ditch heart rate tracking](https://www.theverge.com/news/659516/anker-soundcore-liberty-5-wireless-earbuds-bluetooth-dolby-audio)
  - [Epic vs. Apple: What Apple is being forced to do to the App Store](https://appleinsider.com/articles/25/05/01/epic-vs-apple-what-apple-is-being-forced-to-do-to-the-app-store?utm_medium=rss)
- - [11 Best Strollers for Almost Every Budget and Need &lpar;2025&rpar;](https://www.wired.com/gallery/best-stroller-for-kids/)
- - [True Anomaly, which designs hardware and software for military and intelligence space reconnaissance, raised a $260M Series C led by Accel &lpar;Sandra Erwin/SpaceNews&rpar;](http://www.techmeme.com/250501/p29#a250501p29)
- - [GM thanks Trump for the $5 billion tariff hit it expects to take](https://www.theverge.com/news/659491/gm-thanks-trump-for-the-5-billion-tariff-hit-it-expects-to-take)<!-- TECH:END -->
+ - [11 Best Strollers for Almost Every Budget and Need &lpar;2025&rpar;](https://www.wired.com/gallery/best-stroller-for-kids/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

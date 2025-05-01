@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Suffering of being success](http://9gag.com/gag/aGyGXvn)
- - 😝 [Terrifying](http://9gag.com/gag/aLnA57M)
- - 💣 [Journalist interviews a random train passanger about the blackout in Spain](http://9gag.com/gag/aGyG4Y6)
- - 😝 [When you do a really good job](http://9gag.com/gag/a348r61)
- - 👉 [Is this a win/win?](http://9gag.com/gag/avyxMnb)<!-- MEMES:END -->
+ - 😝 [The Princess didn\u2019t like the cocaine she just liked the smell of it.](http://9gag.com/gag/aKG8o0O)
+ - 😝 [Wtf bruh](http://9gag.com/gag/aD2bKr9)
+ - 💣 [Is this a win/win?](http://9gag.com/gag/avyxMnb)
+ - 😝 [In the name of Father](http://9gag.com/gag/a9ym0V0)
+ - 👉 [Nice view](http://9gag.com/gag/aNDBNDK)<!-- MEMES:END -->
 
 ---
 

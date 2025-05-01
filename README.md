@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US is weighing a potential easing of restrictions on Nvidia chip sales to the UAE as Trump plans a visit to the country; NVDA jumps 4%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/250501/p33#a250501p33)
- - [Plenful, which makes AI-powered healthcare workflow automation tools, raised a $50M Series B co-led by Arena Holdings and billionaire Mitchell Rales &lpar;Shimite Obialo/Forbes&rpar;](http://www.techmeme.com/250501/p32#a250501p32)
- - [Plans for iPhone 17 anti-reflective &amp; scratch proof display scrapped](https://appleinsider.com/articles/25/04/28/apple-reportedly-scraps-stronger-anti-reflective-display-planned-for-iphone-17?utm_medium=rss)
- - [Nvidia says Anthropic is telling &quot;tall tales&quot; after the startup argued for tighter export controls by saying China is smuggling chips in &quot;prosthetic baby bumps&quot; &lpar;Kristina Partsinevelos/CNBC&rpar;](http://www.techmeme.com/250501/p31#a250501p31)
- - [Apple slapped with $502M bill for UK cellular patent infringement](https://appleinsider.com/articles/25/05/01/apple-slapped-with-502m-bill-for-uk-cellular-patent-infringement?utm_medium=rss)<!-- TECH:END -->
+ - [Polygon sold to GameRant owner Valnet](https://www.theverge.com/news/659575/polygon-vox-media-sold-valnet-gamerant)
+ - [Polygon staffers, including co-founder and EIC Chris Plante, say the video games website has laid them off; sources say Vox Media sold Polygon to Valnet &lpar;Ethan Gach/Kotaku&rpar;](http://www.techmeme.com/250501/p35#a250501p35)
+ - [Meta reignites its fight with Apple over platform power &amp; developer freedom](https://appleinsider.com/articles/25/05/01/meta-reignites-its-fight-with-apple-over-platform-power-developer-freedom?utm_medium=rss)
+ - [Waymo is still good at avoiding serious death and destruction after 56.7 million miles](https://www.theverge.com/news/658952/waymo-injury-prevention-human-benchmark-study)
+ - [Google is putting AI Mode right in Search](https://www.theverge.com/news/659448/google-ai-mode-search-public-test-us)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

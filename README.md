@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In the name of Father](http://9gag.com/gag/a9ym0V0)
- - 😝 [Bro calculate every possibility before he spoke lol](http://9gag.com/gag/aLnA5OW)
- - 💣 [You&#39;re either gonna die or have a great relationship. Either way you just know she&#39;s gonna try to peg you. Gotta sleep with a pillow strapped around your ass when you sleep now](http://9gag.com/gag/ae9xz2p)
- - 😝 [When you do a really good job](http://9gag.com/gag/a348r61)
- - 👉 [How do you do fellow victims?](http://9gag.com/gag/azxOwZK)<!-- MEMES:END -->
+ - 😝 [Happy hardcore](http://9gag.com/gag/aNDBE16)
+ - 😝 [Waiting for it...](http://9gag.com/gag/aqyxPZv)
+ - 💣 [Sweet now i can watch my asian por-um.. political commentary and know what&#39;s going on](http://9gag.com/gag/aO895M2)
+ - 😝 [Galaxy brain](http://9gag.com/gag/aAyM9Gg)
+ - 👉 [Local tip from local guy](http://9gag.com/gag/aByEebP)<!-- MEMES:END -->
 
 ---
 

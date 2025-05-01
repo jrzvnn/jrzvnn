@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the US is weighing a potential easing of restrictions on Nvidia chip sales to the UAE as Trump plans a visit to the country; NVDA jumps 4%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/250501/p33#a250501p33)
+ - [Plenful, which makes AI-powered healthcare workflow automation tools, raised a $50M Series B co-led by Arena Holdings and billionaire Mitchell Rales &lpar;Shimite Obialo/Forbes&rpar;](http://www.techmeme.com/250501/p32#a250501p32)
  - [Plans for iPhone 17 anti-reflective &amp; scratch proof display scrapped](https://appleinsider.com/articles/25/04/28/apple-reportedly-scraps-stronger-anti-reflective-display-planned-for-iphone-17?utm_medium=rss)
  - [Nvidia says Anthropic is telling &quot;tall tales&quot; after the startup argued for tighter export controls by saying China is smuggling chips in &quot;prosthetic baby bumps&quot; &lpar;Kristina Partsinevelos/CNBC&rpar;](http://www.techmeme.com/250501/p31#a250501p31)
- - [Apple slapped with $502M bill for UK cellular patent infringement](https://appleinsider.com/articles/25/05/01/apple-slapped-with-502m-bill-for-uk-cellular-patent-infringement?utm_medium=rss)
- - [37 Best Graduation Gift Ideas &lpar;2025&rpar;: For College Grads](https://www.wired.com/gallery/best-graduation-gift-ideas-2024/)
- - [Dub, which lets users trade the same stock as celebrities and politicians like Nancy Pelosi, raised a $30M Series A co-led by Notable Capital and Neo &lpar;Catherine McGrath/Fortune&rpar;](http://www.techmeme.com/250501/p30#a250501p30)<!-- TECH:END -->
+ - [Apple slapped with $502M bill for UK cellular patent infringement](https://appleinsider.com/articles/25/05/01/apple-slapped-with-502m-bill-for-uk-cellular-patent-infringement?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

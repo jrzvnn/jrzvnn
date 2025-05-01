@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aurora launches its commercial driverless trucking service, making deliveries between Dallas and Houston, and plans to expand to El Paso and Phoenix this year &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250501/p59#a250501p59)
- - [Spotify already has an app ready to test Apple’s new rules](https://www.theverge.com/news/659891/spotify-ios-app-update-apple-payment-rules)
- - [Apple says tariffs will cost it at least $900 million this quarter](https://www.theverge.com/news/659866/apple-trump-tariffs-cost-tim-cook)
- - [iPhone panic buying ahead of Trump&#39;s tariff implementation was light](https://appleinsider.com/articles/25/05/01/iphone-panic-buying-ahead-of-trumps-tariff-implementation-was-light?utm_medium=rss)
- - [Apple expects that a majority of iPhones sold in the US in the June quarter will come from India and a majority of its other devices will come from Vietnam &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/250501/p58#a250501p58)<!-- TECH:END -->
+ - [Microsoft goes passwordless by default on new accounts](https://www.theverge.com/news/659929/microsoft-passwordless-passkeys-by-default)
+ - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)
+ - [A Judge Says Meta’s AI Copyright Case Is About ‘the Next Taylor Swift’](https://www.wired.com/story/meta-lawsuit-copyright-hearing-artificial-intelligence/)
+ - [The investigation into Pete Hegseth’s Signal group chats is growing](https://www.theverge.com/news/659878/the-investigation-into-pete-hegseths-signal-group-chats-is-growing)
+ - [Aurora launches its commercial driverless trucking service, making deliveries between Dallas and Houston, and plans to expand to El Paso and Phoenix this year &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250501/p59#a250501p59)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

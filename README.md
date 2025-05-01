@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple lied under oath in Epic Games trial, may face criminal contempt charges](https://appleinsider.com/articles/25/05/01/apple-lied-under-oath-in-epic-games-trial-may-face-criminal-contempt-charges?utm_medium=rss)
- - [‘Cook chose poorly’: how Apple blew up its control over the App Store](https://www.theverge.com/apple/659296/apple-failed-compliance-court-ruling-breakdown)
- - [Document: a US Army report from April ranks Palantir&#39;s new $178M mobile battlefield intelligence-gathering vehicle and trailer among its top-performing programs &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/250501/p22#a250501p22)
- - [Therabody TheraFace Mask Review: The Vibrating LED Face Shield](https://www.wired.com/review/therabody-theraface-mask/)
- - [iPhone 17 Rumors, From a Slim &#39;Air&#39; Model to a New Camera Design](https://www.cnet.com/tech/mobile/iphone-17-rumors-from-a-slim-air-model-to-a-new-camera-design/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft is raising prices on Xbox consoles, controllers, and games worldwide](https://www.theverge.com/news/659430/microsoft-xbox-console-controller-game-price-increases-worldwide)
+ - [Roblox reports Q1 revenue up 29% YoY to ~$1B, Bookings up 31% YoY to ~$1.2B, above $1.11B est., and DAUs up 26% YoY to 97.8M, above 93.3M est.; RBLX jumps 8%+ &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250501/p24#a250501p24)
+ - [Apple sure has had a rough 2025](https://www.theverge.com/apple/659359/apple-sure-has-had-a-rough-2025)
+ - [Lenovo Legion Go S Review: Held Back By Microsoft](https://www.wired.com/review/lenovo-legion-go-s/)
+ - [Meta updated Ray-Ban Meta smart glasses&#39; privacy policy on April 29 to enable the Hey Meta voice command by default, store voice recordings for a year, and more &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/250501/p23#a250501p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As Trump closes the de minimis exemption on May 2, small online sellers on platforms like Etsy and eBay scramble to adapt; DHL and FedEx face duties up to 145% &lpar;Danielle Kaye/New York Times&rpar;](http://www.techmeme.com/250501/p18#a250501p18)
+ - [On Meta&#39;s Q1 call, Mark Zuckerberg says WhatsApp now has 3B+ MAUs, up from 2B in February 2020 and 1.5B in January 2018; Facebook passed 3B MAUs in July 2023 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250501/p17#a250501p17)
  - [2025 Is the Year of the Humanoid Robot Factory Worker](https://www.wired.com/story/2025-year-of-the-humanoid-robot-factory-worker/)
  - [Global smartphone shipments rose 0.2% to 296.9M in Q1 2025; Samsung shipped 60.5M units for a 20% market share and Apple shipped 55M units for a 19% share &lpar;Canalys&rpar;](http://www.techmeme.com/250501/p16#a250501p16)
- - [Tesla board denies report it wanted to replace Elon Musk](https://www.theverge.com/news/659396/tesla-new-ceo-elon-musk-replacement-wsj-report-denial)
- - [Microsoft releases three Phi-4 reasoning models on Hugging Face, expanding its Phi &quot;small model&quot; family, which it launched in May 2024 for edge app developers &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250501/p15#a250501p15)
- - [Microsoft says GitHub Copilot has 15M+ users, up 4x YoY; GitHub CEO Thomas Dohmke says its code review agent, launched in April, has handled 8M+ pull requests &lpar;Paul Thurrott/Thurrott&rpar;](http://www.techmeme.com/250501/p14#a250501p14)<!-- TECH:END -->
+ - [Tesla board denies report it wanted to replace Elon Musk](https://www.theverge.com/news/659396/tesla-new-ceo-elon-musk-replacement-wsj-report-denial)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

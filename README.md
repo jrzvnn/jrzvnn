@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everything but iPhone will ship from Vietnam and India in Q3](https://appleinsider.com/articles/25/05/01/everything-but-iphone-will-ship-from-vietnam-and-india-in-q3?utm_medium=rss)
- - [Amazon’s CEO says the company can weather challenges from tariffs because of how big it is](https://www.theverge.com/news/659868/amazon-ceo-andy-jassy-tariffs)
- - [DJI&amp;#8217;s back-to-back Osmo Pocket 3 price hikes take it from $519 to $799 in two months](https://www.theverge.com/tech/659791/dji-osmo-pocket-3-price-hike-tariffs)
- - [Tim Cook says Apple estimates tariffs will add $900M in costs for the June quarter, assuming the current tariff policy remains in place &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/250501/p57#a250501p57)
- - [iPhone panic buying ahead of Trump&#39;s tariff implementation was light](https://appleinsider.com/articles/25/05/01/iphone-panic-buying-ahead-of-trumps-tariff-implementation-was-light?utm_medium=rss)<!-- TECH:END -->
+ - [Spotify already has an app ready to test Apple’s new rules](https://www.theverge.com/news/659891/spotify-ios-app-update-apple-payment-rules)
+ - [Apple says tariffs will cost it at least $900 million this quarter](https://www.theverge.com/news/659866/apple-trump-tariffs-cost-tim-cook)
+ - [iPhone panic buying ahead of Trump&#39;s tariff implementation was light](https://appleinsider.com/articles/25/05/01/iphone-panic-buying-ahead-of-trumps-tariff-implementation-was-light?utm_medium=rss)
+ - [Apple expects that a majority of iPhones sold in the US in the June quarter will come from India and a majority of its other devices will come from Vietnam &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/250501/p58#a250501p58)
+ - [Everything but iPhone will ship from Vietnam and India in Q3](https://appleinsider.com/articles/25/05/01/everything-but-iphone-will-ship-from-vietnam-and-india-in-q3?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

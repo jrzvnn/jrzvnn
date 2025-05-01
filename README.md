@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this a win/win?](http://9gag.com/gag/avyxMnb)
- - 😝 [I need to go to Japan to clear this image that every Westerner has a big dick.](http://9gag.com/gag/avyxNNO)
- - 💣 [Nice view](http://9gag.com/gag/aNDBNDK)
- - 😝 [Meme](http://9gag.com/gag/adBxELd)
- - 👉 [In the name of Father](http://9gag.com/gag/a9ym0V0)<!-- MEMES:END -->
+ - 😝 [Nice view](http://9gag.com/gag/aNDBNDK)
+ - 😝 [Old but gold. Joy.](http://9gag.com/gag/axyOqwL)
+ - 💣 [Down in one](http://9gag.com/gag/aQzmGeK)
+ - 😝 [It was at this moment](http://9gag.com/gag/a0en3gZ)
+ - 👉 [Foam depot tool](http://9gag.com/gag/a4PAvKw)<!-- MEMES:END -->
 
 ---
 

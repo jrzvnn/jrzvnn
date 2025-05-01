@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When I grow up I will be a pirate](http://9gag.com/gag/aD2bvGG)
- - 😝 [Wtf bruh](http://9gag.com/gag/aD2bKr9)
- - 💣 [In the name of Father](http://9gag.com/gag/a9ym0V0)
- - 😝 [Something special for guests](http://9gag.com/gag/a87eNEZ)
- - 👉 [Journalist interviews a random train passanger about the blackout in Spain](http://9gag.com/gag/aGyG4Y6)<!-- MEMES:END -->
+ - 😝 [Terrifying](http://9gag.com/gag/aLnA57M)
+ - 😝 [In the name of Father](http://9gag.com/gag/a9ym0V0)
+ - 💣 [When you do a really good job](http://9gag.com/gag/a348r61)
+ - 😝 [A sturgeon in an aquarium tried to swallow a woman dressed as a mermaid.](http://9gag.com/gag/agmxDzg)
+ - 👉 [Something special for guests](http://9gag.com/gag/a87eNEZ)<!-- MEMES:END -->
 
 ---
 

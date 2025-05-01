@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nature&#39;s version of sushi on a conveyor belt](http://9gag.com/gag/aAyMz5d)
- - 😝 [Profesor Gandalf](http://9gag.com/gag/aLnA7eW)
- - 💣 [Local tip from local guy](http://9gag.com/gag/aByEebP)
- - 😝 [Can this run Doom?](http://9gag.com/gag/amox3X4)
- - 👉 [The Trick](http://9gag.com/gag/aLnA75A)<!-- MEMES:END -->
+ - 😝 [When you do a really good job](http://9gag.com/gag/a348r61)
+ - 😝 [In the name of Father](http://9gag.com/gag/a9ym0V0)
+ - 💣 [Outsmarted the outsmarter](http://9gag.com/gag/avyxwpd)
+ - 😝 [What a cover](http://9gag.com/gag/a87eRBZ)
+ - 👉 [Profesor Gandalf](http://9gag.com/gag/aLnA7eW)<!-- MEMES:END -->
 
 ---
 

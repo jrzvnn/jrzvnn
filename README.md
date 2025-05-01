@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Princess didn\u2019t like the cocaine she just liked the smell of it.](http://9gag.com/gag/aKG8o0O)
- - 😝 [Wtf bruh](http://9gag.com/gag/aD2bKr9)
- - 💣 [Is this a win/win?](http://9gag.com/gag/avyxMnb)
- - 😝 [In the name of Father](http://9gag.com/gag/a9ym0V0)
- - 👉 [Nice view](http://9gag.com/gag/aNDBNDK)<!-- MEMES:END -->
+ - 😝 [Is this a win/win?](http://9gag.com/gag/avyxMnb)
+ - 😝 [I need to go to Japan to clear this image that every Westerner has a big dick.](http://9gag.com/gag/avyxNNO)
+ - 💣 [Nice view](http://9gag.com/gag/aNDBNDK)
+ - 😝 [Meme](http://9gag.com/gag/adBxELd)
+ - 👉 [In the name of Father](http://9gag.com/gag/a9ym0V0)<!-- MEMES:END -->
 
 ---
 

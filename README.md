@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What Caused the European Power Outage?](https://www.wired.com/story/what-caused-the-european-power-outage-spain-blackout/)
- - [Anker’s lightest 45W USB-C charger is already on sale for 26 percent off](https://www.theverge.com/tech/659710/anker-45w-nano-usb-c-charger-skylight-calendar-deal-sale)
- - [Uber and autonomous vehicle operator May Mobility partner to deploy &quot;thousands&quot; of robotaxis across the US, starting in Arlington, Texas, by the end of 2025 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250501/p45#a250501p45)
- - [Patreon will update its iPhone app to sidestep Apple&amp;#8217;s payment system](https://www.theverge.com/news/659754/patreon-update-iphone-ios-app-apple-payment-system-ruling)
- - [In a case related to its Activision acquisition, Microsoft dropped a law firm that settled with Trump in favor of a firm that is fighting a Trump EO &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/250501/p44#a250501p44)<!-- TECH:END -->
+ - [Aurora’s driverless trucks are making deliveries in Texas](https://www.theverge.com/news/659518/aurora-autonomous-truck-first-delivery-texas)
+ - [Mother&#39;s Day mega deals: Apple gear on sale from $15](https://appleinsider.com/articles/25/05/01/mothers-day-mega-deals-apple-gear-on-sale-from-15?utm_medium=rss)
+ - [Amazon reports Q1 ad revenue up 18% YoY to $13.92B, vs. $13.74B est., and subscription services revenue up 9% YoY to $11.72B &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250501/p48#a250501p48)
+ - [Amazon reports Q1 AWS revenue up 17% YoY to $29.3B, vs. $29.42B est., and AWS operating income up 23% YoY to $11.55B &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250501/p47#a250501p47)
+ - [Amazon reports Q1 revenue up 9% YoY to $155.7B, operating income of $18.4B, up from $15.3B in Q1 2024, and net income of $17.1B, up from $10.4B in Q1 2024 &lpar;Amazon.com, Inc.&rpar;](http://www.techmeme.com/250501/p46#a250501p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

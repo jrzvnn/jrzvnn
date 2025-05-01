@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic is offering developers an alternative to Apple&amp;#8217;s in-app purchases](https://www.theverge.com/news/659655/epic-games-store-revenue-share-webshops-apple-in-app-purchases)
+ - [MoviePass’ next big pivot is basically blockchain sports betting for film buffs](https://www.theverge.com/film/659517/moviepass-mogul-nfts-mysten-sui-blockchain)
  - [Data integration company Fivetran acquires Census, which helps companies move data out of databases and into operational tools and was valued at $630M in 2022 &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250501/p41#a250501p41)
  - [Lyft launches ‘Lyft Silver’ for older riders, with simpler app and more accessible vehicles](https://www.theverge.com/lyft/659621/lyft-silver-older-riders-seniors-app-vehicles)
- - [SanDisk Extreme Pro with USB 4 review: Good for Mac, avoid for Windows](https://appleinsider.com/articles/25/05/01/sandisk-extreme-pro-with-usb-4-review-good-for-mac-avoid-for-windows?utm_medium=rss)
- - [Redis, the popular in-memory data store, returns its main system to open source license AGPL, after facing criticism in 2024 for moving to a dual-license model &lpar;Lindsay Clark/The Register&rpar;](http://www.techmeme.com/250501/p40#a250501p40)
- - [Apple slapped with $502M bill for UK cellular patent infringement](https://appleinsider.com/articles/25/05/01/apple-slapped-with-502m-bill-for-uk-cellular-patent-infringement?utm_medium=rss)<!-- TECH:END -->
+ - [SanDisk Extreme Pro with USB 4 review: Good for Mac, avoid for Windows](https://appleinsider.com/articles/25/05/01/sandisk-extreme-pro-with-usb-4-review-good-for-mac-avoid-for-windows?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

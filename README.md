@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Happy hardcore](http://9gag.com/gag/aNDBE16)
+ - 😝 [Sweet now i can watch my asian por-um.. political commentary and know what&#39;s going on](http://9gag.com/gag/aO895M2)
+ - 💣 [Galaxy brain](http://9gag.com/gag/aAyM9Gg)
  - 😝 [Waiting for it...](http://9gag.com/gag/aqyxPZv)
- - 💣 [Sweet now i can watch my asian por-um.. political commentary and know what&#39;s going on](http://9gag.com/gag/aO895M2)
- - 😝 [Galaxy brain](http://9gag.com/gag/aAyM9Gg)
  - 👉 [Local tip from local guy](http://9gag.com/gag/aByEebP)<!-- MEMES:END -->
 
 ---

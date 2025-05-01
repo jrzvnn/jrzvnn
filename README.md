@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf bruh](http://9gag.com/gag/aD2bKr9)
- - 😝 [Let me guess, yet another fund raiser for the perpetrator to Buy Large Mansions?](http://9gag.com/gag/aNDB7x6)
- - 💣 [Profesor Gandalf](http://9gag.com/gag/aLnA7eW)
- - 😝 [Outsmarted the outsmarter](http://9gag.com/gag/avyxwpd)
- - 👉 [What a cover](http://9gag.com/gag/a87eRBZ)<!-- MEMES:END -->
+ - 😝 [The Princess didn\u2019t like the cocaine she just liked the smell of it.](http://9gag.com/gag/aKG8o0O)
+ - 😝 [When you do a really good job](http://9gag.com/gag/a348r61)
+ - 💣 [Let me guess, yet another fund raiser for the perpetrator to Buy Large Mansions?](http://9gag.com/gag/aNDB7x6)
+ - 😝 [Christian Bale had initially turned down the possibility of appearing in any comic book or superhero films after Batman, seeing the genre as uninteresting. He agreed to take part in \u201cThor: Love and Thunder\u201d after his kids begged him to take the role. His performance outstands all](http://9gag.com/gag/aD2bKP9)
+ - 👉 [Chinese tourist deals with pickpocket in Barcelona, 29.04.2025](http://9gag.com/gag/azxO3Kj)<!-- MEMES:END -->
 
 ---
 

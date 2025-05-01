@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Profesor Gandalf](http://9gag.com/gag/aLnA7eW)
- - 😝 [In the name of Father](http://9gag.com/gag/a9ym0V0)
- - 💣 [From my archive](http://9gag.com/gag/aAyMAML)
+ - 😝 [Not mine tho](http://9gag.com/gag/aW4oAvK)
  - 😝 [When you do a really good job](http://9gag.com/gag/a348r61)
- - 👉 [DAM SON](http://9gag.com/gag/aYQM5dV)<!-- MEMES:END -->
+ - 💣 [DAM SON](http://9gag.com/gag/aYQM5dV)
+ - 😝 [Profesor Gandalf](http://9gag.com/gag/aLnA7eW)
+ - 👉 [Doctor or Engineer?](http://9gag.com/gag/aMVz5EW)<!-- MEMES:END -->
 
 ---
 

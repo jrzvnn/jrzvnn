@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple lied under oath in Epic Games trial, may face criminal contempt charges](https://appleinsider.com/articles/25/05/01/apple-lied-under-oath-in-epic-games-trial-may-face-criminal-contempt-charges?utm_medium=rss)
+ - [‘Cook chose poorly’: how Apple blew up its control over the App Store](https://www.theverge.com/apple/659296/apple-failed-compliance-court-ruling-breakdown)
  - [Document: a US Army report from April ranks Palantir&#39;s new $178M mobile battlefield intelligence-gathering vehicle and trailer among its top-performing programs &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/250501/p22#a250501p22)
  - [Therabody TheraFace Mask Review: The Vibrating LED Face Shield](https://www.wired.com/review/therabody-theraface-mask/)
- - [Trump’s Quest for Crypto Riches Is a Constitutional Scandal Waiting to Happen](https://www.wired.com/story/trumps-quest-for-crypto-riches-is-a-constitutional-scandal-waiting-to-happen/)
- - [In an hour-long Q&amp;A with reporters, Elon Musk talked DOGE, including acknowledging its shortcoming, leaving the US government, working with Trump, and more &lpar;Alex Isenstadt/Axios&rpar;](http://www.techmeme.com/250501/p21#a250501p21)
- - [Q&amp;A with Mark Zuckerberg on LlamaCon, Llama API, Meta&#39;s AI opportunity, social networking 2.0, Ray-Bans, Apple, the Meta AI app, tariffs, Reality Labs, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250501/p20#a250501p20)<!-- TECH:END -->
+ - [iPhone 17 Rumors, From a Slim &#39;Air&#39; Model to a New Camera Design](https://www.cnet.com/tech/mobile/iphone-17-rumors-from-a-slim-air-model-to-a-new-camera-design/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

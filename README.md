@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this a win/win?](http://9gag.com/gag/avyxMnb)
- - 😝 [Meme](http://9gag.com/gag/adBxELd)
- - 💣 [Do not REDEEM it !!!!!!](http://9gag.com/gag/a7o9Q2m)
- - 😝 [Let\u2019s Play!](http://9gag.com/gag/aqyxPAv)
- - 👉 [Smartphone concept from 2013](http://9gag.com/gag/a1mV9w2)<!-- MEMES:END -->
+ - 😝 [Accountability? Not even once](http://9gag.com/gag/ae9xLdp)
+ - 😝 [Chinese tourist deals with pickpocket in Barcelona, 29.04.2025](http://9gag.com/gag/azxO3Kj)
+ - 💣 [Meme](http://9gag.com/gag/adBxELd)
+ - 😝 [Seems about right](http://9gag.com/gag/aRBvn3j)
+ - 👉 [Is this a win/win?](http://9gag.com/gag/avyxMnb)<!-- MEMES:END -->
 
 ---
 

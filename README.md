@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Foam depot tool](http://9gag.com/gag/a4PAvKw)
- - 😝 [According to netflix](http://9gag.com/gag/axyOxdK)
- - 💣 [You got this? What are your thoughts? We\u2019re here to help you. I\u2019ll support](http://9gag.com/gag/aMVzgRW)
- - 😝 [Woman throws food at a white woman because \u201cwhite people are inferior.\u201d Wait for it...](http://9gag.com/gag/agmxWxW)
- - 👉 [Upvote this ham sandwich, it will give you luck today.](http://9gag.com/gag/aQzmGne)<!-- MEMES:END -->
+ - 😝 [Tower Of London Evolution](http://9gag.com/gag/aqyx3vR)
+ - 😝 [Accountability? Not even once](http://9gag.com/gag/ae9xLdp)
+ - 💣 [The birth giver](http://9gag.com/gag/aW4oVqA)
+ - 😝 [Did she consult a lawyer before stealing? hahahaha](http://9gag.com/gag/a2vDe09)
+ - 👉 [Japanese police chief bows to apologise to the man who was acquitted after nearly 60 years on death row](http://9gag.com/gag/adBxmA2)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DOGE Is in Its AI Era](https://www.wired.com/story/doge-is-in-its-ai-era/)
+ - [Temu stops shipping products from China directly to US shoppers and lists only products shipped from US warehouses, as Trump closes the de minimis exemption &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250502/p24#a250502p24)
  - [Apple turns to Anthropic to speed up coding &amp; fix buggy tools](https://appleinsider.com/articles/25/05/02/apple-turns-to-anthropic-to-speed-up-coding-fix-buggy-tools?utm_medium=rss)
  - [Android’s next big feature turns your phone into a desktop](https://www.theverge.com/news/660509/android-desktop-mode-16-beta-demo)
- - [Google plans to roll out Gemini next week for children under 13 whose parents use Family Link and says it will not use the under-13 users&#39; data to train its AI &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/250502/p23#a250502p23)
- - [You can still snag an Xbox Series X / S before Microsoft’s price hike fully takes effect](https://www.theverge.com/tech/660373/microsoft-xbox-series-x-s-price-hike-dell-walmart-deal-sale)
- - [How to lock down your privacy in WhatsApp](https://www.theverge.com/how-to/659790/whatsapp-privacy-how-to)<!-- TECH:END -->
+ - [Google plans to roll out Gemini next week for children under 13 whose parents use Family Link and says it will not use the under-13 users&#39; data to train its AI &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/250502/p23#a250502p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

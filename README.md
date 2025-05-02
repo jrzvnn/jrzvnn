@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When coffee orders get more complex than crime investigations](http://9gag.com/gag/aGyGW40)
- - 😝 [Did she consult a lawyer before stealing? hahahaha](http://9gag.com/gag/a2vDe09)
- - 💣 [One from the archive](http://9gag.com/gag/ae9xXjQ)
- - 😝 [Robot goes berserk](http://9gag.com/gag/a6ZBv1N)
- - 👉 [Grandpa endurance](http://9gag.com/gag/axyOxeY)<!-- MEMES:END -->
+ - 😝 [Don&#39;t kill the Gorilla this time](http://9gag.com/gag/axyOpEp)
+ - 😝 [BBQ](http://9gag.com/gag/aryxj1K)
+ - 💣 [Nature is wild](http://9gag.com/gag/ajPxb8p)
+ - 😝 [Stop scrolling 9gag and go to bed bro](http://9gag.com/gag/avyx31O)
+ - 👉 [You never know](http://9gag.com/gag/ae9xo0O)<!-- MEMES:END -->
 
 ---
 

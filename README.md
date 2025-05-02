@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t kill the Gorilla this time](http://9gag.com/gag/axyOpEp)
- - 😝 [BBQ](http://9gag.com/gag/aryxj1K)
- - 💣 [Nature is wild](http://9gag.com/gag/ajPxb8p)
- - 😝 [Stop scrolling 9gag and go to bed bro](http://9gag.com/gag/avyx31O)
- - 👉 [You never know](http://9gag.com/gag/ae9xo0O)<!-- MEMES:END -->
+ - 😝 [Robot goes berserk](http://9gag.com/gag/a6ZBv1N)
+ - 😝 [Is she one of you?](http://9gag.com/gag/a9ymQqL)
+ - 💣 [Skip towns maybe](http://9gag.com/gag/awyOqbB)
+ - 😝 [No wonder we\u2019re screwed\u2026](http://9gag.com/gag/a87ePjV)
+ - 👉 [Stop scrolling 9gag and go to bed bro](http://9gag.com/gag/avyx31O)<!-- MEMES:END -->
 
 ---
 

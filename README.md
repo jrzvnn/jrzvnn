@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Brendan Carr Is Turning the FCC Into MAGA’s Censoring Machine](https://www.wired.com/story/plaintext-fcc-brendan-carr-donald-trump/)
+ - [The cargo-carrying Gitamini robot is getting a Star Wars droid makeover](https://www.theverge.com/news/659576/piaggio-fast-forward-gitamini-cargo-robot-star-wars-disney-lucasfilm-g1t4-m1n1)
+ - [Thunderbolts* is Marvel’s latest attempt at clawing out of an existential void](https://www.theverge.com/movie-reviews/659694/thunderbolts-review)
  - [The UK FCA plans to ban retail investors from borrowing money to buy cryptocurrencies, as it aims to bring much of the crypto market under its regulatory remit &lpar;Martin Arnold/Financial Times&rpar;](http://www.techmeme.com/250502/p14#a250502p14)
- - [The US designates Cambodia&#39;s Huione as a money-laundering operation, says it laundered $4B+ from August 2021 to January 2025 for North Korean hackers and others &lpar;Selam Gebrekidan/New York Times&rpar;](http://www.techmeme.com/250502/p13#a250502p13)
- - [Stripe already has a way for iOS developers to dodge Apple&amp;#8217;s payment system](https://www.theverge.com/news/660131/stripe-checkout-ios-transactions-outside-app-antitrust)
- - [Filing: Jeff Bezos plans to sell up to $4.75B worth of Amazon stock, or 25M shares, through an orderly trading plan running through the end of May 2026 &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250502/p12#a250502p12)
- - [22 Best Portable Chargers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-portable-chargers-power-banks/)<!-- TECH:END -->
+ - [The US designates Cambodia&#39;s Huione Group as a money-laundering operation, saying it laundered $4B+ since August 2021 for criminals such as North Korean hackers &lpar;Selam Gebrekidan/New York Times&rpar;](http://www.techmeme.com/250502/p13#a250502p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Get a Real ID License for Traveling on Airplanes](https://www.wired.com/story/how-to-get-a-real-id-license/)
+ - [Trump Wants to Erase Black History. These Digital Archivists Are Racing to Save It](https://www.wired.com/story/trump-wants-to-erase-black-history-these-digital-archivists-are-racing-to-save-it/)
  - [11 Best Cold-Brew Coffee Makers You Can Buy &lpar;2025&rpar;](https://www.wired.com/story/best-cold-brew-coffee-makers/)
- - [Dozens of YouTube Channels Are Showing AI-Generated Cartoon Gore and Fetish Content](https://www.wired.com/story/dozens-of-youtube-channels-are-showing-ai-generated-cartoon-gore-and-fetish-content/)
- - [Ireland&#39;s DPC fines TikTok €530M for illegally sending user data to China, ordering a halt to EU data transfers in six months if protections aren&#39;t guaranteed &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/250502/p6#a250502p6)
- - [The Google search antitrust trial is effectively a fight about AI&#39;s future, as lawyers and rivals argue Google&#39;s monopoly could make it the dominant AI player &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/250502/p5#a250502p5)
- - [The Climate Crisis Threatens Supply Chains. Manufacturers Hope AI Can Help](https://www.wired.com/story/manufacturers-hope-ai-will-save-supply-chains-from-climate-crisis/)<!-- TECH:END -->
+ - [What Are Mail Categories on Your iPhone and How to Turn Them Off](https://www.cnet.com/tech/services-and-software/what-are-mail-categories-on-your-iphone-and-how-to-turn-them-off/#ftag=CAD590a51e)
+ - [Dozens of YouTube Channels Are Showing AI-Generated Cartoon Gore and Fetish Content](https://www.wired.com/story/dozens-of-youtube-channels-are-showing-ai-generated-cartoon-gore-and-fetish-content/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

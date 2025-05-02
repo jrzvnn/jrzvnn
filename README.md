@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Versus](http://9gag.com/gag/aW4oVDK)
- - 😝 [Japanese police chief bows to apologise to the man who was acquitted after nearly 60 years on death row](http://9gag.com/gag/adBxmA2)
- - 💣 [Don&#39;t kill the Gorilla this time](http://9gag.com/gag/axyOpEp)
- - 😝 [Are we... doomed?](http://9gag.com/gag/aLnAx3x)
- - 👉 [Robot goes berserk](http://9gag.com/gag/a6ZBv1N)<!-- MEMES:END -->
+ - 😝 [Nature is wild](http://9gag.com/gag/ajPxb8p)
+ - 😝 [BBQ](http://9gag.com/gag/aryxj1K)
+ - 💣 [One from the archive](http://9gag.com/gag/ae9xXjQ)
+ - 😝 [Robot goes berserk](http://9gag.com/gag/a6ZBv1N)
+ - 👉 [Stop scrolling 9gag and go to bed bro](http://9gag.com/gag/avyx31O)<!-- MEMES:END -->
 
 ---
 

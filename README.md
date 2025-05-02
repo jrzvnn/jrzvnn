@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [25% Off Design Within Reach Promo Code | May 2025](https://www.wired.com/story/design-within-reach-promo-code/)
+ - [$25 Off DoorDash Promo Code | May 2025](https://www.wired.com/story/doordash-promo-code/)
+ - [Visible Promo Code: Save $530 in May 2025](https://www.wired.com/story/visible-promo-code/)
  - [Memo: the US DOD seeks to secure right-to-repair provisions in Army contracts to access tools, software, and technical data without IP constraints &lpar;Reuters&rpar;](http://www.techmeme.com/250502/p1#a250502p1)
- - [Apple updates its App Store Guidelines to comply with a US judge&#39;s April 30 injunction, including allowing app developers to link to external payments in the US &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250501/p66#a250501p66)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, May 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-may-2/#ftag=CAD590a51e)
- - [Apple&#39;s App Store Guidelines updated to reflect court order over external purchases](https://appleinsider.com/articles/25/05/02/apples-app-store-guidelines-updated-to-reflect-court-order-over-external-purchases?utm_medium=rss)
- - [Temu appears to have removed all products in the US version of its online store that ship directly from China to US consumers, confusing suppliers and customers &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/250501/p65#a250501p65)<!-- TECH:END -->
+ - [Apple updates its App Store Guidelines to comply with a US judge&#39;s April 30 injunction, including allowing app developers to link to external payments in the US &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250501/p66#a250501p66)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

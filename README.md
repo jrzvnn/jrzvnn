@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He knows what he did](http://9gag.com/gag/aGyG32K)
- - 😝 [Let\u2019s Play!](http://9gag.com/gag/aqyxPAv)
- - 💣 [Like a random encounter in an open world game](http://9gag.com/gag/ae9xodO)
- - 😝 [Stop scrolling 9gag and go to bed bro](http://9gag.com/gag/avyx31O)
- - 👉 [Grandpa endurance](http://9gag.com/gag/axyOxeY)<!-- MEMES:END -->
+ - 😝 [Good. Happy for you. Very nice.](http://9gag.com/gag/amoxE12)
+ - 😝 [`Maybe little bad technique.`](http://9gag.com/gag/aMVzpwV)
+ - 💣 [Japanese police chief bows to apologise to the man who was acquitted after nearly 60 years on death row](http://9gag.com/gag/adBxmA2)
+ - 😝 [Did she consult a lawyer before stealing? hahahaha](http://9gag.com/gag/a2vDe09)
+ - 👉 [Skip towns maybe](http://9gag.com/gag/awyOqbB)<!-- MEMES:END -->
 
 ---
 

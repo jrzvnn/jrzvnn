@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This black color is making me go crazy](http://9gag.com/gag/an7xAmo)
- - 😝 [Upvote this ham sandwich, it will give you luck today.](http://9gag.com/gag/aQzmGne)
- - 💣 [Another old artefact. Make this platform great again.](http://9gag.com/gag/ajPx2Xw)
- - 😝 [Old but gold.](http://9gag.com/gag/a4PAM7y)
- - 👉 [Saved it without even trying](http://9gag.com/gag/aKG80Lj)<!-- MEMES:END -->
+ - 😝 [He knows what he did](http://9gag.com/gag/aGyG32K)
+ - 😝 [Let\u2019s Play!](http://9gag.com/gag/aqyxPAv)
+ - 💣 [Like a random encounter in an open world game](http://9gag.com/gag/ae9xodO)
+ - 😝 [Stop scrolling 9gag and go to bed bro](http://9gag.com/gag/avyx31O)
+ - 👉 [Grandpa endurance](http://9gag.com/gag/axyOxeY)<!-- MEMES:END -->
 
 ---
 

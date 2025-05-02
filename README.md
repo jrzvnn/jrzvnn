@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [A hacking group called DragonForce takes credit for ransomware attacks targeting British retailers M&amp;S, Harrods, and Co-Op over the past two weeks &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/250502/p26#a250502p26)
  - [Firefox could be doomed without Google search deal, says executive](https://www.theverge.com/news/660548/firefox-google-search-revenue-share-doj-antitrust-remedies)
  - [Mike Waltz Has Somehow Gotten Even Worse at Using Signal](https://www.wired.com/story/mike-waltz-has-somehow-gotten-even-worse-at-using-signal/)
- - [In praise of a special little bag](https://www.theverge.com/gadgets/660409/specialty-bag-pannier-hiking-two-wheel-topo)
- - [The US DOJ tells a judge it will seek to force Google to divest its ad exchange and publisher ad server units and share real-time ad bidding data with rivals &lpar;Financial Times&rpar;](http://www.techmeme.com/250502/p25#a250502p25)<!-- TECH:END -->
+ - [Last Chance to Snag the Chase Sapphire Preferred&#39;s 100K Welcome Bonus](https://www.cnet.com/personal-finance/credit-cards/last-chance-to-snag-the-chase-sapphire-preferreds-100k-welcome-bonus/#ftag=CAD590a51e)
+ - [26 Best Last-Minute Mother&#39;s Day Gifts for Every Kind of Mom in 2025](https://www.cnet.com/news/best-mothers-day-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Journalist interviews a random train passanger about the blackout in Spain](http://9gag.com/gag/aGyG4Y6)
- - 😝 [Did she consult a lawyer before stealing? hahahaha](http://9gag.com/gag/a2vDe09)
- - 💣 [BBQ](http://9gag.com/gag/aryxj1K)
- - 😝 [Suffering of being success](http://9gag.com/gag/aGyGXvn)
- - 👉 [The Princess didn\u2019t like the cocaine she just liked the smell of it.](http://9gag.com/gag/aKG8o0O)<!-- MEMES:END -->
+ - 😝 [SuperShopper](http://9gag.com/gag/a87exMV)
+ - 😝 [At least the dog was carried carefully.](http://9gag.com/gag/aryxYGV)
+ - 💣 [Journalist interviews a random train passanger about the blackout in Spain](http://9gag.com/gag/aGyG4Y6)
+ - 😝 [Grandpa endurance](http://9gag.com/gag/axyOxeY)
+ - 👉 [BBQ](http://9gag.com/gag/aryxj1K)<!-- MEMES:END -->
 
 ---
 

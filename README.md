@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Nice view](http://9gag.com/gag/aNDBNDK)
- - 😝 [It was at this moment](http://9gag.com/gag/a0en3gZ)
- - 💣 [You got this? What are your thoughts? We\u2019re here to help you. I\u2019ll support](http://9gag.com/gag/aMVzgRW)
+ - 😝 [You got this? What are your thoughts? We\u2019re here to help you. I\u2019ll support](http://9gag.com/gag/aMVzgRW)
+ - 💣 [It was at this moment](http://9gag.com/gag/a0en3gZ)
  - 😝 [Down in one](http://9gag.com/gag/aQzmGeK)
  - 👉 [Waiting for it...](http://9gag.com/gag/aqyxPZv)<!-- MEMES:END -->
 

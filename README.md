@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s $900 million tariff bill in Q3 is a sign of Tim Cook&#39;s supply chain mastery](https://appleinsider.com/articles/25/05/02/apples-900-million-tariff-bill-in-q3-is-a-sign-of-tim-cooks-supply-chain-mastery?utm_medium=rss)
+ - [Trump issues order to pull funding for NPR and PBS](https://www.theverge.com/news/660130/trump-npr-pbs-executive-order-funding)
  - [Brendan Carr Is Turning the FCC Into MAGA’s Censoring Machine](https://www.wired.com/story/plaintext-fcc-brendan-carr-donald-trump/)
  - [The cargo-carrying Gitamini robot is getting a Star Wars droid makeover](https://www.theverge.com/news/659576/piaggio-fast-forward-gitamini-cargo-robot-star-wars-disney-lucasfilm-g1t4-m1n1)
- - [Thunderbolts* is Marvel’s latest attempt at clawing out of an existential void](https://www.theverge.com/movie-reviews/659694/thunderbolts-review)
- - [The UK FCA plans to ban retail investors from borrowing money to buy cryptocurrencies, as it aims to bring much of the crypto market under its regulatory remit &lpar;Martin Arnold/Financial Times&rpar;](http://www.techmeme.com/250502/p14#a250502p14)
- - [The US designates Cambodia&#39;s Huione Group as a money-laundering operation, saying it laundered $4B+ since August 2021 for criminals such as North Korean hackers &lpar;Selam Gebrekidan/New York Times&rpar;](http://www.techmeme.com/250502/p13#a250502p13)<!-- TECH:END -->
+ - [Thunderbolts* is Marvel’s latest attempt at clawing out of an existential void](https://www.theverge.com/movie-reviews/659694/thunderbolts-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You never know](http://9gag.com/gag/ae9xo0O)
- - 😝 [One from the archive](http://9gag.com/gag/ae9xXjQ)
- - 💣 [He knows what he did](http://9gag.com/gag/aGyG32K)
- - 😝 [Grandpa endurance](http://9gag.com/gag/axyOxeY)
- - 👉 [No wonder we\u2019re screwed\u2026](http://9gag.com/gag/a87ePjV)<!-- MEMES:END -->
+ - 😝 [When coffee orders get more complex than crime investigations](http://9gag.com/gag/aGyGW40)
+ - 😝 [Did she consult a lawyer before stealing? hahahaha](http://9gag.com/gag/a2vDe09)
+ - 💣 [One from the archive](http://9gag.com/gag/ae9xXjQ)
+ - 😝 [Robot goes berserk](http://9gag.com/gag/a6ZBv1N)
+ - 👉 [Grandpa endurance](http://9gag.com/gag/axyOxeY)<!-- MEMES:END -->
 
 ---
 

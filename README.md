@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice view](http://9gag.com/gag/aNDBNDK)
- - 😝 [Waiting for it...](http://9gag.com/gag/aqyxPZv)
- - 💣 [It was at this moment](http://9gag.com/gag/a0en3gZ)
- - 😝 [Down in one](http://9gag.com/gag/aQzmGeK)
- - 👉 [You got this? What are your thoughts? We\u2019re here to help you. I\u2019ll support](http://9gag.com/gag/aMVzgRW)<!-- MEMES:END -->
+ - 😝 [Japanese police chief bows to apologise to the man who was acquitted after nearly 60 years on death row](http://9gag.com/gag/adBxmA2)
+ - 😝 [Is this a win/win?](http://9gag.com/gag/avyxMnb)
+ - 💣 [BBQ](http://9gag.com/gag/aryxj1K)
+ - 😝 [He knows what he did](http://9gag.com/gag/aGyG32K)
+ - 👉 [Seems about right](http://9gag.com/gag/aRBvn3j)<!-- MEMES:END -->
 
 ---
 

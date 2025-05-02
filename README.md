@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice view](http://9gag.com/gag/aNDBNDK)
- - 😝 [You got this? What are your thoughts? We\u2019re here to help you. I\u2019ll support](http://9gag.com/gag/aMVzgRW)
- - 💣 [It was at this moment](http://9gag.com/gag/a0en3gZ)
- - 😝 [Down in one](http://9gag.com/gag/aQzmGeK)
- - 👉 [Waiting for it...](http://9gag.com/gag/aqyxPZv)<!-- MEMES:END -->
+ - 😝 [SuperShopper](http://9gag.com/gag/a87exMV)
+ - 😝 [3D Printed Sherk](http://9gag.com/gag/a9ymG7K)
+ - 💣 [This poor bastard.](http://9gag.com/gag/a0eny7L)
+ - 😝 [Christian Bale had initially turned down the possibility of appearing in any comic book or superhero films after Batman, seeing the genre as uninteresting. He agreed to take part in \u201cThor: Love and Thunder\u201d after his kids begged him to take the role. His performance outstands all](http://9gag.com/gag/aD2bKP9)
+ - 👉 [Seems about right](http://9gag.com/gag/aRBvn3j)<!-- MEMES:END -->
 
 ---
 

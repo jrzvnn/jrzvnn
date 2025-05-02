@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inside the Battle Over OpenAI’s Corporate Restructuring](https://www.wired.com/story/open-ai-nonprofit-transition-activism/)
  - [Kuwait cracks down on crypto miners for being a &quot;major&quot; cause of blackouts; energy consumption in the Al-Wafrah region fell by 55% after the crackdown &lpar;Ahmed Hagagy/Reuters&rpar;](http://www.techmeme.com/250502/p4#a250502p4)
  - [New tariffs are now hitting cheap US imports from China](https://www.theverge.com/news/659676/us-de-minimis-expires-trump-import-tariffs-china)
  - [A California man pleads guilty to illegally accessing Disney&#39;s Slack channels and stealing 1.1TB of data in 2024; he later posed as hacktivist group &quot;NullBulge&quot; &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250502/p3#a250502p3)
- - [Sources: Beijing&#39;s decision to exempt eight types of US-made chips from tariffs came after auto industry lobbying, exposing China&#39;s dependence on US auto chips &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250502/p2#a250502p2)
- - [Groupon Promo Codes: 25% Off May 2025](https://www.wired.com/story/groupon-promo-code/)<!-- TECH:END -->
+ - [Sources: Beijing&#39;s decision to exempt eight types of US-made chips from tariffs came after auto industry lobbying, exposing China&#39;s dependence on US auto chips &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250502/p2#a250502p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

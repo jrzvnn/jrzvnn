@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inside Sam Altman’s eye-scanning crypto party](https://www.theverge.com/tech/659987/sam-altman-worldcoin-crypto-orb-us-launch)
  - [Trump&amp;#8217;s proposed budget deals another big blow to science, clean energy, and the environment](https://www.theverge.com/news/660579/president-trump-budget-slash-science-health-energy-climate-environment)
  - [A hacking group called DragonForce takes credit for ransomware attacks targeting British retailers M&amp;S, Harrods, and Co-Op over the past two weeks &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/250502/p26#a250502p26)
  - [Firefox could be doomed without Google search deal, says executive](https://www.theverge.com/news/660548/firefox-google-search-revenue-share-doj-antitrust-remedies)
- - [Mike Waltz Has Somehow Gotten Even Worse at Using Signal](https://www.wired.com/story/mike-waltz-has-somehow-gotten-even-worse-at-using-signal/)
- - [Last Chance to Snag the Chase Sapphire Preferred&#39;s 100K Welcome Bonus](https://www.cnet.com/personal-finance/credit-cards/last-chance-to-snag-the-chase-sapphire-preferreds-100k-welcome-bonus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mike Waltz Has Somehow Gotten Even Worse at Using Signal](https://www.wired.com/story/mike-waltz-has-somehow-gotten-even-worse-at-using-signal/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

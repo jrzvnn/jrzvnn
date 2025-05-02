@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft says new accounts will be &quot;passwordless by default&quot;, asking people to use more secure methods like passkeys, push notifications, and security keys &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/250502/p7#a250502p7)
  - [Grand Theft Auto VI release delayed to May 2026](https://www.theverge.com/news/660057/grand-theft-auto-6-release-date-delay-may-2026)
  - [How to Pack Your Beauty Routine for Travel &lpar;2025&rpar;](https://www.wired.com/story/how-to-pack-your-beauty-routine-for-travel/)
  - [Trump Wants to Erase Black History. These Digital Archivists Are Racing to Save It](https://www.wired.com/story/trump-wants-to-erase-black-history-these-digital-archivists-are-racing-to-save-it/)
- - [TikTok fined $600 million for sending user data to China](https://www.theverge.com/news/660047/tiktok-fine-600-million-ireland-gdpr-data-china)
- - [How to Get a Real ID License for Traveling on Airplanes](https://www.wired.com/story/how-to-get-a-real-id-license/)<!-- TECH:END -->
+ - [TikTok fined $600 million for sending user data to China](https://www.theverge.com/news/660047/tiktok-fine-600-million-ireland-gdpr-data-china)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

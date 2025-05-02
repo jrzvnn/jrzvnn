@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Origin of Mike Ehrmantrautan](http://9gag.com/gag/aAyMWpZ)
- - 😝 [Stop scrolling 9gag and go to bed bro](http://9gag.com/gag/avyx31O)
- - 💣 [He knows what he did](http://9gag.com/gag/aGyG32K)
- - 😝 [BBQ](http://9gag.com/gag/aryxj1K)
- - 👉 [Journalist interviews a random train passanger about the blackout in Spain](http://9gag.com/gag/aGyG4Y6)<!-- MEMES:END -->
+ - 😝 [Nice view](http://9gag.com/gag/aNDBNDK)
+ - 😝 [Meme](http://9gag.com/gag/adBxELd)
+ - 💣 [Let\u2019s Play!](http://9gag.com/gag/aqyxPAv)
+ - 😝 [SuperShopper](http://9gag.com/gag/a87exMV)
+ - 👉 [The Princess didn\u2019t like the cocaine she just liked the smell of it.](http://9gag.com/gag/aKG8o0O)<!-- MEMES:END -->
 
 ---
 

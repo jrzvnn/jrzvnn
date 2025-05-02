@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Another old artefact. Make this platform great again.](http://9gag.com/gag/ajPx2Xw)
- - 😝 [Perfectly Natural, Happens all the time.](http://9gag.com/gag/a9ym3DD)
- - 💣 [Saved it without even trying](http://9gag.com/gag/aKG80Lj)
- - 😝 [Versus](http://9gag.com/gag/aW4oVDK)
- - 👉 [Old but gold.](http://9gag.com/gag/a4PAM7y)<!-- MEMES:END -->
+ - 😝 [You never know](http://9gag.com/gag/ae9xo0O)
+ - 😝 [One from the archive](http://9gag.com/gag/ae9xXjQ)
+ - 💣 [He knows what he did](http://9gag.com/gag/aGyG32K)
+ - 😝 [Grandpa endurance](http://9gag.com/gag/axyOxeY)
+ - 👉 [No wonder we\u2019re screwed\u2026](http://9gag.com/gag/a87ePjV)<!-- MEMES:END -->
 
 ---
 

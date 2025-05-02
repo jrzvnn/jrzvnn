@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: eToro is considering launching its US IPO as soon as next week, after pausing its plans in April amid tariff-related stock volatility &lpar;Bloomberg&rpar;](http://www.techmeme.com/250502/p20#a250502p20)
  - [Trump’s tariff plan is a potential death blow to your cheap online shopping](https://www.theverge.com/news/642601/donald-trump-tariffs-de-minimis-shein-temu)
  - [Uber partners with Chinese self-driving startup Momenta to launch robotaxi services outside the US and China, starting with Europe in early 2026 &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250502/p19#a250502p19)
  - [Price war: Get Apple&#39;s M4 15-inch MacBook Air for $1,049](https://appleinsider.com/articles/25/05/02/price-war-get-apples-m4-15-inch-macbook-air-for-1049?utm_medium=rss)
- - [8BitDo’s wired Ultimate C Controller for Xbox and PC is just $20 right now](https://www.theverge.com/tech/660205/8bitdo-ultimate-c-wired-controller-xbox-pc-deal-sale)
- - [Donald Trump’s tariffs, explained](https://www.theverge.com/tech/607947/donald-trump-tariffs-china-mexico-canada-explainer)<!-- TECH:END -->
+ - [8BitDo’s wired Ultimate C Controller for Xbox and PC is just $20 right now](https://www.theverge.com/tech/660205/8bitdo-ultimate-c-wired-controller-xbox-pc-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

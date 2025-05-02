@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A hacking group called DragonForce takes credit for ransomware attacks targeting British retailers M&amp;S, Harrods, and Co-Op over the past two weeks &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/250502/p26#a250502p26)
+ - [Firefox could be doomed without Google search deal, says executive](https://www.theverge.com/news/660548/firefox-google-search-revenue-share-doj-antitrust-remedies)
  - [Mike Waltz Has Somehow Gotten Even Worse at Using Signal](https://www.wired.com/story/mike-waltz-has-somehow-gotten-even-worse-at-using-signal/)
  - [In praise of a special little bag](https://www.theverge.com/gadgets/660409/specialty-bag-pannier-hiking-two-wheel-topo)
- - [The US DOJ tells a judge it will seek to force Google to divest its ad exchange and publisher ad server units and share real-time ad bidding data with rivals &lpar;Financial Times&rpar;](http://www.techmeme.com/250502/p25#a250502p25)
- - [Apple is working with Anthropic on an AI coding tool for Xcode](https://www.theverge.com/news/660533/apple-anthropic-ai-coding-tool-xcode)
- - [DOGE Is in Its AI Era](https://www.wired.com/story/doge-is-in-its-ai-era/)<!-- TECH:END -->
+ - [The US DOJ tells a judge it will seek to force Google to divest its ad exchange and publisher ad server units and share real-time ad bidding data with rivals &lpar;Financial Times&rpar;](http://www.techmeme.com/250502/p25#a250502p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

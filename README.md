@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In praise of a special little bag](https://www.theverge.com/gadgets/660409/specialty-bag-pannier-hiking-two-wheel-topo)
+ - [The US DOJ tells a judge it will seek to force Google to divest its ad exchange and publisher ad server units and share real-time ad bidding data with rivals &lpar;Financial Times&rpar;](http://www.techmeme.com/250502/p25#a250502p25)
+ - [Apple is working with Anthropic on an AI coding tool for Xcode](https://www.theverge.com/news/660533/apple-anthropic-ai-coding-tool-xcode)
  - [DOGE Is in Its AI Era](https://www.wired.com/story/doge-is-in-its-ai-era/)
- - [Temu stops shipping products from China directly to US shoppers and lists only products shipped from US warehouses, as Trump closes the de minimis exemption &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250502/p24#a250502p24)
- - [Apple turns to Anthropic to speed up coding &amp; fix buggy tools](https://appleinsider.com/articles/25/05/02/apple-turns-to-anthropic-to-speed-up-coding-fix-buggy-tools?utm_medium=rss)
- - [Android’s next big feature turns your phone into a desktop](https://www.theverge.com/news/660509/android-desktop-mode-16-beta-demo)
- - [Google plans to roll out Gemini next week for children under 13 whose parents use Family Link and says it will not use the under-13 users&#39; data to train its AI &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/250502/p23#a250502p23)<!-- TECH:END -->
+ - [Temu stops shipping products from China directly to US shoppers and lists only products shipped from US warehouses, as Trump closes the de minimis exemption &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250502/p24#a250502p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

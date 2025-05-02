@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Make a British Bobbie cry!](http://9gag.com/gag/a87ePA3)
- - 😝 [Is she one of you?](http://9gag.com/gag/a9ymQqL)
- - 💣 [Seems about right](http://9gag.com/gag/aRBvn3j)
- - 😝 [No wonder we\u2019re screwed\u2026](http://9gag.com/gag/a87ePjV)
+ - 😝 [Like a random encounter in an open world game](http://9gag.com/gag/ae9xodO)
+ - 😝 [He knows what he did](http://9gag.com/gag/aGyG32K)
+ - 💣 [Good. Happy for you. Very nice.](http://9gag.com/gag/amoxE12)
+ - 😝 [Tower Of London Evolution](http://9gag.com/gag/aqyx3vR)
  - 👉 [Meme](http://9gag.com/gag/adBxELd)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Is Moving US iPhone Assembly to India Amid Tariff Turmoil](https://www.cnet.com/tech/mobile/apple-is-moving-us-iphone-assembly-to-india-amid-tariff-turmoil/#ftag=CAD590a51e)
+ - [How to Get a Free Fortnite Star Wars Skin and 4 Other Outfits Now](https://www.cnet.com/tech/gaming/how-to-get-a-free-fortnite-star-wars-skin-and-4-other-outfits-now/#ftag=CAD590a51e)
+ - [&#39;Thunderbolts*&#39;: Does It Have a Post-Credits Scene?](https://www.cnet.com/tech/services-and-software/thunderbolts-does-it-have-a-post-credits-scene/#ftag=CAD590a51e)
  - [Best Apple Watch for 2025](https://www.cnet.com/tech/mobile/best-apple-watch/#ftag=CAD590a51e)
- - [At the adtech remedy hearing, Google says it&#39;s open to giving competitors access to real-time bidding data from its ad exchange AdX, but it rejects a breakup &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/250502/p28#a250502p28)
- - [Source: Anthropic offers to buy back shares from current and former employees, the first transaction of its kind for Anthropic, valuing the startup at $61.5B &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/250502/p27#a250502p27)
- - [Inside Sam Altman’s eye-scanning crypto party](https://www.theverge.com/tech/659987/sam-altman-worldcoin-crypto-orb-us-launch)
- - [Trump&amp;#8217;s proposed budget deals another big blow to science, clean energy, and the environment](https://www.theverge.com/news/660579/president-trump-budget-slash-science-health-energy-climate-environment)<!-- TECH:END -->
+ - [At the adtech remedy hearing, Google says it&#39;s open to giving competitors access to real-time bidding data from its ad exchange AdX, but it rejects a breakup &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/250502/p28#a250502p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

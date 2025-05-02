@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chaotic infinite pendulum system](http://9gag.com/gag/a5QzLPE)
  - 😝 [It was at this moment](http://9gag.com/gag/a0en3gZ)
- - 💣 [Stare Contest](http://9gag.com/gag/aD2byA7)
+ - 😝 [Stare Contest](http://9gag.com/gag/aD2byA7)
+ - 💣 [Foam depot tool](http://9gag.com/gag/a4PAvKw)
  - 😝 [You got this? What are your thoughts? We\u2019re here to help you. I\u2019ll support](http://9gag.com/gag/aMVzgRW)
- - 👉 [Foam depot tool](http://9gag.com/gag/a4PAvKw)<!-- MEMES:END -->
+ - 👉 [Journalist interviews a random train passanger about the blackout in Spain](http://9gag.com/gag/aGyG4Y6)<!-- MEMES:END -->
 
 ---
 

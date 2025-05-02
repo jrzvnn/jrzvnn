@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As Trump’s Family Crypto Business Gains Steam, Ethical Concerns Mount](https://www.wired.com/story/as-trumps-family-crypto-business-gains-steam-ethical-concerns-mount/)
- - [Livestream marketplace Whatnot says it hit $3B+ worth of goods sold through its app last year and viewers spend 80+ minutes per day on average on the app &lpar;Ann Gehan/The Information&rpar;](http://www.techmeme.com/250502/p16#a250502p16)
- - [I Thought Phone Lanyards Were Ugly—Until I Tried the Bandolier Bodie](https://www.wired.com/story/bandolier-bodie-crossbody-phone-case-rave/)
- - [100 Men vs. 1 Gorilla: Who Wins if It&#39;s King Kong?](https://www.cnet.com/culture/entertainment/100-men-vs-1-gorilla-who-wins-if-its-king-kong/#ftag=CAD590a51e)
- - [An investigation finds 70+ content-farm YouTube channels using AI to produce cartoon content featuring gore and child abuse, featuring characters like minions &lpar;Laura Holliday/Wired&rpar;](http://www.techmeme.com/250502/p15#a250502p15)<!-- TECH:END -->
+ - [The cargo-carrying Gitamini robot is getting a Star Wars droid makeover](https://www.theverge.com/news/659576/piaggio-fast-forward-gitamini-cargo-robot-star-wars-disney-lucasfilm-g1t4-m1n1)
+ - [Let’s rewatch the Grand Theft Auto VI trailer](https://www.theverge.com/news/660233/gta-6-trailer-rewatch-delay)
+ - [Trump’s first 100 days: DOGE, tariffs, TikTok, and more](https://www.theverge.com/decoder-podcast-with-nilay-patel/658841/trump-100-days-musk-doge-kosa-tiktok-carr-fcc-tariffs-trade)
+ - [Filing: Amazon restructured part of its $8B Anthropic investment from convertible notes into stock in Q1, creating a $3.3B pre-tax gain that boosted its profits &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250502/p17#a250502p17)
+ - [Canadians will also pay more for Leica cameras as a result of US tariffs](https://www.theverge.com/news/660197/leica-us-tariff-camera-price-increase-canada)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

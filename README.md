@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It was at this moment](http://9gag.com/gag/a0en3gZ)
- - 😝 [Stare Contest](http://9gag.com/gag/aD2byA7)
- - 💣 [Foam depot tool](http://9gag.com/gag/a4PAvKw)
- - 😝 [You got this? What are your thoughts? We\u2019re here to help you. I\u2019ll support](http://9gag.com/gag/aMVzgRW)
- - 👉 [Journalist interviews a random train passanger about the blackout in Spain](http://9gag.com/gag/aGyG4Y6)<!-- MEMES:END -->
+ - 😝 [Tower Of London Evolution](http://9gag.com/gag/aqyx3vR)
+ - 😝 [He knows what he did](http://9gag.com/gag/aGyG32K)
+ - 💣 [When coffee orders get more complex than crime investigations](http://9gag.com/gag/aGyGW40)
+ - 😝 [Like a random encounter in an open world game](http://9gag.com/gag/ae9xodO)
+ - 👉 [Stop scrolling 9gag and go to bed bro](http://9gag.com/gag/avyx31O)<!-- MEMES:END -->
 
 ---
 

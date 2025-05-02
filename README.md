@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Temu Blocks US Shoppers From Seeing Products Shipped From China](https://www.wired.com/story/temu-local-warehouses-tariffs/)
- - [Reddit plans to add Reddit Answers, its AI search tool that was launched in beta in December 2024, to its main search bar and says the tool has 1M weekly users &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/250501/p62#a250501p62)
- - [Analysts contradict Apple&#39;s assessment of Q2, suggests pull-forward in demand helped](https://appleinsider.com/articles/25/05/02/analysts-contradict-apples-assessment-of-q2-suggests-pull-forward-in-demand-helped?utm_medium=rss)
- - [Trump&#39;s World Liberty Financial says Abu Dhabi&#39;s MGX fund is making a $2B investment in Binance using World Liberty&#39;s USD1 stablecoin, raising ethical concerns &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/250501/p61#a250501p61)
- - [Recession Indicators Aren&#39;t Always Metrics. Sometimes, They&#39;re Memes](https://www.cnet.com/personal-finance/banking/how-to-know-which-recession-indicators-are-real/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s App Store Guidelines updated to reflect court order over external purchases](https://appleinsider.com/articles/25/05/02/apples-app-store-guidelines-updated-to-reflect-court-order-over-external-purchases?utm_medium=rss)
+ - [Temu appears to have removed all products in the US version of its online store that ship directly from China to US consumers, confusing suppliers and customers &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/250501/p65#a250501p65)
+ - [Last quarter before Trump tariffs sees Apple beat Wall Street with $95.4 billion earnings](https://appleinsider.com/articles/25/05/01/trump-tariff-fears-drove-apple-to-wall-street-beating-954-billion-q2-earnings?utm_medium=rss)
+ - [Atlassian reports Q3 revenue up 14% YoY to $1.36B, vs. $1.29B est., and a net loss of $70.8M, vs. a $12.8M net profit a year ago; TEAM drops 16%+ after hours &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250501/p64#a250501p64)
+ - [MoviePass launches Mogul, a daily fantasy sports-inspired, blockchain-based platform for movie buffs, and says over 400K people have signed up for early access &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250501/p63#a250501p63)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

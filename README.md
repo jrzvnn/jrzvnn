@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)
- - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
- - [Spotify says it submitted an iOS app update letting US customers use other payment options beyond Apple&#39;s; Patreon earlier said it would do the same &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250501/p60#a250501p60)
- - [Microsoft goes passwordless by default on new accounts](https://www.theverge.com/news/659929/microsoft-passwordless-passkeys-by-default)
- - [A Judge Says Meta’s AI Copyright Case Is About ‘the Next Taylor Swift’](https://www.wired.com/story/meta-lawsuit-copyright-hearing-artificial-intelligence/)<!-- TECH:END -->
+ - [Temu Blocks US Shoppers From Seeing Products Shipped From China](https://www.wired.com/story/temu-local-warehouses-tariffs/)
+ - [Reddit plans to add Reddit Answers, its AI search tool that was launched in beta in December 2024, to its main search bar and says the tool has 1M weekly users &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/250501/p62#a250501p62)
+ - [Analysts contradict Apple&#39;s assessment of Q2, suggests pull-forward in demand helped](https://appleinsider.com/articles/25/05/02/analysts-contradict-apples-assessment-of-q2-suggests-pull-forward-in-demand-helped?utm_medium=rss)
+ - [Trump&#39;s World Liberty Financial says Abu Dhabi&#39;s MGX fund is making a $2B investment in Binance using World Liberty&#39;s USD1 stablecoin, raising ethical concerns &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/250501/p61#a250501p61)
+ - [Recession Indicators Aren&#39;t Always Metrics. Sometimes, They&#39;re Memes](https://www.cnet.com/personal-finance/banking/how-to-know-which-recession-indicators-are-real/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

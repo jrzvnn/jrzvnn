@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Memo: the US DOD seeks to secure right-to-repair provisions in Army contracts to access tools, software, and technical data without IP constraints &lpar;Reuters&rpar;](http://www.techmeme.com/250502/p1#a250502p1)
  - [Apple updates its App Store Guidelines to comply with a US judge&#39;s April 30 injunction, including allowing app developers to link to external payments in the US &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250501/p66#a250501p66)
  - [Apple&#39;s App Store Guidelines updated to reflect court order over external purchases](https://appleinsider.com/articles/25/05/02/apples-app-store-guidelines-updated-to-reflect-court-order-over-external-purchases?utm_medium=rss)
  - [Temu appears to have removed all products in the US version of its online store that ship directly from China to US consumers, confusing suppliers and customers &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/250501/p65#a250501p65)
- - [Last quarter before Trump tariffs sees Apple beat Wall Street with $95.4 billion earnings](https://appleinsider.com/articles/25/05/01/trump-tariff-fears-drove-apple-to-wall-street-beating-954-billion-q2-earnings?utm_medium=rss)
- - [Atlassian reports Q3 revenue up 14% YoY to $1.36B, vs. $1.29B est., and a net loss of $70.8M, vs. a $12.8M net profit a year ago; TEAM drops 16%+ after hours &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250501/p64#a250501p64)<!-- TECH:END -->
+ - [Last quarter before Trump tariffs sees Apple beat Wall Street with $95.4 billion earnings](https://appleinsider.com/articles/25/05/01/trump-tariff-fears-drove-apple-to-wall-street-beating-954-billion-q2-earnings?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

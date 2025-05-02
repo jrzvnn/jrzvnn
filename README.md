@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At least the dog was carried carefully.](http://9gag.com/gag/aryxYGV)
- - 😝 [SuperShopper](http://9gag.com/gag/a87exMV)
- - 💣 [Totally a title about something different](http://9gag.com/gag/aNDBbPr)
- - 😝 [Christian Bale had initially turned down the possibility of appearing in any comic book or superhero films after Batman, seeing the genre as uninteresting. He agreed to take part in \u201cThor: Love and Thunder\u201d after his kids begged him to take the role. His performance outstands all](http://9gag.com/gag/aD2bKP9)
+ - 😝 [Is this a win/win?](http://9gag.com/gag/avyxMnb)
+ - 😝 [Meme](http://9gag.com/gag/adBxELd)
+ - 💣 [Do not REDEEM it !!!!!!](http://9gag.com/gag/a7o9Q2m)
+ - 😝 [Let\u2019s Play!](http://9gag.com/gag/aqyxPAv)
  - 👉 [Smartphone concept from 2013](http://9gag.com/gag/a1mV9w2)<!-- MEMES:END -->
 
 ---

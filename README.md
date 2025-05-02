@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI shares details on how an update to GPT-4o inadvertently increased the model&#39;s sycophancy, why OpenAI failed to catch it, and the changes it is planning &lpar;OpenAI&rpar;](http://www.techmeme.com/250502/p21#a250502p21)
  - [Sources: eToro is considering launching its US IPO as soon as next week, after pausing its plans in April amid tariff-related stock volatility &lpar;Bloomberg&rpar;](http://www.techmeme.com/250502/p20#a250502p20)
  - [Trump’s tariff plan is a potential death blow to your cheap online shopping](https://www.theverge.com/news/642601/donald-trump-tariffs-de-minimis-shein-temu)
  - [Uber partners with Chinese self-driving startup Momenta to launch robotaxi services outside the US and China, starting with Europe in early 2026 &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250502/p19#a250502p19)
- - [Price war: Get Apple&#39;s M4 15-inch MacBook Air for $1,049](https://appleinsider.com/articles/25/05/02/price-war-get-apples-m4-15-inch-macbook-air-for-1049?utm_medium=rss)
- - [8BitDo’s wired Ultimate C Controller for Xbox and PC is just $20 right now](https://www.theverge.com/tech/660205/8bitdo-ultimate-c-wired-controller-xbox-pc-deal-sale)<!-- TECH:END -->
+ - [Price war: Get Apple&#39;s M4 15-inch MacBook Air for $1,049](https://appleinsider.com/articles/25/05/02/price-war-get-apples-m4-15-inch-macbook-air-for-1049?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

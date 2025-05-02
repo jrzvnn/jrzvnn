@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [At the adtech remedy hearing, Google says it&#39;s open to giving competitors access to real-time bidding data from its ad exchange AdX, but it rejects a breakup &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/250502/p28#a250502p28)
+ - [Source: Anthropic offers to buy back shares from current and former employees, the first transaction of its kind for Anthropic, valuing the startup at $61.5B &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/250502/p27#a250502p27)
  - [Inside Sam Altman’s eye-scanning crypto party](https://www.theverge.com/tech/659987/sam-altman-worldcoin-crypto-orb-us-launch)
  - [Trump&amp;#8217;s proposed budget deals another big blow to science, clean energy, and the environment](https://www.theverge.com/news/660579/president-trump-budget-slash-science-health-energy-climate-environment)
- - [A hacking group called DragonForce takes credit for ransomware attacks targeting British retailers M&amp;S, Harrods, and Co-Op over the past two weeks &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/250502/p26#a250502p26)
- - [Firefox could be doomed without Google search deal, says executive](https://www.theverge.com/news/660548/firefox-google-search-revenue-share-doj-antitrust-remedies)
- - [Mike Waltz Has Somehow Gotten Even Worse at Using Signal](https://www.wired.com/story/mike-waltz-has-somehow-gotten-even-worse-at-using-signal/)<!-- TECH:END -->
+ - [A hacking group called DragonForce takes credit for ransomware attacks targeting British retailers M&amp;S, Harrods, and Co-Op over the past two weeks &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/250502/p26#a250502p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

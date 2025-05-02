@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The cargo-carrying Gitamini robot is getting a Star Wars droid makeover](https://www.theverge.com/news/659576/piaggio-fast-forward-gitamini-cargo-robot-star-wars-disney-lucasfilm-g1t4-m1n1)
- - [Let’s rewatch the Grand Theft Auto VI trailer](https://www.theverge.com/news/660233/gta-6-trailer-rewatch-delay)
- - [Trump’s first 100 days: DOGE, tariffs, TikTok, and more](https://www.theverge.com/decoder-podcast-with-nilay-patel/658841/trump-100-days-musk-doge-kosa-tiktok-carr-fcc-tariffs-trade)
- - [Filing: Amazon restructured part of its $8B Anthropic investment from convertible notes into stock in Q1, creating a $3.3B pre-tax gain that boosted its profits &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250502/p17#a250502p17)
- - [Canadians will also pay more for Leica cameras as a result of US tariffs](https://www.theverge.com/news/660197/leica-us-tariff-camera-price-increase-canada)<!-- TECH:END -->
+ - [8BitDo’s wired Ultimate C Controller for Xbox and PC is just $20 right now](https://www.theverge.com/tech/660205/8bitdo-ultimate-c-wired-controller-xbox-pc-deal-sale)
+ - [Donald Trump’s tariffs, explained](https://www.theverge.com/tech/607947/donald-trump-tariffs-china-mexico-canada-explainer)
+ - [Fubo isn&amp;#8217;t giving up on its Venu-like sports bundle](https://www.theverge.com/news/660336/fubo-plans-fall-sports-bundle-venu-earnings)
+ - [A US judge schedules the US government&#39;s remedies trial in the Google antitrust case regarding its advertising tech to begin on September 22 &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250502/p18#a250502p18)
+ - [A DOGE Recruiter Is Staffing a Project to Deploy AI Agents Across the US Government](https://www.wired.com/story/doge-recruiter-ai-agents-palantir-clown-emoji/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Stop scrolling 9gag and go to bed bro](http://9gag.com/gag/avyx31O)
+ - 😝 [Kitty is going places](http://9gag.com/gag/a1mVz5P)
+ - 💣 [Is this a win/win?](http://9gag.com/gag/avyxMnb)
  - 😝 [Japanese police chief bows to apologise to the man who was acquitted after nearly 60 years on death row](http://9gag.com/gag/adBxmA2)
- - 😝 [Is this a win/win?](http://9gag.com/gag/avyxMnb)
- - 💣 [BBQ](http://9gag.com/gag/aryxj1K)
- - 😝 [He knows what he did](http://9gag.com/gag/aGyG32K)
- - 👉 [Seems about right](http://9gag.com/gag/aRBvn3j)<!-- MEMES:END -->
+ - 👉 [Let\u2019s Play!](http://9gag.com/gag/aqyxPAv)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Decagon, which is building customer service-focused AI agents, is in talks to raise $100M in new funding led by a16z and Accel at a $1.5B valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/250502/p29#a250502p29)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
  - [Apple Is Moving US iPhone Assembly to India Amid Tariff Turmoil](https://www.cnet.com/tech/mobile/apple-is-moving-us-iphone-assembly-to-india-amid-tariff-turmoil/#ftag=CAD590a51e)
  - [How to Get a Free Fortnite Star Wars Skin and 4 Other Outfits Now](https://www.cnet.com/tech/gaming/how-to-get-a-free-fortnite-star-wars-skin-and-4-other-outfits-now/#ftag=CAD590a51e)
- - [&#39;Thunderbolts*&#39;: Does It Have a Post-Credits Scene?](https://www.cnet.com/tech/services-and-software/thunderbolts-does-it-have-a-post-credits-scene/#ftag=CAD590a51e)
- - [Best Apple Watch for 2025](https://www.cnet.com/tech/mobile/best-apple-watch/#ftag=CAD590a51e)
- - [At the adtech remedy hearing, Google says it&#39;s open to giving competitors access to real-time bidding data from its ad exchange AdX, but it rejects a breakup &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/250502/p28#a250502p28)<!-- TECH:END -->
+ - [&#39;Thunderbolts*&#39;: Does It Have a Post-Credits Scene?](https://www.cnet.com/tech/services-and-software/thunderbolts-does-it-have-a-post-credits-scene/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

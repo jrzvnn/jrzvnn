@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook praises Trump in US tech titan meeting](https://appleinsider.com/articles/25/05/02/tim-cook-praises-trump-in-us-tech-titan-meeting?utm_medium=rss)
- - [Pinterest users left confused by mass account suspensions](https://www.theverge.com/news/660070/pinterest-mass-account-suspensions)
- - [Microsoft says new accounts will be &quot;passwordless by default&quot;, asking people to use more secure methods like passkeys, push notifications, and security keys &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/250502/p7#a250502p7)
- - [Grand Theft Auto VI release delayed to May 2026](https://www.theverge.com/news/660057/grand-theft-auto-6-release-date-delay-may-2026)
- - [How to Pack Your Beauty Routine for Travel &lpar;2025&rpar;](https://www.wired.com/story/how-to-pack-your-beauty-routine-for-travel/)<!-- TECH:END -->
+ - [Apple plans to source more than 19B chips from the US this year, including from TSMC&#39;s expanding Arizona facilities, as it seeks to lessen its reliance on China &lpar;Bloomberg&rpar;](http://www.techmeme.com/250502/p9#a250502p9)
+ - [Apple approves Spotify app update with external payments](https://www.theverge.com/news/660084/spotify-app-iphone-apple-update-external-payment-links)
+ - [10 Best Chef&#39;s Knives &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-chefs-knives/)
+ - [Rockstar Games delays the release of Grand Theft Auto VI from fall 2025 to May 26, 2026, says it needs extra time to deliver the expected quality &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250502/p8#a250502p8)
+ - [Tim Cook praises Trump in US tech titan meeting](https://appleinsider.com/articles/25/05/02/tim-cook-praises-trump-in-us-tech-titan-meeting?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

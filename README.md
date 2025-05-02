@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Groupon Promo Codes: 25% Off May 2025](https://www.wired.com/story/groupon-promo-code/)
  - [25% Off Design Within Reach Promo Code | May 2025](https://www.wired.com/story/design-within-reach-promo-code/)
  - [$25 Off DoorDash Promo Code | May 2025](https://www.wired.com/story/doordash-promo-code/)
  - [Visible Promo Code: Save $530 in May 2025](https://www.wired.com/story/visible-promo-code/)
- - [Memo: the US DOD seeks to secure right-to-repair provisions in Army contracts to access tools, software, and technical data without IP constraints &lpar;Reuters&rpar;](http://www.techmeme.com/250502/p1#a250502p1)
- - [Apple updates its App Store Guidelines to comply with a US judge&#39;s April 30 injunction, including allowing app developers to link to external payments in the US &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250501/p66#a250501p66)<!-- TECH:END -->
+ - [Memo: the US DOD seeks to secure right-to-repair provisions in Army contracts to access tools, software, and technical data without IP constraints &lpar;Reuters&rpar;](http://www.techmeme.com/250502/p1#a250502p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

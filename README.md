@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Like a random encounter in an open world game](http://9gag.com/gag/ae9xodO)
- - 😝 [He knows what he did](http://9gag.com/gag/aGyG32K)
- - 💣 [Good. Happy for you. Very nice.](http://9gag.com/gag/amoxE12)
+ - 😝 [Stop scrolling 9gag and go to bed bro](http://9gag.com/gag/avyx31O)
+ - 😝 [Did she consult a lawyer before stealing? hahahaha](http://9gag.com/gag/a2vDe09)
+ - 💣 [Accountability? Not even once](http://9gag.com/gag/ae9xLdp)
  - 😝 [Tower Of London Evolution](http://9gag.com/gag/aqyx3vR)
- - 👉 [Meme](http://9gag.com/gag/adBxELd)<!-- MEMES:END -->
+ - 👉 [He knows what he did](http://9gag.com/gag/aGyG32K)<!-- MEMES:END -->
 
 ---
 

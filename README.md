@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japanese police chief bows to apologise to the man who was acquitted after nearly 60 years on death row](http://9gag.com/gag/adBxmA2)
- - 😝 [Let\u2019s Play!](http://9gag.com/gag/aqyxPAv)
+ - 😝 [Journalist interviews a random train passanger about the blackout in Spain](http://9gag.com/gag/aGyG4Y6)
+ - 😝 [Did she consult a lawyer before stealing? hahahaha](http://9gag.com/gag/a2vDe09)
  - 💣 [BBQ](http://9gag.com/gag/aryxj1K)
- - 😝 [Stop scrolling 9gag and go to bed bro](http://9gag.com/gag/avyx31O)
- - 👉 [Did she consult a lawyer before stealing? hahahaha](http://9gag.com/gag/a2vDe09)<!-- MEMES:END -->
+ - 😝 [Suffering of being success](http://9gag.com/gag/aGyGXvn)
+ - 👉 [The Princess didn\u2019t like the cocaine she just liked the smell of it.](http://9gag.com/gag/aKG8o0O)<!-- MEMES:END -->
 
 ---
 

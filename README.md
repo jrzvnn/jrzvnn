@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Accountability? Not even once](http://9gag.com/gag/ae9xLdp)
- - 😝 [Seems about right](http://9gag.com/gag/aRBvn3j)
- - 💣 [High five, little basketball player](http://9gag.com/gag/abAxn8B)
- - 😝 [Nice view](http://9gag.com/gag/aNDBNDK)
- - 👉 [Meme](http://9gag.com/gag/adBxELd)<!-- MEMES:END -->
+ - 😝 [At least the dog was carried carefully.](http://9gag.com/gag/aryxYGV)
+ - 😝 [Do not REDEEM it !!!!!!](http://9gag.com/gag/a7o9Q2m)
+ - 💣 [Accountability? Not even once](http://9gag.com/gag/ae9xLdp)
+ - 😝 [Why is it so .. my fellow germans](http://9gag.com/gag/aryxjwX)
+ - 👉 [Wtf bruh](http://9gag.com/gag/aD2bKr9)<!-- MEMES:END -->
 
 ---
 

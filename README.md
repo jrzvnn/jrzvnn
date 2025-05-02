@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tower Of London Evolution](http://9gag.com/gag/aqyx3vR)
- - 😝 [Is she one of you?](http://9gag.com/gag/a9ymQqL)
- - 💣 [Accountability? Not even once](http://9gag.com/gag/ae9xLdp)
- - 😝 [Skip towns maybe](http://9gag.com/gag/awyOqbB)
- - 👉 [Suffering of being success](http://9gag.com/gag/aGyGXvn)<!-- MEMES:END -->
+ - 😝 [Another old artefact. Make this platform great again.](http://9gag.com/gag/ajPx2Xw)
+ - 😝 [Upvote this ham sandwich, it will give you luck today.](http://9gag.com/gag/aQzmGne)
+ - 💣 [Is there a middle ground anywhere?](http://9gag.com/gag/aNDBy9A)
+ - 😝 [This black color is making me go crazy](http://9gag.com/gag/an7xAmo)
+ - 👉 [Old but gold.](http://9gag.com/gag/a4PAM7y)<!-- MEMES:END -->
 
 ---
 

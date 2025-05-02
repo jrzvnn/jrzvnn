@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good. Happy for you. Very nice.](http://9gag.com/gag/amoxE12)
- - 😝 [`Maybe little bad technique.`](http://9gag.com/gag/aMVzpwV)
- - 💣 [Japanese police chief bows to apologise to the man who was acquitted after nearly 60 years on death row](http://9gag.com/gag/adBxmA2)
- - 😝 [Did she consult a lawyer before stealing? hahahaha](http://9gag.com/gag/a2vDe09)
- - 👉 [Skip towns maybe](http://9gag.com/gag/awyOqbB)<!-- MEMES:END -->
+ - 😝 [One from the archive](http://9gag.com/gag/ae9xXjQ)
+ - 😝 [Robot goes berserk](http://9gag.com/gag/a6ZBv1N)
+ - 💣 [Like a random encounter in an open world game](http://9gag.com/gag/ae9xodO)
+ - 😝 [Skip towns maybe](http://9gag.com/gag/awyOqbB)
+ - 👉 [Don&#39;t kill the Gorilla this time](http://9gag.com/gag/axyOpEp)<!-- MEMES:END -->
 
 ---
 

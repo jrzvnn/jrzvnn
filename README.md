@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [SuperShopper](http://9gag.com/gag/a87exMV)
- - 😝 [3D Printed Sherk](http://9gag.com/gag/a9ymG7K)
- - 💣 [This poor bastard.](http://9gag.com/gag/a0eny7L)
- - 😝 [Christian Bale had initially turned down the possibility of appearing in any comic book or superhero films after Batman, seeing the genre as uninteresting. He agreed to take part in \u201cThor: Love and Thunder\u201d after his kids begged him to take the role. His performance outstands all](http://9gag.com/gag/aD2bKP9)
- - 👉 [Seems about right](http://9gag.com/gag/aRBvn3j)<!-- MEMES:END -->
+ - 😝 [Accountability? Not even once](http://9gag.com/gag/ae9xLdp)
+ - 😝 [Seems about right](http://9gag.com/gag/aRBvn3j)
+ - 💣 [High five, little basketball player](http://9gag.com/gag/abAxn8B)
+ - 😝 [Nice view](http://9gag.com/gag/aNDBNDK)
+ - 👉 [Meme](http://9gag.com/gag/adBxELd)<!-- MEMES:END -->
 
 ---
 

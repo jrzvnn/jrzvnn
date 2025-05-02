@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Livestream marketplace Whatnot says it hit $3B+ worth of goods sold through its app last year and viewers spend 80+ minutes per day on average on the app &lpar;Ann Gehan/The Information&rpar;](http://www.techmeme.com/250502/p16#a250502p16)
  - [I Thought Phone Lanyards Were Ugly—Until I Tried the Bandolier Bodie](https://www.wired.com/story/bandolier-bodie-crossbody-phone-case-rave/)
+ - [100 Men vs. 1 Gorilla: Who Wins if It&#39;s King Kong?](https://www.cnet.com/culture/entertainment/100-men-vs-1-gorilla-who-wins-if-its-king-kong/#ftag=CAD590a51e)
  - [An investigation finds 70+ content-farm YouTube channels using AI to produce cartoon content featuring gore and child abuse, featuring characters like minions &lpar;Laura Holliday/Wired&rpar;](http://www.techmeme.com/250502/p15#a250502p15)
- - [Apple&#39;s $900 million tariff bill in Q3 is a sign of Tim Cook&#39;s supply chain mastery](https://appleinsider.com/articles/25/05/02/apples-900-million-tariff-bill-in-q3-is-a-sign-of-tim-cooks-supply-chain-mastery?utm_medium=rss)
- - [Trump issues order to pull funding for NPR and PBS](https://www.theverge.com/news/660130/trump-npr-pbs-executive-order-funding)
- - [Brendan Carr Is Turning the FCC Into MAGA’s Censoring Machine](https://www.wired.com/story/plaintext-fcc-brendan-carr-donald-trump/)<!-- TECH:END -->
+ - [Apple&#39;s $900 million tariff bill in Q3 is a sign of Tim Cook&#39;s supply chain mastery](https://appleinsider.com/articles/25/05/02/apples-900-million-tariff-bill-in-q3-is-a-sign-of-tim-cooks-supply-chain-mastery?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

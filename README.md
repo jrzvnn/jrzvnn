@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google plans to roll out Gemini next week for children under 13 whose parents use Family Link and says it will not use the children&#39;s data to train its AI &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/250502/p23#a250502p23)
+ - [You can still snag an Xbox Series X / S before Microsoft’s price hike fully lands](https://www.theverge.com/tech/660373/microsoft-xbox-series-x-s-price-hike-dell-walmart-deal-sale)
+ - [How to lock down your privacy in WhatsApp](https://www.theverge.com/how-to/659790/whatsapp-privacy-how-to)
  - [iPhone 17 rumors: More speed &amp; ProMotion screen, but no big redesign](https://appleinsider.com/articles/25/05/02/iphone-17-rumors-more-speed-promotion-screen-but-no-big-redesign?utm_medium=rss)
- - [Sources: Apple is working with Anthropic for a new version of Xcode that will use Claude Sonnet to write, edit, and test code, with plans to roll out internally &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250502/p22#a250502p22)
- - [Welcome to Sam Altman’s Orb Store](https://www.wired.com/story/sam-altman-orb-store-san-francisco/)
- - [OpenAI shares details on how an update to GPT-4o inadvertently increased the model&#39;s sycophancy, why OpenAI failed to catch it, and the changes it is planning &lpar;OpenAI&rpar;](http://www.techmeme.com/250502/p21#a250502p21)
- - [Sources: eToro is considering launching its US IPO as soon as next week, after pausing its plans in April amid tariff-related stock volatility &lpar;Bloomberg&rpar;](http://www.techmeme.com/250502/p20#a250502p20)<!-- TECH:END -->
+ - [Sources: Apple is working with Anthropic for a new version of Xcode that will use Claude Sonnet to write, edit, and test code, with plans to roll out internally &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250502/p22#a250502p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

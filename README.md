@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf bruh](http://9gag.com/gag/aD2bKr9)
- - 😝 [The look on his face tho hahaha](http://9gag.com/gag/amox3Ko)
- - 💣 [Christian Bale had initially turned down the possibility of appearing in any comic book or superhero films after Batman, seeing the genre as uninteresting. He agreed to take part in \u201cThor: Love and Thunder\u201d after his kids begged him to take the role. His performance outstands all](http://9gag.com/gag/aD2bKP9)
- - 😝 [The Princess didn\u2019t like the cocaine she just liked the smell of it.](http://9gag.com/gag/aKG8o0O)
- - 👉 [How to solve the age old problem of getting splashed with oil when cooking](http://9gag.com/gag/ayN1K0q)<!-- MEMES:END -->
+ - 😝 [Nice view](http://9gag.com/gag/aNDBNDK)
+ - 😝 [It was at this moment](http://9gag.com/gag/a0en3gZ)
+ - 💣 [You got this? What are your thoughts? We\u2019re here to help you. I\u2019ll support](http://9gag.com/gag/aMVzgRW)
+ - 😝 [Down in one](http://9gag.com/gag/aQzmGeK)
+ - 👉 [Waiting for it...](http://9gag.com/gag/aqyxPZv)<!-- MEMES:END -->
 
 ---
 

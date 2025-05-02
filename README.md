@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US designates Cambodia&#39;s Huione as a money-laundering operation, says it laundered $4B+ from August 2021 to January 2025 for North Korean hackers and others &lpar;Selam Gebrekidan/New York Times&rpar;](http://www.techmeme.com/250502/p13#a250502p13)
+ - [Stripe already has a way for iOS developers to dodge Apple&amp;#8217;s payment system](https://www.theverge.com/news/660131/stripe-checkout-ios-transactions-outside-app-antitrust)
  - [Filing: Jeff Bezos plans to sell up to $4.75B worth of Amazon stock, or 25M shares, through an orderly trading plan running through the end of May 2026 &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250502/p12#a250502p12)
  - [22 Best Portable Chargers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
- - [Nintendo has released an update fixing a Switch boot up bug](https://www.theverge.com/news/660123/nintendo-switch-software-update-error-code-bug-how-to-fix)
- - [Sources: Nvidia told ByteDance, Alibaba, Tencent, and others that it is tweaking its AI chips so they can be sold in China without breaching US export rules &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/250502/p11#a250502p11)
- - [The chance of getting hit by a Soviet spacecraft goes up next week](https://www.theverge.com/news/660121/kosmos-482-lander-soviet-space-junk)<!-- TECH:END -->
+ - [Nintendo has released an update fixing a Switch boot up bug](https://www.theverge.com/news/660123/nintendo-switch-software-update-error-code-bug-how-to-fix)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stare Contest](http://9gag.com/gag/aD2byA7)
- - 😝 [Foam depot tool](http://9gag.com/gag/a4PAvKw)
- - 💣 [You got this? What are your thoughts? We\u2019re here to help you. I\u2019ll support](http://9gag.com/gag/aMVzgRW)
- - 😝 [Woman throws food at a white woman because \u201cwhite people are inferior.\u201d Wait for it...](http://9gag.com/gag/agmxWxW)
- - 👉 [Journalist interviews a random train passanger about the blackout in Spain](http://9gag.com/gag/aGyG4Y6)<!-- MEMES:END -->
+ - 😝 [Make a British Bobbie cry!](http://9gag.com/gag/a87ePA3)
+ - 😝 [Is she one of you?](http://9gag.com/gag/a9ymQqL)
+ - 💣 [Seems about right](http://9gag.com/gag/aRBvn3j)
+ - 😝 [No wonder we\u2019re screwed\u2026](http://9gag.com/gag/a87ePjV)
+ - 👉 [Meme](http://9gag.com/gag/adBxELd)<!-- MEMES:END -->
 
 ---
 

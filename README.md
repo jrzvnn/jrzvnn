@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mike Waltz Has Somehow Gotten Even Worse at Using Signal](https://www.wired.com/story/mike-waltz-has-somehow-gotten-even-worse-at-using-signal/)
  - [In praise of a special little bag](https://www.theverge.com/gadgets/660409/specialty-bag-pannier-hiking-two-wheel-topo)
  - [The US DOJ tells a judge it will seek to force Google to divest its ad exchange and publisher ad server units and share real-time ad bidding data with rivals &lpar;Financial Times&rpar;](http://www.techmeme.com/250502/p25#a250502p25)
  - [Apple is working with Anthropic on an AI coding tool for Xcode](https://www.theverge.com/news/660533/apple-anthropic-ai-coding-tool-xcode)
- - [DOGE Is in Its AI Era](https://www.wired.com/story/doge-is-in-its-ai-era/)
- - [Temu stops shipping products from China directly to US shoppers and lists only products shipped from US warehouses, as Trump closes the de minimis exemption &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250502/p24#a250502p24)<!-- TECH:END -->
+ - [DOGE Is in Its AI Era](https://www.wired.com/story/doge-is-in-its-ai-era/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google plans to roll out Gemini next week for children under 13 whose parents use Family Link and says it will not use the children&#39;s data to train its AI &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/250502/p23#a250502p23)
+ - [Google plans to roll out Gemini next week for children under 13 whose parents use Family Link and says it will not use the under-13 users&#39; data to train its AI &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/250502/p23#a250502p23)
  - [You can still snag an Xbox Series X / S before Microsoft’s price hike fully lands](https://www.theverge.com/tech/660373/microsoft-xbox-series-x-s-price-hike-dell-walmart-deal-sale)
  - [How to lock down your privacy in WhatsApp](https://www.theverge.com/how-to/659790/whatsapp-privacy-how-to)
  - [iPhone 17 rumors: More speed &amp; ProMotion screen, but no big redesign](https://appleinsider.com/articles/25/05/02/iphone-17-rumors-more-speed-promotion-screen-but-no-big-redesign?utm_medium=rss)

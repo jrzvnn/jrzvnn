@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok fined $600 million for sending user data to China](https://www.theverge.com/news/660047/tiktok-fine-600-million-ireland-gdpr-data-china)
  - [How to Get a Real ID License for Traveling on Airplanes](https://www.wired.com/story/how-to-get-a-real-id-license/)
  - [Trump Wants to Erase Black History. These Digital Archivists Are Racing to Save It](https://www.wired.com/story/trump-wants-to-erase-black-history-these-digital-archivists-are-racing-to-save-it/)
  - [11 Best Cold-Brew Coffee Makers You Can Buy &lpar;2025&rpar;](https://www.wired.com/story/best-cold-brew-coffee-makers/)
- - [What Are Mail Categories on Your iPhone and How to Turn Them Off](https://www.cnet.com/tech/services-and-software/what-are-mail-categories-on-your-iphone-and-how-to-turn-them-off/#ftag=CAD590a51e)
- - [Dozens of YouTube Channels Are Showing AI-Generated Cartoon Gore and Fetish Content](https://www.wired.com/story/dozens-of-youtube-channels-are-showing-ai-generated-cartoon-gore-and-fetish-content/)<!-- TECH:END -->
+ - [What Are Mail Categories on Your iPhone and How to Turn Them Off](https://www.cnet.com/tech/services-and-software/what-are-mail-categories-on-your-iphone-and-how-to-turn-them-off/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

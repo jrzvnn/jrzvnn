@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nature is wild](http://9gag.com/gag/ajPxb8p)
- - 😝 [BBQ](http://9gag.com/gag/aryxj1K)
- - 💣 [One from the archive](http://9gag.com/gag/ae9xXjQ)
- - 😝 [Robot goes berserk](http://9gag.com/gag/a6ZBv1N)
- - 👉 [Stop scrolling 9gag and go to bed bro](http://9gag.com/gag/avyx31O)<!-- MEMES:END -->
+ - 😝 [Another old artefact. Make this platform great again.](http://9gag.com/gag/ajPx2Xw)
+ - 😝 [Perfectly Natural, Happens all the time.](http://9gag.com/gag/a9ym3DD)
+ - 💣 [Saved it without even trying](http://9gag.com/gag/aKG80Lj)
+ - 😝 [Versus](http://9gag.com/gag/aW4oVDK)
+ - 👉 [Old but gold.](http://9gag.com/gag/a4PAM7y)<!-- MEMES:END -->
 
 ---
 

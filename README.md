@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Princess didn\u2019t like the cocaine she just liked the smell of it.](http://9gag.com/gag/aKG8o0O)
- - 😝 [BBQ](http://9gag.com/gag/aryxj1K)
- - 💣 [Japanese police chief bows to apologise to the man who was acquitted after nearly 60 years on death row](http://9gag.com/gag/adBxmA2)
- - 😝 [Tower Of London Evolution](http://9gag.com/gag/aqyx3vR)
- - 👉 [He knows what he did](http://9gag.com/gag/aGyG32K)<!-- MEMES:END -->
+ - 😝 [This black color is making me go crazy](http://9gag.com/gag/an7xAmo)
+ - 😝 [Upvote this ham sandwich, it will give you luck today.](http://9gag.com/gag/aQzmGne)
+ - 💣 [Another old artefact. Make this platform great again.](http://9gag.com/gag/ajPx2Xw)
+ - 😝 [Old but gold.](http://9gag.com/gag/a4PAM7y)
+ - 👉 [Saved it without even trying](http://9gag.com/gag/aKG80Lj)<!-- MEMES:END -->
 
 ---
 

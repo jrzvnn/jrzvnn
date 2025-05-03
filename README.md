@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [From the archives!](http://9gag.com/gag/a872LGe)
- - 😝 [All men are liars. Women:](http://9gag.com/gag/aD2bB5d)
- - 💣 [Perfection](http://9gag.com/gag/agmxRVx)
- - 😝 [Robot goes berserk](http://9gag.com/gag/a6ZBv1N)
- - 👉 [Last year Red Bull suspected McLaren was injecting water to cool its tyres.](http://9gag.com/gag/aoyLmGw)<!-- MEMES:END -->
+ - 😝 [Tararara!...](http://9gag.com/gag/agm433K)
+ - 😝 [Don&#39;t like going to dentist?](http://9gag.com/gag/an7Eq8V)
+ - 💣 [Balls of steel](http://9gag.com/gag/ajPZYWg)
+ - 😝 [When adulting means taking field trips seriously](http://9gag.com/gag/agm4yo6)
+ - 👉 [Taking off his belt](http://9gag.com/gag/aqyxvPj)<!-- MEMES:END -->
 
 ---
 

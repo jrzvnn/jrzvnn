@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Eric Schmidt-backed nonprofit FutureHouse, which aims to build an &quot;AI scientist&quot;, launches a platform and API with four AI-based tools to assist scientific work &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250503/p3#a250503p3)
  - [Singapore-based cross-border B2B payment service Thunes raised a $150M Series D co-led by Apis Partners and Vitruvian Partners to accelerate its US expansion &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/250503/p2#a250503p2)
  - [Instagram co-founder Kevin Systrom says AI companies are trying too hard to &quot;juice engagement&quot; through follow-up questions, instead of providing useful insights &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/250503/p1#a250503p1)
  - [TPG agrees to acquire Sabre&#39;s hospitality solutions unit, which provides SaaS to hotel brands, for $1.1B in cash, as Sabre focuses on its core airline business &lpar;Sean O&#39;Neill/Skift&rpar;](http://www.techmeme.com/250502/p31#a250502p31)
- - [US v. Google: Google says its controls for publishers to opt out of AI training only cover work by Google DeepMind, not training by its other units for search &lpar;Davey Alba/Bloomberg&rpar;](http://www.techmeme.com/250502/p30#a250502p30)
- - [OpenAI Yanked a ChatGPT Update. Here&#39;s What It Said and Why It Matters](https://www.cnet.com/tech/services-and-software/openai-yanked-a-chatgpt-update-heres-what-it-said-and-why-it-matters/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US v. Google: Google says its controls for publishers to opt out of AI training only cover work by Google DeepMind, not training by its other units for search &lpar;Davey Alba/Bloomberg&rpar;](http://www.techmeme.com/250502/p30#a250502p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

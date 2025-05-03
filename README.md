@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Innovation](http://9gag.com/gag/a2vDQZw)
- - 😝 [Did she consult a lawyer before stealing? hahahaha](http://9gag.com/gag/a2vDe09)
- - 💣 [All men are liars. Women:](http://9gag.com/gag/aD2bB5d)
- - 😝 [100 men vs 1 gorilla](http://9gag.com/gag/a5Qz4EO)
- - 👉 [He knows what he did](http://9gag.com/gag/aGyG32K)<!-- MEMES:END -->
+ - 😝 [This is how a B-17 Ball Turret Gunner did his job !!](http://9gag.com/gag/ae9xoLB)
+ - 😝 [All men are liars. Women:](http://9gag.com/gag/aD2bB5d)
+ - 💣 [Stop scrolling 9gag and go to bed bro](http://9gag.com/gag/avyx31O)
+ - 😝 [One from the archive](http://9gag.com/gag/ae9xXjQ)
+ - 👉 [So many women will not and did not understand what this man was expressing in just a few words. &lpar;Original posted on instagram, sharing here with you&rpar;](http://9gag.com/gag/a0en26v)<!-- MEMES:END -->
 
 ---
 

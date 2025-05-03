@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Another 15 hr shift at the molten cube pounding factory](http://9gag.com/gag/aW4oVn6)
- - 😝 [Yeah... roll with it](http://9gag.com/gag/a87eBqO)
- - 💣 [Perfection](http://9gag.com/gag/agmxRVx)
- - 😝 [BBQ](http://9gag.com/gag/aryxj1K)
- - 👉 [LiterallyMe](http://9gag.com/gag/apRxeMB)<!-- MEMES:END -->
+ - 😝 [Old but gold.](http://9gag.com/gag/a4PAM7y)
+ - 😝 [Versus](http://9gag.com/gag/aW4oVDK)
+ - 💣 [You son of a b*tch, I&#39;m in!](http://9gag.com/gag/aW4oKV4)
+ - 😝 [Kitty is going places](http://9gag.com/gag/a1mVz5P)
+ - 👉 [From the archives!](http://9gag.com/gag/a872LGe)<!-- MEMES:END -->
 
 ---
 

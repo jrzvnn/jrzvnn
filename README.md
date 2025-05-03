@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Matic Robot Vacuum Review: The Best Robot Vacuum](https://www.wired.com/review/matic-robot-vacuum/)
+ - [Polygon’s new owner says it will ‘do what’s right for Polygon’](https://www.theverge.com/games/660635/polygon-valnet-vox-media-new-owner-interview)
  - [How to Fix Your Bed Frame: Squeaking, Slipping, and More](https://www.wired.com/story/how-to-fix-bed-frame/)
- - [CMF Phone 2 Pro Review: The Best Budget Smartphone](https://www.wired.com/review/cmf-phone-2-pro/)
- - [XPeng P7+ Review: Price, Specs, Availability](https://www.wired.com/review/review-xpeng-p7/)
- - [Missed the Switch 2 Preorder? Why It&#39;s OK to Wait](https://www.cnet.com/tech/gaming/missed-the-switch-2-preorder-why-its-ok-to-wait/#ftag=CAD590a51e)
- - [iPhone 16 Pro Max vs. Pixel 9 Pro XL: Massive Phone Specs Compared](https://www.cnet.com/tech/mobile/iphone-16-pro-max-vs-google-pixel-9-pro-xl-massive-phone-specs-compared/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Cooling Comforters of 2025, Approved by a Sleep Expert Who Uses Them](https://www.cnet.com/health/sleep/best-cooling-comforters/#ftag=CAD590a51e)
+ - [CMF Phone 2 Pro Review: The Best Budget Smartphone](https://www.wired.com/review/cmf-phone-2-pro/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

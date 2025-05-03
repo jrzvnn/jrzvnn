@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You son of a b*tch, I&#39;m in!](http://9gag.com/gag/aW4oKV4)
- - 😝 [Kitty is going places](http://9gag.com/gag/a1mVz5P)
- - 💣 [Tararara!...](http://9gag.com/gag/agm433K)
- - 😝 [Bed and woods](http://9gag.com/gag/aGyG3WX)
- - 👉 [Perfectly Natural, Happens all the time.](http://9gag.com/gag/a9ym3DD)<!-- MEMES:END -->
+ - 😝 [Happy black history month](http://9gag.com/gag/aByED9Q)
+ - 😝 [He knows what he did](http://9gag.com/gag/aGyG32K)
+ - 💣 [Robot goes berserk](http://9gag.com/gag/a6ZBv1N)
+ - 😝 [All men are liars. Women:](http://9gag.com/gag/aD2bB5d)
+ - 👉 [Nature is wild](http://9gag.com/gag/ajPxb8p)<!-- MEMES:END -->
 
 ---
 

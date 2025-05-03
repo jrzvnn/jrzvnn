@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japanese police chief bows to apologise to the man who was acquitted after nearly 60 years on death row](http://9gag.com/gag/adBxmA2)
  - 😝 [So many women will not and did not understand what this man was expressing in just a few words. &lpar;Original posted on instagram, sharing here with you&rpar;](http://9gag.com/gag/a0en26v)
- - 💣 [Yeah... roll with it](http://9gag.com/gag/a87eBqO)
- - 😝 [BBQ](http://9gag.com/gag/aryxj1K)
- - 👉 [All men are liars. Women:](http://9gag.com/gag/aD2bB5d)<!-- MEMES:END -->
+ - 😝 [Good. Happy for you. Very nice.](http://9gag.com/gag/amoxE12)
+ - 💣 [Make a British Bobbie cry!](http://9gag.com/gag/a87ePA3)
+ - 😝 [Happy black history month](http://9gag.com/gag/aByED9Q)
+ - 👉 [No wonder we\u2019re screwed\u2026](http://9gag.com/gag/a87ePjV)<!-- MEMES:END -->
 
 ---
 

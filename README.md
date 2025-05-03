@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Last year Red Bull suspected McLaren was injecting water to cool its tyres.](http://9gag.com/gag/aoyLmGw)
- - 😝 [Japanese police chief bows to apologise to the man who was acquitted after nearly 60 years on death row](http://9gag.com/gag/adBxmA2)
- - 💣 [Old](http://9gag.com/gag/aGyGW5X)
- - 😝 [Balls of steel](http://9gag.com/gag/ajPZYWg)
- - 👉 [Royce Du Pont](http://9gag.com/gag/aRBvY5j)<!-- MEMES:END -->
+ - 😝 [Versus](http://9gag.com/gag/aW4oVDK)
+ - 😝 [You son of a b*tch, I&#39;m in!](http://9gag.com/gag/aW4oKV4)
+ - 💣 [Kitty is going places](http://9gag.com/gag/a1mVz5P)
+ - 😝 [Tararara!...](http://9gag.com/gag/agm433K)
+ - 👉 [Bed and woods](http://9gag.com/gag/aGyG3WX)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All men are liars. Women:](http://9gag.com/gag/aD2bB5d)
- - 😝 [Did she consult a lawyer before stealing? hahahaha](http://9gag.com/gag/a2vDe09)
- - 💣 [You never know](http://9gag.com/gag/ae9xo0O)
- - 😝 [No wonder we\u2019re screwed\u2026](http://9gag.com/gag/a87ePjV)
- - 👉 [Are we... doomed?](http://9gag.com/gag/aLnAx3x)<!-- MEMES:END -->
+ - 😝 [Versus](http://9gag.com/gag/aW4oVDK)
+ - 😝 [You never know](http://9gag.com/gag/ae9xo0O)
+ - 💣 [All men are liars. Women:](http://9gag.com/gag/aD2bB5d)
+ - 😝 [Are we... doomed?](http://9gag.com/gag/aLnAx3x)
+ - 👉 [So many women will not and did not understand what this man was expressing in just a few words. &lpar;Original posted on instagram, sharing here with you&rpar;](http://9gag.com/gag/a0en26v)<!-- MEMES:END -->
 
 ---
 

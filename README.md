@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Versus](http://9gag.com/gag/aW4oVDK)
- - 😝 [Tararara!...](http://9gag.com/gag/agm433K)
- - 💣 [You son of a b*tch, I&#39;m in!](http://9gag.com/gag/aW4oKV4)
- - 😝 [Kitty is going places](http://9gag.com/gag/a1mVz5P)
- - 👉 [Bed and woods](http://9gag.com/gag/aGyG3WX)<!-- MEMES:END -->
+ - 😝 [If You Miss Your Exit, Do Not Do This. Ever.](http://9gag.com/gag/a6ZBvoe)
+ - 😝 [Happy black history month](http://9gag.com/gag/aByED9Q)
+ - 💣 [Make a British Bobbie cry!](http://9gag.com/gag/a87ePA3)
+ - 😝 [He knows what he did](http://9gag.com/gag/aGyG32K)
+ - 👉 [Balls of steel](http://9gag.com/gag/ajPZYWg)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So many women will not and did not understand what this man was expressing in just a few words. &lpar;Original posted on instagram, sharing here with you&rpar;](http://9gag.com/gag/a0en26v)
- - 😝 [Good. Happy for you. Very nice.](http://9gag.com/gag/amoxE12)
- - 💣 [Make a British Bobbie cry!](http://9gag.com/gag/a87ePA3)
- - 😝 [Happy black history month](http://9gag.com/gag/aByED9Q)
- - 👉 [No wonder we\u2019re screwed\u2026](http://9gag.com/gag/a87ePjV)<!-- MEMES:END -->
+ - 😝 [From the archives!](http://9gag.com/gag/a872LGe)
+ - 😝 [Versus](http://9gag.com/gag/aW4oVDK)
+ - 💣 [Old but gold.](http://9gag.com/gag/a4PAM7y)
+ - 😝 [You son of a b*tch, I&#39;m in!](http://9gag.com/gag/aW4oKV4)
+ - 👉 [Kitty is going places](http://9gag.com/gag/a1mVz5P)<!-- MEMES:END -->
 
 ---
 

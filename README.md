@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Grandpa endurance](http://9gag.com/gag/axyOxeY)
- - 😝 [All men are liars. Women:](http://9gag.com/gag/aD2bB5d)
- - 💣 [Yeah... roll with it](http://9gag.com/gag/a87eBqO)
- - 😝 [One from the archive](http://9gag.com/gag/ae9xXjQ)
+ - 😝 [The look on his face tho hahaha](http://9gag.com/gag/amox3Ko)
+ - 😝 [Did she consult a lawyer before stealing? hahahaha](http://9gag.com/gag/a2vDe09)
+ - 💣 [No wonder we\u2019re screwed\u2026](http://9gag.com/gag/a87ePjV)
+ - 😝 [He knows what he did](http://9gag.com/gag/aGyG32K)
  - 👉 [Stop scrolling 9gag and go to bed bro](http://9gag.com/gag/avyx31O)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy black history month](http://9gag.com/gag/aByED9Q)
- - 😝 [He knows what he did](http://9gag.com/gag/aGyG32K)
+ - 😝 [Like a random encounter in an open world game](http://9gag.com/gag/ae9xodO)
+ - 😝 [Perfection](http://9gag.com/gag/agmxRVx)
  - 💣 [Robot goes berserk](http://9gag.com/gag/a6ZBv1N)
- - 😝 [All men are liars. Women:](http://9gag.com/gag/aD2bB5d)
- - 👉 [Nature is wild](http://9gag.com/gag/ajPxb8p)<!-- MEMES:END -->
+ - 😝 [He knows what he did](http://9gag.com/gag/aGyG32K)
+ - 👉 [Make a British Bobbie cry!](http://9gag.com/gag/a87ePA3)<!-- MEMES:END -->
 
 ---
 

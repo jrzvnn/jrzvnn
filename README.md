@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [XPeng P7+ Review: Price, Specs, Availability](https://www.wired.com/review/review-xpeng-p7/)
  - [Why Balcony Solar Panels Haven’t Taken Off in the US](https://www.wired.com/story/why-balcony-solar-hasnt-taken-off-in-the-us/)
  - [The 42 Best Movies on Netflix Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
  - [Small Packages From Shein and Temu Are Now Subject to US Tariffs. Here’s What to Know](https://www.wired.com/story/tariffs-temu-shein-trump-de-minimis/)
- - [The 42 Best Shows on Netflix Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [How Namma Yatri, an open-source ride-hailing app, forced Uber, Ola, and Rapido to adopt its no-commission, subscription model for auto-rickshaw drivers in India &lpar;Indulekha Aravind/Rest of World&rpar;](http://www.techmeme.com/250503/p7#a250503p7)<!-- TECH:END -->
+ - [The 42 Best Shows on Netflix Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

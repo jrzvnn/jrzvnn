@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple plans to launch iPhone 18 Pro models in 2026 fall as usual and the standard iPhone 18 in spring 2027; iPhone 17 Air gets an optional battery case &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/250503/p9#a250503p9)
  - [15 Best Air Purifiers &lpar;2025&rpar;: Coway, AirDoctor, IQAir](https://www.wired.com/gallery/best-air-purifiers/)
  - [7 Best Cordless Vacuums for Your Whole House &lpar;2025&rpar;](https://www.wired.com/gallery/best-cordless-vacuums/)
  - [The Next Interest Rate Decision Could Affect Your Finances More Than You Think](https://www.cnet.com/personal-finance/banking/the-next-interest-rate-decision-could-affect-your-finances-more-than-you-think/#ftag=CAD590a51e)
- - [&#39;MobLand&#39; Release Schedule: How to Watch Episode 6 of the Tom Hardy Series](https://www.cnet.com/tech/services-and-software/mobland-release-schedule-how-to-watch-episode-6-of-the-tom-hardy-series/#ftag=CAD590a51e)
- - [Cheap stuff that doesn’t suck, take 2](https://www.theverge.com/tech/657469/favorites-anker-xiaomi-tile-tools)<!-- TECH:END -->
+ - [&#39;MobLand&#39; Release Schedule: How to Watch Episode 6 of the Tom Hardy Series](https://www.cnet.com/tech/services-and-software/mobland-release-schedule-how-to-watch-episode-6-of-the-tom-hardy-series/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

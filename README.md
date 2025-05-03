@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The look on his face tho hahaha](http://9gag.com/gag/amox3Ko)
- - 😝 [Did she consult a lawyer before stealing? hahahaha](http://9gag.com/gag/a2vDe09)
- - 💣 [No wonder we\u2019re screwed\u2026](http://9gag.com/gag/a87ePjV)
- - 😝 [He knows what he did](http://9gag.com/gag/aGyG32K)
- - 👉 [Stop scrolling 9gag and go to bed bro](http://9gag.com/gag/avyx31O)<!-- MEMES:END -->
+ - 😝 [Dog wanted some company \ud83e\udd23](http://9gag.com/gag/a1mV4gb)
+ - 😝 [Is there a middle ground anywhere?](http://9gag.com/gag/aNDBy9A)
+ - 💣 [The birth giver](http://9gag.com/gag/aW4oVqA)
+ - 😝 [Versus](http://9gag.com/gag/aW4oVDK)
+ - 👉 [Old but gold.](http://9gag.com/gag/a4PAM7y)<!-- MEMES:END -->
 
 ---
 

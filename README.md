@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Namma Yatri, an open-source ride-hailing app, forced Uber, Ola, and Rapido to adopt its no-commission, subscription model for auto-rickshaw drivers in India &lpar;Indulekha Aravind/Rest of World&rpar;](http://www.techmeme.com/250503/p7#a250503p7)
- - [Hacking Spree Hits UK Retail Giants](https://www.wired.com/story/hacking-spree-hits-uk-retail-giants/)
- - [The Android Show, Rad Power&#39;s New Ebikes, and Yale&#39;s ADT Smart Lock—Your Gear News of the Week](https://www.wired.com/story/the-android-show-rad-powers-new-ebikes-and-yales-adt-smart-lock-your-gear-news-of-the-week/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 3, #222](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-3-222/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for May 3, #426](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-3-426/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Why Balcony Solar Panels Haven’t Taken Off in the US](https://www.wired.com/story/why-balcony-solar-hasnt-taken-off-in-the-us/)
+ - [The 42 Best Movies on Netflix Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [Small Packages From Shein and Temu Are Now Subject to US Tariffs. Here’s What to Know](https://www.wired.com/story/tariffs-temu-shein-trump-de-minimis/)
+ - [The 42 Best Shows on Netflix Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
+ - [How Namma Yatri, an open-source ride-hailing app, forced Uber, Ola, and Rapido to adopt its no-commission, subscription model for auto-rickshaw drivers in India &lpar;Indulekha Aravind/Rest of World&rpar;](http://www.techmeme.com/250503/p7#a250503p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

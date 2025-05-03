@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Apple to revive battery case accessory for iPhone 17 Air](https://appleinsider.com/articles/25/05/03/apple-to-revive-battery-case-accessory-for-iphone-17-air?utm_medium=rss)
  - [Trump&amp;#8217;s 2026 NASA budget would slash ISS crew and allocate more money for Elon](https://www.theverge.com/news/660721/trump-2026-nasa-budget-cuts)
  - [Arizona Governor Katie Hobbs calls crypto an &quot;untested investment&quot; and vetoes a bill that would have allowed the state to invest in bitcoin using seized funds &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/250503/p10#a250503p10)
- - [Apple is rumored to radically change up the iPhone 18 release schedule](https://appleinsider.com/articles/25/05/03/apple-is-rumored-to-radically-change-up-the-iphone-18-release-schedule?utm_medium=rss)
- - [Sources: Apple plans to launch iPhone 18 Pro models, a thin iPhone 18, and a foldable iPhone in 2026 fall but the standard iPhone 18 in spring 2027 &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/250503/p9#a250503p9)<!-- TECH:END -->
+ - [La Liga Soccer Livestream: How to Watch Real Valladolid vs. Barcelona From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-real-valladolid-vs-barcelona-from-anywhere/#ftag=CAD590a51e)
+ - [Apple is rumored to radically change up the iPhone 18 release schedule](https://appleinsider.com/articles/25/05/03/apple-is-rumored-to-radically-change-up-the-iphone-18-release-schedule?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

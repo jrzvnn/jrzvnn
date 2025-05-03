@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [From the archives!](http://9gag.com/gag/a872LGe)
+ - 😝 [All men are liars. Women:](http://9gag.com/gag/aD2bB5d)
+ - 💣 [Perfection](http://9gag.com/gag/agmxRVx)
  - 😝 [Robot goes berserk](http://9gag.com/gag/a6ZBv1N)
- - 😝 [No wonder we\u2019re screwed\u2026](http://9gag.com/gag/a87ePjV)
- - 💣 [Like a random encounter in an open world game](http://9gag.com/gag/ae9xodO)
- - 😝 [Last year Red Bull suspected McLaren was injecting water to cool its tyres.](http://9gag.com/gag/aoyLmGw)
- - 👉 [Perfection](http://9gag.com/gag/agmxRVx)<!-- MEMES:END -->
+ - 👉 [Last year Red Bull suspected McLaren was injecting water to cool its tyres.](http://9gag.com/gag/aoyLmGw)<!-- MEMES:END -->
 
 ---
 

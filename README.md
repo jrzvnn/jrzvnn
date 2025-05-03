@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [How Namma Yatri, an open-source ride-hailing app, forced Uber, Ola, and Rapido to adopt its no-commission, subscription model for auto-rickshaw drivers in India &lpar;Indulekha Aravind/Rest of World&rpar;](http://www.techmeme.com/250503/p7#a250503p7)
  - [Hacking Spree Hits UK Retail Giants](https://www.wired.com/story/hacking-spree-hits-uk-retail-giants/)
  - [The Android Show, Rad Power&#39;s New Ebikes, and Yale&#39;s ADT Smart Lock—Your Gear News of the Week](https://www.wired.com/story/the-android-show-rad-powers-new-ebikes-and-yales-adt-smart-lock-your-gear-news-of-the-week/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 3, #222](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-3-222/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for May 3, #426](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-3-426/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Behind on Student Loan Payments? Here&#39;s How to Stop Them From Going to Collections Before Monday](https://www.cnet.com/personal-finance/loans/behind-on-student-loan-payments-stop-them-from-going-to-collections-before-monday/#ftag=CAD590a51e)
+ - [Advocacy groups push California&#39;s AG to ensure that OpenAI&#39;s becoming a for-profit adheres to the law; OpenAI formed an advisory commission in response &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/250503/p6#a250503p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

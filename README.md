@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some international startup founders say they are canceling travel plans or reconsidering moving to the US due to Trump administration&#39;s immigration crackdown &lpar;Madeline Renbarger/Newcomer&rpar;](http://www.techmeme.com/250503/p8#a250503p8)
  - [Gigabyte Aorus Master 16 review: powerful graphics, LOUD FANS](https://www.theverge.com/reviews/658137/gigabyte-aorus-master-16-gaming-laptop-rtx-5080-review)
  - [Matic Robot Vacuum Review: The Best Robot Vacuum](https://www.wired.com/review/matic-robot-vacuum/)
  - [Polygon’s new owner says it will ‘do what’s right for Polygon’](https://www.theverge.com/games/660635/polygon-valnet-vox-media-new-owner-interview)
- - [How to Fix Your Bed Frame: Squeaking, Slipping, and More](https://www.wired.com/story/how-to-fix-bed-frame/)
- - [Best Cooling Comforters of 2025, Approved by a Sleep Expert Who Uses Them](https://www.cnet.com/health/sleep/best-cooling-comforters/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Fix Your Bed Frame: Squeaking, Slipping, and More](https://www.wired.com/story/how-to-fix-bed-frame/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

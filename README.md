@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So many women will not and did not understand what this man was expressing in just a few words. &lpar;Original posted on instagram, sharing here with you&rpar;](http://9gag.com/gag/a0en26v)
- - 😝 [Japanese police chief bows to apologise to the man who was acquitted after nearly 60 years on death row](http://9gag.com/gag/adBxmA2)
- - 💣 [You never know](http://9gag.com/gag/ae9xo0O)
- - 😝 [All men are liars. Women:](http://9gag.com/gag/aD2bB5d)
- - 👉 [Did she consult a lawyer before stealing? hahahaha](http://9gag.com/gag/a2vDe09)<!-- MEMES:END -->
+ - 😝 [Innovation](http://9gag.com/gag/a2vDQZw)
+ - 😝 [Did she consult a lawyer before stealing? hahahaha](http://9gag.com/gag/a2vDe09)
+ - 💣 [All men are liars. Women:](http://9gag.com/gag/aD2bB5d)
+ - 😝 [100 men vs 1 gorilla](http://9gag.com/gag/a5Qz4EO)
+ - 👉 [He knows what he did](http://9gag.com/gag/aGyG32K)<!-- MEMES:END -->
 
 ---
 

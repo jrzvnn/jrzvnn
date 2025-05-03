@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No wonder we\u2019re screwed\u2026](http://9gag.com/gag/a87ePjV)
- - 😝 [All men are liars. Women:](http://9gag.com/gag/aD2bB5d)
- - 💣 [BBQ](http://9gag.com/gag/aryxj1K)
  - 😝 [Always be careful out there.](http://9gag.com/gag/a6ZBvPN)
- - 👉 [Happy black history month](http://9gag.com/gag/aByED9Q)<!-- MEMES:END -->
+ - 😝 [Grandpa endurance](http://9gag.com/gag/axyOxeY)
+ - 💣 [Versus](http://9gag.com/gag/aW4oVDK)
+ - 😝 [Did she consult a lawyer before stealing? hahahaha](http://9gag.com/gag/a2vDe09)
+ - 👉 [Stop scrolling 9gag and go to bed bro](http://9gag.com/gag/avyx31O)<!-- MEMES:END -->
 
 ---
 

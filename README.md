@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Saved it without even trying](http://9gag.com/gag/aKG80Lj)
  - 😝 [Is there a middle ground anywhere?](http://9gag.com/gag/aNDBy9A)
  - 💣 [The birth giver](http://9gag.com/gag/aW4oVqA)
- - 😝 [Versus](http://9gag.com/gag/aW4oVDK)
- - 👉 [Old but gold.](http://9gag.com/gag/a4PAM7y)<!-- MEMES:END -->
+ - 😝 [Old but gold.](http://9gag.com/gag/a4PAM7y)
+ - 👉 [Versus](http://9gag.com/gag/aW4oVDK)<!-- MEMES:END -->
 
 ---
 

@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Disco Corp, which has a radical HR system where no employee has a boss and manufactures ~75% of the machines used to cut, grind, and dice semiconductors &lpar;Financial Times&rpar;](http://www.techmeme.com/250503/p11#a250503p11)
+ - [Inside Japan&#39;s Disco Corp, which has a radical HR system where no employee has a boss and manufactures ~75% of the machines used to cut and dice semiconductors &lpar;Financial Times&rpar;](http://www.techmeme.com/250503/p11#a250503p11)
  - [Apple may stagger next year’s iPhones to make way for a foldable](https://www.theverge.com/news/660739/apple-may-stagger-next-years-iphones-to-make-way-for-a-foldable)
  - [Apple to revive battery case accessory for iPhone 17 Air](https://appleinsider.com/articles/25/05/03/apple-to-revive-battery-case-accessory-for-iphone-17-air?utm_medium=rss)
  - [Trump&amp;#8217;s 2026 NASA budget would slash ISS crew and allocate more money for Elon](https://www.theverge.com/news/660721/trump-2026-nasa-budget-cuts)

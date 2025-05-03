@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tararara!...](http://9gag.com/gag/agm433K)
- - 😝 [Don&#39;t like going to dentist?](http://9gag.com/gag/an7Eq8V)
- - 💣 [Balls of steel](http://9gag.com/gag/ajPZYWg)
- - 😝 [When adulting means taking field trips seriously](http://9gag.com/gag/agm4yo6)
- - 👉 [Taking off his belt](http://9gag.com/gag/aqyxvPj)<!-- MEMES:END -->
+ - 😝 [This is how a B-17 Ball Turret Gunner did his job !!](http://9gag.com/gag/ae9xoLB)
+ - 😝 [Happy black history month](http://9gag.com/gag/aByED9Q)
+ - 💣 [Perfection](http://9gag.com/gag/agmxRVx)
+ - 😝 [Balls of steel](http://9gag.com/gag/ajPZYWg)
+ - 👉 [Last year Red Bull suspected McLaren was injecting water to cool its tyres.](http://9gag.com/gag/aoyLmGw)<!-- MEMES:END -->
 
 ---
 

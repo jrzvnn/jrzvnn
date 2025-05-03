@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Closing the de minimis exemption cuts into Big Tech ad revenues, as Temu cut US digital ad spending by 31% and Shein by 19% in the two weeks starting March 31 &lpar;New York Times&rpar;](http://www.techmeme.com/250503/p12#a250503p12)
+ - [Closing the de minimis exemption cuts Big Tech ad revenue; Temu cut US digital ad spending by an estimated 31% and Shein by 19% in the two weeks from March 31 &lpar;New York Times&rpar;](http://www.techmeme.com/250503/p12#a250503p12)
  - [Spotify app adds support for direct purchases &amp; payments after court mandate](https://appleinsider.com/articles/25/05/03/spotify-app-adds-support-for-direct-purchases-payments-after-court-mandate?utm_medium=rss)
  - [Today&#39;s NYT Connections Hints, Answers and Help for May 4, #693](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-4-693/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for May 4, #427](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-4-427/#ftag=CAD590a51e)

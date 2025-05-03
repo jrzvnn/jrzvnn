@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Always be careful out there.](http://9gag.com/gag/a6ZBvPN)
+ - 😝 [Another 15 hr shift at the molten cube pounding factory](http://9gag.com/gag/aW4oVn6)
  - 😝 [Yeah... roll with it](http://9gag.com/gag/a87eBqO)
- - 💣 [No wonder we\u2019re screwed\u2026](http://9gag.com/gag/a87ePjV)
+ - 💣 [Perfection](http://9gag.com/gag/agmxRVx)
  - 😝 [BBQ](http://9gag.com/gag/aryxj1K)
  - 👉 [LiterallyMe](http://9gag.com/gag/apRxeMB)<!-- MEMES:END -->
 

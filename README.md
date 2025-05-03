@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Advocacy groups push California&#39;s AG to ensure that OpenAI&#39;s becoming a for-profit adheres to the law; OpenAI formed an advisory commission in response &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/250503/p6#a250503p6)
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, May 3](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-may-3/#ftag=CAD590a51e)
  - [The US DOD transfers its AI-based Open Price Exploration for National Security program to nonprofit Critical Minerals Forum to boost Western supply deals &lpar;Ernest Scheyder/Reuters&rpar;](http://www.techmeme.com/250503/p5#a250503p5)
  - [Veza, which helps company administrators manage employee access to applications and data, raised a $108M Series D led by NEA at a valuation of just over $800M &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250503/p4#a250503p4)
- - [Eric Schmidt-backed nonprofit FutureHouse, which aims to build an &quot;AI scientist&quot;, launches a platform and API with four AI-based tools to assist scientific work &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250503/p3#a250503p3)
- - [Singapore-based cross-border B2B payment service Thunes raised a $150M Series D co-led by Apis Partners and Vitruvian Partners to accelerate its US expansion &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/250503/p2#a250503p2)<!-- TECH:END -->
+ - [Eric Schmidt-backed nonprofit FutureHouse, which aims to build an &quot;AI scientist&quot;, launches a platform and API with four AI-based tools to assist scientific work &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250503/p3#a250503p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

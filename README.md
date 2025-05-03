@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Duolingo&#39;s &quot;AI-first&quot; announcement highlights the unfolding AI jobs crisis, with attrition in creative fields, hiring cuts, declining freelance incomes, more &lpar;Brian Merchant/Blood in the Machine&rpar;](http://www.techmeme.com/250503/p13#a250503p13)
+ - [&#39;Thunderbolts*&#39;: Is There a Post-Credits Scene?](https://www.cnet.com/tech/services-and-software/thunderbolts-is-there-a-post-credits-scene/#ftag=CAD590a51e)
  - [Janet Jackson’s ‘Rhythm Nation’ crashed some Windows laptops for years](https://www.theverge.com/news/660747/janet-jackson-rhythm-nation-windows-hard-drives-laptops-crash)
  - [Sensor Tower: Temu cut US digital ad spending by an estimated 31% and Shein by 19% in the two week period from March 31 as the de minimis exemption is closed &lpar;New York Times&rpar;](http://www.techmeme.com/250503/p12#a250503p12)
- - [Spotify app adds support for direct purchases &amp; payments after court mandate](https://appleinsider.com/articles/25/05/03/spotify-app-adds-support-for-direct-purchases-payments-after-court-mandate?utm_medium=rss)
- - [Today&#39;s NYT Connections Hints, Answers and Help for May 4, #693](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-4-693/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Spotify app adds support for direct purchases &amp; payments after court mandate](https://appleinsider.com/articles/25/05/03/spotify-app-adds-support-for-direct-purchases-payments-after-court-mandate?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

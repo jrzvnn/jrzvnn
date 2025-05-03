@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [US v. Google: Google says its controls for publishers to opt out of AI training only cover work by Google DeepMind, not training by its other units for search &lpar;Davey Alba/Bloomberg&rpar;](http://www.techmeme.com/250502/p30#a250502p30)
+ - [OpenAI Yanked a ChatGPT Update. Here&#39;s What It Said and Why It Matters](https://www.cnet.com/tech/services-and-software/openai-yanked-a-chatgpt-update-heres-what-it-said-and-why-it-matters/#ftag=CAD590a51e)
  - [Premier League Soccer: Stream Arsenal vs. Bournemouth Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-arsenal-vs-bournemouth-live-from-anywhere/#ftag=CAD590a51e)
  - [Google is going to let kids use its Gemini AI](https://www.theverge.com/news/660678/google-gemini-ai-children-under-13-family-link-chatbot-access)
- - [Premier League Soccer: Stream Aston Villa vs. Fulham From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-aston-villa-vs-fulham-from-anywhere/#ftag=CAD590a51e)
- - [US Wants Judge to Break Up Google, Force Sale of Chrome: Here&#39;s What to Know](https://www.cnet.com/tech/us-wants-judge-to-break-up-google-force-sale-of-chrome-heres-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Premier League Soccer: Stream Aston Villa vs. Fulham From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-aston-villa-vs-fulham-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

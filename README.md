@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If You Miss Your Exit, Do Not Do This. Ever.](http://9gag.com/gag/a6ZBvoe)
- - 😝 [Happy black history month](http://9gag.com/gag/aByED9Q)
- - 💣 [Make a British Bobbie cry!](http://9gag.com/gag/a87ePA3)
- - 😝 [He knows what he did](http://9gag.com/gag/aGyG32K)
- - 👉 [Balls of steel](http://9gag.com/gag/ajPZYWg)<!-- MEMES:END -->
+ - 😝 [Last year Red Bull suspected McLaren was injecting water to cool its tyres.](http://9gag.com/gag/aoyLmGw)
+ - 😝 [Japanese police chief bows to apologise to the man who was acquitted after nearly 60 years on death row](http://9gag.com/gag/adBxmA2)
+ - 💣 [Old](http://9gag.com/gag/aGyGW5X)
+ - 😝 [Balls of steel](http://9gag.com/gag/ajPZYWg)
+ - 👉 [Royce Du Pont](http://9gag.com/gag/aRBvY5j)<!-- MEMES:END -->
 
 ---
 

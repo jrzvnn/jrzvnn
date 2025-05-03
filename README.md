@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tararara!...](http://9gag.com/gag/agm433K)
- - 😝 [Don&#39;t like going to dentist?](http://9gag.com/gag/an7Eq8V)
- - 💣 [Balls of steel](http://9gag.com/gag/ajPZYWg)
- - 😝 [Taking off his belt](http://9gag.com/gag/aqyxvPj)
- - 👉 [Pikachu to save the day](http://9gag.com/gag/ae9mj35)<!-- MEMES:END -->
+ - 😝 [Like a random encounter in an open world game](http://9gag.com/gag/ae9xodO)
+ - 😝 [Don&#39;t kill the Gorilla this time](http://9gag.com/gag/axyOpEp)
+ - 💣 [Robot goes berserk](http://9gag.com/gag/a6ZBv1N)
+ - 😝 [Balls of steel](http://9gag.com/gag/ajPZYWg)
+ - 👉 [Last year Red Bull suspected McLaren was injecting water to cool its tyres.](http://9gag.com/gag/aoyLmGw)<!-- MEMES:END -->
 
 ---
 

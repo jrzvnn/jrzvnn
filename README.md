@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Robot goes berserk](http://9gag.com/gag/a6ZBv1N)
- - 😝 [No wonder we\u2019re screwed\u2026](http://9gag.com/gag/a87ePjV)
- - 💣 [Stop scrolling 9gag and go to bed bro](http://9gag.com/gag/avyx31O)
- - 😝 [One from the archive](http://9gag.com/gag/ae9xXjQ)
- - 👉 [100 men vs 1 gorilla](http://9gag.com/gag/a5Qz4EO)<!-- MEMES:END -->
+ - 😝 [Saved it without even trying](http://9gag.com/gag/aKG80Lj)
+ - 😝 [Is there a middle ground anywhere?](http://9gag.com/gag/aNDBy9A)
+ - 💣 [The birth giver](http://9gag.com/gag/aW4oVqA)
+ - 😝 [Versus](http://9gag.com/gag/aW4oVDK)
+ - 👉 [Old but gold.](http://9gag.com/gag/a4PAM7y)<!-- MEMES:END -->
 
 ---
 

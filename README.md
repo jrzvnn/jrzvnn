@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple plans to launch iPhone 18 Pro models in 2026 fall as usual and the standard iPhone 18 in spring 2027; iPhone 17 Air gets an optional battery case &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/250503/p9#a250503p9)
+ - [Apple is rumored to radically change up the iPhone 18 release schedule](https://appleinsider.com/articles/25/05/03/apple-is-rumored-to-radically-change-up-the-iphone-18-release-schedule?utm_medium=rss)
+ - [Sources: Apple plans to launch iPhone 18 Pro models, a thin iPhone 18, and a foldable iPhone in 2026 fall but the standard iPhone 18 in spring 2027 &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/250503/p9#a250503p9)
+ - [Best Garden and Seed Delivery Services for 2025](https://www.cnet.com/news/best-garden-subscription-and-seed-delivery/#ftag=CAD590a51e)
  - [15 Best Air Purifiers &lpar;2025&rpar;: Coway, AirDoctor, IQAir](https://www.wired.com/gallery/best-air-purifiers/)
- - [7 Best Cordless Vacuums for Your Whole House &lpar;2025&rpar;](https://www.wired.com/gallery/best-cordless-vacuums/)
- - [The Next Interest Rate Decision Could Affect Your Finances More Than You Think](https://www.cnet.com/personal-finance/banking/the-next-interest-rate-decision-could-affect-your-finances-more-than-you-think/#ftag=CAD590a51e)
- - [&#39;MobLand&#39; Release Schedule: How to Watch Episode 6 of the Tom Hardy Series](https://www.cnet.com/tech/services-and-software/mobland-release-schedule-how-to-watch-episode-6-of-the-tom-hardy-series/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Fitness Experts Reveal the Truth About Vibration Plates](https://www.cnet.com/health/fitness/fitness-experts-reveal-the-truth-about-vibration-plates/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

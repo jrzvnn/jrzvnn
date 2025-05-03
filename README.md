@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CMF Phone 2 Pro Review: The Best Budget Smartphone](https://www.wired.com/review/cmf-phone-2-pro/)
  - [XPeng P7+ Review: Price, Specs, Availability](https://www.wired.com/review/review-xpeng-p7/)
- - [Why Balcony Solar Panels Haven’t Taken Off in the US](https://www.wired.com/story/why-balcony-solar-hasnt-taken-off-in-the-us/)
- - [The 42 Best Movies on Netflix Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [Small Packages From Shein and Temu Are Now Subject to US Tariffs. Here’s What to Know](https://www.wired.com/story/tariffs-temu-shein-trump-de-minimis/)
- - [The 42 Best Shows on Netflix Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
+ - [Missed the Switch 2 Preorder? Why It&#39;s OK to Wait](https://www.cnet.com/tech/gaming/missed-the-switch-2-preorder-why-its-ok-to-wait/#ftag=CAD590a51e)
+ - [iPhone 16 Pro Max vs. Pixel 9 Pro XL: Massive Phone Specs Compared](https://www.cnet.com/tech/mobile/iphone-16-pro-max-vs-google-pixel-9-pro-xl-massive-phone-specs-compared/#ftag=CAD590a51e)
+ - [Why Balcony Solar Panels Haven’t Taken Off in the US](https://www.wired.com/story/why-balcony-solar-hasnt-taken-off-in-the-us/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best WordPress Hosting for Easy Website Creation in 2025](https://www.cnet.com/tech/services-and-software/best-wordpress-hosting/#ftag=CAD590a51e)
+ - [&#39;The Righteous Gemstones&#39; Is Ending: When to Watch the Emotional Series Finale](https://www.cnet.com/tech/services-and-software/the-righteous-gemstones-is-ending-when-to-watch-emotional-series-finale/#ftag=CAD590a51e)
  - [Inside Japan&#39;s Disco Corp, which makes ~75% of the world&#39;s chip cutting tools, and where no staffer has a boss, with decisions made using a currency called Will &lpar;Financial Times&rpar;](http://www.techmeme.com/250503/p11#a250503p11)
  - [Apple may stagger next year’s iPhones to make way for a foldable](https://www.theverge.com/news/660739/apple-may-stagger-next-years-iphones-to-make-way-for-a-foldable)
- - [Apple to revive battery case accessory for iPhone 17 Air](https://appleinsider.com/articles/25/05/03/apple-to-revive-battery-case-accessory-for-iphone-17-air?utm_medium=rss)
- - [Trump&amp;#8217;s 2026 NASA budget would slash ISS crew and allocate more money for Elon](https://www.theverge.com/news/660721/trump-2026-nasa-budget-cuts)
- - [Arizona Governor Katie Hobbs calls crypto an &quot;untested investment&quot; and vetoes a bill that would have allowed the state to invest in bitcoin using seized funds &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/250503/p10#a250503p10)<!-- TECH:END -->
+ - [Apple to revive battery case accessory for iPhone 17 Air](https://appleinsider.com/articles/25/05/03/apple-to-revive-battery-case-accessory-for-iphone-17-air?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Turning used mobile phone to gold](http://9gag.com/gag/amox3E2)
  - 😝 [All men are liars. Women:](http://9gag.com/gag/aD2bB5d)
- - 💣 [Japanese police chief bows to apologise to the man who was acquitted after nearly 60 years on death row](http://9gag.com/gag/adBxmA2)
- - 😝 [100 men vs 1 gorilla](http://9gag.com/gag/a5Qz4EO)
- - 👉 [Did she consult a lawyer before stealing? hahahaha](http://9gag.com/gag/a2vDe09)<!-- MEMES:END -->
+ - 😝 [Did she consult a lawyer before stealing? hahahaha](http://9gag.com/gag/a2vDe09)
+ - 💣 [You never know](http://9gag.com/gag/ae9xo0O)
+ - 😝 [No wonder we\u2019re screwed\u2026](http://9gag.com/gag/a87ePjV)
+ - 👉 [Are we... doomed?](http://9gag.com/gag/aLnAx3x)<!-- MEMES:END -->
 
 ---
 

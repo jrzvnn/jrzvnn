@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is there a middle ground anywhere?](http://9gag.com/gag/aNDBy9A)
- - 😝 [The birth giver](http://9gag.com/gag/aW4oVqA)
- - 💣 [Versus](http://9gag.com/gag/aW4oVDK)
- - 😝 [Old but gold.](http://9gag.com/gag/a4PAM7y)
- - 👉 [Kitty is going places](http://9gag.com/gag/a1mVz5P)<!-- MEMES:END -->
+ - 😝 [Versus](http://9gag.com/gag/aW4oVDK)
+ - 😝 [Like a random encounter in an open world game](http://9gag.com/gag/ae9xodO)
+ - 💣 [From the archives!](http://9gag.com/gag/a872LGe)
+ - 😝 [Perfection](http://9gag.com/gag/agmxRVx)
+ - 👉 [Always be careful out there.](http://9gag.com/gag/a6ZBvPN)<!-- MEMES:END -->
 
 ---
 

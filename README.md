@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Saved it without even trying](http://9gag.com/gag/aKG80Lj)
- - 😝 [Is there a middle ground anywhere?](http://9gag.com/gag/aNDBy9A)
- - 💣 [The birth giver](http://9gag.com/gag/aW4oVqA)
- - 😝 [Old but gold.](http://9gag.com/gag/a4PAM7y)
- - 👉 [Versus](http://9gag.com/gag/aW4oVDK)<!-- MEMES:END -->
+ - 😝 [So many women will not and did not understand what this man was expressing in just a few words. &lpar;Original posted on instagram, sharing here with you&rpar;](http://9gag.com/gag/a0en26v)
+ - 😝 [Japanese police chief bows to apologise to the man who was acquitted after nearly 60 years on death row](http://9gag.com/gag/adBxmA2)
+ - 💣 [You never know](http://9gag.com/gag/ae9xo0O)
+ - 😝 [All men are liars. Women:](http://9gag.com/gag/aD2bB5d)
+ - 👉 [Did she consult a lawyer before stealing? hahahaha](http://9gag.com/gag/a2vDe09)<!-- MEMES:END -->
 
 ---
 

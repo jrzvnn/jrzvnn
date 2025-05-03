@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [From the archives!](http://9gag.com/gag/a872LGe)
- - 😝 [Versus](http://9gag.com/gag/aW4oVDK)
- - 💣 [Old but gold.](http://9gag.com/gag/a4PAM7y)
- - 😝 [You son of a b*tch, I&#39;m in!](http://9gag.com/gag/aW4oKV4)
- - 👉 [Kitty is going places](http://9gag.com/gag/a1mVz5P)<!-- MEMES:END -->
+ - 😝 [Always be careful out there.](http://9gag.com/gag/a6ZBvPN)
+ - 😝 [Yeah... roll with it](http://9gag.com/gag/a87eBqO)
+ - 💣 [No wonder we\u2019re screwed\u2026](http://9gag.com/gag/a87ePjV)
+ - 😝 [BBQ](http://9gag.com/gag/aryxj1K)
+ - 👉 [LiterallyMe](http://9gag.com/gag/apRxeMB)<!-- MEMES:END -->
 
 ---
 

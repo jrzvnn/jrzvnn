@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Always be careful out there.](http://9gag.com/gag/a6ZBvPN)
- - 😝 [Grandpa endurance](http://9gag.com/gag/axyOxeY)
- - 💣 [Versus](http://9gag.com/gag/aW4oVDK)
- - 😝 [Did she consult a lawyer before stealing? hahahaha](http://9gag.com/gag/a2vDe09)
- - 👉 [Stop scrolling 9gag and go to bed bro](http://9gag.com/gag/avyx31O)<!-- MEMES:END -->
+ - 😝 [Robot goes berserk](http://9gag.com/gag/a6ZBv1N)
+ - 😝 [No wonder we\u2019re screwed\u2026](http://9gag.com/gag/a87ePjV)
+ - 💣 [Stop scrolling 9gag and go to bed bro](http://9gag.com/gag/avyx31O)
+ - 😝 [One from the archive](http://9gag.com/gag/ae9xXjQ)
+ - 👉 [100 men vs 1 gorilla](http://9gag.com/gag/a5Qz4EO)<!-- MEMES:END -->
 
 ---
 

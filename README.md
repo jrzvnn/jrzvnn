@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [No wonder we\u2019re screwed\u2026](http://9gag.com/gag/a87ePjV)
+ - 😝 [All men are liars. Women:](http://9gag.com/gag/aD2bB5d)
+ - 💣 [BBQ](http://9gag.com/gag/aryxj1K)
  - 😝 [Always be careful out there.](http://9gag.com/gag/a6ZBvPN)
- - 😝 [Versus](http://9gag.com/gag/aW4oVDK)
- - 💣 [Are we... doomed?](http://9gag.com/gag/aLnAx3x)
- - 😝 [Japanese police chief bows to apologise to the man who was acquitted after nearly 60 years on death row](http://9gag.com/gag/adBxmA2)
- - 👉 [He knows what he did](http://9gag.com/gag/aGyG32K)<!-- MEMES:END -->
+ - 👉 [Happy black history month](http://9gag.com/gag/aByED9Q)<!-- MEMES:END -->
 
 ---
 

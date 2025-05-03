@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dog wanted some company \ud83e\udd23](http://9gag.com/gag/a1mV4gb)
- - 😝 [Is there a middle ground anywhere?](http://9gag.com/gag/aNDBy9A)
- - 💣 [The birth giver](http://9gag.com/gag/aW4oVqA)
- - 😝 [Versus](http://9gag.com/gag/aW4oVDK)
- - 👉 [Old but gold.](http://9gag.com/gag/a4PAM7y)<!-- MEMES:END -->
+ - 😝 [Always be careful out there.](http://9gag.com/gag/a6ZBvPN)
+ - 😝 [BBQ](http://9gag.com/gag/aryxj1K)
+ - 💣 [Win win!](http://9gag.com/gag/apRbKXE)
+ - 😝 [Oh well.](http://9gag.com/gag/apRbENE)
+ - 👉 [It is crazy. I have done if for free!](http://9gag.com/gag/a9ym3ZW)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [15 Best Air Purifiers &lpar;2025&rpar;: Coway, AirDoctor, IQAir](https://www.wired.com/gallery/best-air-purifiers/)
  - [7 Best Cordless Vacuums for Your Whole House &lpar;2025&rpar;](https://www.wired.com/gallery/best-cordless-vacuums/)
- - [Cheap stuff that doesn’t suck, take 2](https://www.theverge.com/tech/657469/favorites-anker-xiaomi-tile-tools)
- - [Some international startup founders say they are canceling travel plans or reconsidering moving to the US due to Trump administration&#39;s immigration crackdown &lpar;Madeline Renbarger/Newcomer&rpar;](http://www.techmeme.com/250503/p8#a250503p8)
- - [Gigabyte Aorus Master 16 review: powerful graphics, LOUD FANS](https://www.theverge.com/reviews/658137/gigabyte-aorus-master-16-gaming-laptop-rtx-5080-review)
- - [Are Shokz&#39; New OpenDots One Better Than Bose&#39;s Ultra Open Earbuds?](https://www.cnet.com/tech/mobile/are-shokz-new-opendots-one-better-than-boses-ultra-open-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Next Interest Rate Decision Could Affect Your Finances More Than You Think](https://www.cnet.com/personal-finance/banking/the-next-interest-rate-decision-could-affect-your-finances-more-than-you-think/#ftag=CAD590a51e)
+ - [&#39;MobLand&#39; Release Schedule: How to Watch Episode 6 of the Tom Hardy Series](https://www.cnet.com/tech/services-and-software/mobland-release-schedule-how-to-watch-episode-6-of-the-tom-hardy-series/#ftag=CAD590a51e)
+ - [Cheap stuff that doesn’t suck, take 2](https://www.theverge.com/tech/657469/favorites-anker-xiaomi-tile-tools)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

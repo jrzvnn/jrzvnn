@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So many women will not and did not understand what this man was expressing in just a few words. &lpar;Original posted on instagram, sharing here with you&rpar;](http://9gag.com/gag/a0en26v)
- - 😝 [Are we... doomed?](http://9gag.com/gag/aLnAx3x)
- - 💣 [Royce Du Pont](http://9gag.com/gag/aRBvY5j)
- - 😝 [Courtroom footage from 2006 captures Saddam Hussein\u2019s reaction to his death sentence](http://9gag.com/gag/aPAeOyV)
- - 👉 [How to get the girls on a party](http://9gag.com/gag/aAyMjD2)<!-- MEMES:END -->
+ - 😝 [Turning used mobile phone to gold](http://9gag.com/gag/amox3E2)
+ - 😝 [All men are liars. Women:](http://9gag.com/gag/aD2bB5d)
+ - 💣 [Japanese police chief bows to apologise to the man who was acquitted after nearly 60 years on death row](http://9gag.com/gag/adBxmA2)
+ - 😝 [100 men vs 1 gorilla](http://9gag.com/gag/a5Qz4EO)
+ - 👉 [Did she consult a lawyer before stealing? hahahaha](http://9gag.com/gag/a2vDe09)<!-- MEMES:END -->
 
 ---
 

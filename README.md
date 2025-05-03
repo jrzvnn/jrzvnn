@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Old but gold.](http://9gag.com/gag/a4PAM7y)
- - 😝 [Versus](http://9gag.com/gag/aW4oVDK)
- - 💣 [You son of a b*tch, I&#39;m in!](http://9gag.com/gag/aW4oKV4)
- - 😝 [Kitty is going places](http://9gag.com/gag/a1mVz5P)
- - 👉 [Bed and woods](http://9gag.com/gag/aGyG3WX)<!-- MEMES:END -->
+ - 😝 [Good. Happy for you. Very nice.](http://9gag.com/gag/amoxE12)
+ - 😝 [Yeah... roll with it](http://9gag.com/gag/a87eBqO)
+ - 💣 [Japanese police chief bows to apologise to the man who was acquitted after nearly 60 years on death row](http://9gag.com/gag/adBxmA2)
+ - 😝 [Stick it to the man! Literally](http://9gag.com/gag/aMVzpqM)
+ - 👉 [Make a British Bobbie cry!](http://9gag.com/gag/a87ePA3)<!-- MEMES:END -->
 
 ---
 

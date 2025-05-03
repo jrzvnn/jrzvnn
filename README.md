@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Always be careful out there.](http://9gag.com/gag/a6ZBvPN)
- - 😝 [BBQ](http://9gag.com/gag/aryxj1K)
- - 💣 [Win win!](http://9gag.com/gag/apRbKXE)
- - 😝 [Oh well.](http://9gag.com/gag/apRbENE)
- - 👉 [It is crazy. I have done if for free!](http://9gag.com/gag/a9ym3ZW)<!-- MEMES:END -->
+ - 😝 [Versus](http://9gag.com/gag/aW4oVDK)
+ - 😝 [Good. Happy for you. Very nice.](http://9gag.com/gag/amoxE12)
+ - 💣 [Perfection](http://9gag.com/gag/agmxRVx)
+ - 😝 [It is crazy. I have done if for free!](http://9gag.com/gag/a9ym3ZW)
+ - 👉 [Courtroom footage from 2006 captures Saddam Hussein\u2019s reaction to his death sentence](http://9gag.com/gag/aPAeOyV)<!-- MEMES:END -->
 
 ---
 

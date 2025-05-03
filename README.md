@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Fix Your Bed Frame: Squeaking, Slipping, and More](https://www.wired.com/story/how-to-fix-bed-frame/)
  - [CMF Phone 2 Pro Review: The Best Budget Smartphone](https://www.wired.com/review/cmf-phone-2-pro/)
  - [XPeng P7+ Review: Price, Specs, Availability](https://www.wired.com/review/review-xpeng-p7/)
  - [Missed the Switch 2 Preorder? Why It&#39;s OK to Wait](https://www.cnet.com/tech/gaming/missed-the-switch-2-preorder-why-its-ok-to-wait/#ftag=CAD590a51e)
- - [iPhone 16 Pro Max vs. Pixel 9 Pro XL: Massive Phone Specs Compared](https://www.cnet.com/tech/mobile/iphone-16-pro-max-vs-google-pixel-9-pro-xl-massive-phone-specs-compared/#ftag=CAD590a51e)
- - [Why Balcony Solar Panels Haven’t Taken Off in the US](https://www.wired.com/story/why-balcony-solar-hasnt-taken-off-in-the-us/)<!-- TECH:END -->
+ - [iPhone 16 Pro Max vs. Pixel 9 Pro XL: Massive Phone Specs Compared](https://www.cnet.com/tech/mobile/iphone-16-pro-max-vs-google-pixel-9-pro-xl-massive-phone-specs-compared/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

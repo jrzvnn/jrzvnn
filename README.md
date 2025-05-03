@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Always be careful out there.](http://9gag.com/gag/a6ZBvPN)
  - 😝 [Versus](http://9gag.com/gag/aW4oVDK)
- - 😝 [You never know](http://9gag.com/gag/ae9xo0O)
- - 💣 [All men are liars. Women:](http://9gag.com/gag/aD2bB5d)
- - 😝 [Are we... doomed?](http://9gag.com/gag/aLnAx3x)
- - 👉 [So many women will not and did not understand what this man was expressing in just a few words. &lpar;Original posted on instagram, sharing here with you&rpar;](http://9gag.com/gag/a0en26v)<!-- MEMES:END -->
+ - 💣 [Are we... doomed?](http://9gag.com/gag/aLnAx3x)
+ - 😝 [Japanese police chief bows to apologise to the man who was acquitted after nearly 60 years on death row](http://9gag.com/gag/adBxmA2)
+ - 👉 [He knows what he did](http://9gag.com/gag/aGyG32K)<!-- MEMES:END -->
 
 ---
 

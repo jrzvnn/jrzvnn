@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woman is addicted to coffee enema!](http://9gag.com/gag/aoyLZg3)
- - 😝 [Stacking bags that are falling from a conveyor belt](http://9gag.com/gag/aqyWZmv)
- - 💣 [Somebody made a home in a cave](http://9gag.com/gag/agm40rr)
- - 😝 [Hol tf up](http://9gag.com/gag/aXPWpjd)
- - 👉 [Old memes ftw...](http://9gag.com/gag/a5Q2dPr)<!-- MEMES:END -->
+ - 😝 [When adulting means taking field trips seriously](http://9gag.com/gag/agm4yo6)
+ - 😝 [After winning $10,000 Greylon Anthony donates his winnings to a local children&#39;s hospital](http://9gag.com/gag/aE0Dwze)
+ - 💣 [Meanwhile 9gaggers reading this news:](http://9gag.com/gag/a872bVO)
+ - 😝 [You mean to tell me they assembled this for fun???](http://9gag.com/gag/a6Z2yWb)
+ - 👉 [Since old memes are back, maybe healthy to make fun of each other](http://9gag.com/gag/aoyLZOX)<!-- MEMES:END -->
 
 ---
 

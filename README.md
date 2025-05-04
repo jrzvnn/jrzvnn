@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One from the archive](http://9gag.com/gag/ae9xXjQ)
- - 😝 [This is how a B-17 Ball Turret Gunner did his job !!](http://9gag.com/gag/ae9xoLB)
- - 💣 [Sometimes the comments are the best &lpar;noted&rpar;](http://9gag.com/gag/aqyx3EP)
+ - 😝 [Stick it to the man! Literally](http://9gag.com/gag/aMVzpqM)
  - 😝 [Flight Simulator vs Real Life / Milan Takeoff](http://9gag.com/gag/aZZE9Y6)
- - 👉 [Courtroom footage from 2006 captures Saddam Hussein\u2019s reaction to his death sentence](http://9gag.com/gag/aPAeOyV)<!-- MEMES:END -->
+ - 💣 [Perfection](http://9gag.com/gag/agmxRVx)
+ - 😝 [Last year Red Bull suspected McLaren was injecting water to cool its tyres.](http://9gag.com/gag/aoyLmGw)
+ - 👉 [When reality exceeds your wildest fantasy](http://9gag.com/gag/aO8Pqp6)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Doppel, which provides an AI-powered social engineering detection service for enterprises, raised a $35M Series B led by Bessemer at a $205M valuation &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250503/p15#a250503p15)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 4, #223](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-4-223/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, May 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-may-4/#ftag=CAD590a51e)
  - [An in-depth look at the impact of stratospheric pollution from satellite reentries on the ozone layer, as Starlink and others launch more internet satellites &lpar;Bloomberg&rpar;](http://www.techmeme.com/250503/p14#a250503p14)
- - [Premier League Soccer: Stream Brentford vs. Man United Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-brentford-vs-man-united-live-from-anywhere/#ftag=CAD590a51e)
- - [Premier League Soccer: Stream West Ham vs. Tottenham Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-west-ham-vs-tottenham-live-from-anywhere/#ftag=CAD590a51e)
- - [Premier League Soccer: Stream Chelsea vs. Liverpool Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-chelsea-vs-liverpool-live-from-anywhere/#ftag=CAD590a51e)
- - [Duolingo&#39;s &quot;AI-first&quot; announcement highlights the unfolding AI jobs crisis, with attrition in creative fields, hiring cuts, declining freelance incomes, more &lpar;Brian Merchant/Blood in the Machine&rpar;](http://www.techmeme.com/250503/p13#a250503p13)<!-- TECH:END -->
+ - [Premier League Soccer: Stream Brentford vs. Man United Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-brentford-vs-man-united-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

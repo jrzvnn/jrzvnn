@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Forever](http://9gag.com/gag/aQzZPxw)
- - 😝 [Still haven&#39;t figured that one out.](http://9gag.com/gag/abAB5qL)
- - 💣 [For real](http://9gag.com/gag/aRBoQB5)
+ - 😝 [Woman is addicted to coffee enema!](http://9gag.com/gag/aoyLZg3)
+ - 😝 [Stacking bags that are falling from a conveyor belt](http://9gag.com/gag/aqyWZmv)
+ - 💣 [Somebody made a home in a cave](http://9gag.com/gag/agm40rr)
  - 😝 [Hol tf up](http://9gag.com/gag/aXPWpjd)
- - 👉 [Stacking bags that are falling from a conveyor belt](http://9gag.com/gag/aqyWZmv)<!-- MEMES:END -->
+ - 👉 [Old memes ftw...](http://9gag.com/gag/a5Q2dPr)<!-- MEMES:END -->
 
 ---
 

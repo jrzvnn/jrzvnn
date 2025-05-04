@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Like a random encounter in an open world game](http://9gag.com/gag/ae9xodO)
- - 😝 [Don&#39;t kill the Gorilla this time](http://9gag.com/gag/axyOpEp)
- - 💣 [Robot goes berserk](http://9gag.com/gag/a6ZBv1N)
- - 😝 [Balls of steel](http://9gag.com/gag/ajPZYWg)
- - 👉 [Last year Red Bull suspected McLaren was injecting water to cool its tyres.](http://9gag.com/gag/aoyLmGw)<!-- MEMES:END -->
+ - 😝 [Camera shutter goes brrr](http://9gag.com/gag/aoyLmqx)
+ - 😝 [He knows what he did](http://9gag.com/gag/aGyG32K)
+ - 💣 [Last year Red Bull suspected McLaren was injecting water to cool its tyres.](http://9gag.com/gag/aoyLmGw)
+ - 😝 [Can we go back to the 90s look? Still gay but a lot less than this broccoli shit](http://9gag.com/gag/aoyLEY2)
+ - 👉 [Like a random encounter in an open world game](http://9gag.com/gag/ae9xodO)<!-- MEMES:END -->
 
 ---
 

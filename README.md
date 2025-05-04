@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woman is addicted to coffee enema!](http://9gag.com/gag/aoyLZg3)
+ - 😝 [When your plan doesn&#39;t quite come together but you&#39;re staying cool.](http://9gag.com/gag/aD2V0NK)
  - 😝 [Indonesian stewardess](http://9gag.com/gag/a342Ppv)
- - 💣 [When the cartoonist chose violence](http://9gag.com/gag/a872b5Z)
- - 😝 [Days long gone](http://9gag.com/gag/aYQqb2m)
- - 👉 [Well well well, how the turn tables](http://9gag.com/gag/aVvLQ9O)<!-- MEMES:END -->
+ - 💣 [She told her to wear deodorant](http://9gag.com/gag/aMVv1bW)
+ - 😝 [Can we go back to the 90s look? Still gay but a lot less than this broccoli shit](http://9gag.com/gag/aoyLEY2)
+ - 👉 [Stacking bags that are falling from a conveyor belt](http://9gag.com/gag/aqyWZmv)<!-- MEMES:END -->
 
 ---
 

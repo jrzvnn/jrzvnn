@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why Pigeons at Rest Are at the Center of Complexity Theory](https://www.wired.com/story/how-a-problem-about-pigeons-powers-complexity-theory/)
+ - [The Best Star Wars Gifts for Everyone From Padawans to Jedi Masters &lpar;2025&rpar;](https://www.wired.com/gallery/best-star-wars-gifts/)
  - [9 Great Deals on Mother&#39;s Day Gifts &lpar;2025&rpar;](https://www.wired.com/story/mothers-day-deals-2025/)
- - [The Phony Physics of Star Wars Are a Blast](https://www.wired.com/story/the-phony-physics-of-star-wars-are-a-blast/)
- - [Best Reading Glasses to Buy Online in 2025. Plus, Eye Doctor Advice](https://www.cnet.com/health/personal-care/best-reading-glasses/#ftag=CAD590a51e)
- - [Wearing three AI-powered devices, the $50 Bee Pioneer, $199 Limitless Pendant, and $159 Plaud NotePin, shows how the wearables can be useful but also creepy &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/250504/p10#a250504p10)
- - [Polygon Labs spinout Miden, a zero-knowledge proof-based blockchain project focused on high scalability, raised a $25M seed led by a16z Crypto, 1kx, and Hack VC &lpar;Zoltan Vardai/Cointelegraph&rpar;](http://www.techmeme.com/250504/p9#a250504p9)<!-- TECH:END -->
+ - [9 Surprising Things We Learned Monitoring Our Air Quality in 3 Locations](https://www.cnet.com/health/surprising-things-learned-monitoring-air-quality-in-3-locations/#ftag=CAD590a51e)
+ - [Microsoft Raised the Prices of Xbox Consoles, and Some Games Are Next](https://www.cnet.com/tech/gaming/microsoft-raised-the-prices-of-xbox-consoles-and-some-games-are-next/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

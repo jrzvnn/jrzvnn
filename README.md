@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As Xbox hikes game prices, the three highest-reviewed games of 2025 so far on Metacritic--Clair Obscur, Blue Prince, and Split Fiction--are all budget titles &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250504/p12#a250504p12)
+ - [World Snooker Championship 2025 Final: How to Watch Live From Anywhere](https://www.cnet.com/tech/services-and-software/world-snooker-championship-2025-final-how-to-watch-live-from-anywhere/#ftag=CAD590a51e)
  - [22 Great Gifts for Mom: Ideas for the Best Mother &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-moms/)
- - [The fantasy of playing Final Fantasy](https://www.theverge.com/features/641582/final-fantasy-xiv-parenting-essay)
- - [Shotgun Cop Man is a weird-as-hell platformer about arresting Satan](https://www.theverge.com/games-review/660272/shotgun-cop-man-review-pc-switch)
- - [Crime blotter: New York theft ring ringleader convicted](https://appleinsider.com/articles/25/05/04/crime-blotter-new-york-theft-ring-ringleader-convicted?utm_medium=rss)
- - [One Tiny Gadget Is the Unsung Hero of Today&#39;s Smart, Energy-Saving Home](https://www.cnet.com/home/smart-home/features/one-tiny-gadget-is-the-unsung-hero-of-todays-smart-energy-saving-home/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Everyone Needs Exactly Three Pairs of Headphones. Here Are My Picks](https://www.cnet.com/tech/mobile/everyone-needs-exactly-three-pairs-of-headphones-here-are-my-picks/#ftag=CAD590a51e)
+ - [The fantasy of playing Final Fantasy](https://www.theverge.com/features/641582/final-fantasy-xiv-parenting-essay)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

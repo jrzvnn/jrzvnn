@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [More information of the good boy in comments.](http://9gag.com/gag/awydrB1)
- - 😝 [Balls of steel](http://9gag.com/gag/ajPZYWg)
- - 💣 [My 3d printed homo trollius](http://9gag.com/gag/aQzZqXe)
- - 😝 [Universal doing a better job at its theme park than the movies!](http://9gag.com/gag/aLnmQeP)
- - 👉 [4 Days ago we needed to take our old family member on the last journey. It&#39;s been quiet in home.. I don&#39;t have any friends left to tell my&amp;gf sorrows for losing our dog so i post here to strangers. Rest in peace Vilkki 2009-28.4.2025](http://9gag.com/gag/a7o2LBL)<!-- MEMES:END -->
+ - 😝 [When your girlfriend is weirder than you](http://9gag.com/gag/aYQqbLq)
+ - 😝 [Johnny, what did you build over there?](http://9gag.com/gag/aMVv1nG)
+ - 💣 [Rochester single mom Shiloh Hendrix, who was recorded saying the N-word after using the slur on a Black child who allegedly stole from her 18\\-month\\-old son\u2019s diaper bag, has amassed over $200,000 on GiveSendGo.](http://9gag.com/gag/aRBo6Py)
+ - 😝 [Anybody got some dank pirate memes I can yoink from you?](http://9gag.com/gag/aByEDoA)
+ - 👉 [Can we go back to the 90s look? Still gay but a lot less than this broccoli shit](http://9gag.com/gag/aoyLEY2)<!-- MEMES:END -->
 
 ---
 

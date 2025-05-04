@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Roku is looking into complaints about washed-out HDR streams](https://www.theverge.com/news/660950/roku-hdr-issues-washed-out-colors-gray)
+ - [A hacker breaches TeleMessage, which offers modified versions of apps like Signal used by US officials including Mike Waltz, Tulsi Gabbard, JD Vance, and others &lpar;404 Media&rpar;](http://www.techmeme.com/250504/p16#a250504p16)
  - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
  - [Zeki: the US risks losing its edge as the top destination for AI talent, as the 12-month rolling average of AI talent entering in 2025 equals the number leaving &lpar;Rachyl Jones/Semafor&rpar;](http://www.techmeme.com/250504/p15#a250504p15)
- - [Today&#39;s NYT Connections Hints, Answers and Help for May 5, #694](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-5-694/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for May 5, #428](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-5-428/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for May 5, #1416](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-5-1416/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for May 5, #694](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-5-694/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

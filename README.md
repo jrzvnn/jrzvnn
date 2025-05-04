@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Too far fetched?](http://9gag.com/gag/awydNoW)
+ - 😝 [Meanwhile 9gaggers reading this news:](http://9gag.com/gag/a872bVO)
+ - 😝 [Somebody made a home in a cave](http://9gag.com/gag/agm40rr)
+ - 💣 [Too far fetched?](http://9gag.com/gag/awydNoW)
  - 😝 [She told her to wear deodorant](http://9gag.com/gag/aMVv1bW)
- - 💣 [When you nail the rocket start in Mario Kart](http://9gag.com/gag/aMVv2bP)
- - 😝 [This quote goes beyond the show\u2026](http://9gag.com/gag/aoyLm9x)
- - 👉 [Flight Simulator vs Real Life / Milan Takeoff](http://9gag.com/gag/aZZE9Y6)<!-- MEMES:END -->
+ - 👉 [Forever](http://9gag.com/gag/aQzZPxw)<!-- MEMES:END -->
 
 ---
 

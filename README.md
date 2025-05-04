@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Witty title](http://9gag.com/gag/awydbPW)
- - 😝 [Somebody made a home in a cave](http://9gag.com/gag/agm40rr)
- - 💣 [Over confidence can have dangers](http://9gag.com/gag/a872dNe)
- - 😝 [From my archive](http://9gag.com/gag/a9y2jmm)
- - 👉 [When your girlfriend is weirder than you](http://9gag.com/gag/aYQqbLq)<!-- MEMES:END -->
+ - 😝 [Balls of steel](http://9gag.com/gag/ajPZYWg)
+ - 😝 [Anybody got some dank pirate memes I can yoink from you?](http://9gag.com/gag/aByEDoA)
+ - 💣 [Acrobatic](http://9gag.com/gag/apRboKn)
+ - 😝 [She told her to wear deodorant](http://9gag.com/gag/aMVv1bW)
+ - 👉 [Can we go back to the 90s look? Still gay but a lot less than this broccoli shit](http://9gag.com/gag/aoyLEY2)<!-- MEMES:END -->
 
 ---
 

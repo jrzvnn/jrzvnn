@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meanwhile 9gaggers reading this news:](http://9gag.com/gag/a872bVO)
- - 😝 [Somebody made a home in a cave](http://9gag.com/gag/agm40rr)
+ - 😝 [There is a special place in hell for me](http://9gag.com/gag/aD2V04N)
+ - 😝 [This quote goes beyond the show\u2026](http://9gag.com/gag/aoyLm9x)
  - 💣 [Too far fetched?](http://9gag.com/gag/awydNoW)
- - 😝 [She told her to wear deodorant](http://9gag.com/gag/aMVv1bW)
- - 👉 [Forever](http://9gag.com/gag/aQzZPxw)<!-- MEMES:END -->
+ - 😝 [We&#39;ll never have a Disney spinoff of human Jabba. Why live?](http://9gag.com/gag/aE0DdGG)
+ - 👉 [Am I right?](http://9gag.com/gag/aD2bBeK)<!-- MEMES:END -->
 
 ---
 

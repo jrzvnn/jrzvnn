@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Anybody got some dank pirate memes I can yoink from you?](http://9gag.com/gag/aByEDoA)
+ - 😝 [Stick it to the man! Literally](http://9gag.com/gag/aMVzpqM)
+ - 💣 [Can we go back to the 90s look? Still gay but a lot less than this broccoli shit](http://9gag.com/gag/aoyLEY2)
  - 😝 [Over confidence can have dangers](http://9gag.com/gag/a872dNe)
- - 😝 [When your girlfriend is weirder than you](http://9gag.com/gag/aYQqbLq)
- - 💣 [Johnny, what did you build over there?](http://9gag.com/gag/aMVv1nG)
- - 😝 [Last year Red Bull suspected McLaren was injecting water to cool its tyres.](http://9gag.com/gag/aoyLmGw)
- - 👉 [Stick it to the man! Literally](http://9gag.com/gag/aMVzpqM)<!-- MEMES:END -->
+ - 👉 [Innovation](http://9gag.com/gag/a2vDQZw)<!-- MEMES:END -->
 
 ---
 

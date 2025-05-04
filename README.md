@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stick it to the man! Literally](http://9gag.com/gag/aMVzpqM)
- - 😝 [Flight Simulator vs Real Life / Milan Takeoff](http://9gag.com/gag/aZZE9Y6)
- - 💣 [Perfection](http://9gag.com/gag/agmxRVx)
- - 😝 [Last year Red Bull suspected McLaren was injecting water to cool its tyres.](http://9gag.com/gag/aoyLmGw)
- - 👉 [When reality exceeds your wildest fantasy](http://9gag.com/gag/aO8Pqp6)<!-- MEMES:END -->
+ - 😝 [We&#39;ll never have a Disney spinoff of human Jabba. Why live?](http://9gag.com/gag/aE0DdGG)
+ - 😝 [Old memes ftw...](http://9gag.com/gag/a5Q2dPr)
+ - 💣 [One from the archive](http://9gag.com/gag/ae9xXjQ)
+ - 😝 [Don&#39;t kill the Gorilla this time](http://9gag.com/gag/axyOpEp)
+ - 👉 [Last year Red Bull suspected McLaren was injecting water to cool its tyres.](http://9gag.com/gag/aoyLmGw)<!-- MEMES:END -->
 
 ---
 

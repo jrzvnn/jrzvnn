@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Polygon Labs spinout Miden, a zero-knowledge proof-based blockchain project focused on high scalability, raised a $25M seed led by a16z Crypto, 1kx, and Hack VC &lpar;Zoltan Vardai/Cointelegraph&rpar;](http://www.techmeme.com/250504/p9#a250504p9)
  - [NYC-based Blooming Health, an online coordination network for social service agencies and aging care providers, raised a $26M Series A led by Insight Partners &lpar;Aaron Weitzman/Axios&rpar;](http://www.techmeme.com/250504/p8#a250504p8)
  - [Salt Lake City-based Canopy, which provides a firm-wide operating system for accounting, raised a $70M Series C led by Viking Global Investors &lpar;FinSMEs&rpar;](http://www.techmeme.com/250504/p7#a250504p7)
- - [Rhode Island-based Utilidata, which develops AI-enabled smart meters and grid control devices with Nvidia chips for energy utilities, raised a $60.3M Series C &lpar;Jeff St. John/Canary Media&rpar;](http://www.techmeme.com/250504/p6#a250504p6)<!-- TECH:END -->
+ - [Did Apple Just Tell Us to Buy iPhones by June?](https://www.cnet.com/personal-finance/taxes/did-apple-just-tell-us-to-buy-iphones-by-june/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

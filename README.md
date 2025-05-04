@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk’s SpaceX gets a company town in Texas](https://www.theverge.com/news/660773/elon-musk-spacex-starbase-texas-vote)
+ - [Best Graphics Cards &lpar;GPUs&rpar; for PC: Nvidia, AMD, Intel](https://www.wired.com/gallery/best-graphics-cards-gpu/)
  - [AquaRest Discover AR150 Hot Tub Review: Super Soaking](https://www.wired.com/review/aquarest-discover-ar-150/)
  - [As Xbox hikes game prices, the three highest-reviewed games of 2025 so far on Metacritic--Clair Obscur, Blue Prince, and Split Fiction--are all budget titles &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250504/p12#a250504p12)
- - [World Snooker Championship 2025 Final: How to Watch Live From Anywhere](https://www.cnet.com/tech/services-and-software/world-snooker-championship-2025-final-how-to-watch-live-from-anywhere/#ftag=CAD590a51e)
- - [22 Great Gifts for Mom: Ideas for the Best Mother &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-moms/)
- - [Everyone Needs Exactly Three Pairs of Headphones. Here Are My Picks](https://www.cnet.com/tech/mobile/everyone-needs-exactly-three-pairs-of-headphones-here-are-my-picks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [World Snooker Championship 2025 Final: How to Watch Live From Anywhere](https://www.cnet.com/tech/services-and-software/world-snooker-championship-2025-final-how-to-watch-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

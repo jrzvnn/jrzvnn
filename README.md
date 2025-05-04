@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Camera shutter goes brrr](http://9gag.com/gag/aoyLmqx)
- - 😝 [He knows what he did](http://9gag.com/gag/aGyG32K)
- - 💣 [Last year Red Bull suspected McLaren was injecting water to cool its tyres.](http://9gag.com/gag/aoyLmGw)
- - 😝 [Can we go back to the 90s look? Still gay but a lot less than this broccoli shit](http://9gag.com/gag/aoyLEY2)
- - 👉 [Like a random encounter in an open world game](http://9gag.com/gag/ae9xodO)<!-- MEMES:END -->
+ - 😝 [Memeception](http://9gag.com/gag/aW4oK2n)
+ - 😝 [Last year Red Bull suspected McLaren was injecting water to cool its tyres.](http://9gag.com/gag/aoyLmGw)
+ - 💣 [Don&#39;t kill the Gorilla this time](http://9gag.com/gag/axyOpEp)
+ - 😝 [One from the archive](http://9gag.com/gag/ae9xXjQ)
+ - 👉 [We&#39;ll never have a Disney spinoff of human Jabba. Why live?](http://9gag.com/gag/aE0DdGG)<!-- MEMES:END -->
 
 ---
 

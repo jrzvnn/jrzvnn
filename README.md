@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Witty title](http://9gag.com/gag/awydbPW)
- - 😝 [Stick it to the man! Literally](http://9gag.com/gag/aMVzpqM)
- - 💣 [This quote goes beyond the show\u2026](http://9gag.com/gag/aoyLm9x)
- - 😝 [Anybody got some dank pirate memes I can yoink from you?](http://9gag.com/gag/aByEDoA)
+ - 😝 [Somebody made a home in a cave](http://9gag.com/gag/agm40rr)
+ - 💣 [Over confidence can have dangers](http://9gag.com/gag/a872dNe)
+ - 😝 [From my archive](http://9gag.com/gag/a9y2jmm)
  - 👉 [When your girlfriend is weirder than you](http://9gag.com/gag/aYQqbLq)<!-- MEMES:END -->
 
 ---

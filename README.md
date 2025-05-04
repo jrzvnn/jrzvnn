@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The fantasy of playing Final Fantasy](https://www.theverge.com/features/641582/final-fantasy-xiv-parenting-essay)
  - [Shotgun Cop Man is a weird-as-hell platformer about arresting Satan](https://www.theverge.com/games-review/660272/shotgun-cop-man-review-pc-switch)
  - [Crime blotter: New York theft ring ringleader convicted](https://appleinsider.com/articles/25/05/04/crime-blotter-new-york-theft-ring-ringleader-convicted?utm_medium=rss)
- - [A worthy sequel to one of the best websites ever](https://www.theverge.com/installer-newsletter/660376/one-million-chessboards-raycast-thunderbolts-installer)<!-- TECH:END -->
+ - [One Tiny Gadget Is the Unsung Hero of Today&#39;s Smart, Energy-Saving Home](https://www.cnet.com/home/smart-home/features/one-tiny-gadget-is-the-unsung-hero-of-todays-smart-energy-saving-home/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

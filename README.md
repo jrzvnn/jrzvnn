@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t live in the uk](http://9gag.com/gag/a872LAY)
- - 😝 [Still haven&#39;t figured that one out.](http://9gag.com/gag/abAB5qL)
- - 💣 [When your girlfriend is weirder than you](http://9gag.com/gag/aYQqbLq)
- - 😝 [Somebody made a home in a cave](http://9gag.com/gag/agm40rr)
- - 👉 [Forever](http://9gag.com/gag/aQzZPxw)<!-- MEMES:END -->
+ - 😝 [Witty title](http://9gag.com/gag/awydbPW)
+ - 😝 [Never forget where you come from](http://9gag.com/gag/aZZjPPz)
+ - 💣 [Meanwhile 9gaggers reading this news:](http://9gag.com/gag/a872bVO)
+ - 😝 [When adulting means taking field trips seriously](http://9gag.com/gag/agm4yo6)
+ - 👉 [After winning $10,000 Greylon Anthony donates his winnings to a local children&#39;s hospital](http://9gag.com/gag/aE0Dwze)<!-- MEMES:END -->
 
 ---
 

@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Elon Musk’s SpaceX gets a company town in Texas](https://www.theverge.com/news/660773/elon-musk-spacex-starbase-texas-vote)
  - [Best Graphics Cards &lpar;GPUs&rpar; for PC: Nvidia, AMD, Intel](https://www.wired.com/gallery/best-graphics-cards-gpu/)
  - [AquaRest Discover AR150 Hot Tub Review: Super Soaking](https://www.wired.com/review/aquarest-discover-ar-150/)
- - [As Xbox hikes game prices, the three highest-reviewed games of 2025 so far on Metacritic--Clair Obscur, Blue Prince, and Split Fiction--are all budget titles &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250504/p12#a250504p12)<!-- TECH:END -->
+ - [&#39;The Last of Us&#39; Is On Tonight: When to Watch Season 2, Episode 4](https://www.cnet.com/tech/services-and-software/the-last-of-us-is-on-tonight-when-to-watch-season-2-episode-4/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

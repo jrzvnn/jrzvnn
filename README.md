@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Formula 1 Drivers Just Hit the Track in These Full-Sized Lego Cars](https://www.wired.com/story/lego-formula-1-drivable-big-builds/)
  - [It&#39;s tough, but you can hack a M4 Mac mini to get power over USB-C](https://appleinsider.com/articles/25/05/04/its-tough-but-you-can-hack-a-m4-mac-mini-to-get-power-over-usb-c?utm_medium=rss)
  - [The UAE will add AI to public school curriculum, including ethical awareness and foundational concepts, for kindergarten pupils through to 12th grade this year &lpar;Sara Gharaibeh/Bloomberg&rpar;](http://www.techmeme.com/250504/p14#a250504p14)
  - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [President Trump&#39;s fiscal 2026 budget proposal suggests slashing $491M from CISA&#39;s ~$3B budget, claiming the cut &quot;refocuses CISA on its core mission&quot; &lpar;Tim Starks/CyberScoop&rpar;](http://www.techmeme.com/250504/p13#a250504p13)
- - [Elon Musk’s SpaceX gets a company town in Texas](https://www.theverge.com/news/660773/elon-musk-spacex-starbase-texas-vote)<!-- TECH:END -->
+ - [President Trump&#39;s fiscal 2026 budget proposal suggests slashing $491M from CISA&#39;s ~$3B budget, claiming the cut &quot;refocuses CISA on its core mission&quot; &lpar;Tim Starks/CyberScoop&rpar;](http://www.techmeme.com/250504/p13#a250504p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

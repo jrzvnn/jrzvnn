@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When adulting means taking field trips seriously](http://9gag.com/gag/agm4yo6)
- - 😝 [After winning $10,000 Greylon Anthony donates his winnings to a local children&#39;s hospital](http://9gag.com/gag/aE0Dwze)
- - 💣 [Meanwhile 9gaggers reading this news:](http://9gag.com/gag/a872bVO)
- - 😝 [Since old memes are back, maybe healthy to make fun of each other](http://9gag.com/gag/aoyLZOX)
- - 👉 [You mean to tell me they assembled this for fun???](http://9gag.com/gag/a6Z2yWb)<!-- MEMES:END -->
+ - 😝 [Woman is addicted to coffee enema!](http://9gag.com/gag/aoyLZg3)
+ - 😝 [Indonesian stewardess](http://9gag.com/gag/a342Ppv)
+ - 💣 [When the cartoonist chose violence](http://9gag.com/gag/a872b5Z)
+ - 😝 [Days long gone](http://9gag.com/gag/aYQqb2m)
+ - 👉 [Well well well, how the turn tables](http://9gag.com/gag/aVvLQ9O)<!-- MEMES:END -->
 
 ---
 

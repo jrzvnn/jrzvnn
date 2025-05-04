@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She told her to wear deodorant](http://9gag.com/gag/aMVv1bW)
- - 😝 [Over confidence can have dangers](http://9gag.com/gag/a872dNe)
- - 💣 [Last year Red Bull suspected McLaren was injecting water to cool its tyres.](http://9gag.com/gag/aoyLmGw)
- - 😝 [When your girlfriend is weirder than you](http://9gag.com/gag/aYQqbLq)
- - 👉 [Anybody got some dank pirate memes I can yoink from you?](http://9gag.com/gag/aByEDoA)<!-- MEMES:END -->
+ - 😝 [Witty title](http://9gag.com/gag/awydbPW)
+ - 😝 [Stick it to the man! Literally](http://9gag.com/gag/aMVzpqM)
+ - 💣 [This quote goes beyond the show\u2026](http://9gag.com/gag/aoyLm9x)
+ - 😝 [Anybody got some dank pirate memes I can yoink from you?](http://9gag.com/gag/aByEDoA)
+ - 👉 [When your girlfriend is weirder than you](http://9gag.com/gag/aYQqbLq)<!-- MEMES:END -->
 
 ---
 

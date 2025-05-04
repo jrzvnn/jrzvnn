@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you nail the rocket start in Mario Kart](http://9gag.com/gag/aMVv2bP)
- - 😝 [Who knew honesty was an option?](http://9gag.com/gag/aKGez6O)
- - 💣 [Days long gone](http://9gag.com/gag/aYQqb2m)
  - 😝 [Forever](http://9gag.com/gag/aQzZPxw)
+ - 😝 [Still haven&#39;t figured that one out.](http://9gag.com/gag/abAB5qL)
+ - 💣 [For real](http://9gag.com/gag/aRBoQB5)
+ - 😝 [Hol tf up](http://9gag.com/gag/aXPWpjd)
  - 👉 [Stacking bags that are falling from a conveyor belt](http://9gag.com/gag/aqyWZmv)<!-- MEMES:END -->
 
 ---

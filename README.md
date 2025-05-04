@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Phony Physics of Star Wars Are a Blast](https://www.wired.com/story/the-phony-physics-of-star-wars-are-a-blast/)
  - [Best Reading Glasses to Buy Online in 2025. Plus, Eye Doctor Advice](https://www.cnet.com/health/personal-care/best-reading-glasses/#ftag=CAD590a51e)
  - [Wearing three AI-powered devices, the $50 Bee Pioneer, $199 Limitless Pendant, and $159 Plaud NotePin, shows how the wearables can be useful but also creepy &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/250504/p10#a250504p10)
  - [Polygon Labs spinout Miden, a zero-knowledge proof-based blockchain project focused on high scalability, raised a $25M seed led by a16z Crypto, 1kx, and Hack VC &lpar;Zoltan Vardai/Cointelegraph&rpar;](http://www.techmeme.com/250504/p9#a250504p9)
- - [NYC-based Blooming Health, an online coordination network for social service agencies and aging care providers, raised a $26M Series A led by Insight Partners &lpar;Aaron Weitzman/Axios&rpar;](http://www.techmeme.com/250504/p8#a250504p8)
- - [Salt Lake City-based Canopy, which provides a firm-wide operating system for accounting, raised a $70M Series C led by Viking Global Investors &lpar;FinSMEs&rpar;](http://www.techmeme.com/250504/p7#a250504p7)<!-- TECH:END -->
+ - [NYC-based Blooming Health, an online coordination network for social service agencies and aging care providers, raised a $26M Series A led by Insight Partners &lpar;Aaron Weitzman/Axios&rpar;](http://www.techmeme.com/250504/p8#a250504p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

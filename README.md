@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For real](http://9gag.com/gag/aRBoQB5)
- - 😝 [This old school masterpiece](http://9gag.com/gag/aQzZ6YW)
- - 💣 [Extra Seven Days](http://9gag.com/gag/an7EXK0)
- - 😝 [Can we go back to the 90s look? Still gay but a lot less than this broccoli shit](http://9gag.com/gag/aoyLEY2)
- - 👉 [When your girlfriend is weirder than you](http://9gag.com/gag/aYQqbLq)<!-- MEMES:END -->
+ - 😝 [I don&#39;t live in the uk](http://9gag.com/gag/a872LAY)
+ - 😝 [Still haven&#39;t figured that one out.](http://9gag.com/gag/abAB5qL)
+ - 💣 [When your girlfriend is weirder than you](http://9gag.com/gag/aYQqbLq)
+ - 😝 [Somebody made a home in a cave](http://9gag.com/gag/agm40rr)
+ - 👉 [Forever](http://9gag.com/gag/aQzZPxw)<!-- MEMES:END -->
 
 ---
 

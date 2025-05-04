@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [London-based Navro, which develops APIs to enable businesses to send and receive international payments with various payment options, raised a $41M Series B &lpar;Tom Matsuda/Sifted&rpar;](http://www.techmeme.com/250504/p4#a250504p4)
+ - [Berlin-based Pliant, which helps corporates combine physical and virtual credit cards with automation tools to streamline spending, raised a $40M Series B &lpar;Lucy Adams/Tech.eu&rpar;](http://www.techmeme.com/250504/p3#a250504p3)
  - [Filings: Abu Dhabi-based AI group G42 set-up a US company to boost its presence in the country, as the UAE plans to invest tens of billions of dollars in the US &lpar;Chloe Cornish/Financial Times&rpar;](http://www.techmeme.com/250504/p2#a250504p2)
  - [Minimus, which offers secure, minimal container images and VMs to let enterprises reduce vulnerability exposure in development workflows, raised a $51M seed &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250504/p1#a250504p1)
- - [Doppel, which provides an AI-powered social engineering detection service for enterprises, raised a $35M Series B led by Bessemer at a $205M valuation &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250503/p15#a250503p15)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 4, #223](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-4-223/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, May 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-may-4/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Doppel, which provides an AI-powered social engineering detection service for enterprises, raised a $35M Series B led by Bessemer at a $205M valuation &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250503/p15#a250503p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

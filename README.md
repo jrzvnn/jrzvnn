@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crime blotter: New York theft ring ringleader convicted](https://appleinsider.com/articles/25/05/04/crime-blotter-new-york-theft-ring-ringleader-convicted?utm_medium=rss)
+ - [A worthy sequel to one of the best websites ever](https://www.theverge.com/installer-newsletter/660376/one-million-chessboards-raycast-thunderbolts-installer)
  - [Sources: Huawei is building an advanced chip production line in Shenzhen and is the key player behind three plants, as satellite imagery shows rapid development &lpar;Financial Times&rpar;](http://www.techmeme.com/250504/p11#a250504p11)
- - [Why Pigeons at Rest Are at the Center of Complexity Theory](https://www.wired.com/story/how-a-problem-about-pigeons-powers-complexity-theory/)
- - [The Best Star Wars Gifts for Everyone From Padawans to Jedi Masters &lpar;2025&rpar;](https://www.wired.com/gallery/best-star-wars-gifts/)
- - [9 Great Deals on Mother&#39;s Day Gifts &lpar;2025&rpar;](https://www.wired.com/story/mothers-day-deals-2025/)
- - [9 Surprising Things We Learned Monitoring Our Air Quality in 3 Locations](https://www.cnet.com/health/surprising-things-learned-monitoring-air-quality-in-3-locations/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nikon Coolpix P1100 Superzoom Camera Review: See Bird Butts From 1,000 Feet](https://www.cnet.com/tech/computing/nikon-coolpix-p1100-superzoom-camera-review-see-bird-butts-from-1000-feet/#ftag=CAD590a51e)
+ - [Beware, These 21 Netflix Sci-Fi Shows Could Break Your Brain](https://www.cnet.com/tech/services-and-software/best-sci-fi-tv-shows-on-netflix-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

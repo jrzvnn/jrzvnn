@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The UAE will add AI to public school curriculum, including ethical awareness and foundational concepts, for kindergarten pupils through to 12th grade this year &lpar;Sara Gharaibeh/Bloomberg&rpar;](http://www.techmeme.com/250504/p14#a250504p14)
  - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
  - [President Trump&#39;s fiscal 2026 budget proposal suggests slashing $491M from CISA&#39;s ~$3B budget, claiming the cut &quot;refocuses CISA on its core mission&quot; &lpar;Tim Starks/CyberScoop&rpar;](http://www.techmeme.com/250504/p13#a250504p13)
  - [Elon Musk’s SpaceX gets a company town in Texas](https://www.theverge.com/news/660773/elon-musk-spacex-starbase-texas-vote)
- - [Best Graphics Cards &lpar;GPUs&rpar; for PC: Nvidia, AMD, Intel](https://www.wired.com/gallery/best-graphics-cards-gpu/)
- - [AquaRest Discover AR150 Hot Tub Review: Super Soaking](https://www.wired.com/review/aquarest-discover-ar-150/)<!-- TECH:END -->
+ - [Best Graphics Cards &lpar;GPUs&rpar; for PC: Nvidia, AMD, Intel](https://www.wired.com/gallery/best-graphics-cards-gpu/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [She told her to wear deodorant](http://9gag.com/gag/aMVv1bW)
- - 😝 [We&#39;ll never have a Disney spinoff of human Jabba. Why live?](http://9gag.com/gag/aE0DdGG)
- - 💣 [Perfection](http://9gag.com/gag/agmxRVx)
- - 😝 [Courtroom footage from 2006 captures Saddam Hussein\u2019s reaction to his death sentence](http://9gag.com/gag/aPAeOyV)
- - 👉 [Old memes ftw...](http://9gag.com/gag/a5Q2dPr)<!-- MEMES:END -->
+ - 😝 [Don&#39;t kill the Gorilla this time](http://9gag.com/gag/axyOpEp)
+ - 💣 [Over confidence can have dangers](http://9gag.com/gag/a872dNe)
+ - 😝 [David Beckham exposes his wife mid interview after lying she came from a poor background.](http://9gag.com/gag/a9y2dz1)
+ - 👉 [When reality exceeds your wildest fantasy](http://9gag.com/gag/aO8Pqp6)<!-- MEMES:END -->
 
 ---
 

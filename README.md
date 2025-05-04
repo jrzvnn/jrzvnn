@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anybody got some dank pirate memes I can yoink from you?](http://9gag.com/gag/aByEDoA)
- - 😝 [Stick it to the man! Literally](http://9gag.com/gag/aMVzpqM)
- - 💣 [Can we go back to the 90s look? Still gay but a lot less than this broccoli shit](http://9gag.com/gag/aoyLEY2)
- - 😝 [Over confidence can have dangers](http://9gag.com/gag/a872dNe)
- - 👉 [Innovation](http://9gag.com/gag/a2vDQZw)<!-- MEMES:END -->
+ - 😝 [When reality exceeds your wildest fantasy](http://9gag.com/gag/aO8Pqp6)
+ - 😝 [Flight Simulator vs Real Life / Milan Takeoff](http://9gag.com/gag/aZZE9Y6)
+ - 💣 [We&#39;ll never have a Disney spinoff of human Jabba. Why live?](http://9gag.com/gag/aE0DdGG)
+ - 😝 [This quote goes beyond the show\u2026](http://9gag.com/gag/aoyLm9x)
+ - 👉 [From my archive](http://9gag.com/gag/a9y2jmm)<!-- MEMES:END -->
 
 ---
 

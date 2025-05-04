@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [She told her to wear deodorant](http://9gag.com/gag/aMVv1bW)
+ - 😝 [Over confidence can have dangers](http://9gag.com/gag/a872dNe)
+ - 💣 [Last year Red Bull suspected McLaren was injecting water to cool its tyres.](http://9gag.com/gag/aoyLmGw)
  - 😝 [When your girlfriend is weirder than you](http://9gag.com/gag/aYQqbLq)
- - 😝 [Johnny, what did you build over there?](http://9gag.com/gag/aMVv1nG)
- - 💣 [Rochester single mom Shiloh Hendrix, who was recorded saying the N-word after using the slur on a Black child who allegedly stole from her 18\\-month\\-old son\u2019s diaper bag, has amassed over $200,000 on GiveSendGo.](http://9gag.com/gag/aRBo6Py)
- - 😝 [Anybody got some dank pirate memes I can yoink from you?](http://9gag.com/gag/aByEDoA)
- - 👉 [Can we go back to the 90s look? Still gay but a lot less than this broccoli shit](http://9gag.com/gag/aoyLEY2)<!-- MEMES:END -->
+ - 👉 [Anybody got some dank pirate memes I can yoink from you?](http://9gag.com/gag/aByEDoA)<!-- MEMES:END -->
 
 ---
 

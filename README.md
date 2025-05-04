@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sometimes the comments are the best &lpar;noted&rpar;](http://9gag.com/gag/aqyx3EP)
+ - 😝 [&lpar;c&rpar; can&#39;t tell](http://9gag.com/gag/avyxb0W)
+ - 😝 [Happy black history month](http://9gag.com/gag/aByED9Q)
+ - 💣 [Last year Red Bull suspected McLaren was injecting water to cool its tyres.](http://9gag.com/gag/aoyLmGw)
  - 😝 [When reality exceeds your wildest fantasy](http://9gag.com/gag/aO8Pqp6)
- - 💣 [The horse is standing in there like I told you i can&#39;t cross, but nooo you still went through with it](http://9gag.com/gag/a6ZBW8L)
- - 😝 [Camera shutter goes brrr](http://9gag.com/gag/aoyLmqx)
- - 👉 [What&#39;s the most metal thing you&#39;ve ever seen? Me:](http://9gag.com/gag/apRxeLb)<!-- MEMES:END -->
+ - 👉 [Sometimes the comments are the best &lpar;noted&rpar;](http://9gag.com/gag/aqyx3EP)<!-- MEMES:END -->
 
 ---
 

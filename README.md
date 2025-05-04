@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [22 Great Gifts for Mom: Ideas for the Best Mother &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-moms/)
+ - [The fantasy of playing Final Fantasy](https://www.theverge.com/features/641582/final-fantasy-xiv-parenting-essay)
+ - [Shotgun Cop Man is a weird-as-hell platformer about arresting Satan](https://www.theverge.com/games-review/660272/shotgun-cop-man-review-pc-switch)
  - [Crime blotter: New York theft ring ringleader convicted](https://appleinsider.com/articles/25/05/04/crime-blotter-new-york-theft-ring-ringleader-convicted?utm_medium=rss)
- - [A worthy sequel to one of the best websites ever](https://www.theverge.com/installer-newsletter/660376/one-million-chessboards-raycast-thunderbolts-installer)
- - [Sources: Huawei is building an advanced chip production line in Shenzhen and is the key player behind three plants, as satellite imagery shows rapid development &lpar;Financial Times&rpar;](http://www.techmeme.com/250504/p11#a250504p11)
- - [Nikon Coolpix P1100 Superzoom Camera Review: See Bird Butts From 1,000 Feet](https://www.cnet.com/tech/computing/nikon-coolpix-p1100-superzoom-camera-review-see-bird-butts-from-1000-feet/#ftag=CAD590a51e)
- - [Beware, These 21 Netflix Sci-Fi Shows Could Break Your Brain](https://www.cnet.com/tech/services-and-software/best-sci-fi-tv-shows-on-netflix-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A worthy sequel to one of the best websites ever](https://www.theverge.com/installer-newsletter/660376/one-million-chessboards-raycast-thunderbolts-installer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

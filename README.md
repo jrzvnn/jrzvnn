@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [President Trump&#39;s fiscal 2026 budget proposal suggests slashing $491M from CISA&#39;s ~$3B budget, claiming the cut &quot;refocuses CISA on its core mission&quot; &lpar;Tim Starks/CyberScoop&rpar;](http://www.techmeme.com/250504/p13#a250504p13)
  - [Elon Musk’s SpaceX gets a company town in Texas](https://www.theverge.com/news/660773/elon-musk-spacex-starbase-texas-vote)
  - [Best Graphics Cards &lpar;GPUs&rpar; for PC: Nvidia, AMD, Intel](https://www.wired.com/gallery/best-graphics-cards-gpu/)
  - [AquaRest Discover AR150 Hot Tub Review: Super Soaking](https://www.wired.com/review/aquarest-discover-ar-150/)
- - [As Xbox hikes game prices, the three highest-reviewed games of 2025 so far on Metacritic--Clair Obscur, Blue Prince, and Split Fiction--are all budget titles &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250504/p12#a250504p12)
- - [World Snooker Championship 2025 Final: How to Watch Live From Anywhere](https://www.cnet.com/tech/services-and-software/world-snooker-championship-2025-final-how-to-watch-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [As Xbox hikes game prices, the three highest-reviewed games of 2025 so far on Metacritic--Clair Obscur, Blue Prince, and Split Fiction--are all budget titles &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250504/p12#a250504p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

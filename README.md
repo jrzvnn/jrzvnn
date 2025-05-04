@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guess I Ll Die](http://9gag.com/gag/a5Q2P2o)
- - 😝 [Never forget where you come from](http://9gag.com/gag/aZZjPPz)
- - 💣 [Whoever is building these is not just a person, they\u2019re a concept](http://9gag.com/gag/aD2VwKK)
- - 😝 [I ... can&#39;t exactly argue with that?](http://9gag.com/gag/ae9m38j)
- - 👉 [When adulting means taking field trips seriously](http://9gag.com/gag/agm4yo6)<!-- MEMES:END -->
+ - 😝 [Days long gone](http://9gag.com/gag/aYQqb2m)
+ - 😝 [Still haven&#39;t figured that one out.](http://9gag.com/gag/abAB5qL)
+ - 💣 [As an Indian this is so true](http://9gag.com/gag/a6Z2wp8)
+ - 😝 [Who knew honesty was an option?](http://9gag.com/gag/aKGez6O)
+ - 👉 [This old school masterpiece](http://9gag.com/gag/aQzZ6YW)<!-- MEMES:END -->
 
 ---
 

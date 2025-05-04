@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This person isn&#39;t real](http://9gag.com/gag/ae9mKLO)
- - 😝 [Acrobatic](http://9gag.com/gag/apRboKn)
- - 💣 [Forever](http://9gag.com/gag/aQzZPxw)
- - 😝 [Bros in a relationship](http://9gag.com/gag/a342dO7)
- - 👉 [When you nail the rocket start in Mario Kart](http://9gag.com/gag/aMVv2bP)<!-- MEMES:END -->
+ - 😝 [Guess I Ll Die](http://9gag.com/gag/a5Q2P2o)
+ - 😝 [Never forget where you come from](http://9gag.com/gag/aZZjPPz)
+ - 💣 [Whoever is building these is not just a person, they\u2019re a concept](http://9gag.com/gag/aD2VwKK)
+ - 😝 [I ... can&#39;t exactly argue with that?](http://9gag.com/gag/ae9m38j)
+ - 👉 [When adulting means taking field trips seriously](http://9gag.com/gag/agm4yo6)<!-- MEMES:END -->
 
 ---
 

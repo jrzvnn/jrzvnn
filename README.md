@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Perfection](http://9gag.com/gag/agmxRVx)
- - 😝 [When you nail the rocket start in Mario Kart](http://9gag.com/gag/aMVv2bP)
- - 💣 [Old memes ftw...](http://9gag.com/gag/a5Q2dPr)
- - 😝 [David Beckham exposes his wife mid interview after lying she came from a poor background.](http://9gag.com/gag/a9y2dz1)
- - 👉 [One from the archive](http://9gag.com/gag/ae9xXjQ)<!-- MEMES:END -->
+ - 😝 [One from the archive](http://9gag.com/gag/ae9xXjQ)
+ - 😝 [This is how a B-17 Ball Turret Gunner did his job !!](http://9gag.com/gag/ae9xoLB)
+ - 💣 [Sometimes the comments are the best &lpar;noted&rpar;](http://9gag.com/gag/aqyx3EP)
+ - 😝 [Flight Simulator vs Real Life / Milan Takeoff](http://9gag.com/gag/aZZE9Y6)
+ - 👉 [Courtroom footage from 2006 captures Saddam Hussein\u2019s reaction to his death sentence](http://9gag.com/gag/aPAeOyV)<!-- MEMES:END -->
 
 ---
 

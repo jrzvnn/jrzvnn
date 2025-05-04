@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Last year Red Bull suspected McLaren was injecting water to cool its tyres.](http://9gag.com/gag/aoyLmGw)
- - 😝 [Stick it to the man! Literally](http://9gag.com/gag/aMVzpqM)
- - 💣 [Happy black history month](http://9gag.com/gag/aByED9Q)
- - 😝 [When you nail the rocket start in Mario Kart](http://9gag.com/gag/aMVv2bP)
- - 👉 [Never forget where you come from](http://9gag.com/gag/aZZjPPz)<!-- MEMES:END -->
+ - 😝 [Don&#39;t kill the Gorilla this time](http://9gag.com/gag/axyOpEp)
+ - 😝 [Protein](http://9gag.com/gag/aKG8bNN)
+ - 💣 [Spider-Man&#39;s real hero moment: finding a true fan in plain sight](http://9gag.com/gag/a0enmBn)
+ - 😝 [One from the archive](http://9gag.com/gag/ae9xXjQ)
+ - 👉 [Courtroom footage from 2006 captures Saddam Hussein\u2019s reaction to his death sentence](http://9gag.com/gag/aPAeOyV)<!-- MEMES:END -->
 
 ---
 

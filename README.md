@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ookla: Starlink use rose by 35% above average in Spain and Portugal on April 28, as a widespread electricity outage exposed vulnerabilities in telecoms networks &lpar;Ian Johnston/Financial Times&rpar;](http://www.techmeme.com/250504/p5#a250504p5)
- - [London-based Navro, which develops APIs to enable businesses to send and receive international payments with various payment options, raised a $41M Series B &lpar;Tom Matsuda/Sifted&rpar;](http://www.techmeme.com/250504/p4#a250504p4)
- - [Berlin-based Pliant, which helps corporates combine physical and virtual credit cards with automation tools to streamline spending, raised a $40M Series B &lpar;Lucy Adams/Tech.eu&rpar;](http://www.techmeme.com/250504/p3#a250504p3)
- - [Filings: Abu Dhabi-based AI group G42 set-up a US company to boost its presence in the country, as the UAE plans to invest tens of billions of dollars in the US &lpar;Chloe Cornish/Financial Times&rpar;](http://www.techmeme.com/250504/p2#a250504p2)
- - [Minimus, which offers secure, minimal container images and VMs to let enterprises reduce vulnerability exposure in development workflows, raised a $51M seed &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250504/p1#a250504p1)<!-- TECH:END -->
+ - [Polygon Labs spinout Miden, a zero-knowledge proof-based blockchain project focused on high scalability, raised a $25M seed led by a16z Crypto, 1kx, and Hack VC &lpar;Zoltan Vardai/Cointelegraph&rpar;](http://www.techmeme.com/250504/p9#a250504p9)
+ - [NYC-based Blooming Health, an online coordination network for social service agencies and aging care providers, raised a $26M Series A led by Insight Partners &lpar;Aaron Weitzman/Axios&rpar;](http://www.techmeme.com/250504/p8#a250504p8)
+ - [Salt Lake City-based Canopy, which provides a firm-wide operating system for accounting, raised a $70M Series C led by Viking Global Investors &lpar;FinSMEs&rpar;](http://www.techmeme.com/250504/p7#a250504p7)
+ - [Rhode Island-based Utilidata, which develops AI-enabled smart meters and grid control devices with Nvidia chips for energy utilities, raised a $60.3M Series C &lpar;Jeff St. John/Canary Media&rpar;](http://www.techmeme.com/250504/p6#a250504p6)
+ - [Ookla: Starlink use rose by 35% above average in Spain and Portugal on April 28, as a widespread electricity outage exposed vulnerabilities in telecoms networks &lpar;Ian Johnston/Financial Times&rpar;](http://www.techmeme.com/250504/p5#a250504p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

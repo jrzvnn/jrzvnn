@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Witty title](http://9gag.com/gag/awydbPW)
- - 😝 [Can we go back to the 90s look? Still gay but a lot less than this broccoli shit](http://9gag.com/gag/aoyLEY2)
- - 💣 [She told her to wear deodorant](http://9gag.com/gag/aMVv1bW)
- - 😝 [When your girlfriend is weirder than you](http://9gag.com/gag/aYQqbLq)
- - 👉 [We&#39;ll never have a Disney spinoff of human Jabba. Why live?](http://9gag.com/gag/aE0DdGG)<!-- MEMES:END -->
+ - 😝 [Too far fetched?](http://9gag.com/gag/awydNoW)
+ - 😝 [She told her to wear deodorant](http://9gag.com/gag/aMVv1bW)
+ - 💣 [When you nail the rocket start in Mario Kart](http://9gag.com/gag/aMVv2bP)
+ - 😝 [This quote goes beyond the show\u2026](http://9gag.com/gag/aoyLm9x)
+ - 👉 [Flight Simulator vs Real Life / Milan Takeoff](http://9gag.com/gag/aZZE9Y6)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When reality exceeds your wildest fantasy](http://9gag.com/gag/aO8Pqp6)
- - 😝 [Flight Simulator vs Real Life / Milan Takeoff](http://9gag.com/gag/aZZE9Y6)
- - 💣 [We&#39;ll never have a Disney spinoff of human Jabba. Why live?](http://9gag.com/gag/aE0DdGG)
- - 😝 [This quote goes beyond the show\u2026](http://9gag.com/gag/aoyLm9x)
- - 👉 [From my archive](http://9gag.com/gag/a9y2jmm)<!-- MEMES:END -->
+ - 😝 [Something to think about](http://9gag.com/gag/aLnAqWx)
+ - 😝 [Another 15 hr shift at the molten cube pounding factory](http://9gag.com/gag/aW4oVn6)
+ - 💣 [Last year Red Bull suspected McLaren was injecting water to cool its tyres.](http://9gag.com/gag/aoyLmGw)
+ - 😝 [We&#39;ll never have a Disney spinoff of human Jabba. Why live?](http://9gag.com/gag/aE0DdGG)
+ - 👉 [Innovation](http://9gag.com/gag/a2vDQZw)<!-- MEMES:END -->
 
 ---
 

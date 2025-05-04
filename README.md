@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There is a special place in hell for me](http://9gag.com/gag/aD2V04N)
- - 😝 [This quote goes beyond the show\u2026](http://9gag.com/gag/aoyLm9x)
- - 💣 [Too far fetched?](http://9gag.com/gag/awydNoW)
- - 😝 [We&#39;ll never have a Disney spinoff of human Jabba. Why live?](http://9gag.com/gag/aE0DdGG)
- - 👉 [Am I right?](http://9gag.com/gag/aD2bBeK)<!-- MEMES:END -->
+ - 😝 [This person isn&#39;t real](http://9gag.com/gag/ae9mKLO)
+ - 😝 [Acrobatic](http://9gag.com/gag/apRboKn)
+ - 💣 [Forever](http://9gag.com/gag/aQzZPxw)
+ - 😝 [Bros in a relationship](http://9gag.com/gag/a342dO7)
+ - 👉 [When you nail the rocket start in Mario Kart](http://9gag.com/gag/aMVv2bP)<!-- MEMES:END -->
 
 ---
 

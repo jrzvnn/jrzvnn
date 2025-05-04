@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [&lpar;c&rpar; can&#39;t tell](http://9gag.com/gag/avyxb0W)
- - 😝 [Happy black history month](http://9gag.com/gag/aByED9Q)
- - 💣 [Last year Red Bull suspected McLaren was injecting water to cool its tyres.](http://9gag.com/gag/aoyLmGw)
- - 😝 [When reality exceeds your wildest fantasy](http://9gag.com/gag/aO8Pqp6)
- - 👉 [Sometimes the comments are the best &lpar;noted&rpar;](http://9gag.com/gag/aqyx3EP)<!-- MEMES:END -->
+ - 😝 [Flight Simulator vs Real Life / Milan Takeoff](http://9gag.com/gag/aZZE9Y6)
+ - 😝 [When you nail the rocket start in Mario Kart](http://9gag.com/gag/aMVv2bP)
+ - 💣 [Sometimes the comments are the best &lpar;noted&rpar;](http://9gag.com/gag/aqyx3EP)
+ - 😝 [Innovation](http://9gag.com/gag/a2vDQZw)
+ - 👉 [We&#39;ll never have a Disney spinoff of human Jabba. Why live?](http://9gag.com/gag/aE0DdGG)<!-- MEMES:END -->
 
 ---
 

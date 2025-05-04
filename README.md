@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t kill the Gorilla this time](http://9gag.com/gag/axyOpEp)
- - 😝 [Protein](http://9gag.com/gag/aKG8bNN)
- - 💣 [Spider-Man&#39;s real hero moment: finding a true fan in plain sight](http://9gag.com/gag/a0enmBn)
- - 😝 [One from the archive](http://9gag.com/gag/ae9xXjQ)
- - 👉 [Courtroom footage from 2006 captures Saddam Hussein\u2019s reaction to his death sentence](http://9gag.com/gag/aPAeOyV)<!-- MEMES:END -->
+ - 😝 [Sometimes the comments are the best &lpar;noted&rpar;](http://9gag.com/gag/aqyx3EP)
+ - 😝 [When reality exceeds your wildest fantasy](http://9gag.com/gag/aO8Pqp6)
+ - 💣 [The horse is standing in there like I told you i can&#39;t cross, but nooo you still went through with it](http://9gag.com/gag/a6ZBW8L)
+ - 😝 [Camera shutter goes brrr](http://9gag.com/gag/aoyLmqx)
+ - 👉 [What&#39;s the most metal thing you&#39;ve ever seen? Me:](http://9gag.com/gag/apRxeLb)<!-- MEMES:END -->
 
 ---
 

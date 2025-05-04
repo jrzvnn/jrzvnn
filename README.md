@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Zeki: the US risks losing its edge as the top destination for AI talent, as the 12-month rolling average of AI talent entering in 2025 equals the number leaving &lpar;Rachyl Jones/Semafor&rpar;](http://www.techmeme.com/250504/p15#a250504p15)
- - [iPhone owners emailed to apply for Siri privacy lawsuit&#39;s $95M settlement](https://appleinsider.com/articles/25/05/04/iphone-owners-emailed-to-apply-for-siri-privacy-lawsuits-95m-settlement?utm_medium=rss)
- - [Nintendo is suing accessory maker Genki after its unofficial Switch 2 mockups](https://www.theverge.com/news/660815/nintendo-lawsuit-genki-switch-2-accessories)
- - [Amazon knocks $100 off iPad mini 7, plus iPad deals from $299](https://appleinsider.com/articles/25/05/04/amazon-knocks-100-off-ipad-mini-7-plus-ipad-deals-from-299?utm_medium=rss)
- - [Formula 1 Drivers Just Hit the Track in These Full-Sized Lego Cars](https://www.wired.com/story/lego-formula-1-drivable-big-builds/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for May 5, #694](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-5-694/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for May 5, #428](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-5-428/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for May 5, #1416](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-5-1416/#ftag=CAD590a51e)
+ - [iPhone owners emailed to apply for Siri privacy lawsuit&#39;s $95M settlement](https://appleinsider.com/articles/25/05/04/iphone-owners-emailed-to-apply-for-siri-privacy-lawsuits-95m-settlement?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

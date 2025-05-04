@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Balls of steel](http://9gag.com/gag/ajPZYWg)
- - 😝 [Anybody got some dank pirate memes I can yoink from you?](http://9gag.com/gag/aByEDoA)
- - 💣 [When your girlfriend is weirder than you](http://9gag.com/gag/aYQqbLq)
- - 😝 [Somebody made a home in a cave](http://9gag.com/gag/agm40rr)
- - 👉 [Acrobatic](http://9gag.com/gag/apRboKn)<!-- MEMES:END -->
+ - 😝 [Witty title](http://9gag.com/gag/awydbPW)
+ - 😝 [Can we go back to the 90s look? Still gay but a lot less than this broccoli shit](http://9gag.com/gag/aoyLEY2)
+ - 💣 [She told her to wear deodorant](http://9gag.com/gag/aMVv1bW)
+ - 😝 [When your girlfriend is weirder than you](http://9gag.com/gag/aYQqbLq)
+ - 👉 [We&#39;ll never have a Disney spinoff of human Jabba. Why live?](http://9gag.com/gag/aE0DdGG)<!-- MEMES:END -->
 
 ---
 

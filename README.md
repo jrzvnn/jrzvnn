@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
  - [Zeki: the US risks losing its edge as the top destination for AI talent, as the 12-month rolling average of AI talent entering in 2025 equals the number leaving &lpar;Rachyl Jones/Semafor&rpar;](http://www.techmeme.com/250504/p15#a250504p15)
  - [Today&#39;s NYT Connections Hints, Answers and Help for May 5, #694](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-5-694/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for May 5, #428](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-5-428/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for May 5, #1416](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-5-1416/#ftag=CAD590a51e)
- - [iPhone owners emailed to apply for Siri privacy lawsuit&#39;s $95M settlement](https://appleinsider.com/articles/25/05/04/iphone-owners-emailed-to-apply-for-siri-privacy-lawsuits-95m-settlement?utm_medium=rss)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for May 5, #1416](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-5-1416/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

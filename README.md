@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She told her to wear deodorant](http://9gag.com/gag/aMVv1bW)
- - 😝 [Don&#39;t kill the Gorilla this time](http://9gag.com/gag/axyOpEp)
- - 💣 [Over confidence can have dangers](http://9gag.com/gag/a872dNe)
- - 😝 [David Beckham exposes his wife mid interview after lying she came from a poor background.](http://9gag.com/gag/a9y2dz1)
- - 👉 [When reality exceeds your wildest fantasy](http://9gag.com/gag/aO8Pqp6)<!-- MEMES:END -->
+ - 😝 [Over confidence can have dangers](http://9gag.com/gag/a872dNe)
+ - 😝 [When your girlfriend is weirder than you](http://9gag.com/gag/aYQqbLq)
+ - 💣 [Johnny, what did you build over there?](http://9gag.com/gag/aMVv1nG)
+ - 😝 [Last year Red Bull suspected McLaren was injecting water to cool its tyres.](http://9gag.com/gag/aoyLmGw)
+ - 👉 [Stick it to the man! Literally](http://9gag.com/gag/aMVzpqM)<!-- MEMES:END -->
 
 ---
 

@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Why Pigeons at Rest Are at the Center of Complexity Theory](https://www.wired.com/story/how-a-problem-about-pigeons-powers-complexity-theory/)
  - [The Best Star Wars Gifts for Everyone From Padawans to Jedi Masters &lpar;2025&rpar;](https://www.wired.com/gallery/best-star-wars-gifts/)
  - [9 Great Deals on Mother&#39;s Day Gifts &lpar;2025&rpar;](https://www.wired.com/story/mothers-day-deals-2025/)
- - [9 Surprising Things We Learned Monitoring Our Air Quality in 3 Locations](https://www.cnet.com/health/surprising-things-learned-monitoring-air-quality-in-3-locations/#ftag=CAD590a51e)
- - [Microsoft Raised the Prices of Xbox Consoles, and Some Games Are Next](https://www.cnet.com/tech/gaming/microsoft-raised-the-prices-of-xbox-consoles-and-some-games-are-next/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Phony Physics of Star Wars Are a Blast](https://www.wired.com/story/the-phony-physics-of-star-wars-are-a-blast/)
+ - [Best Reading Glasses to Buy Online in 2025. Plus, Eye Doctor Advice](https://www.cnet.com/health/personal-care/best-reading-glasses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

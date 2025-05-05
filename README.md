@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Recraft, whose image model Recraft V3 beat OpenAI&#39;s DALL-E and Midjourney on the Artificial Analysis benchmark last year, raised a $30M Series B led by Accel &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/250505/p22#a250505p22)
  - [OpenAI Backs Down on Restructuring Amid Pushback](https://www.wired.com/story/openai-announce-nonprofit-structure-sam-altman/)
  - [Signal Clone Used by Mike Waltz Pauses Service After Reports It Got Hacked](https://www.wired.com/story/signal-clone-used-by-mike-waltz-pauses-service-after-reports-it-got-hacked/)
  - [Sources: Databricks is in advanced talks to acquire startup Neon, a maker of a serverless open-source alternative to AWS Aurora Postgres, for about $1B &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/250505/p21#a250505p21)
- - [Black Ops 6 Double XP Weekend Starts Thursday](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-6-double-xp-weekend-may-8-2025/#ftag=CAD590a51e)
- - [Apple TV+ isn&#39;t micromanagement hell -- for some creatives](https://appleinsider.com/articles/25/05/05/apple-tv-isnt-micromanagement-hell----for-some-creatives?utm_medium=rss)<!-- TECH:END -->
+ - [Black Ops 6 Double XP Weekend Starts Thursday](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-6-double-xp-weekend-may-8-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

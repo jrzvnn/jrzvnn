@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For real](http://9gag.com/gag/aRBoQB5)
- - 😝 [Bro is going to hell for this one](http://9gag.com/gag/aE0Dw9G)
- - 💣 [There is a special place in hell for me](http://9gag.com/gag/aD2V04N)
- - 😝 [Post some examples yo](http://9gag.com/gag/aZZjNdV)
- - 👉 [Extra Seven Days](http://9gag.com/gag/an7EXK0)<!-- MEMES:END -->
+ - 😝 [Nice save](http://9gag.com/gag/avyRg3E)
+ - 😝 [What a film tho](http://9gag.com/gag/ajPZ6jw)
+ - 💣 [Asking the right questions](http://9gag.com/gag/a7o2yQA)
+ - 😝 [A vampire got caught on camera](http://9gag.com/gag/aByG3DD)
+ - 👉 [Let me ask real quick](http://9gag.com/gag/a2v2q8d)<!-- MEMES:END -->
 
 ---
 

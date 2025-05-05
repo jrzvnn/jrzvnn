@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You were deceived](http://9gag.com/gag/a9y2MpZ)
- - 😝 [There is a special place in hell for me](http://9gag.com/gag/aD2V04N)
- - 💣 [When your plan doesn&#39;t quite come together but you&#39;re staying cool.](http://9gag.com/gag/aD2V0NK)
- - 😝 [When the cartoonist chose violence](http://9gag.com/gag/a872b5Z)
- - 👉 [We need to stand together to cancel his role](http://9gag.com/gag/an7EXDn)<!-- MEMES:END -->
+ - 😝 [Asking the right questions](http://9gag.com/gag/a7o2yQA)
+ - 😝 [When your plan doesn&#39;t quite come together but you&#39;re staying cool.](http://9gag.com/gag/aD2V0NK)
+ - 💣 [When the cartoonist chose violence](http://9gag.com/gag/a872b5Z)
+ - 😝 [Hot days](http://9gag.com/gag/azxRVQq)
+ - 👉 [WTF](http://9gag.com/gag/a1m2Zy8)<!-- MEMES:END -->
 
 ---
 

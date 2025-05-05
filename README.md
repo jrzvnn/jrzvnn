@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well well well, how the turn tables](http://9gag.com/gag/aVvLQ9O)
- - 😝 [She told her to wear deodorant](http://9gag.com/gag/aMVv1bW)
- - 💣 [Old memes ftw...](http://9gag.com/gag/a5Q2dPr)
- - 😝 [There is another](http://9gag.com/gag/aRBoAP7)
- - 👉 [When your plan doesn&#39;t quite come together but you&#39;re staying cool.](http://9gag.com/gag/aD2V0NK)<!-- MEMES:END -->
+ - 😝 [For real](http://9gag.com/gag/aRBoQB5)
+ - 😝 [Bro is going to hell for this one](http://9gag.com/gag/aE0Dw9G)
+ - 💣 [There is a special place in hell for me](http://9gag.com/gag/aD2V04N)
+ - 😝 [Post some examples yo](http://9gag.com/gag/aZZjNdV)
+ - 👉 [Extra Seven Days](http://9gag.com/gag/an7EXK0)<!-- MEMES:END -->
 
 ---
 

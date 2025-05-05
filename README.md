@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple admits the Q2 surge in imports won&#39;t be enough to stop price hikes](https://appleinsider.com/articles/25/05/05/apple-admits-the-q2-surge-in-imports-wont-be-enough-to-stop-price-hikes?utm_medium=rss)
+ - [The Verge looks back on Skype](https://www.theverge.com/favorites/621864/skype-microsoft-goodbye)
+ - [Apple may be gearing up for first corporate bond sale since 2023](https://appleinsider.com/articles/25/05/05/apple-may-be-gearing-up-for-first-corporate-bond-sale-since-2023?utm_medium=rss)
  - [Meta’s AI app is a nightmarish social feed](https://www.theverge.com/meta/660543/meta-ai-app-social-feed)
- - [Apple files appeal to wrest back control of its App Store](https://www.theverge.com/news/661032/apple-epic-games-app-store-antitrust-ninth-circuit)
- - [Killer deal: Apple&#39;s M4 Mac mini plunges to $490](https://appleinsider.com/articles/25/05/05/killer-deal-apples-m4-mac-mini-plunges-to-490?utm_medium=rss)
- - [Shein Bet Big on Donald Trump. It Lost Big, Too](https://www.wired.com/story/shein-trump-ipo-bet-tariffs/)
- - [Apple &amp;#8216;iPhone Air&amp;#8217; rumor suggests a bigger screen coming in 2027](https://www.theverge.com/news/661009/apple-iphone-air-2-slim-2027)<!-- TECH:END -->
+ - [9 Best Carpet Cleaners &lpar;2025&rpar;: Budget, Spot Cleaners, Hard Floors](https://www.wired.com/gallery/best-carpet-cleaners/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pebble’s creator demos his new smartwatch](https://www.theverge.com/news/661047/eric-migicovsky-pebble-core-devices-core-2-duo-core-time-2-smartwatch)
- - [FTC v. Meta live: updates from the battle for Instagram and WhatsApp](https://www.theverge.com/news/646809/ftc-v-meta-antitrust-monopoly-trial-instagram-whatsapp)
- - [Take a Tour of All the Essential Features in ChatGPT](https://www.wired.com/story/subscriber-only-ai-unlocked-seminar-tour-of-chatgpt-features/)
- - [A look at Waymo&#39;s Mesa, AZ plant, producing several retrofitted Jaguars per day and where plans to scale up with Chinese Zeekr vans may be derailed by tariffs &lpar;Alan Ohnsman/Forbes&rpar;](http://www.techmeme.com/250505/p8#a250505p8)
- - [Apple admits the Q2 surge in imports won&#39;t be enough to stop price hikes](https://appleinsider.com/articles/25/05/05/apple-admits-the-q2-surge-in-imports-wont-be-enough-to-stop-price-hikes?utm_medium=rss)<!-- TECH:END -->
+ - [Apple files appeal against court ruling that mandated App Store changes](https://appleinsider.com/articles/25/05/05/apple-files-appeal-against-court-ruling-that-mandated-app-store-changes?utm_medium=rss)
+ - [The sporty Beats Powerbeats Pro 2 are on sale for $50 off for the first time](https://www.theverge.com/tech/660789/beats-powerbeats-pro-2-earbuds-google-pixel-9a-deal-sale)
+ - [Inside Apple&#39;s Ireland testing labs - How your iPhone survives sandstorms, saunas &amp; salt water](https://appleinsider.com/articles/25/05/05/inside-apples-ireland-testing-labs---how-your-iphone-survives-sandstorms-saunas-salt-water?utm_medium=rss)
+ - [Box art](https://www.theverge.com/art-club/660587/mcsweeneys-quarterly-78-vietnamese-diaspora-cigar-box)
+ - [Waymo says it will add 2,000 more robotaxis in 2026](https://www.theverge.com/news/661025/waymo-fleet-size-factory-arizona-jaguar-robotaxi-zeekr)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

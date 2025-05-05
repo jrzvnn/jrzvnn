@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Old memes ftw...](http://9gag.com/gag/a5Q2dPr)
+ - 😝 [Asking the right questions](http://9gag.com/gag/a7o2yQA)
  - 😝 [Some reminders for all you 9gaggers out there:](http://9gag.com/gag/aVvLWmP)
- - 💣 [A vampire got caught on camera](http://9gag.com/gag/aByG3DD)
- - 😝 [When your plan doesn&#39;t quite come together but you&#39;re staying cool.](http://9gag.com/gag/aD2V0NK)
- - 👉 [For real](http://9gag.com/gag/aRBoQB5)<!-- MEMES:END -->
+ - 💣 [When the cartoonist chose violence](http://9gag.com/gag/a872b5Z)
+ - 😝 [How I met your mother](http://9gag.com/gag/amoM879)
+ - 👉 [Well well well, how the turn tables](http://9gag.com/gag/aVvLQ9O)<!-- MEMES:END -->
 
 ---
 

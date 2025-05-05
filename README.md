@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Post some examples yo](http://9gag.com/gag/aZZjNdV)
- - 😝 [When the cartoonist chose violence](http://9gag.com/gag/a872b5Z)
- - 💣 [Who knew honesty was an option?](http://9gag.com/gag/aKGez6O)
- - 😝 [There is another](http://9gag.com/gag/aRBoAP7)
- - 👉 [There is a special place in hell for me](http://9gag.com/gag/aD2V04N)<!-- MEMES:END -->
+ - 😝 [Hol tf up](http://9gag.com/gag/aXPWpjd)
+ - 😝 [Old memes ftw...](http://9gag.com/gag/a5Q2dPr)
+ - 💣 [What happens when you drop a hotdog in acid?](http://9gag.com/gag/aVvLQrw)
+ - 😝 [When your kidnapper makes you write a ransom note but your GPA kicks in.](http://9gag.com/gag/an7EY4V)
+ - 👉 [When your plan doesn&#39;t quite come together but you&#39;re staying cool.](http://9gag.com/gag/aD2V0NK)<!-- MEMES:END -->
 
 ---
 

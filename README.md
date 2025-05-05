@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s 2025 Pride Collection features a unique Apple Watch Sport Band](https://appleinsider.com/articles/25/05/05/apples-2025-pride-collection-features-a-unique-apple-watch-sport-band?utm_medium=rss)
+ - [iPhone 18 Pro leak claims under-display Face ID is on the way](https://appleinsider.com/articles/25/05/05/iphone-18-pro-leak-claims-under-display-face-id-is-on-the-way?utm_medium=rss)
+ - [Trump has two crypto-focused dinners this month, for political donors and for $TRUMP holders; Chainalysis: trading fees alone have made $TRUMP insiders $324M+ &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250505/p11#a250505p11)
  - [EA Sports FC Mobile to stream live MLS matches &amp; offer Apple TV trial](https://appleinsider.com/articles/25/05/05/ea-sports-fc-mobile-to-stream-live-mls-matches-offer-apple-tv-trial?utm_medium=rss)
- - [The modified Signal app used by Mike Waltz was reportedly hacked](https://www.theverge.com/news/661173/telemessage-signal-clone-hacked-mike-waltz)
- - [Microsoft announces a Gears of War remaster – and it&amp;#8217;s coming to PlayStation, too](https://www.theverge.com/news/661169/gears-of-war-reloaded-remaster-release-date)
- - [Sources: Google has quietly launched 100 Zeros, a film and TV production initiative aiming to promote a positive view of tech and drive adoption of its products &lpar;Lucia Moses/Business Insider&rpar;](http://www.techmeme.com/250505/p10#a250505p10)
- - [Tel Aviv-based eToro Group says it&#39;s targeting a $4B valuation in a Nasdaq IPO, aiming to raise $500M, after pausing plans last month amid market volatility &lpar;Reuters&rpar;](http://www.techmeme.com/250505/p9#a250505p9)<!-- TECH:END -->
+ - [The modified Signal app used by Mike Waltz was reportedly hacked](https://www.theverge.com/news/661173/telemessage-signal-clone-hacked-mike-waltz)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

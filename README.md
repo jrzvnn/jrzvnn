@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why I love my Brother 1034D Serger](https://www.theverge.com/tech/658691/serger-brother-sewing-knits-favorites)
+ - [Solana Foundation: enough validators were able to quietly patch a 0-day bug last month that could have allowed unlimited &quot;Token-22&quot; minting and account draining &lpar;Logan Hitchcock/Decrypt&rpar;](http://www.techmeme.com/250505/p16#a250505p16)
  - [States sue Trump over ‘existential threat’ to wind energy](https://www.theverge.com/news/661318/wind-energy-electricity-states-lawsuit-president-trump)
  - [Why Ford decided to merge its next-gen architecture with its current platform](https://www.theverge.com/ford-motor-company/661205/ford-doug-field-interview-software-zonal-domain-fnv4)
- - [Hasan Sukkar, the founder of AI startup 11x, which has raised $70m+ to date, steps down as CEO; CTO Prabhav Jain has been named the new CEO &lpar;TechCrunch&rpar;](http://www.techmeme.com/250505/p15#a250505p15)
- - [Apple’s latest iPad Mini has dropped to its lowest price in months](https://www.theverge.com/tech/661211/apple-ipad-mini-seventh-gen-2024-deal-sale)
- - [TeleMessage&#39;s parent company says it is &quot;investigating a potential security incident&quot; and has suspended all of its services &quot;out of an abundance of caution&quot; &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/250505/p14#a250505p14)<!-- TECH:END -->
+ - [Hasan Sukkar, the founder of AI startup 11x, which has raised $70m+ to date, steps down as CEO; CTO Prabhav Jain has been named the new CEO &lpar;TechCrunch&rpar;](http://www.techmeme.com/250505/p15#a250505p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

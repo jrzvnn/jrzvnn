@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [iPhone 18 Pro leak claims under-display Face ID is on the way](https://appleinsider.com/articles/25/05/05/iphone-18-pro-leak-claims-under-display-face-id-is-on-the-way?utm_medium=rss)
  - [Trump has two crypto-focused dinners this month, for political donors and for $TRUMP holders; Chainalysis: trading fees alone have made $TRUMP insiders $324M+ &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250505/p11#a250505p11)
  - [EA Sports FC Mobile to stream live MLS matches &amp; offer Apple TV trial](https://appleinsider.com/articles/25/05/05/ea-sports-fc-mobile-to-stream-live-mls-matches-offer-apple-tv-trial?utm_medium=rss)
- - [The modified Signal app used by Mike Waltz was reportedly hacked](https://www.theverge.com/news/661173/telemessage-signal-clone-hacked-mike-waltz)<!-- TECH:END -->
+ - [Get Outside Monday Night to See the Eta Aquarid Meteor Shower Peak](https://www.cnet.com/science/space/the-eta-aquarid-meteor-shower-will-peak-monday-night-heres-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

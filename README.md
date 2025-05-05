@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Ops 6 Double XP Weekend Starts Thursday](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-6-double-xp-weekend-may-8-2025/#ftag=CAD590a51e)
+ - [Signal Clone Used by Mike Waltz Pauses Service After Reports It Got Hacked](https://www.wired.com/story/signal-clone-used-by-mike-waltz-pauses-service-after-reports-it-got-hacked/)
+ - [Sources: Databricks is in advanced talks to acquire startup Neon, a maker of a serverless open-source alternative to AWS Aurora Postgres, for about $1B &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/250505/p21#a250505p21)
  - [Apple TV+ isn&#39;t micromanagement hell -- for some creatives](https://appleinsider.com/articles/25/05/05/apple-tv-isnt-micromanagement-hell----for-some-creatives?utm_medium=rss)
  - [Palantir reports Q1 revenue up 39% YoY to $884M, vs. $863M est., and raises 2025 sales guidance to $3.9B on demand for AI software that&#39;s a &quot;ravenous whirlwind&quot; &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/250505/p20#a250505p20)
- - [Lawsuit hopes to return 15 months of commissions to developers after App Store ruling](https://appleinsider.com/articles/25/05/05/lawsuit-hopes-to-return-15-months-of-commissions-to-developers-after-app-store-ruling?utm_medium=rss)
- - [How to Get a Free Fortnite Star Wars Skin and 4 Other Outfits Now](https://www.cnet.com/tech/gaming/how-to-get-a-free-fortnite-star-wars-skin-and-4-other-outfits-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lawsuit hopes to return 15 months of commissions to developers after App Store ruling](https://appleinsider.com/articles/25/05/05/lawsuit-hopes-to-return-15-months-of-commissions-to-developers-after-app-store-ruling?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

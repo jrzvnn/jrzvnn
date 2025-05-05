@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Extra Seven Days](http://9gag.com/gag/an7EXK0)
- - 😝 [A vampire got caught on camera](http://9gag.com/gag/aByG3DD)
- - 💣 [When the cartoonist chose violence](http://9gag.com/gag/a872b5Z)
  - 😝 [WTF](http://9gag.com/gag/a1m2Zy8)
+ - 😝 [Can we go back to the 90s look? Still gay but a lot less than this broccoli shit](http://9gag.com/gag/aoyLEY2)
+ - 💣 [When the cartoonist chose violence](http://9gag.com/gag/a872b5Z)
+ - 😝 [How I met your mother](http://9gag.com/gag/amoM879)
  - 👉 [When your plan doesn&#39;t quite come together but you&#39;re staying cool.](http://9gag.com/gag/aD2V0NK)<!-- MEMES:END -->
 
 ---

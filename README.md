@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That was close grandma](http://9gag.com/gag/aoyLjBg)
- - 😝 [A vampire got caught on camera](http://9gag.com/gag/aByG3DD)
- - 💣 [Old post](http://9gag.com/gag/aND4Z8r)
- - 😝 [Do not the cat](http://9gag.com/gag/axyRGnD)
- - 👉 [Celebrate our differences](http://9gag.com/gag/aPAQD4q)<!-- MEMES:END -->
+ - 😝 [Hol tf up](http://9gag.com/gag/aXPWpjd)
+ - 😝 [Well well well, how the turn tables](http://9gag.com/gag/aVvLQ9O)
+ - 💣 [Post some examples yo](http://9gag.com/gag/aZZjNdV)
+ - 😝 [Between 1915 and 1926, a mysterious illness swept the world. Victims of Encephalitis Lethargica fell into deep sleep, then woke unable to move or speak. Half a million died or became trapped in their bodies. No one knows what caused it. It hasn&#39;t come back.](http://9gag.com/gag/ajPZAZx)
+ - 👉 [Incredible india](http://9gag.com/gag/aByGYjD)<!-- MEMES:END -->
 
 ---
 

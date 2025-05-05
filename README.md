@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Old memes?](http://9gag.com/gag/aRBoPmj)
- - 😝 [Hol tf up](http://9gag.com/gag/aXPWpjd)
- - 💣 [Well well well, how the turn tables](http://9gag.com/gag/aVvLQ9O)
- - 😝 [Just where is this dentist office?](http://9gag.com/gag/aQzZ8z7)
- - 👉 [WTF](http://9gag.com/gag/a1m2Zy8)<!-- MEMES:END -->
+ - 😝 [Japanese tongue twister](http://9gag.com/gag/a5Q2K9G)
+ - 😝 [A vampire got caught on camera](http://9gag.com/gag/aByG3DD)
+ - 💣 [Old post](http://9gag.com/gag/aND4Z8r)
+ - 😝 [Do not the cat](http://9gag.com/gag/axyRGnD)
+ - 👉 [Celebrate our differences](http://9gag.com/gag/aPAQD4q)<!-- MEMES:END -->
 
 ---
 

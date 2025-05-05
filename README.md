@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some say ChatGPT fueled their loved ones&#39; spiritual delusions; experts warn AI&#39;s human-like chats can exacerbate existing psychological vulnerabilities &lpar;Miles Klee/Rolling Stone&rpar;](http://www.techmeme.com/250505/p4#a250505p4)
  - [Security Researchers Warn a Widely Used Open Source Tool Poses a &#39;Persistent&#39; Risk to the US](https://www.wired.com/story/easyjson-open-source-vk-ties/)
  - [Slim iPhone will gain a larger screen in 2027, alongside iPhone fold 2](https://appleinsider.com/articles/25/05/05/slim-iphone-will-gain-a-larger-screen-in-2027-alongside-iphone-fold-2?utm_medium=rss)
  - [The Dream of the Metaverse Is Dying. Manufacturing Is Keeping It Alive](https://www.wired.com/story/the-metaverse-is-here-and-its-industrial/)
- - [Scientists Have Just Discovered a New Type of Electricity-Conducting Bacteria](https://www.wired.com/story/scientists-have-just-discovered-a-new-type-of-electricity-conducting-bacteria/)
- - [Best CD Rates This Week: Lock in a High APY Now Before the Fed&#39;s Next Decision](https://www.cnet.com/personal-finance/banking/best-cd-rates-this-week-lock-in-a-high-apy-now-before-the-feds-next-decision/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Scientists Have Just Discovered a New Type of Electricity-Conducting Bacteria](https://www.wired.com/story/scientists-have-just-discovered-a-new-type-of-electricity-conducting-bacteria/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

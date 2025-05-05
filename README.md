@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stacking bags that are falling from a conveyor belt](http://9gag.com/gag/aqyWZmv)
- - 😝 [Definitely not an old hag](http://9gag.com/gag/aKGez0Q)
- - 💣 [When the cartoonist chose violence](http://9gag.com/gag/a872b5Z)
- - 😝 [For real](http://9gag.com/gag/aRBoQB5)
- - 👉 [WTF](http://9gag.com/gag/a1m2Zy8)<!-- MEMES:END -->
+ - 😝 [How I met your mother](http://9gag.com/gag/amoM879)
+ - 😝 [WTF](http://9gag.com/gag/a1m2Zy8)
+ - 💣 [Definitely not an old hag](http://9gag.com/gag/aKGez0Q)
+ - 😝 [We need to stand together to cancel his role](http://9gag.com/gag/an7EXDn)
+ - 👉 [For real](http://9gag.com/gag/aRBoQB5)<!-- MEMES:END -->
 
 ---
 

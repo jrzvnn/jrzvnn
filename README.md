@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Here’s the first teaser for Squid Game’s third and final season](https://www.theverge.com/news/661560/squid-game-season-3-teaser-trailer-netflix)
  - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
  - [Google just leaked Android’s new design language](https://www.theverge.com/news/661483/google-leak-material-3-expressive-android-design)
- - [Apple iPhone 16E vs. iPhone 15: Which Lower-Cost iPhone Is Best for You?](https://www.cnet.com/tech/mobile/apple-iphone-16e-vs-iphone-15-which-lower-cost-iphone-is-best-for-you/#ftag=CAD590a51e)
- - [Best Noise-Canceling Headphones for Music and More in 2025](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You Can Find a Great $300 Phone as Long as You Make One Choice](https://www.cnet.com/tech/mobile/you-can-find-a-great-300-phone-as-long-as-you-make-one-choice/#ftag=CAD590a51e)
+ - [Apple iPhone 16E vs. iPhone 15: Which Lower-Cost iPhone Is Best for You?](https://www.cnet.com/tech/mobile/apple-iphone-16e-vs-iphone-15-which-lower-cost-iphone-is-best-for-you/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

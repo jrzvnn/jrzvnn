@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [States sue Trump over ‘existential threat’ to wind energy](https://www.theverge.com/news/661318/wind-energy-electricity-states-lawsuit-president-trump)
+ - [Why Ford decided to merge its next-gen architecture with its current platform](https://www.theverge.com/ford-motor-company/661205/ford-doug-field-interview-software-zonal-domain-fnv4)
  - [Hasan Sukkar, the founder of AI startup 11x, which has raised $70m+ to date, steps down as CEO; CTO Prabhav Jain has been named the new CEO &lpar;TechCrunch&rpar;](http://www.techmeme.com/250505/p15#a250505p15)
  - [Apple’s latest iPad Mini has dropped to its lowest price in months](https://www.theverge.com/tech/661211/apple-ipad-mini-seventh-gen-2024-deal-sale)
- - [TeleMessage&#39;s parent company says it is &quot;investigating a potential security incident&quot; and has suspended all of its services &quot;out of an abundance of caution&quot; &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/250505/p14#a250505p14)
- - [OpenAI abandons plan to be controlled by for-profit board](https://www.theverge.com/openai/661303/openai-stays-nonprofit-sam-altman-employee-memo)
- - [Buffalo put a window on its new hard drive so you can see it at work](https://www.theverge.com/news/661244/buffalo-skeleton-hard-disk-drive-hd-skl-transparent-window-lottery)<!-- TECH:END -->
+ - [TeleMessage&#39;s parent company says it is &quot;investigating a potential security incident&quot; and has suspended all of its services &quot;out of an abundance of caution&quot; &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/250505/p14#a250505p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

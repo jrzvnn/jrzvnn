@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FEMA Is Ending Door-to-Door Canvassing in Disaster Areas](https://www.wired.com/story/fema-ending-door-to-door-canvassing-disaster-areas/)
- - [Why I love my Brother 1034D Serger](https://www.theverge.com/tech/658691/serger-brother-sewing-knits-favorites)
- - [Solana Foundation: enough validators were able to quietly patch a 0-day bug last month that could have allowed unlimited &quot;Token-22&quot; minting and account draining &lpar;Logan Hitchcock/Decrypt&rpar;](http://www.techmeme.com/250505/p16#a250505p16)
- - [States sue Trump over ‘existential threat’ to wind energy](https://www.theverge.com/news/661318/wind-energy-electricity-states-lawsuit-president-trump)
- - [Why Ford decided to merge its next-gen architecture with its current platform](https://www.theverge.com/ford-motor-company/661205/ford-doug-field-interview-software-zonal-domain-fnv4)<!-- TECH:END -->
+ - [YouTube is experimenting with a Premium plan for two people](https://www.theverge.com/news/661462/youtube-premium-two-people-plan)
+ - [The affordable MacBook upgrade plan that&#39;s built for power users](https://appleinsider.com/articles/25/05/05/the-affordable-macbook-upgrade-plan-thats-built-for-power-users?utm_medium=rss)
+ - [Nvidia launches open-source transcription model Parakeet-TDT-0.6B-V2, topping the Hugging Face Open ASR Leaderboard with a word error rate of 6.05% &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250505/p19#a250505p19)
+ - [TeleMessage&#39;s parent company says it is &quot;investigating a potential security incident&quot; and has suspended all of its services &quot;out of an abundance of caution&quot; &lpar;Kevin Breuninger/CNBC&rpar;](http://www.techmeme.com/250505/p18#a250505p18)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

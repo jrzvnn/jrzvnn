@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers: open source serialization tool easyjson, developed by Russia&#39;s VK Group and widely used by the US DOD and others, poses a national security risk &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/250505/p6#a250505p6)
+ - [How Mexico’s Fishing Refuges Are Fighting Back Against Poaching](https://www.wired.com/story/this-is-how-a-fishing-refuge-in-the-gulf-of-mexico-works-its-goal-to-let-the-sea-rest/)
  - [Warren Buffett never made anything but money -- and friends with Apple](https://appleinsider.com/articles/25/05/05/warren-buffett-never-made-anything-but-money----and-friends-with-apple?utm_medium=rss)
- - [60-Hour Dance Sessions, Simulated Sex, and Ketamine: Inside the World of Hardcore VR Ravers](https://www.wired.com/story/60-hour-dance-sessions-simulated-sex-and-ketamine-inside-the-world-of-hardcore-vr-ravers/)
- - [Best Water Filter Pitcher for 2025](https://www.cnet.com/news/best-water-filter-pitcher/#ftag=CAD590a51e)
- - [Security Researchers Warn a Widely Used Open Source Tool Poses a &#39;Persistent&#39; Risk to the US](https://www.wired.com/story/easyjson-open-source-vk-ties/)
- - [Slim iPhone will gain a larger screen in 2027, alongside iPhone fold 2](https://appleinsider.com/articles/25/05/05/slim-iphone-will-gain-a-larger-screen-in-2027-alongside-iphone-fold-2?utm_medium=rss)<!-- TECH:END -->
+ - [Tether CEO Paolo Ardoino announces Tether AI, an open-source AI runtime that supports USDT and Bitcoin payments without a central point of failure &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/250505/p5#a250505p5)
+ - [60-Hour Dance Sessions, Simulated Sex, and Ketamine: Inside the World of Hardcore VR Ravers](https://www.wired.com/story/60-hour-dance-sessions-simulated-sex-and-ketamine-inside-the-world-of-hardcore-vr-ravers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

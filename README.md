@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Recraft, whose image model Recraft V3 beat OpenAI&#39;s DALL-E and Midjourney on the Artificial Analysis benchmark last year, raised a $30M Series B led by Accel &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/250505/p22#a250505p22)
- - [OpenAI Backs Down on Restructuring Amid Pushback](https://www.wired.com/story/openai-announce-nonprofit-structure-sam-altman/)
- - [Signal Clone Used by Mike Waltz Pauses Service After Reports It Got Hacked](https://www.wired.com/story/signal-clone-used-by-mike-waltz-pauses-service-after-reports-it-got-hacked/)
- - [Sources: Databricks is in advanced talks to acquire startup Neon, a maker of a serverless open-source alternative to AWS Aurora Postgres, for about $1B &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/250505/p21#a250505p21)
- - [Black Ops 6 Double XP Weekend Starts Thursday](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-6-double-xp-weekend-may-8-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
+ - [Google just leaked Android’s new design language](https://www.theverge.com/news/661483/google-leak-material-3-expressive-android-design)
+ - [Apple iPhone 16E vs. iPhone 15: Which Lower-Cost iPhone Is Best for You?](https://www.cnet.com/tech/mobile/apple-iphone-16e-vs-iphone-15-which-lower-cost-iphone-is-best-for-you/#ftag=CAD590a51e)
+ - [Best Noise-Canceling Headphones for Music and More in 2025](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones/#ftag=CAD590a51e)
+ - [Recraft, whose image model Recraft V3 beat OpenAI&#39;s DALL-E and Midjourney on the Artificial Analysis benchmark last year, raised a $30M Series B led by Accel &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/250505/p22#a250505p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

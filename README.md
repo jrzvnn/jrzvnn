@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Uber and WeRide plan to expand their robotaxi service to 15 more cities over the next five years, including in Europe, after a December 2024 launch in Abu Dhabi &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/250505/p23#a250505p23)
  - [Here’s the first teaser for Squid Game’s third and final season](https://www.theverge.com/news/661560/squid-game-season-3-teaser-trailer-netflix)
  - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
  - [Google just leaked Android’s new design language](https://www.theverge.com/news/661483/google-leak-material-3-expressive-android-design)
- - [You Can Find a Great $300 Phone as Long as You Make One Choice](https://www.cnet.com/tech/mobile/you-can-find-a-great-300-phone-as-long-as-you-make-one-choice/#ftag=CAD590a51e)
- - [Apple iPhone 16E vs. iPhone 15: Which Lower-Cost iPhone Is Best for You?](https://www.cnet.com/tech/mobile/apple-iphone-16e-vs-iphone-15-which-lower-cost-iphone-is-best-for-you/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You Can Find a Great $300 Phone as Long as You Make One Choice](https://www.cnet.com/tech/mobile/you-can-find-a-great-300-phone-as-long-as-you-make-one-choice/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

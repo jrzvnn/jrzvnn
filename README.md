@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers: open source serialization tool easyjson, developed by Russia&#39;s VK Group and widely used by the US DOD and others, poses a national security risk &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/250505/p6#a250505p6)
- - [How Mexico’s Fishing Refuges Are Fighting Back Against Poaching](https://www.wired.com/story/this-is-how-a-fishing-refuge-in-the-gulf-of-mexico-works-its-goal-to-let-the-sea-rest/)
- - [Warren Buffett never made anything but money -- and friends with Apple](https://appleinsider.com/articles/25/05/05/warren-buffett-never-made-anything-but-money----and-friends-with-apple?utm_medium=rss)
- - [Tether CEO Paolo Ardoino announces Tether AI, an open-source AI runtime that supports USDT and Bitcoin payments without a central point of failure &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/250505/p5#a250505p5)
- - [60-Hour Dance Sessions, Simulated Sex, and Ketamine: Inside the World of Hardcore VR Ravers](https://www.wired.com/story/60-hour-dance-sessions-simulated-sex-and-ketamine-inside-the-world-of-hardcore-vr-ravers/)<!-- TECH:END -->
+ - [EssilorLuxottica Nuance Audio Glasses Review: The Future of Hearing](https://www.wired.com/review/essilorluxottica-nuance-audio-glasses/)
+ - [China launch for Apple Intelligence seemingly delayed to iOS 18.6](https://appleinsider.com/articles/25/05/05/china-launch-for-apple-intelligence-seemingly-delayed-to-ios-186?utm_medium=rss)
+ - [iPhone 18 Pro leak claims under-display Face ID is on the way](https://appleinsider.com/articles/25/05/05/iphone-18-pro-leak-claims-under-display-face-id-is-on-the-way?utm_medium=rss)
+ - [Researchers warn that open-source Go serialization tool easyjson, owned by Russia&#39;s VK Group and used by the US DOD and others, poses a national security risk &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/250505/p6#a250505p6)
+ - [How Mexico’s Fishing Refuges Are Fighting Back Against Poaching](https://www.wired.com/story/this-is-how-a-fishing-refuge-in-the-gulf-of-mexico-works-its-goal-to-let-the-sea-rest/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

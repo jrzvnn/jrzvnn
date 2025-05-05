@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She told her to wear deodorant](http://9gag.com/gag/aMVv1bW)
- - 😝 [WTF](http://9gag.com/gag/a1m2Zy8)
- - 💣 [We need to stand together to cancel his role](http://9gag.com/gag/an7EXDn)
- - 😝 [Asking the right questions](http://9gag.com/gag/a7o2yQA)
- - 👉 [Indonesian stewardess](http://9gag.com/gag/a342Ppv)<!-- MEMES:END -->
+ - 😝 [Meanwhile 9gaggers reading this news:](http://9gag.com/gag/a872bVO)
+ - 😝 [Just because](http://9gag.com/gag/an7EK7o)
+ - 💣 [Since old memes are back, maybe healthy to make fun of each other](http://9gag.com/gag/aoyLZOX)
+ - 😝 [I ... can&#39;t exactly argue with that?](http://9gag.com/gag/ae9m38j)
+ - 👉 [Old post](http://9gag.com/gag/aND4Z8r)<!-- MEMES:END -->
 
 ---
 

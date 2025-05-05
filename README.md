@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A vampire got caught on camera](http://9gag.com/gag/aByG3DD)
- - 😝 [This worker finds the best way to come down after repairing the antenna](http://9gag.com/gag/aryqeLK)
- - 💣 [Post some examples yo](http://9gag.com/gag/aZZjNdV)
- - 😝 [Is this the color of success?](http://9gag.com/gag/a4P2L06)
- - 👉 [There is another](http://9gag.com/gag/aRBoAP7)<!-- MEMES:END -->
+ - 😝 [How to calm a baby](http://9gag.com/gag/avyRP1X)
+ - 😝 [Hol tf up](http://9gag.com/gag/aXPWpjd)
+ - 💣 [We need to stand together to cancel his role](http://9gag.com/gag/an7EXDn)
+ - 😝 [Skype has officially shut down](http://9gag.com/gag/ae9mGPj)
+ - 👉 [Woman is addicted to coffee enema!](http://9gag.com/gag/aoyLZg3)<!-- MEMES:END -->
 
 ---
 

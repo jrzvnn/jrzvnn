@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There is another](http://9gag.com/gag/aRBoAP7)
- - 😝 [Celebrate our differences](http://9gag.com/gag/aPAQD4q)
- - 💣 [Oof size : Large](http://9gag.com/gag/a342LE3)
- - 😝 [It is legally forbidden for Muslim women and girls to wear a hijab inside schools in France; they must remove it before entering. Should this be applied throughout Europe? What do you think?](http://9gag.com/gag/aryqKP0)
- - 👉 [Cake](http://9gag.com/gag/a5Q277y)<!-- MEMES:END -->
+ - 😝 [A vampire got caught on camera](http://9gag.com/gag/aByG3DD)
+ - 😝 [Post some examples yo](http://9gag.com/gag/aZZjNdV)
+ - 💣 [Incredible india](http://9gag.com/gag/aByGYjD)
+ - 😝 [Is this the color of success?](http://9gag.com/gag/a4P2L06)
+ - 👉 [Woman is addicted to coffee enema!](http://9gag.com/gag/aoyLZg3)<!-- MEMES:END -->
 
 ---
 

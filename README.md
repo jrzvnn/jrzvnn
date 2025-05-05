@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A hacker breaches TeleMessage, which offers modified versions of apps like Signal used by US officials including Mike Waltz, Tulsi Gabbard, JD Vance, and others &lpar;Micah Lee/micahflee&rpar;](http://www.techmeme.com/250504/p18#a250504p18)
  - [Several Senate Democrats, key to the passage of a landmark stablecoin bill, withdraw support for the bill &quot;as it currently stands&quot; &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/250504/p17#a250504p17)
  - [Roku is looking into complaints about washed-out HDR streams](https://www.theverge.com/news/660950/roku-hdr-issues-washed-out-colors-gray)
  - [A hacker breaches TeleMessage, which offers modified versions of apps like Signal used by US officials including Mike Waltz, Tulsi Gabbard, JD Vance, and others &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/250504/p16#a250504p16)
- - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Zeki: the US risks losing its edge as the top destination for AI talent, as the 12-month rolling average of AI talent entering in 2025 equals the number leaving &lpar;Rachyl Jones/Semafor&rpar;](http://www.techmeme.com/250504/p15#a250504p15)<!-- TECH:END -->
+ - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thats what happens to bad riders](http://9gag.com/gag/a0e1YAX)
- - 😝 [Who knew honesty was an option?](http://9gag.com/gag/aKGez6O)
- - 💣 [Well well well, how the turn tables](http://9gag.com/gag/aVvLQ9O)
- - 😝 [Is this the color of success?](http://9gag.com/gag/a4P2L06)
- - 👉 [When your kidnapper makes you write a ransom note but your GPA kicks in.](http://9gag.com/gag/an7EY4V)<!-- MEMES:END -->
+ - 😝 [Hol tf up](http://9gag.com/gag/aXPWpjd)
+ - 😝 [When your plan doesn&#39;t quite come together but you&#39;re staying cool.](http://9gag.com/gag/aD2V0NK)
+ - 💣 [There is a special place in hell for me](http://9gag.com/gag/aD2V04N)
+ - 😝 [Post some examples yo](http://9gag.com/gag/aZZjNdV)
+ - 👉 [Is this the color of success?](http://9gag.com/gag/a4P2L06)<!-- MEMES:END -->
 
 ---
 

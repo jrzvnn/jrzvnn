@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let me ask real quick](http://9gag.com/gag/a2v2q8d)
- - 😝 [Nice save](http://9gag.com/gag/avyRg3E)
- - 💣 [Universal doing a better job at its theme park than the movies!](http://9gag.com/gag/aLnmQeP)
- - 😝 [Asking the right questions](http://9gag.com/gag/a7o2yQA)
- - 👉 [A vampire got caught on camera](http://9gag.com/gag/aByG3DD)<!-- MEMES:END -->
+ - 😝 [A vampire got caught on camera](http://9gag.com/gag/aByG3DD)
+ - 😝 [Hol tf up](http://9gag.com/gag/aXPWpjd)
+ - 💣 [There is a special place in hell for me](http://9gag.com/gag/aD2V04N)
+ - 😝 [There is another](http://9gag.com/gag/aRBoAP7)
+ - 👉 [What happens when you drop a hotdog in acid?](http://9gag.com/gag/aVvLQrw)<!-- MEMES:END -->
 
 ---
 

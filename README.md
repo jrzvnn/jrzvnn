@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This guy created the Nerf MOAB &lpar;Mother of All Blasters&rpar;](http://9gag.com/gag/aD2V3Kw)
- - 😝 [A vampire got caught on camera](http://9gag.com/gag/aByG3DD)
- - 💣 [Old memes ftw...](http://9gag.com/gag/a5Q2dPr)
- - 😝 [WTF](http://9gag.com/gag/a1m2Zy8)
- - 👉 [Well well well, how the turn tables](http://9gag.com/gag/aVvLQ9O)<!-- MEMES:END -->
+ - 😝 [When the cartoonist chose violence](http://9gag.com/gag/a872b5Z)
+ - 😝 [We need to stand together to cancel his role](http://9gag.com/gag/an7EXDn)
+ - 💣 [WTF](http://9gag.com/gag/a1m2Zy8)
+ - 😝 [When you nail the rocket start in Mario Kart](http://9gag.com/gag/aMVv2bP)
+ - 👉 [For real](http://9gag.com/gag/aRBoQB5)<!-- MEMES:END -->
 
 ---
 

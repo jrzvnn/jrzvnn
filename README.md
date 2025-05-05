@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump promises 100 percent tariff on movies &amp;#8216;produced in foreign lands&amp;#8217;](https://www.theverge.com/politics/660987/trump-tariff-national-security-foreign-films)
  - [Apple&#39;s 2025 Pride Collection features a unique Apple Watch Sport Band](https://appleinsider.com/articles/25/05/05/apples-2025-pride-collection-features-a-unique-apple-watch-sport-band?utm_medium=rss)
  - [8 Best Cheap Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-cheap-phones/)
  - [Meta AI goes beyond ChatGPT and Gemini regarding privacy concerns, building a detailed Memory file that includes sensitive personal information about the user &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/250505/p7#a250505p7)
- - [EssilorLuxottica Nuance Audio Glasses Review: The Future of Hearing](https://www.wired.com/review/essilorluxottica-nuance-audio-glasses/)
- - [China launch for Apple Intelligence seemingly delayed to iOS 18.6](https://appleinsider.com/articles/25/05/05/china-launch-for-apple-intelligence-seemingly-delayed-to-ios-186?utm_medium=rss)<!-- TECH:END -->
+ - [EssilorLuxottica Nuance Audio Glasses Review: The Future of Hearing](https://www.wired.com/review/essilorluxottica-nuance-audio-glasses/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

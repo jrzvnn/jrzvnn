@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A vampire got caught on camera](http://9gag.com/gag/aByG3DD)
- - 😝 [Hol tf up](http://9gag.com/gag/aXPWpjd)
- - 💣 [There is a special place in hell for me](http://9gag.com/gag/aD2V04N)
+ - 😝 [Post some examples yo](http://9gag.com/gag/aZZjNdV)
+ - 😝 [When the cartoonist chose violence](http://9gag.com/gag/a872b5Z)
+ - 💣 [Who knew honesty was an option?](http://9gag.com/gag/aKGez6O)
  - 😝 [There is another](http://9gag.com/gag/aRBoAP7)
- - 👉 [What happens when you drop a hotdog in acid?](http://9gag.com/gag/aVvLQrw)<!-- MEMES:END -->
+ - 👉 [There is a special place in hell for me](http://9gag.com/gag/aD2V04N)<!-- MEMES:END -->
 
 ---
 

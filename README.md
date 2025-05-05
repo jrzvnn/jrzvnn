@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EA Sports FC Mobile to stream live MLS matches &amp; offer Apple TV trial](https://appleinsider.com/articles/25/05/05/ea-sports-fc-mobile-to-stream-live-mls-matches-offer-apple-tv-trial?utm_medium=rss)
  - [The modified Signal app used by Mike Waltz was reportedly hacked](https://www.theverge.com/news/661173/telemessage-signal-clone-hacked-mike-waltz)
  - [Microsoft announces a Gears of War remaster – and it&amp;#8217;s coming to PlayStation, too](https://www.theverge.com/news/661169/gears-of-war-reloaded-remaster-release-date)
  - [Sources: Google has quietly launched 100 Zeros, a film and TV production initiative aiming to promote a positive view of tech and drive adoption of its products &lpar;Lucia Moses/Business Insider&rpar;](http://www.techmeme.com/250505/p10#a250505p10)
- - [Tel Aviv-based eToro Group says it&#39;s targeting a $4B valuation in a Nasdaq IPO, aiming to raise $500M, after pausing plans last month amid market volatility &lpar;Reuters&rpar;](http://www.techmeme.com/250505/p9#a250505p9)
- - [Pinterest&amp;#8217;s AI will help you find the &amp;#8216;right words&amp;#8217; to search for fashion](https://www.theverge.com/news/661157/pinterest-ai-visual-search-fashion-vibe)<!-- TECH:END -->
+ - [Tel Aviv-based eToro Group says it&#39;s targeting a $4B valuation in a Nasdaq IPO, aiming to raise $500M, after pausing plans last month amid market volatility &lpar;Reuters&rpar;](http://www.techmeme.com/250505/p9#a250505p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

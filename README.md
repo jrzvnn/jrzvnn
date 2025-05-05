@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Celebrate our differences](http://9gag.com/gag/aPAQD4q)
- - 😝 [Oof size : Large](http://9gag.com/gag/a342LE3)
- - 💣 [Reality](http://9gag.com/gag/a1m2MB8)
- - 😝 [Cake](http://9gag.com/gag/a5Q277y)
- - 👉 [I see this as a absolutely win](http://9gag.com/gag/a5Q2PLV)<!-- MEMES:END -->
+ - 😝 [Anyone find some pics or video yet?](http://9gag.com/gag/abABbwE)
+ - 😝 [Well well well, how the turn tables](http://9gag.com/gag/aVvLQ9O)
+ - 💣 [Post some examples yo](http://9gag.com/gag/aZZjNdV)
+ - 😝 [Skype has officially shut down](http://9gag.com/gag/ae9mGPj)
+ - 👉 [There is another](http://9gag.com/gag/aRBoAP7)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice save](http://9gag.com/gag/avyRg3E)
- - 😝 [What a film tho](http://9gag.com/gag/ajPZ6jw)
- - 💣 [Asking the right questions](http://9gag.com/gag/a7o2yQA)
- - 😝 [A vampire got caught on camera](http://9gag.com/gag/aByG3DD)
- - 👉 [Let me ask real quick](http://9gag.com/gag/a2v2q8d)<!-- MEMES:END -->
+ - 😝 [Thats what happens to bad riders](http://9gag.com/gag/a0e1YAX)
+ - 😝 [Who knew honesty was an option?](http://9gag.com/gag/aKGez6O)
+ - 💣 [Well well well, how the turn tables](http://9gag.com/gag/aVvLQ9O)
+ - 😝 [Is this the color of success?](http://9gag.com/gag/a4P2L06)
+ - 👉 [When your kidnapper makes you write a ransom note but your GPA kicks in.](http://9gag.com/gag/an7EY4V)<!-- MEMES:END -->
 
 ---
 

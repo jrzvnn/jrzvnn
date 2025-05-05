@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There is a special place in hell for me](http://9gag.com/gag/aD2V04N)
+ - 😝 [Old memes ftw...](http://9gag.com/gag/a5Q2dPr)
+ - 😝 [Some reminders for all you 9gaggers out there:](http://9gag.com/gag/aVvLWmP)
+ - 💣 [A vampire got caught on camera](http://9gag.com/gag/aByG3DD)
  - 😝 [When your plan doesn&#39;t quite come together but you&#39;re staying cool.](http://9gag.com/gag/aD2V0NK)
- - 💣 [WTF](http://9gag.com/gag/a1m2Zy8)
- - 😝 [Well well well, how the turn tables](http://9gag.com/gag/aVvLQ9O)
- - 👉 [Old memes ftw...](http://9gag.com/gag/a5Q2dPr)<!-- MEMES:END -->
+ - 👉 [For real](http://9gag.com/gag/aRBoQB5)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at &quot;kidfluencers&quot; in Brazil who promote online get-rich-quick schemes to other children on TikTok, Kwai, and Instagram, amid growing government scrutiny &lpar;Pedro Nakamura/Rest of World&rpar;](http://www.techmeme.com/250505/p2#a250505p2)
  - [Sources: Anysphere, maker of AI coding tool Cursor, raised $900M at a $9B valuation, up from $2.5B in January, led by Thrive, with a16z and Accel participating &lpar;Financial Times&rpar;](http://www.techmeme.com/250505/p1#a250505p1)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 5, #224](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-5-224/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword Answers for Monday, May 5](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-may-5/#ftag=CAD590a51e)
- - [The biggest deepfake porn site on the internet, Mr. Deepfakes, says it is shutting down permanently because a &quot;critical service provider&quot; stopped serving it &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250504/p19#a250504p19)
- - [TeleMessage, a maker of modified versions of apps like Signal used by US officials including JD Vance, is hacked, leaking some user messages, contact info, more &lpar;Micah Lee/micahflee&rpar;](http://www.techmeme.com/250504/p18#a250504p18)<!-- TECH:END -->
+ - [The biggest deepfake porn site on the internet, Mr. Deepfakes, says it is shutting down permanently because a &quot;critical service provider&quot; stopped serving it &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250504/p19#a250504p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hol tf up](http://9gag.com/gag/aXPWpjd)
- - 😝 [Old memes ftw...](http://9gag.com/gag/a5Q2dPr)
- - 💣 [What happens when you drop a hotdog in acid?](http://9gag.com/gag/aVvLQrw)
- - 😝 [When your kidnapper makes you write a ransom note but your GPA kicks in.](http://9gag.com/gag/an7EY4V)
+ - 😝 [Well well well, how the turn tables](http://9gag.com/gag/aVvLQ9O)
+ - 😝 [She told her to wear deodorant](http://9gag.com/gag/aMVv1bW)
+ - 💣 [Old memes ftw...](http://9gag.com/gag/a5Q2dPr)
+ - 😝 [There is another](http://9gag.com/gag/aRBoAP7)
  - 👉 [When your plan doesn&#39;t quite come together but you&#39;re staying cool.](http://9gag.com/gag/aD2V0NK)<!-- MEMES:END -->
 
 ---

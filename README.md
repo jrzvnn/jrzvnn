@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hasan Sukkar, the founder of AI startup 11x, which has raised $70m+ to date, steps down as CEO; CTO Prabhav Jain has been named the new CEO &lpar;TechCrunch&rpar;](http://www.techmeme.com/250505/p15#a250505p15)
+ - [Apple’s latest iPad Mini has dropped to its lowest price in months](https://www.theverge.com/tech/661211/apple-ipad-mini-seventh-gen-2024-deal-sale)
+ - [TeleMessage&#39;s parent company says it is &quot;investigating a potential security incident&quot; and has suspended all of its services &quot;out of an abundance of caution&quot; &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/250505/p14#a250505p14)
  - [OpenAI abandons plan to be controlled by for-profit board](https://www.theverge.com/openai/661303/openai-stays-nonprofit-sam-altman-employee-memo)
- - [Buffalo put a window on its new hard drive so you can see it at work](https://www.theverge.com/news/661244/buffalo-skeleton-hard-disk-drive-hd-skl-transparent-window-lottery)
- - [OpenAI backtracks, says its nonprofit will remain in control of its business operations, after a &quot;constructive dialogue&quot; with civic leaders and AGs of DE and CA &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250505/p13#a250505p13)
- - [Epic will use an EU account to bring Fortnite back to the US App Store](https://www.theverge.com/news/661237/epic-games-fortnite-apple-us-ios-app-store-eu-account)
- - [Apple files an appeal with the US Ninth Circuit, challenging last week&#39;s ruling that prevents it from charging devs fees on purchases made outside the App Store &lpar;Sarah Jeong/The Verge&rpar;](http://www.techmeme.com/250505/p12#a250505p12)<!-- TECH:END -->
+ - [Buffalo put a window on its new hard drive so you can see it at work](https://www.theverge.com/news/661244/buffalo-skeleton-hard-disk-drive-hd-skl-transparent-window-lottery)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

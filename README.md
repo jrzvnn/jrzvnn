@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic will use an EU account to bring Fortnite back to the US App Store](https://www.theverge.com/news/661237/epic-games-fortnite-apple-us-ios-app-store-eu-account)
+ - [Apple files an appeal with the US Ninth Circuit, challenging last week&#39;s ruling that prevents it from charging devs fees on purchases made outside the App Store &lpar;Sarah Jeong/The Verge&rpar;](http://www.techmeme.com/250505/p12#a250505p12)
  - [Apple&#39;s 2025 Pride Collection features a unique Apple Watch Sport Band](https://appleinsider.com/articles/25/05/05/apples-2025-pride-collection-features-a-unique-apple-watch-sport-band?utm_medium=rss)
  - [iPhone 18 Pro leak claims under-display Face ID is on the way](https://appleinsider.com/articles/25/05/05/iphone-18-pro-leak-claims-under-display-face-id-is-on-the-way?utm_medium=rss)
- - [Trump has two crypto-focused dinners this month, for political donors and for $TRUMP holders; Chainalysis: trading fees alone have made $TRUMP insiders $324M+ &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250505/p11#a250505p11)
- - [EA Sports FC Mobile to stream live MLS matches &amp; offer Apple TV trial](https://appleinsider.com/articles/25/05/05/ea-sports-fc-mobile-to-stream-live-mls-matches-offer-apple-tv-trial?utm_medium=rss)
- - [Get Outside Monday Night to See the Eta Aquarid Meteor Shower Peak](https://www.cnet.com/science/space/the-eta-aquarid-meteor-shower-will-peak-monday-night-heres-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Trump has two crypto-focused dinners this month, for political donors and for $TRUMP holders; Chainalysis: trading fees alone have made $TRUMP insiders $324M+ &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250505/p11#a250505p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

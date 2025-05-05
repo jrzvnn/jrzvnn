@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to calm a baby](http://9gag.com/gag/avyRP1X)
- - 😝 [Hol tf up](http://9gag.com/gag/aXPWpjd)
- - 💣 [We need to stand together to cancel his role](http://9gag.com/gag/an7EXDn)
- - 😝 [Skype has officially shut down](http://9gag.com/gag/ae9mGPj)
- - 👉 [Woman is addicted to coffee enema!](http://9gag.com/gag/aoyLZg3)<!-- MEMES:END -->
+ - 😝 [Celebrate our differences](http://9gag.com/gag/aPAQD4q)
+ - 😝 [Oof size : Large](http://9gag.com/gag/a342LE3)
+ - 💣 [Reality](http://9gag.com/gag/a1m2MB8)
+ - 😝 [Cake](http://9gag.com/gag/a5Q277y)
+ - 👉 [I see this as a absolutely win](http://9gag.com/gag/a5Q2PLV)<!-- MEMES:END -->
 
 ---
 

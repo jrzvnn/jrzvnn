@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple admits the Q2 surge in imports won&#39;t be enough to stop price hikes](https://appleinsider.com/articles/25/05/05/apple-admits-the-q2-surge-in-imports-wont-be-enough-to-stop-price-hikes?utm_medium=rss)
- - [The Verge looks back on Skype](https://www.theverge.com/favorites/621864/skype-microsoft-goodbye)
- - [Apple may be gearing up for first corporate bond sale since 2023](https://appleinsider.com/articles/25/05/05/apple-may-be-gearing-up-for-first-corporate-bond-sale-since-2023?utm_medium=rss)
- - [Meta’s AI app is a nightmarish social feed](https://www.theverge.com/meta/660543/meta-ai-app-social-feed)
- - [9 Best Carpet Cleaners &lpar;2025&rpar;: Budget, Spot Cleaners, Hard Floors](https://www.wired.com/gallery/best-carpet-cleaners/)<!-- TECH:END -->
+ - [The Pebble’s creator demos his new smartwatch](https://www.theverge.com/news/661047/eric-migicovsky-pebble-core-devices-core-2-duo-core-time-2-smartwatch)
+ - [FTC v. Meta live: updates from the battle for Instagram and WhatsApp](https://www.theverge.com/news/646809/ftc-v-meta-antitrust-monopoly-trial-instagram-whatsapp)
+ - [Take a Tour of All the Essential Features in ChatGPT](https://www.wired.com/story/subscriber-only-ai-unlocked-seminar-tour-of-chatgpt-features/)
+ - [A look at Waymo&#39;s Mesa, AZ plant, producing several retrofitted Jaguars per day and where plans to scale up with Chinese Zeekr vans may be derailed by tariffs &lpar;Alan Ohnsman/Forbes&rpar;](http://www.techmeme.com/250505/p8#a250505p8)
+ - [Apple admits the Q2 surge in imports won&#39;t be enough to stop price hikes](https://appleinsider.com/articles/25/05/05/apple-admits-the-q2-surge-in-imports-wont-be-enough-to-stop-price-hikes?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

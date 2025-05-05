@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hol tf up](http://9gag.com/gag/aXPWpjd)
- - 😝 [Well well well, how the turn tables](http://9gag.com/gag/aVvLQ9O)
- - 💣 [Post some examples yo](http://9gag.com/gag/aZZjNdV)
- - 😝 [Between 1915 and 1926, a mysterious illness swept the world. Victims of Encephalitis Lethargica fell into deep sleep, then woke unable to move or speak. Half a million died or became trapped in their bodies. No one knows what caused it. It hasn&#39;t come back.](http://9gag.com/gag/ajPZAZx)
- - 👉 [Incredible india](http://9gag.com/gag/aByGYjD)<!-- MEMES:END -->
+ - 😝 [There is another](http://9gag.com/gag/aRBoAP7)
+ - 😝 [Celebrate our differences](http://9gag.com/gag/aPAQD4q)
+ - 💣 [Oof size : Large](http://9gag.com/gag/a342LE3)
+ - 😝 [It is legally forbidden for Muslim women and girls to wear a hijab inside schools in France; they must remove it before entering. Should this be applied throughout Europe? What do you think?](http://9gag.com/gag/aryqKP0)
+ - 👉 [Cake](http://9gag.com/gag/a5Q277y)<!-- MEMES:END -->
 
 ---
 

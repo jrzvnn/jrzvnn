@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When the cartoonist chose violence](http://9gag.com/gag/a872b5Z)
+ - 😝 [You were deceived](http://9gag.com/gag/a9y2MpZ)
+ - 😝 [There is a special place in hell for me](http://9gag.com/gag/aD2V04N)
+ - 💣 [Extra Seven Days](http://9gag.com/gag/an7EXK0)
  - 😝 [We need to stand together to cancel his role](http://9gag.com/gag/an7EXDn)
- - 💣 [WTF](http://9gag.com/gag/a1m2Zy8)
- - 😝 [When you nail the rocket start in Mario Kart](http://9gag.com/gag/aMVv2bP)
- - 👉 [For real](http://9gag.com/gag/aRBoQB5)<!-- MEMES:END -->
+ - 👉 [Hol tf up](http://9gag.com/gag/aXPWpjd)<!-- MEMES:END -->
 
 ---
 

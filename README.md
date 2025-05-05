@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Buffalo put a window on its new hard drive so you can see it at work](https://www.theverge.com/news/661244/buffalo-skeleton-hard-disk-drive-hd-skl-transparent-window-lottery)
  - [OpenAI backtracks, says its nonprofit will remain in control of its business operations, after a &quot;constructive dialogue&quot; with civic leaders and AGs of DE and CA &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250505/p13#a250505p13)
  - [Epic will use an EU account to bring Fortnite back to the US App Store](https://www.theverge.com/news/661237/epic-games-fortnite-apple-us-ios-app-store-eu-account)
  - [Apple files an appeal with the US Ninth Circuit, challenging last week&#39;s ruling that prevents it from charging devs fees on purchases made outside the App Store &lpar;Sarah Jeong/The Verge&rpar;](http://www.techmeme.com/250505/p12#a250505p12)
- - [Apple&#39;s 2025 Pride Collection features a unique Apple Watch Sport Band](https://appleinsider.com/articles/25/05/05/apples-2025-pride-collection-features-a-unique-apple-watch-sport-band?utm_medium=rss)
- - [iPhone 18 Pro leak claims under-display Face ID is on the way](https://appleinsider.com/articles/25/05/05/iphone-18-pro-leak-claims-under-display-face-id-is-on-the-way?utm_medium=rss)<!-- TECH:END -->
+ - [Waymo Expands Self-Driving Fleet with New US Manufacturing Facility](https://www.cnet.com/roadshow/news/waymo-expands-self-driving-fleet-with-new-us-manufacturing-facility/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

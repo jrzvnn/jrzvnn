@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Stacking bags that are falling from a conveyor belt](http://9gag.com/gag/aqyWZmv)
+ - 😝 [Definitely not an old hag](http://9gag.com/gag/aKGez0Q)
+ - 💣 [When the cartoonist chose violence](http://9gag.com/gag/a872b5Z)
  - 😝 [For real](http://9gag.com/gag/aRBoQB5)
- - 😝 [When the cartoonist chose violence](http://9gag.com/gag/a872b5Z)
- - 💣 [When your plan doesn&#39;t quite come together but you&#39;re staying cool.](http://9gag.com/gag/aD2V0NK)
- - 😝 [Instant slap](http://9gag.com/gag/abABbzv)
- - 👉 [Stacking bags that are falling from a conveyor belt](http://9gag.com/gag/aqyWZmv)<!-- MEMES:END -->
+ - 👉 [WTF](http://9gag.com/gag/a1m2Zy8)<!-- MEMES:END -->
 
 ---
 

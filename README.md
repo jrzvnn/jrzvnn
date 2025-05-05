@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Something to drink?](http://9gag.com/gag/amoM84o)
  - 😝 [A vampire got caught on camera](http://9gag.com/gag/aByG3DD)
- - 😝 [Post some examples yo](http://9gag.com/gag/aZZjNdV)
- - 💣 [Incredible india](http://9gag.com/gag/aByGYjD)
+ - 💣 [Post some examples yo](http://9gag.com/gag/aZZjNdV)
  - 😝 [Is this the color of success?](http://9gag.com/gag/a4P2L06)
- - 👉 [Woman is addicted to coffee enema!](http://9gag.com/gag/aoyLZg3)<!-- MEMES:END -->
+ - 👉 [There is another](http://9gag.com/gag/aRBoAP7)<!-- MEMES:END -->
 
 ---
 

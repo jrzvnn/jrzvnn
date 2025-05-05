@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 5, #224](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-5-224/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, May 5](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-may-5/#ftag=CAD590a51e)
  - [The biggest deepfake porn site on the internet, Mr. Deepfakes, says it is shutting down permanently because a &quot;critical service provider&quot; stopped serving it &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250504/p19#a250504p19)
  - [TeleMessage, a maker of modified versions of apps like Signal used by US officials including JD Vance, is hacked, leaking some user messages, contact info, more &lpar;Micah Lee/micahflee&rpar;](http://www.techmeme.com/250504/p18#a250504p18)
- - [Several Senate Democrats, key to the passage of a landmark stablecoin bill, withdraw support for the bill &quot;as it currently stands&quot; &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/250504/p17#a250504p17)
- - [Roku is looking into complaints about washed-out HDR streams](https://www.theverge.com/news/660950/roku-hdr-issues-washed-out-colors-gray)
- - [The Signal Clone the Trump Admin Uses Was Hacked &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/250504/p16#a250504p16)<!-- TECH:END -->
+ - [Several Senate Democrats, key to the passage of a landmark stablecoin bill, withdraw support for the bill &quot;as it currently stands&quot; &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/250504/p17#a250504p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Security Researchers Warn a Widely Used Open Source Tool Poses a &#39;Persistent&#39; Risk to the US](https://www.wired.com/story/easyjson-open-source-vk-ties/)
  - [Slim iPhone will gain a larger screen in 2027, alongside iPhone fold 2](https://appleinsider.com/articles/25/05/05/slim-iphone-will-gain-a-larger-screen-in-2027-alongside-iphone-fold-2?utm_medium=rss)
  - [The Dream of the Metaverse Is Dying. Manufacturing Is Keeping It Alive](https://www.wired.com/story/the-metaverse-is-here-and-its-industrial/)
  - [Scientists Have Just Discovered a New Type of Electricity-Conducting Bacteria](https://www.wired.com/story/scientists-have-just-discovered-a-new-type-of-electricity-conducting-bacteria/)
- - [Rejoice! Carmakers Are Embracing Physical Buttons Again](https://www.wired.com/story/why-car-brands-are-finally-switching-back-to-buttons/)
- - [An interview with Phillip Koskinas, the head of anti-cheat at Riot Games, on the various strategies the company employs to combat cheaters and cheat developers &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250505/p3#a250505p3)<!-- TECH:END -->
+ - [Best CD Rates This Week: Lock in a High APY Now Before the Fed&#39;s Next Decision](https://www.cnet.com/personal-finance/banking/best-cd-rates-this-week-lock-in-a-high-apy-now-before-the-feds-next-decision/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

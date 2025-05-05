@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple TV+ isn&#39;t micromanagement hell -- for some creatives](https://appleinsider.com/articles/25/05/05/apple-tv-isnt-micromanagement-hell----for-some-creatives?utm_medium=rss)
  - [Palantir reports Q1 revenue up 39% YoY to $884M, vs. $863M est., and raises 2025 sales guidance to $3.9B on demand for AI software that&#39;s a &quot;ravenous whirlwind&quot; &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/250505/p20#a250505p20)
  - [Lawsuit hopes to return 15 months of commissions to developers after App Store ruling](https://appleinsider.com/articles/25/05/05/lawsuit-hopes-to-return-15-months-of-commissions-to-developers-after-app-store-ruling?utm_medium=rss)
  - [Rivian gets $16 million from Illinois to build new supplier park](https://www.theverge.com/news/661446/rivian-normal-illinois-supplier-park-ev-construction)
- - [YouTube is experimenting with a Premium plan for two people](https://www.theverge.com/news/661462/youtube-premium-two-people-plan)
- - [The affordable MacBook upgrade plan that&#39;s built for power users](https://appleinsider.com/articles/25/05/05/the-affordable-macbook-upgrade-plan-thats-built-for-power-users?utm_medium=rss)<!-- TECH:END -->
+ - [YouTube is experimenting with a Premium plan for two people](https://www.theverge.com/news/661462/youtube-premium-two-people-plan)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

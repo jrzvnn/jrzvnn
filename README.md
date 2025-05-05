@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI Backs Down on Restructuring Amid Pushback](https://www.wired.com/story/openai-announce-nonprofit-structure-sam-altman/)
  - [Signal Clone Used by Mike Waltz Pauses Service After Reports It Got Hacked](https://www.wired.com/story/signal-clone-used-by-mike-waltz-pauses-service-after-reports-it-got-hacked/)
  - [Sources: Databricks is in advanced talks to acquire startup Neon, a maker of a serverless open-source alternative to AWS Aurora Postgres, for about $1B &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/250505/p21#a250505p21)
  - [Apple TV+ isn&#39;t micromanagement hell -- for some creatives](https://appleinsider.com/articles/25/05/05/apple-tv-isnt-micromanagement-hell----for-some-creatives?utm_medium=rss)
- - [Palantir reports Q1 revenue up 39% YoY to $884M, vs. $863M est., and raises 2025 sales guidance to $3.9B on demand for AI software that&#39;s a &quot;ravenous whirlwind&quot; &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/250505/p20#a250505p20)
- - [Lawsuit hopes to return 15 months of commissions to developers after App Store ruling](https://appleinsider.com/articles/25/05/05/lawsuit-hopes-to-return-15-months-of-commissions-to-developers-after-app-store-ruling?utm_medium=rss)<!-- TECH:END -->
+ - [Palantir reports Q1 revenue up 39% YoY to $884M, vs. $863M est., and raises 2025 sales guidance to $3.9B on demand for AI software that&#39;s a &quot;ravenous whirlwind&quot; &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/250505/p20#a250505p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

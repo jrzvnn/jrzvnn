@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Dream of the Metaverse Is Dying. Manufacturing Is Keeping It Alive](https://www.wired.com/story/the-metaverse-is-here-and-its-industrial/)
+ - [Scientists Have Just Discovered a New Type of Electricity-Conducting Bacteria](https://www.wired.com/story/scientists-have-just-discovered-a-new-type-of-electricity-conducting-bacteria/)
  - [Rejoice! Carmakers Are Embracing Physical Buttons Again](https://www.wired.com/story/why-car-brands-are-finally-switching-back-to-buttons/)
  - [An interview with Phillip Koskinas, the head of anti-cheat at Riot Games, on the various strategies the company employs to combat cheaters and cheat developers &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250505/p3#a250505p3)
- - [A look at &quot;kidfluencers&quot; in Brazil who promote online get-rich-quick schemes to other children on TikTok, Kwai, and Instagram, amid growing government scrutiny &lpar;Pedro Nakamura/Rest of World&rpar;](http://www.techmeme.com/250505/p2#a250505p2)
- - [Sources: Anysphere, maker of AI coding tool Cursor, raised $900M at a $9B valuation, up from $2.5B in January, led by Thrive, with a16z and Accel participating &lpar;Financial Times&rpar;](http://www.techmeme.com/250505/p1#a250505p1)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 5, #224](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-5-224/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at &quot;kidfluencers&quot; in Brazil who promote online get-rich-quick schemes to other children on TikTok, Kwai, and Instagram, amid growing government scrutiny &lpar;Pedro Nakamura/Rest of World&rpar;](http://www.techmeme.com/250505/p2#a250505p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta’s AI app is a nightmarish social feed](https://www.theverge.com/meta/660543/meta-ai-app-social-feed)
+ - [Apple files appeal to wrest back control of its App Store](https://www.theverge.com/news/661032/apple-epic-games-app-store-antitrust-ninth-circuit)
  - [Killer deal: Apple&#39;s M4 Mac mini plunges to $490](https://appleinsider.com/articles/25/05/05/killer-deal-apples-m4-mac-mini-plunges-to-490?utm_medium=rss)
  - [Shein Bet Big on Donald Trump. It Lost Big, Too](https://www.wired.com/story/shein-trump-ipo-bet-tariffs/)
- - [Apple &amp;#8216;iPhone Air&amp;#8217; rumor suggests a bigger screen coming in 2027](https://www.theverge.com/news/661009/apple-iphone-air-2-slim-2027)
- - [Sightful Spacetop for Windows Review: Spatial Computing Is Here](https://www.wired.com/review/sightful-spacetop-for-windows/)
- - [RIP Skype — you were right about almost everything](https://www.theverge.com/microsoft/660985/skype-shuts-down-rip)<!-- TECH:END -->
+ - [Apple &amp;#8216;iPhone Air&amp;#8217; rumor suggests a bigger screen coming in 2027](https://www.theverge.com/news/661009/apple-iphone-air-2-slim-2027)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

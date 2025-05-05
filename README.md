@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tel Aviv-based eToro Group says it&#39;s targeting a $4B valuation in a Nasdaq IPO, aiming to raise $500M, after pausing plans last month amid market volatility &lpar;Reuters&rpar;](http://www.techmeme.com/250505/p9#a250505p9)
+ - [Pinterest&amp;#8217;s AI will help you find the &amp;#8216;right words&amp;#8217; to search for fashion](https://www.theverge.com/news/661157/pinterest-ai-visual-search-fashion-vibe)
  - [Apple files appeal against court ruling that mandated App Store changes](https://appleinsider.com/articles/25/05/05/apple-files-appeal-against-court-ruling-that-mandated-app-store-changes?utm_medium=rss)
  - [The sporty Beats Powerbeats Pro 2 are on sale for $50 off for the first time](https://www.theverge.com/tech/660789/beats-powerbeats-pro-2-earbuds-google-pixel-9a-deal-sale)
- - [Inside Apple&#39;s Ireland testing labs - How your iPhone survives sandstorms, saunas &amp; salt water](https://appleinsider.com/articles/25/05/05/inside-apples-ireland-testing-labs---how-your-iphone-survives-sandstorms-saunas-salt-water?utm_medium=rss)
- - [Box art](https://www.theverge.com/art-club/660587/mcsweeneys-quarterly-78-vietnamese-diaspora-cigar-box)
- - [Waymo says it will add 2,000 more robotaxis in 2026](https://www.theverge.com/news/661025/waymo-fleet-size-factory-arizona-jaguar-robotaxi-zeekr)<!-- TECH:END -->
+ - [Inside Apple&#39;s Ireland testing labs - How your iPhone survives sandstorms, saunas &amp; salt water](https://appleinsider.com/articles/25/05/05/inside-apples-ireland-testing-labs---how-your-iphone-survives-sandstorms-saunas-salt-water?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

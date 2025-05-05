@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The reason bus seats have wild patterns and vibrant colours is to hide how dirty they are](http://9gag.com/gag/aLnmQxA)
- - 😝 [When your plan doesn&#39;t quite come together but you&#39;re staying cool.](http://9gag.com/gag/aD2V0NK)
- - 💣 [WTF](http://9gag.com/gag/a1m2Zy8)
- - 😝 [Asking the right questions](http://9gag.com/gag/a7o2yQA)
- - 👉 [Old memes ftw...](http://9gag.com/gag/a5Q2dPr)<!-- MEMES:END -->
+ - 😝 [This guy created the Nerf MOAB &lpar;Mother of All Blasters&rpar;](http://9gag.com/gag/aD2V3Kw)
+ - 😝 [A vampire got caught on camera](http://9gag.com/gag/aByG3DD)
+ - 💣 [Old memes ftw...](http://9gag.com/gag/a5Q2dPr)
+ - 😝 [WTF](http://9gag.com/gag/a1m2Zy8)
+ - 👉 [Well well well, how the turn tables](http://9gag.com/gag/aVvLQ9O)<!-- MEMES:END -->
 
 ---
 

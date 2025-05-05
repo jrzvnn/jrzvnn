@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Asking the right questions](http://9gag.com/gag/a7o2yQA)
+ - 😝 [Old memes?](http://9gag.com/gag/aRBoPmj)
  - 😝 [Hol tf up](http://9gag.com/gag/aXPWpjd)
- - 💣 [Well well well, how the turn tables](http://9gag.com/gag/aVvLQ9O)
- - 😝 [Is this the color of success?](http://9gag.com/gag/a4P2L06)
- - 👉 [Post some examples yo](http://9gag.com/gag/aZZjNdV)<!-- MEMES:END -->
+ - 💣 [We need to stand together to cancel his role](http://9gag.com/gag/an7EXDn)
+ - 😝 [Well well well, how the turn tables](http://9gag.com/gag/aVvLQ9O)
+ - 👉 [Is this the color of success?](http://9gag.com/gag/a4P2L06)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Let me ask real quick](http://9gag.com/gag/a2v2q8d)
+ - 😝 [Nice save](http://9gag.com/gag/avyRg3E)
+ - 💣 [Universal doing a better job at its theme park than the movies!](http://9gag.com/gag/aLnmQeP)
  - 😝 [Asking the right questions](http://9gag.com/gag/a7o2yQA)
- - 😝 [Some reminders for all you 9gaggers out there:](http://9gag.com/gag/aVvLWmP)
- - 💣 [When the cartoonist chose violence](http://9gag.com/gag/a872b5Z)
- - 😝 [How I met your mother](http://9gag.com/gag/amoM879)
- - 👉 [Well well well, how the turn tables](http://9gag.com/gag/aVvLQ9O)<!-- MEMES:END -->
+ - 👉 [A vampire got caught on camera](http://9gag.com/gag/aByG3DD)<!-- MEMES:END -->
 
 ---
 

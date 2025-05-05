@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How I met your mother](http://9gag.com/gag/amoM879)
+ - 😝 [Extra Seven Days](http://9gag.com/gag/an7EXK0)
+ - 😝 [A vampire got caught on camera](http://9gag.com/gag/aByG3DD)
+ - 💣 [When the cartoonist chose violence](http://9gag.com/gag/a872b5Z)
  - 😝 [WTF](http://9gag.com/gag/a1m2Zy8)
- - 💣 [Definitely not an old hag](http://9gag.com/gag/aKGez0Q)
- - 😝 [We need to stand together to cancel his role](http://9gag.com/gag/an7EXDn)
- - 👉 [For real](http://9gag.com/gag/aRBoQB5)<!-- MEMES:END -->
+ - 👉 [When your plan doesn&#39;t quite come together but you&#39;re staying cool.](http://9gag.com/gag/aD2V0NK)<!-- MEMES:END -->
 
 ---
 

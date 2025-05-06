@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anyone find some pics or video yet?](http://9gag.com/gag/abABbwE)
- - 😝 [Well well well, how the turn tables](http://9gag.com/gag/aVvLQ9O)
- - 💣 [Post some examples yo](http://9gag.com/gag/aZZjNdV)
- - 😝 [Skype has officially shut down](http://9gag.com/gag/ae9mGPj)
- - 👉 [There is another](http://9gag.com/gag/aRBoAP7)<!-- MEMES:END -->
+ - 😝 [Stray Do..., holup.](http://9gag.com/gag/aE0D1WK)
+ - 😝 [Post some examples yo](http://9gag.com/gag/aZZjNdV)
+ - 💣 [Anyone find some pics or video yet?](http://9gag.com/gag/abABbwE)
+ - 😝 [There is another](http://9gag.com/gag/aRBoAP7)
+ - 👉 [How I met your mother](http://9gag.com/gag/amoM879)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [RCs of iOS 18.5, macOS 15.5 arrive as updates near release](https://appleinsider.com/articles/25/05/06/rcs-of-ios-185-macos-155-arrive-as-updates-near-release?utm_medium=rss)
+ - [The three most-downloaded PS5 games for April in North America and Europe were all Microsoft titles: Minecraft, the Oblivion remaster, and Forza Horizon 5 &lpar;Andrew Webster/The Verge&rpar;](http://www.techmeme.com/250506/p35#a250506p35)
+ - [iPhone 13 gains carrier-provided satellite connectivity in iOS 18.5](https://appleinsider.com/articles/25/05/06/iphone-13-gains-carrier-provided-satellite-connectivity-in-ios-185?utm_medium=rss)
+ - [iOS 18.5, macOS 15.5 release candidates arrive](https://appleinsider.com/articles/25/05/06/rcs-of-ios-185-macos-155-arrive-as-updates-near-release?utm_medium=rss)
  - [iRobot’s vacuum-only Roomba j7 is nearly 75 percent off](https://www.theverge.com/tech/661980/irobot-roomba-j7-robot-vacuum-airpods-4-anc-deal-sale)
- - [Amazon&#39;s Zoox says it temporarily paused all driverless vehicle operations after a crash in Las Vegas on April 8 and issued a software recall for 270 robotaxis &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250506/p34#a250506p34)
- - [ServiceNow launches ServiceNow CRM to take on Salesforce and automate many common workflow steps and &quot;human middleware&quot; with AI &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/250506/p33#a250506p33)
- - [News reader Particle launches on the web, featuring news headlines and AI summaries, key quotes, links to sources, and reader questions answered by AI &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250506/p32#a250506p32)<!-- TECH:END -->
+ - [Amazon&#39;s Zoox says it temporarily paused all driverless vehicle operations after a crash in Las Vegas on April 8 and issued a software recall for 270 robotaxis &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250506/p34#a250506p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What happens when you drop a hotdog in acid?](http://9gag.com/gag/aVvLQrw)
- - 😝 [Post some examples yo](http://9gag.com/gag/aZZjNdV)
- - 💣 [There is another](http://9gag.com/gag/aRBoAP7)
+ - 😝 [Cursed prank](http://9gag.com/gag/aW4bOEK)
+ - 😝 [Mama&#39;s hungry](http://9gag.com/gag/a872jPO)
+ - 💣 [Man of Culture](http://9gag.com/gag/aGyAwWG)
  - 😝 [Something to drink?](http://9gag.com/gag/amoM84o)
- - 👉 [Just look at them](http://9gag.com/gag/aKGeBQ1)<!-- MEMES:END -->
+ - 👉 [In 2017, Shreya Siddanagowder, who lost her arms in an accident, received Asia\u2019s first above-elbow hand transplant. The donor was a brain-dead youth named Sachin. His dark, masculine hands turned fairer and feminine over time as they adopted to her body](http://9gag.com/gag/aD2VmVK)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cake](http://9gag.com/gag/a5Q277y)
- - 😝 [A father and daughter duo just did one of the best covers](http://9gag.com/gag/aVvLP9P)
- - 💣 [Oof size : Large](http://9gag.com/gag/a342LE3)
- - 😝 [Reality](http://9gag.com/gag/a1m2MB8)
- - 👉 [UK waking up to the reality of Grooming Gangs.](http://9gag.com/gag/aZZjMr3)<!-- MEMES:END -->
+ - 😝 [Well well well, how the turn tables](http://9gag.com/gag/aVvLQ9O)
+ - 😝 [In 2017, Shreya Siddanagowder, who lost her arms in an accident, received Asia\u2019s first above-elbow hand transplant. The donor was a brain-dead youth named Sachin. His dark, masculine hands turned fairer and feminine over time as they adopted to her body](http://9gag.com/gag/aD2VmVK)
+ - 💣 [Post some examples yo](http://9gag.com/gag/aZZjNdV)
+ - 😝 [There is another](http://9gag.com/gag/aRBoAP7)
+ - 👉 [Remembering this from the lockdown](http://9gag.com/gag/a7o2b0z)<!-- MEMES:END -->
 
 ---
 

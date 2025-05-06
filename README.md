@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DeFi company IntoTheBlock and financial services company Trident Digital announce they are merging to form Sentora and have raised a $25M Series A &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/250506/p26#a250506p26)
+ - [Opera has new ways for Android users to manage tabs](https://www.theverge.com/news/661869/opera-web-browser-android-tab-islands)
  - [The new flying ID restrictions are here, and they’re a mess](https://www.theverge.com/privacy/661475/real-id-act-deadline-may-7-tsa-dmv)
  - [Pro-Ject Flatten It Review: Finally, a Way to Fix Warped Records](https://www.wired.com/review/pro-ject-flatten-it/)
- - [Unblocked, an AI-powered tool that helps devs understand codebases by answering contextual questions, raised a $20M Series A from B Capital and Radical Ventures &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250506/p25#a250506p25)
- - [Five new family-centric games debut on Apple Arcade in June](https://appleinsider.com/articles/25/05/06/five-new-family-centric-games-debut-on-apple-arcade-in-june?utm_medium=rss)
- - [Xbox is selling a lot of games on PlayStation](https://www.theverge.com/news/661814/xbox-best-selling-games-ps5-oblivion-minecraft)<!-- TECH:END -->
+ - [Unblocked, an AI-powered tool that helps devs understand codebases by answering contextual questions, raised a $20M Series A from B Capital and Radical Ventures &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250506/p25#a250506p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

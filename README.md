@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A father and daughter duo just did one of the best covers](http://9gag.com/gag/aVvLP9P)
- - 😝 [Woke up early today...](http://9gag.com/gag/ajPZDO1)
- - 💣 [Even commercials in Europe look like a Netflix series these days.](http://9gag.com/gag/aE0DR1O)
- - 😝 [What did he expect?](http://9gag.com/gag/aKGeqZg)
- - 👉 [They&#39;re always fighting in their minds. NMP](http://9gag.com/gag/aXPWw76)<!-- MEMES:END -->
+ - 😝 [Twelve days in, and Clair Obscur: Expedition 33 has crossed two million copies sold](http://9gag.com/gag/aAy2wD9)
+ - 😝 [He\u2019s totally sober\u2026](http://9gag.com/gag/apRbLwB)
+ - 💣 [Skype has officially shut down](http://9gag.com/gag/ae9mGPj)
+ - 😝 [In 2017, Shreya Siddanagowder, who lost her arms in an accident, received Asia\u2019s first above-elbow hand transplant. The donor was a brain-dead youth named Sachin. His dark, masculine hands turned fairer and feminine over time as they adopted to her body](http://9gag.com/gag/aD2VmVK)
+ - 👉 [Just where is this dentist office?](http://9gag.com/gag/aQzZ8z7)<!-- MEMES:END -->
 
 ---
 

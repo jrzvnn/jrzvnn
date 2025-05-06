@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon now has a &amp;#8216;Get book&amp;#8217; button in its iOS Kindle app](https://www.theverge.com/news/661719/amazon-app-ios-apple-iphone-ipad-kindle-buy-books)
- - [Microsoft’s smaller Surface Pro has a 12-inch display and starts at $799](https://www.theverge.com/news/658523/microsoft-surface-pro-12-inch-smaller-specs-release-date)
- - [Microsoft shrinks its Surface Laptop down to 13 inches, priced at $899](https://www.theverge.com/news/658529/microsoft-surface-laptop-13-inch-specs-release-date)
- - [Oura adds AI-powered glucose tracking and meal logging](https://www.theverge.com/news/661069/oura-dexcom-stelo-meals-glucose-metabolic-health-wearables)
- - [Death is the policy](https://www.theverge.com/health/661362/rfk-jr-measles-autism)<!-- TECH:END -->
+ - [Amazon updates its iOS Kindle app to add a prominent orange &quot;Get book&quot; button, enabling purchases via the mobile browser, after the recent Epic v. Apple ruling &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/250506/p21#a250506p21)
+ - [Spotify rolls out a new &quot;plays&quot; metric for podcasts that shows users and creators how many times people have actively listened to or watched an episode &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250506/p20#a250506p20)
+ - [Samsung updates Wallet to add a Tap to Transfer feature to let users in the US quickly exchange money between them, rolling out &quot;later this month&quot; &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250506/p19#a250506p19)
+ - [Instacart launches Fizz, a Gen-Z focused app for group orders of drinks and party snacks with a flat $5 fee and a rewards program for brands to offer discounts &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250506/p18#a250506p18)
+ - [Future Magic Mouse could detect gestures in the air like Apple Vision Pro](https://appleinsider.com/articles/25/05/06/future-magic-mouse-could-detect-gestures-in-the-air-like-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

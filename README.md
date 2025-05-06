@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They&#39;re always fighting in their minds. NMP](http://9gag.com/gag/aXPWw76)
  - 😝 [I see this as a absolutely win](http://9gag.com/gag/a5Q2PLV)
+ - 😝 [They&#39;re always fighting in their minds. NMP](http://9gag.com/gag/aXPWw76)
  - 💣 [Reality](http://9gag.com/gag/a1m2MB8)
  - 😝 [A father and daughter duo just did one of the best covers](http://9gag.com/gag/aVvLP9P)
  - 👉 [Woke up early today...](http://9gag.com/gag/ajPZDO1)<!-- MEMES:END -->

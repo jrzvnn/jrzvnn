@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The CFTC has moved to drop its appeal of a federal judge&#39;s ruling that had allowed Kalshi to take bets on the outcome of US political elections &lpar;CNBC&rpar;](http://www.techmeme.com/250506/p38#a250506p38)
+ - [The Signal Clone Mike Waltz Was Caught Using Has Direct Access to User Chats](https://www.wired.com/story/tm-signal-telemessage-plaintext-message-archive/)
  - [Microsoft officially removes VR and MR support for Minecraft, after announcing its plans to sunset it in October of last year &lpar;Mark Hachman/PCWorld&rpar;](http://www.techmeme.com/250506/p37#a250506p37)
  - [Google&amp;#8217;s Android battery health indicator is only for the newest Pixels](https://www.theverge.com/news/662129/google-android-16-battery-health)
- - [Behind on Student Loan Payments? You&#39;re in Danger of Being Sent to Collections](https://www.cnet.com/personal-finance/loans/behind-on-student-loan-payments-youre-in-danger-of-being-sent-to-collections/#ftag=CAD590a51e)
- - [Minecraft’s VR support is now gone](https://www.theverge.com/news/662128/minecraft-vr-mixed-reality-support-bedrock-update-1-21-80)
- - [100 Men vs. 1 Gorilla Viral Question: Who Wins if It&#39;s King Kong?](https://www.cnet.com/culture/entertainment/100-men-vs-1-gorilla-who-wins-if-its-king-kong/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Behind on Student Loan Payments? You&#39;re in Danger of Being Sent to Collections](https://www.cnet.com/personal-finance/loans/behind-on-student-loan-payments-youre-in-danger-of-being-sent-to-collections/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

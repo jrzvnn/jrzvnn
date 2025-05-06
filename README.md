@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Is this the color of success?](http://9gag.com/gag/a4P2L06)
+ - 😝 [Incredible india](http://9gag.com/gag/aByGYjD)
+ - 💣 [In 2017, Shreya Siddanagowder, who lost her arms in an accident, received Asia\u2019s first above-elbow hand transplant. The donor was a brain-dead youth named Sachin. His dark, masculine hands turned fairer and feminine over time as they adopted to her body](http://9gag.com/gag/aD2VmVK)
  - 😝 [Post some examples yo](http://9gag.com/gag/aZZjNdV)
- - 😝 [In 2017, Shreya Siddanagowder, who lost her arms in an accident, received Asia\u2019s first above-elbow hand transplant. The donor was a brain-dead youth named Sachin. His dark, masculine hands turned fairer and feminine over time as they adopted to her body](http://9gag.com/gag/aD2VmVK)
- - 💣 [Incredible india](http://9gag.com/gag/aByGYjD)
- - 😝 [Homefront](http://9gag.com/gag/aQzZnyz)
- - 👉 [Man of Culture](http://9gag.com/gag/aGyAwWG)<!-- MEMES:END -->
+ - 👉 [Homefront](http://9gag.com/gag/aQzZnyz)<!-- MEMES:END -->
 
 ---
 

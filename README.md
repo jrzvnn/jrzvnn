@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That\u2019s a lot of packaging for 5 tiny allergy pills](http://9gag.com/gag/aW4bO86)
- - 😝 [Something to drink?](http://9gag.com/gag/amoM84o)
- - 💣 [Just where is this dentist office?](http://9gag.com/gag/aQzZ8z7)
- - 😝 [There is another](http://9gag.com/gag/aRBoAP7)
- - 👉 [Just don\u2019t tell your mom](http://9gag.com/gag/a9y2PZ0)<!-- MEMES:END -->
+ - 😝 [The original video](http://9gag.com/gag/aAy2p4Z)
+ - 😝 [He\u2019s totally sober\u2026](http://9gag.com/gag/apRbLwB)
+ - 💣 [In 2017, Shreya Siddanagowder, who lost her arms in an accident, received Asia\u2019s first above-elbow hand transplant. The donor was a brain-dead youth named Sachin. His dark, masculine hands turned fairer and feminine over time as they adopted to her body](http://9gag.com/gag/aD2VmVK)
+ - 😝 [Just look at them](http://9gag.com/gag/aKGeBQ1)
+ - 👉 [Homefront](http://9gag.com/gag/aQzZnyz)<!-- MEMES:END -->
 
 ---
 

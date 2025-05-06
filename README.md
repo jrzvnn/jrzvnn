@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cake](http://9gag.com/gag/a5Q277y)
- - 😝 [Oof size : Large](http://9gag.com/gag/a342LE3)
- - 💣 [Woke up early today...](http://9gag.com/gag/ajPZDO1)
- - 😝 [I see this as a absolutely win](http://9gag.com/gag/a5Q2PLV)
- - 👉 [A father and daughter duo just did one of the best covers](http://9gag.com/gag/aVvLP9P)<!-- MEMES:END -->
+ - 😝 [What happens when you drop a hotdog in acid?](http://9gag.com/gag/aVvLQrw)
+ - 😝 [Post some examples yo](http://9gag.com/gag/aZZjNdV)
+ - 💣 [There is another](http://9gag.com/gag/aRBoAP7)
+ - 😝 [Something to drink?](http://9gag.com/gag/amoM84o)
+ - 👉 [Just look at them](http://9gag.com/gag/aKGeBQ1)<!-- MEMES:END -->
 
 ---
 

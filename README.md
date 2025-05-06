@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google unveils AI Max for Search ad campaigns, a suite of AI-powered targeting and creative enhancements, rolling out to advertisers in beta later this month &lpar;Kendra Barnett/Adweek&rpar;](http://www.techmeme.com/250506/p31#a250506p31)
+ - [Kindle adds &#39;Get Book&#39; buy button to where it always belonged](https://appleinsider.com/articles/25/05/06/kindle-adds-get-book-buy-button-to-where-it-always-belonged?utm_medium=rss)
  - [Environmental groups: xAI&#39;s Memphis plant now has ~35 gas turbines, and xAI has no Clean Air Act permits; Elon Musk said turbines were necessary to train Grok 3 &lpar;Ariel Wittenberg/Politico&rpar;](http://www.techmeme.com/250506/p30#a250506p30)
- - [Sonos and Ikea are ending their partnership](https://www.theverge.com/news/661491/sonos-ikea-symfonisk-discontinued)
- - [NBC will use Jim Fagan’s AI-generated voice for NBA coverage](https://www.theverge.com/news/661911/nbc-nba-jim-fagan-ai-generated-voice-narration)
- - [Amazon launches M4 MacBook Pro deals &lpar;up to $370 off&rpar; amid price hike fears](https://appleinsider.com/articles/25/05/06/amazon-launches-m4-macbook-pro-deals-up-to-370-off-amid-price-hike-fears?utm_medium=rss)
- - [Google updates its iOS app to add a &quot;Simplify&quot; feature to simplify complex text in a Search result or Discover article, powered by its Gemini 1.5 models &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250506/p29#a250506p29)<!-- TECH:END -->
+ - [New Smaller, Lighter, Cheaper Surface Pro and Surface Laptop Arrive Soon](https://www.cnet.com/tech/computing/microsoft-unveils-smaller-surface-pro-and-surface-laptop-units/#ftag=CAD590a51e)
+ - [Sonos and Ikea are ending their partnership](https://www.theverge.com/news/661491/sonos-ikea-symfonisk-discontinued)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

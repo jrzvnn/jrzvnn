@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sonos and Ikea break up, but software updates will continue for Symfonisk hardware](https://appleinsider.com/articles/25/05/06/sonos-and-ikea-break-up-but-software-updates-will-continue-for-symfonisk-hardware?utm_medium=rss)
+ - [Be careful what you read about an Elden Ring movie](https://www.theverge.com/news/662200/elden-ring-movie-nexus-point-news-be-careful)
  - [Patreon rolls out an updated version of its iOS app that lets users make purchases via the web in addition to using in-app purchases &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250506/p44#a250506p44)
  - [DOJ’s proposed Google changes would ‘deeply undermine user trust,’ search chief says](https://www.theverge.com/policy/662198/doj-google-antitrust-trial-search-chief-privacy)
- - [A US jury awards Meta nearly $168M in damages from NSO Group in connection with the 2019 spyware attack on more than 1,400 WhatsApp users&#39; phones &lpar;Matt Simons/Courthouse News Service&rpar;](http://www.techmeme.com/250506/p43#a250506p43)
- - [The best Android phones](https://www.theverge.com/23674658/best-android-phone)
- - [Super Micro reports Q3 revenue up 19% YoY to $4.6B, vs. $5.01B est., and lowers its FY 2025 sales forecast below est. due to economic uncertainty and tariffs &lpar;Connor Hart/Wall Street Journal&rpar;](http://www.techmeme.com/250506/p42#a250506p42)<!-- TECH:END -->
+ - [A US jury awards Meta nearly $168M in damages from NSO Group in connection with the 2019 spyware attack on more than 1,400 WhatsApp users&#39; phones &lpar;Matt Simons/Courthouse News Service&rpar;](http://www.techmeme.com/250506/p43#a250506p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

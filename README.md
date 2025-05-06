@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Orca AI, which offers an autonomous shipping navigation service based on a dataset of 80M+ nautical miles, raised a $72.5M Series B, after raising $23M in 2024 &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/250506/p12#a250506p12)
  - [Wonder, which runs Grubhub and Blue Apron, raised $600M led by NEA, a source says at a $7B+ valuation, and CEO Marc Lore says it has $2B+ in revenue &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250506/p11#a250506p11)
  - [India AirPods manufacturer plans second plant](https://appleinsider.com/articles/25/05/06/india-airpods-manufacturer-plans-second-plant?utm_medium=rss)
  - [US data center operators say President Trump&#39;s attack on renewable energy could hurt the US in the AI race; data centers are set to add 83.7GW of demand by 2030 &lpar;Martha Muir/Financial Times&rpar;](http://www.techmeme.com/250506/p10#a250506p10)
- - [DoorDash plans to acquire New York-based hospitality tech company SevenRooms for $1.2B in cash, set to close in H2 2025; SevenRooms works with 13,000+ clients &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250506/p9#a250506p9)
- - [US v. Google: the DOJ says in a May 5 filing that Google should sell its AdX business and DFP ad platform; Google says divestiture isn&#39;t warranted or feasible &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250506/p8#a250506p8)<!-- TECH:END -->
+ - [DoorDash plans to acquire New York-based hospitality tech company SevenRooms for $1.2B in cash, set to close in H2 2025; SevenRooms works with 13,000+ clients &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250506/p9#a250506p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

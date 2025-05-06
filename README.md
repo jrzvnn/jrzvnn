@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I see this as a absolutely win](http://9gag.com/gag/a5Q2PLV)
- - 😝 [They&#39;re always fighting in their minds. NMP](http://9gag.com/gag/aXPWw76)
- - 💣 [Reality](http://9gag.com/gag/a1m2MB8)
- - 😝 [A father and daughter duo just did one of the best covers](http://9gag.com/gag/aVvLP9P)
- - 👉 [Woke up early today...](http://9gag.com/gag/ajPZDO1)<!-- MEMES:END -->
+ - 😝 [Just where is this dentist office?](http://9gag.com/gag/aQzZ8z7)
+ - 😝 [Something to drink?](http://9gag.com/gag/amoM84o)
+ - 💣 [Incredible india](http://9gag.com/gag/aByGYjD)
+ - 😝 [Post some examples yo](http://9gag.com/gag/aZZjNdV)
+ - 👉 [In 2017, Shreya Siddanagowder, who lost her arms in an accident, received Asia\u2019s first above-elbow hand transplant. The donor was a brain-dead youth named Sachin. His dark, masculine hands turned fairer and feminine over time as they adopted to her body](http://9gag.com/gag/aD2VmVK)<!-- MEMES:END -->
 
 ---
 

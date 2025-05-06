@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The new flying ID restrictions are here, and they’re a mess](https://www.theverge.com/privacy/661475/real-id-act-deadline-may-7-tsa-dmv)
+ - [Pro-Ject Flatten It Review: Finally, a Way to Fix Warped Records](https://www.wired.com/review/pro-ject-flatten-it/)
+ - [Unblocked, an AI-powered tool that helps devs understand codebases by answering contextual questions, raised a $20M Series A from B Capital and Radical Ventures &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250506/p25#a250506p25)
  - [Five new family-centric games debut on Apple Arcade in June](https://appleinsider.com/articles/25/05/06/five-new-family-centric-games-debut-on-apple-arcade-in-june?utm_medium=rss)
- - [Xbox is selling a lot of games on PlayStation](https://www.theverge.com/news/661814/xbox-best-selling-games-ps5-oblivion-minecraft)
- - [Smeg Soda Maker SKC01 Review: Beauty and Bubbles](https://www.wired.com/review/smeg-soda-maker-skc01/)
- - [Developers will have a hard time getting App Store users to buy directly](https://appleinsider.com/articles/25/05/06/developers-will-have-a-hard-time-getting-app-store-users-to-buy-directly?utm_medium=rss)
- - [Lowest price ever: Save 27% on this Asus ProArt 32-inch display for your Mac](https://appleinsider.com/articles/25/05/06/lowest-price-ever-save-27-on-this-asus-proart-32-inch-display-for-your-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Xbox is selling a lot of games on PlayStation](https://www.theverge.com/news/661814/xbox-best-selling-games-ps5-oblivion-minecraft)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

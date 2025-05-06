@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Ford Chief EV, Digital, and Design Officer Doug Field on canceling the FNV4 vehicle networking project and using domain-style system instead &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250506/p5#a250506p5)
+ - [The US Treasury Department sanctions the Myanmar-linked Karen National Army over helping organized crime groups operate multibillion-dollar &quot;scam compounds&quot; &lpar;Ramsey Al-Rikabi/Bloomberg&rpar;](http://www.techmeme.com/250506/p4#a250506p4)
+ - [The Future of Manufacturing Might Be in Space](https://www.wired.com/story/why-the-future-of-manufacturing-might-be-in-space/)
  - [Microsoft shut down Skype on May 5, capping a remarkable 21-year run for a software that for many embodied the open internet and hit 300M+ users in its heyday &lpar;Leo Sands/Washington Post&rpar;](http://www.techmeme.com/250506/p3#a250506p3)
- - [Best Early Memorial Day Mattress Deals &lpar;2025&rpar;](https://www.wired.com/story/best-early-memorial-day-mattress-sales/)
- - [US Border Agents Are Asking for Help Taking Photos of Everyone Entering the Country by Car](https://www.wired.com/story/cbp-photo-everyone-in-vehicle-us-border/)
- - [DoorDash agrees to acquire UK food delivery company Deliveroo in a £2.9B cash deal; Deliveroo has struggled since its London IPO in March 2021 &lpar;Financial Times&rpar;](http://www.techmeme.com/250506/p2#a250506p2)
- - [A look at the challenges for mobile telecom operators in the UK, as Revolut, UK holding company Octopus, and others plan new MVNO offerings &lpar;Financial Times&rpar;](http://www.techmeme.com/250506/p1#a250506p1)<!-- TECH:END -->
+ - [Best Early Memorial Day Mattress Deals &lpar;2025&rpar;](https://www.wired.com/story/best-early-memorial-day-mattress-sales/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

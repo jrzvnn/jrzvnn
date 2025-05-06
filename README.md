@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EA reports Q4 net bookings up 8% YoY to $1.8B, vs. $1.56B est., and forecasts FY 2026 bookings above estimates; EA jumps 5%+ after hours &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250506/p40#a250506p40)
  - [AMD reports Q1 revenue up 36% YoY to $7.4B, vs. $7.12B est., Data Center revenue up 57% to $3.7B, vs. $3.66B est., and forecasts Q2 sales above estimates &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250506/p39#a250506p39)
  - [The CFTC has moved to drop its appeal of a federal judge&#39;s ruling that had allowed Kalshi to take bets on the outcome of US political elections &lpar;CNBC&rpar;](http://www.techmeme.com/250506/p38#a250506p38)
  - [The Signal Clone Mike Waltz Was Caught Using Has Direct Access to User Chats](https://www.wired.com/story/tm-signal-telemessage-plaintext-message-archive/)
- - [Microsoft officially removes VR and MR support for Minecraft, after announcing its plans to sunset it in October of last year &lpar;Mark Hachman/PCWorld&rpar;](http://www.techmeme.com/250506/p37#a250506p37)
- - [Google&amp;#8217;s Android battery health indicator is only for the newest Pixels](https://www.theverge.com/news/662129/google-android-16-battery-health)<!-- TECH:END -->
+ - [Microsoft officially removes VR and MR support for Minecraft, after announcing its plans to sunset it in October of last year &lpar;Mark Hachman/PCWorld&rpar;](http://www.techmeme.com/250506/p37#a250506p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

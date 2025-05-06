@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: TM SGNL, TeleMessage&#39;s modified version of Signal used by senior Trump officials, could send plaintext chat logs to TeleMessage&#39;s archive server &lpar;Micah Lee/micahflee&rpar;](http://www.techmeme.com/250506/p45#a250506p45)
  - [Sonos and Ikea break up, but software updates will continue for Symfonisk hardware](https://appleinsider.com/articles/25/05/06/sonos-and-ikea-break-up-but-software-updates-will-continue-for-symfonisk-hardware?utm_medium=rss)
  - [Be careful what you read about an Elden Ring movie](https://www.theverge.com/news/662200/elden-ring-movie-nexus-point-news-be-careful)
  - [Patreon rolls out an updated version of its iOS app that lets users make purchases via the web in addition to using in-app purchases &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250506/p44#a250506p44)
- - [DOJ’s proposed Google changes would ‘deeply undermine user trust,’ search chief says](https://www.theverge.com/policy/662198/doj-google-antitrust-trial-search-chief-privacy)
- - [A US jury awards Meta nearly $168M in damages from NSO Group in connection with the 2019 spyware attack on more than 1,400 WhatsApp users&#39; phones &lpar;Matt Simons/Courthouse News Service&rpar;](http://www.techmeme.com/250506/p43#a250506p43)<!-- TECH:END -->
+ - [DOJ’s proposed Google changes would ‘deeply undermine user trust,’ search chief says](https://www.theverge.com/policy/662198/doj-google-antitrust-trial-search-chief-privacy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

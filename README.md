@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US Border Agents Are Asking for Help Taking Photos of Everyone Entering the Country by Car](https://www.wired.com/story/cbp-photo-everyone-in-vehicle-us-border/)
  - [DoorDash agrees to acquire UK food delivery company Deliveroo in a £2.9B cash deal; Deliveroo has struggled since its London IPO in March 2021 &lpar;Financial Times&rpar;](http://www.techmeme.com/250506/p2#a250506p2)
  - [A look at the challenges for mobile telecom operators in the UK, as Revolut, UK holding company Octopus, and others plan new MVNO offerings &lpar;Financial Times&rpar;](http://www.techmeme.com/250506/p1#a250506p1)
  - [Dyson Promo Codes: 20% Off | May 2025](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
- - [Groupon Promo Codes: 25% Off | May 2025](https://www.wired.com/story/groupon-promo-code/)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, May 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-may-6/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Groupon Promo Codes: 25% Off | May 2025](https://www.wired.com/story/groupon-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

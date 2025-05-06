@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woke up early today...](http://9gag.com/gag/ajPZDO1)
- - 😝 [Even commercials in Europe look like a Netflix series these days.](http://9gag.com/gag/aE0DR1O)
- - 💣 [They&#39;re always fighting in their minds. NMP](http://9gag.com/gag/aXPWw76)
- - 😝 [Incredible india](http://9gag.com/gag/aByGYjD)
- - 👉 [Not an old meme but still old but gold](http://9gag.com/gag/a6Z2MVq)<!-- MEMES:END -->
+ - 😝 [In 2017, Shreya Siddanagowder, who lost her arms in an accident, received Asia\u2019s first above-elbow hand transplant. The donor was a brain-dead youth named Sachin. His dark, masculine hands turned fairer and feminine over time as they adopted to her body](http://9gag.com/gag/aD2VmVK)
+ - 😝 [Indian railways finds a clever way to stop people from traveling without tickets.](http://9gag.com/gag/ajPZqW1)
+ - 💣 [Between 1915 and 1926, a mysterious illness swept the world. Victims of Encephalitis Lethargica fell into deep sleep, then woke unable to move or speak. Half a million died or became trapped in their bodies. No one knows what caused it. It hasn&#39;t come back.](http://9gag.com/gag/ajPZAZx)
+ - 😝 [What game is that?](http://9gag.com/gag/aoyLpRe)
+ - 👉 [Both? Yes, both is good](http://9gag.com/gag/a1m2XAP)<!-- MEMES:END -->
 
 ---
 

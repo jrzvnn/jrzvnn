@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Cake](http://9gag.com/gag/a5Q277y)
  - 😝 [Oof size : Large](http://9gag.com/gag/a342LE3)
- - 💣 [UK waking up to the reality of Grooming Gangs.](http://9gag.com/gag/aZZjMr3)
- - 😝 [Reality](http://9gag.com/gag/a1m2MB8)
- - 👉 [I see this as a absolutely win](http://9gag.com/gag/a5Q2PLV)<!-- MEMES:END -->
+ - 💣 [Reality](http://9gag.com/gag/a1m2MB8)
+ - 😝 [Good idea for older people](http://9gag.com/gag/a0e1j3n)
+ - 👉 [A father and daughter duo just did one of the best covers](http://9gag.com/gag/aVvLP9P)<!-- MEMES:END -->
 
 ---
 

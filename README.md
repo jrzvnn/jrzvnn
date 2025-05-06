@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A father and daughter duo just did one of the best covers](http://9gag.com/gag/aVvLP9P)
- - 😝 [N-word Etiquette](http://9gag.com/gag/a1m2XgD)
- - 💣 [I wonder what will happen to Japan if these folks invade.](http://9gag.com/gag/aYQqK4O)
- - 😝 [Woke up early today...](http://9gag.com/gag/ajPZDO1)
- - 👉 [They&#39;re always fighting in their minds. NMP](http://9gag.com/gag/aXPWw76)<!-- MEMES:END -->
+ - 😝 [That\u2019s a lot of packaging for 5 tiny allergy pills](http://9gag.com/gag/aW4bO86)
+ - 😝 [Something to drink?](http://9gag.com/gag/amoM84o)
+ - 💣 [Just where is this dentist office?](http://9gag.com/gag/aQzZ8z7)
+ - 😝 [There is another](http://9gag.com/gag/aRBoAP7)
+ - 👉 [Just don\u2019t tell your mom](http://9gag.com/gag/a9y2PZ0)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Consumer Reports&#39; Dan Wroclawski joins HomeKit Insider to talk about testing smart home devices](https://appleinsider.com/articles/25/05/06/consumer-reports-dan-wroclawski-joins-homekit-insider-to-talk-about-testing-smart-home-devices?utm_medium=rss)
+ - [DOJ asks court to split up Google&amp;#8217;s ad tech empire](https://www.theverge.com/news/661833/google-ad-tech-business-doj-break-up)
  - [Google&#39;s default search payments to Apple at risk in antitrust lawsuit](https://appleinsider.com/articles/25/05/06/googles-default-search-payments-to-apple-at-risk-in-antitrust-lawsuit?utm_medium=rss)
  - [Nvidia will release its $299 RTX 5060 on May 19th](https://www.theverge.com/news/661807/nvidia-rtx-5060-cards-laptops-release-date-price)
- - [Statsig, which offers a cloud tool for companies to streamline A/B testing of apps and websites, raised a $100M Series C led by Iconiq at a $1.1B valuation &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250506/p24#a250506p24)
- - [How to Use Your Smartphone to Cope With Hearing Loss &lpar;2025&rpar;: Tips for iPhone, Android](https://www.wired.com/story/smartphone-features-deaf-hard-of-hearing/)
- - [Cadillac Celestiq first drive: the bespoke, $360,000 EV is here](https://www.theverge.com/gm-general-motors/661569/cadillac-celestiq-first-drive-ev-bespoke-luxury-price)<!-- TECH:END -->
+ - [Statsig, which offers a cloud tool for companies to streamline A/B testing of apps and websites, raised a $100M Series C led by Iconiq at a $1.1B valuation &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250506/p24#a250506p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

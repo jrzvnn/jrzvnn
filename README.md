@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At the party...](http://9gag.com/gag/a4P2jE1)
- - 😝 [How to calm a baby](http://9gag.com/gag/avyRP1X)
- - 💣 [Just don\u2019t tell your mom](http://9gag.com/gag/a9y2PZ0)
- - 😝 [In 2017, Shreya Siddanagowder, who lost her arms in an accident, received Asia\u2019s first above-elbow hand transplant. The donor was a brain-dead youth named Sachin. His dark, masculine hands turned fairer and feminine over time as they adopted to her body](http://9gag.com/gag/aD2VmVK)
- - 👉 [I&#39;ll be able to financially recover from this](http://9gag.com/gag/a5Q2Kpy)<!-- MEMES:END -->
+ - 😝 [A father and daughter duo just did one of the best covers](http://9gag.com/gag/aVvLP9P)
+ - 😝 [N-word Etiquette](http://9gag.com/gag/a1m2XgD)
+ - 💣 [I wonder what will happen to Japan if these folks invade.](http://9gag.com/gag/aYQqK4O)
+ - 😝 [Woke up early today...](http://9gag.com/gag/ajPZDO1)
+ - 👉 [They&#39;re always fighting in their minds. NMP](http://9gag.com/gag/aXPWw76)<!-- MEMES:END -->
 
 ---
 

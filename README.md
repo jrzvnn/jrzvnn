@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta awarded $167.25 million over Pegasus spyware attack](https://www.theverge.com/news/662242/meta-nso-group-pegasus-whatsapp-hack-damages)
+ - [Uber and Chinese company Pony.ai partner to deploy Pony.ai&#39;s robotaxis on Uber&#39;s platform, starting with a launch in &quot;a key market in the Middle East&quot; in 2025 &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250506/p46#a250506p46)
  - [Analysis: TM SGNL, TeleMessage&#39;s modified version of Signal used by senior Trump officials, could send plaintext chat logs to TeleMessage&#39;s archive server &lpar;Micah Lee/micahflee&rpar;](http://www.techmeme.com/250506/p45#a250506p45)
  - [Sonos and Ikea break up, but software updates will continue for Symfonisk hardware](https://appleinsider.com/articles/25/05/06/sonos-and-ikea-break-up-but-software-updates-will-continue-for-symfonisk-hardware?utm_medium=rss)
- - [Be careful what you read about an Elden Ring movie](https://www.theverge.com/news/662200/elden-ring-movie-nexus-point-news-be-careful)
- - [Patreon rolls out an updated version of its iOS app that lets users make purchases via the web in addition to using in-app purchases &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250506/p44#a250506p44)
- - [DOJ’s proposed Google changes would ‘deeply undermine user trust,’ search chief says](https://www.theverge.com/policy/662198/doj-google-antitrust-trial-search-chief-privacy)<!-- TECH:END -->
+ - [Be careful what you read about an Elden Ring movie](https://www.theverge.com/news/662200/elden-ring-movie-nexus-point-news-be-careful)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

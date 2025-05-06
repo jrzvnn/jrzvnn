@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There is another](http://9gag.com/gag/aRBoAP7)
- - 😝 [Mama&#39;s hungry](http://9gag.com/gag/a872jPO)
- - 💣 [Incredible india](http://9gag.com/gag/aByGYjD)
- - 😝 [Homefront](http://9gag.com/gag/aQzZnyz)
- - 👉 [Zero survival instincts](http://9gag.com/gag/ajPZDGw)<!-- MEMES:END -->
+ - 😝 [Even commercials in Europe look like a Netflix series these days.](http://9gag.com/gag/aE0DR1O)
+ - 😝 [N-word Etiquette](http://9gag.com/gag/a1m2XgD)
+ - 💣 [Woke up early today...](http://9gag.com/gag/ajPZDO1)
+ - 😝 [What did he expect?](http://9gag.com/gag/aKGeqZg)
+ - 👉 [They&#39;re always fighting in their minds. NMP](http://9gag.com/gag/aXPWw76)<!-- MEMES:END -->
 
 ---
 

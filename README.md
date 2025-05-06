@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cake](http://9gag.com/gag/a5Q277y)
- - 😝 [Oof size : Large](http://9gag.com/gag/a342LE3)
- - 💣 [Reality](http://9gag.com/gag/a1m2MB8)
- - 😝 [Good idea for older people](http://9gag.com/gag/a0e1j3n)
- - 👉 [A father and daughter duo just did one of the best covers](http://9gag.com/gag/aVvLP9P)<!-- MEMES:END -->
+ - 😝 [Homefront](http://9gag.com/gag/aQzZnyz)
+ - 😝 [How to calm a baby](http://9gag.com/gag/avyRP1X)
+ - 💣 [Anyone find some pics or video yet?](http://9gag.com/gag/abABbwE)
+ - 😝 [Having more dei will solve the problem](http://9gag.com/gag/a4P2jzZ)
+ - 👉 [Reality](http://9gag.com/gag/a1m2MB8)<!-- MEMES:END -->
 
 ---
 

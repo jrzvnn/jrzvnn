@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why are these kinds of teachers did not show up when I was at school ?](http://9gag.com/gag/axyRG8n)
- - 😝 [Incredible india](http://9gag.com/gag/aByGYjD)
- - 💣 [In 2017, Shreya Siddanagowder, who lost her arms in an accident, received Asia\u2019s first above-elbow hand transplant. The donor was a brain-dead youth named Sachin. His dark, masculine hands turned fairer and feminine over time as they adopted to her body](http://9gag.com/gag/aD2VmVK)
- - 😝 [We need to stand together to cancel his role](http://9gag.com/gag/an7EXDn)
- - 👉 [There is another](http://9gag.com/gag/aRBoAP7)<!-- MEMES:END -->
+ - 😝 [Cake](http://9gag.com/gag/a5Q277y)
+ - 😝 [Oof size : Large](http://9gag.com/gag/a342LE3)
+ - 💣 [UK waking up to the reality of Grooming Gangs.](http://9gag.com/gag/aZZjMr3)
+ - 😝 [Reality](http://9gag.com/gag/a1m2MB8)
+ - 👉 [I see this as a absolutely win](http://9gag.com/gag/a5Q2PLV)<!-- MEMES:END -->
 
 ---
 

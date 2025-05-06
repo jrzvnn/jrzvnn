@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, May 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-may-6/#ftag=CAD590a51e)
  - [How to lock screen rotation on iPad &amp; avoid constant flipping](https://appleinsider.com/inside/ipad/tips/how-to-lock-screen-rotation-on-ipad-avoid-constant-flipping?utm_medium=rss)
  - [Sensor Tower: Shein&#39;s ad spend rose 35% MoM in France and the UK in April, while Temu&#39;s jumped 40% MoM and 20% MoM respectively, amid Trump&#39;s de minimis ban &lpar;Arriana McLymore/Reuters&rpar;](http://www.techmeme.com/250505/p26#a250505p26)
  - [Sources: Microsoft remains the biggest holdout among investors in OpenAI&#39;s restructuring, and is seeking assurance that changes will protect its $13.75B stake &lpar;Bloomberg&rpar;](http://www.techmeme.com/250505/p25#a250505p25)
- - [Waymo&#39;s Self-Driving Cars Are in a Growing Number of Cities. Here&#39;s Everything to Know](https://www.cnet.com/roadshow/news/waymos-self-driving-cars-are-in-a-growing-number-of-cities-heres-everything-to-know/#ftag=CAD590a51e)
- - [Sources: OpenAI reaches an agreement to buy Windsurf, an AI coding tool formerly known as Codeium, for about $3B; the deal has not yet closed &lpar;Bloomberg&rpar;](http://www.techmeme.com/250505/p24#a250505p24)<!-- TECH:END -->
+ - [Waymo&#39;s Self-Driving Cars Are in a Growing Number of Cities. Here&#39;s Everything to Know](https://www.cnet.com/roadshow/news/waymos-self-driving-cars-are-in-a-growing-number-of-cities-heres-everything-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

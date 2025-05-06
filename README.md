@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Having more dei will solve the problem](http://9gag.com/gag/a4P2jzZ)
+ - 😝 [What happens when you drop a hotdog in acid?](http://9gag.com/gag/aVvLQrw)
  - 😝 [Well well well, how the turn tables](http://9gag.com/gag/aVvLQ9O)
- - 💣 [There is another](http://9gag.com/gag/aRBoAP7)
- - 😝 [Anyone find some pics or video yet?](http://9gag.com/gag/abABbwE)
- - 👉 [Incredible india](http://9gag.com/gag/aByGYjD)<!-- MEMES:END -->
+ - 💣 [Incredible india](http://9gag.com/gag/aByGYjD)
+ - 😝 [There is another](http://9gag.com/gag/aRBoAP7)
+ - 👉 [Just look at them](http://9gag.com/gag/aKGeBQ1)<!-- MEMES:END -->
 
 ---
 

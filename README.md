@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An AWS survey of 3,739 senior IT decision-makers across nine countries finds 45% plan to prioritize spending on generative AI in 2025, and 30% on cybersecurity &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250506/p49#a250506p49)
  - [&#39;Fortnite&#39; could return to the US App Store by Friday](https://appleinsider.com/articles/25/05/06/fortnite-could-return-to-the-us-app-store-by-friday?utm_medium=rss)
  - [Senate Dems propose ban on presidents investing or endorsing crypto assets](https://www.theverge.com/news/662313/meme-coin-stablecoin-genius-act-corruption-trump)
  - [Amazon’s Zoox issued a robotaxi software recall after a crash in Las Vegas](https://www.theverge.com/news/662321/amazon-zoox-recall-robotaxi-las-vegas-crash-software-fix)
- - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
- - [Sources: Legora, whose AI software helps lawyers draft contracts, review and analyze documents, and more, is in talks to raise $85M at a $675M valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/250506/p48#a250506p48)<!-- TECH:END -->
+ - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

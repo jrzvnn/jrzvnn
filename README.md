@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well well well, how the turn tables](http://9gag.com/gag/aVvLQ9O)
+ - 😝 [How to calm a baby](http://9gag.com/gag/avyRP1X)
  - 😝 [In 2017, Shreya Siddanagowder, who lost her arms in an accident, received Asia\u2019s first above-elbow hand transplant. The donor was a brain-dead youth named Sachin. His dark, masculine hands turned fairer and feminine over time as they adopted to her body](http://9gag.com/gag/aD2VmVK)
- - 💣 [Post some examples yo](http://9gag.com/gag/aZZjNdV)
- - 😝 [There is another](http://9gag.com/gag/aRBoAP7)
- - 👉 [Remembering this from the lockdown](http://9gag.com/gag/a7o2b0z)<!-- MEMES:END -->
+ - 💣 [Well well well, how the turn tables](http://9gag.com/gag/aVvLQ9O)
+ - 😝 [9gaggers dream..ohh wait](http://9gag.com/gag/aZZjMXV)
+ - 👉 [Incredible india](http://9gag.com/gag/aByGYjD)<!-- MEMES:END -->
 
 ---
 

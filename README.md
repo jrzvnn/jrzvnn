@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [India VS Pakistan. Officially, war started now !](http://9gag.com/gag/a2v2rxZ)
- - 😝 [In 2017, Shreya Siddanagowder, who lost her arms in an accident, received Asia\u2019s first above-elbow hand transplant. The donor was a brain-dead youth named Sachin. His dark, masculine hands turned fairer and feminine over time as they adopted to her body](http://9gag.com/gag/aD2VmVK)
- - 💣 [Both? Yes, both is good](http://9gag.com/gag/a1m2XAP)
- - 😝 [Just where is this dentist office?](http://9gag.com/gag/aQzZ8z7)
- - 👉 [Just look at them](http://9gag.com/gag/aKGeBQ1)<!-- MEMES:END -->
+ - 😝 [Woke up early today...](http://9gag.com/gag/ajPZDO1)
+ - 😝 [Even commercials in Europe look like a Netflix series these days.](http://9gag.com/gag/aE0DR1O)
+ - 💣 [They&#39;re always fighting in their minds. NMP](http://9gag.com/gag/aXPWw76)
+ - 😝 [Incredible india](http://9gag.com/gag/aByGYjD)
+ - 👉 [Not an old meme but still old but gold](http://9gag.com/gag/a6Z2MVq)<!-- MEMES:END -->
 
 ---
 

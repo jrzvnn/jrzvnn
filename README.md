@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia will release its RTX 5060 on May 19th](https://www.theverge.com/news/661807/nvidia-rtx-5060-cards-laptops-release-date-price)
+ - [Google&#39;s default search payments to Apple at risk in antitrust lawsuit](https://appleinsider.com/articles/25/05/06/googles-default-search-payments-to-apple-at-risk-in-antitrust-lawsuit?utm_medium=rss)
+ - [Nvidia will release its $299 RTX 5060 on May 19th](https://www.theverge.com/news/661807/nvidia-rtx-5060-cards-laptops-release-date-price)
  - [Statsig, which offers a cloud tool for companies to streamline A/B testing of apps and websites, raised a $100M Series C led by Iconiq at a $1.1B valuation &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250506/p24#a250506p24)
  - [How to Use Your Smartphone to Cope With Hearing Loss &lpar;2025&rpar;: Tips for iPhone, Android](https://www.wired.com/story/smartphone-features-deaf-hard-of-hearing/)
- - [Cadillac Celestiq first drive: the bespoke, $360,000 EV is here](https://www.theverge.com/gm-general-motors/661569/cadillac-celestiq-first-drive-ev-bespoke-luxury-price)
- - [Grand Theft Auto VI’s second trailer sets up its Bonnie and Clyde story](https://www.theverge.com/news/24235732/gta-6-grand-theft-auto-trailer)<!-- TECH:END -->
+ - [Cadillac Celestiq first drive: the bespoke, $360,000 EV is here](https://www.theverge.com/gm-general-motors/661569/cadillac-celestiq-first-drive-ev-bespoke-luxury-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

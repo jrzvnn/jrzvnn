@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon’s Zoox issued a robotaxi software recall after a crash in Las Vegas](https://www.theverge.com/news/662321/amazon-zoox-recall-robotaxi-las-vegas-crash-software-fix)
+ - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
  - [Sources: Legora, whose AI software helps lawyers draft contracts, review and analyze documents, and more, is in talks to raise $85M at a $675M valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/250506/p48#a250506p48)
  - [Meta awarded $167.25 million over Pegasus spyware attack](https://www.theverge.com/news/662242/meta-nso-group-pegasus-whatsapp-hack-damages)
- - [Chainalysis: ~2M wallets have bought the $TRUMP memecoin, of which ~764,000 wallets have lost money and 58 have made over $10M each, totaling ~$1.1B in profits &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250506/p47#a250506p47)
- - [Uber and Chinese company Pony.ai partner to deploy Pony.ai&#39;s robotaxis on Uber&#39;s platform, starting with a launch in &quot;a key market in the Middle East&quot; in 2025 &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250506/p46#a250506p46)
- - [Analysis: TM SGNL, TeleMessage&#39;s modified version of Signal used by senior Trump officials, could send plaintext chat logs to TeleMessage&#39;s archive server &lpar;Micah Lee/micahflee&rpar;](http://www.techmeme.com/250506/p45#a250506p45)<!-- TECH:END -->
+ - [Chainalysis: ~2M wallets have bought the $TRUMP memecoin, of which ~764,000 wallets have lost money and 58 have made over $10M each, totaling ~$1.1B in profits &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250506/p47#a250506p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

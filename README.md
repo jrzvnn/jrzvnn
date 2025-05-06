@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft officially removes VR and MR support for Minecraft, after announcing its plans to sunset it in October of last year &lpar;Mark Hachman/PCWorld&rpar;](http://www.techmeme.com/250506/p37#a250506p37)
+ - [Google&amp;#8217;s Android battery health indicator is only for the newest Pixels](https://www.theverge.com/news/662129/google-android-16-battery-health)
+ - [Behind on Student Loan Payments? You&#39;re in Danger of Being Sent to Collections](https://www.cnet.com/personal-finance/loans/behind-on-student-loan-payments-youre-in-danger-of-being-sent-to-collections/#ftag=CAD590a51e)
  - [Minecraft’s VR support is now gone](https://www.theverge.com/news/662128/minecraft-vr-mixed-reality-support-bedrock-update-1-21-80)
- - [New in iOS 18.5: changes to Mail, Screen Time, Pride Harmony wallpaper](https://appleinsider.com/articles/25/05/06/new-in-ios-185-changes-to-mail-screen-time-pride-harmony-wallpaper?utm_medium=rss)
- - [Tulsi Gabbard Reused the Same Weak Password on Multiple Accounts for Years](https://www.wired.com/story/tulsi-gabbard-dni-weak-password/)
- - [The Verge’s 2025 Mother’s Day gift guide](https://www.theverge.com/tech/647527/best-mothers-day-gift-ideas-2025-mom-tech-gadgets)
- - [The 36 Best Shows on Apple TV+ Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)<!-- TECH:END -->
+ - [100 Men vs. 1 Gorilla Viral Question: Who Wins if It&#39;s King Kong?](https://www.cnet.com/culture/entertainment/100-men-vs-1-gorilla-who-wins-if-its-king-kong/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

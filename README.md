@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [RCs of iOS 18.5, macOS 15.5 arrive as updates near release](https://appleinsider.com/articles/25/05/06/rcs-of-ios-185-macos-155-arrive-as-updates-near-release?utm_medium=rss)
+ - [ServiceNow launches ServiceNow CRM to take on Salesforce and automate many common workflow steps and &quot;human middleware&quot; with AI &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/250506/p33#a250506p33)
  - [News reader Particle launches on the web, featuring news headlines and AI summaries, key quotes, links to sources, and reader questions answered by AI &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250506/p32#a250506p32)
  - [Google unveils AI Max for Search ad campaigns, a suite of AI-powered targeting and creative enhancements, rolling out to advertisers in beta later this month &lpar;Kendra Barnett/Adweek&rpar;](http://www.techmeme.com/250506/p31#a250506p31)
- - [Kindle adds &#39;Get Book&#39; buy button to where it always belonged](https://appleinsider.com/articles/25/05/06/kindle-adds-get-book-buy-button-to-where-it-always-belonged?utm_medium=rss)
- - [Environmental groups: xAI&#39;s Memphis plant now has ~35 gas turbines, and xAI has no Clean Air Act permits; Elon Musk said turbines were necessary to train Grok 3 &lpar;Ariel Wittenberg/Politico&rpar;](http://www.techmeme.com/250506/p30#a250506p30)<!-- TECH:END -->
+ - [Kindle adds &#39;Get Book&#39; buy button to where it always belonged](https://appleinsider.com/articles/25/05/06/kindle-adds-get-book-buy-button-to-where-it-always-belonged?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

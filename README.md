@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The original video](http://9gag.com/gag/aAy2p4Z)
- - 😝 [In 2017, Shreya Siddanagowder, who lost her arms in an accident, received Asia\u2019s first above-elbow hand transplant. The donor was a brain-dead youth named Sachin. His dark, masculine hands turned fairer and feminine over time as they adopted to her body](http://9gag.com/gag/aD2VmVK)
- - 💣 [9gaggers dream..ohh wait](http://9gag.com/gag/aZZjMXV)
- - 😝 [Post some examples yo](http://9gag.com/gag/aZZjNdV)
- - 👉 [He\u2019s totally sober\u2026](http://9gag.com/gag/apRbLwB)<!-- MEMES:END -->
+ - 😝 [Even commercials in Europe look like a Netflix series these days.](http://9gag.com/gag/aE0DR1O)
+ - 😝 [Woke up early today...](http://9gag.com/gag/ajPZDO1)
+ - 💣 [What did he expect?](http://9gag.com/gag/aKGeqZg)
+ - 😝 [They&#39;re always fighting in their minds. NMP](http://9gag.com/gag/aXPWw76)
+ - 👉 [Incredible india](http://9gag.com/gag/aByGYjD)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DoorDash reports Q1 revenue up 21% YoY to $3.03B, below $3.09B est., total orders up 18% YoY to 732M, and a $193M net income, up from a $23M loss in Q1 2024 &lpar;Chris Eudaily/CNBC&rpar;](http://www.techmeme.com/250506/p14#a250506p14)
- - [Analysis: 24 crypto wallets earned ~$99.6M by buying the $MELANIA memecoin in the two and a half minutes before Melania Trump unveiled the coin on January 19 &lpar;Financial Times&rpar;](http://www.techmeme.com/250506/p13#a250506p13)
- - [Docker Desktop for macOS vulnerability allows malicious images to be installed](https://appleinsider.com/articles/25/05/06/docker-desktop-for-macos-vulnerability-allows-malicious-images-to-be-installed?utm_medium=rss)
- - [Orca AI, which offers an autonomous shipping navigation service based on a dataset of 80M+ nautical miles, raised a $72.5M Series B, after raising $23M in 2024 &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/250506/p12#a250506p12)
- - [Wonder, which runs Grubhub and Blue Apron, raised $600M led by NEA, a source says at a $7B+ valuation, and CEO Marc Lore says it has $2B+ in revenue &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250506/p11#a250506p11)<!-- TECH:END -->
+ - [Amazon now has a &amp;#8216;Get book&amp;#8217; button in its iOS Kindle app](https://www.theverge.com/news/661719/amazon-app-ios-apple-iphone-ipad-kindle-buy-books)
+ - [Microsoft’s smaller Surface Pro has a 12-inch display and starts at $799](https://www.theverge.com/news/658523/microsoft-surface-pro-12-inch-smaller-specs-release-date)
+ - [Microsoft shrinks its Surface Laptop down to 13 inches, priced at $899](https://www.theverge.com/news/658529/microsoft-surface-laptop-13-inch-specs-release-date)
+ - [Oura adds AI-powered glucose tracking and meal logging](https://www.theverge.com/news/661069/oura-dexcom-stelo-meals-glucose-metabolic-health-wearables)
+ - [Death is the policy](https://www.theverge.com/health/661362/rfk-jr-measles-autism)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

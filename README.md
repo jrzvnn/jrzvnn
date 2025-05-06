@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Even commercials in Europe look like a Netflix series these days.](http://9gag.com/gag/aE0DR1O)
+ - 😝 [A father and daughter duo just did one of the best covers](http://9gag.com/gag/aVvLP9P)
  - 😝 [Woke up early today...](http://9gag.com/gag/ajPZDO1)
- - 💣 [What did he expect?](http://9gag.com/gag/aKGeqZg)
- - 😝 [They&#39;re always fighting in their minds. NMP](http://9gag.com/gag/aXPWw76)
- - 👉 [Incredible india](http://9gag.com/gag/aByGYjD)<!-- MEMES:END -->
+ - 💣 [Even commercials in Europe look like a Netflix series these days.](http://9gag.com/gag/aE0DR1O)
+ - 😝 [What did he expect?](http://9gag.com/gag/aKGeqZg)
+ - 👉 [They&#39;re always fighting in their minds. NMP](http://9gag.com/gag/aXPWw76)<!-- MEMES:END -->
 
 ---
 

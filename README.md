@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this the color of success?](http://9gag.com/gag/a4P2L06)
- - 😝 [There is another](http://9gag.com/gag/aRBoAP7)
- - 💣 [Just look at them](http://9gag.com/gag/aKGeBQ1)
- - 😝 [Incredible india](http://9gag.com/gag/aByGYjD)
- - 👉 [Post some examples yo](http://9gag.com/gag/aZZjNdV)<!-- MEMES:END -->
+ - 😝 [They&#39;re always fighting in their minds. NMP](http://9gag.com/gag/aXPWw76)
+ - 😝 [I see this as a absolutely win](http://9gag.com/gag/a5Q2PLV)
+ - 💣 [Reality](http://9gag.com/gag/a1m2MB8)
+ - 😝 [A father and daughter duo just did one of the best covers](http://9gag.com/gag/aVvLP9P)
+ - 👉 [Woke up early today...](http://9gag.com/gag/ajPZDO1)<!-- MEMES:END -->
 
 ---
 

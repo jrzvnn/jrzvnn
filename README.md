@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump’s Tariffs Won’t Make Hollywood Great Again, but There’s a Plan That Can](https://www.wired.com/story/trumps-tariffs-wont-make-hollywood-great-again-but-theres-a-plan-that-can/)
  - [The three most-downloaded PS5 games for April in North America and Europe were all Microsoft titles: Minecraft, the Oblivion remaster, and Forza Horizon 5 &lpar;Andrew Webster/The Verge&rpar;](http://www.techmeme.com/250506/p35#a250506p35)
  - [iPhone 13 gains carrier-provided satellite connectivity in iOS 18.5](https://appleinsider.com/articles/25/05/06/iphone-13-gains-carrier-provided-satellite-connectivity-in-ios-185?utm_medium=rss)
  - [iOS 18.5, macOS 15.5 release candidates arrive](https://appleinsider.com/articles/25/05/06/rcs-of-ios-185-macos-155-arrive-as-updates-near-release?utm_medium=rss)
- - [iRobot’s vacuum-only Roomba j7 is nearly 75 percent off](https://www.theverge.com/tech/661980/irobot-roomba-j7-robot-vacuum-airpods-4-anc-deal-sale)
- - [Amazon&#39;s Zoox says it temporarily paused all driverless vehicle operations after a crash in Las Vegas on April 8 and issued a software recall for 270 robotaxis &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250506/p34#a250506p34)<!-- TECH:END -->
+ - [iRobot’s vacuum-only Roomba j7 is nearly 75 percent off](https://www.theverge.com/tech/661980/irobot-roomba-j7-robot-vacuum-airpods-4-anc-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

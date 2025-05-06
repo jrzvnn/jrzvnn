@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The Verge’s 2025 Mother’s Day gift guide](https://www.theverge.com/tech/647527/best-mothers-day-gift-ideas-2025-mom-tech-gadgets)
+ - [The 36 Best Shows on Apple TV+ Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
  - [An internal Meta report from 2019 found that minors made up 27% of the follow recommendations that Instagram surfaced to &quot;groomers&quot;, vs. 7% to all adults &lpar;Bloomberg&rpar;](http://www.techmeme.com/250506/p36#a250506p36)
  - [The James Webb Telescope Just Zoomed In On A Hot, Haze-Free Exoplanet](https://www.cnet.com/science/space/the-james-webb-telescope-just-zoomed-in-on-a-hot-haze-free-exoplanet/#ftag=CAD590a51e)
- - [Trump’s Tariffs Won’t Make Hollywood Great Again, but There’s a Plan That Can](https://www.wired.com/story/trumps-tariffs-wont-make-hollywood-great-again-but-theres-a-plan-that-can/)
- - [The three most-downloaded PS5 games for April in North America and Europe were all Microsoft titles: Minecraft, the Oblivion remaster, and Forza Horizon 5 &lpar;Andrew Webster/The Verge&rpar;](http://www.techmeme.com/250506/p35#a250506p35)<!-- TECH:END -->
+ - [Trump’s Tariffs Won’t Make Hollywood Great Again, but There’s a Plan That Can](https://www.wired.com/story/trumps-tariffs-wont-make-hollywood-great-again-but-theres-a-plan-that-can/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

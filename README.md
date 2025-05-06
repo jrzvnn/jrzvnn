@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stray Do..., holup.](http://9gag.com/gag/aE0D1WK)
- - 😝 [Post some examples yo](http://9gag.com/gag/aZZjNdV)
- - 💣 [Anyone find some pics or video yet?](http://9gag.com/gag/abABbwE)
- - 😝 [There is another](http://9gag.com/gag/aRBoAP7)
- - 👉 [How I met your mother](http://9gag.com/gag/amoM879)<!-- MEMES:END -->
+ - 😝 [Cake](http://9gag.com/gag/a5Q277y)
+ - 😝 [A father and daughter duo just did one of the best covers](http://9gag.com/gag/aVvLP9P)
+ - 💣 [Oof size : Large](http://9gag.com/gag/a342LE3)
+ - 😝 [Reality](http://9gag.com/gag/a1m2MB8)
+ - 👉 [UK waking up to the reality of Grooming Gangs.](http://9gag.com/gag/aZZjMr3)<!-- MEMES:END -->
 
 ---
 

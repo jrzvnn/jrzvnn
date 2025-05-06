@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Post some examples yo](http://9gag.com/gag/aZZjNdV)
- - 😝 [Twelve days in, and Clair Obscur: Expedition 33 has crossed two million copies sold](http://9gag.com/gag/aAy2wD9)
- - 💣 [Skype has officially shut down](http://9gag.com/gag/ae9mGPj)
- - 😝 [In 2017, Shreya Siddanagowder, who lost her arms in an accident, received Asia\u2019s first above-elbow hand transplant. The donor was a brain-dead youth named Sachin. His dark, masculine hands turned fairer and feminine over time as they adopted to her body](http://9gag.com/gag/aD2VmVK)
- - 👉 [Just where is this dentist office?](http://9gag.com/gag/aQzZ8z7)<!-- MEMES:END -->
+ - 😝 [India VS Pakistan. Officially, war started now !](http://9gag.com/gag/a2v2rxZ)
+ - 😝 [Mama&#39;s hungry](http://9gag.com/gag/a872jPO)
+ - 💣 [In 2017, Shreya Siddanagowder, who lost her arms in an accident, received Asia\u2019s first above-elbow hand transplant. The donor was a brain-dead youth named Sachin. His dark, masculine hands turned fairer and feminine over time as they adopted to her body](http://9gag.com/gag/aD2VmVK)
+ - 😝 [Just where is this dentist office?](http://9gag.com/gag/aQzZ8z7)
+ - 👉 [Skype has officially shut down](http://9gag.com/gag/ae9mGPj)<!-- MEMES:END -->
 
 ---
 

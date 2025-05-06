@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DoorDash plans to acquire New York-based hospitality tech company SevenRooms for $1.2B in cash, set to close in H2 2025; SevenRooms works with 13,000+ clients &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250506/p9#a250506p9)
  - [US v. Google: the DOJ says in a May 5 filing that Google should sell its AdX business and DFP ad platform; Google says divestiture isn&#39;t warranted or feasible &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250506/p8#a250506p8)
+ - [Trump’s Tariffs Are Threatening America’s Apple Juice Supply Chain](https://www.wired.com/story/apple-juice-shortage-tariffs/)
  - [Elon Musk&#39;s attorney says OpenAI&#39;s nonprofit reversal is &quot;a transparent dodge that fails to address the core issues&quot; and &quot;the founding mission remains betrayed&quot; &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250506/p7#a250506p7)
- - [European drone startups Quantum Systems raised €160M, sources say at a €1B+ valuation, and Tekever hit a £1B+ valuation, as VCs pour money into European defense &lpar;Financial Times&rpar;](http://www.techmeme.com/250506/p6#a250506p6)
- - [An interview with Ford Chief EV, Digital, and Design Officer Doug Field on canceling the FNV4 vehicle networking project and using domain-style system instead &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250506/p5#a250506p5)
- - [The US Treasury Department sanctions the Myanmar-linked Karen National Army over helping organized crime groups operate multibillion-dollar &quot;scam compounds&quot; &lpar;Ramsey Al-Rikabi/Bloomberg&rpar;](http://www.techmeme.com/250506/p4#a250506p4)<!-- TECH:END -->
+ - [European drone startups Quantum Systems raised €160M, sources say at a €1B+ valuation, and Tekever hit a £1B+ valuation, as VCs pour money into European defense &lpar;Financial Times&rpar;](http://www.techmeme.com/250506/p6#a250506p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grand Theft Auto VI’s second trailer sets up its Bonnie and Clyde story](https://www.theverge.com/news/24235732/gta-6-grand-theft-auto-trailer)
- - [Filing: Uber acquires an 85% stake in Turkish food delivery platform Trendyol GO for ~$700M cash, set to close in H2 2025; Trendyol GO had 200M+ orders in 2024 &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250506/p23#a250506p23)
- - [Q&amp;A with Tim Sweeney on the recent Epic v. Apple ruling, bringing Fortnite back to iOS via Epic&#39;s Swedish developer account, and spending $100M+ on legal fees &lpar;Peter Kafka/Business Insider&rpar;](http://www.techmeme.com/250506/p22#a250506p22)
- - [Amazon updates its iOS Kindle app to add a prominent orange &quot;Get book&quot; button, enabling purchases via the mobile browser, after the recent Epic v. Apple ruling &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/250506/p21#a250506p21)
- - [Spotify rolls out a new &quot;plays&quot; metric for podcasts that shows users and creators how many times people have actively listened to or watched an episode &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250506/p20#a250506p20)<!-- TECH:END -->
+ - [Nvidia will release its RTX 5060 on May 19th](https://www.theverge.com/news/661807/nvidia-rtx-5060-cards-laptops-release-date-price)
+ - [Statsig, which offers a cloud tool for companies to streamline A/B testing of apps and websites, raised a $100M Series C led by Iconiq at a $1.1B valuation &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250506/p24#a250506p24)
+ - [How to Use Your Smartphone to Cope With Hearing Loss &lpar;2025&rpar;: Tips for iPhone, Android](https://www.wired.com/story/smartphone-features-deaf-hard-of-hearing/)
+ - [Cadillac Celestiq first drive: the bespoke, $360,000 EV is here](https://www.theverge.com/gm-general-motors/661569/cadillac-celestiq-first-drive-ev-bespoke-luxury-price)
+ - [Grand Theft Auto VI’s second trailer sets up its Bonnie and Clyde story](https://www.theverge.com/news/24235732/gta-6-grand-theft-auto-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

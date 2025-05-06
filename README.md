@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In 2017, Shreya Siddanagowder, who lost her arms in an accident, received Asia\u2019s first above-elbow hand transplant. The donor was a brain-dead youth named Sachin. His dark, masculine hands turned fairer and feminine over time as they adopted to her body](http://9gag.com/gag/aD2VmVK)
+ - 😝 [Why are these kinds of teachers did not show up when I was at school ?](http://9gag.com/gag/axyRG8n)
  - 😝 [Incredible india](http://9gag.com/gag/aByGYjD)
- - 💣 [There is another](http://9gag.com/gag/aRBoAP7)
+ - 💣 [In 2017, Shreya Siddanagowder, who lost her arms in an accident, received Asia\u2019s first above-elbow hand transplant. The donor was a brain-dead youth named Sachin. His dark, masculine hands turned fairer and feminine over time as they adopted to her body](http://9gag.com/gag/aD2VmVK)
  - 😝 [We need to stand together to cancel his role](http://9gag.com/gag/an7EXDn)
- - 👉 [Well well well, how the turn tables](http://9gag.com/gag/aVvLQ9O)<!-- MEMES:END -->
+ - 👉 [There is another](http://9gag.com/gag/aRBoAP7)<!-- MEMES:END -->
 
 ---
 

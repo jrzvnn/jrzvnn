@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the challenges for mobile telecom operators in the UK, as Revolut, UK holding company Octopus, and others plan new MVNO offerings &lpar;Financial Times&rpar;](http://www.techmeme.com/250506/p1#a250506p1)
  - [Dyson Promo Codes: 20% Off | May 2025](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
  - [Groupon Promo Codes: 25% Off | May 2025](https://www.wired.com/story/groupon-promo-code/)
  - [Today&#39;s NYT Mini Crossword Answers for Tuesday, May 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-may-6/#ftag=CAD590a51e)
- - [How to lock screen rotation on iPad &amp; avoid constant flipping](https://appleinsider.com/inside/ipad/tips/how-to-lock-screen-rotation-on-ipad-avoid-constant-flipping?utm_medium=rss)
- - [Sensor Tower: Shein&#39;s ad spend rose 35% MoM in France and the UK in April, while Temu&#39;s jumped 40% MoM and 20% MoM respectively, amid Trump&#39;s de minimis ban &lpar;Arriana McLymore/Reuters&rpar;](http://www.techmeme.com/250505/p26#a250505p26)<!-- TECH:END -->
+ - [How to lock screen rotation on iPad &amp; avoid constant flipping](https://appleinsider.com/inside/ipad/tips/how-to-lock-screen-rotation-on-ipad-avoid-constant-flipping?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

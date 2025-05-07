@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EcoFlow brings its plug-in solar power plant to US homes](https://www.theverge.com/news/661640/ecoflow-stream-us-plug-in-solar-specs-price)
- - [Grifters thrive under Trump’s scam-friendly administration](https://www.theverge.com/policy/662109/trump-white-house-scams-crypto-cfpb-doj-sec)
- - [Analysis: 75%+ of the top 220 holders of President Trump&#39;s memecoin likely reside outside the US, ahead of a May 22 dinner; Justin Sun is likely to hold $18M &lpar;Bloomberg&rpar;](http://www.techmeme.com/250507/p24#a250507p24)
- - [Disney&amp;#8217;s streaming business is picking up momentum](https://www.theverge.com/news/662519/disney-streaming-business-profitability-increase)
- - [In 2024, Apple Watch sales fell by 19%, the second consecutive year of decline, driven by a drop in North America; no new Watch SE models weighed on growth &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250507/p23#a250507p23)<!-- TECH:END -->
+ - [LinkedIn’s new AI search tool lets you describe your ideal job](https://www.theverge.com/news/662490/linkedin-ai-job-search-tool-availability)
+ - [Aiffro P30 3 in 1 Portable SSD review: A mini hub for making iPhone movies](https://appleinsider.com/articles/25/05/07/aiffro-p30-3-in-1-portable-ssd-review-a-mini-hub-for-making-iphone-movies?utm_medium=rss)
+ - [Billion dollar battle: Picking an App Store fight with Apple cost Epic Games greatly](https://appleinsider.com/articles/25/05/07/billion-dollar-battle-picking-an-app-store-fight-with-apple-cost-epic-games-greatly?utm_medium=rss)
+ - [13 Best Soundbars We’ve Tested and Reviewed &lpar;2025&rpar;: Sonos, Sony, Bose](https://www.wired.com/gallery/best-soundbars/)
+ - [EcoFlow brings its plug-in solar power plant to US homes](https://www.theverge.com/news/661640/ecoflow-stream-us-plug-in-solar-specs-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Anthropic launches web search on its API for Claude 3.7 Sonnet, 3.5 Sonnet, and 3.5 Haiku at $10/1K searches, giving the models access to up-to-date information &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250507/p46#a250507p46)
- - [A &#39;Trump Card Visa&#39; Is Already Showing Up in Immigration Forms](https://www.wired.com/story/doge-trump-gold-visa-program-immigration/)
+ - [A ‘Trump Card Visa’ Is Already Showing Up in Immigration Forms](https://www.wired.com/story/doge-trump-gold-visa-program-immigration/)
  - [Alibaba partners with RedNote, also known as Xiaohongshu, to allow users on RedNote to directly click on product links to shop on Alibaba&#39;s Taobao platform &lpar;Reuters&rpar;](http://www.techmeme.com/250507/p45#a250507p45)
  - [Eddy Cue is fighting to save Apple’s $20 billion paycheck from Google](https://www.theverge.com/policy/662974/google-search-remedies-trial-eddy-cue-apple-deal-ai)
  - [The best Mother’s Day gifts you can still grab](https://www.theverge.com/tech/662298/best-mothers-day-gifts-last-minute-sale-deal)<!-- TECH:END -->

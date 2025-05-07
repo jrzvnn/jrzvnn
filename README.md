@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Backbone Pro review: meticulous craftsmanship, exorbitant price](https://appleinsider.com/articles/25/05/06/backbone-pro-review-meticulous-craftsmanship-exorbitant-price?utm_medium=rss)
+ - [Fed Meeting Keeps Interest Rates High. Here&#39;s Why That&#39;s a Big Deal for Your Finances](https://www.cnet.com/personal-finance/banking/fed-meeting-keeps-interest-rates-high-heres-why-thats-a-big-deal-for-your-finances/#ftag=CAD590a51e)
  - [Sources: Meta is once again considering facial recognition for its smart glasses and other devices, after abandoning the idea over ethical concerns in 2021 &lpar;The Information&rpar;](http://www.techmeme.com/250507/p36#a250507p36)
- - [The Trump Administration Sure Is Having Trouble Keeping Its Comms Private](https://www.wired.com/story/uncanny-valley-podcast-trump-administration-government-communications/)
- - [Apple Looking to Transform Safari With AI Search](https://www.cnet.com/tech/services-and-software/apple-looking-to-transform-safari-with-ai-search/#ftag=CAD590a51e)
- - [NBA Playoffs 2025: How to Watch Knicks vs. Celtics, Nuggets vs. Thunder Tonight](https://www.cnet.com/tech/services-and-software/nba-playoffs-2025-how-to-watch-knicks-vs-celtics-nuggets-vs-thunder-tonight/#ftag=CAD590a51e)
- - [Amazon Prime Video Has a New NASA Live Channel for Streaming Rocket Launches](https://www.cnet.com/science/space/amazons-prime-video-has-a-new-nasa-live-channel-for-streaming-rocket-launches/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Will GTA 6 Be the First $100 Game? We Do the Math](https://www.cnet.com/tech/gaming/will-gta-6-be-the-first-100-game-we-do-the-math/#ftag=CAD590a51e)
+ - [Best Open Earbuds for 2025](https://www.cnet.com/tech/mobile/best-open-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

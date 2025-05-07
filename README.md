@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Star wars in Broadway looks really good.](http://9gag.com/gag/aVvLMwn)
- - 😝 [Based](http://9gag.com/gag/a4P2j31)
- - 💣 [9gaggers dream..ohh wait](http://9gag.com/gag/aZZjMXV)
- - 😝 [What game is that?](http://9gag.com/gag/aoyLpRe)
+ - 😝 [Having more dei will solve the problem](http://9gag.com/gag/a4P2jzZ)
+ - 😝 [Meanwhile in Australia](http://9gag.com/gag/a6Z27yb)
+ - 💣 [Toss a coin to your Witcher](http://9gag.com/gag/a1m2Xew)
+ - 😝 [He\u2019s totally sober\u2026](http://9gag.com/gag/apRbLwB)
  - 👉 [Halley&#39;s comet compared to New York.](http://9gag.com/gag/abABZzX)<!-- MEMES:END -->
 
 ---

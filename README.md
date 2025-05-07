@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reddit will keep old Reddit online &amp;#8216;as long as people are using it,&amp;#8217; says CEO](https://www.theverge.com/news/662946/reddit-old-online-steve-huffman-spez)
+ - [Arm reports Q4 revenue up 34% YoY to $1.24B, vs. $1.23B est., royalty revenue up 18% to $607M, and forecasts Q1 revenue below est.; ARM drops 8%+ after hours &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250507/p40#a250507p40)
  - [Sony WH-1000XM6 headphone specs and details leak early](https://www.theverge.com/news/662938/sony-xm6-leak-headphones-noise-canceling-price)
  - [Sources: DOGE plans to build a centralized database with troves of personal information about millions of US residents, sometimes bypassing security protocols &lpar;Washington Post&rpar;](http://www.techmeme.com/250507/p39#a250507p39)
- - [OpenAI and the FDA Are Holding Talks About Using AI In Drug Evaluation](https://www.wired.com/story/openai-fda-doge-ai-drug-evaluation/)
- - [Why the Fed&#39;s Interest Rate Pause Could Bring Mortgage Rate Volatility](https://www.cnet.com/personal-finance/mortgages/why-the-feds-interest-rate-pause-could-bring-mortgage-rate-volatility/#ftag=CAD590a51e)
- - [Sources: Robinhood plans a blockchain-based platform to let retail investors in Europe trade US securities, and considered partnerships with Arbitrum and Solana &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/250507/p38#a250507p38)<!-- TECH:END -->
+ - [OpenAI and the FDA Are Holding Talks About Using AI In Drug Evaluation](https://www.wired.com/story/openai-fda-doge-ai-drug-evaluation/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Having more dei will solve the problem](http://9gag.com/gag/a4P2jzZ)
- - 😝 [2024 junior world champion launching his F1D, total flight time 22 minutes](http://9gag.com/gag/aO8PVGr)
- - 💣 [Watched it so many times and still don\u2019t understand how they did it.](http://9gag.com/gag/aAy2149)
  - 😝 [Nice one Sam](http://9gag.com/gag/an7EjKo)
- - 👉 [How to calm a baby](http://9gag.com/gag/avyRP1X)<!-- MEMES:END -->
+ - 😝 [Halley&#39;s comet compared to New York.](http://9gag.com/gag/abABZzX)
+ - 💣 [I can explain](http://9gag.com/gag/avyRnZb)
+ - 😝 [Incredible india](http://9gag.com/gag/aByGYjD)
+ - 👉 [Between 1915 and 1926, a mysterious illness swept the world. Victims of Encephalitis Lethargica fell into deep sleep, then woke unable to move or speak. Half a million died or became trapped in their bodies. No one knows what caused it. It hasn&#39;t come back.](http://9gag.com/gag/ajPZAZx)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google launched a Gemini app for iPad](https://www.theverge.com/news/662941/google-gemini-ipad-app)
+ - [Sources: OpenAI staffers met with the FDA and two DOGE associates multiple times in recent weeks to discuss a project called cderGPT, likely for drug evaluation &lpar;Wired&rpar;](http://www.techmeme.com/250507/p41#a250507p41)
  - [Reddit will keep old Reddit online &amp;#8216;as long as people are using it,&amp;#8217; says CEO](https://www.theverge.com/news/662946/reddit-old-online-steve-huffman-spez)
  - [Arm reports Q4 revenue up 34% YoY to $1.24B, vs. $1.23B est., royalty revenue up 18% to $607M, and forecasts Q1 revenue below est.; ARM drops 8%+ after hours &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250507/p40#a250507p40)
- - [Sony WH-1000XM6 headphone specs and details leak early](https://www.theverge.com/news/662938/sony-xm6-leak-headphones-noise-canceling-price)
- - [Sources: DOGE plans to build a centralized database with troves of personal information about millions of US residents, sometimes bypassing security protocols &lpar;Washington Post&rpar;](http://www.techmeme.com/250507/p39#a250507p39)
- - [OpenAI and the FDA Are Holding Talks About Using AI In Drug Evaluation](https://www.wired.com/story/openai-fda-doge-ai-drug-evaluation/)<!-- TECH:END -->
+ - [Sony WH-1000XM6 headphone specs and details leak early](https://www.theverge.com/news/662938/sony-xm6-leak-headphones-noise-canceling-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

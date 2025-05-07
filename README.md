@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Seriously: who designed this? LOL](http://9gag.com/gag/awydQXQ)
- - 😝 [Having more dei will solve the problem](http://9gag.com/gag/a4P2jzZ)
+ - 😝 [Class attending rate 100%](http://9gag.com/gag/azxRAWq)
+ - 😝 [World, are you ready for Pakistan&#39;s wrath?](http://9gag.com/gag/an7EjE5)
  - 💣 [Is this the real life? &lpar;Caption: Highschool female teacher arrested for having sexual relationship with her student&rpar;](http://9gag.com/gag/aRBo3QM)
- - 😝 [Halley&#39;s comet compared to New York.](http://9gag.com/gag/abABZzX)
- - 👉 [What game is that?](http://9gag.com/gag/aoyLpRe)<!-- MEMES:END -->
+ - 😝 [10/2022 Turtle Stuff](http://9gag.com/gag/aMVvj0R)
+ - 👉 [NO THAT&#39;S DANGEROUS! oh....](http://9gag.com/gag/aKGeDOj)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sennheiser’s new affordable open earbuds are less affordable in the US](https://www.theverge.com/news/662477/sennheiser-accentum-open-earbuds-us-price-tariffs)
+ - [Ox Security, which scans for vulnerabilities in both AI- and human-generated code, raised a $60M Series B led by DTCP and says it scans 100M+ lines per day &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250507/p18#a250507p18)
  - [OpenAI unveils OpenAI for Countries, an initiative to help build out AI infrastructure and customize OpenAI&#39;s products for specific languages and local needs &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250507/p17#a250507p17)
  - [Uber reports Q1 revenue up 14% YoY to $11.5B, Gross Bookings up 14% YoY to $42.8B, vs. $43.1B est., trips up 18% YoY to 3B, and $1.8B net income; UBER falls ~5% &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250507/p16#a250507p16)
- - [Amsterdam-based neobank Finom raised €92.7M from General Catalyst and says it serves 100K+ SMBs in Germany, France, Spain, the Netherlands, and Italy &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250507/p15#a250507p15)
- - [They Fell in Love Playing ‘Minecraft.’ Then the Game Became Their Wedding Venue](https://www.wired.com/story/they-fell-in-love-playing-minecraft-then-the-game-became-their-wedding-venue/)
- - [Puma Says It Made the Fastest Running Shoe Ever. We Put It to the Test](https://www.wired.com/story/puma-says-it-made-the-fastest-running-shoe-ever-we-put-it-to-the-test/)<!-- TECH:END -->
+ - [Amsterdam-based neobank Finom raised €92.7M from General Catalyst and says it serves 100K+ SMBs in Germany, France, Spain, the Netherlands, and Italy &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250507/p15#a250507p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

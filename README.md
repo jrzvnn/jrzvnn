@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Eddy Cue is guessing that the iPhone will eventually be replaced by AI](https://appleinsider.com/articles/25/05/07/apples-eddy-cue-is-guessing-that-the-iphone-will-eventually-be-replaced-by-ai?utm_medium=rss)
- - [Netflix unveils its ChatGPT-powered search that lets users express preferences using natural phrases, to be rolled out this week to iOS users as an opt-in beta &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250507/p32#a250507p32)
- - [A US court rejects a legal challenge by the FTC to Microsoft&#39;s $69B Activision Blizzard acquisition, upholding a lower court ruling that denied an injunction &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/250507/p31#a250507p31)
- - [Sonos and IKEA&#39;s Love Affair Is Over—Grab This $19 Device While You Still Can](https://www.wired.com/story/sonos-is-dumping-ikea-get-this-dollar19-device-while-you-can/)
- - [Microsoft says it will support Google&#39;s Agent2Agent spec, known as A2A, in Azure AI Foundry and Copilot Studio and will join A2A&#39;s working group on GitHub &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250507/p30#a250507p30)<!-- TECH:END -->
+ - [States sue Trump over ‘existential threat’ to wind energy](https://www.theverge.com/news/661318/wind-energy-electricity-states-lawsuit-president-trump)
+ - [Google searches are falling in Safari for the first time ever —probably because of AI](https://www.theverge.com/news/662725/google-search-safari-ai-apple-eddy-cue-testimony)
+ - [Figma releases AI-powered tools to take on Canva and Adobe: Figma Sites for creating sites, Figma Make for app prototypes, and Figma Buzz for marketing assets &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250507/p34#a250507p34)
+ - [Samsung subsidiary Harman has agreed to acquire Masimo&#39;s audio division, which includes the Bowers &amp; Wilkins, Denon, and Polk Audio brands, for $350M &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250507/p33#a250507p33)
+ - [Apple&#39;s Eddy Cue is guessing that the iPhone will eventually be replaced by AI](https://appleinsider.com/articles/25/05/07/apples-eddy-cue-is-guessing-that-the-iphone-will-eventually-be-replaced-by-ai?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

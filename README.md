@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FTC loses appeal to stop Microsoft’s Activision Blizzard deal that already happened](https://www.theverge.com/news/662883/ftc-appeal-microsoft-activision-deal-acquisition)
  - [Rockstar says new GTA VI trailer was &amp;#8216;equal parts gameplay and cutscenes&amp;#8217;](https://www.theverge.com/news/662834/gta-6-trailer-gameplay-ps5)
  - [Internal messages show how the US State Department, in conjunction with trade talks, pushed nations facing tariffs to clear regulatory hurdles for Starlink &lpar;Washington Post&rpar;](http://www.techmeme.com/250507/p37#a250507p37)
  - [Amazon discounts M4 Mac mini with 24GB RAM, 512GB SSD to $894](https://appleinsider.com/articles/25/05/07/amazon-discounts-m4-mac-mini-with-24gb-ram-512gb-ssd-to-894?utm_medium=rss)
- - [Android’s splashy new paint job won’t yank Gen Z from iPhones](https://www.theverge.com/tech/662719/android-material-3-gen-z-iphone)
- - [Backbone Pro review: meticulous craftsmanship, exorbitant price](https://appleinsider.com/articles/25/05/06/backbone-pro-review-meticulous-craftsmanship-exorbitant-price?utm_medium=rss)<!-- TECH:END -->
+ - [Android’s splashy new paint job won’t yank Gen Z from iPhones](https://www.theverge.com/tech/662719/android-material-3-gen-z-iphone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

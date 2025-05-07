@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [At a Manhattan event, TikTok executives tried to reassure brands and ad clients, saying &quot;we are absolutely confident&quot; in TikTok &quot;and confident in the future&quot; &lpar;Sapna Maheshwari/New York Times&rpar;](http://www.techmeme.com/250507/p14#a250507p14)
- - [Amazon develops a robot that ‘feels’ touch, just like its human workers](https://www.theverge.com/news/662452/amazon-vulcan-warehouse-robot-sense-touch)
- - [9 Best Dry Shampoos, Editor Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-dry-shampoos/)
- - [FCC listings show two new Asus ROG Ally 2 handheld models with an Xbox button, AMD chips, 64GB of RAM, larger grips, and two USB-C, likely set for Computex 2025 &lpar;VideoCardz.com&rpar;](http://www.techmeme.com/250507/p13#a250507p13)
- - [Nvidia CEO Jensen Huang says China&#39;s AI market will likely reach ~$50B in the next two to three years, and missing out on it would be a &quot;tremendous loss&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250507/p12#a250507p12)<!-- TECH:END -->
+ - [Uber reports Q1 revenue up 14% YoY to $11.5B, Gross Bookings up 14% YoY to $42.8B, vs. $43.1B est., trips up 18% YoY to 3B, and $1.8B net income; UBER falls ~5% &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250507/p16#a250507p16)
+ - [Amsterdam-based neobank Finom raised €92.7M from General Catalyst and says it serves 100K+ SMBs in Germany, France, Spain, the Netherlands, and Italy &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250507/p15#a250507p15)
+ - [They Fell in Love Playing ‘Minecraft.’ Then the Game Became Their Wedding Venue](https://www.wired.com/story/they-fell-in-love-playing-minecraft-then-the-game-became-their-wedding-venue/)
+ - [Puma Says It Made the Fastest Running Shoe Ever. We Put It to the Test](https://www.wired.com/story/puma-says-it-made-the-fastest-running-shoe-ever-we-put-it-to-the-test/)
+ - [At a Manhattan event, TikTok executives tried to reassure brands and ad clients, saying &quot;we are absolutely confident&quot; in TikTok &quot;and confident in the future&quot; &lpar;Sapna Maheshwari/New York Times&rpar;](http://www.techmeme.com/250507/p14#a250507p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

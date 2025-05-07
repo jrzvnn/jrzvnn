@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Just where is this dentist office?](http://9gag.com/gag/aQzZ8z7)
- - 😝 [Having more dei will solve the problem](http://9gag.com/gag/a4P2jzZ)
- - 💣 [Just look at them](http://9gag.com/gag/aKGeBQ1)
- - 😝 [Found a $119 a night place.](http://9gag.com/gag/aVvLPqP)
- - 👉 [The S stands for...](http://9gag.com/gag/amoMr8o)<!-- MEMES:END -->
+ - 😝 [9gaggers dream..ohh wait](http://9gag.com/gag/aZZjMXV)
+ - 💣 [Why are these kinds of teachers did not show up when I was at school ?](http://9gag.com/gag/axyRG8n)
+ - 😝 [Just look at them](http://9gag.com/gag/aKGeBQ1)
+ - 👉 [Found a $119 a night place.](http://9gag.com/gag/aVvLPqP)<!-- MEMES:END -->
 
 ---
 

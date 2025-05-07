@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony WH-1000XM6 headphone specs and details leak early](https://www.theverge.com/news/662938/sony-xm6-leak-headphones-noise-canceling-price)
+ - [Sources: DOGE plans to build a centralized database with troves of personal information about millions of US residents, sometimes bypassing security protocols &lpar;Washington Post&rpar;](http://www.techmeme.com/250507/p39#a250507p39)
  - [OpenAI and the FDA Are Holding Talks About Using AI In Drug Evaluation](https://www.wired.com/story/openai-fda-doge-ai-drug-evaluation/)
  - [Why the Fed&#39;s Interest Rate Pause Could Bring Mortgage Rate Volatility](https://www.cnet.com/personal-finance/mortgages/why-the-feds-interest-rate-pause-could-bring-mortgage-rate-volatility/#ftag=CAD590a51e)
- - [Sources: Robinhood plans a blockchain-based platform to let retail investors in Europe trade US securities, and considered partnerships with Arbitrum and Solana &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/250507/p38#a250507p38)
- - [Amazon Unveils AI-Using Warehouse Robot With Human-Like Sense of Touch](https://www.cnet.com/tech/amazon-unveils-ai-using-warehouse-robot-with-human-like-sense-of-touch/#ftag=CAD590a51e)
- - [Best CD Rates This Week: Act Now to Take Advantage of the Fed&#39;s Rate Pause](https://www.cnet.com/personal-finance/banking/best-cd-rates-this-week-act-now-to-take-advantage-of-the-feds-rate-pause/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Robinhood plans a blockchain-based platform to let retail investors in Europe trade US securities, and considered partnerships with Arbitrum and Solana &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/250507/p38#a250507p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

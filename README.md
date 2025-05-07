@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [IBM CEO Arvind Krishna says the company used AI agents to replace the work of 200+ HR employees and, as a result, hired more programmers and salespeople &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250507/p11#a250507p11)
  - [Amazon unveils Vulcan, a sorting robot with a sense of touch and will be capable of grabbing ~75% of warehouse items, rolling out globally in the next few years &lpar;Sarah Butler/The Guardian&rpar;](http://www.techmeme.com/250507/p10#a250507p10)
  - [Don’t Have a Real ID? You Can Still Fly With a License, for Now](https://www.wired.com/story/how-to-get-a-real-id-license/)
  - [A look at the hype and reality surrounding AI agents, currently used primarily by companies to boost efficiency and cut costs, rather than drive top-line growth &lpar;Lucy Colback/Financial Times&rpar;](http://www.techmeme.com/250507/p9#a250507p9)
- - [US credit and debit card data: Shein&#39;s US sales dropped 23% during the week of April 25 to May 1 compared to the prior seven days, while Temu&#39;s sales fell 17% &lpar;Bloomberg&rpar;](http://www.techmeme.com/250507/p8#a250507p8)
- - [Microsoft and Asus’ Xbox handheld appears in leaked photos](https://www.theverge.com/news/662440/xbox-handheld-photos-microsoft-asus-rog-ally-2-fcc-listing)<!-- TECH:END -->
+ - [US credit and debit card data: Shein&#39;s US sales dropped 23% during the week of April 25 to May 1 compared to the prior seven days, while Temu&#39;s sales fell 17% &lpar;Bloomberg&rpar;](http://www.techmeme.com/250507/p8#a250507p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

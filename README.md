@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon discounts M4 Mac mini with 24GB RAM, 512GB SSD to $894](https://appleinsider.com/articles/25/05/07/amazon-discounts-m4-mac-mini-with-24gb-ram-512gb-ssd-to-894?utm_medium=rss)
+ - [Android’s splashy new paint job won’t yank Gen Z from iPhones](https://www.theverge.com/tech/662719/android-material-3-gen-z-iphone)
  - [Backbone Pro review: meticulous craftsmanship, exorbitant price](https://appleinsider.com/articles/25/05/06/backbone-pro-review-meticulous-craftsmanship-exorbitant-price?utm_medium=rss)
- - [Fed Meeting Keeps Interest Rates High. Here&#39;s Why That&#39;s a Big Deal for Your Finances](https://www.cnet.com/personal-finance/banking/fed-meeting-keeps-interest-rates-high-heres-why-thats-a-big-deal-for-your-finances/#ftag=CAD590a51e)
  - [Sources: Meta is once again considering facial recognition for its smart glasses and other devices, after abandoning the idea over ethical concerns in 2021 &lpar;The Information&rpar;](http://www.techmeme.com/250507/p36#a250507p36)
- - [Will GTA 6 Be the First $100 Game? We Do the Math](https://www.cnet.com/tech/gaming/will-gta-6-be-the-first-100-game-we-do-the-math/#ftag=CAD590a51e)
- - [Best Open Earbuds for 2025](https://www.cnet.com/tech/mobile/best-open-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Trump Administration Sure Is Having Trouble Keeping Its Comms Private](https://www.wired.com/story/uncanny-valley-podcast-trump-administration-government-communications/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

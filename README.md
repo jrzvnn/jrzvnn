@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AWS says it plans to invest $4B to build its first data centers and cloud infrastructure in Chile, set to open in H2 2026, and will try to use minimal water &lpar;Fabian Cambero/Reuters&rpar;](http://www.techmeme.com/250507/p25#a250507p25)
+ - [Mistral releases Mistral Medium 3, which it says focuses on efficiency without compromising performance, for $0.40 per 1M input and $20.80 per 1M output tokens &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250507/p26#a250507p26)
+ - [PlayStation announces new studio focused on ‘immersive multiplayer worlds’](https://www.theverge.com/news/662579/team-lfg-playstation-studio)
+ - [AWS says it will invest $4B to build its first data centers and cloud infrastructure in Chile, set to open in H2 2026, and try to use water just 4% of the year &lpar;Fabian Cambero/Reuters&rpar;](http://www.techmeme.com/250507/p25#a250507p25)
  - [Apple&amp;#8217;s sci-fi epic Foundation is back for season 3 in July](https://www.theverge.com/news/662498/foundation-season-3-date-trailer-apple-tv-plus)
- - [Silence Speaks Has Created AI-Powered Signing Avatars for the Deaf](https://www.wired.com/story/silence-speaks-deaf-ai-signing/)
- - [LinkedIn’s new AI search tool lets you describe your ideal job](https://www.theverge.com/news/662490/linkedin-ai-job-search-tool-availability)
- - [Aiffro P30 3 in 1 Portable SSD review: A mini hub for making iPhone movies](https://appleinsider.com/articles/25/05/07/aiffro-p30-3-in-1-portable-ssd-review-a-mini-hub-for-making-iphone-movies?utm_medium=rss)<!-- TECH:END -->
+ - [Silence Speaks Has Created AI-Powered Signing Avatars for the Deaf](https://www.wired.com/story/silence-speaks-deaf-ai-signing/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

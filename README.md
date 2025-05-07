@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Seriously: who designed this? LOL](http://9gag.com/gag/awydQXQ)
- - 😝 [Having more dei will solve the problem](http://9gag.com/gag/a4P2jzZ)
- - 💣 [2024 junior world champion launching his F1D, total flight time 22 minutes](http://9gag.com/gag/aO8PVGr)
- - 😝 [The man gets mangled/run over by a snowplow after saving his nephew&#39;s life. He said he could hear his own bones crunching. Spends months recovering. Only to be offered peanuts to carry a show while they obviously push him out to introduce a female lead. Disney is a ashhowe.](http://9gag.com/gag/apRbpXD)
+ - 😝 [2024 junior world champion launching his F1D, total flight time 22 minutes](http://9gag.com/gag/aO8PVGr)
+ - 😝 [Zero survival instincts](http://9gag.com/gag/ajPZDGw)
+ - 💣 [The man gets mangled/run over by a snowplow after saving his nephew&#39;s life. He said he could hear his own bones crunching. Spends months recovering. Only to be offered peanuts to carry a show while they obviously push him out to introduce a female lead. Disney is a ashhowe.](http://9gag.com/gag/apRbpXD)
+ - 😝 [Reality](http://9gag.com/gag/a1m2MB8)
  - 👉 [Nice one Sam](http://9gag.com/gag/an7EjKo)<!-- MEMES:END -->
 
 ---

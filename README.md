@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia CEO Jensen Huang says China&#39;s AI market will likely reach ~$50B in the next two to three years, and missing out on it would be a &quot;tremendous loss&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250507/p12#a250507p12)
- - [Patreon’s iOS update allows creators to bypass in-app purchases](https://www.theverge.com/news/662449/patreon-ios-app-update-alternative-apple-payments)
- - [IBM CEO Arvind Krishna says the company used AI agents to replace the work of 200+ HR employees and, as a result, hired more programmers and salespeople &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250507/p11#a250507p11)
- - [Backbone Pro Review: A Smart Mobile Game Controller That&#39;ll Cost You](https://www.cnet.com/tech/gaming/backbone-pro-review-a-smart-mobile-game-controller-thatll-cost-you/#ftag=CAD590a51e)
- - [Amazon unveils Vulcan, a sorting robot with a sense of touch and will be capable of grabbing ~75% of warehouse items, rolling out globally in the next few years &lpar;Sarah Butler/The Guardian&rpar;](http://www.techmeme.com/250507/p10#a250507p10)<!-- TECH:END -->
+ - [At a Manhattan event, TikTok executives tried to reassure brands and ad clients, saying &quot;we are absolutely confident&quot; in TikTok &quot;and confident in the future&quot; &lpar;Sapna Maheshwari/New York Times&rpar;](http://www.techmeme.com/250507/p14#a250507p14)
+ - [Amazon develops a robot that ‘feels’ touch, just like its human workers](https://www.theverge.com/news/662452/amazon-vulcan-warehouse-robot-sense-touch)
+ - [9 Best Dry Shampoos, Editor Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-dry-shampoos/)
+ - [FCC listings show two new Asus ROG Ally 2 handheld models with an Xbox button, AMD chips, 64GB of RAM, larger grips, and two USB-C, likely set for Computex 2025 &lpar;VideoCardz.com&rpar;](http://www.techmeme.com/250507/p13#a250507p13)
+ - [Nvidia CEO Jensen Huang says China&#39;s AI market will likely reach ~$50B in the next two to three years, and missing out on it would be a &quot;tremendous loss&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250507/p12#a250507p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

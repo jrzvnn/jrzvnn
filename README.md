@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Are you really?](http://9gag.com/gag/aGyAeDw)
- - 😝 [What game is that?](http://9gag.com/gag/aoyLpRe)
- - 💣 [Another Adventure](http://9gag.com/gag/a2v2o5d)
- - 😝 [He\u2019s totally sober\u2026](http://9gag.com/gag/apRbLwB)
- - 👉 [Yelling is the new flirting](http://9gag.com/gag/adBeXoB)<!-- MEMES:END -->
+ - 😝 [Touched by Jesus](http://9gag.com/gag/a0e1K9X)
+ - 😝 [N O I C E](http://9gag.com/gag/aMVv8ZM)
+ - 💣 [Comment if you agree](http://9gag.com/gag/a2v24M1)
+ - 😝 [Tiny but it does the work](http://9gag.com/gag/ayNRXjV)
+ - 👉 [They have their own issues](http://9gag.com/gag/adBeK7Q)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s Eddy Cue: ‘You may not need an iPhone 10 years from now’](https://www.theverge.com/news/662769/apple-iphone-may-not-need-10-years)
- - [Sen. Blumenthal says the Permanent Subcommittee on Investigations opened an inquiry into Trump&#39;s crypto empire, calling his memecoin dinner &quot;pay-for-play&quot; &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250507/p35#a250507p35)
- - [Mitsubishi&amp;#8217;s next EV is based on the upcoming Nissan Leaf coming in 2026](https://www.theverge.com/news/662755/mitsubishi-ev-2026-nissan-leaf-us)
- - [States sue Trump over ‘existential threat’ to wind energy](https://www.theverge.com/news/661318/wind-energy-electricity-states-lawsuit-president-trump)
- - [Google searches are falling in Safari for the first time ever — probably because of AI](https://www.theverge.com/news/662725/google-search-safari-ai-apple-eddy-cue-testimony)<!-- TECH:END -->
+ - [The Trump Administration Sure Is Having Trouble Keeping Its Comms Private](https://www.wired.com/story/uncanny-valley-podcast-trump-administration-government-communications/)
+ - [Apple Looking to Transform Safari With AI Search](https://www.cnet.com/tech/services-and-software/apple-looking-to-transform-safari-with-ai-search/#ftag=CAD590a51e)
+ - [NBA Playoffs 2025: How to Watch Knicks vs. Celtics, Nuggets vs. Thunder Tonight](https://www.cnet.com/tech/services-and-software/nba-playoffs-2025-how-to-watch-knicks-vs-celtics-nuggets-vs-thunder-tonight/#ftag=CAD590a51e)
+ - [Amazon Prime Video Has a New NASA Live Channel for Streaming Rocket Launches](https://www.cnet.com/science/space/amazons-prime-video-has-a-new-nasa-live-channel-for-streaming-rocket-launches/#ftag=CAD590a51e)
+ - [Will GTA 6 Be the First $100 Game? We Do the Math](https://www.cnet.com/tech/gaming/will-gta-6-be-the-first-100-game-we-do-the-math/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [At the party...](http://9gag.com/gag/a4P2jE1)
- - 😝 [Class attending rate 100%](http://9gag.com/gag/azxRAWq)
- - 💣 [People are blind.](http://9gag.com/gag/ae9meLp)
  - 😝 [What game is that?](http://9gag.com/gag/aoyLpRe)
- - 👉 [World, are you ready for Pakistan&#39;s wrath?](http://9gag.com/gag/an7EjE5)<!-- MEMES:END -->
+ - 💣 [World, are you ready for Pakistan&#39;s wrath?](http://9gag.com/gag/an7EjE5)
+ - 😝 [`There are no terrorist camps in Pakistan` Link below in comments](http://9gag.com/gag/aoyLOBw)
+ - 👉 [Is this the real life? &lpar;Caption: Highschool female teacher arrested for having sexual relationship with her student&rpar;](http://9gag.com/gag/aRBo3QM)<!-- MEMES:END -->
 
 ---
 

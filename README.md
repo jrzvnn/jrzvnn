@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lack of updates and new models sees Apple Watch sales decline](https://appleinsider.com/articles/25/05/07/lack-of-updates-and-new-models-sees-apple-watch-sales-decline?utm_medium=rss)
- - [Q&amp;A with Amazon Zoox co-founder Jesse Levinson on Zoox&#39;s robotaxi design, rider comfort, San Francisco testing, Waymo, developing bespoke vehicles, and more &lpar;Rafe Uddin/Financial Times&rpar;](http://www.techmeme.com/250507/p21#a250507p21)
- - [Netflix is getting a big TV revamp](https://www.theverge.com/news/662407/netflix-tv-redesign-revamp-update)
- - [Netflix will try a TikTok-like feed on its mobile app](https://www.theverge.com/news/662408/netflix-tiktok-feed-vertical-video-mobile-app)
- - [Netflix unveils a new homepage design for TVs, its first update since 2013, featuring fewer titles but more video and animation, rolling out from next week &lpar;John Koblin/New York Times&rpar;](http://www.techmeme.com/250507/p20#a250507p20)<!-- TECH:END -->
+ - [EcoFlow brings its plug-in solar power plant to US homes](https://www.theverge.com/news/661640/ecoflow-stream-us-plug-in-solar-specs-price)
+ - [Grifters thrive under Trump’s scam-friendly administration](https://www.theverge.com/policy/662109/trump-white-house-scams-crypto-cfpb-doj-sec)
+ - [Analysis: 75%+ of the top 220 holders of President Trump&#39;s memecoin likely reside outside the US, ahead of a May 22 dinner; Justin Sun is likely to hold $18M &lpar;Bloomberg&rpar;](http://www.techmeme.com/250507/p24#a250507p24)
+ - [Disney&amp;#8217;s streaming business is picking up momentum](https://www.theverge.com/news/662519/disney-streaming-business-profitability-increase)
+ - [In 2024, Apple Watch sales fell by 19%, the second consecutive year of decline, driven by a drop in North America; no new Watch SE models weighed on growth &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250507/p23#a250507p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

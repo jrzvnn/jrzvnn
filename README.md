@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just look at them](http://9gag.com/gag/aKGeBQ1)
- - 😝 [2024 junior world champion launching his F1D, total flight time 22 minutes](http://9gag.com/gag/aO8PVGr)
- - 💣 [Between 1915 and 1926, a mysterious illness swept the world. Victims of Encephalitis Lethargica fell into deep sleep, then woke unable to move or speak. Half a million died or became trapped in their bodies. No one knows what caused it. It hasn&#39;t come back.](http://9gag.com/gag/ajPZAZx)
+ - 😝 [Failed robbery attempt of an armored vehicle](http://9gag.com/gag/a6Z2b29)
  - 😝 [9gaggers dream..ohh wait](http://9gag.com/gag/aZZjMXV)
- - 👉 [Found a $119 a night place.](http://9gag.com/gag/aVvLPqP)<!-- MEMES:END -->
+ - 💣 [Just where is this dentist office?](http://9gag.com/gag/aQzZ8z7)
+ - 😝 [What game is that?](http://9gag.com/gag/aoyLpRe)
+ - 👉 [Halley&#39;s comet compared to New York.](http://9gag.com/gag/abABZzX)<!-- MEMES:END -->
 
 ---
 

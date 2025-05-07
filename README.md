@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leaked audio and memos: Uber CEO Dara Khosrowshahi defended increasing the RTO to three days per week at a heated all-hands meeting, saying &quot;it is what it is&quot; &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/250507/p7#a250507p7)
+ - [The AI arms race between employers and jobseekers isn&#39;t going well for anyone, as applicants turn to GenAI to speed up a process that already feels dehumanized &lpar;Sarah O&#39;Connor/Financial Times&rpar;](http://www.techmeme.com/250507/p6#a250507p6)
+ - [Samsung adds Bowers &amp;#038; Wilkins, Denon, Marantz, and Polk to its audio empire](https://www.theverge.com/news/662437/samsung-harman-masimo-aquisition-audio-empire)
  - [Amazon Has Made a Robot With a Sense of Touch](https://www.wired.com/story/ai-lab-amazon-launches-vulcan-a-robot-that-can-feel/)
- - [A look at the impact of ChatGPT use on energy consumption, as analysis suggests AI usage is still a rounding error on a person&#39;s total electricity footprint &lpar;Hannah Ritchie/Sustainability&rpar;](http://www.techmeme.com/250507/p5#a250507p5)
- - [DoorDash&#39;s planned takeover of Deliveroo has renewed questions about the UK&#39;s ability to attract and retain large tech listings in the face of NY&#39;s dominance &lpar;Financial Times&rpar;](http://www.techmeme.com/250507/p4#a250507p4)
- - [Jeff Bezos and Michael Dell&#39;s family offices have committed $1B in total to Coatue&#39;s new investment fund targeting high-growth public and private tech companies &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/250507/p3#a250507p3)
- - [The CFPB says it will stop enforcing a Biden-era rule treating BNPL firms like credit card lenders; Affirm and other BNPL firms had opposed the rule &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250507/p2#a250507p2)<!-- TECH:END -->
+ - [A look at the impact of ChatGPT use on energy consumption, as analysis suggests AI usage is still a rounding error on a person&#39;s total electricity footprint &lpar;Hannah Ritchie/Sustainability&rpar;](http://www.techmeme.com/250507/p5#a250507p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

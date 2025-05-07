@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The CFPB says it will stop enforcing a Biden-era rule treating BNPL firms like credit card lenders; Affirm and other BNPL firms had opposed the rule &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250507/p2#a250507p2)
  - [New Hampshire becomes the first US state to pass a &quot;Strategic Bitcoin Reserve&quot; bill, permitting public fund investment in BTC, either directly or through an ETF &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250507/p1#a250507p1)
  - [Melbourne-based Blinq, which lets users create custom digital business cards and sync contacts with CRM systems, raised a $25M Series A led by Touring Capital &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/250506/p53#a250506p53)
  - [How to turn your living room into a wellness retreat with HomeKit](https://appleinsider.com/inside/homekit/tips/how-to-turn-your-living-room-into-a-wellness-retreat-with-homekit?utm_medium=rss)
- - [Sources: Periodic Labs, which is building a &quot;ChatGPT for material science&quot;, is seeking to raise hundreds of millions of dollars at a valuation of at least $1B &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/250506/p52#a250506p52)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, May 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-may-7/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Periodic Labs, which is building a &quot;ChatGPT for material science&quot;, is seeking to raise hundreds of millions of dollars at a valuation of at least $1B &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/250506/p52#a250506p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

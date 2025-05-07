@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Another Adventure](http://9gag.com/gag/a2v2o5d)
- - 😝 [Technologia xD](http://9gag.com/gag/ayNRxbW)
- - 💣 [Banned Interview 9/11-Dont talk about it](http://9gag.com/gag/aAy2Pod)
- - 😝 [10/10 movie must it be](http://9gag.com/gag/a0e1K2L)
- - 👉 [A spinning machine in Japan that gives an Intel processor up to i7 at $3.3](http://9gag.com/gag/azxRrLb)<!-- MEMES:END -->
+ - 😝 [Are you really?](http://9gag.com/gag/aGyAeDw)
+ - 😝 [What game is that?](http://9gag.com/gag/aoyLpRe)
+ - 💣 [Another Adventure](http://9gag.com/gag/a2v2o5d)
+ - 😝 [He\u2019s totally sober\u2026](http://9gag.com/gag/apRbLwB)
+ - 👉 [Yelling is the new flirting](http://9gag.com/gag/adBeXoB)<!-- MEMES:END -->
 
 ---
 

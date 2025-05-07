@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Found a $119 a night place.](http://9gag.com/gag/aVvLPqP)
- - 😝 [Both? Yes, both is good](http://9gag.com/gag/a1m2XAP)
- - 💣 [Mama&#39;s hungry](http://9gag.com/gag/a872jPO)
- - 😝 [A silver back gorilla family checking out a wildlife photographer](http://9gag.com/gag/ayNR82y)
- - 👉 [Good work officer. Put her in jail](http://9gag.com/gag/ae9mG4Q)<!-- MEMES:END -->
+ - 😝 [Mama&#39;s hungry](http://9gag.com/gag/a872jPO)
+ - 😝 [9gaggers dream..ohh wait](http://9gag.com/gag/aZZjMXV)
+ - 💣 [The S stands for...](http://9gag.com/gag/amoMr8o)
+ - 😝 [Old footage of two guys performing an interesting optical illusion.](http://9gag.com/gag/agm4VXq)
+ - 👉 [Having more dei will solve the problem](http://9gag.com/gag/a4P2jzZ)<!-- MEMES:END -->
 
 ---
 

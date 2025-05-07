@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Melbourne-based Blinq, which lets users create custom digital business cards and sync contacts with CRM systems, raised a $25M Series A led by Touring Capital &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/250506/p53#a250506p53)
  - [How to turn your living room into a wellness retreat with HomeKit](https://appleinsider.com/inside/homekit/tips/how-to-turn-your-living-room-into-a-wellness-retreat-with-homekit?utm_medium=rss)
  - [Sources: Periodic Labs, which is building a &quot;ChatGPT for material science&quot;, is seeking to raise hundreds of millions of dollars at a valuation of at least $1B &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/250506/p52#a250506p52)
- - [A profile of Christian Garrett, co-founder of the Hill and Valley Forum and partner at 137 Ventures, who has become Silicon Valley&#39;s diplomat to Washington, DC &lpar;Margaux MacColl/The San Francisco ...&rpar;](http://www.techmeme.com/250506/p51#a250506p51)
- - [DOJ seeks to break up Google ad business after illegal monopoly ruling](https://appleinsider.com/articles/25/05/07/doj-seeks-to-break-up-google-ad-business-after-illegal-monopoly-ruling?utm_medium=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, May 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-may-7/#ftag=CAD590a51e)
+ - [A profile of Christian Garrett, co-founder of the Hill and Valley Forum and partner at 137 Ventures, who has become Silicon Valley&#39;s diplomat to Washington, DC &lpar;Margaux MacColl/The San Francisco ...&rpar;](http://www.techmeme.com/250506/p51#a250506p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

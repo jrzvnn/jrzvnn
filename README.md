@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple working on adding AI-powered search to Safari](https://appleinsider.com/articles/25/05/07/apple-working-on-adding-ai-powered-search-to-safari?utm_medium=rss)
+ - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)
+ - [15 Great Deals on Mother&#39;s Day Gifts &lpar;2025&rpar;](https://www.wired.com/story/mothers-day-deals-2025/)
  - [US v. Google: Eddy Cue testifies that Apple is &quot;actively looking at&quot; reshaping Safari to focus on AI search and, in a first, Safari searches dropped in April &lpar;Bloomberg&rpar;](http://www.techmeme.com/250507/p29#a250507p29)
- - [Tesla&amp;#8217;s cheaper RWD Model Y is now available in the US](https://www.theverge.com/news/662624/tesla-cheaper-rwd-model-y-available-us)
- - [Netflix getting user interface with AI, has no plans to bring back App Store subscriptions](https://appleinsider.com/articles/25/05/07/netflix-getting-user-interface-with-ai-has-no-plans-to-bring-back-app-store-subscriptions?utm_medium=rss)
- - [9 Best Mechanical Keyboards &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-mechanical-keyboards/)
- - [How Microsoft shrunk its Surface devices](https://www.theverge.com/notepad-microsoft-newsletter/661617/microsoft-surface-hardware-engineering-labs-tour-notepad)<!-- TECH:END -->
+ - [Tesla&amp;#8217;s cheaper RWD Model Y is now available in the US](https://www.theverge.com/news/662624/tesla-cheaper-rwd-model-y-available-us)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

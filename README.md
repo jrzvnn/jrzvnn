@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What game is that?](http://9gag.com/gag/aoyLpRe)
  - 😝 [He\u2019s totally sober\u2026](http://9gag.com/gag/apRbLwB)
- - 😝 [World, are you ready for Pakistan&#39;s wrath?](http://9gag.com/gag/an7EjE5)
- - 💣 [At the party...](http://9gag.com/gag/a4P2jE1)
- - 😝 [10/10 movie must it be](http://9gag.com/gag/a0e1K2L)
- - 👉 [What game is that?](http://9gag.com/gag/aoyLpRe)<!-- MEMES:END -->
+ - 💣 [World, are you ready for Pakistan&#39;s wrath?](http://9gag.com/gag/an7EjE5)
+ - 😝 [The amount of steel used for the base of a wind turbine ranges from 120-180 tons. This then gets buried in 300-900 yards of concrete depending on the windmill size.](http://9gag.com/gag/azxRqxm)
+ - 👉 [Another Adventure](http://9gag.com/gag/a2v2o5d)<!-- MEMES:END -->
 
 ---
 

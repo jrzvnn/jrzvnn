@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Found a $119 a night place.](http://9gag.com/gag/aVvLPqP)
- - 😝 [Just don\u2019t tell your mom](http://9gag.com/gag/a9y2PZ0)
- - 💣 [2024 junior world champion launching his F1D, total flight time 22 minutes](http://9gag.com/gag/aO8PVGr)
+ - 😝 [Watched it so many times and still don\u2019t understand how they did it.](http://9gag.com/gag/aAy2149)
+ - 💣 [Just don\u2019t tell your mom](http://9gag.com/gag/a9y2PZ0)
  - 😝 [What game is that?](http://9gag.com/gag/aoyLpRe)
- - 👉 [Having more dei will solve the problem](http://9gag.com/gag/a4P2jzZ)<!-- MEMES:END -->
+ - 👉 [The S stands for...](http://9gag.com/gag/amoMr8o)<!-- MEMES:END -->
 
 ---
 

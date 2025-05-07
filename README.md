@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rockstar says new GTA VI trailer was &amp;#8216;equal parts gameplay and cutscenes&amp;#8217;](https://www.theverge.com/news/662834/gta-6-trailer-gameplay-ps5)
+ - [Internal messages show how the US State Department, in conjunction with trade talks, pushed nations facing tariffs to clear regulatory hurdles for Starlink &lpar;Washington Post&rpar;](http://www.techmeme.com/250507/p37#a250507p37)
  - [Amazon discounts M4 Mac mini with 24GB RAM, 512GB SSD to $894](https://appleinsider.com/articles/25/05/07/amazon-discounts-m4-mac-mini-with-24gb-ram-512gb-ssd-to-894?utm_medium=rss)
  - [Android’s splashy new paint job won’t yank Gen Z from iPhones](https://www.theverge.com/tech/662719/android-material-3-gen-z-iphone)
- - [Backbone Pro review: meticulous craftsmanship, exorbitant price](https://appleinsider.com/articles/25/05/06/backbone-pro-review-meticulous-craftsmanship-exorbitant-price?utm_medium=rss)
- - [Sources: Meta is once again considering facial recognition for its smart glasses and other devices, after abandoning the idea over ethical concerns in 2021 &lpar;The Information&rpar;](http://www.techmeme.com/250507/p36#a250507p36)
- - [The Trump Administration Sure Is Having Trouble Keeping Its Comms Private](https://www.wired.com/story/uncanny-valley-podcast-trump-administration-government-communications/)<!-- TECH:END -->
+ - [Backbone Pro review: meticulous craftsmanship, exorbitant price](https://appleinsider.com/articles/25/05/06/backbone-pro-review-meticulous-craftsmanship-exorbitant-price?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

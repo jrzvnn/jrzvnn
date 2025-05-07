@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Periodic Labs, which is building a &quot;ChatGPT for material science&quot;, is seeking to raise hundreds of millions of dollars at a valuation of at least $1B &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/250506/p52#a250506p52)
+ - [A profile of Christian Garrett, co-founder of the Hill and Valley Forum and partner at 137 Ventures, who has become Silicon Valley&#39;s diplomat to Washington, DC &lpar;Margaux MacColl/The San Francisco ...&rpar;](http://www.techmeme.com/250506/p51#a250506p51)
  - [DOJ seeks to break up Google ad business after illegal monopoly ruling](https://appleinsider.com/articles/25/05/07/doj-seeks-to-break-up-google-ad-business-after-illegal-monopoly-ruling?utm_medium=rss)
  - [Sources: Senate Democrats are in talks with Republicans about an eleventh-hour effort to try to save the bipartisan GENIUS Act on stablecoin regulation &lpar;Axios&rpar;](http://www.techmeme.com/250506/p50#a250506p50)
- - [Aiffro P30 3 in 1 Portable SSD review: A mini hub for making iPhone movies](https://appleinsider.com/articles/25/05/07/aiffro-p30-3-in-1-portable-ssd-review-a-mini-hub-for-making-iphone-movies?utm_medium=rss)
- - [App Store Freedom Act hopes to bring alternative app stores to US iPhones](https://appleinsider.com/articles/25/05/07/app-store-freedom-act-hopes-to-bring-alternative-app-stores-to-us-iphones?utm_medium=rss)
- - [An AWS survey of 3,739 senior IT decision-makers across nine countries finds 45% plan to prioritize spending on generative AI in 2025, and 30% on cybersecurity &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250506/p49#a250506p49)<!-- TECH:END -->
+ - [Aiffro P30 3 in 1 Portable SSD review: A mini hub for making iPhone movies](https://appleinsider.com/articles/25/05/07/aiffro-p30-3-in-1-portable-ssd-review-a-mini-hub-for-making-iphone-movies?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Seriously: who designed this? LOL](http://9gag.com/gag/awydQXQ)
- - 😝 [The man gets mangled/run over by a snowplow after saving his nephew&#39;s life. He said he could hear his own bones crunching. Spends months recovering. Only to be offered peanuts to carry a show while they obviously push him out to introduce a female lead. Disney is a ashhowe.](http://9gag.com/gag/apRbpXD)
- - 💣 [Nice one Sam](http://9gag.com/gag/an7EjKo)
- - 😝 [Halley&#39;s comet compared to New York.](http://9gag.com/gag/abABZzX)
- - 👉 [What game is that?](http://9gag.com/gag/aoyLpRe)<!-- MEMES:END -->
+ - 😝 [Having more dei will solve the problem](http://9gag.com/gag/a4P2jzZ)
+ - 😝 [2024 junior world champion launching his F1D, total flight time 22 minutes](http://9gag.com/gag/aO8PVGr)
+ - 💣 [Watched it so many times and still don\u2019t understand how they did it.](http://9gag.com/gag/aAy2149)
+ - 😝 [Nice one Sam](http://9gag.com/gag/an7EjKo)
+ - 👉 [How to calm a baby](http://9gag.com/gag/avyRP1X)<!-- MEMES:END -->
 
 ---
 

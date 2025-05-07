@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Seriously: who designed this? LOL](http://9gag.com/gag/awydQXQ)
- - 😝 [Star wars in Broadway looks really good.](http://9gag.com/gag/aVvLMwn)
- - 💣 [Nice one Sam](http://9gag.com/gag/an7EjKo)
- - 😝 [Halley&#39;s comet compared to New York.](http://9gag.com/gag/abABZzX)
- - 👉 [Found a $119 a night place.](http://9gag.com/gag/aVvLPqP)<!-- MEMES:END -->
+ - 😝 [I wonder what will happen to Japan if these folks invade.](http://9gag.com/gag/aYQqK4O)
+ - 😝 [Indian railways finds a clever way to stop people from traveling without tickets.](http://9gag.com/gag/ajPZqW1)
+ - 💣 [Comment if you agree](http://9gag.com/gag/a2v24M1)
+ - 😝 [Incredible india](http://9gag.com/gag/aByGYjD)
+ - 👉 [Sometimes I want to eat the ruling class](http://9gag.com/gag/avyRGMX)<!-- MEMES:END -->
 
 ---
 

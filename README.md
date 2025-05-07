@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Having more dei will solve the problem](http://9gag.com/gag/a4P2jzZ)
- - 😝 [Meanwhile in Australia](http://9gag.com/gag/a6Z27yb)
- - 💣 [Toss a coin to your Witcher](http://9gag.com/gag/a1m2Xew)
- - 😝 [He\u2019s totally sober\u2026](http://9gag.com/gag/apRbLwB)
- - 👉 [Halley&#39;s comet compared to New York.](http://9gag.com/gag/abABZzX)<!-- MEMES:END -->
+ - 😝 [Seriously: who designed this? LOL](http://9gag.com/gag/awydQXQ)
+ - 😝 [Star wars in Broadway looks really good.](http://9gag.com/gag/aVvLMwn)
+ - 💣 [Nice one Sam](http://9gag.com/gag/an7EjKo)
+ - 😝 [Halley&#39;s comet compared to New York.](http://9gag.com/gag/abABZzX)
+ - 👉 [Found a $119 a night place.](http://9gag.com/gag/aVvLPqP)<!-- MEMES:END -->
 
 ---
 

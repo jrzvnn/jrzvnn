@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s Eddy Cue: ‘You may not need an iPhone 10 years from now’](https://www.theverge.com/news/662769/apple-iphone-may-not-need-10-years)
+ - [Sen. Blumenthal says the Permanent Subcommittee on Investigations opened an inquiry into Trump&#39;s crypto empire, calling his memecoin dinner &quot;pay-for-play&quot; &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250507/p35#a250507p35)
  - [Mitsubishi&amp;#8217;s next EV is based on the upcoming Nissan Leaf coming in 2026](https://www.theverge.com/news/662755/mitsubishi-ev-2026-nissan-leaf-us)
  - [States sue Trump over ‘existential threat’ to wind energy](https://www.theverge.com/news/661318/wind-energy-electricity-states-lawsuit-president-trump)
- - [Google searches are falling in Safari for the first time ever — probably because of AI](https://www.theverge.com/news/662725/google-search-safari-ai-apple-eddy-cue-testimony)
- - [Figma releases AI-powered tools to take on Canva and Adobe: Figma Sites for creating sites, Figma Make for app prototypes, and Figma Buzz for marketing assets &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250507/p34#a250507p34)
- - [Samsung subsidiary Harman has agreed to acquire Masimo&#39;s audio division, which includes the Bowers &amp; Wilkins, Denon, and Polk Audio brands, for $350M &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250507/p33#a250507p33)<!-- TECH:END -->
+ - [Google searches are falling in Safari for the first time ever — probably because of AI](https://www.theverge.com/news/662725/google-search-safari-ai-apple-eddy-cue-testimony)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

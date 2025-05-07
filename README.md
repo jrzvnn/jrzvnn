@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What game is that?](http://9gag.com/gag/aoyLpRe)
- - 😝 [Just don\u2019t tell your mom](http://9gag.com/gag/a9y2PZ0)
- - 💣 [Fun](http://9gag.com/gag/aMVv8N1)
- - 😝 [How to calm a baby](http://9gag.com/gag/avyRP1X)
+ - 😝 [Just where is this dentist office?](http://9gag.com/gag/aQzZ8z7)
+ - 😝 [Having more dei will solve the problem](http://9gag.com/gag/a4P2jzZ)
+ - 💣 [Just look at them](http://9gag.com/gag/aKGeBQ1)
+ - 😝 [Found a $119 a night place.](http://9gag.com/gag/aVvLPqP)
  - 👉 [The S stands for...](http://9gag.com/gag/amoMr8o)<!-- MEMES:END -->
 
 ---

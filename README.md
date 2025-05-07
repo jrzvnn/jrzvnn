@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon unveils Vulcan, a sorting robot with a sense of touch and will be capable of grabbing ~75% of warehouse items, rolling out globally in the next few years &lpar;Sarah Butler/The Guardian&rpar;](http://www.techmeme.com/250507/p10#a250507p10)
+ - [Don’t Have a Real ID? You Can Still Fly With a License, for Now](https://www.wired.com/story/how-to-get-a-real-id-license/)
+ - [A look at the hype and reality surrounding AI agents, currently used primarily by companies to boost efficiency and cut costs, rather than drive top-line growth &lpar;Lucy Colback/Financial Times&rpar;](http://www.techmeme.com/250507/p9#a250507p9)
  - [US credit and debit card data: Shein&#39;s US sales dropped 23% during the week of April 25 to May 1 compared to the prior seven days, while Temu&#39;s sales fell 17% &lpar;Bloomberg&rpar;](http://www.techmeme.com/250507/p8#a250507p8)
- - [Microsoft and Asus’ Xbox handheld appears in leaked photos](https://www.theverge.com/news/662440/xbox-handheld-photos-microsoft-asus-rog-ally-2-fcc-listing)
- - [Leaked audio and memos: Uber CEO Dara Khosrowshahi defended increasing the RTO to three days per week at a heated all-hands meeting, saying &quot;it is what it is&quot; &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/250507/p7#a250507p7)
- - [The AI arms race between employers and jobseekers isn&#39;t going well for anyone, as applicants turn to GenAI to speed up a process that already feels dehumanized &lpar;Sarah O&#39;Connor/Financial Times&rpar;](http://www.techmeme.com/250507/p6#a250507p6)
- - [Samsung adds Bowers &amp;#038; Wilkins, Denon, Marantz, and Polk to its audio empire](https://www.theverge.com/news/662437/samsung-harman-masimo-aquisition-audio-empire)<!-- TECH:END -->
+ - [Microsoft and Asus’ Xbox handheld appears in leaked photos](https://www.theverge.com/news/662440/xbox-handheld-photos-microsoft-asus-rog-ally-2-fcc-listing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

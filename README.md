@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The S stands for...](http://9gag.com/gag/amoMr8o)
+ - 😝 [Anyone find some pics or video yet?](http://9gag.com/gag/abABbwE)
+ - 💣 [Meanwhile in Australia](http://9gag.com/gag/a6Z27yb)
  - 😝 [Found a $119 a night place.](http://9gag.com/gag/aVvLPqP)
- - 😝 [Watched it so many times and still don\u2019t understand how they did it.](http://9gag.com/gag/aAy2149)
- - 💣 [Just don\u2019t tell your mom](http://9gag.com/gag/a9y2PZ0)
- - 😝 [What game is that?](http://9gag.com/gag/aoyLpRe)
- - 👉 [The S stands for...](http://9gag.com/gag/amoMr8o)<!-- MEMES:END -->
+ - 👉 [Just don\u2019t tell your mom](http://9gag.com/gag/a9y2PZ0)<!-- MEMES:END -->
 
 ---
 

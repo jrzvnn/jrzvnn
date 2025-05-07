@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Banned Interview 9/11-Dont talk about it](http://9gag.com/gag/aAy2Pod)
- - 😝 [Is this the real life? &lpar;Caption: Highschool female teacher arrested for having sexual relationship with her student&rpar;](http://9gag.com/gag/aRBo3QM)
- - 💣 [What game is that?](http://9gag.com/gag/aoyLpRe)
- - 😝 [World, are you ready for Pakistan&#39;s wrath?](http://9gag.com/gag/an7EjE5)
- - 👉 [Fun](http://9gag.com/gag/aMVv8N1)<!-- MEMES:END -->
+ - 😝 [Another Adventure](http://9gag.com/gag/a2v2o5d)
+ - 😝 [Technologia xD](http://9gag.com/gag/ayNRxbW)
+ - 💣 [Banned Interview 9/11-Dont talk about it](http://9gag.com/gag/aAy2Pod)
+ - 😝 [10/10 movie must it be](http://9gag.com/gag/a0e1K2L)
+ - 👉 [A spinning machine in Japan that gives an Intel processor up to i7 at $3.3](http://9gag.com/gag/azxRrLb)<!-- MEMES:END -->
 
 ---
 

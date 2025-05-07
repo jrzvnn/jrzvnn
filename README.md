@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Failed robbery attempt of an armored vehicle](http://9gag.com/gag/a6Z2b29)
- - 😝 [9gaggers dream..ohh wait](http://9gag.com/gag/aZZjMXV)
- - 💣 [Just where is this dentist office?](http://9gag.com/gag/aQzZ8z7)
+ - 😝 [Star wars in Broadway looks really good.](http://9gag.com/gag/aVvLMwn)
+ - 😝 [Based](http://9gag.com/gag/a4P2j31)
+ - 💣 [9gaggers dream..ohh wait](http://9gag.com/gag/aZZjMXV)
  - 😝 [What game is that?](http://9gag.com/gag/aoyLpRe)
  - 👉 [Halley&#39;s comet compared to New York.](http://9gag.com/gag/abABZzX)<!-- MEMES:END -->
 

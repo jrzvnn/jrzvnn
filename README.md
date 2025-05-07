@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alibaba partners with RedNote, also known as Xiaohongshu, to allow users on RedNote to directly click on product links to shop on Alibaba&#39;s Taobao platform &lpar;Reuters&rpar;](http://www.techmeme.com/250507/p45#a250507p45)
  - [Eddy Cue is fighting to save Apple’s $20 billion paycheck from Google](https://www.theverge.com/policy/662974/google-search-remedies-trial-eddy-cue-apple-deal-ai)
  - [The best Mother’s Day gifts you can still grab](https://www.theverge.com/tech/662298/best-mothers-day-gifts-last-minute-sale-deal)
  - [AppLovin reports Q1 revenue up 40% YoY to $1.48B, vs. $1.38B est., net income up 144% to $576M, and forecasts Q2 revenue below est.; APP jumps 13%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250507/p44#a250507p44)
- - [The Commerce Department says it will rescind the Biden-era &quot;AI diffusion rule&quot;, which limits exports of AI chips and is set to take effect on May 15 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250507/p43#a250507p43)
- - [AppLovin agrees to sell its mobile gaming business to UK-based Tripledot for $400M in cash and a ~20% stake in Tripledot, in a deal expected to close in Q2 2025 &lpar;Neil Long/Mobilegamer.biz&rpar;](http://www.techmeme.com/250507/p42#a250507p42)<!-- TECH:END -->
+ - [The Commerce Department says it will rescind the Biden-era &quot;AI diffusion rule&quot;, which limits exports of AI chips and is set to take effect on May 15 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250507/p43#a250507p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

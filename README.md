@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What game is that?](http://9gag.com/gag/aoyLpRe)
- - 😝 [Seriously: who designed this? LOL](http://9gag.com/gag/awydQXQ)
- - 💣 [Lol.](http://9gag.com/gag/aVvLe7P)
- - 😝 [People are blind.](http://9gag.com/gag/ae9meLp)
- - 👉 [At the party...](http://9gag.com/gag/a4P2jE1)<!-- MEMES:END -->
+ - 😝 [He\u2019s totally sober\u2026](http://9gag.com/gag/apRbLwB)
+ - 😝 [World, are you ready for Pakistan&#39;s wrath?](http://9gag.com/gag/an7EjE5)
+ - 💣 [At the party...](http://9gag.com/gag/a4P2jE1)
+ - 😝 [10/10 movie must it be](http://9gag.com/gag/a0e1K2L)
+ - 👉 [What game is that?](http://9gag.com/gag/aoyLpRe)<!-- MEMES:END -->
 
 ---
 

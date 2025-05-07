@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s Eddy Cue is guessing that the iPhone will eventually be replaced by AI](https://appleinsider.com/articles/25/05/07/apples-eddy-cue-is-guessing-that-the-iphone-will-eventually-be-replaced-by-ai?utm_medium=rss)
+ - [Netflix unveils its ChatGPT-powered search that lets users express preferences using natural phrases, to be rolled out this week to iOS users as an opt-in beta &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250507/p32#a250507p32)
  - [A US court rejects a legal challenge by the FTC to Microsoft&#39;s $69B Activision Blizzard acquisition, upholding a lower court ruling that denied an injunction &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/250507/p31#a250507p31)
  - [Sonos and IKEA&#39;s Love Affair Is Over—Grab This $19 Device While You Still Can](https://www.wired.com/story/sonos-is-dumping-ikea-get-this-dollar19-device-while-you-can/)
- - [Microsoft says it will support Google&#39;s Agent2Agent spec, known as A2A, in Azure AI Foundry and Copilot Studio and will join A2A&#39;s working group on GitHub &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250507/p30#a250507p30)
- - [Apple working on adding AI-powered search to Safari](https://appleinsider.com/articles/25/05/07/apple-working-on-adding-ai-powered-search-to-safari?utm_medium=rss)
- - [Nintendo Pictochat-inspired iMessage app lets you text your friends like it&#39;s 2004](https://appleinsider.com/articles/25/05/07/nintendo-pictochat-inspired-imessage-app-lets-you-text-your-friends-like-its-2004?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft says it will support Google&#39;s Agent2Agent spec, known as A2A, in Azure AI Foundry and Copilot Studio and will join A2A&#39;s working group on GitHub &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250507/p30#a250507p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

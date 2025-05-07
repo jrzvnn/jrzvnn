@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Silence Speaks Has Created AI-Powered Signing Avatars for the Deaf](https://www.wired.com/story/silence-speaks-deaf-ai-signing/)
  - [LinkedIn’s new AI search tool lets you describe your ideal job](https://www.theverge.com/news/662490/linkedin-ai-job-search-tool-availability)
  - [Aiffro P30 3 in 1 Portable SSD review: A mini hub for making iPhone movies](https://appleinsider.com/articles/25/05/07/aiffro-p30-3-in-1-portable-ssd-review-a-mini-hub-for-making-iphone-movies?utm_medium=rss)
  - [Billion dollar battle: Picking an App Store fight with Apple cost Epic Games greatly](https://appleinsider.com/articles/25/05/07/billion-dollar-battle-picking-an-app-store-fight-with-apple-cost-epic-games-greatly?utm_medium=rss)
- - [13 Best Soundbars We’ve Tested and Reviewed &lpar;2025&rpar;: Sonos, Sony, Bose](https://www.wired.com/gallery/best-soundbars/)
- - [EcoFlow brings its plug-in solar power plant to US homes](https://www.theverge.com/news/661640/ecoflow-stream-us-plug-in-solar-specs-price)<!-- TECH:END -->
+ - [13 Best Soundbars We’ve Tested and Reviewed &lpar;2025&rpar;: Sonos, Sony, Bose](https://www.wired.com/gallery/best-soundbars/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

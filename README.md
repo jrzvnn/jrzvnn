@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At the party...](http://9gag.com/gag/a4P2jE1)
- - 😝 [Class attending rate 100%](http://9gag.com/gag/azxRAWq)
- - 💣 [`There are no terrorist camps in Pakistan` Link below in comments](http://9gag.com/gag/aoyLOBw)
- - 😝 [Nice one Sam](http://9gag.com/gag/an7EjKo)
- - 👉 [Seriously: who designed this? LOL](http://9gag.com/gag/awydQXQ)<!-- MEMES:END -->
+ - 😝 [Woke up early today...](http://9gag.com/gag/ajPZDO1)
+ - 😝 [`There are no terrorist camps in Pakistan` Link below in comments](http://9gag.com/gag/aoyLOBw)
+ - 💣 [Seriously: who designed this? LOL](http://9gag.com/gag/awydQXQ)
+ - 😝 [He\u2019s totally sober\u2026](http://9gag.com/gag/apRbLwB)
+ - 👉 [NO THAT&#39;S DANGEROUS! oh....](http://9gag.com/gag/aKGeDOj)<!-- MEMES:END -->
 
 ---
 

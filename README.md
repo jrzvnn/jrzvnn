@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He\u2019s totally sober\u2026](http://9gag.com/gag/apRbLwB)
- - 😝 [World, are you ready for Pakistan&#39;s wrath?](http://9gag.com/gag/an7EjE5)
- - 💣 [The amount of steel used for the base of a wind turbine ranges from 120-180 tons. This then gets buried in 300-900 yards of concrete depending on the windmill size.](http://9gag.com/gag/azxRqxm)
+ - 😝 [At the party...](http://9gag.com/gag/a4P2jE1)
+ - 😝 [Class attending rate 100%](http://9gag.com/gag/azxRAWq)
+ - 💣 [`There are no terrorist camps in Pakistan` Link below in comments](http://9gag.com/gag/aoyLOBw)
  - 😝 [Nice one Sam](http://9gag.com/gag/an7EjKo)
- - 👉 [Is this the real life? &lpar;Caption: Highschool female teacher arrested for having sexual relationship with her student&rpar;](http://9gag.com/gag/aRBo3QM)<!-- MEMES:END -->
+ - 👉 [Seriously: who designed this? LOL](http://9gag.com/gag/awydQXQ)<!-- MEMES:END -->
 
 ---
 

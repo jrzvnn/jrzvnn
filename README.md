@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google launched a Gemini app for iPad](https://www.theverge.com/news/662941/google-gemini-ipad-app)
- - [Sources: OpenAI staffers met with the FDA and two DOGE associates multiple times in recent weeks to discuss a project called cderGPT, likely for drug evaluation &lpar;Wired&rpar;](http://www.techmeme.com/250507/p41#a250507p41)
- - [Reddit will keep old Reddit online &amp;#8216;as long as people are using it,&amp;#8217; says CEO](https://www.theverge.com/news/662946/reddit-old-online-steve-huffman-spez)
- - [Arm reports Q4 revenue up 34% YoY to $1.24B, vs. $1.23B est., royalty revenue up 18% to $607M, and forecasts Q1 revenue below est.; ARM drops 8%+ after hours &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250507/p40#a250507p40)
- - [Sony WH-1000XM6 headphone specs and details leak early](https://www.theverge.com/news/662938/sony-xm6-leak-headphones-noise-canceling-price)<!-- TECH:END -->
+ - [The Commerce Department says it will rescind the Biden-era &quot;AI diffusion rule&quot;, which limits exports of AI chips and is set to take effect on May 15 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250507/p43#a250507p43)
+ - [AppLovin agrees to sell its mobile gaming business to UK-based Tripledot for $400M in cash and a ~20% stake in Tripledot, in a deal expected to close in Q2 2025 &lpar;Neil Long/Mobilegamer.biz&rpar;](http://www.techmeme.com/250507/p42#a250507p42)
+ - [Trump cuts Energy Star program that saved households $450 a year](https://www.theverge.com/news/662847/trump-ending-energy-star-program-could-cost-homeowners-450-annually)
+ - [Customs and Border Protection Confirms Its Use of Hacked Signal Clone TeleMessage](https://www.wired.com/story/cbp-confirms-telemessage-use/)
+ - [This US Company Just Successfully Tested a Reusable Hypersonic Rocket Plane](https://www.wired.com/story/the-company-with-the-worlds-largest-aircraft-now-has-a-hypersonic-rocket-plane/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

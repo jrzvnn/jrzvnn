@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: CrowdStrike CEO George Kurtz says the company will cut ~500 jobs, or 5% of its global workforce, and expects to incur $36M to $56M in charges &lpar;Dean Seal/Wall Street Journal&rpar;](http://www.techmeme.com/250507/p19#a250507p19)
- - [Sennheiser’s new affordable open earbuds are less affordable in the US](https://www.theverge.com/news/662477/sennheiser-accentum-open-earbuds-us-price-tariffs)
- - [Ox Security, which scans for vulnerabilities in both AI- and human-generated code, raised a $60M Series B led by DTCP and says it scans 100M+ lines per day &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250507/p18#a250507p18)
- - [OpenAI unveils OpenAI for Countries, an initiative to help build out AI infrastructure and customize OpenAI&#39;s products for specific languages and local needs &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250507/p17#a250507p17)
- - [Uber reports Q1 revenue up 14% YoY to $11.5B, Gross Bookings up 14% YoY to $42.8B, vs. $43.1B est., trips up 18% YoY to 3B, and $1.8B net income; UBER falls ~5% &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250507/p16#a250507p16)<!-- TECH:END -->
+ - [Lack of updates and new models sees Apple Watch sales decline](https://appleinsider.com/articles/25/05/07/lack-of-updates-and-new-models-sees-apple-watch-sales-decline?utm_medium=rss)
+ - [Q&amp;A with Amazon Zoox co-founder Jesse Levinson on Zoox&#39;s robotaxi design, rider comfort, San Francisco testing, Waymo, developing bespoke vehicles, and more &lpar;Rafe Uddin/Financial Times&rpar;](http://www.techmeme.com/250507/p21#a250507p21)
+ - [Netflix is getting a big TV revamp](https://www.theverge.com/news/662407/netflix-tv-redesign-revamp-update)
+ - [Netflix will try a TikTok-like feed on its mobile app](https://www.theverge.com/news/662408/netflix-tiktok-feed-vertical-video-mobile-app)
+ - [Netflix unveils a new homepage design for TVs, its first update since 2013, featuring fewer titles but more video and animation, rolling out from next week &lpar;John Koblin/New York Times&rpar;](http://www.techmeme.com/250507/p20#a250507p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

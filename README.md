@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US court rejects a legal challenge by the FTC to Microsoft&#39;s $69B Activision Blizzard acquisition, upholding a lower court ruling that denied an injunction &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/250507/p31#a250507p31)
+ - [Sonos and IKEA&#39;s Love Affair Is Over—Grab This $19 Device While You Still Can](https://www.wired.com/story/sonos-is-dumping-ikea-get-this-dollar19-device-while-you-can/)
+ - [Microsoft says it will support Google&#39;s Agent2Agent spec, known as A2A, in Azure AI Foundry and Copilot Studio and will join A2A&#39;s working group on GitHub &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250507/p30#a250507p30)
  - [Apple working on adding AI-powered search to Safari](https://appleinsider.com/articles/25/05/07/apple-working-on-adding-ai-powered-search-to-safari?utm_medium=rss)
- - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)
- - [15 Great Deals on Mother&#39;s Day Gifts &lpar;2025&rpar;](https://www.wired.com/story/mothers-day-deals-2025/)
- - [US v. Google: Eddy Cue testifies that Apple is &quot;actively looking at&quot; reshaping Safari to focus on AI search and, in a first, Safari searches dropped in April &lpar;Bloomberg&rpar;](http://www.techmeme.com/250507/p29#a250507p29)
- - [Tesla&amp;#8217;s cheaper RWD Model Y is now available in the US](https://www.theverge.com/news/662624/tesla-cheaper-rwd-model-y-available-us)<!-- TECH:END -->
+ - [Nintendo Pictochat-inspired iMessage app lets you text your friends like it&#39;s 2004](https://appleinsider.com/articles/25/05/07/nintendo-pictochat-inspired-imessage-app-lets-you-text-your-friends-like-its-2004?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

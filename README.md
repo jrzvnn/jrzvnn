@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An AWS survey of 3,739 senior IT decision-makers across nine countries finds 45% plan to prioritize spending on generative AI in 2025, and 30% on cybersecurity &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250506/p49#a250506p49)
- - [&#39;Fortnite&#39; could return to the US App Store by Friday](https://appleinsider.com/articles/25/05/06/fortnite-could-return-to-the-us-app-store-by-friday?utm_medium=rss)
- - [Senate Dems propose ban on presidents investing or endorsing crypto assets](https://www.theverge.com/news/662313/meme-coin-stablecoin-genius-act-corruption-trump)
- - [Amazon’s Zoox issued a robotaxi software recall after a crash in Las Vegas](https://www.theverge.com/news/662321/amazon-zoox-recall-robotaxi-las-vegas-crash-software-fix)
- - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
+ - [DOJ seeks to break up Google ad business after illegal monopoly ruling](https://appleinsider.com/articles/25/05/07/doj-seeks-to-break-up-google-ad-business-after-illegal-monopoly-ruling?utm_medium=rss)
+ - [Sources: Senate Democrats are in talks with Republicans about an eleventh-hour effort to try to save the bipartisan GENIUS Act on stablecoin regulation &lpar;Axios&rpar;](http://www.techmeme.com/250506/p50#a250506p50)
+ - [Aiffro P30 3 in 1 Portable SSD review: A mini hub for making iPhone movies](https://appleinsider.com/articles/25/05/07/aiffro-p30-3-in-1-portable-ssd-review-a-mini-hub-for-making-iphone-movies?utm_medium=rss)
+ - [App Store Freedom Act hopes to bring alternative app stores to US iPhones](https://appleinsider.com/articles/25/05/07/app-store-freedom-act-hopes-to-bring-alternative-app-stores-to-us-iphones?utm_medium=rss)
+ - [An AWS survey of 3,739 senior IT decision-makers across nine countries finds 45% plan to prioritize spending on generative AI in 2025, and 30% on cybersecurity &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250506/p49#a250506p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

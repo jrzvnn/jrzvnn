@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mitsubishi&amp;#8217;s next EV is based on the upcoming Nissan Leaf coming in 2026](https://www.theverge.com/news/662755/mitsubishi-ev-2026-nissan-leaf-us)
  - [States sue Trump over ‘existential threat’ to wind energy](https://www.theverge.com/news/661318/wind-energy-electricity-states-lawsuit-president-trump)
- - [Google searches are falling in Safari for the first time ever —probably because of AI](https://www.theverge.com/news/662725/google-search-safari-ai-apple-eddy-cue-testimony)
+ - [Google searches are falling in Safari for the first time ever — probably because of AI](https://www.theverge.com/news/662725/google-search-safari-ai-apple-eddy-cue-testimony)
  - [Figma releases AI-powered tools to take on Canva and Adobe: Figma Sites for creating sites, Figma Make for app prototypes, and Figma Buzz for marketing assets &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250507/p34#a250507p34)
- - [Samsung subsidiary Harman has agreed to acquire Masimo&#39;s audio division, which includes the Bowers &amp; Wilkins, Denon, and Polk Audio brands, for $350M &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250507/p33#a250507p33)
- - [Apple&#39;s Eddy Cue is guessing that the iPhone will eventually be replaced by AI](https://appleinsider.com/articles/25/05/07/apples-eddy-cue-is-guessing-that-the-iphone-will-eventually-be-replaced-by-ai?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung subsidiary Harman has agreed to acquire Masimo&#39;s audio division, which includes the Bowers &amp; Wilkins, Denon, and Polk Audio brands, for $350M &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250507/p33#a250507p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

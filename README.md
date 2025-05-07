@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wonder what will happen to Japan if these folks invade.](http://9gag.com/gag/aYQqK4O)
- - 😝 [Indian railways finds a clever way to stop people from traveling without tickets.](http://9gag.com/gag/ajPZqW1)
- - 💣 [Comment if you agree](http://9gag.com/gag/a2v24M1)
- - 😝 [Incredible india](http://9gag.com/gag/aByGYjD)
- - 👉 [Sometimes I want to eat the ruling class](http://9gag.com/gag/avyRGMX)<!-- MEMES:END -->
+ - 😝 [Seriously: who designed this? LOL](http://9gag.com/gag/awydQXQ)
+ - 😝 [Class attending rate 100%](http://9gag.com/gag/azxRAWq)
+ - 💣 [The S stands for...](http://9gag.com/gag/amoMr8o)
+ - 😝 [Found a $119 a night place.](http://9gag.com/gag/aVvLPqP)
+ - 👉 [Good work officer. Put her in jail](http://9gag.com/gag/ae9mG4Q)<!-- MEMES:END -->
 
 ---
 

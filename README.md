@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New report contradicts Tim Cook&#39;s remarks about iPhone panic buying](https://appleinsider.com/articles/25/05/07/new-report-contradicts-tim-cooks-remarks-about-iphone-panic-buying?utm_medium=rss)
- - [How ChatGPT and other AI tools enable systemic cheating in college, unravelling the entire academic project; one student says &quot;the ceiling has been blown off&quot; &lpar;James D. Walsh/New York Magazine&rpar;](http://www.techmeme.com/250507/p28#a250507p28)
- - [Spotify will let you hit &amp;#8216;snooze&amp;#8217; on good songs you’re getting tired of](https://www.theverge.com/news/662616/spotify-snooze-test-song-recommendations)
- - [Matter 1.4.1 will eventually make it easier to setup your smart home](https://appleinsider.com/articles/25/05/07/matter-141-will-eventually-make-it-easier-to-setup-your-smart-home?utm_medium=rss)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
+ - [Tesla&amp;#8217;s cheaper RWD Model Y is now available in the US](https://www.theverge.com/news/662624/tesla-cheaper-rwd-model-y-available-us)
+ - [Netflix getting user interface with AI, has no plans to bring back App Store subscriptions](https://appleinsider.com/articles/25/05/07/netflix-getting-user-interface-with-ai-has-no-plans-to-bring-back-app-store-subscriptions?utm_medium=rss)
+ - [9 Best Mechanical Keyboards &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-mechanical-keyboards/)
+ - [How Microsoft shrunk its Surface devices](https://www.theverge.com/notepad-microsoft-newsletter/661617/microsoft-surface-hardware-engineering-labs-tour-notepad)
+ - [New report contradicts Tim Cook&#39;s remarks about iPhone panic buying](https://appleinsider.com/articles/25/05/07/new-report-contradicts-tim-cooks-remarks-about-iphone-panic-buying?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

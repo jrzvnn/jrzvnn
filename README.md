@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Having more dei will solve the problem](http://9gag.com/gag/a4P2jzZ)
- - 😝 [2024 junior world champion launching his F1D, total flight time 22 minutes](http://9gag.com/gag/aO8PVGr)
- - 💣 [At the party...](http://9gag.com/gag/a4P2jE1)
- - 😝 [Between 1915 and 1926, a mysterious illness swept the world. Victims of Encephalitis Lethargica fell into deep sleep, then woke unable to move or speak. Half a million died or became trapped in their bodies. No one knows what caused it. It hasn&#39;t come back.](http://9gag.com/gag/ajPZAZx)
- - 👉 [Based](http://9gag.com/gag/a4P2j31)<!-- MEMES:END -->
+ - 😝 [Skype has officially shut down](http://9gag.com/gag/ae9mGPj)
+ - 💣 [Class attending rate 100%](http://9gag.com/gag/azxRAWq)
+ - 😝 [Seriously: who designed this? LOL](http://9gag.com/gag/awydQXQ)
+ - 👉 [What game is that?](http://9gag.com/gag/aoyLpRe)<!-- MEMES:END -->
 
 ---
 

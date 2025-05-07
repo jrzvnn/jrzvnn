@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [Tel Aviv-based Sett, which builds AI agents to create and run mobile game marketing content, emerges from stealth and raised $27M, including a $15M Series A &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/250507/p27#a250507p27)
- - [D’Addario XPND Pedal Power Battery Kit Review: Get Juiced](https://www.wired.com/review/daddario-xpnd-pedal-power-battery-kit/)
- - [Mistral releases Medium 3, which it says focuses on efficiency without compromising performance, for $0.40 per 1M input tokens, and launches Le Chat Enterprise &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250507/p26#a250507p26)
- - [PlayStation announces new studio focused on ‘immersive multiplayer worlds’](https://www.theverge.com/news/662579/team-lfg-playstation-studio)<!-- TECH:END -->
+ - [New report contradicts Tim Cook&#39;s remarks about iPhone panic buying](https://appleinsider.com/articles/25/05/07/new-report-contradicts-tim-cooks-remarks-about-iphone-panic-buying?utm_medium=rss)
+ - [How ChatGPT and other AI tools enable systemic cheating in college, unravelling the entire academic project; one student says &quot;the ceiling has been blown off&quot; &lpar;James D. Walsh/New York Magazine&rpar;](http://www.techmeme.com/250507/p28#a250507p28)
+ - [Spotify will let you hit &amp;#8216;snooze&amp;#8217; on good songs you’re getting tired of](https://www.theverge.com/news/662616/spotify-snooze-test-song-recommendations)
+ - [Matter 1.4.1 will eventually make it easier to setup your smart home](https://appleinsider.com/articles/25/05/07/matter-141-will-eventually-make-it-easier-to-setup-your-smart-home?utm_medium=rss)
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DoorDash&#39;s planned takeover of Deliveroo has renewed questions about the UK&#39;s ability to attract and retain large tech listings in the face of NY&#39;s dominance &lpar;Financial Times&rpar;](http://www.techmeme.com/250507/p4#a250507p4)
  - [Jeff Bezos and Michael Dell&#39;s family offices have committed $1B in total to Coatue&#39;s new investment fund targeting high-growth public and private tech companies &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/250507/p3#a250507p3)
  - [The CFPB says it will stop enforcing a Biden-era rule treating BNPL firms like credit card lenders; Affirm and other BNPL firms had opposed the rule &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250507/p2#a250507p2)
  - [New Hampshire becomes the first US state to pass a &quot;Strategic Bitcoin Reserve&quot; bill, permitting public fund investment in BTC, either directly or through an ETF &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250507/p1#a250507p1)
- - [Melbourne-based Blinq, which lets users create custom digital business cards and sync contacts with CRM systems, raised a $25M Series A led by Touring Capital &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/250506/p53#a250506p53)
- - [How to turn your living room into a wellness retreat with HomeKit](https://appleinsider.com/inside/homekit/tips/how-to-turn-your-living-room-into-a-wellness-retreat-with-homekit?utm_medium=rss)<!-- TECH:END -->
+ - [Melbourne-based Blinq, which lets users create custom digital business cards and sync contacts with CRM systems, raised a $25M Series A led by Touring Capital &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/250506/p53#a250506p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

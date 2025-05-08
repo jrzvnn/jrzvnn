@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Oh no, anyway..](http://9gag.com/gag/ajPZ87R)
  - 💣 [Eminem - Lose Yourself &lpar;Sung by 331 Movies&rpar;](http://9gag.com/gag/aoyLOve)
  - 😝 [In and out](http://9gag.com/gag/a342QgN)
- - 👉 [This is why is taking them so long](http://9gag.com/gag/aLnm09v)<!-- MEMES:END -->
+ - 👉 [They took over the building to protest now security has blocked the exits and wont let anybody leave without showing ID.](http://9gag.com/gag/ayNRB2q)<!-- MEMES:END -->
 
 ---
 

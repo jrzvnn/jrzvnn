@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every aviation enthusiasts dream](http://9gag.com/gag/aryqG3d)
- - 😝 [N O I C E](http://9gag.com/gag/aMVv8ZM)
- - 💣 [Comment if you agree](http://9gag.com/gag/a2v24M1)
- - 😝 [Tiny but it does the work](http://9gag.com/gag/ayNRXjV)
- - 👉 [They have their own issues](http://9gag.com/gag/adBeK7Q)<!-- MEMES:END -->
+ - 😝 [What&#39;s your favorite position?](http://9gag.com/gag/azxR9bb)
+ - 😝 [Another Adventure](http://9gag.com/gag/a2v2o5d)
+ - 💣 [Technologia xD](http://9gag.com/gag/ayNRxbW)
+ - 😝 [The possibilities](http://9gag.com/gag/ae9mrQj)
+ - 👉 [Are you really?](http://9gag.com/gag/aGyAeDw)<!-- MEMES:END -->
 
 ---
 

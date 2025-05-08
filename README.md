@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple asks court to halt App Store rule changes while it appeals](https://www.theverge.com/news/663361/apple-halt-app-store-ruling-appeal)
- - [Analysis: ~67,000 new or small-time crypto investors bought the $TRUMP memecoin but 80% of them bought near the coin&#39;s peak and saw their holdings nosedive &lpar;Washington Post&rpar;](http://www.techmeme.com/250508/p29#a250508p29)
- - [8 Best Flower Delivery Services of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-flower-delivery-service/)
- - [Reuters is ready to stand up for the press — and embrace AI](https://www.theverge.com/decoder-podcast-with-nilay-patel/663285/reuters-is-ready-to-stand-up-for-the-press-and-embrace-ai)
- - [&#39;The Studio&#39; creator refused Tim Cook a cameo](https://appleinsider.com/articles/25/05/08/the-studio-creator-refused-tim-cook-a-cameo?utm_medium=rss)<!-- TECH:END -->
+ - [Apple gearing up for WWDC with profiles of four Swift Student Challenge winners](https://appleinsider.com/articles/25/05/08/apple-gearing-up-for-wwdc-with-profiles-of-four-swift-student-challenge-winners?utm_medium=rss)
+ - [&#39;Total War: Rome II&#39; marches back to Apple Silicon Macs](https://appleinsider.com/articles/25/05/08/total-war-rome-ii-marches-back-to-apple-silicon-macs?utm_medium=rss)
+ - [7 Best Dehumidifiers We’ve Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-dehumidifiers/)
+ - [The Old Guard&amp;#8217;s immortal action continues in sequel&amp;#8217;s first trailer](https://www.theverge.com/news/662901/the-old-guard-2-trailer-netflx)
+ - [Apple asks court to halt App Store rule changes while it appeals](https://www.theverge.com/news/663361/apple-halt-app-store-ruling-appeal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

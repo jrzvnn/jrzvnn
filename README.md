@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bumble reports Q1 revenue down 7.7% YoY to $247.1M, in line with $246.2M est., with Bumble app paying users falling ~1% YoY to 2.7M; BMBL jumps ~7% after hours &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/250507/p53#a250507p53)
  - [Google says it continues to see overall query growth in Search, including an increase in total queries coming from Apple&#39;s devices and platforms &lpar;The Keyword&rpar;](http://www.techmeme.com/250507/p52#a250507p52)
+ - [What You Need to Know About Satellite Connectivity in Phones](https://www.cnet.com/tech/mobile/what-you-need-to-know-about-satellite-connectivity-in-phones/#ftag=CAD590a51e)
  - [Apple seeks stay on allowing external links &amp; purchases during injunction violation appeal](https://appleinsider.com/articles/25/05/08/apple-seeks-stay-on-allowing-external-links-purchases-during-injunction-violation-appeal?utm_medium=rss)
- - [Filing: Apple seeks to pause the part of the April 30 US federal court ruling that blocked it from charging App Store commissions on outside transactions &lpar;Bloomberg&rpar;](http://www.techmeme.com/250507/p51#a250507p51)
- - [WisdomAI, which offers AI-powered data analytics from structured, unstructured, and &quot;dirty&quot; data, launches with a $23M seed led by Coatue Ventures &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250507/p50#a250507p50)
- - [Vtoman FlashSpeed 1000 Power Station review: Weekend-long portable power](https://appleinsider.com/articles/25/05/08/vtoman-flashspeed-1000-power-station-review-weekend-long-portable-power?utm_medium=rss)<!-- TECH:END -->
+ - [Filing: Apple seeks to pause the part of the April 30 US federal court ruling that blocked it from charging App Store commissions on outside transactions &lpar;Bloomberg&rpar;](http://www.techmeme.com/250507/p51#a250507p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

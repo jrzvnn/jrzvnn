@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Technologia xD](http://9gag.com/gag/ayNRxbW)
- - 😝 [Celebs or just random party crashers?](http://9gag.com/gag/aW4bmgq)
- - 💣 [World, are you ready for Pakistan&#39;s wrath?](http://9gag.com/gag/an7EjE5)
- - 😝 [Lol](http://9gag.com/gag/a872oGp)
- - 👉 [A spinning machine in Japan that gives an Intel processor up to i7 at $3.3](http://9gag.com/gag/azxRrLb)<!-- MEMES:END -->
+ - 😝 [Are you really?](http://9gag.com/gag/aGyAeDw)
+ - 😝 [Is this the real life? &lpar;Caption: Highschool female teacher arrested for having sexual relationship with her student&rpar;](http://9gag.com/gag/aRBo3QM)
+ - 💣 [Celebs or just random party crashers?](http://9gag.com/gag/aW4bmgq)
+ - 😝 [A spinning machine in Japan that gives an Intel processor up to i7 at $3.3](http://9gag.com/gag/azxRrLb)
+ - 👉 [What&#39;s your favorite position?](http://9gag.com/gag/azxR9bb)<!-- MEMES:END -->
 
 ---
 

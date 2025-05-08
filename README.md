@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where can i get one from???](http://9gag.com/gag/amoM54j)
- - 😝 [Celebs or just random party crashers?](http://9gag.com/gag/aW4bmgq)
- - 💣 [They took over the building to protest now security has blocked the exits and wont let anybody leave without showing ID.](http://9gag.com/gag/ayNRB2q)
- - 😝 [Pretty accurate...](http://9gag.com/gag/aryqGDV)
- - 👉 [Lol](http://9gag.com/gag/a872oGp)<!-- MEMES:END -->
+ - 😝 [Come and enjoy a boat trip in Varanasi, Netherlands](http://9gag.com/gag/a342qD8)
+ - 😝 [Kid has a brain.. calling out \u201cnews\u201d shenanigans.](http://9gag.com/gag/aD2Vg6O)
+ - 💣 [Are you really?](http://9gag.com/gag/aGyAeDw)
+ - 😝 [Sinne we&#39;re posting shit again....](http://9gag.com/gag/aGyA1A5)
+ - 👉 [Still don&#39;t know. Do you like my sword sword...](http://9gag.com/gag/aD2V14d)<!-- MEMES:END -->
 
 ---
 

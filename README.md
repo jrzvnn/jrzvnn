@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta says it will start testing video ads on Threads with a &quot;small number&quot; of advertisers, and &quot;Reels trending ads&quot;, which will be shown next to trending Reels &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250508/p39#a250508p39)
+ - [DOJ and FTC invite the public to complain about Ticketmaster](https://www.theverge.com/news/663670/doj-ftc-ticketmaster-complaints-public-comments)
  - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
  - [Ecobee’s video doorbell now integrates with Google Home](https://www.theverge.com/news/663489/ecobee-smart-doorbell-camera-google-home-integration)
- - [Broadcom Sends Cease-and-Desist Letters to VMware Perpetual License Holders](https://www.wired.com/story/vmware-license-holders-receive-cease-and-desist-letters-from-broadcom/)
- - [Apple working on M6 &amp; M7 chips alongside new AI server processor](https://appleinsider.com/articles/25/05/08/apple-working-on-m6-m7-chips-alongside-new-ai-server-processor?utm_medium=rss)
- - [Apple is planning smart glasses with and without AR](https://www.theverge.com/news/663600/apple-smart-glasses-chips-ar-chip)<!-- TECH:END -->
+ - [Broadcom Sends Cease-and-Desist Letters to VMware Perpetual License Holders](https://www.wired.com/story/vmware-license-holders-receive-cease-and-desist-letters-from-broadcom/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

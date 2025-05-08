@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh no, anyway..](http://9gag.com/gag/ajPZ87R)
- - 😝 [Eminem - Lose Yourself &lpar;Sung by 331 Movies&rpar;](http://9gag.com/gag/aoyLOve)
- - 💣 [In and out](http://9gag.com/gag/a342QgN)
- - 😝 [Who?](http://9gag.com/gag/ae9m59b)
- - 👉 [They took over the building to protest now security has blocked the exits and wont let anybody leave without showing ID.](http://9gag.com/gag/ayNRB2q)<!-- MEMES:END -->
+ - 😝 [10/10 movie must it be](http://9gag.com/gag/a0e1K2L)
+ - 😝 [Cyberpunk fans heavy breathing](http://9gag.com/gag/aQzZede)
+ - 💣 [Lol](http://9gag.com/gag/a872oGp)
+ - 😝 [Even a turtleneck can\u2019t hide those](http://9gag.com/gag/amoM7b6)
+ - 👉 [Are you really?](http://9gag.com/gag/aGyAeDw)<!-- MEMES:END -->
 
 ---
 

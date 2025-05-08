@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Touched by Jesus](http://9gag.com/gag/a0e1K9X)
+ - 😝 [Every aviation enthusiasts dream](http://9gag.com/gag/aryqG3d)
  - 😝 [N O I C E](http://9gag.com/gag/aMVv8ZM)
  - 💣 [Comment if you agree](http://9gag.com/gag/a2v24M1)
  - 😝 [Tiny but it does the work](http://9gag.com/gag/ayNRXjV)

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reddit CEO Steve Huffman says the service will work with &quot;various third-party services&quot; to verify a user&#39;s humanity, after an AI experiment in r/ChangeMyView &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250508/p17#a250508p17)
  - [Nintendo expects the Switch 2 to be just as successful as the original](https://www.theverge.com/news/663130/nintendo-switch-2-sales-forecast-15-million)
  - [As the US Cuts Scientific Talent, Europe Launches an Initiative to Attract It](https://www.wired.com/story/us-cuts-scientific-talent-europe/)
  - [The US OCC says banks can buy and sell customers&#39; crypto assets on their behalf and can outsource crypto custody and trade execution services to third parties &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/250508/p16#a250508p16)
- - [The European Commission is facing pressure from member states, led by Ireland, to require Google, Meta, and others to vet financial ads for potential scams &lpar;Financial Times&rpar;](http://www.techmeme.com/250508/p15#a250508p15)
- - [Nintendo projects Switch 2 sales to reach 15M units for the fiscal year ending March 2026, below 16.8M est., and $2.2B annual operating profit, below est. &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/250508/p14#a250508p14)<!-- TECH:END -->
+ - [The European Commission is facing pressure from member states, led by Ireland, to require Google, Meta, and others to vet financial ads for potential scams &lpar;Financial Times&rpar;](http://www.techmeme.com/250508/p15#a250508p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

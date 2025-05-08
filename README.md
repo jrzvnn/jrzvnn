@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI hires former head of the Facebook app](https://www.theverge.com/news/663454/openai-fidji-simo-apps-ceo-facebook-instacart)
+ - [An interview with Gumroad CEO Sahil Lavingia about working as an unpaid contractor for DOGE, moving the Gumroad code base to the MIT license, and more &lpar;Ernie Smith/Fast Company&rpar;](http://www.techmeme.com/250508/p30#a250508p30)
  - [Wikipedia fights the UK’s ‘flawed’ and ‘burdensome’ online safety rules](https://www.theverge.com/news/663402/wikipedia-fights-the-uks-flawed-and-burdensome-online-safety-rules)
  - [Apple gearing up for WWDC with profiles of four Swift Student Challenge winners](https://appleinsider.com/articles/25/05/08/apple-gearing-up-for-wwdc-with-profiles-of-four-swift-student-challenge-winners?utm_medium=rss)
- - [&#39;Total War: Rome II&#39; marches back to Apple Silicon Macs](https://appleinsider.com/articles/25/05/08/total-war-rome-ii-marches-back-to-apple-silicon-macs?utm_medium=rss)
- - [7 Best Dehumidifiers We’ve Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-dehumidifiers/)
- - [The Old Guard&amp;#8217;s immortal action continues in sequel&amp;#8217;s first trailer](https://www.theverge.com/news/662901/the-old-guard-2-trailer-netflx)<!-- TECH:END -->
+ - [&#39;Total War: Rome II&#39; marches back to Apple Silicon Macs](https://appleinsider.com/articles/25/05/08/total-war-rome-ii-marches-back-to-apple-silicon-macs?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

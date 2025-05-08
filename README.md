@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Congress votes to pull funding for free Wi-Fi hotspots at schools and libraries](https://www.theverge.com/policy/663612/congress-votes-to-end-fcc-free-wi-fi-hotspots-children-funding)
- - [Celsius Network founder and former CEO Alex Mashinsky is sentenced to 12 years in prison after pleading guilty to commodities fraud and misleading investors &lpar;Chris Dolmetsch/Bloomberg&rpar;](http://www.techmeme.com/250508/p43#a250508p43)
- - [Memo: the US CFPB discontinues its order designating the supervision of Google Payment, saying the Biden-era decision is an &quot;unwarranted use&quot; of CFPB&#39;s powers &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250508/p42#a250508p42)
- - [Sources: Meta is in discussions with crypto firms to introduce stablecoins as a means to manage payouts, and has hired a VP of product with crypto experience &lpar;Fortune&rpar;](http://www.techmeme.com/250508/p41#a250508p41)
- - [Senate Democrats block the Genius Act after Republicans rebuffed a provision to bar Trump and others from profiting off of crypto ventures while in office &lpar;Steven T. Dennis/Bloomberg&rpar;](http://www.techmeme.com/250508/p40#a250508p40)<!-- TECH:END -->
+ - [The US is reportedly encouraging countries to adopt Musk&amp;#8217;s Starlink in tariff trade talks](https://www.theverge.com/news/663839/us-government-starlink-tariff-talks-elon-musk)
+ - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
+ - [Meta Reportedly Eyeing &#39;Super Sensing&#39; Tech for Smart Glasses](https://www.cnet.com/tech/mobile/meta-reportedly-eyeing-super-sensing-tech-for-smart-glasses/#ftag=CAD590a51e)
+ - [New Sony Noise-Canceling Headphones Specs and Pricing Apparently Leak](https://www.cnet.com/tech/mobile/new-sony-noise-canceling-headphones-specs-and-pricing-apparently-leak/#ftag=CAD590a51e)
+ - [Congress votes to pull funding for free Wi-Fi hotspots at schools and libraries](https://www.theverge.com/policy/663612/congress-votes-to-end-fcc-free-wi-fi-hotspots-children-funding)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

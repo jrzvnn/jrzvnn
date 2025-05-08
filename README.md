@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SMIC reports Q1 revenue up 28.4% YoY to $2.2B, vs. $2.3B est., profit up 161.9% YoY to $188M, vs. $222.4M est., and says H2 has &quot;opportunities and challenges&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/250508/p24#a250508p24)
- - [You can now submit your claims for Apple’s $95 million Siri spying settlement](https://www.theverge.com/news/663166/apple-siri-audio-recording-lawsuit-payout-applications)
- - [Hackers defaced the LockBit ransomware gang&#39;s dark web affiliate panels, linking to a MySQL database dump with operational data, including 59,975 BTC addresses &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250508/p23#a250508p23)
- - [Panasonic S1R II Review: Capable, Affordable, Mirrorless Hybrid Camera](https://www.wired.com/review/panasonic-s1rii-mirrorless-camera/)
- - [Shopify reports Q1 revenue up 27% YoY to $2.36B, narrowly above $2.34B est., and GMV up 22% YoY to $74.6B, as tariffs weigh on its growth; SHOP drops 8%+ &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/250508/p22#a250508p22)<!-- TECH:END -->
+ - [Palworld developer Pocketpair says a 2024 update was due to &quot;ongoing litigation&quot; and a new update is &quot;yet another compromise&quot;, as it disputes Nintendo&#39;s claims &lpar;Victoria Kennedy/Eurogamer.net&rpar;](http://www.techmeme.com/250508/p26#a250508p26)
+ - [How India’s spiritual tech startups are monetizing faith for the algorithm age](https://www.theverge.com/tech/662005/india-spiritual-apps)
+ - [23 Mother&#39;s Day Gift Ideas Our Editors Have Tried and Love &lpar;2025&rpar;](https://www.wired.com/gallery/best-mothers-day-gifts-2025/)
+ - [Match says it will cut 13% of its staff, impacting ~325 jobs, per a 2024 filing, and reports Q1 revenue down 3% YoY to $831M, above est., and 14.2M paying users &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250508/p25#a250508p25)
+ - [Samsung working on new display unique to folding iPhone](https://appleinsider.com/articles/25/05/08/samsung-working-on-new-display-unique-to-folding-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

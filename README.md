@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They took over the building to protest now security has blocked the exits and wont let anybody leave without showing ID.](http://9gag.com/gag/ayNRB2q)
- - 😝 [In and out](http://9gag.com/gag/a342QgN)
- - 💣 [Finish him](http://9gag.com/gag/aGyAZ5K)
- - 😝 [Terry crews attempts to recreate Thierry Henry&#39;s smirk lmao...](http://9gag.com/gag/a1m2R3P)
- - 👉 [This is why is taking them so long](http://9gag.com/gag/aLnm09v)<!-- MEMES:END -->
+ - 😝 [Replacing all the food in the tavern with poisoned apples](http://9gag.com/gag/aYQq422)
+ - 😝 [Zombie snail &lpar;infected by Leucochloridium paradoxum, a parasitic flatworm&rpar;](http://9gag.com/gag/aO8PBXM)
+ - 💣 [Are you really?](http://9gag.com/gag/aGyAeDw)
+ - 😝 [He handled the situation well](http://9gag.com/gag/aByGxv1)
+ - 👉 [Who?](http://9gag.com/gag/ae9m59b)<!-- MEMES:END -->
 
 ---
 

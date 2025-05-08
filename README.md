@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reuters is ready to stand up for the press — and embrace AI](https://www.theverge.com/decoder-podcast-with-nilay-patel/663285/reuters-is-ready-to-stand-up-for-the-press-and-embrace-ai)
+ - [&#39;The Studio&#39; creator refused Tim Cook a cameo](https://appleinsider.com/articles/25/05/08/the-studio-creator-refused-tim-cook-a-cameo?utm_medium=rss)
+ - [FTC v. Meta live: updates from the battle for Instagram and WhatsApp](https://www.theverge.com/news/646809/ftc-v-meta-antitrust-monopoly-trial-instagram-whatsapp)
  - [Bill Gates tears into Elon Musk for being &amp;#8216;involved in the deaths of the world&amp;#8217;s poorest children&amp;#8217;](https://www.theverge.com/news/663322/bill-gates-elon-musk-trump-childhood-deaths-usaid)
- - [The Delta emulator&amp;#8217;s new update makes it easier to join its Patreon](https://www.theverge.com/news/663307/delta-emulator-ios-apple-app-store-patreon-signup)
- - [Peloton downplays tariffs and embraces AI](https://www.theverge.com/news/663229/peloton-tariffs-q3-2025-earnings)
- - [Oh no, I turned everything into an AI podcast](https://www.theverge.com/video/663196/oh-no-i-turned-everything-into-an-ai-podcast)
- - [8 Best Robot Vacuums &lpar;2025&rpar;: Tested &amp; Reviewed in Real Homes](https://www.wired.com/gallery/best-robot-vacuums/)<!-- TECH:END -->
+ - [The Delta emulator&amp;#8217;s new update makes it easier to join its Patreon](https://www.theverge.com/news/663307/delta-emulator-ios-apple-app-store-patreon-signup)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

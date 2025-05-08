@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pretty accurate...](http://9gag.com/gag/aryqGDV)
- - 😝 [Are you really?](http://9gag.com/gag/aGyAeDw)
- - 💣 [They didn\u2019t even get doritos and mountain dew :,&lpar;](http://9gag.com/gag/awydXg1)
+ - 😝 [Where can i get one from???](http://9gag.com/gag/amoM54j)
  - 😝 [Celebs or just random party crashers?](http://9gag.com/gag/aW4bmgq)
- - 👉 [Is this the real life? &lpar;Caption: Highschool female teacher arrested for having sexual relationship with her student&rpar;](http://9gag.com/gag/aRBo3QM)<!-- MEMES:END -->
+ - 💣 [They took over the building to protest now security has blocked the exits and wont let anybody leave without showing ID.](http://9gag.com/gag/ayNRB2q)
+ - 😝 [Pretty accurate...](http://9gag.com/gag/aryqGDV)
+ - 👉 [Lol](http://9gag.com/gag/a872oGp)<!-- MEMES:END -->
 
 ---
 

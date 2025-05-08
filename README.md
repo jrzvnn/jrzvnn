@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The way he feeds the other monkey is so wholesome](http://9gag.com/gag/aLnmj4W)
- - 😝 [PE guy](http://9gag.com/gag/an7EbQ0)
- - 💣 [Seriously: who designed this? LOL](http://9gag.com/gag/awydQXQ)
- - 😝 [Technologia xD](http://9gag.com/gag/ayNRxbW)
- - 👉 [Yes. I agree.](http://9gag.com/gag/aYQq4L0)<!-- MEMES:END -->
+ - 😝 [When your ninja skills are too good for stunt doubles](http://9gag.com/gag/amoMBAX)
+ - 😝 [Are you really?](http://9gag.com/gag/aGyAeDw)
+ - 💣 [PE guy](http://9gag.com/gag/an7EbQ0)
+ - 😝 [Some serious shite is going on between India and Pakistan](http://9gag.com/gag/ae9mr6W)
+ - 👉 [What&#39;s your favorite position?](http://9gag.com/gag/azxR9bb)<!-- MEMES:END -->
 
 ---
 

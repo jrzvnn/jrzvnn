@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Eddy Cue&#39;s disclosure of Apple&#39;s plan to shift its browser to AI systems had a clear goal of downplaying the importance of Apple&#39;s search deal with Google &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250507/p54#a250507p54)
+ - [Measles Cases Spread Across US, Mexico and Canada. Learn How to Protect Yourself](https://www.cnet.com/health/medical/measles-cases-spread-across-us-mexico-and-canada-learn-how-to-protect-yourself/#ftag=CAD590a51e)
  - [Bumble reports Q1 revenue down 7.7% YoY to $247.1M, in line with $246.2M est., with Bumble app paying users falling ~1% YoY to 2.7M; BMBL jumps ~7% after hours &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/250507/p53#a250507p53)
  - [Google says it continues to see overall query growth in Search, including an increase in total queries coming from Apple&#39;s devices and platforms &lpar;The Keyword&rpar;](http://www.techmeme.com/250507/p52#a250507p52)
- - [What You Need to Know About Satellite Connectivity in Phones](https://www.cnet.com/tech/mobile/what-you-need-to-know-about-satellite-connectivity-in-phones/#ftag=CAD590a51e)
- - [Apple seeks stay on allowing external links &amp; purchases during injunction violation appeal](https://appleinsider.com/articles/25/05/08/apple-seeks-stay-on-allowing-external-links-purchases-during-injunction-violation-appeal?utm_medium=rss)
- - [Filing: Apple seeks to pause the part of the April 30 US federal court ruling that blocked it from charging App Store commissions on outside transactions &lpar;Bloomberg&rpar;](http://www.techmeme.com/250507/p51#a250507p51)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, May 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-may-8/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

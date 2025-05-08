@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this the real life? &lpar;Caption: Highschool female teacher arrested for having sexual relationship with her student&rpar;](http://9gag.com/gag/aRBo3QM)
- - 😝 [What&#39;s your favorite position?](http://9gag.com/gag/azxR9bb)
- - 💣 [They took over the building to protest now security has blocked the exits and wont let anybody leave without showing ID.](http://9gag.com/gag/ayNRB2q)
- - 😝 [Pretty accurate...](http://9gag.com/gag/aryqGDV)
- - 👉 [Sinne we&#39;re posting shit again....](http://9gag.com/gag/aGyA1A5)<!-- MEMES:END -->
+ - 😝 [Replacing all the food in the tavern with poisoned apples](http://9gag.com/gag/aYQq422)
+ - 😝 [Sinne we&#39;re posting shit again....](http://9gag.com/gag/aGyA1A5)
+ - 💣 [In and out](http://9gag.com/gag/a342QgN)
+ - 😝 [Celebs or just random party crashers?](http://9gag.com/gag/aW4bmgq)
+ - 👉 [PE guy](http://9gag.com/gag/an7EbQ0)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The next Lord of the Rings movie debuts in December 2027](https://www.theverge.com/news/663476/the-lord-of-the-rings-hunt-for-gollum-release-date)
+ - [Judge dismisses most charges against FTX’s celebrity boosters](https://www.theverge.com/policy/663502/ftx-celebrity-lawsuit-tom-brady-gisele-kevin-o-leary-steph-curry)
  - [Memo: Meta CPO Chris Cox says Robert Fergus will lead its Facebook AI Research lab, succeeding Joelle Pineau; Fergus and Yann LeCun co-founded FAIR in 2014 &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/250508/p33#a250508p33)
  - [Sales automation startup Clay lets staff with 1+ year of tenure sell shares in a tender led by Sequoia at a $1.5B valuation, up from $1.25B in January 2025 &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250508/p32#a250508p32)
- - [FTC v. Meta live: Instagram CEO Adam Mosseri takes the stand](https://www.theverge.com/news/646809/ftc-v-meta-antitrust-monopoly-trial-instagram-whatsapp)
- - [Kickstarter’s new Tariff Manager is now available to campaign creators](https://www.theverge.com/news/662836/kickstarter-pledge-tariff-manager-crowdfunding-now-available)
- - [Threads was originally going to live inside the Instagram app](https://www.theverge.com/news/663390/threads-app-inside-instagram-mosseri)<!-- TECH:END -->
+ - [FTC v. Meta live: Instagram CEO Adam Mosseri takes the stand](https://www.theverge.com/news/646809/ftc-v-meta-antitrust-monopoly-trial-instagram-whatsapp)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

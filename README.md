@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [10/10 movie must it be](http://9gag.com/gag/a0e1K2L)
- - 😝 [Cyberpunk fans heavy breathing](http://9gag.com/gag/aQzZede)
- - 💣 [Lol](http://9gag.com/gag/a872oGp)
+ - 😝 [Replacing all the food in the tavern with poisoned apples](http://9gag.com/gag/aYQq422)
  - 😝 [Even a turtleneck can\u2019t hide those](http://9gag.com/gag/amoM7b6)
+ - 💣 [Lol](http://9gag.com/gag/a872oGp)
+ - 😝 [What&#39;s your favorite position?](http://9gag.com/gag/azxR9bb)
  - 👉 [Are you really?](http://9gag.com/gag/aGyAeDw)<!-- MEMES:END -->
 
 ---

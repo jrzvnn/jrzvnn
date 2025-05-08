@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wikipedia fights the UK’s ‘flawed’ and ‘burdensome’ online safety rules](https://www.theverge.com/news/663402/wikipedia-fights-the-uks-flawed-and-burdensome-online-safety-rules)
  - [Apple gearing up for WWDC with profiles of four Swift Student Challenge winners](https://appleinsider.com/articles/25/05/08/apple-gearing-up-for-wwdc-with-profiles-of-four-swift-student-challenge-winners?utm_medium=rss)
  - [&#39;Total War: Rome II&#39; marches back to Apple Silicon Macs](https://appleinsider.com/articles/25/05/08/total-war-rome-ii-marches-back-to-apple-silicon-macs?utm_medium=rss)
  - [7 Best Dehumidifiers We’ve Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-dehumidifiers/)
- - [The Old Guard&amp;#8217;s immortal action continues in sequel&amp;#8217;s first trailer](https://www.theverge.com/news/662901/the-old-guard-2-trailer-netflx)
- - [Apple asks court to halt App Store rule changes while it appeals](https://www.theverge.com/news/663361/apple-halt-app-store-ruling-appeal)<!-- TECH:END -->
+ - [The Old Guard&amp;#8217;s immortal action continues in sequel&amp;#8217;s first trailer](https://www.theverge.com/news/662901/the-old-guard-2-trailer-netflx)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

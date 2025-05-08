@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [They took over the building to protest now security has blocked the exits and wont let anybody leave without showing ID.](http://9gag.com/gag/ayNRB2q)
- - 😝 [Celebs or just random party crashers?](http://9gag.com/gag/aW4bmgq)
- - 💣 [Replacing all the food in the tavern with poisoned apples](http://9gag.com/gag/aYQq422)
- - 😝 [Pretty accurate...](http://9gag.com/gag/aryqGDV)
- - 👉 [People are blind.](http://9gag.com/gag/ae9meLp)<!-- MEMES:END -->
+ - 😝 [What&#39;s your favorite position?](http://9gag.com/gag/azxR9bb)
+ - 💣 [Lol](http://9gag.com/gag/a872oGp)
+ - 😝 [Are you really?](http://9gag.com/gag/aGyAeDw)
+ - 👉 [Pretty accurate...](http://9gag.com/gag/aryqGDV)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Technologia xD](http://9gag.com/gag/ayNRxbW)
  - 😝 [Celebs or just random party crashers?](http://9gag.com/gag/aW4bmgq)
- - 💣 [Are you really?](http://9gag.com/gag/aGyAeDw)
- - 😝 [World, are you ready for Pakistan&#39;s wrath?](http://9gag.com/gag/an7EjE5)
- - 👉 [The possibilities](http://9gag.com/gag/ae9mrQj)<!-- MEMES:END -->
+ - 😝 [Nut your average table trick](http://9gag.com/gag/abABz2L)
+ - 💣 [Technologia xD](http://9gag.com/gag/ayNRxbW)
+ - 😝 [A spinning machine in Japan that gives an Intel processor up to i7 at $3.3](http://9gag.com/gag/azxRrLb)
+ - 👉 [Some serious shite is going on between India and Pakistan](http://9gag.com/gag/ae9mr6W)<!-- MEMES:END -->
 
 ---
 

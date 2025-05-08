@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung plans to launch the Galaxy S25 Edge at a May 12 virtual event at 8pm ET, and reservations for the super-slim device are now open with a $50 credit &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250507/p48#a250507p48)
- - [At Stripe Sessions, the company announced an AI foundation model for payments, plans for stablecoin-powered accounts, a recent migration with Nvidia, and more &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250507/p47#a250507p47)
- - [Samsung finally has a launch date for the Galaxy S25 Edge](https://www.theverge.com/news/662900/samsung-galaxy-unpacked-s25-edge)
- - [Anthropic launches web search on its API for Claude 3.7 Sonnet, 3.5 Sonnet, and 3.5 Haiku at $10/1K searches, giving the models access to up-to-date information &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250507/p46#a250507p46)
- - [A ‘Trump Card Visa’ Is Already Showing Up in Immigration Forms](https://www.wired.com/story/doge-trump-gold-visa-program-immigration/)<!-- TECH:END -->
+ - [Vtoman FlashSpeed 1000 Power Station review: Weekend-long portable power](https://appleinsider.com/articles/25/05/08/vtoman-flashspeed-1000-power-station-review-weekend-long-portable-power?utm_medium=rss)
+ - [TPG and Corpay agree to acquire Charlotte, NC-based AvidXchange, a payment automation software provider, for $2.2B, with Corpay investing ~$500M for a 33% stake &lpar;Reuters&rpar;](http://www.techmeme.com/250507/p49#a250507p49)
+ - [Panasonic S1R II Mirrorless Camera](https://www.wired.com/gallery/panasonic-s1r-ii-mirrorless-camera/)
+ - [Singapore’s Vision for AI Safety Bridges the US-China Divide](https://www.wired.com/story/singapore-ai-safety-global-consensus/)
+ - [Samsung plans to launch the Galaxy S25 Edge at a May 12 virtual event at 8pm ET, and reservations for the super-slim device are now open with a $50 credit &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250507/p48#a250507p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

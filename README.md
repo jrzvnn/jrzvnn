@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: the US CFPB discontinues its order designating the supervision of Google Payment, says the Biden-era decision is an &quot;unwarranted use&quot; of its powers &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250508/p42#a250508p42)
+ - [Memo: the US CFPB discontinues its order designating the supervision of Google Payment, saying the Biden-era decision is an &quot;unwarranted use&quot; of CFPB&#39;s powers &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250508/p42#a250508p42)
  - [Sources: Meta is in discussions with crypto firms to introduce stablecoins as a means to manage payouts, and has hired a VP of product with crypto experience &lpar;Fortune&rpar;](http://www.techmeme.com/250508/p41#a250508p41)
  - [Senate Democrats block the Genius Act after Republicans rebuffed a provision to bar Trump and others from profiting off of crypto ventures while in office &lpar;Steven T. Dennis/Bloomberg&rpar;](http://www.techmeme.com/250508/p40#a250508p40)
  - [The 25 Best Movies on Apple TV+ Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)

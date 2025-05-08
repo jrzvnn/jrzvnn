@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [They took over the building to protest now security has blocked the exits and wont let anybody leave without showing ID.](http://9gag.com/gag/ayNRB2q)
+ - 😝 [In and out](http://9gag.com/gag/a342QgN)
+ - 💣 [Finish him](http://9gag.com/gag/aGyAZ5K)
  - 😝 [Terry crews attempts to recreate Thierry Henry&#39;s smirk lmao...](http://9gag.com/gag/a1m2R3P)
- - 💣 [In and out](http://9gag.com/gag/a342QgN)
- - 😝 [Finish him](http://9gag.com/gag/aGyAZ5K)
  - 👉 [This is why is taking them so long](http://9gag.com/gag/aLnm09v)<!-- MEMES:END -->
 
 ---

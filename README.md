@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women: `Why doesn&#39;t my bf/husband share his feelings me with me?`](http://9gag.com/gag/aE0D2Op)
+ - 😝 [They took over the building to protest now security has blocked the exits and wont let anybody leave without showing ID.](http://9gag.com/gag/ayNRB2q)
  - 😝 [Celebs or just random party crashers?](http://9gag.com/gag/aW4bmgq)
- - 💣 [Replacing all the food in the tavern with poisoned apples](http://9gag.com/gag/aYQq422)
- - 😝 [Nice one Sam](http://9gag.com/gag/an7EjKo)
- - 👉 [Are you really?](http://9gag.com/gag/aGyAeDw)<!-- MEMES:END -->
+ - 💣 [Another Adventure](http://9gag.com/gag/a2v2o5d)
+ - 😝 [Replacing all the food in the tavern with poisoned apples](http://9gag.com/gag/aYQq422)
+ - 👉 [Is this the real life? &lpar;Caption: Highschool female teacher arrested for having sexual relationship with her student&rpar;](http://9gag.com/gag/aRBo3QM)<!-- MEMES:END -->
 
 ---
 

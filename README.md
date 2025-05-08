@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The man gets mangled/run over by a snowplow after saving his nephew&#39;s life. He said he could hear his own bones crunching. Spends months recovering. Only to be offered peanuts to carry a show while they obviously push him out to introduce a female lead. Disney is a ashhowe.](http://9gag.com/gag/apRbpXD)
+ - 😝 [Technologia xD](http://9gag.com/gag/ayNRxbW)
+ - 💣 [`There are no terrorist camps in Pakistan` Link below in comments](http://9gag.com/gag/aoyLOBw)
  - 😝 [Are you really?](http://9gag.com/gag/aGyAeDw)
- - 💣 [What&#39;s your favorite position?](http://9gag.com/gag/azxR9bb)
- - 😝 [When your ninja skills are too good for stunt doubles](http://9gag.com/gag/amoMBAX)
- - 👉 [They took over the building to protest now security has blocked the exits and wont let anybody leave without showing ID.](http://9gag.com/gag/ayNRB2q)<!-- MEMES:END -->
+ - 👉 [World, are you ready for Pakistan&#39;s wrath?](http://9gag.com/gag/an7EjE5)<!-- MEMES:END -->
 
 ---
 

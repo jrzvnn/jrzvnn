@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Are you really?](http://9gag.com/gag/aGyAeDw)
- - 😝 [Is this the real life? &lpar;Caption: Highschool female teacher arrested for having sexual relationship with her student&rpar;](http://9gag.com/gag/aRBo3QM)
- - 💣 [Celebs or just random party crashers?](http://9gag.com/gag/aW4bmgq)
- - 😝 [A spinning machine in Japan that gives an Intel processor up to i7 at $3.3](http://9gag.com/gag/azxRrLb)
- - 👉 [What&#39;s your favorite position?](http://9gag.com/gag/azxR9bb)<!-- MEMES:END -->
+ - 😝 [N O I C E](http://9gag.com/gag/aMVv8ZM)
+ - 😝 [Every aviation enthusiasts dream](http://9gag.com/gag/aryqG3d)
+ - 💣 [That laugh](http://9gag.com/gag/ajPZEN0)
+ - 😝 [They have their own issues](http://9gag.com/gag/adBeK7Q)
+ - 👉 [Are you not entertained](http://9gag.com/gag/aPAQj4R)<!-- MEMES:END -->
 
 ---
 

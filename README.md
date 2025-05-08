@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Celsius founder Alex Mashinsky sentenced to 12 years in prison](https://www.theverge.com/news/663877/celsius-founder-alex-mashinsky-12-years-sentenced)
+ - [Coinbase reports Q1 revenue up 24% YoY to $2B, vs. $2.1B est., trading volume up 26% YoY to $393B, and earnings per share of $0.24, vs. $1.93 est. &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/250508/p48#a250508p48)
  - [Apple has a new ‘Viral’ playlist on Apple Music and Shazam](https://www.theverge.com/news/663866/apple-music-viral-charts-global-playlist-shazam-top-50)
  - [Celsius Founder Alex Mashinsky Sentenced to 12 Years in Prison](https://www.wired.com/story/celsius-founder-alex-mashinsky-sentenced-to-12-years-in-prison/)
- - [Affirm reports Q3 revenue up 36% YoY to $783M, vs. $783M est., GMV up 36% to $8.6B, above est., and forecasts Q4 revenue below est.; AFRM drops 7%+ after hours &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250508/p47#a250508p47)
- - [Lyft reports Q1 revenue up 14% YoY to $1.45B, vs. $1.47B est., increases its share buyback program to $750M after activist pressure; LYFT jumps 6%+ after hours &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/250508/p46#a250508p46)
- - [Palantir&#39;s valuation rises to $281B after its shares close up 7.85%, surpassing Salesforce and joining the top 10 largest US tech companies by market cap &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250508/p45#a250508p45)<!-- TECH:END -->
+ - [Affirm reports Q3 revenue up 36% YoY to $783M, vs. $783M est., GMV up 36% to $8.6B, above est., and forecasts Q4 revenue below est.; AFRM drops 7%+ after hours &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250508/p47#a250508p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

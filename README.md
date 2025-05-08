@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo projects Switch 2 sales to reach 15M units for the fiscal year ending March 2026, below 16.8M est., and $2.2B annual operating profit, below est. &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/250508/p14#a250508p14)
+ - [OpenAI says Fidji Simo will lead its business and operations teams in her new role as CEO of Applications, overseeing sales, marketing, and finance &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/250508/p13#a250508p13)
  - [Source: Fidji Simo will oversee several OpenAI executives who previously reported to Altman, including COO Brad Lightcap, CFO Sarah Friar, and CPO Kevin Weil &lpar;Bloomberg&rpar;](http://www.techmeme.com/250508/p12#a250508p12)
  - [How &quot;AI slop farmer&quot; Jesse Cunningham targets older women on Pinterest and Facebook with AI-generated copies of content from real bloggers and creators &lpar;Maggie Harrison/Futurism&rpar;](http://www.techmeme.com/250508/p11#a250508p11)
- - [An IBM survey of 2,000 CEOs finds that only 25% of AI initiatives have delivered expected ROI over the last few years, and only 16% have scaled enterprise wide &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/250508/p10#a250508p10)
- - [A look at Silence Speaks, a British startup that has built an AI-powered sign language avatar capable of accurately translating text to British Sign Language &lpar;Simon Hill/Wired&rpar;](http://www.techmeme.com/250508/p9#a250508p9)
- - [The Taiwan dollar&#39;s sharpest rally against the US dollar in nearly 40 years raises concerns about the competitiveness and earnings of Taiwanese tech companies &lpar;Charlotte Yang/Bloomberg&rpar;](http://www.techmeme.com/250508/p8#a250508p8)<!-- TECH:END -->
+ - [An IBM survey of 2,000 CEOs finds that only 25% of AI initiatives have delivered expected ROI over the last few years, and only 16% have scaled enterprise wide &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/250508/p10#a250508p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

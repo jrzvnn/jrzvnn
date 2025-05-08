@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta&amp;#8217;s new AI glasses could have a &amp;#8216;super-sensing&amp;#8217; mode with facial recognition](https://www.theverge.com/news/663297/meta-live-ai-super-sensing-smart-glasses-facial-recognition-privacy)
- - [Coinbase agrees to acquire Dubai-based Deribit, the world&#39;s biggest trading platform for bitcoin and ether options, for ~$2.9B, including $700M in cash &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/250508/p28#a250508p28)
- - [New surgeon general nominee cofounded ‘biowearables’ startup with DOGE operative](https://www.theverge.com/politics/663114/surgeon-general-doge-casey-means-sam-corcos-startup-levels-doge)
- - [Palworld had to remove game features because of Nintendo lawsuit](https://www.theverge.com/news/663210/palworld-updates-feature-removed-nintendo-lawsuit)
- - [Google Maps for iOS uses Gemini to pull places from screenshots](https://appleinsider.com/articles/25/05/08/google-maps-for-ios-uses-gemini-to-pull-places-from-screenshots?utm_medium=rss)<!-- TECH:END -->
+ - [Bill Gates tears into Elon Musk for being &amp;#8216;involved in the deaths of the world&amp;#8217;s poorest children&amp;#8217;](https://www.theverge.com/news/663322/bill-gates-elon-musk-trump-childhood-deaths-usaid)
+ - [The Delta emulator&amp;#8217;s new update makes it easier to join its Patreon](https://www.theverge.com/news/663307/delta-emulator-ios-apple-app-store-patreon-signup)
+ - [Peloton downplays tariffs and embraces AI](https://www.theverge.com/news/663229/peloton-tariffs-q3-2025-earnings)
+ - [Oh no, I turned everything into an AI podcast](https://www.theverge.com/video/663196/oh-no-i-turned-everything-into-an-ai-podcast)
+ - [8 Best Robot Vacuums &lpar;2025&rpar;: Tested &amp; Reviewed in Real Homes](https://www.wired.com/gallery/best-robot-vacuums/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They took over the building to protest now security has blocked the exits and wont let anybody leave without showing ID.](http://9gag.com/gag/ayNRB2q)
- - 😝 [What&#39;s your favorite position?](http://9gag.com/gag/azxR9bb)
- - 💣 [Lol](http://9gag.com/gag/a872oGp)
- - 😝 [Are you really?](http://9gag.com/gag/aGyAeDw)
- - 👉 [Pretty accurate...](http://9gag.com/gag/aryqGDV)<!-- MEMES:END -->
+ - 😝 [That laugh](http://9gag.com/gag/ajPZEN0)
+ - 😝 [Are you not entertained](http://9gag.com/gag/aPAQj4R)
+ - 💣 [They have their own issues](http://9gag.com/gag/adBeK7Q)
+ - 😝 [Oh no, anyway..](http://9gag.com/gag/ajPZ87R)
+ - 👉 [Simplicity wins!](http://9gag.com/gag/aGyAjmw)<!-- MEMES:END -->
 
 ---
 

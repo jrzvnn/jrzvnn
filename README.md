@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google rolls out AI-powered defenses to help combat scams on Chrome, including using Gemini Nano, its on-device LLM, in Enhanced Protection mode on desktop &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250508/p37#a250508p37)
+ - [Apple Glass will get custom Apple Silicon tailored for low power &amp; camera control](https://appleinsider.com/articles/25/05/08/apple-glass-will-get-custom-apple-silicon-tailored-for-low-power-camera-control?utm_medium=rss)
+ - [Apple smart glasses rumored to arrive as soon as Christmas 2026](https://appleinsider.com/articles/25/05/08/apple-smart-glasses-rumored-to-arrive-as-soon-as-christmas-2026?utm_medium=rss)
  - [Torras Ostand OAir iPhone 16 cases are rugged, colorful, and versatile](https://appleinsider.com/articles/25/05/08/torras-ostand-oair-iphone-16-cases-are-rugged-colorful-and-versatile?utm_medium=rss)
- - [Sources: Apple aims to begin mass production of a chip for its smart glasses, with greater power efficiency and multi-camera control, by end of 2026 or in 2027 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250508/p36#a250508p36)
- - [A federal judge in Florida dismisses most claims against celebrities who endorsed FTX, ruling that they were &quot;uninformed&quot; and &quot;reckless&quot; but not fraudulent &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/250508/p35#a250508p35)
- - [The UK says the Digital Services Tax remains unchanged under the trade deal agreed between the US and the UK, both of which will work on a &quot;digital trade deal&quot; &lpar;Paul Sandle/Reuters&rpar;](http://www.techmeme.com/250508/p34#a250508p34)
- - [The next Lord of the Rings movie debuts in December 2027](https://www.theverge.com/news/663476/the-lord-of-the-rings-hunt-for-gollum-release-date)<!-- TECH:END -->
+ - [Sources: Apple aims to begin mass production of a chip for its smart glasses, with greater power efficiency and multi-camera control, by end of 2026 or in 2027 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250508/p36#a250508p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

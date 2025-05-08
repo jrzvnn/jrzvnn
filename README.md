@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New surgeon general nominee cofounded ‘biowearables’ startup with DOGE operative](https://www.theverge.com/politics/663114/surgeon-general-doge-casey-means-sam-corcos-startup-levels-doge)
  - [Palworld had to remove game features because of Nintendo lawsuit](https://www.theverge.com/news/663210/palworld-updates-feature-removed-nintendo-lawsuit)
  - [Google Maps for iOS uses Gemini to pull places from screenshots](https://appleinsider.com/articles/25/05/08/google-maps-for-ios-uses-gemini-to-pull-places-from-screenshots?utm_medium=rss)
  - [Q&amp;A with Bill Gates on shutting down the Gates Foundation on December 31, 2045, the Trump administration, Elon Musk, AI drug discovery, AI&#39;s potential, and more &lpar;David Wallace-Wells/New York Times&rpar;](http://www.techmeme.com/250508/p27#a250508p27)
- - [12 Best Wi-Fi Routers of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-wifi-routers/)
- - [I put four robot lawnmowers through a brutal backyard battle — and only one person got injured](https://www.theverge.com/reviews/661136/robot-lawnmowers-husqvarna-navimow-mammotion-dreame-head-to-head)<!-- TECH:END -->
+ - [12 Best Wi-Fi Routers of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-wifi-routers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

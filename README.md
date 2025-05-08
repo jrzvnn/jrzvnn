@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hackers defaced the LockBit ransomware gang&#39;s dark web affiliate panels, linking to a MySQL database dump with operational data, including 59,975 BTC addresses &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250508/p23#a250508p23)
  - [Panasonic S1R II Review: Capable, Affordable, Mirrorless Hybrid Camera](https://www.wired.com/review/panasonic-s1rii-mirrorless-camera/)
  - [Shopify reports Q1 revenue up 27% YoY to $2.36B, narrowly above $2.34B est., and GMV up 22% YoY to $74.6B, as tariffs weigh on its growth; SHOP drops 8%+ &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/250508/p22#a250508p22)
  - [Apple looking to AI for Safari search rumor forces rare &amp; terse Google denial](https://appleinsider.com/articles/25/05/08/apple-looking-to-ai-for-safari-search-rumor-forces-rare-terse-google-denial?utm_medium=rss)
- - [Nintendo reports FY 2024-25 revenue down 30% YoY to ~$8B, profit down 43% YoY to ~$1.9B, and says the Switch has 128M+ players globally, ahead of the Switch 2 &lpar;Yuri Kageyama/Associated Press&rpar;](http://www.techmeme.com/250508/p21#a250508p21)
- - [Lifesmart TM2202 3-in-1 Treadmill Review: Best for Small Spaces](https://www.wired.com/review/lifesmart-tm2202-3-in-1-treadmill/)<!-- TECH:END -->
+ - [Nintendo reports FY 2024-25 revenue down 30% YoY to ~$8B, profit down 43% YoY to ~$1.9B, and says the Switch has 128M+ players globally, ahead of the Switch 2 &lpar;Yuri Kageyama/Associated Press&rpar;](http://www.techmeme.com/250508/p21#a250508p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

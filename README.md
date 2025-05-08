@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI hires Instacart CEO Fidji Simo as CEO of Applications, reporting to Sam Altman, who says he&#39;ll stay CEO focusing &quot;on research, compute, and safety&quot; &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/250508/p4#a250508p4)
- - [In prepared Senate testimony, Microsoft and others urge US lawmakers to streamline federal AI energy permits and open government data sets for AI training &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/250508/p3#a250508p3)
- - [Latin American e-commerce and fintech giant MercadoLibre reports Q1 revenue up 37% YoY to $5.9B, $494M in net income, and Argentina revenue up 125% YoY to $1.3B &lpar;Daniel Cancel/Bloomberg&rpar;](http://www.techmeme.com/250508/p2#a250508p2)
- - [Nebius Group&#39;s Toloka, which uses human experts to train and evaluate AI models and has worked with Amazon and Anthropic, raised $72M led by Bezos Expeditions &lpar;Alexander Marrow/Reuters&rpar;](http://www.techmeme.com/250508/p1#a250508p1)
- - [10% Off Dell Coupon Codes | May 2025](https://www.wired.com/story/dell-coupon-code/)<!-- TECH:END -->
+ - [In an email to Instacart employees, Fidji Simo says the new CEO will be an existing member of the management team and she will stay on as Chair of the Board &lpar;Fidji Simo/Instacart Corporate Blog&rpar;](http://www.techmeme.com/250508/p6#a250508p6)
+ - [OpenAI hires Instacart CEO Fidji Simo as CEO of Applications, reporting to Sam Altman, who says he&#39;ll stay CEO focusing &quot;on research, compute, and safety&quot; &lpar;OpenAI&rpar;](http://www.techmeme.com/250508/p5#a250508p5)
+ - [Adidas Promo Codes &amp; Deals: up to 70% Off](https://www.wired.com/story/adidas-promo-code/)
+ - [so excited that @fidjissimo is joining openai in a new role: ceo of applications, reporting to me. i&#39;ll remain ceo of openai, but in this new configuration i&#39;ll be able to increase my focus on research, compute, and safety. these are critical as we approach superintelligence. &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/250508/p4#a250508p4)
+ - [In prepared Senate testimony, Microsoft and others urge US lawmakers to streamline federal AI energy permits and open government data sets for AI training &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/250508/p3#a250508p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

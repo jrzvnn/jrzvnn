@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Zero Breeze Mark 3 AC Review: Effective Portable Cooling](https://www.wired.com/review/zero-breeze-mark-3-portable-air-conditioner/)
+ - [Analysis: ~66% of US data center projects built or in development since 2022 are in areas with high water stress, with five states having 72% of new facilities &lpar;Bloomberg&rpar;](http://www.techmeme.com/250508/p20#a250508p20)
+ - [Tesla finally calls it quits on Cybertruck range extender](https://www.theverge.com/news/663157/tesla-cybertruck-range-extender-cancelled-refunds)
  - [The Greater Memphis Chamber says xAI is using Tesla&#39;s 150MW Megapack batteries to shore up its Colossus supercomputer; xAI spent ~$230M on them in 2024 and 2025 &lpar;Dana Hull/Bloomberg&rpar;](http://www.techmeme.com/250508/p19#a250508p19)
- - [Lenovo’s flagship gaming laptop has a 2D / 3D screen and carbon fiber lid](https://www.theverge.com/news/663084/lenovo-legion-9i-18-rtx-5090-2d-3d-gaming-laptop-announcement-specs)
- - [Rockstar says its new Grand Theft Auto VI trailer was &quot;captured entirely in-game from a PlayStation 5, comprised of equal parts gameplay and cutscenes&quot; &lpar;Andrew Webster/The Verge&rpar;](http://www.techmeme.com/250508/p18#a250508p18)
- - [Reddit CEO Steve Huffman says the service will work with &quot;various third-party services&quot; to verify a user&#39;s humanity, after an AI experiment in r/ChangeMyView &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250508/p17#a250508p17)
- - [Nintendo expects the Switch 2 to be just as successful as the original](https://www.theverge.com/news/663130/nintendo-switch-2-sales-forecast-15-million)<!-- TECH:END -->
+ - [Lenovo’s flagship gaming laptop has a 2D / 3D screen and carbon fiber lid](https://www.theverge.com/news/663084/lenovo-legion-9i-18-rtx-5090-2d-3d-gaming-laptop-announcement-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

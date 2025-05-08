@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Memo: the US CFPB discontinues its order designating the supervision of Google Payment, says the Biden-era decision is an &quot;unwarranted use&quot; of its powers &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250508/p42#a250508p42)
+ - [Sources: Meta is in discussions with crypto firms to introduce stablecoins as a means to manage payouts, and has hired a VP of product with crypto experience &lpar;Fortune&rpar;](http://www.techmeme.com/250508/p41#a250508p41)
  - [Senate Democrats block the Genius Act after Republicans rebuffed a provision to bar Trump and others from profiting off of crypto ventures while in office &lpar;Steven T. Dennis/Bloomberg&rpar;](http://www.techmeme.com/250508/p40#a250508p40)
  - [The 25 Best Movies on Apple TV+ Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
- - [Apple&#39;s &#39;Gift for Mom&#39; uses Spatial Video to film a child&#39;s first year](https://appleinsider.com/articles/25/05/08/apples-gift-for-mom-uses-spatial-video-to-film-a-childs-first-year?utm_medium=rss)
- - [Meta says it will start testing video ads on Threads with a &quot;small number&quot; of advertisers, and &quot;Reels trending ads&quot;, which will be shown next to trending Reels &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250508/p39#a250508p39)
- - [DOJ and FTC invite the public to complain about Ticketmaster](https://www.theverge.com/news/663670/doj-ftc-ticketmaster-complaints-public-comments)<!-- TECH:END -->
+ - [Apple&#39;s &#39;Gift for Mom&#39; uses Spatial Video to film a child&#39;s first year](https://appleinsider.com/articles/25/05/08/apples-gift-for-mom-uses-spatial-video-to-film-a-childs-first-year?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

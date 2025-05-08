@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Congress votes to pull funding for free Wi-Fi hotspots at schools and libraries](https://www.theverge.com/policy/663612/congress-votes-to-end-fcc-free-wi-fi-hotspots-children-funding)
+ - [Celsius Network founder and former CEO Alex Mashinsky is sentenced to 12 years in prison after pleading guilty to commodities fraud and misleading investors &lpar;Chris Dolmetsch/Bloomberg&rpar;](http://www.techmeme.com/250508/p43#a250508p43)
  - [Memo: the US CFPB discontinues its order designating the supervision of Google Payment, saying the Biden-era decision is an &quot;unwarranted use&quot; of CFPB&#39;s powers &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250508/p42#a250508p42)
  - [Sources: Meta is in discussions with crypto firms to introduce stablecoins as a means to manage payouts, and has hired a VP of product with crypto experience &lpar;Fortune&rpar;](http://www.techmeme.com/250508/p41#a250508p41)
- - [Senate Democrats block the Genius Act after Republicans rebuffed a provision to bar Trump and others from profiting off of crypto ventures while in office &lpar;Steven T. Dennis/Bloomberg&rpar;](http://www.techmeme.com/250508/p40#a250508p40)
- - [The 25 Best Movies on Apple TV+ Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
- - [Apple&#39;s &#39;Gift for Mom&#39; uses Spatial Video to film a child&#39;s first year](https://appleinsider.com/articles/25/05/08/apples-gift-for-mom-uses-spatial-video-to-film-a-childs-first-year?utm_medium=rss)<!-- TECH:END -->
+ - [Senate Democrats block the Genius Act after Republicans rebuffed a provision to bar Trump and others from profiting off of crypto ventures while in office &lpar;Steven T. Dennis/Bloomberg&rpar;](http://www.techmeme.com/250508/p40#a250508p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

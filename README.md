@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Replacing all the food in the tavern with poisoned apples](http://9gag.com/gag/aYQq422)
- - 😝 [Sinne we&#39;re posting shit again....](http://9gag.com/gag/aGyA1A5)
- - 💣 [In and out](http://9gag.com/gag/a342QgN)
+ - 😝 [Women: `Why doesn&#39;t my bf/husband share his feelings me with me?`](http://9gag.com/gag/aE0D2Op)
  - 😝 [Celebs or just random party crashers?](http://9gag.com/gag/aW4bmgq)
- - 👉 [PE guy](http://9gag.com/gag/an7EbQ0)<!-- MEMES:END -->
+ - 💣 [Replacing all the food in the tavern with poisoned apples](http://9gag.com/gag/aYQq422)
+ - 😝 [Nice one Sam](http://9gag.com/gag/an7EjKo)
+ - 👉 [Are you really?](http://9gag.com/gag/aGyAeDw)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Come and enjoy a boat trip in Varanasi, Netherlands](http://9gag.com/gag/a342qD8)
- - 😝 [Kid has a brain.. calling out \u201cnews\u201d shenanigans.](http://9gag.com/gag/aD2Vg6O)
- - 💣 [Are you really?](http://9gag.com/gag/aGyAeDw)
- - 😝 [Sinne we&#39;re posting shit again....](http://9gag.com/gag/aGyA1A5)
- - 👉 [Still don&#39;t know. Do you like my sword sword...](http://9gag.com/gag/aD2V14d)<!-- MEMES:END -->
+ - 😝 [Who?](http://9gag.com/gag/ae9m59b)
+ - 😝 [Oh no, anyway..](http://9gag.com/gag/ajPZ87R)
+ - 💣 [Eminem - Lose Yourself &lpar;Sung by 331 Movies&rpar;](http://9gag.com/gag/aoyLOve)
+ - 😝 [In and out](http://9gag.com/gag/a342QgN)
+ - 👉 [They took over the building to protest now security has blocked the exits and wont let anybody leave without showing ID.](http://9gag.com/gag/ayNRB2q)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Celsius Founder Alex Mashinsky Sentenced to 12 Years in Prison](https://www.wired.com/story/celsius-founder-alex-mashinsky-sentenced-to-12-years-in-prison/)
  - [Affirm reports Q3 revenue up 36% YoY to $783M, vs. $783M est., GMV up 36% to $8.6B, above est., and forecasts Q4 revenue below est.; AFRM drops 7%+ after hours &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250508/p47#a250508p47)
  - [Lyft reports Q1 revenue up 14% YoY to $1.45B, vs. $1.47B est., increases its share buyback program to $750M after activist pressure; LYFT jumps 6%+ after hours &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/250508/p46#a250508p46)
  - [Palantir&#39;s valuation rises to $281B after its shares close up 7.85%, surpassing Salesforce and joining the top 10 largest US tech companies by market cap &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250508/p45#a250508p45)
- - [Pinterest reports Q1 revenue up 16% YoY to $855M, vs. $847M est., MAUs up 10% to 570M, and forecasts Q2 revenue above estimates; PINS jumps 10%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250508/p44#a250508p44)
- - [Razer’s Clio is a $230 surround sound head cushion](https://www.theverge.com/news/663830/razer-clio-thx-cushion-gaming-surround-joro-keyboard-basilisk-mobile-mouse)<!-- TECH:END -->
+ - [Pinterest reports Q1 revenue up 16% YoY to $855M, vs. $847M est., MAUs up 10% to 570M, and forecasts Q2 revenue above estimates; PINS jumps 10%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250508/p44#a250508p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

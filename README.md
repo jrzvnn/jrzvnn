@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [PE guy](http://9gag.com/gag/an7EbQ0)
- - 😝 [They took over the building to protest now security has blocked the exits and wont let anybody leave without showing ID.](http://9gag.com/gag/ayNRB2q)
- - 💣 [Are you really?](http://9gag.com/gag/aGyAeDw)
+ - 😝 [World, are you ready for Pakistan&#39;s wrath?](http://9gag.com/gag/an7EjE5)
+ - 😝 [Are you really?](http://9gag.com/gag/aGyAeDw)
+ - 💣 [Celebs or just random party crashers?](http://9gag.com/gag/aW4bmgq)
  - 😝 [Technologia xD](http://9gag.com/gag/ayNRxbW)
- - 👉 [Celebs or just random party crashers?](http://9gag.com/gag/aW4bmgq)<!-- MEMES:END -->
+ - 👉 [PE guy](http://9gag.com/gag/an7EbQ0)<!-- MEMES:END -->
 
 ---
 

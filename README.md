@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An IBM survey of 2,000 CEOs finds that only 25% of AI initiatives have delivered expected ROI over the last few years, and only 16% have scaled enterprise wide &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/250508/p10#a250508p10)
  - [A look at Silence Speaks, a British startup that has built an AI-powered sign language avatar capable of accurately translating text to British Sign Language &lpar;Simon Hill/Wired&rpar;](http://www.techmeme.com/250508/p9#a250508p9)
  - [The Taiwan dollar&#39;s sharpest rally against the US dollar in nearly 40 years raises concerns about the competitiveness and earnings of Taiwanese tech companies &lpar;Charlotte Yang/Bloomberg&rpar;](http://www.techmeme.com/250508/p8#a250508p8)
  - [Interview with curl project founder Daniel Stenberg, who likens &quot;AI slop&quot; in HackerOne submissions to a DDoS attack, echoing concerns of others like Seth Larson &lpar;Kevin Purdy/Ars Technica&rpar;](http://www.techmeme.com/250508/p7#a250508p7)
- - [In an email to Instacart employees, Fidji Simo says the new CEO will be an existing member of the management team and she will stay on as Chair of the Board &lpar;Fidji Simo/Instacart Corporate Blog&rpar;](http://www.techmeme.com/250508/p6#a250508p6)
- - [OpenAI hires Instacart CEO Fidji Simo as CEO of Applications, reporting to Sam Altman, who says he will remain CEO, focusing on &quot;research, compute, and safety&quot; &lpar;OpenAI&rpar;](http://www.techmeme.com/250508/p5#a250508p5)<!-- TECH:END -->
+ - [In an email to Instacart employees, Fidji Simo says the new CEO will be an existing member of the management team and she will stay on as Chair of the Board &lpar;Fidji Simo/Instacart Corporate Blog&rpar;](http://www.techmeme.com/250508/p6#a250508p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Are you really?](http://9gag.com/gag/aGyAeDw)
- - 😝 [Usual suspects](http://9gag.com/gag/aXPWxwD)
- - 💣 [Celebs or just random party crashers?](http://9gag.com/gag/aW4bmgq)
- - 😝 [Still don&#39;t know. Do you like my sword sword...](http://9gag.com/gag/aD2V14d)
- - 👉 [Sinne we&#39;re posting shit again....](http://9gag.com/gag/aGyA1A5)<!-- MEMES:END -->
+ - 😝 [Simplicity wins!](http://9gag.com/gag/aGyAjmw)
+ - 😝 [Jason Bourne has been found.](http://9gag.com/gag/axyR1LL)
+ - 💣 [Oh no, anyway..](http://9gag.com/gag/ajPZ87R)
+ - 😝 [This is why is taking them so long](http://9gag.com/gag/aLnm09v)
+ - 👉 [Eminem - Lose Yourself &lpar;Sung by 331 Movies&rpar;](http://9gag.com/gag/aoyLOve)<!-- MEMES:END -->
 
 ---
 

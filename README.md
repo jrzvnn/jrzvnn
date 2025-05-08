@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US is reportedly encouraging countries to adopt Musk&amp;#8217;s Starlink in tariff trade talks](https://www.theverge.com/news/663839/us-government-starlink-tariff-talks-elon-musk)
- - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
- - [Meta Reportedly Eyeing &#39;Super Sensing&#39; Tech for Smart Glasses](https://www.cnet.com/tech/mobile/meta-reportedly-eyeing-super-sensing-tech-for-smart-glasses/#ftag=CAD590a51e)
- - [New Sony Noise-Canceling Headphones Specs and Pricing Apparently Leak](https://www.cnet.com/tech/mobile/new-sony-noise-canceling-headphones-specs-and-pricing-apparently-leak/#ftag=CAD590a51e)
- - [Congress votes to pull funding for free Wi-Fi hotspots at schools and libraries](https://www.theverge.com/policy/663612/congress-votes-to-end-fcc-free-wi-fi-hotspots-children-funding)<!-- TECH:END -->
+ - [Palantir&#39;s valuation rises to $281B after its shares close up 7.85%, surpassing Salesforce and joining the top 10 largest US tech companies by market cap &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250508/p45#a250508p45)
+ - [Pinterest reports Q1 revenue up 16% YoY to $855M, vs. $847M est., MAUs up 10% to 570M, and forecasts Q2 revenue above estimates; PINS jumps 10%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250508/p44#a250508p44)
+ - [Razer’s Clio is a $230 surround sound head cushion](https://www.theverge.com/news/663830/razer-clio-thx-cushion-gaming-surround-joro-keyboard-basilisk-mobile-mouse)
+ - [&#39;The Studio&#39; creator refused Tim Cook a cameo](https://appleinsider.com/articles/25/05/08/the-studio-creator-refused-tim-cook-a-cameo?utm_medium=rss)
+ - [The US is reportedly encouraging countries to adopt Musk&amp;#8217;s Starlink in tariff trade talks](https://www.theverge.com/news/663839/us-government-starlink-tariff-talks-elon-musk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

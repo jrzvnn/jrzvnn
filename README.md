@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s &#39;Gift for Mom&#39; uses Spatial Video to film a child&#39;s first year](https://appleinsider.com/articles/25/05/08/apples-gift-for-mom-uses-spatial-video-to-film-a-childs-first-year?utm_medium=rss)
  - [Meta says it will start testing video ads on Threads with a &quot;small number&quot; of advertisers, and &quot;Reels trending ads&quot;, which will be shown next to trending Reels &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250508/p39#a250508p39)
  - [DOJ and FTC invite the public to complain about Ticketmaster](https://www.theverge.com/news/663670/doj-ftc-ticketmaster-complaints-public-comments)
  - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
- - [Ecobee’s video doorbell now integrates with Google Home](https://www.theverge.com/news/663489/ecobee-smart-doorbell-camera-google-home-integration)
- - [Broadcom Sends Cease-and-Desist Letters to VMware Perpetual License Holders](https://www.wired.com/story/vmware-license-holders-receive-cease-and-desist-letters-from-broadcom/)<!-- TECH:END -->
+ - [Ecobee’s video doorbell now integrates with Google Home](https://www.theverge.com/news/663489/ecobee-smart-doorbell-camera-google-home-integration)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

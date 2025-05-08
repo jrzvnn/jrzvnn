@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Replacing all the food in the tavern with poisoned apples](http://9gag.com/gag/aYQq422)
- - 😝 [Even a turtleneck can\u2019t hide those](http://9gag.com/gag/amoM7b6)
- - 💣 [Lol](http://9gag.com/gag/a872oGp)
- - 😝 [What&#39;s your favorite position?](http://9gag.com/gag/azxR9bb)
- - 👉 [Are you really?](http://9gag.com/gag/aGyAeDw)<!-- MEMES:END -->
+ - 😝 [They didn\u2019t even get doritos and mountain dew :,&lpar;](http://9gag.com/gag/awydXg1)
+ - 😝 [Women: `Why doesn&#39;t my bf/husband share his feelings me with me?`](http://9gag.com/gag/aE0D2Op)
+ - 💣 [Replacing all the food in the tavern with poisoned apples](http://9gag.com/gag/aYQq422)
+ - 😝 [Are you really?](http://9gag.com/gag/aGyAeDw)
+ - 👉 [Fun](http://9gag.com/gag/aMVv8N1)<!-- MEMES:END -->
 
 ---
 

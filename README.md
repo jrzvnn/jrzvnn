@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Apple seeks $144k in legal fees returned after class action kerfuffle](https://appleinsider.com/articles/25/05/08/apple-seeks-144k-in-legal-fees-returned-after-class-action-kerfuffle?utm_medium=rss)
  - [Apple Card holders can get six months of Uber One for free](https://appleinsider.com/articles/25/05/08/apple-card-holders-can-get-six-months-of-uber-one-for-free?utm_medium=rss)
  - [Senate hearing: Sam Altman says that requiring government approval to release AI would be &quot;disastrous&quot; for the US&#39; lead in AI, a reversal from his 2023 comments &lpar;Washington Post&rpar;](http://www.techmeme.com/250508/p50#a250508p50)
- - [Innocn 49QR1 Gaming Monitor Review: You Get a Lot for the Money](https://www.cnet.com/tech/computing/innocn-49qr1-gaming-monitor-review-you-get-a-lot-for-the-money/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US Customs and Border Protection Quietly Revokes Protections for Pregnant Women and Infants](https://www.wired.com/story/cbp-rescinds-policies-on-care-of-pregnant-women-infants/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

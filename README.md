@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple looking to AI for Safari search rumor forces rare &amp; terse Google denial](https://appleinsider.com/articles/25/05/08/apple-looking-to-ai-for-safari-search-rumor-forces-rare-terse-google-denial?utm_medium=rss)
  - [Nintendo reports FY 2024-25 revenue down 30% YoY to ~$8B, profit down 43% YoY to ~$1.9B, and says the Switch has 128M+ players globally, ahead of the Switch 2 &lpar;Yuri Kageyama/Associated Press&rpar;](http://www.techmeme.com/250508/p21#a250508p21)
  - [Lifesmart TM2202 3-in-1 Treadmill Review: Best for Small Spaces](https://www.wired.com/review/lifesmart-tm2202-3-in-1-treadmill/)
  - [Zero Breeze Mark 3 AC Review: Effective Portable Cooling](https://www.wired.com/review/zero-breeze-mark-3-portable-air-conditioner/)
- - [Analysis: ~66% of US data center projects built or in development since 2022 are in areas with high water stress, with five states having 72% of new facilities &lpar;Bloomberg&rpar;](http://www.techmeme.com/250508/p20#a250508p20)
- - [Tesla finally calls it quits on Cybertruck range extender](https://www.theverge.com/news/663157/tesla-cybertruck-range-extender-cancelled-refunds)<!-- TECH:END -->
+ - [Home Chef Review: 3 CNET Editors Gave the Popular Meal Kit a Try](https://www.cnet.com/health/nutrition/home-chef-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That laugh](http://9gag.com/gag/ajPZEN0)
- - 😝 [Are you not entertained](http://9gag.com/gag/aPAQj4R)
- - 💣 [They have their own issues](http://9gag.com/gag/adBeK7Q)
- - 😝 [Oh no, anyway..](http://9gag.com/gag/ajPZ87R)
- - 👉 [Simplicity wins!](http://9gag.com/gag/aGyAjmw)<!-- MEMES:END -->
+ - 😝 [Is this the real life? &lpar;Caption: Highschool female teacher arrested for having sexual relationship with her student&rpar;](http://9gag.com/gag/aRBo3QM)
+ - 😝 [What&#39;s your favorite position?](http://9gag.com/gag/azxR9bb)
+ - 💣 [They took over the building to protest now security has blocked the exits and wont let anybody leave without showing ID.](http://9gag.com/gag/ayNRB2q)
+ - 😝 [Pretty accurate...](http://9gag.com/gag/aryqGDV)
+ - 👉 [Sinne we&#39;re posting shit again....](http://9gag.com/gag/aGyA1A5)<!-- MEMES:END -->
 
 ---
 

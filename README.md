@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls out AI-powered defenses to help combat scams on Chrome, including using Gemini Nano, its on-device LLM, in Enhanced Protection mode on desktop &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250508/p37#a250508p37)
+ - [Roborock’s S8 MaxV Ultra, our favorite robovac, is $800 off](https://www.theverge.com/tech/663512/roborocks-s8-maxv-ultra-our-favorite-robovac-is-800-off)
+ - [Google rolls out AI-powered defenses to help combat scams on Chrome, including the use of Gemini Nano, its on-device LLM, in Enhanced Protection mode on desktop &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250508/p37#a250508p37)
  - [Apple Glass will get custom Apple Silicon tailored for low power &amp; camera control](https://appleinsider.com/articles/25/05/08/apple-glass-will-get-custom-apple-silicon-tailored-for-low-power-camera-control?utm_medium=rss)
  - [Apple smart glasses rumored to arrive as soon as Christmas 2026](https://appleinsider.com/articles/25/05/08/apple-smart-glasses-rumored-to-arrive-as-soon-as-christmas-2026?utm_medium=rss)
- - [Torras Ostand OAir iPhone 16 cases are rugged, colorful, and versatile](https://appleinsider.com/articles/25/05/08/torras-ostand-oair-iphone-16-cases-are-rugged-colorful-and-versatile?utm_medium=rss)
- - [Sources: Apple aims to begin mass production of a chip for its smart glasses, with greater power efficiency and multi-camera control, by end of 2026 or in 2027 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250508/p36#a250508p36)<!-- TECH:END -->
+ - [Torras Ostand OAir iPhone 16 cases are rugged, colorful, and versatile](https://appleinsider.com/articles/25/05/08/torras-ostand-oair-iphone-16-cases-are-rugged-colorful-and-versatile?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

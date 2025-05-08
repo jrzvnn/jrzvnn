@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Greater Memphis Chamber says xAI is using Tesla&#39;s 150MW Megapack batteries to shore up its Colossus supercomputer; xAI spent ~$230M on them in 2024 and 2025 &lpar;Dana Hull/Bloomberg&rpar;](http://www.techmeme.com/250508/p19#a250508p19)
+ - [Lenovo’s flagship gaming laptop has a 2D / 3D screen and carbon fiber lid](https://www.theverge.com/news/663084/lenovo-legion-9i-18-rtx-5090-2d-3d-gaming-laptop-announcement-specs)
+ - [Rockstar says its new Grand Theft Auto VI trailer was &quot;captured entirely in-game from a PlayStation 5, comprised of equal parts gameplay and cutscenes&quot; &lpar;Andrew Webster/The Verge&rpar;](http://www.techmeme.com/250508/p18#a250508p18)
  - [Reddit CEO Steve Huffman says the service will work with &quot;various third-party services&quot; to verify a user&#39;s humanity, after an AI experiment in r/ChangeMyView &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250508/p17#a250508p17)
- - [Nintendo expects the Switch 2 to be just as successful as the original](https://www.theverge.com/news/663130/nintendo-switch-2-sales-forecast-15-million)
- - [As the US Cuts Scientific Talent, Europe Launches an Initiative to Attract It](https://www.wired.com/story/us-cuts-scientific-talent-europe/)
- - [The US OCC says banks can buy and sell customers&#39; crypto assets on their behalf and can outsource crypto custody and trade execution services to third parties &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/250508/p16#a250508p16)
- - [The European Commission is facing pressure from member states, led by Ireland, to require Google, Meta, and others to vet financial ads for potential scams &lpar;Financial Times&rpar;](http://www.techmeme.com/250508/p15#a250508p15)<!-- TECH:END -->
+ - [Nintendo expects the Switch 2 to be just as successful as the original](https://www.theverge.com/news/663130/nintendo-switch-2-sales-forecast-15-million)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

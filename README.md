@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grab AirPods 4 for $99, Apple Watch for $169, iPad for $299 ahead of Mother&#39;s Day](https://appleinsider.com/articles/25/05/08/grab-airpods-4-for-99-apple-watch-for-169-ipad-for-299-ahead-of-mothers-day?utm_medium=rss)
- - [Bitcoin jumps above $100,000 for first time since February 2025, after President Trump announced a US-UK trade agreement; ether, dogecoin, and solana rose 9%+ &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250508/p31#a250508p31)
- - [9 Best Digital Notebooks, Tablets, and Smart Pens &lpar;2025&rpar;](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/)
- - [OpenAI hires former head of the Facebook app](https://www.theverge.com/news/663454/openai-fidji-simo-apps-ceo-facebook-instacart)
- - [An interview with Gumroad CEO Sahil Lavingia about working as an unpaid contractor for DOGE, moving the Gumroad code base to the MIT license, and more &lpar;Ernie Smith/Fast Company&rpar;](http://www.techmeme.com/250508/p30#a250508p30)<!-- TECH:END -->
+ - [Memo: Meta CPO Chris Cox says Robert Fergus will lead its Facebook AI Research lab, succeeding Joelle Pineau; Fergus and Yann LeCun co-founded FAIR in 2014 &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/250508/p33#a250508p33)
+ - [Sales automation startup Clay lets staff with 1+ year of tenure sell shares in a tender led by Sequoia at a $1.5B valuation, up from $1.25B in January 2025 &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250508/p32#a250508p32)
+ - [FTC v. Meta live: Instagram CEO Adam Mosseri takes the stand](https://www.theverge.com/news/646809/ftc-v-meta-antitrust-monopoly-trial-instagram-whatsapp)
+ - [Kickstarter’s new Tariff Manager is now available to campaign creators](https://www.theverge.com/news/662836/kickstarter-pledge-tariff-manager-crowdfunding-now-available)
+ - [Threads was originally going to live inside the Instagram app](https://www.theverge.com/news/663390/threads-app-inside-instagram-mosseri)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

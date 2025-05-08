@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They didn\u2019t even get doritos and mountain dew :,&lpar;](http://9gag.com/gag/awydXg1)
  - 😝 [Women: `Why doesn&#39;t my bf/husband share his feelings me with me?`](http://9gag.com/gag/aE0D2Op)
- - 💣 [Replacing all the food in the tavern with poisoned apples](http://9gag.com/gag/aYQq422)
+ - 😝 [Lana Turner in &#39;Marriage Is a Private Affair&#39; &lpar;MGM 1944&rpar;](http://9gag.com/gag/aoyLe9w)
+ - 💣 [Still don&#39;t know. Do you like my sword sword...](http://9gag.com/gag/aD2V14d)
  - 😝 [Are you really?](http://9gag.com/gag/aGyAeDw)
- - 👉 [Fun](http://9gag.com/gag/aMVv8N1)<!-- MEMES:END -->
+ - 👉 [Kid has a brain.. calling out \u201cnews\u201d shenanigans.](http://9gag.com/gag/aD2Vg6O)<!-- MEMES:END -->
 
 ---
 

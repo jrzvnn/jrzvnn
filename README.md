@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple asks court to halt App Store rule changes while it appeals](https://www.theverge.com/news/663361/apple-halt-app-store-ruling-appeal)
  - [Analysis: ~67,000 new or small-time crypto investors bought the $TRUMP memecoin but 80% of them bought near the coin&#39;s peak and saw their holdings nosedive &lpar;Washington Post&rpar;](http://www.techmeme.com/250508/p29#a250508p29)
  - [8 Best Flower Delivery Services of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-flower-delivery-service/)
  - [Reuters is ready to stand up for the press — and embrace AI](https://www.theverge.com/decoder-podcast-with-nilay-patel/663285/reuters-is-ready-to-stand-up-for-the-press-and-embrace-ai)
- - [&#39;The Studio&#39; creator refused Tim Cook a cameo](https://appleinsider.com/articles/25/05/08/the-studio-creator-refused-tim-cook-a-cameo?utm_medium=rss)
- - [FTC v. Meta live: updates from the battle for Instagram and WhatsApp](https://www.theverge.com/news/646809/ftc-v-meta-antitrust-monopoly-trial-instagram-whatsapp)<!-- TECH:END -->
+ - [&#39;The Studio&#39; creator refused Tim Cook a cameo](https://appleinsider.com/articles/25/05/08/the-studio-creator-refused-tim-cook-a-cameo?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

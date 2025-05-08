@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Torras Ostand OAir iPhone 16 cases are rugged, colorful, and versatile](https://appleinsider.com/articles/25/05/08/torras-ostand-oair-iphone-16-cases-are-rugged-colorful-and-versatile?utm_medium=rss)
+ - [Sources: Apple aims to begin mass production of a chip for its smart glasses, with greater power efficiency and multi-camera control, by end of 2026 or in 2027 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250508/p36#a250508p36)
  - [A federal judge in Florida dismisses most claims against celebrities who endorsed FTX, ruling that they were &quot;uninformed&quot; and &quot;reckless&quot; but not fraudulent &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/250508/p35#a250508p35)
  - [The UK says the Digital Services Tax remains unchanged under the trade deal agreed between the US and the UK, both of which will work on a &quot;digital trade deal&quot; &lpar;Paul Sandle/Reuters&rpar;](http://www.techmeme.com/250508/p34#a250508p34)
- - [The next Lord of the Rings movie debuts in December 2027](https://www.theverge.com/news/663476/the-lord-of-the-rings-hunt-for-gollum-release-date)
- - [Judge dismisses most charges against FTX’s celebrity boosters](https://www.theverge.com/policy/663502/ftx-celebrity-lawsuit-tom-brady-gisele-kevin-o-leary-steph-curry)
- - [Memo: Meta CPO Chris Cox says Robert Fergus will lead its Facebook AI Research lab, succeeding Joelle Pineau; Fergus and Yann LeCun co-founded FAIR in 2014 &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/250508/p33#a250508p33)<!-- TECH:END -->
+ - [The next Lord of the Rings movie debuts in December 2027](https://www.theverge.com/news/663476/the-lord-of-the-rings-hunt-for-gollum-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

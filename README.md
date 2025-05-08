@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Wikimedia Foundation says it is taking legal action to challenge the UK&#39;s Online Safety Act, saying it could threaten the safety of its volunteer editors &lpar;Chris Vallance/BBC&rpar;](http://www.techmeme.com/250508/p38#a250508p38)
- - [Donald Trump’s UK Trade Deal Could Secure Jaguar&#39;s Resurrection](https://www.wired.com/story/donald-trumps-uk-trade-deal-could-secure-jaguars-resurrection/)
- - [Roborock’s S8 MaxV Ultra, our favorite robovac, is $800 off](https://www.theverge.com/tech/663512/roborocks-s8-maxv-ultra-our-favorite-robovac-is-800-off)
- - [Google rolls out AI-powered defenses to help combat scams on Chrome, including the use of Gemini Nano, its on-device LLM, in Enhanced Protection mode on desktop &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250508/p37#a250508p37)
- - [Apple Glass will get custom Apple Silicon tailored for low power &amp; camera control](https://appleinsider.com/articles/25/05/08/apple-glass-will-get-custom-apple-silicon-tailored-for-low-power-camera-control?utm_medium=rss)<!-- TECH:END -->
+ - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
+ - [Ecobee’s video doorbell now integrates with Google Home](https://www.theverge.com/news/663489/ecobee-smart-doorbell-camera-google-home-integration)
+ - [Broadcom Sends Cease-and-Desist Letters to VMware Perpetual License Holders](https://www.wired.com/story/vmware-license-holders-receive-cease-and-desist-letters-from-broadcom/)
+ - [Apple working on M6 &amp; M7 chips alongside new AI server processor](https://appleinsider.com/articles/25/05/08/apple-working-on-m6-m7-chips-alongside-new-ai-server-processor?utm_medium=rss)
+ - [Apple is planning smart glasses with and without AR](https://www.theverge.com/news/663600/apple-smart-glasses-chips-ar-chip)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

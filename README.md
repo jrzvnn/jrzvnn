@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Senate hearing: Sam Altman says that requiring government approval to release AI would be &quot;disastrous&quot; for the US&#39; lead in AI, a reversal from his 2023 comments &lpar;Washington Post&rpar;](http://www.techmeme.com/250508/p50#a250508p50)
  - [US Customs and Border Protection Quietly Revokes Protections for Pregnant Women and Infants](https://www.wired.com/story/cbp-rescinds-policies-on-care-of-pregnant-women-infants/)
  - [Instagram CEO testifies about competing with TikTok: ‘You’re either growing, or you&amp;#8217;re slowly dying’](https://www.theverge.com/antitrust/663894/instagram-ceo-adam-mosseri-ftc-meta-antitrust-trial)
  - [SEC filing: Sterling Anderson, CPO and co-founder of self-driving truck startup Aurora, is resigning effective June 1, and will leave the board on August 31 &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/250508/p49#a250508p49)
- - [Celsius founder Alex Mashinsky sentenced to 12 years in prison](https://www.theverge.com/news/663877/celsius-founder-alex-mashinsky-12-years-sentenced)
- - [NBA Playoffs 2025: How to Watch Warriors vs. Timberwolves Tonight](https://www.cnet.com/tech/services-and-software/nba-playoffs-2025-how-to-watch-warriors-vs-timberwolves-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Celsius founder Alex Mashinsky sentenced to 12 years in prison](https://www.theverge.com/news/663877/celsius-founder-alex-mashinsky-12-years-sentenced)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

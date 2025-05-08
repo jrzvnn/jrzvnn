@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Have nuclear weapons, will go to war. But where?](http://9gag.com/gag/a342QV7)
- - 😝 [They didn\u2019t even get doritos and mountain dew :,&lpar;](http://9gag.com/gag/awydXg1)
+ - 😝 [Sinne we&#39;re posting shit again....](http://9gag.com/gag/aGyA1A5)
+ - 😝 [Celebs or just random party crashers?](http://9gag.com/gag/aW4bmgq)
  - 💣 [NO THAT&#39;S DANGEROUS! oh....](http://9gag.com/gag/aKGeDOj)
- - 😝 [Replacing all the food in the tavern with poisoned apples](http://9gag.com/gag/aYQq422)
+ - 😝 [Pretty accurate...](http://9gag.com/gag/aryqGDV)
  - 👉 [People are blind.](http://9gag.com/gag/ae9meLp)<!-- MEMES:END -->
 
 ---

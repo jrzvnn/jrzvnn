@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The S stands for...](http://9gag.com/gag/amoMr8o)
- - 😝 [Are you really?](http://9gag.com/gag/aGyAeDw)
- - 💣 [Technologia xD](http://9gag.com/gag/ayNRxbW)
- - 😝 [A spinning machine in Japan that gives an Intel processor up to i7 at $3.3](http://9gag.com/gag/azxRrLb)
- - 👉 [What&#39;s your favorite position?](http://9gag.com/gag/azxR9bb)<!-- MEMES:END -->
+ - 😝 [Have nuclear weapons, will go to war. But where?](http://9gag.com/gag/a342QV7)
+ - 😝 [They didn\u2019t even get doritos and mountain dew :,&lpar;](http://9gag.com/gag/awydXg1)
+ - 💣 [NO THAT&#39;S DANGEROUS! oh....](http://9gag.com/gag/aKGeDOj)
+ - 😝 [Replacing all the food in the tavern with poisoned apples](http://9gag.com/gag/aYQq422)
+ - 👉 [People are blind.](http://9gag.com/gag/ae9meLp)<!-- MEMES:END -->
 
 ---
 

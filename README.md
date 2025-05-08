@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vtoman FlashSpeed 1000 Power Station review: Weekend-long portable power](https://appleinsider.com/articles/25/05/08/vtoman-flashspeed-1000-power-station-review-weekend-long-portable-power?utm_medium=rss)
- - [TPG and Corpay agree to acquire Charlotte, NC-based AvidXchange, a payment automation software provider, for $2.2B, with Corpay investing ~$500M for a 33% stake &lpar;Reuters&rpar;](http://www.techmeme.com/250507/p49#a250507p49)
- - [Panasonic S1R II Mirrorless Camera](https://www.wired.com/gallery/panasonic-s1r-ii-mirrorless-camera/)
- - [Singapore’s Vision for AI Safety Bridges the US-China Divide](https://www.wired.com/story/singapore-ai-safety-global-consensus/)
- - [Samsung plans to launch the Galaxy S25 Edge at a May 12 virtual event at 8pm ET, and reservations for the super-slim device are now open with a $50 credit &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250507/p48#a250507p48)<!-- TECH:END -->
+ - [Google says it continues to see overall query growth in Search, including an increase in total queries coming from Apple&#39;s devices and platforms &lpar;The Keyword&rpar;](http://www.techmeme.com/250507/p52#a250507p52)
+ - [Apple seeks stay on allowing external links &amp; purchases during injunction violation appeal](https://appleinsider.com/articles/25/05/08/apple-seeks-stay-on-allowing-external-links-purchases-during-injunction-violation-appeal?utm_medium=rss)
+ - [Filing: Apple seeks to pause the part of the April 30 US federal court ruling that blocked it from charging App Store commissions on outside transactions &lpar;Bloomberg&rpar;](http://www.techmeme.com/250507/p51#a250507p51)
+ - [WisdomAI, which offers AI-powered data analytics from structured, unstructured, and &quot;dirty&quot; data, launches with a $23M seed led by Coatue Ventures &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250507/p50#a250507p50)
+ - [Vtoman FlashSpeed 1000 Power Station review: Weekend-long portable power](https://appleinsider.com/articles/25/05/08/vtoman-flashspeed-1000-power-station-review-weekend-long-portable-power?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

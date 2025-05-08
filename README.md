@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US Customs and Border Protection Quietly Revokes Protections for Pregnant Women and Infants](https://www.wired.com/story/cbp-rescinds-policies-on-care-of-pregnant-women-infants/)
+ - [Instagram CEO testifies about competing with TikTok: ‘You’re either growing, or you&amp;#8217;re slowly dying’](https://www.theverge.com/antitrust/663894/instagram-ceo-adam-mosseri-ftc-meta-antitrust-trial)
  - [SEC filing: Sterling Anderson, CPO and co-founder of self-driving truck startup Aurora, is resigning effective June 1, and will leave the board on August 31 &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/250508/p49#a250508p49)
  - [Celsius founder Alex Mashinsky sentenced to 12 years in prison](https://www.theverge.com/news/663877/celsius-founder-alex-mashinsky-12-years-sentenced)
- - [Coinbase reports Q1 revenue up 24% YoY to $2B, vs. $2.1B est., trading volume up 26% YoY to $393B, and earnings per share of $0.24, vs. $1.93 est. &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/250508/p48#a250508p48)
- - [Apple has a new ‘Viral’ playlist on Apple Music and Shazam](https://www.theverge.com/news/663866/apple-music-viral-charts-global-playlist-shazam-top-50)
- - [States Sue the Government Over Withdrawn EV Charging Station Funds](https://www.cnet.com/roadshow/news/states-sue-the-government-over-withdrawn-ev-charging-station-funds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NBA Playoffs 2025: How to Watch Warriors vs. Timberwolves Tonight](https://www.cnet.com/tech/services-and-software/nba-playoffs-2025-how-to-watch-warriors-vs-timberwolves-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

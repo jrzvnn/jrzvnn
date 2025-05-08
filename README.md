@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SMIC reports Q1 revenue up 28.4% YoY to $2.2B, vs. $2.3B est., profit up 161.9% YoY to $188M, vs. $222.4M est., and says H2 has &quot;opportunities and challenges&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/250508/p24#a250508p24)
+ - [You can now submit your claims for Apple’s $95 million Siri spying settlement](https://www.theverge.com/news/663166/apple-siri-audio-recording-lawsuit-payout-applications)
  - [Hackers defaced the LockBit ransomware gang&#39;s dark web affiliate panels, linking to a MySQL database dump with operational data, including 59,975 BTC addresses &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250508/p23#a250508p23)
  - [Panasonic S1R II Review: Capable, Affordable, Mirrorless Hybrid Camera](https://www.wired.com/review/panasonic-s1rii-mirrorless-camera/)
- - [Shopify reports Q1 revenue up 27% YoY to $2.36B, narrowly above $2.34B est., and GMV up 22% YoY to $74.6B, as tariffs weigh on its growth; SHOP drops 8%+ &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/250508/p22#a250508p22)
- - [Apple looking to AI for Safari search rumor forces rare &amp; terse Google denial](https://appleinsider.com/articles/25/05/08/apple-looking-to-ai-for-safari-search-rumor-forces-rare-terse-google-denial?utm_medium=rss)
- - [Nintendo reports FY 2024-25 revenue down 30% YoY to ~$8B, profit down 43% YoY to ~$1.9B, and says the Switch has 128M+ players globally, ahead of the Switch 2 &lpar;Yuri Kageyama/Associated Press&rpar;](http://www.techmeme.com/250508/p21#a250508p21)<!-- TECH:END -->
+ - [Shopify reports Q1 revenue up 27% YoY to $2.36B, narrowly above $2.34B est., and GMV up 22% YoY to $74.6B, as tariffs weigh on its growth; SHOP drops 8%+ &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/250508/p22#a250508p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

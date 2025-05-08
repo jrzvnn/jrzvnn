@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Are you really?](http://9gag.com/gag/aGyAeDw)
+ - 😝 [Usual suspects](http://9gag.com/gag/aXPWxwD)
+ - 💣 [Celebs or just random party crashers?](http://9gag.com/gag/aW4bmgq)
  - 😝 [Still don&#39;t know. Do you like my sword sword...](http://9gag.com/gag/aD2V14d)
- - 😝 [Sinne we&#39;re posting shit again....](http://9gag.com/gag/aGyA1A5)
- - 💣 [In and out](http://9gag.com/gag/a342QgN)
- - 😝 [Celebs or just random party crashers?](http://9gag.com/gag/aW4bmgq)
- - 👉 [Replacing all the food in the tavern with poisoned apples](http://9gag.com/gag/aYQq422)<!-- MEMES:END -->
+ - 👉 [Sinne we&#39;re posting shit again....](http://9gag.com/gag/aGyA1A5)<!-- MEMES:END -->
 
 ---
 

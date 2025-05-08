@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI hires Instacart CEO Fidji Simo as CEO of Applications, reporting to Sam Altman, who says he&#39;ll stay CEO focusing &quot;on research, compute, and safety&quot; &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/250508/p4#a250508p4)
+ - [In prepared Senate testimony, Microsoft and others urge US lawmakers to streamline federal AI energy permits and open government data sets for AI training &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/250508/p3#a250508p3)
  - [Latin American e-commerce and fintech giant MercadoLibre reports Q1 revenue up 37% YoY to $5.9B, $494M in net income, and Argentina revenue up 125% YoY to $1.3B &lpar;Daniel Cancel/Bloomberg&rpar;](http://www.techmeme.com/250508/p2#a250508p2)
  - [Nebius Group&#39;s Toloka, which uses human experts to train and evaluate AI models and has worked with Amazon and Anthropic, raised $72M led by Bezos Expeditions &lpar;Alexander Marrow/Reuters&rpar;](http://www.techmeme.com/250508/p1#a250508p1)
- - [10% Off Dell Coupon Codes | May 2025](https://www.wired.com/story/dell-coupon-code/)
- - [Eddy Cue&#39;s disclosure of Apple&#39;s plan to shift its browser to AI systems had a clear goal of downplaying the importance of Apple&#39;s search deal with Google &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250507/p54#a250507p54)
- - [Measles Cases Spread Across US, Mexico and Canada. Learn How to Protect Yourself](https://www.cnet.com/health/medical/measles-cases-spread-across-us-mexico-and-canada-learn-how-to-protect-yourself/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [10% Off Dell Coupon Codes | May 2025](https://www.wired.com/story/dell-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

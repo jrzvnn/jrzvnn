@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sinne we&#39;re posting shit again....](http://9gag.com/gag/aGyA1A5)
- - 😝 [10/10 movie must it be](http://9gag.com/gag/a0e1K2L)
- - 💣 [The possibilities](http://9gag.com/gag/ae9mrQj)
- - 😝 [Still don&#39;t know. Do you like my sword sword...](http://9gag.com/gag/aD2V14d)
- - 👉 [People are blind.](http://9gag.com/gag/ae9meLp)<!-- MEMES:END -->
+ - 😝 [Oh no, anyway..](http://9gag.com/gag/ajPZ87R)
+ - 😝 [Eminem - Lose Yourself &lpar;Sung by 331 Movies&rpar;](http://9gag.com/gag/aoyLOve)
+ - 💣 [In and out](http://9gag.com/gag/a342QgN)
+ - 😝 [Who?](http://9gag.com/gag/ae9m59b)
+ - 👉 [They took over the building to protest now security has blocked the exits and wont let anybody leave without showing ID.](http://9gag.com/gag/ayNRB2q)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After everything, Epic Games submits new &#39;Fortnite&#39; to US App Store review](https://appleinsider.com/articles/25/05/09/after-everything-epic-games-submits-new-fortnite-to-us-app-store-review?utm_medium=rss)
  - [The Verge’s 2025 Mother’s Day gift guide](https://www.theverge.com/tech/647527/best-mothers-day-gift-ideas-2025-mom-tech-gadgets)
  - [ESPN’s standalone streaming service might just be called ESPN](https://www.theverge.com/news/664297/espn-standalone-streaming-service-name)
  - [Newark Airport radar outage strikes again, delaying more flights](https://www.theverge.com/news/664221/newark-airport-radar-ground-stop-delays-atc)
- - [Rippling raised a $450M Series G at a $16.8B valuation, up from $13.4B during its $200M Series F in 2024; it is also conducting a $200M tender offer &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250509/p11#a250509p11)
- - [US Customs and Border Protection Plans to Photograph Everyone Exiting the US by Car](https://www.wired.com/story/cbp-face-recognition-exit-us-border/)<!-- TECH:END -->
+ - [Rippling raised a $450M Series G at a $16.8B valuation, up from $13.4B during its $200M Series F in 2024; it is also conducting a $200M tender offer &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250509/p11#a250509p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

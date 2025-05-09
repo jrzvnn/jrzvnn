@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [President Claudia Sheinbaum says Mexico is suing Google for ignoring requests not to call the Gulf of Mexico the Gulf of America on Google Maps in the US &lpar;Danai Nesta Kupemba/BBC&rpar;](http://www.techmeme.com/250509/p19#a250509p19)
  - [Brian Armstrong says Coinbase considered allocating 80% of its balance sheet into bitcoin but decided against the scheme as it was too risky &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/250509/p18#a250509p18)
  - [Trump illegally fires Democrats on Consumer Product Safety Commission](https://www.theverge.com/news/664498/consumer-product-safety-commission-cpsc-trump-firing)
  - [Sonos CEO: ‘We All Feel Really Terrible’ About the Bungled App Update](https://www.wired.com/story/sonos-ceo-tom-conrad-interview/)
- - [TikTok Blocks Searches for Dangerous Chromebook Challenge](https://www.cnet.com/tech/dangerous-tiktok-chromebook-challenge-avoid-sparking-a-fire-in-your-laptop/#ftag=CAD590a51e)
- - [Sources: Snowflake challenger ClickHouse is in talks to raise hundreds of millions led by Khosla Ventures at a $6B valuation, triple its valuation from 2021 &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250509/p17#a250509p17)<!-- TECH:END -->
+ - [TikTok Blocks Searches for Dangerous Chromebook Challenge](https://www.cnet.com/tech/dangerous-tiktok-chromebook-challenge-avoid-sparking-a-fire-in-your-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The accuracy with which she plays](http://9gag.com/gag/a6Z2Ed8)
- - 😝 [Still don&#39;t know. Do you like my sword sword...](http://9gag.com/gag/aD2V14d)
- - 💣 [Title](http://9gag.com/gag/a0e1NKZ)
- - 😝 [Dirty Alexa](http://9gag.com/gag/aO8P7Y3)
- - 👉 [A bahhhwwllll](http://9gag.com/gag/aByGggA)<!-- MEMES:END -->
+ - 😝 [Tutorials are for noobs](http://9gag.com/gag/apRbNpB)
+ - 😝 [Who?](http://9gag.com/gag/ae9m59b)
+ - 💣 [Happens to the best of us...](http://9gag.com/gag/avyRzQW)
+ - 😝 [Wife material](http://9gag.com/gag/aW4bgPq)
+ - 👉 [This Spider has 3 egg sacks, is pregnant with a 4th, and has 2 entire rodents on display in its web.](http://9gag.com/gag/an7Eg4E)<!-- MEMES:END -->
 
 ---
 

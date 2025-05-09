@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Are you really?](http://9gag.com/gag/aGyAeDw)
- - 😝 [10/10 movie must it be](http://9gag.com/gag/a0e1K2L)
- - 💣 [Women: `Why doesn&#39;t my bf/husband share his feelings me with me?`](http://9gag.com/gag/aE0D2Op)
- - 😝 [Pope Leone XIV](http://9gag.com/gag/aMVvYRV)
- - 👉 [Some serious shite is going on between India and Pakistan](http://9gag.com/gag/ae9mr6W)<!-- MEMES:END -->
+ - 😝 [I guess krieger was wrong. The pennis can get even more erect.](http://9gag.com/gag/a7o2wqq)
+ - 😝 [Snakes can\u2018t move on microfibre rug](http://9gag.com/gag/azxR97z)
+ - 💣 [Who?](http://9gag.com/gag/ae9m59b)
+ - 😝 [Women: `Why doesn&#39;t my bf/husband share his feelings me with me?`](http://9gag.com/gag/aE0D2Op)
+ - 👉 [Replacing all the food in the tavern with poisoned apples](http://9gag.com/gag/aYQq422)<!-- MEMES:END -->
 
 ---
 

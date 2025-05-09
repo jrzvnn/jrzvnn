@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An idiot and her bike](http://9gag.com/gag/aQzZd5w)
- - 😝 [Jim Carrey makes fun of Margot Robbie in the most unusual way](http://9gag.com/gag/a2v2Wv1)
- - 💣 [The guy with a spiked flail has no mercy](http://9gag.com/gag/aPAQRMB)
+ - 😝 [The accuracy with which she plays](http://9gag.com/gag/a6Z2Ed8)
  - 😝 [Still don&#39;t know. Do you like my sword sword...](http://9gag.com/gag/aD2V14d)
- - 👉 [The accuracy with which she plays](http://9gag.com/gag/a6Z2Ed8)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/a0e1NKZ)
+ - 😝 [Dirty Alexa](http://9gag.com/gag/aO8P7Y3)
+ - 👉 [A bahhhwwllll](http://9gag.com/gag/aByGggA)<!-- MEMES:END -->
 
 ---
 

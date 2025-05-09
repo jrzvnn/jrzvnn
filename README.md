@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Door opening system on the BMW Z1](http://9gag.com/gag/aE0Dpye)
  - 😝 [An idiot and her bike](http://9gag.com/gag/aQzZd5w)
- - 💣 [Title](http://9gag.com/gag/a0e1NKZ)
- - 😝 [The accuracy with which she plays](http://9gag.com/gag/a6Z2Ed8)
- - 👉 [Pineapple skin is so heat resistant that it can endure a 1000\u00b0C iron ball](http://9gag.com/gag/aAy2gpL)<!-- MEMES:END -->
+ - 😝 [Jim Carrey makes fun of Margot Robbie in the most unusual way](http://9gag.com/gag/a2v2Wv1)
+ - 💣 [The guy with a spiked flail has no mercy](http://9gag.com/gag/aPAQRMB)
+ - 😝 [Still don&#39;t know. Do you like my sword sword...](http://9gag.com/gag/aD2V14d)
+ - 👉 [The accuracy with which she plays](http://9gag.com/gag/a6Z2Ed8)<!-- MEMES:END -->
 
 ---
 

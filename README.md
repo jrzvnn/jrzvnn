@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Huawei unveiled its first laptop running HarmonyOS 5, after its Windows license for PCs expired in March 2025; the unnamed laptop uses Huawei&#39;s Celia assistant &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250509/p1#a250509p1)
+ - [Hey Wordle Players, the New Pope Is One of Us](https://www.cnet.com/tech/gaming/hey-wordle-players-the-new-pope-is-one-of-us/#ftag=CAD590a51e)
  - [Surfshark Promo Codes: 87% Off | May 2025](https://www.wired.com/story/surfshark-coupon/)
  - [Today&#39;s Wordle Hints, Answer and Help for May 9, #1420](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-9-1420/#ftag=CAD590a51e)
- - [Why am I internet-stalking the pope?](https://www.theverge.com/politics/663974/pope-leo-xiv-prevost-social-media-tweets)
- - [Broadcom is sending cease-and-desist letters to owners of VMware perpetual licenses with expired support contracts, to get them to buy VMware product bundles &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/250508/p55#a250508p55)<!-- TECH:END -->
+ - [Why am I internet-stalking the pope?](https://www.theverge.com/politics/663974/pope-leo-xiv-prevost-social-media-tweets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

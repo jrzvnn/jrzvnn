@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone fold: All the rumors about Apple&#39;s first foldable, and when it might launch](https://appleinsider.com/articles/25/05/09/iphone-fold-all-the-rumors-about-apples-first-foldable-and-when-it-might-launch?utm_medium=rss)
  - [Trump’s Surgeon General Pick Is Tearing the MAHA Movement Apart](https://www.wired.com/story/casey-means-surgeon-general-trump-rfk-controlled-opposition-vaccine/)
  - [Google agrees to pay $50M to settle a lawsuit accusing it of systemic racial bias against Black employees, covering 4,000+ employees in California and New York &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250509/p13#a250509p13)
  - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)
- - [Sources: the US Treasury asked Benchmark whether its Manus AI funding is covered by restrictions on investments in tech destined for &quot;countries of concern&quot; &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250509/p12#a250509p12)
- - [ESPN&#39;s Flagship Streaming App Reportedly Has a Super Simple Name](https://www.cnet.com/tech/services-and-software/espns-flagship-streaming-app-reportedly-has-a-super-simple-name/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: the US Treasury asked Benchmark whether its Manus AI funding is covered by restrictions on investments in tech destined for &quot;countries of concern&quot; &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250509/p12#a250509p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

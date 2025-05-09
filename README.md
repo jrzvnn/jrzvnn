@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tutorials are for noobs](http://9gag.com/gag/apRbNpB)
- - 😝 [Who?](http://9gag.com/gag/ae9m59b)
- - 💣 [Happens to the best of us...](http://9gag.com/gag/avyRzQW)
- - 😝 [Wife material](http://9gag.com/gag/aW4bgPq)
- - 👉 [This Spider has 3 egg sacks, is pregnant with a 4th, and has 2 entire rodents on display in its web.](http://9gag.com/gag/an7Eg4E)<!-- MEMES:END -->
+ - 😝 [Jim Carrey makes fun of Margot Robbie in the most unusual way](http://9gag.com/gag/a2v2Wv1)
+ - 😝 [Well we&#39;ll if it isn&#39;t the consequences of our actions...](http://9gag.com/gag/aGyAd86)
+ - 💣 [9gaggers and their low standards be like](http://9gag.com/gag/a872ERp)
+ - 😝 [Pineapple skin is so heat resistant that it can endure a 1000\u00b0C iron ball](http://9gag.com/gag/aAy2gpL)
+ - 👉 [Antonov cloud divider](http://9gag.com/gag/aQzZRE8)<!-- MEMES:END -->
 
 ---
 

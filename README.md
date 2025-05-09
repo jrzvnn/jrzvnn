@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [An idiot and her bike](http://9gag.com/gag/aQzZd5w)
  - 😝 [This is how a broken immigration policy looks like](http://9gag.com/gag/aGyAjLX)
- - 💣 [In and out](http://9gag.com/gag/a342QgN)
- - 😝 [Lol](http://9gag.com/gag/a872oGp)
- - 👉 [Who?](http://9gag.com/gag/ae9m59b)<!-- MEMES:END -->
+ - 💣 [Stop thinking](http://9gag.com/gag/aByGxwZ)
+ - 😝 [Jim Carrey makes fun of Margot Robbie in the most unusual way](http://9gag.com/gag/a2v2Wv1)
+ - 👉 [Lol](http://9gag.com/gag/a872oGp)<!-- MEMES:END -->
 
 ---
 

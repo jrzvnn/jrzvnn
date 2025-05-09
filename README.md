@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this the real life? &lpar;Caption: Highschool female teacher arrested for having sexual relationship with her student&rpar;](http://9gag.com/gag/aRBo3QM)
- - 😝 [He handled the situation well](http://9gag.com/gag/aByGxv1)
- - 💣 [Lol](http://9gag.com/gag/a872oGp)
- - 😝 [Some serious shite is going on between India and Pakistan](http://9gag.com/gag/ae9mr6W)
- - 👉 [In and out](http://9gag.com/gag/a342QgN)<!-- MEMES:END -->
+ - 😝 [An idiot and her bike](http://9gag.com/gag/aQzZd5w)
+ - 😝 [This is how a broken immigration policy looks like](http://9gag.com/gag/aGyAjLX)
+ - 💣 [In and out](http://9gag.com/gag/a342QgN)
+ - 😝 [Lol](http://9gag.com/gag/a872oGp)
+ - 👉 [Who?](http://9gag.com/gag/ae9m59b)<!-- MEMES:END -->
 
 ---
 

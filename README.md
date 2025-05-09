@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Catherine Bell &lpar;1995&rpar;](http://9gag.com/gag/an7E5R5)
- - 😝 [Who?](http://9gag.com/gag/ae9m59b)
- - 💣 [Lana Turner in &#39;Marriage Is a Private Affair&#39; &lpar;MGM 1944&rpar;](http://9gag.com/gag/aoyLe9w)
  - 😝 [He handled the situation well](http://9gag.com/gag/aByGxv1)
- - 👉 [Kid has a brain.. calling out \u201cnews\u201d shenanigans.](http://9gag.com/gag/aD2Vg6O)<!-- MEMES:END -->
+ - 😝 [They didn\u2019t even get doritos and mountain dew :,&lpar;](http://9gag.com/gag/awydXg1)
+ - 💣 [Some serious shite is going on between India and Pakistan](http://9gag.com/gag/ae9mr6W)
+ - 😝 [Nut your average table trick](http://9gag.com/gag/abABz2L)
+ - 👉 [Lol](http://9gag.com/gag/a872oGp)<!-- MEMES:END -->
 
 ---
 

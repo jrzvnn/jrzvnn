@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The accuracy with which she plays](http://9gag.com/gag/a6Z2Ed8)
- - 😝 [This toilet open to the ocean below](http://9gag.com/gag/a5Q2Wxy)
- - 💣 [In and out](http://9gag.com/gag/a342QgN)
+ - 😝 [Bro did more damage than avengers](http://9gag.com/gag/aAy23g0)
+ - 😝 [They didn\u2019t even get doritos and mountain dew :,&lpar;](http://9gag.com/gag/awydXg1)
+ - 💣 [Man escapes the interrogation room by kicking a whole in the wall](http://9gag.com/gag/a872Ge1)
  - 😝 [He handled the situation well](http://9gag.com/gag/aByGxv1)
- - 👉 [Some serious shite is going on between India and Pakistan](http://9gag.com/gag/ae9mr6W)<!-- MEMES:END -->
+ - 👉 [An idiot and her bike](http://9gag.com/gag/aQzZd5w)<!-- MEMES:END -->
 
 ---
 

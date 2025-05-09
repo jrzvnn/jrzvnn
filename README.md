@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who is your favorite red head?](http://9gag.com/gag/aoyL5Ox)
- - 😝 [The accuracy with which she plays](http://9gag.com/gag/a6Z2Ed8)
- - 💣 [Pineapple skin is so heat resistant that it can endure a 1000\u00b0C iron ball](http://9gag.com/gag/aAy2gpL)
- - 😝 [Title](http://9gag.com/gag/a0e1NKZ)
- - 👉 [9gaggers and their low standards be like](http://9gag.com/gag/a872ERp)<!-- MEMES:END -->
+ - 😝 [Wahmen is bad from a wahmen point of view](http://9gag.com/gag/aryqMOK)
+ - 😝 [Tutorials are for noobs](http://9gag.com/gag/apRbNpB)
+ - 💣 [An idiot and her bike](http://9gag.com/gag/aQzZd5w)
+ - 😝 [Kid has a brain.. calling out \u201cnews\u201d shenanigans.](http://9gag.com/gag/aD2Vg6O)
+ - 👉 [Wife material](http://9gag.com/gag/aW4bgPq)<!-- MEMES:END -->
 
 ---
 

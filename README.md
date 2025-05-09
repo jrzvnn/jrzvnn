@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: US DOL ended its probe into Scale AI&#39;s Fair Labor Standards Act compliance, after announcing a friendlier approach to classifying workers as contractors &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/250509/p15#a250509p15)
  - [Tech companies warn they may pull back from US investment pledges if Congress doesn&#39;t fully reinstate the R&amp;D tax deduction pared back in Trump&#39;s 2017 tax bill &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/250509/p14#a250509p14)
  - [An in-depth interview with Sonos interim CEO Tom Conrad](https://www.theverge.com/speakers/664329/sonos-ceo-tom-conrad-interview-app-speakers-subscriptions)
  - [iPhone fold: All the rumors about Apple&#39;s first foldable, and when it might launch](https://appleinsider.com/articles/25/05/09/iphone-fold-all-the-rumors-about-apples-first-foldable-and-when-it-might-launch?utm_medium=rss)
- - [Trump’s Surgeon General Pick Is Tearing the MAHA Movement Apart](https://www.wired.com/story/casey-means-surgeon-general-trump-rfk-controlled-opposition-vaccine/)
- - [Google agrees to pay $50M to settle a lawsuit accusing it of systemic racial bias against Black employees, covering 4,000+ employees in California and New York &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250509/p13#a250509p13)<!-- TECH:END -->
+ - [Trump’s Surgeon General Pick Is Tearing the MAHA Movement Apart](https://www.wired.com/story/casey-means-surgeon-general-trump-rfk-controlled-opposition-vaccine/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

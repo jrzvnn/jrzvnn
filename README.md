@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 21 Best Early Amazon Pet Day Deals &lpar;2025&rpar;](https://www.wired.com/story/amazon-pet-day-deals/)
- - [Do You Really Have to Stop Using Windows 10?](https://www.wired.com/story/do-you-really-have-to-stop-using-windows-10/)
- - [Sources: CoreWeave plans to raise ~$1.5B through a high-yield bond offering, aiming to refinance part of its massive liabilities, weeks after a muted IPO &lpar;Financial Times&rpar;](http://www.techmeme.com/250509/p5#a250509p5)
- - [Jony Ive talks about minimalism, taste, and Apple&#39;s design group](https://appleinsider.com/articles/25/05/09/jony-ive-talks-about-minimalism-taste-and-apples-design-group?utm_medium=rss)
- - [Amazon now sells prescription pet pills](https://www.theverge.com/news/664069/amazon-online-pharmacy-pet-prescription-drugs)<!-- TECH:END -->
+ - [Class action suit against Apple over Amazon sales may die after plaintiff bails out](https://appleinsider.com/articles/25/05/08/apple-seeks-144k-in-legal-fees-returned-after-class-action-kerfuffle?utm_medium=rss)
+ - [Apple&#39;s homeOS platform is coming: All the rumors, and what you need to know](https://appleinsider.com/articles/25/05/09/apples-homeos-platform-is-coming-all-the-rumors-and-what-you-need-to-know?utm_medium=rss)
+ - [iMac anniversary, split iPhone launch, and App Store upheaval on the AppleInsider Podcast](https://appleinsider.com/articles/25/05/09/imac-anniversary-split-iphone-launch-and-app-store-upheaval-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Thule Chariot Cross 2 Review: Adventuring Is a Walk in the Park](https://www.wired.com/review/thule-chariot-cross-2/)
+ - [The 21 Best Early Amazon Pet Day Deals &lpar;2025&rpar;](https://www.wired.com/story/amazon-pet-day-deals/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

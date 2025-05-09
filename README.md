@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [9 Best Food Gifts, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-food-gifts/)
+ - [Best Open Earbuds, Tested and Reviewed &lpar;2025&rpar;: Bose and More](https://www.wired.com/gallery/best-open-ear-buds/)
  - [Whoop launches Whoop 5.0, its latest screenless wearable, including a medical grade version with Healthspan, showing users how they are aging physiologically &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250509/p8#a250509p8)
- - [Inside Apple Weather: get the most out of Apple&#39;s own forecasting app](https://appleinsider.com/inside/ios-19/tips/inside-apple-weather-get-the-most-out-of-apples-own-forecasting-app?utm_medium=rss)
- - [Spotify’s iPhone app could soon sell audiobooks with links, too](https://www.theverge.com/news/664178/spotify-audiobooks-iphone-ios-external-links-apple)
- - [Leaked document reveals more about Eufy&amp;#8217;s first smart display](https://www.theverge.com/news/664162/anker-eufy-smart-display-e10-security-live-camera-feed)
- - [Apple acquisitions hint at Apple Intelligence coming to Calendar, and the factory floor](https://appleinsider.com/articles/25/05/09/apple-acquisitions-hint-at-apple-intelligence-coming-to-calendar-and-the-factory-floor?utm_medium=rss)<!-- TECH:END -->
+ - [Palworld Developer Has Removed Game Features Due to Nintendo Legal Pressure](https://www.cnet.com/tech/gaming/palworld-developer-has-removed-game-features-due-to-nintendo-legal-pressure/#ftag=CAD590a51e)
+ - [4 Money Moves You Should Make Now, Since the Fed Is Holding Rates High](https://www.cnet.com/personal-finance/banking/4-money-moves-you-should-make-now-since-the-fed-is-holding-rates-high/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

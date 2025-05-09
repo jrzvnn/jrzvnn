@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Silicon Mac owners can now take full advantage of some Razer hardware](https://appleinsider.com/articles/25/05/09/apple-silicon-mac-owners-can-now-take-full-advantage-of-some-razer-hardware?utm_medium=rss)
  - [Brilliant launches new smart home control panels](https://www.theverge.com/news/664153/brilliant-smart-home-panel-second-generation-launch)
  - [Therm-a-Rest NeoLoft Sleeping Pad Review: Cushy Backcountry Comfort](https://www.wired.com/review/thermarest-neoloft-sleeping-pad/)
  - [20 Best Mac Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-mac-accessories/)
- - [Tall Tales is a critique of AI — so why do people think it was made with AI?](https://www.theverge.com/film/664120/tall-tales-is-a-critique-of-ai-so-why-do-people-think-it-was-made-with-ai)
- - [X notifications are broken](https://www.theverge.com/news/664139/x-notifications-broken-new-posts)<!-- TECH:END -->
+ - [Tall Tales is a critique of AI — so why do people think it was made with AI?](https://www.theverge.com/film/664120/tall-tales-is-a-critique-of-ai-so-why-do-people-think-it-was-made-with-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

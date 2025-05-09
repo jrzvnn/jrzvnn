@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Class action suit against Apple over Amazon sales may die after plaintiff bails out](https://appleinsider.com/articles/25/05/08/apple-seeks-144k-in-legal-fees-returned-after-class-action-kerfuffle?utm_medium=rss)
- - [Apple&#39;s homeOS platform is coming: All the rumors, and what you need to know](https://appleinsider.com/articles/25/05/09/apples-homeos-platform-is-coming-all-the-rumors-and-what-you-need-to-know?utm_medium=rss)
- - [iMac anniversary, split iPhone launch, and App Store upheaval on the AppleInsider Podcast](https://appleinsider.com/articles/25/05/09/imac-anniversary-split-iphone-launch-and-app-store-upheaval-on-the-appleinsider-podcast?utm_medium=rss)
- - [Thule Chariot Cross 2 Review: Adventuring Is a Walk in the Park](https://www.wired.com/review/thule-chariot-cross-2/)
- - [The 21 Best Early Amazon Pet Day Deals &lpar;2025&rpar;](https://www.wired.com/story/amazon-pet-day-deals/)<!-- TECH:END -->
+ - [Netgear Orbi 770 Series Review: Wi-Fi 7 Family Harmony](https://www.wired.com/review/netgear-orbi-770-series/)
+ - [Why Apple is trying to save Google](https://www.theverge.com/the-vergecast/664087/why-apple-is-trying-to-save-google)
+ - [An Arizona man was sentenced to 10.5 years in prison after his deceased victim gave an impact statement to the court via an AI-generated video &lpar;David K. Li/NBC News&rpar;](http://www.techmeme.com/250509/p6#a250509p6)
+ - [6 Best Massage Guns of 2025, Tested and Reviewed by WIRED](https://www.wired.com/gallery/the-best-massage-guns/)
+ - [Class action suit against Apple over Amazon sales may die after plaintiff bails out](https://appleinsider.com/articles/25/05/08/apple-seeks-144k-in-legal-fees-returned-after-class-action-kerfuffle?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

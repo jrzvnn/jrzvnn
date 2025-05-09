@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cosplayers](http://9gag.com/gag/azxRMVj)
+ - 😝 [The accuracy with which she plays](http://9gag.com/gag/a6Z2Ed8)
  - 😝 [This toilet open to the ocean below](http://9gag.com/gag/a5Q2Wxy)
- - 💣 [Some serious shite is going on between India and Pakistan](http://9gag.com/gag/ae9mr6W)
- - 😝 [Jim Carrey makes fun of Margot Robbie in the most unusual way](http://9gag.com/gag/a2v2Wv1)
- - 👉 [Stop thinking](http://9gag.com/gag/aByGxwZ)<!-- MEMES:END -->
+ - 💣 [In and out](http://9gag.com/gag/a342QgN)
+ - 😝 [He handled the situation well](http://9gag.com/gag/aByGxv1)
+ - 👉 [Some serious shite is going on between India and Pakistan](http://9gag.com/gag/ae9mr6W)<!-- MEMES:END -->
 
 ---
 

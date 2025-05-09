@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jim Carrey makes fun of Margot Robbie in the most unusual way](http://9gag.com/gag/a2v2Wv1)
- - 😝 [Well we&#39;ll if it isn&#39;t the consequences of our actions...](http://9gag.com/gag/aGyAd86)
- - 💣 [9gaggers and their low standards be like](http://9gag.com/gag/a872ERp)
  - 😝 [Pineapple skin is so heat resistant that it can endure a 1000\u00b0C iron ball](http://9gag.com/gag/aAy2gpL)
- - 👉 [Antonov cloud divider](http://9gag.com/gag/aQzZRE8)<!-- MEMES:END -->
+ - 😝 [The guy with a spiked flail has no mercy](http://9gag.com/gag/aPAQRMB)
+ - 💣 [Antonov cloud divider](http://9gag.com/gag/aQzZRE8)
+ - 😝 [9gaggers and their low standards be like](http://9gag.com/gag/a872ERp)
+ - 👉 [The adults responsible for this little kid let her drive a mini car in the middle of the street, leading to some sort of car accident.](http://9gag.com/gag/a1m2rAw)<!-- MEMES:END -->
 
 ---
 

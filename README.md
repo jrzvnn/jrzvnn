@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix is removing Black Mirror: Bandersnatch](https://www.theverge.com/news/663933/netflix-black-mirror-bandersnatch-kimmy-schmidt-removal)
+ - [Trump threatens to end the Digital Equity Act, a Biden-era law aimed at expanding high-speed internet access, calling it &quot;racist&quot; and &quot;totally unconstitutional&quot; &lpar;Chris Cameron/New York Times&rpar;](http://www.techmeme.com/250508/p52#a250508p52)
+ - [Arlo Security System Now Can Alert Customers to Gunshots, Screams, Barking Dogs](https://www.cnet.com/home/security/arlo-security-system-now-can-alert-customers-to-gunshots-screams-barking-dogs/#ftag=CAD590a51e)
  - [Cloudflare reports Q1 revenue up 27% YoY to $479.1M, vs. $469.3M est., and forecasts Q2 revenue of $500M to $501M, vs. $500.4M est.; NET jumps 8%+ after hours &lpar;Reinhardt Krause/Investor&#39;s Business ...&rpar;](http://www.techmeme.com/250508/p51#a250508p51)
- - [Apple seeks $144k in legal fees returned after class action kerfuffle](https://appleinsider.com/articles/25/05/08/apple-seeks-144k-in-legal-fees-returned-after-class-action-kerfuffle?utm_medium=rss)
- - [Apple Card holders can get six months of Uber One for free](https://appleinsider.com/articles/25/05/08/apple-card-holders-can-get-six-months-of-uber-one-for-free?utm_medium=rss)
- - [Senate hearing: Sam Altman says that requiring government approval to release AI would be &quot;disastrous&quot; for the US&#39; lead in AI, a reversal from his 2023 comments &lpar;Washington Post&rpar;](http://www.techmeme.com/250508/p50#a250508p50)
- - [Innocn 49QR1 Gaming Monitor Review: You Get a Lot for the Money](https://www.cnet.com/tech/computing/innocn-49qr1-gaming-monitor-review-you-get-a-lot-for-the-money/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple seeks $144k in legal fees returned after class action kerfuffle](https://appleinsider.com/articles/25/05/08/apple-seeks-144k-in-legal-fees-returned-after-class-action-kerfuffle?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

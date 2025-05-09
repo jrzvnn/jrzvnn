@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Surfshark Promo Codes: 87% Off | May 2025](https://www.wired.com/story/surfshark-coupon/)
+ - [Today&#39;s Wordle Hints, Answer and Help for May 9, #1420](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-9-1420/#ftag=CAD590a51e)
  - [Why am I internet-stalking the pope?](https://www.theverge.com/politics/663974/pope-leo-xiv-prevost-social-media-tweets)
  - [Broadcom is sending cease-and-desist letters to owners of VMware perpetual licenses with expired support contracts, to get them to buy VMware product bundles &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/250508/p55#a250508p55)
- - [How to stop iPhone calls and FaceTime alerts from appearing on your iPad](https://appleinsider.com/inside/ipados/tips/how-to-stop-iphone-calls-and-facetime-alerts-from-appearing-on-your-ipad?utm_medium=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, May 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-may-9/#ftag=CAD590a51e)
- - [Hey Wordle Players, the New Pope Is One of Us](https://www.cnet.com/tech/gaming/hey-wordle-players-the-new-pope-is-one-of-us/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to stop iPhone calls and FaceTime alerts from appearing on your iPad](https://appleinsider.com/inside/ipados/tips/how-to-stop-iphone-calls-and-facetime-alerts-from-appearing-on-your-ipad?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

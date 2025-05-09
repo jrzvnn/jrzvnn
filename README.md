@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta rolls out its Account Status feature to Threads, letting users see when the company has removed or demoted posts or handed out other penalties &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/250508/p54#a250508p54)
- - [Hyperdrive USB4 SSD Enclosure review: Secure and speedy external storage](https://appleinsider.com/articles/25/05/09/hyperdrive-usb4-ssd-enclosure-review-secure-and-speedy-external-storage?utm_medium=rss)
- - [Alibaba researchers detail ZeroSearch, a technique allowing LLMs to develop advanced search capabilities via simulation, claiming it cuts costs by up to 88% &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/250508/p53#a250508p53)
- - [Arlo Security System Now Can Alert Customers to Gunshots, Screams, Barking Dogs](https://www.cnet.com/home/security/arlo-security-system-now-can-alert-customers-to-gunshots-screams-barking-dogs/#ftag=CAD590a51e)
- - [Netflix is removing Black Mirror: Bandersnatch](https://www.theverge.com/news/663933/netflix-black-mirror-bandersnatch-kimmy-schmidt-removal)<!-- TECH:END -->
+ - [Why am I internet-stalking the pope?](https://www.theverge.com/politics/663974/pope-leo-xiv-prevost-social-media-tweets)
+ - [Broadcom is sending cease-and-desist letters to owners of VMware perpetual licenses with expired support contracts, to get them to buy VMware product bundles &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/250508/p55#a250508p55)
+ - [How to stop iPhone calls and FaceTime alerts from appearing on your iPad](https://appleinsider.com/inside/ipados/tips/how-to-stop-iphone-calls-and-facetime-alerts-from-appearing-on-your-ipad?utm_medium=rss)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, May 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-may-9/#ftag=CAD590a51e)
+ - [Hey Wordle Players, the New Pope Is One of Us](https://www.cnet.com/tech/gaming/hey-wordle-players-the-new-pope-is-one-of-us/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

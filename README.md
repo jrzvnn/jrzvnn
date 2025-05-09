@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well we&#39;ll if it isn&#39;t the consequences of our actions...](http://9gag.com/gag/aGyAd86)
- - 😝 [Jim Carrey makes fun of Margot Robbie in the most unusual way](http://9gag.com/gag/a2v2Wv1)
- - 💣 [Is this the real life? &lpar;Caption: Highschool female teacher arrested for having sexual relationship with her student&rpar;](http://9gag.com/gag/aRBo3QM)
- - 😝 [Man, this gonna be the marvel equivalent of snow white lol](http://9gag.com/gag/avyRzKn)
- - 👉 [This is how a broken immigration policy looks like](http://9gag.com/gag/aGyAjLX)<!-- MEMES:END -->
+ - 😝 [A fun way of using magnets](http://9gag.com/gag/agm45Wx)
+ - 😝 [An idiot and her bike](http://9gag.com/gag/aQzZd5w)
+ - 💣 [Tigers like `you see this sheet i put up with`](http://9gag.com/gag/abABrPO)
+ - 😝 [21st Season](http://9gag.com/gag/aGyAdZX)
+ - 👉 [Who?](http://9gag.com/gag/ae9m59b)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who?](http://9gag.com/gag/ae9m59b)
- - 😝 [21st Season](http://9gag.com/gag/aGyAdZX)
- - 💣 [Terry crews attempts to recreate Thierry Henry&#39;s smirk lmao...](http://9gag.com/gag/a1m2R3P)
- - 😝 [The possibilities](http://9gag.com/gag/ae9mrQj)
- - 👉 [Tutorials are for noobs](http://9gag.com/gag/apRbNpB)<!-- MEMES:END -->
+ - 😝 [The accuracy with which she plays](http://9gag.com/gag/a6Z2Ed8)
+ - 😝 [It hurts](http://9gag.com/gag/awydojr)
+ - 💣 [Jim Carrey makes fun of Margot Robbie in the most unusual way](http://9gag.com/gag/a2v2Wv1)
+ - 😝 [Dead Yamcha vibes](http://9gag.com/gag/azxReVZ)
+ - 👉 [Cosplayers](http://9gag.com/gag/azxRMVj)<!-- MEMES:END -->
 
 ---
 

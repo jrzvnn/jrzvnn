@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The guy with a spiked flail has no mercy](http://9gag.com/gag/aPAQRMB)
+ - 😝 [The possibilities](http://9gag.com/gag/ae9mrQj)
+ - 😝 [Wahmen is bad from a wahmen point of view](http://9gag.com/gag/aryqMOK)
+ - 💣 [Pretty accurate...](http://9gag.com/gag/aryqGDV)
  - 😝 [Tutorials are for noobs](http://9gag.com/gag/apRbNpB)
- - 💣 [Title](http://9gag.com/gag/a0e1NKZ)
- - 😝 [Happens to the best of us...](http://9gag.com/gag/avyRzQW)
- - 👉 [The accuracy with which she plays](http://9gag.com/gag/a6Z2Ed8)<!-- MEMES:END -->
+ - 👉 [An idiot and her bike](http://9gag.com/gag/aQzZd5w)<!-- MEMES:END -->
 
 ---
 

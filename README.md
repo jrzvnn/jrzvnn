@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They took over the building to protest now security has blocked the exits and wont let anybody leave without showing ID.](http://9gag.com/gag/ayNRB2q)
- - 😝 [This is why is taking them so long](http://9gag.com/gag/aLnm09v)
- - 💣 [In and out](http://9gag.com/gag/a342QgN)
- - 😝 [Finish him](http://9gag.com/gag/aGyAZ5K)
- - 👉 [Who?](http://9gag.com/gag/ae9m59b)<!-- MEMES:END -->
+ - 😝 [Catherine Bell &lpar;1995&rpar;](http://9gag.com/gag/an7E5R5)
+ - 😝 [Who?](http://9gag.com/gag/ae9m59b)
+ - 💣 [Lana Turner in &#39;Marriage Is a Private Affair&#39; &lpar;MGM 1944&rpar;](http://9gag.com/gag/aoyLe9w)
+ - 😝 [He handled the situation well](http://9gag.com/gag/aByGxv1)
+ - 👉 [Kid has a brain.. calling out \u201cnews\u201d shenanigans.](http://9gag.com/gag/aD2Vg6O)<!-- MEMES:END -->
 
 ---
 

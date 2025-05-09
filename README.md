@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple said to use Brazil for lower-tariff iPhones, despite denials](https://appleinsider.com/articles/25/05/09/apple-said-to-use-brazil-for-lower-tariff-iphones-despite-denials?utm_medium=rss)
+ - [Epic Games says it has submitted Fortnite to the US App Store for review &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/250509/p10#a250509p10)
  - [SF&amp;#8217;s BART expects &amp;#8216;major delays&amp;#8217; after a computer problem ground subways to a halt](https://www.theverge.com/news/664256/sf-bay-area-transit-bart-suspended)
  - [Arlo’s new AI features summarize what your camera sees](https://www.theverge.com/news/664225/arlo-secure-6-video-camera-update-ai)
- - [Peacemaker is back for season 2 in August](https://www.theverge.com/news/664226/peacemaker-season-2-date-trailer-max)
- - [Coinbase Derivatives, the company&#39;s CFTC-regulated derivatives arm, launches 24/7 Bitcoin and Ethereum futures trading for retail and institutional users &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/250509/p9#a250509p9)
- - [The best smart rings for tracking sleep and health](https://www.theverge.com/tech/647901/best-smart-rings)<!-- TECH:END -->
+ - [Peacemaker is back for season 2 in August](https://www.theverge.com/news/664226/peacemaker-season-2-date-trailer-max)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

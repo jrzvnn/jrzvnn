@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix is removing Black Mirror: Bandersnatch](https://www.theverge.com/news/663933/netflix-black-mirror-bandersnatch-kimmy-schmidt-removal)
- - [Trump threatens to end the Digital Equity Act, a Biden-era law aimed at expanding high-speed internet access, calling it &quot;racist&quot; and &quot;totally unconstitutional&quot; &lpar;Chris Cameron/New York Times&rpar;](http://www.techmeme.com/250508/p52#a250508p52)
+ - [Meta rolls out its Account Status feature to Threads, letting users see when the company has removed or demoted posts or handed out other penalties &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/250508/p54#a250508p54)
+ - [Hyperdrive USB4 SSD Enclosure review: Secure and speedy external storage](https://appleinsider.com/articles/25/05/09/hyperdrive-usb4-ssd-enclosure-review-secure-and-speedy-external-storage?utm_medium=rss)
+ - [Alibaba researchers detail ZeroSearch, a technique allowing LLMs to develop advanced search capabilities via simulation, claiming it cuts costs by up to 88% &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/250508/p53#a250508p53)
  - [Arlo Security System Now Can Alert Customers to Gunshots, Screams, Barking Dogs](https://www.cnet.com/home/security/arlo-security-system-now-can-alert-customers-to-gunshots-screams-barking-dogs/#ftag=CAD590a51e)
- - [Cloudflare reports Q1 revenue up 27% YoY to $479.1M, vs. $469.3M est., and forecasts Q2 revenue of $500M to $501M, vs. $500.4M est.; NET jumps 8%+ after hours &lpar;Reinhardt Krause/Investor&#39;s Business ...&rpar;](http://www.techmeme.com/250508/p51#a250508p51)
- - [Apple seeks $144k in legal fees returned after class action kerfuffle](https://appleinsider.com/articles/25/05/08/apple-seeks-144k-in-legal-fees-returned-after-class-action-kerfuffle?utm_medium=rss)<!-- TECH:END -->
+ - [Netflix is removing Black Mirror: Bandersnatch](https://www.theverge.com/news/663933/netflix-black-mirror-bandersnatch-kimmy-schmidt-removal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

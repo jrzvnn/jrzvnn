@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An idiot and her bike](http://9gag.com/gag/aQzZd5w)
- - 😝 [They didn\u2019t even get doritos and mountain dew :,&lpar;](http://9gag.com/gag/awydXg1)
- - 💣 [Kid has a brain.. calling out \u201cnews\u201d shenanigans.](http://9gag.com/gag/aD2Vg6O)
- - 😝 [4 British women took a ride through Senegal](http://9gag.com/gag/aW4bxgd)
- - 👉 [Replacing all the food in the tavern with poisoned apples](http://9gag.com/gag/aYQq422)<!-- MEMES:END -->
+ - 😝 [He handled the situation well](http://9gag.com/gag/aByGxv1)
+ - 😝 [Kid has a brain.. calling out \u201cnews\u201d shenanigans.](http://9gag.com/gag/aD2Vg6O)
+ - 💣 [Who?](http://9gag.com/gag/ae9m59b)
+ - 😝 [Dang Japan got high suislide rate i wonder if it caused by shitty work enviroment. Meanwhile Japanese mfs :](http://9gag.com/gag/ae9mD8p)
+ - 👉 [10/10 movie must it be](http://9gag.com/gag/a0e1K2L)<!-- MEMES:END -->
 
 ---
 

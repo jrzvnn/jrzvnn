@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Snowflake challenger ClickHouse is in talks to raise hundreds of millions led by Khosla Ventures at a $6B valuation, triple its valuation from 2021 &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250509/p17#a250509p17)
- - [Whoop sparks a backlash after asking its subscribers to pay to upgrade to 5.0, despite earlier promises of free hardware upgrades after six months of membership &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250509/p16#a250509p16)
- - [Border agents are going to photograph everyone leaving the US by car](https://www.theverge.com/policy/664433/cbp-photos-facial-recognition-travelers-leaving-us)
- - [Another Outage Strikes Newark Airport. How to Avoid Getting Stuck if Your Flight Is Delayed or Cancelled](https://www.cnet.com/personal-finance/another-outage-strikes-newark-airport-how-to-avoid-getting-stuck-if-your-flight-is-delayed-or-cancelled/#ftag=CAD590a51e)
- - [ESPN Reportedly Settles on a Super Simple Name for its New Streaming App](https://www.cnet.com/tech/services-and-software/espn-reportedly-settles-on-a-super-simple-name-for-the-new-streaming-app/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Brian Armstrong says Coinbase considered allocating 80% of its balance sheet into bitcoin but decided against the scheme as it was too risky &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/250509/p18#a250509p18)
+ - [Trump illegally fires Democrats on Consumer Product Safety Commission](https://www.theverge.com/news/664498/consumer-product-safety-commission-cpsc-trump-firing)
+ - [Sonos CEO: ‘We All Feel Really Terrible’ About the Bungled App Update](https://www.wired.com/story/sonos-ceo-tom-conrad-interview/)
+ - [TikTok Blocks Searches for Dangerous Chromebook Challenge](https://www.cnet.com/tech/dangerous-tiktok-chromebook-challenge-avoid-sparking-a-fire-in-your-laptop/#ftag=CAD590a51e)
+ - [Sources: Snowflake challenger ClickHouse is in talks to raise hundreds of millions led by Khosla Ventures at a $6B valuation, triple its valuation from 2021 &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250509/p17#a250509p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Do You Really Have to Stop Using Windows 10?](https://www.wired.com/story/do-you-really-have-to-stop-using-windows-10/)
  - [Sources: CoreWeave plans to raise ~$1.5B through a high-yield bond offering, aiming to refinance part of its massive liabilities, weeks after a muted IPO &lpar;Financial Times&rpar;](http://www.techmeme.com/250509/p5#a250509p5)
  - [Jony Ive talks about minimalism, taste, and Apple&#39;s design group](https://appleinsider.com/articles/25/05/09/jony-ive-talks-about-minimalism-taste-and-apples-design-group?utm_medium=rss)
  - [Amazon now sells prescription pet pills](https://www.theverge.com/news/664069/amazon-online-pharmacy-pet-prescription-drugs)
- - [A Visit to Tokyo&#39;s Blue Lug, the ‘Best Bike Shop in the World’](https://www.wired.com/story/blue-lug-bike-shop-tokyo/)
- - [Appfigures estimates Apple&#39;s US App Store revenue from commissions was ~$10.1B in 2024, more than doubling from ~$4.76B in 2020 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250509/p4#a250509p4)<!-- TECH:END -->
+ - [A Visit to Tokyo&#39;s Blue Lug, the ‘Best Bike Shop in the World’](https://www.wired.com/story/blue-lug-bike-shop-tokyo/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

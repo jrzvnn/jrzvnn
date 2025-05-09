@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I guess krieger was wrong. The pennis can get even more erect.](http://9gag.com/gag/a7o2wqq)
- - 😝 [Snakes can\u2018t move on microfibre rug](http://9gag.com/gag/azxR97z)
- - 💣 [Who?](http://9gag.com/gag/ae9m59b)
- - 😝 [Women: `Why doesn&#39;t my bf/husband share his feelings me with me?`](http://9gag.com/gag/aE0D2Op)
- - 👉 [Replacing all the food in the tavern with poisoned apples](http://9gag.com/gag/aYQq422)<!-- MEMES:END -->
+ - 😝 [NIT Jalandhar student captured this video.](http://9gag.com/gag/a9y2nLj)
+ - 😝 [The way he feeds the other monkey is so wholesome](http://9gag.com/gag/aLnmj4W)
+ - 💣 [I guess krieger was wrong. The pennis can get even more erect.](http://9gag.com/gag/a7o2wqq)
+ - 😝 [Wait a sec, I&#39;ll go there to get my ass kicked..](http://9gag.com/gag/a1m2WOD)
+ - 👉 [Pakistan tells the world that they&#39;re victims of terrorism. Meanwhile Pak Army, Police and Govt officials attending the funeral of designated terrorists and their aids. Not to forget there military calls Osama a martyr. Troll India as much as you want but we&#39;re doing it right.](http://9gag.com/gag/aMVvZrX)<!-- MEMES:END -->
 
 ---
 

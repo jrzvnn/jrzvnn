@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [NIT Jalandhar student captured this video.](http://9gag.com/gag/a9y2nLj)
- - 😝 [The way he feeds the other monkey is so wholesome](http://9gag.com/gag/aLnmj4W)
- - 💣 [I guess krieger was wrong. The pennis can get even more erect.](http://9gag.com/gag/a7o2wqq)
- - 😝 [Wait a sec, I&#39;ll go there to get my ass kicked..](http://9gag.com/gag/a1m2WOD)
- - 👉 [Pakistan tells the world that they&#39;re victims of terrorism. Meanwhile Pak Army, Police and Govt officials attending the funeral of designated terrorists and their aids. Not to forget there military calls Osama a martyr. Troll India as much as you want but we&#39;re doing it right.](http://9gag.com/gag/aMVvZrX)<!-- MEMES:END -->
+ - 😝 [Catherine Bell &lpar;1995&rpar;](http://9gag.com/gag/an7E5R5)
+ - 😝 [Nut your average table trick](http://9gag.com/gag/abABz2L)
+ - 💣 [Kid has a brain.. calling out \u201cnews\u201d shenanigans.](http://9gag.com/gag/aD2Vg6O)
+ - 😝 [He handled the situation well](http://9gag.com/gag/aByGxv1)
+ - 👉 [Even a turtleneck can\u2019t hide those](http://9gag.com/gag/amoM7b6)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pineapple skin is so heat resistant that it can endure a 1000\u00b0C iron ball](http://9gag.com/gag/aAy2gpL)
- - 😝 [The guy with a spiked flail has no mercy](http://9gag.com/gag/aPAQRMB)
- - 💣 [Antonov cloud divider](http://9gag.com/gag/aQzZRE8)
- - 😝 [9gaggers and their low standards be like](http://9gag.com/gag/a872ERp)
- - 👉 [The adults responsible for this little kid let her drive a mini car in the middle of the street, leading to some sort of car accident.](http://9gag.com/gag/a1m2rAw)<!-- MEMES:END -->
+ - 😝 [Who is your favorite red head?](http://9gag.com/gag/aoyL5Ox)
+ - 😝 [The accuracy with which she plays](http://9gag.com/gag/a6Z2Ed8)
+ - 💣 [Pineapple skin is so heat resistant that it can endure a 1000\u00b0C iron ball](http://9gag.com/gag/aAy2gpL)
+ - 😝 [Title](http://9gag.com/gag/a0e1NKZ)
+ - 👉 [9gaggers and their low standards be like](http://9gag.com/gag/a872ERp)<!-- MEMES:END -->
 
 ---
 

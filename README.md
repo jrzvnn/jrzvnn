@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [14 Best Office Chairs of 2025— I&#39;ve Tested 55+ to Pick Them](https://www.wired.com/gallery/best-office-chairs/)
  - [Netgear Orbi 770 Series Review: Wi-Fi 7 Family Harmony](https://www.wired.com/review/netgear-orbi-770-series/)
  - [Why Apple is trying to save Google](https://www.theverge.com/the-vergecast/664087/why-apple-is-trying-to-save-google)
  - [An Arizona man was sentenced to 10.5 years in prison after his deceased victim gave an impact statement to the court via an AI-generated video &lpar;David K. Li/NBC News&rpar;](http://www.techmeme.com/250509/p6#a250509p6)
- - [6 Best Massage Guns of 2025, Tested and Reviewed by WIRED](https://www.wired.com/gallery/the-best-massage-guns/)
- - [Class action suit against Apple over Amazon sales may die after plaintiff bails out](https://appleinsider.com/articles/25/05/08/apple-seeks-144k-in-legal-fees-returned-after-class-action-kerfuffle?utm_medium=rss)<!-- TECH:END -->
+ - [6 Best Massage Guns of 2025, Tested and Reviewed by WIRED](https://www.wired.com/gallery/the-best-massage-guns/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

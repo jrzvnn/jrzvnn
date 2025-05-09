@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He handled the situation well](http://9gag.com/gag/aByGxv1)
- - 😝 [They didn\u2019t even get doritos and mountain dew :,&lpar;](http://9gag.com/gag/awydXg1)
- - 💣 [Some serious shite is going on between India and Pakistan](http://9gag.com/gag/ae9mr6W)
- - 😝 [Nut your average table trick](http://9gag.com/gag/abABz2L)
- - 👉 [Lol](http://9gag.com/gag/a872oGp)<!-- MEMES:END -->
+ - 😝 [Some serious shite is going on between India and Pakistan](http://9gag.com/gag/ae9mr6W)
+ - 😝 [Even a turtleneck can\u2019t hide those](http://9gag.com/gag/amoM7b6)
+ - 💣 [Lol](http://9gag.com/gag/a872oGp)
+ - 😝 [Lana Turner in &#39;Marriage Is a Private Affair&#39; &lpar;MGM 1944&rpar;](http://9gag.com/gag/aoyLe9w)
+ - 👉 [Cant fortify my mind with that](http://9gag.com/gag/aMVvYXP)<!-- MEMES:END -->
 
 ---
 

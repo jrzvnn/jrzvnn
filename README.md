@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Catherine Bell &lpar;1995&rpar;](http://9gag.com/gag/an7E5R5)
- - 😝 [Nut your average table trick](http://9gag.com/gag/abABz2L)
- - 💣 [Kid has a brain.. calling out \u201cnews\u201d shenanigans.](http://9gag.com/gag/aD2Vg6O)
- - 😝 [He handled the situation well](http://9gag.com/gag/aByGxv1)
- - 👉 [Even a turtleneck can\u2019t hide those](http://9gag.com/gag/amoM7b6)<!-- MEMES:END -->
+ - 😝 [They took over the building to protest now security has blocked the exits and wont let anybody leave without showing ID.](http://9gag.com/gag/ayNRB2q)
+ - 😝 [This is why is taking them so long](http://9gag.com/gag/aLnm09v)
+ - 💣 [In and out](http://9gag.com/gag/a342QgN)
+ - 😝 [Finish him](http://9gag.com/gag/aGyAZ5K)
+ - 👉 [Who?](http://9gag.com/gag/ae9m59b)<!-- MEMES:END -->
 
 ---
 

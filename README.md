@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An idiot and her bike](http://9gag.com/gag/aQzZd5w)
- - 😝 [This is how a broken immigration policy looks like](http://9gag.com/gag/aGyAjLX)
- - 💣 [Stop thinking](http://9gag.com/gag/aByGxwZ)
+ - 😝 [Cosplayers](http://9gag.com/gag/azxRMVj)
+ - 😝 [This toilet open to the ocean below](http://9gag.com/gag/a5Q2Wxy)
+ - 💣 [Some serious shite is going on between India and Pakistan](http://9gag.com/gag/ae9mr6W)
  - 😝 [Jim Carrey makes fun of Margot Robbie in the most unusual way](http://9gag.com/gag/a2v2Wv1)
- - 👉 [Lol](http://9gag.com/gag/a872oGp)<!-- MEMES:END -->
+ - 👉 [Stop thinking](http://9gag.com/gag/aByGxwZ)<!-- MEMES:END -->
 
 ---
 

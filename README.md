@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Well we&#39;ll if it isn&#39;t the consequences of our actions...](http://9gag.com/gag/aGyAd86)
+ - 😝 [Jim Carrey makes fun of Margot Robbie in the most unusual way](http://9gag.com/gag/a2v2Wv1)
+ - 💣 [Is this the real life? &lpar;Caption: Highschool female teacher arrested for having sexual relationship with her student&rpar;](http://9gag.com/gag/aRBo3QM)
  - 😝 [Man, this gonna be the marvel equivalent of snow white lol](http://9gag.com/gag/avyRzKn)
- - 😝 [They didn\u2019t even get doritos and mountain dew :,&lpar;](http://9gag.com/gag/awydXg1)
- - 💣 [Sadge, only billionaires can afford this game :&#39;&lpar;](http://9gag.com/gag/a4P2731)
- - 😝 [Dang Japan got high suislide rate i wonder if it caused by shitty work enviroment. Meanwhile Japanese mfs :](http://9gag.com/gag/ae9mD8p)
- - 👉 [Lol](http://9gag.com/gag/a872oGp)<!-- MEMES:END -->
+ - 👉 [This is how a broken immigration policy looks like](http://9gag.com/gag/aGyAjLX)<!-- MEMES:END -->
 
 ---
 

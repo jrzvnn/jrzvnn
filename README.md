@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung’s Galaxy Ring is on sale with a $100 gift card starting at $299.99](https://www.theverge.com/tech/663665/samsung-galaxy-smart-ring-shokz-openrun-pro-2-deal-sale)
+ - [NBA Playoffs 2025: TV Channel, Game Times and How to Watch or Stream Today&#39;s Games](https://www.cnet.com/tech/services-and-software/nba-playoffs-2025-tv-channel-game-times-and-how-to-watch-or-stream-todays-games/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 10, #229](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-10-229/#ftag=CAD590a51e)
  - [President Claudia Sheinbaum says Mexico is suing Google for ignoring requests not to call the Gulf of Mexico the Gulf of America on Google Maps in the US &lpar;Danai Nesta Kupemba/BBC&rpar;](http://www.techmeme.com/250509/p19#a250509p19)
- - [Brian Armstrong says Coinbase considered allocating 80% of its balance sheet into bitcoin but decided against the scheme as it was too risky &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/250509/p18#a250509p18)
- - [Trump illegally fires Democrats on Consumer Product Safety Commission](https://www.theverge.com/news/664498/consumer-product-safety-commission-cpsc-trump-firing)
- - [Sonos CEO: ‘We All Feel Really Terrible’ About the Bungled App Update](https://www.wired.com/story/sonos-ceo-tom-conrad-interview/)
- - [TikTok Blocks Searches for Dangerous Chromebook Challenge](https://www.cnet.com/tech/dangerous-tiktok-chromebook-challenge-avoid-sparking-a-fire-in-your-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for May 10, #699](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-10-699/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

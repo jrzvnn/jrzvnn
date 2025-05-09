@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Apple&#39;s extraordinary measures to preserve App Store commissions after the Epic v. Apple trial resulted in a contempt ruling and damaged its credibility &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/250509/p7#a250509p7)
- - [Jony Ive&amp;#8217;s next product is driven by the &amp;#8216;unintended consequences&amp;#8217; of the iPhone](https://www.theverge.com/news/664131/jony-ive-unintended-consequences-iphone-new-product)
- - [Buy Now or Pay More Later? ‘Macroeconomic Uncertainty’ Has Shoppers Anxious](https://www.wired.com/story/plaintext-trump-tariffs-buy-now/)
- - [14 Best Office Chairs of 2025— I&#39;ve Tested 55+ to Pick Them](https://www.wired.com/gallery/best-office-chairs/)
- - [Netgear Orbi 770 Series Review: Wi-Fi 7 Family Harmony](https://www.wired.com/review/netgear-orbi-770-series/)<!-- TECH:END -->
+ - [Therm-a-Rest NeoLoft Sleeping Pad Review: Cushy Backcountry Comfort](https://www.wired.com/review/thermarest-neoloft-sleeping-pad/)
+ - [20 Best Mac Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-mac-accessories/)
+ - [Tall Tales is a critique of AI — so why do people think it was made with AI?](https://www.theverge.com/film/664120/tall-tales-is-a-critique-of-ai-so-why-do-people-think-it-was-made-with-ai)
+ - [X notifications are broken](https://www.theverge.com/news/664139/x-notifications-broken-new-posts)
+ - [How Apple&#39;s extraordinary measures to preserve App Store commissions after the Epic v. Apple trial resulted in a contempt ruling and damaged its credibility &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/250509/p7#a250509p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Appfigures estimates Apple&#39;s US App Store revenue from commissions was ~$10.1B in 2024, more than doubling from ~$4.76B in 2020 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250509/p4#a250509p4)
+ - [Computer Ban Gave the Government Unfair Advantage in Anti-War Activist’s Case, Lawyer Says](https://www.wired.com/story/computer-ban-unfair-mahmoud-khalil-ice/)
  - [Influencer Burnout Is on the Rise. A New Mental Health Service Wants to Help](https://www.wired.com/story/influencer-burnout-mental-health-service-creativecare/)
  - [Trump, Cryptocurrency, and the Real Winners and Losers](https://www.wired.com/story/uncanny-valley-podcast-trump-cryptocurrency/)
- - [How The Ottawa Hospital reduced clinician burnout using Microsoft&#39;s DAX Copilot, which captures conversations with patients via an app and drafts clinical notes &lpar;Taryn Plumb/VentureBeat&rpar;](http://www.techmeme.com/250509/p3#a250509p3)
- - [Threads adds dashboard to better explain post and account restrictions](https://www.theverge.com/news/664047/threads-account-status-dashboardvideo-ads-test)
- - [Today&#39;s Wordle Hints, Answer and Help for May 9, #1420](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-9-1420/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How The Ottawa Hospital reduced clinician burnout using Microsoft&#39;s DAX Copilot, which captures conversations with patients via an app and drafts clinical notes &lpar;Taryn Plumb/VentureBeat&rpar;](http://www.techmeme.com/250509/p3#a250509p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

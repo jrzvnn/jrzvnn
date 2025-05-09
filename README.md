@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [9 Best Food Gifts, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-food-gifts/)
- - [Best Open Earbuds, Tested and Reviewed &lpar;2025&rpar;: Bose and More](https://www.wired.com/gallery/best-open-ear-buds/)
- - [Whoop launches Whoop 5.0, its latest screenless wearable, including a medical grade version with Healthspan, showing users how they are aging physiologically &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250509/p8#a250509p8)
- - [Palworld Developer Has Removed Game Features Due to Nintendo Legal Pressure](https://www.cnet.com/tech/gaming/palworld-developer-has-removed-game-features-due-to-nintendo-legal-pressure/#ftag=CAD590a51e)
- - [4 Money Moves You Should Make Now, Since the Fed Is Holding Rates High](https://www.cnet.com/personal-finance/banking/4-money-moves-you-should-make-now-since-the-fed-is-holding-rates-high/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Arlo’s new AI features summarize what your camera sees](https://www.theverge.com/news/664225/arlo-secure-6-video-camera-update-ai)
+ - [Peacemaker is back for season 2 in August](https://www.theverge.com/news/664226/peacemaker-season-2-date-trailer-max)
+ - [Coinbase Derivatives, the company&#39;s CFTC-regulated derivatives arm, launches 24/7 Bitcoin and Ethereum futures trading for retail and institutional users &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/250509/p9#a250509p9)
+ - [The best smart rings for tracking sleep and health](https://www.theverge.com/tech/647901/best-smart-rings)
+ - [9 Best Food Gifts, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-food-gifts/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

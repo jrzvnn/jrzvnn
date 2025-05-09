@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jim Carrey makes fun of Margot Robbie in the most unusual way](http://9gag.com/gag/a2v2Wv1)
- - 😝 [Still don&#39;t know. Do you like my sword sword...](http://9gag.com/gag/aD2V14d)
- - 💣 [4 British women took a ride through Senegal](http://9gag.com/gag/aW4bxgd)
- - 😝 [An idiot and her bike](http://9gag.com/gag/aQzZd5w)
- - 👉 [A bahhhwwllll](http://9gag.com/gag/aByGggA)<!-- MEMES:END -->
+ - 😝 [Cosplayers](http://9gag.com/gag/azxRMVj)
+ - 😝 [Who?](http://9gag.com/gag/ae9m59b)
+ - 💣 [The adults responsible for this little kid let her drive a mini car in the middle of the street, leading to some sort of car accident.](http://9gag.com/gag/a1m2rAw)
+ - 😝 [Kid has a brain.. calling out \u201cnews\u201d shenanigans.](http://9gag.com/gag/aD2Vg6O)
+ - 👉 [Some serious shite is going on between India and Pakistan](http://9gag.com/gag/ae9mr6W)<!-- MEMES:END -->
 
 ---
 

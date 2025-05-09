@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Silicon Mac owners can now take full advantage of some Razer hardware](https://appleinsider.com/articles/25/05/09/apple-silicon-mac-owners-can-now-take-full-advantage-of-some-razer-hardware?utm_medium=rss)
- - [Brilliant launches new smart home control panels](https://www.theverge.com/news/664153/brilliant-smart-home-panel-second-generation-launch)
- - [Therm-a-Rest NeoLoft Sleeping Pad Review: Cushy Backcountry Comfort](https://www.wired.com/review/thermarest-neoloft-sleeping-pad/)
- - [20 Best Mac Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-mac-accessories/)
- - [Tall Tales is a critique of AI — so why do people think it was made with AI?](https://www.theverge.com/film/664120/tall-tales-is-a-critique-of-ai-so-why-do-people-think-it-was-made-with-ai)<!-- TECH:END -->
+ - [Inside Apple Weather: get the most out of Apple&#39;s own forecasting app](https://appleinsider.com/inside/ios-19/tips/inside-apple-weather-get-the-most-out-of-apples-own-forecasting-app?utm_medium=rss)
+ - [Spotify’s iPhone app could soon sell audiobooks with links, too](https://www.theverge.com/news/664178/spotify-audiobooks-iphone-ios-external-links-apple)
+ - [Leaked document reveals more about Eufy&amp;#8217;s first smart display](https://www.theverge.com/news/664162/anker-eufy-smart-display-e10-security-live-camera-feed)
+ - [Apple acquisitions hint at Apple Intelligence coming to Calendar, and the factory floor](https://appleinsider.com/articles/25/05/09/apple-acquisitions-hint-at-apple-intelligence-coming-to-calendar-and-the-factory-floor?utm_medium=rss)
+ - [Apple Silicon Mac owners can now take full advantage of some Razer hardware](https://appleinsider.com/articles/25/05/09/apple-silicon-mac-owners-can-now-take-full-advantage-of-some-razer-hardware?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

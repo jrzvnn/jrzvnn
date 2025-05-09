@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who?](http://9gag.com/gag/ae9m59b)
- - 😝 [21st Season](http://9gag.com/gag/aGyAdZX)
- - 💣 [Tutorials are for noobs](http://9gag.com/gag/apRbNpB)
- - 😝 [Terry crews attempts to recreate Thierry Henry&#39;s smirk lmao...](http://9gag.com/gag/a1m2R3P)
- - 👉 [The possibilities](http://9gag.com/gag/ae9mrQj)<!-- MEMES:END -->
+ - 😝 [4 British women took a ride through Senegal](http://9gag.com/gag/aW4bxgd)
+ - 😝 [Cosplayers](http://9gag.com/gag/azxRMVj)
+ - 💣 [Jim Carrey makes fun of Margot Robbie in the most unusual way](http://9gag.com/gag/a2v2Wv1)
+ - 😝 [The adults responsible for this little kid let her drive a mini car in the middle of the street, leading to some sort of car accident.](http://9gag.com/gag/a1m2rAw)
+ - 👉 [This toilet open to the ocean below](http://9gag.com/gag/a5Q2Wxy)<!-- MEMES:END -->
 
 ---
 

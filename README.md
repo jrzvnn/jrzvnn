@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The possibilities](http://9gag.com/gag/ae9mrQj)
- - 😝 [Wahmen is bad from a wahmen point of view](http://9gag.com/gag/aryqMOK)
- - 💣 [Pretty accurate...](http://9gag.com/gag/aryqGDV)
- - 😝 [Tutorials are for noobs](http://9gag.com/gag/apRbNpB)
- - 👉 [An idiot and her bike](http://9gag.com/gag/aQzZd5w)<!-- MEMES:END -->
+ - 😝 [Door opening system on the BMW Z1](http://9gag.com/gag/aE0Dpye)
+ - 😝 [An idiot and her bike](http://9gag.com/gag/aQzZd5w)
+ - 💣 [Title](http://9gag.com/gag/a0e1NKZ)
+ - 😝 [The accuracy with which she plays](http://9gag.com/gag/a6Z2Ed8)
+ - 👉 [Pineapple skin is so heat resistant that it can endure a 1000\u00b0C iron ball](http://9gag.com/gag/aAy2gpL)<!-- MEMES:END -->
 
 ---
 

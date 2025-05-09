@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Replacing all the food in the tavern with poisoned apples](http://9gag.com/gag/aYQq422)
- - 😝 [Man escapes the interrogation room by kicking a whole in the wall](http://9gag.com/gag/a872Ge1)
- - 💣 [Lol](http://9gag.com/gag/a872oGp)
  - 😝 [Is this the real life? &lpar;Caption: Highschool female teacher arrested for having sexual relationship with her student&rpar;](http://9gag.com/gag/aRBo3QM)
- - 👉 [They didn\u2019t even get doritos and mountain dew :,&lpar;](http://9gag.com/gag/awydXg1)<!-- MEMES:END -->
+ - 😝 [He handled the situation well](http://9gag.com/gag/aByGxv1)
+ - 💣 [Lol](http://9gag.com/gag/a872oGp)
+ - 😝 [Some serious shite is going on between India and Pakistan](http://9gag.com/gag/ae9mr6W)
+ - 👉 [In and out](http://9gag.com/gag/a342QgN)<!-- MEMES:END -->
 
 ---
 

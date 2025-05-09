@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Texas AG Ken Paxton says Google has agreed in principle to pay $1.375B to settle allegations of violating data privacy rights of the state&#39;s residents &lpar;Dan Mangan/CNBC&rpar;](http://www.techmeme.com/250509/p21#a250509p21)
  - [A profile of Gail Slater, the head of the DOJ&#39;s antitrust unit who has become the leader of the MAGA antitrust movement over Big Tech &quot;censorship&quot; concerns &lpar;Nancy Scola/Politico&rpar;](http://www.techmeme.com/250509/p20#a250509p20)
  - [Deltarune&amp;#8217;s next chapters will launch alongside the Switch 2](https://www.theverge.com/news/664621/deltarune-nintendo-switch-2-launch-time)
  - [You can now use Apple Pay to buy games on your PS5](https://www.theverge.com/news/664620/apple-pay-ps5-console-checkout-store)
- - [Figma’s CEO on his new approach to AI](https://www.theverge.com/command-line-newsletter/664444/figma-ceo-ai-config-interview)
- - [Samsung’s Galaxy Ring is on sale with a $100 gift card starting at $299.99](https://www.theverge.com/tech/663665/samsung-galaxy-smart-ring-shokz-openrun-pro-2-deal-sale)<!-- TECH:END -->
+ - [Figma’s CEO on his new approach to AI](https://www.theverge.com/command-line-newsletter/664444/figma-ceo-ai-config-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

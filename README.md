@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The guy with a spiked flail has no mercy](http://9gag.com/gag/aPAQRMB)
+ - 😝 [Tutorials are for noobs](http://9gag.com/gag/apRbNpB)
+ - 💣 [Title](http://9gag.com/gag/a0e1NKZ)
  - 😝 [Happens to the best of us...](http://9gag.com/gag/avyRzQW)
- - 😝 [Cosplayers](http://9gag.com/gag/azxRMVj)
- - 💣 [The guy with a spiked flail has no mercy](http://9gag.com/gag/aPAQRMB)
- - 😝 [This Spider has 3 egg sacks, is pregnant with a 4th, and has 2 entire rodents on display in its web.](http://9gag.com/gag/an7Eg4E)
- - 👉 [Title](http://9gag.com/gag/a0e1NKZ)<!-- MEMES:END -->
+ - 👉 [The accuracy with which she plays](http://9gag.com/gag/a6Z2Ed8)<!-- MEMES:END -->
 
 ---
 

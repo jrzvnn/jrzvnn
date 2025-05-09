@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wahmen is bad from a wahmen point of view](http://9gag.com/gag/aryqMOK)
- - 😝 [Terry crews attempts to recreate Thierry Henry&#39;s smirk lmao...](http://9gag.com/gag/a1m2R3P)
- - 💣 [The possibilities](http://9gag.com/gag/ae9mrQj)
- - 😝 [Pretty accurate...](http://9gag.com/gag/aryqGDV)
- - 👉 [Tutorials are for noobs](http://9gag.com/gag/apRbNpB)<!-- MEMES:END -->
+ - 😝 [Who?](http://9gag.com/gag/ae9m59b)
+ - 😝 [This toilet open to the ocean below](http://9gag.com/gag/a5Q2Wxy)
+ - 💣 [The accuracy with which she plays](http://9gag.com/gag/a6Z2Ed8)
+ - 😝 [Some serious shite is going on between India and Pakistan](http://9gag.com/gag/ae9mr6W)
+ - 👉 [Parking enforcement officer stands up to cop parked illegally](http://9gag.com/gag/amoMBq4)<!-- MEMES:END -->
 
 ---
 

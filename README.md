@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Texas AG Ken Paxton says Google has agreed in principle to pay $1.375B to settle allegations of violating data privacy rights of the state&#39;s residents &lpar;Dan Mangan/CNBC&rpar;](http://www.techmeme.com/250509/p21#a250509p21)
+ - [Google agrees to pay Texas $1.4B to settle two lawsuits claiming it tracks Texans&#39; personal location and maintains their facial recognition data without consent &lpar;Ryan Autullo/Bloomberg Law&rpar;](http://www.techmeme.com/250509/p23#a250509p23)
+ - [Pinterest agrees to pay $34.7M to settle a 2021 lawsuit from Christine Martinez, an early adviser who claimed she co-created the platform without compensation &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/250509/p22#a250509p22)
+ - [Google agrees to pay Texas $1.4 billion data privacy settlement &lpar;Dan Mangan/CNBC&rpar;](http://www.techmeme.com/250509/p21#a250509p21)
  - [A profile of Gail Slater, the head of the DOJ&#39;s antitrust unit who has become the leader of the MAGA antitrust movement over Big Tech &quot;censorship&quot; concerns &lpar;Nancy Scola/Politico&rpar;](http://www.techmeme.com/250509/p20#a250509p20)
- - [Deltarune&amp;#8217;s next chapters will launch alongside the Switch 2](https://www.theverge.com/news/664621/deltarune-nintendo-switch-2-launch-time)
- - [You can now use Apple Pay to buy games on your PS5](https://www.theverge.com/news/664620/apple-pay-ps5-console-checkout-store)
- - [Figma’s CEO on his new approach to AI](https://www.theverge.com/command-line-newsletter/664444/figma-ceo-ai-config-interview)<!-- TECH:END -->
+ - [Deltarune&amp;#8217;s next chapters will launch alongside the Switch 2](https://www.theverge.com/news/664621/deltarune-nintendo-switch-2-launch-time)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

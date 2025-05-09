@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The adults responsible for this little kid let her drive a mini car in the middle of the street, leading to some sort of car accident.](http://9gag.com/gag/a1m2rAw)
- - 😝 [Who?](http://9gag.com/gag/ae9m59b)
- - 💣 [When glow-up goes the other way](http://9gag.com/gag/a1m2WBv)
- - 😝 [Title](http://9gag.com/gag/a0e1NKZ)
- - 👉 [Jim Carrey makes fun of Margot Robbie in the most unusual way](http://9gag.com/gag/a2v2Wv1)<!-- MEMES:END -->
+ - 😝 [Wahmen is bad from a wahmen point of view](http://9gag.com/gag/aryqMOK)
+ - 😝 [Terry crews attempts to recreate Thierry Henry&#39;s smirk lmao...](http://9gag.com/gag/a1m2R3P)
+ - 💣 [The possibilities](http://9gag.com/gag/ae9mrQj)
+ - 😝 [Pretty accurate...](http://9gag.com/gag/aryqGDV)
+ - 👉 [Tutorials are for noobs](http://9gag.com/gag/apRbNpB)<!-- MEMES:END -->
 
 ---
 

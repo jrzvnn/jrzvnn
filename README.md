@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A fun way of using magnets](http://9gag.com/gag/agm45Wx)
- - 😝 [An idiot and her bike](http://9gag.com/gag/aQzZd5w)
- - 💣 [Tigers like `you see this sheet i put up with`](http://9gag.com/gag/abABrPO)
- - 😝 [21st Season](http://9gag.com/gag/aGyAdZX)
- - 👉 [Who?](http://9gag.com/gag/ae9m59b)<!-- MEMES:END -->
+ - 😝 [Replacing all the food in the tavern with poisoned apples](http://9gag.com/gag/aYQq422)
+ - 😝 [Man escapes the interrogation room by kicking a whole in the wall](http://9gag.com/gag/a872Ge1)
+ - 💣 [Lol](http://9gag.com/gag/a872oGp)
+ - 😝 [Is this the real life? &lpar;Caption: Highschool female teacher arrested for having sexual relationship with her student&rpar;](http://9gag.com/gag/aRBo3QM)
+ - 👉 [They didn\u2019t even get doritos and mountain dew :,&lpar;](http://9gag.com/gag/awydXg1)<!-- MEMES:END -->
 
 ---
 

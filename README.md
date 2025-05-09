@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lol](http://9gag.com/gag/a872oGp)
+ - 😝 [He handled the situation well](http://9gag.com/gag/aByGxv1)
  - 😝 [Jim Carrey makes fun of Margot Robbie in the most unusual way](http://9gag.com/gag/a2v2Wv1)
- - 💣 [They didn\u2019t even get doritos and mountain dew :,&lpar;](http://9gag.com/gag/awydXg1)
- - 😝 [The accuracy with which she plays](http://9gag.com/gag/a6Z2Ed8)
- - 👉 [Cosplayers](http://9gag.com/gag/azxRMVj)<!-- MEMES:END -->
+ - 💣 [Some serious shite is going on between India and Pakistan](http://9gag.com/gag/ae9mr6W)
+ - 😝 [This toilet open to the ocean below](http://9gag.com/gag/a5Q2Wxy)
+ - 👉 [Man escapes the interrogation room by kicking a whole in the wall](http://9gag.com/gag/a872Ge1)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Border agents are going to photograph everyone leaving the US by car](https://www.theverge.com/policy/664433/cbp-photos-facial-recognition-travelers-leaving-us)
+ - [Another Outage Strikes Newark Airport. How to Avoid Getting Stuck if Your Flight Is Delayed or Cancelled](https://www.cnet.com/personal-finance/another-outage-strikes-newark-airport-how-to-avoid-getting-stuck-if-your-flight-is-delayed-or-cancelled/#ftag=CAD590a51e)
+ - [ESPN Reportedly Settles on a Super Simple Name for its New Streaming App](https://www.cnet.com/tech/services-and-software/espn-reportedly-settles-on-a-super-simple-name-for-the-new-streaming-app/#ftag=CAD590a51e)
  - [Here’s How to Claim Up to $100 in Apple’s Siri Settlement](https://www.wired.com/story/how-to-submit-your-claim-in-apples-95-million-siri-settlement/)
- - [Don&amp;#8217;t expect to hear about the Outer Wilds team&amp;#8217;s next game for &amp;#8216;years&amp;#8217;](https://www.theverge.com/news/664445/outer-wilds-developer-mobius-digital-new-game)
- - [Source: US DOL ended its probe into Scale AI&#39;s Fair Labor Standards Act compliance, after announcing a friendlier approach to classifying workers as contractors &lpar;Charles Rollet/TechCrunch&rpar;](http://www.techmeme.com/250509/p15#a250509p15)
- - [Tech companies warn they may pull back from US investment pledges if Congress doesn&#39;t fully reinstate the R&amp;D tax deduction pared back in Trump&#39;s 2017 tax bill &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/250509/p14#a250509p14)
- - [An in-depth interview with Sonos interim CEO Tom Conrad](https://www.theverge.com/speakers/664329/sonos-ceo-tom-conrad-interview-app-speakers-subscriptions)<!-- TECH:END -->
+ - [Don&amp;#8217;t expect to hear about the Outer Wilds team&amp;#8217;s next game for &amp;#8216;years&amp;#8217;](https://www.theverge.com/news/664445/outer-wilds-developer-mobius-digital-new-game)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

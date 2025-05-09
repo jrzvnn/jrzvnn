@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who?](http://9gag.com/gag/ae9m59b)
- - 😝 [This toilet open to the ocean below](http://9gag.com/gag/a5Q2Wxy)
- - 💣 [The accuracy with which she plays](http://9gag.com/gag/a6Z2Ed8)
- - 😝 [Some serious shite is going on between India and Pakistan](http://9gag.com/gag/ae9mr6W)
- - 👉 [Parking enforcement officer stands up to cop parked illegally](http://9gag.com/gag/amoMBq4)<!-- MEMES:END -->
+ - 😝 [Happens to the best of us...](http://9gag.com/gag/avyRzQW)
+ - 😝 [Cosplayers](http://9gag.com/gag/azxRMVj)
+ - 💣 [The guy with a spiked flail has no mercy](http://9gag.com/gag/aPAQRMB)
+ - 😝 [This Spider has 3 egg sacks, is pregnant with a 4th, and has 2 entire rodents on display in its web.](http://9gag.com/gag/an7Eg4E)
+ - 👉 [Title](http://9gag.com/gag/a0e1NKZ)<!-- MEMES:END -->
 
 ---
 

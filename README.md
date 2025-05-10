@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The UK stopped asking Uber to pay VAT on the full cost of rides, instead collecting VAT only on its commission, after a setback in a similar dispute with Bolt &lpar;Financial Times&rpar;](http://www.techmeme.com/250510/p10#a250510p10)
+ - [The enduring cool of skateboarding games](https://www.theverge.com/games/663070/skateboarding-games-tony-hawk-skate-city)
+ - [Can Donald Trump really put a tariff on films?](https://www.theverge.com/politics/664396/trump-tariffs-hollywood-foreign-films-excise-tax)
  - [Amazon’s ad-free Kindle Paperwhite Kids has hit its best price to date](https://www.theverge.com/tech/664235/kindle-paperwhite-kids-2024-amazon-smart-thermostat-deal-sale)
- - [Insta360 X5 Review: The Best 360 Camera You Can Buy](https://www.wired.com/review/insta360-x5-360-camera/)
- - [How to turn on Lockdown Mode for your iPhone and Mac](https://www.theverge.com/tech/663794/lockdown-mode-iphone-mac-how-to)
- - [A look at Microsoft&#39;s Threat Intelligence Center, staffed largely by ex-intelligence and military personnel, which has become a key pillar of US cyber defense &lpar;Bloomberg&rpar;](http://www.techmeme.com/250510/p9#a250510p9)
- - [The Best Cheap TVs &lpar;2025&rpar;: TCL, Hisense, and More](https://www.wired.com/gallery/best-cheap-tvs/)<!-- TECH:END -->
+ - [Insta360 X5 Review: The Best 360 Camera You Can Buy](https://www.wired.com/review/insta360-x5-360-camera/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This toilet open to the ocean below](http://9gag.com/gag/a5Q2Wxy)
+ - 😝 [Tutorials are for noobs](http://9gag.com/gag/apRbNpB)
+ - 💣 [Man escapes the interrogation room by kicking a whole in the wall](http://9gag.com/gag/a872Ge1)
  - 😝 [Big bug never had a chance...](http://9gag.com/gag/apRb5P9)
- - 😝 [Man escapes the interrogation room by kicking a whole in the wall](http://9gag.com/gag/a872Ge1)
- - 💣 [When glow-up goes the other way](http://9gag.com/gag/a1m2WBv)
- - 😝 [Where do you think you\u2019re going, snack? Learn to maintain distance!](http://9gag.com/gag/a872GbZ)
- - 👉 [Tutorials are for noobs](http://9gag.com/gag/apRbNpB)<!-- MEMES:END -->
+ - 👉 [Bad luck](http://9gag.com/gag/adBeg7Z)<!-- MEMES:END -->
 
 ---
 

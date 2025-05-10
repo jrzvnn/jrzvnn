@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where do you think you\u2019re going, snack? Learn to maintain distance!](http://9gag.com/gag/a872GbZ)
- - 😝 [Poor snake](http://9gag.com/gag/awydZ18)
- - 💣 [This toilet open to the ocean below](http://9gag.com/gag/a5Q2Wxy)
  - 😝 [Big bug never had a chance...](http://9gag.com/gag/apRb5P9)
- - 👉 [Pineapple skin is so heat resistant that it can endure a 1000\u00b0C iron ball](http://9gag.com/gag/aAy2gpL)<!-- MEMES:END -->
+ - 😝 [Man escapes the interrogation room by kicking a whole in the wall](http://9gag.com/gag/a872Ge1)
+ - 💣 [When glow-up goes the other way](http://9gag.com/gag/a1m2WBv)
+ - 😝 [Where do you think you\u2019re going, snack? Learn to maintain distance!](http://9gag.com/gag/a872GbZ)
+ - 👉 [Tutorials are for noobs](http://9gag.com/gag/apRbNpB)<!-- MEMES:END -->
 
 ---
 

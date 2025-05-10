@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WhatTodo](http://9gag.com/gag/aPAQ3Yg)
- - 😝 [From `wtf` to `wait, that&#39;s actually good`](http://9gag.com/gag/a4P21gQ)
- - 💣 [This Spider has 3 egg sacks, is pregnant with a 4th, and has 2 entire rodents on display in its web.](http://9gag.com/gag/an7Eg4E)
- - 😝 [Happens to the best of us...](http://9gag.com/gag/avyRzQW)
- - 👉 [When glow-up goes the other way](http://9gag.com/gag/a1m2WBv)<!-- MEMES:END -->
+ - 😝 [The guy with a spiked flail has no mercy](http://9gag.com/gag/aPAQRMB)
+ - 😝 [Where do you think you\u2019re going, snack? Learn to maintain distance!](http://9gag.com/gag/a872GbZ)
+ - 💣 [My bestfriend has become a girl](http://9gag.com/gag/aO8P026)
+ - 😝 [Bad luck](http://9gag.com/gag/adBeg7Z)
+ - 👉 [Title](http://9gag.com/gag/a0e1NKZ)<!-- MEMES:END -->
 
 ---
 

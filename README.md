@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This toilet open to the ocean below](http://9gag.com/gag/a5Q2Wxy)
- - 😝 [Tutorials are for noobs](http://9gag.com/gag/apRbNpB)
- - 💣 [Man escapes the interrogation room by kicking a whole in the wall](http://9gag.com/gag/a872Ge1)
  - 😝 [Big bug never had a chance...](http://9gag.com/gag/apRb5P9)
- - 👉 [Bad luck](http://9gag.com/gag/adBeg7Z)<!-- MEMES:END -->
+ - 😝 [Jim Carrey makes fun of Margot Robbie in the most unusual way](http://9gag.com/gag/a2v2Wv1)
+ - 💣 [Absolute conversationalist](http://9gag.com/gag/a2v2WXD)
+ - 😝 [This toilet open to the ocean below](http://9gag.com/gag/a5Q2Wxy)
+ - 👉 [Happens to the best of us...](http://9gag.com/gag/avyRzQW)<!-- MEMES:END -->
 
 ---
 

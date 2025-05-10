@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Students use phone locking stations at Scotland\u2019s first &#39;phone-free&#39; school](http://9gag.com/gag/aGyAp4w)
- - 😝 [9gaggers and their low standards be like](http://9gag.com/gag/a872ERp)
- - 💣 [Another pov of the accident](http://9gag.com/gag/aD2VD2G)
- - 😝 [WhatTodo](http://9gag.com/gag/aPAQ3Yg)
+ - 😝 [Another pov of the accident](http://9gag.com/gag/aD2VD2G)
+ - 💣 [WhatTodo](http://9gag.com/gag/aPAQ3Yg)
+ - 😝 [Bad luck](http://9gag.com/gag/adBeg7Z)
  - 👉 [Spider tried to escape, but it ran out of silk.](http://9gag.com/gag/a7o2qRb)<!-- MEMES:END -->
 
 ---

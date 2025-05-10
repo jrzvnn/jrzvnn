@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Big bug never had a chance...](http://9gag.com/gag/apRb5P9)
- - 😝 [Jim Carrey makes fun of Margot Robbie in the most unusual way](http://9gag.com/gag/a2v2Wv1)
- - 💣 [Absolute conversationalist](http://9gag.com/gag/a2v2WXD)
- - 😝 [This toilet open to the ocean below](http://9gag.com/gag/a5Q2Wxy)
- - 👉 [Happens to the best of us...](http://9gag.com/gag/avyRzQW)<!-- MEMES:END -->
+ - 😝 [This is why i use the internet.](http://9gag.com/gag/aGyAEpK)
+ - 😝 [White pasta sauce is now black pasta sauce](http://9gag.com/gag/aMVvEW1)
+ - 💣 [Kawaii](http://9gag.com/gag/amoMAP2)
+ - 😝 [Kid has a brain.. calling out \u201cnews\u201d shenanigans.](http://9gag.com/gag/aD2Vg6O)
+ - 👉 [Wife material](http://9gag.com/gag/aW4bgPq)<!-- MEMES:END -->
 
 ---
 

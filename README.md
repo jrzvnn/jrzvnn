@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This toilet open to the ocean below](http://9gag.com/gag/a5Q2Wxy)
- - 😝 [Jim Carrey makes fun of Margot Robbie in the most unusual way](http://9gag.com/gag/a2v2Wv1)
- - 💣 [Delicious noodle](http://9gag.com/gag/aMVvxL1)
- - 😝 [Bad luck](http://9gag.com/gag/adBeg7Z)
- - 👉 [Happens to the best of us...](http://9gag.com/gag/avyRzQW)<!-- MEMES:END -->
+ - 😝 [Delicious noodle](http://9gag.com/gag/aMVvxL1)
+ - 😝 [Absolute conversationalist](http://9gag.com/gag/a2v2WXD)
+ - 💣 [That night stuffs awakened in the male spectators](http://9gag.com/gag/aYQqyn0)
+ - 😝 [Big bug never had a chance...](http://9gag.com/gag/apRb5P9)
+ - 👉 [Where do you think you\u2019re going, snack? Learn to maintain distance!](http://9gag.com/gag/a872GbZ)<!-- MEMES:END -->
 
 ---
 

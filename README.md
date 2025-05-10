@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Connections Hints, Answers and Help for May 11, #700](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-11-700/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for May 11, #1422](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-11-1422/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for May 11, #434](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-11-434/#ftag=CAD590a51e)
  - [Record low price: Apple&#39;s M4 iMac 24-inch drops to $1,059](https://appleinsider.com/articles/25/05/10/record-low-price-apples-m4-imac-24-inch-drops-to-1059?utm_medium=rss)
- - [Source: Tel Aviv-based AI21 Labs, which is building its own LLMs and launched an AI orchestration system in March, is raising a $300M Series D &lpar;Ben Bergman/Business Insider&rpar;](http://www.techmeme.com/250510/p14#a250510p14)<!-- TECH:END -->
+ - [Source: Tel Aviv-based AI21 Labs, which is building its own LLMs and launched an AI orchestration system in March, is raising a $300M Series D &lpar;Ben Bergman/Business Insider&rpar;](http://www.techmeme.com/250510/p14#a250510p14)
+ - [Marvel&#39;s &#39;Thunderbolts*&#39;: Is There a Post-Credits Scene?](https://www.cnet.com/tech/services-and-software/marvels-thunderbolts-is-there-a-post-credits-scene/#ftag=CAD590a51e)
+ - [Ramp: 32.4% of US businesses using Ramp cards had OpenAI subscriptions in April, up from 28% in March; Google AI subscriptions fell to 0.1% in April &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250510/p13#a250510p13)
+ - [I Tested the Amazfit Bip 6. It&#39;s Proof Good Smartwatches Don&#39;t Need to Cost a Fortune](https://www.cnet.com/tech/mobile/amazfit-bip-6-review-its-proof-good-smartwatches-dont-need-to-cost-a-fortune/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

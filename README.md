@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happens to the best of us...](http://9gag.com/gag/avyRzQW)
- - 😝 [After girls night](http://9gag.com/gag/aD2VdPw)
- - 💣 [That night stuffs awakened in the male spectators](http://9gag.com/gag/aYQqyn0)
- - 😝 [WhatTodo](http://9gag.com/gag/aPAQ3Yg)
- - 👉 [Guess who&#39;s getting laid tonight ?](http://9gag.com/gag/a872EvV)<!-- MEMES:END -->
+ - 😝 [Hit different with the song.](http://9gag.com/gag/a5Q2QZo)
+ - 😝 [Kawaii](http://9gag.com/gag/amoMAP2)
+ - 💣 [Wait a sec...](http://9gag.com/gag/adBePMj)
+ - 😝 [Cosplayers](http://9gag.com/gag/azxRMVj)
+ - 👉 [Helpful guide to know which Social site to be on.](http://9gag.com/gag/aAy2GgZ)<!-- MEMES:END -->
 
 ---
 

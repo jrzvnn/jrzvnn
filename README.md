@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is why i use the internet.](http://9gag.com/gag/aGyAEpK)
- - 😝 [Kawaii](http://9gag.com/gag/amoMAP2)
- - 💣 [Wait a sec...](http://9gag.com/gag/adBePMj)
- - 😝 [Cosplayers](http://9gag.com/gag/azxRMVj)
- - 👉 [White pasta sauce is now black pasta sauce](http://9gag.com/gag/aMVvEW1)<!-- MEMES:END -->
+ - 😝 [`Playmate`](http://9gag.com/gag/a9y2q36)
+ - 😝 [The accuracy with which she plays](http://9gag.com/gag/a6Z2Ed8)
+ - 💣 [Where do you think you\u2019re going, snack? Learn to maintain distance!](http://9gag.com/gag/a872GbZ)
+ - 😝 [The adults responsible for this little kid let her drive a mini car in the middle of the street, leading to some sort of car accident.](http://9gag.com/gag/a1m2rAw)
+ - 👉 [After girls night](http://9gag.com/gag/aD2VdPw)<!-- MEMES:END -->
 
 ---
 

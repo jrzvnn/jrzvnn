@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is why i use the internet.](http://9gag.com/gag/aGyAEpK)
- - 😝 [Kawaii](http://9gag.com/gag/amoMAP2)
- - 💣 [Wait a sec...](http://9gag.com/gag/adBePMj)
- - 😝 [Cosplayers](http://9gag.com/gag/azxRMVj)
- - 👉 [White pasta sauce is now black pasta sauce](http://9gag.com/gag/aMVvEW1)<!-- MEMES:END -->
+ - 😝 [After girls night](http://9gag.com/gag/aD2VdPw)
+ - 😝 [Guess who&#39;s getting laid tonight ?](http://9gag.com/gag/a872EvV)
+ - 💣 [Students use phone locking stations at Scotland\u2019s first &#39;phone-free&#39; school](http://9gag.com/gag/aGyAp4w)
+ - 😝 [9gaggers and their low standards be like](http://9gag.com/gag/a872ERp)
+ - 👉 [Where do you think you\u2019re going, snack? Learn to maintain distance!](http://9gag.com/gag/a872GbZ)<!-- MEMES:END -->
 
 ---
 

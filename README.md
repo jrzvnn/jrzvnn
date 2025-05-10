@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cosplayers](http://9gag.com/gag/azxRMVj)
- - 😝 [Wife material](http://9gag.com/gag/aW4bgPq)
- - 💣 [Except Uncle Ben\u2014he&#39;s like a legendary exception](http://9gag.com/gag/ae9m4Am)
- - 😝 [White pasta sauce is now black pasta sauce](http://9gag.com/gag/aMVvEW1)
- - 👉 [From `wtf` to `wait, that&#39;s actually good`](http://9gag.com/gag/a4P21gQ)<!-- MEMES:END -->
+ - 😝 [Another pov of the accident](http://9gag.com/gag/aD2VD2G)
+ - 😝 [Guess who&#39;s getting laid tonight ?](http://9gag.com/gag/a872EvV)
+ - 💣 [Spider tried to escape, but it ran out of silk.](http://9gag.com/gag/a7o2qRb)
+ - 😝 [Love on the spectrum](http://9gag.com/gag/aGyAy6z)
+ - 👉 [After girls night](http://9gag.com/gag/aD2VdPw)<!-- MEMES:END -->
 
 ---
 

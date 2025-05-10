@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Absolute conversationalist](http://9gag.com/gag/a2v2WXD)
+ - 😝 [Wait you guys didnt hear that?](http://9gag.com/gag/a0e1Njq)
  - 😝 [After girls night](http://9gag.com/gag/aD2VdPw)
- - 💣 [Dang Japan got high suislide rate i wonder if it caused by shitty work enviroment. Meanwhile Japanese mfs :](http://9gag.com/gag/ae9mD8p)
+ - 💣 [Spider tried to escape, but it ran out of silk.](http://9gag.com/gag/a7o2qRb)
  - 😝 [`Playmate`](http://9gag.com/gag/a9y2q36)
- - 👉 [Bad luck](http://9gag.com/gag/adBeg7Z)<!-- MEMES:END -->
+ - 👉 [Students use phone locking stations at Scotland\u2019s first &#39;phone-free&#39; school](http://9gag.com/gag/aGyAp4w)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A study finds that asking LLMs to be concise in their answers, particularly on ambiguous topics, can negatively affect factuality and worsen hallucinations &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250510/p8#a250510p8)
+ - [ICE’s Deportation Airline Hack Reveals Man ‘Disappeared’ to El Salvador](https://www.wired.com/story/ices-deportation-airline-hack-reveals-man-disappeared-to-el-salvador/)
+ - [Netflix’s ‘Moments’ Feature Lets You Easily Share Your Favorite Clips](https://www.wired.com/story/use-netflix-moments-to-share-your-favorite-clips/)
  - [Diabetes Is Rising in Africa. Could It Lead to New Breakthroughs?](https://www.wired.com/story/diabetes-rates-africa-new-breakthroughs/)
- - [Samsung Galaxy S25 Edge Reveal Confirmed and Lenovo Launches a New 3D Laptop—Your Gear News of the Week](https://www.wired.com/story/samsung-galaxy-s25-edge-reveal-confirmed-and-lenovo-launches-a-new-3d-laptop-your-gear-news-of-the-week/)
- - [A profile of OpenAI&#39;s CEO of Applications Fidji Simo, who is tasked with broadening ChatGPT amid a straining Microsoft relationship and a battle with Elon Musk &lpar;Bloomberg&rpar;](http://www.techmeme.com/250510/p7#a250510p7)
- - [Adidas’ 3D-printed sneaker review: What are those!?](https://www.theverge.com/reviews/663985/adidas-climacool-3d-printed-sneaker-review-price-specs)
- - [The Trump administration&#39;s plan to cut the budget of the NSF, considered key to US tech leadership, by about 57% to $3.9B is alarming the startup and VC sector &lpar;Jessica Mathews/Fortune&rpar;](http://www.techmeme.com/250510/p6#a250510p6)<!-- TECH:END -->
+ - [Samsung Galaxy S25 Edge Reveal Confirmed and Lenovo Launches a New 3D Laptop—Your Gear News of the Week](https://www.wired.com/story/samsung-galaxy-s25-edge-reveal-confirmed-and-lenovo-launches-a-new-3d-laptop-your-gear-news-of-the-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

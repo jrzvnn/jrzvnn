@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The guy with a spiked flail has no mercy](http://9gag.com/gag/aPAQRMB)
+ - 😝 [Pineapple skin is so heat resistant that it can endure a 1000\u00b0C iron ball](http://9gag.com/gag/aAy2gpL)
+ - 💣 [Big bug never had a chance...](http://9gag.com/gag/apRb5P9)
  - 😝 [When glow-up goes the other way](http://9gag.com/gag/a1m2WBv)
- - 😝 [Who?](http://9gag.com/gag/ae9m59b)
- - 💣 [Where do you think you\u2019re going, snack? Learn to maintain distance!](http://9gag.com/gag/a872GbZ)
- - 😝 [Bad luck](http://9gag.com/gag/adBeg7Z)
- - 👉 [Have nuclear weapons, will go to war. But where?](http://9gag.com/gag/a342QV7)<!-- MEMES:END -->
+ - 👉 [Happens to the best of us...](http://9gag.com/gag/avyRzQW)<!-- MEMES:END -->
 
 ---
 

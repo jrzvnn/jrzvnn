@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Delicious noodle](http://9gag.com/gag/aMVvxL1)
- - 😝 [Absolute conversationalist](http://9gag.com/gag/a2v2WXD)
- - 💣 [That night stuffs awakened in the male spectators](http://9gag.com/gag/aYQqyn0)
- - 😝 [Big bug never had a chance...](http://9gag.com/gag/apRb5P9)
- - 👉 [Where do you think you\u2019re going, snack? Learn to maintain distance!](http://9gag.com/gag/a872GbZ)<!-- MEMES:END -->
+ - 😝 [Kawaii](http://9gag.com/gag/amoMAP2)
+ - 😝 [Kid has a brain.. calling out \u201cnews\u201d shenanigans.](http://9gag.com/gag/aD2Vg6O)
+ - 💣 [Wait a sec...](http://9gag.com/gag/adBePMj)
+ - 😝 [White pasta sauce is now black pasta sauce](http://9gag.com/gag/aMVvEW1)
+ - 👉 [Cosplayers](http://9gag.com/gag/azxRMVj)<!-- MEMES:END -->
 
 ---
 

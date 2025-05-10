@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dangerous life](http://9gag.com/gag/avyRymZ)
- - 😝 [Love on the spectrum](http://9gag.com/gag/aGyAy6z)
- - 💣 [WhatTodo](http://9gag.com/gag/aPAQ3Yg)
- - 😝 [After girls night](http://9gag.com/gag/aD2VdPw)
- - 👉 [Spider tried to escape, but it ran out of silk.](http://9gag.com/gag/a7o2qRb)<!-- MEMES:END -->
+ - 😝 [Oh hell no](http://9gag.com/gag/aXPWPo6)
+ - 😝 [Students use phone locking stations at Scotland\u2019s first &#39;phone-free&#39; school](http://9gag.com/gag/aGyAp4w)
+ - 💣 [Spider tried to escape, but it ran out of silk.](http://9gag.com/gag/a7o2qRb)
+ - 😝 [Absolute conversationalist](http://9gag.com/gag/a2v2WXD)
+ - 👉 [After girls night](http://9gag.com/gag/aD2VdPw)<!-- MEMES:END -->
 
 ---
 

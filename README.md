@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How the three largest US gig economy companies, Lyft, DoorDash, and Uber, are aggressively expanding into Europe and Turkey through acquisitions &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250510/p1#a250510p1)
  - [Datadog acquires Eppo, which offers feature flagging and app experimentation tools, reportedly for $220M; Eppo had raised $47.5M and was valued at $80M in 2022 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250509/p27#a250509p27)
  - [The US FDA plans to deploy AI tools to all centers by June 30, 2025 to speed up scientific reviews, after completing a pilot and naming its first AI chief &lpar;Conor Hale/Fierce Biotech&rpar;](http://www.techmeme.com/250509/p26#a250509p26)
  - [Today&#39;s NYT Mini Crossword Answers for Saturday, May 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-may-10/#ftag=CAD590a51e)
- - [Meta unveils AssetGen 2.0, an AI system that generates higher quality 3D assets compared to AssetGen 1.0, rolling out to Horizon creators later in 2025 &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250509/p25#a250509p25)
- - [Q&amp;A with SAP CEO Christian Klein on data security, Databricks partnership, building a &quot;social network for B2B&quot;, positioning SAP as a neutral player, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250509/p24#a250509p24)<!-- TECH:END -->
+ - [Meta unveils AssetGen 2.0, an AI system that generates higher quality 3D assets compared to AssetGen 1.0, rolling out to Horizon creators later in 2025 &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250509/p25#a250509p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

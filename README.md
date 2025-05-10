@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Playmate`](http://9gag.com/gag/a9y2q36)
- - 😝 [The accuracy with which she plays](http://9gag.com/gag/a6Z2Ed8)
- - 💣 [Where do you think you\u2019re going, snack? Learn to maintain distance!](http://9gag.com/gag/a872GbZ)
- - 😝 [The adults responsible for this little kid let her drive a mini car in the middle of the street, leading to some sort of car accident.](http://9gag.com/gag/a1m2rAw)
- - 👉 [After girls night](http://9gag.com/gag/aD2VdPw)<!-- MEMES:END -->
+ - 😝 [Tutorials are for noobs](http://9gag.com/gag/apRbNpB)
+ - 😝 [That night stuffs awakened in the male spectators](http://9gag.com/gag/aYQqyn0)
+ - 💣 [After girls night](http://9gag.com/gag/aD2VdPw)
+ - 😝 [Happens to the best of us...](http://9gag.com/gag/avyRzQW)
+ - 👉 [WhatTodo](http://9gag.com/gag/aPAQ3Yg)<!-- MEMES:END -->
 
 ---
 

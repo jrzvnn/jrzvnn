@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait you guys didnt hear that?](http://9gag.com/gag/a0e1Njq)
- - 😝 [After girls night](http://9gag.com/gag/aD2VdPw)
+ - 😝 [My sweet little eldritch horror, why are there eyes of Tzeentch all over your body...](http://9gag.com/gag/a4P2E1v)
+ - 😝 [Bad luck](http://9gag.com/gag/adBeg7Z)
  - 💣 [Spider tried to escape, but it ran out of silk.](http://9gag.com/gag/a7o2qRb)
- - 😝 [`Playmate`](http://9gag.com/gag/a9y2q36)
- - 👉 [Students use phone locking stations at Scotland\u2019s first &#39;phone-free&#39; school](http://9gag.com/gag/aGyAp4w)<!-- MEMES:END -->
+ - 😝 [9gaggers and their low standards be like](http://9gag.com/gag/a872ERp)
+ - 👉 [After girls night](http://9gag.com/gag/aD2VdPw)<!-- MEMES:END -->
 
 ---
 

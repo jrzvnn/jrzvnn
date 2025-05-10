@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [How to turn on Lockdown Mode for your iPhone and Mac](https://www.theverge.com/tech/663794/lockdown-mode-iphone-mac-how-to)
  - [A look at Microsoft&#39;s Threat Intelligence Center, staffed largely by ex-intelligence and military personnel, which has become a key pillar of US cyber defense &lpar;Bloomberg&rpar;](http://www.techmeme.com/250510/p9#a250510p9)
  - [The Best Cheap TVs &lpar;2025&rpar;: TCL, Hisense, and More](https://www.wired.com/gallery/best-cheap-tvs/)
- - [Despelote is a picture-perfect portrait of childhood obsession](https://www.theverge.com/games-review/664363/despelote-review-ps5-xbox-pc)
- - [Skullcandy Method 360 ANC Review: Great Sound, Cheap Silence](https://www.wired.com/review/skullcandy-method-360-anc/)<!-- TECH:END -->
+ - [Nike&#39;s $900 Workout Shoes With Compression and Heating Launch Next Week](https://www.cnet.com/tech/nikes-900-workout-shoes-with-compression-and-heating-launch-next-week/#ftag=CAD590a51e)
+ - [Don&#39;t Let a Recession Destroy Your Savings. Here&#39;s How to Protect Your Money](https://www.cnet.com/personal-finance/banking/dont-let-a-recession-destroy-your-savings-heres-how-to-protect-your-money/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Guess who&#39;s getting laid tonight ?](http://9gag.com/gag/a872EvV)
- - 😝 [Where do you think you\u2019re going, snack? Learn to maintain distance!](http://9gag.com/gag/a872GbZ)
- - 💣 [Absolute conversationalist](http://9gag.com/gag/a2v2WXD)
- - 😝 [Woman gets out of car to argue with her husband in tiger sanctuary](http://9gag.com/gag/adBeBjN)
- - 👉 [Big bug never had a chance...](http://9gag.com/gag/apRb5P9)<!-- MEMES:END -->
+ - 😝 [Bad luck](http://9gag.com/gag/adBeg7Z)
+ - 💣 [`Playmate`](http://9gag.com/gag/a9y2q36)
+ - 😝 [Happens to the best of us...](http://9gag.com/gag/avyRzQW)
+ - 👉 [Where do you think you\u2019re going, snack? Learn to maintain distance!](http://9gag.com/gag/a872GbZ)<!-- MEMES:END -->
 
 ---
 

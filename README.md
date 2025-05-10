@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US real estate analytics provider CoStar agrees to acquire Domain, an Australian property listings website that competes with News Corp&#39;s REA, for about $1.92B &lpar;Stuart Condie/Wall Street Journal&rpar;](http://www.techmeme.com/250510/p4#a250510p4)
  - [SoundCloud quietly changed its policies to allow the company to use audio uploaded by users on its platform to &quot;inform, train, develop or serve as input to AI&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250510/p3#a250510p3)
  - [Japan&#39;s NTT, which owns 57.7% of IT services provider and data center operator NTT Data, launches a $16.4B take-private tender offer to buy the remaining stake &lpar;Reuters&rpar;](http://www.techmeme.com/250510/p2#a250510p2)
  - [How the three largest US gig economy companies, Lyft, DoorDash, and Uber, are aggressively expanding into Europe and Turkey through acquisitions &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250510/p1#a250510p1)
- - [Datadog acquires Eppo, which offers feature flagging and app experimentation tools, reportedly for $220M; Eppo had raised $47.5M and was valued at $80M in 2022 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250509/p27#a250509p27)
- - [The US FDA plans to deploy AI tools to all centers by June 30, 2025 to speed up scientific reviews, after completing a pilot and naming its first AI chief &lpar;Conor Hale/Fierce Biotech&rpar;](http://www.techmeme.com/250509/p26#a250509p26)<!-- TECH:END -->
+ - [Datadog acquires Eppo, which offers feature flagging and app experimentation tools, reportedly for $220M; Eppo had raised $47.5M and was valued at $80M in 2022 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250509/p27#a250509p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hit different with the song.](http://9gag.com/gag/a5Q2QZo)
- - 😝 [Kawaii](http://9gag.com/gag/amoMAP2)
- - 💣 [Wait a sec...](http://9gag.com/gag/adBePMj)
- - 😝 [Cosplayers](http://9gag.com/gag/azxRMVj)
- - 👉 [Helpful guide to know which Social site to be on.](http://9gag.com/gag/aAy2GgZ)<!-- MEMES:END -->
+ - 😝 [Absolute conversationalist](http://9gag.com/gag/a2v2WXD)
+ - 😝 [After girls night](http://9gag.com/gag/aD2VdPw)
+ - 💣 [Dang Japan got high suislide rate i wonder if it caused by shitty work enviroment. Meanwhile Japanese mfs :](http://9gag.com/gag/ae9mD8p)
+ - 😝 [`Playmate`](http://9gag.com/gag/a9y2q36)
+ - 👉 [Bad luck](http://9gag.com/gag/adBeg7Z)<!-- MEMES:END -->
 
 ---
 

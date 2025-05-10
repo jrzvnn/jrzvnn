@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Premier League Soccer: Stream Bournemouth vs. Aston Villa Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-bournemouth-vs-aston-villa-live-from-anywhere/#ftag=CAD590a51e)
  - [Pope Leo XIV says he chose his name to honor Pope Leo XIII&#39;s work during the first industrial revolution, as AI poses challenges in a new industrial revolution &lpar;Lauren Kent/CNN&rpar;](http://www.techmeme.com/250510/p11#a250510p11)
+ - [Samsung Galaxy S25 Edge: What We Know Ahead of the Slim Phone&#39;s May 12 Debut](https://www.cnet.com/tech/mobile/samsung-galaxy-s25-edge-what-we-know-ahead-of-the-slim-phones-may-12-debut/#ftag=CAD590a51e)
  - [SoundCloud says it isn&amp;#8217;t using your music to train generative AI tools](https://www.theverge.com/news/664683/soundcloud-denies-training-ai-with-user-music)
- - [The UK stopped asking Uber to pay VAT on the full cost of rides, instead collecting VAT only on its commission, after a setback in a similar dispute with Bolt &lpar;Financial Times&rpar;](http://www.techmeme.com/250510/p10#a250510p10)
- - [The Best Fantasy Films to Watch on Prime Video](https://www.cnet.com/tech/services-and-software/best-fantasy-movies-on-prime-video-may-2025/#ftag=CAD590a51e)
- - [The enduring cool of skateboarding games](https://www.theverge.com/games/663070/skateboarding-games-tony-hawk-skate-city)<!-- TECH:END -->
+ - [The UK stopped asking Uber to pay VAT on the full cost of rides, instead collecting VAT only on its commission, after a setback in a similar dispute with Bolt &lpar;Financial Times&rpar;](http://www.techmeme.com/250510/p10#a250510p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

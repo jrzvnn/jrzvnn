@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My sweet little eldritch horror, why are there eyes of Tzeentch all over your body...](http://9gag.com/gag/a4P2E1v)
- - 😝 [Bad luck](http://9gag.com/gag/adBeg7Z)
- - 💣 [Spider tried to escape, but it ran out of silk.](http://9gag.com/gag/a7o2qRb)
- - 😝 [9gaggers and their low standards be like](http://9gag.com/gag/a872ERp)
- - 👉 [After girls night](http://9gag.com/gag/aD2VdPw)<!-- MEMES:END -->
+ - 😝 [Hit different with the song.](http://9gag.com/gag/a5Q2QZo)
+ - 😝 [Wait a sec...](http://9gag.com/gag/adBePMj)
+ - 💣 [Cosplayers](http://9gag.com/gag/azxRMVj)
+ - 😝 [Helpful guide to know which Social site to be on.](http://9gag.com/gag/aAy2GgZ)
+ - 👉 [How does he make it seem to alive at points, and even leap from his arms? It&#39;s so quick!](http://9gag.com/gag/a87277O)<!-- MEMES:END -->
 
 ---
 

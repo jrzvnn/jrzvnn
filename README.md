@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Pope Leo XIV says he chose his name to honor Pope Leo XIII&#39;s work during the first industrial revolution, as AI poses challenges in a new industrial revolution &lpar;Lauren Kent/CNN&rpar;](http://www.techmeme.com/250510/p11#a250510p11)
+ - [SoundCloud says it isn&amp;#8217;t using your music to train generative AI tools](https://www.theverge.com/news/664683/soundcloud-denies-training-ai-with-user-music)
  - [The UK stopped asking Uber to pay VAT on the full cost of rides, instead collecting VAT only on its commission, after a setback in a similar dispute with Bolt &lpar;Financial Times&rpar;](http://www.techmeme.com/250510/p10#a250510p10)
  - [The Best Fantasy Films to Watch on Prime Video](https://www.cnet.com/tech/services-and-software/best-fantasy-movies-on-prime-video-may-2025/#ftag=CAD590a51e)
- - [Insta360 X5 Review: The Best 360 Camera You Can Buy](https://www.wired.com/review/insta360-x5-360-camera/)
- - [Chase Bank Is Now Blocking Some Zelle Charges. Here&#39;s How You Can Send Money Instead](https://www.cnet.com/personal-finance/banking/chase-bank-is-now-blocking-some-zelle-charges-heres-how-you-send-money-instead/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The enduring cool of skateboarding games](https://www.theverge.com/games/663070/skateboarding-games-tony-hawk-skate-city)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

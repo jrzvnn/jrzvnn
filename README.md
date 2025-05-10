@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pope Leo XIV says he chose his name to honor Pope Leo XIII&#39;s work during the first industrial revolution, as AI poses challenges in a new industrial revolution &lpar;Lauren Kent/CNN&rpar;](http://www.techmeme.com/250510/p11#a250510p11)
  - [SoundCloud says it isn&amp;#8217;t using your music to train generative AI tools](https://www.theverge.com/news/664683/soundcloud-denies-training-ai-with-user-music)
  - [The UK stopped asking Uber to pay VAT on the full cost of rides, instead collecting VAT only on its commission, after a setback in a similar dispute with Bolt &lpar;Financial Times&rpar;](http://www.techmeme.com/250510/p10#a250510p10)
- - [The enduring cool of skateboarding games](https://www.theverge.com/games/663070/skateboarding-games-tony-hawk-skate-city)
- - [Can Donald Trump really put a tariff on films?](https://www.theverge.com/politics/664396/trump-tariffs-hollywood-foreign-films-excise-tax)
- - [Amazon’s ad-free Kindle Paperwhite Kids has hit its best price to date](https://www.theverge.com/tech/664235/kindle-paperwhite-kids-2024-amazon-smart-thermostat-deal-sale)<!-- TECH:END -->
+ - [The Best Fantasy Films to Watch on Prime Video](https://www.cnet.com/tech/services-and-software/best-fantasy-movies-on-prime-video-may-2025/#ftag=CAD590a51e)
+ - [The enduring cool of skateboarding games](https://www.theverge.com/games/663070/skateboarding-games-tony-hawk-skate-city)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

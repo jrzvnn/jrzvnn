@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Use Your iPad as a Second Monitor With Your Mac &lpar;2025&rpar;](https://www.wired.com/story/how-to-use-your-ipad-as-a-second-monitor-with-your-mac/)
  - [Dismantling NOAA Threatens the World’s Ability to Monitor Carbon Dioxide Levels](https://www.wired.com/story/how-the-dismantling-of-noaa-threatens-the-keeling-curve/)
  - [The 25 Best Shows on Amazon Prime Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)
  - [A study finds that asking LLMs to be concise in their answers, particularly on ambiguous topics, can negatively affect factuality and worsen hallucinations &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250510/p8#a250510p8)
- - [ICE’s Deportation Airline Hack Reveals Man ‘Disappeared’ to El Salvador](https://www.wired.com/story/ices-deportation-airline-hack-reveals-man-disappeared-to-el-salvador/)
- - [Netflix’s ‘Moments’ Feature Lets You Easily Share Your Favorite Clips](https://www.wired.com/story/use-netflix-moments-to-share-your-favorite-clips/)<!-- TECH:END -->
+ - [ICE’s Deportation Airline Hack Reveals Man ‘Disappeared’ to El Salvador](https://www.wired.com/story/ices-deportation-airline-hack-reveals-man-disappeared-to-el-salvador/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

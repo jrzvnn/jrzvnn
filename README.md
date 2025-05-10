@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FTC pushes the enforcement of its &quot;click-to-cancel&quot; rule requiring businesses to make canceling subscriptions as easy as signing up, from May 14 to July 14 &lpar;Cheyenne MacDonald/Engadget&rpar;](http://www.techmeme.com/250510/p15#a250510p15)
+ - [Pope Leo XIV names AI one of the reasons for his papal name](https://www.theverge.com/news/664719/pope-leo-xiv-artificial-intelligence-concerns)
  - [Today&#39;s NYT Connections Hints, Answers and Help for May 11, #700](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-11-700/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints, Answer and Help for May 11, #1422](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-11-1422/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for May 11, #434](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-11-434/#ftag=CAD590a51e)
- - [Record low price: Apple&#39;s M4 iMac 24-inch drops to $1,059](https://appleinsider.com/articles/25/05/10/record-low-price-apples-m4-imac-24-inch-drops-to-1059?utm_medium=rss)
- - [Source: Tel Aviv-based AI21 Labs, which is building its own LLMs and launched an AI orchestration system in March, is raising a $300M Series D &lpar;Ben Bergman/Business Insider&rpar;](http://www.techmeme.com/250510/p14#a250510p14)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for May 11, #434](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-11-434/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

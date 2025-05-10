@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Another pov of the accident](http://9gag.com/gag/aD2VD2G)
- - 😝 [Guess who&#39;s getting laid tonight ?](http://9gag.com/gag/a872EvV)
- - 💣 [Spider tried to escape, but it ran out of silk.](http://9gag.com/gag/a7o2qRb)
+ - 😝 [Dangerous life](http://9gag.com/gag/avyRymZ)
  - 😝 [Love on the spectrum](http://9gag.com/gag/aGyAy6z)
- - 👉 [After girls night](http://9gag.com/gag/aD2VdPw)<!-- MEMES:END -->
+ - 💣 [WhatTodo](http://9gag.com/gag/aPAQ3Yg)
+ - 😝 [After girls night](http://9gag.com/gag/aD2VdPw)
+ - 👉 [Spider tried to escape, but it ran out of silk.](http://9gag.com/gag/a7o2qRb)<!-- MEMES:END -->
 
 ---
 

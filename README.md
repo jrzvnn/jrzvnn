@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The US FDA plans to deploy AI tools to all centers by June 30, 2025 to speed up scientific reviews, after completing a pilot and naming its first AI chief &lpar;Conor Hale/Fierce Biotech&rpar;](http://www.techmeme.com/250509/p26#a250509p26)
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, May 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-may-10/#ftag=CAD590a51e)
  - [Meta unveils AssetGen 2.0, an AI system that generates higher quality 3D assets compared to AssetGen 1.0, rolling out to Horizon creators later in 2025 &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250509/p25#a250509p25)
  - [Q&amp;A with SAP CEO Christian Klein on data security, Databricks partnership, building a &quot;social network for B2B&quot;, positioning SAP as a neutral player, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250509/p24#a250509p24)
- - [Donald Trump takes aim at more water and energy efficiency standards](https://www.theverge.com/news/664670/water-energy-efficiency-standards-trump-dishwasher-washing-machine-showerhead-toilet)
- - [Google will pay a $1.375 billion settlement to Texas over privacy violations](https://www.theverge.com/news/664663/google-texas-settlement-1-billion-data-privacy-violations)<!-- TECH:END -->
+ - [Donald Trump takes aim at more water and energy efficiency standards](https://www.theverge.com/news/664670/water-energy-efficiency-standards-trump-dishwasher-washing-machine-showerhead-toilet)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

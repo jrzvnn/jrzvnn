@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Cheap TVs &lpar;2025&rpar;: TCL, Hisense, and More](https://www.wired.com/gallery/best-cheap-tvs/)
+ - [Despelote is a picture-perfect portrait of childhood obsession](https://www.theverge.com/games-review/664363/despelote-review-ps5-xbox-pc)
  - [Skullcandy Method 360 ANC Review: Great Sound, Cheap Silence](https://www.wired.com/review/skullcandy-method-360-anc/)
  - [Green Chef Meal Kit Review &lpar;2025&rpar;: Excellent Gluten-Free Fare](https://www.wired.com/review/green-chef-meal-kit-2025/)
- - [iPhone 16E vs. iPhone SE &lpar;2022&rpar;: How Apple&#39;s Budget Phones Compare](https://www.cnet.com/tech/mobile/iphone-16e-vs-iphone-se-2022-how-apples-budget-phones-compare/#ftag=CAD590a51e)
- - [How to Use Your iPad as a Second Monitor With Your Mac &lpar;2025&rpar;](https://www.wired.com/story/how-to-use-your-ipad-as-a-second-monitor-with-your-mac/)
- - [Best Internet Providers in Cincinnati, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-cincinnati-oh/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 16E vs. iPhone SE &lpar;2022&rpar;: How Apple&#39;s Budget Phones Compare](https://www.cnet.com/tech/mobile/iphone-16e-vs-iphone-se-2022-how-apples-budget-phones-compare/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

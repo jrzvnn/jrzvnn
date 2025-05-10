@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to turn on Lockdown Mode for your iPhone and Mac](https://www.theverge.com/tech/663794/lockdown-mode-iphone-mac-how-to)
  - [A look at Microsoft&#39;s Threat Intelligence Center, staffed largely by ex-intelligence and military personnel, which has become a key pillar of US cyber defense &lpar;Bloomberg&rpar;](http://www.techmeme.com/250510/p9#a250510p9)
  - [The Best Cheap TVs &lpar;2025&rpar;: TCL, Hisense, and More](https://www.wired.com/gallery/best-cheap-tvs/)
  - [Despelote is a picture-perfect portrait of childhood obsession](https://www.theverge.com/games-review/664363/despelote-review-ps5-xbox-pc)
- - [Skullcandy Method 360 ANC Review: Great Sound, Cheap Silence](https://www.wired.com/review/skullcandy-method-360-anc/)
- - [Could 5G Home Internet Be the Solution to Your Household&#39;s Broadband Needs?](https://www.cnet.com/home/internet/what-is-5g-home-internet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Skullcandy Method 360 ANC Review: Great Sound, Cheap Silence](https://www.wired.com/review/skullcandy-method-360-anc/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

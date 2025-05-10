@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The guy with a spiked flail has no mercy](http://9gag.com/gag/aPAQRMB)
- - 😝 [Where do you think you\u2019re going, snack? Learn to maintain distance!](http://9gag.com/gag/a872GbZ)
- - 💣 [My bestfriend has become a girl](http://9gag.com/gag/aO8P026)
- - 😝 [Bad luck](http://9gag.com/gag/adBeg7Z)
- - 👉 [Title](http://9gag.com/gag/a0e1NKZ)<!-- MEMES:END -->
+ - 😝 [Oh cmon man, we got it for free](http://9gag.com/gag/aLnm0jx)
+ - 😝 [When glow-up goes the other way](http://9gag.com/gag/a1m2WBv)
+ - 💣 [Happens to the best of us...](http://9gag.com/gag/avyRzQW)
+ - 😝 [WhatTodo](http://9gag.com/gag/aPAQ3Yg)
+ - 👉 [Where do you think you\u2019re going, snack? Learn to maintain distance!](http://9gag.com/gag/a872GbZ)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wahmen is bad from a wahmen point of view](http://9gag.com/gag/aryqMOK)
- - 😝 [Tutorials are for noobs](http://9gag.com/gag/apRbNpB)
- - 💣 [An idiot and her bike](http://9gag.com/gag/aQzZd5w)
- - 😝 [Kid has a brain.. calling out \u201cnews\u201d shenanigans.](http://9gag.com/gag/aD2Vg6O)
- - 👉 [Wife material](http://9gag.com/gag/aW4bgPq)<!-- MEMES:END -->
+ - 😝 [A man doing slinky tricks for his audience](http://9gag.com/gag/a9y2RKD)
+ - 😝 [Why though](http://9gag.com/gag/aRBo01j)
+ - 💣 [Pineapple skin is so heat resistant that it can endure a 1000\u00b0C iron ball](http://9gag.com/gag/aAy2gpL)
+ - 😝 [Who is your favorite red head?](http://9gag.com/gag/aoyL5Ox)
+ - 👉 [The guy with a spiked flail has no mercy](http://9gag.com/gag/aPAQRMB)<!-- MEMES:END -->
 
 ---
 

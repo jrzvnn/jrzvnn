@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [A profile of OpenAI&#39;s CEO of Applications Fidji Simo, who is tasked with broadening ChatGPT amid a straining Microsoft relationship and a battle with Elon Musk &lpar;Bloomberg&rpar;](http://www.techmeme.com/250510/p7#a250510p7)
  - [Adidas’ 3D-printed sneaker review: What are those!?](https://www.theverge.com/reviews/663985/adidas-climacool-3d-printed-sneaker-review-price-specs)
  - [The Trump administration&#39;s plan to cut the budget of the NSF, considered key to US tech leadership, by about 57% to $3.9B is alarming the startup and VC sector &lpar;Jessica Mathews/Fortune&rpar;](http://www.techmeme.com/250510/p6#a250510p6)
- - [ServiceNow agrees to acquire cloud-native data catalog and data governance startup Data.World, which had raised over $130M and was valued at $350M in 2022 &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250510/p5#a250510p5)
- - [US real estate analytics provider CoStar agrees to acquire Domain, an Australian property listings website that competes with News Corp&#39;s REA, for about $1.92B &lpar;Stuart Condie/Wall Street Journal&rpar;](http://www.techmeme.com/250510/p4#a250510p4)<!-- TECH:END -->
+ - [The Pause on iPhone Tariffs Is Set to Expire After June. Should You Buy Now?](https://www.cnet.com/personal-finance/taxes/pause-on-iphone-tariffs-is-set-to-expire-after-june-should-you-buy-now/#ftag=CAD590a51e)
+ - [ServiceNow agrees to acquire cloud-native data catalog and data governance startup Data.World, which had raised over $130M and was valued at $350M in 2022 &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250510/p5#a250510p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

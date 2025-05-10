@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh cmon man, we got it for free](http://9gag.com/gag/aLnm0jx)
- - 😝 [When glow-up goes the other way](http://9gag.com/gag/a1m2WBv)
- - 💣 [Happens to the best of us...](http://9gag.com/gag/avyRzQW)
- - 😝 [WhatTodo](http://9gag.com/gag/aPAQ3Yg)
- - 👉 [Where do you think you\u2019re going, snack? Learn to maintain distance!](http://9gag.com/gag/a872GbZ)<!-- MEMES:END -->
+ - 😝 [Wahmen is bad from a wahmen point of view](http://9gag.com/gag/aryqMOK)
+ - 😝 [Tutorials are for noobs](http://9gag.com/gag/apRbNpB)
+ - 💣 [An idiot and her bike](http://9gag.com/gag/aQzZd5w)
+ - 😝 [Kid has a brain.. calling out \u201cnews\u201d shenanigans.](http://9gag.com/gag/aD2Vg6O)
+ - 👉 [Wife material](http://9gag.com/gag/aW4bgPq)<!-- MEMES:END -->
 
 ---
 

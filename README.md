@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guess who&#39;s getting laid tonight ?](http://9gag.com/gag/a872EvV)
- - 😝 [Bad luck](http://9gag.com/gag/adBeg7Z)
- - 💣 [`Playmate`](http://9gag.com/gag/a9y2q36)
- - 😝 [Happens to the best of us...](http://9gag.com/gag/avyRzQW)
- - 👉 [Where do you think you\u2019re going, snack? Learn to maintain distance!](http://9gag.com/gag/a872GbZ)<!-- MEMES:END -->
+ - 😝 [This is why i use the internet.](http://9gag.com/gag/aGyAEpK)
+ - 😝 [Kawaii](http://9gag.com/gag/amoMAP2)
+ - 💣 [Wait a sec...](http://9gag.com/gag/adBePMj)
+ - 😝 [Cosplayers](http://9gag.com/gag/azxRMVj)
+ - 👉 [White pasta sauce is now black pasta sauce](http://9gag.com/gag/aMVvEW1)<!-- MEMES:END -->
 
 ---
 

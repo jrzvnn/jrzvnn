@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wahmen is bad from a wahmen point of view](http://9gag.com/gag/aryqMOK)
- - 😝 [Tutorials are for noobs](http://9gag.com/gag/apRbNpB)
- - 💣 [An idiot and her bike](http://9gag.com/gag/aQzZd5w)
- - 😝 [Kid has a brain.. calling out \u201cnews\u201d shenanigans.](http://9gag.com/gag/aD2Vg6O)
- - 👉 [Wife material](http://9gag.com/gag/aW4bgPq)<!-- MEMES:END -->
+ - 😝 [Delicious noodle](http://9gag.com/gag/aMVvxL1)
+ - 😝 [This toilet open to the ocean below](http://9gag.com/gag/a5Q2Wxy)
+ - 💣 [Where do you think you\u2019re going, snack? Learn to maintain distance!](http://9gag.com/gag/a872GbZ)
+ - 😝 [Bad luck](http://9gag.com/gag/adBeg7Z)
+ - 👉 [The adults responsible for this little kid let her drive a mini car in the middle of the street, leading to some sort of car accident.](http://9gag.com/gag/a1m2rAw)<!-- MEMES:END -->
 
 ---
 

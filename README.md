@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wahmen is bad from a wahmen point of view](http://9gag.com/gag/aryqMOK)
- - 😝 [Tutorials are for noobs](http://9gag.com/gag/apRbNpB)
- - 💣 [An idiot and her bike](http://9gag.com/gag/aQzZd5w)
- - 😝 [Kid has a brain.. calling out \u201cnews\u201d shenanigans.](http://9gag.com/gag/aD2Vg6O)
- - 👉 [Wife material](http://9gag.com/gag/aW4bgPq)<!-- MEMES:END -->
+ - 😝 [WhatTodo](http://9gag.com/gag/aPAQ3Yg)
+ - 😝 [From `wtf` to `wait, that&#39;s actually good`](http://9gag.com/gag/a4P21gQ)
+ - 💣 [This Spider has 3 egg sacks, is pregnant with a 4th, and has 2 entire rodents on display in its web.](http://9gag.com/gag/an7Eg4E)
+ - 😝 [Happens to the best of us...](http://9gag.com/gag/avyRzQW)
+ - 👉 [When glow-up goes the other way](http://9gag.com/gag/a1m2WBv)<!-- MEMES:END -->
 
 ---
 

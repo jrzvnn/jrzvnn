@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait a sec...](http://9gag.com/gag/adBePMj)
- - 😝 [Helpful guide to know which Social site to be on.](http://9gag.com/gag/aAy2GgZ)
- - 💣 [Cosplayers](http://9gag.com/gag/azxRMVj)
- - 😝 [Wife material](http://9gag.com/gag/aW4bgPq)
- - 👉 [Love on the spectrum](http://9gag.com/gag/aGyAy6z)<!-- MEMES:END -->
+ - 😝 [Absolute conversationalist](http://9gag.com/gag/a2v2WXD)
+ - 😝 [This Spider has 3 egg sacks, is pregnant with a 4th, and has 2 entire rodents on display in its web.](http://9gag.com/gag/an7Eg4E)
+ - 💣 [9gaggers and their low standards be like](http://9gag.com/gag/a872ERp)
+ - 😝 [The race against time to get to a decompression chamber](http://9gag.com/gag/a9y2zDW)
+ - 👉 [Spider tried to escape, but it ran out of silk.](http://9gag.com/gag/a7o2qRb)<!-- MEMES:END -->
 
 ---
 

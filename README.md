@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hit different with the song.](http://9gag.com/gag/a5Q2QZo)
  - 😝 [Wait a sec...](http://9gag.com/gag/adBePMj)
- - 💣 [Cosplayers](http://9gag.com/gag/azxRMVj)
  - 😝 [Helpful guide to know which Social site to be on.](http://9gag.com/gag/aAy2GgZ)
- - 👉 [How does he make it seem to alive at points, and even leap from his arms? It&#39;s so quick!](http://9gag.com/gag/a87277O)<!-- MEMES:END -->
+ - 💣 [Cosplayers](http://9gag.com/gag/azxRMVj)
+ - 😝 [Wife material](http://9gag.com/gag/aW4bgPq)
+ - 👉 [Love on the spectrum](http://9gag.com/gag/aGyAy6z)<!-- MEMES:END -->
 
 ---
 

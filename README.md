@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tutorials are for noobs](http://9gag.com/gag/apRbNpB)
- - 😝 [That night stuffs awakened in the male spectators](http://9gag.com/gag/aYQqyn0)
- - 💣 [After girls night](http://9gag.com/gag/aD2VdPw)
  - 😝 [Happens to the best of us...](http://9gag.com/gag/avyRzQW)
- - 👉 [WhatTodo](http://9gag.com/gag/aPAQ3Yg)<!-- MEMES:END -->
+ - 😝 [After girls night](http://9gag.com/gag/aD2VdPw)
+ - 💣 [That night stuffs awakened in the male spectators](http://9gag.com/gag/aYQqyn0)
+ - 😝 [WhatTodo](http://9gag.com/gag/aPAQ3Yg)
+ - 👉 [Guess who&#39;s getting laid tonight ?](http://9gag.com/gag/a872EvV)<!-- MEMES:END -->
 
 ---
 

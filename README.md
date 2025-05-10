@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Students use phone locking stations at Scotland\u2019s first &#39;phone-free&#39; school](http://9gag.com/gag/aGyAp4w)
- - 😝 [Another pov of the accident](http://9gag.com/gag/aD2VD2G)
- - 💣 [WhatTodo](http://9gag.com/gag/aPAQ3Yg)
+ - 😝 [The accuracy with which she plays](http://9gag.com/gag/a6Z2Ed8)
+ - 😝 [This Spider has 3 egg sacks, is pregnant with a 4th, and has 2 entire rodents on display in its web.](http://9gag.com/gag/an7Eg4E)
+ - 💣 [Another pov of the accident](http://9gag.com/gag/aD2VD2G)
  - 😝 [Bad luck](http://9gag.com/gag/adBeg7Z)
- - 👉 [Spider tried to escape, but it ran out of silk.](http://9gag.com/gag/a7o2qRb)<!-- MEMES:END -->
+ - 👉 [After girls night](http://9gag.com/gag/aD2VdPw)<!-- MEMES:END -->
 
 ---
 

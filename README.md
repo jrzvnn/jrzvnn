@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta unveils AssetGen 2.0, an AI system that generates higher quality 3D assets compared to AssetGen 1.0, rolling out to Horizon creators later in 2025 &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250509/p25#a250509p25)
+ - [Q&amp;A with SAP CEO Christian Klein on data security, Databricks partnership, building a &quot;social network for B2B&quot;, positioning SAP as a neutral player, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250509/p24#a250509p24)
  - [Donald Trump takes aim at more water and energy efficiency standards](https://www.theverge.com/news/664670/water-energy-efficiency-standards-trump-dishwasher-washing-machine-showerhead-toilet)
  - [Google will pay a $1.375 billion settlement to Texas over privacy violations](https://www.theverge.com/news/664663/google-texas-settlement-1-billion-data-privacy-violations)
- - [Best Portable Projector for Movies and Gaming Anywhere for 2025](https://www.cnet.com/tech/home-entertainment/best-portable-projector/#ftag=CAD590a51e)
- - [Google agrees to pay Texas $1.4B to settle two lawsuits claiming it tracks Texans&#39; personal location and maintains their facial recognition data without consent &lpar;Ryan Autullo/Bloomberg Law&rpar;](http://www.techmeme.com/250509/p23#a250509p23)
- - [Pinterest agrees to pay $34.7M to settle a 2021 lawsuit from Christine Martinez, an early adviser who claimed she co-created the platform without compensation &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/250509/p22#a250509p22)<!-- TECH:END -->
+ - [Best Portable Projector for Movies and Gaming Anywhere for 2025](https://www.cnet.com/tech/home-entertainment/best-portable-projector/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

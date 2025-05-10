@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Whoop backpedals on its paid upgrade whoops](https://www.theverge.com/news/664703/whoop-backpedals-on-its-paid-upgrade-whoops)
  - [Q&amp;A with Sonos interim CEO Tom Conrad on the disastrous app redesign, the Ace headphones, subscriptions, the canceled video player, Google, and more &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/250510/p12#a250510p12)
  - [Premier League Soccer: Stream Bournemouth vs. Aston Villa Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-bournemouth-vs-aston-villa-live-from-anywhere/#ftag=CAD590a51e)
  - [Pope Leo XIV says he chose his name to honor Pope Leo XIII&#39;s work during the first industrial revolution, as AI poses challenges in a new industrial revolution &lpar;Lauren Kent/CNN&rpar;](http://www.techmeme.com/250510/p11#a250510p11)
- - [Samsung Galaxy S25 Edge: What We Know Ahead of the Slim Phone&#39;s May 12 Debut](https://www.cnet.com/tech/mobile/samsung-galaxy-s25-edge-what-we-know-ahead-of-the-slim-phones-may-12-debut/#ftag=CAD590a51e)
- - [SoundCloud says it isn&amp;#8217;t using your music to train generative AI tools](https://www.theverge.com/news/664683/soundcloud-denies-training-ai-with-user-music)<!-- TECH:END -->
+ - [Samsung Galaxy S25 Edge: What We Know Ahead of the Slim Phone&#39;s May 12 Debut](https://www.cnet.com/tech/mobile/samsung-galaxy-s25-edge-what-we-know-ahead-of-the-slim-phones-may-12-debut/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

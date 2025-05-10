@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Delicious noodle](http://9gag.com/gag/aMVvxL1)
- - 😝 [This toilet open to the ocean below](http://9gag.com/gag/a5Q2Wxy)
- - 💣 [Where do you think you\u2019re going, snack? Learn to maintain distance!](http://9gag.com/gag/a872GbZ)
+ - 😝 [That night stuffs awakened in the male spectators](http://9gag.com/gag/aYQqyn0)
+ - 😝 [Where do you think you\u2019re going, snack? Learn to maintain distance!](http://9gag.com/gag/a872GbZ)
+ - 💣 [Pineapple skin is so heat resistant that it can endure a 1000\u00b0C iron ball](http://9gag.com/gag/aAy2gpL)
  - 😝 [Bad luck](http://9gag.com/gag/adBeg7Z)
- - 👉 [The adults responsible for this little kid let her drive a mini car in the middle of the street, leading to some sort of car accident.](http://9gag.com/gag/a1m2rAw)<!-- MEMES:END -->
+ - 👉 [When glow-up goes the other way](http://9gag.com/gag/a1m2WBv)<!-- MEMES:END -->
 
 ---
 

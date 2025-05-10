@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Skullcandy Method 360 ANC Review: Great Sound, Cheap Silence](https://www.wired.com/review/skullcandy-method-360-anc/)
  - [Green Chef Meal Kit Review &lpar;2025&rpar;: Excellent Gluten-Free Fare](https://www.wired.com/review/green-chef-meal-kit-2025/)
+ - [iPhone 16E vs. iPhone SE &lpar;2022&rpar;: How Apple&#39;s Budget Phones Compare](https://www.cnet.com/tech/mobile/iphone-16e-vs-iphone-se-2022-how-apples-budget-phones-compare/#ftag=CAD590a51e)
  - [How to Use Your iPad as a Second Monitor With Your Mac &lpar;2025&rpar;](https://www.wired.com/story/how-to-use-your-ipad-as-a-second-monitor-with-your-mac/)
- - [Dismantling NOAA Threatens the World’s Ability to Monitor Carbon Dioxide Levels](https://www.wired.com/story/how-the-dismantling-of-noaa-threatens-the-keeling-curve/)
- - [The 25 Best Shows on Amazon Prime Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)
- - [A study finds that asking LLMs to be concise in their answers, particularly on ambiguous topics, can negatively affect factuality and worsen hallucinations &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250510/p8#a250510p8)<!-- TECH:END -->
+ - [Best Internet Providers in Cincinnati, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-cincinnati-oh/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

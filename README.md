@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [`Playmate`](http://9gag.com/gag/a9y2q36)
+ - 😝 [Ghost of Oblivion](http://9gag.com/gag/aO8PxM2)
+ - 💣 [Two types of girls.](http://9gag.com/gag/aPAQm0R)
  - 😝 [Hollywood](http://9gag.com/gag/a9y2zv1)
- - 😝 [After girls night](http://9gag.com/gag/aD2VdPw)
- - 💣 [Ghost of Oblivion](http://9gag.com/gag/aO8PxM2)
- - 😝 [Just A Floating Glove And Boots Right\ud83d\ude0f](http://9gag.com/gag/a342128)
- - 👉 [Bad luck](http://9gag.com/gag/adBeg7Z)<!-- MEMES:END -->
+ - 👉 [Join me on my quest](http://9gag.com/gag/aMVvBjW)<!-- MEMES:END -->
 
 ---
 

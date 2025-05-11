@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Playmate`](http://9gag.com/gag/a9y2q36)
- - 😝 [Ghost of Oblivion](http://9gag.com/gag/aO8PxM2)
- - 💣 [Two types of girls.](http://9gag.com/gag/aPAQm0R)
  - 😝 [Hollywood](http://9gag.com/gag/a9y2zv1)
- - 👉 [Join me on my quest](http://9gag.com/gag/aMVvBjW)<!-- MEMES:END -->
+ - 😝 [Spider tried to escape, but it ran out of silk.](http://9gag.com/gag/a7o2qRb)
+ - 💣 [I need instructions](http://9gag.com/gag/amoMWW9)
+ - 😝 [3 lies and 1 truth ahhh !!](http://9gag.com/gag/a9y2yjZ)
+ - 👉 [After girls night](http://9gag.com/gag/aD2VdPw)<!-- MEMES:END -->
 
 ---
 

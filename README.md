@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I need instructions](http://9gag.com/gag/amoMWW9)
  - 😝 [Bad luck](http://9gag.com/gag/adBeg7Z)
- - 😝 [Just A Floating Glove And Boots Right\ud83d\ude0f](http://9gag.com/gag/a342128)
- - 💣 [As matt rife said, the replacement](http://9gag.com/gag/aByGyQD)
- - 😝 [Stuff we missed as kids](http://9gag.com/gag/avyRA9W)
- - 👉 [Shit just got interesting..!!](http://9gag.com/gag/an7Eg95)<!-- MEMES:END -->
+ - 💣 [Just A Floating Glove And Boots Right\ud83d\ude0f](http://9gag.com/gag/a342128)
+ - 😝 [Spider tried to escape, but it ran out of silk.](http://9gag.com/gag/a7o2qRb)
+ - 👉 [Feel bad for the guy that did this with his wife.](http://9gag.com/gag/awydgmr)<!-- MEMES:END -->
 
 ---
 

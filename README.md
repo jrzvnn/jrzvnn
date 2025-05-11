@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spider tried to escape, but it ran out of silk.](http://9gag.com/gag/a7o2qRb)
- - 😝 [Stuff we missed as kids](http://9gag.com/gag/avyRA9W)
- - 💣 [Absolute cinema](http://9gag.com/gag/ayNR3Oq)
- - 😝 [Yes it&#39;s the corn cob girl](http://9gag.com/gag/a6Z29wm)
- - 👉 [Ghost of Oblivion](http://9gag.com/gag/aO8PxM2)<!-- MEMES:END -->
+ - 😝 [What I found perusing Temu](http://9gag.com/gag/ayNR4pX)
+ - 😝 [Feel bad for the guy that did this with his wife.](http://9gag.com/gag/awydgmr)
+ - 💣 [Spider tried to escape, but it ran out of silk.](http://9gag.com/gag/a7o2qRb)
+ - 😝 [When cut scenes are made on the game engine](http://9gag.com/gag/aPAQmXP)
+ - 👉 [Oh hell no](http://9gag.com/gag/aXPWPo6)<!-- MEMES:END -->
 
 ---
 

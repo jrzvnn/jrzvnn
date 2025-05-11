@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yes it&#39;s the corn cob girl](http://9gag.com/gag/a6Z29wm)
- - 😝 [What&#39;s up my negar ?](http://9gag.com/gag/ajPZ1dQ)
- - 💣 [When cut scenes are made on the game engine](http://9gag.com/gag/aPAQmXP)
- - 😝 [Finally!!](http://9gag.com/gag/a7o2e0r)
- - 👉 [A wish is a wish](http://9gag.com/gag/abABORb)<!-- MEMES:END -->
+ - 😝 [Would you ride this one?](http://9gag.com/gag/azxR57p)
+ - 😝 [Dirty tart](http://9gag.com/gag/a2v2wOY)
+ - 💣 [I need instructions](http://9gag.com/gag/amoMWW9)
+ - 😝 [Feel bad for the guy that did this with his wife.](http://9gag.com/gag/awydgmr)
+ - 👉 [Anyway, here&#39;s the view of Dubai](http://9gag.com/gag/aGyA860)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Giant Bomb goes independent](https://www.theverge.com/news/664747/giant-bomb-independent-gaming-site-employee-owned)
+ - [What lies beneath: filming gators in Florida springs](https://www.theverge.com/art-club/656586/florida-spring-underwater-photographer-youtuber-snorkeling)
  - [Apple&#39;s 2027 lineup is packed with new product launches](https://appleinsider.com/articles/25/05/11/apples-2027-lineup-is-packed-with-new-product-launches?utm_medium=rss)
  - [Sources: OpenAI is negotiating with Microsoft to enable a future IPO; Microsoft offers to cut its equity stake for continued access to OpenAI tech beyond 2030 &lpar;Financial Times&rpar;](http://www.techmeme.com/250511/p9#a250511p9)
- - [The 12 Best Gifts for Every Kind of Golfer &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-golfers/)
- - [Samsung Odyssey 3D &lpar;G90XF&rpar; Review: The Future of 3D Screens](https://www.wired.com/review/samsung-odyssey-3d-27-inch-g90xf/)
- - [Expedition 33’s big twist was designed to &amp;#8216;inflict the pain on the player&amp;#8217;](https://www.theverge.com/games/664492/clair-obscur-expedition-33-twist-spoilers)<!-- TECH:END -->
+ - [The 12 Best Gifts for Every Kind of Golfer &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-golfers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

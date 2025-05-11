@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I did.](http://9gag.com/gag/aRBoZ47)
- - 😝 [Feel bad for the guy that did this with his wife.](http://9gag.com/gag/awydgmr)
+ - 😝 [I hope both sides have fun regardless of politics](http://9gag.com/gag/aO8P212)
+ - 😝 [Spider tried to escape, but it ran out of silk.](http://9gag.com/gag/a7o2qRb)
  - 💣 [Weird, weird](http://9gag.com/gag/aByG6Vz)
- - 😝 [Hollywood](http://9gag.com/gag/a9y2zv1)
- - 👉 [Spider tried to escape, but it ran out of silk.](http://9gag.com/gag/a7o2qRb)<!-- MEMES:END -->
+ - 😝 [Would you ride this one?](http://9gag.com/gag/azxR57p)
+ - 👉 [I need instructions](http://9gag.com/gag/amoMWW9)<!-- MEMES:END -->
 
 ---
 

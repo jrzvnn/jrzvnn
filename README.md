@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As the consumer metaverse falters, the World Economic Forum projects the industrial metaverse will reach $100B by 2030, led by platforms like Nvidia Omniverse &lpar;Nicole Kobie/Wired&rpar;](http://www.techmeme.com/250511/p10#a250511p10)
+ - [Touchscreen Macs, folding iPads to arrive before the end of the decade](https://appleinsider.com/articles/25/05/11/touchscreen-macs-folding-ipads-to-arrive-before-the-end-of-the-decade?utm_medium=rss)
  - [Giant Bomb goes independent](https://www.theverge.com/news/664747/giant-bomb-independent-gaming-site-employee-owned)
  - [Hack Your Happiness With These 7 Daily Habits](https://www.cnet.com/health/mental/hack-your-happiness-with-these-7-daily-habits/#ftag=CAD590a51e)
  - [What lies beneath: filming gators in Florida springs](https://www.theverge.com/art-club/656586/florida-spring-underwater-photographer-youtuber-snorkeling)

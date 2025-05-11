@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh hell no](http://9gag.com/gag/aXPWPo6)
- - 😝 [Students use phone locking stations at Scotland\u2019s first &#39;phone-free&#39; school](http://9gag.com/gag/aGyAp4w)
- - 💣 [Spider tried to escape, but it ran out of silk.](http://9gag.com/gag/a7o2qRb)
- - 😝 [Absolute conversationalist](http://9gag.com/gag/a2v2WXD)
- - 👉 [After girls night](http://9gag.com/gag/aD2VdPw)<!-- MEMES:END -->
+ - 😝 [Not every politician is a lier](http://9gag.com/gag/aMVvEGx)
+ - 😝 [After girls night](http://9gag.com/gag/aD2VdPw)
+ - 💣 [Shit just got interesting..!!](http://9gag.com/gag/an7Eg95)
+ - 😝 [Don&#39;t know why, but someone will be offended by this post](http://9gag.com/gag/avyRAoq)
+ - 👉 [Poor snake](http://9gag.com/gag/awydZ18)<!-- MEMES:END -->
 
 ---
 

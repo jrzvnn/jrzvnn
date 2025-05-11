@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US SEC filing: Vanguard marks down Ola&#39;s valuation to $1.25B, a drop of 80%+ from a 2021 peak of $7.3B, as the ride-hailing company loses market share in India &lpar;Harsh Upadhyay/Entrackr&rpar;](http://www.techmeme.com/250511/p2#a250511p2)
  - [Amsterdam-based AppSignal, which develops an app monitoring tool that it says is used by 2,000+ organizations, raised a $22M Series A led by Elsewhere Partners &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250511/p1#a250511p1)
  - [Sources: the Trump administration fires US Copyright Office head Shira Perlmutter; her office had raised concerns about using copyrighted content to train AI &lpar;Scott Macfarlane/CBS News&rpar;](http://www.techmeme.com/250510/p19#a250510p19)
  - [Sources: the Trump admin plans to end Energy Star, a voluntary program started in 1992 to promote energy savings, initially aimed at PCs, monitors, and printers &lpar;Marianne Lavelle/Inside Climate News&rpar;](http://www.techmeme.com/250510/p18#a250510p18)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 11, #230](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-11-230/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, May 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-may-11/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 11, #230](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-11-230/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

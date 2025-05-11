@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hi, one day you will die](http://9gag.com/gag/aGyAEGw)
- - 😝 [Love on the spectrum](http://9gag.com/gag/aGyAy6z)
- - 💣 [When cut scenes are made on the game engine](http://9gag.com/gag/aPAQmXP)
- - 😝 [What&#39;s up my negar ?](http://9gag.com/gag/ajPZ1dQ)
- - 👉 [Finally!!](http://9gag.com/gag/a7o2e0r)<!-- MEMES:END -->
+ - 😝 [Weird, weird](http://9gag.com/gag/aByG6Vz)
+ - 😝 [Spider tried to escape, but it ran out of silk.](http://9gag.com/gag/a7o2qRb)
+ - 💣 [Feel bad for the guy that did this with his wife.](http://9gag.com/gag/awydgmr)
+ - 😝 [Would you ride this one?](http://9gag.com/gag/azxR57p)
+ - 👉 [Dirty tart](http://9gag.com/gag/a2v2wOY)<!-- MEMES:END -->
 
 ---
 

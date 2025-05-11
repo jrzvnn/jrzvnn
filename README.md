@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [CMU researchers unveil LegoGPT, an AI model that designs physically stable Lego structures from text prompts and currently supports eight standard brick types &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/250511/p6#a250511p6)
  - [London-based StackOne, which develops tech to integrate SaaS products and AI agents with enterprise systems more efficiently, raised a $20M Series A led by GV &lpar;Vishal Singh/Silicon Canals&rpar;](http://www.techmeme.com/250511/p5#a250511p5)
  - [Thoma Bravo invests $100M+ in HubSync, a Tennessee-based tax and accounting automation and client experience platform for accounting firms and tax professionals &lpar;FinSMEs&rpar;](http://www.techmeme.com/250511/p4#a250511p4)
- - [Lloyd&#39;s of London insurers launch a product to cover companies for losses caused by AI chatbot errors; the policies are developed by YC-backed startup Armilla &lpar;Financial Times&rpar;](http://www.techmeme.com/250511/p3#a250511p3)<!-- TECH:END -->
+ - [Lloyd&#39;s of London insurers have launched a product to cover companies for losses if sued over AI chatbot errors, with policies developed by YC-backed Armilla &lpar;Financial Times&rpar;](http://www.techmeme.com/250511/p3#a250511p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

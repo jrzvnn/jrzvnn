@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t know why, but someone will be offended by this post](http://9gag.com/gag/avyRAoq)
  - 😝 [A talented juggler](http://9gag.com/gag/a2v273E)
- - 💣 [Another pov of the accident](http://9gag.com/gag/aD2VD2G)
- - 😝 [Shit just got interesting..!!](http://9gag.com/gag/an7Eg95)
- - 👉 [Oh hell no](http://9gag.com/gag/aXPWPo6)<!-- MEMES:END -->
+ - 😝 [Deepfakes are getting insane...](http://9gag.com/gag/a7o2EDr)
+ - 💣 [The race against time to get to a decompression chamber](http://9gag.com/gag/a9y2zDW)
+ - 😝 [Oh hell no](http://9gag.com/gag/aXPWPo6)
+ - 👉 [Hollywood](http://9gag.com/gag/a9y2zv1)<!-- MEMES:END -->
 
 ---
 

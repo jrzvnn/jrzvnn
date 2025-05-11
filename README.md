@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amsterdam-based AppSignal, which develops an app monitoring tool that it says is used by 2,000+ organizations, raised a $22M Series A led by Elsewhere Partners &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250511/p1#a250511p1)
  - [Sources: the Trump administration fires US Copyright Office head Shira Perlmutter; her office had raised concerns about using copyrighted content to train AI &lpar;Scott Macfarlane/CBS News&rpar;](http://www.techmeme.com/250510/p19#a250510p19)
  - [Sources: the Trump admin plans to end Energy Star, a voluntary program started in 1992 to promote energy savings, initially aimed at PCs, monitors, and printers &lpar;Marianne Lavelle/Inside Climate News&rpar;](http://www.techmeme.com/250510/p18#a250510p18)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 11, #230](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-11-230/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, May 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-may-11/#ftag=CAD590a51e)
- - [TSOLife, whose software is in use in 1,300 senior living facilities in 47 US states, raised a $43M Series B led by PeakSpan, bringing its total funding to $52M &lpar;Erin Brodwin/Axios&rpar;](http://www.techmeme.com/250510/p17#a250510p17)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, May 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-may-11/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

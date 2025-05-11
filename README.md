@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple wants to simplify adding multiple devices to captive Wi-Fi](https://appleinsider.com/articles/25/05/11/apple-wants-to-simplify-adding-multiple-devices-to-captive-wi-fi?utm_medium=rss)
+ - [17 Giftable Subscription Boxes &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-subscription-gift-boxes/)
  - [Whoop backpedals on its paid upgrade whoops](https://www.theverge.com/news/664703/whoop-backpedals-on-its-paid-upgrade-whoops)
  - [United’s Starlink-powered Wi-Fi is the end of airplane mode](https://www.theverge.com/planes/664485/united-starlink-wifi-test-download-upload-speed-latency)
- - [25 Best Gifts for Frequent Travelers &lpar;2025&rpar;](https://www.wired.com/gallery/best-travel-gifts/)
- - [The one controller to &lpar;almost&rpar; rule them all](https://www.theverge.com/installer-newsletter/664397/backbone-pro-controller-surface-pro-poker-face-installer)
- - [De’Longhi Rivelia Espresso Machine Review &lpar;2025&rpar;: A Fine Froth](https://www.wired.com/review/delonghi-rivelia-espresso-machine/)<!-- TECH:END -->
+ - [25 Best Gifts for Frequent Travelers &lpar;2025&rpar;](https://www.wired.com/gallery/best-travel-gifts/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

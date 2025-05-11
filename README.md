@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: OpenAI is negotiating with Microsoft to enable a future IPO; Microsoft offers to cut its equity stake for continued access to OpenAI tech beyond 2030 &lpar;Financial Times&rpar;](http://www.techmeme.com/250511/p9#a250511p9)
+ - [The 12 Best Gifts for Every Kind of Golfer &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-golfers/)
  - [Samsung Odyssey 3D &lpar;G90XF&rpar; Review: The Future of 3D Screens](https://www.wired.com/review/samsung-odyssey-3d-27-inch-g90xf/)
  - [Expedition 33’s big twist was designed to &amp;#8216;inflict the pain on the player&amp;#8217;](https://www.theverge.com/games/664492/clair-obscur-expedition-33-twist-spoilers)
- - [Apple wants to simplify adding multiple devices to captive Wi-Fi](https://appleinsider.com/articles/25/05/11/apple-wants-to-simplify-adding-multiple-devices-to-captive-wi-fi?utm_medium=rss)
- - [17 Giftable Subscription Boxes &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-subscription-gift-boxes/)
- - [Whoop backpedals on its paid upgrade whoops](https://www.theverge.com/news/664703/whoop-backpedals-on-its-paid-upgrade-whoops)<!-- TECH:END -->
+ - [Apple wants to simplify adding multiple devices to captive Wi-Fi](https://appleinsider.com/articles/25/05/11/apple-wants-to-simplify-adding-multiple-devices-to-captive-wi-fi?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dirty tart](http://9gag.com/gag/a2v2wOY)
- - 😝 [Feel bad for the guy that did this with his wife.](http://9gag.com/gag/awydgmr)
- - 💣 [Weird, weird](http://9gag.com/gag/aByG6Vz)
- - 😝 [When cut scenes are made on the game engine](http://9gag.com/gag/aPAQmXP)
- - 👉 [Would you ride this one?](http://9gag.com/gag/azxR57p)<!-- MEMES:END -->
+ - 😝 [I need instructions](http://9gag.com/gag/amoMWW9)
+ - 😝 [Weird, weird](http://9gag.com/gag/aByG6Vz)
+ - 💣 [Would you ride this one?](http://9gag.com/gag/azxR57p)
+ - 😝 [Oh hell no](http://9gag.com/gag/aXPWPo6)
+ - 👉 [When cut scenes are made on the game engine](http://9gag.com/gag/aPAQmXP)<!-- MEMES:END -->
 
 ---
 

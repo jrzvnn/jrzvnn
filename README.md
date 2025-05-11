@@ -157,8 +157,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [De’Longhi Rivelia Espresso Machine Review &lpar;2025&rpar;: A Fine Froth](https://www.wired.com/review/delonghi-rivelia-espresso-machine/)
  - [Intelligence on Earth Evolved Independently at Least Twice](https://www.wired.com/story/intelligence-evolved-at-least-twice-in-vertebrate-animals/)
- - [Best Internet Providers in San Jose, California](https://www.cnet.com/home/internet/best-internet-providers-in-san-jose-ca/#ftag=CAD590a51e)
  - [MSG Is &lpar;Once Again&rpar; Back on the Table](https://www.wired.com/story/msg-is-back/)
  - [Q&amp;A with Anthropic co-founder Jack Clark on the parts of the economy AGI will affect last, why he&#39;s relatively bearish on AI-fueled economic growth, and more &lpar;Tyler Cowen/Conversations with Tyler&rpar;](http://www.techmeme.com/250511/p8#a250511p8)
  - [Map Your Summer Hikes on Your iPhone With This iOS Feature](https://www.cnet.com/tech/services-and-software/map-your-summer-hikes-on-your-iphone-with-this-ios-feature/#ftag=CAD590a51e)<!-- TECH:END -->

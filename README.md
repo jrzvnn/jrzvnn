@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [5 Generations Of Women!](http://9gag.com/gag/axyRMvp)
- - 😝 [That&#39;s gonna hurt](http://9gag.com/gag/avyR5Bq)
- - 💣 [A talented juggler](http://9gag.com/gag/a2v273E)
- - 😝 [Scarlett Johansson auditions for the role of Judy Shepherd for Jumanji that eventually went to Kirsten Dunst in 1994](http://9gag.com/gag/aoyLyW0)
- - 👉 [Triple caution!](http://9gag.com/gag/awydMPx)<!-- MEMES:END -->
+ - 😝 [Don&#39;t know why, but someone will be offended by this post](http://9gag.com/gag/avyRAoq)
+ - 😝 [A talented juggler](http://9gag.com/gag/a2v273E)
+ - 💣 [Another pov of the accident](http://9gag.com/gag/aD2VD2G)
+ - 😝 [Shit just got interesting..!!](http://9gag.com/gag/an7Eg95)
+ - 👉 [Oh hell no](http://9gag.com/gag/aXPWPo6)<!-- MEMES:END -->
 
 ---
 

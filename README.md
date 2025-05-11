@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I need instructions](http://9gag.com/gag/amoMWW9)
- - 😝 [Weird, weird](http://9gag.com/gag/aByG6Vz)
- - 💣 [Would you ride this one?](http://9gag.com/gag/azxR57p)
- - 😝 [Oh hell no](http://9gag.com/gag/aXPWPo6)
- - 👉 [When cut scenes are made on the game engine](http://9gag.com/gag/aPAQmXP)<!-- MEMES:END -->
+ - 😝 [Hi, one day you will die](http://9gag.com/gag/aGyAEGw)
+ - 😝 [Love on the spectrum](http://9gag.com/gag/aGyAy6z)
+ - 💣 [When cut scenes are made on the game engine](http://9gag.com/gag/aPAQmXP)
+ - 😝 [What&#39;s up my negar ?](http://9gag.com/gag/ajPZ1dQ)
+ - 👉 [Finally!!](http://9gag.com/gag/a7o2e0r)<!-- MEMES:END -->
 
 ---
 

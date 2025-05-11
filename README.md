@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I hope both sides have fun regardless of politics](http://9gag.com/gag/aO8P212)
- - 😝 [Spider tried to escape, but it ran out of silk.](http://9gag.com/gag/a7o2qRb)
- - 💣 [Weird, weird](http://9gag.com/gag/aByG6Vz)
- - 😝 [Would you ride this one?](http://9gag.com/gag/azxR57p)
- - 👉 [I need instructions](http://9gag.com/gag/amoMWW9)<!-- MEMES:END -->
+ - 😝 [Yes it&#39;s the corn cob girl](http://9gag.com/gag/a6Z29wm)
+ - 😝 [What&#39;s up my negar ?](http://9gag.com/gag/ajPZ1dQ)
+ - 💣 [When cut scenes are made on the game engine](http://9gag.com/gag/aPAQmXP)
+ - 😝 [Finally!!](http://9gag.com/gag/a7o2e0r)
+ - 👉 [A wish is a wish](http://9gag.com/gag/abABORb)<!-- MEMES:END -->
 
 ---
 

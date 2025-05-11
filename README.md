@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [A talented juggler](http://9gag.com/gag/a2v273E)
- - 😝 [Love on the spectrum](http://9gag.com/gag/aGyAy6z)
- - 💣 [5 Generations Of Women!](http://9gag.com/gag/axyRMvp)
- - 😝 [Oh hell no](http://9gag.com/gag/aXPWPo6)
- - 👉 [Hollywood](http://9gag.com/gag/a9y2zv1)<!-- MEMES:END -->
+ - 😝 [Ghost of Oblivion](http://9gag.com/gag/aO8PxM2)
+ - 💣 [Oh hell no](http://9gag.com/gag/aXPWPo6)
+ - 😝 [5 Generations Of Women!](http://9gag.com/gag/axyRMvp)
+ - 👉 [Bad luck](http://9gag.com/gag/adBeg7Z)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Whitney Wolfe Herd about returning as Bumble CEO, Tinder lawsuit, being bullish about using AI in dating apps, funding for female founders, and more &lpar;Lulu Garcia-Navarro/New York Times&rpar;](http://www.techmeme.com/250511/p11#a250511p11)
  - [Trump fires head of Copyright Office two days following report that AI training may not be fair use](https://www.theverge.com/news/664768/trump-fires-us-copyright-office-head)
- - [Best Backpacking Sleeping Pads &lpar;2025&rpar;, WIRED Tested and Reviewed](https://www.wired.com/gallery/best-backpacking-sleeping-pads/)
- - [Touchscreen Macs, folding iPads to arrive before the end of the decade](https://appleinsider.com/articles/25/05/11/touchscreen-macs-folding-ipads-to-arrive-before-the-end-of-the-decade?utm_medium=rss)
- - [As the consumer metaverse falters, the World Economic Forum projects the industrial metaverse will reach $100B by 2030, led by platforms like Nvidia Omniverse &lpar;Nicole Kobie/Wired&rpar;](http://www.techmeme.com/250511/p10#a250511p10)
- - [Giant Bomb goes independent](https://www.theverge.com/news/664747/giant-bomb-independent-gaming-site-employee-owned)<!-- TECH:END -->
+ - [Streaming on Max: The 27 Absolute Best Movies to Watch](https://www.cnet.com/tech/services-and-software/best-movies-on-max-may-2025/#ftag=CAD590a51e)
+ - [AI Essentials: 27 Ways to Make Gen AI Work for You, According to Our Experts](https://www.cnet.com/tech/services-and-software/features/ai-essentials-27-ways-to-make-gen-ai-work-for-you-according-to-our-experts/#ftag=CAD590a51e)
+ - [Best Backpacking Sleeping Pads &lpar;2025&rpar;, WIRED Tested and Reviewed](https://www.wired.com/gallery/best-backpacking-sleeping-pads/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

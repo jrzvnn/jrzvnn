@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anyway, here&#39;s the view of Dubai](http://9gag.com/gag/aGyA860)
- - 😝 [Join me on my quest](http://9gag.com/gag/aMVvBjW)
- - 💣 [Two types of girls.](http://9gag.com/gag/aPAQm0R)
- - 😝 [Oh hell no](http://9gag.com/gag/aXPWPo6)
- - 👉 [Actor Performs Stunning Fire Scene](http://9gag.com/gag/agm41bw)<!-- MEMES:END -->
+ - 😝 [Aye on point](http://9gag.com/gag/a872A03)
+ - 😝 [Looking at you Big 4.](http://9gag.com/gag/azxRPom)
+ - 💣 [Make the right choices my fellow retards](http://9gag.com/gag/an7En4q)
+ - 😝 [Actor Performs Stunning Fire Scene](http://9gag.com/gag/agm41bw)
+ - 👉 [I did.](http://9gag.com/gag/aRBoZ47)<!-- MEMES:END -->
 
 ---
 

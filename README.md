@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the Trump admin plans to end Energy Star, a voluntary program started in 1992 to promote energy savings, initially aimed at PCs, monitors, and printers &lpar;Marianne Lavelle/Inside Climate News&rpar;](http://www.techmeme.com/250510/p18#a250510p18)
  - [TSOLife, whose software is in use in 1,300 senior living facilities in 47 US states, raised a $43M Series B led by PeakSpan, bringing its total funding to $52M &lpar;Erin Brodwin/Axios&rpar;](http://www.techmeme.com/250510/p17#a250510p17)
  - [Klarna, which said in 2024 that AI was doing the work of 700 customer service agents, starts hiring remote workers after the AI approach led to &quot;lower quality&quot; &lpar;Charles Daly/Bloomberg&rpar;](http://www.techmeme.com/250510/p16#a250510p16)
  - [The FTC puts off enforcing its ‘click-to-cancel’ rule](https://www.theverge.com/news/664730/ftc-delay-click-to-cancel-rule)
- - [Best Internet Providers in Michigan](https://www.cnet.com/home/internet/best-internet-providers-in-michigan/#ftag=CAD590a51e)
- - [The FTC pushes the enforcement of its &quot;click-to-cancel&quot; rule requiring businesses to make canceling subscriptions as easy as signing up, from May 14 to July 14 &lpar;Cheyenne MacDonald/Engadget&rpar;](http://www.techmeme.com/250510/p15#a250510p15)<!-- TECH:END -->
+ - [Best Internet Providers in Michigan](https://www.cnet.com/home/internet/best-internet-providers-in-michigan/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

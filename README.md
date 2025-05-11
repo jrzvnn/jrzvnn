@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I need instructions](http://9gag.com/gag/amoMWW9)
- - 😝 [3 lies and 1 truth ahhh !!](http://9gag.com/gag/a9y2yjZ)
- - 💣 [Weird, weird](http://9gag.com/gag/aByG6Vz)
  - 😝 [Hollywood](http://9gag.com/gag/a9y2zv1)
- - 👉 [I hope both sides have fun regardless of politics](http://9gag.com/gag/aO8P212)<!-- MEMES:END -->
+ - 😝 [Weird, weird](http://9gag.com/gag/aByG6Vz)
+ - 💣 [I need instructions](http://9gag.com/gag/amoMWW9)
+ - 😝 [Dirty tart](http://9gag.com/gag/a2v2wOY)
+ - 👉 [3 lies and 1 truth ahhh !!](http://9gag.com/gag/a9y2yjZ)<!-- MEMES:END -->
 
 ---
 

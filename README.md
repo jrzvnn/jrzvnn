@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Odyssey 3D &lpar;G90XF&rpar; Review: The Future of 3D Screens](https://www.wired.com/review/samsung-odyssey-3d-27-inch-g90xf/)
+ - [Expedition 33’s big twist was designed to &amp;#8216;inflict the pain on the player&amp;#8217;](https://www.theverge.com/games/664492/clair-obscur-expedition-33-twist-spoilers)
  - [Apple wants to simplify adding multiple devices to captive Wi-Fi](https://appleinsider.com/articles/25/05/11/apple-wants-to-simplify-adding-multiple-devices-to-captive-wi-fi?utm_medium=rss)
  - [17 Giftable Subscription Boxes &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-subscription-gift-boxes/)
- - [Whoop backpedals on its paid upgrade whoops](https://www.theverge.com/news/664703/whoop-backpedals-on-its-paid-upgrade-whoops)
- - [United’s Starlink-powered Wi-Fi is the end of airplane mode](https://www.theverge.com/planes/664485/united-starlink-wifi-test-download-upload-speed-latency)
- - [25 Best Gifts for Frequent Travelers &lpar;2025&rpar;](https://www.wired.com/gallery/best-travel-gifts/)<!-- TECH:END -->
+ - [Whoop backpedals on its paid upgrade whoops](https://www.theverge.com/news/664703/whoop-backpedals-on-its-paid-upgrade-whoops)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

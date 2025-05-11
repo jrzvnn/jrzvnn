@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hollywood](http://9gag.com/gag/a9y2zv1)
- - 😝 [Spider tried to escape, but it ran out of silk.](http://9gag.com/gag/a7o2qRb)
- - 💣 [I need instructions](http://9gag.com/gag/amoMWW9)
- - 😝 [3 lies and 1 truth ahhh !!](http://9gag.com/gag/a9y2yjZ)
- - 👉 [After girls night](http://9gag.com/gag/aD2VdPw)<!-- MEMES:END -->
+ - 😝 [Stuff we missed as kids](http://9gag.com/gag/avyRA9W)
+ - 😝 [Ghost of Oblivion](http://9gag.com/gag/aO8PxM2)
+ - 💣 [Poor snake](http://9gag.com/gag/awydZ18)
+ - 😝 [Bad luck](http://9gag.com/gag/adBeg7Z)
+ - 👉 [3 lies and 1 truth ahhh !!](http://9gag.com/gag/a9y2yjZ)<!-- MEMES:END -->
 
 ---
 

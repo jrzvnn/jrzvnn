@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [De’Longhi Rivelia Espresso Machine Review &lpar;2025&rpar;: A Fine Froth](https://www.wired.com/review/delonghi-rivelia-espresso-machine/)
- - [Intelligence on Earth Evolved Independently at Least Twice](https://www.wired.com/story/intelligence-evolved-at-least-twice-in-vertebrate-animals/)
- - [Best Internet Providers in San Jose, California](https://www.cnet.com/home/internet/best-internet-providers-in-san-jose-ca/#ftag=CAD590a51e)
- - [MSG Is &lpar;Once Again&rpar; Back on the Table](https://www.wired.com/story/msg-is-back/)
- - [Q&amp;A with Anthropic co-founder Jack Clark on the parts of the economy AGI will affect last, why he&#39;s relatively bearish on AI-fueled economic growth, and more &lpar;Tyler Cowen/Conversations with Tyler&rpar;](http://www.techmeme.com/250511/p8#a250511p8)<!-- TECH:END -->
+ - [Whoop backpedals on its paid upgrade whoops](https://www.theverge.com/news/664703/whoop-backpedals-on-its-paid-upgrade-whoops)
+ - [United’s Starlink-powered Wi-Fi is the end of airplane mode](https://www.theverge.com/planes/664485/united-starlink-wifi-test-download-upload-speed-latency)
+ - [25 Best Gifts for Frequent Travelers &lpar;2025&rpar;](https://www.wired.com/gallery/best-travel-gifts/)
+ - [The one controller to &lpar;almost&rpar; rule them all](https://www.theverge.com/installer-newsletter/664397/backbone-pro-controller-surface-pro-poker-face-installer)
+ - [De’Longhi Rivelia Espresso Machine Review &lpar;2025&rpar;: A Fine Froth](https://www.wired.com/review/delonghi-rivelia-espresso-machine/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

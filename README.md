@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spider tried to escape, but it ran out of silk.](http://9gag.com/gag/a7o2qRb)
- - 😝 [The race against time to get to a decompression chamber](http://9gag.com/gag/a9y2zDW)
- - 💣 [Shit just got interesting..!!](http://9gag.com/gag/an7Eg95)
- - 😝 [Oh hell no](http://9gag.com/gag/aXPWPo6)
- - 👉 [Hollywood](http://9gag.com/gag/a9y2zv1)<!-- MEMES:END -->
+ - 😝 [Actor Performs Stunning Fire Scene](http://9gag.com/gag/agm41bw)
+ - 😝 [This Spider has 3 egg sacks, is pregnant with a 4th, and has 2 entire rodents on display in its web.](http://9gag.com/gag/an7Eg4E)
+ - 💣 [The race against time to get to a decompression chamber](http://9gag.com/gag/a9y2zDW)
+ - 😝 [Scarlett Johansson auditions for the role of Judy Shepherd for Jumanji that eventually went to Kirsten Dunst in 1994](http://9gag.com/gag/aoyLyW0)
+ - 👉 [Oh hell no](http://9gag.com/gag/aXPWPo6)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A talented juggler](http://9gag.com/gag/a2v273E)
- - 😝 [Deepfakes are getting insane...](http://9gag.com/gag/a7o2EDr)
- - 💣 [The race against time to get to a decompression chamber](http://9gag.com/gag/a9y2zDW)
- - 😝 [Oh hell no](http://9gag.com/gag/aXPWPo6)
- - 👉 [Hollywood](http://9gag.com/gag/a9y2zv1)<!-- MEMES:END -->
+ - 😝 [Hollywood](http://9gag.com/gag/a9y2zv1)
+ - 😝 [Shit just got interesting..!!](http://9gag.com/gag/an7Eg95)
+ - 💣 [WhatTodo](http://9gag.com/gag/aPAQ3Yg)
+ - 😝 [5 Generations Of Women!](http://9gag.com/gag/axyRMvp)
+ - 👉 [The race against time to get to a decompression chamber](http://9gag.com/gag/a9y2zDW)<!-- MEMES:END -->
 
 ---
 

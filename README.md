@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Would you ride this one?](http://9gag.com/gag/azxR57p)
- - 😝 [Dirty tart](http://9gag.com/gag/a2v2wOY)
- - 💣 [I need instructions](http://9gag.com/gag/amoMWW9)
- - 😝 [Feel bad for the guy that did this with his wife.](http://9gag.com/gag/awydgmr)
- - 👉 [Anyway, here&#39;s the view of Dubai](http://9gag.com/gag/aGyA860)<!-- MEMES:END -->
+ - 😝 [I need instructions](http://9gag.com/gag/amoMWW9)
+ - 😝 [3 lies and 1 truth ahhh !!](http://9gag.com/gag/a9y2yjZ)
+ - 💣 [Weird, weird](http://9gag.com/gag/aByG6Vz)
+ - 😝 [Hollywood](http://9gag.com/gag/a9y2zv1)
+ - 👉 [I hope both sides have fun regardless of politics](http://9gag.com/gag/aO8P212)<!-- MEMES:END -->
 
 ---
 

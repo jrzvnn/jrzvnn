@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A talented juggler](http://9gag.com/gag/a2v273E)
- - 😝 [Ghost of Oblivion](http://9gag.com/gag/aO8PxM2)
- - 💣 [Oh hell no](http://9gag.com/gag/aXPWPo6)
- - 😝 [5 Generations Of Women!](http://9gag.com/gag/axyRMvp)
- - 👉 [Bad luck](http://9gag.com/gag/adBeg7Z)<!-- MEMES:END -->
+ - 😝 [Wife material](http://9gag.com/gag/aW4bgPq)
+ - 😝 [White pasta sauce is now black pasta sauce](http://9gag.com/gag/aMVvEW1)
+ - 💣 [Except Uncle Ben\u2014he&#39;s like a legendary exception](http://9gag.com/gag/ae9m4Am)
+ - 😝 [From `wtf` to `wait, that&#39;s actually good`](http://9gag.com/gag/a4P21gQ)
+ - 👉 [Green thumb](http://9gag.com/gag/aD2VDG9)<!-- MEMES:END -->
 
 ---
 

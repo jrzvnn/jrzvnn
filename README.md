@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Would you ride this one?](http://9gag.com/gag/azxR57p)
- - 😝 [3 lies and 1 truth ahhh !!](http://9gag.com/gag/a9y2yjZ)
- - 💣 [Hollywood](http://9gag.com/gag/a9y2zv1)
+ - 😝 [Hollywood](http://9gag.com/gag/a9y2zv1)
  - 😝 [After girls night](http://9gag.com/gag/aD2VdPw)
- - 👉 [5 Generations Of Women!](http://9gag.com/gag/axyRMvp)<!-- MEMES:END -->
+ - 💣 [Ghost of Oblivion](http://9gag.com/gag/aO8PxM2)
+ - 😝 [Just A Floating Glove And Boots Right\ud83d\ude0f](http://9gag.com/gag/a342128)
+ - 👉 [Bad luck](http://9gag.com/gag/adBeg7Z)<!-- MEMES:END -->
 
 ---
 

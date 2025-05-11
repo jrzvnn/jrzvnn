@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at &quot;AI-native&quot; startups, which integrate AI into their workflows and team structures, allowing them to operate with fewer employees and consolidate tasks &lpar;Jo Constantz/Bloomberg&rpar;](http://www.techmeme.com/250511/p13#a250511p13)
  - [Apple may release a ‘mostly glass, curved iPhone’ in 2027](https://www.theverge.com/news/664776/apple-curved-glass-iphone-2027)
  - [Today&#39;s NYT Connections Hints, Answers and Help for May 12, #701](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-12-701/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints, Answer and Help for May 12, #1423](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-12-1423/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for May 12, #435](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-12-435/#ftag=CAD590a51e)
- - [Amazon discounts M4 MacBook Air to $837, but supply is limited](https://appleinsider.com/articles/25/05/11/amazon-discounts-m4-macbook-air-to-837-but-supply-is-limited?utm_medium=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for May 12, #435](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-12-435/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

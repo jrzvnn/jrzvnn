@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shit just got interesting..!!](http://9gag.com/gag/an7Eg95)
- - 😝 [Just A Floating Glove And Boots Right\ud83d\ude0f](http://9gag.com/gag/a342128)
- - 💣 [A talented juggler](http://9gag.com/gag/a2v273E)
- - 😝 [After girls night](http://9gag.com/gag/aD2VdPw)
- - 👉 [Another pov of the accident](http://9gag.com/gag/aD2VD2G)<!-- MEMES:END -->
+ - 😝 [Cosplayers](http://9gag.com/gag/azxRMVj)
+ - 😝 [White pasta sauce is now black pasta sauce](http://9gag.com/gag/aMVvEW1)
+ - 💣 [Except Uncle Ben\u2014he&#39;s like a legendary exception](http://9gag.com/gag/ae9m4Am)
+ - 😝 [From `wtf` to `wait, that&#39;s actually good`](http://9gag.com/gag/a4P21gQ)
+ - 👉 [How does he make it seem to alive at points, and even leap from his arms? It&#39;s so quick!](http://9gag.com/gag/a87277O)<!-- MEMES:END -->
 
 ---
 

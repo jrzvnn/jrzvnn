@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [As the consumer metaverse falters, the World Economic Forum projects the industrial metaverse will reach $100B by 2030, led by platforms like Nvidia Omniverse &lpar;Nicole Kobie/Wired&rpar;](http://www.techmeme.com/250511/p10#a250511p10)
  - [Giant Bomb goes independent](https://www.theverge.com/news/664747/giant-bomb-independent-gaming-site-employee-owned)
- - [Hack Your Happiness With These 7 Daily Habits](https://www.cnet.com/health/mental/hack-your-happiness-with-these-7-daily-habits/#ftag=CAD590a51e)
  - [What lies beneath: filming gators in Florida springs](https://www.theverge.com/art-club/656586/florida-spring-underwater-photographer-youtuber-snorkeling)
- - [Apple&#39;s 2027 lineup is packed with new product launches](https://appleinsider.com/articles/25/05/11/apples-2027-lineup-is-packed-with-new-product-launches?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s 2027 lineup is packed with new product launches](https://appleinsider.com/articles/25/05/11/apples-2027-lineup-is-packed-with-new-product-launches?utm_medium=rss)
+ - [Sources: OpenAI is negotiating with Microsoft to enable a future IPO; Microsoft offers to cut its equity stake for continued access to OpenAI tech beyond 2030 &lpar;Financial Times&rpar;](http://www.techmeme.com/250511/p9#a250511p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

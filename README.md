@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [3 lies and 1 truth ahhh !!](http://9gag.com/gag/a9y2yjZ)
- - 😝 [I need instructions](http://9gag.com/gag/amoMWW9)
- - 💣 [Guess who&#39;s getting laid tonight ?](http://9gag.com/gag/a872EvV)
- - 😝 [Hollywood](http://9gag.com/gag/a9y2zv1)
- - 👉 [After girls night](http://9gag.com/gag/aD2VdPw)<!-- MEMES:END -->
+ - 😝 [Wife material](http://9gag.com/gag/aW4bgPq)
+ - 😝 [White pasta sauce is now black pasta sauce](http://9gag.com/gag/aMVvEW1)
+ - 💣 [Except Uncle Ben\u2014he&#39;s like a legendary exception](http://9gag.com/gag/ae9m4Am)
+ - 😝 [From `wtf` to `wait, that&#39;s actually good`](http://9gag.com/gag/a4P21gQ)
+ - 👉 [Green thumb](http://9gag.com/gag/aD2VDG9)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hollywood](http://9gag.com/gag/a9y2zv1)
- - 😝 [Two types of girls.](http://9gag.com/gag/aPAQm0R)
- - 💣 [3 lies and 1 truth ahhh !!](http://9gag.com/gag/a9y2yjZ)
- - 😝 [Dirty tart](http://9gag.com/gag/a2v2wOY)
- - 👉 [Spider tried to escape, but it ran out of silk.](http://9gag.com/gag/a7o2qRb)<!-- MEMES:END -->
+ - 😝 [Anyway, here&#39;s the view of Dubai](http://9gag.com/gag/aGyA860)
+ - 😝 [Join me on my quest](http://9gag.com/gag/aMVvBjW)
+ - 💣 [Two types of girls.](http://9gag.com/gag/aPAQm0R)
+ - 😝 [Oh hell no](http://9gag.com/gag/aXPWPo6)
+ - 👉 [Actor Performs Stunning Fire Scene](http://9gag.com/gag/agm41bw)<!-- MEMES:END -->
 
 ---
 

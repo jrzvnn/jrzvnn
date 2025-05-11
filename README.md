@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Scarlett Johansson auditions for the role of Judy Shepherd for Jumanji that eventually went to Kirsten Dunst in 1994](http://9gag.com/gag/aoyLyW0)
- - 😝 [Bad luck](http://9gag.com/gag/adBeg7Z)
- - 💣 [I need instructions](http://9gag.com/gag/amoMWW9)
- - 😝 [3 lies and 1 truth ahhh !!](http://9gag.com/gag/a9y2yjZ)
+ - 😝 [Shit just got interesting..!!](http://9gag.com/gag/an7Eg95)
+ - 😝 [Absolute cinema](http://9gag.com/gag/ayNR3Oq)
+ - 💣 [Oh hell no](http://9gag.com/gag/aXPWPo6)
+ - 😝 [I need instructions](http://9gag.com/gag/amoMWW9)
  - 👉 [Feel bad for the guy that did this with his wife.](http://9gag.com/gag/awydgmr)<!-- MEMES:END -->
 
 ---

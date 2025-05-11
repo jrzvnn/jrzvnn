@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cosplayers](http://9gag.com/gag/azxRMVj)
- - 😝 [White pasta sauce is now black pasta sauce](http://9gag.com/gag/aMVvEW1)
- - 💣 [Except Uncle Ben\u2014he&#39;s like a legendary exception](http://9gag.com/gag/ae9m4Am)
- - 😝 [From `wtf` to `wait, that&#39;s actually good`](http://9gag.com/gag/a4P21gQ)
- - 👉 [How does he make it seem to alive at points, and even leap from his arms? It&#39;s so quick!](http://9gag.com/gag/a87277O)<!-- MEMES:END -->
+ - 😝 [5 Generations Of Women!](http://9gag.com/gag/axyRMvp)
+ - 😝 [That&#39;s gonna hurt](http://9gag.com/gag/avyR5Bq)
+ - 💣 [A talented juggler](http://9gag.com/gag/a2v273E)
+ - 😝 [Scarlett Johansson auditions for the role of Judy Shepherd for Jumanji that eventually went to Kirsten Dunst in 1994](http://9gag.com/gag/aoyLyW0)
+ - 👉 [Triple caution!](http://9gag.com/gag/awydMPx)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Thoma Bravo invests $100M+ in HubSync, a Tennessee-based tax and accounting automation and client experience platform for accounting firms and tax professionals &lpar;FinSMEs&rpar;](http://www.techmeme.com/250511/p4#a250511p4)
  - [Lloyd&#39;s of London insurers launch a product to cover companies for losses caused by AI chatbot errors; the policies are developed by YC-backed startup Armilla &lpar;Financial Times&rpar;](http://www.techmeme.com/250511/p3#a250511p3)
  - [US SEC filing: Vanguard marks down Ola&#39;s valuation to $1.25B, a drop of 80%+ from a 2021 peak of $7.3B, as the ride-hailing company loses market share in India &lpar;Harsh Upadhyay/Entrackr&rpar;](http://www.techmeme.com/250511/p2#a250511p2)
  - [Amsterdam-based AppSignal, which develops an app monitoring tool that it says is used by 2,000+ organizations, raised a $22M Series A led by Elsewhere Partners &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250511/p1#a250511p1)
- - [Sources: the Trump administration fires US Copyright Office head Shira Perlmutter; her office had raised concerns about using copyrighted content to train AI &lpar;Scott Macfarlane/CBS News&rpar;](http://www.techmeme.com/250510/p19#a250510p19)
- - [Sources: the Trump admin plans to end Energy Star, a voluntary program started in 1992 to promote energy savings, initially aimed at PCs, monitors, and printers &lpar;Marianne Lavelle/Inside Climate News&rpar;](http://www.techmeme.com/250510/p18#a250510p18)<!-- TECH:END -->
+ - [Sources: the Trump administration fires US Copyright Office head Shira Perlmutter; her office had raised concerns about using copyrighted content to train AI &lpar;Scott Macfarlane/CBS News&rpar;](http://www.techmeme.com/250510/p19#a250510p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

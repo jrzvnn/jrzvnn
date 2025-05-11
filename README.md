@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wife material](http://9gag.com/gag/aW4bgPq)
- - 😝 [White pasta sauce is now black pasta sauce](http://9gag.com/gag/aMVvEW1)
- - 💣 [Except Uncle Ben\u2014he&#39;s like a legendary exception](http://9gag.com/gag/ae9m4Am)
- - 😝 [From `wtf` to `wait, that&#39;s actually good`](http://9gag.com/gag/a4P21gQ)
- - 👉 [Green thumb](http://9gag.com/gag/aD2VDG9)<!-- MEMES:END -->
+ - 😝 [Spider tried to escape, but it ran out of silk.](http://9gag.com/gag/a7o2qRb)
+ - 😝 [The race against time to get to a decompression chamber](http://9gag.com/gag/a9y2zDW)
+ - 💣 [Shit just got interesting..!!](http://9gag.com/gag/an7Eg95)
+ - 😝 [Oh hell no](http://9gag.com/gag/aXPWPo6)
+ - 👉 [Hollywood](http://9gag.com/gag/a9y2zv1)<!-- MEMES:END -->
 
 ---
 

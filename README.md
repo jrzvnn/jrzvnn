@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Scarlett Johansson auditions for the role of Judy Shepherd for Jumanji that eventually went to Kirsten Dunst in 1994](http://9gag.com/gag/aoyLyW0)
  - 😝 [I need instructions](http://9gag.com/gag/amoMWW9)
- - 😝 [Bad luck](http://9gag.com/gag/adBeg7Z)
- - 💣 [Just A Floating Glove And Boots Right\ud83d\ude0f](http://9gag.com/gag/a342128)
- - 😝 [Spider tried to escape, but it ran out of silk.](http://9gag.com/gag/a7o2qRb)
- - 👉 [Feel bad for the guy that did this with his wife.](http://9gag.com/gag/awydgmr)<!-- MEMES:END -->
+ - 💣 [Feel bad for the guy that did this with his wife.](http://9gag.com/gag/awydgmr)
+ - 😝 [3 lies and 1 truth ahhh !!](http://9gag.com/gag/a9y2yjZ)
+ - 👉 [Actor Performs Stunning Fire Scene](http://9gag.com/gag/agm41bw)<!-- MEMES:END -->
 
 ---
 

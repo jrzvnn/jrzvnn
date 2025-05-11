@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stuff we missed as kids](http://9gag.com/gag/avyRA9W)
- - 😝 [Ghost of Oblivion](http://9gag.com/gag/aO8PxM2)
- - 💣 [Poor snake](http://9gag.com/gag/awydZ18)
  - 😝 [Bad luck](http://9gag.com/gag/adBeg7Z)
- - 👉 [3 lies and 1 truth ahhh !!](http://9gag.com/gag/a9y2yjZ)<!-- MEMES:END -->
+ - 😝 [Just A Floating Glove And Boots Right\ud83d\ude0f](http://9gag.com/gag/a342128)
+ - 💣 [As matt rife said, the replacement](http://9gag.com/gag/aByGyQD)
+ - 😝 [Stuff we missed as kids](http://9gag.com/gag/avyRA9W)
+ - 👉 [Shit just got interesting..!!](http://9gag.com/gag/an7Eg95)<!-- MEMES:END -->
 
 ---
 

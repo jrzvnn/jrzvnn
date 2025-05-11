@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I hope both sides have fun regardless of politics](http://9gag.com/gag/aO8P212)
- - 😝 [Spider tried to escape, but it ran out of silk.](http://9gag.com/gag/a7o2qRb)
- - 💣 [Hollywood](http://9gag.com/gag/a9y2zv1)
- - 😝 [I need instructions](http://9gag.com/gag/amoMWW9)
- - 👉 [Oh hell no](http://9gag.com/gag/aXPWPo6)<!-- MEMES:END -->
+ - 😝 [Hollywood](http://9gag.com/gag/a9y2zv1)
+ - 😝 [Two types of girls.](http://9gag.com/gag/aPAQm0R)
+ - 💣 [3 lies and 1 truth ahhh !!](http://9gag.com/gag/a9y2yjZ)
+ - 😝 [Dirty tart](http://9gag.com/gag/a2v2wOY)
+ - 👉 [Spider tried to escape, but it ran out of silk.](http://9gag.com/gag/a7o2qRb)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New Mexico Police Use Non-Lethal Force to Disarm Armed Boys, 7 and 9](http://9gag.com/gag/aByG6Lz)
- - 😝 [Back when Kevin Smith wasn&#39;t woke...](http://9gag.com/gag/aAy2yYo)
- - 💣 [Oh hell no](http://9gag.com/gag/aXPWPo6)
- - 😝 [As matt rife said, the replacement](http://9gag.com/gag/aByGyQD)
- - 👉 [This video made me order an air purifier instantly](http://9gag.com/gag/a7o20vz)<!-- MEMES:END -->
+ - 😝 [Two types of girls.](http://9gag.com/gag/aPAQm0R)
+ - 😝 [3 lies and 1 truth ahhh !!](http://9gag.com/gag/a9y2yjZ)
+ - 💣 [I think I downloaded the wrong version of the Office](http://9gag.com/gag/aPAQPNQ)
+ - 😝 [Arsonist in a gas station, insane...](http://9gag.com/gag/aRBoZzq)
+ - 👉 [As matt rife said, the replacement](http://9gag.com/gag/aByGyQD)<!-- MEMES:END -->
 
 ---
 

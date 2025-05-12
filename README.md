@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Switch 2 will let you set an unlock PIN](https://www.theverge.com/news/664979/the-switch-2-will-let-you-set-an-unlock-pin)
- - [Sources: Perplexity is in advanced talks to raise $500M led by Accel in a round that values it at $14B, up from $9B in November 2024 &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250512/p14#a250512p14)
- - [Google just changed its ‘G’ logo](https://www.theverge.com/news/664958/google-g-logo-gradient-design-change)
- - [The EPA Will Likely Gut Team That Studies Health Risks From Chemicals](https://www.wired.com/story/epa-iris-health-risks-chemicals-nancy-beck/)
- - [Peacock&amp;#8217;s NBA coverage will add an overlay with live shot stats](https://www.theverge.com/news/664513/peacock-nba-basketball-nbc-overlay-scorecard)<!-- TECH:END -->
+ - [The upgraded VMU Pro turns the Dreamcast’s memory card into a handheld emulator](https://www.theverge.com/news/665012/8bitmods-sega-dreamcast-virtual-memory-unit-vmu-pro-emulator-nes-sega)
+ - [FTC v. Meta: The antitrust battle over WhatsApp and Instagram](https://www.theverge.com/news/646809/ftc-v-meta-antitrust-monopoly-trial-instagram-whatsapp)
+ - [The Switch 2 has a handy battery preservation mode](https://www.theverge.com/news/664999/nintendo-switch-2-battery-health-charging-90-percent-limit)
+ - [Nintendo will let you set an unlock PIN for the Switch 2](https://www.theverge.com/news/664979/the-switch-2-will-let-you-set-an-unlock-pin)
+ - [Sources: Perplexity is in advanced talks to raise $500M led by Accel in a round that values it at $14B, up from $9B in November 2024 &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250512/p14#a250512p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

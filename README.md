@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s services revenue trajectory more uncertain than ever](https://appleinsider.com/articles/25/05/12/apples-services-revenue-trajectory-more-uncertain-than-ever?utm_medium=rss)
- - [Fox’s new streaming service will arrive just in time for football season](https://www.theverge.com/news/664913/fox-sports-news-streaming-service-nfl-season-launch)
- - [Saudi Arabia launches Humain, a multibillion-dollar AI company chaired by Crown Prince Mohammed bin Salman, the main vehicle to drive the kingdom&#39;s AI strategy &lpar;Financial Times&rpar;](http://www.techmeme.com/250512/p13#a250512p13)
- - [14 Best Bookshelf Speakers &lpar;2025&rpar;: Active, Passive, and Hi-Fi](https://www.wired.com/gallery/best-bookshelf-speakers/)
- - [How Incogni Custom Removals go further to get your personal information removed from the internet](https://appleinsider.com/articles/25/05/12/how-incogni-custom-removals-go-further-to-get-your-personal-information-removed-from-the-internet?utm_medium=rss)<!-- TECH:END -->
+ - [Peacock&amp;#8217;s NBA coverage will add an overlay with live shot stats](https://www.theverge.com/news/664513/peacock-nba-basketball-nbc-overlay-scorecard)
+ - [Best 360 Cameras &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-360-cameras/)
+ - [Apple&#39;s spooky &#39;Mac to School&#39; ads highlight must-have Mac features for students](https://appleinsider.com/articles/25/05/12/apples-spooky-mac-to-school-ads-highlight-must-have-mac-features-for-students?utm_medium=rss)
+ - [Don&amp;#8217;t delete that &amp;#8216;Lopez Voice Assistant&amp;#8217; email — it&amp;#8217;s about Apple&amp;#8217;s Siri settlement](https://www.theverge.com/news/664927/lopez-voice-assistant-emails-apple-siri-spying-settlement)
+ - [Apple&#39;s services revenue trajectory more uncertain than ever](https://appleinsider.com/articles/25/05/12/apples-services-revenue-trajectory-more-uncertain-than-ever?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looking at you Big 4.](http://9gag.com/gag/azxRPom)
- - 😝 [Actor Performs Stunning Fire Scene](http://9gag.com/gag/agm41bw)
- - 💣 [I did.](http://9gag.com/gag/aRBoZ47)
- - 😝 [That&#39;s pretty neat](http://9gag.com/gag/aKGevKZ)
- - 👉 [Two types of girls.](http://9gag.com/gag/aPAQm0R)<!-- MEMES:END -->
+ - 😝 [Happy mama&#39;s day](http://9gag.com/gag/aZZjwbV)
+ - 😝 [Two types of girls.](http://9gag.com/gag/aPAQm0R)
+ - 💣 [Actor Performs Stunning Fire Scene](http://9gag.com/gag/agm41bw)
+ - 😝 [Dirty tart](http://9gag.com/gag/a2v2wOY)
+ - 👉 [Arsonist in a gas station, insane...](http://9gag.com/gag/aRBoZzq)<!-- MEMES:END -->
 
 ---
 

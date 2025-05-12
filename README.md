@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Philips will let you fix your trimmer with 3D printable parts and accessories](https://www.theverge.com/news/665187/philips-fixables-3d-printing-personal-health-trimmer-oneblade-prura-research-printables)
+ - [President Trump talked to Apple CEO Tim Cook after China tariff reduction](https://appleinsider.com/articles/25/05/12/president-trump-talked-to-apple-ceo-tim-cook-after-china-tariff-reduction?utm_medium=rss)
  - [Apple turns to AI for battery management in iOS 19](https://appleinsider.com/articles/25/05/12/apple-turns-to-ai-for-battery-management-in-ios-19?utm_medium=rss)
  - [Sources: the Trump admin is considering a sale of hundreds of thousands of US AI chips to UAE&#39;s G42 and is expected to unveil a deal with Saudi Arabia&#39;s Humain &lpar;New York Times&rpar;](http://www.techmeme.com/250512/p24#a250512p24)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 13, #232](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-13-232/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for May 13, #436](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-13-436/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for May 13, #702](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-13-702/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google is updating its &quot;G&quot; icon for the first time in 10 years, with its four colors now blending together on a gradient &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250512/p23#a250512p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

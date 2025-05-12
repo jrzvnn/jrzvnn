@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In the age of deepfakes, some are using tactics like asking rapid-fire questions or sharing code words with each other to verify identity online &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250512/p30#a250512p30)
  - [Fallout’s second season premieres in December and will be followed by a third](https://www.theverge.com/news/665484/fallout-amazon-prime-video-season-2-3)
  - [Apple&#39;s Messages app won&#39;t send audio messages with an ampersand](https://appleinsider.com/articles/25/05/12/apples-messages-app-wont-send-audio-messages-with-an-ampersand?utm_medium=rss)
  - [The best ereader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [&#39;Fallout&#39; Season 2 to Debut in December on Prime Video](https://www.cnet.com/tech/services-and-software/fallout-season-2-to-debut-in-december-on-prime-video/#ftag=CAD590a51e)
- - [Ticketmaster announces it will now show the full price of your ticket up front, ahead of the FTC&#39;s ban on junk fees, which goes into effect on May 12 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250512/p29#a250512p29)<!-- TECH:END -->
+ - [&#39;Fallout&#39; Season 2 to Debut in December on Prime Video](https://www.cnet.com/tech/services-and-software/fallout-season-2-to-debut-in-december-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

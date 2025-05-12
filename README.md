@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I did.](http://9gag.com/gag/aRBoZ47)
  - 😝 [Sorry for the Shitstagram logo](http://9gag.com/gag/aW4b7Nq)
- - 💣 [Two types of girls.](http://9gag.com/gag/aPAQm0R)
- - 😝 [During last meeting with Zelenski in Prague one of Czech diplomates Tom\u00e1\u0161 Kope\u010dn\u00fd has socks with burning Moskva](http://9gag.com/gag/axyR6wn)
- - 👉 [Make the right choices my fellow retards](http://9gag.com/gag/an7En4q)<!-- MEMES:END -->
+ - 😝 [Two types of girls.](http://9gag.com/gag/aPAQm0R)
+ - 💣 [During last meeting with Zelenski in Prague one of Czech diplomates Tom\u00e1\u0161 Kope\u010dn\u00fd has socks with burning Moskva](http://9gag.com/gag/axyR6wn)
+ - 😝 [Make the right choices my fellow retards](http://9gag.com/gag/an7En4q)
+ - 👉 [Men doing his thing](http://9gag.com/gag/aryq3DB)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US and China slash tariffs](https://www.theverge.com/news/664811/us-china-pause-tariffs-90-days)
+ - [A profile of HoYoverse, the creator of Genshin Impact, which is exploring new game genres as its titles begin to cannibalize each other and revenue growth slows &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250512/p3#a250512p3)
  - [Best Internet Providers in Portland, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-portland-or/#ftag=CAD590a51e)
  - [Cairo-based Nawy, Africa&#39;s largest proptech platform combining listings with brokerage services, raised a $52M Series A led by Partech Africa &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/250512/p2#a250512p2)
- - [$25 Off DoorDash Promo Code | May 2025](https://www.wired.com/story/doordash-promo-code/)
- - [A look at Foresight, an AI model trained on anonymized NHS data from 57M people in England, which could help predict diseases or forecast hospitalization rates &lpar;Alex Wilkins/New Scientist&rpar;](http://www.techmeme.com/250512/p1#a250512p1)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 12, #231](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-12-231/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [$25 Off DoorDash Promo Code | May 2025](https://www.wired.com/story/doordash-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Duolingo is replacing hearts with energy](https://www.theverge.com/news/665315/duolingo-hearts-energy-system)
  - [Trump administration announces &amp;#8216;illegal&amp;#8217; rollback of energy and water efficiency standards](https://www.theverge.com/news/665213/energy-efficiency-standards-rollback-trump-doe)
  - [Apple discontinuing support for older Home architecture with iOS 19](https://appleinsider.com/articles/25/05/12/apple-discontinuing-support-for-older-home-architecture-with-ios-19?utm_medium=rss)
  - [E-commerce logistics startup Cart.com says it raised $50M, is now valued at $1.6B, is on track to cross $500M in revenue this year, and plans more acquisitions &lpar;Colin Campbell/Axios&rpar;](http://www.techmeme.com/250512/p28#a250512p28)
- - [Coinbase will join the S&amp;P 500, replacing Discover Financial Services, effective before trading on May 19; COIN jumps 7%+ after hours &lpar;CNBC&rpar;](http://www.techmeme.com/250512/p27#a250512p27)
- - [GM names Aurora co-founder and CPO Sterling Anderson as VP of global product and chief product officer, a newly created position at GM, starting on June 2 &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/250512/p26#a250512p26)<!-- TECH:END -->
+ - [Coinbase will join the S&amp;P 500, replacing Discover Financial Services, effective before trading on May 19; COIN jumps 7%+ after hours &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/250512/p27#a250512p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

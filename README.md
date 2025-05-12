@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best ereader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
+ - [&#39;Fallout&#39; Season 2 to Debut in December on Prime Video](https://www.cnet.com/tech/services-and-software/fallout-season-2-to-debut-in-december-on-prime-video/#ftag=CAD590a51e)
  - [Ticketmaster announces it will now show the full price of your ticket up front, ahead of the FTC&#39;s ban on junk fees, which goes into effect on May 12 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250512/p29#a250512p29)
  - [Apple Card promotion offers users 6% cash back on Nike purchases](https://appleinsider.com/articles/25/05/12/apple-card-promotion-offers-users-6-cash-back-on-nike-purchases?utm_medium=rss)
- - [Duolingo is replacing hearts with energy](https://www.theverge.com/news/665315/duolingo-hearts-energy-system)
- - [Trump Kills &#39;Woke&#39; Broadband Program Because It Has the Word &#39;Equity&#39;](https://www.cnet.com/home/internet/trump-kills-woke-broadband-program-because-it-has-the-word-equity/#ftag=CAD590a51e)
- - [NBA Playoffs 2025: How to Watch Celtics vs. Knicks Game 4 Tonight](https://www.cnet.com/tech/services-and-software/nba-playoffs-2025-how-to-watch-celtics-vs-knicks-game-4-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Duolingo is replacing hearts with energy](https://www.theverge.com/news/665315/duolingo-hearts-energy-system)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

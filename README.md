@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US &amp; China pausing tariffs does not end the needless damage being done to consumers and businesses](https://appleinsider.com/articles/25/05/12/us-china-pausing-tariffs-does-not-end-the-needless-damage-being-done-to-consumers-and-businesses?utm_medium=rss)
+ - [Sen. Tom Cotton introduces a bill to mandate AI chip makers to include geo-tracking tech to comply with export rules, taking effect six months from its passing &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250512/p12#a250512p12)
+ - [Best Window Air Conditioners 2025: 10 Picks to Cool You for Years](https://www.wired.com/gallery/best-window-air-conditioners/)
  - [iPhone 17 cases could have really wild camera holes](https://appleinsider.com/articles/25/05/12/iphone-17-cases-could-have-really-wild-camera-holes?utm_medium=rss)
- - [The Overwatch developer team has unionized](https://www.theverge.com/news/664873/overwatch-union-microsoft-activision-blizzard)
- - [Kia EV Truck: Everything We Know So Far About the New Electric Pickup](https://www.cnet.com/roadshow/news/kia-ev-truck-everything-we-know-so-far-about-the-new-electric-pickup/#ftag=CAD590a51e)
- - [Hansker Productivity Vertical Gaming Mouse Review: Super Ergonomics](https://www.wired.com/review/hansker-productivity-vertical-gaming-mouse/)
- - [Apple’s Murderbot series is goofy sci-fi with a side of existential crisis](https://www.theverge.com/tv-reviews/664090/murderbot-season-1-review-apple-tv-plus)<!-- TECH:END -->
+ - [The Overwatch developer team has unionized](https://www.theverge.com/news/664873/overwatch-union-microsoft-activision-blizzard)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

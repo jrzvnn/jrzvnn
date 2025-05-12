@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: SoftBank and OpenAI&#39;s $100B Stargate investment hits snags over tariffs fears; talks with dozens of lenders starting earlier in 2025 yielded no deals &lpar;Bloomberg&rpar;](http://www.techmeme.com/250512/p7#a250512p7)
+ - [Google Keep brings text formatting to the web](https://www.theverge.com/news/664857/google-keep-rich-text-formatting-web-app)
  - [Sources: Apple considers raising prices for its fall iPhone lineup, a step it is seeking to couple with new features and design tweaks, without blaming tariffs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250512/p6#a250512p6)
  - [Apple Brought These Fun New Emoji to Your iPhone With iOS 18.4](https://www.cnet.com/tech/services-and-software/apple-brought-these-fun-new-emoji-to-your-iphone-with-ios-18-4/#ftag=CAD590a51e)
- - [How India aims to become a regional data center hub, leveraging its low energy pricing and AI-skilled workforce; power supply constraints pose a major challenge &lpar;Financial Times&rpar;](http://www.techmeme.com/250512/p5#a250512p5)
- - [Deepfakes, Scams, and the Age of Paranoia](https://www.wired.com/story/paranoia-social-engineering-real-fake/)<!-- TECH:END -->
+ - [How India aims to become a regional data center hub, leveraging its low energy pricing and AI-skilled workforce; power supply constraints pose a major challenge &lpar;Financial Times&rpar;](http://www.techmeme.com/250512/p5#a250512p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

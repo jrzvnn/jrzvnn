@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands on with all the new features in iOS 18.5](https://appleinsider.com/articles/25/05/12/hands-on-with-all-the-new-features-in-ios-185?utm_medium=rss)
- - [Chegg says subs dropped 31% in Q1 to 3.2M; it will lay off 248 employees, or ~22% of its staff, to cut costs as students keep turning to AI tools like ChatGPT &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/250512/p18#a250512p18)
- - [iOS 18.5 ships with Mail refinements, new wallpaper](https://appleinsider.com/articles/25/05/12/ios-185-ships-with-mail-refinements-new-wallpaper?utm_medium=rss)
- - [Ticketmaster will finally show the full price of your ticket up front](https://www.theverge.com/news/665087/ticketmaster-all-in-prices-junk-fees)
- - [iOS 18.5 is out now](https://www.theverge.com/news/665066/ios-18-5-update-out-now-download-iphone-13-satellite)<!-- TECH:END -->
+ - [Older macOS &amp; iPadOS versions got security updates too](https://appleinsider.com/articles/25/05/12/older-macos-ipados-versions-got-security-updates-too?utm_medium=rss)
+ - [American Bitcoin, a bitcoin miner backed by Donald Trump Jr. and Eric Trump, said it will list on the Nasdaq via an all-stock merger with Gryphon Digital Mining &lpar;Ateev Bhandari/Reuters&rpar;](http://www.techmeme.com/250512/p19#a250512p19)
+ - [Lowest price: M3 iPad Air dips to $499 after $100 discount on Amazon](https://appleinsider.com/articles/25/05/12/lowest-price-m3-ipad-air-dips-to-499-after-100-discount-on-amazon?utm_medium=rss)
+ - [Anker’s fast, two-headed USB-C cable is 31 percent off](https://www.theverge.com/tech/664959/anker-usb-c-2-in-1-charging-cable-oled-gaming-monitor-deal-sale)
+ - [Two Men Claiming to Be Trump Appointees Blocked From Entering US Copyright Office](https://www.wired.com/story/us-copyright-office-trump-takeover/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

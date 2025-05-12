@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This video made me order an air purifier instantly](http://9gag.com/gag/a7o20vz)
  - 😝 [Arsonist in a gas station, insane...](http://9gag.com/gag/aRBoZzq)
- - 💣 [Gotta love New York.](http://9gag.com/gag/aND4Q5G)
- - 😝 [Join me on my quest](http://9gag.com/gag/aMVvBjW)
- - 👉 [Happy mama&#39;s day](http://9gag.com/gag/aZZjwbV)<!-- MEMES:END -->
+ - 😝 [Dirty tart](http://9gag.com/gag/a2v2wOY)
+ - 💣 [Join me on my quest](http://9gag.com/gag/aMVvBjW)
+ - 😝 [B*tch STFU](http://9gag.com/gag/ae9mO6Q)
+ - 👉 [We have a dinosaur tail is preserved in amber..!!](http://9gag.com/gag/abAB4nE)<!-- MEMES:END -->
 
 ---
 

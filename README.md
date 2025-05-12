@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chegg says subs dropped 31% in Q1 to 3.2M; it will lay off 248 employees, or ~22% of its staff, to cut costs as students keep turning to AI tools like ChatGPT &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/250512/p18#a250512p18)
  - [iOS 18.5 ships with Mail refinements, new wallpaper](https://appleinsider.com/articles/25/05/12/ios-185-ships-with-mail-refinements-new-wallpaper?utm_medium=rss)
  - [Ticketmaster will finally show the full price of your ticket up front](https://www.theverge.com/news/665087/ticketmaster-all-in-prices-junk-fees)
  - [iOS 18.5 is out now](https://www.theverge.com/news/665066/ios-18-5-update-out-now-download-iphone-13-satellite)
- - [visionOS 2.5 is here with new Immersive Video and 3D movie tab in Apple TV app](https://appleinsider.com/articles/25/05/12/visionos-25-is-here-with-new-immersive-video-and-3d-movie-tab-in-apple-tv-app?utm_medium=rss)
- - [Apple releases 18.5 updates for tvOS, HomePod](https://appleinsider.com/articles/25/05/12/apple-releases-185-updates-for-tvos-homepod?utm_medium=rss)<!-- TECH:END -->
+ - [visionOS 2.5 is here with new Immersive Video and 3D movie tab in Apple TV app](https://appleinsider.com/articles/25/05/12/visionos-25-is-here-with-new-immersive-video-and-3d-movie-tab-in-apple-tv-app?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

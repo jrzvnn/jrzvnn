@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I miss her. Also scotty doesn&#39;t know.](http://9gag.com/gag/a6Z25d9)
+ - 😝 [Actor Performs Stunning Fire Scene](http://9gag.com/gag/agm41bw)
  - 😝 [Happy mama&#39;s day](http://9gag.com/gag/aZZjwbV)
- - 💣 [As matt rife said, the replacement](http://9gag.com/gag/aByGyQD)
- - 😝 [Would you ride this one?](http://9gag.com/gag/azxR57p)
- - 👉 [Arsonist in a gas station, insane...](http://9gag.com/gag/aRBoZzq)<!-- MEMES:END -->
+ - 💣 [Two types of girls.](http://9gag.com/gag/aPAQm0R)
+ - 😝 [Dirty tart](http://9gag.com/gag/a2v2wOY)
+ - 👉 [UK is really a great country](http://9gag.com/gag/aMVvmnP)<!-- MEMES:END -->
 
 ---
 

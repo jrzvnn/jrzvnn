@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Illinois has 24 schools where not a single child can read at grade level.. zero](http://9gag.com/gag/agm4OWw)
+ - 😝 [New Mexico Police Use Non-Lethal Force to Disarm Armed Boys, 7 and 9](http://9gag.com/gag/aByG6Lz)
  - 😝 [Back when Kevin Smith wasn&#39;t woke...](http://9gag.com/gag/aAy2yYo)
- - 💣 [Spider tried to escape, but it ran out of silk.](http://9gag.com/gag/a7o2qRb)
- - 😝 [Video by Sergei Koshelev shows Going into the bottom of the reactor pit of Chernobyl. . See the intense radiation...](http://9gag.com/gag/aoyLRmX)
- - 👉 [UK is really a great country](http://9gag.com/gag/aMVvmnP)<!-- MEMES:END -->
+ - 💣 [Oh hell no](http://9gag.com/gag/aXPWPo6)
+ - 😝 [As matt rife said, the replacement](http://9gag.com/gag/aByGyQD)
+ - 👉 [This video made me order an air purifier instantly](http://9gag.com/gag/a7o20vz)<!-- MEMES:END -->
 
 ---
 

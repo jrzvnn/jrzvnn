@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [When cut scenes are made on the game engine](http://9gag.com/gag/aPAQmXP)
+ - 😝 [Feel bad for the guy that did this with his wife.](http://9gag.com/gag/awydgmr)
+ - 💣 [Arsonist in a gas station, insane...](http://9gag.com/gag/aRBoZzq)
  - 😝 [New Mexico Police Use Non-Lethal Force to Disarm Armed Boys, 7 and 9](http://9gag.com/gag/aByG6Lz)
- - 😝 [Arsonist in a gas station, insane...](http://9gag.com/gag/aRBoZzq)
- - 💣 [When cut scenes are made on the game engine](http://9gag.com/gag/aPAQmXP)
- - 😝 [This video made me order an air purifier instantly](http://9gag.com/gag/a7o20vz)
- - 👉 [I need instructions](http://9gag.com/gag/amoMWW9)<!-- MEMES:END -->
+ - 👉 [Join me on my quest](http://9gag.com/gag/aMVvBjW)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iOS 18.5 ships with Mail refinements, new wallpaper](https://appleinsider.com/articles/25/05/12/ios-185-ships-with-mail-refinements-new-wallpaper?utm_medium=rss)
+ - [Ticketmaster will finally show the full price of your ticket up front](https://www.theverge.com/news/665087/ticketmaster-all-in-prices-junk-fees)
  - [iOS 18.5 is out now](https://www.theverge.com/news/665066/ios-18-5-update-out-now-download-iphone-13-satellite)
  - [visionOS 2.5 is here with new Immersive Video and 3D movie tab in Apple TV app](https://appleinsider.com/articles/25/05/12/visionos-25-is-here-with-new-immersive-video-and-3d-movie-tab-in-apple-tv-app?utm_medium=rss)
- - [Apple releases 18.5 updates for tvOS, HomePod](https://appleinsider.com/articles/25/05/12/apple-releases-185-updates-for-tvos-homepod?utm_medium=rss)
- - [watchOS 11.5 rolls out focusing on stability and quality updates](https://appleinsider.com/articles/25/05/12/watchos-115-rolls-out-focusing-on-stability-and-quality-updates?utm_medium=rss)
- - [Financial guidance service Stash says it raised a $146M Series H, has 1.3M paying subs, and its recently launched Money Coach AI has had 2.2M user interactions &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/250512/p17#a250512p17)<!-- TECH:END -->
+ - [Apple releases 18.5 updates for tvOS, HomePod](https://appleinsider.com/articles/25/05/12/apple-releases-185-updates-for-tvos-homepod?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

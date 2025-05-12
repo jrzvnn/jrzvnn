@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Two types of girls.](http://9gag.com/gag/aPAQm0R)
- - 😝 [3 lies and 1 truth ahhh !!](http://9gag.com/gag/a9y2yjZ)
- - 💣 [I think I downloaded the wrong version of the Office](http://9gag.com/gag/aPAQPNQ)
- - 😝 [Arsonist in a gas station, insane...](http://9gag.com/gag/aRBoZzq)
- - 👉 [As matt rife said, the replacement](http://9gag.com/gag/aByGyQD)<!-- MEMES:END -->
+ - 😝 [Best seat in the house](http://9gag.com/gag/aQzZQE2)
+ - 💣 [Arsonist in a gas station, insane...](http://9gag.com/gag/aRBoZzq)
+ - 😝 [I think I downloaded the wrong version of the Office](http://9gag.com/gag/aPAQPNQ)
+ - 👉 [UK is really a great country](http://9gag.com/gag/aMVvmnP)<!-- MEMES:END -->
 
 ---
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anyway, here&#39;s the view of Dubai](http://9gag.com/gag/aGyA860)
  - 😝 [Now that&#39;s a rare insult](http://9gag.com/gag/aND4VEA)
- - 💣 [Men doing his thing](http://9gag.com/gag/aryq3DB)
+ - 😝 [Men doing his thing](http://9gag.com/gag/aryq3DB)
+ - 💣 [Doble kill!!!](http://9gag.com/gag/a7o2VzL)
  - 😝 [Remember...](http://9gag.com/gag/a9y28qL)
  - 👉 [What a clown](http://9gag.com/gag/a872Dop)<!-- MEMES:END -->
 

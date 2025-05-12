@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s pretty neat](http://9gag.com/gag/aKGevKZ)
- - 😝 [I did.](http://9gag.com/gag/aRBoZ47)
- - 💣 [You never know...](http://9gag.com/gag/aryqX70)
- - 😝 [Sorry for the Shitstagram logo](http://9gag.com/gag/aW4b7Nq)
- - 👉 [Two types of girls.](http://9gag.com/gag/aPAQm0R)<!-- MEMES:END -->
+ - 😝 [This video made me order an air purifier instantly](http://9gag.com/gag/a7o20vz)
+ - 😝 [Arsonist in a gas station, insane...](http://9gag.com/gag/aRBoZzq)
+ - 💣 [Gotta love New York.](http://9gag.com/gag/aND4Q5G)
+ - 😝 [Join me on my quest](http://9gag.com/gag/aMVvBjW)
+ - 👉 [Happy mama&#39;s day](http://9gag.com/gag/aZZjwbV)<!-- MEMES:END -->
 
 ---
 

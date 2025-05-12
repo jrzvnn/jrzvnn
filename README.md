@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Absolute cinema](http://9gag.com/gag/ayNR3Oq)
- - 😝 [BJJ trained man break the arm of a gun-wielding robber](http://9gag.com/gag/azxRdBZ)
- - 💣 [Join me on my quest](http://9gag.com/gag/aMVvBjW)
- - 😝 [Dirty tart](http://9gag.com/gag/a2v2wOY)
- - 👉 [Arsonist in a gas station, insane...](http://9gag.com/gag/aRBoZzq)<!-- MEMES:END -->
+ - 😝 [I did.](http://9gag.com/gag/aRBoZ47)
+ - 😝 [Sorry for the Shitstagram logo](http://9gag.com/gag/aW4b7Nq)
+ - 💣 [Two types of girls.](http://9gag.com/gag/aPAQm0R)
+ - 😝 [During last meeting with Zelenski in Prague one of Czech diplomates Tom\u00e1\u0161 Kope\u010dn\u00fd has socks with burning Moskva](http://9gag.com/gag/axyR6wn)
+ - 👉 [Make the right choices my fellow retards](http://9gag.com/gag/an7En4q)<!-- MEMES:END -->
 
 ---
 

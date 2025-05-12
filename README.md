@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Apple Card promotion offers users 6% cash back on Nike purchases](https://appleinsider.com/articles/25/05/12/apple-card-promotion-offers-users-6-cash-back-on-nike-purchases?utm_medium=rss)
  - [Duolingo is replacing hearts with energy](https://www.theverge.com/news/665315/duolingo-hearts-energy-system)
- - [Trump Kills &#39;Woke&#39; Broadband Program Because It Has the Word &#39;Equity&#39;](https://www.cnet.com/home/internet/trump-kills-woke-broadband-program-because-it-has-the-word-equity/#ftag=CAD590a51e)
- - [NBA Playoffs 2025: How to Watch Celtics vs. Knicks Game 4 Tonight](https://www.cnet.com/tech/services-and-software/nba-playoffs-2025-how-to-watch-celtics-vs-knicks-game-4-tonight/#ftag=CAD590a51e)
- - [Copyright Office Punts on AI and Fair Use, One of the Biggest Questions Surrounding Gen AI](https://www.cnet.com/tech/services-and-software/copyright-office-punts-on-ai-and-fair-use-one-of-the-biggest-questions-surrounding-gen-ai/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Trump administration announces &amp;#8216;illegal&amp;#8217; rollback of energy and water efficiency standards](https://www.theverge.com/news/665213/energy-efficiency-standards-rollback-trump-doe)
+ - [Apple discontinuing support for older Home architecture with iOS 19](https://appleinsider.com/articles/25/05/12/apple-discontinuing-support-for-older-home-architecture-with-ios-19?utm_medium=rss)
+ - [E-commerce logistics startup Cart.com says it raised $50M, is now valued at $1.6B, is on track to cross $500M in revenue this year, and plans more acquisitions &lpar;Colin Campbell/Axios&rpar;](http://www.techmeme.com/250512/p28#a250512p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

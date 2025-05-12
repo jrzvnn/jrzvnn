@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [The average experience of engineers in Poland](http://9gag.com/gag/agm48Nv)
  - 😝 [Anyway, here&#39;s the view of Dubai](http://9gag.com/gag/aGyA860)
- - 💣 [Remember...](http://9gag.com/gag/a9y28qL)
- - 😝 [Men doing his thing](http://9gag.com/gag/aryq3DB)
+ - 💣 [Men doing his thing](http://9gag.com/gag/aryq3DB)
+ - 😝 [Remember...](http://9gag.com/gag/a9y28qL)
  - 👉 [What a clown](http://9gag.com/gag/a872Dop)<!-- MEMES:END -->
 
 ---

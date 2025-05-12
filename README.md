@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We have a dinosaur tail is preserved in amber..!!](http://9gag.com/gag/abAB4nE)
+ - 😝 [It looks like Venom&#39;s spawn.](http://9gag.com/gag/aoyL4Be)
  - 😝 [Make the right choices my fellow retards](http://9gag.com/gag/an7En4q)
- - 💣 [What a clown](http://9gag.com/gag/a872Dop)
- - 😝 [The average experience of engineers in Poland](http://9gag.com/gag/agm48Nv)
+ - 💣 [The average experience of engineers in Poland](http://9gag.com/gag/agm48Nv)
+ - 😝 [What a clown](http://9gag.com/gag/a872Dop)
  - 👉 [A wish is a wish](http://9gag.com/gag/abABORb)<!-- MEMES:END -->
 
 ---

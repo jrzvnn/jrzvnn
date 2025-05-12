@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Aye on point](http://9gag.com/gag/a872A03)
- - 😝 [Looking at you Big 4.](http://9gag.com/gag/azxRPom)
- - 💣 [Make the right choices my fellow retards](http://9gag.com/gag/an7En4q)
- - 😝 [Actor Performs Stunning Fire Scene](http://9gag.com/gag/agm41bw)
- - 👉 [I did.](http://9gag.com/gag/aRBoZ47)<!-- MEMES:END -->
+ - 😝 [That elf guy](http://9gag.com/gag/aPAQm4V)
+ - 😝 [Weird, weird](http://9gag.com/gag/aByG6Vz)
+ - 💣 [Wait... What... How was 2024?](http://9gag.com/gag/aO8P8GD)
+ - 😝 [Yes it&#39;s the corn cob girl](http://9gag.com/gag/a6Z29wm)
+ - 👉 [I mean who really needs to wipe? Wiping is so over-rated.](http://9gag.com/gag/aQzZzy8)<!-- MEMES:END -->
 
 ---
 

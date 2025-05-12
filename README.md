@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looking at you Big 4.](http://9gag.com/gag/azxRPom)
- - 😝 [Actor Performs Stunning Fire Scene](http://9gag.com/gag/agm41bw)
- - 💣 [I did.](http://9gag.com/gag/aRBoZ47)
- - 😝 [Make the right choices my fellow retards](http://9gag.com/gag/an7En4q)
- - 👉 [That&#39;s pretty neat](http://9gag.com/gag/aKGevKZ)<!-- MEMES:END -->
+ - 😝 [I miss her. Also scotty doesn&#39;t know.](http://9gag.com/gag/a6Z25d9)
+ - 😝 [Happy mama&#39;s day](http://9gag.com/gag/aZZjwbV)
+ - 💣 [As matt rife said, the replacement](http://9gag.com/gag/aByGyQD)
+ - 😝 [Would you ride this one?](http://9gag.com/gag/azxR57p)
+ - 👉 [Arsonist in a gas station, insane...](http://9gag.com/gag/aRBoZzq)<!-- MEMES:END -->
 
 ---
 

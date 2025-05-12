@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Arsonist in a gas station, insane...](http://9gag.com/gag/aRBoZzq)
- - 😝 [Dirty tart](http://9gag.com/gag/a2v2wOY)
+ - 😝 [Absolute cinema](http://9gag.com/gag/ayNR3Oq)
+ - 😝 [BJJ trained man break the arm of a gun-wielding robber](http://9gag.com/gag/azxRdBZ)
  - 💣 [Join me on my quest](http://9gag.com/gag/aMVvBjW)
- - 😝 [B*tch STFU](http://9gag.com/gag/ae9mO6Q)
- - 👉 [We have a dinosaur tail is preserved in amber..!!](http://9gag.com/gag/abAB4nE)<!-- MEMES:END -->
+ - 😝 [Dirty tart](http://9gag.com/gag/a2v2wOY)
+ - 👉 [Arsonist in a gas station, insane...](http://9gag.com/gag/aRBoZzq)<!-- MEMES:END -->
 
 ---
 

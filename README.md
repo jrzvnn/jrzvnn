@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The average experience of engineers in Poland](http://9gag.com/gag/agm48Nv)
- - 😝 [We have a dinosaur tail is preserved in amber..!!](http://9gag.com/gag/abAB4nE)
- - 💣 [During last meeting with Zelenski in Prague one of Czech diplomates Tom\u00e1\u0161 Kope\u010dn\u00fd has socks with burning Moskva](http://9gag.com/gag/axyR6wn)
+ - 😝 [It looks like Venom&#39;s spawn.](http://9gag.com/gag/aoyL4Be)
+ - 😝 [During last meeting with Zelenski in Prague one of Czech diplomates Tom\u00e1\u0161 Kope\u010dn\u00fd has socks with burning Moskva](http://9gag.com/gag/axyR6wn)
+ - 💣 [The average experience of engineers in Poland](http://9gag.com/gag/agm48Nv)
  - 😝 [Make the right choices my fellow retards](http://9gag.com/gag/an7En4q)
  - 👉 [A wish is a wish](http://9gag.com/gag/abABORb)<!-- MEMES:END -->
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [My X Account Was Hijacked to Sell a Fake WIRED Memecoin. Then Came the Backlash](https://www.wired.com/story/wired-memecoin-scam-hacked-x-account/)
- - [Google’s AI image-to-video generator launches on Honor’s new phones](https://www.theverge.com/news/664812/google-honor-ai-image-to-video-gemini)
- - [The US and China agree a deal to lower tariffs for the next 90 days, a sign of easing tensions; the US will cut tariffs on Chinese goods to 30% from 145% &lpar;Financial Times&rpar;](http://www.techmeme.com/250512/p4#a250512p4)
- - [US and China slash tariffs](https://www.theverge.com/news/664811/us-china-pause-tariffs-90-days)
- - [A profile of HoYoverse, the creator of Genshin Impact, which is exploring new game genres as its titles begin to cannibalize each other and revenue growth slows &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250512/p3#a250512p3)<!-- TECH:END -->
+ - [Sources: Apple considers raising prices for its fall iPhone lineup, a step it is seeking to couple with new features and design tweaks, without blaming tariffs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250512/p6#a250512p6)
+ - [Apple Brought These Fun New Emoji to Your iPhone With iOS 18.4](https://www.cnet.com/tech/services-and-software/apple-brought-these-fun-new-emoji-to-your-iphone-with-ios-18-4/#ftag=CAD590a51e)
+ - [How India aims to become a regional data center hub, leveraging its low energy pricing and AI-skilled workforce; power supply constraints pose a major challenge &lpar;Financial Times&rpar;](http://www.techmeme.com/250512/p5#a250512p5)
+ - [Deepfakes, Scams, and the Age of Paranoia](https://www.wired.com/story/paranoia-social-engineering-real-fake/)
+ - [Best CD Rates This Week: Take Advantage of the Fed&#39;s Rate Cut While You Can](https://www.cnet.com/personal-finance/banking/best-cd-rates-this-week-take-advantage-of-the-feds-rate-cut-while-you-can/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

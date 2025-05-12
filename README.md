@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Two types of girls.](http://9gag.com/gag/aPAQm0R)
- - 😝 [Best seat in the house](http://9gag.com/gag/aQzZQE2)
- - 💣 [Arsonist in a gas station, insane...](http://9gag.com/gag/aRBoZzq)
- - 😝 [I think I downloaded the wrong version of the Office](http://9gag.com/gag/aPAQPNQ)
- - 👉 [UK is really a great country](http://9gag.com/gag/aMVvmnP)<!-- MEMES:END -->
+ - 😝 [New Mexico Police Use Non-Lethal Force to Disarm Armed Boys, 7 and 9](http://9gag.com/gag/aByG6Lz)
+ - 😝 [Arsonist in a gas station, insane...](http://9gag.com/gag/aRBoZzq)
+ - 💣 [When cut scenes are made on the game engine](http://9gag.com/gag/aPAQmXP)
+ - 😝 [This video made me order an air purifier instantly](http://9gag.com/gag/a7o20vz)
+ - 👉 [I need instructions](http://9gag.com/gag/amoMWW9)<!-- MEMES:END -->
 
 ---
 

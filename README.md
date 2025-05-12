@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ &amp; Gordon Ramsey cook up &#39;Knife Edge: Chasing Michelin Stars&#39;](https://appleinsider.com/articles/25/05/12/apple-tv-gordon-ramsey-cook-up-knife-edge-chasing-michelin-stars?utm_medium=rss)
- - [Amazon says the ad tier of Prime Video now reaches 130M+ US customers and it plans AI-powered tools for advertisers on Amazon including contextual ad copy &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/250512/p15#a250512p15)
- - [The upgraded VMU Pro turns the Dreamcast’s memory card into a handheld emulator](https://www.theverge.com/news/665012/8bitmods-sega-dreamcast-virtual-memory-unit-vmu-pro-emulator-nes-sega)
- - [FTC v. Meta: The antitrust battle over WhatsApp and Instagram](https://www.theverge.com/news/646809/ftc-v-meta-antitrust-monopoly-trial-instagram-whatsapp)
- - [The Switch 2 has a handy battery preservation mode](https://www.theverge.com/news/664999/nintendo-switch-2-battery-health-charging-90-percent-limit)<!-- TECH:END -->
+ - [iOS 18.5 is out now](https://www.theverge.com/news/665066/ios-18-5-update-out-now-download-iphone-13-satellite)
+ - [visionOS 2.5 is here with new Immersive Video and 3D movie tab in Apple TV app](https://appleinsider.com/articles/25/05/12/visionos-25-is-here-with-new-immersive-video-and-3d-movie-tab-in-apple-tv-app?utm_medium=rss)
+ - [Apple releases 18.5 updates for tvOS, HomePod](https://appleinsider.com/articles/25/05/12/apple-releases-185-updates-for-tvos-homepod?utm_medium=rss)
+ - [watchOS 11.5 rolls out focusing on stability and quality updates](https://appleinsider.com/articles/25/05/12/watchos-115-rolls-out-focusing-on-stability-and-quality-updates?utm_medium=rss)
+ - [Financial guidance service Stash says it raised a $146M Series H, has 1.3M paying subs, and its recently launched Money Coach AI has had 2.2M user interactions &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/250512/p17#a250512p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

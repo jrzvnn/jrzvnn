@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [My X Account Was Hijacked to Sell a Fake WIRED Memecoin. Then Came the Backlash](https://www.wired.com/story/wired-memecoin-scam-hacked-x-account/)
  - [Google’s AI image-to-video generator launches on Honor’s new phones](https://www.theverge.com/news/664812/google-honor-ai-image-to-video-gemini)
  - [The US and China agree a deal to lower tariffs for the next 90 days, a sign of easing tensions; the US will cut tariffs on Chinese goods to 30% from 145% &lpar;Financial Times&rpar;](http://www.techmeme.com/250512/p4#a250512p4)
  - [US and China slash tariffs](https://www.theverge.com/news/664811/us-china-pause-tariffs-90-days)
- - [A profile of HoYoverse, the creator of Genshin Impact, which is exploring new game genres as its titles begin to cannibalize each other and revenue growth slows &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250512/p3#a250512p3)
- - [Best Internet Providers in Portland, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-portland-or/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of HoYoverse, the creator of Genshin Impact, which is exploring new game genres as its titles begin to cannibalize each other and revenue growth slows &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250512/p3#a250512p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

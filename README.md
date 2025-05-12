@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US and China agree a deal to lower tariffs for the next 90 days, a sign of easing tensions; the US will cut tariffs on Chinese goods to 30% from 145% &lpar;Financial Times&rpar;](http://www.techmeme.com/250512/p4#a250512p4)
  - [US and China slash tariffs](https://www.theverge.com/news/664811/us-china-pause-tariffs-90-days)
  - [A profile of HoYoverse, the creator of Genshin Impact, which is exploring new game genres as its titles begin to cannibalize each other and revenue growth slows &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250512/p3#a250512p3)
  - [Best Internet Providers in Portland, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-portland-or/#ftag=CAD590a51e)
- - [Cairo-based Nawy, Africa&#39;s largest proptech platform combining listings with brokerage services, raised a $52M Series A led by Partech Africa &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/250512/p2#a250512p2)
- - [$25 Off DoorDash Promo Code | May 2025](https://www.wired.com/story/doordash-promo-code/)<!-- TECH:END -->
+ - [Cairo-based Nawy, Africa&#39;s largest proptech platform combining listings with brokerage services, raised a $52M Series A led by Partech Africa &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/250512/p2#a250512p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

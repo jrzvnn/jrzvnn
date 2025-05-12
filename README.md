@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is updating its &quot;G&quot; icon for the first time in 10 years, with its four colors now blending together on a gradient &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250512/p23#a250512p23)
  - [Apple turns to AI for battery management in iOS 19](https://appleinsider.com/articles/25/05/12/apple-turns-to-ai-for-battery-management-in-ios-19?utm_medium=rss)
- - [C1 modem and more: iOS 18.5 introduces more than 30 different security fixes](https://appleinsider.com/articles/25/05/12/c1-modem-and-more-ios-185-introduces-more-than-30-different-security-fixes?utm_medium=rss)
- - [A VIP Seat at Donald Trump’s Crypto Dinner Cost at Least $2 Million](https://www.wired.com/story/trumpcoin-dinner-ticket-bidding/)
- - [CrowdStrike CEO George Kurtz disclosed last month that he had gifted $1B+ worth of CrowdStrike stock to undisclosed recipients, cutting his voting power to 2.5% &lpar;Bloomberg&rpar;](http://www.techmeme.com/250512/p22#a250512p22)<!-- TECH:END -->
+ - [Sources: the Trump admin is considering a sale of hundreds of thousands of US AI chips to UAE&#39;s G42 and is expected to unveil a deal with Saudi Arabia&#39;s Humain &lpar;New York Times&rpar;](http://www.techmeme.com/250512/p24#a250512p24)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 13, #232](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-13-232/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for May 13, #436](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-13-436/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for May 13, #702](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-13-702/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

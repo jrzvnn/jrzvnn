@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dirty tart](http://9gag.com/gag/a2v2wOY)
- - 😝 [Actor Performs Stunning Fire Scene](http://9gag.com/gag/agm41bw)
- - 💣 [Happy mama&#39;s day](http://9gag.com/gag/aZZjwbV)
- - 😝 [Tiddies](http://9gag.com/gag/a3420Z3)
- - 👉 [Gotta love New York.](http://9gag.com/gag/aND4Q5G)<!-- MEMES:END -->
+ - 😝 [That&#39;s pretty neat](http://9gag.com/gag/aKGevKZ)
+ - 😝 [I did.](http://9gag.com/gag/aRBoZ47)
+ - 💣 [You never know...](http://9gag.com/gag/aryqX70)
+ - 😝 [Sorry for the Shitstagram logo](http://9gag.com/gag/aW4b7Nq)
+ - 👉 [Two types of girls.](http://9gag.com/gag/aPAQm0R)<!-- MEMES:END -->
 
 ---
 

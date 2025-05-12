@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Switch 2 will let you set an unlock PIN](https://www.theverge.com/news/664979/the-switch-2-will-let-you-set-an-unlock-pin)
+ - [Sources: Perplexity is in advanced talks to raise $500M led by Accel in a round that values it at $14B, up from $9B in November 2024 &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250512/p14#a250512p14)
  - [Google just changed its ‘G’ logo](https://www.theverge.com/news/664958/google-g-logo-gradient-design-change)
  - [The EPA Will Likely Gut Team That Studies Health Risks From Chemicals](https://www.wired.com/story/epa-iris-health-risks-chemicals-nancy-beck/)
- - [Peacock&amp;#8217;s NBA coverage will add an overlay with live shot stats](https://www.theverge.com/news/664513/peacock-nba-basketball-nbc-overlay-scorecard)
- - [Best 360 Cameras &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-360-cameras/)
- - [Best VPN for Android for 2025: Powerful Privacy Protection on the Go](https://www.cnet.com/tech/services-and-software/best-android-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Peacock&amp;#8217;s NBA coverage will add an overlay with live shot stats](https://www.theverge.com/news/664513/peacock-nba-basketball-nbc-overlay-scorecard)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

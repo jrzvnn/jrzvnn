@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Actor Performs Stunning Fire Scene](http://9gag.com/gag/agm41bw)
  - 😝 [Happy mama&#39;s day](http://9gag.com/gag/aZZjwbV)
- - 💣 [Two types of girls.](http://9gag.com/gag/aPAQm0R)
- - 😝 [Dirty tart](http://9gag.com/gag/a2v2wOY)
- - 👉 [UK is really a great country](http://9gag.com/gag/aMVvmnP)<!-- MEMES:END -->
+ - 😝 [Actor Performs Stunning Fire Scene](http://9gag.com/gag/agm41bw)
+ - 💣 [I need instructions](http://9gag.com/gag/amoMWW9)
+ - 😝 [UK is really a great country](http://9gag.com/gag/aMVvmnP)
+ - 👉 [Two types of girls.](http://9gag.com/gag/aPAQm0R)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple turns to AI for battery management in iOS 19](https://appleinsider.com/articles/25/05/12/apple-turns-to-ai-for-battery-management-in-ios-19?utm_medium=rss)
  - [CrowdStrike CEO George Kurtz disclosed last month that he had gifted $1B+ worth of CrowdStrike stock to undisclosed recipients, cutting his voting power to 2.5% &lpar;Bloomberg&rpar;](http://www.techmeme.com/250512/p22#a250512p22)
  - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
  - [Google&#39;s Gemma models passed 150M downloads and 70K+ variants on Hugging Face, after launching in Feb. 2024; Meta&#39;s Llama models passed 1.2B downloads in April &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250512/p21#a250512p21)
- - [Sources: Apple is planning an AI-powered battery management mode for iOS 19 that analyzes how a person uses their phone and makes adjustments to conserve energy &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250512/p20#a250512p20)
- - [Older macOS &amp; iPadOS versions got security updates too](https://appleinsider.com/articles/25/05/12/older-macos-ipados-versions-got-security-updates-too?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Apple is planning an AI-powered battery management mode for iOS 19 that analyzes how a person uses their phone and makes adjustments to conserve energy &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250512/p20#a250512p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s gone forever](http://9gag.com/gag/avyREgE)
- - 😝 [Actor Performs Stunning Fire Scene](http://9gag.com/gag/agm41bw)
- - 💣 [Happy mama&#39;s day](http://9gag.com/gag/aZZjwbV)
+ - 😝 [Video by Sergei Koshelev shows Going into the bottom of the reactor pit of Chernobyl. . See the intense radiation...](http://9gag.com/gag/aoyLRmX)
  - 😝 [When cut scenes are made on the game engine](http://9gag.com/gag/aPAQmXP)
- - 👉 [This video made me order an air purifier instantly](http://9gag.com/gag/a7o20vz)<!-- MEMES:END -->
+ - 💣 [22 story building melts in spectacular implosion.](http://9gag.com/gag/aoyLWng)
+ - 😝 [Tiddies](http://9gag.com/gag/a3420Z3)
+ - 👉 [UK is really a great country](http://9gag.com/gag/aMVvmnP)<!-- MEMES:END -->
 
 ---
 

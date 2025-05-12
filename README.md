@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When cut scenes are made on the game engine](http://9gag.com/gag/aPAQmXP)
- - 😝 [Feel bad for the guy that did this with his wife.](http://9gag.com/gag/awydgmr)
- - 💣 [Arsonist in a gas station, insane...](http://9gag.com/gag/aRBoZzq)
- - 😝 [New Mexico Police Use Non-Lethal Force to Disarm Armed Boys, 7 and 9](http://9gag.com/gag/aByG6Lz)
- - 👉 [Join me on my quest](http://9gag.com/gag/aMVvBjW)<!-- MEMES:END -->
+ - 😝 [Looking at you Big 4.](http://9gag.com/gag/azxRPom)
+ - 😝 [Actor Performs Stunning Fire Scene](http://9gag.com/gag/agm41bw)
+ - 💣 [I did.](http://9gag.com/gag/aRBoZ47)
+ - 😝 [Make the right choices my fellow retards](http://9gag.com/gag/an7En4q)
+ - 👉 [That&#39;s pretty neat](http://9gag.com/gag/aKGevKZ)<!-- MEMES:END -->
 
 ---
 

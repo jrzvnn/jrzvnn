@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonos &amp; Ikea, Matter update, &amp; the smart garden with BirdBuddy on HomeKit Insider](https://appleinsider.com/articles/25/05/12/sonos-ikea-matter-update-the-smart-garden-with-birdbuddy-on-homekit-insider?utm_medium=rss)
- - [US &amp; China pausing tariffs does not end the needless damage being done to consumers and businesses](https://appleinsider.com/articles/25/05/12/us-china-pausing-tariffs-does-not-end-the-needless-damage-being-done-to-consumers-and-businesses?utm_medium=rss)
- - [Sen. Tom Cotton introduces a bill to mandate AI chip makers to include geo-tracking tech to comply with export rules, taking effect six months from its passing &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250512/p12#a250512p12)
- - [Best Window Air Conditioners 2025: 10 Picks to Cool You for Years](https://www.wired.com/gallery/best-window-air-conditioners/)
- - [iPhone 17 cases could have really wild camera holes](https://appleinsider.com/articles/25/05/12/iphone-17-cases-could-have-really-wild-camera-holes?utm_medium=rss)<!-- TECH:END -->
+ - [Fox’s new streaming service will arrive just in time for football season](https://www.theverge.com/news/664913/fox-sports-news-streaming-service-nfl-season-launch)
+ - [Saudi Arabia launches Humain, a multibillion-dollar AI company chaired by Crown Prince Mohammed bin Salman, the main vehicle to drive the kingdom&#39;s AI strategy &lpar;Financial Times&rpar;](http://www.techmeme.com/250512/p13#a250512p13)
+ - [14 Best Bookshelf Speakers &lpar;2025&rpar;: Active, Passive, and Hi-Fi](https://www.wired.com/gallery/best-bookshelf-speakers/)
+ - [How Incogni Custom Removals go further to get your personal information removed from the internet](https://appleinsider.com/articles/25/05/12/how-incogni-custom-removals-go-further-to-get-your-personal-information-removed-from-the-internet?utm_medium=rss)
+ - [Did Apple get too big for its own good? With Daring Fireball’s John Gruber](https://www.theverge.com/decoder-podcast-with-nilay-patel/664802/apple-app-store-iphone-ios-fortnite-epic-games-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

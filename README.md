@@ -160,7 +160,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Google is updating its &quot;G&quot; icon for the first time in 10 years, with its four colors now blending together on a gradient &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250512/p23#a250512p23)
  - [Apple turns to AI for battery management in iOS 19](https://appleinsider.com/articles/25/05/12/apple-turns-to-ai-for-battery-management-in-ios-19?utm_medium=rss)
  - [C1 modem and more: iOS 18.5 introduces more than 30 different security fixes](https://appleinsider.com/articles/25/05/12/c1-modem-and-more-ios-185-introduces-more-than-30-different-security-fixes?utm_medium=rss)
- - [A VIP Seat at Donald Trump&#39;s Crypto Dinner Cost at Least $2 Million](https://www.wired.com/story/trumpcoin-dinner-ticket-bidding/)
+ - [A VIP Seat at Donald Trump’s Crypto Dinner Cost at Least $2 Million](https://www.wired.com/story/trumpcoin-dinner-ticket-bidding/)
  - [CrowdStrike CEO George Kurtz disclosed last month that he had gifted $1B+ worth of CrowdStrike stock to undisclosed recipients, cutting his voting power to 2.5% &lpar;Bloomberg&rpar;](http://www.techmeme.com/250512/p22#a250512p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

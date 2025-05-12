@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cairo-based Nawy, Africa&#39;s largest proptech platform combining listings with brokerage services, raised a $52M Series A led by Partech Africa &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/250512/p2#a250512p2)
  - [$25 Off DoorDash Promo Code | May 2025](https://www.wired.com/story/doordash-promo-code/)
  - [A look at Foresight, an AI model trained on anonymized NHS data from 57M people in England, which could help predict diseases or forecast hospitalization rates &lpar;Alex Wilkins/New Scientist&rpar;](http://www.techmeme.com/250512/p1#a250512p1)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 12, #231](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-12-231/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, May 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-may-12/#ftag=CAD590a51e)
- - [How OpenDNS, Cloudflare, and Google responded to EU court orders to block DNS resolution for pirate sites; OpenDNS left France and Belgium instead of complying &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/250511/p14#a250511p14)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, May 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-may-12/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

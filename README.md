@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s services revenue trajectory more uncertain than ever](https://appleinsider.com/articles/25/05/12/apples-services-revenue-trajectory-more-uncertain-than-ever?utm_medium=rss)
  - [Fox’s new streaming service will arrive just in time for football season](https://www.theverge.com/news/664913/fox-sports-news-streaming-service-nfl-season-launch)
  - [Saudi Arabia launches Humain, a multibillion-dollar AI company chaired by Crown Prince Mohammed bin Salman, the main vehicle to drive the kingdom&#39;s AI strategy &lpar;Financial Times&rpar;](http://www.techmeme.com/250512/p13#a250512p13)
  - [14 Best Bookshelf Speakers &lpar;2025&rpar;: Active, Passive, and Hi-Fi](https://www.wired.com/gallery/best-bookshelf-speakers/)
- - [How Incogni Custom Removals go further to get your personal information removed from the internet](https://appleinsider.com/articles/25/05/12/how-incogni-custom-removals-go-further-to-get-your-personal-information-removed-from-the-internet?utm_medium=rss)
- - [Did Apple get too big for its own good? With Daring Fireball’s John Gruber](https://www.theverge.com/decoder-podcast-with-nilay-patel/664802/apple-app-store-iphone-ios-fortnite-epic-games-lawsuit)<!-- TECH:END -->
+ - [How Incogni Custom Removals go further to get your personal information removed from the internet](https://appleinsider.com/articles/25/05/12/how-incogni-custom-removals-go-further-to-get-your-personal-information-removed-from-the-internet?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

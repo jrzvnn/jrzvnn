@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How President Trump is leveraging the US&#39; dominance in AI chips to secure strategic deals with Middle Eastern oil-rich countries like Saudi Arabia and the UAE &lpar;New York Times&rpar;](http://www.techmeme.com/250512/p8#a250512p8)
+ - [US and China temporarily lower tariffs to start trade negotiations](https://appleinsider.com/articles/25/05/12/us-and-china-temporarily-lower-tariffs-to-start-trade-negotiations?utm_medium=rss)
+ - [The Biggest Dating App Faux Pas for Gen Z? Being Cringe](https://www.wired.com/story/biggest-dating-app-faux-pas-for-gen-z-being-cringe/)
  - [Sources: SoftBank and OpenAI&#39;s $100B Stargate investment hits snags over tariffs fears; talks with dozens of lenders starting earlier in 2025 yielded no deals &lpar;Bloomberg&rpar;](http://www.techmeme.com/250512/p7#a250512p7)
- - [Google Keep brings text formatting to the web](https://www.theverge.com/news/664857/google-keep-rich-text-formatting-web-app)
- - [Sources: Apple considers raising prices for its fall iPhone lineup, a step it is seeking to couple with new features and design tweaks, without blaming tariffs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250512/p6#a250512p6)
- - [Apple Brought These Fun New Emoji to Your iPhone With iOS 18.4](https://www.cnet.com/tech/services-and-software/apple-brought-these-fun-new-emoji-to-your-iphone-with-ios-18-4/#ftag=CAD590a51e)
- - [How India aims to become a regional data center hub, leveraging its low energy pricing and AI-skilled workforce; power supply constraints pose a major challenge &lpar;Financial Times&rpar;](http://www.techmeme.com/250512/p5#a250512p5)<!-- TECH:END -->
+ - [Google Keep brings text formatting to the web](https://www.theverge.com/news/664857/google-keep-rich-text-formatting-web-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

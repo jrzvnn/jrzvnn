@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That elf guy](http://9gag.com/gag/aPAQm4V)
- - 😝 [Weird, weird](http://9gag.com/gag/aByG6Vz)
- - 💣 [Wait... What... How was 2024?](http://9gag.com/gag/aO8P8GD)
- - 😝 [Yes it&#39;s the corn cob girl](http://9gag.com/gag/a6Z29wm)
- - 👉 [I mean who really needs to wipe? Wiping is so over-rated.](http://9gag.com/gag/aQzZzy8)<!-- MEMES:END -->
+ - 😝 [Arsonist in a gas station, insane...](http://9gag.com/gag/aRBoZzq)
+ - 😝 [Would you ride this one?](http://9gag.com/gag/azxR57p)
+ - 💣 [I miss her. Also scotty doesn&#39;t know.](http://9gag.com/gag/a6Z25d9)
+ - 😝 [As matt rife said, the replacement](http://9gag.com/gag/aByGyQD)
+ - 👉 [A chicken being hypnotized by a chalk line drawn on the ground.](http://9gag.com/gag/aryqmQV)<!-- MEMES:END -->
 
 ---
 

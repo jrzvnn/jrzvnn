@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The EPA Will Likely Gut Team That Studies Health Risks From Chemicals](https://www.wired.com/story/epa-iris-health-risks-chemicals-nancy-beck/)
  - [Peacock&amp;#8217;s NBA coverage will add an overlay with live shot stats](https://www.theverge.com/news/664513/peacock-nba-basketball-nbc-overlay-scorecard)
  - [Best 360 Cameras &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-360-cameras/)
- - [Apple&#39;s spooky &#39;Mac to School&#39; ads highlight must-have Mac features for students](https://appleinsider.com/articles/25/05/12/apples-spooky-mac-to-school-ads-highlight-must-have-mac-features-for-students?utm_medium=rss)<!-- TECH:END -->
+ - [Best VPN for Android for 2025: Powerful Privacy Protection on the Go](https://www.cnet.com/tech/services-and-software/best-android-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

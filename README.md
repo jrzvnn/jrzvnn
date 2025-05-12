@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
+ - [Google&#39;s Gemma models passed 150M downloads and 70K+ variants on Hugging Face, after launching in Feb. 2024; Meta&#39;s Llama models passed 1.2B downloads in April &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250512/p21#a250512p21)
+ - [Sources: Apple is planning an AI-powered battery management mode for iOS 19 that analyzes how a person uses their phone and makes adjustments to conserve energy &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250512/p20#a250512p20)
  - [Older macOS &amp; iPadOS versions got security updates too](https://appleinsider.com/articles/25/05/12/older-macos-ipados-versions-got-security-updates-too?utm_medium=rss)
- - [American Bitcoin, a bitcoin miner backed by Donald Trump Jr. and Eric Trump, said it will list on the Nasdaq via an all-stock merger with Gryphon Digital Mining &lpar;Ateev Bhandari/Reuters&rpar;](http://www.techmeme.com/250512/p19#a250512p19)
- - [Lowest price: M3 iPad Air dips to $499 after $100 discount on Amazon](https://appleinsider.com/articles/25/05/12/lowest-price-m3-ipad-air-dips-to-499-after-100-discount-on-amazon?utm_medium=rss)
- - [Anker’s fast, two-headed USB-C cable is 31 percent off](https://www.theverge.com/tech/664959/anker-usb-c-2-in-1-charging-cable-oled-gaming-monitor-deal-sale)
- - [Two Men Claiming to Be Trump Appointees Blocked From Entering US Copyright Office](https://www.wired.com/story/us-copyright-office-trump-takeover/)<!-- TECH:END -->
+ - [American Bitcoin, a bitcoin miner backed by Donald Trump Jr. and Eric Trump, said it will list on the Nasdaq via an all-stock merger with Gryphon Digital Mining &lpar;Ateev Bhandari/Reuters&rpar;](http://www.techmeme.com/250512/p19#a250512p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

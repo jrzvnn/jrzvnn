@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Arsonist in a gas station, insane...](http://9gag.com/gag/aRBoZzq)
- - 😝 [Would you ride this one?](http://9gag.com/gag/azxR57p)
- - 💣 [I miss her. Also scotty doesn&#39;t know.](http://9gag.com/gag/a6Z25d9)
- - 😝 [As matt rife said, the replacement](http://9gag.com/gag/aByGyQD)
- - 👉 [A chicken being hypnotized by a chalk line drawn on the ground.](http://9gag.com/gag/aryqmQV)<!-- MEMES:END -->
+ - 😝 [Illinois has 24 schools where not a single child can read at grade level.. zero](http://9gag.com/gag/agm4OWw)
+ - 😝 [Back when Kevin Smith wasn&#39;t woke...](http://9gag.com/gag/aAy2yYo)
+ - 💣 [Spider tried to escape, but it ran out of silk.](http://9gag.com/gag/a7o2qRb)
+ - 😝 [Video by Sergei Koshelev shows Going into the bottom of the reactor pit of Chernobyl. . See the intense radiation...](http://9gag.com/gag/aoyLRmX)
+ - 👉 [UK is really a great country](http://9gag.com/gag/aMVvmnP)<!-- MEMES:END -->
 
 ---
 

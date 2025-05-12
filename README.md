@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remember...](http://9gag.com/gag/a9y28qL)
- - 😝 [It looks like Venom&#39;s spawn.](http://9gag.com/gag/aoyL4Be)
- - 💣 [The average experience of engineers in Poland](http://9gag.com/gag/agm48Nv)
+ - 😝 [The average experience of engineers in Poland](http://9gag.com/gag/agm48Nv)
  - 😝 [A wish is a wish](http://9gag.com/gag/abABORb)
- - 👉 [Anyway, here&#39;s the view of Dubai](http://9gag.com/gag/aGyA860)<!-- MEMES:END -->
+ - 💣 [Anyway, here&#39;s the view of Dubai](http://9gag.com/gag/aGyA860)
+ - 😝 [Men doing his thing](http://9gag.com/gag/aryq3DB)
+ - 👉 [What a clown](http://9gag.com/gag/a872Dop)<!-- MEMES:END -->
 
 ---
 

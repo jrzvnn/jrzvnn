@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s Murderbot series is goofy sci-fi with a side of existential crisis](https://www.theverge.com/tv-reviews/664090/murderbot-season-1-review-apple-tv-plus)
+ - [10 Best Pet Cameras &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-pet-cameras/)
  - [Chinese government data: Chinese shipments of foreign-branded cellphones, including iPhones, dropped by 49.6% YoY to 1.887M in March 2025 &lpar;Reuters&rpar;](http://www.techmeme.com/250512/p11#a250512p11)
  - [Duolingo Is Bringing New &#39;Energy&#39; to Language Learning](https://www.cnet.com/tech/services-and-software/duolingo-is-bringing-new-energy-to-language-learning/#ftag=CAD590a51e)
- - [Indigenous scientists are fighting to protect their data — and their culture](https://www.theverge.com/features/664282/indigenous-data-sovereignty-native-trump-musk-dei)
- - [Apple&#39;s India imports to the U.S. doubled during April tariff trouble](https://appleinsider.com/articles/25/05/12/apples-india-imports-to-the-us-doubled-during-april-tariff-trouble?utm_medium=rss)
- - [Israeli quantum computing startup Classiq raised a $110M Series C led by Entree Capital, taking its total funding to $173M since its 2020 founding &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/250512/p10#a250512p10)<!-- TECH:END -->
+ - [Indigenous scientists are fighting to protect their data — and their culture](https://www.theverge.com/features/664282/indigenous-data-sovereignty-native-trump-musk-dei)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

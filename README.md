@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s Murderbot series is goofy sci-fi with a side of existential crisis](https://www.theverge.com/tv-reviews/664090/murderbot-season-1-review-apple-tv-plus)
- - [10 Best Pet Cameras &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-pet-cameras/)
- - [Chinese government data: Chinese shipments of foreign-branded cellphones, including iPhones, dropped by 49.6% YoY to 1.887M in March 2025 &lpar;Reuters&rpar;](http://www.techmeme.com/250512/p11#a250512p11)
- - [Duolingo Is Bringing New &#39;Energy&#39; to Language Learning](https://www.cnet.com/tech/services-and-software/duolingo-is-bringing-new-energy-to-language-learning/#ftag=CAD590a51e)
- - [Indigenous scientists are fighting to protect their data — and their culture](https://www.theverge.com/features/664282/indigenous-data-sovereignty-native-trump-musk-dei)<!-- TECH:END -->
+ - [iPhone 17 cases could have really wild camera holes](https://appleinsider.com/articles/25/05/12/iphone-17-cases-could-have-really-wild-camera-holes?utm_medium=rss)
+ - [The Overwatch developer team has unionized](https://www.theverge.com/news/664873/overwatch-union-microsoft-activision-blizzard)
+ - [Kia EV Truck: Everything We Know So Far About the New Electric Pickup](https://www.cnet.com/roadshow/news/kia-ev-truck-everything-we-know-so-far-about-the-new-electric-pickup/#ftag=CAD590a51e)
+ - [Hansker Productivity Vertical Gaming Mouse Review: Super Ergonomics](https://www.wired.com/review/hansker-productivity-vertical-gaming-mouse/)
+ - [Apple’s Murderbot series is goofy sci-fi with a side of existential crisis](https://www.theverge.com/tv-reviews/664090/murderbot-season-1-review-apple-tv-plus)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

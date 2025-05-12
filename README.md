@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Israeli quantum computing startup Classiq raised a $110M Series C led by Entree Capital, taking its total funding to $173M since its 2020 founding &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/250512/p10#a250512p10)
- - [Honor launches a free AI image-to-video generator powered by Google&#39;s Veo 2 in the Honor 400 and 400 Pro, shipping May 22; Veo 2 is limited to paid Gemini plans &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250512/p9#a250512p9)
- - [Apple may raise iPhone 17 prices but not blame tariffs](https://appleinsider.com/articles/25/05/12/apple-may-raise-iphone-17-prices-but-not-blame-tariffs?utm_medium=rss)
- - [How President Trump is leveraging the US&#39; dominance in AI chips to secure strategic deals with Middle Eastern oil-rich countries like Saudi Arabia and the UAE &lpar;New York Times&rpar;](http://www.techmeme.com/250512/p8#a250512p8)
- - [US and China temporarily lower tariffs to start trade negotiations](https://appleinsider.com/articles/25/05/12/us-and-china-temporarily-lower-tariffs-to-start-trade-negotiations?utm_medium=rss)<!-- TECH:END -->
+ - [Chinese government data: Chinese shipments of foreign-branded cellphones, including iPhones, dropped by 49.6% YoY to 1.887M in March 2025 &lpar;Reuters&rpar;](http://www.techmeme.com/250512/p11#a250512p11)
+ - [Duolingo Is Bringing New &#39;Energy&#39; to Language Learning](https://www.cnet.com/tech/services-and-software/duolingo-is-bringing-new-energy-to-language-learning/#ftag=CAD590a51e)
+ - [Indigenous scientists are fighting to protect their data — and their culture](https://www.theverge.com/features/664282/indigenous-data-sovereignty-native-trump-musk-dei)
+ - [Apple&#39;s India imports to the U.S. doubled during April tariff trouble](https://appleinsider.com/articles/25/05/12/apples-india-imports-to-the-us-doubled-during-april-tariff-trouble?utm_medium=rss)
+ - [Israeli quantum computing startup Classiq raised a $110M Series C led by Entree Capital, taking its total funding to $173M since its 2020 founding &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/250512/p10#a250512p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hands on with all the new features in iOS 18.5](https://appleinsider.com/articles/25/05/12/hands-on-with-all-the-new-features-in-ios-185?utm_medium=rss)
  - [Chegg says subs dropped 31% in Q1 to 3.2M; it will lay off 248 employees, or ~22% of its staff, to cut costs as students keep turning to AI tools like ChatGPT &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/250512/p18#a250512p18)
  - [iOS 18.5 ships with Mail refinements, new wallpaper](https://appleinsider.com/articles/25/05/12/ios-185-ships-with-mail-refinements-new-wallpaper?utm_medium=rss)
  - [Ticketmaster will finally show the full price of your ticket up front](https://www.theverge.com/news/665087/ticketmaster-all-in-prices-junk-fees)
- - [iOS 18.5 is out now](https://www.theverge.com/news/665066/ios-18-5-update-out-now-download-iphone-13-satellite)
- - [visionOS 2.5 is here with new Immersive Video and 3D movie tab in Apple TV app](https://appleinsider.com/articles/25/05/12/visionos-25-is-here-with-new-immersive-video-and-3d-movie-tab-in-apple-tv-app?utm_medium=rss)<!-- TECH:END -->
+ - [iOS 18.5 is out now](https://www.theverge.com/news/665066/ios-18-5-update-out-now-download-iphone-13-satellite)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

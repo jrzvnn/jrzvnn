@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Video by Sergei Koshelev shows Going into the bottom of the reactor pit of Chernobyl. . See the intense radiation...](http://9gag.com/gag/aoyLRmX)
- - 😝 [When cut scenes are made on the game engine](http://9gag.com/gag/aPAQmXP)
- - 💣 [22 story building melts in spectacular implosion.](http://9gag.com/gag/aoyLWng)
+ - 😝 [Dirty tart](http://9gag.com/gag/a2v2wOY)
+ - 😝 [Actor Performs Stunning Fire Scene](http://9gag.com/gag/agm41bw)
+ - 💣 [Happy mama&#39;s day](http://9gag.com/gag/aZZjwbV)
  - 😝 [Tiddies](http://9gag.com/gag/a3420Z3)
- - 👉 [UK is really a great country](http://9gag.com/gag/aMVvmnP)<!-- MEMES:END -->
+ - 👉 [Gotta love New York.](http://9gag.com/gag/aND4Q5G)<!-- MEMES:END -->
 
 ---
 

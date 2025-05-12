@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google just changed its ‘G’ logo](https://www.theverge.com/news/664958/google-g-logo-gradient-design-change)
+ - [The EPA Will Likely Gut Team That Studies Health Risks From Chemicals](https://www.wired.com/story/epa-iris-health-risks-chemicals-nancy-beck/)
  - [Peacock&amp;#8217;s NBA coverage will add an overlay with live shot stats](https://www.theverge.com/news/664513/peacock-nba-basketball-nbc-overlay-scorecard)
  - [Best 360 Cameras &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-360-cameras/)
- - [Apple&#39;s spooky &#39;Mac to School&#39; ads highlight must-have Mac features for students](https://appleinsider.com/articles/25/05/12/apples-spooky-mac-to-school-ads-highlight-must-have-mac-features-for-students?utm_medium=rss)
- - [Don&amp;#8217;t delete that &amp;#8216;Lopez Voice Assistant&amp;#8217; email — it&amp;#8217;s about Apple&amp;#8217;s Siri settlement](https://www.theverge.com/news/664927/lopez-voice-assistant-emails-apple-siri-spying-settlement)
- - [Apple&#39;s services revenue trajectory more uncertain than ever](https://appleinsider.com/articles/25/05/12/apples-services-revenue-trajectory-more-uncertain-than-ever?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s spooky &#39;Mac to School&#39; ads highlight must-have Mac features for students](https://appleinsider.com/articles/25/05/12/apples-spooky-mac-to-school-ads-highlight-must-have-mac-features-for-students?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

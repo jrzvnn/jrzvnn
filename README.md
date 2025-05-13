@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok will let you use an AI prompt to turn a photo into a video](https://www.theverge.com/news/666268/tiktok-ai-alive-prompt-photo-image-video)
- - [The FCC will investigate EchoStar&#39;s compliance with requirements to build a nationwide 5G network and EchoStar&#39;s use of spectrum, sought by SpaceX and others &lpar;Drew FitzGerald/Wall Street Journal&rpar;](http://www.techmeme.com/250513/p44#a250513p44)
- - [Amazon says it will work with Humain to invest $5B+ in a strategic partnership to help build an &quot;AI Zone&quot; in Saudi Arabia &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250513/p43#a250513p43)
- - [YouTube will stream an opening week NFL game for free](https://www.theverge.com/news/666236/youtube-nfl-week-1-free-game-stream-brazil-chargers)
- - [A look at Brian Chesky&#39;s efforts to turn Airbnb into a storefront for real-world services, after struggling with previous experiments to expand beyond vacations &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/250513/p42#a250513p42)<!-- TECH:END -->
+ - [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)
+ - [NASA Astronaut Snaps Knockout Views of Flower Moon in Full Bloom](https://www.cnet.com/science/space/nasa-astronaut-snaps-knockout-views-of-flower-moon-in-full-bloom/#ftag=CAD590a51e)
+ - [Marvel’s WWII action game has been delayed](https://www.theverge.com/games/666270/marvel-1943-rise-of-hydra-delayed-2026)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for May 14, #437](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-14-437/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for May 14, #1425](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-14-1425/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

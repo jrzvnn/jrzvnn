@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DJI said Mavic 4 Pro wouldn’t launch in US but these stores are selling it anyhow](https://www.theverge.com/drone/666425/dji-mavic-4-pro-on-sale-preorder-adorama-bh-photo)
  - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
  - [Trump&#39;s acting replacements for the Copyright Office are known to be unfriendly to the tech industry and not the kind of people that AI proponents would support &lpar;Tina Nguyen/The Verge&rpar;](http://www.techmeme.com/250513/p49#a250513p49)
  - [Judge slams lawyers for &amp;#8216;bogus AI-generated research&amp;#8217;](https://www.theverge.com/news/666443/judge-slams-lawyers-ai-bogus-research)
- - [Elon Musk’s apparent power play at the Copyright Office completely backfired](https://www.theverge.com/politics/666179/maga-elon-musk-sacks-copyright-office-perlmutter)
- - [Apple TV&amp;#8217;s wireless audio sync now works with Dolby Atmos](https://www.theverge.com/news/666418/apple-tv-4k-dolby-atmos-wireless-audio-sync-tvos-update)<!-- TECH:END -->
+ - [Elon Musk’s apparent power play at the Copyright Office completely backfired](https://www.theverge.com/politics/666179/maga-elon-musk-sacks-copyright-office-perlmutter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

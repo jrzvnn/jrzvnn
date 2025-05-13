@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to add, remove, and configure Mail accounts in iPadOS 18](https://appleinsider.com/articles/25/05/13/how-to-add-remove-and-configure-mail-accounts-in-ipados-18?utm_medium=rss)
+ - [US SEC Chair Paul Atkins says blockchains could enable novel securities use cases and &quot;policymaking will no longer result from ad hoc enforcement actions&quot; &lpar;Christopher Tepedino/Cointelegraph&rpar;](http://www.techmeme.com/250512/p34#a250512p34)
  - [Galaxy S25 Edge hands-on: the thin design is a breath of fresh air, sturdy, many specs match other S25 phones, but has a 3,900 mAh battery vs. S25&#39;s 4,000 mAh &lpar;Abrar Al-Heeti/CNET&rpar;](http://www.techmeme.com/250512/p33#a250512p33)
  - [Theom, which helps businesses safeguard and track sensitive data, raised a $20M Series A led by Wing VC, after an oversubscribed $16.4M seed round in late 2022 &lpar;Angus Loten/Wall Street Journal&rpar;](http://www.techmeme.com/250512/p32#a250512p32)
- - [Samsung announces the $1,100 Galaxy S25 Edge, which is 5.8mm thick and weighs 163g, making it 30% thinner and 25% lighter than the S25 Ultra, arriving on May 30 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250512/p31#a250512p31)
- - [TikTok Now Blocks Searches for Dangerous Chromebook Challenge](https://www.cnet.com/tech/dangerous-tiktok-chromebook-challenge-avoid-sparking-a-fire-in-your-laptop/#ftag=CAD590a51e)
- - [KinHanK K18G Monitor review: A balance between quality and convenience](https://appleinsider.com/articles/25/05/13/kinhank-k18g-monitor-review-a-balance-between-quality-and-convenience?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung announces the $1,100 Galaxy S25 Edge, which is 5.8mm thick and weighs 163g, making it 30% thinner and 25% lighter than the S25 Ultra, arriving on May 30 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250512/p31#a250512p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

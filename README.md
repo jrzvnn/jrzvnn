@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Restaurant tech startup Owner.com, which offers AI website building, marketing, and other tools raised $120M co-led by Meritech and Headline at a $1B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250513/p10#a250513p10)
  - [How to watch Google’s Android Show: I/O Edition today](https://www.theverge.com/news/665558/android-show-io-edition-google-how-to-watch)
  - [Robinhood agrees to acquire Toronto-based WonderFi, which owns crypto exchanges Bitbuy and Coinsquare, for CA$250M, or CA$0.36 per share, closing in H2 2025 &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/250513/p9#a250513p9)
  - [Microsoft extends Office app support on Windows 10 to 2028](https://www.theverge.com/news/665599/microsoft-365-office-apps-windows-10-end-of-support-extension-2028)
- - [Best Heart Rate Monitors &lpar;2025&rpar;, WIRED Tested and Reviewed](https://www.wired.com/gallery/best-heart-rate-monitors/)
- - [Analysis: Google faces €12B+ in damage claims from dozens of EU price comparison websites that allege it stole their customers, after a €2.4B EU fine in 2017 &lpar;Karin Matussek/Bloomberg&rpar;](http://www.techmeme.com/250513/p8#a250513p8)<!-- TECH:END -->
+ - [Best Heart Rate Monitors &lpar;2025&rpar;, WIRED Tested and Reviewed](https://www.wired.com/gallery/best-heart-rate-monitors/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok will let you use an AI prompt to turn a photo into a video](https://www.theverge.com/news/666268/tiktok-ai-alive-prompt-photo-image-video)
+ - [The FCC will investigate EchoStar&#39;s compliance with requirements to build a nationwide 5G network and EchoStar&#39;s use of spectrum, sought by SpaceX and others &lpar;Drew FitzGerald/Wall Street Journal&rpar;](http://www.techmeme.com/250513/p44#a250513p44)
+ - [Amazon says it will work with Humain to invest $5B+ in a strategic partnership to help build an &quot;AI Zone&quot; in Saudi Arabia &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250513/p43#a250513p43)
  - [YouTube will stream an opening week NFL game for free](https://www.theverge.com/news/666236/youtube-nfl-week-1-free-game-stream-brazil-chargers)
- - [A look at Brian Chesky&#39;s efforts to turn Airbnb into a storefront for real-world services, after struggling with previous experiments to expand beyond vacations &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/250513/p42#a250513p42)
- - [House Republicans introduced language to the Budget Reconciliation bill that would ban US states from enforcing any AI regulation for 10 years &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250513/p41#a250513p41)
- - [Farmers win legal fight to bring climate resources back to federal websites](https://www.theverge.com/news/666150/farmers-organic-lawsuit-trump-usda-website-climate-change-data)
- - [The UK House of Lords again rebuffs the government&#39;s AI plans by adding an amendment to a bill to require AI firms list copyrighted content used to train models &lpar;The Guardian&rpar;](http://www.techmeme.com/250513/p40#a250513p40)<!-- TECH:END -->
+ - [A look at Brian Chesky&#39;s efforts to turn Airbnb into a storefront for real-world services, after struggling with previous experiments to expand beyond vacations &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/250513/p42#a250513p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

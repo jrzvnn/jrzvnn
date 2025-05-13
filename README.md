@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google will add Gemini to Wear OS 6, Android Auto, Google TV, and Android XR later this year &lpar;Guemmy Kim/The Keyword&rpar;](http://www.techmeme.com/250513/p34#a250513p34)
+ - [PayPal reportedly launches iPhone NFC payments in Germany, after the EU&#39;s DMA forced Apple to open up &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250513/p33#a250513p33)
  - [Google says Android 16 adds device-level security features for its Advanced Protection Program, including intrusion logging for threat analysis &lpar;Il-Sung Lee/Google Online Security Blog&rpar;](http://www.techmeme.com/250513/p32#a250513p32)
  - [Google says that over one billion RCS messages are sent each day in the US &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250513/p31#a250513p31)
- - [Google announces its Material 3 Expressive design, which it will roll out to Android and Wear OS, nearly four years after introducing Material You &lpar;Mindy Brooks/The Keyword&rpar;](http://www.techmeme.com/250513/p30#a250513p30)
- - [Google announces Android 16 security features like expanded fraud detection in Messages, prevention of some actions while on calls, like side loading apps, more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250513/p29#a250513p29)
- - [PayPal launches iPhone NFC payments in Germany after EU forced Apple to open up](https://www.theverge.com/news/666009/paypal-tap-to-pay-nfc-iphone-eu-dma)<!-- TECH:END -->
+ - [Google announces its Material 3 Expressive design, which it will roll out to Android and Wear OS, nearly four years after introducing Material You &lpar;Mindy Brooks/The Keyword&rpar;](http://www.techmeme.com/250513/p30#a250513p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

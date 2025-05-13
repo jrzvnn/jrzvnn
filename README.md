@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Global tablet shipments grew 8.5% YoY to 36.8M in Q1, led by consumer and education refresh cycles; Apple&#39;s market share grew 14% to 37%, above Samsung&#39;s 18% &lpar;Canalys&rpar;](http://www.techmeme.com/250513/p28#a250513p28)
+ - [Google I/O&amp;#8217;s Android Show: live updates and announcements](https://www.theverge.com/google/665850/google-i-o-android-show)
+ - [FTC v. Meta: the US case may come down to whether Judge James Boasberg believes blockchain social platform MeWe is a closer competitor to Instagram than TikTok &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250513/p27#a250513p27)
  - [Cocomelon makes the jump from YouTube to theaters with new movie](https://www.theverge.com/news/665945/cocomelon-theatrical-movie-2027)
- - [Most Best Buys will have extra Switch 2 stock on launch day](https://www.theverge.com/news/665958/nintendo-switch-2-best-buy-stock-launch-day)
- - [The US Commerce Department formally rescinds the Biden-era AI Diffusion Rule, which would have limited US AI chip exports and taken effect on May 13 &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250513/p26#a250513p26)
- - [Mind control of an Apple Vision Pro is a reality that&#39;s still in development](https://appleinsider.com/articles/25/05/13/mind-control-of-an-apple-vision-pro-is-a-reality-thats-still-in-development?utm_medium=rss)
- - [Yuga Labs sells its CryptoPunks NFT collection, acquired in 2022, to Infinite Node Foundation for an undisclosed sum, after its market value and sales stagnated &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250513/p25#a250513p25)<!-- TECH:END -->
+ - [Most Best Buys will have extra Switch 2 stock on launch day](https://www.theverge.com/news/665958/nintendo-switch-2-best-buy-stock-launch-day)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

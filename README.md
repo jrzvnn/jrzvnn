@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Doble kill!!!](http://9gag.com/gag/a7o2VzL)
  - 😝 [Latest News](http://9gag.com/gag/aAy24Lo)
+ - 😝 [Need code for further research.](http://9gag.com/gag/aXPWWe2)
  - 💣 [Are you ready?](http://9gag.com/gag/aryqqN0)
  - 😝 [Forgot to mention my cooking experiences were all virtual... \ud83c\udf73\ud83e\uddd1\ud83c\udffd\ud83d\udcbb](http://9gag.com/gag/adBeem9)
- - 👉 [Need code for further research.](http://9gag.com/gag/aXPWWe2)<!-- MEMES:END -->
+ - 👉 [Do you like goth girls?](http://9gag.com/gag/aVvLL38)<!-- MEMES:END -->
 
 ---
 

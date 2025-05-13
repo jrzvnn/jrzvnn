@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dallas-based Bestow, which offers underwriting and insurance software to carriers, raised a $120M Series D led by Goldman Sachs and Smith Point Capital &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250513/p16#a250513p16)
- - [Apple previews new accessibility tools coming to iOS 19, visionOS 3, macOS 16](https://appleinsider.com/articles/25/05/13/apple-previews-new-accessibility-tools-coming-to-ios-19-visionos-3-macos-16?utm_medium=rss)
- - [Square’s New Handheld Payment Scanner Looks Like a Phone](https://www.wired.com/story/square-handheld/)
- - [Spotify’s AI DJ now takes requests](https://www.theverge.com/news/665595/spotify-ai-dj-voice-commands-feature-availability)
- - [Sources: ahead of I/O on May 20, Google is developing an AI &quot;software development lifecycle agent&quot; to help coders, and a Pinterest-like feature for consumers &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/250513/p15#a250513p15)<!-- TECH:END -->
+ - [Mind control of an Apple Vision Pro is a reality that&#39;s still in development](https://appleinsider.com/articles/25/05/13/mind-control-of-an-apple-vision-pro-is-a-reality-thats-still-in-development?utm_medium=rss)
+ - [Square&amp;#8217;s $399 Handheld accepts tap-to-pay at your table](https://www.theverge.com/news/665638/square-handheld-portable-pos-card-reader-launch)
+ - [Apple’s new Accessibility Reader can customize text across apps — and in real life](https://www.theverge.com/news/665658/apple-accessibility-reader-text-customize-font-color)
+ - [Spotify updates its AI DJ to let Premium subscribers use English voice commands to customize its music selection, taking requests for artists, genres, and moods &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250513/p17#a250513p17)
+ - [Letterboxd announces curated online film rental store](https://www.theverge.com/streaming-wars/665632/letterboxd-video-store)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

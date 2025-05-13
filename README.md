@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s this ,a house for ants ?](http://9gag.com/gag/a1m222R)
  - 😝 [Sums up alla my wishes and desires](http://9gag.com/gag/aPAQQAq)
+ - 😝 [Doble kill!!!](http://9gag.com/gag/a7o2VzL)
  - 💣 [Are you ready?](http://9gag.com/gag/aryqqN0)
  - 😝 [Forgot to mention my cooking experiences were all virtual... \ud83c\udf73\ud83e\uddd1\ud83c\udffd\ud83d\udcbb](http://9gag.com/gag/adBeem9)
- - 👉 [Doble kill!!!](http://9gag.com/gag/a7o2VzL)<!-- MEMES:END -->
+ - 👉 [It aint much, but its honest work](http://9gag.com/gag/aQzZZB7)<!-- MEMES:END -->
 
 ---
 

@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [How to add, remove, and configure Mail accounts in iPadOS 18](https://appleinsider.com/articles/25/05/13/how-to-add-remove-and-configure-mail-accounts-in-ipados-18?utm_medium=rss)
  - [US SEC Chair Paul Atkins says blockchains could enable novel securities use cases and &quot;policymaking will no longer result from ad hoc enforcement actions&quot; &lpar;Christopher Tepedino/Cointelegraph&rpar;](http://www.techmeme.com/250512/p34#a250512p34)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, May 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-may-13/#ftag=CAD590a51e)
  - [Galaxy S25 Edge hands-on: the thin design is a breath of fresh air, sturdy, many specs match other S25 phones, but has a 3,900 mAh battery vs. S25&#39;s 4,000 mAh &lpar;Abrar Al-Heeti/CNET&rpar;](http://www.techmeme.com/250512/p33#a250512p33)
- - [Theom, which helps businesses safeguard and track sensitive data, raised a $20M Series A led by Wing VC, after an oversubscribed $16.4M seed round in late 2022 &lpar;Angus Loten/Wall Street Journal&rpar;](http://www.techmeme.com/250512/p32#a250512p32)
- - [Samsung announces the $1,100 Galaxy S25 Edge, which is 5.8mm thick and weighs 163g, making it 30% thinner and 25% lighter than the S25 Ultra, arriving on May 30 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250512/p31#a250512p31)<!-- TECH:END -->
+ - [Theom, which helps businesses safeguard and track sensitive data, raised a $20M Series A led by Wing VC, after an oversubscribed $16.4M seed round in late 2022 &lpar;Angus Loten/Wall Street Journal&rpar;](http://www.techmeme.com/250512/p32#a250512p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

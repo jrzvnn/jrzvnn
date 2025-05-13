@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Gotta love New York.](http://9gag.com/gag/aND4Q5G)
+ - 😝 [Do you like goth girls?](http://9gag.com/gag/aVvLL38)
+ - 💣 [Are you ready?](http://9gag.com/gag/aryqqN0)
  - 😝 [Sums up alla my wishes and desires](http://9gag.com/gag/aPAQQAq)
- - 💣 [Do you like goth girls?](http://9gag.com/gag/aVvLL38)
- - 😝 [Are you ready?](http://9gag.com/gag/aryqqN0)
  - 👉 [Doble kill!!!](http://9gag.com/gag/a7o2VzL)<!-- MEMES:END -->
 
 ---

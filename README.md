@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mind control of an Apple Vision Pro is a reality that&#39;s still in development](https://appleinsider.com/articles/25/05/13/mind-control-of-an-apple-vision-pro-is-a-reality-thats-still-in-development?utm_medium=rss)
- - [Square&amp;#8217;s $399 Handheld accepts tap-to-pay at your table](https://www.theverge.com/news/665638/square-handheld-portable-pos-card-reader-launch)
- - [Apple’s new Accessibility Reader can customize text across apps — and in real life](https://www.theverge.com/news/665658/apple-accessibility-reader-text-customize-font-color)
- - [Spotify updates its AI DJ to let Premium subscribers use English voice commands to customize its music selection, taking requests for artists, genres, and moods &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250513/p17#a250513p17)
- - [Letterboxd announces curated online film rental store](https://www.theverge.com/streaming-wars/665632/letterboxd-video-store)<!-- TECH:END -->
+ - [Nvidia CEO Jensen Huang says the company will send AI chips to Saudi Arabia&#39;s Humain for a 500 MW data center buildout, as President Trump visits the kingdom &lpar;Bloomberg&rpar;](http://www.techmeme.com/250513/p19#a250513p19)
+ - [Why one obscure app could help crumble Meta’s empire](https://www.theverge.com/antitrust/665308/meta-ftc-antitrust-trial-market-definition-tiktok-mewe-snap)
+ - [Carbon credit certifier Verra suspends a Kenyan project used by Netflix, Meta, and others to bolster their green credentials over a dispute with Maasai herders &lpar;Caroline Kimeu/Wall Street Journal&rpar;](http://www.techmeme.com/250513/p18#a250513p18)
+ - [Apple will let the Vision Pro ‘see’ for you](https://www.theverge.com/news/665683/apple-vision-pro-accessibility-features-zoom-voiceover)
+ - [8 Best Automatic Litter Boxes &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-automatic-cat-litter-boxes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

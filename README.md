@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Photos adds &amp;#8216;Quick Edits&amp;#8217; when you share images](https://www.theverge.com/news/665809/google-photos-quick-edit-crop-enhance)
  - [Jude Law and Andrew Garfield bring magic and mayhem to Apple TV+ in &quot;Wild Things&quot;](https://appleinsider.com/articles/25/05/13/jude-law-and-andrew-garfield-bring-magic-and-mayhem-to-apple-tv-in-wild-things?utm_medium=rss)
  - [Microsoft announces layoffs that will impact at least 6,000 employees](https://www.theverge.com/news/659401/microsoft-layoffs-three-percent-workforce)
  - [AI therapy is a surveillance machine in a police state](https://www.theverge.com/policy/665685/ai-therapy-meta-chatbot-surveillance-risks-trump)
- - [Nintendo might brick your Switch if you break the rules](https://www.theverge.com/news/665765/nintendo-privacy-policy-update-switch-2)
- - [This new USB-C dock will allow any Apple Silicon Mac to connect 5 4K displays](https://appleinsider.com/articles/25/05/13/this-new-usb-c-dock-will-allow-any-apple-silicon-mac-to-connect-5-4k-displays?utm_medium=rss)<!-- TECH:END -->
+ - [Nintendo might brick your Switch if you break the rules](https://www.theverge.com/news/665765/nintendo-privacy-policy-update-switch-2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

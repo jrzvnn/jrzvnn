@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 24 Best Amazon Pet Day Deals &lpar;2025&rpar;](https://www.wired.com/story/amazon-pet-day-deals/)
  - [Top KitchenAid Promo Codes and Coupons](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
  - [How to add, remove, and configure Mail accounts in iPadOS 18](https://appleinsider.com/articles/25/05/13/how-to-add-remove-and-configure-mail-accounts-in-ipados-18?utm_medium=rss)
  - [US SEC Chair Paul Atkins says blockchains could enable novel securities use cases and &quot;policymaking will no longer result from ad hoc enforcement actions&quot; &lpar;Christopher Tepedino/Cointelegraph&rpar;](http://www.techmeme.com/250512/p34#a250512p34)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, May 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-may-13/#ftag=CAD590a51e)
- - [Galaxy S25 Edge hands-on: the thin design is a breath of fresh air, sturdy, many specs match other S25 phones, but has a 3,900 mAh battery vs. S25&#39;s 4,000 mAh &lpar;Abrar Al-Heeti/CNET&rpar;](http://www.techmeme.com/250512/p33#a250512p33)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, May 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-may-13/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

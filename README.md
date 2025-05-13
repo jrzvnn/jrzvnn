@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Global tablet shipments grew 8.5% YoY to 36.8M in Q1, led by consumer and education refresh cycles; Apple&#39;s market share grew 14% to 37%, above Samsung&#39;s 18% &lpar;Canalys&rpar;](http://www.techmeme.com/250513/p28#a250513p28)
- - [Google I/O&amp;#8217;s Android Show: live updates and announcements](https://www.theverge.com/google/665850/google-i-o-android-show)
- - [FTC v. Meta: the US case may come down to whether Judge James Boasberg believes blockchain social platform MeWe is a closer competitor to Instagram than TikTok &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250513/p27#a250513p27)
- - [Cocomelon makes the jump from YouTube to theaters with new movie](https://www.theverge.com/news/665945/cocomelon-theatrical-movie-2027)
- - [Most Best Buys will have extra Switch 2 stock on launch day](https://www.theverge.com/news/665958/nintendo-switch-2-best-buy-stock-launch-day)<!-- TECH:END -->
+ - [PayPal launches iPhone NFC payments in Germany after EU forced Apple to open up](https://www.theverge.com/news/666009/paypal-tap-to-pay-nfc-iphone-eu-dma)
+ - [Google Is Using On-Device AI to Spot Scam Texts and Investment Fraud](https://www.wired.com/story/google-io-on-device-ai-scam-texts/)
+ - [Android 16 Is Getting a Facelift, and Gemini Is Rolling Onto More Google Platforms](https://www.wired.com/story/android-16-gemini-new-features/)
+ - [Android’s youthful new design language just dropped](https://www.theverge.com/news/664316/android-material-three-expressive-design-ui-io)
+ - [Gemini is coming to TVs and cars, eventually](https://www.theverge.com/news/665161/google-gemini-tvs-cars-smartwatches-android-xr)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel says it certified Shell&#39;s lubricant-based method for cooling AI data center servers more efficiently after a two-year trial, in a bid to use less energy &lpar;Mitchell Ferman/Bloomberg&rpar;](http://www.techmeme.com/250513/p20#a250513p20)
- - [GM&#39;s New Battery Tech Could Be a Breakthrough for Affordable EVs](https://www.wired.com/story/gms-new-battery-tech-could-be-a-breakthrough-for-affordable-evs/)
- - [An $8.4 Billion Chinese Hub for Crypto Crime Is Incorporated in Colorado](https://www.wired.com/story/xinbi-guarantee-crypto-scam-hub/)
- - [GM says new battery chemistry will enable 400-mile range EVs](https://www.theverge.com/news/665223/gm-lmr-ev-battery-chemistry-range-miles)
- - [Nvidia CEO Jensen Huang says the company will send AI chips to Saudi Arabia&#39;s Humain for a 500 MW data center buildout, as President Trump visits the kingdom &lpar;Bloomberg&rpar;](http://www.techmeme.com/250513/p19#a250513p19)<!-- TECH:END -->
+ - [iPhone 17 Air vs Samsung Galaxy S25 Edge: Apple&#39;s thin iPhone competition](https://appleinsider.com/inside/iphone-17/vs/iphone-17-air-vs-samsung-galaxy-s25-edge-apples-thin-iphone-competition?utm_medium=rss)
+ - [Sources: Saudi Arabia&#39;s sovereign wealth fund-backed AI company HUMAIN has selected US-based chip developer Groq for its inference work &lpar;Kelsey Warner/Semafor&rpar;](http://www.techmeme.com/250513/p22#a250513p22)
+ - [Elliptic: a US-registered firm ran a Telegram black market for Chinese crypto scammers with $8.4B in sales since 2022; Telegram has now banned many accounts &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/250513/p21#a250513p21)
+ - [The CryptoPunks NFTs are being sold to a non-profit as their value continues to fall](https://www.theverge.com/news/665731/cryptopunks-nfts-sold-to-node-foundation-non-profit)
+ - [Intel says it certified Shell&#39;s lubricant-based method for cooling AI data center servers more efficiently after a two-year trial, in a bid to use less energy &lpar;Mitchell Ferman/Bloomberg&rpar;](http://www.techmeme.com/250513/p20#a250513p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

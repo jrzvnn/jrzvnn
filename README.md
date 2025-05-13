@@ -157,9 +157,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [eToro prices its shares at $52 for its IPO, above its expected range of $46 to $50, raising nearly $310M and valuing the company at about $4.2B &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250513/p51#a250513p51)
  - [Glass Imaging, which develops AI-powered software to improve digital image quality, raised a $20M Series A led by Insight Partners &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250513/p50#a250513p50)
  - [Apple research reveals potential of future Apple Intelligence tools](https://appleinsider.com/articles/25/05/13/apple-research-reveals-potential-of-future-apple-intelligence-tools?utm_medium=rss)
- - [Walmart Brings Back &#39;Basket Fee&#39; for Some Orders: What To Know](https://www.cnet.com/personal-finance/walmart-brings-back-basket-fee-for-some-orders-what-to-know/#ftag=CAD590a51e)
  - [DJI said Mavic 4 Pro wouldn’t launch in US but these stores are selling it anyhow](https://www.theverge.com/drone/666425/dji-mavic-4-pro-on-sale-preorder-adorama-bh-photo)
  - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)<!-- TECH:END -->
 

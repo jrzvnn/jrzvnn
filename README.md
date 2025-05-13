@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Men doing his thing](http://9gag.com/gag/aryq3DB)
  - 💣 [Remember...](http://9gag.com/gag/a9y28qL)
  - 😝 [What a clown](http://9gag.com/gag/a872Dop)
- - 👉 [BREAKING: First group of white refugees fleeing genocide and persecution in South Africa&rpar; have arrived in the United States!!](http://9gag.com/gag/ayNR1o8)<!-- MEMES:END -->
+ - 👉 [You never know...](http://9gag.com/gag/aryqX70)<!-- MEMES:END -->
 
 ---
 

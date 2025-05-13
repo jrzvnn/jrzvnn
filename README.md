@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WhatsApp v. NSO Group: NSO kept targeting WhatsApp users even after Meta sued, it spent $59M on R&amp;D in 2024, and its customers pay ~$3M-$30M to use Pegasus &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250513/p48#a250513p48)
+ - [The wireless GameCube controller for Switch 2 is available to preorder now](https://www.theverge.com/tech/666302/gamecube-switch-2-nintendo-preorder-buy)
+ - [PayPal&#39;s &#39;Tap To Pay&#39; contactless payment feature is now available to iPhone users in Germany](https://appleinsider.com/articles/25/05/13/paypals-tap-to-pay-contactless-payment-feature-is-now-available-to-iphone-users-in-germany?utm_medium=rss)
  - [Republicans push for a decadelong ban on states regulating AI](https://www.theverge.com/news/666288/republican-ai-state-regulation-ban-10-years)
- - [AMD and Humain partner to invest up to $10B on AI infrastructure over the next five years, including in data centers stretching from Saudi Arabia to the US &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250513/p47#a250513p47)
- - [10 of the Best Horror Movies to Stream on Max](https://www.cnet.com/tech/services-and-software/10-of-the-best-horror-movies-to-stream-on-max-may-2025/#ftag=CAD590a51e)
- - [Google says it is testing an &quot;AI Mode&quot; button on the Search homepage, replacing the &quot;I&#39;m Feeling Lucky&quot; button, with Labs users &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/250513/p46#a250513p46)
- - [Elon Musk’s apparent power play at the Copyright Office completely backfired](https://www.theverge.com/politics/666179/maga-elon-musk-sacks-copyright-office-perlmutter)<!-- TECH:END -->
+ - [AMD and Humain partner to invest up to $10B on AI infrastructure over the next five years, including in data centers stretching from Saudi Arabia to the US &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250513/p47#a250513p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

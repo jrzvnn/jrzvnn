@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $200 on Apple&#39;s 1TB MacBook Pro with M4 Pro chip, now $1,999](https://appleinsider.com/articles/25/05/13/save-200-on-apples-1tb-macbook-pro-with-m4-pro-chip-now-1999?utm_medium=rss)
- - [Here’s where you can preorder Samsung’s ultra-thin S25 Edge](https://www.theverge.com/tech/665062/samsung-galaxy-s25-edge-how-to-buy-preorder-price-release-date)
- - [Microsoft says it will lay off 6,000 staff in an bid to cut management layers, including at LinkedIn; Microsoft had 228K staff in June 2024 and cut 10K in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250513/p24#a250513p24)
- - [Valve will soon let you know if a game is compatible with your SteamOS device](https://www.theverge.com/news/665860/valve-steamos-compatibility-system-rating)
- - [Apple Music&#39;s Sound Therapy is designed to help you focus and sleep](https://appleinsider.com/articles/25/05/13/apple-musics-sound-therapy-is-designed-to-help-you-focus-and-sleep?utm_medium=rss)<!-- TECH:END -->
+ - [Cocomelon makes the jump from YouTube to theaters with new movie](https://www.theverge.com/news/665945/cocomelon-theatrical-movie-2027)
+ - [Most Best Buys will have extra Switch 2 stock on launch day](https://www.theverge.com/news/665958/nintendo-switch-2-best-buy-stock-launch-day)
+ - [The US Commerce Department formally rescinds the Biden-era AI Diffusion Rule, which would have limited US AI chip exports and taken effect on May 13 &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250513/p26#a250513p26)
+ - [Mind control of an Apple Vision Pro is a reality that&#39;s still in development](https://appleinsider.com/articles/25/05/13/mind-control-of-an-apple-vision-pro-is-a-reality-thats-still-in-development?utm_medium=rss)
+ - [Yuga Labs sells its CryptoPunks NFT collection, acquired in 2022, to Infinite Node Foundation for an undisclosed sum, after its market value and sales stagnated &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250513/p25#a250513p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

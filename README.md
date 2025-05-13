@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [So do I](http://9gag.com/gag/agm488n)
  - 😝 [Hack the brain](http://9gag.com/gag/aMVvn7P)
- - 💣 [Remember...](http://9gag.com/gag/a9y28qL)
- - 😝 [You never know...](http://9gag.com/gag/aryqX70)
+ - 💣 [You never know...](http://9gag.com/gag/aryqX70)
+ - 😝 [Remember...](http://9gag.com/gag/a9y28qL)
  - 👉 [What a clown](http://9gag.com/gag/a872Dop)<!-- MEMES:END -->
 
 ---

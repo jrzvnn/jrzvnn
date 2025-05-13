@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Donkey Kong Bananza for the Switch 2 is $7 cheaper at Costco](https://www.theverge.com/tech/665682/donkey-kong-bananza-switch-2-bose-samsung-edge-s25-deal-sale)
+ - [Apple turned pop songs into lofi beats to work / study / sleep to](https://www.theverge.com/news/665869/apple-umg-sound-therapy)
  - [Google Photos adds &amp;#8216;Quick Edits&amp;#8217; when you share images](https://www.theverge.com/news/665809/google-photos-quick-edit-crop-enhance)
  - [Jude Law and Andrew Garfield bring magic and mayhem to Apple TV+ in &quot;Wild Things&quot;](https://appleinsider.com/articles/25/05/13/jude-law-and-andrew-garfield-bring-magic-and-mayhem-to-apple-tv-in-wild-things?utm_medium=rss)
- - [Microsoft announces layoffs that will impact at least 6,000 employees](https://www.theverge.com/news/659401/microsoft-layoffs-three-percent-workforce)
- - [AI therapy is a surveillance machine in a police state](https://www.theverge.com/policy/665685/ai-therapy-meta-chatbot-surveillance-risks-trump)
- - [Nintendo might brick your Switch if you break the rules](https://www.theverge.com/news/665765/nintendo-privacy-policy-update-switch-2)<!-- TECH:END -->
+ - [Microsoft announces layoffs that will impact at least 6,000 employees](https://www.theverge.com/news/659401/microsoft-layoffs-three-percent-workforce)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

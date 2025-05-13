@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese drone company DJI unveils the €2,099 Mavic 4 Pro with a 360° rotating gimbal, and says it won&#39;t be available in the US at launch, a first for its drones &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250513/p13#a250513p13)
- - [Apple partners with brain-computer interface startup Synchron to explore letting iPhone users control the device with brain signals via a stent-like implant &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/250513/p12#a250513p12)
- - [Apple unveils iOS and macOS accessibility features: App Store Accessibility Nutrition Labels, Magnifier for Mac, Accessibility Reader, Braille Access, and more &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250513/p11#a250513p11)
- - [Apple Expands Accessibility Features Including Live Captions, Magnifier and Sound Recognition](https://www.cnet.com/tech/mobile/apple-expands-accessibility-features-like-live-captions-magnifier-and-sound-recognition/#ftag=CAD590a51e)
- - [DJI Mavic 4 Pro Tested: The Best Camera Drone for Photo Pros, but Not in the US](https://www.cnet.com/tech/computing/dji-mavic-4-pro-tested-the-best-camera-drone-for-photo-pros-but-not-in-the-us/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Dallas-based Bestow, which offers underwriting and insurance software to carriers, raised a $120M Series D led by Goldman Sachs and Smith Point Capital &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/250513/p16#a250513p16)
+ - [Apple previews new accessibility tools coming to iOS 19, visionOS 3, macOS 16](https://appleinsider.com/articles/25/05/13/apple-previews-new-accessibility-tools-coming-to-ios-19-visionos-3-macos-16?utm_medium=rss)
+ - [Square’s New Handheld Payment Scanner Looks Like a Phone](https://www.wired.com/story/square-handheld/)
+ - [Spotify’s AI DJ now takes requests](https://www.theverge.com/news/665595/spotify-ai-dj-voice-commands-feature-availability)
+ - [Sources: ahead of I/O on May 20, Google is developing an AI &quot;software development lifecycle agent&quot; to help coders, and a Pinterest-like feature for consumers &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/250513/p15#a250513p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

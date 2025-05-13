@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s Advanced Protection for Vulnerable Users Comes to Android](https://www.wired.com/story/google-advanced-protection-vulnerable-users-lockdown-android-16/)
- - [Unlike most mainstream social networks, Instagram has failed to scrub Kanye&#39;s pro-Nazi song &quot;Heil Hitler&quot;, with several posts garnering 1M+ views &lpar;Matthew Gault/404 Media&rpar;](http://www.techmeme.com/250513/p38#a250513p38)
- - [Airbnb Is in Midlife Crisis Mode](https://www.wired.com/story/airbnb-is-in-midlife-crisis-mode-reinvention-app-services/)
- - [Samsung’s Music Frame speaker is more of a bargain at 69 percent off](https://www.theverge.com/tech/666078/samsung-music-frame-smart-speaker-sale)
- - [TikTok launches TikTok AI Alive, which lets users turn static photos into videos in TikTok Stories using Story Camera &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250513/p37#a250513p37)<!-- TECH:END -->
+ - [The UK House of Lords again rebuffs the government&#39;s AI plans by adding an amendment to a bill to require AI firms list copyrighted content used to train models &lpar;The Guardian&rpar;](http://www.techmeme.com/250513/p40#a250513p40)
+ - [From Heating Oil to Heat Pump: One Homeowner&#39;s Savings Story](https://www.cnet.com/home/energy-and-utilities/from-heating-oil-to-heat-pump-one-homeowners-savings-story/#ftag=CAD590a51e)
+ - [The 2026 BMW iX is a best-case-scenario EV](https://www.theverge.com/bmw/665908/2026-bmw-ix-first-drive-refresh-pricing-specs)
+ - [Airbnb revamps its app with a Services section featuring personal chefs, trainers, hair stylists, and more; bookings can be made without vacation reservations &lpar;Clare Duffy/CNN&rpar;](http://www.techmeme.com/250513/p39#a250513p39)
+ - [Airbnb&amp;#8217;s new app has all of your vacation extras in one place](https://www.theverge.com/news/666191/airbnb-new-app-services-experiences)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

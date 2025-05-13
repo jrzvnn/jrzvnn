@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anyway, here&#39;s the view of Dubai](http://9gag.com/gag/aGyA860)
+ - 😝 [Hack the brain](http://9gag.com/gag/aMVvn7P)
  - 😝 [So do I](http://9gag.com/gag/agm488n)
  - 💣 [Remember...](http://9gag.com/gag/a9y28qL)
  - 😝 [You never know...](http://9gag.com/gag/aryqX70)

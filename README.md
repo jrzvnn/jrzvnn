@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reality check](http://9gag.com/gag/amoMMxv)
- - 😝 [Where did i saw something like this?](http://9gag.com/gag/aryqxW6)
- - 💣 [Forgot to mention my cooking experiences were all virtual... \ud83c\udf73\ud83e\uddd1\ud83c\udffd\ud83d\udcbb](http://9gag.com/gag/adBeem9)
+ - 😝 [Need code for further research.](http://9gag.com/gag/aXPWWe2)
  - 😝 [Sums up alla my wishes and desires](http://9gag.com/gag/aPAQQAq)
+ - 💣 [Forgot to mention my cooking experiences were all virtual... \ud83c\udf73\ud83e\uddd1\ud83c\udffd\ud83d\udcbb](http://9gag.com/gag/adBeem9)
+ - 😝 [What&#39;s this ,a house for ants ?](http://9gag.com/gag/a1m222R)
  - 👉 [Are you ready?](http://9gag.com/gag/aryqqN0)<!-- MEMES:END -->
 
 ---

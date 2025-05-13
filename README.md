@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spot on](http://9gag.com/gag/aD2VX1x)
  - 😝 [Need code for further research.](http://9gag.com/gag/aXPWWe2)
- - 💣 [Are you ready?](http://9gag.com/gag/aryqqN0)
+ - 😝 [Are you ready?](http://9gag.com/gag/aryqqN0)
+ - 💣 [Do you like goth girls?](http://9gag.com/gag/aVvLL38)
  - 😝 [Forgot to mention my cooking experiences were all virtual... \ud83c\udf73\ud83e\uddd1\ud83c\udffd\ud83d\udcbb](http://9gag.com/gag/adBeem9)
- - 👉 [Do you like goth girls?](http://9gag.com/gag/aVvLL38)<!-- MEMES:END -->
+ - 👉 [BREAKING: First group of white refugees fleeing genocide and persecution in South Africa&rpar; have arrived in the United States!!](http://9gag.com/gag/ayNR1o8)<!-- MEMES:END -->
 
 ---
 

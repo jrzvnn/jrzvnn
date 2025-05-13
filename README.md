@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: investors in US chipmaker Wolfspeed offered ~$600M to refinance a large convertible bond coming due in 2026, to pre-empt a potential bankruptcy filing &lpar;Sujeet Indap/Financial Times&rpar;](http://www.techmeme.com/250513/p7#a250513p7)
+ - [JD.com reports Q1 revenue up 16% YoY to ~$41.8B and net income up 53% YoY to ~$1.5B, driven by Chinese government stimulus measures to boost electronics sales &lpar;Bloomberg&rpar;](http://www.techmeme.com/250513/p6#a250513p6)
  - [German defense tech startup Helsing unveils an autonomous underwater drone fleet, the SG-1 Fathom, powered by its AI system Lura to detect and classify sounds &lpar;Sylvia Pfeifer/Financial Times&rpar;](http://www.techmeme.com/250513/p5#a250513p5)
  - [Microsoft reveals its rejected Start menu redesigns](https://www.theverge.com/news/665566/microsoft-new-start-menu-windows-11-redesign-concepts)
- - [UK retailer M&amp;S says hackers stole customer data in a cyberattack reported on April 22; UK retailers Harrods and Co-op also reported hacks in recent weeks &lpar;Nina Kienle/Wall Street Journal&rpar;](http://www.techmeme.com/250513/p4#a250513p4)
- - [Dealroom.co: content licensing and data marketplace startups like Pip Labs and ProRata have raised $215M since 2022 to help artists sell content for AI training &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250513/p3#a250513p3)
- - [SoftBank reports Q4 net profit up 124% YoY to ~$3.5B, a surprise profit and above a ~$182M loss est., due to improving valuations of Alibaba, T-Mobile, and more &lpar;David Keohane/Financial Times&rpar;](http://www.techmeme.com/250513/p2#a250513p2)<!-- TECH:END -->
+ - [UK retailer M&amp;S says hackers stole customer data in a cyberattack reported on April 22; UK retailers Harrods and Co-op also reported hacks in recent weeks &lpar;Nina Kienle/Wall Street Journal&rpar;](http://www.techmeme.com/250513/p4#a250513p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

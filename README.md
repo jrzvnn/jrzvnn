@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You never know...](http://9gag.com/gag/aryqX70)
- - 😝 [What a clown](http://9gag.com/gag/a872Dop)
- - 💣 [Remember...](http://9gag.com/gag/a9y28qL)
- - 😝 [Are you ready?](http://9gag.com/gag/aryqqN0)
- - 👉 [Gotta love New York.](http://9gag.com/gag/aND4Q5G)<!-- MEMES:END -->
+ - 😝 [What kind of model is this](http://9gag.com/gag/aO8PPOv)
+ - 😝 [Gotta love New York.](http://9gag.com/gag/aND4Q5G)
+ - 💣 [Sums up alla my wishes and desires](http://9gag.com/gag/aPAQQAq)
+ - 😝 [Do you like goth girls?](http://9gag.com/gag/aVvLL38)
+ - 👉 [Are you ready?](http://9gag.com/gag/aryqqN0)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk’s apparent power play at the Copyright Office completely backfired](https://www.theverge.com/politics/666179/maga-elon-musk-sacks-copyright-office-perlmutter)
- - [Chime files for a Nasdaq IPO under the symbol CHYM, reporting 8.6M active members at the end of March, up 23% YoY, and average revenue per active member of $251 &lpar;CNBC&rpar;](http://www.techmeme.com/250513/p45#a250513p45)
- - [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)
- - [NASA Astronaut Snaps Knockout Views of Flower Moon in Full Bloom](https://www.cnet.com/science/space/nasa-astronaut-snaps-knockout-views-of-flower-moon-in-full-bloom/#ftag=CAD590a51e)
- - [Marvel’s WWII action game has been delayed](https://www.theverge.com/games/666270/marvel-1943-rise-of-hydra-delayed-2026)<!-- TECH:END -->
+ - [Republicans push for a decadelong ban on states regulating AI](https://www.theverge.com/news/666288/republican-ai-state-regulation-ban-10-years)
+ - [AMD and Humain partner to invest up to $10B on AI infrastructure over the next five years, including in data centers stretching from Saudi Arabia to the US &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250513/p47#a250513p47)
+ - [10 of the Best Horror Movies to Stream on Max](https://www.cnet.com/tech/services-and-software/10-of-the-best-horror-movies-to-stream-on-max-may-2025/#ftag=CAD590a51e)
+ - [Google says it is testing an &quot;AI Mode&quot; button on the Search homepage, replacing the &quot;I&#39;m Feeling Lucky&quot; button, with Labs users &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/250513/p46#a250513p46)
+ - [Elon Musk’s apparent power play at the Copyright Office completely backfired](https://www.theverge.com/politics/666179/maga-elon-musk-sacks-copyright-office-perlmutter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

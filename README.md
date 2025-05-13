@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hack the brain](http://9gag.com/gag/aMVvn7P)
  - 😝 [You never know...](http://9gag.com/gag/aryqX70)
- - 💣 [Remember...](http://9gag.com/gag/a9y28qL)
  - 😝 [What a clown](http://9gag.com/gag/a872Dop)
+ - 💣 [Remember...](http://9gag.com/gag/a9y28qL)
+ - 😝 [Are you ready?](http://9gag.com/gag/aryqqN0)
  - 👉 [Gotta love New York.](http://9gag.com/gag/aND4Q5G)<!-- MEMES:END -->
 
 ---

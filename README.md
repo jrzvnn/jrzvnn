@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [It looks like Venom&#39;s spawn.](http://9gag.com/gag/aoyL4Be)
- - 😝 [BREAKING: First group of white refugees fleeing genocide and persecution in South Africa&rpar; have arrived in the United States!!](http://9gag.com/gag/ayNR1o8)
- - 💣 [Men doing his thing](http://9gag.com/gag/aryq3DB)
- - 😝 [Remember...](http://9gag.com/gag/a9y28qL)
- - 👉 [What a clown](http://9gag.com/gag/a872Dop)<!-- MEMES:END -->
+ - 😝 [Men doing his thing](http://9gag.com/gag/aryq3DB)
+ - 💣 [Remember...](http://9gag.com/gag/a9y28qL)
+ - 😝 [What a clown](http://9gag.com/gag/a872Dop)
+ - 👉 [BREAKING: First group of white refugees fleeing genocide and persecution in South Africa&rpar; have arrived in the United States!!](http://9gag.com/gag/ayNR1o8)<!-- MEMES:END -->
 
 ---
 

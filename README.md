@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Sums up alla my wishes and desires](http://9gag.com/gag/aPAQQAq)
  - 😝 [Doble kill!!!](http://9gag.com/gag/a7o2VzL)
- - 💣 [Are you ready?](http://9gag.com/gag/aryqqN0)
+ - 💣 [Latest News](http://9gag.com/gag/aAy24Lo)
  - 😝 [Forgot to mention my cooking experiences were all virtual... \ud83c\udf73\ud83e\uddd1\ud83c\udffd\ud83d\udcbb](http://9gag.com/gag/adBeem9)
- - 👉 [Latest News](http://9gag.com/gag/aAy24Lo)<!-- MEMES:END -->
+ - 👉 [Are you ready?](http://9gag.com/gag/aryqqN0)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This new USB-C dock will allow any Apple Silicon Mac to connect 5 4K displays](https://appleinsider.com/articles/25/05/13/this-new-usb-c-dock-will-allow-any-apple-silicon-mac-to-connect-5-4k-displays?utm_medium=rss)
- - [Apple will add App Store accessibility labels and new support for brain interface controls](https://www.theverge.com/news/665439/apple-accessibility-updates-ios-macos-vision-pro)
- - [Microsoft lays off 3% of employees across all levels, teams, and geographies &quot;to best position the company&quot;; Microsoft employed 228K at the end of June 2024 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250513/p23#a250513p23)
- - [iPhone 17 Air vs Samsung Galaxy S25 Edge: Apple&#39;s thin iPhone competition](https://appleinsider.com/inside/iphone-17/vs/iphone-17-air-vs-samsung-galaxy-s25-edge-apples-thin-iphone-competition?utm_medium=rss)
- - [Sources: Saudi Arabia&#39;s sovereign wealth fund-backed AI company HUMAIN has selected US-based chip developer Groq for its inference work &lpar;Kelsey Warner/Semafor&rpar;](http://www.techmeme.com/250513/p22#a250513p22)<!-- TECH:END -->
+ - [Jude Law and Andrew Garfield bring magic and mayhem to Apple TV+ in &quot;Wild Things&quot;](https://appleinsider.com/articles/25/05/13/jude-law-and-andrew-garfield-bring-magic-and-mayhem-to-apple-tv-in-wild-things?utm_medium=rss)
+ - [Microsoft announces layoffs that will impact at least 6,000 employees](https://www.theverge.com/news/659401/microsoft-layoffs-three-percent-workforce)
+ - [AI therapy is a surveillance machine in a police state](https://www.theverge.com/policy/665685/ai-therapy-meta-chatbot-surveillance-risks-trump)
+ - [Nintendo might brick your Switch if you break the rules](https://www.theverge.com/news/665765/nintendo-privacy-policy-update-switch-2)
+ - [This new USB-C dock will allow any Apple Silicon Mac to connect 5 4K displays](https://appleinsider.com/articles/25/05/13/this-new-usb-c-dock-will-allow-any-apple-silicon-mac-to-connect-5-4k-displays?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

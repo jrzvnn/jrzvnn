@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [House Republicans introduced language to the Budget Reconciliation bill that would ban US states from enforcing any AI regulation for 10 years &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250513/p41#a250513p41)
+ - [Farmers win legal fight to bring climate resources back to federal websites](https://www.theverge.com/news/666150/farmers-organic-lawsuit-trump-usda-website-climate-change-data)
  - [The UK House of Lords again rebuffs the government&#39;s AI plans by adding an amendment to a bill to require AI firms list copyrighted content used to train models &lpar;The Guardian&rpar;](http://www.techmeme.com/250513/p40#a250513p40)
- - [From Heating Oil to Heat Pump: One Homeowner&#39;s Savings Story](https://www.cnet.com/home/energy-and-utilities/from-heating-oil-to-heat-pump-one-homeowners-savings-story/#ftag=CAD590a51e)
- - [The 2026 BMW iX is a best-case-scenario EV](https://www.theverge.com/bmw/665908/2026-bmw-ix-first-drive-refresh-pricing-specs)
- - [Airbnb revamps its app with a Services section featuring personal chefs, trainers, hair stylists, and more; bookings can be made without vacation reservations &lpar;Clare Duffy/CNN&rpar;](http://www.techmeme.com/250513/p39#a250513p39)
- - [Airbnb&amp;#8217;s new app has all of your vacation extras in one place](https://www.theverge.com/news/666191/airbnb-new-app-services-experiences)<!-- TECH:END -->
+ - [The 45 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
+ - [The 2026 BMW iX is a best-case-scenario EV](https://www.theverge.com/bmw/665908/2026-bmw-ix-first-drive-refresh-pricing-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

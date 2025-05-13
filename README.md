@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: investors in US chipmaker Wolfspeed offered ~$600M to refinance a large convertible bond coming due in 2026, to pre-empt a potential bankruptcy filing &lpar;Sujeet Indap/Financial Times&rpar;](http://www.techmeme.com/250513/p7#a250513p7)
- - [JD.com reports Q1 revenue up 16% YoY to ~$41.8B and net income up 53% YoY to ~$1.5B, driven by Chinese government stimulus measures to boost electronics sales &lpar;Bloomberg&rpar;](http://www.techmeme.com/250513/p6#a250513p6)
- - [German defense tech startup Helsing unveils an autonomous underwater drone fleet, the SG-1 Fathom, powered by its AI system Lura to detect and classify sounds &lpar;Sylvia Pfeifer/Financial Times&rpar;](http://www.techmeme.com/250513/p5#a250513p5)
- - [Microsoft reveals its rejected Start menu redesigns](https://www.theverge.com/news/665566/microsoft-new-start-menu-windows-11-redesign-concepts)
- - [UK retailer M&amp;S says hackers stole customer data in a cyberattack reported on April 22; UK retailers Harrods and Co-op also reported hacks in recent weeks &lpar;Nina Kienle/Wall Street Journal&rpar;](http://www.techmeme.com/250513/p4#a250513p4)<!-- TECH:END -->
+ - [Best Heart Rate Monitors &lpar;2025&rpar;, WIRED Tested and Reviewed](https://www.wired.com/gallery/best-heart-rate-monitors/)
+ - [Analysis: Google faces €12B+ in damage claims from dozens of EU price comparison websites that allege it stole their customers, after a €2.4B EU fine in 2017 &lpar;Karin Matussek/Bloomberg&rpar;](http://www.techmeme.com/250513/p8#a250513p8)
+ - [Your Favorite Porn Stars Are Sick of Being Censored. But They’re Not Going Away](https://www.wired.com/story/pornhub-awards/)
+ - [Toyota is shortening the bZ4X’s name to just ‘bZ’](https://www.theverge.com/news/665241/toyota-bz4x-bz-update-range-battery-design)
+ - [Apple TV+ &amp; Gordon Ramsay cook up &#39;Knife Edge: Chasing Michelin Stars&#39;](https://appleinsider.com/articles/25/05/12/apple-tv-gordon-ramsey-cook-up-knife-edge-chasing-michelin-stars?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

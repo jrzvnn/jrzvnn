@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Restaurant tech startup Owner.com, which offers AI website building, marketing, and other tools raised $120M co-led by Meritech and Headline at a $1B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250513/p10#a250513p10)
- - [How to watch Google’s Android Show: I/O Edition today](https://www.theverge.com/news/665558/android-show-io-edition-google-how-to-watch)
- - [Robinhood agrees to acquire Toronto-based WonderFi, which owns crypto exchanges Bitbuy and Coinsquare, for CA$250M, or CA$0.36 per share, closing in H2 2025 &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/250513/p9#a250513p9)
- - [Microsoft extends Office app support on Windows 10 to 2028](https://www.theverge.com/news/665599/microsoft-365-office-apps-windows-10-end-of-support-extension-2028)
- - [Best Heart Rate Monitors &lpar;2025&rpar;, WIRED Tested and Reviewed](https://www.wired.com/gallery/best-heart-rate-monitors/)<!-- TECH:END -->
+ - [Chinese drone company DJI unveils the €2,099 Mavic 4 Pro with a 360° rotating gimbal, and says it won&#39;t be available in the US at launch, a first for its drones &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250513/p13#a250513p13)
+ - [Apple partners with brain-computer interface startup Synchron to explore letting iPhone users control the device with brain signals via a stent-like implant &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/250513/p12#a250513p12)
+ - [Apple unveils iOS and macOS accessibility features: App Store Accessibility Nutrition Labels, Magnifier for Mac, Accessibility Reader, Braille Access, and more &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250513/p11#a250513p11)
+ - [Apple Expands Accessibility Features Including Live Captions, Magnifier and Sound Recognition](https://www.cnet.com/tech/mobile/apple-expands-accessibility-features-like-live-captions-magnifier-and-sound-recognition/#ftag=CAD590a51e)
+ - [DJI Mavic 4 Pro Tested: The Best Camera Drone for Photo Pros, but Not in the US](https://www.cnet.com/tech/computing/dji-mavic-4-pro-tested-the-best-camera-drone-for-photo-pros-but-not-in-the-us/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

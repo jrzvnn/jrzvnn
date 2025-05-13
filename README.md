@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Trump&#39;s admin mulls a deal to let UAE import 500K of the most advanced AI chips each year until 2027; one-fifth would go to G42, the others to US firms &lpar;Bloomberg&rpar;](http://www.techmeme.com/250513/p35#a250513p35)
- - [ESPN&#39;s New Streaming App Will Launch With $30 Unlimited Price Tier](https://www.cnet.com/tech/services-and-software/espn-new-streaming-app-will-launch-espn-30-unlimited-price-tier/#ftag=CAD590a51e)
- - [The Android Show Live Blog: Android 16&#39;s New Design, Gemini on TV and Wear OS 6](https://www.cnet.com/tech/mobile/the-android-show-live-blog-android-16s-new-design-gemini-on-tv-and-wear-os-6/#ftag=CAD590a51e)
- - [Holding Out for the Nothing Phone 3? Here&#39;s How Much It Will Cost](https://www.cnet.com/tech/mobile/holding-out-for-the-nothing-phone-3-this-is-how-much-it-will-cost/#ftag=CAD590a51e)
- - [Google will add Gemini to Wear OS 6, Android Auto, Google TV, and Android XR later this year &lpar;Guemmy Kim/The Keyword&rpar;](http://www.techmeme.com/250513/p34#a250513p34)<!-- TECH:END -->
+ - [Google&#39;s Advanced Protection for Vulnerable Users Comes to Android](https://www.wired.com/story/google-advanced-protection-vulnerable-users-lockdown-android-16/)
+ - [Unlike most mainstream social networks, Instagram has failed to scrub Kanye&#39;s pro-Nazi song &quot;Heil Hitler&quot;, with several posts garnering 1M+ views &lpar;Matthew Gault/404 Media&rpar;](http://www.techmeme.com/250513/p38#a250513p38)
+ - [Airbnb Is in Midlife Crisis Mode](https://www.wired.com/story/airbnb-is-in-midlife-crisis-mode-reinvention-app-services/)
+ - [Samsung’s Music Frame speaker is more of a bargain at 69 percent off](https://www.theverge.com/tech/666078/samsung-music-frame-smart-speaker-sale)
+ - [TikTok launches TikTok AI Alive, which lets users turn static photos into videos in TikTok Stories using Story Camera &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250513/p37#a250513p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

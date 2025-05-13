@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Doble kill!!!](http://9gag.com/gag/a7o2VzL)
  - 💣 [Are you ready?](http://9gag.com/gag/aryqqN0)
  - 😝 [Forgot to mention my cooking experiences were all virtual... \ud83c\udf73\ud83e\uddd1\ud83c\udffd\ud83d\udcbb](http://9gag.com/gag/adBeem9)
- - 👉 [It aint much, but its honest work](http://9gag.com/gag/aQzZZB7)<!-- MEMES:END -->
+ - 👉 [Latest News](http://9gag.com/gag/aAy24Lo)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia CEO Jensen Huang says the company will send AI chips to Saudi Arabia&#39;s Humain for a 500 MW data center buildout, as President Trump visits the kingdom &lpar;Bloomberg&rpar;](http://www.techmeme.com/250513/p19#a250513p19)
- - [Why one obscure app could help crumble Meta’s empire](https://www.theverge.com/antitrust/665308/meta-ftc-antitrust-trial-market-definition-tiktok-mewe-snap)
- - [Carbon credit certifier Verra suspends a Kenyan project used by Netflix, Meta, and others to bolster their green credentials over a dispute with Maasai herders &lpar;Caroline Kimeu/Wall Street Journal&rpar;](http://www.techmeme.com/250513/p18#a250513p18)
- - [Apple will let the Vision Pro ‘see’ for you](https://www.theverge.com/news/665683/apple-vision-pro-accessibility-features-zoom-voiceover)
- - [8 Best Automatic Litter Boxes &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-automatic-cat-litter-boxes/)<!-- TECH:END -->
+ - [Intel says it certified Shell&#39;s lubricant-based method for cooling AI data center servers more efficiently after a two-year trial, in a bid to use less energy &lpar;Mitchell Ferman/Bloomberg&rpar;](http://www.techmeme.com/250513/p20#a250513p20)
+ - [GM&#39;s New Battery Tech Could Be a Breakthrough for Affordable EVs](https://www.wired.com/story/gms-new-battery-tech-could-be-a-breakthrough-for-affordable-evs/)
+ - [An $8.4 Billion Chinese Hub for Crypto Crime Is Incorporated in Colorado](https://www.wired.com/story/xinbi-guarantee-crypto-scam-hub/)
+ - [GM says new battery chemistry will enable 400-mile range EVs](https://www.theverge.com/news/665223/gm-lmr-ev-battery-chemistry-range-miles)
+ - [Nvidia CEO Jensen Huang says the company will send AI chips to Saudi Arabia&#39;s Humain for a 500 MW data center buildout, as President Trump visits the kingdom &lpar;Bloomberg&rpar;](http://www.techmeme.com/250513/p19#a250513p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

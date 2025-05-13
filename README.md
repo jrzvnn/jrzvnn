@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Anyway, here&#39;s the view of Dubai](http://9gag.com/gag/aGyA860)
- - 😝 [It looks like Venom&#39;s spawn.](http://9gag.com/gag/aoyL4Be)
+ - 😝 [So do I](http://9gag.com/gag/agm488n)
  - 💣 [Remember...](http://9gag.com/gag/a9y28qL)
- - 😝 [What a clown](http://9gag.com/gag/a872Dop)
- - 👉 [You never know...](http://9gag.com/gag/aryqX70)<!-- MEMES:END -->
+ - 😝 [You never know...](http://9gag.com/gag/aryqX70)
+ - 👉 [What a clown](http://9gag.com/gag/a872Dop)<!-- MEMES:END -->
 
 ---
 

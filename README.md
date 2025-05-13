@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Donkey Kong Bananza for the Switch 2 is $7 cheaper at Costco](https://www.theverge.com/tech/665682/donkey-kong-bananza-switch-2-bose-samsung-edge-s25-deal-sale)
- - [Apple turned pop songs into lofi beats to work / study / sleep to](https://www.theverge.com/news/665869/apple-umg-sound-therapy)
- - [Google Photos adds &amp;#8216;Quick Edits&amp;#8217; when you share images](https://www.theverge.com/news/665809/google-photos-quick-edit-crop-enhance)
- - [Jude Law and Andrew Garfield bring magic and mayhem to Apple TV+ in &quot;Wild Things&quot;](https://appleinsider.com/articles/25/05/13/jude-law-and-andrew-garfield-bring-magic-and-mayhem-to-apple-tv-in-wild-things?utm_medium=rss)
- - [Microsoft announces layoffs that will impact at least 6,000 employees](https://www.theverge.com/news/659401/microsoft-layoffs-three-percent-workforce)<!-- TECH:END -->
+ - [Save $200 on Apple&#39;s 1TB MacBook Pro with M4 Pro chip, now $1,999](https://appleinsider.com/articles/25/05/13/save-200-on-apples-1tb-macbook-pro-with-m4-pro-chip-now-1999?utm_medium=rss)
+ - [Here’s where you can preorder Samsung’s ultra-thin S25 Edge](https://www.theverge.com/tech/665062/samsung-galaxy-s25-edge-how-to-buy-preorder-price-release-date)
+ - [Microsoft says it will lay off 6,000 staff in an bid to cut management layers, including at LinkedIn; Microsoft had 228K staff in June 2024 and cut 10K in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250513/p24#a250513p24)
+ - [Valve will soon let you know if a game is compatible with your SteamOS device](https://www.theverge.com/news/665860/valve-steamos-compatibility-system-rating)
+ - [Apple Music&#39;s Sound Therapy is designed to help you focus and sleep](https://appleinsider.com/articles/25/05/13/apple-musics-sound-therapy-is-designed-to-help-you-focus-and-sleep?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

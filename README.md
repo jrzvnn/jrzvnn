@@ -157,10 +157,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dealroom.co: content licensing and data marketplace startups like Pip Labs and ProRata have raised $215M since 2022 to help artists sell content for AI training &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250513/p3#a250513p3)
  - [SoftBank reports Q4 net profit up 124% YoY to ~$3.5B, a surprise profit and above a ~$182M loss est., due to improving valuations of Alibaba, T-Mobile, and more &lpar;David Keohane/Financial Times&rpar;](http://www.techmeme.com/250513/p2#a250513p2)
  - [Beijing-based Meituan says it plans to spend $1B over five years to bring its food delivery service Keeta to Brazil, after a Saudi Arabia rollout in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250513/p1#a250513p1)
  - [Google might replace the ‘I’m Feeling Lucky’ button with AI Mode](https://www.theverge.com/news/665560/google-search-ai-mode-feeling-lucky-tests)
- - [&#39;Andor&#39; Ends Tonight: Here&#39;s When You Can Watch the Final Episodes](https://www.cnet.com/tech/services-and-software/andor-ends-tonight-heres-when-you-can-watch-the-final-episodes/#ftag=CAD590a51e)
  - [Trump reduces tax on cheap imports from China](https://www.theverge.com/news/665541/trump-reduces-tax-on-cheap-imports-from-china)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [12 Best USB Microphones &lpar;2025&rpar;: USB-C, USB-A, Wireless](https://www.wired.com/gallery/best-usb-microphones/)
+ - [China sentences Zhao Weiguo, ex-chair of state-backed chip firm Tsinghua Unigroup, to death with a two-year reprieve, a de facto life sentence, for corruption &lpar;Chun Han Wong/Wall Street Journal&rpar;](http://www.techmeme.com/250514/p23#a250514p23)
  - [Apple&#39;s 20th anniversary iPhone poised to get advanced screen &amp; battery tech](https://appleinsider.com/articles/25/05/14/apples-20th-anniversary-iphone-poised-to-get-advanced-screen-battery-tech?utm_medium=rss)
  - [Las Vegas-based TensorWave, which offers AMD-powered cloud infrastructure, raised $100M led by Magnetar and AMD Ventures, taking its total funding to $146.7M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250514/p22#a250514p22)
- - [Best Noise-Canceling Headphones &lpar;2025&rpar;: Over-Ears, Wireless Earbuds, Workout Pairs](https://www.wired.com/gallery/best-noise-canceling-headphones/)
- - [At a JP Morgan event, Intel CFO David Zinsner says committed volumes for Intel&#39;s new 18A and 14A chips from external customers are currently &quot;not significant&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/250514/p21#a250514p21)
- - [Eight Sleep adds a pricey blanket and speakers to its Pod 5 sleep system](https://www.theverge.com/news/666613/eight-sleep-pod-5-blanket-surround-sound-snoring)<!-- TECH:END -->
+ - [Best Noise-Canceling Headphones &lpar;2025&rpar;: Over-Ears, Wireless Earbuds, Workout Pairs](https://www.wired.com/gallery/best-noise-canceling-headphones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

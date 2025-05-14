@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Spot on](http://9gag.com/gag/aD2VX1x)
- - 😝 [N ice haircut](http://9gag.com/gag/abABQoB)
- - 💣 [Not the kind of refugees we are used to](http://9gag.com/gag/amoMV4o)
+ - 😝 [Not the kind of refugees we are used to](http://9gag.com/gag/amoMV4o)
+ - 💣 [N ice haircut](http://9gag.com/gag/abABQoB)
  - 😝 [And yess i got time for that](http://9gag.com/gag/aYQqmNV)
  - 👉 [Reality check](http://9gag.com/gag/amoMMxv)<!-- MEMES:END -->
 

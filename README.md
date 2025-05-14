@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk’s apparent power play at the Copyright Office completely backfired](https://www.theverge.com/politics/666179/maga-elon-musk-sacks-copyright-office-perlmutter)
  - [Sources: Baidu plans to test its Apollo Go robotaxi service in Switzerland by the end of the year, its first expansion in Europe, and also launch it in Turkey &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250513/p56#a250513p56)
  - [Under-display Face ID again rumored for iPhone 18 Pro by accurate leaker](https://appleinsider.com/articles/25/05/14/under-display-face-id-again-rumored-for-iphone-18-pro-by-accurate-leaker?utm_medium=rss)
  - [How to troubleshoot Wi-Fi problems on iPhone &amp; iPad](https://appleinsider.com/inside/ipados/tips/how-to-troubleshoot-wi-fi-problems-on-iphone-ipad?utm_medium=rss)
- - [UK-based Space Forge, which aims to develop ultra-efficient semiconductors and other materials in orbit, raised a $30M Series A led by the NATO Innovation Fund &lpar;Alan Neuhauser/Axios&rpar;](http://www.techmeme.com/250513/p55#a250513p55)
- - [6 Best Cheap Mattresses for 2025: Save on Your Next Bed](https://www.cnet.com/health/sleep/best-cheap-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [UK-based Space Forge, which aims to develop ultra-efficient semiconductors and other materials in orbit, raised a $30M Series A led by the NATO Innovation Fund &lpar;Alan Neuhauser/Axios&rpar;](http://www.techmeme.com/250513/p55#a250513p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

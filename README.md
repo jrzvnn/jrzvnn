@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI says OneDrive and SharePoint users will be able to connect their files to ChatGPT&#39;s Deep Research for analysis, in beta for ChatGPT Plus, Pro, or Team &lpar;Kevin Okemwa/Windows Central&rpar;](http://www.techmeme.com/250514/p24#a250514p24)
  - [Ironheart’s first trailer is a quest to build the ultimate armor](https://www.theverge.com/news/666340/ironheart-trailer-disney-plus-marvel)
  - [Google will let restaurants highlight specials on their search profiles](https://www.theverge.com/news/666672/google-search-restaurant-profile-whats-happening)
  - [Eargo 8 Hearing Aids Review: Too Expensive](https://www.wired.com/review/eargo-8-hearing-aids/)
- - [With FBC: Firebreak, Remedy wants to tell a different kind of story](https://www.theverge.com/games/665752/fbc-firebreak-preview-interview-remedy-control-ps5-xbox)
- - [Apple&#39;s 20th-anniversary iPhone RAM upgrade could make it an AI monster](https://appleinsider.com/articles/25/05/14/apples-20th-anniversary-iphone-ram-upgrade-could-make-it-an-ai-monster?utm_medium=rss)<!-- TECH:END -->
+ - [With FBC: Firebreak, Remedy wants to tell a different kind of story](https://www.theverge.com/games/665752/fbc-firebreak-preview-interview-remedy-control-ps5-xbox)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

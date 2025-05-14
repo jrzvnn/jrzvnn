@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber debuts Route Share, a pooled rides option that is similar to a bus and up to 50% cheaper than UberX, available during commuting hours in SF, NYC, and more &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250514/p28#a250514p28)
- - [Apple inches up share of direct iPhone sales but carriers dominate the field](https://appleinsider.com/articles/25/05/14/apple-inches-up-share-of-direct-iphone-sales-but-carriers-dominate-the-field?utm_medium=rss)
- - [Warner Bros. Discovery says it will change the name of its Max streaming service back to HBO Max this summer, and tweaks its logo; WBD dropped HBO in May 2023 &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/250514/p27#a250514p27)
- - [Senators Marsha Blackburn and Richard Blumenthal reintroduce the Kids Online Safety Act, mandating platforms like Meta to mitigate harms; Apple supports KOSA &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250514/p26#a250514p26)
- - [It’s not Max, it’s HBO Max](https://www.theverge.com/news/666707/hbo-max-returning-rebrand-warner-bros-discovery)<!-- TECH:END -->
+ - [A look at the Nintendo Switch 2&#39;s final specs: a custom Nvidia T239 SoC, Ampere-based GPU with 1,536 CUDA cores, 12GB of LPDDR5X RAM, DLSS support, and more &lpar;Richard Leadbetter/Eurogamer.net&rpar;](http://www.techmeme.com/250514/p30#a250514p30)
+ - [Best Bird Feeders With Cameras, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-smart-bird-feeders/)
+ - [Google DeepMind’s AI Agent Dreams Up Algorithms Beyond Human Expertise](https://www.wired.com/story/google-deepminds-ai-agent-dreams-up-algorithms-beyond-human-expertise/)
+ - [Perplexity partners with PayPal to let US customers book travel, buy products, and secure concert tickets via Perplexity&#39;s chatbot &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250514/p29#a250514p29)
+ - [Uber’s new bus-like feature for commuters is nearly 50 percent cheaper than UberX](https://www.theverge.com/news/665483/uber-go-get-route-share-price-lock-ride-pass)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

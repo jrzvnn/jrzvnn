@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Cantor Equity Partners bought $458.7M in BTC as part of a pending merger with Twenty One Capital, the BTC investment vehicle backed by Tether and others &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/250514/p2#a250514p2)
  - [Sea reports Q1 revenue up 29.6% YoY to $4.84B vs $4.89B est., net profit of $403M vs $23M net loss in Q1 2024, and e-commerce revenue up 28.3% YoY to $3.5B &lpar;Tsubasa Suruga/Nikkei Asia&rpar;](http://www.techmeme.com/250514/p1#a250514p1)
  - [Elon Musk’s apparent power play at the Copyright Office completely backfired](https://www.theverge.com/politics/666179/maga-elon-musk-sacks-copyright-office-perlmutter)
  - [Sources: Baidu plans to test its Apollo Go robotaxi service in Switzerland by the end of the year, its first expansion in Europe, and also launch it in Turkey &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250513/p56#a250513p56)
- - [Under-display Face ID again rumored for iPhone 18 Pro by accurate leaker](https://appleinsider.com/articles/25/05/14/under-display-face-id-again-rumored-for-iphone-18-pro-by-accurate-leaker?utm_medium=rss)
- - [How to troubleshoot Wi-Fi problems on iPhone &amp; iPad](https://appleinsider.com/inside/ipados/tips/how-to-troubleshoot-wi-fi-problems-on-iphone-ipad?utm_medium=rss)<!-- TECH:END -->
+ - [Under-display Face ID again rumored for iPhone 18 Pro by accurate leaker](https://appleinsider.com/articles/25/05/14/under-display-face-id-again-rumored-for-iphone-18-pro-by-accurate-leaker?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

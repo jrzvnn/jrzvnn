@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Switch 2 spec breakdown digs into its processor and GameChat](https://www.theverge.com/news/667094/nintendo-switch-2-specs-digital-foundry)
+ - [Meta releases the Open Molecules 2025 dataset and the Universal Model for Atoms family of models to accelerate the development of new drugs and materials &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250514/p35#a250514p35)
+ - [Trump administration announces &amp;#8216;illegal&amp;#8217; rollback of energy and water efficiency standards](https://www.theverge.com/news/665213/energy-efficiency-standards-rollback-trump-doe)
  - [Plugable’s new dock supports five displays from one USB-C port](https://www.theverge.com/news/667072/plugable-displaylink-dock-ud-7400pd)
- - [7 of our favorite deals from Amazon’s 48-hour Pet Day sale](https://www.theverge.com/tech/666760/amazon-pet-day-deals-2025-litter-robot-4-furbo-360-camera-feeder-deal-sale)
- - [Apple Vision Pro will use eye tracking to let you scroll apps](https://appleinsider.com/articles/25/05/14/apple-vision-pro-will-use-eye-tracking-to-let-you-scroll-apps?utm_medium=rss)
- - [Sources: Apple is developing a Vision Pro feature that lets users scroll content with their eyes, as part of visionOS 3 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250514/p34#a250514p34)
- - [Max was an all-time bad rebrand](https://www.theverge.com/news/667047/hbo-max-rebrand-criticism)<!-- TECH:END -->
+ - [7 of our favorite deals from Amazon’s 48-hour Pet Day sale](https://www.theverge.com/tech/666760/amazon-pet-day-deals-2025-litter-robot-4-furbo-360-camera-feeder-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

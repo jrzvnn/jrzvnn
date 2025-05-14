@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [12 Best USB Microphones &lpar;2025&rpar;: USB-C, USB-A, Wireless](https://www.wired.com/gallery/best-usb-microphones/)
- - [China sentences Zhao Weiguo, ex-chair of state-backed chip firm Tsinghua Unigroup, to death with a two-year reprieve, a de facto life sentence, for corruption &lpar;Chun Han Wong/Wall Street Journal&rpar;](http://www.techmeme.com/250514/p23#a250514p23)
- - [Apple&#39;s 20th anniversary iPhone poised to get advanced screen &amp; battery tech](https://appleinsider.com/articles/25/05/14/apples-20th-anniversary-iphone-poised-to-get-advanced-screen-battery-tech?utm_medium=rss)
- - [Las Vegas-based TensorWave, which offers AMD-powered cloud infrastructure, raised $100M led by Magnetar and AMD Ventures, taking its total funding to $146.7M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250514/p22#a250514p22)
- - [Best Noise-Canceling Headphones &lpar;2025&rpar;: Over-Ears, Wireless Earbuds, Workout Pairs](https://www.wired.com/gallery/best-noise-canceling-headphones/)<!-- TECH:END -->
+ - [Ironheart’s first trailer is a quest to build the ultimate armor](https://www.theverge.com/news/666340/ironheart-trailer-disney-plus-marvel)
+ - [Google will let restaurants highlight specials on their search profiles](https://www.theverge.com/news/666672/google-search-restaurant-profile-whats-happening)
+ - [Eargo 8 Hearing Aids Review: Too Expensive](https://www.wired.com/review/eargo-8-hearing-aids/)
+ - [With FBC: Firebreak, Remedy wants to tell a different kind of story](https://www.theverge.com/games/665752/fbc-firebreak-preview-interview-remedy-control-ps5-xbox)
+ - [Apple&#39;s 20th-anniversary iPhone RAM upgrade could make it an AI monster](https://appleinsider.com/articles/25/05/14/apples-20th-anniversary-iphone-ram-upgrade-could-make-it-an-ai-monster?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

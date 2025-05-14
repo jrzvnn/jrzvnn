@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Bird Feeders With Cameras, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-smart-bird-feeders/)
+ - [EA is bringing employees back to the office three days per week](https://www.theverge.com/news/667441/ea-return-to-office-work-hybrid)
+ - [SpaceX Tests Starship Fixes After Back-to-Back Failures](https://www.wired.com/story/spacex-tests-starship-fixes-after-back-to-back-failures/)
  - [&#39;Price is Right&#39; contestants nowhere close to Apple Vision Pro&#39;s astronomical price](https://appleinsider.com/articles/25/05/14/price-is-right-contestants-nowhere-close-to-apple-vision-pros-astronomical-price?utm_medium=rss)
- - [SoundCloud changes its TOS again after an AI uproar](https://www.theverge.com/news/667420/soundcloud-ai-training-copyright-tos)
- - [Valve responds to Steam leak rumors: &amp;#8216;this was not a breach of Steam systems&amp;#8217;](https://www.theverge.com/news/667426/valve-steam-leak-breach-rumor)
- - [No, Steam wasn&#39;t hacked -- but your security habits still matter](https://appleinsider.com/articles/25/05/14/no-steam-wasnt-hacked----but-your-security-habits-still-matter?utm_medium=rss)
- - [Microsoft plans to shut down Bing Search APIs on August 11; a source says the largest customers will retain access, and DuckDuckGo confirms it won&#39;t be affected &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/250514/p47#a250514p47)<!-- TECH:END -->
+ - [SoundCloud changes its TOS again after an AI uproar](https://www.theverge.com/news/667420/soundcloud-ai-training-copyright-tos)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

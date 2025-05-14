@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic resubmits &#39;Fortnite&#39; to the App Store for review, as its initial request seemingly ignored](https://appleinsider.com/articles/25/05/14/epic-resubmits-fortnite-to-the-app-store-for-review-as-its-initial-request-seemingly-ignored?utm_medium=rss)
+ - [My First Day With the Motorola Razr: A Vibrant, Fun Phone With Style](https://www.cnet.com/tech/mobile/my-first-day-with-the-motorola-razr-a-vibrant-fun-phone-with-style/#ftag=CAD590a51e)
  - [Apple might let you scroll with your eyes in the Vision Pro](https://www.theverge.com/news/667352/apple-vision-pro-eye-tracking-scrolling-visionos-3)
  - [The EPA Is Giving Some Forever Chemicals a Pass](https://www.wired.com/story/the-epa-is-giving-some-forever-chemicals-a-pass/)
- - [Chinese sites like JD.com are offering discounts of up to 2,530 yuan, ~$350, on iPhone 16 models, an effort to spur sales after Q1 shipments fell &lpar;Reuters&rpar;](http://www.techmeme.com/250514/p46#a250514p46)
- - [Trump wants to weaken protections against forever chemicals in drinking water](https://www.theverge.com/news/667349/forever-chemicals-pfas-drinking-water-rules-epa-trump-rollback)
- - [Apple Maps will show recommendations from Michelin and The Infatuation](https://www.theverge.com/news/667383/apple-maps-recommendations-michelin-infatuation)<!-- TECH:END -->
+ - [Chinese sites like JD.com are offering discounts of up to 2,530 yuan, ~$350, on iPhone 16 models, an effort to spur sales after Q1 shipments fell &lpar;Reuters&rpar;](http://www.techmeme.com/250514/p46#a250514p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

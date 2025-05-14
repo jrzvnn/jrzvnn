@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Reality check](http://9gag.com/gag/amoMMxv)
- - 😝 [When the artist is as hot as the character she draws](http://9gag.com/gag/aoyLnd0)
- - 💣 [That escalated quickly..](http://9gag.com/gag/abAB26b)
+ - 😝 [That escalated quickly..](http://9gag.com/gag/abAB26b)
+ - 💣 [When the artist is as hot as the character she draws](http://9gag.com/gag/aoyLnd0)
  - 😝 [Would you be a victim to this?](http://9gag.com/gag/apRbVzb)
  - 👉 [I hope the pasta is handmade.](http://9gag.com/gag/aKGeK43)<!-- MEMES:END -->
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Under-display Face ID again rumored for iPhone 18 Pro by accurate leaker](https://appleinsider.com/articles/25/05/14/under-display-face-id-again-rumored-for-iphone-18-pro-by-accurate-leaker?utm_medium=rss)
+ - [How to troubleshoot Wi-Fi problems on iPhone &amp; iPad](https://appleinsider.com/inside/ipados/tips/how-to-troubleshoot-wi-fi-problems-on-iphone-ipad?utm_medium=rss)
+ - [UK-based Space Forge, which aims to develop ultra-efficient semiconductors and other materials in orbit, raised a $30M Series A led by the NATO Innovation Fund &lpar;Alan Neuhauser/Axios&rpar;](http://www.techmeme.com/250513/p55#a250513p55)
  - [Amazon&#39;s Zoox offers free robotaxi rides to employees and other invited users in Las Vegas, after receiving approval to accept paying customers in Clark County &lpar;Alex Perry/The Information&rpar;](http://www.techmeme.com/250513/p54#a250513p54)
- - [Former employees, analysts, VCs, and executives detail how DeepSeek works and how it fits into China&#39;s broader AI ambitions &lpar;Bloomberg&rpar;](http://www.techmeme.com/250513/p53#a250513p53)
- - [GameSir Tarantula Pro review: A solid controller with a funky party trick](https://appleinsider.com/articles/25/05/14/gamesir-tarantula-pro-review-a-solid-controller-with-a-funky-party-trick?utm_medium=rss)
- - [Meta’s beef with the press flares at its antitrust trial](https://www.theverge.com/politics/666507/meta-tech-press-antitrust-trial)
- - [Sources: TikTok has been working on a new feature that will allow US users to share photos over DMs inside the app and also plans to introduce voice messaging &lpar;The Information&rpar;](http://www.techmeme.com/250513/p52#a250513p52)<!-- TECH:END -->
+ - [Former employees, analysts, VCs, and executives detail how DeepSeek works and how it fits into China&#39;s broader AI ambitions &lpar;Bloomberg&rpar;](http://www.techmeme.com/250513/p53#a250513p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Valve responds to Steam leak rumors: &amp;#8216;this was not a breach of Steam systems&amp;#8217;](https://www.theverge.com/news/667426/valve-steam-leak-breach-rumor)
  - [No, Steam wasn&#39;t hacked -- but your security habits still matter](https://appleinsider.com/articles/25/05/14/no-steam-wasnt-hacked----but-your-security-habits-still-matter?utm_medium=rss)
  - [Microsoft plans to shut down Bing Search APIs on August 11; a source says the largest customers will retain access, and DuckDuckGo confirms it won&#39;t be affected &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/250514/p47#a250514p47)
  - [Epic resubmits &#39;Fortnite&#39; to the App Store for review, as its initial request seemingly ignored](https://appleinsider.com/articles/25/05/14/epic-resubmits-fortnite-to-the-app-store-for-review-as-its-initial-request-seemingly-ignored?utm_medium=rss)
- - [My First Day With the Motorola Razr: A Vibrant, Fun Phone With Style](https://www.cnet.com/tech/mobile/my-first-day-with-the-motorola-razr-a-vibrant-fun-phone-with-style/#ftag=CAD590a51e)
- - [Apple might let you scroll with your eyes in the Vision Pro](https://www.theverge.com/news/667352/apple-vision-pro-eye-tracking-scrolling-visionos-3)<!-- TECH:END -->
+ - [My First Day With the Motorola Razr: A Vibrant, Fun Phone With Style](https://www.cnet.com/tech/mobile/my-first-day-with-the-motorola-razr-a-vibrant-fun-phone-with-style/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

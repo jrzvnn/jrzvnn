@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Square Enix cancels Kingdom Hearts mobile game](https://www.theverge.com/news/666867/kingdom-hearts-missing-link-canceled)
- - [Google DeepMind unveils AlphaEvolve, a Gemini-powered AI coding agent that designs and optimizes advanced algorithms using an evolutionary framework &lpar;Google DeepMind&rpar;](http://www.techmeme.com/250514/p31#a250514p31)
- - [A look at the Nintendo Switch 2&#39;s final specs: a custom Nvidia T239 SoC, an Ampere-based GPU with 1,536 CUDA cores, 12GB of LPDDR5X RAM, DLSS support, and more &lpar;Richard Leadbetter/Eurogamer.net&rpar;](http://www.techmeme.com/250514/p30#a250514p30)
- - [Best Bird Feeders With Cameras, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-smart-bird-feeders/)
- - [Google DeepMind’s AI Agent Dreams Up Algorithms Beyond Human Expertise](https://www.wired.com/story/google-deepminds-ai-agent-dreams-up-algorithms-beyond-human-expertise/)<!-- TECH:END -->
+ - [When Apple&#39;s WWDC changed the company and the world the most](https://appleinsider.com/articles/25/05/14/when-apples-wwdc-changed-the-company-and-the-world-the-most?utm_medium=rss)
+ - [The 26 Best Amazon Pet Day Deals &lpar;2025&rpar;](https://www.wired.com/story/amazon-pet-day-deals/)
+ - [Superman gets grilled in latest trailer](https://www.theverge.com/news/666313/superman-trailer-lex-luthor-lois-lane)
+ - [James Gunn&#39;s &#39;Superman&#39; Takes on All the Villains in Full Trailer. Watch It Here](https://www.cnet.com/tech/services-and-software/james-gunns-superman-takes-on-all-the-villains-in-full-trailer-watch-it-here/#ftag=CAD590a51e)
+ - [Best Internet Providers in Charlotte, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-charlotte-nc/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

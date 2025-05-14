@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spot on](http://9gag.com/gag/aD2VX1x)
- - 😝 [Not the kind of refugees we are used to](http://9gag.com/gag/amoMV4o)
- - 💣 [N ice haircut](http://9gag.com/gag/abABQoB)
  - 😝 [And yess i got time for that](http://9gag.com/gag/aYQqmNV)
+ - 😝 [This is awesome... Good job, Netflix!](http://9gag.com/gag/aAy2O62)
+ - 💣 [Not the kind of refugees we are used to](http://9gag.com/gag/amoMV4o)
+ - 😝 [N ice haircut](http://9gag.com/gag/abABQoB)
  - 👉 [Reality check](http://9gag.com/gag/amoMMxv)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CFBP Quietly Kills Rule to Shield Americans From Data Brokers](https://www.wired.com/story/cfbp-quietly-kills-rule-to-shield-americans-from-data-brokers/)
- - [Stock trading app eToro began trading at $69.69 on Nasdaq after pricing its IPO at $52, above its $46-$50 expected range &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250514/p32#a250514p32)
- - [When Apple&#39;s WWDC changed the company and the world the most](https://appleinsider.com/articles/25/05/14/when-apples-wwdc-changed-the-company-and-the-world-the-most?utm_medium=rss)
- - [The 26 Best Amazon Pet Day Deals &lpar;2025&rpar;](https://www.wired.com/story/amazon-pet-day-deals/)
- - [Superman gets grilled in latest trailer](https://www.theverge.com/news/666313/superman-trailer-lex-luthor-lois-lane)<!-- TECH:END -->
+ - [Max was an all-time bad rebrand](https://www.theverge.com/news/667047/hbo-max-rebrand-criticism)
+ - [Sources: Anthropic has new versions of Claude Sonnet and Opus, set to come out in the upcoming weeks, that can switch back to &quot;reasoning&quot; mode if they get stuck &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/250514/p33#a250514p33)
+ - [Violent Threats Against US Judges Are Skyrocketing Online](https://www.wired.com/story/violent-threats-us-judges-increase-online/)
+ - [Apple Vision Pro will use eye tracking to let you scroll apps](https://appleinsider.com/articles/25/05/14/apple-vision-pro-will-use-eye-tracking-to-let-you-scroll-apps?utm_medium=rss)
+ - [CFPB Quietly Kills Rule to Shield Americans From Data Brokers](https://www.wired.com/story/cfpb-quietly-kills-rule-to-shield-americans-from-data-brokers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

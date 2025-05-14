@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple might let you scroll with your eyes in the Vision Pro](https://www.theverge.com/news/667352/apple-vision-pro-eye-tracking-scrolling-visionos-3)
+ - [The EPA Is Giving Some Forever Chemicals a Pass](https://www.wired.com/story/the-epa-is-giving-some-forever-chemicals-a-pass/)
  - [Chinese sites like JD.com are offering discounts of up to 2,530 yuan, ~$350, on iPhone 16 models, an effort to spur sales after Q1 shipments fell &lpar;Reuters&rpar;](http://www.techmeme.com/250514/p46#a250514p46)
  - [Trump wants to weaken protections against forever chemicals in drinking water](https://www.theverge.com/news/667349/forever-chemicals-pfas-drinking-water-rules-epa-trump-rollback)
- - [Apple Maps will show recommendations from Michelin and The Infatuation](https://www.theverge.com/news/667383/apple-maps-recommendations-michelin-infatuation)
- - [Blowout deal: Apple&#39;s 1TB MacBook Pro with 18-core GPU plunges to $1,699](https://appleinsider.com/articles/25/05/14/blowout-deal-apples-1tb-macbook-pro-with-18-core-gpu-plunges-to-1699?utm_medium=rss)
- - [Cisco reports Q3 revenue up 11% YoY to $14.15B, vs. $14.08B est., forecasts Q4 revenue above estimates, and announces CFO Scott Herren will retire on July 26 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250514/p45#a250514p45)<!-- TECH:END -->
+ - [Apple Maps will show recommendations from Michelin and The Infatuation](https://www.theverge.com/news/667383/apple-maps-recommendations-michelin-infatuation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

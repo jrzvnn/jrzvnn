@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Donald Trump blew the offshore wind industry off course](https://www.theverge.com/climate-change/666244/offshore-wind-energy-outlook-trump-tariffs-tax-credits)
- - [The Kids Online Safety Act is back](https://www.theverge.com/news/666729/kids-online-safety-act-reintroduced)
- - [5 Best Phones With Headphone Jacks &lpar;2025&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-headphone-jack-phones/)
- - [Elon Musk’s apparent power play at the Copyright Office completely backfired](https://www.theverge.com/politics/666179/maga-elon-musk-sacks-copyright-office-perlmutter)
- - [Jackrabbit OG2 Pro and XG Pro Review &lpar;2025&rpar;: Little and Peppy](https://www.wired.com/review/jackrabbit-xg-pro-og2-pro/)<!-- TECH:END -->
+ - [Senators Marsha Blackburn and Richard Blumenthal reintroduce the Kids Online Safety Act, mandating platforms like Meta to mitigate harms; Apple supports KOSA &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250514/p26#a250514p26)
+ - [The &amp;#8216;HBO&amp;#8217; is coming back to Max](https://www.theverge.com/news/666707/hbo-max-returning-rebrand-warner-bros-discovery)
+ - [FTC v. Meta: The antitrust battle over WhatsApp and Instagram](https://www.theverge.com/news/646809/ftc-v-meta-antitrust-monopoly-trial-instagram-whatsapp)
+ - [WiiM’s first smart speaker looks like a HomePod for audiophiles](https://www.theverge.com/news/666733/wiim-sound-sub-pro-amp-ultra-smart-speaker-audiophile-streaming)
+ - [How Donald Trump blew the offshore wind industry off course](https://www.theverge.com/climate-change/666244/offshore-wind-energy-outlook-trump-tariffs-tax-credits)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

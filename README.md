@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A lofi journaling kit for the digital age](https://www.theverge.com/reviews/666546/modern-travellers-journal-instax-photo-review)
+ - [The US Commerce Department issues guidance stating that &quot;using Huawei Ascend chips anywhere in the world violates US export controls&quot; due to the use of US tech &lpar;Financial Times&rpar;](http://www.techmeme.com/250514/p6#a250514p6)
  - [Microsoft extends support for Microsoft 365 apps on Windows 10 until October 10, 2028, after previously announcing plans to end support by October 14, 2025 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250514/p5#a250514p5)
  - [Source: Arista plans to acquire Broadcom&#39;s VeloCloud, a provider of SD-WAN tech to telecoms, for less than $1B: VMware bought VeloCloud for ~$450M in 2017 &lpar;Kevin McLaughlin/The Information&rpar;](http://www.techmeme.com/250514/p4#a250514p4)
- - [The EU&#39;s Vulnerability Database project, first announced in June 2024, is now fully operational, while the US&#39;s NVD struggles with a backlog of submissions &lpar;Jessica Lyons/The Register&rpar;](http://www.techmeme.com/250514/p3#a250514p3)
- - [HP Coupon Codes &amp; Deals: Save up to 81% in May](https://www.wired.com/story/hp-coupon-code/)
- - [Filing: Cantor Equity Partners bought $458.7M in BTC as part of a pending merger with Twenty One Capital, the BTC investment vehicle backed by Tether and others &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/250514/p2#a250514p2)<!-- TECH:END -->
+ - [The EU&#39;s Vulnerability Database project, first announced in June 2024, is now fully operational, while the US&#39;s NVD struggles with a backlog of submissions &lpar;Jessica Lyons/The Register&rpar;](http://www.techmeme.com/250514/p3#a250514p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

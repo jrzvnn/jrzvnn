@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft starts testing  ‘Hey, Copilot!’ in Windows](https://www.theverge.com/news/667167/windows-hey-copilot-ai-wake-word-voice-activation)
+ - [The best foldable phone you can buy](https://www.theverge.com/tech/635839/best-foldable-phone)
  - [Apple Maps adds Michelin reviews to help you find fine food](https://appleinsider.com/articles/25/05/14/apple-maps-adds-michelin-reviews-to-help-you-find-fine-food?utm_medium=rss)
  - [Waymo recalls 1,212 vehicles to update software and address collision risks, after the NHTSA opened an investigation in May 2024 following reports of incidents &lpar;Reuters&rpar;](http://www.techmeme.com/250514/p40#a250514p40)
- - [Netflix is bringing back Star Search as a live show](https://www.theverge.com/news/666960/netflix-star-search-live-show)
- - [Grok really wanted people to know that claims of white genocide in South Africa are highly contentious](https://www.theverge.com/news/667179/x-twitter-grok-ai-white-genocide-claims)
- - [OpenAI releases GPT-4.1 for Plus, Pro, and Team users in ChatGPT, and replaces GPT-4o mini with GPT-4.1 mini for all ChatGPT users &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250514/p39#a250514p39)<!-- TECH:END -->
+ - [Netflix is bringing back Star Search as a live show](https://www.theverge.com/news/666960/netflix-star-search-live-show)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

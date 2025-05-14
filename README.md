@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Grok really wanted people to know that claims of white genocide in South Africa are highly contentious](https://www.theverge.com/news/667179/x-twitter-grok-ai-white-genocide-claims)
+ - [OpenAI releases GPT-4.1 for Plus, Pro, and Team users in ChatGPT, and replaces GPT-4o mini with GPT-4.1 mini for all ChatGPT users &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250514/p39#a250514p39)
  - [Netflix says its ad-supported tier now has 94M MAUs, up from 70M in November 2024, and reaches more 18- to 34-year-olds than any US broadcast or cable network &lpar;Sara Salinas/CNBC&rpar;](http://www.techmeme.com/250514/p38#a250514p38)
  - [Netflix’s ad tier is growing really fast — and that means more ads](https://www.theverge.com/news/667042/netflix-ad-supported-tier-94-million-users-upfront-2025)
- - [Ubisoft says its Prince of Persia remake will finally arrive by early 2026](https://www.theverge.com/news/667061/ubisoft-prince-of-persia-remake-release-date-by-april-2026)
- - [Apple&#39;s Developer app receives an update ahead of WWDC 2025](https://appleinsider.com/articles/25/05/14/apples-developer-app-receives-an-update-ahead-of-wwdc-2025?utm_medium=rss)
- - [The CFPB withdraws its proposal for new rules to more tightly regulate US data brokers and their ability to sell sensitive information about Americans &lpar;Wired&rpar;](http://www.techmeme.com/250514/p37#a250514p37)<!-- TECH:END -->
+ - [Ubisoft says its Prince of Persia remake will finally arrive by early 2026](https://www.theverge.com/news/667061/ubisoft-prince-of-persia-remake-release-date-by-april-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

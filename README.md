@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Foxconn receives approval from India&#39;s cabinet to build a new $435M semiconductor plant, expected to open in 2027, in a joint venture with IT giant HCL Group &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250514/p43#a250514p43)
  - [Epic has submitted a new version of Fortnite to the US App Store, saying it needs to release a weekly update, after pulling the version it submitted on Friday &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/250514/p42#a250514p42)
  - [Elon Musk&#39;s Grok AI Can&#39;t Stop Talking About &#39;White Genocide&#39;](https://www.wired.com/story/grok-white-genocide-elon-musk/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for May 15, #438](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-15-438/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for May 15, #704](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-15-704/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Internet&#39;s Biggest-Ever Black Market Just Shut Down Amid a Telegram Purge](https://www.wired.com/story/the-internets-biggest-ever-black-market-shuts-down-after-a-telegram-purge/)
+ - [No, Steam wasn&#39;t hacked -- but your security habits still matter](https://appleinsider.com/articles/25/05/14/no-steam-wasnt-hacked----but-your-security-habits-still-matter?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

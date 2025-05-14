@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s 20th anniversary iPhone poised to get advanced screen &amp; battery tech](https://appleinsider.com/articles/25/05/14/apples-20th-anniversary-iphone-poised-to-get-advanced-screen-battery-tech?utm_medium=rss)
  - [Las Vegas-based TensorWave, which offers AMD-powered cloud infrastructure, raised $100M led by Magnetar and AMD Ventures, taking its total funding to $146.7M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250514/p22#a250514p22)
  - [Best Noise-Canceling Headphones &lpar;2025&rpar;: Over-Ears, Wireless Earbuds, Workout Pairs](https://www.wired.com/gallery/best-noise-canceling-headphones/)
  - [At a JP Morgan event, Intel CFO David Zinsner says committed volumes for Intel&#39;s new 18A and 14A chips from external customers are currently &quot;not significant&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/250514/p21#a250514p21)
- - [Eight Sleep adds a pricey blanket and speakers to its Pod 5 sleep system](https://www.theverge.com/news/666613/eight-sleep-pod-5-blanket-surround-sound-snoring)
- - [Databricks agrees to acquire cloud database startup Neon for ~$1B, set to close in Q2 2025; Neon&#39;s platform is based on open-source database PostgreSQL &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250514/p20#a250514p20)<!-- TECH:END -->
+ - [Eight Sleep adds a pricey blanket and speakers to its Pod 5 sleep system](https://www.theverge.com/news/666613/eight-sleep-pod-5-blanket-surround-sound-snoring)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources including former staff detail abuse, financial mismanagement, and other issues at AbleGamers, an influential nonprofit promoting gaming accessibility &lpar;Grant Stoner/IGN&rpar;](http://www.techmeme.com/250514/p8#a250514p8)
  - [A profile of Tether&#39;s chief investment officer Richard Heathcote, who manages a $150B asset portfolio and has helped deepen Tether&#39;s ties with Cantor Fitzgerald &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/250514/p7#a250514p7)
  - [A lofi journaling kit for the digital age](https://www.theverge.com/reviews/666546/modern-travellers-journal-instax-photo-review)
  - [The US Commerce Department issues guidance stating that &quot;using Huawei Ascend chips anywhere in the world violates US export controls&quot; due to the use of US tech &lpar;Financial Times&rpar;](http://www.techmeme.com/250514/p6#a250514p6)
- - [Microsoft extends support for Microsoft 365 apps on Windows 10 until October 10, 2028, after previously announcing plans to end support by October 14, 2025 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250514/p5#a250514p5)
- - [Source: Arista plans to acquire Broadcom&#39;s VeloCloud, a provider of SD-WAN tech to telecoms, for less than $1B: VMware bought VeloCloud for ~$450M in 2017 &lpar;Kevin McLaughlin/The Information&rpar;](http://www.techmeme.com/250514/p4#a250514p4)<!-- TECH:END -->
+ - [Microsoft extends support for Microsoft 365 apps on Windows 10 until October 10, 2028, after previously announcing plans to end support by October 14, 2025 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250514/p5#a250514p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

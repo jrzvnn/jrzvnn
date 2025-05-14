@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Reason Murderbot’s Tone Feels Off](https://www.wired.com/story/the-reason-murderbots-tone-feels-off/)
- - [Switch 2 spec breakdown digs into its processor and GameChat](https://www.theverge.com/news/667094/nintendo-switch-2-specs-digital-foundry)
- - [Meta releases the Open Molecules 2025 dataset and the Universal Model for Atoms family of models to accelerate the development of new drugs and materials &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250514/p35#a250514p35)
- - [Trump administration announces &amp;#8216;illegal&amp;#8217; rollback of energy and water efficiency standards](https://www.theverge.com/news/665213/energy-efficiency-standards-rollback-trump-doe)
- - [Plugable’s new dock supports five displays from one USB-C port](https://www.theverge.com/news/667072/plugable-displaylink-dock-ud-7400pd)<!-- TECH:END -->
+ - [Apple&#39;s Developer app receives an update ahead of WWDC 2025](https://appleinsider.com/articles/25/05/14/apples-developer-app-receives-an-update-ahead-of-wwdc-2025?utm_medium=rss)
+ - [The CFPB withdraws its proposal for new rules to more tightly regulate US data brokers and their ability to sell sensitive information about Americans &lpar;Wired&rpar;](http://www.techmeme.com/250514/p37#a250514p37)
+ - [Microsoft Cuts Off Access to Bing Search Data as It Shifts Focus to Chatbots](https://www.wired.com/story/bing-microsoft-api-support-ending/)
+ - [Sources: Microsoft is set to stave off a possible hefty EU antitrust fine, after it unbundled Teams from Office in 2023, following a complaint by Slack in 2020 &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250514/p36#a250514p36)
+ - [The Reason Murderbot’s Tone Feels Off](https://www.wired.com/story/the-reason-murderbots-tone-feels-off/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

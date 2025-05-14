@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Strands Hints, Answers and Help for May 15, #438](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-15-438/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for May 15, #704](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-15-704/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for May 15, #1426](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-15-1426/#ftag=CAD590a51e)
+ - [Epic has submitted a new version of Fortnite to the US App Store, saying it needs to release a weekly update, after pulling the version it submitted on Friday &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/250514/p42#a250514p42)
  - [The Internet&#39;s Biggest-Ever Black Market Just Shut Down Amid a Telegram Purge](https://www.wired.com/story/the-internets-biggest-ever-black-market-shuts-down-after-a-telegram-purge/)
- - [No, Steam wasn&#39;t hacked -- but your security habits still matter](https://appleinsider.com/articles/25/05/14/no-steam-wasnt-hacked----but-your-security-habits-still-matter?utm_medium=rss)<!-- TECH:END -->
+ - [No, Steam wasn&#39;t hacked -- but your security habits still matter](https://appleinsider.com/articles/25/05/14/no-steam-wasnt-hacked----but-your-security-habits-still-matter?utm_medium=rss)
+ - [Grok replied with information about South Africa&#39;s &quot;white genocide&quot; when X users asked it to fact-check unrelated topics; the issue appears to have been fixed &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250514/p41#a250514p41)
+ - [Microsoft starts testing  ‘Hey, Copilot!’ in Windows](https://www.theverge.com/news/667167/windows-hey-copilot-ai-wake-word-voice-activation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

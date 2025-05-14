@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [BREAKING: First group of white refugees fleeing genocide and persecution in South Africa&rpar; have arrived in the United States!!](http://9gag.com/gag/ayNR1o8)
  - 😝 [Fixed](http://9gag.com/gag/adBe2vZ)
- - 😝 [Beware](http://9gag.com/gag/ae9m7mb)
- - 💣 [BREAKING: First group of white refugees fleeing genocide and persecution in South Africa&rpar; have arrived in the United States!!](http://9gag.com/gag/ayNR1o8)
+ - 💣 [Beware](http://9gag.com/gag/ae9m7mb)
  - 😝 [Forgot to mention my cooking experiences were all virtual... \ud83c\udf73\ud83e\uddd1\ud83c\udffd\ud83d\udcbb](http://9gag.com/gag/adBeem9)
  - 👉 [These edits are freaking hilarious](http://9gag.com/gag/a342b75)<!-- MEMES:END -->
 

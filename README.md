@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD approves a new $6B share buyback program, boosting its total repurchase authority to ~$10B, with no termination date; AMD jumps 5%+ &lpar;Deborah Sophia/Reuters&rpar;](http://www.techmeme.com/250514/p25#a250514p25)
- - [OpenAI says OneDrive and SharePoint users will be able to connect their files to ChatGPT&#39;s Deep Research for analysis, in beta for ChatGPT Plus, Pro, or Team &lpar;Kevin Okemwa/Windows Central&rpar;](http://www.techmeme.com/250514/p24#a250514p24)
- - [Ironheart’s first trailer is a quest to build the ultimate armor](https://www.theverge.com/news/666340/ironheart-trailer-disney-plus-marvel)
- - [Google will let restaurants highlight specials on their search profiles](https://www.theverge.com/news/666672/google-search-restaurant-profile-whats-happening)
- - [Eargo 8 Hearing Aids Review: Too Expensive](https://www.wired.com/review/eargo-8-hearing-aids/)<!-- TECH:END -->
+ - [How Donald Trump blew the offshore wind industry off course](https://www.theverge.com/climate-change/666244/offshore-wind-energy-outlook-trump-tariffs-tax-credits)
+ - [The Kids Online Safety Act is back](https://www.theverge.com/news/666729/kids-online-safety-act-reintroduced)
+ - [5 Best Phones With Headphone Jacks &lpar;2025&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-headphone-jack-phones/)
+ - [Elon Musk’s apparent power play at the Copyright Office completely backfired](https://www.theverge.com/politics/666179/maga-elon-musk-sacks-copyright-office-perlmutter)
+ - [Jackrabbit OG2 Pro and XG Pro Review &lpar;2025&rpar;: Little and Peppy](https://www.wired.com/review/jackrabbit-xg-pro-og2-pro/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

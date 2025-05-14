@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [No, Steam wasn&#39;t hacked -- but your security habits still matter](https://appleinsider.com/articles/25/05/14/no-steam-wasnt-hacked----but-your-security-habits-still-matter?utm_medium=rss)
- - [Grok replied with information about South Africa&#39;s &quot;white genocide&quot; when X users asked it to fact-check unrelated topics; the issue appears to have been fixed &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250514/p41#a250514p41)
- - [Microsoft starts testing  ‘Hey, Copilot!’ in Windows](https://www.theverge.com/news/667167/windows-hey-copilot-ai-wake-word-voice-activation)
- - [The best foldable phone you can buy](https://www.theverge.com/tech/635839/best-foldable-phone)
- - [Apple Maps adds Michelin reviews to help you find fine food](https://appleinsider.com/articles/25/05/14/apple-maps-adds-michelin-reviews-to-help-you-find-fine-food?utm_medium=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for May 15, #438](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-15-438/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for May 15, #704](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-15-704/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for May 15, #1426](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-15-1426/#ftag=CAD590a51e)
+ - [The Internet&#39;s Biggest-Ever Black Market Just Shut Down Amid a Telegram Purge](https://www.wired.com/story/the-internets-biggest-ever-black-market-shuts-down-after-a-telegram-purge/)
+ - [No, Steam wasn&#39;t hacked -- but your security habits still matter](https://appleinsider.com/articles/25/05/14/no-steam-wasnt-hacked----but-your-security-habits-still-matter?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Maps adds Michelin reviews to help you find fine food](https://appleinsider.com/articles/25/05/14/apple-maps-adds-michelin-reviews-to-help-you-find-fine-food?utm_medium=rss)
+ - [Waymo recalls 1,212 vehicles to update software and address collision risks, after the NHTSA opened an investigation in May 2024 following reports of incidents &lpar;Reuters&rpar;](http://www.techmeme.com/250514/p40#a250514p40)
+ - [Netflix is bringing back Star Search as a live show](https://www.theverge.com/news/666960/netflix-star-search-live-show)
  - [Grok really wanted people to know that claims of white genocide in South Africa are highly contentious](https://www.theverge.com/news/667179/x-twitter-grok-ai-white-genocide-claims)
- - [OpenAI releases GPT-4.1 for Plus, Pro, and Team users in ChatGPT, and replaces GPT-4o mini with GPT-4.1 mini for all ChatGPT users &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250514/p39#a250514p39)
- - [Netflix says its ad-supported tier now has 94M MAUs, up from 70M in November 2024, and reaches more 18- to 34-year-olds than any US broadcast or cable network &lpar;Sara Salinas/CNBC&rpar;](http://www.techmeme.com/250514/p38#a250514p38)
- - [Netflix’s ad tier is growing really fast — and that means more ads](https://www.theverge.com/news/667042/netflix-ad-supported-tier-94-million-users-upfront-2025)
- - [Ubisoft says its Prince of Persia remake will finally arrive by early 2026](https://www.theverge.com/news/667061/ubisoft-prince-of-persia-remake-release-date-by-april-2026)<!-- TECH:END -->
+ - [OpenAI releases GPT-4.1 for Plus, Pro, and Team users in ChatGPT, and replaces GPT-4o mini with GPT-4.1 mini for all ChatGPT users &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250514/p39#a250514p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

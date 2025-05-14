@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro will use eye tracking to let you scroll apps](https://appleinsider.com/articles/25/05/14/apple-vision-pro-will-use-eye-tracking-to-let-you-scroll-apps?utm_medium=rss)
+ - [Sources: Apple is developing a Vision Pro feature that lets users scroll content with their eyes, as part of visionOS 3 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250514/p34#a250514p34)
  - [Max was an all-time bad rebrand](https://www.theverge.com/news/667047/hbo-max-rebrand-criticism)
  - [Sources: Anthropic has new versions of Claude Sonnet and Opus, set to come out in the upcoming weeks, that can switch back to &quot;reasoning&quot; mode if they get stuck &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/250514/p33#a250514p33)
- - [Violent Threats Against US Judges Are Skyrocketing Online](https://www.wired.com/story/violent-threats-us-judges-increase-online/)
- - [Apple Vision Pro will use eye tracking to let you scroll apps](https://appleinsider.com/articles/25/05/14/apple-vision-pro-will-use-eye-tracking-to-let-you-scroll-apps?utm_medium=rss)
- - [CFPB Quietly Kills Rule to Shield Americans From Data Brokers](https://www.wired.com/story/cfpb-quietly-kills-rule-to-shield-americans-from-data-brokers/)<!-- TECH:END -->
+ - [Violent Threats Against US Judges Are Skyrocketing Online](https://www.wired.com/story/violent-threats-us-judges-increase-online/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

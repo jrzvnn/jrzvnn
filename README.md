@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Reason Murderbot’s Tone Feels Off](https://www.wired.com/story/the-reason-murderbots-tone-feels-off/)
  - [Switch 2 spec breakdown digs into its processor and GameChat](https://www.theverge.com/news/667094/nintendo-switch-2-specs-digital-foundry)
  - [Meta releases the Open Molecules 2025 dataset and the Universal Model for Atoms family of models to accelerate the development of new drugs and materials &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250514/p35#a250514p35)
  - [Trump administration announces &amp;#8216;illegal&amp;#8217; rollback of energy and water efficiency standards](https://www.theverge.com/news/665213/energy-efficiency-standards-rollback-trump-doe)
- - [Plugable’s new dock supports five displays from one USB-C port](https://www.theverge.com/news/667072/plugable-displaylink-dock-ud-7400pd)
- - [7 of our favorite deals from Amazon’s 48-hour Pet Day sale](https://www.theverge.com/tech/666760/amazon-pet-day-deals-2025-litter-robot-4-furbo-360-camera-feeder-deal-sale)<!-- TECH:END -->
+ - [Plugable’s new dock supports five displays from one USB-C port](https://www.theverge.com/news/667072/plugable-displaylink-dock-ud-7400pd)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Square Enix cancels Kingdom Hearts mobile game](https://www.theverge.com/news/666867/kingdom-hearts-missing-link-canceled)
  - [Google DeepMind unveils AlphaEvolve, a Gemini-powered AI coding agent that designs and optimizes advanced algorithms using an evolutionary framework &lpar;Google DeepMind&rpar;](http://www.techmeme.com/250514/p31#a250514p31)
- - [A look at the Nintendo Switch 2&#39;s final specs: a custom Nvidia T239 SoC, Ampere-based GPU with 1,536 CUDA cores, 12GB of LPDDR5X RAM, DLSS support, and more &lpar;Richard Leadbetter/Eurogamer.net&rpar;](http://www.techmeme.com/250514/p30#a250514p30)
+ - [A look at the Nintendo Switch 2&#39;s final specs: a custom Nvidia T239 SoC, an Ampere-based GPU with 1,536 CUDA cores, 12GB of LPDDR5X RAM, DLSS support, and more &lpar;Richard Leadbetter/Eurogamer.net&rpar;](http://www.techmeme.com/250514/p30#a250514p30)
  - [Best Bird Feeders With Cameras, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-smart-bird-feeders/)
  - [Google DeepMind’s AI Agent Dreams Up Algorithms Beyond Human Expertise](https://www.wired.com/story/google-deepminds-ai-agent-dreams-up-algorithms-beyond-human-expertise/)<!-- TECH:END -->
 

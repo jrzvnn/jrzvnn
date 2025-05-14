@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese sites like JD.com are offering discounts of up to 2,530 yuan, ~$350, on iPhone 16 models, an effort to spur sales after Q1 shipments fell &lpar;Reuters&rpar;](http://www.techmeme.com/250514/p46#a250514p46)
+ - [Trump wants to weaken protections against forever chemicals in drinking water](https://www.theverge.com/news/667349/forever-chemicals-pfas-drinking-water-rules-epa-trump-rollback)
+ - [Apple Maps will show recommendations from Michelin and The Infatuation](https://www.theverge.com/news/667383/apple-maps-recommendations-michelin-infatuation)
  - [Blowout deal: Apple&#39;s 1TB MacBook Pro with 18-core GPU plunges to $1,699](https://appleinsider.com/articles/25/05/14/blowout-deal-apples-1tb-macbook-pro-with-18-core-gpu-plunges-to-1699?utm_medium=rss)
- - [Cisco reports Q3 revenue up 11% YoY to $14.15B, vs. $14.08B est., forecasts Q4 revenue above estimates, and announces CFO Scott Herren will retire on July 26 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250514/p45#a250514p45)
- - [CoreWeave reports Q1 revenue up 420% YoY to $981.6M, vs. $853M est., and net loss of $314.6M, up from $129.2M a year earlier; CRWV jumps 9%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250514/p44#a250514p44)
- - [PGA Championship 2025: TV Schedule and How to Watch All the PGA Tour Golf From Anywhere](https://www.cnet.com/tech/services-and-software/pga-championship-2025-tv-schedule-and-how-to-watch-all-the-pga-tour-golf-from-anywhere/#ftag=CAD590a51e)
- - [Foxconn receives approval from India&#39;s cabinet to build a new $435M semiconductor plant, expected to open in 2027, in a joint venture with IT giant HCL Group &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250514/p43#a250514p43)<!-- TECH:END -->
+ - [Cisco reports Q3 revenue up 11% YoY to $14.15B, vs. $14.08B est., forecasts Q4 revenue above estimates, and announces CFO Scott Herren will retire on July 26 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250514/p45#a250514p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tencent reports Q1 revenue up 13% YoY to ~$25B, above ~$24.3B est., net profit up 14% YoY to ~$6.6B, below ~$7.3B est., driven by gaming business growth &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250514/p14#a250514p14)
  - [Foxconn reports Q1 revenue up 24% YoY to ~$54B, net profit up 91% YoY to ~$1.38B, above est.,; cloud and networking, like AI servers, was 34% of its Q1 revenue &lpar;Sherry Qin/Wall Street Journal&rpar;](http://www.techmeme.com/250514/p13#a250514p13)
  - [How Finland&#39;s district heating systems are harvesting heat from data centers; Microsoft&#39;s project near Helsinki will be the largest of its kind when completed &lpar;Bloomberg&rpar;](http://www.techmeme.com/250514/p12#a250514p12)
- - [Sony reports Q4 revenue down 24% YoY to $17.7B, 18.5M PlayStation 5 units sold in FY 24, down from 20.8M in FY 23, and expects a $700M US tariff impact in FY 25 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250514/p11#a250514p11)
- - [Q&amp;A with Marc Benioff on how AI is disrupting work, Salesforce&#39;s AI agent platform Agentforce, the Trump administration&#39;s tariffs and economic policy, and more &lpar;Stephen Morris/Financial Times&rpar;](http://www.techmeme.com/250514/p10#a250514p10)
- - [The next Mario movie&amp;#8217;s title got accidentally announced](https://www.theverge.com/news/666569/super-mario-world-movie-sequel-nintendo-universal)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for May 14, #703](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-14-703/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for May 14, #437](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-14-437/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

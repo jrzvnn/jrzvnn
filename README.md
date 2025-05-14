@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [No, Steam wasn&#39;t hacked -- but your security habits still matter](https://appleinsider.com/articles/25/05/14/no-steam-wasnt-hacked----but-your-security-habits-still-matter?utm_medium=rss)
+ - [Grok replied with information about South Africa&#39;s &quot;white genocide&quot; when X users asked it to fact-check unrelated topics; the issue appears to have been fixed &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250514/p41#a250514p41)
  - [Microsoft starts testing  ‘Hey, Copilot!’ in Windows](https://www.theverge.com/news/667167/windows-hey-copilot-ai-wake-word-voice-activation)
  - [The best foldable phone you can buy](https://www.theverge.com/tech/635839/best-foldable-phone)
- - [Apple Maps adds Michelin reviews to help you find fine food](https://appleinsider.com/articles/25/05/14/apple-maps-adds-michelin-reviews-to-help-you-find-fine-food?utm_medium=rss)
- - [Waymo recalls 1,212 vehicles to update software and address collision risks, after the NHTSA opened an investigation in May 2024 following reports of incidents &lpar;Reuters&rpar;](http://www.techmeme.com/250514/p40#a250514p40)
- - [Netflix is bringing back Star Search as a live show](https://www.theverge.com/news/666960/netflix-star-search-live-show)<!-- TECH:END -->
+ - [Apple Maps adds Michelin reviews to help you find fine food](https://appleinsider.com/articles/25/05/14/apple-maps-adds-michelin-reviews-to-help-you-find-fine-food?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

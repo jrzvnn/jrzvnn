@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [It aint much, but its honest work](http://9gag.com/gag/aQzZZB7)
  - 💣 [Spot on](http://9gag.com/gag/aD2VX1x)
  - 😝 [Not the kind of refugees we are used to](http://9gag.com/gag/amoMV4o)
- - 👉 [Drummer boy](http://9gag.com/gag/a9y2DPo)<!-- MEMES:END -->
+ - 👉 [Reality check](http://9gag.com/gag/amoMMxv)<!-- MEMES:END -->
 
 ---
 

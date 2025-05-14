@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix’s ad tier is growing really fast — and that means more ads](https://www.theverge.com/news/667042/netflix-ad-supported-tier-94-million-users-upfront-2025)
+ - [Ubisoft says its Prince of Persia remake will finally arrive by early 2026](https://www.theverge.com/news/667061/ubisoft-prince-of-persia-remake-release-date-by-april-2026)
  - [Apple&#39;s Developer app receives an update ahead of WWDC 2025](https://appleinsider.com/articles/25/05/14/apples-developer-app-receives-an-update-ahead-of-wwdc-2025?utm_medium=rss)
  - [The CFPB withdraws its proposal for new rules to more tightly regulate US data brokers and their ability to sell sensitive information about Americans &lpar;Wired&rpar;](http://www.techmeme.com/250514/p37#a250514p37)
- - [Microsoft Cuts Off Access to Bing Search Data as It Shifts Focus to Chatbots](https://www.wired.com/story/bing-microsoft-api-support-ending/)
- - [Sources: Microsoft is set to stave off a possible hefty EU antitrust fine, after it unbundled Teams from Office in 2023, following a complaint by Slack in 2020 &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250514/p36#a250514p36)
- - [The Reason Murderbot’s Tone Feels Off](https://www.wired.com/story/the-reason-murderbots-tone-feels-off/)<!-- TECH:END -->
+ - [Microsoft Cuts Off Access to Bing Search Data as It Shifts Focus to Chatbots](https://www.wired.com/story/bing-microsoft-api-support-ending/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

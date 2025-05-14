@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [These edits are freaking hilarious](http://9gag.com/gag/a342b75)
  - 😝 [It aint much, but its honest work](http://9gag.com/gag/aQzZZB7)
- - 💣 [Spot on](http://9gag.com/gag/aD2VX1x)
- - 😝 [Not the kind of refugees we are used to](http://9gag.com/gag/amoMV4o)
+ - 😝 [Spot on](http://9gag.com/gag/aD2VX1x)
+ - 💣 [Not the kind of refugees we are used to](http://9gag.com/gag/amoMV4o)
+ - 😝 [Mr.Steal Your Girl](http://9gag.com/gag/adBeRGM)
  - 👉 [Reality check](http://9gag.com/gag/amoMMxv)<!-- MEMES:END -->
 
 ---

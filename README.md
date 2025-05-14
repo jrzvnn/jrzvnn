@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia&amp;#8217;s flattery of Trump wins reversal of AI chip limits and a Huawei clampdown](https://www.theverge.com/news/666605/nvidias-flattery-of-trump-wins-reversal-of-ai-chip-limits-and-a-huawei-clampdown)
- - [Chinese resellers offer steep discounts on iPhone 16 to counter falling sales](https://appleinsider.com/articles/25/05/14/chinese-resellers-offer-steep-discounts-on-iphone-16-to-counter-falling-sales?utm_medium=rss)
- - [French IT group Atos says it will simplify its organization, cut expenses, and focus on AI, aiming to reach €9B to €10B in 2028 sales, after years of setbacks &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/250514/p18#a250514p18)
- - [Patients Are Left With Few Options as GLP-1 Copycats Disappear](https://www.wired.com/story/glp-1-copycats-compounded-ozempic-zepbound-wegovy-tirzepatide-semaglutide/)
- - [FTC v. Meta: Meta&#39;s lawyer disparaged tech journalists Kara Swisher and Om Malik, calling Malik a &quot;failed blogger&quot;, showing Meta&#39;s long-simmering media tensions &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250514/p17#a250514p17)<!-- TECH:END -->
+ - [At a JP Morgan event, Intel CFO David Zinsner says committed volumes for Intel&#39;s new 18A and 14A chips from external customers are currently &quot;not significant&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/250514/p21#a250514p21)
+ - [Eight Sleep adds a pricey blanket and speakers to its Pod 5 sleep system](https://www.theverge.com/news/666613/eight-sleep-pod-5-blanket-surround-sound-snoring)
+ - [Databricks agrees to acquire cloud database startup Neon for ~$1B, set to close in Q2 2025; Neon&#39;s platform is based on open-source database PostgreSQL &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250514/p20#a250514p20)
+ - [Minimal Phone Review: A Distraction-Free Middle Ground](https://www.wired.com/review/minimal-phone/)
+ - [Sources: Guangzhou-based autonomous driving company Pony AI confidentially filed for a Hong Kong IPO; Pony AI raised ~$413M in a US IPO in November 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250514/p19#a250514p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tencent reports Q1 revenue up 13% YoY to ~$25B, above ~$24.3B est., net profit up 14% YoY to ~$6.6B, below ~$7.3B est., driven by gaming business growth &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250514/p14#a250514p14)
- - [Foxconn reports Q1 revenue up 24% YoY to ~$54B, net profit up 91% YoY to ~$1.38B, above est.,; cloud and networking, like AI servers, was 34% of its Q1 revenue &lpar;Sherry Qin/Wall Street Journal&rpar;](http://www.techmeme.com/250514/p13#a250514p13)
- - [How Finland&#39;s district heating systems are harvesting heat from data centers; Microsoft&#39;s project near Helsinki will be the largest of its kind when completed &lpar;Bloomberg&rpar;](http://www.techmeme.com/250514/p12#a250514p12)
- - [Today&#39;s NYT Connections Hints, Answers and Help for May 14, #703](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-14-703/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for May 14, #437](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-14-437/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Filing: GD Culture Group, a struggling China-linked company that has only eight staff, plans to buy $300M in BTC and $TRUMP, creating clear ethical conflicts &lpar;New York Times&rpar;](http://www.techmeme.com/250514/p16#a250514p16)
+ - [Sources: Shenzhen government-owned chip equipment maker SiCarrier, a key Huawei supplier, is seeking ~$2.8B at an $11B valuation in its first fundraising round &lpar;Reuters&rpar;](http://www.techmeme.com/250514/p15#a250514p15)
+ - [North Korean IT Workers Are Being Exposed on a Massive Scale](https://www.wired.com/story/north-korean-it-worker-scams-exposed/)
+ - [Sony considers PS5 price hikes to cover Trump’s tariffs](https://www.theverge.com/news/666584/sony-earnings-tariffs-ps5-price-us-manufacturing)
+ - [Tencent reports Q1 revenue up 13% YoY to ~$25B, above ~$24.3B est., net profit up 14% YoY to ~$6.6B, below ~$7.3B est., driven by gaming business growth &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250514/p14#a250514p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

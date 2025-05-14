@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Uber and delivery service iFood partner to integrate their services into each others&#39; apps in Brazil; Uber ended its Uber Eats service in Brazil in March 2022 &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250514/p48#a250514p48)
  - [Best Bird Feeders With Cameras, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-smart-bird-feeders/)
  - [EA is bringing employees back to the office three days per week](https://www.theverge.com/news/667441/ea-return-to-office-work-hybrid)
  - [SpaceX Tests Starship Fixes After Back-to-Back Failures](https://www.wired.com/story/spacex-tests-starship-fixes-after-back-to-back-failures/)
- - [&#39;Price is Right&#39; contestants nowhere close to Apple Vision Pro&#39;s astronomical price](https://appleinsider.com/articles/25/05/14/price-is-right-contestants-nowhere-close-to-apple-vision-pros-astronomical-price?utm_medium=rss)
- - [SoundCloud changes its TOS again after an AI uproar](https://www.theverge.com/news/667420/soundcloud-ai-training-copyright-tos)<!-- TECH:END -->
+ - [&#39;Price is Right&#39; contestants nowhere close to Apple Vision Pro&#39;s astronomical price](https://appleinsider.com/articles/25/05/14/price-is-right-contestants-nowhere-close-to-apple-vision-pros-astronomical-price?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

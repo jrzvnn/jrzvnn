@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Need code for further research.](http://9gag.com/gag/aXPWWe2)
  - 😝 [Are you ready?](http://9gag.com/gag/aryqqN0)
- - 💣 [Do you like goth girls?](http://9gag.com/gag/aVvLL38)
- - 😝 [Forgot to mention my cooking experiences were all virtual... \ud83c\udf73\ud83e\uddd1\ud83c\udffd\ud83d\udcbb](http://9gag.com/gag/adBeem9)
- - 👉 [BREAKING: First group of white refugees fleeing genocide and persecution in South Africa&rpar; have arrived in the United States!!](http://9gag.com/gag/ayNR1o8)<!-- MEMES:END -->
+ - 💣 [Forgot to mention my cooking experiences were all virtual... \ud83c\udf73\ud83e\uddd1\ud83c\udffd\ud83d\udcbb](http://9gag.com/gag/adBeem9)
+ - 😝 [Do you like goth girls?](http://9gag.com/gag/aVvLL38)
+ - 👉 [Check mate, Zelensky.](http://9gag.com/gag/a9y22NL)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CFBP Quietly Kills Rule to Shield Americans From Data Brokers](https://www.wired.com/story/cfbp-quietly-kills-rule-to-shield-americans-from-data-brokers/)
  - [Stock trading app eToro began trading at $69.69 on Nasdaq after pricing its IPO at $52, above its $46-$50 expected range &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250514/p32#a250514p32)
  - [When Apple&#39;s WWDC changed the company and the world the most](https://appleinsider.com/articles/25/05/14/when-apples-wwdc-changed-the-company-and-the-world-the-most?utm_medium=rss)
  - [The 26 Best Amazon Pet Day Deals &lpar;2025&rpar;](https://www.wired.com/story/amazon-pet-day-deals/)
- - [Superman gets grilled in latest trailer](https://www.theverge.com/news/666313/superman-trailer-lex-luthor-lois-lane)
- - [James Gunn&#39;s &#39;Superman&#39; Takes on All the Villains in Full Trailer. Watch It Here](https://www.cnet.com/tech/services-and-software/james-gunns-superman-takes-on-all-the-villains-in-full-trailer-watch-it-here/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Superman gets grilled in latest trailer](https://www.theverge.com/news/666313/superman-trailer-lex-luthor-lois-lane)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

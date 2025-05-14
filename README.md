@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: GD Culture Group, a struggling China-linked company that has only eight staff, plans to buy $300M in BTC and $TRUMP, creating clear ethical conflicts &lpar;New York Times&rpar;](http://www.techmeme.com/250514/p16#a250514p16)
- - [Sources: Shenzhen government-owned chip equipment maker SiCarrier, a key Huawei supplier, is seeking ~$2.8B at an $11B valuation in its first fundraising round &lpar;Reuters&rpar;](http://www.techmeme.com/250514/p15#a250514p15)
- - [North Korean IT Workers Are Being Exposed on a Massive Scale](https://www.wired.com/story/north-korean-it-worker-scams-exposed/)
- - [Sony considers PS5 price hikes to cover Trump’s tariffs](https://www.theverge.com/news/666584/sony-earnings-tariffs-ps5-price-us-manufacturing)
- - [Tencent reports Q1 revenue up 13% YoY to ~$25B, above ~$24.3B est., net profit up 14% YoY to ~$6.6B, below ~$7.3B est., driven by gaming business growth &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250514/p14#a250514p14)<!-- TECH:END -->
+ - [Chinese resellers offer steep discounts on iPhone 16 to counter falling sales](https://appleinsider.com/articles/25/05/14/chinese-resellers-offer-steep-discounts-on-iphone-16-to-counter-falling-sales?utm_medium=rss)
+ - [French IT group Atos says it will simplify its organization, cut expenses, and focus on AI, aiming to reach €9B to €10B in 2028 sales, after years of setbacks &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/250514/p18#a250514p18)
+ - [Patients Are Left With Few Options as GLP-1 Copycats Disappear](https://www.wired.com/story/glp-1-copycats-compounded-ozempic-zepbound-wegovy-tirzepatide-semaglutide/)
+ - [FTC v. Meta: Meta&#39;s lawyer disparaged tech journalists Kara Swisher and Om Malik, calling Malik a &quot;failed blogger&quot;, showing Meta&#39;s long-simmering media tensions &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250514/p17#a250514p17)
+ - [Filing: GD Culture Group, a struggling China-linked company that has only eight staff, plans to buy $300M in BTC and $TRUMP, creating clear ethical conflicts &lpar;New York Times&rpar;](http://www.techmeme.com/250514/p16#a250514p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

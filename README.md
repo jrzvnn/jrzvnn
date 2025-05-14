@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Universal accidentally announces the title of the next Mario movie](https://www.theverge.com/news/666569/super-mario-world-movie-sequel-nintendo-universal)
  - [Appfigures: mobile gamers spent $65.4B in 2024, up 4% YoY, but less than $4B went to games released in 2024; studios launched 126K games in 2024, down 43% YoY &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/250514/p9#a250514p9)
  - [Sources including former staff detail abuse, financial mismanagement, and other issues at AbleGamers, an influential nonprofit promoting gaming accessibility &lpar;Grant Stoner/IGN&rpar;](http://www.techmeme.com/250514/p8#a250514p8)
  - [A profile of Tether&#39;s chief investment officer Richard Heathcote, who manages a $150B asset portfolio and has helped deepen Tether&#39;s ties with Cantor Fitzgerald &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/250514/p7#a250514p7)
- - [A lofi journaling kit for the digital age](https://www.theverge.com/reviews/666546/modern-travellers-journal-instax-photo-review)
- - [The US Commerce Department issues guidance stating that &quot;using Huawei Ascend chips anywhere in the world violates US export controls&quot; due to the use of US tech &lpar;Financial Times&rpar;](http://www.techmeme.com/250514/p6#a250514p6)<!-- TECH:END -->
+ - [A lofi journaling kit for the digital age](https://www.theverge.com/reviews/666546/modern-travellers-journal-instax-photo-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

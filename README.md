@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Warner Bros. Discovery says it will change the name of its Max streaming service back to HBO Max this summer, and tweaks its logo; WBD dropped HBO in May 2023 &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/250514/p27#a250514p27)
  - [Senators Marsha Blackburn and Richard Blumenthal reintroduce the Kids Online Safety Act, mandating platforms like Meta to mitigate harms; Apple supports KOSA &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250514/p26#a250514p26)
- - [The &amp;#8216;HBO&amp;#8217; is coming back to Max](https://www.theverge.com/news/666707/hbo-max-returning-rebrand-warner-bros-discovery)
+ - [It’s not Max, it’s HBO Max](https://www.theverge.com/news/666707/hbo-max-returning-rebrand-warner-bros-discovery)
  - [FTC v. Meta: The antitrust battle over WhatsApp and Instagram](https://www.theverge.com/news/646809/ftc-v-meta-antitrust-monopoly-trial-instagram-whatsapp)
- - [WiiM’s first smart speaker looks like a HomePod for audiophiles](https://www.theverge.com/news/666733/wiim-sound-sub-pro-amp-ultra-smart-speaker-audiophile-streaming)
- - [How Donald Trump blew the offshore wind industry off course](https://www.theverge.com/climate-change/666244/offshore-wind-energy-outlook-trump-tariffs-tax-credits)<!-- TECH:END -->
+ - [WiiM’s first smart speaker looks like a HomePod for audiophiles](https://www.theverge.com/news/666733/wiim-sound-sub-pro-amp-ultra-smart-speaker-audiophile-streaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

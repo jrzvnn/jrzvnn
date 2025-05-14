@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Blowout deal: Apple&#39;s 1TB MacBook Pro with 18-core GPU plunges to $1,699](https://appleinsider.com/articles/25/05/14/blowout-deal-apples-1tb-macbook-pro-with-18-core-gpu-plunges-to-1699?utm_medium=rss)
  - [Cisco reports Q3 revenue up 11% YoY to $14.15B, vs. $14.08B est., forecasts Q4 revenue above estimates, and announces CFO Scott Herren will retire on July 26 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250514/p45#a250514p45)
  - [CoreWeave reports Q1 revenue up 420% YoY to $981.6M, vs. $853M est., and net loss of $314.6M, up from $129.2M a year earlier; CRWV jumps 9%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250514/p44#a250514p44)
  - [PGA Championship 2025: TV Schedule and How to Watch All the PGA Tour Golf From Anywhere](https://www.cnet.com/tech/services-and-software/pga-championship-2025-tv-schedule-and-how-to-watch-all-the-pga-tour-golf-from-anywhere/#ftag=CAD590a51e)
- - [Foxconn receives approval from India&#39;s cabinet to build a new $435M semiconductor plant, expected to open in 2027, in a joint venture with IT giant HCL Group &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250514/p43#a250514p43)
- - [Epic has submitted a new version of Fortnite to the US App Store, saying it needs to release a weekly update, after pulling the version it submitted on Friday &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/250514/p42#a250514p42)<!-- TECH:END -->
+ - [Foxconn receives approval from India&#39;s cabinet to build a new $435M semiconductor plant, expected to open in 2027, in a joint venture with IT giant HCL Group &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250514/p43#a250514p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

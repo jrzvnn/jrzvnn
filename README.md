@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The Middle East Has Entered the AI Group Chat](https://www.wired.com/story/trump-middle-east-artificial-intelligence-investments/)
  - [Take-Two reports Q4 net bookings up 17% YoY to $1.58B, vs. $1.55B est., net revenue up 13% YoY to $1.58B, and forecasts FY 2026 net bookings below expectations &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250515/p39#a250515p39)
  - [Jeff Bezos makes his most ghoulish deal yet](https://www.theverge.com/amazon/667916/jeff-bezos-amazon-saudi-arabia-jamal-khashoggi)
- - [Coinbase says ‘rogue’ support agents helped steal customer data](https://www.theverge.com/news/667989/coinbase-rogue-support-agent-customer-data-stolen-breach)<!-- TECH:END -->
+ - [Apple Launches CarPlay Ultra With New Ways for Drivers to Customize](https://www.cnet.com/tech/services-and-software/apple-launches-carplay-ultra-with-new-ways-for-drivers-to-customize/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

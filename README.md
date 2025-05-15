@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reality check](http://9gag.com/gag/amoMMxv)
+ - 😝 [That escalated quickly..](http://9gag.com/gag/abAB26b)
  - 😝 [Rethinking Spider-Man&#39;s love life, one meme at a time.](http://9gag.com/gag/amoMng6)
  - 💣 [Make natural selection great again](http://9gag.com/gag/azxRQBb)
  - 😝 [And that he isn&#39;t playing Trump like a fiddle...](http://9gag.com/gag/aVvLBpO)

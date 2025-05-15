@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This is awesome... Good job, Netflix!](http://9gag.com/gag/aAy2O62)
  - 😝 [N ice haircut](http://9gag.com/gag/abABQoB)
- - 😝 [Reality check](http://9gag.com/gag/amoMMxv)
- - 💣 [That escalated quickly..](http://9gag.com/gag/abAB26b)
- - 😝 [Trying to imptress](http://9gag.com/gag/aD2VOBx)
+ - 💣 [Reality check](http://9gag.com/gag/amoMMxv)
+ - 😝 [That escalated quickly..](http://9gag.com/gag/abAB26b)
  - 👉 [I see women, I see kids, I see hope, I see love for the country that is giving them shelter. I see REAL refugees](http://9gag.com/gag/aD2VOdB)<!-- MEMES:END -->
 
 ---

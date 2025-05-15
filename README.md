@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Belgian Court of Appeal rules the Transparency &amp; Consent Framework, used by Google, Microsoft, Amazon, and much of the internet, is illegal across Europe &lpar;Johnny Ryan/Irish Council ...&rpar;](http://www.techmeme.com/250515/p8#a250515p8)
- - [Open letter: SoundCloud CEO Eliah Seton says a 2024 TOS update did not intend to allow AI training on user content; SoundCloud revised the wording on May 14 &lpar;Stuart Dredge/Music Ally&rpar;](http://www.techmeme.com/250515/p7#a250515p7)
- - [Today&#39;s NYT Strands Hints, Answers and Help for May 15, #438](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-15-438/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 15, #234](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-15-234/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for May 15, #1426](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-15-1426/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple is placing warnings on EU apps that don’t use App Store payments](https://www.theverge.com/news/667484/apple-eu-ios-app-store-warning-payment-system)
+ - [Hacking group DragonForce says it stole UK retailer Co-op&#39;s customer data and planned to deploy ransomware, but Co-op quickly shut down its systems, unlike M&amp;S &lpar;Joe Tidy/BBC&rpar;](http://www.techmeme.com/250515/p9#a250515p9)
+ - [Google&#39;s About to Tell Us More About Its Android XR Plans for Glasses](https://www.cnet.com/tech/computing/googles-about-to-tell-us-more-about-its-android-xr-plans-for-glasses/#ftag=CAD590a51e)
+ - [Need Help With Math? Try Using This iPhone Messages Feature](https://www.cnet.com/tech/services-and-software/need-help-with-math-try-using-this-iphone-messages-feature/#ftag=CAD590a51e)
+ - [Blocked From Selling Off-Brand Ozempic, Telehealth Startups Embrace a Less Effective Drug](https://www.wired.com/story/telehealth-pivot-liraglutide-fda-shortage/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [IFI Claims: Google passes IBM to lead in generative AI-related patent applications in the US; Google and Nvidia lead agentic AI patent filings globally &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250515/p18#a250515p18)
+ - [Trump has a problem with Tim Cook, because Foxconn is building factories in India](https://appleinsider.com/articles/25/05/15/trump-has-a-problem-with-tim-cook-because-foxconn-is-building-factories-in-india?utm_medium=rss)
+ - [Proofpoint agrees to acquire German company Hornetsecurity, which specializes in managed cloud-based email security services, for $1B, set to close in H2 2025 &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250515/p17#a250515p17)
  - [Apple adds red exclamation mark warnings on EU App Store listings for apps using third-party payment systems, not Apple&#39;s &quot;private and secure payment system&quot; &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250515/p16#a250515p16)
- - [Coinbase says hackers accessed data for a &quot;small subset&quot; of users, but not login credentials, expects to incur $180M-$400M in costs, and refuses a $20M ransom &lpar;Niket Nishant/Reuters&rpar;](http://www.techmeme.com/250515/p15#a250515p15)
- - [Analysis: the US government canceled 1,400+ federal research grants worth $1B+, including many studying online misinformation, citing protection of 1A rights &lpar;Steven Lee Myers/New York Times&rpar;](http://www.techmeme.com/250515/p14#a250515p14)
- - [Go to Hell in Doom: The Dark Ages, Now on Xbox Game Pass](https://www.cnet.com/tech/services-and-software/go-to-hell-in-doom-the-dark-ages-now-on-xbox-game-pass/#ftag=CAD590a51e)
- - [Best Internet Deals for Seniors](https://www.cnet.com/home/internet/best-internet-deals-for-seniors/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Coinbase says hackers accessed data for a &quot;small subset&quot; of users, but not login credentials, expects to incur $180M-$400M in costs, and refuses a $20M ransom &lpar;Niket Nishant/Reuters&rpar;](http://www.techmeme.com/250515/p15#a250515p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Cohere, which has raised $1B+, was on pace to generate just $70M in revenue annually as of February 2025, after projecting ~$450M in revenue in 2024 &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/250515/p34#a250515p34)
  - [YouTube now has a podcast chart, and Joe Rogan is on top](https://www.theverge.com/news/667905/youtube-weekly-podcast-chart-joe-rogan)
  - [AirPods Pro 3 are in the works, Apple&#39;s own software leaks](https://appleinsider.com/articles/25/05/15/airpods-pro-3-are-in-the-works-apples-own-software-leaks?utm_medium=rss)
  - [Pinterest apologizes for a recent wave of mass account bans, saying &quot;an internal error led to over-enforcement&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250515/p33#a250515p33)
- - [Black Ops 6&#39;s First Double Battle Pass XP Event Lets You Finish Season 3 Early](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-6-double-xp-weekend-may-15-2025/#ftag=CAD590a51e)
- - [The best AirPods to buy](https://www.theverge.com/tech/645217/best-apple-airpods-pro)<!-- TECH:END -->
+ - [Black Ops 6&#39;s First Double Battle Pass XP Event Lets You Finish Season 3 Early](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-6-double-xp-weekend-may-15-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

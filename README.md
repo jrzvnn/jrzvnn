@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Middle East Has Entered the AI Group Chat](https://www.wired.com/story/trump-middle-east-artificial-intelligence-investments/)
+ - [Take-Two reports Q4 net bookings up 17% YoY to $1.58B, vs. $1.55B est., net revenue up 13% YoY to $1.58B, and forecasts FY 2026 net bookings below expectations &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250515/p39#a250515p39)
+ - [Jeff Bezos makes his most ghoulish deal yet](https://www.theverge.com/amazon/667916/jeff-bezos-amazon-saudi-arabia-jamal-khashoggi)
  - [Coinbase says ‘rogue’ support agents helped steal customer data](https://www.theverge.com/news/667989/coinbase-rogue-support-agent-customer-data-stolen-breach)
- - [Filing: Anthropic apologizes after one of its expert witnesses cited a fake article hallucinated by Claude in the company&#39;s legal battle with music publishers &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250515/p38#a250515p38)
- - [Thanks, Trump tariffs, now I gotta replace my phone battery](https://www.theverge.com/apple/667904/trump-tariff-iphone-shortage-battery-repair)
- - [EA Tried to Stop an ‘Anti-DEI Mod’ for ‘The Sims 4’—but More Keep Surfacing](https://www.wired.com/story/ea-tried-to-stop-an-anti-dei-mod-for-the-sims-4-but-more-keep-surfacing/)
- - [Apple tops global brand rankings again -- by a giant margin](https://appleinsider.com/articles/25/05/15/apple-tops-global-brand-rankings-again----by-a-giant-margin?utm_medium=rss)<!-- TECH:END -->
+ - [Filing: Anthropic apologizes after one of its expert witnesses cited a fake article hallucinated by Claude in the company&#39;s legal battle with music publishers &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250515/p38#a250515p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

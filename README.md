@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple says a warning on EU App Store listings for apps with no IAP has been live since March 2024, and the EU told it to hold off on tweaks that Apple proposed &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250515/p41#a250515p41)
  - [Tim Sweeney is mocking Apple for letting Fortnite fakes into the App Store](https://www.theverge.com/news/668101/apple-epic-games-fortnite-tim-sweeney-app-store-fakes)
  - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 16, #235](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-16-235/#ftag=CAD590a51e)
- - [The Best Fantasy Movies to Watch on Prime Video Now](https://www.cnet.com/tech/services-and-software/best-fantasy-films-on-prime-video-may-2025/#ftag=CAD590a51e)
- - [Best Internet Providers in Hawaii](https://www.cnet.com/home/internet/best-internet-providers-in-hawaii/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Fantasy Movies to Watch on Prime Video Now](https://www.cnet.com/tech/services-and-software/best-fantasy-films-on-prime-video-may-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

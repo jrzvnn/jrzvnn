@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Fold rumored to get both under-screen and hole-punch cameras](https://appleinsider.com/articles/25/05/15/iphone-fold-rumored-to-get-both-under-screen-and-hole-punch-cameras?utm_medium=rss)
- - [OpenAI’s flagship GPT-4.1 model is now in ChatGPT](https://www.theverge.com/news/667507/openai-chatgpt-gpt-4-1-ai-model-general-availability)
- - [Hedra, which offers a web-based video generation and editing suite powered by its Character-3 model, raised a $32M Series A led by a16z, following a $10M seed &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250515/p19#a250515p19)
- - [11 Best Bed Frames &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-bed-frames/)
- - [IFI Claims: Google passes IBM to lead in generative AI-related patent applications in the US; Google and Nvidia lead agentic AI patent filings globally &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250515/p18#a250515p18)<!-- TECH:END -->
+ - [Microsoft shuts off Bing Search APIs and recommends switching to AI](https://www.theverge.com/news/667517/microsoft-bing-search-api-end-of-support-ai-replacement)
+ - [How the US conducted a monthslong campaign to push Gambia and at least four other developing nations to give Starlink licenses; diplomats call the move alarming &lpar;ProPublica&rpar;](http://www.techmeme.com/250515/p20#a250515p20)
+ - [&#39;Nonnas&#39; Have Entered the Group Chat -- and Netflix&#39;s Top 10](https://www.cnet.com/tech/services-and-software/nonnas-have-entered-the-group-chat-and-netflixs-top-10/#ftag=CAD590a51e)
+ - [39 of the Best Movies on Netflix You Should Stream Right Now](https://www.cnet.com/tech/services-and-software/best-movies-on-netflix/#ftag=CAD590a51e)
+ - [Apple CarPlay 2 Finally Lands As ‘CarPlay Ultra’—But Aston Martin Gets It First](https://www.wired.com/story/apple-carplay-2-finally-lands-as-carplay-ultra-but-aston-martin-gets-it-first/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

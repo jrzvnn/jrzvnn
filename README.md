@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Garmin announces new Forerunner watches with splashy colors and running metrics](https://www.theverge.com/hands-on/667677/garmin-forerunner-970-and-570-specs-price-battery)
+ - [A Baby Received a Custom Crispr Treatment in Record Time](https://www.wired.com/story/a-baby-received-a-custom-crispr-treatment-in-record-time/)
  - [Akido Labs, which makes AI assistants for doctors to improve patient treatment efficiency, raised a $60M Series B led by Oak HC/FT &lpar;Madeline Renbarger/Newcomer&rpar;](http://www.techmeme.com/250515/p30#a250515p30)
  - [You can see right through Audio-Technica’s new transparent turntable](https://www.theverge.com/news/667793/audio-technica-vinyl-turntable-at-lpa2-record-player)
- - [Cognichip, which is building a physics-informed foundational AI model to develop new chips, emerges from stealth with a $33M seed led by Lux and Mayfield &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250515/p29#a250515p29)
- - [Walmart’s CFO says higher prices are probably coming this month](https://www.theverge.com/news/667809/walmart-trump-tariffs-higher-prices)
- - [Sony WH-1000XM6 Review: The Best Noise-Canceling Headphones](https://www.wired.com/review/sony-wh-1000xm6/)<!-- TECH:END -->
+ - [Cognichip, which is building a physics-informed foundational AI model to develop new chips, emerges from stealth with a $33M seed led by Lux and Mayfield &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250515/p29#a250515p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

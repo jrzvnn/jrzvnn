@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple tops global brand rankings again -- by a giant margin](https://appleinsider.com/articles/25/05/15/apple-tops-global-brand-rankings-again----by-a-giant-margin?utm_medium=rss)
+ - [Killer deals: Grab a MacBook Air with 24GB RAM for just $1,087](https://appleinsider.com/articles/25/05/15/killer-deals-grab-a-macbook-air-with-24gb-ram-for-just-1087?utm_medium=rss)
+ - [Thanks, Trump tariffs, now I gotta replace my phone battery](https://www.theverge.com/apple/667904/trump-tariff-iphone-shortage-battery-repair)
  - [Neal Mohan says the monetization rate of Shorts hit parity with core YouTube in the US and multiple other countries, and Shorts viewing grew 20% YoY in Q1 2025 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250515/p37#a250515p37)
- - [Source: hackers bribed enough Coinbase customer service representatives to achieve effectively on-demand access to Coinbase customer information since January &lpar;Bloomberg&rpar;](http://www.techmeme.com/250515/p36#a250515p36)
- - [Sources: Meta has delayed the rollout of its Behemoth LLM, internally slated for an April release, to fall or later after struggling to improve its capabilities &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250515/p35#a250515p35)
- - [The 35 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/best-movies-hbo-max-right-now/)
- - [Sources: Cohere, which has raised $1B+, was on pace to generate just $70M in revenue annually as of February 2025, after projecting ~$450M in revenue in 2024 &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/250515/p34#a250515p34)<!-- TECH:END -->
+ - [Source: hackers bribed enough Coinbase customer service representatives to achieve effectively on-demand access to Coinbase customer information since January &lpar;Bloomberg&rpar;](http://www.techmeme.com/250515/p36#a250515p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

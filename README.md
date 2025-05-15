@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube now has a podcast chart, and Joe Rogan is on top](https://www.theverge.com/news/667905/youtube-weekly-podcast-chart-joe-rogan)
+ - [AirPods Pro 3 are in the works, Apple&#39;s own software leaks](https://appleinsider.com/articles/25/05/15/airpods-pro-3-are-in-the-works-apples-own-software-leaks?utm_medium=rss)
  - [Pinterest apologizes for a recent wave of mass account bans, saying &quot;an internal error led to over-enforcement&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250515/p33#a250515p33)
- - [The best AirPods to buy](https://www.theverge.com/tech/645217/best-apple-airpods-pro)
- - [Sources: under the Trump administration, the SEC continues investigating whether Coinbase misstated its user numbers by reporting 100M+ &quot;verified users&quot; in 2021 &lpar;New York Times&rpar;](http://www.techmeme.com/250515/p32#a250515p32)
- - [Pinterest says mass account bans were caused by an ‘internal error’](https://www.theverge.com/news/667837/pinterest-response-mass-account-bans-outrage)
- - [New Apple videos spotlight how accessibility features empower everyone](https://appleinsider.com/articles/25/05/15/new-apple-videos-spotlight-how-accessibility-features-empower-everyone?utm_medium=rss)<!-- TECH:END -->
+ - [Black Ops 6&#39;s First Double Battle Pass XP Event Lets You Finish Season 3 Early](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-6-double-xp-weekend-may-15-2025/#ftag=CAD590a51e)
+ - [The best AirPods to buy](https://www.theverge.com/tech/645217/best-apple-airpods-pro)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

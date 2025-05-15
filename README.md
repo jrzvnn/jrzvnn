@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone Fold rumored to get both under-screen and hole-punch cameras](https://appleinsider.com/articles/25/05/15/iphone-fold-rumored-to-get-both-under-screen-and-hole-punch-cameras?utm_medium=rss)
+ - [OpenAI’s flagship GPT-4.1 model is now in ChatGPT](https://www.theverge.com/news/667507/openai-chatgpt-gpt-4-1-ai-model-general-availability)
+ - [Hedra, which offers a web-based video generation and editing suite powered by its Character-3 model, raised a $32M Series A led by a16z, following a $10M seed &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250515/p19#a250515p19)
  - [11 Best Bed Frames &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-bed-frames/)
- - [IFI Claims: Google passes IBM to lead in generative AI-related patent applications in the US; Google and Nvidia lead agentic AI patent filings globally &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250515/p18#a250515p18)
- - [Trump has a problem with Tim Cook, because Foxconn is building factories in India](https://appleinsider.com/articles/25/05/15/trump-has-a-problem-with-tim-cook-because-foxconn-is-building-factories-in-india?utm_medium=rss)
- - [Proofpoint agrees to acquire German company Hornetsecurity, which specializes in managed cloud-based email security services, for $1B, set to close in H2 2025 &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250515/p17#a250515p17)
- - [Apple adds red exclamation mark warnings on EU App Store listings for apps using third-party payment systems, not Apple&#39;s &quot;private and secure payment system&quot; &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250515/p16#a250515p16)<!-- TECH:END -->
+ - [IFI Claims: Google passes IBM to lead in generative AI-related patent applications in the US; Google and Nvidia lead agentic AI patent filings globally &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250515/p18#a250515p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

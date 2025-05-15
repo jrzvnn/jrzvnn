@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Garmin announces new Forerunner watches with splashy colors and running metrics](https://www.theverge.com/hands-on/667677/garmin-forerunner-970-and-570-specs-price-battery)
- - [A Baby Received a Custom Crispr Treatment in Record Time](https://www.wired.com/story/a-baby-received-a-custom-crispr-treatment-in-record-time/)
- - [Akido Labs, which makes AI assistants for doctors to improve patient treatment efficiency, raised a $60M Series B led by Oak HC/FT &lpar;Madeline Renbarger/Newcomer&rpar;](http://www.techmeme.com/250515/p30#a250515p30)
- - [You can see right through Audio-Technica’s new transparent turntable](https://www.theverge.com/news/667793/audio-technica-vinyl-turntable-at-lpa2-record-player)
- - [Cognichip, which is building a physics-informed foundational AI model to develop new chips, emerges from stealth with a $33M seed led by Lux and Mayfield &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250515/p29#a250515p29)<!-- TECH:END -->
+ - [New Apple videos spotlight how accessibility features empower everyone](https://appleinsider.com/articles/25/05/15/new-apple-videos-spotlight-how-accessibility-features-empower-everyone?utm_medium=rss)
+ - [You can snag a year of Peacock Premium for just $24.99 right now](https://www.theverge.com/tech/667255/peacock-premium-streaming-deal-insta360-x5-action-cam-sale)
+ - [The Hottest Topic at This Year&#39;s Pornhub Awards? Censorship](https://www.wired.com/story/uncanny-valley-podcast-hottest-topic-pornhub-awards-censorship/)
+ - [YouTube launches a weekly top podcast shows chart, tracking podcasts in the US and updated every Wednesday; The Joe Rogan Experience currently tops the chart &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/250515/p31#a250515p31)
+ - [Garmin announces new Forerunner watches with splashy colors and running metrics](https://www.theverge.com/hands-on/667677/garmin-forerunner-970-and-570-specs-price-battery)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI launches the Safety Evaluations Hub, a page showing how the company&#39;s models score on various tests for harmful content, jailbreaks, and hallucinations &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250514/p52#a250514p52)
  - [Austin Russell, the founder and CEO of lidar manufacturer Luminar, resigns following an ethics inquiry and is replaced by former Nuance CEO Paul Ricci &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/250514/p51#a250514p51)
  - [Samaya AI, which is building AI models to assist financial analysts, raised a $43.5M Series A led by NEA, with participation from Eric Schmidt and others &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/250514/p50#a250514p50)
  - [CoreWeave plans to spend $20B to $23B in 2025 on AI infrastructure and data center capacity to meet demand, including from Microsoft; CRWV drops 7%+ after hours &lpar;Reuters&rpar;](http://www.techmeme.com/250514/p49#a250514p49)
- - [Uber and delivery service iFood partner to integrate their services into each others&#39; apps in Brazil; Uber ended its Uber Eats service in Brazil in March 2022 &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250514/p48#a250514p48)
- - [Marvel Rivals&#39; Galacta&#39;s Gift Event Makes Ranking Up Even Easier](https://www.cnet.com/tech/gaming/marvel-rivals-galactas-gift-event-makes-ranking-up-even-easier/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Uber and delivery service iFood partner to integrate their services into each others&#39; apps in Brazil; Uber ended its Uber Eats service in Brazil in March 2022 &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250514/p48#a250514p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

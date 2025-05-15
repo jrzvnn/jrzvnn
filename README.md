@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta asks judge to throw out antitrust case mid-trial](https://www.theverge.com/antitrust/668099/meta-ftc-antitrust-motion-partial-findings-instagram-whatsapp)
+ - [Windsurf launches SWE-1, its first family of software engineering AI models, claiming its largest model matches Claude 3.5 Sonnet, GPT-4.1, and Gemini 2.5 Pro &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250515/p42#a250515p42)
  - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
  - [Apple says a warning on EU App Store listings for apps with no IAP has been live since March 2024, and the EU told it to hold off on tweaks that Apple proposed &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250515/p41#a250515p41)
- - [Tim Sweeney is mocking Apple for letting Fortnite fakes into the App Store](https://www.theverge.com/news/668101/apple-epic-games-fortnite-tim-sweeney-app-store-fakes)
- - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 16, #235](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-16-235/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tim Sweeney is mocking Apple for letting Fortnite fakes into the App Store](https://www.theverge.com/news/668101/apple-epic-games-fortnite-tim-sweeney-app-store-fakes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola Razr Ultra &lpar;2025&rpar; review: looking sharp](https://www.theverge.com/reviews/667277/motorola-razr-ultra-2025-review-battery-screen)
- - [Roblox creators will be able to sell merch in-game](https://www.theverge.com/news/667470/roblox-creators-physical-merch-in-game-shopify-amp)
- - [New Apple Music migration tool helps users shift away from Spotify](https://appleinsider.com/articles/25/05/15/new-apple-music-migration-tool-helps-users-shift-away-from-spotify?utm_medium=rss)
- - [Apple tests EU by adding scare screens to apps using third-party payments](https://appleinsider.com/articles/25/05/15/apple-tests-eu-by-adding-scare-screens-to-apps-using-third-party-payments?utm_medium=rss)
- - [Apple&#39;s next-generation &#39;CarPlay Ultra&#39; is finally here](https://appleinsider.com/articles/25/05/15/apples-next-generation-carplay-ultra-is-finally-here?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Chinese officials recently told some top local tech companies that the government will be more active in overseeing their AI data centers and AI chips &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/250515/p23#a250515p23)
+ - [Roblox rolls out tools to let eligible creators sell physical items from their games via its Commerce APIs, working with Shopify as a first &quot;integrated partner&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250515/p22#a250515p22)
+ - [Motorola Razr Ultra and Razr &lpar;2025&rpar; Review: Gorgeous Folding Phones](https://www.wired.com/review/motorola-razr-ultra-and-razr-2025/)
+ - [I Tested the Motorola Razr Ultra. It&#39;s Good, but Flipping Expensive](https://www.cnet.com/tech/mobile/i-tested-the-motorola-razr-ultra-its-good-but-flipping-expensive/#ftag=CAD590a51e)
+ - [Motorola Razr 2025 Review: It&#39;s Got the Look](https://www.cnet.com/tech/mobile/motorola-razr-2025-review-its-got-the-look/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

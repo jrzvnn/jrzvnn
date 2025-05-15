@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple adds red exclamation mark warnings on EU App Store listings for apps using third-party payment systems, not Apple&#39;s &quot;private and secure payment system&quot; &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250515/p16#a250515p16)
+ - [Coinbase says hackers accessed data for a &quot;small subset&quot; of users, but not login credentials, expects to incur $180M-$400M in costs, and refuses a $20M ransom &lpar;Niket Nishant/Reuters&rpar;](http://www.techmeme.com/250515/p15#a250515p15)
  - [Analysis: the US government canceled 1,400+ federal research grants worth $1B+, including many studying online misinformation, citing protection of 1A rights &lpar;Steven Lee Myers/New York Times&rpar;](http://www.techmeme.com/250515/p14#a250515p14)
- - [Analysis: Shein cut the average cost of 98 tracked products in the US by ~13% to $5.56 from a peak of $6.38 on May 7, and sent a price drop alert to US users &lpar;Bloomberg&rpar;](http://www.techmeme.com/250515/p13#a250515p13)
- - [9 Best Mattresses for Back Pain, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-mattresses-for-back-pain/)
- - [Documents: Microsoft&#39;s recent layoffs of 6,000 workers hit software engineers in Washington state hardest, making up 40%+ of the ~2,000 positions cut there &lpar;Bloomberg&rpar;](http://www.techmeme.com/250515/p12#a250515p12)
- - [The EU provisionally finds that TikTok breached the DSA by failing to offer a publicly searchable ad library, potentially opening the platform up to a fine &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/250515/p11#a250515p11)<!-- TECH:END -->
+ - [Go to Hell in Doom: The Dark Ages, Now on Xbox Game Pass](https://www.cnet.com/tech/services-and-software/go-to-hell-in-doom-the-dark-ages-now-on-xbox-game-pass/#ftag=CAD590a51e)
+ - [Best Internet Deals for Seniors](https://www.cnet.com/home/internet/best-internet-deals-for-seniors/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

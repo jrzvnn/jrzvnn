@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Mayo Clinic is using AI to boost efficiency and amplify human abilities in its radiology department, which has an AI team of 40 people and 400+ radiologists &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/250515/p3#a250515p3)
  - [Sources: Spark Capital saw a gain of about $530M this week when eToro went public; Spark was eToro&#39;s largest shareholder with a 13% stake and had invested $19M &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250515/p2#a250515p2)
  - [Q&amp;A with FT&#39;s Patrick McGee on his new book Apple in China, which examines Apple&#39;s role in enabling China&#39;s rise; Apple says the book is &quot;full of inaccuracies&quot; &lpar;Issie Lapowsky/Vanity Fair&rpar;](http://www.techmeme.com/250515/p1#a250515p1)
  - [Adidas Promo Codes &amp; Deals: 30% Off](https://www.wired.com/story/adidas-promo-code/)
- - [Meta promotes Benjamin Joe, its longtime VP for Southeast Asia, to VP of Asia Pacific and expands India VP Sandhya Devanathan&#39;s role to include Southeast Asia &lpar;Newley Purnell/Bloomberg&rpar;](http://www.techmeme.com/250514/p54#a250514p54)
- - [Huione Guarantee, a Telegram-based black market for crypto scammers and money launderers that enabled $27B+ in transactions, shuts down after mass account bans &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/250514/p53#a250514p53)<!-- TECH:END -->
+ - [Meta promotes Benjamin Joe, its longtime VP for Southeast Asia, to VP of Asia Pacific and expands India VP Sandhya Devanathan&#39;s role to include Southeast Asia &lpar;Newley Purnell/Bloomberg&rpar;](http://www.techmeme.com/250514/p54#a250514p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

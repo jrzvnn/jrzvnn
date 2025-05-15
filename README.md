@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Documents: Microsoft&#39;s recent layoffs of 6,000 workers hit software engineers in Washington state hardest, making up 40%+ of the ~2,000 positions cut there &lpar;Bloomberg&rpar;](http://www.techmeme.com/250515/p12#a250515p12)
+ - [The EU provisionally finds that TikTok breached the DSA by failing to offer a publicly searchable ad library, potentially opening the platform up to a fine &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/250515/p11#a250515p11)
+ - [Alibaba reports Q1 revenue up 7% YoY to ~$32.8B, below $33B est., and net income up 200%+ to ~$1.7B due to equity investment gains; BABA drops 5%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/250515/p10#a250515p10)
  - [Apple is placing warnings on EU apps that don’t use App Store payments](https://www.theverge.com/news/667484/apple-eu-ios-app-store-warning-payment-system)
- - [Hacking group DragonForce says it stole UK retailer Co-op&#39;s customer data and planned to deploy ransomware, but Co-op quickly shut down its systems, unlike M&amp;S &lpar;Joe Tidy/BBC&rpar;](http://www.techmeme.com/250515/p9#a250515p9)
- - [Google&#39;s About to Tell Us More About Its Android XR Plans for Glasses](https://www.cnet.com/tech/computing/googles-about-to-tell-us-more-about-its-android-xr-plans-for-glasses/#ftag=CAD590a51e)
- - [Need Help With Math? Try Using This iPhone Messages Feature](https://www.cnet.com/tech/services-and-software/need-help-with-math-try-using-this-iphone-messages-feature/#ftag=CAD590a51e)
- - [Blocked From Selling Off-Brand Ozempic, Telehealth Startups Embrace a Less Effective Drug](https://www.wired.com/story/telehealth-pivot-liraglutide-fda-shortage/)<!-- TECH:END -->
+ - [Hacking group DragonForce says it stole UK retailer Co-op&#39;s customer data and planned to deploy ransomware, but Co-op quickly shut down its systems, unlike M&amp;S &lpar;Joe Tidy/BBC&rpar;](http://www.techmeme.com/250515/p9#a250515p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is awesome... Good job, Netflix!](http://9gag.com/gag/aAy2O62)
+ - 😝 [Decided for a proper dinner while watching a proper movie](http://9gag.com/gag/aGyA7m5)
  - 😝 [N ice haircut](http://9gag.com/gag/abABQoB)
- - 💣 [Who knew transparency could be so invisible?](http://9gag.com/gag/aByGomZ)
- - 😝 [Reality check](http://9gag.com/gag/amoMMxv)
- - 👉 [That escalated quickly..](http://9gag.com/gag/abAB26b)<!-- MEMES:END -->
+ - 💣 [Reality check](http://9gag.com/gag/amoMMxv)
+ - 😝 [That escalated quickly..](http://9gag.com/gag/abAB26b)
+ - 👉 [Who knew transparency could be so invisible?](http://9gag.com/gag/aByGomZ)<!-- MEMES:END -->
 
 ---
 

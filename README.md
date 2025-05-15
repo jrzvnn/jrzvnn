@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adidas Promo Codes &amp; Deals: 30% Off](https://www.wired.com/story/adidas-promo-code/)
  - [Meta promotes Benjamin Joe, its longtime VP for Southeast Asia, to VP of Asia Pacific and expands India VP Sandhya Devanathan&#39;s role to include Southeast Asia &lpar;Newley Purnell/Bloomberg&rpar;](http://www.techmeme.com/250514/p54#a250514p54)
  - [Huione Guarantee, a Telegram-based black market for crypto scammers and money launderers that enabled $27B+ in transactions, shuts down after mass account bans &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/250514/p53#a250514p53)
  - [OpenAI launches the Safety Evaluations Hub, a page showing how the company&#39;s models score on various tests for harmful content, jailbreaks, and hallucinations &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250514/p52#a250514p52)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, May 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-may-15/#ftag=CAD590a51e)
- - [Imminent Limits on AI Chip Exports Rescinded by Trump Administration](https://www.cnet.com/tech/services-and-software/imminent-limits-on-ai-chip-exports-rescinded-by-trump-administration/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, May 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-may-15/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 16, #235](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-16-235/#ftag=CAD590a51e)
- - [The Best Fantasy Movies to Watch on Prime Video Now](https://www.cnet.com/tech/services-and-software/best-fantasy-films-on-prime-video-may-2025/#ftag=CAD590a51e)
- - [Best Internet Providers in Hawaii](https://www.cnet.com/home/internet/best-internet-providers-in-hawaii/#ftag=CAD590a51e)
+ - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
  - [TikTok will show teens guided meditation after 10PM](https://www.theverge.com/news/668051/tiktok-guided-meditation-wind-down-10pm)
- - [Sources: DOJ is conducting a criminal antitrust probe into whether Live Nation and AEG illegally colluded on concert refunds at the start of the COVID pandemic &lpar;Bloomberg&rpar;](http://www.techmeme.com/250515/p40#a250515p40)<!-- TECH:END -->
+ - [Sources: DOJ is conducting a criminal antitrust probe into whether Live Nation and AEG illegally colluded on concert refunds at the start of the COVID pandemic &lpar;Bloomberg&rpar;](http://www.techmeme.com/250515/p40#a250515p40)
+ - [The Middle East Has Entered the AI Group Chat](https://www.wired.com/story/trump-middle-east-artificial-intelligence-investments/)
+ - [Take-Two reports Q4 net bookings up 17% YoY to $1.58B, vs. $1.55B est., net revenue up 13% YoY to $1.58B, and forecasts FY 2026 net bookings below expectations &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250515/p39#a250515p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

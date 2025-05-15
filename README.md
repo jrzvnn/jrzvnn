@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Chinese officials recently told some top local tech companies that the government will be more active in overseeing their AI data centers and AI chips &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/250515/p23#a250515p23)
- - [Roblox rolls out tools to let eligible creators sell physical items from their games via its Commerce APIs, working with Shopify as a first &quot;integrated partner&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250515/p22#a250515p22)
- - [Motorola Razr Ultra and Razr &lpar;2025&rpar; Review: Gorgeous Folding Phones](https://www.wired.com/review/motorola-razr-ultra-and-razr-2025/)
- - [I Tested the Motorola Razr Ultra. It&#39;s Good, but Flipping Expensive](https://www.cnet.com/tech/mobile/i-tested-the-motorola-razr-ultra-its-good-but-flipping-expensive/#ftag=CAD590a51e)
- - [Motorola Razr 2025 Review: It&#39;s Got the Look](https://www.cnet.com/tech/mobile/motorola-razr-2025-review-its-got-the-look/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s iPhone sales in China took a major hit in early 2025](https://appleinsider.com/articles/25/05/15/apples-iphone-sales-in-china-took-a-major-hit-in-early-2025?utm_medium=rss)
+ - [Foxconn gets new factory approval as India courts further Apple expansion](https://appleinsider.com/articles/25/05/15/foxconn-gets-new-factory-approval-as-india-courts-further-apple-expansion?utm_medium=rss)
+ - [Meta&amp;#8217;s smart glasses can now describe what you&amp;#8217;re seeing in more detail](https://www.theverge.com/news/667613/ray-ban-meta-smart-glasses-ai-detailed-responses-call-a-volunteer)
+ - [Xiaomi CEO Lei Jun unveils the XringO1, the company&#39;s first self-developed advanced phone chip, set to launch later in May, without giving any further details &lpar;Reuters&rpar;](http://www.techmeme.com/250515/p25#a250515p25)
+ - [Motorola Razr Ultra review: one of the best smartphone designs, great battery life, and useful outer screen, but useless AI button and durability concerns &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/250515/p24#a250515p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

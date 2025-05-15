@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Who knew transparency could be so invisible?](http://9gag.com/gag/aByGomZ)
  - 😝 [This is awesome... Good job, Netflix!](http://9gag.com/gag/aAy2O62)
- - 😝 [N ice haircut](http://9gag.com/gag/abABQoB)
- - 💣 [Reality check](http://9gag.com/gag/amoMMxv)
- - 😝 [That escalated quickly..](http://9gag.com/gag/abAB26b)
- - 👉 [I see women, I see kids, I see hope, I see love for the country that is giving them shelter. I see REAL refugees](http://9gag.com/gag/aD2VOdB)<!-- MEMES:END -->
+ - 💣 [N ice haircut](http://9gag.com/gag/abABQoB)
+ - 😝 [Reality check](http://9gag.com/gag/amoMMxv)
+ - 👉 [That escalated quickly..](http://9gag.com/gag/abAB26b)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: Shein cut the average cost of 98 tracked products in the US by ~13% to $5.56 from a peak of $6.38 on May 7, and sent a price drop alert to US users &lpar;Bloomberg&rpar;](http://www.techmeme.com/250515/p13#a250515p13)
+ - [9 Best Mattresses for Back Pain, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-mattresses-for-back-pain/)
  - [Documents: Microsoft&#39;s recent layoffs of 6,000 workers hit software engineers in Washington state hardest, making up 40%+ of the ~2,000 positions cut there &lpar;Bloomberg&rpar;](http://www.techmeme.com/250515/p12#a250515p12)
  - [The EU provisionally finds that TikTok breached the DSA by failing to offer a publicly searchable ad library, potentially opening the platform up to a fine &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/250515/p11#a250515p11)
- - [Alibaba reports Q1 revenue up 7% YoY to ~$32.8B, below $33B est., and net income up 200%+ to ~$1.7B due to equity investment gains; BABA drops 5%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/250515/p10#a250515p10)
- - [Apple is placing warnings on EU apps that don’t use App Store payments](https://www.theverge.com/news/667484/apple-eu-ios-app-store-warning-payment-system)
- - [Hacking group DragonForce says it stole UK retailer Co-op&#39;s customer data and planned to deploy ransomware, but Co-op quickly shut down its systems, unlike M&amp;S &lpar;Joe Tidy/BBC&rpar;](http://www.techmeme.com/250515/p9#a250515p9)<!-- TECH:END -->
+ - [Alibaba reports Q1 revenue up 7% YoY to ~$32.8B, below $33B est., and net income up 200%+ to ~$1.7B due to equity investment gains; BABA drops 5%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/250515/p10#a250515p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

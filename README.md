@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Workday&amp;#8217;s new head of product wants you to like Workday as much as he does](https://www.theverge.com/decoder-podcast-with-nilay-patel/667538/workday-gerrit-kazmaier-enterprise-software-ai-interview)
  - [Threads now lets creators add up to five links to their profile bios and rolls out analytics tools to track clicks on profile links and links shared in posts &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250515/p27#a250515p27)
  - [Cheap stuff that doesn’t suck, take 2](https://www.theverge.com/tech/657469/favorites-anker-xiaomi-tile-tools)
  - [America&amp;#8217;s immigration system was a landmine, and Trump set it off](https://www.theverge.com/policy/667369/ras-baraka-arrested-newark-cbp-phone-search-hasan-piker-trump-due-process)
- - [The Best Hearing Aids of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-hearing-aids/)
- - [Threads follows Instagram with more links in bio](https://www.theverge.com/news/667588/threads-multiple-profile-link-sharing-update)<!-- TECH:END -->
+ - [The Best Hearing Aids of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-hearing-aids/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Belgian Court of Appeal rules the Transparency &amp; Consent Framework, used by Google, Microsoft, Amazon, and much of the internet, is illegal across Europe &lpar;Johnny Ryan/Irish Council ...&rpar;](http://www.techmeme.com/250515/p8#a250515p8)
  - [Open letter: SoundCloud CEO Eliah Seton says a 2024 TOS update did not intend to allow AI training on user content; SoundCloud revised the wording on May 14 &lpar;Stuart Dredge/Music Ally&rpar;](http://www.techmeme.com/250515/p7#a250515p7)
  - [Today&#39;s NYT Strands Hints, Answers and Help for May 15, #438](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-15-438/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 15, #234](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-15-234/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for May 15, #1426](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-15-1426/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for May 15, #704](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-15-704/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for May 15, #1426](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-15-1426/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [N ice haircut](http://9gag.com/gag/abABQoB)
  - 😝 [Reality check](http://9gag.com/gag/amoMMxv)
- - 😝 [That escalated quickly..](http://9gag.com/gag/abAB26b)
- - 💣 [When the artist is as hot as the character she draws](http://9gag.com/gag/aoyLnd0)
- - 😝 [Would you be a victim to this?](http://9gag.com/gag/apRbVzb)
- - 👉 [I hope the pasta is handmade.](http://9gag.com/gag/aKGeK43)<!-- MEMES:END -->
+ - 💣 [That escalated quickly..](http://9gag.com/gag/abAB26b)
+ - 😝 [Trying to imptress](http://9gag.com/gag/aD2VOBx)
+ - 👉 [I see women, I see kids, I see hope, I see love for the country that is giving them shelter. I see REAL refugees](http://9gag.com/gag/aD2VOdB)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Decided for a proper dinner while watching a proper movie](http://9gag.com/gag/aGyA7m5)
- - 😝 [1946-2025. Sorry just had to get it off my chest.](http://9gag.com/gag/aYQqmRm)
- - 💣 [Reality check](http://9gag.com/gag/amoMMxv)
- - 😝 [That escalated quickly..](http://9gag.com/gag/abAB26b)
- - 👉 [I see women, I see kids, I see hope, I see love for the country that is giving them shelter. I see REAL refugees](http://9gag.com/gag/aD2VOdB)<!-- MEMES:END -->
+ - 😝 [Reality check](http://9gag.com/gag/amoMMxv)
+ - 💣 [That escalated quickly..](http://9gag.com/gag/abAB26b)
+ - 😝 [I see women, I see kids, I see hope, I see love for the country that is giving them shelter. I see REAL refugees](http://9gag.com/gag/aD2VOdB)
+ - 👉 [When the artist is as hot as the character she draws](http://9gag.com/gag/aoyLnd0)<!-- MEMES:END -->
 
 ---
 

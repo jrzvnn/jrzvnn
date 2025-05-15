@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Decided for a proper dinner while watching a proper movie](http://9gag.com/gag/aGyA7m5)
  - 😝 [N ice haircut](http://9gag.com/gag/abABQoB)
+ - 😝 [Decided for a proper dinner while watching a proper movie](http://9gag.com/gag/aGyA7m5)
  - 💣 [Reality check](http://9gag.com/gag/amoMMxv)
  - 😝 [That escalated quickly..](http://9gag.com/gag/abAB26b)
- - 👉 [Who knew transparency could be so invisible?](http://9gag.com/gag/aByGomZ)<!-- MEMES:END -->
+ - 👉 [I see women, I see kids, I see hope, I see love for the country that is giving them shelter. I see REAL refugees](http://9gag.com/gag/aD2VOdB)<!-- MEMES:END -->
 
 ---
 

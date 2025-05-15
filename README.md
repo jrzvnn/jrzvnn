@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Reality check](http://9gag.com/gag/amoMMxv)
- - 😝 [I see women, I see kids, I see hope, I see love for the country that is giving them shelter. I see REAL refugees](http://9gag.com/gag/aD2VOdB)
- - 💣 [Rethinking Spider-Man&#39;s love life, one meme at a time.](http://9gag.com/gag/amoMng6)
+ - 😝 [Rethinking Spider-Man&#39;s love life, one meme at a time.](http://9gag.com/gag/amoMng6)
+ - 💣 [Make natural selection great again](http://9gag.com/gag/azxRQBb)
  - 😝 [And that he isn&#39;t playing Trump like a fiddle...](http://9gag.com/gag/aVvLBpO)
  - 👉 [When the artist is as hot as the character she draws](http://9gag.com/gag/aoyLnd0)<!-- MEMES:END -->
 

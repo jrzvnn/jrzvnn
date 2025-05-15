@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: under the Trump administration, the SEC continues investigating whether Coinbase misstated its user numbers by reporting 100M+ &quot;verified users&quot; in 2021 &lpar;New York Times&rpar;](http://www.techmeme.com/250515/p32#a250515p32)
+ - [Pinterest says mass account bans were caused by an ‘internal error’](https://www.theverge.com/news/667837/pinterest-response-mass-account-bans-outrage)
  - [New Apple videos spotlight how accessibility features empower everyone](https://appleinsider.com/articles/25/05/15/new-apple-videos-spotlight-how-accessibility-features-empower-everyone?utm_medium=rss)
  - [You can snag a year of Peacock Premium for just $24.99 right now](https://www.theverge.com/tech/667255/peacock-premium-streaming-deal-insta360-x5-action-cam-sale)
- - [The Hottest Topic at This Year&#39;s Pornhub Awards? Censorship](https://www.wired.com/story/uncanny-valley-podcast-hottest-topic-pornhub-awards-censorship/)
- - [YouTube launches a weekly top podcast shows chart, tracking podcasts in the US and updated every Wednesday; The Joe Rogan Experience currently tops the chart &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/250515/p31#a250515p31)
- - [Garmin announces new Forerunner watches with splashy colors and running metrics](https://www.theverge.com/hands-on/667677/garmin-forerunner-970-and-570-specs-price-battery)<!-- TECH:END -->
+ - [The Hottest Topic at This Year&#39;s Pornhub Awards? Censorship](https://www.wired.com/story/uncanny-valley-podcast-hottest-topic-pornhub-awards-censorship/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

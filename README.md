@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Austin Russell, the founder and CEO of lidar manufacturer Luminar, resigns following an ethics inquiry and is replaced by former Nuance CEO Paul Ricci &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/250514/p51#a250514p51)
+ - [Samaya AI, which is building AI models to assist financial analysts, raised a $43.5M Series A led by NEA, with participation from Eric Schmidt and others &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/250514/p50#a250514p50)
+ - [CoreWeave plans to spend $20B to $23B in 2025 on AI infrastructure and data center capacity to meet demand, including from Microsoft; CRWV drops 7%+ after hours &lpar;Reuters&rpar;](http://www.techmeme.com/250514/p49#a250514p49)
  - [Uber and delivery service iFood partner to integrate their services into each others&#39; apps in Brazil; Uber ended its Uber Eats service in Brazil in March 2022 &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250514/p48#a250514p48)
- - [Best Bird Feeders With Cameras, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-smart-bird-feeders/)
- - [EA is bringing employees back to the office three days per week](https://www.theverge.com/news/667441/ea-return-to-office-work-hybrid)
- - [SpaceX Tests Starship Fixes After Back-to-Back Failures](https://www.wired.com/story/spacex-tests-starship-fixes-after-back-to-back-failures/)
- - [&#39;Price is Right&#39; contestants nowhere close to Apple Vision Pro&#39;s astronomical price](https://appleinsider.com/articles/25/05/14/price-is-right-contestants-nowhere-close-to-apple-vision-pros-astronomical-price?utm_medium=rss)<!-- TECH:END -->
+ - [Marvel Rivals&#39; Galacta&#39;s Gift Event Makes Ranking Up Even Easier](https://www.cnet.com/tech/gaming/marvel-rivals-galactas-gift-event-makes-ranking-up-even-easier/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

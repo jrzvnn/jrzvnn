@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That escalated quickly..](http://9gag.com/gag/abAB26b)
  - 😝 [Rethinking Spider-Man&#39;s love life, one meme at a time.](http://9gag.com/gag/amoMng6)
+ - 😝 [Not today](http://9gag.com/gag/avyRm3E)
  - 💣 [Make natural selection great again](http://9gag.com/gag/azxRQBb)
  - 😝 [And that he isn&#39;t playing Trump like a fiddle...](http://9gag.com/gag/aVvLBpO)
  - 👉 [When the artist is as hot as the character she draws](http://9gag.com/gag/aoyLnd0)<!-- MEMES:END -->

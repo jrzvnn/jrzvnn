@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CarPlay Ultra&#39;s first trial reveals a deeply integrated, Apple-like experience](https://appleinsider.com/articles/25/05/15/carplay-ultras-first-trial-reveals-a-deeply-integrated-apple-like-experience?utm_medium=rss)
+ - [Netflix will use AI to make ad breaks look less like ad breaks](https://www.theverge.com/news/667775/netflix-ai-ad-breaks-upfront-2025)
  - [Filing: CoreWeave secures a deal worth ~$4B to provide cloud computing capacity to OpenAI through 2029, in addition to a $12B deal announced before its IPO &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/250515/p28#a250515p28)
  - [Workday&amp;#8217;s new head of product wants you to like Workday as much as he does](https://www.theverge.com/decoder-podcast-with-nilay-patel/667538/workday-gerrit-kazmaier-enterprise-software-ai-interview)
- - [Threads now lets creators add up to five links to their profile bios and rolls out analytics tools to track clicks on profile links and links shared in posts &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250515/p27#a250515p27)
- - [Cheap stuff that doesn’t suck, take 2](https://www.theverge.com/tech/657469/favorites-anker-xiaomi-tile-tools)
- - [America&amp;#8217;s immigration system was a landmine, and Trump set it off](https://www.theverge.com/policy/667369/ras-baraka-arrested-newark-cbp-phone-search-hasan-piker-trump-due-process)<!-- TECH:END -->
+ - [Threads now lets creators add up to five links to their profile bios and rolls out analytics tools to track clicks on profile links and links shared in posts &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250515/p27#a250515p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

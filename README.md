@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft shuts off Bing Search APIs and recommends switching to AI](https://www.theverge.com/news/667517/microsoft-bing-search-api-end-of-support-ai-replacement)
- - [How the US conducted a monthslong campaign to push Gambia and at least four other developing nations to give Starlink licenses; diplomats call the move alarming &lpar;ProPublica&rpar;](http://www.techmeme.com/250515/p20#a250515p20)
- - [&#39;Nonnas&#39; Have Entered the Group Chat -- and Netflix&#39;s Top 10](https://www.cnet.com/tech/services-and-software/nonnas-have-entered-the-group-chat-and-netflixs-top-10/#ftag=CAD590a51e)
- - [39 of the Best Movies on Netflix You Should Stream Right Now](https://www.cnet.com/tech/services-and-software/best-movies-on-netflix/#ftag=CAD590a51e)
- - [Apple CarPlay 2 Finally Lands As ‘CarPlay Ultra’—But Aston Martin Gets It First](https://www.wired.com/story/apple-carplay-2-finally-lands-as-carplay-ultra-but-aston-martin-gets-it-first/)<!-- TECH:END -->
+ - [Motorola Razr Ultra &lpar;2025&rpar; review: looking sharp](https://www.theverge.com/reviews/667277/motorola-razr-ultra-2025-review-battery-screen)
+ - [Roblox creators will be able to sell merch in-game](https://www.theverge.com/news/667470/roblox-creators-physical-merch-in-game-shopify-amp)
+ - [New Apple Music migration tool helps users shift away from Spotify](https://appleinsider.com/articles/25/05/15/new-apple-music-migration-tool-helps-users-shift-away-from-spotify?utm_medium=rss)
+ - [Apple tests EU by adding scare screens to apps using third-party payments](https://appleinsider.com/articles/25/05/15/apple-tests-eu-by-adding-scare-screens-to-apps-using-third-party-payments?utm_medium=rss)
+ - [Apple&#39;s next-generation &#39;CarPlay Ultra&#39; is finally here](https://appleinsider.com/articles/25/05/15/apples-next-generation-carplay-ultra-is-finally-here?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

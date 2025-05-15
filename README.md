@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Akido Labs, which makes AI assistants for doctors to improve patient treatment efficiency, raised a $60M Series B led by Oak HC/FT &lpar;Madeline Renbarger/Newcomer&rpar;](http://www.techmeme.com/250515/p30#a250515p30)
  - [You can see right through Audio-Technica’s new transparent turntable](https://www.theverge.com/news/667793/audio-technica-vinyl-turntable-at-lpa2-record-player)
  - [Cognichip, which is building a physics-informed foundational AI model to develop new chips, emerges from stealth with a $33M seed led by Lux and Mayfield &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250515/p29#a250515p29)
  - [Walmart’s CFO says higher prices are probably coming this month](https://www.theverge.com/news/667809/walmart-trump-tariffs-higher-prices)
- - [Sony WH-1000XM6 Review: The Best Noise-Canceling Headphones](https://www.wired.com/review/sony-wh-1000xm6/)
- - [Sony WH-1000XM6 Review: Hail to the New Noise-Canceling King](https://www.cnet.com/tech/mobile/sony-wh-1000xm6-review-hail-to-the-new-noise-canceling-king/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sony WH-1000XM6 Review: The Best Noise-Canceling Headphones](https://www.wired.com/review/sony-wh-1000xm6/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

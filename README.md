@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: hackers bribed enough Coinbase customer service representatives to achieve effectively on-demand access to Coinbase customer information since January &lpar;Bloomberg&rpar;](http://www.techmeme.com/250515/p36#a250515p36)
  - [Sources: Meta has delayed the rollout of its Behemoth LLM, internally slated for an April release, to fall or later after struggling to improve its capabilities &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250515/p35#a250515p35)
  - [The 35 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/best-movies-hbo-max-right-now/)
  - [Sources: Cohere, which has raised $1B+, was on pace to generate just $70M in revenue annually as of February 2025, after projecting ~$450M in revenue in 2024 &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/250515/p34#a250515p34)
- - [YouTube now has a podcast chart, and Joe Rogan is on top](https://www.theverge.com/news/667905/youtube-weekly-podcast-chart-joe-rogan)
- - [AirPods Pro 3 are in the works, Apple&#39;s own software leaks](https://appleinsider.com/articles/25/05/15/airpods-pro-3-are-in-the-works-apples-own-software-leaks?utm_medium=rss)<!-- TECH:END -->
+ - [Best Internet Providers in Colorado Springs, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-colorado-springs-co/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [President Trump says he told Tim Cook that &quot;I don&#39;t want you building in India&quot;, &quot;India can take care of themselves&quot;, and Apple will be &quot;upping&quot; US production &lpar;Bloomberg&rpar;](http://www.techmeme.com/250515/p5#a250515p5)
- - [YouTube previews new ad formats coming to the platform, including an enhanced shoppable connected TV offering with a new interactive product feed &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250515/p4#a250515p4)
- - [Leica can now style your iPhone photos to mimic a pro photographer](https://www.theverge.com/news/667379/leica-lux-iphone-camera-app-pro-photographer-filters-greg-williams)
- - [This modern cassette boombox will lure you in with glowing VU meters](https://www.theverge.com/news/667309/we-are-rewind-cassette-boombox-retro-gb-001)
- - [How Mayo Clinic is using AI to boost efficiency and amplify human abilities in its radiology department, which has an AI team of 40 people and 400+ radiologists &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/250515/p3#a250515p3)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for May 15, #438](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-15-438/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 15, #234](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-15-234/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for May 15, #1426](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-15-1426/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for May 15, #704](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-15-704/#ftag=CAD590a51e)
+ - [YouTube announces Peak Points, a pilot Gemini AI feature that lets advertisers target ads to viewers when they are most engaged with a video &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/250515/p6#a250515p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

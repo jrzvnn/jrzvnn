@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 13 Best TVs We’ve Reviewed, Plus Buying Advice &lpar;2025&rpar;](https://www.wired.com/gallery/best-tvs/)
- - [Apple&#39;s next-generation &#39;CarPlay Ultra&#39; is finally here](https://appleinsider.com/articles/25/05/15/apples-next-generation-carplay-ultra-is-finally-here?utm_medium=rss)
- - [Pathos AI, which uses AI to develop oncology drugs, raised a $365M Series D at a $1.6B valuation, bringing its total funding to $467M, per PitchBook &lpar;Katherine Davis/Axios&rpar;](http://www.techmeme.com/250515/p26#a250515p26)
- - [Trump wants Apple to stop making more iPhones in India](https://www.theverge.com/news/667649/donald-trump-apple-stop-producing-iphones-india)
- - [Warner Bros. Discovery is launching a cinematic universe for brand deals](https://www.theverge.com/news/667562/wbd-storyverse-the-matrix-friends-harry-potter)<!-- TECH:END -->
+ - [Threads now lets creators add up to five links to their profile bios and rolls out analytics tools to track clicks on profile links and links shared in posts &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250515/p27#a250515p27)
+ - [Cheap stuff that doesn’t suck, take 2](https://www.theverge.com/tech/657469/favorites-anker-xiaomi-tile-tools)
+ - [America&amp;#8217;s immigration system was a landmine, and Trump set it off](https://www.theverge.com/policy/667369/ras-baraka-arrested-newark-cbp-phone-search-hasan-piker-trump-due-process)
+ - [The Best Hearing Aids of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-hearing-aids/)
+ - [Threads follows Instagram with more links in bio](https://www.theverge.com/news/667588/threads-multiple-profile-link-sharing-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

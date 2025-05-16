@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Japan enacts the Active Cyberdefense Law, which permits the country&#39;s authorities to preemptively engage with adversaries through offensive cyber operations &lpar;Alexander Martin/The Record&rpar;](http://www.techmeme.com/250516/p13#a250516p13)
- - [Fortnite players can speak with Darth Vader through a James Earl Jones-voiced AI](https://www.theverge.com/news/668349/fortnite-star-wars-james-earl-jones-vader-ai-voice)
- - [Anker Prime Thunderbolt 5 Dock Review: 14 ports and future-proofing for power users at a price](https://appleinsider.com/articles/25/05/16/anker-prime-thunderbolt-5-dock-review-14-ports-and-future-proofing-for-power-users-at-a-price?utm_medium=rss)
- - [The Best Motorola Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-motorola-phones/)
- - [WWDC macOS 16 wishlist: What we&#39;d like to see Apple add for power users](https://appleinsider.com/articles/25/05/16/wwdc-macos-16-wishlist-what-wed-like-to-see-apple-add-for-power-users?utm_medium=rss)<!-- TECH:END -->
+ - [Killer deals: Grab a MacBook Air with 24GB RAM for just $1,087](https://appleinsider.com/articles/25/05/15/killer-deals-grab-a-macbook-air-with-24gb-ram-for-just-1087?utm_medium=rss)
+ - [OpenAI rolls out Codex, an AI coding agent powered by codex-1, a version of o3 optimized for software engineering, for ChatGPT Pro, Enterprise, and Team users &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250516/p14#a250516p14)
+ - [ChatGPT is getting an AI coding agent](https://www.theverge.com/command-line-newsletter/668251/chatgpt-is-getting-an-ai-coding-agent)
+ - [OpenAI Launches an Agentic, Web-Based Vibe-Coding Tool](https://www.wired.com/story/openai-launches-an-agentic-web-based-coding-tool/)
+ - [The Best Gifts for Book Lovers &lpar;2025&rpar;](https://www.wired.com/story/gifts-for-book-lovers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Fortnite&#39; Players Are Already Making AI Darth Vader Swear](https://www.wired.com/story/fortnite-darth-vader-slurs-swears-generative-ai/)
  - [Epic’s Mega sale has big discounts on games like GTA V, Red Dead Redemption, and Cyberpunk 2077](https://www.theverge.com/news/668798/epic-games-mega-sale-gta-v-cyberpunk-2077)
  - [REI’s anniversary sale is dropping prices on Garmin watches and other great gear](https://www.theverge.com/tech/668088/rei-anniversary-sale-2025-garmin-watch-inreach-stoves-water-filters-deal-sale)
  - [Sources: OpenAI is expected to be a primary anchor tenant for a 5 gigawatt UAE data center, which could become one of the world&#39;s largest at 10 square miles &lpar;Bloomberg&rpar;](http://www.techmeme.com/250516/p23#a250516p23)
- - [Microsoft&amp;#8217;s Command Palette is a powerful launcher for apps, search, and more](https://www.theverge.com/news/668719/microsoft-command-palette-powertoy-launcher)
- - [Apple Pay and Apple Cash experienced an outage on Friday](https://appleinsider.com/articles/25/05/16/apple-pay-and-apple-cash-experienced-an-outage-on-friday?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft&amp;#8217;s Command Palette is a powerful launcher for apps, search, and more](https://www.theverge.com/news/668719/microsoft-command-palette-powertoy-launcher)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic Games says Apple has blocked &#39;Fortnite&#39; from the App Store worldwide](https://appleinsider.com/articles/25/05/16/epic-games-says-apple-has-blocked-fortnite-from-the-app-store-worldwide?utm_medium=rss)
  - [Christopher Nolan’s Odyssey will be the first movie shot entirely on IMAX film](https://www.theverge.com/news/668287/christopher-nolan-odyssey-imax-film-100-percent)
  - [Charter announces plans to merge with Cox Communications in a deal that values Cox at $34.5B including debt and unites two of the biggest US cable providers &lpar;Reuters&rpar;](http://www.techmeme.com/250516/p9#a250516p9)
  - [Sources: ByteDance expects 2025 revenue to grow 20% YoY to $186B vs. 29% growth in 2024, driven by TikTok&#39;s global expansion; ByteDance has 4B MAUs across apps &lpar;Bloomberg&rpar;](http://www.techmeme.com/250516/p8#a250516p8)
- - [The Best Ergonomic Mouse &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-ergonomic-mouse/)
- - [Wooting’s 60HE v2 upgrades the best gaming keyboard with improved speed and sound](https://www.theverge.com/news/668234/wooting-60he-v2-keyboard-announcement-release-date)<!-- TECH:END -->
+ - [The Best Ergonomic Mouse &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-ergonomic-mouse/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

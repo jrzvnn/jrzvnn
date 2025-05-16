@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Big void](http://9gag.com/gag/a2v29YO)
  - 😝 [`Prepare for trouble and make it double` colorized](http://9gag.com/gag/a872Q1p)
- - 💣 [I&#39;m not gay but this is noice](http://9gag.com/gag/abABKnr)
+ - 😝 [Not today](http://9gag.com/gag/avyRm3E)
+ - 💣 [Make natural selection great again](http://9gag.com/gag/azxRQBb)
  - 😝 [OCD Gamers unite! \ud83c\udfae\ud83e\uddd1\ud83c\udffd\ud83c\udfa8](http://9gag.com/gag/a2v29Vd)
- - 👉 [Not today](http://9gag.com/gag/avyRm3E)<!-- MEMES:END -->
+ - 👉 [Lmao](http://9gag.com/gag/adBebZQ)<!-- MEMES:END -->
 
 ---
 

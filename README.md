@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Decided for a proper dinner while watching a proper movie](http://9gag.com/gag/aGyA7m5)
  - 😝 [This is not a joke.](http://9gag.com/gag/a1m2OGv)
- - 😝 [Retail logic: You&#39;re holding the bag, not me](http://9gag.com/gag/a6Z28mN)
- - 💣 [Rethinking Spider-Man&#39;s love life, one meme at a time.](http://9gag.com/gag/amoMng6)
+ - 💣 [Retail logic: You&#39;re holding the bag, not me](http://9gag.com/gag/a6Z28mN)
  - 😝 [OCD Gamers unite! \ud83c\udfae\ud83e\uddd1\ud83c\udffd\ud83c\udfa8](http://9gag.com/gag/a2v29Vd)
- - 👉 [And that he isn&#39;t playing Trump like a fiddle...](http://9gag.com/gag/aVvLBpO)<!-- MEMES:END -->
+ - 👉 [Rethinking Spider-Man&#39;s love life, one meme at a time.](http://9gag.com/gag/amoMng6)<!-- MEMES:END -->
 
 ---
 

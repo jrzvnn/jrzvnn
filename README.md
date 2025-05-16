@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [xAI publishes system prompts for Grok on GitHub, including telling Grok to be &quot;extremely skeptical&quot; and not to &quot;blindly defer to mainstream authority or media&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250516/p18#a250516p18)
- - [Best Cheap Vacuums for 2025: Our Best Lab-Tested Performers for Less Than $300](https://www.cnet.com/home/kitchen-and-household/best-cheap-vacuums/#ftag=CAD590a51e)
- - [Best Squat Racks of 2025](https://www.cnet.com/health/fitness/best-squat-racks/#ftag=CAD590a51e)
- - [The Trump Memecoin Dinner Winners Are Getting Rid of Their Coins](https://www.wired.com/story/the-trump-memecoin-dinner-winners-are-getting-rid-of-their-coins/)
- - [Klarna CEO says its AI agent now handles two-thirds of customer service chats, an equivalent of 800 jobs, but Klarna is hiring workers for higher-end chats &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/250516/p17#a250516p17)<!-- TECH:END -->
+ - [The State Department reportedly pressured African countries to adopt Elon Musk’s Starlink](https://www.theverge.com/politics/668079/the-state-department-reportedly-pressured-african-countries-to-adopt-elon-musks-starlink)
+ - [The FCC approves Verizon&#39;s $9.6B acquisition of Frontier Communications after Verizon agreed to pare back what Brendan Carr called &quot;invidious&quot; DEI practices &lpar;Kelcee Griffis/Bloomberg&rpar;](http://www.techmeme.com/250516/p21#a250516p21)
+ - [There are no good billionaires in new trailer for HBO’s Mountainhead movie](https://www.theverge.com/film/668526/mountainhead-trailer-hbo-premiere-date)
+ - [Apple denies removing Fortnite from alternative marketplaces in the EU and says it asked Epic Sweden to resubmit the app update excluding the US App Store &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250516/p20#a250516p20)
+ - [Anthropic received a $2.5B, five-year revolving credit line, and says annualized revenue reached $2B in Q1 2025, up from $1B in Q1 2024 &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250516/p19#a250516p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

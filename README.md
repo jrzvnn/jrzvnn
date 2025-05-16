@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [xAI publishes system prompts for Grok on GitHub, including telling Grok to be &quot;extremely skeptical&quot; and not to &quot;blindly defer to mainstream authority or media&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250516/p18#a250516p18)
+ - [Best Cheap Vacuums for 2025: Our Best Lab-Tested Performers for Less Than $300](https://www.cnet.com/home/kitchen-and-household/best-cheap-vacuums/#ftag=CAD590a51e)
+ - [Best Squat Racks of 2025](https://www.cnet.com/health/fitness/best-squat-racks/#ftag=CAD590a51e)
  - [The Trump Memecoin Dinner Winners Are Getting Rid of Their Coins](https://www.wired.com/story/the-trump-memecoin-dinner-winners-are-getting-rid-of-their-coins/)
- - [Klarna CEO says its AI agent now handles two-thirds of customer service chats, an equivalent of 800 jobs, but Klarna is hiring workers for higher-end chats &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/250516/p17#a250516p17)
- - [Trump is too busy for his own tariff negotiations, so will dictate terms instead](https://appleinsider.com/articles/25/05/16/trump-is-too-busy-for-his-own-tariff-negotiations-so-will-dictate-terms-instead?utm_medium=rss)
- - [xAI posts Grok&amp;#8217;s behind-the-scenes prompts](https://www.theverge.com/news/668527/xai-grok-system-prompts-ai)
- - [Spotify is sorry that it revealed how many people listen to your podcast](https://www.theverge.com/news/668434/spotify-podcast-plays-public-podcasters-update)<!-- TECH:END -->
+ - [Klarna CEO says its AI agent now handles two-thirds of customer service chats, an equivalent of 800 jobs, but Klarna is hiring workers for higher-end chats &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/250516/p17#a250516p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

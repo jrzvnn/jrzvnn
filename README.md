@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HBO&amp;#8217;s no good very bad rebrand](https://www.theverge.com/the-vergecast/668368/hbo-max-rebrand-carplay-ultra-vergecast)
  - [Charter and Cox to combine businesses in $34.5 billion megamerger](https://www.theverge.com/news/668365/charter-cox-megamerger-deal-34-billion)
  - [Apple Music’s new transfer tool simplifies switching from other streaming services](https://www.theverge.com/news/668369/apple-music-transfer-tool-library-playlists)
  - [iPhone 20, CarPlay Ultra, and new Accessibility on the AppleInsider Podcast](https://appleinsider.com/articles/25/05/16/iphone-20-carplay-ultra-and-new-accessibility-on-the-appleinsider-podcast?utm_medium=rss)
- - [Does Your City Use Chlorine or Chloramine to Treat Its Water?](https://www.wired.com/story/does-your-city-use-chlorine-or-chloramine-to-treat-its-water/)
- - [I let lasers power my smart home — and I don’t want to go back](https://www.theverge.com/tech/663899/wi-charge-alfred-smart-lock-wireless-power-review)<!-- TECH:END -->
+ - [Does Your City Use Chlorine or Chloramine to Treat Its Water?](https://www.wired.com/story/does-your-city-use-chlorine-or-chloramine-to-treat-its-water/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When free candy is the ultimate motivator](http://9gag.com/gag/ajPZyqQ)
- - 😝 [Close enough ditto](http://9gag.com/gag/azxRQwp)
- - 💣 [My man had that Reverse card on him](http://9gag.com/gag/aND438r)
+ - 😝 [Big void](http://9gag.com/gag/a2v29YO)
+ - 😝 [`Prepare for trouble and make it double` colorized](http://9gag.com/gag/a872Q1p)
+ - 💣 [I&#39;m not gay but this is noice](http://9gag.com/gag/abABKnr)
  - 😝 [OCD Gamers unite! \ud83c\udfae\ud83e\uddd1\ud83c\udffd\ud83c\udfa8](http://9gag.com/gag/a2v29Vd)
- - 👉 [Lights out](http://9gag.com/gag/a7o2AAw)<!-- MEMES:END -->
+ - 👉 [Not today](http://9gag.com/gag/avyRm3E)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shark CryoGlow Review: Chill Out](https://www.wired.com/review/shark-cryoglow/)
- - [Anthropic blames Claude AI for ‘embarrassing and unintentional mistake’ in legal filing](https://www.theverge.com/news/668315/anthropic-claude-legal-filing-citation-error)
- - [AirPods Max vs Sony XM6 - Over-ear headphones shootout](https://appleinsider.com/inside/airpods-max/vs/airpods-max-vs-sony-xm6---over-ear-headphones-shootout?utm_medium=rss)
- - [Analysis: since January, 36+ staff and associates of Elon Musk, Peter Thiel, Marc Andreessen, and Palmer Luckey got federal roles that oversee their companies &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250516/p10#a250516p10)
- - [Inside Apple Notes - everything you need to stay focused &amp; flexible](https://appleinsider.com/inside/ios-18/tips/inside-apple-notes---everything-you-need-to-stay-focused-flexible?utm_medium=rss)<!-- TECH:END -->
+ - [Does Your City Use Chlorine or Chloramine to Treat Its Water?](https://www.wired.com/story/does-your-city-use-chlorine-or-chloramine-to-treat-its-water/)
+ - [I let lasers power my smart home — and I don’t want to go back](https://www.theverge.com/tech/663899/wi-charge-alfred-smart-lock-wireless-power-review)
+ - [Acer&amp;#8217;s Swift Edge laptop is gunning for the MacBook Air](https://www.theverge.com/news/668200/acers-swift-edge-laptop-is-gunning-for-the-macbook-air)
+ - [Microsoft says reviews found no evidence its tech was used by the Israeli military to harm civilians in Gaza, following months of protests by Microsoft staffers &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250516/p11#a250516p11)
+ - [Shark CryoGlow Review: Chill Out](https://www.wired.com/review/shark-cryoglow/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

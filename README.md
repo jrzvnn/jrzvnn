@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An Alabama man is sentenced to 14 months in prison for hacking SEC&#39;s X account in 2024 and posting a false announcement that the SEC had approved bitcoin ETFs &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/250516/p24#a250516p24)
  - [&#39;Fortnite&#39; Players Are Already Making AI Darth Vader Swear](https://www.wired.com/story/fortnite-darth-vader-slurs-swears-generative-ai/)
  - [Epic’s Mega sale has big discounts on games like GTA V, Red Dead Redemption, and Cyberpunk 2077](https://www.theverge.com/news/668798/epic-games-mega-sale-gta-v-cyberpunk-2077)
- - [REI’s anniversary sale is dropping prices on Garmin watches and other great gear](https://www.theverge.com/tech/668088/rei-anniversary-sale-2025-garmin-watch-inreach-stoves-water-filters-deal-sale)
- - [Sources: OpenAI is expected to be a primary anchor tenant for a 5 gigawatt UAE data center, which could become one of the world&#39;s largest at 10 square miles &lpar;Bloomberg&rpar;](http://www.techmeme.com/250516/p23#a250516p23)
- - [Microsoft&amp;#8217;s Command Palette is a powerful launcher for apps, search, and more](https://www.theverge.com/news/668719/microsoft-command-palette-powertoy-launcher)<!-- TECH:END -->
+ - [REI’s anniversary sale is dropping prices on Garmins and other great outdoor gear](https://www.theverge.com/tech/668088/rei-anniversary-sale-2025-garmin-watch-inreach-stoves-water-filters-deal-sale)
+ - [Sources: OpenAI is expected to be a primary anchor tenant for a 5 gigawatt UAE data center, which could become one of the world&#39;s largest at 10 square miles &lpar;Bloomberg&rpar;](http://www.techmeme.com/250516/p23#a250516p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

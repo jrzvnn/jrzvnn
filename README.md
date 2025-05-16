@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bungie caught stealing artwork again](https://www.theverge.com/news/668449/bungie-marathon-art-plagiarism-ps5)
+ - [Nvidia says it won&#39;t send GPU designs to China to be modified to comply with export controls, after a report said it is planning a research center in Shanghai &lpar;CNBC&rpar;](http://www.techmeme.com/250516/p15#a250516p15)
+ - [Japan moves closer to requiring third-party app stores](https://appleinsider.com/articles/25/05/16/japan-moves-closer-to-requiring-third-party-app-stores?utm_medium=rss)
  - [Killer deals: Grab a MacBook Air with 24GB RAM for just $1,087](https://appleinsider.com/articles/25/05/15/killer-deals-grab-a-macbook-air-with-24gb-ram-for-just-1087?utm_medium=rss)
- - [OpenAI rolls out Codex, an AI coding agent powered by codex-1, a version of o3 optimized for software engineering, for ChatGPT Pro, Enterprise, and Team users &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250516/p14#a250516p14)
- - [ChatGPT is getting an AI coding agent](https://www.theverge.com/command-line-newsletter/668251/chatgpt-is-getting-an-ai-coding-agent)
- - [OpenAI Launches an Agentic, Web-Based Vibe-Coding Tool](https://www.wired.com/story/openai-launches-an-agentic-web-based-coding-tool/)
- - [The Best Gifts for Book Lovers &lpar;2025&rpar;](https://www.wired.com/story/gifts-for-book-lovers/)<!-- TECH:END -->
+ - [We Hand-Picked the 24 Best Deals from the 2025 REI Anniversary Sale](https://www.wired.com/story/rei-anniversary-sale-may-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

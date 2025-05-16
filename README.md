@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [10 Best Android Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
+ - [The 11 Best Mattress Toppers We’ve Slept On &lpar;2025&rpar;](https://www.wired.com/gallery/best-mattress-toppers/)
+ - [Epic Games says Fortnite on iOS will be offline worldwide &quot;until Apple unblocks it&quot; after Apple rejected its latest submission to the US App Store &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250516/p6#a250516p6)
  - [Apple blocks Fortnite&amp;#8217;s App Store return as downloads fail in Europe](https://www.theverge.com/news/668232/fortnite-ios-unavailable-worldwide-apple-epic)
- - [Apple tests EU by adding scare screens to apps using third-party payments [u]](https://appleinsider.com/articles/25/05/15/apple-tests-eu-by-adding-scare-screens-to-apps-using-third-party-payments?utm_medium=rss)
- - [Taiwanese silicon wafer maker GlobalWafers Chair Doris Hsu announces $4B additional investment in the US, more than doubling its earlier pledge to reach $7.5B &lpar;Kimberley Kao/Wall Street Journal&rpar;](http://www.techmeme.com/250516/p5#a250516p5)
- - [US immigration attorneys: since January 2025, USCIS has significantly increased requests for evidence on tech-related visa petitions, including H-1B and O-1 &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250516/p4#a250516p4)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 16, #235](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-16-235/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How You Can Bring the Volume Bar Back to Your iPhone&#39;s Lock Screen](https://www.cnet.com/tech/services-and-software/heres-how-you-can-bring-the-volume-bar-back-to-your-iphones-lock-screen/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

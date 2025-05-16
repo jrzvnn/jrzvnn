@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Prepare for trouble and make it double` colorized](http://9gag.com/gag/a872Q1p)
- - 😝 [Not today](http://9gag.com/gag/avyRm3E)
- - 💣 [Make natural selection great again](http://9gag.com/gag/azxRQBb)
+ - 😝 [Baad life choices](http://9gag.com/gag/azxRowB)
+ - 😝 [Big void](http://9gag.com/gag/a2v29YO)
+ - 💣 [Dog blesses you](http://9gag.com/gag/a0e1zgQ)
  - 😝 [OCD Gamers unite! \ud83c\udfae\ud83e\uddd1\ud83c\udffd\ud83c\udfa8](http://9gag.com/gag/a2v29Vd)
- - 👉 [Lmao](http://9gag.com/gag/adBebZQ)<!-- MEMES:END -->
+ - 👉 [Who knew transparency could be so invisible?](http://9gag.com/gag/aByGomZ)<!-- MEMES:END -->
 
 ---
 

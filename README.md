@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [No, Graduates: AI Hasn&#39;t Ended Your Career Before It Starts](https://www.wired.com/story/plaintext-commencement-speech-artificial-intelligence/)
+ - [Capcom goes for deep cuts with latest fighting game collection](https://www.theverge.com/games-review/667921/capcom-fighting-collection-2-review-xbox-switch-steam-ps4)
+ - [Q&amp;A with Wired&#39;s Steven Levy on the evolving relationship between the tech industry and the press, media outlets&#39; licensing deals with AI companies, and more &lpar;Camille Bromley/Columbia Journalism ...&rpar;](http://www.techmeme.com/250516/p12#a250516p12)
  - [HBO&amp;#8217;s no good very bad rebrand](https://www.theverge.com/the-vergecast/668368/hbo-max-rebrand-carplay-ultra-vergecast)
- - [Charter and Cox to combine businesses in $34.5 billion megamerger](https://www.theverge.com/news/668365/charter-cox-megamerger-deal-34-billion)
- - [Apple Music’s new transfer tool simplifies switching from other streaming services](https://www.theverge.com/news/668369/apple-music-transfer-tool-library-playlists)
- - [iPhone 20, CarPlay Ultra, and new Accessibility on the AppleInsider Podcast](https://appleinsider.com/articles/25/05/16/iphone-20-carplay-ultra-and-new-accessibility-on-the-appleinsider-podcast?utm_medium=rss)
- - [Does Your City Use Chlorine or Chloramine to Treat Its Water?](https://www.wired.com/story/does-your-city-use-chlorine-or-chloramine-to-treat-its-water/)<!-- TECH:END -->
+ - [Charter and Cox to combine businesses in $34.5 billion megamerger](https://www.theverge.com/news/668365/charter-cox-megamerger-deal-34-billion)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

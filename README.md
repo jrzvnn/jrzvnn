@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Trump Memecoin Dinner Winners Are Getting Rid of Their Coins](https://www.wired.com/story/the-trump-memecoin-dinner-winners-are-getting-rid-of-their-coins/)
+ - [Klarna CEO says its AI agent now handles two-thirds of customer service chats, an equivalent of 800 jobs, but Klarna is hiring workers for higher-end chats &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/250516/p17#a250516p17)
  - [Trump is too busy for his own tariff negotiations, so will dictate terms instead](https://appleinsider.com/articles/25/05/16/trump-is-too-busy-for-his-own-tariff-negotiations-so-will-dictate-terms-instead?utm_medium=rss)
  - [xAI posts Grok&amp;#8217;s behind-the-scenes prompts](https://www.theverge.com/news/668527/xai-grok-system-prompts-ai)
- - [Spotify is sorry that it revealed how many people listen to your podcast](https://www.theverge.com/news/668434/spotify-podcast-plays-public-podcasters-update)
- - [iPhone 17 Air may debut advanced silicon battery for more efficient charging](https://appleinsider.com/articles/25/05/16/iphone-17-air-may-debut-advanced-silicon-battery-for-more-efficient-charging?utm_medium=rss)
- - [Best Internet Providers in Seattle, Washington](https://www.cnet.com/home/internet/best-internet-providers-in-seattle-wa/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Spotify is sorry that it revealed how many people listen to your podcast](https://www.theverge.com/news/668434/spotify-podcast-plays-public-podcasters-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

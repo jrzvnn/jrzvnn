@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My man had that Reverse card on him](http://9gag.com/gag/aND438r)
- - 😝 [Roger roger](http://9gag.com/gag/apRbVyW)
- - 💣 [Lights out](http://9gag.com/gag/a7o2AAw)
+ - 😝 [When free candy is the ultimate motivator](http://9gag.com/gag/ajPZyqQ)
+ - 😝 [Close enough ditto](http://9gag.com/gag/azxRQwp)
+ - 💣 [My man had that Reverse card on him](http://9gag.com/gag/aND438r)
  - 😝 [OCD Gamers unite! \ud83c\udfae\ud83e\uddd1\ud83c\udffd\ud83c\udfa8](http://9gag.com/gag/a2v29Vd)
- - 👉 [Retail logic: You&#39;re holding the bag, not me](http://9gag.com/gag/a6Z28mN)<!-- MEMES:END -->
+ - 👉 [Lights out](http://9gag.com/gag/a7o2AAw)<!-- MEMES:END -->
 
 ---
 

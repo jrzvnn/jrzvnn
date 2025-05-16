@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic Games says Apple has blocked &#39;Fortnite&#39; from the App Store worldwide](https://appleinsider.com/articles/25/05/16/epic-games-says-apple-has-blocked-fortnite-from-the-app-store-worldwide?utm_medium=rss)
- - [Christopher Nolan’s Odyssey will be the first movie shot entirely on IMAX film](https://www.theverge.com/news/668287/christopher-nolan-odyssey-imax-film-100-percent)
- - [Charter announces plans to merge with Cox Communications in a deal that values Cox at $34.5B including debt and unites two of the biggest US cable providers &lpar;Reuters&rpar;](http://www.techmeme.com/250516/p9#a250516p9)
- - [Sources: ByteDance expects 2025 revenue to grow 20% YoY to $186B vs. 29% growth in 2024, driven by TikTok&#39;s global expansion; ByteDance has 4B MAUs across apps &lpar;Bloomberg&rpar;](http://www.techmeme.com/250516/p8#a250516p8)
- - [The Best Ergonomic Mouse &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-ergonomic-mouse/)<!-- TECH:END -->
+ - [Shark CryoGlow Review: Chill Out](https://www.wired.com/review/shark-cryoglow/)
+ - [Anthropic blames Claude AI for ‘embarrassing and unintentional mistake’ in legal filing](https://www.theverge.com/news/668315/anthropic-claude-legal-filing-citation-error)
+ - [AirPods Max vs Sony XM6 - Over-ear headphones shootout](https://appleinsider.com/inside/airpods-max/vs/airpods-max-vs-sony-xm6---over-ear-headphones-shootout?utm_medium=rss)
+ - [Analysis: since January, 36+ staff and associates of Elon Musk, Peter Thiel, Marc Andreessen, and Palmer Luckey got federal roles that oversee their companies &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250516/p10#a250516p10)
+ - [Inside Apple Notes - everything you need to stay focused &amp; flexible](https://appleinsider.com/inside/ios-18/tips/inside-apple-notes---everything-you-need-to-stay-focused-flexible?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

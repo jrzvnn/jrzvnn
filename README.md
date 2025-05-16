@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US immigration attorneys: since January 2025, USCIS has significantly increased requests for evidence on tech-related visa petitions, including H-1B and O-1 &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250516/p4#a250516p4)
  - [Grok&amp;#8217;s white genocide fixation caused by &amp;#8216;unauthorized modification&amp;#8217;](https://www.theverge.com/news/668220/grok-white-genocide-south-africa-xai-unauthorized-modification-employee)
  - [Sources: President Trump&#39;s Middle East AI deals open rifts with China hawks in his administration over concerns AI chips shipped to the Gulf end up in China &lpar;Bloomberg&rpar;](http://www.techmeme.com/250516/p3#a250516p3)
  - [Sources: Facebook and Instagram face scam ad surge from Asia and Meta is reluctant to add hurdles for ad buyers; Meta says it&#39;s tackling an &quot;epidemic of scams&quot; &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250516/p2#a250516p2)
- - [Sony&#39;s Haven Studios head Jade Raymond leaves the company she founded in 2021; sources say some developers worried over its first game&#39;s reception and progress &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250516/p1#a250516p1)
- - [MoviePass secures a $100M capital investment from Global Emerging Markets to accelerate the development of Mogul, a fantasy gaming service launched this month &lpar;Brent Lang/Variety&rpar;](http://www.techmeme.com/250515/p48#a250515p48)<!-- TECH:END -->
+ - [Sony&#39;s Haven Studios head Jade Raymond leaves the company she founded in 2021; sources say some developers worried over its first game&#39;s reception and progress &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250516/p1#a250516p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

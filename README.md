@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Stord, a logistics startup serving over 500 mid-market e-commerce brands, raised an $80M Series E led by Strike Capital at a $1.5B valuation and $120M in debt &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250516/p29#a250516p29)
+ - [Apple Watch Series 11: What the Rumors Reveal About Apple&#39;s Smartwatch Future](https://www.cnet.com/tech/mobile/apple-watch-series-11-what-the-rumors-reveal-about-apples-smartwatch-future/#ftag=CAD590a51e)
  - [Galaxy Digital, which has traded on the Toronto Stock Exchange since 2020, started trading on the Nasdaq on Friday under the ticker GLXY; the stock closed up 4% &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250516/p28#a250516p28)
  - [GameStop will have more Switch 2 stock at launch](https://www.theverge.com/news/668918/gamestop-nintendo-switch-2-stock-in-store-online-launch)
- - [Michael Novogratz says Galaxy Digital is in talks with the US SEC about tokenizing its own stock as well as other equities using its digital-asset platform &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/250516/p27#a250516p27)
- - [Call of Duty: Warzone is winding down on mobile](https://www.theverge.com/news/668899/call-of-duty-warzone-mobile-wind-down)<!-- TECH:END -->
+ - [Michael Novogratz says Galaxy Digital is in talks with the US SEC about tokenizing its own stock as well as other equities using its digital-asset platform &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/250516/p27#a250516p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

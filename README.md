@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify is sorry that it revealed how many people listen to your podcast](https://www.theverge.com/news/668434/spotify-podcast-plays-public-podcasters-update)
+ - [iPhone 17 Air may debut advanced silicon battery for more efficient charging](https://appleinsider.com/articles/25/05/16/iphone-17-air-may-debut-advanced-silicon-battery-for-more-efficient-charging?utm_medium=rss)
  - [Spotify adjusts its &quot;plays&quot; metric for podcasts to only appear on episodes with at least 50K plays, updating at specific milestones, like 100K or 1M plays &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250516/p16#a250516p16)
  - [Bungie caught stealing artwork again](https://www.theverge.com/news/668449/bungie-marathon-art-plagiarism-ps5)
- - [Nvidia says it won&#39;t send GPU designs to China to be modified to comply with export controls, after a report said it is planning a research center in Shanghai &lpar;CNBC&rpar;](http://www.techmeme.com/250516/p15#a250516p15)
- - [Japan moves closer to requiring third-party app stores](https://appleinsider.com/articles/25/05/16/japan-moves-closer-to-requiring-third-party-app-stores?utm_medium=rss)
- - [Killer deals: Grab a MacBook Air with 24GB RAM for just $1,087](https://appleinsider.com/articles/25/05/15/killer-deals-grab-a-macbook-air-with-24gb-ram-for-just-1087?utm_medium=rss)<!-- TECH:END -->
+ - [Nvidia says it won&#39;t send GPU designs to China to be modified to comply with export controls, after a report said it is planning a research center in Shanghai &lpar;CNBC&rpar;](http://www.techmeme.com/250516/p15#a250516p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

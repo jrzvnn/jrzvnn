@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: OpenAI is expected to be a primary anchor tenant for a 5 gigawatt UAE data center, which could become one of the world&#39;s largest at 10 square miles &lpar;Bloomberg&rpar;](http://www.techmeme.com/250516/p23#a250516p23)
+ - [REI’s anniversary sale is dropping prices on Garmin watches and other great gear](https://www.theverge.com/tech/668088/rei-anniversary-sale-2025-garmin-watch-inreach-stoves-water-filters-deal-sale)
  - [Microsoft&amp;#8217;s Command Palette is a powerful launcher for apps, search, and more](https://www.theverge.com/news/668719/microsoft-command-palette-powertoy-launcher)
  - [Apple Pay and Apple Cash experienced an outage on Friday](https://appleinsider.com/articles/25/05/16/apple-pay-and-apple-cash-experienced-an-outage-on-friday?utm_medium=rss)
- - [Xbox is going to let you pin your favorite games on your homescreen](https://www.theverge.com/news/668668/xbox-home-screen-pin-favorite-games-apps-changes-testing)
- - [Fortnite isn&amp;#8217;t available on iOS right now, but why?](https://www.theverge.com/news/668232/fortnite-ios-unavailable-worldwide-apple-epic)
- - [SEC filing: Los Angeles-based Moonvalley, which is developing AI tools for video creation, raised $53M, bringing its total funding to about $124M, per PitchBook &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250516/p22#a250516p22)<!-- TECH:END -->
+ - [Xbox is going to let you pin your favorite games on your homescreen](https://www.theverge.com/news/668668/xbox-home-screen-pin-favorite-games-apps-changes-testing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

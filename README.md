@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xbox is going to let you pin your favorite games on your homescreen](https://www.theverge.com/news/668668/xbox-home-screen-pin-favorite-games-apps-changes-testing)
+ - [Fortnite isn&amp;#8217;t available on iOS right now, but why?](https://www.theverge.com/news/668232/fortnite-ios-unavailable-worldwide-apple-epic)
+ - [SEC filing: Los Angeles-based Moonvalley, which is developing AI tools for video creation, raised $53M, bringing its total funding to about $124M, per PitchBook &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250516/p22#a250516p22)
  - [Verizon’s $20 billion Frontier acquisition wins FCC approval](https://www.theverge.com/news/668614/verizon-frontier-acquisition-fcc-approval)
- - [Apple refutes Epic Games claim that it has blocked &#39;Fortnite&#39; worldwide](https://appleinsider.com/articles/25/05/16/apple-refutes-epic-games-claim-that-it-has-blocked-fortnite-worldwide?utm_medium=rss)
- - [The State Department reportedly pressured African countries to adopt Elon Musk’s Starlink](https://www.theverge.com/politics/668079/the-state-department-reportedly-pressured-african-countries-to-adopt-elon-musks-starlink)
- - [The FCC approves Verizon&#39;s $9.6B acquisition of Frontier Communications after Verizon agreed to pare back what Brendan Carr called &quot;invidious&quot; DEI practices &lpar;Kelcee Griffis/Bloomberg&rpar;](http://www.techmeme.com/250516/p21#a250516p21)
- - [There are no good billionaires in new trailer for HBO’s Mountainhead movie](https://www.theverge.com/film/668526/mountainhead-trailer-hbo-premiere-date)<!-- TECH:END -->
+ - [Fortnite Is Offline on iOS. Here&#39;s Why Apple Is Blocking Its Return](https://www.cnet.com/tech/gaming/fortnite-is-offline-on-ios-heres-why-apple-is-blocking-its-return/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

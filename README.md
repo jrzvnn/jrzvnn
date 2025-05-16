@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An Alabama man is sentenced to 14 months in prison for hacking SEC&#39;s X account in 2024 and posting a false announcement that the SEC had approved bitcoin ETFs &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/250516/p24#a250516p24)
- - [&#39;Fortnite&#39; Players Are Already Making AI Darth Vader Swear](https://www.wired.com/story/fortnite-darth-vader-slurs-swears-generative-ai/)
- - [Epic’s Mega sale has big discounts on games like GTA V, Red Dead Redemption, and Cyberpunk 2077](https://www.theverge.com/news/668798/epic-games-mega-sale-gta-v-cyberpunk-2077)
- - [REI’s anniversary sale is dropping prices on Garmins and other great outdoor gear](https://www.theverge.com/tech/668088/rei-anniversary-sale-2025-garmin-watch-inreach-stoves-water-filters-deal-sale)
- - [Sources: OpenAI is expected to be a primary anchor tenant for a 5 gigawatt UAE data center, which could become one of the world&#39;s largest at 10 square miles &lpar;Bloomberg&rpar;](http://www.techmeme.com/250516/p23#a250516p23)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 17, #236](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-17-236/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for May 17, #706](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-17-706/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for May 17, #1428](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-17-1428/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for May 17, #440](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-17-440/#ftag=CAD590a51e)
+ - [Nintendo details Switch 2 updates for Switch games](https://www.theverge.com/news/668830/nintendo-switch-2-game-updates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

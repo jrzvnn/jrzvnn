@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft&amp;#8217;s Command Palette is a powerful launcher for apps, search, and more](https://www.theverge.com/news/668719/microsoft-command-palette-powertoy-launcher)
  - [Apple Pay and Apple Cash experienced an outage on Friday](https://appleinsider.com/articles/25/05/16/apple-pay-and-apple-cash-experienced-an-outage-on-friday?utm_medium=rss)
  - [Xbox is going to let you pin your favorite games on your homescreen](https://www.theverge.com/news/668668/xbox-home-screen-pin-favorite-games-apps-changes-testing)
  - [Fortnite isn&amp;#8217;t available on iOS right now, but why?](https://www.theverge.com/news/668232/fortnite-ios-unavailable-worldwide-apple-epic)
- - [SEC filing: Los Angeles-based Moonvalley, which is developing AI tools for video creation, raised $53M, bringing its total funding to about $124M, per PitchBook &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250516/p22#a250516p22)
- - [Verizon’s $20 billion Frontier acquisition wins FCC approval](https://www.theverge.com/news/668614/verizon-frontier-acquisition-fcc-approval)<!-- TECH:END -->
+ - [SEC filing: Los Angeles-based Moonvalley, which is developing AI tools for video creation, raised $53M, bringing its total funding to about $124M, per PitchBook &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250516/p22#a250516p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

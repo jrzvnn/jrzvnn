@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fortnite for iOS is unavailable worldwide](https://www.theverge.com/news/668232/fortnite-ios-unavailable-worldwide-apple-epic)
+ - [Taiwanese silicon wafer maker GlobalWafers plans to invest $4B in its US manufacturing operations, more than doubling its earlier pledge to $7.5B &lpar;Kimberley Kao/Wall Street Journal&rpar;](http://www.techmeme.com/250516/p5#a250516p5)
  - [US immigration attorneys: since January 2025, USCIS has significantly increased requests for evidence on tech-related visa petitions, including H-1B and O-1 &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250516/p4#a250516p4)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 16, #235](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-16-235/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for May 16, #705](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-16-705/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for May 16, #439](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-16-439/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for May 16, #1427](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-16-1427/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for May 16, #705](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-16-705/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

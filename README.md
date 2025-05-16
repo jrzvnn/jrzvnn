@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WWDC macOS 16 wishlist: What we&#39;d like to see Apple add for power users](https://appleinsider.com/articles/25/05/16/wwdc-macos-16-wishlist-what-wed-like-to-see-apple-add-for-power-users?utm_medium=rss)
+ - [Microsoft says its Azure and AI tech hasn’t harmed people in Gaza](https://www.theverge.com/news/668322/microsoft-azure-ai-israel-military-contracts-gaza-protester-response)
  - [No, Graduates: AI Hasn&#39;t Ended Your Career Before It Starts](https://www.wired.com/story/plaintext-commencement-speech-artificial-intelligence/)
  - [Capcom goes for deep cuts with latest fighting game collection](https://www.theverge.com/games-review/667921/capcom-fighting-collection-2-review-xbox-switch-steam-ps4)
- - [Q&amp;A with Wired&#39;s Steven Levy on the evolving relationship between the tech industry and the press, media outlets&#39; licensing deals with AI companies, and more &lpar;Camille Bromley/Columbia Journalism ...&rpar;](http://www.techmeme.com/250516/p12#a250516p12)
- - [HBO&amp;#8217;s no good very bad rebrand](https://www.theverge.com/the-vergecast/668368/hbo-max-rebrand-carplay-ultra-vergecast)
- - [Charter and Cox to combine businesses in $34.5 billion megamerger](https://www.theverge.com/news/668365/charter-cox-megamerger-deal-34-billion)<!-- TECH:END -->
+ - [Q&amp;A with Wired&#39;s Steven Levy on the evolving relationship between the tech industry and the press, media outlets&#39; licensing deals with AI companies, and more &lpar;Camille Bromley/Columbia Journalism ...&rpar;](http://www.techmeme.com/250516/p12#a250516p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Nvidia says it won&#39;t send GPU designs to China to be modified to comply with export controls, after a report said it is planning a research center in Shanghai &lpar;CNBC&rpar;](http://www.techmeme.com/250516/p15#a250516p15)
  - [Japan moves closer to requiring third-party app stores](https://appleinsider.com/articles/25/05/16/japan-moves-closer-to-requiring-third-party-app-stores?utm_medium=rss)
  - [Killer deals: Grab a MacBook Air with 24GB RAM for just $1,087](https://appleinsider.com/articles/25/05/15/killer-deals-grab-a-macbook-air-with-24gb-ram-for-just-1087?utm_medium=rss)
- - [We Hand-Picked the 24 Best Deals from the 2025 REI Anniversary Sale](https://www.wired.com/story/rei-anniversary-sale-may-2025/)<!-- TECH:END -->
+ - [We Hand-Picked the 24 Best Deals From the 2025 REI Anniversary Sale](https://www.wired.com/story/rei-anniversary-sale-may-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Baad life choices](http://9gag.com/gag/azxRowB)
+ - 😝 [Who knew transparency could be so invisible?](http://9gag.com/gag/aByGomZ)
  - 😝 [Big void](http://9gag.com/gag/a2v29YO)
- - 💣 [Dog blesses you](http://9gag.com/gag/a0e1zgQ)
+ - 💣 [Lemons](http://9gag.com/gag/aryq9dB)
  - 😝 [OCD Gamers unite! \ud83c\udfae\ud83e\uddd1\ud83c\udffd\ud83c\udfa8](http://9gag.com/gag/a2v29Vd)
- - 👉 [Who knew transparency could be so invisible?](http://9gag.com/gag/aByGomZ)<!-- MEMES:END -->
+ - 👉 [Baad life choices](http://9gag.com/gag/azxRowB)<!-- MEMES:END -->
 
 ---
 

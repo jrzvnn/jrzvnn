@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [WTF Nature #119](http://9gag.com/gag/amoMKvv)
  - 😝 [._.](http://9gag.com/gag/a342eme)
- - 😝 [Big void](http://9gag.com/gag/a2v29YO)
  - 💣 [Lemons](http://9gag.com/gag/aryq9dB)
  - 😝 [OCD Gamers unite! \ud83c\udfae\ud83e\uddd1\ud83c\udffd\ud83c\udfa8](http://9gag.com/gag/a2v29Vd)
  - 👉 [Baad life choices](http://9gag.com/gag/azxRowB)<!-- MEMES:END -->

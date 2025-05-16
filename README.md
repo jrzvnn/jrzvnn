@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Charter and Cox to combine businesses in $34.5 billion megamerger](https://www.theverge.com/news/668365/charter-cox-megamerger-deal-34-billion)
+ - [Apple Music’s new transfer tool simplifies switching from other streaming services](https://www.theverge.com/news/668369/apple-music-transfer-tool-library-playlists)
+ - [iPhone 20, CarPlay Ultra, and new Accessibility on the AppleInsider Podcast](https://appleinsider.com/articles/25/05/16/iphone-20-carplay-ultra-and-new-accessibility-on-the-appleinsider-podcast?utm_medium=rss)
  - [Does Your City Use Chlorine or Chloramine to Treat Its Water?](https://www.wired.com/story/does-your-city-use-chlorine-or-chloramine-to-treat-its-water/)
- - [I let lasers power my smart home — and I don’t want to go back](https://www.theverge.com/tech/663899/wi-charge-alfred-smart-lock-wireless-power-review)
- - [Acer&amp;#8217;s Swift Edge laptop is gunning for the MacBook Air](https://www.theverge.com/news/668200/acers-swift-edge-laptop-is-gunning-for-the-macbook-air)
- - [Microsoft says reviews found no evidence its tech was used by the Israeli military to harm civilians in Gaza, following months of protests by Microsoft staffers &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250516/p11#a250516p11)
- - [Shark CryoGlow Review: Chill Out](https://www.wired.com/review/shark-cryoglow/)<!-- TECH:END -->
+ - [I let lasers power my smart home — and I don’t want to go back](https://www.theverge.com/tech/663899/wi-charge-alfred-smart-lock-wireless-power-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

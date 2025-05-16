@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [US immigration attorneys: since January 2025, USCIS has significantly increased requests for evidence on tech-related visa petitions, including H-1B and O-1 &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250516/p4#a250516p4)
- - [Grok&amp;#8217;s white genocide fixation caused by &amp;#8216;unauthorized modification&amp;#8217;](https://www.theverge.com/news/668220/grok-white-genocide-south-africa-xai-unauthorized-modification-employee)
- - [Sources: President Trump&#39;s Middle East AI deals open rifts with China hawks in his administration over concerns AI chips shipped to the Gulf end up in China &lpar;Bloomberg&rpar;](http://www.techmeme.com/250516/p3#a250516p3)
- - [Sources: Facebook and Instagram face scam ad surge from Asia and Meta is reluctant to add hurdles for ad buyers; Meta says it&#39;s tackling an &quot;epidemic of scams&quot; &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250516/p2#a250516p2)
- - [Sony&#39;s Haven Studios head Jade Raymond leaves the company she founded in 2021; sources say some developers worried over its first game&#39;s reception and progress &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250516/p1#a250516p1)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 16, #235](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-16-235/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for May 16, #705](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-16-705/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for May 16, #439](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-16-439/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for May 16, #1427](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-16-1427/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

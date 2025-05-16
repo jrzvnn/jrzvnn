@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Cohere crossed an annualized revenue of $100M as of May 2025, following a strategic shift in Q3 2024 to focus on customers in sectors like finance &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/250516/p26#a250516p26)
  - [Sources: Binance and Kraken have been targeted by the same type of social engineering hack recently disclosed by Coinbase, but were able to fend off the attacks &lpar;Bloomberg&rpar;](http://www.techmeme.com/250516/p25#a250516p25)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 17, #236](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-17-236/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for May 17, #706](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-17-706/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for May 17, #1428](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-17-1428/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for May 17, #440](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-17-440/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for May 17, #1428](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-17-1428/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

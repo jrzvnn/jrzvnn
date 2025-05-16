@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Charter is in advanced talks to combine with Cox Communications in a deal that would value Cox at $30B and give the Cox family a 20% stake &lpar;Michelle F Davis/Bloomberg&rpar;](http://www.techmeme.com/250516/p7#a250516p7)
  - [10 Best Android Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
  - [The 11 Best Mattress Toppers We’ve Slept On &lpar;2025&rpar;](https://www.wired.com/gallery/best-mattress-toppers/)
- - [Epic Games says Fortnite on iOS will be offline worldwide &quot;until Apple unblocks it&quot; after Apple rejected its latest submission to the US App Store &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250516/p6#a250516p6)
- - [Apple blocks Fortnite&amp;#8217;s App Store return as downloads fail in Europe](https://www.theverge.com/news/668232/fortnite-ios-unavailable-worldwide-apple-epic)
- - [How You Can Bring the Volume Bar Back to Your iPhone&#39;s Lock Screen](https://www.cnet.com/tech/services-and-software/heres-how-you-can-bring-the-volume-bar-back-to-your-iphones-lock-screen/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Epic Games says Apple rejected its latest Fortnite submission to the US App Store and the game will be &quot;offline worldwide until Apple unblocks it&quot; &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250516/p6#a250516p6)
+ - [Apple blocks Fortnite&amp;#8217;s App Store return as downloads fail in Europe](https://www.theverge.com/news/668232/fortnite-ios-unavailable-worldwide-apple-epic)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

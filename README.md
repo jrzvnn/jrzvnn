@@ -157,9 +157,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple blocks Fortnite&amp;#8217;s App Store return as downloads fail in Europe](https://www.theverge.com/news/668232/fortnite-ios-unavailable-worldwide-apple-epic)
  - [Apple tests EU by adding scare screens to apps using third-party payments [u]](https://appleinsider.com/articles/25/05/15/apple-tests-eu-by-adding-scare-screens-to-apps-using-third-party-payments?utm_medium=rss)
- - [Fortnite for iOS is unavailable worldwide](https://www.theverge.com/news/668232/fortnite-ios-unavailable-worldwide-apple-epic)
- - [Taiwanese silicon wafer maker GlobalWafers plans to invest $4B in its US manufacturing operations, more than doubling its earlier pledge to $7.5B &lpar;Kimberley Kao/Wall Street Journal&rpar;](http://www.techmeme.com/250516/p5#a250516p5)
+ - [Taiwanese silicon wafer maker GlobalWafers Chair Doris Hsu announces $4B additional investment in the US, more than doubling its earlier pledge to reach $7.5B &lpar;Kimberley Kao/Wall Street Journal&rpar;](http://www.techmeme.com/250516/p5#a250516p5)
  - [US immigration attorneys: since January 2025, USCIS has significantly increased requests for evidence on tech-related visa petitions, including H-1B and O-1 &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250516/p4#a250516p4)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 16, #235](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-16-235/#ftag=CAD590a51e)<!-- TECH:END -->
 

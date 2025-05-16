@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Michael Novogratz says Galaxy Digital is in talks with the US SEC about tokenizing its own stock as well as other equities using its digital-asset platform &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/250516/p27#a250516p27)
  - [Call of Duty: Warzone is winding down on mobile](https://www.theverge.com/news/668899/call-of-duty-warzone-mobile-wind-down)
  - [Source: Cohere crossed an annualized revenue of $100M as of May 2025, following a strategic shift in Q3 2024 to focus on customers in sectors like finance &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/250516/p26#a250516p26)
- - [Sources: Binance and Kraken have been targeted by the same type of social engineering hack recently disclosed by Coinbase, but were able to fend off the attacks &lpar;Bloomberg&rpar;](http://www.techmeme.com/250516/p25#a250516p25)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 17, #236](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-17-236/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for May 17, #706](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-17-706/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Wireless Earbuds of 2025](https://www.cnet.com/tech/mobile/best-wireless-earbuds/#ftag=CAD590a51e)
+ - [Congress Might Eliminate Tax Credits for EVs and Solar Panels. What to Know](https://www.cnet.com/home/energy-and-utilities/congress-might-eliminate-tax-credits-for-evs-and-solar-panels-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

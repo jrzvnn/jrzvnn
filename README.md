@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Facebook and Instagram face scam ad surge from Asia and Meta is reluctant to add hurdles for ad buyers; Meta says it&#39;s tackling an &quot;epidemic of scams&quot; &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250516/p2#a250516p2)
  - [Sony&#39;s Haven Studios head Jade Raymond leaves the company she founded in 2021; sources say some developers worried over its first game&#39;s reception and progress &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250516/p1#a250516p1)
  - [MoviePass secures a $100M capital investment from Global Emerging Markets to accelerate the development of Mogul, a fantasy gaming service launched this month &lpar;Brent Lang/Variety&rpar;](http://www.techmeme.com/250515/p48#a250515p48)
  - [Shanghai-based Synyi AI launches a trial program in Saudi Arabia to let patients see an AI doctor for diagnoses and prescriptions, which a human doctor reviews &lpar;Karoline Kan/Bloomberg&rpar;](http://www.techmeme.com/250515/p47#a250515p47)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, May 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-may-16/#ftag=CAD590a51e)
- - [Following Grok&#39;s &quot;white genocide in South Africa&quot; responses on X, xAI says an &quot;unauthorized modification&quot; was made to the Grok response bot&#39;s prompt on May 14 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250515/p46#a250515p46)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, May 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-may-16/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Utah-based property management software firm Entrata raised $200M from Blackstone at a $4.3B valuation; Entrata raised $507M from Silver Lake and others in 2021 &lpar;Reuters&rpar;](http://www.techmeme.com/250517/p4#a250517p4)
  - [Boston-based PhaseV, which is developing AI software to accelerate clinical trials and drug development, raised a $50M Series A co-led by Accel and Insight &lpar;Aaron Weitzman/Axios&rpar;](http://www.techmeme.com/250517/p3#a250517p3)
  - [MIT says it no longer stands behind a widely circulated research paper by its student that claimed an AI tool boosted discoveries in a materials science lab &lpar;Justin Lahart/Wall Street Journal&rpar;](http://www.techmeme.com/250517/p2#a250517p2)
  - [Home Depot Promo Codes &amp; Coupons: 50% Off | May 2025](https://www.wired.com/story/home-depot-promo-code/)
- - [30% Off Design Within Reach Promo Code | May 2025](https://www.wired.com/story/design-within-reach-promo-code/)
- - [Epic&#39;s new motion asks a US district judge to order Apple to approve Fortnite on the US App Store, calling Apple&#39;s continued refusal contempt of court &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/250517/p1#a250517p1)<!-- TECH:END -->
+ - [30% Off Design Within Reach Promo Code | May 2025](https://www.wired.com/story/design-within-reach-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

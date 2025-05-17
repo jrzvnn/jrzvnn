@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for May 17, #706](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-17-706/#ftag=CAD590a51e)
  - [How rapid advances in AI are helping Harvard&#39;s Galileo Project and other UFO research efforts process huge amounts of data in real time from multiple sources &lpar;Bloomberg&rpar;](http://www.techmeme.com/250517/p13#a250517p13)
  - [Today&#39;s NYT Strands Hints, Answers and Help for May 18, #441](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-18-441/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for May 18, #707](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-18-707/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for May 18, #1429](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-18-1429/#ftag=CAD590a51e)
- - [A look at EA&#39;s attempts to shut down &quot;anti-DEI&quot; mods for The Sims 4, including one that changes LGBT and Black NPCs to straight and white &lpar;Alana Yzola/Wired&rpar;](http://www.techmeme.com/250517/p12#a250517p12)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for May 18, #1429](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-18-1429/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

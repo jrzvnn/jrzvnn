@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at AI companies&#39; lobbying push, as well as the GOP&#39;s pitch, for the amendment to ban state-level AI regulation, added to the budget reconciliation bill &lpar;Brian Merchant/Blood in the Machine&rpar;](http://www.techmeme.com/250516/p34#a250516p34)
+ - [UnitedHealth&#39;s Optum is developing an AI-powered risk scoring system for Medicare patients that does not rely solely on physician-submitted diagnosis codes &lpar;Bob Herman/STAT&rpar;](http://www.techmeme.com/250516/p33#a250516p33)
+ - [Critics question Meta&#39;s Louisiana datacenter plans for three new power plants; Meta&#39;s carbon footprint is up from 2020, when it pledged 2030 net-zero emissions &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/250516/p32#a250516p32)
  - [Big Tech companies are firing staff who organize protests and rejecting petitions, even as a poor job market discourages worker activism, once ubiquitous in SV &lpar;Washington Post&rpar;](http://www.techmeme.com/250516/p31#a250516p31)
- - [NBA Playoffs 2025: How to Watch Celtics vs. Knicks Game 6 Tonight](https://www.cnet.com/tech/services-and-software/nba-playoffs-2025-how-to-watch-celtics-vs-knicks-game-6-tonight/#ftag=CAD590a51e)
- - [Wallets of ~100 of 220 TRUMP coin dinner attendees, and ~17 of 25 VIPs, have parted with nearly all their TRUMP after being chosen based on holdings to May 12 &lpar;Wired&rpar;](http://www.techmeme.com/250516/p30#a250516p30)
- - [Meta faces Democratic probe into plans to power a giant data center with gas](https://www.theverge.com/news/668934/meta-ai-data-center-gas-energy-climate-sustainability)
- - [Stord, a logistics startup serving over 500 mid-market e-commerce brands, raised an $80M Series E led by Strike Capital at a $1.5B valuation and $120M in debt &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250516/p29#a250516p29)<!-- TECH:END -->
+ - [NBA Playoffs 2025: How to Watch Celtics vs. Knicks Game 6 Tonight](https://www.cnet.com/tech/services-and-software/nba-playoffs-2025-how-to-watch-celtics-vs-knicks-game-6-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

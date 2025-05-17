@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What to expect at Google I/O 2025: an updated Gemini Ultra model, updates for Android 16, Project Astra AI assistant, and Project Mariner AI agents, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250517/p11#a250517p11)
  - [US officials concerned over Apple&#39;s AI partnership plans in China](https://appleinsider.com/articles/25/05/17/us-officials-concerned-over-apples-ai-partnership-plans-in-china?utm_medium=rss)
  - [Jensen Huang says Nvidia&#39;s next chip for China will not be from the Hopper series following US restrictions on Hopper H20 chip sales to China &lpar;Wen-Yee Lee/Reuters&rpar;](http://www.techmeme.com/250517/p10#a250517p10)
  - [Watch the Eurovision Song Contest Final 2025 Free From Anywhere](https://www.cnet.com/tech/services-and-software/watch-the-eurovision-song-contest-final-2025-for-free-from-anywhere/#ftag=CAD590a51e)
- - [REI’s anniversary sale is dropping prices on Garmins and other great outdoor gear](https://www.theverge.com/tech/668088/rei-anniversary-sale-2025-garmin-watch-inreach-stoves-water-filters-deal-sale)
- - [Epic asks judge to make Apple let Fortnite back on the US App Store](https://www.theverge.com/news/669047/epic-fortnite-filing-apple-app-store-review-order)<!-- TECH:END -->
+ - [REI’s anniversary sale is dropping prices on Garmins and other great outdoor gear](https://www.theverge.com/tech/668088/rei-anniversary-sale-2025-garmin-watch-inreach-stoves-water-filters-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

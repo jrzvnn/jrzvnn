@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Deep dive on the evolution of Microsoft&#39;s relationship with OpenAI, from its $1B investment in 2019 through Copilot rollouts and ChatGPT&#39;s launch to present day &lpar;Bloomberg&rpar;](http://www.techmeme.com/250517/p7#a250517p7)
+ - [Carta: VC deals are stalling at seed, with the Series A deal count falling by 79% between Q1 2022 and Q1 2025; 46% of seed deals were bridge rounds in Q1 2025 &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250517/p6#a250517p6)
  - [London-based Granola, which provides an AI-based notetaking app, raised a $43M Series B led by NFDG at a $250M valuation, taking its total funding to $67M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250517/p5#a250517p5)
  - [Utah-based property management software firm Entrata raised $200M from Blackstone at a $4.3B valuation; Entrata raised $507M from Silver Lake and others in 2021 &lpar;Reuters&rpar;](http://www.techmeme.com/250517/p4#a250517p4)
- - [Boston-based PhaseV, which is developing AI software to accelerate clinical trials and drug development, raised a $50M Series A co-led by Accel and Insight &lpar;Aaron Weitzman/Axios&rpar;](http://www.techmeme.com/250517/p3#a250517p3)
- - [MIT says it no longer stands behind a widely circulated research paper by its student that claimed an AI tool boosted discoveries in a materials science lab &lpar;Justin Lahart/Wall Street Journal&rpar;](http://www.techmeme.com/250517/p2#a250517p2)
- - [Home Depot Promo Codes &amp; Coupons: 50% Off | May 2025](https://www.wired.com/story/home-depot-promo-code/)<!-- TECH:END -->
+ - [Boston-based PhaseV, which is developing AI software to accelerate clinical trials and drug development, raised a $50M Series A co-led by Accel and Insight &lpar;Aaron Weitzman/Axios&rpar;](http://www.techmeme.com/250517/p3#a250517p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

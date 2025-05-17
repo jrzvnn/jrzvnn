@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: White House and lawmakers are scrutinizing Apple&#39;s plan to use Alibaba&#39;s AI on iPhones in China, over concerns about data sharing, censorship, and more &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/250517/p9#a250517p9)
+ - [14 Best Subscription Boxes for Kids &lpar;2025&rpar;: STEM, Books, Snacks](https://www.wired.com/gallery/best-subscription-boxes-for-kids/)
  - [How to Reduce Browser Battery Drain in Chrome, Edge, and Opera](https://www.wired.com/story/reduce-battery-drain-caused-by-your-web-browser/)
  - [It&amp;#8217;s parry season](https://www.theverge.com/games/667900/doom-the-dark-ages-clair-obscur-expedition-33-parry-season)
- - [8 Best Down Comforters &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-down-comforters/)
- - [The Broadband Divide Worsened in 32 States in 2024, Ookla Reports](https://www.cnet.com/home/internet/the-broadband-divide-worsened-in-32-states-in-2024-ookla-reports/#ftag=CAD590a51e)
- - [Most Father&#39;s Day Gifts Are Junk. We Found the Ones Truly Worthy of Dad](https://www.cnet.com/tech/best-fathers-day-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [8 Best Down Comforters &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-down-comforters/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

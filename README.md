@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lemons](http://9gag.com/gag/aryq9dB)
  - 😝 [Need this](http://9gag.com/gag/a9y2ZeZ)
- - 💣 [Stop noticing](http://9gag.com/gag/aoyLGvn)
+ - 😝 [Lemons](http://9gag.com/gag/aryq9dB)
+ - 💣 [Clinging to old things like it&#39;s a loyalty contest](http://9gag.com/gag/aAy2L0o)
  - 😝 [OCD Gamers unite! \ud83c\udfae\ud83e\uddd1\ud83c\udffd\ud83c\udfa8](http://9gag.com/gag/a2v29Vd)
- - 👉 [Clinging to old things like it&#39;s a loyalty contest](http://9gag.com/gag/aAy2L0o)<!-- MEMES:END -->
+ - 👉 [Stop noticing](http://9gag.com/gag/aoyLGvn)<!-- MEMES:END -->
 
 ---
 

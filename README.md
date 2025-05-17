@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [9 Best Digital Notebooks, Tablets, and Smart Pens &lpar;2025&rpar;](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/)
  - [5 Best Folding Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-folding-phones/)
  - [12 Best Sunscreens, WIRED Tested and Reviewed](https://www.wired.com/gallery/best-sunscreens/)
  - [It’s time for Logitech to make a real Forever Mouse](https://www.theverge.com/tech/667173/logitech-forever-mouse-ifixit-repair-parts-editorial)
- - [Huawei’s first trifold is a great phone that you shouldn’t buy](https://www.theverge.com/huawei/667574/huawei-mate-xt-review-trifold-phone)
- - [Sources: White House and lawmakers are scrutinizing Apple&#39;s plan to use Alibaba&#39;s AI on iPhones in China, over concerns about data sharing, censorship, and more &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/250517/p9#a250517p9)<!-- TECH:END -->
+ - [Huawei’s first trifold is a great phone that you shouldn’t buy](https://www.theverge.com/huawei/667574/huawei-mate-xt-review-trifold-phone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [8 Best Down Comforters &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-down-comforters/)
  - [Most Father&#39;s Day Gifts Are Junk. We Found the Ones Truly Worthy of Dad](https://www.cnet.com/tech/best-fathers-day-gifts/#ftag=CAD590a51e)
  - [Here&#39;s How You Can Play Every Doom Game After Finishing Dark Ages](https://www.cnet.com/tech/services-and-software/heres-how-you-can-play-every-doom-game-after-finishing-dark-ages/#ftag=CAD590a51e)
  - [Is Elon Musk Really Stepping Back from DOGE?](https://www.wired.com/story/uncanny-valley-podcast-elon-musk-stepping-back-from-doge/)
- - [The 44 Best Movies on Netflix Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 44 Best Shows on Netflix Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
+ - [The 44 Best Movies on Netflix Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

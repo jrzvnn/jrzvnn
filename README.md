@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clinging to old things like it&#39;s a loyalty contest](http://9gag.com/gag/aAy2L0o)
  - 😝 [When Dad&#39;s selfie game gets a doggy upgrade](http://9gag.com/gag/a4P2BL6)
- - 💣 [Bad life choices #2](http://9gag.com/gag/aryq9Ly)
+ - 😝 [Bad life choices #2](http://9gag.com/gag/aryq9Ly)
+ - 💣 [We tried to warn you, but you didn&#39;t listen.](http://9gag.com/gag/a5Q2ArG)
  - 😝 [Tom Cruise makes it look so easy](http://9gag.com/gag/axyR8q1)
- - 👉 [We tried to warn you, but you didn&#39;t listen.](http://9gag.com/gag/a5Q2ArG)<!-- MEMES:END -->
+ - 👉 [She\u2019s a keeper](http://9gag.com/gag/a6Z2eR8)<!-- MEMES:END -->
 
 ---
 

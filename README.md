@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How rapid advances in AI are helping Harvard&#39;s Galileo Project and other UFO research efforts process huge amounts of data in real time from multiple sources &lpar;Bloomberg&rpar;](http://www.techmeme.com/250517/p13#a250517p13)
- - [Today&#39;s NYT Strands Hints, Answers and Help for May 18, #441](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-18-441/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for May 18, #707](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-18-707/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for May 18, #1429](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-18-1429/#ftag=CAD590a51e)
- - [A look at EA&#39;s attempts to shut down &quot;anti-DEI&quot; mods for The Sims 4, including one that changes LGBT and Black NPCs to straight and white &lpar;Alana Yzola/Wired&rpar;](http://www.techmeme.com/250517/p12#a250517p12)<!-- TECH:END -->
+ - [A look at EA&#39;s attempts to shut down &quot;anti-DEI&quot; mods for The Sims 4, including one that changes LGBT and Black NPCs to straight and white &lpar;Alana Yzola/Wired&rpar;](http://www.techmeme.com/250517/p12#a250517p12)
+ - [How a DoorDash driver scammed the company out $2.5 million](https://www.theverge.com/news/669140/doordash-driver-convicted-delivery-scam)
+ - [Blowout deal: Apple&#39;s M2 Max Mac Studio falls to $1,487](https://appleinsider.com/articles/25/05/17/blowout-deal-apples-m2-max-mac-studio-falls-to-1487?utm_medium=rss)
+ - [What to expect at Google I/O 2025: an updated Gemini Ultra model, updates for Android 16, Project Astra AI assistant, and Project Mariner AI agents, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250517/p11#a250517p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Reduce Browser Battery Drain in Chrome, Edge, and Opera](https://www.wired.com/story/reduce-battery-drain-caused-by-your-web-browser/)
+ - [It&amp;#8217;s parry season](https://www.theverge.com/games/667900/doom-the-dark-ages-clair-obscur-expedition-33-parry-season)
  - [8 Best Down Comforters &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-down-comforters/)
- - [Most Father&#39;s Day Gifts Are Junk. We Found the Ones Truly Worthy of Dad](https://www.cnet.com/tech/best-fathers-day-gifts/#ftag=CAD590a51e)
- - [Here&#39;s How You Can Play Every Doom Game After Finishing Dark Ages](https://www.cnet.com/tech/services-and-software/heres-how-you-can-play-every-doom-game-after-finishing-dark-ages/#ftag=CAD590a51e)
- - [Is Elon Musk Really Stepping Back from DOGE?](https://www.wired.com/story/uncanny-valley-podcast-elon-musk-stepping-back-from-doge/)
- - [The 44 Best Movies on Netflix Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
+ - [The Broadband Divide Worsened in 32 States in 2024, Ookla Reports](https://www.cnet.com/home/internet/the-broadband-divide-worsened-in-32-states-in-2024-ookla-reports/#ftag=CAD590a51e)
+ - [Most Father&#39;s Day Gifts Are Junk. We Found the Ones Truly Worthy of Dad](https://www.cnet.com/tech/best-fathers-day-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

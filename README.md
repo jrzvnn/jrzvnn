@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US officials concerned over Apple&#39;s AI partnership plans in China](https://appleinsider.com/articles/25/05/17/us-officials-concerned-over-apples-ai-partnership-plans-in-china?utm_medium=rss)
  - [Jensen Huang says Nvidia&#39;s next chip for China will not be from the Hopper series following US restrictions on Hopper H20 chip sales to China &lpar;Wen-Yee Lee/Reuters&rpar;](http://www.techmeme.com/250517/p10#a250517p10)
  - [REI’s anniversary sale is dropping prices on Garmins and other great outdoor gear](https://www.theverge.com/tech/668088/rei-anniversary-sale-2025-garmin-watch-inreach-stoves-water-filters-deal-sale)
  - [Epic asks judge to make Apple let Fortnite back on the US App Store](https://www.theverge.com/news/669047/epic-fortnite-filing-apple-app-store-review-order)
- - [The Verge&amp;#8217;s 2025 graduation gift guide](https://www.theverge.com/tech/660700/best-graduation-gift-ideas)
- - [9 Best Digital Notebooks, Tablets, and Smart Pens &lpar;2025&rpar;](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/)<!-- TECH:END -->
+ - [The Verge&amp;#8217;s 2025 graduation gift guide](https://www.theverge.com/tech/660700/best-graduation-gift-ideas)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

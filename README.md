@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic&#39;s new motion asks a US district judge to order Apple to approve Fortnite on the US App Store, calling Apple&#39;s continued refusal contempt of court &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/250517/p1#a250517p1)
  - [Sources: Indian investment app Groww agrees to acquire wealthtech startup Fisdom in an all-cash deal, valuing Fisdom at $140M to $160M; Fisdom had raised ~$48M &lpar;The Economic Times&rpar;](http://www.techmeme.com/250516/p35#a250516p35)
  - [Today&#39;s NYT Mini Crossword Answers for Saturday, May 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-may-17/#ftag=CAD590a51e)
  - [A look at AI companies&#39; lobbying push, as well as the GOP&#39;s pitch, for the amendment to ban state-level AI regulation, added to the budget reconciliation bill &lpar;Brian Merchant/Blood in the Machine&rpar;](http://www.techmeme.com/250516/p34#a250516p34)
- - [UnitedHealth&#39;s Optum is developing an AI-powered risk scoring system for Medicare patients that does not rely solely on physician-submitted diagnosis codes &lpar;Bob Herman/STAT&rpar;](http://www.techmeme.com/250516/p33#a250516p33)
- - [Critics question Meta&#39;s Louisiana datacenter plans for three new power plants; Meta&#39;s carbon footprint is up from 2020, when it pledged 2030 net-zero emissions &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/250516/p32#a250516p32)<!-- TECH:END -->
+ - [UnitedHealth&#39;s Optum is developing an AI-powered risk scoring system for Medicare patients that does not rely solely on physician-submitted diagnosis codes &lpar;Bob Herman/STAT&rpar;](http://www.techmeme.com/250516/p33#a250516p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

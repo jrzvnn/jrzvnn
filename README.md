@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [WTF Nature #119](http://9gag.com/gag/amoMKvv)
- - 😝 [Lemons](http://9gag.com/gag/aryq9dB)
- - 💣 [Baad life choices](http://9gag.com/gag/azxRowB)
+ - 😝 [Baad life choices](http://9gag.com/gag/azxRowB)
+ - 💣 [Lemons](http://9gag.com/gag/aryq9dB)
  - 😝 [OCD Gamers unite! \ud83c\udfae\ud83e\uddd1\ud83c\udffd\ud83c\udfa8](http://9gag.com/gag/a2v29Vd)
- - 👉 [1946-2025. Sorry just had to get it off my chest.](http://9gag.com/gag/aYQqmRm)<!-- MEMES:END -->
+ - 👉 [Need this](http://9gag.com/gag/a9y2ZeZ)<!-- MEMES:END -->
 
 ---
 

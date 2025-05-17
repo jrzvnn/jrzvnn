@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How a DoorDash driver scammed the company out $2.5 million](https://www.theverge.com/news/669140/doordash-driver-convicted-delivery-scam)
  - [Blowout deal: Apple&#39;s M2 Max Mac Studio falls to $1,487](https://appleinsider.com/articles/25/05/17/blowout-deal-apples-m2-max-mac-studio-falls-to-1487?utm_medium=rss)
  - [What to expect at Google I/O 2025: an updated Gemini Ultra model, updates for Android 16, Project Astra AI assistant, and Project Mariner AI agents, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250517/p11#a250517p11)
  - [US officials concerned over Apple&#39;s AI partnership plans in China](https://appleinsider.com/articles/25/05/17/us-officials-concerned-over-apples-ai-partnership-plans-in-china?utm_medium=rss)
- - [Jensen Huang says Nvidia&#39;s next chip for China will not be from the Hopper series following US restrictions on Hopper H20 chip sales to China &lpar;Wen-Yee Lee/Reuters&rpar;](http://www.techmeme.com/250517/p10#a250517p10)
- - [Watch the Eurovision Song Contest Final 2025 Free From Anywhere](https://www.cnet.com/tech/services-and-software/watch-the-eurovision-song-contest-final-2025-for-free-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Jensen Huang says Nvidia&#39;s next chip for China will not be from the Hopper series following US restrictions on Hopper H20 chip sales to China &lpar;Wen-Yee Lee/Reuters&rpar;](http://www.techmeme.com/250517/p10#a250517p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

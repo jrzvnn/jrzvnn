@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When Dad&#39;s selfie game gets a doggy upgrade](http://9gag.com/gag/a4P2BL6)
+ - 😝 [She\u2019s a keeper](http://9gag.com/gag/a6Z2eR8)
  - 😝 [#cultural reference](http://9gag.com/gag/aW4bAGn)
- - 💣 [She\u2019s a keeper](http://9gag.com/gag/a6Z2eR8)
+ - 💣 [Dog blesses you](http://9gag.com/gag/a0e1zgQ)
  - 😝 [Tom Cruise makes it look so easy](http://9gag.com/gag/axyR8q1)
- - 👉 [We tried to warn you, but you didn&#39;t listen.](http://9gag.com/gag/a5Q2ArG)<!-- MEMES:END -->
+ - 👉 [Pablo crab](http://9gag.com/gag/ae9mzKO)<!-- MEMES:END -->
 
 ---
 

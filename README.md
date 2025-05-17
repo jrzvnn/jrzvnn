@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: China imported a record $30.9B in chipmaking equipment in 2024, including $9.63B from Japan, $9.53B from the Netherlands, and $4.86B from Singapore &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250517/p8#a250517p8)
  - [Best Early Memorial Day Mattress Deals &lpar;2025&rpar;](https://www.wired.com/story/best-early-memorial-day-mattress-sales/)
  - [Today&#39;s NYT Strands Hints, Answers and Help for May 17, #440](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-17-440/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints, Answer and Help for May 17, #1428](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-17-1428/#ftag=CAD590a51e)
- - [Deep dive on the evolution of Microsoft&#39;s relationship with OpenAI, from its $1B investment in 2019 through Copilot rollouts and ChatGPT&#39;s launch to present day &lpar;Bloomberg&rpar;](http://www.techmeme.com/250517/p7#a250517p7)
- - [Carta: VC deals are stalling at seed, with the Series A deal count falling by 79% between Q1 2022 and Q1 2025; 46% of seed deals were bridge rounds in Q1 2025 &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250517/p6#a250517p6)<!-- TECH:END -->
+ - [Deep dive on the evolution of Microsoft&#39;s relationship with OpenAI, from its $1B investment in 2019 through Copilot rollouts and ChatGPT&#39;s launch to present day &lpar;Bloomberg&rpar;](http://www.techmeme.com/250517/p7#a250517p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dog blesses you](http://9gag.com/gag/a0e1zgQ)
+ - 😝 [My ex- wife is about to sell the house 30% under market value for quick cash. This is why it&#39;s important to understand one&#39;s own finances](http://9gag.com/gag/ae9mEpB)
  - 😝 [She\u2019s a keeper](http://9gag.com/gag/a6Z2eR8)
  - 💣 [We tried to warn you, but you didn&#39;t listen.](http://9gag.com/gag/a5Q2ArG)
  - 😝 [Tom Cruise makes it look so easy](http://9gag.com/gag/axyR8q1)
- - 👉 [#cultural reference](http://9gag.com/gag/aW4bAGn)<!-- MEMES:END -->
+ - 👉 [Pablo crab](http://9gag.com/gag/ae9mzKO)<!-- MEMES:END -->
 
 ---
 

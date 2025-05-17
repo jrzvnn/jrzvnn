@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic asks judge to make Apple let Fortnite back on the US App Store](https://www.theverge.com/news/669047/epic-fortnite-filing-apple-app-store-review-order)
+ - [The Verge&amp;#8217;s 2025 graduation gift guide](https://www.theverge.com/tech/660700/best-graduation-gift-ideas)
  - [9 Best Digital Notebooks, Tablets, and Smart Pens &lpar;2025&rpar;](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/)
  - [5 Best Folding Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-folding-phones/)
- - [12 Best Sunscreens, WIRED Tested and Reviewed](https://www.wired.com/gallery/best-sunscreens/)
- - [It’s time for Logitech to make a real Forever Mouse](https://www.theverge.com/tech/667173/logitech-forever-mouse-ifixit-repair-parts-editorial)
- - [Huawei’s first trifold is a great phone that you shouldn’t buy](https://www.theverge.com/huawei/667574/huawei-mate-xt-review-trifold-phone)<!-- TECH:END -->
+ - [12 Best Sunscreens, WIRED Tested and Reviewed](https://www.wired.com/gallery/best-sunscreens/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

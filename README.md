@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [WTF Nature #119](http://9gag.com/gag/amoMKvv)
  - 💣 [Lemons](http://9gag.com/gag/aryq9dB)
  - 😝 [OCD Gamers unite! \ud83c\udfae\ud83e\uddd1\ud83c\udffd\ud83c\udfa8](http://9gag.com/gag/a2v29Vd)
- - 👉 [Need this](http://9gag.com/gag/a9y2ZeZ)<!-- MEMES:END -->
+ - 👉 [2days for this shit](http://9gag.com/gag/ae9mqEv)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase Will Reimburse Customers Up to $400 Million After Data Breach](https://www.wired.com/story/coinbase-will-reimburse-customers-up-to-400-million-after-data-breach/)
- - [WiiM Intros Sonos-Killing Smart Speaker and Apple and Google Get More Accessible—Gear News of the Week](https://www.wired.com/story/apple-and-googles-accessibility-tech-a-sony-xperia-and-huawei-watches-your-gear-news-of-the-week/)
- - [Analysis: China imported a record $30.9B in chipmaking equipment in 2024, including $9.63B from Japan, $9.53B from the Netherlands, and $4.86B from Singapore &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250517/p8#a250517p8)
- - [Best Early Memorial Day Mattress Deals &lpar;2025&rpar;](https://www.wired.com/story/best-early-memorial-day-mattress-sales/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for May 17, #440](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-17-440/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Most Father&#39;s Day Gifts Are Junk. We Found the Ones Truly Worthy of Dad](https://www.cnet.com/tech/best-fathers-day-gifts/#ftag=CAD590a51e)
+ - [Here&#39;s How You Can Play Every Doom Game After Finishing Dark Ages](https://www.cnet.com/tech/services-and-software/heres-how-you-can-play-every-doom-game-after-finishing-dark-ages/#ftag=CAD590a51e)
+ - [Is Elon Musk Really Stepping Back from DOGE?](https://www.wired.com/story/uncanny-valley-podcast-elon-musk-stepping-back-from-doge/)
+ - [The 44 Best Movies on Netflix Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 44 Best Shows on Netflix Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

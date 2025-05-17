@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Clinging to old things like it&#39;s a loyalty contest](http://9gag.com/gag/aAy2L0o)
  - 😝 [When Dad&#39;s selfie game gets a doggy upgrade](http://9gag.com/gag/a4P2BL6)
- - 💣 [We tried to warn you, but you didn&#39;t listen.](http://9gag.com/gag/a5Q2ArG)
- - 😝 [OCD Gamers unite! \ud83c\udfae\ud83e\uddd1\ud83c\udffd\ud83c\udfa8](http://9gag.com/gag/a2v29Vd)
- - 👉 [Bad life choices #2](http://9gag.com/gag/aryq9Ly)<!-- MEMES:END -->
+ - 💣 [Bad life choices #2](http://9gag.com/gag/aryq9Ly)
+ - 😝 [Tom Cruise makes it look so easy](http://9gag.com/gag/axyR8q1)
+ - 👉 [We tried to warn you, but you didn&#39;t listen.](http://9gag.com/gag/a5Q2ArG)<!-- MEMES:END -->
 
 ---
 

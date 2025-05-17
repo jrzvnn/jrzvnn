@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Early Memorial Day Mattress Deals &lpar;2025&rpar;](https://www.wired.com/story/best-early-memorial-day-mattress-sales/)
  - [Deep dive on the evolution of Microsoft&#39;s relationship with OpenAI, from its $1B investment in 2019 through Copilot rollouts and ChatGPT&#39;s launch to present day &lpar;Bloomberg&rpar;](http://www.techmeme.com/250517/p7#a250517p7)
  - [Carta: VC deals are stalling at seed, with the Series A deal count falling by 79% between Q1 2022 and Q1 2025; 46% of seed deals were bridge rounds in Q1 2025 &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250517/p6#a250517p6)
  - [Tariffs or Not, I&#39;m Still Glad I Bought an iPhone 16 Pro Before Summer](https://www.cnet.com/personal-finance/taxes/tariffs-or-not-im-still-glad-i-bought-an-iphone-16-pro-before-summer/#ftag=CAD590a51e)
- - [London-based Granola, which provides an AI-based notetaking app, raised a $43M Series B led by NFDG at a $250M valuation, taking its total funding to $67M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250517/p5#a250517p5)
- - [New Visa Scam Targeting Middle Eastern College Students Is on the Rise. Here&#39;s How to Spot It](https://www.cnet.com/tech/services-and-software/new-visa-scam-targeting-middle-eastern-college-students-is-on-the-rise-heres-how-to-spot-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [London-based Granola, which provides an AI-based notetaking app, raised a $43M Series B led by NFDG at a $250M valuation, taking its total funding to $67M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250517/p5#a250517p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

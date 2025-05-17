@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [She\u2019s a keeper](http://9gag.com/gag/a6Z2eR8)
- - 😝 [#cultural reference](http://9gag.com/gag/aW4bAGn)
- - 💣 [We tried to warn you, but you didn&#39;t listen.](http://9gag.com/gag/a5Q2ArG)
+ - 😝 [We tried to warn you, but you didn&#39;t listen.](http://9gag.com/gag/a5Q2ArG)
+ - 💣 [#cultural reference](http://9gag.com/gag/aW4bAGn)
  - 😝 [Tom Cruise makes it look so easy](http://9gag.com/gag/axyR8q1)
  - 👉 [Pablo crab](http://9gag.com/gag/ae9mzKO)<!-- MEMES:END -->
 

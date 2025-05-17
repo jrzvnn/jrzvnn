@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lemons](http://9gag.com/gag/aryq9dB)
- - 😝 [Crazy biker in a SAAB jersey. Cops put him in his place.](http://9gag.com/gag/a1m2np8)
- - 💣 [Clinging to old things like it&#39;s a loyalty contest](http://9gag.com/gag/aAy2L0o)
+ - 😝 [She\u2019s a keeper](http://9gag.com/gag/a6Z2eR8)
+ - 😝 [Clinging to old things like it&#39;s a loyalty contest](http://9gag.com/gag/aAy2L0o)
+ - 💣 [Crazy biker in a SAAB jersey. Cops put him in his place.](http://9gag.com/gag/a1m2np8)
  - 😝 [OCD Gamers unite! \ud83c\udfae\ud83e\uddd1\ud83c\udffd\ud83c\udfa8](http://9gag.com/gag/a2v29Vd)
  - 👉 [Bad life choices #2](http://9gag.com/gag/aryq9Ly)<!-- MEMES:END -->
 

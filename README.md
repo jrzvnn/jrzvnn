@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Choose a Router &lpar;2025&rpar;: Tips, Technical Terms, and Advice](https://www.wired.com/story/how-to-buy-a-router/)
  - [Government officials and experts say there have been dozens of recorded crypto-related abductions globally over the past year; France saw five in recent months &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250518/p9#a250518p9)
  - [The 13 Best Fans, Editor Tested &amp; Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-fans/)
  - [Crime blotter: Two sentenced in AirPod theft scheme](https://appleinsider.com/articles/25/05/18/crime-blotter-two-sentenced-in-airpod-theft-scheme?utm_medium=rss)
- - [New Viral Airbike Looks Like a Star Wars Speeder Bike](https://www.cnet.com/roadshow/news/new-viral-airbike-looks-like-a-star-wars-speeder-bike/#ftag=CAD590a51e)
- - [2.4GHz vs. 5GHz Wi-Fi: Which Wi-Fi Band Is Right for Your Home?](https://www.cnet.com/home/internet/wi-fi-2-4ghz-vs-5ghz-which-wi-fi-band-is-right-for-your-home/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New Viral Airbike Looks Like a Star Wars Speeder Bike](https://www.cnet.com/roadshow/news/new-viral-airbike-looks-like-a-star-wars-speeder-bike/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

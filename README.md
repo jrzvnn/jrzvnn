@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cohere Health, which uses AI to provide prior authorization for health plans, raised a $90M Series C led by Temasek, taking its total funding to ~$200M &lpar;Noah Tong/Fierce Healthcare&rpar;](http://www.techmeme.com/250518/p5#a250518p5)
  - [NYC-based Optimal Dynamics, a provider of AI-powered fleet management software to trucking companies, raised a $40M Series C led by Koch Disruptive Technologies &lpar;Marc Vartabedian/Wall Street Journal&rpar;](http://www.techmeme.com/250518/p4#a250518p4)
  - [About 30% of South Korean schools have adopted AI-powered digital textbooks since the country&#39;s education ministry began a full-scale rollout in March 2025 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250518/p3#a250518p3)
  - [Somite AI, which is developing AI foundation models for stem cell therapies, raised a $47M+ Series A led by Khosla Ventures, taking its total funding to ~$60M &lpar;Gil Press/Forbes&rpar;](http://www.techmeme.com/250518/p2#a250518p2)
- - [Addepar, which provides wealth management software, raised a $230M Series G co-led by Vitruvian Partners and WestCap at a $3.25B valuation, up from $2B in 2021 &lpar;Lawrence White/Reuters&rpar;](http://www.techmeme.com/250518/p1#a250518p1)
- - [London-based Origin, which offers software to help HR teams administer employee benefits, emerges from stealth with a $21M Series A led by Felix Capital &lpar;Lucy Adams/Tech.eu&rpar;](http://www.techmeme.com/250517/p18#a250517p18)<!-- TECH:END -->
+ - [Addepar, which provides wealth management software, raised a $230M Series G co-led by Vitruvian Partners and WestCap at a $3.25B valuation, up from $2B in 2021 &lpar;Lawrence White/Reuters&rpar;](http://www.techmeme.com/250518/p1#a250518p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

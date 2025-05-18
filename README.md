@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Stronk too](http://9gag.com/gag/aPAQLOV)
  - 😝 [Literally](http://9gag.com/gag/aD2V57B)
- - 😝 [Naruto: A short summary](http://9gag.com/gag/aW4byA3)
- - 💣 [That moment when Lance Strolovich qualifies higher than you.](http://9gag.com/gag/aGyAv4X)
- - 😝 [Like the old days](http://9gag.com/gag/ae9mwvm)
+ - 💣 [Naruto: A short summary](http://9gag.com/gag/aW4byA3)
+ - 😝 [That moment when Lance Strolovich qualifies higher than you.](http://9gag.com/gag/aGyAv4X)
  - 👉 [Matrix is coming](http://9gag.com/gag/ae9mwKW)<!-- MEMES:END -->
 
 ---

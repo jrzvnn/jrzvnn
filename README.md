@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [An interview with GitHub CEO Thomas Dohmke and CPO Mario Rodriguez on the year of SWE agents, Copilot phase two, Project Padawan, programming&#39;s future, and more &lpar;Frederic Lardinois/The New Stack&rpar;](http://www.techmeme.com/250518/p12#a250518p12)
  - [Here are the best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [&#39;Love Island USA&#39; Season 7: Release Date and Time on Peacock](https://www.cnet.com/tech/services-and-software/love-island-usa-season-7-release-date-and-time-on-peacock/#ftag=CAD590a51e)
  - [China begins assembling its supercomputer in space](https://www.theverge.com/news/669157/china-begins-assembling-its-supercomputer-in-space)
- - [Serie A Italian Soccer Livestream: How to Watch Parma vs. Napoli From Anywhere](https://www.cnet.com/tech/services-and-software/serie-a-italian-soccer-livestream-how-to-watch-parma-vs-napoli-from-anywhere/#ftag=CAD590a51e)
- - [Serie A Italian Soccer Livestream: How to Watch Inter Milan vs. Lazio From Anywhere](https://www.cnet.com/tech/services-and-software/serie-a-italian-soccer-livestream-how-to-watch-inter-milan-vs-lazio-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Serie A Italian Soccer Livestream: How to Watch Parma vs. Napoli From Anywhere](https://www.cnet.com/tech/services-and-software/serie-a-italian-soccer-livestream-how-to-watch-parma-vs-napoli-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

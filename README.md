@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [If job descriptions were honest](http://9gag.com/gag/aYQq6r2)
  - 😝 [Stop noticing](http://9gag.com/gag/aoyLGvn)
- - 😝 [From 164kg to 99kg, still fat, but less](http://9gag.com/gag/a1m2nM2)
- - 💣 [When life imitates art...literally](http://9gag.com/gag/aND4Mv4)
+ - 💣 [From 164kg to 99kg, still fat, but less](http://9gag.com/gag/a1m2nM2)
  - 😝 [Tom Cruise makes it look so easy](http://9gag.com/gag/axyR8q1)
- - 👉 [Ooooh look! It&#39;s a stra...wtf](http://9gag.com/gag/aW4byOx)<!-- MEMES:END -->
+ - 👉 [When life imitates art...literally](http://9gag.com/gag/aND4Mv4)<!-- MEMES:END -->
 
 ---
 

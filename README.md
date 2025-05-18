@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How the Signal Knockoff App TeleMessage Got Hacked in 20 Minutes](https://www.wired.com/story/how-the-signal-knock-off-app-telemessage-got-hacked-in-20-minutes/)
- - [13 Natural, Expert-Recommended Ways to Soothe Allergies at Home](https://www.cnet.com/health/medical/natural-expert-recommended-ways-soothe-allergies-at-home/#ftag=CAD590a51e)
- - [Premier League Soccer: Stream West Ham vs. Nottingham Forest Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-west-ham-vs-nottingham-forest-live-from-anywhere/#ftag=CAD590a51e)
  - [&#39;The Last of Us&#39; Is On Tonight: When to Watch Season 2, Episode 6](https://www.cnet.com/tech/services-and-software/the-last-of-us-is-on-tonight-when-to-watch-season-2-episode-6/#ftag=CAD590a51e)
- - [Before Apple&#39;s Expected iOS 19 Reveal, Here&#39;s What to Know About iOS 18.5](https://www.cnet.com/tech/services-and-software/before-apples-expected-ios-19-reveal-heres-what-to-know-about-ios-18-5/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Before Apple&#39;s Expected iOS 19 Reveal, Here&#39;s What to Know About iOS 18.5](https://www.cnet.com/tech/services-and-software/before-apples-expected-ios-19-reveal-heres-what-to-know-about-ios-18-5/#ftag=CAD590a51e)
+ - [Polestar 4 2025 Review: Prices, Specs, Availability](https://www.wired.com/review/review-polestar-4/)
+ - [Venture Intelligence: Indian deep tech startups have raised $4.7B since 2014, accounting for just 3.2% of Indian startup funding, signaling a sector-wide crunch &lpar;Sayan Chakraborty/Nikkei Asia&rpar;](http://www.techmeme.com/250518/p8#a250518p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

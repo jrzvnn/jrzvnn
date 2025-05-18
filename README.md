@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Waking from a fever-dream](http://9gag.com/gag/axyRK9n)
  - 💣 [She\u2019s a keeper](http://9gag.com/gag/a6Z2eR8)
  - 😝 [Tom Cruise makes it look so easy](http://9gag.com/gag/axyR8q1)
- - 👉 [Ooooh look! It&#39;s a stra...wtf](http://9gag.com/gag/aW4byOx)<!-- MEMES:END -->
+ - 👉 [Stop noticing](http://9gag.com/gag/aoyLGvn)<!-- MEMES:END -->
 
 ---
 

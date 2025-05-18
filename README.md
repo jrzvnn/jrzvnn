@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Somite AI, which is developing AI foundation models for stem cell therapies, raised a $47M+ Series A led by Khosla Ventures, taking its total funding to ~$60M &lpar;Gil Press/Forbes&rpar;](http://www.techmeme.com/250518/p2#a250518p2)
  - [Addepar, which provides wealth management software, raised a $230M Series G co-led by Vitruvian Partners and WestCap at a $3.25B valuation, up from $2B in 2021 &lpar;Lawrence White/Reuters&rpar;](http://www.techmeme.com/250518/p1#a250518p1)
  - [London-based Origin, which offers software to help HR teams administer employee benefits, emerges from stealth with a $21M Series A led by Felix Capital &lpar;Lucy Adams/Tech.eu&rpar;](http://www.techmeme.com/250517/p18#a250517p18)
  - [A Fireblocks survey of 295 finance executives: 49% say their institutions use stablecoins in payments, 23% are testing them, and 18% are in the planning stages &lpar;Ezra Reguerra/Cointelegraph&rpar;](http://www.techmeme.com/250517/p17#a250517p17)
- - [An analysis of YouTube&#39;s new weekly ranking of top podcasts in the US by watch time shows many popular and well-established podcasts did not rank in the top 100 &lpar;Jessica Testa/New York Times&rpar;](http://www.techmeme.com/250517/p16#a250517p16)
- - [Chinese startups are highlighting their roots instead of downplaying them as they grow overseas, fueled by the success of Chinese social media apps and DeepSeek &lpar;Kinling Lo/Rest of World&rpar;](http://www.techmeme.com/250517/p15#a250517p15)<!-- TECH:END -->
+ - [An analysis of YouTube&#39;s new weekly ranking of top podcasts in the US by watch time shows many popular and well-established podcasts did not rank in the top 100 &lpar;Jessica Testa/New York Times&rpar;](http://www.techmeme.com/250517/p16#a250517p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

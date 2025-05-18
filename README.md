@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NYC-based Optimal Dynamics, a provider of AI-powered fleet management software to trucking companies, raised a $40M Series C led by Koch Disruptive Technologies &lpar;Marc Vartabedian/Wall Street Journal&rpar;](http://www.techmeme.com/250518/p4#a250518p4)
+ - [About 30% of South Korean schools have adopted AI-powered digital textbooks since the country&#39;s education ministry began a full-scale rollout in March 2025 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250518/p3#a250518p3)
  - [Somite AI, which is developing AI foundation models for stem cell therapies, raised a $47M+ Series A led by Khosla Ventures, taking its total funding to ~$60M &lpar;Gil Press/Forbes&rpar;](http://www.techmeme.com/250518/p2#a250518p2)
  - [Addepar, which provides wealth management software, raised a $230M Series G co-led by Vitruvian Partners and WestCap at a $3.25B valuation, up from $2B in 2021 &lpar;Lawrence White/Reuters&rpar;](http://www.techmeme.com/250518/p1#a250518p1)
- - [London-based Origin, which offers software to help HR teams administer employee benefits, emerges from stealth with a $21M Series A led by Felix Capital &lpar;Lucy Adams/Tech.eu&rpar;](http://www.techmeme.com/250517/p18#a250517p18)
- - [A Fireblocks survey of 295 finance executives: 49% say their institutions use stablecoins in payments, 23% are testing them, and 18% are in the planning stages &lpar;Ezra Reguerra/Cointelegraph&rpar;](http://www.techmeme.com/250517/p17#a250517p17)
- - [An analysis of YouTube&#39;s new weekly ranking of top podcasts in the US by watch time shows many popular and well-established podcasts did not rank in the top 100 &lpar;Jessica Testa/New York Times&rpar;](http://www.techmeme.com/250517/p16#a250517p16)<!-- TECH:END -->
+ - [London-based Origin, which offers software to help HR teams administer employee benefits, emerges from stealth with a $21M Series A led by Felix Capital &lpar;Lucy Adams/Tech.eu&rpar;](http://www.techmeme.com/250517/p18#a250517p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

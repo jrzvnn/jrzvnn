@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China begins assembling its supercomputer in space](https://www.theverge.com/news/669157/china-begins-assembling-its-supercomputer-in-space)
  - [Serie A Italian Soccer Livestream: How to Watch Parma vs. Napoli From Anywhere](https://www.cnet.com/tech/services-and-software/serie-a-italian-soccer-livestream-how-to-watch-parma-vs-napoli-from-anywhere/#ftag=CAD590a51e)
  - [Serie A Italian Soccer Livestream: How to Watch Inter Milan vs. Lazio From Anywhere](https://www.cnet.com/tech/services-and-software/serie-a-italian-soccer-livestream-how-to-watch-inter-milan-vs-lazio-from-anywhere/#ftag=CAD590a51e)
  - [How a hacker breached the Signal knockoff app TeleMessage in about 20 minutes thanks to a basic misconfiguration, leading to sensitive data spilling out &lpar;Micah Lee/Wired&rpar;](http://www.techmeme.com/250518/p11#a250518p11)
- - [21 Best High School Graduation Gifts &lpar;2025&rpar;](https://www.wired.com/gallery/best-high-school-graduation-gift-ideas-2025/)
- - [I used two GPS hiking apps for backpacking and I’ll do it again](https://www.theverge.com/hands-on/668845/all-trails-gaia-gps-cal-topo-backpacking-review)<!-- TECH:END -->
+ - [21 Best High School Graduation Gifts &lpar;2025&rpar;](https://www.wired.com/gallery/best-high-school-graduation-gift-ideas-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

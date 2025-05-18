@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When life imitates art...literally](http://9gag.com/gag/aND4Mv4)
  - 😝 [Stronk too](http://9gag.com/gag/aPAQLOV)
+ - 😝 [10 gb more for 2 new skins](http://9gag.com/gag/a7o2XOw)
  - 💣 [Ooooh look! It&#39;s a stra...wtf](http://9gag.com/gag/aW4byOx)
  - 😝 [I will bring the holy water](http://9gag.com/gag/aoyL6Qw)
  - 👉 [Naruto: A short summary](http://9gag.com/gag/aW4byA3)<!-- MEMES:END -->

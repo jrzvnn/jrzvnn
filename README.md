@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;ll just leave it here for the future generation.](http://9gag.com/gag/awyd2mD)
- - 😝 [Literally](http://9gag.com/gag/aD2V57B)
- - 💣 [Naruto: A short summary](http://9gag.com/gag/aW4byA3)
- - 😝 [That moment when Lance Strolovich qualifies higher than you.](http://9gag.com/gag/aGyAv4X)
+ - 😝 [There is no constancy in flesh, only decay](http://9gag.com/gag/aKGe5ON)
+ - 😝 [Naruto: A short summary](http://9gag.com/gag/aW4byA3)
+ - 💣 [That moment when Lance Strolovich qualifies higher than you.](http://9gag.com/gag/aGyAv4X)
+ - 😝 [When buying a seat turns into a courtroom drama](http://9gag.com/gag/a5Q2Y7E)
  - 👉 [Matrix is coming](http://9gag.com/gag/ae9mwKW)<!-- MEMES:END -->
 
 ---

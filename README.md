@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Venture Intelligence: Indian deep tech startups have raised $4.7B since 2014, accounting for just 3.2% of Indian startup funding, signaling a sector-wide crunch &lpar;Sayan Chakraborty/Nikkei Asia&rpar;](http://www.techmeme.com/250518/p8#a250518p8)
+ - [Premier League Soccer: Stream Everton vs. Southampton From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-everton-vs-southampton-from-anywhere/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 18, #237](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-18-237/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword Answers for Sunday, May 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-may-18/#ftag=CAD590a51e)
- - [AI deals that the US struck with the UAE and Saudi Arabia reinforce its AI leadership, but raise security concerns that the US can mitigate through safeguards &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/250518/p7#a250518p7)
- - [Nvidia&#39;s deals with Saudi Arabia&#39;s Humain and the UAE&#39;s G42 highlight its strategy to diversify beyond Big Tech customers by partnering with nation states &lpar;Financial Times&rpar;](http://www.techmeme.com/250518/p6#a250518p6)<!-- TECH:END -->
+ - [AI deals that the US struck with the UAE and Saudi Arabia reinforce its AI leadership, but raise security concerns that the US can mitigate through safeguards &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/250518/p7#a250518p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Naruto: A short summary](http://9gag.com/gag/aW4byA3)
  - 😝 [I&#39;ll just leave it here for the future generation.](http://9gag.com/gag/awyd2mD)
- - 💣 [LOL\ud83e\udd23](http://9gag.com/gag/ayNRwzY)
- - 😝 [Like the old days](http://9gag.com/gag/ae9mwvm)
+ - 😝 [When love doesn&#39;t pay dividends.](http://9gag.com/gag/aoyL7jw)
+ - 💣 [Random seggs knowledge](http://9gag.com/gag/aND4bZr)
+ - 😝 [LOL\ud83e\udd23](http://9gag.com/gag/ayNRwzY)
  - 👉 [Matrix is coming](http://9gag.com/gag/ae9mwKW)<!-- MEMES:END -->
 
 ---

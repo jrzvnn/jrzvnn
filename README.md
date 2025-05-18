@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Waking from a fever-dream](http://9gag.com/gag/axyRK9n)
- - 😝 [She\u2019s a keeper](http://9gag.com/gag/a6Z2eR8)
- - 💣 [When life imitates art...literally](http://9gag.com/gag/aND4Mv4)
+ - 😝 [When life imitates art...literally](http://9gag.com/gag/aND4Mv4)
+ - 😝 [That moment when Lance Strolovich qualifies higher than you.](http://9gag.com/gag/aGyAv4X)
+ - 💣 [Stop noticing](http://9gag.com/gag/aoyLGvn)
  - 😝 [Tom Cruise makes it look so easy](http://9gag.com/gag/axyR8q1)
- - 👉 [Stop noticing](http://9gag.com/gag/aoyLGvn)<!-- MEMES:END -->
+ - 👉 [From 164kg to 99kg, still fat, but less](http://9gag.com/gag/a1m2nM2)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An analysis of YouTube&#39;s new weekly ranking of top podcasts in the US by watch time shows many popular and well-established podcasts did not rank in the top 100 &lpar;Jessica Testa/New York Times&rpar;](http://www.techmeme.com/250517/p16#a250517p16)
  - [Chinese startups are highlighting their roots instead of downplaying them as they grow overseas, fueled by the success of Chinese social media apps and DeepSeek &lpar;Kinling Lo/Rest of World&rpar;](http://www.techmeme.com/250517/p15#a250517p15)
  - [TikTok&#39;s Raunchy Love Letter to the National Parks Might Actually Save Them](https://www.cnet.com/news/social-media/tiktoks-raunchy-love-letter-to-the-national-parks-might-actually-save-them/#ftag=CAD590a51e)
  - [Amazon claims it’s ‘constantly inviting’ new customers to Alexa Plus](https://www.theverge.com/news/669158/amazon-claims-its-constantly-inviting-new-customers-to-alexa-plus)
- - [Q&amp;A with Nintendo of America President Doug Bowser on Switch 2 pricing backlash, physical games&#39; importance to its business despite Game-Key cards, and more &lpar;Logan Plant/IGN&rpar;](http://www.techmeme.com/250517/p14#a250517p14)
- - [When to Stream &#39;Captain America: Brave New World&#39; on Disney Plus](https://www.cnet.com/tech/services-and-software/when-to-stream-captain-america-brave-new-world-on-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with Nintendo of America President Doug Bowser on Switch 2 pricing backlash, physical games&#39; importance to its business despite Game-Key cards, and more &lpar;Logan Plant/IGN&rpar;](http://www.techmeme.com/250517/p14#a250517p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

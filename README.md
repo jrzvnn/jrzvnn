@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [London-based Origin, which offers software to help HR teams administer employee benefits, emerges from stealth with a $21M Series A led by Felix Capital &lpar;Lucy Adams/Tech.eu&rpar;](http://www.techmeme.com/250517/p18#a250517p18)
  - [A Fireblocks survey of 295 finance executives: 49% say their institutions use stablecoins in payments, 23% are testing them, and 18% are in the planning stages &lpar;Ezra Reguerra/Cointelegraph&rpar;](http://www.techmeme.com/250517/p17#a250517p17)
  - [An analysis of YouTube&#39;s new weekly ranking of top podcasts in the US by watch time shows many popular and well-established podcasts did not rank in the top 100 &lpar;Jessica Testa/New York Times&rpar;](http://www.techmeme.com/250517/p16#a250517p16)
  - [Chinese startups are highlighting their roots instead of downplaying them as they grow overseas, fueled by the success of Chinese social media apps and DeepSeek &lpar;Kinling Lo/Rest of World&rpar;](http://www.techmeme.com/250517/p15#a250517p15)
- - [TikTok&#39;s Raunchy Love Letter to the National Parks Might Actually Save Them](https://www.cnet.com/news/social-media/tiktoks-raunchy-love-letter-to-the-national-parks-might-actually-save-them/#ftag=CAD590a51e)
- - [Amazon claims it’s ‘constantly inviting’ new customers to Alexa Plus](https://www.theverge.com/news/669158/amazon-claims-its-constantly-inviting-new-customers-to-alexa-plus)<!-- TECH:END -->
+ - [TikTok&#39;s Raunchy Love Letter to the National Parks Might Actually Save Them](https://www.cnet.com/news/social-media/tiktoks-raunchy-love-letter-to-the-national-parks-might-actually-save-them/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

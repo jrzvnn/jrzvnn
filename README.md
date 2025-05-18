@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;The Last of Us&#39; Is On Tonight: When to Watch Season 2, Episode 6](https://www.cnet.com/tech/services-and-software/the-last-of-us-is-on-tonight-when-to-watch-season-2-episode-6/#ftag=CAD590a51e)
+ - [Before Apple&#39;s Expected iOS 19 Reveal, Here&#39;s What to Know About iOS 18.5](https://www.cnet.com/tech/services-and-software/before-apples-expected-ios-19-reveal-heres-what-to-know-about-ios-18-5/#ftag=CAD590a51e)
  - [Polestar 4 2025 Review: Prices, Specs, Availability](https://www.wired.com/review/review-polestar-4/)
  - [Venture Intelligence: Indian deep tech startups have raised $4.7B since 2014, accounting for just 3.2% of Indian startup funding, signaling a sector-wide crunch &lpar;Sayan Chakraborty/Nikkei Asia&rpar;](http://www.techmeme.com/250518/p8#a250518p8)
- - [Premier League Soccer: Stream Everton vs. Southampton From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-everton-vs-southampton-from-anywhere/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 18, #237](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-18-237/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, May 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-may-18/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Premier League Soccer: Stream Everton vs. Southampton From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-everton-vs-southampton-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

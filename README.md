@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Stronk too](http://9gag.com/gag/aPAQLOV)
  - 💣 [Ooooh look! It&#39;s a stra...wtf](http://9gag.com/gag/aW4byOx)
  - 😝 [I will bring the holy water](http://9gag.com/gag/aoyL6Qw)
- - 👉 [He might be an alpha male.](http://9gag.com/gag/a342rZv)<!-- MEMES:END -->
+ - 👉 [Naruto: A short summary](http://9gag.com/gag/aW4byA3)<!-- MEMES:END -->
 
 ---
 

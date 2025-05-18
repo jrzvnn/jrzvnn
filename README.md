@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Matrix is coming](http://9gag.com/gag/ae9mwKW)
+ - 😝 [LOL\ud83e\udd23](http://9gag.com/gag/ayNRwzY)
  - 😝 [The Hyundai looks more like a Chrysler Imperial](http://9gag.com/gag/a1m2jj8)
- - 💣 [LOL\ud83e\udd23](http://9gag.com/gag/ayNRwzY)
- - 😝 [10 gb more for 2 new skins](http://9gag.com/gag/a7o2XOw)
+ - 💣 [10 gb more for 2 new skins](http://9gag.com/gag/a7o2XOw)
+ - 😝 [Noiice](http://9gag.com/gag/aoyL733)
  - 👉 [Truly impeccable](http://9gag.com/gag/aD2V5xK)<!-- MEMES:END -->
 
 ---

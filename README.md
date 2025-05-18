@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with GitHub CEO Thomas Dohmke and CPO Mario Rodriguez on the year of SWE agents, Copilot phase two, Project Padawan, programming&#39;s future, and more &lpar;Frederic Lardinois/The New Stack&rpar;](http://www.techmeme.com/250518/p12#a250518p12)
  - [Here are the best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
  - [China begins assembling its supercomputer in space](https://www.theverge.com/news/669157/china-begins-assembling-its-supercomputer-in-space)
  - [Serie A Italian Soccer Livestream: How to Watch Parma vs. Napoli From Anywhere](https://www.cnet.com/tech/services-and-software/serie-a-italian-soccer-livestream-how-to-watch-parma-vs-napoli-from-anywhere/#ftag=CAD590a51e)
- - [Serie A Italian Soccer Livestream: How to Watch Inter Milan vs. Lazio From Anywhere](https://www.cnet.com/tech/services-and-software/serie-a-italian-soccer-livestream-how-to-watch-inter-milan-vs-lazio-from-anywhere/#ftag=CAD590a51e)
- - [How a hacker breached the Signal knockoff app TeleMessage in about 20 minutes thanks to a basic misconfiguration, leading to sensitive data spilling out &lpar;Micah Lee/Wired&rpar;](http://www.techmeme.com/250518/p11#a250518p11)<!-- TECH:END -->
+ - [Serie A Italian Soccer Livestream: How to Watch Inter Milan vs. Lazio From Anywhere](https://www.cnet.com/tech/services-and-software/serie-a-italian-soccer-livestream-how-to-watch-inter-milan-vs-lazio-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

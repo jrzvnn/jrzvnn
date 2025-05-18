@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How the crypto industry is adapting to the recent wave of kidnappings, from more extensive security around conferences, to a rise in personal bodyguards, more &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/250518/p18#a250518p18)
  - [Some parent groups are hosting Alternative Device Fairs, showcasing phones with limited features, social media blocks, and AI-powered content filters &lpar;Kaitlyn Tiffany/The Atlantic&rpar;](http://www.techmeme.com/250518/p17#a250518p17)
  - [Sources: Cyera is raising $500M led by Lightspeed, Greenoaks and Georgian in a round valuing the data security company at $6B, up from 2024&#39;s $3.4B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250518/p16#a250518p16)
  - [Gurman: Apple is &quot;unlikely&quot; to spend much time discussing Siri at WWDC and is preparing to separate the Apple Intelligence brand from Siri in marketing &lpar;Michael Burkhardt/9to5Mac&rpar;](http://www.techmeme.com/250518/p15#a250518p15)
- - [SiriGPT: Apple&#39;s chiefs hope to add full chatbot functionality to Siri, eventually](https://appleinsider.com/articles/25/05/18/sirigpt-apples-chiefs-hope-to-add-full-chatbot-functionality-to-siri-eventually?utm_medium=rss)
- - [Apple may let EU users shift from Siri to other voice assistants](https://appleinsider.com/articles/25/05/18/apple-may-let-eu-users-shift-from-siri-to-other-voice-assistants?utm_medium=rss)<!-- TECH:END -->
+ - [SiriGPT: Apple&#39;s chiefs hope to add full chatbot functionality to Siri, eventually](https://appleinsider.com/articles/25/05/18/sirigpt-apples-chiefs-hope-to-add-full-chatbot-functionality-to-siri-eventually?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

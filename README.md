@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [10 Great Horror Movies to Watch on Prime Video Tonight](https://www.cnet.com/tech/services-and-software/10-great-horror-movies-to-watch-on-prime-video-tonight/#ftag=CAD590a51e)
  - [Camera-equipped AirPods coming in 2026, lighter AirPods Max in 2027](https://appleinsider.com/articles/25/05/18/camera-equipped-airpods-coming-in-2026-lighter-airpods-max-in-2027?utm_medium=rss)
  - [Amazon&#39;s Memorial Day Sale slashes up to 43% off AirPods, Apple Watch, iPads, Beats, Mac](https://appleinsider.com/articles/25/05/18/amazons-memorial-day-sale-slashes-up-to-43-off-airpods-apple-watch-ipads-beats-mac?utm_medium=rss)
  - [Premier League Soccer: Stream Leicester vs. Ipswich Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-leicester-vs-ipswich-live-from-anywhere/#ftag=CAD590a51e)
- - [An interview with GitHub CEO Thomas Dohmke and CPO Mario Rodriguez on the year of SWE agents, Copilot phase two, Project Padawan, programming&#39;s future, and more &lpar;Frederic Lardinois/The New Stack&rpar;](http://www.techmeme.com/250518/p12#a250518p12)
- - [TikTok&#39;s Raunchy Love Letter to the National Parks Might Actually Save Them](https://www.cnet.com/news/social-media/tiktoks-raunchy-love-letter-to-the-national-parks-might-actually-save-them/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An interview with GitHub CEO Thomas Dohmke and CPO Mario Rodriguez on the year of SWE agents, Copilot phase two, Project Padawan, programming&#39;s future, and more &lpar;Frederic Lardinois/The New Stack&rpar;](http://www.techmeme.com/250518/p12#a250518p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

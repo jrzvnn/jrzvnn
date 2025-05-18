@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [When life imitates art...literally](http://9gag.com/gag/aND4Mv4)
  - 😝 [Stronk too](http://9gag.com/gag/aPAQLOV)
  - 💣 [Ooooh look! It&#39;s a stra...wtf](http://9gag.com/gag/aW4byOx)
- - 😝 [Tom Cruise makes it look so easy](http://9gag.com/gag/axyR8q1)
- - 👉 [I will bring the holy water](http://9gag.com/gag/aoyL6Qw)<!-- MEMES:END -->
+ - 😝 [I will bring the holy water](http://9gag.com/gag/aoyL6Qw)
+ - 👉 [He might be an alpha male.](http://9gag.com/gag/a342rZv)<!-- MEMES:END -->
 
 ---
 

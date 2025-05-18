@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Venture Intelligence: Indian deep tech startups have raised $4.7B since 2014, accounting for just 3.2% of Indian startup funding, signaling a sector-wide crunch &lpar;Sayan Chakraborty/Nikkei Asia&rpar;](http://www.techmeme.com/250518/p8#a250518p8)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 18, #237](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-18-237/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword Answers for Sunday, May 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-may-18/#ftag=CAD590a51e)
  - [AI deals that the US struck with the UAE and Saudi Arabia reinforce its AI leadership, but raise security concerns that the US can mitigate through safeguards &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/250518/p7#a250518p7)
- - [Nvidia&#39;s deals with Saudi Arabia&#39;s Humain and the UAE&#39;s G42 highlight its strategy to diversify beyond Big Tech customers by partnering with nation states &lpar;Financial Times&rpar;](http://www.techmeme.com/250518/p6#a250518p6)
- - [Cohere Health, which uses AI to provide prior authorization for health plans, raised a $90M Series C led by Temasek, taking its total funding to ~$200M &lpar;Noah Tong/Fierce Healthcare&rpar;](http://www.techmeme.com/250518/p5#a250518p5)<!-- TECH:END -->
+ - [Nvidia&#39;s deals with Saudi Arabia&#39;s Humain and the UAE&#39;s G42 highlight its strategy to diversify beyond Big Tech customers by partnering with nation states &lpar;Financial Times&rpar;](http://www.techmeme.com/250518/p6#a250518p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

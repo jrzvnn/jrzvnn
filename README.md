@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources detail Apple&#39;s AI efforts, including John Giannandrea&#39;s tenure, Craig Federighi&#39;s initial lack of interest in LLMs, and its acquisitions, including Siri &lpar;Bloomberg&rpar;](http://www.techmeme.com/250518/p14#a250518p14)
+ - [Sources: Cyera is raising $500M led by Lightspeed, Greenoaks and Georgian in a round valuing the data security company at $6B, up from 2024&#39;s $3.4B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250518/p16#a250518p16)
+ - [Gurman: Apple is &quot;unlikely&quot; to spend much time discussing Siri at WWDC and is preparing to separate the Apple Intelligence brand from Siri in marketing &lpar;Michael Burkhardt/9to5Mac&rpar;](http://www.techmeme.com/250518/p15#a250518p15)
  - [SiriGPT: Apple&#39;s chiefs hope to add full chatbot functionality to Siri, eventually](https://appleinsider.com/articles/25/05/18/sirigpt-apples-chiefs-hope-to-add-full-chatbot-functionality-to-siri-eventually?utm_medium=rss)
- - [Eight workers, from a nurse dealing with hospital discharge planning algorithms to a salon owner with AI-generated hairstyles, share how AI changed their work &lpar;Marin Cogan/Bloomberg&rpar;](http://www.techmeme.com/250518/p13#a250518p13)
- - [10 Great Horror Movies to Watch on Prime Video Tonight](https://www.cnet.com/tech/services-and-software/10-great-horror-movies-to-watch-on-prime-video-tonight/#ftag=CAD590a51e)
- - [Camera-equipped AirPods coming in 2026, lighter AirPods Max in 2027](https://appleinsider.com/articles/25/05/18/camera-equipped-airpods-coming-in-2026-lighter-airpods-max-in-2027?utm_medium=rss)<!-- TECH:END -->
+ - [Apple may let EU users shift from Siri to other voice assistants](https://appleinsider.com/articles/25/05/18/apple-may-let-eu-users-shift-from-siri-to-other-voice-assistants?utm_medium=rss)
+ - [Sources detail Apple&#39;s AI efforts, including John Giannandrea&#39;s tenure, Craig Federighi&#39;s initial lack of interest in LLMs, and its acquisitions, including Siri &lpar;Bloomberg&rpar;](http://www.techmeme.com/250518/p14#a250518p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

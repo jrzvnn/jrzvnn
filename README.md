@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chime&#39;s S-1: MyPay revenue totaled $64.3M in Q1 vs. estimated credit losses from the product of $57.3M, highlighting the risks with the paycheck advance product &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/250518/p10#a250518p10)
  - [iPhone 17 Air&#39;s battery life could be the shortest in years](https://appleinsider.com/articles/25/05/18/iphone-17-airs-battery-life-could-be-the-shortest-in-years?utm_medium=rss)
  - [13 Best Soundbars We’ve Tested and Reviewed &lpar;2025&rpar;: Sonos, Sony, Bose](https://www.wired.com/gallery/best-soundbars/)
  - [How to Choose a Router &lpar;2025&rpar;: Tips, Technical Terms, and Advice](https://www.wired.com/story/how-to-buy-a-router/)
- - [Government officials and experts say there have been dozens of recorded crypto-related abductions globally over the past year; France saw five in recent months &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250518/p9#a250518p9)
- - [The 13 Best Fans, Editor Tested &amp; Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-fans/)<!-- TECH:END -->
+ - [Government officials and experts say there have been dozens of recorded crypto-related abductions globally over the past year; France saw five in recent months &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250518/p9#a250518p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

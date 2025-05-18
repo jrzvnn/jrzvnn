@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I will bring the holy water](http://9gag.com/gag/aoyL6Qw)
- - 😝 [Ooooh look! It&#39;s a stra...wtf](http://9gag.com/gag/aW4byOx)
- - 💣 [Naruto: A short summary](http://9gag.com/gag/aW4byA3)
- - 😝 [10 gb more for 2 new skins](http://9gag.com/gag/a7o2XOw)
- - 👉 [That moment when Lance Strolovich qualifies higher than you.](http://9gag.com/gag/aGyAv4X)<!-- MEMES:END -->
+ - 😝 [Literally](http://9gag.com/gag/aD2V57B)
+ - 😝 [Naruto: A short summary](http://9gag.com/gag/aW4byA3)
+ - 💣 [That moment when Lance Strolovich qualifies higher than you.](http://9gag.com/gag/aGyAv4X)
+ - 😝 [Like the old days](http://9gag.com/gag/ae9mwvm)
+ - 👉 [Matrix is coming](http://9gag.com/gag/ae9mwKW)<!-- MEMES:END -->
 
 ---
 

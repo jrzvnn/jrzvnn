@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Waking from a fever-dream](http://9gag.com/gag/axyRK9n)
- - 😝 [When life imitates art...literally](http://9gag.com/gag/aND4Mv4)
- - 💣 [Stop noticing](http://9gag.com/gag/aoyLGvn)
+ - 😝 [Stop noticing](http://9gag.com/gag/aoyLGvn)
+ - 💣 [When life imitates art...literally](http://9gag.com/gag/aND4Mv4)
  - 😝 [Tom Cruise makes it look so easy](http://9gag.com/gag/axyR8q1)
  - 👉 [From 164kg to 99kg, still fat, but less](http://9gag.com/gag/a1m2nM2)<!-- MEMES:END -->
 

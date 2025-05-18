@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Are Meal Kits Cheaper than Groceries in 2025? We Break It Down](https://www.wired.com/story/are-meal-kits-cheaper-than-groceries-in-2025/)
- - [How the Signal Knockoff App TeleMessage Got Hacked in 20 Minutes](https://www.wired.com/story/how-the-signal-knock-off-app-telemessage-got-hacked-in-20-minutes/)
- - [13 Natural, Expert-Recommended Ways to Soothe Allergies at Home](https://www.cnet.com/health/medical/natural-expert-recommended-ways-soothe-allergies-at-home/#ftag=CAD590a51e)
- - [Premier League Soccer: Stream West Ham vs. Nottingham Forest Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-west-ham-vs-nottingham-forest-live-from-anywhere/#ftag=CAD590a51e)
- - [&#39;The Last of Us&#39; Is On Tonight: When to Watch Season 2, Episode 6](https://www.cnet.com/tech/services-and-software/the-last-of-us-is-on-tonight-when-to-watch-season-2-episode-6/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Government officials and experts say there have been dozens of recorded crypto-related abductions globally over the past year; France saw five in recent months &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250518/p9#a250518p9)
+ - [The 13 Best Fans, Editor Tested &amp; Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-fans/)
+ - [Crime blotter: Two sentenced in AirPod theft scheme](https://appleinsider.com/articles/25/05/18/crime-blotter-two-sentenced-in-airpod-theft-scheme?utm_medium=rss)
+ - [New Viral Airbike Looks Like a Star Wars Speeder Bike](https://www.cnet.com/roadshow/news/new-viral-airbike-looks-like-a-star-wars-speeder-bike/#ftag=CAD590a51e)
+ - [2.4GHz vs. 5GHz Wi-Fi: Which Wi-Fi Band Is Right for Your Home?](https://www.cnet.com/home/internet/wi-fi-2-4ghz-vs-5ghz-which-wi-fi-band-is-right-for-your-home/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

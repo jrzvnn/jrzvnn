@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [#cultural reference](http://9gag.com/gag/aW4bAGn)
+ - 😝 [When life imitates art...literally](http://9gag.com/gag/aND4Mv4)
  - 😝 [Waking from a fever-dream](http://9gag.com/gag/axyRK9n)
  - 💣 [She\u2019s a keeper](http://9gag.com/gag/a6Z2eR8)
  - 😝 [Tom Cruise makes it look so easy](http://9gag.com/gag/axyR8q1)

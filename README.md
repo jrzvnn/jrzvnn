@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK plans to bring legislation to regulate BNPL services under the same rules as banks, four years after the previous government unveiled BNPL regulations &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/250519/p11#a250519p11)
- - [Apple iPhone 16E Specs vs. iPhone 15 Pro: New Entry-Level or Last Year&#39;s Pro](https://www.cnet.com/tech/mobile/apple-iphone-16e-specs-vs-iphone-15-pro-new-entry-level-or-last-years-pro/#ftag=CAD590a51e)
- - [Kia Electric Truck: What We Know So Far About the New Pickup EV](https://www.cnet.com/roadshow/news/kia-electric-truck-what-we-know-so-far-about-the-new-pickup-ev/#ftag=CAD590a51e)
- - [Regeneron Pharmaceuticals says it will acquire all of 23andMe&#39;s assets, including its Personal Genome Service, for $256M in a bankruptcy auction, closing in Q3 &lpar;Dean Seal/Wall Street Journal&rpar;](http://www.techmeme.com/250519/p10#a250519p10)
- - [How to watch Microsoft’s Build 2025 conference](https://www.theverge.com/news/669276/microsoft-build-how-to-watch-livestream-2025)<!-- TECH:END -->
+ - [Daniel Moneta from the CSA talks Matter 1.4.1 on HomeKit Insider](https://appleinsider.com/articles/25/05/19/daniel-moneta-from-the-csa-talks-matter-141-on-homekit-insider?utm_medium=rss)
+ - [12 Ways to Upgrade Your Wi-Fi and Make Your Internet Faster &lpar;2025&rpar;](https://www.wired.com/story/how-to-make-your-wifi-better-faster/)
+ - [Google I/O 2025: how to watch and what to expect](https://www.theverge.com/news/669304/google-io-2025-how-to-watch-expect-livestream-ai-android-xr)
+ - [Apple Pencil &amp; iPhone keyboard may get new features at WWDC to woo UAE](https://appleinsider.com/articles/25/05/19/apple-pencil-iphone-keyboard-may-get-new-features-at-wwdc-to-woo-uae?utm_medium=rss)
+ - [The UK says hackers breached its Legal Aid Agency to steal a &quot;significant amount of personal data&quot; from those who receive legal aid across England and Wales &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/250519/p12#a250519p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

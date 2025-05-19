@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Taiwan-based Apple supplier Hon Hai plans to inject $1.5B into its India unit via its Singaporean subsidiary, as production shifts away from China &lpar;Twinnie Siu/Bloomberg&rpar;](http://www.techmeme.com/250519/p16#a250519p16)
+ - [The Sonos Move 2 is cheaper than ever, just in time for summer](https://www.theverge.com/tech/669416/sonos-move-2-playstation-portal-deal-sale)
  - [China says the US must &quot;immediately correct its wrongdoings&quot; and stop &quot;discriminatory&quot; measures, after US guidance warning companies not to use Chinese AI chips &lpar;Reuters&rpar;](http://www.techmeme.com/250519/p15#a250519p15)
  - [TSMC&#39;s US factory shows the limits of reshoring, tariffs, and corporate welfare](https://appleinsider.com/articles/25/05/19/tsmcs-us-factory-shows-the-limits-of-reshoring-tariffs-and-corporate-welfare?utm_medium=rss)
- - [21 Best MagSafe Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-accessories/)
- - [Inside Apple&#39;s invite-only &#39;University&#39; event for student creators](https://appleinsider.com/articles/25/05/19/inside-apples-invite-only-university-event-for-student-creators?utm_medium=rss)
- - [Hiding documents under the cover of attorney-client privilege is a serious big-tech legal strategy](https://appleinsider.com/articles/25/05/19/hiding-documents-under-the-cover-of-attorney-client-privilege-is-a-serious-big-tech-legal-strategy?utm_medium=rss)<!-- TECH:END -->
+ - [Here&#39;s Everything Our Wellness Editors Actually Use to Fall Asleep](https://www.cnet.com/health/sleep/wellness-editors-favorite-sleep-essentials/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPadOS 17.7.8 quickly ships to fix iPadOS 17.7.7 glitch](https://appleinsider.com/articles/25/05/19/ipados-1778-quickly-ships-to-fix-ipados-1777-glitch?utm_medium=rss)
- - [Protesters disrupt Build keynote; one then emailed thousands of Microsoft coworkers calling the company&#39;s report on its tech&#39;s impact on Gaza civilians a &quot;lie&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250519/p29#a250519p29)
- - [Microsoft’s Edit on Windows is a new command line text editor](https://www.theverge.com/news/669318/microsoft-edit-on-windows-command-line-text-editor)
- - [DOGE Loses Battle to Take Over USIP—and Its $500 Million Headquarters](https://www.wired.com/story/usip-doge-headquarters-building-ruling/)
- - [Microsoft employee disrupts Satya Nadella’s Build conference keynote](https://www.theverge.com/news/669362/microsoft-employee-protest-build-conference-satya-nadella)<!-- TECH:END -->
+ - [LG’s brilliant C4 OLED is more than 50 percent off for Memorial Day](https://www.theverge.com/tech/669721/lg-c4-oled-tv-memorial-day-2025-deal-sale)
+ - [Microsoft adds Grok 3 and Grok 3 mini to its Azure AI Foundry service &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250519/p30#a250519p30)
+ - [Q&amp;A with Microsoft CTO Kevin Scott on AI agents and MCP, web search, NLWeb, the relationship with OpenAI, how new hardware and optimizations benefit AI, more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250519/p32#a250519p32)
+ - [Jamie Dimon says JPMorgan will now let clients buy bitcoin, adding &quot;We&#39;re not going to custody it. We&#39;re going to put it in statements for clients.&quot; &lpar;CNBC&rpar;](http://www.techmeme.com/250519/p31#a250519p31)
+ - [iPadOS 17.7.8 quickly ships to fix iPadOS 17.7.7 glitch](https://appleinsider.com/articles/25/05/19/ipados-1778-quickly-ships-to-fix-ipados-1777-glitch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

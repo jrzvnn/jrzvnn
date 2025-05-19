@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google releases its NotebookLM mobile app](https://www.theverge.com/news/669828/google-releases-its-notebooklm-mobile-app)
+ - [Researchers: GPT-4 was 64.4% more persuasive than humans in one-on-one debates when given basic personal information about the person it was trying to persuade &lpar;Isaac Schultz/Gizmodo&rpar;](http://www.techmeme.com/250519/p34#a250519p34)
  - [Apple Filling Protocol will soon disappear completely from macOS](https://appleinsider.com/inside/macos-sequoia/tips/apple-filling-protocol-will-soon-disappear-completely-from-macos?utm_medium=rss)
  - [FTC v. Meta: The antitrust battle over WhatsApp and Instagram](https://www.theverge.com/news/646809/ftc-v-meta-antitrust-monopoly-trial-instagram-whatsapp)
- - [Judge orders Apple to comply with 2021 anti-steering injunction or return to court](https://appleinsider.com/articles/25/05/19/judge-orders-apple-to-comply-with-2021-anti-steering-injunction-or-return-to-court?utm_medium=rss)
- - [Verizon halts its launch of the Moto Razr 2025 foldable with some in-progress shipments reversed, amid rumors of fire hazards and quarantines of in-store stock &lpar;Chris Thomas/Android Police&rpar;](http://www.techmeme.com/250519/p33#a250519p33)
- - [Huawei’s new foldable laptop might be the thinnest yet](https://www.theverge.com/news/669778/huawei-matebook-fold-laptop-launch)<!-- TECH:END -->
+ - [Judge orders Apple to comply with 2021 anti-steering injunction or return to court](https://appleinsider.com/articles/25/05/19/judge-orders-apple-to-comply-with-2021-anti-steering-injunction-or-return-to-court?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

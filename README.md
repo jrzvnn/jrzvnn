@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Paranormal distribution](http://9gag.com/gag/a4P2OQm)
  - 😝 [Truly impeccable](http://9gag.com/gag/aD2V5xK)
+ - 😝 [Paranormal distribution](http://9gag.com/gag/a4P2OQm)
  - 💣 [He might be an alpha male.](http://9gag.com/gag/a342rZv)
  - 😝 [The art of the stealthy retirement.](http://9gag.com/gag/agm4ex1)
  - 👉 [When love doesn&#39;t pay dividends.](http://9gag.com/gag/aoyL7jw)<!-- MEMES:END -->

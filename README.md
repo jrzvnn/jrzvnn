@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Matrix is coming](http://9gag.com/gag/ae9mwKW)
+ - 😝 [The art of the stealthy retirement.](http://9gag.com/gag/agm4ex1)
  - 😝 [LOL\ud83e\udd23](http://9gag.com/gag/ayNRwzY)
  - 💣 [10 gb more for 2 new skins](http://9gag.com/gag/a7o2XOw)
  - 😝 [Truly impeccable](http://9gag.com/gag/aD2V5xK)

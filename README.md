@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Source: the US DOJ has opened a probe into a recent data breach at Coinbase; Coinbase says it&#39;s working with the DOJ and other law enforcement agencies &lpar;Bloomberg&rpar;](http://www.techmeme.com/250519/p41#a250519p41)
+ - [We Hand-Picked the 37 Best Deals From the 2025 REI Anniversary Sale](https://www.wired.com/story/rei-anniversary-sale-may-2025/)
  - [Investigation: New Orleans police secretly scanned city streets with 200+ facial recognition cameras for two years, seemingly defying a 2022 city ordinance &lpar;Washington Post&rpar;](http://www.techmeme.com/250519/p40#a250519p40)
  - [Spotify’s iPhone app will now let you easily buy audiobooks](https://www.theverge.com/news/669933/spotify-iphone-app-audiobooks-purchase-apple-ruling)
- - [Trump signs the Take It Down Act, criminalizing the distribution of nonconsensual intimate content and requiring platforms to promptly remove it when notified &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250519/p39#a250519p39)
- - [WizKids’ Baldur’s Gate 3 mini figures look like they’ve been through the hells](https://www.theverge.com/news/669867/wizkids-baldurs-gate-3-mini-figures-bad)<!-- TECH:END -->
+ - [Trump signs the Take It Down Act, criminalizing the distribution of nonconsensual intimate content and requiring platforms to promptly remove it when notified &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250519/p39#a250519p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Circle recently engaged in informal talks to sell itself to Coinbase or Ripple, seeking at least $5B, the valuation it is targeting in a potential IPO &lpar;Luisa Beltran/Fortune&rpar;](http://www.techmeme.com/250519/p37#a250519p37)
  - [SAG-AFTRA files complaint over Fortnite’s AI Darth Vader](https://www.theverge.com/news/669885/darth-vader-ai-fortnite-sag-aftra-unfair-labor-complaint)
  - [Trump signs the Take It Down Act into law](https://www.theverge.com/news/661230/trump-signs-take-it-down-act-ai-deepfakes)
  - [Trump Signs Controversial Law Targeting Nonconsensual Sexual Content](https://www.wired.com/story/take-it-down-act-law-passes/)
- - [Qualcomm plans to launch a CPU for data centers designed to work with Nvidia&#39;s GPUs, marking its re-entry into the data center market dominated by Intel and AMD &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250519/p36#a250519p36)
- - [Microsoft announces Microsoft Discovery, an agentic platform to accelerate scientific discovery and enterprise R&amp;D efforts &lpar;Pradeep Viswanathan/Neowin&rpar;](http://www.techmeme.com/250519/p35#a250519p35)<!-- TECH:END -->
+ - [Qualcomm plans to launch a CPU for data centers designed to work with Nvidia&#39;s GPUs, marking its re-entry into the data center market dominated by Intel and AMD &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250519/p36#a250519p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

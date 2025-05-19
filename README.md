@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [23 Exciting Disney Plus TV Shows You Should Really Click Play On](https://www.cnet.com/tech/services-and-software/best-disney-plus-tv-shows-2025/#ftag=CAD590a51e)
  - [We 3D-Printed Luigi Mangione’s Ghost Gun. It Was Entirely Legal](https://www.wired.com/story/luigi-mangione-ghost-gun-built-tested/)
  - [Who Even Is a Criminal Now?](https://www.wired.com/story/editor-letter-rogues-issue/)
- - [Bluesky Is Plotting a Total Takeover of the Social Internet](https://www.wired.com/story/big-interview-jay-graber-bluesky/)<!-- TECH:END -->
+ - [How to Win Followers and Scamfluence People](https://www.wired.com/story/format-boy-yahoo-boys-scam-influencers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

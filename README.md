@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Circle recently engaged in informal talks to sell itself to Coinbase or Ripple, seeking at least $5B, the valuation it is targeting in a potential IPO &lpar;Luisa Beltran/Fortune&rpar;](http://www.techmeme.com/250519/p37#a250519p37)
- - [SAG-AFTRA files complaint over Fortnite’s AI Darth Vader](https://www.theverge.com/news/669885/darth-vader-ai-fortnite-sag-aftra-unfair-labor-complaint)
- - [Trump signs the Take It Down Act into law](https://www.theverge.com/news/661230/trump-signs-take-it-down-act-ai-deepfakes)
- - [Trump Signs Controversial Law Targeting Nonconsensual Sexual Content](https://www.wired.com/story/take-it-down-act-law-passes/)
- - [Qualcomm plans to launch a CPU for data centers designed to work with Nvidia&#39;s GPUs, marking its re-entry into the data center market dominated by Intel and AMD &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250519/p36#a250519p36)<!-- TECH:END -->
+ - [Spotify’s iPhone app will now let you easily buy audiobooks](https://www.theverge.com/news/669933/spotify-iphone-app-audiobooks-purchase-apple-ruling)
+ - [Trump signs the Take It Down Act, criminalizing the distribution of nonconsensual intimate content and requiring platforms to promptly remove it when notified &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250519/p39#a250519p39)
+ - [WizKids’ Baldur’s Gate 3 mini figures look like they’ve been through the hells](https://www.theverge.com/news/669867/wizkids-baldurs-gate-3-mini-figures-bad)
+ - [Graphiant, a San Jose-based NaaS startup, raised a $19M Series B extension led by Aramco&#39;s Wa&#39;ed and Saudi Telecom&#39;s Tali, bringing the round total to $102M &lpar;Fahad Abuljadayel/Bloomberg&rpar;](http://www.techmeme.com/250519/p38#a250519p38)
+ - [Is She Really Mad at Me? Maybe ChatGPT Knows](https://www.wired.com/story/using-chatgpt-for-interpersonal-relationship-advice/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

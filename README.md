@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The California Public Utilities Commission approves Waymo&#39;s proposal to expand its services to more parts of the Bay Area, including &quot;nearly all of San Jose&quot; &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250519/p45#a250519p45)
  - [Elgato is letting you stick a Stream Deck on anything](https://www.theverge.com/news/669323/elgato-stream-deck-modules-vsd-scissor-switches)
+ - [TikTok&#39;s Sexy Affair With National Parks Isn&#39;t Clickbait. It&#39;s a Wake-Up Call](https://www.cnet.com/news/social-media/tiktoks-sexy-affair-with-national-parks-isnt-clickbait-its-a-wake-up-call/#ftag=CAD590a51e)
  - [Huawei launches its first laptops running on HarmonyOS, including the 18-inch foldable MateBook Fold, and is working to make the OS compatible with 2,000+ apps &lpar;Bloomberg&rpar;](http://www.techmeme.com/250519/p44#a250519p44)
- - [The US House Budget Committee advances a budget bill that would ban US states from enforcing any law regulating AI for 10 years; the bill now goes to the House &lpar;Clare Duffy/CNN&rpar;](http://www.techmeme.com/250519/p43#a250519p43)
- - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
- - [SAG-AFTRA files an NLRB unfair labor practice charge against Epic&#39;s Llama Productions for using AI to recreate James Earl Jones&#39; Darth Vader voice in Fortnite &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250519/p42#a250519p42)<!-- TECH:END -->
+ - [The US House Budget Committee advances a budget bill that would ban US states from enforcing any law regulating AI for 10 years; the bill now goes to the House &lpar;Clare Duffy/CNN&rpar;](http://www.techmeme.com/250519/p43#a250519p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

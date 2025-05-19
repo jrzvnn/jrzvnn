@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch Microsoft’s Build 2025 conference](https://www.theverge.com/news/669276/microsoft-build-how-to-watch-livestream-2025)
- - [OWC&#39;s Thunderbolt 5 Dock arrives with 8K display support](https://appleinsider.com/articles/25/05/19/owcs-thunderbolt-5-dock-arrives-with-8k-display-support?utm_medium=rss)
- - [A profile of nonprofit Psst, launched in September 2024 to offer a &quot;digital safe&quot; for tech whistleblowers; its legal team manually reviews encrypted submissions &lpar;Victoria Turk/Wired&rpar;](http://www.techmeme.com/250519/p9#a250519p9)
- - [The 6 Best Bamboo Sheets for Silky-Soft Sleep &lpar;2025&rpar;](https://www.wired.com/gallery/best-bamboo-sheets/)
- - [Miami-Dade County Public Schools, the US&#39; third-largest district, trained 1,000+ educators on AI and introduced Gemini to 105K+ students, the largest US rollout &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/250519/p8#a250519p8)<!-- TECH:END -->
+ - [The UK plans to bring legislation to regulate BNPL services under the same rules as banks, four years after the previous government unveiled BNPL regulations &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/250519/p11#a250519p11)
+ - [Apple iPhone 16E Specs vs. iPhone 15 Pro: New Entry-Level or Last Year&#39;s Pro](https://www.cnet.com/tech/mobile/apple-iphone-16e-specs-vs-iphone-15-pro-new-entry-level-or-last-years-pro/#ftag=CAD590a51e)
+ - [Kia Electric Truck: What We Know So Far About the New Pickup EV](https://www.cnet.com/roadshow/news/kia-electric-truck-what-we-know-so-far-about-the-new-pickup-ev/#ftag=CAD590a51e)
+ - [Regeneron Pharmaceuticals says it will acquire all of 23andMe&#39;s assets, including its Personal Genome Service, for $256M in a bankruptcy auction, closing in Q3 &lpar;Dean Seal/Wall Street Journal&rpar;](http://www.techmeme.com/250519/p10#a250519p10)
+ - [How to watch Microsoft’s Build 2025 conference](https://www.theverge.com/news/669276/microsoft-build-how-to-watch-livestream-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

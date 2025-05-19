@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Salesforce says it is discounting Slack for US agencies, by as much as 90%, through November, following similar deals by Adobe and Google &lpar;Bloomberg&rpar;](http://www.techmeme.com/250519/p18#a250519p18)
- - [India iPhone production will be boosted by $1.5B Foxconn investment](https://appleinsider.com/articles/25/05/19/india-iphone-production-will-be-boosted-by-15b-foxconn-investment?utm_medium=rss)
- - [AMD announces it will sell the server-manufacturing business of recently acquired US-based ZT Systems to Sanmina in a $3B deal &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/250519/p17#a250519p17)
- - [23andMe and its user data will soon belong to a pharmaceutical giant](https://www.theverge.com/news/669548/23andme-bankruptcy-auction-regeneron-purchase)
- - [Experts Share If Cortisol Supplements Can Really Lower Stress](https://www.cnet.com/health/nutrition/best-cortisol-supplements/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft launches an open project called NLWeb to help devs add a &quot;conversational interface&quot; to their website in a few lines of code &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250519/p23#a250519p23)
+ - [Microsoft announces experimental cross-platform APIs for Edge to give web apps access to models built into Edge, like Microsoft&#39;s Phi-4-mini &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250519/p22#a250519p22)
+ - [GitHub announces an AI coding agent for GitHub Copilot that can fix bugs, add features, improve docs, and more, and open-sources GitHub Copilot in VS Code &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250519/p21#a250519p21)
+ - [Microsoft adds support for Anthropic&#39;s open-source standard Model Context Protocol to Windows and rebrands the AI platform inside Windows as Windows AI Foundry &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250519/p19#a250519p19)
+ - [Microsoft open-sources the Windows Subsystem for Linux, launched in 2016, and makes it available on GitHub, except for a few Windows-specific components &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250519/p20#a250519p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

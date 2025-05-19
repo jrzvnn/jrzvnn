@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huawei’s new foldable laptop might be the thinnest yet](https://www.theverge.com/news/669778/huawei-matebook-fold-laptop-launch)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [LG’s brilliant C4 OLED is more than 50 percent off for Memorial Day](https://www.theverge.com/tech/669721/lg-c4-oled-tv-memorial-day-2025-deal-sale)
- - [Microsoft adds Grok 3 and Grok 3 mini to its Azure AI Foundry service &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250519/p30#a250519p30)
- - [Q&amp;A with Microsoft CTO Kevin Scott on AI agents and MCP, web search, NLWeb, the relationship with OpenAI, how new hardware and optimizations benefit AI, more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250519/p32#a250519p32)<!-- TECH:END -->
+ - [Apple Filling Protocol will soon disappear completely from macOS](https://appleinsider.com/inside/macos-sequoia/tips/apple-filling-protocol-will-soon-disappear-completely-from-macos?utm_medium=rss)
+ - [FTC v. Meta: The antitrust battle over WhatsApp and Instagram](https://www.theverge.com/news/646809/ftc-v-meta-antitrust-monopoly-trial-instagram-whatsapp)
+ - [Judge orders Apple to comply with 2021 anti-steering injunction or return to court](https://appleinsider.com/articles/25/05/19/judge-orders-apple-to-comply-with-2021-anti-steering-injunction-or-return-to-court?utm_medium=rss)
+ - [Verizon halts its launch of the Moto Razr 2025 foldable with some in-progress shipments reversed, amid rumors of fire hazards and quarantines of in-store stock &lpar;Chris Thomas/Android Police&rpar;](http://www.techmeme.com/250519/p33#a250519p33)
+ - [Huawei’s new foldable laptop might be the thinnest yet](https://www.theverge.com/news/669778/huawei-matebook-fold-laptop-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

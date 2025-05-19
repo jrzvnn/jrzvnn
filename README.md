@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Jensen Huang on AI in the Middle East, the US Chip Diffusion rule, China, AI and GDP growth, Dynamo and full-stack Nvidia, enterprise, gaming, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250519/p13#a250519p13)
  - [Daniel Moneta from the CSA talks Matter 1.4.1 on HomeKit Insider](https://appleinsider.com/articles/25/05/19/daniel-moneta-from-the-csa-talks-matter-141-on-homekit-insider?utm_medium=rss)
+ - [My favorite laptop weighs less than a MacBook Air, and it&#39;s on sale for the first time](https://www.cnet.com/deals/my-favorite-laptop-weighs-less-than-a-macbook-air-and-its-on-sale-for-the-first-time/#ftag=CAD590a51e)
  - [12 Ways to Upgrade Your Wi-Fi and Make Your Internet Faster &lpar;2025&rpar;](https://www.wired.com/story/how-to-make-your-wifi-better-faster/)
- - [Google I/O 2025: how to watch and what to expect](https://www.theverge.com/news/669304/google-io-2025-how-to-watch-expect-livestream-ai-android-xr)
- - [Apple Pencil &amp; iPhone keyboard may get new features at WWDC to woo UAE](https://appleinsider.com/articles/25/05/19/apple-pencil-iphone-keyboard-may-get-new-features-at-wwdc-to-woo-uae?utm_medium=rss)
- - [The UK says hackers breached its Legal Aid Agency to steal a &quot;significant amount of personal data&quot; from those who receive legal aid across England and Wales &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/250519/p12#a250519p12)<!-- TECH:END -->
+ - [Google I/O 2025: how to watch and what to expect](https://www.theverge.com/news/669304/google-io-2025-how-to-watch-expect-livestream-ai-android-xr)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

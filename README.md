@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese state-backed company Huaneng deploys 100+ all-electric autonomous haul trucks powered by Huawei&#39;s 5G-Advanced network at the Yimin open-pit mine &lpar;Jo Borrás/Electrek&rpar;](http://www.techmeme.com/250519/p14#a250519p14)
  - [Q&amp;A with Jensen Huang on AI in the Middle East, the US Chip Diffusion rule, China, AI and GDP growth, Dynamo and full-stack Nvidia, enterprise, gaming, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250519/p13#a250519p13)
  - [Daniel Moneta from the CSA talks Matter 1.4.1 on HomeKit Insider](https://appleinsider.com/articles/25/05/19/daniel-moneta-from-the-csa-talks-matter-141-on-homekit-insider?utm_medium=rss)
  - [My favorite laptop weighs less than a MacBook Air, and it&#39;s on sale for the first time](https://www.cnet.com/deals/my-favorite-laptop-weighs-less-than-a-macbook-air-and-its-on-sale-for-the-first-time/#ftag=CAD590a51e)
- - [12 Ways to Upgrade Your Wi-Fi and Make Your Internet Faster &lpar;2025&rpar;](https://www.wired.com/story/how-to-make-your-wifi-better-faster/)
- - [Google I/O 2025: how to watch and what to expect](https://www.theverge.com/news/669304/google-io-2025-how-to-watch-expect-livestream-ai-android-xr)<!-- TECH:END -->
+ - [12 Ways to Upgrade Your Wi-Fi and Make Your Internet Faster &lpar;2025&rpar;](https://www.wired.com/story/how-to-make-your-wifi-better-faster/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

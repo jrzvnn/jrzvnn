@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD announces it will sell the server-manufacturing business of recently acquired US-based ZT Systems to Sanmina in a $3B deal &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/250519/p17#a250519p17)
  - [23andMe and its user data will soon belong to a pharmaceutical giant](https://www.theverge.com/news/669548/23andme-bankruptcy-auction-regeneron-purchase)
  - [Experts Share If Cortisol Supplements Can Really Lower Stress](https://www.cnet.com/health/nutrition/best-cortisol-supplements/#ftag=CAD590a51e)
  - [Sesame Street Will Enter its Netflix Era, and Cookie Monster Approves](https://www.cnet.com/tech/services-and-software/sesame-street-will-enter-its-netflix-era-and-cookie-monster-approves/#ftag=CAD590a51e)
- - [Filing: Taiwan-based Apple supplier Hon Hai plans to inject $1.5B into its India unit via its Singaporean subsidiary, as production shifts away from China &lpar;Twinnie Siu/Bloomberg&rpar;](http://www.techmeme.com/250519/p16#a250519p16)
- - [The Sonos Move 2 is cheaper than ever, just in time for summer](https://www.theverge.com/tech/669416/sonos-move-2-playstation-portal-deal-sale)<!-- TECH:END -->
+ - [Filing: Taiwan-based Apple supplier Hon Hai plans to inject $1.5B into its India unit via its Singaporean subsidiary, as production shifts away from China &lpar;Twinnie Siu/Bloomberg&rpar;](http://www.techmeme.com/250519/p16#a250519p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

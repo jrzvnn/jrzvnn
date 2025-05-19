@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SAG-AFTRA files complaint over Fortnite’s AI Darth Vader](https://www.theverge.com/news/669885/darth-vader-ai-fortnite-sag-aftra-unfair-labor-complaint)
+ - [Trump signs the Take It Down Act into law](https://www.theverge.com/news/661230/trump-signs-take-it-down-act-ai-deepfakes)
+ - [Trump Signs Controversial Law Targeting Nonconsensual Sexual Content](https://www.wired.com/story/take-it-down-act-law-passes/)
  - [Qualcomm plans to launch a CPU for data centers designed to work with Nvidia&#39;s GPUs, marking its re-entry into the data center market dominated by Intel and AMD &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250519/p36#a250519p36)
- - [Microsoft announces Microsoft Discovery, an agentic platform to accelerate scientific discovery and enterprise R&amp;D efforts &lpar;Pradeep Viswanathan/Neowin&rpar;](http://www.techmeme.com/250519/p35#a250519p35)
- - [How to manage your bookmarks in Google Chrome](https://www.theverge.com/tech/668874/bookmarks-chrome-how-to)
- - [Google releases its NotebookLM mobile app](https://www.theverge.com/news/669828/google-releases-its-notebooklm-mobile-app)
- - [Researchers: GPT-4 was 64.4% more persuasive than humans in one-on-one debates when given basic personal information about the person it was trying to persuade &lpar;Isaac Schultz/Gizmodo&rpar;](http://www.techmeme.com/250519/p34#a250519p34)<!-- TECH:END -->
+ - [Microsoft announces Microsoft Discovery, an agentic platform to accelerate scientific discovery and enterprise R&amp;D efforts &lpar;Pradeep Viswanathan/Neowin&rpar;](http://www.techmeme.com/250519/p35#a250519p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

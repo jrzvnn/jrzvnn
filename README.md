@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia plans to build an AI supercomputer with Foxconn and Taiwan&#39;s government to support local researchers and enterprises; TSMC plans to use the system &lpar;Kimberley Kao/Wall Street Journal&rpar;](http://www.techmeme.com/250519/p3#a250519p3)
  - [Nvidia unveils NVLink Fusion, letting customers use its NVLink to pair non-Nvidia CPUs or accelerators with Nvidia&#39;s products in their own rack-scale setups &lpar;Bloomberg&rpar;](http://www.techmeme.com/250519/p2#a250519p2)
  - [A look at Neuralink and other brain-computer interface startups, as the number of people with brain implants is set to double from ~100 in the next 12 months &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/250519/p1#a250519p1)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 19, #238](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-19-238/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, May 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-may-19/#ftag=CAD590a51e)
- - [Sources: Nvidia is in advanced talks to invest in PsiQuantum, a startup looking to build quantum computers that is in the process of raising $750M+ &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/250518/p21#a250518p21)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, May 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-may-19/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

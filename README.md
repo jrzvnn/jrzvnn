@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese state-backed company Huaneng deploys 100+ all-electric autonomous haul trucks powered by Huawei&#39;s 5G-Advanced network at the Yimin open-pit mine &lpar;Jo Borrás/Electrek&rpar;](http://www.techmeme.com/250519/p14#a250519p14)
- - [Q&amp;A with Jensen Huang on AI in the Middle East, the US Chip Diffusion rule, China, AI and GDP growth, Dynamo and full-stack Nvidia, enterprise, gaming, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250519/p13#a250519p13)
- - [Daniel Moneta from the CSA talks Matter 1.4.1 on HomeKit Insider](https://appleinsider.com/articles/25/05/19/daniel-moneta-from-the-csa-talks-matter-141-on-homekit-insider?utm_medium=rss)
- - [My favorite laptop weighs less than a MacBook Air, and it&#39;s on sale for the first time](https://www.cnet.com/deals/my-favorite-laptop-weighs-less-than-a-macbook-air-and-its-on-sale-for-the-first-time/#ftag=CAD590a51e)
- - [12 Ways to Upgrade Your Wi-Fi and Make Your Internet Faster &lpar;2025&rpar;](https://www.wired.com/story/how-to-make-your-wifi-better-faster/)<!-- TECH:END -->
+ - [China says the US must &quot;immediately correct its wrongdoings&quot; and stop &quot;discriminatory&quot; measures, after US guidance warning companies not to use Chinese AI chips &lpar;Reuters&rpar;](http://www.techmeme.com/250519/p15#a250519p15)
+ - [TSMC&#39;s US factory shows the limits of reshoring, tariffs, and corporate welfare](https://appleinsider.com/articles/25/05/19/tsmcs-us-factory-shows-the-limits-of-reshoring-tariffs-and-corporate-welfare?utm_medium=rss)
+ - [21 Best MagSafe Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-accessories/)
+ - [Inside Apple&#39;s invite-only &#39;University&#39; event for student creators](https://appleinsider.com/articles/25/05/19/inside-apples-invite-only-university-event-for-student-creators?utm_medium=rss)
+ - [Hiding documents under the cover of attorney-client privilege is a serious big-tech legal strategy](https://appleinsider.com/articles/25/05/19/hiding-documents-under-the-cover-of-attorney-client-privilege-is-a-serious-big-tech-legal-strategy?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

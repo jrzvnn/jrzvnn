@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Europeans selling Indian street food](http://9gag.com/gag/amoMZgy)
- - 😝 [Matrix is coming](http://9gag.com/gag/ae9mwKW)
- - 💣 [The Hyundai looks more like a Chrysler Imperial](http://9gag.com/gag/a1m2jj8)
+ - 😝 [The Hyundai looks more like a Chrysler Imperial](http://9gag.com/gag/a1m2jj8)
+ - 💣 [Matrix is coming](http://9gag.com/gag/ae9mwKW)
  - 😝 [LOL\ud83e\udd23](http://9gag.com/gag/ayNRwzY)
  - 👉 [10 gb more for 2 new skins](http://9gag.com/gag/a7o2XOw)<!-- MEMES:END -->
 

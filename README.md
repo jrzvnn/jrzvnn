@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to watch Microsoft’s Build 2025 conference](https://www.theverge.com/news/669276/microsoft-build-how-to-watch-livestream-2025)
  - [OWC&#39;s Thunderbolt 5 Dock arrives with 8K display support](https://appleinsider.com/articles/25/05/19/owcs-thunderbolt-5-dock-arrives-with-8k-display-support?utm_medium=rss)
  - [A profile of nonprofit Psst, launched in September 2024 to offer a &quot;digital safe&quot; for tech whistleblowers; its legal team manually reviews encrypted submissions &lpar;Victoria Turk/Wired&rpar;](http://www.techmeme.com/250519/p9#a250519p9)
  - [The 6 Best Bamboo Sheets for Silky-Soft Sleep &lpar;2025&rpar;](https://www.wired.com/gallery/best-bamboo-sheets/)
- - [Miami-Dade County Public Schools, the US&#39; third-largest district, trained 1,000+ educators on AI and introduced Gemini to 105K+ students, the largest US rollout &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/250519/p8#a250519p8)
- - [A profile of Anthropic CEO Dario Amodei, who transformed himself from an academic into a CEO; as of mid-April, Anthropic was on track for $2B in annual revenue &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250519/p7#a250519p7)<!-- TECH:END -->
+ - [Miami-Dade County Public Schools, the US&#39; third-largest district, trained 1,000+ educators on AI and introduced Gemini to 105K+ students, the largest US rollout &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/250519/p8#a250519p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elgato is letting you stick a Stream Deck on anything](https://www.theverge.com/news/669323/elgato-stream-deck-modules-vsd-scissor-switches)
  - [Huawei launches its first laptops running on HarmonyOS, including the 18-inch foldable MateBook Fold, and is working to make the OS compatible with 2,000+ apps &lpar;Bloomberg&rpar;](http://www.techmeme.com/250519/p44#a250519p44)
  - [The US House Budget Committee advances a budget bill that would ban US states from enforcing any law regulating AI for 10 years; the bill now goes to the House &lpar;Clare Duffy/CNN&rpar;](http://www.techmeme.com/250519/p43#a250519p43)
  - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
- - [SAG-AFTRA files an NLRB unfair labor practice charge against Epic&#39;s Llama Productions for using AI to recreate James Earl Jones&#39; Darth Vader voice in Fortnite &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250519/p42#a250519p42)
- - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)<!-- TECH:END -->
+ - [SAG-AFTRA files an NLRB unfair labor practice charge against Epic&#39;s Llama Productions for using AI to recreate James Earl Jones&#39; Darth Vader voice in Fortnite &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250519/p42#a250519p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

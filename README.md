@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft launches an open project called NLWeb to help devs add a &quot;conversational interface&quot; to their website in a few lines of code &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250519/p23#a250519p23)
- - [Microsoft announces experimental cross-platform APIs for Edge to give web apps access to models built into Edge, like Microsoft&#39;s Phi-4-mini &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250519/p22#a250519p22)
- - [GitHub announces an AI coding agent for GitHub Copilot that can fix bugs, add features, improve docs, and more, and open-sources GitHub Copilot in VS Code &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250519/p21#a250519p21)
- - [Microsoft adds support for Anthropic&#39;s open-source standard Model Context Protocol to Windows and rebrands the AI platform inside Windows as Windows AI Foundry &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250519/p19#a250519p19)
- - [Microsoft open-sources the Windows Subsystem for Linux, launched in 2016, and makes it available on GitHub, except for a few Windows-specific components &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250519/p20#a250519p20)<!-- TECH:END -->
+ - [Microsoft introduces Foundry Local, a service coming to Windows AI Foundry as well as macOS, to run AI models and tools on-device, using ONXX Runtime &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250519/p27#a250519p27)
+ - [A Silicon Valley VC Says He Got the IDF Starlink Access Within Days of October 7 Attack](https://www.wired.com/story/shaun-maguire-starlink-idf-israel-gaza/)
+ - [Google releases a standalone NotebookLM app for Android &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250519/p26#a250519p26)
+ - [Microsoft expands Entra, Defender, and Purview, embedding them directly into Azure AI Foundry and Copilot Studio to help organizations secure AI apps and agents &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250519/p25#a250519p25)
+ - [Save $1,100 on this 4TB MacBook Pro, bringing the price down to $2,499](https://appleinsider.com/articles/25/05/19/save-1100-on-this-4tb-macbook-pro-bringing-the-price-down-to-2499?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

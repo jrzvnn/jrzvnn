@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [He might be an alpha male.](http://9gag.com/gag/a342rZv)
  - 😝 [The art of the stealthy retirement.](http://9gag.com/gag/agm4ex1)
- - 💣 [Now I also have anxiety](http://9gag.com/gag/ae9m8bp)
- - 😝 [When love doesn&#39;t pay dividends.](http://9gag.com/gag/aoyL7jw)
- - 👉 [Also, he doesn\u2019t belong to any political party. He scored 20% in the first round of elections and 54% in the second round. He\u2019s pro EU and single handedly beat the aggresive and favorite to win pro-russian opponent. Let\u2019s go Romania](http://9gag.com/gag/aW4b3xq)<!-- MEMES:END -->
+ - 💣 [When love doesn&#39;t pay dividends.](http://9gag.com/gag/aoyL7jw)
+ - 😝 [Now I also have anxiety](http://9gag.com/gag/ae9m8bp)
+ - 👉 [Europeans selling Indian street food](http://9gag.com/gag/amoMZgy)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft employee disrupts Satya Nadella’s Build conference keynote](https://www.theverge.com/news/669362/microsoft-employee-protest-build-conference-satya-nadella)
+ - [For its Copilot Studio agents, Microsoft announces a &quot;computer use&quot; feature available in its Frontier program for select US users, WhatsApp integration, more &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/250519/p28#a250519p28)
+ - [Bluesky is testing a new ‘live’ indicator, starting with the NBA](https://www.theverge.com/news/669675/bluesky-nba-live-indicator-broadcasts)
  - [Microsoft introduces Foundry Local, a service coming to Windows AI Foundry as well as macOS, to run AI models and tools on-device, using ONXX Runtime &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250519/p27#a250519p27)
- - [A Silicon Valley VC Says He Got the IDF Starlink Access Within Days of October 7 Attack](https://www.wired.com/story/shaun-maguire-starlink-idf-israel-gaza/)
- - [Google releases a standalone NotebookLM app for Android &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250519/p26#a250519p26)
- - [Microsoft expands Entra, Defender, and Purview, embedding them directly into Azure AI Foundry and Copilot Studio to help organizations secure AI apps and agents &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250519/p25#a250519p25)
- - [Save $1,100 on this 4TB MacBook Pro, bringing the price down to $2,499](https://appleinsider.com/articles/25/05/19/save-1100-on-this-4tb-macbook-pro-bringing-the-price-down-to-2499?utm_medium=rss)<!-- TECH:END -->
+ - [A Silicon Valley VC Says He Got the IDF Starlink Access Within Days of October 7 Attack](https://www.wired.com/story/shaun-maguire-starlink-idf-israel-gaza/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

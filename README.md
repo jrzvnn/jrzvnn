@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He might be an alpha male.](http://9gag.com/gag/a342rZv)
+ - 😝 [Prepare your insulin](http://9gag.com/gag/abABw98)
  - 😝 [The art of the stealthy retirement.](http://9gag.com/gag/agm4ex1)
  - 💣 [When love doesn&#39;t pay dividends.](http://9gag.com/gag/aoyL7jw)
  - 😝 [Europeans selling Indian street food](http://9gag.com/gag/amoMZgy)

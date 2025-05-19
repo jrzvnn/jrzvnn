@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [10 gb more for 2 new skins](http://9gag.com/gag/a7o2XOw)
  - 😝 [Truly impeccable](http://9gag.com/gag/aD2V5xK)
  - 💣 [The art of the stealthy retirement.](http://9gag.com/gag/agm4ex1)
- - 😝 [Paranormal distribution](http://9gag.com/gag/a4P2OQm)
- - 👉 [He might be an alpha male.](http://9gag.com/gag/a342rZv)<!-- MEMES:END -->
+ - 😝 [He might be an alpha male.](http://9gag.com/gag/a342rZv)
+ - 👉 [When love doesn&#39;t pay dividends.](http://9gag.com/gag/aoyL7jw)<!-- MEMES:END -->
 
 ---
 

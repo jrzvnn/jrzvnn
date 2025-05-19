@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Huawei launches its first laptops running on HarmonyOS, including the 18-inch foldable MateBook Fold, and is working to make the OS compatible with 2,000+ apps &lpar;Bloomberg&rpar;](http://www.techmeme.com/250519/p44#a250519p44)
+ - [The US House Budget Committee advances a budget bill that would ban US states from enforcing any law regulating AI for 10 years; the bill now goes to the House &lpar;Clare Duffy/CNN&rpar;](http://www.techmeme.com/250519/p43#a250519p43)
  - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
  - [SAG-AFTRA files an NLRB unfair labor practice charge against Epic&#39;s Llama Productions for using AI to recreate James Earl Jones&#39; Darth Vader voice in Fortnite &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250519/p42#a250519p42)
- - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)
- - [Source: the US DOJ has opened a probe into a recent data breach at Coinbase; Coinbase says it&#39;s working with the DOJ and other law enforcement agencies &lpar;Bloomberg&rpar;](http://www.techmeme.com/250519/p41#a250519p41)
- - [We Hand-Picked the 37 Best Deals From the 2025 REI Anniversary Sale](https://www.wired.com/story/rei-anniversary-sale-may-2025/)<!-- TECH:END -->
+ - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

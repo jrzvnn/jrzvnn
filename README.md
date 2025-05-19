@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft’s Edit on Windows is a new command line text editor](https://www.theverge.com/news/669318/microsoft-edit-on-windows-command-line-text-editor)
+ - [DOGE Loses Battle to Take Over USIP—and Its $500 Million Headquarters](https://www.wired.com/story/usip-doge-headquarters-building-ruling/)
  - [Microsoft employee disrupts Satya Nadella’s Build conference keynote](https://www.theverge.com/news/669362/microsoft-employee-protest-build-conference-satya-nadella)
  - [For its Copilot Studio agents, Microsoft announces a &quot;computer use&quot; feature available in its Frontier program for select US users, WhatsApp integration, more &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/250519/p28#a250519p28)
- - [Bluesky is testing a new ‘live’ indicator, starting with the NBA](https://www.theverge.com/news/669675/bluesky-nba-live-indicator-broadcasts)
- - [Microsoft introduces Foundry Local, a service coming to Windows AI Foundry as well as macOS, to run AI models and tools on-device, using ONXX Runtime &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250519/p27#a250519p27)
- - [A Silicon Valley VC Says He Got the IDF Starlink Access Within Days of October 7 Attack](https://www.wired.com/story/shaun-maguire-starlink-idf-israel-gaza/)<!-- TECH:END -->
+ - [Bluesky is testing a new ‘live’ indicator, starting with the NBA](https://www.theverge.com/news/669675/bluesky-nba-live-indicator-broadcasts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

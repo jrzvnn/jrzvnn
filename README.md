@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 19, #238](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-19-238/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, May 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-may-19/#ftag=CAD590a51e)
  - [Sources: Nvidia is in advanced talks to invest in PsiQuantum, a startup looking to build quantum computers that is in the process of raising $750M+ &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/250518/p21#a250518p21)
  - [A look at the reasons behind WBD&#39;s decision to rebrand HBO Max to Max; Netflix execs surprised to see Disney&#39;s Josh D&#39;Amaro at Netflix&#39;s upfront and afterparty &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250518/p20#a250518p20)
- - [Blade Runner: 18-Rotor &quot;Volocopter&quot; Moving from Concept to Prototype](https://www.cnet.com/science/blade-runner-18-rotor-volocopter-moving-from-concept-to-prototype/#ftag=CAD590a51e)
- - [Viral TikTok videos of AI bots interviewing job candidates and sometimes glitching are bringing focus to a practice more companies have embraced since 2023 &lpar;David Mack/Slate&rpar;](http://www.techmeme.com/250518/p19#a250518p19)
- - [Apple&#39;s AI head John Giannandrea isn&#39;t going anywhere, despite delays and stumbles](https://appleinsider.com/articles/25/05/18/apples-ai-head-john-giannandrea-isnt-going-anywhere-despite-delays-and-stumbles?utm_medium=rss)<!-- TECH:END -->
+ - [Blade Runner: 18-Rotor &quot;Volocopter&quot; Moving from Concept to Prototype](https://www.cnet.com/science/blade-runner-18-rotor-volocopter-moving-from-concept-to-prototype/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

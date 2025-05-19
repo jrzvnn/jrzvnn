@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The art of the stealthy retirement.](http://9gag.com/gag/agm4ex1)
  - 😝 [LOL\ud83e\udd23](http://9gag.com/gag/ayNRwzY)
- - 💣 [10 gb more for 2 new skins](http://9gag.com/gag/a7o2XOw)
+ - 😝 [10 gb more for 2 new skins](http://9gag.com/gag/a7o2XOw)
+ - 💣 [The art of the stealthy retirement.](http://9gag.com/gag/agm4ex1)
  - 😝 [Truly impeccable](http://9gag.com/gag/aD2V5xK)
  - 👉 [He might be an alpha male.](http://9gag.com/gag/a342rZv)<!-- MEMES:END -->
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the reasoning behind David Zaslav&#39;s strategy to rebrand HBO Max as Max, its failure to broaden the streamer&#39;s appeal, and the push to bring &quot;HBO&quot; back &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250518/p20#a250518p20)
+ - [Viral TikTok videos of AI bots interviewing job candidates and sometimes glitching are bringing focus to a practice more companies have embraced since 2023 &lpar;David Mack/Slate&rpar;](http://www.techmeme.com/250518/p19#a250518p19)
  - [Apple&#39;s AI head John Giannandrea isn&#39;t going anywhere, despite delays and stumbles](https://appleinsider.com/articles/25/05/18/apples-ai-head-john-giannandrea-isnt-going-anywhere-despite-delays-and-stumbles?utm_medium=rss)
  - [Apple is trying to get ‘LLM Siri’ back on track](https://www.theverge.com/news/669238/apple-siri-llm-ai-revamp)
- - [How the crypto industry is adapting to the recent wave of kidnappings, from more extensive security around conferences, to a rise in personal bodyguards, more &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/250518/p18#a250518p18)
- - [Some parent groups are hosting Alternative Device Fairs, showcasing phones with limited features, social media blocks, and AI-powered content filters &lpar;Kaitlyn Tiffany/The Atlantic&rpar;](http://www.techmeme.com/250518/p17#a250518p17)
- - [Sources: Cyera is raising $500M led by Lightspeed, Greenoaks and Georgian in a round valuing the data security company at $6B, up from 2024&#39;s $3.4B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250518/p16#a250518p16)<!-- TECH:END -->
+ - [How the crypto industry is adapting to the recent wave of kidnappings, from more extensive security around conferences, to a rise in personal bodyguards, more &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/250518/p18#a250518p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

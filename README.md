@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)
  - [Source: the US DOJ has opened a probe into a recent data breach at Coinbase; Coinbase says it&#39;s working with the DOJ and other law enforcement agencies &lpar;Bloomberg&rpar;](http://www.techmeme.com/250519/p41#a250519p41)
  - [We Hand-Picked the 37 Best Deals From the 2025 REI Anniversary Sale](https://www.wired.com/story/rei-anniversary-sale-may-2025/)
- - [Investigation: New Orleans police secretly scanned city streets with 200+ facial recognition cameras for two years, seemingly defying a 2022 city ordinance &lpar;Washington Post&rpar;](http://www.techmeme.com/250519/p40#a250519p40)
- - [Spotify’s iPhone app will now let you easily buy audiobooks](https://www.theverge.com/news/669933/spotify-iphone-app-audiobooks-purchase-apple-ruling)
- - [Trump signs the Take It Down Act, criminalizing the distribution of nonconsensual intimate content and requiring platforms to promptly remove it when notified &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250519/p39#a250519p39)<!-- TECH:END -->
+ - [Uber&#39;s Memorial Day-Style Sale: Uber One Member Days Is On Now](https://www.cnet.com/tech/ubers-memorial-day-style-sale-uber-one-member-days-is-on-now/#ftag=CAD590a51e)
+ - [Warzone Mobile Is Being Sunset. Here&#39;s How Call of Duty: Mobile Compares](https://www.cnet.com/tech/services-and-software/warzone-mobile-is-being-sunset-heres-how-call-of-duty-mobile-compares/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

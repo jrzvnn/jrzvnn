@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Spotify’s iPhone app will now let you easily buy audiobooks](https://www.theverge.com/news/669933/spotify-iphone-app-audiobooks-purchase-apple-ruling)
  - [Trump signs the Take It Down Act, criminalizing the distribution of nonconsensual intimate content and requiring platforms to promptly remove it when notified &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250519/p39#a250519p39)
  - [WizKids’ Baldur’s Gate 3 mini figures look like they’ve been through the hells](https://www.theverge.com/news/669867/wizkids-baldurs-gate-3-mini-figures-bad)
- - [Graphiant, a San Jose-based NaaS startup, raised a $19M Series B extension led by Aramco&#39;s Wa&#39;ed and Saudi Telecom&#39;s Tali, bringing the round total to $102M &lpar;Fahad Abuljadayel/Bloomberg&rpar;](http://www.techmeme.com/250519/p38#a250519p38)<!-- TECH:END -->
+ - [ChatGPT&#39;s Image Generator Is Now in Microsoft Copilot. Here&#39;s What You Can Do With It](https://www.cnet.com/tech/services-and-software/chatgpts-image-generator-is-now-in-microsoft-copilot-heres-what-you-can-do-with-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

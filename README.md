@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [He might be an alpha male.](http://9gag.com/gag/a342rZv)
  - 😝 [The art of the stealthy retirement.](http://9gag.com/gag/agm4ex1)
  - 💣 [When love doesn&#39;t pay dividends.](http://9gag.com/gag/aoyL7jw)
- - 😝 [Now I also have anxiety](http://9gag.com/gag/ae9m8bp)
- - 👉 [Europeans selling Indian street food](http://9gag.com/gag/amoMZgy)<!-- MEMES:END -->
+ - 😝 [Europeans selling Indian street food](http://9gag.com/gag/amoMZgy)
+ - 👉 [Now I also have anxiety](http://9gag.com/gag/ae9m8bp)<!-- MEMES:END -->
 
 ---
 

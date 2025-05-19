@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Miami-Dade County Public Schools, the US&#39; third-largest district, trained 1,000+ educators on AI and introduced Gemini to 105K+ students, the largest US rollout &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/250519/p8#a250519p8)
  - [A profile of Anthropic CEO Dario Amodei, who transformed himself from an academic into a CEO; as of mid-April, Anthropic was on track for $2B in annual revenue &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250519/p7#a250519p7)
+ - [We&#39;re All Copyright Owners. Why You Need to Care About AI and Copyright](https://www.cnet.com/tech/services-and-software/were-all-copyright-owners-why-you-need-to-care-about-ai-and-copyright/#ftag=CAD590a51e)
  - [How the UK&#39;s Met Office, alongside Google DeepMind, Nvidia, Microsoft, IBM, and others, are leveraging AI to enhance weather forecasting accuracy and detail &lpar;Financial Times&rpar;](http://www.techmeme.com/250519/p6#a250519p6)
- - [23 Exciting Disney Plus TV Shows You Should Really Click Play On](https://www.cnet.com/tech/services-and-software/best-disney-plus-tv-shows-2025/#ftag=CAD590a51e)
- - [We 3D-Printed Luigi Mangione’s Ghost Gun. It Was Entirely Legal](https://www.wired.com/story/luigi-mangione-ghost-gun-built-tested/)
- - [Who Even Is a Criminal Now?](https://www.wired.com/story/editor-letter-rogues-issue/)<!-- TECH:END -->
+ - [23 Exciting Disney Plus TV Shows You Should Really Click Play On](https://www.cnet.com/tech/services-and-software/best-disney-plus-tv-shows-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

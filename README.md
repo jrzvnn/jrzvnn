@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [10 gb more for 2 new skins](http://9gag.com/gag/a7o2XOw)
+ - 😝 [Power five](http://9gag.com/gag/a7o2xwA)
  - 😝 [Truly impeccable](http://9gag.com/gag/aD2V5xK)
  - 💣 [He might be an alpha male.](http://9gag.com/gag/a342rZv)
- - 😝 [The art of the stealthy retirement.](http://9gag.com/gag/agm4ex1)
- - 👉 [When love doesn&#39;t pay dividends.](http://9gag.com/gag/aoyL7jw)<!-- MEMES:END -->
+ - 😝 [Paranormal distribution](http://9gag.com/gag/a4P2OQm)
+ - 👉 [The art of the stealthy retirement.](http://9gag.com/gag/agm4ex1)<!-- MEMES:END -->
 
 ---
 

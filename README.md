@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi CEO Lei Jun says on Weibo that the company invested ~$1.9B to build its Xring O1 chip and plans to invest $6.9B+ in chip design over the next decade &lpar;Reuters&rpar;](http://www.techmeme.com/250519/p5#a250519p5)
- - [Ever Wonder What Happens After You Report a Scam? I Did, Too](https://www.cnet.com/tech/services-and-software/ever-wonder-what-happens-after-you-report-a-scam-i-did-too/#ftag=CAD590a51e)
- - [Experts blame Big Tech lawyers&#39; culture of lawlessness for Amazon, Apple, and Google being accused of abusing legal privilege in antitrust and other court cases &lpar;Tim Higgins/Wall Street Journal&rpar;](http://www.techmeme.com/250519/p4#a250519p4)
- - [Nvidia plans to build an AI supercomputer with Foxconn and Taiwan&#39;s government to support local researchers and enterprises; TSMC plans to use the system &lpar;Kimberley Kao/Wall Street Journal&rpar;](http://www.techmeme.com/250519/p3#a250519p3)
- - [Nvidia unveils NVLink Fusion, letting customers use its NVLink to pair non-Nvidia CPUs or accelerators with Nvidia&#39;s products in their own rack-scale setups &lpar;Bloomberg&rpar;](http://www.techmeme.com/250519/p2#a250519p2)<!-- TECH:END -->
+ - [How the UK&#39;s Met Office, alongside Google DeepMind, Nvidia, Microsoft, IBM, and others, are leveraging AI to enhance weather forecasting accuracy and detail &lpar;Financial Times&rpar;](http://www.techmeme.com/250519/p6#a250519p6)
+ - [23 Exciting Disney Plus TV Shows You Should Really Click Play On](https://www.cnet.com/tech/services-and-software/best-disney-plus-tv-shows-2025/#ftag=CAD590a51e)
+ - [We 3D-Printed Luigi Mangione’s Ghost Gun. It Was Entirely Legal](https://www.wired.com/story/luigi-mangione-ghost-gun-built-tested/)
+ - [Who Even Is a Criminal Now?](https://www.wired.com/story/editor-letter-rogues-issue/)
+ - [Bluesky Is Plotting a Total Takeover of the Social Internet](https://www.wired.com/story/big-interview-jay-graber-bluesky/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

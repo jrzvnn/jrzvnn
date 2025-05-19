@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Protesters disrupt Build keynote; one then emailed thousands of Microsoft coworkers calling the company&#39;s report on its tech&#39;s impact on Gaza civilians a &quot;lie&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250519/p29#a250519p29)
  - [Microsoft’s Edit on Windows is a new command line text editor](https://www.theverge.com/news/669318/microsoft-edit-on-windows-command-line-text-editor)
  - [DOGE Loses Battle to Take Over USIP—and Its $500 Million Headquarters](https://www.wired.com/story/usip-doge-headquarters-building-ruling/)
- - [Microsoft employee disrupts Satya Nadella’s Build conference keynote](https://www.theverge.com/news/669362/microsoft-employee-protest-build-conference-satya-nadella)
- - [For its Copilot Studio agents, Microsoft announces a &quot;computer use&quot; feature available in its Frontier program for select US users, WhatsApp integration, more &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/250519/p28#a250519p28)
- - [Bluesky is testing a new ‘live’ indicator, starting with the NBA](https://www.theverge.com/news/669675/bluesky-nba-live-indicator-broadcasts)<!-- TECH:END -->
+ - [Best Internet Providers in Jacksonville, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-jacksonville-fl/#ftag=CAD590a51e)
+ - [Microsoft employee disrupts Satya Nadella’s Build conference keynote](https://www.theverge.com/news/669362/microsoft-employee-protest-build-conference-satya-nadella)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

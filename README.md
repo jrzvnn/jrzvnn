@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Prepare your insulin](http://9gag.com/gag/abABw98)
- - 😝 [Now I also have anxiety](http://9gag.com/gag/ae9m8bp)
- - 💣 [He might be an alpha male.](http://9gag.com/gag/a342rZv)
+ - 😝 [He might be an alpha male.](http://9gag.com/gag/a342rZv)
+ - 💣 [Now I also have anxiety](http://9gag.com/gag/ae9m8bp)
  - 😝 [The art of the stealthy retirement.](http://9gag.com/gag/agm4ex1)
  - 👉 [When love doesn&#39;t pay dividends.](http://9gag.com/gag/aoyL7jw)<!-- MEMES:END -->
 

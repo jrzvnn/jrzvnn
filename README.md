@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Michael Arrington says Coinbase&#39;s recent data breach &quot;will lead to people dying&quot;, calls for KYC rules reassessment and prison for execs failing to protect users &lpar;Ryan S. Gladwin/Decrypt&rpar;](http://www.techmeme.com/250520/p20#a250520p20)
- - [Chicago Sun-Times publishes made-up books and fake experts in AI debacle](https://www.theverge.com/ai-artificial-intelligence/670510/chicago-sun-times-ai-generated-reading-list)
- - [The best Thunderbolt docks for your Mac or MacBook Pro](https://appleinsider.com/articles/24/07/27/the-best-thunderbolt-docks-for-your-mac-or-macbook-pro?utm_medium=rss)
- - [Civitai blames a &quot;configuration issue&quot; for allowing users to generate non-consensual porn; it appears that users can still create such videos of non-celebrities &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250520/p19#a250520p19)
- - [Netflix is turning mobile blockbuster Clash of Clans into an animated series](https://www.theverge.com/news/670547/clash-of-clans-netflix-animated-adaptation)<!-- TECH:END -->
+ - [Google I/O 2025: All the news and announcements](https://www.theverge.com/google/670250/google-io-news-announcements-gemini-ai-android-xr)
+ - [Adobe hikes Creative Cloud prices with a rebrand no one asked for](https://appleinsider.com/articles/25/05/20/adobe-hikes-creative-cloud-prices-with-a-rebrand-no-one-asked-for?utm_medium=rss)
+ - [WWDC 2025 is very soon, and Apple started to detail the schedule](https://appleinsider.com/articles/25/05/20/wwdc-2025-is-very-soon-and-apple-started-to-detail-the-schedule?utm_medium=rss)
+ - [Bluetti&#39;s Apex 300 makes home backup more accessible and versatile than ever](https://appleinsider.com/articles/25/05/20/bluettis-apex-300-makes-home-backup-more-accessible-and-versatile-than-ever?utm_medium=rss)
+ - [Michael Arrington says Coinbase&#39;s recent data breach &quot;will lead to people dying&quot;, calls for KYC rules reassessment and prison for execs failing to protect users &lpar;Ryan S. Gladwin/Decrypt&rpar;](http://www.techmeme.com/250520/p20#a250520p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

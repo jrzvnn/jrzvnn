@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Magic](http://9gag.com/gag/aYQq0KO)
- - 😝 [A dream](http://9gag.com/gag/a9y2o51)
- - 💣 [Learning English](http://9gag.com/gag/a872g7Z)
+ - 😝 [Learning English](http://9gag.com/gag/a872g7Z)
+ - 😝 [WTF](http://9gag.com/gag/aYQq567)
+ - 💣 [Scary but hot](http://9gag.com/gag/amoMeKv)
  - 😝 [Seems like a good problem to have](http://9gag.com/gag/aoyLvNm)
- - 👉 [Officer: You wanna get arrested? Civilian: You wanna get sued?](http://9gag.com/gag/aXPWy1g)<!-- MEMES:END -->
+ - 👉 [Showing the audience](http://9gag.com/gag/aVvL6vy)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A dream](http://9gag.com/gag/a9y2o51)
- - 😝 [Showing the audience](http://9gag.com/gag/aVvL6vy)
- - 💣 [Scary but hot](http://9gag.com/gag/amoMeKv)
+ - 😝 [Its not perfect but at least it&#39;s not just a lot of spam from bots](http://9gag.com/gag/a9y2xA0)
+ - 😝 [Learning English](http://9gag.com/gag/a872g7Z)
+ - 💣 [The machine](http://9gag.com/gag/amoMeQV)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
- - 👉 [Learning English](http://9gag.com/gag/a872g7Z)<!-- MEMES:END -->
+ - 👉 [A dream](http://9gag.com/gag/a9y2o51)<!-- MEMES:END -->
 
 ---
 

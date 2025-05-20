@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Deke&#39;s got the most expensive smile in the K-9 unit](http://9gag.com/gag/a872RmO)
- - 😝 [This honey hunter collects wild honey but stays super friendly with the bees](http://9gag.com/gag/aE0Dmdo)
- - 💣 [Seems like a good problem to have](http://9gag.com/gag/aoyLvNm)
+ - 😝 [F**k you genetics](http://9gag.com/gag/awydEm4)
+ - 💣 [A woman films the difficulty of finding the restroom in this German building.](http://9gag.com/gag/aXPWBdD)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
- - 👉 [A woman films the difficulty of finding the restroom in this German building.](http://9gag.com/gag/aXPWBdD)<!-- MEMES:END -->
+ - 👉 [The machine](http://9gag.com/gag/amoMeQV)<!-- MEMES:END -->
 
 ---
 

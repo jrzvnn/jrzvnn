@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Thunderbolt docks for your Mac or MacBook Pro](https://appleinsider.com/articles/24/07/27/the-best-thunderbolt-docks-for-your-mac-or-macbook-pro?utm_medium=rss)
+ - [Civitai blames a &quot;configuration issue&quot; for allowing users to generate non-consensual porn; it appears that users can still create such videos of non-celebrities &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250520/p19#a250520p19)
+ - [Netflix is turning mobile blockbuster Clash of Clans into an animated series](https://www.theverge.com/news/670547/clash-of-clans-netflix-animated-adaptation)
  - [Waffle House adds fast EV charging to its 24/7 diners](https://www.theverge.com/news/670214/waffle-house-adds-fast-ev-charging-to-the-menu)
- - [iPhones are on the menu for Amazon drone delivery](https://www.theverge.com/news/670434/amazon-prime-drone-delivery-approval-iphone-lithium-ion)
- - [Samsung Odyssey G81SF OLED Gaming Monitor Review: Gorgeous](https://www.wired.com/review/samsung-g81sf/)
- - [Pennywise returns in the first trailer for HBO&amp;#8217;s It prequel Welcome to Derry](https://www.theverge.com/news/670460/it-prequel-welcome-to-derry-trailer-hbo)
- - [Zoox&#39;s Self-Driving Test Fleet Is Coming to Atlanta](https://www.cnet.com/roadshow/news/zooxs-self-driving-test-fleet-is-coming-to-atlanta/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhones are on the menu for Amazon drone delivery](https://www.theverge.com/news/670434/amazon-prime-drone-delivery-approval-iphone-lithium-ion)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

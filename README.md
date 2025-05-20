@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hands-on with Google&#39;s Android XR Gemini-powered prototype glasses: they are light and comfortable to wear, and the single display in the right lens works well &lpar;Michael L Hicks/Android Central&rpar;](http://www.techmeme.com/250520/p55#a250520p55)
  - [Matthew Lane, a 19-year-old from Massachusetts, pleads guilty to hacking two US companies and extorting them for ransoms; source: one of them is PowerSchool &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/250520/p54#a250520p54)
  - [The Argentine government dismantles a body created three months ago to investigate the Libra cryptocurrency scandal involving President Milei and his sister &lpar;Ignacio Olivera Doll/Bloomberg&rpar;](http://www.techmeme.com/250520/p53#a250520p53)
  - [Sources: US chipmaker Wolfspeed is preparing to file for Chapter 11 bankruptcy within weeks after passing on debt-holder proposals to restructure its debt &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250520/p52#a250520p52)
- - [Epic Games announces that Fortnite is back on the App Store in the US for iPhone and iPad users, and on the Epic Games Store and AltStore in the EU &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250520/p51#a250520p51)
- - [After a lengthy legal battle and billion-dollar loss, &#39;Fortnite&#39; is back on iOS](https://appleinsider.com/articles/25/05/20/after-a-lengthy-legal-battle-and-billion-dollar-loss-fortnite-is-back-on-ios?utm_medium=rss)<!-- TECH:END -->
+ - [Epic Games announces that Fortnite is back on the App Store in the US for iPhone and iPad users, and on the Epic Games Store and AltStore in the EU &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250520/p51#a250520p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

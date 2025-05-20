@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When the universe\u2019s stress just melts away](http://9gag.com/gag/ayNRbv8)
- - 😝 [Scary but hot](http://9gag.com/gag/amoMeKv)
- - 💣 [Daughter: Mom, he&#39;s going to find me Mom: `GG`](http://9gag.com/gag/agm4Wrn)
+ - 😝 [GN launches an official investigation into Nvidia\u2019s underhanded tactics](http://9gag.com/gag/a1m2GXw)
+ - 😝 [This honey hunter collects wild honey but stays super friendly with the bees](http://9gag.com/gag/aE0Dmdo)
+ - 💣 [Scary but hot](http://9gag.com/gag/amoMeKv)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
- - 👉 [Damn mods](http://9gag.com/gag/aryq61d)<!-- MEMES:END -->
+ - 👉 [When the universe\u2019s stress just melts away](http://9gag.com/gag/ayNRbv8)<!-- MEMES:END -->
 
 ---
 

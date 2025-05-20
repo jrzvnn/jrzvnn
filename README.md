@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Coward Big Corpo](http://9gag.com/gag/ae9mBqv)
- - 😝 [Never take dating advise from women\u2026 even your mom She\u2019s still a woman](http://9gag.com/gag/aVvLAXO)
- - 💣 [This feels right.](http://9gag.com/gag/aoyLXw2)
+ - 😝 [Blu is my oldest friend](http://9gag.com/gag/avyRMNW)
+ - 😝 [The machine](http://9gag.com/gag/amoMeQV)
+ - 💣 [A woman films the difficulty of finding the restroom in this German building.](http://9gag.com/gag/aXPWBdD)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
- - 👉 [Saturn didn\u2019t ghost me, society did](http://9gag.com/gag/aPAQ5mB)<!-- MEMES:END -->
+ - 👉 [Magic](http://9gag.com/gag/aYQq0KO)<!-- MEMES:END -->
 
 ---
 

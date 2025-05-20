@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Scary but hot](http://9gag.com/gag/amoMeKv)
- - 😝 [Learning English](http://9gag.com/gag/a872g7Z)
+ - 😝 [The machine](http://9gag.com/gag/amoMeQV)
  - 💣 [The Terror S1 - Recommend](http://9gag.com/gag/a7o2XAq)
- - 😝 [WTF](http://9gag.com/gag/aYQq567)
- - 👉 [Snu snu](http://9gag.com/gag/aGyA52n)<!-- MEMES:END -->
+ - 😝 [This honey hunter collects wild honey but stays super friendly with the bees](http://9gag.com/gag/aE0Dmdo)
+ - 👉 [WTF](http://9gag.com/gag/aYQq567)<!-- MEMES:END -->
 
 ---
 

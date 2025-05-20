@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sometimes, a man needs to get away from it all for a bit.](http://9gag.com/gag/a9y2g0D)
  - 😝 [Do we love old memes?...](http://9gag.com/gag/aKGeQgW)
- - 💣 [Never take dating advise from women\u2026 even your mom She\u2019s still a woman](http://9gag.com/gag/aVvLAXO)
- - 😝 [Coward Big Corpo](http://9gag.com/gag/ae9mBqv)
+ - 😝 [Never take dating advise from women\u2026 even your mom She\u2019s still a woman](http://9gag.com/gag/aVvLAXO)
+ - 💣 [Coward Big Corpo](http://9gag.com/gag/ae9mBqv)
+ - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
  - 👉 [Saturn didn\u2019t ghost me, society did](http://9gag.com/gag/aPAQ5mB)<!-- MEMES:END -->
 
 ---

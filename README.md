@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pokebrutal](http://9gag.com/gag/ajPZ4MQ)
+ - 😝 [Blu is my oldest friend](http://9gag.com/gag/avyRMNW)
  - 😝 [Learning English](http://9gag.com/gag/a872g7Z)
- - 💣 [The machine](http://9gag.com/gag/amoMeQV)
+ - 💣 [What did he do to get that alpha respect? And without showing his fangs other dogs stiff scared of him. Most importantly coming from a poodle mix!?](http://9gag.com/gag/a7o2RD2)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
- - 👉 [Spilled soy sauce](http://9gag.com/gag/a6Z2Aq9)<!-- MEMES:END -->
+ - 👉 [A woman films the difficulty of finding the restroom in this German building.](http://9gag.com/gag/aXPWBdD)<!-- MEMES:END -->
 
 ---
 

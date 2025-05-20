@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A woman films the difficulty of finding the restroom in this German building.](http://9gag.com/gag/aXPWBdD)
- - 😝 [The machine](http://9gag.com/gag/amoMeQV)
- - 💣 [F**k you genetics](http://9gag.com/gag/awydEm4)
+ - 😝 [F**k you genetics](http://9gag.com/gag/awydEm4)
+ - 😝 [Daughter: Mom, he&#39;s going to find me Mom: `GG`](http://9gag.com/gag/agm4Wrn)
+ - 💣 [Getting the full value out of a old bottle of lotion](http://9gag.com/gag/ayNRO7W)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
- - 👉 [Blu is my oldest friend](http://9gag.com/gag/avyRMNW)<!-- MEMES:END -->
+ - 👉 [Deke&#39;s got the most expensive smile in the K-9 unit](http://9gag.com/gag/a872RmO)<!-- MEMES:END -->
 
 ---
 

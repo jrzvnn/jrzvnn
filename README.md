@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WTF](http://9gag.com/gag/aYQq567)
- - 😝 [Learning English](http://9gag.com/gag/a872g7Z)
- - 💣 [Snu snu](http://9gag.com/gag/aGyA52n)
+ - 😝 [The Terror S1 - Recommend](http://9gag.com/gag/a7o2XAq)
  - 😝 [The machine](http://9gag.com/gag/amoMeQV)
- - 👉 [The Terror S1 - Recommend](http://9gag.com/gag/a7o2XAq)<!-- MEMES:END -->
+ - 💣 [Snu snu](http://9gag.com/gag/aGyA52n)
+ - 😝 [Learning English](http://9gag.com/gag/a872g7Z)
+ - 👉 [Scary but hot](http://9gag.com/gag/amoMeKv)<!-- MEMES:END -->
 
 ---
 

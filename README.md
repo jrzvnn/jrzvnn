@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google I/O 2025: All the news and announcements](https://www.theverge.com/google/670250/google-io-news-announcements-gemini-ai-android-xr)
- - [Adobe hikes Creative Cloud prices with a rebrand no one asked for](https://appleinsider.com/articles/25/05/20/adobe-hikes-creative-cloud-prices-with-a-rebrand-no-one-asked-for?utm_medium=rss)
- - [WWDC 2025 is very soon, and Apple started to detail the schedule](https://appleinsider.com/articles/25/05/20/wwdc-2025-is-very-soon-and-apple-started-to-detail-the-schedule?utm_medium=rss)
- - [Bluetti&#39;s Apex 300 makes home backup more accessible and versatile than ever](https://appleinsider.com/articles/25/05/20/bluettis-apex-300-makes-home-backup-more-accessible-and-versatile-than-ever?utm_medium=rss)
- - [Michael Arrington says Coinbase&#39;s recent data breach &quot;will lead to people dying&quot;, calls for KYC rules reassessment and prison for execs failing to protect users &lpar;Ryan S. Gladwin/Decrypt&rpar;](http://www.techmeme.com/250520/p20#a250520p20)<!-- TECH:END -->
+ - [Google I/O 2025 live blog: Gemini takes center stage](https://www.theverge.com/google/670224/google-io-2025-live-blog-gemini)
+ - [Fender&amp;#8217;s free new recording app lets you simulate its iconic amps and pedals](https://www.theverge.com/news/670709/fender-studio-music-recording-app)
+ - [Sources: Apple plans to unveil at WWDC an SDK and related frameworks to let third-party devs build AI features based on LLMs it uses for Apple Intelligence &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250520/p21#a250520p21)
+ - [Elgato&#39;s new Stream Deck lineup goes way beyond the desktop](https://appleinsider.com/articles/25/05/20/elgatos-new-stream-deck-lineup-goes-way-beyond-the-desktop?utm_medium=rss)
+ - [Google I/O 2025: All the news and announcements](https://www.theverge.com/google/670250/google-io-news-announcements-gemini-ai-android-xr)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

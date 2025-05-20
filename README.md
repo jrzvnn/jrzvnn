@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chicago Sun-Times publishes made-up books and fake experts in AI debacle](https://www.theverge.com/ai-artificial-intelligence/670510/chicago-sun-times-ai-generated-reading-list)
  - [Google’s Gemini AI is coming to Chrome](https://www.theverge.com/news/670201/google-gemini-chrome-ai-io-2025)
  - [Google rolls out Jules, its asynchronous, agentic coding assistant unveiled in December 2024, in public beta and expects to announce pricing after the beta &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/250520/p49#a250520p49)
  - [We tried on Google’s prototype AI smart glasses](https://www.theverge.com/hands-on/671077/project-moohan-android-xr-google-io-2025-smart-glasses-wearables)
- - [Palo Alto Networks reports Q3 revenue up 15% YoY to $2.29B, vs. $2.28B est., net income down 6% to $262.1M, and non-GAAP gross margin of 76%, vs. 77.2% est. &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250520/p48#a250520p48)
- - [Take-Two plans to sell $1B of new stock to investors and use the proceeds for general corporate purposes, including repayment of debt and future acquisitions &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250520/p47#a250520p47)<!-- TECH:END -->
+ - [Palo Alto Networks reports Q3 revenue up 15% YoY to $2.29B, vs. $2.28B est., net income down 6% to $262.1M, and non-GAAP gross margin of 76%, vs. 77.2% est. &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250520/p48#a250520p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

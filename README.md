@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Study: autonomous vehicles trained to use &quot;social sensitivity&quot; in assessing the impact of multiple hazards will cause fewer injuries during road accidents &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/250520/p4#a250520p4)
  - [Spotify says Apple approved an update to let users in the US buy individual audiobooks from its iOS app and see audiobook prices, after the Epic v. Apple ruling &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250520/p3#a250520p3)
  - [Google I/O 2025 Live Blog: All the Android, Gemini, and XR Updates as They Happen](https://www.wired.com/live/google-io-2025-live-blog/)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 20, #239](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-20-239/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for May 20, #443](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-20-443/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for May 20, #709](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-20-709/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for May 20, #443](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-20-443/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

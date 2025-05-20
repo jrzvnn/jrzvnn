@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The magic is over](http://9gag.com/gag/aW4b3O6)
- - 😝 [The art of the stealthy retirement.](http://9gag.com/gag/agm4ex1)
- - 💣 [When love doesn&#39;t pay dividends.](http://9gag.com/gag/aoyL7jw)
- - 😝 [Europeans selling Indian street food](http://9gag.com/gag/amoMZgy)
- - 👉 [Now I also have anxiety](http://9gag.com/gag/ae9m8bp)<!-- MEMES:END -->
+ - 😝 [The Terror S1 - Recommend](http://9gag.com/gag/a7o2XAq)
+ - 😝 [Indeed](http://9gag.com/gag/aE0D4Op)
+ - 💣 [The backdoor is there and its reachable through the internet](http://9gag.com/gag/a4P2yDw)
+ - 😝 [Bike ride](http://9gag.com/gag/a7o2Xzm)
+ - 👉 [Woman who left without paying forgot her purse and came back for it, the manager refused to give it back until she paid her bill](http://9gag.com/gag/an7Ew6z)<!-- MEMES:END -->
 
 ---
 

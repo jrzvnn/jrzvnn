@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China’s Effort to Build a Competitor to Elon Musk&#39;s Starlink Is Off to a Bumpy Start](https://www.wired.com/story/china-starlink-competitor-satellites/)
+ - [Republican lawmakers could soon kill clean energy jobs in their home states](https://www.theverge.com/climate-change/670047/solar-wind-energy-battery-manufacturing-tax-credits-republican-spending-bill)
  - [A look at South Korea&#39;s Bithumb ahead of its 2025 IPO; Kaiko says Bithumb had 36% of the country&#39;s crypto trading in January 2024, up from 11.5% in January 2023 &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/250520/p2#a250520p2)
  - [Marshall Takes On Sonos With Its First Soundbar](https://www.wired.com/story/marshall-takes-on-sonos-with-its-first-soundbar/)
- - [Adidas Promo Codes &amp; Deals: 30% Off](https://www.wired.com/story/adidas-promo-code/)
- - [15% Off Wayfair Promo Code | May 2025 Coupons](https://www.wired.com/story/wayfair-coupon/)
- - [Sources: Nintendo picked Samsung to make Switch 2 chips, aiming to ramp output and sell 20M+ units by March 2026, a key win for Samsung as it competes with TSMC &lpar;Bloomberg&rpar;](http://www.techmeme.com/250520/p1#a250520p1)<!-- TECH:END -->
+ - [Adidas Promo Codes &amp; Deals: 30% Off](https://www.wired.com/story/adidas-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

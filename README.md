@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft is putting AI actions into the Windows File Explorer](https://www.theverge.com/news/670251/microsoft-windows-11-ai-actions-file-explorer-context-menu)
+ - [Malaysia downplays its deal to use Huawei chips to build a first-of-its-kind AI system by 2026, underscoring its delicate position in the US-China AI race &lpar;Bloomberg&rpar;](http://www.techmeme.com/250520/p11#a250520p11)
  - [France says it banned Telegram founder Pavel Durov from traveling to the US on May 12 for &quot;negotiations with investment funds&quot;, after his August 2024 arrest &lpar;Politico&rpar;](http://www.techmeme.com/250520/p10#a250520p10)
  - [Sources: Sam Altman had sought to delegate more responsibility for months before hiring Fidji Simo, an adept and detail-oriented manager, in contrast to Altman &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250520/p9#a250520p9)
- - [Russia fines Apple two seconds of profit over promoting LGBTQ+ rights](https://appleinsider.com/articles/25/05/20/russia-fines-apple-two-seconds-of-profit-over-promoting-lgbtq-rights?utm_medium=rss)
- - [How Peter Thiel’s Relationship With Eliezer Yudkowsky Launched the AI Revolution](https://www.wired.com/story/book-excerpt-the-optimist-open-ai-sam-altman/)
- - [President Trump&#39;s recent Middle East trip helped Elon Musk&#39;s SpaceX and Neuralink to cut deals, deepening Musk&#39;s ties with the region&#39;s autocratic monarchies &lpar;New York Times&rpar;](http://www.techmeme.com/250520/p8#a250520p8)<!-- TECH:END -->
+ - [Russia fines Apple two seconds of profit over promoting LGBTQ+ rights](https://appleinsider.com/articles/25/05/20/russia-fines-apple-two-seconds-of-profit-over-promoting-lgbtq-rights?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Learning English](http://9gag.com/gag/a872g7Z)
- - 😝 [The machine](http://9gag.com/gag/amoMeQV)
- - 💣 [What did he do to get that alpha respect? And without showing his fangs other dogs stiff scared of him. Most importantly coming from a poodle mix!?](http://9gag.com/gag/a7o2RD2)
+ - 😝 [A dream](http://9gag.com/gag/a9y2o51)
+ - 😝 [Knowing we are totally free tomorrow](http://9gag.com/gag/a872ZBQ)
+ - 💣 [Saturn didn\u2019t ghost me, society did](http://9gag.com/gag/aPAQ5mB)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
- - 👉 [This honey hunter collects wild honey but stays super friendly with the bees](http://9gag.com/gag/aE0Dmdo)<!-- MEMES:END -->
+ - 👉 [This feels right.](http://9gag.com/gag/aoyLXw2)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple Intelligence set to be opened up in iOS 19 to third-party developers](https://appleinsider.com/articles/25/05/20/apple-intelligence-set-to-be-opened-up-in-ios-19-to-third-party-developers?utm_medium=rss)
- - [A livestream of the Google I/O 2025 keynote &lpar;Google on YouTube&rpar;](http://www.techmeme.com/250520/p24#a250520p24)
- - [A live blog of Google I/O 2025, where announcements about Gemini, Android XR, and more are expected &lpar;The Verge&rpar;](http://www.techmeme.com/250520/p23#a250520p23)
- - [The most powerful laser in the US recently produced 2 quadrillion watts of power](https://www.theverge.com/news/670781/university-of-michigan-zeus-laser-facility-two-quadrillion-watts-most-powerful)
- - [The ad-supported web is dying, and the next development to accelerate this may be the agentic web, which Microsoft is pushing via NLWeb and MCP support &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250520/p22#a250520p22)<!-- TECH:END -->
+ - [Civitai will &quot;pause&quot; credit card payments starting May 23, as its current payment processor won&#39;t &quot;support platforms that allow AI-generated explicit content&quot; &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250520/p26#a250520p26)
+ - [Gmail’s smart replies will use AI to pull context from your inbox and Drive](https://www.theverge.com/news/670166/google-gmail-ai-smart-replies-emails-io-2025)
+ - [We Hand-Picked the 45 Best Deals From the 2025 REI Anniversary Sale](https://www.wired.com/story/rei-anniversary-sale-may-2025/)
+ - [Catena Labs, co-founded by Circle co-founder Sean Neville to build an &quot;AI-native bank&quot;, emerges from stealth with an $18M seed led by a16z &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250520/p25#a250520p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man uses a stopwatch to freeze time on a highschool girl](http://9gag.com/gag/aByGpP2)
- - 😝 [Officer: You wanna get arrested? Civilian: You wanna get sued?](http://9gag.com/gag/aXPWy1g)
- - 💣 [Seems like a good problem to have](http://9gag.com/gag/aoyLvNm)
+ - 😝 [Europeans selling Indian street food](http://9gag.com/gag/amoMZgy)
+ - 😝 [What did he do to get that alpha respect? And without showing his fangs other dogs stiff scared of him. Most importantly coming from a poodle mix!?](http://9gag.com/gag/a7o2RD2)
+ - 💣 [Showing the audience](http://9gag.com/gag/aVvL6vy)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
- - 👉 [A dream](http://9gag.com/gag/a9y2o51)<!-- MEMES:END -->
+ - 👉 [Scary but hot](http://9gag.com/gag/amoMeKv)<!-- MEMES:END -->
 
 ---
 

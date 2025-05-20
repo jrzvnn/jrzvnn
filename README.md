@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Blu is my oldest friend](http://9gag.com/gag/avyRMNW)
  - 😝 [Deke&#39;s got the most expensive smile in the K-9 unit](http://9gag.com/gag/a872RmO)
- - 😝 [Seems like a good problem to have](http://9gag.com/gag/aoyLvNm)
- - 💣 [A woman films the difficulty of finding the restroom in this German building.](http://9gag.com/gag/aXPWBdD)
+ - 💣 [Seems like a good problem to have](http://9gag.com/gag/aoyLvNm)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
- - 👉 [You are the father](http://9gag.com/gag/aRBoYE2)<!-- MEMES:END -->
+ - 👉 [F**k you genetics](http://9gag.com/gag/awydEm4)<!-- MEMES:END -->
 
 ---
 

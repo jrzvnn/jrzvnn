@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at South Korea&#39;s Bithumb as it preps for a 2025 IPO; Kaiko says Bithumb held 36% of the country&#39;s crypto trading in Jan. 2024, up from 11.5% in Jan. 2023 &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/250520/p2#a250520p2)
+ - [Marshall Takes On Sonos With Its First Soundbar](https://www.wired.com/story/marshall-takes-on-sonos-with-its-first-soundbar/)
  - [Adidas Promo Codes &amp; Deals: 30% Off](https://www.wired.com/story/adidas-promo-code/)
  - [15% Off Wayfair Promo Code | May 2025 Coupons](https://www.wired.com/story/wayfair-coupon/)
- - [Sources: Nintendo picked Samsung to make Switch 2 chips, aiming to ramp output and sell 20M+ units by March 2026, a key win for Samsung as it competes with TSMC &lpar;Bloomberg&rpar;](http://www.techmeme.com/250520/p1#a250520p1)
- - [Which hidden files you can safely delete from your Mac](https://appleinsider.com/inside/macos/tips/which-hidden-files-you-can-safely-delete-from-your-mac?utm_medium=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, May 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-may-20/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Nintendo picked Samsung to make Switch 2 chips, aiming to ramp output and sell 20M+ units by March 2026, a key win for Samsung as it competes with TSMC &lpar;Bloomberg&rpar;](http://www.techmeme.com/250520/p1#a250520p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

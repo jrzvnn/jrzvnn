@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Terror S1 - Recommend](http://9gag.com/gag/a7o2XAq)
- - 😝 [The machine](http://9gag.com/gag/amoMeQV)
- - 💣 [Snu snu](http://9gag.com/gag/aGyA52n)
  - 😝 [Learning English](http://9gag.com/gag/a872g7Z)
- - 👉 [Scary but hot](http://9gag.com/gag/amoMeKv)<!-- MEMES:END -->
+ - 😝 [WTF](http://9gag.com/gag/aYQq567)
+ - 💣 [Hello kitty](http://9gag.com/gag/aoyL7PX)
+ - 😝 [Scary but hot](http://9gag.com/gag/amoMeKv)
+ - 👉 [What did he do to get that alpha respect? And without showing his fangs other dogs stiff scared of him. Most importantly coming from a poodle mix!?](http://9gag.com/gag/a7o2RD2)<!-- MEMES:END -->
 
 ---
 

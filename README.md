@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SignalFire: in 2024, Big Tech employment declined 1.6% in Austin, and startup employment fell 4.9%; Dallas, Houston, Denver, and Toronto also declined &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250520/p12#a250520p12)
- - [Google&#39;s new Notebook LM app adds an AI research assistant to your iPhone](https://appleinsider.com/articles/25/05/20/googles-new-notebook-lm-app-adds-an-ai-research-assistant-to-your-iphone?utm_medium=rss)
- - [Apple debuts Apple Vision Pro &#39;Bono: Stories of Surrender&#39; at Cannes](https://appleinsider.com/articles/25/05/20/apple-debuts-apple-vision-pro-bono-stories-of-surrender-at-cannes?utm_medium=rss)
- - [The 7 Best Linen Sheets for Cool and Comfy Sleeping &lpar;2025&rpar;](https://www.wired.com/gallery/best-linen-sheets/)
- - [Microsoft is putting AI actions into the Windows File Explorer](https://www.theverge.com/news/670251/microsoft-windows-11-ai-actions-file-explorer-context-menu)<!-- TECH:END -->
+ - [How to use Google Translate as the iPhone&#39;s default translation app](https://appleinsider.com/inside/iphone/tips/how-to-use-google-translate-as-the-iphones-default-translation-app?utm_medium=rss)
+ - [The EU and the UK agree on a deal to let both regions&#39; competition regulators work together more closely and flag important M&amp;A investigations to each other &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/250520/p13#a250520p13)
+ - [Withings BPM Vision Review: At-Home Blood Pressure Monitoring](https://www.wired.com/review/withings-bpm-vision-blood-pressure-monitor/)
+ - [CalDigit TS5 Plus review: A great &amp; capable Thunderbolt 5 dock for Mac](https://appleinsider.com/articles/25/05/20/caldigit-ts5-plus-review-a-great-capable-thunderbolt-5-dock-for-mac?utm_medium=rss)
+ - [SignalFire: in 2024, Big Tech employment declined 1.6% in Austin, and startup employment fell 4.9%; Dallas, Houston, Denver, and Toronto also declined &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250520/p12#a250520p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

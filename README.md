@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [iPhones are on the menu for Amazon drone delivery](https://www.theverge.com/news/670434/amazon-prime-drone-delivery-approval-iphone-lithium-ion)
  - [Samsung Odyssey G81SF OLED Gaming Monitor Review: Gorgeous](https://www.wired.com/review/samsung-g81sf/)
  - [Pennywise returns in the first trailer for HBO&amp;#8217;s It prequel Welcome to Derry](https://www.theverge.com/news/670460/it-prequel-welcome-to-derry-trailer-hbo)
- - [Walmart quietly released a new 4K Google TV box with Dolby Vision](https://www.theverge.com/news/670444/walmart-google-android-tv-onn-4k-plus)<!-- TECH:END -->
+ - [Zoox&#39;s Self-Driving Test Fleet Is Coming to Atlanta](https://www.cnet.com/roadshow/news/zooxs-self-driving-test-fleet-is-coming-to-atlanta/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

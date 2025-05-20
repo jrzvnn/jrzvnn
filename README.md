@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Take-Two plans to sell $1B of new stock to investors and use the proceeds for general corporate purposes, including repayment of debt and future acquisitions &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250520/p47#a250520p47)
+ - [Google starts beta testing Android 16’s youthful new look](https://www.theverge.com/news/671153/google-beta-android-16-material-3-expressive-design-rollout)
+ - [Google commits up to $150M, including $75M for product development and commercialization, as part of its partnership with Warby Parker to make smart glasses &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250520/p46#a250520p46)
  - [Everything Google Announced at I/O 2025](https://www.wired.com/story/everything-google-announced-at-io-2025/)
- - [Adobe hikes Creative Cloud prices with a rebrand no one asked for](https://appleinsider.com/articles/25/05/20/adobe-hikes-creative-cloud-prices-with-a-rebrand-no-one-asked-for?utm_medium=rss)
- - [Google launches SynthID Detector, a verification portal that lets users upload files and tries to identify if they contain content made with Google AI &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250520/p45#a250520p45)
- - [Xreal unveils Project Aura, expected to be the first Android XR glasses, powered by a separate puck with a Qualcomm chip, slated to launch by early 2026 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250520/p44#a250520p44)
- - [Lost in Cult’s new Editions publishing label focuses on art and indie games preservation](https://www.theverge.com/news/671051/lost-in-cult-editions-physical-game-releases)<!-- TECH:END -->
+ - [Adobe hikes Creative Cloud prices with a rebrand no one asked for](https://appleinsider.com/articles/25/05/20/adobe-hikes-creative-cloud-prices-with-a-rebrand-no-one-asked-for?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

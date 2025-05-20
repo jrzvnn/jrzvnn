@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Snu snu](http://9gag.com/gag/aGyA52n)
- - 😝 [This honey hunter collects wild honey but stays super friendly with the bees](http://9gag.com/gag/aE0Dmdo)
- - 💣 [Officer: You wanna get arrested? Civilian: You wanna get sued?](http://9gag.com/gag/aXPWy1g)
- - 😝 [WTF](http://9gag.com/gag/aYQq567)
- - 👉 [Scary but hot](http://9gag.com/gag/amoMeKv)<!-- MEMES:END -->
+ - 😝 [What did he do to get that alpha respect? And without showing his fangs other dogs stiff scared of him. Most importantly coming from a poodle mix!?](http://9gag.com/gag/a7o2RD2)
+ - 😝 [Officer: You wanna get arrested? Civilian: You wanna get sued?](http://9gag.com/gag/aXPWy1g)
+ - 💣 [F**k you genetics](http://9gag.com/gag/awydEm4)
+ - 😝 [Learning English](http://9gag.com/gag/a872g7Z)
+ - 👉 [Reporter knocks over world record Jenga tower](http://9gag.com/gag/aZZj546)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its not perfect but at least it&#39;s not just a lot of spam from bots](http://9gag.com/gag/a9y2xA0)
- - 😝 [Learning English](http://9gag.com/gag/a872g7Z)
- - 💣 [The machine](http://9gag.com/gag/amoMeQV)
+ - 😝 [Blu is my oldest friend](http://9gag.com/gag/avyRMNW)
+ - 😝 [From glam to &#39;I need a vacation!&#39;](http://9gag.com/gag/aRBobg7)
+ - 💣 [When &#39;the girl from work&#39; is more plastic than you expected](http://9gag.com/gag/aPAQqGV)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
- - 👉 [A dream](http://9gag.com/gag/a9y2o51)<!-- MEMES:END -->
+ - 👉 [What did he do to get that alpha respect? And without showing his fangs other dogs stiff scared of him. Most importantly coming from a poodle mix!?](http://9gag.com/gag/a7o2RD2)<!-- MEMES:END -->
 
 ---
 

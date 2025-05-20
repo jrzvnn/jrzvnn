@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Miley Cyrus is now becoming officer Alex Murphy.](http://9gag.com/gag/a342VqN)
+ - 😝 [A woman films the difficulty of finding the restroom in this German building.](http://9gag.com/gag/aXPWBdD)
  - 😝 [The machine](http://9gag.com/gag/amoMeQV)
- - 💣 [Alpha dog back at its business](http://9gag.com/gag/a872BEZ)
+ - 💣 [F**k you genetics](http://9gag.com/gag/awydEm4)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
- - 👉 [PC Gaming Is Talking](http://9gag.com/gag/amoMeRy)<!-- MEMES:END -->
+ - 👉 [Blu is my oldest friend](http://9gag.com/gag/avyRMNW)<!-- MEMES:END -->
 
 ---
 

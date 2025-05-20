@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [A dream](http://9gag.com/gag/a9y2o51)
- - 😝 [Random seggs knowledge](http://9gag.com/gag/aND4bZr)
- - 💣 [What did he do to get that alpha respect? And without showing his fangs other dogs stiff scared of him. Most importantly coming from a poodle mix!?](http://9gag.com/gag/a7o2RD2)
+ - 😝 [Showing the audience](http://9gag.com/gag/aVvL6vy)
+ - 💣 [Scary but hot](http://9gag.com/gag/amoMeKv)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
- - 👉 [This honey hunter collects wild honey but stays super friendly with the bees](http://9gag.com/gag/aE0Dmdo)<!-- MEMES:END -->
+ - 👉 [Learning English](http://9gag.com/gag/a872g7Z)<!-- MEMES:END -->
 
 ---
 

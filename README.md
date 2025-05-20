@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Showing the audience](http://9gag.com/gag/aVvL6vy)
- - 😝 [A dream](http://9gag.com/gag/a9y2o51)
- - 💣 [Seems like a good problem to have](http://9gag.com/gag/aoyLvNm)
- - 😝 [WTF](http://9gag.com/gag/aYQq567)
- - 👉 [This honey hunter collects wild honey but stays super friendly with the bees](http://9gag.com/gag/aE0Dmdo)<!-- MEMES:END -->
+ - 😝 [Sometimes, a man needs to get away from it all for a bit.](http://9gag.com/gag/a9y2g0D)
+ - 😝 [Do we love old memes?...](http://9gag.com/gag/aKGeQgW)
+ - 💣 [Never take dating advise from women\u2026 even your mom She\u2019s still a woman](http://9gag.com/gag/aVvLAXO)
+ - 😝 [Coward Big Corpo](http://9gag.com/gag/ae9mBqv)
+ - 👉 [Saturn didn\u2019t ghost me, society did](http://9gag.com/gag/aPAQ5mB)<!-- MEMES:END -->
 
 ---
 

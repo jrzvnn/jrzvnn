@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Terror S1 - Recommend](http://9gag.com/gag/a7o2XAq)
- - 😝 [Indeed](http://9gag.com/gag/aE0D4Op)
- - 💣 [The backdoor is there and its reachable through the internet](http://9gag.com/gag/a4P2yDw)
- - 😝 [Bike ride](http://9gag.com/gag/a7o2Xzm)
- - 👉 [Woman who left without paying forgot her purse and came back for it, the manager refused to give it back until she paid her bill](http://9gag.com/gag/an7Ew6z)<!-- MEMES:END -->
+ - 😝 [WTF](http://9gag.com/gag/aYQq567)
+ - 😝 [Learning English](http://9gag.com/gag/a872g7Z)
+ - 💣 [Snu snu](http://9gag.com/gag/aGyA52n)
+ - 😝 [The machine](http://9gag.com/gag/amoMeQV)
+ - 👉 [The Terror S1 - Recommend](http://9gag.com/gag/a7o2XAq)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is putting AI actions into the Windows File Explorer](https://www.theverge.com/news/670251/microsoft-windows-11-ai-actions-file-explorer-context-menu)
- - [Malaysia downplays its deal to use Huawei chips to build a first-of-its-kind AI system by 2026, underscoring its delicate position in the US-China AI race &lpar;Bloomberg&rpar;](http://www.techmeme.com/250520/p11#a250520p11)
- - [France says it banned Telegram founder Pavel Durov from traveling to the US on May 12 for &quot;negotiations with investment funds&quot;, after his August 2024 arrest &lpar;Politico&rpar;](http://www.techmeme.com/250520/p10#a250520p10)
- - [Sources: Sam Altman had sought to delegate more responsibility for months before hiring Fidji Simo, an adept and detail-oriented manager, in contrast to Altman &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250520/p9#a250520p9)
- - [Russia fines Apple two seconds of profit over promoting LGBTQ+ rights](https://appleinsider.com/articles/25/05/20/russia-fines-apple-two-seconds-of-profit-over-promoting-lgbtq-rights?utm_medium=rss)<!-- TECH:END -->
+ - [SignalFire: in 2024, Big Tech employment declined 1.6% in Austin, and startup employment fell 4.9%; Dallas, Houston, Denver, and Toronto also declined &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250520/p12#a250520p12)
+ - [Google&#39;s new Notebook LM app adds an AI research assistant to your iPhone](https://appleinsider.com/articles/25/05/20/googles-new-notebook-lm-app-adds-an-ai-research-assistant-to-your-iphone?utm_medium=rss)
+ - [Apple debuts Apple Vision Pro &#39;Bono: Stories of Surrender&#39; at Cannes](https://appleinsider.com/articles/25/05/20/apple-debuts-apple-vision-pro-bono-stories-of-surrender-at-cannes?utm_medium=rss)
+ - [The 7 Best Linen Sheets for Cool and Comfy Sleeping &lpar;2025&rpar;](https://www.wired.com/gallery/best-linen-sheets/)
+ - [Microsoft is putting AI actions into the Windows File Explorer](https://www.theverge.com/news/670251/microsoft-windows-11-ai-actions-file-explorer-context-menu)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

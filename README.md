@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [After a lengthy legal battle and billion-dollar loss, &#39;Fortnite&#39; is back on iOS](https://appleinsider.com/articles/25/05/20/after-a-lengthy-legal-battle-and-billion-dollar-loss-fortnite-is-back-on-ios?utm_medium=rss)
  - [Fortnite is back on US iPhones again](https://www.theverge.com/news/661290/fortnite-ios-iphone-epic-games-back-apple-app-store)
  - [Sweden passes a law criminalizing the purchase of live online sexual performances, including cam shows and sex chats; buying pre-recorded content remains legal &lpar;Charles Szumski/Euractiv&rpar;](http://www.techmeme.com/250520/p50#a250520p50)
- - [Chicago Sun-Times publishes made-up books and fake experts in AI debacle](https://www.theverge.com/ai-artificial-intelligence/670510/chicago-sun-times-ai-generated-reading-list)<!-- TECH:END -->
+ - [The Absolute Best Horror Movies on Hulu](https://www.cnet.com/tech/services-and-software/the-absolute-best-horror-movies-on-hulu-may-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

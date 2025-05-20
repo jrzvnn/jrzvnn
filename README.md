@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Blu is my oldest friend](http://9gag.com/gag/avyRMNW)
- - 😝 [Learning English](http://9gag.com/gag/a872g7Z)
- - 💣 [What did he do to get that alpha respect? And without showing his fangs other dogs stiff scared of him. Most importantly coming from a poodle mix!?](http://9gag.com/gag/a7o2RD2)
+ - 😝 [Deke&#39;s got the most expensive smile in the K-9 unit](http://9gag.com/gag/a872RmO)
+ - 😝 [This honey hunter collects wild honey but stays super friendly with the bees](http://9gag.com/gag/aE0Dmdo)
+ - 💣 [Seems like a good problem to have](http://9gag.com/gag/aoyLvNm)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
  - 👉 [A woman films the difficulty of finding the restroom in this German building.](http://9gag.com/gag/aXPWBdD)<!-- MEMES:END -->
 

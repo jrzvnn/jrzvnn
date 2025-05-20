@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Intel is considering divesting its networking and edge businesses, which generated $5.8B in 2024 revenue, to focus on PC and data center chips &lpar;Reuters&rpar;](http://www.techmeme.com/250520/p18#a250520p18)
+ - [UK tech unicorn Builder.ai, backed by Microsoft, Qatar, and others, says it is entering insolvency proceedings due to financial and historic leadership issues &lpar;Financial Times&rpar;](http://www.techmeme.com/250520/p17#a250520p17)
+ - [Gravitee, which offers self-hosted and SaaS API management tools, raised a $60M Series C led by Sixth Street, taking its total funding to $125M+ &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250520/p16#a250520p16)
  - [Nearly half of streaming subscriptions are for plans with ads](https://www.theverge.com/news/670321/streaming-ad-supported-subscriptions-antenna-data)
- - [Best Bike Helmets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-bike-helmets/)
- - [Sources and a document: the EU plans to levy a flat ~€2 fee on billions of small packages entering the bloc, mainly from China, in a blow to Temu and Shein &lpar;Andy Bounds/Financial Times&rpar;](http://www.techmeme.com/250520/p15#a250520p15)
- - [I tested a robot vacuum with an arm, and my dog may never forgive me](https://www.theverge.com/reviews/669555/roborock-saros-z70-robot-vacuum-review)
- - [Inside the first Stargate AI data center in Abilene, Texas: thousands working to build eight near-identical structures, startup Crusoe spending $12B, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/250520/p14#a250520p14)<!-- TECH:END -->
+ - [Best Bike Helmets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-bike-helmets/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says it is partnering with Samsung, Gentle Monster, Xreal, and Warby Parker to create Android XR smart glasses, offering AI assistance via Gemini &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250520/p37#a250520p37)
- - [Google rolls out Project Mariner, its web-browsing AI agent, to Google&#39;s AI Ultra plan, and brings its capabilities to the Gemini API and Vertex AI &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250520/p36#a250520p36)
- - [Google says Project Astra will power new capabilities in Search, including a new Search Live feature, as well as in the Gemini AI app and third-party products &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250520/p35#a250520p35)
- - [DoorDash ended its AI-powered voice ordering product for restaurant clients in April 2025, after launching it in August 2023 &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250520/p34#a250520p34)
- - [Google announces new video and image generation models Veo 3 and Imagen 4, alongside a new AI filmmaking tool Flow and expanded access to Lyria 2 &lpar;CNBC&rpar;](http://www.techmeme.com/250520/p33#a250520p33)<!-- TECH:END -->
+ - [Google ships Gemini 2.5 Flash, Live Camera for iOS](https://appleinsider.com/articles/25/05/20/google-ships-gemini-25-flash-live-camera-for-ios?utm_medium=rss)
+ - [Google&#39;s AI Mode, its chatbot for Search, rolls out to everyone in the US and will include features like Deep Search, agentic capabilities, and chart generation &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/250520/p40#a250520p40)
+ - [Google announces Video Overviews is coming soon to NotebookLM, to turn dense multimedia, like raw notes, PDFs, and images, into digestible visual presentations &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250520/p39#a250520p39)
+ - [Google debuts Deep Think, an enhanced reasoning mode in Gemini 2.5 Pro that it says excels at math and coding, available to &quot;trusted testers&quot; via the Gemini API &lpar;Taryn Plumb/VentureBeat&rpar;](http://www.techmeme.com/250520/p38#a250520p38)
+ - [Google says it is partnering with Samsung, Gentle Monster, Xreal, and Warby Parker to create Android XR smart glasses, offering AI assistance via Gemini &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250520/p37#a250520p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

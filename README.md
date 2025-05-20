@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Miley Cyrus is now becoming officer Alex Murphy.](http://9gag.com/gag/a342VqN)
- - 😝 [F**k you genetics](http://9gag.com/gag/awydEm4)
- - 💣 [Getting the full value out of a old bottle of lotion](http://9gag.com/gag/ayNRO7W)
+ - 😝 [When the universe\u2019s stress just melts away](http://9gag.com/gag/ayNRbv8)
+ - 😝 [Scary but hot](http://9gag.com/gag/amoMeKv)
+ - 💣 [Daughter: Mom, he&#39;s going to find me Mom: `GG`](http://9gag.com/gag/agm4Wrn)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
- - 👉 [Deke&#39;s got the most expensive smile in the K-9 unit](http://9gag.com/gag/a872RmO)<!-- MEMES:END -->
+ - 👉 [Damn mods](http://9gag.com/gag/aryq61d)<!-- MEMES:END -->
 
 ---
 

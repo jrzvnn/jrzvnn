@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 15 biggest announcements at Google I/O 2025](https://www.theverge.com/news/669408/google-io-2025-biggest-announcements-ai-gemini)
  - [Google unveils Gemini in Chrome, which initially works across just two tabs but will eventually support many and be agentic, for Google AI Pro and Ultra users &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250520/p42#a250520p42)
  - [Google will soon let users shop in AI Mode, unveils agentic checkout, and updates its virtual try-on feature in Search Labs for clothes shoppers in the US &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250520/p41#a250520p41)
  - [Google ships Gemini 2.5 Flash, Live Camera for iOS](https://appleinsider.com/articles/25/05/20/google-ships-gemini-25-flash-live-camera-for-ios?utm_medium=rss)
- - [Google&#39;s AI Mode, its chatbot for Search, rolls out to everyone in the US and will include features like Deep Search, agentic capabilities, and chart generation &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/250520/p40#a250520p40)
- - [Google announces Video Overviews is coming soon to NotebookLM, to turn dense multimedia, like raw notes, PDFs, and images, into digestible visual presentations &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250520/p39#a250520p39)<!-- TECH:END -->
+ - [Google&#39;s AI Mode, its chatbot for Search, rolls out to everyone in the US and will include features like Deep Search, agentic capabilities, and chart generation &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/250520/p40#a250520p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

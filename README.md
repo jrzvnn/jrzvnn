@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chicago Sun-Times publishes made-up books and fake experts in AI debacle](https://www.theverge.com/ai-artificial-intelligence/670510/chicago-sun-times-ai-generated-reading-list)
- - [Google’s Gemini AI is coming to Chrome](https://www.theverge.com/news/670201/google-gemini-chrome-ai-io-2025)
- - [Google rolls out Jules, its asynchronous, agentic coding assistant unveiled in December 2024, in public beta and expects to announce pricing after the beta &lpar;Emilia David/VentureBeat&rpar;](http://www.techmeme.com/250520/p49#a250520p49)
- - [We tried on Google’s prototype AI smart glasses](https://www.theverge.com/hands-on/671077/project-moohan-android-xr-google-io-2025-smart-glasses-wearables)
- - [Palo Alto Networks reports Q3 revenue up 15% YoY to $2.29B, vs. $2.28B est., net income down 6% to $262.1M, and non-GAAP gross margin of 76%, vs. 77.2% est. &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250520/p48#a250520p48)<!-- TECH:END -->
+ - [Epic Games announces that Fortnite is back on the App Store in the US for iPhone and iPad users, and on the Epic Games Store and AltStore in the EU &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250520/p51#a250520p51)
+ - [After a lengthy legal battle and billion-dollar loss, &#39;Fortnite&#39; is back on iOS](https://appleinsider.com/articles/25/05/20/after-a-lengthy-legal-battle-and-billion-dollar-loss-fortnite-is-back-on-ios?utm_medium=rss)
+ - [Fortnite is back on US iPhones again](https://www.theverge.com/news/661290/fortnite-ios-iphone-epic-games-back-apple-app-store)
+ - [Sweden passes a law criminalizing the purchase of live online sexual performances, including cam shows and sex chats; buying pre-recorded content remains legal &lpar;Charles Szumski/Euractiv&rpar;](http://www.techmeme.com/250520/p50#a250520p50)
+ - [The Absolute Best Horror Movies on Hulu](https://www.cnet.com/tech/services-and-software/the-absolute-best-horror-movies-on-hulu-may-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

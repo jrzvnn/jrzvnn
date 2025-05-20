@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is bringing an ‘Agent Mode’ to the Gemini app](https://www.theverge.com/news/670848/google-agent-mode-gemini-app-project-mariner-i-o-2025)
- - [Google brings live translation to Google Meet, matching the user&#39;s tone and cadence, first in beta for Spanish and English on Google AI Pro and Ultra plans &lpar;Billy Steele/Engadget&rpar;](http://www.techmeme.com/250520/p28#a250520p28)
- - [Palestinian developer disrupts Microsoft keynote: ‘my people are suffering’](https://www.theverge.com/news/670812/microsoft-build-protest-keynote-jay-parikh-palestinian-tech-worker)
- - [Google announces Gmail&#39;s smart replies will use AI to pull context from Gmail inbox and Drive, launching in Google Labs in July and available first in English &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250520/p27#a250520p27)
- - [Apple Intelligence set to be opened up in iOS 19 to third-party developers](https://appleinsider.com/articles/25/05/20/apple-intelligence-set-to-be-opened-up-in-ios-19-to-third-party-developers?utm_medium=rss)<!-- TECH:END -->
+ - [SK Telecom says the breach disclosed in April first began in 2022 and ultimately exposed the USIM data of 27M subscribers &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250520/p30#a250520p30)
+ - [Google launches Google AI Ultra, a subscription plan with the highest usage limits and access to its most capable models, rolling out in the US for $250/month &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250520/p29#a250520p29)
+ - [FTC v. Meta: The antitrust battle over WhatsApp and Instagram](https://www.theverge.com/news/646809/ftc-v-meta-antitrust-monopoly-trial-instagram-whatsapp)
+ - [With AI Mode, Google Search Is About to Get Even Chattier](https://www.wired.com/story/google-ai-mode-search/)
+ - [Google’s AI Boss Says Gemini&#39;s New Abilities Point the Way to AGI](https://www.wired.com/story/googles-ai-boss-says-geminis-new-abilities-point-the-way-to-agi/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

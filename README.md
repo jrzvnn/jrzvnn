@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Study: autonomous vehicles trained to use &quot;social sensitivity&quot; in assessing the impact of multiple hazards will cause fewer injuries during road accidents &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/250520/p4#a250520p4)
- - [Spotify says Apple approved an update to let users in the US buy individual audiobooks from its iOS app and see audiobook prices, after the Epic v. Apple ruling &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250520/p3#a250520p3)
- - [Google I/O 2025 Live Blog: All the Android, Gemini, and XR Updates as They Happen](https://www.wired.com/live/google-io-2025-live-blog/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 20, #239](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-20-239/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for May 20, #443](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-20-443/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Adobe is switching some Creative Cloud users to a pricier AI plan](https://www.theverge.com/news/670241/adobe-ai-creative-cloud-all-apps-pro-increase)
+ - [Q&amp;A with Feng Ji, founder of top Chinese quant fund Baiont, on using AI to develop trading strategies, China&#39;s quant landscape, having a small team, and more &lpar;Zijing Wu/Financial Times&rpar;](http://www.techmeme.com/250520/p6#a250520p6)
+ - [Analysis: only four of the top 50 tech companies are European, and none of the top 10 quantum companies are in Europe, as the continent lags the US and China &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250520/p5#a250520p5)
+ - [&#39;Nine Perfect Strangers&#39;: How to Watch Season 2 of the Nicole Kidman Drama](https://www.cnet.com/tech/services-and-software/nine-perfect-strangers-how-to-watch-season-2-of-the-nicole-kidman-drama/#ftag=CAD590a51e)
+ - [Before iOS 19, Don&#39;t Forget These iPhone Features From iOS 18.1](https://www.cnet.com/tech/services-and-software/before-ios-190dont-forget-these-iphone-features-from-ios-18-1/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China’s Effort to Build a Competitor to Elon Musk&#39;s Starlink Is Off to a Bumpy Start](https://www.wired.com/story/china-starlink-competitor-satellites/)
- - [Republican lawmakers could soon kill clean energy jobs in their home states](https://www.theverge.com/climate-change/670047/solar-wind-energy-battery-manufacturing-tax-credits-republican-spending-bill)
- - [A look at South Korea&#39;s Bithumb ahead of its 2025 IPO; Kaiko says Bithumb had 36% of the country&#39;s crypto trading in January 2024, up from 11.5% in January 2023 &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/250520/p2#a250520p2)
- - [Marshall Takes On Sonos With Its First Soundbar](https://www.wired.com/story/marshall-takes-on-sonos-with-its-first-soundbar/)
- - [Adidas Promo Codes &amp; Deals: 30% Off](https://www.wired.com/story/adidas-promo-code/)<!-- TECH:END -->
+ - [Spotify says Apple approved an update to let users in the US buy individual audiobooks from its iOS app and see audiobook prices, after the Epic v. Apple ruling &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250520/p3#a250520p3)
+ - [Google I/O 2025 Live Blog: All the Android, Gemini, and XR Updates as They Happen](https://www.wired.com/live/google-io-2025-live-blog/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 20, #239](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-20-239/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for May 20, #443](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-20-443/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for May 20, #709](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-20-709/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

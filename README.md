@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Sam Altman had sought to delegate more responsibility for months before hiring Fidji Simo, an adept and detail-oriented manager, in contrast to Altman &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250520/p9#a250520p9)
+ - [Russia fines Apple two seconds of profit over promoting LGBTQ+ rights](https://appleinsider.com/articles/25/05/20/russia-fines-apple-two-seconds-of-profit-over-promoting-lgbtq-rights?utm_medium=rss)
+ - [How Peter Thiel’s Relationship With Eliezer Yudkowsky Launched the AI Revolution](https://www.wired.com/story/book-excerpt-the-optimist-open-ai-sam-altman/)
  - [President Trump&#39;s recent Middle East trip helped Elon Musk&#39;s SpaceX and Neuralink to cut deals, deepening Musk&#39;s ties with the region&#39;s autocratic monarchies &lpar;New York Times&rpar;](http://www.techmeme.com/250520/p8#a250520p8)
- - [Chinese government data: smartphone exports including iPhones fell 72% MoM to $688.5M in April, the lowest since 2011, outpacing a 21% drop in overall shipments &lpar;Bloomberg&rpar;](http://www.techmeme.com/250520/p7#a250520p7)
- - [What It’s Like to Interview for a Job at DOGE](https://www.wired.com/story/doge-application-interview-process/)
- - [Adobe is switching some Creative Cloud users to a pricier AI plan](https://www.theverge.com/news/670241/adobe-ai-creative-cloud-all-apps-pro-increase)
- - [Q&amp;A with Feng Ji, founder of top Chinese quant fund Baiont, on using AI to develop trading strategies, China&#39;s quant landscape, having a small team, and more &lpar;Zijing Wu/Financial Times&rpar;](http://www.techmeme.com/250520/p6#a250520p6)<!-- TECH:END -->
+ - [Chinese government data: smartphone exports including iPhones fell 72% MoM to $688.5M in April, the lowest since 2011, outpacing a 21% drop in overall shipments &lpar;Bloomberg&rpar;](http://www.techmeme.com/250520/p7#a250520p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

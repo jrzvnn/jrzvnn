@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at South Korea&#39;s Bithumb as it preps for a 2025 IPO; Kaiko says Bithumb held 36% of the country&#39;s crypto trading in Jan. 2024, up from 11.5% in Jan. 2023 &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/250520/p2#a250520p2)
+ - [A look at South Korea&#39;s Bithumb ahead of its 2025 IPO; Kaiko says Bithumb had 36% of the country&#39;s crypto trading in January 2024, up from 11.5% in January 2023 &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/250520/p2#a250520p2)
  - [Marshall Takes On Sonos With Its First Soundbar](https://www.wired.com/story/marshall-takes-on-sonos-with-its-first-soundbar/)
  - [Adidas Promo Codes &amp; Deals: 30% Off](https://www.wired.com/story/adidas-promo-code/)
  - [15% Off Wayfair Promo Code | May 2025 Coupons](https://www.wired.com/story/wayfair-coupon/)

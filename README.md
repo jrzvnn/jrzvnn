@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chicago Sun-Times publishes made-up books and fake experts in AI debacle](https://www.theverge.com/ai-artificial-intelligence/670510/chicago-sun-times-ai-generated-reading-list)
  - [The best Thunderbolt docks for your Mac or MacBook Pro](https://appleinsider.com/articles/24/07/27/the-best-thunderbolt-docks-for-your-mac-or-macbook-pro?utm_medium=rss)
  - [Civitai blames a &quot;configuration issue&quot; for allowing users to generate non-consensual porn; it appears that users can still create such videos of non-celebrities &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250520/p19#a250520p19)
  - [Netflix is turning mobile blockbuster Clash of Clans into an animated series](https://www.theverge.com/news/670547/clash-of-clans-netflix-animated-adaptation)
- - [Waffle House adds fast EV charging to its 24/7 diners](https://www.theverge.com/news/670214/waffle-house-adds-fast-ev-charging-to-the-menu)
- - [iPhones are on the menu for Amazon drone delivery](https://www.theverge.com/news/670434/amazon-prime-drone-delivery-approval-iphone-lithium-ion)<!-- TECH:END -->
+ - [Memorial Day Weekend Is Almost Here. Join Our Group Text to Get the Best Deals Sent Directly to You Ahead of the Holiday Weekend](https://www.cnet.com/tech/services-and-software/cnet-daily-text-group/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

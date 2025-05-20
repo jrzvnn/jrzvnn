@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This honey hunter collects wild honey but stays super friendly with the bees](http://9gag.com/gag/aE0Dmdo)
- - 😝 [A woman films the difficulty of finding the restroom in this German building.](http://9gag.com/gag/aXPWBdD)
- - 💣 [The machine](http://9gag.com/gag/amoMeQV)
+ - 😝 [A CEO of a trucking company was murdered for not paying his employees](http://9gag.com/gag/aLnmZD5)
+ - 😝 [Seems like a good problem to have](http://9gag.com/gag/aoyLvNm)
+ - 💣 [A woman films the difficulty of finding the restroom in this German building.](http://9gag.com/gag/aXPWBdD)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
- - 👉 [Miley Cyrus is now becoming officer Alex Murphy.](http://9gag.com/gag/a342VqN)<!-- MEMES:END -->
+ - 👉 [What did he do to get that alpha respect? And without showing his fangs other dogs stiff scared of him. Most importantly coming from a poodle mix!?](http://9gag.com/gag/a7o2RD2)<!-- MEMES:END -->
 
 ---
 

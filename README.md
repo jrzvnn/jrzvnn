@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The most powerful laser in the US recently produced 2 quadrillion watts of power](https://www.theverge.com/news/670781/university-of-michigan-zeus-laser-facility-two-quadrillion-watts-most-powerful)
+ - [The ad-supported web is dying, and the next development to accelerate this may be the agentic web, which Microsoft is pushing via NLWeb and MCP support &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250520/p22#a250520p22)
  - [Google I/O 2025 live blog: Gemini takes center stage](https://www.theverge.com/google/670224/google-io-2025-live-blog-gemini)
  - [Fender&amp;#8217;s free new recording app lets you simulate its iconic amps and pedals](https://www.theverge.com/news/670709/fender-studio-music-recording-app)
- - [Sources: Apple plans to unveil at WWDC an SDK and related frameworks to let third-party devs build AI features based on LLMs it uses for Apple Intelligence &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250520/p21#a250520p21)
- - [Elgato&#39;s new Stream Deck lineup goes way beyond the desktop](https://appleinsider.com/articles/25/05/20/elgatos-new-stream-deck-lineup-goes-way-beyond-the-desktop?utm_medium=rss)
- - [Google I/O 2025: All the news and announcements](https://www.theverge.com/google/670250/google-io-news-announcements-gemini-ai-android-xr)<!-- TECH:END -->
+ - [Sources: Apple plans to unveil at WWDC an SDK and related frameworks to let third-party devs build AI features based on LLMs it uses for Apple Intelligence &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250520/p21#a250520p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

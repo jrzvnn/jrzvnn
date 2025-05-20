@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Everything Google Announced at I/O 2025](https://www.wired.com/story/everything-google-announced-at-io-2025/)
+ - [Adobe hikes Creative Cloud prices with a rebrand no one asked for](https://appleinsider.com/articles/25/05/20/adobe-hikes-creative-cloud-prices-with-a-rebrand-no-one-asked-for?utm_medium=rss)
  - [Google launches SynthID Detector, a verification portal that lets users upload files and tries to identify if they contain content made with Google AI &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250520/p45#a250520p45)
  - [Xreal unveils Project Aura, expected to be the first Android XR glasses, powered by a separate puck with a Qualcomm chip, slated to launch by early 2026 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250520/p44#a250520p44)
- - [Lost in Cult’s new Editions publishing label focuses on art and indie games preservation](https://www.theverge.com/news/671051/lost-in-cult-editions-physical-game-releases)
- - [New firmware available for AirPods Max with USB-C port](https://appleinsider.com/articles/25/05/20/new-firmware-available-for-airpods-max-with-usb-c-port?utm_medium=rss)
- - [Google debuts Search Live, which lets users tap a &quot;Live&quot; icon in AI Mode or Lens and then converse with Search about what&#39;s in their camera&#39;s field of view &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250520/p43#a250520p43)<!-- TECH:END -->
+ - [Lost in Cult’s new Editions publishing label focuses on art and indie games preservation](https://www.theverge.com/news/671051/lost-in-cult-editions-physical-game-releases)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

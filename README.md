@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Falling China exports signal a major shift in iPhone production &amp; pricing](https://appleinsider.com/articles/25/05/20/falling-china-exports-signal-a-major-shift-in-iphone-production-pricing?utm_medium=rss)
  - [Sources: Intel is considering divesting its networking and edge businesses, which generated $5.8B in 2024 revenue, to focus on PC and data center chips &lpar;Reuters&rpar;](http://www.techmeme.com/250520/p18#a250520p18)
  - [UK tech unicorn Builder.ai, backed by Microsoft, Qatar, and others, says it is entering insolvency proceedings due to financial and historic leadership issues &lpar;Financial Times&rpar;](http://www.techmeme.com/250520/p17#a250520p17)
  - [Gravitee, which offers self-hosted and SaaS API management tools, raised a $60M Series C led by Sixth Street, taking its total funding to $125M+ &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250520/p16#a250520p16)
- - [Nearly half of streaming subscriptions are for plans with ads](https://www.theverge.com/news/670321/streaming-ad-supported-subscriptions-antenna-data)
- - [Best Bike Helmets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-bike-helmets/)<!-- TECH:END -->
+ - [Nearly half of streaming subscriptions are for plans with ads](https://www.theverge.com/news/670321/streaming-ad-supported-subscriptions-antenna-data)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

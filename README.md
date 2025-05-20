@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xreal unveils Project Aura, expected to be the first Android XR glasses, powered by a separate puck with a Qualcomm chip, slated to launch by early 2026 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250520/p44#a250520p44)
+ - [Lost in Cult’s new Editions publishing label focuses on art and indie games preservation](https://www.theverge.com/news/671051/lost-in-cult-editions-physical-game-releases)
  - [New firmware available for AirPods Max with USB-C port](https://appleinsider.com/articles/25/05/20/new-firmware-available-for-airpods-max-with-usb-c-port?utm_medium=rss)
  - [Google debuts Search Live, which lets users tap a &quot;Live&quot; icon in AI Mode or Lens and then converse with Search about what&#39;s in their camera&#39;s field of view &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250520/p43#a250520p43)
- - [The FDA is making it more difficult for Americans to get vaccinated for covid](https://www.theverge.com/news/670980/fda-vaccine-approval-covid-trump-rfk)
- - [The 55 Best Shows on Disney+ Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/best-shows-disney-plus/)
- - [The 15 biggest announcements at Google I/O 2025](https://www.theverge.com/news/669408/google-io-2025-biggest-announcements-ai-gemini)<!-- TECH:END -->
+ - [The FDA is making it more difficult for Americans to get vaccinated for covid](https://www.theverge.com/news/670980/fda-vaccine-approval-covid-trump-rfk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

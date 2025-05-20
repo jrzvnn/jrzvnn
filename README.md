@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Her conversation with her husband after 81 years of relationship!!](http://9gag.com/gag/aKGeQdQ)
- - 😝 [A woman films the difficulty of finding the restroom in this German building.](http://9gag.com/gag/aXPWBdD)
- - 💣 [Seems like a good problem to have](http://9gag.com/gag/aoyLvNm)
+ - 😝 [Spilled soy sauce](http://9gag.com/gag/a6Z2Aq9)
+ - 😝 [Seems like a good problem to have](http://9gag.com/gag/aoyLvNm)
+ - 💣 [A woman films the difficulty of finding the restroom in this German building.](http://9gag.com/gag/aXPWBdD)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
  - 👉 [The machine](http://9gag.com/gag/amoMeQV)<!-- MEMES:END -->
 

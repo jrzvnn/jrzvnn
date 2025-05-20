@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The machine](http://9gag.com/gag/amoMeQV)
- - 😝 [Rage Comics](http://9gag.com/gag/a342651)
- - 💣 [WTF](http://9gag.com/gag/aYQq567)
+ - 😝 [Woman who left without paying forgot her purse and came back for it, the manager refused to give it back until she paid her bill](http://9gag.com/gag/an7Ew6z)
  - 😝 [Seems like a good problem to have](http://9gag.com/gag/aoyLvNm)
- - 👉 [Officer: You wanna get arrested? Civilian: You wanna get sued?](http://9gag.com/gag/aXPWy1g)<!-- MEMES:END -->
+ - 💣 [Officer: You wanna get arrested? Civilian: You wanna get sued?](http://9gag.com/gag/aXPWy1g)
+ - 😝 [Magic](http://9gag.com/gag/aYQq0KO)
+ - 👉 [Scary but hot](http://9gag.com/gag/amoMeKv)<!-- MEMES:END -->
 
 ---
 

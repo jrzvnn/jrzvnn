@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese government data: smartphone exports including iPhones fell 72% MoM to $688.5M in April, the lowest since 2011, outpacing a 21% drop in overall shipments &lpar;Bloomberg&rpar;](http://www.techmeme.com/250520/p7#a250520p7)
+ - [What It’s Like to Interview for a Job at DOGE](https://www.wired.com/story/doge-application-interview-process/)
  - [Adobe is switching some Creative Cloud users to a pricier AI plan](https://www.theverge.com/news/670241/adobe-ai-creative-cloud-all-apps-pro-increase)
  - [Q&amp;A with Feng Ji, founder of top Chinese quant fund Baiont, on using AI to develop trading strategies, China&#39;s quant landscape, having a small team, and more &lpar;Zijing Wu/Financial Times&rpar;](http://www.techmeme.com/250520/p6#a250520p6)
- - [Analysis: only four of the top 50 tech companies are European, and none of the top 10 quantum companies are in Europe, as the continent lags the US and China &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250520/p5#a250520p5)
- - [&#39;Nine Perfect Strangers&#39;: How to Watch Season 2 of the Nicole Kidman Drama](https://www.cnet.com/tech/services-and-software/nine-perfect-strangers-how-to-watch-season-2-of-the-nicole-kidman-drama/#ftag=CAD590a51e)
- - [Before iOS 19, Don&#39;t Forget These iPhone Features From iOS 18.1](https://www.cnet.com/tech/services-and-software/before-ios-190dont-forget-these-iphone-features-from-ios-18-1/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Analysis: only four of the top 50 tech companies are European, and none of the top 10 quantum companies are in Europe, as the continent lags the US and China &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250520/p5#a250520p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

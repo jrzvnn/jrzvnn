@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Falling China exports signal a major shift in iPhone production &amp; pricing](https://appleinsider.com/articles/25/05/20/falling-china-exports-signal-a-major-shift-in-iphone-production-pricing?utm_medium=rss)
- - [Sources: Intel is considering divesting its networking and edge businesses, which generated $5.8B in 2024 revenue, to focus on PC and data center chips &lpar;Reuters&rpar;](http://www.techmeme.com/250520/p18#a250520p18)
- - [UK tech unicorn Builder.ai, backed by Microsoft, Qatar, and others, says it is entering insolvency proceedings due to financial and historic leadership issues &lpar;Financial Times&rpar;](http://www.techmeme.com/250520/p17#a250520p17)
- - [Gravitee, which offers self-hosted and SaaS API management tools, raised a $60M Series C led by Sixth Street, taking its total funding to $125M+ &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250520/p16#a250520p16)
- - [Nearly half of streaming subscriptions are for plans with ads](https://www.theverge.com/news/670321/streaming-ad-supported-subscriptions-antenna-data)<!-- TECH:END -->
+ - [iPhones are on the menu for Amazon drone delivery](https://www.theverge.com/news/670434/amazon-prime-drone-delivery-approval-iphone-lithium-ion)
+ - [Samsung Odyssey G81SF OLED Gaming Monitor Review: Gorgeous](https://www.wired.com/review/samsung-g81sf/)
+ - [Pennywise returns in the first trailer for HBO&amp;#8217;s It prequel Welcome to Derry](https://www.theverge.com/news/670460/it-prequel-welcome-to-derry-trailer-hbo)
+ - [Walmart quietly released a new 4K Google TV box with Dolby Vision](https://www.theverge.com/news/670444/walmart-google-android-tv-onn-4k-plus)
+ - [The Razr Ultra proves flip phones are almost ready](https://www.theverge.com/the-vergecast/670449/razr-ultra-flip-phone-snapchat-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A CEO of a trucking company was murdered for not paying his employees](http://9gag.com/gag/aLnmZD5)
- - 😝 [This honey hunter collects wild honey but stays super friendly with the bees](http://9gag.com/gag/aE0Dmdo)
- - 💣 [When &#39;the girl from work&#39; is more plastic than you expected](http://9gag.com/gag/aPAQqGV)
- - 😝 [Officer: You wanna get arrested? Civilian: You wanna get sued?](http://9gag.com/gag/aXPWy1g)
- - 👉 [Seems like a good problem to have](http://9gag.com/gag/aoyLvNm)<!-- MEMES:END -->
+ - 😝 [Showing the audience](http://9gag.com/gag/aVvL6vy)
+ - 😝 [A dream](http://9gag.com/gag/a9y2o51)
+ - 💣 [Seems like a good problem to have](http://9gag.com/gag/aoyLvNm)
+ - 😝 [WTF](http://9gag.com/gag/aYQq567)
+ - 👉 [This honey hunter collects wild honey but stays super friendly with the bees](http://9gag.com/gag/aE0Dmdo)<!-- MEMES:END -->
 
 ---
 

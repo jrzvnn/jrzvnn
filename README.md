@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [We tried on Google’s prototype AI smart glasses](https://www.theverge.com/hands-on/671077/project-moohan-android-xr-google-io-2025-smart-glasses-wearables)
+ - [Palo Alto Networks reports Q3 revenue up 15% YoY to $2.29B, vs. $2.28B est., net income down 6% to $262.1M, and non-GAAP gross margin of 76%, vs. 77.2% est. &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250520/p48#a250520p48)
  - [Take-Two plans to sell $1B of new stock to investors and use the proceeds for general corporate purposes, including repayment of debt and future acquisitions &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250520/p47#a250520p47)
  - [Google starts beta testing Android 16’s youthful new look](https://www.theverge.com/news/671153/google-beta-android-16-material-3-expressive-design-rollout)
- - [Google commits up to $150M, including $75M for product development and commercialization, as part of its partnership with Warby Parker to make smart glasses &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250520/p46#a250520p46)
- - [Everything Google Announced at I/O 2025](https://www.wired.com/story/everything-google-announced-at-io-2025/)
- - [Adobe hikes Creative Cloud prices with a rebrand no one asked for](https://appleinsider.com/articles/25/05/20/adobe-hikes-creative-cloud-prices-with-a-rebrand-no-one-asked-for?utm_medium=rss)<!-- TECH:END -->
+ - [Google commits up to $150M, including $75M for product development and commercialization, as part of its partnership with Warby Parker to make smart glasses &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250520/p46#a250520p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A dream](http://9gag.com/gag/a9y2o51)
- - 😝 [Knowing we are totally free tomorrow](http://9gag.com/gag/a872ZBQ)
- - 💣 [Saturn didn\u2019t ghost me, society did](http://9gag.com/gag/aPAQ5mB)
+ - 😝 [This honey hunter collects wild honey but stays super friendly with the bees](http://9gag.com/gag/aE0Dmdo)
+ - 😝 [A woman films the difficulty of finding the restroom in this German building.](http://9gag.com/gag/aXPWBdD)
+ - 💣 [The machine](http://9gag.com/gag/amoMeQV)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
- - 👉 [This feels right.](http://9gag.com/gag/aoyLXw2)<!-- MEMES:END -->
+ - 👉 [Miley Cyrus is now becoming officer Alex Murphy.](http://9gag.com/gag/a342VqN)<!-- MEMES:END -->
 
 ---
 

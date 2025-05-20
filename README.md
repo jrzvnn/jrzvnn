@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple &amp; Epic agree no in-person court necessary after &#39;Fortnite&#39; restored to App Store](https://appleinsider.com/articles/25/05/20/apple-epic-agree-no-in-person-court-necessary-after-fortnite-restored-to-app-store?utm_medium=rss)
+ - [Waymo co-CEO Tekedra Mawakana says Waymo has reached 10M paid trips, doubling in the past five months, and that the company is not yet profitable &lpar;CNBC&rpar;](http://www.techmeme.com/250520/p56#a250520p56)
  - [Hands-on with Google&#39;s Android XR Gemini-powered prototype glasses: they are light and comfortable to wear, and the single display in the right lens works well &lpar;Michael L Hicks/Android Central&rpar;](http://www.techmeme.com/250520/p55#a250520p55)
  - [Matthew Lane, a 19-year-old from Massachusetts, pleads guilty to hacking two US companies and extorting them for ransoms; source: one of them is PowerSchool &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/250520/p54#a250520p54)
- - [The Argentine government dismantles a unit created three months ago to investigate the Libra cryptocurrency scandal involving President Milei and his sister &lpar;Ignacio Olivera Doll/Bloomberg&rpar;](http://www.techmeme.com/250520/p53#a250520p53)
- - [My Hands-On with the Samsung Galaxy S25 Edge Has Me Reconsidering a Thin Phone](https://www.cnet.com/tech/mobile/my-hands-on-with-the-samsung-galaxy-s25-edge-has-me-reconsidering-a-thin-phone/#ftag=CAD590a51e)
- - [You Can Now Play Fortnite Again on iPhone and iPad](https://www.cnet.com/tech/gaming/you-can-now-play-fortnite-again-on-iphone-and-ipad/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Argentine government dismantles a unit created three months ago to investigate the Libra cryptocurrency scandal involving President Milei and his sister &lpar;Ignacio Olivera Doll/Bloomberg&rpar;](http://www.techmeme.com/250520/p53#a250520p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

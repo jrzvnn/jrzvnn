@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Deke&#39;s got the most expensive smile in the K-9 unit](http://9gag.com/gag/a872RmO)
  - 😝 [F**k you genetics](http://9gag.com/gag/awydEm4)
- - 💣 [A woman films the difficulty of finding the restroom in this German building.](http://9gag.com/gag/aXPWBdD)
+ - 😝 [A woman films the difficulty of finding the restroom in this German building.](http://9gag.com/gag/aXPWBdD)
+ - 💣 [The machine](http://9gag.com/gag/amoMeQV)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
- - 👉 [The machine](http://9gag.com/gag/amoMeQV)<!-- MEMES:END -->
+ - 👉 [Miley Cyrus is now becoming officer Alex Murphy.](http://9gag.com/gag/a342VqN)<!-- MEMES:END -->
 
 ---
 

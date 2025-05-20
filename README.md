@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Google Translate as the iPhone&#39;s default translation app](https://appleinsider.com/inside/iphone/tips/how-to-use-google-translate-as-the-iphones-default-translation-app?utm_medium=rss)
- - [The EU and the UK agree on a deal to let both regions&#39; competition regulators work together more closely and flag important M&amp;A investigations to each other &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/250520/p13#a250520p13)
- - [Withings BPM Vision Review: At-Home Blood Pressure Monitoring](https://www.wired.com/review/withings-bpm-vision-blood-pressure-monitor/)
- - [CalDigit TS5 Plus review: A great &amp; capable Thunderbolt 5 dock for Mac](https://appleinsider.com/articles/25/05/20/caldigit-ts5-plus-review-a-great-capable-thunderbolt-5-dock-for-mac?utm_medium=rss)
- - [SignalFire: in 2024, Big Tech employment declined 1.6% in Austin, and startup employment fell 4.9%; Dallas, Houston, Denver, and Toronto also declined &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250520/p12#a250520p12)<!-- TECH:END -->
+ - [Nearly half of streaming subscriptions are for plans with ads](https://www.theverge.com/news/670321/streaming-ad-supported-subscriptions-antenna-data)
+ - [Best Bike Helmets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-bike-helmets/)
+ - [Sources and a document: the EU plans to levy a flat ~€2 fee on billions of small packages entering the bloc, mainly from China, in a blow to Temu and Shein &lpar;Andy Bounds/Financial Times&rpar;](http://www.techmeme.com/250520/p15#a250520p15)
+ - [I tested a robot vacuum with an arm, and my dog may never forgive me](https://www.theverge.com/reviews/669555/roborock-saros-z70-robot-vacuum-review)
+ - [Inside the first Stargate AI data center in Abilene, Texas: thousands working to build eight near-identical structures, startup Crusoe spending $12B, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/250520/p14#a250520p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -160,7 +160,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [New firmware available for AirPods Max with USB-C port](https://appleinsider.com/articles/25/05/20/new-firmware-available-for-airpods-max-with-usb-c-port?utm_medium=rss)
  - [Google debuts Search Live, which lets users tap a &quot;Live&quot; icon in AI Mode or Lens and then converse with Search about what&#39;s in their camera&#39;s field of view &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250520/p43#a250520p43)
  - [The FDA is making it more difficult for Americans to get vaccinated for covid](https://www.theverge.com/news/670980/fda-vaccine-approval-covid-trump-rfk)
- - [Google Making AI-Powered Glasses With Warby Parker, Gentle Monster](https://www.cnet.com/tech/google-making-ai-powered-glasses-with-warby-parker-gentle-monster/#ftag=CAD590a51e)
+ - [The 55 Best Shows on Disney+ Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/best-shows-disney-plus/)
  - [The 15 biggest announcements at Google I/O 2025](https://www.theverge.com/news/669408/google-io-2025-biggest-announcements-ai-gemini)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

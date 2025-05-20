@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FDA is making it more difficult for many Americans to get vaccinated for covid](https://www.theverge.com/news/670980/fda-vaccine-approval-covid-trump-rfk)
- - [The 15 biggest announcements at Google I/O 2025](https://www.theverge.com/news/669408/google-io-2025-biggest-announcements-ai-gemini)
- - [Google unveils Gemini in Chrome, which initially works across just two tabs but will eventually support many and be agentic, for Google AI Pro and Ultra users &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250520/p42#a250520p42)
- - [Google will soon let users shop in AI Mode, unveils agentic checkout, and updates its virtual try-on feature in Search Labs for clothes shoppers in the US &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250520/p41#a250520p41)
- - [Google ships Gemini 2.5 Flash, Live Camera for iOS](https://appleinsider.com/articles/25/05/20/google-ships-gemini-25-flash-live-camera-for-ios?utm_medium=rss)<!-- TECH:END -->
+ - [New firmware available for AirPods Max with USB-C port](https://appleinsider.com/articles/25/05/20/new-firmware-available-for-airpods-max-with-usb-c-port?utm_medium=rss)
+ - [Google debuts Search Live, which lets users tap a &quot;Live&quot; icon in AI Mode or Lens and then converse with Search about what&#39;s in their camera&#39;s field of view &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250520/p43#a250520p43)
+ - [The FDA is making it more difficult for Americans to get vaccinated for covid](https://www.theverge.com/news/670980/fda-vaccine-approval-covid-trump-rfk)
+ - [Google Making AI-Powered Glasses With Warby Parker, Gentle Monster](https://www.cnet.com/tech/google-making-ai-powered-glasses-with-warby-parker-gentle-monster/#ftag=CAD590a51e)
+ - [The 15 biggest announcements at Google I/O 2025](https://www.theverge.com/news/669408/google-io-2025-biggest-announcements-ai-gemini)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

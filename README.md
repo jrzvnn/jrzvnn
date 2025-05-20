@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [GN launches an official investigation into Nvidia\u2019s underhanded tactics](http://9gag.com/gag/a1m2GXw)
- - 😝 [This honey hunter collects wild honey but stays super friendly with the bees](http://9gag.com/gag/aE0Dmdo)
+ - 😝 [A woman films the difficulty of finding the restroom in this German building.](http://9gag.com/gag/aXPWBdD)
+ - 😝 [Mission impossible](http://9gag.com/gag/abABNwb)
  - 💣 [Scary but hot](http://9gag.com/gag/amoMeKv)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
  - 👉 [When the universe\u2019s stress just melts away](http://9gag.com/gag/ayNRbv8)<!-- MEMES:END -->

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Miley Cyrus is now becoming officer Alex Murphy.](http://9gag.com/gag/a342VqN)
  - 😝 [The machine](http://9gag.com/gag/amoMeQV)
- - 😝 [What did he do to get that alpha respect? And without showing his fangs other dogs stiff scared of him. Most importantly coming from a poodle mix!?](http://9gag.com/gag/a7o2RD2)
  - 💣 [Alpha dog back at its business](http://9gag.com/gag/a872BEZ)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
- - 👉 [Miley Cyrus is now becoming officer Alex Murphy.](http://9gag.com/gag/a342VqN)<!-- MEMES:END -->
+ - 👉 [PC Gaming Is Talking](http://9gag.com/gag/amoMeRy)<!-- MEMES:END -->
 
 ---
 

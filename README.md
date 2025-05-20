@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SK Telecom says the breach disclosed in April first began in 2022 and ultimately exposed the USIM data of 27M subscribers &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250520/p30#a250520p30)
- - [Google launches Google AI Ultra, a subscription plan with the highest usage limits and access to its most capable models, rolling out in the US for $250/month &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250520/p29#a250520p29)
- - [FTC v. Meta: The antitrust battle over WhatsApp and Instagram](https://www.theverge.com/news/646809/ftc-v-meta-antitrust-monopoly-trial-instagram-whatsapp)
- - [With AI Mode, Google Search Is About to Get Even Chattier](https://www.wired.com/story/google-ai-mode-search/)
- - [Google’s AI Boss Says Gemini&#39;s New Abilities Point the Way to AGI](https://www.wired.com/story/googles-ai-boss-says-geminis-new-abilities-point-the-way-to-agi/)<!-- TECH:END -->
+ - [Google says it is partnering with Samsung, Gentle Monster, Xreal, and Warby Parker to create Android XR smart glasses, offering AI assistance via Gemini &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250520/p37#a250520p37)
+ - [Google rolls out Project Mariner, its web-browsing AI agent, to Google&#39;s AI Ultra plan, and brings its capabilities to the Gemini API and Vertex AI &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250520/p36#a250520p36)
+ - [Google says Project Astra will power new capabilities in Search, including a new Search Live feature, as well as in the Gemini AI app and third-party products &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250520/p35#a250520p35)
+ - [DoorDash ended its AI-powered voice ordering product for restaurant clients in April 2025, after launching it in August 2023 &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250520/p34#a250520p34)
+ - [Google announces new video and image generation models Veo 3 and Imagen 4, alongside a new AI filmmaking tool Flow and expanded access to Lyria 2 &lpar;CNBC&rpar;](http://www.techmeme.com/250520/p33#a250520p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

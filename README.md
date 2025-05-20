@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Scary but hot](http://9gag.com/gag/amoMeKv)
- - 😝 [The machine](http://9gag.com/gag/amoMeQV)
- - 💣 [The Terror S1 - Recommend](http://9gag.com/gag/a7o2XAq)
- - 😝 [This honey hunter collects wild honey but stays super friendly with the bees](http://9gag.com/gag/aE0Dmdo)
- - 👉 [WTF](http://9gag.com/gag/aYQq567)<!-- MEMES:END -->
+ - 😝 [The Terror S1 - Recommend](http://9gag.com/gag/a7o2XAq)
+ - 💣 [This honey hunter collects wild honey but stays super friendly with the bees](http://9gag.com/gag/aE0Dmdo)
+ - 😝 [Snu snu](http://9gag.com/gag/aGyA52n)
+ - 👉 [What did he do to get that alpha respect? And without showing his fangs other dogs stiff scared of him. Most importantly coming from a poodle mix!?](http://9gag.com/gag/a7o2RD2)<!-- MEMES:END -->
 
 ---
 

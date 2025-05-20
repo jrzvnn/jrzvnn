@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The machine](http://9gag.com/gag/amoMeQV)
- - 😝 [What did he do to get that alpha respect? And without showing his fangs other dogs stiff scared of him. Most importantly coming from a poodle mix!?](http://9gag.com/gag/a7o2RD2)
- - 💣 [Mens style never changes](http://9gag.com/gag/a872gj3)
+ - 😝 [Coward Big Corpo](http://9gag.com/gag/ae9mBqv)
+ - 😝 [Never take dating advise from women\u2026 even your mom She\u2019s still a woman](http://9gag.com/gag/aVvLAXO)
+ - 💣 [This feels right.](http://9gag.com/gag/aoyLXw2)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
- - 👉 [Blu is my oldest friend](http://9gag.com/gag/avyRMNW)<!-- MEMES:END -->
+ - 👉 [Saturn didn\u2019t ghost me, society did](http://9gag.com/gag/aPAQ5mB)<!-- MEMES:END -->
 
 ---
 

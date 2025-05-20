@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What did he do to get that alpha respect? And without showing his fangs other dogs stiff scared of him. Most importantly coming from a poodle mix!?](http://9gag.com/gag/a7o2RD2)
- - 😝 [Officer: You wanna get arrested? Civilian: You wanna get sued?](http://9gag.com/gag/aXPWy1g)
- - 💣 [F**k you genetics](http://9gag.com/gag/awydEm4)
- - 😝 [Learning English](http://9gag.com/gag/a872g7Z)
- - 👉 [Reporter knocks over world record Jenga tower](http://9gag.com/gag/aZZj546)<!-- MEMES:END -->
+ - 😝 [The machine](http://9gag.com/gag/amoMeQV)
+ - 😝 [Rage Comics](http://9gag.com/gag/a342651)
+ - 💣 [WTF](http://9gag.com/gag/aYQq567)
+ - 😝 [Seems like a good problem to have](http://9gag.com/gag/aoyLvNm)
+ - 👉 [Officer: You wanna get arrested? Civilian: You wanna get sued?](http://9gag.com/gag/aXPWy1g)<!-- MEMES:END -->
 
 ---
 

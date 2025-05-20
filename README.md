@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Blu is my oldest friend](http://9gag.com/gag/avyRMNW)
- - 😝 [From glam to &#39;I need a vacation!&#39;](http://9gag.com/gag/aRBobg7)
- - 💣 [When &#39;the girl from work&#39; is more plastic than you expected](http://9gag.com/gag/aPAQqGV)
+ - 😝 [The machine](http://9gag.com/gag/amoMeQV)
+ - 😝 [What did he do to get that alpha respect? And without showing his fangs other dogs stiff scared of him. Most importantly coming from a poodle mix!?](http://9gag.com/gag/a7o2RD2)
+ - 💣 [Mens style never changes](http://9gag.com/gag/a872gj3)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
- - 👉 [What did he do to get that alpha respect? And without showing his fangs other dogs stiff scared of him. Most importantly coming from a poodle mix!?](http://9gag.com/gag/a7o2RD2)<!-- MEMES:END -->
+ - 👉 [Blu is my oldest friend](http://9gag.com/gag/avyRMNW)<!-- MEMES:END -->
 
 ---
 

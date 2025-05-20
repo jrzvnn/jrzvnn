@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Intelligence set to be opened up in iOS 19 to third-party developers](https://appleinsider.com/articles/25/05/20/apple-intelligence-set-to-be-opened-up-in-ios-19-to-third-party-developers?utm_medium=rss)
+ - [A livestream of the Google I/O 2025 keynote &lpar;Google on YouTube&rpar;](http://www.techmeme.com/250520/p24#a250520p24)
+ - [A live blog of Google I/O 2025, where announcements about Gemini, Android XR, and more are expected &lpar;The Verge&rpar;](http://www.techmeme.com/250520/p23#a250520p23)
  - [The most powerful laser in the US recently produced 2 quadrillion watts of power](https://www.theverge.com/news/670781/university-of-michigan-zeus-laser-facility-two-quadrillion-watts-most-powerful)
- - [The ad-supported web is dying, and the next development to accelerate this may be the agentic web, which Microsoft is pushing via NLWeb and MCP support &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250520/p22#a250520p22)
- - [Google I/O 2025 live blog: Gemini takes center stage](https://www.theverge.com/google/670224/google-io-2025-live-blog-gemini)
- - [Fender&amp;#8217;s free new recording app lets you simulate its iconic amps and pedals](https://www.theverge.com/news/670709/fender-studio-music-recording-app)
- - [Sources: Apple plans to unveil at WWDC an SDK and related frameworks to let third-party devs build AI features based on LLMs it uses for Apple Intelligence &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250520/p21#a250520p21)<!-- TECH:END -->
+ - [The ad-supported web is dying, and the next development to accelerate this may be the agentic web, which Microsoft is pushing via NLWeb and MCP support &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250520/p22#a250520p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

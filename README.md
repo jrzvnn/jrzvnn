@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do we love old memes?...](http://9gag.com/gag/aKGeQgW)
- - 😝 [Never take dating advise from women\u2026 even your mom She\u2019s still a woman](http://9gag.com/gag/aVvLAXO)
- - 💣 [Coward Big Corpo](http://9gag.com/gag/ae9mBqv)
+ - 😝 [Man uses a stopwatch to freeze time on a highschool girl](http://9gag.com/gag/aByGpP2)
+ - 😝 [Officer: You wanna get arrested? Civilian: You wanna get sued?](http://9gag.com/gag/aXPWy1g)
+ - 💣 [Seems like a good problem to have](http://9gag.com/gag/aoyLvNm)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
- - 👉 [Saturn didn\u2019t ghost me, society did](http://9gag.com/gag/aPAQ5mB)<!-- MEMES:END -->
+ - 👉 [A dream](http://9gag.com/gag/a9y2o51)<!-- MEMES:END -->
 
 ---
 

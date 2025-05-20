@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spilled soy sauce](http://9gag.com/gag/a6Z2Aq9)
- - 😝 [A woman films the difficulty of finding the restroom in this German building.](http://9gag.com/gag/aXPWBdD)
- - 💣 [Her conversation with her husband after 81 years of relationship!!](http://9gag.com/gag/aKGeQdQ)
+ - 😝 [Pokebrutal](http://9gag.com/gag/ajPZ4MQ)
+ - 😝 [Learning English](http://9gag.com/gag/a872g7Z)
+ - 💣 [The machine](http://9gag.com/gag/amoMeQV)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
- - 👉 [Popular Korean streamer tourist robbed mid-stream by local men in Italy](http://9gag.com/gag/a7o2zoe)<!-- MEMES:END -->
+ - 👉 [Spilled soy sauce](http://9gag.com/gag/a6Z2Aq9)<!-- MEMES:END -->
 
 ---
 

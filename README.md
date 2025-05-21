@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Marauder](http://9gag.com/gag/aW4br9x)
- - 😝 [Both? Both..](http://9gag.com/gag/aVvLA28)
- - 💣 [Wasn&#39;t what I was expecting](http://9gag.com/gag/avyR3Pb)
+ - 😝 [A CEO of a trucking company was murdered for not paying his employees](http://9gag.com/gag/aLnmZD5)
+ - 😝 [Invaders of Europe, russian army](http://9gag.com/gag/abAB7Xp)
+ - 💣 [Deke&#39;s got the most expensive smile in the K-9 unit](http://9gag.com/gag/a872RmO)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
- - 👉 [Officer: You wanna get arrested? Civilian: You wanna get sued?](http://9gag.com/gag/aXPWy1g)<!-- MEMES:END -->
+ - 👉 [Seems like a good problem to have](http://9gag.com/gag/aoyLvNm)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When city planning takes a sideways view](http://9gag.com/gag/a4P2eKw)
- - 😝 [John Wick](http://9gag.com/gag/a9y2QP0)
- - 💣 [`Manners Maketh Man`](http://9gag.com/gag/aO8Pwwy)
- - 😝 [Yosemite national park in California](http://9gag.com/gag/aByGqDZ)
- - 👉 [A meme was born](http://9gag.com/gag/agm4Wqg)<!-- MEMES:END -->
+ - 😝 [He must have had fond memories...](http://9gag.com/gag/aQzZG58)
+ - 😝 [Core childhood memory](http://9gag.com/gag/aZZjAXX)
+ - 💣 [Peter Cullen the voice of Optimus Prime](http://9gag.com/gag/amoMDzV)
+ - 😝 [Seal waits until his friend is freed before escaping with him.](http://9gag.com/gag/adBe32Q)
+ - 👉 [My type of MC club](http://9gag.com/gag/a342o0N)<!-- MEMES:END -->
 
 ---
 

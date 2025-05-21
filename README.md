@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you want to heal your 9gag feed, delete these users. This graph was not made by me, but I feel it is of public service to share it...](http://9gag.com/gag/avyR32n)
- - 😝 [The machine](http://9gag.com/gag/amoMeQV)
- - 💣 [Daughter: Mom, he&#39;s going to find me Mom: `GG`](http://9gag.com/gag/agm4Wrn)
+ - 😝 [That fast](http://9gag.com/gag/aND4xZv)
+ - 😝 [Daughter: Mom, he&#39;s going to find me Mom: `GG`](http://9gag.com/gag/agm4Wrn)
+ - 💣 [When the universe\u2019s stress just melts away](http://9gag.com/gag/ayNRbv8)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
- - 👉 [Seems like a good problem to have](http://9gag.com/gag/aoyLvNm)<!-- MEMES:END -->
+ - 👉 [Turn to page 394](http://9gag.com/gag/aKGeR3j)<!-- MEMES:END -->
 
 ---
 

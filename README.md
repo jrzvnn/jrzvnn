@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK retailer M&amp;S says it expects a £300M profit hit from an April cyberattack and disruption to continue until July 2025; M&amp;S&#39; market cap has falled by ~£750M &lpar;Laura Onita/Financial Times&rpar;](http://www.techmeme.com/250521/p11#a250521p11)
  - [Miniot returns with a sleeker Wheel 3 vertical turntable](https://www.theverge.com/news/671413/miniot-returns-with-a-sleeker-wheel-3-vertical-turntable)
  - [Amazon is sending customers refunds for some really, really old returns](https://www.theverge.com/news/671407/amazon-returns-refunds-old-orders)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 21, #240](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-21-240/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for May 21, #444](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-21-444/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for May 21, #710](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-21-710/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for May 21, #444](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-21-444/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F**k you genetics](http://9gag.com/gag/awydEm4)
- - 😝 [Ellie&#39;s secret weapon &lpar;GooBrain on yt&rpar;](http://9gag.com/gag/axyR58M)
- - 💣 [What we again?](http://9gag.com/gag/abAB93v)
+ - 😝 [Out-Karened A Karen](http://9gag.com/gag/aW4bwV2)
+ - 😝 [What we again?](http://9gag.com/gag/abAB93v)
+ - 💣 [Ellie&#39;s secret weapon &lpar;GooBrain on yt&rpar;](http://9gag.com/gag/axyR58M)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
- - 👉 [When the universe\u2019s stress just melts away](http://9gag.com/gag/ayNRbv8)<!-- MEMES:END -->
+ - 👉 [Blu is my oldest friend](http://9gag.com/gag/avyRMNW)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s pure darkness...](http://9gag.com/gag/axyPENK)
- - 😝 [What&#39;s it for?!](http://9gag.com/gag/adBeZ4D)
- - 💣 [. . .](http://9gag.com/gag/aPAQOoR)
- - 😝 [Do you even lift bro](http://9gag.com/gag/aXPWDKb)
- - 👉 [John Wick](http://9gag.com/gag/a9y2QP0)<!-- MEMES:END -->
+ - 😝 [A meme was born](http://9gag.com/gag/agm4Wqg)
+ - 😝 [John Wick](http://9gag.com/gag/a9y2QP0)
+ - 💣 [It\u2019s a little one &lpar;single largest raccoon ever &rpar;](http://9gag.com/gag/a2v2BRO)
+ - 😝 [`Manners Maketh Man`](http://9gag.com/gag/aO8Pwwy)
+ - 👉 [What&#39;s it for?!](http://9gag.com/gag/adBeZ4D)<!-- MEMES:END -->
 
 ---
 

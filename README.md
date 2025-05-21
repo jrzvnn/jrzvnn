@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What we again?](http://9gag.com/gag/abAB93v)
+ - 😝 [Siblings or sandwiches? The ultimate betrayal](http://9gag.com/gag/amoMEWv)
  - 😝 [Abundance in life](http://9gag.com/gag/aZZjG1V)
- - 💣 [`Manners Maketh Man`](http://9gag.com/gag/aO8Pwwy)
- - 😝 [Removing bathroom tiles](http://9gag.com/gag/aD2VExw)
- - 👉 [Update: Leader is injured](http://9gag.com/gag/aQzZwbK)<!-- MEMES:END -->
+ - 💣 [Update: Leader is injured](http://9gag.com/gag/aQzZwbK)
+ - 😝 [Liberal women.](http://9gag.com/gag/aLnmqjP)
+ - 👉 [Guy being a saver](http://9gag.com/gag/aqyWqAv)<!-- MEMES:END -->
 
 ---
 

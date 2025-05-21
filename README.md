@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [19-year-old student to plead guilty to huge school database hack](https://www.theverge.com/news/671713/powerschool-hack-guilty-plea-matthew-lane)
+ - [PlayStation Stars burns out](https://www.theverge.com/news/671715/sony-playstation-stars-program-shutting-down)
+ - [Hellblade II is the latest Xbox game coming to PS5 this summer](https://www.theverge.com/news/610793/hellblade-2-ps5-release-date-xbox-ninja-theory)
  - [Apple iPhone still dominates consumer smartphone brand loyalty despite modest drop](https://appleinsider.com/articles/25/05/21/apple-iphone-still-dominates-consumer-smartphone-brand-loyalty-despite-modest-drop?utm_medium=rss)
- - [Mistral partners with All Hands AI to release Devstral, a model to help with coding, in &quot;research preview&quot; under Apache 2.0, and says it outperforms Gemma 3 27B &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250521/p29#a250521p29)
- - [FTC v. Meta: The antitrust battle over WhatsApp and Instagram](https://www.theverge.com/news/646809/ftc-v-meta-antitrust-monopoly-trial-instagram-whatsapp)
- - [Best Bug Spray &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-bug-sprays/)
- - [Darren Aronofsky’s Caught Stealing looks like one for the Baby Driver fans](https://www.theverge.com/trailers/671610/caught-stealing-trailer-premiere-date)<!-- TECH:END -->
+ - [Mistral partners with All Hands AI to release Devstral, a model to help with coding, in &quot;research preview&quot; under Apache 2.0, and says it outperforms Gemma 3 27B &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250521/p29#a250521p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

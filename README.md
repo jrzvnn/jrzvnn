@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The iPhone 7 Plus and iPhone 8 are now on Apple&#39;s &#39;vintage products&#39; list](https://appleinsider.com/articles/25/05/21/the-iphone-7-plus-and-iphone-8-are-now-on-apples-vintage-products-list?utm_medium=rss)
  - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
  - [Are Character AI&amp;#8217;s chatbots protected speech? One court isn&amp;#8217;t sure](https://www.theverge.com/law/672209/character-ai-lawsuit-ruling-first-amendment)
  - [Signal says no to Windows 11’s Recall screenshots](https://www.theverge.com/news/672210/signal-desktop-app-microsoft-recall-block-windows-11-ai)
- - [Amazon plans to sell Nike products directly for the first time since 2019, when Nike stopped selling through Amazon due to lingering counterfeit issues &lpar;The Information&rpar;](http://www.techmeme.com/250521/p49#a250521p49)
- - [Apple used human instructors with Apple Vision Pros to train humanoid robots](https://appleinsider.com/articles/25/05/21/apple-used-human-instructors-with-apple-vision-pros-to-train-humanoid-robots?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon plans to sell Nike products directly for the first time since 2019, when Nike stopped selling through Amazon due to lingering counterfeit issues &lpar;The Information&rpar;](http://www.techmeme.com/250521/p49#a250521p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

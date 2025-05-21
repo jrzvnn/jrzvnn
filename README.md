@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Yeah, he looks happy](http://9gag.com/gag/amoMjr9)
+ - 😝 [Abundance in life](http://9gag.com/gag/aZZjG1V)
+ - 💣 [A meme was born](http://9gag.com/gag/agm4Wqg)
  - 😝 [Do you even lift bro](http://9gag.com/gag/aXPWDKb)
- - 😝 [When your style evolves more than your playlist.](http://9gag.com/gag/aAy2WPR)
- - 💣 [When city planning takes a sideways view](http://9gag.com/gag/a4P2eKw)
- - 😝 [Did he get paid for this scene?](http://9gag.com/gag/agm4Pnv)
- - 👉 [Abundance in life](http://9gag.com/gag/aZZjG1V)<!-- MEMES:END -->
+ - 👉 [When Amazon Prime delivers... a surprise](http://9gag.com/gag/awyd6dD)<!-- MEMES:END -->
 
 ---
 

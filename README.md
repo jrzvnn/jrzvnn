@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kalshi withdrew announcements about a collaboration with xAI just hours after CEO Tarek Mansour said the deal would &quot;further take prediction markets mainstream&quot; &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250520/p57#a250520p57)
- - [McDonald&#39;s Snack Wrap: Is the Viral Food Favorite Returning on July 14?](https://www.cnet.com/tech/mcdonalds-snack-wrap-when-is-the-viral-food-favorite-returning-july-14/#ftag=CAD590a51e)
- - [Apple &amp; Epic agree no in-person court necessary after &#39;Fortnite&#39; restored to App Store](https://appleinsider.com/articles/25/05/20/apple-epic-agree-no-in-person-court-necessary-after-fortnite-restored-to-app-store?utm_medium=rss)
- - [Waymo co-CEO Tekedra Mawakana says Waymo has reached 10M paid trips, doubling in the past five months, and that the company is not yet profitable &lpar;CNBC&rpar;](http://www.techmeme.com/250520/p56#a250520p56)
- - [Hands-on with Google&#39;s Android XR Gemini-powered prototype glasses: they are light and comfortable to wear, and the single display in the right lens works well &lpar;Michael L Hicks/Android Central&rpar;](http://www.techmeme.com/250520/p55#a250520p55)<!-- TECH:END -->
+ - [Google announces Firebase AI Logic, combining Vertex AI and Genkit tools to more easily integrate AI into apps, and adds Figma import support in Firebase Studio &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250520/p59#a250520p59)
+ - [AMD’s new RX 9060 XT looks set to challenge Nvidia’s RTX 5060](https://www.theverge.com/news/670285/amd-radeon-rx-9060-xt-announcement-computex)
+ - [Washington Gov. Bob Ferguson approves controversial new taxes expanding the state&#39;s sales tax on companies providing digital services, starting in October 2025 &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250520/p58#a250520p58)
+ - [I Took Google&#39;s New Try On Feature for a Spin -- It Was Fascinating &lpar;and Hilarious&rpar;](https://www.cnet.com/tech/mobile/i-took-googles-new-try-on-feature-for-a-spin-it-was-fascinating-and-hilarious/#ftag=CAD590a51e)
+ - [Kalshi withdrew announcements about a collaboration with xAI just hours after CEO Tarek Mansour said the deal would &quot;further take prediction markets mainstream&quot; &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250520/p57#a250520p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

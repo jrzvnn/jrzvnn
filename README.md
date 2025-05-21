@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zoom reports Q1 revenue up 3% YoY to $1.17B, in line with expectations, Enterprise revenue up 6% YoY to $704.7M, and raises its FY 2026 forecast above estimates &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/250521/p48#a250521p48)
- - [Snowflake reports Q1 product revenue up 26% YoY to $996.8M, vs. $966M est., and forecasts Q2 product revenue above estimates; SNOW jumps 6%+ after hours &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250521/p47#a250521p47)
- - [News publishers call Google’s AI Mode &amp;#8216;theft&amp;#8217;](https://www.theverge.com/news/672132/news-media-alliance-google-ai-mode-theft)
- - [8 Best Mattresses for Side Sleepers Plus Helpful Buying Advice &lpar;2025&rpar;](https://www.wired.com/gallery/side-sleeper-beds/)
- - [AT&amp;T agrees to acquire Lumen&#39;s consumer fiber business for $5.75B, in an all-cash deal expected to close in H1 2026; LUMN jumps 13%+ after hours &lpar;Milana Vinn/Reuters&rpar;](http://www.techmeme.com/250521/p46#a250521p46)<!-- TECH:END -->
+ - [Are Character AI&amp;#8217;s chatbots protected speech? One court isn&amp;#8217;t sure](https://www.theverge.com/law/672209/character-ai-lawsuit-ruling-first-amendment)
+ - [Signal says no to Windows 11’s Recall screenshots](https://www.theverge.com/news/672210/signal-desktop-app-microsoft-recall-block-windows-11-ai)
+ - [Amazon plans to sell Nike products directly for the first time since 2019, when Nike stopped selling through Amazon due to lingering counterfeit issues &lpar;The Information&rpar;](http://www.techmeme.com/250521/p49#a250521p49)
+ - [Apple used human instructors with Apple Vision Pros to train humanoid robots](https://appleinsider.com/articles/25/05/21/apple-used-human-instructors-with-apple-vision-pros-to-train-humanoid-robots?utm_medium=rss)
+ - [Zoom reports Q1 revenue up 3% YoY to $1.17B, in line with expectations, Enterprise revenue up 6% YoY to $704.7M, and raises its FY 2026 forecast above estimates &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/250521/p48#a250521p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Ellie&#39;s secret weapon &lpar;GooBrain on yt&rpar;](http://9gag.com/gag/axyR58M)
  - 😝 [A meme was born](http://9gag.com/gag/agm4Wqg)
- - 😝 [When math leaves you puzzled... and amused](http://9gag.com/gag/awydEoD)
- - 💣 [Ellie&#39;s secret weapon &lpar;GooBrain on yt&rpar;](http://9gag.com/gag/axyR58M)
- - 😝 [It should have been me](http://9gag.com/gag/ae9mL7v)
- - 👉 [PC Gaming Is Talking](http://9gag.com/gag/amoMeRy)<!-- MEMES:END -->
+ - 💣 [She got him good.](http://9gag.com/gag/aGyAWV0)
+ - 😝 [`Manners Maketh Man`](http://9gag.com/gag/aO8Pwwy)
+ - 👉 [It should have been me](http://9gag.com/gag/ae9mL7v)<!-- MEMES:END -->
 
 ---
 

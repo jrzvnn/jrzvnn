@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Baidu reports Q1 revenue up 3% YoY to ~$4.5B, above ~$4.3B est., and a ~$1B net profit, as the Chinese search giant fends off intensifying competition in AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250521/p18#a250521p18)
+ - [New Bacteria Have Been Discovered on a Chinese Space Station](https://www.wired.com/story/bacteria-unknown-on-earth-appears-on-chinese-space-station/)
  - [Microsoft files an amicus brief to support Epic in its App Store fight and blames Apple for its delayed Xbox mobile gaming store, announced in May 2024 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250521/p17#a250521p17)
  - [The Best Memorial Day Mattress Sales &lpar;2025&rpar;](https://www.wired.com/story/best-memorial-day-mattress-sales-2025/)
- - [IVF Clinic Bombing Suspect Was Linked to ‘Anti-Life’ Ideology. Experts Fear Its Growing Influence](https://www.wired.com/story/palm-springs-ivf-bombing-suspect-anti-life-nihilism/)
- - [Amazon issues refunds for purchases as far back as 2018; CFO Brian Olsavsky said on May 1 that Amazon took a ~$1B charge over &quot;some historical customer returns&quot; &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/250521/p16#a250521p16)
- - [A look at the Coller Dolittle challenge, modeled on the Turing test with a $10M equity investment prize to decipher an animal&#39;s language and elicit a reply &lpar;Anjana Ahuja/Financial Times&rpar;](http://www.techmeme.com/250521/p15#a250521p15)<!-- TECH:END -->
+ - [IVF Clinic Bombing Suspect Was Linked to ‘Anti-Life’ Ideology. Experts Fear Its Growing Influence](https://www.wired.com/story/palm-springs-ivf-bombing-suspect-anti-life-nihilism/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

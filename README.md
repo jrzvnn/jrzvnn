@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That fast](http://9gag.com/gag/aND4xZv)
- - 😝 [Scary but hot](http://9gag.com/gag/amoMeKv)
- - 💣 [Turn to page 394](http://9gag.com/gag/aKGeR3j)
+ - 😝 [Deke&#39;s got the most expensive smile in the K-9 unit](http://9gag.com/gag/a872RmO)
+ - 😝 [Seems like a good problem to have](http://9gag.com/gag/aoyLvNm)
+ - 💣 [When the universe\u2019s stress just melts away](http://9gag.com/gag/ayNRbv8)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
- - 👉 [When the universe\u2019s stress just melts away](http://9gag.com/gag/ayNRbv8)<!-- MEMES:END -->
+ - 👉 [An army of red light in middle of nowhere](http://9gag.com/gag/aPAQNjV)<!-- MEMES:END -->
 
 ---
 

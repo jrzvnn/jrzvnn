@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft adds over 50 ‘Retro Classics’ to Game Pass](https://www.theverge.com/news/672037/microsoft-xbox-game-pass-activision-retro-classics)
+ - [CoreWeave announces a $2B debt offering, representing a $500M increase from its initial announcement, and says it was five times oversubscribed; CRWV jumps 19% &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250521/p45#a250521p45)
  - [Shopify launches new AI tools, including one for setting up storefronts and another for creating elements like banners, and upgrades its AI assistant Sidekick &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250521/p44#a250521p44)
  - [Windows 95 chime composer Brian Eno denounces Microsoft for its ties to Israeli government](https://www.theverge.com/news/671864/brian-eno-windows-95-chime-microsoft-israel-palestine-statement)
- - [Chevy expands 2026 Silverado EV lineup with Trail Boss addition](https://www.theverge.com/news/671986/chevy-silverado-ev-trail-boss-range-power)
- - [The Enhanced Games Has a Date, a Host City, and a Drug-Fueled World Record](https://www.wired.com/story/the-enhanced-games-has-a-date-a-host-city-and-a-drug-fuelled-world-record/)
- - [Google has a new tool to help detect AI-generated content](https://www.theverge.com/news/672013/google-synthid-detector-ai-generated-content-watermark-i-o-2025)<!-- TECH:END -->
+ - [Chevy expands 2026 Silverado EV lineup with Trail Boss addition](https://www.theverge.com/news/671986/chevy-silverado-ev-trail-boss-range-power)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

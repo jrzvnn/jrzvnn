@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guy being a saver](http://9gag.com/gag/aqyWqAv)
- - 😝 [What we again?](http://9gag.com/gag/abAB93v)
- - 💣 [PC Gaming Is Talking](http://9gag.com/gag/amoMeRy)
- - 😝 [She got him good.](http://9gag.com/gag/aGyAWV0)
- - 👉 [A meme was born](http://9gag.com/gag/agm4Wqg)<!-- MEMES:END -->
+ - 😝 [A meme was born](http://9gag.com/gag/agm4Wqg)
+ - 😝 [The machine](http://9gag.com/gag/amoMeQV)
+ - 💣 [What we again?](http://9gag.com/gag/abAB93v)
+ - 😝 [`Manners Maketh Man`](http://9gag.com/gag/aO8Pwwy)
+ - 👉 [PC Gaming Is Talking](http://9gag.com/gag/amoMeRy)<!-- MEMES:END -->
 
 ---
 

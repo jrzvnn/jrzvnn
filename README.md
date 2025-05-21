@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [8 Best Mattresses for Side Sleepers Plus Helpful Buying Advice &lpar;2025&rpar;](https://www.wired.com/gallery/side-sleeper-beds/)
+ - [AT&amp;T agrees to acquire Lumen&#39;s consumer fiber business for $5.75B, in an all-cash deal expected to close in H1 2026; LUMN jumps 13%+ after hours &lpar;Milana Vinn/Reuters&rpar;](http://www.techmeme.com/250521/p46#a250521p46)
  - [Microsoft adds over 50 ‘Retro Classics’ to Game Pass](https://www.theverge.com/news/672037/microsoft-xbox-game-pass-activision-retro-classics)
  - [CoreWeave announces a $2B debt offering, representing a $500M increase from its initial announcement, and says it was five times oversubscribed; CRWV jumps 19% &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250521/p45#a250521p45)
- - [Shopify launches new AI tools, including one for setting up storefronts and another for creating elements like banners, and upgrades its AI assistant Sidekick &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250521/p44#a250521p44)
- - [Windows 95 chime composer Brian Eno denounces Microsoft for its ties to Israeli government](https://www.theverge.com/news/671864/brian-eno-windows-95-chime-microsoft-israel-palestine-statement)
- - [Chevy expands 2026 Silverado EV lineup with Trail Boss addition](https://www.theverge.com/news/671986/chevy-silverado-ev-trail-boss-range-power)<!-- TECH:END -->
+ - [Shopify launches new AI tools, including one for setting up storefronts and another for creating elements like banners, and upgrades its AI assistant Sidekick &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250521/p44#a250521p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

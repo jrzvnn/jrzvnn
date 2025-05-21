@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [PC Gaming Is Talking](http://9gag.com/gag/amoMeRy)
- - 😝 [What we again?](http://9gag.com/gag/abAB93v)
- - 💣 [Out-Karened A Karen](http://9gag.com/gag/aW4bwV2)
+ - 😝 [It should have been me](http://9gag.com/gag/ae9mL7v)
+ - 💣 [John Wick](http://9gag.com/gag/a9y2QP0)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
- - 👉 [John Wick](http://9gag.com/gag/a9y2QP0)<!-- MEMES:END -->
+ - 👉 [When the line you&#39;re holding up is society&#39;s progress](http://9gag.com/gag/aryq6b0)<!-- MEMES:END -->
 
 ---
 

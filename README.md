@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Update: Leader is injured](http://9gag.com/gag/aQzZwbK)
- - 😝 [Abundance in life](http://9gag.com/gag/aZZjG1V)
- - 💣 [Removing bathroom tiles](http://9gag.com/gag/aD2VExw)
- - 😝 [What we again?](http://9gag.com/gag/abAB93v)
- - 👉 [Liberal women.](http://9gag.com/gag/aLnmqjP)<!-- MEMES:END -->
+ - 😝 [When you have more immigrant voters than locals.](http://9gag.com/gag/a872PAV)
+ - 😝 [He must have had fond memories...](http://9gag.com/gag/aQzZG58)
+ - 💣 [Core childhood memory](http://9gag.com/gag/aZZjAXX)
+ - 😝 [Peter Cullen the voice of Optimus Prime](http://9gag.com/gag/amoMDzV)
+ - 👉 [My type of MC club](http://9gag.com/gag/a342o0N)<!-- MEMES:END -->
 
 ---
 

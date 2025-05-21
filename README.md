@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside China&#39;s &quot;stolen iPhone building&quot;: electronics traders in Shenzhen describe how even remotely locked stolen iPhones can be stripped and sold at a profit &lpar;William Langley/Financial Times&rpar;](http://www.techmeme.com/250521/p10#a250521p10)
- - [Google says weather apps have &quot;graduated from beta&quot; on Android Auto and Cars with Google built-in, and Android Auto will &quot;soon&quot; get browser and video apps &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250521/p9#a250521p9)
- - [Indonesian ex-scammers reveal how Southeast Asian scam farms lured them via Facebook and Telegram ads; Indonesia says 6,700+ people were tricked since 2020 &lpar;Linda Yulisman/Rest of World&rpar;](http://www.techmeme.com/250521/p8#a250521p8)
- - [Book excerpt: a profile of AI-obsessed autodidact Eliezer Yudkowsky, who introduced the DeepMind founders to Peter Thiel and inspired DeepMind&#39;s Shane Legg &lpar;Keach Hagey/Wired&rpar;](http://www.techmeme.com/250521/p7#a250521p7)
- - [Microsoft’s AI security chief accidentally reveals Walmart&amp;#8217;s AI plans after protest](https://www.theverge.com/news/671373/microsoft-ai-security-chief-walmart-conversation-build-protest-disruption)<!-- TECH:END -->
+ - [Miniot returns with a sleeker Wheel 3 vertical turntable](https://www.theverge.com/news/671413/miniot-returns-with-a-sleeker-wheel-3-vertical-turntable)
+ - [Amazon is sending customers refunds for some really, really old returns](https://www.theverge.com/news/671407/amazon-returns-refunds-old-orders)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 21, #240](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-21-240/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for May 21, #444](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-21-444/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for May 21, #710](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-21-710/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Siblings or sandwiches? The ultimate betrayal](http://9gag.com/gag/amoMEWv)
+ - 😝 [Update: Leader is injured](http://9gag.com/gag/aQzZwbK)
  - 😝 [Abundance in life](http://9gag.com/gag/aZZjG1V)
- - 💣 [Update: Leader is injured](http://9gag.com/gag/aQzZwbK)
- - 😝 [Liberal women.](http://9gag.com/gag/aLnmqjP)
- - 👉 [Guy being a saver](http://9gag.com/gag/aqyWqAv)<!-- MEMES:END -->
+ - 💣 [Removing bathroom tiles](http://9gag.com/gag/aD2VExw)
+ - 😝 [What we again?](http://9gag.com/gag/abAB93v)
+ - 👉 [Liberal women.](http://9gag.com/gag/aLnmqjP)<!-- MEMES:END -->
 
 ---
 

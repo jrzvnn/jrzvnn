@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yosemite national park in California](http://9gag.com/gag/aByGqDZ)
- - 😝 [Removing bathroom tiles](http://9gag.com/gag/aD2VExw)
- - 💣 [Guy being a saver](http://9gag.com/gag/aqyWqAv)
+ - 😝 [`Manners Maketh Man`](http://9gag.com/gag/aO8Pwwy)
  - 😝 [When the universe\u2019s stress just melts away](http://9gag.com/gag/ayNRbv8)
- - 👉 [John Wick](http://9gag.com/gag/a9y2QP0)<!-- MEMES:END -->
+ - 💣 [Ellie&#39;s secret weapon &lpar;GooBrain on yt&rpar;](http://9gag.com/gag/axyR58M)
+ - 😝 [Update: Leader is injured](http://9gag.com/gag/aQzZwbK)
+ - 👉 [Liberal women.](http://9gag.com/gag/aLnmqjP)<!-- MEMES:END -->
 
 ---
 

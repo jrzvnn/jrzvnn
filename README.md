@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Sam Altman and LoveFrom have been working for two years on a new device to move consumers beyond screens, including headphones and devices with cameras &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250521/p38#a250521p38)
  - [Microsoft blames Apple&#39;s interference for why the Xbox mobile store has failed to launch](https://appleinsider.com/articles/25/05/21/microsoft-blames-apples-interference-for-why-the-xbox-mobile-store-has-failed-to-launch?utm_medium=rss)
+ - [Best Internet Providers in Aurora, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-aurora-co/#ftag=CAD590a51e)
  - [OpenAI is buying Jony Ive&amp;#8217;s AI hardware company](https://www.theverge.com/news/671838/openai-jony-ive-ai-hardware-apple)
- - [OpenAI is buying io, Jony Ive&#39;s secretive AI startup, for ~$6.5B in stock; Ive and LoveFrom will remain independent but take over design for all of OpenAI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250521/p37#a250521p37)
- - [The best Memorial Day deals you can already get](https://www.theverge.com/tech/670092/best-memorial-day-sales-2025)
- - [Microsoft seizes ~2.3K domains globally to disrupt Lumma&#39;s malware-as-a-service operation, after finding 394K+ PCs infected by Lumma &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250521/p36#a250521p36)<!-- TECH:END -->
+ - [OpenAI is buying io, Jony Ive&#39;s secretive AI startup, for ~$6.5B in stock; Ive and LoveFrom will remain independent but take over design for all of OpenAI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250521/p37#a250521p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Maine AG filing: Coinbase says its recent data breach impacted 69,461 individuals; stolen data included government IDs, account info, and personal identifiers &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250521/p21#a250521p21)
- - [Windows 11 is getting a macOS-like Handoff feature between phone and PC](https://www.theverge.com/news/671454/microsoft-windows-11-handoff-feature-cross-device-resume)
- - [Volvo expands its Google partnership to integrate Gemini across its model lineup, the first automaker to do so, hoping to ease a driver&#39;s &quot;cognitive load&quot; &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250521/p20#a250521p20)
- - [AI startup Crusoe secures $11.6B in debt and equity to expand a Texas data center it is building for OpenAI, set to open in 2026 and host up to 400K Nvidia GPUs &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250521/p19#a250521p19)
- - [Eating Disorder Content Is Infiltrating TikTok. Some Creators Are Going Viral Debunking It](https://www.wired.com/story/eating-disorder-content-is-infiltrating-tiktok-some-creators-are-going-viral-debunking-it/)<!-- TECH:END -->
+ - [How stolen and locked iPhones are being broken down in China for profit](https://appleinsider.com/articles/25/05/21/how-stolen-and-locked-iphones-are-being-broken-down-in-china-for-profit?utm_medium=rss)
+ - [12 Best Mattresses Online—We Slept on All for at Least a Week &lpar;2025&rpar;](https://www.wired.com/gallery/best-mattresses/)
+ - [Distributed Denial of Secrets: the TeleMessage hacker stole messages from 60+ US government users covering about one day ending May 4, including travel plans &lpar;Reuters&rpar;](http://www.techmeme.com/250521/p22#a250521p22)
+ - [Google’s future is Google Googling](https://www.theverge.com/google/671200/google-googling-ai-mode-project-mariner-i-o-2025)
+ - [Maine AG filing: Coinbase says its recent data breach impacted 69,461 individuals; stolen data included government IDs, account info, and personal identifiers &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250521/p21#a250521p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

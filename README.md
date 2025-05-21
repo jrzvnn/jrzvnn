@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Knowing we are totally free tomorrow](http://9gag.com/gag/a872ZBQ)
- - 😝 [When your drive-thru order needs divine intervention](http://9gag.com/gag/aQzZ0dW)
- - 💣 [Officer: You wanna get arrested? Civilian: You wanna get sued?](http://9gag.com/gag/aXPWy1g)
+ - 😝 [PC Gaming Is Talking](http://9gag.com/gag/amoMeRy)
+ - 😝 [Out-Karened A Karen](http://9gag.com/gag/aW4bwV2)
+ - 💣 [When the line you&#39;re holding up is society&#39;s progress](http://9gag.com/gag/aryq6b0)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
- - 👉 [When you have more immigrant voters than locals.](http://9gag.com/gag/a872PAV)<!-- MEMES:END -->
+ - 👉 [John Wick](http://9gag.com/gag/a9y2QP0)<!-- MEMES:END -->
 
 ---
 

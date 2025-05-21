@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Damn mods](http://9gag.com/gag/aryq61d)
- - 😝 [Both? Both..](http://9gag.com/gag/aVvLA28)
- - 💣 [Wasn&#39;t what I was expecting](http://9gag.com/gag/avyR3Pb)
- - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
- - 👉 [Knowing we are totally free tomorrow](http://9gag.com/gag/a872ZBQ)<!-- MEMES:END -->
+ - 😝 [Blu is my oldest friend](http://9gag.com/gag/avyRMNW)
+ - 😝 [Ellie&#39;s secret weapon &lpar;GooBrain on yt&rpar;](http://9gag.com/gag/axyR58M)
+ - 💣 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
+ - 😝 [When the line you&#39;re holding up is society&#39;s progress](http://9gag.com/gag/aryq6b0)
+ - 👉 [What we again?](http://9gag.com/gag/abAB93v)<!-- MEMES:END -->
 
 ---
 

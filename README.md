@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Turn to page 394](http://9gag.com/gag/aKGeR3j)
- - 😝 [Seems like a good problem to have](http://9gag.com/gag/aoyLvNm)
+ - 😝 [The machine](http://9gag.com/gag/amoMeQV)
+ - 😝 [Out-Karened A Karen](http://9gag.com/gag/aW4bwV2)
  - 💣 [It should have been me](http://9gag.com/gag/ae9mL7v)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
  - 👉 [Daughter: Mom, he&#39;s going to find me Mom: `GG`](http://9gag.com/gag/agm4Wrn)<!-- MEMES:END -->

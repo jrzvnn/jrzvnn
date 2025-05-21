@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [`Manners Maketh Man`](http://9gag.com/gag/aO8Pwwy)
+ - 😝 [When math leaves you puzzled... and amused](http://9gag.com/gag/awydEoD)
+ - 💣 [PC Gaming Is Talking](http://9gag.com/gag/amoMeRy)
  - 😝 [Ellie&#39;s secret weapon &lpar;GooBrain on yt&rpar;](http://9gag.com/gag/axyR58M)
- - 😝 [PC Gaming Is Talking](http://9gag.com/gag/amoMeRy)
- - 💣 [When math leaves you puzzled... and amused](http://9gag.com/gag/awydEoD)
- - 😝 [It should have been me](http://9gag.com/gag/ae9mL7v)
- - 👉 [Its not perfect but at least it&#39;s not just a lot of spam from bots](http://9gag.com/gag/a9y2xA0)<!-- MEMES:END -->
+ - 👉 [It should have been me](http://9gag.com/gag/ae9mL7v)<!-- MEMES:END -->
 
 ---
 

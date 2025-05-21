@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inside China&#39;s &quot;stolen iPhone building&quot;: electronics traders in Shenzhen describe how even remotely locked stolen iPhones can be stripped and sold at a profit &lpar;William Langley/Financial Times&rpar;](http://www.techmeme.com/250521/p10#a250521p10)
  - [Google says weather apps have &quot;graduated from beta&quot; on Android Auto and Cars with Google built-in, and Android Auto will &quot;soon&quot; get browser and video apps &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250521/p9#a250521p9)
  - [Indonesian ex-scammers reveal how Southeast Asian scam farms lured them via Facebook and Telegram ads; Indonesia says 6,700+ people were tricked since 2020 &lpar;Linda Yulisman/Rest of World&rpar;](http://www.techmeme.com/250521/p8#a250521p8)
  - [Book excerpt: a profile of AI-obsessed autodidact Eliezer Yudkowsky, who introduced the DeepMind founders to Peter Thiel and inspired DeepMind&#39;s Shane Legg &lpar;Keach Hagey/Wired&rpar;](http://www.techmeme.com/250521/p7#a250521p7)
- - [Microsoft’s AI security chief accidentally reveals Walmart&amp;#8217;s AI plans after protest](https://www.theverge.com/news/671373/microsoft-ai-security-chief-walmart-conversation-build-protest-disruption)
- - [Volvo will be the first to install Google’s Gemini in its cars](https://www.theverge.com/news/670954/volvo-google-gemini-ai-cars-android-automotive)<!-- TECH:END -->
+ - [Microsoft’s AI security chief accidentally reveals Walmart&amp;#8217;s AI plans after protest](https://www.theverge.com/news/671373/microsoft-ai-security-chief-walmart-conversation-build-protest-disruption)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

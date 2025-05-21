@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI model ranking project LMArena spins off from UC Berkeley and raises a $100M seed led by a16z and UC Investments, sources say at a $600M valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250521/p31#a250521p31)
- - [Sources and docs: a &quot;major lapse&quot; at Thoma Bravo&#39;s Opexus, which helps US agencies manage investigations and FOIA, let two convicted hackers delete databases &lpar;Jason Leopold/Bloomberg&rpar;](http://www.techmeme.com/250521/p30#a250521p30)
- - [19-year-old student to plead guilty to huge school database hack](https://www.theverge.com/news/671713/powerschool-hack-guilty-plea-matthew-lane)
- - [PlayStation Stars burns out](https://www.theverge.com/news/671715/sony-playstation-stars-program-shutting-down)
- - [Hellblade II is the latest Xbox game coming to PS5 this summer](https://www.theverge.com/news/610793/hellblade-2-ps5-release-date-xbox-ninja-theory)<!-- TECH:END -->
+ - [Android 16 adds AI-powered weather effects that can make it rain on your photos](https://www.theverge.com/news/671749/android-16-adds-ai-powered-weather-effects-that-can-make-it-rain-on-your-photos)
+ - [In April ChatGPT started to, by default, reference all past chats for more personalized responses, but this means users lose control of their prompts&#39; context &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250521/p32#a250521p32)
+ - [Jack Dorsey&#39;s Block Made an AI Agent to Boost Its Own Productivity](https://www.wired.com/story/jack-dorseys-block-made-an-ai-agent-to-boost-its-own-productivity/)
+ - [Eric Adams and crypto whales demand that New York stop regulating crypto licenses](https://www.theverge.com/cryptocurrency/671653/eric-adams-crypto-summit-bitlicense-nyc)
+ - [Apple Pay increasing in popularity online as shoppers seek speed &amp; security](https://appleinsider.com/articles/25/05/21/apple-pay-increasing-in-popularity-online-as-shoppers-seek-speed-security?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

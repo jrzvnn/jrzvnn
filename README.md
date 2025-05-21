@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Yosemite national park in California](http://9gag.com/gag/aByGqDZ)
- - 😝 [When Amazon Prime delivers... a surprise](http://9gag.com/gag/awyd6dD)
- - 💣 [`Manners Maketh Man`](http://9gag.com/gag/aO8Pwwy)
- - 😝 [John Wick](http://9gag.com/gag/a9y2QP0)
- - 👉 [Liberal women.](http://9gag.com/gag/aLnmqjP)<!-- MEMES:END -->
+ - 😝 [She got him good.](http://9gag.com/gag/aGyAWV0)
+ - 💣 [John Wick](http://9gag.com/gag/a9y2QP0)
+ - 😝 [I\u2019d agree it\u2019s pretty good.](http://9gag.com/gag/aD2VprB)
+ - 👉 [Guy being a saver](http://9gag.com/gag/aqyWqAv)<!-- MEMES:END -->
 
 ---
 

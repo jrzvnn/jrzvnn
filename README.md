@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google&#39;s I/O keynote was both scary and chill, a fever dream of sizzle reels selling how AI changes everything, even search, and can give users superpowers &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/250521/p6#a250521p6)
+ - [Experts warn Trump&#39;s trade policies risk US dominance in digital services, often uncounted by traditional statistics, as the EU considers retaliatory tariffs &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/250521/p5#a250521p5)
+ - [New York City&#39;s AI tool, launched in 2018 to score families at risk for child abuse using factors like their neighborhood, is raising racial bias concerns &lpar;Colin Lecher/The Markup&rpar;](http://www.techmeme.com/250521/p4#a250521p4)
  - [Jensen Huang calls US AI chip export controls a &quot;failure&quot; that sped up China&#39;s efforts, cutting Nvidia&#39;s market share in China from 95% to 50% in four years &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/250521/p3#a250521p3)
- - [The US SEC sues Unicoin and its executives, alleging they broke securities laws by raising $100M+ for tokens falsely claimed to be backed by real estate &lpar;CoinDesk&rpar;](http://www.techmeme.com/250521/p2#a250521p2)
- - [Groupon Promo Codes: 30% Off | May 2025](https://www.wired.com/story/groupon-promo-code/)
- - [Best Internet Providers in Asheville, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-asheville-nc/#ftag=CAD590a51e)
- - [Best Internet Providers in Boise, Idaho](https://www.cnet.com/home/internet/best-internet-providers-in-boise-id/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US SEC sues Unicoin and its executives, alleging they broke securities laws by raising $100M+ for tokens falsely claimed to be backed by real estate &lpar;CoinDesk&rpar;](http://www.techmeme.com/250521/p2#a250521p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

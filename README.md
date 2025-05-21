@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says weather apps have &quot;graduated from beta&quot; on Android Auto and Cars with Google built-in, and Android Auto will &quot;soon&quot; get browser and video apps &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250521/p9#a250521p9)
+ - [Indonesian ex-scammers reveal how Southeast Asian scam farms lured them via Facebook and Telegram ads; Indonesia says 6,700+ people were tricked since 2020 &lpar;Linda Yulisman/Rest of World&rpar;](http://www.techmeme.com/250521/p8#a250521p8)
  - [Book excerpt: a profile of AI-obsessed autodidact Eliezer Yudkowsky, who introduced the DeepMind founders to Peter Thiel and inspired DeepMind&#39;s Shane Legg &lpar;Keach Hagey/Wired&rpar;](http://www.techmeme.com/250521/p7#a250521p7)
  - [Microsoft’s AI security chief accidentally reveals Walmart&amp;#8217;s AI plans after protest](https://www.theverge.com/news/671373/microsoft-ai-security-chief-walmart-conversation-build-protest-disruption)
- - [Volvo will be the first to install Google’s Gemini in its cars](https://www.theverge.com/news/670954/volvo-google-gemini-ai-cars-android-automotive)
- - [Google&#39;s I/O keynote was both scary and chill, a fever dream of sizzle reels selling how AI changes everything, even search, and can give users superpowers &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/250521/p6#a250521p6)
- - [Experts warn Trump&#39;s trade policies risk US dominance in digital services, often uncounted by traditional statistics, as the EU considers retaliatory tariffs &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/250521/p5#a250521p5)<!-- TECH:END -->
+ - [Volvo will be the first to install Google’s Gemini in its cars](https://www.theverge.com/news/670954/volvo-google-gemini-ai-cars-android-automotive)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

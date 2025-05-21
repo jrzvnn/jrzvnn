@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A meme was born](http://9gag.com/gag/agm4Wqg)
- - 😝 [The machine](http://9gag.com/gag/amoMeQV)
- - 💣 [What we again?](http://9gag.com/gag/abAB93v)
- - 😝 [`Manners Maketh Man`](http://9gag.com/gag/aO8Pwwy)
- - 👉 [PC Gaming Is Talking](http://9gag.com/gag/amoMeRy)<!-- MEMES:END -->
+ - 😝 [What we again?](http://9gag.com/gag/abAB93v)
+ - 😝 [I\u2019d agree it\u2019s pretty good.](http://9gag.com/gag/aD2VprB)
+ - 💣 [The machine](http://9gag.com/gag/amoMeQV)
+ - 😝 [It should have been me](http://9gag.com/gag/ae9mL7v)
+ - 👉 [When your style evolves more than your playlist.](http://9gag.com/gag/aAy2WPR)<!-- MEMES:END -->
 
 ---
 

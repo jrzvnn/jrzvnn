@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It should have been me](http://9gag.com/gag/ae9mL7v)
+ - 😝 [Cool dude landlord](http://9gag.com/gag/a5Q2mGy)
+ - 😝 [`Manners Maketh Man`](http://9gag.com/gag/aO8Pwwy)
+ - 💣 [A meme was born](http://9gag.com/gag/agm4Wqg)
  - 😝 [Ellie&#39;s secret weapon &lpar;GooBrain on yt&rpar;](http://9gag.com/gag/axyR58M)
- - 💣 [What we again?](http://9gag.com/gag/abAB93v)
- - 😝 [When your style evolves more than your playlist.](http://9gag.com/gag/aAy2WPR)
- - 👉 [She got him good.](http://9gag.com/gag/aGyAWV0)<!-- MEMES:END -->
+ - 👉 [When the line you&#39;re holding up is society&#39;s progress](http://9gag.com/gag/aryq6b0)<!-- MEMES:END -->
 
 ---
 

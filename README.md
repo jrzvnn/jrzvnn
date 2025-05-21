@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The machine](http://9gag.com/gag/amoMeQV)
- - 😝 [What we again?](http://9gag.com/gag/abAB93v)
+ - 😝 [Yosemite national park in California](http://9gag.com/gag/aByGqDZ)
+ - 😝 [When Amazon Prime delivers... a surprise](http://9gag.com/gag/awyd6dD)
  - 💣 [`Manners Maketh Man`](http://9gag.com/gag/aO8Pwwy)
- - 😝 [Guy being a saver](http://9gag.com/gag/aqyWqAv)
- - 👉 [I\u2019d agree it\u2019s pretty good.](http://9gag.com/gag/aD2VprB)<!-- MEMES:END -->
+ - 😝 [John Wick](http://9gag.com/gag/a9y2QP0)
+ - 👉 [Liberal women.](http://9gag.com/gag/aLnmqjP)<!-- MEMES:END -->
 
 ---
 

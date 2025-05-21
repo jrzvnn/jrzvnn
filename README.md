@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [When Amazon Prime delivers... a surprise](http://9gag.com/gag/awyd6dD)
- - 😝 [Blu is my oldest friend](http://9gag.com/gag/avyRMNW)
- - 💣 [PC Gaming Is Talking](http://9gag.com/gag/amoMeRy)
+ - 😝 [When the line you&#39;re holding up is society&#39;s progress](http://9gag.com/gag/aryq6b0)
+ - 💣 [When your style evolves more than your playlist.](http://9gag.com/gag/aAy2WPR)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
- - 👉 [When your style evolves more than your playlist.](http://9gag.com/gag/aAy2WPR)<!-- MEMES:END -->
+ - 👉 [Deke&#39;s got the most expensive smile in the K-9 unit](http://9gag.com/gag/a872RmO)<!-- MEMES:END -->
 
 ---
 

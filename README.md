@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best MagSafe and Qi2 chargers](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
- - [OpenAI&#39;s $6.5B bet on Jony Ive could redefine how people interact with technology](https://appleinsider.com/articles/25/05/21/openais-65b-bet-on-jony-ive-could-redefine-how-people-interact-with-technology?utm_medium=rss)
- - [Sources: OpenAI owned a 23% stake in io from a 2024 deal so is now paying ~$5B to fully acquire it; separately, OpenAI&#39;s Start-up Fund invested in io last year &lpar;New York Times&rpar;](http://www.techmeme.com/250521/p40#a250521p40)
- - [In a video and letter signed &quot;Sam &amp; Jony&quot;, Altman and Ive announce io, founded last year by Ive, Scott Cannon, Evans Hankey, and Tang Tan to create new products &lpar;OpenAI&rpar;](http://www.techmeme.com/250521/p39#a250521p39)
- - [A Gaming YouTuber Says an AI-Generated Clone of His Voice Is Being Used to Narrate &#39;Doom&#39; Videos](https://www.wired.com/story/a-gaming-youtuber-says-an-ai-generated-clone-of-his-voice-is-being-used-to-narrate-doom-videos/)<!-- TECH:END -->
+ - [Did WhatsApp really need Meta?](https://www.theverge.com/antitrust/671831/meta-whatsapp-founder-brian-acton-testimony-antitrust-trial-ftc)
+ - [OpenAI&#39;s Big Bet That Jony Ive Can Make AI Hardware Work](https://www.wired.com/story/jony-ive-open-ai-hardware-io/)
+ - [Google’s Android Chief Hopes Its ‘New Era’ Will Get People to Ditch Their iPhones](https://www.wired.com/story/googles-android-chief-hopes-its-new-era-will-get-people-to-ditch-their-iphones/)
+ - [World Network raised $135M in a token sale to a16z and Bain Capital Crypto &quot;to meet increasing demand for Orb-verified World IDs&quot;; WLD jumped 14% on the news &lpar;Margaux Nijkerk/CoinDesk&rpar;](http://www.techmeme.com/250521/p41#a250521p41)
+ - [The best MagSafe and Qi2 chargers](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A meme was born](http://9gag.com/gag/agm4Wqg)
- - 😝 [John Wick](http://9gag.com/gag/a9y2QP0)
- - 💣 [It\u2019s a little one &lpar;single largest raccoon ever &rpar;](http://9gag.com/gag/a2v2BRO)
- - 😝 [`Manners Maketh Man`](http://9gag.com/gag/aO8Pwwy)
- - 👉 [What&#39;s it for?!](http://9gag.com/gag/adBeZ4D)<!-- MEMES:END -->
+ - 😝 [Core childhood memory](http://9gag.com/gag/aZZjAXX)
+ - 😝 [Seal waits until his friend is freed before escaping with him.](http://9gag.com/gag/adBe32Q)
+ - 💣 [Peter Cullen the voice of Optimus Prime](http://9gag.com/gag/amoMDzV)
+ - 😝 [My type of MC club](http://9gag.com/gag/a342o0N)
+ - 👉 [Yosemite national park in California](http://9gag.com/gag/aByGqDZ)<!-- MEMES:END -->
 
 ---
 

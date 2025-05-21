@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Blu is my oldest friend](http://9gag.com/gag/avyRMNW)
+ - 😝 [Lol](http://9gag.com/gag/ae9m8yp)
  - 😝 [Ellie&#39;s secret weapon &lpar;GooBrain on yt&rpar;](http://9gag.com/gag/axyR58M)
  - 💣 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
- - 😝 [When the line you&#39;re holding up is society&#39;s progress](http://9gag.com/gag/aryq6b0)
- - 👉 [What we again?](http://9gag.com/gag/abAB93v)<!-- MEMES:END -->
+ - 😝 [Daughter: Mom, he&#39;s going to find me Mom: `GG`](http://9gag.com/gag/agm4Wrn)
+ - 👉 [When you have more immigrant voters than locals.](http://9gag.com/gag/a872PAV)<!-- MEMES:END -->
 
 ---
 

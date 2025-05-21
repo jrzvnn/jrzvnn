@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you want to heal your 9gag feed, delete these users. This graph was not made by me, but I feel it is of public service to share it...](http://9gag.com/gag/avyR32n)
- - 😝 [Miley Cyrus is now becoming officer Alex Murphy.](http://9gag.com/gag/a342VqN)
- - 💣 [Turn to page 394](http://9gag.com/gag/aKGeR3j)
+ - 😝 [Turn to page 394](http://9gag.com/gag/aKGeR3j)
+ - 😝 [Seems like a good problem to have](http://9gag.com/gag/aoyLvNm)
+ - 💣 [It should have been me](http://9gag.com/gag/ae9mL7v)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
- - 👉 [Blu is my oldest friend](http://9gag.com/gag/avyRMNW)<!-- MEMES:END -->
+ - 👉 [Daughter: Mom, he&#39;s going to find me Mom: `GG`](http://9gag.com/gag/agm4Wrn)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jensen Huang calls US AI chip export controls a &quot;failure&quot; that sped up China&#39;s efforts, cutting Nvidia&#39;s market share in China from 95% to 50% in four years &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/250521/p3#a250521p3)
+ - [The US SEC sues Unicoin and its executives, alleging they broke securities laws by raising $100M+ for tokens falsely claimed to be backed by real estate &lpar;CoinDesk&rpar;](http://www.techmeme.com/250521/p2#a250521p2)
+ - [Groupon Promo Codes: 30% Off | May 2025](https://www.wired.com/story/groupon-promo-code/)
  - [AMD announces Zen 5-based Threadripper 9000 CPUs with up to 96 cores, along with RDNA 4-based Radeon AI Pro R9700 workstation GPU, both slated to launch in July &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/250521/p1#a250521p1)
- - [Zhejiang, home to Alibaba and DeepSeek, publishes an AI policy that expects companies in the AI supply chain to make $138B+ in total operating revenues by 2027 &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250520/p60#a250520p60)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, May 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-may-21/#ftag=CAD590a51e)
- - [Best Internet Providers in Springfield, Illinois](https://www.cnet.com/home/internet/best-internet-providers-in-springfield-il/#ftag=CAD590a51e)
- - [Google announces Firebase AI Logic, combining Vertex AI and Genkit tools to more easily integrate AI into apps, and adds Figma import support in Firebase Studio &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250520/p59#a250520p59)<!-- TECH:END -->
+ - [Zhejiang, home to Alibaba and DeepSeek, publishes an AI policy that expects companies in the AI supply chain to make $138B+ in total operating revenues by 2027 &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250520/p60#a250520p60)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

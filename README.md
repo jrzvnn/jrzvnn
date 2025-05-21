@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When Amazon Prime delivers... a surprise](http://9gag.com/gag/awyd6dD)
- - 😝 [When the line you&#39;re holding up is society&#39;s progress](http://9gag.com/gag/aryq6b0)
- - 💣 [When your style evolves more than your playlist.](http://9gag.com/gag/aAy2WPR)
+ - 😝 [When your drive-thru order needs divine intervention](http://9gag.com/gag/aQzZ0dW)
+ - 😝 [The heel lock did change my life for good!](http://9gag.com/gag/avyRMRE)
+ - 💣 [Damn mods](http://9gag.com/gag/aryq61d)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
- - 👉 [Deke&#39;s got the most expensive smile in the K-9 unit](http://9gag.com/gag/a872RmO)<!-- MEMES:END -->
+ - 👉 [Out-Karened A Karen](http://9gag.com/gag/aW4bwV2)<!-- MEMES:END -->
 
 ---
 

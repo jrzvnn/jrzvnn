@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It should have been me](http://9gag.com/gag/ae9mL7v)
+ - 😝 [John Wick](http://9gag.com/gag/a9y2QP0)
  - 😝 [Out-Karened A Karen](http://9gag.com/gag/aW4bwV2)
- - 💣 [Man uses a stopwatch to freeze time on a highschool girl](http://9gag.com/gag/aByGpP2)
+ - 💣 [What we again?](http://9gag.com/gag/abAB93v)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
- - 👉 [Blu is my oldest friend](http://9gag.com/gag/avyRMNW)<!-- MEMES:END -->
+ - 👉 [Cool dude landlord](http://9gag.com/gag/a5Q2mGy)<!-- MEMES:END -->
 
 ---
 

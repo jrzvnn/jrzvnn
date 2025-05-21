@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Book excerpt: a profile of AI-obsessed autodidact Eliezer Yudkowsky, who introduced the DeepMind founders to Peter Thiel and inspired DeepMind&#39;s Shane Legg &lpar;Keach Hagey/Wired&rpar;](http://www.techmeme.com/250521/p7#a250521p7)
  - [Microsoft’s AI security chief accidentally reveals Walmart&amp;#8217;s AI plans after protest](https://www.theverge.com/news/671373/microsoft-ai-security-chief-walmart-conversation-build-protest-disruption)
  - [Volvo will be the first to install Google’s Gemini in its cars](https://www.theverge.com/news/670954/volvo-google-gemini-ai-cars-android-automotive)
  - [Google&#39;s I/O keynote was both scary and chill, a fever dream of sizzle reels selling how AI changes everything, even search, and can give users superpowers &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/250521/p6#a250521p6)
- - [Experts warn Trump&#39;s trade policies risk US dominance in digital services, often uncounted by traditional statistics, as the EU considers retaliatory tariffs &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/250521/p5#a250521p5)
- - [New York City&#39;s AI tool, launched in 2018 to score families at risk for child abuse using factors like their neighborhood, is raising racial bias concerns &lpar;Colin Lecher/The Markup&rpar;](http://www.techmeme.com/250521/p4#a250521p4)<!-- TECH:END -->
+ - [Experts warn Trump&#39;s trade policies risk US dominance in digital services, often uncounted by traditional statistics, as the EU considers retaliatory tariffs &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/250521/p5#a250521p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

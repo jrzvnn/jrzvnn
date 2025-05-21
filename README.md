@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cool dude landlord](http://9gag.com/gag/a5Q2mGy)
- - 😝 [`Manners Maketh Man`](http://9gag.com/gag/aO8Pwwy)
- - 💣 [A meme was born](http://9gag.com/gag/agm4Wqg)
- - 😝 [Ellie&#39;s secret weapon &lpar;GooBrain on yt&rpar;](http://9gag.com/gag/axyR58M)
- - 👉 [When the line you&#39;re holding up is society&#39;s progress](http://9gag.com/gag/aryq6b0)<!-- MEMES:END -->
+ - 😝 [PC Gaming Is Talking](http://9gag.com/gag/amoMeRy)
+ - 😝 [A meme was born](http://9gag.com/gag/agm4Wqg)
+ - 💣 [When the line you&#39;re holding up is society&#39;s progress](http://9gag.com/gag/aryq6b0)
+ - 😝 [Its not perfect but at least it&#39;s not just a lot of spam from bots](http://9gag.com/gag/a9y2xA0)
+ - 👉 [John Wick](http://9gag.com/gag/a9y2QP0)<!-- MEMES:END -->
 
 ---
 

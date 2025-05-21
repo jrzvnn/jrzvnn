@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Zoom reports Q1 revenue up 3% YoY to $1.17B, in line with expectations, Enterprise revenue up 6% YoY to $704.7M, and raises its FY 2026 forecast above estimates &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/250521/p48#a250521p48)
+ - [Snowflake reports Q1 product revenue up 26% YoY to $996.8M, vs. $966M est., and forecasts Q2 product revenue above estimates; SNOW jumps 6%+ after hours &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250521/p47#a250521p47)
+ - [News publishers call Google’s AI Mode &amp;#8216;theft&amp;#8217;](https://www.theverge.com/news/672132/news-media-alliance-google-ai-mode-theft)
  - [8 Best Mattresses for Side Sleepers Plus Helpful Buying Advice &lpar;2025&rpar;](https://www.wired.com/gallery/side-sleeper-beds/)
- - [AT&amp;T agrees to acquire Lumen&#39;s consumer fiber business for $5.75B, in an all-cash deal expected to close in H1 2026; LUMN jumps 13%+ after hours &lpar;Milana Vinn/Reuters&rpar;](http://www.techmeme.com/250521/p46#a250521p46)
- - [Microsoft adds over 50 ‘Retro Classics’ to Game Pass](https://www.theverge.com/news/672037/microsoft-xbox-game-pass-activision-retro-classics)
- - [CoreWeave announces a $2B debt offering, representing a $500M increase from its initial announcement, and says it was five times oversubscribed; CRWV jumps 19% &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250521/p45#a250521p45)
- - [Shopify launches new AI tools, including one for setting up storefronts and another for creating elements like banners, and upgrades its AI assistant Sidekick &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250521/p44#a250521p44)<!-- TECH:END -->
+ - [AT&amp;T agrees to acquire Lumen&#39;s consumer fiber business for $5.75B, in an all-cash deal expected to close in H1 2026; LUMN jumps 13%+ after hours &lpar;Milana Vinn/Reuters&rpar;](http://www.techmeme.com/250521/p46#a250521p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

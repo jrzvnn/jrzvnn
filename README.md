@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Warhammer 40K: Space Marine 2 is a glorious co-op shooter that’s now cheaper than ever](https://www.theverge.com/tech/671571/warhammer-40k-space-marine-2-lg-oled-microsd-card-deal-sale)
- - [Google teases an Android desktop mode, made with Samsung’s help](https://www.theverge.com/news/671577/google-android-desktop-mode-samsung-dex)
- - [Filed, which uses AI to automate tax professionals&#39; low-value tasks, raised $17.2M across seed and preseed led by Northzone, Day One Ventures, and others &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250521/p27#a250521p27)
- - [How MrBeast ended up in the new season of Love, Death, and Robots](https://www.theverge.com/interview/670960/love-death-robots-netflix-mrbeast)
- - [The best alternatives to Adobe Photoshop, Illustrator, InDesign, and more](https://appleinsider.com/inside/mac/best/the-best-alternatives-to-adobe-photoshop-illustrator-indesign-and-more?utm_medium=rss)<!-- TECH:END -->
+ - [Brazilian researchers scraped 2B+ Discord messages from 3,167 public servers using Discord&#39;s public API, covering 2015 to 2024, and publish the messages online &lpar;Matthew Gault/404 Media&rpar;](http://www.techmeme.com/250521/p28#a250521p28)
+ - [Nintendo explains why it&amp;#8217;s not called Mario Kart 9](https://www.theverge.com/news/671611/mario-kart-world-9-nintendo-explanation)
+ - [The best rpg of 2024 heads to Game Pass this month](https://www.theverge.com/news/671570/metaphor-refantazio-xbox-game-pass-may-2025)
+ - [The Best Gaming Headsets—We Tested Over Hundreds of Hours &lpar;2024&rpar;](https://www.wired.com/gallery/best-gaming-headsets/)
+ - [Warhammer 40K: Space Marine 2 is a glorious co-op shooter that’s now cheaper than ever](https://www.theverge.com/tech/671571/warhammer-40k-space-marine-2-lg-oled-microsd-card-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

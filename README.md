@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Maine AG filing: Coinbase says its recent data breach impacted 69,461 individuals; stolen data included government IDs, account info, and personal identifiers &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250521/p21#a250521p21)
+ - [Windows 11 is getting a macOS-like Handoff feature between phone and PC](https://www.theverge.com/news/671454/microsoft-windows-11-handoff-feature-cross-device-resume)
+ - [Volvo expands its Google partnership to integrate Gemini across its model lineup, the first automaker to do so, hoping to ease a driver&#39;s &quot;cognitive load&quot; &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250521/p20#a250521p20)
  - [AI startup Crusoe secures $11.6B in debt and equity to expand a Texas data center it is building for OpenAI, set to open in 2026 and host up to 400K Nvidia GPUs &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250521/p19#a250521p19)
- - [The Time Sam Altman Asked for a Countersurveillance Audit of OpenAI](https://www.wired.com/story/empire-of-ai-excerpt-sam-altman-elon-musk/)
- - [Eating Disorder Content Is Infiltrating TikTok. Some Creators Are Going Viral Debunking It](https://www.wired.com/story/eating-disorder-content-is-infiltrating-tiktok-some-creators-are-going-viral-debunking-it/)
- - [Baidu reports Q1 revenue up 3% YoY to ~$4.5B, above ~$4.3B est., and a ~$1B net profit, as the Chinese search giant fends off intensifying competition in AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250521/p18#a250521p18)
- - [New Bacteria Have Been Discovered on a Chinese Space Station](https://www.wired.com/story/bacteria-unknown-on-earth-appears-on-chinese-space-station/)<!-- TECH:END -->
+ - [Eating Disorder Content Is Infiltrating TikTok. Some Creators Are Going Viral Debunking It](https://www.wired.com/story/eating-disorder-content-is-infiltrating-tiktok-some-creators-are-going-viral-debunking-it/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Both? Both..](http://9gag.com/gag/aVvLA28)
- - 😝 [Wasn&#39;t what I was expecting](http://9gag.com/gag/avyR3Pb)
- - 💣 [Knowing we are totally free tomorrow](http://9gag.com/gag/a872ZBQ)
+ - 😝 [PC Gaming Is Talking](http://9gag.com/gag/amoMeRy)
+ - 😝 [Man uses a stopwatch to freeze time on a highschool girl](http://9gag.com/gag/aByGpP2)
+ - 💣 [Blu is my oldest friend](http://9gag.com/gag/avyRMNW)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
- - 👉 [Officer: You wanna get arrested? Civilian: You wanna get sued?](http://9gag.com/gag/aXPWy1g)<!-- MEMES:END -->
+ - 👉 [What we again?](http://9gag.com/gag/abAB93v)<!-- MEMES:END -->
 
 ---
 

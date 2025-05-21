@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yeah, he looks happy](http://9gag.com/gag/amoMjr9)
+ - 😝 [When Amazon Prime delivers... a surprise](http://9gag.com/gag/awyd6dD)
  - 😝 [Abundance in life](http://9gag.com/gag/aZZjG1V)
- - 💣 [A meme was born](http://9gag.com/gag/agm4Wqg)
- - 😝 [Do you even lift bro](http://9gag.com/gag/aXPWDKb)
- - 👉 [When Amazon Prime delivers... a surprise](http://9gag.com/gag/awyd6dD)<!-- MEMES:END -->
+ - 💣 [. . .](http://9gag.com/gag/aPAQOoR)
+ - 😝 [It\u2019s a little one &lpar;single largest raccoon ever &rpar;](http://9gag.com/gag/a2v2BRO)
+ - 👉 [Ellie&#39;s secret weapon &lpar;GooBrain on yt&rpar;](http://9gag.com/gag/axyR58M)<!-- MEMES:END -->
 
 ---
 

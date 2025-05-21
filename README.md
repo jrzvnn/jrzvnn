@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The machine](http://9gag.com/gag/amoMeQV)
- - 😝 [Out-Karened A Karen](http://9gag.com/gag/aW4bwV2)
- - 💣 [It should have been me](http://9gag.com/gag/ae9mL7v)
+ - 😝 [The Marauder](http://9gag.com/gag/aW4br9x)
+ - 😝 [Both? Both..](http://9gag.com/gag/aVvLA28)
+ - 💣 [Wasn&#39;t what I was expecting](http://9gag.com/gag/avyR3Pb)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
- - 👉 [Daughter: Mom, he&#39;s going to find me Mom: `GG`](http://9gag.com/gag/agm4Wrn)<!-- MEMES:END -->
+ - 👉 [Officer: You wanna get arrested? Civilian: You wanna get sued?](http://9gag.com/gag/aXPWy1g)<!-- MEMES:END -->
 
 ---
 

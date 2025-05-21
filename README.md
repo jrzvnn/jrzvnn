@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a joint statement, the US, France, Germany, and eight other countries say Russia has stepped up cyber attacks on firms aiding Ukraine, often via Fancy Bear &lpar;Eric Geller/Cybersecurity Dive&rpar;](http://www.techmeme.com/250521/p35#a250521p35)
+ - [Google tests bringing ads to AI Mode, both below responses as well as &quot;integrated into&quot; them, and expands ads in AI Overviews to desktop in the US &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250521/p34#a250521p34)
  - [Google rejected giving publishers more choice to opt out of AI Search](https://www.theverge.com/news/671711/google-ai-overviews-search-publisher-data-choice)
  - [Lidar maker Luminar lays off more workers following CEO exit](https://www.theverge.com/news/671804/luminar-lidar-layoffs-ceo-exit)
- - [AI videos from Google&#39;s Veo 3, which features synchronized audio as well as crisper, more detailed video, are both impressive and terrifying &lpar;Andrew Romero/9to5Google&rpar;](http://www.techmeme.com/250521/p33#a250521p33)
- - [Android 16 adds AI-powered weather effects that can make it rain on your photos](https://www.theverge.com/news/671749/android-16-adds-ai-powered-weather-effects-that-can-make-it-rain-on-your-photos)
- - [In April ChatGPT started to, by default, reference all past chats for more personalized responses, but this means users lose control of their prompts&#39; context &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250521/p32#a250521p32)<!-- TECH:END -->
+ - [AI videos from Google&#39;s Veo 3, which features synchronized audio as well as crisper, more detailed video, are both impressive and terrifying &lpar;Andrew Romero/9to5Google&rpar;](http://www.techmeme.com/250521/p33#a250521p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

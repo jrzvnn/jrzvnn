@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Rage Comics](http://9gag.com/gag/a342651)
  - 😝 [Ellie&#39;s secret weapon &lpar;GooBrain on yt&rpar;](http://9gag.com/gag/axyR58M)
- - 💣 [Blu is my oldest friend](http://9gag.com/gag/avyRMNW)
+ - 💣 [Daughter: Mom, he&#39;s going to find me Mom: `GG`](http://9gag.com/gag/agm4Wrn)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
- - 👉 [Deke&#39;s got the most expensive smile in the K-9 unit](http://9gag.com/gag/a872RmO)<!-- MEMES:END -->
+ - 👉 [What we again?](http://9gag.com/gag/abAB93v)<!-- MEMES:END -->
 
 ---
 

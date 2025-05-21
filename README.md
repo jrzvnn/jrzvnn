@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [When city planning takes a sideways view](http://9gag.com/gag/a4P2eKw)
- - 😝 [Ellie&#39;s secret weapon &lpar;GooBrain on yt&rpar;](http://9gag.com/gag/axyR58M)
- - 💣 [When Amazon Prime delivers... a surprise](http://9gag.com/gag/awyd6dD)
+ - 😝 [John Wick](http://9gag.com/gag/a9y2QP0)
+ - 💣 [`Manners Maketh Man`](http://9gag.com/gag/aO8Pwwy)
  - 😝 [Yosemite national park in California](http://9gag.com/gag/aByGqDZ)
- - 👉 [`Manners Maketh Man`](http://9gag.com/gag/aO8Pwwy)<!-- MEMES:END -->
+ - 👉 [A meme was born](http://9gag.com/gag/agm4Wqg)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [PC Gaming Is Talking](http://9gag.com/gag/amoMeRy)
- - 😝 [Cool dude landlord](http://9gag.com/gag/a5Q2mGy)
- - 💣 [Did you spot the surprise photobomber?](http://9gag.com/gag/ayNROWX)
+ - 😝 [What we again?](http://9gag.com/gag/abAB93v)
+ - 💣 [Out-Karened A Karen](http://9gag.com/gag/aW4bwV2)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
- - 👉 [When the line you&#39;re holding up is society&#39;s progress](http://9gag.com/gag/aryq6b0)<!-- MEMES:END -->
+ - 👉 [John Wick](http://9gag.com/gag/a9y2QP0)<!-- MEMES:END -->
 
 ---
 

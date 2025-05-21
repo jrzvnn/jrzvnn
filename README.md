@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Darren Aronofsky’s Caught Stealing looks like one for the Baby Driver fans](https://www.theverge.com/trailers/671610/caught-stealing-trailer-premiere-date)
  - [WWDC 25 visionOS 3 wishlist: what we&#39;d like to see next for Apple Vision Pro](https://appleinsider.com/articles/25/05/21/wwdc-25-visionos-3-wishlist-what-wed-like-to-see-next-for-apple-vision-pro?utm_medium=rss)
  - [Elgato&#39;s new Stream Deck lineup goes way beyond the desktop](https://appleinsider.com/articles/25/05/20/elgatos-new-stream-deck-lineup-goes-way-beyond-the-desktop?utm_medium=rss)
  - [Brazilian researchers scraped 2B+ Discord messages from 3,167 public servers using Discord&#39;s public API, covering 2015 to 2024, and publish the messages online &lpar;Matthew Gault/404 Media&rpar;](http://www.techmeme.com/250521/p28#a250521p28)
- - [Nintendo explains why it&amp;#8217;s not called Mario Kart 9](https://www.theverge.com/news/671611/mario-kart-world-9-nintendo-explanation)
- - [The best rpg of 2024 heads to Game Pass this month](https://www.theverge.com/news/671570/metaphor-refantazio-xbox-game-pass-may-2025)<!-- TECH:END -->
+ - [Nintendo explains why it&amp;#8217;s not called Mario Kart 9](https://www.theverge.com/news/671611/mario-kart-world-9-nintendo-explanation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

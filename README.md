@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kalshi withdrew announcements about a collaboration with xAI just hours after CEO Tarek Mansour said the deal would &quot;further take prediction markets mainstream&quot; &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250520/p57#a250520p57)
+ - [McDonald&#39;s Snack Wrap: Is the Viral Food Favorite Returning on July 14?](https://www.cnet.com/tech/mcdonalds-snack-wrap-when-is-the-viral-food-favorite-returning-july-14/#ftag=CAD590a51e)
  - [Apple &amp; Epic agree no in-person court necessary after &#39;Fortnite&#39; restored to App Store](https://appleinsider.com/articles/25/05/20/apple-epic-agree-no-in-person-court-necessary-after-fortnite-restored-to-app-store?utm_medium=rss)
  - [Waymo co-CEO Tekedra Mawakana says Waymo has reached 10M paid trips, doubling in the past five months, and that the company is not yet profitable &lpar;CNBC&rpar;](http://www.techmeme.com/250520/p56#a250520p56)
- - [Hands-on with Google&#39;s Android XR Gemini-powered prototype glasses: they are light and comfortable to wear, and the single display in the right lens works well &lpar;Michael L Hicks/Android Central&rpar;](http://www.techmeme.com/250520/p55#a250520p55)
- - [Matthew Lane, a 19-year-old from Massachusetts, pleads guilty to hacking two US companies and extorting them for ransoms; source: one of them is PowerSchool &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/250520/p54#a250520p54)
- - [The Argentine government dismantles a unit created three months ago to investigate the Libra cryptocurrency scandal involving President Milei and his sister &lpar;Ignacio Olivera Doll/Bloomberg&rpar;](http://www.techmeme.com/250520/p53#a250520p53)<!-- TECH:END -->
+ - [Hands-on with Google&#39;s Android XR Gemini-powered prototype glasses: they are light and comfortable to wear, and the single display in the right lens works well &lpar;Michael L Hicks/Android Central&rpar;](http://www.techmeme.com/250520/p55#a250520p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

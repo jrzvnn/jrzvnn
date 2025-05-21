@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sen. Wyden says AT&amp;T, Verizon, and T-Mobile failed to create systems for notifying about surveillance on Senate-issued devices, despite a requirement to do so &lpar;Alfred Ng/Politico&rpar;](http://www.techmeme.com/250521/p42#a250521p42)
+ - [Jony Ive says Rabbit and Humane made bad products](https://www.theverge.com/news/671955/jony-ive-rabbit-r1-humane-ai-pin)
  - [Did WhatsApp really need Meta?](https://www.theverge.com/antitrust/671831/meta-whatsapp-founder-brian-acton-testimony-antitrust-trial-ftc)
  - [OpenAI&#39;s Big Bet That Jony Ive Can Make AI Hardware Work](https://www.wired.com/story/jony-ive-open-ai-hardware-io/)
- - [Google’s Android Chief Hopes Its ‘New Era’ Will Get People to Ditch Their iPhones](https://www.wired.com/story/googles-android-chief-hopes-its-new-era-will-get-people-to-ditch-their-iphones/)
- - [World Network raised $135M in a token sale to a16z and Bain Capital Crypto &quot;to meet increasing demand for Orb-verified World IDs&quot;; WLD jumped 14% on the news &lpar;Margaux Nijkerk/CoinDesk&rpar;](http://www.techmeme.com/250521/p41#a250521p41)
- - [The best MagSafe and Qi2 chargers](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)<!-- TECH:END -->
+ - [Google’s Android Chief Hopes Its ‘New Era’ Will Get People to Ditch Their iPhones](https://www.wired.com/story/googles-android-chief-hopes-its-new-era-will-get-people-to-ditch-their-iphones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

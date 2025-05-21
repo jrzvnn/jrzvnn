@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD announces Zen 5-based Threadripper 9000 CPUs with up to 96 cores, along with RDNA 4-based Radeon AI Pro R9700 workstation GPU, both slated to launch in July &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/250521/p1#a250521p1)
  - [Zhejiang, home to Alibaba and DeepSeek, publishes an AI policy that expects companies in the AI supply chain to make $138B+ in total operating revenues by 2027 &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250520/p60#a250520p60)
  - [Google announces Firebase AI Logic, combining Vertex AI and Genkit tools to more easily integrate AI into apps, and adds Figma import support in Firebase Studio &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250520/p59#a250520p59)
  - [Best Internet Providers in Aurora, Illinois](https://www.cnet.com/home/internet/best-internet-providers-in-aurora-il/#ftag=CAD590a51e)
- - [AMD’s new RX 9060 XT looks set to challenge Nvidia’s RTX 5060](https://www.theverge.com/news/670285/amd-radeon-rx-9060-xt-announcement-computex)
- - [Washington Gov. Bob Ferguson approves controversial new taxes expanding the state&#39;s sales tax on companies providing digital services, starting in October 2025 &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250520/p58#a250520p58)<!-- TECH:END -->
+ - [AMD’s new RX 9060 XT looks set to challenge Nvidia’s RTX 5060](https://www.theverge.com/news/670285/amd-radeon-rx-9060-xt-announcement-computex)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google rejected giving publishers more choice to opt out of AI Search](https://www.theverge.com/news/671711/google-ai-overviews-search-publisher-data-choice)
+ - [Lidar maker Luminar lays off more workers following CEO exit](https://www.theverge.com/news/671804/luminar-lidar-layoffs-ceo-exit)
+ - [AI videos from Google&#39;s Veo 3, which features synchronized audio as well as crisper, more detailed video, are both impressive and terrifying &lpar;Andrew Romero/9to5Google&rpar;](http://www.techmeme.com/250521/p33#a250521p33)
  - [Android 16 adds AI-powered weather effects that can make it rain on your photos](https://www.theverge.com/news/671749/android-16-adds-ai-powered-weather-effects-that-can-make-it-rain-on-your-photos)
- - [In April ChatGPT started to, by default, reference all past chats for more personalized responses, but this means users lose control of their prompts&#39; context &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250521/p32#a250521p32)
- - [Jack Dorsey&#39;s Block Made an AI Agent to Boost Its Own Productivity](https://www.wired.com/story/jack-dorseys-block-made-an-ai-agent-to-boost-its-own-productivity/)
- - [Eric Adams and crypto whales demand that New York stop regulating crypto licenses](https://www.theverge.com/cryptocurrency/671653/eric-adams-crypto-summit-bitlicense-nyc)
- - [Apple Pay increasing in popularity online as shoppers seek speed &amp; security](https://appleinsider.com/articles/25/05/21/apple-pay-increasing-in-popularity-online-as-shoppers-seek-speed-security?utm_medium=rss)<!-- TECH:END -->
+ - [In April ChatGPT started to, by default, reference all past chats for more personalized responses, but this means users lose control of their prompts&#39; context &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250521/p32#a250521p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

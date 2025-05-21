@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The heel lock did change my life for good!](http://9gag.com/gag/avyRMRE)
- - 😝 [Core childhood memory](http://9gag.com/gag/aZZjAXX)
- - 💣 [Out-Karened A Karen](http://9gag.com/gag/aW4bwV2)
+ - 😝 [When your drive-thru order needs divine intervention](http://9gag.com/gag/aQzZ0dW)
+ - 😝 [Damn mods](http://9gag.com/gag/aryq61d)
+ - 💣 [The heel lock did change my life for good!](http://9gag.com/gag/avyRMRE)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
- - 👉 [How much would you rate him](http://9gag.com/gag/apRbe2p)<!-- MEMES:END -->
+ - 👉 [Out-Karened A Karen](http://9gag.com/gag/aW4bwV2)<!-- MEMES:END -->
 
 ---
 

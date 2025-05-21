@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Removing bathroom tiles](http://9gag.com/gag/aD2VExw)
  - 😝 [Yosemite national park in California](http://9gag.com/gag/aByGqDZ)
- - 😝 [She got him good.](http://9gag.com/gag/aGyAWV0)
- - 💣 [John Wick](http://9gag.com/gag/a9y2QP0)
+ - 💣 [Guy being a saver](http://9gag.com/gag/aqyWqAv)
  - 😝 [I\u2019d agree it\u2019s pretty good.](http://9gag.com/gag/aD2VprB)
- - 👉 [Guy being a saver](http://9gag.com/gag/aqyWqAv)<!-- MEMES:END -->
+ - 👉 [John Wick](http://9gag.com/gag/a9y2QP0)<!-- MEMES:END -->
 
 ---
 

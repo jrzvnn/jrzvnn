@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Meet&#39;s AI translator hands-on: emulates voice and tone, translating with a few seconds of lag, similar to watching an overdubbed foreign-language speaker &lpar;Nicole Nguyen/Wall Street Journal&rpar;](http://www.techmeme.com/250521/p13#a250521p13)
- - [Microsoft blames Apple for its delayed Xbox mobile store](https://www.theverge.com/news/671409/microsoft-xbox-mobile-store-delay-apple-epic-court-case)
- - [Abu Dhabi&#39;s TII releases Falcon Arabic, an AI model that it claims can match the performance of models up to 10 times its size, and smaller model Falcon H1 &lpar;Omar El Chmouri/Bloomberg&rpar;](http://www.techmeme.com/250521/p12#a250521p12)
- - [UK retailer M&amp;S says it expects a £300M profit hit from an April cyberattack and disruption to continue until July 2025; M&amp;S&#39; market cap has falled by ~£750M &lpar;Laura Onita/Financial Times&rpar;](http://www.techmeme.com/250521/p11#a250521p11)
- - [Miniot returns with a sleeker Wheel 3 vertical turntable](https://www.theverge.com/news/671413/miniot-returns-with-a-sleeker-wheel-3-vertical-turntable)<!-- TECH:END -->
+ - [Amazon issues refunds for purchases as far back as 2018; CFO Brian Olsavsky said on May 1 that Amazon took a ~$1B charge over &quot;some historical customer returns&quot; &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/250521/p16#a250521p16)
+ - [A look at the Coller Dolittle challenge, modeled on the Turing test with a $10M equity investment prize to decipher an animal&#39;s language and elicit a reply &lpar;Anjana Ahuja/Financial Times&rpar;](http://www.techmeme.com/250521/p15#a250521p15)
+ - [Analysis: AI energy consumption is exploding, with data centers doubling electricity use between 2017 and 2023, accounting for 4.4% of all US energy consumption &lpar;MIT Technology Review&rpar;](http://www.techmeme.com/250521/p14#a250521p14)
+ - [3 Teens Almost Got Away With Murder. Then Police Found Their Google Searches](https://www.wired.com/story/find-my-iphone-arson-case/)
+ - [Google Meet&#39;s AI translator hands-on: emulates voice and tone, translating with a few seconds of lag, similar to watching an overdubbed foreign-language speaker &lpar;Nicole Nguyen/Wall Street Journal&rpar;](http://www.techmeme.com/250521/p13#a250521p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

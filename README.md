@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a joint statement, the US, France, Germany, and eight other countries say Russia has stepped up cyber attacks on firms aiding Ukraine, often via Fancy Bear &lpar;Eric Geller/Cybersecurity Dive&rpar;](http://www.techmeme.com/250521/p35#a250521p35)
- - [Google tests bringing ads to AI Mode, both below responses as well as &quot;integrated into&quot; them, and expands ads in AI Overviews to desktop in the US &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250521/p34#a250521p34)
- - [Google rejected giving publishers more choice to opt out of AI Search](https://www.theverge.com/news/671711/google-ai-overviews-search-publisher-data-choice)
- - [Lidar maker Luminar lays off more workers following CEO exit](https://www.theverge.com/news/671804/luminar-lidar-layoffs-ceo-exit)
- - [AI videos from Google&#39;s Veo 3, which features synchronized audio as well as crisper, more detailed video, are both impressive and terrifying &lpar;Andrew Romero/9to5Google&rpar;](http://www.techmeme.com/250521/p33#a250521p33)<!-- TECH:END -->
+ - [OpenAI is buying Jony Ive&amp;#8217;s AI hardware company](https://www.theverge.com/news/671838/openai-jony-ive-ai-hardware-apple)
+ - [OpenAI is buying io, Jony Ive&#39;s secretive AI startup, for ~$6.5B in stock; Ive and LoveFrom will remain independent but take over design for all of OpenAI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250521/p37#a250521p37)
+ - [The best Memorial Day deals you can already get](https://www.theverge.com/tech/670092/best-memorial-day-sales-2025)
+ - [Microsoft seizes ~2.3K domains globally to disrupt Lumma&#39;s malware-as-a-service operation, after finding 394K+ PCs infected by Lumma &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250521/p36#a250521p36)
+ - [Trump Cuts Are Killing a Tiny Office That Keeps Measurements of the World Accurate](https://www.wired.com/story/trump-cuts-are-killing-a-tiny-office-that-keeps-our-measurements-of-the-world-accurate/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

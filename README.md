@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you have more immigrant voters than locals.](http://9gag.com/gag/a872PAV)
+ - 😝 [Seal waits until his friend is freed before escaping with him.](http://9gag.com/gag/adBe32Q)
  - 😝 [He must have had fond memories...](http://9gag.com/gag/aQzZG58)
  - 💣 [Core childhood memory](http://9gag.com/gag/aZZjAXX)
  - 😝 [Peter Cullen the voice of Optimus Prime](http://9gag.com/gag/amoMDzV)

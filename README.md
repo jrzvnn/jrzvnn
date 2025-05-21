@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oura rings will now track step counts more accurately](https://www.theverge.com/news/671055/oura-ring-wearable-algorithm-update-improved-accuracy)
- - [Strava updates its AI route planning and cheater detection](https://www.theverge.com/news/671452/strava-ai-routes-leaderboard-update)
- - [Singapore-based business banking and payments startup Airwallex raised $150M at a $6.2B valuation, up from $5.6B in October 2022, and debuts a $150M share sale &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/250521/p26#a250521p26)
- - [Best Microsoft Surface Laptop &lpar;2025&rpar;: Which Model to Buy or Avoid](https://www.wired.com/story/microsoft-surface-buying-guide/)
- - [Google has a big AI advantage: it already knows everything about you](https://www.theverge.com/tech/671201/google-personal-context-ai-advantage-data)<!-- TECH:END -->
+ - [Google teases an Android desktop mode, made with Samsung’s help](https://www.theverge.com/news/671577/google-android-desktop-mode-samsung-dex)
+ - [Filed, which uses AI to automate tax professionals&#39; low-value tasks, raised $17.2M across seed and preseed led by Northzone, Day One Ventures, and others &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250521/p27#a250521p27)
+ - [How MrBeast ended up in the new season of Love, Death, and Robots](https://www.theverge.com/interview/670960/love-death-robots-netflix-mrbeast)
+ - [The best alternatives to Adobe Photoshop, Illustrator, InDesign, and more](https://appleinsider.com/inside/mac/best/the-best-alternatives-to-adobe-photoshop-illustrator-indesign-and-more?utm_medium=rss)
+ - [Lyma Laser Review: Clinical Results Without the Clinic](https://www.wired.com/review/review-lyma-laser/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

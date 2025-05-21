@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WWDC 25 visionOS 3 wishlist: what we&#39;d like to see next for Apple Vision Pro](https://appleinsider.com/articles/25/05/21/wwdc-25-visionos-3-wishlist-what-wed-like-to-see-next-for-apple-vision-pro?utm_medium=rss)
+ - [Elgato&#39;s new Stream Deck lineup goes way beyond the desktop](https://appleinsider.com/articles/25/05/20/elgatos-new-stream-deck-lineup-goes-way-beyond-the-desktop?utm_medium=rss)
  - [Brazilian researchers scraped 2B+ Discord messages from 3,167 public servers using Discord&#39;s public API, covering 2015 to 2024, and publish the messages online &lpar;Matthew Gault/404 Media&rpar;](http://www.techmeme.com/250521/p28#a250521p28)
  - [Nintendo explains why it&amp;#8217;s not called Mario Kart 9](https://www.theverge.com/news/671611/mario-kart-world-9-nintendo-explanation)
- - [The best rpg of 2024 heads to Game Pass this month](https://www.theverge.com/news/671570/metaphor-refantazio-xbox-game-pass-may-2025)
- - [The Best Gaming Headsets—We Tested Over Hundreds of Hours &lpar;2024&rpar;](https://www.wired.com/gallery/best-gaming-headsets/)
- - [Warhammer 40K: Space Marine 2 is a glorious co-op shooter that’s now cheaper than ever](https://www.theverge.com/tech/671571/warhammer-40k-space-marine-2-lg-oled-microsd-card-deal-sale)<!-- TECH:END -->
+ - [The best rpg of 2024 heads to Game Pass this month](https://www.theverge.com/news/671570/metaphor-refantazio-xbox-game-pass-may-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic v. Apple: Spotify says its recent update supporting web payments has resulted in &quot;a significant increase in iOS users upgrading to a Premium subscription&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250521/p43#a250521p43)
  - [Save up to $500 on Apple&#39;s M4 Mac mini during Memorial Day Sale](https://appleinsider.com/articles/25/05/21/save-up-to-500-on-apples-m4-mac-mini-during-memorial-day-sale?utm_medium=rss)
  - [Sen. Wyden says AT&amp;T, Verizon, and T-Mobile failed to create systems for notifying about surveillance on Senate-issued devices, despite a requirement to do so &lpar;Alfred Ng/Politico&rpar;](http://www.techmeme.com/250521/p42#a250521p42)
  - [Jony Ive says Rabbit and Humane made bad products](https://www.theverge.com/news/671955/jony-ive-rabbit-r1-humane-ai-pin)
- - [Did WhatsApp really need Meta?](https://www.theverge.com/antitrust/671831/meta-whatsapp-founder-brian-acton-testimony-antitrust-trial-ftc)
- - [OpenAI&#39;s Big Bet That Jony Ive Can Make AI Hardware Work](https://www.wired.com/story/jony-ive-open-ai-hardware-io/)<!-- TECH:END -->
+ - [Did WhatsApp really need Meta?](https://www.theverge.com/antitrust/671831/meta-whatsapp-founder-brian-acton-testimony-antitrust-trial-ftc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

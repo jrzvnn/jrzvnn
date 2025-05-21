@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He must have had fond memories...](http://9gag.com/gag/aQzZG58)
- - 😝 [Core childhood memory](http://9gag.com/gag/aZZjAXX)
- - 💣 [Peter Cullen the voice of Optimus Prime](http://9gag.com/gag/amoMDzV)
- - 😝 [Seal waits until his friend is freed before escaping with him.](http://9gag.com/gag/adBe32Q)
- - 👉 [My type of MC club](http://9gag.com/gag/a342o0N)<!-- MEMES:END -->
+ - 😝 [That&#39;s pure darkness...](http://9gag.com/gag/axyPENK)
+ - 😝 [What&#39;s it for?!](http://9gag.com/gag/adBeZ4D)
+ - 💣 [. . .](http://9gag.com/gag/aPAQOoR)
+ - 😝 [Do you even lift bro](http://9gag.com/gag/aXPWDKb)
+ - 👉 [John Wick](http://9gag.com/gag/a9y2QP0)<!-- MEMES:END -->
 
 ---
 

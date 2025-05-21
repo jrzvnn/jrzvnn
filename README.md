@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD takes aim at Intel with new 96-core Threadripper 9000 series CPU](https://www.theverge.com/news/671490/amd-threadripper-9000-series-cpus-release-date)
  - [Google expands its sovereign cloud options in the EU, including a new &quot;data shield&quot; that provides additional cyber security protections to European clients &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/250521/p23#a250521p23)
  - [How stolen and locked iPhones are being broken down in China for profit](https://appleinsider.com/articles/25/05/21/how-stolen-and-locked-iphones-are-being-broken-down-in-china-for-profit?utm_medium=rss)
  - [12 Best Mattresses Online—We Slept on All for at Least a Week &lpar;2025&rpar;](https://www.wired.com/gallery/best-mattresses/)
- - [Distributed Denial of Secrets: the TeleMessage hacker stole messages from 60+ US government users covering about one day ending May 4, including travel plans &lpar;Reuters&rpar;](http://www.techmeme.com/250521/p22#a250521p22)
- - [Google’s future is Google Googling](https://www.theverge.com/google/671200/google-googling-ai-mode-project-mariner-i-o-2025)<!-- TECH:END -->
+ - [Distributed Denial of Secrets: the TeleMessage hacker stole messages from 60+ US government users covering about one day ending May 4, including travel plans &lpar;Reuters&rpar;](http://www.techmeme.com/250521/p22#a250521p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

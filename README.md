@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD takes aim at Intel with new 96-core Threadripper 9000 series CPU](https://www.theverge.com/news/671490/amd-threadripper-9000-series-cpus-release-date)
- - [Google expands its sovereign cloud options in the EU, including a new &quot;data shield&quot; that provides additional cyber security protections to European clients &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/250521/p23#a250521p23)
- - [How stolen and locked iPhones are being broken down in China for profit](https://appleinsider.com/articles/25/05/21/how-stolen-and-locked-iphones-are-being-broken-down-in-china-for-profit?utm_medium=rss)
- - [12 Best Mattresses Online—We Slept on All for at Least a Week &lpar;2025&rpar;](https://www.wired.com/gallery/best-mattresses/)
- - [Distributed Denial of Secrets: the TeleMessage hacker stole messages from 60+ US government users covering about one day ending May 4, including travel plans &lpar;Reuters&rpar;](http://www.techmeme.com/250521/p22#a250521p22)<!-- TECH:END -->
+ - [After a protest disrupted a Build talk, Microsoft&#39;s head of security for AI Neta Haiby accidentally revealed confidential messages about Walmart&#39;s AI usage &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250521/p25#a250521p25)
+ - [Calm down - &#39;Airborne&#39; attacks on AirPlay &amp; CarPlay are extremely low-risk for nearly everybody](https://appleinsider.com/articles/25/05/21/calm-down---airborne-attacks-on-airplay-carplay-are-extremely-low-risk-for-nearly-everybody?utm_medium=rss)
+ - [The pursuit of better drugs through orbital space crystals](https://www.theverge.com/space/670339/sierra-space-crystals-merck-dream-chaser-drugs)
+ - [China threatens legal action against anyone enforcing US restrictions on Huawei chips, escalating the US-China tech dispute as the two countries hold meetings &lpar;Bloomberg&rpar;](http://www.techmeme.com/250521/p24#a250521p24)
+ - [AMD takes aim at Intel with new 96-core Threadripper 9000 series CPU](https://www.theverge.com/news/671490/amd-threadripper-9000-series-cpus-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

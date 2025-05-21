@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Sam Altman and LoveFrom have been working for two years on a new device to move consumers beyond screens, including headphones and devices with cameras &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250521/p38#a250521p38)
- - [Microsoft blames Apple&#39;s interference for why the Xbox mobile store has failed to launch](https://appleinsider.com/articles/25/05/21/microsoft-blames-apples-interference-for-why-the-xbox-mobile-store-has-failed-to-launch?utm_medium=rss)
- - [Best Internet Providers in Aurora, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-aurora-co/#ftag=CAD590a51e)
- - [OpenAI is buying Jony Ive&amp;#8217;s AI hardware company](https://www.theverge.com/news/671838/openai-jony-ive-ai-hardware-apple)
- - [OpenAI is buying io, Jony Ive&#39;s secretive AI startup, for ~$6.5B in stock; Ive and LoveFrom will remain independent but take over design for all of OpenAI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250521/p37#a250521p37)<!-- TECH:END -->
+ - [The best MagSafe and Qi2 chargers](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
+ - [OpenAI&#39;s $6.5B bet on Jony Ive could redefine how people interact with technology](https://appleinsider.com/articles/25/05/21/openais-65b-bet-on-jony-ive-could-redefine-how-people-interact-with-technology?utm_medium=rss)
+ - [Sources: OpenAI owned a 23% stake in io from a 2024 deal so is now paying ~$5B to fully acquire it; separately, OpenAI&#39;s Start-up Fund invested in io last year &lpar;New York Times&rpar;](http://www.techmeme.com/250521/p40#a250521p40)
+ - [In a video and letter signed &quot;Sam &amp; Jony&quot;, Altman and Ive announce io, founded last year by Ive, Scott Cannon, Evans Hankey, and Tang Tan to create new products &lpar;OpenAI&rpar;](http://www.techmeme.com/250521/p39#a250521p39)
+ - [A Gaming YouTuber Says an AI-Generated Clone of His Voice Is Being Used to Narrate &#39;Doom&#39; Videos](https://www.wired.com/story/a-gaming-youtuber-says-an-ai-generated-clone-of-his-voice-is-being-used-to-narrate-doom-videos/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

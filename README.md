@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Core childhood memory](http://9gag.com/gag/aZZjAXX)
- - 😝 [Seal waits until his friend is freed before escaping with him.](http://9gag.com/gag/adBe32Q)
- - 💣 [Peter Cullen the voice of Optimus Prime](http://9gag.com/gag/amoMDzV)
- - 😝 [My type of MC club](http://9gag.com/gag/a342o0N)
- - 👉 [Yosemite national park in California](http://9gag.com/gag/aByGqDZ)<!-- MEMES:END -->
+ - 😝 [Do you even lift bro](http://9gag.com/gag/aXPWDKb)
+ - 😝 [When your style evolves more than your playlist.](http://9gag.com/gag/aAy2WPR)
+ - 💣 [When city planning takes a sideways view](http://9gag.com/gag/a4P2eKw)
+ - 😝 [Did he get paid for this scene?](http://9gag.com/gag/agm4Pnv)
+ - 👉 [Abundance in life](http://9gag.com/gag/aZZjG1V)<!-- MEMES:END -->
 
 ---
 

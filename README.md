@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When city planning takes a sideways view](http://9gag.com/gag/a4P2eKw)
- - 😝 [Out-Karened A Karen](http://9gag.com/gag/aW4bwV2)
- - 💣 [Deke&#39;s got the most expensive smile in the K-9 unit](http://9gag.com/gag/a872RmO)
+ - 😝 [The heel lock did change my life for good!](http://9gag.com/gag/avyRMRE)
+ - 😝 [Core childhood memory](http://9gag.com/gag/aZZjAXX)
+ - 💣 [Out-Karened A Karen](http://9gag.com/gag/aW4bwV2)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
- - 👉 [PC Gaming Is Talking](http://9gag.com/gag/amoMeRy)<!-- MEMES:END -->
+ - 👉 [How much would you rate him](http://9gag.com/gag/apRbe2p)<!-- MEMES:END -->
 
 ---
 

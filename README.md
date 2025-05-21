@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After a protest disrupted a Build talk, Microsoft&#39;s head of security for AI Neta Haiby accidentally revealed confidential messages about Walmart&#39;s AI usage &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250521/p25#a250521p25)
- - [Calm down - &#39;Airborne&#39; attacks on AirPlay &amp; CarPlay are extremely low-risk for nearly everybody](https://appleinsider.com/articles/25/05/21/calm-down---airborne-attacks-on-airplay-carplay-are-extremely-low-risk-for-nearly-everybody?utm_medium=rss)
- - [The pursuit of better drugs through orbital space crystals](https://www.theverge.com/space/670339/sierra-space-crystals-merck-dream-chaser-drugs)
- - [China threatens legal action against anyone enforcing US restrictions on Huawei chips, escalating the US-China tech dispute as the two countries hold meetings &lpar;Bloomberg&rpar;](http://www.techmeme.com/250521/p24#a250521p24)
- - [AMD takes aim at Intel with new 96-core Threadripper 9000 series CPU](https://www.theverge.com/news/671490/amd-threadripper-9000-series-cpus-release-date)<!-- TECH:END -->
+ - [Oura rings will now track step counts more accurately](https://www.theverge.com/news/671055/oura-ring-wearable-algorithm-update-improved-accuracy)
+ - [Strava updates its AI route planning and cheater detection](https://www.theverge.com/news/671452/strava-ai-routes-leaderboard-update)
+ - [Singapore-based business banking and payments startup Airwallex raised $150M at a $6.2B valuation, up from $5.6B in October 2022, and debuts a $150M share sale &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/250521/p26#a250521p26)
+ - [Best Microsoft Surface Laptop &lpar;2025&rpar;: Which Model to Buy or Avoid](https://www.wired.com/story/microsoft-surface-buying-guide/)
+ - [Google has a big AI advantage: it already knows everything about you](https://www.theverge.com/tech/671201/google-personal-context-ai-advantage-data)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

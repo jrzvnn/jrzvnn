@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Manners Maketh Man`](http://9gag.com/gag/aO8Pwwy)
- - 😝 [When the universe\u2019s stress just melts away](http://9gag.com/gag/ayNRbv8)
- - 💣 [Ellie&#39;s secret weapon &lpar;GooBrain on yt&rpar;](http://9gag.com/gag/axyR58M)
- - 😝 [Update: Leader is injured](http://9gag.com/gag/aQzZwbK)
- - 👉 [Liberal women.](http://9gag.com/gag/aLnmqjP)<!-- MEMES:END -->
+ - 😝 [What we again?](http://9gag.com/gag/abAB93v)
+ - 😝 [Abundance in life](http://9gag.com/gag/aZZjG1V)
+ - 💣 [`Manners Maketh Man`](http://9gag.com/gag/aO8Pwwy)
+ - 😝 [Removing bathroom tiles](http://9gag.com/gag/aD2VExw)
+ - 👉 [Update: Leader is injured](http://9gag.com/gag/aQzZwbK)<!-- MEMES:END -->
 
 ---
 

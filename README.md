@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That fast](http://9gag.com/gag/aND4xZv)
+ - 😝 [Scary but hot](http://9gag.com/gag/amoMeKv)
  - 😝 [Daughter: Mom, he&#39;s going to find me Mom: `GG`](http://9gag.com/gag/agm4Wrn)
- - 💣 [When the universe\u2019s stress just melts away](http://9gag.com/gag/ayNRbv8)
+ - 💣 [Deke&#39;s got the most expensive smile in the K-9 unit](http://9gag.com/gag/a872RmO)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
- - 👉 [Turn to page 394](http://9gag.com/gag/aKGeR3j)<!-- MEMES:END -->
+ - 👉 [That fast](http://9gag.com/gag/aND4xZv)<!-- MEMES:END -->
 
 ---
 

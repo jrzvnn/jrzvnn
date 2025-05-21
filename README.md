@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Daughter: Mom, he&#39;s going to find me Mom: `GG`](http://9gag.com/gag/agm4Wrn)
- - 😝 [F**k you genetics](http://9gag.com/gag/awydEm4)
- - 💣 [Deke&#39;s got the most expensive smile in the K-9 unit](http://9gag.com/gag/a872RmO)
+ - 😝 [Out-Karened A Karen](http://9gag.com/gag/aW4bwV2)
+ - 😝 [What we again?](http://9gag.com/gag/abAB93v)
+ - 💣 [Daughter: Mom, he&#39;s going to find me Mom: `GG`](http://9gag.com/gag/agm4Wrn)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
- - 👉 [Blu is my oldest friend](http://9gag.com/gag/avyRMNW)<!-- MEMES:END -->
+ - 👉 [When the universe\u2019s stress just melts away](http://9gag.com/gag/ayNRbv8)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [PC Gaming Is Talking](http://9gag.com/gag/amoMeRy)
- - 😝 [Man uses a stopwatch to freeze time on a highschool girl](http://9gag.com/gag/aByGpP2)
- - 💣 [Blu is my oldest friend](http://9gag.com/gag/avyRMNW)
+ - 😝 [Out-Karened A Karen](http://9gag.com/gag/aW4bwV2)
+ - 😝 [Daughter: Mom, he&#39;s going to find me Mom: `GG`](http://9gag.com/gag/agm4Wrn)
+ - 💣 [What we again?](http://9gag.com/gag/abAB93v)
  - 😝 [I&#39;m messing up an easy job while Tom Cruise is diving to a depth of 50 metres](http://9gag.com/gag/an7ELNn)
- - 👉 [What we again?](http://9gag.com/gag/abAB93v)<!-- MEMES:END -->
+ - 👉 [Blu is my oldest friend](http://9gag.com/gag/avyRMNW)<!-- MEMES:END -->
 
 ---
 

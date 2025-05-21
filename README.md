@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Seal waits until his friend is freed before escaping with him.](http://9gag.com/gag/adBe32Q)
- - 😝 [He must have had fond memories...](http://9gag.com/gag/aQzZG58)
- - 💣 [Core childhood memory](http://9gag.com/gag/aZZjAXX)
- - 😝 [Peter Cullen the voice of Optimus Prime](http://9gag.com/gag/amoMDzV)
- - 👉 [My type of MC club](http://9gag.com/gag/a342o0N)<!-- MEMES:END -->
+ - 😝 [When city planning takes a sideways view](http://9gag.com/gag/a4P2eKw)
+ - 😝 [Ellie&#39;s secret weapon &lpar;GooBrain on yt&rpar;](http://9gag.com/gag/axyR58M)
+ - 💣 [When Amazon Prime delivers... a surprise](http://9gag.com/gag/awyd6dD)
+ - 😝 [Yosemite national park in California](http://9gag.com/gag/aByGqDZ)
+ - 👉 [`Manners Maketh Man`](http://9gag.com/gag/aO8Pwwy)<!-- MEMES:END -->
 
 ---
 

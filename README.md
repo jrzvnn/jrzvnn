@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When the line you&#39;re holding up is society&#39;s progress](http://9gag.com/gag/aryq6b0)
- - 😝 [Blu is my oldest friend](http://9gag.com/gag/avyRMNW)
- - 💣 [When your style evolves more than your playlist.](http://9gag.com/gag/aAy2WPR)
- - 😝 [What we again?](http://9gag.com/gag/abAB93v)
+ - 😝 [Deke&#39;s got the most expensive smile in the K-9 unit](http://9gag.com/gag/a872RmO)
+ - 😝 [When your style evolves more than your playlist.](http://9gag.com/gag/aAy2WPR)
+ - 💣 [She got him good.](http://9gag.com/gag/aGyAWV0)
+ - 😝 [Ellie&#39;s secret weapon &lpar;GooBrain on yt&rpar;](http://9gag.com/gag/axyR58M)
  - 👉 [It should have been me](http://9gag.com/gag/ae9mL7v)<!-- MEMES:END -->
 
 ---

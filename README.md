@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI startup Crusoe secures $11.6B in debt and equity to expand a Texas data center it is building for OpenAI, set to open in 2026 and host up to 400K Nvidia GPUs &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250521/p19#a250521p19)
+ - [The Time Sam Altman Asked for a Countersurveillance Audit of OpenAI](https://www.wired.com/story/empire-of-ai-excerpt-sam-altman-elon-musk/)
+ - [Eating Disorder Content Is Infiltrating TikTok. Some Creators Are Going Viral Debunking It](https://www.wired.com/story/eating-disorder-content-is-infiltrating-tiktok-some-creators-are-going-viral-debunking-it/)
  - [Baidu reports Q1 revenue up 3% YoY to ~$4.5B, above ~$4.3B est., and a ~$1B net profit, as the Chinese search giant fends off intensifying competition in AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250521/p18#a250521p18)
- - [New Bacteria Have Been Discovered on a Chinese Space Station](https://www.wired.com/story/bacteria-unknown-on-earth-appears-on-chinese-space-station/)
- - [Microsoft files an amicus brief to support Epic in its App Store fight and blames Apple for its delayed Xbox mobile gaming store, announced in May 2024 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250521/p17#a250521p17)
- - [The Best Memorial Day Mattress Sales &lpar;2025&rpar;](https://www.wired.com/story/best-memorial-day-mattress-sales-2025/)
- - [IVF Clinic Bombing Suspect Was Linked to ‘Anti-Life’ Ideology. Experts Fear Its Growing Influence](https://www.wired.com/story/palm-springs-ivf-bombing-suspect-anti-life-nihilism/)<!-- TECH:END -->
+ - [New Bacteria Have Been Discovered on a Chinese Space Station](https://www.wired.com/story/bacteria-unknown-on-earth-appears-on-chinese-space-station/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

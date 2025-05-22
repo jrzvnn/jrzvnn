@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Marvel&amp;#8217;s next two Avengers have been delayed](https://www.theverge.com/news/673265/marvel-studios-avengers-doomsday-secret-wars-delayed)
+ - [Fire Breaks Out at a Data Center Leased by Elon Musk’s X](https://www.wired.com/story/elon-musk-x-datacenter-fire/)
  - [Meta is testing turning images on some Instagram feeds into 3D photos on the Instagram app for Quest, as well as a new Horizon OS interface called Navigator &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250522/p54#a250522p54)
  - [Elden Ring is getting a film adaptation](https://www.theverge.com/news/673247/elden-ring-film-adaptation-alex-garland-a24)
- - [The US DOJ indicts a Russian national for allegedly leading the Qakbot malware operation that infected 700K+ computers and enabled ransomware attacks for years &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/250522/p53#a250522p53)
- - [Disney sues YouTube for hiring away a sports and media exec](https://www.theverge.com/news/673139/youtube-disney-justin-connolly-sports-media-head)
- - [Tech CEOs are using AI to replace themselves](https://www.theverge.com/news/673194/tech-ceos-zoom-klarna-replace-earnings)<!-- TECH:END -->
+ - [The US DOJ indicts a Russian national for allegedly leading the Qakbot malware operation that infected 700K+ computers and enabled ransomware attacks for years &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/250522/p53#a250522p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch Series 10 returns to $299 after $100 price cut on Amazon](https://appleinsider.com/articles/25/05/22/apple-watch-series-10-returns-to-299-after-100-price-cut-on-amazon?utm_medium=rss)
  - [The Claude 4 models support &quot;extended thinking with tool use&quot;, a beta feature that lets them alternate between reasoning and using tools like web search &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/250522/p38#a250522p38)
  - [The best Sonos speakers to buy in 2025](https://www.theverge.com/tech/652171/best-sonos-speakers)
  - [Mozilla plans to shut down Pocket, the read-it-later service it acquired in 2017, on July 8, and Fakespot, which helps identify unreliable reviews, on July 1 &lpar;The Mozilla Blog&rpar;](http://www.techmeme.com/250522/p37#a250522p37)
- - [Nvidia’s RTX 5060 review debacle should be a wake-up call for gamers and reviewers](https://www.theverge.com/pc-gaming/672637/nvidia-rtx-5060-review-meddling-gamersnexus-wake-up-call)
- - [Anthropic adds &quot;thinking summaries&quot; to both Claude 4 models and is making its Claude Code agentic command-line tool generally available &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250522/p36#a250522p36)<!-- TECH:END -->
+ - [Nvidia’s RTX 5060 review debacle should be a wake-up call for gamers and reviewers](https://www.theverge.com/pc-gaming/672637/nvidia-rtx-5060-review-meddling-gamersnexus-wake-up-call)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

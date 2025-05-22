@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Running app Strava raised new funding at a $2.2B valuation including debt, up from $1.5B after raising $110M in November 2020, and nears $500M in ARR &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/250522/p12#a250522p12)
+ - [Details leak about Jony Ive&amp;#8217;s new ‘screen-free’ OpenAI device](https://www.theverge.com/news/672357/openai-ai-device-sam-altman-jony-ive)
  - [How SpaceX&#39;s Starlink moved quickly to solidify its lead in the satellite internet business, as its competitors face production and launch capacity bottlenecks &lpar;Financial Times&rpar;](http://www.techmeme.com/250522/p11#a250522p11)
  - [Lenovo reports Q4 revenue up 23% to $16.98B, vs. $15.6B est., and net profit down 64% YoY to ~$90M, below $225.8M est., reflecting AI and PC market competition &lpar;Bloomberg&rpar;](http://www.techmeme.com/250522/p10#a250522p10)
- - [China is catching up with the US in AI, robotics, and other sectors, driven by an R&amp;D spending rise, hitting $500B in 2024, up 3x since Xi took office in 2012 &lpar;Brian Spegele/Wall Street Journal&rpar;](http://www.techmeme.com/250522/p9#a250522p9)
- - [Today&#39;s Wordle Hints, Answer and Help for May 23, #1434](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-23-1434/#ftag=CAD590a51e)
- - [How animation startup Toonstar uses its AI tools to make animated content up to 90% cheaper than traditional methods; its YouTube series has 30M weekly viewers &lpar;Brooks Barnes/New York Times&rpar;](http://www.techmeme.com/250522/p8#a250522p8)<!-- TECH:END -->
+ - [China is catching up with the US in AI, robotics, and other sectors, driven by an R&amp;D spending rise, hitting $500B in 2024, up 3x since Xi took office in 2012 &lpar;Brian Spegele/Wall Street Journal&rpar;](http://www.techmeme.com/250522/p9#a250522p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

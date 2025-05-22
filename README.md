@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dyson’s new superskinny stick vac is as thin as its hair dryer](https://www.theverge.com/news/671739/dyson-pencilvac-vacuum-cleaner-thin-skinny-slimmest)
- - [Digital physical therapy provider Hinge Health raised $437M in its US IPO, after the company and its backers sold 13.7M shares at $32 each, the top of its range &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/250521/p55#a250521p55)
- - [Microsoft blocks emails that contain ‘Palestine’ after employee protests](https://www.theverge.com/tech/672312/microsoft-block-palestine-gaza-email)
- - [Google DeepMind says Gemini Diffusion, an experimental text diffusion model demoed at Google I/O and available by waitlist, generates 1,000-2,000 tokens/second &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/250521/p54#a250521p54)
- - [OpenAI updates its Responses API for building agentic applications to include remote MCP server support, image generation and Code Interpreter tools, and more &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250521/p53#a250521p53)<!-- TECH:END -->
+ - [How to backup your Photos library in macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-backup-your-photos-library-in-macos-sequoia?utm_medium=rss)
+ - [Amazon introduces AI shopping experts, an audio feature that summarizes product details, customer reviews, and more, on select products for some US customers &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/250521/p58#a250521p58)
+ - [Microsoft says it&#39;s reducing &quot;politically focused emails&quot; within the company, as workers are unable to send emails mentioning &quot;Palestine&quot;, &quot;Gaza&quot;, or &quot;genocide&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250521/p57#a250521p57)
+ - [Nansen: the 220 winners of Trump&#39;s May 22 dinner contest spent $394M total on the $TRUMP token, with the top seven spending $10M+ each and a third $1M+ each &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/250521/p56#a250521p56)
+ - [I Tried Out Dyson’s New PencilVac. Here’s What You Need to Know](https://www.wired.com/story/dyson-pencilvac-cordless-vacuum-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

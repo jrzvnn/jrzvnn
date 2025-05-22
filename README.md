@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Series 10 returns to $299 after $100 price cut on Amazon](https://appleinsider.com/articles/25/05/22/apple-watch-series-10-returns-to-299-after-100-price-cut-on-amazon?utm_medium=rss)
- - [The Claude 4 models support &quot;extended thinking with tool use&quot;, a beta feature that lets them alternate between reasoning and using tools like web search &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/250522/p38#a250522p38)
- - [The best Sonos speakers to buy in 2025](https://www.theverge.com/tech/652171/best-sonos-speakers)
- - [Mozilla plans to shut down Pocket, the read-it-later service it acquired in 2017, on July 8, and Fakespot, which helps identify unreliable reviews, on July 1 &lpar;The Mozilla Blog&rpar;](http://www.techmeme.com/250522/p37#a250522p37)
- - [Nvidia’s RTX 5060 review debacle should be a wake-up call for gamers and reviewers](https://www.theverge.com/pc-gaming/672637/nvidia-rtx-5060-review-meddling-gamersnexus-wake-up-call)<!-- TECH:END -->
+ - [Anthropic says Opus 4 may use command-line tools to alert the press or regulators, or lock users out, if it detects immoral behavior like faking a drug trial &lpar;Sam Bowman/@sleepinyourhat&rpar;](http://www.techmeme.com/250522/p40#a250522p40)
+ - [The AirPods Max with USB-C are a great Memorial Day deal at $70 off](https://www.theverge.com/tech/672808/airpods-max-usb-c-memorial-day-deal-sale)
+ - [The new Mission: Impossible is a comedy wearing a convincing disguise](https://www.theverge.com/movie-reviews/671534/mission-impossible-the-final-reckoning-review)
+ - [3D Instagram photos are coming to Meta Quest headsets](https://www.theverge.com/news/672897/meta-instagram-3d-quest-vr-headsets-v77-update-navigator)
+ - [Tinder CEO Faye Iosotaluno will step down in July after less than two years in the role; Match Group CEO Spencer Rascoff will lead Tinder temporarily &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250522/p39#a250522p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

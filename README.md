@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elden Ring is getting a film adaptation](https://www.theverge.com/news/673247/elden-ring-film-adaptation-alex-garland-a24)
  - [The US DOJ indicts a Russian national for allegedly leading the Qakbot malware operation that infected 700K+ computers and enabled ransomware attacks for years &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/250522/p53#a250522p53)
  - [YouTube hires longtime Disney exec to head up live sports](https://www.theverge.com/news/673139/youtube-disney-justin-connolly-sports-media-head)
  - [Tech CEOs are using AI to replace themselves](https://www.theverge.com/news/673194/tech-ceos-zoom-klarna-replace-earnings)
- - [Ricoh is finally making a GR IV camera, and it&amp;#8217;s coming in the fall](https://www.theverge.com/news/673127/ricoh-gr-iv-street-photography-camera-specs-announcement)
- - [Here are 20 of our favorite deals you can still grab from REI’s anniversary sale](https://www.theverge.com/tech/668088/rei-anniversary-sale-2025-garmin-watch-inreach-stoves-water-filters-deal-sale)<!-- TECH:END -->
+ - [Ricoh is finally making a GR IV camera, and it&amp;#8217;s coming in the fall](https://www.theverge.com/news/673127/ricoh-gr-iv-street-photography-camera-specs-announcement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

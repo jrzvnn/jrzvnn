@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Two new books on OpenAI and the AI industry show how Sam Altman became one of tech&#39;s great survivors, outlasting Elon Musk and returning after being sacked &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/250522/p19#a250522p19)
  - [Analysis: since 2023, US states enacted 120+ deepfake-related laws, with 26 passed in 2025 alone; California passed eight deepfake bills in September 2024 &lpar;Tiffany Hsu/New York Times&rpar;](http://www.techmeme.com/250522/p18#a250522p18)
  - [M&amp;S CEO Stuart Machin says hackers accessed the UK retailer&#39;s systems using social engineering tactics via a third-party supplier, putting M&amp;S &quot;on its backside&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250522/p17#a250522p17)
  - [Tantalizing details of Jony Ive&#39;s AI device leak after OpenAI meeting](https://appleinsider.com/articles/25/05/22/tantalizing-details-of-jony-ives-ai-device-leak-after-openai-meeting?utm_medium=rss)
- - [FTC v. Meta: Meta rested its case on May 21 after four days of arguments, including that it faces hefty competition and helped build Instagram and WhatsApp &lpar;New York Times&rpar;](http://www.techmeme.com/250522/p16#a250522p16)
- - [Who’s to Blame When AI Agents Screw Up?](https://www.wired.com/story/ai-agents-legal-liability-issues/)<!-- TECH:END -->
+ - [FTC v. Meta: Meta rested its case on May 21 after four days of arguments, including that it faces hefty competition and helped build Instagram and WhatsApp &lpar;New York Times&rpar;](http://www.techmeme.com/250522/p16#a250522p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

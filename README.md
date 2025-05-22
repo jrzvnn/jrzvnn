@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro removed it like it was his daily job](http://9gag.com/gag/a7o2j3w)
- - 😝 [Holding a gun against a veteran and ending up getting their ass whooped](http://9gag.com/gag/ayNQEEM)
- - 💣 [Trump showing the president of south africa a video of politician in his country calling for white genocide](http://9gag.com/gag/azxZ7WK)
+ - 😝 [When city planning takes a sideways view](http://9gag.com/gag/a4P2eKw)
+ - 😝 [Coca Cholera](http://9gag.com/gag/aqyWqyY)
+ - 💣 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)
  - 😝 [Tom Cruise has been defying gravity for 3 decades.](http://9gag.com/gag/axyPd41)
- - 👉 [The goodest boi](http://9gag.com/gag/aqyW3XZ)<!-- MEMES:END -->
+ - 👉 [Little advice](http://9gag.com/gag/awydqxR)<!-- MEMES:END -->
 
 ---
 

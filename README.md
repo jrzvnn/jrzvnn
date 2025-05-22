@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Giggity](http://9gag.com/gag/apRAEdE)
+ - 😝 [Do you even lift bro](http://9gag.com/gag/aXPWDKb)
  - 😝 [When your style evolves more than your playlist.](http://9gag.com/gag/aAy2WPR)
- - 💣 [Yikes, that hit deep!](http://9gag.com/gag/amoMjj2)
+ - 💣 [Trump showing the president of south africa a video of politician in his country calling for white genocide](http://9gag.com/gag/azxZ7WK)
  - 😝 [Tom Cruise has been defying gravity for 3 decades.](http://9gag.com/gag/axyPd41)
- - 👉 [Do you even lift bro](http://9gag.com/gag/aXPWDKb)<!-- MEMES:END -->
+ - 👉 [Giggity](http://9gag.com/gag/apRAEdE)<!-- MEMES:END -->
 
 ---
 

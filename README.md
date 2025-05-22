@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blue Prince is getting one more major update, but that’s it](https://www.theverge.com/news/672746/blue-prince-more-major-update-1-10-patch)
- - [Anthropic&#39;s New Model Excels at Reasoning and Planning—and Has the Pokémon Skills to Prove It](https://www.wired.com/story/anthropic-new-model-launch-claude-4/)
- - [Anthropic&amp;#8217;s Claude 4 AI models are better at coding and reasoning](https://www.theverge.com/news/672705/anthropic-claude-4-ai-ous-sonnet-availability)
- - [Anthropic releases Claude Opus 4, which excels at coding, and Claude Sonnet 4, both hybrid models with near-instant responses and extended thinking &lpar;Anthropic&rpar;](http://www.techmeme.com/250522/p30#a250522p30)
- - [Kesha Wants to ‘Smash’ the Music Industry With a New LinkedIn-Style App](https://www.wired.com/story/kesha-smash/)<!-- TECH:END -->
+ - [Sonnet 4 is available to free and paid users, while Opus 4 is limited to paid users; Opus 4 API costs $15/$75 per 1M input/output tokens, Sonnet 4 costs $3/$15 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250522/p34#a250522p34)
+ - [Anthropic says Rakuten deployed Opus 4 to code autonomously for seven hours on a complicated open-source project, paving the way for more proficient AI agents &lpar;Rhiannon Williams/MIT Technology Review&rpar;](http://www.techmeme.com/250522/p33#a250522p33)
+ - [Anthropic&#39;s Jared Kaplan says the company stopped investing in chatbots at the end of 2024 and instead focused on improving Claude&#39;s ability to do complex tasks &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250522/p32#a250522p32)
+ - [A United Arab Emirates Lab Announces Frontier AI Projects—and a New Outpost in Silicon Valley](https://www.wired.com/story/the-united-arab-emirates-announces-frontier-ai-projects-and-a-new-lab-in-silicon-valley/)
+ - [Google’s AI product names are confusing as hell](https://www.theverge.com/tech/671116/google-ai-product-names-confusing-gemini-deepmind-astra)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

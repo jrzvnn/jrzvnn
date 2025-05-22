@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I\u2019d agree it\u2019s pretty good.](http://9gag.com/gag/aD2VprB)
- - 😝 [New mayor of Rotherham : `This is for Islam. This is for Hijab. This is for Pakistan.` Well done, UK.](http://9gag.com/gag/aryq6Xy)
- - 💣 [Bro removed it like it was his daily job](http://9gag.com/gag/a7o2j3w)
+ - 😝 [Big thanks to all of you degenerates for laughs and memes &lpar;not propaganda&rpar; F you and see you tomorrow](http://9gag.com/gag/a87wdR6)
+ - 😝 [Who knew parking lots could be this bright?](http://9gag.com/gag/awy4Nd4)
+ - 💣 [Liberal women.](http://9gag.com/gag/aLnmqjP)
  - 😝 [Tom Cruise has been defying gravity for 3 decades.](http://9gag.com/gag/axyPd41)
- - 👉 [When the doctor says you&#39;re perfect as is](http://9gag.com/gag/azxR0vp)<!-- MEMES:END -->
+ - 👉 [I didn&#39;t ask for a sequel](http://9gag.com/gag/aGy2Yd5)<!-- MEMES:END -->
 
 ---
 

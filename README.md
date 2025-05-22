@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It\u2019s a little one &lpar;single largest raccoon ever &rpar;](http://9gag.com/gag/a2v2BRO)
- - 😝 [John Wick](http://9gag.com/gag/a9y2QP0)
- - 💣 [Bro removed it like it was his daily job](http://9gag.com/gag/a7o2j3w)
- - 😝 [The goodest boi](http://9gag.com/gag/aqyW3XZ)
- - 👉 [Do you even lift bro](http://9gag.com/gag/aXPWDKb)<!-- MEMES:END -->
+ - 😝 [He must have had fond memories...](http://9gag.com/gag/aQzZG58)
+ - 😝 [Seal waits until his friend is freed before escaping with him.](http://9gag.com/gag/adBe32Q)
+ - 💣 [Peter Cullen the voice of Optimus Prime](http://9gag.com/gag/amoMDzV)
+ - 😝 [Yosemite national park in California](http://9gag.com/gag/aByGqDZ)
+ - 👉 [Who knew parking lots could be this bright?](http://9gag.com/gag/awy4Nd4)<!-- MEMES:END -->
 
 ---
 

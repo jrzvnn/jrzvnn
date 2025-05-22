@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Holding a gun against a veteran and ending up getting their ass whooped](http://9gag.com/gag/ayNQEEM)
- - 😝 [Bro removed it like it was his daily job](http://9gag.com/gag/a7o2j3w)
- - 💣 [The goodest boi](http://9gag.com/gag/aqyW3XZ)
- - 😝 [Detective Realizes There\u2019s a Bullet in Suspect\u2019s Head](http://9gag.com/gag/aW4bznd)
- - 👉 [John Wick](http://9gag.com/gag/a9y2QP0)<!-- MEMES:END -->
+ - 😝 [It\u2019s a little one &lpar;single largest raccoon ever &rpar;](http://9gag.com/gag/a2v2BRO)
+ - 😝 [John Wick](http://9gag.com/gag/a9y2QP0)
+ - 💣 [Bro removed it like it was his daily job](http://9gag.com/gag/a7o2j3w)
+ - 😝 [The goodest boi](http://9gag.com/gag/aqyW3XZ)
+ - 👉 [Do you even lift bro](http://9gag.com/gag/aXPWDKb)<!-- MEMES:END -->
 
 ---
 

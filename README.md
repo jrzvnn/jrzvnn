@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Big thanks to all of you degenerates for laughs and memes &lpar;not propaganda&rpar; F you and see you tomorrow](http://9gag.com/gag/a87wdR6)
- - 😝 [Who knew parking lots could be this bright?](http://9gag.com/gag/awy4Nd4)
- - 💣 [Liberal women.](http://9gag.com/gag/aLnmqjP)
+ - 😝 [Donald Trump absolutely cooked the South African president. Look at them sitting in shame.](http://9gag.com/gag/aqyz4eL)
+ - 😝 [Text to Absolute Cinema, Veo3](http://9gag.com/gag/a872ryQ)
+ - 💣 [Do you even lift bro](http://9gag.com/gag/aXPWDKb)
  - 😝 [Tom Cruise has been defying gravity for 3 decades.](http://9gag.com/gag/axyPd41)
- - 👉 [I didn&#39;t ask for a sequel](http://9gag.com/gag/aGy2Yd5)<!-- MEMES:END -->
+ - 👉 [When your style evolves more than your playlist.](http://9gag.com/gag/aAy2WPR)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A pair of pair of scissors goes hard](http://9gag.com/gag/aO8Pg86)
- - 😝 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)
- - 💣 [`Manners Maketh Man`](http://9gag.com/gag/aO8Pwwy)
- - 😝 [Update: Leader is injured](http://9gag.com/gag/aQzZwbK)
- - 👉 [The goodest boi](http://9gag.com/gag/aqyW3XZ)<!-- MEMES:END -->
+ - 😝 [When Earth&#39;s curves prove a point](http://9gag.com/gag/aLnX6nv)
+ - 😝 [Peter Cullen the voice of Optimus Prime](http://9gag.com/gag/amoMDzV)
+ - 💣 [Yosemite national park in California](http://9gag.com/gag/aByGqDZ)
+ - 😝 [Gaming advice](http://9gag.com/gag/adBe3jN)
+ - 👉 [When gaming becomes a full-time job](http://9gag.com/gag/aQz261r)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When Earth&#39;s curves prove a point](http://9gag.com/gag/aLnX6nv)
- - 😝 [Gaming advice](http://9gag.com/gag/adBe3jN)
- - 💣 [When gaming becomes a full-time job](http://9gag.com/gag/aQz261r)
- - 😝 [Trust the process](http://9gag.com/gag/aMVXeM6)
- - 👉 [Big thanks to all of you degenerates for laughs and memes &lpar;not propaganda&rpar; F you and see you tomorrow](http://9gag.com/gag/a87wdR6)<!-- MEMES:END -->
+ - 😝 [The goodest boi](http://9gag.com/gag/aqyW3XZ)
+ - 😝 [Did he get paid for this scene?](http://9gag.com/gag/agm4Pnv)
+ - 💣 [Update: Leader is injured](http://9gag.com/gag/aQzZwbK)
+ - 😝 [Coca Cholera](http://9gag.com/gag/aqyWqyY)
+ - 👉 [Donald Trump absolutely cooked the South African president. Look at them sitting in shame.](http://9gag.com/gag/aqyz4eL)<!-- MEMES:END -->
 
 ---
 

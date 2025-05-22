@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What in the world are Jony Ive and Sam Altman building?](https://www.theverge.com/column/672505/jony-ive-sam-altman-smart-glasses-ai-hardware-wearables-gadgets)
- - [Feds Charge 16 Russians Allegedly Tied to Botnets Used in Ransomware, Cyberattacks, and Spying](https://www.wired.com/story/us-charges-16-russians-danabot-malware/)
- - [Apple’s first smart glasses could arrive next year](https://www.theverge.com/news/673030/apple-ai-smart-glasses-2026-launch-rumor)
- - [Pro-AI, pro-pollution, pro-surveillance: what you should know about Trump’s budget](https://www.theverge.com/news/673015/trump-big-beautiful-bill-budget-reconciliation-ai-border-energy)
- - [Sources: the US FTC is investigating whether Media Matters illegally colluded with advertisers; Elon Musk sued the advocacy group in 2023 &lpar;New York Times&rpar;](http://www.techmeme.com/250522/p46#a250522p46)<!-- TECH:END -->
+ - [The US DOJ charges 16 individuals allegedly linked to a Russia-based malware operation known as DanaBot that infected 300,000+ machines globally &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/250522/p48#a250522p48)
+ - [Warhammer&amp;#8217;s free new game makes typing grimdark](https://www.theverge.com/news/673047/warhammer-40000-boltgun-words-of-vengeance-free-typing-game)
+ - [AI-enhanced Apple Glass smart glasses set for 2026 release](https://appleinsider.com/articles/25/05/22/ai-enhanced-apple-glass-smart-glasses-set-for-2026-release?utm_medium=rss)
+ - [State lawmakers and AGs from both parties, Democrats, consumer advocates, and others oppose GOP&#39;s push to ban state AI regulations for the next 10 years &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/250522/p47#a250522p47)
+ - [What in the world are Jony Ive and Sam Altman building?](https://www.theverge.com/column/672505/jony-ive-sam-altman-smart-glasses-ai-hardware-wearables-gadgets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

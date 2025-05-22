@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FTC v. Meta: Meta rested its case on May 21 after four days of arguments, including that it faces hefty competition and helped build Instagram and WhatsApp &lpar;New York Times&rpar;](http://www.techmeme.com/250522/p16#a250522p16)
+ - [Who’s to Blame When AI Agents Screw Up?](https://www.wired.com/story/ai-agents-legal-liability-issues/)
+ - [Q&amp;A with Google DeepMind CEO Demis Hassabis and Google co-founder Sergey Brin on AI frontier models, scaling data centers, reasoning, DeepThink, AGI, and more &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/250522/p15#a250522p15)
  - [Q&amp;A with legendary game designer Shigeru Miyamoto on Super Nintendo World, redesigning Donkey Kong, the new Mario Kart, the Pikmin franchise, Switch 2, and more &lpar;IGN&rpar;](http://www.techmeme.com/250522/p14#a250522p14)
- - [Mysterious Database of 184 Million Records Exposes Vast Array of Login Credentials](https://www.wired.com/story/mysterious-database-logins-governments-social-media/)
- - [Esoteric Programming Languages Are Fun—Until They Kill the Joke](https://www.wired.com/story/machine-readable-esoteric-programming-languages/)
- - [The Epic Rise and Fall of a Dark-Web Psychedelics Kingpin](https://www.wired.com/story/rise-fall-dark-web-psychedelics-kingpin-dmt/)
- - [Google is using its extensive data on users to give its AI models an advantage over OpenAI and Anthropic, starting with its opt-in Gemini with personalization &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250522/p13#a250522p13)<!-- TECH:END -->
+ - [Mysterious Database of 184 Million Records Exposes Vast Array of Login Credentials](https://www.wired.com/story/mysterious-database-logins-governments-social-media/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is using its extensive data on users to give its AI models an advantage over OpenAI and Anthropic, starting with its opt-in Gemini with personalization &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250522/p13#a250522p13)
- - [Running app Strava raised new funding at a $2.2B valuation including debt, up from $1.5B after raising $110M in November 2020, and nears $500M in ARR &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/250522/p12#a250522p12)
- - [Details leak about Jony Ive&amp;#8217;s new ‘screen-free’ OpenAI device](https://www.theverge.com/news/672357/openai-ai-device-sam-altman-jony-ive)
- - [Concerts and Airports Hit by Measles Exposures. Do You Need Another Measles Booster?](https://www.cnet.com/health/medical/concerts-and-airports-hit-by-measles-exposures-do-you-need-another-measles-booster/#ftag=CAD590a51e)
- - [How SpaceX&#39;s Starlink moved quickly to solidify its lead in the satellite internet business, as its competitors face production and launch capacity bottlenecks &lpar;Financial Times&rpar;](http://www.techmeme.com/250522/p11#a250522p11)<!-- TECH:END -->
+ - [Q&amp;A with legendary game designer Shigeru Miyamoto on Super Nintendo World, redesigning Donkey Kong, the new Mario Kart, the Pikmin franchise, Switch 2, and more &lpar;IGN&rpar;](http://www.techmeme.com/250522/p14#a250522p14)
+ - [Mysterious Database of 184 Million Records Exposes Vast Array of Login Credentials](https://www.wired.com/story/mysterious-database-logins-governments-social-media/)
+ - [Esoteric Programming Languages Are Fun—Until They Kill the Joke](https://www.wired.com/story/machine-readable-esoteric-programming-languages/)
+ - [The Epic Rise and Fall of a Dark-Web Psychedelics Kingpin](https://www.wired.com/story/rise-fall-dark-web-psychedelics-kingpin-dmt/)
+ - [Google is using its extensive data on users to give its AI models an advantage over OpenAI and Anthropic, starting with its opt-in Gemini with personalization &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250522/p13#a250522p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

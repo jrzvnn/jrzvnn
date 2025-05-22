@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When Amazon Prime delivers... a surprise](http://9gag.com/gag/awyd6dD)
- - 😝 [Abundance in life](http://9gag.com/gag/aZZjG1V)
- - 💣 [. . .](http://9gag.com/gag/aPAQOoR)
- - 😝 [It\u2019s a little one &lpar;single largest raccoon ever &rpar;](http://9gag.com/gag/a2v2BRO)
- - 👉 [Ellie&#39;s secret weapon &lpar;GooBrain on yt&rpar;](http://9gag.com/gag/axyR58M)<!-- MEMES:END -->
+ - 😝 [Even the birds are trying to scam you](http://9gag.com/gag/a4P2e3p)
+ - 😝 [`Manners Maketh Man`](http://9gag.com/gag/aO8Pwwy)
+ - 💣 [Update: Leader is injured](http://9gag.com/gag/aQzZwbK)
+ - 😝 [Yikes, that hit deep!](http://9gag.com/gag/amoMjj2)
+ - 👉 [Did he get paid for this scene?](http://9gag.com/gag/agm4Pnv)<!-- MEMES:END -->
 
 ---
 

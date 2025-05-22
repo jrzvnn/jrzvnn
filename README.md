@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A refined gentlemen](http://9gag.com/gag/a7o24B2)
  - 😝 [When Amazon Prime delivers... a surprise](http://9gag.com/gag/awyd6dD)
- - 💣 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)
+ - 😝 [The goodest boi](http://9gag.com/gag/aqyW3XZ)
+ - 💣 [When your style evolves more than your playlist.](http://9gag.com/gag/aAy2WPR)
  - 😝 [Tom Cruise has been defying gravity for 3 decades.](http://9gag.com/gag/axyPd41)
- - 👉 [When your style evolves more than your playlist.](http://9gag.com/gag/aAy2WPR)<!-- MEMES:END -->
+ - 👉 [Little advice](http://9gag.com/gag/awydqxR)<!-- MEMES:END -->
 
 ---
 

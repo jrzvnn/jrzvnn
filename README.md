@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in Arlington, Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-arlington-va/#ftag=CAD590a51e)
- - [Xiaomi CEO Lei Jun unveils the Xring O1, a Xiaomi-made 3nm chip that will power three devices, including the Tablet 7 Ultra, in a bid to compete with Apple &lpar;Bloomberg&rpar;](http://www.techmeme.com/250522/p20#a250522p20)
- - [I Hated Smart Glasses Until I Tried Google&#39;s Android XR. Now I See the Potential](https://www.cnet.com/tech/computing/i-hated-smart-glasses-until-i-tried-googles-android-xr-now-i-see-the-potential/#ftag=CAD590a51e)
- - [&#39;Untold: The Liver King&#39; Is in Netflix&#39;s Top 10: Here Are 3 More &#39;Untold&#39; Documentaries That Are Even Better](https://www.cnet.com/tech/services-and-software/untold-the-liver-king-is-in-netflixs-top-10-here-are-3-more-untold-documentaries-that-are-even-better/#ftag=CAD590a51e)
- - [Who the Heck Is Gonna Pay $250 for Google AI Ultra?](https://www.cnet.com/tech/services-and-software/who-the-heck-is-gonna-pay-250-for-google-ai-ultra/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A security researcher finds an exposed Elastic database with 184M records, including login credentials for Apple, Meta, Google, and others; its owner is unknown &lpar;Wired&rpar;](http://www.techmeme.com/250522/p21#a250522p21)
+ - [As the game industry cuts back, accessibility is feeling the impact](https://www.theverge.com/games/669419/gaming-industry-accessibility-cutbacks)
+ - [Switchbot’s latest lock can unlock with a look](https://www.theverge.com/news/672367/switchbot-lock-ultra-3d-facial-recognition-price-release-date)
+ - [Amazon&amp;#8217;s AI voiceovers will talk you through product features](https://www.theverge.com/news/672442/amazon-ai-voiceovers-product-features)
+ - [Best Internet Providers in Arlington, Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-arlington-va/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

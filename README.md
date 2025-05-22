@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kraken plans to offer tokenized versions of 50+ stocks and ETFs, including Apple and Tesla stocks, to customers in Europe, Latin America, Africa, and Asia &lpar;Alexander Osipovich/Wall Street Journal&rpar;](http://www.techmeme.com/250522/p24#a250522p24)
- - [OpenAI partners with G42 and others to build a 1-gigawatt AI data center in Abu Dhabi called Stargate UAE, its first large-scale project outside the US &lpar;Eliot Brown/Wall Street Journal&rpar;](http://www.techmeme.com/250522/p23#a250522p23)
- - [Nvidia GeForce Now six-month subs are 40 percent off](https://www.theverge.com/tech/672479/nvidia-geforce-now-six-month-subscription-deal)
- - [Jony Ive’s AI gadget rumored to be ‘slightly larger’ than Humane’s AI pin](https://www.theverge.com/news/672533/jony-ive-sam-altman-ai-device-ipod-shuffle-ai-pin)
- - [Best AI video enhancer: upscale video to 4K in 1 click on Mac](https://appleinsider.com/articles/25/05/22/best-ai-video-enhancer-upscale-video-to-4k-in-1-click-on-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Verizon wants to wait longer before unlocking your phone](https://www.theverge.com/news/672565/verizon-fcc-phone-unlocking-requirement)
+ - [Your iCloud password could be newly exposed from a giant password leak](https://appleinsider.com/articles/25/05/22/your-icloud-password-could-be-newly-exposed-from-a-giant-password-leak?utm_medium=rss)
+ - [The Best Sleeping Pads For Campgrounds—Our Comfiest Picks &lpar;2025&rpar;](https://www.wired.com/gallery/best-camping-sleeping-pads/)
+ - [Xiaomi’s first flagship phone chip is a genuine Snapdragon 8 Elite rival](https://www.theverge.com/news/672541/xiaomi-xring-o1-flagship-chipset-15s-pro-pad-7-ultra)
+ - [Uber CEO Dara Khosrowshahi is okay with reinventing the bus](https://www.theverge.com/decoder-podcast-with-nilay-patel/672087/uber-dara-khosrowshahi-waymo-ai-bus-transit-tesla-self-driving)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

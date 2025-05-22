@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An NY jury convicts Braden John Karony, the former CEO of cryptocurrency company SafeMoon, of conspiracy to defraud the US, money laundering, and wire fraud &lpar;Turner Wright/Cointelegraph&rpar;](http://www.techmeme.com/250522/p2#a250522p2)
  - [Marcos Galperin, founder and CEO of Latin American e-commerce giant MercadoLibre, will step down in late 2025 and be replaced by commerce head Ariel Szarfsztejn &lpar;Andre Romani/Reuters&rpar;](http://www.techmeme.com/250522/p1#a250522p1)
  - [Leaked recording: Sam Altman told staff that OpenAI aims to ship 100M AI &quot;companion&quot; devices, with the goal of releasing a device by late next year &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250521/p60#a250521p60)
  - [NYC-based Siro, which offers AI-powered coaching for sales reps, raised a $50M Series B led by SignalFire, bringing its total raised to $75M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250521/p59#a250521p59)
- - [How to backup your Photos library in macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-backup-your-photos-library-in-macos-sequoia?utm_medium=rss)
- - [Amazon introduces AI shopping experts, an audio feature that summarizes product details, customer reviews, and more, on select products for some US customers &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/250521/p58#a250521p58)<!-- TECH:END -->
+ - [How to backup your Photos library in macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-backup-your-photos-library-in-macos-sequoia?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

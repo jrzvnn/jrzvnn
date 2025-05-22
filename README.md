@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When Earth&#39;s curves prove a point](http://9gag.com/gag/aLnX6nv)
- - 😝 [Peter Cullen the voice of Optimus Prime](http://9gag.com/gag/amoMDzV)
- - 💣 [Yosemite national park in California](http://9gag.com/gag/aByGqDZ)
- - 😝 [Gaming advice](http://9gag.com/gag/adBe3jN)
- - 👉 [When gaming becomes a full-time job](http://9gag.com/gag/aQz261r)<!-- MEMES:END -->
+ - 😝 [Coca Cholera](http://9gag.com/gag/aqyWqyY)
+ - 😝 [Trump showing the president of south africa a video of politician in his country calling for white genocide](http://9gag.com/gag/azxZ7WK)
+ - 💣 [`Manners Maketh Man`](http://9gag.com/gag/aO8Pwwy)
+ - 😝 [Update: Leader is injured](http://9gag.com/gag/aQzZwbK)
+ - 👉 [Donald Trump absolutely cooked the South African president. Look at them sitting in shame.](http://9gag.com/gag/aqyz4eL)<!-- MEMES:END -->
 
 ---
 

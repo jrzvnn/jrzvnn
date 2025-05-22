@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Even the birds are trying to scam you](http://9gag.com/gag/a4P2e3p)
- - 😝 [`Manners Maketh Man`](http://9gag.com/gag/aO8Pwwy)
- - 💣 [Update: Leader is injured](http://9gag.com/gag/aQzZwbK)
- - 😝 [Yikes, that hit deep!](http://9gag.com/gag/amoMjj2)
- - 👉 [Did he get paid for this scene?](http://9gag.com/gag/agm4Pnv)<!-- MEMES:END -->
+ - 😝 [Bro removed it like it was his daily job](http://9gag.com/gag/a7o2j3w)
+ - 😝 [Do you even lift bro](http://9gag.com/gag/aXPWDKb)
+ - 💣 [Proof that fashion choices have lasting consequences](http://9gag.com/gag/aByGDMP)
+ - 😝 [Guy being a saver](http://9gag.com/gag/aqyWqAv)
+ - 👉 [John Wick](http://9gag.com/gag/a9y2QP0)<!-- MEMES:END -->
 
 ---
 

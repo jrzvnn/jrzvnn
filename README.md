@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Bro removed it like it was his daily job](http://9gag.com/gag/a7o2j3w)
+ - 😝 [Yikes, that hit deep!](http://9gag.com/gag/amoMjj2)
+ - 💣 [What&#39;s inside Mexican jumping beans](http://9gag.com/gag/aryqPey)
  - 😝 [Holding a gun against a veteran and ending up getting their ass whooped](http://9gag.com/gag/ayNQEEM)
- - 😝 [Trump showing the president of south africa a video of politician in his country calling for white genocide](http://9gag.com/gag/azxZ7WK)
- - 💣 [Did he get paid for this scene?](http://9gag.com/gag/agm4Pnv)
- - 😝 [The goodest boi](http://9gag.com/gag/aqyW3XZ)
- - 👉 [When your style evolves more than your playlist.](http://9gag.com/gag/aAy2WPR)<!-- MEMES:END -->
+ - 👉 [Coca Cholera](http://9gag.com/gag/aqyWqyY)<!-- MEMES:END -->
 
 ---
 

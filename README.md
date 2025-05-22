@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Who’s to Blame When AI Agents Screw Up?](https://www.wired.com/story/ai-agents-legal-liability-issues/)
  - [Q&amp;A with Google DeepMind CEO Demis Hassabis and Google co-founder Sergey Brin on AI frontier models, scaling data centers, reasoning, DeepThink, AGI, and more &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/250522/p15#a250522p15)
  - [Q&amp;A with legendary game designer Shigeru Miyamoto on Super Nintendo World, redesigning Donkey Kong, the new Mario Kart, the Pikmin franchise, Switch 2, and more &lpar;IGN&rpar;](http://www.techmeme.com/250522/p14#a250522p14)
- - [Mysterious Database of 184 Million Records Exposes Vast Array of Login Credentials](https://www.wired.com/story/mysterious-database-logins-governments-social-media/)<!-- TECH:END -->
+ - [How LG&#39;s 4-Stack OLED Tech Makes TVs Brighter, Better Than Ever](https://www.cnet.com/tech/home-entertainment/how-lgs-4-stack-oled-tech-makes-tvs-brighter-better-than-ever/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

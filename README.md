@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Undercover footage smuggled out of North Korea shows reporter Kim Dong-cheol briefly interviewing a homeless 23-year-old girl in rural North Korea.](http://9gag.com/gag/aqyWvoR)
- - 😝 [Little advice](http://9gag.com/gag/awydqxR)
- - 💣 [When your style evolves more than your playlist.](http://9gag.com/gag/aAy2WPR)
+ - 😝 [The goodest boi](http://9gag.com/gag/aqyW3XZ)
+ - 😝 [When your style evolves more than your playlist.](http://9gag.com/gag/aAy2WPR)
+ - 💣 [Trump showing the president of south africa a video of politician in his country calling for white genocide](http://9gag.com/gag/azxZ7WK)
  - 😝 [Tom Cruise has been defying gravity for 3 decades.](http://9gag.com/gag/axyPd41)
  - 👉 [A refined gentlemen](http://9gag.com/gag/a7o24B2)<!-- MEMES:END -->
 

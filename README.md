@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He must have had fond memories...](http://9gag.com/gag/aQzZG58)
- - 😝 [Who knew parking lots could be this bright?](http://9gag.com/gag/awy4Nd4)
- - 💣 [Seal waits until his friend is freed before escaping with him.](http://9gag.com/gag/adBe32Q)
- - 😝 [Peter Cullen the voice of Optimus Prime](http://9gag.com/gag/amoMDzV)
- - 👉 [Yosemite national park in California](http://9gag.com/gag/aByGqDZ)<!-- MEMES:END -->
+ - 😝 [Holding a gun against a veteran and ending up getting their ass whooped](http://9gag.com/gag/ayNQEEM)
+ - 😝 [Bro removed it like it was his daily job](http://9gag.com/gag/a7o2j3w)
+ - 💣 [The goodest boi](http://9gag.com/gag/aqyW3XZ)
+ - 😝 [Detective Realizes There\u2019s a Bullet in Suspect\u2019s Head](http://9gag.com/gag/aW4bznd)
+ - 👉 [John Wick](http://9gag.com/gag/a9y2QP0)<!-- MEMES:END -->
 
 ---
 

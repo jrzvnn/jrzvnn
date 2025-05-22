@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Claude 4 models support &quot;extended thinking with tool use&quot;, a beta feature that lets them alternate between reasoning and using tools like web search &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/250522/p38#a250522p38)
+ - [The best Sonos speakers to buy in 2025](https://www.theverge.com/tech/652171/best-sonos-speakers)
+ - [Mozilla plans to shut down Pocket, the read-it-later service it acquired in 2017, on July 8, and Fakespot, which helps identify unreliable reviews, on July 1 &lpar;The Mozilla Blog&rpar;](http://www.techmeme.com/250522/p37#a250522p37)
  - [Nvidia’s RTX 5060 review debacle should be a wake-up call for gamers and reviewers](https://www.theverge.com/pc-gaming/672637/nvidia-rtx-5060-review-meddling-gamersnexus-wake-up-call)
- - [Anthropic adds &quot;thinking summaries&quot; to both Claude 4 models and is making its Claude Code agentic command-line tool generally available &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250522/p36#a250522p36)
- - [Anthropic releases Opus 4 under stricter safety measures than any prior model after tests showed it could potentially aid novices in making biological weapons &lpar;Billy Perrigo/Time&rpar;](http://www.techmeme.com/250522/p35#a250522p35)
- - [Sonnet 4 is available to free and paid users, while Opus 4 is limited to paid users; Opus 4 API costs $15/$75 per 1M input/output tokens, Sonnet 4 costs $3/$15 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250522/p34#a250522p34)
- - [Anthropic says Rakuten deployed Opus 4 to code autonomously for seven hours on a complicated open-source project, paving the way for more proficient AI agents &lpar;Rhiannon Williams/MIT Technology Review&rpar;](http://www.techmeme.com/250522/p33#a250522p33)<!-- TECH:END -->
+ - [Anthropic adds &quot;thinking summaries&quot; to both Claude 4 models and is making its Claude Code agentic command-line tool generally available &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250522/p36#a250522p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The goodest boi](http://9gag.com/gag/aqyW3XZ)
  - 😝 [Do you even lift bro](http://9gag.com/gag/aXPWDKb)
- - 😝 [When your style evolves more than your playlist.](http://9gag.com/gag/aAy2WPR)
- - 💣 [Trump showing the president of south africa a video of politician in his country calling for white genocide](http://9gag.com/gag/azxZ7WK)
+ - 💣 [Giggity](http://9gag.com/gag/apRAEdE)
  - 😝 [Tom Cruise has been defying gravity for 3 decades.](http://9gag.com/gag/axyPd41)
- - 👉 [Giggity](http://9gag.com/gag/apRAEdE)<!-- MEMES:END -->
+ - 👉 [A refined gentlemen](http://9gag.com/gag/a7o24B2)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic says Opus 4 may use command-line tools to alert the press or regulators, or lock users out, if it detects immoral behavior like faking a drug trial &lpar;Sam Bowman/@sleepinyourhat&rpar;](http://www.techmeme.com/250522/p40#a250522p40)
- - [The AirPods Max with USB-C are a great Memorial Day deal at $70 off](https://www.theverge.com/tech/672808/airpods-max-usb-c-memorial-day-deal-sale)
- - [The new Mission: Impossible is a comedy wearing a convincing disguise](https://www.theverge.com/movie-reviews/671534/mission-impossible-the-final-reckoning-review)
- - [3D Instagram photos are coming to Meta Quest headsets](https://www.theverge.com/news/672897/meta-instagram-3d-quest-vr-headsets-v77-update-navigator)
- - [Tinder CEO Faye Iosotaluno will step down in July after less than two years in the role; Match Group CEO Spencer Rascoff will lead Tinder temporarily &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250522/p39#a250522p39)<!-- TECH:END -->
+ - [Docs: ODNI is developing a centralized portal to streamline the purchase of commercially available information, like location data, by US intelligence agencies &lpar;Sam Biddle/The Intercept&rpar;](http://www.techmeme.com/250522/p42#a250522p42)
+ - [The wireless GameCube controller for Switch 2 is available to preorder once again](https://www.theverge.com/tech/666302/gamecube-switch-2-nintendo-preorder-buy)
+ - [Anthropic&#39;s System Card: Opus 4 often attempted to blackmail engineers by threatening to reveal sensitive personal info when it was threatened with replacement &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250522/p41#a250522p41)
+ - [Mozilla is shutting down Pocket](https://www.theverge.com/news/672924/mozilla-pocket-fakespot-shutting-down)
+ - [Anthropic says Opus 4 may use command-line tools to alert the press or regulators, or lock users out, if it detects immoral behavior like faking a drug trial &lpar;Sam Bowman/@sleepinyourhat&rpar;](http://www.techmeme.com/250522/p40#a250522p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

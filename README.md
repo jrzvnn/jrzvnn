@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US DOJ recently told Google it is examining whether Google structured an agreement with Character.AI to avoid formal government merger scrutiny &lpar;Josh Sisco/Bloomberg&rpar;](http://www.techmeme.com/250522/p28#a250522p28)
- - [How to back up your Photos library in macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-backup-your-photos-library-in-macos-sequoia?utm_medium=rss)
- - [io&#39;s device could be Ive&#39;s antidote to the smartphone obsession but it faces challenges, including overcoming people&#39;s reluctance to buy &quot;yet another device&quot; &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/250522/p27#a250522p27)
- - [How one hospital is reinventing care with Apple tech](https://appleinsider.com/articles/25/05/22/how-one-hospital-is-reinventing-care-with-apple-tech?utm_medium=rss)
- - [Slash, which provides banking services for specific sectors like crypto and marketing, raised a $41M Series B at a $370M valuation led by Goodwater Capital &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/250522/p26#a250522p26)<!-- TECH:END -->
+ - [OpenAI &amp; Jony Ive&#39;s AI necklace rumored to have iPod shuffle form factor](https://appleinsider.com/articles/25/05/22/openai-jony-ives-ai-necklace-rumored-to-have-ipod-shuffle-form-factor?utm_medium=rss)
+ - [Now you can watch the Internet Archive preserve documents in real time](https://www.theverge.com/news/672682/internet-archive-microfiche-lo-fi-beats-channel)
+ - [The US House passes the One Big Beautiful Bill Act, a budget bill that would ban states from enforcing AI laws for 10 years; the bill now heads to the Senate &lpar;Tech Policy Press&rpar;](http://www.techmeme.com/250522/p29#a250522p29)
+ - [Google’s Home APIs are gaining Gemini intelligence](https://www.theverge.com/news/672404/google-home-apis-gemini-intelligence-nest-smart-home)
+ - [Microsoft is racing to build an AI ‘agent factory’](https://www.theverge.com/notepad-microsoft-newsletter/672598/microsoft-ai-agent-factory-jay-parikh-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

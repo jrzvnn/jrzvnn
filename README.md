@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He must have had fond memories...](http://9gag.com/gag/aQzZG58)
- - 😝 [My type of MC club](http://9gag.com/gag/a342o0N)
- - 💣 [Peter Cullen the voice of Optimus Prime](http://9gag.com/gag/amoMDzV)
- - 😝 [Seal waits until his friend is freed before escaping with him.](http://9gag.com/gag/adBe32Q)
- - 👉 [Yosemite national park in California](http://9gag.com/gag/aByGqDZ)<!-- MEMES:END -->
+ - 😝 [What&#39;s it for?!](http://9gag.com/gag/adBeZ4D)
+ - 😝 [I\u2019d agree it\u2019s pretty good.](http://9gag.com/gag/aD2VprB)
+ - 💣 [`Manners Maketh Man`](http://9gag.com/gag/aO8Pwwy)
+ - 😝 [Guy being a saver](http://9gag.com/gag/aqyWqAv)
+ - 👉 [When your style evolves more than your playlist.](http://9gag.com/gag/aAy2WPR)<!-- MEMES:END -->
 
 ---
 

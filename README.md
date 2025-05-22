@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft Notepad can now write for you using generative AI](https://www.theverge.com/news/672984/microsoft-notepad-paint-snipping-tool-generative-ai-windows-insiders)
+ - [House GOP moves to slash renewable energy tax breaks](https://www.theverge.com/news/672787/house-republican-spending-bill-tax-credits-renewable-energy)
  - [Apollo Research, which Anthropic partnered with to test Opus 4, recommended against deploying an early version due to its tendency to &quot;scheme&quot; and deceive &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250522/p44#a250522p44)
  - [Anthropic says Opus 4 will use an email tool to &quot;whistleblow&quot; if it detects users doing something &quot;egregiously evil&quot;, like marketing a drug based on faked data &lpar;Sam Bowman/@sleepinyourhat&rpar;](http://www.techmeme.com/250522/p43#a250522p43)
- - [Docs: ODNI is developing a centralized portal to streamline the purchase of commercially available information, like location data, by US intelligence agencies &lpar;Sam Biddle/The Intercept&rpar;](http://www.techmeme.com/250522/p42#a250522p42)
- - [The wireless GameCube controller for Switch 2 is available to preorder once again](https://www.theverge.com/tech/666302/gamecube-switch-2-nintendo-preorder-buy)
- - [Anthropic&#39;s System Card: Opus 4 often attempted to blackmail engineers by threatening to reveal sensitive personal info when it was threatened with replacement &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250522/p41#a250522p41)<!-- TECH:END -->
+ - [Docs: ODNI is developing a centralized portal to streamline the purchase of commercially available information, like location data, by US intelligence agencies &lpar;Sam Biddle/The Intercept&rpar;](http://www.techmeme.com/250522/p42#a250522p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

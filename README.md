@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pro-AI, pro-pollution, pro-surveillance: what you should know about Trump’s budget](https://www.theverge.com/news/673015/trump-big-beautiful-bill-budget-reconciliation-ai-border-energy)
  - [Sources: the US FTC is investigating whether Media Matters illegally colluded with advertisers; Elon Musk sued the advocacy group in 2023 &lpar;New York Times&rpar;](http://www.techmeme.com/250522/p46#a250522p46)
  - [Senate Republicans vote to revoke California’s right to set its own tailpipe pollution rules](https://www.theverge.com/news/672092/senate-republican-vote-car-truck-pollution-ev-waiver-california)
  - [Why 3D-Printing an Untraceable Ghost Gun Is Easier Than Ever](https://www.wired.com/story/uncanny-valley-3d-printed-untraceable-ghost-guns/)
- - [So long, EV tax credits](https://www.theverge.com/electric-cars/672911/ev-tax-credit-elimninate-house-republican-bill)
- - [Sources: Apple aims to release smart glasses at the end of 2026 as part of a push into AI devices, but has shelved plans for an Apple Watch with a camera &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250522/p45#a250522p45)<!-- TECH:END -->
+ - [So long, EV tax credits](https://www.theverge.com/electric-cars/672911/ev-tax-credit-elimninate-house-republican-bill)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

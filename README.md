@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your style evolves more than your playlist.](http://9gag.com/gag/aAy2WPR)
- - 😝 [Do you even lift bro](http://9gag.com/gag/aXPWDKb)
+ - 😝 [I didn&#39;t ask for a sequel](http://9gag.com/gag/aGy2Yd5)
+ - 😝 [Trust the process](http://9gag.com/gag/aMVXeM6)
  - 💣 [Didn\u2019t expect much, but this movie really delivered.](http://9gag.com/gag/aoy8EX2)
  - 😝 [Tom Cruise has been defying gravity for 3 decades.](http://9gag.com/gag/axyPd41)
- - 👉 [Giggity](http://9gag.com/gag/apRAEdE)<!-- MEMES:END -->
+ - 👉 [Now THATS a Masterpiece](http://9gag.com/gag/avyv0vd)<!-- MEMES:END -->
 
 ---
 

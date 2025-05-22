@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s inside Mexican jumping beans](http://9gag.com/gag/aryqPey)
- - 😝 [Trump showing the president of south africa a video of politician in his country calling for white genocide](http://9gag.com/gag/azxZ7WK)
- - 💣 [The goodest boi](http://9gag.com/gag/aqyW3XZ)
- - 😝 [Did he get paid for this scene?](http://9gag.com/gag/agm4Pnv)
- - 👉 [It\u2019s a little one &lpar;single largest raccoon ever &rpar;](http://9gag.com/gag/a2v2BRO)<!-- MEMES:END -->
+ - 😝 [When Earth&#39;s curves prove a point](http://9gag.com/gag/aLnX6nv)
+ - 😝 [Gaming advice](http://9gag.com/gag/adBe3jN)
+ - 💣 [Trust the process](http://9gag.com/gag/aMVXeM6)
+ - 😝 [When gaming becomes a full-time job](http://9gag.com/gag/aQz261r)
+ - 👉 [Big thanks to all of you degenerates for laughs and memes &lpar;not propaganda&rpar; F you and see you tomorrow](http://9gag.com/gag/a87wdR6)<!-- MEMES:END -->
 
 ---
 

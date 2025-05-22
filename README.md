@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leaked recording: Sam Altman told staff that OpenAI aims to ship 100M AI &quot;companion&quot; devices, with the goal of releasing a device by late next year &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250521/p60#a250521p60)
+ - [NYC-based Siro, which offers AI-powered coaching for sales reps, raised a $50M Series B led by SignalFire, bringing its total raised to $75M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250521/p59#a250521p59)
  - [How to backup your Photos library in macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-backup-your-photos-library-in-macos-sequoia?utm_medium=rss)
  - [Amazon introduces AI shopping experts, an audio feature that summarizes product details, customer reviews, and more, on select products for some US customers &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/250521/p58#a250521p58)
- - [Microsoft says it&#39;s reducing &quot;politically focused emails&quot; within the company, as workers are unable to send emails mentioning &quot;Palestine&quot;, &quot;Gaza&quot;, or &quot;genocide&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250521/p57#a250521p57)
- - [Nansen: the 220 winners of Trump&#39;s May 22 dinner contest spent $394M total on the $TRUMP token, with the top seven spending $10M+ each and a third $1M+ each &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/250521/p56#a250521p56)
- - [I Tried Out Dyson’s New PencilVac. Here’s What You Need to Know](https://www.wired.com/story/dyson-pencilvac-cordless-vacuum-2025/)<!-- TECH:END -->
+ - [Microsoft says it&#39;s reducing &quot;politically focused emails&quot; within the company, as workers are unable to send emails mentioning &quot;Palestine&quot;, &quot;Gaza&quot;, or &quot;genocide&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250521/p57#a250521p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

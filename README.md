@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When Amazon Prime delivers... a surprise](http://9gag.com/gag/awyd6dD)
- - 😝 [The goodest boi](http://9gag.com/gag/aqyW3XZ)
- - 💣 [When your style evolves more than your playlist.](http://9gag.com/gag/aAy2WPR)
+ - 😝 [Undercover footage smuggled out of North Korea shows reporter Kim Dong-cheol briefly interviewing a homeless 23-year-old girl in rural North Korea.](http://9gag.com/gag/aqyWvoR)
+ - 😝 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)
+ - 💣 [Holding a gun against a veteran and ending up getting their ass whooped](http://9gag.com/gag/ayNQEEM)
  - 😝 [Tom Cruise has been defying gravity for 3 decades.](http://9gag.com/gag/axyPd41)
- - 👉 [Little advice](http://9gag.com/gag/awydqxR)<!-- MEMES:END -->
+ - 👉 [Baiting your opponent to get your autograph](http://9gag.com/gag/a872rAO)<!-- MEMES:END -->
 
 ---
 

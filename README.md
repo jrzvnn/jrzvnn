@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The goodest boi](http://9gag.com/gag/aqyW3XZ)
  - 😝 [Bro removed it like it was his daily job](http://9gag.com/gag/a7o2j3w)
- - 😝 [Yikes, that hit deep!](http://9gag.com/gag/amoMjj2)
- - 💣 [What&#39;s inside Mexican jumping beans](http://9gag.com/gag/aryqPey)
- - 😝 [Holding a gun against a veteran and ending up getting their ass whooped](http://9gag.com/gag/ayNQEEM)
- - 👉 [Coca Cholera](http://9gag.com/gag/aqyWqyY)<!-- MEMES:END -->
+ - 💣 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)
+ - 😝 [Tom Cruise has been defying gravity for 3 decades.](http://9gag.com/gag/axyPd41)
+ - 👉 [Update: Leader is injured](http://9gag.com/gag/aQzZwbK)<!-- MEMES:END -->
 
 ---
 

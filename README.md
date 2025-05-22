@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [io&#39;s device could be Ive&#39;s antidote to the smartphone obsession but it faces challenges, including overcoming people&#39;s reluctance to buy &quot;yet another device&quot; &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/250522/p27#a250522p27)
+ - [How one hospital is reinventing care with Apple tech](https://appleinsider.com/articles/25/05/22/how-one-hospital-is-reinventing-care-with-apple-tech?utm_medium=rss)
+ - [Slash, which provides banking services for specific sectors like crypto and marketing, raised a $41M Series B at a $370M valuation led by Goodwater Capital &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/250522/p26#a250522p26)
  - [Custom interfaces to get the most out of a folding iPhone or iPad are in the works](https://appleinsider.com/articles/24/04/30/custom-interfaces-to-get-the-most-out-of-a-folding-iphone-or-ipad-are-in-the-works?utm_medium=rss)
- - [Kuo: Ive and Altman&#39;s device could be larger than Humane&#39;s AI pin, may connect to smartphones and PCs to use their computing and display capabilities, and more &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250522/p25#a250522p25)
- - [Honor’s 400 phones are midrangers built to last](https://www.theverge.com/news/672580/honor-400-pro-midrange-six-years-software)
- - [Grid’s framed retro gadgets are up to 40 percent off for Father’s Day](https://www.theverge.com/tech/672571/grid-studio-iphone-4-game-boy-color-fathers-day-deal-sale)
- - [This Phone Brought My Dad Back to Life and I Don&#39;t Know How to Feel](https://www.cnet.com/tech/mobile/this-phone-brought-my-dad-back-to-life-and-i-dont-know-how-to-feel/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Kuo: Ive and Altman&#39;s device could be larger than Humane&#39;s AI pin, may connect to smartphones and PCs to use their computing and display capabilities, and more &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250522/p25#a250522p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Cool dude landlord](http://9gag.com/gag/a5Q2mGy)
- - 😝 [Bull Takes A Flea Dip](http://9gag.com/gag/aW4bKO6)
- - 💣 [Yikes, that hit deep!](http://9gag.com/gag/amoMjj2)
+ - 😝 [Update: Leader is injured](http://9gag.com/gag/aQzZwbK)
+ - 💣 [The goodest boi](http://9gag.com/gag/aqyW3XZ)
  - 😝 [Coca Cholera](http://9gag.com/gag/aqyWqyY)
- - 👉 [The goodest boi](http://9gag.com/gag/aqyW3XZ)<!-- MEMES:END -->
+ - 👉 [Donald Trump absolutely cooked the South African president. Look at them sitting in shame.](http://9gag.com/gag/aqyz4eL)<!-- MEMES:END -->
 
 ---
 

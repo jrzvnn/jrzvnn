@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe it is a scam after all](http://9gag.com/gag/aZZj980)
- - 😝 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)
- - 💣 [Giggity](http://9gag.com/gag/apRAEdE)
+ - 😝 [Trust the process](http://9gag.com/gag/aMVXeM6)
+ - 😝 [Trump showing the president of south africa a video of politician in his country calling for white genocide](http://9gag.com/gag/azxZ7WK)
+ - 💣 [Dark humor at its finest](http://9gag.com/gag/a9yXbX1)
  - 😝 [Tom Cruise has been defying gravity for 3 decades.](http://9gag.com/gag/axyPd41)
- - 👉 [So, again I&#39;m asking you](http://9gag.com/gag/a1mLA7D)<!-- MEMES:END -->
+ - 👉 [Didn\u2019t expect much, but this movie really delivered.](http://9gag.com/gag/aoy8EX2)<!-- MEMES:END -->
 
 ---
 

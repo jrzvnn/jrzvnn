@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [When your style evolves more than your playlist.](http://9gag.com/gag/aAy2WPR)
  - 😝 [Bro removed it like it was his daily job](http://9gag.com/gag/a7o2j3w)
- - 😝 [Do you even lift bro](http://9gag.com/gag/aXPWDKb)
- - 💣 [Proof that fashion choices have lasting consequences](http://9gag.com/gag/aByGDMP)
- - 😝 [Guy being a saver](http://9gag.com/gag/aqyWqAv)
- - 👉 [John Wick](http://9gag.com/gag/a9y2QP0)<!-- MEMES:END -->
+ - 💣 [It\u2019s a little one &lpar;single largest raccoon ever &rpar;](http://9gag.com/gag/a2v2BRO)
+ - 😝 [Update: Leader is injured](http://9gag.com/gag/aQzZwbK)
+ - 👉 [Did he get paid for this scene?](http://9gag.com/gag/agm4Pnv)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch with cameras reportedly canceled, but camera-equipped AirPods still on track](https://appleinsider.com/articles/25/05/22/apple-watch-with-cameras-reportedly-canceled-but-camera-equipped-airpods-still-on-track?utm_medium=rss)
+ - [Anthropic releases new API features for building agents: a code execution tool, MCP connector, Files API, and extended prompt caching, all in public beta &lpar;Anthropic&rpar;](http://www.techmeme.com/250522/p50#a250522p50)
  - [Xiaomi’s new PU7 spells trouble for Tesla in China](https://www.theverge.com/news/673023/xiaomi-pu7-ev-suv-china-tesla-model-y)
  - [Leaked memo: YouTube hired longtime Disney executive Justin Connolly to serve as its global head of media and sports, a newly created position &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250522/p49#a250522p49)
- - [The US DOJ charges 16 individuals allegedly linked to a Russia-based malware operation known as DanaBot that infected 300,000+ machines globally &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/250522/p48#a250522p48)
- - [Warhammer’s free new game makes typing grimdark](https://www.theverge.com/news/673047/warhammer-40000-boltgun-words-of-vengeance-free-typing-game)
- - [AI-enhanced Apple Glass smart glasses set for 2026 release](https://appleinsider.com/articles/25/05/22/ai-enhanced-apple-glass-smart-glasses-set-for-2026-release?utm_medium=rss)<!-- TECH:END -->
+ - [The US DOJ charges 16 individuals allegedly linked to a Russia-based malware operation known as DanaBot that infected 300,000+ machines globally &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/250522/p48#a250522p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

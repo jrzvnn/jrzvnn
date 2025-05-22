@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The writing is on the wall in first trailer for Netflix&amp;#8217;s new OceanGate documentary](https://www.theverge.com/trailers/672438/netflix-titan-oceangate-disaster-trailer-premiere-date)
- - [Inside the making of ASML&#39;s High NA: the latest-gen EUV machine costs $400M+, has four modules, is assembled in the Netherlands, and five units have shipped &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/250522/p22#a250522p22)
- - [LG’s Blazingly Brilliant G5 OLED Is the Pacesetter for Best TV of the Year](https://www.wired.com/review/lg-g5/)
- - [A security researcher finds an exposed Elastic database with 184M records, including login credentials for Apple, Meta, Google, and others; its owner is unknown &lpar;Wired&rpar;](http://www.techmeme.com/250522/p21#a250522p21)
- - [Too Many Nightly Trips to the Bathroom? Simple Tips for Peeing Less and Saving Sleep](https://www.cnet.com/health/sleep/too-many-nightly-trips-to-the-bathroom-simple-tips-for-peeing-less-and-saving-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Kraken plans to offer tokenized versions of 50+ stocks and ETFs, including Apple and Tesla stocks, to customers in Europe, Latin America, Africa, and Asia &lpar;Alexander Osipovich/Wall Street Journal&rpar;](http://www.techmeme.com/250522/p24#a250522p24)
+ - [OpenAI partners with G42 and others to build a 1-gigawatt AI data center in Abu Dhabi called Stargate UAE, its first large-scale project outside the US &lpar;Eliot Brown/Wall Street Journal&rpar;](http://www.techmeme.com/250522/p23#a250522p23)
+ - [Nvidia GeForce Now six-month subs are 40 percent off](https://www.theverge.com/tech/672479/nvidia-geforce-now-six-month-subscription-deal)
+ - [Jony Ive’s AI gadget rumored to be ‘slightly larger’ than Humane’s AI pin](https://www.theverge.com/news/672533/jony-ive-sam-altman-ai-device-ipod-shuffle-ai-pin)
+ - [Best AI video enhancer: upscale video to 4K in 1 click on Mac](https://appleinsider.com/articles/25/05/22/best-ai-video-enhancer-upscale-video-to-4k-in-1-click-on-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

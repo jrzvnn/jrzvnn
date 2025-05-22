@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leaked memo: YouTube hired longtime Disney executive Justin Connolly to serve as its global head of media and sports, a newly created position &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250522/p49#a250522p49)
  - [The US DOJ charges 16 individuals allegedly linked to a Russia-based malware operation known as DanaBot that infected 300,000+ machines globally &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/250522/p48#a250522p48)
  - [Warhammer&amp;#8217;s free new game makes typing grimdark](https://www.theverge.com/news/673047/warhammer-40000-boltgun-words-of-vengeance-free-typing-game)
  - [AI-enhanced Apple Glass smart glasses set for 2026 release](https://appleinsider.com/articles/25/05/22/ai-enhanced-apple-glass-smart-glasses-set-for-2026-release?utm_medium=rss)
- - [State lawmakers and AGs from both parties, Democrats, consumer advocates, and others oppose GOP&#39;s push to ban state AI regulations for the next 10 years &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/250522/p47#a250522p47)
- - [What in the world are Jony Ive and Sam Altman building?](https://www.theverge.com/column/672505/jony-ive-sam-altman-smart-glasses-ai-hardware-wearables-gadgets)<!-- TECH:END -->
+ - [State lawmakers and AGs from both parties, Democrats, consumer advocates, and others oppose GOP&#39;s push to ban state AI regulations for the next 10 years &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/250522/p47#a250522p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

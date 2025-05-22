@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [A refined gentlemen](http://9gag.com/gag/a7o24B2)
- - 😝 [Holding a gun against a veteran and ending up getting their ass whooped](http://9gag.com/gag/ayNQEEM)
+ - 😝 [When Amazon Prime delivers... a surprise](http://9gag.com/gag/awyd6dD)
  - 💣 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)
  - 😝 [Tom Cruise has been defying gravity for 3 decades.](http://9gag.com/gag/axyPd41)
- - 👉 [Trump showing the president of south africa a video of politician in his country calling for white genocide](http://9gag.com/gag/azxZ7WK)<!-- MEMES:END -->
+ - 👉 [When your style evolves more than your playlist.](http://9gag.com/gag/aAy2WPR)<!-- MEMES:END -->
 
 ---
 

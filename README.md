@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US FTC drops a case that sought to block Microsoft&#39;s $69B purchase of Activision Blizzard, saying that pursuing the case was not in the public interest &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/250522/p52#a250522p52)
+ - [Valve’s huge Steam Deck update is now ready for everyone, including rival AMD handhelds](https://www.theverge.com/news/673114/valves-huge-steam-deck-update-is-now-ready-for-everyone-including-rival-amd-handhelds)
  - [FTC drops case against Microsoft’s Activision Blizzard deal](https://www.theverge.com/news/673123/ftc-drops-case-microsoft-activision-blizzard-acquisition)
  - [Sources: OnlyFans owner Fenix is in talks to sell OnlyFans to an investor group led by Forest Road Company at an ~$8B valuation and is also considering an IPO &lpar;Reuters&rpar;](http://www.techmeme.com/250522/p51#a250522p51)
- - [Apple Watch with cameras reportedly canceled, but camera-equipped AirPods still on track](https://appleinsider.com/articles/25/05/22/apple-watch-with-cameras-reportedly-canceled-but-camera-equipped-airpods-still-on-track?utm_medium=rss)
- - [Anthropic releases new API features for building agents: a code execution tool, MCP connector, Files API, and extended prompt caching, all in public beta &lpar;Anthropic&rpar;](http://www.techmeme.com/250522/p50#a250522p50)
- - [Xiaomi’s new PU7 spells trouble for Tesla in China](https://www.theverge.com/news/673023/xiaomi-pu7-ev-suv-china-tesla-model-y)<!-- TECH:END -->
+ - [Apple Watch with cameras reportedly canceled, but camera-equipped AirPods still on track](https://appleinsider.com/articles/25/05/22/apple-watch-with-cameras-reportedly-canceled-but-camera-equipped-airpods-still-on-track?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

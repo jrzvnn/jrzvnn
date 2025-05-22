@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [OpenAI &amp; Jony Ive&#39;s AI necklace rumored to have iPod shuffle form factor](https://appleinsider.com/articles/25/05/22/openai-jony-ives-ai-necklace-rumored-to-have-ipod-shuffle-form-factor?utm_medium=rss)
  - [Now you can watch the Internet Archive preserve documents in real time](https://www.theverge.com/news/672682/internet-archive-microfiche-lo-fi-beats-channel)
  - [The US House passes the One Big Beautiful Bill Act, a budget bill that would ban states from enforcing AI laws for 10 years; the bill now heads to the Senate &lpar;Tech Policy Press&rpar;](http://www.techmeme.com/250522/p29#a250522p29)
- - [Google’s Home APIs are gaining Gemini intelligence](https://www.theverge.com/news/672404/google-home-apis-gemini-intelligence-nest-smart-home)
- - [Microsoft is racing to build an AI ‘agent factory’](https://www.theverge.com/notepad-microsoft-newsletter/672598/microsoft-ai-agent-factory-jay-parikh-interview)<!-- TECH:END -->
+ - [Signal Will Black Out Windows Recall Screenshots to Preserve Privacy](https://www.cnet.com/tech/signal-will-black-out-windows-recall-screenshots-to-preserve-privacy/#ftag=CAD590a51e)
+ - [Google’s Home APIs are gaining Gemini intelligence](https://www.theverge.com/news/672404/google-home-apis-gemini-intelligence-nest-smart-home)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

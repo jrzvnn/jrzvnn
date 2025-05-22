@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I didn&#39;t ask for a sequel](http://9gag.com/gag/aGy2Yd5)
- - 😝 [Trust the process](http://9gag.com/gag/aMVXeM6)
- - 💣 [Didn\u2019t expect much, but this movie really delivered.](http://9gag.com/gag/aoy8EX2)
+ - 😝 [New mayor of Rotherham : `This is for Islam. This is for Hijab. This is for Pakistan.` Well done, UK.](http://9gag.com/gag/aryq6Xy)
+ - 😝 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)
+ - 💣 [Holding a gun against a veteran and ending up getting their ass whooped](http://9gag.com/gag/ayNQEEM)
  - 😝 [Tom Cruise has been defying gravity for 3 decades.](http://9gag.com/gag/axyPd41)
- - 👉 [Now THATS a Masterpiece](http://9gag.com/gag/avyv0vd)<!-- MEMES:END -->
+ - 👉 [Trump showing the president of south africa a video of politician in his country calling for white genocide](http://9gag.com/gag/azxZ7WK)<!-- MEMES:END -->
 
 ---
 

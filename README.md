@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Manners Maketh Man`](http://9gag.com/gag/aO8Pwwy)
- - 😝 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)
- - 💣 [Update: Leader is injured](http://9gag.com/gag/aQzZwbK)
- - 😝 [I\u2019d agree it\u2019s pretty good.](http://9gag.com/gag/aD2VprB)
+ - 😝 [Donald Trump absolutely cooked the South African president. Look at them sitting in shame.](http://9gag.com/gag/aqyz4eL)
+ - 😝 [Update: Leader is injured](http://9gag.com/gag/aQzZwbK)
+ - 💣 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)
+ - 😝 [The goodest boi](http://9gag.com/gag/aqyW3XZ)
  - 👉 [Holding a gun against a veteran and ending up getting their ass whooped](http://9gag.com/gag/ayNQEEM)<!-- MEMES:END -->
 
 ---

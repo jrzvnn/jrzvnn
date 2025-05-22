@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)
- - 😝 [When your style evolves more than your playlist.](http://9gag.com/gag/aAy2WPR)
- - 💣 [What&#39;s it for?!](http://9gag.com/gag/adBeZ4D)
- - 😝 [Who knew parking lots could be this bright?](http://9gag.com/gag/awy4Nd4)
+ - 😝 [What&#39;s it for?!](http://9gag.com/gag/adBeZ4D)
+ - 💣 [When your style evolves more than your playlist.](http://9gag.com/gag/aAy2WPR)
+ - 😝 [The goodest boi](http://9gag.com/gag/aqyW3XZ)
  - 👉 [Guy being a saver](http://9gag.com/gag/aqyWqAv)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is making a five-part documentary on Martin Scorsese](https://www.theverge.com/news/672393/apple-tv-plus-martin-scorsese-documentary)
- - [18 Best Toiletry Bags, Tested Over Many Miles &lpar;2025&rpar;](https://www.wired.com/gallery/best-toiletry-bags/)
- - [Two new books on OpenAI and the AI industry show how Sam Altman became one of tech&#39;s great survivors, outlasting Elon Musk and returning after being sacked &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/250522/p19#a250522p19)
- - [Analysis: since 2023, US states enacted 120+ deepfake-related laws, with 26 passed in 2025 alone; California passed eight deepfake bills in September 2024 &lpar;Tiffany Hsu/New York Times&rpar;](http://www.techmeme.com/250522/p18#a250522p18)
- - [M&amp;S CEO Stuart Machin says hackers accessed the UK retailer&#39;s systems using social engineering tactics via a third-party supplier, putting M&amp;S &quot;on its backside&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250522/p17#a250522p17)<!-- TECH:END -->
+ - [Best Internet Providers in Arlington, Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-arlington-va/#ftag=CAD590a51e)
+ - [Xiaomi CEO Lei Jun unveils the Xring O1, a Xiaomi-made 3nm chip that will power three devices, including the Tablet 7 Ultra, in a bid to compete with Apple &lpar;Bloomberg&rpar;](http://www.techmeme.com/250522/p20#a250522p20)
+ - [I Hated Smart Glasses Until I Tried Google&#39;s Android XR. Now I See the Potential](https://www.cnet.com/tech/computing/i-hated-smart-glasses-until-i-tried-googles-android-xr-now-i-see-the-potential/#ftag=CAD590a51e)
+ - [&#39;Untold: The Liver King&#39; Is in Netflix&#39;s Top 10: Here Are 3 More &#39;Untold&#39; Documentaries That Are Even Better](https://www.cnet.com/tech/services-and-software/untold-the-liver-king-is-in-netflixs-top-10-here-are-3-more-untold-documentaries-that-are-even-better/#ftag=CAD590a51e)
+ - [Who the Heck Is Gonna Pay $250 for Google AI Ultra?](https://www.cnet.com/tech/services-and-software/who-the-heck-is-gonna-pay-250-for-google-ai-ultra/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

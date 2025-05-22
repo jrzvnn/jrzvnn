@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trust the process](http://9gag.com/gag/aMVXeM6)
- - 😝 [Trump showing the president of south africa a video of politician in his country calling for white genocide](http://9gag.com/gag/azxZ7WK)
- - 💣 [Dark humor at its finest](http://9gag.com/gag/a9yXbX1)
+ - 😝 [Text to Absolute Cinema, Veo3](http://9gag.com/gag/a872ryQ)
+ - 😝 [What&#39;s it for?!](http://9gag.com/gag/adBeZ4D)
+ - 💣 [Maybe it is a scam after all](http://9gag.com/gag/aZZj980)
  - 😝 [Tom Cruise has been defying gravity for 3 decades.](http://9gag.com/gag/axyPd41)
- - 👉 [Didn\u2019t expect much, but this movie really delivered.](http://9gag.com/gag/aoy8EX2)<!-- MEMES:END -->
+ - 👉 [How to disarm an attacker](http://9gag.com/gag/aND4y4K)<!-- MEMES:END -->
 
 ---
 

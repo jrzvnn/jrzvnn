@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Donald Trump absolutely cooked the South African president. Look at them sitting in shame.](http://9gag.com/gag/aqyz4eL)
- - 😝 [John Wick](http://9gag.com/gag/a9y2QP0)
- - 💣 [Did he get paid for this scene?](http://9gag.com/gag/agm4Pnv)
- - 😝 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)
- - 👉 [When Amazon Prime delivers... a surprise](http://9gag.com/gag/awyd6dD)<!-- MEMES:END -->
+ - 😝 [A pair of pair of scissors goes hard](http://9gag.com/gag/aO8Pg86)
+ - 😝 [When Amazon Prime delivers... a surprise](http://9gag.com/gag/awyd6dD)
+ - 💣 [Update: Leader is injured](http://9gag.com/gag/aQzZwbK)
+ - 😝 [`Manners Maketh Man`](http://9gag.com/gag/aO8Pwwy)
+ - 👉 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)<!-- MEMES:END -->
 
 ---
 

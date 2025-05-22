@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [When Earth&#39;s curves prove a point](http://9gag.com/gag/aLnX6nv)
  - 😝 [Gaming advice](http://9gag.com/gag/adBe3jN)
- - 💣 [Trust the process](http://9gag.com/gag/aMVXeM6)
- - 😝 [When gaming becomes a full-time job](http://9gag.com/gag/aQz261r)
+ - 💣 [When gaming becomes a full-time job](http://9gag.com/gag/aQz261r)
+ - 😝 [Trust the process](http://9gag.com/gag/aMVXeM6)
  - 👉 [Big thanks to all of you degenerates for laughs and memes &lpar;not propaganda&rpar; F you and see you tomorrow](http://9gag.com/gag/a87wdR6)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Donald Trump absolutely cooked the South African president. Look at them sitting in shame.](http://9gag.com/gag/aqyz4eL)
- - 😝 [Update: Leader is injured](http://9gag.com/gag/aQzZwbK)
+ - 😝 [A pair of pair of scissors goes hard](http://9gag.com/gag/aO8Pg86)
+ - 😝 [Bro removed it like it was his daily job](http://9gag.com/gag/a7o2j3w)
  - 💣 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)
- - 😝 [The goodest boi](http://9gag.com/gag/aqyW3XZ)
- - 👉 [Holding a gun against a veteran and ending up getting their ass whooped](http://9gag.com/gag/ayNQEEM)<!-- MEMES:END -->
+ - 😝 [Holding a gun against a veteran and ending up getting their ass whooped](http://9gag.com/gag/ayNQEEM)
+ - 👉 [The goodest boi](http://9gag.com/gag/aqyW3XZ)<!-- MEMES:END -->
 
 ---
 

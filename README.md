@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s it for?!](http://9gag.com/gag/adBeZ4D)
+ - 😝 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)
  - 😝 [When your style evolves more than your playlist.](http://9gag.com/gag/aAy2WPR)
- - 💣 [Proof that fashion choices have lasting consequences](http://9gag.com/gag/aByGDMP)
- - 😝 [Guy being a saver](http://9gag.com/gag/aqyWqAv)
- - 👉 [`Manners Maketh Man`](http://9gag.com/gag/aO8Pwwy)<!-- MEMES:END -->
+ - 💣 [What&#39;s it for?!](http://9gag.com/gag/adBeZ4D)
+ - 😝 [Who knew parking lots could be this bright?](http://9gag.com/gag/awy4Nd4)
+ - 👉 [Guy being a saver](http://9gag.com/gag/aqyWqAv)<!-- MEMES:END -->
 
 ---
 

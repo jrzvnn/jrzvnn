@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When city planning takes a sideways view](http://9gag.com/gag/a4P2eKw)
- - 😝 [Coca Cholera](http://9gag.com/gag/aqyWqyY)
- - 💣 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)
+ - 😝 [Bro removed it like it was his daily job](http://9gag.com/gag/a7o2j3w)
+ - 😝 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)
+ - 💣 [Coca Cholera](http://9gag.com/gag/aqyWqyY)
  - 😝 [Tom Cruise has been defying gravity for 3 decades.](http://9gag.com/gag/axyPd41)
- - 👉 [Little advice](http://9gag.com/gag/awydqxR)<!-- MEMES:END -->
+ - 👉 [Update: Leader is injured](http://9gag.com/gag/aQzZwbK)<!-- MEMES:END -->
 
 ---
 

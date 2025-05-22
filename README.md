@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [So long, EV tax credits](https://www.theverge.com/electric-cars/672911/ev-tax-credit-elimninate-house-republican-bill)
+ - [Sources: Apple aims to release smart glasses at the end of 2026 as part of a push into AI devices, but has shelved plans for an Apple Watch with a camera &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250522/p45#a250522p45)
  - [Microsoft Notepad can now write for you using generative AI](https://www.theverge.com/news/672984/microsoft-notepad-paint-snipping-tool-generative-ai-windows-insiders)
  - [House GOP moves to slash renewable energy tax breaks](https://www.theverge.com/news/672787/house-republican-spending-bill-tax-credits-renewable-energy)
- - [Apollo Research, which Anthropic partnered with to test Opus 4, recommended against deploying an early version due to its tendency to &quot;scheme&quot; and deceive &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250522/p44#a250522p44)
- - [Anthropic says Opus 4 will use an email tool to &quot;whistleblow&quot; if it detects users doing something &quot;egregiously evil&quot;, like marketing a drug based on faked data &lpar;Sam Bowman/@sleepinyourhat&rpar;](http://www.techmeme.com/250522/p43#a250522p43)
- - [Docs: ODNI is developing a centralized portal to streamline the purchase of commercially available information, like location data, by US intelligence agencies &lpar;Sam Biddle/The Intercept&rpar;](http://www.techmeme.com/250522/p42#a250522p42)<!-- TECH:END -->
+ - [Apollo Research, which Anthropic partnered with to test Opus 4, recommended against deploying an early version due to its tendency to &quot;scheme&quot; and deceive &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250522/p44#a250522p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

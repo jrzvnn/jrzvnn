@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I\u2019d agree it\u2019s pretty good.](http://9gag.com/gag/aD2VprB)
- - 😝 [`Manners Maketh Man`](http://9gag.com/gag/aO8Pwwy)
- - 💣 [Guy being a saver](http://9gag.com/gag/aqyWqAv)
+ - 😝 [What&#39;s it for?!](http://9gag.com/gag/adBeZ4D)
  - 😝 [When your style evolves more than your playlist.](http://9gag.com/gag/aAy2WPR)
- - 👉 [John Wick](http://9gag.com/gag/a9y2QP0)<!-- MEMES:END -->
+ - 💣 [Proof that fashion choices have lasting consequences](http://9gag.com/gag/aByGDMP)
+ - 😝 [Guy being a saver](http://9gag.com/gag/aqyWqAv)
+ - 👉 [`Manners Maketh Man`](http://9gag.com/gag/aO8Pwwy)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Telegram told investors ahead of a ~$1.5B bond offering that revenue reached $1.4B in 2024, up from $343M in 2023, and net profit reached $540M in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/250522/p5#a250522p5)
  - [Microsoft researchers and others detail Aurora, an AI weather model they say makes accurate 10-day forecasts faster and at smaller scales than many other models &lpar;Rebecca Dzombak/New York Times&rpar;](http://www.techmeme.com/250522/p4#a250522p4)
  - [A profile of Bill Zanker, who sources say has been key in marketing the $TRUMP memecoin and organizing a dinner with Trump for the top 220 holders of the coin &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/250522/p3#a250522p3)
  - [Samsung Promo Codes: 30% Off | May 2025](https://www.wired.com/story/samsung-promo-codes/)
- - [Fujifilm’s X Half camera is so dedicated to the analog vibes, it can’t shoot RAW](https://www.theverge.com/news/672268/fujifilm-x-half-digital-compact-camera-fixed-lens-analog-price-specs)
- - [An NY jury convicts Braden John Karony, the former CEO of cryptocurrency company SafeMoon, of conspiracy to defraud the US, money laundering, and wire fraud &lpar;Turner Wright/Cointelegraph&rpar;](http://www.techmeme.com/250522/p2#a250522p2)<!-- TECH:END -->
+ - [Fujifilm’s X Half camera is so dedicated to the analog vibes, it can’t shoot RAW](https://www.theverge.com/news/672268/fujifilm-x-half-digital-compact-camera-fixed-lens-analog-price-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

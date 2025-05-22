@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The goodest boi](http://9gag.com/gag/aqyW3XZ)
- - 😝 [Bro removed it like it was his daily job](http://9gag.com/gag/a7o2j3w)
- - 💣 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)
+ - 😝 [Update: Leader is injured](http://9gag.com/gag/aQzZwbK)
+ - 😝 [A pair of pair of scissors goes hard](http://9gag.com/gag/aO8Pg86)
+ - 💣 [Trump showing the president of south africa a video of politician in his country calling for white genocide](http://9gag.com/gag/azxZ7WK)
  - 😝 [Tom Cruise has been defying gravity for 3 decades.](http://9gag.com/gag/axyPd41)
- - 👉 [Update: Leader is injured](http://9gag.com/gag/aQzZwbK)<!-- MEMES:END -->
+ - 👉 [Did he get paid for this scene?](http://9gag.com/gag/agm4Pnv)<!-- MEMES:END -->
 
 ---
 

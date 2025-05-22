@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google is using its extensive data on users to give its AI models an advantage over OpenAI and Anthropic, starting with its opt-in Gemini with personalization &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250522/p13#a250522p13)
  - [Running app Strava raised new funding at a $2.2B valuation including debt, up from $1.5B after raising $110M in November 2020, and nears $500M in ARR &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/250522/p12#a250522p12)
  - [Details leak about Jony Ive&amp;#8217;s new ‘screen-free’ OpenAI device](https://www.theverge.com/news/672357/openai-ai-device-sam-altman-jony-ive)
- - [How SpaceX&#39;s Starlink moved quickly to solidify its lead in the satellite internet business, as its competitors face production and launch capacity bottlenecks &lpar;Financial Times&rpar;](http://www.techmeme.com/250522/p11#a250522p11)
- - [Lenovo reports Q4 revenue up 23% to $16.98B, vs. $15.6B est., and net profit down 64% YoY to ~$90M, below $225.8M est., reflecting AI and PC market competition &lpar;Bloomberg&rpar;](http://www.techmeme.com/250522/p10#a250522p10)
- - [China is catching up with the US in AI, robotics, and other sectors, driven by an R&amp;D spending rise, hitting $500B in 2024, up 3x since Xi took office in 2012 &lpar;Brian Spegele/Wall Street Journal&rpar;](http://www.techmeme.com/250522/p9#a250522p9)<!-- TECH:END -->
+ - [Concerts and Airports Hit by Measles Exposures. Do You Need Another Measles Booster?](https://www.cnet.com/health/medical/concerts-and-airports-hit-by-measles-exposures-do-you-need-another-measles-booster/#ftag=CAD590a51e)
+ - [How SpaceX&#39;s Starlink moved quickly to solidify its lead in the satellite internet business, as its competitors face production and launch capacity bottlenecks &lpar;Financial Times&rpar;](http://www.techmeme.com/250522/p11#a250522p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

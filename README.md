@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta is testing turning images on some Instagram feeds into 3D photos on the Instagram app for Quest, as well as a new Horizon OS interface called Navigator &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250522/p54#a250522p54)
  - [Elden Ring is getting a film adaptation](https://www.theverge.com/news/673247/elden-ring-film-adaptation-alex-garland-a24)
  - [The US DOJ indicts a Russian national for allegedly leading the Qakbot malware operation that infected 700K+ computers and enabled ransomware attacks for years &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/250522/p53#a250522p53)
- - [YouTube hires longtime Disney exec to head up live sports](https://www.theverge.com/news/673139/youtube-disney-justin-connolly-sports-media-head)
- - [Tech CEOs are using AI to replace themselves](https://www.theverge.com/news/673194/tech-ceos-zoom-klarna-replace-earnings)
- - [Ricoh is finally making a GR IV camera, and it&amp;#8217;s coming in the fall](https://www.theverge.com/news/673127/ricoh-gr-iv-street-photography-camera-specs-announcement)<!-- TECH:END -->
+ - [Disney sues YouTube for hiring away a sports and media exec](https://www.theverge.com/news/673139/youtube-disney-justin-connolly-sports-media-head)
+ - [Tech CEOs are using AI to replace themselves](https://www.theverge.com/news/673194/tech-ceos-zoom-klarna-replace-earnings)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

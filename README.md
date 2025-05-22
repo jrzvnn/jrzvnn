@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It\u2019s a little one &lpar;single largest raccoon ever &rpar;](http://9gag.com/gag/a2v2BRO)
- - 😝 [Guy being a saver](http://9gag.com/gag/aqyWqAv)
- - 💣 [Ellie&#39;s secret weapon &lpar;GooBrain on yt&rpar;](http://9gag.com/gag/axyR58M)
- - 😝 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)
- - 👉 [John Wick](http://9gag.com/gag/a9y2QP0)<!-- MEMES:END -->
+ - 😝 [I\u2019d agree it\u2019s pretty good.](http://9gag.com/gag/aD2VprB)
+ - 😝 [When your style evolves more than your playlist.](http://9gag.com/gag/aAy2WPR)
+ - 💣 [Did he get paid for this scene?](http://9gag.com/gag/agm4Pnv)
+ - 😝 [`Manners Maketh Man`](http://9gag.com/gag/aO8Pwwy)
+ - 👉 [What&#39;s it for?!](http://9gag.com/gag/adBeZ4D)<!-- MEMES:END -->
 
 ---
 

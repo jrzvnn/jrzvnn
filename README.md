@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Donald Trump absolutely cooked the South African president. Look at them sitting in shame.](http://9gag.com/gag/aqyz4eL)
- - 😝 [Giggity](http://9gag.com/gag/apRAEdE)
- - 💣 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)
+ - 😝 [When your style evolves more than your playlist.](http://9gag.com/gag/aAy2WPR)
+ - 😝 [Do you even lift bro](http://9gag.com/gag/aXPWDKb)
+ - 💣 [Didn\u2019t expect much, but this movie really delivered.](http://9gag.com/gag/aoy8EX2)
  - 😝 [Tom Cruise has been defying gravity for 3 decades.](http://9gag.com/gag/axyPd41)
- - 👉 [New mayor of Rotherham : `This is for Islam. This is for Hijab. This is for Pakistan.` Well done, UK.](http://9gag.com/gag/aryq6Xy)<!-- MEMES:END -->
+ - 👉 [Giggity](http://9gag.com/gag/apRAEdE)<!-- MEMES:END -->
 
 ---
 

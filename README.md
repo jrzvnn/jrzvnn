@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inside the making of ASML&#39;s High NA: the latest-gen EUV machine costs $400M+, has four modules, is assembled in the Netherlands, and five units have shipped &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/250522/p22#a250522p22)
+ - [LG’s Blazingly Brilliant G5 OLED Is the Pacesetter for Best TV of the Year](https://www.wired.com/review/lg-g5/)
  - [A security researcher finds an exposed Elastic database with 184M records, including login credentials for Apple, Meta, Google, and others; its owner is unknown &lpar;Wired&rpar;](http://www.techmeme.com/250522/p21#a250522p21)
- - [As the game industry cuts back, accessibility is feeling the impact](https://www.theverge.com/games/669419/gaming-industry-accessibility-cutbacks)
- - [Switchbot’s latest lock can unlock with a look](https://www.theverge.com/news/672367/switchbot-lock-ultra-3d-facial-recognition-price-release-date)
- - [Amazon&amp;#8217;s AI voiceovers will talk you through product features](https://www.theverge.com/news/672442/amazon-ai-voiceovers-product-features)
- - [Best Internet Providers in Arlington, Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-arlington-va/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Too Many Nightly Trips to the Bathroom? Simple Tips for Peeing Less and Saving Sleep](https://www.cnet.com/health/sleep/too-many-nightly-trips-to-the-bathroom-simple-tips-for-peeing-less-and-saving-sleep/#ftag=CAD590a51e)
+ - [Best Internet Providers in Anaheim, California](https://www.cnet.com/home/internet/best-internet-providers-in-anaheim-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

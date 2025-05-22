@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An NY jury convicts Braden John Karony, the former CEO of cryptocurrency company SafeMoon, of conspiracy to defraud the US, money laundering, and wire fraud &lpar;Turner Wright/Cointelegraph&rpar;](http://www.techmeme.com/250522/p2#a250522p2)
- - [Marcos Galperin, founder and CEO of Latin American e-commerce giant MercadoLibre, will step down in late 2025 and be replaced by commerce head Ariel Szarfsztejn &lpar;Andre Romani/Reuters&rpar;](http://www.techmeme.com/250522/p1#a250522p1)
- - [Leaked recording: Sam Altman told staff that OpenAI aims to ship 100M AI &quot;companion&quot; devices, with the goal of releasing a device by late next year &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250521/p60#a250521p60)
- - [NYC-based Siro, which offers AI-powered coaching for sales reps, raised a $50M Series B led by SignalFire, bringing its total raised to $75M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250521/p59#a250521p59)
- - [How to backup your Photos library in macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-backup-your-photos-library-in-macos-sequoia?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft researchers and others detail Aurora, an AI weather model they say makes accurate 10-day forecasts faster and at smaller scales than many other models &lpar;Rebecca Dzombak/New York Times&rpar;](http://www.techmeme.com/250522/p4#a250522p4)
+ - [A profile of Bill Zanker, who sources say has been key in marketing the $TRUMP memecoin and organizing a dinner with Trump for the top 220 holders of the coin &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/250522/p3#a250522p3)
+ - [Samsung Promo Codes: 30% Off | May 2025](https://www.wired.com/story/samsung-promo-codes/)
+ - [Fujifilm’s X Half camera is so dedicated to the analog vibes, it can’t shoot RAW](https://www.theverge.com/news/672268/fujifilm-x-half-digital-compact-camera-fixed-lens-analog-price-specs)
+ - [An NY jury convicts Braden John Karony, the former CEO of cryptocurrency company SafeMoon, of conspiracy to defraud the US, money laundering, and wire fraud &lpar;Turner Wright/Cointelegraph&rpar;](http://www.techmeme.com/250522/p2#a250522p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

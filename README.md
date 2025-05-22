@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cool dude landlord](http://9gag.com/gag/a5Q2mGy)
  - 😝 [Update: Leader is injured](http://9gag.com/gag/aQzZwbK)
- - 💣 [The goodest boi](http://9gag.com/gag/aqyW3XZ)
- - 😝 [Coca Cholera](http://9gag.com/gag/aqyWqyY)
- - 👉 [Donald Trump absolutely cooked the South African president. Look at them sitting in shame.](http://9gag.com/gag/aqyz4eL)<!-- MEMES:END -->
+ - 😝 [Trump showing the president of south africa a video of politician in his country calling for white genocide](http://9gag.com/gag/azxZ7WK)
+ - 💣 [Holding a gun against a veteran and ending up getting their ass whooped](http://9gag.com/gag/ayNQEEM)
+ - 😝 [Bro removed it like it was his daily job](http://9gag.com/gag/a7o2j3w)
+ - 👉 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)<!-- MEMES:END -->
 
 ---
 

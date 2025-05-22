@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tech CEOs are using AI to replace themselves](https://www.theverge.com/news/673194/tech-ceos-zoom-klarna-replace-earnings)
+ - [Ricoh is finally making a GR IV camera, and it&amp;#8217;s coming in the fall](https://www.theverge.com/news/673127/ricoh-gr-iv-street-photography-camera-specs-announcement)
+ - [Here are 20 of our favorite deals you can still grab from REI’s anniversary sale](https://www.theverge.com/tech/668088/rei-anniversary-sale-2025-garmin-watch-inreach-stoves-water-filters-deal-sale)
  - [The US FTC drops a case that sought to block Microsoft&#39;s $69B purchase of Activision Blizzard, saying that pursuing the case was not in the public interest &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/250522/p52#a250522p52)
- - [Valve’s huge Steam Deck update is now ready for everyone, including rival AMD handhelds](https://www.theverge.com/news/673114/valves-huge-steam-deck-update-is-now-ready-for-everyone-including-rival-amd-handhelds)
- - [FTC drops case against Microsoft’s Activision Blizzard deal](https://www.theverge.com/news/673123/ftc-drops-case-microsoft-activision-blizzard-acquisition)
- - [Sources: OnlyFans owner Fenix is in talks to sell OnlyFans to an investor group led by Forest Road Company at an ~$8B valuation and is also considering an IPO &lpar;Reuters&rpar;](http://www.techmeme.com/250522/p51#a250522p51)
- - [Apple Watch with cameras reportedly canceled, but camera-equipped AirPods still on track](https://appleinsider.com/articles/25/05/22/apple-watch-with-cameras-reportedly-canceled-but-camera-equipped-airpods-still-on-track?utm_medium=rss)<!-- TECH:END -->
+ - [Valve’s huge Steam Deck update is now ready for everyone, including rival AMD handhelds](https://www.theverge.com/news/673114/valves-huge-steam-deck-update-is-now-ready-for-everyone-including-rival-amd-handhelds)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

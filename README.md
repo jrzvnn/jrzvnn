@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your style evolves more than your playlist.](http://9gag.com/gag/aAy2WPR)
- - 😝 [Bro removed it like it was his daily job](http://9gag.com/gag/a7o2j3w)
- - 💣 [It\u2019s a little one &lpar;single largest raccoon ever &rpar;](http://9gag.com/gag/a2v2BRO)
- - 😝 [Update: Leader is injured](http://9gag.com/gag/aQzZwbK)
- - 👉 [Did he get paid for this scene?](http://9gag.com/gag/agm4Pnv)<!-- MEMES:END -->
+ - 😝 [He must have had fond memories...](http://9gag.com/gag/aQzZG58)
+ - 😝 [My type of MC club](http://9gag.com/gag/a342o0N)
+ - 💣 [Peter Cullen the voice of Optimus Prime](http://9gag.com/gag/amoMDzV)
+ - 😝 [Seal waits until his friend is freed before escaping with him.](http://9gag.com/gag/adBe32Q)
+ - 👉 [Yosemite national park in California](http://9gag.com/gag/aByGqDZ)<!-- MEMES:END -->
 
 ---
 

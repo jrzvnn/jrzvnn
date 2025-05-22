@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)
- - 😝 [What&#39;s it for?!](http://9gag.com/gag/adBeZ4D)
- - 💣 [When your style evolves more than your playlist.](http://9gag.com/gag/aAy2WPR)
- - 😝 [The goodest boi](http://9gag.com/gag/aqyW3XZ)
- - 👉 [Guy being a saver](http://9gag.com/gag/aqyWqAv)<!-- MEMES:END -->
+ - 😝 [He must have had fond memories...](http://9gag.com/gag/aQzZG58)
+ - 😝 [My type of MC club](http://9gag.com/gag/a342o0N)
+ - 💣 [Peter Cullen the voice of Optimus Prime](http://9gag.com/gag/amoMDzV)
+ - 😝 [Seal waits until his friend is freed before escaping with him.](http://9gag.com/gag/adBe32Q)
+ - 👉 [When gaming becomes a full-time job](http://9gag.com/gag/aQz261r)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kuo: Ive and Altman&#39;s device could be larger than Humane&#39;s AI pin, may connect to smartphones and PCs to use their computing and display capabilities, and more &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250522/p25#a250522p25)
+ - [Honor’s 400 phones are midrangers built to last](https://www.theverge.com/news/672580/honor-400-pro-midrange-six-years-software)
+ - [Grid’s framed retro gadgets are up to 40 percent off for Father’s Day](https://www.theverge.com/tech/672571/grid-studio-iphone-4-game-boy-color-fathers-day-deal-sale)
  - [Verizon wants to wait longer before unlocking your phone](https://www.theverge.com/news/672565/verizon-fcc-phone-unlocking-requirement)
- - [Your iCloud password could be newly exposed from a giant password leak](https://appleinsider.com/articles/25/05/22/your-icloud-password-could-be-newly-exposed-from-a-giant-password-leak?utm_medium=rss)
- - [The Best Sleeping Pads For Campgrounds—Our Comfiest Picks &lpar;2025&rpar;](https://www.wired.com/gallery/best-camping-sleeping-pads/)
- - [Xiaomi’s first flagship phone chip is a genuine Snapdragon 8 Elite rival](https://www.theverge.com/news/672541/xiaomi-xring-o1-flagship-chipset-15s-pro-pad-7-ultra)
- - [Uber CEO Dara Khosrowshahi is okay with reinventing the bus](https://www.theverge.com/decoder-podcast-with-nilay-patel/672087/uber-dara-khosrowshahi-waymo-ai-bus-transit-tesla-self-driving)<!-- TECH:END -->
+ - [Your iCloud password could be newly exposed from a giant password leak](https://appleinsider.com/articles/25/05/22/your-icloud-password-could-be-newly-exposed-from-a-giant-password-leak?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

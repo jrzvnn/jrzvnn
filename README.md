@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia’s RTX 5060 review debacle should be a wake-up call for gamers and reviewers](https://www.theverge.com/pc-gaming/672637/nvidia-rtx-5060-review-meddling-gamersnexus-wake-up-call)
+ - [Anthropic adds &quot;thinking summaries&quot; to both Claude 4 models and is making its Claude Code agentic command-line tool generally available &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250522/p36#a250522p36)
+ - [Anthropic releases Opus 4 under stricter safety measures than any prior model after tests showed it could potentially aid novices in making biological weapons &lpar;Billy Perrigo/Time&rpar;](http://www.techmeme.com/250522/p35#a250522p35)
  - [Sonnet 4 is available to free and paid users, while Opus 4 is limited to paid users; Opus 4 API costs $15/$75 per 1M input/output tokens, Sonnet 4 costs $3/$15 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250522/p34#a250522p34)
- - [Anthropic says Rakuten deployed Opus 4 to code autonomously for seven hours on a complicated open-source project, paving the way for more proficient AI agents &lpar;Rhiannon Williams/MIT Technology Review&rpar;](http://www.techmeme.com/250522/p33#a250522p33)
- - [Anthropic&#39;s Jared Kaplan says the company stopped investing in chatbots at the end of 2024 and instead focused on improving Claude&#39;s ability to do complex tasks &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/250522/p32#a250522p32)
- - [A United Arab Emirates Lab Announces Frontier AI Projects—and a New Outpost in Silicon Valley](https://www.wired.com/story/the-united-arab-emirates-announces-frontier-ai-projects-and-a-new-lab-in-silicon-valley/)
- - [Google’s AI product names are confusing as hell](https://www.theverge.com/tech/671116/google-ai-product-names-confusing-gemini-deepmind-astra)<!-- TECH:END -->
+ - [Anthropic says Rakuten deployed Opus 4 to code autonomously for seven hours on a complicated open-source project, paving the way for more proficient AI agents &lpar;Rhiannon Williams/MIT Technology Review&rpar;](http://www.techmeme.com/250522/p33#a250522p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

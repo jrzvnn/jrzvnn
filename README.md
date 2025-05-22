@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Seal waits until his friend is freed before escaping with him.](http://9gag.com/gag/adBe32Q)
- - 😝 [Peter Cullen the voice of Optimus Prime](http://9gag.com/gag/amoMDzV)
- - 💣 [Yosemite national park in California](http://9gag.com/gag/aByGqDZ)
- - 😝 [Gaming advice](http://9gag.com/gag/adBe3jN)
- - 👉 [Who knew parking lots could be this bright?](http://9gag.com/gag/awy4Nd4)<!-- MEMES:END -->
+ - 😝 [Donald Trump absolutely cooked the South African president. Look at them sitting in shame.](http://9gag.com/gag/aqyz4eL)
+ - 😝 [John Wick](http://9gag.com/gag/a9y2QP0)
+ - 💣 [Did he get paid for this scene?](http://9gag.com/gag/agm4Pnv)
+ - 😝 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)
+ - 👉 [When Amazon Prime delivers... a surprise](http://9gag.com/gag/awyd6dD)<!-- MEMES:END -->
 
 ---
 

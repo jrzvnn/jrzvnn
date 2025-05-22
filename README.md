@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The goodest boi](http://9gag.com/gag/aqyW3XZ)
- - 😝 [Trump showing the president of south africa a video of politician in his country calling for white genocide](http://9gag.com/gag/azxZ7WK)
- - 💣 [Holding a gun against a veteran and ending up getting their ass whooped](http://9gag.com/gag/ayNQEEM)
+ - 😝 [Undercover footage smuggled out of North Korea shows reporter Kim Dong-cheol briefly interviewing a homeless 23-year-old girl in rural North Korea.](http://9gag.com/gag/aqyWvoR)
+ - 😝 [Little advice](http://9gag.com/gag/awydqxR)
+ - 💣 [When your style evolves more than your playlist.](http://9gag.com/gag/aAy2WPR)
  - 😝 [Tom Cruise has been defying gravity for 3 decades.](http://9gag.com/gag/axyPd41)
- - 👉 [Donald Trump absolutely cooked the South African president. Look at them sitting in shame.](http://9gag.com/gag/aqyz4eL)<!-- MEMES:END -->
+ - 👉 [A refined gentlemen](http://9gag.com/gag/a7o24B2)<!-- MEMES:END -->
 
 ---
 

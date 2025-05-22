@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The goodest boi](http://9gag.com/gag/aqyW3XZ)
+ - 😝 [When Amazon Prime delivers... a surprise](http://9gag.com/gag/awyd6dD)
+ - 😝 [Holding a gun against a veteran and ending up getting their ass whooped](http://9gag.com/gag/ayNQEEM)
+ - 💣 [When your style evolves more than your playlist.](http://9gag.com/gag/aAy2WPR)
  - 😝 [Did he get paid for this scene?](http://9gag.com/gag/agm4Pnv)
- - 💣 [Update: Leader is injured](http://9gag.com/gag/aQzZwbK)
- - 😝 [Coca Cholera](http://9gag.com/gag/aqyWqyY)
- - 👉 [Donald Trump absolutely cooked the South African president. Look at them sitting in shame.](http://9gag.com/gag/aqyz4eL)<!-- MEMES:END -->
+ - 👉 [The goodest boi](http://9gag.com/gag/aqyW3XZ)<!-- MEMES:END -->
 
 ---
 

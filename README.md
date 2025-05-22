@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bitcoin reached a new all-time high, surpassing $110,000 and breaking its January record, after slumping to $74,000 in April &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250521/p52#a250521p52)
- - [Signal says it will block by default screenshots of its Windows 11 desktop app due to the privacy risks of Microsoft&#39;s Recall; users can enable them in settings &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/250521/p51#a250521p51)
- - [A US district judge rules Google and Character.AI must face a Florida woman&#39;s lawsuit claiming Character.AI&#39;s chatbots caused her 14-year-old son&#39;s suicide &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/250521/p50#a250521p50)
- - [The iPhone 7 Plus and iPhone 8 are now on Apple&#39;s &#39;vintage products&#39; list](https://appleinsider.com/articles/25/05/21/the-iphone-7-plus-and-iphone-8-are-now-on-apples-vintage-products-list?utm_medium=rss)
- - [Daggerheart Is the Most Accessible TTRPG I&#39;ve Ever Played. Here&#39;s What I Love About It](https://www.cnet.com/culture/entertainment/daggerheart-is-the-most-accessible-ttrpg-ive-ever-played-heres-what-i-love-about-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Dyson’s new superskinny stick vac is as thin as its hair dryer](https://www.theverge.com/news/671739/dyson-pencilvac-vacuum-cleaner-thin-skinny-slimmest)
+ - [Digital physical therapy provider Hinge Health raised $437M in its US IPO, after the company and its backers sold 13.7M shares at $32 each, the top of its range &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/250521/p55#a250521p55)
+ - [Microsoft blocks emails that contain ‘Palestine’ after employee protests](https://www.theverge.com/tech/672312/microsoft-block-palestine-gaza-email)
+ - [Google DeepMind says Gemini Diffusion, an experimental text diffusion model demoed at Google I/O and available by waitlist, generates 1,000-2,000 tokens/second &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/250521/p54#a250521p54)
+ - [OpenAI updates its Responses API for building agentic applications to include remote MCP server support, image generation and Code Interpreter tools, and more &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250521/p53#a250521p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

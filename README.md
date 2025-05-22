@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s it for?!](http://9gag.com/gag/adBeZ4D)
  - 😝 [I\u2019d agree it\u2019s pretty good.](http://9gag.com/gag/aD2VprB)
+ - 😝 [Bro removed it like it was his daily job](http://9gag.com/gag/a7o2j3w)
  - 💣 [`Manners Maketh Man`](http://9gag.com/gag/aO8Pwwy)
  - 😝 [Guy being a saver](http://9gag.com/gag/aqyWqAv)
  - 👉 [When your style evolves more than your playlist.](http://9gag.com/gag/aAy2WPR)<!-- MEMES:END -->

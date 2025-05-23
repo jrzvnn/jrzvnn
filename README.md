@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vestaboard’s Note is a smaller, cheaper version of its hypnotic split-flap display](https://www.theverge.com/news/673559/vestaboard-note-split-flap-mechanical-display)
+ - [Here’s how you can get a Nintendo Switch 2 at launch — or at least try to](https://www.theverge.com/tech/653010/nintendo-switch-2-preorder-tips-tricks-release-date-price-availability-how-to-buy)
  - [Sources: Tim Cook called Texas Gov. Greg Abbott last week urging a veto or changes to a bill requiring Apple to verify users&#39; ages on its devices &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250523/p15#a250523p15)
  - [Intuit stock jumps 9%+ after reporting Q3 revenue up 15% YoY to $7.8B with FY 2025 guidance of $18.72B to $18.76B, up from $18.16B to $18.35B &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250523/p14#a250523p14)
- - [Is Elon Musk really getting the hell out of DOGE?](https://www.theverge.com/politics/673521/ielon-musk-doge-tesla-politics)
- - [Best PC Gaming Monitors &lpar;2025&rpar;: Samsung. AOC, and More](https://www.wired.com/gallery/best-gaming-monitors/)
- - [Samsung Galaxy S25 Edge review: a fresh take on the baseline model with its thin design and a good 200-megapixel camera but mediocre battery life and high price &lpar;Abrar Al-Heeti/CNET&rpar;](http://www.techmeme.com/250523/p13#a250523p13)<!-- TECH:END -->
+ - [Is Elon Musk really getting the hell out of DOGE?](https://www.theverge.com/politics/673521/ielon-musk-doge-tesla-politics)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [10% Off Canon Promo Code and Coupons](https://www.wired.com/story/canon-promo-code/)
+ - [Adidas Promo Codes &amp; Deals: 30% Off](https://www.wired.com/story/adidas-promo-code/)
  - [An interview with Niantic CEO John Hanke on the company selling its games business, pivoting to enterprise AI, returning to its digital mapping roots, and more &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/250523/p1#a250523p1)
  - [UK-based R3, a blockchain tech developer for financial institutions, partners with the Solana Foundation to let R3 customers use the Solana blockchain &lpar;Philip Stafford/Financial Times&rpar;](http://www.techmeme.com/250522/p58#a250522p58)
- - [Marvel Rivals&#39; Sharknado Team-Up Ability Cements the Game&#39;s Fun Direction](https://www.cnet.com/tech/gaming/marvel-rivals-sharknado-team-up-ability-cements-the-games-fun-direction/#ftag=CAD590a51e)
- - [Sources: companies co-owned by JPMorgan Chase, BOA, Citigroup, Wells Fargo, and other large commercial banks are exploring whether to issue a joint stablecoin &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250522/p57#a250522p57)
- - [Yes, an Elden Ring Live-Action Movie Directed by Alex Garland Is Coming](https://www.cnet.com/tech/gaming/yes-an-elden-ring-live-action-movie-directed-by-alex-garland-is-coming/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Marvel Rivals&#39; Sharknado Team-Up Ability Cements the Game&#39;s Fun Direction](https://www.cnet.com/tech/gaming/marvel-rivals-sharknado-team-up-ability-cements-the-games-fun-direction/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

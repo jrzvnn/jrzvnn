@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Text to Absolute Cinema, Veo3](http://9gag.com/gag/a872ryQ)
- - 😝 [What&#39;s it for?!](http://9gag.com/gag/adBeZ4D)
- - 💣 [Maybe it is a scam after all](http://9gag.com/gag/aZZj980)
+ - 😝 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)
+ - 😝 [Mmm-hmm](http://9gag.com/gag/a0eEvzQ)
+ - 💣 [What&#39;s inside Mexican jumping beans](http://9gag.com/gag/aryqPey)
  - 😝 [Tom Cruise has been defying gravity for 3 decades.](http://9gag.com/gag/axyPd41)
- - 👉 [How to disarm an attacker](http://9gag.com/gag/aND4y4K)<!-- MEMES:END -->
+ - 👉 [A refined gentlemen](http://9gag.com/gag/a7o24B2)<!-- MEMES:END -->
 
 ---
 

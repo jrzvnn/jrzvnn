@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tim Cook tried to kill Texas App Store age verification bill by calling the governor](https://appleinsider.com/articles/25/05/23/tim-cook-tried-to-kill-texas-app-store-age-verification-bill-by-calling-the-governor?utm_medium=rss)
+ - [Inside Anthropic&#39;s First Developer Day, Where AI Agents Took Center Stage](https://www.wired.com/story/anthropic-first-developer-conference/)
+ - [A Helicopter, Halibut, and ‘Y.M.C.A’: Inside Donald Trump’s Memecoin Dinner](https://www.wired.com/story/a-helicopter-halibut-and-ymca-inside-donald-trumps-memecoin-dinner/)
  - [Monarch, which makes a personal finance app, raised a $75M Series B at a $850M valuation, says its subscribers grew by 20x since Intuit closed Mint in 2023 &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/250523/p17#a250523p17)
- - [We Hand-Picked the 52 Best Deals From the 2025 REI Anniversary Sale](https://www.wired.com/story/rei-anniversary-sale-may-2025/)
- - [Let&#39;s Talk About ChatGPT and Cheating in the Classroom](https://www.wired.com/story/uncanny-valley-podcast-chatgpt-cheating-in-the-classroom/)
- - [Fujifilm X Half hands-on: whimsical, refreshing, and simply fun](https://www.theverge.com/tech/673538/fujifilm-x-half-camera-hands-on)
- - [How the China-U.S. trade fight is putting your device purchases at risk](https://appleinsider.com/articles/25/05/23/how-the-china-us-trade-fight-is-putting-your-device-purchases-at-risk?utm_medium=rss)<!-- TECH:END -->
+ - [We Hand-Picked the 52 Best Deals From the 2025 REI Anniversary Sale](https://www.wired.com/story/rei-anniversary-sale-may-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

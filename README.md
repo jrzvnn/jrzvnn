@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [When your ROI is a real knockout](http://9gag.com/gag/avyvg9E)
- - 😝 [Still one of the best loops I&#39;ve ever seen](http://9gag.com/gag/aMVXrbW)
- - 💣 [Tropic Thunder Has the best Tom Cruise , RDJ and Tobey Maguire role](http://9gag.com/gag/aZZ2PBQ)
+ - 😝 [Tropic Thunder Has the best Tom Cruise , RDJ and Tobey Maguire role](http://9gag.com/gag/aZZ2PBQ)
+ - 💣 [Still one of the best loops I&#39;ve ever seen](http://9gag.com/gag/aMVXrbW)
  - 😝 [When organizing your sock drawer seems more appealing than tackling your overdue tasks. \ud83d\udd75\ud83c\udffd\u2642\ufe0f\ud83d\udc69\ud83c\udffd\ud83c\udf3e\ud83d\udc69\ud83c\udffb\ud83d\udd27](http://9gag.com/gag/aByX3wD)
  - 👉 [Covering Blue - EIffel 65 on a Harp](http://9gag.com/gag/aGy2wjw)<!-- MEMES:END -->
 

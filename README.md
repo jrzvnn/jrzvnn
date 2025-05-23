@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Donald Trump absolutely cooked the South African president. Look at them sitting in shame.](http://9gag.com/gag/aqyz4eL)
- - 😝 [What&#39;s inside Mexican jumping beans](http://9gag.com/gag/aryqPey)
- - 💣 [How to disarm an attacker](http://9gag.com/gag/aND4y4K)
- - 😝 [Mmm-hmm](http://9gag.com/gag/a0eEvzQ)
- - 👉 [The progression of ALS](http://9gag.com/gag/a342oBe)<!-- MEMES:END -->
+ - 😝 [Little advice](http://9gag.com/gag/awydqxR)
+ - 😝 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)
+ - 💣 [Donald Trump absolutely cooked the South African president. Look at them sitting in shame.](http://9gag.com/gag/aqyz4eL)
+ - 😝 [The progression of ALS](http://9gag.com/gag/a342oBe)
+ - 👉 [Mmm-hmm](http://9gag.com/gag/a0eEvzQ)<!-- MEMES:END -->
 
 ---
 

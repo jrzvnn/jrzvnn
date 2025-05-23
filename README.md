@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Presidential seals, &amp;#8220;light vetting,&amp;#8221; $100,000 gem-encrusted watches, and a Marriott afterparty](https://www.theverge.com/politics/673870/trump-meme-coin-dinner-justin-sun-watch-presidential-seal)
+ - [Presidential seals, ‘light vetting,’ $100,000 gem-encrusted watches, and a Marriott afterparty](https://www.theverge.com/politics/673870/trump-meme-coin-dinner-justin-sun-watch-presidential-seal)
  - [Trump&#39;s 25% smartphone tariff starts just in time for the iPhone 17](https://appleinsider.com/articles/25/05/23/trumps-25-smartphone-tariff-starts-just-in-time-for-the-iphone-17?utm_medium=rss)
  - [Experts say some Trump officials&#39; plans to amp up cyberattacks against China would risk retaliation the US is increasingly unprepared for amid budget cuts &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/250523/p25#a250523p25)
  - [Amazon has canceled its Wheel of Time series](https://www.theverge.com/news/673899/amazon-wheel-of-time-canceled)

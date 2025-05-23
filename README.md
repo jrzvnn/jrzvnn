@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump demands 25% tariff on any iPhone not made in the US](https://appleinsider.com/articles/25/05/23/trump-demands-25-tariff-on-any-iphone-not-made-in-the-us?utm_medium=rss)
  - [Trump threatens Apple with a 25 percent iPhone tariff](https://www.theverge.com/news/673424/trump-apple-iphone-tariff-25-percent-india)
  - [Trump says a 25% tariff &quot;must be paid by Apple&quot; on iPhones not made in the US, says he told Tim Cook long ago that iPhones sold in the US must be made in the US &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250523/p6#a250523p6)
  - [Sources: DOGE is using a customized Grok to analyze US government data, including at DHS where it has not been approved, raising security and privacy concerns &lpar;Reuters&rpar;](http://www.techmeme.com/250523/p5#a250523p5)
- - [Zyrtec and Xyzal Flagged by FDA for New Side Effect. How to Know When to See Your Doctor](https://www.cnet.com/health/medical/zyrtec-and-xyzal-flagged-by-fda-for-new-side-effect-how-to-know-when-to-see-your-doctor/#ftag=CAD590a51e)
- - [Apple tries out increasing iPhone trade-in values for China](https://appleinsider.com/articles/25/05/23/apple-tries-out-increasing-iphone-trade-in-values-for-china?utm_medium=rss)<!-- TECH:END -->
+ - [Zyrtec and Xyzal Flagged by FDA for New Side Effect. How to Know When to See Your Doctor](https://www.cnet.com/health/medical/zyrtec-and-xyzal-flagged-by-fda-for-new-side-effect-how-to-know-when-to-see-your-doctor/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [How does this work?](http://9gag.com/gag/a9yXMA0)
- - 😝 [Btw, it&#39;s true](http://9gag.com/gag/a4Pq9Pp)
+ - 😝 [A baker in France stopped a street attack. The attacker returned to seek revenge, armed. Things didn&#39;t go as planned.](http://9gag.com/gag/aE0XwWo)
  - 💣 [The logic seems... flawed.](http://9gag.com/gag/avyvgZO)
  - 😝 [When organizing your sock drawer seems more appealing than tackling your overdue tasks. \ud83d\udd75\ud83c\udffd\u2642\ufe0f\ud83d\udc69\ud83c\udffd\ud83c\udf3e\ud83d\udc69\ud83c\udffb\ud83d\udd27](http://9gag.com/gag/aByX3wD)
- - 👉 [It&#39;s an honour that my fire horse that I created in 2009 has become a famous meme, thank you all.](http://9gag.com/gag/agm23Nn)<!-- MEMES:END -->
+ - 👉 [Food for reckoning](http://9gag.com/gag/aNDReb4)<!-- MEMES:END -->
 
 ---
 

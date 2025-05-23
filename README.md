@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trump showing the president of south africa a video of politician in his country calling for white genocide](http://9gag.com/gag/azxZ7WK)
- - 😝 [Tom the Mime Brings the Best Vibe](http://9gag.com/gag/aPAXw2Q)
- - 💣 [Didn\u2019t expect much, but this movie really delivered.](http://9gag.com/gag/aoy8EX2)
- - 😝 [\u2606\u2606\u2606](http://9gag.com/gag/a5Qje1y)
- - 👉 [Giggity](http://9gag.com/gag/apRAEdE)<!-- MEMES:END -->
+ - 😝 [The progression of ALS](http://9gag.com/gag/a342oBe)
+ - 😝 [Little advice](http://9gag.com/gag/awydqxR)
+ - 💣 [Donald Trump absolutely cooked the South African president. Look at them sitting in shame.](http://9gag.com/gag/aqyz4eL)
+ - 😝 [What&#39;s inside Mexican jumping beans](http://9gag.com/gag/aryqPey)
+ - 👉 [Food for reckoning](http://9gag.com/gag/aNDReb4)<!-- MEMES:END -->
 
 ---
 

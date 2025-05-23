@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)
- - 😝 [Mmm-hmm](http://9gag.com/gag/a0eEvzQ)
- - 💣 [What&#39;s inside Mexican jumping beans](http://9gag.com/gag/aryqPey)
+ - 😝 [Caracals being a very questionable \u201cpet\u201d choice](http://9gag.com/gag/aryB1xp)
+ - 😝 [A refined gentlemen](http://9gag.com/gag/a7o24B2)
+ - 💣 [New mayor of Rotherham : `This is for Islam. This is for Hijab. This is for Pakistan.` Well done, UK.](http://9gag.com/gag/aryq6Xy)
  - 😝 [Tom Cruise has been defying gravity for 3 decades.](http://9gag.com/gag/axyPd41)
- - 👉 [A refined gentlemen](http://9gag.com/gag/a7o24B2)<!-- MEMES:END -->
+ - 👉 [It&#39;s an honour that my fire horse that I created in 2009 has become a famous meme, thank you all.](http://9gag.com/gag/agm23Nn)<!-- MEMES:END -->
 
 ---
 

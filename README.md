@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She schooled him good!](http://9gag.com/gag/an7Dq7B)
  - 😝 [Horses telling each other jokes. Best joke in comments wins a banana](http://9gag.com/gag/aGy2KVK)
- - 💣 [Mankind is screwed](http://9gag.com/gag/aYQ1j1O)
- - 😝 [Mmm-hmm](http://9gag.com/gag/a0eEvzQ)
- - 👉 [A baker in France stopped a street attack. The attacker returned to seek revenge, armed. Things didn&#39;t go as planned.](http://9gag.com/gag/aE0XwWo)<!-- MEMES:END -->
+ - 😝 [She schooled him good!](http://9gag.com/gag/an7Dq7B)
+ - 💣 [Mmm-hmm](http://9gag.com/gag/a0eEvzQ)
+ - 😝 [A baker in France stopped a street attack. The attacker returned to seek revenge, armed. Things didn&#39;t go as planned.](http://9gag.com/gag/aE0XwWo)
+ - 👉 [Mankind is screwed](http://9gag.com/gag/aYQ1j1O)<!-- MEMES:END -->
 
 ---
 

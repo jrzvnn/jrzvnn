@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI says Operator, its AI agent that can use the web to perform tasks, will soon use a model based on o3 after previously using a custom version of GPT-4o &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250523/p19#a250523p19)
  - [The FAA is taking extra precautions for SpaceX’s next Starship test flight](https://www.theverge.com/news/673709/spacex-starship-super-heavy-booster-rocket-faa-test-flight-nine)
  - [It&#39;s still cheaper to import iPhones with 25% tariffs, than assemble in the US](https://appleinsider.com/articles/25/05/23/its-still-cheaper-to-import-iphones-with-25-tariffs-than-assemble-in-the-us?utm_medium=rss)
  - [A look at Anthropic&#39;s first developer conference, where CPO Mike Krieger said 70%+ of Anthropic&#39;s code pull requests are now written by their AI model Claude &lpar;Kylie Robison/Wired&rpar;](http://www.techmeme.com/250523/p18#a250523p18)
- - [Tim Cook tried to kill Texas App Store age verification bill by calling the governor](https://appleinsider.com/articles/25/05/23/tim-cook-tried-to-kill-texas-app-store-age-verification-bill-by-calling-the-governor?utm_medium=rss)
- - [Inside Anthropic’s First Developer Day, Where AI Agents Took Center Stage](https://www.wired.com/story/anthropic-first-developer-conference/)<!-- TECH:END -->
+ - [Tim Cook tried to kill Texas App Store age verification bill by calling the governor](https://appleinsider.com/articles/25/05/23/tim-cook-tried-to-kill-texas-app-store-age-verification-bill-by-calling-the-governor?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vestaboard’s Note is a smaller, cheaper version of its hypnotic split-flap display](https://www.theverge.com/news/673559/vestaboard-note-split-flap-mechanical-display)
- - [Here’s how you can get a Nintendo Switch 2 at launch — or at least try to](https://www.theverge.com/tech/653010/nintendo-switch-2-preorder-tips-tricks-release-date-price-availability-how-to-buy)
- - [Sources: Tim Cook called Texas Gov. Greg Abbott last week urging a veto or changes to a bill requiring Apple to verify users&#39; ages on its devices &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250523/p15#a250523p15)
- - [Intuit stock jumps 9%+ after reporting Q3 revenue up 15% YoY to $7.8B with FY 2025 guidance of $18.72B to $18.76B, up from $18.16B to $18.35B &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250523/p14#a250523p14)
- - [Is Elon Musk really getting the hell out of DOGE?](https://www.theverge.com/politics/673521/ielon-musk-doge-tesla-politics)<!-- TECH:END -->
+ - [Elon Musk Says He&#39;ll Step Back From the Government. DOGE Isn&#39;t Going Anywhere](https://www.wired.com/story/elon-musk-stepping-back-doge-final-form/)
+ - [Microsoft employee bypasses ‘Palestine’ block to email thousands of staff in protest](https://www.theverge.com/microsoft/673568/microsoft-palestine-email-block-defeated-employee)
+ - [Keychron K15 Max review: Low-profile and quiet Alice ergonomic keyboard](https://appleinsider.com/articles/25/05/23/keychron-k15-max-review-low-profile-and-quiet-alice-ergonomic-keyboard?utm_medium=rss)
+ - [Melania Trump releases an audiobook of her memoir with her &quot;official AI voice&quot; created by ElevenLabs, available exclusively on the ElevenReader app &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250523/p16#a250523p16)
+ - [WWDC 25 iOS 19 wishlist: Features we want Apple to the iPhone](https://appleinsider.com/articles/25/05/23/wwdc-25-ios-19-wishlist-features-we-want-apple-to-the-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

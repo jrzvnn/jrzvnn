@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to disarm an attacker](http://9gag.com/gag/aND4y4K)
- - 😝 [Text to Absolute Cinema, Veo3](http://9gag.com/gag/a872ryQ)
- - 💣 [A baker in France stopped a street attack. The attacker returned to seek revenge, armed. Things didn&#39;t go as planned.](http://9gag.com/gag/aE0XwWo)
- - 😝 [What&#39;s inside Mexican jumping beans](http://9gag.com/gag/aryqPey)
- - 👉 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)<!-- MEMES:END -->
+ - 😝 [Tom the Mime Brings the Best Vibe](http://9gag.com/gag/aPAXw2Q)
+ - 😝 [Didn\u2019t expect much, but this movie really delivered.](http://9gag.com/gag/aoy8EX2)
+ - 💣 [Food for reckoning](http://9gag.com/gag/aNDReb4)
+ - 😝 [\u2606\u2606\u2606](http://9gag.com/gag/a5Qje1y)
+ - 👉 [Giggity](http://9gag.com/gag/apRAEdE)<!-- MEMES:END -->
 
 ---
 

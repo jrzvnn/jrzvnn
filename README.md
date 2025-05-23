@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s an honour that my fire horse that I created in 2009 has become a famous meme, thank you all.](http://9gag.com/gag/agm23Nn)
- - 😝 [A baker in France stopped a street attack. The attacker returned to seek revenge, armed. Things didn&#39;t go as planned.](http://9gag.com/gag/aE0XwWo)
- - 💣 [How to disarm an attacker](http://9gag.com/gag/aND4y4K)
+ - 😝 [Donald Trump absolutely cooked the South African president. Look at them sitting in shame.](http://9gag.com/gag/aqyz4eL)
  - 😝 [What&#39;s inside Mexican jumping beans](http://9gag.com/gag/aryqPey)
+ - 💣 [How to disarm an attacker](http://9gag.com/gag/aND4y4K)
+ - 😝 [Mmm-hmm](http://9gag.com/gag/a0eEvzQ)
  - 👉 [The progression of ALS](http://9gag.com/gag/a342oBe)<!-- MEMES:END -->
 
 ---

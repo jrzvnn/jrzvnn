@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: Salesforce is in talks to acquire cloud data management company Informatica, reviving discussions that stalled in 2024; INFA closes up 17.45% &lpar;Bloomberg&rpar;](http://www.techmeme.com/250523/p24#a250523p24)
+ - [Note, Paint and Snip With AI: Microsoft Adds New Features, but Not for Everyone](https://www.cnet.com/tech/computing/note-paint-and-snip-with-ai-microsoft-adds-new-features-but-not-for-everyone/#ftag=CAD590a51e)
+ - [Traveling for Memorial Day Weekend? Keep Yourself Busy With This Free Audible Alternative I Swear By](https://www.cnet.com/tech/services-and-software/traveling-for-memorial-day-weekend-keep-yourself-busy-with-this-free-audible-alternative-i-swear-by/#ftag=CAD590a51e)
  - [Trump threatens Apple, Samsung and others with a 25 percent iPhone tariff](https://www.theverge.com/news/673424/trump-apple-iphone-tariff-25-percent-india)
- - [I/O versus io: Google and OpenAI can’t stop messing with each other](https://www.theverge.com/command-line-newsletter/673837/i-o-versus-io-google-openai-jony-ive)
- - [Sources: CommScope is exploring a sale of its broadband connectivity and cable arm CCS for up to $10B, seeking to unload assets to repay debt &lpar;Bloomberg&rpar;](http://www.techmeme.com/250523/p23#a250523p23)
- - [Trump tries to ban Harvard from enrolling international students](https://www.theverge.com/policy/673759/harvard-international-students-trump-dhs-sevis)<!-- TECH:END -->
+ - [I/O versus io: Google and OpenAI can’t stop messing with each other](https://www.theverge.com/command-line-newsletter/673837/i-o-versus-io-google-openai-jony-ive)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

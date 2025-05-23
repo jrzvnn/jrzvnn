@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [PitchBook: emerging managers in VC, defined as those with three or fewer funds, raised $17B in the US in 2024, down from $64B in 2021, and $4.7B so far in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250523/p2#a250523p2)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, May 23](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-may-23/#ftag=CAD590a51e)
  - [10% Off Canon Promo Code and Coupons](https://www.wired.com/story/canon-promo-code/)
  - [Adidas Promo Codes &amp; Deals: 30% Off](https://www.wired.com/story/adidas-promo-code/)
- - [An interview with Niantic CEO John Hanke on the company selling its games business, pivoting to enterprise AI, returning to its digital mapping roots, and more &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/250523/p1#a250523p1)
- - [UK-based R3, a blockchain tech developer for financial institutions, partners with the Solana Foundation to let R3 customers use the Solana blockchain &lpar;Philip Stafford/Financial Times&rpar;](http://www.techmeme.com/250522/p58#a250522p58)<!-- TECH:END -->
+ - [An interview with Niantic CEO John Hanke on the company selling its games business, pivoting to enterprise AI, returning to its digital mapping roots, and more &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/250523/p1#a250523p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

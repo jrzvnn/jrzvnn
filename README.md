@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How does this work?](http://9gag.com/gag/a9yXMA0)
- - 😝 [Nixon checks if Brezhnev is signing the document, which Brezhnev turns into a joke](http://9gag.com/gag/a2v2QB1)
- - 💣 [An ad made on a $500 AI app credit. Production like this typically cost $500,000 when using real actors](http://9gag.com/gag/ae923G5)
+ - 😝 [Giggity](http://9gag.com/gag/apRAEdE)
+ - 😝 [This is Bill Skarsg\u00e4rd auditioning for the role of Pennywise.](http://9gag.com/gag/aVv2z7y)
+ - 💣 [It&#39;s an honour that my fire horse that I created in 2009 has become a famous meme, thank you all.](http://9gag.com/gag/agm23Nn)
  - 😝 [When organizing your sock drawer seems more appealing than tackling your overdue tasks. \ud83d\udd75\ud83c\udffd\u2642\ufe0f\ud83d\udc69\ud83c\udffd\ud83c\udf3e\ud83d\udc69\ud83c\udffb\ud83d\udd27](http://9gag.com/gag/aByX3wD)
- - 👉 [Giggity](http://9gag.com/gag/apRAEdE)<!-- MEMES:END -->
+ - 👉 [You want to do what?](http://9gag.com/gag/a1mLZrY)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Little advice](http://9gag.com/gag/awydqxR)
- - 😝 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)
- - 💣 [Donald Trump absolutely cooked the South African president. Look at them sitting in shame.](http://9gag.com/gag/aqyz4eL)
- - 😝 [The progression of ALS](http://9gag.com/gag/a342oBe)
- - 👉 [Mmm-hmm](http://9gag.com/gag/a0eEvzQ)<!-- MEMES:END -->
+ - 😝 [Tom the Mime Brings the Best Vibe](http://9gag.com/gag/aPAXw2Q)
+ - 😝 [Didn\u2019t expect much, but this movie really delivered.](http://9gag.com/gag/aoy8EX2)
+ - 💣 [\u2606\u2606\u2606](http://9gag.com/gag/a5Qje1y)
+ - 😝 [Food for reckoning](http://9gag.com/gag/aNDReb4)
+ - 👉 [Giggity](http://9gag.com/gag/apRAEdE)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Donald Trump absolutely cooked the South African president. Look at them sitting in shame.](http://9gag.com/gag/aqyz4eL)
  - 😝 [It&#39;s an honour that my fire horse that I created in 2009 has become a famous meme, thank you all.](http://9gag.com/gag/agm23Nn)
- - 💣 [Btw, it&#39;s true](http://9gag.com/gag/a4Pq9Pp)
+ - 😝 [This is Bill Skarsg\u00e4rd auditioning for the role of Pennywise.](http://9gag.com/gag/aVv2z7y)
+ - 💣 [Donald Trump absolutely cooked the South African president. Look at them sitting in shame.](http://9gag.com/gag/aqyz4eL)
  - 😝 [When organizing your sock drawer seems more appealing than tackling your overdue tasks. \ud83d\udd75\ud83c\udffd\u2642\ufe0f\ud83d\udc69\ud83c\udffd\ud83c\udf3e\ud83d\udc69\ud83c\udffb\ud83d\udd27](http://9gag.com/gag/aByX3wD)
- - 👉 [This is Bill Skarsg\u00e4rd auditioning for the role of Pennywise.](http://9gag.com/gag/aVv2z7y)<!-- MEMES:END -->
+ - 👉 [Btw, it&#39;s true](http://9gag.com/gag/a4Pq9Pp)<!-- MEMES:END -->
 
 ---
 

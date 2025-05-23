@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dangerous](http://9gag.com/gag/a6Zpyw8)
- - 😝 [Didn\u2019t expect much, but this movie really delivered.](http://9gag.com/gag/aoy8EX2)
- - 💣 [Giggity](http://9gag.com/gag/apRAEdE)
- - 😝 [Food for reckoning](http://9gag.com/gag/aNDReb4)
- - 👉 [What the..........lol](http://9gag.com/gag/agm23x6)<!-- MEMES:END -->
+ - 😝 [She schooled him good!](http://9gag.com/gag/an7Dq7B)
+ - 😝 [How to disarm an attacker](http://9gag.com/gag/aND4y4K)
+ - 💣 [Nixon checks if Brezhnev is signing the document, which Brezhnev turns into a joke](http://9gag.com/gag/a2v2QB1)
+ - 😝 [Maybe it is a scam after all](http://9gag.com/gag/aZZj980)
+ - 👉 [A baker in France stopped a street attack. The attacker returned to seek revenge, armed. Things didn&#39;t go as planned.](http://9gag.com/gag/aE0XwWo)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nike returns to Amazon after a six-year hiatus](https://www.theverge.com/news/673370/nike-amazon-return-six-years-wholesaler)
  - [It&#39;s National Don&#39;t Fry Day. Here&#39;s How to Check Your Skin for Signs of Cancer](https://www.cnet.com/health/medical/national-dont-fry-day-what-know-checking-skin-cancer/#ftag=CAD590a51e)
  - [An interview with Roku founder and CEO Anthony Wood about diversifying Roku&#39;s business beyond hardware, its services business, the Roku Channel, ads, and more &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/250523/p3#a250523p3)
  - [Discord might use AI to help you catch up on conversations](https://www.theverge.com/apps/673208/discord-ai-forums-anniversary-gamechat)
- - [Mushroom Gummies: Side Effects, Benefits and Experts&#39; Cautions](https://www.cnet.com/health/nutrition/mushroom-gummies-side-effects-benefits-experts-cautions/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 23, #242](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-23-242/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mushroom Gummies: Side Effects, Benefits and Experts&#39; Cautions](https://www.cnet.com/health/nutrition/mushroom-gummies-side-effects-benefits-experts-cautions/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

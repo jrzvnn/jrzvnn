@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Food for reckoning](http://9gag.com/gag/aNDReb4)
- - 😝 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)
- - 💣 [How to disarm an attacker](http://9gag.com/gag/aND4y4K)
+ - 😝 [Holding a gun against a veteran and ending up getting their ass whooped](http://9gag.com/gag/ayNQEEM)
+ - 😝 [It&#39;s an honour that my fire horse that I created in 2009 has become a famous meme, thank you all.](http://9gag.com/gag/agm23Nn)
+ - 💣 [I\u2019d agree it\u2019s pretty good.](http://9gag.com/gag/aD2VprB)
  - 😝 [Maybe it is a scam after all](http://9gag.com/gag/aZZj980)
  - 👉 [The progression of ALS](http://9gag.com/gag/a342oBe)<!-- MEMES:END -->
 

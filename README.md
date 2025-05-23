@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s an honour that my fire horse that I created in 2009 has become a famous meme, thank you all.](http://9gag.com/gag/agm23Nn)
- - 😝 [Undercover footage smuggled out of North Korea shows reporter Kim Dong-cheol briefly interviewing a homeless 23-year-old girl in rural North Korea.](http://9gag.com/gag/aqyWvoR)
- - 💣 [The progression of ALS](http://9gag.com/gag/a342oBe)
- - 😝 [How to disarm an attacker](http://9gag.com/gag/aND4y4K)
- - 👉 [Little advice](http://9gag.com/gag/awydqxR)<!-- MEMES:END -->
+ - 😝 [Donald Trump absolutely cooked the South African president. Look at them sitting in shame.](http://9gag.com/gag/aqyz4eL)
+ - 😝 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)
+ - 💣 [How to disarm an attacker](http://9gag.com/gag/aND4y4K)
+ - 😝 [Being a Secretary Means Carrying the Weight of a Thousand Tasks \u2014 Show Some Respect!](http://9gag.com/gag/aLnXQnM)
+ - 👉 [Text to Absolute Cinema, Veo3](http://9gag.com/gag/a872ryQ)<!-- MEMES:END -->
 
 ---
 

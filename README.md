@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Food for reckoning](http://9gag.com/gag/aNDReb4)
+ - 😝 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)
+ - 💣 [How to disarm an attacker](http://9gag.com/gag/aND4y4K)
  - 😝 [Maybe it is a scam after all](http://9gag.com/gag/aZZj980)
- - 💣 [What&#39;s inside Mexican jumping beans](http://9gag.com/gag/aryqPey)
- - 😝 [Tom Cruise has been defying gravity for 3 decades.](http://9gag.com/gag/axyPd41)
- - 👉 [Caracals being a very questionable \u201cpet\u201d choice](http://9gag.com/gag/aryB1xp)<!-- MEMES:END -->
+ - 👉 [The progression of ALS](http://9gag.com/gag/a342oBe)<!-- MEMES:END -->
 
 ---
 

@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Glitch CEO Anil Dash says it will stop hosting projects and close user profiles on July 8; the coding platform was acquired by Fastly in 2022 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250523/p11#a250523p11)
  - [OpenAI and Jony Ive&amp;#8217;s AI super-gadget](https://www.theverge.com/the-vergecast/673453/openai-jony-ive-io-gadget-google-io-vergecast)
  - [Sources: Foxconn is among potential bidders for Singapore-based semiconductor assembly and testing firm UTAC in a deal that could value the company at ~$3B &lpar;Kane Wu/Reuters&rpar;](http://www.techmeme.com/250523/p10#a250523p10)
- - [Glitch is basically shutting down](https://www.theverge.com/news/673457/glitch-coding-platform-shutting-down)<!-- TECH:END -->
+ - [&#39;Mickey 17&#39; Is Now Streaming. Here&#39;s How to Watch the Sci-Fi Film](https://www.cnet.com/tech/services-and-software/mickey-17-is-now-streaming-heres-how-to-watch-the-sci-fi-film/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

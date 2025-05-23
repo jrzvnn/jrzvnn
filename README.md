@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s an honour that my fire horse that I created in 2009 has become a famous meme, thank you all.](http://9gag.com/gag/agm23Nn)
+ - 😝 [Food for reckoning](http://9gag.com/gag/aNDReb4)
  - 😝 [Maybe it is a scam after all](http://9gag.com/gag/aZZj980)
- - 💣 [How to disarm an attacker](http://9gag.com/gag/aND4y4K)
+ - 💣 [What&#39;s inside Mexican jumping beans](http://9gag.com/gag/aryqPey)
  - 😝 [Tom Cruise has been defying gravity for 3 decades.](http://9gag.com/gag/axyPd41)
- - 👉 [Food for reckoning](http://9gag.com/gag/aNDReb4)<!-- MEMES:END -->
+ - 👉 [Caracals being a very questionable \u201cpet\u201d choice](http://9gag.com/gag/aryB1xp)<!-- MEMES:END -->
 
 ---
 

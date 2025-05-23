@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vietnam orders ISPs to block Telegram over its failure to prevent illegal content and activities, including fraud, drug sales and suspected terrorism on the app &lpar;Francesca Stevens/Bloomberg&rpar;](http://www.techmeme.com/250523/p4#a250523p4)
  - [The Best Memorial Day Mattress Sales &lpar;2025&rpar;](https://www.wired.com/story/best-memorial-day-mattress-sales-2025-1/)
  - [I Got a Sneak Peek of the Upcoming Ratio Eight Series 2](https://www.wired.com/story/ratio-eight-series-two-preview/)
  - [Nike returns to Amazon after a six-year hiatus](https://www.theverge.com/news/673370/nike-amazon-return-six-years-wholesaler)
- - [It&#39;s National Don&#39;t Fry Day. Here&#39;s How to Check Your Skin for Signs of Cancer](https://www.cnet.com/health/medical/national-dont-fry-day-what-know-checking-skin-cancer/#ftag=CAD590a51e)
- - [An interview with Roku founder and CEO Anthony Wood about diversifying Roku&#39;s business beyond hardware, its services business, the Roku Channel, ads, and more &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/250523/p3#a250523p3)<!-- TECH:END -->
+ - [It&#39;s National Don&#39;t Fry Day. Here&#39;s How to Check Your Skin for Signs of Cancer](https://www.cnet.com/health/medical/national-dont-fry-day-what-know-checking-skin-cancer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

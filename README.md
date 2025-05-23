@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [These nations had to come to terms with this realization the hard way, like my great grandfathers did and many, many others.](http://9gag.com/gag/aNDRobG)
- - 😝 [Food for reckoning](http://9gag.com/gag/aNDReb4)
- - 💣 [What the..........lol](http://9gag.com/gag/agm23x6)
+ - 😝 [Btw, it&#39;s true](http://9gag.com/gag/a4Pq9Pp)
+ - 😝 [Trump showing the president of south africa a video of politician in his country calling for white genocide](http://9gag.com/gag/azxZ7WK)
+ - 💣 [An ad made on a $500 AI app credit. Production like this typically cost $500,000 when using real actors](http://9gag.com/gag/ae923G5)
  - 😝 [When organizing your sock drawer seems more appealing than tackling your overdue tasks. \ud83d\udd75\ud83c\udffd\u2642\ufe0f\ud83d\udc69\ud83c\udffd\ud83c\udf3e\ud83d\udc69\ud83c\udffb\ud83d\udd27](http://9gag.com/gag/aByX3wD)
- - 👉 [Introvert level: Expert.](http://9gag.com/gag/aqyz90j)<!-- MEMES:END -->
+ - 👉 [Food for reckoning](http://9gag.com/gag/aNDReb4)<!-- MEMES:END -->
 
 ---
 

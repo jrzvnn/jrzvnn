@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Aqara can help expand your Apple Home to other ecosystems with Matter](https://appleinsider.com/articles/25/05/23/aqara-can-help-expand-your-apple-home-to-other-ecosystems-with-matter?utm_medium=rss)
  - [Sony made its shooting grip better for creators working without a crew](https://www.theverge.com/news/673508/sony-gpvpt3-multi-function-shooting-grip-camera-alpha-series-vlogging)
  - [Zoom CEO Eric Yuan used an AI avatar for initial comments during a quarterly call; Klarna CEO used an AI avatar to deliver earnings earlier this week &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250523/p12#a250523p12)
- - [Shop Like a Supervillian](https://www.wired.com/story/gear-shop-like-a-supervillain/)
- - [How to upgrade the SSD in your M4 Mac mini](https://appleinsider.com/inside/mac-mini/tips/how-to-upgrade-the-ssd-in-your-m4-mac-mini?utm_medium=rss)<!-- TECH:END -->
+ - [Costco Offering Buy Now, Pay Later With Affirm. But Is It Worth It?](https://www.cnet.com/personal-finance/costco-now-offers-buy-now-pay-later-with-affirm-but-is-it-worth-it/#ftag=CAD590a51e)
+ - [My Favorite New Sony Bluetooth Speaker Is $80 Off for Memorial Day](https://www.cnet.com/deals/my-favorite-new-sony-bluetooth-speaker-is-80-off-for-memorial-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

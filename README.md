@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S25 Edge review: a fresh take on the baseline model with its thin design and a good 200-megapixel camera but mediocre battery life and high price &lpar;Abrar Al-Heeti/CNET&rpar;](http://www.techmeme.com/250523/p13#a250523p13)
- - [Aqara can help expand your Apple Home to other ecosystems with Matter](https://appleinsider.com/articles/25/05/23/aqara-can-help-expand-your-apple-home-to-other-ecosystems-with-matter?utm_medium=rss)
- - [Sony made its shooting grip better for creators working without a crew](https://www.theverge.com/news/673508/sony-gpvpt3-multi-function-shooting-grip-camera-alpha-series-vlogging)
- - [Zoom CEO Eric Yuan used an AI avatar for initial comments during a quarterly call; Klarna CEO used an AI avatar to deliver earnings earlier this week &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250523/p12#a250523p12)
- - [Costco Offering Buy Now, Pay Later With Affirm. But Is It Worth It?](https://www.cnet.com/personal-finance/costco-now-offers-buy-now-pay-later-with-affirm-but-is-it-worth-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Tim Cook called Texas Gov. Greg Abbott last week urging a veto or changes to a bill requiring Apple to verify users&#39; ages on its devices &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250523/p15#a250523p15)
+ - [Intuit stock jumps 9%+ after reporting Q3 revenue up 15% YoY to $7.8B with FY 2025 guidance of $18.72B to $18.76B, up from $18.16B to $18.35B &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250523/p14#a250523p14)
+ - [Is Elon Musk really getting the hell out of DOGE?](https://www.theverge.com/politics/673521/ielon-musk-doge-tesla-politics)
+ - [Best PC Gaming Monitors &lpar;2025&rpar;: Samsung. AOC, and More](https://www.wired.com/gallery/best-gaming-monitors/)
+ - [Samsung Galaxy S25 Edge review: a fresh take on the baseline model with its thin design and a good 200-megapixel camera but mediocre battery life and high price &lpar;Abrar Al-Heeti/CNET&rpar;](http://www.techmeme.com/250523/p13#a250523p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

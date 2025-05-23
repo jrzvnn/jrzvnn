@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mmm-hmm](http://9gag.com/gag/a0eEvzQ)
- - 😝 [Tropic Thunder Has the best Tom Cruise , RDJ and Tobey Maguire role](http://9gag.com/gag/aZZ2PBQ)
- - 💣 [Btw, it&#39;s true](http://9gag.com/gag/a4Pq9Pp)
+ - 😝 [Food for reckoning](http://9gag.com/gag/aNDReb4)
+ - 😝 [What the..........lol](http://9gag.com/gag/agm23x6)
+ - 💣 [Introvert level: Expert.](http://9gag.com/gag/aqyz90j)
  - 😝 [When organizing your sock drawer seems more appealing than tackling your overdue tasks. \ud83d\udd75\ud83c\udffd\u2642\ufe0f\ud83d\udc69\ud83c\udffd\ud83c\udf3e\ud83d\udc69\ud83c\udffb\ud83d\udd27](http://9gag.com/gag/aByX3wD)
- - 👉 [Food for reckoning](http://9gag.com/gag/aNDReb4)<!-- MEMES:END -->
+ - 👉 [Being a Secretary Means Carrying the Weight of a Thousand Tasks \u2014 Show Some Respect!](http://9gag.com/gag/aLnXQnM)<!-- MEMES:END -->
 
 ---
 

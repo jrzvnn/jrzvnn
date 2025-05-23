@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: CommScope is exploring a sale of its broadband connectivity and cable arm CCS for up to $10B, seeking to unload assets to repay debt &lpar;Bloomberg&rpar;](http://www.techmeme.com/250523/p23#a250523p23)
  - [Trump tries to ban Harvard from enrolling international students](https://www.theverge.com/policy/673759/harvard-international-students-trump-dhs-sevis)
  - [Google I/O revealed more updates for Wallet, Wear OS, Google Play, and more](https://www.theverge.com/news/673808/google-io-wallet-wearos-play-store)
- - [Gruv’s 2-for-$24 sale includes some of 2024’s biggest releases](https://www.theverge.com/tech/673600/gruv-blu-ray-sale-the-wild-robot-dune-deal-sale)
- - [Q&amp;A with Demis Hassabis about how Google I/O became the Gemini show, Google getting &quot;AGI-pilled&quot;, Project Astra, Sergey Brin&#39;s shorter AGI timelines, and more &lpar;New York Times&rpar;](http://www.techmeme.com/250523/p22#a250523p22)
- - [Amazon slashes up to $350 off iPads this weekend](https://appleinsider.com/articles/25/05/23/amazon-slashes-up-to-350-off-ipads-this-weekend?utm_medium=rss)<!-- TECH:END -->
+ - [Gruv’s 2-for-$24 sale includes some of 2024’s biggest Blu-ray releases](https://www.theverge.com/tech/673600/gruv-blu-ray-sale-the-wild-robot-dune-deal-sale)
+ - [Q&amp;A with Demis Hassabis about how Google I/O became the Gemini show, Google getting &quot;AGI-pilled&quot;, Project Astra, Sergey Brin&#39;s shorter AGI timelines, and more &lpar;New York Times&rpar;](http://www.techmeme.com/250523/p22#a250523p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

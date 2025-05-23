@@ -157,9 +157,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon has canceled its Wheel of Time series](https://www.theverge.com/news/673899/amazon-wheel-of-time-canceled)
+ - [AirPods, AirPods Pro, AirPods Max: What to expect from Apple&#39;s future audio accessories](https://appleinsider.com/articles/25/05/23/airpods-airpods-pro-airpods-max-what-to-expect-from-apples-future-audio-accessories?utm_medium=rss)
  - [Sources: Salesforce is in talks to acquire cloud data management company Informatica, reviving discussions that stalled in 2024; INFA closes up 17.45% &lpar;Bloomberg&rpar;](http://www.techmeme.com/250523/p24#a250523p24)
- - [Note, Paint and Snip With AI: Microsoft Adds New Features, but Not for Everyone](https://www.cnet.com/tech/computing/note-paint-and-snip-with-ai-microsoft-adds-new-features-but-not-for-everyone/#ftag=CAD590a51e)
- - [Traveling for Memorial Day Weekend? Keep Yourself Busy With This Free Audible Alternative I Swear By](https://www.cnet.com/tech/services-and-software/traveling-for-memorial-day-weekend-keep-yourself-busy-with-this-free-audible-alternative-i-swear-by/#ftag=CAD590a51e)
  - [Trump threatens Apple, Samsung and others with a 25 percent iPhone tariff](https://www.theverge.com/news/673424/trump-apple-iphone-tariff-25-percent-india)
  - [I/O versus io: Google and OpenAI can’t stop messing with each other](https://www.theverge.com/command-line-newsletter/673837/i-o-versus-io-google-openai-jony-ive)<!-- TECH:END -->
 

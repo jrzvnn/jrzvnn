@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tom the Mime Brings the Best Vibe](http://9gag.com/gag/aPAXw2Q)
- - 😝 [Didn\u2019t expect much, but this movie really delivered.](http://9gag.com/gag/aoy8EX2)
- - 💣 [\u2606\u2606\u2606](http://9gag.com/gag/a5Qje1y)
- - 😝 [Food for reckoning](http://9gag.com/gag/aNDReb4)
- - 👉 [Giggity](http://9gag.com/gag/apRAEdE)<!-- MEMES:END -->
+ - 😝 [How to disarm an attacker](http://9gag.com/gag/aND4y4K)
+ - 😝 [Maybe it is a scam after all](http://9gag.com/gag/aZZj980)
+ - 💣 [It&#39;s an honour that my fire horse that I created in 2009 has become a famous meme, thank you all.](http://9gag.com/gag/agm23Nn)
+ - 😝 [Text to Absolute Cinema, Veo3](http://9gag.com/gag/a872ryQ)
+ - 👉 [The progression of ALS](http://9gag.com/gag/a342oBe)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump tries to ban Harvard from enrolling international students](https://www.theverge.com/policy/673759/harvard-international-students-trump-dhs-sevis)
+ - [Google I/O revealed more updates for Wallet, Wear OS, Google Play, and more](https://www.theverge.com/news/673808/google-io-wallet-wearos-play-store)
+ - [Gruv’s 2-for-$24 sale includes some of 2024’s biggest releases](https://www.theverge.com/tech/673600/gruv-blu-ray-sale-the-wild-robot-dune-deal-sale)
  - [Q&amp;A with Demis Hassabis about how Google I/O became the Gemini show, Google getting &quot;AGI-pilled&quot;, Project Astra, Sergey Brin&#39;s shorter AGI timelines, and more &lpar;New York Times&rpar;](http://www.techmeme.com/250523/p22#a250523p22)
- - [Amazon slashes up to $350 off iPads this weekend](https://appleinsider.com/articles/25/05/23/amazon-slashes-up-to-350-off-ipads-this-weekend?utm_medium=rss)
- - [Pocket alternatives for bookmarking your content](https://www.theverge.com/22927750/bookmarks-pocket-firefox-instapaper-raindrop)
- - [Apple tested M3 Ultra MacBook Pro, early iOS 18 code leaks](https://appleinsider.com/articles/25/05/23/apple-tested-m3-ultra-macbook-pro-early-ios-18-code-leaks?utm_medium=rss)
- - [President Trump says that the tariffs he has threatened against Apple would also be aimed at &quot;Samsung and anybody that makes that product&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250523/p21#a250523p21)<!-- TECH:END -->
+ - [Amazon slashes up to $350 off iPads this weekend](https://appleinsider.com/articles/25/05/23/amazon-slashes-up-to-350-off-ipads-this-weekend?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

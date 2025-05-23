@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch growth lags as rivals push hard on health features &amp; lower prices](https://appleinsider.com/articles/25/05/23/apple-watch-growth-lags-as-rivals-push-hard-on-health-features-lower-prices?utm_medium=rss)
+ - [The best Memorial Day deals you can already get](https://www.theverge.com/tech/670092/best-memorial-day-sales-2025)
+ - [Sources: Oracle will buy ~400,000 Nvidia GB200 chips and lease them to OpenAI at its 1.2 gigawatts Texas data center, billed as the first US Stargate project &lpar;Financial Times&rpar;](http://www.techmeme.com/250523/p20#a250523p20)
  - [OpenAI says Operator, its AI agent that can use the web to perform tasks, will soon use a model based on o3 after previously using a custom version of GPT-4o &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250523/p19#a250523p19)
- - [The FAA is taking extra precautions for SpaceX’s next Starship test flight](https://www.theverge.com/news/673709/spacex-starship-super-heavy-booster-rocket-faa-test-flight-nine)
- - [It&#39;s still cheaper to import iPhones with 25% tariffs, than assemble in the US](https://appleinsider.com/articles/25/05/23/its-still-cheaper-to-import-iphones-with-25-tariffs-than-assemble-in-the-us?utm_medium=rss)
- - [A look at Anthropic&#39;s first developer conference, where CPO Mike Krieger said 70%+ of Anthropic&#39;s code pull requests are now written by their AI model Claude &lpar;Kylie Robison/Wired&rpar;](http://www.techmeme.com/250523/p18#a250523p18)
- - [Tim Cook tried to kill Texas App Store age verification bill by calling the governor](https://appleinsider.com/articles/25/05/23/tim-cook-tried-to-kill-texas-app-store-age-verification-bill-by-calling-the-governor?utm_medium=rss)<!-- TECH:END -->
+ - [The FAA is taking extra precautions for SpaceX’s next Starship test flight](https://www.theverge.com/news/673709/spacex-starship-super-heavy-booster-rocket-faa-test-flight-nine)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

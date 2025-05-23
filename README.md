@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Maybe it is a scam after all](http://9gag.com/gag/aZZj980)
+ - 😝 [Mmm-hmm](http://9gag.com/gag/a0eEvzQ)
+ - 💣 [A baker in France stopped a street attack. The attacker returned to seek revenge, armed. Things didn&#39;t go as planned.](http://9gag.com/gag/aE0XwWo)
  - 😝 [The progression of ALS](http://9gag.com/gag/a342oBe)
- - 😝 [It&#39;s an honour that my fire horse that I created in 2009 has become a famous meme, thank you all.](http://9gag.com/gag/agm23Nn)
- - 💣 [What&#39;s inside Mexican jumping beans](http://9gag.com/gag/aryqPey)
- - 😝 [A baker in France stopped a street attack. The attacker returned to seek revenge, armed. Things didn&#39;t go as planned.](http://9gag.com/gag/aE0XwWo)
- - 👉 [Food for reckoning](http://9gag.com/gag/aNDReb4)<!-- MEMES:END -->
+ - 👉 [What&#39;s inside Mexican jumping beans](http://9gag.com/gag/aryqPey)<!-- MEMES:END -->
 
 ---
 

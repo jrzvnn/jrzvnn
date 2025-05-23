@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Demis Hassabis about how Google I/O became the Gemini show, Google getting &quot;AGI-pilled&quot;, Project Astra, Sergey Brin&#39;s shorter AGI timelines, and more &lpar;New York Times&rpar;](http://www.techmeme.com/250523/p22#a250523p22)
  - [Amazon slashes up to $350 off iPads this weekend](https://appleinsider.com/articles/25/05/23/amazon-slashes-up-to-350-off-ipads-this-weekend?utm_medium=rss)
- - [Thinking of Moving Your Retirement Savings From the Stock Market to a CD? Read This First](https://www.cnet.com/personal-finance/thinking-of-moving-your-retirement-savings-from-the-stock-market-to-a-cd-read-this-first/#ftag=CAD590a51e)
  - [Pocket alternatives for bookmarking your content](https://www.theverge.com/22927750/bookmarks-pocket-firefox-instapaper-raindrop)
- - [What to Stream on TV This Weekend: &#39;Nine Perfect Strangers,&#39; &#39;Sirens&#39; and More](https://www.cnet.com/tech/services-and-software/what-to-stream-on-tv-this-weekend-nine-perfect-strangers-sirens-and-more/#ftag=CAD590a51e)
- - [Best Smartwatch for 2025](https://www.cnet.com/tech/mobile/best-smartwatch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple tested M3 Ultra MacBook Pro, early iOS 18 code leaks](https://appleinsider.com/articles/25/05/23/apple-tested-m3-ultra-macbook-pro-early-ios-18-code-leaks?utm_medium=rss)
+ - [President Trump says that the tariffs he has threatened against Apple would also be aimed at &quot;Samsung and anybody that makes that product&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250523/p21#a250523p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

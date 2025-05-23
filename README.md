@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jony Ive, Apple Intelligence, and Epic Games on the AppleInsider Podcast](https://appleinsider.com/articles/25/05/23/jony-ive-apple-intelligence-and-epic-games-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Discord SVP Peter Sellis says the app is exploring forums and LLM-powered summaries to make discussions easy to follow and shareable outside the platform &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250523/p8#a250523p8)
+ - [Trump says a 25% tariff &quot;must be paid by Apple&quot; on iPhones not made in the US, says he told Tim Cook long ago that iPhones sold in the US must be made in the US &lpar;Jesse Pound/CNBC&rpar;](http://www.techmeme.com/250523/p7#a250523p7)
  - [Trump demands 25% tariff on any iPhone not made in the US](https://appleinsider.com/articles/25/05/23/trump-demands-25-tariff-on-any-iphone-not-made-in-the-us?utm_medium=rss)
- - [Trump threatens Apple with a 25 percent iPhone tariff](https://www.theverge.com/news/673424/trump-apple-iphone-tariff-25-percent-india)
- - [Trump says a 25% tariff &quot;must be paid by Apple&quot; on iPhones not made in the US, says he told Tim Cook long ago that iPhones sold in the US must be made in the US &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250523/p6#a250523p6)
- - [Sources: DOGE is using a customized Grok to analyze US government data, including at DHS where it has not been approved, raising security and privacy concerns &lpar;Reuters&rpar;](http://www.techmeme.com/250523/p5#a250523p5)
- - [Zyrtec and Xyzal Flagged by FDA for New Side Effect. How to Know When to See Your Doctor](https://www.cnet.com/health/medical/zyrtec-and-xyzal-flagged-by-fda-for-new-side-effect-how-to-know-when-to-see-your-doctor/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [6 Best Webcams &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-webcams/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

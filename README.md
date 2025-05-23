@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is Bill Skarsg\u00e4rd auditioning for the role of Pennywise.](http://9gag.com/gag/aVv2z7y)
- - 😝 [Nixon checks if Brezhnev is signing the document, which Brezhnev turns into a joke](http://9gag.com/gag/a2v2QB1)
- - 💣 [Giggity](http://9gag.com/gag/apRAEdE)
+ - 😝 [These nations had to come to terms with this realization the hard way, like my great grandfathers did and many, many others.](http://9gag.com/gag/aNDRobG)
+ - 😝 [Food for reckoning](http://9gag.com/gag/aNDReb4)
+ - 💣 [What the..........lol](http://9gag.com/gag/agm23x6)
  - 😝 [When organizing your sock drawer seems more appealing than tackling your overdue tasks. \ud83d\udd75\ud83c\udffd\u2642\ufe0f\ud83d\udc69\ud83c\udffd\ud83c\udf3e\ud83d\udc69\ud83c\udffb\ud83d\udd27](http://9gag.com/gag/aByX3wD)
- - 👉 [In Scandinavian countries, it&#39;s common to see babies sleeping outside in prams, even in subzero temperatures. This tradition stems from a belief in the power of fresh air to promote healthy sleep and development.](http://9gag.com/gag/a9yXd8j)<!-- MEMES:END -->
+ - 👉 [Introvert level: Expert.](http://9gag.com/gag/aqyz90j)<!-- MEMES:END -->
 
 ---
 

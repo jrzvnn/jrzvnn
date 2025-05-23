@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jony Ive, Apple Intelligence, and Epic Games on the AppleInsider Podcast](https://appleinsider.com/articles/25/05/23/jony-ive-apple-intelligence-and-epic-games-on-the-appleinsider-podcast?utm_medium=rss)
- - [Discord SVP Peter Sellis says the app is exploring forums and LLM-powered summaries to make discussions easy to follow and shareable outside the platform &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250523/p8#a250523p8)
- - [Trump says a 25% tariff &quot;must be paid by Apple&quot; on iPhones not made in the US, says he told Tim Cook long ago that iPhones sold in the US must be made in the US &lpar;Jesse Pound/CNBC&rpar;](http://www.techmeme.com/250523/p7#a250523p7)
- - [Trump demands 25% tariff on any iPhone not made in the US](https://appleinsider.com/articles/25/05/23/trump-demands-25-tariff-on-any-iphone-not-made-in-the-us?utm_medium=rss)
- - [6 Best Webcams &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-webcams/)<!-- TECH:END -->
+ - [OpenAI and Jony Ive&amp;#8217;s AI super-gadget](https://www.theverge.com/the-vergecast/673453/openai-jony-ive-io-gadget-google-io-vergecast)
+ - [Sources: Foxconn is among potential bidders for Singapore-based semiconductor assembly and testing firm UTAC in a deal that could value the company at ~$3B &lpar;Kane Wu/Reuters&rpar;](http://www.techmeme.com/250523/p10#a250523p10)
+ - [Glitch is basically shutting down](https://www.theverge.com/news/673457/glitch-coding-platform-shutting-down)
+ - [Trump hosted a gala dinner for the top buyers of his memecoin, including Justin Sun, and reaffirmed his commitment to making the US the world&#39;s &quot;crypto capital&quot; &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250523/p9#a250523p9)
+ - [Jony Ive, Apple Intelligence, and Epic Games on the AppleInsider Podcast](https://appleinsider.com/articles/25/05/23/jony-ive-apple-intelligence-and-epic-games-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Sheets for Every Bed and Budget, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-bedsheets/)
- - [Vietnam orders ISPs to block Telegram over its failure to prevent illegal content and activities, including fraud, drug sales and suspected terrorism on the app &lpar;Francesca Stevens/Bloomberg&rpar;](http://www.techmeme.com/250523/p4#a250523p4)
- - [The Best Memorial Day Mattress Sales &lpar;2025&rpar;](https://www.wired.com/story/best-memorial-day-mattress-sales-2025-1/)
- - [I Got a Sneak Peek of the Upcoming Ratio Eight Series 2](https://www.wired.com/story/ratio-eight-series-two-preview/)
- - [You Can Make Your iPhone Call Quality Better With Voice Isolation. Here&#39;s How](https://www.cnet.com/tech/services-and-software/you-can-make-your-iphone-call-quality-better-with-voice-isolation-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: DOGE is using a customized Grok to analyze US government data, including at DHS where it has not been approved, raising security and privacy concerns &lpar;Reuters&rpar;](http://www.techmeme.com/250523/p5#a250523p5)
+ - [Apple tries out increasing iPhone trade-in values for China](https://appleinsider.com/articles/25/05/23/apple-tries-out-increasing-iphone-trade-in-values-for-china?utm_medium=rss)
+ - [29 Best Memorial Day Sales on Our Favorite Gear &lpar;2025&rpar;](https://www.wired.com/story/best-memorial-day-sales-2025-1/)
+ - [Kentucky’s Bitcoin Boom Has Gone Bust](https://www.wired.com/story/kentuckys-bitcoin-boom-has-gone-bust/)
+ - [Best Sheets for Every Bed and Budget, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-bedsheets/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

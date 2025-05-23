@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Donald Trump absolutely cooked the South African president. Look at them sitting in shame.](http://9gag.com/gag/aqyz4eL)
- - 😝 [Holding a gun against a veteran and ending up getting their ass whooped](http://9gag.com/gag/ayNQEEM)
+ - 😝 [Giggity](http://9gag.com/gag/apRAEdE)
+ - 😝 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)
  - 💣 [Mmm-hmm](http://9gag.com/gag/a0eEvzQ)
- - 😝 [How to disarm an attacker](http://9gag.com/gag/aND4y4K)
- - 👉 [It&#39;s an honour that my fire horse that I created in 2009 has become a famous meme, thank you all.](http://9gag.com/gag/agm23Nn)<!-- MEMES:END -->
+ - 😝 [A baker in France stopped a street attack. The attacker returned to seek revenge, armed. Things didn&#39;t go as planned.](http://9gag.com/gag/aE0XwWo)
+ - 👉 [Maybe it is a scam after all](http://9gag.com/gag/aZZj980)<!-- MEMES:END -->
 
 ---
 

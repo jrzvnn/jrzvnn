@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Holding a gun against a veteran and ending up getting their ass whooped](http://9gag.com/gag/ayNQEEM)
- - 😝 [It&#39;s an honour that my fire horse that I created in 2009 has become a famous meme, thank you all.](http://9gag.com/gag/agm23Nn)
- - 💣 [I\u2019d agree it\u2019s pretty good.](http://9gag.com/gag/aD2VprB)
- - 😝 [Maybe it is a scam after all](http://9gag.com/gag/aZZj980)
- - 👉 [The progression of ALS](http://9gag.com/gag/a342oBe)<!-- MEMES:END -->
+ - 😝 [Tom the Mime Brings the Best Vibe](http://9gag.com/gag/aPAXw2Q)
+ - 😝 [Trump showing the president of south africa a video of politician in his country calling for white genocide](http://9gag.com/gag/azxZ7WK)
+ - 💣 [Didn\u2019t expect much, but this movie really delivered.](http://9gag.com/gag/aoy8EX2)
+ - 😝 [\u2606\u2606\u2606](http://9gag.com/gag/a5Qje1y)
+ - 👉 [So, again I&#39;m asking you](http://9gag.com/gag/a1mLA7D)<!-- MEMES:END -->
 
 ---
 

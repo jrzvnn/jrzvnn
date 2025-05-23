@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Elon Musk Says He&#39;ll Step Back From the Government. DOGE Isn&#39;t Going Anywhere](https://www.wired.com/story/elon-musk-stepping-back-doge-final-form/)
- - [Microsoft employee bypasses ‘Palestine’ block to email thousands of staff in protest](https://www.theverge.com/microsoft/673568/microsoft-palestine-email-block-defeated-employee)
  - [Keychron K15 Max review: Low-profile and quiet Alice ergonomic keyboard](https://appleinsider.com/articles/25/05/23/keychron-k15-max-review-low-profile-and-quiet-alice-ergonomic-keyboard?utm_medium=rss)
  - [Melania Trump releases an audiobook of her memoir with her &quot;official AI voice&quot; created by ElevenLabs, available exclusively on the ElevenReader app &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250523/p16#a250523p16)
- - [WWDC 25 iOS 19 wishlist: Features we want Apple to the iPhone](https://appleinsider.com/articles/25/05/23/wwdc-25-ios-19-wishlist-features-we-want-apple-to-the-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [WWDC 25 iOS 19 wishlist: Features we want Apple to the iPhone](https://appleinsider.com/articles/25/05/23/wwdc-25-ios-19-wishlist-features-we-want-apple-to-the-iphone?utm_medium=rss)
+ - [Vestaboard’s Note is a smaller, cheaper version of its hypnotic split-flap display](https://www.theverge.com/news/673559/vestaboard-note-split-flap-mechanical-display)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

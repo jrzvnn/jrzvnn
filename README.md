@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Donald Trump absolutely cooked the South African president. Look at them sitting in shame.](http://9gag.com/gag/aqyz4eL)
  - 😝 [It&#39;s an honour that my fire horse that I created in 2009 has become a famous meme, thank you all.](http://9gag.com/gag/agm23Nn)
- - 💣 [Weird](http://9gag.com/gag/aXPW8qb)
- - 😝 [What&#39;s inside Mexican jumping beans](http://9gag.com/gag/aryqPey)
- - 👉 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)<!-- MEMES:END -->
+ - 😝 [Donald Trump absolutely cooked the South African president. Look at them sitting in shame.](http://9gag.com/gag/aqyz4eL)
+ - 💣 [What&#39;s inside Mexican jumping beans](http://9gag.com/gag/aryqPey)
+ - 😝 [How to disarm an attacker](http://9gag.com/gag/aND4y4K)
+ - 👉 [The progression of ALS](http://9gag.com/gag/a342oBe)<!-- MEMES:END -->
 
 ---
 

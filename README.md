@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Dark humor at its finest](http://9gag.com/gag/a9yXbX1)
  - 😝 [Tom the Mime Brings the Best Vibe](http://9gag.com/gag/aPAXw2Q)
- - 😝 [Food for reckoning](http://9gag.com/gag/aNDReb4)
- - 💣 [Didn\u2019t expect much, but this movie really delivered.](http://9gag.com/gag/aoy8EX2)
- - 😝 [\u2606\u2606\u2606](http://9gag.com/gag/a5Qje1y)
- - 👉 [Giggity](http://9gag.com/gag/apRAEdE)<!-- MEMES:END -->
+ - 💣 [Food for reckoning](http://9gag.com/gag/aNDReb4)
+ - 😝 [Didn\u2019t expect much, but this movie really delivered.](http://9gag.com/gag/aoy8EX2)
+ - 👉 [\u2606\u2606\u2606](http://9gag.com/gag/a5Qje1y)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Food for reckoning](http://9gag.com/gag/aNDReb4)
- - 😝 [What the..........lol](http://9gag.com/gag/agm23x6)
- - 💣 [Introvert level: Expert.](http://9gag.com/gag/aqyz90j)
+ - 😝 [When your ROI is a real knockout](http://9gag.com/gag/avyvg9E)
+ - 😝 [How does this work?](http://9gag.com/gag/a9yXMA0)
+ - 💣 [Kabul nightlife in the 70s hit different.](http://9gag.com/gag/aVv2ORd)
  - 😝 [When organizing your sock drawer seems more appealing than tackling your overdue tasks. \ud83d\udd75\ud83c\udffd\u2642\ufe0f\ud83d\udc69\ud83c\udffd\ud83c\udf3e\ud83d\udc69\ud83c\udffb\ud83d\udd27](http://9gag.com/gag/aByX3wD)
- - 👉 [Being a Secretary Means Carrying the Weight of a Thousand Tasks \u2014 Show Some Respect!](http://9gag.com/gag/aLnXQnM)<!-- MEMES:END -->
+ - 👉 [Food for reckoning](http://9gag.com/gag/aNDReb4)<!-- MEMES:END -->
 
 ---
 

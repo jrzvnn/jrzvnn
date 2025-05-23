@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A baker in France stopped a street attack. The attacker returned to seek revenge, armed. Things didn&#39;t go as planned.](http://9gag.com/gag/aE0XwWo)
- - 😝 [Giggity](http://9gag.com/gag/apRAEdE)
- - 💣 [This is Bill Skarsg\u00e4rd auditioning for the role of Pennywise.](http://9gag.com/gag/aVv2z7y)
+ - 😝 [Artist is doctorloops](http://9gag.com/gag/ayNQEvY)
+ - 😝 [Nixon checks if Brezhnev is signing the document, which Brezhnev turns into a joke](http://9gag.com/gag/a2v2QB1)
+ - 💣 [Giggity](http://9gag.com/gag/apRAEdE)
  - 😝 [When organizing your sock drawer seems more appealing than tackling your overdue tasks. \ud83d\udd75\ud83c\udffd\u2642\ufe0f\ud83d\udc69\ud83c\udffd\ud83c\udf3e\ud83d\udc69\ud83c\udffb\ud83d\udd27](http://9gag.com/gag/aByX3wD)
  - 👉 [Mmm-hmm](http://9gag.com/gag/a0eEvzQ)<!-- MEMES:END -->
 

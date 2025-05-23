@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Freedom of the Press Foundation Threatens Legal Action if Paramount Settles With Trump Over &#39;60 Minutes&#39; Interview](https://www.wired.com/story/freedom-of-the-press-foundation-paramount-trump-settlement/)
+ - [NBA Playoffs 2025: How to Watch Pacers vs. Knicks Game 2 Tonight](https://www.cnet.com/tech/services-and-software/nba-playoffs-2025-how-to-watch-pacers-vs-knicks-game-2-tonight/#ftag=CAD590a51e)
+ - [Q&amp;A with Uber CEO Dara Khosrowshahi on the trade-offs with Route Share, Uber&#39;s business structure, autonomous vehicles, working with fleet operators, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250523/p26#a250523p26)
  - [Presidential seals, ‘light vetting,’ $100,000 gem-encrusted watches, and a Marriott afterparty](https://www.theverge.com/politics/673870/trump-meme-coin-dinner-justin-sun-watch-presidential-seal)
- - [Trump&#39;s 25% smartphone tariff starts just in time for the iPhone 17](https://appleinsider.com/articles/25/05/23/trumps-25-smartphone-tariff-starts-just-in-time-for-the-iphone-17?utm_medium=rss)
- - [Experts say some Trump officials&#39; plans to amp up cyberattacks against China would risk retaliation the US is increasingly unprepared for amid budget cuts &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/250523/p25#a250523p25)
- - [Amazon has canceled its Wheel of Time series](https://www.theverge.com/news/673899/amazon-wheel-of-time-canceled)
- - [AirPods, AirPods Pro, AirPods Max: What to expect from Apple&#39;s future audio accessories](https://appleinsider.com/articles/25/05/23/airpods-airpods-pro-airpods-max-what-to-expect-from-apples-future-audio-accessories?utm_medium=rss)<!-- TECH:END -->
+ - [Trump&#39;s 25% smartphone tariff starts just in time for the iPhone 17](https://appleinsider.com/articles/25/05/23/trumps-25-smartphone-tariff-starts-just-in-time-for-the-iphone-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

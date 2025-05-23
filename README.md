@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk Says He&#39;ll Step Back From the Government. DOGE Isn&#39;t Going Anywhere](https://www.wired.com/story/elon-musk-stepping-back-doge-final-form/)
- - [Microsoft employee bypasses ‘Palestine’ block to email thousands of staff in protest](https://www.theverge.com/microsoft/673568/microsoft-palestine-email-block-defeated-employee)
- - [Keychron K15 Max review: Low-profile and quiet Alice ergonomic keyboard](https://appleinsider.com/articles/25/05/23/keychron-k15-max-review-low-profile-and-quiet-alice-ergonomic-keyboard?utm_medium=rss)
- - [First Lady Melania Trump releases an audiobook of her memoir, with her &quot;official AI voice&quot; created by ElevenLabs, available exclusively in the ElevenReader app &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250523/p16#a250523p16)
- - [WWDC 25 iOS 19 wishlist: Features we want Apple to the iPhone](https://appleinsider.com/articles/25/05/23/wwdc-25-ios-19-wishlist-features-we-want-apple-to-the-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [Monarch, which makes a personal finance app, raised a $75M Series B at a $850M valuation, says its subscribers grew by 20x since Intuit closed Mint in 2023 &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/250523/p17#a250523p17)
+ - [We Hand-Picked the 52 Best Deals From the 2025 REI Anniversary Sale](https://www.wired.com/story/rei-anniversary-sale-may-2025/)
+ - [Let&#39;s Talk About ChatGPT and Cheating in the Classroom](https://www.wired.com/story/uncanny-valley-podcast-chatgpt-cheating-in-the-classroom/)
+ - [Fujifilm X Half hands-on: whimsical, refreshing, and simply fun](https://www.theverge.com/tech/673538/fujifilm-x-half-camera-hands-on)
+ - [How the China-U.S. trade fight is putting your device purchases at risk](https://appleinsider.com/articles/25/05/23/how-the-china-us-trade-fight-is-putting-your-device-purchases-at-risk?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

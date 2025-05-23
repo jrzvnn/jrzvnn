@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Giggity](http://9gag.com/gag/apRAEdE)
- - 😝 [These nations had to come to terms with this realization the hard way, like my great grandfathers did and many, many others.](http://9gag.com/gag/aNDRobG)
- - 💣 [Food for reckoning](http://9gag.com/gag/aNDReb4)
+ - 😝 [In Scandinavian countries, it&#39;s common to see babies sleeping outside in prams, even in subzero temperatures. This tradition stems from a belief in the power of fresh air to promote healthy sleep and development.](http://9gag.com/gag/a9yXd8j)
+ - 😝 [But she has a new haircut](http://9gag.com/gag/aPAXwvP)
+ - 💣 [Giggity](http://9gag.com/gag/apRAEdE)
  - 😝 [When organizing your sock drawer seems more appealing than tackling your overdue tasks. \ud83d\udd75\ud83c\udffd\u2642\ufe0f\ud83d\udc69\ud83c\udffd\ud83c\udf3e\ud83d\udc69\ud83c\udffb\ud83d\udd27](http://9gag.com/gag/aByX3wD)
- - 👉 [What the..........lol](http://9gag.com/gag/agm23x6)<!-- MEMES:END -->
+ - 👉 [How does this work?](http://9gag.com/gag/a9yXMA0)<!-- MEMES:END -->
 
 ---
 

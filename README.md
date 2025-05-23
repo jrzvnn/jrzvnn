@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She schooled him good!](http://9gag.com/gag/an7Dq7B)
- - 😝 [How to disarm an attacker](http://9gag.com/gag/aND4y4K)
- - 💣 [Nixon checks if Brezhnev is signing the document, which Brezhnev turns into a joke](http://9gag.com/gag/a2v2QB1)
+ - 😝 [An ad made on a $500 AI app credit. Production like this typically cost $500,000 when using real actors](http://9gag.com/gag/ae923G5)
+ - 😝 [Giggity](http://9gag.com/gag/apRAEdE)
+ - 💣 [Artist is doctorloops](http://9gag.com/gag/ayNQEvY)
  - 😝 [Maybe it is a scam after all](http://9gag.com/gag/aZZj980)
  - 👉 [A baker in France stopped a street attack. The attacker returned to seek revenge, armed. Things didn&#39;t go as planned.](http://9gag.com/gag/aE0XwWo)<!-- MEMES:END -->
 

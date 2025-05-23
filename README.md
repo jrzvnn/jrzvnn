@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Donald Trump absolutely cooked the South African president. Look at them sitting in shame.](http://9gag.com/gag/aqyz4eL)
- - 😝 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)
- - 💣 [How to disarm an attacker](http://9gag.com/gag/aND4y4K)
- - 😝 [Being a Secretary Means Carrying the Weight of a Thousand Tasks \u2014 Show Some Respect!](http://9gag.com/gag/aLnXQnM)
- - 👉 [Text to Absolute Cinema, Veo3](http://9gag.com/gag/a872ryQ)<!-- MEMES:END -->
+ - 😝 [Tom the Mime Brings the Best Vibe](http://9gag.com/gag/aPAXw2Q)
+ - 😝 [Food for reckoning](http://9gag.com/gag/aNDReb4)
+ - 💣 [Didn\u2019t expect much, but this movie really delivered.](http://9gag.com/gag/aoy8EX2)
+ - 😝 [\u2606\u2606\u2606](http://9gag.com/gag/a5Qje1y)
+ - 👉 [Giggity](http://9gag.com/gag/apRAEdE)<!-- MEMES:END -->
 
 ---
 

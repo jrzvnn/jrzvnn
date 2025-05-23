@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An ad made on a $500 AI app credit. Production like this typically cost $500,000 when using real actors](http://9gag.com/gag/ae923G5)
- - 😝 [Giggity](http://9gag.com/gag/apRAEdE)
- - 💣 [Artist is doctorloops](http://9gag.com/gag/ayNQEvY)
+ - 😝 [Horses telling each other jokes. Best joke in comments wins a banana](http://9gag.com/gag/aGy2KVK)
  - 😝 [Maybe it is a scam after all](http://9gag.com/gag/aZZj980)
+ - 💣 [If this isn\u2019t black magic idk what is](http://9gag.com/gag/adB207Z)
+ - 😝 [An ad made on a $500 AI app credit. Production like this typically cost $500,000 when using real actors](http://9gag.com/gag/ae923G5)
  - 👉 [A baker in France stopped a street attack. The attacker returned to seek revenge, armed. Things didn&#39;t go as planned.](http://9gag.com/gag/aE0XwWo)<!-- MEMES:END -->
 
 ---

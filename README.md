@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Salesforce is in talks to acquire cloud data management company Informatica, reviving discussions that stalled in 2024; INFA closes up 17.45% &lpar;Bloomberg&rpar;](http://www.techmeme.com/250523/p24#a250523p24)
+ - [Trump threatens Apple, Samsung and others with a 25 percent iPhone tariff](https://www.theverge.com/news/673424/trump-apple-iphone-tariff-25-percent-india)
+ - [I/O versus io: Google and OpenAI can’t stop messing with each other](https://www.theverge.com/command-line-newsletter/673837/i-o-versus-io-google-openai-jony-ive)
  - [Sources: CommScope is exploring a sale of its broadband connectivity and cable arm CCS for up to $10B, seeking to unload assets to repay debt &lpar;Bloomberg&rpar;](http://www.techmeme.com/250523/p23#a250523p23)
- - [Trump tries to ban Harvard from enrolling international students](https://www.theverge.com/policy/673759/harvard-international-students-trump-dhs-sevis)
- - [Google I/O revealed more updates for Wallet, Wear OS, Google Play, and more](https://www.theverge.com/news/673808/google-io-wallet-wearos-play-store)
- - [Gruv’s 2-for-$24 sale includes some of 2024’s biggest Blu-ray releases](https://www.theverge.com/tech/673600/gruv-blu-ray-sale-the-wild-robot-dune-deal-sale)
- - [Q&amp;A with Demis Hassabis about how Google I/O became the Gemini show, Google getting &quot;AGI-pilled&quot;, Project Astra, Sergey Brin&#39;s shorter AGI timelines, and more &lpar;New York Times&rpar;](http://www.techmeme.com/250523/p22#a250523p22)<!-- TECH:END -->
+ - [Trump tries to ban Harvard from enrolling international students](https://www.theverge.com/policy/673759/harvard-international-students-trump-dhs-sevis)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

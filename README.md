@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [It&#39;s an honour that my fire horse that I created in 2009 has become a famous meme, thank you all.](http://9gag.com/gag/agm23Nn)
  - 😝 [What&#39;s inside Mexican jumping beans](http://9gag.com/gag/aryqPey)
- - 😝 [Mmm-hmm](http://9gag.com/gag/a0eEvzQ)
- - 💣 [Food for reckoning](http://9gag.com/gag/aNDReb4)
- - 😝 [How to disarm an attacker](http://9gag.com/gag/aND4y4K)
- - 👉 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)<!-- MEMES:END -->
+ - 💣 [All hail gigachad Steve](http://9gag.com/gag/adBe3PB)
+ - 😝 [Maybe it is a scam after all](http://9gag.com/gag/aZZj980)
+ - 👉 [How to disarm an attacker](http://9gag.com/gag/aND4y4K)<!-- MEMES:END -->
 
 ---
 

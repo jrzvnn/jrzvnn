@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dark humor at its finest](http://9gag.com/gag/a9yXbX1)
- - 😝 [Tom the Mime Brings the Best Vibe](http://9gag.com/gag/aPAXw2Q)
- - 💣 [Food for reckoning](http://9gag.com/gag/aNDReb4)
- - 😝 [Didn\u2019t expect much, but this movie really delivered.](http://9gag.com/gag/aoy8EX2)
- - 👉 [\u2606\u2606\u2606](http://9gag.com/gag/a5Qje1y)<!-- MEMES:END -->
+ - 😝 [Donald Trump absolutely cooked the South African president. Look at them sitting in shame.](http://9gag.com/gag/aqyz4eL)
+ - 😝 [What&#39;s inside Mexican jumping beans](http://9gag.com/gag/aryqPey)
+ - 💣 [How to disarm an attacker](http://9gag.com/gag/aND4y4K)
+ - 😝 [Maybe it is a scam after all](http://9gag.com/gag/aZZj980)
+ - 👉 [It&#39;s an honour that my fire horse that I created in 2009 has become a famous meme, thank you all.](http://9gag.com/gag/agm23Nn)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe it is a scam after all](http://9gag.com/gag/aZZj980)
- - 😝 [Mmm-hmm](http://9gag.com/gag/a0eEvzQ)
- - 💣 [A baker in France stopped a street attack. The attacker returned to seek revenge, armed. Things didn&#39;t go as planned.](http://9gag.com/gag/aE0XwWo)
- - 😝 [The progression of ALS](http://9gag.com/gag/a342oBe)
- - 👉 [What&#39;s inside Mexican jumping beans](http://9gag.com/gag/aryqPey)<!-- MEMES:END -->
+ - 😝 [What&#39;s inside Mexican jumping beans](http://9gag.com/gag/aryqPey)
+ - 😝 [I\u2019d agree it\u2019s pretty good.](http://9gag.com/gag/aD2VprB)
+ - 💣 [A refined gentlemen](http://9gag.com/gag/a7o24B2)
+ - 😝 [Undercover footage smuggled out of North Korea shows reporter Kim Dong-cheol briefly interviewing a homeless 23-year-old girl in rural North Korea.](http://9gag.com/gag/aqyWvoR)
+ - 👉 [A baker in France stopped a street attack. The attacker returned to seek revenge, armed. Things didn&#39;t go as planned.](http://9gag.com/gag/aE0XwWo)<!-- MEMES:END -->
 
 ---
 

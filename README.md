@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Aqara can help expand your Apple Home to other ecosystems with Matter](https://appleinsider.com/articles/25/05/23/aqara-can-help-expand-your-apple-home-to-other-ecosystems-with-matter?utm_medium=rss)
  - [Sony made its shooting grip better for creators working without a crew](https://www.theverge.com/news/673508/sony-gpvpt3-multi-function-shooting-grip-camera-alpha-series-vlogging)
  - [Zoom CEO Eric Yuan used an AI avatar for initial comments during a quarterly call; Klarna CEO used an AI avatar to deliver earnings earlier this week &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250523/p12#a250523p12)
  - [Shop Like a Supervillian](https://www.wired.com/story/gear-shop-like-a-supervillain/)
- - [How to upgrade the SSD in your M4 Mac mini](https://appleinsider.com/inside/mac-mini/tips/how-to-upgrade-the-ssd-in-your-m4-mac-mini?utm_medium=rss)
- - [Glitch CEO Anil Dash says it will stop hosting projects and close user profiles on July 8; the coding platform was acquired by Fastly in 2022 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250523/p11#a250523p11)<!-- TECH:END -->
+ - [How to upgrade the SSD in your M4 Mac mini](https://appleinsider.com/inside/mac-mini/tips/how-to-upgrade-the-ssd-in-your-m4-mac-mini?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

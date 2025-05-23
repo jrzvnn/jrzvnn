@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple is hitting back in the war over internet age-gating](https://www.theverge.com/internet-censorship/673771/apple-texas-age-verification-law-objection-tim-cook)
  - [Apple Watch growth lags as rivals push hard on health features &amp; lower prices](https://appleinsider.com/articles/25/05/23/apple-watch-growth-lags-as-rivals-push-hard-on-health-features-lower-prices?utm_medium=rss)
  - [The best Memorial Day deals you can already get](https://www.theverge.com/tech/670092/best-memorial-day-sales-2025)
  - [Sources: Oracle will buy ~400,000 Nvidia GB200 chips and lease them to OpenAI at its 1.2 gigawatts Texas data center, billed as the first US Stargate project &lpar;Financial Times&rpar;](http://www.techmeme.com/250523/p20#a250523p20)
- - [OpenAI says Operator, its AI agent that can use the web to perform tasks, will soon use a model based on o3 after previously using a custom version of GPT-4o &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250523/p19#a250523p19)
- - [The FAA is taking extra precautions for SpaceX’s next Starship test flight](https://www.theverge.com/news/673709/spacex-starship-super-heavy-booster-rocket-faa-test-flight-nine)<!-- TECH:END -->
+ - [OpenAI says Operator, its AI agent that can use the web to perform tasks, will soon use a model based on o3 after previously using a custom version of GPT-4o &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250523/p19#a250523p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

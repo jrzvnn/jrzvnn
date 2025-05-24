@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A 3-year old Chimney Sweeping From The 1930s &lpar;Credits to British Path\u00e9 On YT&rpar;](http://9gag.com/gag/awy4rRx)
- - 😝 [Meanwhile in South Africa](http://9gag.com/gag/a4PqLZQ)
- - 💣 [Kabul nightlife in the 70s hit different.](http://9gag.com/gag/aVv2ORd)
+ - 😝 [This abandoned Chinese neighborhood is filled with mega mansions](http://9gag.com/gag/aGy29B5)
+ - 😝 [Additional reason for hating your job](http://9gag.com/gag/a1mLZb2)
+ - 💣 [._.](http://9gag.com/gag/ae9234v)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
  - 👉 [Suddenly, Botox doesn&#39;t seem so expensive anymore.](http://9gag.com/gag/an7DKMB)<!-- MEMES:END -->
 

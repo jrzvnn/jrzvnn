@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)
- - 😝 [He knows something](http://9gag.com/gag/aPAXvgQ)
- - 💣 [Never grow up](http://9gag.com/gag/aVv2Q7M)
- - 😝 [Mama mia](http://9gag.com/gag/a2vbq39)
- - 👉 [In Scandinavian countries, it&#39;s common to see babies sleeping outside in prams, even in subzero temperatures. This tradition stems from a belief in the power of fresh air to promote healthy sleep and development.](http://9gag.com/gag/a9yXd8j)<!-- MEMES:END -->
+ - 😝 [Covering Blue - EIffel 65 on a Harp](http://9gag.com/gag/aGy2wjw)
+ - 😝 [Tropic Thunder Has the best Tom Cruise , RDJ and Tobey Maguire role](http://9gag.com/gag/aZZ2PBQ)
+ - 💣 [Uh oh, I&#39;ve seen this movie...](http://9gag.com/gag/adB2pqZ)
+ - 😝 [She just doesn&#39;t understand the drip.](http://9gag.com/gag/a7oN5gx)
+ - 👉 [When your ROI is a real knockout](http://9gag.com/gag/avyvg9E)<!-- MEMES:END -->
 
 ---
 

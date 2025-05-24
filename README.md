@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Uh oh, I&#39;ve seen this movie...](http://9gag.com/gag/adB2pqZ)
- - 😝 [Tropic Thunder Has the best Tom Cruise , RDJ and Tobey Maguire role](http://9gag.com/gag/aZZ2PBQ)
- - 💣 [She just doesn&#39;t understand the drip.](http://9gag.com/gag/a7oN5gx)
- - 😝 [When your ROI is a real knockout](http://9gag.com/gag/avyvg9E)
- - 👉 [So, again I&#39;m asking you](http://9gag.com/gag/a1mLA7D)<!-- MEMES:END -->
+ - 😝 [In Scandinavian countries, it&#39;s common to see babies sleeping outside in prams, even in subzero temperatures. This tradition stems from a belief in the power of fresh air to promote healthy sleep and development.](http://9gag.com/gag/a9yXd8j)
+ - 😝 [Nature&#39;s unconventional solution to California&#39;s fire problem.](http://9gag.com/gag/a87wLZZ)
+ - 💣 [Additional reason for hating your job](http://9gag.com/gag/a1mLZb2)
+ - 😝 [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)
+ - 👉 [Suddenly, Botox doesn&#39;t seem so expensive anymore.](http://9gag.com/gag/an7DKMB)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The US Is Building a One-Stop Shop for Buying Your Data](https://www.wired.com/story/us-spies-one-stop-shop-private-data/)
+ - [Apple Intelligence Can Proofread, Edit and More on Your iPhone. Here&#39;s How](https://www.cnet.com/tech/services-and-software/apple-intelligence-can-proofread-edit-and-more-on-your-iphone-heres-how/#ftag=CAD590a51e)
+ - [10 of the Best Apple TV Plus Shows You&#39;re Probably Not Watching](https://www.cnet.com/tech/services-and-software/10-of-the-best-apple-tv-plus-shows-youre-probably-not-watching/#ftag=CAD590a51e)
  - [15 Best Memorial Day Tech Deals &lpar;2025&rpar;: iPads and Bluetooth Speakers](https://www.wired.com/story/best-memorial-day-tech-deals-2025/)
- - [Fujifilm&#39;s X Half, a New OnePlus Tablet, and Fender&#39;s GarageBand Rival—Your Gear News of the Week](https://www.wired.com/story/fujifilms-x-half-a-new-oneplus-tablet-and-fenders-garageband-rival-your-gear-news-of-the-week/)
- - [Japanese carrier Docomo is discontinuing its emoji set, which was last updated in 2013 and became one of the most influential in history after its debut in 1999 &lpar;Keith Broni/Emojipedia&rpar;](http://www.techmeme.com/250524/p7#a250524p7)
- - [How Much Will the iPhone 17 Cost?](https://www.cnet.com/tech/mobile/how-much-will-the-iphone-17-cost/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Fujifilm&#39;s X Half, a New OnePlus Tablet, and Fender&#39;s GarageBand Rival—Your Gear News of the Week](https://www.wired.com/story/fujifilms-x-half-a-new-oneplus-tablet-and-fenders-garageband-rival-your-gear-news-of-the-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

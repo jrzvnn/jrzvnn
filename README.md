@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Additional reason for hating your job](http://9gag.com/gag/a1mLZb2)
- - 😝 [Top 10 anime betrayals](http://9gag.com/gag/aryB4yX)
- - 💣 [My travel adapter bag is getting heavy.](http://9gag.com/gag/aLnXP96)
- - 😝 [Nature&#39;s unconventional solution to California&#39;s fire problem.](http://9gag.com/gag/a87wLZZ)
- - 👉 [When in doubt, wear a helmet?](http://9gag.com/gag/aO81q2r)<!-- MEMES:END -->
+ - 😝 [When your ROI is a real knockout](http://9gag.com/gag/avyvg9E)
+ - 😝 [Wild Title](http://9gag.com/gag/aPAX4Dq)
+ - 💣 [With airbags](http://9gag.com/gag/aD2XmvO)
+ - 😝 [The logic seems... flawed.](http://9gag.com/gag/avyvgZO)
+ - 👉 [Rose, that necklace could&#39;ve funded my entire life.](http://9gag.com/gag/an7DKpL)<!-- MEMES:END -->
 
 ---
 

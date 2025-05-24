@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Didnt see that coming](http://9gag.com/gag/a6ZpLve)
- - 😝 [Unpimp Your Auto &lpar;2006&rpar;](http://9gag.com/gag/a5QjK0V)
- - 💣 [Pretty much all the secs we getting around here](http://9gag.com/gag/a87wMoO)
+ - 😝 [What a record!](http://9gag.com/gag/an7DBVn)
+ - 😝 [Kabul nightlife in the 70s hit different.](http://9gag.com/gag/aVv2ORd)
+ - 💣 [A 3-year old Chimney Sweeping From The 1930s &lpar;Credits to British Path\u00e9 On YT&rpar;](http://9gag.com/gag/awy4rRx)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
- - 👉 [Back in the day, when cars had personality](http://9gag.com/gag/aO81mLr)<!-- MEMES:END -->
+ - 👉 [Suddenly, Botox doesn&#39;t seem so expensive anymore.](http://9gag.com/gag/an7DKMB)<!-- MEMES:END -->
 
 ---
 

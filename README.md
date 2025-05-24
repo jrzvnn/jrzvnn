@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [7 Best Coffee Pod Machines &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-pod-coffee-makers/)
  - [The 23 Best Movies on Amazon Prime Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
  - [Want to Claim the Solar Tax Credit? Get Installing Now](https://www.wired.com/story/if-you-want-to-claim-the-solar-tax-credit-install-now/)
  - [Google’s Veo 3 AI video generator is a slop monger’s dream](https://www.theverge.com/ai-artificial-intelligence/673719/google-veo-3-ai-video-audio-sound-effects)
- - [The US Is Building a One-Stop Shop for Buying Your Data](https://www.wired.com/story/us-spies-one-stop-shop-private-data/)
- - [Apple Intelligence Can Proofread, Edit and More on Your iPhone. Here&#39;s How](https://www.cnet.com/tech/services-and-software/apple-intelligence-can-proofread-edit-and-more-on-your-iphone-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US Is Building a One-Stop Shop for Buying Your Data](https://www.wired.com/story/us-spies-one-stop-shop-private-data/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

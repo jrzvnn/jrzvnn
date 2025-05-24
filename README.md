@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X is back after an apparent widespread outage](https://www.theverge.com/news/674129/x-is-down-after-data-center-fire)
  - [Whoop is reportedly replacing defective MG trackers](https://www.theverge.com/news/674144/whoop-mg-bug-replacements)
  - [Best Mirrorless Cameras &lpar;2025&rpar;: Full-Frame, APS-C, and More](https://www.wired.com/gallery/best-mirrorless-cameras/)
  - [&#39;MobLand&#39; Release Schedule: How to Watch Episode 9 of the Tom Hardy Series](https://www.cnet.com/tech/services-and-software/mobland-release-schedule-how-to-watch-episode-9-of-the-tom-hardy-series/#ftag=CAD590a51e)
- - [Prime Video: The 33 Absolute Best TV Shows to Watch](https://www.cnet.com/tech/services-and-software/best-shows-on-prime-video-may-2025/#ftag=CAD590a51e)
- - [Sources: Nvidia plans to launch a new AI chip priced between $6,500 and $8,000, well below the $10,000-$12,000 the H20 sold for, after US export curbs &lpar;Reuters&rpar;](http://www.techmeme.com/250524/p10#a250524p10)<!-- TECH:END -->
+ - [Prime Video: The 33 Absolute Best TV Shows to Watch](https://www.cnet.com/tech/services-and-software/best-shows-on-prime-video-may-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

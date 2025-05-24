@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [What a record!](http://9gag.com/gag/an7DBVn)
  - 😝 [My travel adapter bag is getting heavy.](http://9gag.com/gag/aLnXP96)
- - 💣 [A 3-year old Chimney Sweeping From The 1930s &lpar;Credits to British Path\u00e9 On YT&rpar;](http://9gag.com/gag/awy4rRx)
+ - 💣 [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
- - 👉 [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)<!-- MEMES:END -->
+ - 👉 [Kabul nightlife in the 70s hit different.](http://9gag.com/gag/aVv2ORd)<!-- MEMES:END -->
 
 ---
 

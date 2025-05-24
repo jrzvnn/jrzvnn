@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In Scandinavian countries, it&#39;s common to see babies sleeping outside in prams, even in subzero temperatures. This tradition stems from a belief in the power of fresh air to promote healthy sleep and development.](http://9gag.com/gag/a9yXd8j)
- - 😝 [Nature&#39;s unconventional solution to California&#39;s fire problem.](http://9gag.com/gag/a87wLZZ)
- - 💣 [Additional reason for hating your job](http://9gag.com/gag/a1mLZb2)
- - 😝 [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)
- - 👉 [Suddenly, Botox doesn&#39;t seem so expensive anymore.](http://9gag.com/gag/an7DKMB)<!-- MEMES:END -->
+ - 😝 [Additional reason for hating your job](http://9gag.com/gag/a1mLZb2)
+ - 😝 [Top 10 anime betrayals](http://9gag.com/gag/aryB4yX)
+ - 💣 [You want to do what?](http://9gag.com/gag/a1mLZrY)
+ - 😝 [Beep](http://9gag.com/gag/ayNQ72V)
+ - 👉 [When in doubt, wear a helmet?](http://9gag.com/gag/aO81q2r)<!-- MEMES:END -->
 
 ---
 

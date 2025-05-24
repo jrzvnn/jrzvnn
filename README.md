@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Covering Blue - EIffel 65 on a Harp](http://9gag.com/gag/aGy2wjw)
- - 😝 [Tropic Thunder Has the best Tom Cruise , RDJ and Tobey Maguire role](http://9gag.com/gag/aZZ2PBQ)
- - 💣 [She just doesn&#39;t understand the drip.](http://9gag.com/gag/a7oN5gx)
- - 😝 [When your ROI is a real knockout](http://9gag.com/gag/avyvg9E)
- - 👉 [Wild Title](http://9gag.com/gag/aPAX4Dq)<!-- MEMES:END -->
+ - 😝 [This is Bill Skarsg\u00e4rd auditioning for the role of Pennywise.](http://9gag.com/gag/aVv2z7y)
+ - 😝 [Kabul nightlife in the 70s hit different.](http://9gag.com/gag/aVv2ORd)
+ - 💣 [When in doubt, wear a helmet?](http://9gag.com/gag/aO81q2r)
+ - 😝 [In Scandinavian countries, it&#39;s common to see babies sleeping outside in prams, even in subzero temperatures. This tradition stems from a belief in the power of fresh air to promote healthy sleep and development.](http://9gag.com/gag/a9yXd8j)
+ - 👉 [Beep](http://9gag.com/gag/ayNQ72V)<!-- MEMES:END -->
 
 ---
 

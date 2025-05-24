@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your ROI is a real knockout](http://9gag.com/gag/avyvg9E)
- - 😝 [He knows something](http://9gag.com/gag/aPAXvgQ)
- - 💣 [A 3-year old Chimney Sweeping From The 1930s &lpar;Credits to British Path\u00e9 On YT&rpar;](http://9gag.com/gag/awy4rRx)
+ - 😝 [Introvert level: Expert.](http://9gag.com/gag/aqyz90j)
+ - 😝 [Still one of the best loops I&#39;ve ever seen](http://9gag.com/gag/aMVXrbW)
+ - 💣 [When your ROI is a real knockout](http://9gag.com/gag/avyvg9E)
  - 😝 [When organizing your sock drawer seems more appealing than tackling your overdue tasks. \ud83d\udd75\ud83c\udffd\u2642\ufe0f\ud83d\udc69\ud83c\udffd\ud83c\udf3e\ud83d\udc69\ud83c\udffb\ud83d\udd27](http://9gag.com/gag/aByX3wD)
- - 👉 [This is Bill Skarsg\u00e4rd auditioning for the role of Pennywise.](http://9gag.com/gag/aVv2z7y)<!-- MEMES:END -->
+ - 👉 [Covering Blue - EIffel 65 on a Harp](http://9gag.com/gag/aGy2wjw)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Top 10 anime betrayals](http://9gag.com/gag/aryB4yX)
+ - 😝 [Suddenly, Botox doesn&#39;t seem so expensive anymore.](http://9gag.com/gag/an7DKMB)
  - 😝 [This abandoned Chinese neighborhood is filled with mega mansions](http://9gag.com/gag/aGy29B5)
- - 💣 [He knows something](http://9gag.com/gag/aPAXvgQ)
+ - 💣 [Kabul nightlife in the 70s hit different.](http://9gag.com/gag/aVv2ORd)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
- - 👉 [Additional reason for hating your job](http://9gag.com/gag/a1mLZb2)<!-- MEMES:END -->
+ - 👉 [Top 10 anime betrayals](http://9gag.com/gag/aryB4yX)<!-- MEMES:END -->
 
 ---
 

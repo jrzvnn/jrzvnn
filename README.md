@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He knows something](http://9gag.com/gag/aPAXvgQ)
- - 😝 [._.](http://9gag.com/gag/ae9234v)
- - 💣 [This game doesn&#39;t work with friends](http://9gag.com/gag/a2vbPn1)
- - 😝 [When in doubt, wear a helmet?](http://9gag.com/gag/aO81q2r)
- - 👉 [Kabul nightlife in the 70s hit different.](http://9gag.com/gag/aVv2ORd)<!-- MEMES:END -->
+ - 😝 [The logic seems... flawed.](http://9gag.com/gag/avyvgZO)
+ - 😝 [When your ROI is a real knockout](http://9gag.com/gag/avyvg9E)
+ - 💣 [So, again I&#39;m asking you](http://9gag.com/gag/a1mLA7D)
+ - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
+ - 👉 [Rose, that necklace could&#39;ve funded my entire life.](http://9gag.com/gag/an7DKpL)<!-- MEMES:END -->
 
 ---
 

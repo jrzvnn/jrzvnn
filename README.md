@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When in doubt, wear a helmet?](http://9gag.com/gag/aO81q2r)
- - 😝 [He knows something](http://9gag.com/gag/aPAXvgQ)
- - 💣 [Beep](http://9gag.com/gag/ayNQ72V)
+ - 😝 [Still one of the best loops I&#39;ve ever seen](http://9gag.com/gag/aMVXrbW)
+ - 😝 [Covering Blue - EIffel 65 on a Harp](http://9gag.com/gag/aGy2wjw)
+ - 💣 [Rose, that necklace could&#39;ve funded my entire life.](http://9gag.com/gag/an7DKpL)
  - 😝 [When organizing your sock drawer seems more appealing than tackling your overdue tasks. \ud83d\udd75\ud83c\udffd\u2642\ufe0f\ud83d\udc69\ud83c\udffd\ud83c\udf3e\ud83d\udc69\ud83c\udffb\ud83d\udd27](http://9gag.com/gag/aByX3wD)
- - 👉 [This is Bill Skarsg\u00e4rd auditioning for the role of Pennywise.](http://9gag.com/gag/aVv2z7y)<!-- MEMES:END -->
+ - 👉 [Tropic Thunder Has the best Tom Cruise , RDJ and Tobey Maguire role](http://9gag.com/gag/aZZ2PBQ)<!-- MEMES:END -->
 
 ---
 

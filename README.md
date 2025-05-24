@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is Bill Skarsg\u00e4rd auditioning for the role of Pennywise.](http://9gag.com/gag/aVv2z7y)
- - 😝 [Kabul nightlife in the 70s hit different.](http://9gag.com/gag/aVv2ORd)
- - 💣 [When in doubt, wear a helmet?](http://9gag.com/gag/aO81q2r)
- - 😝 [In Scandinavian countries, it&#39;s common to see babies sleeping outside in prams, even in subzero temperatures. This tradition stems from a belief in the power of fresh air to promote healthy sleep and development.](http://9gag.com/gag/a9yXd8j)
- - 👉 [Beep](http://9gag.com/gag/ayNQ72V)<!-- MEMES:END -->
+ - 😝 [I wish I could provide support to a female athlete this way](http://9gag.com/gag/avyvZpq)
+ - 😝 [Beep](http://9gag.com/gag/ayNQ72V)
+ - 💣 [Top 10 anime betrayals](http://9gag.com/gag/aryB4yX)
+ - 😝 [When in doubt, wear a helmet?](http://9gag.com/gag/aO81q2r)
+ - 👉 [Kabul nightlife in the 70s hit different.](http://9gag.com/gag/aVv2ORd)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Need for face-lift](http://9gag.com/gag/a9yXbVo)
- - 😝 [Suddenly, Botox doesn&#39;t seem so expensive anymore.](http://9gag.com/gag/an7DKMB)
- - 💣 [Mexican competitiveness is beautiful](http://9gag.com/gag/avyv0Wq)
+ - 😝 [He knows something](http://9gag.com/gag/aPAXvgQ)
+ - 😝 [Btw, it&#39;s true](http://9gag.com/gag/a4Pq9Pp)
+ - 💣 [Suddenly, Botox doesn&#39;t seem so expensive anymore.](http://9gag.com/gag/an7DKMB)
  - 😝 [When organizing your sock drawer seems more appealing than tackling your overdue tasks. \ud83d\udd75\ud83c\udffd\u2642\ufe0f\ud83d\udc69\ud83c\udffd\ud83c\udf3e\ud83d\udc69\ud83c\udffb\ud83d\udd27](http://9gag.com/gag/aByX3wD)
- - 👉 [He knows something](http://9gag.com/gag/aPAXvgQ)<!-- MEMES:END -->
+ - 👉 [Mexican competitiveness is beautiful](http://9gag.com/gag/avyv0Wq)<!-- MEMES:END -->
 
 ---
 

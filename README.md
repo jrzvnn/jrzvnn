@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Metaverse startup Infinite Reality, which claims a $15B+ valuation, told shareholders it is rebranding as Napster, an &quot;AI-powered digital experiences&quot; provider &lpar;Phoebe Liu/Forbes&rpar;](http://www.techmeme.com/250524/p5#a250524p5)
  - [Utah-based Awardco, which makes HR software that helps AT&amp;T, Adobe, and other clients manage employee rewards, raised a $165M Series B at an over $1B valuation &lpar;Ryan Barwick/Axios&rpar;](http://www.techmeme.com/250524/p4#a250524p4)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, May 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-may-24/#ftag=CAD590a51e)
  - [Sources: Builder.ai collapsed after it revised its 2024 revenue estimate from $220M to ~$55M and restated its previously reported 2023 sales from $180M to ~$45M &lpar;Financial Times&rpar;](http://www.techmeme.com/250524/p3#a250524p3)
- - [Polygon cofounder Mihailo Bjelic steps down from the project&#39;s development studio, Polygon Labs, and from the foundation board, marking the third founder exit &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250524/p2#a250524p2)<!-- TECH:END -->
+ - [Polygon cofounder Mihailo Bjelic steps down from the project&#39;s development studio, Polygon Labs, and from the foundation board, marking the third founder exit &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250524/p2#a250524p2)
+ - [Thoma Bravo-backed Nearmap agrees to acquire property and casualty insurance tech provider itel from PE firm GTCR, a source says for over $1.3B, including debt &lpar;Reuters&rpar;](http://www.techmeme.com/250524/p1#a250524p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

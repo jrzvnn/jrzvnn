@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unpimp Your Auto &lpar;2006&rpar;](http://9gag.com/gag/a5QjK0V)
- - 😝 [Pretty much all the secs we getting around here](http://9gag.com/gag/a87wMoO)
- - 💣 [Back in the day, when cars had personality](http://9gag.com/gag/aO81mLr)
+ - 😝 [That 2 am `I love you so much` text from Cancun...](http://9gag.com/gag/a9yXMx1)
+ - 😝 [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)
+ - 💣 [You want to do what?](http://9gag.com/gag/a1mLZrY)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
- - 👉 [Party horn machine](http://9gag.com/gag/ajPKDx0)<!-- MEMES:END -->
+ - 👉 [In an alternative reality](http://9gag.com/gag/azxZjjm)<!-- MEMES:END -->
 
 ---
 

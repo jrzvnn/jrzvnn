@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk says he needs to be &quot;super focused on X/xAI and Tesla&quot;, saying major operational improvements need to be made &quot;as evidenced by the X uptime issues&quot; &lpar;Valentine Baldassari/Bloomberg&rpar;](http://www.techmeme.com/250524/p12#a250524p12)
  - [Filming for fourth season of &#39;Ted Lasso&#39; to kick off this summer](https://appleinsider.com/articles/25/05/24/filming-for-fourth-season-of-ted-lasso-to-kick-off-this-summer?utm_medium=rss)
  - [A look at The Technology Brothers Podcast Network, a daily tech news talk show that has captured the attention of Silicon Valley&#39;s investors and founders &lpar;Abram Brown/The Information&rpar;](http://www.techmeme.com/250524/p11#a250524p11)
  - [X is back after an apparent widespread outage](https://www.theverge.com/news/674129/x-is-down-after-data-center-fire)
- - [Whoop is reportedly replacing defective MG trackers](https://www.theverge.com/news/674144/whoop-mg-bug-replacements)
- - [Best Mirrorless Cameras &lpar;2025&rpar;: Full-Frame, APS-C, and More](https://www.wired.com/gallery/best-mirrorless-cameras/)<!-- TECH:END -->
+ - [Whoop is reportedly replacing defective MG trackers](https://www.theverge.com/news/674144/whoop-mg-bug-replacements)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

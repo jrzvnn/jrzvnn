@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Mirrorless Cameras &lpar;2025&rpar;: Full-Frame, APS-C, and More](https://www.wired.com/gallery/best-mirrorless-cameras/)
+ - [Sources: Nvidia plans to launch a new AI chip priced between $6,500 and $8,000, well below the $10,000-$12,000 the H20 sold for, after US export curbs &lpar;Reuters&rpar;](http://www.techmeme.com/250524/p10#a250524p10)
  - [Twelve South’s slick 3-in-1 charging stand has dropped to a new low price](https://www.theverge.com/tech/673960/sony-ult-field-3-speaker-twelve-south-hirise-3-deluxe-charger-deal-sale)
  - [Anker Nebula X1 Home Projector Review: Gorgeous Anywhere](https://www.wired.com/review/anker-nebula-x1-home-projector/)
- - [WWDC 25 iOS 19 wishlist: Features we want Apple to add to the iPhone](https://appleinsider.com/articles/25/05/23/wwdc-25-ios-19-wishlist-features-we-want-apple-to-the-iphone?utm_medium=rss)
- - [X experienced a significant outage globally on Saturday morning, after a fire reportedly broke out in an Oregon data center owned by X on Thursday &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250524/p9#a250524p9)
- - [X is down](https://www.theverge.com/news/674129/x-is-down-after-data-center-fire)<!-- TECH:END -->
+ - [WWDC 25 iOS 19 wishlist: Features we want Apple to add to the iPhone](https://appleinsider.com/articles/25/05/23/wwdc-25-ios-19-wishlist-features-we-want-apple-to-the-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tropic Thunder Has the best Tom Cruise , RDJ and Tobey Maguire role](http://9gag.com/gag/aZZ2PBQ)
- - 😝 [Uh oh, I&#39;ve seen this movie...](http://9gag.com/gag/adB2pqZ)
- - 💣 [She just doesn&#39;t understand the drip.](http://9gag.com/gag/a7oN5gx)
- - 😝 [When your ROI is a real knockout](http://9gag.com/gag/avyvg9E)
- - 👉 [So, again I&#39;m asking you](http://9gag.com/gag/a1mLA7D)<!-- MEMES:END -->
+ - 😝 [Never grow up](http://9gag.com/gag/aVv2Q7M)
+ - 😝 [Additional reason for hating your job](http://9gag.com/gag/a1mLZb2)
+ - 💣 [Nature&#39;s unconventional solution to California&#39;s fire problem.](http://9gag.com/gag/a87wLZZ)
+ - 😝 [Beep](http://9gag.com/gag/ayNQ72V)
+ - 👉 [He knows something](http://9gag.com/gag/aPAXvgQ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Thoma Bravo-backed Nearmap agrees to acquire property and casualty insurance tech provider itel from PE firm GTCR, a source says for over $1.3B, including debt &lpar;Reuters&rpar;](http://www.techmeme.com/250524/p1#a250524p1)
  - [The Verge&amp;#8217;s 2025 graduation gift guide](https://www.theverge.com/tech/660700/best-graduation-gift-ideas)
  - [A US judge vacates Avraham Eisenberg&#39;s convictions for fraud and manipulation related to a $110M theft on Mango Markets in 2022 due to insufficient evidence &lpar;Bloomberg&rpar;](http://www.techmeme.com/250523/p29#a250523p29)
  - [RevenueCat, which offers tools for devs to add subscriptions to their apps, raised a $50M Series C led by Bain Capital Ventures, valuing the company at $500M &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250523/p28#a250523p28)
- - [CB Insights: OpenAI&#39;s acquisition of Jony Ive&#39;s io for $6.5B sets a new record for venture-backed acquisition by a private buyer &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250523/p27#a250523p27)
- - [Valve CEO Gabe Newell’s Neuralink competitor is expecting its first brain chip this year](https://www.theverge.com/news/673938/gabe-newell-valve-founder-brain-computer-interface-first-chip-starfish)<!-- TECH:END -->
+ - [CB Insights: OpenAI&#39;s acquisition of Jony Ive&#39;s io for $6.5B sets a new record for venture-backed acquisition by a private buyer &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250523/p27#a250523p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

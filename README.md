@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [._.](http://9gag.com/gag/ae9234v)
- - 😝 [Top 10 anime betrayals](http://9gag.com/gag/aryB4yX)
- - 💣 [In Scandinavian countries, it&#39;s common to see babies sleeping outside in prams, even in subzero temperatures. This tradition stems from a belief in the power of fresh air to promote healthy sleep and development.](http://9gag.com/gag/a9yXd8j)
+ - 😝 [This game doesn&#39;t work with friends](http://9gag.com/gag/a2vbPn1)
+ - 😝 [Wtf is going on here](http://9gag.com/gag/aD2XwYZ)
+ - 💣 [Classic Dev troll!](http://9gag.com/gag/aPAXyEP)
  - 😝 [I wish I could provide support to a female athlete this way](http://9gag.com/gag/avyvZpq)
- - 👉 [Classic Dev troll!](http://9gag.com/gag/aPAXyEP)<!-- MEMES:END -->
+ - 👉 [._.](http://9gag.com/gag/ae9234v)<!-- MEMES:END -->
 
 ---
 

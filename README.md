@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a record!](http://9gag.com/gag/an7DBVn)
- - 😝 [Top 10 anime betrayals](http://9gag.com/gag/aryB4yX)
- - 💣 [I wish I could provide support to a female athlete this way](http://9gag.com/gag/avyvZpq)
+ - 😝 [Exactly. Just show me the price](http://9gag.com/gag/avyvnrM)
+ - 😝 [Pretty much all the secs we getting around here](http://9gag.com/gag/a87wMoO)
+ - 💣 [Back in the day, when cars had personality](http://9gag.com/gag/aO81mLr)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
- - 👉 [Soccer players wouldn&#39;t last 20 mins if they had to play in the 70s](http://9gag.com/gag/aGy2Dww)<!-- MEMES:END -->
+ - 👉 [Japanese Latex mattress.](http://9gag.com/gag/aO81b92)<!-- MEMES:END -->
 
 ---
 

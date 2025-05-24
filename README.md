@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That was way too close.](http://9gag.com/gag/aRB2eAA)
- - 😝 [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)
- - 💣 [What a record!](http://9gag.com/gag/an7DBVn)
+ - 😝 [That 2 am `I love you so much` text from Cancun...](http://9gag.com/gag/a9yXMx1)
+ - 😝 [Meanwhile in South Africa](http://9gag.com/gag/a4PqLZQ)
+ - 💣 [Sharing is caring... or maybe just curious?](http://9gag.com/gag/adB2jZ9)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
- - 👉 [Some of the best in the business](http://9gag.com/gag/aqyz2GY)<!-- MEMES:END -->
+ - 👉 [My travel adapter bag is getting heavy.](http://9gag.com/gag/aLnXP96)<!-- MEMES:END -->
 
 ---
 

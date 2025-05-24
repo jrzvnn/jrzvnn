@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 23 Best Movies on Amazon Prime Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
+ - [Want to Claim the Solar Tax Credit? Get Installing Now](https://www.wired.com/story/if-you-want-to-claim-the-solar-tax-credit-install-now/)
+ - [Google’s Veo 3 AI video generator is a slop monger’s dream](https://www.theverge.com/ai-artificial-intelligence/673719/google-veo-3-ai-video-audio-sound-effects)
  - [The US Is Building a One-Stop Shop for Buying Your Data](https://www.wired.com/story/us-spies-one-stop-shop-private-data/)
- - [Apple Intelligence Can Proofread, Edit and More on Your iPhone. Here&#39;s How](https://www.cnet.com/tech/services-and-software/apple-intelligence-can-proofread-edit-and-more-on-your-iphone-heres-how/#ftag=CAD590a51e)
- - [10 of the Best Apple TV Plus Shows You&#39;re Probably Not Watching](https://www.cnet.com/tech/services-and-software/10-of-the-best-apple-tv-plus-shows-youre-probably-not-watching/#ftag=CAD590a51e)
- - [15 Best Memorial Day Tech Deals &lpar;2025&rpar;: iPads and Bluetooth Speakers](https://www.wired.com/story/best-memorial-day-tech-deals-2025/)
- - [Fujifilm&#39;s X Half, a New OnePlus Tablet, and Fender&#39;s GarageBand Rival—Your Gear News of the Week](https://www.wired.com/story/fujifilms-x-half-a-new-oneplus-tablet-and-fenders-garageband-rival-your-gear-news-of-the-week/)<!-- TECH:END -->
+ - [Apple Intelligence Can Proofread, Edit and More on Your iPhone. Here&#39;s How](https://www.cnet.com/tech/services-and-software/apple-intelligence-can-proofread-edit-and-more-on-your-iphone-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

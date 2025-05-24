@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Verge&amp;#8217;s 2025 graduation gift guide](https://www.theverge.com/tech/660700/best-graduation-gift-ideas)
+ - [A US judge vacates Avraham Eisenberg&#39;s convictions for fraud and manipulation related to a $110M theft on Mango Markets in 2022 due to insufficient evidence &lpar;Bloomberg&rpar;](http://www.techmeme.com/250523/p29#a250523p29)
+ - [RevenueCat, which offers tools for devs to add subscriptions to their apps, raised a $50M Series C led by Bain Capital Ventures, valuing the company at $500M &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250523/p28#a250523p28)
  - [CB Insights: OpenAI&#39;s acquisition of Jony Ive&#39;s io for $6.5B sets a new record for venture-backed acquisition by a private buyer &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250523/p27#a250523p27)
- - [Valve CEO Gabe Newell’s Neuralink competitor is expecting its first brain chip this year](https://www.theverge.com/news/673938/gabe-newell-valve-founder-brain-computer-interface-first-chip-starfish)
- - [Every iPhone 17 Air Rumor: What to Know About a Slim New iPhone](https://www.cnet.com/tech/mobile/every-iphone-17-air-rumor-what-to-know-about-a-slim-new-iphone/#ftag=CAD590a51e)
- - [iPhone 17 Rumors, From a Slim &#39;Air&#39; Model to a 25% Tariff Threat](https://www.cnet.com/tech/mobile/iphone-17-rumors-from-a-slim-air-model-to-a-25-tariff-threat/#ftag=CAD590a51e)
- - [Freedom of the Press Foundation Threatens Legal Action if Paramount Settles With Trump Over &#39;60 Minutes&#39; Interview](https://www.wired.com/story/freedom-of-the-press-foundation-paramount-trump-settlement/)<!-- TECH:END -->
+ - [Valve CEO Gabe Newell’s Neuralink competitor is expecting its first brain chip this year](https://www.theverge.com/news/673938/gabe-newell-valve-founder-brain-computer-interface-first-chip-starfish)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

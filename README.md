@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In Scandinavian countries, it&#39;s common to see babies sleeping outside in prams, even in subzero temperatures. This tradition stems from a belief in the power of fresh air to promote healthy sleep and development.](http://9gag.com/gag/a9yXd8j)
- - 😝 [You want to do what?](http://9gag.com/gag/a1mLZrY)
- - 💣 [Additional reason for hating your job](http://9gag.com/gag/a1mLZb2)
- - 😝 [When organizing your sock drawer seems more appealing than tackling your overdue tasks. \ud83d\udd75\ud83c\udffd\u2642\ufe0f\ud83d\udc69\ud83c\udffd\ud83c\udf3e\ud83d\udc69\ud83c\udffb\ud83d\udd27](http://9gag.com/gag/aByX3wD)
- - 👉 [He knows something](http://9gag.com/gag/aPAXvgQ)<!-- MEMES:END -->
+ - 😝 [When your ROI is a real knockout](http://9gag.com/gag/avyvg9E)
+ - 😝 [He knows something](http://9gag.com/gag/aPAXvgQ)
+ - 💣 [Beep](http://9gag.com/gag/ayNQ72V)
+ - 😝 [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)
+ - 👉 [Additional reason for hating your job](http://9gag.com/gag/a1mLZb2)<!-- MEMES:END -->
 
 ---
 

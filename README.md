@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My travel adapter bag is getting heavy.](http://9gag.com/gag/aLnXP96)
- - 😝 [Btw, it&#39;s true](http://9gag.com/gag/a4Pq9Pp)
- - 💣 [A baker in France stopped a street attack. The attacker returned to seek revenge, armed. Things didn&#39;t go as planned.](http://9gag.com/gag/aE0XwWo)
+ - 😝 [Introvert level: Expert.](http://9gag.com/gag/aqyz90j)
+ - 😝 [When your ROI is a real knockout](http://9gag.com/gag/avyvg9E)
+ - 💣 [Still one of the best loops I&#39;ve ever seen](http://9gag.com/gag/aMVXrbW)
  - 😝 [When organizing your sock drawer seems more appealing than tackling your overdue tasks. \ud83d\udd75\ud83c\udffd\u2642\ufe0f\ud83d\udc69\ud83c\udffd\ud83c\udf3e\ud83d\udc69\ud83c\udffb\ud83d\udd27](http://9gag.com/gag/aByX3wD)
- - 👉 [Mmm-hmm](http://9gag.com/gag/a0eEvzQ)<!-- MEMES:END -->
+ - 👉 [Tropic Thunder Has the best Tom Cruise , RDJ and Tobey Maguire role](http://9gag.com/gag/aZZ2PBQ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s Wordle Hints, Answer and Help for May 25, #1436](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-25-1436/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for May 25, #448](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-25-448/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for May 25, #714](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-25-714/#ftag=CAD590a51e)
  - [Sam Altman and Jony Ive&#39;s awkward io video feels like empty hype until a compelling device is released, especially given Ive&#39;s post-Jobs design missteps &lpar;Jason Snell/Six Colors&rpar;](http://www.techmeme.com/250524/p14#a250524p14)
- - [California Attorney General threatens lawsuit over potential 25% iPhone tariff](https://appleinsider.com/articles/25/05/24/california-attorney-general-threatens-lawsuit-over-iphone-tariff-threat?utm_medium=rss)<!-- TECH:END -->
+ - [California Attorney General threatens lawsuit over potential 25% iPhone tariff](https://appleinsider.com/articles/25/05/24/california-attorney-general-threatens-lawsuit-over-iphone-tariff-threat?utm_medium=rss)
+ - [Despite Google&#39;s guardrails, Veo 3 users are generating realistic clips of news, disasters, and fictional events, some with dialogue not included in the prompt &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/250524/p13#a250524p13)
+ - [The oldest Fire TV devices are losing Netflix support soon](https://www.theverge.com/news/674165/amazon-1st-generation-fire-tv-devices-losing-netflix-support)
+ - [Elon Musk says he needs to be &quot;super focused on X/xAI and Tesla&quot;, saying major operational improvements need to be made &quot;as evidenced by the X uptime issues&quot; &lpar;Valentine Baldassari/Bloomberg&rpar;](http://www.techmeme.com/250524/p12#a250524p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

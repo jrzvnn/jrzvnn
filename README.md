@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a record!](http://9gag.com/gag/an7DBVn)
- - 😝 [My travel adapter bag is getting heavy.](http://9gag.com/gag/aLnXP96)
- - 💣 [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)
+ - 😝 [Airship](http://9gag.com/gag/ajPKDqq)
+ - 😝 [Unpimp Your Auto &lpar;2006&rpar;](http://9gag.com/gag/a5QjK0V)
+ - 💣 [Meow Meow](http://9gag.com/gag/aVv2P0O)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
- - 👉 [Kabul nightlife in the 70s hit different.](http://9gag.com/gag/aVv2ORd)<!-- MEMES:END -->
+ - 👉 [Pretty much all the secs we getting around here](http://9gag.com/gag/a87wMoO)<!-- MEMES:END -->
 
 ---
 

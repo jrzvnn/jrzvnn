@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your ROI is a real knockout](http://9gag.com/gag/avyvg9E)
- - 😝 [So, again I&#39;m asking you](http://9gag.com/gag/a1mLA7D)
- - 💣 [Rose, that necklace could&#39;ve funded my entire life.](http://9gag.com/gag/an7DKpL)
+ - 😝 [Top 10 anime betrayals](http://9gag.com/gag/aryB4yX)
+ - 😝 [This abandoned Chinese neighborhood is filled with mega mansions](http://9gag.com/gag/aGy29B5)
+ - 💣 [He knows something](http://9gag.com/gag/aPAXvgQ)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
- - 👉 [With airbags](http://9gag.com/gag/aD2XmvO)<!-- MEMES:END -->
+ - 👉 [Additional reason for hating your job](http://9gag.com/gag/a1mLZb2)<!-- MEMES:END -->
 
 ---
 

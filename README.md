@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Airship](http://9gag.com/gag/ajPKDqq)
- - 😝 [Unpimp Your Auto &lpar;2006&rpar;](http://9gag.com/gag/a5QjK0V)
- - 💣 [Meow Meow](http://9gag.com/gag/aVv2P0O)
+ - 😝 [Meanwhile in South Africa](http://9gag.com/gag/a4PqLZQ)
+ - 😝 [A 3-year old Chimney Sweeping From The 1930s &lpar;Credits to British Path\u00e9 On YT&rpar;](http://9gag.com/gag/awy4rRx)
+ - 💣 [Btw, it&#39;s true](http://9gag.com/gag/a4Pq9Pp)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
- - 👉 [Pretty much all the secs we getting around here](http://9gag.com/gag/a87wMoO)<!-- MEMES:END -->
+ - 👉 [That 2 am `I love you so much` text from Cancun...](http://9gag.com/gag/a9yXMx1)<!-- MEMES:END -->
 
 ---
 

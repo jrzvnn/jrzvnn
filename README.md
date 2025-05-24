@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CB Insights: OpenAI&#39;s acquisition of Jony Ive&#39;s io for $6.5B sets a new record for venture-backed acquisition by a private buyer &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250523/p27#a250523p27)
  - [Valve CEO Gabe Newell’s Neuralink competitor is expecting its first brain chip this year](https://www.theverge.com/news/673938/gabe-newell-valve-founder-brain-computer-interface-first-chip-starfish)
  - [Every iPhone 17 Air Rumor: What to Know About a Slim New iPhone](https://www.cnet.com/tech/mobile/every-iphone-17-air-rumor-what-to-know-about-a-slim-new-iphone/#ftag=CAD590a51e)
  - [iPhone 17 Rumors, From a Slim &#39;Air&#39; Model to a 25% Tariff Threat](https://www.cnet.com/tech/mobile/iphone-17-rumors-from-a-slim-air-model-to-a-25-tariff-threat/#ftag=CAD590a51e)
- - [Freedom of the Press Foundation Threatens Legal Action if Paramount Settles With Trump Over &#39;60 Minutes&#39; Interview](https://www.wired.com/story/freedom-of-the-press-foundation-paramount-trump-settlement/)
- - [NBA Playoffs 2025: How to Watch Pacers vs. Knicks Game 2 Tonight](https://www.cnet.com/tech/services-and-software/nba-playoffs-2025-how-to-watch-pacers-vs-knicks-game-2-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Freedom of the Press Foundation Threatens Legal Action if Paramount Settles With Trump Over &#39;60 Minutes&#39; Interview](https://www.wired.com/story/freedom-of-the-press-foundation-paramount-trump-settlement/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meanwhile in South Africa](http://9gag.com/gag/a4PqLZQ)
- - 😝 [How does this work?](http://9gag.com/gag/a9yXMA0)
- - 💣 [Top 10 anime betrayals](http://9gag.com/gag/aryB4yX)
+ - 😝 [When your ROI is a real knockout](http://9gag.com/gag/avyvg9E)
+ - 😝 [So, again I&#39;m asking you](http://9gag.com/gag/a1mLA7D)
+ - 💣 [Rose, that necklace could&#39;ve funded my entire life.](http://9gag.com/gag/an7DKpL)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
- - 👉 [He knows something](http://9gag.com/gag/aPAXvgQ)<!-- MEMES:END -->
+ - 👉 [With airbags](http://9gag.com/gag/aD2XmvO)<!-- MEMES:END -->
 
 ---
 

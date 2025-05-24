@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He knows something](http://9gag.com/gag/aPAXvgQ)
- - 😝 [This game doesn&#39;t work with friends](http://9gag.com/gag/a2vbPn1)
- - 💣 [Classic Dev troll!](http://9gag.com/gag/aPAXyEP)
+ - 😝 [Kabul nightlife in the 70s hit different.](http://9gag.com/gag/aVv2ORd)
+ - 😝 [Classic Dev troll!](http://9gag.com/gag/aPAXyEP)
+ - 💣 [My travel adapter bag is getting heavy.](http://9gag.com/gag/aLnXP96)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
- - 👉 [Meanwhile in South Africa](http://9gag.com/gag/a4PqLZQ)<!-- MEMES:END -->
+ - 👉 [The second round of the presidential elections is approaching in Poland. Meanwhile, one of the candidates during a live debate:](http://9gag.com/gag/aZZ2MMQ)<!-- MEMES:END -->
 
 ---
 

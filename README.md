@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meanwhile in South Africa](http://9gag.com/gag/a4PqLZQ)
+ - 😝 [What a record!](http://9gag.com/gag/an7DBVn)
  - 😝 [My travel adapter bag is getting heavy.](http://9gag.com/gag/aLnXP96)
  - 💣 [A 3-year old Chimney Sweeping From The 1930s &lpar;Credits to British Path\u00e9 On YT&rpar;](http://9gag.com/gag/awy4rRx)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anker Nebula X1 Home Projector Review: Gorgeous Anywhere](https://www.wired.com/review/anker-nebula-x1-home-projector/)
  - [WWDC 25 iOS 19 wishlist: Features we want Apple to add to the iPhone](https://appleinsider.com/articles/25/05/23/wwdc-25-ios-19-wishlist-features-we-want-apple-to-the-iphone?utm_medium=rss)
  - [X appears to be in the midst of a significant outage globally, after a fire reportedly broke out in an Oregon data center owned by X on Thursday &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250524/p9#a250524p9)
  - [X is down](https://www.theverge.com/news/674129/x-is-down-after-data-center-fire)
- - [Women&#39;s Champions League Final Soccer: Livestream Arsenal vs. Barcelona From Anywhere For Free](https://www.cnet.com/tech/services-and-software/womens-champions-league-final-soccer-livestream-arsenal-vs-barcelona-from-anywhere-for-free/#ftag=CAD590a51e)
- - [DJI Mavic Pro Review: Powerful and Easy to Use](https://www.wired.com/review/review-dji-mavic-4-pro/)<!-- TECH:END -->
+ - [Women&#39;s Champions League Final Soccer: Livestream Arsenal vs. Barcelona From Anywhere For Free](https://www.cnet.com/tech/services-and-software/womens-champions-league-final-soccer-livestream-arsenal-vs-barcelona-from-anywhere-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

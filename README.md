@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Suddenly, Botox doesn&#39;t seem so expensive anymore.](http://9gag.com/gag/an7DKMB)
- - 😝 [Meanwhile in South Africa](http://9gag.com/gag/a4PqLZQ)
- - 💣 [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)
+ - 😝 [Didnt see that coming](http://9gag.com/gag/a6ZpLve)
+ - 😝 [Unpimp Your Auto &lpar;2006&rpar;](http://9gag.com/gag/a5QjK0V)
+ - 💣 [Pretty much all the secs we getting around here](http://9gag.com/gag/a87wMoO)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
- - 👉 [When your ROI is a real knockout](http://9gag.com/gag/avyvg9E)<!-- MEMES:END -->
+ - 👉 [M@n only want one thing and it\u2019s freaking amazing!](http://9gag.com/gag/agm2Grg)<!-- MEMES:END -->
 
 ---
 

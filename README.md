@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a record!](http://9gag.com/gag/an7DBVn)
- - 😝 [Kabul nightlife in the 70s hit different.](http://9gag.com/gag/aVv2ORd)
- - 💣 [A 3-year old Chimney Sweeping From The 1930s &lpar;Credits to British Path\u00e9 On YT&rpar;](http://9gag.com/gag/awy4rRx)
+ - 😝 [Suddenly, Botox doesn&#39;t seem so expensive anymore.](http://9gag.com/gag/an7DKMB)
+ - 😝 [A 3-year old Chimney Sweeping From The 1930s &lpar;Credits to British Path\u00e9 On YT&rpar;](http://9gag.com/gag/awy4rRx)
+ - 💣 [My travel adapter bag is getting heavy.](http://9gag.com/gag/aLnXP96)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
- - 👉 [Suddenly, Botox doesn&#39;t seem so expensive anymore.](http://9gag.com/gag/an7DKMB)<!-- MEMES:END -->
+ - 👉 [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)<!-- MEMES:END -->
 
 ---
 

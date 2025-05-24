@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filming for fourth season of &#39;Ted Lasso&#39; to kick off this summer](https://appleinsider.com/articles/25/05/24/filming-for-fourth-season-of-ted-lasso-to-kick-off-this-summer?utm_medium=rss)
+ - [A look at The Technology Brothers Podcast Network, a daily tech news talk show that has captured the attention of Silicon Valley&#39;s investors and founders &lpar;Abram Brown/The Information&rpar;](http://www.techmeme.com/250524/p11#a250524p11)
  - [X is back after an apparent widespread outage](https://www.theverge.com/news/674129/x-is-down-after-data-center-fire)
  - [Whoop is reportedly replacing defective MG trackers](https://www.theverge.com/news/674144/whoop-mg-bug-replacements)
- - [Best Mirrorless Cameras &lpar;2025&rpar;: Full-Frame, APS-C, and More](https://www.wired.com/gallery/best-mirrorless-cameras/)
- - [&#39;MobLand&#39; Release Schedule: How to Watch Episode 9 of the Tom Hardy Series](https://www.cnet.com/tech/services-and-software/mobland-release-schedule-how-to-watch-episode-9-of-the-tom-hardy-series/#ftag=CAD590a51e)
- - [Prime Video: The 33 Absolute Best TV Shows to Watch](https://www.cnet.com/tech/services-and-software/best-shows-on-prime-video-may-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Mirrorless Cameras &lpar;2025&rpar;: Full-Frame, APS-C, and More](https://www.wired.com/gallery/best-mirrorless-cameras/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

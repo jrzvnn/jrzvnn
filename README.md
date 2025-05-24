@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [X is down](https://www.theverge.com/news/674129/x-is-down-after-data-center-fire)
- - [Women&#39;s Champions League Final Soccer: Livestream Arsenal vs. Barcelona From Anywhere For Free](https://www.cnet.com/tech/services-and-software/womens-champions-league-final-soccer-livestream-arsenal-vs-barcelona-from-anywhere-for-free/#ftag=CAD590a51e)
  - [DJI Mavic Pro Review: Powerful and Easy to Use](https://www.wired.com/review/review-dji-mavic-4-pro/)
- - [Unlock Healthy Hair Growth These These 7 Essential Vitamins](https://www.cnet.com/health/nutrition/unlock-healthy-hair-growth-these-these-7-essential-vitamins/#ftag=CAD590a51e)
- - [Last Defense Academy makes confusion part of the fun](https://www.theverge.com/games-review/673768/hundred-line-last-defense-academy-review-danganronpa)<!-- TECH:END -->
+ - [Last Defense Academy makes confusion part of the fun](https://www.theverge.com/games-review/673768/hundred-line-last-defense-academy-review-danganronpa)
+ - [The Shein India app, launched by Mukesh Ambani&#39;s Reliance Retail in partnership with Shein, has struggled to gain traction after launching in February &lpar;Rest of World&rpar;](http://www.techmeme.com/250524/p8#a250524p8)
+ - [Spring Cleaning: Where to Recycle Your Old Computers and Printers for Free](https://www.cnet.com/tech/computing/spring-cleaning-where-to-recycle-your-old-computers-and-printers-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

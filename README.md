@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Introvert level: Expert.](http://9gag.com/gag/aqyz90j)
- - 😝 [Still one of the best loops I&#39;ve ever seen](http://9gag.com/gag/aMVXrbW)
- - 💣 [When your ROI is a real knockout](http://9gag.com/gag/avyvg9E)
+ - 😝 [In Scandinavian countries, it&#39;s common to see babies sleeping outside in prams, even in subzero temperatures. This tradition stems from a belief in the power of fresh air to promote healthy sleep and development.](http://9gag.com/gag/a9yXd8j)
+ - 😝 [Btw, it&#39;s true](http://9gag.com/gag/a4Pq9Pp)
+ - 💣 [Beep](http://9gag.com/gag/ayNQ72V)
  - 😝 [When organizing your sock drawer seems more appealing than tackling your overdue tasks. \ud83d\udd75\ud83c\udffd\u2642\ufe0f\ud83d\udc69\ud83c\udffd\ud83c\udf3e\ud83d\udc69\ud83c\udffb\ud83d\udd27](http://9gag.com/gag/aByX3wD)
- - 👉 [Covering Blue - EIffel 65 on a Harp](http://9gag.com/gag/aGy2wjw)<!-- MEMES:END -->
+ - 👉 [When in doubt, wear a helmet?](http://9gag.com/gag/aO81q2r)<!-- MEMES:END -->
 
 ---
 

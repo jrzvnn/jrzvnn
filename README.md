@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your ROI is a real knockout](http://9gag.com/gag/avyvg9E)
- - 😝 [He knows something](http://9gag.com/gag/aPAXvgQ)
- - 💣 [Beep](http://9gag.com/gag/ayNQ72V)
- - 😝 [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)
- - 👉 [Additional reason for hating your job](http://9gag.com/gag/a1mLZb2)<!-- MEMES:END -->
+ - 😝 [Wtf is going on here](http://9gag.com/gag/aD2XwYZ)
+ - 😝 [Beep](http://9gag.com/gag/ayNQ72V)
+ - 💣 [In Scandinavian countries, it&#39;s common to see babies sleeping outside in prams, even in subzero temperatures. This tradition stems from a belief in the power of fresh air to promote healthy sleep and development.](http://9gag.com/gag/a9yXd8j)
+ - 😝 [Never grow up](http://9gag.com/gag/aVv2Q7M)
+ - 👉 [When in doubt, wear a helmet?](http://9gag.com/gag/aO81q2r)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Breville Oracle Jet Review &lpar;2025&rpar;: Easy and Delicious](https://www.wired.com/review/breville-oracle-jet/)
  - [7 Best Coffee Pod Machines &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-pod-coffee-makers/)
- - [The 23 Best Movies on Amazon Prime Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
- - [Want to Claim the Solar Tax Credit? Get Installing Now](https://www.wired.com/story/if-you-want-to-claim-the-solar-tax-credit-install-now/)
- - [Google’s Veo 3 AI video generator is a slop monger’s dream](https://www.theverge.com/ai-artificial-intelligence/673719/google-veo-3-ai-video-audio-sound-effects)
- - [The US Is Building a One-Stop Shop for Buying Your Data](https://www.wired.com/story/us-spies-one-stop-shop-private-data/)<!-- TECH:END -->
+ - [La Liga Soccer: How to Livestream Real Madrid vs. Real Sociedad From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-how-to-livestream-real-madrid-vs-real-sociedad-from-anywhere/#ftag=CAD590a51e)
+ - [Championship Playoff Final: Stream Sheffield United vs. Sunderland Live From Anywhere](https://www.cnet.com/tech/services-and-software/championship-playoff-final-stream-sheffield-united-vs-sunderland-live-from-anywhere/#ftag=CAD590a51e)
+ - [The 23 Best Movies on Amazon Prime Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

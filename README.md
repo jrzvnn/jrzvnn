@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wish I could provide support to a female athlete this way](http://9gag.com/gag/avyvZpq)
  - 😝 [He knows something](http://9gag.com/gag/aPAXvgQ)
- - 💣 [._.](http://9gag.com/gag/ae9234v)
- - 😝 [In Scandinavian countries, it&#39;s common to see babies sleeping outside in prams, even in subzero temperatures. This tradition stems from a belief in the power of fresh air to promote healthy sleep and development.](http://9gag.com/gag/a9yXd8j)
- - 👉 [When in doubt, wear a helmet?](http://9gag.com/gag/aO81q2r)<!-- MEMES:END -->
+ - 😝 [._.](http://9gag.com/gag/ae9234v)
+ - 💣 [This game doesn&#39;t work with friends](http://9gag.com/gag/a2vbPn1)
+ - 😝 [When in doubt, wear a helmet?](http://9gag.com/gag/aO81q2r)
+ - 👉 [Kabul nightlife in the 70s hit different.](http://9gag.com/gag/aVv2ORd)<!-- MEMES:END -->
 
 ---
 

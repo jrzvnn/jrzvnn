@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Still one of the best loops I&#39;ve ever seen](http://9gag.com/gag/aMVXrbW)
- - 😝 [Covering Blue - EIffel 65 on a Harp](http://9gag.com/gag/aGy2wjw)
- - 💣 [Rose, that necklace could&#39;ve funded my entire life.](http://9gag.com/gag/an7DKpL)
+ - 😝 [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)
+ - 😝 [He knows something](http://9gag.com/gag/aPAXvgQ)
+ - 💣 [Btw, it&#39;s true](http://9gag.com/gag/a4Pq9Pp)
  - 😝 [When organizing your sock drawer seems more appealing than tackling your overdue tasks. \ud83d\udd75\ud83c\udffd\u2642\ufe0f\ud83d\udc69\ud83c\udffd\ud83c\udf3e\ud83d\udc69\ud83c\udffb\ud83d\udd27](http://9gag.com/gag/aByX3wD)
- - 👉 [Tropic Thunder Has the best Tom Cruise , RDJ and Tobey Maguire role](http://9gag.com/gag/aZZ2PBQ)<!-- MEMES:END -->
+ - 👉 [._.](http://9gag.com/gag/ae9234v)<!-- MEMES:END -->
 
 ---
 

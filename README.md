@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sam Altman and Jony Ive&#39;s awkward io video feels like empty hype until a compelling device is released, especially given Ive&#39;s post-Jobs design missteps &lpar;Jason Snell/Six Colors&rpar;](http://www.techmeme.com/250524/p14#a250524p14)
  - [California Attorney General threatens lawsuit over potential 25% iPhone tariff](https://appleinsider.com/articles/25/05/24/california-attorney-general-threatens-lawsuit-over-iphone-tariff-threat?utm_medium=rss)
  - [Despite Google&#39;s guardrails, Veo 3 users are generating realistic clips of news, disasters, and fictional events, some with dialogue not included in the prompt &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/250524/p13#a250524p13)
  - [The oldest Fire TV devices are losing Netflix support soon](https://www.theverge.com/news/674165/amazon-1st-generation-fire-tv-devices-losing-netflix-support)
- - [Elon Musk says he needs to be &quot;super focused on X/xAI and Tesla&quot;, saying major operational improvements need to be made &quot;as evidenced by the X uptime issues&quot; &lpar;Valentine Baldassari/Bloomberg&rpar;](http://www.techmeme.com/250524/p12#a250524p12)
- - [If You Aren&#39;t Drinking Green Tea, You&#39;re Skipping Out on These Health Benefits](https://www.cnet.com/health/nutrition/if-you-arent-drinking-green-tea-youre-skipping-out-on-these-health-benefits/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk says he needs to be &quot;super focused on X/xAI and Tesla&quot;, saying major operational improvements need to be made &quot;as evidenced by the X uptime issues&quot; &lpar;Valentine Baldassari/Bloomberg&rpar;](http://www.techmeme.com/250524/p12#a250524p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

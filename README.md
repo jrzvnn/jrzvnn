@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Shein India app, launched by Mukesh Ambani&#39;s Reliance Retail in partnership with Shein, has struggled to gain traction after launching in February &lpar;Rest of World&rpar;](http://www.techmeme.com/250524/p8#a250524p8)
- - [Breville Oracle Jet Review &lpar;2025&rpar;: Easy and Delicious](https://www.wired.com/review/breville-oracle-jet/)
- - [7 Best Coffee Pod Machines &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-pod-coffee-makers/)
- - [La Liga Soccer: How to Livestream Real Madrid vs. Real Sociedad From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-how-to-livestream-real-madrid-vs-real-sociedad-from-anywhere/#ftag=CAD590a51e)
- - [Championship Playoff Final: Stream Sheffield United vs. Sunderland Live From Anywhere](https://www.cnet.com/tech/services-and-software/championship-playoff-final-stream-sheffield-united-vs-sunderland-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [X is down](https://www.theverge.com/news/674129/x-is-down-after-data-center-fire)
+ - [Women&#39;s Champions League Final Soccer: Livestream Arsenal vs. Barcelona From Anywhere For Free](https://www.cnet.com/tech/services-and-software/womens-champions-league-final-soccer-livestream-arsenal-vs-barcelona-from-anywhere-for-free/#ftag=CAD590a51e)
+ - [DJI Mavic Pro Review: Powerful and Easy to Use](https://www.wired.com/review/review-dji-mavic-4-pro/)
+ - [Unlock Healthy Hair Growth These These 7 Essential Vitamins](https://www.cnet.com/health/nutrition/unlock-healthy-hair-growth-these-these-7-essential-vitamins/#ftag=CAD590a51e)
+ - [Last Defense Academy makes confusion part of the fun](https://www.theverge.com/games-review/673768/hundred-line-last-defense-academy-review-danganronpa)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Suddenly, Botox doesn&#39;t seem so expensive anymore.](http://9gag.com/gag/an7DKMB)
- - 😝 [This abandoned Chinese neighborhood is filled with mega mansions](http://9gag.com/gag/aGy29B5)
+ - 😝 [A 3-year old Chimney Sweeping From The 1930s &lpar;Credits to British Path\u00e9 On YT&rpar;](http://9gag.com/gag/awy4rRx)
+ - 😝 [Meanwhile in South Africa](http://9gag.com/gag/a4PqLZQ)
  - 💣 [Kabul nightlife in the 70s hit different.](http://9gag.com/gag/aVv2ORd)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
- - 👉 [Top 10 anime betrayals](http://9gag.com/gag/aryB4yX)<!-- MEMES:END -->
+ - 👉 [Suddenly, Botox doesn&#39;t seem so expensive anymore.](http://9gag.com/gag/an7DKMB)<!-- MEMES:END -->
 
 ---
 

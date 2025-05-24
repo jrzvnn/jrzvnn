@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wish I could provide support to a female athlete this way](http://9gag.com/gag/avyvZpq)
- - 😝 [When in doubt, wear a helmet?](http://9gag.com/gag/aO81q2r)
- - 💣 [Kabul nightlife in the 70s hit different.](http://9gag.com/gag/aVv2ORd)
- - 😝 [Nature&#39;s unconventional solution to California&#39;s fire problem.](http://9gag.com/gag/a87wLZZ)
- - 👉 [Top 10 anime betrayals](http://9gag.com/gag/aryB4yX)<!-- MEMES:END -->
+ - 😝 [With airbags](http://9gag.com/gag/aD2XmvO)
+ - 😝 [Mama mia](http://9gag.com/gag/a2vbq39)
+ - 💣 [When your ROI is a real knockout](http://9gag.com/gag/avyvg9E)
+ - 😝 [Wild Title](http://9gag.com/gag/aPAX4Dq)
+ - 👉 [The logic seems... flawed.](http://9gag.com/gag/avyvgZO)<!-- MEMES:END -->
 
 ---
 

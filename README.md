@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Polygon cofounder Mihailo Bjelic steps down from the project&#39;s development studio, Polygon Labs, and from the foundation board, marking the third founder exit &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250524/p2#a250524p2)
  - [Thoma Bravo-backed Nearmap agrees to acquire property and casualty insurance tech provider itel from PE firm GTCR, a source says for over $1.3B, including debt &lpar;Reuters&rpar;](http://www.techmeme.com/250524/p1#a250524p1)
  - [The Verge&amp;#8217;s 2025 graduation gift guide](https://www.theverge.com/tech/660700/best-graduation-gift-ideas)
  - [A US judge vacates Avraham Eisenberg&#39;s convictions for fraud and manipulation related to a $110M theft on Mango Markets in 2022 due to insufficient evidence &lpar;Bloomberg&rpar;](http://www.techmeme.com/250523/p29#a250523p29)
- - [RevenueCat, which offers tools for devs to add subscriptions to their apps, raised a $50M Series C led by Bain Capital Ventures, valuing the company at $500M &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250523/p28#a250523p28)
- - [CB Insights: OpenAI&#39;s acquisition of Jony Ive&#39;s io for $6.5B sets a new record for venture-backed acquisition by a private buyer &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250523/p27#a250523p27)<!-- TECH:END -->
+ - [RevenueCat, which offers tools for devs to add subscriptions to their apps, raised a $50M Series C led by Bain Capital Ventures, valuing the company at $500M &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250523/p28#a250523p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

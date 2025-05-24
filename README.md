@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All that for 5&#39;7`?](http://9gag.com/gag/aqyzNZM)
- - 😝 [Meanwhile in South Africa](http://9gag.com/gag/a4PqLZQ)
- - 💣 [Suddenly, Botox doesn&#39;t seem so expensive anymore.](http://9gag.com/gag/an7DKMB)
+ - 😝 [Let&#39;s get loud](http://9gag.com/gag/aO81y5R)
+ - 😝 [Suddenly, Botox doesn&#39;t seem so expensive anymore.](http://9gag.com/gag/an7DKMB)
+ - 💣 [Meanwhile in South Africa](http://9gag.com/gag/a4PqLZQ)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
  - 👉 [Kabul nightlife in the 70s hit different.](http://9gag.com/gag/aVv2ORd)<!-- MEMES:END -->
 

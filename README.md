@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sharing is caring... or maybe just curious?](http://9gag.com/gag/adB2jZ9)
- - 😝 [Meanwhile in South Africa](http://9gag.com/gag/a4PqLZQ)
- - 💣 [My travel adapter bag is getting heavy.](http://9gag.com/gag/aLnXP96)
+ - 😝 [What a record!](http://9gag.com/gag/an7DBVn)
+ - 😝 [Top 10 anime betrayals](http://9gag.com/gag/aryB4yX)
+ - 💣 [I wish I could provide support to a female athlete this way](http://9gag.com/gag/avyvZpq)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
- - 👉 [That 2 am `I love you so much` text from Cancun...](http://9gag.com/gag/a9yXMx1)<!-- MEMES:END -->
+ - 👉 [Soccer players wouldn&#39;t last 20 mins if they had to play in the 70s](http://9gag.com/gag/aGy2Dww)<!-- MEMES:END -->
 
 ---
 

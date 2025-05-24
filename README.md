@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mama mia](http://9gag.com/gag/a2vbq39)
+ - 😝 [Nature&#39;s unconventional solution to California&#39;s fire problem.](http://9gag.com/gag/a87wLZZ)
  - 😝 [Top 10 anime betrayals](http://9gag.com/gag/aryB4yX)
- - 💣 [He knows something](http://9gag.com/gag/aPAXvgQ)
+ - 💣 [Meanwhile in South Africa](http://9gag.com/gag/a4PqLZQ)
  - 😝 [I wish I could provide support to a female athlete this way](http://9gag.com/gag/avyvZpq)
- - 👉 [When in doubt, wear a helmet?](http://9gag.com/gag/aO81q2r)<!-- MEMES:END -->
+ - 👉 [In Scandinavian countries, it&#39;s common to see babies sleeping outside in prams, even in subzero temperatures. This tradition stems from a belief in the power of fresh air to promote healthy sleep and development.](http://9gag.com/gag/a9yXd8j)<!-- MEMES:END -->
 
 ---
 

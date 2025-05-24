@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Shein India app, launched by Mukesh Ambani&#39;s Reliance Retail in partnership with Shein, has struggled to gain traction after launching in February &lpar;Rest of World&rpar;](http://www.techmeme.com/250524/p8#a250524p8)
  - [Breville Oracle Jet Review &lpar;2025&rpar;: Easy and Delicious](https://www.wired.com/review/breville-oracle-jet/)
  - [7 Best Coffee Pod Machines &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-pod-coffee-makers/)
  - [La Liga Soccer: How to Livestream Real Madrid vs. Real Sociedad From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-how-to-livestream-real-madrid-vs-real-sociedad-from-anywhere/#ftag=CAD590a51e)
- - [Championship Playoff Final: Stream Sheffield United vs. Sunderland Live From Anywhere](https://www.cnet.com/tech/services-and-software/championship-playoff-final-stream-sheffield-united-vs-sunderland-live-from-anywhere/#ftag=CAD590a51e)
- - [The 23 Best Movies on Amazon Prime Right Now &lpar;May 2025&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)<!-- TECH:END -->
+ - [Championship Playoff Final: Stream Sheffield United vs. Sunderland Live From Anywhere](https://www.cnet.com/tech/services-and-software/championship-playoff-final-stream-sheffield-united-vs-sunderland-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

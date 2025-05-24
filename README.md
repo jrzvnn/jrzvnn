@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [15 Best Memorial Day Tech Deals &lpar;2025&rpar;: iPads and Bluetooth Speakers](https://www.wired.com/story/best-memorial-day-tech-deals-2025/)
+ - [Fujifilm&#39;s X Half, a New OnePlus Tablet, and Fender&#39;s GarageBand Rival—Your Gear News of the Week](https://www.wired.com/story/fujifilms-x-half-a-new-oneplus-tablet-and-fenders-garageband-rival-your-gear-news-of-the-week/)
  - [Japanese carrier Docomo is discontinuing its emoji set, which was last updated in 2013 and became one of the most influential in history after its debut in 1999 &lpar;Keith Broni/Emojipedia&rpar;](http://www.techmeme.com/250524/p7#a250524p7)
  - [How Much Will the iPhone 17 Cost?](https://www.cnet.com/tech/mobile/how-much-will-the-iphone-17-cost/#ftag=CAD590a51e)
- - [A look at the rise of &quot;sovereign AI&quot;, wherein countries invest directly in chip companies like Nvidia and AMD, making AI chips a highly politicized business &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/250524/p6#a250524p6)
- - [BougeRV water heater review: hot showers to go](https://www.theverge.com/reviews/673318/bougerv-water-heater-review-shower-portable)
- - [How Much Could Student Loan Payments Skyrocket for SAVE Borrowers? We Did the Math](https://www.cnet.com/personal-finance/loans/how-much-could-student-loan-payments-skyrocket-for-save-borrowers-we-did-the-math/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the rise of &quot;sovereign AI&quot;, wherein countries invest directly in chip companies like Nvidia and AMD, making AI chips a highly politicized business &lpar;Dan Gallagher/Wall Street Journal&rpar;](http://www.techmeme.com/250524/p6#a250524p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

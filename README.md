@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Whoop is reportedly replacing defective MG trackers](https://www.theverge.com/news/674144/whoop-mg-bug-replacements)
  - [Best Mirrorless Cameras &lpar;2025&rpar;: Full-Frame, APS-C, and More](https://www.wired.com/gallery/best-mirrorless-cameras/)
  - [&#39;MobLand&#39; Release Schedule: How to Watch Episode 9 of the Tom Hardy Series](https://www.cnet.com/tech/services-and-software/mobland-release-schedule-how-to-watch-episode-9-of-the-tom-hardy-series/#ftag=CAD590a51e)
  - [Prime Video: The 33 Absolute Best TV Shows to Watch](https://www.cnet.com/tech/services-and-software/best-shows-on-prime-video-may-2025/#ftag=CAD590a51e)
- - [Sources: Nvidia plans to launch a new AI chip priced between $6,500 and $8,000, well below the $10,000-$12,000 the H20 sold for, after US export curbs &lpar;Reuters&rpar;](http://www.techmeme.com/250524/p10#a250524p10)
- - [What to Expect &lpar;and Not Expect&rpar; From OpenAI and Jony Ive&#39;s AI-Centric &#39;Screenless Phone&#39;](https://www.cnet.com/tech/mobile/what-to-expect-and-not-expect-from-openai-and-jony-ives-ai-centric-screenless-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Nvidia plans to launch a new AI chip priced between $6,500 and $8,000, well below the $10,000-$12,000 the H20 sold for, after US export curbs &lpar;Reuters&rpar;](http://www.techmeme.com/250524/p10#a250524p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

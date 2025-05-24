@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whoever set that up deserves one on the house 🍻](https://www.reddit.com/r/funny/comments/1ku9akc/whoever_set_that_up_deserves_one_on_the_house/)
+ - 😝 [Mama mia](http://9gag.com/gag/a2vbq39)
+ - 😝 [Top 10 anime betrayals](http://9gag.com/gag/aryB4yX)
+ - 💣 [He knows something](http://9gag.com/gag/aPAXvgQ)
  - 😝 [I wish I could provide support to a female athlete this way](http://9gag.com/gag/avyvZpq)
- - 💣 [Meanwhile in South Africa](http://9gag.com/gag/a4PqLZQ)
- - 😝 [Beep](http://9gag.com/gag/ayNQ72V)
- - 👉 [Top 10 anime betrayals](http://9gag.com/gag/aryB4yX)<!-- MEMES:END -->
+ - 👉 [When in doubt, wear a helmet?](http://9gag.com/gag/aO81q2r)<!-- MEMES:END -->
 
 ---
 

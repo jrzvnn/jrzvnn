@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at updates that weren&#39;t in the Google I/O keynote, including a Nearby Passes notification in Wallet and the Play Store&#39;s Ask Someone Else to Pay button &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250525/p5#a250525p5)
  - [Paris-based Veesion, which offers AI-powered video surveillance software for spotting suspicious behavior in stores, raised a €38M Series B led by White Star &lpar;David Cendon Garcia/EU-Startups&rpar;](http://www.techmeme.com/250525/p4#a250525p4)
  - [CX2, a defense tech startup building software and hardware, including autonomous drones, for electronic warfare, raised a $31M Series A led by Point72 Ventures &lpar;Colin Demarest/Axios&rpar;](http://www.techmeme.com/250525/p3#a250525p3)
  - [General Medicine, an online storefront for medical care founded by PillPack founders TJ Parker and Elliot Cohen, launches with $32M in funding led by Matrix &lpar;Jason Del Rey/Fortune&rpar;](http://www.techmeme.com/250525/p2#a250525p2)
- - [OpenFX, which is building a near-instant payments and settlement network for cross-border transactions, emerges from stealth with $23M in funding led by Accel &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/250525/p1#a250525p1)
- - [Amap, Alibaba&#39;s mapping and local services business, introduces a ride-hailing feature on the app&#39;s English version, targeting foreign visitors in China &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250524/p19#a250524p19)<!-- TECH:END -->
+ - [OpenFX, which is building a near-instant payments and settlement network for cross-border transactions, emerges from stealth with $23M in funding led by Accel &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/250525/p1#a250525p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

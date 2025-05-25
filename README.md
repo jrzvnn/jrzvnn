@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That 2 am `I love you so much` text from Cancun...](http://9gag.com/gag/a9yXMx1)
+ - 😝 [Top 10 anime betrayals](http://9gag.com/gag/aryB4yX)
  - 😝 [The second round of the presidential elections is approaching in Poland. Meanwhile, one of the candidates during a live debate:](http://9gag.com/gag/aZZ2MMQ)
- - 💣 [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)
+ - 💣 [My travel adapter bag is getting heavy.](http://9gag.com/gag/aLnXP96)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
- - 👉 [What a record!](http://9gag.com/gag/an7DBVn)<!-- MEMES:END -->
+ - 👉 [Such a sad incident](http://9gag.com/gag/a1mLXd2)<!-- MEMES:END -->
 
 ---
 

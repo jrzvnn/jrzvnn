@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Meanwhile in South Africa](http://9gag.com/gag/a4PqLZQ)
- - 😝 [I want to play a game](http://9gag.com/gag/a2vbmvw)
- - 💣 [._.](http://9gag.com/gag/ae9234v)
+ - 😝 [._.](http://9gag.com/gag/ae9234v)
+ - 💣 [Do not the bandage.](http://9gag.com/gag/a6ZpQw9)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
  - 👉 [Who knew hooded figures could be so... enigmatic](http://9gag.com/gag/aMVXGmA)<!-- MEMES:END -->
 

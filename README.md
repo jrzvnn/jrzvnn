@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Classic Dev troll!](http://9gag.com/gag/aPAXyEP)
- - 😝 [When this screen was the ultimate quality guarantee.](http://9gag.com/gag/aByX1rP)
- - 💣 [My travel adapter bag is getting heavy.](http://9gag.com/gag/aLnXP96)
+ - 😝 [Top 10 anime betrayals](http://9gag.com/gag/aryB4yX)
+ - 😝 [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)
+ - 💣 [That was way too close.](http://9gag.com/gag/aRB2eAA)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
- - 👉 [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)<!-- MEMES:END -->
+ - 👉 [Every single day, my neighbor parks in front of my garage. Today I finally snapped, held the horn for 4 solid minutes. He comes out yelling, calls me insane. Like bro, I&#39;m just trying to leave my own house. How would you react?](http://9gag.com/gag/an7D1A0)<!-- MEMES:END -->
 
 ---
 

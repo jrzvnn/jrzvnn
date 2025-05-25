@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple&#39;s M4 MacBook Air returns to $849.99 during Memorial Day sale](https://appleinsider.com/articles/25/05/25/apples-m4-macbook-air-returns-to-84999-during-memorial-day-sale?utm_medium=rss)
- - [The 70 best Memorial Day deals worth shopping for](https://www.theverge.com/tech/670092/best-memorial-day-sales-2025)
+ - [The 70 best Memorial Day deals actually worth shopping for](https://www.theverge.com/tech/670092/best-memorial-day-sales-2025)
  - [Gemini in Chrome feels like a small step toward Google&amp;#8217;s agentic era](https://www.theverge.com/google/673659/gemini-google-chrome-integration-agentic-era)
  - [Android Auto will get Spotify Jam and support for video apps and web browsers](https://www.theverge.com/news/674126/android-auto-spotify-jam-web-browsers-video-apps)
  - [Best Pizza Ovens for 2025](https://www.cnet.com/home/kitchen-and-household/best-pizza-oven/#ftag=CAD590a51e)<!-- TECH:END -->

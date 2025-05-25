@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Meanwhile in South Africa](http://9gag.com/gag/a4PqLZQ)
- - 😝 [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)
- - 💣 [That&#39;s clever](http://9gag.com/gag/axyPjX2)
- - 😝 [Do not the bandage.](http://9gag.com/gag/a6ZpQw9)
- - 👉 [I was there...](http://9gag.com/gag/a34Wj41)<!-- MEMES:END -->
+ - 😝 [What a record!](http://9gag.com/gag/an7DBVn)
+ - 💣 [Do not the bandage.](http://9gag.com/gag/a6ZpQw9)
+ - 😝 [That&#39;s clever](http://9gag.com/gag/axyPjX2)
+ - 👉 [Suffering from success, the sequel.](http://9gag.com/gag/aYQ1KVm)<!-- MEMES:END -->
 
 ---
 

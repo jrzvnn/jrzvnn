@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [3D Is Back. This Time, You Can Ditch the Glasses](https://www.wired.com/story/3d-is-back/)
  - [Some VCs, such as Khosla Ventures, are considering acquiring mature businesses, like call center operators, and optimizing them with AI to serve more customers &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250525/p7#a250525p7)
  - [A security researcher details how he discovered a zero-day vulnerability in the Linux kernel&#39;s SMB implementation by analyzing the code using OpenAI&#39;s o3 API &lpar;Sean Heelan/Sean Heelan&#39;s Blog&rpar;](http://www.techmeme.com/250525/p6#a250525p6)
  - [A look at updates that weren&#39;t in the Google I/O keynote, including a Nearby Passes notification in Wallet and the Play Store&#39;s Ask Someone Else to Pay button &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250525/p5#a250525p5)
- - [Paris-based Veesion, which offers AI-powered video surveillance software for spotting suspicious behavior in stores, raised a €38M Series B led by White Star &lpar;David Cendon Garcia/EU-Startups&rpar;](http://www.techmeme.com/250525/p4#a250525p4)
- - [CX2, a defense tech startup building software and hardware, including autonomous drones, for electronic warfare, raised a $31M Series A led by Point72 Ventures &lpar;Colin Demarest/Axios&rpar;](http://www.techmeme.com/250525/p3#a250525p3)<!-- TECH:END -->
+ - [Paris-based Veesion, which offers AI-powered video surveillance software for spotting suspicious behavior in stores, raised a €38M Series B led by White Star &lpar;David Cendon Garcia/EU-Startups&rpar;](http://www.techmeme.com/250525/p4#a250525p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

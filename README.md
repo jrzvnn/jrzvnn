@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gemini in Chrome feels like a small step toward Google&amp;#8217;s agentic era](https://www.theverge.com/google/673659/gemini-google-chrome-integration-agentic-era)
  - [Android Auto will get Spotify Jam and support for video apps and web browsers](https://www.theverge.com/news/674126/android-auto-spotify-jam-web-browsers-video-apps)
  - [La Liga Soccer: How to Livestream Athletic Bilbao vs. Barcelona From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-how-to-livestream-athletic-bilbao-vs-barcelona-from-anywhere/#ftag=CAD590a51e)
  - [Cyan updates &#39;Myst&#39; franchise for native Apple Silicon performance](https://appleinsider.com/articles/25/05/25/cyan-updates-myst-franchise-for-native-apple-silicon-performance?utm_medium=rss)
- - [London-based Converge, which uses sensors and AI to optimize the use of concrete in construction projects, raised a $22M Series A led by Dutch bank ABN Amro &lpar;Katie Fehrenbacher/Axios&rpar;](http://www.techmeme.com/250525/p10#a250525p10)
- - [MLB.TV Is a Near Perfect Streaming Service With Increasing In-Market Options](https://www.cnet.com/tech/services-and-software/mlb-tv-is-a-near-perfect-streaming-service-with-increasing-in-market-options/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [London-based Converge, which uses sensors and AI to optimize the use of concrete in construction projects, raised a $22M Series A led by Dutch bank ABN Amro &lpar;Katie Fehrenbacher/Axios&rpar;](http://www.techmeme.com/250525/p10#a250525p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

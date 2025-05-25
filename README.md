@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That was way too close.](http://9gag.com/gag/aRB2eAA)
- - 😝 [Such a sad incident](http://9gag.com/gag/a1mLXd2)
- - 💣 [I was there...](http://9gag.com/gag/a34Wj41)
- - 😝 [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)
- - 👉 [The second round of the presidential elections is approaching in Poland. Meanwhile, one of the candidates during a live debate:](http://9gag.com/gag/aZZ2MMQ)<!-- MEMES:END -->
+ - 😝 [The second round of the presidential elections is approaching in Poland. Meanwhile, one of the candidates during a live debate:](http://9gag.com/gag/aZZ2MMQ)
+ - 😝 [I was there...](http://9gag.com/gag/a34Wj41)
+ - 💣 [Double the efficiency](http://9gag.com/gag/a5QjZ4G)
+ - 😝 [Meanwhile in South Africa](http://9gag.com/gag/a4PqLZQ)
+ - 👉 [Level of cool unlocked: Celebrity shoe valet.](http://9gag.com/gag/abA26mX)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s AI smart screen devices will have to wait on Siri revamp](https://appleinsider.com/articles/25/05/25/apples-ai-smart-screen-devices-will-have-to-wait-on-siri-revamp?utm_medium=rss)
  - [The Best Memorial Day Mattress and Bedding Sales &lpar;2025&rpar;](https://www.wired.com/story/best-memorial-day-mattress-sales-2025-2/)
  - [Real-world map data is helping make better games about farms and transportation](https://www.theverge.com/games/672035/openstreetmap-data-games)
  - [Apple prepares iOS 19, macOS 16 &#39;Solarium&#39; UI overhaul for WWDC](https://appleinsider.com/articles/25/05/25/apple-prepares-ios-19-macos-16-solarium-ui-overhaul-for-wwdc?utm_medium=rss)
- - [Premier League Soccer: Stream Nottingham Forest vs. Chelsea Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-nottingham-forest-vs-chelsea-live-from-anywhere/#ftag=CAD590a51e)
- - [Premier League Soccer: Stream Liverpool vs. Crystal Palace Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-liverpool-vs-crystal-palace-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Premier League Soccer: Stream Nottingham Forest vs. Chelsea Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-nottingham-forest-vs-chelsea-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)
  - 😝 [Top 10 anime betrayals](http://9gag.com/gag/aryB4yX)
- - 💣 [The second round of the presidential elections is approaching in Poland. Meanwhile, one of the candidates during a live debate:](http://9gag.com/gag/aZZ2MMQ)
+ - 😝 [The second round of the presidential elections is approaching in Poland. Meanwhile, one of the candidates during a live debate:](http://9gag.com/gag/aZZ2MMQ)
+ - 💣 [Actual Peak Male Performance](http://9gag.com/gag/aoy8Z7e)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
- - 👉 [In an alternative reality](http://9gag.com/gag/azxZjjm)<!-- MEMES:END -->
+ - 👉 [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)<!-- MEMES:END -->
 
 ---
 

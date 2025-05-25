@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meanwhile in South Africa](http://9gag.com/gag/a4PqLZQ)
  - 😝 [Classic Dev troll!](http://9gag.com/gag/aPAXyEP)
- - 💣 [Some of the best in the business](http://9gag.com/gag/aqyz2GY)
+ - 😝 [When this screen was the ultimate quality guarantee.](http://9gag.com/gag/aByX1rP)
+ - 💣 [My travel adapter bag is getting heavy.](http://9gag.com/gag/aLnXP96)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
  - 👉 [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)<!-- MEMES:END -->
 

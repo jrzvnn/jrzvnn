@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [10 Best Reusable Water Bottles of 2025, Tested &amp; Reviewed](https://www.wired.com/gallery/best-reusable-water-bottles/)
  - [Apple&#39;s AI smart screen devices will have to wait on Siri revamp](https://appleinsider.com/articles/25/05/25/apples-ai-smart-screen-devices-will-have-to-wait-on-siri-revamp?utm_medium=rss)
  - [Grok&#39;s tendency to repeat debunked claims raises doubts about Elon Musk&#39;s goal of making it a reliable source of information in high-stakes areas like medicine &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/250525/p8#a250525p8)
  - [We Hand-Picked the 61 Best Deals From the 2025 REI Anniversary Sale](https://www.wired.com/story/rei-anniversary-sale-may-2025-1/)
- - [The Best Memorial Day Mattress and Bedding Sales &lpar;2025&rpar;](https://www.wired.com/story/best-memorial-day-mattress-sales-2025-2/)
- - [Real-world map data is helping make better games about farms and transportation](https://www.theverge.com/games/672035/openstreetmap-data-games)<!-- TECH:END -->
+ - [The Best Memorial Day Mattress and Bedding Sales &lpar;2025&rpar;](https://www.wired.com/story/best-memorial-day-mattress-sales-2025-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

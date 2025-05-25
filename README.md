@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CoComelon is headed to Disney Plus in 2027](https://www.theverge.com/news/674314/disney-cocomelon-streaming-deal)
  - [Some Amazon engineers say managers have increasingly pushed them to use AI over the past year, raising output goals and becoming less forgiving about deadlines &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/250525/p13#a250525p13)
  - [Three new DJI drones may be on the way](https://www.theverge.com/news/674305/dji-drones-mini-5-pro-avata-3-neo-2-leaked-images)
  - [Today&#39;s NYT Strands Hints, Answers and Help for May 26, #449](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-26-449/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for May 26, #1437](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-26-1437/#ftag=CAD590a51e)
- - [Google expands Veo 3 availability to 71 additional countries, and Gemini Pro subscribers now get a trial pack of 10 Veo 3 generations on the Gemini web app &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/250525/p12#a250525p12)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for May 26, #1437](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-26-1437/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Exactly. Just show me the price](http://9gag.com/gag/avyvnrM)
- - 😝 [Pretty much all the secs we getting around here](http://9gag.com/gag/a87wMoO)
- - 💣 [Back in the day, when cars had personality](http://9gag.com/gag/aO81mLr)
+ - 😝 [I want to play a game](http://9gag.com/gag/a2vbmvw)
+ - 😝 [Wtf is going on here](http://9gag.com/gag/aD2XwYZ)
+ - 💣 [Meanwhile in South Africa](http://9gag.com/gag/a4PqLZQ)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
- - 👉 [Japanese Latex mattress.](http://9gag.com/gag/aO81b92)<!-- MEMES:END -->
+ - 👉 [Btw, it&#39;s true](http://9gag.com/gag/a4Pq9Pp)<!-- MEMES:END -->
 
 ---
 

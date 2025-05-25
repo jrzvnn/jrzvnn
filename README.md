@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google expands Veo 3 availability to 71 additional countries, and Gemini Pro subscribers now get a trial pack of 10 Veo 3 generations on the Gemini web app &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/250525/p12#a250525p12)
+ - [Hear Me Out: This Weird Adult Swim Series Is One of the Best Sci-Fi Shows of the Year](https://www.cnet.com/tech/services-and-software/hear-me-out-this-weird-adult-swim-series-is-one-of-the-best-sci-fi-shows-of-the-year/#ftag=CAD590a51e)
  - [A profile of Zach Witkoff, World Liberty Financial co-founder and son of Trump&#39;s Middle East envoy, who is pursuing crypto deals with countries like Pakistan &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250525/p11#a250525p11)
  - [Best Internet Providers in Oakland, California](https://www.cnet.com/home/internet/best-internet-providers-in-oakland-ca/#ftag=CAD590a51e)
- - [The best Memorial Day deals actually worth shopping for](https://www.theverge.com/tech/670092/best-memorial-day-sales-2025)
- - [Apple&#39;s M4 MacBook Air returns to $849.99 during Memorial Day sale](https://appleinsider.com/articles/25/05/25/apples-m4-macbook-air-returns-to-84999-during-memorial-day-sale?utm_medium=rss)
- - [Gemini in Chrome feels like a small step toward Google&amp;#8217;s agentic era](https://www.theverge.com/google/673659/gemini-google-chrome-integration-agentic-era)<!-- TECH:END -->
+ - [The best Memorial Day deals actually worth shopping for](https://www.theverge.com/tech/670092/best-memorial-day-sales-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

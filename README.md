@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meanwhile in South Africa](http://9gag.com/gag/a4PqLZQ)
- - 😝 [Additional reason for hating your job](http://9gag.com/gag/a1mLZb2)
+ - 😝 [Filled with what?](http://9gag.com/gag/apRAvRB)
+ - 😝 [Top 10 anime betrayals](http://9gag.com/gag/aryB4yX)
  - 💣 [Proud moment, questionable description](http://9gag.com/gag/aAyXrnR)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
- - 👉 [Who knew hooded figures could be so... enigmatic](http://9gag.com/gag/aMVXGmA)<!-- MEMES:END -->
+ - 👉 [Classic Dev troll!](http://9gag.com/gag/aPAXyEP)<!-- MEMES:END -->
 
 ---
 

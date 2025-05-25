@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bandit Cooling off](http://9gag.com/gag/aryBbpp)
- - 😝 [As a man.. this would 100% work on me](http://9gag.com/gag/aAyXwqo)
- - 💣 [Grandpa is the best](http://9gag.com/gag/aGy2DO5)
- - 😝 [She can fix you](http://9gag.com/gag/aMVXw2V)
- - 👉 [Not a bug but a feature](http://9gag.com/gag/a7oNZmr)<!-- MEMES:END -->
+ - 😝 [Every single day, my neighbor parks in front of my garage. Today I finally snapped, held the horn for 4 solid minutes. He comes out yelling, calls me insane. Like bro, I&#39;m just trying to leave my own house. How would you react?](http://9gag.com/gag/an7D1A0)
+ - 😝 [Meanwhile in South Africa](http://9gag.com/gag/a4PqLZQ)
+ - 💣 [What a record!](http://9gag.com/gag/an7DBVn)
+ - 😝 [Such a sad incident](http://9gag.com/gag/a1mLXd2)
+ - 👉 [I was there...](http://9gag.com/gag/a34Wj41)<!-- MEMES:END -->
 
 ---
 

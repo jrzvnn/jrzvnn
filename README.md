@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [._.](http://9gag.com/gag/ae9234v)
+ - 😝 [What a record!](http://9gag.com/gag/an7DBVn)
  - 😝 [Meanwhile in South Africa](http://9gag.com/gag/a4PqLZQ)
- - 💣 [You want to do what?](http://9gag.com/gag/a1mLZrY)
+ - 💣 [._.](http://9gag.com/gag/ae9234v)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
- - 👉 [Who knew hooded figures could be so... enigmatic](http://9gag.com/gag/aMVXGmA)<!-- MEMES:END -->
+ - 👉 [Top 10 anime betrayals](http://9gag.com/gag/aryB4yX)<!-- MEMES:END -->
 
 ---
 

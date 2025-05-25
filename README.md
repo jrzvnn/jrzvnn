@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Footage released shows the Titan submersible&#39;s tail cone located on the seabed.](http://9gag.com/gag/a1mLYAY)
- - 😝 [That&#39;s clever](http://9gag.com/gag/axyPjX2)
- - 💣 [When this screen was the ultimate quality guarantee.](http://9gag.com/gag/aByX1rP)
- - 😝 [I was there...](http://9gag.com/gag/a34Wj41)
- - 👉 [Such a sad incident](http://9gag.com/gag/a1mLXd2)<!-- MEMES:END -->
+ - 😝 [Bandit Cooling off](http://9gag.com/gag/aryBbpp)
+ - 😝 [As a man.. this would 100% work on me](http://9gag.com/gag/aAyXwqo)
+ - 💣 [Grandpa is the best](http://9gag.com/gag/aGy2DO5)
+ - 😝 [When your mom wakes you up from a good dream](http://9gag.com/gag/amoVYxo)
+ - 👉 [She can fix you](http://9gag.com/gag/aMVXw2V)<!-- MEMES:END -->
 
 ---
 

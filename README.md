@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Soccer players wouldn&#39;t last 20 mins if they had to play in the 70s](http://9gag.com/gag/aGy2Dww)
- - 😝 [Top 10 anime betrayals](http://9gag.com/gag/aryB4yX)
- - 💣 [What a record!](http://9gag.com/gag/an7DBVn)
+ - 😝 [Sharing is caring... or maybe just curious?](http://9gag.com/gag/adB2jZ9)
+ - 😝 [That was way too close.](http://9gag.com/gag/aRB2eAA)
+ - 💣 [Exactly. Just show me the price](http://9gag.com/gag/avyvnrM)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
- - 👉 [._.](http://9gag.com/gag/ae9234v)<!-- MEMES:END -->
+ - 👉 [M@n only want one thing and it\u2019s freaking amazing!](http://9gag.com/gag/agm2Grg)<!-- MEMES:END -->
 
 ---
 

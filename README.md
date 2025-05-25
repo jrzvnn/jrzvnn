@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Quest to Prove the Existence of a New Type of Quantum Particle](https://www.wired.com/story/paraparticles-would-be-a-third-kingdom-of-quantum-particle/)
  - [3D Is Back. This Time, You Can Ditch the Glasses](https://www.wired.com/story/3d-is-back/)
  - [Some VCs, such as Khosla Ventures, are considering acquiring mature businesses, like call center operators, and optimizing them with AI to serve more customers &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250525/p7#a250525p7)
  - [Here&#39;s How You Can Change Your iPhone&#39;s Default Apps in a Few Easy Steps](https://www.cnet.com/tech/services-and-software/heres-how-you-can-change-your-iphones-default-apps-ina-a-few-easy-steps/#ftag=CAD590a51e)
- - [A security researcher details how he discovered a zero-day vulnerability in the Linux kernel&#39;s SMB implementation by analyzing the code using OpenAI&#39;s o3 API &lpar;Sean Heelan/Sean Heelan&#39;s Blog&rpar;](http://www.techmeme.com/250525/p6#a250525p6)
- - [A look at updates that weren&#39;t in the Google I/O keynote, including a Nearby Passes notification in Wallet and the Play Store&#39;s Ask Someone Else to Pay button &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250525/p5#a250525p5)<!-- TECH:END -->
+ - [A security researcher details how he discovered a zero-day vulnerability in the Linux kernel&#39;s SMB implementation by analyzing the code using OpenAI&#39;s o3 API &lpar;Sean Heelan/Sean Heelan&#39;s Blog&rpar;](http://www.techmeme.com/250525/p6#a250525p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

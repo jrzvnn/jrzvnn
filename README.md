@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Double the efficiency](http://9gag.com/gag/a5QjZ4G)
+ - 😝 [Level of cool unlocked: Celebrity shoe valet.](http://9gag.com/gag/abA26mX)
+ - 😝 [When this screen was the ultimate quality guarantee.](http://9gag.com/gag/aByX1rP)
+ - 💣 [Double the efficiency](http://9gag.com/gag/a5QjZ4G)
  - 😝 [I was there...](http://9gag.com/gag/a34Wj41)
- - 💣 [Level of cool unlocked: Celebrity shoe valet.](http://9gag.com/gag/abA26mX)
- - 😝 [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)
- - 👉 [Such a sad incident](http://9gag.com/gag/a1mLXd2)<!-- MEMES:END -->
+ - 👉 [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)<!-- MEMES:END -->
 
 ---
 

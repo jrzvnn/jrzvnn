@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a record!](http://9gag.com/gag/an7DBVn)
- - 😝 [That&#39;s one way to redefine the job description.](http://9gag.com/gag/a9yXYn1)
- - 💣 [He really forgot she was there.](http://9gag.com/gag/a2vb5mZ)
+ - 😝 [He really forgot she was there.](http://9gag.com/gag/a2vb5mZ)
+ - 😝 [In mid April, a 32 year old woman was brutally attacked in Jaworzno, in front of her children. The 27 year old jumped her, began to tear off her clothes by force, and beat her. The reason is, she was wearing clothes with the emblems of the opposite football team Wis\u0142a Krak\u00f3w.](http://9gag.com/gag/abA26dX)
+ - 💣 [Do not the bandage.](http://9gag.com/gag/a6ZpQw9)
  - 😝 [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)
- - 👉 [When this screen was the ultimate quality guarantee.](http://9gag.com/gag/aByX1rP)<!-- MEMES:END -->
+ - 👉 [That&#39;s one way to redefine the job description.](http://9gag.com/gag/a9yXYn1)<!-- MEMES:END -->
 
 ---
 

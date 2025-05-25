@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I Didn&#39;t Expect a Refund From Amazon After All These Years, but It Happened](https://www.cnet.com/tech/i-didnt-expect-a-refund-from-amazon-after-all-these-years-but-it-happened/#ftag=CAD590a51e)
+ - [&#39;The Last of Us&#39; Ends Tonight: When to Watch the Season 2 Finale](https://www.cnet.com/tech/services-and-software/the-last-of-us-ends-tonight-when-to-watch-season-2-finale/#ftag=CAD590a51e)
  - [The Quest to Prove the Existence of a New Type of Quantum Particle](https://www.wired.com/story/paraparticles-would-be-a-third-kingdom-of-quantum-particle/)
- - [3D Is Back. This Time, You Can Ditch the Glasses](https://www.wired.com/story/3d-is-back/)
- - [Some VCs, such as Khosla Ventures, are considering acquiring mature businesses, like call center operators, and optimizing them with AI to serve more customers &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250525/p7#a250525p7)
- - [Here&#39;s How You Can Change Your iPhone&#39;s Default Apps in a Few Easy Steps](https://www.cnet.com/tech/services-and-software/heres-how-you-can-change-your-iphones-default-apps-ina-a-few-easy-steps/#ftag=CAD590a51e)
- - [A security researcher details how he discovered a zero-day vulnerability in the Linux kernel&#39;s SMB implementation by analyzing the code using OpenAI&#39;s o3 API &lpar;Sean Heelan/Sean Heelan&#39;s Blog&rpar;](http://www.techmeme.com/250525/p6#a250525p6)<!-- TECH:END -->
+ - [Is Cox&#39;s Gigabit Service Worth the Cost? Here&#39;s What I Found After Doing the Math](https://www.cnet.com/home/internet/cox-gig-service-worth-the-cost/#ftag=CAD590a51e)
+ - [Best Home Security Cameras Without Subscriptions in 2025: No Fee Safety](https://www.cnet.com/home/security/best-home-security-cameras-without-subscriptions/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

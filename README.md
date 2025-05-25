@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That was way too close.](http://9gag.com/gag/aRB2eAA)
- - 😝 [Double the efficiency](http://9gag.com/gag/a5QjZ4G)
- - 💣 [I was there...](http://9gag.com/gag/a34Wj41)
- - 😝 [Svalbard](http://9gag.com/gag/aD2XjVw)
- - 👉 [Suffering from success, the sequel.](http://9gag.com/gag/aYQ1KVm)<!-- MEMES:END -->
+ - 😝 [She can fix you](http://9gag.com/gag/aMVXw2V)
+ - 😝 [Grandpa is the best](http://9gag.com/gag/aGy2DO5)
+ - 💣 [As a man.. this would 100% work on me](http://9gag.com/gag/aAyXwqo)
+ - 😝 [This type of shit happens often](http://9gag.com/gag/ae92bbO)
+ - 👉 [Not a bug but a feature](http://9gag.com/gag/a7oNZmr)<!-- MEMES:END -->
 
 ---
 

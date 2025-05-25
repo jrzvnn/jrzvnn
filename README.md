@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The second round of the presidential elections is approaching in Poland. Meanwhile, one of the candidates during a live debate:](http://9gag.com/gag/aZZ2MMQ)
- - 😝 [Suffering from success, the sequel.](http://9gag.com/gag/aYQ1KVm)
- - 💣 [That was way too close.](http://9gag.com/gag/aRB2eAA)
- - 😝 [Double the efficiency](http://9gag.com/gag/a5QjZ4G)
- - 👉 [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)<!-- MEMES:END -->
+ - 😝 [Always has been](http://9gag.com/gag/aD2XW0Z)
+ - 😝 [She can fix you](http://9gag.com/gag/aMVXw2V)
+ - 💣 [As a man.. this would 100% work on me](http://9gag.com/gag/aAyXwqo)
+ - 😝 [Grandpa is the best](http://9gag.com/gag/aGy2DO5)
+ - 👉 [This type of shit happens often](http://9gag.com/gag/ae92bbO)<!-- MEMES:END -->
 
 ---
 

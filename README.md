@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The second round of the presidential elections is approaching in Poland. Meanwhile, one of the candidates during a live debate:](http://9gag.com/gag/aZZ2MMQ)
- - 😝 [My travel adapter bag is getting heavy.](http://9gag.com/gag/aLnXP96)
- - 💣 [Top 10 anime betrayals](http://9gag.com/gag/aryB4yX)
+ - 😝 [Keep an eye on these guys... they&#39;re up to something](http://9gag.com/gag/a87wMB1)
+ - 😝 [Sharing is caring... or maybe just curious?](http://9gag.com/gag/adB2jZ9)
+ - 💣 [Japanese Latex mattress.](http://9gag.com/gag/aO81b92)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
- - 👉 [Now we&#39;re talking](http://9gag.com/gag/ae920pq)<!-- MEMES:END -->
+ - 👉 [Future is now old man](http://9gag.com/gag/amoVr1o)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I want to play a game](http://9gag.com/gag/a2vbmvw)
- - 😝 [Wtf is going on here](http://9gag.com/gag/aD2XwYZ)
- - 💣 [Meanwhile in South Africa](http://9gag.com/gag/a4PqLZQ)
+ - 😝 [Meanwhile in South Africa](http://9gag.com/gag/a4PqLZQ)
+ - 😝 [Additional reason for hating your job](http://9gag.com/gag/a1mLZb2)
+ - 💣 [Proud moment, questionable description](http://9gag.com/gag/aAyXrnR)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
- - 👉 [Btw, it&#39;s true](http://9gag.com/gag/a4Pq9Pp)<!-- MEMES:END -->
+ - 👉 [Who knew hooded figures could be so... enigmatic](http://9gag.com/gag/aMVXGmA)<!-- MEMES:END -->
 
 ---
 

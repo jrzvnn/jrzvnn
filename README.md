@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Such a sad incident](http://9gag.com/gag/a1mLXd2)
- - 😝 [Le title](http://9gag.com/gag/aQz28qw)
- - 💣 [Do not the bandage.](http://9gag.com/gag/a6ZpQw9)
+ - 😝 [That 2 am `I love you so much` text from Cancun...](http://9gag.com/gag/a9yXMx1)
+ - 😝 [Who knew hooded figures could be so... enigmatic](http://9gag.com/gag/aMVXGmA)
+ - 💣 [Meanwhile in South Africa](http://9gag.com/gag/a4PqLZQ)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
- - 👉 [Actual Peak Male Performance](http://9gag.com/gag/aoy8Z7e)<!-- MEMES:END -->
+ - 👉 [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)<!-- MEMES:END -->
 
 ---
 

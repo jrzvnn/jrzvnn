@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every single day, my neighbor parks in front of my garage. Today I finally snapped, held the horn for 4 solid minutes. He comes out yelling, calls me insane. Like bro, I&#39;m just trying to leave my own house. How would you react?](http://9gag.com/gag/an7D1A0)
  - 😝 [Meanwhile in South Africa](http://9gag.com/gag/a4PqLZQ)
- - 💣 [What a record!](http://9gag.com/gag/an7DBVn)
- - 😝 [Such a sad incident](http://9gag.com/gag/a1mLXd2)
+ - 😝 [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)
+ - 💣 [That&#39;s clever](http://9gag.com/gag/axyPjX2)
+ - 😝 [Do not the bandage.](http://9gag.com/gag/a6ZpQw9)
  - 👉 [I was there...](http://9gag.com/gag/a34Wj41)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When this screen was the ultimate quality guarantee.](http://9gag.com/gag/aByX1rP)
- - 😝 [Who knew hooded figures could be so... enigmatic](http://9gag.com/gag/aMVXGmA)
- - 💣 [Meanwhile in South Africa](http://9gag.com/gag/a4PqLZQ)
+ - 😝 [Keep an eye on these guys... they&#39;re up to something](http://9gag.com/gag/a87wMB1)
+ - 😝 [Sharing is caring... or maybe just curious?](http://9gag.com/gag/adB2jZ9)
+ - 💣 [Japanese Latex mattress.](http://9gag.com/gag/aO81b92)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
- - 👉 [What a record!](http://9gag.com/gag/an7DBVn)<!-- MEMES:END -->
+ - 👉 [All the ladies are already wet](http://9gag.com/gag/aVv2Pbw)<!-- MEMES:END -->
 
 ---
 

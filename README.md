@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [When this screen was the ultimate quality guarantee.](http://9gag.com/gag/aByX1rP)
+ - 😝 [Do not the bandage.](http://9gag.com/gag/a6ZpQw9)
+ - 💣 [That&#39;s clever](http://9gag.com/gag/axyPjX2)
  - 😝 [Meanwhile in South Africa](http://9gag.com/gag/a4PqLZQ)
- - 😝 [What a record!](http://9gag.com/gag/an7DBVn)
- - 💣 [Do not the bandage.](http://9gag.com/gag/a6ZpQw9)
- - 😝 [That&#39;s clever](http://9gag.com/gag/axyPjX2)
  - 👉 [Suffering from success, the sequel.](http://9gag.com/gag/aYQ1KVm)<!-- MEMES:END -->
 
 ---

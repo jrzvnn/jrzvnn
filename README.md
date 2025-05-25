@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Memorial Day Mattress and Bedding Sales &lpar;2025&rpar;](https://www.wired.com/story/best-memorial-day-mattress-sales-2025-2/)
+ - [Real-world map data is helping make better games about farms and transportation](https://www.theverge.com/games/672035/openstreetmap-data-games)
  - [Apple prepares iOS 19, macOS 16 &#39;Solarium&#39; UI overhaul for WWDC](https://appleinsider.com/articles/25/05/25/apple-prepares-ios-19-macos-16-solarium-ui-overhaul-for-wwdc?utm_medium=rss)
- - [Samsung Galaxy S25 Edge Review: Super Thin With a Catch](https://www.wired.com/review/samsung-galaxy-s25-edge/)
- - [The Newark airport crisis is about to become everyone’s problem](https://www.theverge.com/planes/673462/newark-airport-delay-air-traffic-control-tracon-radar)
- - [Summer blockbuster season is here](https://www.theverge.com/installer-newsletter/673547/mission-impossible-fortnite-stream-deck-installer)
- - [Meta’s antitrust defense wraps with one big claim: WhatsApp and Instagram couldn’t be better](https://www.theverge.com/antitrust/673923/meta-case-ftc-antitrust-trial)<!-- TECH:END -->
+ - [Premier League Soccer: Stream Nottingham Forest vs. Chelsea Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-nottingham-forest-vs-chelsea-live-from-anywhere/#ftag=CAD590a51e)
+ - [Premier League Soccer: Stream Liverpool vs. Crystal Palace Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-liverpool-vs-crystal-palace-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

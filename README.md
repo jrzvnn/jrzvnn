@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I was there...](http://9gag.com/gag/a34Wj41)
- - 😝 [That&#39;s clever](http://9gag.com/gag/axyPjX2)
- - 💣 [Double the efficiency](http://9gag.com/gag/a5QjZ4G)
- - 😝 [The second round of the presidential elections is approaching in Poland. Meanwhile, one of the candidates during a live debate:](http://9gag.com/gag/aZZ2MMQ)
- - 👉 [When this screen was the ultimate quality guarantee.](http://9gag.com/gag/aByX1rP)<!-- MEMES:END -->
+ - 😝 [Bandit Cooling off](http://9gag.com/gag/aryBbpp)
+ - 😝 [As a man.. this would 100% work on me](http://9gag.com/gag/aAyXwqo)
+ - 💣 [Grandpa is the best](http://9gag.com/gag/aGy2DO5)
+ - 😝 [Always the Deadly lemons](http://9gag.com/gag/awy4nxW)
+ - 👉 [She can fix you](http://9gag.com/gag/aMVXw2V)<!-- MEMES:END -->
 
 ---
 

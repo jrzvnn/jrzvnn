@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Android Auto will get Spotify Jam and support for video apps and web browsers](https://www.theverge.com/news/674126/android-auto-spotify-jam-web-browsers-video-apps)
+ - [La Liga Soccer: How to Livestream Athletic Bilbao vs. Barcelona From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-how-to-livestream-athletic-bilbao-vs-barcelona-from-anywhere/#ftag=CAD590a51e)
  - [Cyan updates &#39;Myst&#39; franchise for native Apple Silicon performance](https://appleinsider.com/articles/25/05/25/cyan-updates-myst-franchise-for-native-apple-silicon-performance?utm_medium=rss)
  - [London-based Converge, which uses sensors and AI to optimize the use of concrete in construction projects, raised a $22M Series A led by Dutch bank ABN Amro &lpar;Katie Fehrenbacher/Axios&rpar;](http://www.techmeme.com/250525/p10#a250525p10)
- - [Peacock Annual Plan Deal: Stream &#39;Love Island USA&#39; and More For Less](https://www.cnet.com/deals/peacock-annual-plan-deal-stream-love-island-usa-and-more-for-less/#ftag=CAD590a51e)
- - [Sarvam AI&#39;s 24B-parameter LLM for Indian languages Sarvam-M receives only 334 downloads in two days on Hugging Face, raising concerns about AI efforts in India &lpar;Mohit Pandey/Analytics India Magazine&rpar;](http://www.techmeme.com/250525/p9#a250525p9)
- - [Premier League Soccer: Stream Ipswich vs. West Ham Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-ipswich-vs-west-ham-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [MLB.TV Is a Near Perfect Streaming Service With Increasing In-Market Options](https://www.cnet.com/tech/services-and-software/mlb-tv-is-a-near-perfect-streaming-service-with-increasing-in-market-options/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

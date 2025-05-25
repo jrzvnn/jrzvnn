@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Accessibility consultants say the video game industry&#39;s accessibility advancements, which gained momentum in 2020, have slowed down due to cutbacks &lpar;Geoffrey Bunting/The Verge&rpar;](http://www.techmeme.com/250524/p16#a250524p16)
  - [Texas is set to enact one of the strictest bans on social media for minors, with age verification requirements and letting parents request account deletions &lpar;Adam Edelman/NBC News&rpar;](http://www.techmeme.com/250524/p15#a250524p15)
  - [The Nintendo Switch 2 sure seems to work just fine with a USB mouse](https://www.theverge.com/news/674176/nintendo-switch-2-usb-mouse-support)
  - [Today&#39;s Wordle Hints, Answer and Help for May 25, #1436](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-25-1436/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for May 25, #448](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-25-448/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for May 25, #714](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-25-714/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for May 25, #448](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-25-448/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

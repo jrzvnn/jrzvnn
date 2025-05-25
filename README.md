@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: the main topic at WWDC will be a redesigned software interface, dubbed Solarium, for all of Apple&#39;s operating systems, including tvOS and watchOS &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250525/p14#a250525p14)
  - [The oldest Fire TV devices are losing Netflix support soon](https://www.theverge.com/news/674165/amazon-1st-generation-fire-tv-devices-losing-netflix-support)
  - [CoComelon is headed to Disney Plus in 2027](https://www.theverge.com/news/674314/disney-cocomelon-streaming-deal)
  - [Some Amazon engineers say managers have increasingly pushed them to use AI over the past year, raising output goals and becoming less forgiving about deadlines &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/250525/p13#a250525p13)
- - [Three new DJI drones may be on the way](https://www.theverge.com/news/674305/dji-drones-mini-5-pro-avata-3-neo-2-leaked-images)
- - [Today&#39;s NYT Strands Hints, Answers and Help for May 26, #449](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-26-449/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Three new DJI drones may be on the way](https://www.theverge.com/news/674305/dji-drones-mini-5-pro-avata-3-neo-2-leaked-images)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

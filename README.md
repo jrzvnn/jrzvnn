@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [In mid April, a 32 year old woman was brutally attacked in Jaworzno, in front of her children. The 27 year old jumped her, began to tear off her clothes by force, and beat her. The reason is, she was wearing clothes with the emblems of the opposite football team Wis\u0142a Krak\u00f3w.](http://9gag.com/gag/abA26dX)
  - 😝 [Level of cool unlocked: Celebrity shoe valet.](http://9gag.com/gag/abA26mX)
- - 😝 [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)
- - 💣 [I was there...](http://9gag.com/gag/a34Wj41)
- - 😝 [Meanwhile in South Africa](http://9gag.com/gag/a4PqLZQ)
+ - 💣 [The second round of the presidential elections is approaching in Poland. Meanwhile, one of the candidates during a live debate:](http://9gag.com/gag/aZZ2MMQ)
+ - 😝 [Do not the bandage.](http://9gag.com/gag/a6ZpQw9)
  - 👉 [That&#39;s clever](http://9gag.com/gag/axyPjX2)<!-- MEMES:END -->
 
 ---

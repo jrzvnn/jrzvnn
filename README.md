@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sharing is caring... or maybe just curious?](http://9gag.com/gag/adB2jZ9)
- - 😝 [That was way too close.](http://9gag.com/gag/aRB2eAA)
- - 💣 [Exactly. Just show me the price](http://9gag.com/gag/avyvnrM)
+ - 😝 [Every single day, my neighbor parks in front of my garage. Today I finally snapped, held the horn for 4 solid minutes. He comes out yelling, calls me insane. Like bro, I&#39;m just trying to leave my own house. How would you react?](http://9gag.com/gag/an7D1A0)
+ - 😝 [My travel adapter bag is getting heavy.](http://9gag.com/gag/aLnXP96)
+ - 💣 [Actual Peak Male Performance](http://9gag.com/gag/aoy8Z7e)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
- - 👉 [M@n only want one thing and it\u2019s freaking amazing!](http://9gag.com/gag/agm2Grg)<!-- MEMES:END -->
+ - 👉 [That was way too close.](http://9gag.com/gag/aRB2eAA)<!-- MEMES:END -->
 
 ---
 

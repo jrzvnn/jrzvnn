@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The second round of the presidential elections is approaching in Poland. Meanwhile, one of the candidates during a live debate:](http://9gag.com/gag/aZZ2MMQ)
- - 😝 [Top 10 anime betrayals](http://9gag.com/gag/aryB4yX)
- - 💣 [You want to do what?](http://9gag.com/gag/a1mLZrY)
+ - 😝 [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)
+ - 😝 [You want to do what?](http://9gag.com/gag/a1mLZrY)
+ - 💣 [._.](http://9gag.com/gag/ae9234v)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
- - 👉 [Do not the bandage.](http://9gag.com/gag/a6ZpQw9)<!-- MEMES:END -->
+ - 👉 [Who knew hooded figures could be so... enigmatic](http://9gag.com/gag/aMVXGmA)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [General Medicine, an online storefront for medical care founded by PillPack founders TJ Parker and Elliot Cohen, launches with $32M in funding led by Matrix &lpar;Jason Del Rey/Fortune&rpar;](http://www.techmeme.com/250525/p2#a250525p2)
  - [OpenFX, which is building a near-instant payments and settlement network for cross-border transactions, emerges from stealth with $23M in funding led by Accel &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/250525/p1#a250525p1)
  - [Amap, Alibaba&#39;s mapping and local services business, introduces a ride-hailing feature on the app&#39;s English version, targeting foreign visitors in China &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250524/p19#a250524p19)
  - [Legora, whose AI tools help legal teams review, draft, research, and advise, raised an $80M Series B at a $675M valuation led by ICONIQ and General Catalyst &lpar;Evan Ochsner/Bloomberg Law&rpar;](http://www.techmeme.com/250524/p18#a250524p18)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 25, #244](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-25-244/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, May 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-may-25/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 25, #244](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-25-244/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Filled with what?](http://9gag.com/gag/apRAvRB)
+ - 😝 [Btw, it&#39;s true](http://9gag.com/gag/a4Pq9Pp)
  - 😝 [Top 10 anime betrayals](http://9gag.com/gag/aryB4yX)
- - 💣 [Proud moment, questionable description](http://9gag.com/gag/aAyXrnR)
+ - 💣 [Meanwhile in South Africa](http://9gag.com/gag/a4PqLZQ)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
- - 👉 [Classic Dev troll!](http://9gag.com/gag/aPAXyEP)<!-- MEMES:END -->
+ - 👉 [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sarvam AI&#39;s 24B-parameter LLM for Indian languages Sarvam-M receives only 334 downloads in two days on Hugging Face, raising concerns about AI efforts in India &lpar;Mohit Pandey/Analytics India Magazine&rpar;](http://www.techmeme.com/250525/p9#a250525p9)
  - [10 Best Reusable Water Bottles of 2025, Tested &amp; Reviewed](https://www.wired.com/gallery/best-reusable-water-bottles/)
  - [How to Watch Bong Joon Ho&#39;s &#39;Mickey 17&#39; at Home](https://www.cnet.com/tech/services-and-software/how-to-watch-bong-joon-hos-mickey-17-at-home/#ftag=CAD590a51e)
  - [Premier League Soccer: Stream Tottenham vs. Brighton Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-tottenham-vs-brighton-live-from-anywhere/#ftag=CAD590a51e)
- - [Apple&#39;s AI smart screen devices will have to wait on Siri revamp](https://appleinsider.com/articles/25/05/25/apples-ai-smart-screen-devices-will-have-to-wait-on-siri-revamp?utm_medium=rss)
- - [Premier League Soccer: Stream Newcastle vs. Everton Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-newcastle-vs-everton-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s AI smart screen devices will have to wait on Siri revamp](https://appleinsider.com/articles/25/05/25/apples-ai-smart-screen-devices-will-have-to-wait-on-siri-revamp?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

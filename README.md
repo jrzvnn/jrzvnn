@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Answer in the pinned comment](http://9gag.com/gag/aLnXBxg)
+ - 😝 [Do not the bandage.](http://9gag.com/gag/a6ZpQw9)
  - 😝 [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)
- - 💣 [Do not the bandage.](http://9gag.com/gag/a6ZpQw9)
+ - 💣 [When this screen was the ultimate quality guarantee.](http://9gag.com/gag/aByX1rP)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
- - 👉 [When this screen was the ultimate quality guarantee.](http://9gag.com/gag/aByX1rP)<!-- MEMES:END -->
+ - 👉 [Double the efficiency](http://9gag.com/gag/a5QjZ4G)<!-- MEMES:END -->
 
 ---
 

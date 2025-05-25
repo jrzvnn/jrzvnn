@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)
- - 😝 [When this screen was the ultimate quality guarantee.](http://9gag.com/gag/aByX1rP)
- - 💣 [Such a sad incident](http://9gag.com/gag/a1mLXd2)
- - 😝 [Top 10 anime betrayals](http://9gag.com/gag/aryB4yX)
- - 👉 [I was there...](http://9gag.com/gag/a34Wj41)<!-- MEMES:END -->
+ - 😝 [Japanese Latex mattress.](http://9gag.com/gag/aO81b92)
+ - 😝 [Sharing is caring... or maybe just curious?](http://9gag.com/gag/adB2jZ9)
+ - 💣 [That was way too close.](http://9gag.com/gag/aRB2eAA)
+ - 😝 [Fight me you coward](http://9gag.com/gag/an7DymV)
+ - 👉 [Future is now old man](http://9gag.com/gag/amoVr1o)<!-- MEMES:END -->
 
 ---
 

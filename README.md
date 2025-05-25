@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She can fix you](http://9gag.com/gag/aMVXw2V)
- - 😝 [Grandpa is the best](http://9gag.com/gag/aGy2DO5)
- - 💣 [As a man.. this would 100% work on me](http://9gag.com/gag/aAyXwqo)
- - 😝 [This type of shit happens often](http://9gag.com/gag/ae92bbO)
- - 👉 [Not a bug but a feature](http://9gag.com/gag/a7oNZmr)<!-- MEMES:END -->
+ - 😝 [Double the efficiency](http://9gag.com/gag/a5QjZ4G)
+ - 😝 [Svalbard](http://9gag.com/gag/aD2XjVw)
+ - 💣 [Who knew hooded figures could be so... enigmatic](http://9gag.com/gag/aMVXGmA)
+ - 😝 [What a record!](http://9gag.com/gag/an7DBVn)
+ - 👉 [The second round of the presidential elections is approaching in Poland. Meanwhile, one of the candidates during a live debate:](http://9gag.com/gag/aZZ2MMQ)<!-- MEMES:END -->
 
 ---
 

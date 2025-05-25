@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A profile of Zach Witkoff, World Liberty Financial co-founder and son of Trump&#39;s Middle East envoy, who is pursuing crypto deals with countries like Pakistan &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250525/p11#a250525p11)
+ - [Best Internet Providers in Oakland, California](https://www.cnet.com/home/internet/best-internet-providers-in-oakland-ca/#ftag=CAD590a51e)
  - [The best Memorial Day deals actually worth shopping for](https://www.theverge.com/tech/670092/best-memorial-day-sales-2025)
  - [Apple&#39;s M4 MacBook Air returns to $849.99 during Memorial Day sale](https://appleinsider.com/articles/25/05/25/apples-m4-macbook-air-returns-to-84999-during-memorial-day-sale?utm_medium=rss)
- - [Gemini in Chrome feels like a small step toward Google&amp;#8217;s agentic era](https://www.theverge.com/google/673659/gemini-google-chrome-integration-agentic-era)
- - [Android Auto will get Spotify Jam and support for video apps and web browsers](https://www.theverge.com/news/674126/android-auto-spotify-jam-web-browsers-video-apps)<!-- TECH:END -->
+ - [Gemini in Chrome feels like a small step toward Google&amp;#8217;s agentic era](https://www.theverge.com/google/673659/gemini-google-chrome-integration-agentic-era)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

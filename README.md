@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Bandit Cooling off](http://9gag.com/gag/aryBbpp)
  - 😝 [As a man.. this would 100% work on me](http://9gag.com/gag/aAyXwqo)
  - 💣 [Grandpa is the best](http://9gag.com/gag/aGy2DO5)
- - 😝 [Always the Deadly lemons](http://9gag.com/gag/awy4nxW)
- - 👉 [She can fix you](http://9gag.com/gag/aMVXw2V)<!-- MEMES:END -->
+ - 😝 [She can fix you](http://9gag.com/gag/aMVXw2V)
+ - 👉 [Not a bug but a feature](http://9gag.com/gag/a7oNZmr)<!-- MEMES:END -->
 
 ---
 

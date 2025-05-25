@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a record!](http://9gag.com/gag/an7DBVn)
  - 😝 [In an alternative reality](http://9gag.com/gag/azxZjjm)
- - 💣 [When this screen was the ultimate quality guarantee.](http://9gag.com/gag/aByX1rP)
+ - 😝 [What a record!](http://9gag.com/gag/an7DBVn)
+ - 💣 [Top 10 anime betrayals](http://9gag.com/gag/aryB4yX)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
- - 👉 [That 2 am `I love you so much` text from Cancun...](http://9gag.com/gag/a9yXMx1)<!-- MEMES:END -->
+ - 👉 [Actual Peak Male Performance](http://9gag.com/gag/aoy8Z7e)<!-- MEMES:END -->
 
 ---
 

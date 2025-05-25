@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That 2 am `I love you so much` text from Cancun...](http://9gag.com/gag/a9yXMx1)
- - 😝 [Top 10 anime betrayals](http://9gag.com/gag/aryB4yX)
- - 💣 [It&#39;s funny because she&#39;s ...](http://9gag.com/gag/aoy82eA)
+ - 😝 [Meanwhile in South Africa](http://9gag.com/gag/a4PqLZQ)
+ - 😝 [What a record!](http://9gag.com/gag/an7DBVn)
+ - 💣 [Who knew hooded figures could be so... enigmatic](http://9gag.com/gag/aMVXGmA)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
- - 👉 [Every single day, my neighbor parks in front of my garage. Today I finally snapped, held the horn for 4 solid minutes. He comes out yelling, calls me insane. Like bro, I&#39;m just trying to leave my own house. How would you react?](http://9gag.com/gag/an7D1A0)<!-- MEMES:END -->
+ - 👉 [That was way too close.](http://9gag.com/gag/aRB2eAA)<!-- MEMES:END -->
 
 ---
 

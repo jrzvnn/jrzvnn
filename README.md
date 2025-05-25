@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meanwhile in South Africa](http://9gag.com/gag/a4PqLZQ)
+ - 😝 [Answer in the pinned comment](http://9gag.com/gag/aLnXBxg)
  - 😝 [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)
  - 💣 [Do not the bandage.](http://9gag.com/gag/a6ZpQw9)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)

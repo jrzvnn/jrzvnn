@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [10 Best Reusable Water Bottles of 2025, Tested &amp; Reviewed](https://www.wired.com/gallery/best-reusable-water-bottles/)
+ - [How to Watch Bong Joon Ho&#39;s &#39;Mickey 17&#39; at Home](https://www.cnet.com/tech/services-and-software/how-to-watch-bong-joon-hos-mickey-17-at-home/#ftag=CAD590a51e)
+ - [Premier League Soccer: Stream Tottenham vs. Brighton Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-tottenham-vs-brighton-live-from-anywhere/#ftag=CAD590a51e)
  - [Apple&#39;s AI smart screen devices will have to wait on Siri revamp](https://appleinsider.com/articles/25/05/25/apples-ai-smart-screen-devices-will-have-to-wait-on-siri-revamp?utm_medium=rss)
- - [Grok&#39;s tendency to repeat debunked claims raises doubts about Elon Musk&#39;s goal of making it a reliable source of information in high-stakes areas like medicine &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/250525/p8#a250525p8)
- - [We Hand-Picked the 61 Best Deals From the 2025 REI Anniversary Sale](https://www.wired.com/story/rei-anniversary-sale-may-2025-1/)
- - [The Best Memorial Day Mattress and Bedding Sales &lpar;2025&rpar;](https://www.wired.com/story/best-memorial-day-mattress-sales-2025-2/)<!-- TECH:END -->
+ - [Premier League Soccer: Stream Newcastle vs. Everton Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-newcastle-vs-everton-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

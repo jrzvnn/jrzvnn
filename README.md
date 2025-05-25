@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Meanwhile in South Africa](http://9gag.com/gag/a4PqLZQ)
  - 😝 [I want to play a game](http://9gag.com/gag/a2vbmvw)
- - 💣 [Who knew hooded figures could be so... enigmatic](http://9gag.com/gag/aMVXGmA)
+ - 💣 [._.](http://9gag.com/gag/ae9234v)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
- - 👉 [Top 10 anime betrayals](http://9gag.com/gag/aryB4yX)<!-- MEMES:END -->
+ - 👉 [Who knew hooded figures could be so... enigmatic](http://9gag.com/gag/aMVXGmA)<!-- MEMES:END -->
 
 ---
 

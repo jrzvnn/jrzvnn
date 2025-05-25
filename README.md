@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [That was way too close.](http://9gag.com/gag/aRB2eAA)
+ - 😝 [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)
+ - 💣 [I was there...](http://9gag.com/gag/a34Wj41)
  - 😝 [The second round of the presidential elections is approaching in Poland. Meanwhile, one of the candidates during a live debate:](http://9gag.com/gag/aZZ2MMQ)
- - 💣 [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)
- - 😝 [I was there...](http://9gag.com/gag/a34Wj41)
- - 👉 [When this screen was the ultimate quality guarantee.](http://9gag.com/gag/aByX1rP)<!-- MEMES:END -->
+ - 👉 [Who knew hooded figures could be so... enigmatic](http://9gag.com/gag/aMVXGmA)<!-- MEMES:END -->
 
 ---
 

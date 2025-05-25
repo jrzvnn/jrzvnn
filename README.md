@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do not the bandage.](http://9gag.com/gag/a6ZpQw9)
- - 😝 [That 2 am `I love you so much` text from Cancun...](http://9gag.com/gag/a9yXMx1)
- - 💣 [My travel adapter bag is getting heavy.](http://9gag.com/gag/aLnXP96)
+ - 😝 [The second round of the presidential elections is approaching in Poland. Meanwhile, one of the candidates during a live debate:](http://9gag.com/gag/aZZ2MMQ)
+ - 😝 [Top 10 anime betrayals](http://9gag.com/gag/aryB4yX)
+ - 💣 [You want to do what?](http://9gag.com/gag/a1mLZrY)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
- - 👉 [Who knew hooded figures could be so... enigmatic](http://9gag.com/gag/aMVXGmA)<!-- MEMES:END -->
+ - 👉 [Do not the bandage.](http://9gag.com/gag/a6ZpQw9)<!-- MEMES:END -->
 
 ---
 

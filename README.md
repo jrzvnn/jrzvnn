@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [When this screen was the ultimate quality guarantee.](http://9gag.com/gag/aByX1rP)
  - 😝 [Who knew hooded figures could be so... enigmatic](http://9gag.com/gag/aMVXGmA)
- - 😝 [The second round of the presidential elections is approaching in Poland. Meanwhile, one of the candidates during a live debate:](http://9gag.com/gag/aZZ2MMQ)
- - 💣 [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)
+ - 💣 [Meanwhile in South Africa](http://9gag.com/gag/a4PqLZQ)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
- - 👉 [Such a sad incident](http://9gag.com/gag/a1mLXd2)<!-- MEMES:END -->
+ - 👉 [What a record!](http://9gag.com/gag/an7DBVn)<!-- MEMES:END -->
 
 ---
 

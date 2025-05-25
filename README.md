@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)
- - 😝 [Meanwhile in South Africa](http://9gag.com/gag/a4PqLZQ)
- - 💣 [Actual Peak Male Performance](http://9gag.com/gag/aoy8Z7e)
+ - 😝 [What a record!](http://9gag.com/gag/an7DBVn)
+ - 😝 [In an alternative reality](http://9gag.com/gag/azxZjjm)
+ - 💣 [When this screen was the ultimate quality guarantee.](http://9gag.com/gag/aByX1rP)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
  - 👉 [That 2 am `I love you so much` text from Cancun...](http://9gag.com/gag/a9yXMx1)<!-- MEMES:END -->
 

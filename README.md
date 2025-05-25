@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Top 10 anime betrayals](http://9gag.com/gag/aryB4yX)
  - 😝 [The second round of the presidential elections is approaching in Poland. Meanwhile, one of the candidates during a live debate:](http://9gag.com/gag/aZZ2MMQ)
- - 💣 [My travel adapter bag is getting heavy.](http://9gag.com/gag/aLnXP96)
+ - 😝 [My travel adapter bag is getting heavy.](http://9gag.com/gag/aLnXP96)
+ - 💣 [Top 10 anime betrayals](http://9gag.com/gag/aryB4yX)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
- - 👉 [Such a sad incident](http://9gag.com/gag/a1mLXd2)<!-- MEMES:END -->
+ - 👉 [Now we&#39;re talking](http://9gag.com/gag/ae920pq)<!-- MEMES:END -->
 
 ---
 

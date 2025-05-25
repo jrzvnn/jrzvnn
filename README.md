@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amap, Alibaba&#39;s mapping and local services business, introduces a ride-hailing feature on the app&#39;s English version, targeting foreign visitors in China &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250524/p19#a250524p19)
+ - [Legora, whose AI tools help legal teams review, draft, research, and advise, raised an $80M Series B at a $675M valuation led by ICONIQ and General Catalyst &lpar;Evan Ochsner/Bloomberg Law&rpar;](http://www.techmeme.com/250524/p18#a250524p18)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 25, #244](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-25-244/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword Answers for Sunday, May 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-may-25/#ftag=CAD590a51e)
- - [Crypto investor John Woeltz from Kentucky was charged in NYC for allegedly kidnapping and torturing an Italian tourist for three weeks to gain crypto passwords &lpar;New York Times&rpar;](http://www.techmeme.com/250524/p17#a250524p17)
- - [Accessibility consultants say the video game industry&#39;s accessibility advancements, which gained momentum in 2020, have slowed down due to cutbacks &lpar;Geoffrey Bunting/The Verge&rpar;](http://www.techmeme.com/250524/p16#a250524p16)
- - [Texas is set to enact one of the strictest bans on social media for minors, with age verification requirements and letting parents request account deletions &lpar;Adam Edelman/NBC News&rpar;](http://www.techmeme.com/250524/p15#a250524p15)
- - [The Nintendo Switch 2 sure seems to work just fine with a USB mouse](https://www.theverge.com/news/674176/nintendo-switch-2-usb-mouse-support)<!-- TECH:END -->
+ - [Crypto investor John Woeltz from Kentucky was charged in NYC for allegedly kidnapping and torturing an Italian tourist for three weeks to gain crypto passwords &lpar;New York Times&rpar;](http://www.techmeme.com/250524/p17#a250524p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

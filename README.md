@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In mid April, a 32 year old woman was brutally attacked in Jaworzno, in front of her children. The 27 year old jumped her, began to tear off her clothes by force, and beat her. The reason is, she was wearing clothes with the emblems of the opposite football team Wis\u0142a Krak\u00f3w.](http://9gag.com/gag/abA26dX)
- - 😝 [Double the efficiency](http://9gag.com/gag/a5QjZ4G)
- - 💣 [Svalbard](http://9gag.com/gag/aD2XjVw)
- - 😝 [What a record!](http://9gag.com/gag/an7DBVn)
- - 👉 [The second round of the presidential elections is approaching in Poland. Meanwhile, one of the candidates during a live debate:](http://9gag.com/gag/aZZ2MMQ)<!-- MEMES:END -->
+ - 😝 [She can fix you](http://9gag.com/gag/aMVXw2V)
+ - 😝 [Grandpa is the best](http://9gag.com/gag/aGy2DO5)
+ - 💣 [This type of shit happens often](http://9gag.com/gag/ae92bbO)
+ - 😝 [As a man.. this would 100% work on me](http://9gag.com/gag/aAyXwqo)
+ - 👉 [Not a bug but a feature](http://9gag.com/gag/a7oNZmr)<!-- MEMES:END -->
 
 ---
 

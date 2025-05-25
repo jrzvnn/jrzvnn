@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Didn&#39;t Expect a Refund From Amazon After All These Years, but It Happened](https://www.cnet.com/tech/i-didnt-expect-a-refund-from-amazon-after-all-these-years-but-it-happened/#ftag=CAD590a51e)
- - [&#39;The Last of Us&#39; Ends Tonight: When to Watch the Season 2 Finale](https://www.cnet.com/tech/services-and-software/the-last-of-us-ends-tonight-when-to-watch-season-2-finale/#ftag=CAD590a51e)
- - [The Quest to Prove the Existence of a New Type of Quantum Particle](https://www.wired.com/story/paraparticles-would-be-a-third-kingdom-of-quantum-particle/)
- - [Is Cox&#39;s Gigabit Service Worth the Cost? Here&#39;s What I Found After Doing the Math](https://www.cnet.com/home/internet/cox-gig-service-worth-the-cost/#ftag=CAD590a51e)
- - [Best Home Security Cameras Without Subscriptions in 2025: No Fee Safety](https://www.cnet.com/home/security/best-home-security-cameras-without-subscriptions/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple prepares iOS 19, macOS 16 &#39;Solarium&#39; UI overhaul for WWDC](https://appleinsider.com/articles/25/05/25/apple-prepares-ios-19-macos-16-solarium-ui-overhaul-for-wwdc?utm_medium=rss)
+ - [Samsung Galaxy S25 Edge Review: Super Thin With a Catch](https://www.wired.com/review/samsung-galaxy-s25-edge/)
+ - [The Newark airport crisis is about to become everyone’s problem](https://www.theverge.com/planes/673462/newark-airport-delay-air-traffic-control-tracon-radar)
+ - [Summer blockbuster season is here](https://www.theverge.com/installer-newsletter/673547/mission-impossible-fortnite-stream-deck-installer)
+ - [Meta’s antitrust defense wraps with one big claim: WhatsApp and Instagram couldn’t be better](https://www.theverge.com/antitrust/673923/meta-case-ftc-antitrust-trial)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

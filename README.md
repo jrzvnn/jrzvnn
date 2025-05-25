@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Three new DJI drones may be on the way](https://www.theverge.com/news/674305/dji-drones-mini-5-pro-avata-3-neo-2-leaked-images)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for May 26, #449](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-26-449/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for May 26, #1437](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-26-1437/#ftag=CAD590a51e)
  - [Google expands Veo 3 availability to 71 additional countries, and Gemini Pro subscribers now get a trial pack of 10 Veo 3 generations on the Gemini web app &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/250525/p12#a250525p12)
- - [Hear Me Out: This Weird Adult Swim Series Is One of the Best Sci-Fi Shows of the Year](https://www.cnet.com/tech/services-and-software/hear-me-out-this-weird-adult-swim-series-is-one-of-the-best-sci-fi-shows-of-the-year/#ftag=CAD590a51e)
- - [A profile of Zach Witkoff, World Liberty Financial co-founder and son of Trump&#39;s Middle East envoy, who is pursuing crypto deals with countries like Pakistan &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250525/p11#a250525p11)
- - [Best Internet Providers in Oakland, California](https://www.cnet.com/home/internet/best-internet-providers-in-oakland-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hear Me Out: This Weird Adult Swim Series Is One of the Best Sci-Fi Shows of the Year](https://www.cnet.com/tech/services-and-software/hear-me-out-this-weird-adult-swim-series-is-one-of-the-best-sci-fi-shows-of-the-year/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

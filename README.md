@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [All the ladies are already wet](http://9gag.com/gag/aVv2Pbw)
+ - 😝 [Sharing is caring... or maybe just curious?](http://9gag.com/gag/adB2jZ9)
+ - 💣 [Japanese Latex mattress.](http://9gag.com/gag/aO81b92)
  - 😝 [That was way too close.](http://9gag.com/gag/aRB2eAA)
- - 😝 [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)
- - 💣 [Top 10 anime betrayals](http://9gag.com/gag/aryB4yX)
- - 😝 [I was there...](http://9gag.com/gag/a34Wj41)
- - 👉 [The second round of the presidential elections is approaching in Poland. Meanwhile, one of the candidates during a live debate:](http://9gag.com/gag/aZZ2MMQ)<!-- MEMES:END -->
+ - 👉 [Future is now old man](http://9gag.com/gag/amoVr1o)<!-- MEMES:END -->
 
 ---
 

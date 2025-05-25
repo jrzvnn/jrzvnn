@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Keep an eye on these guys... they&#39;re up to something](http://9gag.com/gag/a87wMB1)
- - 😝 [Back in the day, when cars had personality](http://9gag.com/gag/aO81mLr)
- - 💣 [Exactly. Just show me the price](http://9gag.com/gag/avyvnrM)
+ - 😝 [What a record!](http://9gag.com/gag/an7DBVn)
+ - 😝 [Who knew hooded figures could be so... enigmatic](http://9gag.com/gag/aMVXGmA)
+ - 💣 [Top 10 anime betrayals](http://9gag.com/gag/aryB4yX)
  - 😝 [You need somewhere to relax and reconnect, we get it. \u2728](http://9gag.com/gag/a5QjNro)
- - 👉 [Hell, yeah](http://9gag.com/gag/ajPKApw)<!-- MEMES:END -->
+ - 👉 [&#39;Rust\u2019 Shooting Armorer Hannah Gutierrez-Reed Released From Prison](http://9gag.com/gag/aNDRKq4)<!-- MEMES:END -->
 
 ---
 

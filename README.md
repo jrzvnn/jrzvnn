@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Peacock Annual Plan Deal: Stream &#39;Love Island USA&#39; and More For Less](https://www.cnet.com/deals/peacock-annual-plan-deal-stream-love-island-usa-and-more-for-less/#ftag=CAD590a51e)
+ - [London-based Converge, which uses sensors and AI to optimize the use of concrete in construction projects, raised a $22M Series A led by Dutch bank ABN Amro &lpar;Katie Fehrenbacher/Axios&rpar;](http://www.techmeme.com/250525/p10#a250525p10)
  - [Sarvam AI&#39;s 24B-parameter LLM for Indian languages Sarvam-M receives only 334 downloads in two days on Hugging Face, raising concerns about AI efforts in India &lpar;Mohit Pandey/Analytics India Magazine&rpar;](http://www.techmeme.com/250525/p9#a250525p9)
- - [Premier League Soccer: Stream Ipswich vs. West Ham Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-ipswich-vs-west-ham-live-from-anywhere/#ftag=CAD590a51e)
- - [Premier League Soccer: Stream Southampton vs. Arsenal Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-southampton-vs-arsenal-live-from-anywhere/#ftag=CAD590a51e)
- - [Pokemon TCG Pocket&#39;s Breakneck Expansion Releases Are Stressing Me Out](https://www.cnet.com/tech/gaming/pokemon-tcg-pockets-breakneck-expansion-releases-are-stressing-me-out/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [10 Best Reusable Water Bottles of 2025, Tested &amp; Reviewed](https://www.wired.com/gallery/best-reusable-water-bottles/)
+ - [How to Watch Bong Joon Ho&#39;s &#39;Mickey 17&#39; at Home](https://www.cnet.com/tech/services-and-software/how-to-watch-bong-joon-hos-mickey-17-at-home/#ftag=CAD590a51e)
+ - [Premier League Soccer: Stream Tottenham vs. Brighton Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-tottenham-vs-brighton-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

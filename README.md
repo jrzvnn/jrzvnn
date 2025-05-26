@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In the other news grass is green](http://9gag.com/gag/a2vboRY)
- - 😝 [Return to monke](http://9gag.com/gag/azxZXXb)
- - 💣 [Mom&#39;s weekend rules are... quite specific.](http://9gag.com/gag/aQz2e87)
- - 😝 [AGI is here.](http://9gag.com/gag/abA2My8)
- - 👉 [When people cant tell the difference between AI and 3D anymore](http://9gag.com/gag/azxZX8b)<!-- MEMES:END -->
+ - 😝 [From archives &lpar;9&rpar;](http://9gag.com/gag/aD2XWDG)
+ - 😝 [When you train on Netflix dataset](http://9gag.com/gag/aQz2eN7)
+ - 💣 [My pirating skills are getting rusty](http://9gag.com/gag/aZZ23n0)
+ - 😝 [When &#39;too much care&#39; is a crime.](http://9gag.com/gag/aE0XBPN)
+ - 👉 [Every single day, my neighbor parks in front of my garage. Today I finally snapped, held the horn for 4 solid minutes. He comes out yelling, calls me insane. Like bro, I&#39;m just trying to leave my own house. How would you react?](http://9gag.com/gag/an7D1A0)<!-- MEMES:END -->
 
 ---
 

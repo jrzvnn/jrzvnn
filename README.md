@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Level of cool unlocked: Celebrity shoe valet.](http://9gag.com/gag/abA26mX)
- - 😝 [Give this man a raise.](http://9gag.com/gag/aoy82Lg)
- - 💣 [Pizza has arrived.](http://9gag.com/gag/aryBOG6)
- - 😝 [Didn&#39;t see that coming...](http://9gag.com/gag/a9yXA1Z)
- - 👉 [That&#39;s clever](http://9gag.com/gag/axyPjX2)<!-- MEMES:END -->
+ - 😝 [When &#39;too much care&#39; is a crime.](http://9gag.com/gag/aE0XBPN)
+ - 😝 [Suffering from success, the sequel.](http://9gag.com/gag/aYQ1KVm)
+ - 💣 [That&#39;s clever](http://9gag.com/gag/axyPjX2)
+ - 😝 [Snoopy&#39;s bringing iron to the kitchen table](http://9gag.com/gag/an7DjVL)
+ - 👉 [In mid April, a 32 year old woman was brutally attacked in Jaworzno, in front of her children. The 27 year old jumped her, began to tear off her clothes by force, and beat her. The reason is, she was wearing clothes with the emblems of the opposite football team Wis\u0142a Krak\u00f3w.](http://9gag.com/gag/abA26dX)<!-- MEMES:END -->
 
 ---
 

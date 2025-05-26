@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hot Farmers, Trad Wives, and an Immigrant Reality Show: Welcome to TV’s MAGA Era](https://www.wired.com/story/hot-farmers-trad-wives-and-an-immigrant-reality-show-welcome-to-tvs-maga-era/)
+ - [Why Women With Type 2 Diabetes Are Diagnosed Later Than Men](https://www.wired.com/story/why-women-with-type-2-diabetes-are-diagnosed-later-than-men/)
  - [24 Best Memorial Day Mattress and Bedding Sales &lpar;2025&rpar;](https://www.wired.com/story/best-memorial-day-mattress-sales-2025-3/)
  - [A Starter Guide to Protecting Your Data From Hackers and Corporations](https://www.wired.com/story/guide-protect-data-from-hackers-corporations/)
- - [Sources: Tim Cook declined a WH invitation to join Jensen Huang and others on Trump&#39;s Middle East trip, during which Trump criticized Cook and praised Huang &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/250526/p6#a250526p6)
- - [39 Best Memorial Day Sales on Our Favorite Gear &lpar;2025&rpar;](https://www.wired.com/story/best-memorial-day-sales-2025-2/)
- - [The 18 Best Sci-Fi TV Shows on Prime Video](https://www.cnet.com/tech/services-and-software/prime-video-best-sci-fi-tv-shows-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Tim Cook declined a WH invitation to join Jensen Huang and others on Trump&#39;s Middle East trip, during which Trump criticized Cook and praised Huang &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/250526/p6#a250526p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

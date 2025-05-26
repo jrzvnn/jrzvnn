@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Mom&#39;s weekend rules are... quite specific.](http://9gag.com/gag/aQz2e87)
- - 😝 [I\u2019m Big drunk strong fat man , i will intimidate the police](http://9gag.com/gag/a5QjoYN)
- - 💣 [AGI is here.](http://9gag.com/gag/abA2My8)
- - 😝 [I wish you all pizza and goth girls](http://9gag.com/gag/ae92Mxq)
- - 👉 [When people cant tell the difference between AI and 3D anymore](http://9gag.com/gag/azxZX8b)<!-- MEMES:END -->
+ - 😝 [AGI is here.](http://9gag.com/gag/abA2My8)
+ - 💣 [I wish you all pizza and goth girls](http://9gag.com/gag/ae92Mxq)
+ - 😝 [When people cant tell the difference between AI and 3D anymore](http://9gag.com/gag/azxZX8b)
+ - 👉 [The Emperor protects](http://9gag.com/gag/a87wo9d)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese food delivery giant Meituan reports Q1 revenue up 18.1% to ~$12.1B, vs. $12B est., net profit up 87.3% YoY to ~$1.4B, as it expands outside China &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/250526/p5#a250526p5)
  - [At its Build conference, Microsoft sought to show its key role in the AI industry, with Sam Altman, Elon Musk, and Jensen Huang making virtual appearances &lpar;Rafe Uddin/Financial Times&rpar;](http://www.techmeme.com/250526/p4#a250526p4)
  - [The Milky Way Has a Mysterious ‘Broken Bone’](https://www.wired.com/story/the-milky-way-has-a-mysterious-broken-bone-nasa/)
  - [Sources: SoftBank&#39;s Masayoshi Son pitched a joint US-Japan sovereign fund to top DC and Tokyo officials to back large tech and infrastructure projects in the US &lpar;Financial Times&rpar;](http://www.techmeme.com/250526/p3#a250526p3)
- - [OpenAI sets up a legal entity in South Korea and plans a Seoul office, its third in Asia, and says the country has the most paying ChatGPT users outside the US &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250526/p2#a250526p2)
- - [Australia&#39;s WiseTech agrees to buy US cloud logistics firm E2open for $2.1B including debt, offering $3.30 per share, a 24.5% premium on E2open&#39;s May 23 close &lpar;Rishav Chatterjee/Reuters&rpar;](http://www.techmeme.com/250526/p1#a250526p1)<!-- TECH:END -->
+ - [OpenAI sets up a legal entity in South Korea and plans a Seoul office, its third in Asia, and says the country has the most paying ChatGPT users outside the US &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250526/p2#a250526p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

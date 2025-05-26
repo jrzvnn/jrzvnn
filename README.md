@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jony Ive + OpenAI in the smart home, SwitchBot Hub 3, &amp; ThorBolt X1 on HomeKit Insider](https://appleinsider.com/articles/25/05/26/jony-ive-openai-in-the-smart-home-switchbot-hub-3-thorbolt-x1-on-homekit-insider?utm_medium=rss)
+ - [JioHotstar has grown its subscriber base from 50M in March to over 280M in May, driven by IPL cricket streams, nearing Netflix&#39;s global subscriber count of 300M &lpar;Financial Times&rpar;](http://www.techmeme.com/250526/p9#a250526p9)
+ - [Wobkey Rainy 75 Pro review: An excellent starter mechanical keyboard](https://appleinsider.com/articles/25/05/26/wobkey-rainy-75-pro-review-an-excellent-starter-mechanical-keyboard?utm_medium=rss)
  - [Nintendo&amp;#8217;s bold new era is full of safe bets](https://www.theverge.com/nintendo/671949/nintendo-switch-2-era-risks)
- - [The 14 Best TVs We’ve Reviewed, Plus Buying Advice &lpar;2025&rpar;](https://www.wired.com/gallery/best-tvs/)
- - [Inside Pages for Mac -- how to get the most out of Apple&#39;s best writing tool](https://appleinsider.com/articles/25/05/23/inside-pages-for-mac----how-to-get-the-most-out-of-apples-best-writing-tool?utm_medium=rss)
- - [Palisade Research claims that OpenAI&#39;s o3 altered a shutdown script to avoid being turned off, even when explicitly instructed to allow shutdown &lpar;Mayank Parmar/BleepingComputer&rpar;](http://www.techmeme.com/250526/p8#a250526p8)
- - [Google Beam Brings More Natural Video Conversations Within Reach](https://www.cnet.com/tech/home-entertainment/google-beam-brings-more-natural-video-conversations-within-reach/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 14 Best TVs We’ve Reviewed, Plus Buying Advice &lpar;2025&rpar;](https://www.wired.com/gallery/best-tvs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

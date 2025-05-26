@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The commitment is real](http://9gag.com/gag/aLnXD56)
- - 😝 [Not a bug but a feature](http://9gag.com/gag/a7oNZmr)
- - 💣 [Fight me you coward](http://9gag.com/gag/an7DymV)
- - 😝 [Find someone who looks at you the way he looks at that fish.](http://9gag.com/gag/a6ZpbAe)
- - 👉 [Return to monke](http://9gag.com/gag/azxZXXb)<!-- MEMES:END -->
+ - 😝 [My pirating skills are getting rusty](http://9gag.com/gag/aZZ23n0)
+ - 😝 [Well, that&#39;s one way to solve it... anyone got her number?](http://9gag.com/gag/aQz2xAW)
+ - 💣 [Suffering from success, the sequel.](http://9gag.com/gag/aYQ1KVm)
+ - 😝 [Didn&#39;t see that coming...](http://9gag.com/gag/a9yXA1Z)
+ - 👉 [Maybe standing that close wasn&#39;t the best idea.](http://9gag.com/gag/aryBK7B)<!-- MEMES:END -->
 
 ---
 

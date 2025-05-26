@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Capgemini says it is partnering with SAP to deploy custom Mistral AI tools for industries with stringent data requirements, such as aerospace and defense &lpar;Leo Marchandon/Reuters&rpar;](http://www.techmeme.com/250526/p7#a250526p7)
  - [Hot Farmers, Trad Wives, and an Immigrant Reality Show: Welcome to TV’s MAGA Era](https://www.wired.com/story/hot-farmers-trad-wives-and-an-immigrant-reality-show-welcome-to-tvs-maga-era/)
  - [Why Women With Type 2 Diabetes Are Diagnosed Later Than Men](https://www.wired.com/story/why-women-with-type-2-diabetes-are-diagnosed-later-than-men/)
- - [24 Best Memorial Day Mattress and Bedding Sales &lpar;2025&rpar;](https://www.wired.com/story/best-memorial-day-mattress-sales-2025-3/)
- - [A Starter Guide to Protecting Your Data From Hackers and Corporations](https://www.wired.com/story/guide-protect-data-from-hackers-corporations/)<!-- TECH:END -->
+ - [My Secret to Saving on My Internet Bill Is My Router: Here’s How to Get One for Free](https://www.cnet.com/home/internet/isps-with-free-equipment-rental/#ftag=CAD590a51e)
+ - [24 Best Memorial Day Mattress and Bedding Sales &lpar;2025&rpar;](https://www.wired.com/story/best-memorial-day-mattress-sales-2025-3/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

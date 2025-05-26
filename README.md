@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Jony Ive + OpenAI in the smart home, SwitchBot Hub 3, &amp; ThorBolt X1 on HomeKit Insider](https://appleinsider.com/articles/25/05/26/jony-ive-openai-in-the-smart-home-switchbot-hub-3-thorbolt-x1-on-homekit-insider?utm_medium=rss)
+ - [Dolphin Researchers Win $100,000 AI Prize for Studying Their Whistling](https://www.cnet.com/science/dolphin-researchers-win-100000-ai-prize-for-studying-their-whistling/#ftag=CAD590a51e)
  - [We Hand-Picked the 72 Best Deals From the 2025 REI Anniversary Sale](https://www.wired.com/story/rei-anniversary-sale-may-2025-1/)
  - [How to scan documents using your iPhone](https://www.theverge.com/how-to/673060/how-to-scan-documents-using-your-iphone)
- - [How I shorted $TRUMP coin &lpar;and got to have dinner with the President&rpar;](https://www.theverge.com/cryptocurrency/674327/trump-coin-short-sell-hedge-contest-dinner-winner)
- - [Nick Clegg says asking artists for use permission would ‘kill’ the AI industry](https://www.theverge.com/news/674366/nick-clegg-uk-ai-artists-policy-letter)<!-- TECH:END -->
+ - [How I shorted $TRUMP coin &lpar;and got to have dinner with the President&rpar;](https://www.theverge.com/cryptocurrency/674327/trump-coin-short-sell-hedge-contest-dinner-winner)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

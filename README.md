@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Didn&#39;t see that coming...](http://9gag.com/gag/a9yXA1Z)
- - 😝 [How can you take a shower in 5 seconds?](http://9gag.com/gag/ae92bNW)
- - 💣 [Maybe standing that close wasn&#39;t the best idea.](http://9gag.com/gag/aryBK7B)
- - 😝 [Dude was moving like pennywise lol](http://9gag.com/gag/axyPVGb)
- - 👉 [It&#39;s Balkan, not Balkan&#39;t](http://9gag.com/gag/a9yXW4j)<!-- MEMES:END -->
+ - 😝 [I wish you all pizza and goth girls](http://9gag.com/gag/ae92Mxq)
+ - 😝 [Sad rock music](http://9gag.com/gag/aoy8NE2)
+ - 💣 [Find someone who looks at you the way he looks at that fish.](http://9gag.com/gag/a6ZpbAe)
+ - 😝 [Return to monke](http://9gag.com/gag/azxZXXb)
+ - 👉 [In the other news grass is green](http://9gag.com/gag/a2vboRY)<!-- MEMES:END -->
 
 ---
 

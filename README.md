@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When &#39;too much care&#39; is a crime.](http://9gag.com/gag/aE0XBPN)
- - 😝 [Suffering from success, the sequel.](http://9gag.com/gag/aYQ1KVm)
- - 💣 [That&#39;s clever](http://9gag.com/gag/axyPjX2)
- - 😝 [Snoopy&#39;s bringing iron to the kitchen table](http://9gag.com/gag/an7DjVL)
- - 👉 [In mid April, a 32 year old woman was brutally attacked in Jaworzno, in front of her children. The 27 year old jumped her, began to tear off her clothes by force, and beat her. The reason is, she was wearing clothes with the emblems of the opposite football team Wis\u0142a Krak\u00f3w.](http://9gag.com/gag/abA26dX)<!-- MEMES:END -->
+ - 😝 [The commitment is real](http://9gag.com/gag/aLnXD56)
+ - 😝 [Double the efficiency](http://9gag.com/gag/a5QjZ4G)
+ - 💣 [Not a bug but a feature](http://9gag.com/gag/a7oNZmr)
+ - 😝 [Return to monke](http://9gag.com/gag/azxZXXb)
+ - 👉 [Fight me you coward](http://9gag.com/gag/an7DymV)<!-- MEMES:END -->
 
 ---
 

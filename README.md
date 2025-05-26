@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese food delivery giant Meituan reports Q1 revenue up 18.1% to ~$12.1B, vs. $12B est., net profit up 87.3% YoY to ~$1.4B, as it expands outside China &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/250526/p5#a250526p5)
- - [At its Build conference, Microsoft sought to show its key role in the AI industry, with Sam Altman, Elon Musk, and Jensen Huang making virtual appearances &lpar;Rafe Uddin/Financial Times&rpar;](http://www.techmeme.com/250526/p4#a250526p4)
- - [The Milky Way Has a Mysterious ‘Broken Bone’](https://www.wired.com/story/the-milky-way-has-a-mysterious-broken-bone-nasa/)
- - [Sources: SoftBank&#39;s Masayoshi Son pitched a joint US-Japan sovereign fund to top DC and Tokyo officials to back large tech and infrastructure projects in the US &lpar;Financial Times&rpar;](http://www.techmeme.com/250526/p3#a250526p3)
- - [OpenAI sets up a legal entity in South Korea and plans a Seoul office, its third in Asia, and says the country has the most paying ChatGPT users outside the US &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250526/p2#a250526p2)<!-- TECH:END -->
+ - [Sources: Tim Cook declined to join Trump on his Middle East trip; the choice appeared to irritate Trump, who publicly criticized Cook and Apple during the visit &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/250526/p6#a250526p6)
+ - [39 Best Memorial Day Sales on Our Favorite Gear &lpar;2025&rpar;](https://www.wired.com/story/best-memorial-day-sales-2025-2/)
+ - [The 18 Best Sci-Fi TV Shows on Prime Video](https://www.cnet.com/tech/services-and-software/prime-video-best-sci-fi-tv-shows-2025/#ftag=CAD590a51e)
+ - [Call History Made Easy: iOS 18&#39;s Search Bar Feature Explained](https://www.cnet.com/tech/services-and-software/call-history-made-easy-ios-18s-search-bar-feature-explained/#ftag=CAD590a51e)
+ - [Car HUDs Are Bad. Jaguar Land Rover Is Testing Tech to Change That](https://www.wired.com/story/car-huds-are-bad-jaguar-land-rover-is-testing-tech-to-change-that/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

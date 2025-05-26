@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every single day, my neighbor parks in front of my garage. Today I finally snapped, held the horn for 4 solid minutes. He comes out yelling, calls me insane. Like bro, I&#39;m just trying to leave my own house. How would you react?](http://9gag.com/gag/an7D1A0)
+ - 😝 [I was there...](http://9gag.com/gag/a34Wj41)
+ - 😝 [Do not the bandage.](http://9gag.com/gag/a6ZpQw9)
+ - 💣 [He really forgot she was there.](http://9gag.com/gag/a2vb5mZ)
  - 😝 [In mid April, a 32 year old woman was brutally attacked in Jaworzno, in front of her children. The 27 year old jumped her, began to tear off her clothes by force, and beat her. The reason is, she was wearing clothes with the emblems of the opposite football team Wis\u0142a Krak\u00f3w.](http://9gag.com/gag/abA26dX)
- - 💣 [Do not the bandage.](http://9gag.com/gag/a6ZpQw9)
- - 😝 [In an alternative reality](http://9gag.com/gag/azxZjjm)
  - 👉 [That&#39;s one way to redefine the job description.](http://9gag.com/gag/a9yXYn1)<!-- MEMES:END -->
 
 ---

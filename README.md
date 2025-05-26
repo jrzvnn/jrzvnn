@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Suffering from success, the sequel.](http://9gag.com/gag/aYQ1KVm)
- - 😝 [When &#39;too much care&#39; is a crime.](http://9gag.com/gag/aE0XBPN)
- - 💣 [Svalbard](http://9gag.com/gag/aD2XjVw)
- - 😝 [A simple tutorial for a handyman](http://9gag.com/gag/aYQ1g6m)
- - 👉 [Didn&#39;t see that coming...](http://9gag.com/gag/a9yXA1Z)<!-- MEMES:END -->
+ - 😝 [Every single day, my neighbor parks in front of my garage. Today I finally snapped, held the horn for 4 solid minutes. He comes out yelling, calls me insane. Like bro, I&#39;m just trying to leave my own house. How would you react?](http://9gag.com/gag/an7D1A0)
+ - 💣 [A simple tutorial for a handyman](http://9gag.com/gag/aYQ1g6m)
+ - 😝 [Just a little spark](http://9gag.com/gag/apRAQQ5)
+ - 👉 [When you train on Netflix dataset](http://9gag.com/gag/aQz2eN7)<!-- MEMES:END -->
 
 ---
 

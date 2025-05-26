@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [People are using ChatGPT for unsparing assessments of their looks, with many also asking the chatbot to create plans to &quot;glow up&quot; their appearance &lpar;Tatum Hunter/Washington Post&rpar;](http://www.techmeme.com/250526/p16#a250526p16)
  - [A database tracking instances where lawyers got caught presenting AI hallucinations shows that, of 116 cases dating back to June 2023, 20 occurred this month &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250526/p15#a250526p15)
  - [The EU says Shein&#39;s practices breach rules against false discounts, deceptive product labels, and more, and warn that it could face fines if it doesn&#39;t comply &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/250526/p14#a250526p14)
  - [The best Memorial Day sales happening now](https://www.theverge.com/tech/670092/best-memorial-day-sales-2025)
- - [Meta&#39;s AI team is facing a talent drain, with just three of the 14 authors credited on the landmark 2023 Llama paper still at Meta; several joined Mistral &lpar;Pranav Dixit/Business Insider&rpar;](http://www.techmeme.com/250526/p13#a250526p13)
- - [A look at the UAE&#39;s Mohamed bin Zayed University of AI, which aims to supply talent to Emirati companies, incubate startups, and serve as the UAE&#39;s AI R&amp;D arm &lpar;Bloomberg&rpar;](http://www.techmeme.com/250526/p12#a250526p12)<!-- TECH:END -->
+ - [Meta&#39;s AI team is facing a talent drain, with just three of the 14 authors credited on the landmark 2023 Llama paper still at Meta; several joined Mistral &lpar;Pranav Dixit/Business Insider&rpar;](http://www.techmeme.com/250526/p13#a250526p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

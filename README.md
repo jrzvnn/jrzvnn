@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s one way to redefine the job description.](http://9gag.com/gag/a9yXYn1)
- - 😝 [That&#39;s clever](http://9gag.com/gag/axyPjX2)
- - 💣 [When this screen was the ultimate quality guarantee.](http://9gag.com/gag/aByX1rP)
- - 😝 [Svalbard](http://9gag.com/gag/aD2XjVw)
- - 👉 [Such a sad incident](http://9gag.com/gag/a1mLXd2)<!-- MEMES:END -->
+ - 😝 [This type of shit happens often](http://9gag.com/gag/ae92bbO)
+ - 😝 [Find someone who looks at you the way he looks at that fish.](http://9gag.com/gag/a6ZpbAe)
+ - 💣 [Grandpa is the best](http://9gag.com/gag/aGy2DO5)
+ - 😝 [Always the Deadly lemons](http://9gag.com/gag/awy4nxW)
+ - 👉 [Double the efficiency](http://9gag.com/gag/a5QjZ4G)<!-- MEMES:END -->
 
 ---
 

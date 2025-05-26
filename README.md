@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The Emperor protects](http://9gag.com/gag/a87wo9d)
- - 😝 [From archives &lpar;9&rpar;](http://9gag.com/gag/aD2XWDG)
- - 💣 [When you train on Netflix dataset](http://9gag.com/gag/aQz2eN7)
- - 😝 [The Fench....](http://9gag.com/gag/a2vbZMY)
+ - 😝 [Emergency Medical situation game changer?](http://9gag.com/gag/aO81dEE)
+ - 💣 [When &#39;too much care&#39; is a crime.](http://9gag.com/gag/aE0XBPN)
+ - 😝 [Didn&#39;t see that coming...](http://9gag.com/gag/a9yXA1Z)
  - 👉 [Suffering from success, the sequel.](http://9gag.com/gag/aYQ1KVm)<!-- MEMES:END -->
 
 ---

@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [That&#39;s one way to redefine the job description.](http://9gag.com/gag/a9yXYn1)
- - 😝 [I was there...](http://9gag.com/gag/a34Wj41)
- - 💣 [Who knew hooded figures could be so... enigmatic](http://9gag.com/gag/aMVXGmA)
- - 😝 [In mid April, a 32 year old woman was brutally attacked in Jaworzno, in front of her children. The 27 year old jumped her, began to tear off her clothes by force, and beat her. The reason is, she was wearing clothes with the emblems of the opposite football team Wis\u0142a Krak\u00f3w.](http://9gag.com/gag/abA26dX)
+ - 😝 [That&#39;s clever](http://9gag.com/gag/axyPjX2)
+ - 💣 [When this screen was the ultimate quality guarantee.](http://9gag.com/gag/aByX1rP)
+ - 😝 [Svalbard](http://9gag.com/gag/aD2XjVw)
  - 👉 [Such a sad incident](http://9gag.com/gag/a1mLXd2)<!-- MEMES:END -->
 
 ---

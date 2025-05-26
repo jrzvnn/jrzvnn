@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Nikon’s cameras are about to get more expensive in the US because of tariffs](https://www.theverge.com/news/674481/nikon-camera-imaging-products-price-increase-adjustment-june-tariffs)
+ - [Best Internet Providers in Boulder, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-boulder-co/#ftag=CAD590a51e)
  - [People are using ChatGPT for unsparing assessments of their looks, with many also asking the chatbot to create plans to &quot;glow up&quot; their appearance &lpar;Tatum Hunter/Washington Post&rpar;](http://www.techmeme.com/250526/p16#a250526p16)
  - [A database tracking instances where lawyers got caught presenting AI hallucinations shows that, of 116 cases dating back to June 2023, 20 occurred this month &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250526/p15#a250526p15)
- - [The EU says Shein&#39;s practices breach rules against false discounts, deceptive product labels, and more, and warn that it could face fines if it doesn&#39;t comply &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/250526/p14#a250526p14)
- - [The best Memorial Day sales happening now](https://www.theverge.com/tech/670092/best-memorial-day-sales-2025)<!-- TECH:END -->
+ - [The EU says Shein&#39;s practices breach rules against false discounts, deceptive product labels, and more, and warn that it could face fines if it doesn&#39;t comply &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/250526/p14#a250526p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

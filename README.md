@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My pirating skills are getting rusty](http://9gag.com/gag/aZZ23n0)
- - 😝 [Pizza has arrived.](http://9gag.com/gag/aryBOG6)
- - 💣 [In the other news grass is green](http://9gag.com/gag/a2vboRY)
- - 😝 [Snoopy&#39;s bringing iron to the kitchen table](http://9gag.com/gag/an7DjVL)
- - 👉 [How can you take a shower in 5 seconds?](http://9gag.com/gag/ae92bNW)<!-- MEMES:END -->
+ - 😝 [Didn&#39;t see that coming...](http://9gag.com/gag/a9yXA1Z)
+ - 😝 [How can you take a shower in 5 seconds?](http://9gag.com/gag/ae92bNW)
+ - 💣 [Maybe standing that close wasn&#39;t the best idea.](http://9gag.com/gag/aryBK7B)
+ - 😝 [Dude was moving like pennywise lol](http://9gag.com/gag/axyPVGb)
+ - 👉 [It&#39;s Balkan, not Balkan&#39;t](http://9gag.com/gag/a9yXW4j)<!-- MEMES:END -->
 
 ---
 

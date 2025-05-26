@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo&amp;#8217;s bold new era is full of safe bets](https://www.theverge.com/nintendo/671949/nintendo-switch-2-era-risks)
+ - [The 14 Best TVs We’ve Reviewed, Plus Buying Advice &lpar;2025&rpar;](https://www.wired.com/gallery/best-tvs/)
  - [Inside Pages for Mac -- how to get the most out of Apple&#39;s best writing tool](https://appleinsider.com/articles/25/05/23/inside-pages-for-mac----how-to-get-the-most-out-of-apples-best-writing-tool?utm_medium=rss)
  - [Palisade Research claims that OpenAI&#39;s o3 altered a shutdown script to avoid being turned off, even when explicitly instructed to allow shutdown &lpar;Mayank Parmar/BleepingComputer&rpar;](http://www.techmeme.com/250526/p8#a250526p8)
- - [What Is Matter? We Explain the Smart Home Standard &lpar;2025&rpar;](https://www.wired.com/story/what-is-matter/)
- - [Capgemini says it is partnering with SAP to deploy custom Mistral AI tools for industries with stringent data requirements, such as aerospace and defense &lpar;Leo Marchandon/Reuters&rpar;](http://www.techmeme.com/250526/p7#a250526p7)
- - [Hot Farmers, Trad Wives, and an Immigrant Reality Show: Welcome to TV’s MAGA Era](https://www.wired.com/story/hot-farmers-trad-wives-and-an-immigrant-reality-show-welcome-to-tvs-maga-era/)<!-- TECH:END -->
+ - [Google Beam Brings More Natural Video Conversations Within Reach](https://www.cnet.com/tech/home-entertainment/google-beam-brings-more-natural-video-conversations-within-reach/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

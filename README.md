@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wish you all pizza and goth girls](http://9gag.com/gag/ae92Mxq)
- - 😝 [Sad rock music](http://9gag.com/gag/aoy8NE2)
- - 💣 [Find someone who looks at you the way he looks at that fish.](http://9gag.com/gag/a6ZpbAe)
- - 😝 [Return to monke](http://9gag.com/gag/azxZXXb)
- - 👉 [In the other news grass is green](http://9gag.com/gag/a2vboRY)<!-- MEMES:END -->
+ - 😝 [When you train on Netflix dataset](http://9gag.com/gag/aQz2eN7)
+ - 😝 [Pizza has arrived.](http://9gag.com/gag/aryBOG6)
+ - 💣 [Level of cool unlocked: Celebrity shoe valet.](http://9gag.com/gag/abA26mX)
+ - 😝 [Dude was moving like pennywise lol](http://9gag.com/gag/axyPVGb)
+ - 👉 [Maybe standing that close wasn&#39;t the best idea.](http://9gag.com/gag/aryBK7B)<!-- MEMES:END -->
 
 ---
 

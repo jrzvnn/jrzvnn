@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe standing that close wasn&#39;t the best idea.](http://9gag.com/gag/aryBK7B)
- - 😝 [Modern problems require modern solutions.](http://9gag.com/gag/aGy212n)
- - 💣 [The second round of the presidential elections is approaching in Poland. Meanwhile, one of the candidates during a live debate:](http://9gag.com/gag/aZZ2MMQ)
- - 😝 [In mid April, a 32 year old woman was brutally attacked in Jaworzno, in front of her children. The 27 year old jumped her, began to tear off her clothes by force, and beat her. The reason is, she was wearing clothes with the emblems of the opposite football team Wis\u0142a Krak\u00f3w.](http://9gag.com/gag/abA26dX)
- - 👉 [Suffering from success, the sequel.](http://9gag.com/gag/aYQ1KVm)<!-- MEMES:END -->
+ - 😝 [He really forgot she was there.](http://9gag.com/gag/a2vb5mZ)
+ - 😝 [Enough to make a grown man cry](http://9gag.com/gag/ajPKqd0)
+ - 💣 [Modern problems require modern solutions.](http://9gag.com/gag/aGy212n)
+ - 😝 [Svalbard](http://9gag.com/gag/aD2XjVw)
+ - 👉 [Such a sad incident](http://9gag.com/gag/a1mLXd2)<!-- MEMES:END -->
 
 ---
 

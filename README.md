@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources, including 30+ current and former Meta employees and 10+ US officials, detail Mark Zuckerberg&#39;s embrace of Trump, which has yet to pay major dividends &lpar;Bloomberg&rpar;](http://www.techmeme.com/250526/p17#a250526p17)
+ - [Hughesnet Satellites Are Bringing Faster Internet to Rural America](https://www.cnet.com/home/internet/hughesnet-satellites-are-bringing-faster-internet-to-rural-america/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for May 27, #450](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-may-27-450/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for May 27, #716](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-27-716/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for May 27, #1438](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-27-1438/#ftag=CAD590a51e)
- - [Nikon’s cameras are about to get more expensive in the US because of tariffs](https://www.theverge.com/news/674481/nikon-camera-imaging-products-price-increase-adjustment-june-tariffs)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for May 27, #1438](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-27-1438/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

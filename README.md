@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The commitment is real](http://9gag.com/gag/aLnXD56)
- - 😝 [Double the efficiency](http://9gag.com/gag/a5QjZ4G)
- - 💣 [Not a bug but a feature](http://9gag.com/gag/a7oNZmr)
- - 😝 [Return to monke](http://9gag.com/gag/azxZXXb)
- - 👉 [Fight me you coward](http://9gag.com/gag/an7DymV)<!-- MEMES:END -->
+ - 😝 [Not a bug but a feature](http://9gag.com/gag/a7oNZmr)
+ - 💣 [Fight me you coward](http://9gag.com/gag/an7DymV)
+ - 😝 [Find someone who looks at you the way he looks at that fish.](http://9gag.com/gag/a6ZpbAe)
+ - 👉 [Return to monke](http://9gag.com/gag/azxZXXb)<!-- MEMES:END -->
 
 ---
 

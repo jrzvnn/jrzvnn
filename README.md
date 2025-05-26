@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Highlights from the system prompts of Claude Opus 4 and Claude Sonnet 4, including model safety, avoiding sycophancy, and not regurgitating copyrighted content &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250525/p17#a250525p17)
  - [Tools like Microsoft Copilot are helping execs, managers, and staff quickly catch up on work after a vacation by triaging emails and summarizing Slack threads &lpar;Jo Constantz/Bloomberg&rpar;](http://www.techmeme.com/250525/p16#a250525p16)
  - [Study: users in China&#39;s Henan province were on average denied access to 5x more websites than a typical Chinese internet user between Nov. 2023 and March 2025 &lpar;Amy Hawkins/The Guardian&rpar;](http://www.techmeme.com/250525/p15#a250525p15)
- - [Source: the main topic at WWDC will be a redesigned software interface, dubbed Solarium, for all of Apple&#39;s operating systems, including tvOS and watchOS &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250525/p14#a250525p14)
- - [The oldest Fire TV devices are losing Netflix support soon](https://www.theverge.com/news/674165/amazon-1st-generation-fire-tv-devices-losing-netflix-support)
- - [CoComelon is headed to Disney Plus in 2027](https://www.theverge.com/news/674314/disney-cocomelon-streaming-deal)<!-- TECH:END -->
+ - [Best iPhone in 2025: Here&#39;s Which Apple Phone You Should Buy](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)
+ - [Source: the main topic at WWDC will be a redesigned software interface, dubbed Solarium, for all of Apple&#39;s operating systems, including tvOS and watchOS &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250525/p14#a250525p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How can you take a shower in 5 seconds?](http://9gag.com/gag/ae92bNW)
- - 😝 [Crossing the street like...](http://9gag.com/gag/a6ZpVoq)
- - 💣 [Fair enough..](http://9gag.com/gag/aD2Xorx)
- - 😝 [It&#39;s Balkan, not Balkan&#39;t](http://9gag.com/gag/a9yXW4j)
- - 👉 [A pretty bad circle](http://9gag.com/gag/aNDRz6K)<!-- MEMES:END -->
+ - 😝 [Level of cool unlocked: Celebrity shoe valet.](http://9gag.com/gag/abA26mX)
+ - 😝 [Give this man a raise.](http://9gag.com/gag/aoy82Lg)
+ - 💣 [Pizza has arrived.](http://9gag.com/gag/aryBOG6)
+ - 😝 [Didn&#39;t see that coming...](http://9gag.com/gag/a9yXA1Z)
+ - 👉 [That&#39;s clever](http://9gag.com/gag/axyPjX2)<!-- MEMES:END -->
 
 ---
 

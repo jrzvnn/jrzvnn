@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Suffering from success, the sequel.](http://9gag.com/gag/aYQ1KVm)
- - 😝 [I was there...](http://9gag.com/gag/a34Wj41)
- - 💣 [How can you take a shower in 5 seconds?](http://9gag.com/gag/ae92bNW)
  - 😝 [Dude was moving like pennywise lol](http://9gag.com/gag/axyPVGb)
- - 👉 [When you train on Netflix dataset](http://9gag.com/gag/aQz2eN7)<!-- MEMES:END -->
+ - 😝 [When you train on Netflix dataset](http://9gag.com/gag/aQz2eN7)
+ - 💣 [When &#39;too much care&#39; is a crime.](http://9gag.com/gag/aE0XBPN)
+ - 😝 [Snoopy&#39;s bringing iron to the kitchen table](http://9gag.com/gag/an7DjVL)
+ - 👉 [It&#39;s Balkan, not Balkan&#39;t](http://9gag.com/gag/a9yXW4j)<!-- MEMES:END -->
 
 ---
 

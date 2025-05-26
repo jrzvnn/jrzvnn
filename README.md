@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe standing that close wasn&#39;t the best idea.](http://9gag.com/gag/aryBK7B)
- - 😝 [Level of cool unlocked: Celebrity shoe valet.](http://9gag.com/gag/abA26mX)
- - 💣 [That&#39;s clever](http://9gag.com/gag/axyPjX2)
- - 😝 [When you train on Netflix dataset](http://9gag.com/gag/aQz2eN7)
- - 👉 [Modern problems require modern solutions.](http://9gag.com/gag/aGy212n)<!-- MEMES:END -->
+ - 😝 [I was there...](http://9gag.com/gag/a34Wj41)
+ - 😝 [Pizza has arrived.](http://9gag.com/gag/aryBOG6)
+ - 💣 [Maybe standing that close wasn&#39;t the best idea.](http://9gag.com/gag/aryBK7B)
+ - 😝 [It&#39;s Balkan, not Balkan&#39;t](http://9gag.com/gag/a9yXW4j)
+ - 👉 [That&#39;s clever](http://9gag.com/gag/axyPjX2)<!-- MEMES:END -->
 
 ---
 

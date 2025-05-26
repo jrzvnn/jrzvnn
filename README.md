@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 26, #245](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-26-245/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for May 26, #715](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-26-715/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, May 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-may-26/#ftag=CAD590a51e)
  - [Highlights from the system prompts of Claude Opus 4 and Claude Sonnet 4, including model safety, avoiding sycophancy, and not regurgitating copyrighted content &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250525/p17#a250525p17)
- - [Tools like Microsoft Copilot are helping execs, managers, and staff quickly catch up on work after a vacation by triaging emails and summarizing Slack threads &lpar;Jo Constantz/Bloomberg&rpar;](http://www.techmeme.com/250525/p16#a250525p16)
- - [Study: users in China&#39;s Henan province were on average denied access to 5x more websites than a typical Chinese internet user between Nov. 2023 and March 2025 &lpar;Amy Hawkins/The Guardian&rpar;](http://www.techmeme.com/250525/p15#a250525p15)
- - [Best iPhone in 2025: Here&#39;s Which Apple Phone You Should Buy](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)
- - [Source: the main topic at WWDC will be a redesigned software interface, dubbed Solarium, for all of Apple&#39;s operating systems, including tvOS and watchOS &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250525/p14#a250525p14)<!-- TECH:END -->
+ - [Tools like Microsoft Copilot are helping execs, managers, and staff quickly catch up on work after a vacation by triaging emails and summarizing Slack threads &lpar;Jo Constantz/Bloomberg&rpar;](http://www.techmeme.com/250525/p16#a250525p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Find someone who looks at you the way he looks at that fish.](http://9gag.com/gag/a6ZpbAe)
- - 😝 [Dave Chappelle always has a way with words.](http://9gag.com/gag/ayNQXW8)
- - 💣 [Return to monke](http://9gag.com/gag/azxZXXb)
- - 😝 [In the other news grass is green](http://9gag.com/gag/a2vboRY)
- - 👉 [Mom&#39;s weekend rules are... quite specific.](http://9gag.com/gag/aQz2e87)<!-- MEMES:END -->
+ - 😝 [Suffering from success, the sequel.](http://9gag.com/gag/aYQ1KVm)
+ - 😝 [I was there...](http://9gag.com/gag/a34Wj41)
+ - 💣 [How can you take a shower in 5 seconds?](http://9gag.com/gag/ae92bNW)
+ - 😝 [Dude was moving like pennywise lol](http://9gag.com/gag/axyPVGb)
+ - 👉 [When you train on Netflix dataset](http://9gag.com/gag/aQz2eN7)<!-- MEMES:END -->
 
 ---
 

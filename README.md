@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude was moving like pennywise lol](http://9gag.com/gag/axyPVGb)
- - 😝 [When you train on Netflix dataset](http://9gag.com/gag/aQz2eN7)
- - 💣 [When &#39;too much care&#39; is a crime.](http://9gag.com/gag/aE0XBPN)
- - 😝 [Snoopy&#39;s bringing iron to the kitchen table](http://9gag.com/gag/an7DjVL)
- - 👉 [It&#39;s Balkan, not Balkan&#39;t](http://9gag.com/gag/a9yXW4j)<!-- MEMES:END -->
+ - 😝 [In the other news grass is green](http://9gag.com/gag/a2vboRY)
+ - 😝 [Return to monke](http://9gag.com/gag/azxZXXb)
+ - 💣 [Mom&#39;s weekend rules are... quite specific.](http://9gag.com/gag/aQz2e87)
+ - 😝 [AGI is here.](http://9gag.com/gag/abA2My8)
+ - 👉 [When people cant tell the difference between AI and 3D anymore](http://9gag.com/gag/azxZX8b)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ghost rider - jackass version](http://9gag.com/gag/aLnX8Pv)
- - 😝 [Every single day, my neighbor parks in front of my garage. Today I finally snapped, held the horn for 4 solid minutes. He comes out yelling, calls me insane. Like bro, I&#39;m just trying to leave my own house. How would you react?](http://9gag.com/gag/an7D1A0)
- - 💣 [Just what I needed.](http://9gag.com/gag/aqyz5oQ)
- - 😝 [Big BOOM!](http://9gag.com/gag/aO81z0D)
- - 👉 [The convention that positive charges move was invented before the discovery of the electron.](http://9gag.com/gag/aW428g4)<!-- MEMES:END -->
+ - 😝 [I&#39;m this old](http://9gag.com/gag/aE0XY6G)
+ - 😝 [This type of shit happens often](http://9gag.com/gag/ae92bbO)
+ - 💣 [Grandpa is the best](http://9gag.com/gag/aGy2DO5)
+ - 😝 [Always the Deadly lemons](http://9gag.com/gag/awy4nxW)
+ - 👉 [Not a bug but a feature](http://9gag.com/gag/a7oNZmr)<!-- MEMES:END -->
 
 ---
 

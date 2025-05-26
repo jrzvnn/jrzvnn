@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I was there...](http://9gag.com/gag/a34Wj41)
- - 😝 [Pizza has arrived.](http://9gag.com/gag/aryBOG6)
- - 💣 [Maybe standing that close wasn&#39;t the best idea.](http://9gag.com/gag/aryBK7B)
+ - 😝 [How can you take a shower in 5 seconds?](http://9gag.com/gag/ae92bNW)
+ - 😝 [Crossing the street like...](http://9gag.com/gag/a6ZpVoq)
+ - 💣 [Fair enough..](http://9gag.com/gag/aD2Xorx)
  - 😝 [It&#39;s Balkan, not Balkan&#39;t](http://9gag.com/gag/a9yXW4j)
- - 👉 [That&#39;s clever](http://9gag.com/gag/axyPjX2)<!-- MEMES:END -->
+ - 👉 [A pretty bad circle](http://9gag.com/gag/aNDRz6K)<!-- MEMES:END -->
 
 ---
 

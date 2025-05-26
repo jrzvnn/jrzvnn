@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This type of shit happens often](http://9gag.com/gag/ae92bbO)
- - 😝 [Find someone who looks at you the way he looks at that fish.](http://9gag.com/gag/a6ZpbAe)
- - 💣 [Grandpa is the best](http://9gag.com/gag/aGy2DO5)
- - 😝 [Always the Deadly lemons](http://9gag.com/gag/awy4nxW)
- - 👉 [Double the efficiency](http://9gag.com/gag/a5QjZ4G)<!-- MEMES:END -->
+ - 😝 [The second round of the presidential elections is approaching in Poland. Meanwhile, one of the candidates during a live debate:](http://9gag.com/gag/aZZ2MMQ)
+ - 😝 [Svalbard](http://9gag.com/gag/aD2XjVw)
+ - 💣 [That&#39;s one way to redefine the job description.](http://9gag.com/gag/a9yXYn1)
+ - 😝 [He really forgot she was there.](http://9gag.com/gag/a2vb5mZ)
+ - 👉 [Crossing the street like...](http://9gag.com/gag/a6ZpVoq)<!-- MEMES:END -->
 
 ---
 

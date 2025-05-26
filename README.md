@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook marks Memorial Day with rememberance, and a message of gratitude](https://appleinsider.com/articles/25/05/26/tim-cook-marks-memorial-day-with-rememberance-and-a-message-of-gratitude?utm_medium=rss)
+ - [Pick up Apple&#39;s M4 Mac mini with 512GB SSD for just $699](https://appleinsider.com/articles/25/05/26/pick-up-apples-m4-mac-mini-with-512gb-ssd-for-just-699?utm_medium=rss)
+ - [Tim Cook marks Memorial Day with remembrance, and a message of gratitude](https://appleinsider.com/articles/25/05/26/tim-cook-marks-memorial-day-with-rememberance-and-a-message-of-gratitude?utm_medium=rss)
  - [CB Insights: VC investment in voice AI startups rose from $315M in 2022 to $2.1B in 2024, driven by growing business adoption of voice AI agents in call centers &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250526/p10#a250526p10)
  - [Trump may have added 25% iPhone tariff specifically to punish Tim Cook](https://appleinsider.com/articles/25/05/26/trump-may-have-added-25-iphone-tariff-specifically-to-punish-tim-cook?utm_medium=rss)
- - [The Last of Us opens up a whole new perspective for its next season](https://www.theverge.com/hbo/673868/the-last-of-us-season-2-finale-hbo)
- - [Jony Ive + OpenAI in the smart home, SwitchBot Hub 3, &amp; ThorBolt X1 on HomeKit Insider](https://appleinsider.com/articles/25/05/26/jony-ive-openai-in-the-smart-home-switchbot-hub-3-thorbolt-x1-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
+ - [The Last of Us opens up a whole new perspective for its next season](https://www.theverge.com/hbo/673868/the-last-of-us-season-2-finale-hbo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

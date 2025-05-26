@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [We Hand-Picked the 72 Best Deals From the 2025 REI Anniversary Sale](https://www.wired.com/story/rei-anniversary-sale-may-2025-1/)
+ - [How to scan documents using your iPhone](https://www.theverge.com/how-to/673060/how-to-scan-documents-using-your-iphone)
+ - [How I shorted $TRUMP coin &lpar;and got to have dinner with the President&rpar;](https://www.theverge.com/cryptocurrency/674327/trump-coin-short-sell-hedge-contest-dinner-winner)
  - [Nick Clegg says asking artists for use permission would ‘kill’ the AI industry](https://www.theverge.com/news/674366/nick-clegg-uk-ai-artists-policy-letter)
- - [Jony Ive + OpenAI in the smart home, SwitchBot Hub 3, &amp; ThorBolt X1 on HomeKit Insider](https://appleinsider.com/articles/25/05/26/jony-ive-openai-in-the-smart-home-switchbot-hub-3-thorbolt-x1-on-homekit-insider?utm_medium=rss)
- - [JioHotstar has grown its subscriber base from 50M in March to over 280M in May, driven by IPL cricket streams, nearing Netflix&#39;s global subscriber count of 300M &lpar;Financial Times&rpar;](http://www.techmeme.com/250526/p9#a250526p9)
- - [Wobkey Rainy 75 Pro review: An excellent starter mechanical keyboard](https://appleinsider.com/articles/25/05/26/wobkey-rainy-75-pro-review-an-excellent-starter-mechanical-keyboard?utm_medium=rss)
- - [Nintendo&amp;#8217;s bold new era is full of safe bets](https://www.theverge.com/nintendo/671949/nintendo-switch-2-era-risks)<!-- TECH:END -->
+ - [Jony Ive + OpenAI in the smart home, SwitchBot Hub 3, &amp; ThorBolt X1 on HomeKit Insider](https://appleinsider.com/articles/25/05/26/jony-ive-openai-in-the-smart-home-switchbot-hub-3-thorbolt-x1-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

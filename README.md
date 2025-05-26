@@ -157,10 +157,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Tim Cook declined to join Trump on his Middle East trip; the choice appeared to irritate Trump, who publicly criticized Cook and Apple during the visit &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/250526/p6#a250526p6)
+ - [24 Best Memorial Day Mattress and Bedding Sales &lpar;2025&rpar;](https://www.wired.com/story/best-memorial-day-mattress-sales-2025-3/)
+ - [A Starter Guide to Protecting Your Data From Hackers and Corporations](https://www.wired.com/story/guide-protect-data-from-hackers-corporations/)
+ - [Sources: Tim Cook declined a WH invitation to join Jensen Huang and others on Trump&#39;s Middle East trip, during which Trump criticized Cook and praised Huang &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/250526/p6#a250526p6)
  - [39 Best Memorial Day Sales on Our Favorite Gear &lpar;2025&rpar;](https://www.wired.com/story/best-memorial-day-sales-2025-2/)
- - [The 18 Best Sci-Fi TV Shows on Prime Video](https://www.cnet.com/tech/services-and-software/prime-video-best-sci-fi-tv-shows-2025/#ftag=CAD590a51e)
- - [Call History Made Easy: iOS 18&#39;s Search Bar Feature Explained](https://www.cnet.com/tech/services-and-software/call-history-made-easy-ios-18s-search-bar-feature-explained/#ftag=CAD590a51e)
  - [Car HUDs Are Bad. Jaguar Land Rover Is Testing Tech to Change That](https://www.wired.com/story/car-huds-are-bad-jaguar-land-rover-is-testing-tech-to-change-that/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

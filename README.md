@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Emperor protects](http://9gag.com/gag/a87wo9d)
- - 😝 [Emergency Medical situation game changer?](http://9gag.com/gag/aO81dEE)
+ - 😝 [Suffering from success, the sequel.](http://9gag.com/gag/aYQ1KVm)
+ - 😝 [My pirating skills are getting rusty](http://9gag.com/gag/aZZ23n0)
  - 💣 [When &#39;too much care&#39; is a crime.](http://9gag.com/gag/aE0XBPN)
- - 😝 [Didn&#39;t see that coming...](http://9gag.com/gag/a9yXA1Z)
- - 👉 [Suffering from success, the sequel.](http://9gag.com/gag/aYQ1KVm)<!-- MEMES:END -->
+ - 😝 [Can someone explain how thon work ?](http://9gag.com/gag/ajPKX08)
+ - 👉 [It&#39;s Balkan, not Balkan&#39;t](http://9gag.com/gag/a9yXW4j)<!-- MEMES:END -->
 
 ---
 

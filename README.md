@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Australia&#39;s WiseTech agrees to buy US cloud logistics firm E2open for $2.1B including debt, offering $3.30 per share, a 24.5% premium on E2open&#39;s May 23 close &lpar;Rishav Chatterjee/Reuters&rpar;](http://www.techmeme.com/250526/p1#a250526p1)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 26, #245](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-26-245/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for May 26, #715](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-may-26-715/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword Answers for Monday, May 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-may-26/#ftag=CAD590a51e)
- - [Highlights from the system prompts of Claude Opus 4 and Claude Sonnet 4, including model safety, avoiding sycophancy, and not regurgitating copyrighted content &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250525/p17#a250525p17)
- - [Tools like Microsoft Copilot are helping execs, managers, and staff quickly catch up on work after a vacation by triaging emails and summarizing Slack threads &lpar;Jo Constantz/Bloomberg&rpar;](http://www.techmeme.com/250525/p16#a250525p16)<!-- TECH:END -->
+ - [Highlights from the system prompts of Claude Opus 4 and Claude Sonnet 4, including model safety, avoiding sycophancy, and not regurgitating copyrighted content &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250525/p17#a250525p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

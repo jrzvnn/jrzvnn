@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Suffering from success, the sequel.](http://9gag.com/gag/aYQ1KVm)
- - 😝 [My pirating skills are getting rusty](http://9gag.com/gag/aZZ23n0)
- - 💣 [When &#39;too much care&#39; is a crime.](http://9gag.com/gag/aE0XBPN)
  - 😝 [Can someone explain how thon work ?](http://9gag.com/gag/ajPKX08)
- - 👉 [It&#39;s Balkan, not Balkan&#39;t](http://9gag.com/gag/a9yXW4j)<!-- MEMES:END -->
+ - 💣 [When &#39;too much care&#39; is a crime.](http://9gag.com/gag/aE0XBPN)
+ - 😝 [Never discussed, never addressed](http://9gag.com/gag/aW42m43)
+ - 👉 [Snoopy&#39;s bringing iron to the kitchen table](http://9gag.com/gag/an7DjVL)<!-- MEMES:END -->
 
 ---
 

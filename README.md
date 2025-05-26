@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just another day at the office.](http://9gag.com/gag/aMVXAQX)
- - 😝 [Fair enough..](http://9gag.com/gag/aD2Xorx)
- - 💣 [AGI is here.](http://9gag.com/gag/abA2My8)
- - 😝 [Such a sad incident](http://9gag.com/gag/a1mLXd2)
- - 👉 [I was there...](http://9gag.com/gag/a34Wj41)<!-- MEMES:END -->
+ - 😝 [Maybe standing that close wasn&#39;t the best idea.](http://9gag.com/gag/aryBK7B)
+ - 😝 [Level of cool unlocked: Celebrity shoe valet.](http://9gag.com/gag/abA26mX)
+ - 💣 [That&#39;s clever](http://9gag.com/gag/axyPjX2)
+ - 😝 [When you train on Netflix dataset](http://9gag.com/gag/aQz2eN7)
+ - 👉 [Modern problems require modern solutions.](http://9gag.com/gag/aGy212n)<!-- MEMES:END -->
 
 ---
 

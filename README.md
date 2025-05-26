@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Suffering from success, the sequel.](http://9gag.com/gag/aYQ1KVm)
- - 😝 [Snoopy&#39;s bringing iron to the kitchen table](http://9gag.com/gag/an7DjVL)
- - 💣 [My pirating skills are getting rusty](http://9gag.com/gag/aZZ23n0)
  - 😝 [When &#39;too much care&#39; is a crime.](http://9gag.com/gag/aE0XBPN)
- - 👉 [I was there...](http://9gag.com/gag/a34Wj41)<!-- MEMES:END -->
+ - 😝 [Suffering from success, the sequel.](http://9gag.com/gag/aYQ1KVm)
+ - 💣 [From archives &lpar;9&rpar;](http://9gag.com/gag/aD2XWDG)
+ - 😝 [Every single day, my neighbor parks in front of my garage. Today I finally snapped, held the horn for 4 solid minutes. He comes out yelling, calls me insane. Like bro, I&#39;m just trying to leave my own house. How would you react?](http://9gag.com/gag/an7D1A0)
+ - 👉 [A simple tutorial for a handyman](http://9gag.com/gag/aYQ1g6m)<!-- MEMES:END -->
 
 ---
 

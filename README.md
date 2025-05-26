@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Suffering from success, the sequel.](http://9gag.com/gag/aYQ1KVm)
- - 😝 [Every single day, my neighbor parks in front of my garage. Today I finally snapped, held the horn for 4 solid minutes. He comes out yelling, calls me insane. Like bro, I&#39;m just trying to leave my own house. How would you react?](http://9gag.com/gag/an7D1A0)
- - 💣 [A simple tutorial for a handyman](http://9gag.com/gag/aYQ1g6m)
- - 😝 [Just a little spark](http://9gag.com/gag/apRAQQ5)
- - 👉 [When you train on Netflix dataset](http://9gag.com/gag/aQz2eN7)<!-- MEMES:END -->
+ - 😝 [Mom&#39;s weekend rules are... quite specific.](http://9gag.com/gag/aQz2e87)
+ - 😝 [I\u2019m Big drunk strong fat man , i will intimidate the police](http://9gag.com/gag/a5QjoYN)
+ - 💣 [AGI is here.](http://9gag.com/gag/abA2My8)
+ - 😝 [I wish you all pizza and goth girls](http://9gag.com/gag/ae92Mxq)
+ - 👉 [When people cant tell the difference between AI and 3D anymore](http://9gag.com/gag/azxZX8b)<!-- MEMES:END -->
 
 ---
 

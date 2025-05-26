@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dave Chappelle always has a way with words.](http://9gag.com/gag/ayNQXW8)
  - 😝 [Find someone who looks at you the way he looks at that fish.](http://9gag.com/gag/a6ZpbAe)
+ - 😝 [Dave Chappelle always has a way with words.](http://9gag.com/gag/ayNQXW8)
  - 💣 [Return to monke](http://9gag.com/gag/azxZXXb)
  - 😝 [In the other news grass is green](http://9gag.com/gag/a2vboRY)
- - 👉 [I wish you all pizza and goth girls](http://9gag.com/gag/ae92Mxq)<!-- MEMES:END -->
+ - 👉 [Mom&#39;s weekend rules are... quite specific.](http://9gag.com/gag/aQz2e87)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My car makes the weirdest noises](http://9gag.com/gag/aQz2R7q)
- - 😝 [A simple tutorial for a handyman](http://9gag.com/gag/aYQ1g6m)
- - 💣 [Can&#39;t even smoke on your private jet? What&#39;s the point?](http://9gag.com/gag/aAyX3DE)
- - 😝 [The Fench....](http://9gag.com/gag/a2vbZMY)
- - 👉 [Snoopy&#39;s bringing iron to the kitchen table](http://9gag.com/gag/an7DjVL)<!-- MEMES:END -->
+ - 😝 [When you train on Netflix dataset](http://9gag.com/gag/aQz2eN7)
+ - 😝 [Ken knew what he was doing](http://9gag.com/gag/awy4AOW)
+ - 💣 [Well, technically...](http://9gag.com/gag/aoy8e13)
+ - 😝 [Do you want something else with the beer?](http://9gag.com/gag/a5QjMwq)
+ - 👉 [A simple tutorial for a handyman](http://9gag.com/gag/aYQ1g6m)<!-- MEMES:END -->
 
 ---
 

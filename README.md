@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Probably because we&#39;re used to seeing him that way](http://9gag.com/gag/aYQ1x20)
+ - 😝 [When you train on Netflix dataset](http://9gag.com/gag/aQz2eN7)
+ - 💣 [When your ex&#39;s little sister is the real one.](http://9gag.com/gag/aO81rv3)
  - 😝 [Built too well for capitalism.](http://9gag.com/gag/a5QjMoo)
- - 😝 [Japan understood the assignment.](http://9gag.com/gag/a6ZpOyb)
- - 💣 [The Emperor protects](http://9gag.com/gag/a87wo9d)
- - 😝 [Never discussed, never addressed](http://9gag.com/gag/aW42m43)
- - 👉 [Just a reminder that this video was found on Osama bin Laden&#39;s hard drive. Yes, actually.](http://9gag.com/gag/aD2XW4K)<!-- MEMES:END -->
+ - 👉 [Never seen a mouse beg for mercy](http://9gag.com/gag/aQz2eeq)<!-- MEMES:END -->
 
 ---
 

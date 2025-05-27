@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My pirating skills are getting rusty](http://9gag.com/gag/aZZ23n0)
- - 😝 [Probably because we&#39;re used to seeing him that way](http://9gag.com/gag/aYQ1x20)
- - 💣 [Alright, who taught the quiet kid how to breakdance?](http://9gag.com/gag/a9yXAO0)
- - 😝 [A simple tutorial for a handyman](http://9gag.com/gag/aYQ1g6m)
- - 👉 [Just another quiet day at McDonald&#39;s.](http://9gag.com/gag/aByX81O)<!-- MEMES:END -->
+ - 😝 [Thank you, my GTX 1050. Thank you for still functioning and working well to this day.](http://9gag.com/gag/azxZ1Kb)
+ - 😝 [Little moments](http://9gag.com/gag/avyvOWO)
+ - 💣 [I would like Yu-Gi-Oh! cards.](http://9gag.com/gag/aZZ27en)
+ - 😝 [Keannu x ana](http://9gag.com/gag/a4PqRgy)
+ - 👉 [A simple tutorial for a handyman](http://9gag.com/gag/aYQ1g6m)<!-- MEMES:END -->
 
 ---
 

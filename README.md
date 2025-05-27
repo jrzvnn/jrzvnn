@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Civitai is banning &quot;real-person likeness content&quot; on its site, citing new laws and the loss of its payment processor, after problems with nonconsensual porn &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250527/p17#a250527p17)
  - [Trump’s media company says it’s buying $2.5 billion in Bitcoin](https://www.theverge.com/news/674684/trump-media-bitcoin-treasury-deal)
  - [Realme&amp;#8217;s new flagships squeeze in enormous 7,000mAh batteries](https://www.theverge.com/news/674621/realme-gt-7-7t-smartphones-battery-life)
  - [Sources on how Apple declined a deal from Elon Musk to use SpaceX instead of Globalstar for its iOS SOS feature and its 2015 plans to build satellite internet &lpar;The Information&rpar;](http://www.techmeme.com/250527/p16#a250527p16)
- - [FTC v. Meta: The antitrust battle over WhatsApp and Instagram](https://www.theverge.com/news/646809/ftc-v-meta-antitrust-monopoly-trial-instagram-whatsapp)
- - [How Apple&#39;s years-old satellite plan crashed before Starlink launched](https://appleinsider.com/articles/25/05/27/how-apples-years-old-satellite-plan-crashed-before-starlink-launched?utm_medium=rss)<!-- TECH:END -->
+ - [FTC v. Meta: The antitrust battle over WhatsApp and Instagram](https://www.theverge.com/news/646809/ftc-v-meta-antitrust-monopoly-trial-instagram-whatsapp)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

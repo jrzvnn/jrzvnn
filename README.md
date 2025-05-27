@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can&#39;t even smoke on your private jet? What&#39;s the point?](http://9gag.com/gag/aAyX3DE)
+ - 😝 [The view is quite impressive](http://9gag.com/gag/a5QjoMN)
+ - 😝 [When you train on Netflix dataset](http://9gag.com/gag/aQz2eN7)
+ - 💣 [Probably because we&#39;re used to seeing him that way](http://9gag.com/gag/aYQ1x20)
  - 😝 [Never discussed, never addressed](http://9gag.com/gag/aW42m43)
- - 💣 [When your tap water has tiny monsters with chainsaws](http://9gag.com/gag/a34WQ7e)
- - 😝 [Probably because we&#39;re used to seeing him that way](http://9gag.com/gag/aYQ1x20)
- - 👉 [When you train on Netflix dataset](http://9gag.com/gag/aQz2eN7)<!-- MEMES:END -->
+ - 👉 [Can someone explain how thon work ?](http://9gag.com/gag/ajPKX08)<!-- MEMES:END -->
 
 ---
 

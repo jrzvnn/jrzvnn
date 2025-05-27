@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Remakes of the first two Dragon Quest games launch in October](https://www.theverge.com/news/674848/dragon-quest-1-2-remake-release-date)
  - [The best Memorial Day deals you can still grab](https://www.theverge.com/tech/670092/best-memorial-day-sales-2025)
  - [Nintendo partners with third-party websites to stop Switch 2 scalpers](https://www.theverge.com/news/674823/nintendo-switch-2-scalpers-third-party-retailers-japan-only)
  - [Mistral launches an API for agents, which can run code, make images, access docs, search the web, and &quot;hand off&quot; to other agents, similar to OpenAI&#39;s offerings &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250527/p23#a250527p23)
- - [Memo: Meta reorganizes its AI teams into an AI products team and AGI Foundations; FAIR remains separate but one specific FAIR team is moving to AGI Foundations &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250527/p22#a250527p22)
- - [India now leads iPhone exports to the U.S. as trade war reshapes supply chains](https://appleinsider.com/articles/25/05/27/india-now-leads-iphone-exports-to-the-us-as-trade-war-reshapes-supply-chains?utm_medium=rss)<!-- TECH:END -->
+ - [Memo: Meta reorganizes its AI teams into an AI products team and AGI Foundations; FAIR remains separate but one specific FAIR team is moving to AGI Foundations &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250527/p22#a250527p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

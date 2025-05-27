@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Alright, who taught the quiet kid how to breakdance?](http://9gag.com/gag/a9yXAO0)
- - 😝 [My car makes the weirdest noises](http://9gag.com/gag/aQz2R7q)
- - 💣 [My pirating skills are getting rusty](http://9gag.com/gag/aZZ23n0)
- - 😝 [Probably because we&#39;re used to seeing him that way](http://9gag.com/gag/aYQ1x20)
- - 👉 [Never discussed, never addressed](http://9gag.com/gag/aW42m43)<!-- MEMES:END -->
+ - 😝 [Never discussed, never addressed](http://9gag.com/gag/aW42m43)
+ - 💣 [Family friendly jokes](http://9gag.com/gag/aQz212K)
+ - 😝 [The view is quite impressive](http://9gag.com/gag/a5QjoMN)
+ - 👉 [My pirating skills are getting rusty](http://9gag.com/gag/aZZ23n0)<!-- MEMES:END -->
 
 ---
 

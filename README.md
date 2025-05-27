@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta launches a dedicated iPad app for WhatsApp &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250527/p18#a250527p18)
+ - [The PS5 will be cheaper than the Switch 2 for a limited time](https://www.theverge.com/news/674677/ps5-sale-summer-2025-us-sony-play-days-summer-game-fest)
+ - [iPhone 18 rumored to get under display Face ID, perfected in iPhone 19](https://appleinsider.com/articles/25/05/27/iphone-18-rumored-to-get-under-display-face-id-perfected-in-iphone-19?utm_medium=rss)
  - [Civitai is banning &quot;real-person likeness content&quot; on its site, citing new laws and the loss of its payment processor, after problems with nonconsensual porn &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250527/p17#a250527p17)
- - [Trump’s media company says it’s buying $2.5 billion in Bitcoin](https://www.theverge.com/news/674684/trump-media-bitcoin-treasury-deal)
- - [Realme&amp;#8217;s new flagships squeeze in enormous 7,000mAh batteries](https://www.theverge.com/news/674621/realme-gt-7-7t-smartphones-battery-life)
- - [Sources on how Apple declined a deal from Elon Musk to use SpaceX instead of Globalstar for its iOS SOS feature and its 2015 plans to build satellite internet &lpar;The Information&rpar;](http://www.techmeme.com/250527/p16#a250527p16)
- - [FTC v. Meta: The antitrust battle over WhatsApp and Instagram](https://www.theverge.com/news/646809/ftc-v-meta-antitrust-monopoly-trial-instagram-whatsapp)<!-- TECH:END -->
+ - [Trump’s media company says it’s buying $2.5 billion in Bitcoin](https://www.theverge.com/news/674684/trump-media-bitcoin-treasury-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

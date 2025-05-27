@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That chicken is NOT amused.](http://9gag.com/gag/a4Pq3L6)
  - 😝 [A simple tutorial for a handyman](http://9gag.com/gag/aYQ1g6m)
- - 💣 [Good news boys. After hundreds of thousands of years of evolution, we have progress.](http://9gag.com/gag/aryBgEX)
- - 😝 [Keannu x ana](http://9gag.com/gag/a4PqRgy)
- - 👉 [The Sims](http://9gag.com/gag/aPAXRnw)<!-- MEMES:END -->
+ - 😝 [Japan understood the assignment.](http://9gag.com/gag/a6ZpOyb)
+ - 💣 [Can&#39;t even smoke on your private jet? What&#39;s the point?](http://9gag.com/gag/aAyX3DE)
+ - 😝 [Derby &lpar;England&rpar; new mayor](http://9gag.com/gag/avyvz7b)
+ - 👉 [Just another quiet day at McDonald&#39;s.](http://9gag.com/gag/aByX81O)<!-- MEMES:END -->
 
 ---
 

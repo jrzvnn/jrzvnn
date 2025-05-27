@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [My pirating skills are getting rusty](http://9gag.com/gag/aZZ23n0)
+ - 😝 [Probably because we&#39;re used to seeing him that way](http://9gag.com/gag/aYQ1x20)
+ - 💣 [Alright, who taught the quiet kid how to breakdance?](http://9gag.com/gag/a9yXAO0)
  - 😝 [A simple tutorial for a handyman](http://9gag.com/gag/aYQ1g6m)
- - 😝 [When you train on Netflix dataset](http://9gag.com/gag/aQz2eN7)
- - 💣 [Family friendly jokes](http://9gag.com/gag/aQz212K)
- - 😝 [The Fench....](http://9gag.com/gag/a2vbZMY)
- - 👉 [Alright, who taught the quiet kid how to breakdance?](http://9gag.com/gag/a9yXAO0)<!-- MEMES:END -->
+ - 👉 [Just another quiet day at McDonald&#39;s.](http://9gag.com/gag/aByX81O)<!-- MEMES:END -->
 
 ---
 

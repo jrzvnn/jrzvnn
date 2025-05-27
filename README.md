@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Apple acquires RAC7, the two-person studio behind the popular Apple Arcade game Sneaky Sasquatch, marking its first acquisition of a video game studio &lpar;Giovanni Colantonio/Digital Trends&rpar;](http://www.techmeme.com/250527/p34#a250527p34)
  - [Texas passes App Store age verification law, despite Tim Cook&#39;s concerns](https://appleinsider.com/articles/25/05/27/texas-passes-app-store-age-verification-law-despite-tim-cooks-concerns?utm_medium=rss)
  - [TSMC plans to open a design center in Munich in Q3 2025 to support European customers in designing chips for automotive, industrial, AI, and IoT applications &lpar;Nathan Vifflin/Reuters&rpar;](http://www.techmeme.com/250527/p33#a250527p33)
- - [Anthropic is rolling out voice mode in beta for its Claude mobile apps, available in English; free users can expect 20-30 voice messages before hitting a limit &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250527/p32#a250527p32)
- - [The US FTC&#39;s antitrust trial against Meta ends; Judge James Boasberg, who is presiding over the case, says he will work &quot;expeditiously&quot; to issue an opinion &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/250527/p31#a250527p31)<!-- TECH:END -->
+ - [Here Are the Switch Games That Have Problems Running on the Switch 2](https://www.cnet.com/tech/gaming/here-are-the-switch-games-that-have-problems-running-on-the-switch-2/#ftag=CAD590a51e)
+ - [Anthropic is rolling out voice mode in beta for its Claude mobile apps, available in English; free users can expect 20-30 voice messages before hitting a limit &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250527/p32#a250527p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India now leads iPhone exports to the U.S. as trade war reshapes supply chains](https://appleinsider.com/articles/25/05/27/india-now-leads-iphone-exports-to-the-us-as-trade-war-reshapes-supply-chains?utm_medium=rss)
  - [The deluxe Scott Pilgrim graphic novel box set is cheaper than ever](https://www.theverge.com/tech/674534/scott-pilgrim-graphic-novels-box-set-google-pixel-watch-2-deal-sale)
  - [You can finally use WhatsApp on your iPad -- here&#39;s how to get it](https://appleinsider.com/articles/25/05/27/you-can-finally-use-whatsapp-on-your-ipad----heres-how-to-get-it?utm_medium=rss)
  - [Q&amp;A with Sundar Pichai on search&#39;s future, seeing &quot;overall query growth&quot;, AI agents, not altering search rankings or AI Mode answers to favor Trump, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250527/p21#a250527p21)
- - [HBO&amp;#8217;s Harry Potter series has found its trio of young leads](https://www.theverge.com/news/674752/hbo-harry-potter-cast-dominic-mclaughlin-arabella-stanton-alastair-stout)
- - [Apple says its App Store blocked $9B+ in fraudulent transactions over the past five years, with $2B in just 2024, and rejected ~2M risky app submissions in 2024 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250527/p20#a250527p20)<!-- TECH:END -->
+ - [HBO&amp;#8217;s Harry Potter series has found its trio of young leads](https://www.theverge.com/news/674752/hbo-harry-potter-cast-dominic-mclaughlin-arabella-stanton-alastair-stout)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

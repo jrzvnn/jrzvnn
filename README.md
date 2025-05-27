@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Dedicated Apple Games app could be revealed during WWDC 2025](https://appleinsider.com/articles/25/05/27/dedicated-apple-games-app-could-be-revealed-during-wwdc-2025?utm_medium=rss)
  - [An Iranian man pleads guilty in US court to participating in the Robbinhood ransomware gang, compromising networks of US cities and orgs between 2019 and 2024 &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250527/p30#a250527p30)
  - [Apple is ready to replace Game Center with a more Xbox-like gaming app](https://www.theverge.com/news/675241/apple-game-center-app-replace-rac7-sneaky-sasquatch-acquisition)
- - [Sources: Apple plans a dedicated app for video games to replace Game Center and come preinstalled on iPhone, iPad, Mac, and Apple TV devices later this year &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250527/p29#a250527p29)
- - [Qualcomm study unsurprisingly says Qualcomm modems beat Apple&#39;s C1](https://appleinsider.com/articles/25/05/27/qualcomm-study-unsurprisingly-says-qualcomm-modems-beat-apples-c1?utm_medium=rss)<!-- TECH:END -->
+ - [The Atlantic Diet: Why Eating Local, Whole Foods May Improve Your Health](https://www.cnet.com/health/nutrition/atlantic-diet-secrets-why-eating-local-whole-foods-may-improve-your-health/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 28, #247](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-28-247/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

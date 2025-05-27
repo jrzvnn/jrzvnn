@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ninja Luxe Cafe Premier Espresso Machine Review: Beginner’s Luck](https://www.wired.com/review/luxe-cafe-premier-series-automatic-espresso-machine/)
  - [iPhone 16e review three months later: Still a great value with few compromises](https://appleinsider.com/articles/25/05/27/iphone-16e-review-three-months-later-still-a-great-value-with-few-compromises?utm_medium=rss)
  - [Temu-owner PDD reports Q1 revenue up 10% YoY to ~$13.3B, below ~$14.4B est., and says it is fulfilling US orders exclusively via local warehouses and merchants &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250527/p11#a250527p11)
  - [Businesses Got Squeezed by Trump’s Tariffs. Now Some of Them Want Their Money Back](https://www.wired.com/story/tariffs-trump-refund-logistics/)
- - [European industrial groups Schneider, Siemens, ABB, and Legrand collectively added €151B in market value due to AI demand after ChatGPT&#39;s November 2022 launch &lpar;Financial Times&rpar;](http://www.techmeme.com/250527/p10#a250527p10)
- - [The European Commission says it is investigating Pornhub, Stripchat, XNXX, and XVideos for potential child safety DSA violations &quot;as a matter of priority&quot; &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/250527/p9#a250527p9)<!-- TECH:END -->
+ - [European industrial groups Schneider, Siemens, ABB, and Legrand collectively added €151B in market value due to AI demand after ChatGPT&#39;s November 2022 launch &lpar;Financial Times&rpar;](http://www.techmeme.com/250527/p10#a250527p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

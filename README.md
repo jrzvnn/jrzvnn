@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Browser Company says it is pivoting away from its Arc browser to build AI-native browser Dia, citing Arc&#39;s complexity and limited mass-market appeal &lpar;Keeping Tabs by The Browser Company&rpar;](http://www.techmeme.com/250527/p6#a250527p6)
  - [There’s a Very Simple Pattern to Elon Musk’s Broken Promises](https://www.wired.com/story/theres-a-very-simple-pattern-to-elon-musks-broken-promises/)
  - [A New Study Reveals the Makeup of Uranus’s Atmosphere](https://www.wired.com/story/a-new-study-reveals-the-makeup-of-uranus-atmosphere/)
  - [PopSockets’ new Kick-Out Grip can finally prop your phone up vertically](https://www.theverge.com/news/674371/popsockets-kick-out-grip-portrait-stand-vertical-magsafe)
- - [India&#39;s crypto industry is lobbying for tax cuts on domestic trading, hoping to seize on New Delhi&#39;s softening crypto stance as it negotiates a US trade deal &lpar;Financial Times&rpar;](http://www.techmeme.com/250527/p5#a250527p5)
- - [Researcher: factoring 2048 bit RSA integers could be done with ~20x fewer noisy qubits than previously estimated, though still far beyond current quantum tech &lpar;Jose Antonio Lanz/Decrypt&rpar;](http://www.techmeme.com/250527/p4#a250527p4)<!-- TECH:END -->
+ - [India&#39;s crypto industry is lobbying for tax cuts on domestic trading, hoping to seize on New Delhi&#39;s softening crypto stance as it negotiates a US trade deal &lpar;Financial Times&rpar;](http://www.techmeme.com/250527/p5#a250527p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

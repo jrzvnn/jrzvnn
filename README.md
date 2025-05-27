@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you train on Netflix dataset](http://9gag.com/gag/aQz2eN7)
- - 😝 [When &#39;too much care&#39; is a crime.](http://9gag.com/gag/aE0XBPN)
- - 💣 [My pirating skills are getting rusty](http://9gag.com/gag/aZZ23n0)
+ - 😝 [Can&#39;t even smoke on your private jet? What&#39;s the point?](http://9gag.com/gag/aAyX3DE)
+ - 😝 [Never discussed, never addressed](http://9gag.com/gag/aW42m43)
+ - 💣 [When your tap water has tiny monsters with chainsaws](http://9gag.com/gag/a34WQ7e)
  - 😝 [Probably because we&#39;re used to seeing him that way](http://9gag.com/gag/aYQ1x20)
- - 👉 [Can someone explain how thon work ?](http://9gag.com/gag/ajPKX08)<!-- MEMES:END -->
+ - 👉 [When you train on Netflix dataset](http://9gag.com/gag/aQz2eN7)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Probably because we&#39;re used to seeing him that way](http://9gag.com/gag/aYQ1x20)
- - 😝 [When you train on Netflix dataset](http://9gag.com/gag/aQz2eN7)
- - 💣 [When your ex&#39;s little sister is the real one.](http://9gag.com/gag/aO81rv3)
+ - 😝 [A simple tutorial for a handyman](http://9gag.com/gag/aYQ1g6m)
+ - 💣 [Can someone explain how thon work ?](http://9gag.com/gag/ajPKX08)
  - 😝 [Built too well for capitalism.](http://9gag.com/gag/a5QjMoo)
- - 👉 [Never seen a mouse beg for mercy](http://9gag.com/gag/aQz2eeq)<!-- MEMES:END -->
+ - 👉 [Can&#39;t even smoke on your private jet? What&#39;s the point?](http://9gag.com/gag/aAyX3DE)<!-- MEMES:END -->
 
 ---
 

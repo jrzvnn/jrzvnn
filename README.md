@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researcher: factoring 2048 bit RSA integers could be done with ~20x fewer noisy qubits than previously estimated, though still far beyond current quantum tech &lpar;Jose Antonio Lanz/Decrypt&rpar;](http://www.techmeme.com/250527/p4#a250527p4)
  - [The UK, which launched open banking in 2018, is seeing its fintech sector struggle to make open banking-powered payments a viable alternative to card payments &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/250527/p3#a250527p3)
  - [Tesla is set to launch its robotaxi service in Austin in June, but city officials say they are still awaiting important information regarding safety protocols &lpar;Jessica Mathews/Fortune&rpar;](http://www.techmeme.com/250527/p2#a250527p2)
  - [Taiwan is ramping up its defense drone push with help from startups like Coretronic, as giants like TSMC and Foxconn hold back due to a smaller local market &lpar;Bloomberg&rpar;](http://www.techmeme.com/250527/p1#a250527p1)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 27, #246](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-27-246/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, May 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-may-27/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 27, #246](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-27-246/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

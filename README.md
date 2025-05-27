@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Built too well for capitalism.](http://9gag.com/gag/a5QjMoo)
- - 😝 [Finally, blood for everyone](http://9gag.com/gag/ae92MLW)
- - 💣 [Never seen a mouse beg for mercy](http://9gag.com/gag/aQz2eeq)
- - 😝 [Probably because we&#39;re used to seeing him that way](http://9gag.com/gag/aYQ1x20)
- - 👉 [Can&#39;t even smoke on your private jet? What&#39;s the point?](http://9gag.com/gag/aAyX3DE)<!-- MEMES:END -->
+ - 😝 [Japan understood the assignment.](http://9gag.com/gag/a6ZpOyb)
+ - 💣 [The Emperor protects](http://9gag.com/gag/a87wo9d)
+ - 😝 [Never discussed, never addressed](http://9gag.com/gag/aW42m43)
+ - 👉 [Just a reminder that this video was found on Osama bin Laden&#39;s hard drive. Yes, actually.](http://9gag.com/gag/aD2XW4K)<!-- MEMES:END -->
 
 ---
 

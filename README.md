@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thank you, my GTX 1050. Thank you for still functioning and working well to this day.](http://9gag.com/gag/azxZ1Kb)
  - 😝 [Little moments](http://9gag.com/gag/avyvOWO)
- - 💣 [I would like Yu-Gi-Oh! cards.](http://9gag.com/gag/aZZ27en)
+ - 😝 [I would like Yu-Gi-Oh! cards.](http://9gag.com/gag/aZZ27en)
+ - 💣 [A simple tutorial for a handyman](http://9gag.com/gag/aYQ1g6m)
  - 😝 [Keannu x ana](http://9gag.com/gag/a4PqRgy)
- - 👉 [A simple tutorial for a handyman](http://9gag.com/gag/aYQ1g6m)<!-- MEMES:END -->
+ - 👉 [Good news boys. After hundreds of thousands of years of evolution, we have progress.](http://9gag.com/gag/aryBgEX)<!-- MEMES:END -->
 
 ---
 

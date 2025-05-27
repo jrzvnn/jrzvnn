@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The UK, which launched open banking in 2018, is seeing its fintech sector struggle to make open banking-powered payments a viable alternative to card payments &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/250527/p3#a250527p3)
+ - [Tesla is set to launch its robotaxi service in Austin in June, but city officials say they are still awaiting important information regarding safety protocols &lpar;Jessica Mathews/Fortune&rpar;](http://www.techmeme.com/250527/p2#a250527p2)
  - [Taiwan is ramping up its defense drone push with help from startups like Coretronic, as giants like TSMC and Foxconn hold back due to a smaller local market &lpar;Bloomberg&rpar;](http://www.techmeme.com/250527/p1#a250527p1)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 27, #246](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-27-246/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, May 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-may-27/#ftag=CAD590a51e)
- - [California&#39;s population is growing again, rising 0.6% in 2024, with the H-1B visa program being one of the drivers, helping offset the residents who are leaving &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250526/p21#a250526p21)
- - [Researchers detail an exploit in GitHub&#39;s official MCP server that lets hackers trick an LLM agent into leaking private information about the MCP user &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250526/p20#a250526p20)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, May 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-may-27/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

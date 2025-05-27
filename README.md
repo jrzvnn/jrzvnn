@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone buyers worldwide may see higher prices because of Trump&#39;s tariffs](https://appleinsider.com/articles/25/05/27/iphone-buyers-worldwide-may-see-higher-prices-because-of-trumps-tariffs?utm_medium=rss)
+ - [The Browser Company explains why it stopped developing Arc](https://www.theverge.com/news/674603/arc-browser-development-stopped-dia-browser-company)
+ - [NPR sues Trump over executive order cutting funding for public broadcasting](https://www.theverge.com/news/674754/npr-lawsuit-trump-executive-order-cutting-funding-pbs)
  - [Meta launches a dedicated iPad app for WhatsApp &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250527/p18#a250527p18)
- - [The PS5 will be cheaper than the Switch 2 for a limited time](https://www.theverge.com/news/674677/ps5-sale-summer-2025-us-sony-play-days-summer-game-fest)
- - [iPhone 18 rumored to get under display Face ID, perfected in iPhone 19](https://appleinsider.com/articles/25/05/27/iphone-18-rumored-to-get-under-display-face-id-perfected-in-iphone-19?utm_medium=rss)
- - [Civitai is banning &quot;real-person likeness content&quot; on its site, citing new laws and the loss of its payment processor, after problems with nonconsensual porn &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250527/p17#a250527p17)
- - [Trump’s media company says it’s buying $2.5 billion in Bitcoin](https://www.theverge.com/news/674684/trump-media-bitcoin-treasury-deal)<!-- TECH:END -->
+ - [The PS5 will be cheaper than the Switch 2 for a limited time](https://www.theverge.com/news/674677/ps5-sale-summer-2025-us-sony-play-days-summer-game-fest)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The European Commission says it is investigating Pornhub, Stripchat, XNXX, and XVideos for potential child safety DSA violations &quot;as a matter of priority&quot; &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/250527/p9#a250527p9)
+ - [The Privacy-Friendly Tech to Replace Your US-Based Email, Browser, and Search](https://www.wired.com/story/the-privacy-friendly-tech-to-replace-your-us-based-email-browser-and-search/)
+ - [Tap to Pay on iPhone comes to still more European countries](https://appleinsider.com/articles/25/05/27/tap-to-pay-on-iphone-comes-to-still-more-european-countries?utm_medium=rss)
  - [Documents: self-driving truck startup TuSimple transferred critical autonomous driving tech and data to Chinese partners despite a 2022 agreement with CFIUS &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/250527/p8#a250527p8)
- - [Who’s to Blame When AI Agents Screw Up?](https://www.wired.com/story/ai-agents-legal-liability-issues/)
- - [Carl Pei Thinks the Phone of the Future Will Only Have One App](https://www.wired.com/story/carl-pei-thinks-the-phone-of-the-future-will-only-have-one-app/)
- - [Xiaomi reports Q1 revenue up ~50% YoY to ~$15.5B, above ~$15.17B est., as it invests heavily in autonomous EVs and growing its smartphone business &lpar;Bloomberg&rpar;](http://www.techmeme.com/250527/p7#a250527p7)
- - [The Browser Company says it is pivoting away from its Arc browser to build AI-native browser Dia, citing Arc&#39;s complexity and limited mass-market appeal &lpar;Keeping Tabs by The Browser Company&rpar;](http://www.techmeme.com/250527/p6#a250527p6)<!-- TECH:END -->
+ - [Who’s to Blame When AI Agents Screw Up?](https://www.wired.com/story/ai-agents-legal-liability-issues/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

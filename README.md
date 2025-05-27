@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [When your ex&#39;s little sister is the real one.](http://9gag.com/gag/aO81rv3)
  - 😝 [Keannu x ana](http://9gag.com/gag/a4PqRgy)
- - 😝 [The Sims](http://9gag.com/gag/aPAXRnw)
- - 💣 [Derby &lpar;England&rpar; new mayor](http://9gag.com/gag/avyvz7b)
- - 😝 [Origin compilation - how many did you actually know?](http://9gag.com/gag/aO8109M)
- - 👉 [For the good of mankind](http://9gag.com/gag/aByXgBD)<!-- MEMES:END -->
+ - 💣 [Ken knew what he was doing](http://9gag.com/gag/awy4AOW)
+ - 😝 [Do you want something else with the beer?](http://9gag.com/gag/a5QjMwq)
+ - 👉 [The view is quite impressive](http://9gag.com/gag/a5QjoMN)<!-- MEMES:END -->
 
 ---
 

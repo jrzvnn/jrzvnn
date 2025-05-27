@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Probably because we&#39;re used to seeing him that way](http://9gag.com/gag/aYQ1x20)
- - 😝 [Can someone explain how thon work ?](http://9gag.com/gag/ajPKX08)
- - 💣 [My car makes the weirdest noises](http://9gag.com/gag/aQz2R7q)
  - 😝 [My pirating skills are getting rusty](http://9gag.com/gag/aZZ23n0)
- - 👉 [Never discussed, never addressed](http://9gag.com/gag/aW42m43)<!-- MEMES:END -->
+ - 😝 [Can someone explain how thon work ?](http://9gag.com/gag/ajPKX08)
+ - 💣 [Can&#39;t even smoke on your private jet? What&#39;s the point?](http://9gag.com/gag/aAyX3DE)
+ - 😝 [Probably because we&#39;re used to seeing him that way](http://9gag.com/gag/aYQ1x20)
+ - 👉 [My car makes the weirdest noises](http://9gag.com/gag/aQz2R7q)<!-- MEMES:END -->
 
 ---
 

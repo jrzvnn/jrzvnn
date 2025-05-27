@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Okay Australia, showing off those fully engaged brains](http://9gag.com/gag/a4PqbWm)
- - 😝 [When &#39;too much care&#39; is a crime.](http://9gag.com/gag/aE0XBPN)
- - 💣 [The Emperor protects](http://9gag.com/gag/a87wo9d)
  - 😝 [My car makes the weirdest noises](http://9gag.com/gag/aQz2R7q)
- - 👉 [A pretty bad circle](http://9gag.com/gag/aNDRz6K)<!-- MEMES:END -->
+ - 😝 [When &#39;too much care&#39; is a crime.](http://9gag.com/gag/aE0XBPN)
+ - 💣 [Can someone explain how thon work ?](http://9gag.com/gag/ajPKX08)
+ - 😝 [Never discussed, never addressed](http://9gag.com/gag/aW42m43)
+ - 👉 [Crossing the street like...](http://9gag.com/gag/a6ZpVoq)<!-- MEMES:END -->
 
 ---
 

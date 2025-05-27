@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you train on Netflix dataset](http://9gag.com/gag/aQz2eN7)
- - 😝 [Ken knew what he was doing](http://9gag.com/gag/awy4AOW)
- - 💣 [Well, technically...](http://9gag.com/gag/aoy8e13)
- - 😝 [Do you want something else with the beer?](http://9gag.com/gag/a5QjMwq)
- - 👉 [A simple tutorial for a handyman](http://9gag.com/gag/aYQ1g6m)<!-- MEMES:END -->
+ - 😝 [Keannu x ana](http://9gag.com/gag/a4PqRgy)
+ - 😝 [The Sims](http://9gag.com/gag/aPAXRnw)
+ - 💣 [Derby &lpar;England&rpar; new mayor](http://9gag.com/gag/avyvz7b)
+ - 😝 [Origin compilation - how many did you actually know?](http://9gag.com/gag/aO8109M)
+ - 👉 [For the good of mankind](http://9gag.com/gag/aByXgBD)<!-- MEMES:END -->
 
 ---
 

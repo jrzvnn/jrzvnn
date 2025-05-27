@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Probably because we&#39;re used to seeing him that way](http://9gag.com/gag/aYQ1x20)
- - 😝 [A simple tutorial for a handyman](http://9gag.com/gag/aYQ1g6m)
- - 💣 [Can someone explain how thon work ?](http://9gag.com/gag/ajPKX08)
- - 😝 [Built too well for capitalism.](http://9gag.com/gag/a5QjMoo)
- - 👉 [Can&#39;t even smoke on your private jet? What&#39;s the point?](http://9gag.com/gag/aAyX3DE)<!-- MEMES:END -->
+ - 😝 [When people cant tell the difference between AI and 3D anymore](http://9gag.com/gag/azxZX8b)
+ - 😝 [Mom&#39;s weekend rules are... quite specific.](http://9gag.com/gag/aQz2e87)
+ - 💣 [Return to monke](http://9gag.com/gag/azxZXXb)
+ - 😝 [Well, technically... she delivered?](http://9gag.com/gag/azxZ98q)
+ - 👉 [The Fench....](http://9gag.com/gag/a2vbZMY)<!-- MEMES:END -->
 
 ---
 

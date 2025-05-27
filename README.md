@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [App Store protected users from $9 billion in fraud over five years](https://appleinsider.com/articles/25/05/27/app-store-protected-users-from-9-billion-in-fraud-over-five-years?utm_medium=rss)
- - [Starlink Wars: Elon Musk still battling Apple over iPhone satellite connectivity](https://appleinsider.com/articles/25/05/27/starlink-wars-elon-musk-still-battling-apple-over-iphone-satellite-connectivity?utm_medium=rss)
- - [With the Switch, technology finally caught up to Nintendo](https://www.theverge.com/games/671323/nintendo-switch-2-wii-u-technology-games)
- - [Nothing CEO takes shots at Apple, ludicrously says that apps are going away](https://appleinsider.com/articles/25/05/27/nothing-ceo-takes-shots-at-apple-ludicrously-says-that-apps-are-going-away?utm_medium=rss)
- - [Shein’s ‘fake discounts’ break the law, EU says](https://www.theverge.com/news/674575/shein-fake-discounts-eu-consumer-protection-law)<!-- TECH:END -->
+ - [OnePlus’ new ‘small’ phone isn&amp;#8217;t coming to the US, but its AI features are](https://www.theverge.com/news/674506/oneplus-13s-ai-plus-mind-key-button-india-availability)
+ - [After 15 years, WhatsApp is finally ready for the iPad](https://www.theverge.com/news/674596/whatsapp-ipad-app-meta-availability)
+ - [Trump Media &amp; Technology Group plans to sell ~$1.5B in stock and $1B in 0% convertible notes to buy bitcoin for its treasury, following Strategy&#39;s model &lpar;Monique Mulima/Bloomberg&rpar;](http://www.techmeme.com/250527/p15#a250527p15)
+ - [Fortnite and Sabrina Carpenter want you to come dance](https://www.theverge.com/news/673925/fortnite-dance-with-sabrina-launch-date)
+ - [Six Moon Designs Lunar Solo Tent Review: An Ultralight Summer Shelter](https://www.wired.com/review/six-moon-designs-lunar-solo-tent/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [App Store protected users from $9 billion in fraud over five years](https://appleinsider.com/articles/25/05/27/app-store-protected-users-from-9-billion-in-fraud-over-five-years?utm_medium=rss)
+ - [Starlink Wars: Elon Musk still battling Apple over iPhone satellite connectivity](https://appleinsider.com/articles/25/05/27/starlink-wars-elon-musk-still-battling-apple-over-iphone-satellite-connectivity?utm_medium=rss)
  - [With the Switch, technology finally caught up to Nintendo](https://www.theverge.com/games/671323/nintendo-switch-2-wii-u-technology-games)
  - [Nothing CEO takes shots at Apple, ludicrously says that apps are going away](https://appleinsider.com/articles/25/05/27/nothing-ceo-takes-shots-at-apple-ludicrously-says-that-apps-are-going-away?utm_medium=rss)
- - [Shein’s ‘fake discounts’ break the law, EU says](https://www.theverge.com/news/674575/shein-fake-discounts-eu-consumer-protection-law)
- - [Inside the Meta monopoly trial](https://www.theverge.com/the-vergecast/674550/meta-antitrust-trial-monopoly-vergecast)
- - [Stablecoin operator Circle files for an NYSE IPO and plans to offer 24M shares at $24 to $26 each, raising up to nearly $250M; Cathie Wood&#39;s ARK may buy $150M &lpar;Parikshit Mishra/CoinDesk&rpar;](http://www.techmeme.com/250527/p14#a250527p14)<!-- TECH:END -->
+ - [Shein’s ‘fake discounts’ break the law, EU says](https://www.theverge.com/news/674575/shein-fake-discounts-eu-consumer-protection-law)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

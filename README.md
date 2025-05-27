@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Block plans to roll out bitcoin payments on Square in H2 2025; the system runs on the Lightning Network and lets merchants accept bitcoin via Square&#39;s hardware &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250527/p37#a250527p37)
  - [Dedicated Apple Games app could be revealed during WWDC 2025](https://appleinsider.com/articles/25/05/27/dedicated-apple-games-app-could-be-revealed-during-wwdc-2025?utm_medium=rss)
  - [Apple Invites now lets you share content &amp; sites with a new Link tile](https://appleinsider.com/articles/25/05/27/apple-invites-now-lets-you-share-content-sites-with-a-new-link-tile?utm_medium=rss)
  - [Circle aims to raise up to $624M in its US IPO, offering 24M shares at $24-$26 each, valuing it at ~$5.65B, or ~$6.7B fully diluted, at the top of the range &lpar;Bloomberg&rpar;](http://www.techmeme.com/250527/p36#a250527p36)
- - [Zscaler agrees to acquire Red Canary, a provider of managed detection and response services, for an undisclosed sum; the deal is expected to close in August &lpar;Greg Otto/CyberScoop&rpar;](http://www.techmeme.com/250527/p35#a250527p35)
- - [Apple Buys Its First Ever Video Game Studio](https://www.cnet.com/tech/services-and-software/apple-buys-its-first-ever-video-game-studio/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Zscaler agrees to acquire Red Canary, a provider of managed detection and response services, for an undisclosed sum; the deal is expected to close in August &lpar;Greg Otto/CyberScoop&rpar;](http://www.techmeme.com/250527/p35#a250527p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

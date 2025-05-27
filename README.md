@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The view is quite impressive](http://9gag.com/gag/a5QjoMN)
- - 😝 [Fookin etiquette](http://9gag.com/gag/a34WR5Q)
- - 💣 [Alright, who taught the quiet kid how to breakdance?](http://9gag.com/gag/a9yXAO0)
+ - 😝 [China, we have a problem](http://9gag.com/gag/aAyXgoE)
+ - 😝 [When your ex&#39;s little sister is the real one.](http://9gag.com/gag/aO81rv3)
+ - 💣 [Derby &lpar;England&rpar; new mayor](http://9gag.com/gag/avyvz7b)
  - 😝 [Do you want something else with the beer?](http://9gag.com/gag/a5QjMwq)
- - 👉 [Gravity always wins.](http://9gag.com/gag/aRB218q)<!-- MEMES:END -->
+ - 👉 [Ken knew what he was doing](http://9gag.com/gag/awy4AOW)<!-- MEMES:END -->
 
 ---
 

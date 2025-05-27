@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Alright, who taught the quiet kid how to breakdance?](http://9gag.com/gag/a9yXAO0)
- - 😝 [Never discussed, never addressed](http://9gag.com/gag/aW42m43)
- - 💣 [Family friendly jokes](http://9gag.com/gag/aQz212K)
+ - 😝 [Keannu x ana](http://9gag.com/gag/a4PqRgy)
  - 😝 [The view is quite impressive](http://9gag.com/gag/a5QjoMN)
- - 👉 [My pirating skills are getting rusty](http://9gag.com/gag/aZZ23n0)<!-- MEMES:END -->
+ - 💣 [My pirating skills are getting rusty](http://9gag.com/gag/aZZ23n0)
+ - 😝 [Alright, who taught the quiet kid how to breakdance?](http://9gag.com/gag/a9yXAO0)
+ - 👉 [A simple tutorial for a handyman](http://9gag.com/gag/aYQ1g6m)<!-- MEMES:END -->
 
 ---
 

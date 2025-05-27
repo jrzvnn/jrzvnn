@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A simple tutorial for a handyman](http://9gag.com/gag/aYQ1g6m)
- - 😝 [Japan understood the assignment.](http://9gag.com/gag/a6ZpOyb)
- - 💣 [Can&#39;t even smoke on your private jet? What&#39;s the point?](http://9gag.com/gag/aAyX3DE)
- - 😝 [Derby &lpar;England&rpar; new mayor](http://9gag.com/gag/avyvz7b)
- - 👉 [Just another quiet day at McDonald&#39;s.](http://9gag.com/gag/aByX81O)<!-- MEMES:END -->
+ - 😝 [Baseball is totally safe, look at that arm](http://9gag.com/gag/abA2zMp)
+ - 😝 [Can&#39;t even smoke on your private jet? What&#39;s the point?](http://9gag.com/gag/aAyX3DE)
+ - 💣 [A simple tutorial for a handyman](http://9gag.com/gag/aYQ1g6m)
+ - 😝 [Ken knew what he was doing](http://9gag.com/gag/awy4AOW)
+ - 👉 [The Fench....](http://9gag.com/gag/a2vbZMY)<!-- MEMES:END -->
 
 ---
 

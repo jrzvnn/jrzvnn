@@ -157,8 +157,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [If algorithms radicalize a mass shooter, are companies to blame?](https://www.theverge.com/policy/674869/buffalo-shooting-lawsuit-meta-reddit-4chan-google-amazon-section-230-everytown)
  - [A future iPhone may get a 200MP camera -- eventually](https://appleinsider.com/articles/25/05/27/a-future-iphone-may-get-a-200mp-camera----eventually?utm_medium=rss)
+ - [If algorithms radicalize a mass shooter, are companies to blame?](https://www.theverge.com/policy/674869/buffalo-shooting-lawsuit-meta-reddit-4chan-google-amazon-section-230-everytown)
  - [Sources: Neuralink raised $600M at a $9B pre-money valuation; PitchBook: the company was valued at $3.5B in late 2023 &lpar;Liz Hoffman/Semafor&rpar;](http://www.techmeme.com/250527/p25#a250527p25)
  - [5 Facial Products to Protect Your Skin for a Day in the Sun](https://www.cnet.com/health/personal-care/5-facial-products-to-protect-your-skin-for-a-day-in-the-sun/#ftag=CAD590a51e)
  - [The Best-Sounding Sony Bluetooth Speaker I&#39;ve Tested Is Still $80 Off](https://www.cnet.com/deals/the-best-sounding-sony-bluetooth-speaker-i-tested-is-80-off/#ftag=CAD590a51e)<!-- TECH:END -->

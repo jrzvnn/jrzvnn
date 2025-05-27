@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Browser Company says it is pivoting away from its Arc browser to build AI-native browser Dia, citing Arc&#39;s complexity and limited mass-market appeal &lpar;Keeping Tabs by The Browser Company&rpar;](http://www.techmeme.com/250527/p6#a250527p6)
- - [There’s a Very Simple Pattern to Elon Musk’s Broken Promises](https://www.wired.com/story/theres-a-very-simple-pattern-to-elon-musks-broken-promises/)
- - [A New Study Reveals the Makeup of Uranus’s Atmosphere](https://www.wired.com/story/a-new-study-reveals-the-makeup-of-uranus-atmosphere/)
- - [PopSockets’ new Kick-Out Grip can finally prop your phone up vertically](https://www.theverge.com/news/674371/popsockets-kick-out-grip-portrait-stand-vertical-magsafe)
- - [India&#39;s crypto industry is lobbying for tax cuts on domestic trading, hoping to seize on New Delhi&#39;s softening crypto stance as it negotiates a US trade deal &lpar;Financial Times&rpar;](http://www.techmeme.com/250527/p5#a250527p5)<!-- TECH:END -->
+ - [Documents: self-driving truck startup TuSimple transferred critical autonomous driving tech and data to Chinese partners despite a 2022 agreement with CFIUS &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/250527/p8#a250527p8)
+ - [Who’s to Blame When AI Agents Screw Up?](https://www.wired.com/story/ai-agents-legal-liability-issues/)
+ - [Carl Pei Thinks the Phone of the Future Will Only Have One App](https://www.wired.com/story/carl-pei-thinks-the-phone-of-the-future-will-only-have-one-app/)
+ - [Xiaomi reports Q1 revenue up ~50% YoY to ~$15.5B, above ~$15.17B est., as it invests heavily in autonomous EVs and growing its smartphone business &lpar;Bloomberg&rpar;](http://www.techmeme.com/250527/p7#a250527p7)
+ - [The Browser Company says it is pivoting away from its Arc browser to build AI-native browser Dia, citing Arc&#39;s complexity and limited mass-market appeal &lpar;Keeping Tabs by The Browser Company&rpar;](http://www.techmeme.com/250527/p6#a250527p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

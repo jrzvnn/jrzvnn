@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Emperor protects](http://9gag.com/gag/a87wo9d)
- - 😝 [Mission Impossible: Stadium Edition](http://9gag.com/gag/aGy2Zew)
- - 💣 [Well, technically... she delivered?](http://9gag.com/gag/azxZ98q)
+ - 😝 [A simple tutorial for a handyman](http://9gag.com/gag/aYQ1g6m)
+ - 😝 [When you train on Netflix dataset](http://9gag.com/gag/aQz2eN7)
+ - 💣 [Family friendly jokes](http://9gag.com/gag/aQz212K)
  - 😝 [The Fench....](http://9gag.com/gag/a2vbZMY)
- - 👉 [Family friendly jokes](http://9gag.com/gag/aQz212K)<!-- MEMES:END -->
+ - 👉 [Alright, who taught the quiet kid how to breakdance?](http://9gag.com/gag/a9yXAO0)<!-- MEMES:END -->
 
 ---
 

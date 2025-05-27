@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Keannu x ana](http://9gag.com/gag/a4PqRgy)
- - 😝 [The view is quite impressive](http://9gag.com/gag/a5QjoMN)
- - 💣 [My pirating skills are getting rusty](http://9gag.com/gag/aZZ23n0)
- - 😝 [Alright, who taught the quiet kid how to breakdance?](http://9gag.com/gag/a9yXAO0)
- - 👉 [A simple tutorial for a handyman](http://9gag.com/gag/aYQ1g6m)<!-- MEMES:END -->
+ - 😝 [The Emperor protects](http://9gag.com/gag/a87wo9d)
+ - 💣 [A simple tutorial for a handyman](http://9gag.com/gag/aYQ1g6m)
+ - 😝 [The Fench....](http://9gag.com/gag/a2vbZMY)
+ - 👉 [Alright, who taught the quiet kid how to breakdance?](http://9gag.com/gag/a9yXAO0)<!-- MEMES:END -->
 
 ---
 

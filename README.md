@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [STEPHAAAAN](http://9gag.com/gag/azxZX3m)
- - 😝 [A pretty bad circle](http://9gag.com/gag/aNDRz6K)
- - 💣 [When &#39;too much care&#39; is a crime.](http://9gag.com/gag/aE0XBPN)
+ - 😝 [In mid April, a 32 year old woman was brutally attacked in Jaworzno, in front of her children. The 27 year old jumped her, began to tear off her clothes by force, and beat her. The reason is, she was wearing clothes with the emblems of the opposite football team Wis\u0142a Krak\u00f3w.](http://9gag.com/gag/abA26dX)
  - 😝 [Can someone explain how thon work ?](http://9gag.com/gag/ajPKX08)
+ - 💣 [Snoopy&#39;s bringing iron to the kitchen table](http://9gag.com/gag/an7DjVL)
+ - 😝 [When &#39;too much care&#39; is a crime.](http://9gag.com/gag/aE0XBPN)
  - 👉 [The Emperor protects](http://9gag.com/gag/a87wo9d)<!-- MEMES:END -->
 
 ---

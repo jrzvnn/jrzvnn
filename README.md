@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple says its App Store blocked $9B+ in fraudulent transactions over the past five years, with $2B in just 2024, and rejected ~2M risky app submissions in 2024 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250527/p20#a250527p20)
- - [Memo: nearly all of CISA&#39;s top leaders, including heads of 5 of its 6 operational divisions and 6 of 10 regional offices, have left or are leaving this month &lpar;Eric Geller/Cybersecurity Dive&rpar;](http://www.techmeme.com/250527/p19#a250527p19)
- - [iPhone buyers worldwide may see higher prices because of Trump&#39;s tariffs](https://appleinsider.com/articles/25/05/27/iphone-buyers-worldwide-may-see-higher-prices-because-of-trumps-tariffs?utm_medium=rss)
- - [The Browser Company explains why it stopped developing Arc](https://www.theverge.com/news/674603/arc-browser-development-stopped-dia-browser-company)
- - [NPR sues Trump over executive order cutting funding for public broadcasting](https://www.theverge.com/news/674754/npr-lawsuit-trump-executive-order-cutting-funding-pbs)<!-- TECH:END -->
+ - [The deluxe Scott Pilgrim graphic novel box set is cheaper than ever](https://www.theverge.com/tech/674534/scott-pilgrim-graphic-novels-box-set-google-pixel-watch-2-deal-sale)
+ - [You can finally use WhatsApp on your iPad -- here&#39;s how to get it](https://appleinsider.com/articles/25/05/27/you-can-finally-use-whatsapp-on-your-ipad----heres-how-to-get-it?utm_medium=rss)
+ - [Q&amp;A with Sundar Pichai on search&#39;s future, seeing &quot;overall query growth&quot;, AI agents, not altering search rankings or AI Mode answers to favor Trump, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250527/p21#a250527p21)
+ - [HBO&amp;#8217;s Harry Potter series has found its trio of young leads](https://www.theverge.com/news/674752/hbo-harry-potter-cast-dominic-mclaughlin-arabella-stanton-alastair-stout)
+ - [Apple says its App Store blocked $9B+ in fraudulent transactions over the past five years, with $2B in just 2024, and rejected ~2M risky app submissions in 2024 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250527/p20#a250527p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Starlink&#39;s Mini Dish Redefines On-the-Go Internet](https://www.cnet.com/home/internet/starlink-mini-dish-delivers-high-speed-internet-on-the-go/#ftag=CAD590a51e)
  - [Law firm sees opportunity to sue over Apple delaying Siri improvements](https://appleinsider.com/articles/25/05/27/law-firm-sees-opportunity-to-sue-over-apple-delaying-siri-improvements?utm_medium=rss)
  - [SpAItial, which is building text-to-3D environment generation tools, raised a $13M seed led by Earlybird and plans to license its foundation model to developers &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/250527/p12#a250527p12)
  - [Ninja Luxe Cafe Premier Espresso Machine Review: Beginner’s Luck](https://www.wired.com/review/luxe-cafe-premier-series-automatic-espresso-machine/)
- - [iPhone 16e review three months later: Still a great value with few compromises](https://appleinsider.com/articles/25/05/27/iphone-16e-review-three-months-later-still-a-great-value-with-few-compromises?utm_medium=rss)
- - [Temu-owner PDD reports Q1 revenue up 10% YoY to ~$13.3B, below ~$14.4B est., and says it is fulfilling US orders exclusively via local warehouses and merchants &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250527/p11#a250527p11)<!-- TECH:END -->
+ - [I Tested the iPhone 16E and Pixel 9A Cameras and the Results Were Stunning](https://www.cnet.com/tech/mobile/i-tested-the-iphone-16e-and-pixel-9a-cameras-and-the-results-were-stunning/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

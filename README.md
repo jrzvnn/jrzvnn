@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The view is quite impressive](http://9gag.com/gag/a5QjoMN)
- - 😝 [When you train on Netflix dataset](http://9gag.com/gag/aQz2eN7)
- - 💣 [Probably because we&#39;re used to seeing him that way](http://9gag.com/gag/aYQ1x20)
- - 😝 [Never discussed, never addressed](http://9gag.com/gag/aW42m43)
- - 👉 [Can someone explain how thon work ?](http://9gag.com/gag/ajPKX08)<!-- MEMES:END -->
+ - 😝 [Well, technically...](http://9gag.com/gag/aoy8e13)
+ - 😝 [Can someone explain how thon work ?](http://9gag.com/gag/ajPKX08)
+ - 💣 [Road rage is evolving, just not in a good way.](http://9gag.com/gag/aPAXYyq)
+ - 😝 [My pirating skills are getting rusty](http://9gag.com/gag/aZZ23n0)
+ - 👉 [Probably because we&#39;re used to seeing him that way](http://9gag.com/gag/aYQ1x20)<!-- MEMES:END -->
 
 ---
 

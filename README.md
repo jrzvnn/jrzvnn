@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dedicated Apple Games app could be revealed during WWDC 2025](https://appleinsider.com/articles/25/05/27/dedicated-apple-games-app-could-be-revealed-during-wwdc-2025?utm_medium=rss)
+ - [An Iranian man pleads guilty in US court to participating in the Robbinhood ransomware gang, compromising networks of US cities and orgs between 2019 and 2024 &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250527/p30#a250527p30)
+ - [Apple is ready to replace Game Center with a more Xbox-like gaming app](https://www.theverge.com/news/675241/apple-game-center-app-replace-rac7-sneaky-sasquatch-acquisition)
  - [Sources: Apple plans a dedicated app for video games to replace Game Center and come preinstalled on iPhone, iPad, Mac, and Apple TV devices later this year &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250527/p29#a250527p29)
- - [Qualcomm study unsurprisingly says Qualcomm modems beat Apple&#39;s C1](https://appleinsider.com/articles/25/05/27/qualcomm-study-unsurprisingly-says-qualcomm-modems-beat-apples-c1?utm_medium=rss)
- - [You Can&#39;t Screenshot Switch 2 Footage From Nintendo Today App](https://www.cnet.com/tech/gaming/you-cant-screenshot-switch-2-footage-from-nintendo-today-app/#ftag=CAD590a51e)
- - [Tesla continues to circle the drain](https://www.theverge.com/news/675058/tesla-europe-april-sales-musk-doge-brand-crisis)
- - [How To Watch SpaceX&#39;s Next Starship Test Flight on Tuesday](https://www.cnet.com/science/space/how-to-watch-spacexs-next-starship-test-flight-on-tuesday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Qualcomm study unsurprisingly says Qualcomm modems beat Apple&#39;s C1](https://appleinsider.com/articles/25/05/27/qualcomm-study-unsurprisingly-says-qualcomm-modems-beat-apples-c1?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When people cant tell the difference between AI and 3D anymore](http://9gag.com/gag/azxZX8b)
- - 😝 [Mom&#39;s weekend rules are... quite specific.](http://9gag.com/gag/aQz2e87)
- - 💣 [Return to monke](http://9gag.com/gag/azxZXXb)
- - 😝 [Well, technically... she delivered?](http://9gag.com/gag/azxZ98q)
- - 👉 [The Fench....](http://9gag.com/gag/a2vbZMY)<!-- MEMES:END -->
+ - 😝 [Probably because we&#39;re used to seeing him that way](http://9gag.com/gag/aYQ1x20)
+ - 😝 [Can someone explain how thon work ?](http://9gag.com/gag/ajPKX08)
+ - 💣 [My car makes the weirdest noises](http://9gag.com/gag/aQz2R7q)
+ - 😝 [My pirating skills are getting rusty](http://9gag.com/gag/aZZ23n0)
+ - 👉 [Never discussed, never addressed](http://9gag.com/gag/aW42m43)<!-- MEMES:END -->
 
 ---
 

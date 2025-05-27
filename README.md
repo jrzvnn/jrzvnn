@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus’ new ‘small’ phone isn&amp;#8217;t coming to the US, but its AI features are](https://www.theverge.com/news/674506/oneplus-13s-ai-plus-mind-key-button-india-availability)
- - [After 15 years, WhatsApp is finally ready for the iPad](https://www.theverge.com/news/674596/whatsapp-ipad-app-meta-availability)
- - [Trump Media &amp; Technology Group plans to sell ~$1.5B in stock and $1B in 0% convertible notes to buy bitcoin for its treasury, following Strategy&#39;s model &lpar;Monique Mulima/Bloomberg&rpar;](http://www.techmeme.com/250527/p15#a250527p15)
- - [Fortnite and Sabrina Carpenter want you to come dance](https://www.theverge.com/news/673925/fortnite-dance-with-sabrina-launch-date)
- - [Six Moon Designs Lunar Solo Tent Review: An Ultralight Summer Shelter](https://www.wired.com/review/six-moon-designs-lunar-solo-tent/)<!-- TECH:END -->
+ - [Trump’s media company says it’s buying $2.5 billion in Bitcoin](https://www.theverge.com/news/674684/trump-media-bitcoin-treasury-deal)
+ - [Realme&amp;#8217;s new flagships squeeze in enormous 7,000mAh batteries](https://www.theverge.com/news/674621/realme-gt-7-7t-smartphones-battery-life)
+ - [Sources on how Apple declined a deal from Elon Musk to use SpaceX instead of Globalstar for its iOS SOS feature and its 2015 plans to build satellite internet &lpar;The Information&rpar;](http://www.techmeme.com/250527/p16#a250527p16)
+ - [FTC v. Meta: The antitrust battle over WhatsApp and Instagram](https://www.theverge.com/news/646809/ftc-v-meta-antitrust-monopoly-trial-instagram-whatsapp)
+ - [How Apple&#39;s years-old satellite plan crashed before Starlink launched](https://appleinsider.com/articles/25/05/27/how-apples-years-old-satellite-plan-crashed-before-starlink-launched?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

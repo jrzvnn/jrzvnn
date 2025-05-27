@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [More US states are rolling out subsidies for satellite connectivity in rural areas, including some that have funded programs that exclusively subsidize Starlink &lpar;Patience Haggin/Wall Street Journal&rpar;](http://www.techmeme.com/250527/p27#a250527p27)
+ - [Donald Trump’s Media Conglomerate Is Becoming a Bitcoin Reserve](https://www.wired.com/story/donald-trumps-media-conglomerate-is-becoming-a-bitcoin-reserve/)
+ - [Celebrate PlayStation Days of Play With NBA 2K25 and More on PS Plus in June](https://www.cnet.com/tech/services-and-software/celebrate-playstation-days-of-play-with-nba-2k25-and-more-on-ps-plus-in-june/#ftag=CAD590a51e)
  - [Texas enacts an online child-safety bill requiring app stores verify users&#39; ages and secure parental approval before minors can get most apps or make IAPs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250527/p26#a250527p26)
- - [A future iPhone may get a 200MP camera -- eventually](https://appleinsider.com/articles/25/05/27/a-future-iphone-may-get-a-200mp-camera----eventually?utm_medium=rss)
- - [If algorithms radicalize a mass shooter, are companies to blame?](https://www.theverge.com/policy/674869/buffalo-shooting-lawsuit-meta-reddit-4chan-google-amazon-section-230-everytown)
- - [Sources: Neuralink raised $600M at a $9B pre-money valuation; PitchBook: the company was valued at $3.5B in late 2023 &lpar;Liz Hoffman/Semafor&rpar;](http://www.techmeme.com/250527/p25#a250527p25)<!-- TECH:END -->
+ - [Wait! Don&#39;t Move Your Retirement Fund From the Stock Market to a CD Before Reading This](https://www.cnet.com/personal-finance/wait-dont-move-your-retirement-fund-from-the-stock-market-to-a-cd-before-reading-this/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

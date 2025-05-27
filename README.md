@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Qualcomm study unsurprisingly says Qualcomm modems beat Apple&#39;s C1](https://appleinsider.com/articles/25/05/27/qualcomm-study-unsurprisingly-says-qualcomm-modems-beat-apples-c1?utm_medium=rss)
+ - [You Can&#39;t Screenshot Switch 2 Footage From Nintendo Today App](https://www.cnet.com/tech/gaming/you-cant-screenshot-switch-2-footage-from-nintendo-today-app/#ftag=CAD590a51e)
  - [Tesla continues to circle the drain](https://www.theverge.com/news/675058/tesla-europe-april-sales-musk-doge-brand-crisis)
- - [Apple Invites now lets you share content &amp; sites with a new Link tile](https://appleinsider.com/articles/25/05/27/apple-invites-now-lets-you-share-content-sites-with-a-new-link-tile?utm_medium=rss)
- - [Razer&amp;#8217;s Blade 18 laptop price jumps $300, to $3,499.99](https://www.theverge.com/news/675146/razer-blade-18-price-hike-gaming-laptop)
- - [Apple acquires tiny two-person &#39;Sneaky Sasquatch&#39; developer RAC7](https://appleinsider.com/articles/25/05/27/apple-acquires-tiny-two-person-sneaky-sasquatch-developer-rac7?utm_medium=rss)<!-- TECH:END -->
+ - [How To Watch SpaceX&#39;s Next Starship Test Flight on Tuesday](https://www.cnet.com/science/space/how-to-watch-spacexs-next-starship-test-flight-on-tuesday/#ftag=CAD590a51e)
+ - [Apple Invites now lets you share content &amp; sites with a new Link tile](https://appleinsider.com/articles/25/05/27/apple-invites-now-lets-you-share-content-sites-with-a-new-link-tile?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Fench....](http://9gag.com/gag/a2vbZMY)
- - 😝 [Mom&#39;s weekend rules are... quite specific.](http://9gag.com/gag/aQz2e87)
- - 💣 [When people cant tell the difference between AI and 3D anymore](http://9gag.com/gag/azxZX8b)
- - 😝 [Return to monke](http://9gag.com/gag/azxZXXb)
- - 👉 [Well, technically... she delivered?](http://9gag.com/gag/azxZ98q)<!-- MEMES:END -->
+ - 😝 [Built too well for capitalism.](http://9gag.com/gag/a5QjMoo)
+ - 😝 [Finally, blood for everyone](http://9gag.com/gag/ae92MLW)
+ - 💣 [Never seen a mouse beg for mercy](http://9gag.com/gag/aQz2eeq)
+ - 😝 [Probably because we&#39;re used to seeing him that way](http://9gag.com/gag/aYQ1x20)
+ - 👉 [Can&#39;t even smoke on your private jet? What&#39;s the point?](http://9gag.com/gag/aAyX3DE)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Qualcomm-funded report says Android phones with Qualcomm modems priced similarly to the iPhone 16e with a C1 modem downloaded 5G data up to 35% faster in NYC &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250527/p24#a250527p24)
- - [Remakes of the first two Dragon Quest games launch in October](https://www.theverge.com/news/674848/dragon-quest-1-2-remake-release-date)
- - [The best Memorial Day deals you can still grab](https://www.theverge.com/tech/670092/best-memorial-day-sales-2025)
- - [Nintendo partners with third-party websites to stop Switch 2 scalpers](https://www.theverge.com/news/674823/nintendo-switch-2-scalpers-third-party-retailers-japan-only)
- - [Mistral launches an API for agents, which can run code, make images, access docs, search the web, and &quot;hand off&quot; to other agents, similar to OpenAI&#39;s offerings &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250527/p23#a250527p23)<!-- TECH:END -->
+ - [A future iPhone may get a 200MP camera -- eventually](https://appleinsider.com/articles/25/05/27/a-future-iphone-may-get-a-200mp-camera----eventually?utm_medium=rss)
+ - [Sources: Neuralink raised $600M at a $9B pre-money valuation; PitchBook: the company was valued at $3.5B in late 2023 &lpar;Liz Hoffman/Semafor&rpar;](http://www.techmeme.com/250527/p25#a250527p25)
+ - [5 Facial Products to Protect Your Skin for a Day in the Sun](https://www.cnet.com/health/personal-care/5-facial-products-to-protect-your-skin-for-a-day-in-the-sun/#ftag=CAD590a51e)
+ - [The Best-Sounding Sony Bluetooth Speaker I&#39;ve Tested Is Still $80 Off](https://www.cnet.com/deals/the-best-sounding-sony-bluetooth-speaker-i-tested-is-80-off/#ftag=CAD590a51e)
+ - [Kia EV Truck: Here&#39;s Everything We Know So Far About the New Electric Pickup](https://www.cnet.com/roadshow/news/kia-ev-truck-everything-we-know-so-far-about-the-new-electric-pickup-coming-soon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

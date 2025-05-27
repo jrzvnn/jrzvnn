@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Okay Australia, showing off those fully engaged brains](http://9gag.com/gag/a4PqbWm)
+ - 😝 [When &#39;too much care&#39; is a crime.](http://9gag.com/gag/aE0XBPN)
+ - 💣 [The Emperor protects](http://9gag.com/gag/a87wo9d)
  - 😝 [My car makes the weirdest noises](http://9gag.com/gag/aQz2R7q)
- - 😝 [Can someone explain how thon work ?](http://9gag.com/gag/ajPKX08)
- - 💣 [When &#39;too much care&#39; is a crime.](http://9gag.com/gag/aE0XBPN)
- - 😝 [A simple tutorial for a handyman](http://9gag.com/gag/aYQ1g6m)
- - 👉 [Road rage is evolving, just not in a good way.](http://9gag.com/gag/aPAXYyq)<!-- MEMES:END -->
+ - 👉 [A pretty bad circle](http://9gag.com/gag/aNDRz6K)<!-- MEMES:END -->
 
 ---
 

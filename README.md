@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Starlink&#39;s Mini Dish Redefines On-the-Go Internet](https://www.cnet.com/home/internet/starlink-mini-dish-delivers-high-speed-internet-on-the-go/#ftag=CAD590a51e)
- - [Law firm sees opportunity to sue over Apple delaying Siri improvements](https://appleinsider.com/articles/25/05/27/law-firm-sees-opportunity-to-sue-over-apple-delaying-siri-improvements?utm_medium=rss)
- - [SpAItial, which is building text-to-3D environment generation tools, raised a $13M seed led by Earlybird and plans to license its foundation model to developers &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/250527/p12#a250527p12)
- - [Ninja Luxe Cafe Premier Espresso Machine Review: Beginner’s Luck](https://www.wired.com/review/luxe-cafe-premier-series-automatic-espresso-machine/)
- - [I Tested the iPhone 16E and Pixel 9A Cameras and the Results Were Stunning](https://www.cnet.com/tech/mobile/i-tested-the-iphone-16e-and-pixel-9a-cameras-and-the-results-were-stunning/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Stablecoin operator Circle files for an NYSE IPO and plans to offer 24M shares at $24 to $26 each, raising up to nearly $250M; Cathie Wood&#39;s ARK may buy $150M &lpar;Parikshit Mishra/CoinDesk&rpar;](http://www.techmeme.com/250527/p14#a250527p14)
+ - [The MagPod Is a Basic Smartphone Tripod I Can’t Live Without](https://www.wired.com/story/the-magpod-is-a-basic-smartphone-tripod-i-cant-live-without/)
+ - [OnePlus’ new ‘small’ phone isn&amp;#8217;t coming to the US, but its AI features are](https://www.theverge.com/news/674506/oneplus-13s-ai-plus-mind-key-button-india-availability)
+ - [Apple has a month to comply with EU antisteering mandate, or get fined again](https://appleinsider.com/articles/25/05/27/apple-has-a-month-to-comply-with-eu-antisteering-mandate-or-get-fined-again?utm_medium=rss)
+ - [Best AirPods Pro Alternatives: AirPods for Android and More](https://www.wired.com/gallery/best-airpods-alternatives/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

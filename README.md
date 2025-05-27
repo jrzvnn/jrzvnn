@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Invites now lets you share content &amp; sites with a new Link tile](https://appleinsider.com/articles/25/05/27/apple-invites-now-lets-you-share-content-sites-with-a-new-link-tile?utm_medium=rss)
  - [Circle aims to raise up to $624M in its US IPO, offering 24M shares at $24-$26 each, valuing it at ~$5.65B, or ~$6.7B fully diluted, at the top of the range &lpar;Bloomberg&rpar;](http://www.techmeme.com/250527/p36#a250527p36)
  - [Zscaler agrees to acquire Red Canary, a provider of managed detection and response services, for an undisclosed sum; the deal is expected to close in August &lpar;Greg Otto/CyberScoop&rpar;](http://www.techmeme.com/250527/p35#a250527p35)
- - [Apple acquires RAC7, the two-person studio behind the popular Apple Arcade game Sneaky Sasquatch, marking its first acquisition of a video game studio &lpar;Giovanni Colantonio/Digital Trends&rpar;](http://www.techmeme.com/250527/p34#a250527p34)
- - [Texas passes App Store age verification law, despite Tim Cook&#39;s concerns](https://appleinsider.com/articles/25/05/27/texas-passes-app-store-age-verification-law-despite-tim-cooks-concerns?utm_medium=rss)
- - [TSMC plans to open a design center in Munich in Q3 2025 to support European customers in designing chips for automotive, industrial, AI, and IoT applications &lpar;Nathan Vifflin/Reuters&rpar;](http://www.techmeme.com/250527/p33#a250527p33)<!-- TECH:END -->
+ - [Apple Buys Its First Ever Video Game Studio](https://www.cnet.com/tech/services-and-software/apple-buys-its-first-ever-video-game-studio/#ftag=CAD590a51e)
+ - [Apple acquires RAC7, the two-person studio behind the popular Apple Arcade game Sneaky Sasquatch, marking its first acquisition of a video game studio &lpar;Giovanni Colantonio/Digital Trends&rpar;](http://www.techmeme.com/250527/p34#a250527p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

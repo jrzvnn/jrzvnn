@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Suffering from success, the sequel.](http://9gag.com/gag/aYQ1KVm)
- - 😝 [Can someone explain how thon work ?](http://9gag.com/gag/ajPKX08)
- - 💣 [When &#39;too much care&#39; is a crime.](http://9gag.com/gag/aE0XBPN)
- - 😝 [Never discussed, never addressed](http://9gag.com/gag/aW42m43)
- - 👉 [Snoopy&#39;s bringing iron to the kitchen table](http://9gag.com/gag/an7DjVL)<!-- MEMES:END -->
+ - 😝 [Return to monke](http://9gag.com/gag/azxZXXb)
+ - 😝 [I wish you all pizza and goth girls](http://9gag.com/gag/ae92Mxq)
+ - 💣 [AGI is here.](http://9gag.com/gag/abA2My8)
+ - 😝 [Mom&#39;s weekend rules are... quite specific.](http://9gag.com/gag/aQz2e87)
+ - 👉 [When people cant tell the difference between AI and 3D anymore](http://9gag.com/gag/azxZX8b)<!-- MEMES:END -->
 
 ---
 

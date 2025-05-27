@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple says its App Store blocked $9B+ in fraudulent transactions over the past five years, with $2B in just 2024, and rejected ~2M risky app submissions in 2024 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250527/p20#a250527p20)
+ - [Memo: nearly all of CISA&#39;s top leaders, including heads of 5 of its 6 operational divisions and 6 of 10 regional offices, have left or are leaving this month &lpar;Eric Geller/Cybersecurity Dive&rpar;](http://www.techmeme.com/250527/p19#a250527p19)
  - [iPhone buyers worldwide may see higher prices because of Trump&#39;s tariffs](https://appleinsider.com/articles/25/05/27/iphone-buyers-worldwide-may-see-higher-prices-because-of-trumps-tariffs?utm_medium=rss)
  - [The Browser Company explains why it stopped developing Arc](https://www.theverge.com/news/674603/arc-browser-development-stopped-dia-browser-company)
- - [NPR sues Trump over executive order cutting funding for public broadcasting](https://www.theverge.com/news/674754/npr-lawsuit-trump-executive-order-cutting-funding-pbs)
- - [Meta launches a dedicated iPad app for WhatsApp &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250527/p18#a250527p18)
- - [The PS5 will be cheaper than the Switch 2 for a limited time](https://www.theverge.com/news/674677/ps5-sale-summer-2025-us-sony-play-days-summer-game-fest)<!-- TECH:END -->
+ - [NPR sues Trump over executive order cutting funding for public broadcasting](https://www.theverge.com/news/674754/npr-lawsuit-trump-executive-order-cutting-funding-pbs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Qualcomm study unsurprisingly says Qualcomm modems beat Apple&#39;s C1](https://appleinsider.com/articles/25/05/27/qualcomm-study-unsurprisingly-says-qualcomm-modems-beat-apples-c1?utm_medium=rss)
  - [Tesla continues to circle the drain](https://www.theverge.com/news/675058/tesla-europe-april-sales-musk-doge-brand-crisis)
  - [Apple Invites now lets you share content &amp; sites with a new Link tile](https://appleinsider.com/articles/25/05/27/apple-invites-now-lets-you-share-content-sites-with-a-new-link-tile?utm_medium=rss)
  - [Razer&amp;#8217;s Blade 18 laptop price jumps $300, to $3,499.99](https://www.theverge.com/news/675146/razer-blade-18-price-hike-gaming-laptop)
- - [Apple acquires tiny two-person &#39;Sneaky Sasquatch&#39; developer RAC7](https://appleinsider.com/articles/25/05/27/apple-acquires-tiny-two-person-sneaky-sasquatch-developer-rac7?utm_medium=rss)
- - [eBay is cutting more than 200 jobs at TCGplayer](https://www.theverge.com/news/675116/ebay-tcgplayer-200-jobs-layoffs-syracuse)<!-- TECH:END -->
+ - [Apple acquires tiny two-person &#39;Sneaky Sasquatch&#39; developer RAC7](https://appleinsider.com/articles/25/05/27/apple-acquires-tiny-two-person-sneaky-sasquatch-developer-rac7?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

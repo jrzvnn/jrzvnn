@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [European industrial groups Schneider, Siemens, ABB, and Legrand collectively added €151B in market value due to AI demand after ChatGPT&#39;s November 2022 launch &lpar;Financial Times&rpar;](http://www.techmeme.com/250527/p10#a250527p10)
  - [The European Commission says it is investigating Pornhub, Stripchat, XNXX, and XVideos for potential child safety DSA violations &quot;as a matter of priority&quot; &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/250527/p9#a250527p9)
  - [The Privacy-Friendly Tech to Replace Your US-Based Email, Browser, and Search](https://www.wired.com/story/the-privacy-friendly-tech-to-replace-your-us-based-email-browser-and-search/)
  - [Tap to Pay on iPhone comes to still more European countries](https://appleinsider.com/articles/25/05/27/tap-to-pay-on-iphone-comes-to-still-more-european-countries?utm_medium=rss)
- - [Documents: self-driving truck startup TuSimple transferred critical autonomous driving tech and data to Chinese partners despite a 2022 agreement with CFIUS &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/250527/p8#a250527p8)
- - [Who’s to Blame When AI Agents Screw Up?](https://www.wired.com/story/ai-agents-legal-liability-issues/)<!-- TECH:END -->
+ - [Documents: self-driving truck startup TuSimple transferred critical autonomous driving tech and data to Chinese partners despite a 2022 agreement with CFIUS &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/250527/p8#a250527p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

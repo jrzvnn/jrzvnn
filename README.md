@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stablecoin operator Circle files for an NYSE IPO and plans to offer 24M shares at $24 to $26 each, raising up to nearly $250M; Cathie Wood&#39;s ARK may buy $150M &lpar;Parikshit Mishra/CoinDesk&rpar;](http://www.techmeme.com/250527/p14#a250527p14)
- - [The MagPod Is a Basic Smartphone Tripod I Can’t Live Without](https://www.wired.com/story/the-magpod-is-a-basic-smartphone-tripod-i-cant-live-without/)
- - [OnePlus’ new ‘small’ phone isn&amp;#8217;t coming to the US, but its AI features are](https://www.theverge.com/news/674506/oneplus-13s-ai-plus-mind-key-button-india-availability)
- - [Apple has a month to comply with EU antisteering mandate, or get fined again](https://appleinsider.com/articles/25/05/27/apple-has-a-month-to-comply-with-eu-antisteering-mandate-or-get-fined-again?utm_medium=rss)
- - [Best AirPods Pro Alternatives: AirPods for Android and More](https://www.wired.com/gallery/best-airpods-alternatives/)<!-- TECH:END -->
+ - [With the Switch, technology finally caught up to Nintendo](https://www.theverge.com/games/671323/nintendo-switch-2-wii-u-technology-games)
+ - [Nothing CEO takes shots at Apple, ludicrously says that apps are going away](https://appleinsider.com/articles/25/05/27/nothing-ceo-takes-shots-at-apple-ludicrously-says-that-apps-are-going-away?utm_medium=rss)
+ - [Shein’s ‘fake discounts’ break the law, EU says](https://www.theverge.com/news/674575/shein-fake-discounts-eu-consumer-protection-law)
+ - [Inside the Meta monopoly trial](https://www.theverge.com/the-vergecast/674550/meta-antitrust-trial-monopoly-vergecast)
+ - [Stablecoin operator Circle files for an NYSE IPO and plans to offer 24M shares at $24 to $26 each, raising up to nearly $250M; Cathie Wood&#39;s ARK may buy $150M &lpar;Parikshit Mishra/CoinDesk&rpar;](http://www.techmeme.com/250527/p14#a250527p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

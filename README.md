@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [AGI is here.](http://9gag.com/gag/abA2My8)
- - 😝 [Mom&#39;s weekend rules are... quite specific.](http://9gag.com/gag/aQz2e87)
- - 💣 [Return to monke](http://9gag.com/gag/azxZXXb)
- - 😝 [When people cant tell the difference between AI and 3D anymore](http://9gag.com/gag/azxZX8b)
+ - 😝 [STEPHAAAAN](http://9gag.com/gag/azxZX3m)
+ - 😝 [A pretty bad circle](http://9gag.com/gag/aNDRz6K)
+ - 💣 [When &#39;too much care&#39; is a crime.](http://9gag.com/gag/aE0XBPN)
+ - 😝 [Can someone explain how thon work ?](http://9gag.com/gag/ajPKX08)
  - 👉 [The Emperor protects](http://9gag.com/gag/a87wo9d)<!-- MEMES:END -->
 
 ---

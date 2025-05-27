@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My pirating skills are getting rusty](http://9gag.com/gag/aZZ23n0)
- - 😝 [Who did it best](http://9gag.com/gag/aO81r2N)
- - 💣 [The Emperor protects](http://9gag.com/gag/a87wo9d)
- - 😝 [Can someone explain how thon work ?](http://9gag.com/gag/ajPKX08)
- - 👉 [Snoopy&#39;s bringing iron to the kitchen table](http://9gag.com/gag/an7DjVL)<!-- MEMES:END -->
+ - 😝 [The Fench....](http://9gag.com/gag/a2vbZMY)
+ - 😝 [Mom&#39;s weekend rules are... quite specific.](http://9gag.com/gag/aQz2e87)
+ - 💣 [When people cant tell the difference between AI and 3D anymore](http://9gag.com/gag/azxZX8b)
+ - 😝 [Return to monke](http://9gag.com/gag/azxZXXb)
+ - 👉 [Well, technically... she delivered?](http://9gag.com/gag/azxZ98q)<!-- MEMES:END -->
 
 ---
 

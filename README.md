@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can&#39;t even smoke on your private jet? What&#39;s the point?](http://9gag.com/gag/aAyX3DE)
- - 😝 [Origin compilation - how many did you actually know?](http://9gag.com/gag/aO8109M)
- - 💣 [Mission Impossible: Stadium Edition](http://9gag.com/gag/aGy2Zew)
- - 😝 [Well, technically... she delivered?](http://9gag.com/gag/azxZ98q)
- - 👉 [The Emperor protects](http://9gag.com/gag/a87wo9d)<!-- MEMES:END -->
+ - 😝 [Alright, who taught the quiet kid how to breakdance?](http://9gag.com/gag/a9yXAO0)
+ - 😝 [My car makes the weirdest noises](http://9gag.com/gag/aQz2R7q)
+ - 💣 [My pirating skills are getting rusty](http://9gag.com/gag/aZZ23n0)
+ - 😝 [Probably because we&#39;re used to seeing him that way](http://9gag.com/gag/aYQ1x20)
+ - 👉 [Never discussed, never addressed](http://9gag.com/gag/aW42m43)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Baseball is totally safe, look at that arm](http://9gag.com/gag/abA2zMp)
- - 😝 [Can&#39;t even smoke on your private jet? What&#39;s the point?](http://9gag.com/gag/aAyX3DE)
- - 💣 [A simple tutorial for a handyman](http://9gag.com/gag/aYQ1g6m)
- - 😝 [Ken knew what he was doing](http://9gag.com/gag/awy4AOW)
- - 👉 [The Fench....](http://9gag.com/gag/a2vbZMY)<!-- MEMES:END -->
+ - 😝 [My car makes the weirdest noises](http://9gag.com/gag/aQz2R7q)
+ - 😝 [A simple tutorial for a handyman](http://9gag.com/gag/aYQ1g6m)
+ - 💣 [Can&#39;t even smoke on your private jet? What&#39;s the point?](http://9gag.com/gag/aAyX3DE)
+ - 😝 [The Fench....](http://9gag.com/gag/a2vbZMY)
+ - 👉 [Snoopy&#39;s bringing iron to the kitchen table](http://9gag.com/gag/an7DjVL)<!-- MEMES:END -->
 
 ---
 

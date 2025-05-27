@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple acquires tiny two-person &#39;Sneaky Sasquatch&#39; developer RAC7](https://appleinsider.com/articles/25/05/27/apple-acquires-tiny-two-person-sneaky-sasquatch-developer-rac7?utm_medium=rss)
+ - [Memo: the Trump admin pauses new student visa interviews as it mulls requiring all foreign students applying to study in the US to undergo social media vetting &lpar;Nahal Toosi/Politico&rpar;](http://www.techmeme.com/250527/p28#a250527p28)
  - [More US states are rolling out subsidies for satellite connectivity in rural areas, including some that have funded programs that exclusively subsidize Starlink &lpar;Patience Haggin/Wall Street Journal&rpar;](http://www.techmeme.com/250527/p27#a250527p27)
  - [Donald Trump’s Media Conglomerate Is Becoming a Bitcoin Reserve](https://www.wired.com/story/donald-trumps-media-conglomerate-is-becoming-a-bitcoin-reserve/)
- - [Celebrate PlayStation Days of Play With NBA 2K25 and More on PS Plus in June](https://www.cnet.com/tech/services-and-software/celebrate-playstation-days-of-play-with-nba-2k25-and-more-on-ps-plus-in-june/#ftag=CAD590a51e)
- - [Texas enacts an online child-safety bill requiring app stores verify users&#39; ages and secure parental approval before minors can get most apps or make IAPs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250527/p26#a250527p26)
- - [Wait! Don&#39;t Move Your Retirement Fund From the Stock Market to a CD Before Reading This](https://www.cnet.com/personal-finance/wait-dont-move-your-retirement-fund-from-the-stock-market-to-a-cd-before-reading-this/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Texas enacts an online child-safety bill requiring app stores verify users&#39; ages and secure parental approval before minors can get most apps or make IAPs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250527/p26#a250527p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

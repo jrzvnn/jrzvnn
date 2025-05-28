@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your tap water has tiny monsters with chainsaws](http://9gag.com/gag/a34WQ7e)
  - 😝 [This is how a female gorilla courts a male](http://9gag.com/gag/aE0Xg3o)
+ - 😝 [When scary movie requests go horrifyingly wrong](http://9gag.com/gag/azxZ96m)
  - 💣 [When your motor spins faster than a jet engine...](http://9gag.com/gag/aVv2Y3v)
  - 😝 [Fine](http://9gag.com/gag/aMVXxv1)
- - 👉 [Florida woman strikes again](http://9gag.com/gag/aByXgZz)<!-- MEMES:END -->
+ - 👉 [Been there](http://9gag.com/gag/aGy2gqG)<!-- MEMES:END -->
 
 ---
 

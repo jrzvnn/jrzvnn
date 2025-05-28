@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your motor spins faster than a jet engine...](http://9gag.com/gag/aVv2Y3v)
- - 😝 [The gypsy trap worked](http://9gag.com/gag/ae925yb)
- - 💣 [Fine](http://9gag.com/gag/aMVXxv1)
+ - 😝 [Probably the most accurate portrayal of a body swap I&#39;ve ever seen.](http://9gag.com/gag/amoVvL9)
+ - 😝 [Husband sets up a demonstration for his wife to answer why men miss the \ud83d\udebd on occasion](http://9gag.com/gag/aGy2pVz)
+ - 💣 [When scary movie requests go horrifyingly wrong](http://9gag.com/gag/azxZ96m)
  - 😝 [Been there](http://9gag.com/gag/aGy2gqG)
- - 👉 [Probably the most accurate portrayal of a body swap I&#39;ve ever seen.](http://9gag.com/gag/amoVvL9)<!-- MEMES:END -->
+ - 👉 [Fine](http://9gag.com/gag/aMVXxv1)<!-- MEMES:END -->
 
 ---
 

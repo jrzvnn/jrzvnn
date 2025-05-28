@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo Switch Online N64 games are getting Rewind — but only on Switch 2](https://www.theverge.com/news/675429/nintendo-switch-online-n64-games-rewind-crt-filter-controls-switch-2-exclusive)
  - [Indian documents and emails: CCTV makers clashed with Indian regulators over rules requiring government labs to assess hardware, software, and source code &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/250528/p11#a250528p11)
  - [A look at Sea-Lion, a $52M Singapore government-backed AI initiative developing LLMs attuned to the societal and cultural nuances of the Southeast Asian region &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250528/p10#a250528p10)
  - [Opera’s new AI browser promises to write code while you sleep](https://www.theverge.com/news/675406/opera-neon-ai-agentic-browser-chat-do-make-launch-release-date)
- - [A look at issues facing self-driving trucks in the US as Aurora, whose new truck has logged 1,000+ driverless miles on I-45, aims for 20+ trucks by year&#39;s end &lpar;Tim Balk/New York Times&rpar;](http://www.techmeme.com/250528/p9#a250528p9)
- - [A profile of Byju&#39;s CEO Byju Raveendran, who refuses to take responsibility for the edtech company&#39;s implosion and is accused of hiding $533M from US lenders &lpar;Yudhijit Bhattacharjee/Rest of World&rpar;](http://www.techmeme.com/250528/p8#a250528p8)<!-- TECH:END -->
+ - [A look at issues facing self-driving trucks in the US as Aurora, whose new truck has logged 1,000+ driverless miles on I-45, aims for 20+ trucks by year&#39;s end &lpar;Tim Balk/New York Times&rpar;](http://www.techmeme.com/250528/p9#a250528p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

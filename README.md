@@ -157,10 +157,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple rumored to release iOS 26 at WWDC, instead of iOS 19](https://appleinsider.com/articles/25/05/28/apple-rumored-to-release-ios-26-at-wwdc-instead-of-ios-19?utm_medium=rss)
  - [Dyson’s purple, powerful robovac is on sale for its lowest price ever](https://www.theverge.com/tech/674708/dyson-360-vis-nav-robot-vacuum-jbl-go-4-speaker-deal-sale)
  - [Marco Rubio says the US will impose visa bans on foreign nationals &quot;who censor Americans&quot; and calls arrest warrants for social media posts &quot;unacceptable&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/250528/p33#a250528p33)
  - [Sources: the US Commerce Department has told electronic design automation groups, which include Cadence and Synopsys, to stop supplying their tech to China &lpar;Financial Times&rpar;](http://www.techmeme.com/250528/p32#a250528p32)
- - [Apple rumored to release iOS 26 at WWDC, instead of iOS 19](https://appleinsider.com/articles/25/05/28/apple-rumored-to-release-ios-26-at-wwdc-instead-of-ios-19?utm_medium=rss)
  - [Apple is reportedly going to rename all of its operating systems](https://www.theverge.com/news/675945/apple-operating-systems-new-name-year-ios-macos)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

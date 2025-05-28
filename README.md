@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [10% Off Canon Promo Code &amp; Coupons](https://www.wired.com/story/canon-promo-code/)
  - [Chinese state-backed Hygon, which makes server CPUs, and server maker Sugon have agreed to merge; Hygon has a market cap of ~$43.9B, while Sugon&#39;s is ~$12.6B &lpar;Wataru Suzuki/Nikkei Asia&rpar;](http://www.techmeme.com/250528/p2#a250528p2)
+ - [T-Mobile Responds to New App Setting That Records Your Phone&#39;s Screen](https://www.cnet.com/tech/mobile/t-mobile-responds-to-new-app-setting-that-records-your-phones-screen/#ftag=CAD590a51e)
  - [SignalFire: startups and Big Tech firms cut hiring of recent graduates by 11% and 25% respectively in 2024 vs. 2023, as AI can handle routine, low-risk tasks &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250528/p1#a250528p1)
- - [Sources: Unacademy cofounder Gaurav Munjal is stepping down as CEO, as the company pivots to in-person coaching centers and its Duolingo-like learning app &lpar;Samidha Sharma/The Economic Times&rpar;](http://www.techmeme.com/250527/p41#a250527p41)
- - [How to use MacDisk software to read vintage Mac floppies on your Windows PC](https://appleinsider.com/inside/macos/tips/how-to-use-macdisk-software-to-read-vintage-mac-floppies-on-your-windows-pc?utm_medium=rss)
- - [The EU has published its April 23 decision to fine Apple €500M for DMA non-compliance; Apple has until end of June to be in compliance or face periodic fines &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/250527/p40#a250527p40)<!-- TECH:END -->
+ - [Save Money on a White Noise Machine by Using Your iPhone Instead](https://www.cnet.com/tech/services-and-software/save-money-on-a-white-noise-machine-by-using-your-iphone-instead/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

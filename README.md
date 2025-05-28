@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Respect for this legend who prioritized family.](http://9gag.com/gag/aO8138N)
- - 😝 [Lost and found in Japan hits different.](http://9gag.com/gag/agm2Ay6)
- - 💣 [My dad&#39;s old wallet is basically a magic trick](http://9gag.com/gag/aRB27Ry)
- - 😝 [Game store employees are not ready for these trade-ins](http://9gag.com/gag/aryBnKy)
- - 👉 [This Is Art\u2026 I Think?](http://9gag.com/gag/avyvAZq)<!-- MEMES:END -->
+ - 😝 [Elder Scroll 6 will be disaster](http://9gag.com/gag/a0eE7Az)
+ - 😝 [Husband sets up a demonstration for his wife to answer why men miss the \ud83d\udebd on occasion](http://9gag.com/gag/aGy2pVz)
+ - 💣 [Ken knew what he was doing](http://9gag.com/gag/awy4AOW)
+ - 😝 [Baby&#39;s got blue eyes](http://9gag.com/gag/aNDR0b3)
+ - 👉 [Work hard](http://9gag.com/gag/aAyXb82)<!-- MEMES:END -->
 
 ---
 

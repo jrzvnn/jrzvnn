@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India asks e-commerce platforms and retailers to remove &quot;dark patterns&quot; or deceptive actions that manipulate customers into making unintended purchases &lpar;Bloomberg&rpar;](http://www.techmeme.com/250528/p35#a250528p35)
+ - [These new Switch 2 accessories are already discounted](https://www.theverge.com/tech/675808/nintendo-switch-2-hori-accessory-deal-sale)
+ - [Spotify is adding a Following feed for podcasts](https://www.theverge.com/news/676024/spotify-podcasts-following-feed-home-recommendations)
  - [Apple rumored to release iOS 26 at WWDC, instead of iOS 19](https://appleinsider.com/articles/25/05/28/apple-rumored-to-release-ios-26-at-wwdc-instead-of-ios-19?utm_medium=rss)
- - [Sources: Elon Musk tried to derail OpenAI&#39;s Abu Dhabi deal, telling G42 officials that there was no chance of Trump signing off on it unless xAI was included &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250528/p34#a250528p34)
- - [EA cancels Black Panther game](https://www.theverge.com/news/675923/black-panther-cancelled-cliffhanger-studios-shut-down-ea)
- - [Why Anthropic&#39;s New AI Model Sometimes Tries to ‘Snitch’](https://www.wired.com/story/anthropic-claude-snitch-emergent-behavior/)
- - [Dyson’s purple, powerful robovac is on sale for its lowest price ever](https://www.theverge.com/tech/674708/dyson-360-vis-nav-robot-vacuum-jbl-go-4-speaker-deal-sale)<!-- TECH:END -->
+ - [Sources: Elon Musk tried to derail OpenAI&#39;s Abu Dhabi deal, telling G42 officials that there was no chance of Trump signing off on it unless xAI was included &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250528/p34#a250528p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

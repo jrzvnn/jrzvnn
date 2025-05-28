@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Probably the most accurate portrayal of a body swap I&#39;ve ever seen.](http://9gag.com/gag/amoVvL9)
- - 😝 [Husband sets up a demonstration for his wife to answer why men miss the \ud83d\udebd on occasion](http://9gag.com/gag/aGy2pVz)
- - 💣 [When scary movie requests go horrifyingly wrong](http://9gag.com/gag/azxZ96m)
- - 😝 [Been there](http://9gag.com/gag/aGy2gqG)
- - 👉 [Fine](http://9gag.com/gag/aMVXxv1)<!-- MEMES:END -->
+ - 😝 [Respect for this legend who prioritized family.](http://9gag.com/gag/aO8138N)
+ - 😝 [Lost and found in Japan hits different.](http://9gag.com/gag/agm2Ay6)
+ - 💣 [My dad&#39;s old wallet is basically a magic trick](http://9gag.com/gag/aRB27Ry)
+ - 😝 [Game store employees are not ready for these trade-ins](http://9gag.com/gag/aryBnKy)
+ - 👉 [This Is Art\u2026 I Think?](http://9gag.com/gag/avyvAZq)<!-- MEMES:END -->
 
 ---
 

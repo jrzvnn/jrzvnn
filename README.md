@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Been there](http://9gag.com/gag/aGy2gqG)
- - 😝 [When your motor spins faster than a jet engine...](http://9gag.com/gag/aVv2Y3v)
- - 💣 [When scary movie requests go horrifyingly wrong](http://9gag.com/gag/azxZ96m)
+ - 😝 [Ken knew what he was doing](http://9gag.com/gag/awy4AOW)
+ - 😝 [When scary movie requests go horrifyingly wrong](http://9gag.com/gag/azxZ96m)
+ - 💣 [When your motor spins faster than a jet engine...](http://9gag.com/gag/aVv2Y3v)
  - 😝 [Fine](http://9gag.com/gag/aMVXxv1)
- - 👉 [Florida woman strikes again](http://9gag.com/gag/aByXgZz)<!-- MEMES:END -->
+ - 👉 [Been there](http://9gag.com/gag/aGy2gqG)<!-- MEMES:END -->
 
 ---
 

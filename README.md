@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The view is quite impressive](http://9gag.com/gag/a5QjoMN)
+ - 😝 [Just a casual day in the backyard...](http://9gag.com/gag/ajPKEpQ)
+ - 😝 [Well, technically...](http://9gag.com/gag/aoy8e13)
+ - 💣 [Derby &lpar;England&rpar; new mayor](http://9gag.com/gag/avyvz7b)
  - 😝 [Built too well for capitalism.](http://9gag.com/gag/a5QjMoo)
- - 💣 [When your ex&#39;s little sister is the real one.](http://9gag.com/gag/aO81rv3)
- - 😝 [Is this the secret?](http://9gag.com/gag/aZZ2yMX)
- - 👉 [Ken knew what he was doing](http://9gag.com/gag/awy4AOW)<!-- MEMES:END -->
+ - 👉 [When your ex&#39;s little sister is the real one.](http://9gag.com/gag/aO81rv3)<!-- MEMES:END -->
 
 ---
 

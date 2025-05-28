@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 Pro Max rumored thickness shown off in new video](https://appleinsider.com/articles/25/05/28/iphone-17-pro-max-rumored-thickness-shown-off-in-new-video?utm_medium=rss)
- - [The Nintendo Switch was an indie game haven, until it was overrun with slop](https://www.theverge.com/nintendo/671658/nintendo-switch-indie-games-eshop-legacy)
- - [Nintendo&amp;#8217;s new era: looking back at the Switch and ahead to the next generation](https://www.theverge.com/nintendo/674887/nintendo-new-era-switch-2-next-gen)
- - [Microsoft starts testing Xbox Copilot on iOS and Android](https://www.theverge.com/news/675456/microsoft-xbox-copilot-gaming-ios-android-update)
- - [The Best E-Readers, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-ereaders/)<!-- TECH:END -->
+ - [Nancy Mace&#39;s Former Staff Claim She Had Them Create Burner Accounts to Promote Her](https://www.wired.com/story/nancy-mace-former-staff-burner-accounts/)
+ - [You can track Satechi’s new glasses case using Apple’s Find My network](https://www.theverge.com/news/674870/satechi-findall-tracker-glasses-luggage-tag-card-keychain-apple-find-my-network)
+ - [CD Projekt Red is moving forward with Cyberpunk 2](https://www.theverge.com/news/675651/cd-projekt-red-cyberpunk-2-project-orion)
+ - [&#39;Grand Theft Auto&#39; Publisher Swaps DEI for &#39;Diversity of Thought&#39; in Annual Report](https://www.wired.com/story/grand-theft-autos-publisher-abandons-dei-for-diversity-of-thought-in-annual-report/)
+ - [iPhone 17 Pro Max rumored thickness shown off in new video](https://appleinsider.com/articles/25/05/28/iphone-17-pro-max-rumored-thickness-shown-off-in-new-video?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

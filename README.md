@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft starts testing Xbox Copilot on iOS and Android](https://www.theverge.com/news/675456/microsoft-xbox-copilot-gaming-ios-android-update)
+ - [The Best E-Readers, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-ereaders/)
+ - [The Nintendo Switch’s complicated legacy with indie games](https://www.theverge.com/nintendo/671658/nintendo-switch-indie-games-eshop-legacy)
  - [Ford recalls over 1 million vehicles for glitchy rearview cameras](https://www.theverge.com/news/675570/ford-recall-1-million-vehicles-rearview-cameras)
- - [In Q1 2025, the iPhone 16 was the best selling smartphone globally, followed by the iPhone 16 Pro Max, 16 Pro, 15, Samsung Galaxy A16, Galaxy A06, and S25 Ultra &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250528/p27#a250528p27)
- - [Anker’s new wireless earbuds come with a case that can also charge your phone](https://www.theverge.com/news/675560/anker-soundcore-p41i-wireless-earbuds-power-bank-battery-charger)
- - [Deals: Apple&#39;s 15-inch M4 MacBook Air with 24GB RAM plunges to record low $1,375](https://appleinsider.com/articles/25/05/28/deals-apples-15-inch-m4-macbook-air-with-24gb-ram-plunges-to-record-low-1375?utm_medium=rss)
- - [I’ve Tested the Best Laser Cutters and Engravers of 2025 and Number Three Was Loads of Fun](https://www.cnet.com/tech/computing/the-best-laser-cutters-and-engravers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In Q1 2025, the iPhone 16 was the best selling smartphone globally, followed by the iPhone 16 Pro Max, 16 Pro, 15, Samsung Galaxy A16, Galaxy A06, and S25 Ultra &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250528/p27#a250528p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

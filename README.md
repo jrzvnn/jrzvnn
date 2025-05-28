@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The more you know *wink *wink](http://9gag.com/gag/aKGYmPW)
- - 😝 [Work hard](http://9gag.com/gag/aAyXb82)
+ - 😝 [When scary movie requests go horrifyingly wrong](http://9gag.com/gag/azxZ96m)
+ - 😝 [Red flag spotted at the zoo entrance.](http://9gag.com/gag/aLnXwdv)
  - 💣 [Baby&#39;s got blue eyes](http://9gag.com/gag/aNDR0b3)
- - 😝 [Well, that didn&#39;t go as planned.](http://9gag.com/gag/aD2X45w)
- - 👉 [The gypsy trap worked](http://9gag.com/gag/ae925yb)<!-- MEMES:END -->
+ - 😝 [Work hard](http://9gag.com/gag/aAyXb82)
+ - 👉 [Been there](http://9gag.com/gag/aGy2gqG)<!-- MEMES:END -->
 
 ---
 

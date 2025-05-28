@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s DIY repair program now covers iPads](https://www.theverge.com/news/675475/apple-self-service-repair-progam-ipad-air-pro-mini)
- - [Customers can now fix iPads at home with Self Service Repair](https://appleinsider.com/articles/25/05/28/customers-can-now-fix-ipads-at-home-with-self-service-repair?utm_medium=rss)
- - [African e-commerce giant Jumia says it is ramping up the number of China-based merchants on its platform, as it faces competition from Temu and Shein &lpar;Olumuyiwa Olowogboyega/Semafor&rpar;](http://www.techmeme.com/250528/p17#a250528p17)
- - [Filing: GameStop acquires 4,710 bitcoin for its corporate treasury, but does not disclose the total purchase amount, after announcing a bitcoin plan in March &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/250528/p16#a250528p16)
- - [White House says Trump doesn&#39;t want to harm Apple and iPhone prices won&#39;t rise](https://appleinsider.com/articles/25/05/28/white-house-says-trump-doesnt-want-to-harm-apple-and-iphone-prices-wont-rise?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft Surface Laptop 13 review: exquisite hardware, great keyboard, trackpad, and battery, and a 3:2 display, but Snapdragon X has app compatibility issues &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/250528/p20#a250528p20)
+ - [DeepSeek completes a &quot;minor trial upgrade&quot; to R1 and says users can now start testing it, according to its post in an official WeChat group &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250528/p19#a250528p19)
+ - [Mushroom Supplements Are the Biohackers&#39; Latest Fix &lpar;2025&rpar;](https://www.wired.com/story/the-wired-guide-to-mushroom-supplements/)
+ - [Surface Laptop 13-inch review: a little less for a little less](https://www.theverge.com/reviews/671554/microsoft-surface-laptop-13-inch-review)
+ - [AirPods Max vs Sony XM6 - Over-ear headphones shootout](https://appleinsider.com/inside/airpods-max/vs/airpods-max-vs-sony-xm6---over-ear-headphones-shootout?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

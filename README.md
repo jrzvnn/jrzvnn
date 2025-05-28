@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [macOS 26 may not support 2018 MacBook Pros, 2019 iMacs, or the iMac Pro](https://appleinsider.com/articles/25/05/28/macos-26-may-not-support-2018-macbook-pros-2019-imacs-or-the-imac-pro?utm_medium=rss)
  - [Conduit, whose cross-border payments network integrates stablecoins and local currencies, raised a $36M Series A co-led by Dragonfly and Altos Ventures &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/250528/p43#a250528p43)
  - [A Kaiser Permanente systems outage has pharmacies relying on pen and paper](https://www.theverge.com/news/676141/kaiser-permanente-outage-pharmacies-pen-paper)
- - [X says it&#39;s pausing the encrypted DMs feature to &quot;work on making some improvements&quot;; users can view previous encrypted DMs but cannot send new ones &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/250528/p42#a250528p42)<!-- TECH:END -->
+ - [10 of the Best Horror Movies to Stream on Max](https://www.cnet.com/tech/services-and-software/10-of-the-best-horror-movies-to-watch-on-max-may-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

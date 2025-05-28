@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Red flag spotted at the zoo entrance.](http://9gag.com/gag/aLnXwdv)
- - 😝 [When scary movie requests go horrifyingly wrong](http://9gag.com/gag/azxZ96m)
+ - 😝 [When the food hits the water...](http://9gag.com/gag/aRB2XBG)
+ - 😝 [From the archives](http://9gag.com/gag/aryBMg0)
  - 💣 [Been there](http://9gag.com/gag/aGy2gqG)
- - 😝 [Elder Scroll 6 will be disaster](http://9gag.com/gag/a0eE7Az)
- - 👉 [Baby&#39;s got blue eyes](http://9gag.com/gag/aNDR0b3)<!-- MEMES:END -->
+ - 😝 [Baby&#39;s got blue eyes](http://9gag.com/gag/aNDR0b3)
+ - 👉 [Husband sets up a demonstration for his wife to answer why men miss the \ud83d\udebd on occasion](http://9gag.com/gag/aGy2pVz)<!-- MEMES:END -->
 
 ---
 

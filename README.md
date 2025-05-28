@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Much Will the iPhone 17 Cost? Tariff Math Puts the Price Over $4,000](https://www.cnet.com/tech/mobile/how-much-will-the-iphone-17-cost/#ftag=CAD590a51e)
+ - [Rillet raised a $25M Sequoia-led Series A and has added ~200 customers, including Windsurf, since debuting an AI tool in 2024 to automate general ledger systems &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250528/p30#a250528p30)
+ - [NBA Playoffs 2025: How to Watch Timberwolves vs. Thunder Game 5 Tonight](https://www.cnet.com/tech/services-and-software/nba-playoffs-2025-how-to-watch-timberwolves-vs-thunder-game-5-tonight/#ftag=CAD590a51e)
  - [US will ban foreign officials to punish countries for social media rules](https://www.theverge.com/news/675811/us-immigration-visas-censorship-content-moderation-europe-digital-services-act)
- - [10 Best Juicers &lpar;2025&rpar;: Centrifugal, Slow, Masticating](https://www.wired.com/gallery/best-juicer/)
- - [iPhone satellite features arrive in Mexico to bridge signal gaps](https://appleinsider.com/articles/25/05/28/iphone-satellite-features-arrive-in-mexico-to-bridge-signal-gaps?utm_medium=rss)
- - [Apple’s Logic Pro now saves your takes even if you forget to hit record](https://www.theverge.com/news/675741/apple-logic-pro-flashback-capture)
- - [Brisk It Zelos-450 AI smart grill review: Excellent grill, decent iPhone app, skip the AI](https://appleinsider.com/articles/25/05/28/brisk-it-zelos-450-ai-smart-grill-review-excellent-grill-decent-iphone-app-skip-the-ai?utm_medium=rss)<!-- TECH:END -->
+ - [Power Grids Under Pressure: US Areas at Risk of Blackouts This Summer](https://www.cnet.com/home/energy-and-utilities/power-grids-under-pressure-us-areas-at-risk-of-blackouts-during-the-summer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

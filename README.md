@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [China, we have a problem](http://9gag.com/gag/aAyXgoE)
- - 😝 [When your ex&#39;s little sister is the real one.](http://9gag.com/gag/aO81rv3)
- - 💣 [Derby &lpar;England&rpar; new mayor](http://9gag.com/gag/avyvz7b)
- - 😝 [Do you want something else with the beer?](http://9gag.com/gag/a5QjMwq)
- - 👉 [Ken knew what he was doing](http://9gag.com/gag/awy4AOW)<!-- MEMES:END -->
+ - 😝 [Is this the secret?](http://9gag.com/gag/aZZ2yMX)
+ - 😝 [This is how a female gorilla courts a male](http://9gag.com/gag/aE0Xg3o)
+ - 💣 [Bubbleception](http://9gag.com/gag/aGy2Z5z)
+ - 😝 [When your tap water has tiny monsters with chainsaws](http://9gag.com/gag/a34WQ7e)
+ - 👉 [The view is quite impressive](http://9gag.com/gag/a5QjoMN)<!-- MEMES:END -->
 
 ---
 

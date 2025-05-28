@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 Best Massagers for People Who Don’t Have Time to Relax &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-massagers/)
- - [Pavel Durov says Telegram and xAI agreed a one-year deal to distribute Grok; Telegram will get $300M in cash and equity from xAI and 50% of subscription revenue &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/250528/p22#a250528p22)
- - [Keita Takahashi returns with the whimsically weird To a T](https://www.theverge.com/games-review/674577/to-a-t-review-keita-takahashi-ps5-xbox-pc)
- - [Discord&amp;#8217;s new currency pays users to interact with ads](https://www.theverge.com/news/675481/discord-orbs-currency-quests-ads)
- - [Global Payments says it will sell its Heartland Payroll Solutions unit, which has 50K+ clients, to Michigan-based fintech Acrisure for $1.1B, closing in H2 2025 &lpar;Reuters&rpar;](http://www.techmeme.com/250528/p21#a250528p21)<!-- TECH:END -->
+ - [Sources: Shein is shifting its IPO plans from London to Hong Kong after failing to secure approval from Chinese regulators, and aims to file in the coming weeks &lpar;Reuters&rpar;](http://www.techmeme.com/250528/p25#a250528p25)
+ - [The Top New Features in Apple’s iOS 18 and iPadOS 18](https://www.wired.com/story/apple-iphone-ios-18-ipados-18-new-features/)
+ - [Logic Pro update brings improved beats and audio fidelity to Mac and iPad](https://appleinsider.com/articles/25/05/28/logic-pro-update-brings-improved-beats-and-audio-fidelity-to-mac-and-ipad?utm_medium=rss)
+ - [Discord unveils Discord Orbs, a new in-app currency in beta that users can earn by completing Quests, which reward participants who interact with ads &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250528/p24#a250528p24)
+ - [iPhone 16 leads global smartphone sales while cheap Androids fight for share](https://appleinsider.com/articles/25/05/28/iphone-16-leads-global-smartphone-sales-while-cheap-androids-fight-for-share?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

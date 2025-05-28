@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [macOS 26 may not support 2018 MacBook Pros, 2019 iMacs, or the iMac Pro](https://appleinsider.com/articles/25/05/28/macos-26-may-not-support-2018-macbook-pros-2019-imacs-or-the-imac-pro?utm_medium=rss)
+ - [Conduit, whose cross-border payments network integrates stablecoins and local currencies, raised a $36M Series A co-led by Dragonfly and Altos Ventures &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/250528/p43#a250528p43)
  - [A Kaiser Permanente systems outage has pharmacies relying on pen and paper](https://www.theverge.com/news/676141/kaiser-permanente-outage-pharmacies-pen-paper)
  - [X says it&#39;s pausing the encrypted DMs feature to &quot;work on making some improvements&quot;; users can view previous encrypted DMs but cannot send new ones &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/250528/p42#a250528p42)
- - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
- - [Tile trackers are being fully integrated into Life360](https://www.theverge.com/news/675912/tile-bluetooth-trackers-fully-integrated-with-life360-app)
- - [Nvidia reports H20 sales of $4.6B in Q1 but says it was unable to ship $2.5B of chips due to new export rules, and it expects a loss of $8B in H20 revenue in Q2 &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250528/p41#a250528p41)<!-- TECH:END -->
+ - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

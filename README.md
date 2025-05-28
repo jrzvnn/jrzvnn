@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony’s ringing in the Switch 2 launch with PS5 deals](https://www.theverge.com/tech/675179/ps5-pro-bundle-dualsense-console-deal-sale)
+ - [Bell Canada plans to invest hundreds of millions to build data centers in six Canadian cities; the first, set to launch in June, has Groq as an anchor tenant &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250528/p26#a250528p26)
+ - [Pokémon Legends: Z-A releases this October](https://www.theverge.com/news/675508/pokemon-legends-z-a-release-date-nintendo-switch-2)
  - [Sources: Shein is shifting its IPO plans from London to Hong Kong after failing to secure approval from Chinese regulators, and aims to file in the coming weeks &lpar;Reuters&rpar;](http://www.techmeme.com/250528/p25#a250528p25)
- - [The Top New Features in Apple’s iOS 18 and iPadOS 18](https://www.wired.com/story/apple-iphone-ios-18-ipados-18-new-features/)
- - [Logic Pro update brings improved beats and audio fidelity to Mac and iPad](https://appleinsider.com/articles/25/05/28/logic-pro-update-brings-improved-beats-and-audio-fidelity-to-mac-and-ipad?utm_medium=rss)
- - [Discord unveils Discord Orbs, a new in-app currency in beta that users can earn by completing Quests, which reward participants who interact with ads &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250528/p24#a250528p24)
- - [iPhone 16 leads global smartphone sales while cheap Androids fight for share](https://appleinsider.com/articles/25/05/28/iphone-16-leads-global-smartphone-sales-while-cheap-androids-fight-for-share?utm_medium=rss)<!-- TECH:END -->
+ - [The Top New Features in Apple’s iOS 18 and iPadOS 18](https://www.wired.com/story/apple-iphone-ios-18-ipados-18-new-features/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

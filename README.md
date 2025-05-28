@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia reports H20 sales of $4.6B in Q1 but says it was unable to ship $2.5B of chips due to new export rules, and it expects a loss of $8B in H20 revenue in Q2 &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250528/p41#a250528p41)
  - [Opera announces Opera Neon, an AI &quot;agentic browser&quot; that performs tasks on users&#39; behalf, describing it as a &quot;premium subscription product&quot; behind a waitlist &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250528/p40#a250528p40)
  - [Salesforce reports Q1 revenue up 8% YoY to $9.83B, vs. $9.75B est., and raises its FY 2026 revenue forecast to between $41B and $41.3B &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250528/p39#a250528p39)
  - [HP reports Q2 revenue up 3.3% YoY to $13.22B, vs. $13.14B est., Personal Systems revenue up 7% to $9B, and Q3 forecast below est.; HPQ drops 15%+ after hours &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250528/p38#a250528p38)
- - [Google says Instagram fixed a battery drain issue on Android](https://www.theverge.com/news/676032/google-android-instagram-battery-drain-update-fix)
- - [Nvidia reports Q1 revenue up 69% YoY to $44.06B, vs. $43.31B est., Data Center revenue up 73% to $39.1B, and net income up 26% to $18.78B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250528/p37#a250528p37)<!-- TECH:END -->
+ - [Google says Instagram fixed a battery drain issue on Android](https://www.theverge.com/news/676032/google-android-instagram-battery-drain-update-fix)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

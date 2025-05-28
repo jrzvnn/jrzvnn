@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India asks e-commerce platforms and retailers to remove &quot;dark patterns&quot; or deceptive actions that manipulate customers into making unintended purchases &lpar;Bloomberg&rpar;](http://www.techmeme.com/250528/p35#a250528p35)
- - [These new Switch 2 accessories are already discounted](https://www.theverge.com/tech/675808/nintendo-switch-2-hori-accessory-deal-sale)
- - [Spotify is adding a Following feed for podcasts](https://www.theverge.com/news/676024/spotify-podcasts-following-feed-home-recommendations)
- - [Apple rumored to release iOS 26 at WWDC, instead of iOS 19](https://appleinsider.com/articles/25/05/28/apple-rumored-to-release-ios-26-at-wwdc-instead-of-ios-19?utm_medium=rss)
- - [Sources: Elon Musk tried to derail OpenAI&#39;s Abu Dhabi deal, telling G42 officials that there was no chance of Trump signing off on it unless xAI was included &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250528/p34#a250528p34)<!-- TECH:END -->
+ - [Google says Instagram fixed a battery drain issue on Android](https://www.theverge.com/news/676032/google-android-instagram-battery-drain-update-fix)
+ - [Nvidia reports Q1 revenue up 69% YoY to $44.06B, vs. $43.31B est., Data Center revenue up 73% to $39.1B, and net income up 26% to $18.78B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250528/p37#a250528p37)
+ - [Source: Tesla is poised to begin its long-awaited robotaxi service in Austin on June 12 &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/250528/p36#a250528p36)
+ - [Tesla&amp;#8217;s iPhone app now supports Live Activities for Supercharging](https://www.theverge.com/news/676070/tesla-supercharger-apple-iphone-live-activites-status-child)
+ - [India asks e-commerce platforms and retailers to remove &quot;dark patterns&quot; or deceptive actions that manipulate customers into making unintended purchases &lpar;Bloomberg&rpar;](http://www.techmeme.com/250528/p35#a250528p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

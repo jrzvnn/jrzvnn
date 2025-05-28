@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Derby &lpar;England&rpar; new mayor](http://9gag.com/gag/avyvz7b)
- - 😝 [The view is quite impressive](http://9gag.com/gag/a5QjoMN)
- - 💣 [Built too well for capitalism.](http://9gag.com/gag/a5QjMoo)
  - 😝 [I sometimes can&#39;t tell whether it&#39;s AI or not anymore](http://9gag.com/gag/aVv231v)
- - 👉 [When your ex&#39;s little sister is the real one.](http://9gag.com/gag/aO81rv3)<!-- MEMES:END -->
+ - 😝 [The view is quite impressive](http://9gag.com/gag/a5QjoMN)
+ - 💣 [Ken knew what he was doing](http://9gag.com/gag/awy4AOW)
+ - 😝 [Is this the secret?](http://9gag.com/gag/aZZ2yMX)
+ - 👉 [Derby &lpar;England&rpar; new mayor](http://9gag.com/gag/avyvz7b)<!-- MEMES:END -->
 
 ---
 

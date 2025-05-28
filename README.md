@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how a female gorilla courts a male](http://9gag.com/gag/aE0Xg3o)
  - 😝 [Been there](http://9gag.com/gag/aGy2gqG)
- - 💣 [When scary movie requests go horrifyingly wrong](http://9gag.com/gag/azxZ96m)
- - 😝 [When your motor spins faster than a jet engine...](http://9gag.com/gag/aVv2Y3v)
- - 👉 [Fookin etiquette](http://9gag.com/gag/a34WR5Q)<!-- MEMES:END -->
+ - 😝 [Bubbleception](http://9gag.com/gag/aGy2Z5z)
+ - 💣 [This is how a female gorilla courts a male](http://9gag.com/gag/aE0Xg3o)
+ - 😝 [The gypsy trap worked](http://9gag.com/gag/ae925yb)
+ - 👉 [When your motor spins faster than a jet engine...](http://9gag.com/gag/aVv2Y3v)<!-- MEMES:END -->
 
 ---
 

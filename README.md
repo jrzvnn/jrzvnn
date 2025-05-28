@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When scary movie requests go horrifyingly wrong](http://9gag.com/gag/azxZ96m)
- - 😝 [IQ ?](http://9gag.com/gag/ae92D2B)
- - 💣 [Been there](http://9gag.com/gag/aGy2gqG)
- - 😝 [Ken knew what he was doing](http://9gag.com/gag/awy4AOW)
- - 👉 [The gypsy trap worked](http://9gag.com/gag/ae925yb)<!-- MEMES:END -->
+ - 😝 [When your tap water has tiny monsters with chainsaws](http://9gag.com/gag/a34WQ7e)
+ - 😝 [This is how a female gorilla courts a male](http://9gag.com/gag/aE0Xg3o)
+ - 💣 [When scary movie requests go horrifyingly wrong](http://9gag.com/gag/azxZ96m)
+ - 😝 [Florida woman strikes again](http://9gag.com/gag/aByXgZz)
+ - 👉 [Fine](http://9gag.com/gag/aMVXxv1)<!-- MEMES:END -->
 
 ---
 

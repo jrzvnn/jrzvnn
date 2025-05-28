@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe they had a point?](http://9gag.com/gag/aPAX7GP)
- - 😝 [My dad&#39;s old wallet is basically a magic trick](http://9gag.com/gag/aRB27Ry)
- - 💣 [Probably the most accurate portrayal of a body swap I&#39;ve ever seen.](http://9gag.com/gag/amoVvL9)
- - 😝 [Lost and found in Japan hits different.](http://9gag.com/gag/agm2Ay6)
- - 👉 [This mug is getting out of hand](http://9gag.com/gag/an7DQn5)<!-- MEMES:END -->
+ - 😝 [Road rage is evolving, just not in a good way.](http://9gag.com/gag/aPAXYyq)
+ - 😝 [Been there](http://9gag.com/gag/aGy2gqG)
+ - 💣 [The view is quite impressive](http://9gag.com/gag/a5QjoMN)
+ - 😝 [IQ ?](http://9gag.com/gag/ae92D2B)
+ - 👉 [Built too well for capitalism.](http://9gag.com/gag/a5QjMoo)<!-- MEMES:END -->
 
 ---
 

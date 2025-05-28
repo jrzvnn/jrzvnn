@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Nintendo Switch was an indie game haven, until it was overrun with slop](https://www.theverge.com/nintendo/671658/nintendo-switch-indie-games-eshop-legacy)
+ - [Nintendo&amp;#8217;s new era: looking back at the Switch and ahead to the next generation](https://www.theverge.com/nintendo/674887/nintendo-new-era-switch-2-next-gen)
  - [Microsoft starts testing Xbox Copilot on iOS and Android](https://www.theverge.com/news/675456/microsoft-xbox-copilot-gaming-ios-android-update)
  - [The Best E-Readers, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-ereaders/)
- - [The Nintendo Switch’s complicated legacy with indie games](https://www.theverge.com/nintendo/671658/nintendo-switch-indie-games-eshop-legacy)
- - [Ford recalls over 1 million vehicles for glitchy rearview cameras](https://www.theverge.com/news/675570/ford-recall-1-million-vehicles-rearview-cameras)
- - [In Q1 2025, the iPhone 16 was the best selling smartphone globally, followed by the iPhone 16 Pro Max, 16 Pro, 15, Samsung Galaxy A16, Galaxy A06, and S25 Ultra &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250528/p27#a250528p27)<!-- TECH:END -->
+ - [Ford recalls over 1 million vehicles for glitchy rearview cameras](https://www.theverge.com/news/675570/ford-recall-1-million-vehicles-rearview-cameras)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

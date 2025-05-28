@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 17 Pro Max rumored thickness shown off in new video](https://appleinsider.com/articles/25/05/28/iphone-17-pro-max-rumored-thickness-shown-off-in-new-video?utm_medium=rss)
  - [The Nintendo Switch was an indie game haven, until it was overrun with slop](https://www.theverge.com/nintendo/671658/nintendo-switch-indie-games-eshop-legacy)
  - [Nintendo&amp;#8217;s new era: looking back at the Switch and ahead to the next generation](https://www.theverge.com/nintendo/674887/nintendo-new-era-switch-2-next-gen)
  - [Microsoft starts testing Xbox Copilot on iOS and Android](https://www.theverge.com/news/675456/microsoft-xbox-copilot-gaming-ios-android-update)
- - [The Best E-Readers, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-ereaders/)
- - [Ford recalls over 1 million vehicles for glitchy rearview cameras](https://www.theverge.com/news/675570/ford-recall-1-million-vehicles-rearview-cameras)<!-- TECH:END -->
+ - [The Best E-Readers, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-ereaders/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

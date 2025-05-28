@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Gravity always wins.](http://9gag.com/gag/aRB218q)
+ - 😝 [When your motor spins faster than a jet engine...](http://9gag.com/gag/aVv2Y3v)
+ - 💣 [Took me 3 sec to guess](http://9gag.com/gag/a9yXp5Z)
  - 😝 [Who did it best](http://9gag.com/gag/aO81r2N)
- - 😝 [Derby &lpar;England&rpar; new mayor](http://9gag.com/gag/avyvz7b)
- - 💣 [Ken knew what he was doing](http://9gag.com/gag/awy4AOW)
- - 😝 [Built too well for capitalism.](http://9gag.com/gag/a5QjMoo)
- - 👉 [Fookin etiquette](http://9gag.com/gag/a34WR5Q)<!-- MEMES:END -->
+ - 👉 [This is how a female gorilla courts a male](http://9gag.com/gag/aE0Xg3o)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone satellite features arrive in Mexico to bridge signal gaps](https://appleinsider.com/articles/25/05/28/iphone-satellite-features-arrive-in-mexico-to-bridge-signal-gaps?utm_medium=rss)
+ - [Apple’s Logic Pro now saves your takes even if you forget to hit record](https://www.theverge.com/news/675741/apple-logic-pro-flashback-capture)
+ - [Brisk It Zelos-450 AI smart grill review: Excellent grill, decent iPhone app, skip the AI](https://appleinsider.com/articles/25/05/28/brisk-it-zelos-450-ai-smart-grill-review-excellent-grill-decent-iphone-app-skip-the-ai?utm_medium=rss)
  - [Amazon and Stellantis say their deal, announced in 2022, to create in-car software and bring Fire TV to in-car entertainment systems, is &quot;winding down&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/250528/p29#a250528p29)
- - [&#39;The Morning Show&#39; returns in fall 2025 -- here&#39;s when to watch](https://appleinsider.com/articles/25/05/28/the-morning-show-returns-in-fall-2025----heres-when-to-watch?utm_medium=rss)
- - [Netflix co-founder Reed Hastings joins Anthropic’s board of directors](https://www.theverge.com/news/675750/netflix-co-founder-reed-hastings-anthropic-board-of-directors)
- - [Google Photos adds Pixel-exclusive AI features to redesigned editor](https://www.theverge.com/news/675469/google-photos-editor-ai-tool-suggestions-update)
- - [LexisNexis leaked social security numbers and other personal data of over 364,000 people](https://www.theverge.com/news/675702/lexisnexis-data-broker-breach-social-security-numbers)<!-- TECH:END -->
+ - [&#39;The Morning Show&#39; returns in fall 2025 -- here&#39;s when to watch](https://appleinsider.com/articles/25/05/28/the-morning-show-returns-in-fall-2025----heres-when-to-watch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Byju&#39;s CEO Byju Raveendran, who refuses to take responsibility for the edtech company&#39;s implosion and is accused of hiding $533M from US lenders &lpar;Yudhijit Bhattacharjee/Rest of World&rpar;](http://www.techmeme.com/250528/p8#a250528p8)
  - [A look at Tools for Humanity, cofounded by Sam Altman, as the company plans to deploy 7,500 iris-scanning Orbs across the US over the next 12 months &lpar;Billy Perrigo/Time&rpar;](http://www.techmeme.com/250528/p7#a250528p7)
  - [Inside a &quot;laptop farm&quot; run by a 50-year-old US woman that let DPRK IT workers pose as US tech staff and illegally earn $17.1M from more than 300 US companies &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250528/p6#a250528p6)
  - [Q&amp;A with Luther Lowe, YC&#39;s first full-time lobbyist, on advocating for &quot;Little Tech&quot; and ensuring that startups have a voice in Washington, DC, and Brussels &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250528/p5#a250528p5)
- - [A recent surge in high-profile cyberattacks is boosting cyber insurers&#39; prospects, with global premium volume expected to hit ~$30B by 2030, growing at 10% YoY &lpar;Bloomberg&rpar;](http://www.techmeme.com/250528/p4#a250528p4)
- - [Humain, Saudi Arabia&#39;s new state-owned AI company, says it is seeking investment from US tech companies and investors, and plans to launch a $10B VC fund &lpar;Financial Times&rpar;](http://www.techmeme.com/250528/p3#a250528p3)<!-- TECH:END -->
+ - [A recent surge in high-profile cyberattacks is boosting cyber insurers&#39; prospects, with global premium volume expected to hit ~$30B by 2030, growing at 10% YoY &lpar;Bloomberg&rpar;](http://www.techmeme.com/250528/p4#a250528p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

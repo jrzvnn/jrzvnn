@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I sometimes can&#39;t tell whether it&#39;s AI or not anymore](http://9gag.com/gag/aVv231v)
  - 😝 [The view is quite impressive](http://9gag.com/gag/a5QjoMN)
+ - 😝 [I sometimes can&#39;t tell whether it&#39;s AI or not anymore](http://9gag.com/gag/aVv231v)
  - 💣 [Ken knew what he was doing](http://9gag.com/gag/awy4AOW)
  - 😝 [Is this the secret?](http://9gag.com/gag/aZZ2yMX)
- - 👉 [Derby &lpar;England&rpar; new mayor](http://9gag.com/gag/avyvz7b)<!-- MEMES:END -->
+ - 👉 [Built too well for capitalism.](http://9gag.com/gag/a5QjMoo)<!-- MEMES:END -->
 
 ---
 

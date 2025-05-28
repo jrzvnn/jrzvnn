@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Derby &lpar;England&rpar; new mayor](http://9gag.com/gag/avyvz7b)
- - 😝 [Been there](http://9gag.com/gag/aGy2gqG)
- - 💣 [Just a casual day in the backyard...](http://9gag.com/gag/ajPKEpQ)
- - 😝 [A simple tutorial for a handyman](http://9gag.com/gag/aYQ1g6m)
- - 👉 [When your motor spins faster than a jet engine...](http://9gag.com/gag/aVv2Y3v)<!-- MEMES:END -->
+ - 😝 [When scary movie requests go horrifyingly wrong](http://9gag.com/gag/azxZ96m)
+ - 😝 [Took me 3 sec to guess](http://9gag.com/gag/a9yXp5Z)
+ - 💣 [Been there](http://9gag.com/gag/aGy2gqG)
+ - 😝 [The gypsy trap worked](http://9gag.com/gag/ae925yb)
+ - 👉 [Derby &lpar;England&rpar; new mayor](http://9gag.com/gag/avyvz7b)<!-- MEMES:END -->
 
 ---
 

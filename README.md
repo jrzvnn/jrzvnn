@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [European meetings hit different.](http://9gag.com/gag/aGy2pnZ)
+ - 😝 [Been there](http://9gag.com/gag/aGy2gqG)
+ - 💣 [Well, technically...](http://9gag.com/gag/aoy8e13)
  - 😝 [When scary movie requests go horrifyingly wrong](http://9gag.com/gag/azxZ96m)
- - 😝 [Took me 3 sec to guess](http://9gag.com/gag/a9yXp5Z)
- - 💣 [Been there](http://9gag.com/gag/aGy2gqG)
- - 😝 [The gypsy trap worked](http://9gag.com/gag/ae925yb)
  - 👉 [Derby &lpar;England&rpar; new mayor](http://9gag.com/gag/avyvz7b)<!-- MEMES:END -->
 
 ---

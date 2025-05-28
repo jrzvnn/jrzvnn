@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nancy Mace&#39;s Former Staff Claim She Had Them Create Burner Accounts to Promote Her](https://www.wired.com/story/nancy-mace-former-staff-burner-accounts/)
- - [You can track Satechi’s new glasses case using Apple’s Find My network](https://www.theverge.com/news/674870/satechi-findall-tracker-glasses-luggage-tag-card-keychain-apple-find-my-network)
- - [CD Projekt Red is moving forward with Cyberpunk 2](https://www.theverge.com/news/675651/cd-projekt-red-cyberpunk-2-project-orion)
- - [&#39;Grand Theft Auto&#39; Publisher Swaps DEI for &#39;Diversity of Thought&#39; in Annual Report](https://www.wired.com/story/grand-theft-autos-publisher-abandons-dei-for-diversity-of-thought-in-annual-report/)
- - [iPhone 17 Pro Max rumored thickness shown off in new video](https://appleinsider.com/articles/25/05/28/iphone-17-pro-max-rumored-thickness-shown-off-in-new-video?utm_medium=rss)<!-- TECH:END -->
+ - [The plan for nationwide fiber internet might be upended for Starlink](https://www.theverge.com/news/675502/bead-program-fiber-internet-paused)
+ - [You can now try interactive AI worlds backed by Pixar&amp;#8217;s cofounder](https://www.theverge.com/ai-artificial-intelligence/675395/odyssey-ai-generated-interactive-video-holodeck)
+ - [Anthropic appoints Netflix co-founder and Chairman Reed Hastings to its board of directors, as the company balances growth with its stated focus on safety &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250528/p28#a250528p28)
+ - [This is your last week to get a year of Peacock Premium for just $24.99](https://www.theverge.com/tech/675646/peacock-premium-poker-face-wicked-conclave-deal-sale)
+ - [McDonald&#39;s Snack Wrap: The Viral Food Favorite Is Returning Soon](https://www.cnet.com/tech/mcdonalds-snack-wrap-when-is-the-viral-food-favorite-returning-july-14/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

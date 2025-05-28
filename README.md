@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [White House says Trump doesn&#39;t want to harm Apple and iPhone prices won&#39;t rise](https://appleinsider.com/articles/25/05/28/white-house-says-trump-doesnt-want-to-harm-apple-and-iphone-prices-wont-rise?utm_medium=rss)
+ - [ASML&#39;s stock is down ~25% in the past year from a record ~€1,000 in July 2024, cutting $130B+ from its market cap, amid China export rules and US tariffs &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250528/p15#a250528p15)
  - [Memo: Match Group CEO Spencer Rascoff, set to become Tinder CEO in July, lays out a new vision for the app, including speeding up product changes and using AI &lpar;Chip Cutter/Wall Street Journal&rpar;](http://www.techmeme.com/250528/p14#a250528p14)
  - [Jesse Armstrong Finds Sympathy for ‘Rich Assholes’ in Mountainhead](https://www.wired.com/story/jesse-armstrong-mountainhead/)
- - [Microsoft wants Windows Update to handle all apps](https://www.theverge.com/news/675446/microsoft-windows-update-all-apps-orchestration-platform)
- - [7 Best Cheap Mattresses &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-cheap-mattresses/)
- - [The Switch 2 May Signal the End of Physical Games](https://www.wired.com/story/the-switch-2-may-signal-the-end-of-physical-games/)<!-- TECH:END -->
+ - [Microsoft wants Windows Update to handle all apps](https://www.theverge.com/news/675446/microsoft-windows-update-all-apps-orchestration-platform)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The view is quite impressive](http://9gag.com/gag/a5QjoMN)
+ - 😝 [Built too well for capitalism.](http://9gag.com/gag/a5QjMoo)
+ - 💣 [When your ex&#39;s little sister is the real one.](http://9gag.com/gag/aO81rv3)
  - 😝 [Is this the secret?](http://9gag.com/gag/aZZ2yMX)
- - 😝 [This is how a female gorilla courts a male](http://9gag.com/gag/aE0Xg3o)
- - 💣 [Bubbleception](http://9gag.com/gag/aGy2Z5z)
- - 😝 [When your tap water has tiny monsters with chainsaws](http://9gag.com/gag/a34WQ7e)
- - 👉 [The view is quite impressive](http://9gag.com/gag/a5QjoMN)<!-- MEMES:END -->
+ - 👉 [Ken knew what he was doing](http://9gag.com/gag/awy4AOW)<!-- MEMES:END -->
 
 ---
 

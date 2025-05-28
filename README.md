@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Humain, Saudi Arabia&#39;s new state-owned AI company, says it is seeking investment from US tech companies and investors, and plans to launch a $10B VC fund &lpar;Financial Times&rpar;](http://www.techmeme.com/250528/p3#a250528p3)
+ - [30% Off Design Within Reach Promo Code | June 2025](https://www.wired.com/story/design-within-reach-promo-code/)
+ - [Home Depot Promo Codes &amp; Coupons: 50% Off](https://www.wired.com/story/home-depot-promo-code/)
  - [20% HP Coupon Code &amp; Deals | June 2025](https://www.wired.com/story/hp-coupon-code/)
- - [Adidas Promo Codes &amp; Deals: 15% Off](https://www.wired.com/story/adidas-promo-code/)
- - [Samsung Promo Codes: 30% Off | June 2025](https://www.wired.com/story/samsung-promo-codes/)
- - [10% Off Canon Promo Code &amp; Coupons](https://www.wired.com/story/canon-promo-code/)
- - [Chinese state-backed Hygon, which makes server CPUs, and server maker Sugon have agreed to merge; Hygon has a market cap of ~$43.9B, while Sugon&#39;s is ~$12.6B &lpar;Wataru Suzuki/Nikkei Asia&rpar;](http://www.techmeme.com/250528/p2#a250528p2)<!-- TECH:END -->
+ - [Adidas Promo Codes &amp; Deals: 15% Off](https://www.wired.com/story/adidas-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

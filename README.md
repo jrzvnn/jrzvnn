@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inside a &quot;laptop farm&quot; run by a 50-year-old US woman that let DPRK IT workers pose as US tech staff and illegally earn $17.1M from more than 300 US companies &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250528/p6#a250528p6)
+ - [Q&amp;A with Luther Lowe, YC&#39;s first full-time lobbyist, on advocating for &quot;Little Tech&quot; and ensuring that startups have a voice in Washington, DC, and Brussels &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250528/p5#a250528p5)
+ - [A recent surge in high-profile cyberattacks is boosting cyber insurers&#39; prospects, with global premium volume expected to hit ~$30B by 2030, growing at 10% YoY &lpar;Bloomberg&rpar;](http://www.techmeme.com/250528/p4#a250528p4)
  - [Humain, Saudi Arabia&#39;s new state-owned AI company, says it is seeking investment from US tech companies and investors, and plans to launch a $10B VC fund &lpar;Financial Times&rpar;](http://www.techmeme.com/250528/p3#a250528p3)
- - [30% Off Design Within Reach Promo Code | June 2025](https://www.wired.com/story/design-within-reach-promo-code/)
- - [Home Depot Promo Codes &amp; Coupons: 50% Off](https://www.wired.com/story/home-depot-promo-code/)
- - [20% HP Coupon Code &amp; Deals | June 2025](https://www.wired.com/story/hp-coupon-code/)
- - [Adidas Promo Codes &amp; Deals: 15% Off](https://www.wired.com/story/adidas-promo-code/)<!-- TECH:END -->
+ - [30% Off Design Within Reach Promo Code | June 2025](https://www.wired.com/story/design-within-reach-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

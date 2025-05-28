@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LexisNexis leaked social security numbers and other personal data for over 364,000 people](https://www.theverge.com/news/675702/lexisnexis-data-broker-breach-social-security-numbers)
  - [The plan for nationwide fiber internet might be upended for Starlink](https://www.theverge.com/news/675502/bead-program-fiber-internet-paused)
  - [You can now try interactive AI worlds backed by Pixar&amp;#8217;s cofounder](https://www.theverge.com/ai-artificial-intelligence/675395/odyssey-ai-generated-interactive-video-holodeck)
  - [Anthropic appoints Netflix co-founder and Chairman Reed Hastings to its board of directors, as the company balances growth with its stated focus on safety &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250528/p28#a250528p28)
- - [This is your last week to get a year of Peacock Premium for just $24.99](https://www.theverge.com/tech/675646/peacock-premium-poker-face-wicked-conclave-deal-sale)
- - [McDonald&#39;s Snack Wrap: The Viral Food Favorite Is Returning Soon](https://www.cnet.com/tech/mcdonalds-snack-wrap-when-is-the-viral-food-favorite-returning-july-14/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This is your last week to get a year of Peacock Premium for just $24.99](https://www.theverge.com/tech/675646/peacock-premium-poker-face-wicked-conclave-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

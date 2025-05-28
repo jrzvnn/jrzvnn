@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [European meetings hit different.](http://9gag.com/gag/aGy2pnZ)
- - 😝 [Been there](http://9gag.com/gag/aGy2gqG)
- - 💣 [Well, technically...](http://9gag.com/gag/aoy8e13)
- - 😝 [When scary movie requests go horrifyingly wrong](http://9gag.com/gag/azxZ96m)
- - 👉 [Derby &lpar;England&rpar; new mayor](http://9gag.com/gag/avyvz7b)<!-- MEMES:END -->
+ - 😝 [Who did it best](http://9gag.com/gag/aO81r2N)
+ - 😝 [Derby &lpar;England&rpar; new mayor](http://9gag.com/gag/avyvz7b)
+ - 💣 [Ken knew what he was doing](http://9gag.com/gag/awy4AOW)
+ - 😝 [Built too well for capitalism.](http://9gag.com/gag/a5QjMoo)
+ - 👉 [Fookin etiquette](http://9gag.com/gag/a34WR5Q)<!-- MEMES:END -->
 
 ---
 

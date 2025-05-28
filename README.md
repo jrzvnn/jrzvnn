@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Kaiser Permanente systems outage has pharmacies relying on pen and paper](https://www.theverge.com/news/676141/kaiser-permanente-outage-pharmacies-pen-paper)
  - [Tile trackers are being fully integrated into Life360](https://www.theverge.com/news/675912/tile-bluetooth-trackers-fully-integrated-with-life360-app)
  - [Nvidia reports H20 sales of $4.6B in Q1 but says it was unable to ship $2.5B of chips due to new export rules, and it expects a loss of $8B in H20 revenue in Q2 &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250528/p41#a250528p41)
  - [iPhone 17 Rumors and Leaks Unpacked. Here Are the Features We&#39;re Most Excited About](https://www.cnet.com/tech/mobile/iphone-17-rumors-and-leaks-unpacked-here-are-the-features-were-most-excited-about/#ftag=CAD590a51e)
- - [Opera announces Opera Neon, an AI &quot;agentic browser&quot; that performs tasks on users&#39; behalf, describing it as a &quot;premium subscription product&quot; behind a waitlist &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250528/p40#a250528p40)
- - [Salesforce reports Q1 revenue up 8% YoY to $9.83B, vs. $9.75B est., and raises its FY 2026 revenue forecast to between $41B and $41.3B &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250528/p39#a250528p39)<!-- TECH:END -->
+ - [Opera announces Opera Neon, an AI &quot;agentic browser&quot; that performs tasks on users&#39; behalf, describing it as a &quot;premium subscription product&quot; behind a waitlist &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250528/p40#a250528p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

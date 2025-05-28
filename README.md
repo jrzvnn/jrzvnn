@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Circle&#39;s S-1 shows that 60% of the 24M shares being sold in its IPO come from existing stakeholders rather than the company, a highly unusual move in a tech IPO &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250527/p39#a250527p39)
+ - [Okta reports Q1 revenue up 12% YoY to $688M, vs. $680M est., and maintains its FY 2026 guidance due to macroeconomic uncertainties; OKTA drops 12%+ after hours &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250527/p38#a250527p38)
  - [Switching from iPhone to Android to get easier in iOS 19 with eSIM transfer](https://appleinsider.com/articles/25/05/27/switching-from-iphone-to-android-to-get-easier-in-ios-19-with-esim-transfer?utm_medium=rss)
  - [Block plans to roll out bitcoin payments on Square in H2 2025; the system runs on the Lightning Network and lets merchants accept bitcoin via Square&#39;s hardware &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250527/p37#a250527p37)
- - [Dedicated Apple Games app could be revealed during WWDC 2025](https://appleinsider.com/articles/25/05/27/dedicated-apple-games-app-could-be-revealed-during-wwdc-2025?utm_medium=rss)
- - [Apple Invites now lets you share content &amp; sites with a new Link tile](https://appleinsider.com/articles/25/05/27/apple-invites-now-lets-you-share-content-sites-with-a-new-link-tile?utm_medium=rss)
- - [Circle aims to raise up to $624M in its US IPO, offering 24M shares at $24-$26 each, valuing it at ~$5.65B, or ~$6.7B fully diluted, at the top of the range &lpar;Bloomberg&rpar;](http://www.techmeme.com/250527/p36#a250527p36)<!-- TECH:END -->
+ - [Texas Bill Would Ban Social Media for Minors. Here&#39;s What That Would Mean](https://www.cnet.com/tech/services-and-software/texas-bill-would-ban-social-media-for-minors-heres-what-that-would-mean/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

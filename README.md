@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Switch 2 May Signal the End of Physical Games](https://www.wired.com/story/the-switch-2-may-signal-the-end-of-physical-games/)
+ - [Auto Shanghai 2025 Wasn’t Just a Car Show. It Was a Warning to the West](https://www.wired.com/story/auto-shanghai-2025-car-show-warning-to-the-west/)
  - [Samsung’s One UI 8 beta arrives on Galaxy S25 phones](https://www.theverge.com/news/675439/samsung-one-ui-8-beta-galaxy-s25-plus-ultra)
  - [Getty Images CEO Craig Peters says Getty is spending &quot;millions and millions&quot; on its Stability AI lawsuit in the UK and the US, accusing it of copying 12M images &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250528/p13#a250528p13)
- - [Sources: Nvidia suppliers Foxconn, Inventec, Dell, and Wistron made breakthroughs to resolve issues from 2024 that delayed Blackwell AI server &quot;rack&quot; shipments &lpar;Financial Times&rpar;](http://www.techmeme.com/250528/p12#a250528p12)
- - [Nintendo Switch Online N64 games are getting Rewind — but only on Switch 2](https://www.theverge.com/news/675429/nintendo-switch-online-n64-games-rewind-crt-filter-controls-switch-2-exclusive)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 28, #247](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-28-247/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Duster&#39;: When to Watch Episode 3 of the Retro Grindhouse Series](https://www.cnet.com/tech/services-and-software/duster-when-to-watch-episode-3-retro-grindhouse-series/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

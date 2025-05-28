@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LexisNexis leaked social security numbers and other personal data for over 364,000 people](https://www.theverge.com/news/675702/lexisnexis-data-broker-breach-social-security-numbers)
- - [The plan for nationwide fiber internet might be upended for Starlink](https://www.theverge.com/news/675502/bead-program-fiber-internet-paused)
- - [You can now try interactive AI worlds backed by Pixar&amp;#8217;s cofounder](https://www.theverge.com/ai-artificial-intelligence/675395/odyssey-ai-generated-interactive-video-holodeck)
- - [Anthropic appoints Netflix co-founder and Chairman Reed Hastings to its board of directors, as the company balances growth with its stated focus on safety &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250528/p28#a250528p28)
- - [This is your last week to get a year of Peacock Premium for just $24.99](https://www.theverge.com/tech/675646/peacock-premium-poker-face-wicked-conclave-deal-sale)<!-- TECH:END -->
+ - [&#39;The Morning Show&#39; returns in fall 2025 -- here&#39;s when to watch](https://appleinsider.com/articles/25/05/28/the-morning-show-returns-in-fall-2025----heres-when-to-watch?utm_medium=rss)
+ - [Netflix co-founder Reed Hastings joins Anthropic’s board of directors](https://www.theverge.com/news/675750/netflix-co-founder-reed-hastings-anthropic-board-of-directors)
+ - [Google Photos adds Pixel-exclusive AI features to redesigned editor](https://www.theverge.com/news/675469/google-photos-editor-ai-tool-suggestions-update)
+ - [LexisNexis leaked social security numbers and other personal data of over 364,000 people](https://www.theverge.com/news/675702/lexisnexis-data-broker-breach-social-security-numbers)
+ - [The plan for nationwide fiber internet might be upended for Starlink](https://www.theverge.com/news/675502/bead-program-fiber-internet-paused)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

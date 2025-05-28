@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [20% HP Coupon Code &amp; Deals | June 2025](https://www.wired.com/story/hp-coupon-code/)
+ - [Adidas Promo Codes &amp; Deals: 15% Off](https://www.wired.com/story/adidas-promo-code/)
+ - [Samsung Promo Codes: 30% Off | June 2025](https://www.wired.com/story/samsung-promo-codes/)
  - [10% Off Canon Promo Code &amp; Coupons](https://www.wired.com/story/canon-promo-code/)
- - [Chinese state-backed Hygon, which makes server CPUs, and server maker Sugon have agreed to merge; Hygon has a market cap of ~$43.9B, while Sugon&#39;s is ~$12.6B &lpar;Wataru Suzuki/Nikkei Asia&rpar;](http://www.techmeme.com/250528/p2#a250528p2)
- - [T-Mobile Responds to New App Setting That Records Your Phone&#39;s Screen](https://www.cnet.com/tech/mobile/t-mobile-responds-to-new-app-setting-that-records-your-phones-screen/#ftag=CAD590a51e)
- - [SignalFire: startups and Big Tech firms cut hiring of recent graduates by 11% and 25% respectively in 2024 vs. 2023, as AI can handle routine, low-risk tasks &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250528/p1#a250528p1)
- - [Save Money on a White Noise Machine by Using Your iPhone Instead](https://www.cnet.com/tech/services-and-software/save-money-on-a-white-noise-machine-by-using-your-iphone-instead/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chinese state-backed Hygon, which makes server CPUs, and server maker Sugon have agreed to merge; Hygon has a market cap of ~$43.9B, while Sugon&#39;s is ~$12.6B &lpar;Wataru Suzuki/Nikkei Asia&rpar;](http://www.techmeme.com/250528/p2#a250528p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

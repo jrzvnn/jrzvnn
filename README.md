@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Unacademy cofounder Gaurav Munjal is stepping down as CEO, as the company pivots to in-person coaching centers and its Duolingo-like learning app &lpar;Samidha Sharma/The Economic Times&rpar;](http://www.techmeme.com/250527/p41#a250527p41)
+ - [How to use MacDisk software to read vintage Mac floppies on your Windows PC](https://appleinsider.com/inside/macos/tips/how-to-use-macdisk-software-to-read-vintage-mac-floppies-on-your-windows-pc?utm_medium=rss)
+ - [The EU has published its April 23 decision to fine Apple €500M for DMA non-compliance; Apple has until end of June to be in compliance or face periodic fines &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/250527/p40#a250527p40)
  - [Circle&#39;s S-1 shows that 60% of the 24M shares being sold in its IPO come from existing stakeholders rather than the company, a highly unusual move in a tech IPO &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250527/p39#a250527p39)
- - [Okta reports Q1 revenue up 12% YoY to $688M, vs. $680M est., and maintains its FY 2026 guidance due to macroeconomic uncertainties; OKTA drops 12%+ after hours &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250527/p38#a250527p38)
- - [Switching from iPhone to Android to get easier in iOS 19 with eSIM transfer](https://appleinsider.com/articles/25/05/27/switching-from-iphone-to-android-to-get-easier-in-ios-19-with-esim-transfer?utm_medium=rss)
- - [Block plans to roll out bitcoin payments on Square in H2 2025; the system runs on the Lightning Network and lets merchants accept bitcoin via Square&#39;s hardware &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250527/p37#a250527p37)
- - [Texas Bill Would Ban Social Media for Minors. Here&#39;s What That Would Mean](https://www.cnet.com/tech/services-and-software/texas-bill-would-ban-social-media-for-minors-heres-what-that-would-mean/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Okta reports Q1 revenue up 12% YoY to $688M, vs. $680M est., and maintains its FY 2026 guidance due to macroeconomic uncertainties; OKTA drops 12%+ after hours &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250527/p38#a250527p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That chicken is NOT amused.](http://9gag.com/gag/a4Pq3L6)
  - 😝 [Faster than The Flash!](http://9gag.com/gag/ae92DdQ)
- - 💣 [Life was better in medieval times](http://9gag.com/gag/a9yXneo)
- - 😝 [Citizens of Earth](http://9gag.com/gag/aLnXv0P)
- - 👉 [Game store employees are not ready for these trade-ins](http://9gag.com/gag/aryBnKy)<!-- MEMES:END -->
+ - 😝 [Life was better in medieval times](http://9gag.com/gag/a9yXneo)
+ - 💣 [Citizens of Earth](http://9gag.com/gag/aLnXv0P)
+ - 😝 [Game store employees are not ready for these trade-ins](http://9gag.com/gag/aryBnKy)
+ - 👉 [Fine](http://9gag.com/gag/aMVXxv1)<!-- MEMES:END -->
 
 ---
 

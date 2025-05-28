@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a casual day in the backyard...](http://9gag.com/gag/ajPKEpQ)
- - 😝 [Well, technically...](http://9gag.com/gag/aoy8e13)
- - 💣 [Derby &lpar;England&rpar; new mayor](http://9gag.com/gag/avyvz7b)
  - 😝 [Built too well for capitalism.](http://9gag.com/gag/a5QjMoo)
- - 👉 [When your ex&#39;s little sister is the real one.](http://9gag.com/gag/aO81rv3)<!-- MEMES:END -->
+ - 😝 [Ken knew what he was doing](http://9gag.com/gag/awy4AOW)
+ - 💣 [Bubbleception](http://9gag.com/gag/aGy2Z5z)
+ - 😝 [I wonder](http://9gag.com/gag/a6Zpob2)
+ - 👉 [Just a casual day in the backyard...](http://9gag.com/gag/ajPKEpQ)<!-- MEMES:END -->
 
 ---
 

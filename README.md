@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Been there](http://9gag.com/gag/aGy2gqG)
- - 😝 [Elder Scroll 6 will be disaster](http://9gag.com/gag/a0eE7Az)
- - 💣 [Harvard Business School got a lesson in business.](http://9gag.com/gag/aZZ2ynp)
- - 😝 [Well, that didn&#39;t go as planned.](http://9gag.com/gag/aD2X45w)
- - 👉 [Red flag spotted at the zoo entrance.](http://9gag.com/gag/aLnXwdv)<!-- MEMES:END -->
+ - 😝 [Red flag spotted at the zoo entrance.](http://9gag.com/gag/aLnXwdv)
+ - 😝 [Peak engineering right here](http://9gag.com/gag/aXP2Yzz)
+ - 💣 [Work hard](http://9gag.com/gag/aAyXb82)
+ - 😝 [POV: You&#39;re a Spanish conquistador and you just pulled up to the New World](http://9gag.com/gag/ayNQM2Y)
+ - 👉 [Baby&#39;s got blue eyes](http://9gag.com/gag/aNDR0b3)<!-- MEMES:END -->
 
 ---
 

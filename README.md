@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [All the Top Features in MacOS Sequoia](https://www.wired.com/story/apple-macos-sequoia-features/)
+ - [Logic Pro update brings improved beats and audio fidelity to Mac and iPad](https://appleinsider.com/articles/25/05/28/logic-pro-update-brings-improved-beats-and-audio-fidelity-to-mac-and-ipad?utm_medium=rss)
  - [Sony’s ringing in the Switch 2 launch with PS5 deals](https://www.theverge.com/tech/675179/ps5-pro-bundle-dualsense-console-deal-sale)
- - [Bell Canada plans to invest hundreds of millions to build data centers in six Canadian cities; the first, set to launch in June, has Groq as an anchor tenant &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250528/p26#a250528p26)
- - [Pokémon Legends: Z-A releases this October](https://www.theverge.com/news/675508/pokemon-legends-z-a-release-date-nintendo-switch-2)
- - [Sources: Shein is shifting its IPO plans from London to Hong Kong after failing to secure approval from Chinese regulators, and aims to file in the coming weeks &lpar;Reuters&rpar;](http://www.techmeme.com/250528/p25#a250528p25)
- - [The Top New Features in Apple’s iOS 18 and iPadOS 18](https://www.wired.com/story/apple-iphone-ios-18-ipados-18-new-features/)<!-- TECH:END -->
+ - [10 Best Meal Delivery Services, Tested By an Ex-Restaurant Critic](https://www.wired.com/gallery/best-meal-kit-services-1/)
+ - [Bell Canada plans to invest hundreds of millions to build data centers in six Canadian cities; the first, set to launch in June, has Groq as an anchor tenant &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250528/p26#a250528p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

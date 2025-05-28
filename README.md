@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Memo: Match Group CEO Spencer Rascoff, set to become Tinder CEO in July, lays out a new vision for the app, including speeding up product changes and using AI &lpar;Chip Cutter/Wall Street Journal&rpar;](http://www.techmeme.com/250528/p14#a250528p14)
+ - [Jesse Armstrong Finds Sympathy for ‘Rich Assholes’ in Mountainhead](https://www.wired.com/story/jesse-armstrong-mountainhead/)
  - [Microsoft wants Windows Update to handle all apps](https://www.theverge.com/news/675446/microsoft-windows-update-all-apps-orchestration-platform)
  - [7 Best Cheap Mattresses &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-cheap-mattresses/)
- - [The Switch 2 May Signal the End of Physical Games](https://www.wired.com/story/the-switch-2-may-signal-the-end-of-physical-games/)
- - [Auto Shanghai 2025 Wasn’t Just a Car Show. It Was a Warning to the West](https://www.wired.com/story/auto-shanghai-2025-car-show-warning-to-the-west/)
- - [Samsung’s One UI 8 beta arrives on Galaxy S25 phones](https://www.theverge.com/news/675439/samsung-one-ui-8-beta-galaxy-s25-plus-ultra)<!-- TECH:END -->
+ - [The Switch 2 May Signal the End of Physical Games](https://www.wired.com/story/the-switch-2-may-signal-the-end-of-physical-games/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

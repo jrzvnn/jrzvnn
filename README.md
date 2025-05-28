@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: GameStop acquires 4,710 bitcoin for its corporate treasury, but does not disclose the total purchase amount, after announcing a bitcoin plan in March &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/250528/p16#a250528p16)
+ - [Customers can now fix iPads at home with Self Service Repair](https://appleinsider.com/articles/25/05/28/customers-can-now-fix-ipads-at-home-with-self-service-repair?utm_medium=rss)
  - [White House says Trump doesn&#39;t want to harm Apple and iPhone prices won&#39;t rise](https://appleinsider.com/articles/25/05/28/white-house-says-trump-doesnt-want-to-harm-apple-and-iphone-prices-wont-rise?utm_medium=rss)
  - [ASML&#39;s stock is down ~25% in the past year from a record ~€1,000 in July 2024, cutting $130B+ from its market cap, amid China export rules and US tariffs &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250528/p15#a250528p15)
- - [Memo: Match Group CEO Spencer Rascoff, set to become Tinder CEO in July, lays out a new vision for the app, including speeding up product changes and using AI &lpar;Chip Cutter/Wall Street Journal&rpar;](http://www.techmeme.com/250528/p14#a250528p14)
- - [Jesse Armstrong Finds Sympathy for ‘Rich Assholes’ in Mountainhead](https://www.wired.com/story/jesse-armstrong-mountainhead/)
- - [Microsoft wants Windows Update to handle all apps](https://www.theverge.com/news/675446/microsoft-windows-update-all-apps-orchestration-platform)<!-- TECH:END -->
+ - [Memo: Match Group CEO Spencer Rascoff, set to become Tinder CEO in July, lays out a new vision for the app, including speeding up product changes and using AI &lpar;Chip Cutter/Wall Street Journal&rpar;](http://www.techmeme.com/250528/p14#a250528p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

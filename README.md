@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gravity always wins.](http://9gag.com/gag/aRB218q)
- - 😝 [When your motor spins faster than a jet engine...](http://9gag.com/gag/aVv2Y3v)
- - 💣 [Took me 3 sec to guess](http://9gag.com/gag/a9yXp5Z)
- - 😝 [Who did it best](http://9gag.com/gag/aO81r2N)
- - 👉 [This is how a female gorilla courts a male](http://9gag.com/gag/aE0Xg3o)<!-- MEMES:END -->
+ - 😝 [Maybe they had a point?](http://9gag.com/gag/aPAX7GP)
+ - 😝 [Respect for this legend who prioritized family.](http://9gag.com/gag/aO8138N)
+ - 💣 [Probably the most accurate portrayal of a body swap I&#39;ve ever seen.](http://9gag.com/gag/amoVvL9)
+ - 😝 [My dad&#39;s old wallet is basically a magic trick](http://9gag.com/gag/aRB27Ry)
+ - 👉 [Lost and found in Japan hits different.](http://9gag.com/gag/agm2Ay6)<!-- MEMES:END -->
 
 ---
 

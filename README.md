@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Surface Laptop 13 review: exquisite hardware, great keyboard, trackpad, and battery, and a 3:2 display, but Snapdragon X has app compatibility issues &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/250528/p20#a250528p20)
- - [DeepSeek completes a &quot;minor trial upgrade&quot; to R1 and says users can now start testing it, according to its post in an official WeChat group &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250528/p19#a250528p19)
- - [Mushroom Supplements Are the Biohackers&#39; Latest Fix &lpar;2025&rpar;](https://www.wired.com/story/the-wired-guide-to-mushroom-supplements/)
- - [Surface Laptop 13-inch review: a little less for a little less](https://www.theverge.com/reviews/671554/microsoft-surface-laptop-13-inch-review)
- - [AirPods Max vs Sony XM6 - Over-ear headphones shootout](https://appleinsider.com/inside/airpods-max/vs/airpods-max-vs-sony-xm6---over-ear-headphones-shootout?utm_medium=rss)<!-- TECH:END -->
+ - [7 Best Massagers for People Who Don’t Have Time to Relax &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-massagers/)
+ - [Pavel Durov says Telegram and xAI agreed a one-year deal to distribute Grok; Telegram will get $300M in cash and equity from xAI and 50% of subscription revenue &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/250528/p22#a250528p22)
+ - [Keita Takahashi returns with the whimsically weird To a T](https://www.theverge.com/games-review/674577/to-a-t-review-keita-takahashi-ps5-xbox-pc)
+ - [Discord&amp;#8217;s new currency pays users to interact with ads](https://www.theverge.com/news/675481/discord-orbs-currency-quests-ads)
+ - [Global Payments says it will sell its Heartland Payroll Solutions unit, which has 50K+ clients, to Michigan-based fintech Acrisure for $1.1B, closing in H2 2025 &lpar;Reuters&rpar;](http://www.techmeme.com/250528/p21#a250528p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

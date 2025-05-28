@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X says it&#39;s pausing the encrypted DMs feature to &quot;work on making some improvements&quot;; users can view previous encrypted DMs but cannot send new ones &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/250528/p42#a250528p42)
  - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
  - [A Kaiser Permanente systems outage has pharmacies relying on pen and paper](https://www.theverge.com/news/676141/kaiser-permanente-outage-pharmacies-pen-paper)
  - [Tile trackers are being fully integrated into Life360](https://www.theverge.com/news/675912/tile-bluetooth-trackers-fully-integrated-with-life360-app)
- - [Nvidia reports H20 sales of $4.6B in Q1 but says it was unable to ship $2.5B of chips due to new export rules, and it expects a loss of $8B in H20 revenue in Q2 &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250528/p41#a250528p41)
- - [iPhone 17 Rumors and Leaks Unpacked. Here Are the Features We&#39;re Most Excited About](https://www.cnet.com/tech/mobile/iphone-17-rumors-and-leaks-unpacked-here-are-the-features-were-most-excited-about/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nvidia reports H20 sales of $4.6B in Q1 but says it was unable to ship $2.5B of chips due to new export rules, and it expects a loss of $8B in H20 revenue in Q2 &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/250528/p41#a250528p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

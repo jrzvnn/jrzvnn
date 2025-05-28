@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In Q1 2025, the iPhone 16 was the best selling smartphone globally, followed by the iPhone 16 Pro Max, 16 Pro, 15, Samsung Galaxy A16, Galaxy A06, and S25 Ultra &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250528/p27#a250528p27)
+ - [Anker’s new wireless earbuds come with a case that can also charge your phone](https://www.theverge.com/news/675560/anker-soundcore-p41i-wireless-earbuds-power-bank-battery-charger)
+ - [Deals: Apple&#39;s 15-inch M4 MacBook Air with 24GB RAM plunges to record low $1,375](https://appleinsider.com/articles/25/05/28/deals-apples-15-inch-m4-macbook-air-with-24gb-ram-plunges-to-record-low-1375?utm_medium=rss)
  - [All the Top Features in MacOS Sequoia](https://www.wired.com/story/apple-macos-sequoia-features/)
- - [Logic Pro update brings improved beats and audio fidelity to Mac and iPad](https://appleinsider.com/articles/25/05/28/logic-pro-update-brings-improved-beats-and-audio-fidelity-to-mac-and-ipad?utm_medium=rss)
- - [Sony’s ringing in the Switch 2 launch with PS5 deals](https://www.theverge.com/tech/675179/ps5-pro-bundle-dualsense-console-deal-sale)
- - [10 Best Meal Delivery Services, Tested By an Ex-Restaurant Critic](https://www.wired.com/gallery/best-meal-kit-services-1/)
- - [Bell Canada plans to invest hundreds of millions to build data centers in six Canadian cities; the first, set to launch in June, has Groq as an anchor tenant &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250528/p26#a250528p26)<!-- TECH:END -->
+ - [Logic Pro update brings improved beats and audio fidelity to Mac and iPad](https://appleinsider.com/articles/25/05/28/logic-pro-update-brings-improved-beats-and-audio-fidelity-to-mac-and-ipad?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fookin etiquette](http://9gag.com/gag/a34WR5Q)
- - 😝 [This is how a female gorilla courts a male](http://9gag.com/gag/aE0Xg3o)
- - 💣 [When your motor spins faster than a jet engine...](http://9gag.com/gag/aVv2Y3v)
+ - 😝 [Derby &lpar;England&rpar; new mayor](http://9gag.com/gag/avyvz7b)
  - 😝 [Been there](http://9gag.com/gag/aGy2gqG)
- - 👉 [Derby &lpar;England&rpar; new mayor](http://9gag.com/gag/avyvz7b)<!-- MEMES:END -->
+ - 💣 [Just a casual day in the backyard...](http://9gag.com/gag/ajPKEpQ)
+ - 😝 [A simple tutorial for a handyman](http://9gag.com/gag/aYQ1g6m)
+ - 👉 [When your motor spins faster than a jet engine...](http://9gag.com/gag/aVv2Y3v)<!-- MEMES:END -->
 
 ---
 

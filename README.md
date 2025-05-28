@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple is reportedly going to rename all of its operating systems](https://www.theverge.com/news/675945/apple-operating-systems-new-name-year-ios-macos)
+ - [Apple rumored to release iOS 26 at WWDC, instead of iOS 19](https://appleinsider.com/articles/25/05/28/apple-rumored-to-release-ios-26-at-wwdc-instead-of-ios-19?utm_medium=rss)
  - [Sources: Apple&#39;s next operating systems will be called iOS 26, macOS 26, watchOS 26, and more, as it plans a rebrand with numbers based on the upcoming year &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250528/p31#a250528p31)
  - [How Much Will the iPhone 17 Cost? Tariff Math Puts the Price Over $4,000](https://www.cnet.com/tech/mobile/how-much-will-the-iphone-17-cost/#ftag=CAD590a51e)
- - [Rillet raised a $25M Sequoia-led Series A and has added ~200 customers, including Windsurf, since debuting an AI tool in 2024 to automate general ledger systems &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250528/p30#a250528p30)
- - [NBA Playoffs 2025: How to Watch Timberwolves vs. Thunder Game 5 Tonight](https://www.cnet.com/tech/services-and-software/nba-playoffs-2025-how-to-watch-timberwolves-vs-thunder-game-5-tonight/#ftag=CAD590a51e)
- - [US will ban foreign officials to punish countries for social media rules](https://www.theverge.com/news/675811/us-immigration-visas-censorship-content-moderation-europe-digital-services-act)<!-- TECH:END -->
+ - [Rillet raised a $25M Sequoia-led Series A and has added ~200 customers, including Windsurf, since debuting an AI tool in 2024 to automate general ledger systems &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250528/p30#a250528p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

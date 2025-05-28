@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Road rage is evolving, just not in a good way.](http://9gag.com/gag/aPAXYyq)
+ - 😝 [Fookin etiquette](http://9gag.com/gag/a34WR5Q)
+ - 😝 [This is how a female gorilla courts a male](http://9gag.com/gag/aE0Xg3o)
+ - 💣 [When your motor spins faster than a jet engine...](http://9gag.com/gag/aVv2Y3v)
  - 😝 [Been there](http://9gag.com/gag/aGy2gqG)
- - 💣 [The view is quite impressive](http://9gag.com/gag/a5QjoMN)
- - 😝 [IQ ?](http://9gag.com/gag/ae92D2B)
- - 👉 [Built too well for capitalism.](http://9gag.com/gag/a5QjMoo)<!-- MEMES:END -->
+ - 👉 [Derby &lpar;England&rpar; new mayor](http://9gag.com/gag/avyvz7b)<!-- MEMES:END -->
 
 ---
 

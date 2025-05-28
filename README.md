@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft wants Windows Update to handle all apps](https://www.theverge.com/news/675446/microsoft-windows-update-all-apps-orchestration-platform)
+ - [7 Best Cheap Mattresses &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-cheap-mattresses/)
  - [The Switch 2 May Signal the End of Physical Games](https://www.wired.com/story/the-switch-2-may-signal-the-end-of-physical-games/)
  - [Auto Shanghai 2025 Wasn’t Just a Car Show. It Was a Warning to the West](https://www.wired.com/story/auto-shanghai-2025-car-show-warning-to-the-west/)
- - [Samsung’s One UI 8 beta arrives on Galaxy S25 phones](https://www.theverge.com/news/675439/samsung-one-ui-8-beta-galaxy-s25-plus-ultra)
- - [Getty Images CEO Craig Peters says Getty is spending &quot;millions and millions&quot; on its Stability AI lawsuit in the UK and the US, accusing it of copying 12M images &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250528/p13#a250528p13)
- - [&#39;Duster&#39;: When to Watch Episode 3 of the Retro Grindhouse Series](https://www.cnet.com/tech/services-and-software/duster-when-to-watch-episode-3-retro-grindhouse-series/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung’s One UI 8 beta arrives on Galaxy S25 phones](https://www.theverge.com/news/675439/samsung-one-ui-8-beta-galaxy-s25-plus-ultra)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

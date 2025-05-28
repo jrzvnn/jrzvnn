@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung’s One UI 8 beta arrives on Galaxy S25 phones](https://www.theverge.com/news/675439/samsung-one-ui-8-beta-galaxy-s25-plus-ultra)
+ - [Getty Images CEO Craig Peters says Getty is spending &quot;millions and millions&quot; on its Stability AI lawsuit in the UK and the US, accusing it of copying 12M images &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250528/p13#a250528p13)
  - [Sources: Nvidia suppliers Foxconn, Inventec, Dell, and Wistron made breakthroughs to resolve issues from 2024 that delayed Blackwell AI server &quot;rack&quot; shipments &lpar;Financial Times&rpar;](http://www.techmeme.com/250528/p12#a250528p12)
  - [Nintendo Switch Online N64 games are getting Rewind — but only on Switch 2](https://www.theverge.com/news/675429/nintendo-switch-online-n64-games-rewind-crt-filter-controls-switch-2-exclusive)
- - [Indian documents and emails: CCTV makers clashed with Indian regulators over rules requiring government labs to assess hardware, software, and source code &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/250528/p11#a250528p11)
- - [A look at Sea-Lion, a $52M Singapore government-backed AI initiative developing LLMs attuned to the societal and cultural nuances of the Southeast Asian region &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250528/p10#a250528p10)
- - [Opera’s new AI browser promises to write code while you sleep](https://www.theverge.com/news/675406/opera-neon-ai-agentic-browser-chat-do-make-launch-release-date)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 28, #247](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-28-247/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

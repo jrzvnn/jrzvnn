@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The gypsy trap worked](http://9gag.com/gag/ae925yb)
- - 😝 [Fine](http://9gag.com/gag/aMVXxv1)
- - 💣 [Is this the secret?](http://9gag.com/gag/aZZ2yMX)
- - 😝 [Crooks](http://9gag.com/gag/a2vb78d)
- - 👉 [Husband sets up a demonstration for his wife to answer why men miss the \ud83d\udebd on occasion](http://9gag.com/gag/aGy2pVz)<!-- MEMES:END -->
+ - 😝 [Game store employees are not ready for these trade-ins](http://9gag.com/gag/aryBnKy)
+ - 😝 [Born to Dive](http://9gag.com/gag/aAyX0Kg)
+ - 💣 [Another saturday morning](http://9gag.com/gag/a9yX1rm)
+ - 😝 [Life was better in medieval times](http://9gag.com/gag/a9yXneo)
+ - 👉 [Citizens of Earth](http://9gag.com/gag/aLnXv0P)<!-- MEMES:END -->
 
 ---
 

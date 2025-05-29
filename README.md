@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fine](http://9gag.com/gag/aMVXxv1)
- - 😝 [Tickles tickles](http://9gag.com/gag/ae929rO)
- - 💣 [From the archives](http://9gag.com/gag/aryBMg0)
+ - 😝 [Polish in natural habitat](http://9gag.com/gag/aW4240d)
+ - 😝 [Gearing up](http://9gag.com/gag/a4PqPYm)
+ - 💣 [Someone reminded me of this gem in the comments..](http://9gag.com/gag/aByXdqP)
  - 😝 [Came for the cozy vibes, staying for the pals and cuties.](http://9gag.com/gag/a9yXq9m)
- - 👉 [He already had enough](http://9gag.com/gag/apRAgmp)<!-- MEMES:END -->
+ - 👉 [Always the weird nails](http://9gag.com/gag/aYQ1Gj0)<!-- MEMES:END -->
 
 ---
 

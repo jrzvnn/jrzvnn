@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a surprise...](http://9gag.com/gag/a6Zp14e)
- - 😝 [He already had enough](http://9gag.com/gag/apRAgmp)
- - 💣 [Helping a bloated cow](http://9gag.com/gag/a9yXqqm)
+ - 😝 [Polish in natural habitat](http://9gag.com/gag/aW4240d)
+ - 😝 [Gearing up](http://9gag.com/gag/a4PqPYm)
+ - 💣 [Fridges exist!](http://9gag.com/gag/adB2gKV)
  - 😝 [Came for the cozy vibes, staying for the pals and cuties.](http://9gag.com/gag/a9yXq9m)
- - 👉 [Simple yet effective farming technique.](http://9gag.com/gag/aqyzeZ7)<!-- MEMES:END -->
+ - 👉 [Seems legit. Sign me up](http://9gag.com/gag/apRAg9n)<!-- MEMES:END -->
 
 ---
 

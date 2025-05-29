@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeepSeek says its R1 update can perform mathematics, programming, and general logic better than the previous version, and comes close to o3 and Gemini 2.5 Pro &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250529/p26#a250529p26)
- - [Gemini can now watch Google Drive videos for you](https://www.theverge.com/news/676245/google-drive-gemini-video-summary-feature)
- - [8 Best Vegan Meal Delivery Services and Kits &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-vegan-meal-kit-services/)
- - [I Never Saw Animatronics Like This: Epic Universe Team Reveals Challenges of Theme Park Tech](https://www.cnet.com/tech/i-never-saw-animatronics-like-this-epic-universe-team-reveals-challenges-of-theme-park-tech/#ftag=CAD590a51e)
- - [At Google I/O, the Company&#39;s AI Vision Finally Came Into Focus](https://www.cnet.com/tech/services-and-software/at-google-io-the-companys-ai-vision-finally-came-into-focus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Check your ASUS router for a hidden hack that survives reboots &amp; updates](https://appleinsider.com/articles/25/05/29/check-your-asus-router-for-a-hidden-hack-that-survives-reboots-updates?utm_medium=rss)
+ - [The New York Times&amp;#8217; first generative AI deal is with Amazon](https://www.theverge.com/news/676291/new-york-times-ai-deal-amazon)
+ - [NYT and Amazon agree to a content licensing deal for use in Amazon&#39;s AI platforms and to bring the NYT&#39;s &quot;content to a variety of Amazon customer experiences&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/250529/p27#a250529p27)
+ - [Tested: Nvidia’s GeForce Now just breathed new life into my Steam Deck](https://www.theverge.com/pc-gaming/676167/nvidia-geforce-now-steam-deck-test-hands-on)
+ - [DeepSeek says its R1 update can perform mathematics, programming, and general logic better than the previous version, and comes close to o3 and Gemini 2.5 Pro &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250529/p26#a250529p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

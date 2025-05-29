@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Helping a bloated cow](http://9gag.com/gag/a9yXqqm)
- - 😝 [Eco Mode Activated](http://9gag.com/gag/a2vb7W1)
- - 💣 [Asking the real questions at the museum.](http://9gag.com/gag/aXP2r7d)
+ - 😝 [The video was given to the police and he now faces a possible suspension of his license.](http://9gag.com/gag/avyvyPX)
+ - 😝 [POV: You&#39;re a Spanish conquistador and you just pulled up to the New World](http://9gag.com/gag/ayNQM2Y)
+ - 💣 [Trying to get past 2-step verification like](http://9gag.com/gag/axyPBQL)
  - 😝 [Came for the cozy vibes, staying for the pals and cuties.](http://9gag.com/gag/a9yXq9m)
- - 👉 [This is literally the meme come to life](http://9gag.com/gag/a4PqP0A)<!-- MEMES:END -->
+ - 👉 [Helping a bloated cow](http://9gag.com/gag/a9yXqqm)<!-- MEMES:END -->
 
 ---
 

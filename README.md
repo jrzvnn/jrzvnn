@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [IQ ?](http://9gag.com/gag/ae92D2B)
- - 😝 [POV: You&#39;re a Spanish conquistador and you just pulled up to the New World](http://9gag.com/gag/ayNQM2Y)
- - 💣 [Sounds about right](http://9gag.com/gag/aNDRDeG)
+ - 😝 [Asking the real questions at the museum.](http://9gag.com/gag/aXP2r7d)
+ - 😝 [Simple yet effective farming technique.](http://9gag.com/gag/aqyzeZ7)
+ - 💣 [He already had enough](http://9gag.com/gag/apRAgmp)
  - 😝 [Came for the cozy vibes, staying for the pals and cuties.](http://9gag.com/gag/a9yXq9m)
- - 👉 [Asking the real questions at the museum.](http://9gag.com/gag/aXP2r7d)<!-- MEMES:END -->
+ - 👉 [Sounds about right](http://9gag.com/gag/aNDRDeG)<!-- MEMES:END -->
 
 ---
 

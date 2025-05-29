@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Citizens of Earth](http://9gag.com/gag/aLnXv0P)
- - 😝 [He already had enough](http://9gag.com/gag/apRAgmp)
- - 💣 [Fine](http://9gag.com/gag/aMVXxv1)
- - 😝 [Another saturday morning](http://9gag.com/gag/a9yX1rm)
- - 👉 [Seems legit. Sign me up](http://9gag.com/gag/apRAg9n)<!-- MEMES:END -->
+ - 😝 [Sounds about right](http://9gag.com/gag/aNDRDeG)
+ - 😝 [Be careful kids, the Evil Queen can understand your insults in spanish](http://9gag.com/gag/a7oN1Ww)
+ - 💣 [Is this the secret?](http://9gag.com/gag/aZZ2yMX)
+ - 😝 [Crooks](http://9gag.com/gag/a2vb78d)
+ - 👉 [Fine](http://9gag.com/gag/aMVXxv1)<!-- MEMES:END -->
 
 ---
 

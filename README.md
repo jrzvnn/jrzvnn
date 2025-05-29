@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Apple investors shrug, stock fails to surge on Trump tariff block](https://appleinsider.com/articles/25/05/29/apple-investors-shrug-stock-fails-to-surge-on-trump-tariff-block?utm_medium=rss)
  - [Apple strengthens its India presence with new Bengaluru store plans](https://appleinsider.com/articles/25/05/29/apple-strengthens-its-india-presence-with-new-bengaluru-store-plans?utm_medium=rss)
  - [The 6 Best OLED TVs &lpar;2025&rpar;](https://www.wired.com/gallery/best-oleds/)
- - [JetBlue and United Airlines Announce Partnership: What This Means for Your Next Trip](https://www.cnet.com/news/jetblue-and-united-airlines-announce-partnership-what-this-means-for-your-next-trip/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Animal Crossing: New Horizons was a glimpse at Nintendo’s online future](https://www.theverge.com/games/674523/animal-crossing-new-horizons-nintendo-switch-live-service)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

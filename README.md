@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Delaware&#39;s AG is hiring an investment bank to independently value the equity that OpenAI&#39;s nonprofit parent will hold in the new for-profit entity &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250529/p1#a250529p1)
  - [In a SCOTUS brief, the Trump administration backs Cox&#39;s argument that ISPs shouldn&#39;t have to terminate customers based on unproven copyright infringement claims &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/250528/p51#a250528p51)
  - [Hex, which provides a tool for finding correlations between data points, building predictive models, and running experiments, raised a $70M Series C led by Avra &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250528/p50#a250528p50)
  - [Google unveils new Photos features, including a redesigned editor with AI features rolling out globally to Android next month and to iOS &quot;later this year&quot; &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250528/p49#a250528p49)
- - [Sources detail factors that weakened Elon Musk&#39;s alliance with President Trump, including his frustrations with Trump&#39;s tariffs and his disillusionment with DC &lpar;New York Times&rpar;](http://www.techmeme.com/250528/p48#a250528p48)
- - [Federal Court Blocks Trump&#39;s Tariffs, Finding the President Overstepped His Authority](https://www.cnet.com/personal-finance/federal-court-blocks-trumps-tariffs-finding-the-president-overstepped-his-authority/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources detail factors that weakened Elon Musk&#39;s alliance with President Trump, including his frustrations with Trump&#39;s tariffs and his disillusionment with DC &lpar;New York Times&rpar;](http://www.techmeme.com/250528/p48#a250528p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

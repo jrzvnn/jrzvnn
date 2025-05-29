@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia CEO Jensen Huang says Chinese AI rivals are filling the void left by US companies leaving China and Huawei has become &quot;quite formidable&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250529/p19#a250529p19)
- - [The Plan to Send Plant-Filled ‘Gardens’ Into Orbit](https://www.wired.com/story/the-plan-to-build-the-first-garden-in-space-thomas-heatherwick-studio-aurelia/)
- - [Sources: the Trump administration suspends sales of more US tech, including chips and jet engines, in response to China&#39;s critical mineral export restrictions &lpar;Ana Swanson/New York Times&rpar;](http://www.techmeme.com/250529/p18#a250529p18)
- - [Source: Victoria&#39;s Secret stops some office operations and tells staff to avoid using its tech amid a &quot;security incident&quot; that also disrupted its website &lpar;Bloomberg&rpar;](http://www.techmeme.com/250529/p17#a250529p17)
- - [Researcher: a Virgin Media O2 network security flaw exposed the locations of tens of million of users for up to two years; Virgin says it has fixed the issue &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/250529/p16#a250529p16)<!-- TECH:END -->
+ - [7 Best Sunrise Alarm Clocks &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sunrise-alarm-clocks/)
+ - [At Foxconn&#39;s shareholder conference, Chair Young Liu says 2025 revenue is set to reach ~$234B due to AI, and reassures shareholders amid US tariff uncertainty &lpar;Sherry Qin/Wall Street Journal&rpar;](http://www.techmeme.com/250529/p21#a250529p21)
+ - [The US Is Storing Migrant Children’s DNA in a Criminal Database](https://www.wired.com/story/cbp-dna-migrant-children-fbi-codis/)
+ - [Inside Las Vegas&#39; Bitcoin Conference: Eric and Donald Trump Jr gave speeches, JD Vance said bitcoin is &quot;only going to help the American dollar&quot;, and more &lpar;Alex Rogers/Financial Times&rpar;](http://www.techmeme.com/250529/p20#a250529p20)
+ - [Nvidia CEO Jensen Huang says Chinese AI rivals are filling the void left by US companies leaving China and Huawei has become &quot;quite formidable&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250529/p19#a250529p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

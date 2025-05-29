@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 17 screen rumored to be larger than iPhone 16](https://appleinsider.com/articles/25/05/29/iphone-17-screen-rumored-to-be-larger-than-iphone-16?utm_medium=rss)
+ - [Perplexity launches Perplexity Labs, letting users craft reports, spreadsheets, dashboards, and more, available on the web, iOS, and Android for its Pro users &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250529/p38#a250529p38)
+ - [AI could consume more power than Bitcoin by the end of 2025](https://www.theverge.com/climate-change/676528/ai-data-center-energy-forecast-bitcoin-mining)
  - [YouTube will let you search for things you see in Shorts](https://www.theverge.com/news/676631/youtube-shorts-google-lens-search)
- - [Stargate&#39;s financing and future are far from straightforward, with ~$50B in commitments to date, far below the $500B touted by President Trump and Sam Altman &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/250529/p37#a250529p37)
- - [Best Internet Providers in Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-colorado/#ftag=CAD590a51e)
- - [A Swedish MMA Tournament Spotlights the Trump Administration&#39;s Handling of Far-Right Terrorism](https://www.wired.com/story/socal-active-club-nordic-resistance-movement/)
- - [Maybe Don&#39;t Wait to Buy a Phone: Tariffs Expected to Slow Smartphone Shipment Growth](https://www.cnet.com/tech/mobile/maybe-dont-wait-to-buy-a-phone-tariffs-expected-to-slow-smartphone-shipment-growth/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Stargate&#39;s financing and future are far from straightforward, with ~$50B in commitments to date, far below the $500B touted by President Trump and Sam Altman &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/250529/p37#a250529p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

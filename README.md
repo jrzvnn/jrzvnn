@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Helping a bloated cow](http://9gag.com/gag/a9yXqqm)
- - 😝 [He already had enough](http://9gag.com/gag/apRAgmp)
- - 💣 [What a surprise...](http://9gag.com/gag/a6Zp14e)
- - 😝 [Is this the secret?](http://9gag.com/gag/aZZ2yMX)
- - 👉 [Crooks](http://9gag.com/gag/a2vb78d)<!-- MEMES:END -->
+ - 😝 [The gypsy trap worked](http://9gag.com/gag/ae925yb)
+ - 😝 [Fine](http://9gag.com/gag/aMVXxv1)
+ - 💣 [Is this the secret?](http://9gag.com/gag/aZZ2yMX)
+ - 😝 [Crooks](http://9gag.com/gag/a2vb78d)
+ - 👉 [Husband sets up a demonstration for his wife to answer why men miss the \ud83d\udebd on occasion](http://9gag.com/gag/aGy2pVz)<!-- MEMES:END -->
 
 ---
 

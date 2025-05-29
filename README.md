@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube plans to roll out Google Lens integration to Shorts in the coming weeks, allowing users to search for elements within Shorts &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250529/p42#a250529p42)
  - [Sketchy guesswork says Apple will take $4 billion hit to App Store revenue after Epic battle](https://appleinsider.com/articles/25/05/29/sketchy-guesswork-says-apple-will-take-4-billion-hit-to-app-store-revenue-after-epic-battle?utm_medium=rss)
  - [Tile trackers are being fully integrated into Life360](https://www.theverge.com/news/675912/tile-bluetooth-trackers-fully-integrated-with-life360-app)
  - [Netflix&amp;#8217;s series about the FTX fiasco has found its leading effective altruists](https://www.theverge.com/news/676726/netflix-the-altruists-casting-ftx-sam-bankman-fried-caroline-ellison)
- - [Dell reports Q1 revenue up 5% YoY to $23.38B, vs. $23.14B est., forecasts Q2 revenue above est., and raises its FY 2026 profit forecast on demand for AI systems &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250529/p41#a250529p41)
- - [Google AI Overviews Says It&#39;s Still 2024](https://www.wired.com/story/google-ai-overviews-says-its-still-2024/)<!-- TECH:END -->
+ - [Dell reports Q1 revenue up 5% YoY to $23.38B, vs. $23.14B est., forecasts Q2 revenue above est., and raises its FY 2026 profit forecast on demand for AI systems &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250529/p41#a250529p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube will let you search for things you see in Shorts](https://www.theverge.com/news/676631/youtube-shorts-google-lens-search)
  - [Stargate&#39;s financing and future are far from straightforward, with ~$50B in commitments to date, far below the $500B touted by President Trump and Sam Altman &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/250529/p37#a250529p37)
  - [Best Internet Providers in Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-colorado/#ftag=CAD590a51e)
  - [A Swedish MMA Tournament Spotlights the Trump Administration&#39;s Handling of Far-Right Terrorism](https://www.wired.com/story/socal-active-club-nordic-resistance-movement/)
- - [Maybe Don&#39;t Wait to Buy a Phone: Tariffs Expected to Slow Smartphone Shipment Growth](https://www.cnet.com/tech/mobile/maybe-dont-wait-to-buy-a-phone-tariffs-expected-to-slow-smartphone-shipment-growth/#ftag=CAD590a51e)
- - [Adam Mosseri says Instagram now supports photos with a 3:4 aspect ratio, ensuring that photos appear as they were originally shot, without cropping &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250529/p36#a250529p36)<!-- TECH:END -->
+ - [Maybe Don&#39;t Wait to Buy a Phone: Tariffs Expected to Slow Smartphone Shipment Growth](https://www.cnet.com/tech/mobile/maybe-dont-wait-to-buy-a-phone-tariffs-expected-to-slow-smartphone-shipment-growth/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

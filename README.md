@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Asking the real questions at the museum.](http://9gag.com/gag/aXP2r7d)
- - 😝 [Simple yet effective farming technique.](http://9gag.com/gag/aqyzeZ7)
- - 💣 [He already had enough](http://9gag.com/gag/apRAgmp)
+ - 😝 [Seems legit. Sign me up](http://9gag.com/gag/apRAg9n)
+ - 😝 [Polish in natural habitat](http://9gag.com/gag/aW4240d)
+ - 💣 [Time for some wisdom from Tony!](http://9gag.com/gag/azxZe8K)
  - 😝 [Came for the cozy vibes, staying for the pals and cuties.](http://9gag.com/gag/a9yXq9m)
- - 👉 [Sounds about right](http://9gag.com/gag/aNDRDeG)<!-- MEMES:END -->
+ - 👉 [Gearing up](http://9gag.com/gag/a4PqPYm)<!-- MEMES:END -->
 
 ---
 

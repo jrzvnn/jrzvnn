@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Evan Feinman, the lead architect of Biden&#39;s $42.5B US broadband program before his ouster by the Trump administration, on the program&#39;s future &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250529/p14#a250529p14)
- - [An Ada Lovelace Institute report urges the UK government to pass new laws to regulate the use of facial recognition tech by the police and private sector &lpar;Financial Times&rpar;](http://www.techmeme.com/250529/p13#a250529p13)
- - [Hummingbirds Are Evolving to Adapt to Life With Humans](https://www.wired.com/story/hummingbirds-are-evolving-to-adapt-to-life-with-humans/)
- - [Chalk, which lets enterprises input proprietary data into AI and ML models quickly for inference, raised a $50M Series A led by Felicis at a $500M valuation &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/250529/p12#a250529p12)
- - [Migrant Filipino workers in Taiwan&#39;s chip industry say job brokers control everything from paychecks to dorm beds, leaving them feeling trapped and exploited &lpar;Rest of World&rpar;](http://www.techmeme.com/250529/p11#a250529p11)<!-- TECH:END -->
+ - [Researcher: a Virgin Media O2 network security flaw exposed the locations of tens of million of users for up to two years; Virgin says it has fixed the issue &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/250529/p16#a250529p16)
+ - [Elon Musk steps away from the White House](https://www.theverge.com/news/676224/elon-musk-leaves-doge-white-house-trump)
+ - [Windows 11 gets some much-needed HDR improvements](https://www.theverge.com/news/676205/microsoft-windows-11-hdr-streaming-video-improvements)
+ - [A profile of FPT, Vietnam&#39;s largest listed tech company, which is playing a crucial role in the country&#39;s ambition to compete with regional rivals in AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250529/p15#a250529p15)
+ - [An interview with Evan Feinman, the lead architect of Biden&#39;s $42.5B US broadband program before his ouster by the Trump administration, on the program&#39;s future &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250529/p14#a250529p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

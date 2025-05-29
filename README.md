@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Eco Mode Activated](http://9gag.com/gag/a2vb7W1)
- - 😝 [Fine](http://9gag.com/gag/aMVXxv1)
- - 💣 [The level of oblivious is astounding.](http://9gag.com/gag/a2vbWVO)
- - 😝 [From the archives](http://9gag.com/gag/aryBMg0)
- - 👉 [Crooks](http://9gag.com/gag/a2vb78d)<!-- MEMES:END -->
+ - 😝 [Been there](http://9gag.com/gag/aGy2gqG)
+ - 😝 [Asking the real questions at the museum.](http://9gag.com/gag/aXP2r7d)
+ - 💣 [British police in action.](http://9gag.com/gag/adB28wj)
+ - 😝 [Be careful kids, the Evil Queen can understand your insults in spanish](http://9gag.com/gag/a7oN1Ww)
+ - 👉 [Little China Doll](http://9gag.com/gag/ayNQoKq)<!-- MEMES:END -->
 
 ---
 

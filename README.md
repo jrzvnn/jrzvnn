@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dell reports Q1 revenue up 5% YoY to $23.4B vs. $23.1B est., Infrastructure revenue up 12% to $10.3B, Q2 revenue forecast above est.; DELL jumps 5%+ after hours &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250529/p41#a250529p41)
  - [Google AI Overviews Says It&#39;s Still 2024](https://www.wired.com/story/google-ai-overviews-says-its-still-2024/)
+ - [Amazon Launches a Powerful New Affordable Blink Video Doorbell, but There&#39;s a Catch](https://www.cnet.com/home/smart-home/amazon-launches-a-powerful-new-affordable-blink-video-doorbell-but-theres-a-catch/#ftag=CAD590a51e)
  - [Xbox co-founder J Allard is working on ‘breakthrough’ devices at Amazon](https://www.theverge.com/news/676693/amazon-zeroone-team-j-allard-microsoft-xbox-smart-devices-hiring)
- - [Sources: the Trump administration is looking to change the AI Safety Institute&#39;s name to the Center for AI Safety and Leadership in the coming days &lpar;Axios&rpar;](http://www.techmeme.com/250529/p40#a250529p40)
- - [OnlyFans Turbocharged Sex Work. Now Its Founder Is Targeting the Whole Influencer Economy](https://www.wired.com/story/onlyfans-turbocharged-sex-work-now-its-founder-is-targeting-the-whole-influencer-economy/)
- - [Trump&#39;s Crackdown on Foreign Student Visas Could Derail Critical AI Research](https://www.wired.com/story/trump-administration-foreign-student-visa-brain-drain/)<!-- TECH:END -->
+ - [Listen in Luxury: Hermès Launching $15,000 Headphones This Summer](https://www.cnet.com/tech/home-entertainment/listen-in-luxury-hermes-launching-15000-headphones-this-summer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

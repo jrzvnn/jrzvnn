@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia debuts a native GeForce NOW app for Steam Deck, supporting games in up to 4K at 60 FPS; in testing, the app extended Steam Deck battery life by up to 50% &lpar;Jennifer Young/Windows Central&rpar;](http://www.techmeme.com/250529/p28#a250529p28)
  - [Check your ASUS router for a hidden hack that survives reboots &amp; updates](https://appleinsider.com/articles/25/05/29/check-your-asus-router-for-a-hidden-hack-that-survives-reboots-updates?utm_medium=rss)
  - [The New York Times&amp;#8217; first generative AI deal is with Amazon](https://www.theverge.com/news/676291/new-york-times-ai-deal-amazon)
- - [NYT and Amazon agree to a content licensing deal for use in Amazon&#39;s AI platforms and to bring the NYT&#39;s &quot;content to a variety of Amazon customer experiences&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/250529/p27#a250529p27)
- - [Tested: Nvidia’s GeForce Now just breathed new life into my Steam Deck](https://www.theverge.com/pc-gaming/676167/nvidia-geforce-now-steam-deck-test-hands-on)
- - [DeepSeek says its R1 update can perform mathematics, programming, and general logic better than the previous version, and comes close to o3 and Gemini 2.5 Pro &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250529/p26#a250529p26)<!-- TECH:END -->
+ - [Microsoft Copilot for Gaming AI Game Assistant Enters Beta on Android, iOS](https://www.cnet.com/tech/gaming/microsoft-copilot-for-gaming-ai-game-assistant-enters-beta-on-android-ios/#ftag=CAD590a51e)
+ - [EA Reportedly Cancels Black Panther Game, Shutters Cliffhanger Studio](https://www.cnet.com/tech/gaming/ea-reportedly-cancels-black-panther-game-shutters-cliffhanger-studio/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

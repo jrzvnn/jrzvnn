@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Polish in natural habitat](http://9gag.com/gag/aW4240d)
- - 😝 [Gearing up](http://9gag.com/gag/a4PqPYm)
- - 💣 [Fridges exist!](http://9gag.com/gag/adB2gKV)
+ - 😝 [IQ ?](http://9gag.com/gag/ae92D2B)
+ - 😝 [POV: You&#39;re a Spanish conquistador and you just pulled up to the New World](http://9gag.com/gag/ayNQM2Y)
+ - 💣 [Sounds about right](http://9gag.com/gag/aNDRDeG)
  - 😝 [Came for the cozy vibes, staying for the pals and cuties.](http://9gag.com/gag/a9yXq9m)
- - 👉 [Seems legit. Sign me up](http://9gag.com/gag/apRAg9n)<!-- MEMES:END -->
+ - 👉 [Asking the real questions at the museum.](http://9gag.com/gag/aXP2r7d)<!-- MEMES:END -->
 
 ---
 

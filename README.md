@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He already had enough](http://9gag.com/gag/apRAgmp)
- - 😝 [Is this the secret?](http://9gag.com/gag/aZZ2yMX)
- - 💣 [Eco Mode Activated](http://9gag.com/gag/a2vb7W1)
- - 😝 [What a surprise...](http://9gag.com/gag/a6Zp14e)
- - 👉 [Baby&#39;s got blue eyes](http://9gag.com/gag/aNDR0b3)<!-- MEMES:END -->
+ - 😝 [Eco Mode Activated](http://9gag.com/gag/a2vb7W1)
+ - 😝 [Fine](http://9gag.com/gag/aMVXxv1)
+ - 💣 [The level of oblivious is astounding.](http://9gag.com/gag/a2vbWVO)
+ - 😝 [From the archives](http://9gag.com/gag/aryBMg0)
+ - 👉 [Crooks](http://9gag.com/gag/a2vb78d)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instagram isn&amp;#8217;t just for square photos anymore](https://www.theverge.com/news/676549/instagram-3-4-aspect-ratio-photos-phones-square-rectangle)
  - [Job postings: Amazon has a new ZeroOne team focused on inventing &quot;breakthrough&quot; consumer products, and led by former Microsoft executive J Allard &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250529/p35#a250529p35)
  - [Here’s how you can get a Nintendo Switch 2 at launch — or at least try to](https://www.theverge.com/tech/653010/nintendo-switch-2-preorder-tips-tricks-release-date-price-availability-how-to-buy)
  - [iPhone 16 leads global smartphone sales while cheap Androids fight for share](https://appleinsider.com/articles/25/05/28/iphone-16-leads-global-smartphone-sales-while-cheap-androids-fight-for-share?utm_medium=rss)
- - [Trump &#39;Liberation Day&#39; tariffs blocked by U.S. trade court](https://appleinsider.com/articles/25/05/29/trump-liberation-day-tariffs-blocked-by-us-trade-court?utm_medium=rss)
- - [Thanks to Pee-wee Herman, Gen X Got to Grow Up Weird and His New Documentary Is a Reminder of That](https://www.cnet.com/tech/services-and-software/thanks-to-pee-wee-herman-gen-x-got-to-grow-up-weird-and-his-new-documentary-is-a-reminder-of-that/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Trump &#39;Liberation Day&#39; tariffs blocked by U.S. trade court](https://appleinsider.com/articles/25/05/29/trump-liberation-day-tariffs-blocked-by-us-trade-court?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

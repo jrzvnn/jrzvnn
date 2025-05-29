@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Wait, titanium dioxide was in Skittles?](http://9gag.com/gag/aQz2ge7)
- - 😝 [Helping a bloated cow](http://9gag.com/gag/a9yXqqm)
- - 💣 [This is literally the meme come to life](http://9gag.com/gag/a4PqP0A)
+ - 😝 [Installing Starlink the most American way possible](http://9gag.com/gag/ayNQ2Ep)
+ - 💣 [Trying to get past 2-step verification like](http://9gag.com/gag/axyPBQL)
  - 😝 [Came for the cozy vibes, staying for the pals and cuties.](http://9gag.com/gag/a9yXq9m)
- - 👉 [Trying to get past 2-step verification like](http://9gag.com/gag/axyPBQL)<!-- MEMES:END -->
+ - 👉 [This is literally the meme come to life](http://9gag.com/gag/a4PqP0A)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Life was better in medieval times](http://9gag.com/gag/a9yXneo)
- - 😝 [Citizens of Earth](http://9gag.com/gag/aLnXv0P)
- - 💣 [Another saturday morning](http://9gag.com/gag/a9yX1rm)
- - 😝 [Fine](http://9gag.com/gag/aMVXxv1)
- - 👉 [Seems legit. Sign me up](http://9gag.com/gag/apRAg9n)<!-- MEMES:END -->
+ - 😝 [From the archives](http://9gag.com/gag/aryBMg0)
+ - 😝 [Crooks](http://9gag.com/gag/a2vb78d)
+ - 💣 [Is this the secret?](http://9gag.com/gag/aZZ2yMX)
+ - 😝 [He already had enough](http://9gag.com/gag/apRAgmp)
+ - 👉 [Been there](http://9gag.com/gag/aGy2gqG)<!-- MEMES:END -->
 
 ---
 

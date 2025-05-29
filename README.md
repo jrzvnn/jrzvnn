@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dutch information services company Wolters Kluwer agrees to acquire legal software maker Brightflag for ~$480M in cash, set to close in June 2025 &lpar;Andrea Figueras/Wall Street Journal&rpar;](http://www.techmeme.com/250529/p23#a250529p23)
+ - [Instagram Keeps Polishing Its Edits App to Woo Video Creators](https://www.wired.com/story/instagram-edits-app-new-features/)
+ - [Hyundai’s new EV factory is teeming with robots — and wariness about the future](https://www.theverge.com/electric-cars/675597/hyundais-new-ev-factory-is-teeming-with-robots-and-wariness-about-the-future)
  - [Beijing-based Kuaishou updates its Kling video-generation tool to cut the cost and time to create clips, and says it can generate 1080p videos in under a minute &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250529/p22#a250529p22)
- - [7 Best Sunrise Alarm Clocks &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sunrise-alarm-clocks/)
- - [At Foxconn&#39;s shareholder conference, Chair Young Liu says 2025 revenue is set to reach ~$234B due to AI, and reassures shareholders amid US tariff uncertainty &lpar;Sherry Qin/Wall Street Journal&rpar;](http://www.techmeme.com/250529/p21#a250529p21)
- - [The US Is Storing Migrant Children’s DNA in a Criminal Database](https://www.wired.com/story/cbp-dna-migrant-children-fbi-codis/)
- - [Inside Las Vegas&#39; Bitcoin Conference: Eric and Donald Trump Jr gave speeches, JD Vance said bitcoin is &quot;only going to help the American dollar&quot;, and more &lpar;Alex Rogers/Financial Times&rpar;](http://www.techmeme.com/250529/p20#a250529p20)<!-- TECH:END -->
+ - [7 Best Sunrise Alarm Clocks &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sunrise-alarm-clocks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

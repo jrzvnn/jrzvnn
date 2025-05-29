@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Helping a bloated cow](http://9gag.com/gag/a9yXqqm)
- - 😝 [Baby&#39;s got blue eyes](http://9gag.com/gag/aNDR0b3)
- - 💣 [He already had enough](http://9gag.com/gag/apRAgmp)
- - 😝 [From the archives](http://9gag.com/gag/aryBMg0)
- - 👉 [Crooks](http://9gag.com/gag/a2vb78d)<!-- MEMES:END -->
+ - 😝 [The level of oblivious is astounding.](http://9gag.com/gag/a2vbWVO)
+ - 😝 [Harvard Business School got a lesson in business.](http://9gag.com/gag/aZZ2ynp)
+ - 💣 [Is this the secret?](http://9gag.com/gag/aZZ2yMX)
+ - 😝 [What a surprise...](http://9gag.com/gag/a6Zp14e)
+ - 👉 [Baby&#39;s got blue eyes](http://9gag.com/gag/aNDR0b3)<!-- MEMES:END -->
 
 ---
 

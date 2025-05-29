@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Seems legit. Sign me up](http://9gag.com/gag/apRAg9n)
- - 😝 [Polish in natural habitat](http://9gag.com/gag/aW4240d)
- - 💣 [Time for some wisdom from Tony!](http://9gag.com/gag/azxZe8K)
+ - 😝 [Fine](http://9gag.com/gag/aMVXxv1)
+ - 😝 [Tickles tickles](http://9gag.com/gag/ae929rO)
+ - 💣 [From the archives](http://9gag.com/gag/aryBMg0)
  - 😝 [Came for the cozy vibes, staying for the pals and cuties.](http://9gag.com/gag/a9yXq9m)
- - 👉 [Gearing up](http://9gag.com/gag/a4PqPYm)<!-- MEMES:END -->
+ - 👉 [He already had enough](http://9gag.com/gag/apRAgmp)<!-- MEMES:END -->
 
 ---
 

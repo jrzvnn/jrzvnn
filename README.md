@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [He already had enough](http://9gag.com/gag/apRAgmp)
- - 😝 [Been there](http://9gag.com/gag/aGy2gqG)
- - 💣 [What a surprise...](http://9gag.com/gag/a6Zp14e)
- - 😝 [Eco Mode Activated](http://9gag.com/gag/a2vb7W1)
- - 👉 [Fine](http://9gag.com/gag/aMVXxv1)<!-- MEMES:END -->
+ - 😝 [Is this the secret?](http://9gag.com/gag/aZZ2yMX)
+ - 💣 [Eco Mode Activated](http://9gag.com/gag/a2vb7W1)
+ - 😝 [What a surprise...](http://9gag.com/gag/a6Zp14e)
+ - 👉 [Baby&#39;s got blue eyes](http://9gag.com/gag/aNDR0b3)<!-- MEMES:END -->
 
 ---
 

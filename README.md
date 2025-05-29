@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [POV: You&#39;re a Spanish conquistador and you just pulled up to the New World](http://9gag.com/gag/ayNQM2Y)
- - 😝 [From the archives](http://9gag.com/gag/aryBMg0)
- - 💣 [He already had enough](http://9gag.com/gag/apRAgmp)
- - 😝 [Fine](http://9gag.com/gag/aMVXxv1)
+ - 😝 [Simple yet effective farming technique.](http://9gag.com/gag/aqyzeZ7)
+ - 😝 [Sounds about right](http://9gag.com/gag/aNDRDeG)
+ - 💣 [Fine](http://9gag.com/gag/aMVXxv1)
+ - 😝 [Came for the cozy vibes, staying for the pals and cuties.](http://9gag.com/gag/a9yXq9m)
  - 👉 [Is this the secret?](http://9gag.com/gag/aZZ2yMX)<!-- MEMES:END -->
 
 ---

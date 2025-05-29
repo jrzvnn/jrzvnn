@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: virtual chronic care company Omada Health plans to raise up to $158M in its IPO, selling shares for $18 to $20 and aiming for an up to ~$1.1B market cap &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250529/p32#a250529p32)
  - [Steeper price drop: Apple&#39;s M4 Mac mini falls to $488](https://appleinsider.com/articles/25/05/29/steeper-price-drop-apples-m4-mac-mini-falls-to-488?utm_medium=rss)
  - [An Apple-funded study says the US App Store drove $406B in 2024 billings and sales, up from $142B in 2019, with developers paying no commission on 90% of sales &lpar;Andrew Orr/AppleInsider&rpar;](http://www.techmeme.com/250529/p31#a250529p31)
  - [International students sue over Trump’s social media surveillance plan](https://www.theverge.com/news/676419/iranian-interntional-students-lawsuit-trump-dhs-vetting)
- - [Like its predecessor, DeepSeek-R1-0528 has an MIT License and model weights are on Hugging Face; DeepSeek API users will get to use the model at no extra cost &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250529/p30#a250529p30)
- - [Apple&#39;s new study highlights App Store&#39;s role in global commerce](https://appleinsider.com/articles/25/05/29/apples-new-study-highlights-app-stores-role-in-global-commerce?utm_medium=rss)<!-- TECH:END -->
+ - [Like its predecessor, DeepSeek-R1-0528 has an MIT License and model weights are on Hugging Face; DeepSeek API users will get to use the model at no extra cost &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250529/p30#a250529p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

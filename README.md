@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at YouTube&#39;s changes to become viewers&#39; preferred TV service and to appeal more to advertisers, and at creators&#39; push into sitcoms, like Alan&#39;s Universe &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250529/p9#a250529p9)
+ - [Dario Amodei says AI could wipe out half of all entry-level white-collar jobs and spike unemployment in the US to 10%-20% in the next one to five years &lpar;Axios&rpar;](http://www.techmeme.com/250529/p8#a250529p8)
+ - [Inside Solana Accelerate conference in NYC, which was full of buzz about stablecoins and lacked the over-the-top glitz and pomp of earlier crypto conferences &lpar;Katie Notopoulos/Business Insider&rpar;](http://www.techmeme.com/250529/p7#a250529p7)
  - [The Czech Republic says that the state-sponsored Chinese hacking group APT31 has targeted its foreign ministry&#39;s unclassified communications network since 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/250529/p6#a250529p6)
- - [EU Tech Commissioner Henna Virkkunen says that far more online content is being removed in the EU under the T&amp;Cs of US platforms than as a result of the DSA &lpar;Anupriya Datta/Euractiv&rpar;](http://www.techmeme.com/250529/p5#a250529p5)
- - [GreyNoise researchers detail a novel botnet infecting 9K+ routers from Asus and others with a persistent SSH backdoor, enabling access after reboots and updates &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250529/p4#a250529p4)
- - [Sources: X covered some losses usually borne by banks when seven lenders, including Morgan Stanley, sold $1.2B of its debt at 98 cents on the dollar in April &lpar;Financial Times&rpar;](http://www.techmeme.com/250529/p3#a250529p3)
- - [Gumroad founder Sahil Lavingia on working as a DOGE software engineer for the VA, says he was let go after his Fast Company interview was published &lpar;Sahil Lavingia&rpar;](http://www.techmeme.com/250529/p2#a250529p2)<!-- TECH:END -->
+ - [EU Tech Commissioner Henna Virkkunen says that far more online content is being removed in the EU under the T&amp;Cs of US platforms than as a result of the DSA &lpar;Anupriya Datta/Euractiv&rpar;](http://www.techmeme.com/250529/p5#a250529p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

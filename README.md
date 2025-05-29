@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Faster than The Flash!](http://9gag.com/gag/ae92DdQ)
- - 😝 [Life was better in medieval times](http://9gag.com/gag/a9yXneo)
- - 💣 [Citizens of Earth](http://9gag.com/gag/aLnXv0P)
- - 😝 [Game store employees are not ready for these trade-ins](http://9gag.com/gag/aryBnKy)
- - 👉 [Fine](http://9gag.com/gag/aMVXxv1)<!-- MEMES:END -->
+ - 😝 [Baby&#39;s got blue eyes](http://9gag.com/gag/aNDR0b3)
+ - 😝 [POV: You&#39;re a Spanish conquistador and you just pulled up to the New World](http://9gag.com/gag/ayNQM2Y)
+ - 💣 [Crooks](http://9gag.com/gag/a2vb78d)
+ - 😝 [From the archives](http://9gag.com/gag/aryBMg0)
+ - 👉 [When the food hits the water...](http://9gag.com/gag/aRB2XBG)<!-- MEMES:END -->
 
 ---
 

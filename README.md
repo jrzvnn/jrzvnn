@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Big business](http://9gag.com/gag/aGy2ErG)
- - 😝 [Life was better in medieval times](http://9gag.com/gag/a9yXneo)
- - 💣 [Citizens of Earth](http://9gag.com/gag/aLnXv0P)
- - 😝 [Another saturday morning](http://9gag.com/gag/a9yX1rm)
- - 👉 [Fine](http://9gag.com/gag/aMVXxv1)<!-- MEMES:END -->
+ - 😝 [What a surprise...](http://9gag.com/gag/a6Zp14e)
+ - 😝 [Baby&#39;s got blue eyes](http://9gag.com/gag/aNDR0b3)
+ - 💣 [From the archives](http://9gag.com/gag/aryBMg0)
+ - 😝 [Fine](http://9gag.com/gag/aMVXxv1)
+ - 👉 [Crooks](http://9gag.com/gag/a2vb78d)<!-- MEMES:END -->
 
 ---
 

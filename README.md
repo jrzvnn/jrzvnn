@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Citizens of Earth](http://9gag.com/gag/aLnXv0P)
- - 😝 [Life was better in medieval times](http://9gag.com/gag/a9yXneo)
- - 💣 [Fine](http://9gag.com/gag/aMVXxv1)
- - 😝 [Another saturday morning](http://9gag.com/gag/a9yX1rm)
- - 👉 [Seems legit. Sign me up](http://9gag.com/gag/apRAg9n)<!-- MEMES:END -->
+ - 😝 [Little China Doll](http://9gag.com/gag/ayNQoKq)
+ - 😝 [Baby&#39;s got blue eyes](http://9gag.com/gag/aNDR0b3)
+ - 💣 [The level of oblivious is astounding.](http://9gag.com/gag/a2vbWVO)
+ - 😝 [Asking the real questions at the museum.](http://9gag.com/gag/aXP2r7d)
+ - 👉 [Well, that didn&#39;t go as planned.](http://9gag.com/gag/aD2X45w)<!-- MEMES:END -->
 
 ---
 

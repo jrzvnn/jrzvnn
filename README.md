@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google AI Overviews Says It&#39;s Still 2024](https://www.wired.com/story/google-ai-overviews-says-its-still-2024/)
  - [Xbox co-founder J Allard is working on ‘breakthrough’ devices at Amazon](https://www.theverge.com/news/676693/amazon-zeroone-team-j-allard-microsoft-xbox-smart-devices-hiring)
  - [Sources: the Trump administration is looking to change the AI Safety Institute&#39;s name to the Center for AI Safety and Leadership in the coming days &lpar;Axios&rpar;](http://www.techmeme.com/250529/p40#a250529p40)
  - [OnlyFans Turbocharged Sex Work. Now Its Founder Is Targeting the Whole Influencer Economy](https://www.wired.com/story/onlyfans-turbocharged-sex-work-now-its-founder-is-targeting-the-whole-influencer-economy/)
- - [Trump&#39;s Crackdown on Foreign Student Visas Could Derail Critical AI Research](https://www.wired.com/story/trump-administration-foreign-student-visa-brain-drain/)
- - [A federal appeals court grants the Trump administration&#39;s request to temporarily pause a lower court ruling that struck down most of President Trump&#39;s tariffs &lpar;Kevin Breuninger/CNBC&rpar;](http://www.techmeme.com/250529/p39#a250529p39)<!-- TECH:END -->
+ - [Trump&#39;s Crackdown on Foreign Student Visas Could Derail Critical AI Research](https://www.wired.com/story/trump-administration-foreign-student-visa-brain-drain/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

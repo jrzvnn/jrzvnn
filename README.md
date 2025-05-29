@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Little China Doll](http://9gag.com/gag/ayNQoKq)
- - 😝 [Baby&#39;s got blue eyes](http://9gag.com/gag/aNDR0b3)
- - 💣 [The level of oblivious is astounding.](http://9gag.com/gag/a2vbWVO)
- - 😝 [Asking the real questions at the museum.](http://9gag.com/gag/aXP2r7d)
- - 👉 [Well, that didn&#39;t go as planned.](http://9gag.com/gag/aD2X45w)<!-- MEMES:END -->
+ - 😝 [Husband sets up a demonstration for his wife to answer why men miss the \ud83d\udebd on occasion](http://9gag.com/gag/aGy2pVz)
+ - 😝 [Well, that didn&#39;t go as planned.](http://9gag.com/gag/aD2X45w)
+ - 💣 [Be careful kids, the Evil Queen can understand your insults in spanish](http://9gag.com/gag/a7oN1Ww)
+ - 😝 [Is this the secret?](http://9gag.com/gag/aZZ2yMX)
+ - 👉 [Little China Doll](http://9gag.com/gag/ayNQoKq)<!-- MEMES:END -->
 
 ---
 

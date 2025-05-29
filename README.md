@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Been there](http://9gag.com/gag/aGy2gqG)
- - 😝 [Asking the real questions at the museum.](http://9gag.com/gag/aXP2r7d)
- - 💣 [British police in action.](http://9gag.com/gag/adB28wj)
- - 😝 [Be careful kids, the Evil Queen can understand your insults in spanish](http://9gag.com/gag/a7oN1Ww)
- - 👉 [Little China Doll](http://9gag.com/gag/ayNQoKq)<!-- MEMES:END -->
+ - 😝 [Citizens of Earth](http://9gag.com/gag/aLnXv0P)
+ - 😝 [Life was better in medieval times](http://9gag.com/gag/a9yXneo)
+ - 💣 [Fine](http://9gag.com/gag/aMVXxv1)
+ - 😝 [Another saturday morning](http://9gag.com/gag/a9yX1rm)
+ - 👉 [Seems legit. Sign me up](http://9gag.com/gag/apRAg9n)<!-- MEMES:END -->
 
 ---
 

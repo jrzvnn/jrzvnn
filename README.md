@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Game store employees are not ready for these trade-ins](http://9gag.com/gag/aryBnKy)
- - 😝 [Born to Dive](http://9gag.com/gag/aAyX0Kg)
- - 💣 [Another saturday morning](http://9gag.com/gag/a9yX1rm)
- - 😝 [Life was better in medieval times](http://9gag.com/gag/a9yXneo)
- - 👉 [Citizens of Earth](http://9gag.com/gag/aLnXv0P)<!-- MEMES:END -->
+ - 😝 [The level of oblivious is astounding.](http://9gag.com/gag/a2vbWVO)
+ - 😝 [What a surprise...](http://9gag.com/gag/a6Zp14e)
+ - 💣 [Crooks](http://9gag.com/gag/a2vb78d)
+ - 😝 [The gypsy trap worked](http://9gag.com/gag/ae925yb)
+ - 👉 [Fine](http://9gag.com/gag/aMVXxv1)<!-- MEMES:END -->
 
 ---
 

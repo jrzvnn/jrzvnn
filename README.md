@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [What a surprise...](http://9gag.com/gag/a6Zp14e)
- - 😝 [Baby&#39;s got blue eyes](http://9gag.com/gag/aNDR0b3)
- - 💣 [From the archives](http://9gag.com/gag/aryBMg0)
+ - 😝 [He already had enough](http://9gag.com/gag/apRAgmp)
+ - 💣 [Crooks](http://9gag.com/gag/a2vb78d)
  - 😝 [Fine](http://9gag.com/gag/aMVXxv1)
- - 👉 [Crooks](http://9gag.com/gag/a2vb78d)<!-- MEMES:END -->
+ - 👉 [Baby&#39;s got blue eyes](http://9gag.com/gag/aNDR0b3)<!-- MEMES:END -->
 
 ---
 

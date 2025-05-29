@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sounds about right](http://9gag.com/gag/aNDRDeG)
- - 😝 [Be careful kids, the Evil Queen can understand your insults in spanish](http://9gag.com/gag/a7oN1Ww)
- - 💣 [Is this the secret?](http://9gag.com/gag/aZZ2yMX)
- - 😝 [Crooks](http://9gag.com/gag/a2vb78d)
- - 👉 [Fine](http://9gag.com/gag/aMVXxv1)<!-- MEMES:END -->
+ - 😝 [POV: You&#39;re a Spanish conquistador and you just pulled up to the New World](http://9gag.com/gag/ayNQM2Y)
+ - 😝 [From the archives](http://9gag.com/gag/aryBMg0)
+ - 💣 [He already had enough](http://9gag.com/gag/apRAgmp)
+ - 😝 [Fine](http://9gag.com/gag/aMVXxv1)
+ - 👉 [Is this the secret?](http://9gag.com/gag/aZZ2yMX)<!-- MEMES:END -->
 
 ---
 

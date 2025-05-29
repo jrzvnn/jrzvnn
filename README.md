@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [POV: You&#39;re a Spanish conquistador and you just pulled up to the New World](http://9gag.com/gag/ayNQM2Y)
- - 😝 [Crooks](http://9gag.com/gag/a2vb78d)
- - 💣 [Florida woman strikes again](http://9gag.com/gag/aByXgZz)
  - 😝 [Helping a bloated cow](http://9gag.com/gag/a9yXqqm)
- - 👉 [He already had enough](http://9gag.com/gag/apRAgmp)<!-- MEMES:END -->
+ - 😝 [Baby&#39;s got blue eyes](http://9gag.com/gag/aNDR0b3)
+ - 💣 [He already had enough](http://9gag.com/gag/apRAgmp)
+ - 😝 [From the archives](http://9gag.com/gag/aryBMg0)
+ - 👉 [Crooks](http://9gag.com/gag/a2vb78d)<!-- MEMES:END -->
 
 ---
 

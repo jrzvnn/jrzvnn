@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The ‘beige Amazon influencer’ lawsuit is headed for dismissal](https://www.theverge.com/news/676357/amazon-influencer-lawsuit-beige-clean-girl-copyright-dismissed)
  - [Grammarly raised $1B in non-dilutive funding from General Catalyst to expand its AI tools; 2005-founded Grammarly has $700M+ in annual revenue and is profitable &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/250529/p34#a250529p34)
  - [Father&#39;s Day Gift Guide: The Best Wellness Gifts for Every Kind of Dad &lpar;and Every Budget&rpar;](https://www.cnet.com/health/fathers-day-gift-guide-the-best-wellness-gifts-for-every-kind-of-dad-and-every-budget/#ftag=CAD590a51e)
  - [Victoria&#39;s Secret Takes Down US Website After Security Incident](https://www.cnet.com/tech/services-and-software/victorias-secret-takes-down-us-website-after-security-incident/#ftag=CAD590a51e)
- - [Insta360’s face-tracking Link webcams have hit their lowest prices yet](https://www.theverge.com/tech/676447/insta360-link-2-webcam-samsung-galaxy-s25-plus-deal-sale)
- - [Meta and Palmer Luckey&#39;s Anduril Industries partner to build EagleEye, a new AI-powered weapons system, including rugged helmets, glasses, and other wearables &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/250529/p33#a250529p33)<!-- TECH:END -->
+ - [Insta360’s face-tracking Link webcams have hit their lowest prices yet](https://www.theverge.com/tech/676447/insta360-link-2-webcam-samsung-galaxy-s25-plus-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

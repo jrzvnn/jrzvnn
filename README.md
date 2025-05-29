@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta’s ‘Free Expression’ Push Results In Far Fewer Content Takedowns](https://www.wired.com/story/meta-content-moderation-changes-decrease-removals/)
+ - [The Trump Administration Wants to Create an ‘Office of Remigration’](https://www.wired.com/story/trump-office-remigration-state-department-europe-far-right/)
  - [Marvell reports Q1 revenue up 63% YoY to $1.9B, vs. $1.88B est., data center revenue up 76% YoY to $1.44B, and forecasts Q2 revenue above est. on AI chip demand &lpar;Priyanka G/Reuters&rpar;](http://www.techmeme.com/250529/p44#a250529p44)
  - [AI models analyzing audio from AirPods could determine a user&#39;s heart rate](https://appleinsider.com/articles/25/05/29/ai-models-analyzing-audio-from-airpods-could-determine-a-users-heart-rate?utm_medium=rss)
- - [Scuf is finally adding Hall effect sticks to some of its wireless controllers](https://www.theverge.com/news/676850/scuf-corsair-envision-reflex-hall-effect-sticks-controllers)
- - [NBA Playoffs 2025: How to Watch Pacers vs. Knicks Game 5 Tonight](https://www.cnet.com/tech/services-and-software/nba-playoffs-2025-how-to-watch-pacers-vs-knicks-game-5-tonight/#ftag=CAD590a51e)
- - [Elon Musk sure does want everyone to think he’s leaving politics](https://www.theverge.com/elon-musk/676800/elon-musk-doge-leaving-politics-trump)<!-- TECH:END -->
+ - [Scuf is finally adding Hall effect sticks to some of its wireless controllers](https://www.theverge.com/news/676850/scuf-corsair-envision-reflex-hall-effect-sticks-controllers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

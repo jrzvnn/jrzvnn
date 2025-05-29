@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Victoria&#39;s Secret stops some office operations and tells staff to avoid using its tech amid a &quot;security incident&quot; that also disrupted its website &lpar;Bloomberg&rpar;](http://www.techmeme.com/250529/p17#a250529p17)
  - [Researcher: a Virgin Media O2 network security flaw exposed the locations of tens of million of users for up to two years; Virgin says it has fixed the issue &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/250529/p16#a250529p16)
+ - [Starship’s Latest Test Reveals New Problems for SpaceX to Solve](https://www.wired.com/story/starships-latest-test-reveals-new-problems-for-spacex-to-solve/)
  - [Elon Musk steps away from the White House](https://www.theverge.com/news/676224/elon-musk-leaves-doge-white-house-trump)
- - [Windows 11 gets some much-needed HDR improvements](https://www.theverge.com/news/676205/microsoft-windows-11-hdr-streaming-video-improvements)
- - [A profile of FPT, Vietnam&#39;s largest listed tech company, which is playing a crucial role in the country&#39;s ambition to compete with regional rivals in AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250529/p15#a250529p15)
- - [An interview with Evan Feinman, the lead architect of Biden&#39;s $42.5B US broadband program before his ouster by the Trump administration, on the program&#39;s future &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/250529/p14#a250529p14)<!-- TECH:END -->
+ - [Windows 11 gets some much-needed HDR improvements](https://www.theverge.com/news/676205/microsoft-windows-11-hdr-streaming-video-improvements)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

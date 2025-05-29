@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia CEO Jensen Huang says Chinese AI rivals are filling the void left by US companies leaving China and Huawei has become &quot;quite formidable&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250529/p19#a250529p19)
+ - [The Plan to Send Plant-Filled ‘Gardens’ Into Orbit](https://www.wired.com/story/the-plan-to-build-the-first-garden-in-space-thomas-heatherwick-studio-aurelia/)
+ - [Sources: the Trump administration suspends sales of more US tech, including chips and jet engines, in response to China&#39;s critical mineral export restrictions &lpar;Ana Swanson/New York Times&rpar;](http://www.techmeme.com/250529/p18#a250529p18)
  - [Source: Victoria&#39;s Secret stops some office operations and tells staff to avoid using its tech amid a &quot;security incident&quot; that also disrupted its website &lpar;Bloomberg&rpar;](http://www.techmeme.com/250529/p17#a250529p17)
- - [Researcher: a Virgin Media O2 network security flaw exposed the locations of tens of million of users for up to two years; Virgin says it has fixed the issue &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/250529/p16#a250529p16)
- - [Starship’s Latest Test Reveals New Problems for SpaceX to Solve](https://www.wired.com/story/starships-latest-test-reveals-new-problems-for-spacex-to-solve/)
- - [Elon Musk steps away from the White House](https://www.theverge.com/news/676224/elon-musk-leaves-doge-white-house-trump)
- - [Windows 11 gets some much-needed HDR improvements](https://www.theverge.com/news/676205/microsoft-windows-11-hdr-streaming-video-improvements)<!-- TECH:END -->
+ - [Researcher: a Virgin Media O2 network security flaw exposed the locations of tens of million of users for up to two years; Virgin says it has fixed the issue &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/250529/p16#a250529p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

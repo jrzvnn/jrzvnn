@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Husband sets up a demonstration for his wife to answer why men miss the \ud83d\udebd on occasion](http://9gag.com/gag/aGy2pVz)
- - 😝 [Well, that didn&#39;t go as planned.](http://9gag.com/gag/aD2X45w)
- - 💣 [Be careful kids, the Evil Queen can understand your insults in spanish](http://9gag.com/gag/a7oN1Ww)
- - 😝 [Is this the secret?](http://9gag.com/gag/aZZ2yMX)
- - 👉 [Little China Doll](http://9gag.com/gag/ayNQoKq)<!-- MEMES:END -->
+ - 😝 [Citizens of Earth](http://9gag.com/gag/aLnXv0P)
+ - 😝 [He already had enough](http://9gag.com/gag/apRAgmp)
+ - 💣 [Fine](http://9gag.com/gag/aMVXxv1)
+ - 😝 [Another saturday morning](http://9gag.com/gag/a9yX1rm)
+ - 👉 [Seems legit. Sign me up](http://9gag.com/gag/apRAg9n)<!-- MEMES:END -->
 
 ---
 

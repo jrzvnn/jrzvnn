@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Scuf is finally adding Hall effect sticks to some of its wireless controllers](https://www.theverge.com/news/676850/scuf-corsair-envision-reflex-hall-effect-sticks-controllers)
  - [Elon Musk sure does want everyone to think he’s leaving politics](https://www.theverge.com/elon-musk/676800/elon-musk-doge-leaving-politics-trump)
  - [Filing: the US SEC voluntarily dismissed its 2023 lawsuit against Binance and CZ that accused them of diverting customer funds, misleading investors, and more &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250529/p43#a250529p43)
  - [Another Top Musk Lieutenant Appears to Be Leaving DOGE](https://www.wired.com/story/nicole-hollander-top-musk-lieutenant-leaving-doge/)
- - [YouTube plans to roll out Google Lens integration to Shorts in the coming weeks, allowing users to search for elements within Shorts &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250529/p42#a250529p42)
- - [Blue Origin&#39;s Next Space Launch Is Saturday: Here&#39;s How to Stream and What to Know](https://www.cnet.com/science/space/blue-origins-next-space-launch-is-saturday-may-31-heres-how-to-stream-and-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [YouTube plans to roll out Google Lens integration to Shorts in the coming weeks, allowing users to search for elements within Shorts &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250529/p42#a250529p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

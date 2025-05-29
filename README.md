@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WhatsApp is working on an easier way to log out](https://www.theverge.com/news/676236/whatsapp-app-log-out-account-beta-feature)
+ - [Victoria&#39;s Secret replaces its website with a messaging saying &quot;we identified and are taking steps to address a security incident&quot;, and closes store services &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250529/p25#a250529p25)
  - [Chainalysis: the US government&#39;s top 20 crypto holdings are worth ~$20.9B as of May 28, including $20.4B in bitcoin, primarily derived from its seized crypto &lpar;Lisa Bonos/Washington Post&rpar;](http://www.techmeme.com/250529/p24#a250529p24)
  - [The Best Cooling Sheets, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-cooling-sheets/)
- - [Dutch information services company Wolters Kluwer agrees to acquire legal software maker Brightflag for ~$480M in cash, set to close in June 2025 &lpar;Andrea Figueras/Wall Street Journal&rpar;](http://www.techmeme.com/250529/p23#a250529p23)
- - [Instagram Keeps Polishing Its Edits App to Woo Video Creators](https://www.wired.com/story/instagram-edits-app-new-features/)
- - [Hyundai’s new EV factory is teeming with robots — and wariness about the future](https://www.theverge.com/electric-cars/675597/hyundais-new-ev-factory-is-teeming-with-robots-and-wariness-about-the-future)<!-- TECH:END -->
+ - [Dutch information services company Wolters Kluwer agrees to acquire legal software maker Brightflag for ~$480M in cash, set to close in June 2025 &lpar;Andrea Figueras/Wall Street Journal&rpar;](http://www.techmeme.com/250529/p23#a250529p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trying to get past 2-step verification like](http://9gag.com/gag/axyPBQL)
- - 😝 [Helping a bloated cow](http://9gag.com/gag/a9yXqqm)
- - 💣 [POV: You&#39;re a Spanish conquistador and you just pulled up to the New World](http://9gag.com/gag/ayNQM2Y)
+ - 😝 [When the food hits the water...](http://9gag.com/gag/aRB2XBG)
+ - 😝 [Installing Starlink the most American way possible](http://9gag.com/gag/ayNQ2Ep)
+ - 💣 [Trying to get past 2-step verification like](http://9gag.com/gag/axyPBQL)
  - 😝 [Came for the cozy vibes, staying for the pals and cuties.](http://9gag.com/gag/a9yXq9m)
- - 👉 [Eco Mode Activated](http://9gag.com/gag/a2vb7W1)<!-- MEMES:END -->
+ - 👉 [What a surprise...](http://9gag.com/gag/a6Zp14e)<!-- MEMES:END -->
 
 ---
 

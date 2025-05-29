@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Simple yet effective farming technique.](http://9gag.com/gag/aqyzeZ7)
- - 😝 [Sounds about right](http://9gag.com/gag/aNDRDeG)
- - 💣 [Fine](http://9gag.com/gag/aMVXxv1)
+ - 😝 [What a surprise...](http://9gag.com/gag/a6Zp14e)
+ - 😝 [He already had enough](http://9gag.com/gag/apRAgmp)
+ - 💣 [Helping a bloated cow](http://9gag.com/gag/a9yXqqm)
  - 😝 [Came for the cozy vibes, staying for the pals and cuties.](http://9gag.com/gag/a9yXq9m)
- - 👉 [Is this the secret?](http://9gag.com/gag/aZZ2yMX)<!-- MEMES:END -->
+ - 👉 [Simple yet effective farming technique.](http://9gag.com/gag/aqyzeZ7)<!-- MEMES:END -->
 
 ---
 

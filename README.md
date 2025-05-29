@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [espresso Pro 15 review: The ultimate 4K portable display for Mac &amp; iPad users](https://appleinsider.com/articles/25/05/29/espresso-pro-15-review-the-ultimate-4k-portable-display-for-mac-ipad-users?utm_medium=rss)
- - [Filing: virtual chronic care company Omada Health plans to raise up to $158M in its IPO, selling shares for $18 to $20 and aiming for an up to ~$1.1B market cap &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250529/p32#a250529p32)
- - [Steeper price drop: Apple&#39;s M4 Mac mini falls to $488](https://appleinsider.com/articles/25/05/29/steeper-price-drop-apples-m4-mac-mini-falls-to-488?utm_medium=rss)
- - [An Apple-funded study says the US App Store drove $406B in 2024 billings and sales, up from $142B in 2019, with developers paying no commission on 90% of sales &lpar;Andrew Orr/AppleInsider&rpar;](http://www.techmeme.com/250529/p31#a250529p31)
- - [International students sue over Trump’s social media surveillance plan](https://www.theverge.com/news/676419/iranian-interntional-students-lawsuit-trump-dhs-vetting)<!-- TECH:END -->
+ - [Grammarly raised $1B in non-dilutive funding from General Catalyst to expand its AI tools; 2005-founded Grammarly has $700M+ in annual revenue and is profitable &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/250529/p34#a250529p34)
+ - [Father&#39;s Day Gift Guide: The Best Wellness Gifts for Every Kind of Dad &lpar;and Every Budget&rpar;](https://www.cnet.com/health/fathers-day-gift-guide-the-best-wellness-gifts-for-every-kind-of-dad-and-every-budget/#ftag=CAD590a51e)
+ - [Victoria&#39;s Secret Takes Down US Website After Security Incident](https://www.cnet.com/tech/services-and-software/victorias-secret-takes-down-us-website-after-security-incident/#ftag=CAD590a51e)
+ - [Insta360’s face-tracking Link webcams have hit their lowest prices yet](https://www.theverge.com/tech/676447/insta360-link-2-webcam-samsung-galaxy-s25-plus-deal-sale)
+ - [Meta and Palmer Luckey&#39;s Anduril Industries partner to build EagleEye, a new AI-powered weapons system, including rugged helmets, glasses, and other wearables &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/250529/p33#a250529p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

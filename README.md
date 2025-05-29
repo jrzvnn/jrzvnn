@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GreyNoise researchers detail a novel botnet infecting 9K+ routers from Asus and others with a persistent SSH backdoor, enabling access after reboots and updates &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250529/p4#a250529p4)
  - [Sources: X covered some losses usually borne by banks when seven lenders, including Morgan Stanley, sold $1.2B of its debt at 98 cents on the dollar in April &lpar;Financial Times&rpar;](http://www.techmeme.com/250529/p3#a250529p3)
  - [Gumroad founder Sahil Lavingia on working as a DOGE software engineer for the VA, says he was let go after his Fast Company interview was published &lpar;Sahil Lavingia&rpar;](http://www.techmeme.com/250529/p2#a250529p2)
  - [Source: Delaware&#39;s AG is hiring an investment bank to independently value the equity that OpenAI&#39;s nonprofit parent will hold in the new for-profit entity &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250529/p1#a250529p1)
- - [In a SCOTUS brief, the Trump administration backs Cox&#39;s argument that ISPs shouldn&#39;t have to terminate customers based on unproven copyright infringement claims &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/250528/p51#a250528p51)
- - [Hex, which provides a tool for finding correlations between data points, building predictive models, and running experiments, raised a $70M Series C led by Avra &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250528/p50#a250528p50)<!-- TECH:END -->
+ - [In a SCOTUS brief, the Trump administration backs Cox&#39;s argument that ISPs shouldn&#39;t have to terminate customers based on unproven copyright infringement claims &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/250528/p51#a250528p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

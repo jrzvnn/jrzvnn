@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Swedish MMA Tournament Spotlights the Trump Administration&#39;s Handling of Far-Right Terrorism](https://www.wired.com/story/socal-active-club-nordic-resistance-movement/)
+ - [Adam Mosseri says Instagram now supports photos with a 3:4 aspect ratio, ensuring that photos appear as they were originally shot, without cropping &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250529/p36#a250529p36)
+ - [Apple&#39;s &#39;Severance&#39; could be the start of something bigger](https://appleinsider.com/articles/25/05/29/apples-severance-could-be-the-start-of-something-bigger?utm_medium=rss)
  - [Instagram isn&amp;#8217;t just for square photos anymore](https://www.theverge.com/news/676549/instagram-3-4-aspect-ratio-photos-phones-square-rectangle)
- - [Job postings: Amazon has a new ZeroOne team focused on inventing &quot;breakthrough&quot; consumer products, and led by former Microsoft executive J Allard &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250529/p35#a250529p35)
- - [Here’s how you can get a Nintendo Switch 2 at launch — or at least try to](https://www.theverge.com/tech/653010/nintendo-switch-2-preorder-tips-tricks-release-date-price-availability-how-to-buy)
- - [iPhone 16 leads global smartphone sales while cheap Androids fight for share](https://appleinsider.com/articles/25/05/28/iphone-16-leads-global-smartphone-sales-while-cheap-androids-fight-for-share?utm_medium=rss)
- - [Trump &#39;Liberation Day&#39; tariffs blocked by U.S. trade court](https://appleinsider.com/articles/25/05/29/trump-liberation-day-tariffs-blocked-by-us-trade-court?utm_medium=rss)<!-- TECH:END -->
+ - [Job postings: Amazon has a new ZeroOne team focused on inventing &quot;breakthrough&quot; consumer products, and led by former Microsoft executive J Allard &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250529/p35#a250529p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

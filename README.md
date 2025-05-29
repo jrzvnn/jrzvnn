@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Kaiser Permanente systems outage had pharmacies relying on pen and paper](https://www.theverge.com/news/676141/kaiser-permanente-outage-pharmacies-pen-paper)
+ - [The Switch 2 will finally back up screenshots to the cloud](https://www.theverge.com/news/676287/nintendo-switch-2-mobile-app-screenshots-backup-upload)
  - [Nvidia debuts a native GeForce NOW app for Steam Deck, supporting games in up to 4K at 60 FPS; in testing, the app extended Steam Deck battery life by up to 50% &lpar;Jennifer Young/Windows Central&rpar;](http://www.techmeme.com/250529/p28#a250529p28)
  - [Check your ASUS router for a hidden hack that survives reboots &amp; updates](https://appleinsider.com/articles/25/05/29/check-your-asus-router-for-a-hidden-hack-that-survives-reboots-updates?utm_medium=rss)
- - [The New York Times&amp;#8217; first generative AI deal is with Amazon](https://www.theverge.com/news/676291/new-york-times-ai-deal-amazon)
- - [Microsoft Copilot for Gaming AI Game Assistant Enters Beta on Android, iOS](https://www.cnet.com/tech/gaming/microsoft-copilot-for-gaming-ai-game-assistant-enters-beta-on-android-ios/#ftag=CAD590a51e)
- - [EA Reportedly Cancels Black Panther Game, Shutters Cliffhanger Studio](https://www.cnet.com/tech/gaming/ea-reportedly-cancels-black-panther-game-shutters-cliffhanger-studio/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The New York Times&amp;#8217; first generative AI deal is with Amazon](https://www.theverge.com/news/676291/new-york-times-ai-deal-amazon)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

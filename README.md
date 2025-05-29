@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ClickHouse, which offers an OLAP database management system, raised $350M led by Khosla, a source says at a $6.35B valuation; it is nearing an ARR of $100M &lpar;Bloomberg&rpar;](http://www.techmeme.com/250529/p29#a250529p29)
- - [Apple investors shrug, stock fails to surge on Trump tariff block](https://appleinsider.com/articles/25/05/29/apple-investors-shrug-stock-fails-to-surge-on-trump-tariff-block?utm_medium=rss)
- - [Apple strengthens its India presence with new Bengaluru store plans](https://appleinsider.com/articles/25/05/29/apple-strengthens-its-india-presence-with-new-bengaluru-store-plans?utm_medium=rss)
- - [The 6 Best OLED TVs &lpar;2025&rpar;](https://www.wired.com/gallery/best-oleds/)
- - [Animal Crossing: New Horizons was a glimpse at Nintendo’s online future](https://www.theverge.com/games/674523/animal-crossing-new-horizons-nintendo-switch-live-service)<!-- TECH:END -->
+ - [International students sue over Trump’s social media surveillance plan](https://www.theverge.com/news/676419/iranian-interntional-students-lawsuit-trump-dhs-vetting)
+ - [Like its predecessor, DeepSeek-R1-0528 has an MIT License and model weights are on Hugging Face; DeepSeek API users will get to use the model at no extra cost &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250529/p30#a250529p30)
+ - [Apple&#39;s new study highlights App Store&#39;s role in global commerce](https://appleinsider.com/articles/25/05/29/apples-new-study-highlights-app-stores-role-in-global-commerce?utm_medium=rss)
+ - [Senators probe whether RealPage pushed state AI law ban](https://www.theverge.com/news/676378/senator-realpage-budget-reconciliation-bill-involvement)
+ - [ClickHouse, which offers an OLAP database management system, raised $350M led by Khosla, a source says at a $6.35B valuation; it is nearing an ARR of $100M &lpar;Bloomberg&rpar;](http://www.techmeme.com/250529/p29#a250529p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chalk, which lets enterprises input proprietary data into AI and ML models quickly for inference, raised a $50M Series A led by Felicis at a $500M valuation &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/250529/p12#a250529p12)
  - [Migrant Filipino workers in Taiwan&#39;s chip industry say job brokers control everything from paychecks to dorm beds, leaving them feeling trapped and exploited &lpar;Rest of World&rpar;](http://www.techmeme.com/250529/p11#a250529p11)
  - [Elon Musk Says He&#39;ll Step Back From the Government. DOGE Isn&#39;t Going Anywhere](https://www.wired.com/story/elon-musk-stepping-back-doge-final-form/)
  - [Making a short AI film with tools from Google, Runway, ElevenLabs, and Midjourney shows the tech has improved but it takes tedious work to get scene consistency &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250529/p10#a250529p10)
- - [A look at YouTube&#39;s changes to become viewers&#39; preferred TV service and to appeal more to advertisers, and at creators&#39; push into sitcoms, like Alan&#39;s Universe &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250529/p9#a250529p9)
- - [Anthropic CEO Dario Amodei says AI may wipe out half of all entry-level white-collar jobs and spike US unemployment to 10%-20% in the next one to five years &lpar;Axios&rpar;](http://www.techmeme.com/250529/p8#a250529p8)<!-- TECH:END -->
+ - [A look at YouTube&#39;s changes to become viewers&#39; preferred TV service and to appeal more to advertisers, and at creators&#39; push into sitcoms, like Alan&#39;s Universe &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250529/p9#a250529p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

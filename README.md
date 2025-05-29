@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [A federal appeals court grants the Trump administration&#39;s request to temporarily pause a lower court ruling that struck down most of President Trump&#39;s tariffs &lpar;Kevin Breuninger/CNBC&rpar;](http://www.techmeme.com/250529/p39#a250529p39)
  - [We still know almost nothing about Tesla’s robotaxi service](https://www.theverge.com/news/676548/tesla-robotaxi-launch-vehicles-date-lack-information)
+ - [Today&#39;s Wordle Answer: This Might Be the Toughest Puzzle of 2025](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-29-1440/#ftag=CAD590a51e)
  - [iPhone 17 screen rumored to be larger than iPhone 16](https://appleinsider.com/articles/25/05/29/iphone-17-screen-rumored-to-be-larger-than-iphone-16?utm_medium=rss)
- - [Perplexity launches Perplexity Labs, letting users craft reports, spreadsheets, dashboards, and more, available on the web, iOS, and Android for its Pro users &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250529/p38#a250529p38)
- - [The 42 Best Movies on Hulu This Week &lpar;June 2025&rpar;](https://www.wired.com/story/best-movies-hulu-right-now/)<!-- TECH:END -->
+ - [Perplexity launches Perplexity Labs, letting users craft reports, spreadsheets, dashboards, and more, available on the web, iOS, and Android for its Pro users &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250529/p38#a250529p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

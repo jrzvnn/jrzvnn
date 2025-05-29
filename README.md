@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Time for some wisdom from Tony!](http://9gag.com/gag/azxZe8K)
- - 😝 [Polish in natural habitat](http://9gag.com/gag/aW4240d)
- - 💣 [Gearing up](http://9gag.com/gag/a4PqPYm)
+ - 😝 [Trying to get past 2-step verification like](http://9gag.com/gag/axyPBQL)
+ - 😝 [POV: You&#39;re a Spanish conquistador and you just pulled up to the New World](http://9gag.com/gag/ayNQM2Y)
+ - 💣 [Simple yet effective farming technique.](http://9gag.com/gag/aqyzeZ7)
  - 😝 [Came for the cozy vibes, staying for the pals and cuties.](http://9gag.com/gag/a9yXq9m)
- - 👉 [Someone reminded me of this gem in the comments..](http://9gag.com/gag/aByXdqP)<!-- MEMES:END -->
+ - 👉 [Asking the real questions at the museum.](http://9gag.com/gag/aXP2r7d)<!-- MEMES:END -->
 
 ---
 

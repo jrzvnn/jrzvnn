@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is literally the meme come to life](http://9gag.com/gag/a4PqP0A)
- - 😝 [This scene will never not be funny.](http://9gag.com/gag/aRB2r9q)
- - 💣 [The ultimate loyalty test for this doggo.](http://9gag.com/gag/a2vbvge)
- - 😝 [Came for the cozy vibes, staying for the pals and cuties.](http://9gag.com/gag/a9yXq9m)
- - 👉 [Simple yet effective farming technique.](http://9gag.com/gag/aqyzeZ7)<!-- MEMES:END -->
+ - 😝 [Wait, titanium dioxide was in Skittles?](http://9gag.com/gag/aQz2ge7)
+ - 😝 [Installing Starlink the most American way possible](http://9gag.com/gag/ayNQ2Ep)
+ - 💣 [Let him cook](http://9gag.com/gag/aXP2nN2)
+ - 😝 [Be careful kids, the Evil Queen can understand your insults in spanish](http://9gag.com/gag/a7oN1Ww)
+ - 👉 [Absolutely breathtaking skill](http://9gag.com/gag/a5QjV2L)<!-- MEMES:END -->
 
 ---
 

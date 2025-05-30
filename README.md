@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait, titanium dioxide was in Skittles?](http://9gag.com/gag/aQz2ge7)
  - 😝 [A new t-shirt](http://9gag.com/gag/a9yXE4L)
- - 💣 [He deserved his freedom with his mind.](http://9gag.com/gag/aNDRPOK)
+ - 😝 [Only in Japan](http://9gag.com/gag/apRA9AE)
+ - 💣 [Installing Starlink the most American way possible](http://9gag.com/gag/ayNQ2Ep)
  - 😝 [Came for the cozy vibes, staying for the pals and cuties.](http://9gag.com/gag/a9yXq9m)
- - 👉 [Installing Starlink the most American way possible](http://9gag.com/gag/ayNQ2Ep)<!-- MEMES:END -->
+ - 👉 [Trying to get past 2-step verification like](http://9gag.com/gag/axyPBQL)<!-- MEMES:END -->
 
 ---
 

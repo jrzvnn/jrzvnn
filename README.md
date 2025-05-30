@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How the Loudest Voices in AI Went From ‘Regulate Us’ to ‘Unleash Us’](https://www.wired.com/story/plaintext-sam-altman-ai-regulation-trump/)
+ - [Chevrolet Corvette ZR1 first drive: hype meets hyperspeed](https://www.theverge.com/cars/676708/chevrolet-corvette-zr1-first-drive-track-ztk-trim)
+ - [Elden Ring Nightreign may be co-op, but I&amp;#8217;m having a blast solo](https://www.theverge.com/games/676805/elden-ring-nightreign-review-fromsoftware-elden-ring)
  - [Source: Chime&#39;s IPO is expected to price at ~$11B, down from its $25B private valuation in 2021; every VC-backed IPO in the past 12 months has been a down round &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/250530/p9#a250530p9)
- - [Apple&#39;s 15-inch MacBook Air M4 just dipped to a new low price](https://appleinsider.com/articles/25/05/30/apples-15-inch-macbook-air-m4-just-dipped-to-a-new-low-price?utm_medium=rss)
- - [Why I love my Brother 1034D Serger](https://www.theverge.com/tech/658691/serger-brother-sewing-knits-favorites)
- - [Nintendo will let you limit who your kid can GameChat with on the Switch 2](https://www.theverge.com/news/676982/nintendo-switch-2-parental-controls-app-gamechat-restrictions)
- - [Best Fitness Trackers of 2025 for Peak Performance](https://www.wired.com/gallery/best-fitness-tracker/)<!-- TECH:END -->
+ - [Apple&#39;s 15-inch MacBook Air M4 just dipped to a new low price](https://appleinsider.com/articles/25/05/30/apples-15-inch-macbook-air-m4-just-dipped-to-a-new-low-price?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

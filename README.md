@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Millions of apps were denied by Apple in 2024 amid fraud crackdown](https://appleinsider.com/articles/25/05/30/millions-of-apps-were-denied-by-apple-in-2024-amid-fraud-crackdown?utm_medium=rss)
+ - [Sources: Atticus, a stealthy stablecoin banking startup, is in advanced talks to raise new funding led by Palmer Luckey at a valuation of between $1.5B and $2B &lpar;Axios&rpar;](http://www.techmeme.com/250530/p13#a250530p13)
  - [Valorant is switching to Unreal Engine 5 and finally adding replays](https://www.theverge.com/news/677230/valorant-unreal-engine-5-replays-release-date)
  - [German police identify TrickBot and Conti ransomware leader &quot;Stern&quot; as Vitaly Nikolaevich Kovalev, believed to be in Russia and shielded from extradition &lpar;Wired&rpar;](http://www.techmeme.com/250530/p12#a250530p12)
- - [Mountainhead succeeds at showing you how truly deranged the billionaire mindset can be](https://www.theverge.com/movie-reviews/676817/hbo-mountainhead-review)
- - [Here’s where you can buy microSD Express cards for the Switch 2](https://www.theverge.com/tech/676075/switch-2-microsd-express-cards-where-to-buy)
- - [iPhones help bring new life to the &#39;28 Days Later&#39; movie](https://appleinsider.com/articles/25/05/30/iphones-help-bring-new-life-to-the-28-days-later-movie?utm_medium=rss)<!-- TECH:END -->
+ - [Mountainhead succeeds at showing you how truly deranged the billionaire mindset can be](https://www.theverge.com/movie-reviews/676817/hbo-mountainhead-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

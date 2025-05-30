@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Anthropic has been lobbying Congress to oppose a bill banning states from regulating AI, and pushed against the recent US AI deal with Gulf states &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250530/p24#a250530p24)
  - [OpenAI wants ChatGPT to be a ‘super assistant’ for every part of your life](https://www.theverge.com/command-line-newsletter/677705/openai-chatgpt-super-assistant)
+ - [Some Gmail Users Now Will Get AI Email Summaries Automatically](https://www.cnet.com/tech/some-gmail-users-now-will-get-ai-email-summaries-automatically/#ftag=CAD590a51e)
  - [Sources: Anthropic&#39;s annualized revenue hit ~$3B at the end of May, driven by business demand, up from $2B around the end of March and ~$1B in December 2024 &lpar;Reuters&rpar;](http://www.techmeme.com/250530/p23#a250530p23)
- - [US v. Google: during closing arguments, a judge queried both sides on ideas to limit Google&#39;s monopoly in search and said he expects to issue a ruling in August &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250530/p22#a250530p22)
- - [The CDC Opposes RFK Jr.&#39;s COVID Vaccine Guidance, Saying Children &#39;May Receive&#39; Their Shots](https://www.cnet.com/health/medical/cdc-opposes-rfk-jr-covid-vaccine-guidance-children-may-receive-shots/#ftag=CAD590a51e)
- - [Young people sue Donald Trump over climate change](https://www.theverge.com/news/677537/youth-climate-change-lawsuit-trump-executive-orders)<!-- TECH:END -->
+ - [Best Cellphone Plans of 2025: Our Top Picks](https://www.cnet.com/tech/mobile/best-phone-plans/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

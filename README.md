@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Millions of apps were denied by Apple in 2024 amid fraud crackdown](https://appleinsider.com/articles/25/05/30/millions-of-apps-were-denied-by-apple-in-2024-amid-fraud-crackdown?utm_medium=rss)
- - [Sources: Atticus, a stealthy stablecoin banking startup, is in advanced talks to raise new funding led by Palmer Luckey at a valuation of between $1.5B and $2B &lpar;Axios&rpar;](http://www.techmeme.com/250530/p13#a250530p13)
- - [Valorant is switching to Unreal Engine 5 and finally adding replays](https://www.theverge.com/news/677230/valorant-unreal-engine-5-replays-release-date)
- - [German police identify TrickBot and Conti ransomware leader &quot;Stern&quot; as Vitaly Nikolaevich Kovalev, believed to be in Russia and shielded from extradition &lpar;Wired&rpar;](http://www.techmeme.com/250530/p12#a250530p12)
- - [Mountainhead succeeds at showing you how truly deranged the billionaire mindset can be](https://www.theverge.com/movie-reviews/676817/hbo-mountainhead-review)<!-- TECH:END -->
+ - [Microsoft hires ex-Biden administration lawyer Lisa Monaco as president of global affairs and promotes ex-Trump official C.J. Mahoney to general counsel &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250530/p15#a250530p15)
+ - [Taylor Swift now owns all of her music](https://www.theverge.com/news/677276/taylor-swift-owns-music-catalog-scooter-braun-shamrock-capital)
+ - [Prepared, which offers AI tools to modernize emergency response systems, raised a $80M Series C led by General Catalyst, bringing its total funding to ~$135.2M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250530/p14#a250530p14)
+ - [Two former Polygon writers are starting a new site](https://www.theverge.com/news/675764/polygon-guides-writers-big-friendly-guide-new-site)
+ - [NYT reports Elon Musk&amp;#8217;s drug use went &amp;#8216;well beyond occasional&amp;#8217; in 2024](https://www.theverge.com/news/677130/elon-musk-ketamine-nyt-report)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

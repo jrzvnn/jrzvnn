@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The ultimate loyalty test for this doggo.](http://9gag.com/gag/a2vbvge)
- - 😝 [The video was given to the police and he now faces a possible suspension of his license.](http://9gag.com/gag/avyvyPX)
- - 💣 [I would take her for spin](http://9gag.com/gag/ayNQ2Oy)
+ - 😝 [What a surprise...](http://9gag.com/gag/a6Zp14e)
+ - 😝 [I would take her for spin](http://9gag.com/gag/ayNQ2Oy)
+ - 💣 [Wait, titanium dioxide was in Skittles?](http://9gag.com/gag/aQz2ge7)
  - 😝 [Came for the cozy vibes, staying for the pals and cuties.](http://9gag.com/gag/a9yXq9m)
  - 👉 [He deserved his freedom with his mind.](http://9gag.com/gag/aNDRPOK)<!-- MEMES:END -->
 

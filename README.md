@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DOGE Is Busier Than Ever—and Trump Says Elon Musk Is &#39;Really Not Leaving&#39;](https://www.wired.com/story/doge-elon-musk-really-not-leaving/)
+ - [Nebraska to adopt law aimed at curbing kids’ time online](https://www.theverge.com/news/677434/nebraska-age-appropriate-online-design-code-act-signed)
+ - [Automattic says it will resume contributing to the WordPress project, after announcing a pause in April &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250530/p18#a250530p18)
  - [A Hacker May Have Deepfaked Trump’s Chief of Staff in a Phishing Campaign](https://www.wired.com/story/trump-chief-staff-susie-wiles-hacker-phishing-impersonation/)
- - [Sources: Trump administration plans to expand Entity List restrictions to cover subsidiaries of Chinese companies, aiming to block workarounds via new offshoots &lpar;Bloomberg&rpar;](http://www.techmeme.com/250530/p17#a250530p17)
- - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
- - [What to expect from iOS 26 at WWDC: New games app, redesign, and more](https://appleinsider.com/articles/25/05/30/what-to-expect-from-ios-26-at-wwdc-new-games-app-redesign-and-more?utm_medium=rss)
- - [QA workers at ZeniMax reach tentative contract agreement](https://www.theverge.com/news/677317/zenimax-union-tentative-contract-cwa-microsoft)<!-- TECH:END -->
+ - [Sources: Trump administration plans to expand Entity List restrictions to cover subsidiaries of Chinese companies, aiming to block workarounds via new offshoots &lpar;Bloomberg&rpar;](http://www.techmeme.com/250530/p17#a250530p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

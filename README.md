@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: Abridge, which uses AI to transcribe medical chats, is raising $300M led by a16z at a $5.3B valuation, up from $2.75B in February when it raised $250M &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250530/p20#a250530p20)
+ - [The Absolute Best Air Fryer Money Can Buy Has One Key Feature Most Others Don&#39;t](https://www.cnet.com/home/kitchen-and-household/the-best-air-fryer-weve-tested-has-one-unique-feature-that-others-dont/#ftag=CAD590a51e)
  - [Elon Musk departs DC with a black eye and a tattered reputation](https://www.theverge.com/elon-musk/677411/elon-musk-doge-trump-black-eye-tesla)
- - [T-Mobile&#39;s best iPhone deal yet nets you a free iPhone 16 Pro, exclusive benefits &amp; more](https://appleinsider.com/articles/25/05/30/t-mobiles-best-iphone-deal-yet-nets-you-a-free-iphone-16-pro-exclusive-benefits-more?utm_medium=rss)
- - [Microsoft releases a bold new update for Notepad](https://www.theverge.com/news/677474/microsoft-windows-notepad-bold-italic-text-formatting-markdown-support)
- - [Q&amp;A with Mary Meeker on publishing her first Trends report since 2019, its focus on the AI revolution, why OpenAI may have an insurmountable lead, and more &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250530/p19#a250530p19)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for May 31, #1442](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-31-1442/#ftag=CAD590a51e)
+ - [T-Mobile&#39;s best iPhone deal yet nets you a free iPhone 16 Pro, exclusive benefits &amp; more](https://appleinsider.com/articles/25/05/30/t-mobiles-best-iphone-deal-yet-nets-you-a-free-iphone-16-pro-exclusive-benefits-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

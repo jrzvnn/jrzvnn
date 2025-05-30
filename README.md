@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhones help bring new life to the &#39;28 Days Later&#39; movie](https://appleinsider.com/articles/25/05/30/iphones-help-bring-new-life-to-the-28-days-later-movie?utm_medium=rss)
+ - [Today is your last day to get a year of Peacock Premium for just $24.99](https://www.theverge.com/tech/675646/peacock-premium-poker-face-wicked-conclave-deal-sale)
  - [Sources: Palantir&#39;s Foundry is now deployed in at least four federal agencies, after Trump signed an EO calling for the government to share data across agencies &lpar;New York Times&rpar;](http://www.techmeme.com/250530/p11#a250530p11)
  - [Father&#39;s Day Gift Guide: The Best Wellness Gifts for Every Kind of Dad &lpar;and Every Budget&rpar;](https://www.cnet.com/health/fathers-day-gift-guide-the-best-wellness-gifts-for-every-kind-of-dad-and-every-budget/#ftag=CAD590a51e)
- - [You can get 15 percent off Elden Ring Nightreign on Steam and Xbox](https://www.theverge.com/tech/676639/elden-ring-nightreign-blink-video-doorbell-humble-bundle-deal-sale)
- - [Best iPad Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-ipad-accessories/)
- - [Republican Operatives Want to Distance Themselves From Elon Musk&#39;s DOGE](https://www.wired.com/story/republicans-distance-elon-musk-doge/)<!-- TECH:END -->
+ - [You can get 15 percent off Elden Ring Nightreign on Steam and Xbox](https://www.theverge.com/tech/676639/elden-ring-nightreign-blink-video-doorbell-humble-bundle-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

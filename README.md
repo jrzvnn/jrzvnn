@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One of the greatest comedians](http://9gag.com/gag/aW424YA)
- - 😝 [Peak adulting right here.](http://9gag.com/gag/an7DOeB)
- - 💣 [Marry her](http://9gag.com/gag/aoy8Wbg)
- - 😝 [Lego Simpsons Meme](http://9gag.com/gag/amoV1Ov)
- - 👉 [I can relate](http://9gag.com/gag/apRA31E)<!-- MEMES:END -->
+ - 😝 [Absolutely breathtaking skill](http://9gag.com/gag/a5QjV2L)
+ - 😝 [Let him cook](http://9gag.com/gag/aXP2nN2)
+ - 💣 [When you realize your fanbase is mostly adults who need a break from work...](http://9gag.com/gag/apRA1mE)
+ - 😝 [Only in Japan](http://9gag.com/gag/apRA9AE)
+ - 👉 [The reality of a Final Destination death scene](http://9gag.com/gag/aYQ1GwV)<!-- MEMES:END -->
 
 ---
 

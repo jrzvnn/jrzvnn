@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [One of the greatest comedians](http://9gag.com/gag/aW424YA)
- - 😝 [Marry her](http://9gag.com/gag/aoy8Wbg)
- - 💣 [Peak adulting right here.](http://9gag.com/gag/an7DOeB)
- - 😝 [Japanese sakura tree](http://9gag.com/gag/awy43DQ)
- - 👉 [31 years old and in heart failiure. Plz send memes. The darker, the better.](http://9gag.com/gag/a4Pq6r1)<!-- MEMES:END -->
+ - 😝 [Peak adulting right here.](http://9gag.com/gag/an7DOeB)
+ - 💣 [Marry her](http://9gag.com/gag/aoy8Wbg)
+ - 😝 [Lego Simpsons Meme](http://9gag.com/gag/amoV1Ov)
+ - 👉 [I can relate](http://9gag.com/gag/apRA31E)<!-- MEMES:END -->
 
 ---
 

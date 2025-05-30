@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources say Alibaba, Tencent, Baidu, and other Chinese companies are testing domestic alternatives as they deal with a dwindling stockpile of Nvidia processors &lpar;Financial Times&rpar;](http://www.techmeme.com/250530/p3#a250530p3)
  - [Gmail’s AI summaries now appear automatically](https://www.theverge.com/news/676933/gmail-ai-summaries-workspace-android-ios)
  - [Tired of Waking Up to Pee? 5 Tips for More Sleep, Less Bathroom Breaks](https://www.cnet.com/health/sleep/tired-waking-up-pee-tips-more-sleep-less-bathroom-breaks/#ftag=CAD590a51e)
  - [Meta says it has cut US content removal mistakes by half since its January policy changes, without broadly exposing users to more offensive content than before &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/250530/p2#a250530p2)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, May 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-may-30/#ftag=CAD590a51e)
- - [Hugging Face unveils two open-source humanoid robots, the $3,000 full-sized HopeJR and a $250-$300 Reachy Mini desktop unit, expected to ship by the end of 2025 &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250530/p1#a250530p1)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, May 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-may-30/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

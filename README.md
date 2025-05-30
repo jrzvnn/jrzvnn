@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Anthropic&#39;s annualized revenue hit ~$3B at the end of May, driven by business demand, up from $2B around the end of March and ~$1B in December 2024 &lpar;Reuters&rpar;](http://www.techmeme.com/250530/p23#a250530p23)
  - [US v. Google: during closing arguments, a judge queried both sides on ideas to limit Google&#39;s monopoly in search and said he expects to issue a ruling in August &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250530/p22#a250530p22)
+ - [The CDC Opposes RFK Jr.&#39;s COVID Vaccine Guidance, Saying Children &#39;May Receive&#39; Their Shots](https://www.cnet.com/health/medical/cdc-opposes-rfk-jr-covid-vaccine-guidance-children-may-receive-shots/#ftag=CAD590a51e)
  - [Young people sue Donald Trump over climate change](https://www.theverge.com/news/677537/youth-climate-change-lawsuit-trump-executive-orders)
- - [Grindr&amp;#8217;s new Right Now feature brings a spicy live feed to the hookup app](https://www.theverge.com/news/677134/grindr-right-now-ai)
- - [Dissenting iPhone 17 leak downgrades processor to A18 versus previously expected A19](https://appleinsider.com/articles/25/05/30/dissenting-iphone-17-leak-downgrades-processor-to-a18-versus-previously-expected-a19?utm_medium=rss)
- - [Elden Ring Nightreign: How to Find More Healing Flasks Fast](https://www.cnet.com/tech/gaming/elden-ring-nightreign-how-to-find-more-healing-flasks-fast/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for May 31, #250](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-may-31-250/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

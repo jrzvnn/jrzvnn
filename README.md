@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dissenting iPhone 17 leak downgrades processor to A18 versus previously expected A19](https://appleinsider.com/articles/25/05/30/dissenting-iphone-17-leak-downgrades-processor-to-a18-versus-previously-expected-a19?utm_medium=rss)
  - [Sources: the White House is finalizing EOs on drones that could end Chinese drone sales in the US, update federal rules on where drones can be flown, and more &lpar;Washington Post&rpar;](http://www.techmeme.com/250530/p21#a250530p21)
  - [Sources: Abridge, which uses AI to transcribe medical chats, is raising $300M led by a16z at a $5.3B valuation, up from $2.75B in February when it raised $250M &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250530/p20#a250530p20)
  - [The Absolute Best Air Fryer Money Can Buy Has One Key Feature Most Others Don&#39;t](https://www.cnet.com/home/kitchen-and-household/the-best-air-fryer-weve-tested-has-one-unique-feature-that-others-dont/#ftag=CAD590a51e)
- - [Elon Musk departs DC with a black eye and a tattered reputation](https://www.theverge.com/elon-musk/677411/elon-musk-doge-trump-black-eye-tesla)
- - [Today&#39;s Wordle Hints, Answer and Help for May 31, #1442](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-may-31-1442/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk departs DC with a black eye and a tattered reputation](https://www.theverge.com/elon-musk/677411/elon-musk-doge-trump-black-eye-tesla)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

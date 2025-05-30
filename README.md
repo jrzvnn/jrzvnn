@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Your Friends and Neighbors&#39; creator Jonathan Tropper to stay with Apple under new deal](https://appleinsider.com/articles/25/05/30/your-friends-and-neighbors-creator-jonathan-tropper-to-stay-with-apple-under-new-deal?utm_medium=rss)
- - [Letter: Synopsys tells staff to stop sales, services, and new orders in China to comply with new US export curbs, and pulls its annual and quarterly forecasts &lpar;Reuters&rpar;](http://www.techmeme.com/250530/p6#a250530p6)
- - [The Best Sweatpants: Our Top 7 Picks &lpar;2025&rpar;](https://www.wired.com/gallery/best-sweatpants/)
- - [RFK Jr.&amp;#8217;s ‘Make America Healthy Again’ report seems riddled with AI slop](https://www.theverge.com/news/676945/rfk-jr-maha-health-report-ai-slop)
- - [What Are Exosomes and Why Are Skincare Experts Raising Red Flags? &lpar;2025&rpar;](https://www.wired.com/story/what-are-exosomes/)<!-- TECH:END -->
+ - [I Converted My Photos Into Short Videos With AI on Honor&#39;s Latest Phones. It&#39;s Weird](https://www.wired.com/story/honor-400-pro-google-ai-image-to-video/)
+ - [Sources: Elon Musk engaged in intense drug use during the 2024 presidential campaign, as he juggled the messy consequences of efforts to produce more babies &lpar;New York Times&rpar;](http://www.techmeme.com/250530/p7#a250530p7)
+ - [Best Open Earbuds, Tested and Reviewed &lpar;2025&rpar;: Bose and More](https://www.wired.com/gallery/best-open-ear-buds/)
+ - [I Tested the HP EliteBook Ultra G1i. Its Deluxe Design and Features Are Perfect for On-the-Go Execs](https://www.cnet.com/tech/computing/hp-elitebook-ultra-g1i-review-perfect-for-on-the-go-execs/#ftag=CAD590a51e)
+ - [No iOS 19? Apple&#39;s WWDC 25 Will Have Surprises &lpar;but Don&#39;t Expect Siri&rpar;](https://www.cnet.com/tech/services-and-software/no-ios-19-apples-wwdc-25-will-have-surprises-but-dont-expect-siri/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

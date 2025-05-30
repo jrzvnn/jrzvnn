@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He deserved his freedom with his mind.](http://9gag.com/gag/aNDRPOK)
- - 😝 [Installing Starlink the most American way possible](http://9gag.com/gag/ayNQ2Ep)
- - 💣 [The ultimate loyalty test for this doggo.](http://9gag.com/gag/a2vbvge)
+ - 😝 [Much Competence, No DEI.](http://9gag.com/gag/axyPy72)
+ - 😝 [Asking the real questions at the museum.](http://9gag.com/gag/aXP2r7d)
+ - 💣 [Installing Starlink the most American way possible](http://9gag.com/gag/ayNQ2Ep)
  - 😝 [Came for the cozy vibes, staying for the pals and cuties.](http://9gag.com/gag/a9yXq9m)
- - 👉 [Wait, titanium dioxide was in Skittles?](http://9gag.com/gag/aQz2ge7)<!-- MEMES:END -->
+ - 👉 [The ultimate loyalty test for this doggo.](http://9gag.com/gag/a2vbvge)<!-- MEMES:END -->
 
 ---
 

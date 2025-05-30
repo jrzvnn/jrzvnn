@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait, titanium dioxide was in Skittles?](http://9gag.com/gag/aQz2ge7)
- - 😝 [Installing Starlink the most American way possible](http://9gag.com/gag/ayNQ2Ep)
- - 💣 [Let him cook](http://9gag.com/gag/aXP2nN2)
- - 😝 [Be careful kids, the Evil Queen can understand your insults in spanish](http://9gag.com/gag/a7oN1Ww)
+ - 😝 [Let him cook](http://9gag.com/gag/aXP2nN2)
+ - 😝 [I would take her for spin](http://9gag.com/gag/ayNQ2Oy)
+ - 💣 [This scene will never not be funny.](http://9gag.com/gag/aRB2r9q)
+ - 😝 [Only in Japan](http://9gag.com/gag/apRA9AE)
  - 👉 [Absolutely breathtaking skill](http://9gag.com/gag/a5QjV2L)<!-- MEMES:END -->
 
 ---

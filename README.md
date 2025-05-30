@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [RFK Jr.&amp;#8217;s ‘Make America Healthy Again’ report seems riddled with AI slop](https://www.theverge.com/news/676945/rfk-jr-maha-health-report-ai-slop)
+ - [What Are Exosomes and Why Are Skincare Experts Raising Red Flags? &lpar;2025&rpar;](https://www.wired.com/story/what-are-exosomes/)
+ - [The US Treasury sanctions Philippines-based Funnull Technology for allegedly facilitating &quot;pig butchering&quot; crypto scams that stole over $200M from US victims &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250530/p5#a250530p5)
  - [Can’t Afford an Ebike? Borrow One for Free From a Lending Library](https://www.wired.com/story/ebike-lending-libraries/)
- - [12 Best Travel Adapters &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-travel-adapters/)
- - [Disney Plus&amp;#8217; new &amp;#8216;Perks&amp;#8217; pile on discounts and other bonuses](https://www.theverge.com/news/676941/disney-plus-hulu-perks-discounts-sweepstakes)
- - [Thailand files charges against, and orders the blocking of crypto exchanges Bybit, CoinEx, OKX, 1000X, and XT.com from June 28 for operating without a license &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/250530/p4#a250530p4)
- - [I Thought No Robot Vacuum Could Navigate My Tricky Furniture, Then One Surprised Me With Its Ingenious Arms](https://www.cnet.com/deals/i-thought-no-robot-vacuum-could-navigate-my-tricky-furniture-then-one-surprised-me-with-its-ingenious-arms/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [12 Best Travel Adapters &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-travel-adapters/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait, titanium dioxide was in Skittles?](http://9gag.com/gag/aQz2ge7)
- - 😝 [Simple yet effective farming technique.](http://9gag.com/gag/aqyzeZ7)
- - 💣 [Much Competence, No DEI.](http://9gag.com/gag/axyPy72)
- - 😝 [When you realize your fanbase is mostly adults who need a break from work...](http://9gag.com/gag/apRA1mE)
- - 👉 [When you forget to put your filter on.](http://9gag.com/gag/aLnXn45)<!-- MEMES:END -->
+ - 😝 [Only in Japan](http://9gag.com/gag/apRA9AE)
+ - 😝 [Much Competence, No DEI.](http://9gag.com/gag/axyPy72)
+ - 💣 [The ultimate loyalty test for this doggo.](http://9gag.com/gag/a2vbvge)
+ - 😝 [The reality of a Final Destination death scene](http://9gag.com/gag/aYQ1GwV)
+ - 👉 [Historically correct](http://9gag.com/gag/aByX6ZO)<!-- MEMES:END -->
 
 ---
 

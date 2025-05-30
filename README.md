@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [T-Mobile&#39;s best iPhone deal yet nets you a free iPhone 16 Pro, exclusive benefits &amp; more](https://appleinsider.com/articles/25/05/30/t-mobiles-best-iphone-deal-yet-nets-you-a-free-iphone-16-pro-exclusive-benefits-more?utm_medium=rss)
  - [Microsoft releases a bold new update for Notepad](https://www.theverge.com/news/677474/microsoft-windows-notepad-bold-italic-text-formatting-markdown-support)
  - [Q&amp;A with Mary Meeker on publishing her first Trends report since 2019, its focus on the AI revolution, why OpenAI may have an insurmountable lead, and more &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250530/p19#a250530p19)
  - [DOGE Is Busier Than Ever—and Trump Says Elon Musk Is &#39;Really Not Leaving&#39;](https://www.wired.com/story/doge-elon-musk-really-not-leaving/)
- - [Nebraska to adopt law aimed at curbing kids’ time online](https://www.theverge.com/news/677434/nebraska-age-appropriate-online-design-code-act-signed)
- - [AI-Powered Closed Captions Could Open Up New Possibilities – and Pitfalls](https://www.cnet.com/tech/home-entertainment/ai-powered-closed-captions-could-open-up-new-possibilities-and-pitfalls/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nebraska to adopt law aimed at curbing kids’ time online](https://www.theverge.com/news/677434/nebraska-age-appropriate-online-design-code-act-signed)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

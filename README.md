@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A supervillain is born](http://9gag.com/gag/aLnXvr6)
- - 😝 [Gardening is `easy`.](http://9gag.com/gag/aZZ2rpn)
- - 💣 [Be careful kids, the Evil Queen can understand your insults in spanish](http://9gag.com/gag/a7oN1Ww)
+ - 😝 [Mi\u00e9rcoles de resucitacion cardiopulmonar](http://9gag.com/gag/a7oN142)
+ - 😝 [The ultimate loyalty test for this doggo.](http://9gag.com/gag/a2vbvge)
+ - 💣 [A new t-shirt](http://9gag.com/gag/a9yXE4L)
  - 😝 [Came for the cozy vibes, staying for the pals and cuties.](http://9gag.com/gag/a9yXq9m)
- - 👉 [This is literally the meme come to life](http://9gag.com/gag/a4PqP0A)<!-- MEMES:END -->
+ - 👉 [Installing Starlink the most American way possible](http://9gag.com/gag/ayNQ2Ep)<!-- MEMES:END -->
 
 ---
 

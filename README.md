@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is an immigrant](http://9gag.com/gag/abA2vKL)
- - 😝 [Big business](http://9gag.com/gag/aGy2ErG)
- - 💣 [I lost my wallet and a guy returned it with all my money, credit cards and documents. In Brazil!](http://9gag.com/gag/abA2AO8)
- - 😝 [Marry her](http://9gag.com/gag/aoy8Wbg)
- - 👉 [One of the greatest comedians](http://9gag.com/gag/aW424YA)<!-- MEMES:END -->
+ - 😝 [Much Competence, No DEI.](http://9gag.com/gag/axyPy72)
+ - 😝 [Let him cook](http://9gag.com/gag/aXP2nN2)
+ - 💣 [Be careful kids, the Evil Queen can understand your insults in spanish](http://9gag.com/gag/a7oN1Ww)
+ - 😝 [Installing Starlink the most American way possible](http://9gag.com/gag/ayNQ2Ep)
+ - 👉 [Absolutely breathtaking skill](http://9gag.com/gag/a5QjV2L)<!-- MEMES:END -->
 
 ---
 

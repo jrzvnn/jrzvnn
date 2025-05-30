@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Only in Japan](http://9gag.com/gag/apRA9AE)
- - 😝 [This scene will never not be funny.](http://9gag.com/gag/aRB2r9q)
- - 💣 [The ultimate loyalty test for this doggo.](http://9gag.com/gag/a2vbvge)
- - 😝 [Wait, titanium dioxide was in Skittles?](http://9gag.com/gag/aQz2ge7)
- - 👉 [The reality of a Final Destination death scene](http://9gag.com/gag/aYQ1GwV)<!-- MEMES:END -->
+ - 😝 [One of the greatest comedians](http://9gag.com/gag/aW424YA)
+ - 😝 [Marry her](http://9gag.com/gag/aoy8Wbg)
+ - 💣 [Peak adulting right here.](http://9gag.com/gag/an7DOeB)
+ - 😝 [Japanese sakura tree](http://9gag.com/gag/awy43DQ)
+ - 👉 [31 years old and in heart failiure. Plz send memes. The darker, the better.](http://9gag.com/gag/a4Pq6r1)<!-- MEMES:END -->
 
 ---
 

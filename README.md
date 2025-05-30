@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro saw death upon him](http://9gag.com/gag/aNDRLN4)
- - 😝 [Popcorn Factory](http://9gag.com/gag/adB2BXB)
+ - 😝 [When your phone alarm has zero respect for your tennis match.](http://9gag.com/gag/ajPK7XG)
+ - 😝 [A year of living with ALS. The changes are profound, but the spirit remains strong.](http://9gag.com/gag/adB2PeB)
  - 💣 [Absolutely breathtaking skill](http://9gag.com/gag/a5QjV2L)
  - 😝 [Only in Japan](http://9gag.com/gag/apRA9AE)
  - 👉 [Historically correct](http://9gag.com/gag/aByX6ZO)<!-- MEMES:END -->

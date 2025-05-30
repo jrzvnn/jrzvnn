@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft releases a bold new update for Notepad](https://www.theverge.com/news/677474/microsoft-windows-notepad-bold-italic-text-formatting-markdown-support)
+ - [Q&amp;A with Mary Meeker on publishing her first Trends report since 2019, its focus on the AI revolution, why OpenAI may have an insurmountable lead, and more &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250530/p19#a250530p19)
  - [DOGE Is Busier Than Ever—and Trump Says Elon Musk Is &#39;Really Not Leaving&#39;](https://www.wired.com/story/doge-elon-musk-really-not-leaving/)
  - [Nebraska to adopt law aimed at curbing kids’ time online](https://www.theverge.com/news/677434/nebraska-age-appropriate-online-design-code-act-signed)
- - [Automattic says it will resume contributing to the WordPress project, after announcing a pause in April &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250530/p18#a250530p18)
- - [A Hacker May Have Deepfaked Trump’s Chief of Staff in a Phishing Campaign](https://www.wired.com/story/trump-chief-staff-susie-wiles-hacker-phishing-impersonation/)
- - [Sources: Trump administration plans to expand Entity List restrictions to cover subsidiaries of Chinese companies, aiming to block workarounds via new offshoots &lpar;Bloomberg&rpar;](http://www.techmeme.com/250530/p17#a250530p17)<!-- TECH:END -->
+ - [AI-Powered Closed Captions Could Open Up New Possibilities – and Pitfalls](https://www.cnet.com/tech/home-entertainment/ai-powered-closed-captions-could-open-up-new-possibilities-and-pitfalls/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

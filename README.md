@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is the AI we need, not another bot spamming replies.](http://9gag.com/gag/aByXZKx)
- - 😝 [I can relate](http://9gag.com/gag/apRA31E)
- - 💣 [Lego Simpsons Meme](http://9gag.com/gag/amoV1Ov)
- - 😝 [Unexpected agents of the cat distribution system.](http://9gag.com/gag/abA2O8B)
- - 👉 [The Roman drainage tunnel of Lake Albano](http://9gag.com/gag/a87w621)<!-- MEMES:END -->
+ - 😝 [Bro saw death upon him](http://9gag.com/gag/aNDRLN4)
+ - 😝 [Popcorn Factory](http://9gag.com/gag/adB2BXB)
+ - 💣 [Absolutely breathtaking skill](http://9gag.com/gag/a5QjV2L)
+ - 😝 [Only in Japan](http://9gag.com/gag/apRA9AE)
+ - 👉 [Historically correct](http://9gag.com/gag/aByX6ZO)<!-- MEMES:END -->
 
 ---
 

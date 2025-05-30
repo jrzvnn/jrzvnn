@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Asking the real questions at the museum.](http://9gag.com/gag/aXP2r7d)
- - 😝 [Much Competence, No DEI.](http://9gag.com/gag/axyPy72)
- - 💣 [Installing Starlink the most American way possible](http://9gag.com/gag/ayNQ2Ep)
+ - 😝 [How 720p went from HD to potato quality](http://9gag.com/gag/a9yXzYL)
+ - 😝 [LINK! Look over here! A bokoblin chest!](http://9gag.com/gag/aRB2LM7)
+ - 💣 [What is an immigrant](http://9gag.com/gag/abA2vKL)
  - 😝 [Came for the cozy vibes, staying for the pals and cuties.](http://9gag.com/gag/a9yXq9m)
- - 👉 [This is literally the meme come to life](http://9gag.com/gag/a4PqP0A)<!-- MEMES:END -->
+ - 👉 [I lost my wallet and a guy returned it with all my money, credit cards and documents. In Brazil!](http://9gag.com/gag/abA2AO8)<!-- MEMES:END -->
 
 ---
 

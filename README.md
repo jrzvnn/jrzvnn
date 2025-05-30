@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Converted My Photos Into Short Videos With AI on Honor&#39;s Latest Phones. It&#39;s Weird](https://www.wired.com/story/honor-400-pro-google-ai-image-to-video/)
- - [Sources: Elon Musk engaged in intense drug use during the 2024 presidential campaign, as he juggled the messy consequences of efforts to produce more babies &lpar;New York Times&rpar;](http://www.techmeme.com/250530/p7#a250530p7)
- - [Best Open Earbuds, Tested and Reviewed &lpar;2025&rpar;: Bose and More](https://www.wired.com/gallery/best-open-ear-buds/)
- - [I Tested the HP EliteBook Ultra G1i. Its Deluxe Design and Features Are Perfect for On-the-Go Execs](https://www.cnet.com/tech/computing/hp-elitebook-ultra-g1i-review-perfect-for-on-the-go-execs/#ftag=CAD590a51e)
- - [No iOS 19? Apple&#39;s WWDC 25 Will Have Surprises &lpar;but Don&#39;t Expect Siri&rpar;](https://www.cnet.com/tech/services-and-software/no-ios-19-apples-wwdc-25-will-have-surprises-but-dont-expect-siri/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Fur Trim System Review: Simple, Pain-Free Body Hair Removal](https://www.wired.com/review/fur-trim-system/)
+ - [President Trump lashes out at China for violating new trade agreement](https://appleinsider.com/articles/25/05/30/president-trump-lashes-out-at-china-for-violating-new-trade-agreement?utm_medium=rss)
+ - [Is Using a Stair Machine the Same as Climbing Stairs?](https://www.wired.com/story/is-using-a-stair-machine-the-same-as-climbing-stairs/)
+ - [Nintendo’s Switch era took Pokémon collecting to the next level](https://www.theverge.com/nintendo/675590/nintendo-switch-pokemon-home-legends-za-generation-x)
+ - [More than just a future iPhone may get the long-rumored haptic buttons](https://appleinsider.com/articles/25/05/30/more-than-just-a-future-iphone-may-get-the-long-rumored-haptic-buttons?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

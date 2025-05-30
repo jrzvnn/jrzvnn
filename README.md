@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Much Competence, No DEI.](http://9gag.com/gag/axyPy72)
- - 😝 [A new t-shirt](http://9gag.com/gag/a9yXE4L)
- - 💣 [Be careful kids, the Evil Queen can understand your insults in spanish](http://9gag.com/gag/a7oN1Ww)
+ - 😝 [He deserved his freedom with his mind.](http://9gag.com/gag/aNDRPOK)
+ - 😝 [Installing Starlink the most American way possible](http://9gag.com/gag/ayNQ2Ep)
+ - 💣 [The ultimate loyalty test for this doggo.](http://9gag.com/gag/a2vbvge)
  - 😝 [Came for the cozy vibes, staying for the pals and cuties.](http://9gag.com/gag/a9yXq9m)
- - 👉 [Trying to get past 2-step verification like](http://9gag.com/gag/axyPBQL)<!-- MEMES:END -->
+ - 👉 [Wait, titanium dioxide was in Skittles?](http://9gag.com/gag/aQz2ge7)<!-- MEMES:END -->
 
 ---
 

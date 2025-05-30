@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Asking the real questions at the museum.](http://9gag.com/gag/aXP2r7d)
- - 😝 [Let him cook](http://9gag.com/gag/aXP2nN2)
- - 💣 [Wait, titanium dioxide was in Skittles?](http://9gag.com/gag/aQz2ge7)
- - 😝 [Absolutely breathtaking skill](http://9gag.com/gag/a5QjV2L)
- - 👉 [He deserved his freedom with his mind.](http://9gag.com/gag/aNDRPOK)<!-- MEMES:END -->
+ - 😝 [Big business](http://9gag.com/gag/aGy2ErG)
+ - 😝 [One of the greatest comedians](http://9gag.com/gag/aW424YA)
+ - 💣 [Marry her](http://9gag.com/gag/aoy8Wbg)
+ - 😝 [Peak adulting right here.](http://9gag.com/gag/an7DOeB)
+ - 👉 [The Roman drainage tunnel of Lake Albano](http://9gag.com/gag/a87w621)<!-- MEMES:END -->
 
 ---
 

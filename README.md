@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Corporate cardio is my new fitness routine.](http://9gag.com/gag/aqyze7j)
- - 😝 [What a surprise...](http://9gag.com/gag/a6Zp14e)
- - 💣 [Installing Starlink the most American way possible](http://9gag.com/gag/ayNQ2Ep)
+ - 😝 [Mi\u00e9rcoles de resucitacion cardiopulmonar](http://9gag.com/gag/a7oN142)
+ - 😝 [Asking the real questions at the museum.](http://9gag.com/gag/aXP2r7d)
+ - 💣 [A new t-shirt](http://9gag.com/gag/a9yXE4L)
  - 😝 [Came for the cozy vibes, staying for the pals and cuties.](http://9gag.com/gag/a9yXq9m)
- - 👉 [Be careful kids, the Evil Queen can understand your insults in spanish](http://9gag.com/gag/a7oN1Ww)<!-- MEMES:END -->
+ - 👉 [Wait, titanium dioxide was in Skittles?](http://9gag.com/gag/aQz2ge7)<!-- MEMES:END -->
 
 ---
 

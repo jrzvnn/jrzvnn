@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The ultimate loyalty test for this doggo.](http://9gag.com/gag/a2vbvge)
- - 😝 [He deserved his freedom with his mind.](http://9gag.com/gag/aNDRPOK)
+ - 😝 [Corporate cardio is my new fitness routine.](http://9gag.com/gag/aqyze7j)
+ - 😝 [What a surprise...](http://9gag.com/gag/a6Zp14e)
  - 💣 [Installing Starlink the most American way possible](http://9gag.com/gag/ayNQ2Ep)
  - 😝 [Came for the cozy vibes, staying for the pals and cuties.](http://9gag.com/gag/a9yXq9m)
- - 👉 [This is literally the meme come to life](http://9gag.com/gag/a4PqP0A)<!-- MEMES:END -->
+ - 👉 [Be careful kids, the Evil Queen can understand your insults in spanish](http://9gag.com/gag/a7oN1Ww)<!-- MEMES:END -->
 
 ---
 

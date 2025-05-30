@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Absolutely breathtaking skill](http://9gag.com/gag/a5QjV2L)
- - 😝 [Much Competence, No DEI.](http://9gag.com/gag/axyPy72)
- - 💣 [Be careful kids, the Evil Queen can understand your insults in spanish](http://9gag.com/gag/a7oN1Ww)
- - 😝 [Wait, Smurfette wasn&#39;t always... Smurfette?](http://9gag.com/gag/aO818n2)
- - 👉 [He deserved his freedom with his mind.](http://9gag.com/gag/aNDRPOK)<!-- MEMES:END -->
+ - 😝 [Relaxing on the bottom shelf.](http://9gag.com/gag/aqyzX4M)
+ - 😝 [What is an immigrant](http://9gag.com/gag/abA2vKL)
+ - 💣 [Marry her](http://9gag.com/gag/aoy8Wbg)
+ - 😝 [Big business](http://9gag.com/gag/aGy2ErG)
+ - 👉 [I lost my wallet and a guy returned it with all my money, credit cards and documents. In Brazil!](http://9gag.com/gag/abA2AO8)<!-- MEMES:END -->
 
 ---
 

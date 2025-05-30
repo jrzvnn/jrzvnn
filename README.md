@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Disney Plus&amp;#8217; new &amp;#8216;Perks&amp;#8217; pile on discounts and other bonuses](https://www.theverge.com/news/676941/disney-plus-hulu-perks-discounts-sweepstakes)
+ - [Thailand files charges against, and orders the blocking of crypto exchanges Bybit, CoinEx, OKX, 1000X, and XT.com from June 28 for operating without a license &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/250530/p4#a250530p4)
+ - [Trump&#39;s Administration Wants to Erase Queer History. An Unconventional Book Club Is Fighting Back](https://www.wired.com/story/trump-wants-to-erase-queer-history-this-unconventional-book-club-is-fighting-back/)
  - [Sources say Alibaba, Tencent, Baidu, and other Chinese companies are testing domestic alternatives as they deal with a dwindling stockpile of Nvidia processors &lpar;Financial Times&rpar;](http://www.techmeme.com/250530/p3#a250530p3)
- - [Gmail’s AI summaries now appear automatically](https://www.theverge.com/news/676933/gmail-ai-summaries-workspace-android-ios)
- - [Tired of Waking Up to Pee? 5 Tips for More Sleep, Less Bathroom Breaks](https://www.cnet.com/health/sleep/tired-waking-up-pee-tips-more-sleep-less-bathroom-breaks/#ftag=CAD590a51e)
- - [Meta says it has cut US content removal mistakes by half since its January policy changes, without broadly exposing users to more offensive content than before &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/250530/p2#a250530p2)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, May 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-may-30/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Gmail’s AI summaries now appear automatically](https://www.theverge.com/news/676933/gmail-ai-summaries-workspace-android-ios)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

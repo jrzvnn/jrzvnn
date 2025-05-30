@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Absolutely breathtaking skill](http://9gag.com/gag/a5QjV2L)
- - 😝 [Installing Starlink the most American way possible](http://9gag.com/gag/ayNQ2Ep)
- - 💣 [Trying to get past 2-step verification like](http://9gag.com/gag/axyPBQL)
+ - 😝 [This is literally the meme come to life](http://9gag.com/gag/a4PqP0A)
+ - 😝 [Mom: We have Mjolnir at home. The Mjolnir at home:](http://9gag.com/gag/aGy2zQ7)
+ - 💣 [Absolutely breathtaking skill](http://9gag.com/gag/a5QjV2L)
  - 😝 [Came for the cozy vibes, staying for the pals and cuties.](http://9gag.com/gag/a9yXq9m)
- - 👉 [Wait, titanium dioxide was in Skittles?](http://9gag.com/gag/aQz2ge7)<!-- MEMES:END -->
+ - 👉 [Installing Starlink the most American way possible](http://9gag.com/gag/ayNQ2Ep)<!-- MEMES:END -->
 
 ---
 

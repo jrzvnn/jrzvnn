@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: TSMC is evaluating building a &quot;gigafab&quot; in the UAE and has discussed the possibility with MGX and officials in the Trump administration &lpar;Bloomberg&rpar;](http://www.techmeme.com/250530/p16#a250530p16)
  - [Microsoft hires ex-Biden administration lawyer Lisa Monaco as president of global affairs and promotes ex-Trump official C.J. Mahoney to general counsel &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250530/p15#a250530p15)
  - [Taylor Swift now owns all of her music](https://www.theverge.com/news/677276/taylor-swift-owns-music-catalog-scooter-braun-shamrock-capital)
  - [Prepared, which offers AI tools to modernize emergency response systems, raised a $80M Series C led by General Catalyst, bringing its total funding to ~$135.2M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250530/p14#a250530p14)
- - [Two former Polygon writers are starting a new site](https://www.theverge.com/news/675764/polygon-guides-writers-big-friendly-guide-new-site)
- - [NYT reports Elon Musk&amp;#8217;s drug use went &amp;#8216;well beyond occasional&amp;#8217; in 2024](https://www.theverge.com/news/677130/elon-musk-ketamine-nyt-report)<!-- TECH:END -->
+ - [Two former Polygon writers are starting a new site](https://www.theverge.com/news/675764/polygon-guides-writers-big-friendly-guide-new-site)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

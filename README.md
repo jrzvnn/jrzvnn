@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A supervillain is born](http://9gag.com/gag/aLnXvr6)
- - 😝 [Tickles tickles](http://9gag.com/gag/ae929rO)
- - 💣 [When you realize your fanbase is mostly adults who need a break from work...](http://9gag.com/gag/apRA1mE)
- - 😝 [Be careful kids, the Evil Queen can understand your insults in spanish](http://9gag.com/gag/a7oN1Ww)
- - 👉 [Installing Starlink the most American way possible](http://9gag.com/gag/ayNQ2Ep)<!-- MEMES:END -->
+ - 😝 [Here comes the haters](http://9gag.com/gag/aLnXzBg)
+ - 😝 [Wait, titanium dioxide was in Skittles?](http://9gag.com/gag/aQz2ge7)
+ - 💣 [He deserved his freedom with his mind.](http://9gag.com/gag/aNDRPOK)
+ - 😝 [This scene will never not be funny.](http://9gag.com/gag/aRB2r9q)
+ - 👉 [When you realize your fanbase is mostly adults who need a break from work...](http://9gag.com/gag/apRA1mE)<!-- MEMES:END -->
 
 ---
 

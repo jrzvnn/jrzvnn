@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When the food hits the water...](http://9gag.com/gag/aRB2XBG)
- - 😝 [Installing Starlink the most American way possible](http://9gag.com/gag/ayNQ2Ep)
- - 💣 [Trying to get past 2-step verification like](http://9gag.com/gag/axyPBQL)
+ - 😝 [Asking the real questions at the museum.](http://9gag.com/gag/aXP2r7d)
+ - 😝 [Be careful kids, the Evil Queen can understand your insults in spanish](http://9gag.com/gag/a7oN1Ww)
+ - 💣 [What a surprise...](http://9gag.com/gag/a6Zp14e)
  - 😝 [Came for the cozy vibes, staying for the pals and cuties.](http://9gag.com/gag/a9yXq9m)
- - 👉 [What a surprise...](http://9gag.com/gag/a6Zp14e)<!-- MEMES:END -->
+ - 👉 [Just two more laps, they said. Visibility is... optional?](http://9gag.com/gag/aMVXEQV)<!-- MEMES:END -->
 
 ---
 

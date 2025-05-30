@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Absolutely breathtaking skill](http://9gag.com/gag/a5QjV2L)
- - 😝 [Let him cook](http://9gag.com/gag/aXP2nN2)
- - 💣 [When you realize your fanbase is mostly adults who need a break from work...](http://9gag.com/gag/apRA1mE)
- - 😝 [Only in Japan](http://9gag.com/gag/apRA9AE)
- - 👉 [The reality of a Final Destination death scene](http://9gag.com/gag/aYQ1GwV)<!-- MEMES:END -->
+ - 😝 [Wait, titanium dioxide was in Skittles?](http://9gag.com/gag/aQz2ge7)
+ - 😝 [Simple yet effective farming technique.](http://9gag.com/gag/aqyzeZ7)
+ - 💣 [Much Competence, No DEI.](http://9gag.com/gag/axyPy72)
+ - 😝 [When you realize your fanbase is mostly adults who need a break from work...](http://9gag.com/gag/apRA1mE)
+ - 👉 [When you forget to put your filter on.](http://9gag.com/gag/aLnXn45)<!-- MEMES:END -->
 
 ---
 

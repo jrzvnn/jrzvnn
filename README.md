@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Starting the week like...](http://9gag.com/gag/a5QjVKG)
  - 😝 [The ultimate loyalty test for this doggo.](http://9gag.com/gag/a2vbvge)
- - 💣 [Let him cook](http://9gag.com/gag/aXP2nN2)
- - 😝 [Wait, titanium dioxide was in Skittles?](http://9gag.com/gag/aQz2ge7)
- - 👉 [Only in Japan](http://9gag.com/gag/apRA9AE)<!-- MEMES:END -->
+ - 😝 [This is literally the meme come to life](http://9gag.com/gag/a4PqP0A)
+ - 💣 [Popcorn Factory](http://9gag.com/gag/adB2BXB)
+ - 😝 [Only in Japan](http://9gag.com/gag/apRA9AE)
+ - 👉 [Absolutely breathtaking skill](http://9gag.com/gag/a5QjV2L)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Asking the real questions at the museum.](http://9gag.com/gag/aXP2r7d)
- - 😝 [Be careful kids, the Evil Queen can understand your insults in spanish](http://9gag.com/gag/a7oN1Ww)
- - 💣 [What a surprise...](http://9gag.com/gag/a6Zp14e)
+ - 😝 [A supervillain is born](http://9gag.com/gag/aLnXvr6)
+ - 😝 [Gardening is `easy`.](http://9gag.com/gag/aZZ2rpn)
+ - 💣 [Be careful kids, the Evil Queen can understand your insults in spanish](http://9gag.com/gag/a7oN1Ww)
  - 😝 [Came for the cozy vibes, staying for the pals and cuties.](http://9gag.com/gag/a9yXq9m)
- - 👉 [Just two more laps, they said. Visibility is... optional?](http://9gag.com/gag/aMVXEQV)<!-- MEMES:END -->
+ - 👉 [This is literally the meme come to life](http://9gag.com/gag/a4PqP0A)<!-- MEMES:END -->
 
 ---
 

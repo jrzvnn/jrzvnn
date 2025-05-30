@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Young people sue Donald Trump over climate change](https://www.theverge.com/news/677537/youth-climate-change-lawsuit-trump-executive-orders)
  - [Grindr&amp;#8217;s new Right Now feature brings a spicy live feed to the hookup app](https://www.theverge.com/news/677134/grindr-right-now-ai)
  - [Dissenting iPhone 17 leak downgrades processor to A18 versus previously expected A19](https://appleinsider.com/articles/25/05/30/dissenting-iphone-17-leak-downgrades-processor-to-a18-versus-previously-expected-a19?utm_medium=rss)
- - [Sources: the White House is finalizing EOs on drones that could end Chinese drone sales in the US, update federal rules on where drones can be flown, and more &lpar;Washington Post&rpar;](http://www.techmeme.com/250530/p21#a250530p21)
- - [Sources: Abridge, which uses AI to transcribe medical chats, is raising $300M led by a16z at a $5.3B valuation, up from $2.75B in February when it raised $250M &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250530/p20#a250530p20)<!-- TECH:END -->
+ - [Elden Ring Nightreign: How to Find More Healing Flasks Fast](https://www.cnet.com/tech/gaming/elden-ring-nightreign-how-to-find-more-healing-flasks-fast/#ftag=CAD590a51e)
+ - [Sources: the White House is finalizing EOs on drones that could end Chinese drone sales in the US, update federal rules on where drones can be flown, and more &lpar;Washington Post&rpar;](http://www.techmeme.com/250530/p21#a250530p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

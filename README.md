@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Palantir&#39;s Foundry is now deployed in at least four federal agencies, after Trump signed an EO calling for the government to share data across agencies &lpar;New York Times&rpar;](http://www.techmeme.com/250530/p11#a250530p11)
+ - [Father&#39;s Day Gift Guide: The Best Wellness Gifts for Every Kind of Dad &lpar;and Every Budget&rpar;](https://www.cnet.com/health/fathers-day-gift-guide-the-best-wellness-gifts-for-every-kind-of-dad-and-every-budget/#ftag=CAD590a51e)
  - [You can get 15 percent off Elden Ring Nightreign on Steam and Xbox](https://www.theverge.com/tech/676639/elden-ring-nightreign-blink-video-doorbell-humble-bundle-deal-sale)
  - [Best iPad Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-ipad-accessories/)
- - [Republican Operatives Want to Distance Themselves From Elon Musk&#39;s DOGE](https://www.wired.com/story/republicans-distance-elon-musk-doge/)
- - [8 Best Bike Locks &lpar;2025&rpar;: Kryptonite, Litelok, Abus, Hiplok, Compared](https://www.wired.com/gallery/best-bike-lock/)
- - [Snorkel AI, which pivoted from data labeling to building AI evaluation tools, raised a $100M Series D led by Addition at a $1.3B valuation, up from $1B in 2021 &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/250530/p10#a250530p10)<!-- TECH:END -->
+ - [Republican Operatives Want to Distance Themselves From Elon Musk&#39;s DOGE](https://www.wired.com/story/republicans-distance-elon-musk-doge/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

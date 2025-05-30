@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fur Trim System Review: Simple, Pain-Free Body Hair Removal](https://www.wired.com/review/fur-trim-system/)
- - [President Trump lashes out at China for violating new trade agreement](https://appleinsider.com/articles/25/05/30/president-trump-lashes-out-at-china-for-violating-new-trade-agreement?utm_medium=rss)
- - [Is Using a Stair Machine the Same as Climbing Stairs?](https://www.wired.com/story/is-using-a-stair-machine-the-same-as-climbing-stairs/)
- - [Nintendo’s Switch era took Pokémon collecting to the next level](https://www.theverge.com/nintendo/675590/nintendo-switch-pokemon-home-legends-za-generation-x)
- - [More than just a future iPhone may get the long-rumored haptic buttons](https://appleinsider.com/articles/25/05/30/more-than-just-a-future-iphone-may-get-the-long-rumored-haptic-buttons?utm_medium=rss)<!-- TECH:END -->
+ - [Why I love my Brother 1034D Serger](https://www.theverge.com/tech/658691/serger-brother-sewing-knits-favorites)
+ - [Nintendo will let you limit who your kid can GameChat with on the Switch 2](https://www.theverge.com/news/676982/nintendo-switch-2-parental-controls-app-gamechat-restrictions)
+ - [Best Fitness Trackers of 2025 for Peak Performance](https://www.wired.com/gallery/best-fitness-tracker/)
+ - [US v. Google: all the news from the search antitrust showdown](https://www.theverge.com/23869483/us-v-google-search-antitrust-case-updates)
+ - [Best Home Equity Loan Rates for 2025](https://www.cnet.com/personal-finance/home-equity/home-equity-loan-rates/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

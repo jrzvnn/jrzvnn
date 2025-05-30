@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can get 15 percent off Elden Ring Nightreign on Steam and Xbox](https://www.theverge.com/tech/676639/elden-ring-nightreign-blink-video-doorbell-humble-bundle-deal-sale)
+ - [Best iPad Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-ipad-accessories/)
+ - [Republican Operatives Want to Distance Themselves From Elon Musk&#39;s DOGE](https://www.wired.com/story/republicans-distance-elon-musk-doge/)
  - [8 Best Bike Locks &lpar;2025&rpar;: Kryptonite, Litelok, Abus, Hiplok, Compared](https://www.wired.com/gallery/best-bike-lock/)
- - [Snorkel AI, which pivoted from data labeling to building AI evaluation tools, raised a $100M Series D led by Addition at a $1.3B valuation, up from $1B in 2021 &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/250530/p10#a250530p10)
- - [Elden Ring Nightreign Patch 1.02 Aims to Fix Brutal Solo Difficulty](https://www.cnet.com/tech/gaming/elden-ring-nightreign-patch-1-02-aims-to-fix-brutal-solo-difficulty/#ftag=CAD590a51e)
- - [Can a redesign save Apple&amp;#8217;s software?](https://www.theverge.com/the-vergecast/677023/apple-redesign-names-wwdc-2025-vergecast)
- - [As Trump Moves Tariff Pieces Around the Board, Tabletop Games Face Calamity](https://www.cnet.com/tech/gaming/as-trump-moves-tariff-pieces-around-the-board-tabletop-games-face-calamity/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Snorkel AI, which pivoted from data labeling to building AI evaluation tools, raised a $100M Series D led by Addition at a $1.3B valuation, up from $1B in 2021 &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/250530/p10#a250530p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

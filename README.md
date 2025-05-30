@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Asking the real questions at the museum.](http://9gag.com/gag/aXP2r7d)
- - 😝 [Only in Japan](http://9gag.com/gag/apRA9AE)
- - 💣 [Much Competence, No DEI.](http://9gag.com/gag/axyPy72)
- - 😝 [When you realize your fanbase is mostly adults who need a break from work...](http://9gag.com/gag/apRA1mE)
- - 👉 [Absolutely breathtaking skill](http://9gag.com/gag/a5QjV2L)<!-- MEMES:END -->
+ - 😝 [A supervillain is born](http://9gag.com/gag/aLnXvr6)
+ - 😝 [Tickles tickles](http://9gag.com/gag/ae929rO)
+ - 💣 [When you realize your fanbase is mostly adults who need a break from work...](http://9gag.com/gag/apRA1mE)
+ - 😝 [Be careful kids, the Evil Queen can understand your insults in spanish](http://9gag.com/gag/a7oN1Ww)
+ - 👉 [Installing Starlink the most American way possible](http://9gag.com/gag/ayNQ2Ep)<!-- MEMES:END -->
 
 ---
 

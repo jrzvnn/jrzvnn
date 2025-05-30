@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The ultimate loyalty test for this doggo.](http://9gag.com/gag/a2vbvge)
  - 😝 [Starting the week like...](http://9gag.com/gag/a5QjVKG)
+ - 😝 [The ultimate loyalty test for this doggo.](http://9gag.com/gag/a2vbvge)
  - 💣 [Let him cook](http://9gag.com/gag/aXP2nN2)
- - 😝 [Only in Japan](http://9gag.com/gag/apRA9AE)
- - 👉 [Wait, titanium dioxide was in Skittles?](http://9gag.com/gag/aQz2ge7)<!-- MEMES:END -->
+ - 😝 [Wait, titanium dioxide was in Skittles?](http://9gag.com/gag/aQz2ge7)
+ - 👉 [Only in Japan](http://9gag.com/gag/apRA9AE)<!-- MEMES:END -->
 
 ---
 

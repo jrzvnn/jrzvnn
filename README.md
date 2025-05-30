@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What to expect from iOS 26 at WWDC: New games app, redesign, and more](https://appleinsider.com/articles/25/05/30/what-to-expect-from-ios-26-at-wwdc-new-games-app-redesign-and-more?utm_medium=rss)
+ - [QA workers at ZeniMax reach tentative contract agreement](https://www.theverge.com/news/677317/zenimax-union-tentative-contract-cwa-microsoft)
  - [Sources: TSMC is evaluating building a &quot;gigafab&quot; in the UAE and has discussed the possibility with MGX and officials in the Trump administration &lpar;Bloomberg&rpar;](http://www.techmeme.com/250530/p16#a250530p16)
- - [Microsoft hires ex-Biden administration lawyer Lisa Monaco as president of global affairs and promotes ex-Trump official C.J. Mahoney to general counsel &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250530/p15#a250530p15)
- - [Taylor Swift now owns all of her music](https://www.theverge.com/news/677276/taylor-swift-owns-music-catalog-scooter-braun-shamrock-capital)
- - [Prepared, which offers AI tools to modernize emergency response systems, raised a $80M Series C led by General Catalyst, bringing its total funding to ~$135.2M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250530/p14#a250530p14)
- - [Two former Polygon writers are starting a new site](https://www.theverge.com/news/675764/polygon-guides-writers-big-friendly-guide-new-site)<!-- TECH:END -->
+ - [A Wildlife Expert Helped Me Find the Best Spot for My Bird Feeder. Here&#39;s What I Learned](https://www.cnet.com/news/a-wildlife-expert-helped-me-find-the-best-spot-for-my-bird-feeder-heres-what-i-learned/#ftag=CAD590a51e)
+ - [Microsoft hires ex-Biden administration lawyer Lisa Monaco as president of global affairs and promotes ex-Trump official C.J. Mahoney to general counsel &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250530/p15#a250530p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

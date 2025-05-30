@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [This is literally the meme come to life](http://9gag.com/gag/a4PqP0A)
- - 😝 [Mom: We have Mjolnir at home. The Mjolnir at home:](http://9gag.com/gag/aGy2zQ7)
- - 💣 [Absolutely breathtaking skill](http://9gag.com/gag/a5QjV2L)
+ - 😝 [This scene will never not be funny.](http://9gag.com/gag/aRB2r9q)
+ - 💣 [The ultimate loyalty test for this doggo.](http://9gag.com/gag/a2vbvge)
  - 😝 [Came for the cozy vibes, staying for the pals and cuties.](http://9gag.com/gag/a9yXq9m)
- - 👉 [Installing Starlink the most American way possible](http://9gag.com/gag/ayNQ2Ep)<!-- MEMES:END -->
+ - 👉 [Simple yet effective farming technique.](http://9gag.com/gag/aqyzeZ7)<!-- MEMES:END -->
 
 ---
 

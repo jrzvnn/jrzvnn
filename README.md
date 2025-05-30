@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Your Friends and Neighbors&#39; creator Jonathan Tropper to stay with Apple under new deal](https://appleinsider.com/articles/25/05/30/your-friends-and-neighbors-creator-jonathan-tropper-to-stay-with-apple-under-new-deal?utm_medium=rss)
  - [Letter: Synopsys tells staff to stop sales, services, and new orders in China to comply with new US export curbs, and pulls its annual and quarterly forecasts &lpar;Reuters&rpar;](http://www.techmeme.com/250530/p6#a250530p6)
  - [The Best Sweatpants: Our Top 7 Picks &lpar;2025&rpar;](https://www.wired.com/gallery/best-sweatpants/)
  - [RFK Jr.&amp;#8217;s ‘Make America Healthy Again’ report seems riddled with AI slop](https://www.theverge.com/news/676945/rfk-jr-maha-health-report-ai-slop)
- - [What Are Exosomes and Why Are Skincare Experts Raising Red Flags? &lpar;2025&rpar;](https://www.wired.com/story/what-are-exosomes/)
- - [The US Treasury sanctions Philippines-based Funnull Technology for allegedly facilitating &quot;pig butchering&quot; crypto scams that stole over $200M from US victims &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250530/p5#a250530p5)<!-- TECH:END -->
+ - [What Are Exosomes and Why Are Skincare Experts Raising Red Flags? &lpar;2025&rpar;](https://www.wired.com/story/what-are-exosomes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

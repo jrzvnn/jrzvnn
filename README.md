@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cerby, which provides an identity security automation service to help secure &quot;unmanageable&quot; and nonstandard enterprise apps, raised a $40M Series B led by DTCP &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250529/p48#a250529p48)
+ - [The US Department of Energy says its Doudna supercomputer, due in 2026, will use Nvidia&#39;s latest Vera Rubin chips built into liquid-cooled servers by Dell &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250529/p47#a250529p47)
+ - [Trump tariffs return until June 9 after appeals court stays injunction](https://appleinsider.com/articles/25/05/30/trump-tariffs-return-until-june-9-after-court-stays-trade-court-injunction?utm_medium=rss)
  - [Black Forest Labs releases Flux.1 Kontext, a suite of AI models that let users generate and edit images using both text and images as inputs &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250529/p46#a250529p46)
- - [WIRED Talked to a Fired DOGE Staffer About Who Was Really in Charge](https://www.wired.com/story/fired-doge-staffer-who-is-in-charge/)
- - [Keychron Q14 Max review: Unusual but great](https://appleinsider.com/articles/25/05/30/keychron-q14-max-review-unusual-but-great?utm_medium=rss)
- - [Google Photos Is Getting an Editor Overhaul and New Sharing Features for Its 10th Birthday](https://www.cnet.com/tech/services-and-software/google-photos-is-getting-an-editor-overhaul-and-new-sharing-features-for-its-10th-birthday/#ftag=CAD590a51e)
- - [Can the Steam Deck Run Elden Ring Nightreign?](https://www.cnet.com/tech/gaming/can-the-steam-deck-run-elden-ring-nightreign/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [WIRED Talked to a Fired DOGE Staffer About Who Was Really in Charge](https://www.wired.com/story/fired-doge-staffer-who-is-in-charge/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

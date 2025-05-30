@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Trump administration plans to expand Entity List restrictions to cover subsidiaries of Chinese companies, aiming to block workarounds via new offshoots &lpar;Bloomberg&rpar;](http://www.techmeme.com/250530/p17#a250530p17)
+ - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
  - [What to expect from iOS 26 at WWDC: New games app, redesign, and more](https://appleinsider.com/articles/25/05/30/what-to-expect-from-ios-26-at-wwdc-new-games-app-redesign-and-more?utm_medium=rss)
  - [QA workers at ZeniMax reach tentative contract agreement](https://www.theverge.com/news/677317/zenimax-union-tentative-contract-cwa-microsoft)
- - [Sources: TSMC is evaluating building a &quot;gigafab&quot; in the UAE and has discussed the possibility with MGX and officials in the Trump administration &lpar;Bloomberg&rpar;](http://www.techmeme.com/250530/p16#a250530p16)
- - [A Wildlife Expert Helped Me Find the Best Spot for My Bird Feeder. Here&#39;s What I Learned](https://www.cnet.com/news/a-wildlife-expert-helped-me-find-the-best-spot-for-my-bird-feeder-heres-what-i-learned/#ftag=CAD590a51e)
- - [Microsoft hires ex-Biden administration lawyer Lisa Monaco as president of global affairs and promotes ex-Trump official C.J. Mahoney to general counsel &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250530/p15#a250530p15)<!-- TECH:END -->
+ - [Sources: TSMC is evaluating building a &quot;gigafab&quot; in the UAE and has discussed the possibility with MGX and officials in the Trump administration &lpar;Bloomberg&rpar;](http://www.techmeme.com/250530/p16#a250530p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

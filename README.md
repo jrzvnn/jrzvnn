@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Can’t Afford an Ebike? Borrow One for Free From a Lending Library](https://www.wired.com/story/ebike-lending-libraries/)
+ - [12 Best Travel Adapters &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-travel-adapters/)
  - [Disney Plus&amp;#8217; new &amp;#8216;Perks&amp;#8217; pile on discounts and other bonuses](https://www.theverge.com/news/676941/disney-plus-hulu-perks-discounts-sweepstakes)
  - [Thailand files charges against, and orders the blocking of crypto exchanges Bybit, CoinEx, OKX, 1000X, and XT.com from June 28 for operating without a license &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/250530/p4#a250530p4)
- - [Trump&#39;s Administration Wants to Erase Queer History. An Unconventional Book Club Is Fighting Back](https://www.wired.com/story/trump-wants-to-erase-queer-history-this-unconventional-book-club-is-fighting-back/)
- - [Sources say Alibaba, Tencent, Baidu, and other Chinese companies are testing domestic alternatives as they deal with a dwindling stockpile of Nvidia processors &lpar;Financial Times&rpar;](http://www.techmeme.com/250530/p3#a250530p3)
- - [Gmail’s AI summaries now appear automatically](https://www.theverge.com/news/676933/gmail-ai-summaries-workspace-android-ios)<!-- TECH:END -->
+ - [I Thought No Robot Vacuum Could Navigate My Tricky Furniture, Then One Surprised Me With Its Ingenious Arms](https://www.cnet.com/deals/i-thought-no-robot-vacuum-could-navigate-my-tricky-furniture-then-one-surprised-me-with-its-ingenious-arms/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

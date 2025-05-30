@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hugging Face unveils two open-source humanoid robots, the $3,000 full-sized HopeJR and a $250-$300 Reachy Mini desktop unit, expected to ship by the end of 2025 &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250530/p1#a250530p1)
  - [Two rival Amazon influencers seek to dismiss their 2024 copyright case, where one accused the other of posting similar promotional content for the same products &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/250529/p49#a250529p49)
  - [Cerby, which provides an identity security automation service to help secure &quot;unmanageable&quot; and nonstandard enterprise apps, raised a $40M Series B led by DTCP &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250529/p48#a250529p48)
  - [The US Department of Energy says its Doudna supercomputer, due in 2026, will use Nvidia&#39;s latest Vera Rubin chips built into liquid-cooled servers by Dell &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250529/p47#a250529p47)
- - [Trump tariffs return until June 9 after appeals court stays injunction](https://appleinsider.com/articles/25/05/30/trump-tariffs-return-until-june-9-after-court-stays-trade-court-injunction?utm_medium=rss)
- - [Black Forest Labs releases Flux.1 Kontext, a suite of AI models that let users generate and edit images using both text and images as inputs &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250529/p46#a250529p46)<!-- TECH:END -->
+ - [Trump tariffs return until June 9 after appeals court stays injunction](https://appleinsider.com/articles/25/05/30/trump-tariffs-return-until-june-9-after-court-stays-trade-court-injunction?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

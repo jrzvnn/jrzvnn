@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Only in Japan](http://9gag.com/gag/apRA9AE)
- - 😝 [Much Competence, No DEI.](http://9gag.com/gag/axyPy72)
+ - 😝 [Starting the week like...](http://9gag.com/gag/a5QjVKG)
+ - 😝 [Don\u2019t tell mom](http://9gag.com/gag/ae9244O)
  - 💣 [The ultimate loyalty test for this doggo.](http://9gag.com/gag/a2vbvge)
- - 😝 [The reality of a Final Destination death scene](http://9gag.com/gag/aYQ1GwV)
+ - 😝 [Only in Japan](http://9gag.com/gag/apRA9AE)
  - 👉 [Historically correct](http://9gag.com/gag/aByX6ZO)<!-- MEMES:END -->
 
 ---

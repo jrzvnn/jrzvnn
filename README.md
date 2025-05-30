@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mi\u00e9rcoles de resucitacion cardiopulmonar](http://9gag.com/gag/a7oN142)
- - 😝 [Asking the real questions at the museum.](http://9gag.com/gag/aXP2r7d)
- - 💣 [A new t-shirt](http://9gag.com/gag/a9yXE4L)
+ - 😝 [Wait, titanium dioxide was in Skittles?](http://9gag.com/gag/aQz2ge7)
+ - 😝 [A new t-shirt](http://9gag.com/gag/a9yXE4L)
+ - 💣 [He deserved his freedom with his mind.](http://9gag.com/gag/aNDRPOK)
  - 😝 [Came for the cozy vibes, staying for the pals and cuties.](http://9gag.com/gag/a9yXq9m)
- - 👉 [Wait, titanium dioxide was in Skittles?](http://9gag.com/gag/aQz2ge7)<!-- MEMES:END -->
+ - 👉 [Installing Starlink the most American way possible](http://9gag.com/gag/ayNQ2Ep)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How 720p went from HD to potato quality](http://9gag.com/gag/a9yXzYL)
- - 😝 [LINK! Look over here! A bokoblin chest!](http://9gag.com/gag/aRB2LM7)
- - 💣 [What is an immigrant](http://9gag.com/gag/abA2vKL)
+ - 😝 [The ultimate loyalty test for this doggo.](http://9gag.com/gag/a2vbvge)
+ - 😝 [The video was given to the police and he now faces a possible suspension of his license.](http://9gag.com/gag/avyvyPX)
+ - 💣 [I would take her for spin](http://9gag.com/gag/ayNQ2Oy)
  - 😝 [Came for the cozy vibes, staying for the pals and cuties.](http://9gag.com/gag/a9yXq9m)
- - 👉 [I lost my wallet and a guy returned it with all my money, credit cards and documents. In Brazil!](http://9gag.com/gag/abA2AO8)<!-- MEMES:END -->
+ - 👉 [He deserved his freedom with his mind.](http://9gag.com/gag/aNDRPOK)<!-- MEMES:END -->
 
 ---
 

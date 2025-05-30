@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Here comes the haters](http://9gag.com/gag/aLnXzBg)
- - 😝 [Wait, titanium dioxide was in Skittles?](http://9gag.com/gag/aQz2ge7)
- - 💣 [He deserved his freedom with his mind.](http://9gag.com/gag/aNDRPOK)
- - 😝 [This scene will never not be funny.](http://9gag.com/gag/aRB2r9q)
- - 👉 [When you realize your fanbase is mostly adults who need a break from work...](http://9gag.com/gag/apRA1mE)<!-- MEMES:END -->
+ - 😝 [Asking the real questions at the museum.](http://9gag.com/gag/aXP2r7d)
+ - 😝 [Let him cook](http://9gag.com/gag/aXP2nN2)
+ - 💣 [Wait, titanium dioxide was in Skittles?](http://9gag.com/gag/aQz2ge7)
+ - 😝 [Absolutely breathtaking skill](http://9gag.com/gag/a5QjV2L)
+ - 👉 [He deserved his freedom with his mind.](http://9gag.com/gag/aNDRPOK)<!-- MEMES:END -->
 
 ---
 

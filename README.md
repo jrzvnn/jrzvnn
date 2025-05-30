@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Where to buy microSD Express cards for the Nintendo Switch 2](https://www.theverge.com/tech/676075/switch-2-microsd-express-cards-where-to-buy)
  - [iPhones help bring new life to the &#39;28 Days Later&#39; movie](https://appleinsider.com/articles/25/05/30/iphones-help-bring-new-life-to-the-28-days-later-movie?utm_medium=rss)
  - [Today is your last day to get a year of Peacock Premium for just $24.99](https://www.theverge.com/tech/675646/peacock-premium-poker-face-wicked-conclave-deal-sale)
  - [Sources: Palantir&#39;s Foundry is now deployed in at least four federal agencies, after Trump signed an EO calling for the government to share data across agencies &lpar;New York Times&rpar;](http://www.techmeme.com/250530/p11#a250530p11)
- - [Father&#39;s Day Gift Guide: The Best Wellness Gifts for Every Kind of Dad &lpar;and Every Budget&rpar;](https://www.cnet.com/health/fathers-day-gift-guide-the-best-wellness-gifts-for-every-kind-of-dad-and-every-budget/#ftag=CAD590a51e)
- - [You can get 15 percent off Elden Ring Nightreign on Steam and Xbox](https://www.theverge.com/tech/676639/elden-ring-nightreign-blink-video-doorbell-humble-bundle-deal-sale)<!-- TECH:END -->
+ - [Father&#39;s Day Gift Guide: The Best Wellness Gifts for Every Kind of Dad &lpar;and Every Budget&rpar;](https://www.cnet.com/health/fathers-day-gift-guide-the-best-wellness-gifts-for-every-kind-of-dad-and-every-budget/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

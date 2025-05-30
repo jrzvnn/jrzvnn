@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Much Competence, No DEI.](http://9gag.com/gag/axyPy72)
  - 😝 [A new t-shirt](http://9gag.com/gag/a9yXE4L)
- - 😝 [Only in Japan](http://9gag.com/gag/apRA9AE)
- - 💣 [Installing Starlink the most American way possible](http://9gag.com/gag/ayNQ2Ep)
+ - 💣 [Be careful kids, the Evil Queen can understand your insults in spanish](http://9gag.com/gag/a7oN1Ww)
  - 😝 [Came for the cozy vibes, staying for the pals and cuties.](http://9gag.com/gag/a9yXq9m)
  - 👉 [Trying to get past 2-step verification like](http://9gag.com/gag/axyPBQL)<!-- MEMES:END -->
 

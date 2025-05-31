@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hooo... you are approaching me?](http://9gag.com/gag/aKGYA7Q)
- - 😝 [Suddenly I understand all those Blockbuster late fees.](http://9gag.com/gag/abA2OMr)
- - 💣 [Plot twist of the century](http://9gag.com/gag/amoVGL2)
- - 😝 [Historically correct](http://9gag.com/gag/aByX6ZO)
- - 👉 [Guess who&#39;s back? AI can&#39;t touch this.](http://9gag.com/gag/a34W0gN)<!-- MEMES:END -->
+ - 😝 [Work smarter, not harder.](http://9gag.com/gag/avyv615)
+ - 😝 [Here comes the haters](http://9gag.com/gag/aLnXzBg)
+ - 💣 [Me during the loyalty test:](http://9gag.com/gag/aAyXEZp)
+ - 😝 [Wait until the end!](http://9gag.com/gag/aXP2VNb)
+ - 👉 [When you hit your head so hard you think you&#39;re the apex predator now](http://9gag.com/gag/aW42n73)<!-- MEMES:END -->
 
 ---
 

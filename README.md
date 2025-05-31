@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Grow a Garden, a hit game on Roblox, has spawned a market where in-game items are sold for real money on sites like eBay, potentially violating Roblox&#39;s ToS &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250531/p9#a250531p9)
  - [Staples Union &amp; Scale Electric Standing Desk Review: Micro Movements](https://www.wired.com/review/staples-union-and-scale-electric-standing-desk-with-micro-movements/)
+ - [Elden Ring Nightreign Director Interview: He Solo&#39;d Every Boss and So Can You](https://www.cnet.com/tech/gaming/elden-ring-nightreign-director-interview-if-he-can-solo-every-boss-so-can-you/#ftag=CAD590a51e)
  - [The Switch 2&amp;#8217;s promising start hides an uncertain future](https://www.theverge.com/games/677301/the-switch-2s-promising-start-hides-an-uncertain-future)
- - [What Is Google One? A Breakdown of Plans, Pricing, and Included Services](https://www.wired.com/story/what-is-google-one/)
- - [Nike x Hyperice Hyperboot Review: Wearable Post-Run Recovery](https://www.wired.com/review/nike-x-hyperice-hyperboots/)
- - [LLMs and AI Aren&#39;t the Same. Everything You Should Know About What&#39;s Behind Chatbots](https://www.cnet.com/tech/services-and-software/llms-and-ai-arent-the-same-everything-you-should-know-about-whats-behind-chatbots/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Why Animatronics at Epic Universe Hit Different: Universal Talks on Tech Challenges and Taking Risks](https://www.cnet.com/tech/i-never-saw-animatronics-like-this-epic-universe-team-reveals-challenges-of-theme-park-tech/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

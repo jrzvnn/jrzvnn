@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI&#39;s real threat to education isn&#39;t that it encourages students to cheat, but that it short-circuits the learning processes needed to use generative AI adeptly &lpar;Nicholas Carr/New Cartographies&rpar;](http://www.techmeme.com/250531/p15#a250531p15)
+ - [This Ultimate Y2K Sci-Fi Movie Made Virtual Reality Seem Almost Too Real](https://www.cnet.com/culture/entertainment/this-ultimate-y2k-sci-fi-movie-made-virtual-reality-seem-almost-too-real/#ftag=CAD590a51e)
  - [How to Watch Tonight&#39;s New York Knicks vs. Indiana Pacers Game 6 for Free](https://www.cnet.com/tech/services-and-software/how-to-watch-tonights-new-york-knicks-vs-indiana-pacers-game-6-for-free/#ftag=CAD590a51e)
  - [Twitch plans to start testing the ability to host a vertical livestream and rolls out an open beta of &quot;2K streaming&quot;, letting creators stream at 1440p &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250531/p14#a250531p14)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 1, #251](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-1-251/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 1, #455](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-1-455/#ftag=CAD590a51e)
- - [&#39;MobLand&#39; Release Schedule: When the Finale Drops on Paramount Plus](https://www.cnet.com/tech/services-and-software/mobland-release-schedule-when-the-finale-drops-on-paramount-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 1, #251](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-1-251/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

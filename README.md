@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SpaceX rockets keep exploding. Is that normal?](https://www.theverge.com/spacex/677355/spacex-rockets-exploding-normal)
  - [Internal docs show Meta plans to use AI to automate up to 90% of its privacy and integrity risk assessments, including in sensitive areas like violent content &lpar;NPR&rpar;](http://www.techmeme.com/250531/p11#a250531p11)
  - [The 8 Best Handheld Vacuums, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-handheld-vacuum/)
  - [I Monitor Tariff Impacts Every Day: Here Are My Top Tips to Help You Track Prices](https://www.cnet.com/personal-finance/i-monitor-tariff-impacts-every-day-here-are-my-top-tips-to-help-you-track-prices/#ftag=CAD590a51e)
- - [Google quietly released an Android app called Google AI Edge Gallery on GitHub, letting users run some AI models from Hugging Face locally on their phones &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250531/p10#a250531p10)
- - [21 Gifts for Dads Who Don&#39;t Need Anything &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-to-give-dads/)<!-- TECH:END -->
+ - [Google quietly released an Android app called Google AI Edge Gallery on GitHub, letting users run some AI models from Hugging Face locally on their phones &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250531/p10#a250531p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

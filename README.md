@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Work smarter, not harder.](http://9gag.com/gag/avyv615)
- - 😝 [Here comes the haters](http://9gag.com/gag/aLnXzBg)
- - 💣 [Me during the loyalty test:](http://9gag.com/gag/aAyXEZp)
- - 😝 [Wait until the end!](http://9gag.com/gag/aXP2VNb)
- - 👉 [When you hit your head so hard you think you&#39;re the apex predator now](http://9gag.com/gag/aW42n73)<!-- MEMES:END -->
+ - 😝 [Child is in tune with the universe](http://9gag.com/gag/awy43m4)
+ - 😝 [31 years old and in heart failiure. Plz send memes. The darker, the better.](http://9gag.com/gag/a4Pq6r1)
+ - 💣 [Have a great day my fellow 9gaggers](http://9gag.com/gag/a9yXvN6)
+ - 😝 [Hooo... you are approaching me?](http://9gag.com/gag/aKGYA7Q)
+ - 👉 [Her boyfriend understood the assignment.](http://9gag.com/gag/aD2X8RB)<!-- MEMES:END -->
 
 ---
 

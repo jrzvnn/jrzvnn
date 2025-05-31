@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is the AI we need, not another bot spamming replies.](http://9gag.com/gag/aByXZKx)
- - 😝 [I can relate](http://9gag.com/gag/apRA31E)
- - 💣 [Unexpected agents of the cat distribution system.](http://9gag.com/gag/abA2O8B)
- - 😝 [My packing strategy in a nutshell.](http://9gag.com/gag/adB21Zj)
- - 👉 [The Roman drainage tunnel of Lake Albano](http://9gag.com/gag/a87w621)<!-- MEMES:END -->
+ - 😝 [Friendship -10%](http://9gag.com/gag/aZZ2139)
+ - 😝 [When you forget to put your filter on.](http://9gag.com/gag/aLnXn45)
+ - 💣 [Absolutely breathtaking skill](http://9gag.com/gag/a5QjV2L)
+ - 😝 [Starting the week like...](http://9gag.com/gag/a5QjVKG)
+ - 👉 [Bro saw death upon him](http://9gag.com/gag/aNDRLN4)<!-- MEMES:END -->
 
 ---
 

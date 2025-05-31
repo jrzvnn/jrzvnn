@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Friendship -10%](http://9gag.com/gag/aZZ2139)
- - 😝 [When you forget to put your filter on.](http://9gag.com/gag/aLnXn45)
+ - 😝 [Much Competence, No DEI.](http://9gag.com/gag/axyPy72)
+ - 😝 [Plot twist of the century](http://9gag.com/gag/amoVGL2)
  - 💣 [Absolutely breathtaking skill](http://9gag.com/gag/a5QjV2L)
- - 😝 [Starting the week like...](http://9gag.com/gag/a5QjVKG)
- - 👉 [Bro saw death upon him](http://9gag.com/gag/aNDRLN4)<!-- MEMES:END -->
+ - 😝 [Friendship -10%](http://9gag.com/gag/aZZ2139)
+ - 👉 [The reality of a Final Destination death scene](http://9gag.com/gag/aYQ1GwV)<!-- MEMES:END -->
 
 ---
 

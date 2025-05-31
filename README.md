@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I can relate](http://9gag.com/gag/apRA31E)
- - 😝 [Lego Simpsons Meme](http://9gag.com/gag/amoV1Ov)
- - 💣 [The Roman drainage tunnel of Lake Albano](http://9gag.com/gag/a87w621)
- - 😝 [I&#39;m wondering why he&#39;s putting a helmet](http://9gag.com/gag/a2vb0YY)
- - 👉 [My packing strategy in a nutshell.](http://9gag.com/gag/adB21Zj)<!-- MEMES:END -->
+ - 😝 [Popcorn Factory](http://9gag.com/gag/adB2BXB)
+ - 😝 [When your phone alarm has zero respect for your tennis match.](http://9gag.com/gag/ajPK7XG)
+ - 💣 [31 years old and in heart failiure. Plz send memes. The darker, the better.](http://9gag.com/gag/a4Pq6r1)
+ - 😝 [Plot twist of the century](http://9gag.com/gag/amoVGL2)
+ - 👉 [Absolutely breathtaking skill](http://9gag.com/gag/a5QjV2L)<!-- MEMES:END -->
 
 ---
 

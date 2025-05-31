@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Avril Lavigne in 2006.](http://9gag.com/gag/aKGY9zN)
- - 😝 [Starting the week like...](http://9gag.com/gag/a5QjVKG)
- - 💣 [Plot twist of the century](http://9gag.com/gag/amoVGL2)
- - 😝 [Friendship -10%](http://9gag.com/gag/aZZ2139)
- - 👉 [A neighborly visit with priorities.](http://9gag.com/gag/aByXZ4P)<!-- MEMES:END -->
+ - 😝 [Plot twist of the century](http://9gag.com/gag/amoVGL2)
+ - 😝 [Her boyfriend understood the assignment.](http://9gag.com/gag/aD2X8RB)
+ - 💣 [Avril Lavigne in 2006.](http://9gag.com/gag/aKGY9zN)
+ - 😝 [He even got a 6 pack of beer and told me to call him if I needed anything or if I just wanted to talk](http://9gag.com/gag/aW42n42)
+ - 👉 [Starting the week like...](http://9gag.com/gag/a5QjVKG)<!-- MEMES:END -->
 
 ---
 

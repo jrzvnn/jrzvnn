@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your phone alarm has zero respect for your tennis match.](http://9gag.com/gag/ajPK7XG)
- - 😝 [A year of living with ALS. The changes are profound, but the spirit remains strong.](http://9gag.com/gag/adB2PeB)
+ - 😝 [Historically correct](http://9gag.com/gag/aByX6ZO)
+ - 😝 [When you forget to put your filter on.](http://9gag.com/gag/aLnXn45)
  - 💣 [Absolutely breathtaking skill](http://9gag.com/gag/a5QjV2L)
- - 😝 [Only in Japan](http://9gag.com/gag/apRA9AE)
- - 👉 [Historically correct](http://9gag.com/gag/aByX6ZO)<!-- MEMES:END -->
+ - 😝 [Avril Lavigne in 2006.](http://9gag.com/gag/aKGY9zN)
+ - 👉 [31 years old and in heart failiure. Plz send memes. The darker, the better.](http://9gag.com/gag/a4Pq6r1)<!-- MEMES:END -->
 
 ---
 

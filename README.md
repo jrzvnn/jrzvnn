@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait until the end!](http://9gag.com/gag/aXP2VNb)
- - 😝 [When you hit your head so hard you think you&#39;re the apex predator now](http://9gag.com/gag/aW42n73)
- - 💣 [Here comes the haters](http://9gag.com/gag/aLnXzBg)
- - 😝 [When nature gives you the perfect hairstyle inspiration.](http://9gag.com/gag/aD2X7OG)
- - 👉 [No one will ever believe you](http://9gag.com/gag/aE0XAVK)<!-- MEMES:END -->
+ - 😝 [Friendship -10%](http://9gag.com/gag/aZZ2139)
+ - 😝 [Don\u2019t tell mom](http://9gag.com/gag/ae9244O)
+ - 💣 [Wait, titanium dioxide was in Skittles?](http://9gag.com/gag/aQz2ge7)
+ - 😝 [Avril Lavigne in 2006.](http://9gag.com/gag/aKGY9zN)
+ - 👉 [Tadaaammm...](http://9gag.com/gag/ae92OZQ)<!-- MEMES:END -->
 
 ---
 

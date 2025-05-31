@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait, Smurfette wasn&#39;t always... Smurfette?](http://9gag.com/gag/aO818n2)
+ - 😝 [Absolutely breathtaking skill](http://9gag.com/gag/a5QjV2L)
+ - 😝 [Plot twist of the century](http://9gag.com/gag/amoVGL2)
+ - 💣 [Much Competence, No DEI.](http://9gag.com/gag/axyPy72)
  - 😝 [Popcorn Factory](http://9gag.com/gag/adB2BXB)
- - 💣 [Starting the week like...](http://9gag.com/gag/a5QjVKG)
- - 😝 [Much Competence, No DEI.](http://9gag.com/gag/axyPy72)
- - 👉 [Bro saw death upon him](http://9gag.com/gag/aNDRLN4)<!-- MEMES:END -->
+ - 👉 [When you forget to put your filter on.](http://9gag.com/gag/aLnXn45)<!-- MEMES:END -->
 
 ---
 

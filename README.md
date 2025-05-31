@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lego Simpsons Meme](http://9gag.com/gag/amoV1Ov)
- - 😝 [This is the AI we need, not another bot spamming replies.](http://9gag.com/gag/aByXZKx)
- - 💣 [I can relate](http://9gag.com/gag/apRA31E)
- - 😝 [Unexpected agents of the cat distribution system.](http://9gag.com/gag/abA2O8B)
- - 👉 [The Roman drainage tunnel of Lake Albano](http://9gag.com/gag/a87w621)<!-- MEMES:END -->
+ - 😝 [Plot twist of the century](http://9gag.com/gag/amoVGL2)
+ - 😝 [Popcorn Factory](http://9gag.com/gag/adB2BXB)
+ - 💣 [Absolutely breathtaking skill](http://9gag.com/gag/a5QjV2L)
+ - 😝 [When you forget to put your filter on.](http://9gag.com/gag/aLnXn45)
+ - 👉 [Much Competence, No DEI.](http://9gag.com/gag/axyPy72)<!-- MEMES:END -->
 
 ---
 

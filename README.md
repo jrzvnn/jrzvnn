@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia reported record gaming revenue of $3.76B in Q1, up 42% YoY, driven by sales of its Blackwell chips that are used to enhance game graphics through DLSS &lpar;Max Knoblauch/Sherwood News&rpar;](http://www.techmeme.com/250531/p2#a250531p2)
  - [Docs and sources: Builder.ai faked business with Bengaluru-based VerSe, which runs the Dailyhunt news app, by &quot;round-tripping&quot; sales worth ~$60M from 2021-2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250531/p1#a250531p1)
  - [NYC-based Empathy, which runs an online platform providing on-demand tools and guidance for bereaving families, raised a $72M Series C led by Adams Street &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250530/p28#a250530p28)
  - [Vista Equity Partners agrees to acquire ERP software provider Acumatica from PE firm EQT, sources say in a deal that values Acumatica at ~$2B including debt &lpar;Bloomberg&rpar;](http://www.techmeme.com/250530/p27#a250530p27)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, May 31](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-may-31/#ftag=CAD590a51e)
- - [Boston-based cloud cost management startup CloudZero raised a $56M Series C led by BlueCrest Capital Management and Innovius Capital &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250530/p26#a250530p26)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, May 31](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-may-31/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

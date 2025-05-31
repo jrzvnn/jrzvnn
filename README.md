@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Starting the week like...](http://9gag.com/gag/a5QjVKG)
- - 😝 [Wait, titanium dioxide was in Skittles?](http://9gag.com/gag/aQz2ge7)
- - 💣 [Bro saw death upon him](http://9gag.com/gag/aNDRLN4)
- - 😝 [Plot twist of the century](http://9gag.com/gag/amoVGL2)
- - 👉 [When you realize your fanbase is mostly adults who need a break from work...](http://9gag.com/gag/apRA1mE)<!-- MEMES:END -->
+ - 😝 [This is the AI we need, not another bot spamming replies.](http://9gag.com/gag/aByXZKx)
+ - 😝 [I can relate](http://9gag.com/gag/apRA31E)
+ - 💣 [My packing strategy in a nutshell.](http://9gag.com/gag/adB21Zj)
+ - 😝 [The Roman drainage tunnel of Lake Albano](http://9gag.com/gag/a87w621)
+ - 👉 [Here comes the haters](http://9gag.com/gag/aLnXzBg)<!-- MEMES:END -->
 
 ---
 

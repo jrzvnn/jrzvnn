@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you forget to put your filter on.](http://9gag.com/gag/aLnXn45)
- - 😝 [Plot twist of the century](http://9gag.com/gag/amoVGL2)
- - 💣 [Much Competence, No DEI.](http://9gag.com/gag/axyPy72)
- - 😝 [31 years old and in heart failiure. Plz send memes. The darker, the better.](http://9gag.com/gag/a4Pq6r1)
- - 👉 [The reality of a Final Destination death scene](http://9gag.com/gag/aYQ1GwV)<!-- MEMES:END -->
+ - 😝 [Wait, Smurfette wasn&#39;t always... Smurfette?](http://9gag.com/gag/aO818n2)
+ - 😝 [Popcorn Factory](http://9gag.com/gag/adB2BXB)
+ - 💣 [Starting the week like...](http://9gag.com/gag/a5QjVKG)
+ - 😝 [Much Competence, No DEI.](http://9gag.com/gag/axyPy72)
+ - 👉 [Bro saw death upon him](http://9gag.com/gag/aNDRLN4)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Popcorn Factory](http://9gag.com/gag/adB2BXB)
- - 😝 [When your phone alarm has zero respect for your tennis match.](http://9gag.com/gag/ajPK7XG)
- - 💣 [31 years old and in heart failiure. Plz send memes. The darker, the better.](http://9gag.com/gag/a4Pq6r1)
- - 😝 [Plot twist of the century](http://9gag.com/gag/amoVGL2)
- - 👉 [Absolutely breathtaking skill](http://9gag.com/gag/a5QjV2L)<!-- MEMES:END -->
+ - 😝 [Starting the week like...](http://9gag.com/gag/a5QjVKG)
+ - 💣 [A neighborly visit with priorities.](http://9gag.com/gag/aByXZ4P)
+ - 😝 [The reality of a Final Destination death scene](http://9gag.com/gag/aYQ1GwV)
+ - 👉 [31 years old and in heart failiure. Plz send memes. The darker, the better.](http://9gag.com/gag/a4Pq6r1)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Plot twist of the century](http://9gag.com/gag/amoVGL2)
- - 😝 [Historically correct](http://9gag.com/gag/aByX6ZO)
- - 💣 [Her boyfriend understood the assignment.](http://9gag.com/gag/aD2X8RB)
  - 😝 [Guess who&#39;s back? AI can&#39;t touch this.](http://9gag.com/gag/a34W0gN)
- - 👉 [Suddenly I understand all those Blockbuster late fees.](http://9gag.com/gag/abA2OMr)<!-- MEMES:END -->
+ - 😝 [Historically correct](http://9gag.com/gag/aByX6ZO)
+ - 💣 [Child is in tune with the universe](http://9gag.com/gag/awy43m4)
+ - 😝 [Hooo... you are approaching me?](http://9gag.com/gag/aKGYA7Q)
+ - 👉 [Her boyfriend understood the assignment.](http://9gag.com/gag/aD2X8RB)<!-- MEMES:END -->
 
 ---
 

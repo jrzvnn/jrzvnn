@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s Big OS Rebrand, OnePlus Embraces AI, and Samsung&#39;s Next Folds—Your Gear News of the Week](https://www.wired.com/story/apples-big-os-rebrand-oneplus-ai-embrace-and-samsungs-next-folds-your-gear-news-of-the-week/)
  - [Twitch is getting vertical livestreams](https://www.theverge.com/news/677548/twitch-twitchcon-europe-vertical-livestreams-2k-streaming-rewind)
- - [Latest Rumors and Leaks About the iPhone 17: We&#39;re Here to Dish](https://www.cnet.com/tech/mobile/latest-rumors-and-leaks-about-the-iphone-17-were-here-to-dish/#ftag=CAD590a51e)
- - [A Replit employee details a critical security flaw in web apps created using AI-powered app builder Lovable that exposes API keys and personal info of app users &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250531/p7#a250531p7)
- - [London-based Dojo, a payments tech provider to over 140K businesses, raised $190M from Vitruvian Partners in its first equity raise since launching in 2021 &lpar;Vishal Singh/Silicon Canals&rpar;](http://www.techmeme.com/250531/p6#a250531p6)
- - [Vivodyne, which uses AI and robots to grow human tissues in the lab for drug discovery and development, raised a $40M Series A led by Khosla Ventures &lpar;Katherine Davis/Axios&rpar;](http://www.techmeme.com/250531/p5#a250531p5)<!-- TECH:END -->
+ - [Champions League Final Soccer: Livestream PSG vs. Inter Milan From Anywhere For Free](https://www.cnet.com/tech/services-and-software/champions-league-final-soccer-livestream-psg-vs-inter-milan-from-anywhere-for-free/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 1, #721](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-1-721/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for June 1, #1443](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-1-1443/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

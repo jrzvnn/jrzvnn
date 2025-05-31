@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shitty title](http://9gag.com/gag/a5Qj6YG)
+ - 😝 [Suddenly I understand all those Blockbuster late fees.](http://9gag.com/gag/abA2OMr)
  - 😝 [Her boyfriend understood the assignment.](http://9gag.com/gag/aD2X8RB)
- - 💣 [Suddenly I understand all those Blockbuster late fees.](http://9gag.com/gag/abA2OMr)
- - 😝 [He even got a 6 pack of beer and told me to call him if I needed anything or if I just wanted to talk](http://9gag.com/gag/aW42n42)
- - 👉 [Historically correct](http://9gag.com/gag/aByX6ZO)<!-- MEMES:END -->
+ - 💣 [Plot twist of the century](http://9gag.com/gag/amoVGL2)
+ - 😝 [Hooo... you are approaching me?](http://9gag.com/gag/aKGYA7Q)
+ - 👉 [Tadaaammm...](http://9gag.com/gag/ae92OZQ)<!-- MEMES:END -->
 
 ---
 

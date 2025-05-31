@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Absolutely breathtaking skill](http://9gag.com/gag/a5QjV2L)
- - 😝 [Bro saw death upon him](http://9gag.com/gag/aNDRLN4)
- - 💣 [Me during the loyalty test:](http://9gag.com/gag/aAyXEZp)
- - 😝 [Starting the week like...](http://9gag.com/gag/a5QjVKG)
- - 👉 [The reality of a Final Destination death scene](http://9gag.com/gag/aYQ1GwV)<!-- MEMES:END -->
+ - 😝 [Friendship -10%](http://9gag.com/gag/aZZ2139)
+ - 😝 [When you forget to put your filter on.](http://9gag.com/gag/aLnXn45)
+ - 💣 [When you realize your fanbase is mostly adults who need a break from work...](http://9gag.com/gag/apRA1mE)
+ - 😝 [A neighborly visit with priorities.](http://9gag.com/gag/aByXZ4P)
+ - 👉 [Starting the week like...](http://9gag.com/gag/a5QjVKG)<!-- MEMES:END -->
 
 ---
 

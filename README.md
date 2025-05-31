@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Art house streaming service and distributor Mubi raised $100M led by Sequoia at a $1B valuation; Mubi has about 20M registered users worldwide &lpar;Christopher Grimes/Financial Times&rpar;](http://www.techmeme.com/250531/p12#a250531p12)
  - [SpaceX rockets keep exploding. Is that normal?](https://www.theverge.com/spacex/677355/spacex-rockets-exploding-normal)
- - [Internal docs show Meta plans to use AI to automate up to 90% of its privacy and integrity risk assessments, including in sensitive areas like violent content &lpar;NPR&rpar;](http://www.techmeme.com/250531/p11#a250531p11)
+ - [Internal docs show Meta plans to use AI to automate up to 90% of its privacy and integrity risk assessments, including in sensitive areas like youth risk &lpar;NPR&rpar;](http://www.techmeme.com/250531/p11#a250531p11)
  - [The 8 Best Handheld Vacuums, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-handheld-vacuum/)
  - [I Monitor Tariff Impacts Every Day: Here Are My Top Tips to Help You Track Prices](https://www.cnet.com/personal-finance/i-monitor-tariff-impacts-every-day-here-are-my-top-tips-to-help-you-track-prices/#ftag=CAD590a51e)<!-- TECH:END -->
 

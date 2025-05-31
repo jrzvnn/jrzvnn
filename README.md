@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Noooooo](http://9gag.com/gag/ae929mB)
- - 😝 [Avril Lavigne in 2006.](http://9gag.com/gag/aKGY9zN)
- - 💣 [Plot twist of the century](http://9gag.com/gag/amoVGL2)
- - 😝 [Me during the loyalty test:](http://9gag.com/gag/aAyXEZp)
- - 👉 [Popcorn Factory](http://9gag.com/gag/adB2BXB)<!-- MEMES:END -->
+ - 😝 [This is the AI we need, not another bot spamming replies.](http://9gag.com/gag/aByXZKx)
+ - 😝 [I can relate](http://9gag.com/gag/apRA31E)
+ - 💣 [Unexpected agents of the cat distribution system.](http://9gag.com/gag/abA2O8B)
+ - 😝 [My packing strategy in a nutshell.](http://9gag.com/gag/adB21Zj)
+ - 👉 [The Roman drainage tunnel of Lake Albano](http://9gag.com/gag/a87w621)<!-- MEMES:END -->
 
 ---
 

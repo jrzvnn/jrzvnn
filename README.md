@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Avril Lavigne in 2006.](http://9gag.com/gag/aKGY9zN)
- - 😝 [Much Competence, No DEI.](http://9gag.com/gag/axyPy72)
- - 💣 [Absolutely breathtaking skill](http://9gag.com/gag/a5QjV2L)
- - 😝 [Me during the loyalty test:](http://9gag.com/gag/aAyXEZp)
+ - 😝 [When you forget to put your filter on.](http://9gag.com/gag/aLnXn45)
+ - 😝 [Plot twist of the century](http://9gag.com/gag/amoVGL2)
+ - 💣 [Much Competence, No DEI.](http://9gag.com/gag/axyPy72)
+ - 😝 [31 years old and in heart failiure. Plz send memes. The darker, the better.](http://9gag.com/gag/a4Pq6r1)
  - 👉 [The reality of a Final Destination death scene](http://9gag.com/gag/aYQ1GwV)<!-- MEMES:END -->
 
 ---

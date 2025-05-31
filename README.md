@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Friendship -10%](http://9gag.com/gag/aZZ2139)
- - 😝 [Don\u2019t tell mom](http://9gag.com/gag/ae9244O)
- - 💣 [Wait, titanium dioxide was in Skittles?](http://9gag.com/gag/aQz2ge7)
- - 😝 [Avril Lavigne in 2006.](http://9gag.com/gag/aKGY9zN)
- - 👉 [Tadaaammm...](http://9gag.com/gag/ae92OZQ)<!-- MEMES:END -->
+ - 😝 [A neighborly visit with priorities.](http://9gag.com/gag/aByXZ4P)
+ - 😝 [Shitty title](http://9gag.com/gag/a5Qj6YG)
+ - 💣 [Historically correct](http://9gag.com/gag/aByX6ZO)
+ - 😝 [He even got a 6 pack of beer and told me to call him if I needed anything or if I just wanted to talk](http://9gag.com/gag/aW42n42)
+ - 👉 [Don\u2019t tell mom](http://9gag.com/gag/ae9244O)<!-- MEMES:END -->
 
 ---
 

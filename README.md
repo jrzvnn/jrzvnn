@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Plot twist of the century](http://9gag.com/gag/amoVGL2)
- - 😝 [Her boyfriend understood the assignment.](http://9gag.com/gag/aD2X8RB)
- - 💣 [Avril Lavigne in 2006.](http://9gag.com/gag/aKGY9zN)
- - 😝 [He even got a 6 pack of beer and told me to call him if I needed anything or if I just wanted to talk](http://9gag.com/gag/aW42n42)
- - 👉 [Starting the week like...](http://9gag.com/gag/a5QjVKG)<!-- MEMES:END -->
+ - 😝 [Avril Lavigne in 2006.](http://9gag.com/gag/aKGY9zN)
+ - 😝 [A neighborly visit with priorities.](http://9gag.com/gag/aByXZ4P)
+ - 💣 [Future Lawyer/Doctor Gone. But he good boy](http://9gag.com/gag/aAyX65L)
+ - 😝 [Tadaaammm...](http://9gag.com/gag/ae92OZQ)
+ - 👉 [Shitty title](http://9gag.com/gag/a5Qj6YG)<!-- MEMES:END -->
 
 ---
 

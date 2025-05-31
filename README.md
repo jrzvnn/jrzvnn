@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Friendship -10%](http://9gag.com/gag/aZZ2139)
- - 😝 [When you forget to put your filter on.](http://9gag.com/gag/aLnXn45)
- - 💣 [When you realize your fanbase is mostly adults who need a break from work...](http://9gag.com/gag/apRA1mE)
- - 😝 [A neighborly visit with priorities.](http://9gag.com/gag/aByXZ4P)
+ - 😝 [Her boyfriend understood the assignment.](http://9gag.com/gag/aD2X8RB)
+ - 😝 [The reality of a Final Destination death scene](http://9gag.com/gag/aYQ1GwV)
+ - 💣 [Friendship -10%](http://9gag.com/gag/aZZ2139)
+ - 😝 [Plot twist of the century](http://9gag.com/gag/amoVGL2)
  - 👉 [Starting the week like...](http://9gag.com/gag/a5QjVKG)<!-- MEMES:END -->
 
 ---

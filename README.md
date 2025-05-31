@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Docs and sources: Builder.ai faked business with Bengaluru-based VerSe, which runs the Dailyhunt news app, by &quot;round-tripping&quot; sales worth ~$60M from 2021-2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250531/p1#a250531p1)
  - [NYC-based Empathy, which runs an online platform providing on-demand tools and guidance for bereaving families, raised a $72M Series C led by Adams Street &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250530/p28#a250530p28)
  - [Vista Equity Partners agrees to acquire ERP software provider Acumatica from PE firm EQT, sources say in a deal that values Acumatica at ~$2B including debt &lpar;Bloomberg&rpar;](http://www.techmeme.com/250530/p27#a250530p27)
  - [Today&#39;s NYT Mini Crossword Answers for Saturday, May 31](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-may-31/#ftag=CAD590a51e)
- - [Boston-based cloud cost management startup CloudZero raised a $56M Series C led by BlueCrest Capital Management and Innovius Capital &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250530/p26#a250530p26)
- - [Yes, Student Loan Payments Could Rise for SAVE Borrowers. Here&#39;s How to Calculate Yours](https://www.cnet.com/personal-finance/loans/yes-student-loan-payments-could-rise-for-save-borrowers-heres-how-to-calculate-yours/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Boston-based cloud cost management startup CloudZero raised a $56M Series C led by BlueCrest Capital Management and Innovius Capital &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250530/p26#a250530p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

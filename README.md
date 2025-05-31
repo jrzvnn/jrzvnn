@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me during the loyalty test:](http://9gag.com/gag/aAyXEZp)
- - 😝 [Peak comfort unlocked.](http://9gag.com/gag/aQz2grw)
- - 💣 [Avril Lavigne in 2006.](http://9gag.com/gag/aKGY9zN)
- - 😝 [Own medicine](http://9gag.com/gag/aKGY9W3)
- - 👉 [Plot twist of the century](http://9gag.com/gag/amoVGL2)<!-- MEMES:END -->
+ - 😝 [Avril Lavigne in 2006.](http://9gag.com/gag/aKGY9zN)
+ - 😝 [Starting the week like...](http://9gag.com/gag/a5QjVKG)
+ - 💣 [Plot twist of the century](http://9gag.com/gag/amoVGL2)
+ - 😝 [Friendship -10%](http://9gag.com/gag/aZZ2139)
+ - 👉 [A neighborly visit with priorities.](http://9gag.com/gag/aByXZ4P)<!-- MEMES:END -->
 
 ---
 

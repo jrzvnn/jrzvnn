@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Me during the loyalty test:](http://9gag.com/gag/aAyXEZp)
  - 😝 [Much Competence, No DEI.](http://9gag.com/gag/axyPy72)
- - 😝 [Plot twist of the century](http://9gag.com/gag/amoVGL2)
- - 💣 [Absolutely breathtaking skill](http://9gag.com/gag/a5QjV2L)
- - 😝 [Friendship -10%](http://9gag.com/gag/aZZ2139)
- - 👉 [The reality of a Final Destination death scene](http://9gag.com/gag/aYQ1GwV)<!-- MEMES:END -->
+ - 💣 [When you realize your fanbase is mostly adults who need a break from work...](http://9gag.com/gag/apRA1mE)
+ - 😝 [Historically correct](http://9gag.com/gag/aByX6ZO)
+ - 👉 [Absolutely breathtaking skill](http://9gag.com/gag/a5QjV2L)<!-- MEMES:END -->
 
 ---
 

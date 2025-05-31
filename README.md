@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Defense tech firm Leidos acquires VA-based Kudu Dynamics, which provides AI-enabled cyber defense and offense tools to the US DOD and other customers, for $300M &lpar;Courtney Albon/Defense News&rpar;](http://www.techmeme.com/250531/p4#a250531p4)
  - [Visible Promo Code: Save Up to $400 in June 2025](https://www.wired.com/story/visible-promo-code/)
  - [Sources: TikTok Shop cuts several hundred jobs in Indonesia, leaving Tokopedia and TikTok Shop with ~2,500 employees in the country, down from ~5,000 last year &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/250531/p3#a250531p3)
  - [Nvidia reported record gaming revenue of $3.76B in Q1, up 42% YoY, driven by sales of its Blackwell chips that are used to enhance game graphics through DLSS &lpar;Max Knoblauch/Sherwood News&rpar;](http://www.techmeme.com/250531/p2#a250531p2)
- - [Docs and sources: Builder.ai faked business with Bengaluru-based VerSe, which runs the Dailyhunt news app, by &quot;round-tripping&quot; sales worth ~$60M from 2021-2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250531/p1#a250531p1)
- - [NYC-based Empathy, which runs an online platform providing on-demand tools and guidance for bereaving families, raised a $72M Series C led by Adams Street &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250530/p28#a250530p28)<!-- TECH:END -->
+ - [Docs and sources: Builder.ai faked business with Bengaluru-based VerSe, which runs the Dailyhunt news app, by &quot;round-tripping&quot; sales worth ~$60M from 2021-2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250531/p1#a250531p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

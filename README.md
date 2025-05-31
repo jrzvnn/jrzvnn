@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Historically correct](http://9gag.com/gag/aByX6ZO)
- - 😝 [When you forget to put your filter on.](http://9gag.com/gag/aLnXn45)
- - 💣 [Absolutely breathtaking skill](http://9gag.com/gag/a5QjV2L)
- - 😝 [Avril Lavigne in 2006.](http://9gag.com/gag/aKGY9zN)
- - 👉 [31 years old and in heart failiure. Plz send memes. The darker, the better.](http://9gag.com/gag/a4Pq6r1)<!-- MEMES:END -->
+ - 😝 [I can relate](http://9gag.com/gag/apRA31E)
+ - 😝 [Lego Simpsons Meme](http://9gag.com/gag/amoV1Ov)
+ - 💣 [The Roman drainage tunnel of Lake Albano](http://9gag.com/gag/a87w621)
+ - 😝 [I&#39;m wondering why he&#39;s putting a helmet](http://9gag.com/gag/a2vb0YY)
+ - 👉 [My packing strategy in a nutshell.](http://9gag.com/gag/adB21Zj)<!-- MEMES:END -->
 
 ---
 

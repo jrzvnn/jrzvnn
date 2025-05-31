@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Staples Union &amp; Scale Electric Standing Desk Review: Micro Movements](https://www.wired.com/review/staples-union-and-scale-electric-standing-desk-with-micro-movements/)
+ - [The Switch 2&amp;#8217;s promising start hides an uncertain future](https://www.theverge.com/games/677301/the-switch-2s-promising-start-hides-an-uncertain-future)
  - [What Is Google One? A Breakdown of Plans, Pricing, and Included Services](https://www.wired.com/story/what-is-google-one/)
  - [Nike x Hyperice Hyperboot Review: Wearable Post-Run Recovery](https://www.wired.com/review/nike-x-hyperice-hyperboots/)
- - [Slate Auto FAQ: your questions answered](https://www.theverge.com/electric-cars/676036/slate-auto-faq-truck-ev-specs-price-tariff)
- - [Playdate’s second season is off to a great &lpar;and very weird&rpar; start](https://www.theverge.com/games/677197/playdate-season-2-game-review)
- - [Never Drink Alone: A Guide to Turkish Coffee](https://www.wired.com/story/a-guide-to-turkish-coffee/)<!-- TECH:END -->
+ - [LLMs and AI Aren&#39;t the Same. Everything You Should Know About What&#39;s Behind Chatbots](https://www.cnet.com/tech/services-and-software/llms-and-ai-arent-the-same-everything-you-should-know-about-whats-behind-chatbots/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

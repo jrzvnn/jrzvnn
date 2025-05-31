@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Wait until the end!](http://9gag.com/gag/aXP2VNb)
  - 😝 [When you hit your head so hard you think you&#39;re the apex predator now](http://9gag.com/gag/aW42n73)
  - 💣 [Here comes the haters](http://9gag.com/gag/aLnXzBg)
- - 😝 [No one will ever believe you](http://9gag.com/gag/aE0XAVK)
- - 👉 [When nature gives you the perfect hairstyle inspiration.](http://9gag.com/gag/aD2X7OG)<!-- MEMES:END -->
+ - 😝 [When nature gives you the perfect hairstyle inspiration.](http://9gag.com/gag/aD2X7OG)
+ - 👉 [No one will ever believe you](http://9gag.com/gag/aE0XAVK)<!-- MEMES:END -->
 
 ---
 

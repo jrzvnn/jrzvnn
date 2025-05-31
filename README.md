@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your phone alarm has zero respect for your tennis match.](http://9gag.com/gag/ajPK7XG)
- - 😝 [A neighborly visit with priorities.](http://9gag.com/gag/aByXZ4P)
- - 💣 [Popcorn Factory](http://9gag.com/gag/adB2BXB)
+ - 😝 [Not that complicated](http://9gag.com/gag/aRB2LrG)
+ - 😝 [Popcorn Factory](http://9gag.com/gag/adB2BXB)
+ - 💣 [The reality of a Final Destination death scene](http://9gag.com/gag/aYQ1GwV)
  - 😝 [Plot twist of the century](http://9gag.com/gag/amoVGL2)
- - 👉 [The reality of a Final Destination death scene](http://9gag.com/gag/aYQ1GwV)<!-- MEMES:END -->
+ - 👉 [Absolutely breathtaking skill](http://9gag.com/gag/a5QjV2L)<!-- MEMES:END -->
 
 ---
 

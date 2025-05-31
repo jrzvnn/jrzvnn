@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Avril Lavigne in 2006.](http://9gag.com/gag/aKGY9zN)
  - 😝 [Starting the week like...](http://9gag.com/gag/a5QjVKG)
- - 💣 [Friendship -10%](http://9gag.com/gag/aZZ2139)
+ - 😝 [Wait, titanium dioxide was in Skittles?](http://9gag.com/gag/aQz2ge7)
+ - 💣 [Bro saw death upon him](http://9gag.com/gag/aNDRLN4)
  - 😝 [Plot twist of the century](http://9gag.com/gag/amoVGL2)
- - 👉 [Bro saw death upon him](http://9gag.com/gag/aNDRLN4)<!-- MEMES:END -->
+ - 👉 [When you realize your fanbase is mostly adults who need a break from work...](http://9gag.com/gag/apRA1mE)<!-- MEMES:END -->
 
 ---
 

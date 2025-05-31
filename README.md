@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Her boyfriend understood the assignment.](http://9gag.com/gag/aD2X8RB)
- - 😝 [When you realize your fanbase is mostly adults who need a break from work...](http://9gag.com/gag/apRA1mE)
- - 💣 [A neighborly visit with priorities.](http://9gag.com/gag/aByXZ4P)
- - 😝 [Shitty title](http://9gag.com/gag/a5Qj6YG)
- - 👉 [Have a great day my fellow 9gaggers](http://9gag.com/gag/a9yXvN6)<!-- MEMES:END -->
+ - 😝 [Wait, titanium dioxide was in Skittles?](http://9gag.com/gag/aQz2ge7)
+ - 😝 [Historically correct](http://9gag.com/gag/aByX6ZO)
+ - 💣 [When you realize your fanbase is mostly adults who need a break from work...](http://9gag.com/gag/apRA1mE)
+ - 😝 [Tadaaammm...](http://9gag.com/gag/ae92OZQ)
+ - 👉 [Starting the week like...](http://9gag.com/gag/a5QjVKG)<!-- MEMES:END -->
 
 ---
 

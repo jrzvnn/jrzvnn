@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Share of news influencers on Bluesky has doubled after the 2024 US election to 43%, but X remains popular, with 82% of news influencers maintaining an account &lpar;Pew Research Center&rpar;](http://www.techmeme.com/250531/p13#a250531p13)
- - [Best Internet Providers in Scottsdale, Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-scottsdale-az/#ftag=CAD590a51e)
- - [Best VPN for iPhone 2025: Privacy Protection on the Go](https://www.cnet.com/tech/services-and-software/best-vpn-for-iphone/#ftag=CAD590a51e)
- - [Art house streaming service and distributor Mubi raised $100M led by Sequoia at a $1B valuation; Mubi has about 20M registered users worldwide &lpar;Christopher Grimes/Financial Times&rpar;](http://www.techmeme.com/250531/p12#a250531p12)
- - [SpaceX rockets keep exploding. Is that normal?](https://www.theverge.com/spacex/677355/spacex-rockets-exploding-normal)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 1, #251](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-1-251/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 1, #455](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-1-455/#ftag=CAD590a51e)
+ - [&#39;MobLand&#39; Release Schedule: When the Finale Drops on Paramount Plus](https://www.cnet.com/tech/services-and-software/mobland-release-schedule-when-the-finale-drops-on-paramount-plus/#ftag=CAD590a51e)
+ - [Best VPN for Mac for 2025: Tested and Reviewed](https://www.cnet.com/tech/services-and-software/best-vpn-for-mac/#ftag=CAD590a51e)
+ - [Share of news influencers on Bluesky has doubled after the 2024 US election to 43%, but X remains popular, with 82% of news influencers maintaining an account &lpar;Pew Research Center&rpar;](http://www.techmeme.com/250531/p13#a250531p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

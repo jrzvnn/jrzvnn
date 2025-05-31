@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A neighborly visit with priorities.](http://9gag.com/gag/aByXZ4P)
  - 😝 [Shitty title](http://9gag.com/gag/a5Qj6YG)
- - 💣 [Historically correct](http://9gag.com/gag/aByX6ZO)
+ - 😝 [Her boyfriend understood the assignment.](http://9gag.com/gag/aD2X8RB)
+ - 💣 [Suddenly I understand all those Blockbuster late fees.](http://9gag.com/gag/abA2OMr)
  - 😝 [He even got a 6 pack of beer and told me to call him if I needed anything or if I just wanted to talk](http://9gag.com/gag/aW42n42)
- - 👉 [Don\u2019t tell mom](http://9gag.com/gag/ae9244O)<!-- MEMES:END -->
+ - 👉 [Historically correct](http://9gag.com/gag/aByX6ZO)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Anthropic has been lobbying Congress to oppose a bill banning states from regulating AI, and pushed against the recent US AI deal with Gulf states &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250530/p24#a250530p24)
- - [OpenAI wants ChatGPT to be a ‘super assistant’ for every part of your life](https://www.theverge.com/command-line-newsletter/677705/openai-chatgpt-super-assistant)
- - [Some Gmail Users Now Will Get AI Email Summaries Automatically](https://www.cnet.com/tech/some-gmail-users-now-will-get-ai-email-summaries-automatically/#ftag=CAD590a51e)
- - [Sources: Anthropic&#39;s annualized revenue hit ~$3B at the end of May, driven by business demand, up from $2B around the end of March and ~$1B in December 2024 &lpar;Reuters&rpar;](http://www.techmeme.com/250530/p23#a250530p23)
- - [Best Cellphone Plans of 2025: Our Top Picks](https://www.cnet.com/tech/mobile/best-phone-plans/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Boston-based cloud cost management startup CloudZero raised a $56M Series C led by BlueCrest Capital Management and Innovius Capital &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250530/p26#a250530p26)
+ - [Yes, Student Loan Payments Could Rise for SAVE Borrowers. Here&#39;s How to Calculate Yours](https://www.cnet.com/personal-finance/loans/yes-student-loan-payments-could-rise-for-save-borrowers-heres-how-to-calculate-yours/#ftag=CAD590a51e)
+ - [Sources: Elon Musk is pushing lawmakers to help clear a path for driverless vehicles and has been weighing in on revisions of a bill on autonomous vehicles &lpar;Bloomberg&rpar;](http://www.techmeme.com/250530/p25#a250530p25)
+ - [The Best Strategy Mobile Game I Ever Played Just Came Back After a Decade](https://www.cnet.com/tech/gaming/the-best-strategy-mobile-game-i-ever-played-just-came-back-after-a-decade/#ftag=CAD590a51e)
+ - [What to Stream on TV This Weekend: &#39;And Just Like That...,&#39; &#39;The Better Sister&#39; and More](https://www.cnet.com/tech/services-and-software/what-to-stream-on-tv-this-weekend-and-just-like-that-the-better-sister-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

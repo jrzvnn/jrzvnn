@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Avril Lavigne in 2006.](http://9gag.com/gag/aKGY9zN)
- - 😝 [A neighborly visit with priorities.](http://9gag.com/gag/aByXZ4P)
- - 💣 [Future Lawyer/Doctor Gone. But he good boy](http://9gag.com/gag/aAyX65L)
- - 😝 [Tadaaammm...](http://9gag.com/gag/ae92OZQ)
- - 👉 [Shitty title](http://9gag.com/gag/a5Qj6YG)<!-- MEMES:END -->
+ - 😝 [Her boyfriend understood the assignment.](http://9gag.com/gag/aD2X8RB)
+ - 😝 [When you realize your fanbase is mostly adults who need a break from work...](http://9gag.com/gag/apRA1mE)
+ - 💣 [A neighborly visit with priorities.](http://9gag.com/gag/aByXZ4P)
+ - 😝 [Shitty title](http://9gag.com/gag/a5Qj6YG)
+ - 👉 [Have a great day my fellow 9gaggers](http://9gag.com/gag/a9yXvN6)<!-- MEMES:END -->
 
 ---
 

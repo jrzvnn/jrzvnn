@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, May 31](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-may-31/#ftag=CAD590a51e)
  - [Boston-based cloud cost management startup CloudZero raised a $56M Series C led by BlueCrest Capital Management and Innovius Capital &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250530/p26#a250530p26)
  - [Yes, Student Loan Payments Could Rise for SAVE Borrowers. Here&#39;s How to Calculate Yours](https://www.cnet.com/personal-finance/loans/yes-student-loan-payments-could-rise-for-save-borrowers-heres-how-to-calculate-yours/#ftag=CAD590a51e)
  - [Sources: Elon Musk is pushing lawmakers to help clear a path for driverless vehicles and has been weighing in on revisions of a bill on autonomous vehicles &lpar;Bloomberg&rpar;](http://www.techmeme.com/250530/p25#a250530p25)
- - [The Best Strategy Mobile Game I Ever Played Just Came Back After a Decade](https://www.cnet.com/tech/gaming/the-best-strategy-mobile-game-i-ever-played-just-came-back-after-a-decade/#ftag=CAD590a51e)
- - [What to Stream on TV This Weekend: &#39;And Just Like That...,&#39; &#39;The Better Sister&#39; and More](https://www.cnet.com/tech/services-and-software/what-to-stream-on-tv-this-weekend-and-just-like-that-the-better-sister-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Strategy Mobile Game I Ever Played Just Came Back After a Decade](https://www.cnet.com/tech/gaming/the-best-strategy-mobile-game-i-ever-played-just-came-back-after-a-decade/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

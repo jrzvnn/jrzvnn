@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The 8 Best Handheld Vacuums, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-handheld-vacuum/)
+ - [I Monitor Tariff Impacts Every Day: Here Are My Top Tips to Help You Track Prices](https://www.cnet.com/personal-finance/i-monitor-tariff-impacts-every-day-here-are-my-top-tips-to-help-you-track-prices/#ftag=CAD590a51e)
  - [Google quietly released an Android app called Google AI Edge Gallery on GitHub, letting users run some AI models from Hugging Face locally on their phones &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250531/p10#a250531p10)
  - [21 Gifts for Dads Who Don&#39;t Need Anything &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-to-give-dads/)
- - [Get Free Marvel Rivals Skins From Season 2.5&#39;s Cerebro Database Event, Combat Chest and More](https://www.cnet.com/tech/gaming/get-free-marvel-rivals-skins-from-season-2-5s-cerebro-database-event-combat-chest-and-more/#ftag=CAD590a51e)
- - [Priority Current Plus Ebike Review: Serious Power, Effortless Fun](https://www.wired.com/review/priority-current-plus-electric-bike/)<!-- TECH:END -->
+ - [Get Free Marvel Rivals Skins From Season 2.5&#39;s Cerebro Database Event, Combat Chest and More](https://www.cnet.com/tech/gaming/get-free-marvel-rivals-skins-from-season-2-5s-cerebro-database-event-combat-chest-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

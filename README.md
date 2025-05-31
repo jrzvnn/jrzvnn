@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [21 Gifts for Dads Who Don&#39;t Need Anything &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-to-give-dads/)
+ - [Get Free Marvel Rivals Skins From Season 2.5&#39;s Cerebro Database Event, Combat Chest and More](https://www.cnet.com/tech/gaming/get-free-marvel-rivals-skins-from-season-2-5s-cerebro-database-event-combat-chest-and-more/#ftag=CAD590a51e)
  - [Priority Current Plus Ebike Review: Serious Power, Effortless Fun](https://www.wired.com/review/priority-current-plus-electric-bike/)
- - [Sony’s DualSense Edge controller is receiving a rare $30 discount](https://www.theverge.com/tech/677650/sony-dualsense-edge-controller-oura-ring-gen-3-deal-sale)
- - [Grow a Garden, a hit game on Roblox, has spawned a market where in-game items are sold for real money on sites like eBay, potentially violating Roblox&#39;s ToS &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250531/p9#a250531p9)
- - [Staples Union &amp; Scale Electric Standing Desk Review: Micro Movements](https://www.wired.com/review/staples-union-and-scale-electric-standing-desk-with-micro-movements/)
- - [Elden Ring Nightreign Director Interview: He Solo&#39;d Every Boss and So Can You](https://www.cnet.com/tech/gaming/elden-ring-nightreign-director-interview-if-he-can-solo-every-boss-so-can-you/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix Tudum 2025: How to Watch the Star-Studded Event Live](https://www.cnet.com/tech/services-and-software/netflix-tudum-2025-how-to-watch-the-star-studded-event-live/#ftag=CAD590a51e)
+ - [Sony’s DualSense Edge controller is receiving a rare $30 discount](https://www.theverge.com/tech/677650/sony-dualsense-edge-controller-oura-ring-gen-3-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

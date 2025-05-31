@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elden Ring Nightreign: 7 Tips to Beat the First Boss, the Nightlord Gladius](https://www.cnet.com/tech/gaming/elden-ring-nightreign-7-tips-to-beat-the-first-boss-the-nightlord-gladius/#ftag=CAD590a51e)
+ - [Elden Ring Nightreign Review: the Highs and Lows of Distilling Souls Games to Roguelike Runs](https://www.cnet.com/tech/gaming/elden-ring-nightreign-review-highs-and-lows-of-distilling-souls-games-to-roguelike-runs/#ftag=CAD590a51e)
+ - [Must-Play Games of 2025 So Far: Monster Hunter Wilds, Expedition 33, Assassin&#39;s Creed Shadows and More](https://www.cnet.com/tech/gaming/must-play-games-of-2025-so-far-monster-hunter-wilds-expedition-33-assassins-creed-shadows-and-more/#ftag=CAD590a51e)
  - [AI&#39;s real threat to education isn&#39;t that it encourages students to cheat, but that it short-circuits the learning processes needed to use generative AI adeptly &lpar;Nicholas Carr/New Cartographies&rpar;](http://www.techmeme.com/250531/p15#a250531p15)
- - [This Ultimate Y2K Sci-Fi Movie Made Virtual Reality Seem Almost Too Real](https://www.cnet.com/culture/entertainment/this-ultimate-y2k-sci-fi-movie-made-virtual-reality-seem-almost-too-real/#ftag=CAD590a51e)
- - [How to Watch Tonight&#39;s New York Knicks vs. Indiana Pacers Game 6 for Free](https://www.cnet.com/tech/services-and-software/how-to-watch-tonights-new-york-knicks-vs-indiana-pacers-game-6-for-free/#ftag=CAD590a51e)
- - [Twitch plans to start testing the ability to host a vertical livestream and rolls out an open beta of &quot;2K streaming&quot;, letting creators stream at 1440p &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250531/p14#a250531p14)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 1, #251](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-1-251/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This Ultimate Y2K Sci-Fi Movie Made Virtual Reality Seem Almost Too Real](https://www.cnet.com/culture/entertainment/this-ultimate-y2k-sci-fi-movie-made-virtual-reality-seem-almost-too-real/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is the AI we need, not another bot spamming replies.](http://9gag.com/gag/aByXZKx)
- - 😝 [I can relate](http://9gag.com/gag/apRA31E)
- - 💣 [My packing strategy in a nutshell.](http://9gag.com/gag/adB21Zj)
- - 😝 [The Roman drainage tunnel of Lake Albano](http://9gag.com/gag/a87w621)
- - 👉 [Here comes the haters](http://9gag.com/gag/aLnXzBg)<!-- MEMES:END -->
+ - 😝 [Me during the loyalty test:](http://9gag.com/gag/aAyXEZp)
+ - 😝 [Peak comfort unlocked.](http://9gag.com/gag/aQz2grw)
+ - 💣 [Avril Lavigne in 2006.](http://9gag.com/gag/aKGY9zN)
+ - 😝 [Own medicine](http://9gag.com/gag/aKGY9W3)
+ - 👉 [Plot twist of the century](http://9gag.com/gag/amoVGL2)<!-- MEMES:END -->
 
 ---
 

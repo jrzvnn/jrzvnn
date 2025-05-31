@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Analysts Say Trump Trade Wars Would Harm the Entire US Energy Sector, From Oil to Solar](https://www.wired.com/story/analysts-say-trump-trade-wars-would-harm-the-entire-us-energy-sector-from-oil-to-solar/)
  - [Brazil is piloting dWallet, a digital wallet program that allows users to monetize their data, the first nationwide initiative of its kind in the world &lpar;Gabriel Daros/Rest of World&rpar;](http://www.techmeme.com/250531/p8#a250531p8)
  - [Apple&#39;s Big OS Rebrand, OnePlus Embraces AI, and Samsung&#39;s Next Folds—Your Gear News of the Week](https://www.wired.com/story/apples-big-os-rebrand-oneplus-ai-embrace-and-samsungs-next-folds-your-gear-news-of-the-week/)
- - [Twitch is getting vertical livestreams](https://www.theverge.com/news/677548/twitch-twitchcon-europe-vertical-livestreams-2k-streaming-rewind)
- - [Champions League Final Soccer: Livestream PSG vs. Inter Milan From Anywhere For Free](https://www.cnet.com/tech/services-and-software/champions-league-final-soccer-livestream-psg-vs-inter-milan-from-anywhere-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here&#39;s How to Factory Reset Your PS5 or PS4](https://www.cnet.com/tech/gaming/heres-how-to-factory-reset-your-ps5-or-ps4/#ftag=CAD590a51e)
+ - [Twitch is getting vertical livestreams](https://www.theverge.com/news/677548/twitch-twitchcon-europe-vertical-livestreams-2k-streaming-rewind)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

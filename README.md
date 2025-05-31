@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vivodyne, which uses AI and robots to grow human tissues in the lab for drug discovery and development, raised a $40M Series A, taking its total funding to $78M &lpar;Katherine Davis/Axios&rpar;](http://www.techmeme.com/250531/p5#a250531p5)
  - [Defense tech firm Leidos acquires VA-based Kudu Dynamics, which provides AI-enabled cyber defense and offense tools to the US DOD and other customers, for $300M &lpar;Courtney Albon/Defense News&rpar;](http://www.techmeme.com/250531/p4#a250531p4)
  - [Visible Promo Code: Save Up to $400 in June 2025](https://www.wired.com/story/visible-promo-code/)
  - [Sources: TikTok Shop cuts several hundred jobs in Indonesia, leaving Tokopedia and TikTok Shop with ~2,500 employees in the country, down from ~5,000 last year &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/250531/p3#a250531p3)
- - [Nvidia reported record gaming revenue of $3.76B in Q1, up 42% YoY, driven by sales of its Blackwell chips that are used to enhance game graphics through DLSS &lpar;Max Knoblauch/Sherwood News&rpar;](http://www.techmeme.com/250531/p2#a250531p2)
- - [Docs and sources: Builder.ai faked business with Bengaluru-based VerSe, which runs the Dailyhunt news app, by &quot;round-tripping&quot; sales worth ~$60M from 2021-2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250531/p1#a250531p1)<!-- TECH:END -->
+ - [Nvidia reported record gaming revenue of $3.76B in Q1, up 42% YoY, driven by sales of its Blackwell chips that are used to enhance game graphics through DLSS &lpar;Max Knoblauch/Sherwood News&rpar;](http://www.techmeme.com/250531/p2#a250531p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

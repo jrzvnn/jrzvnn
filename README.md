@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Absolutely breathtaking skill](http://9gag.com/gag/a5QjV2L)
- - 😝 [Plot twist of the century](http://9gag.com/gag/amoVGL2)
- - 💣 [Much Competence, No DEI.](http://9gag.com/gag/axyPy72)
- - 😝 [Popcorn Factory](http://9gag.com/gag/adB2BXB)
- - 👉 [When you forget to put your filter on.](http://9gag.com/gag/aLnXn45)<!-- MEMES:END -->
+ - 😝 [Noooooo](http://9gag.com/gag/ae929mB)
+ - 😝 [Avril Lavigne in 2006.](http://9gag.com/gag/aKGY9zN)
+ - 💣 [Plot twist of the century](http://9gag.com/gag/amoVGL2)
+ - 😝 [Me during the loyalty test:](http://9gag.com/gag/aAyXEZp)
+ - 👉 [Popcorn Factory](http://9gag.com/gag/adB2BXB)<!-- MEMES:END -->
 
 ---
 

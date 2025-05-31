@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Suddenly I understand all those Blockbuster late fees.](http://9gag.com/gag/abA2OMr)
- - 😝 [Her boyfriend understood the assignment.](http://9gag.com/gag/aD2X8RB)
- - 💣 [Plot twist of the century](http://9gag.com/gag/amoVGL2)
+ - 😝 [Plot twist of the century](http://9gag.com/gag/amoVGL2)
+ - 💣 [Her boyfriend understood the assignment.](http://9gag.com/gag/aD2X8RB)
  - 😝 [Hooo... you are approaching me?](http://9gag.com/gag/aKGYA7Q)
- - 👉 [Tadaaammm...](http://9gag.com/gag/ae92OZQ)<!-- MEMES:END -->
+ - 👉 [Avril Lavigne in 2006.](http://9gag.com/gag/aKGY9zN)<!-- MEMES:END -->
 
 ---
 

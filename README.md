@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Her boyfriend understood the assignment.](http://9gag.com/gag/aD2X8RB)
- - 😝 [The reality of a Final Destination death scene](http://9gag.com/gag/aYQ1GwV)
+ - 😝 [Avril Lavigne in 2006.](http://9gag.com/gag/aKGY9zN)
+ - 😝 [Starting the week like...](http://9gag.com/gag/a5QjVKG)
  - 💣 [Friendship -10%](http://9gag.com/gag/aZZ2139)
  - 😝 [Plot twist of the century](http://9gag.com/gag/amoVGL2)
- - 👉 [Starting the week like...](http://9gag.com/gag/a5QjVKG)<!-- MEMES:END -->
+ - 👉 [Bro saw death upon him](http://9gag.com/gag/aNDRLN4)<!-- MEMES:END -->
 
 ---
 

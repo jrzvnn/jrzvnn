@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Never Drink Alone: A Guide to Turkish Coffee](https://www.wired.com/story/a-guide-to-turkish-coffee/)
- - [Analysts Say Trump Trade Wars Would Harm the Entire US Energy Sector, From Oil to Solar](https://www.wired.com/story/analysts-say-trump-trade-wars-would-harm-the-entire-us-energy-sector-from-oil-to-solar/)
- - [Brazil is piloting dWallet, a digital wallet program that allows users to monetize their data, the first nationwide initiative of its kind in the world &lpar;Gabriel Daros/Rest of World&rpar;](http://www.techmeme.com/250531/p8#a250531p8)
- - [Apple&#39;s Big OS Rebrand, OnePlus Embraces AI, and Samsung&#39;s Next Folds—Your Gear News of the Week](https://www.wired.com/story/apples-big-os-rebrand-oneplus-ai-embrace-and-samsungs-next-folds-your-gear-news-of-the-week/)
- - [Here&#39;s How to Factory Reset Your PS5 or PS4](https://www.cnet.com/tech/gaming/heres-how-to-factory-reset-your-ps5-or-ps4/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What Is Google One? A Breakdown of Plans, Pricing, and Included Services](https://www.wired.com/story/what-is-google-one/)
+ - [Nike x Hyperice Hyperboot Review: Wearable Post-Run Recovery](https://www.wired.com/review/nike-x-hyperice-hyperboots/)
+ - [Slate Auto FAQ: your questions answered](https://www.theverge.com/electric-cars/676036/slate-auto-faq-truck-ev-specs-price-tariff)
+ - [Playdate’s second season is off to a great &lpar;and very weird&rpar; start](https://www.theverge.com/games/677197/playdate-season-2-game-review)
+ - [Never Drink Alone: A Guide to Turkish Coffee](https://www.wired.com/story/a-guide-to-turkish-coffee/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

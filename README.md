@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [20% Off Brooks Promo Code &amp; Deals for June 2025](https://www.wired.com/story/brooks-promo-code/)
  - [Meta shareholders overwhelmingly rejected a proposal to explore adding Bitcoin to the company&#39;s treasury, with less than 1% voting in favor of the measure &lpar;Kyle Baird/DL News&rpar;](http://www.techmeme.com/250601/p2#a250601p2)
  - [Bose Coupon Codes &amp; Discounts: 10% Off](https://www.wired.com/story/bose-coupon-code/)
  - [An analysis of the top 100 trending TikTok videos under #mentalhealthtips finds 52 contain misinformation, including misused language and quick-fix methods &lpar;The Guardian&rpar;](http://www.techmeme.com/250601/p1#a250601p1)
- - [B&amp;H Photo Promo Codes and Deals for June 2025](https://www.wired.com/story/bh-photo-coupon/)
- - [Blue Apron Coupons: $80 Off + Free Shipping | June 2025](https://www.wired.com/story/blue-apron-coupon/)<!-- TECH:END -->
+ - [B&amp;H Photo Promo Codes and Deals for June 2025](https://www.wired.com/story/bh-photo-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

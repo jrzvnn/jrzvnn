@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Much Will the iPhone 17 Cost? Tariff Math Pushes It Over $4,000](https://www.cnet.com/tech/mobile/how-much-will-the-iphone-17-cost/#ftag=CAD590a51e)
  - [A profile of DoorDash CEO Tony Xu, who has transformed the once-scrappy delivery startup into a ~$90B industry consolidator through an acquisition spree &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250601/p3#a250601p3)
  - [20% Off Brooks Promo Code &amp; Deals for June 2025](https://www.wired.com/story/brooks-promo-code/)
  - [Meta shareholders overwhelmingly rejected a proposal to explore adding Bitcoin to the company&#39;s treasury, with less than 1% voting in favor of the measure &lpar;Kyle Baird/DL News&rpar;](http://www.techmeme.com/250601/p2#a250601p2)
- - [Bose Coupon Codes &amp; Discounts: 10% Off](https://www.wired.com/story/bose-coupon-code/)<!-- TECH:END -->
+ - [Bose Coupon Codes &amp; Discounts: 10% Off](https://www.wired.com/story/bose-coupon-code/)
+ - [An analysis of the top 100 trending TikTok videos under #mentalhealthtips finds 52 contain misinformation, including misused language and quick-fix methods &lpar;The Guardian&rpar;](http://www.techmeme.com/250601/p1#a250601p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

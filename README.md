@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elden Ring Nightreign: 7 Tips to Beat the First Boss, the Nightlord Gladius](https://www.cnet.com/tech/gaming/elden-ring-nightreign-7-tips-to-beat-the-first-boss-the-nightlord-gladius/#ftag=CAD590a51e)
- - [Elden Ring Nightreign Review: the Highs and Lows of Distilling Souls Games to Roguelike Runs](https://www.cnet.com/tech/gaming/elden-ring-nightreign-review-highs-and-lows-of-distilling-souls-games-to-roguelike-runs/#ftag=CAD590a51e)
- - [Must-Play Games of 2025 So Far: Monster Hunter Wilds, Expedition 33, Assassin&#39;s Creed Shadows and More](https://www.cnet.com/tech/gaming/must-play-games-of-2025-so-far-monster-hunter-wilds-expedition-33-assassins-creed-shadows-and-more/#ftag=CAD590a51e)
- - [AI&#39;s real threat to education isn&#39;t that it encourages students to cheat, but that it short-circuits the learning processes needed to use generative AI adeptly &lpar;Nicholas Carr/New Cartographies&rpar;](http://www.techmeme.com/250531/p15#a250531p15)
- - [This Ultimate Y2K Sci-Fi Movie Made Virtual Reality Seem Almost Too Real](https://www.cnet.com/culture/entertainment/this-ultimate-y2k-sci-fi-movie-made-virtual-reality-seem-almost-too-real/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Stranger Things season 5 will stream this November](https://www.theverge.com/news/677560/stranger-things-season-5-premiere-date-trailer)
+ - [Netflix showed off new trailers for Knives Out 3 and del Toro’s Frankenstein](https://www.theverge.com/news/677139/netflix-tudum-trailers-frankenstein-wake-up-dead-man)
+ - [Netflix’s One Piece adaptation has found its Tony Tony Chopper](https://www.theverge.com/tv/677419/netflixs-one-piece-adaptation-has-found-its-tony-tony-chopper)
+ - [Dubai is emerging as a global hub for AI talent, attracting workers with its Golden Visa program, no taxes, attractive salaries, and ease of setting up business &lpar;Amar Diwakar/Rest of World&rpar;](http://www.techmeme.com/250531/p16#a250531p16)
+ - [&#39;Squid Game&#39; Season 3 Trailer Teases Harrowing Series Finale](https://www.cnet.com/tech/services-and-software/squid-game-season-3-trailer-teases-harrowing-series-finale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

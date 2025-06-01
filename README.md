@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oy veyyyyyyyy](http://9gag.com/gag/amoVmQd)
- - 😝 [Oh my god! That&#39;s disgusting. Where?](http://9gag.com/gag/aryBZZy)
- - 💣 [Wow, that&#39;s a beautiful blue](http://9gag.com/gag/aO81Dm3)
- - 😝 [This runway deep in the Amazon rainforest appeared out of nowhere, what do you think it\u2019s used for?](http://9gag.com/gag/aMVXnX6)
- - 👉 [Insert pointing Spiderman meme](http://9gag.com/gag/avyv6jE)<!-- MEMES:END -->
+ - 😝 [Sleeping together...](http://9gag.com/gag/ae92xvW)
+ - 😝 [And the day isn&#39;t even over](http://9gag.com/gag/ae92xzB)
+ - 💣 [Title](http://9gag.com/gag/aRB2vn5)
+ - 😝 [My crawl space could never.](http://9gag.com/gag/a2vb2dw)
+ - 👉 [Footage going around of Ukrainian drones being launched from parked truck trailers in the far east of Russia today &lpar;and then hitting nearby military airfields&rpar;, crazy! &lpar;Also footage going around of the trailers self-destructing after launches were finished!&rpar;](http://9gag.com/gag/amoVxy4)<!-- MEMES:END -->
 
 ---
 

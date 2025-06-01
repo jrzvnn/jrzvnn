@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Based JK](http://9gag.com/gag/azxZGQz)
- - 😝 [Come get your news in meme format!](http://9gag.com/gag/aZZ2EO3)
- - 💣 [Okay, but not like *that* burning](http://9gag.com/gag/agm28Kq)
- - 😝 [Current Situation](http://9gag.com/gag/axyPOwW)
- - 👉 [And the day isn&#39;t even over](http://9gag.com/gag/ae92xzB)<!-- MEMES:END -->
+ - 😝 [This runway deep in the Amazon rainforest appeared out of nowhere, what do you think it\u2019s used for?](http://9gag.com/gag/aMVXnX6)
+ - 😝 [Her boyfriend understood the assignment.](http://9gag.com/gag/aD2X8RB)
+ - 💣 [Insert pointing Spiderman meme](http://9gag.com/gag/avyv6jE)
+ - 😝 [Have a great day my fellow 9gaggers](http://9gag.com/gag/a9yXvN6)
+ - 👉 [Would you ?](http://9gag.com/gag/ajPKxwq)<!-- MEMES:END -->
 
 ---
 

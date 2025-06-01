@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [macOS 26 rumored to be called &#39;Tahoe&#39;](https://appleinsider.com/articles/25/06/01/macos-26-rumored-to-be-called-tahoe?utm_medium=rss)
+ - [Lighter than normal WWDC expected without significant Apple Intelligence uprgrades](https://appleinsider.com/articles/25/06/01/lighter-than-normal-wwdc-expected-without-significant-apple-intelligence-uprgrades?utm_medium=rss)
+ - [Siri Chatbot prototype nears ChatGPT quality, but hallucinates more than Apple wants](https://appleinsider.com/articles/25/06/01/siri-chatbot-prototype-nears-chatgpt-quality-but-hallucinates-more-than-apple-wants?utm_medium=rss)
  - [Nice Rocc Palm Cooling Device Review: Pricey, Effective Palm Cooling](https://www.wired.com/review/nice-rocc-palm-cooling-device/)
- - [Dotemu’s CEO on how it makes new games that feel retro](https://www.theverge.com/games/677300/dotemu-ceo-games-retro-ninja-gaiden-marvel-absolum)
- - [Crime blotter: Chinese national sentenced in Target iPad scam](https://appleinsider.com/articles/25/06/01/crime-blotter-chinese-national-sentenced-in-target-ipad-scam?utm_medium=rss)
- - [Your Gmail Inbox Is Running Slow. Do These Things to Fix It](https://www.wired.com/story/gmail-inbox-running-slow-how-to-fix-it/)
- - [DappRadar: NFT lending market volume has dropped 97% from a peak of ~$1B in January 2024 to ~$50M in May 2025, with borrower activity falling by 90% &lpar;Stephen Katte/Cointelegraph&rpar;](http://www.techmeme.com/250601/p4#a250601p4)<!-- TECH:END -->
+ - [Highlights From World&#39;s First Humanoid Robot Kickboxing Tournament](https://www.cnet.com/tech/computing/highlights-from-worlds-first-humanoid-robot-kickboxing-tournament/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

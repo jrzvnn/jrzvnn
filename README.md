@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Researchers say tactics used to make AI more engaging, like making them more agreeable, can make chatbots reinforce harmful ideas, like encouraging drug use &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/250601/p5#a250601p5)
  - [How to Find the Best Eero Wi-Fi Mesh Router for You &lpar;2025&rpar;](https://www.wired.com/gallery/best-eero-wi-fi-mesh-router/)
+ - [Elden Ring Nightreign Director Interview Part Two: Why There&#39;s No Poison Swamp and Future DLC](https://www.cnet.com/tech/gaming/elden-ring-nightreign-director-interview-part-two-why-theres-no-poison-swamp-future-dlc-and-more/#ftag=CAD590a51e)
  - [macOS 26 rumored to be called &#39;Tahoe&#39;](https://appleinsider.com/articles/25/06/01/macos-26-rumored-to-be-called-tahoe?utm_medium=rss)
- - [Lighter than normal WWDC expected without significant Apple Intelligence uprgrades](https://appleinsider.com/articles/25/06/01/lighter-than-normal-wwdc-expected-without-significant-apple-intelligence-uprgrades?utm_medium=rss)
- - [Siri Chatbot prototype nears ChatGPT quality, but hallucinates more than Apple wants](https://appleinsider.com/articles/25/06/01/siri-chatbot-prototype-nears-chatgpt-quality-but-hallucinates-more-than-apple-wants?utm_medium=rss)<!-- TECH:END -->
+ - [Lighter than normal WWDC expected without significant Apple Intelligence uprgrades](https://appleinsider.com/articles/25/06/01/lighter-than-normal-wwdc-expected-without-significant-apple-intelligence-uprgrades?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

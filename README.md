@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shredder met its match.](http://9gag.com/gag/abA2WLE)
- - 😝 [He is a genius.](http://9gag.com/gag/aoy8RZx)
- - 💣 [Plot twist of the century](http://9gag.com/gag/amoVGL2)
- - 😝 [Own medicine](http://9gag.com/gag/aKGY9W3)
- - 👉 [Child is in tune with the universe](http://9gag.com/gag/awy43m4)<!-- MEMES:END -->
+ - 😝 [Me during the loyalty test:](http://9gag.com/gag/aAyXEZp)
+ - 😝 [Wait until the end!](http://9gag.com/gag/aXP2VNb)
+ - 💣 [When you hit your head so hard you think you&#39;re the apex predator now](http://9gag.com/gag/aW42n73)
+ - 😝 [He even got a 6 pack of beer and told me to call him if I needed anything or if I just wanted to talk](http://9gag.com/gag/aW42n42)
+ - 👉 [No one will ever believe you](http://9gag.com/gag/aE0XAVK)<!-- MEMES:END -->
 
 ---
 

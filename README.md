@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Insert pointing Spiderman meme](http://9gag.com/gag/avyv6jE)
- - 😝 [Have a great day my fellow 9gaggers](http://9gag.com/gag/a9yXvN6)
- - 💣 [Can any Romanian confirm?](http://9gag.com/gag/a5Qj6Og)
- - 😝 [Hooo... you are approaching me?](http://9gag.com/gag/aKGYA7Q)
- - 👉 [Tadaaammm...](http://9gag.com/gag/ae92OZQ)<!-- MEMES:END -->
+ - 😝 [The math ain&#39;t mathing.](http://9gag.com/gag/awy41br)
+ - 😝 [31 years old and in heart failiure. Plz send memes. The darker, the better.](http://9gag.com/gag/a4Pq6r1)
+ - 💣 [Suddenly I understand all those Blockbuster late fees.](http://9gag.com/gag/abA2OMr)
+ - 😝 [Guess who&#39;s back? AI can&#39;t touch this.](http://9gag.com/gag/a34W0gN)
+ - 👉 [He is a genius.](http://9gag.com/gag/aoy8RZx)<!-- MEMES:END -->
 
 ---
 

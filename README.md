@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [9 New Movies on Netflix We Can&#39;t Wait to Watch This June](https://www.cnet.com/tech/services-and-software/9-new-movies-on-netflix-we-cant-wait-to-watch-this-june/#ftag=CAD590a51e)
  - [10 Great Horror Movies to Watch on Prime Video Right Now](https://www.cnet.com/tech/services-and-software/10-great-horror-movies-to-watch-on-prime-video-right-now/#ftag=CAD590a51e)
  - [A profile of prediction market Kalshi, which is using its federal financial license to open up sports gambling across the US, even in states where it is illegal &lpar;Justina Lee/Bloomberg&rpar;](http://www.techmeme.com/250601/p9#a250601p9)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 2, #252](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-2-252/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 2, #456](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-2-456/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 2, #456](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-2-456/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 2, #722](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-2-722/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

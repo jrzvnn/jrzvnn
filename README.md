@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: UMG, Warner Music, and Sony Music are in talks to license their work to AI music services Udio and Suno and settle copyright infringement lawsuits &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250601/p8#a250601p8)
  - [Netflix Finally Picks &#39;Stranger Things&#39; Season 5 Release Dates. Get the Full Scoop](https://www.cnet.com/tech/services-and-software/netflix-finally-picks-stranger-things-season-5-release-dates-get-the-full-scoop/#ftag=CAD590a51e)
  - [How college students built the fastest Rubik’s Cube-solving robot yet](https://www.theverge.com/robot/676047/purdue-university-robot-rubiks-cube-guinness-world-record-solving)
  - [Can Elden Ring Nightreign Run on Steam Deck?](https://www.cnet.com/tech/gaming/can-the-steam-deck-run-elden-ring-nightreign/#ftag=CAD590a51e)
- - [Elden Ring: Nightreign Tweaks Might Finally Make Solo Runs Fair](https://www.cnet.com/tech/gaming/elden-ring-nightreign-solo-difficulty-update-coming/#ftag=CAD590a51e)
- - [Elden Ring: Nightreign -- How to Quickly Increase Your Healing Flasks](https://www.cnet.com/tech/gaming/elden-ring-nightreign-how-to-find-more-healing-flasks-fast/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elden Ring: Nightreign Tweaks Might Finally Make Solo Runs Fair](https://www.cnet.com/tech/gaming/elden-ring-nightreign-solo-difficulty-update-coming/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

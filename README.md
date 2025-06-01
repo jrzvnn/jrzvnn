@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This runway deep in the Amazon rainforest appeared out of nowhere, what do you think it\u2019s used for?](http://9gag.com/gag/aMVXnX6)
- - 😝 [Her boyfriend understood the assignment.](http://9gag.com/gag/aD2X8RB)
- - 💣 [Insert pointing Spiderman meme](http://9gag.com/gag/avyv6jE)
- - 😝 [Have a great day my fellow 9gaggers](http://9gag.com/gag/a9yXvN6)
+ - 😝 [Worst case scenario he&#39;s bi now](http://9gag.com/gag/aRB2v3B)
+ - 😝 [Insert pointing Spiderman meme](http://9gag.com/gag/avyv6jE)
+ - 💣 [The comments section did not survive.](http://9gag.com/gag/abA2Wyb)
+ - 😝 [My crawl space could never.](http://9gag.com/gag/a2vb2dw)
  - 👉 [Would you ?](http://9gag.com/gag/ajPKxwq)<!-- MEMES:END -->
 
 ---

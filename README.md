@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Deadpool celebrating the gaming industry bloodbath, except for that one game.](http://9gag.com/gag/a5QjGDG)
- - 😝 [Wait until the end!](http://9gag.com/gag/aXP2VNb)
- - 💣 [No one will ever believe you](http://9gag.com/gag/aE0XAVK)
- - 😝 [He even got a 6 pack of beer and told me to call him if I needed anything or if I just wanted to talk](http://9gag.com/gag/aW42n42)
- - 👉 [31 years old and in heart failiure. Plz send memes. The darker, the better.](http://9gag.com/gag/a4Pq6r1)<!-- MEMES:END -->
+ - 😝 [Oysters clean water in 1 hour](http://9gag.com/gag/awy414D)
+ - 😝 [Have a great day my fellow 9gaggers](http://9gag.com/gag/a9yXvN6)
+ - 💣 [The comments section did not survive.](http://9gag.com/gag/abA2Wyb)
+ - 😝 [One day, she will be mine!](http://9gag.com/gag/aVv2o8v)
+ - 👉 [Her boyfriend understood the assignment.](http://9gag.com/gag/aD2X8RB)<!-- MEMES:END -->
 
 ---
 

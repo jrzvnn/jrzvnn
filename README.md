@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Insert pointing Spiderman meme](http://9gag.com/gag/avyv6jE)
- - 😝 [Have a great day my fellow 9gaggers](http://9gag.com/gag/a9yXvN6)
- - 💣 [One day, she will be mine!](http://9gag.com/gag/aVv2o8v)
- - 😝 [Her boyfriend understood the assignment.](http://9gag.com/gag/aD2X8RB)
+ - 😝 [Only chosen one&#39;s will see it](http://9gag.com/gag/a0eEXrO)
+ - 😝 [Oysters clean water in 1 hour](http://9gag.com/gag/awy414D)
+ - 💣 [Worst case scenario he&#39;s bi now](http://9gag.com/gag/aRB2v3B)
+ - 😝 [Own medicine](http://9gag.com/gag/aKGY9W3)
  - 👉 [Musk, White House, today](http://9gag.com/gag/a6Zp9Pm)<!-- MEMES:END -->
 
 ---

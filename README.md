@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How the delivery app Fantuan grew its US presence to 50+ cities since 2019 by focusing on Asian cuisines, with an app design reminiscent of Chinese platforms &lpar;Alex Harring/CNBC&rpar;](http://www.techmeme.com/250601/p7#a250601p7)
+ - [13 Best Soundbars We’ve Tested and Reviewed &lpar;2025&rpar;: Sonos, Sony, Bose](https://www.wired.com/gallery/best-soundbars/)
+ - [The Verge’s 2025 Father’s Day gift guide](https://www.theverge.com/tech/673799/best-fathers-day-gift-ideas-2025)
  - [Why do lawyers keep using ChatGPT?](https://www.theverge.com/policy/677373/lawyers-chatgpt-hallucinations-ai)
- - [A new movie taking on the tech bros](https://www.theverge.com/installer-newsletter/677564/mountainhead-whatsapp-popsockets-installer)
- - [A look at Apple&#39;s AI plans for WWDC; sources: macOS 26 will be named Tahoe and Apple is testing its 3B, 7B, 33B, and 150B AI models via internal tool Playground &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250601/p6#a250601p6)
- - [6 Best Digital Photo Frames &lpar;2025&rpar;: Aura, Nixplay, Skylight](https://www.wired.com/gallery/best-digital-photo-frames/)
- - [Researchers say tactics used to make AI more engaging, like making them more agreeable, can make chatbots reinforce harmful ideas, like encouraging drug use &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/250601/p5#a250601p5)<!-- TECH:END -->
+ - [A new movie taking on the tech bros](https://www.theverge.com/installer-newsletter/677564/mountainhead-whatsapp-popsockets-installer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

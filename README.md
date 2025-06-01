@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Love this sport](http://9gag.com/gag/aD2XbgB)
- - 😝 [Guess who&#39;s back? AI can&#39;t touch this.](http://9gag.com/gag/a34W0gN)
- - 💣 [Hooo... you are approaching me?](http://9gag.com/gag/aKGYA7Q)
- - 😝 [Child is in tune with the universe](http://9gag.com/gag/awy43m4)
- - 👉 [Oy veyyyyyyyy](http://9gag.com/gag/amoVmQd)<!-- MEMES:END -->
+ - 😝 [Me during the loyalty test:](http://9gag.com/gag/aAyXEZp)
+ - 😝 [Wait until the end!](http://9gag.com/gag/aXP2VNb)
+ - 💣 [When you hit your head so hard you think you&#39;re the apex predator now](http://9gag.com/gag/aW42n73)
+ - 😝 [No one will ever believe you](http://9gag.com/gag/aE0XAVK)
+ - 👉 [Okay, but not like *that* burning](http://9gag.com/gag/agm28Kq)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DappRadar: NFT lending market volume has dropped 97% from a peak of ~$1B in January 2024 to ~$50M in May 2025, with borrower activity falling by 90% &lpar;Stephen Katte/Cointelegraph&rpar;](http://www.techmeme.com/250601/p4#a250601p4)
+ - [How to Make AI Faster and Smarter—With a Little Help from Physics](https://www.wired.com/story/improving-deep-learning-with-a-little-help-from-physics/)
  - [We Bought a ‘Peeing’ Robot Attack Dog From Temu. It Was Even Weirder Than Expected](https://www.wired.com/story/we-bought-a-peeing-robot-attack-dog-from-temu/)
  - [How Much Will the iPhone 17 Cost? Tariff Math Pushes It Over $4,000](https://www.cnet.com/tech/mobile/how-much-will-the-iphone-17-cost/#ftag=CAD590a51e)
- - [A profile of DoorDash CEO Tony Xu, who has transformed the once-scrappy delivery startup into a ~$90B industry consolidator through an acquisition spree &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250601/p3#a250601p3)
- - [20% Off Brooks Promo Code &amp; Deals for June 2025](https://www.wired.com/story/brooks-promo-code/)
- - [Meta shareholders overwhelmingly rejected a proposal to explore adding Bitcoin to the company&#39;s treasury, with less than 1% voting in favor of the measure &lpar;Kyle Baird/DL News&rpar;](http://www.techmeme.com/250601/p2#a250601p2)<!-- TECH:END -->
+ - [A profile of DoorDash CEO Tony Xu, who has transformed the once-scrappy delivery startup into a ~$90B industry consolidator through an acquisition spree &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250601/p3#a250601p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

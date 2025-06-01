@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A warm and safe night for this stray cat.](http://9gag.com/gag/a9yXvGj)
- - 😝 [Wow, that&#39;s a beautiful blue](http://9gag.com/gag/aO81Dm3)
+ - 😝 [Peak relationship moment.](http://9gag.com/gag/an7DEyo)
+ - 😝 [Shredder met its match.](http://9gag.com/gag/abA2WLE)
  - 💣 [The comments section did not survive.](http://9gag.com/gag/abA2Wyb)
- - 😝 [Insert pointing Spiderman meme](http://9gag.com/gag/avyv6jE)
- - 👉 [My crawl space could never.](http://9gag.com/gag/a2vb2dw)<!-- MEMES:END -->
+ - 😝 [My crawl space could never.](http://9gag.com/gag/a2vb2dw)
+ - 👉 [Insert pointing Spiderman meme](http://9gag.com/gag/avyv6jE)<!-- MEMES:END -->
 
 ---
 

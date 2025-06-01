@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Only chosen one&#39;s will see it](http://9gag.com/gag/a0eEXrO)
- - 😝 [Oysters clean water in 1 hour](http://9gag.com/gag/awy414D)
- - 💣 [Worst case scenario he&#39;s bi now](http://9gag.com/gag/aRB2v3B)
- - 😝 [Own medicine](http://9gag.com/gag/aKGY9W3)
- - 👉 [Musk, White House, today](http://9gag.com/gag/a6Zp9Pm)<!-- MEMES:END -->
+ - 😝 [Oh my god! That&#39;s disgusting. Where?](http://9gag.com/gag/aryBZZy)
+ - 😝 [Worst case scenario he&#39;s bi now](http://9gag.com/gag/aRB2v3B)
+ - 💣 [Avril Lavigne in 2006.](http://9gag.com/gag/aKGY9zN)
+ - 😝 [Her boyfriend understood the assignment.](http://9gag.com/gag/aD2X8RB)
+ - 👉 [Own medicine](http://9gag.com/gag/aKGY9W3)<!-- MEMES:END -->
 
 ---
 

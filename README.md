@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How North Korea monitors their citizens through their phones](http://9gag.com/gag/aZZ2866)
- - 😝 [Guess who&#39;s back? AI can&#39;t touch this.](http://9gag.com/gag/a34W0gN)
- - 💣 [Worst case scenario he&#39;s bi now](http://9gag.com/gag/aRB2v3B)
- - 😝 [Have a great day my fellow 9gaggers](http://9gag.com/gag/a9yXvN6)
- - 👉 [Oh my god! That&#39;s disgusting. Where?](http://9gag.com/gag/aryBZZy)<!-- MEMES:END -->
+ - 😝 [Based JK](http://9gag.com/gag/azxZGQz)
+ - 😝 [Come get your news in meme format!](http://9gag.com/gag/aZZ2EO3)
+ - 💣 [Okay, but not like *that* burning](http://9gag.com/gag/agm28Kq)
+ - 😝 [Current Situation](http://9gag.com/gag/axyPOwW)
+ - 👉 [And the day isn&#39;t even over](http://9gag.com/gag/ae92xzB)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Plot twist of the century](http://9gag.com/gag/amoVGL2)
+ - 😝 [The comments section did not survive.](http://9gag.com/gag/abA2Wyb)
  - 😝 [One day, she will be mine!](http://9gag.com/gag/aVv2o8v)
- - 💣 [31 years old and in heart failiure. Plz send memes. The darker, the better.](http://9gag.com/gag/a4Pq6r1)
+ - 💣 [Plot twist of the century](http://9gag.com/gag/amoVGL2)
  - 😝 [Love this sport](http://9gag.com/gag/aD2XbgB)
- - 👉 [He is a genius.](http://9gag.com/gag/aoy8RZx)<!-- MEMES:END -->
+ - 👉 [Oy veyyyyyyyy](http://9gag.com/gag/amoVmQd)<!-- MEMES:END -->
 
 ---
 

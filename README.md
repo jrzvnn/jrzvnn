@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Your Gmail Inbox Is Running Slow. Do These Things to Fix It](https://www.wired.com/story/gmail-inbox-running-slow-how-to-fix-it/)
  - [DappRadar: NFT lending market volume has dropped 97% from a peak of ~$1B in January 2024 to ~$50M in May 2025, with borrower activity falling by 90% &lpar;Stephen Katte/Cointelegraph&rpar;](http://www.techmeme.com/250601/p4#a250601p4)
  - [How to Make AI Faster and Smarter—With a Little Help from Physics](https://www.wired.com/story/improving-deep-learning-with-a-little-help-from-physics/)
- - [We Bought a ‘Peeing’ Robot Attack Dog From Temu. It Was Even Weirder Than Expected](https://www.wired.com/story/we-bought-a-peeing-robot-attack-dog-from-temu/)
- - [How Much Will the iPhone 17 Cost? Tariff Math Pushes It Over $4,000](https://www.cnet.com/tech/mobile/how-much-will-the-iphone-17-cost/#ftag=CAD590a51e)
- - [A profile of DoorDash CEO Tony Xu, who has transformed the once-scrappy delivery startup into a ~$90B industry consolidator through an acquisition spree &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250601/p3#a250601p3)<!-- TECH:END -->
+ - [Best Internet Deals for June 2025](https://www.cnet.com/home/internet/best-internet-deals/#ftag=CAD590a51e)
+ - [Best Internet Providers in Cary, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-cary-nc/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

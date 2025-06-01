@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Worst case scenario he&#39;s bi now](http://9gag.com/gag/aRB2v3B)
- - 😝 [Her boyfriend understood the assignment.](http://9gag.com/gag/aD2X8RB)
- - 💣 [The comments section did not survive.](http://9gag.com/gag/abA2Wyb)
  - 😝 [Perfect gadget to capture great moments](http://9gag.com/gag/aPAXQ9G)
- - 👉 [Own medicine](http://9gag.com/gag/aKGY9W3)<!-- MEMES:END -->
+ - 😝 [Worst case scenario he&#39;s bi now](http://9gag.com/gag/aRB2v3B)
+ - 💣 [Her boyfriend understood the assignment.](http://9gag.com/gag/aD2X8RB)
+ - 😝 [Have a great day my fellow 9gaggers](http://9gag.com/gag/a9yXvN6)
+ - 👉 [The comments section did not survive.](http://9gag.com/gag/abA2Wyb)<!-- MEMES:END -->
 
 ---
 

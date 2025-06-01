@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Worst case scenario he&#39;s bi now](http://9gag.com/gag/aRB2v3B)
- - 😝 [Insert pointing Spiderman meme](http://9gag.com/gag/avyv6jE)
+ - 😝 [A warm and safe night for this stray cat.](http://9gag.com/gag/a9yXvGj)
+ - 😝 [Wow, that&#39;s a beautiful blue](http://9gag.com/gag/aO81Dm3)
  - 💣 [The comments section did not survive.](http://9gag.com/gag/abA2Wyb)
- - 😝 [My crawl space could never.](http://9gag.com/gag/a2vb2dw)
- - 👉 [Would you ?](http://9gag.com/gag/ajPKxwq)<!-- MEMES:END -->
+ - 😝 [Insert pointing Spiderman meme](http://9gag.com/gag/avyv6jE)
+ - 👉 [My crawl space could never.](http://9gag.com/gag/a2vb2dw)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why do lawyers keep using ChatGPT?](https://www.theverge.com/policy/677373/lawyers-chatgpt-hallucinations-ai)
+ - [A new movie taking on the tech bros](https://www.theverge.com/installer-newsletter/677564/mountainhead-whatsapp-popsockets-installer)
  - [A look at Apple&#39;s AI plans for WWDC; sources: macOS 26 will be named Tahoe and Apple is testing its 3B, 7B, 33B, and 150B AI models via internal tool Playground &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250601/p6#a250601p6)
  - [6 Best Digital Photo Frames &lpar;2025&rpar;: Aura, Nixplay, Skylight](https://www.wired.com/gallery/best-digital-photo-frames/)
- - [Researchers say tactics used to make AI more engaging, like making them more agreeable, can make chatbots reinforce harmful ideas, like encouraging drug use &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/250601/p5#a250601p5)
- - [How to Find the Best Eero Wi-Fi Mesh Router for You &lpar;2025&rpar;](https://www.wired.com/gallery/best-eero-wi-fi-mesh-router/)
- - [Elden Ring Nightreign Director Interview Part Two: Why There&#39;s No Poison Swamp and Future DLC](https://www.cnet.com/tech/gaming/elden-ring-nightreign-director-interview-part-two-why-theres-no-poison-swamp-future-dlc-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Researchers say tactics used to make AI more engaging, like making them more agreeable, can make chatbots reinforce harmful ideas, like encouraging drug use &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/250601/p5#a250601p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

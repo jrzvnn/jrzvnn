@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oysters clean water in 1 hour](http://9gag.com/gag/awy414D)
- - 😝 [Her boyfriend understood the assignment.](http://9gag.com/gag/aD2X8RB)
- - 💣 [Have a great day my fellow 9gaggers](http://9gag.com/gag/a9yXvN6)
- - 😝 [Own medicine](http://9gag.com/gag/aKGY9W3)
- - 👉 [Peak professionalism on display.](http://9gag.com/gag/a1mL5ZR)<!-- MEMES:END -->
+ - 😝 [Based JK](http://9gag.com/gag/azxZGQz)
+ - 😝 [Okay, but not like *that* burning](http://9gag.com/gag/agm28Kq)
+ - 💣 [A project as fun as Lego!](http://9gag.com/gag/ayNQ1yp)
+ - 😝 [And the day isn&#39;t even over](http://9gag.com/gag/ae92xzB)
+ - 👉 [Current Situation](http://9gag.com/gag/axyPOwW)<!-- MEMES:END -->
 
 ---
 

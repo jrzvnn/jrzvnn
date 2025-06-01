@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Perfect gadget to capture great moments](http://9gag.com/gag/aPAXQ9G)
- - 😝 [Worst case scenario he&#39;s bi now](http://9gag.com/gag/aRB2v3B)
- - 💣 [Her boyfriend understood the assignment.](http://9gag.com/gag/aD2X8RB)
+ - 😝 [How North Korea monitors their citizens through their phones](http://9gag.com/gag/aZZ2866)
+ - 😝 [Guess who&#39;s back? AI can&#39;t touch this.](http://9gag.com/gag/a34W0gN)
+ - 💣 [Worst case scenario he&#39;s bi now](http://9gag.com/gag/aRB2v3B)
  - 😝 [Have a great day my fellow 9gaggers](http://9gag.com/gag/a9yXvN6)
- - 👉 [The comments section did not survive.](http://9gag.com/gag/abA2Wyb)<!-- MEMES:END -->
+ - 👉 [Oh my god! That&#39;s disgusting. Where?](http://9gag.com/gag/aryBZZy)<!-- MEMES:END -->
 
 ---
 

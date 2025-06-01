@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Have a great day my fellow 9gaggers](http://9gag.com/gag/a9yXvN6)
- - 😝 [Child is in tune with the universe](http://9gag.com/gag/awy43m4)
- - 💣 [Plot twist of the century](http://9gag.com/gag/amoVGL2)
+ - 😝 [Plot twist of the century](http://9gag.com/gag/amoVGL2)
+ - 😝 [One day, she will be mine!](http://9gag.com/gag/aVv2o8v)
+ - 💣 [31 years old and in heart failiure. Plz send memes. The darker, the better.](http://9gag.com/gag/a4Pq6r1)
  - 😝 [Love this sport](http://9gag.com/gag/aD2XbgB)
- - 👉 [Hooo... you are approaching me?](http://9gag.com/gag/aKGYA7Q)<!-- MEMES:END -->
+ - 👉 [He is a genius.](http://9gag.com/gag/aoy8RZx)<!-- MEMES:END -->
 
 ---
 

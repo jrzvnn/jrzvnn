@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oy veyyyyyyyy](http://9gag.com/gag/amoVmQd)
- - 😝 [Her boyfriend understood the assignment.](http://9gag.com/gag/aD2X8RB)
- - 💣 [Child is in tune with the universe](http://9gag.com/gag/awy43m4)
  - 😝 [Love this sport](http://9gag.com/gag/aD2XbgB)
- - 👉 [Guess who&#39;s back? AI can&#39;t touch this.](http://9gag.com/gag/a34W0gN)<!-- MEMES:END -->
+ - 😝 [Guess who&#39;s back? AI can&#39;t touch this.](http://9gag.com/gag/a34W0gN)
+ - 💣 [Hooo... you are approaching me?](http://9gag.com/gag/aKGYA7Q)
+ - 😝 [Child is in tune with the universe](http://9gag.com/gag/awy43m4)
+ - 👉 [Oy veyyyyyyyy](http://9gag.com/gag/amoVmQd)<!-- MEMES:END -->
 
 ---
 

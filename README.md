@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Based JK](http://9gag.com/gag/azxZGQz)
- - 😝 [Okay, but not like *that* burning](http://9gag.com/gag/agm28Kq)
- - 💣 [A project as fun as Lego!](http://9gag.com/gag/ayNQ1yp)
- - 😝 [And the day isn&#39;t even over](http://9gag.com/gag/ae92xzB)
- - 👉 [Current Situation](http://9gag.com/gag/axyPOwW)<!-- MEMES:END -->
+ - 😝 [Worst case scenario he&#39;s bi now](http://9gag.com/gag/aRB2v3B)
+ - 😝 [Her boyfriend understood the assignment.](http://9gag.com/gag/aD2X8RB)
+ - 💣 [The comments section did not survive.](http://9gag.com/gag/abA2Wyb)
+ - 😝 [Perfect gadget to capture great moments](http://9gag.com/gag/aPAXQ9G)
+ - 👉 [Own medicine](http://9gag.com/gag/aKGY9W3)<!-- MEMES:END -->
 
 ---
 

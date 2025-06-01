@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oysters clean water in 1 hour](http://9gag.com/gag/awy414D)
- - 😝 [Have a great day my fellow 9gaggers](http://9gag.com/gag/a9yXvN6)
- - 💣 [The comments section did not survive.](http://9gag.com/gag/abA2Wyb)
- - 😝 [One day, she will be mine!](http://9gag.com/gag/aVv2o8v)
- - 👉 [Her boyfriend understood the assignment.](http://9gag.com/gag/aD2X8RB)<!-- MEMES:END -->
+ - 😝 [Oy veyyyyyyyy](http://9gag.com/gag/amoVmQd)
+ - 😝 [Her boyfriend understood the assignment.](http://9gag.com/gag/aD2X8RB)
+ - 💣 [Have a great day my fellow 9gaggers](http://9gag.com/gag/a9yXvN6)
+ - 😝 [He is a genius.](http://9gag.com/gag/aoy8RZx)
+ - 👉 [Tadaaammm...](http://9gag.com/gag/ae92OZQ)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One day, she will be mine!](http://9gag.com/gag/aVv2o8v)
+ - 😝 [Guess who&#39;s back? AI can&#39;t touch this.](http://9gag.com/gag/a34W0gN)
  - 😝 [Oy veyyyyyyyy](http://9gag.com/gag/amoVmQd)
- - 💣 [Guess who&#39;s back? AI can&#39;t touch this.](http://9gag.com/gag/a34W0gN)
- - 😝 [He is a genius.](http://9gag.com/gag/aoy8RZx)
- - 👉 [Own medicine](http://9gag.com/gag/aKGY9W3)<!-- MEMES:END -->
+ - 💣 [The comments section did not survive.](http://9gag.com/gag/abA2Wyb)
+ - 😝 [One day, she will be mine!](http://9gag.com/gag/aVv2o8v)
+ - 👉 [Her boyfriend understood the assignment.](http://9gag.com/gag/aD2X8RB)<!-- MEMES:END -->
 
 ---
 

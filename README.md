@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nice Rocc Palm Cooling Device Review: Pricey, Effective Palm Cooling](https://www.wired.com/review/nice-rocc-palm-cooling-device/)
+ - [Dotemu’s CEO on how it makes new games that feel retro](https://www.theverge.com/games/677300/dotemu-ceo-games-retro-ninja-gaiden-marvel-absolum)
  - [Crime blotter: Chinese national sentenced in Target iPad scam](https://appleinsider.com/articles/25/06/01/crime-blotter-chinese-national-sentenced-in-target-ipad-scam?utm_medium=rss)
  - [Your Gmail Inbox Is Running Slow. Do These Things to Fix It](https://www.wired.com/story/gmail-inbox-running-slow-how-to-fix-it/)
- - [DappRadar: NFT lending market volume has dropped 97% from a peak of ~$1B in January 2024 to ~$50M in May 2025, with borrower activity falling by 90% &lpar;Stephen Katte/Cointelegraph&rpar;](http://www.techmeme.com/250601/p4#a250601p4)
- - [How to Make AI Faster and Smarter—With a Little Help from Physics](https://www.wired.com/story/improving-deep-learning-with-a-little-help-from-physics/)
- - [Best Internet Deals for June 2025](https://www.cnet.com/home/internet/best-internet-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DappRadar: NFT lending market volume has dropped 97% from a peak of ~$1B in January 2024 to ~$50M in May 2025, with borrower activity falling by 90% &lpar;Stephen Katte/Cointelegraph&rpar;](http://www.techmeme.com/250601/p4#a250601p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

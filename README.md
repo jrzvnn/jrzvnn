@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The math ain&#39;t mathing.](http://9gag.com/gag/awy41br)
- - 😝 [Guess who&#39;s back? AI can&#39;t touch this.](http://9gag.com/gag/a34W0gN)
- - 💣 [Hooo... you are approaching me?](http://9gag.com/gag/aKGYA7Q)
- - 😝 [One day, she will be mine!](http://9gag.com/gag/aVv2o8v)
- - 👉 [Have a great day my fellow 9gaggers](http://9gag.com/gag/a9yXvN6)<!-- MEMES:END -->
+ - 😝 [Me during the loyalty test:](http://9gag.com/gag/aAyXEZp)
+ - 😝 [Wait until the end!](http://9gag.com/gag/aXP2VNb)
+ - 💣 [When you hit your head so hard you think you&#39;re the apex predator now](http://9gag.com/gag/aW42n73)
+ - 😝 [No one will ever believe you](http://9gag.com/gag/aE0XAVK)
+ - 👉 [He even got a 6 pack of beer and told me to call him if I needed anything or if I just wanted to talk](http://9gag.com/gag/aW42n42)<!-- MEMES:END -->
 
 ---
 

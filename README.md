@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft and the CWA reach a tentative contract agreement for ~300 ZeniMax QA workers after two years of talks, marking Microsoft&#39;s first US union contract &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/250531/p17#a250531p17)
- - [Stranger Things season 5 will stream this November](https://www.theverge.com/news/677560/stranger-things-season-5-premiere-date-trailer)
- - [Netflix Give Us 3 &#39;Stranger Things&#39; Season 5 Release Dates](https://www.cnet.com/tech/services-and-software/netflix-give-us-3-stranger-things-season-5-release-dates/#ftag=CAD590a51e)
- - [Netflix showed off new trailers for Knives Out 3 and del Toro’s Frankenstein](https://www.theverge.com/news/677139/netflix-tudum-trailers-frankenstein-wake-up-dead-man)
- - [Netflix’s One Piece adaptation has found its Tony Tony Chopper](https://www.theverge.com/tv/677419/netflixs-one-piece-adaptation-has-found-its-tony-tony-chopper)<!-- TECH:END -->
+ - [Meta shareholders overwhelmingly rejected a proposal to explore adding Bitcoin to the company&#39;s treasury, with less than 1% voting in favor of the measure &lpar;Kyle Baird/DL News&rpar;](http://www.techmeme.com/250601/p2#a250601p2)
+ - [Bose Coupon Codes &amp; Discounts: 10% Off](https://www.wired.com/story/bose-coupon-code/)
+ - [An analysis of the top 100 trending TikTok videos under #mentalhealthtips finds 52 contain misinformation, including misused language and quick-fix methods &lpar;The Guardian&rpar;](http://www.techmeme.com/250601/p1#a250601p1)
+ - [B&amp;H Photo Promo Codes and Deals for June 2025](https://www.wired.com/story/bh-photo-coupon/)
+ - [Blue Apron Coupons: $80 Off + Free Shipping | June 2025](https://www.wired.com/story/blue-apron-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

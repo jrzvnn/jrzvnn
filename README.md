@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peak relationship moment.](http://9gag.com/gag/an7DEyo)
- - 😝 [Shredder met its match.](http://9gag.com/gag/abA2WLE)
- - 💣 [The comments section did not survive.](http://9gag.com/gag/abA2Wyb)
- - 😝 [My crawl space could never.](http://9gag.com/gag/a2vb2dw)
+ - 😝 [Oy veyyyyyyyy](http://9gag.com/gag/amoVmQd)
+ - 😝 [Oh my god! That&#39;s disgusting. Where?](http://9gag.com/gag/aryBZZy)
+ - 💣 [Wow, that&#39;s a beautiful blue](http://9gag.com/gag/aO81Dm3)
+ - 😝 [This runway deep in the Amazon rainforest appeared out of nowhere, what do you think it\u2019s used for?](http://9gag.com/gag/aMVXnX6)
  - 👉 [Insert pointing Spiderman meme](http://9gag.com/gag/avyv6jE)<!-- MEMES:END -->
 
 ---

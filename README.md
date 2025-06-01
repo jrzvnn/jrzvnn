@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Deadpool celebrating the gaming industry bloodbath, except for that one game.](http://9gag.com/gag/a5QjGDG)
- - 😝 [When you hit your head so hard you think you&#39;re the apex predator now](http://9gag.com/gag/aW42n73)
- - 💣 [Wait until the end!](http://9gag.com/gag/aXP2VNb)
- - 😝 [No one will ever believe you](http://9gag.com/gag/aE0XAVK)
- - 👉 [He even got a 6 pack of beer and told me to call him if I needed anything or if I just wanted to talk](http://9gag.com/gag/aW42n42)<!-- MEMES:END -->
+ - 😝 [Oy veyyyyyyyy](http://9gag.com/gag/amoVmQd)
+ - 😝 [He is a genius.](http://9gag.com/gag/aoy8RZx)
+ - 💣 [31 years old and in heart failiure. Plz send memes. The darker, the better.](http://9gag.com/gag/a4Pq6r1)
+ - 😝 [Have a great day my fellow 9gaggers](http://9gag.com/gag/a9yXvN6)
+ - 👉 [The comments section did not survive.](http://9gag.com/gag/abA2Wyb)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Child is in tune with the universe](http://9gag.com/gag/awy43m4)
- - 😝 [31 years old and in heart failiure. Plz send memes. The darker, the better.](http://9gag.com/gag/a4Pq6r1)
- - 💣 [Have a great day my fellow 9gaggers](http://9gag.com/gag/a9yXvN6)
- - 😝 [Hooo... you are approaching me?](http://9gag.com/gag/aKGYA7Q)
- - 👉 [Her boyfriend understood the assignment.](http://9gag.com/gag/aD2X8RB)<!-- MEMES:END -->
+ - 😝 [Shredder met its match.](http://9gag.com/gag/abA2WLE)
+ - 😝 [He is a genius.](http://9gag.com/gag/aoy8RZx)
+ - 💣 [Plot twist of the century](http://9gag.com/gag/amoVGL2)
+ - 😝 [Own medicine](http://9gag.com/gag/aKGY9W3)
+ - 👉 [Child is in tune with the universe](http://9gag.com/gag/awy43m4)<!-- MEMES:END -->
 
 ---
 

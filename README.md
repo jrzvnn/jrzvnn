@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The math ain&#39;t mathing.](http://9gag.com/gag/awy41br)
+ - 😝 [He is a genius.](http://9gag.com/gag/aoy8RZx)
+ - 😝 [Suddenly I understand all those Blockbuster late fees.](http://9gag.com/gag/abA2OMr)
+ - 💣 [Hooo... you are approaching me?](http://9gag.com/gag/aKGYA7Q)
  - 😝 [31 years old and in heart failiure. Plz send memes. The darker, the better.](http://9gag.com/gag/a4Pq6r1)
- - 💣 [Suddenly I understand all those Blockbuster late fees.](http://9gag.com/gag/abA2OMr)
- - 😝 [Guess who&#39;s back? AI can&#39;t touch this.](http://9gag.com/gag/a34W0gN)
- - 👉 [He is a genius.](http://9gag.com/gag/aoy8RZx)<!-- MEMES:END -->
+ - 👉 [Guess who&#39;s back? AI can&#39;t touch this.](http://9gag.com/gag/a34W0gN)<!-- MEMES:END -->
 
 ---
 

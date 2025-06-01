@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oy veyyyyyyyy](http://9gag.com/gag/amoVmQd)
+ - 😝 [Insert pointing Spiderman meme](http://9gag.com/gag/avyv6jE)
+ - 😝 [Have a great day my fellow 9gaggers](http://9gag.com/gag/a9yXvN6)
+ - 💣 [One day, she will be mine!](http://9gag.com/gag/aVv2o8v)
  - 😝 [Her boyfriend understood the assignment.](http://9gag.com/gag/aD2X8RB)
- - 💣 [Have a great day my fellow 9gaggers](http://9gag.com/gag/a9yXvN6)
- - 😝 [He is a genius.](http://9gag.com/gag/aoy8RZx)
- - 👉 [Tadaaammm...](http://9gag.com/gag/ae92OZQ)<!-- MEMES:END -->
+ - 👉 [Musk, White House, today](http://9gag.com/gag/a6Zp9Pm)<!-- MEMES:END -->
 
 ---
 

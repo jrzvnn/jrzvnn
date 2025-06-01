@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Deadpool celebrating the gaming industry bloodbath, except for that one game.](http://9gag.com/gag/a5QjGDG)
- - 😝 [The correct way to tie a scarf](http://9gag.com/gag/a87wmNZ)
- - 💣 [Ukraine just struck Olenya airbase. Over 40 planes where on the tarmac at the time. Over 10 explosions are reported.](http://9gag.com/gag/a6ZpB89)
- - 😝 [Regular Guy](http://9gag.com/gag/aAyXKx0)
- - 👉 [Okay, but not like *that* burning](http://9gag.com/gag/agm28Kq)<!-- MEMES:END -->
+ - 😝 [Oh my god! That&#39;s disgusting. Where?](http://9gag.com/gag/aryBZZy)
+ - 😝 [The comments section did not survive.](http://9gag.com/gag/abA2Wyb)
+ - 💣 [He is a genius.](http://9gag.com/gag/aoy8RZx)
+ - 😝 [Have a great day my fellow 9gaggers](http://9gag.com/gag/a9yXvN6)
+ - 👉 [Own medicine](http://9gag.com/gag/aKGY9W3)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers say tactics used to make AI more engaging, like making them more agreeable, can make chatbots reinforce harmful ideas, like encouraging drug use &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/250601/p5#a250601p5)
+ - [How to Find the Best Eero Wi-Fi Mesh Router for You &lpar;2025&rpar;](https://www.wired.com/gallery/best-eero-wi-fi-mesh-router/)
  - [macOS 26 rumored to be called &#39;Tahoe&#39;](https://appleinsider.com/articles/25/06/01/macos-26-rumored-to-be-called-tahoe?utm_medium=rss)
  - [Lighter than normal WWDC expected without significant Apple Intelligence uprgrades](https://appleinsider.com/articles/25/06/01/lighter-than-normal-wwdc-expected-without-significant-apple-intelligence-uprgrades?utm_medium=rss)
- - [Siri Chatbot prototype nears ChatGPT quality, but hallucinates more than Apple wants](https://appleinsider.com/articles/25/06/01/siri-chatbot-prototype-nears-chatgpt-quality-but-hallucinates-more-than-apple-wants?utm_medium=rss)
- - [Nice Rocc Palm Cooling Device Review: Pricey, Effective Palm Cooling](https://www.wired.com/review/nice-rocc-palm-cooling-device/)
- - [Highlights From World&#39;s First Humanoid Robot Kickboxing Tournament](https://www.cnet.com/tech/computing/highlights-from-worlds-first-humanoid-robot-kickboxing-tournament/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Siri Chatbot prototype nears ChatGPT quality, but hallucinates more than Apple wants](https://appleinsider.com/articles/25/06/01/siri-chatbot-prototype-nears-chatgpt-quality-but-hallucinates-more-than-apple-wants?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

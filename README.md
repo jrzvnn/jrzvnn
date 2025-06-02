@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Stonks](http://9gag.com/gag/aPAXX6B)
- - 😝 [Bigfoots Vlog, better than most influencers](http://9gag.com/gag/amoVpqv)
- - 💣 [Learn these essential knots for various uses.](http://9gag.com/gag/aLnXAoP)
+ - 😝 [Very few will know where this is from](http://9gag.com/gag/ajPKKG8)
+ - 💣 [Bigfoots Vlog, better than most influencers](http://9gag.com/gag/amoVpqv)
  - 😝 [From viral to iconic! Just 7 days until the epic #69MemeDay on June 9! Get ready for the epic Meme of the Year showdown!](http://9gag.com/gag/aKGYYK3)
- - 👉 [Very few will know where this is from](http://9gag.com/gag/ajPKKG8)<!-- MEMES:END -->
+ - 👉 [Learn these essential knots for various uses.](http://9gag.com/gag/aLnXAoP)<!-- MEMES:END -->
 
 ---
 

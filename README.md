@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in El Paso, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-el-paso-tx/#ftag=CAD590a51e)
  - [Apple&#39;s WWDC keynote YouTube page is now live](https://appleinsider.com/articles/25/06/02/apples-wwdc-keynote-youtube-page-is-now-live?utm_medium=rss)
  - [How to use an old injection trick to turn Apple Writing Tools into a chatbot](https://appleinsider.com/inside/ios-18/tips/how-to-use-an-old-injection-trick-to-turn-apple-writing-tools-into-a-chatbot?utm_medium=rss)
  - [Gen V returns to Amazon for season 2 this September](https://www.theverge.com/news/678130/gen-v-season-2-premiere-date-september-17)
- - [Google’s Pixel 10 phones will reportedly launch on August 13th](https://www.theverge.com/news/678088/google-pixel-10-release-date-launch-august)
- - [Should You Pay for Gemini Ultra to Create AI Videos With Google&#39;s Veo 3? I Did. Here&#39;s How It Went](https://www.cnet.com/tech/services-and-software/should-you-pay-for-gemini-ultra-to-create-ai-videos-with-googles-veo-3-i-did-heres-how-it-went/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google’s Pixel 10 phones will reportedly launch on August 13th](https://www.theverge.com/news/678088/google-pixel-10-release-date-launch-august)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Love this sport](http://9gag.com/gag/aD2XbgB)
- - 😝 [Wait, is that Thangorodrim?](http://9gag.com/gag/a34WyZm)
- - 💣 [The streets definitely remember.](http://9gag.com/gag/a9yX2OW)
+ - 😝 [Long time user here, never posted. But yesterday i lost my best friend to cancer after 10 years together. Im on my way to have him cremated, just wanted some of you guys to see how beautiful he was. F**king hurts, i just hope he&#39;s chasing sticks somewhere.](http://9gag.com/gag/avyvdgM)
+ - 😝 [When you still have 55 mins left](http://9gag.com/gag/aAyXXXg)
+ - 💣 [We need him back!](http://9gag.com/gag/axyPP7M)
  - 😝 [From viral to iconic! Just 7 days until the epic #69MemeDay on June 9! Get ready for the epic Meme of the Year showdown!](http://9gag.com/gag/aKGYYK3)
- - 👉 [Very few will know where this is from](http://9gag.com/gag/ajPKKG8)<!-- MEMES:END -->
+ - 👉 [Stonks](http://9gag.com/gag/aPAXX6B)<!-- MEMES:END -->
 
 ---
 

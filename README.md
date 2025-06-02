@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You Can&#39;t Charge Devices in Your Carry-On Bag on Southwest Airlines Anymore. What You Need to Know](https://www.cnet.com/tech/you-cant-charge-devices-in-your-carry-on-bag-on-southwest-airlines-anymore-what-you-need-to-know/#ftag=CAD590a51e)
  - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
  - [Alphabet offers to spend $500M+ over ten years to rebuild its global compliance structure, in a settlement proposal for an antitrust lawsuit from shareholders &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/250602/p17#a250602p17)
- - [Google commits $500 million to settle shareholder lawsuit](https://appleinsider.com/articles/25/06/02/google-commits-500-million-to-settle-shareholder-lawsuit?utm_medium=rss)
- - [Best Internet Providers in El Paso, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-el-paso-tx/#ftag=CAD590a51e)
- - [Apple&#39;s WWDC keynote YouTube page is now live](https://appleinsider.com/articles/25/06/02/apples-wwdc-keynote-youtube-page-is-now-live?utm_medium=rss)<!-- TECH:END -->
+ - [Father&#39;s Day Gift Guide: The Best Wellness Gifts for Every Kind of Dad &lpar;and Every Budget&rpar;](https://www.cnet.com/health/fathers-day-gift-guide-the-best-wellness-gifts-for-every-kind-of-dad-and-every-budget/#ftag=CAD590a51e)
+ - [Google commits $500 million to settle shareholder lawsuit](https://appleinsider.com/articles/25/06/02/google-commits-500-million-to-settle-shareholder-lawsuit?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [When she says you can&#39;t find someone like her, show her this.](http://9gag.com/gag/amoVVGV)
  - 😝 [Glock-librarian edition](http://9gag.com/gag/an7DDqb)
- - 😝 [Seriously, WTF????](http://9gag.com/gag/a9yXm11)
- - 💣 [He understood the assignment.](http://9gag.com/gag/aYQ1q8V)
+ - 💣 [I&#39;m shocked. SHOCKED!](http://9gag.com/gag/a34WWL3)
  - 😝 [From viral to iconic! Just 7 days until the epic #69MemeDay on June 9! Get ready for the epic Meme of the Year showdown!](http://9gag.com/gag/aKGYYK3)
  - 👉 [Where did the cornucopia go?! I KNOW I saw it](http://9gag.com/gag/aNDR4nK)<!-- MEMES:END -->
 

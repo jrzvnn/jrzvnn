@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Neuralink raised a $650M Series E from ARK Invest, Founders Fund, G42, Human Capital, Sequoia, Thrive, and others; it was reportedly valued at ~$9B pre-money &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250602/p18#a250602p18)
+ - [Best Internet Providers in Columbia, South Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-columbia-sc/#ftag=CAD590a51e)
  - [Classic &#39;Doom&#39; now playable on Apple Network Server](https://appleinsider.com/articles/25/06/02/classic-doom-now-playable-on-apple-network-server?utm_medium=rss)
  - [The Sonos Ace have hit their best price to date ahead of Father’s Day](https://www.theverge.com/tech/678138/sonos-ace-headphones-arc-ultra-fathers-day-2025-deal-sale)
- - [You Can&#39;t Charge Devices in Your Carry-On Bag on Southwest Airlines Anymore. What You Need to Know](https://www.cnet.com/tech/you-cant-charge-devices-in-your-carry-on-bag-on-southwest-airlines-anymore-what-you-need-to-know/#ftag=CAD590a51e)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
+ - [Best Internet Providers in Milwaukee, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-milwaukee-wi/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [People Can Fly cancels two projects and will lay off workers](https://www.theverge.com/news/678017/people-can-fly-cancelled-projects-square-enix)
  - [Nvidia&amp;#8217;s Arm-powered gaming laptop could launch later this year with Alienware](https://www.theverge.com/news/678000/nvidia-arm-gaming-laptop-mediatek-alienware)
  - [Ncuti Gatwa is leaving Doctor Who after just two seasons](https://www.theverge.com/tv/677976/ncuti-gatwa-doctor-who-exit-billie-piper-the-war-between-the-land-and-the-sea)
- - [MSI Titan 18 HX AI Review: The Ultimate Gaming Laptop](https://www.wired.com/review/msi-titan-18-hx-ai/)<!-- TECH:END -->
+ - [I Like to Watch TV on Camping Trips, and an iPad Doesn&#39;t Cut It, So I Pack This Portable Projector](https://www.cnet.com/deals/i-like-to-watch-tv-on-camping-trips-and-an-ipad-doesnt-cut-it-so-i-pack-this-portable-projector/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

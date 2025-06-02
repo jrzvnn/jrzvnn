@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That rock really said &#39;Final Destination&#39;.](http://9gag.com/gag/a7oNV0r)
- - 😝 [Timmy&#39;s got other plans for Vicky](http://9gag.com/gag/aD2XVd7)
- - 💣 [Oh my god! That&#39;s disgusting. Where?](http://9gag.com/gag/aryBZZy)
+ - 😝 [Glock-librarian edition](http://9gag.com/gag/an7DDqb)
+ - 😝 [Wait, is that Thangorodrim?](http://9gag.com/gag/a34WyZm)
+ - 💣 [The comments section did not survive.](http://9gag.com/gag/abA2Wyb)
  - 😝 [From viral to iconic! Just 7 days until the epic #69MemeDay on June 9! Get ready for the epic Meme of the Year showdown!](http://9gag.com/gag/aKGYYK3)
- - 👉 [Wait, is that Thangorodrim?](http://9gag.com/gag/a34WyZm)<!-- MEMES:END -->
+ - 👉 [The most important photographer in the crowd](http://9gag.com/gag/avyvxpq)<!-- MEMES:END -->
 
 ---
 

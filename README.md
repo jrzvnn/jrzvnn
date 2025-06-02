@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s some ninja move](http://9gag.com/gag/apRAAGB)
- - 😝 [The most important photographer in the crowd](http://9gag.com/gag/avyvxpq)
- - 💣 [The streets definitely remember.](http://9gag.com/gag/a9yX2OW)
+ - 😝 [Everyone knows you are, Elon](http://9gag.com/gag/a6Zppz8)
+ - 😝 [Expectation and reality](http://9gag.com/gag/a0eEEEB)
+ - 💣 [Love this sport](http://9gag.com/gag/aD2XbgB)
  - 😝 [From viral to iconic! Just 7 days until the epic #69MemeDay on June 9! Get ready for the epic Meme of the Year showdown!](http://9gag.com/gag/aKGYYK3)
- - 👉 [Where did the cornucopia go?! I KNOW I saw it](http://9gag.com/gag/aNDR4nK)<!-- MEMES:END -->
+ - 👉 [The streets definitely remember.](http://9gag.com/gag/a9yX2OW)<!-- MEMES:END -->
 
 ---
 

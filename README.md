@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh my god! That&#39;s disgusting. Where?](http://9gag.com/gag/aryBZZy)
- - 😝 [Where did the cornucopia go?! I KNOW I saw it](http://9gag.com/gag/aNDR4nK)
- - 💣 [Wholesome](http://9gag.com/gag/aByXO12)
+ - 😝 [That&#39;s some ninja move](http://9gag.com/gag/apRAAGB)
+ - 😝 [The most important photographer in the crowd](http://9gag.com/gag/avyvxpq)
+ - 💣 [The streets definitely remember.](http://9gag.com/gag/a9yX2OW)
  - 😝 [From viral to iconic! Just 7 days until the epic #69MemeDay on June 9! Get ready for the epic Meme of the Year showdown!](http://9gag.com/gag/aKGYYK3)
- - 👉 [The streets definitely remember.](http://9gag.com/gag/a9yX2OW)<!-- MEMES:END -->
+ - 👉 [Where did the cornucopia go?! I KNOW I saw it](http://9gag.com/gag/aNDR4nK)<!-- MEMES:END -->
 
 ---
 

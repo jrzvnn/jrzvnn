@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hands on with ThorBolt X1 &amp; Brilliant Gen 2, plus more smart home news on HomeKit Insider](https://appleinsider.com/articles/25/06/02/hands-on-with-thorbolt-x1-brilliant-gen-2-plus-more-smart-home-news-on-homekit-insider?utm_medium=rss)
+ - [A UK government trial with 20K+ civil servants using Microsoft&#39;s Copilot AI for three months found a 26 minute average daily time saving, or two weeks per year &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250602/p14#a250602p14)
  - [MelGeek O2 mechanical keyboard review: Hardware sticks the landing, software is terrible](https://appleinsider.com/articles/25/06/02/melgeek-o2-mechanical-keyboard-review-hardware-sticks-the-landing-software-is-terrible?utm_medium=rss)
- - [Filing: neobank Chime plans to sell 26M shares in its IPO at $24 to $26, giving it a valuation between $10.3B and $11.1B; its two co-founders own 4% to 5% each &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/250602/p13#a250602p13)
- - [14 Best Bluetooth Speakers Our Testers Jammed With in 2025](https://www.wired.com/gallery/best-bluetooth-speakers/)
- - [iPhone 16e selling well in Europe but can&#39;t beat its cheaper siblings](https://appleinsider.com/articles/25/06/02/iphone-16e-selling-well-in-europe-but-cant-beat-its-cheaper-siblings?utm_medium=rss)
- - [Don’t take off the Switch 2’s screen protector](https://www.theverge.com/news/677944/nintendo-switch-2-screen-protector-anti-scattering-film-cover)<!-- TECH:END -->
+ - [iPad helped save concert pianist&#39;s career by beating stage fright](https://appleinsider.com/articles/25/06/02/ipad-helped-save-concert-pianists-career-by-beating-stage-fright?utm_medium=rss)
+ - [Filing: neobank Chime plans to sell 26M shares in its IPO at $24 to $26, giving it a valuation between $10.3B and $11.1B; its two co-founders own 4% to 5% each &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/250602/p13#a250602p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

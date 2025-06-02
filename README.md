@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Glock-librarian edition](http://9gag.com/gag/an7DDqb)
- - 😝 [The most important photographer in the crowd](http://9gag.com/gag/avyvxpq)
- - 💣 [The fly thought it found a snack, but it was a one-way ticket.](http://9gag.com/gag/aYQ11Wx)
+ - 😝 [Sleeping together...](http://9gag.com/gag/ae92xvW)
+ - 😝 [When you still have 55 mins left](http://9gag.com/gag/aAyXXXg)
+ - 💣 [My crawl space could never.](http://9gag.com/gag/a2vb2dw)
  - 😝 [From viral to iconic! Just 7 days until the epic #69MemeDay on June 9! Get ready for the epic Meme of the Year showdown!](http://9gag.com/gag/aKGYYK3)
- - 👉 [The comments section did not survive.](http://9gag.com/gag/abA2Wyb)<!-- MEMES:END -->
+ - 👉 [And all we do is shake our heads.](http://9gag.com/gag/a9yXXzm)<!-- MEMES:END -->
 
 ---
 

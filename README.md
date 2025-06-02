@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Garmin Watch &lpar;2025&rpar;: Tested and Reviewed for Running, Cycling, and More](https://www.wired.com/gallery/best-garmin-watch/)
- - [Paradromics implanted and removed its Connexus brain implant in a patient for ~10 minutes during epilepsy surgery on May 14, a first for the Neuralink rival &lpar;Emily Mullin/Wired&rpar;](http://www.techmeme.com/250602/p12#a250602p12)
- - [Apple appeals against EU mandate that it freely share its technology](https://appleinsider.com/articles/25/06/02/apple-appeals-against-eu-mandate-that-it-freely-share-its-technology?utm_medium=rss)
- - [Cuisinart Propel+ 3-in-1 Review &lpar;2025&rpar;: Pizza on a 4-Burner Grill](https://www.wired.com/review/cuisinart-propel-3-in-1-grill-griddle-pizza/)
- - [A Neuralink Rival Just Tested a Brain Implant in a Person](https://www.wired.com/story/paradromics-neuralink-rival-tested-brain-implant/)<!-- TECH:END -->
+ - [MelGeek O2 mechanical keyboard review: Hardware sticks the landing, software is terrible](https://appleinsider.com/articles/25/06/02/melgeek-o2-mechanical-keyboard-review-hardware-sticks-the-landing-software-is-terrible?utm_medium=rss)
+ - [Filing: neobank Chime plans to sell 26M shares in its IPO at $24 to $26, giving it a valuation between $10.3B and $11.1B; its two co-founders own 4% to 5% each &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/250602/p13#a250602p13)
+ - [14 Best Bluetooth Speakers Our Testers Jammed With in 2025](https://www.wired.com/gallery/best-bluetooth-speakers/)
+ - [iPhone 16e selling well in Europe but can&#39;t beat its cheaper siblings](https://appleinsider.com/articles/25/06/02/iphone-16e-selling-well-in-europe-but-cant-beat-its-cheaper-siblings?utm_medium=rss)
+ - [Don’t take off the Switch 2’s screen protector](https://www.theverge.com/news/677944/nintendo-switch-2-screen-protector-anti-scattering-film-cover)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

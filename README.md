@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sentence](http://9gag.com/gag/aqyzWoP)
+ - 😝 [Peak relationship moment.](http://9gag.com/gag/an7DEyo)
  - 😝 [Love this sport](http://9gag.com/gag/aD2XbgB)
  - 💣 [The streets definitely remember.](http://9gag.com/gag/a9yX2OW)
  - 😝 [From viral to iconic! Just 7 days until the epic #69MemeDay on June 9! Get ready for the epic Meme of the Year showdown!](http://9gag.com/gag/aKGYYK3)
- - 👉 [Everyone knows you are, Elon](http://9gag.com/gag/a6Zppz8)<!-- MEMES:END -->
+ - 👉 [Sentence](http://9gag.com/gag/aqyzWoP)<!-- MEMES:END -->
 
 ---
 

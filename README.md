@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Peak relationship moment.](http://9gag.com/gag/an7DEyo)
- - 😝 [Wow, that&#39;s a beautiful blue](http://9gag.com/gag/aO81Dm3)
- - 💣 [The fly thought it found a snack, but it was a one-way ticket.](http://9gag.com/gag/aYQ11Wx)
- - 😝 [The most important photographer in the crowd](http://9gag.com/gag/avyvxpq)
- - 👉 [Love this sport](http://9gag.com/gag/aD2XbgB)<!-- MEMES:END -->
+ - 😝 [Would you ?](http://9gag.com/gag/ajPKxwq)
+ - 💣 [Okay, but not like *that* burning](http://9gag.com/gag/agm28Kq)
+ - 😝 [Footage going around of Ukrainian drones being launched from parked truck trailers in the far east of Russia today &lpar;and then hitting nearby military airfields&rpar;, crazy! &lpar;Also footage going around of the trailers self-destructing after launches were finished!&rpar;](http://9gag.com/gag/amoVxy4)
+ - 👉 [That&#39;s one enthusiastic high-five](http://9gag.com/gag/amoVMPV)<!-- MEMES:END -->
 
 ---
 

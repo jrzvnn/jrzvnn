@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Okay, but not like *that* burning](http://9gag.com/gag/agm28Kq)
- - 😝 [Footage going around of Ukrainian drones being launched from parked truck trailers in the far east of Russia today &lpar;and then hitting nearby military airfields&rpar;, crazy! &lpar;Also footage going around of the trailers self-destructing after launches were finished!&rpar;](http://9gag.com/gag/amoVxy4)
- - 💣 [That&#39;s one enthusiastic high-five](http://9gag.com/gag/amoVMPV)
- - 😝 [Ukraine release photo&#39;s showing how they hid the drones in the top of shipping containers. The drivers were just Russians who had no idea this was hidden in the containers they were driving around.](http://9gag.com/gag/aGy2Adz)
- - 👉 [Sleeping together...](http://9gag.com/gag/ae92xvW)<!-- MEMES:END -->
+ - 😝 [The most important photographer in the crowd](http://9gag.com/gag/avyvxpq)
+ - 😝 [Guess who&#39;s back? AI can&#39;t touch this.](http://9gag.com/gag/a34W0gN)
+ - 💣 [Habibi come to DBX and bring Porta Potty](http://9gag.com/gag/aryBxBK)
+ - 😝 [So the median homebuyer is... perpetually 1968?](http://9gag.com/gag/a2vbyee)
+ - 👉 [Wow, that&#39;s a beautiful blue](http://9gag.com/gag/aO81Dm3)<!-- MEMES:END -->
 
 ---
 

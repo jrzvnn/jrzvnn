@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft will finally stop bugging Windows users about Edge — but only in Europe](https://www.theverge.com/news/678350/microsoft-dma-windows-10-11-bing-edge)
+ - [After Google&#39;s two antitrust losses in the past year, a look at critics&#39; claims that its breakup might be better for investors, customers, and innovation &lpar;David Streitfeld/New York Times&rpar;](http://www.techmeme.com/250602/p25#a250602p25)
  - [Ukraine&amp;#8217;s drone strike isn&amp;#8217;t just an attack — it&amp;#8217;s first-person warfare](https://www.theverge.com/politics/678329/ukraine-drone-strike-attack-videos-social-media-russia)
  - [Apple could increase MLB presence with Sunday night game streaming](https://appleinsider.com/articles/25/06/02/apple-could-increase-mlb-presence-with-sunday-night-game-streaming?utm_medium=rss)
- - [Deals: M4 MacBook Air from $837, Samsung M8 monitor $300 off](https://appleinsider.com/articles/25/06/02/deals-m4-macbook-air-from-837-samsung-m8-monitor-300-off?utm_medium=rss)
- - [Texas Right to Repair bill passes, heads to the governor’s desk](https://www.theverge.com/law/678334/right-to-repair-texas-hb-2963)
- - [007 First Light: Here&#39;s What James Bond Might Be Up to in His Next Game, Based Mostly on My Hopes and Dreams](https://www.cnet.com/culture/entertainment/007-first-light-heres-what-james-bond-might-be-up-to-in-his-next-game-based-mostly-on-my-hopes-and-dreams/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Deals: M4 MacBook Air from $837, Samsung M8 monitor $300 off](https://appleinsider.com/articles/25/06/02/deals-m4-macbook-air-from-837-samsung-m8-monitor-300-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

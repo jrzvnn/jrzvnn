@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [So the median homebuyer is... perpetually 1968?](http://9gag.com/gag/a2vbyee)
  - 😝 [Habibi come to DBX and bring Porta Potty](http://9gag.com/gag/aryBxBK)
- - 😝 [That was way too close](http://9gag.com/gag/aO819Kr)
  - 💣 [Oh my god! That&#39;s disgusting. Where?](http://9gag.com/gag/aryBZZy)
  - 😝 [From viral to iconic! Just 7 days until the epic #69MemeDay on June 9! Get ready for the epic Meme of the Year showdown!](http://9gag.com/gag/aKGYYK3)
- - 👉 [Peak relationship moment.](http://9gag.com/gag/an7DEyo)<!-- MEMES:END -->
+ - 👉 [Wow, that&#39;s a beautiful blue](http://9gag.com/gag/aO81Dm3)<!-- MEMES:END -->
 
 ---
 

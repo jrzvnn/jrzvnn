@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netic, which sells an AI platform that helps home services firms automate client outreach and handle calls, raised $20M from Greylock, Founders Fund, and others &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250602/p26#a250602p26)
  - [Microsoft will finally stop bugging Windows users about Edge — but only in Europe](https://www.theverge.com/news/678350/microsoft-dma-windows-10-11-bing-edge)
  - [After Google&#39;s two antitrust losses in the past year, a look at critics&#39; claims that its breakup might be better for investors, customers, and innovation &lpar;David Streitfeld/New York Times&rpar;](http://www.techmeme.com/250602/p25#a250602p25)
  - [Ukraine&amp;#8217;s drone strike isn&amp;#8217;t just an attack — it&amp;#8217;s first-person warfare](https://www.theverge.com/politics/678329/ukraine-drone-strike-attack-videos-social-media-russia)
- - [Apple could increase MLB presence with Sunday night game streaming](https://appleinsider.com/articles/25/06/02/apple-could-increase-mlb-presence-with-sunday-night-game-streaming?utm_medium=rss)
- - [Deals: M4 MacBook Air from $837, Samsung M8 monitor $300 off](https://appleinsider.com/articles/25/06/02/deals-m4-macbook-air-from-837-samsung-m8-monitor-300-off?utm_medium=rss)<!-- TECH:END -->
+ - [Apple could increase MLB presence with Sunday night game streaming](https://appleinsider.com/articles/25/06/02/apple-could-increase-mlb-presence-with-sunday-night-game-streaming?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

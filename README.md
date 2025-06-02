@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FDA debuts agency-wide AI tool meant to help scientific reviewers and others streamline their work and, soon, to identify high-priority targets for inspections &lpar;Maya Goldman/Axios&rpar;](http://www.techmeme.com/250602/p21#a250602p21)
- - [Rivian wants to make EV charging faster, smarter, and easier](https://www.theverge.com/news/678005/rivian-ev-charging-software-update-battery-fast-charging)
- - [Character.AI rolls out features like AvatarFX for video generation, plus Streams and Scenes for creating and sharing videos with characters on a new social feed &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250602/p20#a250602p20)
- - [Big redesign and more: What to expect in macOS 26 at WWDC 2025](https://appleinsider.com/articles/25/06/02/big-redesign-and-more-what-to-expect-in-macos-26-at-wwdc-2025?utm_medium=rss)
- - [Snowflake agrees to acquire Crunchy Data, a cloud-based database service that helps businesses and government agencies use PostgreSQL, a source says for ~$250M &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250602/p19#a250602p19)<!-- TECH:END -->
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Uber names longtime exec Andrew Macdonald as president and first COO since 2019; SVP of delivery Pierre-Dimitri Gore-Coty is leaving Uber after nearly 13 years &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250602/p24#a250602p24)
+ - [ISP Frontier Communications settles a lawsuit from record labels that demanded broadband users accused of piracy be dropped; SCOTUS may hear Cox&#39;s similar case &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/250602/p23#a250602p23)
+ - [Sources: Meta is prioritizing an ultralight Horizon OS headset with a compute puck, instead of a traditional Quest 4, to ship in 2026 &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250602/p22#a250602p22)
+ - [Google Wallet is losing access to PayPal](https://www.theverge.com/news/678301/google-wallet-paypal-losing-access)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

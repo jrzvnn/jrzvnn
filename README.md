@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wall Street giants like Blackstone, KKR, and BlackRock are pouring hundreds of billions into AI data centers, creating concerns of &quot;oversupply&quot; and a bubble &lpar;Maureen Farrell/New York Times&rpar;](http://www.techmeme.com/250602/p9#a250602p9)
  - [An interview with Jony Ive and Laurene Powell Jobs on tech&#39;s next chapter, meeting in 1997, Steve Jobs, Apple, Powell Jobs&#39; io investment in 2019, AI, and more &lpar;Matthew Garrahan/Financial Times&rpar;](http://www.techmeme.com/250602/p8#a250602p8)
  - [SoftBank and Intel form Saimemory, a new company to develop stacked DRAM memory chips for AI that consume ~50% of the power of current HBM in the next two years &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250602/p7#a250602p7)
  - [Jony Ive’s OpenAI device gets the Powell Jobs nod of approval](https://www.theverge.com/news/677921/jony-ive-openai-laurene-powell-jobs-interview)
- - [Paris&#39; public prosecutor says it charged 25 people, including six minors, over a spate of kidnappings and attempted abductions targeting crypto executives &lpar;Le Monde&rpar;](http://www.techmeme.com/250602/p6#a250602p6)
- - [Apple says it is appealing the EU&#39;s iOS interoperability order under the DMA that creates &quot;a process that is unreasonable, costly, and stifles innovation&quot; &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/250602/p5#a250602p5)<!-- TECH:END -->
+ - [Paris&#39; public prosecutor says it charged 25 people, including six minors, over a spate of kidnappings and attempted abductions targeting crypto executives &lpar;Le Monde&rpar;](http://www.techmeme.com/250602/p6#a250602p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

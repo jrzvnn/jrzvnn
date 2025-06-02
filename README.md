@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Character.AI rolls out features like AvatarFX for video generation, plus Streams and Scenes for creating and sharing videos with characters on a new social feed &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250602/p20#a250602p20)
+ - [Big redesign and more: What to expect in macOS 26 at WWDC 2025](https://appleinsider.com/articles/25/06/02/big-redesign-and-more-what-to-expect-in-macos-26-at-wwdc-2025?utm_medium=rss)
+ - [Snowflake agrees to acquire Crunchy Data, a cloud-based database service that helps businesses and government agencies use PostgreSQL, a source says for ~$250M &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250602/p19#a250602p19)
  - [Neuralink raised a $650M Series E from ARK Invest, Founders Fund, G42, Human Capital, Sequoia, Thrive, and others; it was reportedly valued at ~$9B pre-money &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250602/p18#a250602p18)
- - [Best Internet Providers in Columbia, South Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-columbia-sc/#ftag=CAD590a51e)
- - [Classic &#39;Doom&#39; now playable on Apple Network Server](https://appleinsider.com/articles/25/06/02/classic-doom-now-playable-on-apple-network-server?utm_medium=rss)
- - [The Sonos Ace have hit their best price to date ahead of Father’s Day](https://www.theverge.com/tech/678138/sonos-ace-headphones-arc-ultra-fathers-day-2025-deal-sale)
- - [Best Internet Providers in Milwaukee, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-milwaukee-wi/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Columbia, South Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-columbia-sc/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

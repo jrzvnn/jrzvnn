@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peak relationship moment.](http://9gag.com/gag/an7DEyo)
- - 😝 [The comments section did not survive.](http://9gag.com/gag/abA2Wyb)
- - 💣 [Worst case scenario he&#39;s bi now](http://9gag.com/gag/aRB2v3B)
- - 😝 [The real heroes we didn&#39;t know we needed.](http://9gag.com/gag/aQz27Ze)
- - 👉 [Love this sport](http://9gag.com/gag/aD2XbgB)<!-- MEMES:END -->
+ - 😝 [Okay, but not like *that* burning](http://9gag.com/gag/agm28Kq)
+ - 😝 [Footage going around of Ukrainian drones being launched from parked truck trailers in the far east of Russia today &lpar;and then hitting nearby military airfields&rpar;, crazy! &lpar;Also footage going around of the trailers self-destructing after launches were finished!&rpar;](http://9gag.com/gag/amoVxy4)
+ - 💣 [That&#39;s one enthusiastic high-five](http://9gag.com/gag/amoVMPV)
+ - 😝 [Ukraine release photo&#39;s showing how they hid the drones in the top of shipping containers. The drivers were just Russians who had no idea this was hidden in the containers they were driving around.](http://9gag.com/gag/aGy2Adz)
+ - 👉 [Sleeping together...](http://9gag.com/gag/ae92xvW)<!-- MEMES:END -->
 
 ---
 

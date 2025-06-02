@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Meta aims to help brands fully create and target ads using AI by the end of 2026, including images and budgetary goals, building on its current tools &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250602/p3#a250602p3)
  - [28 Years Later honors digital heritage with a 20-camera iPhone rig](https://www.theverge.com/news/677914/28-years-later-iphone-20-rig-danny-boyle-camcorder)
  - [A look at Russian GRU Unit 29155&#39;s hacking department, which started out in 2012, and its involvement in cyber warfare and disinformation campaigns &lpar;The Insider&rpar;](http://www.techmeme.com/250602/p2#a250602p2)
  - [A deep dive into Apple TV&#39;s privacy features shows that Apple&#39;s streaming device is more private than the vast majority of alternatives, save for dumb TVs &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/250602/p1#a250602p1)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, June 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-june-2/#ftag=CAD590a51e)
- - [Elad Gil, backer of Perplexity, Character.AI, Airbnb, Coinbase, and Stripe, invested in Enam Co., which aims to transform businesses with AI via PE roll-ups &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/250601/p11#a250601p11)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, June 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-june-2/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

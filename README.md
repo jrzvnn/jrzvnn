@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Everyone knows you are, Elon](http://9gag.com/gag/a6Zppz8)
- - 😝 [Expectation and reality](http://9gag.com/gag/a0eEEEB)
- - 💣 [Love this sport](http://9gag.com/gag/aD2XbgB)
+ - 😝 [Sentence](http://9gag.com/gag/aqyzWoP)
+ - 😝 [Love this sport](http://9gag.com/gag/aD2XbgB)
+ - 💣 [The streets definitely remember.](http://9gag.com/gag/a9yX2OW)
  - 😝 [From viral to iconic! Just 7 days until the epic #69MemeDay on June 9! Get ready for the epic Meme of the Year showdown!](http://9gag.com/gag/aKGYYK3)
- - 👉 [The streets definitely remember.](http://9gag.com/gag/a9yX2OW)<!-- MEMES:END -->
+ - 👉 [Everyone knows you are, Elon](http://9gag.com/gag/a6Zppz8)<!-- MEMES:END -->
 
 ---
 

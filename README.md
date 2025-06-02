@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Investing in future payouts.](http://9gag.com/gag/a0eE6YZ)
- - 😝 [How North Korea monitors their citizens through their phones](http://9gag.com/gag/aZZ2866)
- - 💣 [Habibi come to DBX and bring Porta Potty](http://9gag.com/gag/aryBxBK)
- - 😝 [Wait, is that Thangorodrim?](http://9gag.com/gag/a34WyZm)
- - 👉 [Peak relationship moment.](http://9gag.com/gag/an7DEyo)<!-- MEMES:END -->
+ - 😝 [Peak relationship moment.](http://9gag.com/gag/an7DEyo)
+ - 😝 [The comments section did not survive.](http://9gag.com/gag/abA2Wyb)
+ - 💣 [Worst case scenario he&#39;s bi now](http://9gag.com/gag/aRB2v3B)
+ - 😝 [The real heroes we didn&#39;t know we needed.](http://9gag.com/gag/aQz27Ze)
+ - 👉 [Love this sport](http://9gag.com/gag/aD2XbgB)<!-- MEMES:END -->
 
 ---
 

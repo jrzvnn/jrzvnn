@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Would you ?](http://9gag.com/gag/ajPKxwq)
- - 😝 [Peak relationship moment.](http://9gag.com/gag/an7DEyo)
- - 💣 [That&#39;s one enthusiastic high-five](http://9gag.com/gag/amoVMPV)
+ - 😝 [Glock-librarian edition](http://9gag.com/gag/an7DDqb)
+ - 😝 [Seriously, WTF????](http://9gag.com/gag/a9yXm11)
+ - 💣 [He understood the assignment.](http://9gag.com/gag/aYQ1q8V)
  - 😝 [From viral to iconic! Just 7 days until the epic #69MemeDay on June 9! Get ready for the epic Meme of the Year showdown!](http://9gag.com/gag/aKGYYK3)
- - 👉 [Sleeping together...](http://9gag.com/gag/ae92xvW)<!-- MEMES:END -->
+ - 👉 [Where did the cornucopia go?! I KNOW I saw it](http://9gag.com/gag/aNDR4nK)<!-- MEMES:END -->
 
 ---
 

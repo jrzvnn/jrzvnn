@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Investing in future payouts.](http://9gag.com/gag/a0eE6YZ)
+ - 😝 [How North Korea monitors their citizens through their phones](http://9gag.com/gag/aZZ2866)
+ - 💣 [Habibi come to DBX and bring Porta Potty](http://9gag.com/gag/aryBxBK)
  - 😝 [Wait, is that Thangorodrim?](http://9gag.com/gag/a34WyZm)
- - 😝 [Totally remember that month. The CDs were everywhere.](http://9gag.com/gag/aAyX4wg)
- - 💣 [Worst case scenario he&#39;s bi now](http://9gag.com/gag/aRB2v3B)
- - 😝 [Wow, that&#39;s a beautiful blue](http://9gag.com/gag/aO81Dm3)
- - 👉 [That was way too close](http://9gag.com/gag/aO819Kr)<!-- MEMES:END -->
+ - 👉 [Peak relationship moment.](http://9gag.com/gag/an7DEyo)<!-- MEMES:END -->
 
 ---
 

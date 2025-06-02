@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Long time user here, never posted. But yesterday i lost my best friend to cancer after 10 years together. Im on my way to have him cremated, just wanted some of you guys to see how beautiful he was. F**king hurts, i just hope he&#39;s chasing sticks somewhere.](http://9gag.com/gag/avyvdgM)
- - 😝 [When you still have 55 mins left](http://9gag.com/gag/aAyXXXg)
- - 💣 [We need him back!](http://9gag.com/gag/axyPP7M)
+ - 😝 [Oh my god! That&#39;s disgusting. Where?](http://9gag.com/gag/aryBZZy)
+ - 😝 [Where did the cornucopia go?! I KNOW I saw it](http://9gag.com/gag/aNDR4nK)
+ - 💣 [Wholesome](http://9gag.com/gag/aByXO12)
  - 😝 [From viral to iconic! Just 7 days until the epic #69MemeDay on June 9! Get ready for the epic Meme of the Year showdown!](http://9gag.com/gag/aKGYYK3)
- - 👉 [Stonks](http://9gag.com/gag/aPAXX6B)<!-- MEMES:END -->
+ - 👉 [The streets definitely remember.](http://9gag.com/gag/a9yX2OW)<!-- MEMES:END -->
 
 ---
 

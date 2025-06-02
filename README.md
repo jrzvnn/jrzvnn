@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s WWDC keynote YouTube page is now live](https://appleinsider.com/articles/25/06/02/apples-wwdc-keynote-youtube-page-is-now-live?utm_medium=rss)
  - [How to use an old injection trick to turn Apple Writing Tools into a chatbot](https://appleinsider.com/inside/ios-18/tips/how-to-use-an-old-injection-trick-to-turn-apple-writing-tools-into-a-chatbot?utm_medium=rss)
  - [Gen V returns to Amazon for season 2 this September](https://www.theverge.com/news/678130/gen-v-season-2-premiere-date-september-17)
  - [Google’s Pixel 10 phones will reportedly launch on August 13th](https://www.theverge.com/news/678088/google-pixel-10-release-date-launch-august)
- - [Sources: xAI is launching a $300M secondary stock offering that values the group at $113B, allowing staff to sell shares to new investors &lpar;Financial Times&rpar;](http://www.techmeme.com/250602/p16#a250602p16)
- - [Apple teases OS redesign with new &#39;Sleek peek&#39; splash page tagline](https://appleinsider.com/articles/25/06/02/apple-teases-os-redesign-with-new-sleek-peek-splash-page-tagline?utm_medium=rss)<!-- TECH:END -->
+ - [Should You Pay for Gemini Ultra to Create AI Videos With Google&#39;s Veo 3? I Did. Here&#39;s How It Went](https://www.cnet.com/tech/services-and-software/should-you-pay-for-gemini-ultra-to-create-ai-videos-with-googles-veo-3-i-did-heres-how-it-went/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

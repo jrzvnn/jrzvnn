@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Wait, is that Thangorodrim?](http://9gag.com/gag/a34WyZm)
+ - 😝 [Totally remember that month. The CDs were everywhere.](http://9gag.com/gag/aAyX4wg)
+ - 💣 [Worst case scenario he&#39;s bi now](http://9gag.com/gag/aRB2v3B)
  - 😝 [Wow, that&#39;s a beautiful blue](http://9gag.com/gag/aO81Dm3)
- - 😝 [Investing in future payouts.](http://9gag.com/gag/a0eE6YZ)
- - 💣 [That was way too close](http://9gag.com/gag/aO819Kr)
- - 😝 [You guys might have been right after all..](http://9gag.com/gag/aVv2Kyw)
- - 👉 [Seriously, WTF????](http://9gag.com/gag/a9yXm11)<!-- MEMES:END -->
+ - 👉 [That was way too close](http://9gag.com/gag/aO819Kr)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Where did the cornucopia go?! I KNOW I saw it](http://9gag.com/gag/aNDR4nK)
- - 😝 [Oh my god! That&#39;s disgusting. Where?](http://9gag.com/gag/aryBZZy)
- - 💣 [The streets definitely remember.](http://9gag.com/gag/a9yX2OW)
+ - 😝 [When she says you can&#39;t find someone like her, show her this.](http://9gag.com/gag/amoVVGV)
+ - 💣 [Wait, is that Thangorodrim?](http://9gag.com/gag/a34WyZm)
  - 😝 [From viral to iconic! Just 7 days until the epic #69MemeDay on June 9! Get ready for the epic Meme of the Year showdown!](http://9gag.com/gag/aKGYYK3)
- - 👉 [The fly thought it found a snack, but it was a one-way ticket.](http://9gag.com/gag/aYQ11Wx)<!-- MEMES:END -->
+ - 👉 [Love this sport](http://9gag.com/gag/aD2XbgB)<!-- MEMES:END -->
 
 ---
 

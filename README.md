@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta aims to help brands fully create and target ads using AI by the end of 2026, including images and budgetary goals, building on its current tools &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250602/p3#a250602p3)
- - [28 Years Later honors digital heritage with a 20-camera iPhone rig](https://www.theverge.com/news/677914/28-years-later-iphone-20-rig-danny-boyle-camcorder)
- - [A look at Russian GRU Unit 29155&#39;s hacking department, which started out in 2012, and its involvement in cyber warfare and disinformation campaigns &lpar;The Insider&rpar;](http://www.techmeme.com/250602/p2#a250602p2)
- - [A deep dive into Apple TV&#39;s privacy features shows that Apple&#39;s streaming device is more private than the vast majority of alternatives, save for dumb TVs &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/250602/p1#a250602p1)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, June 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-june-2/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple says it is appealing the EU&#39;s iOS interoperability order under the DMA that creates &quot;a process that is unreasonable, costly, and stifles innovation&quot; &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/250602/p5#a250602p5)
+ - [Jony Ive and Laurene Powell Jobs say &#39;humanity deserves better&#39; from technology](https://appleinsider.com/articles/25/06/02/jony-ive-and-laurene-powell-jobs-say-humanity-deserves-better-from-technology?utm_medium=rss)
+ - [UK neobank Monzo reports FY 2025 revenue up 48% YoY to £1.2B, a £60.5M pre-tax profit, up from £13.9M in FY 2024, deposits up 48% YoY to £16.6B, and 12M+ users &lpar;Yadarisa Shabong/Reuters&rpar;](http://www.techmeme.com/250602/p4#a250602p4)
+ - [Trumpworld Is Getting Tired of Laura Loomer. They Hope the President Is Too](https://www.wired.com/story/trumpworld-tired-of-laura-loomer/)
+ - [Sources: Meta aims to help brands fully create and target ads using AI by the end of 2026, including images and budgetary goals, building on its current tools &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250602/p3#a250602p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

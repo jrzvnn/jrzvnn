@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SoftBank and Intel form Saimemory, a new company to develop stacked DRAM memory chips for AI that consume ~50% of the power of current HBM in the next two years &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250602/p7#a250602p7)
+ - [Jony Ive’s OpenAI device gets the Powell Jobs nod of approval](https://www.theverge.com/news/677921/jony-ive-openai-laurene-powell-jobs-interview)
+ - [Paris&#39; public prosecutor says it charged 25 people, including six minors, over a spate of kidnappings and attempted abductions targeting crypto executives &lpar;Le Monde&rpar;](http://www.techmeme.com/250602/p6#a250602p6)
  - [Apple says it is appealing the EU&#39;s iOS interoperability order under the DMA that creates &quot;a process that is unreasonable, costly, and stifles innovation&quot; &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/250602/p5#a250602p5)
- - [Jony Ive and Laurene Powell Jobs say &#39;humanity deserves better&#39; from technology](https://appleinsider.com/articles/25/06/02/jony-ive-and-laurene-powell-jobs-say-humanity-deserves-better-from-technology?utm_medium=rss)
- - [UK neobank Monzo reports FY 2025 revenue up 48% YoY to £1.2B, a £60.5M pre-tax profit, up from £13.9M in FY 2024, deposits up 48% YoY to £16.6B, and 12M+ users &lpar;Yadarisa Shabong/Reuters&rpar;](http://www.techmeme.com/250602/p4#a250602p4)
- - [Trumpworld Is Getting Tired of Laura Loomer. They Hope the President Is Too](https://www.wired.com/story/trumpworld-tired-of-laura-loomer/)
- - [Sources: Meta aims to help brands fully create and target ads using AI by the end of 2026, including images and budgetary goals, building on its current tools &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250602/p3#a250602p3)<!-- TECH:END -->
+ - [Jony Ive and Laurene Powell Jobs say &#39;humanity deserves better&#39; from technology](https://appleinsider.com/articles/25/06/02/jony-ive-and-laurene-powell-jobs-say-humanity-deserves-better-from-technology?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

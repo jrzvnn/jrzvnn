@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The streets definitely remember.](http://9gag.com/gag/a9yX2OW)
- - 😝 [Where did the cornucopia go?! I KNOW I saw it](http://9gag.com/gag/aNDR4nK)
- - 💣 [Love this sport](http://9gag.com/gag/aD2XbgB)
+ - 😝 [Love this sport](http://9gag.com/gag/aD2XbgB)
+ - 😝 [Wait, is that Thangorodrim?](http://9gag.com/gag/a34WyZm)
+ - 💣 [The streets definitely remember.](http://9gag.com/gag/a9yX2OW)
  - 😝 [From viral to iconic! Just 7 days until the epic #69MemeDay on June 9! Get ready for the epic Meme of the Year showdown!](http://9gag.com/gag/aKGYYK3)
- - 👉 [Seriously, WTF????](http://9gag.com/gag/a9yXm11)<!-- MEMES:END -->
+ - 👉 [Very few will know where this is from](http://9gag.com/gag/ajPKKG8)<!-- MEMES:END -->
 
 ---
 

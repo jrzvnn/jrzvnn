@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bigfoots Vlog, better than most influencers](http://9gag.com/gag/amoVpqv)
- - 😝 [Stonks](http://9gag.com/gag/aPAXX6B)
- - 💣 [Very few will know where this is from](http://9gag.com/gag/ajPKKG8)
+ - 😝 [Habibi come to DBX and bring Porta Potty](http://9gag.com/gag/aryBxBK)
+ - 😝 [When she says you can&#39;t find someone like her, show her this.](http://9gag.com/gag/amoVVGV)
+ - 💣 [Love this sport](http://9gag.com/gag/aD2XbgB)
  - 😝 [From viral to iconic! Just 7 days until the epic #69MemeDay on June 9! Get ready for the epic Meme of the Year showdown!](http://9gag.com/gag/aKGYYK3)
- - 👉 [Learn these essential knots for various uses.](http://9gag.com/gag/aLnXAoP)<!-- MEMES:END -->
+ - 👉 [The streets definitely remember.](http://9gag.com/gag/a9yX2OW)<!-- MEMES:END -->
 
 ---
 

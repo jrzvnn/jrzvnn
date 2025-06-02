@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Classic &#39;Doom&#39; now playable on Apple Network Server](https://appleinsider.com/articles/25/06/02/classic-doom-now-playable-on-apple-network-server?utm_medium=rss)
+ - [The Sonos Ace have hit their best price to date ahead of Father’s Day](https://www.theverge.com/tech/678138/sonos-ace-headphones-arc-ultra-fathers-day-2025-deal-sale)
  - [You Can&#39;t Charge Devices in Your Carry-On Bag on Southwest Airlines Anymore. What You Need to Know](https://www.cnet.com/tech/you-cant-charge-devices-in-your-carry-on-bag-on-southwest-airlines-anymore-what-you-need-to-know/#ftag=CAD590a51e)
  - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Alphabet offers to spend $500M+ over ten years to rebuild its global compliance structure, in a settlement proposal for an antitrust lawsuit from shareholders &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/250602/p17#a250602p17)
- - [Father&#39;s Day Gift Guide: The Best Wellness Gifts for Every Kind of Dad &lpar;and Every Budget&rpar;](https://www.cnet.com/health/fathers-day-gift-guide-the-best-wellness-gifts-for-every-kind-of-dad-and-every-budget/#ftag=CAD590a51e)
- - [Google commits $500 million to settle shareholder lawsuit](https://appleinsider.com/articles/25/06/02/google-commits-500-million-to-settle-shareholder-lawsuit?utm_medium=rss)<!-- TECH:END -->
+ - [Alphabet offers to spend $500M+ over ten years to rebuild its global compliance structure, in a settlement proposal for an antitrust lawsuit from shareholders &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/250602/p17#a250602p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

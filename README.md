@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sleeping together...](http://9gag.com/gag/ae92xvW)
- - 😝 [When you still have 55 mins left](http://9gag.com/gag/aAyXXXg)
- - 💣 [My crawl space could never.](http://9gag.com/gag/a2vb2dw)
+ - 😝 [Where did the cornucopia go?! I KNOW I saw it](http://9gag.com/gag/aNDR4nK)
+ - 😝 [Wait, is that Thangorodrim?](http://9gag.com/gag/a34WyZm)
+ - 💣 [Oh my god! That&#39;s disgusting. Where?](http://9gag.com/gag/aryBZZy)
  - 😝 [From viral to iconic! Just 7 days until the epic #69MemeDay on June 9! Get ready for the epic Meme of the Year showdown!](http://9gag.com/gag/aKGYYK3)
- - 👉 [And all we do is shake our heads.](http://9gag.com/gag/a9yXXzm)<!-- MEMES:END -->
+ - 👉 [Sentence](http://9gag.com/gag/aqyzWoP)<!-- MEMES:END -->
 
 ---
 

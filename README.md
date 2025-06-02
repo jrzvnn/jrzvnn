@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The comments section did not survive.](http://9gag.com/gag/abA2Wyb)
  - 😝 [The most important photographer in the crowd](http://9gag.com/gag/avyvxpq)
- - 😝 [Guess who&#39;s back? AI can&#39;t touch this.](http://9gag.com/gag/a34W0gN)
- - 💣 [Habibi come to DBX and bring Porta Potty](http://9gag.com/gag/aryBxBK)
- - 😝 [So the median homebuyer is... perpetually 1968?](http://9gag.com/gag/a2vbyee)
- - 👉 [Wow, that&#39;s a beautiful blue](http://9gag.com/gag/aO81Dm3)<!-- MEMES:END -->
+ - 💣 [He understood the assignment.](http://9gag.com/gag/aYQ1q8V)
+ - 😝 [Oh my god! That&#39;s disgusting. Where?](http://9gag.com/gag/aryBZZy)
+ - 👉 [Wait, is that Thangorodrim?](http://9gag.com/gag/a34WyZm)<!-- MEMES:END -->
 
 ---
 

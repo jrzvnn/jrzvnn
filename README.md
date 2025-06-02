@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peak relationship moment.](http://9gag.com/gag/an7DEyo)
- - 😝 [Love this sport](http://9gag.com/gag/aD2XbgB)
- - 💣 [The streets definitely remember.](http://9gag.com/gag/a9yX2OW)
+ - 😝 [Bigfoots Vlog, better than most influencers](http://9gag.com/gag/amoVpqv)
+ - 😝 [Stonks](http://9gag.com/gag/aPAXX6B)
+ - 💣 [Very few will know where this is from](http://9gag.com/gag/ajPKKG8)
  - 😝 [From viral to iconic! Just 7 days until the epic #69MemeDay on June 9! Get ready for the epic Meme of the Year showdown!](http://9gag.com/gag/aKGYYK3)
- - 👉 [Sentence](http://9gag.com/gag/aqyzWoP)<!-- MEMES:END -->
+ - 👉 [Learn these essential knots for various uses.](http://9gag.com/gag/aLnXAoP)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Alphabet offers to spend $500M+ over ten years to rebuild its global compliance structure, in a settlement proposal for an antitrust lawsuit from shareholders &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/250602/p17#a250602p17)
+ - [Google commits $500 million to settle shareholder lawsuit](https://appleinsider.com/articles/25/06/02/google-commits-500-million-to-settle-shareholder-lawsuit?utm_medium=rss)
  - [Best Internet Providers in El Paso, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-el-paso-tx/#ftag=CAD590a51e)
- - [Apple&#39;s WWDC keynote YouTube page is now live](https://appleinsider.com/articles/25/06/02/apples-wwdc-keynote-youtube-page-is-now-live?utm_medium=rss)
- - [How to use an old injection trick to turn Apple Writing Tools into a chatbot](https://appleinsider.com/inside/ios-18/tips/how-to-use-an-old-injection-trick-to-turn-apple-writing-tools-into-a-chatbot?utm_medium=rss)
- - [Gen V returns to Amazon for season 2 this September](https://www.theverge.com/news/678130/gen-v-season-2-premiere-date-september-17)
- - [Google’s Pixel 10 phones will reportedly launch on August 13th](https://www.theverge.com/news/678088/google-pixel-10-release-date-launch-august)<!-- TECH:END -->
+ - [Apple&#39;s WWDC keynote YouTube page is now live](https://appleinsider.com/articles/25/06/02/apples-wwdc-keynote-youtube-page-is-now-live?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

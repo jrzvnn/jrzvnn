@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Where did the cornucopia go?! I KNOW I saw it](http://9gag.com/gag/aNDR4nK)
- - 😝 [The streets definitely remember.](http://9gag.com/gag/a9yX2OW)
- - 💣 [Oh my god! That&#39;s disgusting. Where?](http://9gag.com/gag/aryBZZy)
+ - 😝 [Oh my god! That&#39;s disgusting. Where?](http://9gag.com/gag/aryBZZy)
+ - 💣 [The streets definitely remember.](http://9gag.com/gag/a9yX2OW)
  - 😝 [From viral to iconic! Just 7 days until the epic #69MemeDay on June 9! Get ready for the epic Meme of the Year showdown!](http://9gag.com/gag/aKGYYK3)
- - 👉 [Would you ?](http://9gag.com/gag/ajPKxwq)<!-- MEMES:END -->
+ - 👉 [The fly thought it found a snack, but it was a one-way ticket.](http://9gag.com/gag/aYQ11Wx)<!-- MEMES:END -->
 
 ---
 

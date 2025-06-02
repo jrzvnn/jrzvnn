@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FDA debuts agency-wide AI tool meant to help scientific reviewers and others streamline their work and, soon, to identify high-priority targets for inspections &lpar;Maya Goldman/Axios&rpar;](http://www.techmeme.com/250602/p21#a250602p21)
+ - [Rivian wants to make EV charging faster, smarter, and easier](https://www.theverge.com/news/678005/rivian-ev-charging-software-update-battery-fast-charging)
  - [Character.AI rolls out features like AvatarFX for video generation, plus Streams and Scenes for creating and sharing videos with characters on a new social feed &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250602/p20#a250602p20)
  - [Big redesign and more: What to expect in macOS 26 at WWDC 2025](https://appleinsider.com/articles/25/06/02/big-redesign-and-more-what-to-expect-in-macos-26-at-wwdc-2025?utm_medium=rss)
- - [Snowflake agrees to acquire Crunchy Data, a cloud-based database service that helps businesses and government agencies use PostgreSQL, a source says for ~$250M &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250602/p19#a250602p19)
- - [Neuralink raised a $650M Series E from ARK Invest, Founders Fund, G42, Human Capital, Sequoia, Thrive, and others; it was reportedly valued at ~$9B pre-money &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250602/p18#a250602p18)
- - [Best Internet Providers in Columbia, South Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-columbia-sc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Snowflake agrees to acquire Crunchy Data, a cloud-based database service that helps businesses and government agencies use PostgreSQL, a source says for ~$250M &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250602/p19#a250602p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

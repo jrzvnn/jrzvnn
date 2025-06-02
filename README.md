@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When she says you can&#39;t find someone like her, show her this.](http://9gag.com/gag/amoVVGV)
- - 😝 [The most important photographer in the crowd](http://9gag.com/gag/avyvxpq)
- - 💣 [The comments section did not survive.](http://9gag.com/gag/abA2Wyb)
+ - 😝 [Seriously, WTF????](http://9gag.com/gag/a9yXm11)
+ - 😝 [The fly thought it found a snack, but it was a one-way ticket.](http://9gag.com/gag/aYQ11Wx)
+ - 💣 [Totally remember that month. The CDs were everywhere.](http://9gag.com/gag/aAyX4wg)
  - 😝 [From viral to iconic! Just 7 days until the epic #69MemeDay on June 9! Get ready for the epic Meme of the Year showdown!](http://9gag.com/gag/aKGYYK3)
- - 👉 [The streets definitely remember.](http://9gag.com/gag/a9yX2OW)<!-- MEMES:END -->
+ - 👉 [Wait, is that Thangorodrim?](http://9gag.com/gag/a34WyZm)<!-- MEMES:END -->
 
 ---
 

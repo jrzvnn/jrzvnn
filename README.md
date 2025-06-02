@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Uber names longtime exec Andrew Macdonald as president and first COO since 2019; SVP of delivery Pierre-Dimitri Gore-Coty is leaving Uber after nearly 13 years &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250602/p24#a250602p24)
- - [ISP Frontier Communications settles a lawsuit from record labels that demanded broadband users accused of piracy be dropped; SCOTUS may hear Cox&#39;s similar case &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/250602/p23#a250602p23)
- - [Sources: Meta is prioritizing an ultralight Horizon OS headset with a compute puck, instead of a traditional Quest 4, to ship in 2026 &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250602/p22#a250602p22)
- - [Google Wallet is losing access to PayPal](https://www.theverge.com/news/678301/google-wallet-paypal-losing-access)<!-- TECH:END -->
+ - [Ukraine&amp;#8217;s drone strike isn&amp;#8217;t just an attack — it&amp;#8217;s first-person warfare](https://www.theverge.com/politics/678329/ukraine-drone-strike-attack-videos-social-media-russia)
+ - [Apple could increase MLB presence with Sunday night game streaming](https://appleinsider.com/articles/25/06/02/apple-could-increase-mlb-presence-with-sunday-night-game-streaming?utm_medium=rss)
+ - [Deals: M4 MacBook Air from $837, Samsung M8 monitor $300 off](https://appleinsider.com/articles/25/06/02/deals-m4-macbook-air-from-837-samsung-m8-monitor-300-off?utm_medium=rss)
+ - [Texas Right to Repair bill passes, heads to the governor’s desk](https://www.theverge.com/law/678334/right-to-repair-texas-hb-2963)
+ - [007 First Light: Here&#39;s What James Bond Might Be Up to in His Next Game, Based Mostly on My Hopes and Dreams](https://www.cnet.com/culture/entertainment/007-first-light-heres-what-james-bond-might-be-up-to-in-his-next-game-based-mostly-on-my-hopes-and-dreams/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

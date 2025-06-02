@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X aims to roll out an &quot;XChat&quot; messaging feature &quot;with encryption, vanishing messages and the ability to send any kind of file&quot; to all users this week &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250602/p15#a250602p15)
  - [Lighter than normal WWDC expected without significant Apple Intelligence upgrades](https://appleinsider.com/articles/25/06/01/lighter-than-normal-wwdc-expected-without-significant-apple-intelligence-uprgrades?utm_medium=rss)
  - [Panasonic’s 65-inch OLED TV is a great Father’s Day deal at $997](https://www.theverge.com/tech/677961/panasonic-oled-tv-4k-blu-ray-ps5-anker-battery-deal-sale)
  - [People Can Fly cancels two projects and will lay off workers](https://www.theverge.com/news/678017/people-can-fly-cancelled-projects-square-enix)
- - [Nvidia&amp;#8217;s Arm-powered gaming laptop could launch later this year with Alienware](https://www.theverge.com/news/678000/nvidia-arm-gaming-laptop-mediatek-alienware)
- - [Ncuti Gatwa is leaving Doctor Who after just two seasons](https://www.theverge.com/tv/677976/ncuti-gatwa-doctor-who-exit-billie-piper-the-war-between-the-land-and-the-sea)<!-- TECH:END -->
+ - [Nvidia&amp;#8217;s Arm-powered gaming laptop could launch later this year with Alienware](https://www.theverge.com/news/678000/nvidia-arm-gaming-laptop-mediatek-alienware)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

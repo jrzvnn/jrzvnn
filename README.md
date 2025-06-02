@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Footage going around of Ukrainian drones being launched from parked truck trailers in the far east of Russia today &lpar;and then hitting nearby military airfields&rpar;, crazy! &lpar;Also footage going around of the trailers self-destructing after launches were finished!&rpar;](http://9gag.com/gag/amoVxy4)
- - 😝 [Would you ?](http://9gag.com/gag/ajPKxwq)
- - 💣 [Peak relationship moment.](http://9gag.com/gag/an7DEyo)
+ - 😝 [That rock really said &#39;Final Destination&#39;.](http://9gag.com/gag/a7oNV0r)
+ - 😝 [Timmy&#39;s got other plans for Vicky](http://9gag.com/gag/aD2XVd7)
+ - 💣 [Oh my god! That&#39;s disgusting. Where?](http://9gag.com/gag/aryBZZy)
  - 😝 [From viral to iconic! Just 7 days until the epic #69MemeDay on June 9! Get ready for the epic Meme of the Year showdown!](http://9gag.com/gag/aKGYYK3)
- - 👉 [That&#39;s one enthusiastic high-five](http://9gag.com/gag/amoVMPV)<!-- MEMES:END -->
+ - 👉 [Wait, is that Thangorodrim?](http://9gag.com/gag/a34WyZm)<!-- MEMES:END -->
 
 ---
 

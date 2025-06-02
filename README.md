@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Glock-librarian edition](http://9gag.com/gag/an7DDqb)
- - 😝 [Wait, is that Thangorodrim?](http://9gag.com/gag/a34WyZm)
- - 💣 [The comments section did not survive.](http://9gag.com/gag/abA2Wyb)
+ - 😝 [Would you ?](http://9gag.com/gag/ajPKxwq)
+ - 😝 [Peak relationship moment.](http://9gag.com/gag/an7DEyo)
+ - 💣 [That&#39;s one enthusiastic high-five](http://9gag.com/gag/amoVMPV)
  - 😝 [From viral to iconic! Just 7 days until the epic #69MemeDay on June 9! Get ready for the epic Meme of the Year showdown!](http://9gag.com/gag/aKGYYK3)
- - 👉 [The most important photographer in the crowd](http://9gag.com/gag/avyvxpq)<!-- MEMES:END -->
+ - 👉 [Sleeping together...](http://9gag.com/gag/ae92xvW)<!-- MEMES:END -->
 
 ---
 

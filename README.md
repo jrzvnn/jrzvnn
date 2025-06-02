@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The comments section did not survive.](http://9gag.com/gag/abA2Wyb)
- - 😝 [The most important photographer in the crowd](http://9gag.com/gag/avyvxpq)
- - 💣 [He understood the assignment.](http://9gag.com/gag/aYQ1q8V)
  - 😝 [Oh my god! That&#39;s disgusting. Where?](http://9gag.com/gag/aryBZZy)
- - 👉 [Wait, is that Thangorodrim?](http://9gag.com/gag/a34WyZm)<!-- MEMES:END -->
+ - 😝 [Love this sport](http://9gag.com/gag/aD2XbgB)
+ - 💣 [Wow, that&#39;s a beautiful blue](http://9gag.com/gag/aO81Dm3)
+ - 😝 [Oysters clean water in 1 hour](http://9gag.com/gag/awy414D)
+ - 👉 [Peak relationship moment.](http://9gag.com/gag/an7DEyo)<!-- MEMES:END -->
 
 ---
 

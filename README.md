@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [28 Years Later honors digital heritage with a 20-camera iPhone rig](https://www.theverge.com/news/677914/28-years-later-iphone-20-rig-danny-boyle-camcorder)
  - [A look at Russian GRU Unit 29155&#39;s hacking department, which started out in 2012, and its involvement in cyber warfare and disinformation campaigns &lpar;The Insider&rpar;](http://www.techmeme.com/250602/p2#a250602p2)
  - [A deep dive into Apple TV&#39;s privacy features shows that Apple&#39;s streaming device is more private than the vast majority of alternatives, save for dumb TVs &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/250602/p1#a250602p1)
  - [Today&#39;s NYT Mini Crossword Answers for Monday, June 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-june-2/#ftag=CAD590a51e)
- - [Elad Gil, backer of Perplexity, Character.AI, Airbnb, Coinbase, and Stripe, invested in Enam Co., which aims to transform businesses with AI via PE roll-ups &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/250601/p11#a250601p11)
- - [Sources: Samsung and Perplexity in talks about an investment, preloading Perplexity&#39;s app on Samsung devices, adding its search to Samsung&#39;s browser, and more &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250601/p10#a250601p10)<!-- TECH:END -->
+ - [Elad Gil, backer of Perplexity, Character.AI, Airbnb, Coinbase, and Stripe, invested in Enam Co., which aims to transform businesses with AI via PE roll-ups &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/250601/p11#a250601p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

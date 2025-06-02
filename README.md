@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh my god! That&#39;s disgusting. Where?](http://9gag.com/gag/aryBZZy)
- - 😝 [Love this sport](http://9gag.com/gag/aD2XbgB)
- - 💣 [Wow, that&#39;s a beautiful blue](http://9gag.com/gag/aO81Dm3)
- - 😝 [Oysters clean water in 1 hour](http://9gag.com/gag/awy414D)
- - 👉 [Peak relationship moment.](http://9gag.com/gag/an7DEyo)<!-- MEMES:END -->
+ - 😝 [Peak relationship moment.](http://9gag.com/gag/an7DEyo)
+ - 😝 [Wow, that&#39;s a beautiful blue](http://9gag.com/gag/aO81Dm3)
+ - 💣 [The fly thought it found a snack, but it was a one-way ticket.](http://9gag.com/gag/aYQ11Wx)
+ - 😝 [The most important photographer in the crowd](http://9gag.com/gag/avyvxpq)
+ - 👉 [Love this sport](http://9gag.com/gag/aD2XbgB)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ncuti Gatwa is leaving Doctor Who after just two seasons](https://www.theverge.com/tv/677976/ncuti-gatwa-doctor-who-exit-billie-piper-the-war-between-the-land-and-the-sea)
+ - [MSI Titan 18 HX AI Review: The Ultimate Gaming Laptop](https://www.wired.com/review/msi-titan-18-hx-ai/)
+ - [The Verge hires Hayden Field as senior AI reporter](https://www.theverge.com/press-room/677945/the-verge-hires-hayden-field-as-senior-ai-reporter)
  - [Hands on with ThorBolt X1 &amp; Brilliant Gen 2, plus more smart home news on HomeKit Insider](https://appleinsider.com/articles/25/06/02/hands-on-with-thorbolt-x1-brilliant-gen-2-plus-more-smart-home-news-on-homekit-insider?utm_medium=rss)
- - [A UK government trial with 20K+ civil servants using Microsoft&#39;s Copilot AI for three months found a 26 minute average daily time saving, or two weeks per year &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250602/p14#a250602p14)
- - [MelGeek O2 mechanical keyboard review: Hardware sticks the landing, software is terrible](https://appleinsider.com/articles/25/06/02/melgeek-o2-mechanical-keyboard-review-hardware-sticks-the-landing-software-is-terrible?utm_medium=rss)
- - [iPad helped save concert pianist&#39;s career by beating stage fright](https://appleinsider.com/articles/25/06/02/ipad-helped-save-concert-pianists-career-by-beating-stage-fright?utm_medium=rss)
- - [Filing: neobank Chime plans to sell 26M shares in its IPO at $24 to $26, giving it a valuation between $10.3B and $11.1B; its two co-founders own 4% to 5% each &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/250602/p13#a250602p13)<!-- TECH:END -->
+ - [A UK government trial with 20K+ civil servants using Microsoft&#39;s Copilot AI for three months found a 26 minute average daily time saving, or two weeks per year &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250602/p14#a250602p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

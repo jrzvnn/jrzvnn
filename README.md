@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Germany&#39;s Federal Cartel Office warns Amazon that its price controls for marketplace retailers likely violate national and EU laws, in preliminary findings &lpar;Karin Matussek/Bloomberg&rpar;](http://www.techmeme.com/250602/p11#a250602p11)
  - [Moving sucks, but decluttering helps](https://www.theverge.com/tech/667059/moving-decluttering-organization-marie-kondo)
  - [Apple appeals against EU mandate that it freely share its technology](https://appleinsider.com/articles/25/06/02/apple-appeals-against-eu-mandate-that-it-freely-share-its-technology?utm_medium=rss)
  - [The EU Commission fines European takeaway groups Delivery Hero and Glovo €329M for taking part in an &quot;online food delivery cartel&quot;, closing a July 2024 probe &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/250602/p10#a250602p10)
- - [Wall Street giants like Blackstone, KKR, and BlackRock are pouring hundreds of billions into AI data centers, creating concerns of &quot;oversupply&quot; and a bubble &lpar;Maureen Farrell/New York Times&rpar;](http://www.techmeme.com/250602/p9#a250602p9)
- - [An interview with Jony Ive and Laurene Powell Jobs on tech&#39;s next chapter, meeting in 1997, Steve Jobs, Apple, Powell Jobs&#39; io investment in 2019, AI, and more &lpar;Matthew Garrahan/Financial Times&rpar;](http://www.techmeme.com/250602/p8#a250602p8)<!-- TECH:END -->
+ - [Wall Street giants like Blackstone, KKR, and BlackRock are pouring hundreds of billions into AI data centers, creating concerns of &quot;oversupply&quot; and a bubble &lpar;Maureen Farrell/New York Times&rpar;](http://www.techmeme.com/250602/p9#a250602p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

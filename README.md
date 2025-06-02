@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Seriously, WTF????](http://9gag.com/gag/a9yXm11)
- - 😝 [Oysters clean water in 1 hour](http://9gag.com/gag/awy414D)
- - 💣 [Insert pointing Spiderman meme](http://9gag.com/gag/avyv6jE)
- - 😝 [My crawl space could never.](http://9gag.com/gag/a2vb2dw)
- - 👉 [Peak relationship moment.](http://9gag.com/gag/an7DEyo)<!-- MEMES:END -->
+ - 😝 [Wait, is that Thangorodrim?](http://9gag.com/gag/a34WyZm)
+ - 😝 [Brazil is not for beginners](http://9gag.com/gag/aoy8Rp0)
+ - 💣 [Wow, that&#39;s a beautiful blue](http://9gag.com/gag/aO81Dm3)
+ - 😝 [You guys might have been right after all..](http://9gag.com/gag/aVv2Kyw)
+ - 👉 [The ungrateful](http://9gag.com/gag/azxZKXj)<!-- MEMES:END -->
 
 ---
 

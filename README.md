@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looks like I&#39;m getting booked.](http://9gag.com/gag/a87wKYQ)
+ - 😝 [The fly thought it found a snack, but it was a one-way ticket.](http://9gag.com/gag/aYQ11Wx)
  - 😝 [Very few will know where this is from](http://9gag.com/gag/ajPKKG8)
- - 💣 [My face exactly](http://9gag.com/gag/a2vb2Qp)
- - 😝 [When she says you can&#39;t find someone like her, show her this.](http://9gag.com/gag/amoVVGV)
- - 👉 [Glock-librarian edition](http://9gag.com/gag/an7DDqb)<!-- MEMES:END -->
+ - 💣 [I&#39;m not even mad, that&#39;s amazing grip!](http://9gag.com/gag/ajPKKyQ)
+ - 😝 [That&#39;s some ninja move](http://9gag.com/gag/apRAAGB)
+ - 👉 [He understood the assignment.](http://9gag.com/gag/aYQ1q8V)<!-- MEMES:END -->
 
 ---
 

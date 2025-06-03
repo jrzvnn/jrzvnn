@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a little surface rust, nothing to worry about.](http://9gag.com/gag/aryBqo6)
- - 😝 [Looks like I&#39;m getting booked.](http://9gag.com/gag/a87wKYQ)
- - 💣 [Very few will know where this is from](http://9gag.com/gag/ajPKKG8)
- - 😝 [When she says you can&#39;t find someone like her, show her this.](http://9gag.com/gag/amoVVGV)
- - 👉 [My face exactly](http://9gag.com/gag/a2vb2Qp)<!-- MEMES:END -->
+ - 😝 [Works on me and it will on you too!!](http://9gag.com/gag/aKGYYoW)
+ - 😝 [Learn these essential knots for various uses.](http://9gag.com/gag/aLnXAoP)
+ - 💣 [A little bookmark fun](http://9gag.com/gag/aKGYO0j)
+ - 😝 [When the beef is so serious you gotta call the President.](http://9gag.com/gag/awy4Y9r)
+ - 👉 [Well, maybe it pays for some people...](http://9gag.com/gag/a34Wbye)<!-- MEMES:END -->
 
 ---
 

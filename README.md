@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok expands Manage Topics, a feature that lets users customize how often specific topics appear in the For You feed, and adds AI-powered keyword filtering &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250603/p27#a250603p27)
- - [A pre-WWDC message to Apple retail staff does not mean new hardware](https://appleinsider.com/articles/25/06/03/a-pre-wwdc-message-to-apple-retail-staff-does-not-mean-new-hardware?utm_medium=rss)
- - [Nintendo says it didn&#39;t send any Switch 2 review units to outlets as &quot;important features and updates&quot; will only be available via an update on its June 5 launch &lpar;Andy Robinson/Video Games Chronicle&rpar;](http://www.techmeme.com/250603/p26#a250603p26)
- - [TikTok gives everyone more control over what’s on their For You page](https://www.theverge.com/news/678779/tiktok-for-you-feed-manage-topics-global-launch)
- - [Meta’s going to revive an old nuclear power plant](https://www.theverge.com/news/678784/metas-going-to-revive-an-old-nuclear-power-plant)<!-- TECH:END -->
+ - [Verge readers can get a rare discount on the smartphone-sized Boox Palma 2 e-reader](https://www.theverge.com/tech/678830/boox-palma-2-wellbots-deal-sale)
+ - [Apple Design Award winners for 2025 include Balatro, Watch Duty](https://appleinsider.com/articles/25/06/03/apple-design-award-winners-for-2025-include-balatro-watch-duty?utm_medium=rss)
+ - [A website for &quot;$TRUMP Wallet&quot; launches, saying it is &quot;The Official $TRUMP Wallet by President Trump&quot; powered by NFT service Magic Eden, and opens a waitlist &lpar;Molly White/Citation Needed&rpar;](http://www.techmeme.com/250603/p28#a250603p28)
+ - [Google quietly paused the rollout of its AI-powered ‘Ask Photos’ search feature](https://www.theverge.com/news/678858/google-photos-ask-photos-ai-search-rollout-pause)
+ - [TikTok expands Manage Topics, a feature that lets users customize how often specific topics appear in the For You feed, and adds AI-powered keyword filtering &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250603/p27#a250603p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

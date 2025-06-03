@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Indeed says CEO Chris Hyams is stepping down, replaced by parent Recruit Holdings CEO Hisayuki &quot;Deko&quot; Idekoba, who is returning to the role after six years &lpar;Chester Dawson/Bloomberg&rpar;](http://www.techmeme.com/250603/p13#a250603p13)
  - [Analysis: since his inauguration, President Trump posted 2,262 times on Truth Social in 132 days, 3x+ the volume of tweets in the same period of his first term &lpar;Washington Post&rpar;](http://www.techmeme.com/250603/p12#a250603p12)
  - [How to organize your finances for a move](https://www.theverge.com/how-to/667742/moving-costs-finances-money-how-to)
  - [iPhone 17 will not get a ProMotion display, new conflicting rumor claims](https://appleinsider.com/articles/25/06/03/iphone-17-will-not-get-a-promotion-display-new-conflicting-rumor-claims?utm_medium=rss)
- - [Meta agrees to acquire power from Constellation&#39;s operating Illinois nuclear plant, in a 20-year deal starting in mid-2027 when a state subsidy expires &lpar;Bloomberg&rpar;](http://www.techmeme.com/250603/p11#a250603p11)
- - [Sources: Xiaomi is among the Chinese tech companies most impacted by new US chip design export rules, affecting its new 3nm mobile chip made by TSMC in Taiwan &lpar;Financial Times&rpar;](http://www.techmeme.com/250603/p10#a250603p10)<!-- TECH:END -->
+ - [Meta agrees to acquire power from Constellation&#39;s operating Illinois nuclear plant, in a 20-year deal starting in mid-2027 when a state subsidy expires &lpar;Bloomberg&rpar;](http://www.techmeme.com/250603/p11#a250603p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

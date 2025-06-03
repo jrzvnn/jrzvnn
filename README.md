@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [HPE reports Q2 revenue up 6% YoY to $7.63B, vs. $7.46B est., Server revenue up 6% YoY to $4.1B, and says it expects a reduced impact from tariffs this year &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250603/p33#a250603p33)
  - [Anker’s new outdoor wireless speaker vibrates to shake off dust and sand](https://www.theverge.com/news/678980/anker-soundcore-boom-3i-rugged-outdoor-bluetooth-waterproof-speaker)
+ - [I Tried Microsoft&#39;s New Free AI Video Generator: Here&#39;s How to Use It](https://www.cnet.com/tech/services-and-software/i-tried-microsofts-new-free-ai-video-generator-heres-how-to-use-it/#ftag=CAD590a51e)
  - [Kaiko: the USD1 stablecoin launched by Trump&#39;s World Liberty Financial is off to a sluggish start, with muted inflows and little organic demand &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250603/p32#a250603p32)
- - [The Witcher 4 tech demo ran on a base PS5 to ‘show how much we can optimize’](https://www.theverge.com/games/678895/the-witcher-4-ue5-tech-demo-ps5-interview)
- - [visionOS 26 may eventually offer full support for PlayStation VR2 spatial controllers](https://appleinsider.com/articles/25/06/03/visionos-26-may-eventually-offer-full-support-for-playstation-vr2-spatial-controllers?utm_medium=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 4, #724](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-4-724/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

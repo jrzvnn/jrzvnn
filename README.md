@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My face exactly](http://9gag.com/gag/a2vb2Qp)
- - 😝 [Waiting for the little sister to spill the tea...](http://9gag.com/gag/aGy2OxX)
- - 💣 [He understood the assignment.](http://9gag.com/gag/aYQ1q8V)
+ - 😝 [Looks like I&#39;m getting booked.](http://9gag.com/gag/a87wKYQ)
  - 😝 [Very few will know where this is from](http://9gag.com/gag/ajPKKG8)
- - 👉 [That&#39;s some ninja move](http://9gag.com/gag/apRAAGB)<!-- MEMES:END -->
+ - 💣 [My face exactly](http://9gag.com/gag/a2vb2Qp)
+ - 😝 [When she says you can&#39;t find someone like her, show her this.](http://9gag.com/gag/amoVVGV)
+ - 👉 [Glock-librarian edition](http://9gag.com/gag/an7DDqb)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Five more iOS 26 features leak from a reliable source](https://appleinsider.com/articles/25/06/03/five-more-ios-26-features-leak-from-a-reliable-source?utm_medium=rss)
  - [The Trump administration announces plans to reorganize the US AI Safety Institute into the new Center for AI Standards and Innovation &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/250603/p39#a250603p39)
  - [Elon Musk calls Trump’s budget bill a ‘disgusting abomination’](https://www.theverge.com/elon-musk/679093/elon-musk-trump-budget-bill-abomination)
  - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [A federal judge temporarily blocks Florida from enforcing a law banning social media accounts for children under 14, saying the law is &quot;likely unconstitutional&quot; &lpar;Kate Payne/Associated Press&rpar;](http://www.techmeme.com/250603/p38#a250603p38)
- - [OpenAI updates its coding agent Codex with internet access, turned off by default, and expands availability to ChatGPT Plus users &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250603/p37#a250603p37)<!-- TECH:END -->
+ - [A federal judge temporarily blocks Florida from enforcing a law banning social media accounts for children under 14, saying the law is &quot;likely unconstitutional&quot; &lpar;Kate Payne/Associated Press&rpar;](http://www.techmeme.com/250603/p38#a250603p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

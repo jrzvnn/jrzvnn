@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [CEO C.C. Wei says TSMC expects record profit in 2025 despite geopolitical, tariff, and FX risks, and confirms it&#39;s not building a fab in the Middle East &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250603/p3#a250603p3)
+ - [Best Internet Providers in Louisville, Kentucky](https://www.cnet.com/home/internet/best-internet-providers-in-louisville-ky/#ftag=CAD590a51e)
  - [AI pioneer Yoshua Bengio launches LawZero, a nonprofit focused on safer AI; LawZero has raised $30M in donations, including from Skype co-founder Jaan Tallinn &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/250603/p2#a250603p2)
  - [15% Off Dell Coupon Codes | June 2025](https://www.wired.com/story/dell-coupon-code/)
- - [AirDoctor Coupon Codes: Up to $400 Off | June 2025](https://www.wired.com/story/airdoctor-coupon-code/)
- - [Sensor Tower: daily US users of PDD Holdings&#39; Temu fell by 58% in May; the US closed the &quot;de minimis&quot; loophole on May 2, and Temu then slashed its ad spending &lpar;Reuters&rpar;](http://www.techmeme.com/250603/p1#a250603p1)<!-- TECH:END -->
+ - [AirDoctor Coupon Codes: Up to $400 Off | June 2025](https://www.wired.com/story/airdoctor-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

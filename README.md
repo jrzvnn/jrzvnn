@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Polestar 4 now comes from South Korea instead of China](https://www.theverge.com/news/678655/polestar-4-2026-south-korea-manufacture-china)
- - [iFixit is retroactively giving the Nintendo Switch a 4/10 on repairability](https://www.theverge.com/news/678622/ifixit-nerfs-nintendo-switch-repair-score-battery-drift)
- - [I Tried Microsoft&#39;s New Free AI Video Generator: Here&#39;s How to Use It](https://www.cnet.com/tech/services-and-software/i-tried-microsofts-new-free-ai-video-generator-heres-how-to-use-it/#ftag=CAD590a51e)
- - [Hybrid Meat Is My Favorite Health Hack of 2025. Here&#39;s How It Works](https://www.cnet.com/news/not-ready-to-ditch-meat-but-want-to-eat-less-try-hybrid-meat-heres-how-it-works/#ftag=CAD590a51e)
- - [Egypt&#39;s foreign trade minister is asking for a local Apple Store](https://appleinsider.com/articles/25/06/03/egypts-foreign-trade-minister-is-asking-for-a-local-apple-store?utm_medium=rss)<!-- TECH:END -->
+ - [TikTok will give advertisers even more data on trends and users](https://www.theverge.com/news/678255/tiktok-advertiser-summit-ai-targeting-data-seo)
+ - [How AppLovin, which lets advertisers use IP addresses to track users, began eroding Google&#39;s ad market share and pushed Google to loosen its privacy stance &lpar;Catherine Perloff/The Information&rpar;](http://www.techmeme.com/250603/p24#a250603p24)
+ - [How the Farm Industry Spied on Animal Rights Activists and Pushed the FBI to Treat Them as Terrorists](https://www.wired.com/story/fbi-wmdd-dxe-animal-agriculture-alliance/)
+ - [Epic Games launches MetaHuman, its game developer tool to quickly create realistic digital human characters, now embedded as part of Unreal Engine 5.6 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250603/p23#a250603p23)
+ - [The Polestar 4 now comes from South Korea instead of China](https://www.theverge.com/news/678655/polestar-4-2026-south-korea-manufacture-china)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

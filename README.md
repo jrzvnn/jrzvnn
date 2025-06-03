@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My friend trying to flex but accidentally destroying the evidence.](http://9gag.com/gag/axyPPVK)
  - 😝 [Current World Champion Gukesh defeats Magnus Carlsen for the first time in classic chess.](http://9gag.com/gag/aKGYYQW)
- - 💣 [My face exactly](http://9gag.com/gag/a2vb2Qp)
- - 😝 [Can&#39;t wait](http://9gag.com/gag/a87wwqp)
- - 👉 [Looks like I&#39;m getting booked.](http://9gag.com/gag/a87wKYQ)<!-- MEMES:END -->
+ - 😝 [Very few will know where this is from](http://9gag.com/gag/ajPKKG8)
+ - 💣 [Looks like I&#39;m getting booked.](http://9gag.com/gag/a87wKYQ)
+ - 😝 [This is how the Ps2 sound was recorded](http://9gag.com/gag/a34WWZe)
+ - 👉 [That&#39;s some ninja move](http://9gag.com/gag/apRAAGB)<!-- MEMES:END -->
 
 ---
 

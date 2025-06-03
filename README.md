@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&amp;#8217;s NotebookLM now lets you share your notebook — and AI podcasts — publicly](https://www.theverge.com/news/678915/google-notebooklm-share-public-link)
- - [TechCrunch has shut down its operations in Europe; one former staffer says new owner Regent thought &quot;international startup coverage wasn&#39;t essential&quot; &lpar;Sifted&rpar;](http://www.techmeme.com/250603/p30#a250603p30)
- - [Researchers detail a technique Meta uses to glean some of its logged-in users&#39; browsing histories from Chromium-based browsers on Android via web identifiers &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/250603/p29#a250603p29)
- - [Razer&amp;#8217;s new mousepad wirelessly charges mice with a Logitech-style puck](https://www.theverge.com/news/678888/razer-hyperflux-v2-mouse-pad-wireless-charging)
- - [Looking Down While Reading This? Here&#39;s How to Spot and Correct Tech Neck](https://www.cnet.com/health/medical/how-to-spot-and-correct-tech-neck/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google&#39;s NotebookLM now lets users share notebooks and AI podcasts publicly; viewers can interact with AI audio overviews, ask questions, and read FAQs &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250603/p31#a250603p31)
+ - [This designer&#39;s vision offers a clear window into Apple&#39;s next big OS update](https://appleinsider.com/articles/25/06/03/this-designers-vision-offers-a-clear-window-into-apples-next-big-os-update?utm_medium=rss)
+ - [iPhone 18 Pro A20 chip rumored to get radical redesign, 2nm fab process](https://appleinsider.com/articles/25/06/03/iphone-18-pro-a20-chip-rumored-to-get-radical-redesign-2nm-fab-process?utm_medium=rss)
+ - [The 37 Best Shows on Apple TV+ Right Now &lpar;June 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
+ - [Google&amp;#8217;s NotebookLM now lets you share your notebook — and AI podcasts — publicly](https://www.theverge.com/news/678915/google-notebooklm-share-public-link)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

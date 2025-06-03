@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to organize your finances for a move](https://www.theverge.com/how-to/667742/moving-costs-finances-money-how-to)
+ - [iPhone 17 will not get a ProMotion display, new conflicting rumor claims](https://appleinsider.com/articles/25/06/03/iphone-17-will-not-get-a-promotion-display-new-conflicting-rumor-claims?utm_medium=rss)
  - [Meta agrees to acquire power from Constellation&#39;s operating Illinois nuclear plant, in a 20-year deal starting in mid-2027 when a state subsidy expires &lpar;Bloomberg&rpar;](http://www.techmeme.com/250603/p11#a250603p11)
  - [Sources: Xiaomi is among the Chinese tech companies most impacted by new US chip design export rules, affecting its new 3nm mobile chip made by TSMC in Taiwan &lpar;Financial Times&rpar;](http://www.techmeme.com/250603/p10#a250603p10)
- - [20 Best Deals on Father&#39;s Day Gifts &lpar;2025&rpar;](https://www.wired.com/story/fathers-day-deals-2025/)
- - [Germany&#39;s data protection commission fines Vodafone a record €45M due to data privacy violations linked to malicious behavior by third-party sales agents &lpar;Karin Matussek/Bloomberg&rpar;](http://www.techmeme.com/250603/p9#a250603p9)
- - [Bing lets you use OpenAI’s Sora video generator for free](https://www.theverge.com/news/678446/microsoft-bing-video-creator-openai-sora-ai-generator)<!-- TECH:END -->
+ - [20 Best Deals on Father&#39;s Day Gifts &lpar;2025&rpar;](https://www.wired.com/story/fathers-day-deals-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

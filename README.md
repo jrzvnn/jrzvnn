@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ &#39;Slow Horses&#39; season 5 will start soon](https://appleinsider.com/articles/25/06/03/apple-tv-slow-horses-season-5-will-start-soon?utm_medium=rss)
- - [Amazon has leaked Philips’ new ambient wall light](https://www.theverge.com/news/678544/philips-hue-play-smart-wall-washer-led-ambient-colorcast)
- - [Epic showed off Unreal Engine 5 with an impressive Witcher 4 tech demo](https://www.theverge.com/news/678463/unreal-engine-5-witcher-4-tech-demo)
- - [Meta reportedly sidelined &amp;#8216;Quest 4&amp;#8217; designs for a goggles-like mixed-reality headset](https://www.theverge.com/news/678577/meta-lightweight-mixed-reality-headset-goggles-puffin-quest)
- - [Playstation is holding its State of Play summer showcase this week](https://www.theverge.com/news/669527/playstation-state-of-play-summer-2025-ps5)<!-- TECH:END -->
+ - [One company&amp;#8217;s quest for the perfect charger](https://www.theverge.com/the-vergecast/678616/universal-charger-powercord-crypto-trump-vergecast)
+ - [Epic is making it easier to create MetaHumans](https://www.theverge.com/news/678403/epic-games-metahumans-unreal-engine)
+ - [Ciroos.AI, whose AI-powered site reliability engineering tool built on MPC and A2A helps businesses automate operations, emerges from stealth and raised $21M &lpar;Gina Narcisi/CRN&rpar;](http://www.techmeme.com/250603/p20#a250603p20)
+ - [“Mario Kart World” Devs Broke Their Own Rule on Who Gets to Drive](https://www.wired.com/story/mario-kart-world-everyone-gets-to-drive/)
+ - [&#39;Mario Kart World&#39; Races Are More Chaotic—and Better—Than Ever](https://www.wired.com/story/mario-kart-world-first-impressions/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

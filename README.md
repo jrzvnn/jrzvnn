@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m not even mad, that&#39;s amazing grip!](http://9gag.com/gag/ajPKKyQ)
  - 😝 [Now that summer&#39;s here, don&#39;t let a $30 summer dress cost you 18 years in child support](http://9gag.com/gag/agm2Epr)
- - 💣 [Current World Champion Gukesh defeats Magnus Carlsen for the first time in classic chess.](http://9gag.com/gag/aKGYYQW)
- - 😝 [Shout out to one of the dumbest f**king scenes in movie history](http://9gag.com/gag/ajPKRDp)
- - 👉 [Very few will know where this is from](http://9gag.com/gag/ajPKKG8)<!-- MEMES:END -->
+ - 😝 [Is this where the myth came from?](http://9gag.com/gag/an7DEAL)
+ - 💣 [Just kidding... Its sports](http://9gag.com/gag/ae9222p)
+ - 😝 [Current World Champion Gukesh defeats Magnus Carlsen for the first time in classic chess.](http://9gag.com/gag/aKGYYQW)
+ - 👉 [I&#39;m not even mad, that&#39;s amazing grip!](http://9gag.com/gag/ajPKKyQ)<!-- MEMES:END -->
 
 ---
 

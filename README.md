@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [My friend trying to flex but accidentally destroying the evidence.](http://9gag.com/gag/axyPPVK)
- - 😝 [Can&#39;t wait](http://9gag.com/gag/a87wwqp)
+ - 😝 [Current World Champion Gukesh defeats Magnus Carlsen for the first time in classic chess.](http://9gag.com/gag/aKGYYQW)
  - 💣 [My face exactly](http://9gag.com/gag/a2vb2Qp)
- - 😝 [He understood the assignment.](http://9gag.com/gag/aYQ1q8V)
- - 👉 [That&#39;s some ninja move](http://9gag.com/gag/apRAAGB)<!-- MEMES:END -->
+ - 😝 [Can&#39;t wait](http://9gag.com/gag/a87wwqp)
+ - 👉 [Looks like I&#39;m getting booked.](http://9gag.com/gag/a87wKYQ)<!-- MEMES:END -->
 
 ---
 

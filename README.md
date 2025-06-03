@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sensor Tower: daily US users of PDD Holdings&#39; Temu fell by 58% in May; the US closed the &quot;de minimis&quot; loophole on May 2, and Temu then slashed its ad spending &lpar;Reuters&rpar;](http://www.techmeme.com/250603/p1#a250603p1)
  - [TikTok isn’t really working right now](https://www.theverge.com/news/678410/tiktok-is-not-loading-outage-comments-error-edgesuiite)
  - [A software developer explains how LLMs, especially AI agents, help automate tedious coding tasks and addresses concerns like hallucinations, job loss, and more &lpar;Thomas Ptacek/Fly&rpar;](http://www.techmeme.com/250602/p33#a250602p33)
- - [iPhone 17 Air Rumors and Leaks: Could a Skinny Outpace the Base?](https://www.cnet.com/tech/mobile/every-iphone-17-air-rumor-what-to-know-about-a-slim-new-iphone/#ftag=CAD590a51e)
- - [Aerones, which makes robots that can service wind turbines in about half the time of humans, raised $62M led by Activate Capital and S2G Investments &lpar;Virginia Furness/Reuters&rpar;](http://www.techmeme.com/250602/p32#a250602p32)
- - [&#39;A Beautiful Boost&#39;: Lake Tahoe Reps Are Thrilled by Apple&#39;s Reported New Mac OS Name](https://www.cnet.com/tech/computing/apples-macos-reveal-at-wwdc-what-the-new-tahoe-name-says-about-whats-coming/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, June 3](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-june-3/#ftag=CAD590a51e)
+ - [iPhone 17 Air Rumors and Leaks: Could a Skinny Outpace the Base?](https://www.cnet.com/tech/mobile/every-iphone-17-air-rumor-what-to-know-about-a-slim-new-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

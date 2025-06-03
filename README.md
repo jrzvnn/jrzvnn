@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When she says you can&#39;t find someone like her, show her this.](http://9gag.com/gag/amoVVGV)
- - 😝 [Now that summer&#39;s here, don&#39;t let a $30 summer dress cost you 18 years in child support](http://9gag.com/gag/agm2Epr)
- - 💣 [Sentence](http://9gag.com/gag/aqyzWoP)
- - 😝 [I&#39;m not even mad, that&#39;s amazing grip!](http://9gag.com/gag/ajPKKyQ)
- - 👉 [Is this where the myth came from?](http://9gag.com/gag/an7DEAL)<!-- MEMES:END -->
+ - 😝 [Blud only took 3 seconds to turncoat](http://9gag.com/gag/aZZ2RMV)
+ - 😝 [Is this where the myth came from?](http://9gag.com/gag/an7DEAL)
+ - 💣 [Now that summer&#39;s here, don&#39;t let a $30 summer dress cost you 18 years in child support](http://9gag.com/gag/agm2Epr)
+ - 😝 [A lil snickers](http://9gag.com/gag/a6ZpGO2)
+ - 👉 [Sentence](http://9gag.com/gag/aqyzWoP)<!-- MEMES:END -->
 
 ---
 

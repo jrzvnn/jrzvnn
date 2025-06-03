@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When she says you can&#39;t find someone like her, show her this.](http://9gag.com/gag/amoVVGV)
- - 😝 [He understood the assignment.](http://9gag.com/gag/aYQ1q8V)
- - 💣 [Just a little surface rust, nothing to worry about.](http://9gag.com/gag/aryBqo6)
  - 😝 [Sentence](http://9gag.com/gag/aqyzWoP)
- - 👉 [I&#39;m not even mad, that&#39;s amazing grip!](http://9gag.com/gag/ajPKKyQ)<!-- MEMES:END -->
+ - 😝 [Just kidding... Its sports](http://9gag.com/gag/ae9222p)
+ - 💣 [The real work behind your tequila shot](http://9gag.com/gag/aXP2Wxz)
+ - 😝 [Now that summer&#39;s here, don&#39;t let a $30 summer dress cost you 18 years in child support](http://9gag.com/gag/agm2Epr)
+ - 👉 [The fly thought it found a snack, but it was a one-way ticket.](http://9gag.com/gag/aYQ11Wx)<!-- MEMES:END -->
 
 ---
 

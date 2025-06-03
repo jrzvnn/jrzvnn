@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a little surface rust, nothing to worry about.](http://9gag.com/gag/aryBqo6)
- - 😝 [When she says you can&#39;t find someone like her, show her this.](http://9gag.com/gag/amoVVGV)
- - 💣 [I&#39;m not even mad, that&#39;s amazing grip!](http://9gag.com/gag/ajPKKyQ)
- - 😝 [Blud only took 3 seconds to turncoat](http://9gag.com/gag/aZZ2RMV)
- - 👉 [My face exactly](http://9gag.com/gag/a2vb2Qp)<!-- MEMES:END -->
+ - 😝 [Current World Champion Gukesh defeats Magnus Carlsen for the first time in classic chess.](http://9gag.com/gag/aKGYYQW)
+ - 😝 [My face exactly](http://9gag.com/gag/a2vb2Qp)
+ - 💣 [Just kidding... Its sports](http://9gag.com/gag/ae9222p)
+ - 😝 [I&#39;m not even mad, that&#39;s amazing grip!](http://9gag.com/gag/ajPKKyQ)
+ - 👉 [When she says you can&#39;t find someone like her, show her this.](http://9gag.com/gag/amoVVGV)<!-- MEMES:END -->
 
 ---
 

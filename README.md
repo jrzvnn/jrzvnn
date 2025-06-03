@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When the beef is so serious you gotta call the President.](http://9gag.com/gag/awy4Y9r)
  - 😝 [Hell yeah](http://9gag.com/gag/an7DDVn)
- - 💣 [Well, maybe it pays for some people...](http://9gag.com/gag/a34Wbye)
- - 😝 [Monday](http://9gag.com/gag/a7oNnbe)
- - 👉 [Parkour!](http://9gag.com/gag/aGy2OYz)<!-- MEMES:END -->
+ - 😝 [Well, maybe it pays for some people...](http://9gag.com/gag/a34Wbye)
+ - 💣 [Monday](http://9gag.com/gag/a7oNnbe)
+ - 😝 [Parkour!](http://9gag.com/gag/aGy2OYz)
+ - 👉 [Expectation and reality](http://9gag.com/gag/a0eEEEB)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a little surface rust, nothing to worry about.](http://9gag.com/gag/aryBqo6)
  - 😝 [Habibi come to DBX and bring Porta Potty](http://9gag.com/gag/aryBxBK)
- - 💣 [Is this where the myth came from?](http://9gag.com/gag/an7DEAL)
+ - 😝 [When she says you can&#39;t find someone like her, show her this.](http://9gag.com/gag/amoVVGV)
+ - 💣 [The real work behind your tequila shot](http://9gag.com/gag/aXP2Wxz)
  - 😝 [From viral to iconic! Just 7 days until the epic #69MemeDay on June 9! Get ready for the epic Meme of the Year showdown!](http://9gag.com/gag/aKGYYK3)
- - 👉 [When she says you can&#39;t find someone like her, show her this.](http://9gag.com/gag/amoVVGV)<!-- MEMES:END -->
+ - 👉 [My face exactly](http://9gag.com/gag/a2vb2Qp)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [3 Days](http://9gag.com/gag/aD2XQp9)
- - 😝 [An open challenge to the universe, manifested in questionable facial hair choices.](http://9gag.com/gag/a4PqWeA)
- - 💣 [I&#39;m not even mad, that&#39;s amazing grip!](http://9gag.com/gag/ajPKKyQ)
- - 😝 [Shocking safety Tip: A cop came to my high school and told the girls \u201cyou have a better chance of surviving a gun shot than a man who takes you to a 2nd location\u201d never let a man force you into his car even at gunpoint`](http://9gag.com/gag/abA2Qrp)
- - 👉 [Now that summer&#39;s here, don&#39;t let a $30 summer dress cost you 18 years in child support](http://9gag.com/gag/agm2Epr)<!-- MEMES:END -->
+ - 😝 [Why did they fail?](http://9gag.com/gag/aAyXOBd)
+ - 😝 [The troll toll](http://9gag.com/gag/aW42RvA)
+ - 💣 [My friend trying to flex but accidentally destroying the evidence.](http://9gag.com/gag/axyPPVK)
+ - 😝 [The internet responds to Tinder&#39;s height filter debate.](http://9gag.com/gag/a87wKnd)
+ - 👉 [This is how the Ps2 sound was recorded](http://9gag.com/gag/a34WWZe)<!-- MEMES:END -->
 
 ---
 

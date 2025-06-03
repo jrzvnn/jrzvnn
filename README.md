@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Playstation is holding its State of Play summer showcase this week](https://www.theverge.com/news/669527/playstation-state-of-play-summer-2025-ps5)
- - [Broadcom begins shipping its Tomahawk 6 data center switch chips, which it says can perform the work of six previous-gen chips to improve GPU utilization rates &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250603/p19#a250603p19)
- - [Adobe launches a Photoshop app for Android in beta for devices running Android 11 or later with 6GB+ of RAM, including core desktop features like layering &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250603/p18#a250603p18)
- - [Huawei Pura X review: the ~$1,050, China-only clamshell is Huawei&#39;s first flagship running HarmonyOS 5, with novel ergonomics and an incomplete app ecosystem &lpar;Bloomberg&rpar;](http://www.techmeme.com/250603/p17#a250603p17)
- - [Nothing Phone 3: Launch Date Confirmed for the Company&#39;s &#39;First True Flagship&#39;](https://www.cnet.com/tech/mobile/nothing-phone-3-launch-date-confirmed-for-companys-first-true-flagship/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple TV+ &#39;Slow Horses&#39; season 5 will start soon](https://appleinsider.com/articles/25/06/03/apple-tv-slow-horses-season-5-will-start-soon?utm_medium=rss)
+ - [Amazon has leaked Philips’ new ambient wall light](https://www.theverge.com/news/678544/philips-hue-play-smart-wall-washer-led-ambient-colorcast)
+ - [Epic showed off Unreal Engine 5 with an impressive Witcher 4 tech demo](https://www.theverge.com/news/678463/unreal-engine-5-witcher-4-tech-demo)
+ - [Meta reportedly sidelined &amp;#8216;Quest 4&amp;#8217; designs for a goggles-like mixed-reality headset](https://www.theverge.com/news/678577/meta-lightweight-mixed-reality-headset-goggles-puffin-quest)
+ - [Playstation is holding its State of Play summer showcase this week](https://www.theverge.com/news/669527/playstation-state-of-play-summer-2025-ps5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

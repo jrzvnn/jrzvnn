@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your masseuse takes the &#39;deep tissue&#39; request seriously.](http://9gag.com/gag/a1mLVO8)
+ - 😝 [Seriously, WTF????](http://9gag.com/gag/a9yXm11)
  - 😝 [Sentence](http://9gag.com/gag/aqyzWoP)
- - 💣 [Looks like I&#39;m getting booked.](http://9gag.com/gag/a87wKYQ)
+ - 💣 [Habibi come to DBX and bring Porta Potty](http://9gag.com/gag/aryBxBK)
  - 😝 [From viral to iconic! Just 7 days until the epic #69MemeDay on June 9! Get ready for the epic Meme of the Year showdown!](http://9gag.com/gag/aKGYYK3)
- - 👉 [The streets definitely remember.](http://9gag.com/gag/a9yX2OW)<!-- MEMES:END -->
+ - 👉 [Just a little surface rust, nothing to worry about.](http://9gag.com/gag/aryBqo6)<!-- MEMES:END -->
 
 ---
 

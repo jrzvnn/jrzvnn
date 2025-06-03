@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Works on me and it will on you too!!](http://9gag.com/gag/aKGYYoW)
- - 😝 [Learn these essential knots for various uses.](http://9gag.com/gag/aLnXAoP)
- - 💣 [A little bookmark fun](http://9gag.com/gag/aKGYO0j)
- - 😝 [When the beef is so serious you gotta call the President.](http://9gag.com/gag/awy4Y9r)
- - 👉 [Well, maybe it pays for some people...](http://9gag.com/gag/a34Wbye)<!-- MEMES:END -->
+ - 😝 [Looks like I&#39;m getting booked.](http://9gag.com/gag/a87wKYQ)
+ - 😝 [I&#39;m not even mad, that&#39;s amazing grip!](http://9gag.com/gag/ajPKKyQ)
+ - 💣 [Just needs a little polish.](http://9gag.com/gag/a2vb2bO)
+ - 😝 [Pedestrian Crossing Fail in Turkey](http://9gag.com/gag/avyv9g5)
+ - 👉 [Current World Champion Gukesh defeats Magnus Carlsen for the first time in classic chess.](http://9gag.com/gag/aKGYYQW)<!-- MEMES:END -->
 
 ---
 

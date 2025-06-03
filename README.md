@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Glock-librarian edition](http://9gag.com/gag/an7DDqb)
  - 😝 [Current World Champion Gukesh defeats Magnus Carlsen for the first time in classic chess.](http://9gag.com/gag/aKGYYQW)
- - 😝 [The fly thought it found a snack, but it was a one-way ticket.](http://9gag.com/gag/aYQ11Wx)
- - 💣 [He understood the assignment.](http://9gag.com/gag/aYQ1q8V)
- - 😝 [Looks like I&#39;m getting booked.](http://9gag.com/gag/a87wKYQ)
+ - 💣 [Now that summer&#39;s here, don&#39;t let a $30 summer dress cost you 18 years in child support](http://9gag.com/gag/agm2Epr)
+ - 😝 [Can&#39;t wait](http://9gag.com/gag/a87wwqp)
  - 👉 [Sentence](http://9gag.com/gag/aqyzWoP)<!-- MEMES:END -->
 
 ---

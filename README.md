@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My face exactly](http://9gag.com/gag/a2vb2Qp)
- - 😝 [Very few will know where this is from](http://9gag.com/gag/ajPKKG8)
- - 💣 [The fly thought it found a snack, but it was a one-way ticket.](http://9gag.com/gag/aYQ11Wx)
+ - 😝 [Works on me and it will on you too!!](http://9gag.com/gag/aKGYYoW)
+ - 😝 [Learn these essential knots for various uses.](http://9gag.com/gag/aLnXAoP)
+ - 💣 [When the beef is so serious you gotta call the President.](http://9gag.com/gag/awy4Y9r)
  - 😝 [From viral to iconic! Just 7 days until the epic #69MemeDay on June 9! Get ready for the epic Meme of the Year showdown!](http://9gag.com/gag/aKGYYK3)
- - 👉 [Just a little surface rust, nothing to worry about.](http://9gag.com/gag/aryBqo6)<!-- MEMES:END -->
+ - 👉 [A little bookmark fun](http://9gag.com/gag/aKGYO0j)<!-- MEMES:END -->
 
 ---
 

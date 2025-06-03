@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Heh wife material](http://9gag.com/gag/aQz2y3e)
- - 😝 [Current World Champion Gukesh defeats Magnus Carlsen for the first time in classic chess.](http://9gag.com/gag/aKGYYQW)
- - 💣 [Waiting for the little sister to spill the tea...](http://9gag.com/gag/aGy2OxX)
- - 😝 [I&#39;m not even mad, that&#39;s amazing grip!](http://9gag.com/gag/ajPKKyQ)
- - 👉 [Parkour!](http://9gag.com/gag/aGy2OYz)<!-- MEMES:END -->
+ - 😝 [Why did they fail?](http://9gag.com/gag/aAyXOBd)
+ - 😝 [The fly thought it found a snack, but it was a one-way ticket.](http://9gag.com/gag/aYQ11Wx)
+ - 💣 [My face exactly](http://9gag.com/gag/a2vb2Qp)
+ - 😝 [When she says you can&#39;t find someone like her, show her this.](http://9gag.com/gag/amoVVGV)
+ - 👉 [I&#39;m not even mad, that&#39;s amazing grip!](http://9gag.com/gag/ajPKKyQ)<!-- MEMES:END -->
 
 ---
 

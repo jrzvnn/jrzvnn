@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft, Google, CrowdStrike, and Palo Alto plan a public glossary of state-sponsored hacking groups to ease confusion over the spread of unofficial aliases &lpar;Reuters&rpar;](http://www.techmeme.com/250602/p30#a250602p30)
- - [Sources: Elon Musk is selling $5B in debt for xAI at a double-digit interest rate, with demand already exceeding $3.5B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250602/p29#a250602p29)
- - [Microsoft announces new Windows changes in response to the DMA for EEA users, including Edge not prompting users to set it as the default unless it is opened &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/250602/p28#a250602p28)
- - [Apple could buoy Apple TV+ with MLB Sunday Night Baseball streaming rights](https://appleinsider.com/articles/25/06/02/apple-could-increase-mlb-presence-with-sunday-night-game-streaming?utm_medium=rss)
- - [Sources: the FTC is investigating whether roughly a dozen advertising and advocacy groups violated antitrust law by coordinating boycotts among advertisers &lpar;New York Times&rpar;](http://www.techmeme.com/250602/p27#a250602p27)<!-- TECH:END -->
+ - [Aerones, which makes robots that can service wind turbines in about half the time of humans, raised $62M led by Activate Capital and S2G Investments &lpar;Virginia Furness/Reuters&rpar;](http://www.techmeme.com/250602/p32#a250602p32)
+ - [&#39;A Beautiful Boost&#39;: Lake Tahoe Reps Are Thrilled by Apple&#39;s Reported New Mac OS Name](https://www.cnet.com/tech/computing/apples-macos-reveal-at-wwdc-what-the-new-tahoe-name-says-about-whats-coming/#ftag=CAD590a51e)
+ - [Apple Reportedly Changing Numbering System For iOS, Choosing Tahoe for Mac OS Name](https://www.cnet.com/tech/services-and-software/apple-reportedly-changing-software-naming-ios-26-not-ios-19-is-next/#ftag=CAD590a51e)
+ - [Death to Gmail? Google DeepMind CEO Wants AI to Solve This One Annoying Problem](https://www.cnet.com/tech/services-and-software/death-to-gmail-google-deepmind-ceo-wants-ai-to-solve-this-one-annoying-problem/#ftag=CAD590a51e)
+ - [Google is ending PayPal account integration in Google Wallet for US users, effective June 13, after stopping new PayPal account linking in April &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/250602/p31#a250602p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

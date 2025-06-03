@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok will give advertisers even more data on trends and users](https://www.theverge.com/news/678255/tiktok-advertiser-summit-ai-targeting-data-seo)
- - [How AppLovin, which lets advertisers use IP addresses to track users, began eroding Google&#39;s ad market share and pushed Google to loosen its privacy stance &lpar;Catherine Perloff/The Information&rpar;](http://www.techmeme.com/250603/p24#a250603p24)
- - [How the Farm Industry Spied on Animal Rights Activists and Pushed the FBI to Treat Them as Terrorists](https://www.wired.com/story/fbi-wmdd-dxe-animal-agriculture-alliance/)
- - [Epic Games launches MetaHuman, its game developer tool to quickly create realistic digital human characters, now embedded as part of Unreal Engine 5.6 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250603/p23#a250603p23)
- - [The Polestar 4 now comes from South Korea instead of China](https://www.theverge.com/news/678655/polestar-4-2026-south-korea-manufacture-china)<!-- TECH:END -->
+ - [Nintendo says it didn&#39;t send any Switch 2 review units to outlets as &quot;important features and updates&quot; will only be available via an update on its June 5 launch &lpar;Andy Robinson/Video Games Chronicle&rpar;](http://www.techmeme.com/250603/p26#a250603p26)
+ - [TikTok gives everyone more control over what’s on their For You page](https://www.theverge.com/news/678779/tiktok-for-you-feed-manage-topics-global-launch)
+ - [Meta’s going to revive an old nuclear power plant](https://www.theverge.com/news/678784/metas-going-to-revive-an-old-nuclear-power-plant)
+ - [Some researchers say it looks like DeepSeek may have used Google Gemini to help train its R1-0528 reasoning model &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250603/p25#a250603p25)
+ - [TikTok will give advertisers even more data on trends and users](https://www.theverge.com/news/678255/tiktok-advertiser-summit-ai-targeting-data-seo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

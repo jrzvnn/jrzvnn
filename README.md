@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where did the cornucopia go?! I KNOW I saw it](http://9gag.com/gag/aNDR4nK)
+ - 😝 [Watch the floodgates open one by one](http://9gag.com/gag/a7oNpVe)
  - 😝 [The fly thought it found a snack, but it was a one-way ticket.](http://9gag.com/gag/aYQ11Wx)
- - 💣 [The real work behind your tequila shot](http://9gag.com/gag/aXP2Wxz)
+ - 💣 [Glock-librarian edition](http://9gag.com/gag/an7DDqb)
  - 😝 [From viral to iconic! Just 7 days until the epic #69MemeDay on June 9! Get ready for the epic Meme of the Year showdown!](http://9gag.com/gag/aKGYYK3)
- - 👉 [Glock-librarian edition](http://9gag.com/gag/an7DDqb)<!-- MEMES:END -->
+ - 👉 [Looks like I&#39;m getting booked.](http://9gag.com/gag/a87wKYQ)<!-- MEMES:END -->
 
 ---
 

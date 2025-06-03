@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Witcher 4 tech demo ran on a base PS5 to ‘show how much we can optimize’](https://www.theverge.com/games/678895/the-witcher-4-ue5-tech-demo-ps5-interview)
+ - [visionOS 26 may eventually offer full support for PlayStation VR2 spatial controllers](https://appleinsider.com/articles/25/06/03/visionos-26-may-eventually-offer-full-support-for-playstation-vr2-spatial-controllers?utm_medium=rss)
  - [Google&#39;s NotebookLM now lets users share notebooks and AI podcasts publicly; viewers can interact with AI audio overviews, ask questions, and read FAQs &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250603/p31#a250603p31)
  - [This designer&#39;s vision offers a clear window into Apple&#39;s next big OS update](https://appleinsider.com/articles/25/06/03/this-designers-vision-offers-a-clear-window-into-apples-next-big-os-update?utm_medium=rss)
- - [iPhone 18 Pro A20 chip rumored to get radical redesign, 2nm fab process](https://appleinsider.com/articles/25/06/03/iphone-18-pro-a20-chip-rumored-to-get-radical-redesign-2nm-fab-process?utm_medium=rss)
- - [The 37 Best Shows on Apple TV+ Right Now &lpar;June 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
- - [Google&amp;#8217;s NotebookLM now lets you share your notebook — and AI podcasts — publicly](https://www.theverge.com/news/678915/google-notebooklm-share-public-link)<!-- TECH:END -->
+ - [iPhone 18 Pro A20 chip rumored to get radical redesign, 2nm fab process](https://appleinsider.com/articles/25/06/03/iphone-18-pro-a20-chip-rumored-to-get-radical-redesign-2nm-fab-process?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

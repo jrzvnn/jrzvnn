@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s 2024 M4 MacBook Pro with a 1TB SSD has never been this cheap](https://www.theverge.com/tech/678617/apple-macbook-pro-m4-1tb-laptop-deal-sale-amazon)
  - [Tel Aviv-based Speedata, which is designing analytics processing units for big data workloads, raised a $44M Series B, aims to showcase its first APU this month &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/250603/p21#a250603p21)
  - [One company&amp;#8217;s quest for the perfect charger](https://www.theverge.com/the-vergecast/678616/universal-charger-powercord-crypto-trump-vergecast)
  - [Epic is making it easier to create MetaHumans](https://www.theverge.com/news/678403/epic-games-metahumans-unreal-engine)
- - [Ciroos.AI, whose AI-powered site reliability engineering tool built on MPC and A2A helps businesses automate operations, emerges from stealth and raised $21M &lpar;Gina Narcisi/CRN&rpar;](http://www.techmeme.com/250603/p20#a250603p20)
- - [I Played Hours of Mario Kart World and Used GameChat on the Switch 2. I&#39;m Hooked](https://www.cnet.com/tech/gaming/i-played-hours-of-mario-kart-world-and-used-gamechat-on-the-switch-2-im-hooked/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ciroos.AI, whose AI-powered site reliability engineering tool built on MPC and A2A helps businesses automate operations, emerges from stealth and raised $21M &lpar;Gina Narcisi/CRN&rpar;](http://www.techmeme.com/250603/p20#a250603p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

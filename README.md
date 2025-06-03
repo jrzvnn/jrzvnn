@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looks like I&#39;m getting booked.](http://9gag.com/gag/a87wKYQ)
- - 😝 [I&#39;m not even mad, that&#39;s amazing grip!](http://9gag.com/gag/ajPKKyQ)
- - 💣 [Just needs a little polish.](http://9gag.com/gag/a2vb2bO)
+ - 😝 [Current World Champion Gukesh defeats Magnus Carlsen for the first time in classic chess.](http://9gag.com/gag/aKGYYQW)
+ - 😝 [Just a little surface rust, nothing to worry about.](http://9gag.com/gag/aryBqo6)
+ - 💣 [Yeeeeeeah...](http://9gag.com/gag/aoy88y3)
  - 😝 [Pedestrian Crossing Fail in Turkey](http://9gag.com/gag/avyv9g5)
- - 👉 [Current World Champion Gukesh defeats Magnus Carlsen for the first time in classic chess.](http://9gag.com/gag/aKGYYQW)<!-- MEMES:END -->
+ - 👉 [When she says you can&#39;t find someone like her, show her this.](http://9gag.com/gag/amoVVGV)<!-- MEMES:END -->
 
 ---
 

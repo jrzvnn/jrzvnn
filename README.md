@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Verge readers can get a rare discount on the smartphone-sized Boox Palma 2 e-reader](https://www.theverge.com/tech/678830/boox-palma-2-wellbots-deal-sale)
  - [Apple Design Award winners for 2025 include Balatro, Watch Duty](https://appleinsider.com/articles/25/06/03/apple-design-award-winners-for-2025-include-balatro-watch-duty?utm_medium=rss)
+ - [New Footage Confirms the Switch 2 Versions of Pokemon Scarlet and Violet Run at 60 FPS](https://www.cnet.com/tech/gaming/new-footage-confirms-the-switch-2-versions-of-pokemon-scarlet-and-violet-run-at-60-fps/#ftag=CAD590a51e)
  - [A website for &quot;$TRUMP Wallet&quot; launches, saying it is &quot;The Official $TRUMP Wallet by President Trump&quot; powered by NFT service Magic Eden, and opens a waitlist &lpar;Molly White/Citation Needed&rpar;](http://www.techmeme.com/250603/p28#a250603p28)
- - [Google quietly paused the rollout of its AI-powered ‘Ask Photos’ search feature](https://www.theverge.com/news/678858/google-photos-ask-photos-ai-search-rollout-pause)
- - [TikTok expands Manage Topics, a feature that lets users customize how often specific topics appear in the For You feed, and adds AI-powered keyword filtering &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250603/p27#a250603p27)<!-- TECH:END -->
+ - [Disney World&#39;s &#39;Piston Peak&#39; Cars Land First Look, Plus What to Know About Disneyland&#39;s 70th](https://www.cnet.com/tech/services-and-software/disney-worlds-piston-peak-cars-land-first-look-plus-what-to-know-about-disneylands-70th/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

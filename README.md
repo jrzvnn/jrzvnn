@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Israeli startup Zero Networks, which aims to prevent ransomware and other cyberattacks, raised $55M led by Highland Europe, taking its total funding to $100M+ &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/250603/p15#a250603p15)
- - [How to watch Epic’s State of Unreal keynote](https://www.theverge.com/news/678033/epic-games-state-of-unreal-2025-watch-twitch-youtube)
- - [Cynthia Kaiser, the FBI&#39;s ex-deputy assistant director leading cyber policy, intel, and engagement, is leaving to join cybersecurity company Halcyon as SVP &lpar;Tim Starks/CyberScoop&rpar;](http://www.techmeme.com/250603/p14#a250603p14)
- - [The Verge’s guide to an easier move](https://www.theverge.com/tech/675618/moving-guide-how-to)
- - [20 Best Deals on Father&#39;s Day Gifts &lpar;2025&rpar;](https://www.wired.com/story/fathers-day-deals-2025/)<!-- TECH:END -->
+ - [Adobe launches a Photoshop app for Android in beta for devices running Android 11 or later with 6GB+ of RAM, including core desktop features like layering &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250603/p18#a250603p18)
+ - [Huawei Pura X review: the ~$1,050, China-only clamshell is Huawei&#39;s first flagship running HarmonyOS 5, with novel ergonomics and an incomplete app ecosystem &lpar;Bloomberg&rpar;](http://www.techmeme.com/250603/p17#a250603p17)
+ - [Nvidia&amp;#8217;s app now has a light mode if you want to be flash banged](https://www.theverge.com/news/678510/nvidia-app-windows-light-mode-features)
+ - [Aventon Level 3 Review: A Fantastic First Electric Bike](https://www.wired.com/review/aventon-level-3/)
+ - [Fi’s AI-powered dog collar lets you monitor pet behavior via Apple Watch](https://www.theverge.com/news/678497/fi-series-3-plus-smart-dog-collar-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

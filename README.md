@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sentence](http://9gag.com/gag/aqyzWoP)
- - 😝 [Just kidding... Its sports](http://9gag.com/gag/ae9222p)
- - 💣 [The real work behind your tequila shot](http://9gag.com/gag/aXP2Wxz)
- - 😝 [Now that summer&#39;s here, don&#39;t let a $30 summer dress cost you 18 years in child support](http://9gag.com/gag/agm2Epr)
- - 👉 [The fly thought it found a snack, but it was a one-way ticket.](http://9gag.com/gag/aYQ11Wx)<!-- MEMES:END -->
+ - 😝 [When the beef is so serious you gotta call the President.](http://9gag.com/gag/awy4Y9r)
+ - 😝 [Hell yeah](http://9gag.com/gag/an7DDVn)
+ - 💣 [Well, maybe it pays for some people...](http://9gag.com/gag/a34Wbye)
+ - 😝 [Monday](http://9gag.com/gag/a7oNnbe)
+ - 👉 [Parkour!](http://9gag.com/gag/aGy2OYz)<!-- MEMES:END -->
 
 ---
 

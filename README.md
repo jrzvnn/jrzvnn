@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile launches fiber internet service in the US with a five-year price lock](https://www.theverge.com/news/678897/t-mobile-fiber-internet-launch-plans)
- - [Apple Design Award winners for 2025 include Balatro, Watch Duty](https://appleinsider.com/articles/25/06/03/apple-design-award-winners-for-2025-include-balatro-watch-duty?utm_medium=rss)
- - [Amazon slashes $558 off Apple&#39;s M4 Max MacBook Pro](https://appleinsider.com/articles/25/06/03/amazon-slashes-558-off-apples-m4-max-macbook-pro?utm_medium=rss)
- - [Tim Sweeney didn’t expect a five-year Fortnite ban](https://www.theverge.com/games/678885/epic-games-ceo-tim-sweeney-five-year-fortnite-ban)
- - [Verge readers can get a rare discount on the smartphone-sized Boox Palma 2 e-reader](https://www.theverge.com/tech/678830/boox-palma-2-wellbots-deal-sale)<!-- TECH:END -->
+ - [TechCrunch has shut down its operations in Europe; one former staffer says new owner Regent thought &quot;international startup coverage wasn&#39;t essential&quot; &lpar;Sifted&rpar;](http://www.techmeme.com/250603/p30#a250603p30)
+ - [Researchers detail a technique Meta uses to glean some of its logged-in users&#39; browsing histories from Chromium-based browsers on Android via web identifiers &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/250603/p29#a250603p29)
+ - [Razer&amp;#8217;s new mousepad wirelessly charges mice with a Logitech-style puck](https://www.theverge.com/news/678888/razer-hyperflux-v2-mouse-pad-wireless-charging)
+ - [Looking Down While Reading This? Here&#39;s How to Spot and Correct Tech Neck](https://www.cnet.com/health/medical/how-to-spot-and-correct-tech-neck/#ftag=CAD590a51e)
+ - [T-Mobile launches fiber internet service in the US with a five-year price lock](https://www.theverge.com/news/678897/t-mobile-fiber-internet-launch-plans)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

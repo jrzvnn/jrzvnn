@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok expands Manage Topics, a feature that lets users customize how often specific topics appear in the For You feed, and adds AI-powered keyword filtering &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250603/p27#a250603p27)
+ - [A pre-WWDC message to Apple retail staff does not mean new hardware](https://appleinsider.com/articles/25/06/03/a-pre-wwdc-message-to-apple-retail-staff-does-not-mean-new-hardware?utm_medium=rss)
  - [Nintendo says it didn&#39;t send any Switch 2 review units to outlets as &quot;important features and updates&quot; will only be available via an update on its June 5 launch &lpar;Andy Robinson/Video Games Chronicle&rpar;](http://www.techmeme.com/250603/p26#a250603p26)
  - [TikTok gives everyone more control over what’s on their For You page](https://www.theverge.com/news/678779/tiktok-for-you-feed-manage-topics-global-launch)
- - [Meta’s going to revive an old nuclear power plant](https://www.theverge.com/news/678784/metas-going-to-revive-an-old-nuclear-power-plant)
- - [Some researchers say it looks like DeepSeek may have used Google Gemini to help train its R1-0528 reasoning model &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250603/p25#a250603p25)
- - [TikTok will give advertisers even more data on trends and users](https://www.theverge.com/news/678255/tiktok-advertiser-summit-ai-targeting-data-seo)<!-- TECH:END -->
+ - [Meta’s going to revive an old nuclear power plant](https://www.theverge.com/news/678784/metas-going-to-revive-an-old-nuclear-power-plant)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

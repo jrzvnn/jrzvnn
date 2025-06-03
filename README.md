@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why did they fail?](http://9gag.com/gag/aAyXOBd)
- - 😝 [The troll toll](http://9gag.com/gag/aW42RvA)
- - 💣 [My friend trying to flex but accidentally destroying the evidence.](http://9gag.com/gag/axyPPVK)
- - 😝 [The internet responds to Tinder&#39;s height filter debate.](http://9gag.com/gag/a87wKnd)
- - 👉 [This is how the Ps2 sound was recorded](http://9gag.com/gag/a34WWZe)<!-- MEMES:END -->
+ - 😝 [Expectation and reality](http://9gag.com/gag/a0eEEEB)
+ - 😝 [Monday](http://9gag.com/gag/a7oNnbe)
+ - 💣 [Housing market reality check.](http://9gag.com/gag/aPAXrEP)
+ - 😝 [Tradition](http://9gag.com/gag/amoVRpX)
+ - 👉 [Illustration of the historical special operation of the SBU `Web`](http://9gag.com/gag/aD2XQDZ)<!-- MEMES:END -->
 
 ---
 

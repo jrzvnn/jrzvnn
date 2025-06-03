@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indeed says CEO Chris Hyams is stepping down, replaced by parent Recruit Holdings CEO Hisayuki &quot;Deko&quot; Idekoba, who is returning to the role after six years &lpar;Chester Dawson/Bloomberg&rpar;](http://www.techmeme.com/250603/p13#a250603p13)
- - [Analysis: since his inauguration, President Trump posted 2,262 times on Truth Social in 132 days, 3x+ the volume of tweets in the same period of his first term &lpar;Washington Post&rpar;](http://www.techmeme.com/250603/p12#a250603p12)
- - [How to organize your finances for a move](https://www.theverge.com/how-to/667742/moving-costs-finances-money-how-to)
- - [iPhone 17 will not get a ProMotion display, new conflicting rumor claims](https://appleinsider.com/articles/25/06/03/iphone-17-will-not-get-a-promotion-display-new-conflicting-rumor-claims?utm_medium=rss)
- - [Meta agrees to acquire power from Constellation&#39;s operating Illinois nuclear plant, in a 20-year deal starting in mid-2027 when a state subsidy expires &lpar;Bloomberg&rpar;](http://www.techmeme.com/250603/p11#a250603p11)<!-- TECH:END -->
+ - [Israeli startup Zero Networks, which aims to prevent ransomware and other cyberattacks, raised $55M led by Highland Europe, taking its total funding to $100M+ &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/250603/p15#a250603p15)
+ - [How to watch Epic’s State of Unreal keynote](https://www.theverge.com/news/678033/epic-games-state-of-unreal-2025-watch-twitch-youtube)
+ - [Cynthia Kaiser, the FBI&#39;s ex-deputy assistant director leading cyber policy, intel, and engagement, is leaving to join cybersecurity company Halcyon as SVP &lpar;Tim Starks/CyberScoop&rpar;](http://www.techmeme.com/250603/p14#a250603p14)
+ - [The Verge’s guide to an easier move](https://www.theverge.com/tech/675618/moving-guide-how-to)
+ - [20 Best Deals on Father&#39;s Day Gifts &lpar;2025&rpar;](https://www.wired.com/story/fathers-day-deals-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

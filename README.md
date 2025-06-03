@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FCC investigation looms over EchoStar’s missed interest payments and a new satellite](https://www.theverge.com/news/679023/dish-network-echostar-interest-payments-tv-satellite-fcc-investigation-spacex)
  - [TikTok has banned the hashtag #SkinnyTok globally, saying it is &quot;linked to unhealthy weight loss content&quot;, following pressure from the French government &lpar;Théophane Hartmann/Euractiv&rpar;](http://www.techmeme.com/250603/p35#a250603p35)
  - [CrowdStrike reports Q1 revenue up 20% YoY to $1.1B, in line with est., forecasts Q2 revenue below est., approves a $1B share buyback; CRWD drops 6%+ after hours &lpar;Harshita Mary Varghese/Reuters&rpar;](http://www.techmeme.com/250603/p34#a250603p34)
  - [HPE reports Q2 revenue up 6% YoY to $7.63B, vs. $7.46B est., Server revenue up 6% YoY to $4.1B, and says it expects a reduced impact from tariffs this year &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250603/p33#a250603p33)
- - [Anker’s new outdoor wireless speaker vibrates to shake off dust and sand](https://www.theverge.com/news/678980/anker-soundcore-boom-3i-rugged-outdoor-bluetooth-waterproof-speaker)
- - [I Tried Microsoft&#39;s New Free AI Video Generator: Here&#39;s How to Use It](https://www.cnet.com/tech/services-and-software/i-tried-microsofts-new-free-ai-video-generator-heres-how-to-use-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Anker’s new outdoor wireless speaker vibrates to shake off dust and sand](https://www.theverge.com/news/678980/anker-soundcore-boom-3i-rugged-outdoor-bluetooth-waterproof-speaker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

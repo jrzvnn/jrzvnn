@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sentence](http://9gag.com/gag/aqyzWoP)
- - 😝 [Current World Champion Gukesh defeats Magnus Carlsen for the first time in classic chess.](http://9gag.com/gag/aKGYYQW)
- - 💣 [I&#39;m not even mad, that&#39;s amazing grip!](http://9gag.com/gag/ajPKKyQ)
- - 😝 [Looks like I&#39;m getting booked.](http://9gag.com/gag/a87wKYQ)
- - 👉 [When she says you can&#39;t find someone like her, show her this.](http://9gag.com/gag/amoVVGV)<!-- MEMES:END -->
+ - 😝 [Yeeeeeeah...](http://9gag.com/gag/aoy88y3)
+ - 😝 [Very few will know where this is from](http://9gag.com/gag/ajPKKG8)
+ - 💣 [My face exactly](http://9gag.com/gag/a2vb2Qp)
+ - 😝 [That&#39;s some ninja move](http://9gag.com/gag/apRAAGB)
+ - 👉 [Looks like I&#39;m getting booked.](http://9gag.com/gag/a87wKYQ)<!-- MEMES:END -->
 
 ---
 

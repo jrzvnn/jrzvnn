@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft, Google, CrowdStrike, and Palo Alto plan a public glossary of state-sponsored hacking groups to ease confusion over the spread of unofficial aliases &lpar;Reuters&rpar;](http://www.techmeme.com/250602/p30#a250602p30)
+ - [Sources: Elon Musk is selling $5B in debt for xAI at a double-digit interest rate, with demand already exceeding $3.5B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250602/p29#a250602p29)
  - [Microsoft announces new Windows changes in response to the DMA for EEA users, including Edge not prompting users to set it as the default unless it is opened &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/250602/p28#a250602p28)
  - [Apple could buoy Apple TV+ with MLB Sunday Night Baseball streaming rights](https://appleinsider.com/articles/25/06/02/apple-could-increase-mlb-presence-with-sunday-night-game-streaming?utm_medium=rss)
- - [Sources: the FTC is investigating whether roughly a dozen advertising and advocacy groups violated antitrust law by coordinating boycotts among advertisers &lpar;New York Times&rpar;](http://www.techmeme.com/250602/p27#a250602p27)
- - [Netic, which sells an AI platform that helps home services firms automate client outreach and handle calls, raised $20M from Greylock, Founders Fund, and others &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250602/p26#a250602p26)
- - [Microsoft will finally stop bugging Windows users about Edge — but only in Europe](https://www.theverge.com/news/678350/microsoft-dma-windows-10-11-bing-edge)<!-- TECH:END -->
+ - [Sources: the FTC is investigating whether roughly a dozen advertising and advocacy groups violated antitrust law by coordinating boycotts among advertisers &lpar;New York Times&rpar;](http://www.techmeme.com/250602/p27#a250602p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

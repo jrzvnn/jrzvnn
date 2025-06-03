@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Watch the floodgates open one by one](http://9gag.com/gag/a7oNpVe)
- - 😝 [The fly thought it found a snack, but it was a one-way ticket.](http://9gag.com/gag/aYQ11Wx)
- - 💣 [Glock-librarian edition](http://9gag.com/gag/an7DDqb)
+ - 😝 [More likely to be released?](http://9gag.com/gag/aByXE6A)
+ - 😝 [Is this where the myth came from?](http://9gag.com/gag/an7DEAL)
+ - 💣 [Seriously, WTF????](http://9gag.com/gag/a9yXm11)
  - 😝 [From viral to iconic! Just 7 days until the epic #69MemeDay on June 9! Get ready for the epic Meme of the Year showdown!](http://9gag.com/gag/aKGYYK3)
  - 👉 [Looks like I&#39;m getting booked.](http://9gag.com/gag/a87wKYQ)<!-- MEMES:END -->
 

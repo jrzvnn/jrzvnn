@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The Polestar 4 now comes from South Korea instead of China](https://www.theverge.com/news/678655/polestar-4-2026-south-korea-manufacture-china)
  - [iFixit is retroactively giving the Nintendo Switch a 4/10 on repairability](https://www.theverge.com/news/678622/ifixit-nerfs-nintendo-switch-repair-score-battery-drift)
- - [Egypt&#39;s foreign trade minister is asking for a local Apple Store](https://appleinsider.com/articles/25/06/03/egypts-foreign-trade-minister-is-asking-for-a-local-apple-store?utm_medium=rss)
- - [Future AirPods could get lasers to read the wearer&#39;s lips &amp; process requests](https://appleinsider.com/articles/25/06/03/future-airpods-could-get-lasers-to-read-the-wearers-lips-process-requests?utm_medium=rss)
- - [Pornhub&#39;s parent company plans to stop serving adult content in France as soon as June 4, in protest of government measures forcing it to verify visitors&#39; ages &lpar;Politico&rpar;](http://www.techmeme.com/250603/p22#a250603p22)<!-- TECH:END -->
+ - [I Tried Microsoft&#39;s New Free AI Video Generator: Here&#39;s How to Use It](https://www.cnet.com/tech/services-and-software/i-tried-microsofts-new-free-ai-video-generator-heres-how-to-use-it/#ftag=CAD590a51e)
+ - [Hybrid Meat Is My Favorite Health Hack of 2025. Here&#39;s How It Works](https://www.cnet.com/news/not-ready-to-ditch-meat-but-want-to-eat-less-try-hybrid-meat-heres-how-it-works/#ftag=CAD590a51e)
+ - [Egypt&#39;s foreign trade minister is asking for a local Apple Store](https://appleinsider.com/articles/25/06/03/egypts-foreign-trade-minister-is-asking-for-a-local-apple-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

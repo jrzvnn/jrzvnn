@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TSMC CEO C. C. Wei blames worsening traffic for delays in expanding its new Japan facility, and reaffirms plans to spend $100B in Arizona in the next five years &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250603/p5#a250603p5)
  - [Astronomers Have Detected a Galaxy Millions of Years Older Than Any Previously Observed](https://www.wired.com/story/astronomers-just-broke-the-record-for-the-oldest-galaxy-ever-detected-james-webb-space-telescope/)
  - [A look at Walmart&#39;s use of automation to grow sales without adding staff, as analysts say its efforts raise questions about the future of US retail labor &lpar;Gregory Meyer/Financial Times&rpar;](http://www.techmeme.com/250603/p4#a250603p4)
  - [TikTok is working again](https://www.theverge.com/news/678410/tiktok-is-not-loading-outage-comments-error-edgesuiite)
- - [Best Internet Providers in Fort Wayne, Indiana](https://www.cnet.com/home/internet/best-internet-providers-in-fort-wayne-in/#ftag=CAD590a51e)
- - [TSMC CEO C.C. Wei says TSMC expects record profit in 2025 despite geopolitical, tariff, and FX risks, and confirms it is not building a fab in the Middle East &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250603/p3#a250603p3)<!-- TECH:END -->
+ - [Best Internet Providers in Fort Wayne, Indiana](https://www.cnet.com/home/internet/best-internet-providers-in-fort-wayne-in/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

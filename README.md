@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stonks](http://9gag.com/gag/aPAXX6B)
- - 😝 [Very few will know where this is from](http://9gag.com/gag/ajPKKG8)
- - 💣 [Bigfoots Vlog, better than most influencers](http://9gag.com/gag/amoVpqv)
+ - 😝 [Where did the cornucopia go?! I KNOW I saw it](http://9gag.com/gag/aNDR4nK)
+ - 😝 [The fly thought it found a snack, but it was a one-way ticket.](http://9gag.com/gag/aYQ11Wx)
+ - 💣 [The real work behind your tequila shot](http://9gag.com/gag/aXP2Wxz)
  - 😝 [From viral to iconic! Just 7 days until the epic #69MemeDay on June 9! Get ready for the epic Meme of the Year showdown!](http://9gag.com/gag/aKGYYK3)
- - 👉 [Learn these essential knots for various uses.](http://9gag.com/gag/aLnXAoP)<!-- MEMES:END -->
+ - 👉 [Glock-librarian edition](http://9gag.com/gag/an7DDqb)<!-- MEMES:END -->
 
 ---
 

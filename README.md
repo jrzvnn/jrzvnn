@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Habibi come to DBX and bring Porta Potty](http://9gag.com/gag/aryBxBK)
- - 😝 [When she says you can&#39;t find someone like her, show her this.](http://9gag.com/gag/amoVVGV)
- - 💣 [The real work behind your tequila shot](http://9gag.com/gag/aXP2Wxz)
+ - 😝 [Bigfoots Vlog, better than most influencers](http://9gag.com/gag/amoVpqv)
+ - 😝 [Learn these essential knots for various uses.](http://9gag.com/gag/aLnXAoP)
+ - 💣 [Works on me and it will on you too!!](http://9gag.com/gag/aKGYYoW)
  - 😝 [From viral to iconic! Just 7 days until the epic #69MemeDay on June 9! Get ready for the epic Meme of the Year showdown!](http://9gag.com/gag/aKGYYK3)
- - 👉 [My face exactly](http://9gag.com/gag/a2vb2Qp)<!-- MEMES:END -->
+ - 👉 [Well, maybe it pays for some people...](http://9gag.com/gag/a34Wbye)<!-- MEMES:END -->
 
 ---
 

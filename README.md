@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Playstation is holding its State of Play summer showcase this week](https://www.theverge.com/news/669527/playstation-state-of-play-summer-2025-ps5)
+ - [Broadcom begins shipping its Tomahawk 6 data center switch chips, which it says can perform the work of six previous-gen chips to improve GPU utilization rates &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250603/p19#a250603p19)
  - [Adobe launches a Photoshop app for Android in beta for devices running Android 11 or later with 6GB+ of RAM, including core desktop features like layering &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250603/p18#a250603p18)
  - [Huawei Pura X review: the ~$1,050, China-only clamshell is Huawei&#39;s first flagship running HarmonyOS 5, with novel ergonomics and an incomplete app ecosystem &lpar;Bloomberg&rpar;](http://www.techmeme.com/250603/p17#a250603p17)
- - [Nvidia&amp;#8217;s app now has a light mode if you want to be flash banged](https://www.theverge.com/news/678510/nvidia-app-windows-light-mode-features)
- - [Aventon Level 3 Review: A Fantastic First Electric Bike](https://www.wired.com/review/aventon-level-3/)
- - [Fi’s AI-powered dog collar lets you monitor pet behavior via Apple Watch](https://www.theverge.com/news/678497/fi-series-3-plus-smart-dog-collar-price)<!-- TECH:END -->
+ - [Nothing Phone 3: Launch Date Confirmed for the Company&#39;s &#39;First True Flagship&#39;](https://www.cnet.com/tech/mobile/nothing-phone-3-launch-date-confirmed-for-companys-first-true-flagship/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

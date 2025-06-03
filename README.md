@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Current World Champion Gukesh defeats Magnus Carlsen for the first time in classic chess.](http://9gag.com/gag/aKGYYQW)
  - 😝 [The fly thought it found a snack, but it was a one-way ticket.](http://9gag.com/gag/aYQ11Wx)
- - 😝 [Very few will know where this is from](http://9gag.com/gag/ajPKKG8)
- - 💣 [I&#39;m not even mad, that&#39;s amazing grip!](http://9gag.com/gag/ajPKKyQ)
- - 😝 [That&#39;s some ninja move](http://9gag.com/gag/apRAAGB)
- - 👉 [He understood the assignment.](http://9gag.com/gag/aYQ1q8V)<!-- MEMES:END -->
+ - 💣 [He understood the assignment.](http://9gag.com/gag/aYQ1q8V)
+ - 😝 [Looks like I&#39;m getting booked.](http://9gag.com/gag/a87wKYQ)
+ - 👉 [Sentence](http://9gag.com/gag/aqyzWoP)<!-- MEMES:END -->
 
 ---
 

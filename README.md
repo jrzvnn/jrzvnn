@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Glock-librarian edition](http://9gag.com/gag/an7DDqb)
- - 😝 [Current World Champion Gukesh defeats Magnus Carlsen for the first time in classic chess.](http://9gag.com/gag/aKGYYQW)
- - 💣 [Now that summer&#39;s here, don&#39;t let a $30 summer dress cost you 18 years in child support](http://9gag.com/gag/agm2Epr)
+ - 😝 [My friend trying to flex but accidentally destroying the evidence.](http://9gag.com/gag/axyPPVK)
  - 😝 [Can&#39;t wait](http://9gag.com/gag/a87wwqp)
- - 👉 [Sentence](http://9gag.com/gag/aqyzWoP)<!-- MEMES:END -->
+ - 💣 [My face exactly](http://9gag.com/gag/a2vb2Qp)
+ - 😝 [He understood the assignment.](http://9gag.com/gag/aYQ1q8V)
+ - 👉 [That&#39;s some ninja move](http://9gag.com/gag/apRAAGB)<!-- MEMES:END -->
 
 ---
 

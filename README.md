@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [A look at Walmart&#39;s use of automation to grow sales without adding staff, as analysts say its efforts raise questions about the future of US retail labor &lpar;Gregory Meyer/Financial Times&rpar;](http://www.techmeme.com/250603/p4#a250603p4)
  - [TikTok is working again](https://www.theverge.com/news/678410/tiktok-is-not-loading-outage-comments-error-edgesuiite)
+ - [Best Internet Providers in Fort Wayne, Indiana](https://www.cnet.com/home/internet/best-internet-providers-in-fort-wayne-in/#ftag=CAD590a51e)
  - [TSMC CEO C.C. Wei says TSMC expects record profit in 2025 despite geopolitical, tariff, and FX risks, and confirms it is not building a fab in the Middle East &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250603/p3#a250603p3)
- - [Best Internet Providers in Louisville, Kentucky](https://www.cnet.com/home/internet/best-internet-providers-in-louisville-ky/#ftag=CAD590a51e)
- - [AI pioneer Yoshua Bengio launches LawZero, a nonprofit focused on safer AI; LawZero has raised $30M in donations, including from Skype co-founder Jaan Tallinn &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/250603/p2#a250603p2)<!-- TECH:END -->
+ - [Best Internet Providers in Louisville, Kentucky](https://www.cnet.com/home/internet/best-internet-providers-in-louisville-ky/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

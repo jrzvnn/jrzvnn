@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Thoma Bravo raised $34.4B across three funds, including $24.3B for its main software company buyout fund and $8.1B for its midsize software-focused fund &lpar;Miriam Gottfried/Wall Street Journal&rpar;](http://www.techmeme.com/250603/p7#a250603p7)
  - [Dublin-based cross-border payment startup NomuPay raised a $40M Series C at a $290M valuation, following a $37M Series B at a $200M valuation in January 2025 &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/250603/p6#a250603p6)
- - [TSMC CEO C. C. Wei blames worsening traffic for delays in expanding its new Japan facility, and reaffirms plans to spend $100B in Arizona in the next five years &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250603/p5#a250603p5)
+ - [TSMC CEO C.C. Wei blames worsening traffic for delays in expanding its new Japan facility, and reaffirms plans to spend $100B in Arizona in the next five years &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250603/p5#a250603p5)
  - [Astronomers Have Detected a Galaxy Millions of Years Older Than Any Previously Observed](https://www.wired.com/story/astronomers-just-broke-the-record-for-the-oldest-galaxy-ever-detected-james-webb-space-telescope/)
- - [A look at Walmart&#39;s use of automation to grow sales without adding staff, as analysts say its efforts raise questions about the future of US retail labor &lpar;Gregory Meyer/Financial Times&rpar;](http://www.techmeme.com/250603/p4#a250603p4)
- - [TikTok is working again](https://www.theverge.com/news/678410/tiktok-is-not-loading-outage-comments-error-edgesuiite)<!-- TECH:END -->
+ - [A look at Walmart&#39;s use of automation to grow sales without adding staff, as analysts say its efforts raise questions about the future of US retail labor &lpar;Gregory Meyer/Financial Times&rpar;](http://www.techmeme.com/250603/p4#a250603p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

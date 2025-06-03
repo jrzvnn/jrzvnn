@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A federal judge temporarily blocks Florida from enforcing a law banning social media accounts for children under 14, saying the law is &quot;likely unconstitutional&quot; &lpar;Kate Payne/Associated Press&rpar;](http://www.techmeme.com/250603/p38#a250603p38)
  - [OpenAI updates its coding agent Codex with internet access, turned off by default, and expands availability to ChatGPT Plus users &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250603/p37#a250603p37)
  - [Jeopardy! and Wheel of Fortune are headed to streaming](https://www.theverge.com/news/679056/jeopardy-wheel-of-fortune-hulu-peacock-streaming)
  - [Sources: Pump.fun plans to raise $1B via a token sale at a $4B valuation; Pump.fun has generated over $700M in cumulative revenue since its launch in early 2024 &lpar;Blockworks&rpar;](http://www.techmeme.com/250603/p36#a250603p36)
- - [FCC investigation looms over EchoStar’s missed interest payments and a new satellite](https://www.theverge.com/news/679023/dish-network-echostar-interest-payments-tv-satellite-fcc-investigation-spacex)
- - [How to Stream the &#39;Love Island USA&#39; Season 7 Premiere Today](https://www.cnet.com/tech/services-and-software/how-to-stream-the-love-island-usa-season-7-premiere-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [FCC investigation looms over EchoStar’s missed interest payments and a new satellite](https://www.theverge.com/news/679023/dish-network-echostar-interest-payments-tv-satellite-fcc-investigation-spacex)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

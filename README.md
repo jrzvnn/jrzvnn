@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Qualcomm CEO downplays importance of Apple relationship after C1 modem](https://appleinsider.com/articles/25/06/04/qualcomm-ceo-downplays-importance-of-apple-relationship-after-c1-modem?utm_medium=rss)
+ - [Your Apple Watch Might Not Be as Accurate as You Think, New Study Finds](https://www.cnet.com/health/fitness/your-apple-watch-might-not-be-as-accurate-as-you-think-new-study-finds/#ftag=CAD590a51e)
+ - [Marvel Tokon: Fighting Souls Was the Most Unexpected Reveal of State of Play](https://www.cnet.com/tech/gaming/marvel-tokon-fighting-souls-was-the-most-unexpected-reveal-of-state-of-play/#ftag=CAD590a51e)
  - [ICE Quietly Scales Back Rules for Courthouse Raids](https://www.wired.com/story/ice-quietly-scales-back-rules-for-courthouse-raids/)
- - [Meta reveals more information about its research glasses Aria Gen 2, including their form factor, computer vision cameras, sensors, and on-device compute &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250604/p43#a250604p43)
- - [Apple appeal to pause injunction enforcement allowing external linking fails](https://appleinsider.com/articles/25/06/04/apple-appeal-to-pause-injunction-enforcement-allowing-external-linking-fails?utm_medium=rss)
- - [Elon Musk discovers Trump doesn’t stay bought](https://www.theverge.com/elon-musk/679970/musk-trump-beautiful-bill-spat)<!-- TECH:END -->
+ - [Meta reveals more information about its research glasses Aria Gen 2, including their form factor, computer vision cameras, sensors, and on-device compute &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250604/p43#a250604p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

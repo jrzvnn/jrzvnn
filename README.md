@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shout out to one of the dumbest f**king scenes in movie history](http://9gag.com/gag/ajPKRDp)
+ - 😝 [Thats wild, bro](http://9gag.com/gag/aKGYLNN)
  - 😝 [Suddenly I&#39;m a chef](http://9gag.com/gag/a9yXB7Z)
- - 💣 [I am the corpo idiot](http://9gag.com/gag/amoVR3o)
- - 😝 [My arms gave up after reading that number.](http://9gag.com/gag/a5QjDQg)
- - 👉 [Ghetto high.](http://9gag.com/gag/aW42RbZ)<!-- MEMES:END -->
+ - 💣 [Be Guided Accordingly.](http://9gag.com/gag/aAyXZv0)
+ - 😝 [I am the corpo idiot](http://9gag.com/gag/amoVR3o)
+ - 👉 [Enough internet for today](http://9gag.com/gag/ajPKyyw)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Surgeon in Rome successfully operates on a patient 8000km away in Beijing using a remote-controlled robot.](http://9gag.com/gag/apRAYP8)
- - 😝 [Many such cases.](http://9gag.com/gag/aO81RG3)
- - 💣 [Shout out to one of the dumbest f**king scenes in movie history](http://9gag.com/gag/ajPKRDp)
- - 😝 [Waiting for the little sister to spill the tea...](http://9gag.com/gag/aGy2OxX)
- - 👉 [Now that summer&#39;s here, don&#39;t let a $30 summer dress cost you 18 years in child support](http://9gag.com/gag/agm2Epr)<!-- MEMES:END -->
+ - 😝 [Be Guided Accordingly.](http://9gag.com/gag/aAyXZv0)
+ - 😝 [Now that summer&#39;s here, don&#39;t let a $30 summer dress cost you 18 years in child support](http://9gag.com/gag/agm2Epr)
+ - 💣 [Disney](http://9gag.com/gag/aZZ2zXX)
+ - 😝 [Should i call you.. mister?](http://9gag.com/gag/aPAXXzw)
+ - 👉 [Shout out to one of the dumbest f**king scenes in movie history](http://9gag.com/gag/ajPKRDp)<!-- MEMES:END -->
 
 ---
 

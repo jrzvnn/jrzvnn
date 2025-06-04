@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMC signs a deal with Runway to use its tech to generate marketing images and pre-visualize unproduced shows, the first cable player to work with Runway &lpar;Steven Zeitchik/The Hollywood Reporter&rpar;](http://www.techmeme.com/250604/p25#a250604p25)
- - [Google says hackers loosely affiliated with the Com in the US, the UK, and Europe breached 20+ companies in the US and Europe to steal Salesforce data &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/250604/p24#a250604p24)
- - [The IRS open sourced most of its Direct File tax software on GitHub last week, fulfilling a legal requirement under the SHARE IT Act, despite Intuit pressure &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/250604/p23#a250604p23)
- - [Look inside the Nintendo Switch 2 with the console’s first teardown](https://www.theverge.com/news/679327/nintendo-switch-2-handheld-teardown)
- - [Reddit users can now hide posts, comments, and NSFW history](https://www.theverge.com/news/679328/reddit-update-hide-comments-posts-user-profiles)<!-- TECH:END -->
+ - [Microsoft says LinkedIn CEO Ryan Roslansky will now manage its Office group, reporting to EVP of Experiences and Devices Rajesh Jha; he will remain LinkedIn CEO &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/250604/p26#a250604p26)
+ - [Fortnite on the Switch 2 will support GameChat and mouse controls](https://www.theverge.com/news/679367/fortnite-nintendo-switch-2-update-gamechat-mouse-controls)
+ - [‘Big Balls’ Is Officially a Full-Time Government Employee](https://www.wired.com/story/big-balls-young-doge-converted-into-full-time-government-employees/)
+ - [15 Best Gifts for Coworkers Under $50, Curated by WIRED &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-coworkers/)
+ - [iPhone XS, iPhone XR probably won&#39;t have iOS 26 support](https://appleinsider.com/articles/25/06/04/iphone-xs-iphone-xr-probably-wont-have-ios-26-support?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

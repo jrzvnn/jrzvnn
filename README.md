@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Very few will know where this is from](http://9gag.com/gag/ajPKKG8)
- - 😝 [Let them fight](http://9gag.com/gag/aqyzzzp)
- - 💣 [Disney](http://9gag.com/gag/aZZ2zXX)
- - 😝 [Why did they fail?](http://9gag.com/gag/aAyXOBd)
- - 👉 [Now that summer&#39;s here, don&#39;t let a $30 summer dress cost you 18 years in child support](http://9gag.com/gag/agm2Epr)<!-- MEMES:END -->
+ - 😝 [3 Days](http://9gag.com/gag/aD2XQp9)
+ - 💣 [Henry Cavill shows how easily guys can be friends\u2026](http://9gag.com/gag/a5QjDoL)
+ - 😝 [The troll toll](http://9gag.com/gag/aW42RvA)
+ - 👉 [Shout out to one of the dumbest f**king scenes in movie history](http://9gag.com/gag/ajPKRDp)<!-- MEMES:END -->
 
 ---
 

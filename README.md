@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Race to Build Trump’s ‘Golden Dome’ Missile Defense System Is On](https://www.wired.com/story/golden-dome-trump-missiles/)
+ - [5 Best Smart Scales &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-smart-scales/)
  - [Google pauses the rollout of Photos&#39; AI-powered Ask Photos feature due to issues with latency, quality, and user experience, per a Google product manager on X &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250604/p13#a250604p13)
  - [An interview with Mario Kart World producer Kosuke Yabuki on balancing chaos and accessibility, redesigning core mechanics, and more, ahead of its June 5 launch &lpar;Christopher Cruz/Rolling Stone&rpar;](http://www.techmeme.com/250604/p12#a250604p12)
- - [Google DeepMind’s CEO Thinks AI Will Make Humans Less Selfish](https://www.wired.com/story/google-deepminds-ceo-demis-hassabis-thinks-ai-will-make-humans-less-selfish/)
- - [The Texting Network for the End of the World](https://www.wired.com/story/youre-not-ready-for-phone-dead-zones/)
- - [The Rise of ‘Vibe Hacking’ Is the Next AI Nightmare](https://www.wired.com/story/youre-not-ready-for-ai-hacker-agents/)<!-- TECH:END -->
+ - [Google DeepMind’s CEO Thinks AI Will Make Humans Less Selfish](https://www.wired.com/story/google-deepminds-ceo-demis-hassabis-thinks-ai-will-make-humans-less-selfish/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

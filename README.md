@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Suddenly I&#39;m a chef](http://9gag.com/gag/a9yXB7Z)
- - 😝 [A potato farms turning your PC into potato](http://9gag.com/gag/an7DVwB)
- - 💣 [A smooth ride through Switzerland&#39;s new bike tunnel.](http://9gag.com/gag/aXP2Gv9)
- - 😝 [I am the corpo idiot](http://9gag.com/gag/amoVR3o)
+ - 😝 [Ghetto high.](http://9gag.com/gag/aW42RbZ)
+ - 😝 [Shout out to one of the dumbest f**king scenes in movie history](http://9gag.com/gag/ajPKRDp)
+ - 💣 [Enough internet for today](http://9gag.com/gag/ajPKyyw)
+ - 😝 [Road Rage. U can see the shadow](http://9gag.com/gag/aByXvNA)
  - 👉 [Be Guided Accordingly.](http://9gag.com/gag/aAyXZv0)<!-- MEMES:END -->
 
 ---

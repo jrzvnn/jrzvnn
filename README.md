@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never let them know your next move!](http://9gag.com/gag/a7oNA1L)
- - 😝 [The troll toll](http://9gag.com/gag/aW42RvA)
- - 💣 [Ghetto high.](http://9gag.com/gag/aW42RbZ)
- - 😝 [I don&#39;t know where else to ask. I just pulled those nails out of a 55 yo apartment. they have a freely spinning head. What&#39;s their purpose?](http://9gag.com/gag/a0eEOyB)
- - 👉 [Be Guided Accordingly.](http://9gag.com/gag/aAyXZv0)<!-- MEMES:END -->
+ - 😝 [A potato farms turning your PC into potato](http://9gag.com/gag/an7DVwB)
+ - 😝 [The power of chicken is real](http://9gag.com/gag/aqyzA8v)
+ - 💣 [History had been made.](http://9gag.com/gag/aAyXm6E)
+ - 😝 [That childhood fear unlocked.](http://9gag.com/gag/aRB2DQG)
+ - 👉 [Relationship advice level: Expert.](http://9gag.com/gag/aoy8D0n)<!-- MEMES:END -->
 
 ---
 

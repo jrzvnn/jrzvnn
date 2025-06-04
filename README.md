@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reddit sues Anthropic, alleging it accessed Reddit 100K+ times after saying it had stopped; Reddit has reached formal licensing deals with OpenAI and Google &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/250604/p33#a250604p33)
  - [OpenAI rolls out connectors for services like Dropbox and OneDrive for ChatGPT Team, Enterprise, and Edu users; MCP support is coming to Pro, Team, Enterprise &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250604/p32#a250604p32)
  - [OpenAI says it has 3M &quot;paying business users&quot;, up from 2M in February; ChatGPT Team users can now use a &quot;record mode&quot; for taking notes during meetings &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250604/p31#a250604p31)
  - [Trumpworld Is Fighting Over ‘Official’ Crypto Wallet](https://www.wired.com/story/trumpworld-is-fighting-over-official-crypto-wallet/)
- - [LG’s first 5K ultra-wide monitor with Thunderbolt 5 is made for data crunchers](https://www.theverge.com/news/679535/lg-ultrafine-40wt95uf-monitor-display-thunderbolt-5-5k)
- - [Tariff Impacts Are Real: I Found 12 Companies That Have Confirmed Price Hikes](https://www.cnet.com/personal-finance/tariff-impacts-are-real-i-found-12-companies-that-have-confirmed-price-hikes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [LG’s first 5K ultra-wide monitor with Thunderbolt 5 is made for data crunchers](https://www.theverge.com/news/679535/lg-ultrafine-40wt95uf-monitor-display-thunderbolt-5-5k)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

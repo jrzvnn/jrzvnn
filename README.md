@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just needed one more outlet...](http://9gag.com/gag/ayNQPoy)
  - 😝 [Now that summer&#39;s here, don&#39;t let a $30 summer dress cost you 18 years in child support](http://9gag.com/gag/agm2Epr)
- - 💣 [Enough internet for today](http://9gag.com/gag/ajPKyyw)
- - 😝 [I am the corpo idiot](http://9gag.com/gag/amoVR3o)
- - 👉 [Shout out to one of the dumbest f**king scenes in movie history](http://9gag.com/gag/ajPKRDp)<!-- MEMES:END -->
+ - 😝 [Suddenly I&#39;m a chef](http://9gag.com/gag/a9yXB7Z)
+ - 💣 [I am the corpo idiot](http://9gag.com/gag/amoVR3o)
+ - 😝 [A smooth ride through Switzerland&#39;s new bike tunnel.](http://9gag.com/gag/aXP2Gv9)
+ - 👉 [Be Guided Accordingly.](http://9gag.com/gag/aAyXZv0)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nokia, Nvidia, Safran, and 40+ organizations plan to build an EU-funded unmanned drone project to protect critical infrastructure, set to launch in three years &lpar;Nathan Vifflin/Reuters&rpar;](http://www.techmeme.com/250604/p11#a250604p11)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 4, #254](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-4-254/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 4, #458](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-4-458/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for June 4, #724](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-4-724/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for June 4, #1446](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-4-1446/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google pauses the rollout of Photos&#39; AI-powered Ask Photos feature due to issues with latency, quality, and user experience, per a Google product manager on X &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250604/p13#a250604p13)
+ - [An interview with Mario Kart World producer Kosuke Yabuki on balancing chaos and accessibility, redesigning core mechanics, and more, ahead of its June 5 launch &lpar;Christopher Cruz/Rolling Stone&rpar;](http://www.techmeme.com/250604/p12#a250604p12)
+ - [Google DeepMind’s CEO Thinks AI Will Make Humans Less Selfish](https://www.wired.com/story/google-deepminds-ceo-demis-hassabis-thinks-ai-will-make-humans-less-selfish/)
+ - [The Texting Network for the End of the World](https://www.wired.com/story/youre-not-ready-for-phone-dead-zones/)
+ - [The Rise of ‘Vibe Hacking’ Is the Next AI Nightmare](https://www.wired.com/story/youre-not-ready-for-ai-hacker-agents/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

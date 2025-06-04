@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [PlayStation State of Play June 2025: all the news and trailers](https://www.theverge.com/sony-playstation/678933/playstation-state-of-play-june-2025-news-trailers)
  - [SEC filing: Uber appoints Palo Alto CEO Nikesh Arora to its board of directors following a broader executive shakeup this week &lpar;CNBC&rpar;](http://www.techmeme.com/250604/p37#a250604p37)
  - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
- - [AirPods expected to gain new head gestures, Camera Control revival](https://appleinsider.com/articles/25/06/04/airpods-expected-to-gain-new-head-gestures-camera-control-revival?utm_medium=rss)<!-- TECH:END -->
+ - [Nintendo Switch 2 Launch: We Have the Switch 2 in Hand Now, Check It Out](https://www.cnet.com/tech/gaming/nintendo-switch-2-launch-day-games-updates-news-live/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

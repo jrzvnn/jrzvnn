@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Louder then the reallity](http://9gag.com/gag/avyvvvW)
- - 😝 [Disney](http://9gag.com/gag/aZZ2zXX)
- - 💣 [Why did they fail?](http://9gag.com/gag/aAyXOBd)
- - 😝 [Now that summer&#39;s here, don&#39;t let a $30 summer dress cost you 18 years in child support](http://9gag.com/gag/agm2Epr)
- - 👉 [The internet responds to Tinder&#39;s height filter debate.](http://9gag.com/gag/a87wKnd)<!-- MEMES:END -->
+ - 😝 [Why did they fail?](http://9gag.com/gag/aAyXOBd)
+ - 😝 [Henry Cavill shows how easily guys can be friends\u2026](http://9gag.com/gag/a5QjDoL)
+ - 💣 [Hope Greta will enjoy her stay in Gaza!](http://9gag.com/gag/a4PqWwv)
+ - 😝 [Let them fight](http://9gag.com/gag/aqyzzzp)
+ - 👉 [Now that summer&#39;s here, don&#39;t let a $30 summer dress cost you 18 years in child support](http://9gag.com/gag/agm2Epr)<!-- MEMES:END -->
 
 ---
 

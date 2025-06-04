@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Many such cases.](http://9gag.com/gag/aO81RG3)
  - 😝 [Blud only took 3 seconds to turncoat](http://9gag.com/gag/aZZ2RMV)
- - 💣 [Let them fight](http://9gag.com/gag/aqyzzzp)
- - 😝 [I am the corpo idiot](http://9gag.com/gag/amoVR3o)
- - 👉 [Monday](http://9gag.com/gag/a7oNnbe)<!-- MEMES:END -->
+ - 😝 [Louder then the reallity](http://9gag.com/gag/avyvvvW)
+ - 💣 [Bricklayers: \u201cAI will never take my job! AI:](http://9gag.com/gag/aVv2R1v)
+ - 😝 [What does that mean, mom?](http://9gag.com/gag/aLnXWnM)
+ - 👉 [Current World Champion Gukesh defeats Magnus Carlsen for the first time in classic chess.](http://9gag.com/gag/aKGYYQW)<!-- MEMES:END -->
 
 ---
 

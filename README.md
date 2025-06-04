@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The troll toll](http://9gag.com/gag/aW42RvA)
- - 😝 [Shout out to one of the dumbest f**king scenes in movie history](http://9gag.com/gag/ajPKRDp)
- - 💣 [Just needed one more outlet...](http://9gag.com/gag/ayNQPoy)
- - 😝 [A potato farms turning your PC into potato](http://9gag.com/gag/an7DVwB)
- - 👉 [War](http://9gag.com/gag/a5Qj5DL)<!-- MEMES:END -->
+ - 😝 [Housing market reality check.](http://9gag.com/gag/aPAXrEP)
+ - 😝 [Not the same since 2009](http://9gag.com/gag/amoVnQv)
+ - 💣 [Heh wife material](http://9gag.com/gag/aQz2y3e)
+ - 😝 [Posting meme origins until I get bored or die](http://9gag.com/gag/ajPKy5p)
+ - 👉 [Driver hours are driver hours](http://9gag.com/gag/avyvmzd)<!-- MEMES:END -->
 
 ---
 

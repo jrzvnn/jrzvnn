@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [‘Buy Now, Pay Later’ Booms as Economic Pressures Mount](https://www.wired.com/story/bnpl-booms-as-economic-pressures-mount/)
  - [An interview with Gaia Marcus, director of the UK-based think tank Ada Lovelace Institute, on AI regulation in the UK and Europe, AI safety, bias, and more &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250604/p10#a250604p10)
  - [Luxus Couples Vibrator Review: Magnetic Attraction](https://www.wired.com/review/luxus-couples-vibrator/)
  - [How Morgan Stanley is using its DevGen.AI tool, built in-house on OpenAI&#39;s GPT models, to translate legacy code into modern coding languages &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250604/p9#a250604p9)
- - [Sources: Thrive and Capital Group visited China to study its AI scene, joining a wave of US investors rekindling interest in China after DeepSeek&#39;s advances &lpar;Lulu Yilun Chen/Bloomberg&rpar;](http://www.techmeme.com/250604/p8#a250604p8)
- - [A look at Australian startup Cortical Labs&#39; CL1, billed as the first code-deployable biological computer, with 115 units shipping this summer at $35K each &lpar;Shannon Cuthrell/IEEE Spectrum&rpar;](http://www.techmeme.com/250604/p7#a250604p7)<!-- TECH:END -->
+ - [Sources: Thrive and Capital Group visited China to study its AI scene, joining a wave of US investors rekindling interest in China after DeepSeek&#39;s advances &lpar;Lulu Yilun Chen/Bloomberg&rpar;](http://www.techmeme.com/250604/p8#a250604p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Blud only took 3 seconds to turncoat](http://9gag.com/gag/aZZ2RMV)
- - 😝 [Louder then the reallity](http://9gag.com/gag/avyvvvW)
- - 💣 [Bricklayers: \u201cAI will never take my job! AI:](http://9gag.com/gag/aVv2R1v)
- - 😝 [What does that mean, mom?](http://9gag.com/gag/aLnXWnM)
- - 👉 [Current World Champion Gukesh defeats Magnus Carlsen for the first time in classic chess.](http://9gag.com/gag/aKGYYQW)<!-- MEMES:END -->
+ - 😝 [Illustration of the historical special operation of the SBU `Web`](http://9gag.com/gag/aD2XQDZ)
+ - 😝 [Posting meme origins until I get bored or die](http://9gag.com/gag/ajPKy5p)
+ - 💣 [Driver hours are driver hours](http://9gag.com/gag/avyvmzd)
+ - 😝 [Housing market reality check.](http://9gag.com/gag/aPAXrEP)
+ - 👉 [Relationship advice level: Expert.](http://9gag.com/gag/aoy8D0n)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How One Keto Trial Set Off a New War in the Nutrition World](https://www.wired.com/story/how-one-trial-set-off-a-new-war-in-the-nutrition-world-keto-cholesterol-fat/)
+ - [Q&amp;A with Google DeepMind CEO Demis Hassabis on &quot;a 50% chance&quot; of AGI in the next five to 10 years, bad actors and technical risks, AI regulation, jobs, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/250604/p15#a250604p15)
+ - [Adjustable Mattress vs. Adjustable Frame: Similar but Not the Same](https://www.wired.com/story/adjustable-frame-vs-adjustable-base/)
  - [Facing a Changing Industry, AI Activists Rethink Their Strategy](https://www.wired.com/story/report-ai-now-institute-artificial-intelligence/)
- - [Days-Long ‘Dark Retreats’ Are the Newest Spiritual Conquest for Tech Elites](https://www.wired.com/story/days-long-dark-retreats-are-the-newest-spiritual-conquest-for-tech-elites/)
- - [You have eight weeks to save your inactive Samsung account](https://www.theverge.com/news/679171/samsung-inactive-account-deletion-policy-date)
- - [Photos and partial footage of an FSD-enabled Tesla sideswiping a parked vehicle and hitting a woman in November 2023 shows FSD&#39;s limits; the NHTSA is probing it &lpar;Bloomberg&rpar;](http://www.techmeme.com/250604/p14#a250604p14)
- - [The Race to Build Trump’s ‘Golden Dome’ Missile Defense System Is On](https://www.wired.com/story/golden-dome-trump-missiles/)<!-- TECH:END -->
+ - [Days-Long ‘Dark Retreats’ Are the Newest Spiritual Conquest for Tech Elites](https://www.wired.com/story/days-long-dark-retreats-are-the-newest-spiritual-conquest-for-tech-elites/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

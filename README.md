@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brookfield says it plans to invest ~$10B to build an AI data center in the Swedish city of Strangnas, after committing to spend €20B in France earlier in 2025 &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/250604/p16#a250604p16)
- - [How to move a smart home](https://www.theverge.com/24184716/moving-smart-home-tech-setup)
- - [How One Keto Trial Set Off a New War in the Nutrition World](https://www.wired.com/story/how-one-trial-set-off-a-new-war-in-the-nutrition-world-keto-cholesterol-fat/)
- - [Q&amp;A with Google DeepMind CEO Demis Hassabis on &quot;a 50% chance&quot; of AGI in the next five to 10 years, bad actors and technical risks, AI regulation, jobs, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/250604/p15#a250604p15)
- - [Adjustable Mattress vs. Adjustable Frame: Similar but Not the Same](https://www.wired.com/story/adjustable-frame-vs-adjustable-base/)<!-- TECH:END -->
+ - [&#39;Fortnite&#39; CEO thought he&#39;d beat Apple in weeks, not years](https://appleinsider.com/articles/25/06/04/fortnite-ceo-thought-hed-beat-apple-in-weeks-not-years?utm_medium=rss)
+ - [Reddit now lets users hide posting and commenting history on their profile via a Content and Activity setting, as part of a new &quot;Curate your profile&quot; section &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250604/p17#a250604p17)
+ - [visionOS support is coming to the popular Godot engine](https://appleinsider.com/articles/25/06/04/visionos-support-is-coming-to-the-popular-godot-engine?utm_medium=rss)
+ - [The 14 Best Golf Gifts for Every Kind of Golfer &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-golfers/)
+ - [What I learned when I helped my mother move: some personal insights](https://www.theverge.com/tech/675936/moving-stress-real-estate-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

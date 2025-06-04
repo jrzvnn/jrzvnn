@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Toronto-based AI startup Cohere is seeking to raise $500M+ at a valuation of over $5.5B; it raised a $500M Series D at a $5.5B valuation in July 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/250604/p4#a250604p4)
+ - [Target Promo Codes and Deals: $50 Off](https://www.wired.com/story/target-promo-code/)
+ - [20% Home Depot Promo Codes &amp; Coupons | June 2025](https://www.wired.com/story/home-depot-promo-code/)
  - [CEO Alex Bouaziz says Deel crossed $1B annual revenue run rate in Q1 2025 and has allocated an M&amp;A budget of between $200M and $500M in 2025 &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/250604/p3#a250604p3)
- - [A bipartisan group of over 260 US state legislators sign a letter opposing a federal budget bill provision that bans states from enforcing AI laws for 10 years &lpar;Sophia Fox-Sowell/StateScoop&rpar;](http://www.techmeme.com/250604/p2#a250604p2)
- - [Court filing: Deel alleges Rippling&#39;s &quot;competitive intelligence manager&quot; Brett Alexander Johnson posed as a customer to access Deel&#39;s product and business info &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/250604/p1#a250604p1)
- - [Pokémon Violet and Scarlet’s Switch 2 update is as good as it looks](https://www.theverge.com/nintendo/679031/pokemon-violet-scarlet-switch-2-update-hands-on)
- - [NYSE Arca files with the SEC to list a Bitcoin ETF linked to Trump Media and Technology Group, the parent company of Truth Social and Truth.fi &lpar;Vildana Hajric/Bloomberg&rpar;](http://www.techmeme.com/250603/p44#a250603p44)<!-- TECH:END -->
+ - [A bipartisan group of over 260 US state legislators sign a letter opposing a federal budget bill provision that bans states from enforcing AI laws for 10 years &lpar;Sophia Fox-Sowell/StateScoop&rpar;](http://www.techmeme.com/250604/p2#a250604p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

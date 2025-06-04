@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Gaia Marcus, director of the UK-based think tank Ada Lovelace Institute, on AI regulation in the UK and Europe, AI safety, bias, and more &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250604/p10#a250604p10)
+ - [Luxus Couples Vibrator Review: Magnetic Attraction](https://www.wired.com/review/luxus-couples-vibrator/)
  - [How Morgan Stanley is using its DevGen.AI tool, built in-house on OpenAI&#39;s GPT models, to translate legacy code into modern coding languages &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250604/p9#a250604p9)
  - [Sources: Thrive and Capital Group visited China to study its AI scene, joining a wave of US investors rekindling interest in China after DeepSeek&#39;s advances &lpar;Lulu Yilun Chen/Bloomberg&rpar;](http://www.techmeme.com/250604/p8#a250604p8)
- - [A look at Australian startup Cortical Labs&#39; CL1, billed as the first code-deployable biological computer, with 115 units shipping this summer at $35K each &lpar;Shannon Cuthrell/IEEE Spectrum&rpar;](http://www.techmeme.com/250604/p7#a250604p7)
- - [Chinese startup Butterfly Effect&#39;s Manus launches text-to-video generation tool in early access for paid users, with plans to roll it out for free to all users &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250604/p6#a250604p6)
- - [AI coding startups are at risk of being disrupted by Google, Microsoft, and OpenAI; source: Microsoft&#39;s GitHub Copilot grew to over $500M in revenue last year &lpar;Reuters&rpar;](http://www.techmeme.com/250604/p5#a250604p5)<!-- TECH:END -->
+ - [A look at Australian startup Cortical Labs&#39; CL1, billed as the first code-deployable biological computer, with 115 units shipping this summer at $35K each &lpar;Shannon Cuthrell/IEEE Spectrum&rpar;](http://www.techmeme.com/250604/p7#a250604p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

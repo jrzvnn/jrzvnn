@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PlayStation reveals a new arcade-style fighting stick](https://www.theverge.com/news/680019/playstation-project-defiant-arcade-fight-stick)
- - [Source: Circle priced its upsized IPO at $31 per share, above marketed range of $27 to $28, raising nearly $1.1B and valuing the company at approximately $6.9B &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/250604/p42#a250604p42)
- - [Apple approved fewer push data personal info demands in 2024 despite government surge](https://appleinsider.com/articles/25/06/04/apple-approved-fewer-push-data-personal-info-demands-in-2024-despite-government-surge?utm_medium=rss)
- - [Meta&amp;#8217;s reportedly shopping for exclusive content on its upcoming VR headset](https://www.theverge.com/news/679891/meta-ar-vr-headset-puffin-loma-disney-a24-exclusive-streaming)
- - [Epic v. Apple: a US appeals court rejects Apple&#39;s request to pause key parts of a federal judge&#39;s order requiring it to open the App Store to more competition &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/250604/p41#a250604p41)<!-- TECH:END -->
+ - [Apple appeal to pause injunction enforcement allowing external linking fails](https://appleinsider.com/articles/25/06/04/apple-appeal-to-pause-injunction-enforcement-allowing-external-linking-fails?utm_medium=rss)
+ - [Elon Musk discovers Trump doesn’t stay bought](https://www.theverge.com/elon-musk/679970/musk-trump-beautiful-bill-spat)
+ - [Apple ordered to keep web links in the App Store](https://www.theverge.com/news/679946/apple-rejected-court-attempt-to-stop-app-store-web-links)
+ - [James Bond game 007 First Light gets first trailer](https://www.theverge.com/news/679909/007-first-light-trailer-james-bond)
+ - [PlayStation reveals a new arcade-style fighting stick](https://www.theverge.com/news/680019/playstation-project-defiant-arcade-fight-stick)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

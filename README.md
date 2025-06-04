@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple may announce new features for AirPods at WWDC, including iPhone camera control, new head gestures, and sleep detection for pausing playback &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/250604/p36#a250604p36)
  - [US removes &amp;#8216;safety&amp;#8217; from AI Safety Institute](https://www.theverge.com/ai-artificial-intelligence/679852/trump-ai-safety-institute-name-mission-change)
  - [Filing: CrowdStrike says the DOJ and SEC have requested information about the July 2024 outage caused by an update and about its revenue recognition practices &lpar;Connor Hart/Wall Street Journal&rpar;](http://www.techmeme.com/250604/p35#a250604p35)
- - [Samsung phones are getting a weird AI shopping platform nobody asked for](https://www.theverge.com/news/679541/samsung-galaxy-glance-ai-lock-screen-app)
- - [California added record clean energy — can it keep it up?](https://www.theverge.com/climate-change/679615/renewable-energy-record-capacity-growth-california)
- - [Microsoft’s LinkedIn chief is now running Office as part of an AI reorg](https://www.theverge.com/microsoft/679753/microsoft-linkedin-chief-office-ai-reorg)<!-- TECH:END -->
+ - [Could This Cash Back Card Dethrone the American Express Blue Cash Preferred for Best Grocery Card?](https://www.cnet.com/personal-finance/could-this-cash-back-card-dethrone-the-blue-cash-preferred-from-american-express-for-best-grocery-card/#ftag=CAD590a51e)
+ - [Samsung phones are getting a weird AI shopping platform nobody asked for](https://www.theverge.com/news/679541/samsung-galaxy-glance-ai-lock-screen-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

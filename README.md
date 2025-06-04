@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A potato farms turning your PC into potato](http://9gag.com/gag/an7DVwB)
- - 😝 [The power of chicken is real](http://9gag.com/gag/aqyzA8v)
- - 💣 [History had been made.](http://9gag.com/gag/aAyXm6E)
- - 😝 [That childhood fear unlocked.](http://9gag.com/gag/aRB2DQG)
- - 👉 [Relationship advice level: Expert.](http://9gag.com/gag/aoy8D0n)<!-- MEMES:END -->
+ - 😝 [Never let them know your next move!](http://9gag.com/gag/a7oNA1L)
+ - 😝 [Disney](http://9gag.com/gag/aZZ2zXX)
+ - 💣 [3 Days](http://9gag.com/gag/aD2XQp9)
+ - 😝 [Ghetto high.](http://9gag.com/gag/aW42RbZ)
+ - 👉 [Be Guided Accordingly.](http://9gag.com/gag/aAyXZv0)<!-- MEMES:END -->
 
 ---
 

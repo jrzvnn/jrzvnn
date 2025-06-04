@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump trade war delays Apple Intelligence&#39;s debut in China](https://appleinsider.com/articles/25/06/04/trump-trade-war-delays-apple-intelligences-debut-in-china?utm_medium=rss)
  - [Figma releases Dev Mode Model Context Protocol server, which provides more context about how AI designs are created in Figma &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250604/p30#a250604p30)
  - [Apple gets millions of dollars in tax refunds to stay in Cupertino](https://appleinsider.com/articles/25/06/04/apple-gets-millions-of-dollars-in-tax-refunds-to-stay-in-cupertino?utm_medium=rss)
  - [Sources: JPMorgan aims to let clients use some crypto-linked assets as collateral for loans in the coming weeks, starting with BlackRock&#39;s iShares Bitcoin Trust &lpar;Bloomberg&rpar;](http://www.techmeme.com/250604/p29#a250604p29)
- - [Perplexity’s CEO Sees AI Agents as the Next Web Battleground](https://www.wired.com/story/perplexitys-ceo-sees-ai-agents-as-the-next-web-battleground/)
- - [Mind Security, which offers AI-powered automated data loss prevention services to help prevent breaches, raised a $30M Series A &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250604/p28#a250604p28)<!-- TECH:END -->
+ - [Perplexity’s CEO Sees AI Agents as the Next Web Battleground](https://www.wired.com/story/perplexitys-ceo-sees-ai-agents-as-the-next-web-battleground/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

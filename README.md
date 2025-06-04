@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Qualcomm CEO downplays importance of Apple relationship after C1 modem](https://appleinsider.com/articles/25/06/04/qualcomm-ceo-downplays-importance-of-apple-relationship-after-c1-modem?utm_medium=rss)
+ - [ICE Quietly Scales Back Rules for Courthouse Raids](https://www.wired.com/story/ice-quietly-scales-back-rules-for-courthouse-raids/)
  - [Meta reveals more information about its research glasses Aria Gen 2, including their form factor, computer vision cameras, sensors, and on-device compute &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250604/p43#a250604p43)
  - [Apple appeal to pause injunction enforcement allowing external linking fails](https://appleinsider.com/articles/25/06/04/apple-appeal-to-pause-injunction-enforcement-allowing-external-linking-fails?utm_medium=rss)
- - [Elon Musk discovers Trump doesn’t stay bought](https://www.theverge.com/elon-musk/679970/musk-trump-beautiful-bill-spat)
- - [Apple ordered to keep web links in the App Store](https://www.theverge.com/news/679946/apple-rejected-court-attempt-to-stop-app-store-web-links)
- - [James Bond game 007 First Light gets first trailer](https://www.theverge.com/news/679909/007-first-light-trailer-james-bond)<!-- TECH:END -->
+ - [Elon Musk discovers Trump doesn’t stay bought](https://www.theverge.com/elon-musk/679970/musk-trump-beautiful-bill-spat)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

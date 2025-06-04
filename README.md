@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ghetto high.](http://9gag.com/gag/aW42RbZ)
- - 😝 [Shout out to one of the dumbest f**king scenes in movie history](http://9gag.com/gag/ajPKRDp)
- - 💣 [Enough internet for today](http://9gag.com/gag/ajPKyyw)
- - 😝 [Road Rage. U can see the shadow](http://9gag.com/gag/aByXvNA)
- - 👉 [Be Guided Accordingly.](http://9gag.com/gag/aAyXZv0)<!-- MEMES:END -->
+ - 😝 [Have you seen the youtube vid? wow](http://9gag.com/gag/a87wnze)
+ - 😝 [Nailed it... right into the algae.](http://9gag.com/gag/aryBzG6)
+ - 💣 [Road Rage. U can see the shadow](http://9gag.com/gag/aByXvNA)
+ - 😝 [Enough internet for today](http://9gag.com/gag/ajPKyyw)
+ - 👉 [I am the corpo idiot](http://9gag.com/gag/amoVR3o)<!-- MEMES:END -->
 
 ---
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never let them know your next move!](http://9gag.com/gag/a7oNA1L)
- - 😝 [Disney](http://9gag.com/gag/aZZ2zXX)
- - 💣 [3 Days](http://9gag.com/gag/aD2XQp9)
+ - 😝 [Suddenly I&#39;m a chef](http://9gag.com/gag/a9yXB7Z)
+ - 😝 [Hope Greta will enjoy her stay in Gaza!](http://9gag.com/gag/a4PqWwv)
+ - 💣 [Shout out to one of the dumbest f**king scenes in movie history](http://9gag.com/gag/ajPKRDp)
  - 😝 [Ghetto high.](http://9gag.com/gag/aW42RbZ)
  - 👉 [Be Guided Accordingly.](http://9gag.com/gag/aAyXZv0)<!-- MEMES:END -->
 

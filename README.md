@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Race to Build Trump’s ‘Golden Dome’ Missile Defense System Is On](https://www.wired.com/story/golden-dome-trump-missiles/)
- - [5 Best Smart Scales &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-smart-scales/)
- - [Google pauses the rollout of Photos&#39; AI-powered Ask Photos feature due to issues with latency, quality, and user experience, per a Google product manager on X &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250604/p13#a250604p13)
- - [An interview with Mario Kart World producer Kosuke Yabuki on balancing chaos and accessibility, redesigning core mechanics, and more, ahead of its June 5 launch &lpar;Christopher Cruz/Rolling Stone&rpar;](http://www.techmeme.com/250604/p12#a250604p12)
- - [Google DeepMind’s CEO Thinks AI Will Make Humans Less Selfish](https://www.wired.com/story/google-deepminds-ceo-demis-hassabis-thinks-ai-will-make-humans-less-selfish/)<!-- TECH:END -->
+ - [Facing a Changing Industry, AI Activists Rethink Their Strategy](https://www.wired.com/story/report-ai-now-institute-artificial-intelligence/)
+ - [Days-Long ‘Dark Retreats’ Are the Newest Spiritual Conquest for Tech Elites](https://www.wired.com/story/days-long-dark-retreats-are-the-newest-spiritual-conquest-for-tech-elites/)
+ - [You have eight weeks to save your inactive Samsung account](https://www.theverge.com/news/679171/samsung-inactive-account-deletion-policy-date)
+ - [Photos and partial footage of an FSD-enabled Tesla sideswiping a parked vehicle and hitting a woman in November 2023 shows FSD&#39;s limits; the NHTSA is probing it &lpar;Bloomberg&rpar;](http://www.techmeme.com/250604/p14#a250604p14)
+ - [The Race to Build Trump’s ‘Golden Dome’ Missile Defense System Is On](https://www.wired.com/story/golden-dome-trump-missiles/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

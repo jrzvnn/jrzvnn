@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT-4o, Claude 3.7 Sonnet, Gemini 2.0 Flash, Llama 4, and Copilot comparison: Claude was the best overall with the highest consistency and no hallucinations &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/250604/p19#a250604p19)
- - [Uber’s senior accounts, with larger typeface and fewer buttons, are now widely available](https://www.theverge.com/news/678874/uber-senior-account-elderly-font-simple)
- - [No Man’s Sky is getting a Switch 2 update in time for launch](https://www.theverge.com/news/678957/no-mans-sky-switch-2-launch-update)
- - [Payment companies team up to help developers ditch App Store billing](https://www.theverge.com/news/679149/paddle-revenuecat-integration-apple-app-store)
- - [Anker’s newest power station is a good mix of power and portability](https://www.theverge.com/news/679150/anker-solix-f3000-power-station-specs-price-comparison)<!-- TECH:END -->
+ - [Microsoft launches a free cybersecurity program for European governments to boost defenses against AI-enhanced threats, particularly state-sponsored attacks &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/250604/p21#a250604p21)
+ - [What’s the first thing you’re doing with your Switch 2?](https://www.theverge.com/news/678744/switch-2-first-thing-youll-be-doing)
+ - [What to expect from iOS 26 at WWDC: New games app, redesign, and more](https://appleinsider.com/articles/25/05/30/what-to-expect-from-ios-26-at-wwdc-new-games-app-redesign-and-more?utm_medium=rss)
+ - [Microsoft says it didn&#39;t cut services to the International Criminal Court, after an AP report in May said it &quot;cancelled&quot; the email of ICC prosecutor Karim Khan &lpar;Sam Clark/Politico&rpar;](http://www.techmeme.com/250604/p20#a250604p20)
+ - [ChatGPT-4o, Claude 3.7 Sonnet, Gemini 2.0 Flash, Llama 4, and Copilot comparison: Claude was the best overall with the highest consistency and no hallucinations &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/250604/p19#a250604p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

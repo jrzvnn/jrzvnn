@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now that summer&#39;s here, don&#39;t let a $30 summer dress cost you 18 years in child support](http://9gag.com/gag/agm2Epr)
+ - 😝 [Are they even human?](http://9gag.com/gag/abA2E0X)
  - 😝 [War](http://9gag.com/gag/a5Qj5DL)
- - 💣 [A potato farms turning your PC into potato](http://9gag.com/gag/an7DVwB)
+ - 💣 [The troll toll](http://9gag.com/gag/aW42RvA)
  - 😝 [Be Guided Accordingly.](http://9gag.com/gag/aAyXZv0)
- - 👉 [How to fit 4 Ts](http://9gag.com/gag/aLnXd65)<!-- MEMES:END -->
+ - 👉 [I am the corpo idiot](http://9gag.com/gag/amoVR3o)<!-- MEMES:END -->
 
 ---
 

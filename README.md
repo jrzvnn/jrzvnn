@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My arms gave up after reading that number.](http://9gag.com/gag/a5QjDQg)
- - 😝 [Shout out to one of the dumbest f**king scenes in movie history](http://9gag.com/gag/ajPKRDp)
- - 💣 [Now that summer&#39;s here, don&#39;t let a $30 summer dress cost you 18 years in child support](http://9gag.com/gag/agm2Epr)
- - 😝 [Be Guided Accordingly.](http://9gag.com/gag/aAyXZv0)
- - 👉 [I am the corpo idiot](http://9gag.com/gag/amoVR3o)<!-- MEMES:END -->
+ - 😝 [That childhood fear unlocked.](http://9gag.com/gag/aRB2DQG)
+ - 😝 [Well damn](http://9gag.com/gag/aXP2dGP)
+ - 💣 [A potato farms turning your PC into potato](http://9gag.com/gag/an7DVwB)
+ - 😝 [Not the same since 2009](http://9gag.com/gag/amoVnQv)
+ - 👉 [History had been made.](http://9gag.com/gag/aAyXm6E)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Are they even human?](http://9gag.com/gag/abA2E0X)
- - 😝 [War](http://9gag.com/gag/a5Qj5DL)
- - 💣 [The troll toll](http://9gag.com/gag/aW42RvA)
- - 😝 [Be Guided Accordingly.](http://9gag.com/gag/aAyXZv0)
- - 👉 [I am the corpo idiot](http://9gag.com/gag/amoVR3o)<!-- MEMES:END -->
+ - 😝 [Never let them know your next move!](http://9gag.com/gag/a7oNA1L)
+ - 😝 [Ghetto high.](http://9gag.com/gag/aW42RbZ)
+ - 💣 [War](http://9gag.com/gag/a5Qj5DL)
+ - 😝 [I am the corpo idiot](http://9gag.com/gag/amoVR3o)
+ - 👉 [Be Guided Accordingly.](http://9gag.com/gag/aAyXZv0)<!-- MEMES:END -->
 
 ---
 

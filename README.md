@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Court filing: Deel alleges Rippling&#39;s &quot;competitive intelligence manager&quot; Brett Alexander Johnson posed as a customer to access Deel&#39;s product and business info &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/250604/p1#a250604p1)
  - [Pokémon Violet and Scarlet’s Switch 2 update is as good as it looks](https://www.theverge.com/nintendo/679031/pokemon-violet-scarlet-switch-2-update-hands-on)
  - [NYSE Arca files with the SEC to list a Bitcoin ETF linked to Trump Media and Technology Group, the parent company of Truth Social and Truth.fi &lpar;Vildana Hajric/Bloomberg&rpar;](http://www.techmeme.com/250603/p44#a250603p44)
  - [Windsurf says Anthropic is limiting its direct access to its AI models, including the newest Claude 4 family and the highly popular Claude 3 models &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250603/p43#a250603p43)
- - [Asana reports Q1 revenue of $187.3M, vs. $185.5M est., up 9% YoY vs. 26% last year, and adjusted EPS of $0.05, vs. $0.02 est.; ASAN falls 8%+ after hours &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250603/p42#a250603p42)
- - [Source: ~1,000 people have left the CISA during the second Trump administration, including 750+ taking a buyout, cutting CISA&#39;s workforce by nearly a third &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/250603/p41#a250603p41)<!-- TECH:END -->
+ - [Asana reports Q1 revenue of $187.3M, vs. $185.5M est., up 9% YoY vs. 26% last year, and adjusted EPS of $0.05, vs. $0.02 est.; ASAN falls 8%+ after hours &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250603/p42#a250603p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

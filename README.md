@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI coding startups are at risk of being disrupted by Google, Microsoft, and OpenAI; source: Microsoft&#39;s GitHub Copilot grew to over $500M in revenue last year &lpar;Reuters&rpar;](http://www.techmeme.com/250604/p5#a250604p5)
  - [Sources: Toronto-based AI startup Cohere is seeking to raise $500M+ at a valuation of over $5.5B; it raised a $500M Series D at a $5.5B valuation in July 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/250604/p4#a250604p4)
  - [Target Promo Codes and Deals: $50 Off](https://www.wired.com/story/target-promo-code/)
  - [20% Home Depot Promo Codes &amp; Coupons | June 2025](https://www.wired.com/story/home-depot-promo-code/)
- - [CEO Alex Bouaziz says Deel crossed $1B annual revenue run rate in Q1 2025 and has allocated an M&amp;A budget of between $200M and $500M in 2025 &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/250604/p3#a250604p3)
- - [A bipartisan group of over 260 US state legislators sign a letter opposing a federal budget bill provision that bans states from enforcing AI laws for 10 years &lpar;Sophia Fox-Sowell/StateScoop&rpar;](http://www.techmeme.com/250604/p2#a250604p2)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, June 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-june-4/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

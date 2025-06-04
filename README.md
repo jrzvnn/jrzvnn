@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Figma releases Dev Mode Model Context Protocol server, which provides more context about how AI designs are created in Figma &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250604/p30#a250604p30)
+ - [Apple gets millions of dollars in tax refunds to stay in Cupertino](https://appleinsider.com/articles/25/06/04/apple-gets-millions-of-dollars-in-tax-refunds-to-stay-in-cupertino?utm_medium=rss)
+ - [Sources: JPMorgan aims to let clients use some crypto-linked assets as collateral for loans in the coming weeks, starting with BlackRock&#39;s iShares Bitcoin Trust &lpar;Bloomberg&rpar;](http://www.techmeme.com/250604/p29#a250604p29)
  - [Perplexity’s CEO Sees AI Agents as the Next Web Battleground](https://www.wired.com/story/perplexitys-ceo-sees-ai-agents-as-the-next-web-battleground/)
- - [Mind Security, which offers AI-powered automated data loss prevention services to help prevent breaches, raised a $30M Series A &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250604/p28#a250604p28)
- - [Apple accused of cashing in as UK battles phone theft surge](https://appleinsider.com/articles/25/06/04/apple-accused-of-cashing-in-as-uk-battles-phone-theft-surge?utm_medium=rss)
- - [Surface Pro 12-inch review: heart warmer](https://www.theverge.com/reviews/679175/microsoft-surface-pro-12-inch-review)
- - [Nintendo is updating even more games for the Switch 2](https://www.theverge.com/news/679468/nintendo-switch-2-game-updates-more-titles)<!-- TECH:END -->
+ - [Mind Security, which offers AI-powered automated data loss prevention services to help prevent breaches, raised a $30M Series A &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250604/p28#a250604p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Fortnite&#39; CEO thought he&#39;d beat Apple in weeks, not years](https://appleinsider.com/articles/25/06/04/fortnite-ceo-thought-hed-beat-apple-in-weeks-not-years?utm_medium=rss)
- - [Reddit now lets users hide posting and commenting history on their profile via a Content and Activity setting, as part of a new &quot;Curate your profile&quot; section &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250604/p17#a250604p17)
- - [visionOS support is coming to the popular Godot engine](https://appleinsider.com/articles/25/06/04/visionos-support-is-coming-to-the-popular-godot-engine?utm_medium=rss)
- - [The 14 Best Golf Gifts for Every Kind of Golfer &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-golfers/)
- - [What I learned when I helped my mother move: some personal insights](https://www.theverge.com/tech/675936/moving-stress-real-estate-how-to)<!-- TECH:END -->
+ - [ChatGPT-4o, Claude 3.7 Sonnet, Gemini 2.0 Flash, Llama 4, and Copilot comparison: Claude was the best overall with the highest consistency and no hallucinations &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/250604/p19#a250604p19)
+ - [Uber’s senior accounts, with larger typeface and fewer buttons, are now widely available](https://www.theverge.com/news/678874/uber-senior-account-elderly-font-simple)
+ - [No Man’s Sky is getting a Switch 2 update in time for launch](https://www.theverge.com/news/678957/no-mans-sky-switch-2-launch-update)
+ - [Payment companies team up to help developers ditch App Store billing](https://www.theverge.com/news/679149/paddle-revenuecat-integration-apple-app-store)
+ - [Anker’s newest power station is a good mix of power and portability](https://www.theverge.com/news/679150/anker-solix-f3000-power-station-specs-price-comparison)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

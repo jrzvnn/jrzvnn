@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump trade war delays Apple Intelligence&#39;s debut in China](https://appleinsider.com/articles/25/06/04/trump-trade-war-delays-apple-intelligences-debut-in-china?utm_medium=rss)
- - [The terrific HoverAir X1 selfie drone has plunged to its best price yet](https://www.theverge.com/tech/679510/hoverair-x1-drone-amazon-echo-spot-deal-sale)
- - [ChatGPT can now read your Google Drive and Dropbox](https://www.theverge.com/news/679580/chatgpt-google-drive-dropbox-meeting-notes)
- - [Figma releases Dev Mode Model Context Protocol server, which provides more context about how AI designs are created in Figma &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250604/p30#a250604p30)
- - [Apple gets millions of dollars in tax refunds to stay in Cupertino](https://appleinsider.com/articles/25/06/04/apple-gets-millions-of-dollars-in-tax-refunds-to-stay-in-cupertino?utm_medium=rss)<!-- TECH:END -->
+ - [OpenAI says it has 3M &quot;paying business users&quot;, up from 2M in February; ChatGPT Team users can now use a &quot;record mode&quot; for taking notes during meetings &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250604/p31#a250604p31)
+ - [Trumpworld Is Fighting Over &#39;Official&#39; Crypto Wallet](https://www.wired.com/story/trumpworld-is-fighting-over-official-crypto-wallet/)
+ - [LG’s first 5K ultra-wide monitor with Thunderbolt 5 is made for data crunchers](https://www.theverge.com/news/679535/lg-ultrafine-40wt95uf-monitor-display-thunderbolt-5-5k)
+ - [Tariff Impacts Are Real: I Found 12 Companies That Have Confirmed Price Hikes](https://www.cnet.com/personal-finance/tariff-impacts-are-real-i-found-12-companies-that-have-confirmed-price-hikes/#ftag=CAD590a51e)
+ - [Trump trade war delays Apple Intelligence&#39;s debut in China](https://appleinsider.com/articles/25/06/04/trump-trade-war-delays-apple-intelligences-debut-in-china?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

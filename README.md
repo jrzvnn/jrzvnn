@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon is creating an AI team within its Lab126 hardware R&amp;D unit that will help develop an agentic AI framework for use in its robotics operations &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250604/p40#a250604p40)
+ - [Apple could be adding camera controls and sleep detection to your AirPods](https://www.theverge.com/news/679930/apple-airpods-camera-controls-sleep-detection-wwdc-rumor)
  - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
  - [Two FCC commissioners announce they&#39;ll depart this week, creating three vacancies on the five-member panel amid a probe into EchoStar&#39;s 5G service obligations &lpar;Kelcee Griffis/Bloomberg&rpar;](http://www.techmeme.com/250604/p39#a250604p39)
- - [Sources: Chinese hackers breached a US telecom company in the summer of 2023, a year before US officials and cybersecurity firms detected the Salt Typhoon hacks &lpar;Jake Bleiberg/Bloomberg&rpar;](http://www.techmeme.com/250604/p38#a250604p38)
- - [PlayStation State of Play June 2025: all the news and trailers](https://www.theverge.com/sony-playstation/678933/playstation-state-of-play-june-2025-news-trailers)
- - [SEC filing: Uber appoints Palo Alto CEO Nikesh Arora to its board of directors following a broader executive shakeup this week &lpar;CNBC&rpar;](http://www.techmeme.com/250604/p37#a250604p37)<!-- TECH:END -->
+ - [Sources: Chinese hackers breached a US telecom company in the summer of 2023, a year before US officials and cybersecurity firms detected the Salt Typhoon hacks &lpar;Jake Bleiberg/Bloomberg&rpar;](http://www.techmeme.com/250604/p38#a250604p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

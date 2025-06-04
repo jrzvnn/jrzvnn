@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [I am the corpo idiot](http://9gag.com/gag/amoVR3o)
  - 💣 [Just needed one more outlet...](http://9gag.com/gag/ayNQPoy)
  - 😝 [Road Rage. U can see the shadow](http://9gag.com/gag/aByXvNA)
- - 👉 [I don&#39;t know where else to ask. I just pulled those nails out of a 55 yo apartment. they have a freely spinning head. What&#39;s their purpose?](http://9gag.com/gag/a0eEOyB)<!-- MEMES:END -->
+ - 👉 [Jesus Netflix, take it easy.](https://www.reddit.com/r/funny/comments/1l3ks5p/jesus_netflix_take_it_easy/)<!-- MEMES:END -->
 
 ---
 

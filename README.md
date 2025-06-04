@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: ~1,000 people have left the CISA during the second Trump administration, including 750+ taking a buyout, cutting CISA&#39;s workforce by nearly a third &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/250603/p41#a250603p41)
+ - [Epomaker Split65 keyboard review: A unique design that will split opinion](https://appleinsider.com/articles/25/06/04/epomaker-split65-keyboard-review-a-unique-design-that-will-split-opinion?utm_medium=rss)
  - [Qualcomm releases patches to fix a series of vulnerabilities in dozens of chips, including three zero-days that &quot;may be under limited, targeted exploitation&quot; &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250603/p40#a250603p40)
  - [Five more iOS 26 features leak from a reliable source](https://appleinsider.com/articles/25/06/03/five-more-ios-26-features-leak-from-a-reliable-source?utm_medium=rss)
- - [The Trump administration announces plans to reorganize the US AI Safety Institute into the new Center for AI Standards and Innovation &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/250603/p39#a250603p39)
- - [Elon Musk calls Trump’s budget bill a ‘disgusting abomination’](https://www.theverge.com/elon-musk/679093/elon-musk-trump-budget-bill-abomination)
- - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
+ - [The Trump administration announces plans to reorganize the US AI Safety Institute into the new Center for AI Standards and Innovation &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/250603/p39#a250603p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

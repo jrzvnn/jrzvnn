@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Nokia, Nvidia, Safran, and 40+ organizations plan to build an EU-funded unmanned drone project to protect critical infrastructure, set to launch in three years &lpar;Nathan Vifflin/Reuters&rpar;](http://www.techmeme.com/250604/p11#a250604p11)
- - [‘Buy Now, Pay Later’ Booms as Economic Pressures Mount](https://www.wired.com/story/bnpl-booms-as-economic-pressures-mount/)
- - [An interview with Gaia Marcus, director of the UK-based think tank Ada Lovelace Institute, on AI regulation in the UK and Europe, AI safety, bias, and more &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250604/p10#a250604p10)
- - [Luxus Couples Vibrator Review: Magnetic Attraction](https://www.wired.com/review/luxus-couples-vibrator/)
- - [How Morgan Stanley is using its DevGen.AI tool, built in-house on OpenAI&#39;s GPT models, to translate legacy code into modern coding languages &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250604/p9#a250604p9)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 4, #254](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-4-254/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 4, #458](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-4-458/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 4, #724](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-4-724/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for June 4, #1446](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-4-1446/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

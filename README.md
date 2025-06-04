@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Driver hours are driver hours](http://9gag.com/gag/avyvmzd)
- - 😝 [Monday](http://9gag.com/gag/a7oNnbe)
- - 💣 [Expectation and reality](http://9gag.com/gag/a0eEEEB)
- - 😝 [Illustration of the historical special operation of the SBU `Web`](http://9gag.com/gag/aD2XQDZ)
- - 👉 [Housing market reality check.](http://9gag.com/gag/aPAXrEP)<!-- MEMES:END -->
+ - 😝 [Let them fight](http://9gag.com/gag/aqyzzzp)
+ - 😝 [Many such cases.](http://9gag.com/gag/aO81RG3)
+ - 💣 [Can&#39;t wait](http://9gag.com/gag/a87wwqp)
+ - 😝 [When she says you can&#39;t find someone like her, show her this.](http://9gag.com/gag/amoVVGV)
+ - 👉 [Shocking safety Tip: A cop came to my high school and told the girls \u201cyou have a better chance of surviving a gun shot than a man who takes you to a 2nd location\u201d never let a man force you into his car even at gunpoint`](http://9gag.com/gag/abA2Qrp)<!-- MEMES:END -->
 
 ---
 

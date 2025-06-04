@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Illustration of the historical special operation of the SBU `Web`](http://9gag.com/gag/aD2XQDZ)
- - 😝 [Posting meme origins until I get bored or die](http://9gag.com/gag/ajPKy5p)
- - 💣 [Driver hours are driver hours](http://9gag.com/gag/avyvmzd)
- - 😝 [Housing market reality check.](http://9gag.com/gag/aPAXrEP)
- - 👉 [Relationship advice level: Expert.](http://9gag.com/gag/aoy8D0n)<!-- MEMES:END -->
+ - 😝 [Louder then the reallity](http://9gag.com/gag/avyvvvW)
+ - 😝 [Disney](http://9gag.com/gag/aZZ2zXX)
+ - 💣 [Why did they fail?](http://9gag.com/gag/aAyXOBd)
+ - 😝 [Now that summer&#39;s here, don&#39;t let a $30 summer dress cost you 18 years in child support](http://9gag.com/gag/agm2Epr)
+ - 👉 [The internet responds to Tinder&#39;s height filter debate.](http://9gag.com/gag/a87wKnd)<!-- MEMES:END -->
 
 ---
 

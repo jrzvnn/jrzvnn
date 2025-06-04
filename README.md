@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [visionOS 26 at WWDC rumored to have a big emphasis on gaming](https://appleinsider.com/articles/25/06/04/visionos-26-at-wwdc-rumored-to-have-a-big-emphasis-on-gaming?utm_medium=rss)
- - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)
- - [Here’s what’s inside Meta’s experimental new AR glasses](https://www.theverge.com/news/679707/meta-aria-gen-2-upgrades-specs-ai)
- - [Here’s how to buy a Switch 2 at launch](https://www.theverge.com/tech/679393/nintendo-switch-2-launch-release-buy-restock)
- - [California added record clean energy — can it keep it up?](https://www.theverge.com/climate-change/679615/renewable-energy-record-capacity-growth-california)<!-- TECH:END -->
+ - [California added record clean energy — can it keep it up?](https://www.theverge.com/climate-change/679615/renewable-energy-record-capacity-growth-california)
+ - [Microsoft’s LinkedIn chief is now running Office as part of an AI reorg](https://www.theverge.com/microsoft/679753/microsoft-linkedin-chief-office-ai-reorg)
+ - [Reddit sues Anthropic, alleging its bots accessed Reddit more than 100,000 times since last July](https://www.theverge.com/ai-artificial-intelligence/679768/reddit-sues-anthropic-alleging-its-bots-accessed-reddit-more-than-100000-times-since-last-july)
+ - [Switch 2 Scalpers Are Auctioning Off Their Preorders to the Highest Bidder](https://www.wired.com/story/switch-2-scalpers/)
+ - [visionOS 26 at WWDC rumored to have a big emphasis on gaming](https://appleinsider.com/articles/25/06/04/visionos-26-at-wwdc-rumored-to-have-a-big-emphasis-on-gaming?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

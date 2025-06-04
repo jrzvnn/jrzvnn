@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US removes &amp;#8216;safety&amp;#8217; from AI Safety Institute](https://www.theverge.com/ai-artificial-intelligence/679852/trump-ai-safety-institute-name-mission-change)
  - [Filing: CrowdStrike says the DOJ and SEC have requested information about the July 2024 outage caused by an update and about its revenue recognition practices &lpar;Connor Hart/Wall Street Journal&rpar;](http://www.techmeme.com/250604/p35#a250604p35)
  - [Samsung phones are getting a weird AI shopping platform nobody asked for](https://www.theverge.com/news/679541/samsung-galaxy-glance-ai-lock-screen-app)
  - [California added record clean energy — can it keep it up?](https://www.theverge.com/climate-change/679615/renewable-energy-record-capacity-growth-california)
- - [Microsoft’s LinkedIn chief is now running Office as part of an AI reorg](https://www.theverge.com/microsoft/679753/microsoft-linkedin-chief-office-ai-reorg)
- - [Reddit sues Anthropic, alleging its bots accessed Reddit more than 100,000 times since last July](https://www.theverge.com/ai-artificial-intelligence/679768/reddit-sues-anthropic-alleging-its-bots-accessed-reddit-more-than-100000-times-since-last-july)<!-- TECH:END -->
+ - [Microsoft’s LinkedIn chief is now running Office as part of an AI reorg](https://www.theverge.com/microsoft/679753/microsoft-linkedin-chief-office-ai-reorg)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

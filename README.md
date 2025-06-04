@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft launches a free cybersecurity program for European governments to boost defenses against AI-enhanced threats, particularly state-sponsored attacks &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/250604/p21#a250604p21)
- - [What’s the first thing you’re doing with your Switch 2?](https://www.theverge.com/news/678744/switch-2-first-thing-youll-be-doing)
- - [What to expect from iOS 26 at WWDC: New games app, redesign, and more](https://appleinsider.com/articles/25/05/30/what-to-expect-from-ios-26-at-wwdc-new-games-app-redesign-and-more?utm_medium=rss)
- - [Microsoft says it didn&#39;t cut services to the International Criminal Court, after an AP report in May said it &quot;cancelled&quot; the email of ICC prosecutor Karim Khan &lpar;Sam Clark/Politico&rpar;](http://www.techmeme.com/250604/p20#a250604p20)
- - [ChatGPT-4o, Claude 3.7 Sonnet, Gemini 2.0 Flash, Llama 4, and Copilot comparison: Claude was the best overall with the highest consistency and no hallucinations &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/250604/p19#a250604p19)<!-- TECH:END -->
+ - [Mistral releases Mistral Code, a &quot;vibe coding&quot; client forked from open source project Continue, in private beta on JetBrains platforms and VS Code &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250604/p22#a250604p22)
+ - [The Washington Post is planning to let amateur writers submit columns — with the help of AI](https://www.theverge.com/news/679332/washington-post-opinion-pieces-ai-tool-ember)
+ - [The single best wireless controller I’ve ever used](https://www.theverge.com/tech/678772/8bitdo-controller-gaming-favorites)
+ - [Remigo One Review: A Very Compelling Electric Outboard Motor](https://www.wired.com/review/remigo-one/)
+ - [The Nintendo Switch 2 is here: all of the launch news](https://www.theverge.com/news/676901/nintendo-switch-2-launch-here)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

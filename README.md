@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Boox Go Color 7 Gen II review: Not that new, but still improved](https://appleinsider.com/articles/25/06/04/boox-go-color-7-gen-ii-review-not-that-new-but-still-improved?utm_medium=rss)
  - [Reddit sues Anthropic, alleging it accessed Reddit 100K+ times after saying it had stopped; Reddit has reached formal licensing deals with OpenAI and Google &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/250604/p33#a250604p33)
  - [OpenAI rolls out connectors for services like Dropbox and OneDrive for ChatGPT Team, Enterprise, and Edu users; MCP support is coming to Pro, Team, Enterprise &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250604/p32#a250604p32)
  - [OpenAI says it has 3M &quot;paying business users&quot;, up from 2M in February; ChatGPT Team users can now use a &quot;record mode&quot; for taking notes during meetings &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250604/p31#a250604p31)
- - [Trumpworld Is Fighting Over ‘Official’ Crypto Wallet](https://www.wired.com/story/trumpworld-is-fighting-over-official-crypto-wallet/)
- - [LG’s first 5K ultra-wide monitor with Thunderbolt 5 is made for data crunchers](https://www.theverge.com/news/679535/lg-ultrafine-40wt95uf-monitor-display-thunderbolt-5-5k)<!-- TECH:END -->
+ - [Trumpworld Is Fighting Over ‘Official’ Crypto Wallet](https://www.wired.com/story/trumpworld-is-fighting-over-official-crypto-wallet/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

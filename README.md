@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says LinkedIn CEO Ryan Roslansky will now manage its Office group, reporting to EVP of Experiences and Devices Rajesh Jha; he will remain LinkedIn CEO &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/250604/p26#a250604p26)
- - [Fortnite on the Switch 2 will support GameChat and mouse controls](https://www.theverge.com/news/679367/fortnite-nintendo-switch-2-update-gamechat-mouse-controls)
- - [‘Big Balls’ Is Officially a Full-Time Government Employee](https://www.wired.com/story/big-balls-young-doge-converted-into-full-time-government-employees/)
- - [15 Best Gifts for Coworkers Under $50, Curated by WIRED &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-coworkers/)
- - [iPhone XS, iPhone XR probably won&#39;t have iOS 26 support](https://appleinsider.com/articles/25/06/04/iphone-xs-iphone-xr-probably-wont-have-ios-26-support?utm_medium=rss)<!-- TECH:END -->
+ - [Figma will let your AI access its design servers](https://www.theverge.com/news/679439/figma-dev-mode-mcp-server-beta-release)
+ - [No surprise - iPhone &amp; iPad anchor Apple&#39;s ecosystem](https://appleinsider.com/articles/25/06/04/no-surprise---iphone-ipad-anchor-apples-ecosystem?utm_medium=rss)
+ - [Apple gets millions of dollars in tax refunds to stay in Cupertino](https://appleinsider.com/articles/25/06/04/apple-gets-millions-of-dollars-in-tax-refunds-to-stay-in-cupertino?utm_medium=rss)
+ - [How I plan to review the Nintendo Switch 2](https://www.theverge.com/nintendo/679346/nintendo-switch-2-review-guidelines-plan-launch)
+ - [Microsoft says LinkedIn CEO Ryan Roslansky will now manage its Office group, reporting to EVP of Experiences and Devices Rajesh Jha; he will remain LinkedIn CEO &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/250604/p26#a250604p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

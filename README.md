@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [War](http://9gag.com/gag/a5Qj5DL)
- - 😝 [Waiting for the little sister to spill the tea...](http://9gag.com/gag/aGy2OxX)
- - 💣 [A potato farms turning your PC into potato](http://9gag.com/gag/an7DVwB)
+ - 😝 [Many such cases.](http://9gag.com/gag/aO81RG3)
+ - 😝 [The internet responds to Tinder&#39;s height filter debate.](http://9gag.com/gag/a87wKnd)
+ - 💣 [Shout out to one of the dumbest f**king scenes in movie history](http://9gag.com/gag/ajPKRDp)
  - 😝 [Be Guided Accordingly.](http://9gag.com/gag/aAyXZv0)
- - 👉 [Shout out to one of the dumbest f**king scenes in movie history](http://9gag.com/gag/ajPKRDp)<!-- MEMES:END -->
+ - 👉 [A potato farms turning your PC into potato](http://9gag.com/gag/an7DVwB)<!-- MEMES:END -->
 
 ---
 

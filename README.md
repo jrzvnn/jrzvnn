@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Expectation and reality](http://9gag.com/gag/a0eEEEB)
- - 😝 [Monday](http://9gag.com/gag/a7oNnbe)
- - 💣 [Housing market reality check.](http://9gag.com/gag/aPAXrEP)
- - 😝 [Tradition](http://9gag.com/gag/amoVRpX)
- - 👉 [Illustration of the historical special operation of the SBU `Web`](http://9gag.com/gag/aD2XQDZ)<!-- MEMES:END -->
+ - 😝 [Very few will know where this is from](http://9gag.com/gag/ajPKKG8)
+ - 😝 [Let them fight](http://9gag.com/gag/aqyzzzp)
+ - 💣 [Disney](http://9gag.com/gag/aZZ2zXX)
+ - 😝 [Why did they fail?](http://9gag.com/gag/aAyXOBd)
+ - 👉 [Now that summer&#39;s here, don&#39;t let a $30 summer dress cost you 18 years in child support](http://9gag.com/gag/agm2Epr)<!-- MEMES:END -->
 
 ---
 

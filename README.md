@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Should i call you.. mister?](http://9gag.com/gag/aPAXXzw)
+ - 😝 [War](http://9gag.com/gag/a5Qj5DL)
  - 😝 [Waiting for the little sister to spill the tea...](http://9gag.com/gag/aGy2OxX)
- - 💣 [Disney](http://9gag.com/gag/aZZ2zXX)
- - 😝 [A potato farms turning your PC into potato](http://9gag.com/gag/an7DVwB)
+ - 💣 [A potato farms turning your PC into potato](http://9gag.com/gag/an7DVwB)
+ - 😝 [Be Guided Accordingly.](http://9gag.com/gag/aAyXZv0)
  - 👉 [Shout out to one of the dumbest f**king scenes in movie history](http://9gag.com/gag/ajPKRDp)<!-- MEMES:END -->
 
 ---

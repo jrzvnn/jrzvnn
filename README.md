@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mistral releases Mistral Code, a &quot;vibe coding&quot; client forked from open source project Continue, in private beta on JetBrains platforms and VS Code &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250604/p22#a250604p22)
- - [The Washington Post is planning to let amateur writers submit columns — with the help of AI](https://www.theverge.com/news/679332/washington-post-opinion-pieces-ai-tool-ember)
- - [The single best wireless controller I’ve ever used](https://www.theverge.com/tech/678772/8bitdo-controller-gaming-favorites)
- - [Remigo One Review: A Very Compelling Electric Outboard Motor](https://www.wired.com/review/remigo-one/)
- - [The Nintendo Switch 2 is here: all of the launch news](https://www.theverge.com/news/676901/nintendo-switch-2-launch-here)<!-- TECH:END -->
+ - [AMC signs a deal with Runway to use its tech to generate marketing images and pre-visualize unproduced shows, the first cable player to work with Runway &lpar;Steven Zeitchik/The Hollywood Reporter&rpar;](http://www.techmeme.com/250604/p25#a250604p25)
+ - [Google says hackers loosely affiliated with the Com in the US, the UK, and Europe breached 20+ companies in the US and Europe to steal Salesforce data &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/250604/p24#a250604p24)
+ - [The IRS open sourced most of its Direct File tax software on GitHub last week, fulfilling a legal requirement under the SHARE IT Act, despite Intuit pressure &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/250604/p23#a250604p23)
+ - [Look inside the Nintendo Switch 2 with the console’s first teardown](https://www.theverge.com/news/679327/nintendo-switch-2-handheld-teardown)
+ - [Reddit users can now hide posts, comments, and NSFW history](https://www.theverge.com/news/679328/reddit-update-hide-comments-posts-user-profiles)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

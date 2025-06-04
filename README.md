@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Chinese hackers breached a US telecom company in the summer of 2023, a year before US officials and cybersecurity firms detected the Salt Typhoon hacks &lpar;Jake Bleiberg/Bloomberg&rpar;](http://www.techmeme.com/250604/p38#a250604p38)
+ - [PlayStation State of Play June 2025: all the news and trailers](https://www.theverge.com/sony-playstation/678933/playstation-state-of-play-june-2025-news-trailers)
  - [SEC filing: Uber appoints Palo Alto CEO Nikesh Arora to its board of directors following a broader executive shakeup this week &lpar;CNBC&rpar;](http://www.techmeme.com/250604/p37#a250604p37)
  - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
- - [AirPods expected to gain new head gestures, Camera Control revival](https://appleinsider.com/articles/25/06/04/airpods-expected-to-gain-new-head-gestures-camera-control-revival?utm_medium=rss)
- - [Sources: Apple may announce new features for AirPods at WWDC, including iPhone camera control, new head gestures, and sleep detection for pausing playback &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/250604/p36#a250604p36)
- - [US removes &amp;#8216;safety&amp;#8217; from AI Safety Institute](https://www.theverge.com/ai-artificial-intelligence/679852/trump-ai-safety-institute-name-mission-change)<!-- TECH:END -->
+ - [AirPods expected to gain new head gestures, Camera Control revival](https://appleinsider.com/articles/25/06/04/airpods-expected-to-gain-new-head-gestures-camera-control-revival?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

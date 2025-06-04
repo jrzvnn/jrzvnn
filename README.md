@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Road Rage. U can see the shadow](http://9gag.com/gag/aByXvNA)
- - 😝 [3 Days](http://9gag.com/gag/aD2XQp9)
+ - 😝 [Just needed one more outlet...](http://9gag.com/gag/ayNQPoy)
+ - 😝 [Now that summer&#39;s here, don&#39;t let a $30 summer dress cost you 18 years in child support](http://9gag.com/gag/agm2Epr)
  - 💣 [Enough internet for today](http://9gag.com/gag/ajPKyyw)
- - 😝 [Be Guided Accordingly.](http://9gag.com/gag/aAyXZv0)
- - 👉 [Suddenly I&#39;m a chef](http://9gag.com/gag/a9yXB7Z)<!-- MEMES:END -->
+ - 😝 [I am the corpo idiot](http://9gag.com/gag/amoVR3o)
+ - 👉 [Shout out to one of the dumbest f**king scenes in movie history](http://9gag.com/gag/ajPKRDp)<!-- MEMES:END -->
 
 ---
 

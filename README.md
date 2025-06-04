@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Suddenly I&#39;m a chef](http://9gag.com/gag/a9yXB7Z)
- - 😝 [Hope Greta will enjoy her stay in Gaza!](http://9gag.com/gag/a4PqWwv)
- - 💣 [Shout out to one of the dumbest f**king scenes in movie history](http://9gag.com/gag/ajPKRDp)
- - 😝 [Ghetto high.](http://9gag.com/gag/aW42RbZ)
- - 👉 [Be Guided Accordingly.](http://9gag.com/gag/aAyXZv0)<!-- MEMES:END -->
+ - 😝 [My arms gave up after reading that number.](http://9gag.com/gag/a5QjDQg)
+ - 😝 [Shout out to one of the dumbest f**king scenes in movie history](http://9gag.com/gag/ajPKRDp)
+ - 💣 [Now that summer&#39;s here, don&#39;t let a $30 summer dress cost you 18 years in child support](http://9gag.com/gag/agm2Epr)
+ - 😝 [Be Guided Accordingly.](http://9gag.com/gag/aAyXZv0)
+ - 👉 [I am the corpo idiot](http://9gag.com/gag/amoVR3o)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The internet responds to Tinder&#39;s height filter debate.](http://9gag.com/gag/a87wKnd)
+ - 😝 [The troll toll](http://9gag.com/gag/aW42RvA)
  - 😝 [Shout out to one of the dumbest f**king scenes in movie history](http://9gag.com/gag/ajPKRDp)
- - 💣 [The troll toll](http://9gag.com/gag/aW42RvA)
- - 😝 [War](http://9gag.com/gag/a5Qj5DL)
- - 👉 [Hope Greta will enjoy her stay in Gaza!](http://9gag.com/gag/a4PqWwv)<!-- MEMES:END -->
+ - 💣 [Just needed one more outlet...](http://9gag.com/gag/ayNQPoy)
+ - 😝 [A potato farms turning your PC into potato](http://9gag.com/gag/an7DVwB)
+ - 👉 [War](http://9gag.com/gag/a5Qj5DL)<!-- MEMES:END -->
 
 ---
 

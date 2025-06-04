@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shout out to one of the dumbest f**king scenes in movie history](http://9gag.com/gag/ajPKRDp)
- - 😝 [Ghetto high.](http://9gag.com/gag/aW42RbZ)
- - 💣 [A potato farms turning your PC into potato](http://9gag.com/gag/an7DVwB)
+ - 😝 [Road Rage. U can see the shadow](http://9gag.com/gag/aByXvNA)
+ - 😝 [3 Days](http://9gag.com/gag/aD2XQp9)
+ - 💣 [Enough internet for today](http://9gag.com/gag/ajPKyyw)
  - 😝 [Be Guided Accordingly.](http://9gag.com/gag/aAyXZv0)
- - 👉 [Enough internet for today](http://9gag.com/gag/ajPKyyw)<!-- MEMES:END -->
+ - 👉 [Suddenly I&#39;m a chef](http://9gag.com/gag/a9yXB7Z)<!-- MEMES:END -->
 
 ---
 

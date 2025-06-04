@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Windsurf says Anthropic is limiting its direct access to its AI models, including the newest Claude 4 family and the highly popular Claude 3 models &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250603/p43#a250603p43)
  - [Asana reports Q1 revenue of $187.3M, vs. $185.5M est., up 9% YoY vs. 26% last year, and adjusted EPS of $0.05, vs. $0.02 est.; ASAN falls 8%+ after hours &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250603/p42#a250603p42)
  - [Source: ~1,000 people have left the CISA during the second Trump administration, including 750+ taking a buyout, cutting CISA&#39;s workforce by nearly a third &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/250603/p41#a250603p41)
  - [Epomaker Split65 keyboard review: A unique design that will split opinion](https://appleinsider.com/articles/25/06/04/epomaker-split65-keyboard-review-a-unique-design-that-will-split-opinion?utm_medium=rss)
- - [Samsung Teases Ultra-Grade Foldable Phone With a &#39;Powerful Camera,&#39; AI Tools](https://www.cnet.com/tech/mobile/samsung-teases-ultra-grade-foldable-phone-with-a-powerful-camera-ai-tools/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 4, #254](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-4-254/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Teases Ultra-Grade Foldable Phone With a &#39;Powerful Camera,&#39; AI Tools](https://www.cnet.com/tech/mobile/samsung-teases-ultra-grade-foldable-phone-with-a-powerful-camera-ai-tools/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

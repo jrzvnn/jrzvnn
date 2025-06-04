@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Shout out to one of the dumbest f**king scenes in movie history](http://9gag.com/gag/ajPKRDp)
- - 😝 [Now that summer&#39;s here, don&#39;t let a $30 summer dress cost you 18 years in child support](http://9gag.com/gag/agm2Epr)
- - 💣 [I am the corpo idiot](http://9gag.com/gag/amoVR3o)
- - 😝 [Suddenly I&#39;m a chef](http://9gag.com/gag/a9yXB7Z)
- - 👉 [Be Guided Accordingly.](http://9gag.com/gag/aAyXZv0)<!-- MEMES:END -->
+ - 😝 [Ghetto high.](http://9gag.com/gag/aW42RbZ)
+ - 💣 [A potato farms turning your PC into potato](http://9gag.com/gag/an7DVwB)
+ - 😝 [Be Guided Accordingly.](http://9gag.com/gag/aAyXZv0)
+ - 👉 [Enough internet for today](http://9gag.com/gag/ajPKyyw)<!-- MEMES:END -->
 
 ---
 

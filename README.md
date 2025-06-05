@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: OpenAI seeks to block a May 13 court order requiring it to preserve all ChatGPT logs, including deleted chats, arguing it poses a risk to users&#39; privacy &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/250604/p45#a250604p45)
- - [Sony State of Play: 007 First Light, Marvel Tokon and Everything Announced](https://www.cnet.com/tech/gaming/sony-state-of-play-007-first-light-marvel-tokon-and-everything-announced/#ftag=CAD590a51e)
- - [007 First Light Makes a Bold Move by Retelling Bond&#39;s Origin Story](https://www.cnet.com/tech/gaming/007-first-light-makes-a-bold-move-by-retelling-bonds-origin-story/#ftag=CAD590a51e)
- - [Can You Even Afford to Buy a Home With a $100K Salary?](https://www.cnet.com/personal-finance/mortgages/can-you-even-afford-to-buy-a-home-with-a-100k-salary/#ftag=CAD590a51e)
- - [The US DOJ seized ~145 domains and crypto linked to BidenCash, a dark web market that made $17M+ in revenue since 2022 by selling stolen credit cards and more &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/250604/p44#a250604p44)<!-- TECH:END -->
+ - [MongoDB reports Q1 revenue up 22% YoY to $549M, vs. $527.5M est., net loss down 54% to $37.6M, and increases its full-year guidance; MDB up 14%+ after hours &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250604/p47#a250604p47)
+ - [Best Apple Watch for 2025](https://www.cnet.com/tech/mobile/best-apple-watch/#ftag=CAD590a51e)
+ - [Wobkey Crush 80 Reboot Lite mechanical keyboard review: Toned down with easy access](https://appleinsider.com/articles/25/06/05/wobkey-crush-80-reboot-lite-mechanical-keyboard-review-toned-down-with-easy-access?utm_medium=rss)
+ - [Document: Xiaohongshu, a TikTok alternative known in the US as Rednote, has surged to a $26B valuation based on recent market transactions via a GSR fund &lpar;Echo Wong/Bloomberg&rpar;](http://www.techmeme.com/250604/p46#a250604p46)
+ - [Nintendo Switch 2 Launch: We Have the Switch 2 in Hand Now, Check It Out](https://www.cnet.com/tech/gaming/nintendo-switch-2-launch-day-games-updates-news-live/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

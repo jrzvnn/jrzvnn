@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Psycho](http://9gag.com/gag/abA2KRB)
- - 😝 [Bro listen carefully, he isn&#39;t cat](http://9gag.com/gag/an7Ddmo)
- - 💣 [I gave her the secrets. And my kidney.](http://9gag.com/gag/a1mLB0b)
- - 😝 [A tick does the trick.](http://9gag.com/gag/azxZBQZ)
- - 👉 [When the reply is better than the original question.](http://9gag.com/gag/a1mLqmD)<!-- MEMES:END -->
+ - 😝 [Time&#39;s up!](http://9gag.com/gag/ajPKME8)
+ - 😝 [Enid](http://9gag.com/gag/agm26xg)
+ - 💣 [My arms gave up after reading that number.](http://9gag.com/gag/a5QjDQg)
+ - 😝 [Have you seen the youtube vid? wow](http://9gag.com/gag/a87wnze)
+ - 👉 [What](http://9gag.com/gag/aGy26E6)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remember when this felt like an endless city?](http://9gag.com/gag/aryBrM7)
- - 😝 [Ghetto high.](http://9gag.com/gag/aW42RbZ)
- - 💣 [My arms gave up after reading that number.](http://9gag.com/gag/a5QjDQg)
- - 😝 [Give him a hand](http://9gag.com/gag/a2vbGV9)
- - 👉 [Even older by now](http://9gag.com/gag/aZZ2vM6)<!-- MEMES:END -->
+ - 😝 [Time&#39;s up!](http://9gag.com/gag/ajPKME8)
+ - 😝 [A potato farms turning your PC into potato](http://9gag.com/gag/an7DVwB)
+ - 💣 [Someone didn&#39;t check their pockets](http://9gag.com/gag/awy4vxy)
+ - 😝 [I always wondered how you&#39;re in there.](http://9gag.com/gag/avyvXpd)
+ - 👉 [My arms gave up after reading that number.](http://9gag.com/gag/a5QjDQg)<!-- MEMES:END -->
 
 ---
 

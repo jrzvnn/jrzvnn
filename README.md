@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Psycho](http://9gag.com/gag/abA2KRB)
- - 😝 [A tick does the trick.](http://9gag.com/gag/azxZBQZ)
- - 💣 [I gave her the secrets. And my kidney.](http://9gag.com/gag/a1mLB0b)
- - 😝 [It&#39;s getting spicy](http://9gag.com/gag/a9yX4eK)
- - 👉 [When the reply is better than the original question.](http://9gag.com/gag/a1mLqmD)<!-- MEMES:END -->
+ - 😝 [Urine my phone forever babe.](http://9gag.com/gag/awy4POy)
+ - 😝 [What](http://9gag.com/gag/aGy26E6)
+ - 💣 [Masturbator in chief](http://9gag.com/gag/amoVKMy)
+ - 😝 [Let them fight](http://9gag.com/gag/a7oNBLx)
+ - 👉 [Quick thinking saves these two bucks](http://9gag.com/gag/aByXNGP)<!-- MEMES:END -->
 
 ---
 

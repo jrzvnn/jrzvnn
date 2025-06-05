@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic unveils a new set of Claude Gov models tailored for US national security customers and designed to be applied to planning, analysis, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250605/p25#a250605p25)
- - [Want Starlink? Get Ready to Pay a Lot More If You Live in These 2 States](https://www.cnet.com/home/internet/want-starlink-get-ready-to-pay-a-lot-more-if-you-live-in-these-2-states/#ftag=CAD590a51e)
- - [OpenAI says it disrupted 10 malicious operations in the past three months, including four that likely originated in China and targeted multiple countries &lpar;Shannon Bond/NPR&rpar;](http://www.techmeme.com/250605/p24#a250605p24)
- - [Best Bike Lights, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-bike-lights/)
- - [App Store contributed $1.3 trillion to global economy in 2024](https://appleinsider.com/articles/25/06/05/app-store-contributed-13-trillion-to-global-economy-in-2024?utm_medium=rss)<!-- TECH:END -->
+ - [Alien: Earth&amp;#8217;s new trailer is full of monsters that want out](https://www.theverge.com/news/680418/alien-earth-trailer)
+ - [Asus ROG Falchion Ace HFX Review: Hall Effect With New Tricks](https://www.wired.com/review/asus-rog-falchion-ace-hfx/)
+ - [Runway CEO Cris Valenzuela wants Hollywood to embrace AI video](https://www.theverge.com/decoder-podcast-with-nilay-patel/679312/runway-ceo-cris-valenzuela-ai-video-copyright-hollywood-film-youtube)
+ - [New study reveals where the Apple Watch gets fitness data right -- and wrong](https://appleinsider.com/articles/25/06/05/new-study-reveals-where-the-apple-watch-gets-fitness-data-right----and-wrong?utm_medium=rss)
+ - [Apple leaning heavier on Tata, with iPhone repair shift from Wistron](https://appleinsider.com/articles/25/06/05/apple-leaning-heavier-on-tata-with-iphone-repair-shift-from-wistron?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

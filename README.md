@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X changes its developer agreement to prevent third parties from using &quot;the X API or X Content to fine-tune or train a foundation or frontier model&quot; &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250605/p34#a250605p34)
- - [Cursor maker Anysphere raised $900M led by Thrive at a $9.9B valuation, bringing its total funding to $1B+ and says its annualized revenue crossed $500M &lpar;Bloomberg&rpar;](http://www.techmeme.com/250605/p33#a250605p33)
- - [X&amp;#8217;s new policy prevents companies from using posts to &amp;#8216;fine-tune or train&amp;#8217; AI models](https://www.theverge.com/news/680626/x-ai-training-ban-posts)
- - [iOS 18 saw below average adoption despite Apple Intelligence](https://appleinsider.com/articles/25/06/05/ios-18-saw-below-average-adoption-despite-apple-intelligence?utm_medium=rss)
- - [Why Microsoft has created its own print magazine](https://www.theverge.com/notepad-microsoft-newsletter/680371/microsoft-signal-magazine-interview-notepad)<!-- TECH:END -->
+ - [Users demand a big discount to pay for subscriptions out of the App Store](https://appleinsider.com/articles/25/06/05/users-demand-a-big-discount-to-pay-for-subscriptions-out-of-the-app-store?utm_medium=rss)
+ - [Here’s where you can buy microSD Express cards for the Switch 2](https://www.theverge.com/tech/676075/switch-2-microsd-express-cards-where-to-buy)
+ - [How to make the most of Google Keep](https://www.theverge.com/24073806/google-keep-how-to-note-app)
+ - [Ross Ulbricht Got a $31 Million Donation From a Dark Web Dealer, Crypto Tracers Suspect](https://www.wired.com/story/ross-ulbricht-31-million-donation-alphabay/)
+ - [Source: Trump&#39;s World Liberty Financial sent a cease-and-desist letter to the company behind $TRUMP and to Magic Eden after they announced the $TRUMP Wallet &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/250605/p36#a250605p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

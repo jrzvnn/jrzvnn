@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Time&#39;s up!](http://9gag.com/gag/ajPKME8)
- - 😝 [A potato farms turning your PC into potato](http://9gag.com/gag/an7DVwB)
- - 💣 [Someone didn&#39;t check their pockets](http://9gag.com/gag/awy4vxy)
- - 😝 [I always wondered how you&#39;re in there.](http://9gag.com/gag/avyvXpd)
- - 👉 [My arms gave up after reading that number.](http://9gag.com/gag/a5QjDQg)<!-- MEMES:END -->
+ - 😝 [Suddenly I&#39;m a chef](http://9gag.com/gag/a9yXB7Z)
+ - 💣 [My arms gave up after reading that number.](http://9gag.com/gag/a5QjDQg)
+ - 😝 [Have you seen the youtube vid? wow](http://9gag.com/gag/a87wnze)
+ - 👉 [Remember when this felt like an endless city?](http://9gag.com/gag/aryBrM7)<!-- MEMES:END -->
 
 ---
 

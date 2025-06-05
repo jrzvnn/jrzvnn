@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 17 could get much higher wattage MagSafe charging](https://appleinsider.com/articles/25/06/05/iphone-17-could-get-much-higher-wattage-magsafe-charging?utm_medium=rss)
+ - [Why More Young People Are Becoming &#39;Relationship Anarchists&#39;](https://www.wired.com/story/why-more-young-people-are-becoming-relationship-anarchists/)
+ - [Lime renews vows with Uber ahead of busy summer season](https://www.theverge.com/news/679783/lime-renews-vows-with-uber-ahead-of-its-busy-summer-season)
  - [A look at Nintendo&#39;s US marketing, from targeting young boys in the 1980s to avant-garde GameCube ads in 2001, as its Switch 2 ads focus on online communal play &lpar;New York Times&rpar;](http://www.techmeme.com/250605/p17#a250605p17)
- - [8 Best Espresso Machines &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-espresso-machines/)
- - [Didi reports Q1 revenue up 8.5% YoY to ~$7.4B, a ~$334M net income, up from a ~$194M loss YoY, transactions up 10% YoY to 3.3B, and ~$418M international revenue &lpar;Reuters&rpar;](http://www.techmeme.com/250605/p16#a250605p16)
- - [Amazon is reportedly training humanoid robots to deliver packages](https://www.theverge.com/news/680258/amazon-training-package-delivery-humanoid-robots)
- - [A profile of Nigerian fintech PalmPay, which raised $140M+ from Transsion and other Chinese firms, says it has 35M+ registered users, and aims to be &quot;super app&quot; &lpar;Aanu Adeoye/Financial Times&rpar;](http://www.techmeme.com/250605/p15#a250605p15)<!-- TECH:END -->
+ - [8 Best Espresso Machines &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-espresso-machines/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

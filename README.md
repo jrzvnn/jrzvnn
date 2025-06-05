@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Psycho](http://9gag.com/gag/abA2KRB)
- - 😝 [Gonna unload this truck real quick](http://9gag.com/gag/agm2jOr)
- - 💣 [Remember when this felt like an endless city?](http://9gag.com/gag/aryBrM7)
- - 😝 [I always wondered how you&#39;re in there.](http://9gag.com/gag/avyvXpd)
- - 👉 [My arms gave up after reading that number.](http://9gag.com/gag/a5QjDQg)<!-- MEMES:END -->
+ - 😝 [Someone didn&#39;t check their pockets](http://9gag.com/gag/awy4vxy)
+ - 😝 [Remember when this felt like an endless city?](http://9gag.com/gag/aryBrM7)
+ - 💣 [Road Rage. U can see the shadow](http://9gag.com/gag/aByXvNA)
+ - 😝 [Even older by now](http://9gag.com/gag/aZZ2vM6)
+ - 👉 [Psycho](http://9gag.com/gag/abA2KRB)<!-- MEMES:END -->
 
 ---
 

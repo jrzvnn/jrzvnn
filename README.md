@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Narwal’s Freo X Ultra, one of our favorite robovacs, is 60 percent off](https://www.theverge.com/tech/680505/narwhal-freo-x-ultra-robot-vacuum-jbl-go-4-deal-sale)
- - [Anthropic CEO says a 10-year moratorium on AI regulation is &quot;far too blunt an instrument&quot; and calls for US federal transparency standards for AI companies &lpar;Dario Amodei/New York Times&rpar;](http://www.techmeme.com/250605/p28#a250605p28)
- - [Source: X is piloting a program to use Community Notes to highlight posts on which people of typically differing opinions agree &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250605/p27#a250605p27)
- - [Details of where India&#39;s next Apple Store will be built have leaked](https://appleinsider.com/articles/25/06/05/details-of-where-indias-next-apple-store-will-be-built-has-leaked?utm_medium=rss)
- - [&#39;Angry Birds&#39;, &#39;Kingdom Rush&#39;, and more come to Apple Arcade in July](https://appleinsider.com/articles/25/06/05/angry-birds-kingdom-rush-and-more-come-to-apple-arcade-in-july?utm_medium=rss)<!-- TECH:END -->
+ - [Defense tech startup Anduril raised a $2.5B Series G led by Founders Fund, which invested $1B, at a $30.5B valuation, up from $14B in August 2024 &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/250605/p30#a250605p30)
+ - [iVerify says it found the first evidence of an active spyware campaign targeting iPhones in the US and the EU; Apple fixed a flaw, but says it wasn&#39;t exploited &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/250605/p29#a250605p29)
+ - [Bounce lets you move from Bluesky to Mastodon without losing followers](https://www.theverge.com/news/678928/bounce-bluesky-mastodon-bridgy-fed-tool-followers)
+ - [Ballerina is a dance-by-numbers return to the world of John Wick](https://www.theverge.com/movie-reviews/679534/ballerina-review)
+ - [Narwal’s Freo X Ultra, one of our favorite robovacs, is 60 percent off](https://www.theverge.com/tech/680505/narwhal-freo-x-ultra-robot-vacuum-jbl-go-4-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

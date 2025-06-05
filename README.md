@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Counterpoint has revised its 2025 global smartphone shipment growth forecast to 1.9% YoY, down from 4.2%, citing &quot;renewed uncertainties surrounding US tariffs&quot; &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250605/p9#a250605p9)
+ - [OatFi, whose APIs handle underwriting, origination, and capital deployment for B2B payment providers, raised a $24M Series A led by White Star Capital &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250605/p8#a250605p8)
+ - [A former employee says fewer than 10,000 people use Ola Krutrim&#39;s LLM chatbot, which supports 10 Indian languages, and that over 60% of them are random testers &lpar;Swathi Moorthy/The Economic Times&rpar;](http://www.techmeme.com/250605/p7#a250605p7)
  - [Pan-European consumer group BEUC files a complaint with the EC against Shein over its alleged use of &quot;dark patterns&quot;, after targeting Temu in 2024 &lpar;Helen Reid/Reuters&rpar;](http://www.techmeme.com/250605/p6#a250605p6)
- - [Edinburgh-based Wordsmith, whose AI tools help legal teams automate contract and policy reviews, raised a $25M Series A led by Index Ventures &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250605/p5#a250605p5)
- - [20% HP Coupon Code &amp; Deals | June 2025](https://www.wired.com/story/hp-coupon-code/)
- - [23andMe plans to hold a new auction for its DNA data, opening with a $305M bid led by Anne Wojcicki, after the ex-CEO challenged Regeneron&#39;s winning bid in May &lpar;Steven Church/Bloomberg&rpar;](http://www.techmeme.com/250605/p4#a250605p4)
- - [Singapore&#39;s Temasek cuts back on startup investments after the fund wrote down hundreds of millions of dollars on a spate of collapsed startups, including FTX &lpar;Financial Times&rpar;](http://www.techmeme.com/250605/p3#a250605p3)<!-- TECH:END -->
+ - [Edinburgh-based Wordsmith, whose AI tools help legal teams automate contract and policy reviews, raised a $25M Series A led by Index Ventures &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250605/p5#a250605p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OnePlus Pad 3 arrives with Snapdragon 8 Elite inside](https://www.theverge.com/news/680283/oneplus-pad-3-tablet-launch-price-specs-snapdragon-8-elite)
+ - [CISA, the ACSC, and the FBI say the Play ransomware gang, active since June 2022, had breached roughly 900 organizations as of May 2025, up 3x on October 2023 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250605/p18#a250605p18)
  - [iPhone 17 could get much higher wattage MagSafe charging](https://appleinsider.com/articles/25/06/05/iphone-17-could-get-much-higher-wattage-magsafe-charging?utm_medium=rss)
  - [Why More Young People Are Becoming &#39;Relationship Anarchists&#39;](https://www.wired.com/story/why-more-young-people-are-becoming-relationship-anarchists/)
- - [Lime renews vows with Uber ahead of busy summer season](https://www.theverge.com/news/679783/lime-renews-vows-with-uber-ahead-of-its-busy-summer-season)
- - [A look at Nintendo&#39;s US marketing, from targeting young boys in the 1980s to avant-garde GameCube ads in 2001, as its Switch 2 ads focus on online communal play &lpar;New York Times&rpar;](http://www.techmeme.com/250605/p17#a250605p17)
- - [8 Best Espresso Machines &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-espresso-machines/)<!-- TECH:END -->
+ - [Lime renews vows with Uber ahead of busy summer season](https://www.theverge.com/news/679783/lime-renews-vows-with-uber-ahead-of-its-busy-summer-season)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

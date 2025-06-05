@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon is reportedly training humanoid robots to deliver packages](https://www.theverge.com/news/680258/amazon-training-package-delivery-humanoid-robots)
+ - [A profile of Nigerian fintech PalmPay, which raised $140M+ from Transsion and other Chinese firms, says it has 35M+ registered users, and aims to be &quot;super app&quot; &lpar;Aanu Adeoye/Financial Times&rpar;](http://www.techmeme.com/250605/p15#a250605p15)
+ - [What Really Happened in the Aftermath of the Lizard Squad Hacks](https://www.wired.com/story/ctrl-alt-chaos-joe-tidy-book-excerpt/)
  - [Hollywood insiders report widespread off-the-books AI experimentation in studios, often hidden due to avoid backlash, despite union contracts limiting AI use &lpar;Lila Shapiro/Vulture&rpar;](http://www.techmeme.com/250605/p14#a250605p14)
- - [Sensor Tower: Temu&#39;s US DAUs fell 52% in May compared to March, while Shein&#39;s dropped 25%, amid the US&#39; China tariffs and the closure of &quot;de minimis&quot; loophole &lpar;Karen Gilchrist/CNBC&rpar;](http://www.techmeme.com/250605/p13#a250605p13)
- - [How to Prepare for a Climate Disaster in Trump’s America](https://www.wired.com/story/how-to-survive-a-disaster-in-the-age-of-trump-emergency-fema-wild-fire-hurricane/)
- - [Wise says it plans to shift main listing from London to New York, the latest blow to London&#39;s stock market, and will maintain a secondary listing on the LSE &lpar;Bloomberg&rpar;](http://www.techmeme.com/250605/p12#a250605p12)
- - [At Bitcoin 2025, Crypto Purists and the MAGA Faithful Collide](https://www.wired.com/story/at-bitcoin-2025-crypto-purists-and-the-maga-faithful-collide/)<!-- TECH:END -->
+ - [Sensor Tower: Temu&#39;s US DAUs fell 52% in May compared to March, while Shein&#39;s dropped 25%, amid the US&#39; China tariffs and the closure of &quot;de minimis&quot; loophole &lpar;Karen Gilchrist/CNBC&rpar;](http://www.techmeme.com/250605/p13#a250605p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

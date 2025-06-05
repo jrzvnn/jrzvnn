@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Apple expands its Tata partnership in India by assigning it the iPhone and MacBook after-sales repair business, taking over from Taiwan&#39;s Wistron &lpar;Munsif Vengattil/Reuters&rpar;](http://www.techmeme.com/250605/p20#a250605p20)
  - [Lime and Uber sign a new multiyear deal to let Uber feature Lime&#39;s shared bikes and scooters on its ridehail app; the deal was set to expire in 2025 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250605/p19#a250605p19)
  - [Five apps that can help you arrange your new home](https://www.theverge.com/tech/668625/room-planner-apps-moving-home-decorating)
  - [OnePlus Pad 3 arrives with Snapdragon 8 Elite inside](https://www.theverge.com/news/680283/oneplus-pad-3-tablet-launch-price-specs-snapdragon-8-elite)
- - [CISA, the ACSC, and the FBI say the Play ransomware gang, active since June 2022, had breached roughly 900 organizations as of May 2025, up 3x on October 2023 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250605/p18#a250605p18)
- - [iPhone 17 could get much higher wattage MagSafe charging](https://appleinsider.com/articles/25/06/05/iphone-17-could-get-much-higher-wattage-magsafe-charging?utm_medium=rss)<!-- TECH:END -->
+ - [CISA, the ACSC, and the FBI say the Play ransomware gang, active since June 2022, had breached roughly 900 organizations as of May 2025, up 3x on October 2023 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250605/p18#a250605p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

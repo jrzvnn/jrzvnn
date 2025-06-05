@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ghetto high.](http://9gag.com/gag/aW42RbZ)
- - 😝 [I am the corpo idiot](http://9gag.com/gag/amoVR3o)
- - 💣 [Just needed one more outlet...](http://9gag.com/gag/ayNQPoy)
+ - 😝 [When she asks for proof you&#39;re watching F1...](http://9gag.com/gag/aPAXnVG)
+ - 😝 [A potato farms turning your PC into potato](http://9gag.com/gag/an7DVwB)
+ - 💣 [I don&#39;t know where else to ask. I just pulled those nails out of a 55 yo apartment. they have a freely spinning head. What&#39;s their purpose?](http://9gag.com/gag/a0eEOyB)
  - 😝 [Road Rage. U can see the shadow](http://9gag.com/gag/aByXvNA)
- - 👉 [I don&#39;t know where else to ask. I just pulled those nails out of a 55 yo apartment. they have a freely spinning head. What&#39;s their purpose?](http://9gag.com/gag/a0eEOyB)<!-- MEMES:END -->
+ - 👉 [My arms gave up after reading that number.](http://9gag.com/gag/a5QjDQg)<!-- MEMES:END -->
 
 ---
 

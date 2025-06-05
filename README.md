@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Masturbator in chief](http://9gag.com/gag/amoVKMy)
- - 😝 [Remember when this felt like an endless city?](http://9gag.com/gag/aryBrM7)
+ - 😝 [Breaking: Trump and Elon](http://9gag.com/gag/a7oNmex)
+ - 😝 [Let them fight](http://9gag.com/gag/a7oNBLx)
  - 💣 [Quick thinking saves these two bucks](http://9gag.com/gag/aByXNGP)
- - 😝 [Urine my phone forever babe.](http://9gag.com/gag/awy4POy)
- - 👉 [Time&#39;s up!](http://9gag.com/gag/ajPKME8)<!-- MEMES:END -->
+ - 😝 [Masturbator in chief](http://9gag.com/gag/amoVKMy)
+ - 👉 [Remember when this felt like an endless city?](http://9gag.com/gag/aryBrM7)<!-- MEMES:END -->
 
 ---
 

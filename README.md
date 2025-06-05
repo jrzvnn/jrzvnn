@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [France VPN subscription](http://9gag.com/gag/aLnXVPA)
- - 😝 [Magical.](http://9gag.com/gag/a2vb911)
+ - 😝 [Give him a hand](http://9gag.com/gag/a2vbGV9)
  - 💣 [Even older by now](http://9gag.com/gag/aZZ2vM6)
- - 😝 [Psycho](http://9gag.com/gag/abA2KRB)
- - 👉 [Masturbator in chief](http://9gag.com/gag/amoVKMy)<!-- MEMES:END -->
+ - 😝 [My arms gave up after reading that number.](http://9gag.com/gag/a5QjDQg)
+ - 👉 [Road Rage. U can see the shadow](http://9gag.com/gag/aByXvNA)<!-- MEMES:END -->
 
 ---
 

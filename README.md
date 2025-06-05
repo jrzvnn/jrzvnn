@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump says Elon Musk &quot;went CRAZY&quot; and that canceling his government contracts is &quot;the easiest way to save money&quot;, as their One Big Beautiful bill feud escalates &lpar;Kevin Breuninger/CNBC&rpar;](http://www.techmeme.com/250605/p37#a250605p37)
+ - [Palantir Is Going on Defense](https://www.wired.com/story/palantir-defense-conference-journalists/)
  - [How to transfer your original Switch data to a Switch 2](https://www.theverge.com/tech/680707/switch-2-how-to-transfer-upload-system-data)
  - [The 26 Best Movies on Apple TV+ Right Now &lpar;June 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
- - [Users demand a big discount to pay for subscriptions out of the App Store](https://appleinsider.com/articles/25/06/05/users-demand-a-big-discount-to-pay-for-subscriptions-out-of-the-app-store?utm_medium=rss)
- - [Here’s where you can buy microSD Express cards for the Switch 2](https://www.theverge.com/tech/676075/switch-2-microsd-express-cards-where-to-buy)
- - [How to make the most of Google Keep](https://www.theverge.com/24073806/google-keep-how-to-note-app)<!-- TECH:END -->
+ - [Users demand a big discount to pay for subscriptions out of the App Store](https://appleinsider.com/articles/25/06/05/users-demand-a-big-discount-to-pay-for-subscriptions-out-of-the-app-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

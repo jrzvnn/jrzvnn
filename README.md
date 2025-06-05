@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Midea is recalling its U-shaped air conditioners because of potential mold growth](https://www.theverge.com/news/680570/midea-u-shaped-smart-window-air-conditioner-recall-refund)
- - [Nintendo’s GameCube Controller for the Switch 2 is back in stock](https://www.theverge.com/tech/673515/nintendo-switch-2-gamecube-controller-launch-restock)
- - [Google rolls out an upgraded preview of Gemini 2.5 Pro and says its Elo scored jumped by 24 points to 1470 and it leads on coding benchmarks like Aider Polyglot &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250605/p31#a250605p31)
- - [Defense tech startup Anduril raised a $2.5B Series G led by Founders Fund, which invested $1B, at a $30.5B valuation, up from $14B in August 2024 &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/250605/p30#a250605p30)
- - [iVerify says it found the first evidence of an active spyware campaign targeting iPhones in the US and the EU; Apple fixed a flaw, but says it wasn&#39;t exploited &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/250605/p29#a250605p29)<!-- TECH:END -->
+ - [X changes policy to restrict AI training on posts](https://www.theverge.com/news/680626/x-ai-training-ban-posts)
+ - [iOS 18 saw below average adoption despite Apple Intelligence](https://appleinsider.com/articles/25/06/05/ios-18-saw-below-average-adoption-despite-apple-intelligence?utm_medium=rss)
+ - [Why Microsoft has created its own print magazine](https://www.theverge.com/notepad-microsoft-newsletter/680371/microsoft-signal-magazine-interview-notepad)
+ - [Shares of Circle jumped 124%, opening at $69.50 on the NYSE, after the stablecoin company raised almost $1.1B in an IPO &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250605/p32#a250605p32)
+ - [Midea is recalling its U-shaped air conditioners because of potential mold growth](https://www.theverge.com/news/680570/midea-u-shaped-smart-window-air-conditioner-recall-refund)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some creatives and academics are rejecting AI on environmental and ethical grounds, and describe the pressure they feel to use AI to &quot;keep up&quot; with others &lpar;Emine Saner/The Guardian&rpar;](http://www.techmeme.com/250605/p10#a250605p10)
- - [Volvo’s new seatbelts use real-time data to adapt to different body types](https://www.theverge.com/news/679359/volvo-seatbelt-adapt-body-type-sensor-ota)
- - [Counterpoint revises its 2025 global smartphone shipment growth forecast to 1.9% YoY, down from 4.2%, citing &quot;renewed uncertainties surrounding US tariffs&quot; &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250605/p9#a250605p9)
- - [OatFi, whose APIs handle underwriting, origination, and capital deployment for B2B payment providers, raised a $24M Series A led by White Star Capital &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250605/p8#a250605p8)
- - [A former Ola employee says under 10,000 people use Ola Krutrim&#39;s LLM chatbot, which supports 10 Indian languages, and that over 60% of them are random testers &lpar;Swathi Moorthy/The Economic Times&rpar;](http://www.techmeme.com/250605/p7#a250605p7)<!-- TECH:END -->
+ - [Wise says it plans to shift main listing from London to New York, the latest blow to London&#39;s stock market, and will maintain a secondary listing on the LSE &lpar;Bloomberg&rpar;](http://www.techmeme.com/250605/p12#a250605p12)
+ - [At Bitcoin 2025, Crypto Purists and the MAGA Faithful Collide](https://www.wired.com/story/at-bitcoin-2025-crypto-purists-and-the-maga-faithful-collide/)
+ - [China’s rare earth restrictions halt first auto industry production lines](https://www.theverge.com/news/680247/auto-manufacturing-halt-cars-china-rare-earth-minerals-magnets)
+ - [Nintendo launches the Switch 2 globally, with long queues outside stores and midnight openings; analysts expect Nintendo to sell 15M to 20M Switch 2 units &lpar;Financial Times&rpar;](http://www.techmeme.com/250605/p11#a250605p11)
+ - [Some creatives and academics are rejecting AI on environmental and ethical grounds, and describe the pressure they feel to use AI to &quot;keep up&quot; with others &lpar;Emine Saner/The Guardian&rpar;](http://www.techmeme.com/250605/p10#a250605p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

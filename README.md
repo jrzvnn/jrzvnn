@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [France VPN subscription](http://9gag.com/gag/aLnXVPA)
- - 😝 [Even older by now](http://9gag.com/gag/aZZ2vM6)
- - 💣 [Have you seen the youtube vid? wow](http://9gag.com/gag/a87wnze)
+ - 😝 [Have you seen the youtube vid? wow](http://9gag.com/gag/a87wnze)
+ - 💣 [What](http://9gag.com/gag/aGy26E6)
  - 😝 [My arms gave up after reading that number.](http://9gag.com/gag/a5QjDQg)
- - 👉 [Road Rage. U can see the shadow](http://9gag.com/gag/aByXvNA)<!-- MEMES:END -->
+ - 👉 [Enough internet for today](http://9gag.com/gag/ajPKyyw)<!-- MEMES:END -->
 
 ---
 

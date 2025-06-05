@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Breaking: Trump and Elon](http://9gag.com/gag/a7oNmex)
- - 😝 [Let them fight](http://9gag.com/gag/a7oNBLx)
- - 💣 [Quick thinking saves these two bucks](http://9gag.com/gag/aByXNGP)
+ - 😝 [Enid](http://9gag.com/gag/agm26xg)
+ - 😝 [What](http://9gag.com/gag/aGy26E6)
+ - 💣 [Activating his superpower](http://9gag.com/gag/a2vbjV1)
  - 😝 [Masturbator in chief](http://9gag.com/gag/amoVKMy)
- - 👉 [Remember when this felt like an endless city?](http://9gag.com/gag/aryBrM7)<!-- MEMES:END -->
+ - 👉 [Quick thinking saves these two bucks](http://9gag.com/gag/aByXNGP)<!-- MEMES:END -->
 
 ---
 

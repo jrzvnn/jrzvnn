@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When she asks for proof you&#39;re watching F1...](http://9gag.com/gag/aPAXnVG)
  - 😝 [A potato farms turning your PC into potato](http://9gag.com/gag/an7DVwB)
- - 💣 [I don&#39;t know where else to ask. I just pulled those nails out of a 55 yo apartment. they have a freely spinning head. What&#39;s their purpose?](http://9gag.com/gag/a0eEOyB)
- - 😝 [Road Rage. U can see the shadow](http://9gag.com/gag/aByXvNA)
- - 👉 [My arms gave up after reading that number.](http://9gag.com/gag/a5QjDQg)<!-- MEMES:END -->
+ - 😝 [Henry Cavill shows how easily guys can be friends\u2026](http://9gag.com/gag/a5QjDoL)
+ - 💣 [3 years and still here](http://9gag.com/gag/aZZ2vXn)
+ - 😝 [Bro listen carefully, he isn&#39;t cat](http://9gag.com/gag/an7Ddmo)
+ - 👉 [I feel the force between my legs](http://9gag.com/gag/a2vbjbZ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s where you can grab the Switch 2 Pro controller and other accessories](https://www.theverge.com/tech/652945/nintendo-switch-2-accessories-pro-controller-cases-camera-preorder-price-availability)
  - [Broadcom reports Q2 revenue up 20% YoY to $15B, vs. $14.96B est., net income up 134% YoY to $4.97B, and sales from the AI industry up 46% YoY to $4.4B+ &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/250605/p39#a250605p39)
  - [Razer&amp;#8217;s new translucent PC accessories show off your gamer lights](https://www.theverge.com/news/680821/razer-phantom-collection-translucent-basilisk-blackwidow-barracuda-firefly-v2-pro)
  - [Anthropic co-founder Jared Kaplan says Anthropic cut Windsurf&#39;s direct access to Claude models because of reports that OpenAI is acquiring Windsurf &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250605/p38#a250605p38)
- - [Trademark gives hope for &#39;homeOS&#39; reveal at WWDC](https://appleinsider.com/articles/25/06/05/trademark-gives-hope-for-homeos-reveal-at-wwdc?utm_medium=rss)
- - [Let’s all do a dramatic reading of Trump and Musk’s mean posts](https://www.theverge.com/elon-musk/680817/trump-musk-the-girls-are-fightingggg)<!-- TECH:END -->
+ - [Trademark gives hope for &#39;homeOS&#39; reveal at WWDC](https://appleinsider.com/articles/25/06/05/trademark-gives-hope-for-homeos-reveal-at-wwdc?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

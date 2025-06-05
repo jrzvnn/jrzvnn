@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Remember when this felt like an endless city?](http://9gag.com/gag/aryBrM7)
- - 😝 [The troll toll](http://9gag.com/gag/aW42RvA)
- - 💣 [Give him a hand](http://9gag.com/gag/a2vbGV9)
- - 😝 [I always wondered how you&#39;re in there.](http://9gag.com/gag/avyvXpd)
- - 👉 [Ghetto high.](http://9gag.com/gag/aW42RbZ)<!-- MEMES:END -->
+ - 😝 [Ghetto high.](http://9gag.com/gag/aW42RbZ)
+ - 💣 [My arms gave up after reading that number.](http://9gag.com/gag/a5QjDQg)
+ - 😝 [Give him a hand](http://9gag.com/gag/a2vbGV9)
+ - 👉 [Even older by now](http://9gag.com/gag/aZZ2vM6)<!-- MEMES:END -->
 
 ---
 

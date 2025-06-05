@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An Apple-funded study says the global App Store drove $1.3T in developer billings and sales in 2024, with developers paying no commission on 90% of sales &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250605/p26#a250605p26)
+ - [8 Best Portable Power Stations &lpar;2025&rpar;: Power Capacity, Portability, Camping, and More](https://www.wired.com/gallery/best-portable-power-stations/)
+ - [Wacom’s new Cintiq tablets have a skinnier look and better displays](https://www.theverge.com/news/680441/wacom-cintiq-pen-display-tablets-2025-price-availability)
  - [Alien: Earth&amp;#8217;s new trailer is full of monsters that want out](https://www.theverge.com/news/680418/alien-earth-trailer)
- - [Asus ROG Falchion Ace HFX Review: Hall Effect With New Tricks](https://www.wired.com/review/asus-rog-falchion-ace-hfx/)
- - [Runway CEO Cris Valenzuela wants Hollywood to embrace AI video](https://www.theverge.com/decoder-podcast-with-nilay-patel/679312/runway-ceo-cris-valenzuela-ai-video-copyright-hollywood-film-youtube)
- - [New study reveals where the Apple Watch gets fitness data right -- and wrong](https://appleinsider.com/articles/25/06/05/new-study-reveals-where-the-apple-watch-gets-fitness-data-right----and-wrong?utm_medium=rss)
- - [Apple leaning heavier on Tata, with iPhone repair shift from Wistron](https://appleinsider.com/articles/25/06/05/apple-leaning-heavier-on-tata-with-iphone-repair-shift-from-wistron?utm_medium=rss)<!-- TECH:END -->
+ - [Asus ROG Falchion Ace HFX Review: Hall Effect With New Tricks](https://www.wired.com/review/asus-rog-falchion-ace-hfx/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

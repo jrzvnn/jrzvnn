@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cellebrite acquires Florida-based Corellium, which makes virtual phone emulation tools, for $200M; founder Chris Wade, pardoned by Trump in 2020, will be CTO &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/250605/p22#a250605p22)
- - [Apple’s leaked 45W MagSafe charger is first to support Qi2.2](https://www.theverge.com/news/680309/45w-magsafe-charger-qi-2-2-iphone-17-apple-certification)
- - [OnePlus unveils the $700+ OnePlus Pad 3, a 13.2-inch Android tablet with a Snapdragon 8 Elite chip, a &lt;6mm thick body, 17 hours of battery life, and LCD display &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/250605/p21#a250605p21)
- - [A new 3D printing filament can color-match a vintage Macintosh](https://appleinsider.com/articles/25/06/05/a-new-3d-printing-filament-can-color-match-a-vintage-macintosh?utm_medium=rss)
- - [OnePlus Pad 3 Review: Killer Tablet, High Price](https://www.wired.com/review/oneplus-pad-3/)<!-- TECH:END -->
+ - [OpenAI says it disrupted 10 malicious operations in the past three months, including four that likely originated in China and targeted multiple countries &lpar;Shannon Bond/NPR&rpar;](http://www.techmeme.com/250605/p24#a250605p24)
+ - [Best Bike Lights, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-bike-lights/)
+ - [App Store contributed $1.3 trillion to global economy in 2024](https://appleinsider.com/articles/25/06/05/app-store-contributed-13-trillion-to-global-economy-in-2024?utm_medium=rss)
+ - [A night at New York’s biggest Switch 2 launch event](https://www.theverge.com/nintendo/680294/switch-2-gamestop-launch-event-nintendo-america-ceo)
+ - [Apple&#39;s July 2022 to June 2024 transparency report shows it gave governments data on thousands of push notifications, which can include unencrypted content &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/250605/p23#a250605p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

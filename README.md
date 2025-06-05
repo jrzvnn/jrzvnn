@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I always wondered how you&#39;re in there.](http://9gag.com/gag/avyvXpd)
- - 😝 [Never let them know your next move!](http://9gag.com/gag/a7oNA1L)
- - 💣 [War](http://9gag.com/gag/a5Qj5DL)
- - 😝 [Your mission...](http://9gag.com/gag/apRAV6M)
- - 👉 [Suddenly I&#39;m a chef](http://9gag.com/gag/a9yXB7Z)<!-- MEMES:END -->
+ - 😝 [A potato farms turning your PC into potato](http://9gag.com/gag/an7DVwB)
+ - 😝 [Henry Cavill shows how easily guys can be friends\u2026](http://9gag.com/gag/a5QjDoL)
+ - 💣 [Watches me like it knows my browser history](http://9gag.com/gag/aByXN5A)
+ - 😝 [3 years and still here](http://9gag.com/gag/aZZ2vXn)
+ - 👉 [Bro listen carefully, he isn&#39;t cat](http://9gag.com/gag/an7Ddmo)<!-- MEMES:END -->
 
 ---
 

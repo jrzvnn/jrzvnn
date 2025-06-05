@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to transfer your original Switch data to a Switch 2](https://www.theverge.com/tech/680707/switch-2-how-to-transfer-upload-system-data)
  - [The 26 Best Movies on Apple TV+ Right Now &lpar;June 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
  - [Users demand a big discount to pay for subscriptions out of the App Store](https://appleinsider.com/articles/25/06/05/users-demand-a-big-discount-to-pay-for-subscriptions-out-of-the-app-store?utm_medium=rss)
  - [Here’s where you can buy microSD Express cards for the Switch 2](https://www.theverge.com/tech/676075/switch-2-microsd-express-cards-where-to-buy)
- - [How to make the most of Google Keep](https://www.theverge.com/24073806/google-keep-how-to-note-app)
- - [Ross Ulbricht Got a $31 Million Donation From a Dark Web Dealer, Crypto Tracers Suspect](https://www.wired.com/story/ross-ulbricht-31-million-donation-alphabay/)<!-- TECH:END -->
+ - [How to make the most of Google Keep](https://www.theverge.com/24073806/google-keep-how-to-note-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

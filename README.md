@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Anthropic unveils a new set of Claude Gov models tailored for US national security customers and designed to be applied to planning, analysis, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250605/p25#a250605p25)
+ - [Want Starlink? Get Ready to Pay a Lot More If You Live in These 2 States](https://www.cnet.com/home/internet/want-starlink-get-ready-to-pay-a-lot-more-if-you-live-in-these-2-states/#ftag=CAD590a51e)
  - [OpenAI says it disrupted 10 malicious operations in the past three months, including four that likely originated in China and targeted multiple countries &lpar;Shannon Bond/NPR&rpar;](http://www.techmeme.com/250605/p24#a250605p24)
  - [Best Bike Lights, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-bike-lights/)
- - [App Store contributed $1.3 trillion to global economy in 2024](https://appleinsider.com/articles/25/06/05/app-store-contributed-13-trillion-to-global-economy-in-2024?utm_medium=rss)
- - [A night at New York’s biggest Switch 2 launch event](https://www.theverge.com/nintendo/680294/switch-2-gamestop-launch-event-nintendo-america-ceo)<!-- TECH:END -->
+ - [App Store contributed $1.3 trillion to global economy in 2024](https://appleinsider.com/articles/25/06/05/app-store-contributed-13-trillion-to-global-economy-in-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

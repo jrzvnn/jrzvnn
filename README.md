@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Singapore&#39;s Temasek cuts back on startup investments after the fund wrote down hundreds of millions of dollars on a spate of collapsed startups, including FTX &lpar;Financial Times&rpar;](http://www.techmeme.com/250605/p3#a250605p3)
+ - [DoorDash, Uber, and Grubhub agree to settle a 2021 lawsuit against New York City over its pandemic-era 15% cap to commissions and fees charged to restaurants &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/250605/p2#a250605p2)
  - [How AI-assisted &quot;vibe hacking&quot;, which often relies on jailbroken versions of mainstream AI models, is leading to a cybersecurity &quot;arms race&quot; &lpar;Matthew Gault/Wired&rpar;](http://www.techmeme.com/250605/p1#a250605p1)
  - [Here’s how to buy a Nintendo Switch 2 at launch](https://www.theverge.com/tech/679393/nintendo-switch-2-launch-release-buy-restock)
- - [The 20 Best PS5 Games Right Now](https://www.cnet.com/tech/gaming/best-ps5-games/#ftag=CAD590a51e)
- - [Meta CTO Andrew Bosworth says the &quot;tides have turned&quot; in Silicon Valley, making it more acceptable for the tech industry to support the US military&#39;s efforts &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/250604/p49#a250604p49)
- - [Source: Amazon is developing software for humanoid robots to deliver packages and is near completion of an indoor &quot;humanoid park&quot; in San Francisco to test them &lpar;Rocket Drew/The Information&rpar;](http://www.techmeme.com/250604/p48#a250604p48)<!-- TECH:END -->
+ - [The 20 Best PS5 Games Right Now](https://www.cnet.com/tech/gaming/best-ps5-games/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

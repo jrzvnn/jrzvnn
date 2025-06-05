@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Donaldinio, there&#39;s a phone call for you.](http://9gag.com/gag/aD2XNDd)
  - 😝 [A potato farms turning your PC into potato](http://9gag.com/gag/an7DVwB)
- - 😝 [Henry Cavill shows how easily guys can be friends\u2026](http://9gag.com/gag/a5QjDoL)
- - 💣 [3 years and still here](http://9gag.com/gag/aZZ2vXn)
- - 😝 [Bro listen carefully, he isn&#39;t cat](http://9gag.com/gag/an7Ddmo)
- - 👉 [I feel the force between my legs](http://9gag.com/gag/a2vbjbZ)<!-- MEMES:END -->
+ - 💣 [Henry Cavill shows how easily guys can be friends\u2026](http://9gag.com/gag/a5QjDoL)
+ - 😝 [3 years and still here](http://9gag.com/gag/aZZ2vXn)
+ - 👉 [Bro listen carefully, he isn&#39;t cat](http://9gag.com/gag/an7Ddmo)<!-- MEMES:END -->
 
 ---
 

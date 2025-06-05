@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Time&#39;s up!](http://9gag.com/gag/ajPKME8)
+ - 😝 [And we have a winner](http://9gag.com/gag/aGy2oX5)
  - 😝 [Enid](http://9gag.com/gag/agm26xg)
- - 💣 [My arms gave up after reading that number.](http://9gag.com/gag/a5QjDQg)
- - 😝 [Have you seen the youtube vid? wow](http://9gag.com/gag/a87wnze)
- - 👉 [What](http://9gag.com/gag/aGy26E6)<!-- MEMES:END -->
+ - 💣 [What](http://9gag.com/gag/aGy26E6)
+ - 😝 [Magical.](http://9gag.com/gag/a2vb911)
+ - 👉 [Psycho](http://9gag.com/gag/abA2KRB)<!-- MEMES:END -->
 
 ---
 

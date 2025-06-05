@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Someone didn&#39;t check their pockets](http://9gag.com/gag/awy4vxy)
+ - 😝 [Suddenly I&#39;m a chef](http://9gag.com/gag/a9yXB7Z)
  - 😝 [Remember when this felt like an endless city?](http://9gag.com/gag/aryBrM7)
- - 💣 [Road Rage. U can see the shadow](http://9gag.com/gag/aByXvNA)
+ - 💣 [Someone didn&#39;t check their pockets](http://9gag.com/gag/awy4vxy)
  - 😝 [Even older by now](http://9gag.com/gag/aZZ2vM6)
- - 👉 [Psycho](http://9gag.com/gag/abA2KRB)<!-- MEMES:END -->
+ - 👉 [I don&#39;t know where else to ask. I just pulled those nails out of a 55 yo apartment. they have a freely spinning head. What&#39;s their purpose?](http://9gag.com/gag/a0eEOyB)<!-- MEMES:END -->
 
 ---
 

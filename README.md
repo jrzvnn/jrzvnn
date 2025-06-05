@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [watchOS 26 could introduce third-party Control Center widgets](https://appleinsider.com/articles/25/06/05/watchos-26-could-introduce-third-party-control-center-widgets?utm_medium=rss)
  - [Elon Musk Is Posting Through It](https://www.wired.com/story/elon-musk-donald-trump-x-truth-social-fight-posting/)
  - [Here are three new apps building out the open social web](https://www.theverge.com/news/680895/fediverse-fediforum-2025-open-social-web-apps)
  - [After the Switch 2, there&amp;#8217;s no going back to the old eShop](https://www.theverge.com/news/680893/nintendo-switch-2-eshop-faster)
- - [Galaxy Lockscreens Can Use AI to Show You in Outfits You Might Want to Buy](https://www.cnet.com/tech/services-and-software/galaxy-lockscreens-can-use-ai-to-show-you-in-outfits-you-might-want-to-buy/#ftag=CAD590a51e)
- - [Here’s where you can grab the Switch 2 Pro controller and other accessories](https://www.theverge.com/tech/652945/nintendo-switch-2-accessories-pro-controller-cases-camera-preorder-price-availability)<!-- TECH:END -->
+ - [Galaxy Lockscreens Can Use AI to Show You in Outfits You Might Want to Buy](https://www.cnet.com/tech/services-and-software/galaxy-lockscreens-can-use-ai-to-show-you-in-outfits-you-might-want-to-buy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

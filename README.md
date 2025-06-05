@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What](http://9gag.com/gag/aGy26E6)
+ - 😝 [Gonna unload this truck real quick](http://9gag.com/gag/agm2jOr)
+ - 💣 [Myke. At 13 yo. MF looks like he already got 3 kids.](http://9gag.com/gag/aW42dw2)
  - 😝 [Blackgold in mans backyard](http://9gag.com/gag/axyPnbL)
- - 😝 [Just having a blast with the crew.](http://9gag.com/gag/aoy8q9x)
- - 💣 [What](http://9gag.com/gag/aGy26E6)
- - 😝 [Enid](http://9gag.com/gag/agm26xg)
- - 👉 [Magical.](http://9gag.com/gag/a2vb911)<!-- MEMES:END -->
+ - 👉 [Masturbator in chief](http://9gag.com/gag/amoVKMy)<!-- MEMES:END -->
 
 ---
 

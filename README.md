@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Wise says it plans to shift main listing from London to New York, the latest blow to London&#39;s stock market, and will maintain a secondary listing on the LSE &lpar;Bloomberg&rpar;](http://www.techmeme.com/250605/p12#a250605p12)
- - [At Bitcoin 2025, Crypto Purists and the MAGA Faithful Collide](https://www.wired.com/story/at-bitcoin-2025-crypto-purists-and-the-maga-faithful-collide/)
- - [China’s rare earth restrictions halt first auto industry production lines](https://www.theverge.com/news/680247/auto-manufacturing-halt-cars-china-rare-earth-minerals-magnets)
- - [Nintendo launches the Switch 2 globally, with long queues outside stores and midnight openings; analysts expect Nintendo to sell 15M to 20M Switch 2 units &lpar;Financial Times&rpar;](http://www.techmeme.com/250605/p11#a250605p11)
- - [Some creatives and academics are rejecting AI on environmental and ethical grounds, and describe the pressure they feel to use AI to &quot;keep up&quot; with others &lpar;Emine Saner/The Guardian&rpar;](http://www.techmeme.com/250605/p10#a250605p10)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 5, #459: Know Your Nursery Rhymes](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-5-459/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 5, #255: NBA, All the Way](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-5-255/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 5, #725](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-5-725/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Answer Smashed My Streak: Did You Know That Word?](https://www.cnet.com/tech/gaming/todays-wordle-answer-hints-and-help-for-june-5-1447/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

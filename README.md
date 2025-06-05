@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How AI-assisted &quot;vibe hacking&quot;, which often relies on jailbroken versions of mainstream AI models, is leading to a cybersecurity &quot;arms race&quot; &lpar;Matthew Gault/Wired&rpar;](http://www.techmeme.com/250605/p1#a250605p1)
+ - [Here’s how to buy a Nintendo Switch 2 at launch](https://www.theverge.com/tech/679393/nintendo-switch-2-launch-release-buy-restock)
+ - [The 20 Best PS5 Games Right Now](https://www.cnet.com/tech/gaming/best-ps5-games/#ftag=CAD590a51e)
  - [Meta CTO Andrew Bosworth says the &quot;tides have turned&quot; in Silicon Valley, making it more acceptable for the tech industry to support the US military&#39;s efforts &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/250604/p49#a250604p49)
- - [Source: Amazon is developing software for humanoid robots to deliver packages and is near completion of an indoor &quot;humanoid park&quot; in San Francisco to test them &lpar;Rocket Drew/The Information&rpar;](http://www.techmeme.com/250604/p48#a250604p48)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, June 5](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-june-5/#ftag=CAD590a51e)
- - [The witchhunt is on in Wicked: For Good&amp;#8217;s first trailer](https://www.theverge.com/trailers/680142/wicked-for-good-trailler)
- - [MongoDB reports Q1 revenue up 22% YoY to $549M, vs. $527.5M est., net loss down 54% to $37.6M, and increases its full-year guidance; MDB up 14%+ after hours &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250604/p47#a250604p47)<!-- TECH:END -->
+ - [Source: Amazon is developing software for humanoid robots to deliver packages and is near completion of an indoor &quot;humanoid park&quot; in San Francisco to test them &lpar;Rocket Drew/The Information&rpar;](http://www.techmeme.com/250604/p48#a250604p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X changes policy to restrict AI training on posts](https://www.theverge.com/news/680626/x-ai-training-ban-posts)
+ - [Cursor maker Anysphere raised $900M led by Thrive at a $9.9B valuation, bringing its total funding to $1B+ and says its annualized revenue crossed $500M &lpar;Bloomberg&rpar;](http://www.techmeme.com/250605/p33#a250605p33)
+ - [X&amp;#8217;s new policy prevents companies from using posts to &amp;#8216;fine-tune or train&amp;#8217; AI models](https://www.theverge.com/news/680626/x-ai-training-ban-posts)
  - [iOS 18 saw below average adoption despite Apple Intelligence](https://appleinsider.com/articles/25/06/05/ios-18-saw-below-average-adoption-despite-apple-intelligence?utm_medium=rss)
  - [Why Microsoft has created its own print magazine](https://www.theverge.com/notepad-microsoft-newsletter/680371/microsoft-signal-magazine-interview-notepad)
- - [Shares of Circle jumped 124%, opening at $69.50 on the NYSE, after the stablecoin company raised almost $1.1B in an IPO &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250605/p32#a250605p32)
- - [Midea is recalling its U-shaped air conditioners because of potential mold growth](https://www.theverge.com/news/680570/midea-u-shaped-smart-window-air-conditioner-recall-refund)<!-- TECH:END -->
+ - [Shares of Circle jumped 124%, opening at $69.50 on the NYSE, after the stablecoin company raised almost $1.1B in an IPO &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250605/p32#a250605p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

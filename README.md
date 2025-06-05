@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Bro listen carefully, he isn&#39;t cat](http://9gag.com/gag/an7Ddmo)
  - 😝 [Psycho](http://9gag.com/gag/abA2KRB)
- - 💣 [I gave her the secrets. And my kidney.](http://9gag.com/gag/a1mLB0b)
- - 😝 [A tick does the trick.](http://9gag.com/gag/azxZBQZ)
+ - 💣 [A tick does the trick.](http://9gag.com/gag/azxZBQZ)
+ - 😝 [I gave her the secrets. And my kidney.](http://9gag.com/gag/a1mLB0b)
  - 👉 [A smooth ride through Switzerland&#39;s new bike tunnel.](http://9gag.com/gag/aXP2Gv9)<!-- MEMES:END -->
 
 ---

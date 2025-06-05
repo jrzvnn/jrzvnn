@@ -158,9 +158,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Volvo’s new seatbelts use real-time data to adapt to different body types](https://www.theverge.com/news/679359/volvo-seatbelt-adapt-body-type-sensor-ota)
- - [Counterpoint has revised its 2025 global smartphone shipment growth forecast to 1.9% YoY, down from 4.2%, citing &quot;renewed uncertainties surrounding US tariffs&quot; &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250605/p9#a250605p9)
+ - [Counterpoint revises its 2025 global smartphone shipment growth forecast to 1.9% YoY, down from 4.2%, citing &quot;renewed uncertainties surrounding US tariffs&quot; &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250605/p9#a250605p9)
  - [OatFi, whose APIs handle underwriting, origination, and capital deployment for B2B payment providers, raised a $24M Series A led by White Star Capital &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250605/p8#a250605p8)
- - [A former employee says fewer than 10,000 people use Ola Krutrim&#39;s LLM chatbot, which supports 10 Indian languages, and that over 60% of them are random testers &lpar;Swathi Moorthy/The Economic Times&rpar;](http://www.techmeme.com/250605/p7#a250605p7)
+ - [A former Ola employee says under 10,000 people use Ola Krutrim&#39;s LLM chatbot, which supports 10 Indian languages, and that over 60% of them are random testers &lpar;Swathi Moorthy/The Economic Times&rpar;](http://www.techmeme.com/250605/p7#a250605p7)
  - [Pan-European consumer group BEUC files a complaint with the EC against Shein over its alleged use of &quot;dark patterns&quot;, after targeting Temu in 2024 &lpar;Helen Reid/Reuters&rpar;](http://www.techmeme.com/250605/p6#a250605p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

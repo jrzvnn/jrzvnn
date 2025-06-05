@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [France VPN subscription](http://9gag.com/gag/aLnXVPA)
- - 😝 [Enid](http://9gag.com/gag/agm26xg)
- - 💣 [Have you seen the youtube vid? wow](http://9gag.com/gag/a87wnze)
- - 😝 [Enough internet for today](http://9gag.com/gag/ajPKyyw)
- - 👉 [Psycho](http://9gag.com/gag/abA2KRB)<!-- MEMES:END -->
+ - 😝 [Psycho](http://9gag.com/gag/abA2KRB)
+ - 😝 [Bro listen carefully, he isn&#39;t cat](http://9gag.com/gag/an7Ddmo)
+ - 💣 [I gave her the secrets. And my kidney.](http://9gag.com/gag/a1mLB0b)
+ - 😝 [A tick does the trick.](http://9gag.com/gag/azxZBQZ)
+ - 👉 [When the reply is better than the original question.](http://9gag.com/gag/a1mLqmD)<!-- MEMES:END -->
 
 ---
 

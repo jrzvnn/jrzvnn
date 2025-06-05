@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: X is piloting a program to use Community Notes to highlight posts on which people of typically differing opinions agree &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250605/p27#a250605p27)
+ - [Details of where India&#39;s next Apple Store will be built have leaked](https://appleinsider.com/articles/25/06/05/details-of-where-indias-next-apple-store-will-be-built-has-leaked?utm_medium=rss)
  - [&#39;Angry Birds&#39;, &#39;Kingdom Rush&#39;, and more come to Apple Arcade in July](https://appleinsider.com/articles/25/06/05/angry-birds-kingdom-rush-and-more-come-to-apple-arcade-in-july?utm_medium=rss)
  - [Belkin’s Switch 2 case protects and recharges](https://www.theverge.com/news/680463/belkin-nintendo-switch-2-charging-case-battery)
- - [An Apple-funded study says the global App Store drove $1.3T in developer billings and sales in 2024, with developers paying no commission on 90% of sales &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250605/p26#a250605p26)
- - [8 Best Portable Power Stations &lpar;2025&rpar;: Power Capacity, Portability, Camping, and More](https://www.wired.com/gallery/best-portable-power-stations/)
- - [I Unbox the Nintendo Switch 2, Play Mario Kart and Test the Camera](https://www.cnet.com/tech/gaming/nintendo-switch-2-launch-day-games-updates-news-live/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An Apple-funded study says developers using the App Store generated $1.3T globally in billings and sales in 2024, 90% on which developers paid no commission &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250605/p26#a250605p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Narwal’s Freo X Ultra, one of our favorite robovacs, is 60 percent off](https://www.theverge.com/tech/680505/narwhal-freo-x-ultra-robot-vacuum-jbl-go-4-deal-sale)
+ - [Anthropic CEO says a 10-year moratorium on AI regulation is &quot;far too blunt an instrument&quot; and calls for US federal transparency standards for AI companies &lpar;Dario Amodei/New York Times&rpar;](http://www.techmeme.com/250605/p28#a250605p28)
  - [Source: X is piloting a program to use Community Notes to highlight posts on which people of typically differing opinions agree &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250605/p27#a250605p27)
  - [Details of where India&#39;s next Apple Store will be built have leaked](https://appleinsider.com/articles/25/06/05/details-of-where-indias-next-apple-store-will-be-built-has-leaked?utm_medium=rss)
- - [&#39;Angry Birds&#39;, &#39;Kingdom Rush&#39;, and more come to Apple Arcade in July](https://appleinsider.com/articles/25/06/05/angry-birds-kingdom-rush-and-more-come-to-apple-arcade-in-july?utm_medium=rss)
- - [Belkin’s Switch 2 case protects and recharges](https://www.theverge.com/news/680463/belkin-nintendo-switch-2-charging-case-battery)
- - [An Apple-funded study says developers using the App Store generated $1.3T globally in billings and sales in 2024, 90% on which developers paid no commission &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250605/p26#a250605p26)<!-- TECH:END -->
+ - [&#39;Angry Birds&#39;, &#39;Kingdom Rush&#39;, and more come to Apple Arcade in July](https://appleinsider.com/articles/25/06/05/angry-birds-kingdom-rush-and-more-come-to-apple-arcade-in-july?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

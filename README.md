@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Galaxy Lockscreens Can Use AI to Show You in Outfits You Might Want to Buy](https://www.cnet.com/tech/services-and-software/galaxy-lockscreens-can-use-ai-to-show-you-in-outfits-you-might-want-to-buy/#ftag=CAD590a51e)
  - [Here’s where you can grab the Switch 2 Pro controller and other accessories](https://www.theverge.com/tech/652945/nintendo-switch-2-accessories-pro-controller-cases-camera-preorder-price-availability)
  - [Broadcom reports Q2 revenue up 20% YoY to $15B, vs. $14.96B est., net income up 134% YoY to $4.97B, and sales from the AI industry up 46% YoY to $4.4B+ &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/250605/p39#a250605p39)
- - [Razer&amp;#8217;s new translucent PC accessories show off your gamer lights](https://www.theverge.com/news/680821/razer-phantom-collection-translucent-basilisk-blackwidow-barracuda-firefly-v2-pro)
- - [Anthropic co-founder Jared Kaplan says Anthropic cut Windsurf&#39;s direct access to Claude models because of reports that OpenAI is acquiring Windsurf &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250605/p38#a250605p38)
- - [Trademark gives hope for &#39;homeOS&#39; reveal at WWDC](https://appleinsider.com/articles/25/06/05/trademark-gives-hope-for-homeos-reveal-at-wwdc?utm_medium=rss)<!-- TECH:END -->
+ - [Did Today&#39;s Wordle Stump You? A Dictionary Editor Says It&#39;s &#39;Not That Obscure for Word Lovers&#39;](https://www.cnet.com/tech/gaming/todays-wordle-answer-hints-and-help-for-june-5-1447/#ftag=CAD590a51e)
+ - [I Switched to ChatGPT&#39;s Voice Mode. Here Are 7 Reasons Why It&#39;s Better Than Typing](https://www.cnet.com/tech/services-and-software/i-switched-to-chatgpts-voice-mode-here-are-7-reasons-why-its-better-than-typing/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

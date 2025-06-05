@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trademark gives hope for &#39;homeOS&#39; reveal at WWDC](https://appleinsider.com/articles/25/06/05/trademark-gives-hope-for-homeos-reveal-at-wwdc?utm_medium=rss)
  - [Let’s all do a dramatic reading of Trump and Musk’s mean posts](https://www.theverge.com/elon-musk/680817/trump-musk-the-girls-are-fightingggg)
  - [Walmart Goes Big With Drone Delivery Expansion](https://www.wired.com/story/walmart-wing-expand-drone-delivery/)
  - [Wing and Walmart are bringing drone delivery to 100 new stores](https://www.theverge.com/news/680723/walmart-wing-drone-delivery-expand-cities-100-stores)
- - [&#39;Sniper Elite 5&#39; brings brutal WWII action to iPhone, iPad, and Mac in 2026](https://appleinsider.com/articles/25/06/05/sniper-elite-5-brings-brutal-wwii-action-to-iphone-ipad-and-mac-in-2026?utm_medium=rss)
- - [Trump says Elon Musk &quot;went CRAZY&quot; and that canceling his government contracts is &quot;the easiest way to save money&quot;, as their One Big Beautiful bill feud escalates &lpar;Kevin Breuninger/CNBC&rpar;](http://www.techmeme.com/250605/p37#a250605p37)<!-- TECH:END -->
+ - [&#39;Sniper Elite 5&#39; brings brutal WWII action to iPhone, iPad, and Mac in 2026](https://appleinsider.com/articles/25/06/05/sniper-elite-5-brings-brutal-wwii-action-to-iphone-ipad-and-mac-in-2026?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

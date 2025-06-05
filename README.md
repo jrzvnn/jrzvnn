@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Apple expands its Tata partnership in India by assigning it the iPhone and MacBook after-sales repair business, taking over from Taiwan&#39;s Wistron &lpar;Munsif Vengattil/Reuters&rpar;](http://www.techmeme.com/250605/p20#a250605p20)
- - [Lime and Uber sign a new multiyear deal to let Uber feature Lime&#39;s shared bikes and scooters on its ridehail app; the deal was set to expire in 2025 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250605/p19#a250605p19)
- - [Five apps that can help you arrange your new home](https://www.theverge.com/tech/668625/room-planner-apps-moving-home-decorating)
- - [OnePlus Pad 3 arrives with Snapdragon 8 Elite inside](https://www.theverge.com/news/680283/oneplus-pad-3-tablet-launch-price-specs-snapdragon-8-elite)
- - [CISA, the ACSC, and the FBI say the Play ransomware gang, active since June 2022, had breached roughly 900 organizations as of May 2025, up 3x on October 2023 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250605/p18#a250605p18)<!-- TECH:END -->
+ - [Cellebrite acquires Florida-based Corellium, which makes virtual phone emulation tools, for $200M; founder Chris Wade, pardoned by Trump in 2020, will be CTO &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/250605/p22#a250605p22)
+ - [Apple’s leaked 45W MagSafe charger is first to support Qi2.2](https://www.theverge.com/news/680309/45w-magsafe-charger-qi-2-2-iphone-17-apple-certification)
+ - [OnePlus unveils the $700+ OnePlus Pad 3, a 13.2-inch Android tablet with a Snapdragon 8 Elite chip, a &lt;6mm thick body, 17 hours of battery life, and LCD display &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/250605/p21#a250605p21)
+ - [A new 3D printing filament can color-match a vintage Macintosh](https://appleinsider.com/articles/25/06/05/a-new-3d-printing-filament-can-color-match-a-vintage-macintosh?utm_medium=rss)
+ - [OnePlus Pad 3 Review: Killer Tablet, High Price](https://www.wired.com/review/oneplus-pad-3/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [A potato farms turning your PC into potato](http://9gag.com/gag/an7DVwB)
- - 😝 [Henry Cavill shows how easily guys can be friends\u2026](http://9gag.com/gag/a5QjDoL)
- - 💣 [3 years and still here](http://9gag.com/gag/aZZ2vXn)
- - 😝 [Bro listen carefully, he isn&#39;t cat](http://9gag.com/gag/an7Ddmo)
- - 👉 [I feel the force between my legs](http://9gag.com/gag/a2vbjbZ)<!-- MEMES:END -->
+ - 😝 [Give him a hand](http://9gag.com/gag/a2vbGV9)
+ - 💣 [Have you seen the youtube vid? wow](http://9gag.com/gag/a87wnze)
+ - 😝 [I always wondered how you&#39;re in there.](http://9gag.com/gag/avyvXpd)
+ - 👉 [Ghetto high.](http://9gag.com/gag/aW42RbZ)<!-- MEMES:END -->
 
 ---
 

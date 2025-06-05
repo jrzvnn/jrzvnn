@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Didi reports Q1 revenue up 8.5% YoY to ~$7.4B, a ~$334M net income, up from a ~$194M loss YoY, transactions up 10% YoY to 3.3B, and ~$418M international revenue &lpar;Reuters&rpar;](http://www.techmeme.com/250605/p16#a250605p16)
+ - [Best Senior Phone Plans of 2025](https://www.cnet.com/tech/mobile/best-senior-phone-plans/#ftag=CAD590a51e)
+ - [Nothing Headphone 1 to Launch Alongside Nothing Phone 3](https://www.cnet.com/tech/mobile/nothing-headphone-1-to-launch-alongside-nothing-phone-3/#ftag=CAD590a51e)
  - [Amazon is reportedly training humanoid robots to deliver packages](https://www.theverge.com/news/680258/amazon-training-package-delivery-humanoid-robots)
- - [A profile of Nigerian fintech PalmPay, which raised $140M+ from Transsion and other Chinese firms, says it has 35M+ registered users, and aims to be &quot;super app&quot; &lpar;Aanu Adeoye/Financial Times&rpar;](http://www.techmeme.com/250605/p15#a250605p15)
- - [What Really Happened in the Aftermath of the Lizard Squad Hacks](https://www.wired.com/story/ctrl-alt-chaos-joe-tidy-book-excerpt/)
- - [Hollywood insiders report widespread off-the-books AI experimentation in studios, often hidden due to avoid backlash, despite union contracts limiting AI use &lpar;Lila Shapiro/Vulture&rpar;](http://www.techmeme.com/250605/p14#a250605p14)
- - [Sensor Tower: Temu&#39;s US DAUs fell 52% in May compared to March, while Shein&#39;s dropped 25%, amid the US&#39; China tariffs and the closure of &quot;de minimis&quot; loophole &lpar;Karen Gilchrist/CNBC&rpar;](http://www.techmeme.com/250605/p13#a250605p13)<!-- TECH:END -->
+ - [A profile of Nigerian fintech PalmPay, which raised $140M+ from Transsion and other Chinese firms, says it has 35M+ registered users, and aims to be &quot;super app&quot; &lpar;Aanu Adeoye/Financial Times&rpar;](http://www.techmeme.com/250605/p15#a250605p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Android phones](https://www.theverge.com/23674658/best-android-phone)
  - [Cellebrite acquires iPhone virtualization firm Corellium for $200M](https://appleinsider.com/articles/25/06/05/cellebrite-acquires-iphone-virtualization-firm-corellium-for-200m?utm_medium=rss)
  - [Elon Musk’s Feud With President Trump Wipes $152 Billion Off Tesla’s Market Cap](https://www.wired.com/story/musk-trump-breakup-tesla-stock-price/)
  - [AMD says it has acquired the team behind AI inference chip developer Untether AI, a day after announcing it acquired AI software optimization startup Brium &lpar;Dylan Martin/CRN&rpar;](http://www.techmeme.com/250605/p40#a250605p40)
- - [A GameStop damaged Switch 2 screens with staples, but they’re getting replaced](https://www.theverge.com/news/680966/nintendo-switch-2-gamestop-screens-staples)
- - [NBA Finals 2025: How to Watch Pacers vs. Thunder Game 1 Tonight](https://www.cnet.com/tech/services-and-software/nba-finals-2025-how-to-watch-pacers-vs-thunder-game-1-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A GameStop damaged Switch 2 screens with staples, but they’re getting replaced](https://www.theverge.com/news/680966/nintendo-switch-2-gamestop-screens-staples)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Time&#39;s up!](http://9gag.com/gag/ajPKME8)
- - 😝 [Suddenly I&#39;m a chef](http://9gag.com/gag/a9yXB7Z)
- - 💣 [My arms gave up after reading that number.](http://9gag.com/gag/a5QjDQg)
- - 😝 [Have you seen the youtube vid? wow](http://9gag.com/gag/a87wnze)
- - 👉 [Remember when this felt like an endless city?](http://9gag.com/gag/aryBrM7)<!-- MEMES:END -->
+ - 😝 [A potato farms turning your PC into potato](http://9gag.com/gag/an7DVwB)
+ - 😝 [Henry Cavill shows how easily guys can be friends\u2026](http://9gag.com/gag/a5QjDoL)
+ - 💣 [3 years and still here](http://9gag.com/gag/aZZ2vXn)
+ - 😝 [Watches me like it knows my browser history](http://9gag.com/gag/aByXN5A)
+ - 👉 [Bro listen carefully, he isn&#39;t cat](http://9gag.com/gag/an7Ddmo)<!-- MEMES:END -->
 
 ---
 

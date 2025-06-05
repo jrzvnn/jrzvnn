@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Midea is recalling its U-shaped air conditioners because of potential mold growth](https://www.theverge.com/news/680570/midea-u-shaped-smart-window-air-conditioner-recall-refund)
  - [Nintendo’s GameCube Controller for the Switch 2 is back in stock](https://www.theverge.com/tech/673515/nintendo-switch-2-gamecube-controller-launch-restock)
  - [Google rolls out an upgraded preview of Gemini 2.5 Pro and says its Elo scored jumped by 24 points to 1470 and it leads on coding benchmarks like Aider Polyglot &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250605/p31#a250605p31)
  - [Defense tech startup Anduril raised a $2.5B Series G led by Founders Fund, which invested $1B, at a $30.5B valuation, up from $14B in August 2024 &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/250605/p30#a250605p30)
- - [iVerify says it found the first evidence of an active spyware campaign targeting iPhones in the US and the EU; Apple fixed a flaw, but says it wasn&#39;t exploited &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/250605/p29#a250605p29)
- - [Bounce lets you move from Bluesky to Mastodon without losing followers](https://www.theverge.com/news/678928/bounce-bluesky-mastodon-bridgy-fed-tool-followers)<!-- TECH:END -->
+ - [iVerify says it found the first evidence of an active spyware campaign targeting iPhones in the US and the EU; Apple fixed a flaw, but says it wasn&#39;t exploited &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/250605/p29#a250605p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

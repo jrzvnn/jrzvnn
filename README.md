@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What](http://9gag.com/gag/aGy26E6)
- - 😝 [Gonna unload this truck real quick](http://9gag.com/gag/agm2jOr)
- - 💣 [Myke. At 13 yo. MF looks like he already got 3 kids.](http://9gag.com/gag/aW42dw2)
- - 😝 [Blackgold in mans backyard](http://9gag.com/gag/axyPnbL)
- - 👉 [Masturbator in chief](http://9gag.com/gag/amoVKMy)<!-- MEMES:END -->
+ - 😝 [Psycho](http://9gag.com/gag/abA2KRB)
+ - 😝 [A tick does the trick.](http://9gag.com/gag/azxZBQZ)
+ - 💣 [I gave her the secrets. And my kidney.](http://9gag.com/gag/a1mLB0b)
+ - 😝 [It&#39;s getting spicy](http://9gag.com/gag/a9yX4eK)
+ - 👉 [When the reply is better than the original question.](http://9gag.com/gag/a1mLqmD)<!-- MEMES:END -->
 
 ---
 

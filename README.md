@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk Is Posting Through It](https://www.wired.com/story/elon-musk-donald-trump-x-truth-social-fight-posting/)
  - [Here are three new apps building out the open social web](https://www.theverge.com/news/680895/fediverse-fediforum-2025-open-social-web-apps)
  - [After the Switch 2, there&amp;#8217;s no going back to the old eShop](https://www.theverge.com/news/680893/nintendo-switch-2-eshop-faster)
- - [Here’s where you can grab the Switch 2 Pro controller and other accessories](https://www.theverge.com/tech/652945/nintendo-switch-2-accessories-pro-controller-cases-camera-preorder-price-availability)
- - [Broadcom reports Q2 revenue up 20% YoY to $15B, vs. $14.96B est., net income up 134% YoY to $4.97B, and sales from the AI industry up 46% YoY to $4.4B+ &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/250605/p39#a250605p39)
- - [Razer&amp;#8217;s new translucent PC accessories show off your gamer lights](https://www.theverge.com/news/680821/razer-phantom-collection-translucent-basilisk-blackwidow-barracuda-firefly-v2-pro)<!-- TECH:END -->
+ - [Galaxy Lockscreens Can Use AI to Show You in Outfits You Might Want to Buy](https://www.cnet.com/tech/services-and-software/galaxy-lockscreens-can-use-ai-to-show-you-in-outfits-you-might-want-to-buy/#ftag=CAD590a51e)
+ - [Here’s where you can grab the Switch 2 Pro controller and other accessories](https://www.theverge.com/tech/652945/nintendo-switch-2-accessories-pro-controller-cases-camera-preorder-price-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

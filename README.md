@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk&#39;s Feud With President Trump Wipes $152 Billion Off Tesla’s Market Cap](https://www.wired.com/story/musk-trump-breakup-tesla-stock-price/)
+ - [Elon Musk’s Feud With President Trump Wipes $152 Billion Off Tesla’s Market Cap](https://www.wired.com/story/musk-trump-breakup-tesla-stock-price/)
  - [AMD says it has acquired the team behind AI inference chip developer Untether AI, a day after announcing it acquired AI software optimization startup Brium &lpar;Dylan Martin/CRN&rpar;](http://www.techmeme.com/250605/p40#a250605p40)
  - [A GameStop damaged Switch 2 screens with staples, but they’re getting replaced](https://www.theverge.com/news/680966/nintendo-switch-2-gamestop-screens-staples)
- - [watchOS 26 could introduce third-party Control Center widgets](https://appleinsider.com/articles/25/06/05/watchos-26-could-introduce-third-party-control-center-widgets?utm_medium=rss)
- - [Elon Musk Is Posting Through It](https://www.wired.com/story/elon-musk-donald-trump-x-truth-social-fight-posting/)<!-- TECH:END -->
+ - [NBA Finals 2025: How to Watch Pacers vs. Thunder Game 1 Tonight](https://www.cnet.com/tech/services-and-software/nba-finals-2025-how-to-watch-pacers-vs-thunder-game-1-tonight/#ftag=CAD590a51e)
+ - [World Cup 2026 Qualifier Soccer: Stream Ecuador vs. Brazil Live From Anywhere](https://www.cnet.com/tech/services-and-software/world-cup-2026-qualifier-soccer-stream-ecuador-vs-brazil-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

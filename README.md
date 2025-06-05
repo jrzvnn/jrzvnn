@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [23andMe plans to hold a new auction for its DNA data, opening with a $305M bid led by Anne Wojcicki, after the ex-CEO challenged Regeneron&#39;s winning bid in May &lpar;Steven Church/Bloomberg&rpar;](http://www.techmeme.com/250605/p4#a250605p4)
  - [Singapore&#39;s Temasek cuts back on startup investments after the fund wrote down hundreds of millions of dollars on a spate of collapsed startups, including FTX &lpar;Financial Times&rpar;](http://www.techmeme.com/250605/p3#a250605p3)
  - [DoorDash, Uber, and Grubhub agree to settle a 2021 lawsuit against New York City over its pandemic-era 15% cap to commissions and fees charged to restaurants &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/250605/p2#a250605p2)
- - [How AI-assisted &quot;vibe hacking&quot;, which often relies on jailbroken versions of mainstream AI models, is leading to a cybersecurity &quot;arms race&quot; &lpar;Matthew Gault/Wired&rpar;](http://www.techmeme.com/250605/p1#a250605p1)
- - [Here’s how to buy a Nintendo Switch 2 at launch](https://www.theverge.com/tech/679393/nintendo-switch-2-launch-release-buy-restock)
- - [The 20 Best PS5 Games Right Now](https://www.cnet.com/tech/gaming/best-ps5-games/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 20 Best Nintendo Switch Games Right Now](https://www.cnet.com/tech/gaming/top-best-nintendo-switch-games/#ftag=CAD590a51e)
+ - [How AI-assisted &quot;vibe hacking&quot;, which often relies on jailbroken versions of mainstream AI models, is leading to a cybersecurity &quot;arms race&quot; &lpar;Matthew Gault/Wired&rpar;](http://www.techmeme.com/250605/p1#a250605p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

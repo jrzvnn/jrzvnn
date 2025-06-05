@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pan-European consumer group BEUC files a complaint with the EC against Shein over its alleged use of &quot;dark patterns&quot;, after targeting Temu in 2024 &lpar;Helen Reid/Reuters&rpar;](http://www.techmeme.com/250605/p6#a250605p6)
  - [Edinburgh-based Wordsmith, whose AI tools help legal teams automate contract and policy reviews, raised a $25M Series A led by Index Ventures &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250605/p5#a250605p5)
  - [20% HP Coupon Code &amp; Deals | June 2025](https://www.wired.com/story/hp-coupon-code/)
  - [23andMe plans to hold a new auction for its DNA data, opening with a $305M bid led by Anne Wojcicki, after the ex-CEO challenged Regeneron&#39;s winning bid in May &lpar;Steven Church/Bloomberg&rpar;](http://www.techmeme.com/250605/p4#a250605p4)
- - [Singapore&#39;s Temasek cuts back on startup investments after the fund wrote down hundreds of millions of dollars on a spate of collapsed startups, including FTX &lpar;Financial Times&rpar;](http://www.techmeme.com/250605/p3#a250605p3)
- - [DoorDash, Uber, and Grubhub agree to settle a 2021 lawsuit against New York City over its pandemic-era 15% cap to commissions and fees charged to restaurants &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/250605/p2#a250605p2)<!-- TECH:END -->
+ - [Singapore&#39;s Temasek cuts back on startup investments after the fund wrote down hundreds of millions of dollars on a spate of collapsed startups, including FTX &lpar;Financial Times&rpar;](http://www.techmeme.com/250605/p3#a250605p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

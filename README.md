@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Someone didn&#39;t check their pockets](http://9gag.com/gag/awy4vxy)
- - 😝 [Ghetto high.](http://9gag.com/gag/aW42RbZ)
- - 💣 [I am the corpo idiot](http://9gag.com/gag/amoVR3o)
+ - 😝 [Give him a hand](http://9gag.com/gag/a2vbGV9)
+ - 😝 [Even older by now](http://9gag.com/gag/aZZ2vM6)
+ - 💣 [Suddenly I&#39;m a chef](http://9gag.com/gag/a9yXB7Z)
  - 😝 [I always wondered how you&#39;re in there.](http://9gag.com/gag/avyvXpd)
- - 👉 [War](http://9gag.com/gag/a5Qj5DL)<!-- MEMES:END -->
+ - 👉 [Someone didn&#39;t check their pockets](http://9gag.com/gag/awy4vxy)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Someone didn&#39;t check their pockets](http://9gag.com/gag/awy4vxy)
+ - 😝 [Ghetto high.](http://9gag.com/gag/aW42RbZ)
+ - 💣 [I am the corpo idiot](http://9gag.com/gag/amoVR3o)
  - 😝 [I always wondered how you&#39;re in there.](http://9gag.com/gag/avyvXpd)
- - 😝 [Shaggy&#39;s face when he meets the *other* Mary Jane.](http://9gag.com/gag/an7DVK5)
- - 💣 [Someone didn&#39;t check their pockets](http://9gag.com/gag/awy4vxy)
- - 😝 [War](http://9gag.com/gag/a5Qj5DL)
- - 👉 [My arms gave up after reading that number.](http://9gag.com/gag/a5QjDQg)<!-- MEMES:END -->
+ - 👉 [War](http://9gag.com/gag/a5Qj5DL)<!-- MEMES:END -->
 
 ---
 

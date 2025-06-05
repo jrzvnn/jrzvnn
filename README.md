@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Enid](http://9gag.com/gag/agm26xg)
- - 😝 [What](http://9gag.com/gag/aGy26E6)
- - 💣 [Activating his superpower](http://9gag.com/gag/a2vbjV1)
- - 😝 [Masturbator in chief](http://9gag.com/gag/amoVKMy)
- - 👉 [Quick thinking saves these two bucks](http://9gag.com/gag/aByXNGP)<!-- MEMES:END -->
+ - 😝 [Laugh](http://9gag.com/gag/aLnXr3g)
+ - 😝 [Activating his superpower](http://9gag.com/gag/a2vbjV1)
+ - 💣 [.....](http://9gag.com/gag/aVv24xK)
+ - 😝 [Breaking: Trump and Elon](http://9gag.com/gag/a7oNmex)
+ - 👉 [Masturbator in chief](http://9gag.com/gag/amoVKMy)<!-- MEMES:END -->
 
 ---
 

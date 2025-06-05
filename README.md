@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Razer&amp;#8217;s new translucent PC accessories show off your gamer lights](https://www.theverge.com/news/680821/razer-phantom-collection-translucent-basilisk-blackwidow-barracuda-firefly-v2-pro)
  - [Anthropic co-founder Jared Kaplan says Anthropic cut Windsurf&#39;s direct access to Claude models because of reports that OpenAI is acquiring Windsurf &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250605/p38#a250605p38)
  - [Trademark gives hope for &#39;homeOS&#39; reveal at WWDC](https://appleinsider.com/articles/25/06/05/trademark-gives-hope-for-homeos-reveal-at-wwdc?utm_medium=rss)
- - [Let’s all do a dramatic reading of Trump and Musk’s mean posts](https://www.theverge.com/elon-musk/680817/trump-musk-the-girls-are-fightingggg)
- - [Walmart Goes Big With Drone Delivery Expansion](https://www.wired.com/story/walmart-wing-expand-drone-delivery/)
- - [Wing and Walmart are bringing drone delivery to 100 new stores](https://www.theverge.com/news/680723/walmart-wing-drone-delivery-expand-cities-100-stores)<!-- TECH:END -->
+ - [How a Proposed Moratorium on State AI Rules Could Affect You](https://www.cnet.com/tech/services-and-software/how-a-proposed-moratorium-on-state-ai-rules-could-affect-you/#ftag=CAD590a51e)
+ - [AT&amp;T Debuts a New Discounted Senior Mobile Plan, and 55 Counts as a &#39;Senior&#39;](https://www.cnet.com/tech/mobile/at-t-debuts-a-new-discounted-senior-mobile-plan-and-55-counts-as-a-senior/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

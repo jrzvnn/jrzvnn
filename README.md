@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A potato farms turning your PC into potato](http://9gag.com/gag/an7DVwB)
- - 😝 [Give him a hand](http://9gag.com/gag/a2vbGV9)
- - 💣 [Have you seen the youtube vid? wow](http://9gag.com/gag/a87wnze)
+ - 😝 [Remember when this felt like an endless city?](http://9gag.com/gag/aryBrM7)
+ - 😝 [The troll toll](http://9gag.com/gag/aW42RvA)
+ - 💣 [Give him a hand](http://9gag.com/gag/a2vbGV9)
  - 😝 [I always wondered how you&#39;re in there.](http://9gag.com/gag/avyvXpd)
  - 👉 [Ghetto high.](http://9gag.com/gag/aW42RbZ)<!-- MEMES:END -->
 

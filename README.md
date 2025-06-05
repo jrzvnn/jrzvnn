@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Angry Birds&#39;, &#39;Kingdom Rush&#39;, and more come to Apple Arcade in July](https://appleinsider.com/articles/25/06/05/angry-birds-kingdom-rush-and-more-come-to-apple-arcade-in-july?utm_medium=rss)
+ - [Belkin’s Switch 2 case protects and recharges](https://www.theverge.com/news/680463/belkin-nintendo-switch-2-charging-case-battery)
  - [An Apple-funded study says the global App Store drove $1.3T in developer billings and sales in 2024, with developers paying no commission on 90% of sales &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250605/p26#a250605p26)
  - [8 Best Portable Power Stations &lpar;2025&rpar;: Power Capacity, Portability, Camping, and More](https://www.wired.com/gallery/best-portable-power-stations/)
- - [Wacom’s new Cintiq tablets have a skinnier look and better displays](https://www.theverge.com/news/680441/wacom-cintiq-pen-display-tablets-2025-price-availability)
- - [Alien: Earth&amp;#8217;s new trailer is full of monsters that want out](https://www.theverge.com/news/680418/alien-earth-trailer)
- - [Asus ROG Falchion Ace HFX Review: Hall Effect With New Tricks](https://www.wired.com/review/asus-rog-falchion-ace-hfx/)<!-- TECH:END -->
+ - [I Unbox the Nintendo Switch 2, Play Mario Kart and Test the Camera](https://www.cnet.com/tech/gaming/nintendo-switch-2-launch-day-games-updates-news-live/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

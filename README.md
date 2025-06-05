@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [France VPN subscription](http://9gag.com/gag/aLnXVPA)
- - 😝 [Have you seen the youtube vid? wow](http://9gag.com/gag/a87wnze)
- - 💣 [What](http://9gag.com/gag/aGy26E6)
- - 😝 [My arms gave up after reading that number.](http://9gag.com/gag/a5QjDQg)
- - 👉 [Enough internet for today](http://9gag.com/gag/ajPKyyw)<!-- MEMES:END -->
+ - 😝 [Enid](http://9gag.com/gag/agm26xg)
+ - 💣 [Have you seen the youtube vid? wow](http://9gag.com/gag/a87wnze)
+ - 😝 [Enough internet for today](http://9gag.com/gag/ajPKyyw)
+ - 👉 [Psycho](http://9gag.com/gag/abA2KRB)<!-- MEMES:END -->
 
 ---
 

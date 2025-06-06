@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I always wondered how you&#39;re in there.](http://9gag.com/gag/avyvXpd)
- - 😝 [Urine my phone forever babe.](http://9gag.com/gag/awy4POy)
- - 💣 [Masturbator in chief](http://9gag.com/gag/amoVKMy)
+ - 😝 [Remember when this felt like an endless city?](http://9gag.com/gag/aryBrM7)
+ - 😝 [Let them fight](http://9gag.com/gag/a7oNBLx)
+ - 💣 [Time&#39;s up!](http://9gag.com/gag/ajPKME8)
  - 😝 [France VPN subscription](http://9gag.com/gag/aLnXVPA)
  - 👉 [Expectation vs reality.](http://9gag.com/gag/aO81A9r)<!-- MEMES:END -->
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Maybe keep the window closed](http://9gag.com/gag/avyvXBX)
- - 😝 [There&#39;s a world wide popcorn shortage.](http://9gag.com/gag/aPAXLLw)
- - 💣 [I would stay](http://9gag.com/gag/a0eEDgq)
- - 😝 [Expectation vs reality.](http://9gag.com/gag/aO81A9r)
- - 👉 [France VPN subscription](http://9gag.com/gag/aLnXVPA)<!-- MEMES:END -->
+ - 😝 [Can&#39;t blame him](http://9gag.com/gag/aPAXVew)
+ - 💣 [Cinema](http://9gag.com/gag/aRB282G)
+ - 😝 [You work really hard, you save all your money and buy your dream car, you drive it home and start admiring it, and then see ....](http://9gag.com/gag/aryBEeX)
+ - 👉 [Expectation vs reality.](http://9gag.com/gag/aO81A9r)<!-- MEMES:END -->
 
 ---
 

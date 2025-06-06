@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iMessage flaw may have allowed for zero-click targeted attacks](https://appleinsider.com/articles/25/06/06/imessage-flaw-may-have-allowed-for-zero-click-targeted-attacks?utm_medium=rss)
  - [DocuSign reports Q1 revenue up 8% YoY to $764M, subscription revenue up 8% to $746.2M, net income up 113% to $72.1M, and cuts FY 2026 forecast; DOCU falls 18%+ &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250606/p9#a250606p9)
  - [The Best Car Vacuums &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-car-vacuum/)
  - [iOS 26 will give the Phone, Safari, and Camera apps a big makeover](https://appleinsider.com/articles/25/06/06/ios-26-will-give-the-phone-safari-and-camera-apps-a-big-makeover?utm_medium=rss)
- - [8BitDo’s controllers will work with the Switch 2 after a firmware update](https://www.theverge.com/news/681153/8bitdo-controller-gamepad-nintendo-switch-2-compatible-firmware-update)
- - [Inside Voice Memos: getting the most out of Apple&#39;s most overlooked app](https://appleinsider.com/inside/ios-18/tips/inside-voice-memos-getting-the-most-out-of-apples-most-overlooked-app?utm_medium=rss)<!-- TECH:END -->
+ - [8BitDo’s controllers will work with the Switch 2 after a firmware update](https://www.theverge.com/news/681153/8bitdo-controller-gamepad-nintendo-switch-2-compatible-firmware-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

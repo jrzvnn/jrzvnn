@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Banned from pub](http://9gag.com/gag/azxZoeZ)
- - 😝 [I gave her the secrets. And my kidney.](http://9gag.com/gag/a1mLB0b)
- - 💣 [Myke. At 13 yo. MF looks like he already got 3 kids.](http://9gag.com/gag/aW42dw2)
  - 😝 [What](http://9gag.com/gag/aGy26E6)
- - 👉 [Urine my phone forever babe.](http://9gag.com/gag/awy4POy)<!-- MEMES:END -->
+ - 😝 [Psycho](http://9gag.com/gag/abA2KRB)
+ - 💣 [Quick thinking saves these two bucks](http://9gag.com/gag/aByXNGP)
+ - 😝 [Urine my phone forever babe.](http://9gag.com/gag/awy4POy)
+ - 👉 [I gave her the secrets. And my kidney.](http://9gag.com/gag/a1mLB0b)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Conspiracy World Thinks the Musk-Trump Breakup Is a &#39;Psyop&#39;](https://www.wired.com/story/conspiracy-world-qanon-musk-trump-breakup-fake-psyop/)
+ - [What to expect at WWDC 2025: iOS 26 and other software branding changes, redesigned software interfaces, productivity enhancements, minor AI changes, and more &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250606/p8#a250606p8)
+ - [&#39;Borderlands 2&#39; is free right now, and yes, it runs on modern Macs](https://appleinsider.com/articles/25/06/06/borderlands-2-is-free-right-now-and-yes-it-runs-on-modern-macs?utm_medium=rss)
  - [Barry Diller Invented Prestige TV. Then He Conquered the Internet](https://www.wired.com/story/plaintext-barry-diller-interview-fox/)
- - [Whoop MG Review: A Screenless Tracker With Cardiac Measurements](https://www.wired.com/review/whoop-mg/)
- - [UPDF 2.0 is a next-level AI PDF editor available across every platform, available now](https://appleinsider.com/articles/25/06/06/updf-20-is-a-next-level-ai-pdf-editor-available-across-every-platform-available-now?utm_medium=rss)
- - [The UK FCA says it will lift its ban on offering crypto exchange traded notes to retail investors &quot;to support UK growth and competitiveness&quot; &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/250606/p7#a250606p7)
- - [Air Fryers Are the Best Warm Weather Kitchen Appliance, and I Have Data to Prove It](https://www.cnet.com/news/air-fryers-are-the-best-warm-weather-kitchen-appliance-and-i-have-data-to-prove-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Whoop MG Review: A Screenless Tracker With Cardiac Measurements](https://www.wired.com/review/whoop-mg/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tech industry fears Musk-Trump rift fallout as some downplay its permanence, and sources say, try to stop Musk from appearing on an emergency All-In episode &lpar;Financial Times&rpar;](http://www.techmeme.com/250606/p12#a250606p12)
+ - [Mission to Zyxx’s creators are laughing their way through the sci-fi spinoff boom](https://www.theverge.com/interview/680526/mission-to-zyxx-the-young-old-derf-chronicles-alden-ford-seth-lind-interview)
  - [A probe found hundreds of ads for &quot;nudify&quot; apps on Meta platforms; Meta removed the ads, and says those behind the apps constantly evolve to avoid detection &lpar;Emmet Lyons/CBS News&rpar;](http://www.techmeme.com/250606/p11#a250606p11)
  - [Breath of the Wild’s Switch 2 enhancements have me exploring Hyrule all over again](https://www.theverge.com/nintendo/681361/nintendo-switch-2-zelda-breath-of-the-wild-edition)
- - [Apple could show off revamped Phone, Safari, and Camera apps next week](https://www.theverge.com/news/681416/apple-revamp-phone-safari-camera-apps-wwdc-rumor)
- - [DOGE Is on a Recruiting Spree](https://www.wired.com/story/doge-recruiting-spree-elon-musk/)
- - [The Access-Ability Summer Showcase returns with the latest in accessible games](https://www.theverge.com/games/679542/access-ability-summer-showcase-2025-best-games-trailers)<!-- TECH:END -->
+ - [Your New Switch 2 Needs Careful Handling. Here&#39;s What to Be Wary About](https://www.cnet.com/tech/gaming/your-new-switch-2-needs-careful-handling-heres-what-to-be-wary-about/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

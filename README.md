@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Android phones](https://www.theverge.com/23674658/best-android-phone)
- - [Cellebrite acquires iPhone virtualization firm Corellium for $200M](https://appleinsider.com/articles/25/06/05/cellebrite-acquires-iphone-virtualization-firm-corellium-for-200m?utm_medium=rss)
- - [Elon Musk’s Feud With President Trump Wipes $152 Billion Off Tesla’s Market Cap](https://www.wired.com/story/musk-trump-breakup-tesla-stock-price/)
- - [AMD says it has acquired the team behind AI inference chip developer Untether AI, a day after announcing it acquired AI software optimization startup Brium &lpar;Dylan Martin/CRN&rpar;](http://www.techmeme.com/250605/p40#a250605p40)
- - [A GameStop damaged Switch 2 screens with staples, but they’re getting replaced](https://www.theverge.com/news/680966/nintendo-switch-2-gamestop-screens-staples)<!-- TECH:END -->
+ - [An interview with Runway CEO Cris Valenzuela on expediting the movie-making process, copyright cases, why using Runway is like using a camera, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250605/p42#a250605p42)
+ - [Silicon Valley Is Starting to Pick Sides in Musk and Trump’s Breakup](https://www.wired.com/story/musk-trump-feud-venture-capitalists-pick-sides/)
+ - [The best earbuds we’ve tested for 2025](https://www.theverge.com/21309820/best-wireless-earbuds)
+ - [Redkey robot lawn mower review: bare minimum specs for a low price](https://appleinsider.com/articles/25/06/06/redkey-robot-lawn-mower-review-bare-minimum-specs-for-a-low-price?utm_medium=rss)
+ - [Walmart expands its partnership with Alphabet-owned Wing to bring drone delivery services to Atlanta, Charlotte, Houston, Orlando, and Tampa, adding 100 stores &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250605/p41#a250605p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

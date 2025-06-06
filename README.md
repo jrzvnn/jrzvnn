@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Milan Kovac, Tesla&#39;s head of engineering for Optimus humanoid robot program, is leaving; Ashok Elluswamy, who leads autopilot teams, will lead Optimus &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/250606/p20#a250606p20)
+ - [Summer Game Fest 2025: all the news, trailers, and announcements](https://www.theverge.com/games/679598/summer-game-fest-2025-trailers-news)
+ - [The best laptops you can get](https://www.theverge.com/21250695/best-laptops)
  - [Google rolls out &quot;scheduled actions&quot; in the Gemini app, allowing AI Pro and AI Ultra subscribers to ask the AI assistant to perform tasks at specific times &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250606/p19#a250606p19)
- - [A new scam is targeting iPhone users with fake traffic fines](https://appleinsider.com/articles/25/06/06/a-new-scam-is-targeting-iphone-users-with-fake-traffic-fines?utm_medium=rss)
- - [Google Gemini can now handle scheduled tasks like an assistant](https://www.theverge.com/news/681762/google-gemini-scheduled-actions-planned-tasks)
- - [Analysis: Community Notes submissions on X fell from a high of 120,000 in January to fewer than 60,000 in May; Musk now rarely mentions the feature &lpar;Joe Murphy/NBC News&rpar;](http://www.techmeme.com/250606/p18#a250606p18)
- - [The Ray-Ban Meta smart glasses are on sale for their best price to date](https://www.theverge.com/tech/681620/ray-ban-meta-glasses-deal-sale)<!-- TECH:END -->
+ - [A new scam is targeting iPhone users with fake traffic fines](https://appleinsider.com/articles/25/06/06/a-new-scam-is-targeting-iphone-users-with-fake-traffic-fines?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

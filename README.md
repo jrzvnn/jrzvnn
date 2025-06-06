@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Pay prank irritates victim, TikTok prankster gets what they deserve](https://appleinsider.com/articles/25/06/06/apple-pay-prank-irritates-victim-tiktok-prankster-gets-what-they-deserve?utm_medium=rss)
- - [China&#39;s Hainan province tests letting some corporate users bypass the Great Firewall and access the global internet, as it seeks to become a free-trade port &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/250606/p6#a250606p6)
- - [EU repair laws start June 20 - How compliant is Apple?](https://appleinsider.com/articles/25/06/06/eu-repair-laws-start-june-20---how-compliant-is-apple?utm_medium=rss)
- - [5 Best Mushroom Gummies &lpar;2025&rpar;, WIRED-Tested and Approved](https://www.wired.com/gallery/best-mushroom-gummies/)
- - [The best ways to digitize your documents](https://www.theverge.com/how-to/674826/digitize-photos-apple-google-pdf)<!-- TECH:END -->
+ - [The Samsung Galaxy S25 Edge is a big phone with small phone energy](https://www.theverge.com/reviews/680383/samsung-galaxy-s25-edge-review-battery-screen)
+ - [How to maximize your privacy using Signal calls and chat](https://www.theverge.com/tech/680712/signal-how-to-call-chat-username-privacy)
+ - [The Vergecast’s WWDC 2025 preview](https://www.theverge.com/the-vergecast/681147/wwdc-2025-apple-preview-vergecast)
+ - [Developers, Design Awards, and WWDC on the AppleInsider Podcast](https://appleinsider.com/articles/25/06/06/developers-design-awards-and-wwdc-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Which Apple TV sets will run the new tvOS 26](https://appleinsider.com/articles/25/06/06/which-apple-tv-sets-will-run-the-new-tvos-26?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

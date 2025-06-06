@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Intelligence translation for users, new AI tools for developers coming at WWDC](https://appleinsider.com/articles/25/06/06/apple-intelligence-translation-for-users-new-ai-tools-for-developers-coming-at-wwdc?utm_medium=rss)
- - [Apple&#39;s Preview app rumored to be coming to iOS 26, iPadOS 26](https://appleinsider.com/articles/25/06/06/apples-preview-app-rumored-to-be-coming-to-ios-26-ipados-26?utm_medium=rss)
- - [OpenAI is storing deleted ChatGPT conversations as part of its NYT lawsuit](https://www.theverge.com/news/681280/openai-storing-deleted-chats-nyt-lawsuit)
- - [Conspiracy World Thinks the Musk-Trump Breakup Is a &#39;Psyop&#39;](https://www.wired.com/story/conspiracy-world-qanon-musk-trump-breakup-fake-psyop/)
- - [What to expect at WWDC 2025: iOS 26 and other software branding changes, redesigned software interfaces, productivity enhancements, minor AI changes, and more &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250606/p8#a250606p8)<!-- TECH:END -->
+ - [DocuSign reports Q1 revenue up 8% YoY to $764M, subscription revenue up 8% to $746.2M, net income up 113% to $72.1M, and cuts FY 2026 forecast; DOCU falls 18%+ &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250606/p9#a250606p9)
+ - [The Best Car Vacuums &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-car-vacuum/)
+ - [iOS 26 will give the Phone, Safari, and Camera apps a big makeover](https://appleinsider.com/articles/25/06/06/ios-26-will-give-the-phone-safari-and-camera-apps-a-big-makeover?utm_medium=rss)
+ - [8BitDo’s controllers will work with the Switch 2 after a firmware update](https://www.theverge.com/news/681153/8bitdo-controller-gamepad-nintendo-switch-2-compatible-firmware-update)
+ - [Inside Voice Memos: getting the most out of Apple&#39;s most overlooked app](https://appleinsider.com/inside/ios-18/tips/inside-voice-memos-getting-the-most-out-of-apples-most-overlooked-app?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Quick thinking saves these two bucks](http://9gag.com/gag/aByXNGP)
- - 😝 [Urine my phone forever babe.](http://9gag.com/gag/awy4POy)
- - 💣 [What](http://9gag.com/gag/aGy26E6)
- - 😝 [Blackgold in mans backyard](http://9gag.com/gag/axyPnbL)
- - 👉 [I would stay](http://9gag.com/gag/a0eEDgq)<!-- MEMES:END -->
+ - 😝 [Divorce is so messy](http://9gag.com/gag/a34WgRN)
+ - 😝 [My Childhood Hero and inspiration -the Queen of the N\u00fcrburgring.](http://9gag.com/gag/aQz2bye)
+ - 💣 [Fu*k Your Shit](http://9gag.com/gag/amoVynj)
+ - 😝 [Well this is talent](http://9gag.com/gag/avyvqvM)
+ - 👉 [I don\u2019t know how USA citizens can wake up in the morning for another episode of national embarrassment.](http://9gag.com/gag/a6ZpgBm)<!-- MEMES:END -->
 
 ---
 

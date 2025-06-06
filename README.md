@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [An interview with ASML CEO Christophe Fouquet, as the company navigates political instability in The Netherlands and abroad and the impacts of Trump&#39;s trade war &lpar;Adam Satariano/New York Times&rpar;](http://www.techmeme.com/250606/p4#a250606p4)
- - [6 Best Clitoral Suction Toys &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-clitoral-suction-toys/)
- - [How spyware, posing as an app from a humanitarian organization, spread among Syrian army officers via Telegram, and fueled the collapse of the Assad regime &lpar;Mobile Hacker&rpar;](http://www.techmeme.com/250606/p3#a250606p3)
- - [OpenAI is appealing a court order in the NYT case requiring it to keep ChatGPT outputs indefinitely, saying it conflicts with its privacy commitments to users &lpar;Reuters&rpar;](http://www.techmeme.com/250606/p2#a250606p2)
- - [Peacock Promo Code &amp; Deals: 16% Off June 2025](https://www.wired.com/story/peacock-promo-code/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 6, #256](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-6-256/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 6, #460](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-6-460/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 6, #726](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-6-726/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for June 6, #1448](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-6-1448/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

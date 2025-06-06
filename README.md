@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Remember when this felt like an endless city?](http://9gag.com/gag/aryBrM7)
- - 😝 [Let them fight](http://9gag.com/gag/a7oNBLx)
- - 💣 [Time&#39;s up!](http://9gag.com/gag/ajPKME8)
  - 😝 [France VPN subscription](http://9gag.com/gag/aLnXVPA)
- - 👉 [Expectation vs reality.](http://9gag.com/gag/aO81A9r)<!-- MEMES:END -->
+ - 💣 [Banned from pub](http://9gag.com/gag/azxZoeZ)
+ - 😝 [Time&#39;s up!](http://9gag.com/gag/ajPKME8)
+ - 👉 [Blackgold in mans backyard](http://9gag.com/gag/axyPnbL)<!-- MEMES:END -->
 
 ---
 

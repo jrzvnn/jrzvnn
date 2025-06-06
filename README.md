@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Banned from pub](http://9gag.com/gag/azxZoeZ)
- - 😝 [Quick thinking saves these two bucks](http://9gag.com/gag/aByXNGP)
- - 💣 [I would stay](http://9gag.com/gag/a0eEDgq)
- - 😝 [Payback](http://9gag.com/gag/a9yXwLL)
- - 👉 [Expectation vs reality.](http://9gag.com/gag/aO81A9r)<!-- MEMES:END -->
+ - 😝 [YES , i am interested](http://9gag.com/gag/a6ZpgjN)
+ - 😝 [My Childhood Hero and inspiration -the Queen of the N\u00fcrburgring.](http://9gag.com/gag/aQz2bye)
+ - 💣 [I don\u2019t know how USA citizens can wake up in the morning for another episode of national embarrassment.](http://9gag.com/gag/a6ZpgBm)
+ - 😝 [Fu*k Your Shit](http://9gag.com/gag/amoVynj)
+ - 👉 [Well this is talent](http://9gag.com/gag/avyvqvM)<!-- MEMES:END -->
 
 ---
 

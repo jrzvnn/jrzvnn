@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Banned from pub](http://9gag.com/gag/azxZoeZ)
- - 😝 [Activating his superpower](http://9gag.com/gag/a2vbjV1)
- - 💣 [Myke. At 13 yo. MF looks like he already got 3 kids.](http://9gag.com/gag/aW42dw2)
  - 😝 [I gave her the secrets. And my kidney.](http://9gag.com/gag/a1mLB0b)
- - 👉 [Expectation vs reality.](http://9gag.com/gag/aO81A9r)<!-- MEMES:END -->
+ - 💣 [Myke. At 13 yo. MF looks like he already got 3 kids.](http://9gag.com/gag/aW42dw2)
+ - 😝 [What](http://9gag.com/gag/aGy26E6)
+ - 👉 [Urine my phone forever babe.](http://9gag.com/gag/awy4POy)<!-- MEMES:END -->
 
 ---
 

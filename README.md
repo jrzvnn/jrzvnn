@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X names Polymarket as its official prediction market partner, with plans to combine Polymarket predictions with X data to deliver live insights &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250606/p13#a250606p13)
- - [WatchOS 12 Is Coming! Here&#39;s What We&#39;re Manifesting for Apple Watch](https://www.cnet.com/tech/mobile/dear-apple-please-make-our-watchos-12-wish-list-come-true/#ftag=CAD590a51e)
- - [The best smart locks you can buy right now](https://www.theverge.com/23393163/best-smart-door-lock)
- - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
- - [Tech industry fears Musk-Trump rift fallout as some downplay its permanence, and sources say, try to stop Musk from appearing on an emergency All-In episode &lpar;Financial Times&rpar;](http://www.techmeme.com/250606/p12#a250606p12)<!-- TECH:END -->
+ - [Winklevoss twins&#39; crypto exchange Gemini says it has confidentially filed for an IPO in the US, after SEC dropped its probe and Gemini settled with CFTC for $5M &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250606/p16#a250606p16)
+ - [Sources: Trump plans to extend TikTok&#39;s June 19 sale deadline; ByteDance told the White House China wouldn&#39;t approve a deal until there are trade negotiations &lpar;Alex Leary/Wall Street Journal&rpar;](http://www.techmeme.com/250606/p15#a250606p15)
+ - [iFixit says the Switch 2 is even harder to repair than the original](https://www.theverge.com/news/681568/ifixit-nintendo-switch-2-repairability)
+ - [Sources: Tucker Carlson was on WH&#39;s list of potential TikTok investors, with JD Vance pushing for his inclusion, along with others like a16z and Blackstone &lpar;Financial Times&rpar;](http://www.techmeme.com/250606/p14#a250606p14)
+ - [X names Polymarket as its official prediction market partner, with plans to combine Polymarket predictions with X data to deliver live insights &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250606/p13#a250606p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

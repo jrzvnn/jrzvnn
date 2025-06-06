@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Red Fluff](http://9gag.com/gag/aryBD1B)
- - 😝 [I feel the force between my legs](http://9gag.com/gag/a2vbjbZ)
- - 💣 [Overcome with joy receiving a husky puppy for his birthday](http://9gag.com/gag/a9yX42W)
- - 😝 [It&#39;s getting spicy](http://9gag.com/gag/a9yX4eK)
- - 👉 [He gave him a traditional name](http://9gag.com/gag/aGy26qX)<!-- MEMES:END -->
+ - 😝 [Grab the popcorn!](http://9gag.com/gag/aKGYZ33)
+ - 😝 [And we have a winner](http://9gag.com/gag/aGy2oX5)
+ - 💣 [France VPN subscription](http://9gag.com/gag/aLnXVPA)
+ - 😝 [Psycho](http://9gag.com/gag/abA2KRB)
+ - 👉 [Expectation vs reality.](http://9gag.com/gag/aO81A9r)<!-- MEMES:END -->
 
 ---
 

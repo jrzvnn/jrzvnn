@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Divorce is so messy](http://9gag.com/gag/a34WgRN)
  - 😝 [My Childhood Hero and inspiration -the Queen of the N\u00fcrburgring.](http://9gag.com/gag/aQz2bye)
  - 💣 [Fu*k Your Shit](http://9gag.com/gag/amoVynj)
- - 😝 [Well this is talent](http://9gag.com/gag/avyvqvM)
- - 👉 [I don\u2019t know how USA citizens can wake up in the morning for another episode of national embarrassment.](http://9gag.com/gag/a6ZpgBm)<!-- MEMES:END -->
+ - 😝 [I don\u2019t know how USA citizens can wake up in the morning for another episode of national embarrassment.](http://9gag.com/gag/a6ZpgBm)
+ - 👉 [Well this is talent](http://9gag.com/gag/avyvqvM)<!-- MEMES:END -->
 
 ---
 

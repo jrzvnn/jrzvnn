@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;100% Stupid&#39;: MAGA World Is Cautiously Turning on Elon Musk](https://www.wired.com/story/100-stupid-maga-trump-cautiously-turning-elon-musk/)
+ - [iPadOS 26 at WWDC 25: Bold design rumors, Multitasking changes, more](https://appleinsider.com/articles/25/06/06/ipados-26-at-wwdc-25-bold-design-rumors-multitasking-changes-more?utm_medium=rss)
  - [Sources: Trump&#39;s team seeks a potential consent decree as part of an FTC deal forcing Meta to pay restitution to conservative users harmed by content moderation &lpar;Lydia Moynihan/New York Post&rpar;](http://www.techmeme.com/250606/p17#a250606p17)
  - [App Store changes look like a free ride to some developers](https://appleinsider.com/articles/25/06/06/app-store-changes-look-like-a-free-ride-to-some-developers?utm_medium=rss)
- - [Winklevoss twins&#39; crypto exchange Gemini says it has confidentially filed for an IPO in the US, after SEC dropped its probe and Gemini settled with CFTC for $5M &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250606/p16#a250606p16)
- - [Sources: Trump plans to extend TikTok&#39;s June 19 sale deadline; ByteDance told the White House China wouldn&#39;t approve a deal until there are trade negotiations &lpar;Alex Leary/Wall Street Journal&rpar;](http://www.techmeme.com/250606/p15#a250606p15)
- - [iFixit says the Switch 2 is even harder to repair than the original](https://www.theverge.com/news/681568/ifixit-nintendo-switch-2-repairability)<!-- TECH:END -->
+ - [&#39;Love Island USA&#39; Season 7 Is Back: How to Stream the Latest Episodes](https://www.cnet.com/tech/services-and-software/love-island-usa-season-7-is-back-how-to-stream-the-latest-episodes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

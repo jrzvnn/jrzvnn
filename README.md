@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Overcome with joy receiving a husky puppy for his birthday](http://9gag.com/gag/a9yX42W)
- - 😝 [Even noble knights deserve a break from the scrolls](http://9gag.com/gag/aoy8o9x)
- - 💣 [He gave him a traditional name](http://9gag.com/gag/aGy26qX)
- - 😝 [I don\u2019t know how USA citizens can wake up in the morning for another episode of national embarrassment.](http://9gag.com/gag/a6ZpgBm)
- - 👉 [Trump vs Elon](http://9gag.com/gag/a1mLnmR)<!-- MEMES:END -->
+ - 😝 [I always wondered how you&#39;re in there.](http://9gag.com/gag/avyvXpd)
+ - 😝 [Urine my phone forever babe.](http://9gag.com/gag/awy4POy)
+ - 💣 [Masturbator in chief](http://9gag.com/gag/amoVKMy)
+ - 😝 [France VPN subscription](http://9gag.com/gag/aLnXVPA)
+ - 👉 [Expectation vs reality.](http://9gag.com/gag/aO81A9r)<!-- MEMES:END -->
 
 ---
 

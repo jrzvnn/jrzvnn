@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UPDF 2.0 is a next-level AI PDF editor available across every platform, available now](https://appleinsider.com/articles/25/06/06/updf-20-is-a-next-level-ai-pdf-editor-available-across-every-platform-available-now?utm_medium=rss)
+ - [The UK&#39;s FCA plans to lift its ban on offering crypto exchange traded notes to retail investors &quot;to support UK growth and competitiveness&quot; &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/250606/p7#a250606p7)
  - [The Samsung Galaxy S25 Edge is a big phone with small phone energy](https://www.theverge.com/reviews/680383/samsung-galaxy-s25-edge-review-battery-screen)
  - [How to maximize your privacy using Signal calls and chat](https://www.theverge.com/tech/680712/signal-how-to-call-chat-username-privacy)
- - [The Vergecast’s WWDC 2025 preview](https://www.theverge.com/the-vergecast/681147/wwdc-2025-apple-preview-vergecast)
- - [Developers, Design Awards, and WWDC on the AppleInsider Podcast](https://appleinsider.com/articles/25/06/06/developers-design-awards-and-wwdc-on-the-appleinsider-podcast?utm_medium=rss)
- - [Which Apple TV sets will run the new tvOS 26](https://appleinsider.com/articles/25/06/06/which-apple-tv-sets-will-run-the-new-tvos-26?utm_medium=rss)<!-- TECH:END -->
+ - [The Vergecast’s WWDC 2025 preview](https://www.theverge.com/the-vergecast/681147/wwdc-2025-apple-preview-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy A26 and Galaxy A36 Review: Fine but Dull Budget Phones](https://www.wired.com/review/samsung-galaxy-a26-and-galaxy-a36/)
- - [An interview with ASML CEO Christophe Fouquet, as the company navigates political instability in The Netherlands and abroad and the impacts of Trump&#39;s trade war &lpar;Adam Satariano/New York Times&rpar;](http://www.techmeme.com/250606/p4#a250606p4)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 6, #256](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-6-256/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 6, #460](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-6-460/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for June 6, #726](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-6-726/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Mushroom Coffee, WIRED Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-mushroom-coffee/)
+ - [Apple’s WWDC 2025: How to Watch and What to Expect](https://www.wired.com/story/apple-wwdc-2025-how-to-watch-what-to-expect/)
+ - [Leak reveals which Apple Watches will get watchOS 26](https://appleinsider.com/articles/25/06/06/leak-reveals-which-apple-watches-will-get-watchos-26?utm_medium=rss)
+ - [Spotify brings playlists, podcasts, and audiobooks to United flights](https://www.theverge.com/news/681113/united-airlines-spotify-audiobooks-podcasts-playlists)
+ - [Samsung Galaxy A26 and Galaxy A36 Review: Fine but Dull Budget Phones](https://www.wired.com/review/samsung-galaxy-a26-and-galaxy-a36/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

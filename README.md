@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cybercriminals Are Hiding Malicious Web Traffic in Plain Sight](https://www.wired.com/story/cybercriminals-are-hiding-malicious-web-traffic-in-plain-sight/)
+ - [Elon Musk’s Fight With Trump Threatens $48 Billion in Government Contracts](https://www.wired.com/story/elon-musk-federal-contracts-government/)
  - [&#39;100% Stupid&#39;: MAGA World Is Cautiously Turning on Elon Musk](https://www.wired.com/story/100-stupid-maga-trump-cautiously-turning-elon-musk/)
  - [iPadOS 26 at WWDC 25: Bold design rumors, Multitasking changes, more](https://appleinsider.com/articles/25/06/06/ipados-26-at-wwdc-25-bold-design-rumors-multitasking-changes-more?utm_medium=rss)
- - [Sources: Trump&#39;s team seeks a potential consent decree as part of an FTC deal forcing Meta to pay restitution to conservative users harmed by content moderation &lpar;Lydia Moynihan/New York Post&rpar;](http://www.techmeme.com/250606/p17#a250606p17)
- - [App Store changes look like a free ride to some developers](https://appleinsider.com/articles/25/06/06/app-store-changes-look-like-a-free-ride-to-some-developers?utm_medium=rss)
- - [&#39;Love Island USA&#39; Season 7 Is Back: How to Stream the Latest Episodes](https://www.cnet.com/tech/services-and-software/love-island-usa-season-7-is-back-how-to-stream-the-latest-episodes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Trump&#39;s team seeks a potential consent decree as part of an FTC deal forcing Meta to pay restitution to conservative users harmed by content moderation &lpar;Lydia Moynihan/New York Post&rpar;](http://www.techmeme.com/250606/p17#a250606p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

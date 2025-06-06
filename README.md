@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That was him spreading peace](http://9gag.com/gag/a87wNDp)
- - 😝 [Lmao](http://9gag.com/gag/avyvDBO)
- - 💣 [Magical.](http://9gag.com/gag/a2vb911)
- - 😝 [Psycho](http://9gag.com/gag/abA2KRB)
- - 👉 [He gave him a traditional name](http://9gag.com/gag/aGy26qX)<!-- MEMES:END -->
+ - 😝 [That dog was like `you just saw that too right?`](http://9gag.com/gag/aQz2N2w)
+ - 😝 [Mic drop](http://9gag.com/gag/axyP8wM)
+ - 💣 [I always wondered how you&#39;re in there.](http://9gag.com/gag/avyvXpd)
+ - 😝 [France VPN subscription](http://9gag.com/gag/aLnXVPA)
+ - 👉 [Time&#39;s up!](http://9gag.com/gag/ajPKME8)<!-- MEMES:END -->
 
 ---
 

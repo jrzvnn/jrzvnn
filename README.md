@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Summer Game Fest 2025: all the news, trailers, and announcements](https://www.theverge.com/games/679598/summer-game-fest-2025-trailers-news)
+ - [The Nintendo Switch 2 is here: all of the launch news](https://www.theverge.com/news/676901/nintendo-switch-2-launch-here)
+ - [Killer Inn is Square Enix’s new ‘murder mystery action’ game](https://www.theverge.com/news/680731/killer-inn-square-enix-murder-mystery-action-game-trailer)
  - [A Game of Thrones RTS is launching in 2026](https://www.theverge.com/news/680433/game-of-thrones-war-for-westeros-trailer-date-rts)
- - [Eric Trump says the TRUMP memecoin team and Magic Eden have canceled the $TRUMP Wallet; Trump&#39;s World Liberty Financial reportedly sent them a cease-and-desist &lpar;Jason Shubnell/The Block&rpar;](http://www.techmeme.com/250606/p22#a250606p22)
- - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)
- - [Virtual chronic care company Omada Health closed up 21% in its Nasdaq debut after raising about $150M in its IPO, valuing the company at just over $1B &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250606/p21#a250606p21)
- - [iFixit Says Switch 2 Is Probably Still Drift Prone](https://www.wired.com/story/ifixit-says-switch-2-is-probably-still-drift-prone/)<!-- TECH:END -->
+ - [Eric Trump says the TRUMP memecoin team and Magic Eden have canceled the $TRUMP Wallet; Trump&#39;s World Liberty Financial reportedly sent them a cease-and-desist &lpar;Jason Shubnell/The Block&rpar;](http://www.techmeme.com/250606/p22#a250606p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

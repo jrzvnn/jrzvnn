@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Let them fight](http://9gag.com/gag/a7oNBLx)
+ - 😝 [Magical.](http://9gag.com/gag/a2vb911)
+ - 💣 [Quick thinking saves these two bucks](http://9gag.com/gag/aByXNGP)
  - 😝 [Explaining the situation to the police](http://9gag.com/gag/a4PqBAp)
- - 😝 [Psycho](http://9gag.com/gag/abA2KRB)
- - 💣 [What](http://9gag.com/gag/aGy26E6)
- - 😝 [I gave her the secrets. And my kidney.](http://9gag.com/gag/a1mLB0b)
  - 👉 [Urine my phone forever babe.](http://9gag.com/gag/awy4POy)<!-- MEMES:END -->
 
 ---

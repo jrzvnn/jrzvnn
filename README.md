@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI is appealing a court order in the NYT case requiring it to keep ChatGPT outputs indefinitely, saying it conflicts with its privacy commitments to users &lpar;Reuters&rpar;](http://www.techmeme.com/250606/p2#a250606p2)
+ - [Peacock Promo Code &amp; Deals: 16% Off June 2025](https://www.wired.com/story/peacock-promo-code/)
  - [Thread AI, which offers a composable infrastructure platform to help companies build AI workflows, raised a $20M Series A led by Greycroft &lpar;Fortune&rpar;](http://www.techmeme.com/250606/p1#a250606p1)
  - [Chinese startups and tech giants are racing to create AI agents for both local and global consumers, following the popularity of Butterfly Effect&#39;s Manus &lpar;Caiwei Chen/MIT Technology Review&rpar;](http://www.techmeme.com/250605/p44#a250605p44)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, June 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-june-6/#ftag=CAD590a51e)
- - [Shield Technology Partners, which provides an AI-enabled managed IT service platform, launches with over $100M from Thrive Holdings and ZBS Partners &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250605/p43#a250605p43)
- - [An interview with Runway CEO Cris Valenzuela on expediting the movie-making process, copyright cases, why using Runway is like using a camera, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250605/p42#a250605p42)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, June 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-june-6/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

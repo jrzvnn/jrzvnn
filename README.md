@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trump vs Elon](http://9gag.com/gag/a1mLnmR)
- - 😝 [My Childhood Hero and inspiration -the Queen of the N\u00fcrburgring.](http://9gag.com/gag/aQz2bye)
- - 💣 [Well this is talent](http://9gag.com/gag/avyvqvM)
- - 😝 [Trump and Elon divorced](http://9gag.com/gag/aGy2qeG)
- - 👉 [Divorce is so messy](http://9gag.com/gag/a34WgRN)<!-- MEMES:END -->
+ - 😝 [Quick thinking saves these two bucks](http://9gag.com/gag/aByXNGP)
+ - 😝 [Urine my phone forever babe.](http://9gag.com/gag/awy4POy)
+ - 💣 [What](http://9gag.com/gag/aGy26E6)
+ - 😝 [Blackgold in mans backyard](http://9gag.com/gag/axyPnbL)
+ - 👉 [I would stay](http://9gag.com/gag/a0eEDgq)<!-- MEMES:END -->
 
 ---
 

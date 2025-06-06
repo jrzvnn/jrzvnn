@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Shield Technology Partners, which provides an AI-enabled managed IT service platform, launches with over $100M from Thrive Holdings and ZBS Partners &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250605/p43#a250605p43)
  - [An interview with Runway CEO Cris Valenzuela on expediting the movie-making process, copyright cases, why using Runway is like using a camera, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250605/p42#a250605p42)
  - [Silicon Valley Is Starting to Pick Sides in Musk and Trump’s Breakup](https://www.wired.com/story/musk-trump-feud-venture-capitalists-pick-sides/)
- - [The best earbuds we’ve tested for 2025](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [Redkey robot lawn mower review: bare minimum specs for a low price](https://appleinsider.com/articles/25/06/06/redkey-robot-lawn-mower-review-bare-minimum-specs-for-a-low-price?utm_medium=rss)
- - [Walmart expands its partnership with Alphabet-owned Wing to bring drone delivery services to Atlanta, Charlotte, Houston, Orlando, and Tampa, adding 100 stores &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250605/p41#a250605p41)<!-- TECH:END -->
+ - [Every iPhone 17 Pro Rumor: Better Cameras, New Designs](https://www.cnet.com/tech/mobile/iphone-17-pro-rumors-and-leaks/#ftag=CAD590a51e)
+ - [The best earbuds we’ve tested for 2025](https://www.theverge.com/21309820/best-wireless-earbuds)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with ASML CEO Christophe Fouquet, as the company navigates political instability in The Netherlands and abroad and the impacts of Trump&#39;s trade war &lpar;Adam Satariano/New York Times&rpar;](http://www.techmeme.com/250606/p4#a250606p4)
  - [6 Best Clitoral Suction Toys &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-clitoral-suction-toys/)
  - [How spyware, posing as an app from a humanitarian organization, spread among Syrian army officers via Telegram, and fueled the collapse of the Assad regime &lpar;Mobile Hacker&rpar;](http://www.techmeme.com/250606/p3#a250606p3)
  - [OpenAI is appealing a court order in the NYT case requiring it to keep ChatGPT outputs indefinitely, saying it conflicts with its privacy commitments to users &lpar;Reuters&rpar;](http://www.techmeme.com/250606/p2#a250606p2)
- - [Peacock Promo Code &amp; Deals: 16% Off June 2025](https://www.wired.com/story/peacock-promo-code/)
- - [Thread AI, which offers a composable infrastructure platform to help companies build AI workflows, raised a $20M Series A led by Greycroft &lpar;Fortune&rpar;](http://www.techmeme.com/250606/p1#a250606p1)<!-- TECH:END -->
+ - [Peacock Promo Code &amp; Deals: 16% Off June 2025](https://www.wired.com/story/peacock-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

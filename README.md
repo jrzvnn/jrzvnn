@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don\u2019t know how USA citizens can wake up in the morning for another episode of national embarrassment.](http://9gag.com/gag/a6ZpgBm)
- - 😝 [Fu*k Your Shit](http://9gag.com/gag/amoVynj)
- - 💣 [Techno music intensifies...](http://9gag.com/gag/aAyX5Ro)
- - 😝 [The story of Adam and Eve](http://9gag.com/gag/aRB29dy)
- - 👉 [Well this is talent](http://9gag.com/gag/avyvqvM)<!-- MEMES:END -->
+ - 😝 [Facade lies](http://9gag.com/gag/a4PqmgZ)
+ - 😝 [Can&#39;t blame him](http://9gag.com/gag/aPAXVew)
+ - 💣 [That was him spreading peace](http://9gag.com/gag/a87wNDp)
+ - 😝 [There&#39;s a world wide popcorn shortage.](http://9gag.com/gag/aPAXLLw)
+ - 👉 [I would stay](http://9gag.com/gag/a0eEDgq)<!-- MEMES:END -->
 
 ---
 

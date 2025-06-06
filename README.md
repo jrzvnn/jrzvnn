@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [That was him spreading peace](http://9gag.com/gag/a87wNDp)
+ - 😝 [Lmao](http://9gag.com/gag/avyvDBO)
+ - 💣 [Magical.](http://9gag.com/gag/a2vb911)
  - 😝 [Psycho](http://9gag.com/gag/abA2KRB)
- - 💣 [Quick thinking saves these two bucks](http://9gag.com/gag/aByXNGP)
- - 😝 [Mic drop](http://9gag.com/gag/axyP8wM)
- - 👉 [Expectation vs reality.](http://9gag.com/gag/aO81A9r)<!-- MEMES:END -->
+ - 👉 [He gave him a traditional name](http://9gag.com/gag/aGy26qX)<!-- MEMES:END -->
 
 ---
 

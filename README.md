@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Facade lies](http://9gag.com/gag/a4PqmgZ)
- - 😝 [Cinema](http://9gag.com/gag/aRB282G)
- - 💣 [Well, that&#39;s one way to interrupt nature.](http://9gag.com/gag/aQz2Bnr)
- - 😝 [Can&#39;t blame him](http://9gag.com/gag/aPAXVew)
+ - 😝 [What in her rectum?](http://9gag.com/gag/aNDRMX0)
+ - 😝 [There&#39;s a world wide popcorn shortage.](http://9gag.com/gag/aPAXLLw)
+ - 💣 [Expectation vs reality.](http://9gag.com/gag/aO81A9r)
+ - 😝 [Well, that&#39;s one way to interrupt nature.](http://9gag.com/gag/aQz2Bnr)
  - 👉 [That was him spreading peace](http://9gag.com/gag/a87wNDp)<!-- MEMES:END -->
 
 ---

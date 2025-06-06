@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Ray-Ban Meta smart glasses are on sale for their best price to date](https://www.theverge.com/tech/681620/ray-ban-meta-glasses-deal-sale)
+ - [Fortnite feels like a new game on the Switch 2](https://www.theverge.com/fortnite/681222/fortnite-nintendo-switch-2-hands-on)
  - [Cybercriminals Are Hiding Malicious Web Traffic in Plain Sight](https://www.wired.com/story/cybercriminals-are-hiding-malicious-web-traffic-in-plain-sight/)
  - [Elon Musk’s Fight With Trump Threatens $48 Billion in Government Contracts](https://www.wired.com/story/elon-musk-federal-contracts-government/)
- - [&#39;100% Stupid&#39;: MAGA World Is Cautiously Turning on Elon Musk](https://www.wired.com/story/100-stupid-maga-trump-cautiously-turning-elon-musk/)
- - [iPadOS 26 at WWDC 25: Bold design rumors, Multitasking changes, more](https://appleinsider.com/articles/25/06/06/ipados-26-at-wwdc-25-bold-design-rumors-multitasking-changes-more?utm_medium=rss)
- - [Sources: Trump&#39;s team seeks a potential consent decree as part of an FTC deal forcing Meta to pay restitution to conservative users harmed by content moderation &lpar;Lydia Moynihan/New York Post&rpar;](http://www.techmeme.com/250606/p17#a250606p17)<!-- TECH:END -->
+ - [&#39;100% Stupid&#39;: MAGA World Is Cautiously Turning on Elon Musk](https://www.wired.com/story/100-stupid-maga-trump-cautiously-turning-elon-musk/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

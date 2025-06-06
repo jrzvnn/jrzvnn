@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Activating his superpower](http://9gag.com/gag/a2vbjV1)
- - 😝 [Let them fight](http://9gag.com/gag/a7oNBLx)
- - 💣 [Enid](http://9gag.com/gag/agm26xg)
- - 😝 [And we have a winner](http://9gag.com/gag/aGy2oX5)
- - 👉 [Magical.](http://9gag.com/gag/a2vb911)<!-- MEMES:END -->
+ - 😝 [Quick thinking saves these two bucks](http://9gag.com/gag/aByXNGP)
+ - 😝 [Enid](http://9gag.com/gag/agm26xg)
+ - 💣 [Let them fight](http://9gag.com/gag/a7oNBLx)
+ - 😝 [Time&#39;s up!](http://9gag.com/gag/ajPKME8)
+ - 👉 [Urine my phone forever babe.](http://9gag.com/gag/awy4POy)<!-- MEMES:END -->
 
 ---
 

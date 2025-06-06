@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Virtual chronic care company Omada Health closed up 21% in its Nasdaq debut after raising about $150M in its IPO, valuing the company at just over $1B &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250606/p21#a250606p21)
+ - [iFixit Says Switch 2 Is Probably Still Drift Prone](https://www.wired.com/story/ifixit-says-switch-2-is-probably-still-drift-prone/)
  - [TikTok dodges U.S. ban -- again -- as Trump administration pushes deadline back](https://appleinsider.com/articles/25/06/06/tiktok-dodges-us-ban----again----as-trump-administration-pushes-deadline-back?utm_medium=rss)
  - [Source: Milan Kovac, Tesla&#39;s head of engineering for Optimus, is leaving; Ashok Elluswamy, who leads Autopilot teams, will take over the humanoid robot program &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/250606/p20#a250606p20)
- - [Summer Game Fest 2025: all the news, trailers, and announcements](https://www.theverge.com/games/679598/summer-game-fest-2025-trailers-news)
- - [The best laptops you can get](https://www.theverge.com/21250695/best-laptops)
- - [Google rolls out &quot;scheduled actions&quot; in the Gemini app, allowing AI Pro and AI Ultra subscribers to ask the AI assistant to perform tasks at specific times &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250606/p19#a250606p19)<!-- TECH:END -->
+ - [Summer Game Fest 2025: all the news, trailers, and announcements](https://www.theverge.com/games/679598/summer-game-fest-2025-trailers-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Laugh](http://9gag.com/gag/aLnXr3g)
- - 😝 [Activating his superpower](http://9gag.com/gag/a2vbjV1)
- - 💣 [.....](http://9gag.com/gag/aVv24xK)
- - 😝 [Breaking: Trump and Elon](http://9gag.com/gag/a7oNmex)
- - 👉 [Masturbator in chief](http://9gag.com/gag/amoVKMy)<!-- MEMES:END -->
+ - 😝 [Hahahahahaha. This just keeps getting better and better](http://9gag.com/gag/aE0Xjqp)
+ - 😝 [Quick thinking saves these two bucks](http://9gag.com/gag/aByXNGP)
+ - 💣 [Activating his superpower](http://9gag.com/gag/a2vbjV1)
+ - 😝 [Remember when this felt like an endless city?](http://9gag.com/gag/aryBrM7)
+ - 👉 [Good Lord even my blood pressure dropped after releasing the steam off](http://9gag.com/gag/agm2Z5w)<!-- MEMES:END -->
 
 ---
 

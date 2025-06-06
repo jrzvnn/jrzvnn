@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Access-Ability Summer Showcase returns with the latest in accessible games](https://www.theverge.com/games/679542/access-ability-summer-showcase-2025-best-games-trailers)
- - [Dedicated Games app in iOS 26 will try to help users play together &amp; find new titles](https://appleinsider.com/articles/25/06/06/dedicated-games-app-in-ios-26-will-try-to-help-users-play-together-find-new-titles?utm_medium=rss)
- - [VA used a DOGE AI tool by Gumroad founder Sahil Lavingia that hallucinated contract sizes to cancel 24+ deals; Lavingia says &quot;mistakes were made&quot; &lpar;ProPublica&rpar;](http://www.techmeme.com/250606/p10#a250606p10)
- - [iMessage flaw may have allowed for zero-click targeted attacks](https://appleinsider.com/articles/25/06/06/imessage-flaw-may-have-allowed-for-zero-click-targeted-attacks?utm_medium=rss)
- - [Worried About a Layoff? 10 Useful Steps to Take Before You Lose Your Job](https://www.cnet.com/personal-finance/banking/worried-about-a-layoff-10-useful-steps-to-take-before-you-lose-your-job/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A probe found hundreds of ads for &quot;nudify&quot; apps on Meta platforms; Meta removed the ads, and says those behind the apps constantly evolve to avoid detection &lpar;Emmet Lyons/CBS News&rpar;](http://www.techmeme.com/250606/p11#a250606p11)
+ - [Breath of the Wild’s Switch 2 enhancements have me exploring Hyrule all over again](https://www.theverge.com/nintendo/681361/nintendo-switch-2-zelda-breath-of-the-wild-edition)
+ - [Your New Switch 2 Needs Careful Handling. Here&#39;s What to Be Wary About](https://www.cnet.com/tech/gaming/your-new-switch-2-needs-careful-handling-heres-what-to-be-wary-about/#ftag=CAD590a51e)
+ - [Apple could show off revamped Phone, Safari, and Camera apps next week](https://www.theverge.com/news/681416/apple-revamp-phone-safari-camera-apps-wwdc-rumor)
+ - [DOGE Is on a Recruiting Spree](https://www.wired.com/story/doge-recruiting-spree-elon-musk/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

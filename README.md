@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Psycho](http://9gag.com/gag/abA2KRB)
- - 😝 [When You Have a Friend Like That!](http://9gag.com/gag/ayNQZ4b)
- - 💣 [I feel the force between my legs](http://9gag.com/gag/a2vbjbZ)
- - 😝 [Trump vs Elon](http://9gag.com/gag/a1mLnmR)
- - 👉 [It&#39;s getting spicy](http://9gag.com/gag/a9yX4eK)<!-- MEMES:END -->
+ - 😝 [Activating his superpower](http://9gag.com/gag/a2vbjV1)
+ - 😝 [Let them fight](http://9gag.com/gag/a7oNBLx)
+ - 💣 [Enid](http://9gag.com/gag/agm26xg)
+ - 😝 [And we have a winner](http://9gag.com/gag/aGy2oX5)
+ - 👉 [Magical.](http://9gag.com/gag/a2vb911)<!-- MEMES:END -->
 
 ---
 

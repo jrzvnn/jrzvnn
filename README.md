@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: Community Notes submissions on X fell from a high of 120,000 in January to fewer than 60,000 in May; Musk now rarely mentions the feature &lpar;Joe Murphy/NBC News&rpar;](http://www.techmeme.com/250606/p18#a250606p18)
  - [The Ray-Ban Meta smart glasses are on sale for their best price to date](https://www.theverge.com/tech/681620/ray-ban-meta-glasses-deal-sale)
  - [Fortnite feels like a new game on the Switch 2](https://www.theverge.com/fortnite/681222/fortnite-nintendo-switch-2-hands-on)
  - [Cybercriminals Are Hiding Malicious Web Traffic in Plain Sight](https://www.wired.com/story/cybercriminals-are-hiding-malicious-web-traffic-in-plain-sight/)
- - [Elon Musk’s Fight With Trump Threatens $48 Billion in Government Contracts](https://www.wired.com/story/elon-musk-federal-contracts-government/)
- - [&#39;100% Stupid&#39;: MAGA World Is Cautiously Turning on Elon Musk](https://www.wired.com/story/100-stupid-maga-trump-cautiously-turning-elon-musk/)<!-- TECH:END -->
+ - [Elon Musk’s Fight With Trump Threatens $48 Billion in Government Contracts](https://www.wired.com/story/elon-musk-federal-contracts-government/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

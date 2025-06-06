@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Banned from pub](http://9gag.com/gag/azxZoeZ)
  - 😝 [That dog was like `you just saw that too right?`](http://9gag.com/gag/aQz2N2w)
+ - 😝 [Mic drop](http://9gag.com/gag/axyP8wM)
  - 💣 [Quick thinking saves these two bucks](http://9gag.com/gag/aByXNGP)
- - 😝 [Time&#39;s up!](http://9gag.com/gag/ajPKME8)
- - 👉 [Nature you scary](http://9gag.com/gag/aE0XjwN)<!-- MEMES:END -->
+ - 😝 [France VPN subscription](http://9gag.com/gag/aLnXVPA)
+ - 👉 [Expectation vs reality.](http://9gag.com/gag/aO81A9r)<!-- MEMES:END -->
 
 ---
 

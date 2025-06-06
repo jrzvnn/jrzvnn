@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An Indian government official says Starlink has secured a license from the telecom ministry to launch services in the country and now must apply for spectrum &lpar;Bloomberg&rpar;](http://www.techmeme.com/250606/p23#a250606p23)
  - [Shovel Knight’s creators are launching a new game this fall](https://www.theverge.com/news/679113/yacht-club-games-shovel-knight-mina-the-hollower-release-date-trailer-demo)
  - [Summer Game Fest 2025: all the news, trailers, and announcements](https://www.theverge.com/games/679598/summer-game-fest-2025-trailers-news)
  - [The Nintendo Switch 2 is here: all of the launch news](https://www.theverge.com/news/676901/nintendo-switch-2-launch-here)
- - [Killer Inn is Square Enix’s new ‘murder mystery action’ game](https://www.theverge.com/news/680731/killer-inn-square-enix-murder-mystery-action-game-trailer)
- - [A Game of Thrones RTS is launching in 2026](https://www.theverge.com/news/680433/game-of-thrones-war-for-westeros-trailer-date-rts)<!-- TECH:END -->
+ - [Killer Inn is Square Enix’s new ‘murder mystery action’ game](https://www.theverge.com/news/680731/killer-inn-square-enix-murder-mystery-action-game-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

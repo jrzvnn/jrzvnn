@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 Rumors, From a Slim &#39;Air&#39; Model to Higher RAM](https://www.cnet.com/tech/mobile/iphone-17-rumors-from-a-slim-air-model-to-higher-ram/#ftag=CAD590a51e)
- - [&#39;Ballerina&#39; Deserves an Oscar Nod for Stunts—But It’ll Never Get One](https://www.wired.com/story/ballerina-deserves-an-oscar-nod-for-stunts-but-itll-never-get-one/)
- - [How to wall-mount your TV &lpar;and why you probably should&rpar;](https://www.theverge.com/how-to/669882/tv-wall-mount-how-to)
- - [United Airlines partners with Spotify to provide free access to 450+ hours of curated playlists, audiobooks, and podcasts across its flights &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250606/p5#a250606p5)
- - [The Best Mushroom Coffee, WIRED Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-mushroom-coffee/)<!-- TECH:END -->
+ - [Apple Pay prank irritates victim, TikTok prankster gets what they deserve](https://appleinsider.com/articles/25/06/06/apple-pay-prank-irritates-victim-tiktok-prankster-gets-what-they-deserve?utm_medium=rss)
+ - [China&#39;s Hainan province tests letting some corporate users bypass the Great Firewall and access the global internet, as it seeks to become a free-trade port &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/250606/p6#a250606p6)
+ - [EU repair laws start June 20 - How compliant is Apple?](https://appleinsider.com/articles/25/06/06/eu-repair-laws-start-june-20---how-compliant-is-apple?utm_medium=rss)
+ - [5 Best Mushroom Gummies &lpar;2025&rpar;, WIRED-Tested and Approved](https://www.wired.com/gallery/best-mushroom-gummies/)
+ - [The best ways to digitize your documents](https://www.theverge.com/how-to/674826/digitize-photos-apple-google-pdf)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

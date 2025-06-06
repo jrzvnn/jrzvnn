@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Grab the popcorn!](http://9gag.com/gag/aKGYZ33)
- - 😝 [And we have a winner](http://9gag.com/gag/aGy2oX5)
- - 💣 [France VPN subscription](http://9gag.com/gag/aLnXVPA)
+ - 😝 [That was him spreading peace](http://9gag.com/gag/a87wNDp)
  - 😝 [Psycho](http://9gag.com/gag/abA2KRB)
+ - 💣 [Quick thinking saves these two bucks](http://9gag.com/gag/aByXNGP)
+ - 😝 [Mic drop](http://9gag.com/gag/axyP8wM)
  - 👉 [Expectation vs reality.](http://9gag.com/gag/aO81A9r)<!-- MEMES:END -->
 
 ---

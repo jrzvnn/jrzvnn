@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A smooth ride through Switzerland&#39;s new bike tunnel.](http://9gag.com/gag/aXP2Gv9)
- - 😝 [Trump vs Elon](http://9gag.com/gag/a1mLnmR)
- - 💣 [When You Have a Friend Like That!](http://9gag.com/gag/ayNQZ4b)
- - 😝 [I feel the force between my legs](http://9gag.com/gag/a2vbjbZ)
- - 👉 [Trump and Elon divorced](http://9gag.com/gag/aGy2qeG)<!-- MEMES:END -->
+ - 😝 [France VPN subscription](http://9gag.com/gag/aLnXVPA)
+ - 😝 [Good Lord even my blood pressure dropped after releasing the steam off](http://9gag.com/gag/agm2Z5w)
+ - 💣 [Activating his superpower](http://9gag.com/gag/a2vbjV1)
+ - 😝 [Expectation vs reality.](http://9gag.com/gag/aO81A9r)
+ - 👉 [Remember when this felt like an endless city?](http://9gag.com/gag/aryBrM7)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remember when this felt like an endless city?](http://9gag.com/gag/aryBrM7)
  - 😝 [France VPN subscription](http://9gag.com/gag/aLnXVPA)
- - 💣 [Banned from pub](http://9gag.com/gag/azxZoeZ)
- - 😝 [Time&#39;s up!](http://9gag.com/gag/ajPKME8)
+ - 😝 [Remember when this felt like an endless city?](http://9gag.com/gag/aryBrM7)
+ - 💣 [Time&#39;s up!](http://9gag.com/gag/ajPKME8)
+ - 😝 [Urine my phone forever babe.](http://9gag.com/gag/awy4POy)
  - 👉 [Blackgold in mans backyard](http://9gag.com/gag/axyPnbL)<!-- MEMES:END -->
 
 ---

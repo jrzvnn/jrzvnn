@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let them fight](http://9gag.com/gag/a7oNBLx)
- - 😝 [Magical.](http://9gag.com/gag/a2vb911)
- - 💣 [Quick thinking saves these two bucks](http://9gag.com/gag/aByXNGP)
- - 😝 [Explaining the situation to the police](http://9gag.com/gag/a4PqBAp)
- - 👉 [Urine my phone forever babe.](http://9gag.com/gag/awy4POy)<!-- MEMES:END -->
+ - 😝 [Red Fluff](http://9gag.com/gag/aryBD1B)
+ - 😝 [I feel the force between my legs](http://9gag.com/gag/a2vbjbZ)
+ - 💣 [Overcome with joy receiving a husky puppy for his birthday](http://9gag.com/gag/a9yX42W)
+ - 😝 [It&#39;s getting spicy](http://9gag.com/gag/a9yX4eK)
+ - 👉 [He gave him a traditional name](http://9gag.com/gag/aGy26qX)<!-- MEMES:END -->
 
 ---
 

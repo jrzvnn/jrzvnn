@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [United Airlines partners with Spotify to provide free access to 450+ hours of curated playlists, audiobooks, and podcasts across its flights &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250606/p5#a250606p5)
  - [The Best Mushroom Coffee, WIRED Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-mushroom-coffee/)
  - [Apple’s WWDC 2025: How to Watch and What to Expect](https://www.wired.com/story/apple-wwdc-2025-how-to-watch-what-to-expect/)
  - [Leak reveals which Apple Watches will get watchOS 26](https://appleinsider.com/articles/25/06/06/leak-reveals-which-apple-watches-will-get-watchos-26?utm_medium=rss)
- - [Spotify brings playlists, podcasts, and audiobooks to United flights](https://www.theverge.com/news/681113/united-airlines-spotify-audiobooks-podcasts-playlists)
- - [Samsung Galaxy A26 and Galaxy A36 Review: Fine but Dull Budget Phones](https://www.wired.com/review/samsung-galaxy-a26-and-galaxy-a36/)<!-- TECH:END -->
+ - [Spotify brings playlists, podcasts, and audiobooks to United flights](https://www.theverge.com/news/681113/united-airlines-spotify-audiobooks-podcasts-playlists)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

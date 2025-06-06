@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Barry Diller Invented Prestige TV. Then He Conquered the Internet](https://www.wired.com/story/plaintext-barry-diller-interview-fox/)
+ - [Whoop MG Review: A Screenless Tracker With Cardiac Measurements](https://www.wired.com/review/whoop-mg/)
  - [UPDF 2.0 is a next-level AI PDF editor available across every platform, available now](https://appleinsider.com/articles/25/06/06/updf-20-is-a-next-level-ai-pdf-editor-available-across-every-platform-available-now?utm_medium=rss)
- - [The UK&#39;s FCA plans to lift its ban on offering crypto exchange traded notes to retail investors &quot;to support UK growth and competitiveness&quot; &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/250606/p7#a250606p7)
- - [Air Fryers Are the Best Warm Weather Kitchen Appliance, and I Have Data to Prove It](https://www.cnet.com/news/air-fryers-are-the-best-warm-weather-kitchen-appliance-and-i-have-data-to-prove-it/#ftag=CAD590a51e)
- - [Rocket Money Haggled With Spectrum for Me. Now I Pay Less and Browse Faster](https://www.cnet.com/personal-finance/rocket-money-haggled-with-spectrum-for-me-now-i-pay-less-and-browse-faster/#ftag=CAD590a51e)
- - [Best Cheap Vacuums for 2025: Our Best Lab-Tested Performers for Less Than $300](https://www.cnet.com/home/kitchen-and-household/best-cheap-vacuums/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The UK FCA says it will lift its ban on offering crypto exchange traded notes to retail investors &quot;to support UK growth and competitiveness&quot; &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/250606/p7#a250606p7)
+ - [Air Fryers Are the Best Warm Weather Kitchen Appliance, and I Have Data to Prove It](https://www.cnet.com/news/air-fryers-are-the-best-warm-weather-kitchen-appliance-and-i-have-data-to-prove-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That dog was like `you just saw that too right?`](http://9gag.com/gag/aQz2N2w)
+ - 😝 [What](http://9gag.com/gag/aGy26E6)
  - 😝 [Mic drop](http://9gag.com/gag/axyP8wM)
- - 💣 [I always wondered how you&#39;re in there.](http://9gag.com/gag/avyvXpd)
+ - 💣 [That dog was like `you just saw that too right?`](http://9gag.com/gag/aQz2N2w)
  - 😝 [France VPN subscription](http://9gag.com/gag/aLnXVPA)
  - 👉 [Time&#39;s up!](http://9gag.com/gag/ajPKME8)<!-- MEMES:END -->
 

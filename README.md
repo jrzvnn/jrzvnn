@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Resident Evil Requiem is coming next year](https://www.theverge.com/news/681325/resident-evil-requiem-trailer-date)
  - [The best robot vacuums we&amp;#8217;ve tested for 2025](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
  - [Wu-Tang Clan’s new video game project is ‘for the culture’](https://www.theverge.com/games/681702/wu-tang-clan-rise-of-the-deciever-summer-game-fest)
  - [An Indian government official says Starlink has secured a license from the telecom ministry to launch services in the country and now must apply for spectrum &lpar;Bloomberg&rpar;](http://www.techmeme.com/250606/p23#a250606p23)
- - [Shovel Knight’s creators are launching a new game this fall](https://www.theverge.com/news/679113/yacht-club-games-shovel-knight-mina-the-hollower-release-date-trailer-demo)
- - [Summer Game Fest 2025: all the news, trailers, and announcements](https://www.theverge.com/games/679598/summer-game-fest-2025-trailers-news)<!-- TECH:END -->
+ - [Shovel Knight’s creators are launching a new game this fall](https://www.theverge.com/news/679113/yacht-club-games-shovel-knight-mina-the-hollower-release-date-trailer-demo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

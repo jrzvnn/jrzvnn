@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Intelligence translation for users, new AI tools for developers coming at WWDC](https://appleinsider.com/articles/25/06/06/apple-intelligence-translation-for-users-new-ai-tools-for-developers-coming-at-wwdc?utm_medium=rss)
+ - [Apple&#39;s Preview app rumored to be coming to iOS 26, iPadOS 26](https://appleinsider.com/articles/25/06/06/apples-preview-app-rumored-to-be-coming-to-ios-26-ipados-26?utm_medium=rss)
  - [OpenAI is storing deleted ChatGPT conversations as part of its NYT lawsuit](https://www.theverge.com/news/681280/openai-storing-deleted-chats-nyt-lawsuit)
  - [Conspiracy World Thinks the Musk-Trump Breakup Is a &#39;Psyop&#39;](https://www.wired.com/story/conspiracy-world-qanon-musk-trump-breakup-fake-psyop/)
- - [What to expect at WWDC 2025: iOS 26 and other software branding changes, redesigned software interfaces, productivity enhancements, minor AI changes, and more &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250606/p8#a250606p8)
- - [&#39;Borderlands 2&#39; is free right now, and yes, it runs on modern Macs](https://appleinsider.com/articles/25/06/06/borderlands-2-is-free-right-now-and-yes-it-runs-on-modern-macs?utm_medium=rss)
- - [Barry Diller Invented Prestige TV. Then He Conquered the Internet](https://www.wired.com/story/plaintext-barry-diller-interview-fox/)<!-- TECH:END -->
+ - [What to expect at WWDC 2025: iOS 26 and other software branding changes, redesigned software interfaces, productivity enhancements, minor AI changes, and more &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250606/p8#a250606p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

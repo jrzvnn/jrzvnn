@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [6 Best Clitoral Suction Toys &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-clitoral-suction-toys/)
  - [How spyware, posing as an app from a humanitarian organization, spread among Syrian army officers via Telegram, and fueled the collapse of the Assad regime &lpar;Mobile Hacker&rpar;](http://www.techmeme.com/250606/p3#a250606p3)
  - [OpenAI is appealing a court order in the NYT case requiring it to keep ChatGPT outputs indefinitely, saying it conflicts with its privacy commitments to users &lpar;Reuters&rpar;](http://www.techmeme.com/250606/p2#a250606p2)
  - [Peacock Promo Code &amp; Deals: 16% Off June 2025](https://www.wired.com/story/peacock-promo-code/)
- - [Thread AI, which offers a composable infrastructure platform to help companies build AI workflows, raised a $20M Series A led by Greycroft &lpar;Fortune&rpar;](http://www.techmeme.com/250606/p1#a250606p1)
- - [Chinese startups and tech giants are racing to create AI agents for both local and global consumers, following the popularity of Butterfly Effect&#39;s Manus &lpar;Caiwei Chen/MIT Technology Review&rpar;](http://www.techmeme.com/250605/p44#a250605p44)<!-- TECH:END -->
+ - [Thread AI, which offers a composable infrastructure platform to help companies build AI workflows, raised a $20M Series A led by Greycroft &lpar;Fortune&rpar;](http://www.techmeme.com/250606/p1#a250606p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

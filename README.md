@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [France VPN subscription](http://9gag.com/gag/aLnXVPA)
- - 😝 [Remember when this felt like an endless city?](http://9gag.com/gag/aryBrM7)
- - 💣 [Time&#39;s up!](http://9gag.com/gag/ajPKME8)
- - 😝 [Urine my phone forever babe.](http://9gag.com/gag/awy4POy)
- - 👉 [Blackgold in mans backyard](http://9gag.com/gag/axyPnbL)<!-- MEMES:END -->
+ - 😝 [Trump vs Elon](http://9gag.com/gag/a1mLnmR)
+ - 😝 [My Childhood Hero and inspiration -the Queen of the N\u00fcrburgring.](http://9gag.com/gag/aQz2bye)
+ - 💣 [Well this is talent](http://9gag.com/gag/avyvqvM)
+ - 😝 [Trump and Elon divorced](http://9gag.com/gag/aGy2qeG)
+ - 👉 [Divorce is so messy](http://9gag.com/gag/a34WgRN)<!-- MEMES:END -->
 
 ---
 

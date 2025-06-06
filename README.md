@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Urine my phone forever babe.](http://9gag.com/gag/awy4POy)
  - 😝 [Banned from pub](http://9gag.com/gag/azxZoeZ)
- - 💣 [Remember when this felt like an endless city?](http://9gag.com/gag/aryBrM7)
- - 😝 [Quick thinking saves these two bucks](http://9gag.com/gag/aByXNGP)
- - 👉 [And we have a winner](http://9gag.com/gag/aGy2oX5)<!-- MEMES:END -->
+ - 😝 [Activating his superpower](http://9gag.com/gag/a2vbjV1)
+ - 💣 [Myke. At 13 yo. MF looks like he already got 3 kids.](http://9gag.com/gag/aW42dw2)
+ - 😝 [I gave her the secrets. And my kidney.](http://9gag.com/gag/a1mLB0b)
+ - 👉 [Expectation vs reality.](http://9gag.com/gag/aO81A9r)<!-- MEMES:END -->
 
 ---
 

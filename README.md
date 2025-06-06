@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [What in her rectum?](http://9gag.com/gag/aNDRMX0)
  - 😝 [There&#39;s a world wide popcorn shortage.](http://9gag.com/gag/aPAXLLw)
- - 💣 [I would stay](http://9gag.com/gag/a0eEDgq)
- - 😝 [Well, that&#39;s one way to interrupt nature.](http://9gag.com/gag/aQz2Bnr)
- - 👉 [Can&#39;t blame him](http://9gag.com/gag/aPAXVew)<!-- MEMES:END -->
+ - 💣 [Keep on moving](http://9gag.com/gag/a87wOwZ)
+ - 😝 [Some days in retail really test you.](http://9gag.com/gag/azxZzrx)
+ - 👉 [Title](http://9gag.com/gag/agm29Mg)<!-- MEMES:END -->
 
 ---
 

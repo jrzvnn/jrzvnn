@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe keep the window closed](http://9gag.com/gag/avyvXBX)
- - 😝 [Can&#39;t blame him](http://9gag.com/gag/aPAXVew)
- - 💣 [Cinema](http://9gag.com/gag/aRB282G)
- - 😝 [You work really hard, you save all your money and buy your dream car, you drive it home and start admiring it, and then see ....](http://9gag.com/gag/aryBEeX)
- - 👉 [Expectation vs reality.](http://9gag.com/gag/aO81A9r)<!-- MEMES:END -->
+ - 😝 [I don\u2019t know how USA citizens can wake up in the morning for another episode of national embarrassment.](http://9gag.com/gag/a6ZpgBm)
+ - 😝 [Fu*k Your Shit](http://9gag.com/gag/amoVynj)
+ - 💣 [Techno music intensifies...](http://9gag.com/gag/aAyX5Ro)
+ - 😝 [The story of Adam and Eve](http://9gag.com/gag/aRB29dy)
+ - 👉 [Well this is talent](http://9gag.com/gag/avyvqvM)<!-- MEMES:END -->
 
 ---
 

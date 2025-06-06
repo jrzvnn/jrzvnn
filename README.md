@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [UPDF 2.0 is a next-level AI PDF editor available across every platform, available now](https://appleinsider.com/articles/25/06/06/updf-20-is-a-next-level-ai-pdf-editor-available-across-every-platform-available-now?utm_medium=rss)
  - [The UK&#39;s FCA plans to lift its ban on offering crypto exchange traded notes to retail investors &quot;to support UK growth and competitiveness&quot; &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/250606/p7#a250606p7)
- - [The Samsung Galaxy S25 Edge is a big phone with small phone energy](https://www.theverge.com/reviews/680383/samsung-galaxy-s25-edge-review-battery-screen)
- - [How to maximize your privacy using Signal calls and chat](https://www.theverge.com/tech/680712/signal-how-to-call-chat-username-privacy)
- - [The Vergecast’s WWDC 2025 preview](https://www.theverge.com/the-vergecast/681147/wwdc-2025-apple-preview-vergecast)<!-- TECH:END -->
+ - [Air Fryers Are the Best Warm Weather Kitchen Appliance, and I Have Data to Prove It](https://www.cnet.com/news/air-fryers-are-the-best-warm-weather-kitchen-appliance-and-i-have-data-to-prove-it/#ftag=CAD590a51e)
+ - [Rocket Money Haggled With Spectrum for Me. Now I Pay Less and Browse Faster](https://www.cnet.com/personal-finance/rocket-money-haggled-with-spectrum-for-me-now-i-pay-less-and-browse-faster/#ftag=CAD590a51e)
+ - [Best Cheap Vacuums for 2025: Our Best Lab-Tested Performers for Less Than $300](https://www.cnet.com/home/kitchen-and-household/best-cheap-vacuums/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

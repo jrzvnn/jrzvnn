@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Access-Ability Summer Showcase returns with the latest in accessible games](https://www.theverge.com/games/679542/access-ability-summer-showcase-2025-best-games-trailers)
  - [Dedicated Games app in iOS 26 will try to help users play together &amp; find new titles](https://appleinsider.com/articles/25/06/06/dedicated-games-app-in-ios-26-will-try-to-help-users-play-together-find-new-titles?utm_medium=rss)
  - [VA used a DOGE AI tool by Gumroad founder Sahil Lavingia that hallucinated contract sizes to cancel 24+ deals; Lavingia says &quot;mistakes were made&quot; &lpar;ProPublica&rpar;](http://www.techmeme.com/250606/p10#a250606p10)
  - [iMessage flaw may have allowed for zero-click targeted attacks](https://appleinsider.com/articles/25/06/06/imessage-flaw-may-have-allowed-for-zero-click-targeted-attacks?utm_medium=rss)
- - [Worried About a Layoff? 10 Useful Steps to Take Before You Lose Your Job](https://www.cnet.com/personal-finance/banking/worried-about-a-layoff-10-useful-steps-to-take-before-you-lose-your-job/#ftag=CAD590a51e)
- - [DocuSign reports Q1 revenue up 8% YoY to $764M, subscription revenue up 8% to $746.2M, net income up 113% to $72.1M, and cuts FY 2026 forecast; DOCU falls 18%+ &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250606/p9#a250606p9)<!-- TECH:END -->
+ - [Worried About a Layoff? 10 Useful Steps to Take Before You Lose Your Job](https://www.cnet.com/personal-finance/banking/worried-about-a-layoff-10-useful-steps-to-take-before-you-lose-your-job/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

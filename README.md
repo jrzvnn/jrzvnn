@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WatchOS 12 Is Coming! Here&#39;s What We&#39;re Manifesting for Apple Watch](https://www.cnet.com/tech/mobile/dear-apple-please-make-our-watchos-12-wish-list-come-true/#ftag=CAD590a51e)
  - [The best smart locks you can buy right now](https://www.theverge.com/23393163/best-smart-door-lock)
  - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
  - [Tech industry fears Musk-Trump rift fallout as some downplay its permanence, and sources say, try to stop Musk from appearing on an emergency All-In episode &lpar;Financial Times&rpar;](http://www.techmeme.com/250606/p12#a250606p12)
- - [Mission to Zyxx’s creators are laughing their way through the sci-fi spinoff boom](https://www.theverge.com/interview/680526/mission-to-zyxx-the-young-old-derf-chronicles-alden-ford-seth-lind-interview)
- - [A probe found hundreds of ads for &quot;nudify&quot; apps on Meta platforms; Meta removed the ads, and says those behind the apps constantly evolve to avoid detection &lpar;Emmet Lyons/CBS News&rpar;](http://www.techmeme.com/250606/p11#a250606p11)<!-- TECH:END -->
+ - [Mortgage Predictions for June: Why High Interest Rates Won&#39;t Budge This Summer](https://www.cnet.com/personal-finance/mortgages/mortgage-predictions-for-june-why-high-interest-rates-wont-budge-this-summer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

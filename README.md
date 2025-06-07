@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Know your spells!](http://9gag.com/gag/agm2wzr)
- - 😝 [Rambo the parrot is the best neighborhood watch](http://9gag.com/gag/aGy25Nz)
- - 💣 [Wood ram from behind!](http://9gag.com/gag/aqyzwPv)
- - 😝 [This isn&#39;t a skit, it&#39;s an Apple event conducted last year. iPad gets a calculator app after 14 years](http://9gag.com/gag/axyPrBn)
- - 👉 [What in her rectum?](http://9gag.com/gag/aNDRMX0)<!-- MEMES:END -->
+ - 😝 [Keep on moving](http://9gag.com/gag/a87wOwZ)
+ - 😝 [Do Re Mi](http://9gag.com/gag/aNDRb23)
+ - 💣 [She keeper](http://9gag.com/gag/ae9280v)
+ - 😝 [Sometimes you just gotta clean up your own mess.](http://9gag.com/gag/aVv2yOK)
+ - 👉 [When the winner loose](http://9gag.com/gag/a5QjYGq)<!-- MEMES:END -->
 
 ---
 

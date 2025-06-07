@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The story of Adam and Eve](http://9gag.com/gag/aRB29dy)
- - 😝 [First time at the gym and already an expert on pump covers.](http://9gag.com/gag/ayNQw9M)
- - 💣 [Well this is talent](http://9gag.com/gag/avyvqvM)
- - 😝 [Techno music intensifies...](http://9gag.com/gag/aAyX5Ro)
- - 👉 [Let them fight](http://9gag.com/gag/a7oNBLx)<!-- MEMES:END -->
+ - 😝 [What in her rectum?](http://9gag.com/gag/aNDRMX0)
+ - 😝 [How villains are born](http://9gag.com/gag/a9yX4n0)
+ - 💣 [I would stay](http://9gag.com/gag/a0eEDgq)
+ - 😝 [Preparing a warm welcome for unexpected guests](http://9gag.com/gag/aByX57A)
+ - 👉 [Nature you scary](http://9gag.com/gag/aE0XjwN)<!-- MEMES:END -->
 
 ---
 

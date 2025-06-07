@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [An interview with Leah Belsky, OpenAI&#39;s VP of Education, as the startup competes with Google and others to offer premium AI tools to universities and students &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/250607/p15#a250607p15)
+ - [Best Internet Providers in Pittsburgh, Pennsylvania](https://www.cnet.com/home/internet/best-internet-providers-in-pittsburgh-pa/#ftag=CAD590a51e)
  - [Sources: the UK has delayed proposals to regulate AI, with plans to introduce an AI bill in 2026 to address concerns about issues like safety and copyright &lpar;The Guardian&rpar;](http://www.techmeme.com/250607/p14#a250607p14)
  - [At the Bitcoin Conference, the Republicans were for sale](https://www.theverge.com/cryptocurrency/679685/bitcoin-conference-gop-takeover)
- - [Sources: before installing Starlink at the White House in February, DOGE ignored security concerns that the service bypasses traditional WH security controls &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/250607/p13#a250607p13)
- - [8 games from the Wholesome Direct 2025 that you can play right now](https://www.theverge.com/games/678265/wholesome-direct-2025-best-games-play-now)<!-- TECH:END -->
+ - [Sources: before installing Starlink at the White House in February, DOGE ignored security concerns that the service bypasses traditional WH security controls &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/250607/p13#a250607p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

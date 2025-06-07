@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Jetta MK2 AC hits different, literally.](http://9gag.com/gag/awy42R4)
- - 😝 [Well this is talent](http://9gag.com/gag/avyvqvM)
- - 💣 [Techno music intensifies...](http://9gag.com/gag/aAyX5Ro)
- - 😝 [Let them fight](http://9gag.com/gag/a7oNBLx)
- - 👉 [First time at the gym and already an expert on pump covers.](http://9gag.com/gag/ayNQw9M)<!-- MEMES:END -->
+ - 😝 [An incredible testament to enduring love](http://9gag.com/gag/ae92B3O)
+ - 😝 [Wood ram from behind!](http://9gag.com/gag/aqyzwPv)
+ - 💣 [What in her rectum?](http://9gag.com/gag/aNDRMX0)
+ - 😝 [This isn&#39;t a skit, it&#39;s an Apple event conducted last year. iPad gets a calculator app after 14 years](http://9gag.com/gag/axyPrBn)
+ - 👉 [That was him spreading peace](http://9gag.com/gag/a87wNDp)<!-- MEMES:END -->
 
 ---
 

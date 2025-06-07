@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Happened today in Poland. The car was stolen and was found near a Biedronka thanks to the gps tracker.](http://9gag.com/gag/abA2w2r)
- - 😝 [Title](http://9gag.com/gag/agm29Mg)
+ - 😝 [That was him spreading peace](http://9gag.com/gag/a87wNDp)
  - 💣 [This isn&#39;t a skit, it&#39;s an Apple event conducted last year. iPad gets a calculator app after 14 years](http://9gag.com/gag/axyPrBn)
- - 😝 [What in her rectum?](http://9gag.com/gag/aNDRMX0)
+ - 😝 [How to check your height.](http://9gag.com/gag/aD2XvDB)
  - 👉 [Wood ram from behind!](http://9gag.com/gag/aqyzwPv)<!-- MEMES:END -->
 
 ---

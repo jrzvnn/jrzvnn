@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I would stay](http://9gag.com/gag/a0eEDgq)
- - 😝 [Facade lies](http://9gag.com/gag/a4PqmgZ)
+ - 😝 [The Wizard of Oz took a weird turn](http://9gag.com/gag/a87w9qp)
+ - 😝 [Wood ram from behind!](http://9gag.com/gag/aqyzwPv)
  - 💣 [Can&#39;t blame him](http://9gag.com/gag/aPAXVew)
- - 😝 [Nature you scary](http://9gag.com/gag/aE0XjwN)
- - 👉 [How villains are born](http://9gag.com/gag/a9yX4n0)<!-- MEMES:END -->
+ - 😝 [How villains are born](http://9gag.com/gag/a9yX4n0)
+ - 👉 [Thank you come again](http://9gag.com/gag/aVv24AK)<!-- MEMES:END -->
 
 ---
 

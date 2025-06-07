@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What in her rectum?](http://9gag.com/gag/aNDRMX0)
- - 😝 [Thank you come again](http://9gag.com/gag/aVv24AK)
- - 💣 [Wood ram from behind!](http://9gag.com/gag/aqyzwPv)
- - 😝 [Hard to choose](http://9gag.com/gag/aVv293P)
+ - 😝 [I would stay](http://9gag.com/gag/a0eEDgq)
+ - 😝 [Facade lies](http://9gag.com/gag/a4PqmgZ)
+ - 💣 [Can&#39;t blame him](http://9gag.com/gag/aPAXVew)
+ - 😝 [Nature you scary](http://9gag.com/gag/aE0XjwN)
  - 👉 [How villains are born](http://9gag.com/gag/a9yX4n0)<!-- MEMES:END -->
 
 ---

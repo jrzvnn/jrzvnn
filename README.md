@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Samsung Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-samsung-phones/)
  - [What Is MicroSD Express? Everything You Need To Know](https://www.wired.com/story/what-is-microsd-express/)
  - [8 Best Weighted Blankets, Robes, and Eye Masks &lpar;2025&rpar;](https://www.wired.com/gallery/best-weighted-blankets/)
- - [Apple is on defense at WWDC](https://www.theverge.com/apple/681739/wwdc-2025-epic-trial-apple-intelligence)
- - [82% of HBCUs Fight Internet Deserts: One Institution’s Strategy for Change](https://www.cnet.com/home/internet/82-percent-of-hbcu-face-internet-deserts-one-institution-is-trying-to-change-that/#ftag=CAD590a51e)
- - [Uber Just Reinvented the Bus … Again](https://www.wired.com/story/uber-just-reinvented-the-bus-again/)<!-- TECH:END -->
+ - [At WWDC, How Will Apple Address Its Lackluster First Year of Apple Intelligence?](https://www.cnet.com/tech/services-and-software/at-wwdc-how-will-apple-address-its-lackluster-first-year-of-apple-intelligence/#ftag=CAD590a51e)
+ - [I&#39;m a Big X-Files Fan, and This Adult Swim Show Gives Major Mulder and Scully Vibes](https://www.cnet.com/tech/services-and-software/im-a-big-x-files-fan-this-adult-swim-show-gives-major-mulder-scully-vibes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

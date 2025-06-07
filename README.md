@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hard to choose](http://9gag.com/gag/aVv293P)
- - 😝 [Facade lies](http://9gag.com/gag/a4PqmgZ)
- - 💣 [Thank you come again](http://9gag.com/gag/aVv24AK)
- - 😝 [Wood ram from behind!](http://9gag.com/gag/aqyzwPv)
- - 👉 [How villains are born](http://9gag.com/gag/a9yX4n0)<!-- MEMES:END -->
+ - 😝 [The story of Adam and Eve](http://9gag.com/gag/aRB29dy)
+ - 😝 [First time at the gym and already an expert on pump covers.](http://9gag.com/gag/ayNQw9M)
+ - 💣 [Well this is talent](http://9gag.com/gag/avyvqvM)
+ - 😝 [Techno music intensifies...](http://9gag.com/gag/aAyX5Ro)
+ - 👉 [Let them fight](http://9gag.com/gag/a7oNBLx)<!-- MEMES:END -->
 
 ---
 

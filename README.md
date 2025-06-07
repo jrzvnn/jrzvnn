@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wood ram from behind!](http://9gag.com/gag/aqyzwPv)
+ - 😝 [Hard to choose](http://9gag.com/gag/aVv293P)
  - 😝 [Facade lies](http://9gag.com/gag/a4PqmgZ)
- - 💣 [I would stay](http://9gag.com/gag/a0eEDgq)
- - 😝 [Some days in retail really test you.](http://9gag.com/gag/azxZzrx)
+ - 💣 [Thank you come again](http://9gag.com/gag/aVv24AK)
+ - 😝 [Wood ram from behind!](http://9gag.com/gag/aqyzwPv)
  - 👉 [How villains are born](http://9gag.com/gag/a9yX4n0)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thank you come again](http://9gag.com/gag/aVv24AK)
- - 😝 [Can&#39;t blame him](http://9gag.com/gag/aPAXVew)
- - 💣 [Banned from pub](http://9gag.com/gag/azxZoeZ)
- - 😝 [Keep on moving](http://9gag.com/gag/a87wOwZ)
- - 👉 [I would stay](http://9gag.com/gag/a0eEDgq)<!-- MEMES:END -->
+ - 😝 [That was him spreading peace](http://9gag.com/gag/a87wNDp)
+ - 😝 [Good news!](http://9gag.com/gag/ajPKvpw)
+ - 💣 [Harmless prank](http://9gag.com/gag/avyvq3q)
+ - 😝 [What in her rectum?](http://9gag.com/gag/aNDRMX0)
+ - 👉 [Some days in retail really test you.](http://9gag.com/gag/azxZzrx)<!-- MEMES:END -->
 
 ---
 

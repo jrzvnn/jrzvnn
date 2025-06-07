@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [How villains are born](http://9gag.com/gag/a9yX4n0)
- - 😝 [This isn&#39;t a skit, it&#39;s an Apple event conducted last year. iPad gets a calculator app after 14 years](http://9gag.com/gag/axyPrBn)
- - 💣 [That was him spreading peace](http://9gag.com/gag/a87wNDp)
- - 😝 [Wood ram from behind!](http://9gag.com/gag/aqyzwPv)
+ - 😝 [Can&#39;t blame him](http://9gag.com/gag/aPAXVew)
+ - 💣 [Harmless prank](http://9gag.com/gag/avyvq3q)
+ - 😝 [That was him spreading peace](http://9gag.com/gag/a87wNDp)
  - 👉 [What in her rectum?](http://9gag.com/gag/aNDRMX0)<!-- MEMES:END -->
 
 ---

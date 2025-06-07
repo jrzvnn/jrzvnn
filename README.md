@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A ban on state AI laws could smash Big Tech&amp;#8217;s legal guardrails](https://www.theverge.com/politics/681727/ro-khanna-ai-state-law-moratorium-reconciliation)
  - [YouTube rolls out a tool to let some creators upload different thumbnails for each video dubbed into a different language, to help expand their global audience &lpar;Dan Whateley/Business Insider&rpar;](http://www.techmeme.com/250607/p9#a250607p9)
  - [Andorra vs. England: Livestream World Cup 2026 Qualifier Soccer Free From Anywhere](https://www.cnet.com/tech/services-and-software/andorra-vs-england-livestream-world-cup-2026-qualifier-soccer-from-anywhere/#ftag=CAD590a51e)
  - [Tech Up Your Sourdough With These Upper-Crust Baking Gadgets](https://www.wired.com/story/sourdough-baking-gadgets-sourdough-home-sourdough-sidekick-doughbed/)
- - [There are only two commissioners left at the FCC](https://www.theverge.com/policy/681638/fcc-quorum-starks-simington-departure-brendan-carr)
- - [I Conducted a Taste Test to Find the Best Self-Cleaning Water Bottles in 2025](https://www.cnet.com/health/best-self-cleaning-water-bottle/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [There are only two commissioners left at the FCC](https://www.theverge.com/policy/681638/fcc-quorum-starks-simington-departure-brendan-carr)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fu*k Your Shit](http://9gag.com/gag/amoVynj)
- - 😝 [The story of Adam and Eve](http://9gag.com/gag/aRB29dy)
- - 💣 [Well this is talent](http://9gag.com/gag/avyvqvM)
- - 😝 [Let them fight](http://9gag.com/gag/a7oNBLx)
- - 👉 [Keep on moving](http://9gag.com/gag/a87wOwZ)<!-- MEMES:END -->
+ - 😝 [Harmless prank](http://9gag.com/gag/avyvq3q)
+ - 😝 [How villains are born](http://9gag.com/gag/a9yX4n0)
+ - 💣 [I would stay](http://9gag.com/gag/a0eEDgq)
+ - 😝 [FAFO](http://9gag.com/gag/aByXe3N)
+ - 👉 [Thank you come again](http://9gag.com/gag/aVv24AK)<!-- MEMES:END -->
 
 ---
 

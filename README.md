@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Panos Panay, head of devices and services at Amazon, who has scaled back new releases to focus on perfecting products like Alexa+ before rollout &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/250607/p8#a250607p8)
  - [Samsung Teases Z Fold Ultra, Bing Gets AI Video, and Nothing Sets A Date—Your Gear News of the Week](https://www.wired.com/story/samsung-teases-z-fold-ultra-bing-gets-ai-video-and-nothing-sets-a-date-your-gear-news-of-the-week/)
  - [The Mystery of iPhone Crashes That Apple Denies Are Linked to Chinese Hacking](https://www.wired.com/story/mystery-of-iphone-crashes-that-apple-denies-are-linked-to-chinese-hacking/)
  - [10 Best Lubes &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-lubes/)
- - [TMNT: Tactical Takedown is a radical twist on turn-based strategy](https://www.theverge.com/games-review/674953/teenage-mutant-ninja-turtles-tactical-takedown-review)
- - [New apps are helping immigrants navigate Trump&#39;s deportation crackdown, including by alerting users to locations of ICE raids and informing them of their rights &lpar;Rest of World&rpar;](http://www.techmeme.com/250607/p7#a250607p7)<!-- TECH:END -->
+ - [TMNT: Tactical Takedown is a radical twist on turn-based strategy](https://www.theverge.com/games-review/674953/teenage-mutant-ninja-turtles-tactical-takedown-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

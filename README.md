@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: EchoStar is considering filing for Chapter 11 bankruptcy to protect its valuable wireless spectrum licenses from potential revocation by the FCC &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250606/p26#a250606p26)
+ - [Sources: Musk&#39;s feud with Trump will complicate xAI&#39;s attempt to raise $5B in debt, and might increase lending costs or cause some lenders to walk away entirely &lpar;Eric Platt/Financial Times&rpar;](http://www.techmeme.com/250606/p25#a250606p25)
  - [Popular AI apps get caught in the crosshairs of Anthropic and OpenAI](https://www.theverge.com/command-line-newsletter/682102/popular-ai-apps-crosshairs-anthropic-openai)
  - [Nintendo Switch 2 webcam compatibility: it’s a wild west](https://www.theverge.com/nintendo/682008/which-webcams-work-with-nintendo-switch-2)
- - [The best games we saw during the Day of the Devs showcase](https://www.theverge.com/games/680659/day-of-the-devs-2025-summer-game-fest)
- - [Researchers: cybercriminals are increasingly turning from &quot;bulletproof&quot; hosts to &quot;residential proxies&quot; that disguise malicious traffic as normal online activity &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/250606/p24#a250606p24)
- - [Resident Evil 9 Revealed at Summer Game Fest After Early Fake-Out](https://www.cnet.com/tech/gaming/resident-evil-9-revealed-at-summer-game-fest-after-early-fake-out/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best games we saw during the Day of the Devs showcase](https://www.theverge.com/games/680659/day-of-the-devs-2025-summer-game-fest)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

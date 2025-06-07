@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can&#39;t blame him](http://9gag.com/gag/aPAXVew)
- - 😝 [Title](http://9gag.com/gag/agm29Mg)
- - 💣 [An incredible testament to enduring love](http://9gag.com/gag/ae92B3O)
- - 😝 [This isn&#39;t a skit, it&#39;s an Apple event conducted last year. iPad gets a calculator app after 14 years](http://9gag.com/gag/axyPrBn)
- - 👉 [What in her rectum?](http://9gag.com/gag/aNDRMX0)<!-- MEMES:END -->
+ - 😝 [Paisa he paisa 😎😁](https://www.reddit.com/r/funny/comments/1l5rmb3/paisa_he_paisa/)
+ - 😝 [Makes me want to buy a sign. I don&#39;t need one, but I want one.](http://9gag.com/gag/aGy25wz)
+ - 💣 [Do Re Mi](http://9gag.com/gag/aNDRb23)
+ - 😝 [First time at the gym and already an expert on pump covers.](http://9gag.com/gag/ayNQw9M)
+ - 👉 [Instead of arresting the Last Generation activists blocking traffic, the polish police began calling ambulances to transport them to psychiatric hospitals on suspicion of suicidal tendencies.](http://9gag.com/gag/aoy8763)<!-- MEMES:END -->
 
 ---
 

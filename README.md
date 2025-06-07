@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That was him spreading peace](http://9gag.com/gag/a87wNDp)
- - 😝 [Good news!](http://9gag.com/gag/ajPKvpw)
- - 💣 [Harmless prank](http://9gag.com/gag/avyvq3q)
- - 😝 [What in her rectum?](http://9gag.com/gag/aNDRMX0)
- - 👉 [Some days in retail really test you.](http://9gag.com/gag/azxZzrx)<!-- MEMES:END -->
+ - 😝 [Fu*k Your Shit](http://9gag.com/gag/amoVynj)
+ - 😝 [The story of Adam and Eve](http://9gag.com/gag/aRB29dy)
+ - 💣 [Well this is talent](http://9gag.com/gag/avyvqvM)
+ - 😝 [Let them fight](http://9gag.com/gag/a7oNBLx)
+ - 👉 [Keep on moving](http://9gag.com/gag/a87wOwZ)<!-- MEMES:END -->
 
 ---
 

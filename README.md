@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Congratulations, you played yourself](http://9gag.com/gag/aByXzXz)
- - 😝 [I would stay](http://9gag.com/gag/a0eEDgq)
- - 💣 [Thank you come again](http://9gag.com/gag/aVv24AK)
- - 😝 [What in her rectum?](http://9gag.com/gag/aNDRMX0)
- - 👉 [Wood ram from behind!](http://9gag.com/gag/aqyzwPv)<!-- MEMES:END -->
+ - 😝 [How villains are born](http://9gag.com/gag/a9yX4n0)
+ - 😝 [Nature you scary](http://9gag.com/gag/aE0XjwN)
+ - 💣 [I would stay](http://9gag.com/gag/a0eEDgq)
+ - 😝 [Hard to choose](http://9gag.com/gag/aVv293P)
+ - 👉 [What in her rectum?](http://9gag.com/gag/aNDRMX0)<!-- MEMES:END -->
 
 ---
 

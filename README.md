@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They&#39;re actually doing it!](http://9gag.com/gag/ae92zV5)
- - 😝 [This isn&#39;t a skit, it&#39;s an Apple event conducted last year. iPad gets a calculator app after 14 years](http://9gag.com/gag/axyPrBn)
- - 💣 [I would stay](http://9gag.com/gag/a0eEDgq)
- - 😝 [Keep on moving](http://9gag.com/gag/a87wOwZ)
- - 👉 [How to check your height.](http://9gag.com/gag/aD2XvDB)<!-- MEMES:END -->
+ - 😝 [I would stay](http://9gag.com/gag/a0eEDgq)
+ - 😝 [Title](http://9gag.com/gag/agm29Mg)
+ - 💣 [Preparing a warm welcome for unexpected guests](http://9gag.com/gag/aByX57A)
+ - 😝 [An incredible testament to enduring love](http://9gag.com/gag/ae92B3O)
+ - 👉 [Wood ram from behind!](http://9gag.com/gag/aqyzwPv)<!-- MEMES:END -->
 
 ---
 

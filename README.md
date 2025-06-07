@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How villains are born](http://9gag.com/gag/a9yX4n0)
- - 😝 [There&#39;s a world wide popcorn shortage.](http://9gag.com/gag/aPAXLLw)
- - 💣 [Congratulations, you played yourself](http://9gag.com/gag/aByXzXz)
- - 😝 [Preparing a warm welcome for unexpected guests](http://9gag.com/gag/aByX57A)
- - 👉 [Keep on moving](http://9gag.com/gag/a87wOwZ)<!-- MEMES:END -->
+ - 😝 [The Jetta MK2 AC hits different, literally.](http://9gag.com/gag/awy42R4)
+ - 😝 [Well this is talent](http://9gag.com/gag/avyvqvM)
+ - 💣 [Techno music intensifies...](http://9gag.com/gag/aAyX5Ro)
+ - 😝 [Let them fight](http://9gag.com/gag/a7oNBLx)
+ - 👉 [First time at the gym and already an expert on pump covers.](http://9gag.com/gag/ayNQw9M)<!-- MEMES:END -->
 
 ---
 

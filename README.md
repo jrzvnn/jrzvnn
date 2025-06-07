@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The 46 Best Movies on Netflix Right Now &lpar;June 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
  - [The 46 Best Shows on Netflix Right Now &lpar;June 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
  - [A profile of Panos Panay, head of devices and services at Amazon, who has scaled back new releases to focus on perfecting products like Alexa+ before rollout &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/250607/p8#a250607p8)
- - [SAVE Student Loan Update: Don&#39;t Expect to Make Payments This Year, but Do This One Thing ASAP](https://www.cnet.com/personal-finance/loans/save-student-loan-update-dont-expect-to-make-payments-this-year-but-do-this-one-thing-asap/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Teases Z Fold Ultra, Bing Gets AI Video, and Nothing Sets A Date—Your Gear News of the Week](https://www.wired.com/story/samsung-teases-z-fold-ultra-bing-gets-ai-video-and-nothing-sets-a-date-your-gear-news-of-the-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

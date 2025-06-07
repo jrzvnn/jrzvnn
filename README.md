@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Popular AI apps get caught in the crosshairs of Anthropic and OpenAI](https://www.theverge.com/command-line-newsletter/682102/popular-ai-apps-crosshairs-anthropic-openai)
+ - [Nintendo Switch 2 webcam compatibility: it’s a wild west](https://www.theverge.com/nintendo/682008/which-webcams-work-with-nintendo-switch-2)
+ - [The best games we saw during the Day of the Devs showcase](https://www.theverge.com/games/680659/day-of-the-devs-2025-summer-game-fest)
  - [Researchers: cybercriminals are increasingly turning from &quot;bulletproof&quot; hosts to &quot;residential proxies&quot; that disguise malicious traffic as normal online activity &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/250606/p24#a250606p24)
- - [Resident Evil Requiem is coming next year](https://www.theverge.com/news/681325/resident-evil-requiem-trailer-date)
- - [The best robot vacuums we&amp;#8217;ve tested for 2025](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
- - [Wu-Tang Clan’s new video game project is ‘for the culture’](https://www.theverge.com/games/681702/wu-tang-clan-rise-of-the-deciever-summer-game-fest)
- - [An Indian government official says Starlink has secured a license from the telecom ministry to launch services in the country and now must apply for spectrum &lpar;Bloomberg&rpar;](http://www.techmeme.com/250606/p23#a250606p23)<!-- TECH:END -->
+ - [Resident Evil 9 Revealed at Summer Game Fest After Early Fake-Out](https://www.cnet.com/tech/gaming/resident-evil-9-revealed-at-summer-game-fest-after-early-fake-out/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

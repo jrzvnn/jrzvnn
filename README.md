@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Boulder, CO-based quantum computing startup Infleqtion raised a $100M Series C and partnered with US government services contractor SAIC to pursue defense deals &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250607/p3#a250607p3)
  - [Beijing-based Kuaishou&#39;s stock climbs after the company said it expects its video-generation service Kling AI to hit $100M in annual revenue by February 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250607/p2#a250607p2)
  - [Walmart&#39;s Flipkart secures a lending license from the RBI, letting the e-commerce company offer loans directly to Indian customers and sellers on its platform &lpar;Ashwin Manikandan/Reuters&rpar;](http://www.techmeme.com/250607/p1#a250607p1)
  - [President Trump signs an EO scrapping or revising several Biden- and Obama-era cybersecurity programs, including for AI security and post-quantum cryptography &lpar;Eric Geller/Cybersecurity Dive&rpar;](http://www.techmeme.com/250606/p27#a250606p27)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, June 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-june-7/#ftag=CAD590a51e)
- - [Sources: EchoStar is considering filing for Chapter 11 bankruptcy to protect its valuable wireless spectrum licenses from potential revocation by the FCC &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250606/p26#a250606p26)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, June 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-june-7/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

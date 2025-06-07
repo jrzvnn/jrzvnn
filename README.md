@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [YouTube rolls out a tool to let some creators upload different thumbnails for each video dubbed into a different language, to help expand their global audience &lpar;Dan Whateley/Business Insider&rpar;](http://www.techmeme.com/250607/p9#a250607p9)
+ - [Andorra vs. England: Livestream World Cup 2026 Qualifier Soccer Free From Anywhere](https://www.cnet.com/tech/services-and-software/andorra-vs-england-livestream-world-cup-2026-qualifier-soccer-from-anywhere/#ftag=CAD590a51e)
  - [Tech Up Your Sourdough With These Upper-Crust Baking Gadgets](https://www.wired.com/story/sourdough-baking-gadgets-sourdough-home-sourdough-sidekick-doughbed/)
  - [There are only two commissioners left at the FCC](https://www.theverge.com/policy/681638/fcc-quorum-starks-simington-departure-brendan-carr)
- - [The Best Samsung Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-samsung-phones/)
- - [What Is MicroSD Express? Everything You Need To Know](https://www.wired.com/story/what-is-microsd-express/)<!-- TECH:END -->
+ - [I Conducted a Taste Test to Find the Best Self-Cleaning Water Bottles in 2025](https://www.cnet.com/health/best-self-cleaning-water-bottle/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

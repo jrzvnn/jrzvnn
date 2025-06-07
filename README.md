@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What in her rectum?](http://9gag.com/gag/aNDRMX0)
- - 😝 [There&#39;s a world wide popcorn shortage.](http://9gag.com/gag/aPAXLLw)
- - 💣 [Keep on moving](http://9gag.com/gag/a87wOwZ)
- - 😝 [Some days in retail really test you.](http://9gag.com/gag/azxZzrx)
- - 👉 [Title](http://9gag.com/gag/agm29Mg)<!-- MEMES:END -->
+ - 😝 [Thank you come again](http://9gag.com/gag/aVv24AK)
+ - 😝 [Can&#39;t blame him](http://9gag.com/gag/aPAXVew)
+ - 💣 [Banned from pub](http://9gag.com/gag/azxZoeZ)
+ - 😝 [Keep on moving](http://9gag.com/gag/a87wOwZ)
+ - 👉 [I would stay](http://9gag.com/gag/a0eEDgq)<!-- MEMES:END -->
 
 ---
 

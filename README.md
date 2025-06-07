@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Walmart&#39;s Flipkart secures a lending license from the RBI, letting the e-commerce company offer loans directly to Indian customers and sellers on its platform &lpar;Ashwin Manikandan/Reuters&rpar;](http://www.techmeme.com/250607/p1#a250607p1)
  - [President Trump signs an EO scrapping or revising several Biden- and Obama-era cybersecurity programs, including for AI security and post-quantum cryptography &lpar;Eric Geller/Cybersecurity Dive&rpar;](http://www.techmeme.com/250606/p27#a250606p27)
  - [Today&#39;s NYT Mini Crossword Answers for Saturday, June 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-june-7/#ftag=CAD590a51e)
  - [Sources: EchoStar is considering filing for Chapter 11 bankruptcy to protect its valuable wireless spectrum licenses from potential revocation by the FCC &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250606/p26#a250606p26)
- - [Sources: Musk&#39;s feud with Trump will complicate xAI&#39;s attempt to raise $5B in debt, and might increase lending costs or cause some lenders to walk away entirely &lpar;Eric Platt/Financial Times&rpar;](http://www.techmeme.com/250606/p25#a250606p25)
- - [Popular AI apps get caught in the crosshairs of Anthropic and OpenAI](https://www.theverge.com/command-line-newsletter/682102/popular-ai-apps-crosshairs-anthropic-openai)<!-- TECH:END -->
+ - [Sources: Musk&#39;s feud with Trump will complicate xAI&#39;s attempt to raise $5B in debt, and might increase lending costs or cause some lenders to walk away entirely &lpar;Eric Platt/Financial Times&rpar;](http://www.techmeme.com/250606/p25#a250606p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

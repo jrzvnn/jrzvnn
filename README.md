@@ -157,8 +157,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: before installing Starlink at the White House in February, DOGE ignored security concerns that the service bypasses traditional WH security controls &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/250607/p13#a250607p13)
  - [At the Bitcoin Conference, the Republicans were for sale](https://www.theverge.com/cryptocurrency/679685/bitcoin-conference-gop-takeover)
+ - [Sources: before installing Starlink at the White House in February, DOGE ignored security concerns that the service bypasses traditional WH security controls &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/250607/p13#a250607p13)
  - [8 games from the Wholesome Direct 2025 that you can play right now](https://www.theverge.com/games/678265/wholesome-direct-2025-best-games-play-now)
  - [The UK High Court warns lawyers of possible criminal charges for using AI-generated fake legal material, citing two recent cases with hallucinated content &lpar;Lizzie Dearden/New York Times&rpar;](http://www.techmeme.com/250607/p12#a250607p12)
  - [Some users reporting Mail app freezing under iOS 18.5](https://appleinsider.com/articles/25/06/07/some-users-reporting-mail-app-freezing-under-ios-185?utm_medium=rss)<!-- TECH:END -->

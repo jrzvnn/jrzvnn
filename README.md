@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This isn&#39;t a skit, it&#39;s an Apple event conducted last year. iPad gets a calculator app after 14 years](http://9gag.com/gag/axyPrBn)
- - 😝 [How to check your height.](http://9gag.com/gag/aD2XvDB)
- - 💣 [Keep on moving](http://9gag.com/gag/a87wOwZ)
- - 😝 [Rambo the parrot is the best neighborhood watch](http://9gag.com/gag/aGy25Nz)
- - 👉 [Wood ram from behind!](http://9gag.com/gag/aqyzwPv)<!-- MEMES:END -->
+ - 😝 [That was him spreading peace](http://9gag.com/gag/a87wNDp)
+ - 😝 [Wood ram from behind!](http://9gag.com/gag/aqyzwPv)
+ - 💣 [This isn&#39;t a skit, it&#39;s an Apple event conducted last year. iPad gets a calculator app after 14 years](http://9gag.com/gag/axyPrBn)
+ - 😝 [Happened today in Poland. The car was stolen and was found near a Biedronka thanks to the gps tracker.](http://9gag.com/gag/abA2w2r)
+ - 👉 [Keep on moving](http://9gag.com/gag/a87wOwZ)<!-- MEMES:END -->
 
 ---
 

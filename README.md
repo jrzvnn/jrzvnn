@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bill Atkinson, pioneering early Apple engineer, dies at 74](https://appleinsider.com/articles/25/06/07/bill-atkinson-pioneering-early-apple-engineer-dies-at-74?utm_medium=rss)
  - [Bill Atkinson, a pioneering Apple engineer and key member of the original Macintosh team, died on June 5 at age 74 from pancreatic cancer &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/250607/p16#a250607p16)
  - [Today&#39;s Wordle Hints, Answer and Help for June 8, #1450](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-8-1450/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for June 8, #728](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-8-728/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 8, #462](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-8-462/#ftag=CAD590a51e)
- - [An interview with Leah Belsky, OpenAI&#39;s VP of Education, as the startup competes with Google and others to offer premium AI tools to universities and students &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/250607/p15#a250607p15)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 8, #462](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-8-462/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

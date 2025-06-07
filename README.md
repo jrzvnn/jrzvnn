@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Verge’s 2025 Father’s Day gift guide](https://www.theverge.com/tech/673799/best-fathers-day-gift-ideas-2025)
+ - [The soul of The Last of Us is in Gustavo Santaolalla&amp;#8217;s music](https://www.theverge.com/interview/681172/gustavo-santaolalla-interview-the-last-of-us-music)
  - [Microsoft plans to add a &quot;safety&quot; category to its AI leaderboard on Azure Foundry, with a safety metric based on its ToxiGen and CAIS&#39;s WMD Proxy benchmarks &lpar;Financial Times&rpar;](http://www.techmeme.com/250607/p10#a250607p10)
  - [Best Backpacking Tents &lpar;2025&rpar;, WIRED-Tested and Reviewed](https://www.wired.com/gallery/the-best-backpacking-tents/)
- - [Redesigned Wacom Cintiq pen displays bring Pro Pen 3 tech to more creators](https://appleinsider.com/articles/25/06/07/redesigned-wacom-cintiq-pen-displays-bring-pro-pen-3-tech-to-more-creators?utm_medium=rss)
- - [Apple’s latest AirPods Pro with USB-C just received a $70 discount](https://www.theverge.com/tech/681365/apple-airpods-2-usb-c-meta-quest-3s-deal-sale)
- - [A ban on state AI laws could smash Big Tech&amp;#8217;s legal guardrails](https://www.theverge.com/politics/681727/ro-khanna-ai-state-law-moratorium-reconciliation)<!-- TECH:END -->
+ - [Redesigned Wacom Cintiq pen displays bring Pro Pen 3 tech to more creators](https://appleinsider.com/articles/25/06/07/redesigned-wacom-cintiq-pen-displays-bring-pro-pen-3-tech-to-more-creators?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

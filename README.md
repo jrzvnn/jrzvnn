@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube rolls out a tool to let some creators upload different thumbnails for each video dubbed into a different language, to help expand their global audience &lpar;Dan Whateley/Business Insider&rpar;](http://www.techmeme.com/250607/p9#a250607p9)
  - [Tech Up Your Sourdough With These Upper-Crust Baking Gadgets](https://www.wired.com/story/sourdough-baking-gadgets-sourdough-home-sourdough-sidekick-doughbed/)
  - [There are only two commissioners left at the FCC](https://www.theverge.com/policy/681638/fcc-quorum-starks-simington-departure-brendan-carr)
  - [The Best Samsung Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-samsung-phones/)
- - [What Is MicroSD Express? Everything You Need To Know](https://www.wired.com/story/what-is-microsd-express/)
- - [8 Best Weighted Blankets, Robes, and Eye Masks &lpar;2025&rpar;](https://www.wired.com/gallery/best-weighted-blankets/)<!-- TECH:END -->
+ - [What Is MicroSD Express? Everything You Need To Know](https://www.wired.com/story/what-is-microsd-express/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

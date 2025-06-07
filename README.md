@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Harmless prank](http://9gag.com/gag/avyvq3q)
- - 😝 [How villains are born](http://9gag.com/gag/a9yX4n0)
+ - 😝 [Some days in retail really test you.](http://9gag.com/gag/azxZzrx)
+ - 😝 [Thank you come again](http://9gag.com/gag/aVv24AK)
  - 💣 [I would stay](http://9gag.com/gag/a0eEDgq)
  - 😝 [FAFO](http://9gag.com/gag/aByXe3N)
- - 👉 [Thank you come again](http://9gag.com/gag/aVv24AK)<!-- MEMES:END -->
+ - 👉 [The real reason Jake Sully went to Pandora.](http://9gag.com/gag/aD2X9jZ)<!-- MEMES:END -->
 
 ---
 

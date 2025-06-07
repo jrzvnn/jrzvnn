@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [How villains are born](http://9gag.com/gag/a9yX4n0)
- - 😝 [Can&#39;t blame him](http://9gag.com/gag/aPAXVew)
- - 💣 [Harmless prank](http://9gag.com/gag/avyvq3q)
- - 😝 [That was him spreading peace](http://9gag.com/gag/a87wNDp)
- - 👉 [What in her rectum?](http://9gag.com/gag/aNDRMX0)<!-- MEMES:END -->
+ - 😝 [Harmless prank](http://9gag.com/gag/avyvq3q)
+ - 💣 [Can&#39;t blame him](http://9gag.com/gag/aPAXVew)
+ - 😝 [How to check your height.](http://9gag.com/gag/aD2XvDB)
+ - 👉 [That was him spreading peace](http://9gag.com/gag/a87wNDp)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This isn&#39;t a skit, it&#39;s an Apple event conducted last year. iPad gets a calculator app after 14 years](http://9gag.com/gag/axyPrBn)
- - 😝 [Preparing a warm welcome for unexpected guests](http://9gag.com/gag/aByX57A)
- - 💣 [An incredible testament to enduring love](http://9gag.com/gag/ae92B3O)
- - 😝 [Wood ram from behind!](http://9gag.com/gag/aqyzwPv)
- - 👉 [They&#39;re actually doing it!](http://9gag.com/gag/ae92zV5)<!-- MEMES:END -->
+ - 😝 [Happened today in Poland. The car was stolen and was found near a Biedronka thanks to the gps tracker.](http://9gag.com/gag/abA2w2r)
+ - 😝 [Title](http://9gag.com/gag/agm29Mg)
+ - 💣 [This isn&#39;t a skit, it&#39;s an Apple event conducted last year. iPad gets a calculator app after 14 years](http://9gag.com/gag/axyPrBn)
+ - 😝 [What in her rectum?](http://9gag.com/gag/aNDRMX0)
+ - 👉 [Wood ram from behind!](http://9gag.com/gag/aqyzwPv)<!-- MEMES:END -->
 
 ---
 

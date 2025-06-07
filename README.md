@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber Just Reinvented the Bus … Again](https://www.wired.com/story/uber-just-reinvented-the-bus-again/)
+ - [82% of HBCUs Fight Internet Deserts: One Institution’s Strategy for Change](https://www.cnet.com/home/internet/82-percent-of-hbcu-face-internet-deserts-one-institution-is-trying-to-change-that/#ftag=CAD590a51e)
  - [The 46 Best Movies on Netflix Right Now &lpar;June 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [Uber Just Reinvented the Bus … Again](https://www.wired.com/story/uber-just-reinvented-the-bus-again/)
  - [The 46 Best Shows on Netflix Right Now &lpar;June 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [A profile of Panos Panay, head of devices and services at Amazon, who has scaled back new releases to focus on perfecting products like Alexa+ before rollout &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/250607/p8#a250607p8)
- - [Samsung Teases Z Fold Ultra, Bing Gets AI Video, and Nothing Sets A Date—Your Gear News of the Week](https://www.wired.com/story/samsung-teases-z-fold-ultra-bing-gets-ai-video-and-nothing-sets-a-date-your-gear-news-of-the-week/)<!-- TECH:END -->
+ - [Best Internet Providers in Albuquerque, New Mexico](https://www.cnet.com/home/internet/best-internet-providers-in-albuquerque-nm/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

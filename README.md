@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some users reporting Mail app freezing under iOS 18.5](https://appleinsider.com/articles/25/06/07/some-users-reporting-mail-app-freezing-under-ios-185?utm_medium=rss)
  - [Sources: ByteDance replaced some TikTok Shop&#39;s US staff in Seattle with China-based managers after 2024 revenue hit $9B, far short of its $17.5B goal &lpar;Bloomberg&rpar;](http://www.techmeme.com/250607/p11#a250607p11)
  - [The Verge’s 2025 Father’s Day gift guide](https://www.theverge.com/tech/673799/best-fathers-day-gift-ideas-2025)
  - [The soul of The Last of Us is in Gustavo Santaolalla&amp;#8217;s music](https://www.theverge.com/interview/681172/gustavo-santaolalla-interview-the-last-of-us-music)
- - [Microsoft plans to add a &quot;safety&quot; category to its AI leaderboard on Azure Foundry, with a safety metric based on its ToxiGen and CAIS&#39;s WMD Proxy benchmarks &lpar;Financial Times&rpar;](http://www.techmeme.com/250607/p10#a250607p10)
- - [Best Backpacking Tents &lpar;2025&rpar;, WIRED-Tested and Reviewed](https://www.wired.com/gallery/the-best-backpacking-tents/)<!-- TECH:END -->
+ - [Microsoft plans to add a &quot;safety&quot; category to its AI leaderboard on Azure Foundry, with a safety metric based on its ToxiGen and CAIS&#39;s WMD Proxy benchmarks &lpar;Financial Times&rpar;](http://www.techmeme.com/250607/p10#a250607p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

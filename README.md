@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [10 Best Lubes &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-lubes/)
+ - [TMNT: Tactical Takedown is a radical twist on turn-based strategy](https://www.theverge.com/games-review/674953/teenage-mutant-ninja-turtles-tactical-takedown-review)
  - [New apps are helping immigrants navigate Trump&#39;s deportation crackdown, including by alerting users to locations of ICE raids and informing them of their rights &lpar;Rest of World&rpar;](http://www.techmeme.com/250607/p7#a250607p7)
  - [AI research nonprofit EleutherAI releases the Common Pile v0.1, an 8TB dataset of licensed and open-domain text for AI models that it says is one of the largest &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250607/p6#a250607p6)
- - [Simetrik, which uses AI to automate account reconciliation, raised a $30M Series B extension led by a Goldman Sachs Alternatives unit, taking the round to $85M &lpar;Bloomberg&rpar;](http://www.techmeme.com/250607/p5#a250607p5)
- - [CapVest-owned Datasite, which offers workflow automation tech for dealmaking, acquires Grata, which helps users with all aspects of the deal process, for $200M+ &lpar;Maria Armental/Wall Street Journal&rpar;](http://www.techmeme.com/250607/p4#a250607p4)
- - [Boulder, CO-based quantum computing startup Infleqtion raised a $100M Series C and partnered with US government services contractor SAIC to pursue defense deals &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250607/p3#a250607p3)<!-- TECH:END -->
+ - [Simetrik, which uses AI to automate account reconciliation, raised a $30M Series B extension led by a Goldman Sachs Alternatives unit, taking the round to $85M &lpar;Bloomberg&rpar;](http://www.techmeme.com/250607/p5#a250607p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

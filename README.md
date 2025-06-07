@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tech Up Your Sourdough With These Upper-Crust Baking Gadgets](https://www.wired.com/story/sourdough-baking-gadgets-sourdough-home-sourdough-sidekick-doughbed/)
+ - [There are only two commissioners left at the FCC](https://www.theverge.com/policy/681638/fcc-quorum-starks-simington-departure-brendan-carr)
  - [The Best Samsung Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-samsung-phones/)
  - [What Is MicroSD Express? Everything You Need To Know](https://www.wired.com/story/what-is-microsd-express/)
- - [8 Best Weighted Blankets, Robes, and Eye Masks &lpar;2025&rpar;](https://www.wired.com/gallery/best-weighted-blankets/)
- - [At WWDC, How Will Apple Address Its Lackluster First Year of Apple Intelligence?](https://www.cnet.com/tech/services-and-software/at-wwdc-how-will-apple-address-its-lackluster-first-year-of-apple-intelligence/#ftag=CAD590a51e)
- - [I&#39;m a Big X-Files Fan, and This Adult Swim Show Gives Major Mulder and Scully Vibes](https://www.cnet.com/tech/services-and-software/im-a-big-x-files-fan-this-adult-swim-show-gives-major-mulder-scully-vibes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [8 Best Weighted Blankets, Robes, and Eye Masks &lpar;2025&rpar;](https://www.wired.com/gallery/best-weighted-blankets/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

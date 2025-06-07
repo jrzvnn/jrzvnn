@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can&#39;t blame him](http://9gag.com/gag/aPAXVew)
- - 😝 [How villains are born](http://9gag.com/gag/a9yX4n0)
+ - 😝 [Wood ram from behind!](http://9gag.com/gag/aqyzwPv)
+ - 😝 [Facade lies](http://9gag.com/gag/a4PqmgZ)
  - 💣 [I would stay](http://9gag.com/gag/a0eEDgq)
- - 😝 [FAFO](http://9gag.com/gag/aByXe3N)
- - 👉 [Masturbator in chief](http://9gag.com/gag/amoVKMy)<!-- MEMES:END -->
+ - 😝 [Some days in retail really test you.](http://9gag.com/gag/azxZzrx)
+ - 👉 [How villains are born](http://9gag.com/gag/a9yX4n0)<!-- MEMES:END -->
 
 ---
 

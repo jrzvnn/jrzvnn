@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Pittsburgh, Pennsylvania](https://www.cnet.com/home/internet/best-internet-providers-in-pittsburgh-pa/#ftag=CAD590a51e)
  - [Sources: the UK has delayed proposals to regulate AI, with plans to introduce an AI bill in 2026 to address concerns about issues like safety and copyright &lpar;The Guardian&rpar;](http://www.techmeme.com/250607/p14#a250607p14)
  - [At the Bitcoin Conference, the Republicans were for sale](https://www.theverge.com/cryptocurrency/679685/bitcoin-conference-gop-takeover)
  - [Sources: before installing Starlink at the White House in February, DOGE ignored security concerns that the service bypasses traditional WH security controls &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/250607/p13#a250607p13)
- - [8 games from the Wholesome Direct 2025 that you can play right now](https://www.theverge.com/games/678265/wholesome-direct-2025-best-games-play-now)
- - [The UK High Court warns lawyers of possible criminal charges for using AI-generated fake legal material, citing two recent cases with hallucinated content &lpar;Lizzie Dearden/New York Times&rpar;](http://www.techmeme.com/250607/p12#a250607p12)<!-- TECH:END -->
+ - [8 games from the Wholesome Direct 2025 that you can play right now](https://www.theverge.com/games/678265/wholesome-direct-2025-best-games-play-now)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

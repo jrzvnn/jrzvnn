@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fu*k Your Shit](http://9gag.com/gag/amoVynj)
- - 😝 [Well this is talent](http://9gag.com/gag/avyvqvM)
- - 💣 [Techno music intensifies...](http://9gag.com/gag/aAyX5Ro)
- - 😝 [Let them fight](http://9gag.com/gag/a7oNBLx)
- - 👉 [First time at the gym and already an expert on pump covers.](http://9gag.com/gag/ayNQw9M)<!-- MEMES:END -->
+ - 😝 [Congratulations, you played yourself](http://9gag.com/gag/aByXzXz)
+ - 😝 [I would stay](http://9gag.com/gag/a0eEDgq)
+ - 💣 [Thank you come again](http://9gag.com/gag/aVv24AK)
+ - 😝 [What in her rectum?](http://9gag.com/gag/aNDRMX0)
+ - 👉 [Wood ram from behind!](http://9gag.com/gag/aqyzwPv)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Uber Just Reinvented the Bus … Again](https://www.wired.com/story/uber-just-reinvented-the-bus-again/)
+ - [The 46 Best Movies on Netflix Right Now &lpar;June 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 46 Best Shows on Netflix Right Now &lpar;June 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
  - [A profile of Panos Panay, head of devices and services at Amazon, who has scaled back new releases to focus on perfecting products like Alexa+ before rollout &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/250607/p8#a250607p8)
- - [Samsung Teases Z Fold Ultra, Bing Gets AI Video, and Nothing Sets A Date—Your Gear News of the Week](https://www.wired.com/story/samsung-teases-z-fold-ultra-bing-gets-ai-video-and-nothing-sets-a-date-your-gear-news-of-the-week/)
- - [The Mystery of iPhone Crashes That Apple Denies Are Linked to Chinese Hacking](https://www.wired.com/story/mystery-of-iphone-crashes-that-apple-denies-are-linked-to-chinese-hacking/)
- - [10 Best Lubes &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-lubes/)
- - [TMNT: Tactical Takedown is a radical twist on turn-based strategy](https://www.theverge.com/games-review/674953/teenage-mutant-ninja-turtles-tactical-takedown-review)<!-- TECH:END -->
+ - [SAVE Student Loan Update: Don&#39;t Expect to Make Payments This Year, but Do This One Thing ASAP](https://www.cnet.com/personal-finance/loans/save-student-loan-update-dont-expect-to-make-payments-this-year-but-do-this-one-thing-asap/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What in her rectum?](http://9gag.com/gag/aNDRMX0)
  - 😝 [Thank you come again](http://9gag.com/gag/aVv24AK)
- - 😝 [There&#39;s a world wide popcorn shortage.](http://9gag.com/gag/aPAXLLw)
  - 💣 [Wood ram from behind!](http://9gag.com/gag/aqyzwPv)
  - 😝 [Hard to choose](http://9gag.com/gag/aVv293P)
- - 👉 [Nicest black woman](http://9gag.com/gag/aW425LA)<!-- MEMES:END -->
+ - 👉 [How villains are born](http://9gag.com/gag/a9yX4n0)<!-- MEMES:END -->
 
 ---
 

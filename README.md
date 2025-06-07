@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bill Atkinson, Macintosh Pioneer and Inventor of Hypercard, Dies at 74](https://www.wired.com/story/bill-atkinson-apple-engineer-dies/)
  - [24 Best Deals on Father&#39;s Day Gifts &lpar;2025&rpar;](https://www.wired.com/story/fathers-day-deals-2025/)
  - [Bill Atkinson, pioneering early Apple engineer, dies at 74](https://appleinsider.com/articles/25/06/07/bill-atkinson-pioneering-early-apple-engineer-dies-at-74?utm_medium=rss)
  - [Bill Atkinson, a pioneering Apple engineer and key member of the original Macintosh team, died on June 5 at age 74 from pancreatic cancer &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/250607/p16#a250607p16)
- - [Best Internet Providers in New Hampshire](https://www.cnet.com/home/internet/best-internet-providers-in-new-hampshire/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for June 8, #1450](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-8-1450/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in New Hampshire](https://www.cnet.com/home/internet/best-internet-providers-in-new-hampshire/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

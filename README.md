@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [8 games from the Wholesome Direct 2025 that you can play right now](https://www.theverge.com/games/678265/wholesome-direct-2025-best-games-play-now)
+ - [The UK High Court warns lawyers of possible criminal charges for using AI-generated fake legal material, citing two recent cases with hallucinated content &lpar;Lizzie Dearden/New York Times&rpar;](http://www.techmeme.com/250607/p12#a250607p12)
  - [Some users reporting Mail app freezing under iOS 18.5](https://appleinsider.com/articles/25/06/07/some-users-reporting-mail-app-freezing-under-ios-185?utm_medium=rss)
- - [Sources: ByteDance replaced some TikTok Shop&#39;s US staff in Seattle with China-based managers after 2024 revenue hit $9B, far short of its $17.5B goal &lpar;Bloomberg&rpar;](http://www.techmeme.com/250607/p11#a250607p11)
- - [The Verge’s 2025 Father’s Day gift guide](https://www.theverge.com/tech/673799/best-fathers-day-gift-ideas-2025)
- - [The soul of The Last of Us is in Gustavo Santaolalla&amp;#8217;s music](https://www.theverge.com/interview/681172/gustavo-santaolalla-interview-the-last-of-us-music)
- - [Microsoft plans to add a &quot;safety&quot; category to its AI leaderboard on Azure Foundry, with a safety metric based on its ToxiGen and CAIS&#39;s WMD Proxy benchmarks &lpar;Financial Times&rpar;](http://www.techmeme.com/250607/p10#a250607p10)<!-- TECH:END -->
+ - [Resident Evil Requiem Revealed, But Where&#39;s Leon Kennedy?](https://www.cnet.com/tech/gaming/resident-evil-requiem-revealed-but-wheres-leon-kennedy/#ftag=CAD590a51e)
+ - [Sources: ByteDance replaced some TikTok Shop&#39;s US staff in Seattle with China-based managers after 2024 revenue hit $9B, far short of its $17.5B goal &lpar;Bloomberg&rpar;](http://www.techmeme.com/250607/p11#a250607p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

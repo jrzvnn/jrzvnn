@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [How villains are born](http://9gag.com/gag/a9yX4n0)
- - 😝 [Nature you scary](http://9gag.com/gag/aE0XjwN)
- - 💣 [I would stay](http://9gag.com/gag/a0eEDgq)
- - 😝 [Hard to choose](http://9gag.com/gag/aVv293P)
- - 👉 [What in her rectum?](http://9gag.com/gag/aNDRMX0)<!-- MEMES:END -->
+ - 😝 [There&#39;s a world wide popcorn shortage.](http://9gag.com/gag/aPAXLLw)
+ - 💣 [Congratulations, you played yourself](http://9gag.com/gag/aByXzXz)
+ - 😝 [Preparing a warm welcome for unexpected guests](http://9gag.com/gag/aByX57A)
+ - 👉 [Keep on moving](http://9gag.com/gag/a87wOwZ)<!-- MEMES:END -->
 
 ---
 

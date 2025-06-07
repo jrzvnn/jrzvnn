@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Wizard of Oz took a weird turn](http://9gag.com/gag/a87w9qp)
- - 😝 [Wood ram from behind!](http://9gag.com/gag/aqyzwPv)
- - 💣 [Can&#39;t blame him](http://9gag.com/gag/aPAXVew)
- - 😝 [How villains are born](http://9gag.com/gag/a9yX4n0)
- - 👉 [Thank you come again](http://9gag.com/gag/aVv24AK)<!-- MEMES:END -->
+ - 😝 [Fu*k Your Shit](http://9gag.com/gag/amoVynj)
+ - 😝 [Well this is talent](http://9gag.com/gag/avyvqvM)
+ - 💣 [Techno music intensifies...](http://9gag.com/gag/aAyX5Ro)
+ - 😝 [Let them fight](http://9gag.com/gag/a7oNBLx)
+ - 👉 [First time at the gym and already an expert on pump covers.](http://9gag.com/gag/ayNQw9M)<!-- MEMES:END -->
 
 ---
 

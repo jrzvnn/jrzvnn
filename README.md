@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some days in retail really test you.](http://9gag.com/gag/azxZzrx)
- - 😝 [Thank you come again](http://9gag.com/gag/aVv24AK)
+ - 😝 [Can&#39;t blame him](http://9gag.com/gag/aPAXVew)
+ - 😝 [How villains are born](http://9gag.com/gag/a9yX4n0)
  - 💣 [I would stay](http://9gag.com/gag/a0eEDgq)
  - 😝 [FAFO](http://9gag.com/gag/aByXe3N)
- - 👉 [The real reason Jake Sully went to Pandora.](http://9gag.com/gag/aD2X9jZ)<!-- MEMES:END -->
+ - 👉 [Masturbator in chief](http://9gag.com/gag/amoVKMy)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Read-It-Later Apps for Curating Your Longreads](https://www.wired.com/story/the-best-read-it-later-apps-for-curating-your-longreads/)
+ - [The OnePlus Pad 3 tablet is still perfect for play and still awkward for work](https://www.theverge.com/tech/681301/oneplus-pad-3-review)
+ - [The most fun camera app I’ve used in forever](https://www.theverge.com/installer-newsletter/681745/camera-app-iphone-mario-kart-switch-2-installer)
  - [A New Law of Nature Attempts to Explain the Complexity of the Universe](https://www.wired.com/story/why-everything-in-the-universe-turns-more-complex/)
- - [Skyral, a London-based modeling and simulation startup developing AI-based digital twin tech for defense, healthcare, and other sectors, raised a $20M Series A &lpar;Lucy Adams/Tech.eu&rpar;](http://www.techmeme.com/250608/p8#a250608p8)
- - [How to Add These Hidden Music and Apple Intelligence Controls to Your iPhone](https://www.cnet.com/tech/services-and-software/how-to-add-these-hidden-music-and-apple-intelligence-controls-to-your-iphone/#ftag=CAD590a51e)
- - [Dell 14 Plus Review: A Fresh Start or Same Old?](https://www.wired.com/review/dell-14-plus/)
- - [Xbox console games are suddenly showing up inside the Xbox PC app](https://www.theverge.com/news/682235/xbox-pc-games-console-library-xbox-360)<!-- TECH:END -->
+ - [Skyral, a London-based modeling and simulation startup developing AI-based digital twin tech for defense, healthcare, and other sectors, raised a $20M Series A &lpar;Lucy Adams/Tech.eu&rpar;](http://www.techmeme.com/250608/p8#a250608p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

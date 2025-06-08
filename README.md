@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Black Ops 7 Dives Back Into the Shadows With Mason and Menendez](https://www.cnet.com/tech/gaming/black-ops-7-dives-back-into-the-shadows-with-mason-and-menendez/#ftag=CAD590a51e)
  - [Xbox Games Showcase 2025: all the news and trailers](https://www.theverge.com/microsoft-xbox/681149/xbox-games-showcase-2025-news-trailers)
  - [Interviews with executives at Yahoo News, the WSJ, and Bloomberg about adding AI-powered summaries, how they can help busy readers, reliability issues, and more &lpar;Sarah Scire/Nieman Lab&rpar;](http://www.techmeme.com/250608/p15#a250608p15)
- - [The Outer Worlds 2 Is Taking Cues From Fallout: New Vegas](https://www.cnet.com/tech/gaming/the-outer-worlds-2-is-taking-cues-from-fallout-new-vegas/#ftag=CAD590a51e)
- - [Everything I Suspect Will Be Announced at WWDC 2025 Tomorrow](https://www.cnet.com/tech/mobile/everything-i-suspect-will-be-announced-at-wwdc-2025-tomorrow/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for June 9, #729](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-9-729/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Xbox Games Showcase: The Outer Worlds 2 Is Taking Cues From Fallout: New Vegas](https://www.cnet.com/tech/gaming/the-outer-worlds-2-is-taking-cues-from-fallout-new-vegas/#ftag=CAD590a51e)
+ - [Everything I Suspect Will Be Announced at WWDC 2025 Monday](https://www.cnet.com/tech/mobile/everything-i-suspect-will-be-announced-at-wwdc-2025-monday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

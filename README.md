@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Sometimes you just gotta clean up your own mess.](http://9gag.com/gag/aVv2yOK)
  - 💣 [She keeper](http://9gag.com/gag/ae9280v)
  - 😝 [When the winner loose](http://9gag.com/gag/a5QjYGq)
- - 👉 [15 year old Smokey crossed the bridge today. If you have a sec, please let him know he was a good boy.](http://9gag.com/gag/aryBLP0)<!-- MEMES:END -->
+ - 👉 [How to check your height.](http://9gag.com/gag/aD2XvDB)<!-- MEMES:END -->
 
 ---
 

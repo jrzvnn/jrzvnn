@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The saddest sight of the year](http://9gag.com/gag/awy4pV8)
  - 😝 [Keep on moving](http://9gag.com/gag/a87wOwZ)
- - 💣 [When playing around takes you to a whole new country.](http://9gag.com/gag/aGy248X)
- - 😝 [Cleaning electronics with liquid? Yes, it is possible with specialized fluids.](http://9gag.com/gag/agm2zAW)
- - 👉 [Japanese Waitress Dance](http://9gag.com/gag/aByXejD)<!-- MEMES:END -->
+ - 😝 [People:` What you do?` Me:`I repair pipes`](http://9gag.com/gag/amoV42y)
+ - 💣 [Within 48hrs my GF broke up with me, and then one of my organs tried to kill me. I am currently in the ER by myself, awaiting an OR to open up...send the dankest memes you got. Thanks for the laughs. FU and see you tomorrow...Hopefully.](http://9gag.com/gag/a7oNRyb)
+ - 😝 [Never throw sodium in the water](http://9gag.com/gag/amoV4Y6)
+ - 👉 [When playing around takes you to a whole new country.](http://9gag.com/gag/aGy248X)<!-- MEMES:END -->
 
 ---
 

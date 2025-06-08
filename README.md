@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An in-depth look at the US SEC&#39;s EDGAR system breach that was disclosed in 2017, as one of the key hackers, Olga Kuprina, says EDGAR remains a soft target &lpar;Liam Vaughan/Bloomberg&rpar;](http://www.techmeme.com/250608/p6#a250608p6)
  - [Voxel, whose AI-powered logistics safety software integrates into existing security cameras to detect and predict workplace hazards, raised a $44M Series B &lpar;Colin Campbell/Axios&rpar;](http://www.techmeme.com/250608/p5#a250608p5)
  - [Sources: Mistral AI has closed or is closing a handful of commercial contracts, each worth $100M+ over three to five years, as it expands its own infrastructure &lpar;Financial Times&rpar;](http://www.techmeme.com/250608/p4#a250608p4)
  - [Obvio, which uses AI-powered stop sign cameras to detect infractions, raised a $22M Series A led by Bain to expand beyond its first five cities in Maryland &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/250608/p3#a250608p3)
- - [Former Apple employees say integrating LLMs with Siri has led to bugs, an issue not faced by companies that have built GenAI-based voice assistants from scratch &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/250608/p2#a250608p2)
- - [Singapore-based investment app Syfe raised a $53M Series C extension, taking the round to $80M and total funding to $132M, and plans to expand into Hong Kong &lpar;Sam Phillips/South China Morning Post&rpar;](http://www.techmeme.com/250608/p1#a250608p1)<!-- TECH:END -->
+ - [Former Apple employees say integrating LLMs with Siri has led to bugs, an issue not faced by companies that have built GenAI-based voice assistants from scratch &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/250608/p2#a250608p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

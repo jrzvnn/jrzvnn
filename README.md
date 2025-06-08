@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sometimes you just gotta clean up your own mess.](http://9gag.com/gag/aVv2yOK)
- - 😝 [Never too old to show off your skills](http://9gag.com/gag/a7oNREe)
- - 💣 [When the winner loose](http://9gag.com/gag/a5QjYGq)
- - 😝 [She keeper](http://9gag.com/gag/ae9280v)
- - 👉 [How to check your height.](http://9gag.com/gag/aD2XvDB)<!-- MEMES:END -->
+ - 😝 [The geh maker](http://9gag.com/gag/aMVXLo1)
+ - 😝 [Rambo the parrot is the best neighborhood watch](http://9gag.com/gag/aGy25Nz)
+ - 💣 [That was him spreading peace](http://9gag.com/gag/a87wNDp)
+ - 😝 [It&#39;s getting worse](http://9gag.com/gag/amoVQ42)
+ - 👉 [An incredible testament to enduring love](http://9gag.com/gag/ae92B3O)<!-- MEMES:END -->
 
 ---
 

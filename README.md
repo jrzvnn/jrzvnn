@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A bond of loyalty and love that goes both ways.](http://9gag.com/gag/a34WXZv)
- - 😝 [She keeper](http://9gag.com/gag/ae9280v)
- - 💣 [Never too old to show off your skills](http://9gag.com/gag/a7oNREe)
+ - 😝 [This will make a fine addition to my collection](http://9gag.com/gag/abA28rb)
  - 😝 [How to check your height.](http://9gag.com/gag/aD2XvDB)
- - 👉 [How was the dentist visit?](http://9gag.com/gag/aE0Xmmx)<!-- MEMES:END -->
+ - 💣 [This isn&#39;t a skit, it&#39;s an Apple event conducted last year. iPad gets a calculator app after 14 years](http://9gag.com/gag/axyPrBn)
+ - 😝 [It&#39;s getting worse](http://9gag.com/gag/amoVQ42)
+ - 👉 [Know your spells!](http://9gag.com/gag/agm2wzr)<!-- MEMES:END -->
 
 ---
 

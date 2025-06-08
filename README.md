@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chastity belt &lpar;Venice museum&rpar;](http://9gag.com/gag/aPAXErB)
- - 😝 [Turning job interviews into a personal hobby.](http://9gag.com/gag/aRB2bx2)
+ - 😝 [The saddest sight of the year](http://9gag.com/gag/awy4pV8)
+ - 😝 [People:` What you do?` Me:`I repair pipes`](http://9gag.com/gag/amoV42y)
  - 💣 [Some memories just stick around forever.](http://9gag.com/gag/aO81LA6)
- - 😝 [The not so bright idea](http://9gag.com/gag/avyvN05)
+ - 😝 [Chastity belt &lpar;Venice museum&rpar;](http://9gag.com/gag/aPAXErB)
  - 👉 [Never throw sodium in the water](http://9gag.com/gag/amoV4Y6)<!-- MEMES:END -->
 
 ---

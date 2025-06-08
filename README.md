@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Skyral, a London-based modeling and simulation startup developing AI-based digital twin tech for defense, healthcare, and other sectors, raised a $20M Series A &lpar;Lucy Adams/Tech.eu&rpar;](http://www.techmeme.com/250608/p8#a250608p8)
+ - [Dell 14 Plus Review: A Fresh Start or Same Old?](https://www.wired.com/review/dell-14-plus/)
  - [Xbox console games are suddenly showing up inside the Xbox PC app](https://www.theverge.com/news/682235/xbox-pc-games-console-library-xbox-360)
- - [Sources: Meta is in talks for a potential multibillion-dollar investment in Scale AI, Meta&#39;s largest external AI investment; Scale AI was last valued at ~$14B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250608/p7#a250608p7)
- - [An in-depth look at the US SEC&#39;s EDGAR system breach that was disclosed in 2017, as one of the key hackers, Olga Kuprina, says EDGAR remains a soft target &lpar;Liam Vaughan/Bloomberg&rpar;](http://www.techmeme.com/250608/p6#a250608p6)
- - [Voxel, whose AI-powered logistics safety software integrates into existing security cameras to detect and predict workplace hazards, raised a $44M Series B &lpar;Colin Campbell/Axios&rpar;](http://www.techmeme.com/250608/p5#a250608p5)
- - [Sources: Mistral AI has closed or is closing a handful of commercial contracts, each worth $100M+ over three to five years, as it expands its own infrastructure &lpar;Financial Times&rpar;](http://www.techmeme.com/250608/p4#a250608p4)<!-- TECH:END -->
+ - [WWDC 2025 Is Tomorrow: How To Watch and See if iOS 26 Debuts](https://www.cnet.com/tech/services-and-software/wwdc-2025-how-to-tune-in-to-apples-june-9-software-event-and-ios-19-reveal/#ftag=CAD590a51e)
+ - [Sources: Meta is in talks for a potential multibillion-dollar investment in Scale AI, Meta&#39;s largest external AI investment; Scale AI was last valued at ~$14B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250608/p7#a250608p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

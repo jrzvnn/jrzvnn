@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [At a clandestine math conclave in Berkeley in May, a chatbot powered by o4-mini answered some of the hardest solvable problems much faster than a mathematician &lpar;Lyndie Chiou/Scientific American&rpar;](http://www.techmeme.com/250608/p12#a250608p12)
+ - [Xbox Games Showcase 2025: all the news and trailers](https://www.theverge.com/microsoft-xbox/681149/xbox-games-showcase-2025-news-trailers)
  - [How to Advocate for Trans Rights in Your Community](https://www.wired.com/story/how-to-advocate-for-support-trans-rights/)
  - [Best Treadmill for Home &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-home-treadmills/)
- - [Vivo’s telephoto extender makes the world’s best phone camera better](https://www.theverge.com/mobile/680552/vivo-telephoto-extender-lens-x200-ultra-photography-kit)
- - [Thoughts on the major design overhaul of Apple&#39;s OSes with &quot;Liquid Glass&quot; UI elements, which will launch at WWDC and set the stage for fresh hardware products &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250608/p11#a250608p11)
- - [Treefera, which uses satellite imagery, drone imagery, and AI to provide real-time insights into supply chains, raised a $30M Series B led by Notion Capital &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/250608/p10#a250608p10)<!-- TECH:END -->
+ - [Vivo’s telephoto extender makes the world’s best phone camera better](https://www.theverge.com/mobile/680552/vivo-telephoto-extender-lens-x200-ultra-photography-kit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

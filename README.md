@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Within 48hrs my GF broke up with me, and then one of my organs tried to kill me. I am currently in the ER by myself, awaiting an OR to open up...send the dankest memes you got. Thanks for the laughs. FU and see you tomorrow...Hopefully.](http://9gag.com/gag/a7oNRyb)
+ - 😝 [This will make a fine addition to my collection](http://9gag.com/gag/abA28rb)
  - 😝 [Cleaning electronics with liquid? Yes, it is possible with specialized fluids.](http://9gag.com/gag/agm2zAW)
  - 💣 [Unexpected flag choice at the protest](http://9gag.com/gag/aKGYoXj)
  - 😝 [The saddest sight of the year](http://9gag.com/gag/awy4pV8)
- - 👉 [This will make a fine addition to my collection](http://9gag.com/gag/abA28rb)<!-- MEMES:END -->
+ - 👉 [Today&#39;s episode of America is just fire: Elon calls for Trump&#39;s impeachment, MAGA calls for Elon&#39;s deportation and Russia offers political asylum to Elon Musk](http://9gag.com/gag/a5Qj37o)<!-- MEMES:END -->
 
 ---
 

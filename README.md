@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sometimes you just gotta clean up your own mess.](http://9gag.com/gag/aVv2yOK)
- - 😝 [When the winner loose](http://9gag.com/gag/a5QjYGq)
- - 💣 [She keeper](http://9gag.com/gag/ae9280v)
- - 😝 [Never too old to show off your skills](http://9gag.com/gag/a7oNREe)
- - 👉 [How to check your height.](http://9gag.com/gag/aD2XvDB)<!-- MEMES:END -->
+ - 😝 [This will make a fine addition to my collection](http://9gag.com/gag/abA28rb)
+ - 😝 [Never throw sodium in the water](http://9gag.com/gag/amoV4Y6)
+ - 💣 [Keep on moving](http://9gag.com/gag/a87wOwZ)
+ - 😝 [Wood ram from behind!](http://9gag.com/gag/aqyzwPv)
+ - 👉 [What in her rectum?](http://9gag.com/gag/aNDRMX0)<!-- MEMES:END -->
 
 ---
 

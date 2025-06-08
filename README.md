@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Interviews with executives at Yahoo News, the WSJ, and Bloomberg about adding AI-powered summaries, how they can help busy readers, reliability issues, and more &lpar;Sarah Scire/Nieman Lab&rpar;](http://www.techmeme.com/250608/p15#a250608p15)
  - [Apple&#39;s homeOS platform is coming: All the rumors, and what you need to know](https://appleinsider.com/articles/25/05/09/apples-homeos-platform-is-coming-all-the-rumors-and-what-you-need-to-know?utm_medium=rss)
  - [iPadOS 26 at WWDC 25: Bold design rumors, Multitasking changes, more](https://appleinsider.com/articles/25/06/06/ipados-26-at-wwdc-25-bold-design-rumors-multitasking-changes-more?utm_medium=rss)
  - [Big redesign and more: What to expect in macOS 26 at WWDC 2025](https://appleinsider.com/articles/25/06/02/big-redesign-and-more-what-to-expect-in-macos-26-at-wwdc-2025?utm_medium=rss)
- - [Final Fantasy XVI is out on Xbox right now, and FF7 Remake is coming too](https://www.theverge.com/news/682491/final-fantasy-16-xbox-stealthdrop-final-fantasy-7-remake)
- - [What to expect from iOS 26 at WWDC: New games app, redesign, and more](https://appleinsider.com/articles/25/05/30/what-to-expect-from-ios-26-at-wwdc-new-games-app-redesign-and-more?utm_medium=rss)<!-- TECH:END -->
+ - [Final Fantasy XVI is out on Xbox right now, and FF7 Remake is coming too](https://www.theverge.com/news/682491/final-fantasy-16-xbox-stealthdrop-final-fantasy-7-remake)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

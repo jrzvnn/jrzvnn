@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Read-It-Later Apps for Curating Your Longreads](https://www.wired.com/story/the-best-read-it-later-apps-for-curating-your-longreads/)
- - [The OnePlus Pad 3 tablet is still perfect for play and still awkward for work](https://www.theverge.com/tech/681301/oneplus-pad-3-review)
- - [The most fun camera app I’ve used in forever](https://www.theverge.com/installer-newsletter/681745/camera-app-iphone-mario-kart-switch-2-installer)
- - [A New Law of Nature Attempts to Explain the Complexity of the Universe](https://www.wired.com/story/why-everything-in-the-universe-turns-more-complex/)
- - [Skyral, a London-based modeling and simulation startup developing AI-based digital twin tech for defense, healthcare, and other sectors, raised a $20M Series A &lpar;Lucy Adams/Tech.eu&rpar;](http://www.techmeme.com/250608/p8#a250608p8)<!-- TECH:END -->
+ - [Republicans are barreling toward remaking the internet](https://www.theverge.com/policy/681609/ftc-attention-economy-kids-online-safety-workshop)
+ - [Apple isn&#39;t expected to launch any new hardware at WWDC 2025](https://appleinsider.com/articles/25/06/08/apple-isnt-expected-to-launch-any-new-hardware-at-wwdc-2025?utm_medium=rss)
+ - [A look at the intensifying race for super apps in the Gulf, as Careem, Talabat, Amazon, Botim, and Noon consolidate various services into single platforms &lpar;Divsha Bhat/Rest of World&rpar;](http://www.techmeme.com/250608/p9#a250608p9)
+ - [I Made Google Translate My Default on iPhone Before a Trip and It Saved Me More Than Once](https://www.cnet.com/tech/services-and-software/how-to-make-google-translate-default-app-phone/#ftag=CAD590a51e)
+ - [How Boston Dynamics&#39; Atlas Sees the World](https://www.cnet.com/tech/computing/how-boston-dynamics-atlas-sees-the-world/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

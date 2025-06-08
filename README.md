@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [X-ray of extreme sport athlete Travis Pastrana](http://9gag.com/gag/aKGYoG6)
- - 😝 [Lmao who made this](http://9gag.com/gag/a1mL306)
- - 💣 [Just recruit 3 of your friends bro...](http://9gag.com/gag/aQz2L47)
- - 😝 [Know your spells!](http://9gag.com/gag/agm2wzr)
- - 👉 [This will make a fine addition to my collection](http://9gag.com/gag/abA28rb)<!-- MEMES:END -->
+ - 😝 [Dumbest Driver](http://9gag.com/gag/a34W6Rm)
+ - 💣 [Cleaning electronics with liquid? Yes, it is possible with specialized fluids.](http://9gag.com/gag/agm2zAW)
+ - 😝 [When playing around takes you to a whole new country.](http://9gag.com/gag/aGy248X)
+ - 👉 [Japanese Waitress Dance](http://9gag.com/gag/aByXejD)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People:` What you do?` Me:`I repair pipes`](http://9gag.com/gag/amoV42y)
- - 😝 [Know your spells!](http://9gag.com/gag/agm2wzr)
- - 💣 [Never throw sodium in the water](http://9gag.com/gag/amoV4Y6)
  - 😝 [The saddest sight of the year](http://9gag.com/gag/awy4pV8)
- - 👉 [This isn&#39;t a skit, it&#39;s an Apple event conducted last year. iPad gets a calculator app after 14 years](http://9gag.com/gag/axyPrBn)<!-- MEMES:END -->
+ - 😝 [Keep on moving](http://9gag.com/gag/a87wOwZ)
+ - 💣 [When playing around takes you to a whole new country.](http://9gag.com/gag/aGy248X)
+ - 😝 [Cleaning electronics with liquid? Yes, it is possible with specialized fluids.](http://9gag.com/gag/agm2zAW)
+ - 👉 [Japanese Waitress Dance](http://9gag.com/gag/aByXejD)<!-- MEMES:END -->
 
 ---
 

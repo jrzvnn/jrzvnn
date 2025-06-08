@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to check your height.](http://9gag.com/gag/aD2XvDB)
- - 😝 [Never too old to show off your skills](http://9gag.com/gag/a7oNREe)
- - 💣 [How was the dentist visit?](http://9gag.com/gag/aE0Xmmx)
- - 😝 [15 year old Smokey crossed the bridge today. If you have a sec, please let him know he was a good boy.](http://9gag.com/gag/aryBLP0)
- - 👉 [Mexican Henry Cavill Will Steal Your Girl](http://9gag.com/gag/axyPL92)<!-- MEMES:END -->
+ - 😝 [Within 48hrs my GF broke up with me, and then one of my organs tried to kill me. I am currently in the ER by myself, awaiting an OR to open up...send the dankest memes you got. Thanks for the laughs. FU and see you tomorrow...Hopefully.](http://9gag.com/gag/a7oNRyb)
+ - 😝 [Cleaning electronics with liquid? Yes, it is possible with specialized fluids.](http://9gag.com/gag/agm2zAW)
+ - 💣 [Unexpected flag choice at the protest](http://9gag.com/gag/aKGYoXj)
+ - 😝 [The saddest sight of the year](http://9gag.com/gag/awy4pV8)
+ - 👉 [This will make a fine addition to my collection](http://9gag.com/gag/abA28rb)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cleaning electronics with liquid? Yes, it is possible with specialized fluids.](http://9gag.com/gag/agm2zAW)
- - 😝 [Never throw sodium in the water](http://9gag.com/gag/amoV4Y6)
- - 💣 [This will make a fine addition to my collection](http://9gag.com/gag/abA28rb)
- - 😝 [What in her rectum?](http://9gag.com/gag/aNDRMX0)
- - 👉 [This isn&#39;t a skit, it&#39;s an Apple event conducted last year. iPad gets a calculator app after 14 years](http://9gag.com/gag/axyPrBn)<!-- MEMES:END -->
+ - 😝 [Good doggo is true unconditional love](http://9gag.com/gag/aLnX74v)
+ - 😝 [She keeper](http://9gag.com/gag/ae9280v)
+ - 💣 [Never too old to show off your skills](http://9gag.com/gag/a7oNREe)
+ - 😝 [Know your Metal](http://9gag.com/gag/ayNQjw8)
+ - 👉 [How to check your height.](http://9gag.com/gag/aD2XvDB)<!-- MEMES:END -->
 
 ---
 

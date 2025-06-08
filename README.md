@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Bro let his intrusive thoughts win for exactly 2 seconds](http://9gag.com/gag/aRB2bej)
+ - 😝 [Wood ram from behind!](http://9gag.com/gag/aqyzwPv)
+ - 💣 [Unexpected flag choice at the protest](http://9gag.com/gag/aKGYoXj)
  - 😝 [Chastity belt &lpar;Venice museum&rpar;](http://9gag.com/gag/aPAXErB)
- - 😝 [An incredible testament to enduring love](http://9gag.com/gag/ae92B3O)
- - 💣 [Wood ram from behind!](http://9gag.com/gag/aqyzwPv)
- - 😝 [In Hungary, if you are part of a visiting CPAC delegation, you have priority over an ambulance using emergency signals.](http://9gag.com/gag/aYQ13BO)
- - 👉 [Never throw sodium in the water](http://9gag.com/gag/amoV4Y6)<!-- MEMES:END -->
+ - 👉 [The saddest sight of the year](http://9gag.com/gag/awy4pV8)<!-- MEMES:END -->
 
 ---
 

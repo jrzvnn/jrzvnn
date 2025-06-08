@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This will make a fine addition to my collection](http://9gag.com/gag/abA28rb)
- - 😝 [Cleaning electronics with liquid? Yes, it is possible with specialized fluids.](http://9gag.com/gag/agm2zAW)
- - 💣 [Unexpected flag choice at the protest](http://9gag.com/gag/aKGYoXj)
- - 😝 [The saddest sight of the year](http://9gag.com/gag/awy4pV8)
- - 👉 [Today&#39;s episode of America is just fire: Elon calls for Trump&#39;s impeachment, MAGA calls for Elon&#39;s deportation and Russia offers political asylum to Elon Musk](http://9gag.com/gag/a5Qj37o)<!-- MEMES:END -->
+ - 😝 [When playing around takes you to a whole new country.](http://9gag.com/gag/aGy248X)
+ - 😝 [Well played](http://9gag.com/gag/aGy24Pz)
+ - 💣 [Watching beer fill from the bottom is surprisingly satisfying](http://9gag.com/gag/azxZwKx)
+ - 😝 [Unexpected flag choice at the protest](http://9gag.com/gag/aKGYoXj)
+ - 👉 [How to check your height.](http://9gag.com/gag/aD2XvDB)<!-- MEMES:END -->
 
 ---
 

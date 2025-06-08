@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Interviews with executives at Yahoo News, the WSJ, and Bloomberg about adding AI-powered summaries, how they can help busy readers, reliability issues, and more &lpar;Sarah Scire/Nieman Lab&rpar;](http://www.techmeme.com/250608/p15#a250608p15)
- - [Apple&#39;s homeOS platform is coming: All the rumors, and what you need to know](https://appleinsider.com/articles/25/05/09/apples-homeos-platform-is-coming-all-the-rumors-and-what-you-need-to-know?utm_medium=rss)
- - [iPadOS 26 at WWDC 25: Bold design rumors, Multitasking changes, more](https://appleinsider.com/articles/25/06/06/ipados-26-at-wwdc-25-bold-design-rumors-multitasking-changes-more?utm_medium=rss)
- - [Big redesign and more: What to expect in macOS 26 at WWDC 2025](https://appleinsider.com/articles/25/06/02/big-redesign-and-more-what-to-expect-in-macos-26-at-wwdc-2025?utm_medium=rss)
- - [Final Fantasy XVI is out on Xbox right now, and FF7 Remake is coming too](https://www.theverge.com/news/682491/final-fantasy-16-xbox-stealthdrop-final-fantasy-7-remake)<!-- TECH:END -->
+ - [The Outer Worlds 2 Is Taking Cues From Fallout: New Vegas](https://www.cnet.com/tech/gaming/the-outer-worlds-2-is-taking-cues-from-fallout-new-vegas/#ftag=CAD590a51e)
+ - [Everything I Suspect Will Be Announced at WWDC 2025 Tomorrow](https://www.cnet.com/tech/mobile/everything-i-suspect-will-be-announced-at-wwdc-2025-tomorrow/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 9, #729](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-9-729/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 9, #463](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-9-463/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

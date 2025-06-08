@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good doggo is true unconditional love](http://9gag.com/gag/aLnX74v)
- - 😝 [She keeper](http://9gag.com/gag/ae9280v)
- - 💣 [Never too old to show off your skills](http://9gag.com/gag/a7oNREe)
- - 😝 [Know your Metal](http://9gag.com/gag/ayNQjw8)
- - 👉 [How to check your height.](http://9gag.com/gag/aD2XvDB)<!-- MEMES:END -->
+ - 😝 [This will make a fine addition to my collection](http://9gag.com/gag/abA28rb)
+ - 😝 [This isn&#39;t a skit, it&#39;s an Apple event conducted last year. iPad gets a calculator app after 14 years](http://9gag.com/gag/axyPrBn)
+ - 💣 [Keep on moving](http://9gag.com/gag/a87wOwZ)
+ - 😝 [So this is how Sith lightsabers are made.](http://9gag.com/gag/aqyzonY)
+ - 👉 [There&#39;s a world wide popcorn shortage.](http://9gag.com/gag/aPAXLLw)<!-- MEMES:END -->
 
 ---
 

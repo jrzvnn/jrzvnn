@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to check your height.](http://9gag.com/gag/aD2XvDB)
- - 😝 [Cleaning electronics with liquid? Yes, it is possible with specialized fluids.](http://9gag.com/gag/agm2zAW)
+ - 😝 [Know your spells!](http://9gag.com/gag/agm2wzr)
+ - 😝 [It&#39;s getting worse](http://9gag.com/gag/amoVQ42)
  - 💣 [This will make a fine addition to my collection](http://9gag.com/gag/abA28rb)
  - 😝 [So this is how Sith lightsabers are made.](http://9gag.com/gag/aqyzonY)
- - 👉 [Japanese Waitress Dance](http://9gag.com/gag/aByXejD)<!-- MEMES:END -->
+ - 👉 [Watching beer fill from the bottom is surprisingly satisfying](http://9gag.com/gag/azxZwKx)<!-- MEMES:END -->
 
 ---
 

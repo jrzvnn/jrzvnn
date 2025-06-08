@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New &#39;Liquid Glass&#39; WWDC OS overhaul will preview 20th anniversary iPhone](https://appleinsider.com/articles/25/06/08/new-liquid-glass-wwdc-os-overhaul-will-preview-20th-anniversary-iphone?utm_medium=rss)
- - [Apple relying on Communication Safety to stem tide of CSAM blackmail](https://appleinsider.com/articles/25/06/08/apple-relying-on-communication-safety-to-stem-tide-of-csam-blackmail?utm_medium=rss)
  - [Xbox Games Showcase 2025: all the news and trailers](https://www.theverge.com/microsoft-xbox/681149/xbox-games-showcase-2025-news-trailers)
- - [At a clandestine math conclave in Berkeley in May, a chatbot powered by o4-mini answered some of the hardest solvable problems much faster than a mathematician &lpar;Lyndie Chiou/Scientific American&rpar;](http://www.techmeme.com/250608/p12#a250608p12)
- - [Watch UEFA Nations League Final Soccer: Livestream Portugal vs. Spain From Anywhere](https://www.cnet.com/tech/services-and-software/watch-uefa-nations-league-final-soccer-livestream-portugal-vs-spain-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save $100 on Apple&#39;s iPad mini 7 ahead of WWDC](https://appleinsider.com/articles/25/06/08/save-100-on-apples-ipad-mini-7-ahead-of-wwdc?utm_medium=rss)
+ - [Microsoft and Asus announce two Xbox Ally handhelds with new Xbox full-screen experience](https://www.theverge.com/news/682009/microsoft-asus-rog-xbox-ally-devices-new-windows-xbox-experience)
+ - [This is how Microsoft is combining Windows and Xbox for handheld PCs](https://www.theverge.com/news/682011/microsoft-windows-xbox-pc-combination-features-rog-xbox-ally-devices)
+ - [New &#39;Liquid Glass&#39; WWDC OS overhaul will preview 20th anniversary iPhone](https://appleinsider.com/articles/25/06/08/new-liquid-glass-wwdc-os-overhaul-will-preview-20th-anniversary-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

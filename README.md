@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xbox Games Showcase 2025: News, Trailers and Everything Announced](https://www.cnet.com/tech/gaming/xbox-games-showcase-2025-news-trailers-and-everything-announced/#ftag=CAD590a51e)
  - [Double Fine’s next game is Keeper, and it’s out in October](https://www.theverge.com/news/682449/double-fine-keeper-trailer-release-date-xbox-games-showcase)
  - [Microsoft showcases a new fullscreen Xbox experience optimized for handhelds, coming first to the Xbox Ally and Xbox Ally X and to other handhelds in 2026 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250608/p14#a250608p14)
  - [Gears of War: E-Day is coming in 2026](https://www.theverge.com/news/682283/gears-of-war-e-day-release-date-2026)
- - [Persona 4 is getting a remake](https://www.theverge.com/news/680439/persona-4-revival-remake-trailer)
- - [Microsoft and Asus unveil the ROG Xbox Ally and ROG Xbox Ally X, two gaming handhelds that will run Windows games from multiple storefronts, including Steam &lpar;Stephen Totilo/Game File&rpar;](http://www.techmeme.com/250608/p13#a250608p13)<!-- TECH:END -->
+ - [Microsoft Surprises Fans With Reveal of ROG Xbox Ally Handheld](https://www.cnet.com/tech/gaming/microsoft-surprises-fans-with-reveal-of-rog-xbox-ally-handheld/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This will make a fine addition to my collection](http://9gag.com/gag/abA28rb)
- - 😝 [Reacting to the art trend with my own twist.](http://9gag.com/gag/aE0X5nG)
- - 💣 [The Church of Scientology explained by South Park.](http://9gag.com/gag/awy4j24)
- - 😝 [Know your spells!](http://9gag.com/gag/agm2wzr)
- - 👉 [What in her rectum?](http://9gag.com/gag/aNDRMX0)<!-- MEMES:END -->
+ - 😝 [Cleaning electronics with liquid? Yes, it is possible with specialized fluids.](http://9gag.com/gag/agm2zAW)
+ - 😝 [Taking the chair to win musical chairs is a bold strategy](http://9gag.com/gag/a4Pq0KA)
+ - 💣 [Keep on moving](http://9gag.com/gag/a87wOwZ)
+ - 😝 [When you have been wandered in this world since 1627](http://9gag.com/gag/a4PqgXA)
+ - 👉 [Wood ram from behind!](http://9gag.com/gag/aqyzwPv)<!-- MEMES:END -->
 
 ---
 

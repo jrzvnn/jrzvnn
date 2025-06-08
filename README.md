@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An incredible testament to enduring love](http://9gag.com/gag/ae92B3O)
- - 😝 [Unexpected flag choice at the protest](http://9gag.com/gag/aKGYoXj)
- - 💣 [Keep on moving](http://9gag.com/gag/a87wOwZ)
+ - 😝 [People:` What you do?` Me:`I repair pipes`](http://9gag.com/gag/amoV42y)
+ - 😝 [Know your spells!](http://9gag.com/gag/agm2wzr)
+ - 💣 [Never throw sodium in the water](http://9gag.com/gag/amoV4Y6)
  - 😝 [The saddest sight of the year](http://9gag.com/gag/awy4pV8)
- - 👉 [When playing around takes you to a whole new country.](http://9gag.com/gag/aGy248X)<!-- MEMES:END -->
+ - 👉 [This isn&#39;t a skit, it&#39;s an Apple event conducted last year. iPad gets a calculator app after 14 years](http://9gag.com/gag/axyPrBn)<!-- MEMES:END -->
 
 ---
 

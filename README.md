@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro let his intrusive thoughts win for exactly 2 seconds](http://9gag.com/gag/aRB2bej)
- - 😝 [Wood ram from behind!](http://9gag.com/gag/aqyzwPv)
- - 💣 [Unexpected flag choice at the protest](http://9gag.com/gag/aKGYoXj)
  - 😝 [Chastity belt &lpar;Venice museum&rpar;](http://9gag.com/gag/aPAXErB)
- - 👉 [The saddest sight of the year](http://9gag.com/gag/awy4pV8)<!-- MEMES:END -->
+ - 😝 [Turning job interviews into a personal hobby.](http://9gag.com/gag/aRB2bx2)
+ - 💣 [Some memories just stick around forever.](http://9gag.com/gag/aO81LA6)
+ - 😝 [The not so bright idea](http://9gag.com/gag/avyvN05)
+ - 👉 [Never throw sodium in the water](http://9gag.com/gag/amoV4Y6)<!-- MEMES:END -->
 
 ---
 

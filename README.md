@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happened today in Poland. The car was stolen and was found near a Biedronka thanks to the gps tracker.](http://9gag.com/gag/abA2w2r)
- - 😝 [Good news!](http://9gag.com/gag/ajPKvpw)
- - 💣 [Just a random pokemon encounter](http://9gag.com/gag/avyvqwb)
- - 😝 [Within 48hrs my GF broke up with me, and then one of my organs tried to kill me. I am currently in the ER by myself, awaiting an OR to open up...send the dankest memes you got. Thanks for the laughs. FU and see you tomorrow...Hopefully.](http://9gag.com/gag/a7oNRyb)
- - 👉 [Know your spells!](http://9gag.com/gag/agm2wzr)<!-- MEMES:END -->
+ - 😝 [Sometimes you just gotta clean up your own mess.](http://9gag.com/gag/aVv2yOK)
+ - 😝 [Never too old to show off your skills](http://9gag.com/gag/a7oNREe)
+ - 💣 [When the winner loose](http://9gag.com/gag/a5QjYGq)
+ - 😝 [She keeper](http://9gag.com/gag/ae9280v)
+ - 👉 [How to check your height.](http://9gag.com/gag/aD2XvDB)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Pokémon studio&amp;#8217;s action RPG Beast of Reincarnation launches in 2026](https://www.theverge.com/news/682371/beast-of-reincarnation-game-freak-xbox-games-showcase-trailer)
+ - [Microsoft surprises fans with reveal of ROG Xbox Ally handheld](https://www.cnet.com/tech/gaming/microsoft-surprises-fans-with-reveal-of-rog-xbox-ally-handheld/#ftag=CAD590a51e)
  - [Xbox Games Showcase 2025: all the news and trailers](https://www.theverge.com/microsoft-xbox/681149/xbox-games-showcase-2025-news-trailers)
  - [Save $100 on Apple&#39;s iPad mini 7 ahead of WWDC](https://appleinsider.com/articles/25/06/08/save-100-on-apples-ipad-mini-7-ahead-of-wwdc?utm_medium=rss)
- - [Microsoft and Asus announce two Xbox Ally handhelds with new Xbox full-screen experience](https://www.theverge.com/news/682009/microsoft-asus-rog-xbox-ally-devices-new-windows-xbox-experience)
- - [This is how Microsoft is combining Windows and Xbox for handheld PCs](https://www.theverge.com/news/682011/microsoft-windows-xbox-pc-combination-features-rog-xbox-ally-devices)<!-- TECH:END -->
+ - [Microsoft and Asus announce two Xbox Ally handhelds with new Xbox full-screen experience](https://www.theverge.com/news/682009/microsoft-asus-rog-xbox-ally-devices-new-windows-xbox-experience)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

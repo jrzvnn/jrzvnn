@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The saddest sight of the year](http://9gag.com/gag/awy4pV8)
- - 😝 [Wood ram from behind!](http://9gag.com/gag/aqyzwPv)
- - 💣 [This will make a fine addition to my collection](http://9gag.com/gag/abA28rb)
  - 😝 [Cleaning electronics with liquid? Yes, it is possible with specialized fluids.](http://9gag.com/gag/agm2zAW)
- - 👉 [Keep on moving](http://9gag.com/gag/a87wOwZ)<!-- MEMES:END -->
+ - 😝 [Within 48hrs my GF broke up with me, and then one of my organs tried to kill me. I am currently in the ER by myself, awaiting an OR to open up...send the dankest memes you got. Thanks for the laughs. FU and see you tomorrow...Hopefully.](http://9gag.com/gag/a7oNRyb)
+ - 💣 [Well played](http://9gag.com/gag/aGy24Pz)
+ - 😝 [The saddest sight of the year](http://9gag.com/gag/awy4pV8)
+ - 👉 [When playing around takes you to a whole new country.](http://9gag.com/gag/aGy248X)<!-- MEMES:END -->
 
 ---
 

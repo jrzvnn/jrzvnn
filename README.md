@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Advocate for Trans Rights in Your Community](https://www.wired.com/story/how-to-advocate-for-support-trans-rights/)
  - [Best Treadmill for Home &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-home-treadmills/)
+ - [Vivo’s telephoto extender makes the world’s best phone camera better](https://www.theverge.com/mobile/680552/vivo-telephoto-extender-lens-x200-ultra-photography-kit)
  - [Thoughts on the major design overhaul of Apple&#39;s OSes with &quot;Liquid Glass&quot; UI elements, which will launch at WWDC and set the stage for fresh hardware products &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250608/p11#a250608p11)
- - [Treefera, which uses satellite imagery, drone imagery, and AI to provide real-time insights into supply chains, raised a $30M Series B led by Notion Capital &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/250608/p10#a250608p10)
- - [New &#39;Liquid Glass&#39; WWDC OS overhaul will preview 20th anniversary iPhone](https://appleinsider.com/articles/25/06/08/new-liquid-glass-wwdc-os-overhaul-will-preview-20th-anniversary-iphone?utm_medium=rss)
- - [The 20 Best PC Games Right Now](https://www.cnet.com/tech/gaming/best-pc-games-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Treefera, which uses satellite imagery, drone imagery, and AI to provide real-time insights into supply chains, raised a $30M Series B led by Notion Capital &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/250608/p10#a250608p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

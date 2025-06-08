@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This will make a fine addition to my collection](http://9gag.com/gag/abA28rb)
- - 😝 [How to check your height.](http://9gag.com/gag/aD2XvDB)
- - 💣 [This isn&#39;t a skit, it&#39;s an Apple event conducted last year. iPad gets a calculator app after 14 years](http://9gag.com/gag/axyPrBn)
- - 😝 [It&#39;s getting worse](http://9gag.com/gag/amoVQ42)
- - 👉 [Know your spells!](http://9gag.com/gag/agm2wzr)<!-- MEMES:END -->
+ - 😝 [Just recruit 3 of your friends bro...](http://9gag.com/gag/aQz2L47)
+ - 😝 [Today&#39;s episode of America is just fire: Elon calls for Trump&#39;s impeachment, MAGA calls for Elon&#39;s deportation and Russia offers political asylum to Elon Musk](http://9gag.com/gag/a5Qj37o)
+ - 💣 [Never throw sodium in the water](http://9gag.com/gag/amoV4Y6)
+ - 😝 [Japanese Waitress Dance](http://9gag.com/gag/aByXejD)
+ - 👉 [Well played](http://9gag.com/gag/aGy24Pz)<!-- MEMES:END -->
 
 ---
 

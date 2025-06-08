@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your joke sails right over their heads](http://9gag.com/gag/a5Qj0KO)
+ - 😝 [Chastity belt &lpar;Venice museum&rpar;](http://9gag.com/gag/aPAXErB)
  - 😝 [Wood ram from behind!](http://9gag.com/gag/aqyzwPv)
  - 💣 [So this is how Sith lightsabers are made.](http://9gag.com/gag/aqyzonY)
- - 😝 [The saddest sight of the year](http://9gag.com/gag/awy4pV8)
- - 👉 [Within 48hrs my GF broke up with me, and then one of my organs tried to kill me. I am currently in the ER by myself, awaiting an OR to open up...send the dankest memes you got. Thanks for the laughs. FU and see you tomorrow...Hopefully.](http://9gag.com/gag/a7oNRyb)<!-- MEMES:END -->
+ - 😝 [Within 48hrs my GF broke up with me, and then one of my organs tried to kill me. I am currently in the ER by myself, awaiting an OR to open up...send the dankest memes you got. Thanks for the laughs. FU and see you tomorrow...Hopefully.](http://9gag.com/gag/a7oNRyb)
+ - 👉 [Never throw sodium in the water](http://9gag.com/gag/amoV4Y6)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [X-ray of extreme sport athlete Travis Pastrana](http://9gag.com/gag/aKGYoG6)
- - 😝 [Dumbest Driver](http://9gag.com/gag/a34W6Rm)
- - 💣 [Cleaning electronics with liquid? Yes, it is possible with specialized fluids.](http://9gag.com/gag/agm2zAW)
- - 😝 [When playing around takes you to a whole new country.](http://9gag.com/gag/aGy248X)
- - 👉 [Japanese Waitress Dance](http://9gag.com/gag/aByXejD)<!-- MEMES:END -->
+ - 😝 [How to check your height.](http://9gag.com/gag/aD2XvDB)
+ - 😝 [Never too old to show off your skills](http://9gag.com/gag/a7oNREe)
+ - 💣 [How was the dentist visit?](http://9gag.com/gag/aE0Xmmx)
+ - 😝 [15 year old Smokey crossed the bridge today. If you have a sec, please let him know he was a good boy.](http://9gag.com/gag/aryBLP0)
+ - 👉 [Mexican Henry Cavill Will Steal Your Girl](http://9gag.com/gag/axyPL92)<!-- MEMES:END -->
 
 ---
 

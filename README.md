@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft and Asus unveil the ROG Xbox Ally and ROG Xbox Ally X, two gaming handhelds that will run Windows games from multiple storefronts, including Steam &lpar;Stephen Totilo/Game File&rpar;](http://www.techmeme.com/250608/p13#a250608p13)
- - [Pokémon studio&amp;#8217;s action RPG Beast of Reincarnation launches in 2026](https://www.theverge.com/news/682371/beast-of-reincarnation-game-freak-xbox-games-showcase-trailer)
- - [Microsoft surprises fans with reveal of ROG Xbox Ally handheld](https://www.cnet.com/tech/gaming/microsoft-surprises-fans-with-reveal-of-rog-xbox-ally-handheld/#ftag=CAD590a51e)
- - [Xbox Games Showcase 2025: all the news and trailers](https://www.theverge.com/microsoft-xbox/681149/xbox-games-showcase-2025-news-trailers)
- - [Save $100 on Apple&#39;s iPad mini 7 ahead of WWDC](https://appleinsider.com/articles/25/06/08/save-100-on-apples-ipad-mini-7-ahead-of-wwdc?utm_medium=rss)<!-- TECH:END -->
+ - [Double Fine’s next game is Keeper, and it’s out in October](https://www.theverge.com/news/682449/double-fine-keeper-trailer-release-date-xbox-games-showcase)
+ - [Microsoft showcases a new fullscreen Xbox experience optimized for handhelds, coming first to the Xbox Ally and Xbox Ally X and to other handhelds in 2026 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250608/p14#a250608p14)
+ - [Gears of War: E-Day is coming in 2026](https://www.theverge.com/news/682283/gears-of-war-e-day-release-date-2026)
+ - [Persona 4 is getting a remake](https://www.theverge.com/news/680439/persona-4-revival-remake-trailer)
+ - [Microsoft and Asus unveil the ROG Xbox Ally and ROG Xbox Ally X, two gaming handhelds that will run Windows games from multiple storefronts, including Steam &lpar;Stephen Totilo/Game File&rpar;](http://www.techmeme.com/250608/p13#a250608p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

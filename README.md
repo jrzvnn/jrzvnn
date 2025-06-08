@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Never throw sodium in the water](http://9gag.com/gag/amoV4Y6)
+ - 😝 [Watching beer fill from the bottom is surprisingly satisfying](http://9gag.com/gag/azxZwKx)
+ - 💣 [Know your spells!](http://9gag.com/gag/agm2wzr)
  - 😝 [Just recruit 3 of your friends bro...](http://9gag.com/gag/aQz2L47)
- - 😝 [Today&#39;s episode of America is just fire: Elon calls for Trump&#39;s impeachment, MAGA calls for Elon&#39;s deportation and Russia offers political asylum to Elon Musk](http://9gag.com/gag/a5Qj37o)
- - 💣 [Never throw sodium in the water](http://9gag.com/gag/amoV4Y6)
- - 😝 [Japanese Waitress Dance](http://9gag.com/gag/aByXejD)
- - 👉 [Well played](http://9gag.com/gag/aGy24Pz)<!-- MEMES:END -->
+ - 👉 [Happened today in Poland. The car was stolen and was found near a Biedronka thanks to the gps tracker.](http://9gag.com/gag/abA2w2r)<!-- MEMES:END -->
 
 ---
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do Re Mi](http://9gag.com/gag/aNDRb23)
- - 😝 [She keeper](http://9gag.com/gag/ae9280v)
- - 💣 [Sometimes you just gotta clean up your own mess.](http://9gag.com/gag/aVv2yOK)
+ - 😝 [Never too old to show off your skills](http://9gag.com/gag/a7oNREe)
+ - 😝 [Sometimes you just gotta clean up your own mess.](http://9gag.com/gag/aVv2yOK)
+ - 💣 [She keeper](http://9gag.com/gag/ae9280v)
  - 😝 [When the winner loose](http://9gag.com/gag/a5QjYGq)
  - 👉 [15 year old Smokey crossed the bridge today. If you have a sec, please let him know he was a good boy.](http://9gag.com/gag/aryBLP0)<!-- MEMES:END -->
 

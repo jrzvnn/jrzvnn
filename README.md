@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [15 Best Gifts for Men, Manly Men, and Menly Man Men &lpar;2025&rpar;](https://www.wired.com/gallery/best-gifts-for-men/)
+ - [The Verge’s favorite summer gear for 2025](https://www.theverge.com/tech/679404/summer-gear-vacation-favorite)
  - [How to Buy a Bike Helmet &lpar;2025&rpar;](https://www.wired.com/story/how-to-buy-a-bike-helmet/)
- - [Republicans are barreling toward remaking the internet](https://www.theverge.com/policy/681609/ftc-attention-economy-kids-online-safety-workshop)
- - [Apple isn&#39;t expected to launch any new hardware at WWDC 2025](https://appleinsider.com/articles/25/06/08/apple-isnt-expected-to-launch-any-new-hardware-at-wwdc-2025?utm_medium=rss)
- - [A look at the intensifying race for super apps in the Gulf, as Careem, Talabat, Amazon, Botim, and Noon consolidate various services into single platforms &lpar;Divsha Bhat/Rest of World&rpar;](http://www.techmeme.com/250608/p9#a250608p9)
- - [I Made Google Translate My Default on iPhone Before a Trip and It Saved Me More Than Once](https://www.cnet.com/tech/services-and-software/how-to-make-google-translate-default-app-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Apple Watch Series 11 May Not Be the Only New Watch This Year](https://www.cnet.com/tech/mobile/apple-watch-series-11-what-the-rumors-reveal-about-apples-smartwatch-future/#ftag=CAD590a51e)
+ - [Best Internet Providers in Aurora, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-aurora-co/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

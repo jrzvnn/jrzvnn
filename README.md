@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This will make a fine addition to my collection](http://9gag.com/gag/abA28rb)
  - 😝 [When playing around takes you to a whole new country.](http://9gag.com/gag/aGy248X)
+ - 💣 [Wood ram from behind!](http://9gag.com/gag/aqyzwPv)
  - 😝 [Well played](http://9gag.com/gag/aGy24Pz)
- - 💣 [Watching beer fill from the bottom is surprisingly satisfying](http://9gag.com/gag/azxZwKx)
- - 😝 [Unexpected flag choice at the protest](http://9gag.com/gag/aKGYoXj)
- - 👉 [How to check your height.](http://9gag.com/gag/aD2XvDB)<!-- MEMES:END -->
+ - 👉 [Unexpected flag choice at the protest](http://9gag.com/gag/aKGYoXj)<!-- MEMES:END -->
 
 ---
 

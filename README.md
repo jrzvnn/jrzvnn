@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Know your spells!](http://9gag.com/gag/agm2wzr)
- - 😝 [It&#39;s getting worse](http://9gag.com/gag/amoVQ42)
- - 💣 [This will make a fine addition to my collection](http://9gag.com/gag/abA28rb)
- - 😝 [So this is how Sith lightsabers are made.](http://9gag.com/gag/aqyzonY)
- - 👉 [Watching beer fill from the bottom is surprisingly satisfying](http://9gag.com/gag/azxZwKx)<!-- MEMES:END -->
+ - 😝 [A bond of loyalty and love that goes both ways.](http://9gag.com/gag/a34WXZv)
+ - 😝 [She keeper](http://9gag.com/gag/ae9280v)
+ - 💣 [Never too old to show off your skills](http://9gag.com/gag/a7oNREe)
+ - 😝 [How to check your height.](http://9gag.com/gag/aD2XvDB)
+ - 👉 [How was the dentist visit?](http://9gag.com/gag/aE0Xmmx)<!-- MEMES:END -->
 
 ---
 

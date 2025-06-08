@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s homeOS platform is coming: All the rumors, and what you need to know](https://appleinsider.com/articles/25/05/09/apples-homeos-platform-is-coming-all-the-rumors-and-what-you-need-to-know?utm_medium=rss)
+ - [iPadOS 26 at WWDC 25: Bold design rumors, Multitasking changes, more](https://appleinsider.com/articles/25/06/06/ipados-26-at-wwdc-25-bold-design-rumors-multitasking-changes-more?utm_medium=rss)
+ - [Big redesign and more: What to expect in macOS 26 at WWDC 2025](https://appleinsider.com/articles/25/06/02/big-redesign-and-more-what-to-expect-in-macos-26-at-wwdc-2025?utm_medium=rss)
  - [Final Fantasy XVI is out on Xbox right now, and FF7 Remake is coming too](https://www.theverge.com/news/682491/final-fantasy-16-xbox-stealthdrop-final-fantasy-7-remake)
- - [Xbox Games Showcase 2025: News, Trailers and Everything Announced](https://www.cnet.com/tech/gaming/xbox-games-showcase-2025-news-trailers-and-everything-announced/#ftag=CAD590a51e)
- - [Double Fine&amp;#8217;s next game, Keeper, turns you into a walking lighthouse](https://www.theverge.com/news/682449/double-fine-keeper-trailer-release-date-xbox-games-showcase)
- - [Microsoft showcases a new fullscreen Xbox experience optimized for handhelds, coming first to the Xbox Ally and Xbox Ally X and to other handhelds in 2026 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250608/p14#a250608p14)
- - [Gears of War: E-Day is coming in 2026](https://www.theverge.com/news/682283/gears-of-war-e-day-release-date-2026)<!-- TECH:END -->
+ - [What to expect from iOS 26 at WWDC: New games app, redesign, and more](https://appleinsider.com/articles/25/05/30/what-to-expect-from-ios-26-at-wwdc-new-games-app-redesign-and-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The geh maker](http://9gag.com/gag/aMVXLo1)
- - 😝 [Rambo the parrot is the best neighborhood watch](http://9gag.com/gag/aGy25Nz)
- - 💣 [That was him spreading peace](http://9gag.com/gag/a87wNDp)
- - 😝 [It&#39;s getting worse](http://9gag.com/gag/amoVQ42)
- - 👉 [An incredible testament to enduring love](http://9gag.com/gag/ae92B3O)<!-- MEMES:END -->
+ - 😝 [This will make a fine addition to my collection](http://9gag.com/gag/abA28rb)
+ - 😝 [Reacting to the art trend with my own twist.](http://9gag.com/gag/aE0X5nG)
+ - 💣 [The Church of Scientology explained by South Park.](http://9gag.com/gag/awy4j24)
+ - 😝 [Know your spells!](http://9gag.com/gag/agm2wzr)
+ - 👉 [What in her rectum?](http://9gag.com/gag/aNDRMX0)<!-- MEMES:END -->
 
 ---
 

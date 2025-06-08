@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New &#39;Liquid Glass&#39; WWDC OS overhaul will preview 20th anniversary iPhone](https://appleinsider.com/articles/25/06/08/new-liquid-glass-wwdc-os-overhaul-will-preview-20th-anniversary-iphone?utm_medium=rss)
  - [15 Best Gifts for Men, Manly Men, and Menly Man Men &lpar;2025&rpar;](https://www.wired.com/gallery/best-gifts-for-men/)
  - [The Verge’s favorite summer gear for 2025](https://www.theverge.com/tech/679404/summer-gear-vacation-favorite)
  - [How to Buy a Bike Helmet &lpar;2025&rpar;](https://www.wired.com/story/how-to-buy-a-bike-helmet/)
- - [The Apple Watch Series 11 May Not Be the Only New Watch This Year](https://www.cnet.com/tech/mobile/apple-watch-series-11-what-the-rumors-reveal-about-apples-smartwatch-future/#ftag=CAD590a51e)
- - [Best Internet Providers in Aurora, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-aurora-co/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Apple Watch Series 11 May Not Be the Only New Watch This Year](https://www.cnet.com/tech/mobile/apple-watch-series-11-what-the-rumors-reveal-about-apples-smartwatch-future/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

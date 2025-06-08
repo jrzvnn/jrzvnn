@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Final Fantasy XVI is out on Xbox right now, and FF7 Remake is coming too](https://www.theverge.com/news/682491/final-fantasy-16-xbox-stealthdrop-final-fantasy-7-remake)
  - [Xbox Games Showcase 2025: News, Trailers and Everything Announced](https://www.cnet.com/tech/gaming/xbox-games-showcase-2025-news-trailers-and-everything-announced/#ftag=CAD590a51e)
- - [Double Fine’s next game is Keeper, and it’s out in October](https://www.theverge.com/news/682449/double-fine-keeper-trailer-release-date-xbox-games-showcase)
+ - [Double Fine&amp;#8217;s next game, Keeper, turns you into a walking lighthouse](https://www.theverge.com/news/682449/double-fine-keeper-trailer-release-date-xbox-games-showcase)
  - [Microsoft showcases a new fullscreen Xbox experience optimized for handhelds, coming first to the Xbox Ally and Xbox Ally X and to other handhelds in 2026 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250608/p14#a250608p14)
  - [Gears of War: E-Day is coming in 2026](https://www.theverge.com/news/682283/gears-of-war-e-day-release-date-2026)<!-- TECH:END -->
 

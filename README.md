@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Chastity belt &lpar;Venice museum&rpar;](http://9gag.com/gag/aPAXErB)
- - 😝 [Wood ram from behind!](http://9gag.com/gag/aqyzwPv)
- - 💣 [So this is how Sith lightsabers are made.](http://9gag.com/gag/aqyzonY)
- - 😝 [Within 48hrs my GF broke up with me, and then one of my organs tried to kill me. I am currently in the ER by myself, awaiting an OR to open up...send the dankest memes you got. Thanks for the laughs. FU and see you tomorrow...Hopefully.](http://9gag.com/gag/a7oNRyb)
+ - 😝 [An incredible testament to enduring love](http://9gag.com/gag/ae92B3O)
+ - 💣 [Wood ram from behind!](http://9gag.com/gag/aqyzwPv)
+ - 😝 [In Hungary, if you are part of a visiting CPAC delegation, you have priority over an ambulance using emergency signals.](http://9gag.com/gag/aYQ13BO)
  - 👉 [Never throw sodium in the water](http://9gag.com/gag/amoV4Y6)<!-- MEMES:END -->
 
 ---

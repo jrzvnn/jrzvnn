@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Cleaning electronics with liquid? Yes, it is possible with specialized fluids.](http://9gag.com/gag/agm2zAW)
- - 😝 [Taking the chair to win musical chairs is a bold strategy](http://9gag.com/gag/a4Pq0KA)
- - 💣 [Keep on moving](http://9gag.com/gag/a87wOwZ)
- - 😝 [When you have been wandered in this world since 1627](http://9gag.com/gag/a4PqgXA)
- - 👉 [Wood ram from behind!](http://9gag.com/gag/aqyzwPv)<!-- MEMES:END -->
+ - 😝 [Reacting to the art trend with my own twist.](http://9gag.com/gag/aE0X5nG)
+ - 💣 [It&#39;s getting worse](http://9gag.com/gag/amoVQ42)
+ - 😝 [Within 48hrs my GF broke up with me, and then one of my organs tried to kill me. I am currently in the ER by myself, awaiting an OR to open up...send the dankest memes you got. Thanks for the laughs. FU and see you tomorrow...Hopefully.](http://9gag.com/gag/a7oNRyb)
+ - 👉 [Rambo the parrot is the best neighborhood watch](http://9gag.com/gag/aGy25Nz)<!-- MEMES:END -->
 
 ---
 

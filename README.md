@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New &#39;Liquid Glass&#39; WWDC OS overhaul will preview 20th anniversary iPhone](https://appleinsider.com/articles/25/06/08/new-liquid-glass-wwdc-os-overhaul-will-preview-20th-anniversary-iphone?utm_medium=rss)
+ - [Apple relying on Communication Safety to stem tide of CSAM blackmail](https://appleinsider.com/articles/25/06/08/apple-relying-on-communication-safety-to-stem-tide-of-csam-blackmail?utm_medium=rss)
  - [Xbox Games Showcase 2025: all the news and trailers](https://www.theverge.com/microsoft-xbox/681149/xbox-games-showcase-2025-news-trailers)
  - [At a clandestine math conclave in Berkeley in May, a chatbot powered by o4-mini answered some of the hardest solvable problems much faster than a mathematician &lpar;Lyndie Chiou/Scientific American&rpar;](http://www.techmeme.com/250608/p12#a250608p12)
- - [Watch UEFA Nations League Final Soccer: Livestream Portugal vs. Spain From Anywhere](https://www.cnet.com/tech/services-and-software/watch-uefa-nations-league-final-soccer-livestream-portugal-vs-spain-from-anywhere/#ftag=CAD590a51e)
- - [How to Advocate for Trans Rights in Your Community](https://www.wired.com/story/how-to-advocate-for-support-trans-rights/)
- - [Best Treadmill for Home &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-home-treadmills/)<!-- TECH:END -->
+ - [Watch UEFA Nations League Final Soccer: Livestream Portugal vs. Spain From Anywhere](https://www.cnet.com/tech/services-and-software/watch-uefa-nations-league-final-soccer-livestream-portugal-vs-spain-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

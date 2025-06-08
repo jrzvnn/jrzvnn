@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [CB Insights: VCs and private equity firms poured $3.1B to fund 144 deals in the LA area in Q1 2025, up from $2.7B in Q1 2024 and $1.4B in Q1 2023 &lpar;Los Angeles Times&rpar;](http://www.techmeme.com/250608/p16#a250608p16)
+ - [Apple WWDC 2025 Live: The Keynote Could Bring New Changes to Apple&#39;s Devices](https://www.cnet.com/tech/services-and-software/apple-wwdc-2025-live-keynote-news-annoucements-for-ios-mac/#ftag=CAD590a51e)
  - [Black Ops 7 Dives Back Into the Shadows With Mason and Menendez](https://www.cnet.com/tech/gaming/black-ops-7-dives-back-into-the-shadows-with-mason-and-menendez/#ftag=CAD590a51e)
  - [Xbox Games Showcase 2025: all the news and trailers](https://www.theverge.com/microsoft-xbox/681149/xbox-games-showcase-2025-news-trailers)
- - [Interviews with executives at Yahoo News, the WSJ, and Bloomberg about adding AI-powered summaries, how they can help busy readers, reliability issues, and more &lpar;Sarah Scire/Nieman Lab&rpar;](http://www.techmeme.com/250608/p15#a250608p15)
- - [Xbox Games Showcase: The Outer Worlds 2 Is Taking Cues From Fallout: New Vegas](https://www.cnet.com/tech/gaming/the-outer-worlds-2-is-taking-cues-from-fallout-new-vegas/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Interviews with executives at Yahoo News, the WSJ, and Bloomberg about adding AI-powered summaries, how they can help busy readers, reliability issues, and more &lpar;Sarah Scire/Nieman Lab&rpar;](http://www.techmeme.com/250608/p15#a250608p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

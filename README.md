@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This will make a fine addition to my collection](http://9gag.com/gag/abA28rb)
+ - 😝 [How to check your height.](http://9gag.com/gag/aD2XvDB)
  - 😝 [Never throw sodium in the water](http://9gag.com/gag/amoV4Y6)
- - 💣 [Keep on moving](http://9gag.com/gag/a87wOwZ)
- - 😝 [Wood ram from behind!](http://9gag.com/gag/aqyzwPv)
- - 👉 [What in her rectum?](http://9gag.com/gag/aNDRMX0)<!-- MEMES:END -->
+ - 💣 [This isn&#39;t a skit, it&#39;s an Apple event conducted last year. iPad gets a calculator app after 14 years](http://9gag.com/gag/axyPrBn)
+ - 😝 [Cleaning electronics with liquid? Yes, it is possible with specialized fluids.](http://9gag.com/gag/agm2zAW)
+ - 👉 [Know your spells!](http://9gag.com/gag/agm2wzr)<!-- MEMES:END -->
 
 ---
 

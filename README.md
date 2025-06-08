@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never throw sodium in the water](http://9gag.com/gag/amoV4Y6)
- - 😝 [Watching beer fill from the bottom is surprisingly satisfying](http://9gag.com/gag/azxZwKx)
- - 💣 [Know your spells!](http://9gag.com/gag/agm2wzr)
- - 😝 [Just recruit 3 of your friends bro...](http://9gag.com/gag/aQz2L47)
- - 👉 [Happened today in Poland. The car was stolen and was found near a Biedronka thanks to the gps tracker.](http://9gag.com/gag/abA2w2r)<!-- MEMES:END -->
+ - 😝 [X-ray of extreme sport athlete Travis Pastrana](http://9gag.com/gag/aKGYoG6)
+ - 😝 [Lmao who made this](http://9gag.com/gag/a1mL306)
+ - 💣 [Just recruit 3 of your friends bro...](http://9gag.com/gag/aQz2L47)
+ - 😝 [Know your spells!](http://9gag.com/gag/agm2wzr)
+ - 👉 [This will make a fine addition to my collection](http://9gag.com/gag/abA28rb)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Helping a little friend out of a tough spot](http://9gag.com/gag/aGy2Xj0)
- - 😝 [What ridiculous interview questions ahaha! Guy also had nice spot on replies](http://9gag.com/gag/aO81Xbr)
- - 💣 [Know your Metal](http://9gag.com/gag/ayNQjw8)
+ - 😝 [That mouse is about to have a very bad time.](http://9gag.com/gag/ajPKp1w)
+ - 😝 [Some memories just stick around forever.](http://9gag.com/gag/aO81LA6)
+ - 💣 [Just keep riding through the water](http://9gag.com/gag/aO81L7E)
  - 😝 [The wait is over! Vote for your fav memes now at our very first Meme69 Award!](http://9gag.com/gag/apRAOW5)
- - 👉 [Japanese Waitress Dance](http://9gag.com/gag/aByXejD)<!-- MEMES:END -->
+ - 👉 [Cleaning electronics with liquid? Yes, it is possible with specialized fluids.](http://9gag.com/gag/agm2zAW)<!-- MEMES:END -->
 
 ---
 

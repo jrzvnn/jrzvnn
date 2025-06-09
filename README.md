@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cloudflare open sourced an OAuth library mostly written by Claude, showing how AI handles mechanical implementation while humans guide with context and judgment &lpar;Max Mitchell&rpar;](http://www.techmeme.com/250609/p1#a250609p1)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 9, #259](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-9-259/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword Answers for Monday, June 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-june-9/#ftag=CAD590a51e)
  - [Apple researchers detail the limitations of top LLMs and large reasoning models, like o3, especially on problems of medium to high complexity &lpar;Gary Marcus/Marcus on AI&rpar;](http://www.techmeme.com/250608/p17#a250608p17)
- - [Apple WWDC 2025 Live: The Keynote Could Bring New Changes to Apple&#39;s Devices](https://www.cnet.com/tech/services-and-software/apple-wwdc-2025-live-keynote-news-annoucements-for-ios-mac/#ftag=CAD590a51e)
- - [I Played With the ROG Xbox Ally, the Upcoming Xbox Handheld](https://www.cnet.com/tech/gaming/i-played-with-the-xbox-rog-ally-the-upcoming-xbox-handheld/#ftag=CAD590a51e)
- - [CB Insights: VCs and private equity firms poured $3.1B to fund 144 deals in the LA area in Q1 2025, up from $2.7B in Q1 2024 and $1.4B in Q1 2023 &lpar;Los Angeles Times&rpar;](http://www.techmeme.com/250608/p16#a250608p16)<!-- TECH:END -->
+ - [Apple WWDC 2025 Live: The Keynote Could Bring New Changes to Apple&#39;s Devices](https://www.cnet.com/tech/services-and-software/apple-wwdc-2025-live-keynote-news-annoucements-for-ios-mac/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

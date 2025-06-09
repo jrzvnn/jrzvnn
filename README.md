@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Know your Metal](http://9gag.com/gag/ayNQjw8)
- - 😝 [Someone made a penny floor but messed up the spelling.](http://9gag.com/gag/aVv2AXv)
- - 💣 [After months of fighting and not once wanting to give up, my mom &lpar;at the age of 52&rpar; succumbed to her Stage 3 Pancreatic Cancer. I&#39;m so broken I don&#39;t feel anything today. She was everything to me, in a non-Norman Bates way. I&#39;ll be so lost with her gone.](http://9gag.com/gag/aVv2AYM)
+ - 😝 [The not so bright idea](http://9gag.com/gag/avyvN05)
+ - 😝 [Adding a little extra to your steak.](http://9gag.com/gag/aMVXM6R)
+ - 💣 [Cleaning electronics with liquid? Yes, it is possible with specialized fluids.](http://9gag.com/gag/agm2zAW)
  - 😝 [The wait is over! Vote for your fav memes now at our very first Meme69 Award!](http://9gag.com/gag/apRAOW5)
- - 👉 [I did not see that coming](http://9gag.com/gag/adB2EZZ)<!-- MEMES:END -->
+ - 👉 [Attempting to uphold the bro code under pressure.](http://9gag.com/gag/awy4W5x)<!-- MEMES:END -->
 
 ---
 

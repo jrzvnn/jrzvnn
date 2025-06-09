@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Apparently you can learn to speak chicken and command them.](http://9gag.com/gag/aryBYZK)
- - 😝 [When your joke sails right over their heads](http://9gag.com/gag/a5Qj0KO)
- - 💣 [When playing around takes you to a whole new country.](http://9gag.com/gag/aGy248X)
+ - 😝 [Unexpected flag choice at the protest](http://9gag.com/gag/aKGYoXj)
+ - 😝 [Cleaning electronics with liquid? Yes, it is possible with specialized fluids.](http://9gag.com/gag/agm2zAW)
+ - 💣 [Karen gets disappointed](http://9gag.com/gag/a9yXo9o)
  - 😝 [The wait is over! Vote for your fav memes now at our very first Meme69 Award!](http://9gag.com/gag/apRAOW5)
- - 👉 [That mouse is about to have a very bad time.](http://9gag.com/gag/ajPKp1w)<!-- MEMES:END -->
+ - 👉 [Chastity belt &lpar;Venice museum&rpar;](http://9gag.com/gag/aPAXErB)<!-- MEMES:END -->
 
 ---
 

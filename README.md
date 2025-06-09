@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Dangerous Truth About the ‘Nonlethal’ Weapons Used Against LA Protesters](https://www.wired.com/story/non-lethal-weapons-la-protests/)
  - [Apple WWDC 2025: the 13 biggest announcements](https://www.theverge.com/news/682769/apple-wwdc-2025-biggest-announcements-ios-26)
+ - [Biggest Apple Announcements From WWDC 2025: Liquid Glass, iOS 26, New Camera App Look and Much More](https://www.cnet.com/tech/services-and-software/everything-announced-at-apple-wwdc-2025-new-ios-ipados-macos-visionos-tvos-watchos-updates/#ftag=CAD590a51e)
  - [Apple unveils several changes to CarPlay in iOS 26, including a Liquid Glass re-design, a dashboard for Live Activities, and broad support for widgets &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/250609/p42#a250609p42)
- - [Metal 4 &amp; Game Porting Toolkit 3 boost frame rate &amp; ray tracing performance](https://appleinsider.com/articles/25/06/09/metal-4-game-porting-toolkit-3-boost-frame-rate-ray-tracing-performance?utm_medium=rss)
- - [Apple&amp;#8217;s big updates for Intel-based Macs will end with Tahoe](https://www.theverge.com/news/683846/macos-tahoe-intel-x86-arm-m-cpu)
- - [You can now try Microsoft’s new Start menu for Windows 11](https://www.theverge.com/news/683818/microsoft-windows-11-new-start-menu-testing-dev-channel)<!-- TECH:END -->
+ - [Metal 4 &amp; Game Porting Toolkit 3 boost frame rate &amp; ray tracing performance](https://appleinsider.com/articles/25/06/09/metal-4-game-porting-toolkit-3-boost-frame-rate-ray-tracing-performance?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

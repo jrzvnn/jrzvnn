@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now try Microsoft’s new Start menu for Windows 11](https://www.theverge.com/news/683818/microsoft-windows-11-new-start-menu-testing-dev-channel)
- - [Apple punts on Siri updates as it struggles to keep up in the AI race](https://www.theverge.com/apple/682984/apple-punts-on-siri-updates-as-it-struggles-to-keep-up-in-the-ai-race)
- - [Apple says macOS 26 Tahoe will be the last release of macOS that supports Intel Macs, with future macOS versions only available to Apple Silicon Macs &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/250609/p41#a250609p41)
- - [iOS 26’s new ‘adaptive power’ mode dials back performance to save battery](https://www.theverge.com/news/683797/ios-26s-new-adaptive-power-mode-dials-back-performance-to-save-battery)
- - [Microsoft Just Dropped a Free AI Video Tool, And It&#39;s Wildly Easy to Use](https://www.cnet.com/tech/services-and-software/microsoft-just-dropped-a-free-ai-video-tool-and-its-wildly-easy-to-use/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple WWDC 2025: the 13 biggest announcements](https://www.theverge.com/news/682769/apple-wwdc-2025-biggest-announcements-ios-26)
+ - [Apple unveils several changes to CarPlay in iOS 26, including a Liquid Glass re-design, a dashboard for Live Activities, and broad support for widgets &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/250609/p42#a250609p42)
+ - [Metal 4 &amp; Game Porting Toolkit 3 boost frame rate &amp; ray tracing performance](https://appleinsider.com/articles/25/06/09/metal-4-game-porting-toolkit-3-boost-frame-rate-ray-tracing-performance?utm_medium=rss)
+ - [Apple&amp;#8217;s big updates for Intel-based Macs will end with Tahoe](https://www.theverge.com/news/683846/macos-tahoe-intel-x86-arm-m-cpu)
+ - [You can now try Microsoft’s new Start menu for Windows 11](https://www.theverge.com/news/683818/microsoft-windows-11-new-start-menu-testing-dev-channel)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

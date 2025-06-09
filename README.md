@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple unveils a Liquid Glass design language across its platforms, adding transparency and glass shine effects to Apple&#39;s in-app interfaces &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250609/p22#a250609p22)
- - [Apple announces the Foundation Models framework, giving developers direct access to its on-device AI models for the first time &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/250609/p23#a250609p23)
  - [iOS 26 is here with Liquid Glass redesign, new Camera, and Apple Intelligence promises](https://appleinsider.com/articles/25/06/09/ios-26-is-here-with-liquid-glass-redesign-new-camera-and-apple-intelligence-promises?utm_medium=rss)
- - [Apple announces iOS 26 with Liquid Glass redesign](https://www.theverge.com/news/678305/apple-ios-26-wwdc-2025)
- - [Apple announces visionOS 26 for the Vision Pro](https://www.theverge.com/news/678882/apple-vision-pro-visionos-26-announced)<!-- TECH:END -->
+ - [Apple unveils iOS 26, using its new Liquid Glass design language with an updated lockscreen, Camera, Safari, Phone app, Messages, and more &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250609/p28#a250609p28)
+ - [WWDC 2025: all the news from Apple&amp;#8217;s annual developer conference](https://www.theverge.com/tech/681646/apple-wwdc-2025-news-rumors-ios-26)
+ - [Apple renames its OSes, shifting to a year-based system; the next iOS is iOS 26, alongside macOS Tahoe 26, iPadOS 26, watchOS 26, tvOS 26, and visionOS 26 &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250609/p27#a250609p27)
+ - [Apple announces &quot;studio-quality&quot; audio recording and camera control features for AirPods 4, AirPods 4 with ANC, and AirPods Pro 2 &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/250609/p26#a250609p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

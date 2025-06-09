@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple says macOS 26 Tahoe will be the last release of macOS that supports Intel Macs, with future macOS versions only available to Apple Silicon Macs &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/250609/p41#a250609p41)
  - [iOS 26’s new ‘adaptive power’ mode dials back performance to save battery](https://www.theverge.com/news/683797/ios-26s-new-adaptive-power-mode-dials-back-performance-to-save-battery)
+ - [Microsoft Just Dropped a Free AI Video Tool, And It&#39;s Wildly Easy to Use](https://www.cnet.com/tech/services-and-software/microsoft-just-dropped-a-free-ai-video-tool-and-its-wildly-easy-to-use/#ftag=CAD590a51e)
  - [You make all your iPhone icons clear in iOS 26 -- if you want to](https://appleinsider.com/articles/25/06/09/you-make-all-your-iphone-icons-clear-in-ios-26----if-you-want-to?utm_medium=rss)
- - [macOS Tahoe is the last big update for Intel Macs](https://appleinsider.com/articles/25/06/09/macos-tahoe-is-the-last-big-update-for-intel-macs?utm_medium=rss)
- - [Everything Apple Announced at WWDC 2025](https://www.wired.com/story/everything-apple-announced-at-wwdc-2025/)
- - [macOS 26 Tahoe Phone app greatly improves taking calls on your Mac](https://appleinsider.com/articles/25/06/09/macos-26-tahoe-phone-app-greatly-improves-taking-calls-on-your-mac?utm_medium=rss)<!-- TECH:END -->
+ - [iOS 26 Brings a New Liquid Glass Redesign, Sassy Look to iPhone](https://www.cnet.com/tech/services-and-software/every-new-feature-announced-for-iphone-ios-26-liquid-glass-lock-screen-updates/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

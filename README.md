@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iOS 26’s new ‘adaptive power’ mode dials back performance to save battery](https://www.theverge.com/news/683797/ios-26s-new-adaptive-power-mode-dials-back-performance-to-save-battery)
+ - [You make all your iPhone icons clear in iOS 26 -- if you want to](https://appleinsider.com/articles/25/06/09/you-make-all-your-iphone-icons-clear-in-ios-26----if-you-want-to?utm_medium=rss)
  - [macOS Tahoe is the last big update for Intel Macs](https://appleinsider.com/articles/25/06/09/macos-tahoe-is-the-last-big-update-for-intel-macs?utm_medium=rss)
  - [Everything Apple Announced at WWDC 2025](https://www.wired.com/story/everything-apple-announced-at-wwdc-2025/)
- - [macOS 26 Tahoe Phone app greatly improves taking calls on your Mac](https://appleinsider.com/articles/25/06/09/macos-26-tahoe-phone-app-greatly-improves-taking-calls-on-your-mac?utm_medium=rss)
- - [Be strong, let everyone else risk their devices and data with the new betas](https://appleinsider.com/articles/25/06/09/be-strong-let-everyone-else-risk-their-devices-and-data-with-the-new-betas?utm_medium=rss)
- - [The biggest changes coming to your iPhone with iOS 26](https://www.theverge.com/news/683738/apple-iphone-ios-26-changes-liquid-glass-wwdc-2025)<!-- TECH:END -->
+ - [macOS 26 Tahoe Phone app greatly improves taking calls on your Mac](https://appleinsider.com/articles/25/06/09/macos-26-tahoe-phone-app-greatly-improves-taking-calls-on-your-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

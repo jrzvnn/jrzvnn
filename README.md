@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chastity belt &lpar;Venice museum&rpar;](http://9gag.com/gag/aPAXErB)
- - 😝 [So this is how Sith lightsabers are made.](http://9gag.com/gag/aqyzonY)
- - 💣 [Bro let his intrusive thoughts win for exactly 2 seconds](http://9gag.com/gag/aRB2bej)
+ - 😝 [When the escape vehicle finds you](http://9gag.com/gag/aMVXo5V)
+ - 😝 [Bro let his intrusive thoughts win for exactly 2 seconds](http://9gag.com/gag/aRB2bej)
+ - 💣 [Well played](http://9gag.com/gag/aGy24Pz)
  - 😝 [The wait is over! Vote for your fav memes now at our very first Meme69 Award!](http://9gag.com/gag/apRAOW5)
- - 👉 [Flat Death Star theory](http://9gag.com/gag/a2vb3ed)<!-- MEMES:END -->
+ - 👉 [Chastity belt &lpar;Venice museum&rpar;](http://9gag.com/gag/aPAXErB)<!-- MEMES:END -->
 
 ---
 

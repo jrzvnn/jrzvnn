@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Disney closes its deal with Comcast to buy out NBCUniversal&#39;s 33% stake in Hulu, paying an additional $439M, after agreeing in 2023 to pay $8.61B &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/250609/p43#a250609p43)
- - [We&#39;ve Finally Reached the End of the Road For Intel Macs](https://www.wired.com/story/macos-tahoe-last-update-for-intel-macs/)
+ - [We&#39;ve Finally Reached the End of the Road for Intel Macs](https://www.wired.com/story/macos-tahoe-last-update-for-intel-macs/)
  - [The iPad Is a Full-On Computer Now](https://www.wired.com/story/the-ipad-is-a-full-on-computer-now/)
- - [The Dangerous Truth About the ‘Nonlethal’ Weapons Used Against LA Protesters](https://www.wired.com/story/non-lethal-weapons-la-protests/)
- - [Apple WWDC 2025: the 13 biggest announcements](https://www.theverge.com/news/682769/apple-wwdc-2025-biggest-announcements-ios-26)<!-- TECH:END -->
+ - [Apple WWDC 2025 Live: Liquid Glass Design Takes Over iOS 26, MacOS, CarPlay and More](https://www.cnet.com/tech/services-and-software/apple-wwdc-2025-live-keynote-news-annoucements-for-ios-mac/#ftag=CAD590a51e)
+ - [The Dangerous Truth About the ‘Nonlethal’ Weapons Used Against LA Protesters](https://www.wired.com/story/non-lethal-weapons-la-protests/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

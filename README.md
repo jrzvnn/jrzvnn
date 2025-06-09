@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple has again Sherlocked developers with Clipboard History](https://appleinsider.com/articles/25/06/09/apple-has-again-sherlocked-developers-with-clipboard-history?utm_medium=rss)
- - [Apple unveils Xcode 26, which will integrate ChatGPT for coding, doc generation, and more, and says devs can use API keys to add AI models from other providers &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250609/p38#a250609p38)
- - [The Trump Administration Is Turning ICE Raids and Protests Into Reality TV](https://www.wired.com/story/reality-tv-dr-phil-ice-raids-protests-los-angeles/)
+ - [Apple&#39;s first developer betas for the &#39;26&#39; generation OS update are here](https://appleinsider.com/articles/25/06/09/apples-first-developer-betas-for-the-26-generation-os-update-are-here?utm_medium=rss)
  - [iPadOS 26 has been revealed with new windowing, audio tools, background tasks](https://appleinsider.com/articles/25/06/09/ipados-26-has-been-revealed-with-glossy-redesign?utm_medium=rss)
- - [Logitech Muse VR stylus for Apple Vision Pro allows designers to measure precisely in 3D](https://appleinsider.com/articles/25/06/09/logitech-muse-vr-stylus-for-apple-vision-pro-allows-designers-to-measure-precisely-in-3d?utm_medium=rss)<!-- TECH:END -->
+ - [WWDC 2025: all the news from Apple&amp;#8217;s annual developer conference](https://www.theverge.com/tech/681646/apple-wwdc-2025-news-rumors-ios-26)
+ - [What iPhones and iPads will run iOS 26 &amp; iPadOS 26](https://appleinsider.com/articles/25/06/09/what-iphones-and-ipads-will-run-ios-26-ipados-26?utm_medium=rss)
+ - [Apple WWDC 2025: the 13 biggest announcements](https://www.theverge.com/news/682769/apple-wwdc-2025-biggest-announcements-ios-26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

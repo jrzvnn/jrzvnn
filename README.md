@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [macOS Tahoe gets Liquid Glass visual redesign &amp; major tools updates](https://appleinsider.com/articles/25/06/09/macos-tahoe-gets-liquid-glass-visual-redesign-major-tools-updates?utm_medium=rss)
  - [watchOS 26 gets a fresh design and new health-focused features for Apple Watch users](https://appleinsider.com/articles/25/06/09/watchos-26-gets-a-fresh-design-and-new-health-focused-features-for-apple-watch-users?utm_medium=rss)
- - [Apple says Visual Intelligence will now be able to search on-screen content in addition to analyzing real world objects, expanding on camera search &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/250609/p32#a250609p32)
- - [iPadOS 26 has been revealed with glossy redesign](https://appleinsider.com/articles/25/06/09/ipados-26-has-been-revealed-with-glossy-redesign?utm_medium=rss)
- - [Apple unveils a standalone Games app, offering games from the App Store, a dedicated section for Apple Arcade, and Game Center social features like leaderboards &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/250609/p31#a250609p31)<!-- TECH:END -->
+ - [AirPods get high-quality audio recording, camera remote features in iOS 26](https://appleinsider.com/articles/25/06/09/airpods-get-high-quality-audio-recording-camera-remote-features-in-ios-26?utm_medium=rss)
+ - [Apple says it plans to release iOS 26 and macOS Tahoe 26 in the fall; developer betas will be available today, with public betas next month &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250609/p36#a250609p36)
+ - [Apple’s new Games app lets you challenge your friends](https://www.theverge.com/news/678319/apple-games-app-wwdc-2025)
+ - [macOS Tahoe gets Liquid Glass visual redesign &amp; major tools updates](https://appleinsider.com/articles/25/06/09/macos-tahoe-gets-liquid-glass-visual-redesign-major-tools-updates?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

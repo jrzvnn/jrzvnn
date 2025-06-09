@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Disney closes its deal with Comcast to buy out NBCUniversal&#39;s 33% stake in Hulu, paying an additional $439M, after agreeing in 2023 to pay $8.61B &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/250609/p43#a250609p43)
+ - [We&#39;ve Finally Reached the End of the Road For Intel Macs](https://www.wired.com/story/macos-tahoe-last-update-for-intel-macs/)
  - [The iPad Is a Full-On Computer Now](https://www.wired.com/story/the-ipad-is-a-full-on-computer-now/)
  - [The Dangerous Truth About the ‘Nonlethal’ Weapons Used Against LA Protesters](https://www.wired.com/story/non-lethal-weapons-la-protests/)
- - [Apple WWDC 2025: the 13 biggest announcements](https://www.theverge.com/news/682769/apple-wwdc-2025-biggest-announcements-ios-26)
- - [Biggest Apple Announcements From WWDC 2025: Liquid Glass, iOS 26, New Camera App Look and Much More](https://www.cnet.com/tech/services-and-software/everything-announced-at-apple-wwdc-2025-new-ios-ipados-macos-visionos-tvos-watchos-updates/#ftag=CAD590a51e)
- - [Apple unveils several changes to CarPlay in iOS 26, including a Liquid Glass re-design, a dashboard for Live Activities, and broad support for widgets &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/250609/p42#a250609p42)<!-- TECH:END -->
+ - [Apple WWDC 2025: the 13 biggest announcements](https://www.theverge.com/news/682769/apple-wwdc-2025-biggest-announcements-ios-26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

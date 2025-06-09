@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [It&#39;s Time to Kill Siri](https://www.wired.com/story/its-time-to-kill-siri/)
+ - [Sources: Shein and Reliance plan to expand their Indian supplier base from 150 to 1,000 and sell India-made, Shein-branded clothes globally within 12 months &lpar;Reuters&rpar;](http://www.techmeme.com/250609/p11#a250609p11)
+ - [8 Best Gaming Laptops &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-gaming-laptops/)
  - [Documents: since mid-December 2024, YouTube told moderators to prioritize &quot;freedom of expression&quot; over potential harm, exempting political and culture videos &lpar;New York Times&rpar;](http://www.techmeme.com/250609/p10#a250609p10)
- - [Lab-grown salmon gets FDA approval](https://www.theverge.com/news/682621/wildtype-salmon-fda-approval-lab-grown-cultivated-fish)
- - [The Guardian partners with Cambridge University to launch Secure Messaging in its app, protecting sources by making messages indistinguishable from other data &lpar;Katharine Viner/The Guardian&rpar;](http://www.techmeme.com/250609/p9#a250609p9)
- - [I Joined Every Class Action Lawsuit I Could Find, and So Can You](https://www.wired.com/story/i-am-hunting-online-for-free-class-action-money-and-so-can-you/)
- - [Best Samsung Phone of 2025](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lab-grown salmon gets FDA approval](https://www.theverge.com/news/682621/wildtype-salmon-fda-approval-lab-grown-cultivated-fish)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

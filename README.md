@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A massive donation with a skeptical twist.](http://9gag.com/gag/aE0X9ex)
- - 😝 [Within 48hrs my GF broke up with me, and then one of my organs tried to kill me. I am currently in the ER by myself, awaiting an OR to open up...send the dankest memes you got. Thanks for the laughs. FU and see you tomorrow...Hopefully.](http://9gag.com/gag/a7oNRyb)
- - 💣 [Helping a little friend out of a tough spot](http://9gag.com/gag/aGy2Xj0)
+ - 😝 [When your joke sails right over their heads](http://9gag.com/gag/a5Qj0KO)
+ - 😝 [Bro let his intrusive thoughts win for exactly 2 seconds](http://9gag.com/gag/aRB2bej)
+ - 💣 [Karen gets disappointed](http://9gag.com/gag/a9yXo9o)
  - 😝 [The wait is over! Vote for your fav memes now at our very first Meme69 Award!](http://9gag.com/gag/apRAOW5)
- - 👉 [Mexican Henry Cavill Will Steal Your Girl](http://9gag.com/gag/axyPL92)<!-- MEMES:END -->
+ - 👉 [Some memories just stick around forever.](http://9gag.com/gag/aO81LA6)<!-- MEMES:END -->
 
 ---
 

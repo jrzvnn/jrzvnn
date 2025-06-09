@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple unveils a standalone Games app, offering games from the App Store, a dedicated section for Apple Arcade, and Game Center social features like leaderboards &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/250609/p31#a250609p31)
- - [Apple brings Live Translation to iMessage, phone calls, and more](https://appleinsider.com/articles/25/06/09/apple-brings-live-translation-to-imessage-phone-calls-and-more?utm_medium=rss)
- - [Apple&#39;s Games app is a dedicated place for iPhone gaming](https://appleinsider.com/articles/25/06/09/apples-games-app-is-a-dedicated-place-for-iphone-gaming?utm_medium=rss)
- - [iOS 26 is here with Liquid Glass redesign, new Camera, and Apple Intelligence promises](https://appleinsider.com/articles/25/06/09/ios-26-is-here-with-liquid-glass-redesign-new-camera-and-apple-intelligence-promises?utm_medium=rss)
- - [Apple unveils macOS 26 Tahoe, available to M-series models, with an overhauled design using Liquid Glass, a big update to Spotlight, new AI features, and more &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/250609/p30#a250609p30)<!-- TECH:END -->
+ - [macOS Tahoe gets Liquid Glass visual redesign &amp; major tools updates](https://appleinsider.com/articles/25/06/09/macos-tahoe-gets-liquid-glass-visual-redesign-major-tools-updates?utm_medium=rss)
+ - [watchOS 26 gets a fresh design and new health-focused features for Apple Watch users](https://appleinsider.com/articles/25/06/09/watchos-26-gets-a-fresh-design-and-new-health-focused-features-for-apple-watch-users?utm_medium=rss)
+ - [Apple says Visual Intelligence will now be able to search on-screen content in addition to analyzing real world objects, expanding on camera search &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/250609/p32#a250609p32)
+ - [iPadOS 26 has been revealed with glossy redesign](https://appleinsider.com/articles/25/06/09/ipados-26-has-been-revealed-with-glossy-redesign?utm_medium=rss)
+ - [Apple unveils a standalone Games app, offering games from the App Store, a dedicated section for Apple Arcade, and Game Center social features like leaderboards &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/250609/p31#a250609p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple has again Sherlocked developers with Clipboard History](https://appleinsider.com/articles/25/06/09/apple-has-again-sherlocked-developers-with-clipboard-history?utm_medium=rss)
+ - [Apple unveils Xcode 26, which will integrate ChatGPT for coding, doc generation, and more, and says devs can use API keys to add AI models from other providers &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250609/p38#a250609p38)
+ - [The Trump Administration Is Turning ICE Raids and Protests Into Reality TV](https://www.wired.com/story/reality-tv-dr-phil-ice-raids-protests-los-angeles/)
  - [iPadOS 26 has been revealed with new windowing, audio tools, background tasks](https://appleinsider.com/articles/25/06/09/ipados-26-has-been-revealed-with-glossy-redesign?utm_medium=rss)
- - [Logitech Muse VR stylus for Apple Vision Pro allows designers to measure precisely in 3D](https://appleinsider.com/articles/25/06/09/logitech-muse-vr-stylus-for-apple-vision-pro-allows-designers-to-measure-precisely-in-3d?utm_medium=rss)
- - [iPadOS 26 multitasking is more Mac-like with menubar, better pointer and more](https://appleinsider.com/articles/25/06/09/ipados-26-multitasking-is-more-mac-like-with-menubar-better-pointer-and-more?utm_medium=rss)
- - [Apple unveils an updated Spotlight in macOS Tahoe, letting users quickly take actions in apps from playing music to creating notes and files, similar to Raycast &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/250609/p37#a250609p37)
- - [PlayStation VR2 controller support comes to Apple Vision Pro with visionOS 26](https://appleinsider.com/articles/25/06/09/playstation-vr2-controller-support-comes-to-apple-vision-pro-with-visionos-26?utm_medium=rss)<!-- TECH:END -->
+ - [Logitech Muse VR stylus for Apple Vision Pro allows designers to measure precisely in 3D](https://appleinsider.com/articles/25/06/09/logitech-muse-vr-stylus-for-apple-vision-pro-allows-designers-to-measure-precisely-in-3d?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

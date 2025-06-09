@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well played](http://9gag.com/gag/aGy24Pz)
- - 😝 [And the Mother of the year award goes to...](http://9gag.com/gag/adB2DAQ)
- - 💣 [The not so bright idea](http://9gag.com/gag/avyvN05)
- - 😝 [So this is how Sith lightsabers are made.](http://9gag.com/gag/aqyzonY)
- - 👉 [Some memories just stick around forever.](http://9gag.com/gag/aO81LA6)<!-- MEMES:END -->
+ - 😝 [Chastity belt &lpar;Venice museum&rpar;](http://9gag.com/gag/aPAXErB)
+ - 😝 [Adding a little extra to your steak.](http://9gag.com/gag/aMVXM6R)
+ - 💣 [And the Mother of the year award goes to...](http://9gag.com/gag/adB2DAQ)
+ - 😝 [Flat Death Star theory](http://9gag.com/gag/a2vb3ed)
+ - 👉 [So this is how Sith lightsabers are made.](http://9gag.com/gag/aqyzonY)<!-- MEMES:END -->
 
 ---
 

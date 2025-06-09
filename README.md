@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [United Natural Foods, a grocery distributor to 30K+ stores in the US and Canada and Whole Foods&#39; main distributor, hit by a cyberattack, halting some operations &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/250609/p18#a250609p18)
+ - [WWDC 2025: all the news from Apple&amp;#8217;s annual developer conference](https://www.theverge.com/tech/681646/apple-wwdc-2025-news-rumors-ios-26)
+ - [Apple&#39;s Games subdomain surfaces just before WWDC 2025 keynote](https://appleinsider.com/articles/25/06/09/apples-games-subdomain-surfaces-just-before-wwdc-2025-keynote?utm_medium=rss)
  - [Q&amp;A with Taskrabbit CEO Ania Smith on the Ikea-owned platform&#39;s history, Taskers earning up to $50/hour, AI assistants, zero fees, high suburban use, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250609/p17#a250609p17)
- - [A new day of immigration protests is starting in Los Angeles](https://www.theverge.com/internet-censorship/682830/immigration-protests-los-angeles-national-guard-david-huerta-ice)
- - [Asus and Lenovo’s handhelds get price hike as Valve pauses some Steam Deck sales](https://www.theverge.com/pc-gaming/682594/asus-rog-ally-x-price-hike-legion-go-s-steam-deck-oled-supply)
- - [M4 MacBook Air returns to all-time best $799 price](https://appleinsider.com/articles/25/06/09/m4-macbook-air-returns-to-all-time-best-799-price?utm_medium=rss)
- - [YouTube has loosened its content moderation policies](https://www.theverge.com/news/682784/youtube-loosens-moderation-policies-videos-public-interest)<!-- TECH:END -->
+ - [Apple WWDC 2025 Live: The Keynote Could Bring New Changes to Apple&#39;s Devices](https://www.cnet.com/tech/services-and-software/apple-wwdc-2025-live-keynote-news-annoucements-for-ios-mac/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

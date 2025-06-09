@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba, Tencent, and other Chinese AI companies temporarily disabled chatbot functions like image recognition during China&#39;s annual college entrance exams &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250609/p6#a250609p6)
- - [Getty&#39;s copyright lawsuit against Stability AI begins at London&#39;s High Court, accusing it of unlawfully scraping millions of images; Stability denies the claims &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/250609/p5#a250609p5)
- - [Tesla just lost the head of its robotics division](https://www.theverge.com/news/682613/tesla-optimus-humanoid-robot-head-quit-left-milan-kovac)
- - [Maryland-based quantum computing company IonQ agrees to acquire Oxford Ionics, which spun out of Oxford University, in a $1.07B all-stock deal, closing in 2025 &lpar;Oliver Barnes/Financial Times&rpar;](http://www.techmeme.com/250609/p4#a250609p4)
- - [Is It iOS 26 Already? Apple&#39;s Possible OS Name Changes Explained](https://www.cnet.com/tech/services-and-software/apple-reportedly-changing-software-naming-ios-26-not-ios-19-is-next/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ultrahuman’s absurdly expensive Home monitor doesn’t do much](https://www.theverge.com/news/682618/ultrahuman-home-air-quality-light-noise-tracker-price)
+ - [The UK Financial Conduct Authority partners with Nvidia to launch a Supercharged Sandbox for financial companies to test AI tools, starting in October 2025 &lpar;Sam Tabahriti/Reuters&rpar;](http://www.techmeme.com/250609/p8#a250609p8)
+ - [Protesters against immigration raids in LA damaged and set several Waymo autonomous taxis on fire on Sunday; Waymo says it is working with law enforcement &lpar;Los Angeles Times&rpar;](http://www.techmeme.com/250609/p7#a250609p7)
+ - [Apple WWDC Live Blog: All the Updates, as They Happen](https://www.wired.com/live/apple-wwdc-2025-live-blog/)
+ - [Alibaba, Tencent, and other Chinese AI companies temporarily disabled chatbot functions like image recognition during China&#39;s annual college entrance exams &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250609/p6#a250609p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

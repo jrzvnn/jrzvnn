@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some memories just stick around forever.](http://9gag.com/gag/aO81LA6)
- - 😝 [Unexpected flag choice at the protest](http://9gag.com/gag/aKGYoXj)
- - 💣 [Lmao who made this](http://9gag.com/gag/a1mL306)
+ - 😝 [15 year old Smokey crossed the bridge today. If you have a sec, please let him know he was a good boy.](http://9gag.com/gag/aryBLP0)
+ - 😝 [Someone made a penny floor but messed up the spelling.](http://9gag.com/gag/aVv2AXv)
+ - 💣 [How to build Doors](http://9gag.com/gag/a6ZpRjA)
  - 😝 [The wait is over! Vote for your fav memes now at our very first Meme69 Award!](http://9gag.com/gag/apRAOW5)
- - 👉 [Flat Death Star theory](http://9gag.com/gag/a2vb3ed)<!-- MEMES:END -->
+ - 👉 [A massive donation with a skeptical twist.](http://9gag.com/gag/aE0X9ex)<!-- MEMES:END -->
 
 ---
 

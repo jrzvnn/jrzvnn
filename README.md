@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researcher brutecat finds a vulnerability that revealed the phone number linked to any Google account via brute forcing phone numbers; Google fixed the issue &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/250609/p15#a250609p15)
- - [Nintendo pushes back live-action Zelda movie to May 2027](https://www.theverge.com/news/682751/legend-of-zelda-live-action-movie-date-delay)
- - [Nintendo Switch 2 hands-on: after a few days, it is just a bigger, more powerful Switch, transferring games works smoothly, the new Joy-Cons are great, and more &lpar;Andrew Webster/The Verge&rpar;](http://www.techmeme.com/250609/p14#a250609p14)
- - [China shuts down AI tools during nationwide college exams](https://www.theverge.com/news/682737/china-shuts-down-ai-chatbots-exam-season)
- - [A Switch 2 YouTube app is coming &amp;#8216;soon&amp;#8217;](https://www.theverge.com/news/682679/nintendo-switch-2-youtube-app-coming-soon)<!-- TECH:END -->
+ - [YouTube has loosened its content moderation policies](https://www.theverge.com/news/682784/youtube-loosens-moderation-policies-videos-public-interest)
+ - [Play along with the WWDC 2025 bingo game](https://appleinsider.com/articles/25/06/09/play-along-with-the-wwdc-2025-bingo-game?utm_medium=rss)
+ - [One of the sleekest OLED gaming monitors around is 35 percent off](https://www.theverge.com/tech/682721/sony-m10s-oled-gaming-monitor-air-purifier-meta-ray-ban-switch-2-deal-sale)
+ - [Sources: ahead of US-China talks in London, President Trump gives US negotiators room to lift export controls on a wide variety of tech and other products &lpar;Lingling Wei/Wall Street Journal&rpar;](http://www.techmeme.com/250609/p16#a250609p16)
+ - [Researcher brutecat finds a vulnerability that revealed the phone number linked to any Google account via brute forcing phone numbers; Google fixed the issue &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/250609/p15#a250609p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

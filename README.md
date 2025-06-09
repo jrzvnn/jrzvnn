@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bra](http://9gag.com/gag/aLnXy85)
- - 😝 [When playing around takes you to a whole new country.](http://9gag.com/gag/aGy248X)
- - 💣 [The ultimate test of internet culture knowledge.](http://9gag.com/gag/abA2n1b)
+ - 😝 [The ultimate test of internet culture knowledge.](http://9gag.com/gag/abA2n1b)
+ - 😝 [Chastity belt &lpar;Venice museum&rpar;](http://9gag.com/gag/aPAXErB)
+ - 💣 [When playing around takes you to a whole new country.](http://9gag.com/gag/aGy248X)
  - 😝 [The wait is over! Vote for your fav memes now at our very first Meme69 Award!](http://9gag.com/gag/apRAOW5)
- - 👉 [Some memories just stick around forever.](http://9gag.com/gag/aO81LA6)<!-- MEMES:END -->
+ - 👉 [Flat Death Star theory](http://9gag.com/gag/a2vb3ed)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What ridiculous interview questions ahaha! Guy also had nice spot on replies](http://9gag.com/gag/aO81Xbr)
- - 😝 [Bees demonstrate their incredible hot ball defense against a hornet](http://9gag.com/gag/apRAOQn)
- - 💣 [Report 4](http://9gag.com/gag/aMVXo4R)
+ - 😝 [Pro gamer move](http://9gag.com/gag/aXP2yK2)
+ - 😝 [Gets the death star in the divorce](http://9gag.com/gag/aAyXobR)
+ - 💣 [Your typical day in summer](http://9gag.com/gag/a9yX9mW)
  - 😝 [The wait is over! Vote for your fav memes now at our very first Meme69 Award!](http://9gag.com/gag/apRAOW5)
- - 👉 [Chastity belt &lpar;Venice museum&rpar;](http://9gag.com/gag/aPAXErB)<!-- MEMES:END -->
+ - 👉 [What ridiculous interview questions ahaha! Guy also had nice spot on replies](http://9gag.com/gag/aO81Xbr)<!-- MEMES:END -->
 
 ---
 

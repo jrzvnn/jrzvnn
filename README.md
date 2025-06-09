@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Intelligence battery management may debut with iPhone 17 Air](https://appleinsider.com/articles/25/06/09/apple-intelligence-battery-management-may-debut-with-iphone-17-air?utm_medium=rss)
+ - [Nvidia CEO Jensen Huang warns the UK lacks the digital infrastructure needed to capitalize on AI despite &quot;incredible&quot; research talent, as PM Starmer pledges £1B &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250609/p12#a250609p12)
  - [It&#39;s Time to Kill Siri](https://www.wired.com/story/its-time-to-kill-siri/)
  - [Sources: Shein and Reliance plan to expand their Indian supplier base from 150 to 1,000 and sell India-made, Shein-branded clothes globally within 12 months &lpar;Reuters&rpar;](http://www.techmeme.com/250609/p11#a250609p11)
- - [8 Best Gaming Laptops &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-gaming-laptops/)
- - [Documents: since mid-December 2024, YouTube told moderators to prioritize &quot;freedom of expression&quot; over potential harm, exempting political and culture videos &lpar;New York Times&rpar;](http://www.techmeme.com/250609/p10#a250609p10)
- - [Lab-grown salmon gets FDA approval](https://www.theverge.com/news/682621/wildtype-salmon-fda-approval-lab-grown-cultivated-fish)<!-- TECH:END -->
+ - [8 Best Gaming Laptops &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-gaming-laptops/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

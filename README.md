@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [macOS Tahoe is the last big update for Intel Macs](https://appleinsider.com/articles/25/06/09/macos-tahoe-is-the-last-big-update-for-intel-macs?utm_medium=rss)
+ - [Everything Apple Announced at WWDC 2025](https://www.wired.com/story/everything-apple-announced-at-wwdc-2025/)
+ - [macOS 26 Tahoe Phone app greatly improves taking calls on your Mac](https://appleinsider.com/articles/25/06/09/macos-26-tahoe-phone-app-greatly-improves-taking-calls-on-your-mac?utm_medium=rss)
  - [Be strong, let everyone else risk their devices and data with the new betas](https://appleinsider.com/articles/25/06/09/be-strong-let-everyone-else-risk-their-devices-and-data-with-the-new-betas?utm_medium=rss)
- - [The biggest changes coming to your iPhone with iOS 26](https://www.theverge.com/news/683738/apple-iphone-ios-26-changes-liquid-glass-wwdc-2025)
- - [US prosecutors charge Iurii Gugnin, founder of US-based crypto payments service Evita Pay, with laundering $500M+, including to sanctioned Russian entities &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250609/p40#a250609p40)
- - [Retroid&amp;#8217;s $69 second screen is ready for your favorite DS games](https://www.theverge.com/news/683635/retroid-pocket-dual-screen-add-on-nintendo-ds-touchscreen)
- - [Microsoft Finally Gets Into the Handheld Game With ROG Xbox Ally](https://www.wired.com/story/microsoft-finally-gets-into-the-handheld-game-with-rog-xbox-ally/)<!-- TECH:END -->
+ - [The biggest changes coming to your iPhone with iOS 26](https://www.theverge.com/news/683738/apple-iphone-ios-26-changes-liquid-glass-wwdc-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

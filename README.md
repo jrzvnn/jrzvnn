@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple unveils a standalone Games app, offering games from the App Store, a dedicated section for Apple Arcade, and Game Center social features like leaderboards &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/250609/p31#a250609p31)
+ - [Apple brings Live Translation to iMessage, phone calls, and more](https://appleinsider.com/articles/25/06/09/apple-brings-live-translation-to-imessage-phone-calls-and-more?utm_medium=rss)
+ - [Apple&#39;s Games app is a dedicated place for iPhone gaming](https://appleinsider.com/articles/25/06/09/apples-games-app-is-a-dedicated-place-for-iphone-gaming?utm_medium=rss)
  - [iOS 26 is here with Liquid Glass redesign, new Camera, and Apple Intelligence promises](https://appleinsider.com/articles/25/06/09/ios-26-is-here-with-liquid-glass-redesign-new-camera-and-apple-intelligence-promises?utm_medium=rss)
- - [Apple unveils iOS 26, using its new Liquid Glass design language with an updated lockscreen, Camera, Safari, Phone app, Messages, and more &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250609/p28#a250609p28)
- - [WWDC 2025: all the news from Apple&amp;#8217;s annual developer conference](https://www.theverge.com/tech/681646/apple-wwdc-2025-news-rumors-ios-26)
- - [Apple renames its OSes, shifting to a year-based system; the next iOS is iOS 26, alongside macOS Tahoe 26, iPadOS 26, watchOS 26, tvOS 26, and visionOS 26 &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250609/p27#a250609p27)
- - [Apple announces &quot;studio-quality&quot; audio recording and camera control features for AirPods 4, AirPods 4 with ANC, and AirPods Pro 2 &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/250609/p26#a250609p26)<!-- TECH:END -->
+ - [Apple unveils macOS 26 Tahoe, available to M-series models, with an overhauled design using Liquid Glass, a big update to Spotlight, new AI features, and more &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/250609/p30#a250609p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

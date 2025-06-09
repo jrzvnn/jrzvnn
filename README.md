@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Taskrabbit CEO Ania Smith on the Ikea-owned platform&#39;s history, Taskers earning up to $50/hour, AI assistants, zero fees, high suburban use, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250609/p17#a250609p17)
  - [A new day of immigration protests is starting in Los Angeles](https://www.theverge.com/internet-censorship/682830/immigration-protests-los-angeles-national-guard-david-huerta-ice)
  - [Asus and Lenovo’s handhelds get price hike as Valve pauses some Steam Deck sales](https://www.theverge.com/pc-gaming/682594/asus-rog-ally-x-price-hike-legion-go-s-steam-deck-oled-supply)
  - [M4 MacBook Air returns to all-time best $799 price](https://appleinsider.com/articles/25/06/09/m4-macbook-air-returns-to-all-time-best-799-price?utm_medium=rss)
- - [YouTube has loosened its content moderation policies](https://www.theverge.com/news/682784/youtube-loosens-moderation-policies-videos-public-interest)
- - [Play along with the WWDC 2025 bingo game](https://appleinsider.com/articles/25/06/09/play-along-with-the-wwdc-2025-bingo-game?utm_medium=rss)<!-- TECH:END -->
+ - [YouTube has loosened its content moderation policies](https://www.theverge.com/news/682784/youtube-loosens-moderation-policies-videos-public-interest)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

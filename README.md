@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A live blog of WWDC, where OS redesigns, new naming conventions, and more are expected, after failing to deliver on Apple Intelligence, unveiled at WWDC 2024 &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/250609/p19#a250609p19)
  - [WWDC 2025: all the news from Apple&amp;#8217;s annual developer conference](https://www.theverge.com/tech/681646/apple-wwdc-2025-news-rumors-ios-26)
+ - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)
  - [WWDC 2025 live blog: a fresh new look at iOS, macOS, and more](https://www.theverge.com/apple-event/677993/wwdc-2025-live-blog-apple-event-ios-ai)
- - [Saying Apple is in trouble before WWDC is a time-honored and always wrong tradition](https://appleinsider.com/articles/25/06/09/saying-apple-is-in-trouble-before-wwdc-is-a-time-honored-and-always-wrong-tradition?utm_medium=rss)
- - [United Natural Foods, a grocery distributor to 30K+ stores in the US and Canada and Whole Foods&#39; main distributor, hit by a cyberattack, halting some operations &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/250609/p18#a250609p18)
- - [Apple&#39;s Games subdomain surfaces just before WWDC 2025 keynote](https://appleinsider.com/articles/25/06/09/apples-games-subdomain-surfaces-just-before-wwdc-2025-keynote?utm_medium=rss)<!-- TECH:END -->
+ - [Apple WWDC 2025 Live: What Big Changes Are Coming To Apple Devices?](https://www.cnet.com/tech/services-and-software/apple-wwdc-2025-live-keynote-news-annoucements-for-ios-mac/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

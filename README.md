@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can now try Microsoft’s new Start menu for Windows 11](https://www.theverge.com/news/683818/microsoft-windows-11-new-start-menu-testing-dev-channel)
+ - [Apple punts on Siri updates as it struggles to keep up in the AI race](https://www.theverge.com/apple/682984/apple-punts-on-siri-updates-as-it-struggles-to-keep-up-in-the-ai-race)
  - [Apple says macOS 26 Tahoe will be the last release of macOS that supports Intel Macs, with future macOS versions only available to Apple Silicon Macs &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/250609/p41#a250609p41)
  - [iOS 26’s new ‘adaptive power’ mode dials back performance to save battery](https://www.theverge.com/news/683797/ios-26s-new-adaptive-power-mode-dials-back-performance-to-save-battery)
- - [Microsoft Just Dropped a Free AI Video Tool, And It&#39;s Wildly Easy to Use](https://www.cnet.com/tech/services-and-software/microsoft-just-dropped-a-free-ai-video-tool-and-its-wildly-easy-to-use/#ftag=CAD590a51e)
- - [You make all your iPhone icons clear in iOS 26 -- if you want to](https://appleinsider.com/articles/25/06/09/you-make-all-your-iphone-icons-clear-in-ios-26----if-you-want-to?utm_medium=rss)
- - [iOS 26 Brings a New Liquid Glass Redesign, Sassy Look to iPhone](https://www.cnet.com/tech/services-and-software/every-new-feature-announced-for-iphone-ios-26-liquid-glass-lock-screen-updates/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft Just Dropped a Free AI Video Tool, And It&#39;s Wildly Easy to Use](https://www.cnet.com/tech/services-and-software/microsoft-just-dropped-a-free-ai-video-tool-and-its-wildly-easy-to-use/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

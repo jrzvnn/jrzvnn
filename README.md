@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple finally brings Journal to iPad for better writing, sketching &amp; reflection](https://appleinsider.com/articles/25/06/09/apple-finally-brings-journal-to-ipad-for-better-writing-sketching-reflection?utm_medium=rss)
+ - [visionOS 26 brings better organization, anchored widgets, &amp; more to Apple Vision Pro](https://appleinsider.com/articles/25/06/09/visionos-26-brings-better-organization-anchored-widgets-more-to-apple-vision-pro?utm_medium=rss)
+ - [Not all Apple Watches will get watchOS 26&#39;s best new features](https://appleinsider.com/articles/25/06/09/not-all-apple-watches-will-get-watchos-26s-best-new-features?utm_medium=rss)
  - [Apple&#39;s first developer betas for the &#39;26&#39; generation OS update are here](https://appleinsider.com/articles/25/06/09/apples-first-developer-betas-for-the-26-generation-os-update-are-here?utm_medium=rss)
- - [iPadOS 26 has been revealed with new windowing, audio tools, background tasks](https://appleinsider.com/articles/25/06/09/ipados-26-has-been-revealed-with-glossy-redesign?utm_medium=rss)
- - [WWDC 2025: all the news from Apple&amp;#8217;s annual developer conference](https://www.theverge.com/tech/681646/apple-wwdc-2025-news-rumors-ios-26)
- - [What iPhones and iPads will run iOS 26 &amp; iPadOS 26](https://appleinsider.com/articles/25/06/09/what-iphones-and-ipads-will-run-ios-26-ipados-26?utm_medium=rss)
- - [Apple WWDC 2025: the 13 biggest announcements](https://www.theverge.com/news/682769/apple-wwdc-2025-biggest-announcements-ios-26)<!-- TECH:END -->
+ - [iPadOS 26 has been revealed with new windowing, audio tools, background tasks](https://appleinsider.com/articles/25/06/09/ipados-26-has-been-revealed-with-glossy-redesign?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

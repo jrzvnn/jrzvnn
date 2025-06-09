@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researcher brutecat finds a vulnerability that revealed the phone number linked to any Google account via brute forcing phone numbers; Google fixed the issue &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/250609/p15#a250609p15)
+ - [Nintendo pushes back live-action Zelda movie to May 2027](https://www.theverge.com/news/682751/legend-of-zelda-live-action-movie-date-delay)
+ - [Nintendo Switch 2 hands-on: after a few days, it is just a bigger, more powerful Switch, transferring games works smoothly, the new Joy-Cons are great, and more &lpar;Andrew Webster/The Verge&rpar;](http://www.techmeme.com/250609/p14#a250609p14)
  - [China shuts down AI tools during nationwide college exams](https://www.theverge.com/news/682737/china-shuts-down-ai-chatbots-exam-season)
- - [A Switch 2 YouTube app is coming &amp;#8216;soon&amp;#8217;](https://www.theverge.com/news/682679/nintendo-switch-2-youtube-app-coming-soon)
- - [Taskrabbit CEO Ania Smith isn’t afraid of AI robots replacing human labor](https://www.theverge.com/decoder-podcast-with-nilay-patel/679470/taskrabbit-ceo-ania-smith-labor-gig-economy-work-ai-automation)
- - [A Researcher Figured Out How to Reveal Any Phone Number Linked to a Google Account](https://www.wired.com/story/a-researcher-figured-out-how-to-reveal-any-phone-number-linked-to-a-google-account/)
- - [A weekend with the Nintendo Switch 2](https://www.theverge.com/nintendo/682661/nintendo-switch-2-early-hands-on-mario-kart-world)<!-- TECH:END -->
+ - [A Switch 2 YouTube app is coming &amp;#8216;soon&amp;#8217;](https://www.theverge.com/news/682679/nintendo-switch-2-youtube-app-coming-soon)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

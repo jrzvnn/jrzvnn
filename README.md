@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the Mac games Apple teased at WWDC 25](https://appleinsider.com/articles/25/06/09/all-the-mac-games-apple-teased-at-wwdc-25?utm_medium=rss)
- - [Revamped iOS 26 Camera and Photos app prioritize speed and convenience](https://appleinsider.com/articles/25/06/09/revamped-ios-26-camera-and-photos-app-priortize-speed-and-convenience-in-ios-26?utm_medium=rss)
- - [Apple brings Live Translation to iMessage, phone calls, and more](https://appleinsider.com/articles/25/06/09/apple-brings-live-translation-to-imessage-phone-calls-and-more?utm_medium=rss)
- - [Files on iPadOS 26 doesn&#39;t suck anymore](https://appleinsider.com/articles/25/06/09/files-on-ipados-26-doesnt-suck-anymore?utm_medium=rss)
- - [Apple’s Liquid Glass redesign doesn’t look like much](https://www.theverge.com/apple/682833/apples-liquid-glass-redesign-doesnt-look-like-much)<!-- TECH:END -->
+ - [Amazon plans to invest $20B+ in Pennsylvania to expand data center infrastructure, less than a week after announcing it would invest $10B in North Carolina &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/250609/p39#a250609p39)
+ - [Predator: Killer of Killers is a short and sweet joyride through the franchise&amp;#8217;s secret past](https://www.theverge.com/movie-reviews/682832/predator-killer-of-killers-review-hulu)
+ - [Roku is testing a new look](https://www.theverge.com/news/681661/roku-homepage-redesign-test-personalization)
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
+ - [All the Mac games Apple teased at WWDC 25](https://appleinsider.com/articles/25/06/09/all-the-mac-games-apple-teased-at-wwdc-25?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

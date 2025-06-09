@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Call me maybe](http://9gag.com/gag/an7DPwo)
- - 😝 [And the Mother of the year award goes to...](http://9gag.com/gag/adB2DAQ)
- - 💣 [Adding a little extra to your steak.](http://9gag.com/gag/aMVXM6R)
+ - 😝 [Apparently you can learn to speak chicken and command them.](http://9gag.com/gag/aryBYZK)
+ - 😝 [When your joke sails right over their heads](http://9gag.com/gag/a5Qj0KO)
+ - 💣 [When playing around takes you to a whole new country.](http://9gag.com/gag/aGy248X)
  - 😝 [The wait is over! Vote for your fav memes now at our very first Meme69 Award!](http://9gag.com/gag/apRAOW5)
- - 👉 [Flat Death Star theory](http://9gag.com/gag/a2vb3ed)<!-- MEMES:END -->
+ - 👉 [That mouse is about to have a very bad time.](http://9gag.com/gag/ajPKp1w)<!-- MEMES:END -->
 
 ---
 

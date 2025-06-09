@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon plans to invest $20B+ in Pennsylvania to expand data center infrastructure, less than a week after announcing it would invest $10B in North Carolina &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/250609/p39#a250609p39)
- - [Predator: Killer of Killers is a short and sweet joyride through the franchise&amp;#8217;s secret past](https://www.theverge.com/movie-reviews/682832/predator-killer-of-killers-review-hulu)
- - [Roku is testing a new look](https://www.theverge.com/news/681661/roku-homepage-redesign-test-personalization)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [All the Mac games Apple teased at WWDC 25](https://appleinsider.com/articles/25/06/09/all-the-mac-games-apple-teased-at-wwdc-25?utm_medium=rss)<!-- TECH:END -->
+ - [Be strong, let everyone else risk their devices and data with the new betas](https://appleinsider.com/articles/25/06/09/be-strong-let-everyone-else-risk-their-devices-and-data-with-the-new-betas?utm_medium=rss)
+ - [The biggest changes coming to your iPhone with iOS 26](https://www.theverge.com/news/683738/apple-iphone-ios-26-changes-liquid-glass-wwdc-2025)
+ - [US prosecutors charge Iurii Gugnin, founder of US-based crypto payments service Evita Pay, with laundering $500M+, including to sanctioned Russian entities &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250609/p40#a250609p40)
+ - [Retroid&amp;#8217;s $69 second screen is ready for your favorite DS games](https://www.theverge.com/news/683635/retroid-pocket-dual-screen-add-on-nintendo-ds-touchscreen)
+ - [Microsoft Finally Gets Into the Handheld Game With ROG Xbox Ally](https://www.wired.com/story/microsoft-finally-gets-into-the-handheld-game-with-rog-xbox-ally/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unexpected flag choice at the protest](http://9gag.com/gag/aKGYoXj)
- - 😝 [Cleaning electronics with liquid? Yes, it is possible with specialized fluids.](http://9gag.com/gag/agm2zAW)
- - 💣 [Karen gets disappointed](http://9gag.com/gag/a9yXo9o)
+ - 😝 [Apparently you can learn to speak chicken and command them.](http://9gag.com/gag/aryBYZK)
+ - 😝 [Know your Metal](http://9gag.com/gag/ayNQjw8)
+ - 💣 [Someone made a penny floor but messed up the spelling.](http://9gag.com/gag/aVv2AXv)
  - 😝 [The wait is over! Vote for your fav memes now at our very first Meme69 Award!](http://9gag.com/gag/apRAOW5)
- - 👉 [Chastity belt &lpar;Venice museum&rpar;](http://9gag.com/gag/aPAXErB)<!-- MEMES:END -->
+ - 👉 [After months of fighting and not once wanting to give up, my mom &lpar;at the age of 52&rpar; succumbed to her Stage 3 Pancreatic Cancer. I&#39;m so broken I don&#39;t feel anything today. She was everything to me, in a non-Norman Bates way. I&#39;ll be so lost with her gone.](http://9gag.com/gag/aVv2AYM)<!-- MEMES:END -->
 
 ---
 

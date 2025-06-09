@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Getty&#39;s copyright lawsuit against Stability AI begins at London&#39;s High Court, accusing it of unlawfully scraping millions of images; Stability denies the claims &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/250609/p5#a250609p5)
  - [Tesla just lost the head of its robotics division](https://www.theverge.com/news/682613/tesla-optimus-humanoid-robot-head-quit-left-milan-kovac)
  - [Maryland-based quantum computing company IonQ agrees to acquire Oxford Ionics, which spun out of Oxford University, in a $1.07B all-stock deal, closing in 2025 &lpar;Oliver Barnes/Financial Times&rpar;](http://www.techmeme.com/250609/p4#a250609p4)
  - [Qualcomm agrees to acquire UK-listed Alphawave, which makes high-speed chip and connectivity tech for data centers, for $2.4B in cash, set to close in Q1 2026 &lpar;Amy Thomson/Bloomberg&rpar;](http://www.techmeme.com/250609/p3#a250609p3)
- - [An interview with Duolingo CEO Luis von Ahn on criticism after Duolingo went &quot;AI-first&quot;, parasocial interactions with &quot;personality&quot;-infused chatbots, and more &lpar;Emma Jacobs/Financial Times&rpar;](http://www.techmeme.com/250609/p2#a250609p2)
- - [Apple WWDC 2025 Live: The Keynote Could Bring New Changes to Apple&#39;s Devices](https://www.cnet.com/tech/services-and-software/apple-wwdc-2025-live-keynote-news-annoucements-for-ios-mac/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An interview with Duolingo CEO Luis von Ahn on criticism after Duolingo went &quot;AI-first&quot;, parasocial interactions with &quot;personality&quot;-infused chatbots, and more &lpar;Emma Jacobs/Financial Times&rpar;](http://www.techmeme.com/250609/p2#a250609p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Within 48hrs my GF broke up with me, and then one of my organs tried to kill me. I am currently in the ER by myself, awaiting an OR to open up...send the dankest memes you got. Thanks for the laughs. FU and see you tomorrow...Hopefully.](http://9gag.com/gag/a7oNRyb)
- - 😝 [Mexican Henry Cavill Will Steal Your Girl](http://9gag.com/gag/axyPL92)
- - 💣 [Helping a little friend out of a tough spot](http://9gag.com/gag/aGy2Xj0)
+ - 😝 [The not so bright idea](http://9gag.com/gag/avyvN05)
+ - 😝 [Dumbest Driver](http://9gag.com/gag/a34W6Rm)
+ - 💣 [When playing around takes you to a whole new country.](http://9gag.com/gag/aGy248X)
  - 😝 [The wait is over! Vote for your fav memes now at our very first Meme69 Award!](http://9gag.com/gag/apRAOW5)
- - 👉 [Japanese Waitress Dance](http://9gag.com/gag/aByXejD)<!-- MEMES:END -->
+ - 👉 [Cleaning electronics with liquid? Yes, it is possible with specialized fluids.](http://9gag.com/gag/agm2zAW)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [watchOS 26 gets a fresh design and new health-focused features for Apple Watch users](https://appleinsider.com/articles/25/06/09/watchos-26-gets-a-fresh-design-and-new-health-focused-features-for-apple-watch-users?utm_medium=rss)
- - [AirPods get high-quality audio recording, camera remote features in iOS 26](https://appleinsider.com/articles/25/06/09/airpods-get-high-quality-audio-recording-camera-remote-features-in-ios-26?utm_medium=rss)
- - [Apple says it plans to release iOS 26 and macOS Tahoe 26 in the fall; developer betas will be available today, with public betas next month &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250609/p36#a250609p36)
- - [Apple’s new Games app lets you challenge your friends](https://www.theverge.com/news/678319/apple-games-app-wwdc-2025)
- - [macOS Tahoe gets Liquid Glass visual redesign &amp; major tools updates](https://appleinsider.com/articles/25/06/09/macos-tahoe-gets-liquid-glass-visual-redesign-major-tools-updates?utm_medium=rss)<!-- TECH:END -->
+ - [iPadOS 26 has been revealed with new windowing, audio tools, background tasks](https://appleinsider.com/articles/25/06/09/ipados-26-has-been-revealed-with-glossy-redesign?utm_medium=rss)
+ - [Logitech Muse VR stylus for Apple Vision Pro allows designers to measure precisely in 3D](https://appleinsider.com/articles/25/06/09/logitech-muse-vr-stylus-for-apple-vision-pro-allows-designers-to-measure-precisely-in-3d?utm_medium=rss)
+ - [iPadOS 26 multitasking is more Mac-like with menubar, better pointer and more](https://appleinsider.com/articles/25/06/09/ipados-26-multitasking-is-more-mac-like-with-menubar-better-pointer-and-more?utm_medium=rss)
+ - [Apple unveils an updated Spotlight in macOS Tahoe, letting users quickly take actions in apps from playing music to creating notes and files, similar to Raycast &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/250609/p37#a250609p37)
+ - [PlayStation VR2 controller support comes to Apple Vision Pro with visionOS 26](https://appleinsider.com/articles/25/06/09/playstation-vr2-controller-support-comes-to-apple-vision-pro-with-visionos-26?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -169,7 +169,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Chastity belt &lpar;Venice museum&rpar;](http://9gag.com/gag/aPAXErB)
  - 😝 [When the lime hits different](http://9gag.com/gag/aXP26pP)
  - 💣 [The not so bright idea](http://9gag.com/gag/avyvN05)
- - 😝 [The wait is over! Vote for your fav memes now at our very first Meme69 Award!](http://9gag.com/gag/a2vbeeO)
+ - 😝 [The wait is over! Vote for your fav memes now at our very first Meme69 Award!](http://9gag.com/gag/apRAOW5)
  - 👉 [Unexpected flag choice at the protest](http://9gag.com/gag/aKGYoXj)<!-- MEMES:END -->
 
 ---

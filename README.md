@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mexican Henry Cavill Will Steal Your Girl](http://9gag.com/gag/axyPL92)
  - 😝 [Helping a little friend out of a tough spot](http://9gag.com/gag/aGy2Xj0)
- - 💣 [Japanese Waitress Dance](http://9gag.com/gag/aByXejD)
+ - 😝 [What ridiculous interview questions ahaha! Guy also had nice spot on replies](http://9gag.com/gag/aO81Xbr)
+ - 💣 [Know your Metal](http://9gag.com/gag/ayNQjw8)
  - 😝 [The wait is over! Vote for your fav memes now at our very first Meme69 Award!](http://9gag.com/gag/apRAOW5)
- - 👉 [Know your Metal](http://9gag.com/gag/ayNQjw8)<!-- MEMES:END -->
+ - 👉 [Japanese Waitress Dance](http://9gag.com/gag/aByXejD)<!-- MEMES:END -->
 
 ---
 

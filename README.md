@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Well played](http://9gag.com/gag/aGy24Pz)
  - 😝 [And the Mother of the year award goes to...](http://9gag.com/gag/adB2DAQ)
- - 😝 [The not so bright idea](http://9gag.com/gag/avyvN05)
  - 💣 [Call me maybe](http://9gag.com/gag/an7DPwo)
  - 😝 [The wait is over! Vote for your fav memes now at our very first Meme69 Award!](http://9gag.com/gag/apRAOW5)
- - 👉 [Some memories just stick around forever.](http://9gag.com/gag/aO81LA6)<!-- MEMES:END -->
+ - 👉 [The ultimate test of internet culture knowledge.](http://9gag.com/gag/abA2n1b)<!-- MEMES:END -->
 
 ---
 

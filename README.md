@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Documents: since mid-December 2024, YouTube told moderators to prioritize &quot;freedom of expression&quot; over potential harm, exempting political and culture videos &lpar;New York Times&rpar;](http://www.techmeme.com/250609/p10#a250609p10)
+ - [Lab-grown salmon gets FDA approval](https://www.theverge.com/news/682621/wildtype-salmon-fda-approval-lab-grown-cultivated-fish)
  - [The Guardian partners with Cambridge University to launch Secure Messaging in its app, protecting sources by making messages indistinguishable from other data &lpar;Katharine Viner/The Guardian&rpar;](http://www.techmeme.com/250609/p9#a250609p9)
  - [I Joined Every Class Action Lawsuit I Could Find, and So Can You](https://www.wired.com/story/i-am-hunting-online-for-free-class-action-money-and-so-can-you/)
- - [Best Samsung Phone of 2025](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)
- - [Ultrahuman’s absurdly expensive Home monitor doesn’t do much](https://www.theverge.com/news/682618/ultrahuman-home-air-quality-light-noise-tracker-price)
- - [The UK Financial Conduct Authority partners with Nvidia to launch a Supercharged Sandbox for financial companies to test AI tools, starting in October 2025 &lpar;Sam Tabahriti/Reuters&rpar;](http://www.techmeme.com/250609/p8#a250609p8)<!-- TECH:END -->
+ - [Best Samsung Phone of 2025](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

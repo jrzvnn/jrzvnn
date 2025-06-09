@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well played](http://9gag.com/gag/aGy24Pz)
- - 😝 [Bro let his intrusive thoughts win for exactly 2 seconds](http://9gag.com/gag/aRB2bej)
- - 💣 [What ridiculous interview questions ahaha! Guy also had nice spot on replies](http://9gag.com/gag/aO81Xbr)
+ - 😝 [Artist priority](http://9gag.com/gag/adB2EYV)
+ - 😝 [Bees demonstrate their incredible hot ball defense against a hornet](http://9gag.com/gag/apRAOQn)
+ - 💣 [Chastity belt &lpar;Venice museum&rpar;](http://9gag.com/gag/aPAXErB)
  - 😝 [The wait is over! Vote for your fav memes now at our very first Meme69 Award!](http://9gag.com/gag/apRAOW5)
- - 👉 [Call me maybe](http://9gag.com/gag/an7DPwo)<!-- MEMES:END -->
+ - 👉 [Apparently you can learn to speak chicken and command them.](http://9gag.com/gag/aryBYZK)<!-- MEMES:END -->
 
 ---
 

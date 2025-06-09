@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro let his intrusive thoughts win for exactly 2 seconds](http://9gag.com/gag/aRB2bej)
- - 😝 [Unexpected flag choice at the protest](http://9gag.com/gag/aKGYoXj)
- - 💣 [Cleaning electronics with liquid? Yes, it is possible with specialized fluids.](http://9gag.com/gag/agm2zAW)
- - 😝 [Never throw sodium in the water](http://9gag.com/gag/amoV4Y6)
+ - 😝 [Well played](http://9gag.com/gag/aGy24Pz)
+ - 😝 [And the Mother of the year award goes to...](http://9gag.com/gag/adB2DAQ)
+ - 💣 [The not so bright idea](http://9gag.com/gag/avyvN05)
+ - 😝 [So this is how Sith lightsabers are made.](http://9gag.com/gag/aqyzonY)
  - 👉 [Some memories just stick around forever.](http://9gag.com/gag/aO81LA6)<!-- MEMES:END -->
 
 ---

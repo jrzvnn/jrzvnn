@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Asus and Lenovo’s handhelds get price hike as Valve pauses some Steam Deck sales](https://www.theverge.com/pc-gaming/682594/asus-rog-ally-x-price-hike-legion-go-s-steam-deck-oled-supply)
+ - [M4 MacBook Air returns to all-time best $799 price](https://appleinsider.com/articles/25/06/09/m4-macbook-air-returns-to-all-time-best-799-price?utm_medium=rss)
  - [YouTube has loosened its content moderation policies](https://www.theverge.com/news/682784/youtube-loosens-moderation-policies-videos-public-interest)
  - [Play along with the WWDC 2025 bingo game](https://appleinsider.com/articles/25/06/09/play-along-with-the-wwdc-2025-bingo-game?utm_medium=rss)
- - [One of the sleekest OLED gaming monitors around is 35 percent off](https://www.theverge.com/tech/682721/sony-m10s-oled-gaming-monitor-air-purifier-meta-ray-ban-switch-2-deal-sale)
- - [Sources: ahead of US-China talks in London, President Trump gives US negotiators room to lift export controls on a wide variety of tech and other products &lpar;Lingling Wei/Wall Street Journal&rpar;](http://www.techmeme.com/250609/p16#a250609p16)
- - [Researcher brutecat finds a vulnerability that revealed the phone number linked to any Google account via brute forcing phone numbers; Google fixed the issue &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/250609/p15#a250609p15)<!-- TECH:END -->
+ - [One of the sleekest OLED gaming monitors around is 35 percent off](https://www.theverge.com/tech/682721/sony-m10s-oled-gaming-monitor-air-purifier-meta-ray-ban-switch-2-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple mixes retro and modern in WWDC swag bag](https://appleinsider.com/articles/25/06/09/apple-mixes-retro-and-modern-in-wwdc-swag-bag?utm_medium=rss)
+ - [Typhur Dome 2 Review &lpar;2025&rpar;: Fast and Bulbous](https://www.wired.com/review/typhur-dome-2-air-fryer/)
+ - [WWDC smart home wishlist, hands on with Find My devices, &amp; Nanoleaf CEO Gimmy Chu on HomeKit Insider](https://appleinsider.com/articles/25/06/09/wwdc-smart-home-wishlist-hands-on-with-find-my-devices-nanoleaf-ceo-gimmy-chu-on-homekit-insider?utm_medium=rss)
  - [Warner Bros. Discovery is splitting into two companies](https://www.theverge.com/news/682633/warner-bros-discovery-splitting-company)
- - [AI-powered Apple Music renovation will probably generate playlists for you](https://appleinsider.com/articles/25/06/09/ai-powered-apple-music-renovation-will-probably-generate-playlists-for-you?utm_medium=rss)
- - [Apple goes retro with exclusive merchandise for WWDC attendees](https://appleinsider.com/articles/25/06/09/apple-goes-retro-with-exclusive-merchandise-for-wwdc-attendees?utm_medium=rss)
- - [Fairphone 6 leak reveals more modular design](https://www.theverge.com/news/682627/fairphone-6-leak-modular-design-accessories-repairable)<!-- TECH:END -->
+ - [The Cadillac Optiq-V is GM’s first EV with built-in Tesla Supercharger support](https://www.theverge.com/news/681339/cadillac-optiq-v-nacs-supercharger-specs-price)
+ - [iOS 19 and macOS 16 placeholders are gone, iOS 26 is imminent](https://appleinsider.com/articles/25/06/09/ios-19-and-macos-16-placeholders-are-gone-ios-26-is-imminent?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

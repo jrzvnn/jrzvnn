@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Within 48hrs my GF broke up with me, and then one of my organs tried to kill me. I am currently in the ER by myself, awaiting an OR to open up...send the dankest memes you got. Thanks for the laughs. FU and see you tomorrow...Hopefully.](http://9gag.com/gag/a7oNRyb)
- - 😝 [Helping a little friend out of a tough spot](http://9gag.com/gag/aGy2Xj0)
- - 💣 [Mexican Henry Cavill Will Steal Your Girl](http://9gag.com/gag/axyPL92)
+ - 😝 [Mexican Henry Cavill Will Steal Your Girl](http://9gag.com/gag/axyPL92)
+ - 💣 [Helping a little friend out of a tough spot](http://9gag.com/gag/aGy2Xj0)
  - 😝 [The wait is over! Vote for your fav memes now at our very first Meme69 Award!](http://9gag.com/gag/apRAOW5)
  - 👉 [Japanese Waitress Dance](http://9gag.com/gag/aByXejD)<!-- MEMES:END -->
 

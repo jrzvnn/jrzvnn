@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple CarPlay is getting widgets and message tapbacks this fall with iOS 26](https://www.theverge.com/news/683644/carplay-apple-ios-26-widgets-live-activities-tapbacks-wwdc-25)
- - [Sorry Docker: macOS 26 adds native support for Linux containers](https://appleinsider.com/articles/25/06/09/sorry-docker-macos-26-adds-native-support-for-linux-containers?utm_medium=rss)
- - [What Macs will be able to run macOS Tahoe](https://appleinsider.com/articles/25/06/09/what-macs-will-be-able-to-run-macos-tahoe?utm_medium=rss)
- - [Apple finally brings Journal to iPad &amp; Mac for better writing, sketching &amp; reflection](https://appleinsider.com/articles/25/06/09/apple-finally-brings-journal-to-ipad-for-better-writing-sketching-reflection?utm_medium=rss)
- - [Apple WWDC 2025 Live: Liquid Glass Design Takes Over iOS 26, MacOS, CarPlay and More](https://www.cnet.com/tech/services-and-software/apple-wwdc-2025-live-keynote-news-annoucements-for-ios-mac/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [All the Mac games Apple teased at WWDC 25](https://appleinsider.com/articles/25/06/09/all-the-mac-games-apple-teased-at-wwdc-25?utm_medium=rss)
+ - [Revamped iOS 26 Camera and Photos app prioritize speed and convenience](https://appleinsider.com/articles/25/06/09/revamped-ios-26-camera-and-photos-app-priortize-speed-and-convenience-in-ios-26?utm_medium=rss)
+ - [Apple brings Live Translation to iMessage, phone calls, and more](https://appleinsider.com/articles/25/06/09/apple-brings-live-translation-to-imessage-phone-calls-and-more?utm_medium=rss)
+ - [Files on iPadOS 26 doesn&#39;t suck anymore](https://appleinsider.com/articles/25/06/09/files-on-ipados-26-doesnt-suck-anymore?utm_medium=rss)
+ - [Apple’s Liquid Glass redesign doesn’t look like much](https://www.theverge.com/apple/682833/apples-liquid-glass-redesign-doesnt-look-like-much)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

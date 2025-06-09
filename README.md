@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chastity belt &lpar;Venice museum&rpar;](http://9gag.com/gag/aPAXErB)
- - 😝 [Adding a little extra to your steak.](http://9gag.com/gag/aMVXM6R)
- - 💣 [And the Mother of the year award goes to...](http://9gag.com/gag/adB2DAQ)
- - 😝 [Flat Death Star theory](http://9gag.com/gag/a2vb3ed)
- - 👉 [So this is how Sith lightsabers are made.](http://9gag.com/gag/aqyzonY)<!-- MEMES:END -->
+ - 😝 [Someone made a penny floor but messed up the spelling.](http://9gag.com/gag/aVv2AXv)
+ - 😝 [15 year old Smokey crossed the bridge today. If you have a sec, please let him know he was a good boy.](http://9gag.com/gag/aryBLP0)
+ - 💣 [After months of fighting and not once wanting to give up, my mom &lpar;at the age of 52&rpar; succumbed to her Stage 3 Pancreatic Cancer. I&#39;m so broken I don&#39;t feel anything today. She was everything to me, in a non-Norman Bates way. I&#39;ll be so lost with her gone.](http://9gag.com/gag/aVv2AYM)
+ - 😝 [How to build Doors](http://9gag.com/gag/a6ZpRjA)
+ - 👉 [A massive donation with a skeptical twist.](http://9gag.com/gag/aE0X9ex)<!-- MEMES:END -->
 
 ---
 

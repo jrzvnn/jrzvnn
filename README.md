@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch Apple’s WWDC 2025 keynote](https://www.theverge.com/news/680467/apple-wwdc-2025-keynote-livestream-ios-macos-how-to-watch)
- - [Typhur Dome 2 Review &lpar;2025&rpar;: Fast and Bulbous](https://www.wired.com/review/typhur-dome-2-air-fryer/)
- - [WWDC smart home wishlist, hands on with Find My devices, &amp; Nanoleaf CEO Gimmy Chu on HomeKit Insider](https://appleinsider.com/articles/25/06/09/wwdc-smart-home-wishlist-hands-on-with-find-my-devices-nanoleaf-ceo-gimmy-chu-on-homekit-insider?utm_medium=rss)
- - [Warner Bros. Discovery is splitting into two companies](https://www.theverge.com/news/682633/warner-bros-discovery-splitting-company)
- - [The Cadillac Optiq-V is GM’s first EV with built-in Tesla Supercharger support](https://www.theverge.com/news/681339/cadillac-optiq-v-nacs-supercharger-specs-price)<!-- TECH:END -->
+ - [China shuts down AI tools during nationwide college exams](https://www.theverge.com/news/682737/china-shuts-down-ai-chatbots-exam-season)
+ - [A Switch 2 YouTube app is coming &amp;#8216;soon&amp;#8217;](https://www.theverge.com/news/682679/nintendo-switch-2-youtube-app-coming-soon)
+ - [Taskrabbit CEO Ania Smith isn’t afraid of AI robots replacing human labor](https://www.theverge.com/decoder-podcast-with-nilay-patel/679470/taskrabbit-ceo-ania-smith-labor-gig-economy-work-ai-automation)
+ - [A Researcher Figured Out How to Reveal Any Phone Number Linked to a Google Account](https://www.wired.com/story/a-researcher-figured-out-how-to-reveal-any-phone-number-linked-to-a-google-account/)
+ - [A weekend with the Nintendo Switch 2](https://www.theverge.com/nintendo/682661/nintendo-switch-2-early-hands-on-mario-kart-world)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

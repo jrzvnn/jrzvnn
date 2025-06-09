@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple finally brings Journal to iPad for better writing, sketching &amp; reflection](https://appleinsider.com/articles/25/06/09/apple-finally-brings-journal-to-ipad-for-better-writing-sketching-reflection?utm_medium=rss)
+ - [What Macs will be able to run macOS Tahoe](https://appleinsider.com/articles/25/06/09/what-macs-will-be-able-to-run-macos-tahoe?utm_medium=rss)
+ - [Apple finally brings Journal to iPad &amp; Mac for better writing, sketching &amp; reflection](https://appleinsider.com/articles/25/06/09/apple-finally-brings-journal-to-ipad-for-better-writing-sketching-reflection?utm_medium=rss)
+ - [Apple WWDC 2025 Live: Liquid Glass Design Takes Over iOS 26, MacOS, CarPlay and More](https://www.cnet.com/tech/services-and-software/apple-wwdc-2025-live-keynote-news-annoucements-for-ios-mac/#ftag=CAD590a51e)
  - [visionOS 26 brings better organization, anchored widgets, &amp; more to Apple Vision Pro](https://appleinsider.com/articles/25/06/09/visionos-26-brings-better-organization-anchored-widgets-more-to-apple-vision-pro?utm_medium=rss)
- - [Not all Apple Watches will get watchOS 26&#39;s best new features](https://appleinsider.com/articles/25/06/09/not-all-apple-watches-will-get-watchos-26s-best-new-features?utm_medium=rss)
- - [Apple&#39;s first developer betas for the &#39;26&#39; generation OS update are here](https://appleinsider.com/articles/25/06/09/apples-first-developer-betas-for-the-26-generation-os-update-are-here?utm_medium=rss)
- - [iPadOS 26 has been revealed with new windowing, audio tools, background tasks](https://appleinsider.com/articles/25/06/09/ipados-26-has-been-revealed-with-glossy-redesign?utm_medium=rss)<!-- TECH:END -->
+ - [Not all Apple Watches will get watchOS 26&#39;s best new features](https://appleinsider.com/articles/25/06/09/not-all-apple-watches-will-get-watchos-26s-best-new-features?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

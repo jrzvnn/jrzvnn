@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to watch Apple’s WWDC 2025 keynote](https://www.theverge.com/news/680467/apple-wwdc-2025-keynote-livestream-ios-macos-how-to-watch)
  - [Typhur Dome 2 Review &lpar;2025&rpar;: Fast and Bulbous](https://www.wired.com/review/typhur-dome-2-air-fryer/)
  - [WWDC smart home wishlist, hands on with Find My devices, &amp; Nanoleaf CEO Gimmy Chu on HomeKit Insider](https://appleinsider.com/articles/25/06/09/wwdc-smart-home-wishlist-hands-on-with-find-my-devices-nanoleaf-ceo-gimmy-chu-on-homekit-insider?utm_medium=rss)
  - [Warner Bros. Discovery is splitting into two companies](https://www.theverge.com/news/682633/warner-bros-discovery-splitting-company)
- - [The Cadillac Optiq-V is GM’s first EV with built-in Tesla Supercharger support](https://www.theverge.com/news/681339/cadillac-optiq-v-nacs-supercharger-specs-price)
- - [iOS 19 and macOS 16 placeholders are gone, iOS 26 is imminent](https://appleinsider.com/articles/25/06/09/ios-19-and-macos-16-placeholders-are-gone-ios-26-is-imminent?utm_medium=rss)<!-- TECH:END -->
+ - [The Cadillac Optiq-V is GM’s first EV with built-in Tesla Supercharger support](https://www.theverge.com/news/681339/cadillac-optiq-v-nacs-supercharger-specs-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

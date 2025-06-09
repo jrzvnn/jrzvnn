@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Report 4](http://9gag.com/gag/aMVXo4R)
  - 😝 [Apparently you can learn to speak chicken and command them.](http://9gag.com/gag/aryBYZK)
- - 😝 [And the Mother of the year award goes to...](http://9gag.com/gag/adB2DAQ)
- - 💣 [Some memories just stick around forever.](http://9gag.com/gag/aO81LA6)
+ - 💣 [Bees demonstrate their incredible hot ball defense against a hornet](http://9gag.com/gag/apRAOQn)
  - 😝 [The wait is over! Vote for your fav memes now at our very first Meme69 Award!](http://9gag.com/gag/apRAOW5)
- - 👉 [Call me maybe](http://9gag.com/gag/an7DPwo)<!-- MEMES:END -->
+ - 👉 [Reporting from the front lines comes with risks](http://9gag.com/gag/aAyXo7E)<!-- MEMES:END -->
 
 ---
 

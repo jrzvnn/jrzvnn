@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chastity belt &lpar;Venice museum&rpar;](http://9gag.com/gag/aPAXErB)
- - 😝 [When the lime hits different](http://9gag.com/gag/aXP26pP)
- - 💣 [The not so bright idea](http://9gag.com/gag/avyvN05)
+ - 😝 [Some memories just stick around forever.](http://9gag.com/gag/aO81LA6)
+ - 😝 [Unexpected flag choice at the protest](http://9gag.com/gag/aKGYoXj)
+ - 💣 [Lmao who made this](http://9gag.com/gag/a1mL306)
  - 😝 [The wait is over! Vote for your fav memes now at our very first Meme69 Award!](http://9gag.com/gag/apRAOW5)
- - 👉 [Unexpected flag choice at the protest](http://9gag.com/gag/aKGYoXj)<!-- MEMES:END -->
+ - 👉 [Flat Death Star theory](http://9gag.com/gag/a2vb3ed)<!-- MEMES:END -->
 
 ---
 

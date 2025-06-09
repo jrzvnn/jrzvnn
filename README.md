@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple CarPlay is getting widgets and message tapbacks this fall with iOS 26](https://www.theverge.com/news/683644/carplay-apple-ios-26-widgets-live-activities-tapbacks-wwdc-25)
+ - [Sorry Docker: macOS 26 adds native support for Linux containers](https://appleinsider.com/articles/25/06/09/sorry-docker-macos-26-adds-native-support-for-linux-containers?utm_medium=rss)
  - [What Macs will be able to run macOS Tahoe](https://appleinsider.com/articles/25/06/09/what-macs-will-be-able-to-run-macos-tahoe?utm_medium=rss)
  - [Apple finally brings Journal to iPad &amp; Mac for better writing, sketching &amp; reflection](https://appleinsider.com/articles/25/06/09/apple-finally-brings-journal-to-ipad-for-better-writing-sketching-reflection?utm_medium=rss)
- - [Apple WWDC 2025 Live: Liquid Glass Design Takes Over iOS 26, MacOS, CarPlay and More](https://www.cnet.com/tech/services-and-software/apple-wwdc-2025-live-keynote-news-annoucements-for-ios-mac/#ftag=CAD590a51e)
- - [visionOS 26 brings better organization, anchored widgets, &amp; more to Apple Vision Pro](https://appleinsider.com/articles/25/06/09/visionos-26-brings-better-organization-anchored-widgets-more-to-apple-vision-pro?utm_medium=rss)
- - [Not all Apple Watches will get watchOS 26&#39;s best new features](https://appleinsider.com/articles/25/06/09/not-all-apple-watches-will-get-watchos-26s-best-new-features?utm_medium=rss)<!-- TECH:END -->
+ - [Apple WWDC 2025 Live: Liquid Glass Design Takes Over iOS 26, MacOS, CarPlay and More](https://www.cnet.com/tech/services-and-software/apple-wwdc-2025-live-keynote-news-annoucements-for-ios-mac/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Guardian partners with Cambridge University to launch Secure Messaging in its app, protecting sources by making messages indistinguishable from other data &lpar;Katharine Viner/The Guardian&rpar;](http://www.techmeme.com/250609/p9#a250609p9)
+ - [I Joined Every Class Action Lawsuit I Could Find, and So Can You](https://www.wired.com/story/i-am-hunting-online-for-free-class-action-money-and-so-can-you/)
+ - [Best Samsung Phone of 2025](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)
  - [Ultrahuman’s absurdly expensive Home monitor doesn’t do much](https://www.theverge.com/news/682618/ultrahuman-home-air-quality-light-noise-tracker-price)
- - [The UK Financial Conduct Authority partners with Nvidia to launch a Supercharged Sandbox for financial companies to test AI tools, starting in October 2025 &lpar;Sam Tabahriti/Reuters&rpar;](http://www.techmeme.com/250609/p8#a250609p8)
- - [Protesters against immigration raids in LA damaged and set several Waymo autonomous taxis on fire on Sunday; Waymo says it is working with law enforcement &lpar;Los Angeles Times&rpar;](http://www.techmeme.com/250609/p7#a250609p7)
- - [Apple WWDC Live Blog: All the Updates, as They Happen](https://www.wired.com/live/apple-wwdc-2025-live-blog/)
- - [Alibaba, Tencent, and other Chinese AI companies temporarily disabled chatbot functions like image recognition during China&#39;s annual college entrance exams &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250609/p6#a250609p6)<!-- TECH:END -->
+ - [The UK Financial Conduct Authority partners with Nvidia to launch a Supercharged Sandbox for financial companies to test AI tools, starting in October 2025 &lpar;Sam Tabahriti/Reuters&rpar;](http://www.techmeme.com/250609/p8#a250609p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

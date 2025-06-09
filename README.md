@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The not so bright idea](http://9gag.com/gag/avyvN05)
- - 😝 [Adding a little extra to your steak.](http://9gag.com/gag/aMVXM6R)
- - 💣 [Cleaning electronics with liquid? Yes, it is possible with specialized fluids.](http://9gag.com/gag/agm2zAW)
+ - 😝 [X-ray of extreme sport athlete Travis Pastrana](http://9gag.com/gag/aKGYoG6)
+ - 😝 [The ultimate test of internet culture knowledge.](http://9gag.com/gag/abA2n1b)
+ - 💣 [Adding a little extra to your steak.](http://9gag.com/gag/aMVXM6R)
  - 😝 [The wait is over! Vote for your fav memes now at our very first Meme69 Award!](http://9gag.com/gag/apRAOW5)
- - 👉 [Attempting to uphold the bro code under pressure.](http://9gag.com/gag/awy4W5x)<!-- MEMES:END -->
+ - 👉 [Some memories just stick around forever.](http://9gag.com/gag/aO81LA6)<!-- MEMES:END -->
 
 ---
 

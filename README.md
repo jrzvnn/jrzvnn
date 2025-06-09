@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Report 4](http://9gag.com/gag/aMVXo4R)
- - 😝 [Apparently you can learn to speak chicken and command them.](http://9gag.com/gag/aryBYZK)
- - 💣 [Bees demonstrate their incredible hot ball defense against a hornet](http://9gag.com/gag/apRAOQn)
+ - 😝 [What ridiculous interview questions ahaha! Guy also had nice spot on replies](http://9gag.com/gag/aO81Xbr)
+ - 😝 [Bees demonstrate their incredible hot ball defense against a hornet](http://9gag.com/gag/apRAOQn)
+ - 💣 [Report 4](http://9gag.com/gag/aMVXo4R)
  - 😝 [The wait is over! Vote for your fav memes now at our very first Meme69 Award!](http://9gag.com/gag/apRAOW5)
- - 👉 [Reporting from the front lines comes with risks](http://9gag.com/gag/aAyXo7E)<!-- MEMES:END -->
+ - 👉 [Chastity belt &lpar;Venice museum&rpar;](http://9gag.com/gag/aPAXErB)<!-- MEMES:END -->
 
 ---
 

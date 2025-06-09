@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A live blog of WWDC, where OS redesigns, new naming conventions, and more are expected, after failing to deliver on Apple Intelligence, unveiled at WWDC 2024 &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/250609/p19#a250609p19)
- - [WWDC 2025: all the news from Apple&amp;#8217;s annual developer conference](https://www.theverge.com/tech/681646/apple-wwdc-2025-news-rumors-ios-26)
- - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)
- - [WWDC 2025 live blog: a fresh new look at iOS, macOS, and more](https://www.theverge.com/apple-event/677993/wwdc-2025-live-blog-apple-event-ios-ai)
- - [Apple WWDC 2025 Live: What Big Changes Are Coming To Apple Devices?](https://www.cnet.com/tech/services-and-software/apple-wwdc-2025-live-keynote-news-annoucements-for-ios-mac/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple unveils a Liquid Glass design language across its platforms, adding transparency and glass shine effects to Apple&#39;s in-app interfaces &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250609/p22#a250609p22)
+ - [Apple announces the Foundation Models framework, giving developers direct access to its on-device AI models for the first time &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/250609/p23#a250609p23)
+ - [iOS 26 is here with Liquid Glass redesign, new Camera, and Apple Intelligence promises](https://appleinsider.com/articles/25/06/09/ios-26-is-here-with-liquid-glass-redesign-new-camera-and-apple-intelligence-promises?utm_medium=rss)
+ - [Apple announces iOS 26 with Liquid Glass redesign](https://www.theverge.com/news/678305/apple-ios-26-wwdc-2025)
+ - [Apple announces visionOS 26 for the Vision Pro](https://www.theverge.com/news/678882/apple-vision-pro-visionos-26-announced)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

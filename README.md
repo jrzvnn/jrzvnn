@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bees demonstrate their incredible hot ball defense against a hornet](http://9gag.com/gag/apRAOQn)
- - 😝 [The not so bright idea](http://9gag.com/gag/avyvN05)
+ - 😝 [Show us your best cursed images!](http://9gag.com/gag/a4PqX61)
+ - 😝 [Chastity belt &lpar;Venice museum&rpar;](http://9gag.com/gag/aPAXErB)
  - 💣 [Boys on tour have different priorities](http://9gag.com/gag/a6ZpPKL)
  - 😝 [Asking the real questions](http://9gag.com/gag/avyvYRX)
  - 👉 [Pure satisfaction](http://9gag.com/gag/a4Pqe7d)<!-- MEMES:END -->

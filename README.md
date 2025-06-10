@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Online trading platform Webull will now allow US retail investors to bet on the future prices of bitcoin and ethereum through a partnership with Kalshi &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250610/p34#a250610p34)
+ - [Why Can&#39;t I Get a Job Right Now? 9 Expert Tips to Stand Out to Recruiters](https://www.cnet.com/personal-finance/banking/why-cant-i-get-a-job-right-now-9-expert-tips-to-stand-out-to-recruiters/#ftag=CAD590a51e)
+ - [iPadOS 26: Here Are All the New Features Coming to Your iPad](https://www.cnet.com/tech/services-and-software/ipados-26-here-are-all-the-new-features-coming-to-your-ipad/#ftag=CAD590a51e)
  - [London-based Maze, which uses AI agents to stop cloud security breaches, launches with $31M in total funding, including a $25M Series A led by Theory Ventures &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250610/p33#a250610p33)
- - [Android 16 is here, but its big redesign isn’t ready](https://www.theverge.com/news/684994/android-16-material-3-expressive-redesign-not-ready)
- - [Google is offering employee buyouts in Search and other orgs](https://www.theverge.com/google/684966/google-buyouts-search-org)
- - [More than a million people now have Alexa Plus](https://www.theverge.com/news/684560/amazon-alexa-plus-one-million-users-coming-summer-2025)<!-- TECH:END -->
+ - [Starlink Doubled Its Speed In Two Years. It Still Doesn’t Meet the FCC’s Minimum](https://www.cnet.com/home/internet/starlink-doubled-its-speed-in-two-years-it-still-doesnt-meet-the-fccs-minimum/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

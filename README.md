@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Intelligence Is Gambling on Privacy as a Killer Feature](https://www.wired.com/story/apple-intelligence-is-gambling-on-privacy-as-a-killer-feature/)
+ - [Sam Altman claims an &quot;average&quot; ChatGPT query uses about 0.34 watt-hours and about 0.000085 gallons of water, or &quot;roughly one fifteenth of a teaspoon&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250610/p37#a250610p37)
  - [Sam Altman says &quot;intelligence and energy&quot;, the &quot;limiters on human progress&quot;, will be abundant in the 2030s, and superintelligence should be widely distributed &lpar;Sam Altman&rpar;](http://www.techmeme.com/250610/p36#a250610p36)
  - [Sam Altman claims an average ChatGPT query uses ‘roughly one fifteenth of a teaspoon’ of water](https://www.theverge.com/news/685045/sam-altman-average-chatgpt-energy-water)
- - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
- - [Xcode 26 beta code hints at cheaper Apple Vision Pro model](https://appleinsider.com/articles/25/06/10/xcode-26-beta-code-hints-at-cheaper-apple-vision-pro-model?utm_medium=rss)
- - [Amazon says over 1M people now have access to Alexa+, up from &quot;hundreds of thousands&quot; in May, and plans to &quot;make it even more broadly available over the summer&quot; &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250610/p35#a250610p35)<!-- TECH:END -->
+ - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

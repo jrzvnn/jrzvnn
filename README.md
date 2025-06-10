@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The potato test is the only way to be sure.](http://9gag.com/gag/aMVXRqG)
- - 😝 [What power!](http://9gag.com/gag/aE0XLOe)
- - 💣 [The incredible blue light inside a nuclear reactor core is mesmerizing.](http://9gag.com/gag/ae92vy5)
- - 😝 [Pure satisfaction](http://9gag.com/gag/a4Pqe7d)
- - 👉 [Gamer Girlfriends](http://9gag.com/gag/a0eEm4n)<!-- MEMES:END -->
+ - 😝 [Why are bugs attracted to light](http://9gag.com/gag/aKGY0bO)
+ - 😝 [Make it make sense.](http://9gag.com/gag/aYQ18B7)
+ - 💣 [Pure satisfaction](http://9gag.com/gag/a4Pqe7d)
+ - 😝 [Gamer Girlfriends](http://9gag.com/gag/a0eEm4n)
+ - 👉 [Hard to believe](http://9gag.com/gag/aXP2Dgz)<!-- MEMES:END -->
 
 ---
 

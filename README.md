@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Taking the express route to the parking lot](http://9gag.com/gag/aVv2pyw)
- - 😝 [That did not go as planned](http://9gag.com/gag/aZZ2eB3)
- - 💣 [Bois be...](http://9gag.com/gag/aMVXg6x)
- - 😝 [What happened](http://9gag.com/gag/ajPKzwx)
- - 👉 [Asking the real questions](http://9gag.com/gag/avyvYRX)<!-- MEMES:END -->
+ - 😝 [When internet tutorials meet reality](http://9gag.com/gag/aVv2Aw8)
+ - 😝 [OSHA Approved This Post](http://9gag.com/gag/apRAWXW)
+ - 💣 [What power!](http://9gag.com/gag/aE0XLOe)
+ - 😝 [Flat Death Star theory](http://9gag.com/gag/a2vb3ed)
+ - 👉 [Bees demonstrate their incredible hot ball defense against a hornet](http://9gag.com/gag/apRAOQn)<!-- MEMES:END -->
 
 ---
 

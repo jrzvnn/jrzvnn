@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple punts on Siri updates as it struggles to keep up in the AI race](https://www.theverge.com/apple/682984/apple-punts-on-siri-updates-as-it-struggles-to-keep-up-in-the-ai-race)
  - [Apple Intelligence Is Gambling on Privacy as a Killer Feature](https://www.wired.com/story/apple-intelligence-is-gambling-on-privacy-as-a-killer-feature/)
  - [Sam Altman claims an &quot;average&quot; ChatGPT query uses about 0.34 watt-hours and about 0.000085 gallons of water, or &quot;roughly one fifteenth of a teaspoon&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250610/p37#a250610p37)
  - [Sam Altman says &quot;intelligence and energy&quot;, the &quot;limiters on human progress&quot;, will be abundant in the 2030s, and superintelligence should be widely distributed &lpar;Sam Altman&rpar;](http://www.techmeme.com/250610/p36#a250610p36)
- - [Sam Altman claims an average ChatGPT query uses ‘roughly one fifteenth of a teaspoon’ of water](https://www.theverge.com/news/685045/sam-altman-average-chatgpt-energy-water)
- - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)<!-- TECH:END -->
+ - [Sam Altman claims an average ChatGPT query uses ‘roughly one fifteenth of a teaspoon’ of water](https://www.theverge.com/news/685045/sam-altman-average-chatgpt-energy-water)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

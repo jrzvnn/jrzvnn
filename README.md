@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Show us your best cursed images!](http://9gag.com/gag/a4PqX61)
- - 😝 [Chastity belt &lpar;Venice museum&rpar;](http://9gag.com/gag/aPAXErB)
- - 💣 [Boys on tour have different priorities](http://9gag.com/gag/a6ZpPKL)
  - 😝 [Asking the real questions](http://9gag.com/gag/avyvYRX)
- - 👉 [Pure satisfaction](http://9gag.com/gag/a4Pqe7d)<!-- MEMES:END -->
+ - 😝 [The not so bright idea](http://9gag.com/gag/avyvN05)
+ - 💣 [Chastity belt &lpar;Venice museum&rpar;](http://9gag.com/gag/aPAXErB)
+ - 😝 [What ridiculous interview questions ahaha! Guy also had nice spot on replies](http://9gag.com/gag/aO81Xbr)
+ - 👉 [Flat Death Star theory](http://9gag.com/gag/a2vb3ed)<!-- MEMES:END -->
 
 ---
 

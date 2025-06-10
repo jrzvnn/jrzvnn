@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [French policeman used talent to find illegaly bought sheep, waiting for the A\u00efd slaughter.](http://9gag.com/gag/aByXq1Z)
- - 😝 [Show us your best cursed images!](http://9gag.com/gag/a4PqX61)
- - 💣 [Hard to believe](http://9gag.com/gag/aXP2Dgz)
- - 😝 [Asking the real questions](http://9gag.com/gag/avyvYRX)
- - 👉 [The not so bright idea](http://9gag.com/gag/avyvN05)<!-- MEMES:END -->
+ - 😝 [The 1904 Olympic marathon was an absolute disasterclass in organization.](http://9gag.com/gag/aNDR6yr)
+ - 😝 [Twitter is not](http://9gag.com/gag/aNDR6NG)
+ - 💣 [Asking the real questions](http://9gag.com/gag/avyvYRX)
+ - 😝 [What ridiculous interview questions ahaha! Guy also had nice spot on replies](http://9gag.com/gag/aO81Xbr)
+ - 👉 [Travel tips for every kind of traveler, and one for the rest of us.](http://9gag.com/gag/apRAO8W)<!-- MEMES:END -->
 
 ---
 

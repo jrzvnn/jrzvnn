@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 46 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now &lpar;June 2025&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
+ - [A Political Battle Is Brewing Over Data Centers](https://www.wired.com/story/a-political-battle-is-brewing-over-data-centers/)
  - [Visual Intelligence in iOS 26 makes screenshots useful, not just saved](https://appleinsider.com/articles/25/06/10/visual-intelligence-in-ios-26-makes-screenshots-useful-not-just-saved?utm_medium=rss)
  - [OpenAI announces an 80% price drop for its o3 model and a &quot;flex&quot; mode for synchronous processing that charges $5 for input and $20 for output per million tokens &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250610/p28#a250610p28)
- - [The Top New Features in Apple’s iOS 26 and iPadOS 26](https://www.wired.com/story/apple-ios-26-and-ipados-26-top-new-features/)
- - [England vs. Senegal: Livestream International Soccer Free From Anywhere](https://www.cnet.com/tech/services-and-software/england-vs-senegal-livestream-international-soccer-free-from-anywhere/#ftag=CAD590a51e)
- - [Anyone Can Now Access the Largest Space Map Ever Created, Here&#39;s How](https://www.cnet.com/science/space/anyone-can-now-access-the-largest-space-map-ever-created-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Top New Features in Apple’s iOS 26 and iPadOS 26](https://www.wired.com/story/apple-ios-26-and-ipados-26-top-new-features/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Repost 6](http://9gag.com/gag/aAyX8OR)
- - 😝 [Chastity belt &lpar;Venice museum&rpar;](http://9gag.com/gag/aPAXErB)
- - 💣 [Star Wars be like](http://9gag.com/gag/aMVXgAX)
+ - 😝 [No argument needed here......](http://9gag.com/gag/awy463B)
+ - 😝 [Grave Digger putting on a show](http://9gag.com/gag/aKGYQZN)
+ - 💣 [Flat Death Star theory](http://9gag.com/gag/a2vb3ed)
  - 😝 [The wait is over! Vote for your fav memes now at our very first Meme69 Award!](http://9gag.com/gag/apRAOW5)
- - 👉 [Hard to believe](http://9gag.com/gag/aXP2Dgz)<!-- MEMES:END -->
+ - 👉 [Tell me you&#39;re retarded without telling me you&#39;re retarded.](http://9gag.com/gag/a0eEAdv)<!-- MEMES:END -->
 
 ---
 

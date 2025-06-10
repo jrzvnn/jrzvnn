@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: OpenAI plans to add Google Cloud to meet its growing needs for computing capacity, a surprising collaboration; source: the deal was finalized in May &lpar;Reuters&rpar;](http://www.techmeme.com/250610/p17#a250610p17)
+ - [New iOS 26 setting prevents audio automatically jumping from AirPods to car speakers](https://appleinsider.com/articles/25/06/10/new-ios-26-setting-prevents-audio-automatically-jumping-from-airpods-to-car-speakers?utm_medium=rss)
  - [Passthrough audio is finally on the way to Apple TV, iPhone, and more](https://appleinsider.com/articles/25/06/10/passthrough-audio-is-finally-on-the-way-to-apple-tv-iphone-and-more?utm_medium=rss)
  - [Cisco unveils updated networking and security products, including a new generation of switches with 10x performance, to boost AI networks and cut bottlenecks &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250610/p16#a250610p16)
- - [Hang on, did the iPad just become a computer?](https://www.theverge.com/ipad/684229/ipados-26-hands-on-multitasking-mac)
- - [Splatoon is getting a Switch 2 spinoff, and a big Splatoon 3 update](https://www.theverge.com/news/684199/splatoon-raiders-switch-2-spinoff)
- - [Investigation: Russian network engineer Viktor Vedeneev controls thousands of Telegram IP addresses and maintains its servers; his companies have FSB links &lpar;Roman Anin/OCCRP&rpar;](http://www.techmeme.com/250610/p15#a250610p15)<!-- TECH:END -->
+ - [Hang on, did the iPad just become a computer?](https://www.theverge.com/ipad/684229/ipados-26-hands-on-multitasking-mac)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

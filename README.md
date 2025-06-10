@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Boys on tour have different priorities](http://9gag.com/gag/a6ZpPKL)
- - 😝 [Show us your best cursed images!](http://9gag.com/gag/a4PqX61)
- - 💣 [Bees demonstrate their incredible hot ball defense against a hornet](http://9gag.com/gag/apRAOQn)
- - 😝 [In Hungary, if you are part of a visiting CPAC delegation, you have priority over an ambulance using emergency signals.](http://9gag.com/gag/aYQ13BO)
- - 👉 [The not so bright idea](http://9gag.com/gag/avyvN05)<!-- MEMES:END -->
+ - 😝 [Asking the real questions](http://9gag.com/gag/avyvYRX)
+ - 😝 [The 1904 Olympic marathon was an absolute disasterclass in organization.](http://9gag.com/gag/aNDR6yr)
+ - 💣 [Twitter is not](http://9gag.com/gag/aNDR6NG)
+ - 😝 [What ridiculous interview questions ahaha! Guy also had nice spot on replies](http://9gag.com/gag/aO81Xbr)
+ - 👉 [Travel tips for every kind of traveler, and one for the rest of us.](http://9gag.com/gag/apRAO8W)<!-- MEMES:END -->
 
 ---
 

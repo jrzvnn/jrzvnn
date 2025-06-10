@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [French policeman used talent to find illegaly bought sheep, waiting for the A\u00efd slaughter.](http://9gag.com/gag/aByXq1Z)
  - 😝 [Show us your best cursed images!](http://9gag.com/gag/a4PqX61)
- - 😝 [Flat Death Star theory](http://9gag.com/gag/a2vb3ed)
- - 💣 [Bees demonstrate their incredible hot ball defense against a hornet](http://9gag.com/gag/apRAOQn)
- - 😝 [Did you go to school with anyone who turned out to be famous?](http://9gag.com/gag/aO81MGM)
- - 👉 [French policeman used talent to find illegaly bought sheep, waiting for the A\u00efd slaughter.](http://9gag.com/gag/aByXq1Z)<!-- MEMES:END -->
+ - 💣 [Hard to believe](http://9gag.com/gag/aXP2Dgz)
+ - 😝 [Asking the real questions](http://9gag.com/gag/avyvYRX)
+ - 👉 [The not so bright idea](http://9gag.com/gag/avyvN05)<!-- MEMES:END -->
 
 ---
 

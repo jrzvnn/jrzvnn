@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ChatGPT is having some issues](https://www.theverge.com/news/684141/openai-chatgpt-sora-outage-issues-june-2025)
  - [WHO Monitors New Covid Variant Spreading in America and Europe](https://www.wired.com/story/who-monitors-new-covid-variant-nb181-spread-america-europe-nimbus/)
  - [WPP Media expects ad revenue from user-generated content and platforms like YouTube and TikTok to surpass that from traditional media for the first time in 2025 &lpar;Michael Savage/The Guardian&rpar;](http://www.techmeme.com/250610/p4#a250610p4)
  - [The UK Accelerates Its Self-Driving Car Ambitions](https://www.wired.com/story/uk-self-driving-car-ambitions-wayve-uber/)
- - [Sources: Mark Zuckerberg, frustrated at Meta&#39;s AI shortfalls, is personally assembling a team of AI experts and met engineers at his homes in recent weeks &lpar;Bloomberg&rpar;](http://www.techmeme.com/250610/p3#a250610p3)
- - [Sources: Meta plans to unveil an AI lab dedicated to &quot;superintelligence&quot;, led by Scale AI CEO Alexandr Wang, and is offering seven- to nine-figure compensation &lpar;New York Times&rpar;](http://www.techmeme.com/250610/p2#a250610p2)<!-- TECH:END -->
+ - [Sources: Mark Zuckerberg, frustrated at Meta&#39;s AI shortfalls, is personally assembling a team of AI experts and met engineers at his homes in recent weeks &lpar;Bloomberg&rpar;](http://www.techmeme.com/250610/p3#a250610p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

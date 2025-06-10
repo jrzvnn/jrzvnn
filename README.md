@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese state media: CEO Ren Zhengfei says Huawei chips lag one generation behind US peers and claims the US &quot;exaggerated Huawei&#39;s achievements&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/250609/p48#a250609p48)
+ - [Chinese state media: Huawei CEO Ren Zhengfei says the company&#39;s chips lag a generation behind US peers, and claims the US &quot;exaggerated Huawei&#39;s achievements&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/250609/p48#a250609p48)
  - [Analysis of X&#39;s new XChat shows that X can probably decrypt users&#39; messages, as it holds users&#39; private keys on its servers &lpar;Matthew Green/A Few Thoughts ...&rpar;](http://www.techmeme.com/250609/p47#a250609p47)
  - [‘Beautiful’ and ‘Hard to Read’: Designers React to Apple’s Liquid Glass Update](https://www.wired.com/story/designers-react-to-apple-liquid-glass/)
  - [Today&#39;s NYT Mini Crossword Answers for Tuesday, June 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-june-10/#ftag=CAD590a51e)

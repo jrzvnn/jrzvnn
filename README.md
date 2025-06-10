@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Craig Federighi confirms Apple’s first attempt at an AI Siri wasn’t good enough](https://www.theverge.com/news/685106/apple-ai-siri-delay-craig-federighi-greg-joswiak-wwdc-2025)
  - [ChatGPT’s daylong outage is nearly fixed](https://www.theverge.com/news/684141/openai-chatgpt-sora-outage-issues-june-2025)
  - [The best smart rings for tracking sleep and health](https://www.theverge.com/tech/647901/best-smart-rings)
  - [Apple execs explain Apple&#39;s position in the AI race &amp; how it isn&#39;t necessarily &#39;behind&#39;](https://appleinsider.com/articles/25/06/10/apple-execs-explain-apples-position-in-the-ai-race-how-it-isnt-necessarily-behind?utm_medium=rss)
- - [6 Best Organic Sheets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-organic-sheets/)
- - [Hands on with macOS Tahoe 26: Liquid Glass, new theme options, and Spotlight](https://www.theverge.com/apple/685052/apple-macos-tahoe-26-beta-hands-on-liquid-glass-themes-spotlight)<!-- TECH:END -->
+ - [6 Best Organic Sheets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-organic-sheets/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

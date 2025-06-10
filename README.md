@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That did not go as planned](http://9gag.com/gag/aZZ2eB3)
- - 😝 [Pure satisfaction](http://9gag.com/gag/a4Pqe7d)
- - 💣 [What ridiculous interview questions ahaha! Guy also had nice spot on replies](http://9gag.com/gag/aO81Xbr)
+ - 😝 [What happened](http://9gag.com/gag/ajPKzwx)
  - 😝 [Bees demonstrate their incredible hot ball defense against a hornet](http://9gag.com/gag/apRAOQn)
+ - 💣 [When internet tutorials meet reality](http://9gag.com/gag/aVv2Aw8)
+ - 😝 [Flat Death Star theory](http://9gag.com/gag/a2vb3ed)
  - 👉 [Asking the real questions](http://9gag.com/gag/avyvYRX)<!-- MEMES:END -->
 
 ---

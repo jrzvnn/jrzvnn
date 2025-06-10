@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mark Zuckerberg says Threads users will soon be able to send direct messages to each other without having to leave the platform, adding a separate inbox for DMs &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250610/p23#a250610p23)
+ - [Israel-based Hypernative, which offers real-time threat prevention for crypto companies, raised a $40M Series B, taking its total funding to $67M &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250610/p22#a250610p22)
+ - [Threads is finally getting DMs](https://www.theverge.com/news/684120/threads-direct-messaging-inbox-dm-test-availability)
  - [How Local Capture immediately turns iPad into a podcasting studio](https://appleinsider.com/articles/25/06/10/how-local-capture-immediately-turns-ipad-into-a-podcasting-studio?utm_medium=rss)
- - [More car brands will soon let you unlock your car with iPhone](https://appleinsider.com/articles/25/06/10/more-car-brands-will-soon-let-you-unlock-your-car-with-iphone?utm_medium=rss)
- - [Sources: Meta agrees to take a 49% stake in Scale AI for $14.8B, in a deal that gives cash to Scale&#39;s shareholders and makes Alexandr Wang a top Meta executive &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/250610/p21#a250610p21)
- - [Generative AI enterprise search startup Glean raised a $150M Series F led by Wellington, taking its valuation to $7.2B, up from $4.6B in September 2024 &lpar;Afshan Musani/CNBC&rpar;](http://www.techmeme.com/250610/p20#a250610p20)
- - [Mistral launches its first reasoning models: Magistral Small, on Hugging Face under an Apache 2.0 license, and Magistral Medium, in preview on Mistral&#39;s Le Chat &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250610/p19#a250610p19)<!-- TECH:END -->
+ - [Republicans are determined to make you pay more for gas](https://www.theverge.com/policy/683596/cafe-fuel-economy-usdot-nhtsa-ev-duffy-republican)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

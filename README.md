@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hard to believe](http://9gag.com/gag/aXP2Dgz)
- - 😝 [Mum&#39;s gift policy is strict](http://9gag.com/gag/aAyXoog)
- - 💣 [The not so bright idea](http://9gag.com/gag/avyvN05)
- - 😝 [What power!](http://9gag.com/gag/aE0XLOe)
- - 👉 [Wtf is this sh*t](http://9gag.com/gag/a2vbBp9)<!-- MEMES:END -->
+ - 😝 [Bois be...](http://9gag.com/gag/aMVXg6x)
+ - 😝 [Bees demonstrate their incredible hot ball defense against a hornet](http://9gag.com/gag/apRAOQn)
+ - 💣 [What ridiculous interview questions ahaha! Guy also had nice spot on replies](http://9gag.com/gag/aO81Xbr)
+ - 😝 [Wtf is this sh*t](http://9gag.com/gag/a2vbBp9)
+ - 👉 [When internet tutorials meet reality](http://9gag.com/gag/aVv2Aw8)<!-- MEMES:END -->
 
 ---
 

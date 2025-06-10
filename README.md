@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI Chatbots Are Making LA Protest Disinformation Worse](https://www.wired.com/story/grok-chatgpt-ai-los-angeles-protest-disinformation/)
- - [New media format in visionOS 26 will bring lots more video to Apple Vision Pro](https://appleinsider.com/articles/25/06/10/new-media-format-in-visionos-26-will-bring-lots-more-video-to-apple-vision-pro?utm_medium=rss)
- - [AirPods Pro 3 are in the works, iOS 26 beta code reveals](https://appleinsider.com/articles/25/06/10/airpods-pro-3-are-in-the-works-ios-26-beta-code-reveals?utm_medium=rss)
- - [Google just soft-launched nine cool Home app features](https://www.theverge.com/news/684774/google-home-app-pip-nest-protect-automations-favorites)
- - [Memo: Google offers voluntary buyouts to US staff in the knowledge and information organization, which includes core search and much of the ads organization &lpar;The Information&rpar;](http://www.techmeme.com/250610/p30#a250610p30)<!-- TECH:END -->
+ - [Twenty-seven states and DC sue 23andMe to oppose the sale of DNA data from its customers without their direct consent &lpar;Rylee Kirk/New York Times&rpar;](http://www.techmeme.com/250610/p32#a250610p32)
+ - [If you were underwhelmed by WWDC 2025, you&#39;re not alone](https://appleinsider.com/articles/25/06/10/if-you-were-underwhelmed-by-wwdc-2025-youre-not-alone?utm_medium=rss)
+ - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
+ - [OpenAI debuts o3-pro for ChatGPT Pro and Team users and in the API, costing $20/1M input and $80/1M output tokens; Enterprise and Edu will get access next week &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250610/p31#a250610p31)
+ - [AI Chatbots Are Making LA Protest Disinformation Worse](https://www.wired.com/story/grok-chatgpt-ai-los-angeles-protest-disinformation/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

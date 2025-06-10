@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo’s Switch 2 Pro Controller is pro enough for me](https://www.theverge.com/tech/684602/nintendo-switch-2-pro-controller-review)
- - [Snap aims to ship lightweight, consumer AR glasses called Specs in 2026, lighter than its Spectacles 5 glasses for devs, but with many of the same capabilities &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250610/p25#a250610p25)
- - [ChatGPT Is Still Down. Try These Alternatives While OpenAI Works on a Fix](https://www.cnet.com/tech/services-and-software/chatgpt-is-still-down-try-these-alternatives-while-openai-works-on-a-fix/#ftag=CAD590a51e)
- - [Sonos is finally updating its Ace headphones with a long-delayed feature](https://www.theverge.com/news/684672/sonos-ace-wireless-headphones-truecinema-software-update-available-now)
- - [Apple&#39;s WWDC 2025 marked a strategic retreat from its overambitious AI promises; SVP Craig Federighi openly admitted Siri&#39;s AI features need more time &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250610/p24#a250610p24)<!-- TECH:END -->
+ - [Save up to 70% on Adobe Creative Cloud today only &lpar;and you don&#39;t have to be a student&rpar;](https://appleinsider.com/articles/25/06/10/save-up-to-70-on-adobe-creative-cloud-today-only-and-you-dont-have-to-be-a-student?utm_medium=rss)
+ - [Intel apps on Mac are holding you back and will never get better](https://appleinsider.com/articles/25/06/10/intel-apps-on-mac-are-holding-you-back-and-will-never-get-better?utm_medium=rss)
+ - [Apple turns up the speed on Podcasts and adds a new emoji game to News](https://www.theverge.com/news/684708/apple-podcasts-speed-news-emoji-game)
+ - [A Google Shareholder is Suing the Company Over the TikTok Ban](https://www.wired.com/story/google-tiktok-shareholder-lawsuit-ban/)
+ - [Nintendo’s Switch 2 Pro Controller is pro enough for me](https://www.theverge.com/tech/684602/nintendo-switch-2-pro-controller-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

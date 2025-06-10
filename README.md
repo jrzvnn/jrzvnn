@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the new iPadOS 26 UI moving closer to Mac is a giant productivity boost](https://appleinsider.com/articles/25/06/10/how-the-new-ipados-26-ui-moving-closer-to-mac-is-a-giant-productivity-boost?utm_medium=rss)
- - [Xbox&amp;#8217;s new handheld is a surprisingly comfortable way to play Gears](https://www.theverge.com/games/684247/xbox-ally-x-hands-on-gears-of-war-reloaded)
- - [iOS 26 adds satellite weather updates for offline iPhone users](https://appleinsider.com/articles/25/06/10/ios-26-adds-satellite-weather-updates-for-offline-iphone-users?utm_medium=rss)
- - [Microsoft is moving its Build conference out of Seattle for 2026](https://www.theverge.com/news/684313/microsoft-build-conference-2026-location)
- - [VanMoof’s new S6 e-bikes fix everything but trust](https://www.theverge.com/hands-on/684170/vanmoofs-new-s6-e-bikes-fix-everything-but-trust)<!-- TECH:END -->
+ - [The video game actors&amp;#8217; strike may be over soon](https://www.theverge.com/news/684418/sag-aftra-video-game-actors-strike-agreement)
+ - [Generative AI enterprise search startup Glean raises a $150M Series F led by Wellington Management, bringing its valuation to $7.2B, up from $4.6B in Sept. 2024 &lpar;Afshan Musani/CNBC&rpar;](http://www.techmeme.com/250610/p20#a250610p20)
+ - [Mistral launches its first reasoning models: Magistral Small, on Hugging Face under an Apache 2.0 license, and Magistral Medium, in preview on Mistral&#39;s Le Chat &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250610/p19#a250610p19)
+ - [How to check if your Mac apps are Intel or Apple Silicon code](https://appleinsider.com/inside/macos-26/tips/how-to-check-if-your-mac-apps-are-intel-or-apple-silicon-code?utm_medium=rss)
+ - [How the new iPadOS 26 UI moving closer to Mac is a giant productivity boost](https://appleinsider.com/articles/25/06/10/how-the-new-ipados-26-ui-moving-closer-to-mac-is-a-giant-productivity-boost?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

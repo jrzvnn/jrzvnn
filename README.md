@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nothing Phone 3 leak shows the Glyph lights might be gone](https://www.theverge.com/news/684824/nothing-phone-3-leak-glyph-lights-gone)
+ - [Camera app in iOS 26 goes all-out to woo content creators](https://appleinsider.com/articles/25/06/10/camera-app-in-ios-26-goes-all-out-to-woo-content-creators?utm_medium=rss)
+ - [Google rolls out Android 16 to Pixels with live lock screen notifications, and debuts features, including more AI-editing in Google Photos, in a broader update &lpar;Nelson Aguilar/CNET&rpar;](http://www.techmeme.com/250610/p29#a250610p29)
  - [iOS 26 vs iOS 18: Is Apple&#39;s &#39;Liquid Glass&#39; a true redesign?](https://appleinsider.com/articles/25/06/10/ios-26-vs-ios-18-is-apples-liquid-glass-a-true-redesign?utm_medium=rss)
- - [The 46 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now &lpar;June 2025&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
- - [A Political Battle Is Brewing Over Data Centers](https://www.wired.com/story/a-political-battle-is-brewing-over-data-centers/)
- - [Visual Intelligence in iOS 26 makes screenshots useful, not just saved](https://appleinsider.com/articles/25/06/10/visual-intelligence-in-ios-26-makes-screenshots-useful-not-just-saved?utm_medium=rss)
- - [OpenAI announces an 80% price drop for its o3 model and a &quot;flex&quot; mode for synchronous processing that charges $5 for input and $20 for output per million tokens &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250610/p28#a250610p28)<!-- TECH:END -->
+ - [The Right Way to Wash a Heated Blanket Safely](https://www.cnet.com/health/sleep/the-right-way-to-wash-a-heated-blanket-safely/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

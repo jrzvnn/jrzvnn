@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Repost 6](http://9gag.com/gag/aAyX8OR)
  - 😝 [Chastity belt &lpar;Venice museum&rpar;](http://9gag.com/gag/aPAXErB)
- - 😝 [Boys on tour have different priorities](http://9gag.com/gag/a6ZpPKL)
- - 💣 [Why do they need to fly Mexican flag in USA?](http://9gag.com/gag/aNDR7nr)
+ - 💣 [Star Wars be like](http://9gag.com/gag/aMVXgAX)
  - 😝 [The wait is over! Vote for your fav memes now at our very first Meme69 Award!](http://9gag.com/gag/apRAOW5)
- - 👉 [Artist priority](http://9gag.com/gag/adB2EYV)<!-- MEMES:END -->
+ - 👉 [Hard to believe](http://9gag.com/gag/aXP2Dgz)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [French policeman used talent to find illegaly bought sheep, waiting for the A\u00efd slaughter.](http://9gag.com/gag/aByXq1Z)
- - 😝 [Pure satisfaction](http://9gag.com/gag/a4Pqe7d)
- - 💣 [Tell me you&#39;re retarded without telling me you&#39;re retarded.](http://9gag.com/gag/a0eEAdv)
- - 😝 [The not so bright idea](http://9gag.com/gag/avyvN05)
- - 👉 [Flat Death Star theory](http://9gag.com/gag/a2vb3ed)<!-- MEMES:END -->
+ - 😝 [Bees demonstrate their incredible hot ball defense against a hornet](http://9gag.com/gag/apRAOQn)
+ - 😝 [Boys on tour have different priorities](http://9gag.com/gag/a6ZpPKL)
+ - 💣 [Asking the real questions](http://9gag.com/gag/avyvYRX)
+ - 😝 [Show us your best cursed images!](http://9gag.com/gag/a4PqX61)
+ - 👉 [The not so bright idea](http://9gag.com/gag/avyvN05)<!-- MEMES:END -->
 
 ---
 

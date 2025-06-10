@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Memo: Google offers voluntary buyouts to US staff in the knowledge and information organization, which includes core search and much of the ads organization &lpar;The Information&rpar;](http://www.techmeme.com/250610/p30#a250610p30)
  - [Nothing Phone 3 leak shows the Glyph lights might be gone](https://www.theverge.com/news/684824/nothing-phone-3-leak-glyph-lights-gone)
  - [Camera app in iOS 26 goes all-out to woo content creators](https://appleinsider.com/articles/25/06/10/camera-app-in-ios-26-goes-all-out-to-woo-content-creators?utm_medium=rss)
  - [Google rolls out Android 16 to Pixels with live lock screen notifications, and debuts features, including more AI-editing in Google Photos, in a broader update &lpar;Nelson Aguilar/CNET&rpar;](http://www.techmeme.com/250610/p29#a250610p29)
- - [iOS 26 vs iOS 18: Is Apple&#39;s &#39;Liquid Glass&#39; a true redesign?](https://appleinsider.com/articles/25/06/10/ios-26-vs-ios-18-is-apples-liquid-glass-a-true-redesign?utm_medium=rss)
- - [The Right Way to Wash a Heated Blanket Safely](https://www.cnet.com/health/sleep/the-right-way-to-wash-a-heated-blanket-safely/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iOS 26 vs iOS 18: Is Apple&#39;s &#39;Liquid Glass&#39; a true redesign?](https://appleinsider.com/articles/25/06/10/ios-26-vs-ios-18-is-apples-liquid-glass-a-true-redesign?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

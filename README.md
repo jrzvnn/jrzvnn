@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft is moving its Build conference out of Seattle for 2026](https://www.theverge.com/news/684313/microsoft-build-conference-2026-location)
  - [VanMoof’s new S6 e-bikes fix everything but trust](https://www.theverge.com/hands-on/684170/vanmoofs-new-s6-e-bikes-fix-everything-but-trust)
  - [Grab Apple&#39;s M4 Mac mini 24GB for $879, plus get closeout deals from $369](https://appleinsider.com/articles/25/06/10/grab-apples-m4-mac-mini-24gb-for-879-plus-get-closeout-deals-from-369?utm_medium=rss)
  - [Linear, which makes software development and project planning tools that rival Atlassian&#39;s Jira, raised an $82M Series C led by Accel, valuing it at $1.25B &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/250610/p18#a250610p18)
- - [Sources: OpenAI plans to add Google Cloud to meet its growing needs for computing capacity, a surprising collaboration; source: the deal was finalized in May &lpar;Reuters&rpar;](http://www.techmeme.com/250610/p17#a250610p17)
- - [New iOS 26 setting prevents audio automatically jumping from AirPods to car speakers](https://appleinsider.com/articles/25/06/10/new-ios-26-setting-prevents-audio-automatically-jumping-from-airpods-to-car-speakers?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: OpenAI plans to add Google Cloud to meet its growing needs for computing capacity, a surprising collaboration; source: the deal was finalized in May &lpar;Reuters&rpar;](http://www.techmeme.com/250610/p17#a250610p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

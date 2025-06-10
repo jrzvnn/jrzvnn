@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [IBM plans to build IBM Quantum Starling, a &quot;fault-tolerant&quot; quantum computer with 20,000x the power of today&#39;s quantum computers, in New York state by 2029 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250610/p9#a250610p9)
- - [The UK plans to launch an autonomous taxi trial in London in spring 2026, a year earlier than planned; Uber and Wayve will partner to operate the service &lpar;Financial Times&rpar;](http://www.techmeme.com/250610/p8#a250610p8)
- - [What Tear Gas and Rubber Bullets Do to the Human Body](https://www.wired.com/story/what-tear-gas-does-to-the-human-body/)
- - [SAG-AFTRA reaches a tentative deal with Activision, EA, Epic, Take-Two, and other game companies on the Interactive Media Contract, after months of strikes &lpar;Variety&rpar;](http://www.techmeme.com/250610/p7#a250610p7)
- - [LVMH says AI and AI agents will be key to navigating a broad slowdown and waning demand in luxury goods, and is using AI in supply chains, pricing, and more &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250610/p6#a250610p6)<!-- TECH:END -->
+ - [Tencent Music agrees to buy podcasting startup Ximalaya for $1.3B in cash, plus some stock, in a bid to become China&#39;s Spotify; Ximalaya had 303M MAUs in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250610/p11#a250610p11)
+ - [Top500: the US retains the top three supercomputers with El Capitan, Frontier, and Aurora; the US has 173 of the top 500 to Europe&#39;s 163 and China&#39;s 46 &lpar;Doug Black/InsideHPC&rpar;](http://www.techmeme.com/250610/p10#a250610p10)
+ - [As Robotaxi Rides Begin, We Still Don&#39;t Know the Mystery of Tesla’s Human Helpers](https://www.wired.com/story/as-robotaxi-rides-begin-we-still-dont-know-the-mystery-of-teslas-human-helpers/)
+ - [Starling&amp;#8217;s AI banking tool shows you how much you&amp;#8217;re wasting on McDonald’s](https://www.theverge.com/news/684121/starling-bank-ai-tool-enhanced-search-spending-habits)
+ - [IBM plans to build IBM Quantum Starling, a &quot;fault-tolerant&quot; quantum computer with 20,000x the power of today&#39;s quantum computers, in New York state by 2029 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250610/p9#a250610p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In Hungary, if you are part of a visiting CPAC delegation, you have priority over an ambulance using emergency signals.](http://9gag.com/gag/aYQ13BO)
- - 😝 [Hard to believe](http://9gag.com/gag/aXP2Dgz)
- - 💣 [Tell me you&#39;re retarded without telling me you&#39;re retarded.](http://9gag.com/gag/a0eEAdv)
- - 😝 [Show us your best cursed images!](http://9gag.com/gag/a4PqX61)
+ - 😝 [What a F**king Legend](http://9gag.com/gag/an7DL1B)
+ - 😝 [Did you go to school with anyone who turned out to be famous?](http://9gag.com/gag/aO81MGM)
+ - 💣 [The not so bright idea](http://9gag.com/gag/avyvN05)
+ - 😝 [Rachel Zegler &lpar;She / Her / Hers&rpar; opinion](http://9gag.com/gag/aByX74N)
  - 👉 [Asking the real questions](http://9gag.com/gag/avyvYRX)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bees demonstrate their incredible hot ball defense against a hornet](http://9gag.com/gag/apRAOQn)
- - 😝 [Boys on tour have different priorities](http://9gag.com/gag/a6ZpPKL)
- - 💣 [Asking the real questions](http://9gag.com/gag/avyvYRX)
+ - 😝 [In Hungary, if you are part of a visiting CPAC delegation, you have priority over an ambulance using emergency signals.](http://9gag.com/gag/aYQ13BO)
+ - 😝 [Hard to believe](http://9gag.com/gag/aXP2Dgz)
+ - 💣 [Tell me you&#39;re retarded without telling me you&#39;re retarded.](http://9gag.com/gag/a0eEAdv)
  - 😝 [Show us your best cursed images!](http://9gag.com/gag/a4PqX61)
- - 👉 [The not so bright idea](http://9gag.com/gag/avyvN05)<!-- MEMES:END -->
+ - 👉 [Asking the real questions](http://9gag.com/gag/avyvYRX)<!-- MEMES:END -->
 
 ---
 

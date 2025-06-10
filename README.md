@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [OSHA Approved This Post](http://9gag.com/gag/apRAWXW)
+ - 😝 [What power!](http://9gag.com/gag/aE0XLOe)
+ - 😝 [Gamer Girlfriends](http://9gag.com/gag/a0eEm4n)
+ - 💣 [Bra](http://9gag.com/gag/aLnXy85)
  - 😝 [Hard to believe](http://9gag.com/gag/aXP2Dgz)
- - 💣 [Apparently you can learn to speak chicken and command them.](http://9gag.com/gag/aryBYZK)
- - 😝 [What ridiculous interview questions ahaha! Guy also had nice spot on replies](http://9gag.com/gag/aO81Xbr)
- - 👉 [Make it make sense.](http://9gag.com/gag/aYQ18B7)<!-- MEMES:END -->
+ - 👉 [Pure satisfaction](http://9gag.com/gag/a4Pqe7d)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SAG-AFTRA reaches a tentative deal with Activision, EA, Epic, Take-Two, and other game companies on the Interactive Media Contract, after months of strikes &lpar;Variety&rpar;](http://www.techmeme.com/250610/p7#a250610p7)
+ - [LVMH says AI and AI agents will be key to navigating a broad slowdown and waning demand in luxury goods, and is using AI in supply chains, pricing, and more &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250610/p6#a250610p6)
+ - [‘Uber for Getting Off Antidepressants’ Launches in the US](https://www.wired.com/story/tapering-off-anti-depressants-outro-telehealth/)
  - [UK retailer M&amp;S begins accepting online orders again, seven weeks after disclosing a sustained cyberattack that cost it up to £300M in this financial year &lpar;Laura Onita/Financial Times&rpar;](http://www.techmeme.com/250610/p5#a250610p5)
- - [ChatGPT is having some issues](https://www.theverge.com/news/684141/openai-chatgpt-sora-outage-issues-june-2025)
- - [Apple&#39;s Biggest Reveals at WWDC 2025: iOS 26, Liquid Glass Design and Call Screening](https://www.cnet.com/tech/services-and-software/everything-announced-at-apple-wwdc-2025-new-ios-ipados-macos-visionos-tvos-watchos-updates/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 10, #260](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-10-260/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for June 10, #730](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-10-730/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [ChatGPT is having some issues](https://www.theverge.com/news/684141/openai-chatgpt-sora-outage-issues-june-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

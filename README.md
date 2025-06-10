@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI announces an 80% price drop for its o3 model and a &quot;flex&quot; mode for synchronous processing that charges $5 for input and $20 for output per million tokens &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250610/p28#a250610p28)
+ - [The Top New Features in Apple’s iOS 26 and iPadOS 26](https://www.wired.com/story/apple-ios-26-and-ipados-26-top-new-features/)
  - [Ninja Gaiden 4’s gory combat hides a goofy center](https://www.theverge.com/games/684438/ninja-gaiden-4-hands-on-xbox-showcase-2025)
  - [Interview with Craig Federighi and Greg Joswiak on Apple&#39;s struggles to ship AI features, demoed in 2024, with the &quot;V1 Siri architecture&quot; and work on a V2 model &lpar;Lance Ulanoff/TechRadar&rpar;](http://www.techmeme.com/250610/p26#a250610p26)
- - [Google rolls out Android 16 to Pixel phones, adding group chat to RCS, AI-powered edit suggestions to Google Photos, live notifications on lock screen, and more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250610/p27#a250610p27)
- - [The Top New Android 16 Features &lpar;2025&rpar;: How to Install, Features, Release Date](https://www.wired.com/story/android-16-features-release-date-how-to-download/)
- - [Google’s ‘Pixel VIPs’ will help you keep track of your favorite contacts](https://www.theverge.com/news/684565/google-pixel-vip-favorite-contacts-availability)<!-- TECH:END -->
+ - [Google rolls out Android 16 to Pixel phones, adding group chat to RCS, AI-powered edit suggestions to Google Photos, live notifications on lock screen, and more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250610/p27#a250610p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

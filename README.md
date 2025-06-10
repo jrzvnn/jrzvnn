@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [London-based Maze, which uses AI agents to stop cloud security breaches, launches with $31M in total funding, including a $25M Series A led by Theory Ventures &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250610/p33#a250610p33)
+ - [Android 16 is here, but its big redesign isn’t ready](https://www.theverge.com/news/684994/android-16-material-3-expressive-redesign-not-ready)
+ - [Google is offering employee buyouts in Search and other orgs](https://www.theverge.com/google/684966/google-buyouts-search-org)
  - [More than a million people now have Alexa Plus](https://www.theverge.com/news/684560/amazon-alexa-plus-one-million-users-coming-summer-2025)
- - [It’s more than just a hat](https://www.theverge.com/games/684957/splitgate-2-hat-apology)
- - [If you were underwhelmed by WWDC 2025, you&#39;re not alone](https://appleinsider.com/articles/25/06/10/if-you-were-underwhelmed-by-wwdc-2025-youre-not-alone?utm_medium=rss)
- - [Twenty-seven states and DC sue 23andMe to oppose the sale of DNA data from its customers without their direct consent &lpar;Rylee Kirk/New York Times&rpar;](http://www.techmeme.com/250610/p32#a250610p32)
- - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)<!-- TECH:END -->
+ - [It’s more than just a hat](https://www.theverge.com/games/684957/splitgate-2-hat-apology)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

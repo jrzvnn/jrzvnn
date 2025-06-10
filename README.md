@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What power!](http://9gag.com/gag/aE0XLOe)
- - 😝 [Gamer Girlfriends](http://9gag.com/gag/a0eEm4n)
- - 💣 [Bra](http://9gag.com/gag/aLnXy85)
- - 😝 [Hard to believe](http://9gag.com/gag/aXP2Dgz)
- - 👉 [Pure satisfaction](http://9gag.com/gag/a4Pqe7d)<!-- MEMES:END -->
+ - 😝 [Metal](http://9gag.com/gag/aLnXq0V)
+ - 😝 [Bois be...](http://9gag.com/gag/aMVXg6x)
+ - 💣 [What power!](http://9gag.com/gag/aE0XLOe)
+ - 😝 [Pure satisfaction](http://9gag.com/gag/a4Pqe7d)
+ - 👉 [Gamer Girlfriends](http://9gag.com/gag/a0eEm4n)<!-- MEMES:END -->
 
 ---
 

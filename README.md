@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Trump administration appears to be planning its own chatbot](https://www.theverge.com/news/684579/ai-api-trump-administration-doge-gsa)
- - [Time Machine&#39;s Time Capsule support ends with macOS 27](https://appleinsider.com/articles/25/06/10/time-machines-time-capsule-support-ends-with-macos-27?utm_medium=rss)
- - [The ‘Long-Term Danger’ of Trump Sending Troops to the LA Protests](https://www.wired.com/story/trump-marines-national-guard-la-protests/)
- - [Meta is reportedly making a $15 billion bet on AGI](https://www.theverge.com/news/684322/meta-scale-ai-15-billion-investment-zuckerberg)
- - [Mark Zuckerberg says Threads users will soon be able to send DMs to each other without having to leave the platform, first in Hong Kong, Argentina, and Thailand &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250610/p23#a250610p23)<!-- TECH:END -->
+ - [Apple&#39;s WWDC 2025 marked a strategic retreat from its overambitious AI promises; SVP Craig Federighi openly admitted Siri&#39;s AI features need more time &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250610/p24#a250610p24)
+ - [Apple gives iOS gaming a real home, just not a new direction](https://appleinsider.com/articles/25/06/10/apple-gives-ios-gaming-a-real-home-just-not-a-new-direction?utm_medium=rss)
+ - [Snap will start selling AR glasses next year](https://www.theverge.com/snapchat/684131/snap-specs-ar-glasses-2026-release)
+ - [Mario Kart World is the perfect Switch 2 launch game](https://www.theverge.com/games-review/684518/mario-kart-world-review-nintendo-switch-2)
+ - [Apple&#39;s AutoMix in macOS 26 isn&#39;t a house DJ, but is a good FM radio simulator](https://appleinsider.com/articles/25/06/10/apples-automix-in-macos-26-isnt-a-house-dj-but-is-a-good-fm-radio-simulator?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

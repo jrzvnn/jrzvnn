@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: Google offers voluntary buyouts to US staff in the knowledge and information organization, which includes core search and much of the ads organization &lpar;The Information&rpar;](http://www.techmeme.com/250610/p30#a250610p30)
- - [Nothing Phone 3 leak shows the Glyph lights might be gone](https://www.theverge.com/news/684824/nothing-phone-3-leak-glyph-lights-gone)
- - [Camera app in iOS 26 goes all-out to woo content creators](https://appleinsider.com/articles/25/06/10/camera-app-in-ios-26-goes-all-out-to-woo-content-creators?utm_medium=rss)
- - [Google rolls out Android 16 to Pixels with live lock screen notifications, and debuts features, including more AI-editing in Google Photos, in a broader update &lpar;Nelson Aguilar/CNET&rpar;](http://www.techmeme.com/250610/p29#a250610p29)
- - [iOS 26 vs iOS 18: Is Apple&#39;s &#39;Liquid Glass&#39; a true redesign?](https://appleinsider.com/articles/25/06/10/ios-26-vs-ios-18-is-apples-liquid-glass-a-true-redesign?utm_medium=rss)<!-- TECH:END -->
+ - [AI Chatbots Are Making LA Protest Disinformation Worse](https://www.wired.com/story/grok-chatgpt-ai-los-angeles-protest-disinformation/)
+ - [New media format in visionOS 26 will bring lots more video to Apple Vision Pro](https://appleinsider.com/articles/25/06/10/new-media-format-in-visionos-26-will-bring-lots-more-video-to-apple-vision-pro?utm_medium=rss)
+ - [AirPods Pro 3 are in the works, iOS 26 beta code reveals](https://appleinsider.com/articles/25/06/10/airpods-pro-3-are-in-the-works-ios-26-beta-code-reveals?utm_medium=rss)
+ - [Google just soft-launched nine cool Home app features](https://www.theverge.com/news/684774/google-home-app-pip-nest-protect-automations-favorites)
+ - [Memo: Google offers voluntary buyouts to US staff in the knowledge and information organization, which includes core search and much of the ads organization &lpar;The Information&rpar;](http://www.techmeme.com/250610/p30#a250610p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The 1904 Olympic marathon was an absolute disasterclass in organization.](http://9gag.com/gag/aNDR6yr)
- - 😝 [Gets the death star in the divorce](http://9gag.com/gag/aAyXobR)
- - 💣 [Your typical day in summer](http://9gag.com/gag/a9yX9mW)
+ - 😝 [Chastity belt &lpar;Venice museum&rpar;](http://9gag.com/gag/aPAXErB)
+ - 😝 [Boys on tour have different priorities](http://9gag.com/gag/a6ZpPKL)
+ - 💣 [Why do they need to fly Mexican flag in USA?](http://9gag.com/gag/aNDR7nr)
  - 😝 [The wait is over! Vote for your fav memes now at our very first Meme69 Award!](http://9gag.com/gag/apRAOW5)
- - 👉 [What ridiculous interview questions ahaha! Guy also had nice spot on replies](http://9gag.com/gag/aO81Xbr)<!-- MEMES:END -->
+ - 👉 [Artist priority](http://9gag.com/gag/adB2EYV)<!-- MEMES:END -->
 
 ---
 

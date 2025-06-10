@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WWDC 2025: all the news from Apple&amp;#8217;s annual developer conference](https://www.theverge.com/tech/681646/apple-wwdc-2025-news-rumors-ios-26)
- - [Apple Vision Pro &#39;Spatial Widgets&#39; blend digital life into your real space](https://appleinsider.com/articles/25/06/10/apple-vision-pro-spatial-widgets-blend-digital-life-into-your-real-space?utm_medium=rss)
- - [Apple Is Pushing AI Into More of Its Products—but Still Lacks a State-of-the-Art Model](https://www.wired.com/story/apple-wwdc-ai-announcements/)
- - [Apple&amp;#8217;s Liquid Glass was a wild change to my iPhone](https://www.theverge.com/apple/683914/apple-iphone-ios-26-changes-liquid-glass)
- - [Hexcal Studio review: A desk stand that wants to do more, but is held back by price](https://appleinsider.com/articles/25/06/10/hexcal-studio-review-a-desk-stand-that-wants-to-do-more-but-is-held-back-by-price?utm_medium=rss)<!-- TECH:END -->
+ - [Analysis of X&#39;s new XChat shows that X can probably decrypt users&#39; messages, as it holds users&#39; private keys on its servers &lpar;Matthew Green/A Few Thoughts ...&rpar;](http://www.techmeme.com/250609/p47#a250609p47)
+ - [‘Beautiful’ and ‘Hard to Read’: Designers React to Apple’s Liquid Glass Update](https://www.wired.com/story/designers-react-to-apple-liquid-glass/)
+ - [A day of LA anti-ICE protests in photos](https://www.theverge.com/policy/683824/los-angeles-ice-union-protest-photos)
+ - [Roblox hires Paramount&#39;s Naveen Chopra as CFO starting June 30; Chopra previously held senior roles at Amazon and served as CFO at Pandora and TiVo &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250609/p46#a250609p46)
+ - [Turnkey, which builds low-level infrastructure for digital wallets used to store and manage crypto, raised a $30M Series B led by Bain Capital Crypto &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250609/p45#a250609p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

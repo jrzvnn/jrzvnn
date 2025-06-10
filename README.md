@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese state media: CEO Ren Zhengfei says Huawei chips lag one generation behind US peers and claims the US &quot;exaggerated Huawei&#39;s achievements&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/250609/p48#a250609p48)
  - [Analysis of X&#39;s new XChat shows that X can probably decrypt users&#39; messages, as it holds users&#39; private keys on its servers &lpar;Matthew Green/A Few Thoughts ...&rpar;](http://www.techmeme.com/250609/p47#a250609p47)
  - [‘Beautiful’ and ‘Hard to Read’: Designers React to Apple’s Liquid Glass Update](https://www.wired.com/story/designers-react-to-apple-liquid-glass/)
  - [Today&#39;s NYT Mini Crossword Answers for Tuesday, June 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-june-10/#ftag=CAD590a51e)
- - [A day of LA anti-ICE protests in photos](https://www.theverge.com/policy/683824/los-angeles-ice-union-protest-photos)
- - [Roblox hires Paramount&#39;s Naveen Chopra as CFO starting June 30; Chopra previously held senior roles at Amazon and served as CFO at Pandora and TiVo &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250609/p46#a250609p46)<!-- TECH:END -->
+ - [A day of LA anti-ICE protests in photos](https://www.theverge.com/policy/683824/los-angeles-ice-union-protest-photos)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney closes its deal with Comcast to buy out NBCUniversal&#39;s 33% stake in Hulu, paying an additional $439M, after agreeing in 2023 to pay $8.61B &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/250609/p43#a250609p43)
- - [We&#39;ve Finally Reached the End of the Road for Intel Macs](https://www.wired.com/story/macos-tahoe-last-update-for-intel-macs/)
- - [The iPad Is a Full-On Computer Now](https://www.wired.com/story/the-ipad-is-a-full-on-computer-now/)
- - [Apple WWDC 2025 Live: Liquid Glass Design Takes Over iOS 26, MacOS, CarPlay and More](https://www.cnet.com/tech/services-and-software/apple-wwdc-2025-live-keynote-news-annoucements-for-ios-mac/#ftag=CAD590a51e)
- - [The Dangerous Truth About the ‘Nonlethal’ Weapons Used Against LA Protesters](https://www.wired.com/story/non-lethal-weapons-la-protests/)<!-- TECH:END -->
+ - [WWDC 2025: all the news from Apple&amp;#8217;s annual developer conference](https://www.theverge.com/tech/681646/apple-wwdc-2025-news-rumors-ios-26)
+ - [Apple Vision Pro &#39;Spatial Widgets&#39; blend digital life into your real space](https://appleinsider.com/articles/25/06/10/apple-vision-pro-spatial-widgets-blend-digital-life-into-your-real-space?utm_medium=rss)
+ - [Apple Is Pushing AI Into More of Its Products—but Still Lacks a State-of-the-Art Model](https://www.wired.com/story/apple-wwdc-ai-announcements/)
+ - [Apple&amp;#8217;s Liquid Glass was a wild change to my iPhone](https://www.theverge.com/apple/683914/apple-iphone-ios-26-changes-liquid-glass)
+ - [Hexcal Studio review: A desk stand that wants to do more, but is held back by price](https://appleinsider.com/articles/25/06/10/hexcal-studio-review-a-desk-stand-that-wants-to-do-more-but-is-held-back-by-price?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

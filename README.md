@@ -157,8 +157,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel app compatibility on Mac is holding you back and will never get better](https://appleinsider.com/articles/25/06/10/intel-apps-on-mac-are-holding-you-back-and-will-never-get-better?utm_medium=rss)
  - [Save up to 70% on Adobe Creative Cloud today only &lpar;and you don&#39;t have to be a student&rpar;](https://appleinsider.com/articles/25/06/10/save-up-to-70-on-adobe-creative-cloud-today-only-and-you-dont-have-to-be-a-student?utm_medium=rss)
- - [Intel apps on Mac are holding you back and will never get better](https://appleinsider.com/articles/25/06/10/intel-apps-on-mac-are-holding-you-back-and-will-never-get-better?utm_medium=rss)
  - [Apple turns up the speed on Podcasts and adds a new emoji game to News](https://www.theverge.com/news/684708/apple-podcasts-speed-news-emoji-game)
  - [A Google Shareholder is Suing the Company Over the TikTok Ban](https://www.wired.com/story/google-tiktok-shareholder-lawsuit-ban/)
  - [Nintendo’s Switch 2 Pro Controller is pro enough for me](https://www.theverge.com/tech/684602/nintendo-switch-2-pro-controller-review)<!-- TECH:END -->

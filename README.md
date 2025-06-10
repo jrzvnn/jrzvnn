@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The potato test is the only way to be sure.](http://9gag.com/gag/aMVXRqG)
- - 😝 [Flat Death Star theory](http://9gag.com/gag/a2vb3ed)
- - 💣 [Chastity belt &lpar;Venice museum&rpar;](http://9gag.com/gag/aPAXErB)
- - 😝 [Society\u2026](http://9gag.com/gag/axyPXMn)
- - 👉 [Asking the real questions](http://9gag.com/gag/avyvYRX)<!-- MEMES:END -->
+ - 😝 [Bees demonstrate their incredible hot ball defense against a hornet](http://9gag.com/gag/apRAOQn)
+ - 😝 [Tell me you&#39;re retarded without telling me you&#39;re retarded.](http://9gag.com/gag/a0eEAdv)
+ - 💣 [What ridiculous interview questions ahaha! Guy also had nice spot on replies](http://9gag.com/gag/aO81Xbr)
+ - 😝 [Asking the real questions](http://9gag.com/gag/avyvYRX)
+ - 👉 [Pure satisfaction](http://9gag.com/gag/a4Pqe7d)<!-- MEMES:END -->
 
 ---
 

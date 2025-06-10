@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [More car brands will soon let you unlock your car with iPhone](https://appleinsider.com/articles/25/06/10/more-car-brands-will-soon-let-you-unlock-your-car-with-iphone?utm_medium=rss)
+ - [Sources: Meta agrees to take a 49% stake in Scale AI for $14.8B, in a deal that gives cash to Scale&#39;s shareholders and makes Alexandr Wang a top Meta executive &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/250610/p21#a250610p21)
  - [The video game actors&amp;#8217; strike may be over soon](https://www.theverge.com/news/684418/sag-aftra-video-game-actors-strike-agreement)
- - [Generative AI enterprise search startup Glean raises a $150M Series F led by Wellington Management, bringing its valuation to $7.2B, up from $4.6B in Sept. 2024 &lpar;Afshan Musani/CNBC&rpar;](http://www.techmeme.com/250610/p20#a250610p20)
- - [Mistral launches its first reasoning models: Magistral Small, on Hugging Face under an Apache 2.0 license, and Magistral Medium, in preview on Mistral&#39;s Le Chat &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250610/p19#a250610p19)
- - [How to check if your Mac apps are Intel or Apple Silicon code](https://appleinsider.com/inside/macos-26/tips/how-to-check-if-your-mac-apps-are-intel-or-apple-silicon-code?utm_medium=rss)
- - [How the new iPadOS 26 UI moving closer to Mac is a giant productivity boost](https://appleinsider.com/articles/25/06/10/how-the-new-ipados-26-ui-moving-closer-to-mac-is-a-giant-productivity-boost?utm_medium=rss)<!-- TECH:END -->
+ - [Generative AI enterprise search startup Glean raised a $150M Series F led by Wellington, taking its valuation to $7.2B, up from $4.6B in September 2024 &lpar;Afshan Musani/CNBC&rpar;](http://www.techmeme.com/250610/p20#a250610p20)
+ - [Mistral launches its first reasoning models: Magistral Small, on Hugging Face under an Apache 2.0 license, and Magistral Medium, in preview on Mistral&#39;s Le Chat &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250610/p19#a250610p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

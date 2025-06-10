@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple punts on Siri updates as it struggles to keep up in the AI race](https://www.theverge.com/apple/682984/apple-punts-on-siri-updates-as-it-struggles-to-keep-up-in-the-ai-race)
- - [Apple Intelligence Is Gambling on Privacy as a Killer Feature](https://www.wired.com/story/apple-intelligence-is-gambling-on-privacy-as-a-killer-feature/)
- - [Sam Altman claims an &quot;average&quot; ChatGPT query uses about 0.34 watt-hours and about 0.000085 gallons of water, or &quot;roughly one fifteenth of a teaspoon&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250610/p37#a250610p37)
- - [Sam Altman says &quot;intelligence and energy&quot;, the &quot;limiters on human progress&quot;, will be abundant in the 2030s, and superintelligence should be widely distributed &lpar;Sam Altman&rpar;](http://www.techmeme.com/250610/p36#a250610p36)
- - [Sam Altman claims an average ChatGPT query uses ‘roughly one fifteenth of a teaspoon’ of water](https://www.theverge.com/news/685045/sam-altman-average-chatgpt-energy-water)<!-- TECH:END -->
+ - [ChatGPT’s daylong outage is nearly fixed](https://www.theverge.com/news/684141/openai-chatgpt-sora-outage-issues-june-2025)
+ - [The best smart rings for tracking sleep and health](https://www.theverge.com/tech/647901/best-smart-rings)
+ - [Apple execs explain Apple&#39;s position in the AI race &amp; how it isn&#39;t necessarily &#39;behind&#39;](https://appleinsider.com/articles/25/06/10/apple-execs-explain-apples-position-in-the-ai-race-how-it-isnt-necessarily-behind?utm_medium=rss)
+ - [6 Best Organic Sheets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-organic-sheets/)
+ - [Hands on with macOS Tahoe 26: Liquid Glass, new theme options, and Spotlight](https://www.theverge.com/apple/685052/apple-macos-tahoe-26-beta-hands-on-liquid-glass-themes-spotlight)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

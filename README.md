@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK retailer M&amp;S begins accepting online orders again, seven weeks after disclosing a sustained cyberattack that cost it up to £300M in this financial year &lpar;Laura Onita/Financial Times&rpar;](http://www.techmeme.com/250610/p5#a250610p5)
  - [ChatGPT is having some issues](https://www.theverge.com/news/684141/openai-chatgpt-sora-outage-issues-june-2025)
- - [WHO Monitors New Covid Variant Spreading in America and Europe](https://www.wired.com/story/who-monitors-new-covid-variant-nb181-spread-america-europe-nimbus/)
- - [WPP Media expects ad revenue from user-generated content and platforms like YouTube and TikTok to surpass that from traditional media for the first time in 2025 &lpar;Michael Savage/The Guardian&rpar;](http://www.techmeme.com/250610/p4#a250610p4)
- - [The UK Accelerates Its Self-Driving Car Ambitions](https://www.wired.com/story/uk-self-driving-car-ambitions-wayve-uber/)
- - [Sources: Mark Zuckerberg, frustrated at Meta&#39;s AI shortfalls, is personally assembling a team of AI experts and met engineers at his homes in recent weeks &lpar;Bloomberg&rpar;](http://www.techmeme.com/250610/p3#a250610p3)<!-- TECH:END -->
+ - [Apple&#39;s Biggest Reveals at WWDC 2025: iOS 26, Liquid Glass Design and Call Screening](https://www.cnet.com/tech/services-and-software/everything-announced-at-apple-wwdc-2025-new-ios-ipados-macos-visionos-tvos-watchos-updates/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 10, #260](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-10-260/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 10, #730](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-10-730/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

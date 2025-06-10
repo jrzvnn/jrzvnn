@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WPP Media expects ad revenue from user-generated content and platforms like YouTube and TikTok to surpass that from traditional media for the first time in 2025 &lpar;Michael Savage/The Guardian&rpar;](http://www.techmeme.com/250610/p4#a250610p4)
+ - [The UK Accelerates Its Self-Driving Car Ambitions](https://www.wired.com/story/uk-self-driving-car-ambitions-wayve-uber/)
  - [Sources: Mark Zuckerberg, frustrated at Meta&#39;s AI shortfalls, is personally assembling a team of AI experts and met engineers at his homes in recent weeks &lpar;Bloomberg&rpar;](http://www.techmeme.com/250610/p3#a250610p3)
  - [Sources: Meta plans to unveil an AI lab dedicated to &quot;superintelligence&quot;, led by Scale AI CEO Alexandr Wang, and is offering seven- to nine-figure compensation &lpar;New York Times&rpar;](http://www.techmeme.com/250610/p2#a250610p2)
- - [SEC Chair Paul Atkins says the agency is working on an &quot;innovation exemption&quot; to boost onchain product creation and support Trump&#39;s vision of a US crypto hub &lpar;Stephen Katte/Cointelegraph&rpar;](http://www.techmeme.com/250610/p1#a250610p1)
- - [Chinese state media: Huawei CEO Ren Zhengfei says the company&#39;s chips lag a generation behind US peers, and claims the US &quot;exaggerated Huawei&#39;s achievements&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/250609/p48#a250609p48)
- - [An analysis of X&#39;s new XChat features shows that X can probably decrypt users&#39; messages, as it holds users&#39; private keys on its servers &lpar;Matthew Green/Cryptographic Engineering&rpar;](http://www.techmeme.com/250609/p47#a250609p47)<!-- TECH:END -->
+ - [SEC Chair Paul Atkins says the agency is working on an &quot;innovation exemption&quot; to boost onchain product creation and support Trump&#39;s vision of a US crypto hub &lpar;Stephen Katte/Cointelegraph&rpar;](http://www.techmeme.com/250610/p1#a250610p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

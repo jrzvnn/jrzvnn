@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Passthrough audio is finally on the way to Apple TV, iPhone, and more](https://appleinsider.com/articles/25/06/10/passthrough-audio-is-finally-on-the-way-to-apple-tv-iphone-and-more?utm_medium=rss)
+ - [Cisco unveils updated networking and security products, including a new generation of switches with 10x performance, to boost AI networks and cut bottlenecks &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250610/p16#a250610p16)
  - [Hang on, did the iPad just become a computer?](https://www.theverge.com/ipad/684229/ipados-26-hands-on-multitasking-mac)
  - [Splatoon is getting a Switch 2 spinoff, and a big Splatoon 3 update](https://www.theverge.com/news/684199/splatoon-raiders-switch-2-spinoff)
- - [Investigation: Russian network engineer Viktor Vedeneev controls thousands of Telegram IP addresses and maintains its servers; his companies have FSB links &lpar;Roman Anin/OCCRP&rpar;](http://www.techmeme.com/250610/p15#a250610p15)
- - [Airlines Don’t Want You to Know They Sold Your Flight Data to DHS](https://www.wired.com/story/airlines-dont-want-you-to-know-they-sold-your-flight-data-to-dhs/)
- - [The New York Times is starting to test its take on Scrabble](https://www.theverge.com/games/682063/the-new-york-times-nyt-games-crossplay-scrabble-pips)<!-- TECH:END -->
+ - [Investigation: Russian network engineer Viktor Vedeneev controls thousands of Telegram IP addresses and maintains its servers; his companies have FSB links &lpar;Roman Anin/OCCRP&rpar;](http://www.techmeme.com/250610/p15#a250610p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

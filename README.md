@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf is this sh*t](http://9gag.com/gag/a2vbBp9)
+ - 😝 [Make it make sense.](http://9gag.com/gag/aYQ18B7)
  - 😝 [Pure satisfaction](http://9gag.com/gag/a4Pqe7d)
- - 💣 [Bees demonstrate their incredible hot ball defense against a hornet](http://9gag.com/gag/apRAOQn)
+ - 💣 [Flat Death Star theory](http://9gag.com/gag/a2vb3ed)
  - 😝 [What happened](http://9gag.com/gag/ajPKzwx)
- - 👉 [Flat Death Star theory](http://9gag.com/gag/a2vb3ed)<!-- MEMES:END -->
+ - 👉 [Boys on tour have different priorities](http://9gag.com/gag/a6ZpPKL)<!-- MEMES:END -->
 
 ---
 

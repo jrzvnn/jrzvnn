@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [When internet tutorials meet reality](http://9gag.com/gag/aVv2Aw8)
- - 😝 [OSHA Approved This Post](http://9gag.com/gag/apRAWXW)
- - 💣 [What power!](http://9gag.com/gag/aE0XLOe)
- - 😝 [Flat Death Star theory](http://9gag.com/gag/a2vb3ed)
+ - 😝 [Boys on tour have different priorities](http://9gag.com/gag/a6ZpPKL)
+ - 💣 [OSHA Approved This Post](http://9gag.com/gag/apRAWXW)
+ - 😝 [Wtf is this sh*t](http://9gag.com/gag/a2vbBp9)
  - 👉 [Bees demonstrate their incredible hot ball defense against a hornet](http://9gag.com/gag/apRAOQn)<!-- MEMES:END -->
 
 ---

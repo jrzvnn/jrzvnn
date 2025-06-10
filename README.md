@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Travel tips for every kind of traveler, and one for the rest of us.](http://9gag.com/gag/apRAO8W)
- - 😝 [Can you Skip to the Civil War already, plz](http://9gag.com/gag/aPAXN6V)
- - 💣 [Childhoodmemories](http://9gag.com/gag/awy4Rq1)
- - 😝 [Asking the real questions](http://9gag.com/gag/avyvYRX)
- - 👉 [Karen gets disappointed](http://9gag.com/gag/a9yXo9o)<!-- MEMES:END -->
+ - 😝 [Wtf is this sh*t](http://9gag.com/gag/a2vbBp9)
+ - 😝 [Hard to believe](http://9gag.com/gag/aXP2Dgz)
+ - 💣 [Asking the real questions](http://9gag.com/gag/avyvYRX)
+ - 😝 [Bois be...](http://9gag.com/gag/aMVXg6x)
+ - 👉 [Pure satisfaction](http://9gag.com/gag/a4Pqe7d)<!-- MEMES:END -->
 
 ---
 

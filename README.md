@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel app compatibility on Mac is holding you back and will never get better](https://appleinsider.com/articles/25/06/10/intel-apps-on-mac-are-holding-you-back-and-will-never-get-better?utm_medium=rss)
- - [Save up to 70% on Adobe Creative Cloud today only &lpar;and you don&#39;t have to be a student&rpar;](https://appleinsider.com/articles/25/06/10/save-up-to-70-on-adobe-creative-cloud-today-only-and-you-dont-have-to-be-a-student?utm_medium=rss)
- - [Apple turns up the speed on Podcasts and adds a new emoji game to News](https://www.theverge.com/news/684708/apple-podcasts-speed-news-emoji-game)
- - [A Google Shareholder is Suing the Company Over the TikTok Ban](https://www.wired.com/story/google-tiktok-shareholder-lawsuit-ban/)
- - [Nintendo’s Switch 2 Pro Controller is pro enough for me](https://www.theverge.com/tech/684602/nintendo-switch-2-pro-controller-review)<!-- TECH:END -->
+ - [Ninja Gaiden 4’s gory combat hides a goofy center](https://www.theverge.com/games/684438/ninja-gaiden-4-hands-on-xbox-showcase-2025)
+ - [Interview with Craig Federighi and Greg Joswiak on Apple&#39;s struggles to ship AI features, demoed in 2024, with the &quot;V1 Siri architecture&quot; and work on a V2 model &lpar;Lance Ulanoff/TechRadar&rpar;](http://www.techmeme.com/250610/p26#a250610p26)
+ - [Google rolls out Android 16 to Pixel phones, adding group chat to RCS, AI-powered edit suggestions to Google Photos, live notifications on lock screen, and more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250610/p27#a250610p27)
+ - [The Top New Android 16 Features &lpar;2025&rpar;: How to Install, Features, Release Date](https://www.wired.com/story/android-16-features-release-date-how-to-download/)
+ - [Google’s ‘Pixel VIPs’ will help you keep track of your favorite contacts](https://www.theverge.com/news/684565/google-pixel-vip-favorite-contacts-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

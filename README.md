@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Visual Intelligence in iOS 26 makes screenshots useful, not just saved](https://appleinsider.com/articles/25/06/10/visual-intelligence-in-ios-26-makes-screenshots-useful-not-just-saved?utm_medium=rss)
  - [OpenAI announces an 80% price drop for its o3 model and a &quot;flex&quot; mode for synchronous processing that charges $5 for input and $20 for output per million tokens &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250610/p28#a250610p28)
  - [The Top New Features in Apple’s iOS 26 and iPadOS 26](https://www.wired.com/story/apple-ios-26-and-ipados-26-top-new-features/)
- - [Ninja Gaiden 4’s gory combat hides a goofy center](https://www.theverge.com/games/684438/ninja-gaiden-4-hands-on-xbox-showcase-2025)
- - [Interview with Craig Federighi and Greg Joswiak on Apple&#39;s struggles to ship AI features, demoed in 2024, with the &quot;V1 Siri architecture&quot; and work on a V2 model &lpar;Lance Ulanoff/TechRadar&rpar;](http://www.techmeme.com/250610/p26#a250610p26)
- - [Google rolls out Android 16 to Pixel phones, adding group chat to RCS, AI-powered edit suggestions to Google Photos, live notifications on lock screen, and more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250610/p27#a250610p27)<!-- TECH:END -->
+ - [England vs. Senegal: Livestream International Soccer Free From Anywhere](https://www.cnet.com/tech/services-and-software/england-vs-senegal-livestream-international-soccer-free-from-anywhere/#ftag=CAD590a51e)
+ - [Anyone Can Now Access the Largest Space Map Ever Created, Here&#39;s How](https://www.cnet.com/science/space/anyone-can-now-access-the-largest-space-map-ever-created-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

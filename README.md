@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Asking the real questions](http://9gag.com/gag/avyvYRX)
- - 😝 [The not so bright idea](http://9gag.com/gag/avyvN05)
+ - 😝 [The potato test is the only way to be sure.](http://9gag.com/gag/aMVXRqG)
+ - 😝 [Flat Death Star theory](http://9gag.com/gag/a2vb3ed)
  - 💣 [Chastity belt &lpar;Venice museum&rpar;](http://9gag.com/gag/aPAXErB)
- - 😝 [What ridiculous interview questions ahaha! Guy also had nice spot on replies](http://9gag.com/gag/aO81Xbr)
- - 👉 [Flat Death Star theory](http://9gag.com/gag/a2vb3ed)<!-- MEMES:END -->
+ - 😝 [Society\u2026](http://9gag.com/gag/axyPXMn)
+ - 👉 [Asking the real questions](http://9gag.com/gag/avyvYRX)<!-- MEMES:END -->
 
 ---
 

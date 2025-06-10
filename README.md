@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark Zuckerberg says Threads users will soon be able to send direct messages to each other without having to leave the platform, adding a separate inbox for DMs &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250610/p23#a250610p23)
- - [Israel-based Hypernative, which offers real-time threat prevention for crypto companies, raised a $40M Series B, taking its total funding to $67M &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250610/p22#a250610p22)
- - [Threads is finally getting DMs](https://www.theverge.com/news/684120/threads-direct-messaging-inbox-dm-test-availability)
- - [How Local Capture immediately turns iPad into a podcasting studio](https://appleinsider.com/articles/25/06/10/how-local-capture-immediately-turns-ipad-into-a-podcasting-studio?utm_medium=rss)
- - [Republicans are determined to make you pay more for gas](https://www.theverge.com/policy/683596/cafe-fuel-economy-usdot-nhtsa-ev-duffy-republican)<!-- TECH:END -->
+ - [Time Machine&#39;s Time Capsule support ends with macOS 27](https://appleinsider.com/articles/25/06/10/time-machines-time-capsule-support-ends-with-macos-27?utm_medium=rss)
+ - [The ‘Long-Term Danger’ of Trump Sending Troops to the LA Protests](https://www.wired.com/story/trump-marines-national-guard-la-protests/)
+ - [Meta is reportedly making a $15 billion bet on AGI](https://www.theverge.com/news/684322/meta-scale-ai-15-billion-investment-zuckerberg)
+ - [Mark Zuckerberg says Threads users will soon be able to send DMs to each other without having to leave the platform, first in Hong Kong, Argentina, and Thailand &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250610/p23#a250610p23)
+ - [Israel-based Hypernative, which offers real-time threat prevention for crypto companies, raised a $40M Series B, taking its total funding to $67M &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250610/p22#a250610p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

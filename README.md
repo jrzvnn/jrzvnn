@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [IBM plans to build IBM Quantum Starling, a &quot;fault-tolerant&quot; quantum computer with 20,000x the power of today&#39;s quantum computers, in New York state by 2029 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250610/p9#a250610p9)
+ - [The UK plans to launch an autonomous taxi trial in London in spring 2026, a year earlier than planned; Uber and Wayve will partner to operate the service &lpar;Financial Times&rpar;](http://www.techmeme.com/250610/p8#a250610p8)
+ - [What Tear Gas and Rubber Bullets Do to the Human Body](https://www.wired.com/story/what-tear-gas-does-to-the-human-body/)
  - [SAG-AFTRA reaches a tentative deal with Activision, EA, Epic, Take-Two, and other game companies on the Interactive Media Contract, after months of strikes &lpar;Variety&rpar;](http://www.techmeme.com/250610/p7#a250610p7)
- - [LVMH says AI and AI agents will be key to navigating a broad slowdown and waning demand in luxury goods, and is using AI in supply chains, pricing, and more &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250610/p6#a250610p6)
- - [‘Uber for Getting Off Antidepressants’ Launches in the US](https://www.wired.com/story/tapering-off-anti-depressants-outro-telehealth/)
- - [UK retailer M&amp;S begins accepting online orders again, seven weeks after disclosing a sustained cyberattack that cost it up to £300M in this financial year &lpar;Laura Onita/Financial Times&rpar;](http://www.techmeme.com/250610/p5#a250610p5)
- - [ChatGPT is having some issues](https://www.theverge.com/news/684141/openai-chatgpt-sora-outage-issues-june-2025)<!-- TECH:END -->
+ - [LVMH says AI and AI agents will be key to navigating a broad slowdown and waning demand in luxury goods, and is using AI in supply chains, pricing, and more &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250610/p6#a250610p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

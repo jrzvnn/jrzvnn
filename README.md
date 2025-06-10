@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twenty-seven states and DC sue 23andMe to oppose the sale of DNA data from its customers without their direct consent &lpar;Rylee Kirk/New York Times&rpar;](http://www.techmeme.com/250610/p32#a250610p32)
+ - [More than a million people now have Alexa Plus](https://www.theverge.com/news/684560/amazon-alexa-plus-one-million-users-coming-summer-2025)
+ - [It’s more than just a hat](https://www.theverge.com/games/684957/splitgate-2-hat-apology)
  - [If you were underwhelmed by WWDC 2025, you&#39;re not alone](https://appleinsider.com/articles/25/06/10/if-you-were-underwhelmed-by-wwdc-2025-youre-not-alone?utm_medium=rss)
- - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
- - [OpenAI debuts o3-pro for ChatGPT Pro and Team users and in the API, costing $20/1M input and $80/1M output tokens; Enterprise and Edu will get access next week &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/250610/p31#a250610p31)
- - [AI Chatbots Are Making LA Protest Disinformation Worse](https://www.wired.com/story/grok-chatgpt-ai-los-angeles-protest-disinformation/)<!-- TECH:END -->
+ - [Twenty-seven states and DC sue 23andMe to oppose the sale of DNA data from its customers without their direct consent &lpar;Rylee Kirk/New York Times&rpar;](http://www.techmeme.com/250610/p32#a250610p32)
+ - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

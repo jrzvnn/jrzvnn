@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No argument needed here......](http://9gag.com/gag/awy463B)
- - 😝 [Grave Digger putting on a show](http://9gag.com/gag/aKGYQZN)
- - 💣 [Flat Death Star theory](http://9gag.com/gag/a2vb3ed)
- - 😝 [The wait is over! Vote for your fav memes now at our very first Meme69 Award!](http://9gag.com/gag/apRAOW5)
- - 👉 [Tell me you&#39;re retarded without telling me you&#39;re retarded.](http://9gag.com/gag/a0eEAdv)<!-- MEMES:END -->
+ - 😝 [Tell me you&#39;re retarded without telling me you&#39;re retarded.](http://9gag.com/gag/a0eEAdv)
+ - 😝 [Show us your best cursed images!](http://9gag.com/gag/a4PqX61)
+ - 💣 [Bees demonstrate their incredible hot ball defense against a hornet](http://9gag.com/gag/apRAOQn)
+ - 😝 [Pure satisfaction](http://9gag.com/gag/a4Pqe7d)
+ - 👉 [Flat Death Star theory](http://9gag.com/gag/a2vb3ed)<!-- MEMES:END -->
 
 ---
 

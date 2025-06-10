@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How the new iPadOS 26 UI moving closer to Mac is a giant productivity boost](https://appleinsider.com/articles/25/06/10/how-the-new-ipados-26-ui-moving-closer-to-mac-is-a-giant-productivity-boost?utm_medium=rss)
+ - [Xbox&amp;#8217;s new handheld is a surprisingly comfortable way to play Gears](https://www.theverge.com/games/684247/xbox-ally-x-hands-on-gears-of-war-reloaded)
+ - [iOS 26 adds satellite weather updates for offline iPhone users](https://appleinsider.com/articles/25/06/10/ios-26-adds-satellite-weather-updates-for-offline-iphone-users?utm_medium=rss)
  - [Microsoft is moving its Build conference out of Seattle for 2026](https://www.theverge.com/news/684313/microsoft-build-conference-2026-location)
- - [VanMoof’s new S6 e-bikes fix everything but trust](https://www.theverge.com/hands-on/684170/vanmoofs-new-s6-e-bikes-fix-everything-but-trust)
- - [Grab Apple&#39;s M4 Mac mini 24GB for $879, plus get closeout deals from $369](https://appleinsider.com/articles/25/06/10/grab-apples-m4-mac-mini-24gb-for-879-plus-get-closeout-deals-from-369?utm_medium=rss)
- - [Linear, which makes software development and project planning tools that rival Atlassian&#39;s Jira, raised an $82M Series C led by Accel, valuing it at $1.25B &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/250610/p18#a250610p18)
- - [Sources: OpenAI plans to add Google Cloud to meet its growing needs for computing capacity, a surprising collaboration; source: the deal was finalized in May &lpar;Reuters&rpar;](http://www.techmeme.com/250610/p17#a250610p17)<!-- TECH:END -->
+ - [VanMoof’s new S6 e-bikes fix everything but trust](https://www.theverge.com/hands-on/684170/vanmoofs-new-s6-e-bikes-fix-everything-but-trust)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

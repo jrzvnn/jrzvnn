@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Instant Regret](http://9gag.com/gag/aByXD81)
- - 😝 [Mum&#39;s gift policy is strict](http://9gag.com/gag/aAyXoog)
- - 💣 [Bees demonstrate their incredible hot ball defense against a hornet](http://9gag.com/gag/apRAOQn)
- - 😝 [OSHA Approved This Post](http://9gag.com/gag/apRAWXW)
- - 👉 [Asking the real questions](http://9gag.com/gag/avyvYRX)<!-- MEMES:END -->
+ - 😝 [Asking the real questions](http://9gag.com/gag/avyvYRX)
+ - 😝 [Hard to believe](http://9gag.com/gag/aXP2Dgz)
+ - 💣 [Apparently you can learn to speak chicken and command them.](http://9gag.com/gag/aryBYZK)
+ - 😝 [Wtf is this sh*t](http://9gag.com/gag/a2vbBp9)
+ - 👉 [Bees demonstrate their incredible hot ball defense against a hornet](http://9gag.com/gag/apRAOQn)<!-- MEMES:END -->
 
 ---
 

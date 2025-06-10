@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pure satisfaction](http://9gag.com/gag/a4Pqe7d)
- - 😝 [Tell me you&#39;re retarded without telling me you&#39;re retarded.](http://9gag.com/gag/a0eEAdv)
- - 💣 [Bees demonstrate their incredible hot ball defense against a hornet](http://9gag.com/gag/apRAOQn)
- - 😝 [Chastity belt &lpar;Venice museum&rpar;](http://9gag.com/gag/aPAXErB)
- - 👉 [Report 4](http://9gag.com/gag/aMVXo4R)<!-- MEMES:END -->
+ - 😝 [Your typical day in summer](http://9gag.com/gag/a9yX9mW)
+ - 😝 [I did not see that coming](http://9gag.com/gag/adB2EZZ)
+ - 💣 [The 1904 Olympic marathon was an absolute disasterclass in organization.](http://9gag.com/gag/aNDR6yr)
+ - 😝 [Twitter is not](http://9gag.com/gag/aNDR6NG)
+ - 👉 [What ridiculous interview questions ahaha! Guy also had nice spot on replies](http://9gag.com/gag/aO81Xbr)<!-- MEMES:END -->
 
 ---
 

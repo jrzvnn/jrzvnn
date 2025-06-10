@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf is this sh*t](http://9gag.com/gag/a2vbBp9)
  - 😝 [Hard to believe](http://9gag.com/gag/aXP2Dgz)
+ - 😝 [Make it make sense.](http://9gag.com/gag/aYQ18B7)
  - 💣 [Asking the real questions](http://9gag.com/gag/avyvYRX)
  - 😝 [Bois be...](http://9gag.com/gag/aMVXg6x)
- - 👉 [Pure satisfaction](http://9gag.com/gag/a4Pqe7d)<!-- MEMES:END -->
+ - 👉 [OSHA Approved This Post](http://9gag.com/gag/apRAWXW)<!-- MEMES:END -->
 
 ---
 

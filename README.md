@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sam Altman says &quot;intelligence and energy&quot;, the &quot;limiters on human progress&quot;, will be abundant in the 2030s, and superintelligence should be widely distributed &lpar;Sam Altman&rpar;](http://www.techmeme.com/250610/p36#a250610p36)
  - [Sam Altman claims an average ChatGPT query uses ‘roughly one fifteenth of a teaspoon’ of water](https://www.theverge.com/news/685045/sam-altman-average-chatgpt-energy-water)
  - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
  - [Xcode 26 beta code hints at cheaper Apple Vision Pro model](https://appleinsider.com/articles/25/06/10/xcode-26-beta-code-hints-at-cheaper-apple-vision-pro-model?utm_medium=rss)
- - [Amazon says over 1M people now have access to Alexa+, up from &quot;hundreds of thousands&quot; in May, and plans to &quot;make it even more broadly available over the summer&quot; &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250610/p35#a250610p35)
- - [Online trading platform Webull will now allow US retail investors to bet on the future prices of bitcoin and ethereum through a partnership with Kalshi &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250610/p34#a250610p34)<!-- TECH:END -->
+ - [Amazon says over 1M people now have access to Alexa+, up from &quot;hundreds of thousands&quot; in May, and plans to &quot;make it even more broadly available over the summer&quot; &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250610/p35#a250610p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

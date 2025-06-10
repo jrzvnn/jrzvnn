@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bees demonstrate their incredible hot ball defense against a hornet](http://9gag.com/gag/apRAOQn)
- - 😝 [Tell me you&#39;re retarded without telling me you&#39;re retarded.](http://9gag.com/gag/a0eEAdv)
+ - 😝 [That did not go as planned](http://9gag.com/gag/aZZ2eB3)
+ - 😝 [Pure satisfaction](http://9gag.com/gag/a4Pqe7d)
  - 💣 [What ridiculous interview questions ahaha! Guy also had nice spot on replies](http://9gag.com/gag/aO81Xbr)
- - 😝 [Asking the real questions](http://9gag.com/gag/avyvYRX)
- - 👉 [Pure satisfaction](http://9gag.com/gag/a4Pqe7d)<!-- MEMES:END -->
+ - 😝 [Bees demonstrate their incredible hot ball defense against a hornet](http://9gag.com/gag/apRAOQn)
+ - 👉 [Asking the real questions](http://9gag.com/gag/avyvYRX)<!-- MEMES:END -->
 
 ---
 

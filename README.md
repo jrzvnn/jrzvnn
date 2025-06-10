@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&amp;#8217;s Journal app is finally coming to other platforms](https://www.theverge.com/news/684163/apple-journal-app-ipad-mac-support-availability)
+ - [iPadOS 26 fixes nearly everything wrong with the platform after everyone already left](https://appleinsider.com/articles/25/06/10/ipados-26-fixes-nearly-everything-wrong-with-the-platform-after-everyone-already-left?utm_medium=rss)
+ - [Apple brings the iPhone Journal app to iPad and Mac](https://www.theverge.com/news/684163/apple-journal-app-ipad-mac-support-availability)
  - [I Joined Every Class Action Lawsuit I Could Find, and So Can You](https://www.wired.com/story/i-am-hunting-online-for-free-class-action-money-and-so-can-you/)
  - [Code in iOS 26 hints at AirTags 2 coming soon](https://appleinsider.com/articles/25/06/10/code-in-ios-26-hints-at-airtags-2-coming-soon?utm_medium=rss)
- - [Ofcom launches nine Online Safety Act investigations, including into 4chan over alleged illegal content and into seven file-sharing services over possible CSAM &lpar;Sam Tabahriti/Reuters&rpar;](http://www.techmeme.com/250610/p12#a250610p12)
- - [Tencent Music agrees to buy podcasting startup Ximalaya for $1.3B in cash, plus some stock, in a bid to become China&#39;s Spotify; Ximalaya had 303M MAUs in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250610/p11#a250610p11)<!-- TECH:END -->
+ - [Ofcom launches nine Online Safety Act investigations, including into 4chan over alleged illegal content and into seven file-sharing services over possible CSAM &lpar;Sam Tabahriti/Reuters&rpar;](http://www.techmeme.com/250610/p12#a250610p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

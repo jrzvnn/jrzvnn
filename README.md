@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Travel tips for every kind of traveler, and one for the rest of us.](http://9gag.com/gag/apRAO8W)
+ - 😝 [Can you Skip to the Civil War already, plz](http://9gag.com/gag/aPAXN6V)
+ - 💣 [Childhoodmemories](http://9gag.com/gag/awy4Rq1)
  - 😝 [Asking the real questions](http://9gag.com/gag/avyvYRX)
- - 😝 [Hard to believe](http://9gag.com/gag/aXP2Dgz)
- - 💣 [Apparently you can learn to speak chicken and command them.](http://9gag.com/gag/aryBYZK)
- - 😝 [Wtf is this sh*t](http://9gag.com/gag/a2vbBp9)
- - 👉 [Bees demonstrate their incredible hot ball defense against a hornet](http://9gag.com/gag/apRAOQn)<!-- MEMES:END -->
+ - 👉 [Karen gets disappointed](http://9gag.com/gag/a9yXo9o)<!-- MEMES:END -->
 
 ---
 

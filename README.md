@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When internet tutorials meet reality](http://9gag.com/gag/aVv2Aw8)
- - 😝 [Boys on tour have different priorities](http://9gag.com/gag/a6ZpPKL)
- - 💣 [OSHA Approved This Post](http://9gag.com/gag/apRAWXW)
- - 😝 [Wtf is this sh*t](http://9gag.com/gag/a2vbBp9)
- - 👉 [Bees demonstrate their incredible hot ball defense against a hornet](http://9gag.com/gag/apRAOQn)<!-- MEMES:END -->
+ - 😝 [Hard to believe](http://9gag.com/gag/aXP2Dgz)
+ - 😝 [Mum&#39;s gift policy is strict](http://9gag.com/gag/aAyXoog)
+ - 💣 [The not so bright idea](http://9gag.com/gag/avyvN05)
+ - 😝 [What power!](http://9gag.com/gag/aE0XLOe)
+ - 👉 [Wtf is this sh*t](http://9gag.com/gag/a2vbBp9)<!-- MEMES:END -->
 
 ---
 

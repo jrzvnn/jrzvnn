@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 26 iPhone battery overhaul: Trends and Adaptive Power](https://appleinsider.com/articles/25/06/10/ios-26-iphone-battery-overhaul-trends-and-adaptive-power?utm_medium=rss)
- - [The Top New Features in Apple WatchOS 26](https://www.wired.com/story/top-new-features-in-watchos-26/)
- - [Sony WH-1000XM6 vs. Bose QuietComfort Ultra: Which Is Best?](https://www.wired.com/story/sony-wh-1000xm6-vs-bose-quietcomfort-ultra/)
- - [The Verge staff on the Switch 2: what we love and what we don’t](https://www.theverge.com/nintendo/682075/verge-staffers-react-nintendo-switch-2)
- - [Similarweb: Google&#39;s AI tools are significantly cutting organic search traffic to news publishers; traffic to BI, HuffPost, and WaPo is down 50%+ in three years &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250610/p13#a250610p13)<!-- TECH:END -->
+ - [Hang on, did the iPad just become a computer?](https://www.theverge.com/ipad/684229/ipados-26-hands-on-multitasking-mac)
+ - [Splatoon is getting a Switch 2 spinoff, and a big Splatoon 3 update](https://www.theverge.com/news/684199/splatoon-raiders-switch-2-spinoff)
+ - [Investigation: Russian network engineer Viktor Vedeneev controls thousands of Telegram IP addresses and maintains its servers; his companies have FSB links &lpar;Roman Anin/OCCRP&rpar;](http://www.techmeme.com/250610/p15#a250610p15)
+ - [Airlines Don’t Want You to Know They Sold Your Flight Data to DHS](https://www.wired.com/story/airlines-dont-want-you-to-know-they-sold-your-flight-data-to-dhs/)
+ - [The New York Times is starting to test its take on Scrabble](https://www.theverge.com/games/682063/the-new-york-times-nyt-games-crossplay-scrabble-pips)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

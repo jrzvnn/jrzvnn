@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon says over 1M people now have access to Alexa+, up from &quot;hundreds of thousands&quot; in May, and plans to &quot;make it even more broadly available over the summer&quot; &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250610/p35#a250610p35)
  - [Online trading platform Webull will now allow US retail investors to bet on the future prices of bitcoin and ethereum through a partnership with Kalshi &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250610/p34#a250610p34)
  - [Why Can&#39;t I Get a Job Right Now? 9 Expert Tips to Stand Out to Recruiters](https://www.cnet.com/personal-finance/banking/why-cant-i-get-a-job-right-now-9-expert-tips-to-stand-out-to-recruiters/#ftag=CAD590a51e)
  - [iPadOS 26: Here Are All the New Features Coming to Your iPad](https://www.cnet.com/tech/services-and-software/ipados-26-here-are-all-the-new-features-coming-to-your-ipad/#ftag=CAD590a51e)
- - [London-based Maze, which uses AI agents to stop cloud security breaches, launches with $31M in total funding, including a $25M Series A led by Theory Ventures &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250610/p33#a250610p33)
- - [Starlink Doubled Its Speed In Two Years. It Still Doesn’t Meet the FCC’s Minimum](https://www.cnet.com/home/internet/starlink-doubled-its-speed-in-two-years-it-still-doesnt-meet-the-fccs-minimum/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [London-based Maze, which uses AI agents to stop cloud security breaches, launches with $31M in total funding, including a $25M Series A led by Theory Ventures &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250610/p33#a250610p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

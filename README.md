@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Plus tax](http://9gag.com/gag/adBo009)
- - 😝 [Metal](http://9gag.com/gag/aLnXq0V)
+ - 😝 [When they try to hide the assets](http://9gag.com/gag/an7DA30)
+ - 😝 [I give it 3 month max before we hear stories of people&#39;s grandparents being tricked by fake AI news clips](http://9gag.com/gag/aQzO6jK)
  - 💣 [The adulting struggle is real](http://9gag.com/gag/aD2OROG)
- - 😝 [Internal dialogue](http://9gag.com/gag/avydpxO)
- - 👉 [The loyalty is unmatched](http://9gag.com/gag/a5Qjmdq)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/avydpeb)
+ - 👉 [Romanian citizenship test](http://9gag.com/gag/a0eEm7Q)<!-- MEMES:END -->
 
 ---
 

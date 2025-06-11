@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I think i had a pretty great 4th date.](http://9gag.com/gag/aAyXWv9)
- - 😝 [He really wanted those numbers](http://9gag.com/gag/aByORwx)
- - 💣 [Gamer Girlfriends](http://9gag.com/gag/a0eEm4n)
- - 😝 [It wasn&#39;t discovered until after the sale went through. There&#39;s nothing for it lads, Im stuck with it.](http://9gag.com/gag/aVv2npP)
- - 👉 [The incredible blue light inside a nuclear reactor core is mesmerizing.](http://9gag.com/gag/ae92vy5)<!-- MEMES:END -->
+ - 😝 [Pure satisfaction](http://9gag.com/gag/a4Pqe7d)
+ - 😝 [OSHA Approved This Post](http://9gag.com/gag/apRAWXW)
+ - 💣 [Metal](http://9gag.com/gag/aLnXq0V)
+ - 😝 [I give it 3 month max before we hear stories of people&#39;s grandparents being tricked by fake AI news clips](http://9gag.com/gag/aQzO6jK)
+ - 👉 [The loyalty is unmatched](http://9gag.com/gag/a5Qjmdq)<!-- MEMES:END -->
 
 ---
 

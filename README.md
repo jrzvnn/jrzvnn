@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Forever and always.](http://9gag.com/gag/agmErnn)
- - 😝 [Romanian citizenship test](http://9gag.com/gag/a0eEm7Q)
- - 💣 [French policeman used talent to find illegaly bought sheep, waiting for the A\u00efd slaughter.](http://9gag.com/gag/aByXq1Z)
- - 😝 [It doesn&#39;t have to make sense, just push it](http://9gag.com/gag/aNDR6Dr)
- - 👉 [England has fallen](http://9gag.com/gag/a6ZpWMq)<!-- MEMES:END -->
+ - 😝 [Mistakes were made](http://9gag.com/gag/axyPp8b)
+ - 😝 [Eider ducks](http://9gag.com/gag/a5QqpgN)
+ - 💣 [While HR is the `motion sensor` that works only when someone passes by](http://9gag.com/gag/apRAe99)
+ - 😝 [Electricity](http://9gag.com/gag/an7rqjV)
+ - 👉 [Gamer Girlfriends](http://9gag.com/gag/a0eEm4n)<!-- MEMES:END -->
 
 ---
 

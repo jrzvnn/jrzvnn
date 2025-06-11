@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Asking the real questions](http://9gag.com/gag/avyvYRX)
- - 😝 [After avoiding flights for years due to emissions, Israel has expelled Greta via a plane to Paris.](http://9gag.com/gag/a87wPrQ)
- - 💣 [Mistakes were made](http://9gag.com/gag/axyPp8b)
- - 😝 [While HR is the `motion sensor` that works only when someone passes by](http://9gag.com/gag/apRAe99)
- - 👉 [Eider ducks](http://9gag.com/gag/a5QqpgN)<!-- MEMES:END -->
+ - 😝 [Experience the fun of interactive design at this exhibition](http://9gag.com/gag/aZZ2GAQ)
+ - 😝 [Our queen](http://9gag.com/gag/ajPWQrp)
+ - 💣 [UNO reverse colonization](http://9gag.com/gag/a9yX3AW)
+ - 😝 [The loyalty is unmatched](http://9gag.com/gag/a5Qjmdq)
+ - 👉 [Rachel Zegler &lpar;She / Her / Hers&rpar; opinion](http://9gag.com/gag/aByX74N)<!-- MEMES:END -->
 
 ---
 

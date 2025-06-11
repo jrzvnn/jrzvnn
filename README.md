@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The adulting struggle is real](http://9gag.com/gag/aD2OROG)
+ - 😝 [I also never wanted a babysitter](http://9gag.com/gag/a4PqD5Q)
+ - 💣 [What power!](http://9gag.com/gag/aE0XLOe)
  - 😝 [Forever and always.](http://9gag.com/gag/agmErnn)
- - 😝 [That&#39;s not quite what we meant by &#39;off-road capabilities&#39;.](http://9gag.com/gag/ae97KK5)
- - 💣 [I also never wanted a babysitter](http://9gag.com/gag/a4PqD5Q)
- - 😝 [OSHA Approved This Post](http://9gag.com/gag/apRAWXW)
- - 👉 [Rachel Zegler &lpar;She / Her / Hers&rpar; opinion](http://9gag.com/gag/aByX74N)<!-- MEMES:END -->
+ - 👉 [OSHA Approved This Post](http://9gag.com/gag/apRAWXW)<!-- MEMES:END -->
 
 ---
 

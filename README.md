@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Experience the fun of interactive design at this exhibition](http://9gag.com/gag/aZZ2GAQ)
- - 😝 [Our queen](http://9gag.com/gag/ajPWQrp)
- - 💣 [UNO reverse colonization](http://9gag.com/gag/a9yX3AW)
- - 😝 [The loyalty is unmatched](http://9gag.com/gag/a5Qjmdq)
+ - 😝 [Forever and always.](http://9gag.com/gag/agmErnn)
+ - 😝 [That&#39;s not quite what we meant by &#39;off-road capabilities&#39;.](http://9gag.com/gag/ae97KK5)
+ - 💣 [I also never wanted a babysitter](http://9gag.com/gag/a4PqD5Q)
+ - 😝 [OSHA Approved This Post](http://9gag.com/gag/apRAWXW)
  - 👉 [Rachel Zegler &lpar;She / Her / Hers&rpar; opinion](http://9gag.com/gag/aByX74N)<!-- MEMES:END -->
 
 ---

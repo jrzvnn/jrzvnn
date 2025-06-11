@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/avydpeb)
- - 😝 [When they try to hide the assets](http://9gag.com/gag/an7DA30)
- - 💣 [Metal](http://9gag.com/gag/aLnXq0V)
- - 😝 [Don&#39;t make me call my mom](http://9gag.com/gag/axyYd3b)
- - 👉 [Romanian citizenship test](http://9gag.com/gag/a0eEm7Q)<!-- MEMES:END -->
+ - 😝 [Internal dialogue](http://9gag.com/gag/avydpxO)
+ - 😝 [Bro is going through it](http://9gag.com/gag/azxYgOj)
+ - 💣 [He really wanted those numbers](http://9gag.com/gag/aByORwx)
+ - 😝 [Privacy protection Walmart version](http://9gag.com/gag/adBo0QZ)
+ - 👉 [Title](http://9gag.com/gag/avydpeb)<!-- MEMES:END -->
 
 ---
 

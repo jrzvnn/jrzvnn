@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mickey &amp; Minions vs Midjourney: Creators sue over turning characters into AI slop](https://appleinsider.com/articles/25/06/11/mickey-minions-vs-midjourney-creators-sue-over-turning-characters-into-ai-slop?utm_medium=rss)
- - [Reddit is looking for a new product boss](https://www.theverge.com/tech/685645/reddit-chief-product-officer-pali-bhat-leaving)
- - [Stripe has agreed to acquire Privy, which helps companies build crypto wallets into their user experiences; Privy was last valued at $230M in March 2025 &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/250611/p35#a250611p35)
- - [An Experimental New Dating Site Matches Singles Based on Their Browser Histories](https://www.wired.com/story/an-experimental-new-dating-site-matches-singles-based-on-their-browser-histories/)
- - [Amazon MGM Studios says it will have a $1B slate in 2026 and release 20 movies; 10 will have theatrical runs and will not be exclusive to Prime Video thereafter &lpar;Stewart Clarke/Deadline&rpar;](http://www.techmeme.com/250611/p34#a250611p34)<!-- TECH:END -->
+ - [FCC’s last Democratic commissioner doesn’t know why Trump hasn’t fired her yet](https://www.theverge.com/policy/685599/fcc-commissioner-democrat-anna-gomez-trump-carr-first-amendment-tour)
+ - [How to secure your phone before attending a protest](https://www.theverge.com/21276979/phone-protest-demonstration-activism-digital-how-to-security-privacy)
+ - [Markdown and Menu Bars: How Apple Notes on iPadOS 26 has matured](https://appleinsider.com/articles/25/06/11/markdown-and-menu-bars-how-apple-notes-on-ipados-26-has-matured?utm_medium=rss)
+ - [Meta adds AI video editing tools to the Edits app and Meta AI, letting users edit up to 10 seconds of a video with 50+ preset prompts, free for a &quot;limited time&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250611/p36#a250611p36)
+ - [Mickey &amp; Minions vs Midjourney: Creators sue over turning characters into AI slop](https://appleinsider.com/articles/25/06/11/mickey-minions-vs-midjourney-creators-sue-over-turning-characters-into-ai-slop?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

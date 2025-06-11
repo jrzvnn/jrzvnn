@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia plans to build its first industrial AI cloud platform in Germany for European manufacturers, combining AI with robotics to assist carmakers like BMW &lpar;Reuters&rpar;](http://www.techmeme.com/250611/p43#a250611p43)
  - [Blackstone Griddle Air Fryer Combo Review: Silly, but Nice](https://www.wired.com/review/blackstone-iron-forged-griddle-air-fryer/)
  - [A majority of six of the 11 judges on Brazil&#39;s Supreme Court have voted to hold social media companies liable for some types of users&#39; content seen as illegal &lpar;Ricardo Brito/Reuters&rpar;](http://www.techmeme.com/250611/p42#a250611p42)
  - [This Hilarious Prime Video Caper Flips the Script on British Crime Drama](https://www.cnet.com/tech/services-and-software/this-hilarious-prime-video-caper-flips-the-script-on-british-crime-drama/#ftag=CAD590a51e)
- - [Yes, an iPhone Could Cost More Than $2,200 With Tariffs. Should You Buy One Now?](https://www.cnet.com/personal-finance/taxes/yes-an-iphone-could-cost-more-than-2200-with-tariffs-should-you-buy-one-now/#ftag=CAD590a51e)
- - [Apple Home is expanding its energy management features](https://www.theverge.com/news/685733/apple-home-energykit-energy-management-ios26-wwdc)<!-- TECH:END -->
+ - [Yes, an iPhone Could Cost More Than $2,200 With Tariffs. Should You Buy One Now?](https://www.cnet.com/personal-finance/taxes/yes-an-iphone-could-cost-more-than-2200-with-tariffs-should-you-buy-one-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

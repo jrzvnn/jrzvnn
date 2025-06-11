@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The war is on for Congress’ AI law ban](https://www.theverge.com/ai-artificial-intelligence/684924/congress-big-beautiful-bill-state-ai-law-ban-pushback)
- - [Capcom’s lineup at Summer Game Fest was a mix of bold and boring](https://www.theverge.com/games/685296/capcom-summer-game-fest-resident-evil-requiem-pragmata)
- - [Filing: Disney and NBCUniversal sue Midjourney in California, accusing it of direct and secondary copyright infringement; they say talks with Midjourney failed &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250611/p26#a250611p26)
- - [macOS 26 Phone app will eventually combine iPhone calls &amp; desktop seamlessly](https://appleinsider.com/articles/25/06/11/macos-26-phone-app-will-eventually-combine-iphone-calls-desktop-seamlessly?utm_medium=rss)
- - [Trump claims the US-China trade war is over](https://www.theverge.com/news/685390/trump-us-china-trade-war-agreement)<!-- TECH:END -->
+ - [U.S. lawmakers &amp; WhatsApp side with Apple against UK demand for iCloud encryption backdoor](https://appleinsider.com/articles/25/06/11/us-lawmakers-whatsapp-side-with-apple-against-uk-demand-for-icloud-encryption-backdoor?utm_medium=rss)
+ - [How to install the iOS 26 and iPadOS 26 developer betas](https://www.theverge.com/684487/ios-ipados-26-install-developer-how-to)
+ - [New iOS 26 translation tool works inside calls, chats &amp; video](https://appleinsider.com/articles/25/06/11/new-ios-26-translation-tool-works-inside-calls-chats-video?utm_medium=rss)
+ - [A Steven Universe spinoff is in the works at Amazon](https://www.theverge.com/news/685418/amazon-steven-universe-lars-of-the-stars)
+ - [The war is on for Congress’ AI law ban](https://www.theverge.com/ai-artificial-intelligence/684924/congress-big-beautiful-bill-state-ai-law-ban-pushback)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

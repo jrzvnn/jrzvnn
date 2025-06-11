@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Romanian citizenship test](http://9gag.com/gag/a0eEm7Q)
- - 😝 [Experience the fun of interactive design at this exhibition](http://9gag.com/gag/aZZ2GAQ)
- - 💣 [Decided by mere milliseconds, an incredible race finish.](http://9gag.com/gag/axyPxGK)
+ - 😝 [Living the dream, castle and cats included.](http://9gag.com/gag/abA2jjr)
  - 😝 [Wtf is this sh*t](http://9gag.com/gag/a2vbBp9)
- - 👉 [Pure satisfaction](http://9gag.com/gag/a4Pqe7d)<!-- MEMES:END -->
+ - 💣 [The incredible blue light inside a nuclear reactor core is mesmerizing.](http://9gag.com/gag/ae92vy5)
+ - 😝 [Forever and always.](http://9gag.com/gag/agmErnn)
+ - 👉 [Experience the fun of interactive design at this exhibition](http://9gag.com/gag/aZZ2GAQ)<!-- MEMES:END -->
 
 ---
 

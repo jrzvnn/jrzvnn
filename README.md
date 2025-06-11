@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Instant Regret](http://9gag.com/gag/aByXD81)
  - 😝 [I give it 3 month max before we hear stories of people&#39;s grandparents being tricked by fake AI news clips](http://9gag.com/gag/aQzO6jK)
- - 😝 [Oh Britain \u2026 What have you done.](http://9gag.com/gag/axyYdzW)
- - 💣 [Gamer Girlfriends](http://9gag.com/gag/a0eEm4n)
+ - 💣 [The loyalty is unmatched](http://9gag.com/gag/a5Qjmdq)
  - 😝 [Metal](http://9gag.com/gag/aLnXq0V)
- - 👉 [The adulting struggle is real](http://9gag.com/gag/aD2OROG)<!-- MEMES:END -->
+ - 👉 [UNO reverse colonization](http://9gag.com/gag/a9yX3AW)<!-- MEMES:END -->
 
 ---
 

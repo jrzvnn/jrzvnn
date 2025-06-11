@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mistakes were made](http://9gag.com/gag/axyPp8b)
- - 😝 [Eider ducks](http://9gag.com/gag/a5QqpgN)
- - 💣 [While HR is the `motion sensor` that works only when someone passes by](http://9gag.com/gag/apRAe99)
- - 😝 [Guess what day it is!](http://9gag.com/gag/aLndR2A)
- - 👉 [Gamer Girlfriends](http://9gag.com/gag/a0eEm4n)<!-- MEMES:END -->
+ - 😝 [Instant Regret](http://9gag.com/gag/aByXD81)
+ - 😝 [Forever and always.](http://9gag.com/gag/agmErnn)
+ - 💣 [Tell me you&#39;re retarded without telling me you&#39;re retarded.](http://9gag.com/gag/a0eEAdv)
+ - 😝 [It wasn&#39;t discovered until after the sale went through. There&#39;s nothing for it lads, Im stuck with it.](http://9gag.com/gag/aVv2npP)
+ - 👉 [The loyalty is unmatched](http://9gag.com/gag/a5Qjmdq)<!-- MEMES:END -->
 
 ---
 

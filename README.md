@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I give it 3 month max before we hear stories of people&#39;s grandparents being tricked by fake AI news clips](http://9gag.com/gag/aQzO6jK)
  - 😝 [Pure satisfaction](http://9gag.com/gag/a4Pqe7d)
- - 💣 [The potato test is the only way to be sure.](http://9gag.com/gag/aMVXRqG)
- - 😝 [The adulting struggle is real](http://9gag.com/gag/aD2OROG)
- - 👉 [Op&#39;s favourite gym, oh wait I&#39;m Op. Anyone for the gym? No homo](http://9gag.com/gag/a2vLz1Y)<!-- MEMES:END -->
+ - 😝 [The loyalty is unmatched](http://9gag.com/gag/a5Qjmdq)
+ - 💣 [Decided by mere milliseconds, an incredible race finish.](http://9gag.com/gag/axyPxGK)
+ - 😝 [He really wanted those numbers](http://9gag.com/gag/aByORwx)
+ - 👉 [The adulting struggle is real](http://9gag.com/gag/aD2OROG)<!-- MEMES:END -->
 
 ---
 

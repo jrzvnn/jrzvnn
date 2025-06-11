@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anyone Can Now Access the Largest Space Map Ever Created. Here&#39;s How](https://www.cnet.com/science/space/anyone-can-now-access-the-largest-space-map-ever-created-heres-how/#ftag=CAD590a51e)
+ - [Elon Musk says Tesla&#39;s robotaxi service will &quot;tentatively&quot; begin on June 22 in Austin, with first autonomous deliveries of a car to a customer&#39;s home on June 28 &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/250610/p39#a250610p39)
+ - [President Emmanuel Macron says France will ban social media access for children under 15 within &quot;a few months&quot; if it is not done at the European level &lpar;Gavin Blackburn/Euronews&rpar;](http://www.techmeme.com/250610/p38#a250610p38)
  - [Craig Federighi confirms Apple’s first attempt at an AI Siri wasn’t good enough](https://www.theverge.com/news/685106/apple-ai-siri-delay-craig-federighi-greg-joswiak-wwdc-2025)
- - [ChatGPT’s daylong outage is nearly fixed](https://www.theverge.com/news/684141/openai-chatgpt-sora-outage-issues-june-2025)
- - [The best smart rings for tracking sleep and health](https://www.theverge.com/tech/647901/best-smart-rings)
- - [Apple execs explain Apple&#39;s position in the AI race &amp; how it isn&#39;t necessarily &#39;behind&#39;](https://appleinsider.com/articles/25/06/10/apple-execs-explain-apples-position-in-the-ai-race-how-it-isnt-necessarily-behind?utm_medium=rss)
- - [6 Best Organic Sheets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-organic-sheets/)<!-- TECH:END -->
+ - [ChatGPT’s daylong outage is nearly fixed](https://www.theverge.com/news/684141/openai-chatgpt-sora-outage-issues-june-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

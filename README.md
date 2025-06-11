@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [UNO reverse colonization](http://9gag.com/gag/a9yX3AW)
- - 😝 [The loyalty is unmatched](http://9gag.com/gag/a5Qjmdq)
- - 💣 [Forever and always.](http://9gag.com/gag/agmErnn)
- - 😝 [Society\u2026](http://9gag.com/gag/axyPXMn)
- - 👉 [The potato test is the only way to be sure.](http://9gag.com/gag/aMVXRqG)<!-- MEMES:END -->
+ - 😝 [Mistakes were made](http://9gag.com/gag/axyPp8b)
+ - 😝 [Asking the real questions](http://9gag.com/gag/avyvYRX)
+ - 💣 [After avoiding flights for years due to emissions, Israel has expelled Greta via a plane to Paris.](http://9gag.com/gag/a87wPrQ)
+ - 😝 [Karen gets disappointed](http://9gag.com/gag/a9yXo9o)
+ - 👉 [While HR is the `motion sensor` that works only when someone passes by](http://9gag.com/gag/apRAe99)<!-- MEMES:END -->
 
 ---
 

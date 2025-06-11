@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stripe has agreed to acquire Privy, which helps companies build crypto wallets into their user experiences; Privy was last valued at $230M in March 2025 &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/250611/p35#a250611p35)
+ - [An Experimental New Dating Site Matches Singles Based on Their Browser Histories](https://www.wired.com/story/an-experimental-new-dating-site-matches-singles-based-on-their-browser-histories/)
  - [Amazon MGM Studios says it will have a $1B slate in 2026 and release 20 movies; 10 will have theatrical runs and will not be exclusive to Prime Video thereafter &lpar;Stewart Clarke/Deadline&rpar;](http://www.techmeme.com/250611/p34#a250611p34)
  - [How Waymo Handles Footage From Events Like the LA Immigration Protests](https://www.wired.com/story/waymo-data-privacy-protests-los-angeles/)
- - [Sources and docs: Amazon Prime Video ad load has increased to 4-6 minutes per hour, up from 2-3.5 minutes when ads were first introduced in January 2024 &lpar;Mark Stenberg/Adweek&rpar;](http://www.techmeme.com/250611/p33#a250611p33)
- - [Apple TV+ is about art more than iPhone sales says Tim Cook](https://appleinsider.com/articles/25/06/11/apple-tv-is-about-art-more-than-iphone-sales-says-tim-cook?utm_medium=rss)
- - [Trump trumpets trade deal with China that&#39;s still terrible for Apple](https://appleinsider.com/articles/25/06/11/trump-trumpets-trade-deal-with-china-thats-still-terrible-for-apple?utm_medium=rss)<!-- TECH:END -->
+ - [Sources and docs: Amazon Prime Video ad load has increased to 4-6 minutes per hour, up from 2-3.5 minutes when ads were first introduced in January 2024 &lpar;Mark Stenberg/Adweek&rpar;](http://www.techmeme.com/250611/p33#a250611p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

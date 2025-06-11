@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music iOS 26 update brings motion, color &amp; depth to the iPhone Lock Screen](https://appleinsider.com/articles/25/06/11/apple-music-ios-26-update-brings-motion-color-depth-to-the-iphone-lock-screen?utm_medium=rss)
+ - [New Apple Design Resources helps Liquid Glass app development for iOS 26, macOS Tahoe](https://appleinsider.com/articles/25/06/11/apple-design-resources-update-helps-developer-make-liquid-glass-apps-for-ios-26-macos-tahoe?utm_medium=rss)
+ - [Disney and Universal sue Midjourney for making AI ripoffs of their biggest characters](https://www.theverge.com/ai-artificial-intelligence/685433/disney-universal-sue-midjourney-copyright-infringement)
+ - [Memo: Google appoints a new chief AI architect, DeepMind CTO Koray Kavukcuoglu, who will coordinate future AI-powered product development &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250611/p29#a250611p29)
  - [Apple makes Child Accounts in iOS 26 safer with new management tools](https://appleinsider.com/articles/25/06/11/apple-makes-child-accounts-in-ios-26-safer-with-new-management-tools?utm_medium=rss)
- - [Sources: Chinese diplomats agree to a six-month ease of rare-earth export licenses, with the earliest application approval within a week of the deal&#39;s signing &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250611/p27#a250611p27)
- - [A Deep Learning Alternative Can Help AI Agents Gameplay the Real World](https://www.wired.com/story/a-deep-learning-alternative-can-help-ai-agents-gameplay-the-real-world/)
- - [Nintendo says your bad Switch 2 battery life might be a bug](https://www.theverge.com/news/685505/nintendo-says-your-bad-switch-2-battery-life-might-be-a-bug)<!-- TECH:END -->
+ - [Researchers find the first known &quot;zero-click&quot; attack on an AI agent; the now-fixed flaw in Microsoft 365 Copilot would let a hacker attack a user via an email &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/250611/p28#a250611p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Deep Learning Alternative Can Help AI Agents Gameplay the Real World](https://www.wired.com/story/a-deep-learning-alternative-can-help-ai-agents-gameplay-the-real-world/)
+ - [Nintendo says your bad Switch 2 battery life might be a bug](https://www.theverge.com/news/685505/nintendo-says-your-bad-switch-2-battery-life-might-be-a-bug)
  - [Amazon’s note-taking Kindle Scribe is the cheapest it’s ever been](https://www.theverge.com/tech/685049/kindle-scribe-beats-powerbeats-pro-2-deal-sale)
  - [The Switch 2 is available online from Best Buy right now](https://www.theverge.com/tech/685259/nintendo-switch-2-console-online-restock-best-buy)
- - [Liquid Glass is more than skin deep on macOS Tahoe](https://appleinsider.com/articles/25/06/11/liquid-glass-is-more-than-skin-deep-on-macos-tahoe?utm_medium=rss)
- - [Blowout special: Apple&#39;s M3 Pro MacBook Pro plunges to $1,499](https://appleinsider.com/articles/25/06/11/blowout-special-apples-m3-pro-macbook-pro-plunges-to-1499?utm_medium=rss)
- - [How to secure your phone before attending a protest](https://www.theverge.com/21276979/phone-protest-demonstration-activism-digital-how-to-security-privacy)<!-- TECH:END -->
+ - [Liquid Glass is more than skin deep on macOS Tahoe](https://appleinsider.com/articles/25/06/11/liquid-glass-is-more-than-skin-deep-on-macos-tahoe?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amsterdam-based Tebi, which offers a payments platform for hospitality companies, raised €30M led by CapitalG, after a €20M Series A in October 2024 &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/250611/p15#a250611p15)
  - [Inside the AI Party at the End of the World](https://www.wired.com/story/ai-risk-party-san-francisco/)
  - [Apple MacOS 26 Tahoe: Top New Features to Try](https://www.wired.com/story/macos-26-tahoe-top-features/)
  - [A profile of Twitch streamer and YouTuber Ross Minor, blind since age 8, who is an advocate and consultant for blind-accessible video games like Sea of Thieves &lpar;Dexter Thomas/Wired&rpar;](http://www.techmeme.com/250611/p14#a250611p14)
- - [Amazon is about to be flooded with AI-generated video ads](https://www.theverge.com/news/685160/amazon-ads-ai-video-generator-us-launch-availability)
- - [Nvidia unveils new projects to bolster AI infrastructure across Europe, including expanding its Mistral partnership to use local AI computing, at a Paris event &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250611/p13#a250611p13)<!-- TECH:END -->
+ - [Amazon is about to be flooded with AI-generated video ads](https://www.theverge.com/news/685160/amazon-ads-ai-video-generator-us-launch-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

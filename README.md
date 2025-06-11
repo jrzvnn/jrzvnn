@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A majority of six of the 11 judges on Brazil&#39;s Supreme Court have voted to hold social media companies liable for some types of users&#39; content seen as illegal &lpar;Ricardo Brito/Reuters&rpar;](http://www.techmeme.com/250611/p42#a250611p42)
  - [Apple Home is expanding its energy management features](https://www.theverge.com/news/685733/apple-home-energykit-energy-management-ios26-wwdc)
  - [iOS 26 brings new ChatGPT-powered styles to Genmoji and Image Playground](https://appleinsider.com/articles/25/06/11/ios-26-brings-new-chatgpt-powered-styles-to-genmoji-and-image-playground?utm_medium=rss)
  - [Android 16 review: live updates and Advanced Protection are nice, but features like desktop mode and Material 3 Expressive design won&#39;t come until later in 2025 &lpar;Ryan Whitwam/Ars Technica&rpar;](http://www.techmeme.com/250611/p41#a250611p41)
- - [Google will reduce Pixel 6A battery capacity due to overheating issues](https://www.theverge.com/news/685738/google-pixel-6a-battery-overheating-update)
- - [NBA Finals 2025: How to Watch Thunder vs. Pacers Game 3 Tonight](https://www.cnet.com/tech/services-and-software/nba-finals-2025-how-to-watch-thunder-vs-pacers-game-3-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google will reduce Pixel 6A battery capacity due to overheating issues](https://www.theverge.com/news/685738/google-pixel-6a-battery-overheating-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

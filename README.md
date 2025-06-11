@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Eider ducks](http://9gag.com/gag/a5QqpgN)
- - 😝 [Asking the real questions](http://9gag.com/gag/avyvYRX)
- - 💣 [After avoiding flights for years due to emissions, Israel has expelled Greta via a plane to Paris.](http://9gag.com/gag/a87wPrQ)
- - 😝 [Karen gets disappointed](http://9gag.com/gag/a9yXo9o)
- - 👉 [While HR is the `motion sensor` that works only when someone passes by](http://9gag.com/gag/apRAe99)<!-- MEMES:END -->
+ - 😝 [I think i had a pretty great 4th date.](http://9gag.com/gag/aAyXWv9)
+ - 😝 [The potato test is the only way to be sure.](http://9gag.com/gag/aMVXRqG)
+ - 💣 [Asking the real questions](http://9gag.com/gag/avyvYRX)
+ - 😝 [The loyalty is unmatched](http://9gag.com/gag/a5Qjmdq)
+ - 👉 [Hard to believe](http://9gag.com/gag/aXP2Dgz)<!-- MEMES:END -->
 
 ---
 

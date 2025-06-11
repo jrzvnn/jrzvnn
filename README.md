@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I know that was the the most embarrassing moment his life.](https://www.reddit.com/r/funny/comments/1l8kp6l/i_know_that_was_the_the_most_embarrassing_moment/)
  - 😝 [Decided by mere milliseconds, an incredible race finish.](http://9gag.com/gag/axyPxGK)
- - 😝 [Wtf is this sh*t](http://9gag.com/gag/a2vbBp9)
- - 💣 [The potato test is the only way to be sure.](http://9gag.com/gag/aMVXRqG)
- - 😝 [The incredible blue light inside a nuclear reactor core is mesmerizing.](http://9gag.com/gag/ae92vy5)
- - 👉 [The loyalty is unmatched](http://9gag.com/gag/a5Qjmdq)<!-- MEMES:END -->
+ - 💣 [Wtf is this sh*t](http://9gag.com/gag/a2vbBp9)
+ - 😝 [The potato test is the only way to be sure.](http://9gag.com/gag/aMVXRqG)
+ - 👉 [The incredible blue light inside a nuclear reactor core is mesmerizing.](http://9gag.com/gag/ae92vy5)<!-- MEMES:END -->
 
 ---
 

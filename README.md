@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Disney and NBCUniversal sue Midjourney in California, accusing it of direct and secondary copyright infringement; they say talks with Midjourney failed &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250611/p26#a250611p26)
+ - [macOS 26 Phone app will eventually combine iPhone calls &amp; desktop seamlessly](https://appleinsider.com/articles/25/06/11/macos-26-phone-app-will-eventually-combine-iphone-calls-desktop-seamlessly?utm_medium=rss)
+ - [Trump claims the US-China trade war is over](https://www.theverge.com/news/685390/trump-us-china-trade-war-agreement)
  - [Meta launches V-JEPA 2, an open-source AI &quot;world model&quot; to understand and predict 3D environments and object movements, to help robotics and self-driving cars &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250611/p25#a250611p25)
- - [Senators Warn DOGE’s Social Security Administration Work Could Break Benefits](https://www.wired.com/story/doge-social-security-administration-benefits/)
- - [This smart pizza oven improved my pie-making skills](https://www.theverge.com/smart-home-review/681701/current-model-p-smart-pizza-oven-review)
- - [The Browser Company launches Dia, a macOS browser in beta for Arc users based around an AI chat sidebar that can access tabs, history, and logged-in sites &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/250611/p24#a250611p24)
- - [Logitech&#39;s Flip Folio makes iPad work more flexible](https://appleinsider.com/articles/25/06/11/logitechs-flip-folio-makes-ipad-work-more-flexible?utm_medium=rss)<!-- TECH:END -->
+ - [Senators Warn DOGE’s Social Security Administration Work Could Break Benefits](https://www.wired.com/story/doge-social-security-administration-benefits/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

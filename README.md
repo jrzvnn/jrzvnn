@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mistakes were made](http://9gag.com/gag/axyPp8b)
- - 😝 [Eider ducks](http://9gag.com/gag/a5QqpgN)
- - 💣 [While HR is the `motion sensor` that works only when someone passes by](http://9gag.com/gag/apRAe99)
- - 😝 [Electricity](http://9gag.com/gag/an7rqjV)
- - 👉 [Gamer Girlfriends](http://9gag.com/gag/a0eEm4n)<!-- MEMES:END -->
+ - 😝 [Romanian citizenship test](http://9gag.com/gag/a0eEm7Q)
+ - 😝 [Experience the fun of interactive design at this exhibition](http://9gag.com/gag/aZZ2GAQ)
+ - 💣 [Decided by mere milliseconds, an incredible race finish.](http://9gag.com/gag/axyPxGK)
+ - 😝 [Wtf is this sh*t](http://9gag.com/gag/a2vbBp9)
+ - 👉 [Pure satisfaction](http://9gag.com/gag/a4Pqe7d)<!-- MEMES:END -->
 
 ---
 

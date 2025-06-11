@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Living the dream, castle and cats included.](http://9gag.com/gag/abA2jjr)
- - 😝 [That&#39;s not quite what we meant by &#39;off-road capabilities&#39;.](http://9gag.com/gag/ae97KK5)
- - 💣 [Experience the fun of interactive design at this exhibition](http://9gag.com/gag/aZZ2GAQ)
- - 😝 [I also never wanted a babysitter](http://9gag.com/gag/a4PqD5Q)
- - 👉 [Forever and always.](http://9gag.com/gag/agmErnn)<!-- MEMES:END -->
+ - 😝 [Mistakes were made](http://9gag.com/gag/axyPp8b)
+ - 😝 [Eider ducks](http://9gag.com/gag/a5QqpgN)
+ - 💣 [While HR is the `motion sensor` that works only when someone passes by](http://9gag.com/gag/apRAe99)
+ - 😝 [Guess what day it is!](http://9gag.com/gag/aLndR2A)
+ - 👉 [Gamer Girlfriends](http://9gag.com/gag/a0eEm4n)<!-- MEMES:END -->
 
 ---
 

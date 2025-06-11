@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mickey &amp; Minions vs Midjourney: Creators sue over turning characters into AI slop](https://appleinsider.com/articles/25/06/11/mickey-minions-vs-midjourney-creators-sue-over-turning-characters-into-ai-slop?utm_medium=rss)
  - [Reddit is looking for a new product boss](https://www.theverge.com/tech/685645/reddit-chief-product-officer-pali-bhat-leaving)
  - [Stripe has agreed to acquire Privy, which helps companies build crypto wallets into their user experiences; Privy was last valued at $230M in March 2025 &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/250611/p35#a250611p35)
  - [An Experimental New Dating Site Matches Singles Based on Their Browser Histories](https://www.wired.com/story/an-experimental-new-dating-site-matches-singles-based-on-their-browser-histories/)
- - [Amazon MGM Studios says it will have a $1B slate in 2026 and release 20 movies; 10 will have theatrical runs and will not be exclusive to Prime Video thereafter &lpar;Stewart Clarke/Deadline&rpar;](http://www.techmeme.com/250611/p34#a250611p34)
- - [How Waymo Handles Footage From Events Like the LA Immigration Protests](https://www.wired.com/story/waymo-data-privacy-protests-los-angeles/)<!-- TECH:END -->
+ - [Amazon MGM Studios says it will have a $1B slate in 2026 and release 20 movies; 10 will have theatrical runs and will not be exclusive to Prime Video thereafter &lpar;Stewart Clarke/Deadline&rpar;](http://www.techmeme.com/250611/p34#a250611p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

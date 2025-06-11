@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It wasn&#39;t discovered until after the sale went through. There&#39;s nothing for it lads, Im stuck with it.](http://9gag.com/gag/aVv2npP)
- - 😝 [Title](http://9gag.com/gag/avydpeb)
- - 💣 [Make it make sense.](http://9gag.com/gag/aYQ18B7)
- - 😝 [Privacy protection Walmart version](http://9gag.com/gag/adBo0QZ)
- - 👉 [Bro is going through it](http://9gag.com/gag/azxYgOj)<!-- MEMES:END -->
+ - 😝 [Guess what day it is!](http://9gag.com/gag/aLndR2A)
+ - 😝 [Order of operations matters, apparently.](http://9gag.com/gag/aKGOwoQ)
+ - 💣 [Repost, but sometimes all you need is a quack. Sorry for the text tho](http://9gag.com/gag/azxYgMb)
+ - 😝 [Where&#39;s the lie?](http://9gag.com/gag/abAQXxL)
+ - 👉 [Plus tax](http://9gag.com/gag/adBo009)<!-- MEMES:END -->
 
 ---
 

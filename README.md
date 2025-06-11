@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta’s new AI video tool can put you in a desert &lpar;or at least try to&rpar;](https://www.theverge.com/news/685581/meta-video-editing-ai-preset-prompts)
- - [Apple’s updated parental controls will require kids to get permission to text new numbers](https://www.theverge.com/news/685582/apple-parental-controls-child-safety-features-permission-text)
- - [Sources: Jack Rae, a principal researcher at Google DeepMind, is expected to join Meta&#39;s &quot;superintelligence&quot; team, as well as an ML lead from Sesame AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250611/p32#a250611p32)
- - [Disney and Universal Sue AI Company Midjourney for Copyright Infringement](https://www.wired.com/story/disney-universal-sue-midjourney/)
- - [The Wikimedia Foundation pauses an experiment that showed Wikipedia users AI-generated summaries at the top of some articles, following an editor backlash &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250611/p31#a250611p31)<!-- TECH:END -->
+ - [Amazon MGM Studios says it will have a $1B slate in 2026 and release 20 movies; 10 will have theatrical runs and will not be exclusive to Prime Video thereafter &lpar;Stewart Clarke/Deadline&rpar;](http://www.techmeme.com/250611/p34#a250611p34)
+ - [How Waymo Handles Footage From Events Like the LA Immigration Protests](https://www.wired.com/story/waymo-data-privacy-protests-los-angeles/)
+ - [Sources and docs: Amazon Prime Video ad load has increased to 4-6 minutes per hour, up from 2-3.5 minutes when ads were first introduced in January 2024 &lpar;Mark Stenberg/Adweek&rpar;](http://www.techmeme.com/250611/p33#a250611p33)
+ - [Apple TV+ is about art more than iPhone sales says Tim Cook](https://appleinsider.com/articles/25/06/11/apple-tv-is-about-art-more-than-iphone-sales-says-tim-cook?utm_medium=rss)
+ - [Trump trumpets trade deal with China that&#39;s still terrible for Apple](https://appleinsider.com/articles/25/06/11/trump-trumpets-trade-deal-with-china-thats-still-terrible-for-apple?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

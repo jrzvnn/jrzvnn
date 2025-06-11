@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iOS 26 brings new ChatGPT-powered styles to Genmoji and Image Playground](https://appleinsider.com/articles/25/06/11/ios-26-brings-new-chatgpt-powered-styles-to-genmoji-and-image-playground?utm_medium=rss)
+ - [Android 16 review: live updates and Advanced Protection are nice, but features like desktop mode and Material 3 Expressive design won&#39;t come until later in 2025 &lpar;Ryan Whitwam/Ars Technica&rpar;](http://www.techmeme.com/250611/p41#a250611p41)
+ - [Google will reduce Pixel 6A battery capacity due to overheating issues](https://www.theverge.com/news/685738/google-pixel-6a-battery-overheating-update)
  - [London-based OneBalance, which lets developers integrate crypto features into their apps, raised a $20M Series A led by Cyber Fund and Blockchain Capital &lpar;Catherine McGrath/Fortune&rpar;](http://www.techmeme.com/250611/p40#a250611p40)
- - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
- - [Oracle Q4: revenue up 11% YoY to $15.9B, vs. $15.59B est., cloud revenue up 27% YoY, signals strong cloud infrastructure revenue growth; ORCL up 6%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250611/p39#a250611p39)
- - [The EPA Wants to Roll Back Emissions Controls on Power Plants](https://www.wired.com/story/the-epa-is-trying-to-roll-back-emissions-controls-on-power-plants/)
- - [Sources: CoreWeave will provide computing capacity to Google as part of Google&#39;s cloud deal with OpenAI; Google will also supply its own compute to OpenAI &lpar;Reuters&rpar;](http://www.techmeme.com/250611/p38#a250611p38)<!-- TECH:END -->
+ - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

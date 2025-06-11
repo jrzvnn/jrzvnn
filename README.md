@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Protesting Tips: What to Bring, How to Act, How to Stay Safe](https://www.wired.com/story/how-to-protest-safely-gear-tips/)
  - [Elon Musk says &quot;I regret some of my posts about President Trump last week. They went too far&quot;; Trump said he had no interest in repairing the relationship &lpar;Andrés R. Martínez/New York Times&rpar;](http://www.techmeme.com/250611/p9#a250611p9)
  - [Hong Kong invokes its national security law to ban Taiwanese-made mobile game Reversed Front: Bonfire, marking the first known use of the law to block a game &lpar;Alan Wong/Bloomberg&rpar;](http://www.techmeme.com/250611/p8#a250611p8)
  - [President Trump&#39;s spending bill could limit local control over zoning and environmental regulations for AI data centers, worrying state lawmakers &lpar;Molly Taft/Wired&rpar;](http://www.techmeme.com/250611/p7#a250611p7)
- - [Logitech’s new iPad case has a compact removable wireless keyboard](https://www.theverge.com/news/684344/logitech-flip-folio-keyboard-case-bluetooth-apple-ipad-pro-air)
- - [OpenAI&#39;s o3-pro is much smarter than o3 and amazing at using tools, but the model requires extensive context to perform optimally and may overthink without it &lpar;Ben Hylak/Latent.Space&rpar;](http://www.techmeme.com/250611/p6#a250611p6)<!-- TECH:END -->
+ - [Logitech’s new iPad case has a compact removable wireless keyboard](https://www.theverge.com/news/684344/logitech-flip-folio-keyboard-case-bluetooth-apple-ipad-pro-air)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

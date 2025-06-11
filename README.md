@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Asking the real questions](http://9gag.com/gag/avyvYRX)
- - 😝 [Mistakes were made](http://9gag.com/gag/axyPp8b)
- - 💣 [After avoiding flights for years due to emissions, Israel has expelled Greta via a plane to Paris.](http://9gag.com/gag/a87wPrQ)
- - 😝 [Eider ducks](http://9gag.com/gag/a5QqpgN)
- - 👉 [While HR is the `motion sensor` that works only when someone passes by](http://9gag.com/gag/apRAe99)<!-- MEMES:END -->
+ - 😝 [After avoiding flights for years due to emissions, Israel has expelled Greta via a plane to Paris.](http://9gag.com/gag/a87wPrQ)
+ - 💣 [Mistakes were made](http://9gag.com/gag/axyPp8b)
+ - 😝 [While HR is the `motion sensor` that works only when someone passes by](http://9gag.com/gag/apRAe99)
+ - 👉 [Eider ducks](http://9gag.com/gag/a5QqpgN)<!-- MEMES:END -->
 
 ---
 

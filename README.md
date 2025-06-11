@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Liquid Glass is more than skin deep on macOS Tahoe](https://appleinsider.com/articles/25/06/11/liquid-glass-is-more-than-skin-deep-on-macos-tahoe?utm_medium=rss)
  - [Blowout special: Apple&#39;s M3 Pro MacBook Pro plunges to $1,499](https://appleinsider.com/articles/25/06/11/blowout-special-apples-m3-pro-macbook-pro-plunges-to-1499?utm_medium=rss)
  - [How to secure your phone before attending a protest](https://www.theverge.com/21276979/phone-protest-demonstration-activism-digital-how-to-security-privacy)
  - [U.S. lawmakers &amp; WhatsApp side with Apple against UK demand for iCloud encryption backdoor](https://appleinsider.com/articles/25/06/11/us-lawmakers-whatsapp-side-with-apple-against-uk-demand-for-icloud-encryption-backdoor?utm_medium=rss)
- - [How to install the iOS 26 and iPadOS 26 developer betas](https://www.theverge.com/684487/ios-ipados-26-install-developer-how-to)
- - [New iOS 26 translation tool works inside calls, chats &amp; video](https://appleinsider.com/articles/25/06/11/new-ios-26-translation-tool-works-inside-calls-chats-video?utm_medium=rss)<!-- TECH:END -->
+ - [How to install the iOS 26 and iPadOS 26 developer betas](https://www.theverge.com/684487/ios-ipados-26-install-developer-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

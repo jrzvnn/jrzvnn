@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Will Cathcart says WhatsApp plans to support Apple in its legal case against the UK Home Office over weakening encryption, which may &quot;set a dangerous precedent&quot; &lpar;Zoe Kleinman/BBC&rpar;](http://www.techmeme.com/250611/p17#a250611p17)
- - [Apple Design Resources update helps developer make Liquid Glass apps for iOS 26, macOS Tahoe](https://appleinsider.com/articles/25/06/11/apple-design-resources-update-helps-developer-make-liquid-glass-apps-for-ios-26-macos-tahoe?utm_medium=rss)
+ - [Huawei’s latest phone fits two telephoto lenses into one camera](https://www.theverge.com/news/685191/huawei-pura-80-ultra-switchable-dual-telephoto-periscope-lens)
  - [LA Apple Store looted during anti-ICE protests](https://appleinsider.com/articles/25/06/11/la-apple-store-looted-during-anti-ice-protests?utm_medium=rss)
- - [Nintendo&amp;#8217;s Switch 2 is the fastest-selling game console of all time](https://www.theverge.com/news/685162/nintendo-switch-2-sales-figures-record)
- - [14 Best Hair Straighteners We Tested &lpar;2025&rpar;](https://www.wired.com/gallery/best-hair-straighteners/)<!-- TECH:END -->
+ - [HP unveils Dimension, the first hardware built with Google&#39;s 3D video conferencing tech, featuring a 65-inch light field display, launching in 2025 for $25,000 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250611/p19#a250611p19)
+ - [8 Best Cordless Vacuums for Your Whole House &lpar;2025&rpar;](https://www.wired.com/gallery/best-cordless-vacuum/)
+ - [HP reveals $24,999 hardware created just for Google Beam](https://www.theverge.com/news/684859/hp-dimension-google-beam-3d-video-communication)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

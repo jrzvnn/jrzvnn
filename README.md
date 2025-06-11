@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New &#39;F1&#39; trailer brings roaring engines and a pounding soundtrack to life with haptic feedback](https://appleinsider.com/articles/25/06/11/new-f1-trailer-brings-roaring-engines-and-a-pounding-soundtrack-to-life-with-haptic-feedback?utm_medium=rss)
  - [Whole Foods supplier United Natural Foods says it is working to restore its systems by June 15 after a cyberattack, leaving empty shelves and stalled forklifts &lpar;Bloomberg&rpar;](http://www.techmeme.com/250611/p10#a250611p10)
  - [Artificial Intelligence Is Unlocking the Secrets of Black Holes](https://www.wired.com/story/artificial-intelligence-is-unlocking-the-secrets-of-black-holes/)
- - [Samsung’s fridges now recognize family members by voice](https://www.theverge.com/news/685154/samsung-smart-fridges-bixby-voice-recognition-bespoke-ai)
- - [BMW iX3 prototype drive: your next-gen EV is nearly here](https://www.theverge.com/bmw/684404/bmw-ix3-ev-prototype-neue-klasse-first-drive)
- - [Protesting Tips: What to Bring, How to Act, How to Stay Safe](https://www.wired.com/story/how-to-protest-safely-gear-tips/)<!-- TECH:END -->
+ - [Here&#39;s the Secret I Learned About Opening a CD at Just the Right Time](https://www.cnet.com/personal-finance/banking/heres-the-secret-i-learned-about-opening-a-cd-at-just-the-right-time/#ftag=CAD590a51e)
+ - [Samsung’s fridges now recognize family members by voice](https://www.theverge.com/news/685154/samsung-smart-fridges-bixby-voice-recognition-bespoke-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

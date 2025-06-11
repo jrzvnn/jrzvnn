@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [My Virtual Avatar No Longer Looks Terrible in the Apple Vision Pro](https://www.wired.com/story/apples-vision-pro-personas-look-so-much-better/)
+ - [Polygon co-founder Sandeep Nailwal is named CEO of the Polygon Foundation after the departure of Mihailo Bjelic, and unveils changes to streamline the nonprofit &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250611/p37#a250611p37)
+ - [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)
  - [FCC’s last Democratic commissioner doesn’t know why Trump hasn’t fired her yet](https://www.theverge.com/policy/685599/fcc-commissioner-democrat-anna-gomez-trump-carr-first-amendment-tour)
- - [How to secure your phone before attending a protest](https://www.theverge.com/21276979/phone-protest-demonstration-activism-digital-how-to-security-privacy)
- - [Markdown and Menu Bars: How Apple Notes on iPadOS 26 has matured](https://appleinsider.com/articles/25/06/11/markdown-and-menu-bars-how-apple-notes-on-ipados-26-has-matured?utm_medium=rss)
- - [Meta adds AI video editing tools to the Edits app and Meta AI, letting users edit up to 10 seconds of a video with 50+ preset prompts, free for a &quot;limited time&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250611/p36#a250611p36)
- - [Mickey &amp; Minions vs Midjourney: Creators sue over turning characters into AI slop](https://appleinsider.com/articles/25/06/11/mickey-minions-vs-midjourney-creators-sue-over-turning-characters-into-ai-slop?utm_medium=rss)<!-- TECH:END -->
+ - [How to secure your phone before attending a protest](https://www.theverge.com/21276979/phone-protest-demonstration-activism-digital-how-to-security-privacy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

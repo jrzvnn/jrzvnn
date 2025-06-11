@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [It wasn&#39;t discovered until after the sale went through. There&#39;s nothing for it lads, Im stuck with it.](http://9gag.com/gag/aVv2npP)
- - 😝 [Make it make sense.](http://9gag.com/gag/aYQ18B7)
- - 💣 [Romanian citizenship test](http://9gag.com/gag/a0eEm7Q)
- - 😝 [He really wanted those numbers](http://9gag.com/gag/aByORwx)
+ - 😝 [Title](http://9gag.com/gag/avydpeb)
+ - 💣 [Make it make sense.](http://9gag.com/gag/aYQ18B7)
+ - 😝 [Privacy protection Walmart version](http://9gag.com/gag/adBo0QZ)
  - 👉 [Bro is going through it](http://9gag.com/gag/azxYgOj)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rachel Zegler &lpar;She / Her / Hers&rpar; opinion](http://9gag.com/gag/aByX74N)
- - 😝 [Experience the fun of interactive design at this exhibition](http://9gag.com/gag/aZZ2GAQ)
- - 💣 [Ofcourse, Gohan gonna marry some strong girl instead of some one that looks like Bulma](http://9gag.com/gag/a34WV8N)
- - 😝 [It wasn&#39;t discovered until after the sale went through. There&#39;s nothing for it lads, Im stuck with it.](http://9gag.com/gag/aVv2npP)
- - 👉 [The loyalty is unmatched](http://9gag.com/gag/a5Qjmdq)<!-- MEMES:END -->
+ - 😝 [While HR is the `motion sensor` that works only when someone passes by](http://9gag.com/gag/apRAe99)
+ - 😝 [I give it 3 month max before we hear stories of people&#39;s grandparents being tricked by fake AI news clips](http://9gag.com/gag/aQzO6jK)
+ - 💣 [Gamer Girlfriends](http://9gag.com/gag/a0eEm4n)
+ - 😝 [Reaching peak adulting involves questioning ingredient lists.](http://9gag.com/gag/aMVXp0G)
+ - 👉 [He really wanted those numbers](http://9gag.com/gag/aByORwx)<!-- MEMES:END -->
 
 ---
 

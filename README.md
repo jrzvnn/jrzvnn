@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [My Virtual Avatar No Longer Looks Terrible in the Apple Vision Pro](https://www.wired.com/story/apples-vision-pro-personas-look-so-much-better/)
- - [Polygon co-founder Sandeep Nailwal is named CEO of the Polygon Foundation after the departure of Mihailo Bjelic, and unveils changes to streamline the nonprofit &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250611/p37#a250611p37)
- - [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)
- - [FCC’s last Democratic commissioner doesn’t know why Trump hasn’t fired her yet](https://www.theverge.com/policy/685599/fcc-commissioner-democrat-anna-gomez-trump-carr-first-amendment-tour)
- - [How to secure your phone before attending a protest](https://www.theverge.com/21276979/phone-protest-demonstration-activism-digital-how-to-security-privacy)<!-- TECH:END -->
+ - [Switch 2 Blows Past Records to Reach 3.5 Million Sales in Four Days](https://www.cnet.com/tech/gaming/switch-2-blows-past-records-to-reach-3-5-million-sales-in-four-days/#ftag=CAD590a51e)
+ - [Sources: CoreWeave will provide computing capacity to Google as part of Google&#39;s cloud deal with OpenAI; Google will also supply its own compute to OpenAI &lpar;Reuters&rpar;](http://www.techmeme.com/250611/p38#a250611p38)
+ - [Get a Free Marvel Rivals Future Foundation Skin and Hawkeye Skin in Season 2.5](https://www.cnet.com/tech/gaming/get-a-free-marvel-rivals-future-foundation-skin-and-hawkeye-skin-in-season-2-5/#ftag=CAD590a51e)
+ - [OpenAI Launches Improved Version of Latest Reasoning Model. Here&#39;s What It&#39;s Best For](https://www.cnet.com/tech/services-and-software/openai-launches-improved-version-of-latest-reasoning-model-heres-what-its-best-for/#ftag=CAD590a51e)
+ - [My Virtual Avatar No Longer Looks Terrible in the Apple Vision Pro](https://www.wired.com/story/apples-vision-pro-personas-look-so-much-better/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When they try to hide the assets](http://9gag.com/gag/an7DA30)
- - 😝 [I give it 3 month max before we hear stories of people&#39;s grandparents being tricked by fake AI news clips](http://9gag.com/gag/aQzO6jK)
- - 💣 [The adulting struggle is real](http://9gag.com/gag/aD2OROG)
  - 😝 [Title](http://9gag.com/gag/avydpeb)
+ - 😝 [When they try to hide the assets](http://9gag.com/gag/an7DA30)
+ - 💣 [Metal](http://9gag.com/gag/aLnXq0V)
+ - 😝 [Don&#39;t make me call my mom](http://9gag.com/gag/axyYd3b)
  - 👉 [Romanian citizenship test](http://9gag.com/gag/a0eEm7Q)<!-- MEMES:END -->
 
 ---

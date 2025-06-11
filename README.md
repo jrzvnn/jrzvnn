@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The war is on for Congress’ AI law ban](https://www.theverge.com/ai-artificial-intelligence/684924/congress-big-beautiful-bill-state-ai-law-ban-pushback)
+ - [Capcom’s lineup at Summer Game Fest was a mix of bold and boring](https://www.theverge.com/games/685296/capcom-summer-game-fest-resident-evil-requiem-pragmata)
  - [Filing: Disney and NBCUniversal sue Midjourney in California, accusing it of direct and secondary copyright infringement; they say talks with Midjourney failed &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250611/p26#a250611p26)
  - [macOS 26 Phone app will eventually combine iPhone calls &amp; desktop seamlessly](https://appleinsider.com/articles/25/06/11/macos-26-phone-app-will-eventually-combine-iphone-calls-desktop-seamlessly?utm_medium=rss)
- - [Trump claims the US-China trade war is over](https://www.theverge.com/news/685390/trump-us-china-trade-war-agreement)
- - [Meta launches V-JEPA 2, an open-source AI &quot;world model&quot; to understand and predict 3D environments and object movements, to help robotics and self-driving cars &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250611/p25#a250611p25)
- - [Senators Warn DOGE’s Social Security Administration Work Could Break Benefits](https://www.wired.com/story/doge-social-security-administration-benefits/)<!-- TECH:END -->
+ - [Trump claims the US-China trade war is over](https://www.theverge.com/news/685390/trump-us-china-trade-war-agreement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

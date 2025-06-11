@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mistakes were made](http://9gag.com/gag/axyPp8b)
+ - 😝 [Eider ducks](http://9gag.com/gag/a5QqpgN)
  - 😝 [Asking the real questions](http://9gag.com/gag/avyvYRX)
  - 💣 [After avoiding flights for years due to emissions, Israel has expelled Greta via a plane to Paris.](http://9gag.com/gag/a87wPrQ)
  - 😝 [Karen gets disappointed](http://9gag.com/gag/a9yXo9o)

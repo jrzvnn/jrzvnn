@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pure satisfaction](http://9gag.com/gag/a4Pqe7d)
- - 😝 [The loyalty is unmatched](http://9gag.com/gag/a5Qjmdq)
- - 💣 [Decided by mere milliseconds, an incredible race finish.](http://9gag.com/gag/axyPxGK)
- - 😝 [He really wanted those numbers](http://9gag.com/gag/aByORwx)
- - 👉 [The adulting struggle is real](http://9gag.com/gag/aD2OROG)<!-- MEMES:END -->
+ - 😝 [Plus tax](http://9gag.com/gag/adBo009)
+ - 😝 [Metal](http://9gag.com/gag/aLnXq0V)
+ - 💣 [The adulting struggle is real](http://9gag.com/gag/aD2OROG)
+ - 😝 [Internal dialogue](http://9gag.com/gag/avydpxO)
+ - 👉 [The loyalty is unmatched](http://9gag.com/gag/a5Qjmdq)<!-- MEMES:END -->
 
 ---
 

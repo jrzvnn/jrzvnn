@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia unveils new projects to bolster AI infrastructure across Europe, including expanding its Mistral partnership to use local AI computing, at a Paris event &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250611/p13#a250611p13)
+ - [The 5 Best Organic Mattress Toppers &lpar;2025&rpar;](https://www.wired.com/gallery/best-organic-mattress-toppers/)
+ - [How ad agency WPP is embracing AI tools, despite the threat to its creative business, as its stock falls 50% in seven years; its WPP Open platform has 50K users &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/250611/p12#a250611p12)
  - [macOS Tahoe 26 hands-on: Liquid Glass is slick but slightly overwrought, and the new Spotlight search features are nifty and useful, but fall short of Raycast &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/250611/p11#a250611p11)
- - [He’s Blind. He Plays Video Games. Here’s How That Works](https://www.wired.com/story/ross-minor-the-blind-leading-the-gamers/)
- - [New &#39;F1&#39; trailer brings roaring engines and a pounding soundtrack to life with haptic feedback](https://appleinsider.com/articles/25/06/11/new-f1-trailer-brings-roaring-engines-and-a-pounding-soundtrack-to-life-with-haptic-feedback?utm_medium=rss)
- - [Whole Foods supplier United Natural Foods says it is working to restore its systems by June 15 after a cyberattack, leaving empty shelves and stalled forklifts &lpar;Bloomberg&rpar;](http://www.techmeme.com/250611/p10#a250611p10)
- - [Artificial Intelligence Is Unlocking the Secrets of Black Holes](https://www.wired.com/story/artificial-intelligence-is-unlocking-the-secrets-of-black-holes/)<!-- TECH:END -->
+ - [He’s Blind. He Plays Video Games. Here’s How That Works](https://www.wired.com/story/ross-minor-the-blind-leading-the-gamers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

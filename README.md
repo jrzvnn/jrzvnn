@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon&#39;s Ad Video Generator, a free tool to create gen AI ads and depict items as they would be used in the real world, is now available for sellers in the US &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250611/p30#a250611p30)
+ - [You can own a functional version of Jeff Koons’ Balloon Dog sculptures for $750](https://www.theverge.com/news/685571/jeff-koons-lexon-design-balloon-dog-bluetooth-speaker-lamp)
  - [New Apple Design Resources helps Liquid Glass app development for iOS 26, macOS Tahoe](https://appleinsider.com/articles/25/06/11/apple-design-resources-update-helps-developer-make-liquid-glass-apps-for-ios-26-macos-tahoe?utm_medium=rss)
  - [Disney and Universal sue Midjourney for making AI ripoffs of their biggest characters](https://www.theverge.com/ai-artificial-intelligence/685433/disney-universal-sue-midjourney-copyright-infringement)
- - [Memo: Google appoints a new chief AI architect, DeepMind CTO Koray Kavukcuoglu, who will coordinate future AI-powered product development &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250611/p29#a250611p29)
- - [Apple makes Child Accounts in iOS 26 safer with new management tools](https://appleinsider.com/articles/25/06/11/apple-makes-child-accounts-in-ios-26-safer-with-new-management-tools?utm_medium=rss)
- - [Researchers find the first known &quot;zero-click&quot; attack on an AI agent; the now-fixed flaw in Microsoft 365 Copilot would let a hacker attack a user via an email &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/250611/p28#a250611p28)<!-- TECH:END -->
+ - [Memo: Google appoints a new chief AI architect, DeepMind CTO Koray Kavukcuoglu, who will coordinate future AI-powered product development &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250611/p29#a250611p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

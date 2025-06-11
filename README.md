@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The adulting struggle is real](http://9gag.com/gag/aD2OROG)
- - 😝 [I also never wanted a babysitter](http://9gag.com/gag/a4PqD5Q)
- - 💣 [What power!](http://9gag.com/gag/aE0XLOe)
- - 😝 [Forever and always.](http://9gag.com/gag/agmErnn)
- - 👉 [OSHA Approved This Post](http://9gag.com/gag/apRAWXW)<!-- MEMES:END -->
+ - 😝 [That April Fools prank did not go as planned.](http://9gag.com/gag/abA29PE)
+ - 😝 [Decided by mere milliseconds, an incredible race finish.](http://9gag.com/gag/axyPxGK)
+ - 💣 [Experience the fun of interactive design at this exhibition](http://9gag.com/gag/aZZ2GAQ)
+ - 😝 [The loyalty is unmatched](http://9gag.com/gag/a5Qjmdq)
+ - 👉 [Rachel Zegler &lpar;She / Her / Hers&rpar; opinion](http://9gag.com/gag/aByX74N)<!-- MEMES:END -->
 
 ---
 

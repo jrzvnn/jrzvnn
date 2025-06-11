@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [DoorDash acquires adtech company Symbiosys for $175M, as part of a major update to its ad business that now generates $1B+ annually &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250611/p22#a250611p22)
  - [Coco Robotics, which operates a fleet of cooler-sized delivery robots on wheels, raised $80M from Sam Altman and others, taking its total funding to $110M+ &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250611/p21#a250611p21)
- - [President Trump says a trade framework with China &quot;is done, subject to final approval with President Xi and me&quot;, and the US tariff rate would be 55% &quot;total&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250611/p20#a250611p20)
+ - [President Trump says a trade framework with China &quot;is done, subject to final approval with President Xi and me&quot;, and the US&#39; tariff rate would be 55% &quot;total&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250611/p20#a250611p20)
  - [Best Workout Headphones We Tested and Sweated In &lpar;2025&rpar;](https://www.wired.com/gallery/best-workout-headphones/)
  - [Huawei’s latest phone fits two telephoto lenses into one camera](https://www.theverge.com/news/685191/huawei-pura-80-ultra-switchable-dual-telephoto-periscope-lens)<!-- TECH:END -->
 

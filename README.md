@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [President Trump&#39;s spending bill could limit local control over zoning and environmental regulations for AI data centers, worrying state lawmakers &lpar;Molly Taft/Wired&rpar;](http://www.techmeme.com/250611/p7#a250611p7)
  - [Logitech’s new iPad case has a compact removable wireless keyboard](https://www.theverge.com/news/684344/logitech-flip-folio-keyboard-case-bluetooth-apple-ipad-pro-air)
  - [OpenAI&#39;s o3-pro is much smarter than o3 and amazing at using tools, but the model requires extensive context to perform optimally and may overthink without it &lpar;Ben Hylak/Latent.Space&rpar;](http://www.techmeme.com/250611/p6#a250611p6)
  - [Sources detail how X has used threats of lawsuits and high pressure tactics to motivate companies such as Amazon and Verizon to resume advertising on the site &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250611/p5#a250611p5)
- - [Ukraine&#39;s security service says AI allowed its drones to keep flying &quot;along a pre-planned route&quot; even after losing signal in Russia during &quot;Operation Spiderweb&quot; &lpar;Fabrice Deprez/Financial Times&rpar;](http://www.techmeme.com/250611/p4#a250611p4)
- - [Analysis: Nvidia&#39;s $500B US spending plan has accelerated the US AI server ecosystem development, with at least eight suppliers unveiling new investment plans &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250611/p3#a250611p3)<!-- TECH:END -->
+ - [Ukraine&#39;s security service says AI allowed its drones to keep flying &quot;along a pre-planned route&quot; even after losing signal in Russia during &quot;Operation Spiderweb&quot; &lpar;Fabrice Deprez/Financial Times&rpar;](http://www.techmeme.com/250611/p4#a250611p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

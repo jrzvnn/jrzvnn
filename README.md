@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [macOS Tahoe 26 hands-on: Liquid Glass is slick but slightly overwrought, and the new Spotlight search features are nifty and useful, but fall short of Raycast &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/250611/p11#a250611p11)
+ - [He’s Blind. He Plays Video Games. Here’s How That Works](https://www.wired.com/story/ross-minor-the-blind-leading-the-gamers/)
  - [New &#39;F1&#39; trailer brings roaring engines and a pounding soundtrack to life with haptic feedback](https://appleinsider.com/articles/25/06/11/new-f1-trailer-brings-roaring-engines-and-a-pounding-soundtrack-to-life-with-haptic-feedback?utm_medium=rss)
  - [Whole Foods supplier United Natural Foods says it is working to restore its systems by June 15 after a cyberattack, leaving empty shelves and stalled forklifts &lpar;Bloomberg&rpar;](http://www.techmeme.com/250611/p10#a250611p10)
- - [Artificial Intelligence Is Unlocking the Secrets of Black Holes](https://www.wired.com/story/artificial-intelligence-is-unlocking-the-secrets-of-black-holes/)
- - [Here&#39;s the Secret I Learned About Opening a CD at Just the Right Time](https://www.cnet.com/personal-finance/banking/heres-the-secret-i-learned-about-opening-a-cd-at-just-the-right-time/#ftag=CAD590a51e)
- - [Samsung’s fridges now recognize family members by voice](https://www.theverge.com/news/685154/samsung-smart-fridges-bixby-voice-recognition-bespoke-ai)<!-- TECH:END -->
+ - [Artificial Intelligence Is Unlocking the Secrets of Black Holes](https://www.wired.com/story/artificial-intelligence-is-unlocking-the-secrets-of-black-holes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

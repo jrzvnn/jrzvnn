@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chime priced its US IPO at $27 a share, above the expected range, raising ~$700M and another $165M from shares sold by investors, valuing the company at $11.6B &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250611/p44#a250611p44)
  - [Nvidia plans to build its first industrial AI cloud platform in Germany for European manufacturers, combining AI with robotics to assist carmakers like BMW &lpar;Reuters&rpar;](http://www.techmeme.com/250611/p43#a250611p43)
  - [Blackstone Griddle Air Fryer Combo Review: Silly, but Nice](https://www.wired.com/review/blackstone-iron-forged-griddle-air-fryer/)
  - [A majority of six of the 11 judges on Brazil&#39;s Supreme Court have voted to hold social media companies liable for some types of users&#39; content seen as illegal &lpar;Ricardo Brito/Reuters&rpar;](http://www.techmeme.com/250611/p42#a250611p42)
- - [This Hilarious Prime Video Caper Flips the Script on British Crime Drama](https://www.cnet.com/tech/services-and-software/this-hilarious-prime-video-caper-flips-the-script-on-british-crime-drama/#ftag=CAD590a51e)
- - [Yes, an iPhone Could Cost More Than $2,200 With Tariffs. Should You Buy One Now?](https://www.cnet.com/personal-finance/taxes/yes-an-iphone-could-cost-more-than-2200-with-tariffs-should-you-buy-one-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This Hilarious Prime Video Caper Flips the Script on British Crime Drama](https://www.cnet.com/tech/services-and-software/this-hilarious-prime-video-caper-flips-the-script-on-british-crime-drama/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

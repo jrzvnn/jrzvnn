@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ukraine&#39;s security service says AI allowed its drones to keep flying &quot;along a pre-planned route&quot; even after losing signal in Russia during &quot;Operation Spiderweb&quot; &lpar;Fabrice Deprez/Financial Times&rpar;](http://www.techmeme.com/250611/p4#a250611p4)
  - [Analysis: Nvidia&#39;s $500B US spending plan has accelerated the US AI server ecosystem development, with at least eight suppliers unveiling new investment plans &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250611/p3#a250611p3)
  - [HP Coupon Codes: 25% Off | June 2025](https://www.wired.com/story/hp-coupon-code/)
  - [Salesforce is restricting third-party companies from long-term indexing and storing of Slack messages, which would hamper rival enterprise AI firms like Glean &lpar;The Information&rpar;](http://www.techmeme.com/250611/p2#a250611p2)
- - [Laurel, which uses AI to map how workers spend time by integrating with tools like Slack and Outlook, raised a $100M Series C led by IVP at a $510M valuation &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250611/p1#a250611p1)
- - [Sources: Peter Thiel-backed crypto exchange Bullish has confidentially filed for a US IPO amid surging demand for digital assets under the Trump administration &lpar;Financial Times&rpar;](http://www.techmeme.com/250610/p42#a250610p42)<!-- TECH:END -->
+ - [Laurel, which uses AI to map how workers spend time by integrating with tools like Slack and Outlook, raised a $100M Series C led by IVP at a $510M valuation &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250611/p1#a250611p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,9 +157,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [London-based OneBalance, which lets developers integrate crypto features into their apps, raised a $20M Series A led by Cyber Fund and Blockchain Capital &lpar;Catherine McGrath/Fortune&rpar;](http://www.techmeme.com/250611/p40#a250611p40)
  - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
  - [Oracle Q4: revenue up 11% YoY to $15.9B, vs. $15.59B est., cloud revenue up 27% YoY, signals strong cloud infrastructure revenue growth; ORCL up 6%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250611/p39#a250611p39)
- - [Switch 2 Blows Past Records to Reach 3.5 Million Sales in Four Days](https://www.cnet.com/tech/gaming/switch-2-blows-past-records-to-reach-3-5-million-sales-in-four-days/#ftag=CAD590a51e)
  - [The EPA Wants to Roll Back Emissions Controls on Power Plants](https://www.wired.com/story/the-epa-is-trying-to-roll-back-emissions-controls-on-power-plants/)
  - [Sources: CoreWeave will provide computing capacity to Google as part of Google&#39;s cloud deal with OpenAI; Google will also supply its own compute to OpenAI &lpar;Reuters&rpar;](http://www.techmeme.com/250611/p38#a250611p38)<!-- TECH:END -->
 

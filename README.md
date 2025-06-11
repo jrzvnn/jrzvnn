@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The potato test is the only way to be sure.](http://9gag.com/gag/aMVXRqG)
- - 😝 [Experience the fun of interactive design at this exhibition](http://9gag.com/gag/aZZ2GAQ)
- - 💣 [England has fallen](http://9gag.com/gag/a6ZpWMq)
- - 😝 [Instant Regret](http://9gag.com/gag/aByXD81)
- - 👉 [Forever and always.](http://9gag.com/gag/agmErnn)<!-- MEMES:END -->
+ - 😝 [Forever and always.](http://9gag.com/gag/agmErnn)
+ - 😝 [It wasn&#39;t discovered until after the sale went through. There&#39;s nothing for it lads, Im stuck with it.](http://9gag.com/gag/aVv2npP)
+ - 💣 [Experience the fun of interactive design at this exhibition](http://9gag.com/gag/aZZ2GAQ)
+ - 😝 [Gamer Girlfriends](http://9gag.com/gag/a0eEm4n)
+ - 👉 [England has fallen](http://9gag.com/gag/a6ZpWMq)<!-- MEMES:END -->
 
 ---
 

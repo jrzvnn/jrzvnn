@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Will Cathcart says WhatsApp plans to support Apple in its legal case against the UK Home Office over weakening encryption, which may &quot;set a dangerous precedent&quot; &lpar;Zoe Kleinman/BBC&rpar;](http://www.techmeme.com/250611/p17#a250611p17)
+ - [Apple Design Resources update helps developer make Liquid Glass apps for iOS 26, macOS Tahoe](https://appleinsider.com/articles/25/06/11/apple-design-resources-update-helps-developer-make-liquid-glass-apps-for-ios-26-macos-tahoe?utm_medium=rss)
  - [LA Apple Store looted during anti-ICE protests](https://appleinsider.com/articles/25/06/11/la-apple-store-looted-during-anti-ice-protests?utm_medium=rss)
  - [Nintendo&amp;#8217;s Switch 2 is the fastest-selling game console of all time](https://www.theverge.com/news/685162/nintendo-switch-2-sales-figures-record)
- - [14 Best Hair Straighteners We Tested &lpar;2025&rpar;](https://www.wired.com/gallery/best-hair-straighteners/)
- - [Meta and TikTok challenge the EU&#39;s DSA supervisory fee, set at 0.05% of annual global net income, in the EU&#39;s General Court, arguing it is disproportionate &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250611/p16#a250611p16)
- - [The Viral Storm Streamers Predicting Deadly Tornadoes—Sometimes Faster Than the Government](https://www.wired.com/story/the-viral-storm-streamers-predicting-deadly-tornadoes-sometimes-faster-than-the-government/)<!-- TECH:END -->
+ - [14 Best Hair Straighteners We Tested &lpar;2025&rpar;](https://www.wired.com/gallery/best-hair-straighteners/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

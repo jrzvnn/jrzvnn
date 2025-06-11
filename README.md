@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Laurel, which uses AI to map how workers spend time by integrating with tools like Slack and Outlook, raised a $100M Series C led by IVP at a $510M valuation &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250611/p1#a250611p1)
  - [Sources: Peter Thiel-backed crypto exchange Bullish has confidentially filed for a US IPO amid surging demand for digital assets under the Trump administration &lpar;Financial Times&rpar;](http://www.techmeme.com/250610/p42#a250610p42)
+ - [Forget the Liquid Glass Design, I&#39;m Here for All of iOS 26&#39;s Humdrum Features](https://www.cnet.com/tech/services-and-software/forget-the-liquid-glass-design-im-here-for-all-of-ios-26s-humdrum-features/#ftag=CAD590a51e)
  - [Nintendo says it sold 3.5M Switch 2 consoles globally in its first four days, a record for any of its hardware; Nintendo aims to sell 15M units by March 2026 &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/250610/p41#a250610p41)
- - [GitLab reports Q1 revenue up 27% YoY to $214.5M, vs. $213.2M est., net loss of $36.3M, vs. $55.5M last year, raises earnings outlook; GTLB down 12%+ after hours &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250610/p40#a250610p40)
- - [Anyone Can Now Access the Largest Space Map Ever Created. Here&#39;s How](https://www.cnet.com/science/space/anyone-can-now-access-the-largest-space-map-ever-created-heres-how/#ftag=CAD590a51e)
- - [Elon Musk says Tesla&#39;s robotaxi service will &quot;tentatively&quot; begin on June 22 in Austin, with first autonomous deliveries of a car to a customer&#39;s home on June 28 &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/250610/p39#a250610p39)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, June 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-june-11/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

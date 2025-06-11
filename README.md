@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Home is expanding its energy management features](https://www.theverge.com/news/685733/apple-home-energykit-energy-management-ios26-wwdc)
  - [iOS 26 brings new ChatGPT-powered styles to Genmoji and Image Playground](https://appleinsider.com/articles/25/06/11/ios-26-brings-new-chatgpt-powered-styles-to-genmoji-and-image-playground?utm_medium=rss)
  - [Android 16 review: live updates and Advanced Protection are nice, but features like desktop mode and Material 3 Expressive design won&#39;t come until later in 2025 &lpar;Ryan Whitwam/Ars Technica&rpar;](http://www.techmeme.com/250611/p41#a250611p41)
  - [Google will reduce Pixel 6A battery capacity due to overheating issues](https://www.theverge.com/news/685738/google-pixel-6a-battery-overheating-update)
- - [London-based OneBalance, which lets developers integrate crypto features into their apps, raised a $20M Series A led by Cyber Fund and Blockchain Capital &lpar;Catherine McGrath/Fortune&rpar;](http://www.techmeme.com/250611/p40#a250611p40)
- - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)<!-- TECH:END -->
+ - [London-based OneBalance, which lets developers integrate crypto features into their apps, raised a $20M Series A led by Cyber Fund and Blockchain Capital &lpar;Catherine McGrath/Fortune&rpar;](http://www.techmeme.com/250611/p40#a250611p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

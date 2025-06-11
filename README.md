@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guess what day it is!](http://9gag.com/gag/aLndR2A)
- - 😝 [Order of operations matters, apparently.](http://9gag.com/gag/aKGOwoQ)
+ - 😝 [What&#39;s up Homie](http://9gag.com/gag/aqyz3vL)
+ - 😝 [The hair is counting down](http://9gag.com/gag/aByOR72)
  - 💣 [Repost, but sometimes all you need is a quack. Sorry for the text tho](http://9gag.com/gag/azxYgMb)
- - 😝 [Where&#39;s the lie?](http://9gag.com/gag/abAQXxL)
- - 👉 [Plus tax](http://9gag.com/gag/adBo009)<!-- MEMES:END -->
+ - 😝 [Order of operations matters, apparently.](http://9gag.com/gag/aKGOwoQ)
+ - 👉 [Where&#39;s the lie?](http://9gag.com/gag/abAQXxL)<!-- MEMES:END -->
 
 ---
 

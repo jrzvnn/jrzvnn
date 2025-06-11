@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Wikimedia Foundation pauses an experiment that showed Wikipedia users AI-generated summaries at the top of some articles, following an editor backlash &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250611/p31#a250611p31)
- - [Amazon&#39;s Ad Video Generator, a free tool to create gen AI ads and depict items as they would be used in the real world, is now available for sellers in the US &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250611/p30#a250611p30)
- - [You can own a functional version of Jeff Koons’ Balloon Dog sculptures for $750](https://www.theverge.com/news/685571/jeff-koons-lexon-design-balloon-dog-bluetooth-speaker-lamp)
- - [New Apple Design Resources helps Liquid Glass app development for iOS 26, macOS Tahoe](https://appleinsider.com/articles/25/06/11/apple-design-resources-update-helps-developer-make-liquid-glass-apps-for-ios-26-macos-tahoe?utm_medium=rss)
- - [Disney and Universal sue Midjourney for making AI ripoffs of their biggest characters](https://www.theverge.com/ai-artificial-intelligence/685433/disney-universal-sue-midjourney-copyright-infringement)<!-- TECH:END -->
+ - [Meta’s new AI video tool can put you in a desert &lpar;or at least try to&rpar;](https://www.theverge.com/news/685581/meta-video-editing-ai-preset-prompts)
+ - [Apple’s updated parental controls will require kids to get permission to text new numbers](https://www.theverge.com/news/685582/apple-parental-controls-child-safety-features-permission-text)
+ - [Sources: Jack Rae, a principal researcher at Google DeepMind, is expected to join Meta&#39;s &quot;superintelligence&quot; team, as well as an ML lead from Sesame AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250611/p32#a250611p32)
+ - [Disney and Universal Sue AI Company Midjourney for Copyright Infringement](https://www.wired.com/story/disney-universal-sue-midjourney/)
+ - [The Wikimedia Foundation pauses an experiment that showed Wikipedia users AI-generated summaries at the top of some articles, following an editor backlash &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250611/p31#a250611p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

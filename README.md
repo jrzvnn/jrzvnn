@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon’s note-taking Kindle Scribe is the cheapest it’s ever been](https://www.theverge.com/tech/685049/kindle-scribe-beats-powerbeats-pro-2-deal-sale)
+ - [The Switch 2 is available online from Best Buy right now](https://www.theverge.com/tech/685259/nintendo-switch-2-console-online-restock-best-buy)
  - [Liquid Glass is more than skin deep on macOS Tahoe](https://appleinsider.com/articles/25/06/11/liquid-glass-is-more-than-skin-deep-on-macos-tahoe?utm_medium=rss)
  - [Blowout special: Apple&#39;s M3 Pro MacBook Pro plunges to $1,499](https://appleinsider.com/articles/25/06/11/blowout-special-apples-m3-pro-macbook-pro-plunges-to-1499?utm_medium=rss)
- - [How to secure your phone before attending a protest](https://www.theverge.com/21276979/phone-protest-demonstration-activism-digital-how-to-security-privacy)
- - [U.S. lawmakers &amp; WhatsApp side with Apple against UK demand for iCloud encryption backdoor](https://appleinsider.com/articles/25/06/11/us-lawmakers-whatsapp-side-with-apple-against-uk-demand-for-icloud-encryption-backdoor?utm_medium=rss)
- - [How to install the iOS 26 and iPadOS 26 developer betas](https://www.theverge.com/684487/ios-ipados-26-install-developer-how-to)<!-- TECH:END -->
+ - [How to secure your phone before attending a protest](https://www.theverge.com/21276979/phone-protest-demonstration-activism-digital-how-to-security-privacy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

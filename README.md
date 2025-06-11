@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [While HR is the `motion sensor` that works only when someone passes by](http://9gag.com/gag/apRAe99)
- - 😝 [I give it 3 month max before we hear stories of people&#39;s grandparents being tricked by fake AI news clips](http://9gag.com/gag/aQzO6jK)
- - 💣 [Gamer Girlfriends](http://9gag.com/gag/a0eEm4n)
- - 😝 [Reaching peak adulting involves questioning ingredient lists.](http://9gag.com/gag/aMVXp0G)
- - 👉 [He really wanted those numbers](http://9gag.com/gag/aByORwx)<!-- MEMES:END -->
+ - 😝 [The potato test is the only way to be sure.](http://9gag.com/gag/aMVXRqG)
+ - 😝 [Experience the fun of interactive design at this exhibition](http://9gag.com/gag/aZZ2GAQ)
+ - 💣 [England has fallen](http://9gag.com/gag/a6ZpWMq)
+ - 😝 [Instant Regret](http://9gag.com/gag/aByXD81)
+ - 👉 [Forever and always.](http://9gag.com/gag/agmErnn)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pure satisfaction](http://9gag.com/gag/a4Pqe7d)
- - 😝 [Make it make sense.](http://9gag.com/gag/aYQ18B7)
- - 💣 [Gamer Girlfriends](http://9gag.com/gag/a0eEm4n)
- - 😝 [Hard to believe](http://9gag.com/gag/aXP2Dgz)
- - 👉 [England has fallen](http://9gag.com/gag/a6ZpWMq)<!-- MEMES:END -->
+ - 😝 [Eider ducks](http://9gag.com/gag/a5QqpgN)
+ - 😝 [Forever and always.](http://9gag.com/gag/agmErnn)
+ - 💣 [After avoiding flights for years due to emissions, Israel has expelled Greta via a plane to Paris.](http://9gag.com/gag/a87wPrQ)
+ - 😝 [Karen gets disappointed](http://9gag.com/gag/a9yXo9o)
+ - 👉 [While HR is the `motion sensor` that works only when someone passes by](http://9gag.com/gag/apRAe99)<!-- MEMES:END -->
 
 ---
 

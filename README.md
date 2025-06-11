@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Chime priced its US IPO at $27 a share, above the expected range, raising ~$700M and another $165M from shares sold by investors, valuing the company at $11.6B &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250611/p44#a250611p44)
  - [Nvidia plans to build its first industrial AI cloud platform in Germany for European manufacturers, combining AI with robotics to assist carmakers like BMW &lpar;Reuters&rpar;](http://www.techmeme.com/250611/p43#a250611p43)
  - [Blackstone Griddle Air Fryer Combo Review: Silly, but Nice](https://www.wired.com/review/blackstone-iron-forged-griddle-air-fryer/)
- - [A majority of six of the 11 judges on Brazil&#39;s Supreme Court have voted to hold social media companies liable for some types of users&#39; content seen as illegal &lpar;Ricardo Brito/Reuters&rpar;](http://www.techmeme.com/250611/p42#a250611p42)
- - [This Hilarious Prime Video Caper Flips the Script on British Crime Drama](https://www.cnet.com/tech/services-and-software/this-hilarious-prime-video-caper-flips-the-script-on-british-crime-drama/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Adaptive Power in iOS 26 Is About to Make Your iPhone Much Smarter About Charging](https://www.cnet.com/tech/services-and-software/adaptive-power-in-ios-26-is-about-to-make-your-iphone-much-smarter-about-charging/#ftag=CAD590a51e)
+ - [U.S. Open 2025: TV Schedule, How to Watch, Stream All the PGA Tour Golf From Anywhere](https://www.cnet.com/tech/services-and-software/u-s-open-2025-tv-schedule-how-to-watch-stream-all-the-pga-tour-golf-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

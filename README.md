@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s up Homie](http://9gag.com/gag/aqyz3vL)
- - 😝 [The hair is counting down](http://9gag.com/gag/aByOR72)
- - 💣 [Repost, but sometimes all you need is a quack. Sorry for the text tho](http://9gag.com/gag/azxYgMb)
- - 😝 [Order of operations matters, apparently.](http://9gag.com/gag/aKGOwoQ)
- - 👉 [Where&#39;s the lie?](http://9gag.com/gag/abAQXxL)<!-- MEMES:END -->
+ - 😝 [Military helicopter flies low through downtown Los Angeles.](http://9gag.com/gag/aXP2DKP)
+ - 😝 [The adulting struggle is real](http://9gag.com/gag/aD2OROG)
+ - 💣 [Internal dialogue](http://9gag.com/gag/avydpxO)
+ - 😝 [That&#39;s not quite what we meant by &#39;off-road capabilities&#39;.](http://9gag.com/gag/ae97KK5)
+ - 👉 [Privacy protection Walmart version](http://9gag.com/gag/adBo0QZ)<!-- MEMES:END -->
 
 ---
 

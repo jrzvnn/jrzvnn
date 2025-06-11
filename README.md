@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Forever and always.](http://9gag.com/gag/agmErnn)
+ - 😝 [I think i had a pretty great 4th date.](http://9gag.com/gag/aAyXWv9)
+ - 😝 [He really wanted those numbers](http://9gag.com/gag/aByORwx)
+ - 💣 [Gamer Girlfriends](http://9gag.com/gag/a0eEm4n)
  - 😝 [It wasn&#39;t discovered until after the sale went through. There&#39;s nothing for it lads, Im stuck with it.](http://9gag.com/gag/aVv2npP)
- - 💣 [Experience the fun of interactive design at this exhibition](http://9gag.com/gag/aZZ2GAQ)
- - 😝 [Gamer Girlfriends](http://9gag.com/gag/a0eEm4n)
- - 👉 [England has fallen](http://9gag.com/gag/a6ZpWMq)<!-- MEMES:END -->
+ - 👉 [The incredible blue light inside a nuclear reactor core is mesmerizing.](http://9gag.com/gag/ae92vy5)<!-- MEMES:END -->
 
 ---
 

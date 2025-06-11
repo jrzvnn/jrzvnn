@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That April Fools prank did not go as planned.](http://9gag.com/gag/abA29PE)
- - 😝 [Decided by mere milliseconds, an incredible race finish.](http://9gag.com/gag/axyPxGK)
- - 💣 [Experience the fun of interactive design at this exhibition](http://9gag.com/gag/aZZ2GAQ)
- - 😝 [The loyalty is unmatched](http://9gag.com/gag/a5Qjmdq)
- - 👉 [Rachel Zegler &lpar;She / Her / Hers&rpar; opinion](http://9gag.com/gag/aByX74N)<!-- MEMES:END -->
+ - 😝 [Forever and always.](http://9gag.com/gag/agmErnn)
+ - 😝 [Romanian citizenship test](http://9gag.com/gag/a0eEm7Q)
+ - 💣 [French policeman used talent to find illegaly bought sheep, waiting for the A\u00efd slaughter.](http://9gag.com/gag/aByXq1Z)
+ - 😝 [It doesn&#39;t have to make sense, just push it](http://9gag.com/gag/aNDR6Dr)
+ - 👉 [England has fallen](http://9gag.com/gag/a6ZpWMq)<!-- MEMES:END -->
 
 ---
 

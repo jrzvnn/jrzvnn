@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta launches V-JEPA 2, an open-source AI &quot;world model&quot; to understand and predict 3D environments and object movements, to help robotics and self-driving cars &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250611/p25#a250611p25)
+ - [Senators Warn DOGE’s Social Security Administration Work Could Break Benefits](https://www.wired.com/story/doge-social-security-administration-benefits/)
+ - [This smart pizza oven improved my pie-making skills](https://www.theverge.com/smart-home-review/681701/current-model-p-smart-pizza-oven-review)
  - [The Browser Company launches Dia, a macOS browser in beta for Arc users based around an AI chat sidebar that can access tabs, history, and logged-in sites &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/250611/p24#a250611p24)
- - [Logitech&#39;s Flip Folio makes iPad work more flexible](https://appleinsider.com/articles/25/06/11/logitechs-flip-folio-makes-ipad-work-more-flexible?utm_medium=rss)
- - [A dark power is rising in Foundation&amp;#8217;s new season 3 trailer](https://www.theverge.com/news/684891/foundation-season-3-trailer-premiere-date-apple-tv-plus)
- - [The Dia browser is a big bet on the web — and an even bigger bet on AI](https://www.theverge.com/web/685232/dia-browser-ai-arc)
- - [Mistral AI CEO Arthur Mensch says European companies and governments increasingly want non-US AI tools, and Mistral is on track to pass $100M in annual revenue &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/250611/p23#a250611p23)<!-- TECH:END -->
+ - [Logitech&#39;s Flip Folio makes iPad work more flexible](https://appleinsider.com/articles/25/06/11/logitechs-flip-folio-makes-ipad-work-more-flexible?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

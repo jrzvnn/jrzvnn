@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The potato test is the only way to be sure.](http://9gag.com/gag/aMVXRqG)
- - 😝 [Romanian citizenship test](http://9gag.com/gag/a0eEm7Q)
- - 💣 [Title](http://9gag.com/gag/avydpeb)
+ - 😝 [It wasn&#39;t discovered until after the sale went through. There&#39;s nothing for it lads, Im stuck with it.](http://9gag.com/gag/aVv2npP)
  - 😝 [Make it make sense.](http://9gag.com/gag/aYQ18B7)
+ - 💣 [Romanian citizenship test](http://9gag.com/gag/a0eEm7Q)
+ - 😝 [He really wanted those numbers](http://9gag.com/gag/aByORwx)
  - 👉 [Bro is going through it](http://9gag.com/gag/azxYgOj)<!-- MEMES:END -->
 
 ---

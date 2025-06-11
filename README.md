@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Whole Foods supplier United Natural Foods says it is working to restore its systems by June 15 after a cyberattack, leaving empty shelves and stalled forklifts &lpar;Bloomberg&rpar;](http://www.techmeme.com/250611/p10#a250611p10)
+ - [Artificial Intelligence Is Unlocking the Secrets of Black Holes](https://www.wired.com/story/artificial-intelligence-is-unlocking-the-secrets-of-black-holes/)
  - [Samsung’s fridges now recognize family members by voice](https://www.theverge.com/news/685154/samsung-smart-fridges-bixby-voice-recognition-bespoke-ai)
  - [BMW iX3 prototype drive: your next-gen EV is nearly here](https://www.theverge.com/bmw/684404/bmw-ix3-ev-prototype-neue-klasse-first-drive)
- - [Protesting Tips: What to Bring, How to Act, How to Stay Safe](https://www.wired.com/story/how-to-protest-safely-gear-tips/)
- - [Elon Musk says &quot;I regret some of my posts about President Trump last week. They went too far&quot;; Trump said he had no interest in repairing the relationship &lpar;Andrés R. Martínez/New York Times&rpar;](http://www.techmeme.com/250611/p9#a250611p9)
- - [Hong Kong invokes its national security law to ban Taiwanese-made mobile game Reversed Front: Bonfire, marking the first known use of the law to block a game &lpar;Alan Wong/Bloomberg&rpar;](http://www.techmeme.com/250611/p8#a250611p8)<!-- TECH:END -->
+ - [Protesting Tips: What to Bring, How to Act, How to Stay Safe](https://www.wired.com/story/how-to-protest-safely-gear-tips/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

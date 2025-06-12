@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Military helicopter flies low through downtown Los Angeles.](http://9gag.com/gag/aXP2DKP)
- - 😝 [The adulting struggle is real](http://9gag.com/gag/aD2OROG)
- - 💣 [Internal dialogue](http://9gag.com/gag/avydpxO)
- - 😝 [That&#39;s not quite what we meant by &#39;off-road capabilities&#39;.](http://9gag.com/gag/ae97KK5)
- - 👉 [Privacy protection Walmart version](http://9gag.com/gag/adBo0QZ)<!-- MEMES:END -->
+ - 😝 [The Bonk Patrol is a Thing!](http://9gag.com/gag/a34Woo5)
+ - 😝 [Title](http://9gag.com/gag/avydpeb)
+ - 💣 [Make it make sense.](http://9gag.com/gag/aYQ18B7)
+ - 😝 [Op&#39;s favourite gym, oh wait I&#39;m Op. Anyone for the gym? No homo](http://9gag.com/gag/a2vLz1Y)
+ - 👉 [Internal dialogue](http://9gag.com/gag/avydpxO)<!-- MEMES:END -->
 
 ---
 

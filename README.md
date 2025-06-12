@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Arm CEO Rene Haas sides with Nvidia CEO Jensen Huang, saying US export controls on China threaten to slow tech advances and harm consumers and companies &lpar;Bloomberg&rpar;](http://www.techmeme.com/250612/p25#a250612p25)
+ - [An Exclusive Look at Infinite Machine’s Olto Electric Bike](https://www.wired.com/story/exclusive-look-at-infinite-machine-olto-electric-bike/)
  - [Steve Jobs&#39; famous Stanford speech is 20 years old, and newly remastered](https://appleinsider.com/articles/25/06/12/steve-jobs-famous-stanford-speech-is-20-years-old-and-newly-remastered?utm_medium=rss)
  - [How to Avoid Scams and Shoddy Wares on Amazon &lpar;2025&rpar;](https://www.wired.com/story/how-shop-safe-amazon/)
- - [New report about Apple&#39;s 10 main challenges ignores two main factors](https://appleinsider.com/articles/25/06/12/new-report-about-apples-10-main-challenges-ignores-two-main-factors?utm_medium=rss)
- - [Landbase, whose GPT-4o-based AI tool automates outreach marketing, raised a $30M Series A co-led by Ashton Kutcher&#39;s Sound Ventures and Picus Capital &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250612/p24#a250612p24)
- - [Snapchat&amp;#8217;s latest subscription tier will get you &amp;#8216;hundreds&amp;#8217; of lenses](https://www.theverge.com/news/686016/snapchat-lens-plus-subscription-pricing)<!-- TECH:END -->
+ - [New report about Apple&#39;s 10 main challenges ignores two main factors](https://appleinsider.com/articles/25/06/12/new-report-about-apples-10-main-challenges-ignores-two-main-factors?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

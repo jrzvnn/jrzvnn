@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She is very Swedish](http://9gag.com/gag/aW4D0xZ)
- - 😝 [Leather stamping](http://9gag.com/gag/a1mEp3P)
- - 💣 [A man`s man](http://9gag.com/gag/aPA144K)
- - 😝 [\ud83d\udcca Top 3 most voted memes so far at the Meme69 Awards!](http://9gag.com/gag/aByOQ6x)
- - 👉 [Somebody fact check this](http://9gag.com/gag/an7rXQE)<!-- MEMES:END -->
+ - 😝 [TACO move](http://9gag.com/gag/a87KM8Z)
+ - 😝 [This is his villain origin story](http://9gag.com/gag/a5QqKdV)
+ - 💣 [Don&#39;t make me call my mom](http://9gag.com/gag/axyYd3b)
+ - 😝 [Pass me dat ass](http://9gag.com/gag/aVvVORO)
+ - 👉 [Leather stamping](http://9gag.com/gag/a1mEp3P)<!-- MEMES:END -->
 
 ---
 

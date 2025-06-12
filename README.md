@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spain-based Multiverse Computing, which makes tools to compress LLMs by up to 95% using &quot;quantum-inspired&quot; networks, raised a €189M Series B and has 100 clients &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250612/p19#a250612p19)
- - [Air Traffic Control in the US Still Runs on Windows 95 and Floppy Disks](https://www.wired.com/story/air-traffic-control-windows-95-floppy-disks/)
- - [Meta sues Joy Timeline, which makes nudify app CrushAI, in Hong Kong to &quot;prevent them from advertising CrushAI apps on Meta platforms&quot;; CrushAI had run 5K+ ads &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250612/p18#a250612p18)
- - [How to Shop Like a Pro During Amazon Prime Day &lpar;2025&rpar;](https://www.wired.com/story/amazon-prime-day-2025-tips-to-find-best-deals/)
- - [Pittsburgh-based Gecko Robotics, which makes robots to inspect infrastructure, raised a $125M Series D at a $1.25B valuation, up from $633M in December 2023 &lpar;Ian Thomas/CNBC&rpar;](http://www.techmeme.com/250612/p17#a250612p17)<!-- TECH:END -->
+ - [Sony Bravia 8 II OLED TV Review: Strikingly Clear](https://www.wired.com/review/sony-bravia-8-ii/)
+ - [Photos in iOS 26 brings back tabs and generates Spatial Photos](https://appleinsider.com/articles/25/06/12/photos-in-ios-26-brings-back-tabs-and-generates-spatial-photos?utm_medium=rss)
+ - [24 Gifts for Dads Who Don’t Need Anything &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-to-give-dads/)
+ - [PNY Duo Link V3 with USB-C and USB-A will move data between any of your Macs](https://appleinsider.com/articles/25/06/12/pny-duo-link-v3-with-usb-c-and-usb-a-will-move-data-between-any-of-your-macs?utm_medium=rss)
+ - [Meter, which sells and maintains packages of custom data center networking equipment, raised $170M led by General Catalyst at a $1B+ valuation &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/250612/p21#a250612p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

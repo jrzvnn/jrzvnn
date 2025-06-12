@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hahahaha!!!!](http://9gag.com/gag/aMVObYR)
- - 😝 [She should take the hint](http://9gag.com/gag/avydgpd)
- - 💣 [A questionable decision.](http://9gag.com/gag/aAyORzR)
+ - 😝 [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)
+ - 😝 [Women](http://9gag.com/gag/aQzO60d)
+ - 💣 [A man`s man](http://9gag.com/gag/aPA144K)
  - 😝 [\ud83d\udcca Top 3 most voted memes so far at the Meme69 Awards!](http://9gag.com/gag/aByOQ6x)
- - 👉 [Order of operations matters, apparently.](http://9gag.com/gag/aKGOwoQ)<!-- MEMES:END -->
+ - 👉 [Friendship](http://9gag.com/gag/ayNY74M)<!-- MEMES:END -->
 
 ---
 

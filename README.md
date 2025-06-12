@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I didn&#39;t know you could use this meme this way...](http://9gag.com/gag/agmEvnn)
- - 😝 [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)
- - 💣 [Perks of learning another language.](http://9gag.com/gag/aKGOg6W)
+ - 😝 [She is very Swedish](http://9gag.com/gag/aW4D0xZ)
+ - 😝 [Leather stamping](http://9gag.com/gag/a1mEp3P)
+ - 💣 [A man`s man](http://9gag.com/gag/aPA144K)
  - 😝 [\ud83d\udcca Top 3 most voted memes so far at the Meme69 Awards!](http://9gag.com/gag/aByOQ6x)
- - 👉 [Makes sense](http://9gag.com/gag/agmEvQv)<!-- MEMES:END -->
+ - 👉 [Somebody fact check this](http://9gag.com/gag/an7rXQE)<!-- MEMES:END -->
 
 ---
 

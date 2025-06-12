@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pittsburgh-based Gecko Robotics, which makes robots to inspect infrastructure, raised a $125M Series D at a $1.25B valuation, up from $633M in December 2023 &lpar;Ian Thomas/CNBC&rpar;](http://www.techmeme.com/250612/p17#a250612p17)
+ - [How PSVR2 Sense controllers work on Apple Vision Pro](https://appleinsider.com/articles/25/06/12/how-psvr2-sense-controllers-work-on-apple-vision-pro?utm_medium=rss)
+ - [AI Agents Are Too Cheap for Our Own Good](https://www.wired.com/story/pricing-ai-agents-increasing-costs/)
  - [Visa: stablecoin transaction volumes hit $752B in May, up from $409B in May 2024, and wallets that regularly send and receive payments hit a record 46M average &lpar;Financial Times&rpar;](http://www.techmeme.com/250612/p16#a250612p16)
- - [Gemini and Glassnode research: centralized treasuries, including governments, ETFs, and public companies, now control 30.9% of bitcoin&#39;s circulating supply &lpar;Martin Young/Cointelegraph&rpar;](http://www.techmeme.com/250612/p15#a250612p15)
- - [Vibe Coding Is Coming for Engineering Jobs](https://www.wired.com/story/vibe-coding-engineering-apocalypse/)
- - [Apple unveils updates to help parents protect kids and teens, including easier Child Accounts setup, stronger defaults, and granular App Store age ratings &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/250612/p14#a250612p14)
- - [24 Best Flavors of AriZona&#39;s Iconic Iced Tea &lpar;2025&rpar;](https://www.wired.com/gallery/best-arizona-iced-teas/)<!-- TECH:END -->
+ - [Gemini and Glassnode research: centralized treasuries, including governments, ETFs, and public companies, now control 30.9% of bitcoin&#39;s circulating supply &lpar;Martin Young/Cointelegraph&rpar;](http://www.techmeme.com/250612/p15#a250612p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Protest Safely in the Age of Surveillance](https://www.wired.com/story/how-to-protest-safely-surveillance-digital-privacy/)
  - [Coinbase announces its first branded credit card, in partnership with American Express, for Coinbase One US users, and creates a lower-cost Basic subscription &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250612/p35#a250612p35)
  - [Lock Screen customization in iOS 26 is both stretchy and 3D](https://appleinsider.com/articles/25/06/12/lock-screen-customization-in-ios-26-is-both-stretchy-and-3d?utm_medium=rss)
  - [A massive internet outage is messing up Google Home, Spotify, and other services](https://www.theverge.com/news/686365/cloudflare-spotify-google-home-is-down-outage-offline)
- - [Google services, AWS, Spotify, Cloudflare, and other services appear to be in a partial outage, according to Downdetector &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250612/p34#a250612p34)
- - [Jensen Huang says Nvidia will exclude the Chinese market from its revenue and profit forecasts going forward, amid US restrictions on chip sales to China &lpar;CNN&rpar;](http://www.techmeme.com/250612/p33#a250612p33)<!-- TECH:END -->
+ - [Google services, AWS, Spotify, Cloudflare, and other services appear to be in a partial outage, according to Downdetector &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250612/p34#a250612p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

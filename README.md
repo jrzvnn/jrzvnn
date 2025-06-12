@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The Steve Jobs Archive shares stories, videos, and notes of his famous commencement speech](https://www.theverge.com/news/686524/steve-jobs-archive-stanford-commencement-speech-20th-anniversary)
  - [Google Cloud suffered an outage on Thursday, affecting many of its customers; Cloudflare, Spotify, Discord, Snapchat, and others experienced service disruptions &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250612/p42#a250612p42)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 13, #263](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-13-263/#ftag=CAD590a51e)
  - [Instagram plans to let users rearrange their grid, a first, and is testing a way for users to quietly post to their profile without it appearing in users&#39; feeds &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250612/p41#a250612p41)
- - [It could be 2026 before all your Thread border routers work together](https://www.theverge.com/news/686512/apple-thread-1-4-tvos-26-matter-google-amazon)
- - [Apple &amp; Google profit as Chinese VPNs collect your private data](https://appleinsider.com/articles/25/06/12/apple-google-profit-as-chinese-vpns-collect-your-private-data?utm_medium=rss)<!-- TECH:END -->
+ - [How Much Will the iPhone 17 Cost? Is a $2,400 Tariff-Fueled Price Tag Realistic?](https://www.cnet.com/tech/mobile/how-much-will-the-iphone-17-cost/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

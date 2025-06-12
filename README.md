@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A man`s man](http://9gag.com/gag/aPA144K)
- - 😝 [Somebody fact check this](http://9gag.com/gag/an7rXQE)
- - 💣 [She is very Swedish](http://9gag.com/gag/aW4D0xZ)
+ - 😝 [I didn&#39;t know you could use this meme this way...](http://9gag.com/gag/agmEvnn)
+ - 😝 [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)
+ - 💣 [Perks of learning another language.](http://9gag.com/gag/aKGOg6W)
  - 😝 [\ud83d\udcca Top 3 most voted memes so far at the Meme69 Awards!](http://9gag.com/gag/aByOQ6x)
- - 👉 [Witty title](http://9gag.com/gag/agmE3ZW)<!-- MEMES:END -->
+ - 👉 [Makes sense](http://9gag.com/gag/agmEvQv)<!-- MEMES:END -->
 
 ---
 

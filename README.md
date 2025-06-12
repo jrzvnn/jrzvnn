@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Plus tax](http://9gag.com/gag/adBo009)
- - 😝 [The hair is counting down](http://9gag.com/gag/aByOR72)
- - 💣 [A questionable decision.](http://9gag.com/gag/aAyORzR)
+ - 😝 [Pauline is on to something](http://9gag.com/gag/a7opvQb)
+ - 😝 [Friendship](http://9gag.com/gag/ayNY74M)
+ - 💣 [YouTube&#39;s logic is something else entirely.](http://9gag.com/gag/aE0OdYO)
  - 😝 [\ud83d\udcca Top 3 most voted memes so far at the Meme69 Awards!](http://9gag.com/gag/aByOQ6x)
- - 👉 [Order of operations matters, apparently.](http://9gag.com/gag/aKGOwoQ)<!-- MEMES:END -->
+ - 👉 [Don&#39;t make me call my mom](http://9gag.com/gag/axyYd3b)<!-- MEMES:END -->
 
 ---
 

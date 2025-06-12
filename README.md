@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She should take the hint](http://9gag.com/gag/avydgpd)
- - 😝 [This is the AI we actually need](http://9gag.com/gag/aByOKxD)
- - 💣 [Hahahaha!!!!](http://9gag.com/gag/aMVObYR)
+ - 😝 [I didn&#39;t know you could use this meme this way...](http://9gag.com/gag/agmEvnn)
+ - 😝 [Hahahaha!!!!](http://9gag.com/gag/aMVObYR)
+ - 💣 [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)
  - 😝 [\ud83d\udcca Top 3 most voted memes so far at the Meme69 Awards!](http://9gag.com/gag/aByOQ6x)
- - 👉 [Is this true?](http://9gag.com/gag/aNDOrOw)<!-- MEMES:END -->
+ - 👉 [Big oof](http://9gag.com/gag/adBoj8V)<!-- MEMES:END -->
 
 ---
 

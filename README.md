@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SAG-AFTRA ends the 300+ day video game actors strike after reaching a tentative deal for a new Interactive Media Agreement with the major video game companies &lpar;Erik Hayden/The Hollywood Reporter&rpar;](http://www.techmeme.com/250612/p12#a250612p12)
- - [How an AI assistant developed by Brazilian nonprofit NoHarm is helping pharmacists in remote Amazon clinics process prescriptions more quickly and catch errors &lpar;Pedro Nakamura/Rest of World&rpar;](http://www.techmeme.com/250612/p11#a250612p11)
- - [25 Best Deals on Father’s Day Gifts &lpar;2025&rpar;](https://www.wired.com/story/fathers-day-deals-2025/)
- - [A look at Amsterdam&#39;s failed experiment to create a fair welfare AI system that would evaluate every welfare applicant in the city for potential fraud &lpar;MIT Technology Review&rpar;](http://www.techmeme.com/250612/p10#a250612p10)
- - [The US prosecution of quant trader Richard Ho could define how quant algorithms can become stolen property and have a major impact on Wall Street&#39;s talent war &lpar;Chris Dolmetsch/Bloomberg&rpar;](http://www.techmeme.com/250612/p9#a250612p9)<!-- TECH:END -->
+ - [Apple unveils updates to help parents protect kids and teens, including easier Child Accounts setup, stronger defaults, and granular App Store age ratings &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/250612/p14#a250612p14)
+ - [24 Best Flavors of AriZona&#39;s Iconic Iced Tea &lpar;2025&rpar;](https://www.wired.com/gallery/best-arizona-iced-teas/)
+ - [TollBit: from Q4 2024 to Q1 2025, traffic from AI retrieval bots to 266 websites, including national and local news organizations, grew 49%, as AI usage jumps &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/250612/p13#a250612p13)
+ - [How Steve Jobs Wrote the Greatest Commencement Speech Ever](https://www.wired.com/story/how-steve-jobs-wrote-the-greatest-commencement-speech-ever/)
+ - [Fujifilm’s new X-E5 is one of its sleekest mirrorless cameras yet](https://www.theverge.com/news/685782/fujifilm-xe5-mirrorless-camera-x100-price-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

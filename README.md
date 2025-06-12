@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hahahaha!!!!](http://9gag.com/gag/aMVObYR)
- - 😝 [Don&#39;t make me call my mom](http://9gag.com/gag/axyYd3b)
- - 💣 [G*rls be like](http://9gag.com/gag/ae9735q)
+ - 😝 [Bro is going through it](http://9gag.com/gag/azxYgOj)
+ - 😝 [This is his villain origin story](http://9gag.com/gag/a5QqKdV)
+ - 💣 [Friendship](http://9gag.com/gag/ayNY74M)
  - 😝 [\ud83d\udcca Top 3 most voted memes so far at the Meme69 Awards!](http://9gag.com/gag/aByOQ6x)
- - 👉 [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)<!-- MEMES:END -->
+ - 👉 [Somebody fact check this](http://9gag.com/gag/an7rXQE)<!-- MEMES:END -->
 
 ---
 

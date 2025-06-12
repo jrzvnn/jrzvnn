@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An Interpol-led law enforcement action in 26 countries disrupted infostealer operations, leading to takedowns of 20K+ malicious IPs and domains and 32 arrests &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250611/p48#a250611p48)
+ - [tvOS 26 adopts Thread 1.4 for an improved Apple Home experience](https://appleinsider.com/articles/25/06/12/tvos-26-adopts-thread-14-for-an-improved-apple-home-experience?utm_medium=rss)
  - [Sources: Meta&#39;s Scale AI deal was motivated by Mark Zuckerberg&#39;s desire to find new leadership for Meta&#39;s AI efforts, relationship with Alexandr Wang, and more &lpar;The Information&rpar;](http://www.techmeme.com/250611/p47#a250611p47)
  - [Sources: OpenAI talked with Saudi Arabia&#39;s PIF, India&#39;s Reliance, and the UAE&#39;s MGX about investing in the next installment of its $40B round led by SoftBank &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250611/p46#a250611p46)
- - [Some domains of Nvidia, Stanford, NPR, and the CDC were exploited to host AI spam blogs redirecting users to a spam marketing site &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/250611/p45#a250611p45)
- - [Chime priced its US IPO at $27 a share, above the expected range, raising ~$700M and another $165M from shares sold by investors, valuing the company at $11.6B &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250611/p44#a250611p44)
- - [Nvidia plans to build its first industrial AI cloud platform in Germany for European manufacturers, combining AI with robotics to assist carmakers like BMW &lpar;Reuters&rpar;](http://www.techmeme.com/250611/p43#a250611p43)<!-- TECH:END -->
+ - [Some domains of Nvidia, Stanford, NPR, and the CDC were exploited to host AI spam blogs redirecting users to a spam marketing site &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/250611/p45#a250611p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

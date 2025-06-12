@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Makes sense](http://9gag.com/gag/agmEvQv)
- - 😝 [Robert Downey Jr](http://9gag.com/gag/axyY2pL)
- - 💣 [Witty title](http://9gag.com/gag/agmE3ZW)
+ - 😝 [Witty title](http://9gag.com/gag/agmE3ZW)
+ - 😝 [Somebody fact check this](http://9gag.com/gag/an7rXQE)
+ - 💣 [G*rls be like](http://9gag.com/gag/ae9735q)
  - 😝 [\ud83d\udcca Top 3 most voted memes so far at the Meme69 Awards!](http://9gag.com/gag/aByOQ6x)
- - 👉 [Women](http://9gag.com/gag/aQzO60d)<!-- MEMES:END -->
+ - 👉 [YouTube&#39;s logic is something else entirely.](http://9gag.com/gag/aE0OdYO)<!-- MEMES:END -->
 
 ---
 

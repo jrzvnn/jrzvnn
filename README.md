@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;ve got 99 problems, but black mold ain&#39;t one &lpar;anymore&rpar;...](http://9gag.com/gag/a2vLzwO)
- - 😝 [Women](http://9gag.com/gag/aQzO60d)
- - 💣 [Friendship](http://9gag.com/gag/ayNY74M)
+ - 😝 [Makes sense](http://9gag.com/gag/agmEvQv)
+ - 😝 [Robert Downey Jr](http://9gag.com/gag/axyY2pL)
+ - 💣 [Witty title](http://9gag.com/gag/agmE3ZW)
  - 😝 [\ud83d\udcca Top 3 most voted memes so far at the Meme69 Awards!](http://9gag.com/gag/aByOQ6x)
- - 👉 [She is very Swedish](http://9gag.com/gag/aW4D0xZ)<!-- MEMES:END -->
+ - 👉 [Women](http://9gag.com/gag/aQzO60d)<!-- MEMES:END -->
 
 ---
 

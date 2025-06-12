@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Adult taste buds hit different](http://9gag.com/gag/a0eM9mZ)
- - 😝 [I&#39;ve got 99 problems, but black mold ain&#39;t one &lpar;anymore&rpar;...](http://9gag.com/gag/a2vLzwO)
- - 💣 [Women](http://9gag.com/gag/aQzO60d)
+ - 😝 [Plus tax](http://9gag.com/gag/adBo009)
+ - 😝 [The hair is counting down](http://9gag.com/gag/aByOR72)
+ - 💣 [A questionable decision.](http://9gag.com/gag/aAyORzR)
  - 😝 [\ud83d\udcca Top 3 most voted memes so far at the Meme69 Awards!](http://9gag.com/gag/aByOQ6x)
- - 👉 [Bro is going through it](http://9gag.com/gag/azxYgOj)<!-- MEMES:END -->
+ - 👉 [Order of operations matters, apparently.](http://9gag.com/gag/aKGOwoQ)<!-- MEMES:END -->
 
 ---
 

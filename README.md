@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Filming workouts draws criticism](http://9gag.com/gag/azxY7ej)
- - 😝 [YouTube&#39;s logic is something else entirely.](http://9gag.com/gag/aE0OdYO)
- - 💣 [Not a big fan](http://9gag.com/gag/amopN8X)
+ - 😝 [Privacy protection Walmart version](http://9gag.com/gag/adBo0QZ)
+ - 😝 [Plus tax](http://9gag.com/gag/adBo009)
+ - 💣 [I&#39;m serious.](http://9gag.com/gag/a9yX3wW)
  - 😝 [\ud83d\udcca Top 3 most voted memes so far at the Meme69 Awards!](http://9gag.com/gag/aByOQ6x)
- - 👉 [Privacy protection Walmart version](http://9gag.com/gag/adBo0QZ)<!-- MEMES:END -->
+ - 👉 [YouTube&#39;s logic is something else entirely.](http://9gag.com/gag/aE0OdYO)<!-- MEMES:END -->
 
 ---
 

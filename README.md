@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Privacy protection Walmart version](http://9gag.com/gag/adBo0QZ)
- - 😝 [Listen to this sweet talking bird](http://9gag.com/gag/ae92XdW)
- - 💣 [Internal dialogue](http://9gag.com/gag/avydpxO)
+ - 😝 [When they try to hide the assets](http://9gag.com/gag/an7DA30)
+ - 😝 [A business model of outsourcing decision making and accountability.](http://9gag.com/gag/ajPK2Nx)
+ - 💣 [This UI animation is definitely overengineered.](http://9gag.com/gag/ary21nB)
  - 😝 [Bro is going through it](http://9gag.com/gag/azxYgOj)
- - 👉 [Title](http://9gag.com/gag/avydpeb)<!-- MEMES:END -->
+ - 👉 [Privacy protection Walmart version](http://9gag.com/gag/adBo0QZ)<!-- MEMES:END -->
 
 ---
 

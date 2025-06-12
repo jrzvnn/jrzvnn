@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Apple&#39;s vision for Apple TV+ and its film business, as Tim Cook says the company&#39;s $200M+ bet on the F1 movie is about more than selling iPhones &lpar;Cynthia Littleton/Variety&rpar;](http://www.techmeme.com/250612/p8#a250612p8)
+ - [A profile of Airwallex co-founder Jack Zhang, who turned down Stripe&#39;s $1.2B offer seven years ago; the fintech is now valued at $6.2B and plans an IPO in 2026 &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/250612/p7#a250612p7)
  - [TSMC opens a joint research lab with the University of Tokyo, the company&#39;s first with a university outside Taiwan, expanding a relationship that began in 2019 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250612/p6#a250612p6)
  - [Fermàt, which uses AI to analyze e-commerce store performance and audience behavior for personalized campaigns, raised a $45M Series B led by VMG Partners &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250612/p5#a250612p5)
- - [An interview with Craig Federighi on the new multitasking UI in iPadOS 26, problems with Stage Manager, and why the iPad&#39;s Mac-style multitasking took so long &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/250612/p4#a250612p4)
- - [London-based Definely, whose AI tools help law firms draft and review legal contracts, raised a $30M Series B led by Revaia, with Clio and others participating &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/250612/p3#a250612p3)
- - [Tel Aviv-based Tastewise, which uses gen AI to automate sales and marketing for food and beverage companies, raised a $50M Series B led by Telus Global Ventures &lpar;Ryan Barwick/Axios&rpar;](http://www.techmeme.com/250612/p2#a250612p2)<!-- TECH:END -->
+ - [An interview with Craig Federighi on the new multitasking UI in iPadOS 26, problems with Stage Manager, and why the iPad&#39;s Mac-style multitasking took so long &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/250612/p4#a250612p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

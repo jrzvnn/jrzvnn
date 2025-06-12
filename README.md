@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Witty title](http://9gag.com/gag/agmE3ZW)
- - 😝 [Somebody fact check this](http://9gag.com/gag/an7rXQE)
+ - 😝 [Hahahaha!!!!](http://9gag.com/gag/aMVObYR)
+ - 😝 [Don&#39;t make me call my mom](http://9gag.com/gag/axyYd3b)
  - 💣 [G*rls be like](http://9gag.com/gag/ae9735q)
  - 😝 [\ud83d\udcca Top 3 most voted memes so far at the Meme69 Awards!](http://9gag.com/gag/aByOQ6x)
- - 👉 [YouTube&#39;s logic is something else entirely.](http://9gag.com/gag/aE0OdYO)<!-- MEMES:END -->
+ - 👉 [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)<!-- MEMES:END -->
 
 ---
 

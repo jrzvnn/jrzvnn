@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save up to $400 on Apple&#39;s iPad Air M2 with these blowout deals](https://appleinsider.com/articles/25/06/12/save-up-to-400-on-apples-ipad-air-m2-with-these-blowout-deals?utm_medium=rss)
  - [A massive Google Cloud outage messed up Google Home, Spotify, and other services](https://www.theverge.com/news/686365/cloudflare-spotify-google-home-is-down-outage-offline)
- - [Sources: Scale AI plans to promote Chief Strategy Officer Jason Droege to CEO, replacing Alexandr Wang, who is set to join Meta after its investment in Scale AI &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250612/p36#a250612p36)
- - [The best note-taking apps for collecting your thoughts and data](https://www.theverge.com/23942597/notes-text-evernote-onenote-keep-apps)
- - [How to Protest Safely in the Age of Surveillance](https://www.wired.com/story/how-to-protest-safely-surveillance-digital-privacy/)
- - [Coinbase announces its first branded credit card, in partnership with American Express, for Coinbase One US users, and creates a lower-cost Basic subscription &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250612/p35#a250612p35)<!-- TECH:END -->
+ - [Chasing rainbows](https://www.theverge.com/23650428/colorblindness-design-ui-accessibility-wordle)
+ - [Meta inks a new geothermal energy deal to support AI](https://www.theverge.com/news/686387/meta-ai-data-center-geothermal-energy-xgs)
+ - [Sources: Scale AI plans to promote Chief Strategy Officer Jason Droege to CEO, replacing Alexandr Wang, who is set to join Meta after its investment in Scale AI &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250612/p36#a250612p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

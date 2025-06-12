@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Visa: stablecoin transaction volumes hit $752B in May, up from $409B in May 2024, and wallets that regularly send and receive payments hit a record 46M average &lpar;Financial Times&rpar;](http://www.techmeme.com/250612/p16#a250612p16)
  - [Gemini and Glassnode research: centralized treasuries, including governments, ETFs, and public companies, now control 30.9% of bitcoin&#39;s circulating supply &lpar;Martin Young/Cointelegraph&rpar;](http://www.techmeme.com/250612/p15#a250612p15)
  - [Vibe Coding Is Coming for Engineering Jobs](https://www.wired.com/story/vibe-coding-engineering-apocalypse/)
  - [Apple unveils updates to help parents protect kids and teens, including easier Child Accounts setup, stronger defaults, and granular App Store age ratings &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/250612/p14#a250612p14)
- - [24 Best Flavors of AriZona&#39;s Iconic Iced Tea &lpar;2025&rpar;](https://www.wired.com/gallery/best-arizona-iced-teas/)
- - [TollBit: from Q4 2024 to Q1 2025, traffic from AI retrieval bots to 266 websites, including national and local news organizations, grew 49%, as AI usage jumps &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/250612/p13#a250612p13)<!-- TECH:END -->
+ - [24 Best Flavors of AriZona&#39;s Iconic Iced Tea &lpar;2025&rpar;](https://www.wired.com/gallery/best-arizona-iced-teas/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

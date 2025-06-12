@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Preview for iPadOS 26 vs macOS Tahoe: Finally a good native PDF tool on iPad](https://appleinsider.com/inside/ipados-26/vs/preview-for-ipados-26-vs-macos-tahoe-finally-a-good-native-pdf-tool-on-ipad?utm_medium=rss)
+ - [Sources: FTC is discussing a consent decree on the Omnicom-Interpublic merger, prohibiting the combined company from boycotting platforms over political content &lpar;New York Times&rpar;](http://www.techmeme.com/250612/p29#a250612p29)
  - [Lyft ramps up its ad business with three new ad formats; CEO David Risher said that Lyft is on track to reach a $100M annualized ad revenue run rate by 2025 end &lpar;Kerry Flynn/Axios&rpar;](http://www.techmeme.com/250612/p28#a250612p28)
  - [Check your Anker power bank -- a fire risk prompted a major recall](https://appleinsider.com/articles/25/06/12/check-your-anker-power-bank----a-fire-risk-prompted-a-major-recall?utm_medium=rss)
- - [Apple will let you play video in CarPlay with iOS 26](https://www.theverge.com/news/686046/apple-carplay-airplay-video-streaming-ios26)
- - [Mattel partners with OpenAI to create AI-powered toys and games, with the first product expected in 2025, and integrates ChatGPT Enterprise in its business &lpar;Savyata Mishra/Reuters&rpar;](http://www.techmeme.com/250612/p27#a250612p27)
- - [Congress Demands Answers on Data Privacy Ahead of 23andMe Sale](https://www.wired.com/story/congress-demands-answers-on-data-privacy-ahead-of-23andme-sale/)<!-- TECH:END -->
+ - [Apple will let you play video in CarPlay with iOS 26](https://www.theverge.com/news/686046/apple-carplay-airplay-video-streaming-ios26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

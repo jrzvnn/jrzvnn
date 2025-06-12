@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Internal docs: Fidelity, TPG, Sequoia, and others are buying ~$250M worth of shares in xAI under a tender offer valuing it at $113B; Fidelity is purchasing $20M &lpar;New York Times&rpar;](http://www.techmeme.com/250612/p38#a250612p38)
  - [Bose upgraded the adaptive ANC on its new QuietComfort Ultra earbuds](https://www.theverge.com/news/686448/bose-quietcomfort-ultra-gen2-wireless-earbuds-anc-soundlink-plus-micro-speakers)
  - [Shopify partners with Coinbase to enable USDC payments for its merchants through Coinbase&#39;s Base layer-2 network, starting with a limited group of merchants &lpar;CoinDesk&rpar;](http://www.techmeme.com/250612/p37#a250612p37)
  - [Custom ringtones are slightly easier to add in iOS 26](https://appleinsider.com/articles/25/06/12/custom-ringtones-are-now-slightly-easier-to-add-in-ios-26?utm_medium=rss)
- - [Save up to $400 on Apple&#39;s iPad Air M2 with these blowout deals](https://appleinsider.com/articles/25/06/12/save-up-to-400-on-apples-ipad-air-m2-with-these-blowout-deals?utm_medium=rss)
- - [A massive Google Cloud outage messed up Google Home, Spotify, and other services](https://www.theverge.com/news/686365/cloudflare-spotify-google-home-is-down-outage-offline)<!-- TECH:END -->
+ - [Save up to $400 on Apple&#39;s iPad Air M2 with these blowout deals](https://appleinsider.com/articles/25/06/12/save-up-to-400-on-apples-ipad-air-m2-with-these-blowout-deals?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [TACO move](http://9gag.com/gag/a87KM8Z)
- - 😝 [She is very Swedish](http://9gag.com/gag/aW4D0xZ)
- - 💣 [Somebody fact check this](http://9gag.com/gag/an7rXQE)
+ - 😝 [A man`s man](http://9gag.com/gag/aPA144K)
+ - 😝 [Somebody fact check this](http://9gag.com/gag/an7rXQE)
+ - 💣 [She is very Swedish](http://9gag.com/gag/aW4D0xZ)
  - 😝 [\ud83d\udcca Top 3 most voted memes so far at the Meme69 Awards!](http://9gag.com/gag/aByOQ6x)
- - 👉 [Peak comedy from Scary Movie](http://9gag.com/gag/aByORzP)<!-- MEMES:END -->
+ - 👉 [Witty title](http://9gag.com/gag/agmE3ZW)<!-- MEMES:END -->
 
 ---
 

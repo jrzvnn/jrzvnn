@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Been a long time](http://9gag.com/gag/adBo6D9)
- - 😝 [Pauline is on to something](http://9gag.com/gag/a7opvQb)
- - 💣 [A final yellow card for the road](http://9gag.com/gag/abA2jLp)
+ - 😝 [He&#39;s good](http://9gag.com/gag/axyYdvb)
+ - 😝 [The hair is counting down](http://9gag.com/gag/aByOR72)
+ - 💣 [A questionable decision.](http://9gag.com/gag/aAyORzR)
  - 😝 [\ud83d\udcca Top 3 most voted memes so far at the Meme69 Awards!](http://9gag.com/gag/aByOQ6x)
- - 👉 [Friendship](http://9gag.com/gag/ayNY74M)<!-- MEMES:END -->
+ - 👉 [Order of operations matters, apparently.](http://9gag.com/gag/aKGOwoQ)<!-- MEMES:END -->
 
 ---
 

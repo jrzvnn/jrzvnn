@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [London-based Definely, whose AI tools help law firms draft and review legal contracts, raised a $30M Series B led by Revaia, with Clio and others participating &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/250612/p3#a250612p3)
  - [Tel Aviv-based Tastewise, which uses gen AI to automate sales and marketing for food and beverage companies, raised a $50M Series B led by Telus Global Ventures &lpar;Ryan Barwick/Axios&rpar;](http://www.techmeme.com/250612/p2#a250612p2)
  - [Databricks says it expects to generate $3.7B in annualized revenue by July, up 50% YoY, with nearly 50 of its 15,000+ customers spending over $10M annually &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250612/p1#a250612p1)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 12, #262](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-12-262/#ftag=CAD590a51e)
- - [Klarna’s CEO is now taking your calls — over an AI hotline](https://www.theverge.com/news/685814/klarna-ceo-calls-ai-hotline)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, June 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-june-12/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Klarna’s CEO is now taking your calls — over an AI hotline](https://www.theverge.com/news/685814/klarna-ceo-calls-ai-hotline)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

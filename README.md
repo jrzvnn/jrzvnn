@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [YouTube&#39;s logic is something else entirely.](http://9gag.com/gag/aE0OdYO)
- - 😝 [This UI animation is definitely overengineered.](http://9gag.com/gag/ary21nB)
- - 💣 [Friendship](http://9gag.com/gag/ayNY74M)
+ - 😝 [Been a long time](http://9gag.com/gag/adBo6D9)
+ - 😝 [Pauline is on to something](http://9gag.com/gag/a7opvQb)
+ - 💣 [A final yellow card for the road](http://9gag.com/gag/abA2jLp)
  - 😝 [\ud83d\udcca Top 3 most voted memes so far at the Meme69 Awards!](http://9gag.com/gag/aByOQ6x)
- - 👉 [I&#39;ve got 99 problems, but black mold ain&#39;t one &lpar;anymore&rpar;...](http://9gag.com/gag/a2vLzwO)<!-- MEMES:END -->
+ - 👉 [Friendship](http://9gag.com/gag/ayNY74M)<!-- MEMES:END -->
 
 ---
 

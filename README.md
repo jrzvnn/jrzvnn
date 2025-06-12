@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The hair is counting down](http://9gag.com/gag/aByOR72)
- - 😝 [Repost, but sometimes all you need is a quack. Sorry for the text tho](http://9gag.com/gag/azxYgMb)
- - 💣 [Order of operations matters, apparently.](http://9gag.com/gag/aKGOwoQ)
- - 😝 [What&#39;s up Homie](http://9gag.com/gag/aqyz3vL)
- - 👉 [Plus tax](http://9gag.com/gag/adBo009)<!-- MEMES:END -->
+ - 😝 [A final yellow card for the road](http://9gag.com/gag/abA2jLp)
+ - 😝 [Privacy protection Walmart version](http://9gag.com/gag/adBo0QZ)
+ - 💣 [Filming workouts draws criticism](http://9gag.com/gag/azxY7ej)
+ - 😝 [Witty title](http://9gag.com/gag/agmE3ZW)
+ - 👉 [Op&#39;s favourite gym, oh wait I&#39;m Op. Anyone for the gym? No homo](http://9gag.com/gag/a2vLz1Y)<!-- MEMES:END -->
 
 ---
 

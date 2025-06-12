@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lyft ramps up its ad business with three new ad formats; CEO David Risher said that Lyft is on track to reach a $100M annualized ad revenue run rate by 2025 end &lpar;Kerry Flynn/Axios&rpar;](http://www.techmeme.com/250612/p28#a250612p28)
+ - [Check your Anker power bank -- a fire risk prompted a major recall](https://appleinsider.com/articles/25/06/12/check-your-anker-power-bank----a-fire-risk-prompted-a-major-recall?utm_medium=rss)
+ - [Apple will let you play video in CarPlay with iOS 26](https://www.theverge.com/news/686046/apple-carplay-airplay-video-streaming-ios26)
  - [Mattel partners with OpenAI to create AI-powered toys and games, with the first product expected in 2025, and integrates ChatGPT Enterprise in its business &lpar;Savyata Mishra/Reuters&rpar;](http://www.techmeme.com/250612/p27#a250612p27)
- - [Congress Demands Answers on Data Privacy Ahead of 23andMe Sale](https://www.wired.com/story/congress-demands-answers-on-data-privacy-ahead-of-23andme-sale/)
- - [How to use Quick Keys in macOS Tahoe Spotlight](https://appleinsider.com/inside/macos-tahoe/tips/how-to-use-quick-keys-in-macos-tahoe-spotlight?utm_medium=rss)
- - [Apple&#39;s new EnergyKit in iOS 26 help HomeKit users shift to cleaner, cheaper electricity](https://appleinsider.com/articles/25/06/12/apples-new-energykit-in-ios-26-help-homekit-users-shift-to-cleaner-cheaper-electricity?utm_medium=rss)
- - [Konami is remaking the original Silent Hill](https://www.theverge.com/news/686112/konami-silent-hill-remake-press-start)<!-- TECH:END -->
+ - [Congress Demands Answers on Data Privacy Ahead of 23andMe Sale](https://www.wired.com/story/congress-demands-answers-on-data-privacy-ahead-of-23andme-sale/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

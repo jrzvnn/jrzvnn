@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [It could be 2026 before all your Thread border routers work together](https://www.theverge.com/news/686512/apple-thread-1-4-tvos-26-matter-google-amazon)
+ - [Apple &amp; Google profit as Chinese VPNs collect your private data](https://appleinsider.com/articles/25/06/12/apple-google-profit-as-chinese-vpns-collect-your-private-data?utm_medium=rss)
  - [Apple&#39;s AI ambitions go beyond Siri LLM with Knowledge chatbot and always-on AI copilot](https://appleinsider.com/articles/25/06/12/apples-ai-ambitions-go-beyond-siri-llm-with-knowledge-chatbot-and-always-on-ai-copilot?utm_medium=rss)
  - [Adobe reports Q2 revenue up 11% YoY to $5.87B, vs. $5.8B est., Digital Media revenue up 11% to $4.35B, and forecasts Q3 revenue above estimates &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250612/p40#a250612p40)
- - [The best ereader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [Trump’s protest threats raise surveillance alarms around his military parade](https://www.theverge.com/politics/686492/trump-military-parade-surveillance-protests-free-speech)
- - [The Meta AI App Lets You ‘Discover’ People’s Bizarrely Personal Chats](https://www.wired.com/story/meta-artificial-intelligence-chatbot-conversations/)<!-- TECH:END -->
+ - [The best ereader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

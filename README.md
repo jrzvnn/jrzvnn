@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)
+ - 😝 [I&#39;ve got 99 problems, but black mold ain&#39;t one &lpar;anymore&rpar;...](http://9gag.com/gag/a2vLzwO)
  - 😝 [Women](http://9gag.com/gag/aQzO60d)
- - 💣 [A man`s man](http://9gag.com/gag/aPA144K)
+ - 💣 [Friendship](http://9gag.com/gag/ayNY74M)
  - 😝 [\ud83d\udcca Top 3 most voted memes so far at the Meme69 Awards!](http://9gag.com/gag/aByOQ6x)
- - 👉 [Friendship](http://9gag.com/gag/ayNY74M)<!-- MEMES:END -->
+ - 👉 [She is very Swedish](http://9gag.com/gag/aW4D0xZ)<!-- MEMES:END -->
 
 ---
 

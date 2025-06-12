@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A massive Google Cloud outage messed up Google Home, Spotify, and other services](https://www.theverge.com/news/686365/cloudflare-spotify-google-home-is-down-outage-offline)
+ - [Sources: Scale AI plans to promote Chief Strategy Officer Jason Droege to CEO, replacing Alexandr Wang, who is set to join Meta after its investment in Scale AI &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250612/p36#a250612p36)
  - [The best note-taking apps for collecting your thoughts and data](https://www.theverge.com/23942597/notes-text-evernote-onenote-keep-apps)
  - [How to Protest Safely in the Age of Surveillance](https://www.wired.com/story/how-to-protest-safely-surveillance-digital-privacy/)
- - [Coinbase announces its first branded credit card, in partnership with American Express, for Coinbase One US users, and creates a lower-cost Basic subscription &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250612/p35#a250612p35)
- - [Lock Screen customization in iOS 26 is both stretchy and 3D](https://appleinsider.com/articles/25/06/12/lock-screen-customization-in-ios-26-is-both-stretchy-and-3d?utm_medium=rss)
- - [A massive internet outage is messing up Google Home, Spotify, and other services](https://www.theverge.com/news/686365/cloudflare-spotify-google-home-is-down-outage-offline)<!-- TECH:END -->
+ - [Coinbase announces its first branded credit card, in partnership with American Express, for Coinbase One US users, and creates a lower-cost Basic subscription &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250612/p35#a250612p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

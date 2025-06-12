@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [25 Best Deals on Father’s Day Gifts &lpar;2025&rpar;](https://www.wired.com/story/fathers-day-deals-2025/)
+ - [A look at Amsterdam&#39;s failed experiment to create a fair welfare AI system that would evaluate every welfare applicant in the city for potential fraud &lpar;MIT Technology Review&rpar;](http://www.techmeme.com/250612/p10#a250612p10)
  - [The US prosecution of quant trader Richard Ho could define how quant algorithms can become stolen property and have a major impact on Wall Street&#39;s talent war &lpar;Chris Dolmetsch/Bloomberg&rpar;](http://www.techmeme.com/250612/p9#a250612p9)
  - [Moto Tag finally gets precise UWB location tracking](https://www.theverge.com/news/685943/moto-tag-finally-gets-precise-uwb-location-tracking)
- - [A look at Apple&#39;s vision for Apple TV+ and its film business, as Tim Cook says the company&#39;s $200M+ bet on the F1 movie is about more than selling iPhones &lpar;Cynthia Littleton/Variety&rpar;](http://www.techmeme.com/250612/p8#a250612p8)
- - [A profile of Airwallex co-founder Jack Zhang, who turned down Stripe&#39;s $1.2B offer seven years ago; the fintech is now valued at $6.2B and plans an IPO in 2026 &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/250612/p7#a250612p7)
- - [TSMC opens a joint research lab with the University of Tokyo, the company&#39;s first with a university outside Taiwan, expanding a relationship that began in 2019 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250612/p6#a250612p6)<!-- TECH:END -->
+ - [Best Internet Providers in Los Angeles, California](https://www.cnet.com/home/internet/best-internet-providers-in-los-angeles-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

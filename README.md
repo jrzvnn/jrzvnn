@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best ereader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
  - [Trump’s protest threats raise surveillance alarms around his military parade](https://www.theverge.com/politics/686492/trump-military-parade-surveillance-protests-free-speech)
+ - [The Meta AI App Lets You ‘Discover’ People’s Bizarrely Personal Chats](https://www.wired.com/story/meta-artificial-intelligence-chatbot-conversations/)
  - [Apple’s upgraded Siri might not arrive until next spring](https://www.theverge.com/news/686498/apple-upgraded-siri-ios-26-4)
- - [Here&amp;#8217;s the $2,000 fully AI-generated ad that aired during the NBA Finals](https://www.theverge.com/news/686474/kalshi-ai-generated-ad-nba-finals-google-veo-3)
- - [The Verge’s 2025 Father’s Day gift guide](https://www.theverge.com/tech/673799/best-fathers-day-gift-ideas-2025)
- - [Hands on with all the new CarPlay features in iOS 26](https://appleinsider.com/articles/25/06/12/hands-on-with-all-the-new-features-with-carplay-in-ios-26?utm_medium=rss)<!-- TECH:END -->
+ - [Here&amp;#8217;s the $2,000 fully AI-generated ad that aired during the NBA Finals](https://www.theverge.com/news/686474/kalshi-ai-generated-ad-nba-finals-google-veo-3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

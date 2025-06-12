@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s excellent TV Streamer &lpar;4K&rpar; is on sale just in time for Father’s Day](https://www.theverge.com/tech/686231/google-tv-streamer-4k-fathers-day-2025-deal-sale)
- - [Reddit is adding new features for comments](https://www.theverge.com/news/686282/reddit-comments-share-insights-drafts)
- - [Unpacking AI Agents](https://www.wired.com/story/uncanny-valley-podcast-unpacking-ai-agents/)
- - [Nintendo’s GameCube controller for the Switch 2 is once again available for purchase](https://www.theverge.com/tech/686188/nintendo-switch-2-gamecube-controller-launch-restock)
- - [Switch 2 size comparison: Nintendo’s latest up next to a whole lot of consoles](https://www.theverge.com/nintendo/685920/nintendo-switch-2-size-comparison-steam-deck-playstation-xbox-consoles)<!-- TECH:END -->
+ - [Garmin’s Venu X1 smartwatch has its biggest display and smallest case yet](https://www.theverge.com/news/686325/garmin-venu-x1-smartwatch-display-specs-pricing)
+ - [A Mister Miracle animated show is in the works at DC Studios](https://www.theverge.com/dc-comics/686186/dc-studios-mister-miracle-tom-king)
+ - [Chime opened at $43 in its Nasdaq debut on Thursday, after selling shares at $27 each in an IPO in which the neobank raised $700M and was valued at $11.6B &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250612/p31#a250612p31)
+ - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
+ - [Apple &amp; Google profit as Chinese VPNs collect your private data](https://appleinsider.com/articles/25/06/12/apple-google-profit-as-chinese-vpns-collect-your-private-data?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

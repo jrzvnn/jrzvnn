@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)
  - 😝 [She should take the hint](http://9gag.com/gag/avydgpd)
- - 💣 [Hahahaha!!!!](http://9gag.com/gag/aMVObYR)
+ - 😝 [Hahahaha!!!!](http://9gag.com/gag/aMVObYR)
+ - 💣 [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)
  - 😝 [\ud83d\udcca Top 3 most voted memes so far at the Meme69 Awards!](http://9gag.com/gag/aByOQ6x)
  - 👉 [This is the AI we actually need](http://9gag.com/gag/aByOKxD)<!-- MEMES:END -->
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She should take the hint](http://9gag.com/gag/avydgpd)
- - 😝 [Hahahaha!!!!](http://9gag.com/gag/aMVObYR)
- - 💣 [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)
+ - 😝 [Bro became the TSA&#39;s worst nightmare.](http://9gag.com/gag/abAQ52p)
+ - 😝 [That comeback landed perfectly.](http://9gag.com/gag/aYQAb70)
+ - 💣 [Title](http://9gag.com/gag/avydpeb)
  - 😝 [\ud83d\udcca Top 3 most voted memes so far at the Meme69 Awards!](http://9gag.com/gag/aByOQ6x)
- - 👉 [This is the AI we actually need](http://9gag.com/gag/aByOKxD)<!-- MEMES:END -->
+ - 👉 [Leather stamping](http://9gag.com/gag/a1mEp3P)<!-- MEMES:END -->
 
 ---
 

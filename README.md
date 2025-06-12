@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tel Aviv-based Tastewise, which uses gen AI to automate sales and marketing for food and beverage companies, raised a $50M Series B led by Telus Global Ventures &lpar;Ryan Barwick/Axios&rpar;](http://www.techmeme.com/250612/p2#a250612p2)
  - [Databricks says it expects to generate $3.7B in annualized revenue by July, up 50% YoY, with nearly 50 of its 15,000+ customers spending over $10M annually &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250612/p1#a250612p1)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 12, #262](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-12-262/#ftag=CAD590a51e)
  - [Klarna’s CEO is now taking your calls — over an AI hotline](https://www.theverge.com/news/685814/klarna-ceo-calls-ai-hotline)
- - [An Interpol-led law enforcement action in 26 countries disrupted infostealer operations, leading to takedowns of 20K+ malicious IPs and domains and 32 arrests &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250611/p48#a250611p48)
- - [tvOS 26 adopts Thread 1.4 for an improved Apple Home experience](https://appleinsider.com/articles/25/06/12/tvos-26-adopts-thread-14-for-an-improved-apple-home-experience?utm_medium=rss)
- - [Sources: Meta&#39;s Scale AI deal was motivated by Mark Zuckerberg&#39;s desire to find new leadership for Meta&#39;s AI efforts, relationship with Alexandr Wang, and more &lpar;The Information&rpar;](http://www.techmeme.com/250611/p47#a250611p47)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, June 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-june-12/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

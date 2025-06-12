@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Four great games from Steam’s June Next Fest](https://www.theverge.com/games/685748/steam-next-fest-june-2025-demos)
+ - [Google is working with the US National Hurricane Center to test an AI model that forecasts cyclones and launches Weather Lab to share its AI weather models &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/250612/p26#a250612p26)
+ - [Anker is recalling over 1.1 million power banks due to fire and burn risks](https://www.theverge.com/news/686084/anker-recall-uscpsc-power-bank-battery-powercore-a1263)
  - [iOS 26 update fixes the most annoying part of sharing on iPhone](https://appleinsider.com/articles/25/06/12/ios-26-update-fixes-the-most-annoying-part-of-sharing-on-iphone?utm_medium=rss)
- - [Google has a new AI model and website for forecasting tropical storms](https://www.theverge.com/news/685820/google-ai-forecast-typhoon-hurricane-tropical-storm)
- - [Razer’s new mobile controller can stretch wide enough to fit an iPad Pro](https://www.theverge.com/news/686013/razer-kishi-v3-xl-ipad-pro-air-android-hands-on-gaming)
- - [John Deere has to face the FTC&amp;#8217;s right-to-repair lawsuit](https://www.theverge.com/news/686074/john-deere-ftc-right-to-repair-lawsuit-must-face)
- - [Save $100 on Apple’s latest iPad Air with the M3 chip](https://www.theverge.com/tech/686039/ipad-air-meta-quest-3s-assassins-creed-shadows-deal-sale)<!-- TECH:END -->
+ - [Google has a new AI model and website for forecasting tropical storms](https://www.theverge.com/news/685820/google-ai-forecast-typhoon-hurricane-tropical-storm)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

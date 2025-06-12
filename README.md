@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I didn&#39;t know you could use this meme this way...](http://9gag.com/gag/agmEvnn)
- - 😝 [Hahahaha!!!!](http://9gag.com/gag/aMVObYR)
- - 💣 [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)
+ - 😝 [TACO move](http://9gag.com/gag/a87KM8Z)
+ - 😝 [She is very Swedish](http://9gag.com/gag/aW4D0xZ)
+ - 💣 [Somebody fact check this](http://9gag.com/gag/an7rXQE)
  - 😝 [\ud83d\udcca Top 3 most voted memes so far at the Meme69 Awards!](http://9gag.com/gag/aByOQ6x)
- - 👉 [Big oof](http://9gag.com/gag/adBoj8V)<!-- MEMES:END -->
+ - 👉 [Peak comedy from Scary Movie](http://9gag.com/gag/aByORzP)<!-- MEMES:END -->
 
 ---
 

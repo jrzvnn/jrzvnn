@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD unveils its new MI350X and MI355X GPUs for AI workloads, claiming up to 4x AI compute performance and 35x inference gains over the prior-gen MI300X &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250612/p32#a250612p32)
- - [Garmin’s Venu X1 smartwatch has its biggest display and smallest case yet](https://www.theverge.com/news/686325/garmin-venu-x1-smartwatch-display-specs-pricing)
- - [A Mister Miracle animated show is in the works at DC Studios](https://www.theverge.com/dc-comics/686186/dc-studios-mister-miracle-tom-king)
- - [Chime opened at $43 in its Nasdaq debut on Thursday, after selling shares at $27 each in an IPO in which the neobank raised $700M and was valued at $11.6B &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250612/p31#a250612p31)
- - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)<!-- TECH:END -->
+ - [A massive internet outage is messing up Google Home, Spotify, and other services](https://www.theverge.com/news/686365/cloudflare-spotify-google-home-is-down-outage-offline)
+ - [Google services, AWS, Spotify, Cloudflare, and other services appear to be in a partial outage, according to Downdetector &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250612/p34#a250612p34)
+ - [Jensen Huang says Nvidia will exclude the Chinese market from its revenue and profit forecasts going forward, amid US restrictions on chip sales to China &lpar;CNN&rpar;](http://www.techmeme.com/250612/p33#a250612p33)
+ - [Pinterest is adding third-party influencer content to its feeds](https://www.theverge.com/news/685830/pinterest-ltk-affiliate-shopping-content-creators)
+ - [All the Android features Apple announced at WWDC](https://www.theverge.com/apple-wwdc/686247/apple-wwdc-ios-26-android-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

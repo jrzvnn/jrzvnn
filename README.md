@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a thoughtful man](http://9gag.com/gag/aD2O0K7)
- - 😝 [When they try to hide the assets](http://9gag.com/gag/an7DA30)
- - 💣 [Bro is going through it](http://9gag.com/gag/azxYgOj)
- - 😝 [YouTube&#39;s logic is something else entirely.](http://9gag.com/gag/aE0OdYO)
- - 👉 [I give it 3 month max before we hear stories of people&#39;s grandparents being tricked by fake AI news clips](http://9gag.com/gag/aQzO6jK)<!-- MEMES:END -->
+ - 😝 [The hair is counting down](http://9gag.com/gag/aByOR72)
+ - 😝 [Repost, but sometimes all you need is a quack. Sorry for the text tho](http://9gag.com/gag/azxYgMb)
+ - 💣 [Order of operations matters, apparently.](http://9gag.com/gag/aKGOwoQ)
+ - 😝 [What&#39;s up Homie](http://9gag.com/gag/aqyz3vL)
+ - 👉 [Plus tax](http://9gag.com/gag/adBo009)<!-- MEMES:END -->
 
 ---
 

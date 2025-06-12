@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Privacy protection Walmart version](http://9gag.com/gag/adBo0QZ)
- - 😝 [Plus tax](http://9gag.com/gag/adBo009)
- - 💣 [I&#39;m serious.](http://9gag.com/gag/a9yX3wW)
+ - 😝 [Repost, but sometimes all you need is a quack. Sorry for the text tho](http://9gag.com/gag/azxYgMb)
+ - 😝 [The hair is counting down](http://9gag.com/gag/aByOR72)
+ - 💣 [Plus tax](http://9gag.com/gag/adBo009)
  - 😝 [\ud83d\udcca Top 3 most voted memes so far at the Meme69 Awards!](http://9gag.com/gag/aByOQ6x)
- - 👉 [YouTube&#39;s logic is something else entirely.](http://9gag.com/gag/aE0OdYO)<!-- MEMES:END -->
+ - 👉 [Perks of learning another language.](http://9gag.com/gag/aKGOg6W)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He&#39;s good](http://9gag.com/gag/axyYdvb)
- - 😝 [The hair is counting down](http://9gag.com/gag/aByOR72)
- - 💣 [A questionable decision.](http://9gag.com/gag/aAyORzR)
+ - 😝 [Pass me dat ass](http://9gag.com/gag/aVvVORO)
+ - 😝 [This UI animation is definitely overengineered.](http://9gag.com/gag/ary21nB)
+ - 💣 [Op&#39;s favourite gym, oh wait I&#39;m Op. Anyone for the gym? No homo](http://9gag.com/gag/a2vLz1Y)
  - 😝 [\ud83d\udcca Top 3 most voted memes so far at the Meme69 Awards!](http://9gag.com/gag/aByOQ6x)
- - 👉 [Order of operations matters, apparently.](http://9gag.com/gag/aKGOwoQ)<!-- MEMES:END -->
+ - 👉 [Witty title](http://9gag.com/gag/agmE3ZW)<!-- MEMES:END -->
 
 ---
 

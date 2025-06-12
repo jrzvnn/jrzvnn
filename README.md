@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Bonk Patrol is a Thing!](http://9gag.com/gag/a34Woo5)
- - 😝 [Title](http://9gag.com/gag/avydpeb)
- - 💣 [Make it make sense.](http://9gag.com/gag/aYQ18B7)
- - 😝 [Op&#39;s favourite gym, oh wait I&#39;m Op. Anyone for the gym? No homo](http://9gag.com/gag/a2vLz1Y)
- - 👉 [Internal dialogue](http://9gag.com/gag/avydpxO)<!-- MEMES:END -->
+ - 😝 [Privacy protection Walmart version](http://9gag.com/gag/adBo0QZ)
+ - 😝 [Listen to this sweet talking bird](http://9gag.com/gag/ae92XdW)
+ - 💣 [Internal dialogue](http://9gag.com/gag/avydpxO)
+ - 😝 [Bro is going through it](http://9gag.com/gag/azxYgOj)
+ - 👉 [Title](http://9gag.com/gag/avydpeb)<!-- MEMES:END -->
 
 ---
 

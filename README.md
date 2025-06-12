@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $100 on Apple’s latest iPad Air with the M3 chip](https://www.theverge.com/tech/686039/ipad-air-meta-quest-3s-assassins-creed-shadows-deal-sale)
- - [How to remove your personal information from the internet -- and why it&#39;s important](https://appleinsider.com/articles/25/06/12/how-to-remove-your-personal-information-from-the-internet----and-why-its-important?utm_medium=rss)
- - [Arm CEO Rene Haas sides with Nvidia CEO Jensen Huang, saying US export controls on China threaten to slow tech advances and harm consumers and companies &lpar;Bloomberg&rpar;](http://www.techmeme.com/250612/p25#a250612p25)
- - [These Are the Best TV Shows on Apple TV Plus That&#39;ll Scratch Your Sci-Fi Itch](https://www.cnet.com/tech/services-and-software/best-apple-tv-plus-sci-fi-shows-2025/#ftag=CAD590a51e)
- - [ChatGPT Just Got &#39;Absolutely Wrecked&#39; at Chess, Losing to a 1970s-Era Atari 2600](https://www.cnet.com/tech/services-and-software/chatgpt-just-got-absolutely-wrecked-at-chess-losing-to-a-1970s-era-atari-2600/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iOS 26 update fixes the most annoying part of sharing on iPhone](https://appleinsider.com/articles/25/06/12/ios-26-update-fixes-the-most-annoying-part-of-sharing-on-iphone?utm_medium=rss)
+ - [Google has a new AI model and website for forecasting tropical storms](https://www.theverge.com/news/685820/google-ai-forecast-typhoon-hurricane-tropical-storm)
+ - [Razer’s new mobile controller can stretch wide enough to fit an iPad Pro](https://www.theverge.com/news/686013/razer-kishi-v3-xl-ipad-pro-air-android-hands-on-gaming)
+ - [John Deere has to face the FTC&amp;#8217;s right-to-repair lawsuit](https://www.theverge.com/news/686074/john-deere-ftc-right-to-repair-lawsuit-must-face)
+ - [Save $100 on Apple’s latest iPad Air with the M3 chip](https://www.theverge.com/tech/686039/ipad-air-meta-quest-3s-assassins-creed-shadows-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

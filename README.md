@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro is going through it](http://9gag.com/gag/azxYgOj)
- - 😝 [This is his villain origin story](http://9gag.com/gag/a5QqKdV)
- - 💣 [Friendship](http://9gag.com/gag/ayNY74M)
+ - 😝 [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)
+ - 😝 [She should take the hint](http://9gag.com/gag/avydgpd)
+ - 💣 [Hahahaha!!!!](http://9gag.com/gag/aMVObYR)
  - 😝 [\ud83d\udcca Top 3 most voted memes so far at the Meme69 Awards!](http://9gag.com/gag/aByOQ6x)
- - 👉 [Somebody fact check this](http://9gag.com/gag/an7rXQE)<!-- MEMES:END -->
+ - 👉 [This is the AI we actually need](http://9gag.com/gag/aByOKxD)<!-- MEMES:END -->
 
 ---
 

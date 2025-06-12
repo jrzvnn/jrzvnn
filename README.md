@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta sues Joy Timeline, which makes nudify app CrushAI, in Hong Kong to &quot;prevent them from advertising CrushAI apps on Meta platforms&quot;; CrushAI had run 5K+ ads &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250612/p18#a250612p18)
+ - [How to Shop Like a Pro During Amazon Prime Day &lpar;2025&rpar;](https://www.wired.com/story/amazon-prime-day-2025-tips-to-find-best-deals/)
  - [Pittsburgh-based Gecko Robotics, which makes robots to inspect infrastructure, raised a $125M Series D at a $1.25B valuation, up from $633M in December 2023 &lpar;Ian Thomas/CNBC&rpar;](http://www.techmeme.com/250612/p17#a250612p17)
  - [How PSVR2 Sense controllers work on Apple Vision Pro](https://appleinsider.com/articles/25/06/12/how-psvr2-sense-controllers-work-on-apple-vision-pro?utm_medium=rss)
- - [AI Agents Are Too Cheap for Our Own Good](https://www.wired.com/story/pricing-ai-agents-increasing-costs/)
- - [Visa: stablecoin transaction volumes hit $752B in May, up from $409B in May 2024, and wallets that regularly send and receive payments hit a record 46M average &lpar;Financial Times&rpar;](http://www.techmeme.com/250612/p16#a250612p16)
- - [Gemini and Glassnode research: centralized treasuries, including governments, ETFs, and public companies, now control 30.9% of bitcoin&#39;s circulating supply &lpar;Martin Young/Cointelegraph&rpar;](http://www.techmeme.com/250612/p15#a250612p15)<!-- TECH:END -->
+ - [AI Agents Are Too Cheap for Our Own Good](https://www.wired.com/story/pricing-ai-agents-increasing-costs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

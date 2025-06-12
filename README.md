@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Air Traffic Control in the US Still Runs on Windows 95 and Floppy Disks](https://www.wired.com/story/air-traffic-control-windows-95-floppy-disks/)
  - [Meta sues Joy Timeline, which makes nudify app CrushAI, in Hong Kong to &quot;prevent them from advertising CrushAI apps on Meta platforms&quot;; CrushAI had run 5K+ ads &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250612/p18#a250612p18)
  - [How to Shop Like a Pro During Amazon Prime Day &lpar;2025&rpar;](https://www.wired.com/story/amazon-prime-day-2025-tips-to-find-best-deals/)
  - [Pittsburgh-based Gecko Robotics, which makes robots to inspect infrastructure, raised a $125M Series D at a $1.25B valuation, up from $633M in December 2023 &lpar;Ian Thomas/CNBC&rpar;](http://www.techmeme.com/250612/p17#a250612p17)
- - [How PSVR2 Sense controllers work on Apple Vision Pro](https://appleinsider.com/articles/25/06/12/how-psvr2-sense-controllers-work-on-apple-vision-pro?utm_medium=rss)
- - [AI Agents Are Too Cheap for Our Own Good](https://www.wired.com/story/pricing-ai-agents-increasing-costs/)<!-- TECH:END -->
+ - [How PSVR2 Sense controllers work on Apple Vision Pro](https://appleinsider.com/articles/25/06/12/how-psvr2-sense-controllers-work-on-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

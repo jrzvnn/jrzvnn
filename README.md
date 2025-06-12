@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump’s protest threats raise surveillance alarms around his military parade](https://www.theverge.com/politics/686492/trump-military-parade-surveillance-protests-free-speech)
+ - [Apple’s upgraded Siri might not arrive until next spring](https://www.theverge.com/news/686498/apple-upgraded-siri-ios-26-4)
  - [Here&amp;#8217;s the $2,000 fully AI-generated ad that aired during the NBA Finals](https://www.theverge.com/news/686474/kalshi-ai-generated-ad-nba-finals-google-veo-3)
  - [The Verge’s 2025 Father’s Day gift guide](https://www.theverge.com/tech/673799/best-fathers-day-gift-ideas-2025)
- - [Hands on with all the new CarPlay features in iOS 26](https://appleinsider.com/articles/25/06/12/hands-on-with-all-the-new-features-with-carplay-in-ios-26?utm_medium=rss)
- - [Sources: Apple has set an internal release target of spring 2026 for its delayed upgrade of Siri, as part of an iOS 26.4 software update &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250612/p39#a250612p39)
- - [Internal docs: Fidelity, TPG, Sequoia, and others are buying ~$250M worth of shares in xAI under a tender offer valuing it at $113B; Fidelity is purchasing $20M &lpar;New York Times&rpar;](http://www.techmeme.com/250612/p38#a250612p38)<!-- TECH:END -->
+ - [Hands on with all the new CarPlay features in iOS 26](https://appleinsider.com/articles/25/06/12/hands-on-with-all-the-new-features-with-carplay-in-ios-26?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

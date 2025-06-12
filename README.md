@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony Bravia 8 II OLED TV Review: Strikingly Clear](https://www.wired.com/review/sony-bravia-8-ii/)
- - [Photos in iOS 26 brings back tabs and generates Spatial Photos](https://appleinsider.com/articles/25/06/12/photos-in-ios-26-brings-back-tabs-and-generates-spatial-photos?utm_medium=rss)
- - [24 Gifts for Dads Who Don’t Need Anything &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-to-give-dads/)
- - [PNY Duo Link V3 with USB-C and USB-A will move data between any of your Macs](https://appleinsider.com/articles/25/06/12/pny-duo-link-v3-with-usb-c-and-usb-a-will-move-data-between-any-of-your-macs?utm_medium=rss)
- - [Meter, which sells and maintains packages of custom data center networking equipment, raised $170M led by General Catalyst at a $1B+ valuation &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/250612/p21#a250612p21)<!-- TECH:END -->
+ - [Best Merino Wool T-Shirts &lpar;2025&rpar;, Tried On and Tested](https://www.wired.com/gallery/best-merino-wool-t-shirts/)
+ - [Kickstarter-funded films are coming to Tubi](https://www.theverge.com/news/684374/tubi-kickstarter-initiative)
+ - [Xgimi adds a laser option and built-in batteries to its MoGo 4 projectors](https://www.theverge.com/news/685361/xgimi-mogo-series-4-projectors-laser)
+ - [Big Tech quietly sponsors Trump’s military parade party](https://www.theverge.com/policy/685690/big-tech-trump-military-parade-america250)
+ - [Meta cracks down on nudify apps after being exposed](https://www.theverge.com/news/685985/meta-lawsuit-crushai-nudify-app-ads)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

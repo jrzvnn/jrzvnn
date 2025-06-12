@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to remove your personal information from the internet -- and why it&#39;s important](https://appleinsider.com/articles/25/06/12/how-to-remove-your-personal-information-from-the-internet----and-why-its-important?utm_medium=rss)
  - [Arm CEO Rene Haas sides with Nvidia CEO Jensen Huang, saying US export controls on China threaten to slow tech advances and harm consumers and companies &lpar;Bloomberg&rpar;](http://www.techmeme.com/250612/p25#a250612p25)
- - [An Exclusive Look at Infinite Machine’s Olto Electric Bike](https://www.wired.com/story/exclusive-look-at-infinite-machine-olto-electric-bike/)
- - [Steve Jobs&#39; famous Stanford speech is 20 years old, and newly remastered](https://appleinsider.com/articles/25/06/12/steve-jobs-famous-stanford-speech-is-20-years-old-and-newly-remastered?utm_medium=rss)
- - [How to Avoid Scams and Shoddy Wares on Amazon &lpar;2025&rpar;](https://www.wired.com/story/how-shop-safe-amazon/)
- - [New report about Apple&#39;s 10 main challenges ignores two main factors](https://appleinsider.com/articles/25/06/12/new-report-about-apples-10-main-challenges-ignores-two-main-factors?utm_medium=rss)<!-- TECH:END -->
+ - [These Are the Best TV Shows on Apple TV Plus That&#39;ll Scratch Your Sci-Fi Itch](https://www.cnet.com/tech/services-and-software/best-apple-tv-plus-sci-fi-shows-2025/#ftag=CAD590a51e)
+ - [ChatGPT Just Got &#39;Absolutely Wrecked&#39; at Chess, Losing to a 1970s-Era Atari 2600](https://www.cnet.com/tech/services-and-software/chatgpt-just-got-absolutely-wrecked-at-chess-losing-to-a-1970s-era-atari-2600/#ftag=CAD590a51e)
+ - [An Exclusive Look at Infinite Machine’s Olto Electric Bike](https://www.wired.com/story/exclusive-look-at-infinite-machine-olto-electric-bike/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

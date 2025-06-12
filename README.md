@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This UI animation is definitely overengineered.](http://9gag.com/gag/ary21nB)
  - 😝 [UNO reverse colonization](http://9gag.com/gag/a9yX3AW)
- - 💣 [Don&#39;t make me call my mom](http://9gag.com/gag/axyYd3b)
+ - 😝 [What a thoughtful man](http://9gag.com/gag/aD2O0K7)
+ - 💣 [A final yellow card for the road](http://9gag.com/gag/abA2jLp)
  - 😝 [\ud83d\udcca Top 3 most voted memes so far at the Meme69 Awards!](http://9gag.com/gag/aByOQ6x)
- - 👉 [I give it 3 month max before we hear stories of people&#39;s grandparents being tricked by fake AI news clips](http://9gag.com/gag/aQzO6jK)<!-- MEMES:END -->
+ - 👉 [Op&#39;s favourite gym, oh wait I&#39;m Op. Anyone for the gym? No homo](http://9gag.com/gag/a2vLz1Y)<!-- MEMES:END -->
 
 ---
 

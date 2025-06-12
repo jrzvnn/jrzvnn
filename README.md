@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [UNO reverse colonization](http://9gag.com/gag/a9yX3AW)
- - 😝 [What a thoughtful man](http://9gag.com/gag/aD2O0K7)
- - 💣 [A final yellow card for the road](http://9gag.com/gag/abA2jLp)
+ - 😝 [He&#39;s good](http://9gag.com/gag/axyYdvb)
+ - 😝 [Repost, but sometimes all you need is a quack. Sorry for the text tho](http://9gag.com/gag/azxYgMb)
+ - 💣 [The hair is counting down](http://9gag.com/gag/aByOR72)
  - 😝 [\ud83d\udcca Top 3 most voted memes so far at the Meme69 Awards!](http://9gag.com/gag/aByOQ6x)
- - 👉 [Op&#39;s favourite gym, oh wait I&#39;m Op. Anyone for the gym? No homo](http://9gag.com/gag/a2vLz1Y)<!-- MEMES:END -->
+ - 👉 [What&#39;s up Homie](http://9gag.com/gag/aqyz3vL)<!-- MEMES:END -->
 
 ---
 

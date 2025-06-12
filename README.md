@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s excellent TV Streamer &lpar;4K&rpar; is on sale just in time for Father’s Day](https://www.theverge.com/tech/686231/google-tv-streamer-4k-fathers-day-2025-deal-sale)
+ - [Reddit is adding new features for comments](https://www.theverge.com/news/686282/reddit-comments-share-insights-drafts)
+ - [Unpacking AI Agents](https://www.wired.com/story/uncanny-valley-podcast-unpacking-ai-agents/)
  - [Nintendo’s GameCube controller for the Switch 2 is once again available for purchase](https://www.theverge.com/tech/686188/nintendo-switch-2-gamecube-controller-launch-restock)
- - [Switch 2 size comparison: Nintendo’s latest up next to a whole lot of consoles](https://www.theverge.com/nintendo/685920/nintendo-switch-2-size-comparison-steam-deck-playstation-xbox-consoles)
- - [Apple fixes an iPhone zero-day used in Paragon spyware hacks after a Citizen Lab report found two European journalists had their iPhones hacked with the spyware &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250612/p30#a250612p30)
- - [Preview for iPadOS 26 vs macOS Tahoe: Finally a good native PDF tool on iPad](https://appleinsider.com/inside/ipados-26/vs/preview-for-ipados-26-vs-macos-tahoe-finally-a-good-native-pdf-tool-on-ipad?utm_medium=rss)
- - [Sources: FTC is discussing a consent decree on the Omnicom-Interpublic merger, prohibiting the combined company from boycotting platforms over political content &lpar;New York Times&rpar;](http://www.techmeme.com/250612/p29#a250612p29)<!-- TECH:END -->
+ - [Switch 2 size comparison: Nintendo’s latest up next to a whole lot of consoles](https://www.theverge.com/nintendo/685920/nintendo-switch-2-size-comparison-steam-deck-playstation-xbox-consoles)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

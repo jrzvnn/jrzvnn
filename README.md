@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Merino Wool T-Shirts &lpar;2025&rpar;, Tried On and Tested](https://www.wired.com/gallery/best-merino-wool-t-shirts/)
- - [Kickstarter-funded films are coming to Tubi](https://www.theverge.com/news/684374/tubi-kickstarter-initiative)
- - [Xgimi adds a laser option and built-in batteries to its MoGo 4 projectors](https://www.theverge.com/news/685361/xgimi-mogo-series-4-projectors-laser)
- - [Big Tech quietly sponsors Trump’s military parade party](https://www.theverge.com/policy/685690/big-tech-trump-military-parade-america250)
- - [Meta cracks down on nudify apps after being exposed](https://www.theverge.com/news/685985/meta-lawsuit-crushai-nudify-app-ads)<!-- TECH:END -->
+ - [Steve Jobs&#39; famous Stanford speech is 20 years old, and newly remastered](https://appleinsider.com/articles/25/06/12/steve-jobs-famous-stanford-speech-is-20-years-old-and-newly-remastered?utm_medium=rss)
+ - [How to Avoid Scams and Shoddy Wares on Amazon &lpar;2025&rpar;](https://www.wired.com/story/how-shop-safe-amazon/)
+ - [New report about Apple&#39;s 10 main challenges ignores two main factors](https://appleinsider.com/articles/25/06/12/new-report-about-apples-10-main-challenges-ignores-two-main-factors?utm_medium=rss)
+ - [Landbase, whose GPT-4o-based AI tool automates outreach marketing, raised a $30M Series A co-led by Ashton Kutcher&#39;s Sound Ventures and Picus Capital &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250612/p24#a250612p24)
+ - [Snapchat&amp;#8217;s latest subscription tier will get you &amp;#8216;hundreds&amp;#8217; of lenses](https://www.theverge.com/news/686016/snapchat-lens-plus-subscription-pricing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

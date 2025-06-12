@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Apple &amp; Google profit as Chinese VPNs collect your private data](https://appleinsider.com/articles/25/06/12/apple-google-profit-as-chinese-vpns-collect-your-private-data?utm_medium=rss)
  - [Apple&#39;s AI ambitions go beyond Siri LLM with Knowledge chatbot and always-on AI copilot](https://appleinsider.com/articles/25/06/12/apples-ai-ambitions-go-beyond-siri-llm-with-knowledge-chatbot-and-always-on-ai-copilot?utm_medium=rss)
  - [Adobe reports Q2 revenue up 11% YoY to $5.87B, vs. $5.8B est., Digital Media revenue up 11% to $4.35B, and forecasts Q3 revenue above estimates &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250612/p40#a250612p40)
- - [The best ereader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)<!-- TECH:END -->
+ - [See the Sun in a Way You&#39;ve Never Seen It Before, From Above and Below](https://www.cnet.com/science/see-the-sun-in-a-way-youve-never-seen-it-before-from-above-and-below/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

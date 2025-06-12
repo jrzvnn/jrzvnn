@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Repost, but sometimes all you need is a quack. Sorry for the text tho](http://9gag.com/gag/azxYgMb)
- - 😝 [The hair is counting down](http://9gag.com/gag/aByOR72)
- - 💣 [Order of operations matters, apparently.](http://9gag.com/gag/aKGOwoQ)
+ - 😝 [This UI animation is definitely overengineered.](http://9gag.com/gag/ary21nB)
+ - 😝 [UNO reverse colonization](http://9gag.com/gag/a9yX3AW)
+ - 💣 [Don&#39;t make me call my mom](http://9gag.com/gag/axyYd3b)
  - 😝 [\ud83d\udcca Top 3 most voted memes so far at the Meme69 Awards!](http://9gag.com/gag/aByOQ6x)
- - 👉 [What&#39;s up Homie](http://9gag.com/gag/aqyz3vL)<!-- MEMES:END -->
+ - 👉 [I give it 3 month max before we hear stories of people&#39;s grandparents being tricked by fake AI news clips](http://9gag.com/gag/aQzO6jK)<!-- MEMES:END -->
 
 ---
 

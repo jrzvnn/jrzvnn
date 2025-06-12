@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD unveils its new MI350X and MI355X GPUs for AI workloads, claiming up to 4x AI compute performance and 35x inference gains over the prior-gen MI300X &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250612/p32#a250612p32)
  - [Garmin’s Venu X1 smartwatch has its biggest display and smallest case yet](https://www.theverge.com/news/686325/garmin-venu-x1-smartwatch-display-specs-pricing)
  - [A Mister Miracle animated show is in the works at DC Studios](https://www.theverge.com/dc-comics/686186/dc-studios-mister-miracle-tom-king)
  - [Chime opened at $43 in its Nasdaq debut on Thursday, after selling shares at $27 each in an IPO in which the neobank raised $700M and was valued at $11.6B &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250612/p31#a250612p31)
- - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
- - [Apple &amp; Google profit as Chinese VPNs collect your private data](https://appleinsider.com/articles/25/06/12/apple-google-profit-as-chinese-vpns-collect-your-private-data?utm_medium=rss)<!-- TECH:END -->
+ - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

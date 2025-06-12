@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Spain-based Multiverse Computing, which makes tools to compress LLMs by up to 95% using &quot;quantum-inspired&quot; networks, raised a €189M Series B and has 100 clients &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250612/p19#a250612p19)
- - [Pixel 9A Buying Guide: Everything to Know About Google&#39;s Budget Phone](https://www.cnet.com/tech/mobile/pixel-9a-buying-guide-everything-to-know-about-googles-budget-phone/#ftag=CAD590a51e)
  - [Air Traffic Control in the US Still Runs on Windows 95 and Floppy Disks](https://www.wired.com/story/air-traffic-control-windows-95-floppy-disks/)
- - [Best Satellite Internet Providers for June 2025](https://www.cnet.com/home/internet/best-satellite-internet/#ftag=CAD590a51e)
- - [Meta sues Joy Timeline, which makes nudify app CrushAI, in Hong Kong to &quot;prevent them from advertising CrushAI apps on Meta platforms&quot;; CrushAI had run 5K+ ads &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250612/p18#a250612p18)<!-- TECH:END -->
+ - [Meta sues Joy Timeline, which makes nudify app CrushAI, in Hong Kong to &quot;prevent them from advertising CrushAI apps on Meta platforms&quot;; CrushAI had run 5K+ ads &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250612/p18#a250612p18)
+ - [How to Shop Like a Pro During Amazon Prime Day &lpar;2025&rpar;](https://www.wired.com/story/amazon-prime-day-2025-tips-to-find-best-deals/)
+ - [Pittsburgh-based Gecko Robotics, which makes robots to inspect infrastructure, raised a $125M Series D at a $1.25B valuation, up from $633M in December 2023 &lpar;Ian Thomas/CNBC&rpar;](http://www.techmeme.com/250612/p17#a250612p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

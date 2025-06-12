@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Privacy protection Walmart version](http://9gag.com/gag/adBo0QZ)
- - 😝 [The adulting struggle is real](http://9gag.com/gag/aD2OROG)
- - 💣 [A final yellow card for the road](http://9gag.com/gag/abA2jLp)
+ - 😝 [Filming workouts draws criticism](http://9gag.com/gag/azxY7ej)
+ - 😝 [YouTube&#39;s logic is something else entirely.](http://9gag.com/gag/aE0OdYO)
+ - 💣 [Not a big fan](http://9gag.com/gag/amopN8X)
  - 😝 [\ud83d\udcca Top 3 most voted memes so far at the Meme69 Awards!](http://9gag.com/gag/aByOQ6x)
- - 👉 [Op&#39;s favourite gym, oh wait I&#39;m Op. Anyone for the gym? No homo](http://9gag.com/gag/a2vLz1Y)<!-- MEMES:END -->
+ - 👉 [Privacy protection Walmart version](http://9gag.com/gag/adBo0QZ)<!-- MEMES:END -->
 
 ---
 

@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [A final yellow card for the road](http://9gag.com/gag/abA2jLp)
  - 😝 [Privacy protection Walmart version](http://9gag.com/gag/adBo0QZ)
  - 💣 [Filming workouts draws criticism](http://9gag.com/gag/azxY7ej)
- - 😝 [Witty title](http://9gag.com/gag/agmE3ZW)
- - 👉 [Op&#39;s favourite gym, oh wait I&#39;m Op. Anyone for the gym? No homo](http://9gag.com/gag/a2vLz1Y)<!-- MEMES:END -->
+ - 😝 [\ud83d\udcca Top 3 most voted memes so far!](http://9gag.com/gag/aByOQ6x)
+ - 👉 [Witty title](http://9gag.com/gag/agmE3ZW)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Always the Same people\u2026](http://9gag.com/gag/aE0O1vK)
- - 😝 [The streamer is in big trouble now](http://9gag.com/gag/azxYAPK)
- - 💣 [Somebody fact check this](http://9gag.com/gag/an7rXQE)
+ - 😝 [Leaving a serious trail behind.](http://9gag.com/gag/a2vLmnD)
+ - 😝 [Race](http://9gag.com/gag/an7rKYz)
+ - 💣 [Tell me more.](http://9gag.com/gag/aMVOwGx)
  - 😝 [Take the W with Ducky One X!](http://9gag.com/gag/avydngX)
- - 👉 [Complaining about AiR India Boeing 787 quality flights](http://9gag.com/gag/aQzOxyK)<!-- MEMES:END -->
+ - 👉 [A year can make all the difference for a rescue dog.](http://9gag.com/gag/a9yOWbm)<!-- MEMES:END -->
 
 ---
 

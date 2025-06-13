@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A White House memo says David Sacks and Craft Ventures are divesting holdings in AI companies and hyperscalers like xAI and Meta &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250613/p21#a250613p21)
- - [&#39;No Kings&#39; Protests, Citizen-Run ICE Trackers Trigger Intelligence Warnings](https://www.wired.com/story/no-kings-protests-citizen-run-ice-trackers-trigger-intelligence-warnings/)
+ - [&#39;No Kings’ Protests, Citizen-Run ICE Trackers Trigger Intelligence Warnings](https://www.wired.com/story/no-kings-protests-citizen-run-ice-trackers-trigger-intelligence-warnings/)
  - [Alaska, Where Only 2% of Homes Have AC, Just Issued Its First Heat Advisory Ever](https://www.cnet.com/science/climate/alaska-where-only-2-of-homes-have-ac-just-issued-its-first-heat-advisory-ever/#ftag=CAD590a51e)
  - [Google Cloud Stumbled and Unplugged the Internet: Here&#39;s How That Happened](https://www.cnet.com/tech/services-and-software/google-cloud-stumbled-and-unplugged-the-internet-heres-how-that-happened/#ftag=CAD590a51e)
  - [Sources: Anne Wojcicki is poised to regain control of 23andMe, after her nonprofit TTAM offered $305M to top Regeneron&#39;s bid for the DNA-testing company &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250613/p20#a250613p20)<!-- TECH:END -->

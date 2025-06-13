@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [We Tested the DreamCloud Mattress: Could It Be the Best Budget Luxury Bed in 2025?](https://www.cnet.com/health/sleep/dreamcloud-mattress-review/#ftag=CAD590a51e)
  - [Betting platform Kalshi aired a fully AI-generated 30-second ad during the NBA Finals, reportedly made in 2-3 days with 300-400 generations using Google&#39;s Veo 3 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250613/p5#a250613p5)
  - [15% Off Wayfair Promo Code | June 2025 Coupons](https://www.wired.com/story/wayfair-coupon/)
  - [Garmin unveils the $799 Venu X1 smartwatch with a 2&quot; square AMOLED screen, a titanium body, an eight-day battery, and a blood oxygen monitor, coming on June 18 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250613/p4#a250613p4)
- - [Top KitchenAid Promo Codes and Coupons](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [Sources: China delays approval of Synopsys&#39; Ansys deal as the US moved in late May to ban chip design software sales by US firms, including Synopsys, to China &lpar;Financial Times&rpar;](http://www.techmeme.com/250613/p3#a250613p3)<!-- TECH:END -->
+ - [Top KitchenAid Promo Codes and Coupons](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

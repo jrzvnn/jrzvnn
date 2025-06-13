@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this true?](http://9gag.com/gag/aNDOrOw)
- - 😝 [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)
- - 💣 [Hahahaha!!!!](http://9gag.com/gag/aMVObYR)
- - 😝 [Makes sense](http://9gag.com/gag/agmEvQv)
- - 👉 [Perks of learning another language.](http://9gag.com/gag/aKGOg6W)<!-- MEMES:END -->
+ - 😝 [The face of pure defiance](http://9gag.com/gag/aAyOYP0)
+ - 😝 [She is very Swedish](http://9gag.com/gag/aW4D0xZ)
+ - 💣 [TACO move](http://9gag.com/gag/a87KM8Z)
+ - 😝 [Don&#39;t make me call my mom](http://9gag.com/gag/axyYd3b)
+ - 👉 [Always the Same people\u2026](http://9gag.com/gag/aE0O1vK)<!-- MEMES:END -->
 
 ---
 

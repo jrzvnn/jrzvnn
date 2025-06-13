@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Somebody fact check this](http://9gag.com/gag/an7rXQE)
- - 😝 [Incredible progress in just 30 days. Keep going](http://9gag.com/gag/a0eMY7B)
- - 💣 [Did not see that coming at the car wash.](http://9gag.com/gag/aKGOqYN)
+ - 😝 [A RU Air Force Su-25 pilot accidentally shot down his wingman with unguided rockets. &lpar;video on comments&rpar;](http://9gag.com/gag/abAQ6Rb)
+ - 😝 [The streamer is in big trouble now](http://9gag.com/gag/azxYAPK)
+ - 💣 [Incredible progress in just 30 days. Keep going](http://9gag.com/gag/a0eMY7B)
  - 😝 [Take the W with Ducky One X!](http://9gag.com/gag/avydngX)
- - 👉 [A RU Air Force Su-25 pilot accidentally shot down his wingman with unguided rockets. &lpar;video on comments&rpar;](http://9gag.com/gag/abAQ6Rb)<!-- MEMES:END -->
+ - 👉 [Best daughter](http://9gag.com/gag/azxYAbm)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t make me call my mom](http://9gag.com/gag/axyYd3b)
- - 😝 [TACO move](http://9gag.com/gag/a87KM8Z)
- - 💣 [Luna, best girl](http://9gag.com/gag/aVvVQov)
+ - 😝 [Asking your friend to hang out in the 90s](http://9gag.com/gag/axyYjA2)
+ - 😝 [Makes sense](http://9gag.com/gag/agmEvQv)
+ - 💣 [Dads be like](http://9gag.com/gag/ae97GOQ)
  - 😝 [Take the W with Ducky One X!](http://9gag.com/gag/avydngX)
- - 👉 [She is very Swedish](http://9gag.com/gag/aW4D0xZ)<!-- MEMES:END -->
+ - 👉 [Perks of learning another language.](http://9gag.com/gag/aKGOg6W)<!-- MEMES:END -->
 
 ---
 

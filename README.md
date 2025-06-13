@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The streamer is in big trouble now](http://9gag.com/gag/azxYAPK)
- - 😝 [Did not see that coming at the car wash.](http://9gag.com/gag/aKGOqYN)
- - 💣 [11A](http://9gag.com/gag/aGyOxLX)
+ - 😝 [Precisely where the bedroom was](http://9gag.com/gag/adBoXQ2)
+ - 💣 [Did not see that coming at the car wash.](http://9gag.com/gag/aKGOqYN)
  - 😝 [Take the W with Ducky One X!](http://9gag.com/gag/avydngX)
- - 👉 [Somebody fact check this](http://9gag.com/gag/an7rXQE)<!-- MEMES:END -->
+ - 👉 [Playing chess](http://9gag.com/gag/avydLLZ)<!-- MEMES:END -->
 
 ---
 

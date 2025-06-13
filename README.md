@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s Gemini AI will summarize PDFs for you when you open them](https://www.theverge.com/news/686684/google-gemini-ai-workspace-pdf-form-summary-features)
+ - [Pixar is heading back to Italy for its next big film](https://www.theverge.com/news/686671/pixar-gatto-release-window-toy-story-5-concept-art)
+ - [USDOT wants more self-driving cars without pedals or steering wheels](https://www.theverge.com/news/686662/usdot-nhtsa-autonomous-vehicle-exemption-streamline-duffy)
  - [9 Best 2-in-1 Laptops &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-2-in-1-laptops/)
- - [Meta&#39;s Scale AI deal dwarfs rivals&#39; &quot;reverse acquihires&quot; in scope and ambition, showing that its fear of lagging in AI outweighs fears of regulatory backlash &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/250613/p11#a250613p11)
- - [5 Best Totes for Travel in 2025, Tested and Reviewed by WIRED](https://www.wired.com/gallery/best-travel-totes/)
- - [Steam is finally adding native support for Macs with Apple Silicon](https://www.theverge.com/news/686658/steam-native-apple-silicon-app)
- - [The new Pebble watch’s mobile app will also work with some old Pebble watches](https://www.theverge.com/news/686652/pebble-smartwatch-core-2-duo-time-ios-android-app)<!-- TECH:END -->
+ - [Meta&#39;s Scale AI deal dwarfs rivals&#39; &quot;reverse acquihires&quot; in scope and ambition, showing that its fear of lagging in AI outweighs fears of regulatory backlash &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/250613/p11#a250613p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

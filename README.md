@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says it is testing Audio Overviews for certain Search queries, available for Labs users in English in the US &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250613/p17#a250613p17)
+ - [Apple&#39;s continued lack of native apps on Vision Pro isn&#39;t a good sign for the platform](https://appleinsider.com/articles/25/06/13/apples-continued-lack-of-native-apps-on-vision-pro-isnt-a-good-sign-for-the-platform?utm_medium=rss)
  - [The Switch 2 gives Splatoon 3 a fantastically fresh coat of paint](https://www.theverge.com/nintendo/686128/splatoon-3-switch-2-update-overview)
  - [Belkin’s 3-in-1 Qi2 wireless charger is the cheapest it’s been in months](https://www.theverge.com/tech/686920/belkin-boostcharge-pro-3-in-1-apple-pencil-usb-c-anker-prime-tb5-docking-station-deal-sale)
- - [Sources: Palmer Luckey&#39;s stablecoin startup Atticus raised ~$250M at a $2.25B valuation, and will merge into Erebor, formed by Luckey to get a banking license &lpar;Axios&rpar;](http://www.techmeme.com/250613/p16#a250613p16)
- - [Google&amp;#8217;s test turns search results into an AI-generated podcast](https://www.theverge.com/news/686904/google-audio-overviews-ai-podcast-search)
- - [Apple slips out a quiet iOS 26 beta 1 update with a new build](https://appleinsider.com/articles/25/06/13/apple-slips-out-a-quiet-ios-26-beta-1-update-with-a-new-build?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Palmer Luckey&#39;s stablecoin startup Atticus raised ~$250M at a $2.25B valuation, and will merge into Erebor, formed by Luckey to get a banking license &lpar;Axios&rpar;](http://www.techmeme.com/250613/p16#a250613p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

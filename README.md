@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Five ways macOS Tahoe makes you radically more productive](https://appleinsider.com/articles/25/06/13/five-ways-macos-tahoe-makes-you-radically-more-productive?utm_medium=rss)
+ - [Google is shutting down Android Instant Apps over ‘low’ usage](https://www.theverge.com/news/686573/google-android-instant-apps-shutdown)
+ - [Apple Music Sing gets karaoke mode, visualizer in tvOS 26](https://appleinsider.com/articles/25/06/13/apple-music-sing-gets-karaoke-mode-visualizer-in-tvos-26?utm_medium=rss)
  - [Tesla’s minor Model S and X refreshes cost $5,000 more](https://www.theverge.com/news/686567/tesla-model-s-x-2025-refresh-price-availability)
- - [Valve&#39;s Steam gaming client is finally getting an Apple Silicon native upgrade](https://appleinsider.com/articles/25/06/13/valves-steam-gaming-client-is-finally-getting-an-apple-silicon-native-upgrade?utm_medium=rss)
- - [Dyson Has Killed Its Bizarre Zone Air-Purifying Headphones](https://www.wired.com/story/dyson-has-killed-its-bizarre-zone-air-purifying-headphones/)
- - [Couple steals back their own car after tracking an AirTag in it](https://appleinsider.com/articles/25/06/13/couple-steals-back-their-own-car-after-tracking-an-airtag-in-it?utm_medium=rss)
- - [Are Those Viral ‘Cooling Blankets’ for Real?](https://www.wired.com/story/are-those-viral-cooling-blankets-for-real/)<!-- TECH:END -->
+ - [Valve&#39;s Steam gaming client is finally getting an Apple Silicon native upgrade](https://appleinsider.com/articles/25/06/13/valves-steam-gaming-client-is-finally-getting-an-apple-silicon-native-upgrade?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

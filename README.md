@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PCIe 7.0 is coming, but not soon, and not for you](https://www.theverge.com/news/686560/pcie-7-0-specification-launch-bandwith-speed)
+ - [Nintendo Switch 2 review: great build quality, better haptics, and improved performance for Switch 1 games, but weak battery life and only a few launch titles &lpar;The Shortcut&rpar;](http://www.techmeme.com/250613/p6#a250613p6)
  - [This Chinese Spacecraft Is Traveling to One of Earth’s Quasi-Moons](https://www.wired.com/story/chinese-spacecraft-earths-quasi-moons-china-tianwen-2/)
- - [We Tested the DreamCloud Mattress: Could It Be the Best Budget Luxury Bed in 2025?](https://www.cnet.com/health/sleep/dreamcloud-mattress-review/#ftag=CAD590a51e)
- - [Betting platform Kalshi aired a fully AI-generated 30-second ad during the NBA Finals, reportedly made in 2-3 days with 300-400 generations using Google&#39;s Veo 3 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250613/p5#a250613p5)
- - [15% Off Wayfair Promo Code | June 2025 Coupons](https://www.wired.com/story/wayfair-coupon/)
- - [Garmin unveils the $799 Venu X1 smartwatch with a 2&quot; square AMOLED screen, a titanium body, an eight-day battery, and a blood oxygen monitor, coming on June 18 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250613/p4#a250613p4)<!-- TECH:END -->
+ - [It&#39;s About Darn Time: Apple Will Finally Screen Your Calls and Messages](https://www.cnet.com/tech/mobile/its-about-darn-time-apple-will-finally-screen-your-calls-and-messages/#ftag=CAD590a51e)
+ - [We Tested the DreamCloud Mattress: Could It Be the Best Budget Luxury Bed in 2025?](https://www.cnet.com/health/sleep/dreamcloud-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

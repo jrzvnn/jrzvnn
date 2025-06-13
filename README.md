@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kwikset’s newest smart lock gets almost everything right](https://www.theverge.com/smart-home-review/679903/kwikset-halo-select-smart-lock-review)
  - [How folder emoji &amp; customization works in macOS Tahoe](https://appleinsider.com/inside/macos-tahoe/tips/how-folder-emoji-customization-works-in-macos-tahoe?utm_medium=rss)
  - [The best Sonos speakers to buy in 2025](https://www.theverge.com/tech/652171/best-sonos-speakers)
  - [China releases draft guidelines on cross-border transmission of automobile data, which could pave the way for the wider rollout of Tesla&#39;s FSD in the country &lpar;Bloomberg&rpar;](http://www.techmeme.com/250613/p13#a250613p13)
- - [Craig Federighi says macOS would ruin what makes the iPad special](https://appleinsider.com/articles/25/06/13/craig-federighi-says-macos-would-ruin-what-makes-the-ipad-special?utm_medium=rss)
- - [CBP&#39;s Predator Drone Flights Over LA Are a Dangerous Escalation](https://www.wired.com/story/cbp-predator-drone-flights-la-protests/)<!-- TECH:END -->
+ - [Craig Federighi says macOS would ruin what makes the iPad special](https://appleinsider.com/articles/25/06/13/craig-federighi-says-macos-would-ruin-what-makes-the-ipad-special?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

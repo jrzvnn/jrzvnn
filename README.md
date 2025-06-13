@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google plans to shut down Android&#39;s Instant Apps, which let users launch apps without installing them, later this year citing low usage and engagement &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250613/p9#a250613p9)
  - [8 Best Air Fryers for Crispy Wings and Fries &lpar;2025&rpar;](https://www.wired.com/gallery/best-air-fryer/)
- - [Apple redirects 97% of Indian-made iPhones to the US to lessen tariffs](https://appleinsider.com/articles/25/06/13/apple-redirects-97-of-indian-made-iphones-to-the-us-to-lessen-tariffs?utm_medium=rss)
- - [Sources: Tencent is in early talks to acquire Nexon, the South Korean gaming giant behind Dungeon &amp; Fighter Mobile; Tencent pursued a Nexon acquisition in 2019 &lpar;Dong Cao/Bloomberg&rpar;](http://www.techmeme.com/250613/p8#a250613p8)
- - [Five ways macOS Tahoe makes you radically more productive](https://appleinsider.com/articles/25/06/13/five-ways-macos-tahoe-makes-you-radically-more-productive?utm_medium=rss)
- - [Google is shutting down Android Instant Apps over ‘low’ usage](https://www.theverge.com/news/686573/google-android-instant-apps-shutdown)<!-- TECH:END -->
+ - [I Saw Mouse: P.I. for Hire Gameplay: It&#39;s Got Cartoon Gumshoe Gunplay Aplenty](https://www.cnet.com/tech/gaming/i-saw-mouse-p-i-for-hire-gameplay-shaping-up-with-gumshoe-gunplay-aplenty/#ftag=CAD590a51e)
+ - [Apple&#39;s Workout Buddy Is Friendly, but What if It Could Adopt Other Personalities?](https://www.cnet.com/tech/mobile/apples-workout-buddy-is-friendly-but-what-if-it-could-adopt-other-personalities/#ftag=CAD590a51e)
+ - [What Is Cellular Internet And Is It A Reliable Broadband Connection?](https://www.cnet.com/home/internet/what-is-cellular-home-internet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

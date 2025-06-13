@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google&amp;#8217;s test turns search results into an AI-generated podcast](https://www.theverge.com/news/686904/google-audio-overviews-ai-podcast-search)
+ - [Apple slips out a quiet iOS 26 beta 1 update with a new build](https://appleinsider.com/articles/25/06/13/apple-slips-out-a-quiet-ios-26-beta-1-update-with-a-new-build?utm_medium=rss)
  - [Amazon&#39;s Summer Sale slashes up to 51% off Apple Watch, AirPods, iPad, Beats, Mac](https://appleinsider.com/articles/25/06/13/amazons-summer-sale-slashes-up-to-51-off-apple-watch-airpods-ipad-beats-mac?utm_medium=rss)
  - [Digital rights organizations urge the FTC to investigate Character.AI and Meta&#39;s &quot;unlicensed practice of medicine facilitated&quot; by therapy AI chatbots &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/250613/p15#a250613p15)
- - [Anbernic’s sliding screen handheld might be too chunky and heavy for your pockets](https://www.theverge.com/news/686862/anbernic-rg-slide-handheld-emulator-console-psp-go)
- - [The Chatbot Disinfo Inflaming the LA Protests](https://www.wired.com/story/uncanny-valley-podcast-the-chatbot-disinfo-inflaming-the-la-protests/)
- - [Amazon reorganizes its healthcare business into six &quot;pillars&quot; to simplify its structure, following executive departures and its struggles in the market &lpar;CNBC&rpar;](http://www.techmeme.com/250613/p14#a250613p14)<!-- TECH:END -->
+ - [Anbernic’s sliding screen handheld might be too chunky and heavy for your pockets](https://www.theverge.com/news/686862/anbernic-rg-slide-handheld-emulator-console-psp-go)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

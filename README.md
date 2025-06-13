@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Accel, which owns 18.5% of Scale AI after investing a total of ~$350M, expects to gain over $2.5B from Meta&#39;s $14.3B investment in the startup &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250613/p19#a250613p19)
  - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
  - [Yupp, which rewards users in crypto for comparing answers from multiple AI models and giving feedback, emerges from stealth with a $33M seed led by a16z crypto &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/250613/p18#a250613p18)
  - [Mel Brooks is returning for Spaceballs 2](https://www.theverge.com/news/687056/spaceballs-2-mel-brooks-yogurt-returning-2027)
- - [The best AirPods to buy](https://www.theverge.com/tech/645217/best-apple-airpods-pro)
- - [Play FBC: Firebreak, Deus Ex and More on PlayStation Plus Soon](https://www.cnet.com/tech/services-and-software/play-fbc-firebreak-deus-ex-and-more-on-playstation-plus-soon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NBA Finals 2025: How to Watch Pacers vs. Thunder Game 4 Tonight](https://www.cnet.com/tech/services-and-software/nba-finals-2025-how-to-watch-pacers-vs-thunder-game-4-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

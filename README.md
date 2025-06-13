@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Luna, best girl](http://9gag.com/gag/aVvVQov)
  - 😝 [G*rls be like](http://9gag.com/gag/ae9735q)
- - 💣 [Survivor](http://9gag.com/gag/aD2Oood)
- - 😝 [TACO move](http://9gag.com/gag/a87KM8Z)
- - 👉 [The face of pure defiance](http://9gag.com/gag/aAyOYP0)<!-- MEMES:END -->
+ - 😝 [Makes sense](http://9gag.com/gag/agmEvQv)
+ - 💣 [TACO move](http://9gag.com/gag/a87KM8Z)
+ - 😝 [Luna, best girl](http://9gag.com/gag/aVvVQov)
+ - 👉 [Somebody fact check this](http://9gag.com/gag/an7rXQE)<!-- MEMES:END -->
 
 ---
 

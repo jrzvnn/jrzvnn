@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mel Brooks is returning for Spaceballs 2](https://www.theverge.com/news/687056/spaceballs-2-mel-brooks-yogurt-returning-2027)
+ - [The best AirPods to buy](https://www.theverge.com/tech/645217/best-apple-airpods-pro)
  - [Play FBC: Firebreak, Deus Ex and More on PlayStation Plus Soon](https://www.cnet.com/tech/services-and-software/play-fbc-firebreak-deus-ex-and-more-on-playstation-plus-soon/#ftag=CAD590a51e)
  - [The 10 Best Steam Next Fest Games You Need to Wishlist](https://www.cnet.com/tech/gaming/the-10-best-steam-next-fest-games-you-need-to-wishlist/#ftag=CAD590a51e)
- - [Google says it is testing Audio Overviews for certain Search queries, available for Labs users in English in the US &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250613/p17#a250613p17)
- - [Best Bose Headphones and Earbuds of 2025](https://www.cnet.com/tech/mobile/best-bose-headphones/#ftag=CAD590a51e)
- - [AT&amp;T Cheaper Mobile Plan Creates a New Deal for Seniors. &lpar;Yes, That&#39;s Anyone 55 or Older&rpar;](https://www.cnet.com/tech/mobile/at-t-cheaper-mobile-plan-creates-a-new-deal-for-seniors-yes-thats-anyone-55-or-older/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google says it is testing Audio Overviews for certain Search queries, available for Labs users in English in the US &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250613/p17#a250613p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

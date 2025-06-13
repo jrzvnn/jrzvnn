@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [TACO move](http://9gag.com/gag/a87KM8Z)
- - 😝 [Luna, best girl](http://9gag.com/gag/aVvVQov)
- - 💣 [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)
+ - 😝 [Bro is going through it](http://9gag.com/gag/azxYgOj)
+ - 💣 [Luna, best girl](http://9gag.com/gag/aVvVQov)
  - 😝 [G*rls be like](http://9gag.com/gag/ae9735q)
- - 👉 [The face of pure defiance](http://9gag.com/gag/aAyOYP0)<!-- MEMES:END -->
+ - 👉 [Don&#39;t make me call my mom](http://9gag.com/gag/axyYd3b)<!-- MEMES:END -->
 
 ---
 

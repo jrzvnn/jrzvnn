@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Ramp raised $200M led by Founders Fund, valuing the startup at $16B, up from $13B in March, when it conducted a $150M share sale &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/250613/p24#a250613p24)
  - [Sources: Google, Scale AI&#39;s largest customer, plans to cut ties with the company after the Meta deal; Microsoft, OpenAI, and xAI also plan to step back &lpar;Reuters&rpar;](http://www.techmeme.com/250613/p23#a250613p23)
  - [Anne Wojcicki is taking back control of 23andMe](https://www.theverge.com/news/687123/23andme-anne-wojcicki-acquisition)
  - [Oracle stock jumped 24% this week, its best performance since 2001, and is up 29% in 2025, vs. Nasdaq&#39;s 1%, after the company reported cloud momentum &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250613/p22#a250613p22)
- - [Anker Recalls PowerCore 10000 Power Banks for Fires and Explosions. Get a Free Replacement](https://www.cnet.com/tech/mobile/anker-recalls-powercore-10000-power-banks-for-burning-or-exploding-learn-how-to-get-a-free-replacement/#ftag=CAD590a51e)
- - [MacBook Air vs. MacBook Pro: Which MacBook Should I Buy?](https://www.cnet.com/tech/computing/macbook-air-vs-macbook-pro-which-macbook-should-i-buy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Anker Recalls PowerCore 10000 Power Banks for Fires and Explosions. Get a Free Replacement](https://www.cnet.com/tech/mobile/anker-recalls-powercore-10000-power-banks-for-burning-or-exploding-learn-how-to-get-a-free-replacement/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

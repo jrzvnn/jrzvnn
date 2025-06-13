@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bad economy](http://9gag.com/gag/aLndKNV)
- - 😝 [Survivor](http://9gag.com/gag/aD2Oood)
- - 💣 [Luna, best girl](http://9gag.com/gag/aVvVQov)
+ - 😝 [Somebody fact check this](http://9gag.com/gag/an7rXQE)
+ - 😝 [Incredible progress in just 30 days. Keep going](http://9gag.com/gag/a0eMY7B)
+ - 💣 [Did not see that coming at the car wash.](http://9gag.com/gag/aKGOqYN)
  - 😝 [Take the W with Ducky One X!](http://9gag.com/gag/avydngX)
- - 👉 [`Ohh Death, become my blade once more...`](http://9gag.com/gag/a6Zj7j8)<!-- MEMES:END -->
+ - 👉 [A RU Air Force Su-25 pilot accidentally shot down his wingman with unguided rockets. &lpar;video on comments&rpar;](http://9gag.com/gag/abAQ6Rb)<!-- MEMES:END -->
 
 ---
 

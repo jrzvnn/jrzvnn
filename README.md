@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A White House memo says David Sacks and Craft Ventures are divesting holdings in AI companies and hyperscalers like xAI and Meta &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250613/p21#a250613p21)
- - [&#39;No Kings’ Protests, Citizen-Run ICE Trackers Trigger Intelligence Warnings](https://www.wired.com/story/no-kings-protests-citizen-run-ice-trackers-trigger-intelligence-warnings/)
- - [Alaska, Where Only 2% of Homes Have AC, Just Issued Its First Heat Advisory Ever](https://www.cnet.com/science/climate/alaska-where-only-2-of-homes-have-ac-just-issued-its-first-heat-advisory-ever/#ftag=CAD590a51e)
- - [Google Cloud Stumbled and Unplugged the Internet: Here&#39;s How That Happened](https://www.cnet.com/tech/services-and-software/google-cloud-stumbled-and-unplugged-the-internet-heres-how-that-happened/#ftag=CAD590a51e)
- - [Sources: Anne Wojcicki is poised to regain control of 23andMe, after her nonprofit TTAM offered $305M to top Regeneron&#39;s bid for the DNA-testing company &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250613/p20#a250613p20)<!-- TECH:END -->
+ - [Anne Wojcicki is taking back control of 23andMe](https://www.theverge.com/news/687123/23andme-anne-wojcicki-acquisition)
+ - [Oracle stock jumped 24% this week, its best performance since 2001, and is up 29% in 2025, vs. Nasdaq&#39;s 1%, after the company reported cloud momentum &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250613/p22#a250613p22)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 14, #264](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-14-264/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 14, #468](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-14-468/#ftag=CAD590a51e)
+ - [A White House memo says David Sacks and Craft Ventures are divesting holdings in AI companies and hyperscalers like xAI and Meta &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250613/p21#a250613p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

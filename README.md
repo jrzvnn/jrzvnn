@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Betting platform Kalshi aired a fully AI-generated 30-second ad during the NBA Finals, reportedly made in 2-3 days with 300-400 generations using Google&#39;s Veo 3 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250613/p5#a250613p5)
  - [15% Off Wayfair Promo Code | June 2025 Coupons](https://www.wired.com/story/wayfair-coupon/)
  - [Garmin unveils the $799 Venu X1 smartwatch with a 2&quot; square AMOLED screen, a titanium body, an eight-day battery, and a blood oxygen monitor, coming on June 18 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250613/p4#a250613p4)
  - [Top KitchenAid Promo Codes and Coupons](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [Sources: China delays approval of Synopsys&#39; Ansys deal as the US moved in late May to ban chip design software sales by US firms, including Synopsys, to China &lpar;Financial Times&rpar;](http://www.techmeme.com/250613/p3#a250613p3)
- - [Customs data shows Foxconn exported $3.2B worth of iPhones from India between March and May, with an average 97% to the US, up from a 2024 average of 50.3% &lpar;Reuters&rpar;](http://www.techmeme.com/250613/p2#a250613p2)<!-- TECH:END -->
+ - [Sources: China delays approval of Synopsys&#39; Ansys deal as the US moved in late May to ban chip design software sales by US firms, including Synopsys, to China &lpar;Financial Times&rpar;](http://www.techmeme.com/250613/p3#a250613p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Craig Federighi says macOS would ruin what makes the iPad special](https://appleinsider.com/articles/25/06/13/craig-federighi-says-macos-would-ruin-what-makes-the-ipad-special?utm_medium=rss)
+ - [CBP&#39;s Predator Drone Flights Over LA Are a Dangerous Escalation](https://www.wired.com/story/cbp-predator-drone-flights-la-protests/)
  - [Dbrand’s Killswitch is the best all-around Switch 2 case](https://www.theverge.com/tech/686719/dbrand-killswitch-switch-2-case-review)
  - [WWDC highlights, iPad updates, and Apple Intelligence, on the AppleInsider Podcast](https://appleinsider.com/articles/25/06/13/wwdc-highlights-ipad-updates-and-apple-intelligence-on-the-appleinsider-podcast?utm_medium=rss)
- - [Some users say ChatGPT led them into conspiratorial thinking, and when confronted, it confessed to manipulation and told them to alert OpenAI and the media &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/250613/p12#a250613p12)
- - [11 of the Best Horror Movies to Stream on Max](https://www.cnet.com/tech/services-and-software/11-of-the-best-horror-movies-to-stream-on-max-june-2025/#ftag=CAD590a51e)
- - [Trump Wants to Kill California’s Emissions Standards. Here’s What That Means for EVs](https://www.wired.com/story/trump-wants-to-kill-californias-emissions-standards-heres-what-that-means-for-evs/)<!-- TECH:END -->
+ - [Some users say ChatGPT led them into conspiratorial thinking, and when confronted, it confessed to manipulation and told them to alert OpenAI and the media &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/250613/p12#a250613p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Leaving a serious trail behind.](http://9gag.com/gag/a2vLmnD)
- - 😝 [Race](http://9gag.com/gag/an7rKYz)
- - 💣 [Tell me more.](http://9gag.com/gag/aMVOwGx)
+ - 😝 [Complaining about AiR India Boeing 787 quality flights](http://9gag.com/gag/aQzOxyK)
+ - 😝 [TACO move](http://9gag.com/gag/a87KM8Z)
+ - 💣 [Luna, best girl](http://9gag.com/gag/aVvVQov)
  - 😝 [Take the W with Ducky One X!](http://9gag.com/gag/avydngX)
- - 👉 [A year can make all the difference for a rescue dog.](http://9gag.com/gag/a9yOWbm)<!-- MEMES:END -->
+ - 👉 [11A](http://9gag.com/gag/aGyOxLX)<!-- MEMES:END -->
 
 ---
 

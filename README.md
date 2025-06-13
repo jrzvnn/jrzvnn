@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Steam is finally adding native support for Macs with Apple Silicon](https://www.theverge.com/news/686658/steam-native-apple-silicon-app)
+ - [The new Pebble watch’s mobile app will also work with some old Pebble watches](https://www.theverge.com/news/686652/pebble-smartwatch-core-2-duo-time-ios-android-app)
  - [iPadOS 26 graphing tool gets an upgrade adding interactive 3D](https://appleinsider.com/articles/25/06/13/ipados-26-graphing-tool-gets-an-upgrade-adding-interactive-3d?utm_medium=rss)
- - [The US Army Reserve launches Detachment 201, an innovation corps with Palantir CTO Shyam Sankar and Meta CTO Andrew Bosworth serving as lieutenant colonels &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/250613/p10#a250613p10)
- - [33 Best Gifts for Teens &lpar;2025&rpar;, Approved by Our Kids](https://www.wired.com/gallery/best-gift-ideas-for-teens/)
- - [PC benchmarking tool 3D Mark arrives on macOS](https://appleinsider.com/articles/25/06/13/pc-benchmarking-tool-3d-mark-arrives-on-macos?utm_medium=rss)
- - [Switch, Xbox, and the portable future of games](https://www.theverge.com/the-vergecast/686637/switch-2-xbox-ally-portable-gaming-vergecast)<!-- TECH:END -->
+ - [Here’s What Marines and the National Guard Can &lpar;and Can’t&rpar; Do at LA Protests](https://www.wired.com/story/what-marines-national-guard-can-cant-do-la-protests/)
+ - [The US Army Reserve launches Detachment 201, an innovation corps with Palantir CTO Shyam Sankar and Meta CTO Andrew Bosworth serving as lieutenant colonels &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/250613/p10#a250613p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

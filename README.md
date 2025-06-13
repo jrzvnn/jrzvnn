@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Title](http://9gag.com/gag/avydpeb)
  - 😝 [TACO move](http://9gag.com/gag/a87KM8Z)
- - 😝 [Witty title](http://9gag.com/gag/agmE3ZW)
- - 💣 [She is very Swedish](http://9gag.com/gag/aW4D0xZ)
+ - 💣 [Luna, best girl](http://9gag.com/gag/aVvVQov)
  - 😝 [Take the W with Ducky One X!](http://9gag.com/gag/avydngX)
- - 👉 [Luna, best girl](http://9gag.com/gag/aVvVQov)<!-- MEMES:END -->
+ - 👉 [Robert Downey Jr](http://9gag.com/gag/axyY2pL)<!-- MEMES:END -->
 
 ---
 

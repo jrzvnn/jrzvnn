@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Valve&#39;s Steam gaming client is finally getting an Apple Silicon native upgrade](https://appleinsider.com/articles/25/06/13/valves-steam-gaming-client-is-finally-getting-an-apple-silicon-native-upgrade?utm_medium=rss)
  - [Couple steals back their own car after tracking an AirTag in it](https://appleinsider.com/articles/25/06/13/couple-steals-back-their-own-car-after-tracking-an-airtag-in-it?utm_medium=rss)
  - [Are Those Viral ‘Cooling Blankets’ for Real?](https://www.wired.com/story/are-those-viral-cooling-blankets-for-real/)
  - [This Chatbot Tool Pays Users $50 a Month for Their Feedback on AI Models](https://www.wired.com/story/yupp-chatbot-pays-users-ai-model-feedback/)
- - [A Mattress Testing Expert Breaks Down Natural and Organic Certifications &lpar;2025&rpar;](https://www.wired.com/story/organic-mattress-and-bedding-certifications/)
- - [Sources: Walmart, Amazon, and Expedia have recently explored issuing or using stablecoins in the US to potentially save fees from cash and card transactions &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250613/p7#a250613p7)<!-- TECH:END -->
+ - [A Mattress Testing Expert Breaks Down Natural and Organic Certifications &lpar;2025&rpar;](https://www.wired.com/story/organic-mattress-and-bedding-certifications/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

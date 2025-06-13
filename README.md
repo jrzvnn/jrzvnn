@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ahh yes how to fix `Squeeking breaks` sure it works/ repost](http://9gag.com/gag/azxYEZK)
  - 😝 [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)
- - 💣 [She is very Swedish](http://9gag.com/gag/aW4D0xZ)
- - 😝 [Take the W with Ducky One X!](http://9gag.com/gag/avydngX)
- - 👉 [The face of pure defiance](http://9gag.com/gag/aAyOYP0)<!-- MEMES:END -->
+ - 😝 [She is very Swedish](http://9gag.com/gag/aW4D0xZ)
+ - 💣 [Witty title](http://9gag.com/gag/agmE3ZW)
+ - 😝 [Our glorious leader and the possibility of his birthday/military parade being cancelled due to rain…](https://www.reddit.com/r/funny/comments/1lai9sn/our_glorious_leader_and_the_possibility_of_his/)
+ - 👉 [Take the W with Ducky One X!](http://9gag.com/gag/avydngX)<!-- MEMES:END -->
 
 ---
 

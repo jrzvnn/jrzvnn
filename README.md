@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)
- - 😝 [She is very Swedish](http://9gag.com/gag/aW4D0xZ)
- - 💣 [Witty title](http://9gag.com/gag/agmE3ZW)
+ - 😝 [Germans showing emotions](http://9gag.com/gag/aLnd94P)
+ - 😝 [Perks of learning another language.](http://9gag.com/gag/aKGOg6W)
+ - 💣 [Asking your friend to hang out in the 90s](http://9gag.com/gag/axyYjA2)
  - 😝 [Take the W with Ducky One X!](http://9gag.com/gag/avydngX)
- - 👉 [The face of pure defiance](http://9gag.com/gag/aAyOYP0)<!-- MEMES:END -->
+ - 👉 [But Epstein killed himself](http://9gag.com/gag/a87KM2O)<!-- MEMES:END -->
 
 ---
 

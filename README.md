@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A man`s man](http://9gag.com/gag/aPA144K)
- - 😝 [Ahh yes how to fix `Squeeking breaks` sure it works/ repost](http://9gag.com/gag/azxYEZK)
- - 💣 [The face of pure defiance](http://9gag.com/gag/aAyOYP0)
+ - 😝 [Robert Downey Jr](http://9gag.com/gag/axyY2pL)
+ - 😝 [Therapist](http://9gag.com/gag/a1mEXG8)
+ - 💣 [Somebody fact check this](http://9gag.com/gag/an7rXQE)
  - 😝 [Take the W with Ducky One X!](http://9gag.com/gag/avydngX)
- - 👉 [Always the Same people\u2026](http://9gag.com/gag/aE0O1vK)<!-- MEMES:END -->
+ - 👉 [Luna, best girl](http://9gag.com/gag/aVvVQov)<!-- MEMES:END -->
 
 ---
 

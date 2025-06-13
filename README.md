@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [15% Off Wayfair Promo Code | June 2025 Coupons](https://www.wired.com/story/wayfair-coupon/)
+ - [Garmin unveils the $799 Venu X1 smartwatch with a 2&quot; square AMOLED screen, a titanium body, an eight-day battery, and a blood oxygen monitor, coming on June 18 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250613/p4#a250613p4)
  - [Top KitchenAid Promo Codes and Coupons](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
  - [Sources: China delays approval of Synopsys&#39; Ansys deal as the US moved in late May to ban chip design software sales by US firms, including Synopsys, to China &lpar;Financial Times&rpar;](http://www.techmeme.com/250613/p3#a250613p3)
- - [Customs data shows Foxconn exported $3.2B worth of iPhones from India between March and May, with an average 97% to the US, up from a 2024 average of 50.3% &lpar;Reuters&rpar;](http://www.techmeme.com/250613/p2#a250613p2)
- - [A senior Trump administration official projects that Huawei&#39;s Ascend AI chip output will be at or below 200,000 for 2025, in a hearing with US lawmakers &lpar;Bloomberg&rpar;](http://www.techmeme.com/250613/p1#a250613p1)
- - [Texas-based Securonix acquires ThreatQuotient, which helps companies analyze threat intelligence more efficiently; ThreatQuotient had raised about $170M &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250612/p48#a250612p48)<!-- TECH:END -->
+ - [Customs data shows Foxconn exported $3.2B worth of iPhones from India between March and May, with an average 97% to the US, up from a 2024 average of 50.3% &lpar;Reuters&rpar;](http://www.techmeme.com/250613/p2#a250613p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Star Trek: Strange New Worlds is getting a fifth and final season](https://www.theverge.com/news/686564/star-trek-strange-new-worlds-season-five-final-renewal)
+ - [Nintendo Switch 2 Review: Price, Specs, Availability](https://www.wired.com/review/nintendo-switch-2/)
+ - [15 Best Mobile Games for iOS and Android](https://www.wired.com/gallery/best-mobile-games-iphone-android/)
  - [PCIe 7.0 is coming, but not soon, and not for you](https://www.theverge.com/news/686560/pcie-7-0-specification-launch-bandwith-speed)
- - [Nintendo Switch 2 review: great build quality, better haptics, and improved performance for Switch 1 games, but weak battery life and only a few launch titles &lpar;The Shortcut&rpar;](http://www.techmeme.com/250613/p6#a250613p6)
- - [This Chinese Spacecraft Is Traveling to One of Earth’s Quasi-Moons](https://www.wired.com/story/chinese-spacecraft-earths-quasi-moons-china-tianwen-2/)
- - [It&#39;s About Darn Time: Apple Will Finally Screen Your Calls and Messages](https://www.cnet.com/tech/mobile/its-about-darn-time-apple-will-finally-screen-your-calls-and-messages/#ftag=CAD590a51e)
- - [We Tested the DreamCloud Mattress: Could It Be the Best Budget Luxury Bed in 2025?](https://www.cnet.com/health/sleep/dreamcloud-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nintendo Switch 2 review: great build quality, better haptics, and improved performance for Switch 1 games, but weak battery life and only a few launch titles &lpar;The Shortcut&rpar;](http://www.techmeme.com/250613/p6#a250613p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

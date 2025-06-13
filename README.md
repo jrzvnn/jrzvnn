@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Somebody fact check this](http://9gag.com/gag/an7rXQE)
+ - 😝 [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)
+ - 😝 [Hahahaha!!!!](http://9gag.com/gag/aMVObYR)
+ - 💣 [Power generator engine](http://9gag.com/gag/aYQAeVV)
  - 😝 [Makes sense](http://9gag.com/gag/agmEvQv)
- - 💣 [The face of pure defiance](http://9gag.com/gag/aAyOYP0)
- - 😝 [This is his villain origin story](http://9gag.com/gag/a5QqKdV)
- - 👉 [A man`s man](http://9gag.com/gag/aPA144K)<!-- MEMES:END -->
+ - 👉 [Perks of learning another language.](http://9gag.com/gag/aKGOg6W)<!-- MEMES:END -->
 
 ---
 

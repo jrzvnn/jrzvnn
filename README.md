@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPadOS 26 graphing tool gets an upgrade adding interactive 3D](https://appleinsider.com/articles/25/06/13/ipados-26-graphing-tool-gets-an-upgrade-adding-interactive-3d?utm_medium=rss)
+ - [The US Army Reserve launches Detachment 201, an innovation corps with Palantir CTO Shyam Sankar and Meta CTO Andrew Bosworth serving as lieutenant colonels &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/250613/p10#a250613p10)
+ - [33 Best Gifts for Teens &lpar;2025&rpar;, Approved by Our Kids](https://www.wired.com/gallery/best-gift-ideas-for-teens/)
  - [PC benchmarking tool 3D Mark arrives on macOS](https://appleinsider.com/articles/25/06/13/pc-benchmarking-tool-3d-mark-arrives-on-macos?utm_medium=rss)
- - [Switch, Xbox, and the portable future of games](https://www.theverge.com/the-vergecast/686637/switch-2-xbox-ally-portable-gaming-vergecast)
- - [How the new Passwords history feature works in macOS Tahoe](https://appleinsider.com/inside/macos-tahoe/tips/how-the-new-passwords-history-feature-works-in-macos-tahoe?utm_medium=rss)
- - [Google just released the first major Snapseed update in years](https://www.theverge.com/news/686625/google-first-major-snapseed-update-years)
- - [Best Packing Cubes for Every Kind of Trip &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-packing-cubes/)<!-- TECH:END -->
+ - [Switch, Xbox, and the portable future of games](https://www.theverge.com/the-vergecast/686637/switch-2-xbox-ally-portable-gaming-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

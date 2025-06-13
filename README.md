@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [TACO move](http://9gag.com/gag/a87KM8Z)
- - 😝 [Bro is going through it](http://9gag.com/gag/azxYgOj)
- - 💣 [Luna, best girl](http://9gag.com/gag/aVvVQov)
- - 😝 [G*rls be like](http://9gag.com/gag/ae9735q)
- - 👉 [Don&#39;t make me call my mom](http://9gag.com/gag/axyYd3b)<!-- MEMES:END -->
+ - 😝 [Somebody fact check this](http://9gag.com/gag/an7rXQE)
+ - 😝 [Witty title](http://9gag.com/gag/agmE3ZW)
+ - 💣 [She is very Swedish](http://9gag.com/gag/aW4D0xZ)
+ - 😝 [Take the W with Ducky One X!](http://9gag.com/gag/avydngX)
+ - 👉 [The face of pure defiance](http://9gag.com/gag/aAyOYP0)<!-- MEMES:END -->
 
 ---
 

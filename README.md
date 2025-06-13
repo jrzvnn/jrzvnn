@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A concise take on bailouts and economic philosophy](http://9gag.com/gag/an7r1vV)
- - 😝 [This is his villain origin story](http://9gag.com/gag/a5QqKdV)
- - 💣 [What a thoughtful man](http://9gag.com/gag/aD2O0K7)
+ - 😝 [Bad economy](http://9gag.com/gag/aLndKNV)
+ - 😝 [Survivor](http://9gag.com/gag/aD2Oood)
+ - 💣 [Luna, best girl](http://9gag.com/gag/aVvVQov)
  - 😝 [Take the W with Ducky One X!](http://9gag.com/gag/avydngX)
- - 👉 [Leaving a serious trail behind.](http://9gag.com/gag/a2vLmnD)<!-- MEMES:END -->
+ - 👉 [`Ohh Death, become my blade once more...`](http://9gag.com/gag/a6Zj7j8)<!-- MEMES:END -->
 
 ---
 

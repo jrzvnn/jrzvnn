@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lady my milk, come baack](http://9gag.com/gag/a87K40Q)
- - 😝 [Makes sense](http://9gag.com/gag/agmEvQv)
- - 💣 [Best daughter](http://9gag.com/gag/azxYAbm)
+ - 😝 [Robert Downey Jr](http://9gag.com/gag/axyY2pL)
+ - 😝 [Luna, best girl](http://9gag.com/gag/aVvVQov)
+ - 💣 [Lady my milk, come baack](http://9gag.com/gag/a87K40Q)
  - 😝 [Take the W with Ducky One X!](http://9gag.com/gag/avydngX)
- - 👉 [Somebody fact check this](http://9gag.com/gag/an7rXQE)<!-- MEMES:END -->
+ - 👉 [Best daughter](http://9gag.com/gag/azxYAbm)<!-- MEMES:END -->
 
 ---
 

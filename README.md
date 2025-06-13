@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [8 Best Air Fryers for Crispy Wings and Fries &lpar;2025&rpar;](https://www.wired.com/gallery/best-air-fryer/)
+ - [Apple redirects 97% of Indian-made iPhones to the US to lessen tariffs](https://appleinsider.com/articles/25/06/13/apple-redirects-97-of-indian-made-iphones-to-the-us-to-lessen-tariffs?utm_medium=rss)
+ - [Sources: Tencent is in early talks to acquire Nexon, the South Korean gaming giant behind Dungeon &amp; Fighter Mobile; Tencent pursued a Nexon acquisition in 2019 &lpar;Dong Cao/Bloomberg&rpar;](http://www.techmeme.com/250613/p8#a250613p8)
  - [Five ways macOS Tahoe makes you radically more productive](https://appleinsider.com/articles/25/06/13/five-ways-macos-tahoe-makes-you-radically-more-productive?utm_medium=rss)
- - [Google is shutting down Android Instant Apps over ‘low’ usage](https://www.theverge.com/news/686573/google-android-instant-apps-shutdown)
- - [Apple Music Sing gets karaoke mode, visualizer in tvOS 26](https://appleinsider.com/articles/25/06/13/apple-music-sing-gets-karaoke-mode-visualizer-in-tvos-26?utm_medium=rss)
- - [Tesla’s minor Model S and X refreshes cost $5,000 more](https://www.theverge.com/news/686567/tesla-model-s-x-2025-refresh-price-availability)
- - [Valve&#39;s Steam gaming client is finally getting an Apple Silicon native upgrade](https://appleinsider.com/articles/25/06/13/valves-steam-gaming-client-is-finally-getting-an-apple-silicon-native-upgrade?utm_medium=rss)<!-- TECH:END -->
+ - [Google is shutting down Android Instant Apps over ‘low’ usage](https://www.theverge.com/news/686573/google-android-instant-apps-shutdown)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

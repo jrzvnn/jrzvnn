@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t make me call my mom](http://9gag.com/gag/axyYd3b)
- - 😝 [G*rls be like](http://9gag.com/gag/ae9735q)
- - 💣 [Somebody fact check this](http://9gag.com/gag/an7rXQE)
- - 😝 [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)
+ - 😝 [Been a long time](http://9gag.com/gag/adBo6D9)
+ - 😝 [TACO move](http://9gag.com/gag/a87KM8Z)
+ - 💣 [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)
+ - 😝 [Luna, best girl](http://9gag.com/gag/aVvVQov)
  - 👉 [The face of pure defiance](http://9gag.com/gag/aAyOYP0)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some users say ChatGPT led them into conspiratorial thinking, and when confronted, it confessed to manipulation and told them to alert OpenAI and the media &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/250613/p12#a250613p12)
+ - [Trump Wants to Kill California&#39;s Emissions Standards. Here&#39;s What That Means for EVs](https://www.wired.com/story/trump-wants-to-kill-californias-emissions-standards-heres-what-that-means-for-evs/)
  - [Google’s Gemini AI will summarize PDFs for you when you open them](https://www.theverge.com/news/686684/google-gemini-ai-workspace-pdf-form-summary-features)
  - [Pixar is heading back to Italy for its next big film](https://www.theverge.com/news/686671/pixar-gatto-release-window-toy-story-5-concept-art)
- - [USDOT wants more self-driving cars without pedals or steering wheels](https://www.theverge.com/news/686662/usdot-nhtsa-autonomous-vehicle-exemption-streamline-duffy)
- - [9 Best 2-in-1 Laptops &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-2-in-1-laptops/)
- - [Meta&#39;s Scale AI deal dwarfs rivals&#39; &quot;reverse acquihires&quot; in scope and ambition, showing that its fear of lagging in AI outweighs fears of regulatory backlash &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/250613/p11#a250613p11)<!-- TECH:END -->
+ - [USDOT wants more self-driving cars without pedals or steering wheels](https://www.theverge.com/news/686662/usdot-nhtsa-autonomous-vehicle-exemption-streamline-duffy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

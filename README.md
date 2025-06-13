@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Customs data shows Foxconn exported $3.2B worth of iPhones from India between March and May, with an average 97% to the US, up from a 2024 average of 50.3% &lpar;Reuters&rpar;](http://www.techmeme.com/250613/p2#a250613p2)
  - [A senior Trump administration official projects that Huawei&#39;s Ascend AI chip output will be at or below 200,000 for 2025, in a hearing with US lawmakers &lpar;Bloomberg&rpar;](http://www.techmeme.com/250613/p1#a250613p1)
  - [Texas-based Securonix acquires ThreatQuotient, which helps companies analyze threat intelligence more efficiently; ThreatQuotient had raised about $170M &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250612/p48#a250612p48)
  - [Today&#39;s NYT Mini Crossword Answers for Friday, June 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-june-13/#ftag=CAD590a51e)
- - [SAG-AFTRA&#39;s Interactive Media Agreement with game companies requires performers&#39; informed consent for all planned AI use on their voice, likeness, and movements &lpar;Jeremy Fuster/The Wrap&rpar;](http://www.techmeme.com/250612/p47#a250612p47)
- - [Current and former employees of OpenAI have sold nearly $3B worth of shares in tender offers since 2021, with $1.5B+ going to SoftBank alone &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/250612/p46#a250612p46)<!-- TECH:END -->
+ - [SAG-AFTRA&#39;s Interactive Media Agreement with game companies requires performers&#39; informed consent for all planned AI use on their voice, likeness, and movements &lpar;Jeremy Fuster/The Wrap&rpar;](http://www.techmeme.com/250612/p47#a250612p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

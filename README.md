@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dbrand’s Killswitch is the best all-around Switch 2 case](https://www.theverge.com/tech/686719/dbrand-killswitch-switch-2-case-review)
+ - [WWDC highlights, iPad updates, and Apple Intelligence, on the AppleInsider Podcast](https://appleinsider.com/articles/25/06/13/wwdc-highlights-ipad-updates-and-apple-intelligence-on-the-appleinsider-podcast?utm_medium=rss)
  - [Some users say ChatGPT led them into conspiratorial thinking, and when confronted, it confessed to manipulation and told them to alert OpenAI and the media &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/250613/p12#a250613p12)
  - [Trump Wants to Kill California&#39;s Emissions Standards. Here&#39;s What That Means for EVs](https://www.wired.com/story/trump-wants-to-kill-californias-emissions-standards-heres-what-that-means-for-evs/)
- - [Google’s Gemini AI will summarize PDFs for you when you open them](https://www.theverge.com/news/686684/google-gemini-ai-workspace-pdf-form-summary-features)
- - [Pixar is heading back to Italy for its next big film](https://www.theverge.com/news/686671/pixar-gatto-release-window-toy-story-5-concept-art)
- - [USDOT wants more self-driving cars without pedals or steering wheels](https://www.theverge.com/news/686662/usdot-nhtsa-autonomous-vehicle-exemption-streamline-duffy)<!-- TECH:END -->
+ - [Google’s Gemini AI will summarize PDFs for you when you open them](https://www.theverge.com/news/686684/google-gemini-ai-workspace-pdf-form-summary-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

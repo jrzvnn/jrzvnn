@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Somebody fact check this](http://9gag.com/gag/an7rXQE)
+ - 😝 [TACO move](http://9gag.com/gag/a87KM8Z)
  - 😝 [Witty title](http://9gag.com/gag/agmE3ZW)
  - 💣 [She is very Swedish](http://9gag.com/gag/aW4D0xZ)
  - 😝 [Take the W with Ducky One X!](http://9gag.com/gag/avydngX)
- - 👉 [The face of pure defiance](http://9gag.com/gag/aAyOYP0)<!-- MEMES:END -->
+ - 👉 [Luna, best girl](http://9gag.com/gag/aVvVQov)<!-- MEMES:END -->
 
 ---
 

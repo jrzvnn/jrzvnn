@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Robert Downey Jr](http://9gag.com/gag/axyY2pL)
- - 😝 [Therapist](http://9gag.com/gag/a1mEXG8)
- - 💣 [Somebody fact check this](http://9gag.com/gag/an7rXQE)
+ - 😝 [She is very Swedish](http://9gag.com/gag/aW4D0xZ)
+ - 😝 [Luna, best girl](http://9gag.com/gag/aVvVQov)
+ - 💣 [Bad economy](http://9gag.com/gag/aLndKNV)
  - 😝 [Take the W with Ducky One X!](http://9gag.com/gag/avydngX)
- - 👉 [Luna, best girl](http://9gag.com/gag/aVvVQov)<!-- MEMES:END -->
+ - 👉 [Playing chess](http://9gag.com/gag/avydLLZ)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [TACO move](http://9gag.com/gag/a87KM8Z)
- - 😝 [Respect to Dakota Johnson for making this joke. I may actually watch the movie now, out of solidarity.](http://9gag.com/gag/ary2Kgd)
- - 💣 [Robert Downey Jr](http://9gag.com/gag/axyY2pL)
+ - 😝 [Lady my milk, come baack](http://9gag.com/gag/a87K40Q)
+ - 😝 [Makes sense](http://9gag.com/gag/agmEvQv)
+ - 💣 [Best daughter](http://9gag.com/gag/azxYAbm)
  - 😝 [Take the W with Ducky One X!](http://9gag.com/gag/avydngX)
- - 👉 [Always the Same people\u2026](http://9gag.com/gag/aE0O1vK)<!-- MEMES:END -->
+ - 👉 [Somebody fact check this](http://9gag.com/gag/an7rXQE)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Chatbot Disinfo Inflaming the LA Protests](https://www.wired.com/story/uncanny-valley-podcast-the-chatbot-disinfo-inflaming-the-la-protests/)
  - [Amazon reorganizes its healthcare business into six &quot;pillars&quot; to simplify its structure, following executive departures and its struggles in the market &lpar;CNBC&rpar;](http://www.techmeme.com/250613/p14#a250613p14)
  - [Best Wireless Earbuds of 2025](https://www.cnet.com/tech/mobile/best-wireless-earbuds/#ftag=CAD590a51e)
  - [Kwikset’s newest smart lock gets almost everything right](https://www.theverge.com/smart-home-review/679903/kwikset-halo-select-smart-lock-review)
- - [How folder emoji &amp; customization works in macOS Tahoe](https://appleinsider.com/inside/macos-tahoe/tips/how-folder-emoji-customization-works-in-macos-tahoe?utm_medium=rss)
- - [When to Stream &#39;A Minecraft Movie&#39; on Max](https://www.cnet.com/tech/services-and-software/when-to-stream-a-minecraft-movie-on-max/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How folder emoji &amp; customization works in macOS Tahoe](https://appleinsider.com/inside/macos-tahoe/tips/how-folder-emoji-customization-works-in-macos-tahoe?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

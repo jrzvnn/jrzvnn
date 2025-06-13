@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Sources: Google, Scale AI&#39;s largest customer, plans to cut ties with the company after the Meta deal; Microsoft, OpenAI, and xAI also plan to step back &lpar;Reuters&rpar;](http://www.techmeme.com/250613/p23#a250613p23)
  - [Anne Wojcicki is taking back control of 23andMe](https://www.theverge.com/news/687123/23andme-anne-wojcicki-acquisition)
  - [Oracle stock jumped 24% this week, its best performance since 2001, and is up 29% in 2025, vs. Nasdaq&#39;s 1%, after the company reported cloud momentum &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250613/p22#a250613p22)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 14, #264](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-14-264/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 14, #468](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-14-468/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Anker Recalls PowerCore 10000 Power Banks for Fires and Explosions. Get a Free Replacement](https://www.cnet.com/tech/mobile/anker-recalls-powercore-10000-power-banks-for-burning-or-exploding-learn-how-to-get-a-free-replacement/#ftag=CAD590a51e)
+ - [MacBook Air vs. MacBook Pro: Which MacBook Should I Buy?](https://www.cnet.com/tech/computing/macbook-air-vs-macbook-pro-which-macbook-should-i-buy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

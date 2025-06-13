@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/avydpeb)
+ - 😝 [Don&#39;t make me call my mom](http://9gag.com/gag/axyYd3b)
  - 😝 [TACO move](http://9gag.com/gag/a87KM8Z)
  - 💣 [Luna, best girl](http://9gag.com/gag/aVvVQov)
  - 😝 [Take the W with Ducky One X!](http://9gag.com/gag/avydngX)
- - 👉 [Robert Downey Jr](http://9gag.com/gag/axyY2pL)<!-- MEMES:END -->
+ - 👉 [She is very Swedish](http://9gag.com/gag/aW4D0xZ)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Somebody fact check this](http://9gag.com/gag/an7rXQE)
- - 😝 [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)
- - 💣 [A man`s man](http://9gag.com/gag/aPA144K)
- - 😝 [Pass me dat ass](http://9gag.com/gag/aVvVORO)
- - 👉 [The face of pure defiance](http://9gag.com/gag/aAyOYP0)<!-- MEMES:END -->
+ - 😝 [Makes sense](http://9gag.com/gag/agmEvQv)
+ - 💣 [The face of pure defiance](http://9gag.com/gag/aAyOYP0)
+ - 😝 [This is his villain origin story](http://9gag.com/gag/a5QqKdV)
+ - 👉 [A man`s man](http://9gag.com/gag/aPA144K)<!-- MEMES:END -->
 
 ---
 

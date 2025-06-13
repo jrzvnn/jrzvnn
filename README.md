@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon reorganizes its healthcare business into six &quot;pillars&quot; to simplify its structure, following executive departures and its struggles in the market &lpar;CNBC&rpar;](http://www.techmeme.com/250613/p14#a250613p14)
+ - [Best Wireless Earbuds of 2025](https://www.cnet.com/tech/mobile/best-wireless-earbuds/#ftag=CAD590a51e)
  - [Kwikset’s newest smart lock gets almost everything right](https://www.theverge.com/smart-home-review/679903/kwikset-halo-select-smart-lock-review)
  - [How folder emoji &amp; customization works in macOS Tahoe](https://appleinsider.com/inside/macos-tahoe/tips/how-folder-emoji-customization-works-in-macos-tahoe?utm_medium=rss)
- - [The best Sonos speakers to buy in 2025](https://www.theverge.com/tech/652171/best-sonos-speakers)
- - [China releases draft guidelines on cross-border transmission of automobile data, which could pave the way for the wider rollout of Tesla&#39;s FSD in the country &lpar;Bloomberg&rpar;](http://www.techmeme.com/250613/p13#a250613p13)
- - [Craig Federighi says macOS would ruin what makes the iPad special](https://appleinsider.com/articles/25/06/13/craig-federighi-says-macos-would-ruin-what-makes-the-ipad-special?utm_medium=rss)<!-- TECH:END -->
+ - [When to Stream &#39;A Minecraft Movie&#39; on Max](https://www.cnet.com/tech/services-and-software/when-to-stream-a-minecraft-movie-on-max/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

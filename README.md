@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Asking your friend to hang out in the 90s](http://9gag.com/gag/axyYjA2)
- - 😝 [Dads be like](http://9gag.com/gag/ae97GOQ)
- - 💣 [Perks of learning another language.](http://9gag.com/gag/aKGOg6W)
+ - 😝 [Bro is going through it](http://9gag.com/gag/azxYgOj)
+ - 😝 [Somebody fact check this](http://9gag.com/gag/an7rXQE)
+ - 💣 [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)
  - 😝 [Take the W with Ducky One X!](http://9gag.com/gag/avydngX)
- - 👉 [A concise take on bailouts and economic philosophy](http://9gag.com/gag/an7r1vV)<!-- MEMES:END -->
+ - 👉 [11A](http://9gag.com/gag/aGyOxLX)<!-- MEMES:END -->
 
 ---
 

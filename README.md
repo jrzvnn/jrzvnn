@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google plans to shut down Android&#39;s Instant Apps, which let users launch apps without installing them, later this year citing low usage and engagement &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250613/p9#a250613p9)
- - [8 Best Air Fryers for Crispy Wings and Fries &lpar;2025&rpar;](https://www.wired.com/gallery/best-air-fryer/)
- - [I Saw Mouse: P.I. for Hire Gameplay: It&#39;s Got Cartoon Gumshoe Gunplay Aplenty](https://www.cnet.com/tech/gaming/i-saw-mouse-p-i-for-hire-gameplay-shaping-up-with-gumshoe-gunplay-aplenty/#ftag=CAD590a51e)
- - [Apple&#39;s Workout Buddy Is Friendly, but What if It Could Adopt Other Personalities?](https://www.cnet.com/tech/mobile/apples-workout-buddy-is-friendly-but-what-if-it-could-adopt-other-personalities/#ftag=CAD590a51e)
- - [What Is Cellular Internet And Is It A Reliable Broadband Connection?](https://www.cnet.com/home/internet/what-is-cellular-home-internet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PC benchmarking tool 3D Mark arrives on macOS](https://appleinsider.com/articles/25/06/13/pc-benchmarking-tool-3d-mark-arrives-on-macos?utm_medium=rss)
+ - [Switch, Xbox, and the portable future of games](https://www.theverge.com/the-vergecast/686637/switch-2-xbox-ally-portable-gaming-vergecast)
+ - [How the new Passwords history feature works in macOS Tahoe](https://appleinsider.com/inside/macos-tahoe/tips/how-the-new-passwords-history-feature-works-in-macos-tahoe?utm_medium=rss)
+ - [Google just released the first major Snapseed update in years](https://www.theverge.com/news/686625/google-first-major-snapseed-update-years)
+ - [Best Packing Cubes for Every Kind of Trip &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-packing-cubes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

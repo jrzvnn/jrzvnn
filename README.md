@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla’s minor Model S and X refreshes cost $5,000 more](https://www.theverge.com/news/686567/tesla-model-s-x-2025-refresh-price-availability)
  - [Valve&#39;s Steam gaming client is finally getting an Apple Silicon native upgrade](https://appleinsider.com/articles/25/06/13/valves-steam-gaming-client-is-finally-getting-an-apple-silicon-native-upgrade?utm_medium=rss)
+ - [Dyson Has Killed Its Bizarre Zone Air-Purifying Headphones](https://www.wired.com/story/dyson-has-killed-its-bizarre-zone-air-purifying-headphones/)
  - [Couple steals back their own car after tracking an AirTag in it](https://appleinsider.com/articles/25/06/13/couple-steals-back-their-own-car-after-tracking-an-airtag-in-it?utm_medium=rss)
- - [Are Those Viral ‘Cooling Blankets’ for Real?](https://www.wired.com/story/are-those-viral-cooling-blankets-for-real/)
- - [This Chatbot Tool Pays Users $50 a Month for Their Feedback on AI Models](https://www.wired.com/story/yupp-chatbot-pays-users-ai-model-feedback/)
- - [A Mattress Testing Expert Breaks Down Natural and Organic Certifications &lpar;2025&rpar;](https://www.wired.com/story/organic-mattress-and-bedding-certifications/)<!-- TECH:END -->
+ - [Are Those Viral ‘Cooling Blankets’ for Real?](https://www.wired.com/story/are-those-viral-cooling-blankets-for-real/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

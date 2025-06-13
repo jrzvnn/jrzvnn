@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The streamer is in big trouble now](http://9gag.com/gag/azxYAPK)
- - 😝 [Precisely where the bedroom was](http://9gag.com/gag/adBoXQ2)
- - 💣 [Did not see that coming at the car wash.](http://9gag.com/gag/aKGOqYN)
+ - 😝 [A concise take on bailouts and economic philosophy](http://9gag.com/gag/an7r1vV)
+ - 😝 [This is his villain origin story](http://9gag.com/gag/a5QqKdV)
+ - 💣 [What a thoughtful man](http://9gag.com/gag/aD2O0K7)
  - 😝 [Take the W with Ducky One X!](http://9gag.com/gag/avydngX)
- - 👉 [Playing chess](http://9gag.com/gag/avydLLZ)<!-- MEMES:END -->
+ - 👉 [Leaving a serious trail behind.](http://9gag.com/gag/a2vLmnD)<!-- MEMES:END -->
 
 ---
 

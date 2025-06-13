@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Complaining about AiR India Boeing 787 quality flights](http://9gag.com/gag/aQzOxyK)
  - 😝 [TACO move](http://9gag.com/gag/a87KM8Z)
- - 💣 [Luna, best girl](http://9gag.com/gag/aVvVQov)
+ - 😝 [Respect to Dakota Johnson for making this joke. I may actually watch the movie now, out of solidarity.](http://9gag.com/gag/ary2Kgd)
+ - 💣 [Robert Downey Jr](http://9gag.com/gag/axyY2pL)
  - 😝 [Take the W with Ducky One X!](http://9gag.com/gag/avydngX)
- - 👉 [11A](http://9gag.com/gag/aGyOxLX)<!-- MEMES:END -->
+ - 👉 [Always the Same people\u2026](http://9gag.com/gag/aE0O1vK)<!-- MEMES:END -->
 
 ---
 

@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Pass me dat ass](http://9gag.com/gag/aVvVORO)
  - 😝 [Don&#39;t make me call my mom](http://9gag.com/gag/axyYd3b)
- - 💣 [Makes sense](http://9gag.com/gag/agmEvQv)
- - 😝 [The face of pure defiance](http://9gag.com/gag/aAyOYP0)
- - 👉 [G*rls be like](http://9gag.com/gag/ae9735q)<!-- MEMES:END -->
+ - 💣 [The face of pure defiance](http://9gag.com/gag/aAyOYP0)
+ - 😝 [Somebody fact check this](http://9gag.com/gag/an7rXQE)
+ - 👉 [TACO move](http://9gag.com/gag/a87KM8Z)<!-- MEMES:END -->
 
 ---
 

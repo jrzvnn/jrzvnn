@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Switch 2 gives Splatoon 3 a fantastically fresh coat of paint](https://www.theverge.com/nintendo/686128/splatoon-3-switch-2-update-overview)
+ - [Belkin’s 3-in-1 Qi2 wireless charger is the cheapest it’s been in months](https://www.theverge.com/tech/686920/belkin-boostcharge-pro-3-in-1-apple-pencil-usb-c-anker-prime-tb5-docking-station-deal-sale)
+ - [Sources: Palmer Luckey&#39;s stablecoin startup Atticus raised ~$250M at a $2.25B valuation, and will merge into Erebor, formed by Luckey to get a banking license &lpar;Axios&rpar;](http://www.techmeme.com/250613/p16#a250613p16)
  - [Google&amp;#8217;s test turns search results into an AI-generated podcast](https://www.theverge.com/news/686904/google-audio-overviews-ai-podcast-search)
- - [Apple slips out a quiet iOS 26 beta 1 update with a new build](https://appleinsider.com/articles/25/06/13/apple-slips-out-a-quiet-ios-26-beta-1-update-with-a-new-build?utm_medium=rss)
- - [Best Gas Grills of 2025](https://www.cnet.com/home/yard-and-outdoors/best-gas-grill/#ftag=CAD590a51e)
- - [Amazon&#39;s Summer Sale slashes up to 51% off Apple Watch, AirPods, iPad, Beats, Mac](https://appleinsider.com/articles/25/06/13/amazons-summer-sale-slashes-up-to-51-off-apple-watch-airpods-ipad-beats-mac?utm_medium=rss)
- - [Digital rights organizations urge the FTC to investigate Character.AI and Meta&#39;s &quot;unlicensed practice of medicine facilitated&quot; by therapy AI chatbots &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/250613/p15#a250613p15)<!-- TECH:END -->
+ - [Apple slips out a quiet iOS 26 beta 1 update with a new build](https://appleinsider.com/articles/25/06/13/apple-slips-out-a-quiet-ios-26-beta-1-update-with-a-new-build?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

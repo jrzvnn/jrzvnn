@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [G*rls be like](http://9gag.com/gag/ae9735q)
- - 😝 [Makes sense](http://9gag.com/gag/agmEvQv)
- - 💣 [TACO move](http://9gag.com/gag/a87KM8Z)
- - 😝 [Luna, best girl](http://9gag.com/gag/aVvVQov)
- - 👉 [Somebody fact check this](http://9gag.com/gag/an7rXQE)<!-- MEMES:END -->
+ - 😝 [Op&#39;s favourite gym, oh wait I&#39;m Op. Anyone for the gym? No homo](http://9gag.com/gag/a2vLz1Y)
+ - 😝 [Witty title](http://9gag.com/gag/agmE3ZW)
+ - 💣 [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)
+ - 😝 [Don&#39;t make me call my mom](http://9gag.com/gag/axyYd3b)
+ - 👉 [The face of pure defiance](http://9gag.com/gag/aAyOYP0)<!-- MEMES:END -->
 
 ---
 

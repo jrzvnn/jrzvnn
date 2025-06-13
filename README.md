@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Current and former employees of OpenAI have sold nearly $3B worth of shares in tender offers since 2021, with $1.5B+ going to SoftBank alone &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/250612/p46#a250612p46)
+ - [Cloud computing startup Crusoe plans to buy ~$400M worth of AI chips from AMD to rent to customers for its US data center that will come online by fall &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/250612/p45#a250612p45)
+ - [Meta announces a $14.3B investment in Scale AI and hires CEO Alexandr Wang to help oversee its AI efforts; source: Scale AI&#39;s post-money valuation is $29B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250612/p44#a250612p44)
  - [Meta is paying $14 billion to catch up in the AI race](https://www.theverge.com/meta/685711/meta-scale-ai-ceo-alexandr-wang)
- - [The public feed of the Meta AI app is filled with private and sensitive information, suggesting users might not be aware they are sharing their chats publicly &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250612/p43#a250612p43)
- - [Towa and the Guardians of the Sacred Tree: Anime Hades With a Hunky Fish-man](https://www.cnet.com/tech/gaming/towa-and-the-guardians-of-the-sacred-tree-anime-hades-with-a-hunky-fish-man/#ftag=CAD590a51e)
- - [The Steve Jobs Archive shares stories, videos, and notes of his famous commencement speech](https://www.theverge.com/news/686524/steve-jobs-archive-stanford-commencement-speech-20th-anniversary)
- - [Google Cloud suffered an outage on Thursday, affecting many of its customers; Cloudflare, Spotify, Discord, Snapchat, and others experienced service disruptions &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250612/p42#a250612p42)<!-- TECH:END -->
+ - [The public feed of the Meta AI app is filled with private and sensitive information, suggesting users might not be aware they are sharing their chats publicly &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250612/p43#a250612p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

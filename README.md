@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro is going through it](http://9gag.com/gag/azxYgOj)
- - 😝 [Somebody fact check this](http://9gag.com/gag/an7rXQE)
- - 💣 [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)
+ - 😝 [That Thing Could Rip Us To Shreds, Julia!... It&#39;s Hideous! Run Away!](http://9gag.com/gag/amopr7d)
+ - 😝 [Asking your friend to hang out in the 90s](http://9gag.com/gag/axyYjA2)
+ - 💣 [But Epstein killed himself](http://9gag.com/gag/a87KM2O)
  - 😝 [Take the W with Ducky One X!](http://9gag.com/gag/avydngX)
- - 👉 [11A](http://9gag.com/gag/aGyOxLX)<!-- MEMES:END -->
+ - 👉 [Leaving a serious trail behind.](http://9gag.com/gag/a2vLmnD)<!-- MEMES:END -->
 
 ---
 

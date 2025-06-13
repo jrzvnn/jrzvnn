@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That Thing Could Rip Us To Shreds, Julia!... It&#39;s Hideous! Run Away!](http://9gag.com/gag/amopr7d)
- - 😝 [Asking your friend to hang out in the 90s](http://9gag.com/gag/axyYjA2)
- - 💣 [But Epstein killed himself](http://9gag.com/gag/a87KM2O)
+ - 😝 [Ahh yes how to fix `Squeeking breaks` sure it works/ repost](http://9gag.com/gag/azxYEZK)
+ - 😝 [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)
+ - 💣 [She is very Swedish](http://9gag.com/gag/aW4D0xZ)
  - 😝 [Take the W with Ducky One X!](http://9gag.com/gag/avydngX)
- - 👉 [Leaving a serious trail behind.](http://9gag.com/gag/a2vLmnD)<!-- MEMES:END -->
+ - 👉 [The face of pure defiance](http://9gag.com/gag/aAyOYP0)<!-- MEMES:END -->
 
 ---
 

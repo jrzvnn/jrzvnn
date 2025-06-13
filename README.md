@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Mattress Testing Expert Breaks Down Natural and Organic Certifications &lpar;2025&rpar;](https://www.wired.com/story/organic-mattress-and-bedding-certifications/)
+ - [Sources: Walmart, Amazon, and Expedia have recently explored issuing or using stablecoins in the US to potentially save fees from cash and card transactions &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250613/p7#a250613p7)
  - [Star Trek: Strange New Worlds is getting a fifth and final season](https://www.theverge.com/news/686564/star-trek-strange-new-worlds-season-five-final-renewal)
  - [Nintendo Switch 2 Review: Price, Specs, Availability](https://www.wired.com/review/nintendo-switch-2/)
- - [15 Best Mobile Games for iOS and Android](https://www.wired.com/gallery/best-mobile-games-iphone-android/)
- - [PCIe 7.0 is coming, but not soon, and not for you](https://www.theverge.com/news/686560/pcie-7-0-specification-launch-bandwith-speed)
- - [Nintendo Switch 2 review: great build quality, better haptics, and improved performance for Switch 1 games, but weak battery life and only a few launch titles &lpar;The Shortcut&rpar;](http://www.techmeme.com/250613/p6#a250613p6)<!-- TECH:END -->
+ - [15 Best Mobile Games for iOS and Android](https://www.wired.com/gallery/best-mobile-games-iphone-android/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

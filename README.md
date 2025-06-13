@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A senior Trump administration official projects that Huawei&#39;s Ascend AI chip output will be at or below 200,000 for 2025, in a hearing with US lawmakers &lpar;Bloomberg&rpar;](http://www.techmeme.com/250613/p1#a250613p1)
  - [Texas-based Securonix acquires ThreatQuotient, which helps companies analyze threat intelligence more efficiently; ThreatQuotient had raised about $170M &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250612/p48#a250612p48)
  - [Today&#39;s NYT Mini Crossword Answers for Friday, June 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-june-13/#ftag=CAD590a51e)
  - [SAG-AFTRA&#39;s Interactive Media Agreement with game companies requires performers&#39; informed consent for all planned AI use on their voice, likeness, and movements &lpar;Jeremy Fuster/The Wrap&rpar;](http://www.techmeme.com/250612/p47#a250612p47)
- - [Current and former employees of OpenAI have sold nearly $3B worth of shares in tender offers since 2021, with $1.5B+ going to SoftBank alone &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/250612/p46#a250612p46)
- - [Cloud computing startup Crusoe plans to buy ~$400M worth of AI chips from AMD to rent to customers for its US data center that will come online by fall &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/250612/p45#a250612p45)<!-- TECH:END -->
+ - [Current and former employees of OpenAI have sold nearly $3B worth of shares in tender offers since 2021, with $1.5B+ going to SoftBank alone &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/250612/p46#a250612p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

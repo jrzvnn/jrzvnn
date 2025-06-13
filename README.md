@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Google, Scale AI&#39;s largest customer, plans to cut ties with the company after the Meta deal; Microsoft, OpenAI, and xAI also plan to step back &lpar;Reuters&rpar;](http://www.techmeme.com/250613/p23#a250613p23)
  - [Anne Wojcicki is taking back control of 23andMe](https://www.theverge.com/news/687123/23andme-anne-wojcicki-acquisition)
  - [Oracle stock jumped 24% this week, its best performance since 2001, and is up 29% in 2025, vs. Nasdaq&#39;s 1%, after the company reported cloud momentum &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250613/p22#a250613p22)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 14, #264](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-14-264/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 14, #468](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-14-468/#ftag=CAD590a51e)
- - [A White House memo says David Sacks and Craft Ventures are divesting holdings in AI companies and hyperscalers like xAI and Meta &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250613/p21#a250613p21)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 14, #468](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-14-468/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

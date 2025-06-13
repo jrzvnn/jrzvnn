@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [TACO move](http://9gag.com/gag/a87KM8Z)
- - 😝 [This is his villain origin story](http://9gag.com/gag/a5QqKdV)
- - 💣 [Don&#39;t make me call my mom](http://9gag.com/gag/axyYd3b)
+ - 😝 [Somebody fact check this](http://9gag.com/gag/an7rXQE)
+ - 😝 [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)
+ - 💣 [A man`s man](http://9gag.com/gag/aPA144K)
  - 😝 [Pass me dat ass](http://9gag.com/gag/aVvVORO)
- - 👉 [Leather stamping](http://9gag.com/gag/a1mEp3P)<!-- MEMES:END -->
+ - 👉 [The face of pure defiance](http://9gag.com/gag/aAyOYP0)<!-- MEMES:END -->
 
 ---
 

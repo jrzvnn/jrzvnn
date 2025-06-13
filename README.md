@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)
+ - 😝 [A man`s man](http://9gag.com/gag/aPA144K)
  - 😝 [Hahahaha!!!!](http://9gag.com/gag/aMVObYR)
- - 💣 [Power generator engine](http://9gag.com/gag/aYQAeVV)
- - 😝 [Makes sense](http://9gag.com/gag/agmEvQv)
- - 👉 [Perks of learning another language.](http://9gag.com/gag/aKGOg6W)<!-- MEMES:END -->
+ - 💣 [Pass me dat ass](http://9gag.com/gag/aVvVORO)
+ - 😝 [Somebody fact check this](http://9gag.com/gag/an7rXQE)
+ - 👉 [Makes sense](http://9gag.com/gag/agmEvQv)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pass me dat ass](http://9gag.com/gag/aVvVORO)
- - 😝 [Don&#39;t make me call my mom](http://9gag.com/gag/axyYd3b)
- - 💣 [The face of pure defiance](http://9gag.com/gag/aAyOYP0)
- - 😝 [Somebody fact check this](http://9gag.com/gag/an7rXQE)
- - 👉 [TACO move](http://9gag.com/gag/a87KM8Z)<!-- MEMES:END -->
+ - 😝 [Is this true?](http://9gag.com/gag/aNDOrOw)
+ - 😝 [Well, that did not go according to plan](http://9gag.com/gag/aMVOrxG)
+ - 💣 [Hahahaha!!!!](http://9gag.com/gag/aMVObYR)
+ - 😝 [Makes sense](http://9gag.com/gag/agmEvQv)
+ - 👉 [Perks of learning another language.](http://9gag.com/gag/aKGOg6W)<!-- MEMES:END -->
 
 ---
 

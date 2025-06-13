@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Play FBC: Firebreak, Deus Ex and More on PlayStation Plus Soon](https://www.cnet.com/tech/services-and-software/play-fbc-firebreak-deus-ex-and-more-on-playstation-plus-soon/#ftag=CAD590a51e)
+ - [The 10 Best Steam Next Fest Games You Need to Wishlist](https://www.cnet.com/tech/gaming/the-10-best-steam-next-fest-games-you-need-to-wishlist/#ftag=CAD590a51e)
  - [Google says it is testing Audio Overviews for certain Search queries, available for Labs users in English in the US &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250613/p17#a250613p17)
- - [Apple&#39;s continued lack of native apps on Vision Pro isn&#39;t a good sign for the platform](https://appleinsider.com/articles/25/06/13/apples-continued-lack-of-native-apps-on-vision-pro-isnt-a-good-sign-for-the-platform?utm_medium=rss)
- - [The Switch 2 gives Splatoon 3 a fantastically fresh coat of paint](https://www.theverge.com/nintendo/686128/splatoon-3-switch-2-update-overview)
- - [Belkin’s 3-in-1 Qi2 wireless charger is the cheapest it’s been in months](https://www.theverge.com/tech/686920/belkin-boostcharge-pro-3-in-1-apple-pencil-usb-c-anker-prime-tb5-docking-station-deal-sale)
- - [Sources: Palmer Luckey&#39;s stablecoin startup Atticus raised ~$250M at a $2.25B valuation, and will merge into Erebor, formed by Luckey to get a banking license &lpar;Axios&rpar;](http://www.techmeme.com/250613/p16#a250613p16)<!-- TECH:END -->
+ - [Best Bose Headphones and Earbuds of 2025](https://www.cnet.com/tech/mobile/best-bose-headphones/#ftag=CAD590a51e)
+ - [AT&amp;T Cheaper Mobile Plan Creates a New Deal for Seniors. &lpar;Yes, That&#39;s Anyone 55 or Older&rpar;](https://www.cnet.com/tech/mobile/at-t-cheaper-mobile-plan-creates-a-new-deal-for-seniors-yes-thats-anyone-55-or-older/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

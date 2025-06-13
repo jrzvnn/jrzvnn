@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Precisely where the bedroom was](http://9gag.com/gag/adBoXQ2)
  - 😝 [A man`s man](http://9gag.com/gag/aPA144K)
+ - 😝 [Ahh yes how to fix `Squeeking breaks` sure it works/ repost](http://9gag.com/gag/azxYEZK)
  - 💣 [The face of pure defiance](http://9gag.com/gag/aAyOYP0)
  - 😝 [Take the W with Ducky One X!](http://9gag.com/gag/avydngX)
- - 👉 [Ahh yes how to fix `Squeeking breaks` sure it works/ repost](http://9gag.com/gag/azxYEZK)<!-- MEMES:END -->
+ - 👉 [Always the Same people\u2026](http://9gag.com/gag/aE0O1vK)<!-- MEMES:END -->
 
 ---
 

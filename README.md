@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Ohh Death, become my blade once more...`](http://9gag.com/gag/a6Zj7j8)
  - 😝 [That winning feeling hits different](http://9gag.com/gag/amopzKj)
- - 💣 [Playing chess](http://9gag.com/gag/avydLLZ)
+ - 😝 [Playing chess](http://9gag.com/gag/avydLLZ)
+ - 💣 [Did not see that coming at the car wash.](http://9gag.com/gag/aKGOqYN)
  - 😝 [Take the W with Ducky One X!](http://9gag.com/gag/avydngX)
- - 👉 [Off they go apparently](http://9gag.com/gag/aW4Dm7n)<!-- MEMES:END -->
+ - 👉 [Need to get them checked](http://9gag.com/gag/an7rbqo)<!-- MEMES:END -->
 
 ---
 

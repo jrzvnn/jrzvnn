@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Driver&#39;s license optional.](http://9gag.com/gag/aW4D8ed)
  - 😝 [The car door had other plans](http://9gag.com/gag/adBojzN)
+ - 😝 [Oops.](http://9gag.com/gag/aZZzgBp)
  - 💣 [Space Shuttle tile defies heat](http://9gag.com/gag/a34bjyQ)
- - 😝 [A quiet sense of pride](http://9gag.com/gag/a34bBg5)
- - 👉 [Oops.](http://9gag.com/gag/aZZzgBp)<!-- MEMES:END -->
+ - 😝 [Bone Museum](http://9gag.com/gag/a0eM58z)
+ - 👉 [Driver&#39;s license optional.](http://9gag.com/gag/aW4D8ed)<!-- MEMES:END -->
 
 ---
 

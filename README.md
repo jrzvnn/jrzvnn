@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The car door had other plans](http://9gag.com/gag/adBojzN)
- - 😝 [That winning feeling hits different](http://9gag.com/gag/amopzKj)
- - 💣 [Showtime!](http://9gag.com/gag/an7rbQb)
- - 😝 [Ghostbusters made her look like boy](http://9gag.com/gag/aD2OoeG)
- - 👉 [Complaining about AiR India Boeing 787 quality flights](http://9gag.com/gag/aQzOxyK)<!-- MEMES:END -->
+ - 😝 [A year can make all the difference for a rescue dog.](http://9gag.com/gag/a9yOWbm)
+ - 😝 [Lady my milk, come baack](http://9gag.com/gag/a87K40Q)
+ - 💣 [What a f**king shitshow](http://9gag.com/gag/agmEqd6)
+ - 😝 [Pure Talent](http://9gag.com/gag/abAQpzb)
+ - 👉 [Cluck cluck motherf**ker](http://9gag.com/gag/a5QqbNy)<!-- MEMES:END -->
 
 ---
 

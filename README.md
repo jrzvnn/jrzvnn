@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Where is your God now; she obviously turned that bottle into a mic](http://9gag.com/gag/a9yOWvj)
- - 😝 [Florida: `If you throw a brick, a firebomb, or point a gun at one of our deputies, we will be notifying your family where to collect your remains at. Because we will K*LL you, graveyard D*AD. We&#39;re NOT gonna play.`](http://9gag.com/gag/aByOwdZ)
- - 💣 [The little we know](http://9gag.com/gag/a0eMbgZ)
- - 😝 [Driver&#39;s license optional.](http://9gag.com/gag/aW4D8ed)
- - 👉 [Microsoft saw it coming](http://9gag.com/gag/aO8Rdqy)<!-- MEMES:END -->
+ - 😝 [Sure......](http://9gag.com/gag/aXPKArD)
+ - 💣 [Driver&#39;s license optional.](http://9gag.com/gag/aW4D8ed)
+ - 😝 [The little we know](http://9gag.com/gag/a0eMbgZ)
+ - 👉 [The car door had other plans](http://9gag.com/gag/adBojzN)<!-- MEMES:END -->
 
 ---
 

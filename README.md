@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [11 Best Planners: Weekly and Daily Notebooks and Accessories &lpar;2025&rpar;](https://www.wired.com/story/best-paper-planners/)
+ - [Fujifilm&#39;s X-E5, New Bose Speakers, and Qualcomm&#39;s Smart Glasses Chip—Your Gear News of the Week](https://www.wired.com/story/fujifilms-x-e5-new-bose-speakers-and-qualcomms-smart-glasses-chip-your-gear-news-of-the-week/)
+ - [Liquid Glass Looks Great, but I&#39;m More Hyped for These Low-Key iOS 26 Features](https://www.cnet.com/tech/services-and-software/liquid-glass-looks-great-but-im-more-hyped-for-these-low-key-ios-26-features/#ftag=CAD590a51e)
  - [You Still Can&#39;t Use Apple Pay at Walmart but You Have Another Digital Wallet Option](https://www.cnet.com/personal-finance/credit-cards/you-still-cant-use-apple-pay-at-walmart-but-you-have-another-digital-wallet-option/#ftag=CAD590a51e)
- - [FIFA Club World Cup 2025: How to Livestream the Soccer Tournament for Free from Anywhere](https://www.cnet.com/tech/services-and-software/fifa-club-world-cup-2025-how-to-livestream-the-soccer-tournament-for-free-from-anywhere/#ftag=CAD590a51e)
- - [As the world moves toward digital artificiality, Airbnb&#39;s redesign and Apple&#39;s Liquid Glass UI bring back skeuomorphism and dimensionality to digital interfaces &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/250614/p7#a250614p7)
- - [Horizon3.ai, whose AI-based penetration testing platform NodeZero helps find and exploit attack paths in production systems, raised a $100M Series D led by NEA &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250614/p6#a250614p6)
- - [The Ultra Ethernet Consortium, whose members include AMD, Cisco, HPE, and Intel, publishes its 1.0 specification for enhancing Ethernet standards for AI and HPC &lpar;Sean Michael Kerner/Network World&rpar;](http://www.techmeme.com/250614/p5#a250614p5)<!-- TECH:END -->
+ - [FIFA Club World Cup 2025: How to Livestream the Soccer Tournament for Free from Anywhere](https://www.cnet.com/tech/services-and-software/fifa-club-world-cup-2025-how-to-livestream-the-soccer-tournament-for-free-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

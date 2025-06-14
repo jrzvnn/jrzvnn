@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Precisely where the bedroom was](http://9gag.com/gag/adBoXQ2)
- - 😝 [Who is driving this van?](http://9gag.com/gag/azxYjez)
- - 💣 [A man`s man](http://9gag.com/gag/aPA144K)
+ - 😝 [Driver&#39;s license optional.](http://9gag.com/gag/aW4D8ed)
+ - 😝 [The car door had other plans](http://9gag.com/gag/adBojzN)
+ - 💣 [Lets try posting again.](http://9gag.com/gag/a34bjw7)
  - 😝 [Take the W with Ducky One X!](http://9gag.com/gag/avydngX)
- - 👉 [MSRP is/was lower as well...](http://9gag.com/gag/aZZzxQp)<!-- MEMES:END -->
+ - 👉 [A quiet sense of pride](http://9gag.com/gag/a34bBg5)<!-- MEMES:END -->
 
 ---
 

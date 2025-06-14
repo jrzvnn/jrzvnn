@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In an Oxford study, LLMs correctly identified medical conditions 94.9% of the time when given test scenarios directly, vs. 34.5% when prompted by human subjects &lpar;Nick Mokey/VentureBeat&rpar;](http://www.techmeme.com/250614/p13#a250614p13)
  - [Best Internet Providers in Berkeley, California](https://www.cnet.com/home/internet/best-internet-providers-in-berkeley-ca/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 15, #265](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-15-265/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for June 15, #469](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-15-469/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for June 15, #1457](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-15-1457/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for June 15, #735](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-15-735/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for June 15, #1457](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-15-1457/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

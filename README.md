@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Ohh Death, become my blade once more...`](http://9gag.com/gag/a6Zj7j8)
- - 😝 [Microsoft saw it coming](http://9gag.com/gag/aO8Rdqy)
- - 💣 [Driver&#39;s license optional.](http://9gag.com/gag/aW4D8ed)
- - 😝 [The little we know](http://9gag.com/gag/a0eMbgZ)
- - 👉 [My dude saw his life pass before his eyes](http://9gag.com/gag/adBo7n9)<!-- MEMES:END -->
+ - 😝 [A man in Brazil claimed he needed to save his four children during a flood. Rescuers later discovered he was actually rescuing his dogs left at home...](http://9gag.com/gag/aGyO16z)
+ - 😝 [What a f**king shitshow](http://9gag.com/gag/agmEqd6)
+ - 💣 [Pure Talent](http://9gag.com/gag/abAQpzb)
+ - 😝 [Cluck cluck motherf**ker](http://9gag.com/gag/a5QqbNy)
+ - 👉 [Therapist](http://9gag.com/gag/a1mEXG8)<!-- MEMES:END -->
 
 ---
 

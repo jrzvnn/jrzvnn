@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A year can make all the difference for a rescue dog.](http://9gag.com/gag/a9yOWbm)
- - 😝 [Lady my milk, come baack](http://9gag.com/gag/a87K40Q)
- - 💣 [What a f**king shitshow](http://9gag.com/gag/agmEqd6)
- - 😝 [Pure Talent](http://9gag.com/gag/abAQpzb)
- - 👉 [Cluck cluck motherf**ker](http://9gag.com/gag/a5QqbNy)<!-- MEMES:END -->
+ - 😝 [How to lose your console](http://9gag.com/gag/a0eM5vX)
+ - 😝 [Microsoft saw it coming](http://9gag.com/gag/aO8Rdqy)
+ - 💣 [Ghostbusters made her look like boy](http://9gag.com/gag/aD2OoeG)
+ - 😝 [Sure......](http://9gag.com/gag/aXPKArD)
+ - 👉 [Florida: `If you throw a brick, a firebomb, or point a gun at one of our deputies, we will be notifying your family where to collect your remains at. Because we will K*LL you, graveyard D*AD. We&#39;re NOT gonna play.`](http://9gag.com/gag/aByOwdZ)<!-- MEMES:END -->
 
 ---
 

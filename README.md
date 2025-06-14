@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [24 Amazon Prime Perks You Might Not Be Using &lpar;2025&rpar;](https://www.wired.com/story/amazon-prime-perks/)
+ - [Inside Mark Zuckerberg’s AI hiring spree](https://www.theverge.com/command-line-newsletter/687173/inside-mark-zuckerbergs-ai-hiring-spree)
+ - [Ahead of Protests, Waymo Scales Back Robotaxi Service Nationwide](https://www.wired.com/story/ahead-of-protests-waymo-adjusts-robotaxi-service-nationwide/)
  - [Source: Ramp raised $200M led by Founders Fund, valuing the startup at $16B, up from $13B in March, when it conducted a $150M share sale &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/250613/p24#a250613p24)
- - [Sources: Google, Scale AI&#39;s largest customer, plans to cut ties with the company after the Meta deal; Microsoft, OpenAI, and xAI also plan to step back &lpar;Reuters&rpar;](http://www.techmeme.com/250613/p23#a250613p23)
- - [Anne Wojcicki is taking back control of 23andMe](https://www.theverge.com/news/687123/23andme-anne-wojcicki-acquisition)
- - [Oracle stock jumped 24% this week, its best performance since 2001, and is up 29% in 2025, vs. Nasdaq&#39;s 1%, after the company reported cloud momentum &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250613/p22#a250613p22)
- - [Anker Recalls PowerCore 10000 Power Banks for Fires and Explosions. Get a Free Replacement](https://www.cnet.com/tech/mobile/anker-recalls-powercore-10000-power-banks-for-burning-or-exploding-learn-how-to-get-a-free-replacement/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Google, Scale AI&#39;s largest customer, plans to cut ties with the company after the Meta deal; Microsoft, OpenAI, and xAI also plan to step back &lpar;Reuters&rpar;](http://www.techmeme.com/250613/p23#a250613p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

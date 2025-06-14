@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Makes sense](http://9gag.com/gag/agmEvQv)
- - 😝 [That winning feeling hits different](http://9gag.com/gag/amopzKj)
- - 💣 [Some more animated accidents for you](http://9gag.com/gag/avydLwM)
+ - 😝 [The car door had other plans](http://9gag.com/gag/adBojzN)
+ - 😝 [A quiet sense of pride](http://9gag.com/gag/a34bBg5)
+ - 💣 [Respect to Dakota Johnson for making this joke. I may actually watch the movie now, out of solidarity.](http://9gag.com/gag/ary2Kgd)
  - 😝 [Take the W with Ducky One X!](http://9gag.com/gag/avydngX)
- - 👉 [A girl sneezes 12,000 per day &lpar;if you laugh, you go to hell&rpar;](http://9gag.com/gag/ary2R6p)<!-- MEMES:END -->
+ - 👉 [Complaining about AiR India Boeing 787 quality flights](http://9gag.com/gag/aQzOxyK)<!-- MEMES:END -->
 
 ---
 

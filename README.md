@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hoping it for 11A](http://9gag.com/gag/aKGO2X3)
  - 😝 [The car door had other plans](http://9gag.com/gag/adBojzN)
- - 💣 [Sure......](http://9gag.com/gag/aXPKArD)
- - 😝 [Showtime!](http://9gag.com/gag/an7rbQb)
- - 👉 [Punch Machine](http://9gag.com/gag/awyY5yx)<!-- MEMES:END -->
+ - 😝 [That winning feeling hits different](http://9gag.com/gag/amopzKj)
+ - 💣 [Showtime!](http://9gag.com/gag/an7rbQb)
+ - 😝 [Ghostbusters made her look like boy](http://9gag.com/gag/aD2OoeG)
+ - 👉 [Complaining about AiR India Boeing 787 quality flights](http://9gag.com/gag/aQzOxyK)<!-- MEMES:END -->
 
 ---
 

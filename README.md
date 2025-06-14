@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Horizon3.ai, whose AI-based penetration testing platform NodeZero helps find and exploit attack paths in production systems, raised a $100M Series D led by NEA &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250614/p6#a250614p6)
+ - [The Ultra Ethernet Consortium, whose members include AMD, Cisco, HPE, and Intel, publishes the 1.0 specification for enhancing Ethernet standards for AI and HPC &lpar;Sean Michael Kerner/Network World&rpar;](http://www.techmeme.com/250614/p5#a250614p5)
+ - [Wood Pellet Mills Are Prone to Catching Fire. Why Build Them in California?](https://www.wired.com/story/in-california-a-biomass-companys-expansion-raises-fears-of-more-fires/)
  - [AIM Intelligent Machines, which retrofits heavy construction equipment to operate autonomously, raised $50M from Khosla Ventures, General Catalyst, and others &lpar;Rachyl Jones/Semafor&rpar;](http://www.techmeme.com/250614/p4#a250614p4)
- - [A look at 10 AI agent startups from YC&#39;s first-ever spring Demo Day; the batch included 144 companies, 70 of which focused on agentic AI &lpar;Samantha Stokes/Business Insider&rpar;](http://www.techmeme.com/250614/p3#a250614p3)
- - [Waymo temporarily limits service in SF, Austin, and Atlanta, and stops service in LA, as US cities prepare for protests against federal immigration policies &lpar;Aarian Marshall/Wired&rpar;](http://www.techmeme.com/250614/p2#a250614p2)
- - [Sources: the US DOJ is reviewing whether Google&#39;s planned $32B acquisition of cybersecurity company Wiz would illegally limit competition in the market &lpar;Josh Sisco/Bloomberg&rpar;](http://www.techmeme.com/250614/p1#a250614p1)
- - [Harvard releases Institutional Books 1.0, a dataset for AI researchers with 242B tokens, from 394M scanned pages and 983K public domain books in 254 languages &lpar;Matt O&#39;Brien/Associated Press&rpar;](http://www.techmeme.com/250613/p28#a250613p28)<!-- TECH:END -->
+ - [A look at 10 AI agent startups from YC&#39;s first-ever spring Demo Day; the batch included 144 companies, 70 of which focused on agentic AI &lpar;Samantha Stokes/Business Insider&rpar;](http://www.techmeme.com/250614/p3#a250614p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

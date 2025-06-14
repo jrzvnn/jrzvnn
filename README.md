@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Salt Lake City, which faces a staffing shortfall, plans to implement AI-assisted 911 call triaging to handle ~30% of about 450K non-emergency calls per year &lpar;Salt Lake Tribune&rpar;](http://www.techmeme.com/250614/p10#a250614p10)
  - [Sony’s noise-canceling WH-1000XM6 are already on sale with a $30 gift card](https://www.theverge.com/tech/686980/sony-wh-1000xm6-headphones-8bitdo-ultimate-2c-controller-deal-sale)
  - [M2 Mac mini owners with AC power issues can get repairs for free](https://appleinsider.com/articles/25/06/14/m2-mac-mini-owners-with-ac-power-issues-can-get-repairs-for-free?utm_medium=rss)
  - [AI as Your Therapist? 3 Things That Worry Experts and 3 Tips to Stay Safe](https://www.cnet.com/tech/services-and-software/ai-as-your-therapist-3-things-that-worry-experts-and-3-tips-to-stay-safe/#ftag=CAD590a51e)
- - [The 6 Best Latte Machines for Automatic Espresso Drinks &lpar;2025&rpar;](https://www.wired.com/story/best-latte-and-cappuccino-machines/)
- - [Answering the Nintendo Switch 2’s lingering accessibility questions](https://www.theverge.com/nintendo/686591/nintendo-switch-2-accessibility-features-analysis)<!-- TECH:END -->
+ - [The 6 Best Latte Machines for Automatic Espresso Drinks &lpar;2025&rpar;](https://www.wired.com/story/best-latte-and-cappuccino-machines/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

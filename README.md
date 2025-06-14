@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at seven rebuttals to Apple&#39;s paper on limitations of Large Reasoning Models, and why none make a compelling case &lpar;Gary Marcus/Marcus on AI&rpar;](http://www.techmeme.com/250614/p11#a250614p11)
  - [Best Internet Providers in Houston, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-houston-tx/#ftag=CAD590a51e)
  - [Live TV Streaming Channel Face-Off: YouTube TV vs. Hulu Live vs. Sling and More](https://www.cnet.com/tech/services-and-software/live-tv-streaming-channel-faceoff-youtube-tv-vs-hulu-live-vs-sling-more/#ftag=CAD590a51e)
  - [Starlink Speeds Are Improving, But Only 17% of Customers Get the FCC’s Minimum](https://www.cnet.com/home/internet/starlink-speeds-are-improving-but-only-17-percent-of-customers-get-the-fccs-minimum/#ftag=CAD590a51e)
- - [British Comedy Caper Deep Cover is the Perfect Film to Kick Off Cozy-Crime Summer](https://www.cnet.com/tech/services-and-software/british-comedy-caper-deep-cover-is-the-perfect-film-to-kick-off-cozy-crime-summer/#ftag=CAD590a51e)
- - [The Best Water Filter Pitcher for 2025](https://www.cnet.com/news/best-water-filter-pitcher/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [British Comedy Caper Deep Cover is the Perfect Film to Kick Off Cozy-Crime Summer](https://www.cnet.com/tech/services-and-software/british-comedy-caper-deep-cover-is-the-perfect-film-to-kick-off-cozy-crime-summer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

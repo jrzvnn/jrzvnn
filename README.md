@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tern GSD S10 Electric Cargo Bike Review: The Best Little Electric Cargo Bike](https://www.wired.com/review/tern-gsd-s10-3rd-gen/)
+ - [Nintendo Switch 2 review: exactly good enough](https://www.theverge.com/nintendo/686603/nintendo-switch-2-review)
  - [The 5 Best Griddles and Flat-Top Grills of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-griddles-and-flat-top-grills/)
  - [How Chinese AI companies bypass US chip restrictions by transporting hard drives with AI training data to Malaysian data centers housing advanced Nvidia chips &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250614/p8#a250614p8)
- - [The 26 Best Shows on Amazon Prime Right Now &lpar;June 2025&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)
- - [RFK Jr. Orders HHS to Give Undocumented Migrants’ Medicaid Data to DHS](https://www.wired.com/story/rfk-jr-orders-hhs-to-give-undocumented-migrants-medicaid-data-to-dhs/)
- - [My T-Mobile 5G Home Internet Experience: 5 Things I Love and a Few I Don&#39;t](https://www.cnet.com/home/internet/my-t-mobile-5g-home-internet-experience-5-things-i-love-and-a-few-i-dont/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [First Looks at Disneyland Expansion and Disney World&#39;s &#39;Piston Peak&#39; Cars Land](https://www.cnet.com/tech/services-and-software/first-looks-at-disneyland-expansion-and-disney-worlds-piston-peak-cars-land/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

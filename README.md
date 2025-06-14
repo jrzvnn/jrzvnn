@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Respect to Dakota Johnson for making this joke. I may actually watch the movie now, out of solidarity.](http://9gag.com/gag/ary2Kgd)
+ - 😝 [`Ohh Death, become my blade once more...`](http://9gag.com/gag/a6Zj7j8)
+ - 😝 [Driver&#39;s license optional.](http://9gag.com/gag/aW4D8ed)
+ - 💣 [MSRP is/was lower as well...](http://9gag.com/gag/aZZzxQp)
  - 😝 [11A](http://9gag.com/gag/aGyOxLX)
- - 💣 [Punch Machine](http://9gag.com/gag/awyY5yx)
- - 😝 [MSRP is/was lower as well...](http://9gag.com/gag/aZZzxQp)
- - 👉 [`Ohh Death, become my blade once more...`](http://9gag.com/gag/a6Zj7j8)<!-- MEMES:END -->
+ - 👉 [Punch Machine](http://9gag.com/gag/awyY5yx)<!-- MEMES:END -->
 
 ---
 

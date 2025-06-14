@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That winning feeling hits different](http://9gag.com/gag/amopzKj)
+ - 😝 [Playing chess](http://9gag.com/gag/avydLLZ)
  - 😝 [The streamer is in big trouble now](http://9gag.com/gag/azxYAPK)
  - 💣 [`Ohh Death, become my blade once more...`](http://9gag.com/gag/a6Zj7j8)
  - 😝 [Take the W with Ducky One X!](http://9gag.com/gag/avydngX)
- - 👉 [Need to get them checked](http://9gag.com/gag/an7rbqo)<!-- MEMES:END -->
+ - 👉 [Off they go apparently](http://9gag.com/gag/aW4Dm7n)<!-- MEMES:END -->
 
 ---
 

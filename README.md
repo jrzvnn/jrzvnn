@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best daughter](http://9gag.com/gag/azxYAbm)
- - 😝 [That winning feeling hits different](http://9gag.com/gag/amopzKj)
- - 💣 [Who is driving this van?](http://9gag.com/gag/azxYjez)
+ - 😝 [All civilian aircraft have left Ben Gurion Airport.](http://9gag.com/gag/ajPWDww)
+ - 😝 [Florida: `If you throw a brick, a firebomb, or point a gun at one of our deputies, we will be notifying your family where to collect your remains at. Because we will K*LL you, graveyard D*AD. We&#39;re NOT gonna play.`](http://9gag.com/gag/aByOwdZ)
+ - 💣 [Makes sense](http://9gag.com/gag/agmEvQv)
  - 😝 [Take the W with Ducky One X!](http://9gag.com/gag/avydngX)
- - 👉 [Luna, best girl](http://9gag.com/gag/aVvVQov)<!-- MEMES:END -->
+ - 👉 [Watching this glass art come to life is mesmerizing](http://9gag.com/gag/a9yOLXK)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 26 Best Shows on Amazon Prime Right Now &lpar;June 2025&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)
  - [RFK Jr. Orders HHS to Give Undocumented Migrants’ Medicaid Data to DHS](https://www.wired.com/story/rfk-jr-orders-hhs-to-give-undocumented-migrants-medicaid-data-to-dhs/)
  - [My T-Mobile 5G Home Internet Experience: 5 Things I Love and a Few I Don&#39;t](https://www.cnet.com/home/internet/my-t-mobile-5g-home-internet-experience-5-things-i-love-and-a-few-i-dont/#ftag=CAD590a51e)
  - [Trying to Find a Job? In This Economy? You Need to Follow These Rules](https://www.cnet.com/personal-finance/banking/trying-to-find-a-job-in-this-economy-you-need-to-follow-these-rules/#ftag=CAD590a51e)
- - [11 Best Planners: Weekly and Daily Notebooks and Accessories &lpar;2025&rpar;](https://www.wired.com/story/best-paper-planners/)
- - [&#39;Textbook Copyright Infringement&#39;: Disney and Universal Sue AI Image Generator Midjourney](https://www.cnet.com/tech/services-and-software/textbook-copyright-infringement-disney-and-universal-sue-ai-image-generator-midjourney/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [11 Best Planners: Weekly and Daily Notebooks and Accessories &lpar;2025&rpar;](https://www.wired.com/story/best-paper-planners/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

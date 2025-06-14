@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As the world moves toward digital artificiality, Airbnb&#39;s redesign and Apple&#39;s Liquid Glass UI bring back skeuomorphism and dimensionality to digital interfaces &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/250614/p7#a250614p7)
  - [Horizon3.ai, whose AI-based penetration testing platform NodeZero helps find and exploit attack paths in production systems, raised a $100M Series D led by NEA &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250614/p6#a250614p6)
  - [The Ultra Ethernet Consortium, whose members include AMD, Cisco, HPE, and Intel, publishes the 1.0 specification for enhancing Ethernet standards for AI and HPC &lpar;Sean Michael Kerner/Network World&rpar;](http://www.techmeme.com/250614/p5#a250614p5)
  - [Wood Pellet Mills Are Prone to Catching Fire. Why Build Them in California?](https://www.wired.com/story/in-california-a-biomass-companys-expansion-raises-fears-of-more-fires/)
- - [AIM Intelligent Machines, which retrofits heavy construction equipment to operate autonomously, raised $50M from Khosla Ventures, General Catalyst, and others &lpar;Rachyl Jones/Semafor&rpar;](http://www.techmeme.com/250614/p4#a250614p4)
- - [A look at 10 AI agent startups from YC&#39;s first-ever spring Demo Day; the batch included 144 companies, 70 of which focused on agentic AI &lpar;Samantha Stokes/Business Insider&rpar;](http://www.techmeme.com/250614/p3#a250614p3)<!-- TECH:END -->
+ - [AIM Intelligent Machines, which retrofits heavy construction equipment to operate autonomously, raised $50M from Khosla Ventures, General Catalyst, and others &lpar;Rachyl Jones/Semafor&rpar;](http://www.techmeme.com/250614/p4#a250614p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

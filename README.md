@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro is in shock](http://9gag.com/gag/an7rbRq)
- - 😝 [Showtime!](http://9gag.com/gag/an7rbQb)
- - 💣 [That winning feeling hits different](http://9gag.com/gag/amopzKj)
+ - 😝 [That winning feeling hits different](http://9gag.com/gag/amopzKj)
+ - 😝 [The streamer is in big trouble now](http://9gag.com/gag/azxYAPK)
+ - 💣 [`Ohh Death, become my blade once more...`](http://9gag.com/gag/a6Zj7j8)
  - 😝 [Take the W with Ducky One X!](http://9gag.com/gag/avydngX)
  - 👉 [Need to get them checked](http://9gag.com/gag/an7rbqo)<!-- MEMES:END -->
 

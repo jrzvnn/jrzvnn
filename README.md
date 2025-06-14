@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 6 Best Latte Machines for Automatic Espresso Drinks &lpar;2025&rpar;](https://www.wired.com/story/best-latte-and-cappuccino-machines/)
+ - [Answering the Nintendo Switch 2’s lingering accessibility questions](https://www.theverge.com/nintendo/686591/nintendo-switch-2-accessibility-features-analysis)
  - [A profile of Chess.com, which has popularized online chess among pro athletes, as CEO Erik Allebest says the site has over $100M in annual revenue and 35M MAUs &lpar;Ira Boudway/Bloomberg&rpar;](http://www.techmeme.com/250614/p9#a250614p9)
  - [13 Best Laptops of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-laptops/)
- - [6 Best Smart Locks &lpar;2025&rpar; for Front Doors, Slider Doors, and More](https://www.wired.com/story/best-smart-locks/)
- - [Tern GSD S10 Electric Cargo Bike Review: The Best Little Electric Cargo Bike](https://www.wired.com/review/tern-gsd-s10-3rd-gen/)
- - [Getting Beaten by Magic: The Gathering&#39;s Final Fantasy Set Designer Was a Wild Ride](https://www.cnet.com/tech/gaming/getting-beaten-by-magic-the-gatherings-final-fantasy-set-designer-was-a-wild-ride/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [6 Best Smart Locks &lpar;2025&rpar; for Front Doors, Slider Doors, and More](https://www.wired.com/story/best-smart-locks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

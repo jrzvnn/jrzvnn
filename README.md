@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Salt Lake City, which faces a staffing shortfall, plans to implement AI-assisted 911 call triaging to handle ~30% of about 450K non-emergency calls per year &lpar;Salt Lake Tribune&rpar;](http://www.techmeme.com/250614/p10#a250614p10)
- - [Sony’s noise-canceling WH-1000XM6 are already on sale with a $30 gift card](https://www.theverge.com/tech/686980/sony-wh-1000xm6-headphones-8bitdo-ultimate-2c-controller-deal-sale)
- - [M2 Mac mini owners with AC power issues can get repairs for free](https://appleinsider.com/articles/25/06/14/m2-mac-mini-owners-with-ac-power-issues-can-get-repairs-for-free?utm_medium=rss)
- - [AI as Your Therapist? 3 Things That Worry Experts and 3 Tips to Stay Safe](https://www.cnet.com/tech/services-and-software/ai-as-your-therapist-3-things-that-worry-experts-and-3-tips-to-stay-safe/#ftag=CAD590a51e)
- - [The 6 Best Latte Machines for Automatic Espresso Drinks &lpar;2025&rpar;](https://www.wired.com/story/best-latte-and-cappuccino-machines/)<!-- TECH:END -->
+ - [Best Internet Providers in Houston, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-houston-tx/#ftag=CAD590a51e)
+ - [Live TV Streaming Channel Face-Off: YouTube TV vs. Hulu Live vs. Sling and More](https://www.cnet.com/tech/services-and-software/live-tv-streaming-channel-faceoff-youtube-tv-vs-hulu-live-vs-sling-more/#ftag=CAD590a51e)
+ - [Starlink Speeds Are Improving, But Only 17% of Customers Get the FCC’s Minimum](https://www.cnet.com/home/internet/starlink-speeds-are-improving-but-only-17-percent-of-customers-get-the-fccs-minimum/#ftag=CAD590a51e)
+ - [British Comedy Caper Deep Cover is the Perfect Film to Kick Off Cozy-Crime Summer](https://www.cnet.com/tech/services-and-software/british-comedy-caper-deep-cover-is-the-perfect-film-to-kick-off-cozy-crime-summer/#ftag=CAD590a51e)
+ - [The Best Water Filter Pitcher for 2025](https://www.cnet.com/news/best-water-filter-pitcher/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The car door had other plans](http://9gag.com/gag/adBojzN)
- - 😝 [A quiet sense of pride](http://9gag.com/gag/a34bBg5)
+ - 😝 [Playing chess](http://9gag.com/gag/avydLLZ)
+ - 😝 [MSRP is/was lower as well...](http://9gag.com/gag/aZZzxQp)
  - 💣 [Respect to Dakota Johnson for making this joke. I may actually watch the movie now, out of solidarity.](http://9gag.com/gag/ary2Kgd)
  - 😝 [Take the W with Ducky One X!](http://9gag.com/gag/avydngX)
- - 👉 [Complaining about AiR India Boeing 787 quality flights](http://9gag.com/gag/aQzOxyK)<!-- MEMES:END -->
+ - 👉 [Showtime!](http://9gag.com/gag/an7rbQb)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Playing chess](http://9gag.com/gag/avydLLZ)
- - 😝 [The streamer is in big trouble now](http://9gag.com/gag/azxYAPK)
- - 💣 [`Ohh Death, become my blade once more...`](http://9gag.com/gag/a6Zj7j8)
+ - 😝 [Leaving a serious trail behind.](http://9gag.com/gag/a2vLmnD)
+ - 😝 [Lady my milk, come baack](http://9gag.com/gag/a87K40Q)
+ - 💣 [Cluck cluck motherf**ker](http://9gag.com/gag/a5QqbNy)
  - 😝 [Take the W with Ducky One X!](http://9gag.com/gag/avydngX)
- - 👉 [Off they go apparently](http://9gag.com/gag/aW4Dm7n)<!-- MEMES:END -->
+ - 👉 [A year can make all the difference for a rescue dog.](http://9gag.com/gag/a9yOWbm)<!-- MEMES:END -->
 
 ---
 

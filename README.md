@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Hoping it for 11A](http://9gag.com/gag/aKGO2X3)
  - 😝 [The car door had other plans](http://9gag.com/gag/adBojzN)
- - 😝 [`Ohh Death, become my blade once more...`](http://9gag.com/gag/a6Zj7j8)
- - 💣 [Ghostbusters made her look like boy](http://9gag.com/gag/aD2OoeG)
- - 😝 [How to lose your console](http://9gag.com/gag/a0eM5vX)
- - 👉 [Driver&#39;s license optional.](http://9gag.com/gag/aW4D8ed)<!-- MEMES:END -->
+ - 💣 [Sure......](http://9gag.com/gag/aXPKArD)
+ - 😝 [Showtime!](http://9gag.com/gag/an7rbQb)
+ - 👉 [Punch Machine](http://9gag.com/gag/awyY5yx)<!-- MEMES:END -->
 
 ---
 

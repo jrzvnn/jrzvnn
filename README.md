@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All civilian aircraft have left Ben Gurion Airport.](http://9gag.com/gag/ajPWDww)
- - 😝 [Florida: `If you throw a brick, a firebomb, or point a gun at one of our deputies, we will be notifying your family where to collect your remains at. Because we will K*LL you, graveyard D*AD. We&#39;re NOT gonna play.`](http://9gag.com/gag/aByOwdZ)
- - 💣 [Makes sense](http://9gag.com/gag/agmEvQv)
+ - 😝 [Makes sense](http://9gag.com/gag/agmEvQv)
+ - 😝 [That winning feeling hits different](http://9gag.com/gag/amopzKj)
+ - 💣 [Some more animated accidents for you](http://9gag.com/gag/avydLwM)
  - 😝 [Take the W with Ducky One X!](http://9gag.com/gag/avydngX)
- - 👉 [Watching this glass art come to life is mesmerizing](http://9gag.com/gag/a9yOLXK)<!-- MEMES:END -->
+ - 👉 [A girl sneezes 12,000 per day &lpar;if you laugh, you go to hell&rpar;](http://9gag.com/gag/ary2R6p)<!-- MEMES:END -->
 
 ---
 

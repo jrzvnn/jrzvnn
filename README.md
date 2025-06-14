@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Driver&#39;s license optional.](http://9gag.com/gag/aW4D8ed)
- - 😝 [Hoping it for 11A](http://9gag.com/gag/aKGO2X3)
- - 💣 [Respect to Dakota Johnson for making this joke. I may actually watch the movie now, out of solidarity.](http://9gag.com/gag/ary2Kgd)
- - 😝 [11A](http://9gag.com/gag/aGyOxLX)
- - 👉 [Punch Machine](http://9gag.com/gag/awyY5yx)<!-- MEMES:END -->
+ - 😝 [Ghostbusters made her look like boy](http://9gag.com/gag/aD2OoeG)
+ - 😝 [That winning feeling hits different](http://9gag.com/gag/amopzKj)
+ - 💣 [Microsoft saw it coming](http://9gag.com/gag/aO8Rdqy)
+ - 😝 [`Ohh Death, become my blade once more...`](http://9gag.com/gag/a6Zj7j8)
+ - 👉 [The car door had other plans](http://9gag.com/gag/adBojzN)<!-- MEMES:END -->
 
 ---
 

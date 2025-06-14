@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Respect to Dakota Johnson for making this joke. I may actually watch the movie now, out of solidarity.](http://9gag.com/gag/ary2Kgd)
- - 😝 [Lady my milk, come baack](http://9gag.com/gag/a87K40Q)
- - 💣 [Survivor](http://9gag.com/gag/aD2Oood)
+ - 😝 [Tell me more.](http://9gag.com/gag/aMVOwGx)
+ - 😝 [Race](http://9gag.com/gag/an7rKYz)
+ - 💣 [Lady my milk, come baack](http://9gag.com/gag/a87K40Q)
  - 😝 [Take the W with Ducky One X!](http://9gag.com/gag/avydngX)
- - 👉 [Always the Same people\u2026](http://9gag.com/gag/aE0O1vK)<!-- MEMES:END -->
+ - 👉 [A year can make all the difference for a rescue dog.](http://9gag.com/gag/a9yOWbm)<!-- MEMES:END -->
 
 ---
 

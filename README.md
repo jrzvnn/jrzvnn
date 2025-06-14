@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tell me more.](http://9gag.com/gag/aMVOwGx)
- - 😝 [Race](http://9gag.com/gag/an7rKYz)
- - 💣 [Lady my milk, come baack](http://9gag.com/gag/a87K40Q)
+ - 😝 [Hoping it for 11A](http://9gag.com/gag/aKGO2X3)
+ - 😝 [`Ohh Death, become my blade once more...`](http://9gag.com/gag/a6Zj7j8)
+ - 💣 [A man`s man](http://9gag.com/gag/aPA144K)
  - 😝 [Take the W with Ducky One X!](http://9gag.com/gag/avydngX)
- - 👉 [A year can make all the difference for a rescue dog.](http://9gag.com/gag/a9yOWbm)<!-- MEMES:END -->
+ - 👉 [Who is driving this van?](http://9gag.com/gag/azxYjez)<!-- MEMES:END -->
 
 ---
 

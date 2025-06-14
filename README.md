@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Chess.com, which has popularized online chess among pro athletes, as CEO Erik Allebest says the site has over $100M in annual revenue and 35M MAUs &lpar;Ira Boudway/Bloomberg&rpar;](http://www.techmeme.com/250614/p9#a250614p9)
+ - [13 Best Laptops of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-laptops/)
  - [6 Best Smart Locks &lpar;2025&rpar; for Front Doors, Slider Doors, and More](https://www.wired.com/story/best-smart-locks/)
  - [Tern GSD S10 Electric Cargo Bike Review: The Best Little Electric Cargo Bike](https://www.wired.com/review/tern-gsd-s10-3rd-gen/)
- - [Getting Beaten by Magic: The Gathering&#39;s Final Fantasy Set Designer Was a Wild Ride](https://www.cnet.com/tech/gaming/getting-beaten-by-magic-the-gatherings-final-fantasy-set-designer-was-a-wild-ride/#ftag=CAD590a51e)
- - [ChatGPT Glossary: 52 AI Terms Everyone Should Know](https://www.cnet.com/tech/services-and-software/chatgpt-glossary-52-ai-terms-everyone-should-know/#ftag=CAD590a51e)
- - [WWDC Didn&#39;t Excite Me. I Really Need the iPhone 17 to Make a Splash](https://www.cnet.com/tech/mobile/wwdc-didnt-excite-me-i-need-the-iphone-17-launch-to-make-a-splash/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Getting Beaten by Magic: The Gathering&#39;s Final Fantasy Set Designer Was a Wild Ride](https://www.cnet.com/tech/gaming/getting-beaten-by-magic-the-gatherings-final-fantasy-set-designer-was-a-wild-ride/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

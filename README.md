@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hoping it for 11A](http://9gag.com/gag/aKGO2X3)
- - 😝 [`Ohh Death, become my blade once more...`](http://9gag.com/gag/a6Zj7j8)
- - 💣 [A man`s man](http://9gag.com/gag/aPA144K)
+ - 😝 [Best daughter](http://9gag.com/gag/azxYAbm)
+ - 😝 [That winning feeling hits different](http://9gag.com/gag/amopzKj)
+ - 💣 [Who is driving this van?](http://9gag.com/gag/azxYjez)
  - 😝 [Take the W with Ducky One X!](http://9gag.com/gag/avydngX)
- - 👉 [Who is driving this van?](http://9gag.com/gag/azxYjez)<!-- MEMES:END -->
+ - 👉 [Luna, best girl](http://9gag.com/gag/aVvVQov)<!-- MEMES:END -->
 
 ---
 

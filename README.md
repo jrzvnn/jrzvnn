@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Space Shuttle tile defies heat](http://9gag.com/gag/a34bjyQ)
- - 😝 [11A](http://9gag.com/gag/aGyOxLX)
- - 💣 [Driver&#39;s license optional.](http://9gag.com/gag/aW4D8ed)
- - 😝 [Oops.](http://9gag.com/gag/aZZzgBp)
- - 👉 [The little we know](http://9gag.com/gag/a0eMbgZ)<!-- MEMES:END -->
+ - 😝 [Pure Talent](http://9gag.com/gag/abAQpzb)
+ - 😝 [Snow Kitty](http://9gag.com/gag/abAQzZX)
+ - 💣 [Therapist](http://9gag.com/gag/a1mEXG8)
+ - 😝 [My father died today. Arrived in time to speak to him for the last time. Make the most of your time with your parents. Send me your darkest memes for this crazy time. Cheers and fuxx you and see you tomorrow.](http://9gag.com/gag/aE0OR3M)
+ - 👉 [Just wants to be close to dad](http://9gag.com/gag/aYQAL2q)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Leaving a serious trail behind.](http://9gag.com/gag/a2vLmnD)
- - 😝 [Lady my milk, come baack](http://9gag.com/gag/a87K40Q)
- - 💣 [Cluck cluck motherf**ker](http://9gag.com/gag/a5QqbNy)
+ - 😝 [Precisely where the bedroom was](http://9gag.com/gag/adBoXQ2)
+ - 😝 [Who is driving this van?](http://9gag.com/gag/azxYjez)
+ - 💣 [A man`s man](http://9gag.com/gag/aPA144K)
  - 😝 [Take the W with Ducky One X!](http://9gag.com/gag/avydngX)
- - 👉 [A year can make all the difference for a rescue dog.](http://9gag.com/gag/a9yOWbm)<!-- MEMES:END -->
+ - 👉 [MSRP is/was lower as well...](http://9gag.com/gag/aZZzxQp)<!-- MEMES:END -->
 
 ---
 

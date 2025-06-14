@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Suspect in Minnesota Shooting Linked to Security Company, Evangelical Ministry](https://www.wired.com/story/shooting-minnesota-melissa-hortman-vance-boelter/)
+ - [Liquid Glass, New Photos App and All the Other iOS 26 Features Coming to Your iPhone](https://www.cnet.com/tech/services-and-software/liquid-glass-new-photos-app-and-all-the-other-ios-26-features-coming-to-your-iphone/#ftag=CAD590a51e)
+ - [Best Internet Providers in Madison, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-madison-wi/#ftag=CAD590a51e)
  - [Taiwan imposes export controls on Huawei, SMIC, and some of their subsidiaries, restricting their access to tech and equipment necessary for AI chip production &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250614/p12#a250614p12)
- - [A look at seven rebuttals to Apple&#39;s paper on limitations of Large Reasoning Models, and why none make a compelling case &lpar;Gary Marcus/Marcus on AI&rpar;](http://www.techmeme.com/250614/p11#a250614p11)
- - [Best Internet Providers in Houston, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-houston-tx/#ftag=CAD590a51e)
- - [Live TV Streaming Channel Face-Off: YouTube TV vs. Hulu Live vs. Sling and More](https://www.cnet.com/tech/services-and-software/live-tv-streaming-channel-faceoff-youtube-tv-vs-hulu-live-vs-sling-more/#ftag=CAD590a51e)
- - [Starlink Speeds Are Improving, But Only 17% of Customers Get the FCC’s Minimum](https://www.cnet.com/home/internet/starlink-speeds-are-improving-but-only-17-percent-of-customers-get-the-fccs-minimum/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at seven rebuttals to Apple&#39;s paper on limitations of Large Reasoning Models, and why none make a compelling case &lpar;Gary Marcus/Marcus on AI&rpar;](http://www.techmeme.com/250614/p11#a250614p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

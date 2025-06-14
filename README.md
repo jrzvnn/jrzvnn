@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Space Shuttle tile defies heat](http://9gag.com/gag/a34bjyQ)
- - 😝 [One of the best moments of the Olympic Games happened in Beijing 2008](http://9gag.com/gag/an7r14o)
- - 💣 [Where is your God now; she obviously turned that bottle into a mic](http://9gag.com/gag/a9yOWvj)
- - 😝 [Oops.](http://9gag.com/gag/aZZzgBp)
- - 👉 [Punch Machine](http://9gag.com/gag/awyY5yx)<!-- MEMES:END -->
+ - 😝 [Driver&#39;s license optional.](http://9gag.com/gag/aW4D8ed)
+ - 😝 [The car door had other plans](http://9gag.com/gag/adBojzN)
+ - 💣 [Space Shuttle tile defies heat](http://9gag.com/gag/a34bjyQ)
+ - 😝 [A quiet sense of pride](http://9gag.com/gag/a34bBg5)
+ - 👉 [Oops.](http://9gag.com/gag/aZZzgBp)<!-- MEMES:END -->
 
 ---
 

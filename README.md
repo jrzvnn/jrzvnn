@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [RFK Jr. Orders HHS to Give Undocumented Migrants’ Medicaid Data to DHS](https://www.wired.com/story/rfk-jr-orders-hhs-to-give-undocumented-migrants-medicaid-data-to-dhs/)
+ - [My T-Mobile 5G Home Internet Experience: 5 Things I Love and a Few I Don&#39;t](https://www.cnet.com/home/internet/my-t-mobile-5g-home-internet-experience-5-things-i-love-and-a-few-i-dont/#ftag=CAD590a51e)
+ - [Trying to Find a Job? In This Economy? You Need to Follow These Rules](https://www.cnet.com/personal-finance/banking/trying-to-find-a-job-in-this-economy-you-need-to-follow-these-rules/#ftag=CAD590a51e)
  - [11 Best Planners: Weekly and Daily Notebooks and Accessories &lpar;2025&rpar;](https://www.wired.com/story/best-paper-planners/)
- - [Fujifilm&#39;s X-E5, New Bose Speakers, and Qualcomm&#39;s Smart Glasses Chip—Your Gear News of the Week](https://www.wired.com/story/fujifilms-x-e5-new-bose-speakers-and-qualcomms-smart-glasses-chip-your-gear-news-of-the-week/)
- - [Liquid Glass Looks Great, but I&#39;m More Hyped for These Low-Key iOS 26 Features](https://www.cnet.com/tech/services-and-software/liquid-glass-looks-great-but-im-more-hyped-for-these-low-key-ios-26-features/#ftag=CAD590a51e)
- - [You Still Can&#39;t Use Apple Pay at Walmart but You Have Another Digital Wallet Option](https://www.cnet.com/personal-finance/credit-cards/you-still-cant-use-apple-pay-at-walmart-but-you-have-another-digital-wallet-option/#ftag=CAD590a51e)
- - [FIFA Club World Cup 2025: How to Livestream the Soccer Tournament for Free from Anywhere](https://www.cnet.com/tech/services-and-software/fifa-club-world-cup-2025-how-to-livestream-the-soccer-tournament-for-free-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Textbook Copyright Infringement&#39;: Disney and Universal Sue AI Image Generator Midjourney](https://www.cnet.com/tech/services-and-software/textbook-copyright-infringement-disney-and-universal-sue-ai-image-generator-midjourney/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

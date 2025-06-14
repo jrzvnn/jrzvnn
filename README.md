@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Respect to Dakota Johnson for making this joke. I may actually watch the movie now, out of solidarity.](http://9gag.com/gag/ary2Kgd)
- - 😝 [Lady my milk, come baack](http://9gag.com/gag/a87K40Q)
- - 💣 [Hoping it for 11A](http://9gag.com/gag/aKGO2X3)
- - 😝 [Punch Machine](http://9gag.com/gag/awyY5yx)
+ - 😝 [MSRP is/was lower as well...](http://9gag.com/gag/aZZzxQp)
+ - 😝 [Best daughter](http://9gag.com/gag/azxYAbm)
+ - 💣 [Respect to Dakota Johnson for making this joke. I may actually watch the movie now, out of solidarity.](http://9gag.com/gag/ary2Kgd)
+ - 😝 [Driver&#39;s license optional.](http://9gag.com/gag/aW4D8ed)
  - 👉 [Lets try posting again.](http://9gag.com/gag/a34bjw7)<!-- MEMES:END -->
 
 ---

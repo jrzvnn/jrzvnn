@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That winning feeling hits different](http://9gag.com/gag/amopzKj)
- - 😝 [Playing chess](http://9gag.com/gag/avydLLZ)
- - 💣 [Did not see that coming at the car wash.](http://9gag.com/gag/aKGOqYN)
+ - 😝 [Bro is in shock](http://9gag.com/gag/an7rbRq)
+ - 😝 [Showtime!](http://9gag.com/gag/an7rbQb)
+ - 💣 [That winning feeling hits different](http://9gag.com/gag/amopzKj)
  - 😝 [Take the W with Ducky One X!](http://9gag.com/gag/avydngX)
  - 👉 [Need to get them checked](http://9gag.com/gag/an7rbqo)<!-- MEMES:END -->
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Waymo temporarily limits service in SF, Austin, and Atlanta, and stops service in LA, as US cities prepare for protests against federal immigration policies &lpar;Aarian Marshall/Wired&rpar;](http://www.techmeme.com/250614/p2#a250614p2)
  - [Sources: the US DOJ is reviewing whether Google&#39;s planned $32B acquisition of cybersecurity company Wiz would illegally limit competition in the market &lpar;Josh Sisco/Bloomberg&rpar;](http://www.techmeme.com/250614/p1#a250614p1)
  - [Harvard releases Institutional Books 1.0, a dataset for AI researchers with 242B tokens, from 394M scanned pages and 983K public domain books in 254 languages &lpar;Matt O&#39;Brien/Associated Press&rpar;](http://www.techmeme.com/250613/p28#a250613p28)
  - [Canary, which offers hotel guest management tools, raised an $80M Series D led by Brighton Park Capital, valuing the company at about $600M &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/250613/p27#a250613p27)
- - [President Trump&#39;s 2024 financial disclosure report shows he earned ~$57M from his stake in World Liberty Financial and $1.2M from an NFT licensing deal &lpar;New York Times&rpar;](http://www.techmeme.com/250613/p26#a250613p26)
- - [Ellipsis Health, which developed an AI voice agent to check in on patients between doctor visits, raised a $45M Series A led by Salesforce, Khosla, and CVS &lpar;Brian Gormley/Wall Street Journal&rpar;](http://www.techmeme.com/250613/p25#a250613p25)<!-- TECH:END -->
+ - [President Trump&#39;s 2024 financial disclosure report shows he earned ~$57M from his stake in World Liberty Financial and $1.2M from an NFT licensing deal &lpar;New York Times&rpar;](http://www.techmeme.com/250613/p26#a250613p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

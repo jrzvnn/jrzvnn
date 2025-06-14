@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Driver&#39;s license optional.](http://9gag.com/gag/aW4D8ed)
+ - 😝 [Lets try posting again.](http://9gag.com/gag/a34bjw7)
  - 😝 [The car door had other plans](http://9gag.com/gag/adBojzN)
- - 💣 [Lets try posting again.](http://9gag.com/gag/a34bjw7)
- - 😝 [Take the W with Ducky One X!](http://9gag.com/gag/avydngX)
- - 👉 [A quiet sense of pride](http://9gag.com/gag/a34bBg5)<!-- MEMES:END -->
+ - 💣 [Showtime!](http://9gag.com/gag/an7rbQb)
+ - 😝 [Driver&#39;s license optional.](http://9gag.com/gag/aW4D8ed)
+ - 👉 [Complaining about AiR India Boeing 787 quality flights](http://9gag.com/gag/aQzOxyK)<!-- MEMES:END -->
 
 ---
 

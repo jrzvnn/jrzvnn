@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [In an Oxford study, LLMs correctly identified medical conditions 94.9% of the time when given test scenarios directly, vs. 34.5% when prompted by human subjects &lpar;Nick Mokey/VentureBeat&rpar;](http://www.techmeme.com/250614/p13#a250614p13)
- - [Best Internet Providers in Berkeley, California](https://www.cnet.com/home/internet/best-internet-providers-in-berkeley-ca/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 15, #265](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-15-265/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 15, #469](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-15-469/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for June 15, #1457](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-15-1457/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [FIFA Club World Cup Soccer: Stream Al Ahly vs. Inter Miami Live From Anywhere](https://www.cnet.com/tech/services-and-software/fifa-club-world-cup-soccer-stream-al-ahly-vs-inter-miami-live-from-anywhere/#ftag=CAD590a51e)
+ - [I&#39;m a Fiend for Horror and Westerns. Netflix Has One of the Best Genre Mashups Ever Made](https://www.cnet.com/tech/services-and-software/im-a-fiend-for-horror-and-westerns-netflix-has-one-of-the-best-genre-mashups-ever-made/#ftag=CAD590a51e)
+ - [Best Kamado Grill for 2025](https://www.cnet.com/home/yard-and-outdoors/best-kamado-grill/#ftag=CAD590a51e)
+ - [Best Internet Providers in Berkeley, California](https://www.cnet.com/home/internet/best-internet-providers-in-berkeley-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

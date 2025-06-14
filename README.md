@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Ghostbusters made her look like boy](http://9gag.com/gag/aD2OoeG)
  - 😝 [Where is your God now; she obviously turned that bottle into a mic](http://9gag.com/gag/a9yOWvj)
- - 😝 [Sure......](http://9gag.com/gag/aXPKArD)
- - 💣 [Driver&#39;s license optional.](http://9gag.com/gag/aW4D8ed)
- - 😝 [The little we know](http://9gag.com/gag/a0eMbgZ)
- - 👉 [The car door had other plans](http://9gag.com/gag/adBojzN)<!-- MEMES:END -->
+ - 💣 [11A](http://9gag.com/gag/aGyOxLX)
+ - 😝 [Space Shuttle tile defies heat](http://9gag.com/gag/a34bjyQ)
+ - 👉 [The little we know](http://9gag.com/gag/a0eMbgZ)<!-- MEMES:END -->
 
 ---
 

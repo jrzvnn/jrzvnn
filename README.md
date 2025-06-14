@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A man in Brazil claimed he needed to save his four children during a flood. Rescuers later discovered he was actually rescuing his dogs left at home...](http://9gag.com/gag/aGyO16z)
- - 😝 [What a f**king shitshow](http://9gag.com/gag/agmEqd6)
- - 💣 [Pure Talent](http://9gag.com/gag/abAQpzb)
- - 😝 [Cluck cluck motherf**ker](http://9gag.com/gag/a5QqbNy)
- - 👉 [Therapist](http://9gag.com/gag/a1mEXG8)<!-- MEMES:END -->
+ - 😝 [Complaining about AiR India Boeing 787 quality flights](http://9gag.com/gag/aQzOxyK)
+ - 😝 [Florida: `If you throw a brick, a firebomb, or point a gun at one of our deputies, we will be notifying your family where to collect your remains at. Because we will K*LL you, graveyard D*AD. We&#39;re NOT gonna play.`](http://9gag.com/gag/aByOwdZ)
+ - 💣 [Microsoft saw it coming](http://9gag.com/gag/aO8Rdqy)
+ - 😝 [A quiet sense of pride](http://9gag.com/gag/a34bBg5)
+ - 👉 [Punch Machine](http://9gag.com/gag/awyY5yx)<!-- MEMES:END -->
 
 ---
 

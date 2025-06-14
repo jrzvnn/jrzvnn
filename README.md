@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pure Talent](http://9gag.com/gag/abAQpzb)
- - 😝 [Snow Kitty](http://9gag.com/gag/abAQzZX)
- - 💣 [Therapist](http://9gag.com/gag/a1mEXG8)
- - 😝 [My father died today. Arrived in time to speak to him for the last time. Make the most of your time with your parents. Send me your darkest memes for this crazy time. Cheers and fuxx you and see you tomorrow.](http://9gag.com/gag/aE0OR3M)
- - 👉 [Just wants to be close to dad](http://9gag.com/gag/aYQAL2q)<!-- MEMES:END -->
+ - 😝 [Space Shuttle tile defies heat](http://9gag.com/gag/a34bjyQ)
+ - 😝 [One of the best moments of the Olympic Games happened in Beijing 2008](http://9gag.com/gag/an7r14o)
+ - 💣 [Where is your God now; she obviously turned that bottle into a mic](http://9gag.com/gag/a9yOWvj)
+ - 😝 [Oops.](http://9gag.com/gag/aZZzgBp)
+ - 👉 [Punch Machine](http://9gag.com/gag/awyY5yx)<!-- MEMES:END -->
 
 ---
 

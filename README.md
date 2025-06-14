@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [6 Best Smart Locks &lpar;2025&rpar; for Front Doors, Slider Doors, and More](https://www.wired.com/story/best-smart-locks/)
  - [Tern GSD S10 Electric Cargo Bike Review: The Best Little Electric Cargo Bike](https://www.wired.com/review/tern-gsd-s10-3rd-gen/)
- - [Nintendo Switch 2 review: exactly good enough](https://www.theverge.com/nintendo/686603/nintendo-switch-2-review)
- - [The 5 Best Griddles and Flat-Top Grills of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-griddles-and-flat-top-grills/)
- - [How Chinese AI companies bypass US chip restrictions by transporting hard drives with AI training data to Malaysian data centers housing advanced Nvidia chips &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250614/p8#a250614p8)
- - [First Looks at Disneyland Expansion and Disney World&#39;s &#39;Piston Peak&#39; Cars Land](https://www.cnet.com/tech/services-and-software/first-looks-at-disneyland-expansion-and-disney-worlds-piston-peak-cars-land/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Getting Beaten by Magic: The Gathering&#39;s Final Fantasy Set Designer Was a Wild Ride](https://www.cnet.com/tech/gaming/getting-beaten-by-magic-the-gatherings-final-fantasy-set-designer-was-a-wild-ride/#ftag=CAD590a51e)
+ - [ChatGPT Glossary: 52 AI Terms Everyone Should Know](https://www.cnet.com/tech/services-and-software/chatgpt-glossary-52-ai-terms-everyone-should-know/#ftag=CAD590a51e)
+ - [WWDC Didn&#39;t Excite Me. I Really Need the iPhone 17 to Make a Splash](https://www.cnet.com/tech/mobile/wwdc-didnt-excite-me-i-need-the-iphone-17-launch-to-make-a-splash/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

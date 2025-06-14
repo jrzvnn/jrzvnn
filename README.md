@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [&quot;He didn&#39;t choose the tux life, the tux life chose him.&quot;](https://www.reddit.com/r/funny/comments/1lb6k89/he_didnt_choose_the_tux_life_the_tux_life_chose/)
  - 😝 [MSRP is/was lower as well...](http://9gag.com/gag/aZZzxQp)
- - 😝 [Best daughter](http://9gag.com/gag/azxYAbm)
- - 💣 [Respect to Dakota Johnson for making this joke. I may actually watch the movie now, out of solidarity.](http://9gag.com/gag/ary2Kgd)
- - 😝 [Driver&#39;s license optional.](http://9gag.com/gag/aW4D8ed)
- - 👉 [Lets try posting again.](http://9gag.com/gag/a34bjw7)<!-- MEMES:END -->
+ - 💣 [Best daughter](http://9gag.com/gag/azxYAbm)
+ - 😝 [Respect to Dakota Johnson for making this joke. I may actually watch the movie now, out of solidarity.](http://9gag.com/gag/ary2Kgd)
+ - 👉 [Driver&#39;s license optional.](http://9gag.com/gag/aW4D8ed)<!-- MEMES:END -->
 
 ---
 

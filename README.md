@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This dog knows how to make your day better](http://9gag.com/gag/aGyOePX)
- - 😝 [Snow Kitty](http://9gag.com/gag/abAQzZX)
- - 💣 [My father died today. Arrived in time to speak to him for the last time. Make the most of your time with your parents. Send me your darkest memes for this crazy time. Cheers and fuxx you and see you tomorrow.](http://9gag.com/gag/aE0OR3M)
- - 😝 [Just wants to be close to dad](http://9gag.com/gag/aYQAL2q)
- - 👉 [True wealth is measured in small hands holding onto your leg.](http://9gag.com/gag/abAQzEL)<!-- MEMES:END -->
+ - 😝 [That winning feeling hits different](http://9gag.com/gag/amopzKj)
+ - 😝 [Microsoft saw it coming](http://9gag.com/gag/aO8Rdqy)
+ - 💣 [Oops.](http://9gag.com/gag/aZZzgBp)
+ - 😝 [Punch Machine](http://9gag.com/gag/awyY5yx)
+ - 👉 [Driver&#39;s license optional.](http://9gag.com/gag/aW4D8ed)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Austin-based Autonomize AI, which develops AI agents for automating administrative workflows in healthcare and life sciences, raised a $28M Series A &lpar;Axios&rpar;](http://www.techmeme.com/250615/p6#a250615p6)
+ - [Pactum, which helps companies automate supplier negotiations with AI and secure more favorable contractual terms, raised a $54M Series C led by Insight Partners &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250615/p5#a250615p5)
  - [London-based Noah, which is developing API-focused stablecoin infrastructure to enable real-time cross-border payments, raised a $22M seed led by LocalGlobe &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250615/p4#a250615p4)
  - [Miami-based Guardz, which offers a detection and response service for managed service providers protecting SMBs, raised a $56M Series B led by ClearSky &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250615/p3#a250615p3)
- - [Amazon plans to invest ~$13B in Australia from 2025 to 2029 to develop its data center infrastructure, as demand for cloud computing and AI grows in the country &lpar;Ainslie Chandler/Bloomberg&rpar;](http://www.techmeme.com/250615/p2#a250615p2)
- - [Filings: Bengaluru-based fintech Cred, which offers rewards for paying credit card bills and more, raised ~$72M at a $3.5B valuation, down from $6.4B in 2022 &lpar;The Economic Times&rpar;](http://www.techmeme.com/250615/p1#a250615p1)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, June 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-june-15/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon plans to invest ~$13B in Australia from 2025 to 2029 to develop its data center infrastructure, as demand for cloud computing and AI grows in the country &lpar;Ainslie Chandler/Bloomberg&rpar;](http://www.techmeme.com/250615/p2#a250615p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

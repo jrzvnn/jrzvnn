@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a NPC](http://9gag.com/gag/aYQAYe2)
- - 😝 [Men are simple creatures](http://9gag.com/gag/aGyOZKz)
- - 💣 [Asking the important questions, their reactions are priceless.](http://9gag.com/gag/an7rMN0)
- - 😝 [I like animals that look like they have information](http://9gag.com/gag/an7r5XB)
- - 👉 [Everyone has two wolves inside them, and one of mine believes in reincarnation.](http://9gag.com/gag/apRYm0D)<!-- MEMES:END -->
+ - 😝 [Chinese wood](http://9gag.com/gag/aXPKY96)
+ - 😝 [Military training can be full of surprises.](http://9gag.com/gag/a34bKGv)
+ - 💣 [Oops.](http://9gag.com/gag/aZZzgBp)
+ - 😝 [Remembering David Vetter, the boy who lived in a sterile environment due to a rare immune deficiency.](http://9gag.com/gag/aXPKqn9)
+ - 👉 [How to lose your console](http://9gag.com/gag/a0eM5vX)<!-- MEMES:END -->
 
 ---
 

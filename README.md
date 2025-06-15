@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My father died today. Arrived in time to speak to him for the last time. Make the most of your time with your parents. Send me your darkest memes for this crazy time. Cheers and fuxx you and see you tomorrow.](http://9gag.com/gag/aE0OR3M)
- - 😝 [Snow Kitty](http://9gag.com/gag/abAQzZX)
- - 💣 [Therapist](http://9gag.com/gag/a1mEXG8)
- - 😝 [Just wants to be close to dad](http://9gag.com/gag/aYQAL2q)
- - 👉 [How to lose your console](http://9gag.com/gag/a0eM5vX)<!-- MEMES:END -->
+ - 😝 [You can see the white guilt leaving her body...](http://9gag.com/gag/aD2OWMG)
+ - 😝 [What lesson did you learn from this](http://9gag.com/gag/aXPKq2v)
+ - 💣 [How to lose your console](http://9gag.com/gag/a0eM5vX)
+ - 😝 [Microsoft saw it coming](http://9gag.com/gag/aO8Rdqy)
+ - 👉 [Driver&#39;s license optional.](http://9gag.com/gag/aW4D8ed)<!-- MEMES:END -->
 
 ---
 

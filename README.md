@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dealogic: tech deals accounted for $421B of the $1.67T in global deals announced in the first five months of 2025, with 75% of tech M&amp;A involving AI software &lpar;Milana Vinn/Reuters&rpar;](http://www.techmeme.com/250615/p11#a250615p11)
  - [M2 Mac mini owners with AC power issues can get repairs for free](https://appleinsider.com/articles/25/06/14/m2-mac-mini-owners-with-ac-power-issues-can-get-repairs-for-free?utm_medium=rss)
  - [The 14 Best TVs We’ve Reviewed, Plus Buying Advice &lpar;2025&rpar;](https://www.wired.com/gallery/best-tvs/)
  - [Norbauer Seneca review: a $3,600 luxury keyboard for the keyboard obsessed](https://www.theverge.com/reviews/659125/norbauer-seneca-review-luxury-capacitive-keyboard)
- - [How to build the best keyboard in the world](https://www.theverge.com/tech/686441/norbauer-seneca-keyboard-creator)
- - [I Asked 5 Pro Chefs About Their Least Favorite Kitchen Tools. They Didn&#39;t Hold Back](https://www.cnet.com/news/i-asked-5-pro-chefs-about-their-least-favorite-kitchen-gadgets-they-didnt-hold-back/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to build the best keyboard in the world](https://www.theverge.com/tech/686441/norbauer-seneca-keyboard-creator)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

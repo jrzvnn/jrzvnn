@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Just wondering](http://9gag.com/gag/an7ryVV)
  - 😝 [That package better be good.](http://9gag.com/gag/aKGOjEg)
- - 😝 [A RU Air Force Su-25 pilot accidentally shot down his wingman with unguided rockets. &lpar;video on comments&rpar;](http://9gag.com/gag/abAQ6Rb)
  - 💣 [What women say vs what they want](http://9gag.com/gag/aGyO1Xn)
- - 😝 [You can see the white guilt leaving her body...](http://9gag.com/gag/aD2OWMG)
- - 👉 [Microsoft saw it coming](http://9gag.com/gag/aO8Rdqy)<!-- MEMES:END -->
+ - 😝 [How to lose your console](http://9gag.com/gag/a0eM5vX)
+ - 👉 [Punch Machine](http://9gag.com/gag/awyY5yx)<!-- MEMES:END -->
 
 ---
 

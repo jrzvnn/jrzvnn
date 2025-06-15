@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [A look at Apple&#39;s upgrades to CarPlay, iPadOS, and visionOS, and the new Liquid Glass redesign of its operating systems announced at WWDC &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250615/p13#a250615p13)
  - [New York City-based Abacum, which offers AI-powered financial planning and analysis tools to companies, raised a $60B Series B led by Scale Venture Partners &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250615/p12#a250615p12)
+ - [The 34 Absolute Best Shows to Watch on Prime Video](https://www.cnet.com/tech/services-and-software/best-series-on-prime-video-june-2025/#ftag=CAD590a51e)
  - [Apple now expected to unveil HomeOS, related hardware ahead of 2026 WWDC](https://appleinsider.com/articles/25/06/15/apple-now-expected-to-unveil-homeos-related-hardware-ahead-of-2026-wwdc?utm_medium=rss)
- - [Best Internet Providers in Charlotte, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-charlotte-nc/#ftag=CAD590a51e)
- - [Dealogic: tech deals accounted for $421B of the $1.67T in global deals announced in the first five months of 2025, with 75% of tech M&amp;A involving AI software &lpar;Milana Vinn/Reuters&rpar;](http://www.techmeme.com/250615/p11#a250615p11)<!-- TECH:END -->
+ - [Best Internet Providers in Charlotte, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-charlotte-nc/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

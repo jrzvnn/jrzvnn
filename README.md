@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [London-based Noah, which is developing API-focused stablecoin infrastructure to enable real-time cross-border payments, raised a $22M seed led by LocalGlobe &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250615/p4#a250615p4)
  - [Miami-based Guardz, which offers a detection and response service for managed service providers protecting SMBs, raised a $56M Series B led by ClearSky &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250615/p3#a250615p3)
  - [Amazon plans to invest ~$13B in Australia from 2025 to 2029 to develop its data center infrastructure, as demand for cloud computing and AI grows in the country &lpar;Ainslie Chandler/Bloomberg&rpar;](http://www.techmeme.com/250615/p2#a250615p2)
  - [Filings: Bengaluru-based fintech Cred, which offers rewards for paying credit card bills and more, raised ~$72M at a $3.5B valuation, down from $6.4B in 2022 &lpar;The Economic Times&rpar;](http://www.techmeme.com/250615/p1#a250615p1)
- - [Tanks, guns and face-painting](https://www.theverge.com/politics/687301/trump-military-parade-army-birthday-washington-dc)
- - [New York State passes a bill mandating safety and transparency requirements for frontier AI models; it awaits Governor Hochul&#39;s signature &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250614/p15#a250614p15)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, June 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-june-15/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

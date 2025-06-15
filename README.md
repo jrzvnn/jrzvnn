@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nolah Evolution Hybrid Mattress Review: A Jack of All Trades](https://www.wired.com/review/nolah-evolution-mattress/)
- - [Would you switch browsers for a chatbot?](https://www.theverge.com/installer-newsletter/687068/dia-browser-snapseed-f1-installer)
- - [Crime blotter: Los Angeles, retrievals, and a suspended air crew](https://appleinsider.com/articles/25/06/15/crime-blotter-los-angeles-retrievals-and-a-suspended-air-crew?utm_medium=rss)
- - [The Mysterious Inner Workings of Io, Jupiter’s Volcanic Moon](https://www.wired.com/story/whats-going-on-inside-io-jupiters-volcanic-moon/)
- - [What Is Raspberry Pi and How Can I Use It for My Home Internet?](https://www.cnet.com/home/internet/how-can-you-use-raspberry-pi-for-home-internet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [M2 Mac mini owners with AC power issues can get repairs for free](https://appleinsider.com/articles/25/06/14/m2-mac-mini-owners-with-ac-power-issues-can-get-repairs-for-free?utm_medium=rss)
+ - [The 14 Best TVs We’ve Reviewed, Plus Buying Advice &lpar;2025&rpar;](https://www.wired.com/gallery/best-tvs/)
+ - [Norbauer Seneca review: a $3,600 luxury keyboard for the keyboard obsessed](https://www.theverge.com/reviews/659125/norbauer-seneca-review-luxury-capacitive-keyboard)
+ - [How to build the best keyboard in the world](https://www.theverge.com/tech/686441/norbauer-seneca-keyboard-creator)
+ - [I Asked 5 Pro Chefs About Their Least Favorite Kitchen Tools. They Didn&#39;t Hold Back](https://www.cnet.com/news/i-asked-5-pro-chefs-about-their-least-favorite-kitchen-gadgets-they-didnt-hold-back/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That winning feeling hits different](http://9gag.com/gag/amopzKj)
- - 😝 [Microsoft saw it coming](http://9gag.com/gag/aO8Rdqy)
- - 💣 [Oops.](http://9gag.com/gag/aZZzgBp)
- - 😝 [Punch Machine](http://9gag.com/gag/awyY5yx)
- - 👉 [Driver&#39;s license optional.](http://9gag.com/gag/aW4D8ed)<!-- MEMES:END -->
+ - 😝 [Florida: `If you throw a brick, a firebomb, or point a gun at one of our deputies, we will be notifying your family where to collect your remains at. Because we will K*LL you, graveyard D*AD. We&#39;re NOT gonna play.`](http://9gag.com/gag/aByOwdZ)
+ - 😝 [Sure......](http://9gag.com/gag/aXPKArD)
+ - 💣 [You can see the white guilt leaving her body...](http://9gag.com/gag/aD2OWMG)
+ - 😝 [Driver&#39;s license optional.](http://9gag.com/gag/aW4D8ed)
+ - 👉 [Where is your God now; she obviously turned that bottle into a mic](http://9gag.com/gag/a9yOWvj)<!-- MEMES:END -->
 
 ---
 

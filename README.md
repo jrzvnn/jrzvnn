@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hoping it for 11A](http://9gag.com/gag/aKGO2X3)
- - 😝 [Antonov ignores crosswind warning.](http://9gag.com/gag/aYQAxEv)
- - 💣 [You can see the white guilt leaving her body...](http://9gag.com/gag/aD2OWMG)
- - 😝 [Just wondering](http://9gag.com/gag/an7ryVV)
- - 👉 [What women say vs what they want](http://9gag.com/gag/aGyO1Xn)<!-- MEMES:END -->
+ - 😝 [True wealth is measured in small hands holding onto your leg.](http://9gag.com/gag/abAQzEL)
+ - 😝 [That Look](http://9gag.com/gag/aYQAYbV)
+ - 💣 [Men are simple creatures](http://9gag.com/gag/aGyOZKz)
+ - 😝 [So much for women&#39;s intuition.](http://9gag.com/gag/aPA1jdw)
+ - 👉 [Saab was living in 2090 back in 1990](http://9gag.com/gag/aLndg0z)<!-- MEMES:END -->
 
 ---
 

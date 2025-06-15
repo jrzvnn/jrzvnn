@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to lose your console](http://9gag.com/gag/a0eM5vX)
+ - 😝 [He didn&#39;t even flinch](http://9gag.com/gag/aMVOjP1)
  - 😝 [Just a NPC](http://9gag.com/gag/aYQAYe2)
- - 💣 [Chinese wood](http://9gag.com/gag/aXPKY96)
- - 😝 [Military training can be full of surprises.](http://9gag.com/gag/a34bKGv)
- - 👉 [Skyscraper fire in Dubai](http://9gag.com/gag/aD2Ox1O)<!-- MEMES:END -->
+ - 💣 [That package better be good.](http://9gag.com/gag/aKGOjEg)
+ - 😝 [Remembering David Vetter, the boy who lived in a sterile environment due to a rare immune deficiency.](http://9gag.com/gag/aXPKqn9)
+ - 👉 [Chinese wood](http://9gag.com/gag/aXPKY96)<!-- MEMES:END -->
 
 ---
 

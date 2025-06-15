@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Covid-19 Changed Hideo Kojima’s Vision for ‘Death Stranding 2’](https://www.wired.com/story/how-covid-19-changed-hideo-kojimas-vision-for-death-stranding-2/)
  - [Anthropic details how it built its multi-agent Claude Research system, claiming significant improvements in internal evaluations over single-agent systems &lpar;Anthropic&rpar;](http://www.techmeme.com/250615/p10#a250615p10)
  - [Laptop Buying Guide &lpar;2025&rpar;: How to Choose the Right PC &lpar;Step-by-Step Guide&rpar;](https://www.wired.com/story/how-to-buy-the-right-laptop-for-you/)
  - [Kitchen Feeling Like a Sauna? 8 Ways to Stay Cool While Cooking This Summer](https://www.cnet.com/home/smart-home/kitchen-feeling-like-a-sauna-8-ways-to-stay-cool-while-cooking-this-summer/#ftag=CAD590a51e)
- - [Researchers find Llama 3.1 recalls large parts of popular copyrighted books, possibly weakening AI industry claims that such memorization is fringe behavior &lpar;Timothy B. Lee/Understanding AI&rpar;](http://www.techmeme.com/250615/p9#a250615p9)
- - [Berlin-based Payrails, whose platform helps enterprises accept payments, issue payouts, and more, raised a $32M Series A, taking its total funding to $52.8M+ &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/250615/p8#a250615p8)<!-- TECH:END -->
+ - [Researchers find Llama 3.1 recalls large parts of popular copyrighted books, possibly weakening AI industry claims that such memorization is fringe behavior &lpar;Timothy B. Lee/Understanding AI&rpar;](http://www.techmeme.com/250615/p9#a250615p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

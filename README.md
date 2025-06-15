@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lets try posting again.](http://9gag.com/gag/a34bjw7)
- - 😝 [You can see the white guilt leaving her body...](http://9gag.com/gag/aD2OWMG)
- - 💣 [Microsoft saw it coming](http://9gag.com/gag/aO8Rdqy)
+ - 😝 [How to lose your console](http://9gag.com/gag/a0eM5vX)
+ - 😝 [Scottish reporter tricked into wearing protective gear for `Drop bear` in South Australia](http://9gag.com/gag/aW4DM5A)
+ - 💣 [You can see the white guilt leaving her body...](http://9gag.com/gag/aD2OWMG)
  - 😝 [Punch Machine](http://9gag.com/gag/awyY5yx)
- - 👉 [Where is your God now; she obviously turned that bottle into a mic](http://9gag.com/gag/a9yOWvj)<!-- MEMES:END -->
+ - 👉 [Space Shuttle tile defies heat](http://9gag.com/gag/a34bjyQ)<!-- MEMES:END -->
 
 ---
 

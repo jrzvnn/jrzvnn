@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Hoping it for 11A](http://9gag.com/gag/aKGO2X3)
- - 😝 [Complaining about AiR India Boeing 787 quality flights](http://9gag.com/gag/aQzOxyK)
- - 💣 [Space Shuttle tile defies heat](http://9gag.com/gag/a34bjyQ)
  - 😝 [How to lose your console](http://9gag.com/gag/a0eM5vX)
- - 👉 [Where is your God now; she obviously turned that bottle into a mic](http://9gag.com/gag/a9yOWvj)<!-- MEMES:END -->
+ - 💣 [Scottish reporter tricked into wearing protective gear for `Drop bear` in South Australia](http://9gag.com/gag/aW4DM5A)
+ - 😝 [You can see the white guilt leaving her body...](http://9gag.com/gag/aD2OWMG)
+ - 👉 [Space Shuttle tile defies heat](http://9gag.com/gag/a34bjyQ)<!-- MEMES:END -->
 
 ---
 

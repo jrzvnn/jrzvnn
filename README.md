@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Best Bird Feeders With Cameras, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-smart-bird-feeders/)
  - [Dygma Raise 2 review: A split keyboard with a hefty price](https://appleinsider.com/articles/25/06/15/dygma-raise-2-review-a-split-keyboard-with-a-hefty-price?utm_medium=rss)
- - [The US SEC rescinds 14 rules the agency proposed under the Biden Administration, including two relating to DeFi and digital asset custody &lpar;Martin Young/Cointelegraph&rpar;](http://www.techmeme.com/250615/p17#a250615p17)
- - [NYC-based Zorro, whose AI-powered software helps clients&#39; workers navigate health insurance and benefits options, raised a $20M Series A led by Entrée Capital &lpar;Erin Brodwin/Axios&rpar;](http://www.techmeme.com/250615/p16#a250615p16)
- - [Best Internet Providers in San Antonio, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-san-antonio-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 16, #470](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-16-470/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for June 16, #1458](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-16-1458/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 16, #736](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-16-736/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

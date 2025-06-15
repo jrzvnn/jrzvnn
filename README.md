@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The little we know](http://9gag.com/gag/a0eMbgZ)
- - 😝 [Punch Machine](http://9gag.com/gag/awyY5yx)
- - 💣 [Where is your God now; she obviously turned that bottle into a mic](http://9gag.com/gag/a9yOWvj)
- - 😝 [Scottish reporter tricked into wearing protective gear for `Drop bear` in South Australia](http://9gag.com/gag/aW4DM5A)
- - 👉 [How to lose your console](http://9gag.com/gag/a0eM5vX)<!-- MEMES:END -->
+ - 😝 [Hoping it for 11A](http://9gag.com/gag/aKGO2X3)
+ - 😝 [Complaining about AiR India Boeing 787 quality flights](http://9gag.com/gag/aQzOxyK)
+ - 💣 [Space Shuttle tile defies heat](http://9gag.com/gag/a34bjyQ)
+ - 😝 [How to lose your console](http://9gag.com/gag/a0eM5vX)
+ - 👉 [Where is your God now; she obviously turned that bottle into a mic](http://9gag.com/gag/a9yOWvj)<!-- MEMES:END -->
 
 ---
 

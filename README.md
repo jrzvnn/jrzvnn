@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filings: Bengaluru-based fintech Cred, which offers rewards for paying credit card bills and more, raised ~$72M at a $3.5B valuation, down from $6.4B in 2022 &lpar;The Economic Times&rpar;](http://www.techmeme.com/250615/p1#a250615p1)
  - [Tanks, guns and face-painting](https://www.theverge.com/politics/687301/trump-military-parade-army-birthday-washington-dc)
  - [New York State passes a bill mandating safety and transparency requirements for frontier AI models; it awaits Governor Hochul&#39;s signature &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250614/p15#a250614p15)
  - [No Kings: protests in the eye of the storm](https://www.theverge.com/policy/687195/no-kings-trump-parade-protests)
- - [Statista: the global influencer marketing industry is projected to grow 36% between 2024 and 2025, reaching $33B, as brands tighten overall ad budgets &lpar;Bloomberg&rpar;](http://www.techmeme.com/250614/p14#a250614p14)
- - [In an Oxford study, LLMs correctly identified medical conditions 94.9% of the time when given test scenarios directly, vs. 34.5% when prompted by human subjects &lpar;Nick Mokey/VentureBeat&rpar;](http://www.techmeme.com/250614/p13#a250614p13)<!-- TECH:END -->
+ - [Statista: the global influencer marketing industry is projected to grow 36% between 2024 and 2025, reaching $33B, as brands tighten overall ad budgets &lpar;Bloomberg&rpar;](http://www.techmeme.com/250614/p14#a250614p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

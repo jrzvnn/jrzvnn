@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Berlin-based Payrails, whose platform helps enterprises accept payments, issue payouts, and more, raised a $32M Series A, taking its total funding to $52.8M+ &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/250615/p8#a250615p8)
+ - [Bedrock Ocean, which has developed an autonomous underwater vehicle to map the ocean floor using sonar and magnetic sensors, raised a $25M Series A-2 &lpar;Tim De Chant/TechCrunch&rpar;](http://www.techmeme.com/250615/p7#a250615p7)
  - [Austin-based Autonomize AI, which develops AI agents for automating administrative workflows in healthcare and life sciences, raised a $28M Series A &lpar;Axios&rpar;](http://www.techmeme.com/250615/p6#a250615p6)
  - [Pactum, which helps companies automate supplier negotiations with AI and secure more favorable contractual terms, raised a $54M Series C led by Insight Partners &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250615/p5#a250615p5)
- - [London-based Noah, which is developing API-focused stablecoin infrastructure to enable real-time cross-border payments, raised a $22M seed led by LocalGlobe &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250615/p4#a250615p4)
- - [Miami-based Guardz, which offers a detection and response service for managed service providers protecting SMBs, raised a $56M Series B led by ClearSky &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250615/p3#a250615p3)
- - [Amazon plans to invest ~$13B in Australia from 2025 to 2029 to develop its data center infrastructure, as demand for cloud computing and AI grows in the country &lpar;Ainslie Chandler/Bloomberg&rpar;](http://www.techmeme.com/250615/p2#a250615p2)<!-- TECH:END -->
+ - [London-based Noah, which is developing API-focused stablecoin infrastructure to enable real-time cross-border payments, raised a $22M seed led by LocalGlobe &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250615/p4#a250615p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

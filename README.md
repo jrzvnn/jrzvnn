@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They dont know Styropyro](http://9gag.com/gag/a1mEo6D)
- - 😝 [What women say vs what they want](http://9gag.com/gag/aGyO1Xn)
- - 💣 [The little we know](http://9gag.com/gag/a0eMbgZ)
- - 😝 [Editors at PC Gamer = very angry!](http://9gag.com/gag/an7r9g5)
- - 👉 [Remembering David Vetter, the boy who lived in a sterile environment due to a rare immune deficiency.](http://9gag.com/gag/aXPKqn9)<!-- MEMES:END -->
+ - 😝 [You can see the white guilt leaving her body...](http://9gag.com/gag/aD2OWMG)
+ - 😝 [The little we know](http://9gag.com/gag/a0eMbgZ)
+ - 💣 [Chinese wood](http://9gag.com/gag/aXPKY96)
+ - 😝 [Girl scouts?](http://9gag.com/gag/aQzO9Yq)
+ - 👉 [What women say vs what they want](http://9gag.com/gag/aGyO1Xn)<!-- MEMES:END -->
 
 ---
 

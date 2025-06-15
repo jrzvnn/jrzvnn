@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a NPC](http://9gag.com/gag/aYQAYe2)
- - 😝 [You can see the white guilt leaving her body...](http://9gag.com/gag/aD2OWMG)
- - 💣 [Chinese wood](http://9gag.com/gag/aXPKY96)
- - 😝 [Antonov ignores crosswind warning.](http://9gag.com/gag/aYQAxEv)
- - 👉 [Angels don\u2019t exis\u2026.](http://9gag.com/gag/a1mERA8)<!-- MEMES:END -->
+ - 😝 [Chinese wood](http://9gag.com/gag/aXPKY96)
+ - 😝 [I don&#39;t get it...](http://9gag.com/gag/aZZz3Kz)
+ - 💣 [Gottem](http://9gag.com/gag/aVvV34O)
+ - 😝 [They dont know Styropyro](http://9gag.com/gag/a1mEo6D)
+ - 👉 [Military training can be full of surprises.](http://9gag.com/gag/a34bKGv)<!-- MEMES:END -->
 
 ---
 

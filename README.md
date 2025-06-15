@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He didn&#39;t even flinch](http://9gag.com/gag/aMVOjP1)
- - 😝 [Just a NPC](http://9gag.com/gag/aYQAYe2)
- - 💣 [That package better be good.](http://9gag.com/gag/aKGOjEg)
  - 😝 [Remembering David Vetter, the boy who lived in a sterile environment due to a rare immune deficiency.](http://9gag.com/gag/aXPKqn9)
- - 👉 [Chinese wood](http://9gag.com/gag/aXPKY96)<!-- MEMES:END -->
+ - 😝 [My dude saw his life pass before his eyes](http://9gag.com/gag/adBo7n9)
+ - 💣 [Bone Museum](http://9gag.com/gag/a0eM58z)
+ - 😝 [They dont know Styropyro](http://9gag.com/gag/a1mEo6D)
+ - 👉 [Pottery never been so interesting lately](http://9gag.com/gag/aQzO9Dw)<!-- MEMES:END -->
 
 ---
 

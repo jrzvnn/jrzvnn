@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chinese wood](http://9gag.com/gag/aXPKY96)
- - 😝 [I don&#39;t get it...](http://9gag.com/gag/aZZz3Kz)
- - 💣 [Gottem](http://9gag.com/gag/aVvV34O)
+ - 😝 [That package better be good.](http://9gag.com/gag/aKGOjEg)
+ - 😝 [Bone Museum](http://9gag.com/gag/a0eM58z)
+ - 💣 [Chinese wood](http://9gag.com/gag/aXPKY96)
  - 😝 [They dont know Styropyro](http://9gag.com/gag/a1mEo6D)
- - 👉 [Military training can be full of surprises.](http://9gag.com/gag/a34bKGv)<!-- MEMES:END -->
+ - 👉 [How to lose your console](http://9gag.com/gag/a0eM5vX)<!-- MEMES:END -->
 
 ---
 

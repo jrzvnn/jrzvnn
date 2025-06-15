@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remembering David Vetter, the boy who lived in a sterile environment due to a rare immune deficiency.](http://9gag.com/gag/aXPKqn9)
- - 😝 [My dude saw his life pass before his eyes](http://9gag.com/gag/adBo7n9)
- - 💣 [Bone Museum](http://9gag.com/gag/a0eM58z)
- - 😝 [They dont know Styropyro](http://9gag.com/gag/a1mEo6D)
- - 👉 [Pottery never been so interesting lately](http://9gag.com/gag/aQzO9Dw)<!-- MEMES:END -->
+ - 😝 [So much for women&#39;s intuition.](http://9gag.com/gag/aPA1jdw)
+ - 😝 [That Look](http://9gag.com/gag/aYQAYbV)
+ - 💣 [Just a NPC](http://9gag.com/gag/aYQAYe2)
+ - 😝 [Men are simple creatures](http://9gag.com/gag/aGyOZKz)
+ - 👉 [Asking the important questions, their reactions are priceless.](http://9gag.com/gag/an7rMN0)<!-- MEMES:END -->
 
 ---
 

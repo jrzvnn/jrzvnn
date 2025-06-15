@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nolah Evolution Hybrid Mattress Review: A Jack of All Trades](https://www.wired.com/review/nolah-evolution-mattress/)
+ - [Would you switch browsers for a chatbot?](https://www.theverge.com/installer-newsletter/687068/dia-browser-snapseed-f1-installer)
  - [Crime blotter: Los Angeles, retrievals, and a suspended air crew](https://appleinsider.com/articles/25/06/15/crime-blotter-los-angeles-retrievals-and-a-suspended-air-crew?utm_medium=rss)
  - [The Mysterious Inner Workings of Io, Jupiter’s Volcanic Moon](https://www.wired.com/story/whats-going-on-inside-io-jupiters-volcanic-moon/)
- - [What Is Raspberry Pi and How Can I Use It for My Home Internet?](https://www.cnet.com/home/internet/how-can-you-use-raspberry-pi-for-home-internet/#ftag=CAD590a51e)
- - [Best Cheap Home Security Systems for 2025: I Found the Real Deals](https://www.cnet.com/home/security/best-cheap-home-security-systems/#ftag=CAD590a51e)
- - [How Covid-19 Changed Hideo Kojima’s Vision for ‘Death Stranding 2’](https://www.wired.com/story/how-covid-19-changed-hideo-kojimas-vision-for-death-stranding-2/)<!-- TECH:END -->
+ - [What Is Raspberry Pi and How Can I Use It for My Home Internet?](https://www.cnet.com/home/internet/how-can-you-use-raspberry-pi-for-home-internet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

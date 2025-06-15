@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kitchen Feeling Like a Sauna? 8 Ways to Stay Cool While Cooking This Summer](https://www.cnet.com/home/smart-home/kitchen-feeling-like-a-sauna-8-ways-to-stay-cool-while-cooking-this-summer/#ftag=CAD590a51e)
  - [Researchers find Llama 3.1 recalls large parts of popular copyrighted books, possibly weakening AI industry claims that such memorization is fringe behavior &lpar;Timothy B. Lee/Understanding AI&rpar;](http://www.techmeme.com/250615/p9#a250615p9)
  - [Berlin-based Payrails, whose platform helps enterprises accept payments, issue payouts, and more, raised a $32M Series A, taking its total funding to $52.8M+ &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/250615/p8#a250615p8)
  - [Bedrock Ocean, which has developed an autonomous underwater vehicle to map the ocean floor using sonar and magnetic sensors, raised a $25M Series A-2 &lpar;Tim De Chant/TechCrunch&rpar;](http://www.techmeme.com/250615/p7#a250615p7)
- - [Austin-based Autonomize AI, which develops AI agents for automating administrative workflows in healthcare and life sciences, raised a $28M Series A &lpar;Axios&rpar;](http://www.techmeme.com/250615/p6#a250615p6)
- - [Pactum, which helps companies automate supplier negotiations with AI and secure more favorable contractual terms, raised a $54M Series C led by Insight Partners &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250615/p5#a250615p5)<!-- TECH:END -->
+ - [Austin-based Autonomize AI, which develops AI agents for automating administrative workflows in healthcare and life sciences, raised a $28M Series A &lpar;Axios&rpar;](http://www.techmeme.com/250615/p6#a250615p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US SEC rescinds 14 rules the agency proposed under the Biden Administration, including two relating to DeFi and digital asset custody &lpar;Martin Young/Cointelegraph&rpar;](http://www.techmeme.com/250615/p17#a250615p17)
  - [NYC-based Zorro, whose AI-powered software helps clients&#39; workers navigate health insurance and benefits options, raised a $20M Series A led by Entrée Capital &lpar;Erin Brodwin/Axios&rpar;](http://www.techmeme.com/250615/p16#a250615p16)
  - [BT Group CEO Allison Kirkby says AI could deepen job cuts at the telco, whose plan to cut over 40,000 jobs by 2030 &quot;did not reflect the full potential of AI&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250615/p15#a250615p15)
  - [FIFA Club World Cup Soccer: Stream PSG vs. Atlético Madrid Live From Anywhere](https://www.cnet.com/tech/services-and-software/fifa-club-world-cup-soccer-stream-psg-vs-atletico-madrid-live-from-anywhere/#ftag=CAD590a51e)
- - [America250, the nonprofit organizing the US Semiquincentennial celebration, says it received sponsorship commitments from Oracle, Amazon, Coinbase, and Palantir &lpar;Meridith McGraw/Wall Street Journal&rpar;](http://www.techmeme.com/250615/p14#a250615p14)
- - [A look at Apple&#39;s upgrades to CarPlay, iPadOS, and visionOS, why they were the underappreciated highlights of WWDC, and thoughts on Liquid Glass redesign &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250615/p13#a250615p13)<!-- TECH:END -->
+ - [America250, the nonprofit organizing the US Semiquincentennial celebration, says it received sponsorship commitments from Oracle, Amazon, Coinbase, and Palantir &lpar;Meridith McGraw/Wall Street Journal&rpar;](http://www.techmeme.com/250615/p14#a250615p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

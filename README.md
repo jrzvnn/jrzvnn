@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chinese wood](http://9gag.com/gag/aXPKY96)
- - 😝 [Military training can be full of surprises.](http://9gag.com/gag/a34bKGv)
- - 💣 [Why tho??](http://9gag.com/gag/a34bqb5)
  - 😝 [They dont know Styropyro](http://9gag.com/gag/a1mEo6D)
- - 👉 [Bone Museum](http://9gag.com/gag/a0eM58z)<!-- MEMES:END -->
+ - 😝 [What women say vs what they want](http://9gag.com/gag/aGyO1Xn)
+ - 💣 [The little we know](http://9gag.com/gag/a0eMbgZ)
+ - 😝 [Editors at PC Gamer = very angry!](http://9gag.com/gag/an7r9g5)
+ - 👉 [Remembering David Vetter, the boy who lived in a sterile environment due to a rare immune deficiency.](http://9gag.com/gag/aXPKqn9)<!-- MEMES:END -->
 
 ---
 

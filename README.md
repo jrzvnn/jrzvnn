@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Absolute Cinema](http://9gag.com/gag/ae97eQp)
- - 😝 [I think \u2026 I&#39;ll stay home today.](http://9gag.com/gag/aGyOZYz)
- - 💣 [Men are simple creatures](http://9gag.com/gag/aGyOZKz)
- - 😝 [Everyone has two wolves inside them, and one of mine believes in reincarnation.](http://9gag.com/gag/apRYm0D)
- - 👉 [The ultimate parenting hack revealed.](http://9gag.com/gag/avyd7VZ)<!-- MEMES:END -->
+ - 😝 [Just wondering](http://9gag.com/gag/an7ryVV)
+ - 😝 [Hoping it for 11A](http://9gag.com/gag/aKGO2X3)
+ - 💣 [Oops.](http://9gag.com/gag/aZZzgBp)
+ - 😝 [Skyscraper fire in Dubai](http://9gag.com/gag/aD2Ox1O)
+ - 👉 [What women say vs what they want](http://9gag.com/gag/aGyO1Xn)<!-- MEMES:END -->
 
 ---
 

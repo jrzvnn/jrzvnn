@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just wondering](http://9gag.com/gag/an7ryVV)
- - 😝 [Egyptians confront Western leftist activists who arrived to \u201cmarch to Gaza.\u201d](http://9gag.com/gag/a0eM5xv)
- - 💣 [Scottish reporter tricked into wearing protective gear for `Drop bear` in South Australia](http://9gag.com/gag/aW4DM5A)
+ - 😝 [What women say vs what they want](http://9gag.com/gag/aGyO1Xn)
+ - 😝 [Florida: `If you throw a brick, a firebomb, or point a gun at one of our deputies, we will be notifying your family where to collect your remains at. Because we will K*LL you, graveyard D*AD. We&#39;re NOT gonna play.`](http://9gag.com/gag/aByOwdZ)
+ - 💣 [Hoping it for 11A](http://9gag.com/gag/aKGO2X3)
  - 😝 [Microsoft saw it coming](http://9gag.com/gag/aO8Rdqy)
- - 👉 [Where is your God now; she obviously turned that bottle into a mic](http://9gag.com/gag/a9yOWvj)<!-- MEMES:END -->
+ - 👉 [Punch Machine](http://9gag.com/gag/awyY5yx)<!-- MEMES:END -->
 
 ---
 

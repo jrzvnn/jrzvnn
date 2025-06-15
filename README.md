@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Just a NPC](http://9gag.com/gag/aYQAYe2)
  - 😝 [You can see the white guilt leaving her body...](http://9gag.com/gag/aD2OWMG)
- - 😝 [The little we know](http://9gag.com/gag/a0eMbgZ)
  - 💣 [Chinese wood](http://9gag.com/gag/aXPKY96)
- - 😝 [Girl scouts?](http://9gag.com/gag/aQzO9Yq)
- - 👉 [What women say vs what they want](http://9gag.com/gag/aGyO1Xn)<!-- MEMES:END -->
+ - 😝 [Antonov ignores crosswind warning.](http://9gag.com/gag/aYQAxEv)
+ - 👉 [Angels don\u2019t exis\u2026.](http://9gag.com/gag/a1mERA8)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So much for women&#39;s intuition.](http://9gag.com/gag/aPA1jdw)
- - 😝 [That Look](http://9gag.com/gag/aYQAYbV)
- - 💣 [Just a NPC](http://9gag.com/gag/aYQAYe2)
+ - 😝 [Just a NPC](http://9gag.com/gag/aYQAYe2)
  - 😝 [Men are simple creatures](http://9gag.com/gag/aGyOZKz)
- - 👉 [Asking the important questions, their reactions are priceless.](http://9gag.com/gag/an7rMN0)<!-- MEMES:END -->
+ - 💣 [Asking the important questions, their reactions are priceless.](http://9gag.com/gag/an7rMN0)
+ - 😝 [I like animals that look like they have information](http://9gag.com/gag/an7r5XB)
+ - 👉 [Everyone has two wolves inside them, and one of mine believes in reincarnation.](http://9gag.com/gag/apRYm0D)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That package better be good.](http://9gag.com/gag/aKGOjEg)
- - 😝 [Bone Museum](http://9gag.com/gag/a0eM58z)
- - 💣 [Chinese wood](http://9gag.com/gag/aXPKY96)
- - 😝 [They dont know Styropyro](http://9gag.com/gag/a1mEo6D)
- - 👉 [How to lose your console](http://9gag.com/gag/a0eM5vX)<!-- MEMES:END -->
+ - 😝 [Finding a lost engagement ring on the beach for a grateful couple.](http://9gag.com/gag/a2vLZbZ)
+ - 😝 [I don&#39;t get it...](http://9gag.com/gag/aZZz3Kz)
+ - 💣 [What women say vs what they want](http://9gag.com/gag/aGyO1Xn)
+ - 😝 [Why tho??](http://9gag.com/gag/a34bqb5)
+ - 👉 [Military training can be full of surprises.](http://9gag.com/gag/a34bKGv)<!-- MEMES:END -->
 
 ---
 

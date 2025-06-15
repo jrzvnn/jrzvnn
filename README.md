@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to lose your console](http://9gag.com/gag/a0eM5vX)
- - 😝 [Scottish reporter tricked into wearing protective gear for `Drop bear` in South Australia](http://9gag.com/gag/aW4DM5A)
- - 💣 [You can see the white guilt leaving her body...](http://9gag.com/gag/aD2OWMG)
- - 😝 [Punch Machine](http://9gag.com/gag/awyY5yx)
- - 👉 [Space Shuttle tile defies heat](http://9gag.com/gag/a34bjyQ)<!-- MEMES:END -->
+ - 😝 [My father died today. Arrived in time to speak to him for the last time. Make the most of your time with your parents. Send me your darkest memes for this crazy time. Cheers and fuxx you and see you tomorrow.](http://9gag.com/gag/aE0OR3M)
+ - 😝 [Snow Kitty](http://9gag.com/gag/abAQzZX)
+ - 💣 [Therapist](http://9gag.com/gag/a1mEXG8)
+ - 😝 [Just wants to be close to dad](http://9gag.com/gag/aYQAL2q)
+ - 👉 [How to lose your console](http://9gag.com/gag/a0eM5vX)<!-- MEMES:END -->
 
 ---
 

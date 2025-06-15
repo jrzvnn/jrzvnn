@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Just wondering](http://9gag.com/gag/an7ryVV)
  - 😝 [That package better be good.](http://9gag.com/gag/aKGOjEg)
- - 💣 [What women say vs what they want](http://9gag.com/gag/aGyO1Xn)
- - 😝 [How to lose your console](http://9gag.com/gag/a0eM5vX)
- - 👉 [Punch Machine](http://9gag.com/gag/awyY5yx)<!-- MEMES:END -->
+ - 💣 [Hoping it for 11A](http://9gag.com/gag/aKGO2X3)
+ - 😝 [You can see the white guilt leaving her body...](http://9gag.com/gag/aD2OWMG)
+ - 👉 [What women say vs what they want](http://9gag.com/gag/aGyO1Xn)<!-- MEMES:END -->
 
 ---
 

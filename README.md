@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That winning feeling hits different](http://9gag.com/gag/amopzKj)
- - 😝 [How to lose your console](http://9gag.com/gag/a0eM5vX)
- - 💣 [Microsoft saw it coming](http://9gag.com/gag/aO8Rdqy)
+ - 😝 [Hoping it for 11A](http://9gag.com/gag/aKGO2X3)
  - 😝 [Scottish reporter tricked into wearing protective gear for `Drop bear` in South Australia](http://9gag.com/gag/aW4DM5A)
- - 👉 [Space Shuttle tile defies heat](http://9gag.com/gag/a34bjyQ)<!-- MEMES:END -->
+ - 💣 [That winning feeling hits different](http://9gag.com/gag/amopzKj)
+ - 😝 [Microsoft saw it coming](http://9gag.com/gag/aO8Rdqy)
+ - 👉 [Driver&#39;s license optional.](http://9gag.com/gag/aW4D8ed)<!-- MEMES:END -->
 
 ---
 

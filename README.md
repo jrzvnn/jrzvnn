@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Microsoft saw it coming](http://9gag.com/gag/aO8Rdqy)
- - 😝 [One step away from teleporting](http://9gag.com/gag/aKGO3O3)
- - 💣 [Is this Pittsburgh pizza method real?](http://9gag.com/gag/aAyOPQd)
- - 😝 [Space Shuttle tile defies heat](http://9gag.com/gag/a34bjyQ)
- - 👉 [Driver&#39;s license optional.](http://9gag.com/gag/aW4D8ed)<!-- MEMES:END -->
+ - 😝 [Lets try posting again.](http://9gag.com/gag/a34bjw7)
+ - 😝 [You can see the white guilt leaving her body...](http://9gag.com/gag/aD2OWMG)
+ - 💣 [Microsoft saw it coming](http://9gag.com/gag/aO8Rdqy)
+ - 😝 [Punch Machine](http://9gag.com/gag/awyY5yx)
+ - 👉 [Where is your God now; she obviously turned that bottle into a mic](http://9gag.com/gag/a9yOWvj)<!-- MEMES:END -->
 
 ---
 

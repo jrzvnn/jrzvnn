@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NYC-based Zorro, whose AI-powered software helps clients&#39; workers navigate health insurance and benefits options, raised a $20M Series A led by Entrée Capital &lpar;Erin Brodwin/Axios&rpar;](http://www.techmeme.com/250615/p16#a250615p16)
  - [BT Group CEO Allison Kirkby says AI could deepen job cuts at the telco, whose plan to cut over 40,000 jobs by 2030 &quot;did not reflect the full potential of AI&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250615/p15#a250615p15)
  - [FIFA Club World Cup Soccer: Stream PSG vs. Atlético Madrid Live From Anywhere](https://www.cnet.com/tech/services-and-software/fifa-club-world-cup-soccer-stream-psg-vs-atletico-madrid-live-from-anywhere/#ftag=CAD590a51e)
  - [America250, the nonprofit organizing the US Semiquincentennial celebration, says it received sponsorship commitments from Oracle, Amazon, Coinbase, and Palantir &lpar;Meridith McGraw/Wall Street Journal&rpar;](http://www.techmeme.com/250615/p14#a250615p14)
- - [A look at Apple&#39;s upgrades to CarPlay, iPadOS, and visionOS, and the new Liquid Glass redesign of its operating systems announced at WWDC &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250615/p13#a250615p13)
- - [New York City-based Abacum, which offers AI-powered financial planning and analysis tools to companies, raised a $60B Series B led by Scale Venture Partners &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250615/p12#a250615p12)<!-- TECH:END -->
+ - [A look at Apple&#39;s upgrades to CarPlay, iPadOS, and visionOS, and the new Liquid Glass redesign of its operating systems announced at WWDC &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250615/p13#a250615p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

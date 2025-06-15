@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an Oxford study, LLMs correctly identified medical conditions 94.9% of the time when given test scenarios directly, vs. 34.5% when prompted by human subjects &lpar;Nick Mokey/VentureBeat&rpar;](http://www.techmeme.com/250614/p13#a250614p13)
- - [FIFA Club World Cup Soccer: Stream Al Ahly vs. Inter Miami Live From Anywhere](https://www.cnet.com/tech/services-and-software/fifa-club-world-cup-soccer-stream-al-ahly-vs-inter-miami-live-from-anywhere/#ftag=CAD590a51e)
- - [I&#39;m a Fiend for Horror and Westerns. Netflix Has One of the Best Genre Mashups Ever Made](https://www.cnet.com/tech/services-and-software/im-a-fiend-for-horror-and-westerns-netflix-has-one-of-the-best-genre-mashups-ever-made/#ftag=CAD590a51e)
- - [Best Kamado Grill for 2025](https://www.cnet.com/home/yard-and-outdoors/best-kamado-grill/#ftag=CAD590a51e)
- - [Best Internet Providers in Berkeley, California](https://www.cnet.com/home/internet/best-internet-providers-in-berkeley-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tanks, guns and face-painting](https://www.theverge.com/politics/687301/trump-military-parade-army-birthday-washington-dc)
+ - [New York State passes a bill mandating safety and transparency requirements for frontier AI models; it awaits Governor Hochul&#39;s signature &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250614/p15#a250614p15)
+ - [No Kings: protests in the eye of the storm](https://www.theverge.com/policy/687195/no-kings-trump-parade-protests)
+ - [Statista: the global influencer marketing industry is projected to grow 36% between 2024 and 2025, reaching $33B, as brands tighten overall ad budgets &lpar;Bloomberg&rpar;](http://www.techmeme.com/250614/p14#a250614p14)
+ - [In an Oxford study, LLMs correctly identified medical conditions 94.9% of the time when given test scenarios directly, vs. 34.5% when prompted by human subjects &lpar;Nick Mokey/VentureBeat&rpar;](http://www.techmeme.com/250614/p13#a250614p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

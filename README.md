@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Mysterious Inner Workings of Io, Jupiter’s Volcanic Moon](https://www.wired.com/story/whats-going-on-inside-io-jupiters-volcanic-moon/)
  - [How Covid-19 Changed Hideo Kojima’s Vision for ‘Death Stranding 2’](https://www.wired.com/story/how-covid-19-changed-hideo-kojimas-vision-for-death-stranding-2/)
  - [Anthropic details how it built its multi-agent Claude Research system, claiming significant improvements in internal evaluations over single-agent systems &lpar;Anthropic&rpar;](http://www.techmeme.com/250615/p10#a250615p10)
- - [Laptop Buying Guide &lpar;2025&rpar;: How to Choose the Right PC &lpar;Step-by-Step Guide&rpar;](https://www.wired.com/story/how-to-buy-the-right-laptop-for-you/)
- - [Kitchen Feeling Like a Sauna? 8 Ways to Stay Cool While Cooking This Summer](https://www.cnet.com/home/smart-home/kitchen-feeling-like-a-sauna-8-ways-to-stay-cool-while-cooking-this-summer/#ftag=CAD590a51e)
- - [Researchers find Llama 3.1 recalls large parts of popular copyrighted books, possibly weakening AI industry claims that such memorization is fringe behavior &lpar;Timothy B. Lee/Understanding AI&rpar;](http://www.techmeme.com/250615/p9#a250615p9)<!-- TECH:END -->
+ - [&#39;Shark Week&#39; Comes Early as &#39;Jaws&#39; Turns 50. Here&#39;s Where to Watch All the Movies](https://www.cnet.com/tech/services-and-software/shark-week-comes-early-jaws-turns-50-heres-where-to-watch-all-movies/#ftag=CAD590a51e)
+ - [Laptop Buying Guide &lpar;2025&rpar;: How to Choose the Right PC &lpar;Step-by-Step Guide&rpar;](https://www.wired.com/story/how-to-buy-the-right-laptop-for-you/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hoping it for 11A](http://9gag.com/gag/aKGO2X3)
- - 😝 [Scottish reporter tricked into wearing protective gear for `Drop bear` in South Australia](http://9gag.com/gag/aW4DM5A)
- - 💣 [That winning feeling hits different](http://9gag.com/gag/amopzKj)
+ - 😝 [Just wondering](http://9gag.com/gag/an7ryVV)
+ - 😝 [Egyptians confront Western leftist activists who arrived to \u201cmarch to Gaza.\u201d](http://9gag.com/gag/a0eM5xv)
+ - 💣 [Scottish reporter tricked into wearing protective gear for `Drop bear` in South Australia](http://9gag.com/gag/aW4DM5A)
  - 😝 [Microsoft saw it coming](http://9gag.com/gag/aO8Rdqy)
- - 👉 [Driver&#39;s license optional.](http://9gag.com/gag/aW4D8ed)<!-- MEMES:END -->
+ - 👉 [Where is your God now; she obviously turned that bottle into a mic](http://9gag.com/gag/a9yOWvj)<!-- MEMES:END -->
 
 ---
 

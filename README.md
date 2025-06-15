@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Hoping it for 11A](http://9gag.com/gag/aKGO2X3)
+ - 😝 [Antonov ignores crosswind warning.](http://9gag.com/gag/aYQAxEv)
+ - 💣 [You can see the white guilt leaving her body...](http://9gag.com/gag/aD2OWMG)
  - 😝 [Just wondering](http://9gag.com/gag/an7ryVV)
- - 😝 [You can see the white guilt leaving her body...](http://9gag.com/gag/aD2OWMG)
- - 💣 [Hoping it for 11A](http://9gag.com/gag/aKGO2X3)
- - 😝 [Oops.](http://9gag.com/gag/aZZzgBp)
  - 👉 [What women say vs what they want](http://9gag.com/gag/aGyO1Xn)<!-- MEMES:END -->
 
 ---

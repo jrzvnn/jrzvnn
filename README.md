@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That Look](http://9gag.com/gag/aYQAYbV)
- - 😝 [So much for women&#39;s intuition.](http://9gag.com/gag/aPA1jdw)
- - 💣 [Men are simple creatures](http://9gag.com/gag/aGyOZKz)
- - 😝 [Asking the important questions, their reactions are priceless.](http://9gag.com/gag/an7rMN0)
- - 👉 [Everyone has two wolves inside them, and one of mine believes in reincarnation.](http://9gag.com/gag/apRYm0D)<!-- MEMES:END -->
+ - 😝 [How to lose your console](http://9gag.com/gag/a0eM5vX)
+ - 😝 [Just a NPC](http://9gag.com/gag/aYQAYe2)
+ - 💣 [Chinese wood](http://9gag.com/gag/aXPKY96)
+ - 😝 [Military training can be full of surprises.](http://9gag.com/gag/a34bKGv)
+ - 👉 [Skyscraper fire in Dubai](http://9gag.com/gag/aD2Ox1O)<!-- MEMES:END -->
 
 ---
 

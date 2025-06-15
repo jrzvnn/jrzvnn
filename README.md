@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [True wealth is measured in small hands holding onto your leg.](http://9gag.com/gag/abAQzEL)
  - 😝 [That Look](http://9gag.com/gag/aYQAYbV)
- - 💣 [Men are simple creatures](http://9gag.com/gag/aGyOZKz)
  - 😝 [So much for women&#39;s intuition.](http://9gag.com/gag/aPA1jdw)
- - 👉 [Saab was living in 2090 back in 1990](http://9gag.com/gag/aLndg0z)<!-- MEMES:END -->
+ - 💣 [Men are simple creatures](http://9gag.com/gag/aGyOZKz)
+ - 😝 [Asking the important questions, their reactions are priceless.](http://9gag.com/gag/an7rMN0)
+ - 👉 [Everyone has two wolves inside them, and one of mine believes in reincarnation.](http://9gag.com/gag/apRYm0D)<!-- MEMES:END -->
 
 ---
 

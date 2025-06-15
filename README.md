@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remembering David Vetter, the boy who lived in a sterile environment due to a rare immune deficiency.](http://9gag.com/gag/aXPKqn9)
- - 😝 [Why tho??](http://9gag.com/gag/a34bqb5)
- - 💣 [Chinese wood](http://9gag.com/gag/aXPKY96)
+ - 😝 [Chinese wood](http://9gag.com/gag/aXPKY96)
+ - 😝 [Military training can be full of surprises.](http://9gag.com/gag/a34bKGv)
+ - 💣 [Why tho??](http://9gag.com/gag/a34bqb5)
  - 😝 [They dont know Styropyro](http://9gag.com/gag/a1mEo6D)
- - 👉 [How to lose your console](http://9gag.com/gag/a0eM5vX)<!-- MEMES:END -->
+ - 👉 [Bone Museum](http://9gag.com/gag/a0eM58z)<!-- MEMES:END -->
 
 ---
 

@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [What could possibly go wrong? Let&#39;s pour alcohol all over the DJ Booth](http://9gag.com/gag/aLndwzx)
  - 😝 [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
- - 💣 [I don&#39;t get it...](http://9gag.com/gag/aZZz3Kz)
- - 😝 [The napping gene is strong in this family.](http://9gag.com/gag/aXPKYe2)
- - 👉 [That package better be good.](http://9gag.com/gag/aKGOjEg)<!-- MEMES:END -->
+ - 💣 [I have no idea why 9gaggers complain about sitting in meetings](http://9gag.com/gag/aoyYePg)
+ - 😝 [I don&#39;t get it...](http://9gag.com/gag/aZZz3Kz)
+ - 👉 [He also couldn&#39;t believe it](http://9gag.com/gag/aLndjMz)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now imagine doing this on acid.](http://9gag.com/gag/aVvV0m2)
+ - 😝 [Editors at PC Gamer = very angry!](http://9gag.com/gag/an7r9g5)
  - 😝 [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
- - 💣 [The feeling of getting your own space](http://9gag.com/gag/a5QqRZG)
- - 😝 [This dog knows how to make your day better](http://9gag.com/gag/aGyOePX)
- - 👉 [That last comment though](http://9gag.com/gag/aD2OgRK)<!-- MEMES:END -->
+ - 💣 [Gottem](http://9gag.com/gag/aVvV34O)
+ - 😝 [That 2 AM pizza hits different](http://9gag.com/gag/aMVOAyW)
+ - 👉 [That package better be good.](http://9gag.com/gag/aKGOjEg)<!-- MEMES:END -->
 
 ---
 

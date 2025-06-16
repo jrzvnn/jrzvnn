@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Perfection in every detail, they said. Meanwhile...](http://9gag.com/gag/aD2O1rx)
+ - 😝 [That package better be good.](http://9gag.com/gag/aKGOjEg)
  - 😝 [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
- - 💣 [That last comment though](http://9gag.com/gag/aD2OgRK)
- - 😝 [Iran-Israel war: unbearable images of civilians fleeing bombardment](http://9gag.com/gag/a2vLRDw)
- - 👉 [Iraqis now](http://9gag.com/gag/aVvVwOw)<!-- MEMES:END -->
+ - 💣 [Like there were any girls here.](http://9gag.com/gag/an7rMME)
+ - 😝 [That 2 AM pizza hits different](http://9gag.com/gag/aMVOAyW)
+ - 👉 [I don&#39;t get it...](http://9gag.com/gag/aZZz3Kz)<!-- MEMES:END -->
 
 ---
 

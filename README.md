@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Threads plans to let users hide text or images that spoil a piece of entertainment, blurring the text or image that has been marked as a spoiler &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/250616/p17#a250616p17)
+ - [Juniper Square, which offers investment management and fund administration tools for real estate, PE, VC firms, raised $130M led by Ribbit at a $1.1B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250616/p16#a250616p16)
  - [Trump Mobile&#39;s made-in-US iPhone 17 competitor is really made in China](https://appleinsider.com/articles/25/06/16/trump-mobile-will-take-on-iphone-17-in-september-with-a-made-in-us-gold-smartphone?utm_medium=rss)
  - [NBA Finals 2025: How to Watch Pacers vs. Thunder Game 5 Tonight](https://www.cnet.com/tech/services-and-software/nba-finals-2025-how-to-watch-pacers-vs-thunder-game-5-tonight/#ftag=CAD590a51e)
- - [&#39;How to Train Your Dragon&#39; Has Tempered My Disdain for Live-Action Remakes](https://www.cnet.com/tech/services-and-software/how-to-train-your-dragon-has-tempered-my-disdain-for-live-action-remakes/#ftag=CAD590a51e)
- - [Apple restarts its developer betas with iOS 18.6, macOS 15.6](https://appleinsider.com/articles/25/06/16/apple-restarts-its-developer-betas-with-ios-186-macos-156?utm_medium=rss)
- - [Patreon plans to consolidate its Pro and Premium plans starting August 5, taking a 10% commission, rather than the current 8% for Pro and 12% for Premium users &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250616/p15#a250616p15)<!-- TECH:END -->
+ - [&#39;How to Train Your Dragon&#39; Has Tempered My Disdain for Live-Action Remakes](https://www.cnet.com/tech/services-and-software/how-to-train-your-dragon-has-tempered-my-disdain-for-live-action-remakes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

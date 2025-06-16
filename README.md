@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gottem](http://9gag.com/gag/aVvV34O)
+ - 😝 [It&#39;s all about perspective, even in the Mushroom Kingdom.](http://9gag.com/gag/awyYQ3r)
  - 😝 [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
- - 💣 [That 2 AM pizza hits different](http://9gag.com/gag/aMVOAyW)
- - 😝 [When the bureaucracy loop comes full circle.](http://9gag.com/gag/avydo0Z)
- - 👉 [Ukrainian soldier before and after Russian captivity](http://9gag.com/gag/aVvVw3v)<!-- MEMES:END -->
+ - 💣 [That package better be good.](http://9gag.com/gag/aKGOjEg)
+ - 😝 [Gottem](http://9gag.com/gag/aVvV34O)
+ - 👉 [He also couldn&#39;t believe it](http://9gag.com/gag/aLndjMz)<!-- MEMES:END -->
 
 ---
 

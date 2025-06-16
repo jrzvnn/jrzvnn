@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Organic Mattresses &lpar;2025&rpar;: Certified Nontoxic, Natural Sleep](https://www.wired.com/gallery/best-organic-mattresses/)
  - [Sources: OpenAI and Microsoft talks have become so fraught that OpenAI execs discussed accusing Microsoft of anticompetitive behavior before federal regulators &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250616/p21#a250616p21)
  - [Companies Warn SEC That Mass Deportations Pose Serious Business Risk](https://www.wired.com/story/companies-mention-deportations-sec-filing/)
- - [Sources: Meta&#39;s talks with Scale AI started in mid-April, with Zuckerberg floating a $5B investment in early May, which Alexandr Wang later countered with $20B &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/250616/p20#a250616p20)
- - [PC modding repository Nexus Mods has a new owner](https://www.theverge.com/news/687759/nexus-mods-pc-new-owner)
- - [9 Urgent Questions About Trump Mobile and the Gold T1 Smartphone](https://www.wired.com/story/9-urgent-questions-about-trump-mobile-and-the-gold-t1-smartphone/)<!-- TECH:END -->
+ - [How Did ChatGPT Get &#39;Absolutely Wrecked&#39; at Chess by an 1970s-Era Atari 2600?](https://www.cnet.com/tech/services-and-software/how-did-chatgpt-get-absolutely-wrecked-at-chess-losing-to-a-1970s-era-atari-2600/#ftag=CAD590a51e)
+ - [Sources: Meta&#39;s talks with Scale AI started in mid-April, with Zuckerberg floating a $5B investment in early May, which Alexandr Wang later countered with $20B &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/250616/p20#a250616p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

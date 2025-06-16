@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t get it...](http://9gag.com/gag/aZZz3Kz)
+ - 😝 [This is either genius or completely clueless, but I need to know more.](http://9gag.com/gag/a34bQg3)
  - 😝 [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
- - 💣 [The moment of the big reveal for this stunning creation.](http://9gag.com/gag/amop7PX)
- - 😝 [An unbelievable way to score a basket](http://9gag.com/gag/ajPW8y1)
- - 👉 [Dreamgirl](http://9gag.com/gag/awyYAA4)<!-- MEMES:END -->
+ - 💣 [Heimlich](http://9gag.com/gag/aMVOZPP)
+ - 😝 [I don&#39;t get it...](http://9gag.com/gag/aZZz3Kz)
+ - 👉 [He also couldn&#39;t believe it](http://9gag.com/gag/aLndjMz)<!-- MEMES:END -->
 
 ---
 

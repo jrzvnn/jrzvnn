@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump Mobile&#39;s made-in-US iPhone 17 competitor is really made in China](https://appleinsider.com/articles/25/06/16/trump-mobile-will-take-on-iphone-17-in-september-with-a-made-in-us-gold-smartphone?utm_medium=rss)
  - [Apple restarts its developer betas with iOS 18.6, macOS 15.6](https://appleinsider.com/articles/25/06/16/apple-restarts-its-developer-betas-with-ios-186-macos-156?utm_medium=rss)
  - [Patreon plans to consolidate its Pro and Premium plans starting August 5, taking a 10% commission, rather than the current 8% for Pro and 12% for Premium users &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250616/p15#a250616p15)
  - [Ford’s new modified Mustang Mach-E is ready to fly up Pikes Peak](https://www.theverge.com/ford-motor-company/686912/ford-pikes-peak-super-mustang-mach-e-ev-demonstrator)
- - [Apple says there&#39;s no chatbot -- but Shortcuts in iOS 26 says otherwise](https://appleinsider.com/articles/25/06/16/apple-says-theres-no-chatbot----but-shortcuts-in-ios-26-says-otherwise?utm_medium=rss)
- - [Trump Mobile&#39;s made-in-US iPhone 17 competitor is really made in China](https://appleinsider.com/articles/25/06/16/trump-mobile-will-take-on-iphone-17-in-september-with-a-made-in-us-gold-smartphone?utm_medium=rss)<!-- TECH:END -->
+ - [Apple says there&#39;s no chatbot -- but Shortcuts in iOS 26 says otherwise](https://appleinsider.com/articles/25/06/16/apple-says-theres-no-chatbot----but-shortcuts-in-ios-26-says-otherwise?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

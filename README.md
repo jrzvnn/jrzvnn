@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PostHog, which offers dev tools to analyze, test, observe, and deploy new features, raised a $70M Series D led by Stripe at a $920M valuation &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/250616/p19#a250616p19)
  - [Threads will let you hide spoilers in your posts](https://www.theverge.com/news/687655/threads-hide-spoilers-test-launch)
  - [7 Best Electric Toothbrushes, Tested For Two Weeks Each &lpar;2025&rpar;](https://www.wired.com/gallery/best-electric-toothbrushes/)
  - [EchoStar&#39;s stock jumps 45%+ after a report said EchoStar&#39;s chairman met Trump, a day after meeting FCC&#39;s Carr; EchoStar faces FCC spectrum license uncertainty &lpar;Monica Alleven/Fierce Network&rpar;](http://www.techmeme.com/250616/p18#a250616p18)
- - [Threads plans to let users hide text or images that spoil a piece of entertainment, blurring the text or image that has been marked as a spoiler &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/250616/p17#a250616p17)
- - [Microsoft Accidentally Replaces Windows 11 Startup Sound with Vista Chime](https://www.cnet.com/tech/services-and-software/microsoft-accidentally-replaces-windows-11-startup-sound-with-vista-chime/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Threads plans to let users hide text or images that spoil a piece of entertainment, blurring the text or image that has been marked as a spoiler &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/250616/p17#a250616p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

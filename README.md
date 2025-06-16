@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok rolls out new AI ad features, including the ability for marketers to use text or images to create AI-generated video, as part of its Symphony ad suite &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/250616/p3#a250616p3)
  - [Microsoft accidentally swapped Windows 11’s startup sound with Vista’s](https://www.theverge.com/news/687417/microsoft-windows-11-startup-sound-boot-windows-vista-replacement-mistake-dev-channel)
  - [A New Obesity Pill May Burn Fat Without Suppressing Appetite](https://www.wired.com/story/new-obesity-pill-may-burn-fat-without-suppressing-appetite/)
  - [Your next phone could run on Trump Mobile](https://www.theverge.com/news/687418/trump-mobile-network-t1-trademark-application)
- - [In March, New York added a checkbox to its WARN system for companies to show if &quot;technological innovation or automation&quot;, like AI, was a reason for mass layoffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250616/p2#a250616p2)
- - [Here comes the AI sponcon](https://www.theverge.com/news/684572/tiktok-ai-advertising-videos-try-on-product-placement)<!-- TECH:END -->
+ - [In March, New York added a checkbox to its WARN system for companies to show if &quot;technological innovation or automation&quot;, like AI, was a reason for mass layoffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250616/p2#a250616p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

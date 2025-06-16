@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What could possibly go wrong? Let&#39;s pour alcohol all over the DJ Booth](http://9gag.com/gag/aLndwzx)
- - 😝 [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
- - 💣 [An unbelievable way to score a basket](http://9gag.com/gag/ajPW8y1)
  - 😝 [Expedition 33 OST comments are fire](http://9gag.com/gag/aW4DxLK)
- - 👉 [When the bureaucracy loop comes full circle.](http://9gag.com/gag/avydo0Z)<!-- MEMES:END -->
+ - 😝 [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
+ - 💣 [The Dude sees straight through it!!](http://9gag.com/gag/aByOmZ2)
+ - 😝 [Gottem](http://9gag.com/gag/aVvV34O)
+ - 👉 [That package better be good.](http://9gag.com/gag/aKGOjEg)<!-- MEMES:END -->
 
 ---
 

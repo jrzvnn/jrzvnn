@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Iraqis now](http://9gag.com/gag/aVvVwOw)
+ - 😝 [What could possibly go wrong? Let&#39;s pour alcohol all over the DJ Booth](http://9gag.com/gag/aLndwzx)
  - 😝 [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
- - 💣 [Helping a blind friend to make a living](http://9gag.com/gag/ary2GGV)
- - 😝 [Take a break from all the propagagnda and have some tail wags...](http://9gag.com/gag/aoyY5qA)
- - 👉 [White cat: Enough with this BS](http://9gag.com/gag/aAyOb1p)<!-- MEMES:END -->
+ - 💣 [An unbelievable way to score a basket](http://9gag.com/gag/ajPW8y1)
+ - 😝 [Expedition 33 OST comments are fire](http://9gag.com/gag/aW4DxLK)
+ - 👉 [When the bureaucracy loop comes full circle.](http://9gag.com/gag/avydo0Z)<!-- MEMES:END -->
 
 ---
 

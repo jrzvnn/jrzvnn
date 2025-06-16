@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WhatsApp is officially getting ads](https://www.theverge.com/news/687519/whatsapp-launch-advertising-status-updates)
  - [AI is just another productivity tool and the productivity gains will be limited; for lasting economic expansion, AI must catalyze new industries and initiatives &lpar;Carl Benedikt Frey/Financial Times&rpar;](http://www.techmeme.com/250616/p12#a250616p12)
  - [How polls in iOS 26 Messages app makes group planning easier](https://appleinsider.com/articles/25/06/16/how-polls-in-ios-26-messages-app-makes-group-planning-easier?utm_medium=rss)
  - [8 Best Automatic Litter Boxes &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-automatic-cat-litter-boxes/)
- - [Trump Mobile launches $47 service and a gold phone](https://www.theverge.com/news/687418/trump-mobile-network-t1-trademark-application)
- - [AirPods Pro 3 now rumored to launch in 2026](https://appleinsider.com/articles/25/06/16/airpods-pro-3-now-rumored-to-launch-in-2026?utm_medium=rss)<!-- TECH:END -->
+ - [Trump Mobile launches $47 service and a gold phone](https://www.theverge.com/news/687418/trump-mobile-network-t1-trademark-application)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

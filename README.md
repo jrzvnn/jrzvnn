@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Safety first, I guess?](http://9gag.com/gag/a4PWGry)
+ - 😝 [Heimlich](http://9gag.com/gag/aMVOZPP)
  - 😝 [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
- - 💣 [That 2 AM pizza hits different](http://9gag.com/gag/aMVOAyW)
- - 😝 [Like there were any girls here.](http://9gag.com/gag/an7rMME)
- - 👉 [I don&#39;t get it...](http://9gag.com/gag/aZZz3Kz)<!-- MEMES:END -->
+ - 💣 [The moment of the big reveal for this stunning creation.](http://9gag.com/gag/amop7PX)
+ - 😝 [That 2 AM pizza hits different](http://9gag.com/gag/aMVOAyW)
+ - 👉 [Gottem](http://9gag.com/gag/aVvV34O)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flash deal: M4 Mac mini drops to $499 in today&#39;s price war](https://appleinsider.com/articles/25/06/16/flash-deal-m4-mac-mini-drops-to-499-in-todays-price-war?utm_medium=rss)
- - [Apple stuck with $58M fine after Dutch court rules it broke antitrust law](https://appleinsider.com/articles/25/06/16/apple-stuck-with-58m-fine-after-dutch-court-rules-it-broke-antitrust-law?utm_medium=rss)
- - [WWDC 2025 &amp; whats coming in the fall on the HomeKit Insider podcast](https://appleinsider.com/articles/25/06/16/wwdc-2025-whats-coming-in-the-fall-on-the-homekit-insider-podcast?utm_medium=rss)
- - [A handy charger for every Switch Joy-Con you own is just $20](https://www.theverge.com/tech/687488/switch-2-joy-con-charging-dock-accessory-gaming-laptop-soundbar-deal-sale)
- - [Trump Mobile will take on iPhone 17 in September with a made-in-US gold smartphone](https://appleinsider.com/articles/25/06/16/trump-mobile-will-take-on-iphone-17-in-september-with-a-made-in-us-gold-smartphone?utm_medium=rss)<!-- TECH:END -->
+ - [Reddit will help advertisers turn ‘positive’ posts into ads](https://www.theverge.com/news/687604/reddit-positive-posts-ads-conversation-summary-add-ons-cannes-lions)
+ - [Trump Mobile&#39;s made-in-US iPhone 17 competitor is really made in China](https://appleinsider.com/articles/25/06/16/trump-mobile-will-take-on-iphone-17-in-september-with-a-made-in-us-gold-smartphone?utm_medium=rss)
+ - [Patreon is raising its fees for new creators soon](https://www.theverge.com/news/687570/patreon-standard-price-plan-increase-10-dollars)
+ - [Trump Mobile is a bad deal](https://www.theverge.com/tech/687574/trump-mobile-plan-bad-deal)
+ - [Flash deal: M4 Mac mini drops to $499 in today&#39;s price war](https://appleinsider.com/articles/25/06/16/flash-deal-m4-mac-mini-drops-to-499-in-todays-price-war?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

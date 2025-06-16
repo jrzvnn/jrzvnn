@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He also couldn&#39;t believe it](http://9gag.com/gag/aLndjMz)
+ - 😝 [Gottem](http://9gag.com/gag/aVvV34O)
  - 😝 [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
- - 💣 [Safety first, I guess?](http://9gag.com/gag/a4PWGry)
- - 😝 [That 2 AM pizza hits different](http://9gag.com/gag/aMVOAyW)
- - 👉 [Women](http://9gag.com/gag/a1mER9P)<!-- MEMES:END -->
+ - 💣 [That 2 AM pizza hits different](http://9gag.com/gag/aMVOAyW)
+ - 😝 [When the bureaucracy loop comes full circle.](http://9gag.com/gag/avydo0Z)
+ - 👉 [Ukrainian soldier before and after Russian captivity](http://9gag.com/gag/aVvVw3v)<!-- MEMES:END -->
 
 ---
 

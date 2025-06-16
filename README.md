@@ -157,8 +157,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit will help advertisers turn ‘positive’ posts into ads](https://www.theverge.com/news/687604/reddit-positive-posts-ads-conversation-summary-add-ons-cannes-lions)
  - [Trump Mobile&#39;s made-in-US iPhone 17 competitor is really made in China](https://appleinsider.com/articles/25/06/16/trump-mobile-will-take-on-iphone-17-in-september-with-a-made-in-us-gold-smartphone?utm_medium=rss)
+ - [Reddit will help advertisers turn ‘positive’ posts into ads](https://www.theverge.com/news/687604/reddit-positive-posts-ads-conversation-summary-add-ons-cannes-lions)
  - [Patreon is raising its fees for new creators soon](https://www.theverge.com/news/687570/patreon-standard-price-plan-increase-10-dollars)
  - [Trump Mobile is a bad deal](https://www.theverge.com/tech/687574/trump-mobile-plan-bad-deal)
  - [Flash deal: M4 Mac mini drops to $499 in today&#39;s price war](https://appleinsider.com/articles/25/06/16/flash-deal-m4-mac-mini-drops-to-499-in-todays-price-war?utm_medium=rss)<!-- TECH:END -->

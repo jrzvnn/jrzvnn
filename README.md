@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Angels don\u2019t exis\u2026.](http://9gag.com/gag/a1mERA8)
- - 😝 [I don&#39;t get it...](http://9gag.com/gag/aZZz3Kz)
- - 💣 [The moment of the big reveal for this stunning creation.](http://9gag.com/gag/amop7PX)
- - 😝 [They dont know Styropyro](http://9gag.com/gag/a1mEo6D)
- - 👉 [My dude saw his life pass before his eyes](http://9gag.com/gag/adBo7n9)<!-- MEMES:END -->
+ - 😝 [Iran-Israel war: unbearable images of civilians fleeing bombardment](http://9gag.com/gag/a2vLRDw)
+ - 😝 [Gottem](http://9gag.com/gag/aVvV34O)
+ - 💣 [The little we know](http://9gag.com/gag/a0eMbgZ)
+ - 😝 [An unbelievable way to score a basket](http://9gag.com/gag/ajPW8y1)
+ - 👉 [What women say vs what they want](http://9gag.com/gag/aGyO1Xn)<!-- MEMES:END -->
 
 ---
 

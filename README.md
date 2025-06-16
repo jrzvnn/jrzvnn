@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 6 Best Blow-Dry Brushes &lpar;2025&rpar;: Round, Oval, and More](https://www.wired.com/gallery/best-blow-dry-brushes/)
  - [OnePlus announces the Nord 5 and four more products](https://www.theverge.com/news/687441/oneplus-nord5-ce5-buds4-pad-lite-watch3)
  - [Chinese state media: researchers successfully implanted a brain-computer interface in a tetraplegia patient in March, the second country after the US to do so &lpar;Karoline Kan/Bloomberg&rpar;](http://www.techmeme.com/250616/p5#a250616p5)
  - [A survey of UK academic integrity violations finds nearly 7,000 proven AI cheating cases in 2023-24, or 5.1 per 1,000 students, up from 1.6 per 1,000 in 2022-23 &lpar;Michael Goodier/The Guardian&rpar;](http://www.techmeme.com/250616/p4#a250616p4)
- - [Wanna Rumble? Take WIRED&#39;s Quiz to Figure Out Your Fighting Style](https://www.wired.com/story/quiz-choose-your-fighter/)
- - [The Definitive Story of Tesla Takedown](https://www.wired.com/story/tesla-takedown-definitive-story/)<!-- TECH:END -->
+ - [Wanna Rumble? Take WIRED&#39;s Quiz to Figure Out Your Fighting Style](https://www.wired.com/story/quiz-choose-your-fighter/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

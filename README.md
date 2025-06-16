@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Justin Sun takes crypto company public — reportedly with help from Eric Trump](https://www.theverge.com/news/687854/justin-sun-tron-nasdaq-trump-family)
  - [The US Defense Department awards a one-year $200M contract to OpenAI to develop AI tools for addressing challenges in &quot;warfighting and enterprise domains&quot; &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250616/p23#a250616p23)
  - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
  - [Apple Intelligence is one step closer to launching in China with Alibaba Qwen3 model](https://appleinsider.com/articles/25/06/16/alibaba-announces-upgraded-qwen3-ai-model-compatible-with-apple-platforms?utm_medium=rss)
- - [Grab Belkin&#39;s 12-port Thunderbolt 3 Dock Pro for $69.99 today only](https://appleinsider.com/articles/25/06/16/grab-belkins-12-port-thunderbolt-3-dock-pro-for-6999-today-only?utm_medium=rss)
- - [I&#39;m a 42-Year-Old Mom and I Tried 18 Products to Finally Sleep Better. These Are the Ones That Worked](https://www.cnet.com/health/sleep/im-a-42-year-old-mom-and-i-tried-18-products-to-finally-sleep-better-these-are-the-ones-that-worked/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Grab Belkin&#39;s 12-port Thunderbolt 3 Dock Pro for $69.99 today only](https://appleinsider.com/articles/25/06/16/grab-belkins-12-port-thunderbolt-3-dock-pro-for-6999-today-only?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

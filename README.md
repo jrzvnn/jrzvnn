@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finding a lost engagement ring on the beach for a grateful couple.](http://9gag.com/gag/a2vLZbZ)
+ - 😝 [Angels don\u2019t exis\u2026.](http://9gag.com/gag/a1mERA8)
  - 😝 [I don&#39;t get it...](http://9gag.com/gag/aZZz3Kz)
- - 💣 [What women say vs what they want](http://9gag.com/gag/aGyO1Xn)
- - 😝 [Why tho??](http://9gag.com/gag/a34bqb5)
- - 👉 [Military training can be full of surprises.](http://9gag.com/gag/a34bKGv)<!-- MEMES:END -->
+ - 💣 [The moment of the big reveal for this stunning creation.](http://9gag.com/gag/amop7PX)
+ - 😝 [They dont know Styropyro](http://9gag.com/gag/a1mEo6D)
+ - 👉 [My dude saw his life pass before his eyes](http://9gag.com/gag/adBo7n9)<!-- MEMES:END -->
 
 ---
 

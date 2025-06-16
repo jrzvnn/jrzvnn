@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alibaba announces upgraded Qwen3 AI model compatible with Apple platforms](https://appleinsider.com/articles/25/06/16/alibaba-announces-upgraded-qwen3-ai-model-compatible-with-apple-platforms?utm_medium=rss)
+ - [Grab Belkin&#39;s 12-port Thunderbolt 3 Dock Pro for $69.99 today only](https://appleinsider.com/articles/25/06/16/grab-belkins-12-port-thunderbolt-3-dock-pro-for-6999-today-only?utm_medium=rss)
+ - [How Apple Created a Custom iPhone Camera for ‘F1’](https://www.wired.com/story/apple-created-a-custom-iphone-camera-for-f1/)
  - [Apple restarts its developer betas with iOS 18.6, macOS 15.6](https://appleinsider.com/articles/25/06/16/apple-restarts-its-developer-betas-with-ios-186-macos-156?utm_medium=rss)
- - [Trump Mobile&#39;s made-in-US iPhone 17 competitor is really made in China](https://appleinsider.com/articles/25/06/16/trump-mobile-will-take-on-iphone-17-in-september-with-a-made-in-us-gold-smartphone?utm_medium=rss)
- - [The Meta AI app now shows a warning prompt before users share content to the public feed, after reports of users accidentally sharing chats with personal info &lpar;Katie Notopoulos/Business Insider&rpar;](http://www.techmeme.com/250616/p22#a250616p22)
- - [Best Organic Mattresses &lpar;2025&rpar;: Certified Nontoxic, Natural Sleep](https://www.wired.com/gallery/best-organic-mattresses/)
- - [Sources: OpenAI and Microsoft talks have become so fraught that OpenAI execs discussed accusing Microsoft of anticompetitive behavior before federal regulators &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250616/p21#a250616p21)<!-- TECH:END -->
+ - [Trump Mobile&#39;s made-in-US iPhone 17 competitor is really made in China](https://appleinsider.com/articles/25/06/16/trump-mobile-will-take-on-iphone-17-in-september-with-a-made-in-us-gold-smartphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

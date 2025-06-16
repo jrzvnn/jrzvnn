@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Angels don\u2019t exis\u2026.](http://9gag.com/gag/a1mERA8)
+ - 😝 [This is either genius or completely clueless, but I need to know more.](http://9gag.com/gag/a34bQg3)
  - 😝 [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
- - 💣 [You can see that the officer is fighting his demons](http://9gag.com/gag/aByO28N)
- - 😝 [The situation so far...](http://9gag.com/gag/amopvP4)
- - 👉 [Peak male content](http://9gag.com/gag/ajPW9pq)<!-- MEMES:END -->
+ - 💣 [I don&#39;t get it...](http://9gag.com/gag/aZZz3Kz)
+ - 😝 [Expedition 33 OST comments are fire](http://9gag.com/gag/aW4DxLK)
+ - 👉 [Iran-Israel war: unbearable images of civilians fleeing bombardment](http://9gag.com/gag/a2vLRDw)<!-- MEMES:END -->
 
 ---
 

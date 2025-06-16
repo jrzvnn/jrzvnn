@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Editors at PC Gamer = very angry!](http://9gag.com/gag/an7r9g5)
  - 😝 [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
- - 💣 [Gottem](http://9gag.com/gag/aVvV34O)
+ - 😝 [Duly noted](http://9gag.com/gag/aE0OxjM)
+ - 💣 [When the bureaucracy loop comes full circle.](http://9gag.com/gag/avydo0Z)
  - 😝 [That 2 AM pizza hits different](http://9gag.com/gag/aMVOAyW)
  - 👉 [That package better be good.](http://9gag.com/gag/aKGOjEg)<!-- MEMES:END -->
 

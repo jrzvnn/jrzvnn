@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Flash deal: M4 Mac mini drops to $499 in today&#39;s price war](https://appleinsider.com/articles/25/06/16/flash-deal-m4-mac-mini-drops-to-499-in-todays-price-war?utm_medium=rss)
+ - [Apple stuck with $58M fine after Dutch court rules it broke antitrust law](https://appleinsider.com/articles/25/06/16/apple-stuck-with-58m-fine-after-dutch-court-rules-it-broke-antitrust-law?utm_medium=rss)
  - [WWDC 2025 &amp; whats coming in the fall on the HomeKit Insider podcast](https://appleinsider.com/articles/25/06/16/wwdc-2025-whats-coming-in-the-fall-on-the-homekit-insider-podcast?utm_medium=rss)
  - [A handy charger for every Switch Joy-Con you own is just $20](https://www.theverge.com/tech/687488/switch-2-joy-con-charging-dock-accessory-gaming-laptop-soundbar-deal-sale)
- - [Trump Mobile will take on iPhone 17 in September with a made-in-US gold smartphone](https://appleinsider.com/articles/25/06/16/trump-mobile-will-take-on-iphone-17-in-september-with-a-made-in-us-gold-smartphone?utm_medium=rss)
- - [Microsoft’s Windows Hello facial recognition no longer works in the dark](https://www.theverge.com/news/687547/microsoft-windows-hello-facial-recognition-unlock-dark-room-not-working)
- - [The Trump Mobile T1 Phone looks both bad and impossible](https://www.theverge.com/gadgets/687492/trump-mobile-phone-t1)<!-- TECH:END -->
+ - [Trump Mobile will take on iPhone 17 in September with a made-in-US gold smartphone](https://appleinsider.com/articles/25/06/16/trump-mobile-will-take-on-iphone-17-in-september-with-a-made-in-us-gold-smartphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

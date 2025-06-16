@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is either genius or completely clueless, but I need to know more.](http://9gag.com/gag/a34bQg3)
- - 😝 [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
- - 💣 [I don&#39;t get it...](http://9gag.com/gag/aZZz3Kz)
+ - 😝 [When the bureaucracy loop comes full circle.](http://9gag.com/gag/avydo0Z)
  - 😝 [Expedition 33 OST comments are fire](http://9gag.com/gag/aW4DxLK)
- - 👉 [Iran-Israel war: unbearable images of civilians fleeing bombardment](http://9gag.com/gag/a2vLRDw)<!-- MEMES:END -->
+ - 💣 [Vacuum + vacuum + vacuum + vacuum](http://9gag.com/gag/a9yOR9o)
+ - 😝 [Men will understand](http://9gag.com/gag/aGyOp1Z)
+ - 👉 [I don&#39;t get it...](http://9gag.com/gag/aZZz3Kz)<!-- MEMES:END -->
 
 ---
 

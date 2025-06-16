@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Iran-Israel war: unbearable images of civilians fleeing bombardment](http://9gag.com/gag/a2vLRDw)
- - 😝 [Gottem](http://9gag.com/gag/aVvV34O)
- - 💣 [The little we know](http://9gag.com/gag/a0eMbgZ)
- - 😝 [An unbelievable way to score a basket](http://9gag.com/gag/ajPW8y1)
+ - 😝 [Safety first, I guess?](http://9gag.com/gag/a4PWGry)
+ - 😝 [That package better be good.](http://9gag.com/gag/aKGOjEg)
+ - 💣 [It&#39;s all about perspective, even in the Mushroom Kingdom.](http://9gag.com/gag/awyYQ3r)
+ - 😝 [Editors at PC Gamer = very angry!](http://9gag.com/gag/an7r9g5)
  - 👉 [What women say vs what they want](http://9gag.com/gag/aGyO1Xn)<!-- MEMES:END -->
 
 ---

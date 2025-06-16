@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple restarts its developer betas with iOS 18.6, macOS 15.6](https://appleinsider.com/articles/25/06/16/apple-restarts-its-developer-betas-with-ios-186-macos-156?utm_medium=rss)
+ - [Trump Mobile&#39;s made-in-US iPhone 17 competitor is really made in China](https://appleinsider.com/articles/25/06/16/trump-mobile-will-take-on-iphone-17-in-september-with-a-made-in-us-gold-smartphone?utm_medium=rss)
+ - [The Meta AI app now shows a warning prompt before users share content to the public feed, after reports of users accidentally sharing chats with personal info &lpar;Katie Notopoulos/Business Insider&rpar;](http://www.techmeme.com/250616/p22#a250616p22)
  - [Best Organic Mattresses &lpar;2025&rpar;: Certified Nontoxic, Natural Sleep](https://www.wired.com/gallery/best-organic-mattresses/)
- - [Sources: OpenAI and Microsoft talks have become so fraught that OpenAI execs discussed accusing Microsoft of anticompetitive behavior before federal regulators &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250616/p21#a250616p21)
- - [Companies Warn SEC That Mass Deportations Pose Serious Business Risk](https://www.wired.com/story/companies-mention-deportations-sec-filing/)
- - [How Did ChatGPT Get &#39;Absolutely Wrecked&#39; at Chess by an 1970s-Era Atari 2600?](https://www.cnet.com/tech/services-and-software/how-did-chatgpt-get-absolutely-wrecked-at-chess-losing-to-a-1970s-era-atari-2600/#ftag=CAD590a51e)
- - [Sources: Meta&#39;s talks with Scale AI started in mid-April, with Zuckerberg floating a $5B investment in early May, which Alexandr Wang later countered with $20B &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/250616/p20#a250616p20)<!-- TECH:END -->
+ - [Sources: OpenAI and Microsoft talks have become so fraught that OpenAI execs discussed accusing Microsoft of anticompetitive behavior before federal regulators &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250616/p21#a250616p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What could possibly go wrong? Let&#39;s pour alcohol all over the DJ Booth](http://9gag.com/gag/aLndwzx)
+ - 😝 [Iraqis now](http://9gag.com/gag/aVvVwOw)
  - 😝 [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
- - 💣 [I have no idea why 9gaggers complain about sitting in meetings](http://9gag.com/gag/aoyYePg)
- - 😝 [I don&#39;t get it...](http://9gag.com/gag/aZZz3Kz)
- - 👉 [He also couldn&#39;t believe it](http://9gag.com/gag/aLndjMz)<!-- MEMES:END -->
+ - 💣 [Helping a blind friend to make a living](http://9gag.com/gag/ary2GGV)
+ - 😝 [Take a break from all the propagagnda and have some tail wags...](http://9gag.com/gag/aoyY5qA)
+ - 👉 [White cat: Enough with this BS](http://9gag.com/gag/aAyOb1p)<!-- MEMES:END -->
 
 ---
 

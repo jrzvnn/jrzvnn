@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The situation so far...](http://9gag.com/gag/amopvP4)
+ - 😝 [Chicken fight](http://9gag.com/gag/azxY14q)
  - 😝 [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
- - 💣 [Ukrainian soldier before and after Russian captivity](http://9gag.com/gag/aVvVw3v)
- - 😝 [Iran-Israel war: unbearable images of civilians fleeing bombardment](http://9gag.com/gag/a2vLRDw)
- - 👉 [Finding a lost engagement ring on the beach for a grateful couple.](http://9gag.com/gag/a2vLZbZ)<!-- MEMES:END -->
+ - 💣 [He also couldn&#39;t believe it](http://9gag.com/gag/aLndjMz)
+ - 😝 [The moment of the big reveal for this stunning creation.](http://9gag.com/gag/amop7PX)
+ - 👉 [Like there were any girls here.](http://9gag.com/gag/an7rMME)<!-- MEMES:END -->
 
 ---
 

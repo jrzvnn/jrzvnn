@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is either genius or completely clueless, but I need to know more.](http://9gag.com/gag/a34bQg3)
+ - 😝 [What could possibly go wrong? Let&#39;s pour alcohol all over the DJ Booth](http://9gag.com/gag/aLndwzx)
  - 😝 [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
- - 💣 [Heimlich](http://9gag.com/gag/aMVOZPP)
- - 😝 [I don&#39;t get it...](http://9gag.com/gag/aZZz3Kz)
- - 👉 [He also couldn&#39;t believe it](http://9gag.com/gag/aLndjMz)<!-- MEMES:END -->
+ - 💣 [I don&#39;t get it...](http://9gag.com/gag/aZZz3Kz)
+ - 😝 [The napping gene is strong in this family.](http://9gag.com/gag/aXPKYe2)
+ - 👉 [That package better be good.](http://9gag.com/gag/aKGOjEg)<!-- MEMES:END -->
 
 ---
 

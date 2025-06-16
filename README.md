@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Digital asset platform Tron plans to go public via a reverse merger with Nasdaq-listed SRM Entertainment, after the US paused a probe into founder Justin Sun &lpar;Financial Times&rpar;](http://www.techmeme.com/250616/p9#a250616p9)
- - [The UK CMA launches a probe into the planned $13.25B merger of ad giants Omnicom and Interpublic to assess potential competition reduction in the UK ad market &lpar;DhanushVignesh Babu/Reuters&rpar;](http://www.techmeme.com/250616/p8#a250616p8)
- - [11 Best Mobile Game Controllers &lpar;2025&rpar;: iPhone or Android](https://www.wired.com/gallery/best-mobile-game-controllers-for-iphone-android/)
- - [A whistleblower provides nonpublic data revealing that 1M+ 2FA SMS messages from June 2023 passed via Fink Telecom, a small Swiss company linked to spy agencies &lpar;Bloomberg&rpar;](http://www.techmeme.com/250616/p7#a250616p7)
- - [Acefast Acefit Air Review: Sleek Style, Solid Substance](https://www.wired.com/review/acefast-acefit-air/)<!-- TECH:END -->
+ - [Trump Mobile launches $47 service and a gold phone](https://www.theverge.com/news/687418/trump-mobile-network-t1-trademark-application)
+ - [AirPods Pro 3 now rumored to launch in 2026](https://appleinsider.com/articles/25/06/16/airpods-pro-3-now-rumored-to-launch-in-2026?utm_medium=rss)
+ - [WhatsApp rolls out ads in its Updates tab, a first for the app, and will collect some data to target the ads, but says it has no plans to put ads in chats &lpar;New York Times&rpar;](http://www.techmeme.com/250616/p11#a250616p11)
+ - [Nintendo announces a Donkey Kong Bananza Direct](https://www.theverge.com/news/687451/nintendo-direct-donkey-kong-bananza-gameplay)
+ - [Kia EV4 Review: Price, Specs, Availability](https://www.wired.com/review/review-kia-ev4/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

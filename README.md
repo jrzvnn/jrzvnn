@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chicken fight](http://9gag.com/gag/azxY14q)
+ - 😝 [Iran-Israel war: unbearable images of civilians fleeing bombardment](http://9gag.com/gag/a2vLRDw)
  - 😝 [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
- - 💣 [That 2 AM pizza hits different](http://9gag.com/gag/aMVOAyW)
- - 😝 [That package better be good.](http://9gag.com/gag/aKGOjEg)
- - 👉 [The moment of the big reveal for this stunning creation.](http://9gag.com/gag/amop7PX)<!-- MEMES:END -->
+ - 💣 [Saab was living in 2090 back in 1990](http://9gag.com/gag/aLndg0z)
+ - 😝 [That last comment though](http://9gag.com/gag/aD2OgRK)
+ - 👉 [Perfection in every detail, they said. Meanwhile...](http://9gag.com/gag/aD2O1rx)<!-- MEMES:END -->
 
 ---
 

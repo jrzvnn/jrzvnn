@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The ultimate male coping mechanism](http://9gag.com/gag/awyYA9r)
  - 😝 [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
- - 😝 [Duly noted](http://9gag.com/gag/aE0OxjM)
- - 💣 [When the bureaucracy loop comes full circle.](http://9gag.com/gag/avydo0Z)
- - 😝 [That 2 AM pizza hits different](http://9gag.com/gag/aMVOAyW)
- - 👉 [That package better be good.](http://9gag.com/gag/aKGOjEg)<!-- MEMES:END -->
+ - 💣 [The feeling of getting your own space](http://9gag.com/gag/a5QqRZG)
+ - 😝 [This dog knows how to make your day better](http://9gag.com/gag/aGyOePX)
+ - 👉 [Saab was living in 2090 back in 1990](http://9gag.com/gag/aLndg0z)<!-- MEMES:END -->
 
 ---
 

@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Heimlich](http://9gag.com/gag/aMVOZPP)
  - 😝 [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
- - 💣 [I have no idea why 9gaggers complain about sitting in meetings](http://9gag.com/gag/aoyYePg)
- - 😝 [That package better be good.](http://9gag.com/gag/aKGOjEg)
- - 👉 [I don&#39;t get it...](http://9gag.com/gag/aZZz3Kz)<!-- MEMES:END -->
+ - 💣 [Thanks for taking down that violent thug sir. \u201c wait , he\u2019s a violent thug?\u201d 10/10 tackle.](http://9gag.com/gag/aPA17QR)
+ - 😝 [Iran-Israel war: unbearable images of civilians fleeing bombardment](http://9gag.com/gag/a2vLRDw)
+ - 👉 [Ukrainian soldier before and after Russian captivity](http://9gag.com/gag/aVvVw3v)<!-- MEMES:END -->
 
 ---
 

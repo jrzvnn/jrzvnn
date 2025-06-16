@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That package better be good.](http://9gag.com/gag/aKGOjEg)
+ - 😝 [Chicken fight](http://9gag.com/gag/azxY14q)
  - 😝 [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
  - 💣 [That 2 AM pizza hits different](http://9gag.com/gag/aMVOAyW)
- - 😝 [I don&#39;t get it...](http://9gag.com/gag/aZZz3Kz)
- - 👉 [When the bureaucracy loop comes full circle.](http://9gag.com/gag/avydo0Z)<!-- MEMES:END -->
+ - 😝 [That package better be good.](http://9gag.com/gag/aKGOjEg)
+ - 👉 [The moment of the big reveal for this stunning creation.](http://9gag.com/gag/amop7PX)<!-- MEMES:END -->
 
 ---
 

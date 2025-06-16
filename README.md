@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Threads will let you hide spoilers in your posts](https://www.theverge.com/news/687655/threads-hide-spoilers-test-launch)
+ - [7 Best Electric Toothbrushes, Tested For Two Weeks Each &lpar;2025&rpar;](https://www.wired.com/gallery/best-electric-toothbrushes/)
+ - [EchoStar&#39;s stock jumps 45%+ after a report said EchoStar&#39;s chairman met Trump, a day after meeting FCC&#39;s Carr; EchoStar faces FCC spectrum license uncertainty &lpar;Monica Alleven/Fierce Network&rpar;](http://www.techmeme.com/250616/p18#a250616p18)
  - [Threads plans to let users hide text or images that spoil a piece of entertainment, blurring the text or image that has been marked as a spoiler &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/250616/p17#a250616p17)
- - [Juniper Square, which offers investment management and fund administration tools for real estate, PE, VC firms, raised $130M led by Ribbit at a $1.1B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250616/p16#a250616p16)
- - [Trump Mobile&#39;s made-in-US iPhone 17 competitor is really made in China](https://appleinsider.com/articles/25/06/16/trump-mobile-will-take-on-iphone-17-in-september-with-a-made-in-us-gold-smartphone?utm_medium=rss)
- - [NBA Finals 2025: How to Watch Pacers vs. Thunder Game 5 Tonight](https://www.cnet.com/tech/services-and-software/nba-finals-2025-how-to-watch-pacers-vs-thunder-game-5-tonight/#ftag=CAD590a51e)
- - [&#39;How to Train Your Dragon&#39; Has Tempered My Disdain for Live-Action Remakes](https://www.cnet.com/tech/services-and-software/how-to-train-your-dragon-has-tempered-my-disdain-for-live-action-remakes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Juniper Square, which offers investment management and fund administration tools for real estate, PE, VC firms, raised $130M led by Ribbit at a $1.1B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250616/p16#a250616p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

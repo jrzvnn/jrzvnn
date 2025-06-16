@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What&#39;s new with iPad app windows in iPadOS 26, and how they work](https://appleinsider.com/inside/ipados-26/tips/whats-new-with-ipad-app-windows-in-ipados-26-and-how-they-work?utm_medium=rss)
- - [Amazon Ads and Roku sign a new ad initiative to give media buyers access to 80%+ of US connected-TV households, set to launch by Q4 2025, using Amazon&#39;s DSP &lpar;Dade Hayes/Deadline&rpar;](http://www.techmeme.com/250616/p6#a250616p6)
- - [Apple now expected to unveil HomeOS, related hardware ahead of 2026 WWDC](https://appleinsider.com/articles/25/06/15/apple-now-expected-to-unveil-homeos-related-hardware-ahead-of-2026-wwdc?utm_medium=rss)
- - [The 6 Best Blow-Dry Brushes &lpar;2025&rpar;: Round, Oval, and More](https://www.wired.com/gallery/best-blow-dry-brushes/)
- - [OnePlus announces the Nord 5 and four more products](https://www.theverge.com/news/687441/oneplus-nord5-ce5-buds4-pad-lite-watch3)<!-- TECH:END -->
+ - [Digital asset platform Tron plans to go public via a reverse merger with Nasdaq-listed SRM Entertainment, after the US paused a probe into founder Justin Sun &lpar;Financial Times&rpar;](http://www.techmeme.com/250616/p9#a250616p9)
+ - [The UK CMA launches a probe into the planned $13.25B merger of ad giants Omnicom and Interpublic to assess potential competition reduction in the UK ad market &lpar;DhanushVignesh Babu/Reuters&rpar;](http://www.techmeme.com/250616/p8#a250616p8)
+ - [11 Best Mobile Game Controllers &lpar;2025&rpar;: iPhone or Android](https://www.wired.com/gallery/best-mobile-game-controllers-for-iphone-android/)
+ - [A whistleblower provides nonpublic data revealing that 1M+ 2FA SMS messages from June 2023 passed via Fink Telecom, a small Swiss company linked to spy agencies &lpar;Bloomberg&rpar;](http://www.techmeme.com/250616/p7#a250616p7)
+ - [Acefast Acefit Air Review: Sleek Style, Solid Substance](https://www.wired.com/review/acefast-acefit-air/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

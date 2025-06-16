@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Aspora, which makes financial tools like remittance services for the Indian diaspora, raised a $50M Series B co-led by Sequoia and Greylock at a $500M valuation &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250616/p1#a250616p1)
  - [Anker’s Soundcore Sleep earbuds finally feature active noise canceling](https://www.theverge.com/news/686034/anker-soundcore-sleep-a30-wireless-earbuds-anc-active-noise-canceling)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 16, #266](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-16-266/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword Answers for Monday, June 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-june-16/#ftag=CAD590a51e)
- - [Dygma Raise 2 review: A split keyboard with a too hefty price](https://appleinsider.com/articles/25/06/15/dygma-raise-2-review-a-split-keyboard-with-a-hefty-price?utm_medium=rss)
- - [Berlin-based Knowunity, an AI-powered learning platform with 20M+ users in 15 countries, raised a €27M Series B led by XAnge, bringing its total funding to €45M &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/250615/p18#a250615p18)<!-- TECH:END -->
+ - [Dygma Raise 2 review: A split keyboard with a too hefty price](https://appleinsider.com/articles/25/06/15/dygma-raise-2-review-a-split-keyboard-with-a-hefty-price?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

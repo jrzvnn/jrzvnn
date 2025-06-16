@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In March, New York added a checkbox to its WARN system for companies to show if &quot;technological innovation or automation&quot;, like AI, was a reason for mass layoffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250616/p2#a250616p2)
+ - [Here comes the AI sponcon](https://www.theverge.com/news/684572/tiktok-ai-advertising-videos-try-on-product-placement)
  - [Aspora, which makes financial tools like remittance services for the Indian diaspora, raised a $50M Series B co-led by Sequoia and Greylock at a $500M valuation &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250616/p1#a250616p1)
  - [Anker’s Soundcore Sleep earbuds finally feature active noise canceling](https://www.theverge.com/news/686034/anker-soundcore-sleep-a30-wireless-earbuds-anc-active-noise-canceling)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 16, #266](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-16-266/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, June 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-june-16/#ftag=CAD590a51e)
- - [Dygma Raise 2 review: A split keyboard with a too hefty price](https://appleinsider.com/articles/25/06/15/dygma-raise-2-review-a-split-keyboard-with-a-hefty-price?utm_medium=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 16, #266](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-16-266/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

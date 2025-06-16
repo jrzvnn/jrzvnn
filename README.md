@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [8 Best Automatic Litter Boxes &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-automatic-cat-litter-boxes/)
  - [Trump Mobile launches $47 service and a gold phone](https://www.theverge.com/news/687418/trump-mobile-network-t1-trademark-application)
  - [AirPods Pro 3 now rumored to launch in 2026](https://appleinsider.com/articles/25/06/16/airpods-pro-3-now-rumored-to-launch-in-2026?utm_medium=rss)
- - [WhatsApp rolls out ads in its Updates tab, a first for the app, and will collect some data to target the ads, but says it has no plans to put ads in chats &lpar;New York Times&rpar;](http://www.techmeme.com/250616/p11#a250616p11)
- - [Nintendo announces a Donkey Kong Bananza Direct](https://www.theverge.com/news/687451/nintendo-direct-donkey-kong-bananza-gameplay)
- - [Kia EV4 Review: Price, Specs, Availability](https://www.wired.com/review/review-kia-ev4/)<!-- TECH:END -->
+ - [WhatsApp rolls out ads in its Updates tab, a first for the app, and Meta will collect some data to target the ads, but says it has no plans to put ads in chats &lpar;New York Times&rpar;](http://www.techmeme.com/250616/p11#a250616p11)
+ - [Nintendo announces a Donkey Kong Bananza Direct](https://www.theverge.com/news/687451/nintendo-direct-donkey-kong-bananza-gameplay)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

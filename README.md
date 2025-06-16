@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chinese wood](http://9gag.com/gag/aXPKY96)
+ - 😝 [He also couldn&#39;t believe it](http://9gag.com/gag/aLndjMz)
  - 😝 [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
- - 💣 [Gottem](http://9gag.com/gag/aVvV34O)
- - 😝 [When the bureaucracy loop comes full circle.](http://9gag.com/gag/avydo0Z)
- - 👉 [I don&#39;t get it...](http://9gag.com/gag/aZZz3Kz)<!-- MEMES:END -->
+ - 💣 [Safety first, I guess?](http://9gag.com/gag/a4PWGry)
+ - 😝 [That 2 AM pizza hits different](http://9gag.com/gag/aMVOAyW)
+ - 👉 [Women](http://9gag.com/gag/a1mER9P)<!-- MEMES:END -->
 
 ---
 

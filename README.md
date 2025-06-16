@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft’s Windows Hello facial recognition no longer works in the dark](https://www.theverge.com/news/687547/microsoft-windows-hello-facial-recognition-unlock-dark-room-not-working)
+ - [The Trump Mobile T1 Phone looks both bad and impossible](https://www.theverge.com/gadgets/687492/trump-mobile-phone-t1)
+ - [A small update to Visual Intelligence in iOS 26 makes a giant difference in usability](https://appleinsider.com/articles/25/06/16/a-small-update-to-visual-intelligence-in-ios-26-makes-a-giant-difference-in-usability?utm_medium=rss)
  - [Trump Media and Technology Group files an S-1 with the US SEC to launch a spot Bitcoin and Ethereum ETF, allocating 75% to bitcoin and 25% to ether &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/250616/p14#a250616p14)
- - [Europol, Germany, and more dismantle Archetyp Market, a darknet drug marketplace active since May 2020 with 612K users processing €250M+ in Monero transactions &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250616/p13#a250616p13)
- - [WhatsApp is officially getting ads](https://www.theverge.com/news/687519/whatsapp-launch-advertising-status-updates)
- - [AI is just another productivity tool and the productivity gains will be limited; for lasting economic expansion, AI must catalyze new industries and initiatives &lpar;Carl Benedikt Frey/Financial Times&rpar;](http://www.techmeme.com/250616/p12#a250616p12)
- - [How polls in iOS 26 Messages app makes group planning easier](https://appleinsider.com/articles/25/06/16/how-polls-in-ios-26-messages-app-makes-group-planning-easier?utm_medium=rss)<!-- TECH:END -->
+ - [Europol, Germany, and more dismantle Archetyp Market, a darknet drug marketplace active since May 2020 with 612K users processing €250M+ in Monero transactions &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250616/p13#a250616p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

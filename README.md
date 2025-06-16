@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Iran-Israel war: unbearable images of civilians fleeing bombardment](http://9gag.com/gag/a2vLRDw)
+ - 😝 [Like there were any girls here.](http://9gag.com/gag/an7rMME)
  - 😝 [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
- - 💣 [Saab was living in 2090 back in 1990](http://9gag.com/gag/aLndg0z)
- - 😝 [That last comment though](http://9gag.com/gag/aD2OgRK)
- - 👉 [Perfection in every detail, they said. Meanwhile...](http://9gag.com/gag/aD2O1rx)<!-- MEMES:END -->
+ - 💣 [When the bureaucracy loop comes full circle.](http://9gag.com/gag/avydo0Z)
+ - 😝 [That 2 AM pizza hits different](http://9gag.com/gag/aMVOAyW)
+ - 👉 [I don&#39;t get it...](http://9gag.com/gag/aZZz3Kz)<!-- MEMES:END -->
 
 ---
 

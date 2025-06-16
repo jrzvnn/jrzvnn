@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Like there were any girls here.](http://9gag.com/gag/an7rMME)
+ - 😝 [Chinese wood](http://9gag.com/gag/aXPKY96)
  - 😝 [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
- - 💣 [When the bureaucracy loop comes full circle.](http://9gag.com/gag/avydo0Z)
- - 😝 [That 2 AM pizza hits different](http://9gag.com/gag/aMVOAyW)
+ - 💣 [Gottem](http://9gag.com/gag/aVvV34O)
+ - 😝 [When the bureaucracy loop comes full circle.](http://9gag.com/gag/avydo0Z)
  - 👉 [I don&#39;t get it...](http://9gag.com/gag/aZZz3Kz)<!-- MEMES:END -->
 
 ---

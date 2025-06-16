@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The napping gene is strong in this family.](http://9gag.com/gag/aXPKYe2)
+ - 😝 [I don&#39;t get it...](http://9gag.com/gag/aZZz3Kz)
  - 😝 [FINAL CALL - Last chance to vote for your favorite meme today\ud83d\udd25](http://9gag.com/gag/amopvq2)
  - 💣 [The moment of the big reveal for this stunning creation.](http://9gag.com/gag/amop7PX)
- - 😝 [I don&#39;t get it...](http://9gag.com/gag/aZZz3Kz)
- - 👉 [Safety first, I guess?](http://9gag.com/gag/a4PWGry)<!-- MEMES:END -->
+ - 😝 [An unbelievable way to score a basket](http://9gag.com/gag/ajPW8y1)
+ - 👉 [Dreamgirl](http://9gag.com/gag/awyYAA4)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft’s next-gen Xbox has an AMD chip inside and is ‘not locked to a single store’](https://www.theverge.com/news/688407/microsoft-next-gen-xbox-cloud-amd)
+ - [Anysphere debuts a $200/month Ultra plan for Cursor with 20x more usage on AI models from OpenAI, Anthropic, Google DeepMind, and xAI vs. its $20/month Pro plan &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250617/p24#a250617p24)
+ - [LG’s C4 OLED TV has dropped to a new low price](https://www.theverge.com/tech/688378/lg-c4-oled-tv-motorola-razr-ultra-deal-sale)
  - [Threads launches a fediverse feed and a way to search for fediverse users, with support for Mastodon and others, for users who turned on fediverse sharing &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/250617/p23#a250617p23)
- - [What&#39;s new with iPad app windows in iPadOS 26, and how they work](https://appleinsider.com/inside/ipados-26/tips/whats-new-with-ipad-app-windows-in-ipados-26-and-how-they-work?utm_medium=rss)
- - [How Private Equity Killed the American Dream](https://www.wired.com/story/megan-greenwell-bad-company-private-equity-interview/)
- - [Who is really behind the Trump Mobile T1 phone?](https://www.theverge.com/tech/687800/trump-t1-phone-suspects-revvl-ulefone-doogee)
- - [How to sign up for Amazon Prime](https://www.theverge.com/21493780/amazon-prime-sign-up-day-deals-sale-price-free)<!-- TECH:END -->
+ - [What&#39;s new with iPad app windows in iPadOS 26, and how they work](https://appleinsider.com/inside/ipados-26/tips/whats-new-with-ipad-app-windows-in-ipados-26-and-how-they-work?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

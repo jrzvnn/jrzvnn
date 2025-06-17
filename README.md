@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [OpenAI awarded $200 million US defense contract](https://www.theverge.com/news/688041/openai-us-defense-department-200-million-contract)
  - [Tinder unveils Double Date, bringing the double dating feature back to the US after shelving it in 2017 over privacy concerns, rolling out globally in July &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250617/p5#a250617p5)
- - [Scientists Discover the Key to Axolotls’ Ability to Regenerate Limbs](https://www.wired.com/story/scientists-discover-the-key-to-axolotls-ability-to-regenerate-limbs/)
- - [Survey: US employees who use AI at work at least a few times per year rises from 21% in 2023 to 40% in 2025, and 19% report frequently using AI, up from 11% &lpar;Ryan Pendell/Gallup&rpar;](http://www.techmeme.com/250617/p4#a250617p4)
- - [Amazon Prime Day Swells to a 4-Day Event, With Tariffs Still Looming Large](https://www.cnet.com/tech/amazon-prime-day-swells-to-a-4-day-event-with-tariffs-still-looming-large/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [5% Mortgage Rates Are Real. How Homebuyers Are Making It Happen](https://www.cnet.com/personal-finance/mortgages/5-mortgage-rates-are-real-how-homebuyers-are-making-it-happen/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 17, #471](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-17-471/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 17, #267](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-17-267/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

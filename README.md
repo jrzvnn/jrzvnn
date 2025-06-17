@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Bonucci for gender equality \u2665](http://9gag.com/gag/aqyYjKZ)
  - 😝 [Iran-Israel war: unbearable images of civilians fleeing bombardment](http://9gag.com/gag/a2vLRDw)
- - 😝 [Art of gravity](http://9gag.com/gag/an7r9Ro)
- - 💣 [Bonucci for gender equality \u2665](http://9gag.com/gag/aqyYjKZ)
- - 😝 [What does it means?](http://9gag.com/gag/ajPWmZG)
- - 👉 [Just a NPC](http://9gag.com/gag/aYQAYe2)<!-- MEMES:END -->
+ - 💣 [Just a NPC](http://9gag.com/gag/aYQAYe2)
+ - 😝 [Oh well](http://9gag.com/gag/a9yOEw6)
+ - 👉 [My new workout video.](http://9gag.com/gag/awyYoQD)<!-- MEMES:END -->
 
 ---
 

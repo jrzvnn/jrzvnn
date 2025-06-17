@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Angels don\u2019t exis\u2026.](http://9gag.com/gag/a1mERA8)
- - 😝 [Space is Cold](http://9gag.com/gag/a4PW32Q)
- - 💣 [This image unlocks a very specific core memory.](http://9gag.com/gag/a6ZjELq)
- - 😝 [&#39;CARMAGEDON&#39; 2.0](http://9gag.com/gag/aD2O4MO)
- - 👉 [You can see that the officer is fighting his demons](http://9gag.com/gag/aByO28N)<!-- MEMES:END -->
+ - 😝 [The survivor seat.](http://9gag.com/gag/aMVOjRP)
+ - 😝 [Traveling with Trevor](http://9gag.com/gag/an7r92B)
+ - 💣 [Did not expect that sound from this bird](http://9gag.com/gag/azxY1GB)
+ - 😝 [That unexpected reaction](http://9gag.com/gag/aPA1Rrg)
+ - 👉 [Pew pew pistol shrimp](http://9gag.com/gag/agmEngv)<!-- MEMES:END -->
 
 ---
 

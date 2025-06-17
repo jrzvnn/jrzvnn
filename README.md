@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is either genius or completely clueless, but I need to know more.](http://9gag.com/gag/a34bQg3)
- - 😝 [Iran-Israel war: unbearable images of civilians fleeing bombardment](http://9gag.com/gag/a2vLRDw)
+ - 😝 [Vacuum + vacuum + vacuum + vacuum](http://9gag.com/gag/a9yOR9o)
+ - 😝 [Dreamgirl](http://9gag.com/gag/awyYAA4)
  - 💣 [What could possibly go wrong? Let&#39;s pour alcohol all over the DJ Booth](http://9gag.com/gag/aLndwzx)
- - 😝 [The survivor seat.](http://9gag.com/gag/aMVOjRP)
- - 👉 [When the bureaucracy loop comes full circle.](http://9gag.com/gag/avydo0Z)<!-- MEMES:END -->
+ - 😝 [Women](http://9gag.com/gag/a1mER9P)
+ - 👉 [My new workout video.](http://9gag.com/gag/awyYoQD)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My new workout video.](http://9gag.com/gag/awyYoQD)
- - 😝 [Iran-Israel war: unbearable images of civilians fleeing bombardment](http://9gag.com/gag/a2vLRDw)
- - 💣 [Never mention Hubert around him](http://9gag.com/gag/aMVOKKP)
- - 😝 [What sorcery is this? *they&#39;re not moving*](http://9gag.com/gag/avydo9Z)
- - 👉 [You can see that the officer is fighting his demons](http://9gag.com/gag/aByO28N)<!-- MEMES:END -->
+ - 😝 [Space is Cold](http://9gag.com/gag/a4PW32Q)
+ - 😝 [Angels don\u2019t exis\u2026.](http://9gag.com/gag/a1mERA8)
+ - 💣 [Oh well](http://9gag.com/gag/a9yOEw6)
+ - 😝 [You have been Rickrolled! in the most informative way...](http://9gag.com/gag/aRBO7zM)
+ - 👉 [This man has been walking around the world for 27 years and just reached Europe. What an incredible journey.](http://9gag.com/gag/aKGO6jW)<!-- MEMES:END -->
 
 ---
 

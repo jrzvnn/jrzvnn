@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [President Trump plans to sign an executive order this week to grant TikTok a 90-day extension in enforcement of the sale-or-ban law, marking his third extension &lpar;CNN&rpar;](http://www.techmeme.com/250617/p39#a250617p39)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [The US Senate confirms Olivia Trusty to the FCC, giving Republicans a 2-1 majority after the recent departures of two members &lpar;Ted Johnson/Deadline&rpar;](http://www.techmeme.com/250617/p38#a250617p38)
- - [WhatsApp’s rollout of ads will change the app forever](https://www.theverge.com/meta/688714/whatsapp-ads-rollout-change-app-meta)
- - [The US Senate passes the Genius Act, which establishes a regulatory framework for stablecoins; the bill now heads to the House &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250617/p37#a250617p37)<!-- TECH:END -->
+ - [Trump is giving TikTok another ban extension](https://www.theverge.com/news/688252/tiktok-ban-trump-extension-deal)
+ - [Sources: Substack is pitching investors on a round between $50M and $100M that would value it above its ~$700M last round price, and is generating ~$45M in ARR &lpar;Eric Newcomer/Newcomer&rpar;](http://www.techmeme.com/250617/p40#a250617p40)
+ - [Senate confirms Trump’s FCC pick, Olivia Trusty](https://www.theverge.com/news/688824/olivia-trusty-fcc-senate-confirmation-trump)
+ - [Meta is making all Facebook videos reels](https://www.theverge.com/news/688828/meta-facebook-videos-reels)
+ - [President Trump plans to sign an executive order this week to grant TikTok a 90-day extension in enforcement of the sale-or-ban law, marking his third extension &lpar;CNN&rpar;](http://www.techmeme.com/250617/p39#a250617p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The survivor seat.](http://9gag.com/gag/aMVOjRP)
- - 😝 [Traveling with Trevor](http://9gag.com/gag/an7r92B)
- - 💣 [Did not expect that sound from this bird](http://9gag.com/gag/azxY1GB)
- - 😝 [That unexpected reaction](http://9gag.com/gag/aPA1Rrg)
- - 👉 [Pew pew pistol shrimp](http://9gag.com/gag/agmEngv)<!-- MEMES:END -->
+ - 😝 [Dreamgirl](http://9gag.com/gag/awyYAA4)
+ - 😝 [They dont know Styropyro](http://9gag.com/gag/a1mEo6D)
+ - 💣 [He had second thought about his job as a priest.](http://9gag.com/gag/ayNYowW)
+ - 😝 [Did not expect that sound from this bird](http://9gag.com/gag/azxY1GB)
+ - 👉 [Heimlich](http://9gag.com/gag/aMVOZPP)<!-- MEMES:END -->
 
 ---
 

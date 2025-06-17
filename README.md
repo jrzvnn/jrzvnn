@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney and Amazon partner to let media buyers using Amazon&#39;s DSP have better tools to target consumers on ad-tier programming across Disney+, Hulu, and ESPN+ &lpar;Erik Hayden/The Hollywood Reporter&rpar;](http://www.techmeme.com/250617/p18#a250617p18)
- - [Blue Prince is coming to Mac](https://www.theverge.com/news/688242/blue-prince-mac-support-steam-soundtrack)
- - [Apple&#39;s Home Hub smart home display leaks in iOS beta code](https://appleinsider.com/articles/25/06/17/apples-home-hub-smart-home-display-leaks-in-ios-beta-code?utm_medium=rss)
- - [Amazon announces Prime Day 2025 dates and big change to the sale](https://appleinsider.com/articles/25/06/17/amazon-announces-prime-day-2025-dates-and-big-change-to-the-sale?utm_medium=rss)
- - [Apple may look late to AI but it&#39;s aiming for something different](https://appleinsider.com/articles/25/06/17/apple-may-look-late-to-ai-but-its-aiming-for-something-different?utm_medium=rss)<!-- TECH:END -->
+ - [Salesforce says it will increase prices on many products in August, including Slack; major product lines will see a 6% increase on average &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250617/p20#a250617p20)
+ - [Eigen Labs raised $70M via a token purchase by a16z and launched EigenCloud, which helps developers cryptographically prove what happens in off-chain apps &lpar;Liam Wright/Forbes&rpar;](http://www.techmeme.com/250617/p19#a250617p19)
+ - [Mortgage Rates and the Fed: Everything to Know Before Tomorrow&#39;s Decision](https://www.cnet.com/personal-finance/mortgages/mortgage-rates-and-the-fed-everything-to-know-before-tomorrows-decision/#ftag=CAD590a51e)
+ - [OnePlus Watch 3 Review: The Best Battery Life of Any Android Smartwatch](https://www.cnet.com/tech/mobile/oneplus-watch-3-review-the-best-battery-life-of-any-android-smartwatch/#ftag=CAD590a51e)
+ - [Disney and Amazon partner to let media buyers using Amazon&#39;s DSP have better tools to target consumers on ad-tier programming across Disney+, Hulu, and ESPN+ &lpar;Erik Hayden/The Hollywood Reporter&rpar;](http://www.techmeme.com/250617/p18#a250617p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

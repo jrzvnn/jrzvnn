@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Max will show autoplaying video previews picked by AI](https://www.theverge.com/news/688313/max-video-previews-autoplay-update)
+ - [How to sign up for Amazon Prime](https://www.theverge.com/21493780/amazon-prime-sign-up-day-deals-sale-price-free)
+ - [Waymo expands its coverage area in San Francisco and LA by 80 square miles each, bringing its total coverage area in California to 250 square miles &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250617/p22#a250617p22)
  - [Satechi&#39;s latest SSD enclosure brings serious speed in a small package](https://appleinsider.com/articles/25/06/17/satechis-latest-ssd-enclosure-brings-serious-speed-in-a-small-package?utm_medium=rss)
- - [California is trying to regulate its AI giants — again](https://www.theverge.com/ai-artificial-intelligence/688301/california-is-trying-to-regulate-its-ai-giants-again)
- - [Google makes Gemini 2.5 Flash and Pro generally available and introduces 2.5 Flash-Lite, which it says is its most cost-efficient and fastest 2.5 model yet &lpar;Tulsee Doshi/The Keyword&rpar;](http://www.techmeme.com/250617/p21#a250617p21)
- - [Philips’ new ambient wall light is now available](https://www.theverge.com/news/688312/philips-hue-play-wall-washer-ambient-light-ai-assistant)<!-- TECH:END -->
+ - [All hell is about to break loose in new trailer for The Sandman season 2](https://www.theverge.com/news/688272/the-sandman-season-2-trailer-release-date)
+ - [Waymo is gradually expanding its borders in California](https://www.theverge.com/news/688202/waymo-sf-la-service-area-expand-robotaxi)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

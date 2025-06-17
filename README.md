@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a memo to employees, Amazon CEO Andy Jassy says AI &quot;will reduce our total corporate workforce as we get efficiency gains&quot; over time &lpar;Steve Kopack/NBC News&rpar;](http://www.techmeme.com/250617/p30#a250617p30)
+ - [Four reasons why it’s a surprisingly bad time to buy a gaming handheld](https://www.theverge.com/editorial/688415/state-of-handheld-gaming-editorial-switch-2-deck-oled-sold-out)
  - [Microsoft and AMD announce a &quot;strategic, multi-year partnership&quot; to design custom silicon for a number of devices, including next-generation Xbox consoles &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/250617/p29#a250617p29)
  - [Sources: Meta and EssilorLuxottica plan AI-powered smart glasses under Oakley and Prada brands; they will be aimed at athletes, and the Oakleys may cost ~$360 &lpar;CNBC&rpar;](http://www.techmeme.com/250617/p28#a250617p28)
- - [Starlink&#39;s Residential Lite Plan Can Save You $40 a Month, but There&#39;s a Big Catch](https://www.cnet.com/home/internet/starlinks-residential-lite-plan-can-save-you-40-a-month-but-theres-a-big-catch/#ftag=CAD590a51e)
- - [Facebook renames its Videos tab as the Reels tab and says all videos on its platform will soon be shared as reels, regardless of their length or orientation &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250617/p27#a250617p27)
- - [Bungie delays Marathon after alpha test feedback](https://www.theverge.com/news/688479/bungie-marathon-delay-sony)<!-- TECH:END -->
+ - [Starlink&#39;s Residential Lite Plan Can Save You $40 a Month, but There&#39;s a Big Catch](https://www.cnet.com/home/internet/starlinks-residential-lite-plan-can-save-you-40-a-month-but-theres-a-big-catch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

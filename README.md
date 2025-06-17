@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Vacuum + vacuum + vacuum + vacuum](http://9gag.com/gag/a9yOR9o)
- - 😝 [IRAN ATTACKED US EMBASSY I REPEAT IRAN ATTACKED US EMBASSY](http://9gag.com/gag/azxY12p)
- - 💣 [A waiter&#39;s surprising table side trick.](http://9gag.com/gag/a9yOEbD)
- - 😝 [Cute!](http://9gag.com/gag/a1mERE8)
- - 👉 [What does it means?](http://9gag.com/gag/ajPWmZG)<!-- MEMES:END -->
+ - 😝 [Well, that didn&#39;t go as planned.](http://9gag.com/gag/aqyYGw7)
+ - 😝 [Uff good one](http://9gag.com/gag/aLndwZP)
+ - 💣 [Ukrainian soldier before and after Russian captivity](http://9gag.com/gag/aVvVw3v)
+ - 😝 [What does it means?](http://9gag.com/gag/ajPWmZG)
+ - 👉 [Cute!](http://9gag.com/gag/a1mERE8)<!-- MEMES:END -->
 
 ---
 

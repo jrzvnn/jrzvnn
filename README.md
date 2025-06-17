@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to sign up for Amazon Prime](https://www.theverge.com/21493780/amazon-prime-sign-up-day-deals-sale-price-free)
- - [Waymo expands its coverage area in San Francisco and LA by 80 square miles each, bringing its total coverage area in California to 250 square miles &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250617/p22#a250617p22)
- - [Satechi&#39;s latest SSD enclosure brings serious speed in a small package](https://appleinsider.com/articles/25/06/17/satechis-latest-ssd-enclosure-brings-serious-speed-in-a-small-package?utm_medium=rss)
- - [All hell is about to break loose in new trailer for The Sandman season 2](https://www.theverge.com/news/688272/the-sandman-season-2-trailer-release-date)
- - [Waymo is gradually expanding its borders in California](https://www.theverge.com/news/688202/waymo-sf-la-service-area-expand-robotaxi)<!-- TECH:END -->
+ - [Threads launches a fediverse feed and a way to search for fediverse users, with support for Mastodon and others, for users who turned on fediverse sharing &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/250617/p23#a250617p23)
+ - [What&#39;s new with iPad app windows in iPadOS 26, and how they work](https://appleinsider.com/inside/ipados-26/tips/whats-new-with-ipad-app-windows-in-ipados-26-and-how-they-work?utm_medium=rss)
+ - [How Private Equity Killed the American Dream](https://www.wired.com/story/megan-greenwell-bad-company-private-equity-interview/)
+ - [Who is really behind the Trump Mobile T1 phone?](https://www.theverge.com/tech/687800/trump-t1-phone-suspects-revvl-ulefone-doogee)
+ - [How to sign up for Amazon Prime](https://www.theverge.com/21493780/amazon-prime-sign-up-day-deals-sale-price-free)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

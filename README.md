@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Space is Cold](http://9gag.com/gag/a4PW32Q)
- - 😝 [Angels don\u2019t exis\u2026.](http://9gag.com/gag/a1mERA8)
- - 💣 [Oh well](http://9gag.com/gag/a9yOEw6)
- - 😝 [You have been Rickrolled! in the most informative way...](http://9gag.com/gag/aRBO7zM)
- - 👉 [This man has been walking around the world for 27 years and just reached Europe. What an incredible journey.](http://9gag.com/gag/aKGO6jW)<!-- MEMES:END -->
+ - 😝 [Oh well](http://9gag.com/gag/a9yOEw6)
+ - 😝 [Ukrainian soldier before and after Russian captivity](http://9gag.com/gag/aVvVw3v)
+ - 💣 [Iran-Israel war: unbearable images of civilians fleeing bombardment](http://9gag.com/gag/a2vLRDw)
+ - 😝 [IRAN ATTACKED US EMBASSY I REPEAT IRAN ATTACKED US EMBASSY](http://9gag.com/gag/azxY12p)
+ - 👉 [Understood.](http://9gag.com/gag/aE0OpQn)<!-- MEMES:END -->
 
 ---
 

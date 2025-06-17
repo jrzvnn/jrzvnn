@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [President Trump plans to sign an executive order this week to grant TikTok a 90-day extension in enforcement of the sale-or-ban law, marking his third extension &lpar;CNN&rpar;](http://www.techmeme.com/250617/p39#a250617p39)
  - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
  - [The US Senate confirms Olivia Trusty to the FCC, giving Republicans a 2-1 majority after the recent departures of two members &lpar;Ted Johnson/Deadline&rpar;](http://www.techmeme.com/250617/p38#a250617p38)
  - [WhatsApp’s rollout of ads will change the app forever](https://www.theverge.com/meta/688714/whatsapp-ads-rollout-change-app-meta)
- - [The US Senate passes the Genius Act, which establishes a regulatory framework for stablecoins; the bill now heads to the House &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250617/p37#a250617p37)
- - [Apple&#39;s Journal app is coming to iPad and Mac in iPadOS 26 and macOS Tahoe and gains features like multiple journals, map view, inline images, and more &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/250617/p36#a250617p36)<!-- TECH:END -->
+ - [The US Senate passes the Genius Act, which establishes a regulatory framework for stablecoins; the bill now heads to the House &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250617/p37#a250617p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

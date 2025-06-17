@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [eBay and Vestiaire Collective Want an Exemption from Trump’s Tariffs](https://www.wired.com/story/tariffs-secondhand-shopping-china-surprise/)
- - [Microsoft should change its Copilot advertising, says watchdog](https://www.theverge.com/news/688056/microsoft-copilot-advertising-watchdog-response)
- - [Apple faces iCloud lawsuit after after judge reverses victory](https://appleinsider.com/articles/25/06/17/apple-faces-icloud-lawsuit-after-after-judge-reverses-victory?utm_medium=rss)
- - [Shanghai-based MiniMax open sources MiniMax-M1, a model for complicated productivity tasks that supports 1M input tokens and it says beats DeepSeek&#39;s R1-0528 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250617/p11#a250617p11)
- - [Grow a Garden, a simple farming simulator game made within Roblox, hit 16.4M active players on June 14, surpassing other popular games&#39; peak concurrent users &lpar;Kieran Press-Reynolds/New York Times&rpar;](http://www.techmeme.com/250617/p10#a250617p10)<!-- TECH:END -->
+ - [Best Open Earbuds, Tested and Reviewed &lpar;2025&rpar;: Bose and More](https://www.wired.com/gallery/best-open-ear-buds/)
+ - [Dygma Raise 2 review: A split keyboard with a too hefty price](https://appleinsider.com/articles/25/06/15/dygma-raise-2-review-a-split-keyboard-with-a-hefty-price?utm_medium=rss)
+ - [Life with the Nintendo Switch 2](https://www.theverge.com/the-vergecast/688057/nintendo-switch-2-review-vergecast)
+ - [Self-driving simulation software maker Applied Intuition raised $600M co-led by BlackRock and Kleiner Perkins at a $15B valuation, up from $6B in March 2024 &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250617/p13#a250617p13)
+ - [Nielsen: in May, Americans watched more TV on streaming than on cable and broadcast networks combined, the first time that has happened over a full month &lpar;John Koblin/New York Times&rpar;](http://www.techmeme.com/250617/p12#a250617p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

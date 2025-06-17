@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft and AMD announce a &quot;strategic, multi-year partnership&quot; to design custom silicon for a number of devices, including next-generation Xbox consoles &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/250617/p29#a250617p29)
+ - [Sources: Meta and EssilorLuxottica plan AI-powered smart glasses under Oakley and Prada brands; they will be aimed at athletes, and the Oakleys may cost ~$360 &lpar;CNBC&rpar;](http://www.techmeme.com/250617/p28#a250617p28)
  - [Facebook renames its Videos tab as the Reels tab and says all videos on its platform will soon be shared as reels, regardless of their length or orientation &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250617/p27#a250617p27)
  - [Bungie delays Marathon after alpha test feedback](https://www.theverge.com/news/688479/bungie-marathon-delay-sony)
- - [Sports data company Teamworks raised a $235M Series F led by Dragoneer at a $1B+ valuation; its tech is used by 6.5K+ sports teams including all NFL teams &lpar;Randall Williams/Bloomberg&rpar;](http://www.techmeme.com/250617/p26#a250617p26)
- - [Nabla, which offers an AI copilot for doctors and other medical staff, raised a $70M Series C led by HV Capital and says it now supports 85K+ clinicians &lpar;Judy Rider/Crunchbase News&rpar;](http://www.techmeme.com/250617/p25#a250617p25)
- - [How to watch River Plate vs. Urawa Reds From Anywhere For Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-river-plate-vs-urawa-reds-from-anywhere-for-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sports data company Teamworks raised a $235M Series F led by Dragoneer at a $1B+ valuation; its tech is used by 6.5K+ sports teams including all NFL teams &lpar;Randall Williams/Bloomberg&rpar;](http://www.techmeme.com/250617/p26#a250617p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

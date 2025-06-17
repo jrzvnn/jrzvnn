@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Traveling with Trevor](http://9gag.com/gag/an7r92B)
- - 😝 [What does it means?](http://9gag.com/gag/ajPWmZG)
- - 💣 [Understood.](http://9gag.com/gag/aE0OpQn)
- - 😝 [Iran-Israel war: unbearable images of civilians fleeing bombardment](http://9gag.com/gag/a2vLRDw)
- - 👉 [Why is my cat glowing??](http://9gag.com/gag/aRBO7ry)<!-- MEMES:END -->
+ - 😝 [IRAN ATTACKED US EMBASSY I REPEAT IRAN ATTACKED US EMBASSY](http://9gag.com/gag/azxY12p)
+ - 😝 [Understood.](http://9gag.com/gag/aE0OpQn)
+ - 💣 [My new workout video.](http://9gag.com/gag/awyYoQD)
+ - 😝 [Why is my cat glowing??](http://9gag.com/gag/aRBO7ry)
+ - 👉 [You can see that the officer is fighting his demons](http://9gag.com/gag/aByO28N)<!-- MEMES:END -->
 
 ---
 

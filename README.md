@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Brad Pitt and Tim Cook gatecrash &#39;Severance&#39; event to promote &#39;F1&#39;](https://appleinsider.com/articles/25/06/17/brad-pitt-and-tim-cook-gatecrash-severance-event-to-promote-f1?utm_medium=rss)
+ - [Sky, ITV, and Channel 4 plan to provide streaming ad space in one marketplace, letting advertisers run campaigns simultaneously, to combat Google and Meta &lpar;Mark Sweney/The Guardian&rpar;](http://www.techmeme.com/250617/p8#a250617p8)
  - [The Best Vacuum for Pet Hair—We Tested a Dozen Models to Find Which Work Best](https://www.wired.com/gallery/best-pet-hair-vacuums/)
  - [[Thread] A new US paper shows the best frontier LLM models achieve 0% on hard real-life Programming Contest problems, domains where expert humans still excel &lpar;Rohan Paul/@rohanpaul_ai&rpar;](http://www.techmeme.com/250617/p7#a250617p7)
- - [Complaints About Tariff Evasion Have Jumped 160 Percent Under Trump](https://www.wired.com/story/tariff-evasion-reports-trump-cbp/)
- - [Studies: women are 25% less likely than men to have basic digital skills, are more likely to be in automation-threatened jobs, and use ChatGPT less at work &lpar;Isabel Berwick/Financial Times&rpar;](http://www.techmeme.com/250617/p6#a250617p6)
- - [OpenAI awarded $200 million US defense contract](https://www.theverge.com/news/688041/openai-us-defense-department-200-million-contract)<!-- TECH:END -->
+ - [Complaints About Tariff Evasion Have Jumped 160 Percent Under Trump](https://www.wired.com/story/tariff-evasion-reports-trump-cbp/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

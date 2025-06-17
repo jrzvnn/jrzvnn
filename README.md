@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI-powered virtual physical therapy startup Sword Health raised $40M led by General Catalyst at a $4B valuation, up from its $3B valuation from June 2024 &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250617/p17#a250617p17)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Download these now free retro mobile games before Sega removes them](https://www.theverge.com/news/688167/sega-retro-games-forever-program-free-download-ios-android-crazy-taxi-sonic)
  - [Apple&#39;s Back to School sale returns, but there are better deals](https://appleinsider.com/articles/25/06/17/apples-back-to-school-sale-returns-but-there-are-better-deals?utm_medium=rss)
- - [Sources: Elon Musk&#39;s xAI is in talks to raise $4.3B via an equity investment on top of the $5B it has recently been trying to borrow from debt investors &lpar;Bloomberg&rpar;](http://www.techmeme.com/250617/p16#a250617p16)
- - [What Type of Mattress Is Right for You? &lpar;2025&rpar;](https://www.wired.com/story/mattress-types-explained/)
- - [Adobe releases iOS and Android apps for Firefly, letting users generate images and videos using text prompts and experiment with popular AI photo editing tools &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250617/p15#a250617p15)
- - [The first two Netflix Houses will finally open in late 2025](https://www.theverge.com/news/687830/netflix-house-venue-dallas-philadelphia-las-vegas-open-late-2025)<!-- TECH:END -->
+ - [Sources: Elon Musk&#39;s xAI is in talks to raise $4.3B via an equity investment on top of the $5B it has recently been trying to borrow from debt investors &lpar;Bloomberg&rpar;](http://www.techmeme.com/250617/p16#a250617p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

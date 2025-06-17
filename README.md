@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Heimlich](http://9gag.com/gag/aMVOZPP)
- - 😝 [IRAN ATTACKED US EMBASSY I REPEAT IRAN ATTACKED US EMBASSY](http://9gag.com/gag/azxY12p)
- - 💣 [Women](http://9gag.com/gag/a1mER9P)
- - 😝 [What does it means?](http://9gag.com/gag/ajPWmZG)
- - 👉 [Never mention Hubert around him](http://9gag.com/gag/aMVOKKP)<!-- MEMES:END -->
+ - 😝 [Iran-Israel war: unbearable images of civilians fleeing bombardment](http://9gag.com/gag/a2vLRDw)
+ - 😝 [Art of gravity](http://9gag.com/gag/an7r9Ro)
+ - 💣 [Bonucci for gender equality \u2665](http://9gag.com/gag/aqyYjKZ)
+ - 😝 [Never mention Hubert around him](http://9gag.com/gag/aMVOKKP)
+ - 👉 [This is either genius or completely clueless, but I need to know more.](http://9gag.com/gag/a34bQg3)<!-- MEMES:END -->
 
 ---
 

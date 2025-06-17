@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s Journal app is coming to iPad and Mac in iPadOS 26 and macOS Tahoe and gains features like multiple journals, map view, inline images, and more &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/250617/p36#a250617p36)
  - [Pano AI, which uses AI and computer vision to offer active wildfire detection, raised a $44M Series B led by Giant Ventures, bringing its total funding to $89M &lpar;Marc Vartabedian/Wall Street Journal&rpar;](http://www.techmeme.com/250617/p35#a250617p35)
  - [Nintendo will take your Switch 2 offline forever if you use a Mig flash cartridge](https://www.theverge.com/news/688483/nintendo-switch-2-ban-error-code-mig-flash-cartridge-online)
  - [Amazon CEO says it will cut jobs due to AI&amp;#8217;s ‘efficiency’](https://www.theverge.com/news/688679/amazon-ceo-andy-jassy-ai-efficiency)
- - [Fossil fuels are an insurance disaster](https://www.theverge.com/news/688616/insurance-heatwave-plastic-pollution-climate-change-fossil-fuels-report)
- - [Sources: xAI is burning through $1B/month and expects to burn through ~$13B in 2025; revenues are expected to be just $500M this year, rising to $2B+ next year &lpar;Bloomberg&rpar;](http://www.techmeme.com/250617/p34#a250617p34)<!-- TECH:END -->
+ - [Fossil fuels are an insurance disaster](https://www.theverge.com/news/688616/insurance-heatwave-plastic-pollution-climate-change-fossil-fuels-report)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

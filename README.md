@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [What could possibly go wrong? Let&#39;s pour alcohol all over the DJ Booth](http://9gag.com/gag/aLndwzx)
+ - 😝 [Iran-Israel war: unbearable images of civilians fleeing bombardment](http://9gag.com/gag/a2vLRDw)
+ - 💣 [What does it means?](http://9gag.com/gag/ajPWmZG)
  - 😝 [Understood.](http://9gag.com/gag/aE0OpQn)
- - 💣 [My new workout video.](http://9gag.com/gag/awyYoQD)
- - 😝 [IRAN ATTACKED US EMBASSY I REPEAT IRAN ATTACKED US EMBASSY](http://9gag.com/gag/azxY12p)
- - 👉 [Why is my cat glowing??](http://9gag.com/gag/aRBO7ry)<!-- MEMES:END -->
+ - 👉 [POV: its 2035 and you ordered fireworks from Ali Baba express shipping](http://9gag.com/gag/a87K5np)<!-- MEMES:END -->
 
 ---
 

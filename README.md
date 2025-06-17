@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What Type of Mattress Is Right for You? &lpar;2025&rpar;](https://www.wired.com/story/mattress-types-explained/)
  - [Adobe releases iOS and Android apps for Firefly, letting users generate images and videos using text prompts and experiment with popular AI photo editing tools &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250617/p15#a250617p15)
  - [The first two Netflix Houses will finally open in late 2025](https://www.theverge.com/news/687830/netflix-house-venue-dallas-philadelphia-las-vegas-open-late-2025)
  - [Adobe Firefly adds mobile app, new AI models &amp; mood boards](https://appleinsider.com/articles/25/06/17/adobe-firefly-adds-mobile-app-new-ai-models-mood-boards?utm_medium=rss)
- - [Try This Free Version of Microsoft Office That Runs in Your Browser](https://www.wired.com/story/microsoft-365-free-version-of-microsoft-office-that-runs-in-your-browser/)
- - [Adobe made a mobile app for its Firefly generative AI tools](https://www.theverge.com/news/688080/adobe-firefly-ai-app-iphone-ios-android-availability)<!-- TECH:END -->
+ - [Try This Free Version of Microsoft Office That Runs in Your Browser](https://www.wired.com/story/microsoft-365-free-version-of-microsoft-office-that-runs-in-your-browser/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bonucci for gender equality \u2665](http://9gag.com/gag/aqyYjKZ)
- - 😝 [This is either genius or completely clueless, but I need to know more.](http://9gag.com/gag/a34bQg3)
- - 💣 [Understood.](http://9gag.com/gag/aE0OpQn)
- - 😝 [Oh well](http://9gag.com/gag/a9yOEw6)
- - 👉 [When the bureaucracy loop comes full circle.](http://9gag.com/gag/avydo0Z)<!-- MEMES:END -->
+ - 😝 [That kickback hit harder than expected](http://9gag.com/gag/avydoGM)
+ - 😝 [Just a NPC](http://9gag.com/gag/aYQAYe2)
+ - 💣 [This is either genius or completely clueless, but I need to know more.](http://9gag.com/gag/a34bQg3)
+ - 😝 [Traveling with Trevor](http://9gag.com/gag/an7r92B)
+ - 👉 [Oh well](http://9gag.com/gag/a9yOEw6)<!-- MEMES:END -->
 
 ---
 

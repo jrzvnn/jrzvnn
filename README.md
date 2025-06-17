@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You can see that the officer is fighting his demons](http://9gag.com/gag/aByO28N)
+ - 😝 [Not on my watch](http://9gag.com/gag/amop5Ed)
+ - 😝 [Never mention Hubert around him](http://9gag.com/gag/aMVOKKP)
+ - 💣 [Human face](http://9gag.com/gag/ae975BQ)
  - 😝 [What does it means?](http://9gag.com/gag/ajPWmZG)
- - 💣 [Cute!](http://9gag.com/gag/a1mERE8)
- - 😝 [Uff good one](http://9gag.com/gag/aLndwZP)
- - 👉 [Never mention Hubert around him](http://9gag.com/gag/aMVOKKP)<!-- MEMES:END -->
+ - 👉 [Cute!](http://9gag.com/gag/a1mERE8)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Grow a Garden, a simple farming simulator game made within Roblox, hit 16.4M active players on June 14, surpassing other popular games&#39; peak concurrent users &lpar;Kieran Press-Reynolds/New York Times&rpar;](http://www.techmeme.com/250617/p10#a250617p10)
+ - [Who Knew Basketball Needed an Interactive LED Floor?](https://www.wired.com/story/asb-glassfloor-led-basketball-arena-flooring/)
+ - [The Atlantic is making a big push into games](https://www.theverge.com/news/687721/the-atlantic-games-hub-bracket-city)
  - [Meta launches generative AI tools in its Advantage+ suite for advertisers and agencies at Cannes, including to turn still images into videos and Virtual Try-On &lpar;Mark Mwachiro/Adweek&rpar;](http://www.techmeme.com/250617/p9#a250617p9)
- - [Brad Pitt and Tim Cook gatecrash &#39;Severance&#39; event to promote &#39;F1&#39;](https://appleinsider.com/articles/25/06/17/brad-pitt-and-tim-cook-gatecrash-severance-event-to-promote-f1?utm_medium=rss)
- - [Sky, ITV, and Channel 4 plan to provide streaming ad space in one marketplace, letting advertisers run campaigns simultaneously, to combat Google and Meta &lpar;Mark Sweney/The Guardian&rpar;](http://www.techmeme.com/250617/p8#a250617p8)
- - [The Best Vacuum for Pet Hair—We Tested a Dozen Models to Find Which Work Best](https://www.wired.com/gallery/best-pet-hair-vacuums/)
- - [[Thread] A new US paper shows the best frontier LLM models achieve 0% on hard real-life Programming Contest problems, domains where expert humans still excel &lpar;Rohan Paul/@rohanpaul_ai&rpar;](http://www.techmeme.com/250617/p7#a250617p7)<!-- TECH:END -->
+ - [Brad Pitt and Tim Cook gatecrash &#39;Severance&#39; event to promote &#39;F1&#39;](https://appleinsider.com/articles/25/06/17/brad-pitt-and-tim-cook-gatecrash-severance-event-to-promote-f1?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

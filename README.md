@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon CEO says it will cut jobs due to AI&amp;#8217;s ‘efficiency’](https://www.theverge.com/news/688679/amazon-ceo-andy-jassy-ai-efficiency)
  - [Fossil fuels are an insurance disaster](https://www.theverge.com/news/688616/insurance-heatwave-plastic-pollution-climate-change-fossil-fuels-report)
  - [Sources: xAI is burning through $1B/month and expects to burn through ~$13B in 2025; revenues are expected to be just $500M this year, rising to $2B+ next year &lpar;Bloomberg&rpar;](http://www.techmeme.com/250617/p34#a250617p34)
  - [X sues New York, claiming a law requiring social media companies to disclose how they deal with hate speech and disinformation violates the US Constitution &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/250617/p33#a250617p33)
- - [OpenCore and Hackintosh are sadly dead after Apple ends Intel Mac support.](https://appleinsider.com/articles/25/06/17/opencore-and-hackintosh-are-sadly-dead-after-apple-ends-intel-mac-support?utm_medium=rss)
- - [PlayStation’s concert series is coming to the US](https://www.theverge.com/news/688613/playstation-the-concert-series-tour-us)<!-- TECH:END -->
+ - [OpenCore and Hackintosh are sadly dead after Apple ends Intel Mac support.](https://appleinsider.com/articles/25/06/17/opencore-and-hackintosh-are-sadly-dead-after-apple-ends-intel-mac-support?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

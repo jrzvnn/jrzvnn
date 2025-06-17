@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, that didn&#39;t go as planned.](http://9gag.com/gag/aqyYGw7)
- - 😝 [This man has been walking around the world for 27 years and just reached Europe. What an incredible journey.](http://9gag.com/gag/aKGO6jW)
- - 💣 [Uff good one](http://9gag.com/gag/aLndwZP)
- - 😝 [A true gymbro helps a fellow lifter with proper form.](http://9gag.com/gag/axyYMY1)
- - 👉 [You can see that the officer is fighting his demons](http://9gag.com/gag/aByO28N)<!-- MEMES:END -->
+ - 😝 [You can see that the officer is fighting his demons](http://9gag.com/gag/aByO28N)
+ - 😝 [What does it means?](http://9gag.com/gag/ajPWmZG)
+ - 💣 [Cute!](http://9gag.com/gag/a1mERE8)
+ - 😝 [Uff good one](http://9gag.com/gag/aLndwZP)
+ - 👉 [Never mention Hubert around him](http://9gag.com/gag/aMVOKKP)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When the bureaucracy loop comes full circle.](http://9gag.com/gag/avydo0Z)
- - 😝 [Expedition 33 OST comments are fire](http://9gag.com/gag/aW4DxLK)
- - 💣 [Vacuum + vacuum + vacuum + vacuum](http://9gag.com/gag/a9yOR9o)
- - 😝 [Men will understand](http://9gag.com/gag/aGyOp1Z)
- - 👉 [I don&#39;t get it...](http://9gag.com/gag/aZZz3Kz)<!-- MEMES:END -->
+ - 😝 [Angels don\u2019t exis\u2026.](http://9gag.com/gag/a1mERA8)
+ - 😝 [Space is Cold](http://9gag.com/gag/a4PW32Q)
+ - 💣 [This image unlocks a very specific core memory.](http://9gag.com/gag/a6ZjELq)
+ - 😝 [&#39;CARMAGEDON&#39; 2.0](http://9gag.com/gag/aD2O4MO)
+ - 👉 [You can see that the officer is fighting his demons](http://9gag.com/gag/aByO28N)<!-- MEMES:END -->
 
 ---
 

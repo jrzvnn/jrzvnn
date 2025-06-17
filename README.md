@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fafo is sweet](http://9gag.com/gag/avydooW)
- - 😝 [Oh well](http://9gag.com/gag/a9yOEw6)
- - 💣 [IRAN ATTACKED US EMBASSY I REPEAT IRAN ATTACKED US EMBASSY](http://9gag.com/gag/azxY12p)
- - 😝 [Cute!](http://9gag.com/gag/a1mERE8)
- - 👉 [What sorcery is this? *they&#39;re not moving*](http://9gag.com/gag/avydo9Z)<!-- MEMES:END -->
+ - 😝 [Never meet a guy on Craigslist.](http://9gag.com/gag/aO8R05R)
+ - 😝 [Uff good one](http://9gag.com/gag/aLndwZP)
+ - 💣 [Oh well](http://9gag.com/gag/a9yOEw6)
+ - 😝 [What does it means?](http://9gag.com/gag/ajPWmZG)
+ - 👉 [You can see that the officer is fighting his demons](http://9gag.com/gag/aByO28N)<!-- MEMES:END -->
 
 ---
 

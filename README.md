@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Helping a blind friend to make a living](http://9gag.com/gag/ary2GGV)
- - 😝 [&#39;CARMAGEDON&#39; 2.0](http://9gag.com/gag/aD2O4MO)
- - 💣 [Angels don\u2019t exis\u2026.](http://9gag.com/gag/a1mERA8)
- - 😝 [This image unlocks a very specific core memory.](http://9gag.com/gag/a6ZjELq)
- - 👉 [Space is Cold](http://9gag.com/gag/a4PW32Q)<!-- MEMES:END -->
+ - 😝 [Heimlich](http://9gag.com/gag/aMVOZPP)
+ - 😝 [Understood.](http://9gag.com/gag/aE0OpQn)
+ - 💣 [Art of gravity](http://9gag.com/gag/an7r9Ro)
+ - 😝 [Traveling with Trevor](http://9gag.com/gag/an7r92B)
+ - 👉 [IRAN ATTACKED US EMBASSY I REPEAT IRAN ATTACKED US EMBASSY](http://9gag.com/gag/azxY12p)<!-- MEMES:END -->
 
 ---
 

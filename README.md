@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TheMinerMag: median cost to mine a bitcoin is expected to rise 9.4% QoQ in Q2 2025 to $70K, up from $52K in Q4 2024, squeezing margins for less efficient miners &lpar;Brayden Lindrea/Cointelegraph&rpar;](http://www.techmeme.com/250617/p1#a250617p1)
+ - [Tinder now lets you go on double dates](https://www.theverge.com/news/687609/tinder-double-date-launch-us)
  - [Minnesota Shooting Suspect Allegedly Used Data Broker Sites to Find Targets’ Addresses](https://www.wired.com/story/minnesota-lawmaker-shootings-people-search-data-brokers/)
  - [Sources: OpenAI wants Microsoft to take a ~33% stake in exchange for giving up future profit rights, and seeks to revise its exclusive cloud deal with Microsoft &lpar;The Information&rpar;](http://www.techmeme.com/250616/p27#a250616p27)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, June 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-june-17/#ftag=CAD590a51e)
- - [Memo: Intel&#39;s manufacturing VP said Intel plans to cut 15%-20% of staff, starting in July, &quot;to meet our affordability challenges and current financial position&quot; &lpar;Mike Rogoway/Oregonian&rpar;](http://www.techmeme.com/250616/p26#a250616p26)
- - [Personas compared: a much more natural digital you on Apple Vision Pro](https://appleinsider.com/articles/25/06/17/personas-compared-a-much-more-natural-digital-you-on-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, June 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-june-17/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

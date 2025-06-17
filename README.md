@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Minnesota Shooting Suspect Allegedly Used Data Broker Sites to Find Targets’ Addresses](https://www.wired.com/story/minnesota-lawmaker-shootings-people-search-data-brokers/)
  - [Sources: OpenAI wants Microsoft to take a ~33% stake in exchange for giving up future profit rights, and seeks to revise its exclusive cloud deal with Microsoft &lpar;The Information&rpar;](http://www.techmeme.com/250616/p27#a250616p27)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, June 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-june-17/#ftag=CAD590a51e)
  - [Memo: Intel&#39;s manufacturing VP said Intel plans to cut 15%-20% of staff, starting in July, &quot;to meet our affordability challenges and current financial position&quot; &lpar;Mike Rogoway/Oregonian&rpar;](http://www.techmeme.com/250616/p26#a250616p26)
- - [Personas compared: a much more natural digital you on Apple Vision Pro](https://appleinsider.com/articles/25/06/17/personas-compared-a-much-more-natural-digital-you-on-apple-vision-pro?utm_medium=rss)
- - [2025 Digital News Report: social media overtakes TV as the top news source in the US, with 54% accessing news via social media and video apps, vs. 50% for TV &lpar;Nieman Lab&rpar;](http://www.techmeme.com/250616/p25#a250616p25)<!-- TECH:END -->
+ - [Personas compared: a much more natural digital you on Apple Vision Pro](https://appleinsider.com/articles/25/06/17/personas-compared-a-much-more-natural-digital-you-on-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

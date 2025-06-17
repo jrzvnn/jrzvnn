@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Heimlich](http://9gag.com/gag/aMVOZPP)
- - 😝 [Understood.](http://9gag.com/gag/aE0OpQn)
- - 💣 [Art of gravity](http://9gag.com/gag/an7r9Ro)
- - 😝 [Traveling with Trevor](http://9gag.com/gag/an7r92B)
- - 👉 [IRAN ATTACKED US EMBASSY I REPEAT IRAN ATTACKED US EMBASSY](http://9gag.com/gag/azxY12p)<!-- MEMES:END -->
+ - 😝 [Iran-Israel war: unbearable images of civilians fleeing bombardment](http://9gag.com/gag/a2vLRDw)
+ - 😝 [Oh well](http://9gag.com/gag/a9yOEw6)
+ - 💣 [What does it means?](http://9gag.com/gag/ajPWmZG)
+ - 😝 [Never mention Hubert around him](http://9gag.com/gag/aMVOKKP)
+ - 👉 [Understood.](http://9gag.com/gag/aE0OpQn)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never meet a guy on Craigslist.](http://9gag.com/gag/aO8R05R)
- - 😝 [Uff good one](http://9gag.com/gag/aLndwZP)
- - 💣 [Oh well](http://9gag.com/gag/a9yOEw6)
- - 😝 [What does it means?](http://9gag.com/gag/ajPWmZG)
- - 👉 [You can see that the officer is fighting his demons](http://9gag.com/gag/aByO28N)<!-- MEMES:END -->
+ - 😝 [Understood.](http://9gag.com/gag/aE0OpQn)
+ - 😝 [Human face](http://9gag.com/gag/ae975BQ)
+ - 💣 [What does it means?](http://9gag.com/gag/ajPWmZG)
+ - 😝 [My new workout video.](http://9gag.com/gag/awyYoQD)
+ - 👉 [Oh well](http://9gag.com/gag/a9yOEw6)<!-- MEMES:END -->
 
 ---
 

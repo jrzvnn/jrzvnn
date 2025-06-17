@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh well](http://9gag.com/gag/a9yOEw6)
- - 😝 [Human face](http://9gag.com/gag/ae975BQ)
- - 💣 [My new workout video.](http://9gag.com/gag/awyYoQD)
+ - 😝 [Heimlich](http://9gag.com/gag/aMVOZPP)
  - 😝 [IRAN ATTACKED US EMBASSY I REPEAT IRAN ATTACKED US EMBASSY](http://9gag.com/gag/azxY12p)
- - 👉 [What does it means?](http://9gag.com/gag/ajPWmZG)<!-- MEMES:END -->
+ - 💣 [Women](http://9gag.com/gag/a1mER9P)
+ - 😝 [What does it means?](http://9gag.com/gag/ajPWmZG)
+ - 👉 [Never mention Hubert around him](http://9gag.com/gag/aMVOKKP)<!-- MEMES:END -->
 
 ---
 

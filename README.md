@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nabla, which offers an AI copilot for doctors and other medical staff, raised a $70M Series C led by HV Capital and says it now supports 85K+ clinicians &lpar;Judy Rider/Crunchbase News&rpar;](http://www.techmeme.com/250617/p25#a250617p25)
  - [Microsoft’s next-gen Xbox has an AMD chip inside and is ‘not locked to a single store’](https://www.theverge.com/news/688407/microsoft-next-gen-xbox-cloud-amd)
  - [Anysphere debuts a $200/month Ultra plan for Cursor with 20x more usage on AI models from OpenAI, Anthropic, Google DeepMind, and xAI vs. its $20/month Pro plan &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250617/p24#a250617p24)
  - [LG’s C4 OLED TV has dropped to a new low price](https://www.theverge.com/tech/688378/lg-c4-oled-tv-motorola-razr-ultra-deal-sale)
- - [Threads launches a fediverse feed and a way to search for fediverse users, with support for Mastodon and others, for users who turned on fediverse sharing &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/250617/p23#a250617p23)
- - [What&#39;s new with iPad app windows in iPadOS 26, and how they work](https://appleinsider.com/inside/ipados-26/tips/whats-new-with-ipad-app-windows-in-ipados-26-and-how-they-work?utm_medium=rss)<!-- TECH:END -->
+ - [Threads launches a fediverse feed and a way to search for fediverse users, with support for Mastodon and others, for users who turned on fediverse sharing &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/250617/p23#a250617p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

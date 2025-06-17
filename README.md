@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Oh well](http://9gag.com/gag/a9yOEw6)
- - 😝 [You have been Rickrolled! in the most informative way...](http://9gag.com/gag/aRBO7zM)
- - 💣 [Lol](http://9gag.com/gag/an7rgVL)
- - 😝 [This man has been walking around the world for 27 years and just reached Europe. What an incredible journey.](http://9gag.com/gag/aKGO6jW)
- - 👉 [To everyone who bought the Non-woke game just to support them, well done.](http://9gag.com/gag/aByOnGz)<!-- MEMES:END -->
+ - 😝 [Cute!](http://9gag.com/gag/a1mERE8)
+ - 💣 [Hear me out...](http://9gag.com/gag/a0eM7bv)
+ - 😝 [This laser welding is incredibly fast and clean.](http://9gag.com/gag/aByOgvP)
+ - 👉 [A true gymbro helps a fellow lifter with proper form.](http://9gag.com/gag/axyYMY1)<!-- MEMES:END -->
 
 ---
 

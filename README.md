@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Space is Cold](http://9gag.com/gag/a4PW32Q)
- - 😝 [Angels don\u2019t exis\u2026.](http://9gag.com/gag/a1mERA8)
- - 💣 [&#39;CARMAGEDON&#39; 2.0](http://9gag.com/gag/aD2O4MO)
- - 😝 [This image unlocks a very specific core memory.](http://9gag.com/gag/a6ZjELq)
- - 👉 [You have been Rickrolled! in the most informative way...](http://9gag.com/gag/aRBO7zM)<!-- MEMES:END -->
+ - 😝 [Human face](http://9gag.com/gag/ae975BQ)
+ - 😝 [The Dude sees straight through it!!](http://9gag.com/gag/aByOmZ2)
+ - 💣 [This is either genius or completely clueless, but I need to know more.](http://9gag.com/gag/a34bQg3)
+ - 😝 [The survivor seat.](http://9gag.com/gag/aMVOjRP)
+ - 👉 [Vacuum + vacuum + vacuum + vacuum](http://9gag.com/gag/a9yOR9o)<!-- MEMES:END -->
 
 ---
 

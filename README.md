@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh well](http://9gag.com/gag/a9yOEw6)
+ - 😝 [Vacuum + vacuum + vacuum + vacuum](http://9gag.com/gag/a9yOR9o)
+ - 😝 [IRAN ATTACKED US EMBASSY I REPEAT IRAN ATTACKED US EMBASSY](http://9gag.com/gag/azxY12p)
+ - 💣 [A waiter&#39;s surprising table side trick.](http://9gag.com/gag/a9yOEbD)
  - 😝 [Cute!](http://9gag.com/gag/a1mERE8)
- - 💣 [Hear me out...](http://9gag.com/gag/a0eM7bv)
- - 😝 [This laser welding is incredibly fast and clean.](http://9gag.com/gag/aByOgvP)
- - 👉 [A true gymbro helps a fellow lifter with proper form.](http://9gag.com/gag/axyYMY1)<!-- MEMES:END -->
+ - 👉 [What does it means?](http://9gag.com/gag/ajPWmZG)<!-- MEMES:END -->
 
 ---
 

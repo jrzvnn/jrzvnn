@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gardyn Indoor Hydroponic Garden Review: Better Growing Through AI](https://www.wired.com/review/gardyn-indoor-hydroponic-garden/)
- - [Salesforce says it will increase prices on many products in August, including Slack; major product lines will see a 6% increase on average &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250617/p20#a250617p20)
- - [Eigen Labs raised $70M via a token purchase by a16z and launched EigenCloud, which helps developers cryptographically prove what happens in off-chain apps &lpar;Liam Wright/Forbes&rpar;](http://www.techmeme.com/250617/p19#a250617p19)
- - [Mortgage Rates and the Fed: Everything to Know Before Tomorrow&#39;s Decision](https://www.cnet.com/personal-finance/mortgages/mortgage-rates-and-the-fed-everything-to-know-before-tomorrows-decision/#ftag=CAD590a51e)
- - [OnePlus Watch 3 Review: The Best Battery Life of Any Android Smartwatch](https://www.cnet.com/tech/mobile/oneplus-watch-3-review-the-best-battery-life-of-any-android-smartwatch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Max will show autoplaying video previews picked by AI](https://www.theverge.com/news/688313/max-video-previews-autoplay-update)
+ - [Satechi&#39;s latest SSD enclosure brings serious speed in a small package](https://appleinsider.com/articles/25/06/17/satechis-latest-ssd-enclosure-brings-serious-speed-in-a-small-package?utm_medium=rss)
+ - [California is trying to regulate its AI giants — again](https://www.theverge.com/ai-artificial-intelligence/688301/california-is-trying-to-regulate-its-ai-giants-again)
+ - [Google makes Gemini 2.5 Flash and Pro generally available and introduces 2.5 Flash-Lite, which it says is its most cost-efficient and fastest 2.5 model yet &lpar;Tulsee Doshi/The Keyword&rpar;](http://www.techmeme.com/250617/p21#a250617p21)
+ - [Philips’ new ambient wall light is now available](https://www.theverge.com/news/688312/philips-hue-play-wall-washer-ambient-light-ai-assistant)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

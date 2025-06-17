@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X sues New York, claiming a law requiring social media companies to disclose how they deal with hate speech and disinformation violates the US Constitution &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/250617/p33#a250617p33)
+ - [OpenCore and Hackintosh are sadly dead after Apple ends Intel Mac support.](https://appleinsider.com/articles/25/06/17/opencore-and-hackintosh-are-sadly-dead-after-apple-ends-intel-mac-support?utm_medium=rss)
  - [PlayStation’s concert series is coming to the US](https://www.theverge.com/news/688613/playstation-the-concert-series-tour-us)
  - [Mastodon updates its terms to prohibit AI model training starting July 1, and enforces a new age limit of 16 for users globally &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250617/p32#a250617p32)
- - [Apple again escapes $300M Optis wireless patents verdict on appeal](https://appleinsider.com/articles/25/06/17/apple-again-escapes-300m-optis-wireless-patents-verdict-on-appeal?utm_medium=rss)
- - [US appeals court rules in Apple&#39;s favor by throwing out a $300M verdict that found it infringed on Optis&#39; wireless tech patents, sending the case to a new trial &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/250617/p31#a250617p31)
- - [In a memo to employees, Amazon CEO Andy Jassy says AI &quot;will reduce our total corporate workforce as we get efficiency gains&quot; over time &lpar;Steve Kopack/NBC News&rpar;](http://www.techmeme.com/250617/p30#a250617p30)<!-- TECH:END -->
+ - [Apple again escapes $300M Optis wireless patents verdict on appeal](https://appleinsider.com/articles/25/06/17/apple-again-escapes-300m-optis-wireless-patents-verdict-on-appeal?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

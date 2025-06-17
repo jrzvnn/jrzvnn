@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [IRAN ATTACKED US EMBASSY I REPEAT IRAN ATTACKED US EMBASSY](http://9gag.com/gag/azxY12p)
+ - 😝 [What could possibly go wrong? Let&#39;s pour alcohol all over the DJ Booth](http://9gag.com/gag/aLndwzx)
  - 😝 [Understood.](http://9gag.com/gag/aE0OpQn)
  - 💣 [My new workout video.](http://9gag.com/gag/awyYoQD)
- - 😝 [Why is my cat glowing??](http://9gag.com/gag/aRBO7ry)
- - 👉 [You can see that the officer is fighting his demons](http://9gag.com/gag/aByO28N)<!-- MEMES:END -->
+ - 😝 [IRAN ATTACKED US EMBASSY I REPEAT IRAN ATTACKED US EMBASSY](http://9gag.com/gag/azxY12p)
+ - 👉 [Why is my cat glowing??](http://9gag.com/gag/aRBO7ry)<!-- MEMES:END -->
 
 ---
 

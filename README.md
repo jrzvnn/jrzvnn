@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: xAI is burning through $1B/month and expects to burn through ~$13B in 2025; revenues are expected to be just $500M this year, rising to $2B+ next year &lpar;Bloomberg&rpar;](http://www.techmeme.com/250617/p34#a250617p34)
  - [X sues New York, claiming a law requiring social media companies to disclose how they deal with hate speech and disinformation violates the US Constitution &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/250617/p33#a250617p33)
  - [OpenCore and Hackintosh are sadly dead after Apple ends Intel Mac support.](https://appleinsider.com/articles/25/06/17/opencore-and-hackintosh-are-sadly-dead-after-apple-ends-intel-mac-support?utm_medium=rss)
  - [PlayStation’s concert series is coming to the US](https://www.theverge.com/news/688613/playstation-the-concert-series-tour-us)
- - [Mastodon updates its terms to prohibit AI model training starting July 1, and enforces a new age limit of 16 for users globally &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250617/p32#a250617p32)
- - [Apple again escapes $300M Optis wireless patents verdict on appeal](https://appleinsider.com/articles/25/06/17/apple-again-escapes-300m-optis-wireless-patents-verdict-on-appeal?utm_medium=rss)<!-- TECH:END -->
+ - [Mastodon updates its terms to prohibit AI model training &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250617/p32#a250617p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

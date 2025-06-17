@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That kickback hit harder than expected](http://9gag.com/gag/avydoGM)
- - 😝 [Just a NPC](http://9gag.com/gag/aYQAYe2)
- - 💣 [This is either genius or completely clueless, but I need to know more.](http://9gag.com/gag/a34bQg3)
- - 😝 [Traveling with Trevor](http://9gag.com/gag/an7r92B)
- - 👉 [Oh well](http://9gag.com/gag/a9yOEw6)<!-- MEMES:END -->
+ - 😝 [Iran-Israel war: unbearable images of civilians fleeing bombardment](http://9gag.com/gag/a2vLRDw)
+ - 😝 [Art of gravity](http://9gag.com/gag/an7r9Ro)
+ - 💣 [Bonucci for gender equality \u2665](http://9gag.com/gag/aqyYjKZ)
+ - 😝 [What does it means?](http://9gag.com/gag/ajPWmZG)
+ - 👉 [Just a NPC](http://9gag.com/gag/aYQAYe2)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Personas compared: a much more natural digital you on Apple Vision Pro](https://appleinsider.com/articles/25/06/17/personas-compared-a-much-more-natural-digital-you-on-apple-vision-pro?utm_medium=rss)
+ - [2025 Digital News Report: social media overtakes TV as the top news source in the US, with 54% accessing news via social media and video apps, vs. 50% for TV &lpar;Nieman Lab&rpar;](http://www.techmeme.com/250616/p25#a250616p25)
  - [The US Senate&#39;s draft tax bill would raise the CHIPS Act&#39;s tax credit for semiconductor factories from 25% to 30% until the tax break expires at the end of 2026 &lpar;Alicia Diaz/Bloomberg&rpar;](http://www.techmeme.com/250616/p24#a250616p24)
  - [Justin Sun takes crypto company public — reportedly with help from Eric Trump](https://www.theverge.com/news/687854/justin-sun-tron-nasdaq-trump-family)
- - [The US Defense Department awards a one-year $200M contract to OpenAI to develop AI tools for addressing challenges in &quot;warfighting and enterprise domains&quot; &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250616/p23#a250616p23)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Apple Intelligence is one step closer to launching in China with Alibaba Qwen3 model](https://appleinsider.com/articles/25/06/16/alibaba-announces-upgraded-qwen3-ai-model-compatible-with-apple-platforms?utm_medium=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 16, #470](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-16-470/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Never mention Hubert around him](http://9gag.com/gag/aMVOKKP)
  - 😝 [What could possibly go wrong? Let&#39;s pour alcohol all over the DJ Booth](http://9gag.com/gag/aLndwzx)
+ - 💣 [You can see that the officer is fighting his demons](http://9gag.com/gag/aByO28N)
  - 😝 [Iran-Israel war: unbearable images of civilians fleeing bombardment](http://9gag.com/gag/a2vLRDw)
- - 💣 [What does it means?](http://9gag.com/gag/ajPWmZG)
- - 😝 [Understood.](http://9gag.com/gag/aE0OpQn)
- - 👉 [POV: its 2035 and you ordered fireworks from Ali Baba express shipping](http://9gag.com/gag/a87K5np)<!-- MEMES:END -->
+ - 👉 [Understood.](http://9gag.com/gag/aE0OpQn)<!-- MEMES:END -->
 
 ---
 

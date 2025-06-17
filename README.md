@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon announces Prime Day 2025 dates and big change to the sale](https://appleinsider.com/articles/25/06/17/amazon-announces-prime-day-2025-dates-and-big-change-to-the-sale?utm_medium=rss)
+ - [Apple may look late to AI but it&#39;s aiming for something different](https://appleinsider.com/articles/25/06/17/apple-may-look-late-to-ai-but-its-aiming-for-something-different?utm_medium=rss)
  - [AI-powered virtual physical therapy startup Sword Health raised $40M led by General Catalyst at a $4B valuation, up from its $3B valuation from June 2024 &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250617/p17#a250617p17)
  - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Download these now free retro mobile games before Sega removes them](https://www.theverge.com/news/688167/sega-retro-games-forever-program-free-download-ios-android-crazy-taxi-sonic)
- - [Apple&#39;s Back to School sale returns, but there are better deals](https://appleinsider.com/articles/25/06/17/apples-back-to-school-sale-returns-but-there-are-better-deals?utm_medium=rss)
- - [Sources: Elon Musk&#39;s xAI is in talks to raise $4.3B via an equity investment on top of the $5B it has recently been trying to borrow from debt investors &lpar;Bloomberg&rpar;](http://www.techmeme.com/250617/p16#a250617p16)<!-- TECH:END -->
+ - [Download these now free retro mobile games before Sega removes them](https://www.theverge.com/news/688167/sega-retro-games-forever-program-free-download-ios-android-crazy-taxi-sonic)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

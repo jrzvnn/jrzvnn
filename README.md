@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI awarded $200 million US defense contract](https://www.theverge.com/news/688041/openai-us-defense-department-200-million-contract)
- - [Tinder unveils Double Date, bringing the double dating feature back to the US after shelving it in 2017 over privacy concerns, rolling out globally in July &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250617/p5#a250617p5)
- - [5% Mortgage Rates Are Real. How Homebuyers Are Making It Happen](https://www.cnet.com/personal-finance/mortgages/5-mortgage-rates-are-real-how-homebuyers-are-making-it-happen/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 17, #471](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-17-471/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 17, #267](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-17-267/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Vacuum for Pet Hair—We Tested a Dozen Models to Find Which Work Best](https://www.wired.com/gallery/best-pet-hair-vacuums/)
+ - [[Thread] A new US paper shows the best frontier LLM models achieve 0% on hard real-life Programming Contest problems, domains where expert humans still excel &lpar;Rohan Paul/@rohanpaul_ai&rpar;](http://www.techmeme.com/250617/p7#a250617p7)
+ - [Complaints About Tariff Evasion Have Jumped 160 Percent Under Trump](https://www.wired.com/story/tariff-evasion-reports-trump-cbp/)
+ - [Studies: women are 25% less likely than men to have basic digital skills, are more likely to be in automation-threatened jobs, and use ChatGPT less at work &lpar;Isabel Berwick/Financial Times&rpar;](http://www.techmeme.com/250617/p6#a250617p6)
+ - [OpenAI awarded $200 million US defense contract](https://www.theverge.com/news/688041/openai-us-defense-department-200-million-contract)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

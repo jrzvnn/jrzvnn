@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro pranked a kid as he wrapped brussel sprouts as Ferrero Rocher for trick and treat . The kids mom lost her cool as her kid is crying](http://9gag.com/gag/aAyOg82)
- - 😝 [You can see that the officer is fighting his demons](http://9gag.com/gag/aByO28N)
- - 💣 [Never mention Hubert around him](http://9gag.com/gag/aMVOKKP)
  - 😝 [Not on my watch](http://9gag.com/gag/amop5Ed)
- - 👉 [This laser welding is incredibly fast and clean.](http://9gag.com/gag/aByOgvP)<!-- MEMES:END -->
+ - 😝 [You can see that the officer is fighting his demons](http://9gag.com/gag/aByO28N)
+ - 💣 [Film crew makes a tough call to save trapped penguins from a deadly gully.](http://9gag.com/gag/adBo8oB)
+ - 😝 [Why is my cat glowing??](http://9gag.com/gag/aRBO7ry)
+ - 👉 [Never mention Hubert around him](http://9gag.com/gag/aMVOKKP)<!-- MEMES:END -->
 
 ---
 

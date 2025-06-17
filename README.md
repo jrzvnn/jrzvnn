@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Understood.](http://9gag.com/gag/aE0OpQn)
- - 😝 [Vacuum + vacuum + vacuum + vacuum](http://9gag.com/gag/a9yOR9o)
- - 💣 [Hear me out...](http://9gag.com/gag/a0eM7bv)
- - 😝 [Helllloooo. Goodbye](http://9gag.com/gag/ary2o6V)
- - 👉 [You can see that the officer is fighting his demons](http://9gag.com/gag/aByO28N)<!-- MEMES:END -->
+ - 😝 [It can&#39;t be](http://9gag.com/gag/azxYX6K)
+ - 😝 [Angels don\u2019t exis\u2026.](http://9gag.com/gag/a1mERA8)
+ - 💣 [&#39;CARMAGEDON&#39; 2.0](http://9gag.com/gag/aD2O4MO)
+ - 😝 [Space is Cold](http://9gag.com/gag/a4PW32Q)
+ - 👉 [This image unlocks a very specific core memory.](http://9gag.com/gag/a6ZjELq)<!-- MEMES:END -->
 
 ---
 

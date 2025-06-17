@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Disney and Amazon partner to let media buyers using Amazon&#39;s DSP have better tools to target consumers on ad-tier programming across Disney+, Hulu, and ESPN+ &lpar;Erik Hayden/The Hollywood Reporter&rpar;](http://www.techmeme.com/250617/p18#a250617p18)
  - [Blue Prince is coming to Mac](https://www.theverge.com/news/688242/blue-prince-mac-support-steam-soundtrack)
  - [Apple&#39;s Home Hub smart home display leaks in iOS beta code](https://appleinsider.com/articles/25/06/17/apples-home-hub-smart-home-display-leaks-in-ios-beta-code?utm_medium=rss)
  - [Amazon announces Prime Day 2025 dates and big change to the sale](https://appleinsider.com/articles/25/06/17/amazon-announces-prime-day-2025-dates-and-big-change-to-the-sale?utm_medium=rss)
- - [Apple may look late to AI but it&#39;s aiming for something different](https://appleinsider.com/articles/25/06/17/apple-may-look-late-to-ai-but-its-aiming-for-something-different?utm_medium=rss)
- - [AI-powered virtual physical therapy startup Sword Health raised $40M led by General Catalyst at a $4B valuation, up from its $3B valuation from June 2024 &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250617/p17#a250617p17)<!-- TECH:END -->
+ - [Apple may look late to AI but it&#39;s aiming for something different](https://appleinsider.com/articles/25/06/17/apple-may-look-late-to-ai-but-its-aiming-for-something-different?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

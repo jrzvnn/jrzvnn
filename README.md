@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump is giving TikTok another ban extension](https://www.theverge.com/news/688252/tiktok-ban-trump-extension-deal)
- - [Sources: Substack is pitching investors on a round between $50M and $100M that would value it above its ~$700M last round price, and is generating ~$45M in ARR &lpar;Eric Newcomer/Newcomer&rpar;](http://www.techmeme.com/250617/p40#a250617p40)
- - [Senate confirms Trump’s FCC pick, Olivia Trusty](https://www.theverge.com/news/688824/olivia-trusty-fcc-senate-confirmation-trump)
- - [Meta is making all Facebook videos reels](https://www.theverge.com/news/688828/meta-facebook-videos-reels)
- - [President Trump plans to sign an executive order this week to grant TikTok a 90-day extension in enforcement of the sale-or-ban law, marking his third extension &lpar;CNN&rpar;](http://www.techmeme.com/250617/p39#a250617p39)<!-- TECH:END -->
+ - [On a podcast, Sam Altman said Meta made &quot;giant offers to a lot of people on our team&quot;, like $100M signing bonuses, and &quot;none of our best people&quot; have accepted &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250617/p42#a250617p42)
+ - [A cyberattack claimed by the pro-Israel hacktivist group Predatory Sparrow has reportedly disrupted services at Iran&#39;s state-owned Bank Sepah &lpar;Matt Kapko/CyberScoop&rpar;](http://www.techmeme.com/250617/p41#a250617p41)
+ - [Iran is going offline to prevent purported Israeli cyberattacks](https://www.theverge.com/politics/688875/iran-cutting-off-internet-israel-war)
+ - [Far-Right ‘Appeal to Heaven’ Flag Flown Above Government Agency in DC](https://www.wired.com/story/far-right-appeal-to-heaven-flag-sba-government-agency-dc/)
+ - [Trump is giving TikTok another ban extension](https://www.theverge.com/news/688252/tiktok-ban-trump-extension-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

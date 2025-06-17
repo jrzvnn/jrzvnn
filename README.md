@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Not on my watch](http://9gag.com/gag/amop5Ed)
+ - 😝 [This post makes me laugh hard after seeing it.. CCTO](http://9gag.com/gag/aE0Op5e)
+ - 💣 [This laser welding is incredibly fast and clean.](http://9gag.com/gag/aByOgvP)
  - 😝 [Never mention Hubert around him](http://9gag.com/gag/aMVOKKP)
- - 💣 [Human face](http://9gag.com/gag/ae975BQ)
- - 😝 [What does it means?](http://9gag.com/gag/ajPWmZG)
- - 👉 [Cute!](http://9gag.com/gag/a1mERE8)<!-- MEMES:END -->
+ - 👉 [What does it means?](http://9gag.com/gag/ajPWmZG)<!-- MEMES:END -->
 
 ---
 

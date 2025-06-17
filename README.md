@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It can&#39;t be](http://9gag.com/gag/azxYX6K)
- - 😝 [Angels don\u2019t exis\u2026.](http://9gag.com/gag/a1mERA8)
- - 💣 [&#39;CARMAGEDON&#39; 2.0](http://9gag.com/gag/aD2O4MO)
- - 😝 [Space is Cold](http://9gag.com/gag/a4PW32Q)
- - 👉 [This image unlocks a very specific core memory.](http://9gag.com/gag/a6ZjELq)<!-- MEMES:END -->
+ - 😝 [Bonucci for gender equality \u2665](http://9gag.com/gag/aqyYjKZ)
+ - 😝 [This is either genius or completely clueless, but I need to know more.](http://9gag.com/gag/a34bQg3)
+ - 💣 [Understood.](http://9gag.com/gag/aE0OpQn)
+ - 😝 [Oh well](http://9gag.com/gag/a9yOEw6)
+ - 👉 [When the bureaucracy loop comes full circle.](http://9gag.com/gag/avydo0Z)<!-- MEMES:END -->
 
 ---
 

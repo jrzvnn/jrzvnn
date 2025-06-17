@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Understood.](http://9gag.com/gag/aE0OpQn)
- - 😝 [Human face](http://9gag.com/gag/ae975BQ)
- - 💣 [What does it means?](http://9gag.com/gag/ajPWmZG)
- - 😝 [My new workout video.](http://9gag.com/gag/awyYoQD)
- - 👉 [Oh well](http://9gag.com/gag/a9yOEw6)<!-- MEMES:END -->
+ - 😝 [Oh well](http://9gag.com/gag/a9yOEw6)
+ - 😝 [You have been Rickrolled! in the most informative way...](http://9gag.com/gag/aRBO7zM)
+ - 💣 [Lol](http://9gag.com/gag/an7rgVL)
+ - 😝 [This man has been walking around the world for 27 years and just reached Europe. What an incredible journey.](http://9gag.com/gag/aKGO6jW)
+ - 👉 [To everyone who bought the Non-woke game just to support them, well done.](http://9gag.com/gag/aByOnGz)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Fafo is sweet](http://9gag.com/gag/avydooW)
  - 😝 [Oh well](http://9gag.com/gag/a9yOEw6)
- - 😝 [Ukrainian soldier before and after Russian captivity](http://9gag.com/gag/aVvVw3v)
- - 💣 [Iran-Israel war: unbearable images of civilians fleeing bombardment](http://9gag.com/gag/a2vLRDw)
- - 😝 [IRAN ATTACKED US EMBASSY I REPEAT IRAN ATTACKED US EMBASSY](http://9gag.com/gag/azxY12p)
- - 👉 [Understood.](http://9gag.com/gag/aE0OpQn)<!-- MEMES:END -->
+ - 💣 [IRAN ATTACKED US EMBASSY I REPEAT IRAN ATTACKED US EMBASSY](http://9gag.com/gag/azxY12p)
+ - 😝 [Cute!](http://9gag.com/gag/a1mERE8)
+ - 👉 [What sorcery is this? *they&#39;re not moving*](http://9gag.com/gag/avydo9Z)<!-- MEMES:END -->
 
 ---
 

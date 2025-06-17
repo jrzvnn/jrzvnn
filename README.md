@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Vacuum + vacuum + vacuum + vacuum](http://9gag.com/gag/a9yOR9o)
- - 😝 [Dreamgirl](http://9gag.com/gag/awyYAA4)
- - 💣 [What could possibly go wrong? Let&#39;s pour alcohol all over the DJ Booth](http://9gag.com/gag/aLndwzx)
- - 😝 [Women](http://9gag.com/gag/a1mER9P)
- - 👉 [My new workout video.](http://9gag.com/gag/awyYoQD)<!-- MEMES:END -->
+ - 😝 [Space is Cold](http://9gag.com/gag/a4PW32Q)
+ - 😝 [Angels don\u2019t exis\u2026.](http://9gag.com/gag/a1mERA8)
+ - 💣 [&#39;CARMAGEDON&#39; 2.0](http://9gag.com/gag/aD2O4MO)
+ - 😝 [This image unlocks a very specific core memory.](http://9gag.com/gag/a6ZjELq)
+ - 👉 [You have been Rickrolled! in the most informative way...](http://9gag.com/gag/aRBO7zM)<!-- MEMES:END -->
 
 ---
 

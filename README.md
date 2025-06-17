@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft should change its Copilot advertising, says watchdog](https://www.theverge.com/news/688056/microsoft-copilot-advertising-watchdog-response)
+ - [Apple faces iCloud lawsuit after after judge reverses victory](https://appleinsider.com/articles/25/06/17/apple-faces-icloud-lawsuit-after-after-judge-reverses-victory?utm_medium=rss)
+ - [China&#39;s MiniMax open sources MiniMax-M1, a model to handle complicated productivity tasks that supports 1M input tokens and it says surpasses DeepSeek&#39;s R1-0528 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250617/p11#a250617p11)
  - [Grow a Garden, a simple farming simulator game made within Roblox, hit 16.4M active players on June 14, surpassing other popular games&#39; peak concurrent users &lpar;Kieran Press-Reynolds/New York Times&rpar;](http://www.techmeme.com/250617/p10#a250617p10)
- - [Who Knew Basketball Needed an Interactive LED Floor?](https://www.wired.com/story/asb-glassfloor-led-basketball-arena-flooring/)
- - [The Atlantic is making a big push into games](https://www.theverge.com/news/687721/the-atlantic-games-hub-bracket-city)
- - [Meta launches generative AI tools in its Advantage+ suite for advertisers and agencies at Cannes, including to turn still images into videos and Virtual Try-On &lpar;Mark Mwachiro/Adweek&rpar;](http://www.techmeme.com/250617/p9#a250617p9)
- - [Brad Pitt and Tim Cook gatecrash &#39;Severance&#39; event to promote &#39;F1&#39;](https://appleinsider.com/articles/25/06/17/brad-pitt-and-tim-cook-gatecrash-severance-event-to-promote-f1?utm_medium=rss)<!-- TECH:END -->
+ - [Who Knew Basketball Needed an Interactive LED Floor?](https://www.wired.com/story/asb-glassfloor-led-basketball-arena-flooring/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

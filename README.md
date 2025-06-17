@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [On a podcast, Sam Altman said Meta made &quot;giant offers to a lot of people on our team&quot;, like $100M signing bonuses, and &quot;none of our best people&quot; have accepted &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250617/p42#a250617p42)
  - [A cyberattack claimed by the pro-Israel hacktivist group Predatory Sparrow has reportedly disrupted services at Iran&#39;s state-owned Bank Sepah &lpar;Matt Kapko/CyberScoop&rpar;](http://www.techmeme.com/250617/p41#a250617p41)
  - [Iran is going offline to prevent purported Israeli cyberattacks](https://www.theverge.com/politics/688875/iran-cutting-off-internet-israel-war)
- - [Far-Right ‘Appeal to Heaven’ Flag Flown Above Government Agency in DC](https://www.wired.com/story/far-right-appeal-to-heaven-flag-sba-government-agency-dc/)<!-- TECH:END -->
+ - [Trump is giving TikTok another ban extension](https://www.theverge.com/news/688252/tiktok-ban-trump-extension-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

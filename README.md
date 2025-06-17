@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [eBay and Vestiaire Collective Want an Exemption from Trump’s Tariffs](https://www.wired.com/story/tariffs-secondhand-shopping-china-surprise/)
- - [DOCSIS 3.0 vs. 3.1 vs. 4.0: What Are the Differences?](https://www.cnet.com/home/internet/comparing-modems-docsis-3-0-vs-docsis-3-1-vs-docsis-4-0/#ftag=CAD590a51e)
  - [Microsoft should change its Copilot advertising, says watchdog](https://www.theverge.com/news/688056/microsoft-copilot-advertising-watchdog-response)
  - [Apple faces iCloud lawsuit after after judge reverses victory](https://appleinsider.com/articles/25/06/17/apple-faces-icloud-lawsuit-after-after-judge-reverses-victory?utm_medium=rss)
- - [China&#39;s MiniMax open sources MiniMax-M1, a model to handle complicated productivity tasks that supports 1M input tokens and it says surpasses DeepSeek&#39;s R1-0528 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250617/p11#a250617p11)<!-- TECH:END -->
+ - [Shanghai-based MiniMax open sources MiniMax-M1, a model for complicated productivity tasks that supports 1M input tokens and it says beats DeepSeek&#39;s R1-0528 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250617/p11#a250617p11)
+ - [Grow a Garden, a simple farming simulator game made within Roblox, hit 16.4M active players on June 14, surpassing other popular games&#39; peak concurrent users &lpar;Kieran Press-Reynolds/New York Times&rpar;](http://www.techmeme.com/250617/p10#a250617p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

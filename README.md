@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Asking the real questions here](http://9gag.com/gag/aRBOrWM)
- - 😝 [Bring back bench seats for important reasons.](http://9gag.com/gag/aRBOEQq)
- - 💣 [This bartender&#39;s magic tricks are next level. The reactions are priceless](http://9gag.com/gag/aGyOEA5)
- - 😝 [The golden days](http://9gag.com/gag/aGyOE4n)
- - 👉 [Extinction of northern rhino ...](http://9gag.com/gag/aE0O8n9)<!-- MEMES:END -->
+ - 😝 [I think every now and then this needs to be &lpar;re&rpar;posted for the ones who missed it](http://9gag.com/gag/a0eM4bO)
+ - 😝 [This is a man who loves his family to the point of invention - brilliant](http://9gag.com/gag/ae97gBb)
+ - 💣 [James was trying to warn us back then.](http://9gag.com/gag/aqyYyPL)
+ - 😝 [He almost saw heaven.](http://9gag.com/gag/aXPKPAz)
+ - 👉 [It&#39;s a nice car](http://9gag.com/gag/ae979E5)<!-- MEMES:END -->
 
 ---
 

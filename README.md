@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Wix acquires Base44, which lets users build apps from text prompts, for $80M; Base44 was founded by a solo entrepreneur six months ago and employs six people &lpar;Sophie Shulman/CTech&rpar;](http://www.techmeme.com/250618/p41#a250618p41)
+ - [I&#39;m Talking Back to Google&#39;s New Search Live Mode for AI Convos About Big Events](https://www.cnet.com/tech/mobile/im-talking-back-to-googles-new-search-live-mode-for-ai-convos-about-big-events/#ftag=CAD590a51e)
  - [The US State Department restarts student visa interviews and requires all applicants to make their social media accounts public for vetting by US embassies &lpar;Washington Post&rpar;](http://www.techmeme.com/250618/p40#a250618p40)
  - [16 billion logins discovered across exposed datasets, but don&#39;t panic](https://appleinsider.com/articles/25/06/18/16-billion-logins-discovered-across-exposed-datasets-but-dont-panic?utm_medium=rss)
- - [Al Ain vs. Juventus From Anywhere for Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/al-ain-vs-juventus-from-anywhere-for-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)
- - [Grab Apple&#39;s M4 MacBook Air for $829 now through June 19](https://appleinsider.com/articles/25/06/18/grab-apples-m4-macbook-air-for-829-now-through-june-19?utm_medium=rss)<!-- TECH:END -->
+ - [Al Ain vs. Juventus From Anywhere for Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/al-ain-vs-juventus-from-anywhere-for-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

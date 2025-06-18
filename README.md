@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Watch this woodpecker put in the work](http://9gag.com/gag/adBo8VM)
- - 😝 [When you didn\u2019t get the Memo](http://9gag.com/gag/aGyOzGz)
- - 💣 [Asking the real questions here](http://9gag.com/gag/aRBOrWM)
+ - 😝 [God Damn](http://9gag.com/gag/aQzOXN7)
  - 😝 [Extinction of northern rhino ...](http://9gag.com/gag/aE0O8n9)
- - 👉 [God Damn](http://9gag.com/gag/aQzOXN7)<!-- MEMES:END -->
+ - 💣 [Proven Locks](http://9gag.com/gag/a87K79p)
+ - 😝 [Bring back bench seats for important reasons.](http://9gag.com/gag/aRBOEQq)
+ - 👉 [What does it means?](http://9gag.com/gag/ajPWmZG)<!-- MEMES:END -->
 
 ---
 

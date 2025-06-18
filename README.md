@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`I don&#39;t know who you are. I don&#39;t know what you want.`](http://9gag.com/gag/aGyOzOX)
- - 😝 [The daily commute struggle is real, and apparently involves Mario.](http://9gag.com/gag/aByO2bZ)
- - 💣 [Film crew makes a tough call to save trapped penguins from a deadly gully.](http://9gag.com/gag/adBo8oB)
- - 😝 [Boom!](http://9gag.com/gag/aAyOG9p)
- - 👉 [Not on my watch](http://9gag.com/gag/amop5Ed)<!-- MEMES:END -->
+ - 😝 [This man has been walking around the world for 27 years and just reached Europe. What an incredible journey.](http://9gag.com/gag/aKGO6jW)
+ - 😝 [Remember when kids just disappeared for hours?](http://9gag.com/gag/aYQAoo0)
+ - 💣 [You can see that the officer is fighting his demons](http://9gag.com/gag/aByO28N)
+ - 😝 [That&#39;s right .](http://9gag.com/gag/aRBOrPy)
+ - 👉 [To everyone who bought the Non-woke game just to support them, well done.](http://9gag.com/gag/aByOnGz)<!-- MEMES:END -->
 
 ---
 

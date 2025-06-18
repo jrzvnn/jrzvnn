@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Waymo applied for a NYC permit to test its cars with safety drivers and plans to start collecting mapping data with manually driven cars in Manhattan in July &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250618/p29#a250618p29)
+ - [Apple opens registrations for in-person Apple Camp 2025](https://appleinsider.com/articles/25/06/18/apple-opens-registrations-for-in-person-apple-camp-2025?utm_medium=rss)
  - [Futureproof](https://www.theverge.com/ai-artificial-intelligence/688592/futureproof-artists-and-ai)
  - [NFC is getting a range boost](https://www.theverge.com/news/689281/nfc-15-update-tap-to-pay-range-boost)
- - [How The Roottrees are Dead ditched AI and became a hit](https://www.theverge.com/ai-artificial-intelligence/686651/roottrees-ai-original-illustrator-replacement)
- - [This AI Model Never Stops Learning](https://www.wired.com/story/this-ai-model-never-stops-learning/)
- - [Waymo’s robotaxis are coming back to New York City](https://www.theverge.com/news/689093/waymo-nyc-permit-autonomous-testing-new-york-state)<!-- TECH:END -->
+ - [How The Roottrees are Dead ditched AI and became a hit](https://www.theverge.com/ai-artificial-intelligence/686651/roottrees-ai-original-illustrator-replacement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

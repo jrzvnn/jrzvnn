@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The golden days](http://9gag.com/gag/aGyOE4n)
- - 😝 [This post makes me laugh hard after seeing it.. CCTO](http://9gag.com/gag/aE0Op5e)
- - 💣 [Bonucci for gender equality \u2665](http://9gag.com/gag/aqyYjKZ)
- - 😝 [When you didn\u2019t get the Memo](http://9gag.com/gag/aGyOzGz)
- - 👉 [I gotcha back](http://9gag.com/gag/aqyYj9v)<!-- MEMES:END -->
+ - 😝 [Iranian president trying to fool the West](http://9gag.com/gag/a87KEmQ)
+ - 😝 [A waiter&#39;s surprising table side trick.](http://9gag.com/gag/a9yOEbD)
+ - 💣 [For everybody who missed it, day two. Right one is very very few more green. Lets try those `life Hacks`. Science b*tch!](http://9gag.com/gag/abAQAAE)
+ - 😝 [Extinction of northern rhino ...](http://9gag.com/gag/aE0O8n9)
+ - 👉 [What does it means?](http://9gag.com/gag/ajPWmZG)<!-- MEMES:END -->
 
 ---
 

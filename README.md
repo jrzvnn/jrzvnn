@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Understood.](http://9gag.com/gag/aE0OpQn)
- - 😝 [A waiter&#39;s surprising table side trick.](http://9gag.com/gag/a9yOEbD)
- - 💣 [Iranian president trying to fool the West](http://9gag.com/gag/a87KEmQ)
- - 😝 [Asking the real questions here](http://9gag.com/gag/aRBOrWM)
- - 👉 [Extinction of northern rhino ...](http://9gag.com/gag/aE0O8n9)<!-- MEMES:END -->
+ - 😝 [Extinction of northern rhino ...](http://9gag.com/gag/aE0O8n9)
+ - 😝 [For everybody who missed it, day two. Right one is very very few more green. Lets try those `life Hacks`. Science b*tch!](http://9gag.com/gag/abAQAAE)
+ - 💣 [Watch this woodpecker put in the work](http://9gag.com/gag/adBo8VM)
+ - 😝 [When you didn\u2019t get the Memo](http://9gag.com/gag/aGyOzGz)
+ - 👉 [Women](http://9gag.com/gag/a9yOyb6)<!-- MEMES:END -->
 
 ---
 

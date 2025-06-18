@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EPA Plans to ‘Reconsider’ Ban on Cancer-Causing Asbestos](https://www.wired.com/story/trump-epa-reconsider-ban-cancer-causing-asbestos/)
  - [Apple&#39;s new short film &#39;Big Man&#39; was shot on an iPhone 16 Pro](https://appleinsider.com/articles/25/06/18/apples-new-short-film-big-man-was-shot-on-an-iphone-16-pro?utm_medium=rss)
  - [Source: Meta is in advanced talks to hire Nat Friedman and Daniel Gross to work on its AI efforts &lpar;The Information&rpar;](http://www.techmeme.com/250618/p38#a250618p38)
  - [Texas Instruments plans to spend $60B+ on US semiconductor plants, including two new factories in Texas, and says its long-term spending plan remains unchanged &lpar;Bloomberg&rpar;](http://www.techmeme.com/250618/p37#a250618p37)
- - [Is the Apple One subscription worth it in 2025?](https://appleinsider.com/inside/apple-one/tips/is-the-apple-one-subscription-worth-it-in-2025?utm_medium=rss)
- - [Sources: Microsoft plans to announce thousands of job cuts, particularly in sales, early next month after the end of its fiscal year &lpar;Bloomberg&rpar;](http://www.techmeme.com/250618/p36#a250618p36)<!-- TECH:END -->
+ - [T-Mobile Debuts New Prepaid Plans With 5-Year Price Guarantee](https://www.cnet.com/tech/mobile/t-mobile-debuts-new-prepaid-plans-with-5-year-price-guarantee/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

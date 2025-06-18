@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, June 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-june-18/#ftag=CAD590a51e)
  - [Investigation: healthcare exchanges in Nevada, Maine, Massachusetts, and Rhode Island share sensitive data with Google, LinkedIn, and Snapchat via web trackers &lpar;The Markup&rpar;](http://www.techmeme.com/250618/p1#a250618p1)
  - [Google rolls out the ability to upload videos in the Gemini app for both free and paid accounts across Android and iOS; the feature is not yet live on the web &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250617/p46#a250617p46)
  - [I&#39;m an Anime Collector. 3 AI Phone Features I Used While Visiting Tokyo](https://www.cnet.com/tech/services-and-software/im-an-anime-collector-3-ai-phone-features-i-used-while-visiting-tokyo/#ftag=CAD590a51e)
- - [The NAACP intends to sue xAI over the natural gas turbines at its Memphis data center, which it claims are polluting nearby predominantly Black neighborhoods &lpar;Hiroko Tabuchi/New York Times&rpar;](http://www.techmeme.com/250617/p45#a250617p45)
- - [FBC: Firebreak: 9 Beginner Tips to Survive Your First Shift](https://www.cnet.com/tech/gaming/fbc-firebreak-9-beginner-tips-to-survive-your-first-shift/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The NAACP intends to sue xAI over the natural gas turbines at its Memphis data center, which it claims are polluting nearby predominantly Black neighborhoods &lpar;Hiroko Tabuchi/New York Times&rpar;](http://www.techmeme.com/250617/p45#a250617p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

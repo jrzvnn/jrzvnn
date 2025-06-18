@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Minnesota Shooting Suspect&#39;s Background Suggests Deep Ties to Christian Nationalism](https://www.wired.com/story/christian-nationalist-roots-suspected-minnesota-assassin/)
  - [The DOJ announces the seizure of $225.3M in crypto, the largest-ever US seizure of cryptocurrency linked to confidence schemes known as &quot;pig butchering&quot; &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250618/p33#a250618p33)
  - [How Safari in iOS 26 &amp; macOS 26 puts content first with Liquid Glass UI changes](https://appleinsider.com/articles/25/06/18/how-safari-in-ios-26-macos-26-puts-content-first-with-liquid-glass-ui-changes?utm_medium=rss)
  - [YouTube is plugging Veo 3 AI videos directly into Shorts](https://www.theverge.com/news/689474/youtube-veo-3-ai-videos-shorts)
- - [OpenAI details why &quot;emergent misalignment&quot;, where training on wrong answers in one area can lead to misalignment in others, happens and how it can be mitigated &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250618/p32#a250618p32)
- - [Amazon Rebuilt Alexa Using a ‘Staggering’ Amount of AI Tools](https://www.wired.com/story/amazon-daniel-rausch-alexa-plus/)<!-- TECH:END -->
+ - [OpenAI details why &quot;emergent misalignment&quot;, where training on wrong answers in one area can lead to misalignment in others, happens and how it can be mitigated &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250618/p32#a250618p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

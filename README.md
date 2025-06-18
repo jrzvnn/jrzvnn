@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This bartender&#39;s magic tricks are next level. The reactions are priceless](http://9gag.com/gag/aGyOEA5)
- - 😝 [What does it means?](http://9gag.com/gag/ajPWmZG)
- - 💣 [Women](http://9gag.com/gag/a9yOyb6)
- - 😝 [The golden days](http://9gag.com/gag/aGyOE4n)
- - 👉 [For everybody who missed it, day two. Right one is very very few more green. Lets try those `life Hacks`. Science b*tch!](http://9gag.com/gag/abAQAAE)<!-- MEMES:END -->
+ - 😝 [This is a man who loves his family to the point of invention - brilliant](http://9gag.com/gag/ae97gBb)
+ - 😝 [`wE bUiLt ThIs CiTy`](http://9gag.com/gag/aD2O7AZ)
+ - 💣 [He almost saw heaven.](http://9gag.com/gag/aXPKPAz)
+ - 😝 [James was trying to warn us back then.](http://9gag.com/gag/aqyYyPL)
+ - 👉 [It&#39;s a nice car](http://9gag.com/gag/ae979E5)<!-- MEMES:END -->
 
 ---
 

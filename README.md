@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The ‘OpenAI Files’ will help you understand how Sam Altman&amp;#8217;s company works](https://www.theverge.com/openai/688783/the-openai-files-will-help-you-understand-how-sam-altmans-company-works)
- - [Nintendo shows off Donkey Kong Bananza&amp;#8217;s destructive gameplay](https://www.theverge.com/news/688196/donkey-kong-bananza-gameplay-trailer-switch-2)
- - [Xreal One Pro review: the impressive new $649 AR glasses resemble normal spectacles at a distance and excel as a high-def external display for PCs and phones &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/250618/p21#a250618p21)
- - [4 Best Smart Glasses &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-smart-glasses/)
- - [At Cannes, YouTube CEO Neal Mohan says YouTube plans to integrate Google&#39;s most advanced AI video generation tool, Veo 3, into YouTube Shorts later this summer &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/250618/p20#a250618p20)<!-- TECH:END -->
+ - [Wyze says its security cameras deserve your trust again](https://www.theverge.com/news/688864/wyze-launches-verifiedview-protections-security-camera-footage)
+ - [VanMoof’s co-founders have a new e-bike coming from Raleigh](https://www.theverge.com/e-bikes/688967/vanmoof-raleigh-carlier-ties-taco-e-bike)
+ - [The Midas Project and Tech Oversight Project release The OpenAI Files, a 50+ page analysis of OpenAI&#39;s governance, leadership, and organizational culture &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250618/p22#a250618p22)
+ - [Leica is launching its own 35mm film](https://www.theverge.com/news/689006/leica-35mm-film-monopan-50)
+ - [The ‘OpenAI Files’ will help you understand how Sam Altman&amp;#8217;s company works](https://www.theverge.com/openai/688783/the-openai-files-will-help-you-understand-how-sam-altmans-company-works)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

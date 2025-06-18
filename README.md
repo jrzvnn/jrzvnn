@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The NAACP intends to sue xAI over the natural gas turbines at its Memphis data center, which it claims are polluting nearby predominantly Black neighborhoods &lpar;Hiroko Tabuchi/New York Times&rpar;](http://www.techmeme.com/250617/p45#a250617p45)
+ - [FBC: Firebreak: 9 Beginner Tips to Survive Your First Shift](https://www.cnet.com/tech/gaming/fbc-firebreak-9-beginner-tips-to-survive-your-first-shift/#ftag=CAD590a51e)
+ - [Senate passes GENIUS stablecoin bill in a win for the crypto industry](https://www.theverge.com/cryptocurrency/688903/genius-act-stablecoin-senate-federal-crypto-regulation)
  - [How Walmart plans to leverage its $2.3B Vizio acquisition to push shoppable TV experiences; Walmart&#39;s ad business had just $4.4B of sales in FY 2025 &lpar;Jaewon Kang/Bloomberg&rpar;](http://www.techmeme.com/250617/p44#a250617p44)
- - [The Iranian government says it has restricted internet access in response to Israeli cyberattacks; some Western communication apps have reportedly been blocked &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/250617/p43#a250617p43)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [On a podcast, Sam Altman said Meta made &quot;giant offers to a lot of people on our team...like, $100M signing bonuses&quot;, and &quot;none of our best people&quot; have accepted &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250617/p42#a250617p42)
- - [A cyberattack claimed by the pro-Israel hacktivist group Predatory Sparrow has reportedly disrupted services at Iran&#39;s state-owned Bank Sepah &lpar;Matt Kapko/CyberScoop&rpar;](http://www.techmeme.com/250617/p41#a250617p41)<!-- TECH:END -->
+ - [The Iranian government says it has restricted internet access in response to Israeli cyberattacks; some Western communication apps have reportedly been blocked &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/250617/p43#a250617p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bonucci for gender equality \u2665](http://9gag.com/gag/aqyYjKZ)
- - 😝 [This bartender&#39;s magic tricks are next level. The reactions are priceless](http://9gag.com/gag/aGyOEA5)
- - 💣 [Extinction of northern rhino ...](http://9gag.com/gag/aE0O8n9)
- - 😝 [Women](http://9gag.com/gag/a9yOyb6)
+ - 😝 [Watch this woodpecker put in the work](http://9gag.com/gag/adBo8VM)
+ - 😝 [When you didn\u2019t get the Memo](http://9gag.com/gag/aGyOzGz)
+ - 💣 [Asking the real questions here](http://9gag.com/gag/aRBOrWM)
+ - 😝 [Extinction of northern rhino ...](http://9gag.com/gag/aE0O8n9)
  - 👉 [God Damn](http://9gag.com/gag/aQzOXN7)<!-- MEMES:END -->
 
 ---

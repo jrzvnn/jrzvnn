@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Women](http://9gag.com/gag/a9yOyb6)
  - 😝 [Asking the real questions here](http://9gag.com/gag/aRBOrWM)
- - 😝 [I gotcha back](http://9gag.com/gag/aqyYj9v)
- - 💣 [Oh well](http://9gag.com/gag/a9yOEw6)
- - 😝 [What does it means?](http://9gag.com/gag/ajPWmZG)
- - 👉 [When you didn\u2019t get the Memo](http://9gag.com/gag/aGyOzGz)<!-- MEMES:END -->
+ - 💣 [Watch this woodpecker put in the work](http://9gag.com/gag/adBo8VM)
+ - 😝 [Boom!](http://9gag.com/gag/aAyOG9p)
+ - 👉 [Oh well](http://9gag.com/gag/a9yOEw6)<!-- MEMES:END -->
 
 ---
 

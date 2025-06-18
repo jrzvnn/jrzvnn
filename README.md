@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Intelligence transcription is twice as fast as OpenAI&#39;s Whisper](https://appleinsider.com/articles/25/06/18/apple-intelligence-transcription-is-twice-as-fast-as-openais-whisper?utm_medium=rss)
- - [Why is the President selling me phone service now?](https://www.theverge.com/tech/688750/trump-mobile-celebrity-mvno-wireless-service)
- - [NYC-based Tennr, which uses AI document parsing and workflow automation to cut patient waiting times, raised a $101M Series C led by IVP at a $605M valuation &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/250618/p18#a250618p18)
- - [Advanced display tech may make iPhone 19 even more energy efficient](https://appleinsider.com/articles/25/06/18/advanced-display-tech-may-make-iphone-19-even-more-energy-efficient?utm_medium=rss)
- - [Netflix will air traditional TV channels inside its app in France](https://www.theverge.com/news/689022/netflix-tf1-group-carriage-deal-tv-channels)<!-- TECH:END -->
+ - [4 Best Smart Glasses &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-smart-glasses/)
+ - [At Cannes, YouTube CEO Neal Mohan says YouTube plans to integrate Google&#39;s most advanced AI video generation tool, Veo 3, into YouTube Shorts later this summer &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/250618/p20#a250618p20)
+ - [London- and Paris-based Animaj, a kids&#39; media company that uses proprietary generative AI production tools to automate animation pipelines, raised $85M &lpar;Elsa Keslassy/Variety&rpar;](http://www.techmeme.com/250618/p19#a250618p19)
+ - [9 Best Smart Shades, Blinds, and Curtains &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-smart-shades-blinds-curtains/)
+ - [Apple Intelligence transcription is twice as fast as OpenAI&#39;s Whisper](https://appleinsider.com/articles/25/06/18/apple-intelligence-transcription-is-twice-as-fast-as-openais-whisper?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

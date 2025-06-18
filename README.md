@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands-on with Apple&#39;s new Speech framework components in the macOS Tahoe beta: the APIs deliver transcription speeds significantly faster than OpenAI&#39;s Whisper &lpar;John Voorhees/MacStories&rpar;](http://www.techmeme.com/250618/p13#a250618p13)
- - [The Definitive, Insane, Swimsuit-Bursting Story of the Steroid Olympics](https://www.wired.com/story/enhanced-games-freestyle-record-las-vegas-steroids/)
- - [AWS says Anthropic&#39;s Claude Opus 4 launched on its Trainium2 GPUs, and Project Rainier, AWS&#39; supercomputer built for Anthropic, uses 500K+ Trainium2 chips &lpar;Kristina Partsinevelos/CNBC&rpar;](http://www.techmeme.com/250618/p12#a250618p12)
- - [Netflix signs a landmark deal with French network TF1 to show linear TV for the first time; TF1 will broadcast all five channels, showing live sports and more &lpar;Financial Times&rpar;](http://www.techmeme.com/250618/p11#a250618p11)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 18, #472](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-18-472/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Motorola Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-motorola-phones/)
+ - [An interview with Samsung SVP Dr. Hon Pak on the Galaxy Watch adding its first-ever blood analysis feature, AI health tools, and a potential subscription &lpar;Vanessa Hand Orellana/CNET&rpar;](http://www.techmeme.com/250618/p15#a250618p15)
+ - [Those Creatine Gummies You Bought Online Might Not Contain Any Creatine](https://www.wired.com/story/creatine-gummies-dubious-claims/)
+ - [A look at California&#39;s 52-page California Report on Frontier Policy, which proposes an AI regulatory framework based on transparency, risk assessments, and more &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250618/p14#a250618p14)
+ - [Hands-on with Apple&#39;s new Speech framework components in the macOS Tahoe beta: the APIs deliver transcription speeds significantly faster than OpenAI&#39;s Whisper &lpar;John Voorhees/MacStories&rpar;](http://www.techmeme.com/250618/p13#a250618p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

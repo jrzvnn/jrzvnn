@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Honda successfully launched and landed its own reusable rocket](https://www.theverge.com/news/689183/honda-reusable-rocket-successful-launch-test-landing)
+ - [The whiplash of covering Summer Game Fest 2025 in LA](https://www.theverge.com/games/688568/summer-game-fest-2025-los-angeles-ice-arrests)
+ - [Israel-Tied Predatory Sparrow Hackers Are Waging Cyberwar on Iran&#39;s Financial System](https://www.wired.com/story/israels-predatory-sparrow-hackers-are-waging-cyberwar-on-irans-financial-system/)
  - [Cracked screens &amp; dead batteries are selling more iPhones than AI](https://appleinsider.com/articles/25/06/18/cracked-screens-dead-batteries-are-selling-more-iphones-than-ai?utm_medium=rss)
- - [Get these nine classic Sega iOS games for free while you still can](https://appleinsider.com/articles/25/06/18/get-these-nine-classic-sega-ios-games-for-free-while-you-still-can?utm_medium=rss)
- - [Cannes Lions: YouTube CEO Neal Mohan says YouTube Shorts now averages 200B daily views, up 186% from 70B daily views reported in March 2024 &lpar;Kayla Cobb/The Wrap&rpar;](http://www.techmeme.com/250618/p27#a250618p27)
- - [tvOS 26 hands on: Sleek Liquid Glass redesign, new Control Center and more](https://appleinsider.com/articles/25/06/18/tvos-26-hands-on-sleek-liquid-glass-redesign-new-control-center-and-more?utm_medium=rss)
- - [Observability and site reliability startup Traversal emerges from stealth with $48M in seed and Series A funding led by Sequoia and Kleiner Perkins &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250618/p26#a250618p26)<!-- TECH:END -->
+ - [Get these nine classic Sega iOS games for free while you still can](https://appleinsider.com/articles/25/06/18/get-these-nine-classic-sega-ios-games-for-free-while-you-still-can?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

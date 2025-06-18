@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sold!](http://9gag.com/gag/apRYRj9)
- - 😝 [God Damn](http://9gag.com/gag/aQzOXN7)
- - 💣 [Asking the real questions here](http://9gag.com/gag/aRBOrWM)
- - 😝 [When you didn\u2019t get the Memo](http://9gag.com/gag/aGyOzGz)
- - 👉 [The golden days](http://9gag.com/gag/aGyOE4n)<!-- MEMES:END -->
+ - 😝 [What does it means?](http://9gag.com/gag/ajPWmZG)
+ - 😝 [For everybody who missed it, day two. Right one is very very few more green. Lets try those `life Hacks`. Science b*tch!](http://9gag.com/gag/abAQAAE)
+ - 💣 [Proven Locks](http://9gag.com/gag/a87K79p)
+ - 😝 [The golden days](http://9gag.com/gag/aGyOE4n)
+ - 👉 [When you didn\u2019t get the Memo](http://9gag.com/gag/aGyOzGz)<!-- MEMES:END -->
 
 ---
 

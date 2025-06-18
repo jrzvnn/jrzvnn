@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Honda successfully launched and landed its own reusable rocket](https://www.theverge.com/news/689183/honda-reusable-rocket-successful-launch-test-landing)
- - [The whiplash of covering Summer Game Fest 2025 in LA](https://www.theverge.com/games/688568/summer-game-fest-2025-los-angeles-ice-arrests)
- - [Israel-Tied Predatory Sparrow Hackers Are Waging Cyberwar on Iran&#39;s Financial System](https://www.wired.com/story/israels-predatory-sparrow-hackers-are-waging-cyberwar-on-irans-financial-system/)
- - [Cracked screens &amp; dead batteries are selling more iPhones than AI](https://appleinsider.com/articles/25/06/18/cracked-screens-dead-batteries-are-selling-more-iphones-than-ai?utm_medium=rss)
- - [Get these nine classic Sega iOS games for free while you still can](https://appleinsider.com/articles/25/06/18/get-these-nine-classic-sega-ios-games-for-free-while-you-still-can?utm_medium=rss)<!-- TECH:END -->
+ - [If you had a problem with YouTube on iPhone, delete the app and reinstall it](https://appleinsider.com/articles/25/06/18/if-you-had-a-problem-with-youtube-on-iphone-delete-the-app-and-reinstall-it?utm_medium=rss)
+ - [What happens when you feed AI nothing](https://www.theverge.com/ai-artificial-intelligence/688576/feed-ai-nothing)
+ - [Why is the President selling me phone service now?](https://www.theverge.com/tech/688750/trump-mobile-celebrity-mvno-wireless-service)
+ - [This smart light has party speaker aspirations](https://www.theverge.com/smart-home-review/688790/govee-table-lamp-2-pro-sound-jbl-review-smart-light-bluetooth-speaker)
+ - [Framework Laptop 12 review: plastic fantastic](https://www.theverge.com/reviews/688959/framework-laptop-12-review-modular-touchscreen-intel)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

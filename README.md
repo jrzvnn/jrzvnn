@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Grab Apple&#39;s M4 MacBook Air for $829 now through June 19](https://appleinsider.com/articles/25/06/18/grab-apples-m4-macbook-air-for-829-now-through-june-19?utm_medium=rss)
+ - [Midjourney launches V1, its first AI video generation model, letting subscribers animate images via its website; video jobs will cost ~8x more than image jobs &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250618/p39#a250618p39)
  - [The EPA Plans to ‘Reconsider’ Ban on Cancer-Causing Asbestos](https://www.wired.com/story/trump-epa-reconsider-ban-cancer-causing-asbestos/)
  - [Apple&#39;s new short film &#39;Big Man&#39; was shot on an iPhone 16 Pro](https://appleinsider.com/articles/25/06/18/apples-new-short-film-big-man-was-shot-on-an-iphone-16-pro?utm_medium=rss)
- - [Source: Meta is in advanced talks to hire Nat Friedman and Daniel Gross to work on its AI efforts &lpar;The Information&rpar;](http://www.techmeme.com/250618/p38#a250618p38)
- - [Texas Instruments plans to spend $60B+ on US semiconductor plants, including two new factories in Texas, and says its long-term spending plan remains unchanged &lpar;Bloomberg&rpar;](http://www.techmeme.com/250618/p37#a250618p37)
- - [T-Mobile Debuts New Prepaid Plans With 5-Year Price Guarantee](https://www.cnet.com/tech/mobile/t-mobile-debuts-new-prepaid-plans-with-5-year-price-guarantee/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: Meta is in advanced talks to hire Nat Friedman and Daniel Gross to work on its AI efforts &lpar;The Information&rpar;](http://www.techmeme.com/250618/p38#a250618p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

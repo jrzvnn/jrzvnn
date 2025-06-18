@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of LA-based Whatnot, a livestream marketplace valued at ~$5B, which has raised $700M+ since 2019 and expects its GMV to grow 100%+ YoY to $6B+ in 2025 &lpar;Jason Del Rey/Fortune&rpar;](http://www.techmeme.com/250618/p9#a250618p9)
  - [A look at embedded and immersion chip-cooling tech; industry sources indicate Nvidia is mulling 6,000W to 9,000W TDP for its next-gen GPUs, up from ~1,200W now &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250618/p7#a250618p7)
  - [JD.com founder Richard Liu calls the past five years the company&#39;s &quot;darkest period&quot; and vows to speed up overseas expansion and challenge Meituan in new areas &lpar;Bloomberg&rpar;](http://www.techmeme.com/250618/p6#a250618p6)
  - [Ten current and former Samsung semiconductor engineers say many are leaving for SK Hynix and other rivals due to long hours, heavy workloads, and lower bonuses &lpar;Michelle Kim/Rest of World&rpar;](http://www.techmeme.com/250618/p5#a250618p5)
- - [Bitmain, Canaan and MicroBT, which build 90%+ of crypto mining rigs, are setting up US manufacturing footholds as Trump&#39;s tariff war reshapes the supply chain &lpar;Reuters&rpar;](http://www.techmeme.com/250618/p4#a250618p4)
- - [I Bought Smart Home Devices Using These 3 Tips and Made My Home Smarter](https://www.cnet.com/home/smart-home/bought-smart-home-devices-with-these-3-tips-and-made-my-home-smarter/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bitmain, Canaan and MicroBT, which build 90%+ of crypto mining rigs, are setting up US manufacturing footholds as Trump&#39;s tariff war reshapes the supply chain &lpar;Reuters&rpar;](http://www.techmeme.com/250618/p4#a250618p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

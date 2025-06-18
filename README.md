@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [6 Best Red Light Therapy Masks and LED Devices of 2025, Reviewed](https://www.wired.com/story/led-face-masks-and-red-light-therapy/)
  - [If you had a problem with YouTube on iPhone, delete the app and reinstall it](https://appleinsider.com/articles/25/06/18/if-you-had-a-problem-with-youtube-on-iphone-delete-the-app-and-reinstall-it?utm_medium=rss)
  - [What happens when you feed AI nothing](https://www.theverge.com/ai-artificial-intelligence/688576/feed-ai-nothing)
- - [Why is the President selling me phone service now?](https://www.theverge.com/tech/688750/trump-mobile-celebrity-mvno-wireless-service)
- - [This smart light has party speaker aspirations](https://www.theverge.com/smart-home-review/688790/govee-table-lamp-2-pro-sound-jbl-review-smart-light-bluetooth-speaker)
- - [Framework Laptop 12 review: plastic fantastic](https://www.theverge.com/reviews/688959/framework-laptop-12-review-modular-touchscreen-intel)<!-- TECH:END -->
+ - [How Donald Trump and Ryan Reynolds can easily sell you phone plans](https://www.theverge.com/tech/688750/trump-mobile-celebrity-mvno-wireless-service)
+ - [This smart light has party speaker aspirations](https://www.theverge.com/smart-home-review/688790/govee-table-lamp-2-pro-sound-jbl-review-smart-light-bluetooth-speaker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

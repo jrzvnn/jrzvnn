@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Klarna launches a $40/month unlimited mobile plan in the US via a partnership with telecom services startup Gigs, following similar offerings by Revolut and N26 &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250618/p34#a250618p34)
  - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)
  - [Ancestra actually says a lot about the current state of AI-generated videos](https://www.theverge.com/ai-artificial-intelligence/688448/ancestra-primordial-soup-google-deepmind)
  - [The Minnesota Shooting Suspect&#39;s Background Suggests Deep Ties to Christian Nationalism](https://www.wired.com/story/christian-nationalist-roots-suspected-minnesota-assassin/)
- - [The DOJ announces the seizure of $225.3M in crypto linked to &quot;pig butchering&quot; scams, marking &quot;the largest cryptocurrency seizure in US Secret Service history&quot; &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250618/p33#a250618p33)
- - [How Safari in iOS 26 &amp; macOS 26 puts content first with Liquid Glass UI changes](https://appleinsider.com/articles/25/06/18/how-safari-in-ios-26-macos-26-puts-content-first-with-liquid-glass-ui-changes?utm_medium=rss)<!-- TECH:END -->
+ - [The DOJ announces the seizure of $225.3M in crypto linked to &quot;pig butchering&quot; scams, marking &quot;the largest cryptocurrency seizure in US Secret Service history&quot; &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250618/p33#a250618p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

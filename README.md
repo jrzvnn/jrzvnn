@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Extinction of northern rhino ...](http://9gag.com/gag/aE0O8n9)
- - 😝 [Watch this woodpecker put in the work](http://9gag.com/gag/adBo8VM)
- - 💣 [Understood.](http://9gag.com/gag/aE0OpQn)
- - 😝 [Asking the real questions here](http://9gag.com/gag/aRBOrWM)
- - 👉 [Boom!](http://9gag.com/gag/aAyOG9p)<!-- MEMES:END -->
+ - 😝 [Why is my cat glowing??](http://9gag.com/gag/aRBO7ry)
+ - 😝 [The level of detail in this drawing is incredible, especially the transition.](http://9gag.com/gag/azxYM4Z)
+ - 💣 [What does it means?](http://9gag.com/gag/ajPWmZG)
+ - 😝 [When you didn\u2019t get the Memo](http://9gag.com/gag/aGyOzGz)
+ - 👉 [This post makes me laugh hard after seeing it.. CCTO](http://9gag.com/gag/aE0Op5e)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some Animal Crossing Lego sets are cheaper than ever](https://www.theverge.com/tech/689129/animal-crossing-lego-macbook-air-motorola-edge-deal-sale)
  - [This $400 flash discount on Apple&#39;s 14-inch MacBook Pro with 48GB RAM ends tonight](https://appleinsider.com/articles/25/06/18/this-400-flash-discount-on-apples-14-inch-macbook-pro-with-48gb-ram-ends-tonight?utm_medium=rss)
  - [US Supreme Court Upholds Tennessee’s Ban on Gender-Affirming Care for Minors](https://www.wired.com/story/supreme-court-ruling-gender-affirming-care-trans-rights-skrmetti-case/)
  - [Samsung’s latest midrange phone is on sale for its lowest price ever](https://www.theverge.com/tech/688692/samsung-galaxy-a36-android-phone-deal-sale)
- - [6 Best Red Light Therapy Masks and LED Devices of 2025, Reviewed](https://www.wired.com/story/led-face-masks-and-red-light-therapy/)
- - [If you had a problem with YouTube on iPhone, delete the app and reinstall it](https://appleinsider.com/articles/25/06/18/if-you-had-a-problem-with-youtube-on-iphone-delete-the-app-and-reinstall-it?utm_medium=rss)<!-- TECH:END -->
+ - [6 Best Red Light Therapy Masks and LED Devices of 2025, Reviewed](https://www.wired.com/story/led-face-masks-and-red-light-therapy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

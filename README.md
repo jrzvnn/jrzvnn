@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Even after 10 years that valkyrian scream still gives me chills](http://9gag.com/gag/aPA1g4n)
  - 😝 [A true gymbro helps a fellow lifter with proper form.](http://9gag.com/gag/axyYMY1)
- - 😝 [God Damn](http://9gag.com/gag/aQzOXN7)
- - 💣 [Mandatory kit when visiting London](http://9gag.com/gag/aAyOGQo)
- - 😝 [Understood.](http://9gag.com/gag/aE0OpQn)
- - 👉 [Watch this woodpecker put in the work](http://9gag.com/gag/adBo8VM)<!-- MEMES:END -->
+ - 💣 [Logistics are getting complicated](http://9gag.com/gag/ajPWVnp)
+ - 😝 [That&#39;s right .](http://9gag.com/gag/aRBOrPy)
+ - 👉 [Max the hero dog stayed by his owner&#39;s side for three days until help arrived. True loyalty.](http://9gag.com/gag/abAQvME)<!-- MEMES:END -->
 
 ---
 

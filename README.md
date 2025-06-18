@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix will air traditional TV channels inside its app in France](https://www.theverge.com/news/689022/netflix-tf1-group-carriage-deal-tv-channels)
  - [Meta, Amazon, and more want 10-year ban on states regulating AI](https://appleinsider.com/articles/25/06/18/meta-amazon-and-more-want-10-year-ban-on-states-regulating-ai?utm_medium=rss)
  - [Anduril partners with Germany&#39;s Rheinmetall to build variants of Anduril&#39;s Barracuda and Fury aerial drones, aiming to enhance sovereign capabilities in Europe &lpar;Sylvia Pfeifer/Financial Times&rpar;](http://www.techmeme.com/250618/p17#a250618p17)
  - [Jony Ive appointed to British Museum&#39;s board of trustees](https://appleinsider.com/articles/25/06/18/jony-ive-appointed-to-british-museums-board-of-trustees?utm_medium=rss)
- - [Silk &amp; Snow S&amp;S Organic Mattress Review: Soft as a Cloud](https://www.wired.com/review/silk-and-snow-organic-mattress/)
- - [Authors Are Posting TikToks to Protest AI Use in Writing—and to Prove They Aren’t Doing It](https://www.wired.com/story/authors-are-posting-tiktoks-to-protest-ai-use-in-writing-and-to-prove-they-arent-doing-it/)<!-- TECH:END -->
+ - [Silk &amp; Snow S&amp;S Organic Mattress Review: Soft as a Cloud](https://www.wired.com/review/silk-and-snow-organic-mattress/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

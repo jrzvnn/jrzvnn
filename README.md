@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hands-on with Apple&#39;s new Speech framework components in the macOS Tahoe beta: the APIs deliver transcription speeds significantly faster than OpenAI&#39;s Whisper &lpar;John Voorhees/MacStories&rpar;](http://www.techmeme.com/250618/p13#a250618p13)
+ - [The Definitive, Insane, Swimsuit-Bursting Story of the Steroid Olympics](https://www.wired.com/story/enhanced-games-freestyle-record-las-vegas-steroids/)
  - [AWS says Anthropic&#39;s Claude Opus 4 launched on its Trainium2 GPUs, and Project Rainier, AWS&#39; supercomputer built for Anthropic, uses 500K+ Trainium2 chips &lpar;Kristina Partsinevelos/CNBC&rpar;](http://www.techmeme.com/250618/p12#a250618p12)
  - [Netflix signs a landmark deal with French network TF1 to show linear TV for the first time; TF1 will broadcast all five channels, showing live sports and more &lpar;Financial Times&rpar;](http://www.techmeme.com/250618/p11#a250618p11)
- - [The European Commission accuses Chinese marketplace AliExpress of failing to tackle illegal products on its platform, in preliminary findings under the DSA &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/250618/p10#a250618p10)
- - [Follow the 10-3-2-1-0 Sleep Rule and Kick Those Sleepless Nights to the Curb](https://www.cnet.com/health/sleep/follow-the-10-3-2-1-0-sleep-rule-and-kick-those-sleepless-nights-to-the-curb/#ftag=CAD590a51e)
- - [If You Were Surprised by an Amazon Refund From Years Ago, Here&#39;s Why](https://www.cnet.com/tech/if-you-were-surprised-by-an-amazon-refund-from-years-ago-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 18, #472](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-18-472/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

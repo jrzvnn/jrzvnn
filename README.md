@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [To everyone who bought the Non-woke game just to support them, well done.](http://9gag.com/gag/aByOnGz)
- - 😝 [The incredible bond of friendship and the healing power of humor.](http://9gag.com/gag/aByOnMO)
- - 💣 [The power of seeing your favorite person](http://9gag.com/gag/ajPWgv8)
- - 😝 [He almost saw heaven.](http://9gag.com/gag/aXPKPAz)
- - 👉 [The man did his part](http://9gag.com/gag/azxYxqq)<!-- MEMES:END -->
+ - 😝 [We got Leo dating a 27 year old before we got GTA VI](http://9gag.com/gag/aByOy91)
+ - 😝 [A waiter&#39;s surprising table side trick.](http://9gag.com/gag/a9yOEbD)
+ - 💣 [I gotcha back](http://9gag.com/gag/aqyYj9v)
+ - 😝 [What does it means?](http://9gag.com/gag/ajPWmZG)
+ - 👉 [Women](http://9gag.com/gag/a9yOyb6)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why is my cat glowing??](http://9gag.com/gag/aRBO7ry)
- - 😝 [The level of detail in this drawing is incredible, especially the transition.](http://9gag.com/gag/azxYM4Z)
- - 💣 [What does it means?](http://9gag.com/gag/ajPWmZG)
- - 😝 [When you didn\u2019t get the Memo](http://9gag.com/gag/aGyOzGz)
- - 👉 [This post makes me laugh hard after seeing it.. CCTO](http://9gag.com/gag/aE0Op5e)<!-- MEMES:END -->
+ - 😝 [A true gymbro helps a fellow lifter with proper form.](http://9gag.com/gag/axyYMY1)
+ - 😝 [God Damn](http://9gag.com/gag/aQzOXN7)
+ - 💣 [Mandatory kit when visiting London](http://9gag.com/gag/aAyOGQo)
+ - 😝 [Understood.](http://9gag.com/gag/aE0OpQn)
+ - 👉 [Watch this woodpecker put in the work](http://9gag.com/gag/adBo8VM)<!-- MEMES:END -->
 
 ---
 

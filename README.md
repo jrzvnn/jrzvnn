@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)
- - [The Fed&#39;s on Pause, but You Shouldn&#39;t Be. 4 Smart Financial Moves to Make Today](https://www.cnet.com/personal-finance/banking/the-feds-on-pause-but-you-shouldnt-be-4-smart-financial-moves-to-make-today/#ftag=CAD590a51e)
  - [Ancestra actually says a lot about the current state of AI-generated videos](https://www.theverge.com/ai-artificial-intelligence/688448/ancestra-primordial-soup-google-deepmind)
- - [What Trump’s New FCC Pick Means for You](https://www.cnet.com/home/internet/what-trumps-new-fcc-pick-means-for-you/#ftag=CAD590a51e)
- - [The Fed Didn&#39;t Cut Rates, But Your Credit Card&#39;s APR Could Still Change. Here&#39;s What You Need to Know](https://www.cnet.com/personal-finance/the-fed-didnt-cut-rates-but-your-credit-cards-apr-could-still-change-heres-what-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Minnesota Shooting Suspect&#39;s Background Suggests Deep Ties to Christian Nationalism](https://www.wired.com/story/christian-nationalist-roots-suspected-minnesota-assassin/)
+ - [The DOJ announces the seizure of $225.3M in crypto linked to &quot;pig butchering&quot; scams, marking &quot;the largest cryptocurrency seizure in US Secret Service history&quot; &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250618/p33#a250618p33)
+ - [How Safari in iOS 26 &amp; macOS 26 puts content first with Liquid Glass UI changes](https://appleinsider.com/articles/25/06/18/how-safari-in-ios-26-macos-26-puts-content-first-with-liquid-glass-ui-changes?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

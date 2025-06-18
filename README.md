@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A true gymbro helps a fellow lifter with proper form.](http://9gag.com/gag/axyYMY1)
  - 😝 [The golden days](http://9gag.com/gag/aGyOE4n)
- - 💣 [Respect in the ring](http://9gag.com/gag/a0eMNyL)
- - 😝 [Understood.](http://9gag.com/gag/aE0OpQn)
- - 👉 [Extinction of northern rhino ...](http://9gag.com/gag/aE0O8n9)<!-- MEMES:END -->
+ - 😝 [This post makes me laugh hard after seeing it.. CCTO](http://9gag.com/gag/aE0Op5e)
+ - 💣 [Bonucci for gender equality \u2665](http://9gag.com/gag/aqyYjKZ)
+ - 😝 [When you didn\u2019t get the Memo](http://9gag.com/gag/aGyOzGz)
+ - 👉 [I gotcha back](http://9gag.com/gag/aqyYj9v)<!-- MEMES:END -->
 
 ---
 

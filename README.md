@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bring back bench seats for important reasons.](http://9gag.com/gag/aRBOEQq)
+ - 😝 [Oh well](http://9gag.com/gag/a9yOEw6)
  - 😝 [What does it means?](http://9gag.com/gag/ajPWmZG)
  - 💣 [You can see that the officer is fighting his demons](http://9gag.com/gag/aByO28N)
  - 😝 [Never mention Hubert around him](http://9gag.com/gag/aMVOKKP)
- - 👉 [Understood.](http://9gag.com/gag/aE0OpQn)<!-- MEMES:END -->
+ - 👉 [A waiter&#39;s surprising table side trick.](http://9gag.com/gag/a9yOEbD)<!-- MEMES:END -->
 
 ---
 

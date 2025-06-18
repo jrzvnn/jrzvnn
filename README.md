@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Never mention Hubert around him](http://9gag.com/gag/aMVOKKP)
+ - 😝 [Extinction of northern rhino ...](http://9gag.com/gag/aE0O8n9)
+ - 💣 [Ukrainian soldier before and after Russian captivity](http://9gag.com/gag/aVvVw3v)
  - 😝 [Women](http://9gag.com/gag/a9yOyb6)
- - 😝 [Asking the real questions here](http://9gag.com/gag/aRBOrWM)
- - 💣 [Watch this woodpecker put in the work](http://9gag.com/gag/adBo8VM)
- - 😝 [Boom!](http://9gag.com/gag/aAyOG9p)
- - 👉 [Oh well](http://9gag.com/gag/a9yOEw6)<!-- MEMES:END -->
+ - 👉 [When you didn\u2019t get the Memo](http://9gag.com/gag/aGyOzGz)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Asking the real questions here](http://9gag.com/gag/aRBOrWM)
  - 😝 [Oh well](http://9gag.com/gag/a9yOEw6)
- - 😝 [What does it means?](http://9gag.com/gag/ajPWmZG)
- - 💣 [You can see that the officer is fighting his demons](http://9gag.com/gag/aByO28N)
- - 😝 [Never mention Hubert around him](http://9gag.com/gag/aMVOKKP)
+ - 💣 [I gotcha back](http://9gag.com/gag/aqyYj9v)
+ - 😝 [Boom!](http://9gag.com/gag/aAyOG9p)
  - 👉 [A waiter&#39;s surprising table side trick.](http://9gag.com/gag/a9yOEbD)<!-- MEMES:END -->
 
 ---

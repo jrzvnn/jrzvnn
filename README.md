@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix signs a landmark deal with French network TF1 to show linear TV for the first time; TF1 will broadcast all five channels, showing live sports and more &lpar;Financial Times&rpar;](http://www.techmeme.com/250618/p11#a250618p11)
  - [The European Commission accuses Chinese marketplace AliExpress of failing to tackle illegal products on its platform, in preliminary findings under the DSA &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/250618/p10#a250618p10)
- - [A profile of LA-based Whatnot, a livestream marketplace valued at ~$5B, which has raised $700M+ since 2019 and expects its GMV to grow 100%+ YoY to $6B+ in 2025 &lpar;Jason Del Rey/Fortune&rpar;](http://www.techmeme.com/250618/p9#a250618p9)
- - [iOS 26 Will Radically Reshape the Look and Feel of Apple CarPlay. Learn All the New Free Features Coming Soon](https://www.cnet.com/tech/services-and-software/ios-26-will-radically-reshape-the-look-and-feel-of-apple-carplay-learn-all-the-new-free-features-coming-soon/#ftag=CAD590a51e)
- - [A look at embedded and immersion chip-cooling tech; industry sources indicate Nvidia is mulling 6,000W to 9,000W TDP for its next-gen GPUs, up from ~1,200W now &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250618/p7#a250618p7)
- - [JD.com founder Richard Liu calls the past five years the company&#39;s &quot;darkest period&quot; and vows to speed up overseas expansion and challenge Meituan in new areas &lpar;Bloomberg&rpar;](http://www.techmeme.com/250618/p6#a250618p6)<!-- TECH:END -->
+ - [Follow the 10-3-2-1-0 Sleep Rule and Kick Those Sleepless Nights to the Curb](https://www.cnet.com/health/sleep/follow-the-10-3-2-1-0-sleep-rule-and-kick-those-sleepless-nights-to-the-curb/#ftag=CAD590a51e)
+ - [If You Were Surprised by an Amazon Refund From Years Ago, Here&#39;s Why](https://www.cnet.com/tech/if-you-were-surprised-by-an-amazon-refund-from-years-ago-heres-why/#ftag=CAD590a51e)
+ - [A profile of LA-based Whatnot, a livestream marketplace valued at ~$5B, which has raised $700M+ since 2019 and expects its GMV to grow 100%+ YoY to $6B+ in 2025 &lpar;Jason Del Rey/Fortune&rpar;](http://www.techmeme.com/250618/p9#a250618p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

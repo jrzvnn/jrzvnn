@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [God Damn](http://9gag.com/gag/aQzOXN7)
- - 😝 [Extinction of northern rhino ...](http://9gag.com/gag/aE0O8n9)
- - 💣 [Proven Locks](http://9gag.com/gag/a87K79p)
+ - 😝 [Asking the real questions here](http://9gag.com/gag/aRBOrWM)
  - 😝 [Bring back bench seats for important reasons.](http://9gag.com/gag/aRBOEQq)
- - 👉 [What does it means?](http://9gag.com/gag/ajPWmZG)<!-- MEMES:END -->
+ - 💣 [This bartender&#39;s magic tricks are next level. The reactions are priceless](http://9gag.com/gag/aGyOEA5)
+ - 😝 [The golden days](http://9gag.com/gag/aGyOE4n)
+ - 👉 [Extinction of northern rhino ...](http://9gag.com/gag/aE0O8n9)<!-- MEMES:END -->
 
 ---
 

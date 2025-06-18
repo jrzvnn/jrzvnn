@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix will air traditional TV channels inside its app in France](https://www.theverge.com/news/689022/netflix-tf1-group-carriage-deal-tv-channels)
- - [Meta, Amazon, and more want 10-year ban on states regulating AI](https://appleinsider.com/articles/25/06/18/meta-amazon-and-more-want-10-year-ban-on-states-regulating-ai?utm_medium=rss)
- - [Anduril partners with Germany&#39;s Rheinmetall to build variants of Anduril&#39;s Barracuda and Fury aerial drones, aiming to enhance sovereign capabilities in Europe &lpar;Sylvia Pfeifer/Financial Times&rpar;](http://www.techmeme.com/250618/p17#a250618p17)
- - [Jony Ive appointed to British Museum&#39;s board of trustees](https://appleinsider.com/articles/25/06/18/jony-ive-appointed-to-british-museums-board-of-trustees?utm_medium=rss)
- - [Silk &amp; Snow S&amp;S Organic Mattress Review: Soft as a Cloud](https://www.wired.com/review/silk-and-snow-organic-mattress/)<!-- TECH:END -->
+ - [Apple Intelligence transcription is twice as fast as OpenAI&#39;s Whisper](https://appleinsider.com/articles/25/06/18/apple-intelligence-transcription-is-twice-as-fast-as-openais-whisper?utm_medium=rss)
+ - [Why is the President selling me phone service now?](https://www.theverge.com/tech/688750/trump-mobile-celebrity-mvno-wireless-service)
+ - [NYC-based Tennr, which uses AI document parsing and workflow automation to cut patient waiting times, raised a $101M Series C led by IVP at a $605M valuation &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/250618/p18#a250618p18)
+ - [Advanced display tech may make iPhone 19 even more energy efficient](https://appleinsider.com/articles/25/06/18/advanced-display-tech-may-make-iphone-19-even-more-energy-efficient?utm_medium=rss)
+ - [Netflix will air traditional TV channels inside its app in France](https://www.theverge.com/news/689022/netflix-tf1-group-carriage-deal-tv-channels)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

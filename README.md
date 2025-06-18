@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What does it means?](http://9gag.com/gag/ajPWmZG)
- - 😝 [Why is my cat glowing??](http://9gag.com/gag/aRBO7ry)
- - 💣 [Watch this woodpecker put in the work](http://9gag.com/gag/adBo8VM)
- - 😝 [A waiter&#39;s surprising table side trick.](http://9gag.com/gag/a9yOEbD)
+ - 😝 [When you didn\u2019t get the Memo](http://9gag.com/gag/aGyOzGz)
+ - 😝 [I gotcha back](http://9gag.com/gag/aqyYj9v)
+ - 💣 [What does it means?](http://9gag.com/gag/ajPWmZG)
+ - 😝 [You can see that the officer is fighting his demons](http://9gag.com/gag/aByO28N)
  - 👉 [Oh well](http://9gag.com/gag/a9yOEw6)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We got Leo dating a 27 year old before we got GTA VI](http://9gag.com/gag/aByOy91)
- - 😝 [Understood.](http://9gag.com/gag/aE0OpQn)
- - 💣 [Expedition 33 OST comments are fire](http://9gag.com/gag/aW4DxLK)
- - 😝 [Why is my cat glowing??](http://9gag.com/gag/aRBO7ry)
- - 👉 [God Damn](http://9gag.com/gag/aQzOXN7)<!-- MEMES:END -->
+ - 😝 [Even after 10 years that valkyrian scream still gives me chills](http://9gag.com/gag/aPA1g4n)
+ - 😝 [A true gymbro helps a fellow lifter with proper form.](http://9gag.com/gag/axyYMY1)
+ - 💣 [Logistics are getting complicated](http://9gag.com/gag/ajPWVnp)
+ - 😝 [That&#39;s right .](http://9gag.com/gag/aRBOrPy)
+ - 👉 [Max the hero dog stayed by his owner&#39;s side for three days until help arrived. True loyalty.](http://9gag.com/gag/abAQvME)<!-- MEMES:END -->
 
 ---
 

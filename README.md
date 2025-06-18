@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wix acquires Base44, which lets users build apps from text prompts, for $80M; Base44 was founded by a solo entrepreneur six months ago and employs six people &lpar;Sophie Shulman/CTech&rpar;](http://www.techmeme.com/250618/p41#a250618p41)
  - [The US State Department restarts student visa interviews and requires all applicants to make their social media accounts public for vetting by US embassies &lpar;Washington Post&rpar;](http://www.techmeme.com/250618/p40#a250618p40)
  - [16 billion logins discovered across exposed datasets, but don&#39;t panic](https://appleinsider.com/articles/25/06/18/16-billion-logins-discovered-across-exposed-datasets-but-dont-panic?utm_medium=rss)
  - [Al Ain vs. Juventus From Anywhere for Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/al-ain-vs-juventus-from-anywhere-for-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)
- - [Grab Apple&#39;s M4 MacBook Air for $829 now through June 19](https://appleinsider.com/articles/25/06/18/grab-apples-m4-macbook-air-for-829-now-through-june-19?utm_medium=rss)
- - [Midjourney launches V1, its first AI video generation model, letting subscribers animate images via its website; video jobs will cost ~8x more than image jobs &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250618/p39#a250618p39)<!-- TECH:END -->
+ - [Grab Apple&#39;s M4 MacBook Air for $829 now through June 19](https://appleinsider.com/articles/25/06/18/grab-apples-m4-macbook-air-for-829-now-through-june-19?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

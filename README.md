@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Temu entered into a US data storage deal with Oracle last week and offered few details, but says it is part of an effort to localize more of its US operations &lpar;Shen Lu/Wall Street Journal&rpar;](http://www.techmeme.com/250618/p25#a250618p25)
- - [RFK Jr. is coming for your vaccines](https://www.theverge.com/health/688503/rfk-jr-vaccines)
- - [Intel names new engineering leadership, appointing Srinivasan Iyengar, Jean-Didier Allegrucci, and Shailendra Desai, as part of CEO Lip-Bu Tan&#39;s turnaround &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250618/p24#a250618p24)
- - [Even Klarna is launching a mobile phone service now](https://www.theverge.com/news/689123/klarna-mobile-phone-service-mvno-gigs)
- - [Boston-based Maven, which builds autonomous AI agents for enterprises&#39; customer support, raised a $50M Series B led by Dell, taking its total funding to $78M &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250618/p23#a250618p23)<!-- TECH:END -->
+ - [Cracked screens &amp; dead batteries are selling more iPhones than AI](https://appleinsider.com/articles/25/06/18/cracked-screens-dead-batteries-are-selling-more-iphones-than-ai?utm_medium=rss)
+ - [Get these nine classic Sega iOS games for free while you still can](https://appleinsider.com/articles/25/06/18/get-these-nine-classic-sega-ios-games-for-free-while-you-still-can?utm_medium=rss)
+ - [Cannes Lions: YouTube CEO Neal Mohan says YouTube Shorts now averages 200B daily views, up 186% from 70B daily views reported in March 2024 &lpar;Kayla Cobb/The Wrap&rpar;](http://www.techmeme.com/250618/p27#a250618p27)
+ - [tvOS 26 hands on: Sleek Liquid Glass redesign, new Control Center and more](https://appleinsider.com/articles/25/06/18/tvos-26-hands-on-sleek-liquid-glass-redesign-new-control-center-and-more?utm_medium=rss)
+ - [Observability and site reliability startup Traversal emerges from stealth with $48M in seed and Series A funding led by Sequoia and Kleiner Perkins &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250618/p26#a250618p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

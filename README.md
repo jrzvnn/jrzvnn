@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Texas Instruments plans to spend $60B+ on US semiconductor plants, including two new factories in Texas, and says its long-term spending plan remains unchanged &lpar;Bloomberg&rpar;](http://www.techmeme.com/250618/p37#a250618p37)
+ - [T-Mobile Debuts New Prepaid Plans With 5-Year Price Guarantee](https://www.cnet.com/tech/mobile/t-mobile-debuts-new-prepaid-plans-with-5-year-price-guarantee/#ftag=CAD590a51e)
  - [Is the Apple One subscription worth it in 2025?](https://appleinsider.com/inside/apple-one/tips/is-the-apple-one-subscription-worth-it-in-2025?utm_medium=rss)
  - [Sources: Microsoft plans to announce thousands of job cuts, particularly in sales, early next month after the end of its fiscal year &lpar;Bloomberg&rpar;](http://www.techmeme.com/250618/p36#a250618p36)
- - [Sources: Microsoft is prepared to walk away from high-stakes talks with OpenAI if they cannot agree on critical issues, such as the size of Microsoft&#39;s stake &lpar;Financial Times&rpar;](http://www.techmeme.com/250618/p35#a250618p35)
- - [Klarna launches a $40/month unlimited mobile plan in the US via a partnership with telecom services startup Gigs, following similar offerings by Revolut and N26 &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250618/p34#a250618p34)<!-- TECH:END -->
+ - [Sources: Microsoft is prepared to walk away from high-stakes talks with OpenAI if they cannot agree on critical issues, such as the size of Microsoft&#39;s stake &lpar;Financial Times&rpar;](http://www.techmeme.com/250618/p35#a250618p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

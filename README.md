@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Death Stranding is getting an animated film](https://www.theverge.com/news/689453/death-stranding-animated-movie)
+ - [Iran’s Internet Blackout Adds New Dangers for Civilians Amid Israeli Bombings](https://www.wired.com/story/iran-internet-shutdown-israel/)
  - [iPhone Fold mass production now expected to start in summer 2026](https://appleinsider.com/articles/25/06/18/iphone-fold-mass-production-now-expected-to-start-in-summer-2026?utm_medium=rss)
  - [TerraPower, which develops small modular nuclear reactors, raised $650M from investors including Nvidia&#39;s NVentures and TerraPower co-founder Bill Gates &lpar;Lisa Stiffler/GeekWire&rpar;](http://www.techmeme.com/250618/p31#a250618p31)
- - [Nintendo Switch 2: Which webcams work?](https://www.theverge.com/nintendo/682008/which-webcams-work-with-nintendo-switch-2)
- - [Facebook rolls out passkey support to fight phishing attacks](https://www.theverge.com/news/689410/facebook-passkey-support-phishing-attacks)
- - [Google rolls out the ability to have back-and-forth voice conversations with AI Mode, available in the Google app by tapping the Live button &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250618/p30#a250618p30)<!-- TECH:END -->
+ - [Nintendo Switch 2: Which webcams work?](https://www.theverge.com/nintendo/682008/which-webcams-work-with-nintendo-switch-2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

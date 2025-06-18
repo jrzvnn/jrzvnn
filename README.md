@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Death Stranding is getting an animated film](https://www.theverge.com/news/689453/death-stranding-animated-movie)
- - [Iran’s Internet Blackout Adds New Dangers for Civilians Amid Israeli Bombings](https://www.wired.com/story/iran-internet-shutdown-israel/)
- - [iPhone Fold mass production now expected to start in summer 2026](https://appleinsider.com/articles/25/06/18/iphone-fold-mass-production-now-expected-to-start-in-summer-2026?utm_medium=rss)
- - [TerraPower, which develops small modular nuclear reactors, raised $650M from investors including Nvidia&#39;s NVentures and TerraPower co-founder Bill Gates &lpar;Lisa Stiffler/GeekWire&rpar;](http://www.techmeme.com/250618/p31#a250618p31)
- - [Nintendo Switch 2: Which webcams work?](https://www.theverge.com/nintendo/682008/which-webcams-work-with-nintendo-switch-2)<!-- TECH:END -->
+ - [How Safari in iOS 26 &amp; macOS 26 puts content first with Liquid Glass UI changes](https://appleinsider.com/articles/25/06/18/how-safari-in-ios-26-macos-26-puts-content-first-with-liquid-glass-ui-changes?utm_medium=rss)
+ - [YouTube is plugging Veo 3 AI videos directly into Shorts](https://www.theverge.com/news/689474/youtube-veo-3-ai-videos-shorts)
+ - [OpenAI details why &quot;emergent misalignment&quot;, where training on wrong answers in one area can lead to misalignment in others, happens and how it can be mitigated &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250618/p32#a250618p32)
+ - [Amazon Rebuilt Alexa Using a ‘Staggering’ Amount of AI Tools](https://www.wired.com/story/amazon-daniel-rausch-alexa-plus/)
+ - [Death Stranding is getting an animated film](https://www.theverge.com/news/689453/death-stranding-animated-movie)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I gotcha back](http://9gag.com/gag/aqyYj9v)
- - 😝 [The golden days](http://9gag.com/gag/aGyOE4n)
- - 💣 [When you didn\u2019t get the Memo](http://9gag.com/gag/aGyOzGz)
- - 😝 [Extinction of northern rhino ...](http://9gag.com/gag/aE0O8n9)
- - 👉 [Uff good one](http://9gag.com/gag/aLndwZP)<!-- MEMES:END -->
+ - 😝 [Watch this woodpecker put in the work](http://9gag.com/gag/adBo8VM)
+ - 😝 [Bring back bench seats for important reasons.](http://9gag.com/gag/aRBOEQq)
+ - 💣 [I gotcha back](http://9gag.com/gag/aqyYj9v)
+ - 😝 [A waiter&#39;s surprising table side trick.](http://9gag.com/gag/a9yOEbD)
+ - 👉 [Extinction of northern rhino ...](http://9gag.com/gag/aE0O8n9)<!-- MEMES:END -->
 
 ---
 

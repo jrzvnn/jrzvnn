@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro pranked a kid as he wrapped brussel sprouts as Ferrero Rocher for trick and treat . The kids mom lost her cool as her kid is crying](http://9gag.com/gag/aAyOg82)
- - 😝 [Understood.](http://9gag.com/gag/aE0OpQn)
- - 💣 [Brid vs Tiger](http://9gag.com/gag/aVvVwzO)
+ - 😝 [`I don&#39;t know who you are. I don&#39;t know what you want.`](http://9gag.com/gag/aGyOzOX)
+ - 😝 [The daily commute struggle is real, and apparently involves Mario.](http://9gag.com/gag/aByO2bZ)
+ - 💣 [Film crew makes a tough call to save trapped penguins from a deadly gully.](http://9gag.com/gag/adBo8oB)
  - 😝 [Boom!](http://9gag.com/gag/aAyOG9p)
- - 👉 [A true gymbro helps a fellow lifter with proper form.](http://9gag.com/gag/axyYMY1)<!-- MEMES:END -->
+ - 👉 [Not on my watch](http://9gag.com/gag/amop5Ed)<!-- MEMES:END -->
 
 ---
 

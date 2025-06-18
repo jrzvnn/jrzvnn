@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mandatory kit when visiting London](http://9gag.com/gag/aAyOGQo)
- - 😝 [God Damn](http://9gag.com/gag/aQzOXN7)
- - 💣 [What does it means?](http://9gag.com/gag/ajPWmZG)
- - 😝 [Respect in the ring](http://9gag.com/gag/a0eMNyL)
- - 👉 [When you didn\u2019t get the Memo](http://9gag.com/gag/aGyOzGz)<!-- MEMES:END -->
+ - 😝 [I gotcha back](http://9gag.com/gag/aqyYj9v)
+ - 😝 [The golden days](http://9gag.com/gag/aGyOE4n)
+ - 💣 [When you didn\u2019t get the Memo](http://9gag.com/gag/aGyOzGz)
+ - 😝 [Extinction of northern rhino ...](http://9gag.com/gag/aE0O8n9)
+ - 👉 [Uff good one](http://9gag.com/gag/aLndwZP)<!-- MEMES:END -->
 
 ---
 

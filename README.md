@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This bartender&#39;s magic tricks are next level. The reactions are priceless](http://9gag.com/gag/aGyOEA5)
  - 😝 [What does it means?](http://9gag.com/gag/ajPWmZG)
- - 😝 [For everybody who missed it, day two. Right one is very very few more green. Lets try those `life Hacks`. Science b*tch!](http://9gag.com/gag/abAQAAE)
- - 💣 [Proven Locks](http://9gag.com/gag/a87K79p)
+ - 💣 [Women](http://9gag.com/gag/a9yOyb6)
  - 😝 [The golden days](http://9gag.com/gag/aGyOE4n)
- - 👉 [When you didn\u2019t get the Memo](http://9gag.com/gag/aGyOzGz)<!-- MEMES:END -->
+ - 👉 [For everybody who missed it, day two. Right one is very very few more green. Lets try those `life Hacks`. Science b*tch!](http://9gag.com/gag/abAQAAE)<!-- MEMES:END -->
 
 ---
 

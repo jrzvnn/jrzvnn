@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Walmart plans to leverage its $2.3B Vizio acquisition to push shoppable TV experiences; Walmart&#39;s ad business had just $4.4B of sales in FY 2025 &lpar;Jaewon Kang/Bloomberg&rpar;](http://www.techmeme.com/250617/p44#a250617p44)
+ - [The Iranian government says it has restricted internet access in response to Israeli cyberattacks; some Western communication apps have reportedly been blocked &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/250617/p43#a250617p43)
  - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [On a podcast, Sam Altman said Meta made &quot;giant offers to a lot of people on our team&quot;, like $100M signing bonuses, and &quot;none of our best people&quot; have accepted &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250617/p42#a250617p42)
- - [A cyberattack claimed by the pro-Israel hacktivist group Predatory Sparrow has reportedly disrupted services at Iran&#39;s state-owned Bank Sepah &lpar;Matt Kapko/CyberScoop&rpar;](http://www.techmeme.com/250617/p41#a250617p41)
- - [Iran is going offline to prevent purported Israeli cyberattacks](https://www.theverge.com/politics/688875/iran-cutting-off-internet-israel-war)
- - [Trump is giving TikTok another ban extension](https://www.theverge.com/news/688252/tiktok-ban-trump-extension-deal)<!-- TECH:END -->
+ - [On a podcast, Sam Altman said Meta made &quot;giant offers to a lot of people on our team...like, $100M signing bonuses&quot;, and &quot;none of our best people&quot; have accepted &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250617/p42#a250617p42)
+ - [A cyberattack claimed by the pro-Israel hacktivist group Predatory Sparrow has reportedly disrupted services at Iran&#39;s state-owned Bank Sepah &lpar;Matt Kapko/CyberScoop&rpar;](http://www.techmeme.com/250617/p41#a250617p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

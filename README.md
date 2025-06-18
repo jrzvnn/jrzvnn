@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This man has been walking around the world for 27 years and just reached Europe. What an incredible journey.](http://9gag.com/gag/aKGO6jW)
- - 😝 [Remember when kids just disappeared for hours?](http://9gag.com/gag/aYQAoo0)
+ - 😝 [Bring back bench seats for important reasons.](http://9gag.com/gag/aRBOEQq)
+ - 😝 [What does it means?](http://9gag.com/gag/ajPWmZG)
  - 💣 [You can see that the officer is fighting his demons](http://9gag.com/gag/aByO28N)
- - 😝 [That&#39;s right .](http://9gag.com/gag/aRBOrPy)
- - 👉 [To everyone who bought the Non-woke game just to support them, well done.](http://9gag.com/gag/aByOnGz)<!-- MEMES:END -->
+ - 😝 [Never mention Hubert around him](http://9gag.com/gag/aMVOKKP)
+ - 👉 [Understood.](http://9gag.com/gag/aE0OpQn)<!-- MEMES:END -->
 
 ---
 

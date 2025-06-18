@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [God Damn](http://9gag.com/gag/aQzOXN7)
- - 😝 [Biker stops female hit n runner](http://9gag.com/gag/ae974jW)
- - 💣 [This bartender&#39;s magic tricks are next level. The reactions are priceless](http://9gag.com/gag/aGyOEA5)
- - 😝 [The golden days](http://9gag.com/gag/aGyOE4n)
- - 👉 [Women](http://9gag.com/gag/a9yOyb6)<!-- MEMES:END -->
+ - 😝 [Women](http://9gag.com/gag/a9yOyb6)
+ - 😝 [Extinction of northern rhino ...](http://9gag.com/gag/aE0O8n9)
+ - 💣 [The daily commute struggle is real, and apparently involves Mario.](http://9gag.com/gag/aByO2bZ)
+ - 😝 [Sold!](http://9gag.com/gag/apRYRj9)
+ - 👉 [Biker stops female hit n runner](http://9gag.com/gag/ae974jW)<!-- MEMES:END -->
 
 ---
 

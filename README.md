@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I think every now and then this needs to be &lpar;re&rpar;posted for the ones who missed it](http://9gag.com/gag/a0eM4bO)
- - 😝 [This is a man who loves his family to the point of invention - brilliant](http://9gag.com/gag/ae97gBb)
- - 💣 [James was trying to warn us back then.](http://9gag.com/gag/aqyYyPL)
- - 😝 [He almost saw heaven.](http://9gag.com/gag/aXPKPAz)
- - 👉 [It&#39;s a nice car](http://9gag.com/gag/ae979E5)<!-- MEMES:END -->
+ - 😝 [Sold!](http://9gag.com/gag/apRYRj9)
+ - 😝 [God Damn](http://9gag.com/gag/aQzOXN7)
+ - 💣 [Asking the real questions here](http://9gag.com/gag/aRBOrWM)
+ - 😝 [When you didn\u2019t get the Memo](http://9gag.com/gag/aGyOzGz)
+ - 👉 [The golden days](http://9gag.com/gag/aGyOE4n)<!-- MEMES:END -->
 
 ---
 

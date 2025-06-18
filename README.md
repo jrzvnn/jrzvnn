@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UBS confirms data was stolen in a cyberattack on supplier Chain IQ, which said it and 19 other companies were targeted; Swiss media says it impacts 130K+ staff &lpar;Noele Illien/Bloomberg&rpar;](http://www.techmeme.com/250618/p16#a250618p16)
- - [The Best Motorola Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-motorola-phones/)
- - [An interview with Samsung SVP Dr. Hon Pak on the Galaxy Watch adding its first-ever blood analysis feature, AI health tools, and a potential subscription &lpar;Vanessa Hand Orellana/CNET&rpar;](http://www.techmeme.com/250618/p15#a250618p15)
- - [Those Creatine Gummies You Bought Online Might Not Contain Any Creatine](https://www.wired.com/story/creatine-gummies-dubious-claims/)
- - [A look at California&#39;s 52-page California Report on Frontier Policy, which proposes an AI regulatory framework based on transparency, risk assessments, and more &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250618/p14#a250618p14)<!-- TECH:END -->
+ - [Anduril partners with Germany&#39;s Rheinmetall to build variants of Anduril&#39;s Barracuda and Fury aerial drones, aiming to enhance sovereign capabilities in Europe &lpar;Sylvia Pfeifer/Financial Times&rpar;](http://www.techmeme.com/250618/p17#a250618p17)
+ - [Jony Ive appointed to British Museum&#39;s board of trustees](https://appleinsider.com/articles/25/06/18/jony-ive-appointed-to-british-museums-board-of-trustees?utm_medium=rss)
+ - [Silk &amp; Snow S&amp;S Organic Mattress Review: Soft as a Cloud](https://www.wired.com/review/silk-and-snow-organic-mattress/)
+ - [Authors Are Posting TikToks to Protest AI Use in Writing—and to Prove They Aren’t Doing It](https://www.wired.com/story/authors-are-posting-tiktoks-to-protest-ai-use-in-writing-and-to-prove-they-arent-doing-it/)
+ - [Garmin’s new sleep-tracking armband lasts a full week between charges](https://www.theverge.com/news/688438/garmin-index-sleep-monitor-smart-arm-band-tracker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

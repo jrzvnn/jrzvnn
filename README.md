@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wyze says its security cameras deserve your trust again](https://www.theverge.com/news/688864/wyze-launches-verifiedview-protections-security-camera-footage)
- - [VanMoof’s co-founders have a new e-bike coming from Raleigh](https://www.theverge.com/e-bikes/688967/vanmoof-raleigh-carlier-ties-taco-e-bike)
- - [The Midas Project and Tech Oversight Project release The OpenAI Files, a 50+ page analysis of OpenAI&#39;s governance, leadership, and organizational culture &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250618/p22#a250618p22)
- - [Leica is launching its own 35mm film](https://www.theverge.com/news/689006/leica-35mm-film-monopan-50)
- - [The ‘OpenAI Files’ will help you understand how Sam Altman&amp;#8217;s company works](https://www.theverge.com/openai/688783/the-openai-files-will-help-you-understand-how-sam-altmans-company-works)<!-- TECH:END -->
+ - [Temu entered into a US data storage deal with Oracle last week and offered few details, but says it is part of an effort to localize more of its US operations &lpar;Shen Lu/Wall Street Journal&rpar;](http://www.techmeme.com/250618/p25#a250618p25)
+ - [RFK Jr. is coming for your vaccines](https://www.theverge.com/health/688503/rfk-jr-vaccines)
+ - [Intel names new engineering leadership, appointing Srinivasan Iyengar, Jean-Didier Allegrucci, and Shailendra Desai, as part of CEO Lip-Bu Tan&#39;s turnaround &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250618/p24#a250618p24)
+ - [Even Klarna is launching a mobile phone service now](https://www.theverge.com/news/689123/klarna-mobile-phone-service-mvno-gigs)
+ - [Boston-based Maven, which builds autonomous AI agents for enterprises&#39; customer support, raised a $50M Series B led by Dell, taking its total funding to $78M &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250618/p23#a250618p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

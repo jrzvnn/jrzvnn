@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Is the Apple One subscription worth it in 2025?](https://appleinsider.com/inside/apple-one/tips/is-the-apple-one-subscription-worth-it-in-2025?utm_medium=rss)
+ - [Sources: Microsoft plans to announce thousands of job cuts, particularly in sales, early next month after the end of its fiscal year &lpar;Bloomberg&rpar;](http://www.techmeme.com/250618/p36#a250618p36)
+ - [Sources: Microsoft is prepared to walk away from high-stakes talks with OpenAI if they cannot agree on critical issues, such as the size of Microsoft&#39;s stake &lpar;Financial Times&rpar;](http://www.techmeme.com/250618/p35#a250618p35)
  - [Klarna launches a $40/month unlimited mobile plan in the US via a partnership with telecom services startup Gigs, following similar offerings by Revolut and N26 &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250618/p34#a250618p34)
- - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)
- - [Ancestra actually says a lot about the current state of AI-generated videos](https://www.theverge.com/ai-artificial-intelligence/688448/ancestra-primordial-soup-google-deepmind)
- - [The Minnesota Shooting Suspect&#39;s Background Suggests Deep Ties to Christian Nationalism](https://www.wired.com/story/christian-nationalist-roots-suspected-minnesota-assassin/)
- - [The DOJ announces the seizure of $225.3M in crypto linked to &quot;pig butchering&quot; scams, marking &quot;the largest cryptocurrency seizure in US Secret Service history&quot; &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250618/p33#a250618p33)<!-- TECH:END -->
+ - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo Switch 2: Which webcams work?](https://www.theverge.com/nintendo/682008/which-webcams-work-with-nintendo-switch-2)
+ - [The Best 2 Home Slushie Machines of 2025](https://www.wired.com/gallery/best-slushie-machines/)
+ - [Facebook rolls out passkey support to fight phishing attacks](https://www.theverge.com/news/689410/facebook-passkey-support-phishing-attacks)
  - [Google rolls out the ability to have back-and-forth voice conversations with AI Mode, available in the Google app by tapping the Live button &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250618/p30#a250618p30)
- - [Apple partner Texas Instruments is spending $60 B on chip production in the US](https://appleinsider.com/articles/25/06/18/apple-partner-texas-instruments-is-spending-60-b-on-chip-production-in-the-us?utm_medium=rss)
- - [Waymo applied for a NYC permit to test its cars with safety drivers and plans to start collecting mapping data with manually driven cars in Manhattan in July &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250618/p29#a250618p29)
- - [Apple opens registrations for in-person Apple Camp 2025](https://appleinsider.com/articles/25/06/18/apple-opens-registrations-for-in-person-apple-camp-2025?utm_medium=rss)
- - [Futureproof](https://www.theverge.com/ai-artificial-intelligence/688592/futureproof-artists-and-ai)<!-- TECH:END -->
+ - [Apple partner Texas Instruments is spending $60 B on chip production in the US](https://appleinsider.com/articles/25/06/18/apple-partner-texas-instruments-is-spending-60-b-on-chip-production-in-the-us?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

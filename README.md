@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The ‘OpenAI Files’ will help you understand how Sam Altman&amp;#8217;s company works](https://www.theverge.com/openai/688783/the-openai-files-will-help-you-understand-how-sam-altmans-company-works)
+ - [Nintendo shows off Donkey Kong Bananza&amp;#8217;s destructive gameplay](https://www.theverge.com/news/688196/donkey-kong-bananza-gameplay-trailer-switch-2)
+ - [Xreal One Pro review: the impressive new $649 AR glasses resemble normal spectacles at a distance and excel as a high-def external display for PCs and phones &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/250618/p21#a250618p21)
  - [4 Best Smart Glasses &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-smart-glasses/)
- - [At Cannes, YouTube CEO Neal Mohan says YouTube plans to integrate Google&#39;s most advanced AI video generation tool, Veo 3, into YouTube Shorts later this summer &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/250618/p20#a250618p20)
- - [London- and Paris-based Animaj, a kids&#39; media company that uses proprietary generative AI production tools to automate animation pipelines, raised $85M &lpar;Elsa Keslassy/Variety&rpar;](http://www.techmeme.com/250618/p19#a250618p19)
- - [9 Best Smart Shades, Blinds, and Curtains &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-smart-shades-blinds-curtains/)
- - [Apple Intelligence transcription is twice as fast as OpenAI&#39;s Whisper](https://appleinsider.com/articles/25/06/18/apple-intelligence-transcription-is-twice-as-fast-as-openais-whisper?utm_medium=rss)<!-- TECH:END -->
+ - [At Cannes, YouTube CEO Neal Mohan says YouTube plans to integrate Google&#39;s most advanced AI video generation tool, Veo 3, into YouTube Shorts later this summer &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/250618/p20#a250618p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

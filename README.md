@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The European Commission accuses Chinese marketplace AliExpress of failing to tackle illegal products on its platform, in preliminary findings under the DSA &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/250618/p10#a250618p10)
  - [A profile of LA-based Whatnot, a livestream marketplace valued at ~$5B, which has raised $700M+ since 2019 and expects its GMV to grow 100%+ YoY to $6B+ in 2025 &lpar;Jason Del Rey/Fortune&rpar;](http://www.techmeme.com/250618/p9#a250618p9)
  - [iOS 26 Will Radically Reshape the Look and Feel of Apple CarPlay. Learn All the New Free Features Coming Soon](https://www.cnet.com/tech/services-and-software/ios-26-will-radically-reshape-the-look-and-feel-of-apple-carplay-learn-all-the-new-free-features-coming-soon/#ftag=CAD590a51e)
  - [A look at embedded and immersion chip-cooling tech; industry sources indicate Nvidia is mulling 6,000W to 9,000W TDP for its next-gen GPUs, up from ~1,200W now &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250618/p7#a250618p7)
- - [JD.com founder Richard Liu calls the past five years the company&#39;s &quot;darkest period&quot; and vows to speed up overseas expansion and challenge Meituan in new areas &lpar;Bloomberg&rpar;](http://www.techmeme.com/250618/p6#a250618p6)
- - [Ten current and former Samsung semiconductor engineers say many are leaving for SK Hynix and other rivals due to long hours, heavy workloads, and lower bonuses &lpar;Michelle Kim/Rest of World&rpar;](http://www.techmeme.com/250618/p5#a250618p5)<!-- TECH:END -->
+ - [JD.com founder Richard Liu calls the past five years the company&#39;s &quot;darkest period&quot; and vows to speed up overseas expansion and challenge Meituan in new areas &lpar;Bloomberg&rpar;](http://www.techmeme.com/250618/p6#a250618p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

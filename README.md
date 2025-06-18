@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We got Leo dating a 27 year old before we got GTA VI](http://9gag.com/gag/aByOy91)
+ - 😝 [Understood.](http://9gag.com/gag/aE0OpQn)
  - 😝 [A waiter&#39;s surprising table side trick.](http://9gag.com/gag/a9yOEbD)
- - 💣 [I gotcha back](http://9gag.com/gag/aqyYj9v)
- - 😝 [What does it means?](http://9gag.com/gag/ajPWmZG)
- - 👉 [Women](http://9gag.com/gag/a9yOyb6)<!-- MEMES:END -->
+ - 💣 [Iranian president trying to fool the West](http://9gag.com/gag/a87KEmQ)
+ - 😝 [Asking the real questions here](http://9gag.com/gag/aRBOrWM)
+ - 👉 [Extinction of northern rhino ...](http://9gag.com/gag/aE0O8n9)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google rolls out the ability to have back-and-forth voice conversations with AI Mode, available in the Google app by tapping the Live button &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250618/p30#a250618p30)
+ - [Apple partner Texas Instruments is spending $60 B on chip production in the US](https://appleinsider.com/articles/25/06/18/apple-partner-texas-instruments-is-spending-60-b-on-chip-production-in-the-us?utm_medium=rss)
  - [Waymo applied for a NYC permit to test its cars with safety drivers and plans to start collecting mapping data with manually driven cars in Manhattan in July &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250618/p29#a250618p29)
  - [Apple opens registrations for in-person Apple Camp 2025](https://appleinsider.com/articles/25/06/18/apple-opens-registrations-for-in-person-apple-camp-2025?utm_medium=rss)
- - [Futureproof](https://www.theverge.com/ai-artificial-intelligence/688592/futureproof-artists-and-ai)
- - [NFC is getting a range boost](https://www.theverge.com/news/689281/nfc-15-update-tap-to-pay-range-boost)
- - [How The Roottrees are Dead ditched AI and became a hit](https://www.theverge.com/ai-artificial-intelligence/686651/roottrees-ai-original-illustrator-replacement)<!-- TECH:END -->
+ - [Futureproof](https://www.theverge.com/ai-artificial-intelligence/688592/futureproof-artists-and-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

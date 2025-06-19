@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sold!](http://9gag.com/gag/apRYRj9)
+ - 😝 [Proven Locks](http://9gag.com/gag/a87K79p)
  - 😝 [\ud83c\udf89 Meme of the Year Results Are In! Big thanks to everyone who voted in this year&#39;s Meme of the Year.](http://9gag.com/gag/aAyOQnL)
- - 💣 [Bring back bench seats for important reasons.](http://9gag.com/gag/aRBOEQq)
+ - 💣 [Women](http://9gag.com/gag/a9yOyb6)
  - 😝 [An incredible act of kindness leads to well-deserved recognition. Leading with heart.](http://9gag.com/gag/aGyOLM0)
- - 👉 [That jump did not go as planned](http://9gag.com/gag/azxY5Rm)<!-- MEMES:END -->
+ - 👉 [Genius move](http://9gag.com/gag/a4PW6z1)<!-- MEMES:END -->
 
 ---
 

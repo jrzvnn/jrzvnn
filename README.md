@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is a man who loves his family to the point of invention - brilliant](http://9gag.com/gag/ae97gBb)
- - 😝 [James was trying to warn us back then.](http://9gag.com/gag/aqyYyPL)
- - 💣 [`wE bUiLt ThIs CiTy`](http://9gag.com/gag/aD2O7AZ)
- - 😝 [Proven Locks](http://9gag.com/gag/a87K79p)
- - 👉 [It&#39;s a nice car](http://9gag.com/gag/ae979E5)<!-- MEMES:END -->
+ - 😝 [When you didn\u2019t get the Memo](http://9gag.com/gag/aGyOzGz)
+ - 😝 [The golden days](http://9gag.com/gag/aGyOE4n)
+ - 💣 [Extinction of northern rhino ...](http://9gag.com/gag/aE0O8n9)
+ - 😝 [Asking the real questions here](http://9gag.com/gag/aRBOrWM)
+ - 👉 [Proven Locks](http://9gag.com/gag/a87K79p)<!-- MEMES:END -->
 
 ---
 

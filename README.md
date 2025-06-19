@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He almost saw heaven.](http://9gag.com/gag/aXPKPAz)
+ - 😝 [The golden days](http://9gag.com/gag/aGyOE4n)
  - 😝 [\ud83c\udf89 Meme of the Year Results Are In! Big thanks to everyone who voted in this year&#39;s Meme of the Year.](http://9gag.com/gag/aAyOQnL)
- - 💣 [FAFO trucker edition](http://9gag.com/gag/a2vLwgO)
- - 😝 [Women](http://9gag.com/gag/a9yOyb6)
- - 👉 [This bartender&#39;s magic tricks are next level. The reactions are priceless](http://9gag.com/gag/aGyOEA5)<!-- MEMES:END -->
+ - 💣 [How to use a Aztec dead whistle in the modern age](http://9gag.com/gag/amopWD4)
+ - 😝 [He almost saw heaven.](http://9gag.com/gag/aXPKPAz)
+ - 👉 [Now f**k off and see you tomorrow](http://9gag.com/gag/ae97O5W)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is a man who loves his family to the point of invention - brilliant](http://9gag.com/gag/ae97gBb)
- - 😝 [James was trying to warn us back then.](http://9gag.com/gag/aqyYyPL)
- - 💣 [`wE bUiLt ThIs CiTy`](http://9gag.com/gag/aD2O7AZ)
- - 😝 [It&#39;s a nice car](http://9gag.com/gag/ae979E5)
- - 👉 [Proven Locks](http://9gag.com/gag/a87K79p)<!-- MEMES:END -->
+ - 😝 [CVS Worker](http://9gag.com/gag/a5QqQ4g)
+ - 😝 [Florence granting a last wish](http://9gag.com/gag/aZZznm6)
+ - 💣 [Bring back bench seats for important reasons.](http://9gag.com/gag/aRBOEQq)
+ - 😝 [When you didn\u2019t get the Memo](http://9gag.com/gag/aGyOzGz)
+ - 👉 [He almost saw heaven.](http://9gag.com/gag/aXPKPAz)<!-- MEMES:END -->
 
 ---
 

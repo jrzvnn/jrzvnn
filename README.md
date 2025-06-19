@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An incredible act of kindness leads to well-deserved recognition. Leading with heart.](http://9gag.com/gag/aGyOLM0)
+ - 😝 [In Japan drone is prohibited in urban area. Once you use it immediate arrest.](http://9gag.com/gag/agmE11W)
  - 😝 [\ud83c\udf89 Meme of the Year Results Are In! Big thanks to everyone who voted in this year&#39;s Meme of the Year.](http://9gag.com/gag/aAyOQnL)
- - 💣 [It is an older meme, but still checks out](http://9gag.com/gag/a6ZjZYN)
+ - 💣 [This bartender&#39;s magic tricks are next level. The reactions are priceless](http://9gag.com/gag/aGyOEA5)
  - 😝 [Is it ?](http://9gag.com/gag/awyYgBR)
- - 👉 [The golden days](http://9gag.com/gag/aGyOE4n)<!-- MEMES:END -->
+ - 👉 [Run, little boy, Run!](http://9gag.com/gag/a7opoWL)<!-- MEMES:END -->
 
 ---
 

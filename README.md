@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An incredible act of kindness leads to well-deserved recognition. Leading with heart.](http://9gag.com/gag/aGyOLM0)
+ - 😝 [Sold!](http://9gag.com/gag/apRYRj9)
  - 😝 [\ud83c\udf89 Meme of the Year Results Are In! Big thanks to everyone who voted in this year&#39;s Meme of the Year.](http://9gag.com/gag/aAyOQnL)
- - 💣 [The golden days](http://9gag.com/gag/aGyOE4n)
- - 😝 [Random](http://9gag.com/gag/awyYgo8)
+ - 💣 [Bring back bench seats for important reasons.](http://9gag.com/gag/aRBOEQq)
+ - 😝 [An incredible act of kindness leads to well-deserved recognition. Leading with heart.](http://9gag.com/gag/aGyOLM0)
  - 👉 [That jump did not go as planned](http://9gag.com/gag/azxY5Rm)<!-- MEMES:END -->
 
 ---

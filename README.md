@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sold!](http://9gag.com/gag/apRYRj9)
+ - 😝 [Mandatory kit when visiting London](http://9gag.com/gag/aAyOGQo)
  - 😝 [\ud83c\udf89 Meme of the Year Results Are In! Big thanks to everyone who voted in this year&#39;s Meme of the Year.](http://9gag.com/gag/aAyOQnL)
- - 💣 [Bring back bench seats for important reasons.](http://9gag.com/gag/aRBOEQq)
- - 😝 [Proven Locks](http://9gag.com/gag/a87K79p)
- - 👉 [He almost saw heaven.](http://9gag.com/gag/aXPKPAz)<!-- MEMES:END -->
+ - 💣 [Sold!](http://9gag.com/gag/apRYRj9)
+ - 😝 [God Damn](http://9gag.com/gag/aQzOXN7)
+ - 👉 [Women](http://9gag.com/gag/a9yOyb6)<!-- MEMES:END -->
 
 ---
 

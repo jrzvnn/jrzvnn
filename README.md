@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Is it ?](http://9gag.com/gag/awyYgBR)
- - 😝 [\ud83c\udf89 Meme of the Year Results Are In! Big thanks to everyone who voted in this year&#39;s Meme of the Year.](http://9gag.com/gag/aAyOQnL)
- - 💣 [Grass is all he needed](http://9gag.com/gag/an7rnqB)
- - 😝 [Little help](http://9gag.com/gag/aVvVg7P)
- - 👉 [Women](http://9gag.com/gag/a9yOyb6)<!-- MEMES:END -->
+ - 😝 [Grass is all he needed](http://9gag.com/gag/an7rnqB)
+ - 💣 [Little help](http://9gag.com/gag/aVvVg7P)
+ - 😝 [Women](http://9gag.com/gag/a9yOyb6)
+ - 👉 [Random](http://9gag.com/gag/awyYgo8)<!-- MEMES:END -->
 
 ---
 

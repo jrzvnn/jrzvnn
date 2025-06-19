@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s a nice car](http://9gag.com/gag/ae979E5)
+ - 😝 [The golden days](http://9gag.com/gag/aGyOE4n)
  - 😝 [\ud83c\udf89 Meme of the Year Results Are In! Big thanks to everyone who voted in this year&#39;s Meme of the Year.](http://9gag.com/gag/aAyOQnL)
- - 💣 [Satisfying](http://9gag.com/gag/ae974Vp)
+ - 💣 [Women](http://9gag.com/gag/a9yOyb6)
  - 😝 [He almost saw heaven.](http://9gag.com/gag/aXPKPAz)
- - 👉 [In Japan drone is prohibited in urban area. Once you use it immediate arrest.](http://9gag.com/gag/agmE11W)<!-- MEMES:END -->
+ - 👉 [Sold!](http://9gag.com/gag/apRYRj9)<!-- MEMES:END -->
 
 ---
 

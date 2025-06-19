@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gesichert R\u00e4\u00e4chts](http://9gag.com/gag/apRY3gB)
+ - 😝 [When you didn\u2019t get the Memo](http://9gag.com/gag/aGyOzGz)
  - 😝 [\ud83c\udf89 Meme of the Year Results Are In! Big thanks to everyone who voted in this year&#39;s Meme of the Year.](http://9gag.com/gag/aAyOQnL)
- - 💣 [Does anyone else think george martin is just lazy?](http://9gag.com/gag/aD2O7mw)
- - 😝 [This bartender&#39;s magic tricks are next level. The reactions are priceless](http://9gag.com/gag/aGyOEA5)
- - 👉 [Sold!](http://9gag.com/gag/apRYRj9)<!-- MEMES:END -->
+ - 💣 [The golden days](http://9gag.com/gag/aGyOE4n)
+ - 😝 [Random](http://9gag.com/gag/awyYgo8)
+ - 👉 [This bartender&#39;s magic tricks are next level. The reactions are priceless](http://9gag.com/gag/aGyOEA5)<!-- MEMES:END -->
 
 ---
 

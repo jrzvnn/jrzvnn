@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Decade-old &#39;Shot on iPhone&#39; ad campaign awarded at Cannes Lions](https://appleinsider.com/articles/25/06/19/decade-old-shot-on-iphone-ad-campaign-awarded-at-cannes-lions?utm_medium=rss)
+ - [Seattle Sounders vs. Atlético Madrid From Anywhere for Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/seattle-sounders-vs-atletico-madrid-from-anywhere-for-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)
+ - [Marvel&#39;s &#39;Ironheart&#39;: Release Date and How to Watch](https://www.cnet.com/tech/services-and-software/marvels-ironheart-release-date-and-how-to-watch/#ftag=CAD590a51e)
  - [SpaceX Starship explodes again, this time on the ground](https://www.theverge.com/news/689901/spacex-starship-explosion-static-fire-test)
- - [Best Internet Providers in Jacksonville, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-jacksonville-fl/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 19, #269](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-19-269/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 20, #474](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-20-474/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Jacksonville, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-jacksonville-fl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

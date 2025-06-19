@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you didn\u2019t get the Memo](http://9gag.com/gag/aGyOzGz)
- - 😝 [The golden days](http://9gag.com/gag/aGyOE4n)
- - 💣 [Extinction of northern rhino ...](http://9gag.com/gag/aE0O8n9)
- - 😝 [Asking the real questions here](http://9gag.com/gag/aRBOrWM)
+ - 😝 [Biker stops female hit n runner](http://9gag.com/gag/ae974jW)
+ - 😝 [Mandatory kit when visiting London](http://9gag.com/gag/aAyOGQo)
+ - 💣 [The golden days](http://9gag.com/gag/aGyOE4n)
+ - 😝 [Extinction of northern rhino ...](http://9gag.com/gag/aE0O8n9)
  - 👉 [Proven Locks](http://9gag.com/gag/a87K79p)<!-- MEMES:END -->
 
 ---

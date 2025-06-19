@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Study: US kids who said their social media, phone, or video game use was &quot;addictive&quot; were 2x-3x more likely to have thoughts of suicide or self-harm by age 14 &lpar;Ellen Barry/New York Times&rpar;](http://www.techmeme.com/250619/p8#a250619p8)
+ - [Q&amp;A with Hugging Face Chief Ethics Scientist Margaret Mitchell on aligning AI development with human needs, the &quot;illusion of consensus&quot; around AGI, and more &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250619/p7#a250619p7)
+ - [SpaceX Starship explodes again, this time on the ground](https://www.theverge.com/news/689901/spacex-starship-explosion-static-fire-test)
  - [SoftBank-backed Spotter, which fronts cash to YouTubers for a cut of revenue, is facing significant challenges due to YouTube&#39;s shift toward Shorts, and more &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/250619/p6#a250619p6)
- - [Report: Google&#39;s move from Samsung to TSMC for the Tensor G5 chip in the upcoming Pixel 10 series was a &quot;shock&quot; and a wake-up call for Samsung&#39;s foundry efforts &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250619/p5#a250619p5)
- - [White House crypto and AI czar David Sacks says China has grown adept at evading US export controls and is at most two years behind US chip design capabilities &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/250619/p4#a250619p4)
- - [Design Within Reach Promo Codes: 30% Off | June 2025](https://www.wired.com/story/design-within-reach-promo-code/)
- - [Scale AI emphasizes that it remains an independent company and says Meta will not have access to Scale&#39;s internal systems or customers&#39; confidential information &lpar;Scale AI&rpar;](http://www.techmeme.com/250619/p3#a250619p3)<!-- TECH:END -->
+ - [Report: Google&#39;s move from Samsung to TSMC for the Tensor G5 chip in the upcoming Pixel 10 series was a &quot;shock&quot; and a wake-up call for Samsung&#39;s foundry efforts &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250619/p5#a250619p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

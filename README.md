@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fleet, which offers open-source device management tools for OSes, various networks, VPNs, and more, raised a $27M Series B led by Ten Eleven Ventures &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250619/p22#a250619p22)
- - [Punch-hole camera, under-screen Face ID still expected with iPhone 18 Pro](https://appleinsider.com/articles/25/06/19/punch-hole-camera-under-screen-face-id-still-expected-with-iphone-18-pro?utm_medium=rss)
- - [Luxembourg-based Tadaweb, an open-source intelligence platform, raised $20M led by Arsenal Growth and ForgePoint, taking its total funding to $40M &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250619/p21#a250619p21)
- - [Q&amp;A with Pavel Durov on his arrest in France, Macron, Russia, the FBI, the fight for Telegram, leaving his wealth to the 100+ children he fathered, and more &lpar;Guillaume Grallet/Le Point&rpar;](http://www.techmeme.com/250619/p20#a250619p20)
- - [7 Ways to Limit Your Endless Doomscrolling](https://www.wired.com/story/7-ways-to-limit-your-endless-doomscrolling/)<!-- TECH:END -->
+ - [The 6 Best OLED TVs &lpar;2025&rpar;](https://www.wired.com/gallery/best-oleds/)
+ - [Five ways macOS Tahoe makes you radically more productive](https://appleinsider.com/articles/25/06/13/five-ways-macos-tahoe-makes-you-radically-more-productive?utm_medium=rss)
+ - [Why iPhone mirroring and Mac Live Activities aren&#39;t coming to the EU](https://appleinsider.com/articles/25/06/19/why-iphone-mirroring-and-mac-live-activities-arent-coming-to-the-eu?utm_medium=rss)
+ - [I Tried Hear.com&#39;s At-Home Prescription Hearing Aids Test](https://www.wired.com/story/hear-com-at-home-hearing-test/)
+ - [Summer Game Fest’s best games were small and personal](https://www.theverge.com/games/689708/summer-game-fests-best-games-were-small-and-personal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

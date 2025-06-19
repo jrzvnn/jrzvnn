@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla&#39;s robotaxi service will launch in Austin with just ~10 cars that are geofenced to avoid complex intersections and monitored by backup teleoperators &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/250619/p32#a250619p32)
  - [Spotify&amp;#8217;s HiFi lossless streaming might really, finally, actually be coming soon](https://www.theverge.com/news/690107/spotify-lossless-streaming-hifi-music-pro-spicetify)
  - [Files iPadOS 26 vs iPadOS 18: Refinements &amp; speed improvements make Files actually usable](https://appleinsider.com/inside/ipados-26/vs/files-ipados-26-vs-ipados-18-refinements-speed-improvements-make-files-actually-usable?utm_medium=rss)
  - [FireWire may finally be dead in macOS 26 &amp; Apple isn&#39;t looking back](https://appleinsider.com/articles/25/06/19/firewire-may-finally-be-dead-in-macos-26-apple-isnt-looking-back?utm_medium=rss)
- - [Eufy&amp;#8217;s X10 Pro Omni mopping robovac has returned to its best price to date](https://www.theverge.com/tech/689275/eufy-x10-pro-omni-mopping-robot-vacuum-deal-sale)
- - [The Irish Data Protection Commission says Meta told it that WhatsApp ads &quot;won&#39;t be launching&quot; in the EU &quot;until 2026&quot;; WhatsApp says ads are coming &quot;gradually&quot; &lpar;Ellen O&#39;Regan/Politico&rpar;](http://www.techmeme.com/250619/p31#a250619p31)<!-- TECH:END -->
+ - [Eufy&amp;#8217;s X10 Pro Omni mopping robovac has returned to its best price to date](https://www.theverge.com/tech/689275/eufy-x10-pro-omni-mopping-robot-vacuum-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

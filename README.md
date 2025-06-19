@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DOJ files to seize $225 million in crypto from scammers](https://www.theverge.com/news/689956/doj-tether-cryptocurrency-investment-pig-butchering-scam-seizure)
+ - [Eero’s speedy Pro 6E mesh system is on sale with a gift card for $200 off](https://www.theverge.com/tech/689687/eero-6e-router-system-anker-six-port-desktop-charger-deal-sale)
+ - [Andrej Karpathy&#39;s talk on &quot;Software 3.0&quot;, with LLMs enabling programming via natural language, the decade of agents, LLMs as &quot;fallible people spirits&quot;, and more &lpar;Andrej Karpathy/Y Combinator on YouTube&rpar;](http://www.techmeme.com/250619/p25#a250619p25)
  - [Apple&#39;s chip chief says he wants AI chip design, but he already has it](https://appleinsider.com/articles/25/06/19/apples-chip-chief-says-he-wants-ai-chip-design-but-he-already-has-it?utm_medium=rss)
- - [A look at Scale AI rival Surge AI, which raised no outside capital, told staff it had $1B+ in 2024 revenue, vs. Scale&#39;s $870M, and has always been profitable &lpar;The Information&rpar;](http://www.techmeme.com/250619/p24#a250619p24)
- - [Omega-3s: Benefits, Drawbacks and Foods to Add to Your Diet](https://www.cnet.com/health/nutrition/omega-3s-benefits-drawbacks-foods-add-diet/#ftag=CAD590a51e)
- - [Latest App Store crypto lawsuit tries to blame Apple for bad user decisions](https://appleinsider.com/articles/25/06/19/latest-app-store-crypto-lawsuit-tries-to-blame-apple-for-bad-user-decisions?utm_medium=rss)
- - [I Was Shocked to Learn These 10 Foods Aren&#39;t Vegetarian](https://www.cnet.com/news/i-was-shocked-to-learn-these-10-foods-arent-vegetarian/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Scale AI rival Surge AI, which raised no outside capital, told staff it had $1B+ in 2024 revenue, vs. Scale&#39;s $870M, and has always been profitable &lpar;The Information&rpar;](http://www.techmeme.com/250619/p24#a250619p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

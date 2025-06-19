@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [FAFO trucker edition](http://9gag.com/gag/a2vLwgO)
+ - 😝 [Is it ?](http://9gag.com/gag/awyYgBR)
  - 😝 [\ud83c\udf89 Meme of the Year Results Are In! Big thanks to everyone who voted in this year&#39;s Meme of the Year.](http://9gag.com/gag/aAyOQnL)
- - 💣 [He almost saw heaven.](http://9gag.com/gag/aXPKPAz)
- - 😝 [Sold!](http://9gag.com/gag/apRYRj9)
- - 👉 [In Japan drone is prohibited in urban area. Once you use it immediate arrest.](http://9gag.com/gag/agmE11W)<!-- MEMES:END -->
+ - 💣 [Grass is all he needed](http://9gag.com/gag/an7rnqB)
+ - 😝 [Little help](http://9gag.com/gag/aVvVg7P)
+ - 👉 [Women](http://9gag.com/gag/a9yOyb6)<!-- MEMES:END -->
 
 ---
 

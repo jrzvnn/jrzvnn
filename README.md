@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s chip chief says he wants AI chip design, but he already has it](https://appleinsider.com/articles/25/06/19/apples-chip-chief-says-he-wants-ai-chip-design-but-he-already-has-it?utm_medium=rss)
+ - [Commure, which provides ambient AI, revenue cycle management, and workflow automation tools for healthcare providers, raised $200M from General Catalyst &lpar;Erin Brodwin/Axios&rpar;](http://www.techmeme.com/250619/p23#a250619p23)
  - [&#39;F1&#39; immersive video takes you around the track with Brad Pitt on Apple Vision Pro](https://appleinsider.com/articles/25/06/19/f1-immersive-video-takes-you-around-the-track-with-brad-pitt-on-apple-vision-pro?utm_medium=rss)
  - [FBC: Firebreak is missing Control’s weird charm](https://www.theverge.com/games-review/689333/fbc-firebreak-review-xbox-ps5-steam)
- - [Here are the price-matching policies for Best Buy, GameStop, and others](https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft)
- - [Apple&#39;s chip chief says he wants AI chip design, but he already has it](https://appleinsider.com/articles/25/06/19/apples-chip-chief-says-he-wants-ai-chip-design-but-he-already-has-it?utm_medium=rss)
- - [Steam is adding screen reader support and other accessibility tools](https://www.theverge.com/games/689922/steam-is-adding-screen-reader-support-and-other-accessibility-tools)<!-- TECH:END -->
+ - [Here are the price-matching policies for Best Buy, GameStop, and others](https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Here are the price-matching policies for Best Buy, GameStop, and others](https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft)
  - [Apple&#39;s chip chief says he wants AI chip design, but he already has it](https://appleinsider.com/articles/25/06/19/apples-chip-chief-says-he-wants-ai-chip-design-but-he-already-has-it?utm_medium=rss)
  - [Steam is adding screen reader support and other accessibility tools](https://www.theverge.com/games/689922/steam-is-adding-screen-reader-support-and-other-accessibility-tools)
- - [AI residencies are trying to change the conversation around artificial art](https://www.theverge.com/ai-artificial-intelligence/689693/ai-art-residencies-get-artists-using-generative-tech)
- - [The 6 Best OLED TVs &lpar;2025&rpar;](https://www.wired.com/gallery/best-oleds/)<!-- TECH:END -->
+ - [The New Titan Submersible Doc Hits Netflix&#39;s Top 10, but There&#39;s Another Titan Doc You Should See](https://www.cnet.com/tech/services-and-software/the-new-titan-submersible-doc-hits-netflixs-top-10-but-theres-another-titan-doc-you-should-see/#ftag=CAD590a51e)
+ - [I Tried the Future of Smart Glasses at WWDC. They Weren&#39;t Made by Apple](https://www.cnet.com/tech/computing/i-tried-the-future-of-smart-glasses-at-wwdc-they-werent-made-by-apple/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

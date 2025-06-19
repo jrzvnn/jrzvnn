@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SpaceX Starship explodes again, this time on the ground](https://www.theverge.com/news/689901/spacex-starship-explosion-static-fire-test)
  - [Adobe launches a new ‘computational photography’ camera app for iPhones](https://www.theverge.com/news/690115/adobe-project-indigo-camera-app-marc-levoy)
  - [Miami-based Pelico, which offers a supply chain orchestration platform, raised a $40M Series B led by General Catalyst, bringing its total funding to $72M &lpar;Colin Campbell/Axios&rpar;](http://www.techmeme.com/250619/p33#a250619p33)
  - [iPhone &#39;Flip&#39;: The Apple Foldable Is Still Rumored To Come in 2026](https://www.cnet.com/tech/mobile/the-changes-are-subtle-but-could-fundamentally-change-the-way-a-lot-of-small-businesses-operate-moving-forward/#ftag=CAD590a51e)
- - [What&#39;s Free on the Epic Games Store This Week?](https://www.cnet.com/tech/gaming/list-of-free-games-on-the-epic-games-store-this-week/#ftag=CAD590a51e)
- - [Tesla&#39;s robotaxi service will launch in Austin with just ~10 cars that are geofenced to avoid complex intersections and monitored by backup teleoperators &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/250619/p32#a250619p32)<!-- TECH:END -->
+ - [What&#39;s Free on the Epic Games Store This Week?](https://www.cnet.com/tech/gaming/list-of-free-games-on-the-epic-games-store-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

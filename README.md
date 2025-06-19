@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Luxembourg-based Tadaweb, an open-source intelligence platform, raised $20M led by Arsenal Growth and ForgePoint, taking its total funding to $40M &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250619/p21#a250619p21)
  - [Q&amp;A with Pavel Durov on his arrest in France, Macron, Russia, the FBI, the fight for Telegram, leaving his wealth to the 100+ children he fathered, and more &lpar;Guillaume Grallet/Le Point&rpar;](http://www.techmeme.com/250619/p20#a250619p20)
- - [7 Ways to Limit Your Endless Doomscrolling](https://www.wired.com/story/7-ways-to-limit-your-endless-doomscrolling/)
- - [How Democrats Are Meeting &lpar;and Missing&rpar; the Moment](https://www.wired.com/story/democrats-meeting-missing-the-moment/)
- - [Source: OpenAI is changing ChatGPT Enterprise&#39;s pricing structure to include a credits system, moving from a fixed price, to give companies more leeway &lpar;Kimberley Kao/Wall Street Journal&rpar;](http://www.techmeme.com/250619/p19#a250619p19)
- - [A new study of 14 open-source LLMs: larger models use exponentially more energy and produce more greenhouse gas emissions, but do not always give better answers &lpar;Sachi Kitajima Mulkey/New York Times&rpar;](http://www.techmeme.com/250619/p18#a250619p18)<!-- TECH:END -->
+ - [&#39;Murderbot&#39;: When to Stream Episode 7 of Apple&#39;s Sci-Fi Comedy](https://www.cnet.com/tech/services-and-software/murderbot-how-to-stream-episode-7-of-apples-sci-fi-comedy-thriller/#ftag=CAD590a51e)
+ - [Xbox Is Bringing These Call of Duty and Warcraft Games to Game Pass in June](https://www.cnet.com/tech/services-and-software/xbox-is-bringing-these-call-of-duty-and-warcraft-games-to-game-pass-in-june/#ftag=CAD590a51e)
+ - [7 Ways to Limit Your Endless Doomscrolling](https://www.wired.com/story/7-ways-to-limit-your-endless-doomscrolling/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Irish Data Protection Commission says Meta told it that WhatsApp ads &quot;won&#39;t be launching&quot; in the EU &quot;until 2026&quot;; WhatsApp says ads are coming &quot;gradually&quot; &lpar;Ellen O&#39;Regan/Politico&rpar;](http://www.techmeme.com/250619/p31#a250619p31)
  - [Elden Ring Nightreign is getting even harder bosses](https://www.theverge.com/news/690093/elden-ring-nightreign-everdark-sovereign-bosses)
  - [Trump extends the TikTok ban deadline for a third time; there is no legal basis for the extensions and it is unclear how many times the deadline can be extended &lpar;Barbara Ortutay/Associated Press&rpar;](http://www.techmeme.com/250619/p30#a250619p30)
  - [Apple won&#39;t be fined right away if it misses EU anti-steering compliance deadline](https://appleinsider.com/articles/25/06/19/apple-wont-be-fined-right-away-if-it-misses-eu-anti-steering-compliance-deadline?utm_medium=rss)
- - [European satellite company Eutelsat raised €1.35B, including €717M from France, to build out its fleet of satellites to rival Starlink; France&#39;s stake is ~30% &lpar;Bloomberg&rpar;](http://www.techmeme.com/250619/p29#a250619p29)
- - [Midjourney launches an AI video generator](https://www.theverge.com/news/690055/midjourney-ai-video-generator-launch)<!-- TECH:END -->
+ - [European satellite company Eutelsat raised €1.35B, including €717M from France, to build out its fleet of satellites to rival Starlink; France&#39;s stake is ~30% &lpar;Bloomberg&rpar;](http://www.techmeme.com/250619/p29#a250619p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

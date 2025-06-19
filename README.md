@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sold!](http://9gag.com/gag/apRYRj9)
- - 😝 [FAFO&#39;s Vitaly Progress Update](http://9gag.com/gag/a7opoZe)
- - 💣 [Proven Locks](http://9gag.com/gag/a87K79p)
- - 😝 [Women](http://9gag.com/gag/a9yOyb6)
- - 👉 [When you didn\u2019t get the Memo](http://9gag.com/gag/aGyOzGz)<!-- MEMES:END -->
+ - 😝 [Random](http://9gag.com/gag/awyYgo8)
+ - 😝 [\ud83c\udf89 Meme of the Year Results Are In! Big thanks to everyone who voted in this year&#39;s Meme of the Year.](http://9gag.com/gag/aAyOQnL)
+ - 💣 [Extinction of northern rhino ...](http://9gag.com/gag/aE0O8n9)
+ - 😝 [Proven Locks](http://9gag.com/gag/a87K79p)
+ - 👉 [Women](http://9gag.com/gag/a9yOyb6)<!-- MEMES:END -->
 
 ---
 

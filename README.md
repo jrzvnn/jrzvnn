@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Iran&#39;s largest crypto exchange Nobitex says it was hacked, and pro-Israel group Predatory Sparrow claims responsibility; Elliptic: $90M+ was stolen and &quot;burned&quot; &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/250618/p43#a250618p43)
+ - [Meta is adding support for passkeys on Facebook&#39;s iOS and Android apps &quot;soon&quot;, and will begin rolling out passkeys to Messenger &quot;in the coming months&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250618/p42#a250618p42)
  - [Wix acquires Base44, which lets users build apps from text prompts, for $80M; Base44 was founded by a solo entrepreneur six months ago and employs six people &lpar;Sophie Shulman/CTech&rpar;](http://www.techmeme.com/250618/p41#a250618p41)
  - [I&#39;m Talking Back to Google&#39;s New Search Live Mode for AI Convos About Big Events](https://www.cnet.com/tech/mobile/im-talking-back-to-googles-new-search-live-mode-for-ai-convos-about-big-events/#ftag=CAD590a51e)
- - [The US State Department restarts student visa interviews and requires all applicants to make their social media accounts public for vetting by US embassies &lpar;Washington Post&rpar;](http://www.techmeme.com/250618/p40#a250618p40)
- - [16 billion logins discovered across exposed datasets, but don&#39;t panic](https://appleinsider.com/articles/25/06/18/16-billion-logins-discovered-across-exposed-datasets-but-dont-panic?utm_medium=rss)
- - [Al Ain vs. Juventus From Anywhere for Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/al-ain-vs-juventus-from-anywhere-for-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US State Department restarts student visa interviews and requires all applicants to make their social media accounts public for vetting by US embassies &lpar;Washington Post&rpar;](http://www.techmeme.com/250618/p40#a250618p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

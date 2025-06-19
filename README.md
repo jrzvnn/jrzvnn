@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elden Ring Nightreign is getting even harder bosses](https://www.theverge.com/news/690093/elden-ring-nightreign-everdark-sovereign-bosses)
  - [Trump extends the TikTok ban deadline for a third time; there is no legal basis for the extensions and it is unclear how many times the deadline can be extended &lpar;Barbara Ortutay/Associated Press&rpar;](http://www.techmeme.com/250619/p30#a250619p30)
  - [Apple won&#39;t be fined right away if it misses EU anti-steering compliance deadline](https://appleinsider.com/articles/25/06/19/apple-wont-be-fined-right-away-if-it-misses-eu-anti-steering-compliance-deadline?utm_medium=rss)
  - [European satellite company Eutelsat raised €1.35B, including €717M from France, to build out its fleet of satellites to rival Starlink; France&#39;s stake is ~30% &lpar;Bloomberg&rpar;](http://www.techmeme.com/250619/p29#a250619p29)
- - [Midjourney launches an AI video generator](https://www.theverge.com/news/690055/midjourney-ai-video-generator-launch)
- - [The EU says Apple and Meta will not face sanctions immediately after their 60 day DMA grace period ends on June 26, following €500M and €200M fines in April &lpar;Peggy Corlin/Euronews&rpar;](http://www.techmeme.com/250619/p28#a250619p28)<!-- TECH:END -->
+ - [Midjourney launches an AI video generator](https://www.theverge.com/news/690055/midjourney-ai-video-generator-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

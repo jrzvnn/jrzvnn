@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MIT researchers unveil Self-Adapting LLMs, a framework that enables LLMs to keep improving by generating their own training data based on the input received &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250619/p10#a250619p10)
  - [Hot Octopuss Pulse Duo Review: Not for Penetration](https://www.wired.com/review/hot-octopuss-pulse-duo/)
  - [Anker Recalls 1.1 Million Power Banks for Fires and Explosions: What to Do if You&#39;re Affected](https://www.cnet.com/tech/mobile/anker-recalls-1-1-million-power-banks-for-fires-and-explosions-what-to-do-if-youre-affected/#ftag=CAD590a51e)
  - [A look at the lack of consensus in the tech industry on what AGI is, whether LLMs are the best path to it, and what AGI might look like if or when it arrives &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250619/p9#a250619p9)
- - [Study: US kids who said their social media, phone, or video game use was &quot;addictive&quot; were 2x-3x more likely to have thoughts of suicide or self-harm by age 14 &lpar;Ellen Barry/New York Times&rpar;](http://www.techmeme.com/250619/p8#a250619p8)
- - [Q&amp;A with Hugging Face Chief Ethics Scientist Margaret Mitchell on aligning AI development with human needs, the &quot;illusion of consensus&quot; around AGI, and more &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250619/p7#a250619p7)<!-- TECH:END -->
+ - [Study: US kids who said their social media, phone, or video game use was &quot;addictive&quot; were 2x-3x more likely to have thoughts of suicide or self-harm by age 14 &lpar;Ellen Barry/New York Times&rpar;](http://www.techmeme.com/250619/p8#a250619p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

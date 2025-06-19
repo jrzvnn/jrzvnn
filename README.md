@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to delete an Instagram account in iOS 26](https://appleinsider.com/inside/iphone/tips/how-to-delete-an-instagram-account-in-ios-16?utm_medium=rss)
  - [OpenAI warns that its upcoming models could pose a higher risk of enabling the creation of biological weapons and says it is stepping up testing of such models &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250618/p45#a250618p45)
  - [Multiplier, which acquires accounting services firms and scales them with AI, raised $27.5M across a seed and Series A, with the latter led by Lightspeed &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250618/p44#a250618p44)
  - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Iran&#39;s largest crypto exchange Nobitex says it was hacked, and pro-Israel group Predatory Sparrow claims responsibility; Elliptic: $90M+ was stolen and &quot;burned&quot; &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/250618/p43#a250618p43)
- - [Meta is adding support for passkeys on Facebook&#39;s iOS and Android apps &quot;soon&quot;, and will begin rolling out passkeys to Messenger &quot;in the coming months&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250618/p42#a250618p42)<!-- TECH:END -->
+ - [Iran&#39;s largest crypto exchange Nobitex says it was hacked, and pro-Israel group Predatory Sparrow claims responsibility; Elliptic: $90M+ was stolen and &quot;burned&quot; &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/250618/p43#a250618p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

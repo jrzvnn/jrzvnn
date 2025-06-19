@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is the final form of success.](http://9gag.com/gag/azxY29m)
+ - 😝 [The golden days](http://9gag.com/gag/aGyOE4n)
  - 😝 [\ud83c\udf89 Meme of the Year Results Are In! Big thanks to everyone who voted in this year&#39;s Meme of the Year.](http://9gag.com/gag/aAyOQnL)
- - 💣 [In Japan drone is prohibited in urban area. Once you use it immediate arrest.](http://9gag.com/gag/agmE11W)
+ - 💣 [Genius move](http://9gag.com/gag/a4PW6z1)
  - 😝 [He almost saw heaven.](http://9gag.com/gag/aXPKPAz)
- - 👉 [The golden days](http://9gag.com/gag/aGyOE4n)<!-- MEMES:END -->
+ - 👉 [This bartender&#39;s magic tricks are next level. The reactions are priceless](http://9gag.com/gag/aGyOEA5)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is it ?](http://9gag.com/gag/awyYgBR)
- - 😝 [Grass is all he needed](http://9gag.com/gag/an7rnqB)
- - 💣 [Little help](http://9gag.com/gag/aVvVg7P)
- - 😝 [Women](http://9gag.com/gag/a9yOyb6)
- - 👉 [Random](http://9gag.com/gag/awyYgo8)<!-- MEMES:END -->
+ - 😝 [I guess he was cut off.](http://9gag.com/gag/aYQAEGq)
+ - 😝 [Let&#39;s see if the empowered feminist want to take this job](http://9gag.com/gag/a6ZjZr8)
+ - 💣 [Random](http://9gag.com/gag/awyYgo8)
+ - 😝 [Little help](http://9gag.com/gag/aVvVg7P)
+ - 👉 [That jump did not go as planned](http://9gag.com/gag/azxY5Rm)<!-- MEMES:END -->
 
 ---
 

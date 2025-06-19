@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [SpaceX Starship explodes again, this time on the ground](https://www.theverge.com/news/689901/spacex-starship-explosion-static-fire-test)
- - [Adobe launches a new ‘computational photography’ camera app for iPhones](https://www.theverge.com/news/690115/adobe-project-indigo-camera-app-marc-levoy)
- - [Miami-based Pelico, which offers a supply chain orchestration platform, raised a $40M Series B led by General Catalyst, bringing its total funding to $72M &lpar;Colin Campbell/Axios&rpar;](http://www.techmeme.com/250619/p33#a250619p33)
- - [iPhone &#39;Flip&#39;: The Apple Foldable Is Still Rumored To Come in 2026](https://www.cnet.com/tech/mobile/the-changes-are-subtle-but-could-fundamentally-change-the-way-a-lot-of-small-businesses-operate-moving-forward/#ftag=CAD590a51e)
- - [What&#39;s Free on the Epic Games Store This Week?](https://www.cnet.com/tech/gaming/list-of-free-games-on-the-epic-games-store-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Jacksonville, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-jacksonville-fl/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 19, #269](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-19-269/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 20, #474](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-20-474/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for June 20, #1462](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-20-1462/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

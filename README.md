@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Adobe launches a new ‘computational photography’ camera app for iPhones](https://www.theverge.com/news/690115/adobe-project-indigo-camera-app-marc-levoy)
  - [Miami-based Pelico, which offers a supply chain orchestration platform, raised a $40M Series B led by General Catalyst, bringing its total funding to $72M &lpar;Colin Campbell/Axios&rpar;](http://www.techmeme.com/250619/p33#a250619p33)
- - [Tesla&#39;s robotaxi service will launch in Austin with just ~10 cars that are geofenced to avoid complex intersections and monitored by backup teleoperators &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/250619/p32#a250619p32)
- - [Spotify&amp;#8217;s HiFi lossless streaming might really, finally, actually be coming soon](https://www.theverge.com/news/690107/spotify-lossless-streaming-hifi-music-pro-spicetify)
- - [Files iPadOS 26 vs iPadOS 18: Refinements &amp; speed improvements make Files actually usable](https://appleinsider.com/inside/ipados-26/vs/files-ipados-26-vs-ipados-18-refinements-speed-improvements-make-files-actually-usable?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone &#39;Flip&#39;: The Apple Foldable Is Still Rumored To Come in 2026](https://www.cnet.com/tech/mobile/the-changes-are-subtle-but-could-fundamentally-change-the-way-a-lot-of-small-businesses-operate-moving-forward/#ftag=CAD590a51e)
+ - [What&#39;s Free on the Epic Games Store This Week?](https://www.cnet.com/tech/gaming/list-of-free-games-on-the-epic-games-store-this-week/#ftag=CAD590a51e)
+ - [Tesla&#39;s robotaxi service will launch in Austin with just ~10 cars that are geofenced to avoid complex intersections and monitored by backup teleoperators &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/250619/p32#a250619p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

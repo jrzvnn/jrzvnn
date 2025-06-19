@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe launches a new ‘computational photography’ camera app for iPhones](https://www.theverge.com/news/690115/adobe-project-indigo-camera-app-marc-levoy)
+ - [Miami-based Pelico, which offers a supply chain orchestration platform, raised a $40M Series B led by General Catalyst, bringing its total funding to $72M &lpar;Colin Campbell/Axios&rpar;](http://www.techmeme.com/250619/p33#a250619p33)
  - [Tesla&#39;s robotaxi service will launch in Austin with just ~10 cars that are geofenced to avoid complex intersections and monitored by backup teleoperators &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/250619/p32#a250619p32)
  - [Spotify&amp;#8217;s HiFi lossless streaming might really, finally, actually be coming soon](https://www.theverge.com/news/690107/spotify-lossless-streaming-hifi-music-pro-spicetify)
- - [Files iPadOS 26 vs iPadOS 18: Refinements &amp; speed improvements make Files actually usable](https://appleinsider.com/inside/ipados-26/vs/files-ipados-26-vs-ipados-18-refinements-speed-improvements-make-files-actually-usable?utm_medium=rss)
- - [FireWire may finally be dead in macOS 26 &amp; Apple isn&#39;t looking back](https://appleinsider.com/articles/25/06/19/firewire-may-finally-be-dead-in-macos-26-apple-isnt-looking-back?utm_medium=rss)
- - [TikTok&#39;s Clock Keeps Running: Trump Extends Sale Deadline Again](https://www.cnet.com/tech/services-and-software/trump-gives-tiktok-another-75-days-to-strike-a-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Files iPadOS 26 vs iPadOS 18: Refinements &amp; speed improvements make Files actually usable](https://appleinsider.com/inside/ipados-26/vs/files-ipados-26-vs-ipados-18-refinements-speed-improvements-make-files-actually-usable?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

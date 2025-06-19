@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In Japan drone is prohibited in urban area. Once you use it immediate arrest.](http://9gag.com/gag/agmE11W)
+ - 😝 [He almost saw heaven.](http://9gag.com/gag/aXPKPAz)
  - 😝 [\ud83c\udf89 Meme of the Year Results Are In! Big thanks to everyone who voted in this year&#39;s Meme of the Year.](http://9gag.com/gag/aAyOQnL)
- - 💣 [Appearances are deceptive](http://9gag.com/gag/aO8ReyR)
- - 😝 [Twerk mods where?](http://9gag.com/gag/a9yO6OL)
- - 👉 [Grass is all he needed](http://9gag.com/gag/an7rnqB)<!-- MEMES:END -->
+ - 💣 [FAFO trucker edition](http://9gag.com/gag/a2vLwgO)
+ - 😝 [Women](http://9gag.com/gag/a9yOyb6)
+ - 👉 [This bartender&#39;s magic tricks are next level. The reactions are priceless](http://9gag.com/gag/aGyOEA5)<!-- MEMES:END -->
 
 ---
 

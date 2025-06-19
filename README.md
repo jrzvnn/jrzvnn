@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you didn\u2019t get the Memo](http://9gag.com/gag/aGyOzGz)
- - 😝 [\ud83c\udf89 Meme of the Year Results Are In! Big thanks to everyone who voted in this year&#39;s Meme of the Year.](http://9gag.com/gag/aAyOQnL)
- - 💣 [This bartender&#39;s magic tricks are next level. The reactions are priceless](http://9gag.com/gag/aGyOEA5)
  - 😝 [The golden days](http://9gag.com/gag/aGyOE4n)
- - 👉 [Is it ?](http://9gag.com/gag/awyYgBR)<!-- MEMES:END -->
+ - 😝 [\ud83c\udf89 Meme of the Year Results Are In! Big thanks to everyone who voted in this year&#39;s Meme of the Year.](http://9gag.com/gag/aAyOQnL)
+ - 💣 [Bring back bench seats for important reasons.](http://9gag.com/gag/aRBOEQq)
+ - 😝 [It is an older meme, but still checks out](http://9gag.com/gag/a6ZjZYN)
+ - 👉 [This bartender&#39;s magic tricks are next level. The reactions are priceless](http://9gag.com/gag/aGyOEA5)<!-- MEMES:END -->
 
 ---
 

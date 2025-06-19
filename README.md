@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Steam is adding screen reader support and other accessibility tools](https://www.theverge.com/games/689922/steam-is-adding-screen-reader-support-and-other-accessibility-tools)
+ - [AI residencies are trying to change the conversation around artificial art](https://www.theverge.com/ai-artificial-intelligence/689693/ai-art-residencies-get-artists-using-generative-tech)
  - [The 6 Best OLED TVs &lpar;2025&rpar;](https://www.wired.com/gallery/best-oleds/)
  - [Five ways macOS Tahoe makes you radically more productive](https://appleinsider.com/articles/25/06/13/five-ways-macos-tahoe-makes-you-radically-more-productive?utm_medium=rss)
- - [Why iPhone mirroring and Mac Live Activities aren&#39;t coming to the EU](https://appleinsider.com/articles/25/06/19/why-iphone-mirroring-and-mac-live-activities-arent-coming-to-the-eu?utm_medium=rss)
- - [I Tried Hear.com&#39;s At-Home Prescription Hearing Aids Test](https://www.wired.com/story/hear-com-at-home-hearing-test/)
- - [Summer Game Fest’s best games were small and personal](https://www.theverge.com/games/689708/summer-game-fests-best-games-were-small-and-personal)<!-- TECH:END -->
+ - [Why iPhone mirroring and Mac Live Activities aren&#39;t coming to the EU](https://appleinsider.com/articles/25/06/19/why-iphone-mirroring-and-mac-live-activities-arent-coming-to-the-eu?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

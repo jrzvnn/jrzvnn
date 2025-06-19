@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Does anyone else think george martin is just lazy?](http://9gag.com/gag/aD2O7mw)
+ - 😝 [This is a man who loves his family to the point of invention - brilliant](http://9gag.com/gag/ae97gBb)
  - 😝 [\ud83c\udf89 Meme of the Year Results Are In! Big thanks to everyone who voted in this year&#39;s Meme of the Year.](http://9gag.com/gag/aAyOQnL)
- - 💣 [FAFO&#39;s Vitaly Progress Update](http://9gag.com/gag/a7opoZe)
- - 😝 [When you didn\u2019t get the Memo](http://9gag.com/gag/aGyOzGz)
- - 👉 [Mandatory kit when visiting London](http://9gag.com/gag/aAyOGQo)<!-- MEMES:END -->
+ - 💣 [Proven Locks](http://9gag.com/gag/a87K79p)
+ - 😝 [It&#39;s a nice car](http://9gag.com/gag/ae979E5)
+ - 👉 [`wE bUiLt ThIs CiTy`](http://9gag.com/gag/aD2O7AZ)<!-- MEMES:END -->
 
 ---
 

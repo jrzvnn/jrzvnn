@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Biker stops female hit n runner](http://9gag.com/gag/ae974jW)
- - 😝 [Mandatory kit when visiting London](http://9gag.com/gag/aAyOGQo)
- - 💣 [The golden days](http://9gag.com/gag/aGyOE4n)
- - 😝 [Extinction of northern rhino ...](http://9gag.com/gag/aE0O8n9)
- - 👉 [Proven Locks](http://9gag.com/gag/a87K79p)<!-- MEMES:END -->
+ - 😝 [Sold!](http://9gag.com/gag/apRYRj9)
+ - 😝 [FAFO&#39;s Vitaly Progress Update](http://9gag.com/gag/a7opoZe)
+ - 💣 [Proven Locks](http://9gag.com/gag/a87K79p)
+ - 😝 [Women](http://9gag.com/gag/a9yOyb6)
+ - 👉 [When you didn\u2019t get the Memo](http://9gag.com/gag/aGyOzGz)<!-- MEMES:END -->
 
 ---
 

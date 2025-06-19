@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mandatory kit when visiting London](http://9gag.com/gag/aAyOGQo)
+ - 😝 [Does anyone else think george martin is just lazy?](http://9gag.com/gag/aD2O7mw)
  - 😝 [\ud83c\udf89 Meme of the Year Results Are In! Big thanks to everyone who voted in this year&#39;s Meme of the Year.](http://9gag.com/gag/aAyOQnL)
- - 💣 [Sold!](http://9gag.com/gag/apRYRj9)
- - 😝 [God Damn](http://9gag.com/gag/aQzOXN7)
- - 👉 [Women](http://9gag.com/gag/a9yOyb6)<!-- MEMES:END -->
+ - 💣 [FAFO&#39;s Vitaly Progress Update](http://9gag.com/gag/a7opoZe)
+ - 😝 [When you didn\u2019t get the Memo](http://9gag.com/gag/aGyOzGz)
+ - 👉 [Mandatory kit when visiting London](http://9gag.com/gag/aAyOGQo)<!-- MEMES:END -->
 
 ---
 

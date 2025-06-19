@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Files iPadOS 26 vs iPadOS 18: Refinements &amp; speed improvements make Files actually usable](https://appleinsider.com/inside/ipados-26/vs/files-ipados-26-vs-ipados-18-refinements-speed-improvements-make-files-actually-usable?utm_medium=rss)
+ - [FireWire may finally be dead in macOS 26 &amp; Apple isn&#39;t looking back](https://appleinsider.com/articles/25/06/19/firewire-may-finally-be-dead-in-macos-26-apple-isnt-looking-back?utm_medium=rss)
+ - [Eufy&amp;#8217;s X10 Pro Omni mopping robovac has returned to its best price to date](https://www.theverge.com/tech/689275/eufy-x10-pro-omni-mopping-robot-vacuum-deal-sale)
  - [The Irish Data Protection Commission says Meta told it that WhatsApp ads &quot;won&#39;t be launching&quot; in the EU &quot;until 2026&quot;; WhatsApp says ads are coming &quot;gradually&quot; &lpar;Ellen O&#39;Regan/Politico&rpar;](http://www.techmeme.com/250619/p31#a250619p31)
- - [Elden Ring Nightreign is getting even harder bosses](https://www.theverge.com/news/690093/elden-ring-nightreign-everdark-sovereign-bosses)
- - [TikTok&#39;s Clock Keeps Running: Trump Again Extends Sale Deadline](https://www.cnet.com/tech/services-and-software/trump-gives-tiktok-another-75-days-to-strike-a-sale/#ftag=CAD590a51e)
- - [Trump extends the TikTok ban deadline for a third time; there is no legal basis for the extensions and it is unclear how many times the deadline can be extended &lpar;Barbara Ortutay/Associated Press&rpar;](http://www.techmeme.com/250619/p30#a250619p30)
- - [First Call of Duty Black Ops 6 Double XP Weekend Dates Announced for Season 4](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-6-double-xp-weekend-june-19-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elden Ring Nightreign is getting even harder bosses](https://www.theverge.com/news/690093/elden-ring-nightreign-everdark-sovereign-bosses)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

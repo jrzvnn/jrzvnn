@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Spotify&amp;#8217;s HiFi lossless streaming might really, finally, actually be coming soon](https://www.theverge.com/news/690107/spotify-lossless-streaming-hifi-music-pro-spicetify)
  - [Files iPadOS 26 vs iPadOS 18: Refinements &amp; speed improvements make Files actually usable](https://appleinsider.com/inside/ipados-26/vs/files-ipados-26-vs-ipados-18-refinements-speed-improvements-make-files-actually-usable?utm_medium=rss)
  - [FireWire may finally be dead in macOS 26 &amp; Apple isn&#39;t looking back](https://appleinsider.com/articles/25/06/19/firewire-may-finally-be-dead-in-macos-26-apple-isnt-looking-back?utm_medium=rss)
- - [Eufy&amp;#8217;s X10 Pro Omni mopping robovac has returned to its best price to date](https://www.theverge.com/tech/689275/eufy-x10-pro-omni-mopping-robot-vacuum-deal-sale)<!-- TECH:END -->
+ - [TikTok&#39;s Clock Keeps Running: Trump Extends Sale Deadline Again](https://www.cnet.com/tech/services-and-software/trump-gives-tiktok-another-75-days-to-strike-a-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anker Recalls 1.1 Million Power Banks for Fires and Explosions: What to Do if You&#39;re Affected](https://www.cnet.com/tech/mobile/anker-recalls-1-1-million-power-banks-for-fires-and-explosions-what-to-do-if-youre-affected/#ftag=CAD590a51e)
  - [A look at the lack of consensus in the tech industry on what AGI is, whether LLMs are the best path to it, and what AGI might look like if or when it arrives &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250619/p9#a250619p9)
  - [Study: US kids who said their social media, phone, or video game use was &quot;addictive&quot; were 2x-3x more likely to have thoughts of suicide or self-harm by age 14 &lpar;Ellen Barry/New York Times&rpar;](http://www.techmeme.com/250619/p8#a250619p8)
  - [Q&amp;A with Hugging Face Chief Ethics Scientist Margaret Mitchell on aligning AI development with human needs, the &quot;illusion of consensus&quot; around AGI, and more &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250619/p7#a250619p7)
- - [SpaceX Starship explodes again, this time on the ground](https://www.theverge.com/news/689901/spacex-starship-explosion-static-fire-test)
- - [SoftBank-backed Spotter, which fronts cash to YouTubers for a cut of revenue, is facing significant challenges due to YouTube&#39;s shift toward Shorts, and more &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/250619/p6#a250619p6)<!-- TECH:END -->
+ - [SpaceX Starship explodes again, this time on the ground](https://www.theverge.com/news/689901/spacex-starship-explosion-static-fire-test)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

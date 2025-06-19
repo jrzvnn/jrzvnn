@@ -157,10 +157,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fleet, which offers open-source device management tools for OSes, various networks, VPNs, and more, raised a $27M Series B led by Ten Eleven Ventures &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250619/p22#a250619p22)
+ - [Punch-hole camera, under-screen Face ID still expected with iPhone 18 Pro](https://appleinsider.com/articles/25/06/19/punch-hole-camera-under-screen-face-id-still-expected-with-iphone-18-pro?utm_medium=rss)
  - [Luxembourg-based Tadaweb, an open-source intelligence platform, raised $20M led by Arsenal Growth and ForgePoint, taking its total funding to $40M &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250619/p21#a250619p21)
  - [Q&amp;A with Pavel Durov on his arrest in France, Macron, Russia, the FBI, the fight for Telegram, leaving his wealth to the 100+ children he fathered, and more &lpar;Guillaume Grallet/Le Point&rpar;](http://www.techmeme.com/250619/p20#a250619p20)
- - [&#39;Murderbot&#39;: When to Stream Episode 7 of Apple&#39;s Sci-Fi Comedy](https://www.cnet.com/tech/services-and-software/murderbot-how-to-stream-episode-7-of-apples-sci-fi-comedy-thriller/#ftag=CAD590a51e)
- - [Xbox Is Bringing These Call of Duty and Warcraft Games to Game Pass in June](https://www.cnet.com/tech/services-and-software/xbox-is-bringing-these-call-of-duty-and-warcraft-games-to-game-pass-in-june/#ftag=CAD590a51e)
  - [7 Ways to Limit Your Endless Doomscrolling](https://www.wired.com/story/7-ways-to-limit-your-endless-doomscrolling/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It is an older meme, but still checks out](http://9gag.com/gag/a6ZjZYN)
+ - 😝 [In Japan drone is prohibited in urban area. Once you use it immediate arrest.](http://9gag.com/gag/agmE11W)
  - 😝 [\ud83c\udf89 Meme of the Year Results Are In! Big thanks to everyone who voted in this year&#39;s Meme of the Year.](http://9gag.com/gag/aAyOQnL)
- - 💣 [A bit late, but this is for the pops](http://9gag.com/gag/aNDO9xw)
- - 😝 [The golden days](http://9gag.com/gag/aGyOE4n)
+ - 💣 [Appearances are deceptive](http://9gag.com/gag/aO8ReyR)
+ - 😝 [Twerk mods where?](http://9gag.com/gag/a9yO6OL)
  - 👉 [Grass is all he needed](http://9gag.com/gag/an7rnqB)<!-- MEMES:END -->
 
 ---

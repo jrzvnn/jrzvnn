@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The golden days](http://9gag.com/gag/aGyOE4n)
+ - 😝 [Proven Locks](http://9gag.com/gag/a87K79p)
  - 😝 [\ud83c\udf89 Meme of the Year Results Are In! Big thanks to everyone who voted in this year&#39;s Meme of the Year.](http://9gag.com/gag/aAyOQnL)
  - 💣 [Genius move](http://9gag.com/gag/a4PW6z1)
- - 😝 [He almost saw heaven.](http://9gag.com/gag/aXPKPAz)
- - 👉 [This bartender&#39;s magic tricks are next level. The reactions are priceless](http://9gag.com/gag/aGyOEA5)<!-- MEMES:END -->
+ - 😝 [This bartender&#39;s magic tricks are next level. The reactions are priceless](http://9gag.com/gag/aGyOEA5)
+ - 👉 [Women](http://9gag.com/gag/a9yOyb6)<!-- MEMES:END -->
 
 ---
 

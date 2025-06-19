@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Asking the real questions here](http://9gag.com/gag/aRBOrWM)
+ - 😝 [Sold!](http://9gag.com/gag/apRYRj9)
  - 😝 [\ud83c\udf89 Meme of the Year Results Are In! Big thanks to everyone who voted in this year&#39;s Meme of the Year.](http://9gag.com/gag/aAyOQnL)
- - 💣 [The golden days](http://9gag.com/gag/aGyOE4n)
- - 😝 [Random](http://9gag.com/gag/awyYgo8)
- - 👉 [When you didn\u2019t get the Memo](http://9gag.com/gag/aGyOzGz)<!-- MEMES:END -->
+ - 💣 [Bring back bench seats for important reasons.](http://9gag.com/gag/aRBOEQq)
+ - 😝 [Proven Locks](http://9gag.com/gag/a87K79p)
+ - 👉 [He almost saw heaven.](http://9gag.com/gag/aXPKPAz)<!-- MEMES:END -->
 
 ---
 

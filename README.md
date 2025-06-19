@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women](http://9gag.com/gag/a9yOyb6)
- - 😝 [Extinction of northern rhino ...](http://9gag.com/gag/aE0O8n9)
- - 💣 [The daily commute struggle is real, and apparently involves Mario.](http://9gag.com/gag/aByO2bZ)
- - 😝 [Sold!](http://9gag.com/gag/apRYRj9)
- - 👉 [Biker stops female hit n runner](http://9gag.com/gag/ae974jW)<!-- MEMES:END -->
+ - 😝 [This is a man who loves his family to the point of invention - brilliant](http://9gag.com/gag/ae97gBb)
+ - 😝 [James was trying to warn us back then.](http://9gag.com/gag/aqyYyPL)
+ - 💣 [`wE bUiLt ThIs CiTy`](http://9gag.com/gag/aD2O7AZ)
+ - 😝 [It&#39;s a nice car](http://9gag.com/gag/ae979E5)
+ - 👉 [Proven Locks](http://9gag.com/gag/a87K79p)<!-- MEMES:END -->
 
 ---
 

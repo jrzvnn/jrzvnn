@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DOJ files to seize $225 million in crypto from scammers](https://www.theverge.com/news/689956/doj-tether-cryptocurrency-investment-pig-butchering-scam-seizure)
- - [Eero’s speedy Pro 6E mesh system is on sale with a gift card for $200 off](https://www.theverge.com/tech/689687/eero-6e-router-system-anker-six-port-desktop-charger-deal-sale)
- - [Andrej Karpathy&#39;s talk on &quot;Software 3.0&quot;, with LLMs enabling programming via natural language, the decade of agents, LLMs as &quot;fallible people spirits&quot;, and more &lpar;Andrej Karpathy/Y Combinator on YouTube&rpar;](http://www.techmeme.com/250619/p25#a250619p25)
- - [Apple&#39;s chip chief says he wants AI chip design, but he already has it](https://appleinsider.com/articles/25/06/19/apples-chip-chief-says-he-wants-ai-chip-design-but-he-already-has-it?utm_medium=rss)
- - [A look at Scale AI rival Surge AI, which raised no outside capital, told staff it had $1B+ in 2024 revenue, vs. Scale&#39;s $870M, and has always been profitable &lpar;The Information&rpar;](http://www.techmeme.com/250619/p24#a250619p24)<!-- TECH:END -->
+ - [The EU says Apple and Meta will not face sanctions immediately after their 60 day DMA grace period ends on June 26, following €500M and €200M fines in April &lpar;Peggy Corlin/Euronews&rpar;](http://www.techmeme.com/250619/p28#a250619p28)
+ - [Interviews with 45+ sources detail Mark Zuckerberg&#39;s transformation into &quot;MAGA Mark&quot;; sources say there were talks about Zuckerberg becoming a Trump adviser &lpar;Financial Times&rpar;](http://www.techmeme.com/250619/p27#a250619p27)
+ - [Sources: Google is using its expansive library of YouTube videos to train Gemini and Veo 3; Google says it only uses a subset of videos for the training &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/250619/p26#a250619p26)
+ - [Trump gives TikTok another ban extension](https://www.theverge.com/news/688252/tiktok-ban-trump-extension-deal)
+ - [Inside Microsoft’s complicated relationship with OpenAI](https://www.theverge.com/notepad-microsoft-newsletter/688964/microsoft-openai-relationship-notepad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

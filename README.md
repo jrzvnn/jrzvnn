@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An MIT study of 54 ChatGPT users: using it for SAT essays led to the lowest brain engagement and poorer neural performance than using Google or writing unaided &lpar;Andrew R. Chow/Time&rpar;](http://www.techmeme.com/250619/p15#a250619p15)
  - [A look at China&#39;s efforts to grow its &quot;low-altitude economy&quot;, or airspace below 1,000 meters, by leveraging its strengths in drone production and R&amp;D &lpar;William Langley/Financial Times&rpar;](http://www.techmeme.com/250619/p14#a250619p14)
  - [A look at seven UX issues in the Fediverse web experience, including complex onboarding, the lack of a dedicated DM UI wrapper, and fragmented user discovery &lpar;Tim Chambers&rpar;](http://www.techmeme.com/250619/p13#a250619p13)
  - [The European Court of Justice&#39;s advocate-general says the EU&#39;s €4.12B fine against Google over its dominance of Android should be upheld, a major blow to Google &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/250619/p12#a250619p12)
- - [An interview with Craig Federighi on the journey to iPadOS&#39; new windowing system and menu bar, the iPad&#39;s essence as a &quot;magical piece of glass&quot;, and more &lpar;Federico Viticci/MacStories&rpar;](http://www.techmeme.com/250619/p11#a250619p11)
- - [MIT researchers unveil Self-Adapting LLMs, a framework that enables LLMs to keep improving by generating their own training data based on the input received &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250619/p10#a250619p10)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 19, #473](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-19-473/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

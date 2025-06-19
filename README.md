@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The Irish Data Protection Commission says Meta told it that WhatsApp ads &quot;won&#39;t be launching&quot; in the EU &quot;until 2026&quot;; WhatsApp says ads are coming &quot;gradually&quot; &lpar;Ellen O&#39;Regan/Politico&rpar;](http://www.techmeme.com/250619/p31#a250619p31)
  - [Elden Ring Nightreign is getting even harder bosses](https://www.theverge.com/news/690093/elden-ring-nightreign-everdark-sovereign-bosses)
+ - [TikTok&#39;s Clock Keeps Running: Trump Again Extends Sale Deadline](https://www.cnet.com/tech/services-and-software/trump-gives-tiktok-another-75-days-to-strike-a-sale/#ftag=CAD590a51e)
  - [Trump extends the TikTok ban deadline for a third time; there is no legal basis for the extensions and it is unclear how many times the deadline can be extended &lpar;Barbara Ortutay/Associated Press&rpar;](http://www.techmeme.com/250619/p30#a250619p30)
- - [Apple won&#39;t be fined right away if it misses EU anti-steering compliance deadline](https://appleinsider.com/articles/25/06/19/apple-wont-be-fined-right-away-if-it-misses-eu-anti-steering-compliance-deadline?utm_medium=rss)
- - [European satellite company Eutelsat raised €1.35B, including €717M from France, to build out its fleet of satellites to rival Starlink; France&#39;s stake is ~30% &lpar;Bloomberg&rpar;](http://www.techmeme.com/250619/p29#a250619p29)<!-- TECH:END -->
+ - [First Call of Duty Black Ops 6 Double XP Weekend Dates Announced for Season 4](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-6-double-xp-weekend-june-19-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at seven UX issues in the Fediverse web experience, including complex onboarding, the lack of a dedicated DM UI wrapper, and fragmented user discovery &lpar;Tim Chambers&rpar;](http://www.techmeme.com/250619/p13#a250619p13)
+ - [The European Court of Justice&#39;s advocate-general says the EU&#39;s €4.12B fine against Google over its dominance of Android should be upheld, a major blow to Google &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/250619/p12#a250619p12)
  - [An interview with Craig Federighi on the journey to iPadOS&#39; new windowing system and menu bar, the iPad&#39;s essence as a &quot;magical piece of glass&quot;, and more &lpar;Federico Viticci/MacStories&rpar;](http://www.techmeme.com/250619/p11#a250619p11)
  - [MIT researchers unveil Self-Adapting LLMs, a framework that enables LLMs to keep improving by generating their own training data based on the input received &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250619/p10#a250619p10)
- - [TikTok&#39;s Not Getting Banned, but These Apps Give It a Run for Its Money](https://www.cnet.com/tech/services-and-software/tik-toks-not-getting-banned-but-these-apps-give-it-a-run-for-its-money/#ftag=CAD590a51e)
- - [Hot Octopuss Pulse Duo Review: Not for Penetration](https://www.wired.com/review/hot-octopuss-pulse-duo/)
- - [Anker Recalls 1.1 Million Power Banks for Fires and Explosions: What to Do if You&#39;re Affected](https://www.cnet.com/tech/mobile/anker-recalls-1-1-million-power-banks-for-fires-and-explosions-what-to-do-if-youre-affected/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TikTok&#39;s Not Getting Banned, but These Apps Give It a Run for Its Money](https://www.cnet.com/tech/services-and-software/tik-toks-not-getting-banned-but-these-apps-give-it-a-run-for-its-money/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

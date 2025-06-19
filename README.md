@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Apple won&#39;t be fined right away if it misses EU anti-steering compliance deadline](https://appleinsider.com/articles/25/06/19/apple-wont-be-fined-right-away-if-it-misses-eu-anti-steering-compliance-deadline?utm_medium=rss)
  - [European satellite company Eutelsat raised €1.35B, including €717M from France, to build out its fleet of satellites to rival Starlink; France&#39;s stake is ~30% &lpar;Bloomberg&rpar;](http://www.techmeme.com/250619/p29#a250619p29)
+ - [Midjourney launches an AI video generator](https://www.theverge.com/news/690055/midjourney-ai-video-generator-launch)
  - [The EU says Apple and Meta will not face sanctions immediately after their 60 day DMA grace period ends on June 26, following €500M and €200M fines in April &lpar;Peggy Corlin/Euronews&rpar;](http://www.techmeme.com/250619/p28#a250619p28)
- - [Interviews with 45+ sources detail Mark Zuckerberg&#39;s transformation into &quot;MAGA Mark&quot;; sources say there were talks about Zuckerberg becoming a Trump adviser &lpar;Financial Times&rpar;](http://www.techmeme.com/250619/p27#a250619p27)
- - [Sources: Google is using its expansive library of YouTube videos to train Gemini and Veo 3; Google says it only uses a subset of videos for the training &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/250619/p26#a250619p26)<!-- TECH:END -->
+ - [Interviews with 45+ sources detail Mark Zuckerberg&#39;s transformation into &quot;MAGA Mark&quot;; sources say there were talks about Zuckerberg becoming a Trump adviser &lpar;Financial Times&rpar;](http://www.techmeme.com/250619/p27#a250619p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

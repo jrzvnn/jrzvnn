@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The golden days](http://9gag.com/gag/aGyOE4n)
+ - 😝 [Sold!](http://9gag.com/gag/apRYRj9)
  - 😝 [\ud83c\udf89 Meme of the Year Results Are In! Big thanks to everyone who voted in this year&#39;s Meme of the Year.](http://9gag.com/gag/aAyOQnL)
- - 💣 [Women](http://9gag.com/gag/a9yOyb6)
- - 😝 [He almost saw heaven.](http://9gag.com/gag/aXPKPAz)
- - 👉 [Sold!](http://9gag.com/gag/apRYRj9)<!-- MEMES:END -->
+ - 💣 [The golden days](http://9gag.com/gag/aGyOE4n)
+ - 😝 [This bartender&#39;s magic tricks are next level. The reactions are priceless](http://9gag.com/gag/aGyOEA5)
+ - 👉 [A bit late, but this is for the pops](http://9gag.com/gag/aNDO9xw)<!-- MEMES:END -->
 
 ---
 

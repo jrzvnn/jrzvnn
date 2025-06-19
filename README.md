@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: OpenAI is changing ChatGPT Enterprise&#39;s pricing structure to include a credits system, moving from a fixed price, to give companies more leeway &lpar;Kimberley Kao/Wall Street Journal&rpar;](http://www.techmeme.com/250619/p19#a250619p19)
  - [A new study of 14 open-source LLMs: larger models use exponentially more energy and produce more greenhouse gas emissions, but do not always give better answers &lpar;Sachi Kitajima Mulkey/New York Times&rpar;](http://www.techmeme.com/250619/p18#a250619p18)
  - [&#39;Dosa Divas&#39; Is a ‘Spicy’ New Game About Fighting Capitalism With Food](https://www.wired.com/story/dosa-divas-is-a-spicy-new-game-about-fighting-capitalism-with-food/)
  - [China&#39;s 618 mid-year shopping festival, running for a month from May 13, was a muted affair despite deep discounts, as economic concerns weigh on consumers &lpar;Reuters&rpar;](http://www.techmeme.com/250619/p17#a250619p17)
- - [How Iranian and Israeli hacking groups spent years sparring online; the US State Department is offering $10M for info on the Iran-linked CyberAv3ngers group &lpar;Jordan Robertson/Bloomberg&rpar;](http://www.techmeme.com/250619/p16#a250619p16)
- - [How Much Energy Does AI Use? The People Who Know Aren’t Saying](https://www.wired.com/story/ai-carbon-emissions-energy-unknown-mystery-research/)<!-- TECH:END -->
+ - [How Iranian and Israeli hacking groups spent years sparring online; the US State Department is offering $10M for info on the Iran-linked CyberAv3ngers group &lpar;Jordan Robertson/Bloomberg&rpar;](http://www.techmeme.com/250619/p16#a250619p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

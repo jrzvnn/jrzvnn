@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China&#39;s 618 mid-year shopping festival, running for a month from May 13, was a muted affair despite deep discounts, as economic concerns weigh on consumers &lpar;Reuters&rpar;](http://www.techmeme.com/250619/p17#a250619p17)
+ - [How Iranian and Israeli hacking groups spent years sparring online; the US State Department is offering $10M for info on the Iran-linked CyberAv3ngers group &lpar;Jordan Robertson/Bloomberg&rpar;](http://www.techmeme.com/250619/p16#a250619p16)
+ - [How Much Energy Does AI Use? The People Who Know Aren’t Saying](https://www.wired.com/story/ai-carbon-emissions-energy-unknown-mystery-research/)
  - [An MIT study of 54 ChatGPT users: using it for SAT essays led to the lowest brain engagement and poorer neural performance than using Google or writing unaided &lpar;Andrew R. Chow/Time&rpar;](http://www.techmeme.com/250619/p15#a250619p15)
- - [A look at China&#39;s efforts to grow its &quot;low-altitude economy&quot;, or airspace below 1,000 meters, by leveraging its strengths in drone production and R&amp;D &lpar;William Langley/Financial Times&rpar;](http://www.techmeme.com/250619/p14#a250619p14)
- - [A look at seven UX issues in the Fediverse web experience, including complex onboarding, the lack of a dedicated DM UI wrapper, and fragmented user discovery &lpar;Tim Chambers&rpar;](http://www.techmeme.com/250619/p13#a250619p13)
- - [The European Court of Justice&#39;s advocate-general says the EU&#39;s €4.12B fine against Google over its dominance of Android should be upheld, a major blow to Google &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/250619/p12#a250619p12)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 19, #473](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-19-473/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at China&#39;s efforts to grow its &quot;low-altitude economy&quot;, or airspace below 1,000 meters, by leveraging its strengths in drone production and R&amp;D &lpar;William Langley/Financial Times&rpar;](http://www.techmeme.com/250619/p14#a250619p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

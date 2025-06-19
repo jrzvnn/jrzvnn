@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Craig Federighi on the journey to iPadOS&#39; new windowing system and menu bar, the iPad&#39;s essence as a &quot;magical piece of glass&quot;, and more &lpar;Federico Viticci/MacStories&rpar;](http://www.techmeme.com/250619/p11#a250619p11)
  - [MIT researchers unveil Self-Adapting LLMs, a framework that enables LLMs to keep improving by generating their own training data based on the input received &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250619/p10#a250619p10)
+ - [TikTok&#39;s Not Getting Banned, but These Apps Give It a Run for Its Money](https://www.cnet.com/tech/services-and-software/tik-toks-not-getting-banned-but-these-apps-give-it-a-run-for-its-money/#ftag=CAD590a51e)
  - [Hot Octopuss Pulse Duo Review: Not for Penetration](https://www.wired.com/review/hot-octopuss-pulse-duo/)
- - [Anker Recalls 1.1 Million Power Banks for Fires and Explosions: What to Do if You&#39;re Affected](https://www.cnet.com/tech/mobile/anker-recalls-1-1-million-power-banks-for-fires-and-explosions-what-to-do-if-youre-affected/#ftag=CAD590a51e)
- - [A look at the lack of consensus in the tech industry on what AGI is, whether LLMs are the best path to it, and what AGI might look like if or when it arrives &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250619/p9#a250619p9)
- - [Study: US kids who said their social media, phone, or video game use was &quot;addictive&quot; were 2x-3x more likely to have thoughts of suicide or self-harm by age 14 &lpar;Ellen Barry/New York Times&rpar;](http://www.techmeme.com/250619/p8#a250619p8)<!-- TECH:END -->
+ - [Anker Recalls 1.1 Million Power Banks for Fires and Explosions: What to Do if You&#39;re Affected](https://www.cnet.com/tech/mobile/anker-recalls-1-1-million-power-banks-for-fires-and-explosions-what-to-do-if-youre-affected/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Decade-old &#39;Shot on iPhone&#39; ad campaign awarded at Cannes Lions](https://appleinsider.com/articles/25/06/19/decade-old-shot-on-iphone-ad-campaign-awarded-at-cannes-lions?utm_medium=rss)
  - [SpaceX Starship explodes again, this time on the ground](https://www.theverge.com/news/689901/spacex-starship-explosion-static-fire-test)
  - [Best Internet Providers in Jacksonville, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-jacksonville-fl/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 19, #269](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-19-269/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 20, #474](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-20-474/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for June 20, #1462](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-20-1462/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 20, #474](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-20-474/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI warns that its upcoming models could pose a higher risk of enabling the creation of biological weapons and says it is stepping up testing of such models &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250618/p45#a250618p45)
+ - [Multiplier, which acquires accounting services firms and scales them with AI, raised $27.5M across a seed and Series A, with the latter led by Lightspeed &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250618/p44#a250618p44)
+ - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
  - [Iran&#39;s largest crypto exchange Nobitex says it was hacked, and pro-Israel group Predatory Sparrow claims responsibility; Elliptic: $90M+ was stolen and &quot;burned&quot; &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/250618/p43#a250618p43)
- - [Meta is adding support for passkeys on Facebook&#39;s iOS and Android apps &quot;soon&quot;, and will begin rolling out passkeys to Messenger &quot;in the coming months&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250618/p42#a250618p42)
- - [Wix acquires Base44, which lets users build apps from text prompts, for $80M; Base44 was founded by a solo entrepreneur six months ago and employs six people &lpar;Sophie Shulman/CTech&rpar;](http://www.techmeme.com/250618/p41#a250618p41)
- - [I&#39;m Talking Back to Google&#39;s New Search Live Mode for AI Convos About Big Events](https://www.cnet.com/tech/mobile/im-talking-back-to-googles-new-search-live-mode-for-ai-convos-about-big-events/#ftag=CAD590a51e)
- - [The US State Department restarts student visa interviews and requires all applicants to make their social media accounts public for vetting by US embassies &lpar;Washington Post&rpar;](http://www.techmeme.com/250618/p40#a250618p40)<!-- TECH:END -->
+ - [Meta is adding support for passkeys on Facebook&#39;s iOS and Android apps &quot;soon&quot;, and will begin rolling out passkeys to Messenger &quot;in the coming months&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250618/p42#a250618p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

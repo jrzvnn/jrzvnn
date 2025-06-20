@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The comments make this post even better.](http://9gag.com/gag/aD2OnXG)
- - 😝 [In Japan drone is prohibited in urban area. Once you use it immediate arrest.](http://9gag.com/gag/agmE11W)
- - 💣 [Super Sentai knew what they were doing](http://9gag.com/gag/aMVOmAX)
- - 😝 [Appearances are deceptive](http://9gag.com/gag/aO8ReyR)
- - 👉 [First day at work](http://9gag.com/gag/aRBOZj5)<!-- MEMES:END -->
+ - 😝 [British thoughts here..](http://9gag.com/gag/ae971Ev)
+ - 😝 [A bit late, but this is for the pops](http://9gag.com/gag/aNDO9xw)
+ - 💣 [Advice For Single Men](http://9gag.com/gag/a1mE7D6)
+ - 😝 [Grass is all he needed](http://9gag.com/gag/an7rnqB)
+ - 👉 [That halo of sparks is incredible, and yes, hell yeah.](http://9gag.com/gag/amop69X)<!-- MEMES:END -->
 
 ---
 

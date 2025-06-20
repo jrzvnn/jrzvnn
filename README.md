@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The comments make this post even better.](http://9gag.com/gag/aD2OnXG)
- - 😝 [Slide](http://9gag.com/gag/a4PWzvp)
- - 💣 [Where are the drug dealers](http://9gag.com/gag/an7rR30)
- - 😝 [How to use a Aztec dead whistle in the modern age](http://9gag.com/gag/amopWD4)
- - 👉 [We all did this at some point, right?](http://9gag.com/gag/abAQeNB)<!-- MEMES:END -->
+ - 😝 [We all did this at some point, right?](http://9gag.com/gag/abAQeNB)
+ - 😝 [The skill of night workers is impressive.](http://9gag.com/gag/ajPWO9Q)
+ - 💣 [Slide](http://9gag.com/gag/a4PWzvp)
+ - 😝 [Where are the drug dealers](http://9gag.com/gag/an7rR30)
+ - 👉 [Appearances are deceptive](http://9gag.com/gag/aO8ReyR)<!-- MEMES:END -->
 
 ---
 

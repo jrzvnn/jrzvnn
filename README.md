@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Mark Zuckerberg recently discussed buying Mira Murati&#39;s Thinking Machines Lab, but the talks didn&#39;t progress to the formal offer stage &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250620/p25#a250620p25)
  - [Meta held talks to buy Thinking Machines, Perplexity, and Safe Superintelligence](https://www.theverge.com/command-line-newsletter/690720/meta-buy-thinking-machines-perplexity-safe-superintelligence)
  - [Q&amp;A with Yoshua Bengio on his nonprofit LawZero focusing on AI safety, its research direction, risks of increasingly capable and autonomous AI systems, and more &lpar;Sigal Samuel/Vox&rpar;](http://www.techmeme.com/250620/p24#a250620p24)
  - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
- - [Apple execs may be newly considering buying AI firm Perplexity](https://appleinsider.com/articles/25/06/20/apple-execs-may-be-newly-considering-buying-ai-firm-perplexity?utm_medium=rss)
- - [A Sneak Peek at Samsung&#39;s Plan to Help Us Defy Aging With the Galaxy Watch](https://www.cnet.com/tech/mobile/samsung-gave-me-an-inside-look-at-its-plan-to-help-us-age-better-one-galaxy-watch-at-a-time/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple execs may be newly considering buying AI firm Perplexity](https://appleinsider.com/articles/25/06/20/apple-execs-may-be-newly-considering-buying-ai-firm-perplexity?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

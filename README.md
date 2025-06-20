@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Grass is all he needed](http://9gag.com/gag/an7rnqB)
- - 😝 [Now f**k off and see you tomorrow](http://9gag.com/gag/ae97O5W)
- - 💣 [Day 4 the stem of the right one gets dark and i think it will start to rotten. Bad News for the `life hack`](http://9gag.com/gag/a7op0vA)
- - 😝 [That halo of sparks is incredible, and yes, hell yeah.](http://9gag.com/gag/amop69X)
- - 👉 [Airport security in the 90ies](http://9gag.com/gag/ae97ZGj)<!-- MEMES:END -->
+ - 😝 [Slide](http://9gag.com/gag/a4PWzvp)
+ - 😝 [The comments make this post even better.](http://9gag.com/gag/aD2OnXG)
+ - 💣 [When you feel the music at the game](http://9gag.com/gag/abAQ1MO)
+ - 😝 [How to use a Aztec dead whistle in the modern age](http://9gag.com/gag/amopWD4)
+ - 👉 [A bit late, but this is for the pops](http://9gag.com/gag/aNDO9xw)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Concha Sol Hearing Aids Review: Feeling Dated](https://www.wired.com/review/concha-sol-hearing-aids/)
+ - [&#39;28 Years Later&#39; Director Danny Boyle Says Shooting on iPhones Let Him Capture &#39;Startling&#39; Violence](https://www.wired.com/story/danny-boyle-says-shooting-on-iphones-let-him-capture-startling-violence-in-28-years-later/)
  - [South Korea&#39;s SK Group and AWS will invest ~$5.1B including $4B from AWS to build a 100 MW AI data center in Ulsan by 2029, and plan to expand capacity to 1 GW &lpar;Reuters&rpar;](http://www.techmeme.com/250620/p5#a250620p5)
  - [Israeli authorities urge citizens to turn off home cameras, and say Iran is tapping into security cameras in Israel to gather real-time intelligence for attacks &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/250620/p4#a250620p4)
- - [Best Internet Providers in Colorado Springs, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-colorado-springs-co/#ftag=CAD590a51e)
- - [How AI Is Helping Kids Find the Right College](https://www.wired.com/story/how-ai-is-helping-kids-find-the-right-college/)
- - [Schedule a Text to Send Later With This iPhone Trick](https://www.cnet.com/tech/services-and-software/schedule-a-text-to-send-later-with-this-iphone-trick/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Colorado Springs, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-colorado-springs-co/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

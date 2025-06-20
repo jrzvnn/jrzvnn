@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The comments make this post even better.](http://9gag.com/gag/aD2OnXG)
- - 😝 [How to use a Aztec dead whistle in the modern age](http://9gag.com/gag/amopWD4)
- - 💣 [Appearances are deceptive](http://9gag.com/gag/aO8ReyR)
- - 😝 [Airport security in the 90ies](http://9gag.com/gag/ae97ZGj)
- - 👉 [First day at work](http://9gag.com/gag/aRBOZj5)<!-- MEMES:END -->
+ - 😝 [Appearances are deceptive](http://9gag.com/gag/aO8ReyR)
+ - 💣 [In Japan drone is prohibited in urban area. Once you use it immediate arrest.](http://9gag.com/gag/agmE11W)
+ - 😝 [First day at work](http://9gag.com/gag/aRBOZj5)
+ - 👉 [Airport security in the 90ies](http://9gag.com/gag/ae97ZGj)<!-- MEMES:END -->
 
 ---
 

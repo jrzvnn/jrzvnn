@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The skill of night workers is impressive.](http://9gag.com/gag/ajPWO9Q)
- - 😝 [Soon](http://9gag.com/gag/axyYvZD)
- - 💣 [Appearances are deceptive](http://9gag.com/gag/aO8ReyR)
- - 😝 [Little help](http://9gag.com/gag/aVvVg7P)
+ - 😝 [Summer vacation fun](http://9gag.com/gag/a0eMXBv)
+ - 😝 [The pilot&#39;s office view at night](http://9gag.com/gag/ae974wq)
+ - 💣 [A bit late, but this is for the pops](http://9gag.com/gag/aNDO9xw)
+ - 😝 [We all did this at some point, right?](http://9gag.com/gag/abAQeNB)
  - 👉 [Kid wanted his chocolate milk mixed with a power tool.](http://9gag.com/gag/avydeDM)<!-- MEMES:END -->
 
 ---

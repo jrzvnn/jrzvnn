@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What Lt. Col. Boz and Big Tech&#39;s Enlisted Execs Will Do in the Army](https://www.wired.com/story/what-lt-col-boz-and-big-techs-enlisted-execs-will-do-in-the-army/)
+ - [Developers criticize Google for its decision to hide raw reasoning tokens, essential for debugging complex AI workflows, of its flagship model Gemini 2.5 Pro &lpar;Ben Dickson/VentureBeat&rpar;](http://www.techmeme.com/250620/p9#a250620p9)
+ - [Watch a video &amp; download Apple&#39;s presentation to get your parents to buy you a Mac](https://appleinsider.com/articles/25/06/20/watch-a-video-download-apples-presentation-to-get-your-parents-to-buy-you-a-mac?utm_medium=rss)
  - [Amazon improves Kindle accessibility with new text spacing adjustments](https://www.theverge.com/news/690259/amazon-kindle-software-update-accessibility-text-spacing-settings)
- - [Microsoft is blocking Google Chrome through its family safety feature](https://www.theverge.com/news/690179/microsoft-block-google-chrome-family-safety-feature)
- - [Tesla’s first robotaxi rides will have a ‘safety monitor’ in the passenger seat](https://www.theverge.com/news/690245/tesla-robotaxi-rides-launch-safety-monitor-passenger-seat)
- - [Meta unveils $399+ Oakley smart glasses with all of the Ray-Ban glasses&#39; features, plus 3K video recording, IPX4 water resistance, and double the battery life &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250620/p8#a250620p8)
- - [Meta&#39;s Oakley Smart Glasses Have 3K Video—Watch Out, Ray-Ban](https://www.wired.com/story/metas-oakley-smart-glasses-have-3k-video-watch-out-ray-ban/)<!-- TECH:END -->
+ - [Microsoft is blocking Google Chrome through its family safety feature](https://www.theverge.com/news/690179/microsoft-block-google-chrome-family-safety-feature)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta unveils Oakley smart glasses with same features as Ray-Ban glasses but with 3K video recording and double the battery life, available in summer for $399+ &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250620/p8#a250620p8)
+ - [Meta unveils $399+ Oakley smart glasses with same features as Ray-Ban glasses but with 3K video recording, IPX4 water resistance, and double the battery life &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250620/p8#a250620p8)
+ - [Meta&#39;s Oakley Smart Glasses Have 3K Video—Watch Out, Ray-Ban](https://www.wired.com/story/metas-oakley-smart-glasses-have-3k-video-watch-out-ray-ban/)
  - [Truth, lies, and the Trump Phone](https://www.theverge.com/the-vergecast/690202/trump-mobile-t1-phone-vergecast)
  - [Gigabyte Radeon RX 9060 XT Review: Great Value Gaming](https://www.wired.com/review/amd-radeon-rx-9060-xt/)
- - [Meta announces Oakley smart glasses](https://www.theverge.com/news/690133/meta-oakley-hstn-ai-glasses-price-date)
- - [Five ways iPadOS 26 turns iPad into a productivity powerhouse](https://appleinsider.com/articles/25/06/20/five-ways-ipados-26-turns-ipad-into-a-productivity-powerhouse?utm_medium=rss)<!-- TECH:END -->
+ - [Meta announces Oakley smart glasses](https://www.theverge.com/news/690133/meta-oakley-hstn-ai-glasses-price-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

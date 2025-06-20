@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A False Start on the Road to an All-American Bitcoin](https://www.wired.com/story/a-false-start-on-the-road-to-an-all-american-bitcoin/)
+ - [How JD.com is taking on China&#39;s food-delivery duopoly with viral stunts, low commissions, and deep discounts, prompting Meituan and Alibaba&#39;s Ele.me to respond &lpar;Bloomberg&rpar;](http://www.techmeme.com/250620/p3#a250620p3)
+ - [How to Convert an Analog Bike to an Electric Bike &lpar;2025&rpar;](https://www.wired.com/story/how-to-convert-an-analog-bike-to-an-electric-bike/)
  - [11 Best Vibrators of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-vibrators/)
- - [Best Internet Providers in Tampa, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-tampa-fl/#ftag=CAD590a51e)
- - [Best Internet Providers in Orlando, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-orlando-fl/#ftag=CAD590a51e)
- - [Cloudflare CEO Matthew Prince said Google&#39;s ratio of pages crawled per visitor sent to a publisher fell from 2:1 10 years ago to 6:1 six months ago to 18:1 now &lpar;Christine Wang/Axios&rpar;](http://www.techmeme.com/250620/p2#a250620p2)
- - [Here’s My Experience With 5 Cheap Gadgets I Bought From AliExpress](https://www.cnet.com/home/smart-home/experience-buying-cheap-gadgets-from-aliexpress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Tampa, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-tampa-fl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

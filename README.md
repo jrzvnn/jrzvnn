@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Grass is all he needed](http://9gag.com/gag/an7rnqB)
- - 😝 [Soon](http://9gag.com/gag/axyYvZD)
- - 💣 [Aaah... Japan](http://9gag.com/gag/a5QqQVN)
  - 😝 [It is an older meme, but still checks out](http://9gag.com/gag/a6ZjZYN)
- - 👉 [The skill of night workers is impressive.](http://9gag.com/gag/ajPWO9Q)<!-- MEMES:END -->
+ - 💣 [The skill of night workers is impressive.](http://9gag.com/gag/ajPWO9Q)
+ - 😝 [Appearances are deceptive](http://9gag.com/gag/aO8ReyR)
+ - 👉 [Give me your craziest memes you degenerates](http://9gag.com/gag/a87K6x1)<!-- MEMES:END -->
 
 ---
 

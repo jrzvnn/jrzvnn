@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [A bit late, but this is for the pops](http://9gag.com/gag/aNDO9xw)
- - 😝 [Soon](http://9gag.com/gag/axyYvZD)
- - 💣 [When you feel the music at the game](http://9gag.com/gag/abAQ1MO)
+ - 😝 [Does anyone else think george martin is just lazy?](http://9gag.com/gag/aD2O7mw)
+ - 💣 [Appearances are deceptive](http://9gag.com/gag/aO8ReyR)
  - 😝 [Super Sentai knew what they were doing](http://9gag.com/gag/aMVOmAX)
- - 👉 [FAFO trucker edition](http://9gag.com/gag/a2vLwgO)<!-- MEMES:END -->
+ - 👉 [The skill of night workers is impressive.](http://9gag.com/gag/ajPWO9Q)<!-- MEMES:END -->
 
 ---
 

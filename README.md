@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We all did this at some point, right?](http://9gag.com/gag/abAQeNB)
- - 😝 [The skill of night workers is impressive.](http://9gag.com/gag/ajPWO9Q)
- - 💣 [Slide](http://9gag.com/gag/a4PWzvp)
- - 😝 [Where are the drug dealers](http://9gag.com/gag/an7rR30)
- - 👉 [Appearances are deceptive](http://9gag.com/gag/aO8ReyR)<!-- MEMES:END -->
+ - 😝 [Now f**k off and see you tomorrow](http://9gag.com/gag/ae97O5W)
+ - 😝 [Cop who was controversially fired last month for his `robust` apprehension of a knife-carrying criminal after failing to treat him with &#39;courtesy and respect&#39; - didn&#39;t think twice about putting himself in harm&#39;s way again to tackle another thief n held him down till police arrive](http://9gag.com/gag/ae97ZwB)
+ - 💣 [That halo of sparks is incredible, and yes, hell yeah.](http://9gag.com/gag/amop69X)
+ - 😝 [Airport security in the 90ies](http://9gag.com/gag/ae97ZGj)
+ - 👉 [They were paintings?!](http://9gag.com/gag/aZZz803)<!-- MEMES:END -->
 
 ---
 

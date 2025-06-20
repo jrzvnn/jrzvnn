@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When the chow hall surprises you with something special](http://9gag.com/gag/a9yOvXK)
- - 😝 [Soon](http://9gag.com/gag/axyYvZD)
- - 💣 [When you feel the music at the game](http://9gag.com/gag/abAQ1MO)
+ - 😝 [The comments make this post even better.](http://9gag.com/gag/aD2OnXG)
+ - 😝 [Slide](http://9gag.com/gag/a4PWzvp)
+ - 💣 [Where are the drug dealers](http://9gag.com/gag/an7rR30)
  - 😝 [How to use a Aztec dead whistle in the modern age](http://9gag.com/gag/amopWD4)
- - 👉 [Slide](http://9gag.com/gag/a4PWzvp)<!-- MEMES:END -->
+ - 👉 [We all did this at some point, right?](http://9gag.com/gag/abAQeNB)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you feel the music at the game](http://9gag.com/gag/abAQ1MO)
- - 😝 [Where are the drug dealers](http://9gag.com/gag/an7rR30)
- - 💣 [When the chow hall surprises you with something special](http://9gag.com/gag/a9yOvXK)
- - 😝 [Kid wanted his chocolate milk mixed with a power tool.](http://9gag.com/gag/avydeDM)
+ - 😝 [When the chow hall surprises you with something special](http://9gag.com/gag/a9yOvXK)
+ - 😝 [Soon](http://9gag.com/gag/axyYvZD)
+ - 💣 [When you feel the music at the game](http://9gag.com/gag/abAQ1MO)
+ - 😝 [How to use a Aztec dead whistle in the modern age](http://9gag.com/gag/amopWD4)
  - 👉 [Slide](http://9gag.com/gag/a4PWzvp)<!-- MEMES:END -->
 
 ---

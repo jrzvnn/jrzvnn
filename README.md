@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [British thoughts here..](http://9gag.com/gag/ae971Ev)
- - 😝 [A bit late, but this is for the pops](http://9gag.com/gag/aNDO9xw)
- - 💣 [Advice For Single Men](http://9gag.com/gag/a1mE7D6)
- - 😝 [Grass is all he needed](http://9gag.com/gag/an7rnqB)
- - 👉 [That halo of sparks is incredible, and yes, hell yeah.](http://9gag.com/gag/amop69X)<!-- MEMES:END -->
+ - 😝 [In Japan drone is prohibited in urban area. Once you use it immediate arrest.](http://9gag.com/gag/agmE11W)
+ - 😝 [Soon](http://9gag.com/gag/axyYvZD)
+ - 💣 [Miss Polonia pageant. No diversity at all. I hope for #7 to win](http://9gag.com/gag/a0eMoKQ)
+ - 😝 [It is an older meme, but still checks out](http://9gag.com/gag/a6ZjZYN)
+ - 👉 [Super Sentai knew what they were doing](http://9gag.com/gag/aMVOmAX)<!-- MEMES:END -->
 
 ---
 

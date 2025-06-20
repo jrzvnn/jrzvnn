@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The comments make this post even better.](http://9gag.com/gag/aD2OnXG)
- - 😝 [When Mom&#39;s feeling adventurous and wants to ride down the slide:](http://9gag.com/gag/a6ZjDqm)
- - 💣 [When you feel the music at the game](http://9gag.com/gag/abAQ1MO)
  - 😝 [See, not a problem. We do not need censored stuff.](http://9gag.com/gag/a34b5Y8)
- - 👉 [Soon](http://9gag.com/gag/axyYvZD)<!-- MEMES:END -->
+ - 😝 [First day at work](http://9gag.com/gag/aRBOZj5)
+ - 💣 [How to use a Aztec dead whistle in the modern age](http://9gag.com/gag/amopWD4)
+ - 😝 [When you feel the music at the game](http://9gag.com/gag/abAQ1MO)
+ - 👉 [F**k you and I&#39;ll see you tomorrow](http://9gag.com/gag/a0eM0RZ)<!-- MEMES:END -->
 
 ---
 

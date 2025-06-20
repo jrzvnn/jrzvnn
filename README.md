@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Highway patrol is no joke](http://9gag.com/gag/ae97OVq)
- - 😝 [What is this technique called](http://9gag.com/gag/agmE1mK)
- - 💣 [It is an older meme, but still checks out](http://9gag.com/gag/a6ZjZYN)
  - 😝 [The comments make this post even better.](http://9gag.com/gag/aD2OnXG)
- - 👉 [Appearances are deceptive](http://9gag.com/gag/aO8ReyR)<!-- MEMES:END -->
+ - 😝 [How to use a Aztec dead whistle in the modern age](http://9gag.com/gag/amopWD4)
+ - 💣 [Appearances are deceptive](http://9gag.com/gag/aO8ReyR)
+ - 😝 [Airport security in the 90ies](http://9gag.com/gag/ae97ZGj)
+ - 👉 [First day at work](http://9gag.com/gag/aRBOZj5)<!-- MEMES:END -->
 
 ---
 

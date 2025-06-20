@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to import eBooks and PDFs from Messages to Apple Books](https://appleinsider.com/inside/ios-18/tips/how-to-import-ebooks-and-pdfs-from-messages-to-apple-books?utm_medium=rss)
+ - [Sources: Mira Murati&#39;s Thinking Machines Lab raised $2B led by a16z at a $10B valuation; Murati will hold board voting rights that outweigh all other directors &lpar;Financial Times&rpar;](http://www.techmeme.com/250620/p18#a250620p18)
  - [Apple devices in EU getting repair scores &amp; battery life labels](https://appleinsider.com/articles/25/06/20/apple-devices-in-eu-getting-repair-scores-battery-life-labels?utm_medium=rss)
  - [Uber expands its data-labeling platform Uber AI Solutions to 30 countries, and adds new offerings like tools for developing AI agents and ready-to-use datasets &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/250620/p17#a250620p17)
- - [AirPods &amp; AirPods Pro in iOS 26 hands on: Camera control, new notifications, and more](https://appleinsider.com/articles/25/06/20/airpods-airpods-pro-in-ios-26-hands-on-camera-control-new-notifications-and-more?utm_medium=rss)
- - [Snap acquires Saturn, a calendar app for high school and college students, and says 80% of US high schoolers attend schools that support Saturn &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/250620/p16#a250620p16)
- - [Grab Apple&#39;s 1TB M4 MacBook Pro for $1,599 during month-end sale](https://appleinsider.com/articles/25/06/20/grab-apples-1tb-m4-macbook-pro-for-1599-during-month-end-sale?utm_medium=rss)<!-- TECH:END -->
+ - [AirPods &amp; AirPods Pro in iOS 26 hands on: Camera control, new notifications, and more](https://appleinsider.com/articles/25/06/20/airpods-airpods-pro-in-ios-26-hands-on-camera-control-new-notifications-and-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

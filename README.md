@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The pilot&#39;s office view at night](http://9gag.com/gag/ae974wq)
- - 😝 [Aaah... Japan](http://9gag.com/gag/a5QqQVN)
- - 💣 [Makes sense](http://9gag.com/gag/aE0O0DM)
- - 😝 [FAFO trucker edition](http://9gag.com/gag/a2vLwgO)
- - 👉 [Grass is all he needed](http://9gag.com/gag/an7rnqB)<!-- MEMES:END -->
+ - 😝 [Give me your craziest memes you degenerates](http://9gag.com/gag/a87K6x1)
+ - 😝 [When Mom&#39;s feeling adventurous and wants to ride down the slide:](http://9gag.com/gag/a6ZjDqm)
+ - 💣 [Spot the war zones](http://9gag.com/gag/aByOyqQ)
+ - 😝 [Soon](http://9gag.com/gag/axyYvZD)
+ - 👉 [It is an older meme, but still checks out](http://9gag.com/gag/a6ZjZYN)<!-- MEMES:END -->
 
 ---
 

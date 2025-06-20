@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A bit late, but this is for the pops](http://9gag.com/gag/aNDO9xw)
- - 😝 [Does anyone else think george martin is just lazy?](http://9gag.com/gag/aD2O7mw)
+ - 😝 [The skill of night workers is impressive.](http://9gag.com/gag/ajPWO9Q)
+ - 😝 [Soon](http://9gag.com/gag/axyYvZD)
  - 💣 [Appearances are deceptive](http://9gag.com/gag/aO8ReyR)
- - 😝 [Super Sentai knew what they were doing](http://9gag.com/gag/aMVOmAX)
- - 👉 [The skill of night workers is impressive.](http://9gag.com/gag/ajPWO9Q)<!-- MEMES:END -->
+ - 😝 [Little help](http://9gag.com/gag/aVvVg7P)
+ - 👉 [Kid wanted his chocolate milk mixed with a power tool.](http://9gag.com/gag/avydeDM)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Soon](http://9gag.com/gag/axyYvZD)
  - 😝 [The comments make this post even better.](http://9gag.com/gag/aD2OnXG)
- - 💣 [Super Sentai knew what they were doing](http://9gag.com/gag/aMVOmAX)
- - 😝 [It is an older meme, but still checks out](http://9gag.com/gag/a6ZjZYN)
- - 👉 [Airport security in the 90ies](http://9gag.com/gag/ae97ZGj)<!-- MEMES:END -->
+ - 😝 [Soon](http://9gag.com/gag/axyYvZD)
+ - 💣 [Airport security in the 90ies](http://9gag.com/gag/ae97ZGj)
+ - 😝 [How to use a Aztec dead whistle in the modern age](http://9gag.com/gag/amopWD4)
+ - 👉 [The skill of night workers is impressive.](http://9gag.com/gag/ajPWO9Q)<!-- MEMES:END -->
 
 ---
 

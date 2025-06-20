@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Aaah... Japan](http://9gag.com/gag/a5QqQVN)
- - 😝 [FAFO trucker edition](http://9gag.com/gag/a2vLwgO)
- - 💣 [Math joke](http://9gag.com/gag/avydyzM)
+ - 😝 [Grass is all he needed](http://9gag.com/gag/an7rnqB)
+ - 😝 [Soon](http://9gag.com/gag/axyYvZD)
+ - 💣 [Aaah... Japan](http://9gag.com/gag/a5QqQVN)
  - 😝 [It is an older meme, but still checks out](http://9gag.com/gag/a6ZjZYN)
- - 👉 [FAFO&#39;s Vitaly Progress Update](http://9gag.com/gag/a7opoZe)<!-- MEMES:END -->
+ - 👉 [The skill of night workers is impressive.](http://9gag.com/gag/ajPWO9Q)<!-- MEMES:END -->
 
 ---
 

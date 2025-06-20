@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta held discussions with Perplexity about a possible takeover before moving ahead with a $14.3B investment in Scale AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250620/p14#a250620p14)
- - [Coinbase says it has secured a MiCA license from Luxembourg to offer crypto services across the EU, and will shift its European base from Ireland to Luxembourg &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250620/p13#a250620p13)
- - [‘Major Anomaly’ Behind Latest SpaceX Starship Explosion](https://www.wired.com/story/spacex-starship-explosion-major-anomaly/)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, June 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-june-20/#ftag=CAD590a51e)
- - [Sources: Reddit is exploring Tools for Humanity&#39;s World ID identity system to allow users to verify that they are unique individuals while remaining anonymous &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250620/p12#a250620p12)<!-- TECH:END -->
+ - [Character.AI hires Karandeep Anand, former Meta VP of Business Products, as CEO, 10 months after Google hired away the startup&#39;s co-founder and CEO Noam Shazeer &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250620/p15#a250620p15)
+ - [Apple’s tiny M4 Mac mini has dropped to its lowest price yet](https://www.theverge.com/tech/690172/apple-mac-mini-m4-powerbeats-pro-earbuds-deal-sale)
+ - [How to train smarter with Workout Buddy in iOS 26 &amp; watchOS 26](https://appleinsider.com/inside/watchos-26/tips/how-to-train-smarter-with-workout-buddy-in-ios-26-watchos-26?utm_medium=rss)
+ - [Authors Are Posting TikToks to Protest AI Use in Writing—and to Prove They Aren’t Doing It](https://www.wired.com/story/authors-are-posting-tiktoks-to-protest-ai-use-in-writing-and-to-prove-they-arent-doing-it/)
+ - [&#39;28 Years Later&#39; Director Danny Boyle Says Shooting on iPhones Let Him Capture &#39;Startling&#39; Violence](https://www.wired.com/story/danny-boyle-says-shooting-on-iphones-let-him-capture-startling-violence-in-28-years-later/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

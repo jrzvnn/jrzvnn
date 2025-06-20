@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok ban enforcement delayed another 90 days to September 17](https://appleinsider.com/articles/25/06/19/tiktok-ban-delayed-another-90-days-to-september-17?utm_medium=rss)
- - [Miami-based Payabli, which provides software companies with an embedded payments platform, raised a $28M Series B led by Fika Ventures and QED Investors &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250619/p34#a250619p34)
- - [Decade-old &#39;Shot on iPhone&#39; ad campaign awarded at Cannes Lions](https://appleinsider.com/articles/25/06/19/decade-old-shot-on-iphone-ad-campaign-awarded-at-cannes-lions?utm_medium=rss)
- - [Seattle Sounders vs. Atlético Madrid From Anywhere for Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/seattle-sounders-vs-atletico-madrid-from-anywhere-for-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)
- - [Marvel&#39;s &#39;Ironheart&#39;: Release Date and How to Watch](https://www.cnet.com/tech/services-and-software/marvels-ironheart-release-date-and-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PSG vs. Botafogo From Anywhere for Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/psg-vs-botafogo-from-anywhere-for-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)
+ - [Seenda CBD 2 peripheral set and MBD 5 mouse review: Affordable and unapologetically plastic](https://appleinsider.com/articles/25/06/20/seenda-cbd-2-peripheral-set-and-mbd-5-mouse-review-affordable-and-unapologetically-plastic?utm_medium=rss)
+ - [Sources: Meta tried to buy Safe Superintelligence earlier this year; Zuckerberg moved to recruit SSI CEO Daniel Gross after Ilya Sutskever rebuffed the offer &lpar;Kate Rooney/CNBC&rpar;](http://www.techmeme.com/250619/p35#a250619p35)
+ - [It&#39;s not just you, Apple Intelligence is down](https://appleinsider.com/articles/25/06/19/its-not-just-you-apple-intelligence-is-down?utm_medium=rss)
+ - [TikTok ban enforcement delayed another 90 days to September 17](https://appleinsider.com/articles/25/06/19/tiktok-ban-delayed-another-90-days-to-september-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

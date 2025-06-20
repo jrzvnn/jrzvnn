@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [We all did this at some point, right?](http://9gag.com/gag/abAQeNB)
+ - 😝 [Makes sense](http://9gag.com/gag/aE0O0DM)
+ - 💣 [Random](http://9gag.com/gag/awyYgo8)
  - 😝 [First day at work](http://9gag.com/gag/aRBOZj5)
- - 😝 [When Mom&#39;s feeling adventurous and wants to ride down the slide:](http://9gag.com/gag/a6ZjDqm)
- - 💣 [Grass is all he needed](http://9gag.com/gag/an7rnqB)
- - 😝 [Math joke](http://9gag.com/gag/avydyzM)
- - 👉 [Be one step ahead](http://9gag.com/gag/agmEm6K)<!-- MEMES:END -->
+ - 👉 [Math joke](http://9gag.com/gag/avydyzM)<!-- MEMES:END -->
 
 ---
 

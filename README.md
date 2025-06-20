@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AirPods &amp; AirPods Pro in iOS 26 hands on: Camera control, new notifications, and more](https://appleinsider.com/articles/25/06/20/airpods-airpods-pro-in-ios-26-hands-on-camera-control-new-notifications-and-more?utm_medium=rss)
+ - [Snap acquires Saturn, a calendar app for high school and college students, and says 80% of US high schoolers attend schools that support Saturn &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/250620/p16#a250620p16)
+ - [Grab Apple&#39;s 1TB M4 MacBook Pro for $1,599 during month-end sale](https://appleinsider.com/articles/25/06/20/grab-apples-1tb-m4-macbook-pro-for-1599-during-month-end-sale?utm_medium=rss)
  - [Character.AI hires Karandeep Anand, former Meta VP of Business Products, as CEO, 10 months after Google hired away the startup&#39;s co-founder and CEO Noam Shazeer &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250620/p15#a250620p15)
- - [Apple’s tiny M4 Mac mini has dropped to its lowest price yet](https://www.theverge.com/tech/690172/apple-mac-mini-m4-powerbeats-pro-earbuds-deal-sale)
- - [How to train smarter with Workout Buddy in iOS 26 &amp; watchOS 26](https://appleinsider.com/inside/watchos-26/tips/how-to-train-smarter-with-workout-buddy-in-ios-26-watchos-26?utm_medium=rss)
- - [Applebee&amp;#8217;s and IHOP have plans for AI](https://www.theverge.com/news/690458/applebees-ihop-ai-restaraunt-recommendations)
- - [Sources: Meta held discussions with Perplexity about a possible takeover before moving ahead with a $14.3B investment in Scale AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250620/p14#a250620p14)<!-- TECH:END -->
+ - [Apple’s tiny M4 Mac mini has dropped to its lowest price yet](https://www.theverge.com/tech/690172/apple-mac-mini-m4-powerbeats-pro-earbuds-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

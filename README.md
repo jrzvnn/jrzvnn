@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now f**k off and see you tomorrow](http://9gag.com/gag/ae97O5W)
- - 😝 [Cop who was controversially fired last month for his `robust` apprehension of a knife-carrying criminal after failing to treat him with &#39;courtesy and respect&#39; - didn&#39;t think twice about putting himself in harm&#39;s way again to tackle another thief n held him down till police arrive](http://9gag.com/gag/ae97ZwB)
- - 💣 [That halo of sparks is incredible, and yes, hell yeah.](http://9gag.com/gag/amop69X)
- - 😝 [Airport security in the 90ies](http://9gag.com/gag/ae97ZGj)
- - 👉 [They were paintings?!](http://9gag.com/gag/aZZz803)<!-- MEMES:END -->
+ - 😝 [Be you, not them!](http://9gag.com/gag/ayNY6GW)
+ - 😝 [When the chow hall surprises you with something special](http://9gag.com/gag/a9yOvXK)
+ - 💣 [What kind of person would enjoy something like this!?! &lpar;Me&rpar;](http://9gag.com/gag/azxYGgZ)
+ - 😝 [Hmm, maybe that&#39;s why it clears you up so well](http://9gag.com/gag/azxY5vx)
+ - 👉 [The pilot&#39;s office view at night](http://9gag.com/gag/ae974wq)<!-- MEMES:END -->
 
 ---
 

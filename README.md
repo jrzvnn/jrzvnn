@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [It wasn&#39;t just you, Apple Intelligence was down [u]](https://appleinsider.com/articles/25/06/19/its-not-just-you-apple-intelligence-is-down?utm_medium=rss)
+ - [A government-backed tech trial in Australia finds user age checks are technologically possible, clearing the way for a social media ban for under-16s this year &lpar;Angus Whitley/Bloomberg&rpar;](http://www.techmeme.com/250619/p37#a250619p37)
+ - [Milan-based Jet HR, which provides all-in-one payroll and HR services to SMBs, raised €25M led by Base10 Partners, bringing its total funding to about €42M &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250619/p36#a250619p36)
  - [PSG vs. Botafogo From Anywhere for Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/psg-vs-botafogo-from-anywhere-for-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)
- - [Seenda CBD 2 peripheral set and MBD 5 mouse review: Affordable and unapologetically plastic](https://appleinsider.com/articles/25/06/20/seenda-cbd-2-peripheral-set-and-mbd-5-mouse-review-affordable-and-unapologetically-plastic?utm_medium=rss)
- - [Sources: Meta tried to buy Safe Superintelligence earlier this year; Zuckerberg moved to recruit SSI CEO Daniel Gross after Ilya Sutskever rebuffed the offer &lpar;Kate Rooney/CNBC&rpar;](http://www.techmeme.com/250619/p35#a250619p35)
- - [It&#39;s not just you, Apple Intelligence is down](https://appleinsider.com/articles/25/06/19/its-not-just-you-apple-intelligence-is-down?utm_medium=rss)
- - [TikTok ban enforcement delayed another 90 days to September 17](https://appleinsider.com/articles/25/06/19/tiktok-ban-delayed-another-90-days-to-september-17?utm_medium=rss)<!-- TECH:END -->
+ - [Seenda CBD 2 peripheral set and MBD 5 mouse review: Affordable and unapologetically plastic](https://appleinsider.com/articles/25/06/20/seenda-cbd-2-peripheral-set-and-mbd-5-mouse-review-affordable-and-unapologetically-plastic?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

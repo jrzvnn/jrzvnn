@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple execs have held internal discussions about bidding for, or partnering with, Perplexity, seeking to address the need for more AI talent and tech &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250620/p23#a250620p23)
  - [Cluely, which wants to help users &quot;cheat on everything&quot;, including job interviews and exams, raised a $15M Series A led by a16z, two months after a $5.3M seed &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250620/p22#a250620p22)
  - [The best Apple deals you can shop ahead of Amazon Prime Day](https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals)
  - [Apple shareholders sue over Siri delays and massive losses](https://appleinsider.com/articles/25/06/20/apple-shareholders-sue-over-siri-delays-and-massive-losses?utm_medium=rss)
- - [‘Wall-E With a Gun’: Midjourney Generates Videos of Disney Characters Amid Massive Copyright Lawsuit](https://www.wired.com/story/midjourney-generates-videos-of-disney-characters-amid-massive-copyright-lawsuit/)
- - [Amazon ends an experiment started in 2023 to make same-day deliveries with drivers in Kia Souls and will rely on Amazon Flex drivers who use their own cars &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/250620/p21#a250620p21)<!-- TECH:END -->
+ - [Cybercriminals Breach Aflac, Private Customer Data Could Be At Risk](https://www.cnet.com/tech/services-and-software/cybercriminals-breach-aflac-private-customer-data-could-be-at-risk/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New &amp; questionable leak points to iPhone 17 pastel color options](https://appleinsider.com/articles/25/06/20/new-questionable-leak-points-to-iphone-17-pastel-color-options?utm_medium=rss)
+ - [macOS Tahoe review -- glossy changes mask genuine improvements](https://appleinsider.com/articles/25/06/20/macos-tahoe-review----glossy-changes-mask-genuine-improvements?utm_medium=rss)
+ - [Sources: an official told Samsung, SK Hynix, and TSMC that the US wants to revoke waivers that let them ship American chipmaking equipment to Chinese factories &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250620/p10#a250620p10)
  - [3 Best Thermal Brush, Tested and Reviewed by WIRED &lpar;2025&rpar;](https://www.wired.com/gallery/best-thermal-brush/)
- - [What Lt. Col. Boz and a Band of Tech Exec Brothers Will Do in the Army](https://www.wired.com/story/what-lt-col-boz-and-big-techs-enlisted-execs-will-do-in-the-army/)
- - [Developers criticize Google for its decision to hide raw reasoning tokens, essential for debugging complex AI workflows, of its flagship model Gemini 2.5 Pro &lpar;Ben Dickson/VentureBeat&rpar;](http://www.techmeme.com/250620/p9#a250620p9)
- - [Watch a video &amp; download Apple&#39;s presentation to get your parents to buy you a Mac](https://appleinsider.com/articles/25/06/20/watch-a-video-download-apples-presentation-to-get-your-parents-to-buy-you-a-mac?utm_medium=rss)
- - [Amazon improves Kindle accessibility with new text spacing adjustments](https://www.theverge.com/news/690259/amazon-kindle-software-update-accessibility-text-spacing-settings)<!-- TECH:END -->
+ - [What Big Tech&#39;s Band of Execs Will Do in the Army](https://www.wired.com/story/what-lt-col-boz-and-big-techs-enlisted-execs-will-do-in-the-army/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

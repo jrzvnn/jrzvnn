@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Summer vacation fun](http://9gag.com/gag/a0eMXBv)
- - 😝 [The pilot&#39;s office view at night](http://9gag.com/gag/ae974wq)
- - 💣 [A bit late, but this is for the pops](http://9gag.com/gag/aNDO9xw)
- - 😝 [We all did this at some point, right?](http://9gag.com/gag/abAQeNB)
- - 👉 [Kid wanted his chocolate milk mixed with a power tool.](http://9gag.com/gag/avydeDM)<!-- MEMES:END -->
+ - 😝 [Grass is all he needed](http://9gag.com/gag/an7rnqB)
+ - 😝 [Now f**k off and see you tomorrow](http://9gag.com/gag/ae97O5W)
+ - 💣 [Day 4 the stem of the right one gets dark and i think it will start to rotten. Bad News for the `life hack`](http://9gag.com/gag/a7op0vA)
+ - 😝 [That halo of sparks is incredible, and yes, hell yeah.](http://9gag.com/gag/amop69X)
+ - 👉 [Airport security in the 90ies](http://9gag.com/gag/ae97ZGj)<!-- MEMES:END -->
 
 ---
 

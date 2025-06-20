@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Give me your craziest memes you degenerates](http://9gag.com/gag/a87K6x1)
- - 😝 [When Mom&#39;s feeling adventurous and wants to ride down the slide:](http://9gag.com/gag/a6ZjDqm)
- - 💣 [Spot the war zones](http://9gag.com/gag/aByOyqQ)
+ - 😝 [Makes sense](http://9gag.com/gag/aE0O0DM)
  - 😝 [Soon](http://9gag.com/gag/axyYvZD)
- - 👉 [It is an older meme, but still checks out](http://9gag.com/gag/a6ZjZYN)<!-- MEMES:END -->
+ - 💣 [How to use a Aztec dead whistle in the modern age](http://9gag.com/gag/amopWD4)
+ - 😝 [Super Sentai knew what they were doing](http://9gag.com/gag/aMVOmAX)
+ - 👉 [Summer vacation fun](http://9gag.com/gag/a0eMXBv)<!-- MEMES:END -->
 
 ---
 

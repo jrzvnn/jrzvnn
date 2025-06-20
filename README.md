@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Slide](http://9gag.com/gag/a4PWzvp)
- - 😝 [The comments make this post even better.](http://9gag.com/gag/aD2OnXG)
+ - 😝 [Kid wanted his chocolate milk mixed with a power tool.](http://9gag.com/gag/avydeDM)
  - 💣 [When you feel the music at the game](http://9gag.com/gag/abAQ1MO)
- - 😝 [How to use a Aztec dead whistle in the modern age](http://9gag.com/gag/amopWD4)
+ - 😝 [First day at work](http://9gag.com/gag/aRBOZj5)
  - 👉 [A bit late, but this is for the pops](http://9gag.com/gag/aNDO9xw)<!-- MEMES:END -->
 
 ---

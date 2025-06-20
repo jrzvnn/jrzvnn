@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Math joke](http://9gag.com/gag/avydyzM)
- - 😝 [Be one step ahead](http://9gag.com/gag/agmEm6K)
- - 💣 [Appearances are deceptive](http://9gag.com/gag/aO8ReyR)
- - 😝 [How to use a Aztec dead whistle in the modern age](http://9gag.com/gag/amopWD4)
- - 👉 [It is an older meme, but still checks out](http://9gag.com/gag/a6ZjZYN)<!-- MEMES:END -->
+ - 😝 [It is an older meme, but still checks out](http://9gag.com/gag/a6ZjZYN)
+ - 😝 [Aaah... Japan](http://9gag.com/gag/a5QqQVN)
+ - 💣 [The skill of night workers is impressive.](http://9gag.com/gag/ajPWO9Q)
+ - 😝 [Appearances are deceptive](http://9gag.com/gag/aO8ReyR)
+ - 👉 [What is this technique called](http://9gag.com/gag/agmE1mK)<!-- MEMES:END -->
 
 ---
 

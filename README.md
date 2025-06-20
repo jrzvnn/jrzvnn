@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The pilot&#39;s office view at night](http://9gag.com/gag/ae974wq)
- - 😝 [It is an older meme, but still checks out](http://9gag.com/gag/a6ZjZYN)
- - 💣 [Bro is in a league of his own. That gal not even comes close. A true chameleon \ud83c\udfad](http://9gag.com/gag/a1mEN9b)
- - 😝 [FAFO&#39;s Vitaly Progress Update](http://9gag.com/gag/a7opoZe)
- - 👉 [Math joke](http://9gag.com/gag/avydyzM)<!-- MEMES:END -->
+ - 😝 [Aaah... Japan](http://9gag.com/gag/a5QqQVN)
+ - 😝 [Be one step ahead](http://9gag.com/gag/agmEm6K)
+ - 💣 [Math joke](http://9gag.com/gag/avydyzM)
+ - 😝 [Planned obsolescence should not be a thing](http://9gag.com/gag/amopWPv)
+ - 👉 [Grass is all he needed](http://9gag.com/gag/an7rnqB)<!-- MEMES:END -->
 
 ---
 

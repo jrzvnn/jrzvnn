@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [South Korea&#39;s SK Group and AWS will invest ~$5.1B including $4B from AWS to build a 100 MW AI data center in Ulsan by 2029, and plan to expand capacity to 1 GW &lpar;Reuters&rpar;](http://www.techmeme.com/250620/p5#a250620p5)
+ - [Israeli authorities urge citizens to turn off home cameras, and say Iran is tapping into security cameras in Israel to gather real-time intelligence for attacks &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/250620/p4#a250620p4)
+ - [How AI Is Helping Kids Find the Right College](https://www.wired.com/story/how-ai-is-helping-kids-find-the-right-college/)
  - [Print. Fold. Share. Download WIRED&#39;s How to Win a Fight Zine Here](https://www.wired.com/story/download-how-to-win-a-fight-zine/)
- - [A False Start on the Road to an All-American Bitcoin](https://www.wired.com/story/a-false-start-on-the-road-to-an-all-american-bitcoin/)
- - [How JD.com is taking on China&#39;s food-delivery duopoly with viral stunts, low commissions, and deep discounts, prompting Meituan and Alibaba&#39;s Ele.me to respond &lpar;Bloomberg&rpar;](http://www.techmeme.com/250620/p3#a250620p3)
- - [How to Convert an Analog Bike to an Electric Bike &lpar;2025&rpar;](https://www.wired.com/story/how-to-convert-an-analog-bike-to-an-electric-bike/)
- - [11 Best Vibrators of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-vibrators/)<!-- TECH:END -->
+ - [A False Start on the Road to an All-American Bitcoin](https://www.wired.com/story/a-false-start-on-the-road-to-an-all-american-bitcoin/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

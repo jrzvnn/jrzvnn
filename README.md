@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Slide](http://9gag.com/gag/a4PWzvp)
- - 😝 [Kid wanted his chocolate milk mixed with a power tool.](http://9gag.com/gag/avydeDM)
+ - 😝 [The comments make this post even better.](http://9gag.com/gag/aD2OnXG)
+ - 😝 [When Mom&#39;s feeling adventurous and wants to ride down the slide:](http://9gag.com/gag/a6ZjDqm)
  - 💣 [When you feel the music at the game](http://9gag.com/gag/abAQ1MO)
- - 😝 [First day at work](http://9gag.com/gag/aRBOZj5)
- - 👉 [A bit late, but this is for the pops](http://9gag.com/gag/aNDO9xw)<!-- MEMES:END -->
+ - 😝 [See, not a problem. We do not need censored stuff.](http://9gag.com/gag/a34b5Y8)
+ - 👉 [Soon](http://9gag.com/gag/axyYvZD)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Reddit is exploring Tools for Humanity&#39;s World ID identity system to allow users to verify that they are unique individuals while remaining anonymous &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250620/p12#a250620p12)
- - [Silicon Valley is pushing senators to follow the House in reviving a favorable tax benefit that disappeared because of a US tax law Section 174 change in 2017 &lpar;Axios&rpar;](http://www.techmeme.com/250620/p11#a250620p11)
- - [How to find the best deals during Amazon’s four-day Prime Day sale](https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find)
- - [Best Windows Laptop for 2025](https://www.cnet.com/tech/computing/best-windows-laptop/#ftag=CAD590a51e)
- - [How to Watch England vs. India From Anywhere for Free: Livestream 1st Test Cricket](https://www.cnet.com/tech/services-and-software/how-to-watch-england-vs-india-from-anywhere-for-free-livestream-1st-test-cricket/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Meta held discussions with Perplexity about a possible takeover before moving ahead with a $14.3B investment in Scale AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250620/p14#a250620p14)
+ - [Coinbase says it has secured a MiCA license from Luxembourg to offer crypto services across the EU, and will shift its European base from Ireland to Luxembourg &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250620/p13#a250620p13)
+ - [‘Major Anomaly’ Behind Latest SpaceX Starship Explosion](https://www.wired.com/story/spacex-starship-explosion-major-anomaly/)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, June 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-june-20/#ftag=CAD590a51e)
+ - [Sources: Reddit is exploring Tools for Humanity&#39;s World ID identity system to allow users to verify that they are unique individuals while remaining anonymous &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250620/p12#a250620p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

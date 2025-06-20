@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [11 Best Vibrators of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-vibrators/)
  - [Best Internet Providers in Tampa, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-tampa-fl/#ftag=CAD590a51e)
  - [Best Internet Providers in Orlando, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-orlando-fl/#ftag=CAD590a51e)
  - [Cloudflare CEO Matthew Prince said Google&#39;s ratio of pages crawled per visitor sent to a publisher fell from 2:1 10 years ago to 6:1 six months ago to 18:1 now &lpar;Christine Wang/Axios&rpar;](http://www.techmeme.com/250620/p2#a250620p2)
- - [Here’s My Experience With 5 Cheap Gadgets I Bought From AliExpress](https://www.cnet.com/home/smart-home/experience-buying-cheap-gadgets-from-aliexpress/#ftag=CAD590a51e)
- - [In a letter to CEO Aravind Srinivas, the BBC says it has evidence Perplexity&#39;s default model used its content and seeks &quot;a proposal for financial compensation&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250620/p1#a250620p1)<!-- TECH:END -->
+ - [Here’s My Experience With 5 Cheap Gadgets I Bought From AliExpress](https://www.cnet.com/home/smart-home/experience-buying-cheap-gadgets-from-aliexpress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

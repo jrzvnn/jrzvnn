@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Aaah... Japan](http://9gag.com/gag/a5QqQVN)
- - 😝 [Be one step ahead](http://9gag.com/gag/agmEm6K)
- - 💣 [Math joke](http://9gag.com/gag/avydyzM)
- - 😝 [Planned obsolescence should not be a thing](http://9gag.com/gag/amopWPv)
- - 👉 [Grass is all he needed](http://9gag.com/gag/an7rnqB)<!-- MEMES:END -->
+ - 😝 [First day at work](http://9gag.com/gag/aRBOZj5)
+ - 😝 [When Mom&#39;s feeling adventurous and wants to ride down the slide:](http://9gag.com/gag/a6ZjDqm)
+ - 💣 [Grass is all he needed](http://9gag.com/gag/an7rnqB)
+ - 😝 [Math joke](http://9gag.com/gag/avydyzM)
+ - 👉 [Be one step ahead](http://9gag.com/gag/agmEm6K)<!-- MEMES:END -->
 
 ---
 

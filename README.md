@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Be you, not them!](http://9gag.com/gag/ayNY6GW)
- - 😝 [When the chow hall surprises you with something special](http://9gag.com/gag/a9yOvXK)
- - 💣 [What kind of person would enjoy something like this!?! &lpar;Me&rpar;](http://9gag.com/gag/azxYGgZ)
+ - 😝 [What is this technique called](http://9gag.com/gag/agmE1mK)
  - 😝 [Hmm, maybe that&#39;s why it clears you up so well](http://9gag.com/gag/azxY5vx)
- - 👉 [The pilot&#39;s office view at night](http://9gag.com/gag/ae974wq)<!-- MEMES:END -->
+ - 💣 [When the chow hall surprises you with something special](http://9gag.com/gag/a9yOvXK)
+ - 😝 [Be you, not them!](http://9gag.com/gag/ayNY6GW)
+ - 👉 [How to use a Aztec dead whistle in the modern age](http://9gag.com/gag/amopWD4)<!-- MEMES:END -->
 
 ---
 

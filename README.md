@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Foxconn growing India iPhone manufacturing footprint with chassis factory](https://appleinsider.com/articles/25/06/20/foxconn-growing-india-iphone-manufacturing-footprint-with-chassis-factory?utm_medium=rss)
  - [The FDA Just Approved a Long-Lasting Injection to Prevent HIV](https://www.wired.com/story/fda-finally-approves-lenacapavir-preventive-hiv-treatment-gilead/)
  - [The 9 Best Pillows &lpar;2025&rpar; Tested and Reviewed by WIRED](https://www.wired.com/gallery/best-pillows/)
- - [Concha Sol Hearing Aids Review: Feeling Dated](https://www.wired.com/review/concha-sol-hearing-aids/)
- - [&#39;28 Years Later&#39; Director Danny Boyle Says Shooting on iPhones Let Him Capture &#39;Startling&#39; Violence](https://www.wired.com/story/danny-boyle-says-shooting-on-iphones-let-him-capture-startling-violence-in-28-years-later/)
- - [South Korea&#39;s SK Group and AWS will invest ~$5.1B including $4B from AWS to build a 100 MW AI data center in Ulsan by 2029, and plan to expand capacity to 1 GW &lpar;Reuters&rpar;](http://www.techmeme.com/250620/p5#a250620p5)<!-- TECH:END -->
+ - [The Turtle Beach Stealth 700 Gen 3 Headphones Are Fantastic for Gaming, With One Big Compromise](https://www.cnet.com/tech/gaming/the-turtle-beach-stealth-700-gen-3-headphones-are-fantastic-for-gaming-with-one-big-compromise/#ftag=CAD590a51e)
+ - [Finding Recently Saved Photos on My iPhone Is Much Easier With This One Change](https://www.cnet.com/tech/services-and-software/finding-recently-saved-photos-on-my-iphone-is-much-easier-with-this-one-change/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

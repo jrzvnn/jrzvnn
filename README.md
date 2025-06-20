@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let&#39;s see if the empowered feminist want to take this job](http://9gag.com/gag/a6ZjZr8)
- - 😝 [He almost saw heaven.](http://9gag.com/gag/aXPKPAz)
- - 💣 [Little help](http://9gag.com/gag/aVvVg7P)
- - 😝 [I hate YOU! And i love you... JK I HATE YOU TOO](http://9gag.com/gag/aRBOB6G)
- - 👉 [Random](http://9gag.com/gag/awyYgo8)<!-- MEMES:END -->
+ - 😝 [The pilot&#39;s office view at night](http://9gag.com/gag/ae974wq)
+ - 😝 [It is an older meme, but still checks out](http://9gag.com/gag/a6ZjZYN)
+ - 💣 [Bro is in a league of his own. That gal not even comes close. A true chameleon \ud83c\udfad](http://9gag.com/gag/a1mEN9b)
+ - 😝 [FAFO&#39;s Vitaly Progress Update](http://9gag.com/gag/a7opoZe)
+ - 👉 [Math joke](http://9gag.com/gag/avydyzM)<!-- MEMES:END -->
 
 ---
 

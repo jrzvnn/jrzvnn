@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [South Korea&#39;s SK Group and AWS will invest ~$5.1B including $4B from AWS to build a 100 MW AI data center in Ulsan by 2029, and plan to expand capacity to 1 GW &lpar;Reuters&rpar;](http://www.techmeme.com/250620/p5#a250620p5)
  - [Israeli authorities urge citizens to turn off home cameras, and say Iran is tapping into security cameras in Israel to gather real-time intelligence for attacks &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/250620/p4#a250620p4)
+ - [Best Internet Providers in Colorado Springs, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-colorado-springs-co/#ftag=CAD590a51e)
  - [How AI Is Helping Kids Find the Right College](https://www.wired.com/story/how-ai-is-helping-kids-find-the-right-college/)
- - [Print. Fold. Share. Download WIRED&#39;s How to Win a Fight Zine Here](https://www.wired.com/story/download-how-to-win-a-fight-zine/)
- - [A False Start on the Road to an All-American Bitcoin](https://www.wired.com/story/a-false-start-on-the-road-to-an-all-american-bitcoin/)<!-- TECH:END -->
+ - [Schedule a Text to Send Later With This iPhone Trick](https://www.cnet.com/tech/services-and-software/schedule-a-text-to-send-later-with-this-iphone-trick/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

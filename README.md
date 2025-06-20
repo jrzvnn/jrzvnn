@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We all did this at some point, right?](http://9gag.com/gag/abAQeNB)
- - 😝 [Makes sense](http://9gag.com/gag/aE0O0DM)
- - 💣 [Random](http://9gag.com/gag/awyYgo8)
- - 😝 [First day at work](http://9gag.com/gag/aRBOZj5)
- - 👉 [Math joke](http://9gag.com/gag/avydyzM)<!-- MEMES:END -->
+ - 😝 [The pilot&#39;s office view at night](http://9gag.com/gag/ae974wq)
+ - 😝 [Aaah... Japan](http://9gag.com/gag/a5QqQVN)
+ - 💣 [Makes sense](http://9gag.com/gag/aE0O0DM)
+ - 😝 [FAFO trucker edition](http://9gag.com/gag/a2vLwgO)
+ - 👉 [Grass is all he needed](http://9gag.com/gag/an7rnqB)<!-- MEMES:END -->
 
 ---
 

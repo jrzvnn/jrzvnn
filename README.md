@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I guess he was cut off.](http://9gag.com/gag/aYQAEGq)
  - 😝 [Let&#39;s see if the empowered feminist want to take this job](http://9gag.com/gag/a6ZjZr8)
- - 💣 [Random](http://9gag.com/gag/awyYgo8)
- - 😝 [Little help](http://9gag.com/gag/aVvVg7P)
- - 👉 [That jump did not go as planned](http://9gag.com/gag/azxY5Rm)<!-- MEMES:END -->
+ - 😝 [He almost saw heaven.](http://9gag.com/gag/aXPKPAz)
+ - 💣 [Little help](http://9gag.com/gag/aVvVg7P)
+ - 😝 [I hate YOU! And i love you... JK I HATE YOU TOO](http://9gag.com/gag/aRBOB6G)
+ - 👉 [Random](http://9gag.com/gag/awyYgo8)<!-- MEMES:END -->
 
 ---
 

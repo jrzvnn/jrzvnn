@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 20, #270](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-20-270/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, June 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-june-20/#ftag=CAD590a51e)
  - [How to use Siri to get answers from ChatGPT](https://appleinsider.com/articles/25/02/11/how-to-use-siri-to-get-answers-from-chatgpt?utm_medium=rss)
  - [Sources: Foxconn plans to make iPhone enclosures in India and is looking to set up a new unit in Tamil Nadu; only Tata is currently making enclosures in India &lpar;Dia Rekhi/The Economic Times&rpar;](http://www.techmeme.com/250619/p38#a250619p38)
- - [It wasn&#39;t just you, Apple Intelligence was down [u]](https://appleinsider.com/articles/25/06/19/its-not-just-you-apple-intelligence-is-down?utm_medium=rss)
- - [A government-backed tech trial in Australia finds user age checks are technologically possible, clearing the way for a social media ban for under-16s this year &lpar;Angus Whitley/Bloomberg&rpar;](http://www.techmeme.com/250619/p37#a250619p37)
- - [Milan-based Jet HR, which provides all-in-one payroll and HR services to SMBs, raised €25M led by Base10 Partners, bringing its total funding to about €42M &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250619/p36#a250619p36)<!-- TECH:END -->
+ - [It wasn&#39;t just you, Apple Intelligence was down [u]](https://appleinsider.com/articles/25/06/19/its-not-just-you-apple-intelligence-is-down?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

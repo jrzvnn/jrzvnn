@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon ends an experiment started in 2023 to make same-day deliveries with drivers in Kia Souls and will rely on Amazon Flex drivers who use their own cars &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/250620/p21#a250620p21)
  - [Anthropic&#39;s test of 16 top AI models from OpenAI and others found that, in some cases, they resorted to malicious behavior to avoid replacement or achieve goals &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250620/p20#a250620p20)
- - [Seriously, What Is ‘Superintelligence’?](https://www.wired.com/story/uncanny-valley-podcast-superintelligence/)
- - [NYC announces new minimum-pay rules for rideshare drivers, settling on a 5% increase after Uber and Lyft strongly opposed a proposed 6.1% pay hike &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250620/p19#a250620p19)
- - [28 Years Later is a bleak fever dream with rage pumping through its veins](https://www.theverge.com/movie-reviews/689645/28-years-later-review)
- - [How to import eBooks and PDFs from Messages to Apple Books](https://appleinsider.com/inside/ios-18/tips/how-to-import-ebooks-and-pdfs-from-messages-to-apple-books?utm_medium=rss)<!-- TECH:END -->
+ - [Social Security Is Set to Dry Up Even Sooner. That&#39;s Why I&#39;m Not Relying on It for Retirement](https://www.cnet.com/personal-finance/the-social-security-is-set-to-dry-up-even-sooner-thats-why-im-not-relying-on-it-for-retirement/#ftag=CAD590a51e)
+ - [11 Great Horror Movies to Watch on Prime Video Now](https://www.cnet.com/tech/services-and-software/11-great-horror-movies-to-watch-on-prime-video-now/#ftag=CAD590a51e)
+ - [Seriously, What Is ‘Superintelligence’?](https://www.wired.com/story/uncanny-valley-podcast-superintelligence/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Reddit is exploring Tools for Humanity&#39;s World ID identity system to allow users to verify that they are unique individuals while remaining anonymous &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250620/p12#a250620p12)
  - [Silicon Valley is pushing senators to follow the House in reviving a favorable tax benefit that disappeared because of a US tax law Section 174 change in 2017 &lpar;Axios&rpar;](http://www.techmeme.com/250620/p11#a250620p11)
  - [How to find the best deals during Amazon’s four-day Prime Day sale](https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find)
  - [Best Windows Laptop for 2025](https://www.cnet.com/tech/computing/best-windows-laptop/#ftag=CAD590a51e)
- - [How to Watch England vs. India From Anywhere for Free: Livestream 1st Test Cricket](https://www.cnet.com/tech/services-and-software/how-to-watch-england-vs-india-from-anywhere-for-free-livestream-1st-test-cricket/#ftag=CAD590a51e)
- - [New &amp; questionable leak points to iPhone 17 pastel color options](https://appleinsider.com/articles/25/06/20/new-questionable-leak-points-to-iphone-17-pastel-color-options?utm_medium=rss)<!-- TECH:END -->
+ - [How to Watch England vs. India From Anywhere for Free: Livestream 1st Test Cricket](https://www.cnet.com/tech/services-and-software/how-to-watch-england-vs-india-from-anywhere-for-free-livestream-1st-test-cricket/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

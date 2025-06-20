@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Astro Bot’s director on making a PlayStation icon](https://www.theverge.com/games/689596/astro-bot-director-playstation-icon-gdc-2025)
- - [It wasn&#39;t just you, Apple Intelligence was down](https://appleinsider.com/articles/25/06/19/its-not-just-you-apple-intelligence-is-down?utm_medium=rss)
- - [macOS Tahoe deep dive, F1, iPadOS 26 Files speed testing on the AppleInsider Podcast](https://appleinsider.com/articles/25/06/20/macos-tahoe-deep-dive-f1-ipados-26-files-speed-testing-on-the-appleinsider-podcast?utm_medium=rss)
- - [Acer Swift 14 AI review: give it up for the ports](https://www.theverge.com/reviews/687771/acer-swift-14-ai-intel-lunar-lake-amd-strix-point-review)
- - [How Texas’ hands-off approach to autonomous vehicles gave Tesla an opening](https://www.theverge.com/tesla/689286/tesla-robotaxi-austin-texas-law-regulation-safety)<!-- TECH:END -->
+ - [Meta unveils Oakley smart glasses with same features as Ray-Ban glasses but with 3K video recording and double the battery life, available in summer for $399+ &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250620/p8#a250620p8)
+ - [Truth, lies, and the Trump Phone](https://www.theverge.com/the-vergecast/690202/trump-mobile-t1-phone-vergecast)
+ - [Gigabyte Radeon RX 9060 XT Review: Great Value Gaming](https://www.wired.com/review/amd-radeon-rx-9060-xt/)
+ - [Meta announces Oakley smart glasses](https://www.theverge.com/news/690133/meta-oakley-hstn-ai-glasses-price-date)
+ - [Five ways iPadOS 26 turns iPad into a productivity powerhouse](https://appleinsider.com/articles/25/06/20/five-ways-ipados-26-turns-ipad-into-a-productivity-powerhouse?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

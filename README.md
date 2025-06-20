@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The comments make this post even better.](http://9gag.com/gag/aD2OnXG)
- - 😝 [Appearances are deceptive](http://9gag.com/gag/aO8ReyR)
- - 💣 [In Japan drone is prohibited in urban area. Once you use it immediate arrest.](http://9gag.com/gag/agmE11W)
- - 😝 [First day at work](http://9gag.com/gag/aRBOZj5)
- - 👉 [Airport security in the 90ies](http://9gag.com/gag/ae97ZGj)<!-- MEMES:END -->
+ - 😝 [Gangsta Rap](http://9gag.com/gag/agmEOyW)
+ - 😝 [The only solution](http://9gag.com/gag/aYQAOeV)
+ - 💣 [British thoughts here..](http://9gag.com/gag/ae971Ev)
+ - 😝 [A bit late, but this is for the pops](http://9gag.com/gag/aNDO9xw)
+ - 👉 [Advice For Single Men](http://9gag.com/gag/a1mE7D6)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Foxconn and Nvidia are in talks to deploy humanoid robots at a new Foxconn factory in Houston by Q1 2026 to produce Nvidia AI servers &lpar;Wen-Yee Lee/Reuters&rpar;](http://www.techmeme.com/250620/p6#a250620p6)
- - [Foxconn growing India iPhone manufacturing footprint with chassis factory](https://appleinsider.com/articles/25/06/20/foxconn-growing-india-iphone-manufacturing-footprint-with-chassis-factory?utm_medium=rss)
- - [The FDA Just Approved a Long-Lasting Injection to Prevent HIV](https://www.wired.com/story/fda-finally-approves-lenacapavir-preventive-hiv-treatment-gilead/)
- - [The 9 Best Pillows &lpar;2025&rpar; Tested and Reviewed by WIRED](https://www.wired.com/gallery/best-pillows/)
- - [Concha Sol Hearing Aids Review: Feeling Dated](https://www.wired.com/review/concha-sol-hearing-aids/)<!-- TECH:END -->
+ - [Astro Bot’s director on making a PlayStation icon](https://www.theverge.com/games/689596/astro-bot-director-playstation-icon-gdc-2025)
+ - [It wasn&#39;t just you, Apple Intelligence was down](https://appleinsider.com/articles/25/06/19/its-not-just-you-apple-intelligence-is-down?utm_medium=rss)
+ - [macOS Tahoe deep dive, F1, iPadOS 26 Files speed testing on the AppleInsider Podcast](https://appleinsider.com/articles/25/06/20/macos-tahoe-deep-dive-f1-ipados-26-files-speed-testing-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Acer Swift 14 AI review: give it up for the ports](https://www.theverge.com/reviews/687771/acer-swift-14-ai-intel-lunar-lake-amd-strix-point-review)
+ - [How Texas’ hands-off approach to autonomous vehicles gave Tesla an opening](https://www.theverge.com/tesla/689286/tesla-robotaxi-austin-texas-law-regulation-safety)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

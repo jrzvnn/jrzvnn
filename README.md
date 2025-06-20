@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [First day at work](http://9gag.com/gag/aRBOZj5)
- - 😝 [Soon](http://9gag.com/gag/axyYvZD)
- - 💣 [How to use a Aztec dead whistle in the modern age](http://9gag.com/gag/amopWD4)
- - 😝 [FAFO&#39;s Vitaly Progress Update](http://9gag.com/gag/a7opoZe)
- - 👉 [It is an older meme, but still checks out](http://9gag.com/gag/a6ZjZYN)<!-- MEMES:END -->
+ - 😝 [Aaah... Japan](http://9gag.com/gag/a5QqQVN)
+ - 😝 [FAFO trucker edition](http://9gag.com/gag/a2vLwgO)
+ - 💣 [Math joke](http://9gag.com/gag/avydyzM)
+ - 😝 [It is an older meme, but still checks out](http://9gag.com/gag/a6ZjZYN)
+ - 👉 [FAFO&#39;s Vitaly Progress Update](http://9gag.com/gag/a7opoZe)<!-- MEMES:END -->
 
 ---
 

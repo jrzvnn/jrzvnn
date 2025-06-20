@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple devices in EU getting repair scores &amp; battery life labels](https://appleinsider.com/articles/25/06/20/apple-devices-in-eu-getting-repair-scores-battery-life-labels?utm_medium=rss)
+ - [Uber expands its data-labeling platform Uber AI Solutions to 30 countries, and adds new offerings like tools for developing AI agents and ready-to-use datasets &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/250620/p17#a250620p17)
  - [AirPods &amp; AirPods Pro in iOS 26 hands on: Camera control, new notifications, and more](https://appleinsider.com/articles/25/06/20/airpods-airpods-pro-in-ios-26-hands-on-camera-control-new-notifications-and-more?utm_medium=rss)
  - [Snap acquires Saturn, a calendar app for high school and college students, and says 80% of US high schoolers attend schools that support Saturn &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/250620/p16#a250620p16)
- - [Grab Apple&#39;s 1TB M4 MacBook Pro for $1,599 during month-end sale](https://appleinsider.com/articles/25/06/20/grab-apples-1tb-m4-macbook-pro-for-1599-during-month-end-sale?utm_medium=rss)
- - [Character.AI hires Karandeep Anand, former Meta VP of Business Products, as CEO, 10 months after Google hired away the startup&#39;s co-founder and CEO Noam Shazeer &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250620/p15#a250620p15)
- - [Apple’s tiny M4 Mac mini has dropped to its lowest price yet](https://www.theverge.com/tech/690172/apple-mac-mini-m4-powerbeats-pro-earbuds-deal-sale)<!-- TECH:END -->
+ - [Grab Apple&#39;s 1TB M4 MacBook Pro for $1,599 during month-end sale](https://appleinsider.com/articles/25/06/20/grab-apples-1tb-m4-macbook-pro-for-1599-during-month-end-sale?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Grass is all he needed](http://9gag.com/gag/an7rnqB)
- - 😝 [It is an older meme, but still checks out](http://9gag.com/gag/a6ZjZYN)
+ - 😝 [Math joke](http://9gag.com/gag/avydyzM)
  - 💣 [The skill of night workers is impressive.](http://9gag.com/gag/ajPWO9Q)
- - 😝 [Appearances are deceptive](http://9gag.com/gag/aO8ReyR)
- - 👉 [Give me your craziest memes you degenerates](http://9gag.com/gag/a87K6x1)<!-- MEMES:END -->
+ - 😝 [What is this technique called](http://9gag.com/gag/agmE1mK)
+ - 👉 [Appearances are deceptive](http://9gag.com/gag/aO8ReyR)<!-- MEMES:END -->
 
 ---
 

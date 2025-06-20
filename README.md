@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Silicon Valley is pushing senators to follow the House in reviving a favorable tax benefit that disappeared because of a US tax law Section 174 change in 2017 &lpar;Axios&rpar;](http://www.techmeme.com/250620/p11#a250620p11)
  - [How to find the best deals during Amazon’s four-day Prime Day sale](https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find)
- - [New &amp; questionable leak points to iPhone 17 pastel color options](https://appleinsider.com/articles/25/06/20/new-questionable-leak-points-to-iphone-17-pastel-color-options?utm_medium=rss)
- - [macOS Tahoe review -- glossy changes mask genuine improvements](https://appleinsider.com/articles/25/06/20/macos-tahoe-review----glossy-changes-mask-genuine-improvements?utm_medium=rss)
- - [Sources: an official told Samsung, SK Hynix, and TSMC that the US wants to revoke waivers that let them ship American chipmaking equipment to Chinese factories &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250620/p10#a250620p10)<!-- TECH:END -->
+ - [Best Windows Laptop for 2025](https://www.cnet.com/tech/computing/best-windows-laptop/#ftag=CAD590a51e)
+ - [How to Watch England vs. India From Anywhere for Free: Livestream 1st Test Cricket](https://www.cnet.com/tech/services-and-software/how-to-watch-england-vs-india-from-anywhere-for-free-livestream-1st-test-cricket/#ftag=CAD590a51e)
+ - [New &amp; questionable leak points to iPhone 17 pastel color options](https://appleinsider.com/articles/25/06/20/new-questionable-leak-points-to-iphone-17-pastel-color-options?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

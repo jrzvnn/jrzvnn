@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic&#39;s test of 16 top AI models from OpenAI and others found that, in some cases, they resorted to malicious behavior to avoid replacement or achieve goals &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250620/p20#a250620p20)
+ - [Seriously, What Is ‘Superintelligence’?](https://www.wired.com/story/uncanny-valley-podcast-superintelligence/)
  - [NYC announces new minimum-pay rules for rideshare drivers, settling on a 5% increase after Uber and Lyft strongly opposed a proposed 6.1% pay hike &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250620/p19#a250620p19)
  - [28 Years Later is a bleak fever dream with rage pumping through its veins](https://www.theverge.com/movie-reviews/689645/28-years-later-review)
- - [How to import eBooks and PDFs from Messages to Apple Books](https://appleinsider.com/inside/ios-18/tips/how-to-import-ebooks-and-pdfs-from-messages-to-apple-books?utm_medium=rss)
- - [Sources: Mira Murati&#39;s Thinking Machines Lab raised $2B led by a16z at a $10B valuation; Murati will hold board voting rights that outweigh all other directors &lpar;Financial Times&rpar;](http://www.techmeme.com/250620/p18#a250620p18)
- - [Apple devices in EU getting repair scores &amp; battery life labels](https://appleinsider.com/articles/25/06/20/apple-devices-in-eu-getting-repair-scores-battery-life-labels?utm_medium=rss)<!-- TECH:END -->
+ - [How to import eBooks and PDFs from Messages to Apple Books](https://appleinsider.com/inside/ios-18/tips/how-to-import-ebooks-and-pdfs-from-messages-to-apple-books?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

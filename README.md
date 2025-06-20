@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to use a Aztec dead whistle in the modern age](http://9gag.com/gag/amopWD4)
+ - 😝 [Soon](http://9gag.com/gag/axyYvZD)
  - 😝 [The comments make this post even better.](http://9gag.com/gag/aD2OnXG)
- - 💣 [When you feel the music at the game](http://9gag.com/gag/abAQ1MO)
- - 😝 [Super Sentai knew what they were doing](http://9gag.com/gag/aMVOmAX)
- - 👉 [Appearances are deceptive](http://9gag.com/gag/aO8ReyR)<!-- MEMES:END -->
+ - 💣 [Super Sentai knew what they were doing](http://9gag.com/gag/aMVOmAX)
+ - 😝 [It is an older meme, but still checks out](http://9gag.com/gag/a6ZjZYN)
+ - 👉 [Airport security in the 90ies](http://9gag.com/gag/ae97ZGj)<!-- MEMES:END -->
 
 ---
 

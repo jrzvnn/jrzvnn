@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FDA Just Approved a Long-Lasting Injection to Prevent HIV](https://www.wired.com/story/fda-finally-approves-lenacapavir-preventive-hiv-treatment-gilead/)
+ - [The 9 Best Pillows &lpar;2025&rpar; Tested and Reviewed by WIRED](https://www.wired.com/gallery/best-pillows/)
  - [Concha Sol Hearing Aids Review: Feeling Dated](https://www.wired.com/review/concha-sol-hearing-aids/)
  - [&#39;28 Years Later&#39; Director Danny Boyle Says Shooting on iPhones Let Him Capture &#39;Startling&#39; Violence](https://www.wired.com/story/danny-boyle-says-shooting-on-iphones-let-him-capture-startling-violence-in-28-years-later/)
- - [South Korea&#39;s SK Group and AWS will invest ~$5.1B including $4B from AWS to build a 100 MW AI data center in Ulsan by 2029, and plan to expand capacity to 1 GW &lpar;Reuters&rpar;](http://www.techmeme.com/250620/p5#a250620p5)
- - [Israeli authorities urge citizens to turn off home cameras, and say Iran is tapping into security cameras in Israel to gather real-time intelligence for attacks &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/250620/p4#a250620p4)
- - [Best Internet Providers in Colorado Springs, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-colorado-springs-co/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [South Korea&#39;s SK Group and AWS will invest ~$5.1B including $4B from AWS to build a 100 MW AI data center in Ulsan by 2029, and plan to expand capacity to 1 GW &lpar;Reuters&rpar;](http://www.techmeme.com/250620/p5#a250620p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

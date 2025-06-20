@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Sources: Apple execs have held internal discussions about bidding for, or partnering with, Perplexity, seeking to address the need for more AI talent and tech &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250620/p23#a250620p23)
  - [Cluely, which wants to help users &quot;cheat on everything&quot;, including job interviews and exams, raised a $15M Series A led by a16z, two months after a $5.3M seed &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250620/p22#a250620p22)
+ - [SpaceX&#39;s String of Starship Failures Continues With Massive Rocket Explosion](https://www.cnet.com/science/space/spacexs-string-of-starship-failures-continues-with-massive-rocket-explosion/#ftag=CAD590a51e)
  - [The best Apple deals you can shop ahead of Amazon Prime Day](https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals)
- - [Apple shareholders sue over Siri delays and massive losses](https://appleinsider.com/articles/25/06/20/apple-shareholders-sue-over-siri-delays-and-massive-losses?utm_medium=rss)
- - [Cybercriminals Breach Aflac, Private Customer Data Could Be At Risk](https://www.cnet.com/tech/services-and-software/cybercriminals-breach-aflac-private-customer-data-could-be-at-risk/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple shareholders sue over Siri delays and massive losses](https://appleinsider.com/articles/25/06/20/apple-shareholders-sue-over-siri-delays-and-massive-losses?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

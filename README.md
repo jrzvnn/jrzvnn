@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Silicon Valley is pushing senators to follow the House in reviving a favorable tax benefit that disappeared because of a US tax law Section 174 change in 2017 &lpar;Axios&rpar;](http://www.techmeme.com/250620/p11#a250620p11)
+ - [How to find the best deals during Amazon’s four-day Prime Day sale](https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find)
  - [New &amp; questionable leak points to iPhone 17 pastel color options](https://appleinsider.com/articles/25/06/20/new-questionable-leak-points-to-iphone-17-pastel-color-options?utm_medium=rss)
  - [macOS Tahoe review -- glossy changes mask genuine improvements](https://appleinsider.com/articles/25/06/20/macos-tahoe-review----glossy-changes-mask-genuine-improvements?utm_medium=rss)
- - [Sources: an official told Samsung, SK Hynix, and TSMC that the US wants to revoke waivers that let them ship American chipmaking equipment to Chinese factories &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250620/p10#a250620p10)
- - [3 Best Thermal Brush, Tested and Reviewed by WIRED &lpar;2025&rpar;](https://www.wired.com/gallery/best-thermal-brush/)
- - [What Big Tech&#39;s Band of Execs Will Do in the Army](https://www.wired.com/story/what-lt-col-boz-and-big-techs-enlisted-execs-will-do-in-the-army/)<!-- TECH:END -->
+ - [Sources: an official told Samsung, SK Hynix, and TSMC that the US wants to revoke waivers that let them ship American chipmaking equipment to Chinese factories &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250620/p10#a250620p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

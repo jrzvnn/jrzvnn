@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Airport security in the 90ies](http://9gag.com/gag/ae97ZGj)
- - 😝 [How to use a Aztec dead whistle in the modern age](http://9gag.com/gag/amopWD4)
- - 💣 [Aaah... Japan](http://9gag.com/gag/a5QqQVN)
+ - 😝 [Highway patrol is no joke](http://9gag.com/gag/ae97OVq)
  - 😝 [What is this technique called](http://9gag.com/gag/agmE1mK)
- - 👉 [The skill of night workers is impressive.](http://9gag.com/gag/ajPWO9Q)<!-- MEMES:END -->
+ - 💣 [It is an older meme, but still checks out](http://9gag.com/gag/a6ZjZYN)
+ - 😝 [The comments make this post even better.](http://9gag.com/gag/aD2OnXG)
+ - 👉 [Appearances are deceptive](http://9gag.com/gag/aO8ReyR)<!-- MEMES:END -->
 
 ---
 

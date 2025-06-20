@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kid wanted his chocolate milk mixed with a power tool.](http://9gag.com/gag/avydeDM)
- - 😝 [F**k you and I&#39;ll see you tomorrow](http://9gag.com/gag/a0eM0RZ)
- - 💣 [How to use a Aztec dead whistle in the modern age](http://9gag.com/gag/amopWD4)
  - 😝 [When you feel the music at the game](http://9gag.com/gag/abAQ1MO)
- - 👉 [What is this technique called](http://9gag.com/gag/agmE1mK)<!-- MEMES:END -->
+ - 😝 [Where are the drug dealers](http://9gag.com/gag/an7rR30)
+ - 💣 [When the chow hall surprises you with something special](http://9gag.com/gag/a9yOvXK)
+ - 😝 [Kid wanted his chocolate milk mixed with a power tool.](http://9gag.com/gag/avydeDM)
+ - 👉 [Slide](http://9gag.com/gag/a4PWzvp)<!-- MEMES:END -->
 
 ---
 

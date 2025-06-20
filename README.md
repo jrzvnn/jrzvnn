@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The comments make this post even better.](http://9gag.com/gag/aD2OnXG)
+ - 😝 [A bit late, but this is for the pops](http://9gag.com/gag/aNDO9xw)
  - 😝 [Soon](http://9gag.com/gag/axyYvZD)
- - 💣 [Airport security in the 90ies](http://9gag.com/gag/ae97ZGj)
- - 😝 [How to use a Aztec dead whistle in the modern age](http://9gag.com/gag/amopWD4)
- - 👉 [The skill of night workers is impressive.](http://9gag.com/gag/ajPWO9Q)<!-- MEMES:END -->
+ - 💣 [When you feel the music at the game](http://9gag.com/gag/abAQ1MO)
+ - 😝 [Super Sentai knew what they were doing](http://9gag.com/gag/aMVOmAX)
+ - 👉 [FAFO trucker edition](http://9gag.com/gag/a2vLwgO)<!-- MEMES:END -->
 
 ---
 

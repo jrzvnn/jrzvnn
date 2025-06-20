@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
  - [Apple execs may be newly considering buying AI firm Perplexity](https://appleinsider.com/articles/25/06/20/apple-execs-may-be-newly-considering-buying-ai-firm-perplexity?utm_medium=rss)
+ - [A Sneak Peek at Samsung&#39;s Plan to Help Us Defy Aging With the Galaxy Watch](https://www.cnet.com/tech/mobile/samsung-gave-me-an-inside-look-at-its-plan-to-help-us-age-better-one-galaxy-watch-at-a-time/#ftag=CAD590a51e)
  - [Sources: Apple execs have held internal discussions about bidding for, or partnering with, Perplexity, seeking to address the need for more AI talent and tech &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250620/p23#a250620p23)
- - [Cluely, which wants to help users &quot;cheat on everything&quot;, including job interviews and exams, raised a $15M Series A led by a16z, two months after a $5.3M seed &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250620/p22#a250620p22)
- - [SpaceX&#39;s String of Starship Failures Continues With Massive Rocket Explosion](https://www.cnet.com/science/space/spacexs-string-of-starship-failures-continues-with-massive-rocket-explosion/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cluely, which wants to help users &quot;cheat on everything&quot;, including job interviews and exams, raised a $15M Series A led by a16z, two months after a $5.3M seed &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250620/p22#a250620p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

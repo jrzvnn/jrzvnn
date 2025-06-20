@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Print. Fold. Share. Download WIRED&#39;s How to Win a Fight Zine Here](https://www.wired.com/story/download-how-to-win-a-fight-zine/)
  - [A False Start on the Road to an All-American Bitcoin](https://www.wired.com/story/a-false-start-on-the-road-to-an-all-american-bitcoin/)
  - [How JD.com is taking on China&#39;s food-delivery duopoly with viral stunts, low commissions, and deep discounts, prompting Meituan and Alibaba&#39;s Ele.me to respond &lpar;Bloomberg&rpar;](http://www.techmeme.com/250620/p3#a250620p3)
  - [How to Convert an Analog Bike to an Electric Bike &lpar;2025&rpar;](https://www.wired.com/story/how-to-convert-an-analog-bike-to-an-electric-bike/)
- - [11 Best Vibrators of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-vibrators/)
- - [Best Internet Providers in Tampa, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-tampa-fl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [11 Best Vibrators of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-vibrators/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon improves Kindle accessibility with new text spacing adjustments](https://www.theverge.com/news/690259/amazon-kindle-software-update-accessibility-text-spacing-settings)
+ - [Microsoft is blocking Google Chrome through its family safety feature](https://www.theverge.com/news/690179/microsoft-block-google-chrome-family-safety-feature)
  - [Tesla’s first robotaxi rides will have a ‘safety monitor’ in the passenger seat](https://www.theverge.com/news/690245/tesla-robotaxi-rides-launch-safety-monitor-passenger-seat)
- - [Meta unveils $399+ Oakley smart glasses with same features as Ray-Ban glasses but with 3K video recording, IPX4 water resistance, and double the battery life &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250620/p8#a250620p8)
- - [Meta&#39;s Oakley Smart Glasses Have 3K Video—Watch Out, Ray-Ban](https://www.wired.com/story/metas-oakley-smart-glasses-have-3k-video-watch-out-ray-ban/)
- - [Truth, lies, and the Trump Phone](https://www.theverge.com/the-vergecast/690202/trump-mobile-t1-phone-vergecast)
- - [Gigabyte Radeon RX 9060 XT Review: Great Value Gaming](https://www.wired.com/review/amd-radeon-rx-9060-xt/)<!-- TECH:END -->
+ - [Meta unveils $399+ Oakley smart glasses with all of the Ray-Ban glasses&#39; features, plus 3K video recording, IPX4 water resistance, and double the battery life &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250620/p8#a250620p8)
+ - [Meta&#39;s Oakley Smart Glasses Have 3K Video—Watch Out, Ray-Ban](https://www.wired.com/story/metas-oakley-smart-glasses-have-3k-video-watch-out-ray-ban/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

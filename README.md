@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shut up Skylar](http://9gag.com/gag/avyd1KE)
- - 😝 [How to grow a blue diamond. Now I know for sure diamonds are worthless, if you can turn one from yourself.](http://9gag.com/gag/adBoQ1B)
- - 💣 [Where are the drug dealers](http://9gag.com/gag/an7rR30)
- - 😝 [Kid wanted his chocolate milk mixed with a power tool.](http://9gag.com/gag/avydeDM)
- - 👉 [When the chow hall surprises you with something special](http://9gag.com/gag/a9yOvXK)<!-- MEMES:END -->
+ - 😝 [What did he do to deserve such thing?](http://9gag.com/gag/aKGO8Ag)
+ - 😝 [Where are the drug dealers](http://9gag.com/gag/an7rR30)
+ - 💣 [Totally straight girls](http://9gag.com/gag/aNDOVBr)
+ - 😝 [Haaaaans!](http://9gag.com/gag/aoyYR6A)
+ - 👉 [How to grow a blue diamond. Now I know for sure diamonds are worthless, if you can turn one from yourself.](http://9gag.com/gag/adBoQ1B)<!-- MEMES:END -->
 
 ---
 

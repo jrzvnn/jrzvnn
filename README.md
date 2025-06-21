@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Report: Vista Equity Partners and Blackstone buy out other investors in Assent for $400M, valuing the Ottawa-based supply chain software company at $1.3B &lpar;Alex Riehl/BetaKit&rpar;](http://www.techmeme.com/250621/p4#a250621p4)
  - [Huawei unveils a beta version of HarmonyOS 6, making it available to developers, and announces the HarmonyOS Agent Framework to help developers create AI agents &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250621/p3#a250621p3)
  - [A UN survey of 21 countries finds that trust in AI is strongest in low-income and developing nations; 83% in China and 37.5% in the US said they trust AI &lpar;Magdalena Del Valle/Bloomberg&rpar;](http://www.techmeme.com/250621/p2#a250621p2)
  - [Browserbase, which develops headless browsers for AI agents and apps, raised a $40M Series B led by Notable Capital at a $300M valuation, up ~4X since September &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/250621/p1#a250621p1)
- - [Canadian crypto companies are encountering regulatory challenges in introducing a local stablecoin, as the US advances stablecoin legislation &lpar;Monique Mulima/Bloomberg&rpar;](http://www.techmeme.com/250620/p30#a250620p30)
- - [Corporate travel and expense management service Navan, formerly known as TripActions, confidentially files for a US IPO; it was valued at $9.2B in October 2022 &lpar;Pritam Biswas/Reuters&rpar;](http://www.techmeme.com/250620/p29#a250620p29)<!-- TECH:END -->
+ - [Canadian crypto companies are encountering regulatory challenges in introducing a local stablecoin, as the US advances stablecoin legislation &lpar;Monique Mulima/Bloomberg&rpar;](http://www.techmeme.com/250620/p30#a250620p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

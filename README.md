@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Friday... the choice is yours!](http://9gag.com/gag/aO8RZAE)
- - 😝 [Suddenly my keys look amazing](http://9gag.com/gag/a9yOmm0)
- - 💣 [Nein nein](http://9gag.com/gag/ary2x6y)
- - 😝 [That guy was probably on his phone](http://9gag.com/gag/aQzOAEw)
- - 👉 [When the chow hall surprises you with something special](http://9gag.com/gag/a9yOvXK)<!-- MEMES:END -->
+ - 😝 [So who gets what](http://9gag.com/gag/aGyOM8X)
+ - 😝 [Those are too many rules for the minimum wage.](http://9gag.com/gag/a6Zj5rA)
+ - 💣 [The biggest turn-offs in movie space suits. Like, how can you see outside if your face is glowing?](http://9gag.com/gag/aD2OZd7)
+ - 😝 [Hey I need this medication for the summer!](http://9gag.com/gag/aByOPwZ)
+ - 👉 [That guy was probably on his phone](http://9gag.com/gag/aQzOAEw)<!-- MEMES:END -->
 
 ---
 

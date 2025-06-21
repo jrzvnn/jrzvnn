@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That guy was probably on his phone](http://9gag.com/gag/aQzOAEw)
- - 😝 [How to grow a blue diamond. Now I know for sure diamonds are worthless, if you can turn one from yourself.](http://9gag.com/gag/adBoQ1B)
- - 💣 [That pattern brings back so many memories](http://9gag.com/gag/aO8RZo6)
- - 😝 [Haaaaans!](http://9gag.com/gag/aoyYR6A)
- - 👉 [What did he do to deserve such thing?](http://9gag.com/gag/aKGO8Ag)<!-- MEMES:END -->
+ - 😝 [Friday... the choice is yours!](http://9gag.com/gag/aO8RZAE)
+ - 😝 [So who gets what](http://9gag.com/gag/aGyOM8X)
+ - 💣 [That guy was probably on his phone](http://9gag.com/gag/aQzOAEw)
+ - 😝 [It&#39;s the Je*s...](http://9gag.com/gag/a87KeRV)
+ - 👉 [Suddenly my keys look amazing](http://9gag.com/gag/a9yOmm0)<!-- MEMES:END -->
 
 ---
 

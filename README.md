@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Lawn and Outdoor Games &lpar;2025&rpar;: Cornhole, Ladderball, and More](https://www.wired.com/gallery/lawn-and-outdoor-games/)
+ - [A look at &quot;Generative Engine Optimization&quot; startups like Profound and Bluefish AI, which help businesses improve content to appear in AI search summaries &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/250621/p10#a250621p10)
  - [Etsy Is Clamping Down on 3D Printed Products. Here&#39;s How It Could Affect You](https://www.cnet.com/tech/computing/etsy-is-clamping-down-on-3d-printed-products-heres-how-it-could-affect-you/#ftag=CAD590a51e)
  - [Eli Lilly’s Obesity Pill Appears to Work as Well as Injected GLP-1s](https://www.wired.com/story/lilly-obesity-pill-effective-orforglipron-injected-glp-1-ozempic/)
- - [Adobe&#39;s New iOS and Android AI Apps Let You Use Google&#39;s Veo 3, Runway and More](https://www.cnet.com/tech/services-and-software/adobes-new-ios-and-android-ai-apps-let-you-use-googles-veo-3-runway-and-more/#ftag=CAD590a51e)
- - [Best Mattress Toppers for 2025, Tested by Our Sleep Experts](https://www.cnet.com/health/sleep/best-mattress-toppers/#ftag=CAD590a51e)
- - [The Nintendo Switch 2 is an awesome upgrade for parents like me](https://www.theverge.com/nintendo/690224/nintendo-switch-2-parenting-gameshare)<!-- TECH:END -->
+ - [Adobe&#39;s New iOS and Android AI Apps Let You Use Google&#39;s Veo 3, Runway and More](https://www.cnet.com/tech/services-and-software/adobes-new-ios-and-android-ai-apps-let-you-use-googles-veo-3-runway-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

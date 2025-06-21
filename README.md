@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [BitcoinTreasuries.net: about 130 publicly-listed companies currently hold ~$87B worth of bitcoin, equivalent to ~3.2% of all the bitcoins that will ever exist &lpar;Philip Stafford/Financial Times&rpar;](http://www.techmeme.com/250621/p5#a250621p5)
+ - [BitcoinTreasuries.net: about 130 publicly-listed companies currently hold a combined ~$87B in bitcoin, about 3.2% of all the bitcoins that will ever exist &lpar;Philip Stafford/Financial Times&rpar;](http://www.techmeme.com/250621/p5#a250621p5)
  - [Report: Vista Equity Partners and Blackstone buy out other investors in Assent for $400M, valuing the Ottawa-based supply chain software company at $1.3B &lpar;Alex Riehl/BetaKit&rpar;](http://www.techmeme.com/250621/p4#a250621p4)
  - [Huawei unveils a beta version of HarmonyOS 6, making it available to developers, and announces the HarmonyOS Agent Framework to help developers create AI agents &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250621/p3#a250621p3)
  - [A UN survey of 21 countries finds that trust in AI is strongest in low-income and developing nations; 83% in China and 37.5% in the US said they trust AI &lpar;Magdalena Del Valle/Bloomberg&rpar;](http://www.techmeme.com/250621/p2#a250621p2)

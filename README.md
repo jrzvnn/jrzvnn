@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What kind of person would enjoy something like this!?! &lpar;Me&rpar;](http://9gag.com/gag/azxYGgZ)
- - 😝 [That halo of sparks is incredible, and yes, hell yeah.](http://9gag.com/gag/amop69X)
- - 💣 [Airport security in the 90ies](http://9gag.com/gag/ae97ZGj)
- - 😝 [They were paintings?!](http://9gag.com/gag/aZZz803)
- - 👉 [When you finally get your hands on that new console](http://9gag.com/gag/ajPWLDR)<!-- MEMES:END -->
+ - 😝 [Super Sentai knew what they were doing](http://9gag.com/gag/aMVOmAX)
+ - 😝 [First day at work](http://9gag.com/gag/aRBOZj5)
+ - 💣 [What is this technique called](http://9gag.com/gag/agmE1mK)
+ - 😝 [When the chow hall surprises you with something special](http://9gag.com/gag/a9yOvXK)
+ - 👉 [How to use a Aztec dead whistle in the modern age](http://9gag.com/gag/amopWD4)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F**k you and I&#39;ll see you tomorrow](http://9gag.com/gag/a0eM0RZ)
+ - 😝 [What sound is that](http://9gag.com/gag/aPA1mQK)
  - 😝 [Airport security in the 90ies](http://9gag.com/gag/ae97ZGj)
- - 💣 [Tastes good hot or cold](http://9gag.com/gag/a4PW60Q)
- - 😝 [Where are the drug dealers](http://9gag.com/gag/an7rR30)
- - 👉 [Tsunami and late reaction](http://9gag.com/gag/aQzO788)<!-- MEMES:END -->
+ - 💣 [Kid wanted his chocolate milk mixed with a power tool.](http://9gag.com/gag/avydeDM)
+ - 😝 [Slide](http://9gag.com/gag/a4PWzvp)
+ - 👉 [Where are the drug dealers](http://9gag.com/gag/an7rR30)<!-- MEMES:END -->
 
 ---
 

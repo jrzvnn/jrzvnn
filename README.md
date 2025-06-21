@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Microsoft suspending an ICC judge&#39;s email account raised alarms across EU about how dependent its governments, businesses, and citizens are on US tech companies &lpar;New York Times&rpar;](http://www.techmeme.com/250621/p8#a250621p8)
- - [How to Beat Jet Lag](https://www.wired.com/story/how-to-beat-jet-lag-sleep-travel-flying/)
- - [When Will the iPhone 17 Be Released? We&#39;re Following All the Rumors and Leaks](https://www.cnet.com/tech/mobile/when-will-the-iphone-17-be-released-were-following-all-the-rumors-and-leaks/#ftag=CAD590a51e)
- - [A profile of Scale AI co-founder Alexandr Wang, whose ties to influential people in the AI industry and the GOP could give Meta leverage over its competitors &lpar;Ellen Huet/Bloomberg&rpar;](http://www.techmeme.com/250621/p7#a250621p7)
- - [How Huawei has remained resilient in the face of US sanctions; Mizuho: about 700,000 units of Huawei&#39;s Ascend 910 series are expected to ship in 2025 &lpar;South China Morning Post&rpar;](http://www.techmeme.com/250621/p6#a250621p6)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 21, #271](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-21-271/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 21, #475](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-21-475/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 21, #741](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-21-741/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for June 21, #1463](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-21-1463/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

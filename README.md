@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That pattern brings back so many memories](http://9gag.com/gag/aO8RZo6)
- - 😝 [Those are too many rules for the minimum wage.](http://9gag.com/gag/a6Zj5rA)
- - 💣 [When the chow hall surprises you with something special](http://9gag.com/gag/a9yOvXK)
- - 😝 [Super Sentai knew what they were doing](http://9gag.com/gag/aMVOmAX)
- - 👉 [Slide](http://9gag.com/gag/a4PWzvp)<!-- MEMES:END -->
+ - 😝 [First day at work](http://9gag.com/gag/aRBOZj5)
+ - 😝 [Slide](http://9gag.com/gag/a4PWzvp)
+ - 💣 [Tsunami and late reaction](http://9gag.com/gag/aQzO788)
+ - 😝 [Haaaaans!](http://9gag.com/gag/aoyYR6A)
+ - 👉 [When the chow hall surprises you with something special](http://9gag.com/gag/a9yOvXK)<!-- MEMES:END -->
 
 ---
 

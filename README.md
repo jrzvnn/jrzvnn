@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the White House recently rejected the DOD&#39;s recommendation to nominate Army Lt. Gen. Richard Angle as director of the NSA and head of US Cyber Command &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/250621/p13#a250621p13)
  - [Hackers briefly exploited a front-end vulnerability in CoinMarketCap&#39;s rotating doodles feature to inject fake &quot;Verify Wallet&quot; phishing pop-ups &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/250621/p12#a250621p12)
  - [Samsung&amp;#8217;s entry-level Galaxy Watch 7 has returned to its best price to date](https://www.theverge.com/tech/690614/samsung-galaxy-watch-7-anker-magsafe-charger-deal-sale)
  - [Experts say China-linked groups have repeatedly hacked Russian companies and government agencies in search of military secrets since the war in Ukraine began &lpar;Megha Rajagopalan/New York Times&rpar;](http://www.techmeme.com/250621/p11#a250621p11)
- - [11 Great Horror Movies to Watch on Prime Video](https://www.cnet.com/tech/services-and-software/11-great-horror-movies-to-watch-on-prime-video/#ftag=CAD590a51e)
- - [Final Fantasy fans, now is the time to get into Magic: The Gathering](https://www.theverge.com/games/690509/how-to-play-final-fantasy-magic-the-gathering-set)<!-- TECH:END -->
+ - [11 Great Horror Movies to Watch on Prime Video](https://www.cnet.com/tech/services-and-software/11-great-horror-movies-to-watch-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

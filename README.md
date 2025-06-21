@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Slide](http://9gag.com/gag/a4PWzvp)
- - 😝 [The comments make this post even better.](http://9gag.com/gag/aD2OnXG)
- - 💣 [Appearances are deceptive](http://9gag.com/gag/aO8ReyR)
- - 😝 [Where are the drug dealers](http://9gag.com/gag/an7rR30)
- - 👉 [What kind of person would enjoy something like this!?! &lpar;Me&rpar;](http://9gag.com/gag/azxYGgZ)<!-- MEMES:END -->
+ - 😝 [Technically yes...](http://9gag.com/gag/adBo14j)
+ - 😝 [F**k you and I&#39;ll see you tomorrow](http://9gag.com/gag/a0eM0RZ)
+ - 💣 [Slide](http://9gag.com/gag/a4PWzvp)
+ - 😝 [What kind of person would enjoy something like this!?! &lpar;Me&rpar;](http://9gag.com/gag/azxYGgZ)
+ - 👉 [Tastes good hot or cold](http://9gag.com/gag/a4PW60Q)<!-- MEMES:END -->
 
 ---
 

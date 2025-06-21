@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with computational linguist Emily Bender, who coined the term &quot;stochastic parrot&quot;, on her AI skepticism, co-writing the book The AI Con, and more &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/250621/p17#a250621p17)
  - [Uncountable, which makes AI tools to let R&amp;D teams accelerate development cycles, raised a $27M Series A led by Sageview, bringing its total funding to $32.5M &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250621/p16#a250621p16)
  - [Today&#39;s Wordle Hints, Answer and Help for June 22, #1464](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-22-1464/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for June 22, #742](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-22-742/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 22, #476](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-22-476/#ftag=CAD590a51e)
- - [A look at Temu, Shein, Meituan, and other Chinese companies&#39; expansion plans in Brazil, as they face slowing domestic demand and hurdles in the US and Europe &lpar;Meaghan Tobin/New York Times&rpar;](http://www.techmeme.com/250621/p15#a250621p15)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 22, #476](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-22-476/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

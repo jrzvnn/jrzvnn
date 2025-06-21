@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F**k you and I&#39;ll see you tomorrow](http://9gag.com/gag/a0eM0RZ)
- - 😝 [When you feel the music at the game](http://9gag.com/gag/abAQ1MO)
- - 💣 [The comments make this post even better.](http://9gag.com/gag/aD2OnXG)
- - 😝 [I guess he was cut off.](http://9gag.com/gag/aYQAEGq)
- - 👉 [Super Sentai knew what they were doing](http://9gag.com/gag/aMVOmAX)<!-- MEMES:END -->
+ - 😝 [Slide](http://9gag.com/gag/a4PWzvp)
+ - 😝 [Super Sentai knew what they were doing](http://9gag.com/gag/aMVOmAX)
+ - 💣 [Bro is in a league of his own. That gal not even comes close. A true chameleon \ud83c\udfad](http://9gag.com/gag/a1mEN9b)
+ - 😝 [When the chow hall surprises you with something special](http://9gag.com/gag/a9yOvXK)
+ - 👉 [Those are too many rules for the minimum wage.](http://9gag.com/gag/a6Zj5rA)<!-- MEMES:END -->
 
 ---
 

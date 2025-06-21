@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Super Sentai knew what they were doing](http://9gag.com/gag/aMVOmAX)
- - 😝 [What kind of person would enjoy something like this!?! &lpar;Me&rpar;](http://9gag.com/gag/azxYGgZ)
- - 💣 [Kid wanted his chocolate milk mixed with a power tool.](http://9gag.com/gag/avydeDM)
  - 😝 [F**k you and I&#39;ll see you tomorrow](http://9gag.com/gag/a0eM0RZ)
- - 👉 [When you feel the music at the game](http://9gag.com/gag/abAQ1MO)<!-- MEMES:END -->
+ - 😝 [Airport security in the 90ies](http://9gag.com/gag/ae97ZGj)
+ - 💣 [Slide](http://9gag.com/gag/a4PWzvp)
+ - 😝 [When you feel the music at the game](http://9gag.com/gag/abAQ1MO)
+ - 👉 [Super Sentai knew what they were doing](http://9gag.com/gag/aMVOmAX)<!-- MEMES:END -->
 
 ---
 

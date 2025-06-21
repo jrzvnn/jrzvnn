@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That halo of sparks is incredible, and yes, hell yeah.](http://9gag.com/gag/amop69X)
- - 😝 [Airport security in the 90ies](http://9gag.com/gag/ae97ZGj)
- - 💣 [Totally straight girls](http://9gag.com/gag/aNDOVBr)
- - 😝 [What kind of person would enjoy something like this!?! &lpar;Me&rpar;](http://9gag.com/gag/azxYGgZ)
- - 👉 [They were paintings?!](http://9gag.com/gag/aZZz803)<!-- MEMES:END -->
+ - 😝 [That pattern brings back so many memories](http://9gag.com/gag/aO8RZo6)
+ - 😝 [Shut up Skylar](http://9gag.com/gag/avyd1KE)
+ - 💣 [Those are too many rules for the minimum wage.](http://9gag.com/gag/a6Zj5rA)
+ - 😝 [That guy was probably on his phone](http://9gag.com/gag/aQzOAEw)
+ - 👉 [Where are the drug dealers](http://9gag.com/gag/an7rR30)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [First day at work](http://9gag.com/gag/aRBOZj5)
- - 😝 [Slide](http://9gag.com/gag/a4PWzvp)
- - 💣 [Tsunami and late reaction](http://9gag.com/gag/aQzO788)
- - 😝 [Haaaaans!](http://9gag.com/gag/aoyYR6A)
- - 👉 [When the chow hall surprises you with something special](http://9gag.com/gag/a9yOvXK)<!-- MEMES:END -->
+ - 😝 [Airport security in the 90ies](http://9gag.com/gag/ae97ZGj)
+ - 😝 [They were paintings?!](http://9gag.com/gag/aZZz803)
+ - 💣 [What kind of person would enjoy something like this!?! &lpar;Me&rpar;](http://9gag.com/gag/azxYGgZ)
+ - 😝 [What did he do to deserve such thing?](http://9gag.com/gag/aKGO8Ag)
+ - 👉 [A strong argument for Captain Barbossa.](http://9gag.com/gag/a34b0L5)<!-- MEMES:END -->
 
 ---
 

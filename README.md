@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The Verge’s guide to Amazon Prime Day 2025](https://www.theverge.com/tech/689359/amazon-prime-day-tech-deals-guide-2025)
  - [The Best Lawn and Outdoor Games &lpar;2025&rpar;: Cornhole, Ladderball, and More](https://www.wired.com/gallery/lawn-and-outdoor-games/)
+ - [Best Internet Providers in Denver, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-denver-co/#ftag=CAD590a51e)
  - [A look at &quot;Generative Engine Optimization&quot; startups like Profound and Bluefish AI, which help businesses improve content to appear in AI search summaries &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/250621/p10#a250621p10)
- - [Etsy Is Clamping Down on 3D Printed Products. Here&#39;s How It Could Affect You](https://www.cnet.com/tech/computing/etsy-is-clamping-down-on-3d-printed-products-heres-how-it-could-affect-you/#ftag=CAD590a51e)
- - [Eli Lilly’s Obesity Pill Appears to Work as Well as Injected GLP-1s](https://www.wired.com/story/lilly-obesity-pill-effective-orforglipron-injected-glp-1-ozempic/)<!-- TECH:END -->
+ - [Etsy Is Clamping Down on 3D Printed Products. Here&#39;s How It Could Affect You](https://www.cnet.com/tech/computing/etsy-is-clamping-down-on-3d-printed-products-heres-how-it-could-affect-you/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

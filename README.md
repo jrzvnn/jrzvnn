@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Super Sentai knew what they were doing](http://9gag.com/gag/aMVOmAX)
- - 😝 [First day at work](http://9gag.com/gag/aRBOZj5)
- - 💣 [What is this technique called](http://9gag.com/gag/agmE1mK)
- - 😝 [When the chow hall surprises you with something special](http://9gag.com/gag/a9yOvXK)
- - 👉 [How to use a Aztec dead whistle in the modern age](http://9gag.com/gag/amopWD4)<!-- MEMES:END -->
+ - 😝 [F**k you and I&#39;ll see you tomorrow](http://9gag.com/gag/a0eM0RZ)
+ - 😝 [When you feel the music at the game](http://9gag.com/gag/abAQ1MO)
+ - 💣 [The comments make this post even better.](http://9gag.com/gag/aD2OnXG)
+ - 😝 [I guess he was cut off.](http://9gag.com/gag/aYQAEGq)
+ - 👉 [Super Sentai knew what they were doing](http://9gag.com/gag/aMVOmAX)<!-- MEMES:END -->
 
 ---
 

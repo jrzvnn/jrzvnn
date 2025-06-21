@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you finally get your hands on that new console](http://9gag.com/gag/ajPWLDR)
- - 😝 [Totally straight girls](http://9gag.com/gag/aNDOVBr)
- - 💣 [I expect this to get thousands of upvotes...in 2 days..when it&#39;s reposted](http://9gag.com/gag/aMVOPZ1)
- - 😝 [Coach&#39;s reaction says it all.](http://9gag.com/gag/aByOG0O)
- - 👉 [What did he do to deserve such thing?](http://9gag.com/gag/aKGO8Ag)<!-- MEMES:END -->
+ - 😝 [Those are too many rules for the minimum wage.](http://9gag.com/gag/a6Zj5rA)
+ - 😝 [What did he do to deserve such thing?](http://9gag.com/gag/aKGO8Ag)
+ - 💣 [So who gets what](http://9gag.com/gag/aGyOM8X)
+ - 😝 [That pattern brings back so many memories](http://9gag.com/gag/aO8RZo6)
+ - 👉 [The biggest turn-offs in movie space suits. Like, how can you see outside if your face is glowing?](http://9gag.com/gag/aD2OZd7)<!-- MEMES:END -->
 
 ---
 

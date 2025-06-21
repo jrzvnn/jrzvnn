@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Airport security in the 90ies](http://9gag.com/gag/ae97ZGj)
- - 😝 [They were paintings?!](http://9gag.com/gag/aZZz803)
- - 💣 [What kind of person would enjoy something like this!?! &lpar;Me&rpar;](http://9gag.com/gag/azxYGgZ)
- - 😝 [What did he do to deserve such thing?](http://9gag.com/gag/aKGO8Ag)
- - 👉 [A strong argument for Captain Barbossa.](http://9gag.com/gag/a34b0L5)<!-- MEMES:END -->
+ - 😝 [Those are too many rules for the minimum wage.](http://9gag.com/gag/a6Zj5rA)
+ - 😝 [First day at work](http://9gag.com/gag/aRBOZj5)
+ - 💣 [That pattern brings back so many memories](http://9gag.com/gag/aO8RZo6)
+ - 😝 [When the chow hall surprises you with something special](http://9gag.com/gag/a9yOvXK)
+ - 👉 [Haaaaans!](http://9gag.com/gag/aoyYR6A)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro is in a league of his own. That gal not even comes close. A true chameleon \ud83c\udfad](http://9gag.com/gag/a1mEN9b)
- - 😝 [Slide](http://9gag.com/gag/a4PWzvp)
- - 💣 [Appearances are deceptive](http://9gag.com/gag/aO8ReyR)
- - 😝 [Pool hack](http://9gag.com/gag/aGyOnv6)
- - 👉 [First day at work](http://9gag.com/gag/aRBOZj5)<!-- MEMES:END -->
+ - 😝 [What kind of person would enjoy something like this!?! &lpar;Me&rpar;](http://9gag.com/gag/azxYGgZ)
+ - 😝 [That halo of sparks is incredible, and yes, hell yeah.](http://9gag.com/gag/amop69X)
+ - 💣 [Airport security in the 90ies](http://9gag.com/gag/ae97ZGj)
+ - 😝 [They were paintings?!](http://9gag.com/gag/aZZz803)
+ - 👉 [A strong argument for Captain Barbossa.](http://9gag.com/gag/a34b0L5)<!-- MEMES:END -->
 
 ---
 

@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now f**k off and see you tomorrow](http://9gag.com/gag/ae97O5W)
+ - 😝 [What kind of person would enjoy something like this!?! &lpar;Me&rpar;](http://9gag.com/gag/azxYGgZ)
  - 😝 [That halo of sparks is incredible, and yes, hell yeah.](http://9gag.com/gag/amop69X)
  - 💣 [Airport security in the 90ies](http://9gag.com/gag/ae97ZGj)
  - 😝 [They were paintings?!](http://9gag.com/gag/aZZz803)

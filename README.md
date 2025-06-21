@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is this technique called](http://9gag.com/gag/agmE1mK)
- - 😝 [Hmm, maybe that&#39;s why it clears you up so well](http://9gag.com/gag/azxY5vx)
- - 💣 [When the chow hall surprises you with something special](http://9gag.com/gag/a9yOvXK)
- - 😝 [Be you, not them!](http://9gag.com/gag/ayNY6GW)
- - 👉 [How to use a Aztec dead whistle in the modern age](http://9gag.com/gag/amopWD4)<!-- MEMES:END -->
+ - 😝 [Now f**k off and see you tomorrow](http://9gag.com/gag/ae97O5W)
+ - 😝 [That halo of sparks is incredible, and yes, hell yeah.](http://9gag.com/gag/amop69X)
+ - 💣 [Airport security in the 90ies](http://9gag.com/gag/ae97ZGj)
+ - 😝 [They were paintings?!](http://9gag.com/gag/aZZz803)
+ - 👉 [When you finally get your hands on that new console](http://9gag.com/gag/ajPWLDR)<!-- MEMES:END -->
 
 ---
 

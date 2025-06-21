@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What did he do to deserve such thing?](http://9gag.com/gag/aKGO8Ag)
+ - 😝 [Slide](http://9gag.com/gag/a4PWzvp)
  - 😝 [Where are the drug dealers](http://9gag.com/gag/an7rR30)
  - 💣 [Totally straight girls](http://9gag.com/gag/aNDOVBr)
- - 😝 [Haaaaans!](http://9gag.com/gag/aoyYR6A)
- - 👉 [How to grow a blue diamond. Now I know for sure diamonds are worthless, if you can turn one from yourself.](http://9gag.com/gag/adBoQ1B)<!-- MEMES:END -->
+ - 😝 [Shut up Skylar](http://9gag.com/gag/avyd1KE)
+ - 👉 [The comments make this post even better.](http://9gag.com/gag/aD2OnXG)<!-- MEMES:END -->
 
 ---
 

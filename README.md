@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Technically yes...](http://9gag.com/gag/adBo14j)
- - 😝 [F**k you and I&#39;ll see you tomorrow](http://9gag.com/gag/a0eM0RZ)
- - 💣 [Slide](http://9gag.com/gag/a4PWzvp)
+ - 😝 [Super Sentai knew what they were doing](http://9gag.com/gag/aMVOmAX)
  - 😝 [What kind of person would enjoy something like this!?! &lpar;Me&rpar;](http://9gag.com/gag/azxYGgZ)
- - 👉 [Tastes good hot or cold](http://9gag.com/gag/a4PW60Q)<!-- MEMES:END -->
+ - 💣 [Kid wanted his chocolate milk mixed with a power tool.](http://9gag.com/gag/avydeDM)
+ - 😝 [F**k you and I&#39;ll see you tomorrow](http://9gag.com/gag/a0eM0RZ)
+ - 👉 [When you feel the music at the game](http://9gag.com/gag/abAQ1MO)<!-- MEMES:END -->
 
 ---
 

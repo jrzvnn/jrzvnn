@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Slide](http://9gag.com/gag/a4PWzvp)
- - 😝 [Those are too many rules for the minimum wage.](http://9gag.com/gag/a6Zj5rA)
- - 💣 [Pool hack](http://9gag.com/gag/aGyOnv6)
+ - 😝 [Totally straight girls](http://9gag.com/gag/aNDOVBr)
  - 😝 [When the chow hall surprises you with something special](http://9gag.com/gag/a9yOvXK)
- - 👉 [First day at work](http://9gag.com/gag/aRBOZj5)<!-- MEMES:END -->
+ - 💣 [Slide](http://9gag.com/gag/a4PWzvp)
+ - 😝 [That pattern brings back so many memories](http://9gag.com/gag/aO8RZo6)
+ - 👉 [How to grow a blue diamond. Now I know for sure diamonds are worthless, if you can turn one from yourself.](http://9gag.com/gag/adBoQ1B)<!-- MEMES:END -->
 
 ---
 

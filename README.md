@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Methane Pollution Has Cheap, Effective Solutions That Aren’t Being Used](https://www.wired.com/story/cheap-and-effective-ways-to-cut-methane-pollution-arent-being-used/)
+ - [The 48 Best Movies on Netflix Right Now &lpar;June 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 48 Best Shows on Netflix Right Now &lpar;June 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
  - [14 Best Office Chairs of 2025— I&#39;ve Tested Nearly 60 to Pick Them](https://www.wired.com/gallery/best-office-chairs/)
- - [Feeling Off? These 7 Warning Signs Could Mean You&#39;re Iron Deficient](https://www.cnet.com/health/nutrition/iron-deficiency-symptoms-and-causes/#ftag=CAD590a51e)
- - [This Hidden Trick Can Help Keep Your iPhone&#39;s Notes App Organized](https://www.cnet.com/tech/services-and-software/this-hidden-trick-can-help-keep-your-iphones-notes-app-organized/#ftag=CAD590a51e)
- - [Framework Laptop 12 Review: The Most Repairable Laptop Ever](https://www.wired.com/review/framework-laptop-12/)
- - [Gear News This Week: Adobe Wants to Make iPhone Photos Better, and TCL Brings Flexibility to Atmos](https://www.wired.com/story/gear-news-this-week-adobe-wants-to-make-iphone-photos-better-and-tcl-brings-flexibility-to-atmos/)<!-- TECH:END -->
+ - [Feeling Off? These 7 Warning Signs Could Mean You&#39;re Iron Deficient](https://www.cnet.com/health/nutrition/iron-deficiency-symptoms-and-causes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

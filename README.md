@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Eli Lilly’s Obesity Pill Appears to Work as Well as Injected GLP-1s](https://www.wired.com/story/lilly-obesity-pill-effective-orforglipron-injected-glp-1-ozempic/)
+ - [The Nintendo Switch 2 is an awesome upgrade for parents like me](https://www.theverge.com/nintendo/690224/nintendo-switch-2-parenting-gameshare)
+ - [Kantar: the share of Indians consuming media exclusively on mobile phones grew to 23% in Q1 2025, up from 15% in Q1 2023, as TVs stay unaffordable for many &lpar;Satviki Sanjay/Bloomberg&rpar;](http://www.techmeme.com/250621/p9#a250621p9)
  - [Ford Ranger Plug-In Hybrid Review: Prices, Availability, Specs](https://www.wired.com/review/ford-ranger-plug-in-hybrid/)
- - [The music industry is building the tech to hunt down AI songs](https://www.theverge.com/ai-artificial-intelligence/686767/music-industry-ai-song-detection-tracking-licensing)
- - [Inside the courthouse reshaping the future of the internet](https://www.theverge.com/policy/690440/e-barrett-prettyman-courthouse-dc-district-meta-google-antitrust-doge)
- - [12 of the Best Movies Peacock Has to Offer](https://www.cnet.com/tech/services-and-software/peacock-best-movies-2025/#ftag=CAD590a51e)
- - [The 48 Best Movies on Netflix Right Now &lpar;June 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
+ - [I Ordered a Switch 2 From Verizon. It Didn&#39;t Go Well](https://www.cnet.com/tech/gaming/i-ordered-a-switch-2-from-verizon-it-didnt-go-well/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

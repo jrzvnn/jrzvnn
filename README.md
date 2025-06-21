@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you finally get your hands on that new console](http://9gag.com/gag/ajPWLDR)
- - 😝 [Totally straight girls](http://9gag.com/gag/aNDOVBr)
- - 💣 [I expect this to get thousands of upvotes...in 2 days..when it&#39;s reposted](http://9gag.com/gag/aMVOPZ1)
+ - 😝 [Suddenly my keys look amazing](http://9gag.com/gag/a9yOmm0)
  - 😝 [What did he do to deserve such thing?](http://9gag.com/gag/aKGO8Ag)
- - 👉 [Nice](http://9gag.com/gag/a2vLDew)<!-- MEMES:END -->
+ - 💣 [Have you ever seen a guardian angel](http://9gag.com/gag/avydRoX)
+ - 😝 [Enjoy a hobby](http://9gag.com/gag/a5Qq2Gy)
+ - 👉 [Nein nein](http://9gag.com/gag/ary2x6y)<!-- MEMES:END -->
 
 ---
 

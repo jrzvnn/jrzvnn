@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Uncountable, which makes AI tools to let R&amp;D teams accelerate development cycles, raised a $27M Series A led by Sageview, bringing its total funding to $32.5M &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250621/p16#a250621p16)
  - [A look at Temu, Shein, Meituan, and other Chinese companies&#39; expansion plans in Brazil, as they face slowing domestic demand and hurdles in the US and Europe &lpar;Meaghan Tobin/New York Times&rpar;](http://www.techmeme.com/250621/p15#a250621p15)
  - [Docs: the FCC is probing USCTM, launched by the Biden administration as a voluntary safety label for IoT devices, over its administrators&#39; alleged ties to China &lpar;Brian Flood/Fox News&rpar;](http://www.techmeme.com/250621/p14#a250621p14)
  - [I Was Overwhelmed by Mattress Shopping. This $374 Mattress Topper Bought Me a Few More Comfortable Years](https://www.cnet.com/deals/i-was-overwhelmed-by-mattress-shopping-this-374-mattress-topper-bought-me-a-few-more-comfortable-years/#ftag=CAD590a51e)
- - [Best Internet Providers in Boise, Idaho](https://www.cnet.com/home/internet/best-internet-providers-in-boise-id/#ftag=CAD590a51e)
- - [Sources: the WH rejected DOD&#39;s proposal for the head of NSA and US Cyber Command, extending the agencies&#39; leadership vacuum; Trump fired NSA&#39;s head in April &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/250621/p13#a250621p13)<!-- TECH:END -->
+ - [Best Internet Providers in Boise, Idaho](https://www.cnet.com/home/internet/best-internet-providers-in-boise-id/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That pattern brings back so many memories](http://9gag.com/gag/aO8RZo6)
- - 😝 [Shut up Skylar](http://9gag.com/gag/avyd1KE)
- - 💣 [Those are too many rules for the minimum wage.](http://9gag.com/gag/a6Zj5rA)
- - 😝 [That guy was probably on his phone](http://9gag.com/gag/aQzOAEw)
- - 👉 [Where are the drug dealers](http://9gag.com/gag/an7rR30)<!-- MEMES:END -->
+ - 😝 [Where are the drug dealers](http://9gag.com/gag/an7rR30)
+ - 😝 [Those are too many rules for the minimum wage.](http://9gag.com/gag/a6Zj5rA)
+ - 💣 [How to grow a blue diamond. Now I know for sure diamonds are worthless, if you can turn one from yourself.](http://9gag.com/gag/adBoQ1B)
+ - 😝 [Totally straight girls](http://9gag.com/gag/aNDOVBr)
+ - 👉 [When the chow hall surprises you with something special](http://9gag.com/gag/a9yOvXK)<!-- MEMES:END -->
 
 ---
 

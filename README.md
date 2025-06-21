@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So who gets what](http://9gag.com/gag/aGyOM8X)
- - 😝 [Those are too many rules for the minimum wage.](http://9gag.com/gag/a6Zj5rA)
- - 💣 [The biggest turn-offs in movie space suits. Like, how can you see outside if your face is glowing?](http://9gag.com/gag/aD2OZd7)
- - 😝 [Hey I need this medication for the summer!](http://9gag.com/gag/aByOPwZ)
- - 👉 [That guy was probably on his phone](http://9gag.com/gag/aQzOAEw)<!-- MEMES:END -->
+ - 😝 [When you finally get your hands on that new console](http://9gag.com/gag/ajPWLDR)
+ - 😝 [Totally straight girls](http://9gag.com/gag/aNDOVBr)
+ - 💣 [I expect this to get thousands of upvotes...in 2 days..when it&#39;s reposted](http://9gag.com/gag/aMVOPZ1)
+ - 😝 [What did he do to deserve such thing?](http://9gag.com/gag/aKGO8Ag)
+ - 👉 [Nice](http://9gag.com/gag/a2vLDew)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Super Sentai knew what they were doing](http://9gag.com/gag/aMVOmAX)
  - 😝 [The comments make this post even better.](http://9gag.com/gag/aD2OnXG)
- - 💣 [That pattern brings back so many memories](http://9gag.com/gag/aO8RZo6)
- - 😝 [First day at work](http://9gag.com/gag/aRBOZj5)
- - 👉 [Those are too many rules for the minimum wage.](http://9gag.com/gag/a6Zj5rA)<!-- MEMES:END -->
+ - 😝 [How to grow a blue diamond. Now I know for sure diamonds are worthless, if you can turn one from yourself.](http://9gag.com/gag/adBoQ1B)
+ - 💣 [Those are too many rules for the minimum wage.](http://9gag.com/gag/a6Zj5rA)
+ - 😝 [That pattern brings back so many memories](http://9gag.com/gag/aO8RZo6)
+ - 👉 [Haaaaans!](http://9gag.com/gag/aoyYR6A)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tarantino&#39;s unique directorial vision.](http://9gag.com/gag/aQzOAZK)
+ - 😝 [That pattern brings back so many memories](http://9gag.com/gag/aO8RZo6)
+ - 😝 [Those are too many rules for the minimum wage.](http://9gag.com/gag/a6Zj5rA)
+ - 💣 [When the chow hall surprises you with something special](http://9gag.com/gag/a9yOvXK)
  - 😝 [Super Sentai knew what they were doing](http://9gag.com/gag/aMVOmAX)
- - 💣 [Those are too many rules for the minimum wage.](http://9gag.com/gag/a6Zj5rA)
- - 😝 [How to grow a blue diamond. Now I know for sure diamonds are worthless, if you can turn one from yourself.](http://9gag.com/gag/adBoQ1B)
  - 👉 [Slide](http://9gag.com/gag/a4PWzvp)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That halo of sparks is incredible, and yes, hell yeah.](http://9gag.com/gag/amop69X)
- - 😝 [Airport security in the 90ies](http://9gag.com/gag/ae97ZGj)
- - 💣 [What kind of person would enjoy something like this!?! &lpar;Me&rpar;](http://9gag.com/gag/azxYGgZ)
- - 😝 [They were paintings?!](http://9gag.com/gag/aZZz803)
- - 👉 [Totally straight girls](http://9gag.com/gag/aNDOVBr)<!-- MEMES:END -->
+ - 😝 [Slide](http://9gag.com/gag/a4PWzvp)
+ - 😝 [Those are too many rules for the minimum wage.](http://9gag.com/gag/a6Zj5rA)
+ - 💣 [Pool hack](http://9gag.com/gag/aGyOnv6)
+ - 😝 [When the chow hall surprises you with something special](http://9gag.com/gag/a9yOvXK)
+ - 👉 [First day at work](http://9gag.com/gag/aRBOZj5)<!-- MEMES:END -->
 
 ---
 

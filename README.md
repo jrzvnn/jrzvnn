@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Uncountable, which makes AI tools to let R&amp;D teams accelerate development cycles, raised a $27M Series A led by Sageview, bringing its total funding to $32.5M &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250621/p16#a250621p16)
- - [A look at Temu, Shein, Meituan, and other Chinese companies&#39; expansion plans in Brazil, as they face slowing domestic demand and hurdles in the US and Europe &lpar;Meaghan Tobin/New York Times&rpar;](http://www.techmeme.com/250621/p15#a250621p15)
- - [Docs: the FCC is probing USCTM, launched by the Biden administration as a voluntary safety label for IoT devices, over its administrators&#39; alleged ties to China &lpar;Brian Flood/Fox News&rpar;](http://www.techmeme.com/250621/p14#a250621p14)
- - [I Was Overwhelmed by Mattress Shopping. This $374 Mattress Topper Bought Me a Few More Comfortable Years](https://www.cnet.com/deals/i-was-overwhelmed-by-mattress-shopping-this-374-mattress-topper-bought-me-a-few-more-comfortable-years/#ftag=CAD590a51e)
- - [Best Internet Providers in Boise, Idaho](https://www.cnet.com/home/internet/best-internet-providers-in-boise-id/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for June 22, #1464](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-22-1464/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 22, #742](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-22-742/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 22, #476](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-22-476/#ftag=CAD590a51e)
+ - [A look at Temu, Shein, Meituan, and other Chinese companies&#39; expansion plans in Brazil, as they face slowing domestic demand and hurdles in the US and Europe &lpar;Meaghan Tobin/New York Times&rpar;](http://www.techmeme.com/250621/p15#a250621p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

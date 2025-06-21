@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Insurance giant Aflac says a cybercrime group breached its systems and may have stolen data; source: the attack bears the hallmarks of Scattered Spider &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/250620/p27#a250620p27)
+ - [Circle shares jumped over 20% on Friday as investors cheered the US Senate approval of the GENIUS Act, and have surged ~675% since the company&#39;s IPO on June 5 &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250620/p26#a250620p26)
  - [Sources: Mark Zuckerberg recently discussed buying Mira Murati&#39;s Thinking Machines Lab, but the talks didn&#39;t progress to the formal offer stage &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250620/p25#a250620p25)
  - [Meta held talks to buy Thinking Machines, Perplexity, and Safe Superintelligence](https://www.theverge.com/command-line-newsletter/690720/meta-buy-thinking-machines-perplexity-safe-superintelligence)
- - [Q&amp;A with Yoshua Bengio on his nonprofit LawZero focusing on AI safety, its research direction, risks of increasingly capable and autonomous AI systems, and more &lpar;Sigal Samuel/Vox&rpar;](http://www.techmeme.com/250620/p24#a250620p24)
- - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
- - [Apple execs may be newly considering buying AI firm Perplexity](https://appleinsider.com/articles/25/06/20/apple-execs-may-be-newly-considering-buying-ai-firm-perplexity?utm_medium=rss)<!-- TECH:END -->
+ - [Q&amp;A with Yoshua Bengio on his nonprofit LawZero focusing on AI safety, its research direction, risks of increasingly capable and autonomous AI systems, and more &lpar;Sigal Samuel/Vox&rpar;](http://www.techmeme.com/250620/p24#a250620p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

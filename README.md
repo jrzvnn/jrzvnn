@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [That halo of sparks is incredible, and yes, hell yeah.](http://9gag.com/gag/amop69X)
- - 😝 [Totally straight girls](http://9gag.com/gag/aNDOVBr)
- - 💣 [Airport security in the 90ies](http://9gag.com/gag/ae97ZGj)
+ - 😝 [Airport security in the 90ies](http://9gag.com/gag/ae97ZGj)
+ - 💣 [Totally straight girls](http://9gag.com/gag/aNDOVBr)
  - 😝 [What kind of person would enjoy something like this!?! &lpar;Me&rpar;](http://9gag.com/gag/azxYGgZ)
  - 👉 [They were paintings?!](http://9gag.com/gag/aZZz803)<!-- MEMES:END -->
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cop who was controversially fired last month for his `robust` apprehension of a knife-carrying criminal after failing to treat him with &#39;courtesy and respect&#39; - didn&#39;t think twice about putting himself in harm&#39;s way again to tackle another thief n held him down till police arrive](http://9gag.com/gag/ae97ZwB)
- - 😝 [Now f**k off and see you tomorrow](http://9gag.com/gag/ae97O5W)
- - 💣 [That halo of sparks is incredible, and yes, hell yeah.](http://9gag.com/gag/amop69X)
- - 😝 [Airport security in the 90ies](http://9gag.com/gag/ae97ZGj)
- - 👉 [What kind of person would enjoy something like this!?! &lpar;Me&rpar;](http://9gag.com/gag/azxYGgZ)<!-- MEMES:END -->
+ - 😝 [Shut up Skylar](http://9gag.com/gag/avyd1KE)
+ - 😝 [How to grow a blue diamond. Now I know for sure diamonds are worthless, if you can turn one from yourself.](http://9gag.com/gag/adBoQ1B)
+ - 💣 [Where are the drug dealers](http://9gag.com/gag/an7rR30)
+ - 😝 [Kid wanted his chocolate milk mixed with a power tool.](http://9gag.com/gag/avydeDM)
+ - 👉 [When the chow hall surprises you with something special](http://9gag.com/gag/a9yOvXK)<!-- MEMES:END -->
 
 ---
 

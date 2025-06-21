@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where are the drug dealers](http://9gag.com/gag/an7rR30)
- - 😝 [Those are too many rules for the minimum wage.](http://9gag.com/gag/a6Zj5rA)
- - 💣 [How to grow a blue diamond. Now I know for sure diamonds are worthless, if you can turn one from yourself.](http://9gag.com/gag/adBoQ1B)
- - 😝 [Totally straight girls](http://9gag.com/gag/aNDOVBr)
- - 👉 [When the chow hall surprises you with something special](http://9gag.com/gag/a9yOvXK)<!-- MEMES:END -->
+ - 😝 [That halo of sparks is incredible, and yes, hell yeah.](http://9gag.com/gag/amop69X)
+ - 😝 [Airport security in the 90ies](http://9gag.com/gag/ae97ZGj)
+ - 💣 [What kind of person would enjoy something like this!?! &lpar;Me&rpar;](http://9gag.com/gag/azxYGgZ)
+ - 😝 [They were paintings?!](http://9gag.com/gag/aZZz803)
+ - 👉 [Totally straight girls](http://9gag.com/gag/aNDOVBr)<!-- MEMES:END -->
 
 ---
 

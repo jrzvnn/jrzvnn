@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Friday... the choice is yours!](http://9gag.com/gag/aO8RZAE)
- - 😝 [So who gets what](http://9gag.com/gag/aGyOM8X)
- - 💣 [That guy was probably on his phone](http://9gag.com/gag/aQzOAEw)
- - 😝 [It&#39;s the Je*s...](http://9gag.com/gag/a87KeRV)
- - 👉 [Suddenly my keys look amazing](http://9gag.com/gag/a9yOmm0)<!-- MEMES:END -->
+ - 😝 [Suddenly my keys look amazing](http://9gag.com/gag/a9yOmm0)
+ - 💣 [Nein nein](http://9gag.com/gag/ary2x6y)
+ - 😝 [That guy was probably on his phone](http://9gag.com/gag/aQzOAEw)
+ - 👉 [When the chow hall surprises you with something special](http://9gag.com/gag/a9yOvXK)<!-- MEMES:END -->
 
 ---
 

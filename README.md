@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Huawei has remained resilient in the face of US sanctions; Mizuho: about 700,000 units of Huawei&#39;s Ascend 910 series are expected to ship in 2025 &lpar;South China Morning Post&rpar;](http://www.techmeme.com/250621/p6#a250621p6)
  - [BitcoinTreasuries.net: about 130 publicly-listed companies currently hold a combined ~$87B in bitcoin, about 3.2% of all the bitcoins that will ever exist &lpar;Philip Stafford/Financial Times&rpar;](http://www.techmeme.com/250621/p5#a250621p5)
  - [Report: Vista Equity Partners and Blackstone buy out other investors in Assent for $400M, valuing the Ottawa-based supply chain software company at $1.3B &lpar;Alex Riehl/BetaKit&rpar;](http://www.techmeme.com/250621/p4#a250621p4)
  - [Huawei unveils a beta version of HarmonyOS 6, making it available to developers, and announces the HarmonyOS Agent Framework to help developers create AI agents &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250621/p3#a250621p3)
- - [A UN survey of 21 countries finds that trust in AI is strongest in low-income and developing nations; 83% in China and 37.5% in the US said they trust AI &lpar;Magdalena Del Valle/Bloomberg&rpar;](http://www.techmeme.com/250621/p2#a250621p2)
- - [Browserbase, which develops headless browsers for AI agents and apps, raised a $40M Series B led by Notable Capital at a $300M valuation, up ~4X since September &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/250621/p1#a250621p1)<!-- TECH:END -->
+ - [A UN survey of 21 countries finds that trust in AI is strongest in low-income and developing nations; 83% in China and 37.5% in the US said they trust AI &lpar;Magdalena Del Valle/Bloomberg&rpar;](http://www.techmeme.com/250621/p2#a250621p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

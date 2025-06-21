@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Experts say China&#39;s new national internet ID, currently voluntary, to sign in across social media apps and sites could further erode already limited freedoms &lpar;John Liu/CNN&rpar;](http://www.techmeme.com/250621/p18#a250621p18)
  - [Adobe&#39;s &#39;Project Indigo&#39; app will help you take better photos on your iPhone](https://appleinsider.com/articles/25/06/21/adobes-project-indigo-app-will-help-you-take-better-photos-on-your-iphone?utm_medium=rss)
  - [An interview with computational linguist Emily Bender, who coined the term &quot;stochastic parrot&quot;, on her AI skepticism, co-writing the book The AI Con, and more &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/250621/p17#a250621p17)
  - [Uncountable, which makes AI tools to let R&amp;D teams accelerate development cycles, raised a $27M Series A led by Sageview, bringing its total funding to $32.5M &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250621/p16#a250621p16)
- - [Today&#39;s Wordle Hints, Answer and Help for June 22, #1464](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-22-1464/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for June 22, #742](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-22-742/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for June 22, #1464](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-22-1464/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

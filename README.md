@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [F**k you and I&#39;ll see you tomorrow](http://9gag.com/gag/a0eM0RZ)
- - 😝 [Airport security in the 90ies](http://9gag.com/gag/ae97ZGj)
+ - 😝 [Super Sentai knew what they were doing](http://9gag.com/gag/aMVOmAX)
  - 💣 [Slide](http://9gag.com/gag/a4PWzvp)
- - 😝 [When you feel the music at the game](http://9gag.com/gag/abAQ1MO)
- - 👉 [Super Sentai knew what they were doing](http://9gag.com/gag/aMVOmAX)<!-- MEMES:END -->
+ - 😝 [Airport security in the 90ies](http://9gag.com/gag/ae97ZGj)
+ - 👉 [Totally straight girls](http://9gag.com/gag/aNDOVBr)<!-- MEMES:END -->
 
 ---
 

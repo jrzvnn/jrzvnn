@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Slide](http://9gag.com/gag/a4PWzvp)
- - 😝 [Where are the drug dealers](http://9gag.com/gag/an7rR30)
- - 💣 [Totally straight girls](http://9gag.com/gag/aNDOVBr)
- - 😝 [Shut up Skylar](http://9gag.com/gag/avyd1KE)
- - 👉 [The comments make this post even better.](http://9gag.com/gag/aD2OnXG)<!-- MEMES:END -->
+ - 😝 [That halo of sparks is incredible, and yes, hell yeah.](http://9gag.com/gag/amop69X)
+ - 😝 [Totally straight girls](http://9gag.com/gag/aNDOVBr)
+ - 💣 [Airport security in the 90ies](http://9gag.com/gag/ae97ZGj)
+ - 😝 [What kind of person would enjoy something like this!?! &lpar;Me&rpar;](http://9gag.com/gag/azxYGgZ)
+ - 👉 [They were paintings?!](http://9gag.com/gag/aZZz803)<!-- MEMES:END -->
 
 ---
 

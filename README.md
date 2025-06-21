@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Corporate travel and expense management service Navan, formerly known as TripActions, confidentially files for a US IPO; it was valued at $9.2B in October 2022 &lpar;Pritam Biswas/Reuters&rpar;](http://www.techmeme.com/250620/p29#a250620p29)
+ - [Cloudflare says it mitigated a record-breaking 7.3Tbps DDoS attack in mid-May, which delivered 37.4TB of junk traffic to the target in just 45 seconds &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/250620/p28#a250620p28)
  - [Insurance giant Aflac says a cybercrime group breached its systems and may have stolen data; source: the attack bears the hallmarks of Scattered Spider &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/250620/p27#a250620p27)
  - [Circle shares jumped over 20% on Friday as investors cheered the US Senate approval of the GENIUS Act, and have surged ~675% since the company&#39;s IPO on June 5 &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250620/p26#a250620p26)
- - [Sources: Mark Zuckerberg recently discussed buying Mira Murati&#39;s Thinking Machines Lab, but the talks didn&#39;t progress to the formal offer stage &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250620/p25#a250620p25)
- - [Meta held talks to buy Thinking Machines, Perplexity, and Safe Superintelligence](https://www.theverge.com/command-line-newsletter/690720/meta-buy-thinking-machines-perplexity-safe-superintelligence)
- - [Q&amp;A with Yoshua Bengio on his nonprofit LawZero focusing on AI safety, its research direction, risks of increasingly capable and autonomous AI systems, and more &lpar;Sigal Samuel/Vox&rpar;](http://www.techmeme.com/250620/p24#a250620p24)<!-- TECH:END -->
+ - [Sources: Mark Zuckerberg recently discussed buying Mira Murati&#39;s Thinking Machines Lab, but the talks didn&#39;t progress to the formal offer stage &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250620/p25#a250620p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

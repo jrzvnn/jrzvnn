@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hackers briefly exploited a front-end vulnerability in CoinMarketCap&#39;s rotating doodles feature to inject fake &quot;Verify Wallet&quot; phishing pop-ups &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/250621/p12#a250621p12)
+ - [Samsung&amp;#8217;s entry-level Galaxy Watch 7 has returned to its best price to date](https://www.theverge.com/tech/690614/samsung-galaxy-watch-7-anker-magsafe-charger-deal-sale)
  - [Experts say China-linked groups have repeatedly hacked Russian companies and government agencies in search of military secrets since the war in Ukraine began &lpar;Megha Rajagopalan/New York Times&rpar;](http://www.techmeme.com/250621/p11#a250621p11)
- - [Final Fantasy fans, now is the time to get into Magic: The Gathering](https://www.theverge.com/games/690509/how-to-play-final-fantasy-magic-the-gathering-set)
- - [The Verge’s guide to Amazon Prime Day 2025](https://www.theverge.com/tech/689359/amazon-prime-day-tech-deals-guide-2025)
- - [The Best Lawn and Outdoor Games &lpar;2025&rpar;: Cornhole, Ladderball, and More](https://www.wired.com/gallery/lawn-and-outdoor-games/)
- - [Best Internet Providers in Denver, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-denver-co/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [11 Great Horror Movies to Watch on Prime Video](https://www.cnet.com/tech/services-and-software/11-great-horror-movies-to-watch-on-prime-video/#ftag=CAD590a51e)
+ - [Final Fantasy fans, now is the time to get into Magic: The Gathering](https://www.theverge.com/games/690509/how-to-play-final-fantasy-magic-the-gathering-set)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

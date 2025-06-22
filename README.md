@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Laugh? I almost subscribed just to read it!](http://9gag.com/gag/agmE4Ax)
- - 😝 [Be polite](http://9gag.com/gag/amopmNd)
- - 💣 [So who gets what](http://9gag.com/gag/aGyOM8X)
- - 😝 [Mexican TV shows are wild](http://9gag.com/gag/aE0OD7G)
- - 👉 [It&#39;s the Je*s...](http://9gag.com/gag/a87KeRV)<!-- MEMES:END -->
+ - 😝 [Have you ever seen a guardian angel](http://9gag.com/gag/avydRoX)
+ - 😝 [Nice](http://9gag.com/gag/a2vLDew)
+ - 💣 [What did he do to deserve such thing?](http://9gag.com/gag/aKGO8Ag)
+ - 😝 [I expect this to get thousands of upvotes...in 2 days..when it&#39;s reposted](http://9gag.com/gag/aMVOPZ1)
+ - 👉 [We met again, old friend.](http://9gag.com/gag/aZZzE50)<!-- MEMES:END -->
 
 ---
 

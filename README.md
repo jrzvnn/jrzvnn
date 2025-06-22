@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [It&#39;s the Je*s...](http://9gag.com/gag/a87KeRV)
- - 😝 [That guy was probably on his phone](http://9gag.com/gag/aQzOAEw)
- - 💣 [The biggest turn-offs in movie space suits. Like, how can you see outside if your face is glowing?](http://9gag.com/gag/aD2OZd7)
- - 😝 [Mexican TV shows are wild](http://9gag.com/gag/aE0OD7G)
- - 👉 [DISGUSTING! 22-year-old New York school employee Anamaria Milazzo charged with a felony for allegedly sending n*des to a 14-year-old.](http://9gag.com/gag/aMVOvXP)<!-- MEMES:END -->
+ - 😝 [Keeping a promise after 7 years, this is true friendship.](http://9gag.com/gag/adBoxrB)
+ - 💣 [Nice](http://9gag.com/gag/aByOX8z)
+ - 😝 [DISGUSTING! 22-year-old New York school employee Anamaria Milazzo charged with a felony for allegedly sending n*des to a 14-year-old.](http://9gag.com/gag/aMVOvXP)
+ - 👉 [Mexican TV shows are wild](http://9gag.com/gag/aE0OD7G)<!-- MEMES:END -->
 
 ---
 

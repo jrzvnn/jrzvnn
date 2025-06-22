@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice](http://9gag.com/gag/a2vLDew)
  - 😝 [1980s song](http://9gag.com/gag/apRYb7n)
- - 💣 [What did he do to deserve such thing?](http://9gag.com/gag/aKGO8Ag)
- - 😝 [Have you ever seen a guardian angel](http://9gag.com/gag/avydRoX)
- - 👉 [We met again, old friend.](http://9gag.com/gag/aZZzE50)<!-- MEMES:END -->
+ - 😝 [What did he do to deserve such thing?](http://9gag.com/gag/aKGO8Ag)
+ - 💣 [Have you ever seen a guardian angel](http://9gag.com/gag/avydRoX)
+ - 😝 [We met again, old friend.](http://9gag.com/gag/aZZzE50)
+ - 👉 [Nice](http://9gag.com/gag/aByOX8z)<!-- MEMES:END -->
 
 ---
 

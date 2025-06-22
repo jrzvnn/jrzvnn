@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Totally straight girls](http://9gag.com/gag/aNDOVBr)
- - 😝 [When you finally get your hands on that new console](http://9gag.com/gag/ajPWLDR)
- - 💣 [Nice](http://9gag.com/gag/a2vLDew)
- - 😝 [I expect this to get thousands of upvotes...in 2 days..when it&#39;s reposted](http://9gag.com/gag/aMVOPZ1)
- - 👉 [What did he do to deserve such thing?](http://9gag.com/gag/aKGO8Ag)<!-- MEMES:END -->
+ - 😝 [So who gets what](http://9gag.com/gag/aGyOM8X)
+ - 😝 [The biggest turn-offs in movie space suits. Like, how can you see outside if your face is glowing?](http://9gag.com/gag/aD2OZd7)
+ - 💣 [It&#39;s the Je*s...](http://9gag.com/gag/a87KeRV)
+ - 😝 [Laugh? I almost subscribed just to read it!](http://9gag.com/gag/agmE4Ax)
+ - 👉 [Mexican TV shows are wild](http://9gag.com/gag/aE0OD7G)<!-- MEMES:END -->
 
 ---
 

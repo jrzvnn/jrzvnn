@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 22, #272](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-22-272/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, June 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-june-22/#ftag=CAD590a51e)
  - [A look at DARPA&#39;s &quot;Exponentiating Mathematics&quot; program, which aims to speed up progress in pure mathematics by developing an AI &quot;co-author&quot; to conduct research &lpar;Alexander Nazaryan/New York Times&rpar;](http://www.techmeme.com/250621/p19#a250621p19)
  - [Truth Social Crashes as Trump Live-Posts Iran Bombing](https://www.wired.com/story/truth-social-crashes-as-trump-live-posts-bombing-iran/)
- - [Experts say China&#39;s new national internet ID, currently voluntary, to sign in across social media apps and sites could further erode already limited freedoms &lpar;John Liu/CNN&rpar;](http://www.techmeme.com/250621/p18#a250621p18)
- - [Adobe&#39;s &#39;Project Indigo&#39; app will help you take better photos on your iPhone](https://appleinsider.com/articles/25/06/21/adobes-project-indigo-app-will-help-you-take-better-photos-on-your-iphone?utm_medium=rss)
- - [An interview with computational linguist Emily Bender, who coined the term &quot;stochastic parrot&quot;, on her AI skepticism, co-writing the book The AI Con, and more &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/250621/p17#a250621p17)<!-- TECH:END -->
+ - [Experts say China&#39;s new national internet ID, currently voluntary, to sign in across social media apps and sites could further erode already limited freedoms &lpar;John Liu/CNN&rpar;](http://www.techmeme.com/250621/p18#a250621p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

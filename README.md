@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [London-based PhysicsX, which uses AI to design industrial parts such as engine and drone components, raised $135M, a source says at just under a $1B valuation &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/250622/p4#a250622p4)
  - [Adobe Labs launches Project Indigo, a free computational photography app for iPhones that captures a burst of images and combines them into a high-quality photo &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250622/p3#a250622p3)
  - [Slide, which develops data backup and disaster recovery tech for managed service providers serving SMBs, raised a $25M Series A led by Base10 Partners &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250622/p2#a250622p2)
  - [HP Coupon Codes: 5% Off | June 2025](https://www.wired.com/story/hp-coupon-code/)
- - [Fidelity: ~50% of UK investors trust social media, finfluencers, and AI tools for financial decisions; only ~33% used a qualified adviser in the past two years &lpar;Maisie Grice/Financial Times&rpar;](http://www.techmeme.com/250622/p1#a250622p1)
- - [Onebrief, which makes military workflow software, raised a $20M Series C extension led by Battery Ventures at a $1.1B valuation, taking the round total to $70M &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250621/p20#a250621p20)<!-- TECH:END -->
+ - [Fidelity: ~50% of UK investors trust social media, finfluencers, and AI tools for financial decisions; only ~33% used a qualified adviser in the past two years &lpar;Maisie Grice/Financial Times&rpar;](http://www.techmeme.com/250622/p1#a250622p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

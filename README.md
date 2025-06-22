@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Nice](http://9gag.com/gag/aByOX8z)
- - 😝 [DISGUSTING! 22-year-old New York school employee Anamaria Milazzo charged with a felony for allegedly sending n*des to a 14-year-old.](http://9gag.com/gag/aMVOvXP)
- - 💣 [Have you ever seen a guardian angel](http://9gag.com/gag/avydRoX)
+ - 😝 [Probably his first day](http://9gag.com/gag/aPA1eNG)
+ - 💣 [So who gets what](http://9gag.com/gag/aGyOM8X)
  - 😝 [The biggest turn-offs in movie space suits. Like, how can you see outside if your face is glowing?](http://9gag.com/gag/aD2OZd7)
- - 👉 [So who gets what](http://9gag.com/gag/aGyOM8X)<!-- MEMES:END -->
+ - 👉 [Environmental advice from 1963 hits a little different today.](http://9gag.com/gag/a4PWqZw)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Nintendo Switch 2 Accessories: Controllers, Cases, and More](https://www.wired.com/gallery/best-switch-2-accessories/)
- - [A look at the US Army Reserve&#39;s Detachment 201, which lets tech executives, like Meta&#39;s Bosworth, give advice as senior officers while keeping their day jobs &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/250622/p7#a250622p7)
- - [Heat Got You Dragging? These Simple Tricks Fight Fatigue Fast](https://www.cnet.com/health/medical/heat-got-you-dragging-these-simple-tricks-fight-fatigue-fast/#ftag=CAD590a51e)
- - [How the Universe and Its Mirrored Version Are Different](https://www.wired.com/story/how-the-universe-differs-from-its-mirror-image/)
- - [Best Samsung Phone of 2025](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A19 chip could match Qualcomm&#39;s best, but Apple may lean toward power savings instead](https://appleinsider.com/articles/25/06/22/a19-chip-could-match-qualcomms-best-but-apple-may-lean-toward-power-savings-instead?utm_medium=rss)
+ - [Asus ROG Azoth X Review: A Space-Age Gaming Keyboard](https://www.wired.com/review/asus-rog-azoth-x/)
+ - [What happens when AI comes for our fonts?](https://www.theverge.com/ai-artificial-intelligence/688637/typography-fonts-ai)
+ - [The 10 Best Greens Powders, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-greens-powders/)
+ - [Best Nintendo Switch 2 Accessories: Controllers, Cases, and More](https://www.wired.com/gallery/best-switch-2-accessories/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

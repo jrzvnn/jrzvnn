@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Laugh? I almost subscribed just to read it!](http://9gag.com/gag/agmE4Ax)
- - 😝 [That pattern brings back so many memories](http://9gag.com/gag/aO8RZo6)
- - 💣 [Life comes at you fast sometimes](http://9gag.com/gag/ae97ZrB)
- - 😝 [Wait, did it just swallow that whole bone?](http://9gag.com/gag/adBoxBM)
- - 👉 [Haaaaans!](http://9gag.com/gag/aoyYR6A)<!-- MEMES:END -->
+ - 😝 [Totally straight girls](http://9gag.com/gag/aNDOVBr)
+ - 😝 [When you finally get your hands on that new console](http://9gag.com/gag/ajPWLDR)
+ - 💣 [Nice](http://9gag.com/gag/a2vLDew)
+ - 😝 [I expect this to get thousands of upvotes...in 2 days..when it&#39;s reposted](http://9gag.com/gag/aMVOPZ1)
+ - 👉 [What did he do to deserve such thing?](http://9gag.com/gag/aKGO8Ag)<!-- MEMES:END -->
 
 ---
 

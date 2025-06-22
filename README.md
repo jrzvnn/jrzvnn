@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Suddenly my keys look amazing](http://9gag.com/gag/a9yOmm0)
- - 😝 [Nice](http://9gag.com/gag/a2vLDew)
- - 💣 [Have you ever seen a guardian angel](http://9gag.com/gag/avydRoX)
- - 😝 [What did he do to deserve such thing?](http://9gag.com/gag/aKGO8Ag)
- - 👉 [We met again, old friend.](http://9gag.com/gag/aZZzE50)<!-- MEMES:END -->
+ - 😝 [Be polite](http://9gag.com/gag/amopmNd)
+ - 😝 [Neigh](http://9gag.com/gag/aE0OoGn)
+ - 💣 [It&#39;s the Je*s...](http://9gag.com/gag/a87KeRV)
+ - 😝 [DISGUSTING! 22-year-old New York school employee Anamaria Milazzo charged with a felony for allegedly sending n*des to a 14-year-old.](http://9gag.com/gag/aMVOvXP)
+ - 👉 [That guy was probably on his phone](http://9gag.com/gag/aQzOAEw)<!-- MEMES:END -->
 
 ---
 

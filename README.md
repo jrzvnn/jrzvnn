@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How the Universe and Its Mirrored Version Are Different](https://www.wired.com/story/how-the-universe-differs-from-its-mirror-image/)
  - [Poppin Sticky Memo Ball Review: Color-Code in Style](https://www.wired.com/review/poppin-sticky-memo-ball/)
  - [Inside the Vera C. Rubin Observatory, whose 3.2-gigapixel camera will produce 60PB of space image data over 10 years, to be analyzed using ML and deep learning &lpar;New York Times&rpar;](http://www.techmeme.com/250622/p6#a250622p6)
  - [Today&#39;s NYT Strands Hints, Answers and Help for June 22, #476](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-22-476/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for June 22, #742](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-22-742/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for June 22, #1464](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-22-1464/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 22, #742](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-22-742/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A sprinkler working hard in the sand](http://9gag.com/gag/aXPKWz6)
- - 😝 [It&#39;s the Je*s...](http://9gag.com/gag/a87KeRV)
- - 💣 [Caught another one on camera](http://9gag.com/gag/ayNYRjp)
- - 😝 [I Regret Nothing](http://9gag.com/gag/ae97xRQ)
- - 👉 [Environmental advice from 1963 hits a little different today.](http://9gag.com/gag/a4PWqZw)<!-- MEMES:END -->
+ - 😝 [Nailed it.](http://9gag.com/gag/a87Kwpp)
+ - 😝 [Insert star man meme](http://9gag.com/gag/ae972Dp)
+ - 💣 [Main-character syndrome](http://9gag.com/gag/aYQA15V)
+ - 😝 [That looks like ...](http://9gag.com/gag/aE0ODpn)
+ - 👉 [Day 6! Right one looks a little bit better but i think she was it from the begining. &lpar;Banana for scale&rpar;](http://9gag.com/gag/amopVx6)<!-- MEMES:END -->
 
 ---
 

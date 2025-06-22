@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [1980s song](http://9gag.com/gag/apRYb7n)
- - 😝 [What did he do to deserve such thing?](http://9gag.com/gag/aKGO8Ag)
- - 💣 [Have you ever seen a guardian angel](http://9gag.com/gag/avydRoX)
- - 😝 [We met again, old friend.](http://9gag.com/gag/aZZzE50)
+ - 😝 [Environmental advice from 1963 hits a little different today.](http://9gag.com/gag/a4PWqZw)
+ - 😝 [The biggest turn-offs in movie space suits. Like, how can you see outside if your face is glowing?](http://9gag.com/gag/aD2OZd7)
+ - 💣 [It&#39;s the Je*s...](http://9gag.com/gag/a87KeRV)
+ - 😝 [Be polite](http://9gag.com/gag/amopmNd)
  - 👉 [Nice](http://9gag.com/gag/aByOX8z)<!-- MEMES:END -->
 
 ---

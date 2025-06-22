@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Emilia Clarke reminiscing about her first scene with a dragon\u2026](http://9gag.com/gag/aYQAD3m)
- - 😝 [Story of my life](http://9gag.com/gag/ayNYWqX)
- - 💣 [So who gets what](http://9gag.com/gag/aGyOM8X)
- - 😝 [Nein nein](http://9gag.com/gag/ary2x6y)
- - 👉 [DISGUSTING! 22-year-old New York school employee Anamaria Milazzo charged with a felony for allegedly sending n*des to a 14-year-old.](http://9gag.com/gag/aMVOvXP)<!-- MEMES:END -->
+ - 😝 [Insert star man meme](http://9gag.com/gag/ae972Dp)
+ - 😝 [Day 5](http://9gag.com/gag/an7rE50)
+ - 💣 [Coach&#39;s reaction says it all.](http://9gag.com/gag/aByOG0O)
+ - 😝 [Time for European guilt again...](http://9gag.com/gag/aD2OX79)
+ - 👉 [The highlight of the week.](http://9gag.com/gag/aXPK7xd)<!-- MEMES:END -->
 
 ---
 

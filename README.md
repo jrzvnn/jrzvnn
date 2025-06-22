@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Purism&#39;s $1,999 security-focused Liberty Phone, assembled in the US with decade-old specs and some US-made parts, exposes the gaps in US phone manufacturing &lpar;Ben Raab/Wall Street Journal&rpar;](http://www.techmeme.com/250622/p8#a250622p8)
+ - [The 10 Best Greens Powders, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-greens-powders/)
  - [A19 chip could match Qualcomm&#39;s best, but Apple may lean toward power savings instead](https://appleinsider.com/articles/25/06/22/a19-chip-could-match-qualcomms-best-but-apple-may-lean-toward-power-savings-instead?utm_medium=rss)
  - [Asus ROG Azoth X Review: A Space-Age Gaming Keyboard](https://www.wired.com/review/asus-rog-azoth-x/)
- - [What happens when AI comes for our fonts?](https://www.theverge.com/ai-artificial-intelligence/688637/typography-fonts-ai)
- - [The 10 Best Greens Powders, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-greens-powders/)
- - [Best Nintendo Switch 2 Accessories: Controllers, Cases, and More](https://www.wired.com/gallery/best-switch-2-accessories/)<!-- TECH:END -->
+ - [What happens when AI comes for our fonts?](https://www.theverge.com/ai-artificial-intelligence/688637/typography-fonts-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

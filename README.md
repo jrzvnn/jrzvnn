@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fidelity: ~50% of UK investors trust social media, finfluencers, and AI tools for financial decisions; only ~33% used a qualified adviser in the past two years &lpar;Maisie Grice/Financial Times&rpar;](http://www.techmeme.com/250622/p1#a250622p1)
+ - [Onebrief, which makes military workflow software, raised a $20M Series C extension led by Battery Ventures at a $1.1B valuation, taking the round total to $70M &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250621/p20#a250621p20)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 22, #272](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-22-272/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword Answers for Sunday, June 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-june-22/#ftag=CAD590a51e)
- - [A look at DARPA&#39;s &quot;Exponentiating Mathematics&quot; program, which aims to speed up progress in pure mathematics by developing an AI &quot;co-author&quot; to conduct research &lpar;Alexander Nazaryan/New York Times&rpar;](http://www.techmeme.com/250621/p19#a250621p19)
- - [Truth Social Crashes as Trump Live-Posts Iran Bombing](https://www.wired.com/story/truth-social-crashes-as-trump-live-posts-bombing-iran/)
- - [Experts say China&#39;s new national internet ID, currently voluntary, to sign in across social media apps and sites could further erode already limited freedoms &lpar;John Liu/CNN&rpar;](http://www.techmeme.com/250621/p18#a250621p18)<!-- TECH:END -->
+ - [A look at DARPA&#39;s &quot;Exponentiating Mathematics&quot; program, which aims to speed up progress in pure mathematics by developing an AI &quot;co-author&quot; to conduct research &lpar;Alexander Nazaryan/New York Times&rpar;](http://www.techmeme.com/250621/p19#a250621p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

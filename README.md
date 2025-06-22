@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Senate parliamentarian rules that a Republican effort blocking US states from enforcing AI laws for 10 years will remain in Trump&#39;s One Big Beautiful Bill &lpar;Bloomberg&rpar;](http://www.techmeme.com/250622/p12#a250622p12)
  - [Real Madrid vs. Pachuca From Anywhere for Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/real-madrid-vs-pachuca-from-anywhere-for-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)
  - [Vapor chamber considered as cooling system for iPhone 17 line, claims leaker](https://appleinsider.com/articles/25/06/22/vapor-chamber-considered-as-cooling-system-for-iphone-17-line-claims-leaker?utm_medium=rss)
  - [Austin-based PE firm Haveli Investments agrees to acquire Couchbase, which offers a cloud database for AI applications, for about $1.5B &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/250622/p11#a250622p11)
- - [Texas enacts legislation, effective September 1, requiring a permit to operate self-driving vehicles, just before Tesla&#39;s planned robotaxi trial in Austin &lpar;Reuters&rpar;](http://www.techmeme.com/250622/p10#a250622p10)
- - [Max: The 28 Absolute Best TV Shows to Watch](https://www.cnet.com/tech/services-and-software/best-tv-series-on-max-june-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Texas enacts legislation, effective September 1, requiring a permit to operate self-driving vehicles, just before Tesla&#39;s planned robotaxi trial in Austin &lpar;Reuters&rpar;](http://www.techmeme.com/250622/p10#a250622p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

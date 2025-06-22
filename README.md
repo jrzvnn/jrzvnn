@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;The Bear&#39;: Here&#39;s How to Watch Season 4 of the Hit Food Drama](https://www.cnet.com/tech/services-and-software/yes-chef-the-bear-is-back-heres-how-to-watch-season-4-of-the-hit-food-drama/#ftag=CAD590a51e)
  - [The Senate parliamentarian rules that a Republican effort blocking US states from enforcing AI laws for 10 years will remain in Trump&#39;s One Big Beautiful Bill &lpar;Bloomberg&rpar;](http://www.techmeme.com/250622/p12#a250622p12)
  - [Best Internet Providers in Arlington, Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-arlington-va/#ftag=CAD590a51e)
  - [Real Madrid vs. Pachuca From Anywhere for Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/real-madrid-vs-pachuca-from-anywhere-for-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)
- - [Vapor chamber considered as cooling system for iPhone 17 line, claims leaker](https://appleinsider.com/articles/25/06/22/vapor-chamber-considered-as-cooling-system-for-iphone-17-line-claims-leaker?utm_medium=rss)
- - [Austin-based PE firm Haveli Investments agrees to acquire Couchbase, which offers a cloud database for AI applications, for about $1.5B &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/250622/p11#a250622p11)<!-- TECH:END -->
+ - [Vapor chamber considered as cooling system for iPhone 17 line, claims leaker](https://appleinsider.com/articles/25/06/22/vapor-chamber-considered-as-cooling-system-for-iphone-17-line-claims-leaker?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

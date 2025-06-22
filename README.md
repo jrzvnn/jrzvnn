@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Be polite](http://9gag.com/gag/amopmNd)
- - 😝 [That guy was probably on his phone](http://9gag.com/gag/aQzOAEw)
- - 💣 [Nein nein](http://9gag.com/gag/ary2x6y)
- - 😝 [Nice](http://9gag.com/gag/aByOX8z)
- - 👉 [When boss says do your job with full dedication](http://9gag.com/gag/a9yO5xL)<!-- MEMES:END -->
+ - 😝 [Nein nein](http://9gag.com/gag/ary2x6y)
+ - 😝 [It&#39;s the Je*s...](http://9gag.com/gag/a87KeRV)
+ - 💣 [So who gets what](http://9gag.com/gag/aGyOM8X)
+ - 😝 [DISGUSTING! 22-year-old New York school employee Anamaria Milazzo charged with a felony for allegedly sending n*des to a 14-year-old.](http://9gag.com/gag/aMVOvXP)
+ - 👉 [Be polite](http://9gag.com/gag/amopmNd)<!-- MEMES:END -->
 
 ---
 

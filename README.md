@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Have you ever seen a guardian angel](http://9gag.com/gag/avydRoX)
- - 😝 [Nice](http://9gag.com/gag/a2vLDew)
+ - 😝 [Suddenly my keys look amazing](http://9gag.com/gag/a9yOmm0)
+ - 😝 [The biggest turn-offs in movie space suits. Like, how can you see outside if your face is glowing?](http://9gag.com/gag/aD2OZd7)
  - 💣 [What did he do to deserve such thing?](http://9gag.com/gag/aKGO8Ag)
- - 😝 [I expect this to get thousands of upvotes...in 2 days..when it&#39;s reposted](http://9gag.com/gag/aMVOPZ1)
- - 👉 [We met again, old friend.](http://9gag.com/gag/aZZzE50)<!-- MEMES:END -->
+ - 😝 [So who gets what](http://9gag.com/gag/aGyOM8X)
+ - 👉 [Mexican TV shows are wild](http://9gag.com/gag/aE0OD7G)<!-- MEMES:END -->
 
 ---
 

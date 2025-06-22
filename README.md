@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Austin-based PE firm Haveli Investments agrees to acquire Couchbase, which offers a cloud database for AI applications, for about $1.5B &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/250622/p11#a250622p11)
  - [Texas enacts legislation, effective September 1, requiring a permit to operate self-driving vehicles, just before Tesla&#39;s planned robotaxi trial in Austin &lpar;Reuters&rpar;](http://www.techmeme.com/250622/p10#a250622p10)
  - [Max: The 28 Absolute Best TV Shows to Watch](https://www.cnet.com/tech/services-and-software/best-tv-series-on-max-june-2025/#ftag=CAD590a51e)
  - [A look at Apple&#39;s conservative approach to M&amp;A, which may need to change to catch up in AI by acquiring a startup like Perplexity, Cohere, Sierra AI, or Mistral &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250622/p9#a250622p9)
- - [Best Internet Providers in Ann Arbor, Michigan](https://www.cnet.com/home/internet/best-internet-providers-in-ann-arbor-mi/#ftag=CAD590a51e)
- - [Best Internet Providers in Aurora, Illinois](https://www.cnet.com/home/internet/best-internet-providers-in-aurora-il/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Ann Arbor, Michigan](https://www.cnet.com/home/internet/best-internet-providers-in-ann-arbor-mi/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

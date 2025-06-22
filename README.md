@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [A sprinkler working hard in the sand](http://9gag.com/gag/aXPKWz6)
- - 😝 [Laugh? I almost subscribed just to read it!](http://9gag.com/gag/agmE4Ax)
- - 💣 [Nice](http://9gag.com/gag/aByOX8z)
- - 😝 [Have you ever seen a guardian angel](http://9gag.com/gag/avydRoX)
- - 👉 [The biggest turn-offs in movie space suits. Like, how can you see outside if your face is glowing?](http://9gag.com/gag/aD2OZd7)<!-- MEMES:END -->
+ - 😝 [Medvedev: `we are ready to supply Iran with nuclear weapons if needed`. Israel: `Time to fight the final Boss`](http://9gag.com/gag/abAQ2dr)
+ - 💣 [It&#39;s the Je*s...](http://9gag.com/gag/a87KeRV)
+ - 😝 [That question is attempted murder\u00a0](http://9gag.com/gag/ary2B4y)
+ - 👉 [DISGUSTING! 22-year-old New York school employee Anamaria Milazzo charged with a felony for allegedly sending n*des to a 14-year-old.](http://9gag.com/gag/aMVOvXP)<!-- MEMES:END -->
 
 ---
 

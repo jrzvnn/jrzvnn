@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Texas enacts legislation, effective September 1, requiring a permit to operate self-driving vehicles, just before Tesla&#39;s planned robotaxi trial in Austin &lpar;Reuters&rpar;](http://www.techmeme.com/250622/p10#a250622p10)
+ - [Max: The 28 Absolute Best TV Shows to Watch](https://www.cnet.com/tech/services-and-software/best-tv-series-on-max-june-2025/#ftag=CAD590a51e)
  - [A look at Apple&#39;s conservative approach to M&amp;A, which may need to change to catch up in AI by acquiring a startup like Perplexity, Cohere, Sierra AI, or Mistral &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250622/p9#a250622p9)
- - [How to Clean Hearing Aids](https://www.wired.com/story/how-to-clean-hearing-aids/)
- - [Weird-shaped notebooks make me want to write again](https://www.theverge.com/tech/690335/notebook-triangle-sidekick-favorite)
- - [Purism&#39;s $1,999 security-focused Liberty Phone, assembled in the US with decade-old specs and some US-made parts, exposes the gaps in US phone manufacturing &lpar;Ben Raab/Wall Street Journal&rpar;](http://www.techmeme.com/250622/p8#a250622p8)<!-- TECH:END -->
+ - [Best Internet Providers in Ann Arbor, Michigan](https://www.cnet.com/home/internet/best-internet-providers-in-ann-arbor-mi/#ftag=CAD590a51e)
+ - [Best Internet Providers in Aurora, Illinois](https://www.cnet.com/home/internet/best-internet-providers-in-aurora-il/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

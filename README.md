@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Nintendo Switch 2 Accessories: Controllers, Cases, and More](https://www.wired.com/gallery/best-switch-2-accessories/)
+ - [A look at the US Army Reserve&#39;s Detachment 201, which lets tech executives, like Meta&#39;s Bosworth, give advice as senior officers while keeping their day jobs &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/250622/p7#a250622p7)
+ - [Heat Got You Dragging? These Simple Tricks Fight Fatigue Fast](https://www.cnet.com/health/medical/heat-got-you-dragging-these-simple-tricks-fight-fatigue-fast/#ftag=CAD590a51e)
  - [How the Universe and Its Mirrored Version Are Different](https://www.wired.com/story/how-the-universe-differs-from-its-mirror-image/)
- - [Best Samsung Phone of 2025](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)
- - [Poppin Sticky Memo Ball Review: Color-Code in Style](https://www.wired.com/review/poppin-sticky-memo-ball/)
- - [Before iOS 26, Here&#39;s What Apple Could Bring to Your iPhone With iOS 18.6](https://www.cnet.com/tech/services-and-software/before-ios-26-heres-what-apple-could-bring-to-your-iphone-with-ios-18-6/#ftag=CAD590a51e)
- - [Inside the Vera C. Rubin Observatory, whose 3.2-gigapixel camera will produce 60PB of space image data over 10 years, to be analyzed using ML and deep learning &lpar;New York Times&rpar;](http://www.techmeme.com/250622/p6#a250622p6)<!-- TECH:END -->
+ - [Best Samsung Phone of 2025](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

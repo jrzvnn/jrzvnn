@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How the Universe and Its Mirrored Version Are Different](https://www.wired.com/story/how-the-universe-differs-from-its-mirror-image/)
+ - [Best Samsung Phone of 2025](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)
  - [Poppin Sticky Memo Ball Review: Color-Code in Style](https://www.wired.com/review/poppin-sticky-memo-ball/)
- - [Inside the Vera C. Rubin Observatory, whose 3.2-gigapixel camera will produce 60PB of space image data over 10 years, to be analyzed using ML and deep learning &lpar;New York Times&rpar;](http://www.techmeme.com/250622/p6#a250622p6)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 22, #476](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-22-476/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for June 22, #742](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-22-742/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Before iOS 26, Here&#39;s What Apple Could Bring to Your iPhone With iOS 18.6](https://www.cnet.com/tech/services-and-software/before-ios-26-heres-what-apple-could-bring-to-your-iphone-with-ios-18-6/#ftag=CAD590a51e)
+ - [Inside the Vera C. Rubin Observatory, whose 3.2-gigapixel camera will produce 60PB of space image data over 10 years, to be analyzed using ML and deep learning &lpar;New York Times&rpar;](http://www.techmeme.com/250622/p6#a250622p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

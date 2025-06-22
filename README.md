@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s the Je*s...](http://9gag.com/gag/a87KeRV)
- - 😝 [I Regret Nothing](http://9gag.com/gag/ae97xRQ)
- - 💣 [Useless fact of the day:](http://9gag.com/gag/aGyO2YZ)
+ - 😝 [Wholesome conversation](http://9gag.com/gag/a9yOmGW)
+ - 😝 [Caught another one on camera](http://9gag.com/gag/ayNYRjp)
+ - 💣 [I Regret Nothing](http://9gag.com/gag/ae97xRQ)
  - 😝 [The ultimate in minimalist shopping.](http://9gag.com/gag/ae972Y5)
- - 👉 [Main-character syndrome](http://9gag.com/gag/aYQA15V)<!-- MEMES:END -->
+ - 👉 [It&#39;s the Je*s...](http://9gag.com/gag/a87KeRV)<!-- MEMES:END -->
 
 ---
 

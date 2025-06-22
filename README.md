@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to grow a blue diamond. Now I know for sure diamonds are worthless, if you can turn one from yourself.](http://9gag.com/gag/adBoQ1B)
- - 😝 [Tarantino&#39;s unique directorial vision.](http://9gag.com/gag/aQzOAZK)
- - 💣 [The biggest turn-offs in movie space suits. Like, how can you see outside if your face is glowing?](http://9gag.com/gag/aD2OZd7)
- - 😝 [DISGUSTING! 22-year-old New York school employee Anamaria Milazzo charged with a felony for allegedly sending n*des to a 14-year-old.](http://9gag.com/gag/aMVOvXP)
- - 👉 [Story of my life](http://9gag.com/gag/ayNYWqX)<!-- MEMES:END -->
+ - 😝 [Forget leg day. Do this.](http://9gag.com/gag/avydxAq)
+ - 😝 [Story of my life](http://9gag.com/gag/ayNYWqX)
+ - 💣 [DISGUSTING! 22-year-old New York school employee Anamaria Milazzo charged with a felony for allegedly sending n*des to a 14-year-old.](http://9gag.com/gag/aMVOvXP)
+ - 😝 [The biggest turn-offs in movie space suits. Like, how can you see outside if your face is glowing?](http://9gag.com/gag/aD2OZd7)
+ - 👉 [Mexican TV shows are wild](http://9gag.com/gag/aE0OD7G)<!-- MEMES:END -->
 
 ---
 

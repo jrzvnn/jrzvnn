@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nein nein](http://9gag.com/gag/ary2x6y)
- - 😝 [It&#39;s the Je*s...](http://9gag.com/gag/a87KeRV)
- - 💣 [So who gets what](http://9gag.com/gag/aGyOM8X)
- - 😝 [DISGUSTING! 22-year-old New York school employee Anamaria Milazzo charged with a felony for allegedly sending n*des to a 14-year-old.](http://9gag.com/gag/aMVOvXP)
- - 👉 [Be polite](http://9gag.com/gag/amopmNd)<!-- MEMES:END -->
+ - 😝 [Insert star man meme](http://9gag.com/gag/ae972Dp)
+ - 😝 [Day 6! Right one looks a little bit better but i think she was it from the begining. &lpar;Banana for scale&rpar;](http://9gag.com/gag/amopVx6)
+ - 💣 [Time for European guilt again...](http://9gag.com/gag/aD2OX79)
+ - 😝 [Day 5](http://9gag.com/gag/an7rE50)
+ - 👉 [Coach&#39;s reaction says it all.](http://9gag.com/gag/aByOG0O)<!-- MEMES:END -->
 
 ---
 

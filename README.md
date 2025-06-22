@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;The Bear&#39;: Here&#39;s How to Watch Season 4 of the Hit Food Drama](https://www.cnet.com/tech/services-and-software/yes-chef-the-bear-is-back-heres-how-to-watch-season-4-of-the-hit-food-drama/#ftag=CAD590a51e)
- - [The Senate parliamentarian rules that a Republican effort blocking US states from enforcing AI laws for 10 years will remain in Trump&#39;s One Big Beautiful Bill &lpar;Bloomberg&rpar;](http://www.techmeme.com/250622/p12#a250622p12)
- - [Best Internet Providers in Arlington, Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-arlington-va/#ftag=CAD590a51e)
- - [Real Madrid vs. Pachuca From Anywhere for Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/real-madrid-vs-pachuca-from-anywhere-for-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)
- - [Vapor chamber considered as cooling system for iPhone 17 line, claims leaker](https://appleinsider.com/articles/25/06/22/vapor-chamber-considered-as-cooling-system-for-iphone-17-line-claims-leaker?utm_medium=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 23, #273](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-23-273/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for June 23, #1465](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-23-1465/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 23, #477](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-23-477/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 23, #743](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-23-743/#ftag=CAD590a51e)
+ - [Tesla&#39;s Robotaxi Service Hits the Road in Texas](https://www.wired.com/story/tesla-robotaxi-service-launches-austin-texas/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

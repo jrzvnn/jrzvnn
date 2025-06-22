@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Time for European guilt again...](http://9gag.com/gag/aD2OX79)
- - 😝 [&#39;Magic&#39; is a matter of perspective.](http://9gag.com/gag/aYQA1Dv)
- - 💣 [Nailed it.](http://9gag.com/gag/a87Kwpp)
- - 😝 [Insert star man meme](http://9gag.com/gag/ae972Dp)
- - 👉 [That looks like ...](http://9gag.com/gag/aE0ODpn)<!-- MEMES:END -->
+ - 😝 [A sprinkler working hard in the sand](http://9gag.com/gag/aXPKWz6)
+ - 😝 [Laugh? I almost subscribed just to read it!](http://9gag.com/gag/agmE4Ax)
+ - 💣 [Nice](http://9gag.com/gag/aByOX8z)
+ - 😝 [Have you ever seen a guardian angel](http://9gag.com/gag/avydRoX)
+ - 👉 [The biggest turn-offs in movie space suits. Like, how can you see outside if your face is glowing?](http://9gag.com/gag/aD2OZd7)<!-- MEMES:END -->
 
 ---
 

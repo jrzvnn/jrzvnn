@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Insert star man meme](http://9gag.com/gag/ae972Dp)
- - 😝 [Day 5](http://9gag.com/gag/an7rE50)
- - 💣 [Coach&#39;s reaction says it all.](http://9gag.com/gag/aByOG0O)
- - 😝 [Time for European guilt again...](http://9gag.com/gag/aD2OX79)
- - 👉 [The highlight of the week.](http://9gag.com/gag/aXPK7xd)<!-- MEMES:END -->
+ - 😝 [The biggest turn-offs in movie space suits. Like, how can you see outside if your face is glowing?](http://9gag.com/gag/aD2OZd7)
+ - 😝 [Mexican TV shows are wild](http://9gag.com/gag/aE0OD7G)
+ - 💣 [Be polite](http://9gag.com/gag/amopmNd)
+ - 😝 [That guy was probably on his phone](http://9gag.com/gag/aQzOAEw)
+ - 👉 [DISGUSTING! 22-year-old New York school employee Anamaria Milazzo charged with a felony for allegedly sending n*des to a 14-year-old.](http://9gag.com/gag/aMVOvXP)<!-- MEMES:END -->
 
 ---
 

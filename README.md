@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice](http://9gag.com/gag/aByOX8z)
- - 😝 [Probably his first day](http://9gag.com/gag/aPA1eNG)
- - 💣 [So who gets what](http://9gag.com/gag/aGyOM8X)
- - 😝 [The biggest turn-offs in movie space suits. Like, how can you see outside if your face is glowing?](http://9gag.com/gag/aD2OZd7)
- - 👉 [Environmental advice from 1963 hits a little different today.](http://9gag.com/gag/a4PWqZw)<!-- MEMES:END -->
+ - 😝 [Time for European guilt again...](http://9gag.com/gag/aD2OX79)
+ - 😝 [&#39;Magic&#39; is a matter of perspective.](http://9gag.com/gag/aYQA1Dv)
+ - 💣 [Nailed it.](http://9gag.com/gag/a87Kwpp)
+ - 😝 [Insert star man meme](http://9gag.com/gag/ae972Dp)
+ - 👉 [That looks like ...](http://9gag.com/gag/aE0ODpn)<!-- MEMES:END -->
 
 ---
 

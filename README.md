@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The biggest turn-offs in movie space suits. Like, how can you see outside if your face is glowing?](http://9gag.com/gag/aD2OZd7)
- - 😝 [Mexican TV shows are wild](http://9gag.com/gag/aE0OD7G)
- - 💣 [Be polite](http://9gag.com/gag/amopmNd)
- - 😝 [That guy was probably on his phone](http://9gag.com/gag/aQzOAEw)
- - 👉 [DISGUSTING! 22-year-old New York school employee Anamaria Milazzo charged with a felony for allegedly sending n*des to a 14-year-old.](http://9gag.com/gag/aMVOvXP)<!-- MEMES:END -->
+ - 😝 [So who gets what](http://9gag.com/gag/aGyOM8X)
+ - 😝 [DISGUSTING! 22-year-old New York school employee Anamaria Milazzo charged with a felony for allegedly sending n*des to a 14-year-old.](http://9gag.com/gag/aMVOvXP)
+ - 💣 [Mexican TV shows are wild](http://9gag.com/gag/aE0OD7G)
+ - 😝 [Nice](http://9gag.com/gag/aByOX8z)
+ - 👉 [Wait, did it just swallow that whole bone?](http://9gag.com/gag/adBoxBM)<!-- MEMES:END -->
 
 ---
 

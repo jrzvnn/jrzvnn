@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Texas enacts legislation, effective September 1, requiring a permit to operate self-driving vehicles, just before Tesla&#39;s planned robotaxi trial in Austin &lpar;Reuters&rpar;](http://www.techmeme.com/250622/p10#a250622p10)
  - [A look at Apple&#39;s conservative approach to M&amp;A, which may need to change to catch up in AI by acquiring a startup like Perplexity, Cohere, Sierra AI, or Mistral &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250622/p9#a250622p9)
  - [How to Clean Hearing Aids](https://www.wired.com/story/how-to-clean-hearing-aids/)
  - [Weird-shaped notebooks make me want to write again](https://www.theverge.com/tech/690335/notebook-triangle-sidekick-favorite)
- - [Purism&#39;s $1,999 security-focused Liberty Phone, assembled in the US with decade-old specs and some US-made parts, exposes the gaps in US phone manufacturing &lpar;Ben Raab/Wall Street Journal&rpar;](http://www.techmeme.com/250622/p8#a250622p8)
- - [The 10 Best Greens Powders, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-greens-powders/)<!-- TECH:END -->
+ - [Purism&#39;s $1,999 security-focused Liberty Phone, assembled in the US with decade-old specs and some US-made parts, exposes the gaps in US phone manufacturing &lpar;Ben Raab/Wall Street Journal&rpar;](http://www.techmeme.com/250622/p8#a250622p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

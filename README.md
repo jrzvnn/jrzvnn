@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They just came to say hi](http://9gag.com/gag/adBonv2)
- - 😝 [What did he do to deserve such thing?](http://9gag.com/gag/aKGO8Ag)
- - 💣 [The true masters of art](http://9gag.com/gag/apRYPAE)
- - 😝 [Wait, did it just swallow that whole bone?](http://9gag.com/gag/adBoxBM)
- - 👉 [Haaaaans!](http://9gag.com/gag/aoyYR6A)<!-- MEMES:END -->
+ - 😝 [How to grow a blue diamond. Now I know for sure diamonds are worthless, if you can turn one from yourself.](http://9gag.com/gag/adBoQ1B)
+ - 😝 [Tarantino&#39;s unique directorial vision.](http://9gag.com/gag/aQzOAZK)
+ - 💣 [The biggest turn-offs in movie space suits. Like, how can you see outside if your face is glowing?](http://9gag.com/gag/aD2OZd7)
+ - 😝 [DISGUSTING! 22-year-old New York school employee Anamaria Milazzo charged with a felony for allegedly sending n*des to a 14-year-old.](http://9gag.com/gag/aMVOvXP)
+ - 👉 [Story of my life](http://9gag.com/gag/ayNYWqX)<!-- MEMES:END -->
 
 ---
 

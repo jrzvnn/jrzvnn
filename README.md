@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The biggest turn-offs in movie space suits. Like, how can you see outside if your face is glowing?](http://9gag.com/gag/aD2OZd7)
  - 😝 [Be polite](http://9gag.com/gag/amopmNd)
- - 💣 [It&#39;s the Je*s...](http://9gag.com/gag/a87KeRV)
- - 😝 [What did he do to deserve such thing?](http://9gag.com/gag/aKGO8Ag)
+ - 😝 [The biggest turn-offs in movie space suits. Like, how can you see outside if your face is glowing?](http://9gag.com/gag/aD2OZd7)
+ - 💣 [What did he do to deserve such thing?](http://9gag.com/gag/aKGO8Ag)
+ - 😝 [It&#39;s the Je*s...](http://9gag.com/gag/a87KeRV)
  - 👉 [DISGUSTING! 22-year-old New York school employee Anamaria Milazzo charged with a felony for allegedly sending n*des to a 14-year-old.](http://9gag.com/gag/aMVOvXP)<!-- MEMES:END -->
 
 ---

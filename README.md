@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The biggest turn-offs in movie space suits. Like, how can you see outside if your face is glowing?](http://9gag.com/gag/aD2OZd7)
- - 😝 [What did he do to deserve such thing?](http://9gag.com/gag/aKGO8Ag)
- - 💣 [Be polite](http://9gag.com/gag/amopmNd)
- - 😝 [That guy was probably on his phone](http://9gag.com/gag/aQzOAEw)
- - 👉 [When boss says do your job with full dedication](http://9gag.com/gag/a9yO5xL)<!-- MEMES:END -->
+ - 😝 [Mexican TV shows are wild](http://9gag.com/gag/aE0OD7G)
+ - 😝 [It&#39;s the Je*s...](http://9gag.com/gag/a87KeRV)
+ - 💣 [That guy was probably on his phone](http://9gag.com/gag/aQzOAEw)
+ - 😝 [Be polite](http://9gag.com/gag/amopmNd)
+ - 👉 [The biggest turn-offs in movie space suits. Like, how can you see outside if your face is glowing?](http://9gag.com/gag/aD2OZd7)<!-- MEMES:END -->
 
 ---
 

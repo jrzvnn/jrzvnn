@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe Labs launches Project Indigo, a free computational photography app for iPhones that captures a burst of images and combines them into a high-quality photo &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250622/p3#a250622p3)
+ - [Slide, which develops data backup and disaster recovery tech for managed service providers serving SMBs, raised a $25M Series A led by Base10 Partners &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250622/p2#a250622p2)
+ - [HP Coupon Codes: 5% Off | June 2025](https://www.wired.com/story/hp-coupon-code/)
  - [Fidelity: ~50% of UK investors trust social media, finfluencers, and AI tools for financial decisions; only ~33% used a qualified adviser in the past two years &lpar;Maisie Grice/Financial Times&rpar;](http://www.techmeme.com/250622/p1#a250622p1)
- - [Onebrief, which makes military workflow software, raised a $20M Series C extension led by Battery Ventures at a $1.1B valuation, taking the round total to $70M &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250621/p20#a250621p20)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 22, #272](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-22-272/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, June 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-june-22/#ftag=CAD590a51e)
- - [A look at DARPA&#39;s &quot;Exponentiating Mathematics&quot; program, which aims to speed up progress in pure mathematics by developing an AI &quot;co-author&quot; to conduct research &lpar;Alexander Nazaryan/New York Times&rpar;](http://www.techmeme.com/250621/p19#a250621p19)<!-- TECH:END -->
+ - [Onebrief, which makes military workflow software, raised a $20M Series C extension led by Battery Ventures at a $1.1B valuation, taking the round total to $70M &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250621/p20#a250621p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

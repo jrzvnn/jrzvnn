@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So who gets what](http://9gag.com/gag/aGyOM8X)
- - 😝 [The biggest turn-offs in movie space suits. Like, how can you see outside if your face is glowing?](http://9gag.com/gag/aD2OZd7)
- - 💣 [It&#39;s the Je*s...](http://9gag.com/gag/a87KeRV)
  - 😝 [Laugh? I almost subscribed just to read it!](http://9gag.com/gag/agmE4Ax)
- - 👉 [Mexican TV shows are wild](http://9gag.com/gag/aE0OD7G)<!-- MEMES:END -->
+ - 😝 [Mexican TV shows are wild](http://9gag.com/gag/aE0OD7G)
+ - 💣 [The biggest turn-offs in movie space suits. Like, how can you see outside if your face is glowing?](http://9gag.com/gag/aD2OZd7)
+ - 😝 [So who gets what](http://9gag.com/gag/aGyOM8X)
+ - 👉 [It&#39;s the Je*s...](http://9gag.com/gag/a87KeRV)<!-- MEMES:END -->
 
 ---
 

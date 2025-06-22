@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Poppin Sticky Memo Ball Review: Color-Code in Style](https://www.wired.com/review/poppin-sticky-memo-ball/)
  - [Inside the Vera C. Rubin Observatory, whose 3.2-gigapixel camera will produce 60PB of space image data over 10 years, to be analyzed using ML and deep learning &lpar;New York Times&rpar;](http://www.techmeme.com/250622/p6#a250622p6)
- - [An interview with LinkedIn CEO Ryan Roslansky on how AI is affecting the jobs market, AI agents, dealing with fake AI-generated accounts, and more &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250622/p5#a250622p5)
- - [London-based PhysicsX, which uses AI to design industrial parts such as engine and drone components, raised $135M, a source says at just under a $1B valuation &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/250622/p4#a250622p4)
- - [Adobe Labs launches Project Indigo, a free computational photography app for iPhones that captures a burst of images and combines them into a high-quality photo &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250622/p3#a250622p3)
- - [Slide, which develops data backup and disaster recovery tech for managed service providers serving SMBs, raised a $25M Series A led by Base10 Partners &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250622/p2#a250622p2)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 22, #476](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-22-476/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 22, #742](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-22-742/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for June 22, #1464](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-22-1464/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

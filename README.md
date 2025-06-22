@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Apple&#39;s conservative approach to M&amp;A, which may need to change to catch up in AI by acquiring a startup like Perplexity, Cohere, Sierra AI, or Mistral &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250622/p9#a250622p9)
  - [How to Clean Hearing Aids](https://www.wired.com/story/how-to-clean-hearing-aids/)
  - [Weird-shaped notebooks make me want to write again](https://www.theverge.com/tech/690335/notebook-triangle-sidekick-favorite)
  - [Purism&#39;s $1,999 security-focused Liberty Phone, assembled in the US with decade-old specs and some US-made parts, exposes the gaps in US phone manufacturing &lpar;Ben Raab/Wall Street Journal&rpar;](http://www.techmeme.com/250622/p8#a250622p8)
- - [The 10 Best Greens Powders, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-greens-powders/)
- - [A19 chip could match Qualcomm&#39;s best, but Apple may lean toward power savings instead](https://appleinsider.com/articles/25/06/22/a19-chip-could-match-qualcomms-best-but-apple-may-lean-toward-power-savings-instead?utm_medium=rss)<!-- TECH:END -->
+ - [The 10 Best Greens Powders, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-greens-powders/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Laugh? I almost subscribed just to read it!](http://9gag.com/gag/agmE4Ax)
+ - 😝 [They just came to say hi](http://9gag.com/gag/adBonv2)
  - 😝 [Mexican TV shows are wild](http://9gag.com/gag/aE0OD7G)
  - 💣 [The biggest turn-offs in movie space suits. Like, how can you see outside if your face is glowing?](http://9gag.com/gag/aD2OZd7)
  - 😝 [So who gets what](http://9gag.com/gag/aGyOM8X)
- - 👉 [It&#39;s the Je*s...](http://9gag.com/gag/a87KeRV)<!-- MEMES:END -->
+ - 👉 [That guy was probably on his phone](http://9gag.com/gag/aQzOAEw)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Suddenly my keys look amazing](http://9gag.com/gag/a9yOmm0)
- - 😝 [The biggest turn-offs in movie space suits. Like, how can you see outside if your face is glowing?](http://9gag.com/gag/aD2OZd7)
- - 💣 [What did he do to deserve such thing?](http://9gag.com/gag/aKGO8Ag)
- - 😝 [So who gets what](http://9gag.com/gag/aGyOM8X)
- - 👉 [Mexican TV shows are wild](http://9gag.com/gag/aE0OD7G)<!-- MEMES:END -->
+ - 😝 [Nice](http://9gag.com/gag/a2vLDew)
+ - 💣 [Have you ever seen a guardian angel](http://9gag.com/gag/avydRoX)
+ - 😝 [What did he do to deserve such thing?](http://9gag.com/gag/aKGO8Ag)
+ - 👉 [We met again, old friend.](http://9gag.com/gag/aZZzE50)<!-- MEMES:END -->
 
 ---
 

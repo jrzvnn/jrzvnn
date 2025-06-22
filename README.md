@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Forget leg day. Do this.](http://9gag.com/gag/avydxAq)
- - 😝 [Story of my life](http://9gag.com/gag/ayNYWqX)
- - 💣 [DISGUSTING! 22-year-old New York school employee Anamaria Milazzo charged with a felony for allegedly sending n*des to a 14-year-old.](http://9gag.com/gag/aMVOvXP)
- - 😝 [The biggest turn-offs in movie space suits. Like, how can you see outside if your face is glowing?](http://9gag.com/gag/aD2OZd7)
- - 👉 [Mexican TV shows are wild](http://9gag.com/gag/aE0OD7G)<!-- MEMES:END -->
+ - 😝 [Laugh? I almost subscribed just to read it!](http://9gag.com/gag/agmE4Ax)
+ - 😝 [That pattern brings back so many memories](http://9gag.com/gag/aO8RZo6)
+ - 💣 [Life comes at you fast sometimes](http://9gag.com/gag/ae97ZrB)
+ - 😝 [Wait, did it just swallow that whole bone?](http://9gag.com/gag/adBoxBM)
+ - 👉 [Haaaaans!](http://9gag.com/gag/aoyYR6A)<!-- MEMES:END -->
 
 ---
 

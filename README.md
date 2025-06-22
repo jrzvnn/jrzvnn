@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Time for European guilt again...](http://9gag.com/gag/aD2OX79)
- - 😝 [&#39;Magic&#39; is a matter of perspective.](http://9gag.com/gag/aYQA1Dv)
- - 💣 [Nailed it.](http://9gag.com/gag/a87Kwpp)
- - 😝 [Insert star man meme](http://9gag.com/gag/ae972Dp)
- - 👉 [Day 6! Right one looks a little bit better but i think she was it from the begining. &lpar;Banana for scale&rpar;](http://9gag.com/gag/amopVx6)<!-- MEMES:END -->
+ - 😝 [Nice](http://9gag.com/gag/aByOX8z)
+ - 😝 [DISGUSTING! 22-year-old New York school employee Anamaria Milazzo charged with a felony for allegedly sending n*des to a 14-year-old.](http://9gag.com/gag/aMVOvXP)
+ - 💣 [Have you ever seen a guardian angel](http://9gag.com/gag/avydRoX)
+ - 😝 [The biggest turn-offs in movie space suits. Like, how can you see outside if your face is glowing?](http://9gag.com/gag/aD2OZd7)
+ - 👉 [So who gets what](http://9gag.com/gag/aGyOM8X)<!-- MEMES:END -->
 
 ---
 

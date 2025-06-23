@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Suddenly my keys look amazing](http://9gag.com/gag/a9yOmm0)
+ - 😝 [And how was your summer vacation flight?](http://9gag.com/gag/aO8RR83)
+ - 😝 [Slingshot Girl](http://9gag.com/gag/aMVOXyA)
+ - 💣 [Wholesome conversation](http://9gag.com/gag/a9yOmGW)
  - 😝 [Wait, did it just swallow that whole bone?](http://9gag.com/gag/adBoxBM)
- - 💣 [Environmental advice from 1963 hits a little different today.](http://9gag.com/gag/a4PWqZw)
- - 😝 [Main-character syndrome](http://9gag.com/gag/aYQA15V)
- - 👉 [Probably his first day](http://9gag.com/gag/aPA1eNG)<!-- MEMES:END -->
+ - 👉 [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)<!-- MEMES:END -->
 
 ---
 

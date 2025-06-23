@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Texas becomes the third US state to approve a public crypto reserve, allowing direct purchases of assets averaging $500B+ in market cap over 24 months &lpar;Vince Dioquino/Decrypt&rpar;](http://www.techmeme.com/250623/p2#a250623p2)
  - [A look at BeeHome, an AI-powered robotic beehive developed by Beewise, which has raised ~$170M and helps reduce losses by monitoring colony health in real time &lpar;Brian Kahn/Bloomberg&rpar;](http://www.techmeme.com/250623/p1#a250623p1)
  - [Behind Mark Zuckerberg&#39;s sweeping recruitment effort for Meta&#39;s Superintelligence lab, including hundreds of reach outs, $100M+ offers and counter offers, more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250622/p18#a250622p18)
  - [Inside Disney&#39;s plan to limit AI companies&#39; use of its IP, which led Disney and Comcast to sue Midjourney; Disney is also in talks with companies like OpenAI &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250622/p17#a250622p17)
- - [Wolfspeed, a NC-based chipmaker for EVs, says it made a deal with creditors to reduce its ~$6.5B debt in a bankruptcy package that nearly wipes out shareholders &lpar;Sujeet Indap/Financial Times&rpar;](http://www.techmeme.com/250622/p16#a250622p16)
- - [How AI is enabling a &quot;botscaling&quot; era in Silicon Valley, where companies achieve high revenue per employee with minimal headcount &lpar;Walter Frick/Bloomberg&rpar;](http://www.techmeme.com/250622/p15#a250622p15)<!-- TECH:END -->
+ - [Wolfspeed, a NC-based chipmaker for EVs, says it made a deal with creditors to reduce its ~$6.5B debt in a bankruptcy package that nearly wipes out shareholders &lpar;Sujeet Indap/Financial Times&rpar;](http://www.techmeme.com/250622/p16#a250622p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

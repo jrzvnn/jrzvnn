@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)
+ - 😝 [I&#39;d never drive in that however the engineering of these things is impressive. Black Hole roller coaster in Gardaland.](http://9gag.com/gag/aGyOAq0)
+ - 😝 [Environmental advice from 1963 hits a little different today.](http://9gag.com/gag/a4PWqZw)
+ - 💣 [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)
  - 😝 [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)
- - 💣 [I&#39;d never drive in that however the engineering of these things is impressive. Black Hole roller coaster in Gardaland.](http://9gag.com/gag/aGyOAq0)
- - 😝 [I took it as a joke, which it probably was. Otherwise I&#39;m f**ked](http://9gag.com/gag/aKGOODZ)
- - 👉 [The classic soda and candy reaction](http://9gag.com/gag/a7opnbx)<!-- MEMES:END -->
+ - 👉 [Excellent job, 47](http://9gag.com/gag/aRBOOj2)<!-- MEMES:END -->
 
 ---
 

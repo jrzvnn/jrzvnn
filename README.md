@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple may offer to make at least some App Store changes to appease EU](https://appleinsider.com/articles/25/06/23/apple-may-offer-to-make-at-least-some-app-store-changes-to-appease-eu?utm_medium=rss)
- - [Fanfiction writers battle AI, one scrape at a time](https://www.theverge.com/ai-artificial-intelligence/688640/fanfiction-ai)
- - [DHL, UPS, FedEx, and Walmart are using robots to boost warehouse efficiency and cut costs, including automating the physically demanding task of loading trucks &lpar;Esther Fung/Wall Street Journal&rpar;](http://www.techmeme.com/250623/p10#a250623p10)
- - [How to delete an Apple Account](https://appleinsider.com/articles/21/01/04/how-to-delete-an-apple-id-account?utm_medium=rss)
- - [Study: only 32 countries, mostly in the Northern Hemisphere, host AI data centers, with the US, China, and the EU controlling 50%+ of the world&#39;s top facilities &lpar;New York Times&rpar;](http://www.techmeme.com/250623/p9#a250623p9)<!-- TECH:END -->
+ - [Sources: Google reduces its Google TV and Android TV budget by 10% and cuts Android TV and Google TV&#39;s ~300 employees by up to 25%, as it focuses on YouTube &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/250623/p12#a250623p12)
+ - [Nuki smart lock, Hue wall washer &amp; Blue Air Signature purifier on HomeKit Insider](https://appleinsider.com/articles/25/06/23/nuki-smart-lock-hue-wall-washer-blue-air-signature-purifier-on-homekit-insider?utm_medium=rss)
+ - [Google unveils Gemini AI features, like select to search, for Chromebook Plus laptops like Lenovo&#39;s new $649+ 14&quot; flagship with MediaTek&#39;s Kompanio Ultra chip &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/250623/p11#a250623p11)
+ - [Chromebook Plus laptops like Lenovo’s sleek, new 14-incher are getting free Gemini AI features](https://www.theverge.com/news/690885/google-chromeos-gemini-ai-select-to-search-lenovo-chromebook-plus-14)
+ - [Apple may offer to make at least some App Store changes to appease EU](https://appleinsider.com/articles/25/06/23/apple-may-offer-to-make-at-least-some-app-store-changes-to-appease-eu?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

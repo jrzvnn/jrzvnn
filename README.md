@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sometimes the old ways are the best ways. Or cheapest.](http://9gag.com/gag/aD2OVBw)
- - 😝 [Environmental advice from 1963 hits a little different today.](http://9gag.com/gag/a4PWqZw)
- - 💣 [Nice](http://9gag.com/gag/aByOX8z)
- - 😝 [Good friends will always play with you...](http://9gag.com/gag/aqyYYbZ)
- - 👉 [World record breaking longest commute time](http://9gag.com/gag/a1mEEqb)<!-- MEMES:END -->
+ - 😝 [Parking](http://9gag.com/gag/an7rrvb)
+ - 😝 [This Panda is not like the others](http://9gag.com/gag/aW4DDdA)
+ - 💣 [Trump should take out the UK next..](http://9gag.com/gag/a9yOO10)
+ - 😝 [Absolute cinema](http://9gag.com/gag/a34bb83)
+ - 👉 [Impressing your date with unexpected talents](http://9gag.com/gag/apRYYVb)<!-- MEMES:END -->
 
 ---
 

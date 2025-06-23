@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Parking](http://9gag.com/gag/an7rrvb)
- - 😝 [This Panda is not like the others](http://9gag.com/gag/aW4DDdA)
- - 💣 [Trump should take out the UK next..](http://9gag.com/gag/a9yOO10)
- - 😝 [Absolute cinema](http://9gag.com/gag/a34bb83)
- - 👉 [Impressing your date with unexpected talents](http://9gag.com/gag/apRYYVb)<!-- MEMES:END -->
+ - 😝 [An interesting theory on generational wealth and physical traits.](http://9gag.com/gag/a87KVMe)
+ - 😝 [Impressing your date with unexpected talents](http://9gag.com/gag/apRYYVb)
+ - 💣 [Nice](http://9gag.com/gag/aByOX8z)
+ - 😝 [Very human design](http://9gag.com/gag/aGyOAZn)
+ - 👉 [The ultimate in minimalist shopping.](http://9gag.com/gag/ae972Y5)<!-- MEMES:END -->
 
 ---
 

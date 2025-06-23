@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Sometimes the old ways are the best ways. Or cheapest.](http://9gag.com/gag/aD2OVBw)
  - 😝 [Environmental advice from 1963 hits a little different today.](http://9gag.com/gag/a4PWqZw)
- - 😝 [Nice](http://9gag.com/gag/aByOX8z)
- - 💣 [Very human design](http://9gag.com/gag/aGyOAZn)
+ - 💣 [Nice](http://9gag.com/gag/aByOX8z)
  - 😝 [Good friends will always play with you...](http://9gag.com/gag/aqyYYbZ)
  - 👉 [World record breaking longest commute time](http://9gag.com/gag/a1mEEqb)<!-- MEMES:END -->
 

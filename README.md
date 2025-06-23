@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New York’s getting a new nuclear power plant](https://www.theverge.com/news/691431/nuclear-power-plant-new-york-advanced-reactor)
+ - [What&#39;s new in iOS 26 beta 2: New ringtone, Control Center tweak, recovery assistant and more](https://appleinsider.com/articles/25/06/23/whats-new-in-ios-26-beta-2-new-ringtone-control-center-tweak-recovery-assistant-and-more?utm_medium=rss)
  - [iOS 26 Recovery Assistant will help users quickly restore a crashed iPhone](https://appleinsider.com/articles/25/06/23/ios-26-recovery-assistant-will-help-users-quickly-restore-a-crashed-iphone?utm_medium=rss)
  - [Apple’s USB-C EarPods are an even better buy at just $15.99](https://www.theverge.com/tech/691338/apple-usb-c-earpods-wired-earbuds-deal-sale)
- - [Videos captured by riders appear to show Tesla&#39;s self-driving taxis violating traffic laws, including entering the opposite lane and exceeding speed limits &lpar;Bloomberg&rpar;](http://www.techmeme.com/250623/p32#a250623p32)
- - [Samsung unveils the Exynos 2500 chipset, built on a 3nm GAA node and featuring the 4th-gen Xclipse 950 GPU and an NPU with up to 59 TOPS of AI performance &lpar;Will Sattelberg/9to5Google&rpar;](http://www.techmeme.com/250623/p31#a250623p31)
- - [Mattress Encasement vs. Mattress Protector](https://www.wired.com/story/mattress-protector-vs-mattress-encasement/)<!-- TECH:END -->
+ - [Videos captured by riders appear to show Tesla&#39;s self-driving taxis violating traffic laws, including entering the opposite lane and exceeding speed limits &lpar;Bloomberg&rpar;](http://www.techmeme.com/250623/p32#a250623p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

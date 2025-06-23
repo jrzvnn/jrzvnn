@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo’s GameCube controller for the Switch 2 is available once again](https://www.theverge.com/tech/691562/nintendo-wireless-gamecube-controller-switch-2-restock)
+ - [Sources: Mira Murati has told investors Thinking Machines Lab plans to develop customized AI models based on business KPIs, and also plans a consumer product &lpar;The Information&rpar;](http://www.techmeme.com/250623/p38#a250623p38)
  - [Microsoft unveils Mu, an on-device small language model used in Copilot+ PCs, mapping natural language queries in the Settings app to function calls &lpar;Paul Thurrott/Thurrott&rpar;](http://www.techmeme.com/250623/p37#a250623p37)
  - [Phew: Apple fixed the Finder icon in macOS Tahoe 26](https://www.theverge.com/news/691643/apple-macos-tahoe-26-finder-icon-beta)
- - [The Steam Deck OLED is back in stock](https://www.theverge.com/news/691604/steam-deck-oled-valve-in-stock)
- - [New in macOS Tahoe beta 2: Menu bar background toggle, revamped Finder icon](https://appleinsider.com/articles/25/06/23/new-in-macos-tahoe-beta-2-menu-bar-background-toggle-revamped-finder-icon?utm_medium=rss)
- - [The Expanse: Osiris Reborn Will Take Cues From Mass Effect, Souls Games and More](https://www.cnet.com/tech/gaming/the-expanse-osiris-reborn-will-take-cues-from-mass-effect-souls-games-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Steam Deck OLED is back in stock](https://www.theverge.com/news/691604/steam-deck-oled-valve-in-stock)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

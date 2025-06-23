@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple is locked in last-minute EU negotiations over App Store changes to avoid fines set for this week, and is expected to offer &quot;steering&quot; concessions &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/250623/p8#a250623p8)
+ - [OpenAI pulls Jony Ive promo video over trademark dispute](https://appleinsider.com/articles/25/06/23/openai-pulls-jony-ive-promo-video-over-trademark-dispute?utm_medium=rss)
  - [Nothing Headphone 1 leaks show quirky translucent design](https://www.theverge.com/news/691010/nothing-headphone-1-design-leak)
  - [Recycled Polyester Saved This American Factory. Environmentalists Hate It](https://www.wired.com/story/repreve-recycled-polyester-saved-unifi-factory-environmentalists-hate-it/)
- - [Watch a video &amp; download Apple&#39;s presentation to get your parents to buy you a Mac [U]](https://appleinsider.com/articles/25/06/20/watch-a-video-download-apples-presentation-to-get-your-parents-to-buy-you-a-mac?utm_medium=rss)
- - [China&#39;s Electric Vehicle Factories Have Become Tourist Hotspots](https://www.wired.com/story/china-electric-vehicle-factory-tours-xiaomi/)
- - [How Walmart, seeking to compete with e-commerce rivals like Amazon, built a multibillion-dollar HQ in Bentonville, aiming to attract workers and woo shoppers &lpar;Kevin Draper/New York Times&rpar;](http://www.techmeme.com/250623/p7#a250623p7)<!-- TECH:END -->
+ - [Watch a video &amp; download Apple&#39;s presentation to get your parents to buy you a Mac [U]](https://appleinsider.com/articles/25/06/20/watch-a-video-download-apples-presentation-to-get-your-parents-to-buy-you-a-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

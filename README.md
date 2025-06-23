@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Internal memo: Goldman Sachs launches a generative AI assistant firmwide to boost productivity; around 10,000 employees are already using the GS AI Assistant &lpar;Reuters&rpar;](http://www.techmeme.com/250623/p40#a250623p40)
  - [Samsung schedules its next Galaxy Unpacked event for July 9 at 10am ET in Brooklyn, where AI updates, the Galaxy Z Fold 7, and Galaxy Z Flip 7 are expected &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/250623/p39#a250623p39)
  - [Samsung confirms Unpacked for early July](https://www.theverge.com/news/691662/samsung-unpacked-july-ultra-foldable)
  - [T-Mobile’s satellite service officially launches in July](https://www.theverge.com/tech/691521/t-mobile-satellite-service-starlink-launch-date)
- - [Nintendo’s GameCube controller for the Switch 2 is available once again](https://www.theverge.com/tech/691562/nintendo-wireless-gamecube-controller-switch-2-restock)
- - [Sources: Mira Murati has told investors Thinking Machines Lab plans to develop customized AI models based on business KPIs, and also plans a consumer product &lpar;The Information&rpar;](http://www.techmeme.com/250623/p38#a250623p38)<!-- TECH:END -->
+ - [Nintendo’s GameCube controller for the Switch 2 is available once again](https://www.theverge.com/tech/691562/nintendo-wireless-gamecube-controller-switch-2-restock)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

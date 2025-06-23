@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A senior US official says DeepSeek is aiding China&#39;s military and intel operations, going beyond open-source AI model access, and evading US export controls &lpar;Reuters&rpar;](http://www.techmeme.com/250623/p16#a250623p16)
- - [macOS 15.5 Mail app and Google Mail aren&#39;t getting along for some users](https://appleinsider.com/articles/25/06/23/macos-155-mail-app-and-google-mail-arent-getting-along-for-some-users?utm_medium=rss)
- - [Legal AI startup Harvey raised a $300M Series E co-led by Kleiner Perkins and Coatue at a $5B valuation and says it serves 337 clients like KKR and PwC globally &lpar;Alexandra Sternlicht/Fortune&rpar;](http://www.techmeme.com/250623/p15#a250623p15)
- - [Source: the US House&#39;s CAO informed congressional staffers that WhatsApp is now banned on their government devices as the app is deemed &quot;a high-risk to users&quot; &lpar;Andrew Solender/Axios&rpar;](http://www.techmeme.com/250623/p14#a250623p14)
- - [TechInsights: Huawei&#39;s MateBook Fold uses SMIC&#39;s 7nm chip, like the Mate 60 Pro that stunned the US two years ago, suggesting export rules are hampering Huawei &lpar;Bloomberg&rpar;](http://www.techmeme.com/250623/p13#a250623p13)<!-- TECH:END -->
+ - [All-screen iPhone without notch won&#39;t come until 2030](https://appleinsider.com/articles/25/06/23/all-screen-iphone-without-notch-wont-come-until-2030?utm_medium=rss)
+ - [JLab&amp;#8217;s new party speaker puts a light show in your pocket](https://www.theverge.com/news/691137/jlab-bluetooth-party-speakers-pop-go-epic-jbuds)
+ - [Microsoft adds Steam games to its Xbox PC app on Windows](https://www.theverge.com/news/690967/microsoft-xbox-app-windows-steam-games-aggregated-library-support-beta)
+ - [Amazon launches its second batch of 27 Kuiper satellites to low Earth orbit via a ULA rocket, taking the total in orbit to 54 of its planned 3,236 constellation &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250623/p17#a250623p17)
+ - [A senior US official says DeepSeek is aiding China&#39;s military and intel operations, going beyond open-source AI model access, and evading US export controls &lpar;Reuters&rpar;](http://www.techmeme.com/250623/p16#a250623p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

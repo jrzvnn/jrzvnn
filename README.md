@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An interesting theory on generational wealth and physical traits.](http://9gag.com/gag/a87KVMe)
- - 😝 [Impressing your date with unexpected talents](http://9gag.com/gag/apRYYVb)
- - 💣 [Nice](http://9gag.com/gag/aByOX8z)
+ - 😝 [Nice](http://9gag.com/gag/aByOX8z)
+ - 😝 [Surprise inside the wall](http://9gag.com/gag/a5Qqqqq)
+ - 💣 [World record breaking longest commute time](http://9gag.com/gag/a1mEEqb)
  - 😝 [Very human design](http://9gag.com/gag/aGyOAZn)
- - 👉 [The ultimate in minimalist shopping.](http://9gag.com/gag/ae972Y5)<!-- MEMES:END -->
+ - 👉 [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)<!-- MEMES:END -->
 
 ---
 

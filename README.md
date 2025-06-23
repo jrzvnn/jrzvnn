@@ -157,9 +157,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Decagon, which offers AI-powered customer service agents for enterprises, raised a $131M Series C co-led by Accel and a16z at a $1.5B valuation &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/250623/p24#a250623p24)
  - [Fiserv aims to launch its own stablecoin by 2025&#39;s end, and partners with PayPal and Circle to develop new products for financial institutions and merchants &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/250623/p23#a250623p23)
  - [Electronics shop owner busted after selling hundreds of counterfeit Apple products](https://appleinsider.com/articles/25/06/23/electronics-shop-owner-busted-after-selling-hundreds-of-counterfeit-apple-products?utm_medium=rss)
- - [Tovala Meal Kit and Smart Oven Review &lpar;2025&rpar;: Steam Heat](https://www.wired.com/)
  - [The FTC approves Omnicom&#39;s $13.5B acquisition of rival Interpublic on the condition that the new company does not boycott platforms over political content &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/250623/p22#a250623p22)
  - [JetBlue will use Find My&#39;s Share Item Location to track down your lost luggage](https://appleinsider.com/articles/25/06/23/jetblue-will-use-find-mys-share-item-location-to-track-down-your-lost-luggage?utm_medium=rss)<!-- TECH:END -->
 

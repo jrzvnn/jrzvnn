@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Slingshot Girl](http://9gag.com/gag/aMVOXyA)
  - 😝 [It&#39;s the Je*s...](http://9gag.com/gag/a87KeRV)
- - 😝 [Surprise inside the wall](http://9gag.com/gag/a5Qqqqq)
- - 💣 [They predicted it](http://9gag.com/gag/azxYREz)
- - 😝 [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)
- - 👉 [The ultimate in minimalist shopping.](http://9gag.com/gag/ae972Y5)<!-- MEMES:END -->
+ - 💣 [Impressing your date with unexpected talents](http://9gag.com/gag/apRYYVb)
+ - 😝 [They predicted it](http://9gag.com/gag/azxYREz)
+ - 👉 [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)<!-- MEMES:END -->
 
 ---
 

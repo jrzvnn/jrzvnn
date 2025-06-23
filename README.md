@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look of the AI landscape and its impact on Apple, Google, Meta, Microsoft, and Amazon, as well as the foundation model makers, including OpenAI and Anthropic &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250623/p33#a250623p33)
- - [iPhone 17 Air&#39;s resolution may have leaked in a iOS 26 wallpaper](https://appleinsider.com/articles/25/06/23/iphone-17-airs-resolution-may-have-leaked-in-a-ios-26-wallpaper?utm_medium=rss)
- - [New York’s getting a new nuclear power plant](https://www.theverge.com/news/691431/nuclear-power-plant-new-york-advanced-reactor)
- - [What&#39;s new in iOS 26 beta 2: New ringtone, Control Center tweak, recovery assistant and more](https://appleinsider.com/articles/25/06/23/whats-new-in-ios-26-beta-2-new-ringtone-control-center-tweak-recovery-assistant-and-more?utm_medium=rss)
- - [iOS 26 Recovery Assistant will help users quickly restore a crashed iPhone](https://appleinsider.com/articles/25/06/23/ios-26-recovery-assistant-will-help-users-quickly-restore-a-crashed-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [Apple heard your complaints about the Liquid Glass Control Center](https://www.theverge.com/news/691540/apple-ios-26-liquid-glass-control-center-fixed-beta)
+ - [Sources: Mark Zuckerberg discussed a possible acquisition with Runway AI; the deal talks never reached a formal offer level &lpar;Bloomberg&rpar;](http://www.techmeme.com/250623/p34#a250623p34)
+ - [Scientists Are Sending Cannabis Seeds to Space](https://www.wired.com/story/scientists-sending-cannabis-seeds-space-weed/)
+ - [A look at the AI landscape and its impact on Apple, Google, Meta, Microsoft, and Amazon, as well as the foundation model makers, including OpenAI and Anthropic &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250623/p33#a250623p33)
+ - [iPhone 17 Air&#39;s resolution may have leaked in a iOS 26 wallpaper](https://appleinsider.com/articles/25/06/23/iphone-17-airs-resolution-may-have-leaked-in-a-ios-26-wallpaper?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

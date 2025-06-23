@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft unveils Mu, an on-device small language model used in Copilot+ PCs, mapping natural language queries in the Settings app to function calls &lpar;Paul Thurrott/Thurrott&rpar;](http://www.techmeme.com/250623/p37#a250623p37)
+ - [Phew: Apple fixed the Finder icon in macOS Tahoe 26](https://www.theverge.com/news/691643/apple-macos-tahoe-26-finder-icon-beta)
  - [The Steam Deck OLED is back in stock](https://www.theverge.com/news/691604/steam-deck-oled-valve-in-stock)
  - [New in macOS Tahoe beta 2: Menu bar background toggle, revamped Finder icon](https://appleinsider.com/articles/25/06/23/new-in-macos-tahoe-beta-2-menu-bar-background-toggle-revamped-finder-icon?utm_medium=rss)
- - [The Expanse: Osiris Reborn Will Take Cues From Mass Effect, Souls Games and More](https://www.cnet.com/tech/gaming/the-expanse-osiris-reborn-will-take-cues-from-mass-effect-souls-games-and-more/#ftag=CAD590a51e)
- - [The 8 Absolute Best Horror Movies on Hulu](https://www.cnet.com/tech/services-and-software/the-8-absolute-best-horror-movies-on-hulu/#ftag=CAD590a51e)
- - [Elliptic: Tudou Guarantee and other Telegram-based crypto scam marketplaces have grown rapidly since Telegram banned the two most popular ones a month ago &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/250623/p36#a250623p36)<!-- TECH:END -->
+ - [The Expanse: Osiris Reborn Will Take Cues From Mass Effect, Souls Games and More](https://www.cnet.com/tech/gaming/the-expanse-osiris-reborn-will-take-cues-from-mass-effect-souls-games-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

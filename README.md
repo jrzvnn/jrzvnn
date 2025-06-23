@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That looks like ...](http://9gag.com/gag/aE0ODpn)
- - 😝 [Main-character syndrome](http://9gag.com/gag/aYQA15V)
- - 💣 [Day 6! Right one looks a little bit better but i think she was it from the begining. &lpar;Banana for scale&rpar;](http://9gag.com/gag/amopVx6)
- - 😝 [Lost grandpa in wrong gif](http://9gag.com/gag/axyYYMD)
- - 👉 [Darth Maul &lpar;Ray Park&rpar; still got it.](http://9gag.com/gag/a87KwP3)<!-- MEMES:END -->
+ - 😝 [Probably his first day](http://9gag.com/gag/aPA1eNG)
+ - 😝 [Forget leg day. Do this.](http://9gag.com/gag/avydxAq)
+ - 💣 [Keeping a promise after 7 years, this is true friendship.](http://9gag.com/gag/adBoxrB)
+ - 😝 [I Regret Nothing](http://9gag.com/gag/ae97xRQ)
+ - 👉 [The ultimate in minimalist shopping.](http://9gag.com/gag/ae972Y5)<!-- MEMES:END -->
 
 ---
 

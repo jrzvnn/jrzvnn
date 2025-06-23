@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An interesting theory on generational wealth and physical traits.](http://9gag.com/gag/a87KVMe)
- - 😝 [World record breaking longest commute time](http://9gag.com/gag/a1mEEqb)
- - 💣 [The classic soda and candy reaction](http://9gag.com/gag/a7opnbx)
- - 😝 [Environmental advice from 1963 hits a little different today.](http://9gag.com/gag/a4PWqZw)
- - 👉 [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)<!-- MEMES:END -->
+ - 😝 [Sir Your Wunk Appears To Be All Nose](http://9gag.com/gag/aoyYY73)
+ - 😝 [Trump should take out the UK next..](http://9gag.com/gag/a9yOO10)
+ - 💣 [Parking](http://9gag.com/gag/an7rrvb)
+ - 😝 [Absolute cinema](http://9gag.com/gag/a34bb83)
+ - 👉 [Impressing your date with unexpected talents](http://9gag.com/gag/apRYYVb)<!-- MEMES:END -->
 
 ---
 

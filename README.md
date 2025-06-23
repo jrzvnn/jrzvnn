@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bridging tradition and technology](http://9gag.com/gag/aGyO7eK)
- - 😝 [Nice](http://9gag.com/gag/aByOX8z)
- - 💣 [Impressing your date with unexpected talents](http://9gag.com/gag/apRYYVb)
- - 😝 [Then let all of them work](http://9gag.com/gag/aD2OQMx)
- - 👉 [Helmet hair reveal gone wrong, or maybe right?](http://9gag.com/gag/a87KKZ6)<!-- MEMES:END -->
+ - 😝 [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)
+ - 😝 [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)
+ - 💣 [I&#39;d never drive in that however the engineering of these things is impressive. Black Hole roller coaster in Gardaland.](http://9gag.com/gag/aGyOAq0)
+ - 😝 [I took it as a joke, which it probably was. Otherwise I&#39;m f**ked](http://9gag.com/gag/aKGOODZ)
+ - 👉 [The classic soda and candy reaction](http://9gag.com/gag/a7opnbx)<!-- MEMES:END -->
 
 ---
 

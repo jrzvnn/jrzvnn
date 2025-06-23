@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looks like the stadium has a few million extra fans tonight](http://9gag.com/gag/avyddmO)
- - 😝 [Very human design](http://9gag.com/gag/aGyOAZn)
- - 💣 [Probably his first day](http://9gag.com/gag/aPA1eNG)
- - 😝 [Environmental advice from 1963 hits a little different today.](http://9gag.com/gag/a4PWqZw)
- - 👉 [They predicted it](http://9gag.com/gag/azxYREz)<!-- MEMES:END -->
+ - 😝 [Nailed it.](http://9gag.com/gag/a87Kwpp)
+ - 😝 [Main-character syndrome](http://9gag.com/gag/aYQA15V)
+ - 💣 [Darth Maul &lpar;Ray Park&rpar; still got it.](http://9gag.com/gag/a87KwP3)
+ - 😝 [Lost grandpa in wrong gif](http://9gag.com/gag/axyYYMD)
+ - 👉 [TACO](http://9gag.com/gag/abAQ2Er)<!-- MEMES:END -->
 
 ---
 

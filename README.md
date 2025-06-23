@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Largest Camera Ever Built Releases Its First Images of the Cosmos](https://www.wired.com/story/opening-of-the-vera-rubin-observatory/)
+ - [India Is Using AI and Satellites to Map Urban Heat Vulnerability Down to the Building Level](https://www.wired.com/story/india-is-using-ai-and-satellites-to-map-urban-heat-vulnerability-down-to-the-building-level/)
  - [A profile of Katie Haun, a former federal prosecutor turned a16z partner who later founded Haun Ventures and believes the GENIUS Act will make stablecoins safer &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/250623/p5#a250623p5)
  - [The Best Sex Toys &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sex-toys-and-tech/)
- - [The music industry is developing tools to detect AI-generated music across the music pipeline, with a focus on licensing and control rather than takedowns &lpar;Jack Buehrer/The Verge&rpar;](http://www.techmeme.com/250623/p4#a250623p4)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, June 23](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-june-23/#ftag=CAD590a51e)
- - [Sources: Revolut CEO Nik Storonsky could get a multibillion-dollar payout if he drives the fintech&#39;s valuation to ~$150B, under an Elon Musk-style pay deal &lpar;Financial Times&rpar;](http://www.techmeme.com/250623/p3#a250623p3)<!-- TECH:END -->
+ - [The music industry is developing tools to detect AI-generated music across the music pipeline, with a focus on licensing and control rather than takedowns &lpar;Jack Buehrer/The Verge&rpar;](http://www.techmeme.com/250623/p4#a250623p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

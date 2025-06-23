@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Probably his first day](http://9gag.com/gag/aPA1eNG)
- - 😝 [Forget leg day. Do this.](http://9gag.com/gag/avydxAq)
+ - 😝 [I&#39;d never drive in that however the engineering of these things is impressive. Black Hole roller coaster in Gardaland.](http://9gag.com/gag/aGyOAq0)
+ - 😝 [Caught another one on camera](http://9gag.com/gag/ayNYRjp)
  - 💣 [Keeping a promise after 7 years, this is true friendship.](http://9gag.com/gag/adBoxrB)
  - 😝 [I Regret Nothing](http://9gag.com/gag/ae97xRQ)
- - 👉 [The ultimate in minimalist shopping.](http://9gag.com/gag/ae972Y5)<!-- MEMES:END -->
+ - 👉 [Looks like we found some unusual roots today](http://9gag.com/gag/aNDO4xb)<!-- MEMES:END -->
 
 ---
 

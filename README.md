@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Telegram Purged Chinese Crypto Scam Markets—Then Watched as They Rebuilt](https://www.wired.com/story/telegram-purged-chinese-crypto-scam-markets-then-let-them-rebuild/)
- - [Decagon, which offers AI-powered customer service agents for enterprises, raised a $131M Series C co-led by Accel and a16z at a $1.5B valuation &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/250623/p24#a250623p24)
- - [Fiserv aims to launch its own stablecoin by 2025&#39;s end, and partners with PayPal and Circle to develop new products for financial institutions and merchants &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/250623/p23#a250623p23)
- - [Electronics shop owner busted after selling hundreds of counterfeit Apple products](https://appleinsider.com/articles/25/06/23/electronics-shop-owner-busted-after-selling-hundreds-of-counterfeit-apple-products?utm_medium=rss)
- - [The FTC approves Omnicom&#39;s $13.5B acquisition of rival Interpublic on the condition that the new company does not boycott platforms over political content &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/250623/p22#a250623p22)<!-- TECH:END -->
+ - [Amsterdam-based Finom, a neobank targeting SMBs, raised a €115M Series C led by AVP after raising €92.7M from General Catalyst in May &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/250623/p26#a250623p26)
+ - [Apple&#39;s second developer betas for iOS 26, iPadOS 26, macOS 26 have arrived](https://appleinsider.com/articles/25/06/23/apples-second-developer-betas-for-ios-26-ipados-26-macos-26-have-arrived?utm_medium=rss)
+ - [Microsoft’s Xbox UI update lets you pin games and customize your homescreen](https://www.theverge.com/news/691287/xbox-home-ui-pin-favorite-games-apps-rolling-out)
+ - [House staffers can’t have WhatsApp on their devices](https://www.theverge.com/news/691288/house-of-representatives-whatsapp-ban-meta)
+ - [Cloudflare, CrowdStrike, and Ping Identity end a 2022 project offering free cybersecurity tools to critical infrastructure sectors at risk from Russian attacks &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/250623/p25#a250623p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

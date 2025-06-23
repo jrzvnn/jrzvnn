@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sanmai, which wants to build an AI-powered ultrasound device that costs less than $500 to help treat mental health conditions, raised $12M led by Reid Hoffman &lpar;Bloomberg&rpar;](http://www.techmeme.com/250623/p29#a250623p29)
+ - [Apple&#39;s second developer betas for iOS 26, iPadOS 26, macOS 26 have arrived](https://appleinsider.com/articles/25/06/23/apples-second-developer-betas-for-ios-26-ipados-26-macos-26-have-arrived?utm_medium=rss)
  - [Super Micro plans to raise $2B from the sale of convertible bonds to repurchase shares, as well as to fund growth and business expansion &lpar;Bloomberg&rpar;](http://www.techmeme.com/250623/p28#a250623p28)
  - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Filing: Elon Musk&#39;s lawyers say he &quot;does not use a computer&quot; after OpenAI accused Musk of not complying with the discovery process in his lawsuit against OpenAI &lpar;Wired&rpar;](http://www.techmeme.com/250623/p27#a250623p27)
- - [Elon Musk’s Lawyers Claim He ‘Does Not Use a Computer’](https://www.wired.com/story/elon-musk-computer-sam-altman/)
- - [Amsterdam-based Finom, a neobank targeting SMBs, raised a €115M Series C led by AVP after raising €92.7M from General Catalyst in May &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/250623/p26#a250623p26)<!-- TECH:END -->
+ - [Filing: Elon Musk&#39;s lawyers say he &quot;does not use a computer&quot; after OpenAI accused Musk of not complying with the discovery process in his lawsuit against OpenAI &lpar;Wired&rpar;](http://www.techmeme.com/250623/p27#a250623p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

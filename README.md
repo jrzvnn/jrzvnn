@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Katie Haun, a former federal prosecutor turned a16z partner who later founded Haun Ventures and believes the GENIUS Act will make stablecoins safer &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/250623/p5#a250623p5)
+ - [The Best Sex Toys &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sex-toys-and-tech/)
  - [The music industry is developing tools to detect AI-generated music across the music pipeline, with a focus on licensing and control rather than takedowns &lpar;Jack Buehrer/The Verge&rpar;](http://www.techmeme.com/250623/p4#a250623p4)
- - [Sources: Revolut CEO Nik Storonsky could get a multibillion-dollar payout if he drives the fintech&#39;s valuation to ~$150B, under an Elon Musk-style pay deal &lpar;Financial Times&rpar;](http://www.techmeme.com/250623/p3#a250623p3)
- - [Best Internet Providers in Anaheim, California](https://www.cnet.com/home/internet/best-internet-providers-in-anaheim-ca/#ftag=CAD590a51e)
- - [Texas becomes the third US state to approve a public crypto reserve, allowing direct purchases of assets averaging $500B+ in market cap over 24 months &lpar;Vince Dioquino/Decrypt&rpar;](http://www.techmeme.com/250623/p2#a250623p2)
- - [A look at BeeHome, an AI-powered robotic beehive developed by Beewise, which has raised ~$170M and helps reduce losses by monitoring colony health in real time &lpar;Brian Kahn/Bloomberg&rpar;](http://www.techmeme.com/250623/p1#a250623p1)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, June 23](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-june-23/#ftag=CAD590a51e)
+ - [Sources: Revolut CEO Nik Storonsky could get a multibillion-dollar payout if he drives the fintech&#39;s valuation to ~$150B, under an Elon Musk-style pay deal &lpar;Financial Times&rpar;](http://www.techmeme.com/250623/p3#a250623p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

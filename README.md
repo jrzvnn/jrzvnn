@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Forget leg day. Do this.](http://9gag.com/gag/avydxAq)
- - 😝 [Slingshot Girl](http://9gag.com/gag/aMVOXyA)
- - 💣 [Environmental advice from 1963 hits a little different today.](http://9gag.com/gag/a4PWqZw)
- - 😝 [Main-character syndrome](http://9gag.com/gag/aYQA15V)
- - 👉 [I Regret Nothing](http://9gag.com/gag/ae97xRQ)<!-- MEMES:END -->
+ - 😝 [Repairing a broken CPU pin](http://9gag.com/gag/aAyOOeE)
+ - 😝 [Probably his first day](http://9gag.com/gag/aPA1eNG)
+ - 💣 [Main-character syndrome](http://9gag.com/gag/aYQA15V)
+ - 😝 [And how was your summer vacation flight?](http://9gag.com/gag/aO8RR83)
+ - 👉 [Maybe read the rulebook next time](http://9gag.com/gag/aVvV2O2)<!-- MEMES:END -->
 
 ---
 

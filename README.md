@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All-screen iPhone without notch won&#39;t come until 2030](https://appleinsider.com/articles/25/06/23/all-screen-iphone-without-notch-wont-come-until-2030?utm_medium=rss)
- - [JLab&amp;#8217;s new party speaker puts a light show in your pocket](https://www.theverge.com/news/691137/jlab-bluetooth-party-speakers-pop-go-epic-jbuds)
- - [Microsoft adds Steam games to its Xbox PC app on Windows](https://www.theverge.com/news/690967/microsoft-xbox-app-windows-steam-games-aggregated-library-support-beta)
- - [Amazon launches its second batch of 27 Kuiper satellites to low Earth orbit via a ULA rocket, taking the total in orbit to 54 of its planned 3,236 constellation &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250623/p17#a250623p17)
- - [A senior US official says DeepSeek is aiding China&#39;s military and intel operations, going beyond open-source AI model access, and evading US export controls &lpar;Reuters&rpar;](http://www.techmeme.com/250623/p16#a250623p16)<!-- TECH:END -->
+ - [Anthony Pompliano&#39;s ProCap raised $750M+, including $235M in convertible debt, and is going public via a SPAC; the new firm aims to hold up to $1B in bitcoin &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250623/p19#a250623p19)
+ - [Wealthfront, which uses AI to build investment portfolios, confidentially files for a US IPO; it was valued at $1.4B in 2022 during a failed acquisition by UBS &lpar;Prakhar Srivastava/Reuters&rpar;](http://www.techmeme.com/250623/p18#a250623p18)
+ - [The new lies spreading about climate change](https://www.theverge.com/news/691183/climate-change-misinformation-synthesis-report-renewable-energy-solutions)
+ - [International Nuclear Watchdog Issues Stark Warning in Wake of US Iran Strikes](https://www.wired.com/story/international-nuclear-watchdog-warning-iran-strikes/)
+ - [All-screen iPhone without notch won&#39;t come until 2030](https://appleinsider.com/articles/25/06/23/all-screen-iphone-without-notch-wont-come-until-2030?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

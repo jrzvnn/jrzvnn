@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Very human design](http://9gag.com/gag/aGyOAZn)
  - 😝 [The classic soda and candy reaction](http://9gag.com/gag/a7opnbx)
- - 😝 [Good friends will always play with you...](http://9gag.com/gag/aqyYYbZ)
- - 💣 [Very human design](http://9gag.com/gag/aGyOAZn)
- - 😝 [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)
- - 👉 [An interesting theory on generational wealth and physical traits.](http://9gag.com/gag/a87KVMe)<!-- MEMES:END -->
+ - 💣 [World record breaking longest commute time](http://9gag.com/gag/a1mEEqb)
+ - 😝 [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)
+ - 👉 [Environmental advice from 1963 hits a little different today.](http://9gag.com/gag/a4PWqZw)<!-- MEMES:END -->
 
 ---
 

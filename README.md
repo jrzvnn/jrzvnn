@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [World record breaking longest commute time](http://9gag.com/gag/a1mEEqb)
- - 😝 [Looks like the stadium has a few million extra fans tonight](http://9gag.com/gag/avyddmO)
- - 💣 [Slingshot Girl](http://9gag.com/gag/aMVOXyA)
- - 😝 [Nice](http://9gag.com/gag/aByOX8z)
- - 👉 [Environmental advice from 1963 hits a little different today.](http://9gag.com/gag/a4PWqZw)<!-- MEMES:END -->
+ - 😝 [TACO](http://9gag.com/gag/abAQ2Er)
+ - 😝 [Parking](http://9gag.com/gag/an7rrvb)
+ - 💣 [Absolute cinema](http://9gag.com/gag/a34bb83)
+ - 😝 [Impressing your date with unexpected talents](http://9gag.com/gag/apRYYVb)
+ - 👉 [I didn&#39;t know that playing piano could be funny. And yes, he was a legend.](http://9gag.com/gag/aW4DDQq)<!-- MEMES:END -->
 
 ---
 

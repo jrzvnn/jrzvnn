@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save up to $400 on Apple&#39;s MacBook Air with month-end price drops](https://appleinsider.com/articles/25/06/23/save-up-to-400-on-apples-macbook-air-with-month-end-price-drops?utm_medium=rss)
  - [Snowcap Compute, which is working on building AI computing chips using superconducting tech, raised a $23M seed and says Pat Gelsinger will join its board &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250623/p20#a250623p20)
  - [$1,400 can get you a powerful &lpar;and huge&rpar; HP Omen laptop with an RTX 5070](https://www.theverge.com/tech/691109/hp-omen-5070-gaming-laptop-silent-hill-2-deal-sale)
  - [Donald Trump and Sean Hannity Set Off a Wave of Disinformation After Iran Bombing](https://www.wired.com/story/donald-trump-sean-hannity-disinformation-iran-bombing/)
- - [Anthony Pompliano&#39;s ProCap raised $750M+, including $235M in convertible debt, and is going public via a SPAC; the new firm aims to hold up to $1B in bitcoin &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250623/p19#a250623p19)
- - [Wealthfront, which uses AI to build investment portfolios, confidentially files for a US IPO; it was valued at $1.4B in 2022 during a failed acquisition by UBS &lpar;Prakhar Srivastava/Reuters&rpar;](http://www.techmeme.com/250623/p18#a250623p18)<!-- TECH:END -->
+ - [Anthony Pompliano&#39;s ProCap raised $750M+, including $235M in convertible debt, and is going public via a SPAC; the new firm aims to hold up to $1B in bitcoin &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250623/p19#a250623p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

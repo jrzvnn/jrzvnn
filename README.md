@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Impressing your date with unexpected talents](http://9gag.com/gag/apRYYVb)
- - 😝 [And how was your summer vacation flight?](http://9gag.com/gag/aO8RR83)
- - 💣 [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)
- - 😝 [Surprise inside the wall](http://9gag.com/gag/a5Qqqqq)
- - 👉 [Slingshot Girl](http://9gag.com/gag/aMVOXyA)<!-- MEMES:END -->
+ - 😝 [Looks like the stadium has a few million extra fans tonight](http://9gag.com/gag/avyddmO)
+ - 😝 [Very human design](http://9gag.com/gag/aGyOAZn)
+ - 💣 [Probably his first day](http://9gag.com/gag/aPA1eNG)
+ - 😝 [Environmental advice from 1963 hits a little different today.](http://9gag.com/gag/a4PWqZw)
+ - 👉 [They predicted it](http://9gag.com/gag/azxYREz)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Impressing your date with unexpected talents](http://9gag.com/gag/apRYYVb)
  - 😝 [And how was your summer vacation flight?](http://9gag.com/gag/aO8RR83)
- - 😝 [Slingshot Girl](http://9gag.com/gag/aMVOXyA)
- - 💣 [Wholesome conversation](http://9gag.com/gag/a9yOmGW)
- - 😝 [Wait, did it just swallow that whole bone?](http://9gag.com/gag/adBoxBM)
- - 👉 [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)<!-- MEMES:END -->
+ - 💣 [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)
+ - 😝 [Surprise inside the wall](http://9gag.com/gag/a5Qqqqq)
+ - 👉 [Slingshot Girl](http://9gag.com/gag/aMVOXyA)<!-- MEMES:END -->
 
 ---
 

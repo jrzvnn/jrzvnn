@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elliptic: Tudou Guarantee and other Telegram-based crypto scam marketplaces have grown rapidly since Telegram banned the two most popular ones a month ago &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/250623/p36#a250623p36)
  - [Trump&amp;#8217;s FTC will approve an ad merger — with a gift to Elon Musk’s X](https://www.theverge.com/policy/691520/ftc-omnicom-interpublic-group-merger-advertiser-boycott-political-ideology)
  - [Salesforce launches Agentforce 3 with an observability tool called Command Center and MCP support, and says 8,000 customers have signed up to deploy Agentforce &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/250623/p35#a250623p35)
  - [macOS Tahoe beta 2 swaps Finder icon colors back after historic design fumble](https://appleinsider.com/articles/25/06/23/macos-tahoe-beta-2-swaps-finder-icon-colors-back-after-historic-design-fumble?utm_medium=rss)
- - [Hue’s new smart button is bigger and more expensive](https://www.theverge.com/news/691430/philips-hue-smart-button-price-specs-release-date)
- - [Apple heard your complaints about the Liquid Glass Control Center](https://www.theverge.com/news/691540/apple-ios-26-liquid-glass-control-center-fixed-beta)<!-- TECH:END -->
+ - [Hue’s new smart button is bigger and more expensive](https://www.theverge.com/news/691430/philips-hue-smart-button-price-specs-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

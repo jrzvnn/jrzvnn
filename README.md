@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple is locked in last-minute EU negotiations over App Store changes to avoid fines set for this week, and is expected to offer &quot;steering&quot; concessions &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/250623/p8#a250623p8)
- - [OpenAI pulls Jony Ive promo video over trademark dispute](https://appleinsider.com/articles/25/06/23/openai-pulls-jony-ive-promo-video-over-trademark-dispute?utm_medium=rss)
- - [Nothing Headphone 1 leaks show quirky translucent design](https://www.theverge.com/news/691010/nothing-headphone-1-design-leak)
- - [Recycled Polyester Saved This American Factory. Environmentalists Hate It](https://www.wired.com/story/repreve-recycled-polyester-saved-unifi-factory-environmentalists-hate-it/)
- - [Watch a video &amp; download Apple&#39;s presentation to get your parents to buy you a Mac [U]](https://appleinsider.com/articles/25/06/20/watch-a-video-download-apples-presentation-to-get-your-parents-to-buy-you-a-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Apple may offer to make at least some App Store changes to appease EU](https://appleinsider.com/articles/25/06/23/apple-may-offer-to-make-at-least-some-app-store-changes-to-appease-eu?utm_medium=rss)
+ - [Fanfiction writers battle AI, one scrape at a time](https://www.theverge.com/ai-artificial-intelligence/688640/fanfiction-ai)
+ - [DHL, UPS, FedEx, and Walmart are using robots to boost warehouse efficiency and cut costs, including automating the physically demanding task of loading trucks &lpar;Esther Fung/Wall Street Journal&rpar;](http://www.techmeme.com/250623/p10#a250623p10)
+ - [How to delete an Apple Account](https://appleinsider.com/articles/21/01/04/how-to-delete-an-apple-id-account?utm_medium=rss)
+ - [Study: only 32 countries, mostly in the Northern Hemisphere, host AI data centers, with the US, China, and the EU controlling 50%+ of the world&#39;s top facilities &lpar;New York Times&rpar;](http://www.techmeme.com/250623/p9#a250623p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

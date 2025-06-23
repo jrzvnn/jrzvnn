@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sir Your Wunk Appears To Be All Nose](http://9gag.com/gag/aoyYY73)
- - 😝 [Trump should take out the UK next..](http://9gag.com/gag/a9yOO10)
- - 💣 [Parking](http://9gag.com/gag/an7rrvb)
- - 😝 [Absolute cinema](http://9gag.com/gag/a34bb83)
- - 👉 [Impressing your date with unexpected talents](http://9gag.com/gag/apRYYVb)<!-- MEMES:END -->
+ - 😝 [I took it as a joke, which it probably was. Otherwise I&#39;m f**ked](http://9gag.com/gag/aKGOODZ)
+ - 😝 [The classic soda and candy reaction](http://9gag.com/gag/a7opnbx)
+ - 💣 [Looks like the stadium has a few million extra fans tonight](http://9gag.com/gag/avyddmO)
+ - 😝 [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)
+ - 👉 [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)<!-- MEMES:END -->
 
 ---
 

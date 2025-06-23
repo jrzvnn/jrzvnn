@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hinge CEO Justin McLeod says dating AI chatbots is ‘playing with fire’](https://www.theverge.com/decoder-podcast-with-nilay-patel/687683/hinge-ceo-justin-mcleod-dating-app-ai-relationships-tinder)
+ - [Hinge is planning its own mobile payment system to avoid App Store fees](https://www.theverge.com/news/687822/hinge-mobile-payment-system-apple-app-store-fee-decoder)
+ - [The New OceanGate Doc Hit Netflix&#39;s Top 10, but There&#39;s Another Titan Doc You Should See](https://www.cnet.com/tech/services-and-software/the-new-cceangate-doc-hit-netflixs-top-10-but-theres-another-titan-doc-you-should-see/#ftag=CAD590a51e)
  - [Sources: Google reduces its Google TV and Android TV budget by 10% and cuts Android TV and Google TV&#39;s ~300 employees by up to 25%, as it focuses on YouTube &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/250623/p12#a250623p12)
- - [Nuki smart lock, Hue wall washer &amp; Blue Air Signature purifier on HomeKit Insider](https://appleinsider.com/articles/25/06/23/nuki-smart-lock-hue-wall-washer-blue-air-signature-purifier-on-homekit-insider?utm_medium=rss)
- - [Google unveils new Gemini AI features, like select to search, for Chromebook Plus laptops like Lenovo&#39;s new $649+ 14&quot; flagship with a MediaTek Kompanio Ultra &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/250623/p11#a250623p11)
- - [Chromebook Plus laptops like Lenovo’s sleek, new 14-incher are getting free Gemini AI features](https://www.theverge.com/news/690885/google-chromeos-gemini-ai-select-to-search-lenovo-chromebook-plus-14)
- - [Apple may offer to make at least some App Store changes to appease EU](https://appleinsider.com/articles/25/06/23/apple-may-offer-to-make-at-least-some-app-store-changes-to-appease-eu?utm_medium=rss)<!-- TECH:END -->
+ - [Nuki smart lock, Hue wall washer &amp; Blue Air Signature purifier on HomeKit Insider](https://appleinsider.com/articles/25/06/23/nuki-smart-lock-hue-wall-washer-blue-air-signature-purifier-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

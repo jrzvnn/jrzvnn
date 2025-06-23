@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nothing Headphone 1 leaks show quirky translucent design](https://www.theverge.com/news/691010/nothing-headphone-1-design-leak)
  - [Recycled Polyester Saved This American Factory. Environmentalists Hate It](https://www.wired.com/story/repreve-recycled-polyester-saved-unifi-factory-environmentalists-hate-it/)
  - [Watch a video &amp; download Apple&#39;s presentation to get your parents to buy you a Mac [U]](https://appleinsider.com/articles/25/06/20/watch-a-video-download-apples-presentation-to-get-your-parents-to-buy-you-a-mac?utm_medium=rss)
  - [China&#39;s Electric Vehicle Factories Have Become Tourist Hotspots](https://www.wired.com/story/china-electric-vehicle-factory-tours-xiaomi/)
- - [How Walmart, seeking to compete with e-commerce rivals like Amazon, built a multibillion-dollar HQ in Bentonville, aiming to attract workers and woo shoppers &lpar;Kevin Draper/New York Times&rpar;](http://www.techmeme.com/250623/p7#a250623p7)
- - [Trump Mobile and its T1 Phone Don&#39;t Make Any Sense, Even for Trump Fans](https://www.cnet.com/tech/mobile/trump-mobile-and-its-t1-phone-dont-make-any-sense-even-for-trump-fans/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Walmart, seeking to compete with e-commerce rivals like Amazon, built a multibillion-dollar HQ in Bentonville, aiming to attract workers and woo shoppers &lpar;Kevin Draper/New York Times&rpar;](http://www.techmeme.com/250623/p7#a250623p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

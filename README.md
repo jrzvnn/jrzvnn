@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nailed it.](http://9gag.com/gag/a87Kwpp)
- - 😝 [Main-character syndrome](http://9gag.com/gag/aYQA15V)
- - 💣 [Darth Maul &lpar;Ray Park&rpar; still got it.](http://9gag.com/gag/a87KwP3)
- - 😝 [Lost grandpa in wrong gif](http://9gag.com/gag/axyYYMD)
- - 👉 [TACO](http://9gag.com/gag/abAQ2Er)<!-- MEMES:END -->
+ - 😝 [It&#39;s the Je*s...](http://9gag.com/gag/a87KeRV)
+ - 😝 [Surprise inside the wall](http://9gag.com/gag/a5Qqqqq)
+ - 💣 [They predicted it](http://9gag.com/gag/azxYREz)
+ - 😝 [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)
+ - 👉 [The ultimate in minimalist shopping.](http://9gag.com/gag/ae972Y5)<!-- MEMES:END -->
 
 ---
 

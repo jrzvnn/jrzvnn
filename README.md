@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The music industry is developing tools to detect AI-generated music across the music pipeline, with a focus on licensing and control rather than takedowns &lpar;Jack Buehrer/The Verge&rpar;](http://www.techmeme.com/250623/p4#a250623p4)
  - [Sources: Revolut CEO Nik Storonsky could get a multibillion-dollar payout if he drives the fintech&#39;s valuation to ~$150B, under an Elon Musk-style pay deal &lpar;Financial Times&rpar;](http://www.techmeme.com/250623/p3#a250623p3)
  - [Best Internet Providers in Anaheim, California](https://www.cnet.com/home/internet/best-internet-providers-in-anaheim-ca/#ftag=CAD590a51e)
  - [Texas becomes the third US state to approve a public crypto reserve, allowing direct purchases of assets averaging $500B+ in market cap over 24 months &lpar;Vince Dioquino/Decrypt&rpar;](http://www.techmeme.com/250623/p2#a250623p2)
- - [A look at BeeHome, an AI-powered robotic beehive developed by Beewise, which has raised ~$170M and helps reduce losses by monitoring colony health in real time &lpar;Brian Kahn/Bloomberg&rpar;](http://www.techmeme.com/250623/p1#a250623p1)
- - [Behind Mark Zuckerberg&#39;s sweeping recruitment effort for Meta&#39;s Superintelligence lab, including hundreds of reach outs, $100M+ offers and counter offers, more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250622/p18#a250622p18)<!-- TECH:END -->
+ - [A look at BeeHome, an AI-powered robotic beehive developed by Beewise, which has raised ~$170M and helps reduce losses by monitoring colony health in real time &lpar;Brian Kahn/Bloomberg&rpar;](http://www.techmeme.com/250623/p1#a250623p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

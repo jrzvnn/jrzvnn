@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Elon Musk&#39;s lawyers say he &quot;does not use a computer&quot; after OpenAI accused Musk of not complying with the discovery process in his lawsuit against OpenAI &lpar;Wired&rpar;](http://www.techmeme.com/250623/p27#a250623p27)
+ - [Elon Musk’s Lawyers Claim He ‘Does Not Use a Computer’](https://www.wired.com/story/elon-musk-computer-sam-altman/)
  - [Amsterdam-based Finom, a neobank targeting SMBs, raised a €115M Series C led by AVP after raising €92.7M from General Catalyst in May &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/250623/p26#a250623p26)
  - [Apple&#39;s second developer betas for iOS 26, iPadOS 26, macOS 26 have arrived](https://appleinsider.com/articles/25/06/23/apples-second-developer-betas-for-ios-26-ipados-26-macos-26-have-arrived?utm_medium=rss)
- - [Microsoft’s Xbox UI update lets you pin games and customize your homescreen](https://www.theverge.com/news/691287/xbox-home-ui-pin-favorite-games-apps-rolling-out)
- - [House staffers can’t have WhatsApp on their devices](https://www.theverge.com/news/691288/house-of-representatives-whatsapp-ban-meta)
- - [Cloudflare, CrowdStrike, and Ping Identity end a 2022 project offering free cybersecurity tools to critical infrastructure sectors at risk from Russian attacks &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/250623/p25#a250623p25)<!-- TECH:END -->
+ - [Microsoft’s Xbox UI update lets you pin games and customize your homescreen](https://www.theverge.com/news/691287/xbox-home-ui-pin-favorite-games-apps-rolling-out)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

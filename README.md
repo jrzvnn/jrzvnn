@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Very human design](http://9gag.com/gag/aGyOAZn)
- - 😝 [The classic soda and candy reaction](http://9gag.com/gag/a7opnbx)
- - 💣 [World record breaking longest commute time](http://9gag.com/gag/a1mEEqb)
- - 😝 [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)
- - 👉 [Environmental advice from 1963 hits a little different today.](http://9gag.com/gag/a4PWqZw)<!-- MEMES:END -->
+ - 😝 [An interesting theory on generational wealth and physical traits.](http://9gag.com/gag/a87KVMe)
+ - 😝 [World record breaking longest commute time](http://9gag.com/gag/a1mEEqb)
+ - 💣 [The classic soda and candy reaction](http://9gag.com/gag/a7opnbx)
+ - 😝 [Environmental advice from 1963 hits a little different today.](http://9gag.com/gag/a4PWqZw)
+ - 👉 [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)<!-- MEMES:END -->
 
 ---
 

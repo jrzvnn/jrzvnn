@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla’s robotaxi is live: here are some of the first reactions.](https://www.theverge.com/news/690846/tesla-robotaxi-first-reaction-austin)
- - [OpenAI and Jony Ive&amp;#8217;s &amp;#8216;io&amp;#8217; brand has vanished, but their AI hardware deal remains](https://www.theverge.com/news/690858/jony-ive-openai-sam-altman-ai-hardware)
- - [What Satellite Images Reveal About the US Bombing of Iran&#39;s Nuclear Sites](https://www.wired.com/story/iran-fordow-nuclear-site-satellite-images-damage/)
- - [OpenAI says it has removed all marketing materials announcing its acquisition of Jony Ive&#39;s io due to a trademark dispute lawsuit &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250622/p13#a250622p13)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 23, #273](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-23-273/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Behind Mark Zuckerberg&#39;s sweeping recruitment effort for Meta&#39;s Superintelligence lab, including hundreds of reach outs, $100M+ offers and counter offers, more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250622/p18#a250622p18)
+ - [Inside Disney&#39;s plan to limit AI companies&#39; use of its IP, which led Disney and Comcast to sue Midjourney; Disney is also in talks with companies like OpenAI &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250622/p17#a250622p17)
+ - [Wolfspeed, a NC-based chipmaker for EVs, says it made a deal with creditors to reduce its ~$6.5B debt in a bankruptcy package that nearly wipes out shareholders &lpar;Sujeet Indap/Financial Times&rpar;](http://www.techmeme.com/250622/p16#a250622p16)
+ - [How AI is enabling a &quot;botscaling&quot; era in Silicon Valley, where companies achieve high revenue per employee with minimal headcount &lpar;Walter Frick/Bloomberg&rpar;](http://www.techmeme.com/250622/p15#a250622p15)
+ - [A US judge let an age-discrimination claim, focused on an application-screening algorithm, proceed as a collective action against HR software company Workday &lpar;Lauren Weber/Wall Street Journal&rpar;](http://www.techmeme.com/250622/p14#a250622p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

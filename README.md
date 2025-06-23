@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Videos captured by riders appear to show Tesla&#39;s self-driving taxis violating traffic laws, including entering the opposite lane and exceeding speed limits &lpar;Bloomberg&rpar;](http://www.techmeme.com/250623/p32#a250623p32)
  - [Samsung unveils the Exynos 2500 chipset, built on a 3nm GAA node and featuring the 4th-gen Xclipse 950 GPU and an NPU with up to 59 TOPS of AI performance &lpar;Will Sattelberg/9to5Google&rpar;](http://www.techmeme.com/250623/p31#a250623p31)
  - [Mattress Encasement vs. Mattress Protector](https://www.wired.com/story/mattress-protector-vs-mattress-encasement/)
  - [Mira Murati&#39;s Thinking Machines Lab reportedly raising $2B would be the largest seed round ever, far surpassing Yuga Labs&#39; $450M seed round in 2022 &lpar;Joanna Glasner/Crunchbase News&rpar;](http://www.techmeme.com/250623/p30#a250623p30)
- - [Sanmai, which wants to build an AI-powered ultrasound device that costs less than $500 to help treat mental health conditions, raised $12M led by Reid Hoffman &lpar;Bloomberg&rpar;](http://www.techmeme.com/250623/p29#a250623p29)
- - [Apple&#39;s second developer betas for iOS 26, iPadOS 26, macOS 26 have arrived](https://appleinsider.com/articles/25/06/23/apples-second-developer-betas-for-ios-26-ipados-26-macos-26-have-arrived?utm_medium=rss)<!-- TECH:END -->
+ - [Trump Mobile Draws Attention to Purism&#39;s $1,999 Liberty Phone](https://www.cnet.com/tech/mobile/trump-mobile-draws-attention-to-purisms-1999-liberty-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

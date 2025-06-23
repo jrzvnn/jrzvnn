@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rico como los tacos sudados](http://9gag.com/gag/amoppj4)
- - 😝 [World record breaking longest commute time](http://9gag.com/gag/a1mEEqb)
- - 💣 [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)
- - 😝 [He thought its bait and was prolly right](http://9gag.com/gag/avyd9vn)
- - 👉 [I&#39;d never drive in that however the engineering of these things is impressive. Black Hole roller coaster in Gardaland.](http://9gag.com/gag/aGyOAq0)<!-- MEMES:END -->
+ - 😝 [A Brazilian woman fell inside Mount Rinjani, an active volcano in Indonesia. She&#39;s been waiting for rescue for over 60 hours.](http://9gag.com/gag/avyd9Mq)
+ - 😝 [A sprinkler working hard in the sand](http://9gag.com/gag/aXPKWz6)
+ - 💣 [Looks like the stadium has a few million extra fans tonight](http://9gag.com/gag/avyddmO)
+ - 😝 [I&#39;d never drive in that however the engineering of these things is impressive. Black Hole roller coaster in Gardaland.](http://9gag.com/gag/aGyOAq0)
+ - 👉 [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)<!-- MEMES:END -->
 
 ---
 

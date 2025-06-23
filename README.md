@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Walmart, seeking to compete with e-commerce rivals like Amazon, built a multibillion-dollar HQ in Bentonville, aiming to attract workers and woo shoppers &lpar;Kevin Draper/New York Times&rpar;](http://www.techmeme.com/250623/p7#a250623p7)
+ - [Taiwan Is Rushing to Make Its Own Drones Before It&#39;s Too Late](https://www.wired.com/story/taiwans-rush-to-make-its-own-drones-before-its-too-late/)
  - [Tesla quietly launches its robotaxi service in Austin, with ~10 vehicles and a human safety driver; Elon Musk says customers will pay &quot;a $4.20 flat fee&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250623/p6#a250623p6)
  - [The Largest Camera Ever Built Releases Its First Images of the Cosmos](https://www.wired.com/story/opening-of-the-vera-rubin-observatory/)
- - [India Is Using AI and Satellites to Map Urban Heat Vulnerability Down to the Building Level](https://www.wired.com/story/india-is-using-ai-and-satellites-to-map-urban-heat-vulnerability-down-to-the-building-level/)
- - [A profile of Katie Haun, a former federal prosecutor turned a16z partner who later founded Haun Ventures and believes the GENIUS Act will make stablecoins safer &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/250623/p5#a250623p5)
- - [The Best Sex Toys &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sex-toys-and-tech/)<!-- TECH:END -->
+ - [India Is Using AI and Satellites to Map Urban Heat Vulnerability Down to the Building Level](https://www.wired.com/story/india-is-using-ai-and-satellites-to-map-urban-heat-vulnerability-down-to-the-building-level/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

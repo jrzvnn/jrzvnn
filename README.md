@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Brazilian woman fell inside Mount Rinjani, an active volcano in Indonesia. She&#39;s been waiting for rescue for over 60 hours.](http://9gag.com/gag/avyd9Mq)
- - 😝 [A sprinkler working hard in the sand](http://9gag.com/gag/aXPKWz6)
- - 💣 [Looks like the stadium has a few million extra fans tonight](http://9gag.com/gag/avyddmO)
- - 😝 [I&#39;d never drive in that however the engineering of these things is impressive. Black Hole roller coaster in Gardaland.](http://9gag.com/gag/aGyOAq0)
+ - 😝 [Beware of Tourist scam](http://9gag.com/gag/ayNYv3y)
+ - 😝 [Rico como los tacos sudados](http://9gag.com/gag/amoppj4)
+ - 💣 [9 times gravity](http://9gag.com/gag/a7oppyq)
+ - 😝 [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)
  - 👉 [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)<!-- MEMES:END -->
 
 ---

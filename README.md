@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Good friends will always play with you...](http://9gag.com/gag/aqyYYbZ)
+ - 😝 [Nice](http://9gag.com/gag/aByOX8z)
+ - 💣 [Probably his first day](http://9gag.com/gag/aPA1eNG)
  - 😝 [Slingshot Girl](http://9gag.com/gag/aMVOXyA)
- - 😝 [It&#39;s the Je*s...](http://9gag.com/gag/a87KeRV)
- - 💣 [Impressing your date with unexpected talents](http://9gag.com/gag/apRYYVb)
- - 😝 [They predicted it](http://9gag.com/gag/azxYREz)
  - 👉 [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)<!-- MEMES:END -->
 
 ---

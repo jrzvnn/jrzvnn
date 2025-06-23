@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hinge CEO Justin McLeod says dating AI chatbots is ‘playing with fire’](https://www.theverge.com/decoder-podcast-with-nilay-patel/687683/hinge-ceo-justin-mcleod-dating-app-ai-relationships-tinder)
- - [Hinge is planning its own mobile payment system to avoid App Store fees](https://www.theverge.com/news/687822/hinge-mobile-payment-system-apple-app-store-fee-decoder)
- - [The New OceanGate Doc Hit Netflix&#39;s Top 10, but There&#39;s Another Titan Doc You Should See](https://www.cnet.com/tech/services-and-software/the-new-cceangate-doc-hit-netflixs-top-10-but-theres-another-titan-doc-you-should-see/#ftag=CAD590a51e)
- - [Sources: Google reduces its Google TV and Android TV budget by 10% and cuts Android TV and Google TV&#39;s ~300 employees by up to 25%, as it focuses on YouTube &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/250623/p12#a250623p12)
- - [Nuki smart lock, Hue wall washer &amp; Blue Air Signature purifier on HomeKit Insider](https://appleinsider.com/articles/25/06/23/nuki-smart-lock-hue-wall-washer-blue-air-signature-purifier-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
+ - [Source: the US House&#39;s CAO informed congressional staffers that WhatsApp is now banned on their government devices as the app is deemed &quot;a high-risk to users&quot; &lpar;Andrew Solender/Axios&rpar;](http://www.techmeme.com/250623/p14#a250623p14)
+ - [TechInsights: Huawei&#39;s MateBook Fold uses SMIC&#39;s 7nm chip, like the Mate 60 Pro that stunned the US two years ago, suggesting export rules are hampering Huawei &lpar;Bloomberg&rpar;](http://www.techmeme.com/250623/p13#a250623p13)
+ - [A19 chip could match Qualcomm&#39;s best, but Apple may lean toward power savings instead](https://appleinsider.com/articles/25/06/22/a19-chip-could-match-qualcomms-best-but-apple-may-lean-toward-power-savings-instead?utm_medium=rss)
+ - [Apple keeps pulling its own ads](https://www.theverge.com/news/691113/apple-pulling-ads-parent-presentation)
+ - [Hinge CEO Justin McLeod says dating AI chatbots is ‘playing with fire’](https://www.theverge.com/decoder-podcast-with-nilay-patel/687683/hinge-ceo-justin-mcleod-dating-app-ai-relationships-tinder)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

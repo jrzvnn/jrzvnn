@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Watch a video &amp; download Apple&#39;s presentation to get your parents to buy you a Mac [U]](https://appleinsider.com/articles/25/06/20/watch-a-video-download-apples-presentation-to-get-your-parents-to-buy-you-a-mac?utm_medium=rss)
+ - [China&#39;s Electric Vehicle Factories Have Become Tourist Hotspots](https://www.wired.com/story/china-electric-vehicle-factory-tours-xiaomi/)
  - [How Walmart, seeking to compete with e-commerce rivals like Amazon, built a multibillion-dollar HQ in Bentonville, aiming to attract workers and woo shoppers &lpar;Kevin Draper/New York Times&rpar;](http://www.techmeme.com/250623/p7#a250623p7)
  - [Taiwan Is Rushing to Make Its Own Drones Before It&#39;s Too Late](https://www.wired.com/story/taiwans-rush-to-make-its-own-drones-before-its-too-late/)
- - [Tesla quietly launches its robotaxi service in Austin, with ~10 vehicles and a human safety driver; Elon Musk says customers will pay &quot;a $4.20 flat fee&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250623/p6#a250623p6)
- - [The Largest Camera Ever Built Releases Its First Images of the Cosmos](https://www.wired.com/story/opening-of-the-vera-rubin-observatory/)
- - [India Is Using AI and Satellites to Map Urban Heat Vulnerability Down to the Building Level](https://www.wired.com/story/india-is-using-ai-and-satellites-to-map-urban-heat-vulnerability-down-to-the-building-level/)<!-- TECH:END -->
+ - [Tesla quietly launches its robotaxi service in Austin, with ~10 vehicles and a human safety driver; Elon Musk says customers will pay &quot;a $4.20 flat fee&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250623/p6#a250623p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

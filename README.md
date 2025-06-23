@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A senior US official says DeepSeek is aiding China&#39;s military and intel operations, going beyond open-source AI model access, and evading US export controls &lpar;Reuters&rpar;](http://www.techmeme.com/250623/p16#a250623p16)
+ - [macOS 15.5 Mail app and Google Mail aren&#39;t getting along for some users](https://appleinsider.com/articles/25/06/23/macos-155-mail-app-and-google-mail-arent-getting-along-for-some-users?utm_medium=rss)
+ - [Legal AI startup Harvey raised a $300M Series E co-led by Kleiner Perkins and Coatue at a $5B valuation and says it serves 337 clients like KKR and PwC globally &lpar;Alexandra Sternlicht/Fortune&rpar;](http://www.techmeme.com/250623/p15#a250623p15)
  - [Source: the US House&#39;s CAO informed congressional staffers that WhatsApp is now banned on their government devices as the app is deemed &quot;a high-risk to users&quot; &lpar;Andrew Solender/Axios&rpar;](http://www.techmeme.com/250623/p14#a250623p14)
- - [TechInsights: Huawei&#39;s MateBook Fold uses SMIC&#39;s 7nm chip, like the Mate 60 Pro that stunned the US two years ago, suggesting export rules are hampering Huawei &lpar;Bloomberg&rpar;](http://www.techmeme.com/250623/p13#a250623p13)
- - [A19 chip could match Qualcomm&#39;s best, but Apple may lean toward power savings instead](https://appleinsider.com/articles/25/06/22/a19-chip-could-match-qualcomms-best-but-apple-may-lean-toward-power-savings-instead?utm_medium=rss)
- - [Apple keeps pulling its own ads](https://www.theverge.com/news/691113/apple-pulling-ads-parent-presentation)
- - [Hinge CEO Justin McLeod says dating AI chatbots is ‘playing with fire’](https://www.theverge.com/decoder-podcast-with-nilay-patel/687683/hinge-ceo-justin-mcleod-dating-app-ai-relationships-tinder)<!-- TECH:END -->
+ - [TechInsights: Huawei&#39;s MateBook Fold uses SMIC&#39;s 7nm chip, like the Mate 60 Pro that stunned the US two years ago, suggesting export rules are hampering Huawei &lpar;Bloomberg&rpar;](http://www.techmeme.com/250623/p13#a250623p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

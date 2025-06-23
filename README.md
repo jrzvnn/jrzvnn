@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Slingshot Girl](http://9gag.com/gag/aMVOXyA)
- - 😝 [The ultimate in minimalist shopping.](http://9gag.com/gag/ae972Y5)
- - 💣 [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)
- - 😝 [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)
- - 👉 [Environmental advice from 1963 hits a little different today.](http://9gag.com/gag/a4PWqZw)<!-- MEMES:END -->
+ - 😝 [Bridging tradition and technology](http://9gag.com/gag/aGyO7eK)
+ - 😝 [Nice](http://9gag.com/gag/aByOX8z)
+ - 💣 [Impressing your date with unexpected talents](http://9gag.com/gag/apRYYVb)
+ - 😝 [Then let all of them work](http://9gag.com/gag/aD2OQMx)
+ - 👉 [Helmet hair reveal gone wrong, or maybe right?](http://9gag.com/gag/a87KKZ6)<!-- MEMES:END -->
 
 ---
 

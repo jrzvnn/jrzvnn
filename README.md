@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [TACO](http://9gag.com/gag/abAQ2Er)
- - 😝 [Parking](http://9gag.com/gag/an7rrvb)
- - 💣 [Absolute cinema](http://9gag.com/gag/a34bb83)
- - 😝 [Impressing your date with unexpected talents](http://9gag.com/gag/apRYYVb)
- - 👉 [I didn&#39;t know that playing piano could be funny. And yes, he was a legend.](http://9gag.com/gag/aW4DDQq)<!-- MEMES:END -->
+ - 😝 [Good friends will always play with you...](http://9gag.com/gag/aqyYYbZ)
+ - 😝 [Very human design](http://9gag.com/gag/aGyOAZn)
+ - 💣 [It&#39;s the Je*s...](http://9gag.com/gag/a87KeRV)
+ - 😝 [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)
+ - 👉 [The ultimate in minimalist shopping.](http://9gag.com/gag/ae972Y5)<!-- MEMES:END -->
 
 ---
 

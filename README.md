@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Salesforce launches Agentforce 3 with an observability tool called Command Center and MCP support, and says 8,000 customers have signed up to deploy Agentforce &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/250623/p35#a250623p35)
+ - [macOS Tahoe beta 2 swaps Finder icon colors back after historic design fumble](https://appleinsider.com/articles/25/06/23/macos-tahoe-beta-2-swaps-finder-icon-colors-back-after-historic-design-fumble?utm_medium=rss)
+ - [Hue’s new smart button is bigger and more expensive](https://www.theverge.com/news/691430/philips-hue-smart-button-price-specs-release-date)
  - [Apple heard your complaints about the Liquid Glass Control Center](https://www.theverge.com/news/691540/apple-ios-26-liquid-glass-control-center-fixed-beta)
- - [Sources: Mark Zuckerberg discussed a possible acquisition with Runway AI; the deal talks never reached a formal offer level &lpar;Bloomberg&rpar;](http://www.techmeme.com/250623/p34#a250623p34)
- - [Scientists Are Sending Cannabis Seeds to Space](https://www.wired.com/story/scientists-sending-cannabis-seeds-space-weed/)
- - [A look at the AI landscape and its impact on Apple, Google, Meta, Microsoft, and Amazon, as well as the foundation model makers, including OpenAI and Anthropic &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250623/p33#a250623p33)
- - [iPhone 17 Air&#39;s resolution may have leaked in a iOS 26 wallpaper](https://appleinsider.com/articles/25/06/23/iphone-17-airs-resolution-may-have-leaked-in-a-ios-26-wallpaper?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Mark Zuckerberg discussed a possible acquisition with Runway AI; the deal talks never reached a formal offer level &lpar;Bloomberg&rpar;](http://www.techmeme.com/250623/p34#a250623p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

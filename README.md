@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Beware of Tourist scam](http://9gag.com/gag/ayNYv3y)
- - 😝 [Rico como los tacos sudados](http://9gag.com/gag/amoppj4)
- - 💣 [9 times gravity](http://9gag.com/gag/a7oppyq)
+ - 😝 [A Brazilian woman fell inside Mount Rinjani, an active volcano in Indonesia. She&#39;s been waiting for rescue for over 60 hours.](http://9gag.com/gag/avyd9Mq)
+ - 😝 [And how was your summer vacation flight?](http://9gag.com/gag/aO8RR83)
+ - 💣 [Beware of Tourist scam](http://9gag.com/gag/ayNYv3y)
  - 😝 [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)
- - 👉 [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)<!-- MEMES:END -->
+ - 👉 [The ultimate in minimalist shopping.](http://9gag.com/gag/ae972Y5)<!-- MEMES:END -->
 
 ---
 

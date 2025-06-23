@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [9 times gravity](http://9gag.com/gag/a7oppyq)
+ - 😝 [Environmental advice from 1963 hits a little different today.](http://9gag.com/gag/a4PWqZw)
+ - 💣 [The classic soda and candy reaction](http://9gag.com/gag/a7opnbx)
  - 😝 [I took it as a joke, which it probably was. Otherwise I&#39;m f**ked](http://9gag.com/gag/aKGOODZ)
- - 😝 [The classic soda and candy reaction](http://9gag.com/gag/a7opnbx)
- - 💣 [Looks like the stadium has a few million extra fans tonight](http://9gag.com/gag/avyddmO)
- - 😝 [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)
- - 👉 [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)<!-- MEMES:END -->
+ - 👉 [The ultimate in minimalist shopping.](http://9gag.com/gag/ae972Y5)<!-- MEMES:END -->
 
 ---
 

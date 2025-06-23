@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Slingshot Girl](http://9gag.com/gag/aMVOXyA)
- - 😝 [Good clean fun](http://9gag.com/gag/an7rEEB)
- - 💣 [The classic soda and candy reaction](http://9gag.com/gag/a7opnbx)
  - 😝 [The ultimate in minimalist shopping.](http://9gag.com/gag/ae972Y5)
- - 👉 [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)<!-- MEMES:END -->
+ - 💣 [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)
+ - 😝 [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)
+ - 👉 [Environmental advice from 1963 hits a little different today.](http://9gag.com/gag/a4PWqZw)<!-- MEMES:END -->
 
 ---
 

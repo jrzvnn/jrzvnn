@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good friends will always play with you...](http://9gag.com/gag/aqyYYbZ)
+ - 😝 [World record breaking longest commute time](http://9gag.com/gag/a1mEEqb)
+ - 😝 [Looks like the stadium has a few million extra fans tonight](http://9gag.com/gag/avyddmO)
+ - 💣 [Slingshot Girl](http://9gag.com/gag/aMVOXyA)
  - 😝 [Nice](http://9gag.com/gag/aByOX8z)
- - 💣 [Probably his first day](http://9gag.com/gag/aPA1eNG)
- - 😝 [Slingshot Girl](http://9gag.com/gag/aMVOXyA)
- - 👉 [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)<!-- MEMES:END -->
+ - 👉 [Environmental advice from 1963 hits a little different today.](http://9gag.com/gag/a4PWqZw)<!-- MEMES:END -->
 
 ---
 

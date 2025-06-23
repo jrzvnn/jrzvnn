@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla’s robotaxi is live: here are some of the first reactions.](https://www.theverge.com/news/690846/tesla-robotaxi-first-reaction-austin)
  - [OpenAI and Jony Ive&amp;#8217;s &amp;#8216;io&amp;#8217; brand has vanished, but their AI hardware deal remains](https://www.theverge.com/news/690858/jony-ive-openai-sam-altman-ai-hardware)
  - [What Satellite Images Reveal About the US Bombing of Iran&#39;s Nuclear Sites](https://www.wired.com/story/iran-fordow-nuclear-site-satellite-images-damage/)
  - [OpenAI says it has removed all marketing materials announcing its acquisition of Jony Ive&#39;s io due to a trademark dispute lawsuit &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250622/p13#a250622p13)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 23, #273](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-23-273/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for June 23, #1465](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-23-1465/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 23, #273](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-23-273/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

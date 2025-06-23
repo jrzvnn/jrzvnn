@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;d never drive in that however the engineering of these things is impressive. Black Hole roller coaster in Gardaland.](http://9gag.com/gag/aGyOAq0)
- - 😝 [Caught another one on camera](http://9gag.com/gag/ayNYRjp)
- - 💣 [Keeping a promise after 7 years, this is true friendship.](http://9gag.com/gag/adBoxrB)
- - 😝 [I Regret Nothing](http://9gag.com/gag/ae97xRQ)
- - 👉 [Looks like we found some unusual roots today](http://9gag.com/gag/aNDO4xb)<!-- MEMES:END -->
+ - 😝 [He\u2019s now the leader of the moneys and can make with all the females \u2026.. and males.](http://9gag.com/gag/ayNYRbM)
+ - 😝 [The ultimate in minimalist shopping.](http://9gag.com/gag/ae972Y5)
+ - 💣 [Wait, did it just swallow that whole bone?](http://9gag.com/gag/adBoxBM)
+ - 😝 [Keeping a promise after 7 years, this is true friendship.](http://9gag.com/gag/adBoxrB)
+ - 👉 [DISGUSTING! 22-year-old New York school employee Anamaria Milazzo charged with a felony for allegedly sending n*des to a 14-year-old.](http://9gag.com/gag/aMVOvXP)<!-- MEMES:END -->
 
 ---
 

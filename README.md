@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Excellent job, 47](http://9gag.com/gag/aRBOOj2)
- - 😝 [Rico como los tacos sudados](http://9gag.com/gag/amoppj4)
- - 💣 [Surprise inside the wall](http://9gag.com/gag/a5Qqqqq)
  - 😝 [Horror](http://9gag.com/gag/aRBODXG)
- - 👉 [I took it as a joke, which it probably was. Otherwise I&#39;m f**ked](http://9gag.com/gag/aKGOODZ)<!-- MEMES:END -->
+ - 😝 [Excellent job, 47](http://9gag.com/gag/aRBOOj2)
+ - 💣 [Rico como los tacos sudados](http://9gag.com/gag/amoppj4)
+ - 😝 [Slingshot Girl](http://9gag.com/gag/aMVOXyA)
+ - 👉 [Talk about getting more than you bargained for at an auction.](http://9gag.com/gag/a4PWVVv)<!-- MEMES:END -->
 
 ---
 

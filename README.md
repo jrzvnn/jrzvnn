@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These battery-powered 4K cameras record 24/7](https://www.theverge.com/news/691844/tapo-4k-magcam-security-cameras-homebase-h500-matter-compatible)
  - [Nvidia&amp;#8217;s RTX 5050 GPU starts at $249 with last-gen GDDR6 VRAM](https://www.theverge.com/news/692045/nvidia-geforce-rtx-5050-desktop-laptop-gpu-gddr6-gddr7)
  - [Google releases a new Gemini Robotics On-Device model with an SDK and says the vision language action model can adapt to new tasks in 50 to 100 demonstrations &lpar;Ryan Whitwam/Ars Technica&rpar;](http://www.techmeme.com/250624/p21#a250624p21)
  - [Anthropic wins a major fair use victory for AI — but it’s still in trouble for stealing books](https://www.theverge.com/news/692015/anthropic-wins-a-major-fair-use-victory-for-ai-but-its-still-in-trouble-for-stealing-books)
- - [Russia releases four REvil members who were convicted for payment card fraud; the Kremlin&#39;s 2022 crackdown on REvil followed a call between Biden and Putin &lpar;Daryna Antoniuk/The Record&rpar;](http://www.techmeme.com/250624/p20#a250624p20)
- - [Apple&#39;s China sales might get boost from government subsidy program](https://appleinsider.com/articles/25/06/24/apples-china-sales-might-get-boost-from-government-subsidy-program?utm_medium=rss)<!-- TECH:END -->
+ - [Russia releases four REvil members who were convicted for payment card fraud; the Kremlin&#39;s 2022 crackdown on REvil followed a call between Biden and Putin &lpar;Daryna Antoniuk/The Record&rpar;](http://www.techmeme.com/250624/p20#a250624p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

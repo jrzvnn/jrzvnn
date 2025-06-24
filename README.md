@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls out historical Street View imagery on Google Earth as the service turns 20, and says pro US users can access AI insights, like tree canopy coverage &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250624/p14#a250624p14)
- - [The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?](https://www.wired.com/gallery/best-kindle/)
- - [This real estate sale is literally betting the farm on Steve Jobs&#39;s fame](https://appleinsider.com/articles/25/06/24/this-real-estate-sale-is-literally-betting-the-farm-on-steve-jobss-fame?utm_medium=rss)
- - [AT&amp;#038;T is making it easier to send pictures to 911 dispatchers](https://www.theverge.com/news/691860/att-911-esinet-emergency-picture-video-messages)
- - [10 Best Electrolyte Powders &lpar;2025&rpar;: Tasty and Effective](https://www.wired.com/gallery/best-electrolyte-powders/)<!-- TECH:END -->
+ - [Microsoft and Meta unveil the $399 Meta Quest 3S Xbox Edition, offering few updates to the $299 Meta Quest 3S, available in &quot;extremely limited&quot; quantities &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/250624/p15#a250624p15)
+ - [These battery-powered 4K cameras record 24/7](https://www.theverge.com/news/691844/tapo-4k-magcam-security-cameras-homebase-h500-matter-compatible)
+ - [Tesla&amp;#8217;s robotaxi reality check](https://www.theverge.com/the-vergecast/691888/tesla-robotaxi-mvno-mobile-vergecast)
+ - [OWC Express 4M2 SSD enclosure delivers USB4 speeds &amp; smart cooling](https://appleinsider.com/articles/25/06/24/owc-express-4m2-ssd-enclosure-delivers-usb4-speeds-smart-cooling?utm_medium=rss)
+ - [8BitDo’s controllers will work with the Switch 2 after a firmware update](https://www.theverge.com/news/681153/8bitdo-controller-gamepad-nintendo-switch-2-compatible-firmware-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

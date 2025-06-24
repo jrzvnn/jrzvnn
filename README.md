@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple calls punitive judgement over injunction violation &#39;fundamentally unfair&#39;](https://appleinsider.com/articles/25/06/24/apple-calls-punitive-judgement-over-injunction-violation-fundamentally-unfair?utm_medium=rss)
+ - [&#39;Fortnite&#39; antisteering mandate punishment &#39;fundamentally unfair&#39; says Apple](https://appleinsider.com/articles/25/06/24/apple-calls-punitive-judgement-over-injunction-violation-fundamentally-unfair?utm_medium=rss)
  - [Scale AI used Google Docs to track work for customers like Google, Meta, and xAI, and left confidential AI training documents accessible to anyone with the link &lpar;Business Insider&rpar;](http://www.techmeme.com/250624/p37#a250624p37)
  - [A nasal spray company wants to make it harder for the FTC to police health claims](https://www.theverge.com/policy/692327/xlear-ftc-lawsuit-covid-health-claims-consumer-protection)
  - [Sources: 19-year-old Edward Coristine, who has gone by &quot;Big Balls&quot; online and was one of the first technologists hired as part of DOGE, has resigned &lpar;Wired&rpar;](http://www.techmeme.com/250624/p36#a250624p36)

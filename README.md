@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The latest Fire TV Stick 4K is half off ahead of Prime Day](https://www.theverge.com/tech/691578/amazon-fire-tv-stick-4k-streaming-prime-day-2025-deal-sale)
- - [Anthropic Scores a Landmark AI Copyright Win—but Will Face Trial Over Piracy Claims](https://www.wired.com/story/anthropic-ai-copyright-fair-use-piracy-ruling/)
- - [AI dictation startup Wispr Flow raised a $30M Series A led by Menlo Ventures, after its 2024 pivot away from a hardware device, taking its total funding to $56M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250624/p23#a250624p23)
- - [Sources: in 2024, OpenAI considered document collaboration features but lacked the staff to create them, but has since made some unreleased collaboration tools &lpar;The Information&rpar;](http://www.techmeme.com/250624/p22#a250624p22)
- - [Nomad’s minimalist MagSafe wallet has a tracking card built in](https://www.theverge.com/news/691253/nomad-tracking-card-magsafe-leather-mag-wallet-apple-find-my)<!-- TECH:END -->
+ - [Google finally lets Android users put Chrome’s address bar on the bottom](https://www.theverge.com/news/691718/google-android-chrome-address-bar-bottom)
+ - [Microsoft makes Windows 10 extended security updates free, but there’s a catch](https://www.theverge.com/news/691811/microsoft-windows-10-free-extended-security-updates)
+ - [Philips Hue is raising prices in the US ‘as a direct result of tariffs’](https://www.theverge.com/news/692130/philips-hue-us-tariffs-smart-lighting-price-increase)
+ - [Krysten Ritter Returns as Jessica Jones in &#39;Daredevil: Born Again&#39;: What We Know So Far](https://www.cnet.com/tech/services-and-software/krysten-ritter-returns-as-jessica-jones-in-daredevil-born-again-what-we-know-so-far/#ftag=CAD590a51e)
+ - [The latest Fire TV Stick 4K is half off ahead of Prime Day](https://www.theverge.com/tech/691578/amazon-fire-tv-stick-4k-streaming-prime-day-2025-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Creative clash halts production of Matthew McConaughey &amp; Woody Harrelson Apple TV+ show](https://appleinsider.com/articles/25/06/24/creative-clash-halts-production-of-matthew-mcconaughey-woody-harrelson-apple-tv-show?utm_medium=rss)
  - [Feds wise up and ban WhatsApp, might shift to Apple Messages](https://appleinsider.com/articles/25/06/24/feds-wise-up-and-ban-whatsapp-might-shift-to-apple-messages?utm_medium=rss)
  - [How to sell your iPhone fast &amp; score a 10% trade-in bonus at Gazelle](https://appleinsider.com/articles/25/06/24/how-to-sell-your-iphone-fast-score-a-10-trade-in-bonus-at-gazelle?utm_medium=rss)
  - [Nintendo’s wheelchair basketball game will be out in August](https://www.theverge.com/news/691907/drag-x-drive-release-date-nintendo-switch-2)
- - [A US judge rules Anthropic&#39;s use of copyrighted books to train AI was fair use, but its storage of pirated books in a central library used for training was not &lpar;Olivia Sophie Rafferty/ai fray&rpar;](http://www.techmeme.com/250624/p19#a250624p19)
- - [Microsoft planning ‘major’ Xbox layoffs next week](https://www.theverge.com/microsoft-xbox/691967/microsoft-xbox-layoffs-job-cuts-rumor)<!-- TECH:END -->
+ - [A US judge rules Anthropic&#39;s use of copyrighted books to train AI was fair use, but its storage of pirated books in a central library used for training was not &lpar;Olivia Sophie Rafferty/ai fray&rpar;](http://www.techmeme.com/250624/p19#a250624p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Find My, Mail, Photos and iWork hit by iCloud outage](https://appleinsider.com/articles/25/06/24/find-my-mail-photos-and-iwork-hit-by-icloud-outage?utm_medium=rss)
  - [The Titan 2 is a modernized BlackBerry with 5G, Android, and a second screen](https://www.theverge.com/news/691938/titan-2-smartphone-keyboard-blackberry-5g-android-15)
  - [This 55-inch QLED TV is on sale for $565 and looks like a picture frame when it isn’t being used](https://www.theverge.com/tech/692220/iffalcon-qled-mural-tv-gamesir-g8-galileo-controller-deal-sale)
  - [John Oliver&#39;s Last Week Tonight looks at AI slop, how it corrodes the concept of objective reality, the slop economy, tech leaders&#39; enthusiasm for gen AI, more &lpar;LastWeekTonight on YouTube&rpar;](http://www.techmeme.com/250624/p32#a250624p32)
- - [Chainlink and Mastercard announce a partnership to enable card users to buy crypto &quot;directly onchain through a secure fiat-to-crypto conversion&quot; &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/250624/p31#a250624p31)
- - [A Federal Moratorium on State AI Rules Is Inching Closer to Passing. Why It Matters](https://www.cnet.com/tech/services-and-software/a-federal-moratorium-on-state-ai-rules-is-inching-closer-to-passing-why-it-matters/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chainlink and Mastercard announce a partnership to enable card users to buy crypto &quot;directly onchain through a secure fiat-to-crypto conversion&quot; &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/250624/p31#a250624p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

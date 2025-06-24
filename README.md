@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Interviews with 24+ Microsoft customers, salespeople, and others show that Microsoft is struggling to sell Copilot AI as enterprise customers opt for ChatGPT &lpar;Bloomberg&rpar;](http://www.techmeme.com/250624/p12#a250624p12)
+ - [Waymo launches robotaxis in Atlanta via Uber&#39;s app, covering a 65-square-mile area, after launching in Austin on March 4; its vehicles don&#39;t drive on highways &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250624/p11#a250624p11)
  - [Abridge, which uses AI to automate doctors&#39; note-taking, raised $300M led by a16z at a $5.3B valuation, after raising $250M at a $2.75B valuation in February &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250624/p10#a250624p10)
  - [This Is Why High-End Electric Cars Are Failing](https://www.wired.com/story/this-is-why-high-end-electric-cars-are-failing/)
- - [How AI infiltrated perfume](https://www.theverge.com/ai-artificial-intelligence/691050/perfume-ai)
- - [Waymo’s robotaxis are now available on the Uber app in Atlanta](https://www.theverge.com/news/691101/waymo-uber-robotaxi-atlanta-launch)
- - [Five years of Apple Silicon: How Apple continues to revolutionize chips](https://appleinsider.com/articles/25/04/23/five-years-of-apple-silicon-how-apple-continues-to-revolutionize-chips?utm_medium=rss)<!-- TECH:END -->
+ - [How AI infiltrated perfume](https://www.theverge.com/ai-artificial-intelligence/691050/perfume-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

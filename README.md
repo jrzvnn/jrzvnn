@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hope the selfie was worth it](http://9gag.com/gag/a9yOBW1)
- - 😝 [Lol](http://9gag.com/gag/aZZzvW9)
- - 💣 [I took it as a joke, which it probably was. Otherwise I&#39;m f**ked](http://9gag.com/gag/aKGOODZ)
- - 😝 [Beware of Tourist scam](http://9gag.com/gag/ayNYv3y)
- - 👉 [Nah.. Nope..](http://9gag.com/gag/aVvVBEy)<!-- MEMES:END -->
+ - 😝 [Then let all of them work](http://9gag.com/gag/aD2OQMx)
+ - 😝 [Talk about getting more than you bargained for at an auction.](http://9gag.com/gag/a4PWVVv)
+ - 💣 [A Brazilian woman fell inside Mount Rinjani, an active volcano in Indonesia. She&#39;s been waiting for rescue for over 60 hours.](http://9gag.com/gag/avyd9Mq)
+ - 😝 [Nah.. Nope..](http://9gag.com/gag/aVvVBEy)
+ - 👉 [Locksmith breaks into houses and breaks hearts](http://9gag.com/gag/a87Kn3d)<!-- MEMES:END -->
 
 ---
 

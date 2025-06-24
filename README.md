@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Living on the edge, one laundry load at a time.](http://9gag.com/gag/a2vLxrZ)
- - 😝 [Talk about getting more than you bargained for at an auction.](http://9gag.com/gag/a4PWVVv)
- - 💣 [Then let all of them work](http://9gag.com/gag/aD2OQMx)
+ - 😝 [You&#39;re mine now](http://9gag.com/gag/aD2OMGB)
+ - 😝 [He is pissed](http://9gag.com/gag/awyY81W)
+ - 💣 [Hope the selfie was worth it](http://9gag.com/gag/a9yOBW1)
  - 😝 [Beware of Tourist scam](http://9gag.com/gag/ayNYv3y)
- - 👉 [A Brazilian woman fell inside Mount Rinjani, an active volcano in Indonesia. She&#39;s been waiting for rescue for over 60 hours.](http://9gag.com/gag/avyd9Mq)<!-- MEMES:END -->
+ - 👉 [He&#39;s losing it](http://9gag.com/gag/a5QqxjV)<!-- MEMES:END -->
 
 ---
 

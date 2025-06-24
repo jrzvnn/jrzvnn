@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An interesting theory on generational wealth and physical traits.](http://9gag.com/gag/a87KVMe)
- - 😝 [Traffic stops can be funny sometimes](http://9gag.com/gag/a5Qq5PN)
- - 💣 [When the creator signing the item](http://9gag.com/gag/a9yODqj)
- - 😝 [Excellent job, 47](http://9gag.com/gag/aRBOOj2)
- - 👉 [Rico como los tacos sudados](http://9gag.com/gag/amoppj4)<!-- MEMES:END -->
+ - 😝 [Helmet hair reveal gone wrong, or maybe right?](http://9gag.com/gag/a87KKZ6)
+ - 😝 [Brock&#39;s eyes...](http://9gag.com/gag/agmEjYr)
+ - 💣 [Jimmy knows what&#39;s up](http://9gag.com/gag/aVvVVpv)
+ - 😝 [Anti-Bezos protest in Venice for his wedding. Not even that subtle.](http://9gag.com/gag/azxYQgK)
+ - 👉 [An oldie but a goodie](http://9gag.com/gag/a5Qq54V)<!-- MEMES:END -->
 
 ---
 

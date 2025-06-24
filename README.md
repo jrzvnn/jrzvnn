@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Little fun dinner](http://9gag.com/gag/a9yOVYm)
+ - 😝 [Just aim properly](http://9gag.com/gag/ary2dBK)
  - 😝 [A Brazilian woman fell inside Mount Rinjani, an active volcano in Indonesia. She&#39;s been waiting for rescue for over 60 hours.](http://9gag.com/gag/avyd9Mq)
- - 💣 [Beware of Tourist scam](http://9gag.com/gag/ayNYv3y)
+ - 💣 [That snap was faster than expected](http://9gag.com/gag/awyYexB)
  - 😝 [He is pissed](http://9gag.com/gag/awyY81W)
- - 👉 [Just aim properly](http://9gag.com/gag/ary2dBK)<!-- MEMES:END -->
+ - 👉 [Hope the selfie was worth it](http://9gag.com/gag/a9yOBW1)<!-- MEMES:END -->
 
 ---
 

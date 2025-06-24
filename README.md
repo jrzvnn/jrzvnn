@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Raleigh One e-bike launches with VanMoof DNA](https://www.theverge.com/news/690922/raleigh-one-vanmoof-e-bike-carlier-price-date)
  - [The UK CMA says it has provisionally found Google meets the legal tests to designate it with &quot;strategic market status&quot; in general search and search advertising &lpar;Financial Times&rpar;](http://www.techmeme.com/250624/p2#a250624p2)
  - [NordVPN Coupon and Discount Codes: 76% Off](https://www.wired.com/story/nordvpn-coupon/)
  - [Q&amp;A with Meta&#39;s Andrew Bosworth on joining Detachment 201, the Army&#39;s tech challenges, the vibe shift in Silicon Valley&#39;s military relations, and more &lpar;Blake Dodge/Pirate Wires&rpar;](http://www.techmeme.com/250624/p1#a250624p1)
- - [10% Home Depot Promo Codes &amp; Coupons | June 2025](https://www.wired.com/story/home-depot-promo-code/)
- - [Tempur-Pedic Promo Codes: Up to $500 Off](https://www.wired.com/story/tempur-pedic-promo-code/)<!-- TECH:END -->
+ - [10% Home Depot Promo Codes &amp; Coupons | June 2025](https://www.wired.com/story/home-depot-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

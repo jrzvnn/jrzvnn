@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPad Pro bezels could shrink more with OLED film changes](https://appleinsider.com/articles/25/06/24/ipad-pro-bezels-could-shrink-more-with-oled-film-changes?utm_medium=rss)
+ - [Early betas are brutal, but iOS 26 is already on the road to recovery](https://appleinsider.com/articles/25/06/24/early-betas-are-brutal-but-ios-26-is-already-on-the-road-to-recovery?utm_medium=rss)
  - [TCL 60 XE Nxtpaper 5G Review: A Pleasing Matte Screen](https://www.wired.com/review/tcl-60-xe-nxtpaper-5g/)
  - [Interviews with 24+ Microsoft customers, salespeople, and others show that Microsoft is struggling to sell Copilot AI as enterprise customers opt for ChatGPT &lpar;Bloomberg&rpar;](http://www.techmeme.com/250624/p12#a250624p12)
- - [Waymo launches robotaxis in Atlanta via Uber&#39;s app, covering a 65-square-mile area, after launching in Austin on March 4; its vehicles don&#39;t drive on highways &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250624/p11#a250624p11)
- - [Abridge, which uses AI to automate doctors&#39; note-taking, raised $300M led by a16z at a $5.3B valuation, after raising $250M at a $2.75B valuation in February &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250624/p10#a250624p10)
- - [This Is Why High-End Electric Cars Are Failing](https://www.wired.com/story/this-is-why-high-end-electric-cars-are-failing/)<!-- TECH:END -->
+ - [6 Fabrics That Will Keep You Fashionably Cool in the Summer Heat](https://www.cnet.com/health/personal-care/6-fabrics-that-will-keep-you-fashionably-cool-in-the-summer-heat/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

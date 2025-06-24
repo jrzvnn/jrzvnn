@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [World record breaking longest commute time](http://9gag.com/gag/a1mEEqb)
- - 😝 [Hope the selfie was worth it](http://9gag.com/gag/a9yOBW1)
- - 💣 [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)
- - 😝 [French woman is told her outfit is `haram,` which means `forbidden` in Islam. The girl responds: `It\u2019s a good thing I\u2019m a Christian.` That happened at Music Festival 2025 in Paris, nearly 150 women were jabbed with hypodermic needles with unknown substance during the festival.](http://9gag.com/gag/a6Zjx58)
- - 👉 [Locksmith breaks into houses and breaks hearts](http://9gag.com/gag/a87Kn3d)<!-- MEMES:END -->
+ - 😝 [Jimmy knows what&#39;s up](http://9gag.com/gag/aVvVVpv)
+ - 😝 [Living on the edge, one laundry load at a time.](http://9gag.com/gag/a2vLxrZ)
+ - 💣 [Anti-Bezos protest in Venice for his wedding. Not even that subtle.](http://9gag.com/gag/azxYQgK)
+ - 😝 [And I was thinking Old\u202fSpice has f**ked up ads](http://9gag.com/gag/agmEdvK)
+ - 👉 [An oldie but a goodie](http://9gag.com/gag/a5Qq54V)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The latest Fire TV Stick 4K is half off ahead of Prime Day](https://www.theverge.com/tech/691578/amazon-fire-tv-stick-4k-streaming-prime-day-2025-deal-sale)
+ - [Anthropic Scores a Landmark AI Copyright Win—but Will Face Trial Over Piracy Claims](https://www.wired.com/story/anthropic-ai-copyright-fair-use-piracy-ruling/)
  - [AI dictation startup Wispr Flow raised a $30M Series A led by Menlo Ventures, after its 2024 pivot away from a hardware device, taking its total funding to $56M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250624/p23#a250624p23)
  - [Sources: in 2024, OpenAI considered document collaboration features but lacked the staff to create them, but has since made some unreleased collaboration tools &lpar;The Information&rpar;](http://www.techmeme.com/250624/p22#a250624p22)
- - [Nomad’s minimalist MagSafe wallet has a tracking card built in](https://www.theverge.com/news/691253/nomad-tracking-card-magsafe-leather-mag-wallet-apple-find-my)
- - [Roblox wants to better reward creators for bringing players back](https://www.theverge.com/news/691308/roblox-daily-engagement-audience-expansion-reward-program-payouts-creator-rewards)
- - [These battery-powered 4K cameras record 24/7](https://www.theverge.com/news/691844/tapo-4k-magcam-security-cameras-homebase-h500-matter-compatible)<!-- TECH:END -->
+ - [Nomad’s minimalist MagSafe wallet has a tracking card built in](https://www.theverge.com/news/691253/nomad-tracking-card-magsafe-leather-mag-wallet-apple-find-my)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

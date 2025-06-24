@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Impressing your date with unexpected talents](http://9gag.com/gag/apRYYVb)
  - 😝 [Then let all of them work](http://9gag.com/gag/aD2OQMx)
- - 😝 [I love how he shows respect to the ones that respect him equally](http://9gag.com/gag/aMVOyxG)
  - 💣 [Helmet hair reveal gone wrong, or maybe right?](http://9gag.com/gag/a87KKZ6)
- - 😝 [Jimmy knows what&#39;s up](http://9gag.com/gag/aVvVVpv)
- - 👉 [Anti-Bezos protest in Venice for his wedding. Not even that subtle.](http://9gag.com/gag/azxYQgK)<!-- MEMES:END -->
+ - 😝 [I love how he shows respect to the ones that respect him equally](http://9gag.com/gag/aMVOyxG)
+ - 👉 [Jimmy knows what&#39;s up](http://9gag.com/gag/aVvVVpv)<!-- MEMES:END -->
 
 ---
 

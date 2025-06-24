@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google, the Earth Fire Alliance, and Muon Space&#39;s Fire Sat aims to launch 52 satellites by 2029 to detect wildfires globally and will make the data accessible &lpar;Boone Ashworth/Wired&rpar;](http://www.techmeme.com/250624/p13#a250624p13)
  - [iPad Pro bezels could shrink more with OLED film changes](https://appleinsider.com/articles/25/06/24/ipad-pro-bezels-could-shrink-more-with-oled-film-changes?utm_medium=rss)
  - [Early betas are brutal, but iOS 26 is already on the road to recovery](https://appleinsider.com/articles/25/06/24/early-betas-are-brutal-but-ios-26-is-already-on-the-road-to-recovery?utm_medium=rss)
  - [TCL 60 XE Nxtpaper 5G Review: A Pleasing Matte Screen](https://www.wired.com/review/tcl-60-xe-nxtpaper-5g/)
- - [Interviews with 24+ Microsoft customers, salespeople, and others show that Microsoft is struggling to sell Copilot AI as enterprise customers opt for ChatGPT &lpar;Bloomberg&rpar;](http://www.techmeme.com/250624/p12#a250624p12)
- - [6 Fabrics That Will Keep You Fashionably Cool in the Summer Heat](https://www.cnet.com/health/personal-care/6-fabrics-that-will-keep-you-fashionably-cool-in-the-summer-heat/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Interviews with 24+ Microsoft customers, salespeople, and others show that Microsoft is struggling to sell Copilot AI as enterprise customers opt for ChatGPT &lpar;Bloomberg&rpar;](http://www.techmeme.com/250624/p12#a250624p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

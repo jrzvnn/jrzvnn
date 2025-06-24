@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: 19-year-old Edward Coristine, who has gone by &quot;Big Balls&quot; online and was one of the first technologists hired as part of DOGE, has resigned &lpar;Wired&rpar;](http://www.techmeme.com/250624/p36#a250624p36)
+ - [MindsEye developer undergoing layoffs less than a month after launch](https://www.theverge.com/news/692420/mindseye-build-a-rocket-boy-layoffs-leslie-benzies)
  - [Xbow, whose AI tool automates penetration testing and topped HackerOne&#39;s US leaderboard for finding and reporting software bugs, raised a $75M Series B &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250624/p35#a250624p35)
  - [‘Big Balls’ No Longer Works for the US Government](https://www.wired.com/story/big-balls-coristine-doge-resigned-us-government/)
- - [The US is stripping its forests of decades-old protections](https://www.theverge.com/news/692299/national-forest-fire-trump-rescind-roadless-rule-usda)
- - [Apple&#39;s &#39;F1&#39; ad in Wallet won&#39;t hurt you, but it might save you $10](https://appleinsider.com/articles/25/06/24/apples-f1-ad-in-wallet-wont-hurt-you-but-it-might-save-you-10?utm_medium=rss)
- - [CareerBuilder + Monster, which once dominated the online recruitment industry, files for Chapter 11 and agrees to sell its job board operations to JobGet &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250624/p34#a250624p34)<!-- TECH:END -->
+ - [The US is stripping its forests of decades-old protections](https://www.theverge.com/news/692299/national-forest-fire-trump-rescind-roadless-rule-usda)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

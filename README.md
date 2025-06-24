@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Countdown to Prime Day: Best deals on Apple deliver up to $400 off](https://appleinsider.com/articles/25/06/24/countdown-to-prime-day-best-deals-on-apple-deliver-up-to-400-off?utm_medium=rss)
  - [Hideo Kojima sees Death Stranding 2 as a cautionary tale](https://www.theverge.com/games/691570/hideo-kojima-death-stranding-2)
  - [Samsung&amp;#8217;s offering a $50 credit if you commit to preordering its upcoming Galaxy foldable](https://www.theverge.com/tech/692011/samsung-unpacked-2025-galaxy-fold-ultra-pre-order-credit-deal)
  - [Roblox says it is on track to pay out $1B to creators in 2025, as it revamps its rewards program to encourage creators to bring more players onto the platform &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250624/p24#a250624p24)
- - [Tesla’s robotaxis are operating in a regulatory vacuum](https://www.theverge.com/tesla/691975/tesla-robotaxi-mistake-nhtsa-regulatory-weak)
- - [Google finally lets Android users put Chrome’s address bar on the bottom](https://www.theverge.com/news/691718/google-android-chrome-address-bar-bottom)<!-- TECH:END -->
+ - [Tesla’s robotaxis are operating in a regulatory vacuum](https://www.theverge.com/tesla/691975/tesla-robotaxi-mistake-nhtsa-regulatory-weak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

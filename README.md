@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google releases a new Gemini Robotics On-Device model with an SDK and says the vision language action model can adapt to new tasks in 50 to 100 demonstrations &lpar;Ryan Whitwam/Ars Technica&rpar;](http://www.techmeme.com/250624/p21#a250624p21)
+ - [Anthropic wins a major fair use victory for AI — but it’s still in trouble for stealing books](https://www.theverge.com/news/692015/anthropic-wins-a-major-fair-use-victory-for-ai-but-its-still-in-trouble-for-stealing-books)
+ - [Russia releases four REvil members who were convicted for payment card fraud; the Kremlin&#39;s 2022 crackdown on REvil followed a call between Biden and Putin &lpar;Daryna Antoniuk/The Record&rpar;](http://www.techmeme.com/250624/p20#a250624p20)
  - [Apple&#39;s China sales might get boost from government subsidy program](https://appleinsider.com/articles/25/06/24/apples-china-sales-might-get-boost-from-government-subsidy-program?utm_medium=rss)
- - [34 Viral TikTok Gifts That Are Actually Worth a Look &lpar;2025&rpar;](https://www.wired.com/gallery/best-viral-tiktok-gadgets/)
- - [Creative clash halts production of Matthew McConaughey &amp; Woody Harrelson Apple TV+ show](https://appleinsider.com/articles/25/06/24/creative-clash-halts-production-of-matthew-mcconaughey-woody-harrelson-apple-tv-show?utm_medium=rss)
- - [Feds wise up and ban WhatsApp, might shift to Apple Messages](https://appleinsider.com/articles/25/06/24/feds-wise-up-and-ban-whatsapp-might-shift-to-apple-messages?utm_medium=rss)
- - [How to sell your iPhone fast &amp; score a 10% trade-in bonus at Gazelle](https://appleinsider.com/articles/25/06/24/how-to-sell-your-iphone-fast-score-a-10-trade-in-bonus-at-gazelle?utm_medium=rss)<!-- TECH:END -->
+ - [34 Viral TikTok Gifts That Are Actually Worth a Look &lpar;2025&rpar;](https://www.wired.com/gallery/best-viral-tiktok-gadgets/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Courts say AI training on copyrighted material is legal](https://appleinsider.com/articles/25/06/24/courts-say-ai-training-on-copyrighted-material-is-legal?utm_medium=rss)
+ - [Netflix is letting go of some of its best indie games](https://www.theverge.com/news/692227/netflix-games-delisting-hades-braid-gaming-strategy)
  - [Chrome for Android is rolling out a feature that lets users move the address bar to the bottom of the screen, after it launched for iOS users in 2023 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250624/p26#a250624p26)
  - [Demand is growing for expensive personalized dating services that vet members before first dates; Tinder&#39;s paid users have fallen for two years amid app fatigue &lpar;Bloomberg&rpar;](http://www.techmeme.com/250624/p25#a250624p25)
- - [5 Best Lip Balms to Try in 2025, All Tested in Tough Conditions](https://www.wired.com/gallery/the-best-lip-balms/)
- - [Countdown to Prime Day: Best deals on Apple deliver up to $400 off](https://appleinsider.com/articles/25/06/24/countdown-to-prime-day-best-deals-on-apple-deliver-up-to-400-off?utm_medium=rss)
- - [How to Watch Auckland City vs. Boca Juniors From Anywhere for Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-auckland-city-vs-boca-juniors-from-anywhere-for-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [5 Best Lip Balms to Try in 2025, All Tested in Tough Conditions](https://www.wired.com/gallery/the-best-lip-balms/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

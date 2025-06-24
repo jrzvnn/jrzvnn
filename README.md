@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google, the Earth Fire Alliance, and Muon Space&#39;s Fire Sat aims to launch 52 satellites by 2029 to detect wildfires globally and will make the data accessible &lpar;Boone Ashworth/Wired&rpar;](http://www.techmeme.com/250624/p13#a250624p13)
- - [iPad Pro bezels could shrink more with OLED film changes](https://appleinsider.com/articles/25/06/24/ipad-pro-bezels-could-shrink-more-with-oled-film-changes?utm_medium=rss)
- - [Early betas are brutal, but iOS 26 is already on the road to recovery](https://appleinsider.com/articles/25/06/24/early-betas-are-brutal-but-ios-26-is-already-on-the-road-to-recovery?utm_medium=rss)
- - [TCL 60 XE Nxtpaper 5G Review: A Pleasing Matte Screen](https://www.wired.com/review/tcl-60-xe-nxtpaper-5g/)
- - [Interviews with 24+ Microsoft customers, salespeople, and others show that Microsoft is struggling to sell Copilot AI as enterprise customers opt for ChatGPT &lpar;Bloomberg&rpar;](http://www.techmeme.com/250624/p12#a250624p12)<!-- TECH:END -->
+ - [Google rolls out historical Street View imagery on Google Earth as the service turns 20, and says pro US users can access AI insights, like tree canopy coverage &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250624/p14#a250624p14)
+ - [The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?](https://www.wired.com/gallery/best-kindle/)
+ - [This real estate sale is literally betting the farm on Steve Jobs&#39;s fame](https://appleinsider.com/articles/25/06/24/this-real-estate-sale-is-literally-betting-the-farm-on-steve-jobss-fame?utm_medium=rss)
+ - [AT&amp;#038;T is making it easier to send pictures to 911 dispatchers](https://www.theverge.com/news/691860/att-911-esinet-emergency-picture-video-messages)
+ - [10 Best Electrolyte Powders &lpar;2025&rpar;: Tasty and Effective](https://www.wired.com/gallery/best-electrolyte-powders/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

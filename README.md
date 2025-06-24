@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Impressing your date with unexpected talents](http://9gag.com/gag/apRYYVb)
- - 😝 [Then let all of them work](http://9gag.com/gag/aD2OQMx)
- - 💣 [Helmet hair reveal gone wrong, or maybe right?](http://9gag.com/gag/a87KKZ6)
- - 😝 [I love how he shows respect to the ones that respect him equally](http://9gag.com/gag/aMVOyxG)
- - 👉 [Jimmy knows what&#39;s up](http://9gag.com/gag/aVvVVpv)<!-- MEMES:END -->
+ - 😝 [Come you little shit! Say hello to my little friend!](http://9gag.com/gag/aByOXZA)
+ - 😝 [Rico como los tacos sudados](http://9gag.com/gag/amoppj4)
+ - 💣 [Environmental advice from 1963 hits a little different today.](http://9gag.com/gag/a4PWqZw)
+ - 😝 [Good friends will always play with you...](http://9gag.com/gag/aqyYYbZ)
+ - 👉 [Excellent job, 47](http://9gag.com/gag/aRBOOj2)<!-- MEMES:END -->
 
 ---
 

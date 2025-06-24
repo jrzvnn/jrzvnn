@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When the comments section is funnier than the tattoo itself](http://9gag.com/gag/aD2OPRd)
- - 😝 [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)
- - 💣 [A Brazilian woman fell inside Mount Rinjani, an active volcano in Indonesia. She&#39;s been waiting for rescue for over 60 hours.](http://9gag.com/gag/avyd9Mq)
- - 😝 [Beware of Tourist scam](http://9gag.com/gag/ayNYv3y)
- - 👉 [Locksmith breaks into houses and breaks hearts](http://9gag.com/gag/a87Kn3d)<!-- MEMES:END -->
+ - 😝 [A Brazilian woman fell inside Mount Rinjani, an active volcano in Indonesia. She&#39;s been waiting for rescue for over 60 hours.](http://9gag.com/gag/avyd9Mq)
+ - 😝 [You&#39;re mine now](http://9gag.com/gag/aD2OMGB)
+ - 💣 [The size of this manta ray is truly incredible, the shark provides perfect scale.](http://9gag.com/gag/azxYYRp)
+ - 😝 [Locksmith breaks into houses and breaks hearts](http://9gag.com/gag/a87Kn3d)
+ - 👉 [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)<!-- MEMES:END -->
 
 ---
 

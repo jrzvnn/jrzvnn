@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rico como los tacos sudados](http://9gag.com/gag/amoppj4)
- - 😝 [Winning in life indeed](http://9gag.com/gag/aE0OXzx)
- - 💣 [Beware of Tourist scam](http://9gag.com/gag/ayNYv3y)
- - 😝 [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)
- - 👉 [Excellent job, 47](http://9gag.com/gag/aRBOOj2)<!-- MEMES:END -->
+ - 😝 [Then let all of them work](http://9gag.com/gag/aD2OQMx)
+ - 😝 [I love how he shows respect to the ones that respect him equally](http://9gag.com/gag/aMVOyxG)
+ - 💣 [Helmet hair reveal gone wrong, or maybe right?](http://9gag.com/gag/a87KKZ6)
+ - 😝 [Jimmy knows what&#39;s up](http://9gag.com/gag/aVvVVpv)
+ - 👉 [Anti-Bezos protest in Venice for his wedding. Not even that subtle.](http://9gag.com/gag/azxYQgK)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Brazilian woman fell inside Mount Rinjani, an active volcano in Indonesia. She&#39;s been waiting for rescue for over 60 hours.](http://9gag.com/gag/avyd9Mq)
- - 😝 [You&#39;re mine now](http://9gag.com/gag/aD2OMGB)
- - 💣 [The size of this manta ray is truly incredible, the shark provides perfect scale.](http://9gag.com/gag/azxYYRp)
- - 😝 [Locksmith breaks into houses and breaks hearts](http://9gag.com/gag/a87Kn3d)
- - 👉 [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)<!-- MEMES:END -->
+ - 😝 [The perfect response does exist.](http://9gag.com/gag/a34bnr3)
+ - 😝 [And I was thinking Old\u202fSpice has f**ked up ads](http://9gag.com/gag/agmEdvK)
+ - 💣 [He&#39;s losing it](http://9gag.com/gag/a5QqxjV)
+ - 😝 [Kids will always keep you on your toes with the things they say.](http://9gag.com/gag/abAQEBB)
+ - 👉 [French woman is told her outfit is `haram,` which means `forbidden` in Islam. The girl responds: `It\u2019s a good thing I\u2019m a Christian.` That happened at Music Festival 2025 in Paris, nearly 150 women were jabbed with hypodermic needles with unknown substance during the festival.](http://9gag.com/gag/a6Zjx58)<!-- MEMES:END -->
 
 ---
 

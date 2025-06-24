@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Horror](http://9gag.com/gag/aRBODXG)
- - 😝 [Excellent job, 47](http://9gag.com/gag/aRBOOj2)
- - 💣 [Rico como los tacos sudados](http://9gag.com/gag/amoppj4)
- - 😝 [Slingshot Girl](http://9gag.com/gag/aMVOXyA)
- - 👉 [Talk about getting more than you bargained for at an auction.](http://9gag.com/gag/a4PWVVv)<!-- MEMES:END -->
+ - 😝 [When the creator signing the item](http://9gag.com/gag/a9yODqj)
+ - 😝 [Talk about getting more than you bargained for at an auction.](http://9gag.com/gag/a4PWVVv)
+ - 💣 [Excellent job, 47](http://9gag.com/gag/aRBOOj2)
+ - 😝 [An interesting theory on generational wealth and physical traits.](http://9gag.com/gag/a87KVMe)
+ - 👉 [Rico como los tacos sudados](http://9gag.com/gag/amoppj4)<!-- MEMES:END -->
 
 ---
 

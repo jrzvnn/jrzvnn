@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Five years of Apple Silicon: How Apple continues to revolutionize chips](https://appleinsider.com/articles/25/04/23/five-years-of-apple-silicon-how-apple-continues-to-revolutionize-chips?utm_medium=rss)
+ - [Inside Amazon&#39;s Indiana data center complex: built for Anthropic with plans for ~30 centers, consuming 2.2GW of power and millions of gallons of water per year &lpar;New York Times&rpar;](http://www.techmeme.com/250624/p9#a250624p9)
  - [Researchers: &quot;chain of thought&quot; techniques used by Anthropic, Google, OpenAI, and xAI show inconsistencies where chatbot answers contradict the stated reasoning &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/250624/p8#a250624p8)
  - [Verizon adopts Google’s Gemini AI to help customers solve ‘complex’ issues](https://www.theverge.com/news/691810/verizon-google-gemini-ai-chatbot-customer-service)
- - [Digital Asset, which builds Canton Network, an open-source public blockchain for regulated financial institutions, raised $135M co-led by DRW and Tradeweb &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250624/p7#a250624p7)
- - [Amazon says it plans to invest £40B in the UK economy over the next three years, including opening four new warehouses; Amazon invested £12B+ in the UK in 2023 &lpar;Freya Jones/Bloomberg&rpar;](http://www.techmeme.com/250624/p6#a250624p6)
- - [The Methaphone Is a Phone &lpar;That’s Not a Phone&rpar; to Help You Stop Using Your Phone](https://www.wired.com/story/methaphone-smartphone-addiction/)<!-- TECH:END -->
+ - [Digital Asset, which builds Canton Network, an open-source public blockchain for regulated financial institutions, raised $135M co-led by DRW and Tradeweb &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250624/p7#a250624p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Your average 9gagger](http://9gag.com/gag/aRBONgG)
- - 😝 [Nah.. Nope..](http://9gag.com/gag/aVvVBEy)
- - 💣 [He is pissed](http://9gag.com/gag/awyY81W)
- - 😝 [Beware of Tourist scam](http://9gag.com/gag/ayNYv3y)
- - 👉 [Just aim properly](http://9gag.com/gag/ary2dBK)<!-- MEMES:END -->
+ - 😝 [A Brazilian woman fell inside Mount Rinjani, an active volcano in Indonesia. She&#39;s been waiting for rescue for over 60 hours.](http://9gag.com/gag/avyd9Mq)
+ - 😝 [You&#39;re mine now](http://9gag.com/gag/aD2OMGB)
+ - 💣 [Poor guy didn&#39;t even cheated a day in his life](http://9gag.com/gag/aE0OO5x)
+ - 😝 [Locksmith breaks into houses and breaks hearts](http://9gag.com/gag/a87Kn3d)
+ - 👉 [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)<!-- MEMES:END -->
 
 ---
 

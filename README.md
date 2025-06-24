@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When the creator signing the item](http://9gag.com/gag/a9yODqj)
- - 😝 [Talk about getting more than you bargained for at an auction.](http://9gag.com/gag/a4PWVVv)
- - 💣 [Excellent job, 47](http://9gag.com/gag/aRBOOj2)
  - 😝 [An interesting theory on generational wealth and physical traits.](http://9gag.com/gag/a87KVMe)
+ - 😝 [Traffic stops can be funny sometimes](http://9gag.com/gag/a5Qq5PN)
+ - 💣 [When the creator signing the item](http://9gag.com/gag/a9yODqj)
+ - 😝 [Excellent job, 47](http://9gag.com/gag/aRBOOj2)
  - 👉 [Rico como los tacos sudados](http://9gag.com/gag/amoppj4)<!-- MEMES:END -->
 
 ---

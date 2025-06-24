@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Helmet hair reveal gone wrong, or maybe right?](http://9gag.com/gag/a87KKZ6)
- - 😝 [Brock&#39;s eyes...](http://9gag.com/gag/agmEjYr)
- - 💣 [Jimmy knows what&#39;s up](http://9gag.com/gag/aVvVVpv)
- - 😝 [Anti-Bezos protest in Venice for his wedding. Not even that subtle.](http://9gag.com/gag/azxYQgK)
- - 👉 [An oldie but a goodie](http://9gag.com/gag/a5Qq54V)<!-- MEMES:END -->
+ - 😝 [French woman is told her outfit is `haram,` which means `forbidden` in Islam. The girl responds: `It\u2019s a good thing I\u2019m a Christian.` That happened at Music Festival 2025 in Paris, nearly 150 women were jabbed with hypodermic needles with unknown substance during the festival.](http://9gag.com/gag/a6Zjx58)
+ - 😝 [Rico como los tacos sudados](http://9gag.com/gag/amoppj4)
+ - 💣 [I took it as a joke, which it probably was. Otherwise I&#39;m f**ked](http://9gag.com/gag/aKGOODZ)
+ - 😝 [Locksmith breaks into houses and breaks hearts](http://9gag.com/gag/a87Kn3d)
+ - 👉 [Living on the edge, one laundry load at a time.](http://9gag.com/gag/a2vLxrZ)<!-- MEMES:END -->
 
 ---
 

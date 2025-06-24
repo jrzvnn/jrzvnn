@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Courts say AI training on copyrighted material is legal](https://appleinsider.com/articles/25/06/24/courts-say-ai-training-on-copyrighted-material-is-legal?utm_medium=rss)
- - [Netflix is letting go of some of its best indie games](https://www.theverge.com/news/692227/netflix-games-delisting-hades-braid-gaming-strategy)
- - [Chrome for Android is rolling out a feature that lets users move the address bar to the bottom of the screen, after it launched for iOS users in 2023 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250624/p26#a250624p26)
- - [Demand is growing for expensive personalized dating services that vet members before first dates; Tinder&#39;s paid users have fallen for two years amid app fatigue &lpar;Bloomberg&rpar;](http://www.techmeme.com/250624/p25#a250624p25)
- - [5 Best Lip Balms to Try in 2025, All Tested in Tough Conditions](https://www.wired.com/gallery/the-best-lip-balms/)<!-- TECH:END -->
+ - [Apple Wallet notifications for an F1 movie promotion ticked off iPhone owners](https://www.theverge.com/news/692276/apple-wallet-notification-f1-movie-ad)
+ - [WhatsApp has become a kind of AI marketplace where chatbots like ChatGPT, Meta AI, and Perplexity jockey for users&#39; attention &lpar;Pranav Dixit/Business Insider&rpar;](http://www.techmeme.com/250624/p29#a250624p29)
+ - [Paramount Plus with Showtime is getting a rebrand](https://www.theverge.com/streaming-wars/692159/paramount-plus-premium-showtime)
+ - [Apple sparks a backlash from iPhone owners after pushing a notification from the Apple Wallet app that promoted a Fandango deal for Apple&#39;s F1 movie &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250624/p28#a250624p28)
+ - [Microsoft makes Windows 10&#39;s extended security updates free for an extra year for users who sync PC settings via a Microsoft Account and the Windows Backup app &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/250624/p27#a250624p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

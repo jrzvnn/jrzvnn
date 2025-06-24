@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just aim properly](http://9gag.com/gag/ary2dBK)
- - 😝 [A Brazilian woman fell inside Mount Rinjani, an active volcano in Indonesia. She&#39;s been waiting for rescue for over 60 hours.](http://9gag.com/gag/avyd9Mq)
- - 💣 [That snap was faster than expected](http://9gag.com/gag/awyYexB)
- - 😝 [He is pissed](http://9gag.com/gag/awyY81W)
- - 👉 [Hope the selfie was worth it](http://9gag.com/gag/a9yOBW1)<!-- MEMES:END -->
+ - 😝 [When the comments section is funnier than the tattoo itself](http://9gag.com/gag/aD2OPRd)
+ - 😝 [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)
+ - 💣 [A Brazilian woman fell inside Mount Rinjani, an active volcano in Indonesia. She&#39;s been waiting for rescue for over 60 hours.](http://9gag.com/gag/avyd9Mq)
+ - 😝 [Beware of Tourist scam](http://9gag.com/gag/ayNYv3y)
+ - 👉 [Locksmith breaks into houses and breaks hearts](http://9gag.com/gag/a87Kn3d)<!-- MEMES:END -->
 
 ---
 

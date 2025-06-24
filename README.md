@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)
- - 😝 [Hope the selfie was worth it](http://9gag.com/gag/a9yOBW1)
- - 💣 [World record breaking longest commute time](http://9gag.com/gag/a1mEEqb)
- - 😝 [Just leaving this here](http://9gag.com/gag/aNDO304)
- - 👉 [9 times gravity](http://9gag.com/gag/a7oppyq)<!-- MEMES:END -->
+ - 😝 [Excellent job, 47](http://9gag.com/gag/aRBOOj2)
+ - 😝 [9 times gravity](http://9gag.com/gag/a7oppyq)
+ - 💣 [Rico como los tacos sudados](http://9gag.com/gag/amoppj4)
+ - 😝 [An interesting theory on generational wealth and physical traits.](http://9gag.com/gag/a87KVMe)
+ - 👉 [Talk about getting more than you bargained for at an auction.](http://9gag.com/gag/a4PWVVv)<!-- MEMES:END -->
 
 ---
 

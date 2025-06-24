@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google finally lets Android users put Chrome’s address bar on the bottom](https://www.theverge.com/news/691718/google-android-chrome-address-bar-bottom)
- - [Microsoft makes Windows 10 extended security updates free, but there’s a catch](https://www.theverge.com/news/691811/microsoft-windows-10-free-extended-security-updates)
- - [Philips Hue is raising prices in the US ‘as a direct result of tariffs’](https://www.theverge.com/news/692130/philips-hue-us-tariffs-smart-lighting-price-increase)
- - [Krysten Ritter Returns as Jessica Jones in &#39;Daredevil: Born Again&#39;: What We Know So Far](https://www.cnet.com/tech/services-and-software/krysten-ritter-returns-as-jessica-jones-in-daredevil-born-again-what-we-know-so-far/#ftag=CAD590a51e)
- - [The latest Fire TV Stick 4K is half off ahead of Prime Day](https://www.theverge.com/tech/691578/amazon-fire-tv-stick-4k-streaming-prime-day-2025-deal-sale)<!-- TECH:END -->
+ - [Hideo Kojima sees Death Stranding 2 as a cautionary tale](https://www.theverge.com/games/691570/hideo-kojima-death-stranding-2)
+ - [Samsung&amp;#8217;s offering a $50 credit if you commit to preordering its upcoming Galaxy foldable](https://www.theverge.com/tech/692011/samsung-unpacked-2025-galaxy-fold-ultra-pre-order-credit-deal)
+ - [Roblox says it is on track to pay out $1B to creators in 2025, as it revamps its rewards program to encourage creators to bring more players onto the platform &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250624/p24#a250624p24)
+ - [Tesla’s robotaxis are operating in a regulatory vacuum](https://www.theverge.com/tesla/691975/tesla-robotaxi-mistake-nhtsa-regulatory-weak)
+ - [Google finally lets Android users put Chrome’s address bar on the bottom](https://www.theverge.com/news/691718/google-android-chrome-address-bar-bottom)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

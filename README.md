@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Digital Asset, which builds Canton Network, an open-source public blockchain for regulated financial institutions, raised $135M co-led by DRW and Tradeweb &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250624/p7#a250624p7)
+ - [Amazon says it plans to invest £40B in the UK economy over the next three years, including opening four new warehouses; Amazon invested £12B+ in the UK in 2023 &lpar;Freya Jones/Bloomberg&rpar;](http://www.techmeme.com/250624/p6#a250624p6)
+ - [The Methaphone Is a Phone &lpar;That’s Not a Phone&rpar; to Help You Stop Using Your Phone](https://www.wired.com/story/methaphone-smartphone-addiction/)
  - [How Broadway is embracing large-scale, high-resolution videos and projectors as an integrated narrative tool aided by AI, as some creatives worry about overuse &lpar;Michael Paulson/New York Times&rpar;](http://www.techmeme.com/250624/p5#a250624p5)
- - [The Linux Foundation unveils the Agent2Agent project, with founding members including Google Cloud, AWS, and Microsoft; Google donated the protocol spec and SDK &lpar;Google Developers Blog&rpar;](http://www.techmeme.com/250624/p4#a250624p4)
- - [Verizon&#39;s Project 624 Is an AI-Powered Customer Service Initiative](https://www.cnet.com/tech/mobile/verizons-project-624-is-an-ai-powered-customer-service-initiative/#ftag=CAD590a51e)
- - [Google Wants to Get Better at Spotting Wildfires From Space](https://www.wired.com/story/google-earth-fire-alliance-spotting-wildfires-from-space/)
- - [Riot is shutting down studio behind its Minecraft-like game](https://www.theverge.com/news/691791/riot-games-hypixel-studios-hytale-closure)<!-- TECH:END -->
+ - [The Linux Foundation unveils the Agent2Agent Project, with founding members including Google Cloud, AWS, and Microsoft; Google donated the protocol spec and SDK &lpar;Google Developers Blog&rpar;](http://www.techmeme.com/250624/p4#a250624p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

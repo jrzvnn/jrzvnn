@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I took it as a joke, which it probably was. Otherwise I&#39;m f**ked](http://9gag.com/gag/aKGOODZ)
- - 😝 [World record breaking longest commute time](http://9gag.com/gag/a1mEEqb)
- - 💣 [He is pissed](http://9gag.com/gag/awyY81W)
- - 😝 [Beware of Tourist scam](http://9gag.com/gag/ayNYv3y)
- - 👉 [Nah.. Nope..](http://9gag.com/gag/aVvVBEy)<!-- MEMES:END -->
+ - 😝 [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)
+ - 😝 [And how was your summer vacation flight?](http://9gag.com/gag/aO8RR83)
+ - 💣 [Hope the selfie was worth it](http://9gag.com/gag/a9yOBW1)
+ - 😝 [A Brazilian woman fell inside Mount Rinjani, an active volcano in Indonesia. She&#39;s been waiting for rescue for over 60 hours.](http://9gag.com/gag/avyd9Mq)
+ - 👉 [Then let all of them work](http://9gag.com/gag/aD2OQMx)<!-- MEMES:END -->
 
 ---
 

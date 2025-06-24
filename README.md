@@ -157,8 +157,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Berlin-based Synthflow, a no-code service letting enterprises build and deploy customized voice AI customer service agents, raised a $20M Series A led by Accel &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250624/p39#a250624p39)
  - [DJI ‘remains committed to the US market’ as shelves go bare of drones](https://www.theverge.com/report/692398/dji-drones-out-of-stock-best-buy-amazon-deny-us-exit)
- - [Review: Misen Chef&#39;s Knife](https://www.wired.com/2016/10/review-misen-chefs-knife/)
  - [&#39;Fortnite&#39; antisteering mandate punishment &#39;fundamentally unfair&#39; says Apple](https://appleinsider.com/articles/25/06/24/apple-calls-punitive-judgement-over-injunction-violation-fundamentally-unfair?utm_medium=rss)
  - [New Zealand-based Xero, which offers accounting software for small businesses, agrees to acquire payments software company Melio in a $2.5B+ cash-and-stock deal &lpar;Rajasik Mukherjee/Reuters&rpar;](http://www.techmeme.com/250624/p38#a250624p38)
  - [Fortnite Meets Squid Game: Here&#39;s How to Get Free Twitch Drops, Plus New Skin Prices](https://www.cnet.com/tech/gaming/fortnite-squid-game-free-skins-twitch-drops-prices-release-date-time/#ftag=CAD590a51e)<!-- TECH:END -->

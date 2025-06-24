@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [More people should wish their friends a good night](http://9gag.com/gag/a7opnxA)
- - 😝 [Then let all of them work](http://9gag.com/gag/aD2OQMx)
- - 💣 [Helmet hair reveal gone wrong, or maybe right?](http://9gag.com/gag/a87KKZ6)
- - 😝 [Jimmy knows what&#39;s up](http://9gag.com/gag/aVvVVpv)
- - 👉 [Brock&#39;s eyes...](http://9gag.com/gag/agmEjYr)<!-- MEMES:END -->
+ - 😝 [Good friends will always play with you...](http://9gag.com/gag/aqyYYbZ)
+ - 😝 [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)
+ - 💣 [Excellent job, 47](http://9gag.com/gag/aRBOOj2)
+ - 😝 [Talk about getting more than you bargained for at an auction.](http://9gag.com/gag/a4PWVVv)
+ - 👉 [Beware of Tourist scam](http://9gag.com/gag/ayNYv3y)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jimmy knows what&#39;s up](http://9gag.com/gag/aVvVVpv)
- - 😝 [Living on the edge, one laundry load at a time.](http://9gag.com/gag/a2vLxrZ)
- - 💣 [Anti-Bezos protest in Venice for his wedding. Not even that subtle.](http://9gag.com/gag/azxYQgK)
- - 😝 [And I was thinking Old\u202fSpice has f**ked up ads](http://9gag.com/gag/agmEdvK)
- - 👉 [An oldie but a goodie](http://9gag.com/gag/a5Qq54V)<!-- MEMES:END -->
+ - 😝 [Hope the selfie was worth it](http://9gag.com/gag/a9yOBW1)
+ - 😝 [Lol](http://9gag.com/gag/aZZzvW9)
+ - 💣 [I took it as a joke, which it probably was. Otherwise I&#39;m f**ked](http://9gag.com/gag/aKGOODZ)
+ - 😝 [Beware of Tourist scam](http://9gag.com/gag/ayNYv3y)
+ - 👉 [Nah.. Nope..](http://9gag.com/gag/aVvVBEy)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TCL 60 XE Nxtpaper 5G Review: A Pleasing Matte Screen](https://www.wired.com/review/tcl-60-xe-nxtpaper-5g/)
  - [Interviews with 24+ Microsoft customers, salespeople, and others show that Microsoft is struggling to sell Copilot AI as enterprise customers opt for ChatGPT &lpar;Bloomberg&rpar;](http://www.techmeme.com/250624/p12#a250624p12)
  - [Waymo launches robotaxis in Atlanta via Uber&#39;s app, covering a 65-square-mile area, after launching in Austin on March 4; its vehicles don&#39;t drive on highways &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250624/p11#a250624p11)
  - [Abridge, which uses AI to automate doctors&#39; note-taking, raised $300M led by a16z at a $5.3B valuation, after raising $250M at a $2.75B valuation in February &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250624/p10#a250624p10)
- - [This Is Why High-End Electric Cars Are Failing](https://www.wired.com/story/this-is-why-high-end-electric-cars-are-failing/)
- - [How AI infiltrated perfume](https://www.theverge.com/ai-artificial-intelligence/691050/perfume-ai)<!-- TECH:END -->
+ - [This Is Why High-End Electric Cars Are Failing](https://www.wired.com/story/this-is-why-high-end-electric-cars-are-failing/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

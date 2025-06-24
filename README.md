@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [John Oliver&#39;s Last Week Tonight looks at AI slop, how it corrodes the concept of objective reality, the slop economy, tech leaders&#39; enthusiasm for gen AI, more &lpar;LastWeekTonight on YouTube&rpar;](http://www.techmeme.com/250624/p32#a250624p32)
+ - [Chainlink and Mastercard announce a partnership to enable card users to buy crypto &quot;directly onchain through a secure fiat-to-crypto conversion&quot; &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/250624/p31#a250624p31)
  - [At its Discover 2025 conference, HPE unveiled HPE CloudOps Software, GreenLake Intelligence, which can deploy AI agents across its hybrid cloud stack, and more &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/250624/p30#a250624p30)
  - [Apple Wallet notifications for an F1 movie promotion ticked off iPhone owners](https://www.theverge.com/news/692276/apple-wallet-notification-f1-movie-ad)
- - [WhatsApp has become a kind of AI marketplace where chatbots like ChatGPT, Meta AI, and Perplexity jockey for users&#39; attention &lpar;Pranav Dixit/Business Insider&rpar;](http://www.techmeme.com/250624/p29#a250624p29)
- - [Paramount Plus with Showtime is getting a rebrand](https://www.theverge.com/streaming-wars/692159/paramount-plus-premium-showtime)
- - [Apple sparks a backlash from iPhone owners after pushing a notification from the Apple Wallet app that promoted a Fandango deal for Apple&#39;s F1 movie &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250624/p28#a250624p28)<!-- TECH:END -->
+ - [WhatsApp has become a kind of AI marketplace where chatbots like ChatGPT, Meta AI, and Perplexity jockey for users&#39; attention &lpar;Pranav Dixit/Business Insider&rpar;](http://www.techmeme.com/250624/p29#a250624p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

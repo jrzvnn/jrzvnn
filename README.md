@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What a set of knockoff headphones taught me about headphones — and knockoffs](https://www.theverge.com/gadgets/691928/tiktok-shop-picun-f8-airpods-max-headphones)
+ - [Sources: Microsoft is planning a round of Xbox layoffs next week, with managers expecting substantial cuts, the fourth big layoff at Xbox in the past 18 months &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250624/p17#a250624p17)
+ - [Eventual, which develops Daft, a Python-native open-source data processing engine, raised a $7.5M seed led by CRV and a $20M Series A led by Felicis &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250624/p16#a250624p16)
  - [Amazon bringing same-day delivery to ‘millions’ of rural customers](https://www.theverge.com/news/691877/amazon-same-day-delivery-small-town-rural)
- - [Microsoft and Meta unveil the $399 Meta Quest 3S Xbox Edition, offering few updates to the $299 Meta Quest 3S, available in &quot;extremely limited&quot; quantities &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/250624/p15#a250624p15)
- - [These battery-powered 4K cameras record 24/7](https://www.theverge.com/news/691844/tapo-4k-magcam-security-cameras-homebase-h500-matter-compatible)
- - [Tesla&amp;#8217;s robotaxi reality check](https://www.theverge.com/the-vergecast/691888/tesla-robotaxi-mvno-mobile-vergecast)
- - [OWC Express 4M2 SSD enclosure delivers USB4 speeds &amp; smart cooling](https://appleinsider.com/articles/25/06/24/owc-express-4m2-ssd-enclosure-delivers-usb4-speeds-smart-cooling?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft and Meta unveil the $399 Meta Quest 3S Xbox Edition, offering few updates to the $299 Meta Quest 3S, available in &quot;extremely limited&quot; quantities &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/250624/p15#a250624p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

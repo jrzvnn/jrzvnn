@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NordVPN Coupon and Discount Codes: 76% Off](https://www.wired.com/story/nordvpn-coupon/)
  - [Q&amp;A with Meta&#39;s Andrew Bosworth on joining Detachment 201, the Army&#39;s tech challenges, the vibe shift in Silicon Valley&#39;s military relations, and more &lpar;Blake Dodge/Pirate Wires&rpar;](http://www.techmeme.com/250624/p1#a250624p1)
  - [10% Home Depot Promo Codes &amp; Coupons | June 2025](https://www.wired.com/story/home-depot-promo-code/)
  - [Tempur-Pedic Promo Codes: Up to $500 Off](https://www.wired.com/story/tempur-pedic-promo-code/)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, June 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-june-24/#ftag=CAD590a51e)
- - [Q&amp;A with Hinge CEO Justin McLeod on why AI companionship is like junk food, plans for a Hinge mobile payment system to avoid App Store fees, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250623/p42#a250623p42)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, June 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-june-24/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

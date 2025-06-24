@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What a set of knockoff headphones taught me about headphones — and knockoffs](https://www.theverge.com/gadgets/691928/tiktok-shop-picun-f8-airpods-max-headphones)
- - [Sources: Microsoft is planning a round of Xbox layoffs next week, with managers expecting substantial cuts, the fourth big layoff at Xbox in the past 18 months &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250624/p17#a250624p17)
- - [Eventual, which develops Daft, a Python-native open-source data processing engine, raised a $7.5M seed led by CRV and a $20M Series A led by Felicis &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250624/p16#a250624p16)
- - [Amazon bringing same-day delivery to ‘millions’ of rural customers](https://www.theverge.com/news/691877/amazon-same-day-delivery-small-town-rural)
- - [Microsoft and Meta unveil the $399 Meta Quest 3S Xbox Edition, offering few updates to the $299 Meta Quest 3S, available in &quot;extremely limited&quot; quantities &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/250624/p15#a250624p15)<!-- TECH:END -->
+ - [Nintendo’s wheelchair basketball game will be out in August](https://www.theverge.com/news/691907/drag-x-drive-release-date-nintendo-switch-2)
+ - [A US judge rules Anthropic use of copyrighted books to train AI was fair use, but its storage of pirated books in a &quot;central library&quot; used for training was not &lpar;Olivia Sophie Rafferty/ai fray&rpar;](http://www.techmeme.com/250624/p19#a250624p19)
+ - [Microsoft planning ‘major’ Xbox layoffs next week](https://www.theverge.com/microsoft-xbox/691967/microsoft-xbox-layoffs-job-cuts-rumor)
+ - [The 5 Best Essential Oil Diffusers &lpar;and One to Avoid&rpar;](https://www.wired.com/gallery/best-essential-oil-diffusers/)
+ - [Android&amp;#8217;s youthful new design will change the way you make and answer calls](https://www.theverge.com/news/691960/google-phone-app-material-3-expressive-redesign-android)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

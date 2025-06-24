@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)
+ - 😝 [Rico como los tacos sudados](http://9gag.com/gag/amoppj4)
+ - 😝 [Winning in life indeed](http://9gag.com/gag/aE0OXzx)
+ - 💣 [Beware of Tourist scam](http://9gag.com/gag/ayNYv3y)
  - 😝 [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)
- - 💣 [Rico como los tacos sudados](http://9gag.com/gag/amoppj4)
- - 😝 [Beware of Tourist scam](http://9gag.com/gag/ayNYv3y)
- - 👉 [9 times gravity](http://9gag.com/gag/a7oppyq)<!-- MEMES:END -->
+ - 👉 [Excellent job, 47](http://9gag.com/gag/aRBOOj2)<!-- MEMES:END -->
 
 ---
 

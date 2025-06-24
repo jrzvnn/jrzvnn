@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Review: Misen Chef&#39;s Knife](https://www.wired.com/2016/10/review-misen-chefs-knife/)
+ - [Review: Weber Genesis II LX Grill](https://www.wired.com/2017/04/review-weber-genesis-ii-lx/)
  - [&#39;Fortnite&#39; antisteering mandate punishment &#39;fundamentally unfair&#39; says Apple](https://appleinsider.com/articles/25/06/24/apple-calls-punitive-judgement-over-injunction-violation-fundamentally-unfair?utm_medium=rss)
- - [Scale AI used Google Docs to track work for customers like Google, Meta, and xAI, and left confidential AI training documents accessible to anyone with the link &lpar;Business Insider&rpar;](http://www.techmeme.com/250624/p37#a250624p37)
- - [A nasal spray company wants to make it harder for the FTC to police health claims](https://www.theverge.com/policy/692327/xlear-ftc-lawsuit-covid-health-claims-consumer-protection)
- - [Sources: 19-year-old Edward Coristine, who has gone by &quot;Big Balls&quot; online and was one of the first technologists hired as part of DOGE, has resigned &lpar;Wired&rpar;](http://www.techmeme.com/250624/p36#a250624p36)
- - [MindsEye developer undergoing layoffs less than a month after launch](https://www.theverge.com/news/692420/mindseye-build-a-rocket-boy-layoffs-leslie-benzies)<!-- TECH:END -->
+ - [New Zealand-based Xero, which offers accounting software for small businesses, agrees to acquire payments software company Melio in a $2.5B+ cash-and-stock deal &lpar;Rajasik Mukherjee/Reuters&rpar;](http://www.techmeme.com/250624/p38#a250624p38)
+ - [Scale AI used Google Docs to track work for customers like Google, Meta, and xAI, and left confidential AI training documents accessible to anyone with the link &lpar;Business Insider&rpar;](http://www.techmeme.com/250624/p37#a250624p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good friends will always play with you...](http://9gag.com/gag/aqyYYbZ)
  - 😝 [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)
- - 💣 [Excellent job, 47](http://9gag.com/gag/aRBOOj2)
- - 😝 [Talk about getting more than you bargained for at an auction.](http://9gag.com/gag/a4PWVVv)
- - 👉 [Beware of Tourist scam](http://9gag.com/gag/ayNYv3y)<!-- MEMES:END -->
+ - 😝 [Hope the selfie was worth it](http://9gag.com/gag/a9yOBW1)
+ - 💣 [World record breaking longest commute time](http://9gag.com/gag/a1mEEqb)
+ - 😝 [Just leaving this here](http://9gag.com/gag/aNDO304)
+ - 👉 [9 times gravity](http://9gag.com/gag/a7oppyq)<!-- MEMES:END -->
 
 ---
 

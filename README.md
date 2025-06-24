@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He is pissed](http://9gag.com/gag/awyY81W)
- - 😝 [9 times gravity](http://9gag.com/gag/a7oppyq)
- - 💣 [Then let all of them work](http://9gag.com/gag/aD2OQMx)
- - 😝 [Talk about getting more than you bargained for at an auction.](http://9gag.com/gag/a4PWVVv)
- - 👉 [Nah.. Nope..](http://9gag.com/gag/aVvVBEy)<!-- MEMES:END -->
+ - 😝 [Locksmith breaks into houses and breaks hearts](http://9gag.com/gag/a87Kn3d)
+ - 😝 [Then let all of them work](http://9gag.com/gag/aD2OQMx)
+ - 💣 [Beware of Tourist scam](http://9gag.com/gag/ayNYv3y)
+ - 😝 [World record breaking longest commute time](http://9gag.com/gag/a1mEEqb)
+ - 👉 [French woman is told her outfit is `haram,` which means `forbidden` in Islam. The girl responds: `It\u2019s a good thing I\u2019m a Christian.` That happened at Music Festival 2025 in Paris, nearly 150 women were jabbed with hypodermic needles with unknown substance during the festival.](http://9gag.com/gag/a6Zjx58)<!-- MEMES:END -->
 
 ---
 

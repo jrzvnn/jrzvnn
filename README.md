@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Walmart has opened a &quot;dark store&quot; warehouse in Dallas and plans to add another in Bentonville, Arkansas, as it tests ways to speed up online deliveries &lpar;Jaewon Kang/Bloomberg&rpar;](http://www.techmeme.com/250624/p33#a250624p33)
- - [Find My, Mail, Photos and iWork hit by iCloud outage](https://appleinsider.com/articles/25/06/24/find-my-mail-photos-and-iwork-hit-by-icloud-outage?utm_medium=rss)
- - [The Titan 2 is a modernized BlackBerry with 5G, Android, and a second screen](https://www.theverge.com/news/691938/titan-2-smartphone-keyboard-blackberry-5g-android-15)
- - [This 55-inch QLED TV is on sale for $565 and looks like a picture frame when it isn’t being used](https://www.theverge.com/tech/692220/iffalcon-qled-mural-tv-gamesir-g8-galileo-controller-deal-sale)
- - [John Oliver&#39;s Last Week Tonight looks at AI slop, how it corrodes the concept of objective reality, the slop economy, tech leaders&#39; enthusiasm for gen AI, more &lpar;LastWeekTonight on YouTube&rpar;](http://www.techmeme.com/250624/p32#a250624p32)<!-- TECH:END -->
+ - [Xbow, whose AI tool automates penetration testing and topped HackerOne&#39;s US leaderboard for finding and reporting software bugs, raised a $75M Series B &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250624/p35#a250624p35)
+ - [‘Big Balls’ No Longer Works for the US Government](https://www.wired.com/story/big-balls-coristine-doge-resigned-us-government/)
+ - [The US is stripping its forests of decades-old protections](https://www.theverge.com/news/692299/national-forest-fire-trump-rescind-roadless-rule-usda)
+ - [Apple&#39;s &#39;F1&#39; ad in Wallet won&#39;t hurt you, but it might save you $10](https://appleinsider.com/articles/25/06/24/apples-f1-ad-in-wallet-wont-hurt-you-but-it-might-save-you-10?utm_medium=rss)
+ - [CareerBuilder + Monster, which once dominated the online recruitment industry, files for Chapter 11 and agrees to sell its job board operations to JobGet &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250624/p34#a250624p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

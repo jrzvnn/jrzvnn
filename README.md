@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Excellent job, 47](http://9gag.com/gag/aRBOOj2)
- - 😝 [9 times gravity](http://9gag.com/gag/a7oppyq)
- - 💣 [Rico como los tacos sudados](http://9gag.com/gag/amoppj4)
- - 😝 [An interesting theory on generational wealth and physical traits.](http://9gag.com/gag/a87KVMe)
- - 👉 [Talk about getting more than you bargained for at an auction.](http://9gag.com/gag/a4PWVVv)<!-- MEMES:END -->
+ - 😝 [Rico como los tacos sudados](http://9gag.com/gag/amoppj4)
+ - 💣 [Surprise inside the wall](http://9gag.com/gag/a5Qqqqq)
+ - 😝 [Horror](http://9gag.com/gag/aRBODXG)
+ - 👉 [I took it as a joke, which it probably was. Otherwise I&#39;m f**ked](http://9gag.com/gag/aKGOODZ)<!-- MEMES:END -->
 
 ---
 

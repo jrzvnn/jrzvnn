@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Broadway is embracing large-scale, high-resolution videos and projectors as an integrated narrative tool aided by AI, as some creatives worry about overuse &lpar;Michael Paulson/New York Times&rpar;](http://www.techmeme.com/250624/p5#a250624p5)
  - [The Linux Foundation unveils the Agent2Agent project, with founding members including Google Cloud, AWS, and Microsoft; Google donated the protocol spec and SDK &lpar;Google Developers Blog&rpar;](http://www.techmeme.com/250624/p4#a250624p4)
  - [Verizon&#39;s Project 624 Is an AI-Powered Customer Service Initiative](https://www.cnet.com/tech/mobile/verizons-project-624-is-an-ai-powered-customer-service-initiative/#ftag=CAD590a51e)
  - [Google Wants to Get Better at Spotting Wildfires From Space](https://www.wired.com/story/google-earth-fire-alliance-spotting-wildfires-from-space/)
- - [Riot is shutting down studio behind its Minecraft-like game](https://www.theverge.com/news/691791/riot-games-hypixel-studios-hytale-closure)
- - [Windows 11’s indicators for volume and brightness can soon be moved out of the way](https://www.theverge.com/news/691779/microsoft-windows-11-hardware-indicators-customization)<!-- TECH:END -->
+ - [Riot is shutting down studio behind its Minecraft-like game](https://www.theverge.com/news/691791/riot-games-hypixel-studios-hytale-closure)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

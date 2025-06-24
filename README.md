@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He thought its bait and was prolly right](http://9gag.com/gag/avyd9vn)
- - 😝 [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)
- - 💣 [Then let all of them work](http://9gag.com/gag/aD2OQMx)
- - 😝 [A Brazilian woman fell inside Mount Rinjani, an active volcano in Indonesia. She&#39;s been waiting for rescue for over 60 hours.](http://9gag.com/gag/avyd9Mq)
- - 👉 [The ultimate in minimalist shopping.](http://9gag.com/gag/ae972Y5)<!-- MEMES:END -->
+ - 😝 [Then let all of them work](http://9gag.com/gag/aD2OQMx)
+ - 😝 [Sigh probably will never happen to me](http://9gag.com/gag/a7opNVq)
+ - 💣 [Winning in life indeed](http://9gag.com/gag/aE0OXzx)
+ - 😝 [Hope the selfie was worth it](http://9gag.com/gag/a9yOBW1)
+ - 👉 [Rico como los tacos sudados](http://9gag.com/gag/amoppj4)<!-- MEMES:END -->
 
 ---
 

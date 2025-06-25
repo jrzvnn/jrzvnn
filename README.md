@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What sorcery is this bug human?!](http://9gag.com/gag/a5Qqx7L)
+ - 😝 [Glizzy factory](http://9gag.com/gag/aD2OMzZ)
+ - 💣 [Hope the selfie was worth it](http://9gag.com/gag/a9yOBW1)
  - 😝 [French woman is told her outfit is `haram,` which means `forbidden` in Islam. The girl responds: `It\u2019s a good thing I\u2019m a Christian.` That happened at Music Festival 2025 in Paris, nearly 150 women were jabbed with hypodermic needles with unknown substance during the festival.](http://9gag.com/gag/a6Zjx58)
- - 😝 [Hope the selfie was worth it](http://9gag.com/gag/a9yOBW1)
- - 💣 [You&#39;re mine now](http://9gag.com/gag/aD2OMGB)
- - 😝 [Watch the sauce swirl into a perfect pattern](http://9gag.com/gag/a6Zj8Gm)
- - 👉 [The comment section delivers again.](http://9gag.com/gag/aqyYpOj)<!-- MEMES:END -->
+ - 👉 [A MTV video from the 90&#39;s](http://9gag.com/gag/aKGONDZ)<!-- MEMES:END -->
 
 ---
 

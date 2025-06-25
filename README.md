@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Coinbase says it played a &quot;key role&quot; in the US Secret Service&#39;s seizure of $225M linked to crypto investment scams, and Tether burned the $225M in frozen USDT &lpar;Stephen Katte/Cointelegraph&rpar;](http://www.techmeme.com/250625/p21#a250625p21)
  - [Google DeepMind unveils AlphaGenome, an AI tool to predict the effects of DNA changes on molecular processes, available via an API for non-commercial research &lpar;Antonio Regalado/MIT Technology Review&rpar;](http://www.techmeme.com/250625/p20#a250625p20)
  - [How to Clean a Beer Glass for Perfect Pours](https://www.wired.com/story/how-to-clean-a-beer-glass/)
  - [Here’s a running list of all of Tesla’s robotaxi mishaps so far](https://www.theverge.com/news/692639/tesla-robotaxi-mistake-wrong-lane-phantom-braking)
- - [Centific, an AI &quot;data foundry&quot; that works with businesses to develop, train, and deploy their AI models, raised a $60M Series A led by Granite Asia &lpar;Nicholas Gordon/Fortune&rpar;](http://www.techmeme.com/250625/p19#a250625p19)
- - [Before Wimbledon, Tennis finally gets some love in Apple Sports](https://appleinsider.com/articles/25/06/25/before-wimbledon-tennis-finally-gets-some-love-in-apple-sports?utm_medium=rss)<!-- TECH:END -->
+ - [Centific, an AI &quot;data foundry&quot; that works with businesses to develop, train, and deploy their AI models, raised a $60M Series A led by Granite Asia &lpar;Nicholas Gordon/Fortune&rpar;](http://www.techmeme.com/250625/p19#a250625p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

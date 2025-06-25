@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kids will always keep you on your toes with the things they say.](http://9gag.com/gag/abAQEBB)
- - 😝 [Weird ornament](http://9gag.com/gag/aXPKR4g)
- - 💣 [A MTV video from the 90&#39;s](http://9gag.com/gag/aKGONDZ)
- - 😝 [That day he was a marine biologist-dentist](http://9gag.com/gag/azxYDVx)
- - 👉 [Road rage incident quickly resolved by the sheriff.](http://9gag.com/gag/aAyONN0)<!-- MEMES:END -->
+ - 😝 [Butt!](http://9gag.com/gag/a87KXbY)
+ - 😝 [When the comments section is funnier than the tattoo itself](http://9gag.com/gag/aD2OPRd)
+ - 💣 [The strange historical case of Bobby Dunbar and the identity revealed by DNA.](http://9gag.com/gag/aO8RGOM)
+ - 😝 [Mini Heart Attack](http://9gag.com/gag/a87KVKd)
+ - 👉 [You&#39;re mine now](http://9gag.com/gag/aD2OMGB)<!-- MEMES:END -->
 
 ---
 

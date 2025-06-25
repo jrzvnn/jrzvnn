@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never ever mess with a white one, unless you are certain you can take it down.](http://9gag.com/gag/ary2d7X)
- - 😝 [Just aim properly](http://9gag.com/gag/ary2dBK)
- - 💣 [Butt!](http://9gag.com/gag/a87KXbY)
- - 😝 [Poor guy didn&#39;t even cheated a day in his life](http://9gag.com/gag/aE0OO5x)
- - 👉 [You&#39;re mine now](http://9gag.com/gag/aD2OMGB)<!-- MEMES:END -->
+ - 😝 [Never tell a chef his dish is like something else.](http://9gag.com/gag/a7oppjL)
+ - 😝 [French woman is told her outfit is `haram,` which means `forbidden` in Islam. The girl responds: `It\u2019s a good thing I\u2019m a Christian.` That happened at Music Festival 2025 in Paris, nearly 150 women were jabbed with hypodermic needles with unknown substance during the festival.](http://9gag.com/gag/a6Zjx58)
+ - 💣 [Just aim properly](http://9gag.com/gag/ary2dBK)
+ - 😝 [Nah.. Nope..](http://9gag.com/gag/aVvVBEy)
+ - 👉 [Hope the selfie was worth it](http://9gag.com/gag/a9yOBW1)<!-- MEMES:END -->
 
 ---
 

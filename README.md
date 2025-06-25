@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro will help get to the bottom of colonoscopy cancer detection](https://appleinsider.com/articles/25/06/25/apple-vision-pro-will-help-get-to-the-bottom-of-colonoscopy-cancer-detection?utm_medium=rss)
- - [License plate reader company Flock has stopped US agencies from accessing cameras in CA, IL, and VA after reports of lookups related to ICE and an abortion case &lpar;404 Media&rpar;](http://www.techmeme.com/250625/p27#a250625p27)
- - [Venice Braces for Jeff Bezos and Lauren Sanchez&#39;s Wedding](https://www.wired.com/story/how-will-jeff-bezos-wedding-impact-venice/)
- - [Dbrand admits it had a ‘spectacularly terrible response’ to Killswitch Joy-Con grip detachment complaints](https://www.theverge.com/news/693121/dbrand-switch-2-killswitch-joy-con-case-replacement-detachment)
- - [Best Fourth of July Mattress Deals From Helix, Birch, and More &lpar;2025&rpar;](https://www.wired.com/story/best-july-fourth-mattress-deals-2025/)<!-- TECH:END -->
+ - [Apple buys out another Cupertino office complex worth $160 million](https://appleinsider.com/articles/25/06/25/apple-buys-out-another-cupertino-office-complex-worth-160-million?utm_medium=rss)
+ - [Apple’s more immersive CarPlay is dividing the auto industry](https://www.theverge.com/news/693139/apple-carplay-ultra-car-pushback-adoption)
+ - [watchOS 26 beta crashes Hermes Apple Watches, Apple urges users to hold off](https://appleinsider.com/articles/25/06/25/watchos-26-beta-crashes-hermes-apple-watches-apple-urges-users-to-hold-off?utm_medium=rss)
+ - [Retired Apple employee among victims of Lake Tahoe boat tragedy](https://appleinsider.com/articles/25/06/25/retired-apple-employee-among-victims-of-lake-tahoe-boat-tragedy?utm_medium=rss)
+ - [Apple Vision Pro will help get to the bottom of colonoscopy cancer detection](https://appleinsider.com/articles/25/06/25/apple-vision-pro-will-help-get-to-the-bottom-of-colonoscopy-cancer-detection?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

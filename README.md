@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The smaller Fairphone 6 introduces swappable accessories](https://www.theverge.com/news/692248/fairphone-6-smartphone-repairable-modular-accessories-murena)
+ - [When more iOS 26 developer beta updates and public betas will release](https://appleinsider.com/articles/25/06/25/when-more-ios-26-developer-beta-updates-and-public-betas-will-release?utm_medium=rss)
+ - [Satellite company Maxar launches Sentry, an AI service that autonomously guides satellites to monitor cities, ports, and other sites for unusual activity &lpar;Sana Pashankar/Bloomberg&rpar;](http://www.techmeme.com/250625/p12#a250625p12)
  - [8 Best Water Leak Detectors &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-water-leak-detectors/)
- - [OpenRouter, which directs AI prompts to various LLMs based on cost, speed, and other factors, raised $40M at a valuation of about $500M &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/250625/p11#a250625p11)
- - [This New Watch Is Being Purpose-Built for Space Exploration—and It&#39;s Not an Omega](https://www.wired.com/story/monolith-watch-is-being-purpose-built-for-space-exploration/)
- - [Veloretti just made one of the best e-bikes lighter and cheaper](https://www.theverge.com/news/692505/veloretti-two-lite-ivy-ace-belt-price-specs)
- - [9 Best Natural Deodorants, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-natural-deodorants/)<!-- TECH:END -->
+ - [OpenRouter, which directs AI prompts to various LLMs based on cost, speed, and other factors, raised $40M at a valuation of about $500M &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/250625/p11#a250625p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

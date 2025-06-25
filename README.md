@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just aim properly](http://9gag.com/gag/ary2dBK)
+ - 😝 [Locksmith breaks into houses and breaks hearts](http://9gag.com/gag/a87Kn3d)
+ - 😝 [That day he was a marine biologist-dentist](http://9gag.com/gag/azxYDVx)
+ - 💣 [You&#39;re mine now](http://9gag.com/gag/aD2OMGB)
  - 😝 [Watch the sauce swirl into a perfect pattern](http://9gag.com/gag/a6Zj8Gm)
- - 💣 [Hope the selfie was worth it](http://9gag.com/gag/a9yOBW1)
- - 😝 [The comment section delivers again.](http://9gag.com/gag/aqyYpOj)
- - 👉 [That day he was a marine biologist-dentist](http://9gag.com/gag/azxYDVx)<!-- MEMES:END -->
+ - 👉 [Just aim properly](http://9gag.com/gag/ary2dBK)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How innovations in garden technology, including AI-driven watering systems and robotic mowers, originally built for agriculture, are now reaching home growers &lpar;Mark Lane/Financial Times&rpar;](http://www.techmeme.com/250625/p4#a250625p4)
  - [Imagen 4 is now available in the Gemini API and Google AI Studio, priced at $0.04 per image or $0.06 for &quot;Ultra&quot; mode that &quot;precisely&quot; follows user instructions &lpar;Google Developers Blog&rpar;](http://www.techmeme.com/250625/p3#a250625p3)
  - [As Apple rolls out CarPlay Ultra, many carmakers are developing their own infotainment systems in hopes of generating more revenue from in-car services and data &lpar;Financial Times&rpar;](http://www.techmeme.com/250625/p2#a250625p2)
  - [In a letter to staff, CEO Eddie Wu says Alibaba is merging its food delivery platform Ele.me and online travel agency Fliggy into its core e-commerce business &lpar;Wency Chen/South China Morning Post&rpar;](http://www.techmeme.com/250625/p1#a250625p1)
- - [Andy Konwinski, co-founder of Databricks and Perplexity, launches the nonprofit Laude Institute, self-funded with $100M for grants to AI projects and labs &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250624/p42#a250624p42)
- - [Analysis: of 750 data brokers registered in at least one US state, many failed to register in other states with transparency laws, undermining consumer privacy &lpar;Electronic Frontier Foundation&rpar;](http://www.techmeme.com/250624/p41#a250624p41)<!-- TECH:END -->
+ - [Andy Konwinski, co-founder of Databricks and Perplexity, launches the nonprofit Laude Institute, self-funded with $100M for grants to AI projects and labs &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250624/p42#a250624p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

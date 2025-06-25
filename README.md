@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As Apple rolls out CarPlay Ultra, many carmakers are developing their own infotainment systems in hopes of generating more revenue from in-car services and data &lpar;Financial Times&rpar;](http://www.techmeme.com/250625/p2#a250625p2)
  - [In a letter to staff, CEO Eddie Wu says Alibaba is merging its food delivery platform Ele.me and online travel agency Fliggy into its core e-commerce business &lpar;Wency Chen/South China Morning Post&rpar;](http://www.techmeme.com/250625/p1#a250625p1)
  - [Andy Konwinski, co-founder of Databricks and Perplexity, launches the nonprofit Laude Institute, self-funded with $100M for grants to AI projects and labs &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250624/p42#a250624p42)
  - [Analysis: of 750 data brokers registered in at least one US state, many failed to register in other states with transparency laws, undermining consumer privacy &lpar;Electronic Frontier Foundation&rpar;](http://www.techmeme.com/250624/p41#a250624p41)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, June 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-june-25/#ftag=CAD590a51e)
- - [A surge in AI-generated résumés is overwhelming employers, who are turning to AI screening and interviewing tools to assess responses and rank candidates &lpar;Sarah Kessler/New York Times&rpar;](http://www.techmeme.com/250624/p40#a250624p40)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, June 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-june-25/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

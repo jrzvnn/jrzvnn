@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Find My, Mail, Photos and iWork hit by iCloud outage Tuesday](https://appleinsider.com/articles/25/06/24/find-my-mail-photos-and-iwork-hit-by-icloud-outage?utm_medium=rss)
- - [Berlin-based Synthflow, a no-code service letting enterprises build and deploy customized voice AI customer service agents, raised a $20M Series A led by Accel &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250624/p39#a250624p39)
- - [DJI ‘remains committed to the US market’ as shelves go bare of drones](https://www.theverge.com/report/692398/dji-drones-out-of-stock-best-buy-amazon-deny-us-exit)
- - [&#39;Fortnite&#39; antisteering mandate punishment &#39;fundamentally unfair&#39; says Apple](https://appleinsider.com/articles/25/06/24/apple-calls-punitive-judgement-over-injunction-violation-fundamentally-unfair?utm_medium=rss)
- - [New Zealand-based Xero, which offers accounting software for small businesses, agrees to acquire payments software company Melio in a $2.5B+ cash-and-stock deal &lpar;Rajasik Mukherjee/Reuters&rpar;](http://www.techmeme.com/250624/p38#a250624p38)<!-- TECH:END -->
+ - [Ironheart believes the children are the future](https://www.theverge.com/marvel/691168/ironheart-believes-children-are-the-future)
+ - [How to Watch ES Tunis vs. Chelsea From Anywhere for Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-es-tunis-vs-chelsea-from-anywhere-for-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)
+ - [Anker Recalls 1.1 Million Power Banks for Fires and Explosions: How to Get a Free Replacement](https://www.cnet.com/tech/mobile/anker-recalls-1-1-million-power-banks-for-fires-and-explosions-what-to-do-if-youre-affected/#ftag=CAD590a51e)
+ - [Syntech Chronos 68 magnetic keyboard review: Gamer made, almost Mac appropriate](https://appleinsider.com/articles/25/06/25/syntech-chronos-68-magnetic-keyboard-review-gamer-made-almost-mac-appropriate?utm_medium=rss)
+ - [Some Tesla Robotaxis Are Reportedly Behaving Badly, and Safety Officials Want to Know What&#39;s Up](https://www.cnet.com/roadshow/news/some-tesla-robotaxis-are-reportedly-behaving-badly-and-safety-officials-want-to-know-whats-up/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This MacBook upgrade program starts at just $33.28/month](https://appleinsider.com/articles/25/06/25/this-macbook-upgrade-program-starts-at-just-3328month?utm_medium=rss)
+ - [Report: French authorities arrested four individuals allegedly involved in operating the BreachForums cybercrime forum on Monday and one in February &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250625/p31#a250625p31)
  - [&#39;They&#39;re Not Breathing&#39;: Inside the Chaos of ICE Detention Center 911 Calls](https://www.wired.com/story/ice-detention-center-911-emergencies/)
  - [A US judge rules that Meta&#39;s use of books to train AI is protected by fair use but says his opinion is more a reflection of the plaintiffs&#39; poor arguments &lpar;Isaiah Poritz/Bloomberg Law&rpar;](http://www.techmeme.com/250625/p30#a250625p30)
- - [Trump Mobile drops false &#39;made in America&#39; promise](https://appleinsider.com/articles/25/06/25/trump-mobile-drops-false-made-in-america-promise?utm_medium=rss)
- - [Philips Hue lighting will be more expensive starting July 1st, but you can save on them now](https://www.theverge.com/tech/692821/philips-hue-light-bulbs-price-increase-deal-sale)
- - [Aaron Sorkin is making a sequel to The Social Network](https://www.theverge.com/news/693198/the-social-network-part-ii-aaron-sorkin-sony-facebook)<!-- TECH:END -->
+ - [Trump Mobile drops false &#39;made in America&#39; promise](https://appleinsider.com/articles/25/06/25/trump-mobile-drops-false-made-in-america-promise?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

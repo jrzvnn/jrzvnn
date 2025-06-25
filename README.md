@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;They&#39;re Not Breathing&#39;: Inside the Chaos of ICE Detention Center 911 Calls](https://www.wired.com/story/ice-detention-center-911-emergencies/)
+ - [A US judge rules that Meta&#39;s use of books to train AI is protected by fair use but says his opinion is more a reflection of the plaintiffs&#39; poor arguments &lpar;Isaiah Poritz/Bloomberg Law&rpar;](http://www.techmeme.com/250625/p30#a250625p30)
+ - [Trump Mobile drops false &#39;made in America&#39; promise](https://appleinsider.com/articles/25/06/25/trump-mobile-drops-false-made-in-america-promise?utm_medium=rss)
  - [Philips Hue lighting will be more expensive starting July 1st, but you can save on them now](https://www.theverge.com/tech/692821/philips-hue-light-bulbs-price-increase-deal-sale)
- - [Aaron Sorkin is making a sequel to The Social Network](https://www.theverge.com/news/693198/the-social-network-part-ii-aaron-sorkin-sony-facebook)
- - [Micron reports Q3 revenue up 37% YoY to $9.3B, vs. $8.85B est., forecasts Q4 revenue above estimates, and says it&#39;s on track for record revenue this fiscal year &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250625/p29#a250625p29)
- - [The 31 Best Early Amazon Prime Day Deals &lpar;2025&rpar;](https://www.wired.com/story/best-early-amazon-prime-day-deals-2025/)
- - [A European Startup’s Spacecraft Made It to Orbit. Now It’s Lost at Sea](https://www.wired.com/story/exploration-company-mission-possible-spacecraft-orbit-lost/)<!-- TECH:END -->
+ - [Aaron Sorkin is making a sequel to The Social Network](https://www.theverge.com/news/693198/the-social-network-part-ii-aaron-sorkin-sony-facebook)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

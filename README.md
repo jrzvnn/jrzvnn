@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The strange historical case of Bobby Dunbar and the identity revealed by DNA.](http://9gag.com/gag/aO8RGOM)
- - 😝 [That day he was a marine biologist-dentist](http://9gag.com/gag/azxYDVx)
- - 💣 [A Brazilian woman fell inside Mount Rinjani, an active volcano in Indonesia. She&#39;s been waiting for rescue for over 60 hours.](http://9gag.com/gag/avyd9Mq)
- - 😝 [Nah.. Nope..](http://9gag.com/gag/aVvVBEy)
- - 👉 [French woman is told her outfit is `haram,` which means `forbidden` in Islam. The girl responds: `It\u2019s a good thing I\u2019m a Christian.` That happened at Music Festival 2025 in Paris, nearly 150 women were jabbed with hypodermic needles with unknown substance during the festival.](http://9gag.com/gag/a6Zjx58)<!-- MEMES:END -->
+ - 😝 [Beware of Tourist scam](http://9gag.com/gag/ayNYv3y)
+ - 😝 [You&#39;re mine now](http://9gag.com/gag/aD2OMGB)
+ - 💣 [Just aim properly](http://9gag.com/gag/ary2dBK)
+ - 😝 [Locksmith breaks into houses and breaks hearts](http://9gag.com/gag/a87Kn3d)
+ - 👉 [Nah.. Nope..](http://9gag.com/gag/aVvVBEy)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why the F is thisna movie???](http://9gag.com/gag/aVvV1yP)
- - 😝 [A Gift from Terry](http://9gag.com/gag/a5QqymG)
- - 💣 [Currently at 1.5* Temu IronMan](http://9gag.com/gag/a9yOZvm)
- - 😝 [Grandma&#39;s a killer](http://9gag.com/gag/aGyOoX0)
- - 👉 [Brock&#39;s eyes...](http://9gag.com/gag/apRYj5W)<!-- MEMES:END -->
+ - 😝 [French woman is told her outfit is `haram,` which means `forbidden` in Islam. The girl responds: `It\u2019s a good thing I\u2019m a Christian.` That happened at Music Festival 2025 in Paris, nearly 150 women were jabbed with hypodermic needles with unknown substance during the festival.](http://9gag.com/gag/a6Zjx58)
+ - 😝 [I think his reaction is totally legit](http://9gag.com/gag/a7opPgA)
+ - 💣 [Locksmith breaks into houses and breaks hearts](http://9gag.com/gag/a87Kn3d)
+ - 😝 [A MTV video from the 90&#39;s](http://9gag.com/gag/aKGONDZ)
+ - 👉 [The comment section delivers again.](http://9gag.com/gag/aqyYpOj)<!-- MEMES:END -->
 
 ---
 

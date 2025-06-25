@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Watch the sauce swirl into a perfect pattern](http://9gag.com/gag/a6Zj8Gm)
- - 😝 [You&#39;re mine now](http://9gag.com/gag/aD2OMGB)
- - 💣 [Nah.. Nope..](http://9gag.com/gag/aVvVBEy)
  - 😝 [Just aim properly](http://9gag.com/gag/ary2dBK)
+ - 😝 [Watch the sauce swirl into a perfect pattern](http://9gag.com/gag/a6Zj8Gm)
+ - 💣 [Hope the selfie was worth it](http://9gag.com/gag/a9yOBW1)
+ - 😝 [The comment section delivers again.](http://9gag.com/gag/aqyYpOj)
  - 👉 [That day he was a marine biologist-dentist](http://9gag.com/gag/azxYDVx)<!-- MEMES:END -->
 
 ---

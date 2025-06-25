@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dbrand admits it had a ‘spectacularly terrible response’ to Killswitch Joy-Con grip detachment complaints](https://www.theverge.com/news/693121/dbrand-switch-2-killswitch-joy-con-case-replacement-detachment)
  - [Hundreds of data brokers might be breaking state laws, say privacy advocates](https://www.theverge.com/news/693109/eff-privacy-advocates-state-investigate-data-brokers)
  - [The Trump Phone no longer promises it’s made in America](https://www.theverge.com/gadgets/693080/trump-mobile-t1-phone-made-usa)
  - [I tested 12 Switch 2 cases and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases)
- - [WhatsApp launches optional Meta AI-generated summaries of unread messages in the US; Meta can&#39;t read the messages and summaries are hidden from other chat users &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250625/p26#a250625p26)
- - [Countdown to Prime Day: Best deals on Apple deliver up to $400 off](https://appleinsider.com/articles/25/06/24/countdown-to-prime-day-best-deals-on-apple-deliver-up-to-400-off?utm_medium=rss)<!-- TECH:END -->
+ - [WhatsApp launches optional Meta AI-generated summaries of unread messages in the US; Meta can&#39;t read the messages and summaries are hidden from other chat users &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250625/p26#a250625p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

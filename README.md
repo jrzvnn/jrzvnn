@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple buys out another Cupertino office complex worth $160 million](https://appleinsider.com/articles/25/06/25/apple-buys-out-another-cupertino-office-complex-worth-160-million?utm_medium=rss)
- - [Apple’s more immersive CarPlay is dividing the auto industry](https://www.theverge.com/news/693139/apple-carplay-ultra-car-pushback-adoption)
- - [watchOS 26 beta crashes Hermes Apple Watches, Apple urges users to hold off](https://appleinsider.com/articles/25/06/25/watchos-26-beta-crashes-hermes-apple-watches-apple-urges-users-to-hold-off?utm_medium=rss)
- - [Retired Apple employee among victims of Lake Tahoe boat tragedy](https://appleinsider.com/articles/25/06/25/retired-apple-employee-among-victims-of-lake-tahoe-boat-tragedy?utm_medium=rss)
- - [Apple Vision Pro will help get to the bottom of colonoscopy cancer detection](https://appleinsider.com/articles/25/06/25/apple-vision-pro-will-help-get-to-the-bottom-of-colonoscopy-cancer-detection?utm_medium=rss)<!-- TECH:END -->
+ - [Micron reports Q3 revenue up 37% YoY to $9.3B, vs. $8.85B est., forecasts Q4 revenue above estimates, and says it&#39;s on track for record revenue this fiscal year &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250625/p29#a250625p29)
+ - [The 31 Best Early Amazon Prime Day Deals &lpar;2025&rpar;](https://www.wired.com/story/best-early-amazon-prime-day-deals-2025/)
+ - [A European Startup&#39;s Spacecraft Made It to Orbit. Now It&#39;s Lost at Sea](https://www.wired.com/story/exploration-company-mission-possible-spacecraft-orbit-lost/)
+ - [Getty Images drops its primary claims of copyright infringement against Stability AI in UK court but continues to pursue other claims and a separate US lawsuit &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250625/p28#a250625p28)
+ - [Apple buys out another Cupertino office complex worth $160 million](https://appleinsider.com/articles/25/06/25/apple-buys-out-another-cupertino-office-complex-worth-160-million?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

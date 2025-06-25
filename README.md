@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [I tested 12 Switch 2 cases and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases)
  - [WhatsApp launches optional Meta AI-generated summaries of unread messages in the US; Meta can&#39;t read the messages and summaries are hidden from other chat users &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250625/p26#a250625p26)
  - [Countdown to Prime Day: Best deals on Apple deliver up to $400 off](https://appleinsider.com/articles/25/06/24/countdown-to-prime-day-best-deals-on-apple-deliver-up-to-400-off?utm_medium=rss)
- - [Bipartisan &#39;Open App Markets Act&#39; resurrected to challenge Apple&#39;s App Store control](https://appleinsider.com/articles/25/06/25/bipartisan-open-app-markets-act-resurrected-to-challenge-apples-app-store-control?utm_medium=rss)
- - [Anker’s versatile travel charger is on sale just in time for summer](https://www.theverge.com/tech/692680/anker-nano-travel-adapter-charger-fitbit-ace-lte-deal-sale)<!-- TECH:END -->
+ - [Best Desks of 2025: I&#39;ve Spent Nearly 4,000 Hours Testing Desks. These Are the Ones You Want](https://www.cnet.com/news/best-desks/#ftag=CAD590a51e)
+ - [Bipartisan &#39;Open App Markets Act&#39; resurrected to challenge Apple&#39;s App Store control](https://appleinsider.com/articles/25/06/25/bipartisan-open-app-markets-act-resurrected-to-challenge-apples-app-store-control?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

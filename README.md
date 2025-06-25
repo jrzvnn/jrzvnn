@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic now lets you make apps right from its Claude AI chatbot](https://www.theverge.com/news/693342/anthropic-claude-ai-apps-artifact)
  - [Barclays will block crypto purchases made with credit cards starting June 27, citing volatility and lack of consumer protections, following other UK lenders &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/250625/p32#a250625p32)
  - [Meta Wins Blockbuster AI Copyright Case—but There’s a Catch](https://www.wired.com/story/meta-scores-victory-ai-copyright-case/)
  - [The Nintendo Switch 2 webcam compatibility mystery is solved and updates are on the way](https://www.theverge.com/report/693182/nintendo-switch-2-webcam-mystery-1080p-480p-uvc-iso-bulk-ugreen-elgato)
- - [WhatsApp rolls out AI-generated summaries for private messages](https://www.theverge.com/news/693310/whatsapp-ai-message-summaries-meta)
- - [This MacBook upgrade program starts at just $33.28/month](https://appleinsider.com/articles/25/06/25/this-macbook-upgrade-program-starts-at-just-3328month?utm_medium=rss)<!-- TECH:END -->
+ - [WhatsApp rolls out AI-generated summaries for private messages](https://www.theverge.com/news/693310/whatsapp-ai-message-summaries-meta)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

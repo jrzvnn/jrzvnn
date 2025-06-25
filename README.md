@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Before Wimbledon, Tennis finally gets some love in Apple Sports](https://appleinsider.com/articles/25/06/25/before-wimbledon-tennis-finally-gets-some-love-in-apple-sports?utm_medium=rss)
- - [Before iOS 26, Apple Could Bring Some Bug Fixes to Your iPhone With iOS 18.6](https://www.cnet.com/tech/services-and-software/before-ios-26-apple-could-bring-some-bug-fixes-to-your-iphone-with-ios-18-6/#ftag=CAD590a51e)
- - [Leaked memo: Intel will shut down its automotive business and lay off &quot;most&quot; employees working in the unit, the latest step in Intel&#39;s downsizing &lpar;Mike Rogoway/Oregonian&rpar;](http://www.techmeme.com/250625/p18#a250625p18)
- - [Insta360’s new wireless mic looks no bigger than an Apple AirTag](https://www.theverge.com/news/692640/insta360-wireless-microphone-mic-air-lightweight-bluetooth)
- - [Paraform, which operates a hiring marketplace with AI-powered candidate relationship management and other tools, raised a $20M Series A led by Felicis Ventures &lpar;FinSMEs&rpar;](http://www.techmeme.com/250625/p17#a250625p17)<!-- TECH:END -->
+ - [Google DeepMind unveils AlphaGenome, an AI tool to predict the effects of DNA changes on molecular processes, available via an API for non-commercial research &lpar;Antonio Regalado/MIT Technology Review&rpar;](http://www.techmeme.com/250625/p20#a250625p20)
+ - [How to Clean a Beer Glass for Perfect Pours](https://www.wired.com/story/how-to-clean-a-beer-glass/)
+ - [Here’s a running list of all of Tesla’s robotaxi mishaps so far](https://www.theverge.com/news/692639/tesla-robotaxi-mistake-wrong-lane-phantom-braking)
+ - [Centific, an AI &quot;data foundry&quot; that works with businesses to develop, train, and deploy their AI models, raised a $60M Series A led by Granite Asia &lpar;Nicholas Gordon/Fortune&rpar;](http://www.techmeme.com/250625/p19#a250625p19)
+ - [Before Wimbledon, Tennis finally gets some love in Apple Sports](https://appleinsider.com/articles/25/06/25/before-wimbledon-tennis-finally-gets-some-love-in-apple-sports?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Time comes for everyone, eventually.](http://9gag.com/gag/a1mEq46)
+ - 😝 [Locksmith breaks into houses and breaks hearts](http://9gag.com/gag/a87Kn3d)
  - 😝 [Watch the sauce swirl into a perfect pattern](http://9gag.com/gag/a6Zj8Gm)
- - 💣 [French woman is told her outfit is `haram,` which means `forbidden` in Islam. The girl responds: `It\u2019s a good thing I\u2019m a Christian.` That happened at Music Festival 2025 in Paris, nearly 150 women were jabbed with hypodermic needles with unknown substance during the festival.](http://9gag.com/gag/a6Zjx58)
+ - 💣 [Monkey](http://9gag.com/gag/a0eMxed)
  - 😝 [The comment section delivers again.](http://9gag.com/gag/aqyYpOj)
  - 👉 [A MTV video from the 90&#39;s](http://9gag.com/gag/aKGONDZ)<!-- MEMES:END -->
 

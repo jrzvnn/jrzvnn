@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fairphone announces the €599 Fairphone 6, with a 6.31&quot; 120Hz LTPO OLED display, a Snapdragon 7s Gen 3 chip, and enhanced modularity with 12 swappable parts &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/250625/p9#a250625p9)
- - [Snake Venom, Urine, and a Quest to Live Forever: Inside a Biohacking Conference Emboldened by MAHA](https://www.wired.com/story/biohackers-want-unorthodox-treatments-to-live-forever-maha-is-emboldening-them/)
- - [10 Best Protein Powders of 2025, Tested &amp; Reviewed by WIRED](https://www.wired.com/gallery/best-protein-powders/)
- - [French payments group Worldline&#39;s stock drops 20%+ after European journalism network EIC reports alleging that the company covered up customer fraud &lpar;Bloomberg&rpar;](http://www.techmeme.com/250625/p8#a250625p8)
- - [Want a More Sustainable Android Phone? The Modular Fairphone 6 Could Be the Answer](https://www.cnet.com/tech/mobile/want-a-more-sustainable-android-phone-the-modular-fairphone-6-could-be-the-answer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Veloretti just made one of the best e-bikes lighter and cheaper](https://www.theverge.com/news/692505/veloretti-two-lite-ivy-ace-belt-price-specs)
+ - [9 Best Natural Deodorants, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-natural-deodorants/)
+ - [Paris-based Zama, which is developing fully homomorphic encryption tech for blockchain and AI apps, raised a $57M Series B at a $1B+ valuation &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/250625/p10#a250625p10)
+ - [Death Stranding 2 is bigger and more ambitious — and that includes its music](https://www.theverge.com/games/691316/death-stranding-2-woodkid-kojima-music-player)
+ - [Fairphone announces the €599 Fairphone 6, with a 6.31&quot; 120Hz LTPO OLED display, a Snapdragon 7s Gen 3 chip, and enhanced modularity with 12 swappable parts &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/250625/p9#a250625p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

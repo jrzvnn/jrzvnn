@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guess this is our boomer phase in the making.](http://9gag.com/gag/axyY4Qn)
- - 😝 [Kids will always keep you on your toes with the things they say.](http://9gag.com/gag/abAQEBB)
- - 💣 [A MTV video from the 90&#39;s](http://9gag.com/gag/aKGONDZ)
- - 😝 [Weird ornament](http://9gag.com/gag/aXPKR4g)
- - 👉 [That day he was a marine biologist-dentist](http://9gag.com/gag/azxYDVx)<!-- MEMES:END -->
+ - 😝 [Lol](http://9gag.com/gag/aZZzvW9)
+ - 😝 [Beware of Tourist scam](http://9gag.com/gag/ayNYv3y)
+ - 💣 [French woman is told her outfit is `haram,` which means `forbidden` in Islam. The girl responds: `It\u2019s a good thing I\u2019m a Christian.` That happened at Music Festival 2025 in Paris, nearly 150 women were jabbed with hypodermic needles with unknown substance during the festival.](http://9gag.com/gag/a6Zjx58)
+ - 😝 [Why the F is thisna movie???](http://9gag.com/gag/aVvV1yP)
+ - 👉 [You&#39;re mine now](http://9gag.com/gag/aD2OMGB)<!-- MEMES:END -->
 
 ---
 

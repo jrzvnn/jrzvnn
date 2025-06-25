@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [License plate reader company Flock has stopped US agencies from accessing cameras in CA, IL, and VA after reports of lookups related to ICE and an abortion case &lpar;404 Media&rpar;](http://www.techmeme.com/250625/p27#a250625p27)
+ - [Venice Braces for Jeff Bezos and Lauren Sanchez&#39;s Wedding](https://www.wired.com/story/how-will-jeff-bezos-wedding-impact-venice/)
  - [Dbrand admits it had a ‘spectacularly terrible response’ to Killswitch Joy-Con grip detachment complaints](https://www.theverge.com/news/693121/dbrand-switch-2-killswitch-joy-con-case-replacement-detachment)
- - [Hundreds of data brokers might be breaking state laws, say privacy advocates](https://www.theverge.com/news/693109/eff-privacy-advocates-state-investigate-data-brokers)
- - [The Trump Phone no longer promises it’s made in America](https://www.theverge.com/gadgets/693080/trump-mobile-t1-phone-made-usa)
- - [I tested 12 Switch 2 cases and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases)
- - [WhatsApp launches optional Meta AI-generated summaries of unread messages in the US; Meta can&#39;t read the messages and summaries are hidden from other chat users &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250625/p26#a250625p26)<!-- TECH:END -->
+ - [Best Fourth of July Mattress Deals From Helix, Birch, and More &lpar;2025&rpar;](https://www.wired.com/story/best-july-fourth-mattress-deals-2025/)
+ - [Hundreds of data brokers might be breaking state laws, say privacy advocates](https://www.theverge.com/news/693109/eff-privacy-advocates-state-investigate-data-brokers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

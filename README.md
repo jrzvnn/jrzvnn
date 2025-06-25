@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bumble plans to cut 30% of its workforce, or about 240 roles, and invest the ~$40M saved annually into new product and tech development; BMBL rises 20%+ &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250625/p16#a250625p16)
+ - [iOS 26 battery &amp; charging features: Hands on with adaptive power mode](https://appleinsider.com/articles/25/06/25/ios-26-battery-charging-features-hands-on-with-adaptive-power-mode?utm_medium=rss)
  - [Google unveils Gemini CLI, an agentic AI tool that lets developers make natural language requests by connecting Gemini models to local codebases in terminals &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250625/p15#a250625p15)
  - [11 Best Computer Monitors &lpar;2025&rpar;: Budget, OLED, 4K](https://www.wired.com/gallery/best-computer-monitors/)
- - [M5 OLED iPad Pro fall release more certain, screen production underway](https://appleinsider.com/articles/25/06/25/m5-oled-ipad-pro-fall-release-more-certain-screen-production-underway?utm_medium=rss)
- - [Russia frees REvil hackers after sentencing](https://www.theverge.com/news/692582/russia-revil-hacker-group-ransomware-sentencing)
- - [Best Internet Providers in Cleveland, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-cleveland-oh/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [M5 OLED iPad Pro fall release more certain, screen production underway](https://appleinsider.com/articles/25/06/25/m5-oled-ipad-pro-fall-release-more-certain-screen-production-underway?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Before Wimbledon, Tennis finally gets some love in Apple Sports](https://appleinsider.com/articles/25/06/25/before-wimbledon-tennis-finally-gets-some-love-in-apple-sports?utm_medium=rss)
  - [AirTags 2 rumors: greater Precision Finding range, better battery, and when it&#39;ll ship](https://appleinsider.com/articles/25/06/25/airtags-2-rumors-greater-precision-finding-range-better-battery-and-when-itll-ship?utm_medium=rss)
  - [Ring rolls out Video Descriptions, an AI-powered beta feature that generates text summaries of motion activity from its doorbells and cameras &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250625/p22#a250625p22)
- - [10 Common Foods That Contain Microplastics and How to Avoid Them](https://www.cnet.com/health/nutrition/10-common-foods-that-contain-microplastics-and-how-to-avoid-them/#ftag=CAD590a51e)
- - [Coinbase says it played a &quot;key role&quot; in the US Secret Service&#39;s seizure of $225M linked to crypto investment scams, and Tether burned the $225M in frozen USDT &lpar;Stephen Katte/Cointelegraph&rpar;](http://www.techmeme.com/250625/p21#a250625p21)<!-- TECH:END -->
+ - [Coinbase says it played a &quot;key role&quot; in the US Secret Service&#39;s seizure of $225M linked to crypto investment scams, and Tether burned the $225M in frozen USDT &lpar;Stephen Katte/Cointelegraph&rpar;](http://www.techmeme.com/250625/p21#a250625p21)
+ - [Google DeepMind unveils AlphaGenome, an AI tool to predict the effects of DNA changes on molecular processes, available via an API for non-commercial research &lpar;Antonio Regalado/MIT Technology Review&rpar;](http://www.techmeme.com/250625/p20#a250625p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

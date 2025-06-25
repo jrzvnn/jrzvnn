@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The strange historical case of Bobby Dunbar and the identity revealed by DNA.](http://9gag.com/gag/aO8RGOM)
- - 😝 [Locksmith breaks into houses and breaks hearts](http://9gag.com/gag/a87Kn3d)
- - 💣 [Hope the selfie was worth it](http://9gag.com/gag/a9yOBW1)
+ - 😝 [When the medicine ball decides to fight back](http://9gag.com/gag/a34beMm)
  - 😝 [Monkey](http://9gag.com/gag/a0eMxed)
- - 👉 [Just leaving this here](http://9gag.com/gag/aNDO304)<!-- MEMES:END -->
+ - 💣 [Hope the selfie was worth it](http://9gag.com/gag/a9yOBW1)
+ - 😝 [You&#39;re mine now](http://9gag.com/gag/aD2OMGB)
+ - 👉 [Locksmith breaks into houses and breaks hearts](http://9gag.com/gag/a87Kn3d)<!-- MEMES:END -->
 
 ---
 

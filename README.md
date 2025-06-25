@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Monkey](http://9gag.com/gag/a0eMxed)
- - 😝 [Glizzy factory](http://9gag.com/gag/aD2OMzZ)
- - 💣 [French woman is told her outfit is `haram,` which means `forbidden` in Islam. The girl responds: `It\u2019s a good thing I\u2019m a Christian.` That happened at Music Festival 2025 in Paris, nearly 150 women were jabbed with hypodermic needles with unknown substance during the festival.](http://9gag.com/gag/a6Zjx58)
- - 😝 [You&#39;re mine now](http://9gag.com/gag/aD2OMGB)
- - 👉 [The comment section delivers again.](http://9gag.com/gag/aqyYpOj)<!-- MEMES:END -->
+ - 😝 [Why the F is thisna movie???](http://9gag.com/gag/aVvV1yP)
+ - 😝 [A Gift from Terry](http://9gag.com/gag/a5QqymG)
+ - 💣 [Grandma&#39;s a killer](http://9gag.com/gag/aGyOoX0)
+ - 😝 [Middly illusianal](http://9gag.com/gag/ary29QK)
+ - 👉 [Groooooooooooovy.](http://9gag.com/gag/aVvV4P8)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That snap was faster than expected](http://9gag.com/gag/awyYexB)
- - 😝 [Just aim properly](http://9gag.com/gag/ary2dBK)
- - 💣 [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)
+ - 😝 [Mini Heart Attack](http://9gag.com/gag/a87KVKd)
  - 😝 [Beware of Tourist scam](http://9gag.com/gag/ayNYv3y)
- - 👉 [That day he was a marine biologist-dentist](http://9gag.com/gag/azxYDVx)<!-- MEMES:END -->
+ - 💣 [You&#39;re mine now](http://9gag.com/gag/aD2OMGB)
+ - 😝 [Talk about getting more than you bargained for at an auction.](http://9gag.com/gag/a4PWVVv)
+ - 👉 [Hope the selfie was worth it](http://9gag.com/gag/a9yOBW1)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hundreds of data brokers might be breaking state laws, say privacy advocates](https://www.theverge.com/news/693109/eff-privacy-advocates-state-investigate-data-brokers)
+ - [The Trump Phone no longer promises it’s made in America](https://www.theverge.com/gadgets/693080/trump-mobile-t1-phone-made-usa)
  - [I tested 12 Switch 2 cases and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases)
  - [WhatsApp launches optional Meta AI-generated summaries of unread messages in the US; Meta can&#39;t read the messages and summaries are hidden from other chat users &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250625/p26#a250625p26)
- - [Countdown to Prime Day: Best deals on Apple deliver up to $400 off](https://appleinsider.com/articles/25/06/24/countdown-to-prime-day-best-deals-on-apple-deliver-up-to-400-off?utm_medium=rss)
- - [Best Desks of 2025: I&#39;ve Spent Nearly 4,000 Hours Testing Desks. These Are the Ones You Want](https://www.cnet.com/news/best-desks/#ftag=CAD590a51e)
- - [Bipartisan &#39;Open App Markets Act&#39; resurrected to challenge Apple&#39;s App Store control](https://appleinsider.com/articles/25/06/25/bipartisan-open-app-markets-act-resurrected-to-challenge-apples-app-store-control?utm_medium=rss)<!-- TECH:END -->
+ - [Countdown to Prime Day: Best deals on Apple deliver up to $400 off](https://appleinsider.com/articles/25/06/24/countdown-to-prime-day-best-deals-on-apple-deliver-up-to-400-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

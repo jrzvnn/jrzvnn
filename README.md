@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is bringing Gemini CLI to developers&amp;#8217; terminals](https://www.theverge.com/news/692517/google-gemini-cli-ai-agent-dev-terminal)
- - [Ring camera alerts are about to get a lot smarter](https://www.theverge.com/news/692523/ring-ai-powered-video-descriptions-camera-doorbell-notifications)
- - [Metaview, which builds AI tools to automate hiring, including interview note-taking and generating job descriptions, raised a $35M Series B led by GV &lpar;Beatrice Nolan/Fortune&rpar;](http://www.techmeme.com/250625/p14#a250625p14)
- - [9 Best Cat Water Fountains, WIRED Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-cat-water-fountains/)
- - [Car makers reject CarPlay Ultra as an Apple overreach](https://appleinsider.com/articles/25/06/25/car-makers-reject-carplay-ultra-as-an-apple-overreach?utm_medium=rss)<!-- TECH:END -->
+ - [Google unveils Gemini CLI, an agentic AI tool that lets developers make natural language requests by connecting Gemini models to local codebases in terminals &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250625/p15#a250625p15)
+ - [11 Best Computer Monitors &lpar;2025&rpar;: Budget, OLED, 4K](https://www.wired.com/gallery/best-computer-monitors/)
+ - [M5 OLED iPad Pro fall release more certain, screen production underway](https://appleinsider.com/articles/25/06/25/m5-oled-ipad-pro-fall-release-more-certain-screen-production-underway?utm_medium=rss)
+ - [Russia frees REvil hackers after sentencing](https://www.theverge.com/news/692582/russia-revil-hacker-group-ransomware-sentencing)
+ - [Best Internet Providers in Cleveland, Ohio](https://www.cnet.com/home/internet/best-internet-providers-in-cleveland-oh/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Altman posts a series of his exchanges with founder of iyO Jason Rugolo from before the deal with Ive&#39;s io; Rugolo responded he just wants to compete fairly &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250625/p24#a250625p24)
+ - [Sources: Kalshi is raising $100M+ led by Paradigm at a $1B+ valuation; Polymarket is completing a $200M+ investment led by Founders Fund at a ~$1B valuation &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250625/p25#a250625p25)
+ - [Sam Altman posts a series of his exchanges with founder of iyO Jason Rugolo, before and after OpenAI&#39;s io deal; Rugolo responded he just wants to compete fairly &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250625/p24#a250625p24)
  - [The photographer using AI to reconstruct stories lost to censorship](https://www.theverge.com/ai-artificial-intelligence/688648/almagul-menlibayeva-ai-reimagining-censored-government-work)
  - [AI Agents Are Getting Better at Writing Code—and Hacking It as Well](https://www.wired.com/story/ai-agents-are-getting-better-at-writing-code-and-hacking-it-as-well/)
- - [Apple’s sports app now shows tennis scores](https://www.theverge.com/news/692872/apples-sports-app-now-shows-tennis-scores)
- - [Best Binoculars &lpar;2025&rpar;: Zeiss, Swarovski, Leica](https://www.wired.com/story/best-binoculars/)<!-- TECH:END -->
+ - [Apple’s sports app now shows tennis scores](https://www.theverge.com/news/692872/apples-sports-app-now-shows-tennis-scores)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

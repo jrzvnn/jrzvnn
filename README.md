@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Locksmith breaks into houses and breaks hearts](http://9gag.com/gag/a87Kn3d)
  - 😝 [The strange historical case of Bobby Dunbar and the identity revealed by DNA.](http://9gag.com/gag/aO8RGOM)
- - 💣 [French woman is told her outfit is `haram,` which means `forbidden` in Islam. The girl responds: `It\u2019s a good thing I\u2019m a Christian.` That happened at Music Festival 2025 in Paris, nearly 150 women were jabbed with hypodermic needles with unknown substance during the festival.](http://9gag.com/gag/a6Zjx58)
- - 😝 [Beware of Tourist scam](http://9gag.com/gag/ayNYv3y)
- - 👉 [Monkey](http://9gag.com/gag/a0eMxed)<!-- MEMES:END -->
+ - 😝 [Locksmith breaks into houses and breaks hearts](http://9gag.com/gag/a87Kn3d)
+ - 💣 [Hope the selfie was worth it](http://9gag.com/gag/a9yOBW1)
+ - 😝 [Monkey](http://9gag.com/gag/a0eMxed)
+ - 👉 [Just leaving this here](http://9gag.com/gag/aNDO304)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daydream, which raised a $50M seed in June 2024 to build a generative AI shopping agent for fashion, launches in beta, with an app expected later this summer &lpar;Hilary Milnes/Vogue Business&rpar;](http://www.techmeme.com/250625/p5#a250625p5)
  - [How innovations in garden technology, including AI-driven watering systems and robotic mowers, originally built for agriculture, are now reaching home growers &lpar;Mark Lane/Financial Times&rpar;](http://www.techmeme.com/250625/p4#a250625p4)
  - [Imagen 4 is now available in the Gemini API and Google AI Studio, priced at $0.04 per image or $0.06 for &quot;Ultra&quot; mode that &quot;precisely&quot; follows user instructions &lpar;Google Developers Blog&rpar;](http://www.techmeme.com/250625/p3#a250625p3)
  - [As Apple rolls out CarPlay Ultra, many carmakers are developing their own infotainment systems in hopes of generating more revenue from in-car services and data &lpar;Financial Times&rpar;](http://www.techmeme.com/250625/p2#a250625p2)
- - [In a letter to staff, CEO Eddie Wu says Alibaba is merging its food delivery platform Ele.me and online travel agency Fliggy into its core e-commerce business &lpar;Wency Chen/South China Morning Post&rpar;](http://www.techmeme.com/250625/p1#a250625p1)
- - [Andy Konwinski, co-founder of Databricks and Perplexity, launches the nonprofit Laude Institute, self-funded with $100M for grants to AI projects and labs &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250624/p42#a250624p42)<!-- TECH:END -->
+ - [In a letter to staff, CEO Eddie Wu says Alibaba is merging its food delivery platform Ele.me and online travel agency Fliggy into its core e-commerce business &lpar;Wency Chen/South China Morning Post&rpar;](http://www.techmeme.com/250625/p1#a250625p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

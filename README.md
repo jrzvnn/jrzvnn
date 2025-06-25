@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to safely maintain, use, and dispose of your power banks](https://www.theverge.com/tech/692218/power-banks-safety-disposal-how-to)
- - [Analysis: A7A5, billed as the first Russian ruble-pegged stablecoin for cross-border payments, has moved $9.3B on a dedicated exchange after a February launch &lpar;Financial Times&rpar;](http://www.techmeme.com/250625/p23#a250625p23)
- - [Sam Altman takes his ‘io’ trademark battle public](https://www.theverge.com/news/692840/sam-altman-io-trademark-battle-iyo-emails)
- - [iPhone users on Google Fi will now get all their voicemails in the Phone app](https://www.theverge.com/news/692824/google-fi-iphone-ios-users-phone-app-voicemails)
- - [Remedy is in control](https://www.theverge.com/games/691964/remedy-entertainment-profile-alan-wake-control-fbc-firebreak)<!-- TECH:END -->
+ - [Apple’s sports app now shows tennis scores](https://www.theverge.com/news/692872/apples-sports-app-now-shows-tennis-scores)
+ - [Best Binoculars &lpar;2025&rpar;: Zeiss, Swarovski, Leica](https://www.wired.com/story/best-binoculars/)
+ - [Lots More Americans Are Using ChatGPT, but a Surprising Number Say They Haven&#39;t Heard of It](https://www.cnet.com/tech/services-and-software/lots-more-americans-are-using-chatgpt-but-a-surprising-number-say-they-havent-heard-of-it/#ftag=CAD590a51e)
+ - [How to Watch Borussia Dortmund vs. Ulsan HD From Anywhere for Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-borussia-dortmund-vs-ulsan-hd-from-anywhere-for-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)
+ - [How to safely maintain, use, and dispose of your power banks](https://www.theverge.com/tech/692218/power-banks-safety-disposal-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

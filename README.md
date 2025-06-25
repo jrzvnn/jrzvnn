@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You&#39;re mine now](http://9gag.com/gag/aD2OMGB)
- - 😝 [Butt!](http://9gag.com/gag/a87KXbY)
- - 💣 [Just aim properly](http://9gag.com/gag/ary2dBK)
- - 😝 [Beware of Tourist scam](http://9gag.com/gag/ayNYv3y)
+ - 😝 [Guess this is our boomer phase in the making.](http://9gag.com/gag/axyY4Qn)
+ - 😝 [Kids will always keep you on your toes with the things they say.](http://9gag.com/gag/abAQEBB)
+ - 💣 [A MTV video from the 90&#39;s](http://9gag.com/gag/aKGONDZ)
+ - 😝 [Weird ornament](http://9gag.com/gag/aXPKR4g)
  - 👉 [That day he was a marine biologist-dentist](http://9gag.com/gag/azxYDVx)<!-- MEMES:END -->
 
 ---

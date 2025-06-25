@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [8 Best Water Leak Detectors &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-water-leak-detectors/)
  - [OpenRouter, which directs AI prompts to various LLMs based on cost, speed, and other factors, raised $40M at a valuation of about $500M &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/250625/p11#a250625p11)
  - [This New Watch Is Being Purpose-Built for Space Exploration—and It&#39;s Not an Omega](https://www.wired.com/story/monolith-watch-is-being-purpose-built-for-space-exploration/)
  - [Veloretti just made one of the best e-bikes lighter and cheaper](https://www.theverge.com/news/692505/veloretti-two-lite-ivy-ace-belt-price-specs)
- - [9 Best Natural Deodorants, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-natural-deodorants/)
- - [Paris-based Zama, which is developing fully homomorphic encryption tech for blockchain and AI apps, raised a $57M Series B at a $1B+ valuation &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/250625/p10#a250625p10)<!-- TECH:END -->
+ - [9 Best Natural Deodorants, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-natural-deodorants/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

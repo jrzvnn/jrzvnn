@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fairphone announces the €599 Fairphone 6, with a 6.31&quot; 120Hz LTPO OLED display, a Snapdragon 7s Gen 3 chip, and enhanced modularity with 12 swappable parts &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/250625/p9#a250625p9)
+ - [Snake Venom, Urine, and a Quest to Live Forever: Inside a Biohacking Conference Emboldened by MAHA](https://www.wired.com/story/biohackers-want-unorthodox-treatments-to-live-forever-maha-is-emboldening-them/)
+ - [10 Best Protein Powders of 2025, Tested &amp; Reviewed by WIRED](https://www.wired.com/gallery/best-protein-powders/)
  - [French payments group Worldline&#39;s stock drops 20%+ after European journalism network EIC reports alleging that the company covered up customer fraud &lpar;Bloomberg&rpar;](http://www.techmeme.com/250625/p8#a250625p8)
- - [The smaller Fairphone 6 introduces swappable accessories](https://www.theverge.com/news/692248/fairphone-6-smartphone-repairable-modular-accessories-murena)
- - [Gallup: ~60% of 2,232 teachers at US K-12 public schools say they used AI tools in the past school year; regular users estimate weekly time savings of 5.9 hours &lpar;Jocelyn Gecker/Associated Press&rpar;](http://www.techmeme.com/250625/p7#a250625p7)
- - [Best Internet Providers in Buffalo, New York](https://www.cnet.com/home/internet/best-internet-providers-in-buffalo-ny/#ftag=CAD590a51e)
- - [Best Internet Providers in Oakland, California](https://www.cnet.com/home/internet/best-internet-providers-in-oakland-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Want a More Sustainable Android Phone? The Modular Fairphone 6 Could Be the Answer](https://www.cnet.com/tech/mobile/want-a-more-sustainable-android-phone-the-modular-fairphone-6-could-be-the-answer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

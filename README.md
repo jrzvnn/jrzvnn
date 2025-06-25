@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Currently at 1.5* Temu IronMan](http://9gag.com/gag/a9yOZvm)
  - 😝 [Why the F is thisna movie???](http://9gag.com/gag/aVvV1yP)
- - 😝 [A Gift from Terry](http://9gag.com/gag/a5QqymG)
- - 💣 [Grandma&#39;s a killer](http://9gag.com/gag/aGyOoX0)
- - 😝 [Middly illusianal](http://9gag.com/gag/ary29QK)
+ - 💣 [A Gift from Terry](http://9gag.com/gag/a5QqymG)
+ - 😝 [Grandma&#39;s a killer](http://9gag.com/gag/aGyOoX0)
  - 👉 [Groooooooooooovy.](http://9gag.com/gag/aVvV4P8)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Philips Hue lighting will be more expensive starting July 1st, but you can save on them now](https://www.theverge.com/tech/692821/philips-hue-light-bulbs-price-increase-deal-sale)
+ - [Aaron Sorkin is making a sequel to The Social Network](https://www.theverge.com/news/693198/the-social-network-part-ii-aaron-sorkin-sony-facebook)
  - [Micron reports Q3 revenue up 37% YoY to $9.3B, vs. $8.85B est., forecasts Q4 revenue above estimates, and says it&#39;s on track for record revenue this fiscal year &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250625/p29#a250625p29)
  - [The 31 Best Early Amazon Prime Day Deals &lpar;2025&rpar;](https://www.wired.com/story/best-early-amazon-prime-day-deals-2025/)
- - [A European Startup&#39;s Spacecraft Made It to Orbit. Now It&#39;s Lost at Sea](https://www.wired.com/story/exploration-company-mission-possible-spacecraft-orbit-lost/)
- - [Getty Images drops its primary claims of copyright infringement against Stability AI in UK court but continues to pursue other claims and a separate US lawsuit &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250625/p28#a250625p28)
- - [Apple buys out another Cupertino office complex worth $160 million](https://appleinsider.com/articles/25/06/25/apple-buys-out-another-cupertino-office-complex-worth-160-million?utm_medium=rss)<!-- TECH:END -->
+ - [A European Startup’s Spacecraft Made It to Orbit. Now It’s Lost at Sea](https://www.wired.com/story/exploration-company-mission-possible-spacecraft-orbit-lost/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

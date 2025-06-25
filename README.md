@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Grandma&#39;s a killer](http://9gag.com/gag/aGyOoX0)
- - 😝 [French woman is told her outfit is `haram,` which means `forbidden` in Islam. The girl responds: `It\u2019s a good thing I\u2019m a Christian.` That happened at Music Festival 2025 in Paris, nearly 150 women were jabbed with hypodermic needles with unknown substance during the festival.](http://9gag.com/gag/a6Zjx58)
- - 💣 [Kids will always keep you on your toes with the things they say.](http://9gag.com/gag/abAQEBB)
- - 😝 [Guess this is our boomer phase in the making.](http://9gag.com/gag/axyY4Qn)
- - 👉 [145 people &lpar;mostly white french girls&rpar; were pricked with needles with unknown substance in France during a nationwide music festival over the weekend.](http://9gag.com/gag/ajPWdxw)<!-- MEMES:END -->
+ - 😝 [Never ever mess with a white one, unless you are certain you can take it down.](http://9gag.com/gag/ary2d7X)
+ - 😝 [Just aim properly](http://9gag.com/gag/ary2dBK)
+ - 💣 [Butt!](http://9gag.com/gag/a87KXbY)
+ - 😝 [Poor guy didn&#39;t even cheated a day in his life](http://9gag.com/gag/aE0OO5x)
+ - 👉 [You&#39;re mine now](http://9gag.com/gag/aD2OMGB)<!-- MEMES:END -->
 
 ---
 

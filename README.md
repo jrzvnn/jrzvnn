@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bumble plans to cut 30% of its workforce, or about 240 roles, and invest the ~$40M saved annually into new product and tech development; BMBL rises 20%+ &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250625/p16#a250625p16)
- - [iOS 26 battery &amp; charging features: Hands on with adaptive power mode](https://appleinsider.com/articles/25/06/25/ios-26-battery-charging-features-hands-on-with-adaptive-power-mode?utm_medium=rss)
- - [Google unveils Gemini CLI, an agentic AI tool that lets developers make natural language requests by connecting Gemini models to local codebases in terminals &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250625/p15#a250625p15)
- - [11 Best Computer Monitors &lpar;2025&rpar;: Budget, OLED, 4K](https://www.wired.com/gallery/best-computer-monitors/)
- - [M5 OLED iPad Pro fall release more certain, screen production underway](https://appleinsider.com/articles/25/06/25/m5-oled-ipad-pro-fall-release-more-certain-screen-production-underway?utm_medium=rss)<!-- TECH:END -->
+ - [Insta360’s new wireless mic looks no bigger than an Apple AirTag](https://www.theverge.com/news/692640/insta360-wireless-microphone-mic-air-lightweight-bluetooth)
+ - [Paraform, which operates a hiring marketplace with AI-powered candidate relationship management and other tools, raised a $20M Series A led by Felicis &lpar;FinSMEs&rpar;](http://www.techmeme.com/250625/p17#a250625p17)
+ - [Best 6 Soda Makers &lpar;2025&rpar;: Drinkmate, SodaStream, Aerflo](https://www.wired.com/gallery/best-soda-maker/)
+ - [The Nintendo Switch 2 will be available for Walmart Plus subscribers today at 9pm Eastern](https://www.theverge.com/tech/691359/nintendo-switch-2-console-restock-walmart-plus-exclusive)
+ - [Discord is working on a Windows on Arm app](https://www.theverge.com/news/692551/discord-windows-on-arm-app-arm64-version-development)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

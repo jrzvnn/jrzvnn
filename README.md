@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This MacBook upgrade program starts at just $33.28/month](https://appleinsider.com/articles/25/06/25/this-macbook-upgrade-program-starts-at-just-3328month?utm_medium=rss)
- - [Report: French authorities arrested four individuals allegedly involved in operating the BreachForums cybercrime forum on Monday and one in February &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250625/p31#a250625p31)
- - [&#39;They&#39;re Not Breathing&#39;: Inside the Chaos of ICE Detention Center 911 Calls](https://www.wired.com/story/ice-detention-center-911-emergencies/)
- - [A US judge rules that Meta&#39;s use of books to train AI is protected by fair use but says his opinion is more a reflection of the plaintiffs&#39; poor arguments &lpar;Isaiah Poritz/Bloomberg Law&rpar;](http://www.techmeme.com/250625/p30#a250625p30)
- - [Trump Mobile drops false &#39;made in America&#39; promise](https://appleinsider.com/articles/25/06/25/trump-mobile-drops-false-made-in-america-promise?utm_medium=rss)<!-- TECH:END -->
+ - [Barclays will block crypto purchases made with credit cards starting June 27, citing volatility and lack of consumer protections, following other UK lenders &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/250625/p32#a250625p32)
+ - [Meta Wins Blockbuster AI Copyright Case—but There’s a Catch](https://www.wired.com/story/meta-scores-victory-ai-copyright-case/)
+ - [The Nintendo Switch 2 webcam compatibility mystery is solved and updates are on the way](https://www.theverge.com/report/693182/nintendo-switch-2-webcam-mystery-1080p-480p-uvc-iso-bulk-ugreen-elgato)
+ - [WhatsApp rolls out AI-generated summaries for private messages](https://www.theverge.com/news/693310/whatsapp-ai-message-summaries-meta)
+ - [This MacBook upgrade program starts at just $33.28/month](https://appleinsider.com/articles/25/06/25/this-macbook-upgrade-program-starts-at-just-3328month?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

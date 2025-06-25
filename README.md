@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lol](http://9gag.com/gag/aZZzvW9)
+ - 😝 [When the medicine ball decides to fight back](http://9gag.com/gag/a34beMm)
  - 😝 [Watch the sauce swirl into a perfect pattern](http://9gag.com/gag/a6Zj8Gm)
- - 💣 [That day he was a marine biologist-dentist](http://9gag.com/gag/azxYDVx)
- - 😝 [Just aim properly](http://9gag.com/gag/ary2dBK)
- - 👉 [Monkey](http://9gag.com/gag/a0eMxed)<!-- MEMES:END -->
+ - 💣 [Hope the selfie was worth it](http://9gag.com/gag/a9yOBW1)
+ - 😝 [That day he was a marine biologist-dentist](http://9gag.com/gag/azxYDVx)
+ - 👉 [Just aim properly](http://9gag.com/gag/ary2dBK)<!-- MEMES:END -->
 
 ---
 

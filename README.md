@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HDMI 2.2 arrives with 16K video and 96Gbps bandwidth support](https://appleinsider.com/articles/25/06/25/hdmi-22-arrives-with-16k-video-and-96gbps-bandwidth-support?utm_medium=rss)
  - [Asana names LaunchDarkly CEO Dan Rogers as its new CEO starting on July 21, replacing co-founder Dustin Moskovitz, who is retiring and will remain board chair &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250625/p33#a250625p33)
+ - [Anthropic now lets you make apps right from its Claude AI chatbot](https://www.theverge.com/news/693342/anthropic-claude-ai-apps-artifact)
  - [Barclays will block crypto purchases made with credit cards starting June 27, citing volatility and lack of consumer protections, following other UK lenders &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/250625/p32#a250625p32)
- - [Meta Wins Blockbuster AI Copyright Case—but There’s a Catch](https://www.wired.com/story/meta-scores-victory-ai-copyright-case/)
- - [This MacBook upgrade program starts at just $33.28/month](https://appleinsider.com/articles/25/06/25/this-macbook-upgrade-program-starts-at-just-3328month?utm_medium=rss)
- - [Report: French authorities arrested four individuals allegedly involved in operating the BreachForums cybercrime forum on Monday and one in February &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250625/p31#a250625p31)<!-- TECH:END -->
+ - [Meta Wins Blockbuster AI Copyright Case—but There’s a Catch](https://www.wired.com/story/meta-scores-victory-ai-copyright-case/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gallup: ~60% of 2,232 teachers at US K-12 public schools say they used AI tools in the past school year; regular users estimate weekly time savings of 5.9 hours &lpar;Jocelyn Gecker/Associated Press&rpar;](http://www.techmeme.com/250625/p7#a250625p7)
  - [Best Internet Providers in Buffalo, New York](https://www.cnet.com/home/internet/best-internet-providers-in-buffalo-ny/#ftag=CAD590a51e)
  - [Best Internet Providers in Oakland, California](https://www.cnet.com/home/internet/best-internet-providers-in-oakland-ca/#ftag=CAD590a51e)
  - [How AI is reshaping the perfume industry, as fragrance tech startup Osmo promises 48-hour sample turnarounds and incumbents like DSM-Firmenich embrace the tech &lpar;Arabelle Sicardi/The Verge&rpar;](http://www.techmeme.com/250625/p6#a250625p6)
- - [Daydream, which raised a $50M seed in June 2024 to build a generative AI shopping agent for fashion, launches in beta, with an app expected later this summer &lpar;Hilary Milnes/Vogue Business&rpar;](http://www.techmeme.com/250625/p5#a250625p5)
- - [How innovations in garden technology, including AI-driven watering systems and robotic mowers, originally built for agriculture, are now reaching home growers &lpar;Mark Lane/Financial Times&rpar;](http://www.techmeme.com/250625/p4#a250625p4)<!-- TECH:END -->
+ - [Daydream, which raised a $50M seed in June 2024 to build a generative AI shopping agent for fashion, launches in beta, with an app expected later this summer &lpar;Hilary Milnes/Vogue Business&rpar;](http://www.techmeme.com/250625/p5#a250625p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

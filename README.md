@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The strange historical case of Bobby Dunbar and the identity revealed by DNA.](http://9gag.com/gag/aO8RGOM)
- - 😝 [You&#39;re mine now](http://9gag.com/gag/aD2OMGB)
+ - 😝 [Lol](http://9gag.com/gag/aZZzvW9)
+ - 😝 [Watch the sauce swirl into a perfect pattern](http://9gag.com/gag/a6Zj8Gm)
  - 💣 [That day he was a marine biologist-dentist](http://9gag.com/gag/azxYDVx)
  - 😝 [Just aim properly](http://9gag.com/gag/ary2dBK)
- - 👉 [Glizzy factory](http://9gag.com/gag/aD2OMzZ)<!-- MEMES:END -->
+ - 👉 [Monkey](http://9gag.com/gag/a0eMxed)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anker’s versatile travel charger is on sale just in time for summer](https://www.theverge.com/tech/692680/anker-nano-travel-adapter-charger-fitbit-ace-lte-deal-sale)
- - [&#39;Squid Game&#39; Season 3: When You Can Watch the Final Season on Netflix](https://www.cnet.com/tech/services-and-software/squid-game-season-3-when-you-can-watch-the-final-season-on-netflix/#ftag=CAD590a51e)
- - [Sources: Kalshi is raising $100M+ led by Paradigm at a $1B+ valuation; Polymarket is completing a $200M+ investment led by Founders Fund at a ~$1B valuation &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250625/p25#a250625p25)
- - [You Can Play Diablo 4 for Free in July With PlayStation Plus](https://www.cnet.com/tech/services-and-software/you-can-play-diablo-4-for-free-in-july-with-playstation-plus/#ftag=CAD590a51e)
- - [Best Internet Providers in St. Paul, Minnesota](https://www.cnet.com/home/internet/best-internet-providers-in-st-paul-mn/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I tested 12 Switch 2 cases and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases)
+ - [WhatsApp launches optional Meta AI-generated summaries of unread messages in the US; Meta can&#39;t read the messages and summaries are hidden from other chat users &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250625/p26#a250625p26)
+ - [Countdown to Prime Day: Best deals on Apple deliver up to $400 off](https://appleinsider.com/articles/25/06/24/countdown-to-prime-day-best-deals-on-apple-deliver-up-to-400-off?utm_medium=rss)
+ - [Bipartisan &#39;Open App Markets Act&#39; resurrected to challenge Apple&#39;s App Store control](https://appleinsider.com/articles/25/06/25/bipartisan-open-app-markets-act-resurrected-to-challenge-apples-app-store-control?utm_medium=rss)
+ - [Anker’s versatile travel charger is on sale just in time for summer](https://www.theverge.com/tech/692680/anker-nano-travel-adapter-charger-fitbit-ace-lte-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

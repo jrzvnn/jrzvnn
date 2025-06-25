@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The smaller Fairphone 6 introduces swappable accessories](https://www.theverge.com/news/692248/fairphone-6-smartphone-repairable-modular-accessories-murena)
- - [When more iOS 26 developer beta updates and public betas will release](https://appleinsider.com/articles/25/06/25/when-more-ios-26-developer-beta-updates-and-public-betas-will-release?utm_medium=rss)
- - [Satellite company Maxar launches Sentry, an AI service that autonomously guides satellites to monitor cities, ports, and other sites for unusual activity &lpar;Sana Pashankar/Bloomberg&rpar;](http://www.techmeme.com/250625/p12#a250625p12)
- - [8 Best Water Leak Detectors &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-water-leak-detectors/)
- - [OpenRouter, which directs AI prompts to various LLMs based on cost, speed, and other factors, raised $40M at a valuation of about $500M &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/250625/p11#a250625p11)<!-- TECH:END -->
+ - [Google is bringing Gemini CLI to developers&amp;#8217; terminals](https://www.theverge.com/news/692517/google-gemini-cli-ai-agent-dev-terminal)
+ - [Ring camera alerts are about to get a lot smarter](https://www.theverge.com/news/692523/ring-ai-powered-video-descriptions-camera-doorbell-notifications)
+ - [Metaview, which builds AI tools to automate hiring, including interview note-taking and generating job descriptions, raised a $35M Series B led by GV &lpar;Beatrice Nolan/Fortune&rpar;](http://www.techmeme.com/250625/p14#a250625p14)
+ - [9 Best Cat Water Fountains, WIRED Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-cat-water-fountains/)
+ - [Car makers reject CarPlay Ultra as an Apple overreach](https://appleinsider.com/articles/25/06/25/car-makers-reject-carplay-ultra-as-an-apple-overreach?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

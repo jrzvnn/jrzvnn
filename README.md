@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never tell a chef his dish is like something else.](http://9gag.com/gag/a7oppjL)
- - 😝 [French woman is told her outfit is `haram,` which means `forbidden` in Islam. The girl responds: `It\u2019s a good thing I\u2019m a Christian.` That happened at Music Festival 2025 in Paris, nearly 150 women were jabbed with hypodermic needles with unknown substance during the festival.](http://9gag.com/gag/a6Zjx58)
- - 💣 [Just aim properly](http://9gag.com/gag/ary2dBK)
- - 😝 [Nah.. Nope..](http://9gag.com/gag/aVvVBEy)
- - 👉 [Hope the selfie was worth it](http://9gag.com/gag/a9yOBW1)<!-- MEMES:END -->
+ - 😝 [That snap was faster than expected](http://9gag.com/gag/awyYexB)
+ - 😝 [Just aim properly](http://9gag.com/gag/ary2dBK)
+ - 💣 [Nurses know things others can only imagine.](http://9gag.com/gag/a9yODbL)
+ - 😝 [Beware of Tourist scam](http://9gag.com/gag/ayNYv3y)
+ - 👉 [That day he was a marine biologist-dentist](http://9gag.com/gag/azxYDVx)<!-- MEMES:END -->
 
 ---
 

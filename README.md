@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FHFA Director William Pulte orders Fannie Mae and Freddie Mac to explore crypto as an asset for single-family mortgage applications without converting it to USD &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250625/p35#a250625p35)
  - [Anthropic now lets Claude app users build, host, and share AI-powered apps directly in Claude via Artifacts, launching in beta on Free, Pro, and Max tiers &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250625/p34#a250625p34)
  - [HDMI 2.2 arrives with 16K video and 96Gbps bandwidth support](https://appleinsider.com/articles/25/06/25/hdmi-22-arrives-with-16k-video-and-96gbps-bandwidth-support?utm_medium=rss)
  - [Asana names LaunchDarkly CEO Dan Rogers as its new CEO starting on July 21, replacing co-founder Dustin Moskovitz, who is retiring and will remain board chair &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250625/p33#a250625p33)
- - [Anthropic now lets you make apps right from its Claude AI chatbot](https://www.theverge.com/news/693342/anthropic-claude-ai-apps-artifact)
- - [Barclays will block crypto purchases made with credit cards starting June 27, citing volatility and lack of consumer protections, following other UK lenders &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/250625/p32#a250625p32)<!-- TECH:END -->
+ - [Anthropic now lets you make apps right from its Claude AI chatbot](https://www.theverge.com/news/693342/anthropic-claude-ai-apps-artifact)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

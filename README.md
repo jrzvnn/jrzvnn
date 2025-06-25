@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sam Altman posts a series of his exchanges with founder of iyO Jason Rugolo from before the deal with Ive&#39;s io; Rugolo responded he just wants to compete fairly &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250625/p24#a250625p24)
+ - [The photographer using AI to reconstruct stories lost to censorship](https://www.theverge.com/ai-artificial-intelligence/688648/almagul-menlibayeva-ai-reimagining-censored-government-work)
+ - [AI Agents Are Getting Better at Writing Code—and Hacking It as Well](https://www.wired.com/story/ai-agents-are-getting-better-at-writing-code-and-hacking-it-as-well/)
  - [Apple’s sports app now shows tennis scores](https://www.theverge.com/news/692872/apples-sports-app-now-shows-tennis-scores)
- - [Best Binoculars &lpar;2025&rpar;: Zeiss, Swarovski, Leica](https://www.wired.com/story/best-binoculars/)
- - [Lots More Americans Are Using ChatGPT, but a Surprising Number Say They Haven&#39;t Heard of It](https://www.cnet.com/tech/services-and-software/lots-more-americans-are-using-chatgpt-but-a-surprising-number-say-they-havent-heard-of-it/#ftag=CAD590a51e)
- - [How to Watch Borussia Dortmund vs. Ulsan HD From Anywhere for Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-borussia-dortmund-vs-ulsan-hd-from-anywhere-for-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)
- - [How to safely maintain, use, and dispose of your power banks](https://www.theverge.com/tech/692218/power-banks-safety-disposal-how-to)<!-- TECH:END -->
+ - [Best Binoculars &lpar;2025&rpar;: Zeiss, Swarovski, Leica](https://www.wired.com/story/best-binoculars/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Argentine women&#39;s hockey team](http://9gag.com/gag/awyY9nr)
- - 😝 [Goodness the daughter suffered too much \ud83d\udc80](http://9gag.com/gag/awyY9o4)
- - 💣 [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)
+ - 😝 [Red Flags Already](http://9gag.com/gag/axyYQ6W)
+ - 💣 [Time comes for everyone, eventually.](http://9gag.com/gag/a1mEq46)
  - 😝 [Women](http://9gag.com/gag/a34beyQ)
- - 👉 [This is what happens in Germany if you publicly display happiness](http://9gag.com/gag/a5Qqvpg)<!-- MEMES:END -->
+ - 👉 [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)<!-- MEMES:END -->
 
 ---
 

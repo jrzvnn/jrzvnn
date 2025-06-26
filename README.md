@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Insta360’s new $110 Flow 2 gimbal sacrifices some useful pro features](https://www.theverge.com/news/693565/insta360-flow-2-smartphone-gimbal-ai-deep-track-stabilized)
+ - [The BBC is launching a paywall in the US](https://www.theverge.com/news/693566/bbc-online-tv-content-paywall-subscription-us)
  - [6 Best Phones With Headphone Jacks &lpar;2025&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-headphone-jack-phones/)
  - [Denis Villeneuve is directing the next Bond film for Amazon](https://www.theverge.com/news/693527/denis-villeneuve-james-bond-amazon-mgm)
- - [YouTube launches an AI Overviews-like carousel for searches related to shopping, places, and things to do in a specific place, for Premium users in the US &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250626/p23#a250626p23)
- - [Apple wants total control over distributing films like &#39;F1&#39;](https://appleinsider.com/articles/25/06/26/apple-wants-total-control-over-distributing-films-like-f1?utm_medium=rss)
- - [Roku Streaming Stick Plus Review: Cheap, Simple, and Pretty](https://www.wired.com/review/roku-streaming-stick-plus-2025/)<!-- TECH:END -->
+ - [YouTube launches an AI Overviews-like carousel for searches related to shopping, places, and things to do in a specific place, for Premium users in the US &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250626/p23#a250626p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

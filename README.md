@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How online fandom communities are advocating against AI, including protesting companies scraping fanfic content for AI training and opposing AI-generated fanfic &lpar;Decca Muldowney/The Verge&rpar;](http://www.techmeme.com/250626/p9#a250626p9)
+ - [Sony says its PlayStation Plus three-tier overhaul has &quot;surpassed our expectations&quot; and that the $160/year Premium tier has grown 18% in the past 12 months &lpar;Stephen Totilo/Game File&rpar;](http://www.techmeme.com/250626/p8#a250626p8)
+ - [Internal docs: Scale AI&#39;s efforts to train Google&#39;s Gemini were flooded with &quot;spammy behavior&quot; from unqualified independent contractors submitting shoddy work &lpar;Sam Blum/Inc&rpar;](http://www.techmeme.com/250626/p7#a250626p7)
  - [A look at Tokyo-based Nittobo, currently the only supplier in the world of the highest-end &quot;T-glass&quot;, a material essential for making high-powered AI servers &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250626/p6#a250626p6)
- - [Reddit CEO Steve Huffman warns against companies trying to game the site with AI-generated content, saying &quot;human verification is top of mind for us right now&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250626/p5#a250626p5)
- - [Creative Commons debuts CC Signals, a framework that will allow dataset holders to detail how their content can or cannot be reused for training AI models &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250626/p4#a250626p4)
- - [Sources: Microsoft is pushing to remove the AGI clause from its OpenAI contract, which lets OpenAI limit Microsoft&#39;s access to its IP once its systems reach AGI &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250626/p3#a250626p3)
- - [Chinese automaker Geely&#39;s ride-hailing arm CaoCao raised $236M in a Hong Kong IPO, listing 19% below its offer price; its market cap was $2.42B as of Wednesday &lpar;Kensaku Ihara/Nikkei Asia&rpar;](http://www.techmeme.com/250626/p2#a250626p2)<!-- TECH:END -->
+ - [Reddit CEO Steve Huffman warns against companies trying to game the site with AI-generated content, saying &quot;human verification is top of mind for us right now&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250626/p5#a250626p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

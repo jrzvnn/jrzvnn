@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple wants total control over distributing films like &#39;F1&#39;](https://appleinsider.com/articles/25/06/26/apple-wants-total-control-over-distributing-films-like-f1?utm_medium=rss)
+ - [Roku Streaming Stick Plus Review: Cheap, Simple, and Pretty](https://www.wired.com/review/roku-streaming-stick-plus-2025/)
  - [Workers at Google, TikTok, Adobe, Dropbox, CrowdStrike, and other tech firms recount how managers used AI to justify firing them, speed up their work, and more &lpar;Brian Merchant/Blood in the Machine&rpar;](http://www.techmeme.com/250626/p22#a250626p22)
- - [Kraken launches Krak, a P2P payments app that lets users send funds across 110 countries using 300+ assets, including crypto, stablecoins, and fiat currencies &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/250626/p21#a250626p21)
- - [Intel is closing its automotive chipmaking business](https://www.theverge.com/news/693528/intel-automotive-business-shutdown-layoffs)
- - [Sources: DeepSeek&#39;s highly anticipated R2 model faces delays due to a shortage of Nvidia server chips in China, exacerbated by the US ban of Nvidia&#39;s H20 chips &lpar;The Information&rpar;](http://www.techmeme.com/250626/p20#a250626p20)
- - [Marc Benioff says &quot;AI is doing 30% to 50% of the work at Salesforce now&quot;, including software engineering and customer service &lpar;Bloomberg&rpar;](http://www.techmeme.com/250626/p19#a250626p19)<!-- TECH:END -->
+ - [Kraken launches Krak, a payments app that lets users send funds P2P across 110 countries using 300+ assets, including crypto, stablecoins, and fiat currencies &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/250626/p21#a250626p21)
+ - [Improve Your Mood and Feel Happier With These 7 Simple Daily Habits](https://www.cnet.com/health/mental/lead-a-happier-life-with-these-7-simple-daily-habits/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

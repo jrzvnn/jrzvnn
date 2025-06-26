@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Alien recounts the horrors of fighting humans.](http://9gag.com/gag/aLndV6v)
+ - 😝 [Considering the paradox of progress and work.](http://9gag.com/gag/aMVO6qA)
  - 😝 [The daily struggle is real](http://9gag.com/gag/axyYeqb)
  - 💣 [Butt!](http://9gag.com/gag/a87KXbY)
  - 😝 [That feeling when you open a text and the energy just isn&#39;t there to reply right away.](http://9gag.com/gag/aByOM22)
- - 👉 [This rage comic turns 17 this year. Bro\u2026 we\u2019re ancient.](http://9gag.com/gag/aMVO6yP)<!-- MEMES:END -->
+ - 👉 [Mastering the art of the public air biscuit](http://9gag.com/gag/aVvV4WK)<!-- MEMES:END -->
 
 ---
 

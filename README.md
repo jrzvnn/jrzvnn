@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese automaker Geely&#39;s ride-hailing arm CaoCao raised $236M in a Hong Kong IPO, listing 19% below its offer price; its market cap was $2.42B as of Wednesday &lpar;Kensaku Ihara/Nikkei Asia&rpar;](http://www.techmeme.com/250626/p2#a250626p2)
  - [Sources: Meta has poached three OpenAI researchers, Lucas Beyer, Alexander Kolesnikov, and Xiaohua Zhai, for its superintelligence efforts &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/250626/p1#a250626p1)
  - [US senators reintroduce the bipartisan Open App Markets Act to challenge Apple&#39;s and Google&#39;s grip on app stores; the 2021 version never made it to a floor vote &lpar;Amber Neely/AppleInsider&rpar;](http://www.techmeme.com/250625/p39#a250625p39)
  - [A group of authors sue Microsoft in a NY federal court, claiming the company used nearly 200,000 pirated books without permission to train its Megatron AI model &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/250625/p38#a250625p38)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, June 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-june-26/#ftag=CAD590a51e)
- - [Supercell makes Brawl Stars available on WeChat and says Clash Royale is &quot;currently being developed&quot; for a September launch on the WeChat mini-game platform &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250625/p37#a250625p37)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, June 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-june-26/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

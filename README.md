@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Indonesia changes rules to require e-commerce platforms like TikTok Shop to withhold income tax from sellers, instead of asking sellers to pay the government &lpar;Grace Sihombing/Bloomberg&rpar;](http://www.techmeme.com/250626/p17#a250626p17)
  - [Texas Lawmakers Want More Control of the Tesla Robotaxis on Their Roads](https://www.wired.com/story/texas-lawmakers-control-of-tesla-robotaxis/)
  - [Latest iPhone Fold rumor revises dimensions, details camera system](https://appleinsider.com/articles/25/06/26/latest-iphone-fold-rumor-revises-dimensions-details-camera-system?utm_medium=rss)
  - [A look at Zhipu AI, the China-backed startup offering AI tools to governments globally, as OpenAI says Zhipu is on the &quot;front line&quot; of the global AI race &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250626/p16#a250626p16)
- - [This real estate sale is literally betting the farm on Steve Jobs&#39;s fame](https://appleinsider.com/articles/25/06/24/this-real-estate-sale-is-literally-betting-the-farm-on-steve-jobss-fame?utm_medium=rss)
- - [Trump Organization scrubs the Trump Mobile site of language indicating the T1 Phone phone is to be made in the US, now says it is &quot;brought to life&quot; in the US &lpar;Anthony Robledo/USA Today&rpar;](http://www.techmeme.com/250626/p15#a250626p15)<!-- TECH:END -->
+ - [This real estate sale is literally betting the farm on Steve Jobs&#39;s fame](https://appleinsider.com/articles/25/06/24/this-real-estate-sale-is-literally-betting-the-farm-on-steve-jobss-fame?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

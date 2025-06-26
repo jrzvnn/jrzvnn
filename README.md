@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)
- - 😝 [Time comes for everyone, eventually.](http://9gag.com/gag/a1mEq46)
- - 💣 [The comment section delivers again.](http://9gag.com/gag/aqyYpOj)
- - 😝 [This is what happens in Germany if you publicly display happiness](http://9gag.com/gag/a5Qqvpg)
- - 👉 [No translation needed](http://9gag.com/gag/ae97PpO)<!-- MEMES:END -->
+ - 😝 [A loooot of work. I did it only one time. Works.](http://9gag.com/gag/aW4De06)
+ - 😝 [Grandma&#39;s a killer](http://9gag.com/gag/aGyOoX0)
+ - 💣 [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)
+ - 😝 [Sustainability is for the little people](http://9gag.com/gag/axyYQz2)
+ - 👉 [Alien recounts the horrors of fighting humans.](http://9gag.com/gag/aLndV6v)<!-- MEMES:END -->
 
 ---
 

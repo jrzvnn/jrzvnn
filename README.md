@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The collapse of the bridge in China](http://9gag.com/gag/aD2ONzK)
- - 😝 [Playtime got a little too rough](http://9gag.com/gag/agmEZo1)
- - 💣 [WTF, Donal Trump just posted this video with this song](http://9gag.com/gag/aMVODEP)
- - 😝 [This is Juliana Marins before she fell. Thick fog hinders the SAR](http://9gag.com/gag/a5QqyWo)
- - 👉 [The world needs more bosses like him](http://9gag.com/gag/a1mEnj6)<!-- MEMES:END -->
+ - 😝 [Rapid unboxing](http://9gag.com/gag/agmEZbK)
+ - 😝 [Women](http://9gag.com/gag/a34beyQ)
+ - 💣 [Well it worked\u2026](http://9gag.com/gag/amopKZy)
+ - 😝 [She does it all!!!](http://9gag.com/gag/amopQX2)
+ - 👉 [WTF, Donal Trump just posted this video with this song](http://9gag.com/gag/aMVODEP)<!-- MEMES:END -->
 
 ---
 

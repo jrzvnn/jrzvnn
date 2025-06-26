@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Comcast is simplifying its Xfinity internet plans and dropping data caps](https://www.theverge.com/news/693762/comcast-xfinity-internet-plans-unlimited-data-caps)
+ - [J.P. Morgan trims Apple stock target to $230 citing iPhone &amp; Services weaknesses](https://appleinsider.com/articles/25/06/26/jp-morgan-trims-apple-stock-target-to-230-citing-iphone-services-weaknesses?utm_medium=rss)
  - [Sources: Meta is in advanced talks to buy PlayAI, which uses AI to replicate voices for interfaces that are as &quot;responsive as a conversation between two people&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250626/p32#a250626p32)
  - [Disney Just Threw a Punch in a Major AI Fight](https://www.wired.com/story/uncanny-valley-podcast-disney-just-threw-a-punch-in-a-major-ai-fight/)
- - [Gemini is getting ready to replace Google Assistant on Android](https://www.theverge.com/news/693719/google-gemini-android-update-apps-activity)
- - [Internal emails: ICE is using Mobile Fortify, an app that uses facial recognition and fingerprint scanning via phone cameras to identify people in the field &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/250626/p31#a250626p31)
- - [The creator of the Delta emulator made a Game Boy Camera-style app for your iPhone](https://www.theverge.com/news/693718/delta-game-boy-camera-app-iphone-emulator)<!-- TECH:END -->
+ - [Gemini is getting ready to replace Google Assistant on Android](https://www.theverge.com/news/693719/google-gemini-android-update-apps-activity)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

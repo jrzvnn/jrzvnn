@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Trump Phone Is Already a Lot Different From Last Week](https://www.wired.com/story/the-trump-phone-is-already-a-lot-different-from-last-week/)
- - [Samsung announces 2025 monitors with preorder discounts of up to $300 off](https://appleinsider.com/articles/25/06/26/samsung-announces-2025-monitors-with-preorder-discounts-of-up-to-300-off?utm_medium=rss)
- - [UAE-based Aqua 1 Foundation buys $100M worth of tokens from Trump&#39;s World Liberty Financial, becoming its largest individual investor ahead of Justin Sun &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/250626/p24#a250626p24)
- - [5 Best Google Assistant Speakers &lpar;2025&rpar;: Speakers, Displays, Soundbars](https://www.wired.com/gallery/best-google-speakers-buying-guide/)
- - [The 8 Best Home Arcade Machines &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-home-arcade-machines/)<!-- TECH:END -->
+ - [The pharma CEOs aren&amp;#8217;t safe in new trailer for Yorgos Lanthimos&amp;#8217; Bugonia](https://www.theverge.com/film/693606/bugonia-yorgos-lanthimos-trailer-premiere-date)
+ - [YouTube search gets its own version of Google&amp;#8217;s AI Overviews](https://www.theverge.com/news/693658/youtube-search-ai-overviews-google)
+ - [Apple celebrates 20 years of podcasts with a list of fan favorites](https://appleinsider.com/articles/25/06/26/apple-celebrates-20-years-of-podcasts-with-a-list-of-fan-favorites?utm_medium=rss)
+ - [Now Google&amp;#8217;s Gemini AI is ready to fill in those empty cells in your spreadsheet](https://www.theverge.com/news/693629/google-gemini-sheets-empty-cells-ai-function)
+ - [7 Best Outdoor Lights &lpar;2025&rpar;, Including Solar Lights](https://www.wired.com/gallery/best-outdoor-lights/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

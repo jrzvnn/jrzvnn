@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Burn the witch](http://9gag.com/gag/aE0OjGG)
- - 😝 [From my Collection 027](http://9gag.com/gag/aLndbV5)
- - 💣 [Locksmith breaks into houses and breaks hearts](http://9gag.com/gag/a87Kn3d)
- - 😝 [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)
- - 👉 [Time comes for everyone, eventually.](http://9gag.com/gag/a1mEq46)<!-- MEMES:END -->
+ - 😝 [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)
+ - 😝 [The floor is lava](http://9gag.com/gag/a6ZjeoL)
+ - 💣 [Time comes for everyone, eventually.](http://9gag.com/gag/a1mEq46)
+ - 😝 [When your false claim backfires spectacularly](http://9gag.com/gag/amopOg2)
+ - 👉 [145 people &lpar;mostly white french girls&rpar; were pricked with needles with unknown substance in France during a nationwide music festival over the weekend.](http://9gag.com/gag/ajPWdxw)<!-- MEMES:END -->
 
 ---
 

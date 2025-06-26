@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Zhipu AI, the China-backed startup offering AI tools to governments globally, as OpenAI says Zhipu is on the &quot;front line&quot; of the global AI race &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250626/p16#a250626p16)
  - [This real estate sale is literally betting the farm on Steve Jobs&#39;s fame](https://appleinsider.com/articles/25/06/24/this-real-estate-sale-is-literally-betting-the-farm-on-steve-jobss-fame?utm_medium=rss)
  - [Trump Organization scrubs the Trump Mobile site of language indicating the T1 Phone phone is to be made in the US, now says it is &quot;brought to life&quot; in the US &lpar;Anthony Robledo/USA Today&rpar;](http://www.techmeme.com/250626/p15#a250626p15)
  - [EU competition chief Teresa Ribera rejects claims DMA enforcement could be traded to avoid Trump&#39;s tariffs, and urges mutual respect for each side&#39;s regulations &lpar;Bloomberg&rpar;](http://www.techmeme.com/250626/p14#a250626p14)
- - [My Couples Retreat With 3 AI Chatbots and the Humans Who Love Them](https://www.wired.com/story/couples-retreat-with-3-ai-chatbots-and-humans-who-love-them-replika-nomi-chatgpt/)
- - [Anthropic releases preliminary results showing users who discuss emotional issues with Claude tend to grow more positive as conversations progress &lpar;Megan Morrone/Axios&rpar;](http://www.techmeme.com/250626/p13#a250626p13)<!-- TECH:END -->
+ - [This $1,299 Robot Dog Plays Soccer, Dances and Can &#39;Evolve&#39; With AI](https://www.cnet.com/tech/mobile/this-1299-robot-dog-plays-soccer-dances-and-can-evolve-with-ai/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

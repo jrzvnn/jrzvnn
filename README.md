@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gemini is getting ready to replace Google Assistant on Android](https://www.theverge.com/news/693719/google-gemini-android-update-apps-activity)
  - [Internal emails: ICE is using Mobile Fortify, an app that uses facial recognition and fingerprint scanning via phone cameras to identify people in the field &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/250626/p31#a250626p31)
  - [The creator of the Delta emulator made a Game Boy Camera-style app for your iPhone](https://www.theverge.com/news/693718/delta-game-boy-camera-app-iphone-emulator)
  - [Latest iPhone Fold rumor revises dimensions, details camera system](https://appleinsider.com/articles/25/06/26/latest-iphone-fold-rumor-revises-dimensions-details-camera-system?utm_medium=rss)
- - [Trump Mobile drops false &#39;made in America&#39; promise](https://appleinsider.com/articles/25/06/25/trump-mobile-drops-false-made-in-america-promise?utm_medium=rss)
- - [The Nintendo Switch 2 webcam compatibility mystery is solved and updates are on the way](https://www.theverge.com/report/693182/nintendo-switch-2-webcam-mystery-1080p-480p-uvc-iso-bulk-ugreen-elgato)<!-- TECH:END -->
+ - [Trump Mobile drops false &#39;made in America&#39; promise](https://appleinsider.com/articles/25/06/25/trump-mobile-drops-false-made-in-america-promise?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

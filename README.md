@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Rapid unboxing](http://9gag.com/gag/agmEZbK)
+ - 😝 [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)
+ - 💣 [A MTV video from the 90&#39;s](http://9gag.com/gag/aKGONDZ)
  - 😝 [This is Juliana Marins before she fell. Thick fog hinders the SAR](http://9gag.com/gag/a5QqyWo)
- - 😝 [They should have tried confidence](http://9gag.com/gag/aE0Oyeo)
- - 💣 [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)
- - 😝 [No translation needed](http://9gag.com/gag/ae97PpO)
- - 👉 [She does it all!!!](http://9gag.com/gag/amopQX2)<!-- MEMES:END -->
+ - 👉 [The world needs more bosses like him](http://9gag.com/gag/a1mEnj6)<!-- MEMES:END -->
 
 ---
 

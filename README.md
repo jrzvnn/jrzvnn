@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rapid unboxing](http://9gag.com/gag/agmEZbK)
- - 😝 [Women](http://9gag.com/gag/a34beyQ)
- - 💣 [Well it worked\u2026](http://9gag.com/gag/amopKZy)
- - 😝 [She does it all!!!](http://9gag.com/gag/amopQX2)
- - 👉 [WTF, Donal Trump just posted this video with this song](http://9gag.com/gag/aMVODEP)<!-- MEMES:END -->
+ - 😝 [Understandable](http://9gag.com/gag/abAQKPB)
+ - 😝 [That feeling when you open a text and the energy just isn&#39;t there to reply right away.](http://9gag.com/gag/aByOM22)
+ - 💣 [Considering the paradox of progress and work.](http://9gag.com/gag/aMVO6qA)
+ - 😝 [Prank the Boss](http://9gag.com/gag/aqyYO2Y)
+ - 👉 [She does it all!!!](http://9gag.com/gag/amopQX2)<!-- MEMES:END -->
 
 ---
 

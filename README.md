@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 17 Air might break from the lineup with new camera position](https://appleinsider.com/articles/25/06/26/iphone-17-air-might-break-from-the-lineup-with-new-camera-position?utm_medium=rss)
  - [Microsoft&amp;#8217;s Xbox PC launcher gets going with Steam, Epic, and other games showing up](https://www.theverge.com/hands-on/693772/xbox-app-windows-steam-games-integration-epic-games-battle-net)
  - [The Xbox 360 dashboard just got updated&amp;#8230; to advertise newer Xboxes](https://www.theverge.com/news/693631/microsoft-xbox-360-dashboard-software-update-ads)
  - [Sources: Senate Parliamentarian raised concerns that the tax bill&#39;s ban on states from enforcing AI regulations may violate Senate rules, advising a rewrite &lpar;Bloomberg&rpar;](http://www.techmeme.com/250626/p33#a250626p33)
- - [Comcast is simplifying its Xfinity internet plans and dropping data caps](https://www.theverge.com/news/693762/comcast-xfinity-internet-plans-unlimited-data-caps)
- - [J.P. Morgan trims Apple stock target to $230 citing iPhone &amp; Services weaknesses](https://appleinsider.com/articles/25/06/26/jp-morgan-trims-apple-stock-target-to-230-citing-iphone-services-weaknesses?utm_medium=rss)<!-- TECH:END -->
+ - [Our Group Text Will Send the Hottest July 4th and Prime Day Deals Directly to Your Phone](https://www.cnet.com/tech/services-and-software/cnet-daily-text-group/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

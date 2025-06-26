@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sandra Bullock serving 90s cool.](http://9gag.com/gag/aPA1V5R)
- - 😝 [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)
- - 💣 [The world needs more bosses like him](http://9gag.com/gag/a1mEnj6)
- - 😝 [Ultimate camper](http://9gag.com/gag/aMVODGG)
- - 👉 [Quick reflexes save the day in a close call on the road](http://9gag.com/gag/a34bpy3)<!-- MEMES:END -->
+ - 😝 [This is Juliana Marins before she fell. Thick fog hinders the SAR](http://9gag.com/gag/a5QqyWo)
+ - 😝 [They should have tried confidence](http://9gag.com/gag/aE0Oyeo)
+ - 💣 [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)
+ - 😝 [No translation needed](http://9gag.com/gag/ae97PpO)
+ - 👉 [She does it all!!!](http://9gag.com/gag/amopQX2)<!-- MEMES:END -->
 
 ---
 

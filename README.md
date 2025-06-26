@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple overhauls EU App Store rules following penalty](https://www.theverge.com/news/693512/apple-eu-dma-app-store-concessions)
  - [Swift, a coding language developed by Apple, is working to add Android support; Android apps are generally coded in Kotlin &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250626/p38#a250626p38)
- - [Sources: Instagram and TikTok are working on versions of their apps customized to run on TV screens, following YouTube&#39;s success in attracting a TV audience &lpar;The Information&rpar;](http://www.techmeme.com/250626/p37#a250626p37)
- - [Ember’s temperature-controlled smart mug is down to its best price](https://www.theverge.com/tech/693864/ember-mug-2-amazon-best-buy-deal-sale)
- - [Apple overhauls EU App Store to comply with DMA: developers can push offers and alt payments, and the Core Technology Fee will be swapped for tiered commission &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250626/p36#a250626p36)
- - [Sources: Uber is in talks with Travis Kalanick to help fund his acquisition of Pony.ai&#39;s US arm; Pony.ai has permits to operate robo taxis in the US and China &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/250626/p35#a250626p35)<!-- TECH:END -->
+ - [Call of Duty Black Ops 6 Season 4 Reloaded Release Date Revealed](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-6-season-4-reloaded-release-date-revealed/#ftag=CAD590a51e)
+ - [Mortgage Rate Forecast Clouded by War Moves, Tariffs and the Federal Reserve](https://www.cnet.com/personal-finance/mortgages/mortgage-rate-forecast-clouded-by-war-moves-tariffs-and-the-federal-reserve/#ftag=CAD590a51e)
+ - [Sources: Instagram and TikTok are working on versions of their apps customized to run on TV screens, following YouTube&#39;s success in attracting a TV audience &lpar;The Information&rpar;](http://www.techmeme.com/250626/p37#a250626p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

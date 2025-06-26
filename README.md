@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google is rolling out its AI-powered &amp;#8216;Ask Photos&amp;#8217; search again – and it has a speed boost](https://www.theverge.com/news/694016/google-ask-photos-ai-gemini-search-speed-latency-boost)
+ - [Sources: UK mobile bank Starling is looking to buy a nationally chartered bank with ~$2B of assets in the US as it seeks to expand in the country &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250626/p41#a250626p41)
+ - [Resident Evil 9: Why Isn&#39;t Leon Returning? Because Capcom Wants You to Feel the Horror](https://www.cnet.com/tech/gaming/resident-evil-9-why-isnt-leon-returning-because-capcom-wants-you-to-feel-the-horror/#ftag=CAD590a51e)
  - [New Zealand-based Halter, which provides smart collars and geofencing software for the dairy industry, raised a $100M Series D led by Bond at a $1B valuation &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/250626/p40#a250626p40)
- - [AirPods Pro 3 possibly referenced in updated codebase](https://appleinsider.com/articles/25/06/26/airpods-pro-3-possibly-referenced-in-updated-codebase?utm_medium=rss)
- - [‘Big Balls’ Is Now at the Social Security Administration](https://www.wired.com/story/big-balls-social-security-administration/)
- - [A look at The Browser Company&#39;s AI-first browser Dia, which merges AI models and hides that complexity for end users, pointing to the future of web browsing &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/250626/p39#a250626p39)
- - [How to Watch Red Bull Salzburg vs. Real Madrid Anywhere Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-red-bull-salzburg-vs-real-madrid-anywhere-for-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AirPods Pro 3 possibly referenced in updated codebase](https://appleinsider.com/articles/25/06/26/airpods-pro-3-possibly-referenced-in-updated-codebase?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

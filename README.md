@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your false claim backfires spectacularly](http://9gag.com/gag/amopOg2)
- - 😝 [Time comes for everyone, eventually.](http://9gag.com/gag/a1mEq46)
+ - 😝 [A loooot of work. I did it only one time. Works.](http://9gag.com/gag/aW4De06)
+ - 😝 [Grandma&#39;s a killer](http://9gag.com/gag/aGyOoX0)
  - 💣 [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)
- - 😝 [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)
- - 👉 [Ultimate camper](http://9gag.com/gag/aMVODGG)<!-- MEMES:END -->
+ - 😝 [Sustainability is for the little people](http://9gag.com/gag/axyYQz2)
+ - 👉 [Alien recounts the horrors of fighting humans.](http://9gag.com/gag/aLndV6v)<!-- MEMES:END -->
 
 ---
 

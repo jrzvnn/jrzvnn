@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Trump Phone Is Already a Lot Different From Last Week](https://www.wired.com/story/the-trump-phone-is-already-a-lot-different-from-last-week/)
  - [Samsung announces 2025 monitors with preorder discounts of up to $300 off](https://appleinsider.com/articles/25/06/26/samsung-announces-2025-monitors-with-preorder-discounts-of-up-to-300-off?utm_medium=rss)
  - [UAE-based Aqua 1 Foundation buys $100M worth of tokens from Trump&#39;s World Liberty Financial, becoming its largest individual investor ahead of Justin Sun &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/250626/p24#a250626p24)
  - [5 Best Google Assistant Speakers &lpar;2025&rpar;: Speakers, Displays, Soundbars](https://www.wired.com/gallery/best-google-speakers-buying-guide/)
- - [The 8 Best Home Arcade Machines &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-home-arcade-machines/)
- - [Insta360’s new $110 Flow 2 gimbal sacrifices some useful pro features](https://www.theverge.com/news/693565/insta360-flow-2-smartphone-gimbal-ai-deep-track-stabilized)<!-- TECH:END -->
+ - [The 8 Best Home Arcade Machines &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-home-arcade-machines/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The comment section delivers again.](http://9gag.com/gag/aqyYpOj)
- - 😝 [Well it worked\u2026](http://9gag.com/gag/amopKZy)
- - 💣 [The world needs more bosses like him](http://9gag.com/gag/a1mEnj6)
+ - 😝 [Sandra Bullock serving 90s cool.](http://9gag.com/gag/aPA1V5R)
  - 😝 [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)
- - 👉 [This is what happens in Germany if you publicly display happiness](http://9gag.com/gag/a5Qqvpg)<!-- MEMES:END -->
+ - 💣 [The world needs more bosses like him](http://9gag.com/gag/a1mEnj6)
+ - 😝 [Ultimate camper](http://9gag.com/gag/aMVODGG)
+ - 👉 [Quick reflexes save the day in a close call on the road](http://9gag.com/gag/a34bpy3)<!-- MEMES:END -->
 
 ---
 

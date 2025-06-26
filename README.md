@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)
- - 😝 [The floor is lava](http://9gag.com/gag/a6ZjeoL)
- - 💣 [Time comes for everyone, eventually.](http://9gag.com/gag/a1mEq46)
- - 😝 [When your false claim backfires spectacularly](http://9gag.com/gag/amopOg2)
- - 👉 [145 people &lpar;mostly white french girls&rpar; were pricked with needles with unknown substance in France during a nationwide music festival over the weekend.](http://9gag.com/gag/ajPWdxw)<!-- MEMES:END -->
+ - 😝 [No translation needed](http://9gag.com/gag/ae97PpO)
+ - 😝 [Locksmith breaks into houses and breaks hearts](http://9gag.com/gag/a87Kn3d)
+ - 💣 [That day he was a marine biologist-dentist](http://9gag.com/gag/azxYDVx)
+ - 😝 [Time comes for everyone, eventually.](http://9gag.com/gag/a1mEq46)
+ - 👉 [This is what happens in Germany if you publicly display happiness](http://9gag.com/gag/a5Qqvpg)<!-- MEMES:END -->
 
 ---
 

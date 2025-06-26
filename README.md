@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is what happens in Germany if you publicly display happiness](http://9gag.com/gag/a5Qqvpg)
- - 😝 [The comment section delivers again.](http://9gag.com/gag/aqyYpOj)
- - 💣 [On street parking](http://9gag.com/gag/aD2O9dN)
- - 😝 [The world needs more bosses like him](http://9gag.com/gag/a1mEnj6)
- - 👉 [Some designs are just timelessly perfect.](http://9gag.com/gag/aAyOLXE)<!-- MEMES:END -->
+ - 😝 [Playtime got a little too rough](http://9gag.com/gag/agmEZo1)
+ - 😝 [Women](http://9gag.com/gag/a34beyQ)
+ - 💣 [Time comes for everyone, eventually.](http://9gag.com/gag/a1mEq46)
+ - 😝 [Somebody is getting fired\u2026.](http://9gag.com/gag/aW4DynK)
+ - 👉 [Argentine women&#39;s hockey team](http://9gag.com/gag/awyY9nr)<!-- MEMES:END -->
 
 ---
 

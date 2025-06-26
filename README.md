@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple overhauls EU App Store to comply with DMA: developers can push offers and alt payments, and the Core Technology Fee will be swapped for tiered commission &lpar;Anupriya Datta/Euractiv&rpar;](http://www.techmeme.com/250626/p34#a250626p34)
+ - [Apple again tries to cut third party app fees to avoid EU fines](https://appleinsider.com/articles/25/06/26/apple-again-tries-to-cut-third-party-app-fees-to-avoid-eu-fines?utm_medium=rss)
  - [iPhone 17 Air might break from the lineup with new camera position](https://appleinsider.com/articles/25/06/26/iphone-17-air-might-break-from-the-lineup-with-new-camera-position?utm_medium=rss)
  - [Microsoft&amp;#8217;s Xbox PC launcher gets going with Steam, Epic, and other games showing up](https://www.theverge.com/hands-on/693772/xbox-app-windows-steam-games-integration-epic-games-battle-net)
- - [The Xbox 360 dashboard just got updated&amp;#8230; to advertise newer Xboxes](https://www.theverge.com/news/693631/microsoft-xbox-360-dashboard-software-update-ads)
- - [Sources: Senate Parliamentarian raised concerns that the tax bill&#39;s ban on states from enforcing AI regulations may violate Senate rules, advising a rewrite &lpar;Bloomberg&rpar;](http://www.techmeme.com/250626/p33#a250626p33)
- - [Our Group Text Will Send the Hottest July 4th and Prime Day Deals Directly to Your Phone](https://www.cnet.com/tech/services-and-software/cnet-daily-text-group/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Xbox 360 dashboard just got updated&amp;#8230; to advertise newer Xboxes](https://www.theverge.com/news/693631/microsoft-xbox-360-dashboard-software-update-ads)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

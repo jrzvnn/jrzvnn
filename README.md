@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Watch a T-cell take on a cancer cell in this microscopic battle.](http://9gag.com/gag/ajPWdqp)
- - 😝 [Time comes for everyone, eventually.](http://9gag.com/gag/a1mEq46)
- - 💣 [A MTV video from the 90&#39;s](http://9gag.com/gag/aKGONDZ)
  - 😝 [Monkey](http://9gag.com/gag/a0eMxed)
- - 👉 [He really is a hero](http://9gag.com/gag/amopdzv)<!-- MEMES:END -->
+ - 😝 [Butt!](http://9gag.com/gag/a87KXbY)
+ - 💣 [Locksmith breaks into houses and breaks hearts](http://9gag.com/gag/a87Kn3d)
+ - 😝 [That day he was a marine biologist-dentist](http://9gag.com/gag/azxYDVx)
+ - 👉 [Ultimate camper](http://9gag.com/gag/aMVODGG)<!-- MEMES:END -->
 
 ---
 

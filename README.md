@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Argentine women&#39;s hockey team](http://9gag.com/gag/awyY9nr)
+ - 😝 [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)
  - 😝 [Red Flags Already](http://9gag.com/gag/axyYQ6W)
  - 💣 [Time comes for everyone, eventually.](http://9gag.com/gag/a1mEq46)
- - 😝 [Women](http://9gag.com/gag/a34beyQ)
- - 👉 [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)<!-- MEMES:END -->
+ - 😝 [New fear unlocked &lpar;no pun intended&rpar;](http://9gag.com/gag/ajPWGG8)
+ - 👉 [When your false claim backfires spectacularly](http://9gag.com/gag/amopOg2)<!-- MEMES:END -->
 
 ---
 

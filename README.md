@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Understandable](http://9gag.com/gag/abAQKPB)
- - 😝 [That feeling when you open a text and the energy just isn&#39;t there to reply right away.](http://9gag.com/gag/aByOM22)
- - 💣 [Considering the paradox of progress and work.](http://9gag.com/gag/aMVO6qA)
- - 😝 [Prank the Boss](http://9gag.com/gag/aqyYO2Y)
- - 👉 [She does it all!!!](http://9gag.com/gag/amopQX2)<!-- MEMES:END -->
+ - 😝 [This is what happens in Germany if you publicly display happiness](http://9gag.com/gag/a5Qqvpg)
+ - 😝 [The comment section delivers again.](http://9gag.com/gag/aqyYpOj)
+ - 💣 [On street parking](http://9gag.com/gag/aD2O9dN)
+ - 😝 [The world needs more bosses like him](http://9gag.com/gag/a1mEnj6)
+ - 👉 [Some designs are just timelessly perfect.](http://9gag.com/gag/aAyOLXE)<!-- MEMES:END -->
 
 ---
 

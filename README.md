@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A loooot of work. I did it only one time. Works.](http://9gag.com/gag/aW4De06)
- - 😝 [Grandma&#39;s a killer](http://9gag.com/gag/aGyOoX0)
- - 💣 [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)
- - 😝 [Sustainability is for the little people](http://9gag.com/gag/axyYQz2)
- - 👉 [Alien recounts the horrors of fighting humans.](http://9gag.com/gag/aLndV6v)<!-- MEMES:END -->
+ - 😝 [Distracted walking has consequences.](http://9gag.com/gag/aZZzKZW)
+ - 😝 [The dogs and farmer bravely defend the sheep from a bear.](http://9gag.com/gag/an7rW0E)
+ - 💣 [Some designs are just timelessly perfect.](http://9gag.com/gag/aAyOLXE)
+ - 😝 [Red Flags Already](http://9gag.com/gag/axyYQ6W)
+ - 👉 [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)<!-- MEMES:END -->
 
 ---
 

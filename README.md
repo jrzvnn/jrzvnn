@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No translation needed](http://9gag.com/gag/ae97PpO)
- - 😝 [Locksmith breaks into houses and breaks hearts](http://9gag.com/gag/a87Kn3d)
- - 💣 [That day he was a marine biologist-dentist](http://9gag.com/gag/azxYDVx)
- - 😝 [Time comes for everyone, eventually.](http://9gag.com/gag/a1mEq46)
+ - 😝 [That day he was a marine biologist-dentist](http://9gag.com/gag/azxYDVx)
+ - 😝 [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)
+ - 💣 [Red Flags Already](http://9gag.com/gag/axyYQ6W)
+ - 😝 [When your false claim backfires spectacularly](http://9gag.com/gag/amopOg2)
  - 👉 [This is what happens in Germany if you publicly display happiness](http://9gag.com/gag/a5Qqvpg)<!-- MEMES:END -->
 
 ---

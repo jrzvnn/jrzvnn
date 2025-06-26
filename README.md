@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [10 Perks Prime Members Can Snag Before Prime Day &lpar;2025&rpar;](https://www.wired.com/story/amazon-prime-day-credits-2025/)
+ - [Tovala Meal Kit and Oven Review &lpar;2025&rpar;: We&#39;re Nearing Robot Chef](https://www.wired.com/review/tovala-meal-lit-and-smart-oven-pro/)
+ - [AI is ruining houseplant communities online](https://www.theverge.com/ai-artificial-intelligence/691355/ai-is-ruining-houseplant-communities-online)
  - [Indonesia changes rules to require e-commerce platforms like TikTok Shop to withhold income tax from sellers, instead of asking sellers to pay the government &lpar;Grace Sihombing/Bloomberg&rpar;](http://www.techmeme.com/250626/p17#a250626p17)
- - [Texas Lawmakers Want More Control of the Tesla Robotaxis on Their Roads](https://www.wired.com/story/texas-lawmakers-control-of-tesla-robotaxis/)
- - [Latest iPhone Fold rumor revises dimensions, details camera system](https://appleinsider.com/articles/25/06/26/latest-iphone-fold-rumor-revises-dimensions-details-camera-system?utm_medium=rss)
- - [A look at Zhipu AI, the China-backed startup offering AI tools to governments globally, as OpenAI says Zhipu is on the &quot;front line&quot; of the global AI race &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250626/p16#a250626p16)
- - [This real estate sale is literally betting the farm on Steve Jobs&#39;s fame](https://appleinsider.com/articles/25/06/24/this-real-estate-sale-is-literally-betting-the-farm-on-steve-jobss-fame?utm_medium=rss)<!-- TECH:END -->
+ - [Texas Lawmakers Want More Control of the Tesla Robotaxis on Their Roads](https://www.wired.com/story/texas-lawmakers-control-of-tesla-robotaxis/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

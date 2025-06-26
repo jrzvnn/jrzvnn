@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Marvel...or not Marvel](http://9gag.com/gag/aVvV822)
- - 😝 [When your false claim backfires spectacularly](http://9gag.com/gag/amopOg2)
- - 💣 [This is what happens in Germany if you publicly display happiness](http://9gag.com/gag/a5Qqvpg)
+ - 😝 [The comment section delivers again.](http://9gag.com/gag/aqyYpOj)
+ - 😝 [Quick reflexes save the day in a close call on the road](http://9gag.com/gag/a34bpy3)
+ - 💣 [Ultimate camper](http://9gag.com/gag/aMVODGG)
  - 😝 [Women](http://9gag.com/gag/a34beyQ)
- - 👉 [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)<!-- MEMES:END -->
+ - 👉 [This is what happens in Germany if you publicly display happiness](http://9gag.com/gag/a5Qqvpg)<!-- MEMES:END -->
 
 ---
 

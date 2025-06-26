@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Monkey](http://9gag.com/gag/a0eMxed)
- - 😝 [Butt!](http://9gag.com/gag/a87KXbY)
- - 💣 [Locksmith breaks into houses and breaks hearts](http://9gag.com/gag/a87Kn3d)
- - 😝 [That day he was a marine biologist-dentist](http://9gag.com/gag/azxYDVx)
- - 👉 [Ultimate camper](http://9gag.com/gag/aMVODGG)<!-- MEMES:END -->
+ - 😝 [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)
+ - 😝 [Time comes for everyone, eventually.](http://9gag.com/gag/a1mEq46)
+ - 💣 [Ultimate camper](http://9gag.com/gag/aMVODGG)
+ - 😝 [This is what happens in Germany if you publicly display happiness](http://9gag.com/gag/a5Qqvpg)
+ - 👉 [The comment section delivers again.](http://9gag.com/gag/aqyYpOj)<!-- MEMES:END -->
 
 ---
 

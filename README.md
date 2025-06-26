@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple overhauls EU App Store rules following penalty](https://www.theverge.com/news/693512/apple-eu-dma-app-store-concessions)
- - [Swift, a coding language developed by Apple, is working to add Android support; Android apps are generally coded in Kotlin &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250626/p38#a250626p38)
- - [Call of Duty Black Ops 6 Season 4 Reloaded Release Date Revealed](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-6-season-4-reloaded-release-date-revealed/#ftag=CAD590a51e)
- - [Mortgage Rate Forecast Clouded by War Moves, Tariffs and the Federal Reserve](https://www.cnet.com/personal-finance/mortgages/mortgage-rate-forecast-clouded-by-war-moves-tariffs-and-the-federal-reserve/#ftag=CAD590a51e)
- - [Sources: Instagram and TikTok are working on versions of their apps customized to run on TV screens, following YouTube&#39;s success in attracting a TV audience &lpar;The Information&rpar;](http://www.techmeme.com/250626/p37#a250626p37)<!-- TECH:END -->
+ - [A look at The Browser Company&#39;s AI-first browser Dia, which merges AI models and hides that complexity for end users, pointing to the future of web browsing &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/250626/p39#a250626p39)
+ - [Patent troll lawsuit against Apple &amp; Qualcomm will remain in Texas](https://appleinsider.com/articles/25/06/26/patent-troll-lawsuit-against-apple-qualcomm-will-remain-in-texas?utm_medium=rss)
+ - [You&#39;ve Probably Hit Your Protein Goal: Here&#39;s What Experts Think You Need Instead](https://www.cnet.com/health/nutrition/youve-probably-hit-your-protein-goal-heres-what-experts-think-you-need-instead/#ftag=CAD590a51e)
+ - [Microsoft Officially Retires &#39;Blue Screen of Death&#39; After 40 Frowny-Face Years](https://www.cnet.com/tech/services-and-software/microsoft-officially-retires-blue-screen-of-death-after-40-frowny-face-years/#ftag=CAD590a51e)
+ - [Apple overhauls EU App Store rules following penalty](https://www.theverge.com/news/693512/apple-eu-dma-app-store-concessions)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

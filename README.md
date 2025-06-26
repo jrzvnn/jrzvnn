@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hisense’s latest smart air conditioner is on sale for just $249.99](https://www.theverge.com/tech/693622/hisense-window-air-conditioner-btuwc08w25a-sony-ult-field-1-speaker-deal-sale)
- - [Microsoft plans to replace the Blue Screen of Death in Windows 11 with a simplified black screen &quot;providing better information&quot; in an update &quot;later this summer&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250626/p30#a250626p30)
- - [A federal judge rejects a joint motion by Ripple Labs and the US SEC to approve a reduced $50M fine to settle a lawsuit over XRP sales, and chastises both sides &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250626/p29#a250626p29)
- - [Source: Meta has hired highly influential OpenAI researcher Trapit Bansal to work on its AI reasoning models under the company&#39;s new AI superintelligence unit &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250626/p28#a250626p28)
- - [Heybike Alpha review: Off-road eBike fun](https://appleinsider.com/articles/25/06/26/heybike-alpha-review-off-road-ebike-fun?utm_medium=rss)<!-- TECH:END -->
+ - [Internal emails: ICE is using Mobile Fortify, an app that uses facial recognition and fingerprint scanning via phone cameras to identify people in the field &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/250626/p31#a250626p31)
+ - [The creator of the Delta emulator made a Game Boy Camera-style app for your iPhone](https://www.theverge.com/news/693718/delta-game-boy-camera-app-iphone-emulator)
+ - [Latest iPhone Fold rumor revises dimensions, details camera system](https://appleinsider.com/articles/25/06/26/latest-iphone-fold-rumor-revises-dimensions-details-camera-system?utm_medium=rss)
+ - [Trump Mobile drops false &#39;made in America&#39; promise](https://appleinsider.com/articles/25/06/25/trump-mobile-drops-false-made-in-america-promise?utm_medium=rss)
+ - [The Nintendo Switch 2 webcam compatibility mystery is solved and updates are on the way](https://www.theverge.com/report/693182/nintendo-switch-2-webcam-mystery-1080p-480p-uvc-iso-bulk-ugreen-elgato)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic releases preliminary results showing users who discuss emotional issues with Claude tend to grow more positive as conversations progress &lpar;Megan Morrone/Axios&rpar;](http://www.techmeme.com/250626/p13#a250626p13)
  - [Amazon launches at-home diagnostic services in six Indian cities in partnership with Orange Health Labs, marking its entry into India&#39;s diagnostics market &lpar;Menaka Doshi/Bloomberg&rpar;](http://www.techmeme.com/250626/p12#a250626p12)
  - [Kraken secures a MiCA license from the Central Bank of Ireland to offer crypto services across the EU, following Coinbase&#39;s approval in Luxembourg last week &lpar;Callan Quinn/Decrypt&rpar;](http://www.techmeme.com/250626/p11#a250626p11)
  - [Aylo, owner of Pornhub, YouPorn, and RedTube, will add &quot;government approved age assurance methods&quot; in the UK by July 25 to comply with the Online Safety Act &lpar;BBC&rpar;](http://www.techmeme.com/250626/p10#a250626p10)
- - [How online fandom communities are advocating against AI, including protesting companies scraping fanfic content for AI training and opposing AI-generated fanfic &lpar;Decca Muldowney/The Verge&rpar;](http://www.techmeme.com/250626/p9#a250626p9)
- - [Sony says its PlayStation Plus three-tier overhaul has &quot;surpassed our expectations&quot; and that the $160/year Premium tier has grown 18% in the past 12 months &lpar;Stephen Totilo/Game File&rpar;](http://www.techmeme.com/250626/p8#a250626p8)<!-- TECH:END -->
+ - [How online fandom communities are advocating against AI, including protesting companies scraping fanfic content for AI training and opposing AI-generated fanfic &lpar;Decca Muldowney/The Verge&rpar;](http://www.techmeme.com/250626/p9#a250626p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

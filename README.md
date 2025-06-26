@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The pharma CEOs aren&amp;#8217;t safe in new trailer for Yorgos Lanthimos&amp;#8217; Bugonia](https://www.theverge.com/film/693606/bugonia-yorgos-lanthimos-trailer-premiere-date)
- - [YouTube search gets its own version of Google&amp;#8217;s AI Overviews](https://www.theverge.com/news/693658/youtube-search-ai-overviews-google)
- - [Apple celebrates 20 years of podcasts with a list of fan favorites](https://appleinsider.com/articles/25/06/26/apple-celebrates-20-years-of-podcasts-with-a-list-of-fan-favorites?utm_medium=rss)
- - [Now Google&amp;#8217;s Gemini AI is ready to fill in those empty cells in your spreadsheet](https://www.theverge.com/news/693629/google-gemini-sheets-empty-cells-ai-function)
- - [7 Best Outdoor Lights &lpar;2025&rpar;, Including Solar Lights](https://www.wired.com/gallery/best-outdoor-lights/)<!-- TECH:END -->
+ - [Source: Meta has hired highly influential OpenAI researcher Trapit Bansal to work on its AI reasoning models under the company&#39;s new AI superintelligence unit &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250626/p28#a250626p28)
+ - [Heybike Alpha review: Off-road eBike fun](https://appleinsider.com/articles/25/06/26/heybike-alpha-review-off-road-ebike-fun?utm_medium=rss)
+ - [Sources: CoreWeave is in talks to acquire bitcoin miner Core Scientific, which has a market value of ~$3.7B; Core Scientific rejected CoreWeave&#39;s bid in 2024 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250626/p27#a250626p27)
+ - [Amazon&#39;s VP of Generative AI Vasi Philomin left for another company; VP of Amazon Elastic Block Store Rajesh Sheth assumed some of Philomin&#39;s responsibilities &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/250626/p26#a250626p26)
+ - [As AI kills search traffic, Google launches Offerwall, a Google Ad Manager tool to help publishers generate revenue beyond ads, including via micropayments &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250626/p25#a250626p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

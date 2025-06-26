@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ultimate camper](http://9gag.com/gag/aMVODGG)
- - 😝 [The comment section delivers again.](http://9gag.com/gag/aqyYpOj)
- - 💣 [145 people &lpar;mostly white french girls&rpar; were pricked with needles with unknown substance in France during a nationwide music festival over the weekend.](http://9gag.com/gag/ajPWdxw)
- - 😝 [Well it worked\u2026](http://9gag.com/gag/amopKZy)
- - 👉 [An incredible story of a father&#39;s dedication and a long-awaited reunion after 24 years.](http://9gag.com/gag/aLndNLv)<!-- MEMES:END -->
+ - 😝 [Watch a T-cell take on a cancer cell in this microscopic battle.](http://9gag.com/gag/ajPWdqp)
+ - 😝 [Time comes for everyone, eventually.](http://9gag.com/gag/a1mEq46)
+ - 💣 [A MTV video from the 90&#39;s](http://9gag.com/gag/aKGONDZ)
+ - 😝 [Monkey](http://9gag.com/gag/a0eMxed)
+ - 👉 [He really is a hero](http://9gag.com/gag/amopdzv)<!-- MEMES:END -->
 
 ---
 

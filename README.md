@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Swift, a coding language developed by Apple, is working to add Android support; Android apps are generally coded in Kotlin &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250626/p38#a250626p38)
  - [Sources: Instagram and TikTok are working on versions of their apps customized to run on TV screens, following YouTube&#39;s success in attracting a TV audience &lpar;The Information&rpar;](http://www.techmeme.com/250626/p37#a250626p37)
  - [Ember’s temperature-controlled smart mug is down to its best price](https://www.theverge.com/tech/693864/ember-mug-2-amazon-best-buy-deal-sale)
  - [Apple overhauls EU App Store to comply with DMA: developers can push offers and alt payments, and the Core Technology Fee will be swapped for tiered commission &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250626/p36#a250626p36)
- - [Sources: Uber is in talks with Travis Kalanick to help fund his acquisition of Pony.ai&#39;s US arm; Pony.ai has permits to operate robo taxis in the US and China &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/250626/p35#a250626p35)
- - [Apple announces App Store changes to satisfy Brussels regulators &lpar;Anupriya Datta/Euractiv&rpar;](http://www.techmeme.com/250626/p34#a250626p34)<!-- TECH:END -->
+ - [Sources: Uber is in talks with Travis Kalanick to help fund his acquisition of Pony.ai&#39;s US arm; Pony.ai has permits to operate robo taxis in the US and China &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/250626/p35#a250626p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

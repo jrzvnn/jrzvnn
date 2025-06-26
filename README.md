@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Zealand-based Halter, which provides smart collars and geofencing software for the dairy industry, raised a $100M Series D led by Bond at a $1B valuation &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/250626/p40#a250626p40)
  - [AirPods Pro 3 possibly referenced in updated codebase](https://appleinsider.com/articles/25/06/26/airpods-pro-3-possibly-referenced-in-updated-codebase?utm_medium=rss)
  - [‘Big Balls’ Is Now at the Social Security Administration](https://www.wired.com/story/big-balls-social-security-administration/)
  - [A look at The Browser Company&#39;s AI-first browser Dia, which merges AI models and hides that complexity for end users, pointing to the future of web browsing &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/250626/p39#a250626p39)
- - [Patent troll lawsuit against Apple &amp; Qualcomm will remain in Texas](https://appleinsider.com/articles/25/06/26/patent-troll-lawsuit-against-apple-qualcomm-will-remain-in-texas?utm_medium=rss)
- - [You&#39;ve Probably Hit Your Protein Goal: Here&#39;s What Experts Think You Need Instead](https://www.cnet.com/health/nutrition/youve-probably-hit-your-protein-goal-heres-what-experts-think-you-need-instead/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Patent troll lawsuit against Apple &amp; Qualcomm will remain in Texas](https://appleinsider.com/articles/25/06/26/patent-troll-lawsuit-against-apple-qualcomm-will-remain-in-texas?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The collapse of the bridge in China](http://9gag.com/gag/aD2ONzK)
+ - 😝 [Playtime got a little too rough](http://9gag.com/gag/agmEZo1)
+ - 💣 [WTF, Donal Trump just posted this video with this song](http://9gag.com/gag/aMVODEP)
  - 😝 [This is Juliana Marins before she fell. Thick fog hinders the SAR](http://9gag.com/gag/a5QqyWo)
- - 😝 [This is what happens in Germany if you publicly display happiness](http://9gag.com/gag/a5Qqvpg)
- - 💣 [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)
- - 😝 [She does it all!!!](http://9gag.com/gag/amopQX2)
- - 👉 [Quick reflexes save the day in a close call on the road](http://9gag.com/gag/a34bpy3)<!-- MEMES:END -->
+ - 👉 [The world needs more bosses like him](http://9gag.com/gag/a1mEnj6)<!-- MEMES:END -->
 
 ---
 

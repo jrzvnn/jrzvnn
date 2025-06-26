@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The dogs and farmer bravely defend the sheep from a bear.](http://9gag.com/gag/an7rW0E)
- - 😝 [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)
- - 💣 [The comment section delivers again.](http://9gag.com/gag/aqyYpOj)
- - 😝 [Ultimate camper](http://9gag.com/gag/aMVODGG)
- - 👉 [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)<!-- MEMES:END -->
+ - 😝 [When your false claim backfires spectacularly](http://9gag.com/gag/amopOg2)
+ - 😝 [Sustainability is for the little people](http://9gag.com/gag/axyYQz2)
+ - 💣 [Alien recounts the horrors of fighting humans.](http://9gag.com/gag/aLndV6v)
+ - 😝 [Butt!](http://9gag.com/gag/a87KXbY)
+ - 👉 [This rage comic turns 17 this year. Bro\u2026 we\u2019re ancient.](http://9gag.com/gag/aMVO6yP)<!-- MEMES:END -->
 
 ---
 

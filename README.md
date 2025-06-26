@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple overhauls EU App Store to comply with DMA: developers can push offers and alt payments, and the Core Technology Fee will be swapped for tiered commission &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250626/p36#a250626p36)
  - [Sources: Uber is in talks with Travis Kalanick to help fund his acquisition of Pony.ai&#39;s US arm; Pony.ai has permits to operate robo taxis in the US and China &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/250626/p35#a250626p35)
- - [Apple overhauls EU App Store to comply with DMA: developers can push offers and alt payments, and the Core Technology Fee will be swapped for tiered commission &lpar;Anupriya Datta/Euractiv&rpar;](http://www.techmeme.com/250626/p34#a250626p34)
+ - [Apple announces App Store changes to satisfy Brussels regulators &lpar;Anupriya Datta/Euractiv&rpar;](http://www.techmeme.com/250626/p34#a250626p34)
  - [Apple again tries to cut third party app fees to avoid EU fines](https://appleinsider.com/articles/25/06/26/apple-again-tries-to-cut-third-party-app-fees-to-avoid-eu-fines?utm_medium=rss)
- - [iPhone 17 Air might break from the lineup with new camera position](https://appleinsider.com/articles/25/06/26/iphone-17-air-might-break-from-the-lineup-with-new-camera-position?utm_medium=rss)
- - [Microsoft&amp;#8217;s Xbox PC launcher gets going with Steam, Epic, and other games showing up](https://www.theverge.com/hands-on/693772/xbox-app-windows-steam-games-integration-epic-games-battle-net)<!-- TECH:END -->
+ - [iPhone 17 Air might break from the lineup with new camera position](https://appleinsider.com/articles/25/06/26/iphone-17-air-might-break-from-the-lineup-with-new-camera-position?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

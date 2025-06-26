@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Workers at Google, TikTok, Adobe, Dropbox, CrowdStrike, and other tech firms recount how managers used AI to justify firing them, speed up their work, and more &lpar;Brian Merchant/Blood in the Machine&rpar;](http://www.techmeme.com/250626/p22#a250626p22)
  - [Kraken launches Krak, a P2P payments app that lets users send funds across 110 countries using 300+ assets, including crypto, stablecoins, and fiat currencies &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/250626/p21#a250626p21)
  - [Intel is closing its automotive chipmaking business](https://www.theverge.com/news/693528/intel-automotive-business-shutdown-layoffs)
  - [Sources: DeepSeek&#39;s highly anticipated R2 model faces delays due to a shortage of Nvidia server chips in China, exacerbated by the US ban of Nvidia&#39;s H20 chips &lpar;The Information&rpar;](http://www.techmeme.com/250626/p20#a250626p20)
- - [Marc Benioff says &quot;AI is doing 30% to 50% of the work at Salesforce now&quot;, including software engineering and customer service &lpar;Bloomberg&rpar;](http://www.techmeme.com/250626/p19#a250626p19)
- - [Anthros Chair V2 Review: Surprisingly Great](https://www.wired.com/review/anthros-chair-v2/)<!-- TECH:END -->
+ - [Marc Benioff says &quot;AI is doing 30% to 50% of the work at Salesforce now&quot;, including software engineering and customer service &lpar;Bloomberg&rpar;](http://www.techmeme.com/250626/p19#a250626p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

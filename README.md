@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your false claim backfires spectacularly](http://9gag.com/gag/amopOg2)
- - 😝 [Sustainability is for the little people](http://9gag.com/gag/axyYQz2)
- - 💣 [Alien recounts the horrors of fighting humans.](http://9gag.com/gag/aLndV6v)
- - 😝 [Butt!](http://9gag.com/gag/a87KXbY)
- - 👉 [This rage comic turns 17 this year. Bro\u2026 we\u2019re ancient.](http://9gag.com/gag/aMVO6yP)<!-- MEMES:END -->
+ - 😝 [Argentine women&#39;s hockey team](http://9gag.com/gag/awyY9nr)
+ - 😝 [Goodness the daughter suffered too much \ud83d\udc80](http://9gag.com/gag/awyY9o4)
+ - 💣 [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)
+ - 😝 [Women](http://9gag.com/gag/a34beyQ)
+ - 👉 [This is what happens in Germany if you publicly display happiness](http://9gag.com/gag/a5Qqvpg)<!-- MEMES:END -->
 
 ---
 

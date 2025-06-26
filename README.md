@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Distracted walking has consequences.](http://9gag.com/gag/aZZzKZW)
  - 😝 [The dogs and farmer bravely defend the sheep from a bear.](http://9gag.com/gag/an7rW0E)
- - 💣 [Some designs are just timelessly perfect.](http://9gag.com/gag/aAyOLXE)
- - 😝 [Red Flags Already](http://9gag.com/gag/axyYQ6W)
+ - 😝 [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)
+ - 💣 [The comment section delivers again.](http://9gag.com/gag/aqyYpOj)
+ - 😝 [Ultimate camper](http://9gag.com/gag/aMVODGG)
  - 👉 [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women](http://9gag.com/gag/a34beyQ)
  - 😝 [Marvel...or not Marvel](http://9gag.com/gag/aVvV822)
- - 💣 [Goodness the daughter suffered too much \ud83d\udc80](http://9gag.com/gag/awyY9o4)
- - 😝 [The dogs and farmer bravely defend the sheep from a bear.](http://9gag.com/gag/an7rW0E)
- - 👉 [This is what happens in Germany if you publicly display happiness](http://9gag.com/gag/a5Qqvpg)<!-- MEMES:END -->
+ - 😝 [When your false claim backfires spectacularly](http://9gag.com/gag/amopOg2)
+ - 💣 [This is what happens in Germany if you publicly display happiness](http://9gag.com/gag/a5Qqvpg)
+ - 😝 [Women](http://9gag.com/gag/a34beyQ)
+ - 👉 [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)<!-- MEMES:END -->
 
 ---
 

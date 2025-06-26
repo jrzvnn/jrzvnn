@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung announces 2025 monitors with preorder discounts of up to $300 off](https://appleinsider.com/articles/25/06/26/samsung-announces-2025-monitors-with-preorder-discounts-of-up-to-300-off?utm_medium=rss)
+ - [UAE-based Aqua 1 Foundation buys $100M worth of tokens from Trump&#39;s World Liberty Financial, becoming its largest individual investor ahead of Justin Sun &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/250626/p24#a250626p24)
+ - [5 Best Google Assistant Speakers &lpar;2025&rpar;: Speakers, Displays, Soundbars](https://www.wired.com/gallery/best-google-speakers-buying-guide/)
  - [The 8 Best Home Arcade Machines &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-home-arcade-machines/)
- - [Insta360’s new $110 Flow 2 gimbal sacrifices some useful pro features](https://www.theverge.com/news/693565/insta360-flow-2-smartphone-gimbal-ai-deep-track-stabilized)
- - [The BBC is launching a paywall in the US](https://www.theverge.com/news/693566/bbc-online-tv-content-paywall-subscription-us)
- - [Survive This Summer&#39;s Heat Wave With These Must-Have Cooling Products](https://www.cnet.com/health/survive-this-summers-heat-wave-with-these-must-have-cooling-products/#ftag=CAD590a51e)
- - [6 Best Phones With Headphone Jacks &lpar;2025&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-headphone-jack-phones/)<!-- TECH:END -->
+ - [Insta360’s new $110 Flow 2 gimbal sacrifices some useful pro features](https://www.theverge.com/news/693565/insta360-flow-2-smartphone-gimbal-ai-deep-track-stabilized)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

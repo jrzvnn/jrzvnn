@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A different perspective](http://9gag.com/gag/aKGOyzZ)
- - 😝 [Butt!](http://9gag.com/gag/a87KXbY)
- - 💣 [Mastering the art of the public air biscuit](http://9gag.com/gag/aVvV4WK)
- - 😝 [Considering the paradox of progress and work.](http://9gag.com/gag/aMVO6qA)
- - 👉 [Understandable](http://9gag.com/gag/abAQKPB)<!-- MEMES:END -->
+ - 😝 [The comment section delivers again.](http://9gag.com/gag/aqyYpOj)
+ - 😝 [Well it worked\u2026](http://9gag.com/gag/amopKZy)
+ - 💣 [The world needs more bosses like him](http://9gag.com/gag/a1mEnj6)
+ - 😝 [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)
+ - 👉 [This is what happens in Germany if you publicly display happiness](http://9gag.com/gag/a5Qqvpg)<!-- MEMES:END -->
 
 ---
 

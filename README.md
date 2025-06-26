@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hisense’s latest smart air conditioner is on sale for just $249.99](https://www.theverge.com/tech/693622/hisense-window-air-conditioner-btuwc08w25a-sony-ult-field-1-speaker-deal-sale)
+ - [Microsoft plans to replace the Blue Screen of Death in Windows 11 with a simplified black screen &quot;providing better information&quot; in an update &quot;later this summer&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250626/p30#a250626p30)
+ - [A federal judge rejects a joint motion by Ripple Labs and the US SEC to approve a reduced $50M fine to settle a lawsuit over XRP sales, and chastises both sides &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250626/p29#a250626p29)
  - [Source: Meta has hired highly influential OpenAI researcher Trapit Bansal to work on its AI reasoning models under the company&#39;s new AI superintelligence unit &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250626/p28#a250626p28)
- - [Heybike Alpha review: Off-road eBike fun](https://appleinsider.com/articles/25/06/26/heybike-alpha-review-off-road-ebike-fun?utm_medium=rss)
- - [Sources: CoreWeave is in talks to acquire bitcoin miner Core Scientific, which has a market value of ~$3.7B; Core Scientific rejected CoreWeave&#39;s bid in 2024 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250626/p27#a250626p27)
- - [Amazon&#39;s VP of Generative AI Vasi Philomin left for another company; VP of Amazon Elastic Block Store Rajesh Sheth assumed some of Philomin&#39;s responsibilities &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/250626/p26#a250626p26)
- - [As AI kills search traffic, Google launches Offerwall, a Google Ad Manager tool to help publishers generate revenue beyond ads, including via micropayments &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250626/p25#a250626p25)<!-- TECH:END -->
+ - [Heybike Alpha review: Off-road eBike fun](https://appleinsider.com/articles/25/06/26/heybike-alpha-review-off-road-ebike-fun?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

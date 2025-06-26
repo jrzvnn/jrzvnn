@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)
- - 😝 [Red Flags Already](http://9gag.com/gag/axyYQ6W)
- - 💣 [Time comes for everyone, eventually.](http://9gag.com/gag/a1mEq46)
- - 😝 [New fear unlocked &lpar;no pun intended&rpar;](http://9gag.com/gag/ajPWGG8)
- - 👉 [When your false claim backfires spectacularly](http://9gag.com/gag/amopOg2)<!-- MEMES:END -->
+ - 😝 [Alien recounts the horrors of fighting humans.](http://9gag.com/gag/aLndV6v)
+ - 😝 [The daily struggle is real](http://9gag.com/gag/axyYeqb)
+ - 💣 [Butt!](http://9gag.com/gag/a87KXbY)
+ - 😝 [That feeling when you open a text and the energy just isn&#39;t there to reply right away.](http://9gag.com/gag/aByOM22)
+ - 👉 [This rage comic turns 17 this year. Bro\u2026 we\u2019re ancient.](http://9gag.com/gag/aMVO6yP)<!-- MEMES:END -->
 
 ---
 

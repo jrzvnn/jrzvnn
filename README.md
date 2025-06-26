@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Aylo, owner of Pornhub, YouPorn, and RedTube, will add &quot;government approved age assurance methods&quot; in the UK by July 25 to comply with the Online Safety Act &lpar;BBC&rpar;](http://www.techmeme.com/250626/p10#a250626p10)
  - [How online fandom communities are advocating against AI, including protesting companies scraping fanfic content for AI training and opposing AI-generated fanfic &lpar;Decca Muldowney/The Verge&rpar;](http://www.techmeme.com/250626/p9#a250626p9)
  - [Sony says its PlayStation Plus three-tier overhaul has &quot;surpassed our expectations&quot; and that the $160/year Premium tier has grown 18% in the past 12 months &lpar;Stephen Totilo/Game File&rpar;](http://www.techmeme.com/250626/p8#a250626p8)
  - [Internal docs: Scale AI&#39;s efforts to train Google&#39;s Gemini were flooded with &quot;spammy behavior&quot; from unqualified independent contractors submitting shoddy work &lpar;Sam Blum/Inc&rpar;](http://www.techmeme.com/250626/p7#a250626p7)
- - [A look at Tokyo-based Nittobo, currently the only supplier in the world of the highest-end &quot;T-glass&quot;, a material essential for making high-powered AI servers &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250626/p6#a250626p6)
- - [Reddit CEO Steve Huffman warns against companies trying to game the site with AI-generated content, saying &quot;human verification is top of mind for us right now&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250626/p5#a250626p5)<!-- TECH:END -->
+ - [A look at Tokyo-based Nittobo, currently the only supplier in the world of the highest-end &quot;T-glass&quot;, a material essential for making high-powered AI servers &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250626/p6#a250626p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

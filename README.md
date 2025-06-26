@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 8 Best Home Arcade Machines &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-home-arcade-machines/)
  - [Insta360’s new $110 Flow 2 gimbal sacrifices some useful pro features](https://www.theverge.com/news/693565/insta360-flow-2-smartphone-gimbal-ai-deep-track-stabilized)
  - [The BBC is launching a paywall in the US](https://www.theverge.com/news/693566/bbc-online-tv-content-paywall-subscription-us)
- - [6 Best Phones With Headphone Jacks &lpar;2025&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-headphone-jack-phones/)
- - [Denis Villeneuve is directing the next Bond film for Amazon](https://www.theverge.com/news/693527/denis-villeneuve-james-bond-amazon-mgm)
- - [YouTube launches an AI Overviews-like carousel for searches related to shopping, places, and things to do in a specific place, for Premium users in the US &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250626/p23#a250626p23)<!-- TECH:END -->
+ - [Survive This Summer&#39;s Heat Wave With These Must-Have Cooling Products](https://www.cnet.com/health/survive-this-summers-heat-wave-with-these-must-have-cooling-products/#ftag=CAD590a51e)
+ - [6 Best Phones With Headphone Jacks &lpar;2025&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-headphone-jack-phones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

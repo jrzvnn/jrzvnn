@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 Perks Prime Members Can Snag Before Prime Day &lpar;2025&rpar;](https://www.wired.com/story/amazon-prime-day-credits-2025/)
- - [Tovala Meal Kit and Oven Review &lpar;2025&rpar;: We&#39;re Nearing Robot Chef](https://www.wired.com/review/tovala-meal-lit-and-smart-oven-pro/)
- - [AI is ruining houseplant communities online](https://www.theverge.com/ai-artificial-intelligence/691355/ai-is-ruining-houseplant-communities-online)
- - [Indonesia changes rules to require e-commerce platforms like TikTok Shop to withhold income tax from sellers, instead of asking sellers to pay the government &lpar;Grace Sihombing/Bloomberg&rpar;](http://www.techmeme.com/250626/p17#a250626p17)
- - [Texas Lawmakers Want More Control of the Tesla Robotaxis on Their Roads](https://www.wired.com/story/texas-lawmakers-control-of-tesla-robotaxis/)<!-- TECH:END -->
+ - [Intel is closing its automotive chipmaking business](https://www.theverge.com/news/693528/intel-automotive-business-shutdown-layoffs)
+ - [Sources: DeepSeek&#39;s highly anticipated R2 model faces delays due to a shortage of Nvidia server chips in China, exacerbated by the US ban of Nvidia&#39;s H20 chips &lpar;The Information&rpar;](http://www.techmeme.com/250626/p20#a250626p20)
+ - [Marc Benioff says &quot;AI is doing 30% to 50% of the work at Salesforce now&quot;, including software engineering and customer service &lpar;Bloomberg&rpar;](http://www.techmeme.com/250626/p19#a250626p19)
+ - [Anthros Chair V2 Review: Surprisingly Great](https://www.wired.com/review/anthros-chair-v2/)
+ - [HDMI 2.2 will support 16K video at 60Hz](https://www.theverge.com/news/692052/hdmi-2-2-specification-released-96gbps-audio-sync-16k)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This real estate sale is literally betting the farm on Steve Jobs&#39;s fame](https://appleinsider.com/articles/25/06/24/this-real-estate-sale-is-literally-betting-the-farm-on-steve-jobss-fame?utm_medium=rss)
+ - [Trump Organization scrubs the Trump Mobile site of language indicating the T1 Phone phone is to be made in the US, now says it is &quot;brought to life&quot; in the US &lpar;Anthony Robledo/USA Today&rpar;](http://www.techmeme.com/250626/p15#a250626p15)
  - [EU competition chief Teresa Ribera rejects claims DMA enforcement could be traded to avoid Trump&#39;s tariffs, and urges mutual respect for each side&#39;s regulations &lpar;Bloomberg&rpar;](http://www.techmeme.com/250626/p14#a250626p14)
  - [My Couples Retreat With 3 AI Chatbots and the Humans Who Love Them](https://www.wired.com/story/couples-retreat-with-3-ai-chatbots-and-humans-who-love-them-replika-nomi-chatgpt/)
- - [Anthropic releases preliminary results showing users who discuss emotional issues with Claude tend to grow more positive as conversations progress &lpar;Megan Morrone/Axios&rpar;](http://www.techmeme.com/250626/p13#a250626p13)
- - [Amazon launches at-home diagnostic services in six Indian cities in partnership with Orange Health Labs, marking its entry into India&#39;s diagnostics market &lpar;Menaka Doshi/Bloomberg&rpar;](http://www.techmeme.com/250626/p12#a250626p12)
- - [Kraken secures a MiCA license from the Central Bank of Ireland to offer crypto services across the EU, following Coinbase&#39;s approval in Luxembourg last week &lpar;Callan Quinn/Decrypt&rpar;](http://www.techmeme.com/250626/p11#a250626p11)<!-- TECH:END -->
+ - [Anthropic releases preliminary results showing users who discuss emotional issues with Claude tend to grow more positive as conversations progress &lpar;Megan Morrone/Axios&rpar;](http://www.techmeme.com/250626/p13#a250626p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [AirPods Pro 3 possibly referenced in updated codebase](https://appleinsider.com/articles/25/06/26/airpods-pro-3-possibly-referenced-in-updated-codebase?utm_medium=rss)
  - [‘Big Balls’ Is Now at the Social Security Administration](https://www.wired.com/story/big-balls-social-security-administration/)
  - [A look at The Browser Company&#39;s AI-first browser Dia, which merges AI models and hides that complexity for end users, pointing to the future of web browsing &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/250626/p39#a250626p39)
- - [Patent troll lawsuit against Apple &amp; Qualcomm will remain in Texas](https://appleinsider.com/articles/25/06/26/patent-troll-lawsuit-against-apple-qualcomm-will-remain-in-texas?utm_medium=rss)<!-- TECH:END -->
+ - [How to Watch Red Bull Salzburg vs. Real Madrid Anywhere Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-red-bull-salzburg-vs-real-madrid-anywhere-for-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

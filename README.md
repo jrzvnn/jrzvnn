@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Considering the paradox of progress and work.](http://9gag.com/gag/aMVO6qA)
- - 😝 [The daily struggle is real](http://9gag.com/gag/axyYeqb)
- - 💣 [Butt!](http://9gag.com/gag/a87KXbY)
- - 😝 [That feeling when you open a text and the energy just isn&#39;t there to reply right away.](http://9gag.com/gag/aByOM22)
- - 👉 [Mastering the art of the public air biscuit](http://9gag.com/gag/aVvV4WK)<!-- MEMES:END -->
+ - 😝 [Women](http://9gag.com/gag/a34beyQ)
+ - 😝 [Marvel...or not Marvel](http://9gag.com/gag/aVvV822)
+ - 💣 [Goodness the daughter suffered too much \ud83d\udc80](http://9gag.com/gag/awyY9o4)
+ - 😝 [The dogs and farmer bravely defend the sheep from a bear.](http://9gag.com/gag/an7rW0E)
+ - 👉 [This is what happens in Germany if you publicly display happiness](http://9gag.com/gag/a5Qqvpg)<!-- MEMES:END -->
 
 ---
 

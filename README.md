@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [6 Best Phones With Headphone Jacks &lpar;2025&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-headphone-jack-phones/)
+ - [Denis Villeneuve is directing the next Bond film for Amazon](https://www.theverge.com/news/693527/denis-villeneuve-james-bond-amazon-mgm)
+ - [YouTube launches an AI Overviews-like carousel for searches related to shopping, places, and things to do in a specific place, for Premium users in the US &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250626/p23#a250626p23)
  - [Apple wants total control over distributing films like &#39;F1&#39;](https://appleinsider.com/articles/25/06/26/apple-wants-total-control-over-distributing-films-like-f1?utm_medium=rss)
- - [Roku Streaming Stick Plus Review: Cheap, Simple, and Pretty](https://www.wired.com/review/roku-streaming-stick-plus-2025/)
- - [Workers at Google, TikTok, Adobe, Dropbox, CrowdStrike, and other tech firms recount how managers used AI to justify firing them, speed up their work, and more &lpar;Brian Merchant/Blood in the Machine&rpar;](http://www.techmeme.com/250626/p22#a250626p22)
- - [Kraken launches Krak, a payments app that lets users send funds P2P across 110 countries using 300+ assets, including crypto, stablecoins, and fiat currencies &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/250626/p21#a250626p21)
- - [Improve Your Mood and Feel Happier With These 7 Simple Daily Habits](https://www.cnet.com/health/mental/lead-a-happier-life-with-these-7-simple-daily-habits/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Roku Streaming Stick Plus Review: Cheap, Simple, and Pretty](https://www.wired.com/review/roku-streaming-stick-plus-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

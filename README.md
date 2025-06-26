@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rapid unboxing](http://9gag.com/gag/agmEZbK)
- - 😝 [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)
- - 💣 [A MTV video from the 90&#39;s](http://9gag.com/gag/aKGONDZ)
  - 😝 [This is Juliana Marins before she fell. Thick fog hinders the SAR](http://9gag.com/gag/a5QqyWo)
- - 👉 [The world needs more bosses like him](http://9gag.com/gag/a1mEnj6)<!-- MEMES:END -->
+ - 😝 [This is what happens in Germany if you publicly display happiness](http://9gag.com/gag/a5Qqvpg)
+ - 💣 [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)
+ - 😝 [She does it all!!!](http://9gag.com/gag/amopQX2)
+ - 👉 [Quick reflexes save the day in a close call on the road](http://9gag.com/gag/a34bpy3)<!-- MEMES:END -->
 
 ---
 

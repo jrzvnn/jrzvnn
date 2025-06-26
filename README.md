@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US senators reintroduce the bipartisan Open App Markets Act to challenge Apple&#39;s and Google&#39;s grip on app stores; the 2021 version never made it to a floor vote &lpar;Amber Neely/AppleInsider&rpar;](http://www.techmeme.com/250625/p39#a250625p39)
+ - [A group of authors sue Microsoft in a NY federal court, claiming the company used nearly 200,000 pirated books without permission to train its Megatron AI model &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/250625/p38#a250625p38)
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, June 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-june-26/#ftag=CAD590a51e)
  - [Supercell makes Brawl Stars available on WeChat and says Clash Royale is &quot;currently being developed&quot; for a September launch on the WeChat mini-game platform &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250625/p37#a250625p37)
- - [US prosecutors charge Kai West, who is known as IntelBroker and was arrested in February in France, with conspiring to steal data from dozens of companies &lpar;Chris Dolmetsch/Bloomberg&rpar;](http://www.techmeme.com/250625/p36#a250625p36)
- - [100,000 Mattresses Sold on Amazon Are Being Recalled Due to Fire Risk. Here’s What You Should Know](https://www.cnet.com/health/sleep/100000-mattresses-sold-on-amazon-are-recalled-due-to-fire-risk-heres-what-you-should-know/#ftag=CAD590a51e)
- - [Here are 14 of our favorite deals from Amazon’s early Prime Day sale](https://www.theverge.com/tech/692002/amazon-prime-day-best-early-deals-2025)
- - [Meta&amp;#8217;s AI copyright win comes with a warning about fair use](https://www.theverge.com/news/693437/meta-ai-copyright-win-fair-use-warning)<!-- TECH:END -->
+ - [US prosecutors charge Kai West, who is known as IntelBroker and was arrested in February in France, with conspiring to steal data from dozens of companies &lpar;Chris Dolmetsch/Bloomberg&rpar;](http://www.techmeme.com/250625/p36#a250625p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

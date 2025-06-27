@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Obsessive Fans Playing God on &#39;Love Island&#39;—and Living for the Crash Outs](https://www.wired.com/story/the-obsessive-fans-playing-god-on-love-island-and-living-for-the-crash-outs/)
  - [Germany deems DeepSeek as illegal content after it is unable to address data security concerns, and asks Apple and Google to block it from their app stores &lpar;Reuters&rpar;](http://www.techmeme.com/250627/p6#a250627p6)
+ - [Watch Glastonbury 2025: Livestream the UK Festival From Anywhere For Free](https://www.cnet.com/tech/services-and-software/watch-glastonbury-2025-livestream-the-uk-festival-from-anywhere-for-free/#ftag=CAD590a51e)
  - [34 Best Family Board Games &lpar;2025&rpar;: Catan, Ticket to Ride, Codenames](https://www.wired.com/gallery/best-family-board-games/)
- - [The Era of ‘Woke’ Brand Activism Is Over](https://www.wired.com/story/the-era-of-woke-brand-activism-is-over/)
- - [JD Vance Is the Loyal Convert in Chief](https://www.wired.com/story/jd-vance-is-the-loyal-convert-in-chief/)
- - [European Commission says Meta has proposed limited changes to its pay-or-consent ad model, and Meta faces daily fines if it determines they are not sufficient &lpar;Reuters&rpar;](http://www.techmeme.com/250627/p5#a250627p5)<!-- TECH:END -->
+ - [Trump Mobile Math Doesn&#39;t Add Up: We Found Better Phone Plan Deals](https://www.cnet.com/tech/mobile/trump-mobile-math-doesnt-add-up-we-found-better-phone-plan-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

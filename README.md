@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [SCOTUS upholds a broadband subsidy program for low-income users, schools, and others, rejecting claims that its funding mechanism is unconstitutional &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250627/p16#a250627p16)
+ - [US Supreme Court Upholds Texas Porn ID Law](https://www.wired.com/story/us-supreme-court-porn-age-verification-decision-2025/)
  - [SCOTUS upholds a Texas law that requires porn websites to verify that their visitors are 18 or older, rejecting a First Amendment challenge to the law &lpar;Josh Gerstein/Politico&rpar;](http://www.techmeme.com/250627/p15#a250627p15)
  - [Low-income broadband fund can keep running, says Supreme Court](https://www.theverge.com/news/689176/supreme-court-universal-service-fund-fcc-ruling)
- - [The Best Cat Toys for Your Furry Friend &lpar;2025&rpar;](https://www.wired.com/story/best-cat-toys/)
- - [Alibaba unveils text-to-image and image-to-image generation model Qwen VLo, with progressive generation tech, which shows the image creation process &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250627/p14#a250627p14)<!-- TECH:END -->
+ - [The Best Cat Toys for Your Furry Friend &lpar;2025&rpar;](https://www.wired.com/story/best-cat-toys/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

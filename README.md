@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It\u2019s time for you to shared your most cursed image](http://9gag.com/gag/ayNYm4q)
- - 😝 [Somebody is getting fired\u2026.](http://9gag.com/gag/aW4DynK)
- - 💣 [A little kindness goes a long way, especially in the MasterChef kitchen.](http://9gag.com/gag/a9yOwwK)
- - 😝 [Still rather tame compared to what 9gaggers are gonna experience in he//f1re later](http://9gag.com/gag/aPA1L4Q)
- - 👉 [Some designs are just timelessly perfect.](http://9gag.com/gag/aAyOLXE)<!-- MEMES:END -->
+ - 😝 [Goals updated.](http://9gag.com/gag/aNDOMQ0)
+ - 😝 [Burn the witch](http://9gag.com/gag/aE0OjGG)
+ - 💣 [Sheeeeesh](http://9gag.com/gag/azxYy5b)
+ - 😝 [She does it all!!!](http://9gag.com/gag/amopQX2)
+ - 👉 [Taking mosquito defense to a whole new level.](http://9gag.com/gag/ayNYmbY)<!-- MEMES:END -->
 
 ---
 

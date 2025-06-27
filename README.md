@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Still rather tame compared to what 9gaggers are gonna experience in he//f1re later](http://9gag.com/gag/aPA1L4Q)
- - 😝 [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)
- - 💣 [Somebody is getting fired\u2026.](http://9gag.com/gag/aW4DynK)
- - 😝 [Almost](http://9gag.com/gag/a4PW8vm)
- - 👉 [Just finished it and about to ask my wife.](http://9gag.com/gag/ae97EBp)<!-- MEMES:END -->
+ - 😝 [History is a circle](https://www.reddit.com/r/memes/comments/1llwci5/history_is_a_circle/)
+ - 😝 [Maybe not xD](https://www.reddit.com/r/memes/comments/1llw3rx/maybe_not_xd/)
+ - 💣 [The only way to stick to my diet 😂](https://www.reddit.com/r/funny/comments/1llw1qm/the_only_way_to_stick_to_my_diet/)
+ - 😝 [&#39;Murikans be like](https://www.reddit.com/r/memes/comments/1llvxfj/murikans_be_like/)
+ - 👉 [So far not so good](https://www.reddit.com/r/memes/comments/1llvbxv/so_far_not_so_good/)<!-- MEMES:END -->
 
 ---
 

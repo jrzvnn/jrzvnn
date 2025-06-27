@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Understandable](http://9gag.com/gag/abAQKPB)
- - 😝 [Prank the Boss](http://9gag.com/gag/aqyYO2Y)
- - 💣 [Well then? We are waiting!](http://9gag.com/gag/aZZzK9W)
- - 😝 [Burn the witch](http://9gag.com/gag/aE0OjGG)
- - 👉 [She does it all!!!](http://9gag.com/gag/amopQX2)<!-- MEMES:END -->
+ - 😝 [She does it all!!!](http://9gag.com/gag/amopQX2)
+ - 😝 [Time comes for everyone, eventually.](http://9gag.com/gag/a1mEq46)
+ - 💣 [Bros playing the long game...](http://9gag.com/gag/ajPWMbq)
+ - 😝 [When your false claim backfires spectacularly](http://9gag.com/gag/amopOg2)
+ - 👉 [Red Flags Already](http://9gag.com/gag/axyYQ6W)<!-- MEMES:END -->
 
 ---
 

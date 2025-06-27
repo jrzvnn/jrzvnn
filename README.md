@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)
  - 😝 [Let&#39;s remember when this girl throws a coin into a fountain in Florence, and suddenly this guy takes it.](http://9gag.com/gag/aGyOq8K)
- - 💣 [WTF, Donal Trump just posted this video with this song](http://9gag.com/gag/aMVODEP)
- - 😝 [When your false claim backfires spectacularly](http://9gag.com/gag/amopOg2)
- - 👉 [Somebody is getting fired\u2026.](http://9gag.com/gag/aW4DynK)<!-- MEMES:END -->
+ - 😝 [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)
+ - 💣 [Red Flags Already](http://9gag.com/gag/axyYQ6W)
+ - 😝 [Still rather tame compared to what 9gaggers are gonna experience in he//f1re later](http://9gag.com/gag/aPA1L4Q)
+ - 👉 [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)<!-- MEMES:END -->
 
 ---
 

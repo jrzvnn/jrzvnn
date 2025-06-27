@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Low-income broadband fund can keep running, says Supreme Court](https://www.theverge.com/news/689176/supreme-court-universal-service-fund-fcc-ruling)
+ - [The Best Cat Toys for Your Furry Friend &lpar;2025&rpar;](https://www.wired.com/story/best-cat-toys/)
  - [Alibaba unveils text-to-image and image-to-image generation model Qwen VLo, with progressive generation tech, which shows the image creation process &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250627/p14#a250627p14)
  - [Apple researchers work to stop AI from taking actions you didn&#39;t approve](https://appleinsider.com/articles/25/06/27/apple-researchers-work-to-stop-ai-from-taking-actions-you-didnt-approve?utm_medium=rss)
- - [6 Best Smart Speakers &lpar;2025&rpar;: Alexa, Google Assistant, Siri](https://www.wired.com/story/best-smart-speakers/)
- - [Sources: Trump is planning EOs on July 23 to help US AI growth, including easing grid access for new power projects and offering federal land for data centers &lpar;Reuters&rpar;](http://www.techmeme.com/250627/p13#a250627p13)
- - [No One Is in Charge at the US Copyright Office](https://www.wired.com/story/us-copyright-office-chaos-doge/)<!-- TECH:END -->
+ - [6 Best Smart Speakers &lpar;2025&rpar;: Alexa, Google Assistant, Siri](https://www.wired.com/story/best-smart-speakers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

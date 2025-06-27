@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [It\u2019s time for you to shared your most cursed image](http://9gag.com/gag/ayNYm4q)
+ - 😝 [When your false claim backfires spectacularly](http://9gag.com/gag/amopOg2)
+ - 💣 [Somebody is getting fired\u2026.](http://9gag.com/gag/aW4DynK)
  - 😝 [Still rather tame compared to what 9gaggers are gonna experience in he//f1re later](http://9gag.com/gag/aPA1L4Q)
- - 😝 [Women](http://9gag.com/gag/a34beyQ)
- - 💣 [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)
- - 😝 [Somebody is getting fired\u2026.](http://9gag.com/gag/aW4DynK)
- - 👉 [This is what happens in Germany if you publicly display happiness](http://9gag.com/gag/a5Qqvpg)<!-- MEMES:END -->
+ - 👉 [A little kindness goes a long way, especially in the MasterChef kitchen.](http://9gag.com/gag/a9yOwwK)<!-- MEMES:END -->
 
 ---
 

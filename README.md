@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 28 Best Deals From REI&#39;s July 4 Outdoor Gear Sale &lpar;2025&rpar;](https://www.wired.com/story/rei-4th-of-july-sale-2025/)
  - [On the a16z podcast, Bryan Kim said a16z backed Cluely because speed in marketing and building beats crafting a perfect &quot;artisan&quot; product due to AI competition &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250627/p26#a250627p26)
  - [A group of 17 GOP governors write to Senate majority leader and House speaker urging for the state AI bill moratorium to be removed from the reconciliation bill &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/250627/p25#a250627p25)
  - [Tesla recently lost two key execs](https://www.theverge.com/news/694301/tesla-executives-gm-cruise-hire-elon-musk)
- - [Logitech says all its webcams work with Nintendo Switch 2, save one](https://www.theverge.com/news/694565/logitech-webcams-work-with-nintendo-switch-2)
- - [Facing Billions in DMA Fines, Apple Lets EU iPhone Users Install Apps Outside the App Store](https://www.cnet.com/tech/mobile/facing-billions-in-dma-fines-apple-lets-eu-iphone-users-install-apps-outside-the-app-store/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft Retires Legendary &#39;Blue Screen of Death&#39; After 40 Years of Frowny Faces](https://www.cnet.com/tech/services-and-software/microsoft-officially-retires-blue-screen-of-death-after-40-years-of-frowny-faces/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

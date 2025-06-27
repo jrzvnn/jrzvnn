@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [History is a circle](https://www.reddit.com/r/memes/comments/1llwci5/history_is_a_circle/)
- - 😝 [Maybe not xD](https://www.reddit.com/r/memes/comments/1llw3rx/maybe_not_xd/)
- - 💣 [The only way to stick to my diet 😂](https://www.reddit.com/r/funny/comments/1llw1qm/the_only_way_to_stick_to_my_diet/)
- - 😝 [&#39;Murikans be like](https://www.reddit.com/r/memes/comments/1llvxfj/murikans_be_like/)
- - 👉 [So far not so good](https://www.reddit.com/r/memes/comments/1llvbxv/so_far_not_so_good/)<!-- MEMES:END -->
+ - 😝 [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)
+ - 😝 [So white its using a subaru...](http://9gag.com/gag/amopwQ6)
+ - 💣 [Just finished it and about to ask my wife.](http://9gag.com/gag/ae97EBp)
+ - 😝 [Let&#39;s remember when this girl throws a coin into a fountain in Florence, and suddenly this guy takes it.](http://9gag.com/gag/aGyOq8K)
+ - 👉 [The world needs more bosses like him](http://9gag.com/gag/a1mEnj6)<!-- MEMES:END -->
 
 ---
 

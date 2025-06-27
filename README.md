@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The world needs more bosses like him](http://9gag.com/gag/a1mEnj6)
- - 😝 [Just some numbers..](http://9gag.com/gag/azxYyVB)
- - 💣 [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)
- - 😝 [Grandpa&#39;s stomach coating advice had explosive results](http://9gag.com/gag/ae97zzj)
- - 👉 [Somebody is getting fired\u2026.](http://9gag.com/gag/aW4DynK)<!-- MEMES:END -->
+ - 😝 [Taking mosquito defense to a whole new level.](http://9gag.com/gag/ayNYmbY)
+ - 😝 [Watching this artwork emerge is captivating](http://9gag.com/gag/awyY2M8)
+ - 💣 [It\u2019s amazing how the girls don\u2019t realize they look just as silly](http://9gag.com/gag/axyYwMY)
+ - 😝 [On street parking](http://9gag.com/gag/aD2O9dN)
+ - 👉 [Saluting true love](http://9gag.com/gag/a87KO3V)<!-- MEMES:END -->
 
 ---
 

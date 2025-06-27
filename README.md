@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Era of ‘Woke’ Brand Activism Is Over](https://www.wired.com/story/the-era-of-woke-brand-activism-is-over/)
+ - [JD Vance Is the Loyal Convert in Chief](https://www.wired.com/story/jd-vance-is-the-loyal-convert-in-chief/)
  - [European Commission says Meta has proposed limited changes to its pay-or-consent ad model, and Meta faces daily fines if it determines they are not sufficient &lpar;Reuters&rpar;](http://www.techmeme.com/250627/p5#a250627p5)
- - [Best Internet Providers in Rhode Island](https://www.cnet.com/home/internet/best-internet-providers-in-rhode-island/#ftag=CAD590a51e)
- - [At a &quot;couples retreat&quot; for human-AI pairs, users of services like Replika and Nomi grapple with the virtual reality and emotional limits of their partners &lpar;Sam Apple/Wired&rpar;](http://www.techmeme.com/250627/p4#a250627p4)
- - [Best Internet Providers in Fresno, California](https://www.cnet.com/home/internet/best-internet-providers-in-fresno-ca/#ftag=CAD590a51e)
- - [Best Internet Providers in Salt Lake City, Utah](https://www.cnet.com/home/internet/best-internet-providers-in-salt-lake-city-ut/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 27, #277](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-27-277/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for June 27, #1469](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-27-1469/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

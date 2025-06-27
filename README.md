@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Anthropic tested Claude&#39;s ability to manage a physical &quot;storefront&quot; to mixed results, as the AI struggled with pricing strategy and inventory management &lpar;Ryan Daws/AI News&rpar;](http://www.techmeme.com/250627/p27#a250627p27)
  - [How vulnerable is critical infrastructure to cyberattack in the US?](https://www.theverge.com/cyber-security/693588/cybersecurity-cyberattack-critical-infrastructure-war-expert-iran)
  - [AlgoLaser Pixi Smart Laser Engraver review: Compact engraving for small workshops](https://appleinsider.com/articles/25/06/27/algolaser-pixi-smart-laser-engraver-review-compact-engraving-for-small-workshops?utm_medium=rss)
- - [The 28 Best Deals From REI&#39;s July 4 Outdoor Gear Sale &lpar;2025&rpar;](https://www.wired.com/story/rei-4th-of-july-sale-2025/)
- - [On the a16z podcast, Bryan Kim said a16z backed Cluely because speed in marketing and building beats crafting a perfect &quot;artisan&quot; product due to AI competition &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250627/p26#a250627p26)<!-- TECH:END -->
+ - [Look Up on Friday Night and You Just Might See the Bootids Meteor Shower](https://www.cnet.com/science/space/look-up-on-friday-night-and-you-just-might-see-the-bootids-meteor-shower/#ftag=CAD590a51e)
+ - [Did You Know About the GameStop-Facebook Settlement? Here&#39;s How to File a Claim](https://www.cnet.com/personal-finance/did-you-know-about-the-gamestop-facebook-settlement-heres-how-to-file-a-claim/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

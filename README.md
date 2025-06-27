@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Considering the paradox of progress and work.](http://9gag.com/gag/aMVO6qA)
- - 😝 [Prank the Boss](http://9gag.com/gag/aqyYO2Y)
- - 💣 [Well then? We are waiting!](http://9gag.com/gag/aZZzK9W)
- - 😝 [She does it all!!!](http://9gag.com/gag/amopQX2)
- - 👉 [Burn the witch](http://9gag.com/gag/aE0OjGG)<!-- MEMES:END -->
+ - 😝 [Red Flags Already](http://9gag.com/gag/axyYQ6W)
+ - 😝 [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)
+ - 💣 [On street parking](http://9gag.com/gag/aD2O9dN)
+ - 😝 [Still rather tame compared to what 9gaggers are gonna experience in he//f1re later](http://9gag.com/gag/aPA1L4Q)
+ - 👉 [Time comes for everyone, eventually.](http://9gag.com/gag/a1mEq46)<!-- MEMES:END -->
 
 ---
 

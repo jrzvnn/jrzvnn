@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This could have gone wrong in so many ways. Too bad](http://9gag.com/gag/abAQD5O)
- - 😝 [Just finished it and about to ask my wife.](http://9gag.com/gag/ae97EBp)
- - 💣 [On street parking](http://9gag.com/gag/aD2O9dN)
- - 😝 [Don&#39;t threaten me with a good time...](http://9gag.com/gag/aD2Ov2O)
- - 👉 [Just some numbers..](http://9gag.com/gag/azxYyVB)<!-- MEMES:END -->
+ - 😝 [Watching this artwork emerge is captivating](http://9gag.com/gag/awyY2M8)
+ - 😝 [It\u2019s amazing how the girls don\u2019t realize they look just as silly](http://9gag.com/gag/axyYwMY)
+ - 💣 [That looks like ...](http://9gag.com/gag/a9yOw8o)
+ - 😝 [Unofficial](http://9gag.com/gag/aByOeNQ)
+ - 👉 [Pilot License? Never Heard of Her](http://9gag.com/gag/aMVO7BX)<!-- MEMES:END -->
 
 ---
 

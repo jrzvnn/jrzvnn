@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dinari, which offers blockchain-based US stocks, secures a broker-dealer registration to become the first tokenized equity platform to secure approval in the US &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/250626/p46#a250626p46)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, June 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-june-27/#ftag=CAD590a51e)
- - [Palantir signs a deal with The Nuclear Company under which the startup will pay Palantir $100M over five years to develop AI software for the nuclear industry &lpar;Miquela Thornton/Bloomberg&rpar;](http://www.techmeme.com/250626/p45#a250626p45)
- - [Apple Store Perth City opens in Australia](https://appleinsider.com/articles/25/06/27/apple-store-perth-city-opens-in-australia?utm_medium=rss)
- - [Google launches Doppl, an experimental AI app to let users virtually try on outfits by generating videos from photos, available on iOS and Android in the US &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250626/p44#a250626p44)<!-- TECH:END -->
+ - [Redwood Materials is giving old EV batteries a second life as microgrids](https://www.theverge.com/news/693726/redwood-materials-is-giving-old-ev-batteries-a-second-life-as-microgrids)
+ - [Google has been banned from selling the Pixel 7 in Japan due to a patent dispute related to 4G connectivity; further bans against the Pixel 8 and 9 are possible &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250626/p48#a250626p48)
+ - [Meta says it’s winning the talent war with OpenAI](https://www.theverge.com/command-line-newsletter/694028/meta-openai-100-million-bonus-talent-war)
+ - [Elon Musk says X will charge for ads &quot;based on vertical size&quot;, with an ad taking up the whole screen costing more than one that takes up a quarter of the screen &lpar;Matt Swider/The Shortcut&rpar;](http://www.techmeme.com/250626/p47#a250626p47)
+ - [Dinari, which offers blockchain-based US stocks, secures a broker-dealer registration to become the first tokenized equity platform to secure approval in the US &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/250626/p46#a250626p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

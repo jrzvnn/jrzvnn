@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tested a bunch of gaming laptops and these are the best](https://www.theverge.com/22295181/best-gaming-laptop)
- - [Here are 13 of our favorite deals from Amazon’s early Prime Day sale](https://www.theverge.com/tech/692002/amazon-prime-day-best-early-deals-2025)
- - [Sources: Meta is looking to raise $3B in equity and $26B in debt, from private capital firms, including Apollo Global and KKR, to fund its data center build out &lpar;Financial Times&rpar;](http://www.techmeme.com/250627/p22#a250627p22)
- - [Runway is going to let people generate video games with AI](https://www.theverge.com/ai-artificial-intelligence/694531/runway-ai-video-games-generate)
- - [OpenAI’s Unreleased AGI Paper Could Complicate Microsoft Negotiations](https://www.wired.com/story/openai-five-levels-agi-paper-microsoft-negotiations/)<!-- TECH:END -->
+ - [The Nothing Phone 3 might have the weirdest camera design out there](https://www.theverge.com/news/694635/nothing-phone-3-camera-design-weird)
+ - [Sources: an internal OpenAI paper on AI stages is affecting Microsoft talks by complicating OpenAI&#39;s ability to declare AGI and block Microsoft from its tech &lpar;Kylie Robison/Wired&rpar;](http://www.techmeme.com/250627/p24#a250627p24)
+ - [Meta wants to upload every photo you have to its cloud to give you AI suggestions](https://appleinsider.com/articles/25/06/27/meta-wants-to-upload-every-photo-you-have-to-its-cloud-to-give-you-ai-suggestions?utm_medium=rss)
+ - [Source: OpenAI recently began renting Google&#39;s TPUs to power ChatGPT, marking its first significant use of non-Nvidia chips; Meta also considered using TPUs &lpar;The Information&rpar;](http://www.techmeme.com/250627/p23#a250627p23)
+ - [I tested a bunch of gaming laptops and these are the best](https://www.theverge.com/22295181/best-gaming-laptop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

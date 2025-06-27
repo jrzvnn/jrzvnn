@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [So Long, Blue Screen of Death. Amazingly, You&#39;ll Be Missed](https://www.wired.com/story/so-long-blue-screen-of-death-amazingly-youll-be-missed/)
  - [Adobe’s new camera app is making me rethink phone photography](https://www.theverge.com/tech/694014/adobe-project-indigo-camera-app-hands-on-hdr)
  - [Anthropic launches the Anthropic Economic Futures Program to bolster research on the impacts of AI and encourage new proposals on how to mitigate the downsides &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250627/p18#a250627p18)
  - [Tesla loses key execs but hires a new one from GM’s failed robotaxi company](https://www.theverge.com/news/694301/tesla-executives-gm-cruise-hire-elon-musk)
- - [Denmark plans to clamp down on AI-generated deepfakes by changing copyright law to give its citizens rights to their own body, facial features, and voice &lpar;Miranda Bryant/The Guardian&rpar;](http://www.techmeme.com/250627/p17#a250627p17)
- - [Best Tablet 2025: Top Tablets From Apple, Samsung, Amazon and More](https://www.cnet.com/tech/computing/best-tablet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Denmark plans to clamp down on AI-generated deepfakes by changing copyright law to give its citizens rights to their own body, facial features, and voice &lpar;Miranda Bryant/The Guardian&rpar;](http://www.techmeme.com/250627/p17#a250627p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

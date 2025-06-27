@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Somebody is getting fired\u2026.](http://9gag.com/gag/aW4DynK)
- - 😝 [Marvel...or not Marvel](http://9gag.com/gag/aVvV822)
- - 💣 [She does it all!!!](http://9gag.com/gag/amopQX2)
+ - 😝 [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)
+ - 😝 [No denture adventure](http://9gag.com/gag/aVvV5Gv)
+ - 💣 [Just some numbers..](http://9gag.com/gag/azxYyVB)
  - 😝 [When WW3 starts, but it&#39;s leg day](http://9gag.com/gag/a5Qq3gr)
- - 👉 [Some designs are just timelessly perfect.](http://9gag.com/gag/aAyOLXE)<!-- MEMES:END -->
+ - 👉 [Just finished it and about to ask my wife.](http://9gag.com/gag/ae97EBp)<!-- MEMES:END -->
 
 ---
 

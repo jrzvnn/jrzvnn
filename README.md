@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SCOTUS upholds a broadband subsidy program for low-income users, schools, and others, rejecting claims that its funding mechanism is unconstitutional &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250627/p16#a250627p16)
- - [US Supreme Court Upholds Texas Porn ID Law](https://www.wired.com/story/us-supreme-court-porn-age-verification-decision-2025/)
- - [SCOTUS upholds a Texas law that requires porn websites to verify that their visitors are 18 or older, rejecting a First Amendment challenge to the law &lpar;Josh Gerstein/Politico&rpar;](http://www.techmeme.com/250627/p15#a250627p15)
- - [Low-income broadband fund can keep running, says Supreme Court](https://www.theverge.com/news/689176/supreme-court-universal-service-fund-fcc-ruling)
- - [The Best Cat Toys for Your Furry Friend &lpar;2025&rpar;](https://www.wired.com/story/best-cat-toys/)<!-- TECH:END -->
+ - [Denmark plans to clamp down on AI-generated deepfakes by changing copyright law to give its citizens rights to their own body, facial features, and voice &lpar;Miranda Bryant/The Guardian&rpar;](http://www.techmeme.com/250627/p17#a250627p17)
+ - [Google quietly introduced precise Bluetooth tracking on the Pixel Watch 3](https://www.theverge.com/news/694246/google-android-pixel-watch-3-bluetooth-6-sounding-tracking-wear-os-update)
+ - [Early Prime Day deals: Grab M4 Mac mini 512GB for $699, save up to $900 across the line](https://appleinsider.com/articles/25/06/27/early-prime-day-deals-grab-m4-mac-mini-512gb-for-699-save-up-to-900-across-the-line?utm_medium=rss)
+ - [Porn age-gating is the future of the internet, thanks to the Supreme Court](https://www.theverge.com/internet-censorship/686042/supreme-court-fsc-paxton-porn-age-verification-ruling)
+ - [SCOTUS upholds a broadband subsidy program for low-income users, schools, and others, rejecting claims that its funding mechanism is unconstitutional &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250627/p16#a250627p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

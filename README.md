@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: mass production of Microsoft&#39;s next AI chip is delayed to 2026 and is expected to underperform Nvidia&#39;s Blackwell chip, released in late 2024 &lpar;The Information&rpar;](http://www.techmeme.com/250627/p11#a250627p11)
+ - [The 8 Best Drones &lpar;2025&rpar;:  Flight-Tested and Reviewed](https://www.wired.com/gallery/best-drones/)
+ - [Trump&#39;s new China trade deal is still bad for US business &amp; consumers](https://appleinsider.com/articles/25/06/27/trumps-new-china-trade-deal-is-still-bad-for-us-business-consumers?utm_medium=rss)
  - [12 Best Standing Desks of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-standing-desks/)
- - [PitchBook: US VC investment in AI startups rose 33% QoQ to $65B in Q1, up 550% from the quarter prior to ChatGPT&#39;s 2022 release &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/250627/p10#a250627p10)
- - [Space Elevators Could Totally Work—If Earth Days Were Much Shorter](https://www.wired.com/story/space-elevators-could-work-if-the-days-were-shorter/)
- - [M3gan 2.0 is a fun upgrade that&amp;#8217;s a little too self-aware](https://www.theverge.com/movie-reviews/693140/megan-2-review)
- - [The Next Acetaminophen Tablet You Take Could Be Made From PET](https://www.wired.com/story/the-next-paracetamol-tablet-you-take-could-be-made-from-pet/)<!-- TECH:END -->
+ - [PitchBook: US VC investment in AI startups rose 33% QoQ to $65B in Q1, up 550% from the quarter prior to ChatGPT&#39;s 2022 release &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/250627/p10#a250627p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

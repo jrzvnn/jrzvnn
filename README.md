@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Still rather tame compared to what 9gaggers are gonna experience in he//f1re later](http://9gag.com/gag/aPA1L4Q)
- - 😝 [Women](http://9gag.com/gag/a34beyQ)
- - 💣 [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)
- - 😝 [When your false claim backfires spectacularly](http://9gag.com/gag/amopOg2)
- - 👉 [Argentine women&#39;s hockey team](http://9gag.com/gag/awyY9nr)<!-- MEMES:END -->
+ - 😝 [Understandable](http://9gag.com/gag/abAQKPB)
+ - 😝 [Prank the Boss](http://9gag.com/gag/aqyYO2Y)
+ - 💣 [Well then? We are waiting!](http://9gag.com/gag/aZZzK9W)
+ - 😝 [Burn the witch](http://9gag.com/gag/aE0OjGG)
+ - 👉 [She does it all!!!](http://9gag.com/gag/amopQX2)<!-- MEMES:END -->
 
 ---
 

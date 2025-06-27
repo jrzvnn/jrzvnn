@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Almost](http://9gag.com/gag/a4PW8vm)
  - 😝 [Still rather tame compared to what 9gaggers are gonna experience in he//f1re later](http://9gag.com/gag/aPA1L4Q)
- - 💣 [Let&#39;s remember when this girl throws a coin into a fountain in Florence, and suddenly this guy takes it.](http://9gag.com/gag/aGyOq8K)
- - 😝 [British justice system be like \u201c3 months probation \ud83d\udc68\u2696\ufe0f\u201d](http://9gag.com/gag/a87K9PO)
- - 👉 [Marvel...or not Marvel](http://9gag.com/gag/aVvV822)<!-- MEMES:END -->
+ - 😝 [Well, this is not what I expected in the bathroom](http://9gag.com/gag/ary20V0)
+ - 💣 [Taking mosquito defense to a whole new level.](http://9gag.com/gag/ayNYmbY)
+ - 😝 [She does it all!!!](http://9gag.com/gag/amopQX2)
+ - 👉 [The world needs more bosses like him](http://9gag.com/gag/a1mEnj6)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Still rather tame compared to what 9gaggers are gonna experience in he//f1re later](http://9gag.com/gag/aPA1L4Q)
- - 😝 [Well, this is not what I expected in the bathroom](http://9gag.com/gag/ary20V0)
- - 💣 [Taking mosquito defense to a whole new level.](http://9gag.com/gag/ayNYmbY)
- - 😝 [She does it all!!!](http://9gag.com/gag/amopQX2)
- - 👉 [The world needs more bosses like him](http://9gag.com/gag/a1mEnj6)<!-- MEMES:END -->
+ - 😝 [Just finished it and about to ask my wife.](http://9gag.com/gag/ae97EBp)
+ - 😝 [Marvel...or not Marvel](http://9gag.com/gag/aVvV822)
+ - 💣 [The world needs more bosses like him](http://9gag.com/gag/a1mEnj6)
+ - 😝 [Goodness the daughter suffered too much \ud83d\udc80](http://9gag.com/gag/awyY9o4)
+ - 👉 [Here is an idea](http://9gag.com/gag/aGyOvRZ)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I grew up on these streets](http://9gag.com/gag/aXPKzXz)
  - 😝 [Somebody is getting fired\u2026.](http://9gag.com/gag/aW4DynK)
- - 😝 [Just some numbers..](http://9gag.com/gag/azxYyVB)
- - 💣 [Taking mosquito defense to a whole new level.](http://9gag.com/gag/ayNYmbY)
- - 😝 [She does it all!!!](http://9gag.com/gag/amopQX2)
- - 👉 [Just finished it and about to ask my wife.](http://9gag.com/gag/ae97EBp)<!-- MEMES:END -->
+ - 💣 [Just some numbers..](http://9gag.com/gag/azxYyVB)
+ - 😝 [Lol no worries](http://9gag.com/gag/awyY2zR)
+ - 👉 [She does it all!!!](http://9gag.com/gag/amopQX2)<!-- MEMES:END -->
 
 ---
 

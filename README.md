@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google fully releases Gemma 3n, an open-source, multimodal AI model that can run on as little as 2GB of memory; the model was previously available as a preview &lpar;David Uzondu/Neowin&rpar;](http://www.techmeme.com/250626/p43#a250626p43)
- - [19-year-old Edward Coristine, a DOGE staffer known as &quot;Big Balls&quot; online, has joined the Social Security Administration days after resigning from the GSA &lpar;Wired&rpar;](http://www.techmeme.com/250626/p42#a250626p42)
- - [Aura Triple Boost 14 Pro review: Three portable monitors on any Apple Silicon Mac](https://appleinsider.com/articles/25/06/26/aura-triple-boost-14-pro-review-three-portable-monitors-on-any-apple-silicon-mac?utm_medium=rss)
- - [Google is rolling out its AI-powered &amp;#8216;Ask Photos&amp;#8217; search again – and it has a speed boost](https://www.theverge.com/news/694016/google-ask-photos-ai-gemini-search-speed-latency-boost)
- - [Sources: UK mobile bank Starling is looking to buy a nationally chartered bank with ~$2B of assets in the US as it seeks to expand in the country &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250626/p41#a250626p41)<!-- TECH:END -->
+ - [Dinari, which offers blockchain-based US stocks, secures a broker-dealer registration to become the first tokenized equity platform to secure approval in the US &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/250626/p46#a250626p46)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, June 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-june-27/#ftag=CAD590a51e)
+ - [Palantir signs a deal with The Nuclear Company under which the startup will pay Palantir $100M over five years to develop AI software for the nuclear industry &lpar;Miquela Thornton/Bloomberg&rpar;](http://www.techmeme.com/250626/p45#a250626p45)
+ - [Apple Store Perth City opens in Australia](https://appleinsider.com/articles/25/06/27/apple-store-perth-city-opens-in-australia?utm_medium=rss)
+ - [Google launches Doppl, an experimental AI app to let users virtually try on outfits by generating videos from photos, available on iOS and Android in the US &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250626/p44#a250626p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

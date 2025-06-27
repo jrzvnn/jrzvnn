@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Goals updated.](http://9gag.com/gag/aNDOMQ0)
- - 😝 [Burn the witch](http://9gag.com/gag/aE0OjGG)
- - 💣 [Sheeeeesh](http://9gag.com/gag/azxYy5b)
- - 😝 [She does it all!!!](http://9gag.com/gag/amopQX2)
- - 👉 [Taking mosquito defense to a whole new level.](http://9gag.com/gag/ayNYmbY)<!-- MEMES:END -->
+ - 😝 [They should have tried confidence](http://9gag.com/gag/aE0Oyeo)
+ - 😝 [Funny but Sad](http://9gag.com/gag/abAQLqb)
+ - 💣 [When your false claim backfires spectacularly](http://9gag.com/gag/amopOg2)
+ - 😝 [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)
+ - 👉 [Somebody is getting fired\u2026.](http://9gag.com/gag/aW4DynK)<!-- MEMES:END -->
 
 ---
 

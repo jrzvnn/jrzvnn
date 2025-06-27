@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Germany deems DeepSeek as illegal content after it is unable to address data security concerns, and asks Apple and Google to block it from their app stores &lpar;Reuters&rpar;](http://www.techmeme.com/250627/p6#a250627p6)
+ - [34 Best Family Board Games &lpar;2025&rpar;: Catan, Ticket to Ride, Codenames](https://www.wired.com/gallery/best-family-board-games/)
  - [The Era of ‘Woke’ Brand Activism Is Over](https://www.wired.com/story/the-era-of-woke-brand-activism-is-over/)
  - [JD Vance Is the Loyal Convert in Chief](https://www.wired.com/story/jd-vance-is-the-loyal-convert-in-chief/)
- - [European Commission says Meta has proposed limited changes to its pay-or-consent ad model, and Meta faces daily fines if it determines they are not sufficient &lpar;Reuters&rpar;](http://www.techmeme.com/250627/p5#a250627p5)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 27, #277](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-27-277/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for June 27, #1469](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-27-1469/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [European Commission says Meta has proposed limited changes to its pay-or-consent ad model, and Meta faces daily fines if it determines they are not sufficient &lpar;Reuters&rpar;](http://www.techmeme.com/250627/p5#a250627p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

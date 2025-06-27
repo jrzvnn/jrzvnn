@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple just bought another Bay Area campus for $350 million](https://appleinsider.com/articles/25/06/27/apple-just-bought-another-bay-area-campus-for-350-million?utm_medium=rss)
- - [This smart smoke alarm could be a worthy Nest Protect replacement](https://www.theverge.com/news/694101/place-smart-smoke-co-alarm-gentex-home-safety-system-price-specs-release-date)
- - [Sources: mass production of Microsoft&#39;s next AI chip is delayed to 2026 and is expected to underperform Nvidia&#39;s Blackwell chip, released in late 2024 &lpar;The Information&rpar;](http://www.techmeme.com/250627/p11#a250627p11)
- - [The 8 Best Drones &lpar;2025&rpar;:  Flight-Tested and Reviewed](https://www.wired.com/gallery/best-drones/)
- - [Trump&#39;s new China trade deal is still bad for US business &amp; consumers](https://appleinsider.com/articles/25/06/27/trumps-new-china-trade-deal-is-still-bad-for-us-business-consumers?utm_medium=rss)<!-- TECH:END -->
+ - [The FTC has reopened claims for Fortnite settlement refunds: here’s how you can submit one](https://www.theverge.com/news/694168/ftc-fortnite-epic-games-settlement-new-claims)
+ - [M5 iPad Pro, Wallet, Apple Intelligence, and Workout Buddy on the AppleInsider Podcast](https://appleinsider.com/articles/25/06/27/m5-ipad-pro-wallet-apple-intelligence-and-workout-buddy-on-the-appleinsider-podcast?utm_medium=rss)
+ - [OpenAI hires the team behind Crossing Minds, which raised $13.5M and works with e-commerce companies to improve their personalization and recommendation systems &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250627/p12#a250627p12)
+ - [Google’s Doppl app took off my socks](https://www.theverge.com/news/694087/google-doppl-app-test-launch-ai)
+ - [Apple just bought another Bay Area campus for $350 million](https://appleinsider.com/articles/25/06/27/apple-just-bought-another-bay-area-campus-for-350-million?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

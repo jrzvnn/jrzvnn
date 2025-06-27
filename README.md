@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FTC has reopened claims for Fortnite settlement refunds: here’s how you can submit one](https://www.theverge.com/news/694168/ftc-fortnite-epic-games-settlement-new-claims)
- - [M5 iPad Pro, Wallet, Apple Intelligence, and Workout Buddy on the AppleInsider Podcast](https://appleinsider.com/articles/25/06/27/m5-ipad-pro-wallet-apple-intelligence-and-workout-buddy-on-the-appleinsider-podcast?utm_medium=rss)
- - [OpenAI hires the team behind Crossing Minds, which raised $13.5M and works with e-commerce companies to improve their personalization and recommendation systems &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250627/p12#a250627p12)
- - [Google’s Doppl app took off my socks](https://www.theverge.com/news/694087/google-doppl-app-test-launch-ai)
- - [Apple just bought another Bay Area campus for $350 million](https://appleinsider.com/articles/25/06/27/apple-just-bought-another-bay-area-campus-for-350-million?utm_medium=rss)<!-- TECH:END -->
+ - [Apple researchers work to stop AI from taking actions you didn&#39;t approve](https://appleinsider.com/articles/25/06/27/apple-researchers-work-to-stop-ai-from-taking-actions-you-didnt-approve?utm_medium=rss)
+ - [6 Best Smart Speakers &lpar;2025&rpar;: Alexa, Google Assistant, Siri](https://www.wired.com/story/best-smart-speakers/)
+ - [Sources: Trump is planning EOs on July 23 to help US AI growth, including easing grid access for new power projects and offering federal land for data centers &lpar;Reuters&rpar;](http://www.techmeme.com/250627/p13#a250627p13)
+ - [No One Is in Charge at the US Copyright Office](https://www.wired.com/story/us-copyright-office-chaos-doge/)
+ - [iPhone 17 screen rumored to match iPhone 16 Pro size](https://appleinsider.com/articles/25/06/27/iphone-17-screen-rumored-to-match-iphone-16-pro-size?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [European Commission says Meta has proposed limited changes to its pay-or-consent ad model, and Meta faces daily fines if it determines they are not sufficient &lpar;Reuters&rpar;](http://www.techmeme.com/250627/p5#a250627p5)
  - [Best Internet Providers in Rhode Island](https://www.cnet.com/home/internet/best-internet-providers-in-rhode-island/#ftag=CAD590a51e)
  - [At a &quot;couples retreat&quot; for human-AI pairs, users of services like Replika and Nomi grapple with the virtual reality and emotional limits of their partners &lpar;Sam Apple/Wired&rpar;](http://www.techmeme.com/250627/p4#a250627p4)
  - [Best Internet Providers in Fresno, California](https://www.cnet.com/home/internet/best-internet-providers-in-fresno-ca/#ftag=CAD590a51e)
- - [Best Internet Providers in Salt Lake City, Utah](https://www.cnet.com/home/internet/best-internet-providers-in-salt-lake-city-ut/#ftag=CAD590a51e)
- - [Brazil&#39;s supreme court rules that platforms like Facebook and X can be held liable for user posts, requiring them to remove content even without a court order &lpar;Michael Pooler/Financial Times&rpar;](http://www.techmeme.com/250627/p3#a250627p3)<!-- TECH:END -->
+ - [Best Internet Providers in Salt Lake City, Utah](https://www.cnet.com/home/internet/best-internet-providers-in-salt-lake-city-ut/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

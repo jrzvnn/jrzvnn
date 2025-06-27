@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I tested a bunch of gaming laptops and these are the best](https://www.theverge.com/22295181/best-gaming-laptop)
+ - [Here are 13 of our favorite deals from Amazon’s early Prime Day sale](https://www.theverge.com/tech/692002/amazon-prime-day-best-early-deals-2025)
+ - [Sources: Meta is looking to raise $3B in equity and $26B in debt, from private capital firms, including Apollo Global and KKR, to fund its data center build out &lpar;Financial Times&rpar;](http://www.techmeme.com/250627/p22#a250627p22)
  - [Runway is going to let people generate video games with AI](https://www.theverge.com/ai-artificial-intelligence/694531/runway-ai-video-games-generate)
- - [OpenAI’s Unreleased AGI Paper Could Complicate Microsoft Negotiations](https://www.wired.com/story/openai-five-levels-agi-paper-microsoft-negotiations/)
- - [Trump’s ‘big beautiful bill’ could mean slower Wi-Fi for you](https://www.theverge.com/news/694479/senate-bill-reduce-capacity-6ghz-wifi-band)
- - [Eufy’s Omni C20 mopping robovac is $300 off for a limited time](https://www.theverge.com/tech/694442/eufy-omni-c20-mopping-robovac-biolite-super-mario-odyssey-deal-sale)
- - [A New Threads Feature Saves You From Seeing and Posting Spoilers: Here&#39;s How It Works](https://www.cnet.com/news/social-media/a-new-threads-feature-saves-you-from-seeing-and-posting-spoilers-heres-how-it-works/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI’s Unreleased AGI Paper Could Complicate Microsoft Negotiations](https://www.wired.com/story/openai-five-levels-agi-paper-microsoft-negotiations/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

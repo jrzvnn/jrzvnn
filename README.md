@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump&#39;s tax bill expands Qualified Small Business Stock benefits for VCs, founders, startup staff, including increasing maximum tax-free gains from $10M to $15M &lpar;Ben Steverman/Bloomberg&rpar;](http://www.techmeme.com/250627/p19#a250627p19)
- - [So Long, Blue Screen of Death. Amazingly, You&#39;ll Be Missed](https://www.wired.com/story/so-long-blue-screen-of-death-amazingly-youll-be-missed/)
- - [Adobe’s new camera app is making me rethink phone photography](https://www.theverge.com/tech/694014/adobe-project-indigo-camera-app-hands-on-hdr)
- - [Anthropic launches the Anthropic Economic Futures Program to bolster research on the impacts of AI and encourage new proposals on how to mitigate the downsides &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250627/p18#a250627p18)
- - [Tesla loses key execs but hires a new one from GM’s failed robotaxi company](https://www.theverge.com/news/694301/tesla-executives-gm-cruise-hire-elon-musk)<!-- TECH:END -->
+ - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
+ - [Riot turns to sports betting to help fund its esports leagues](https://www.theverge.com/news/694360/league-of-legends-valorant-sports-betting-sponsorships)
+ - [Nearly one million &#39;Fortnite&#39; users getting FTC refunds for unauthorized charges](https://appleinsider.com/articles/25/06/27/nearly-one-million-fortnite-users-getting-ftc-refunds-for-unauthorized-charges?utm_medium=rss)
+ - [Trump says the US is &quot;terminating all discussions on trade with Canada&quot; in response to Canada&#39;s decision to impose a digital services tax on US tech firms &lpar;Kevin Breuninger/CNBC&rpar;](http://www.techmeme.com/250627/p20#a250627p20)
+ - [Trump&#39;s tax bill expands Qualified Small Business Stock benefits for VCs, founders, startup staff, including increasing maximum tax-free gains from $10M to $15M &lpar;Ben Steverman/Bloomberg&rpar;](http://www.techmeme.com/250627/p19#a250627p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

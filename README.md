@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK retailers are building an arsenal of anti-theft tech powered by AI, computer vision, and facial recognition, as organized crime fuels a shoplifting epidemic &lpar;Laura Onita/Financial Times&rpar;](http://www.techmeme.com/250627/p21#a250627p21)
+ - [&#39;Persona 5: The Phantom X&#39; Brings The Series To Your Phone—and It&#39;s Shockingly Good](https://www.wired.com/story/persona-5-the-phantom-x-brings-the-series-to-your-phone-and-its-shockingly-good/)
+ - [Google&amp;#8217;s carbon emissions just went up again](https://www.theverge.com/news/694475/google-carbon-emissions-ai-environmental-report-2025)
  - [Here’s where you can buy microSD Express cards for the Switch 2](https://www.theverge.com/tech/676075/switch-2-microsd-express-cards-where-to-buy)
- - [Substack Is Having a Moment—Again. But Time Is Running Out](https://www.wired.com/story/substack-is-having-a-moment-again-but-time-is-running-out/)
- - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
- - [Riot turns to sports betting to help fund its esports leagues](https://www.theverge.com/news/694360/league-of-legends-valorant-sports-betting-sponsorships)
- - [Nearly one million &#39;Fortnite&#39; users getting FTC refunds for unauthorized charges](https://appleinsider.com/articles/25/06/27/nearly-one-million-fortnite-users-getting-ftc-refunds-for-unauthorized-charges?utm_medium=rss)<!-- TECH:END -->
+ - [Substack Is Having a Moment—Again. But Time Is Running Out](https://www.wired.com/story/substack-is-having-a-moment-again-but-time-is-running-out/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

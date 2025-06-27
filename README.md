@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Justice served](http://9gag.com/gag/aqyYw1M)
- - 😝 [When your false claim backfires spectacularly](http://9gag.com/gag/amopOg2)
+ - 😝 [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)
+ - 😝 [Just finished it and about to ask my wife.](http://9gag.com/gag/ae97EBp)
  - 💣 [New fear unlocked &lpar;no pun intended&rpar;](http://9gag.com/gag/ajPWGG8)
- - 😝 [A little kindness goes a long way, especially in the MasterChef kitchen.](http://9gag.com/gag/a9yOwwK)
- - 👉 [Still rather tame compared to what 9gaggers are gonna experience in he//f1re later](http://9gag.com/gag/aPA1L4Q)<!-- MEMES:END -->
+ - 😝 [He made bending 220 pounds look easy](http://9gag.com/gag/a34bg6v)
+ - 👉 [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It\u2019s time for you to shared your most cursed image](http://9gag.com/gag/ayNYm4q)
+ - 😝 [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)
+ - 😝 [Let&#39;s remember when this girl throws a coin into a fountain in Florence, and suddenly this guy takes it.](http://9gag.com/gag/aGyOq8K)
+ - 💣 [WTF, Donal Trump just posted this video with this song](http://9gag.com/gag/aMVODEP)
  - 😝 [When your false claim backfires spectacularly](http://9gag.com/gag/amopOg2)
- - 💣 [Somebody is getting fired\u2026.](http://9gag.com/gag/aW4DynK)
- - 😝 [Still rather tame compared to what 9gaggers are gonna experience in he//f1re later](http://9gag.com/gag/aPA1L4Q)
- - 👉 [A little kindness goes a long way, especially in the MasterChef kitchen.](http://9gag.com/gag/a9yOwwK)<!-- MEMES:END -->
+ - 👉 [Somebody is getting fired\u2026.](http://9gag.com/gag/aW4DynK)<!-- MEMES:END -->
 
 ---
 

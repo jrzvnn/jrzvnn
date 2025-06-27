@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple just bought another Bay Area campus for $350 million](https://appleinsider.com/articles/25/06/27/apple-just-bought-another-bay-area-campus-for-350-million?utm_medium=rss)
+ - [This smart smoke alarm could be a worthy Nest Protect replacement](https://www.theverge.com/news/694101/place-smart-smoke-co-alarm-gentex-home-safety-system-price-specs-release-date)
  - [Sources: mass production of Microsoft&#39;s next AI chip is delayed to 2026 and is expected to underperform Nvidia&#39;s Blackwell chip, released in late 2024 &lpar;The Information&rpar;](http://www.techmeme.com/250627/p11#a250627p11)
  - [The 8 Best Drones &lpar;2025&rpar;:  Flight-Tested and Reviewed](https://www.wired.com/gallery/best-drones/)
- - [Trump&#39;s new China trade deal is still bad for US business &amp; consumers](https://appleinsider.com/articles/25/06/27/trumps-new-china-trade-deal-is-still-bad-for-us-business-consumers?utm_medium=rss)
- - [12 Best Standing Desks of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-standing-desks/)
- - [PitchBook: US VC investment in AI startups rose 33% QoQ to $65B in Q1, up 550% from the quarter prior to ChatGPT&#39;s 2022 release &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/250627/p10#a250627p10)<!-- TECH:END -->
+ - [Trump&#39;s new China trade deal is still bad for US business &amp; consumers](https://appleinsider.com/articles/25/06/27/trumps-new-china-trade-deal-is-still-bad-for-us-business-consumers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

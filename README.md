@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Brazil&#39;s supreme court rules that platforms like Facebook and X can be held liable for user posts, requiring them to remove content even without a court order &lpar;Michael Pooler/Financial Times&rpar;](http://www.techmeme.com/250627/p3#a250627p3)
  - [Battery recycler Redwood Materials and Project Stargate member Crusoe launch a 2,000-GPU data center in Nevada powered by repurposed EV batteries &lpar;Michelle Ma/Bloomberg&rpar;](http://www.techmeme.com/250627/p2#a250627p2)
  - [At an all-hands, Andrew Bosworth says Sam Altman is not happy about Meta getting OpenAI talent and is &quot;being dishonest&quot; about Meta offering $100M bonuses &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250627/p1#a250627p1)
- - [Redwood Materials is giving old EV batteries a second life as microgrids](https://www.theverge.com/news/693726/redwood-materials-is-giving-old-ev-batteries-a-second-life-as-microgrids)
  - [Google has been banned from selling the Pixel 7 in Japan due to a patent dispute related to 4G connectivity; further bans against the Pixel 8 and 9 are possible &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250626/p48#a250626p48)
- - [Meta says it’s winning the talent war with OpenAI](https://www.theverge.com/command-line-newsletter/694028/meta-openai-100-million-bonus-talent-war)<!-- TECH:END -->
+ - [Elon Musk says X will charge for ads &quot;based on vertical size&quot;, with an ad taking up the whole screen costing more than one that takes up a quarter of the screen &lpar;Matt Swider/The Shortcut&rpar;](http://www.techmeme.com/250626/p47#a250626p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

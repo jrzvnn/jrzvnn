@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She does it all!!!](http://9gag.com/gag/amopQX2)
- - 😝 [Time comes for everyone, eventually.](http://9gag.com/gag/a1mEq46)
- - 💣 [Bros playing the long game...](http://9gag.com/gag/ajPWMbq)
- - 😝 [When your false claim backfires spectacularly](http://9gag.com/gag/amopOg2)
- - 👉 [Red Flags Already](http://9gag.com/gag/axyYQ6W)<!-- MEMES:END -->
+ - 😝 [Still rather tame compared to what 9gaggers are gonna experience in he//f1re later](http://9gag.com/gag/aPA1L4Q)
+ - 😝 [Women](http://9gag.com/gag/a34beyQ)
+ - 💣 [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)
+ - 😝 [Somebody is getting fired\u2026.](http://9gag.com/gag/aW4DynK)
+ - 👉 [This is what happens in Germany if you publicly display happiness](http://9gag.com/gag/a5Qqvpg)<!-- MEMES:END -->
 
 ---
 

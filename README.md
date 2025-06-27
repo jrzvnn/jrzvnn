@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These 7 Automatic Cat Feeders Were the Best We Tested &lpar;2025&rpar;](https://www.wired.com/gallery/best-automatic-cat-feeders/)
- - [Threads now has a better word filter than Instagram](https://www.theverge.com/news/694074/threads-hidden-words-filter-instagram-feature)
- - [Sources: Shein plans to file confidentially for a Hong Kong IPO; filing confidentially remains relatively rare in Hong Kong &lpar;Reuters&rpar;](http://www.techmeme.com/250627/p9#a250627p9)
- - [Sources: Mark Zuckerberg and his lieutenants have discussed &quot;de-investing&quot; in Llama in favor of AI models from competitors like OpenAI and Anthropic &lpar;New York Times&rpar;](http://www.techmeme.com/250627/p8#a250627p8)
- - [Joybird Eliot Sleeper Sofa Review: Gorgeous and Functional](https://www.wired.com/review/joybird-eliot-sleeper-sofa/)<!-- TECH:END -->
+ - [12 Best Standing Desks of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-standing-desks/)
+ - [PitchBook: US VC investment in AI startups rose 33% QoQ to $65B in Q1, up 550% from the quarter prior to ChatGPT&#39;s 2022 release &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/250627/p10#a250627p10)
+ - [Space Elevators Could Totally Work—If Earth Days Were Much Shorter](https://www.wired.com/story/space-elevators-could-work-if-the-days-were-shorter/)
+ - [M3gan 2.0 is a fun upgrade that&amp;#8217;s a little too self-aware](https://www.theverge.com/movie-reviews/693140/megan-2-review)
+ - [The Next Acetaminophen Tablet You Take Could Be Made From PET](https://www.wired.com/story/the-next-paracetamol-tablet-you-take-could-be-made-from-pet/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

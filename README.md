@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Five productivity-enhancing iOS 26 features that are perfect for business users](https://appleinsider.com/articles/25/06/27/five-productivity-enhancing-ios-26-features-that-are-perfect-for-business-users?utm_medium=rss)
- - [Mattress Shopping Terms to Know &lpar;2025&rpar;](https://www.wired.com/story/mattress-shopping-terms-to-know/)
- - [Q&amp;A with Peter Thiel on economic and technological stagnation, US growth and dynamism, supporting President Trump in 2016, the future and risks of AI, and more &lpar;Ross Douthat/New York Times&rpar;](http://www.techmeme.com/250627/p7#a250627p7)
- - [Germany tells Apple to remove DeepSeek from the App Store](https://appleinsider.com/articles/25/06/27/germany-tells-apple-to-remove-deepseek-from-the-app-store?utm_medium=rss)
- - [The Obsessive Fans Playing God on &#39;Love Island&#39;—and Living for the Crash Outs](https://www.wired.com/story/the-obsessive-fans-playing-god-on-love-island-and-living-for-the-crash-outs/)<!-- TECH:END -->
+ - [These 7 Automatic Cat Feeders Were the Best We Tested &lpar;2025&rpar;](https://www.wired.com/gallery/best-automatic-cat-feeders/)
+ - [Threads now has a better word filter than Instagram](https://www.theverge.com/news/694074/threads-hidden-words-filter-instagram-feature)
+ - [Sources: Shein plans to file confidentially for a Hong Kong IPO; filing confidentially remains relatively rare in Hong Kong &lpar;Reuters&rpar;](http://www.techmeme.com/250627/p9#a250627p9)
+ - [Sources: Mark Zuckerberg and his lieutenants have discussed &quot;de-investing&quot; in Llama in favor of AI models from competitors like OpenAI and Anthropic &lpar;New York Times&rpar;](http://www.techmeme.com/250627/p8#a250627p8)
+ - [Joybird Eliot Sleeper Sofa Review: Gorgeous and Functional](https://www.wired.com/review/joybird-eliot-sleeper-sofa/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

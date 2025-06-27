@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s where you can buy microSD Express cards for the Switch 2](https://www.theverge.com/tech/676075/switch-2-microsd-express-cards-where-to-buy)
+ - [Substack Is Having a Moment—Again. But Time Is Running Out](https://www.wired.com/story/substack-is-having-a-moment-again-but-time-is-running-out/)
  - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
  - [Riot turns to sports betting to help fund its esports leagues](https://www.theverge.com/news/694360/league-of-legends-valorant-sports-betting-sponsorships)
- - [Nearly one million &#39;Fortnite&#39; users getting FTC refunds for unauthorized charges](https://appleinsider.com/articles/25/06/27/nearly-one-million-fortnite-users-getting-ftc-refunds-for-unauthorized-charges?utm_medium=rss)
- - [Trump says the US is &quot;terminating all discussions on trade with Canada&quot; in response to Canada&#39;s decision to impose a digital services tax on US tech firms &lpar;Kevin Breuninger/CNBC&rpar;](http://www.techmeme.com/250627/p20#a250627p20)
- - [Trump&#39;s tax bill expands Qualified Small Business Stock benefits for VCs, founders, startup staff, including increasing maximum tax-free gains from $10M to $15M &lpar;Ben Steverman/Bloomberg&rpar;](http://www.techmeme.com/250627/p19#a250627p19)<!-- TECH:END -->
+ - [Nearly one million &#39;Fortnite&#39; users getting FTC refunds for unauthorized charges](https://appleinsider.com/articles/25/06/27/nearly-one-million-fortnite-users-getting-ftc-refunds-for-unauthorized-charges?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

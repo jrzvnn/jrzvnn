@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [On the a16z podcast, Bryan Kim said a16z backed Cluely because speed in marketing and building beats crafting a perfect &quot;artisan&quot; product due to AI competition &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250627/p26#a250627p26)
  - [A group of 17 GOP governors write to Senate majority leader and House speaker urging for the state AI bill moratorium to be removed from the reconciliation bill &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/250627/p25#a250627p25)
  - [Tesla recently lost two key execs](https://www.theverge.com/news/694301/tesla-executives-gm-cruise-hire-elon-musk)
- - [Microsoft Retires Legendary &#39;Blue Screen of Death&#39; After 40 Years of Frowny Faces](https://www.cnet.com/tech/services-and-software/microsoft-officially-retires-blue-screen-of-death-after-40-years-of-frowny-faces/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Logitech says all its webcams work with Nintendo Switch 2, save one](https://www.theverge.com/news/694565/logitech-webcams-work-with-nintendo-switch-2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

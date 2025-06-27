@@ -157,9 +157,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech says all its webcams work with Nintendo Switch 2 — save one](https://www.theverge.com/news/694565/logitech-webcams-work-with-nintendo-switch-2)
+ - [Logitech says all its webcams work with Nintendo Switch 2, save one](https://www.theverge.com/news/694565/logitech-webcams-work-with-nintendo-switch-2)
  - [The Nothing Phone 3 might have the weirdest camera design out there](https://www.theverge.com/news/694635/nothing-phone-3-camera-design-weird)
- - [Sources: an internal OpenAI paper on AI stages is affecting Microsoft talks by complicating OpenAI&#39;s ability to declare AGI and block Microsoft from its tech &lpar;Kylie Robison/Wired&rpar;](http://www.techmeme.com/250627/p24#a250627p24)
+ - [Sources: OpenAI is not releasing an internal paper on AI stages as it may complicate OpenAI&#39;s ability to declare AGI and block Microsoft from its tech &lpar;Kylie Robison/Wired&rpar;](http://www.techmeme.com/250627/p24#a250627p24)
  - [Meta wants to upload every photo you have to its cloud to give you AI suggestions](https://appleinsider.com/articles/25/06/27/meta-wants-to-upload-every-photo-you-have-to-its-cloud-to-give-you-ai-suggestions?utm_medium=rss)
  - [Source: OpenAI recently began renting Google&#39;s TPUs to power ChatGPT, marking its first significant use of non-Nvidia chips; Meta also considered using TPUs &lpar;The Information&rpar;](http://www.techmeme.com/250627/p23#a250627p23)<!-- TECH:END -->
 

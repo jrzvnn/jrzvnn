@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just finished it and about to ask my wife.](http://9gag.com/gag/ae97EBp)
- - 😝 [Marvel...or not Marvel](http://9gag.com/gag/aVvV822)
- - 💣 [The world needs more bosses like him](http://9gag.com/gag/a1mEnj6)
- - 😝 [Goodness the daughter suffered too much \ud83d\udc80](http://9gag.com/gag/awyY9o4)
- - 👉 [Here is an idea](http://9gag.com/gag/aGyOvRZ)<!-- MEMES:END -->
+ - 😝 [Short circuit explained](http://9gag.com/gag/a87Kg5Y)
+ - 😝 [Watching this artwork emerge is captivating](http://9gag.com/gag/awyY2M8)
+ - 💣 [It\u2019s amazing how the girls don\u2019t realize they look just as silly](http://9gag.com/gag/axyYwMY)
+ - 😝 [Pilot License? Never Heard of Her](http://9gag.com/gag/aMVO7BX)
+ - 👉 [That looks like ...](http://9gag.com/gag/a9yOw8o)<!-- MEMES:END -->
 
 ---
 

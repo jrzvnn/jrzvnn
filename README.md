@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)
- - 😝 [Just finished it and about to ask my wife.](http://9gag.com/gag/ae97EBp)
- - 💣 [New fear unlocked &lpar;no pun intended&rpar;](http://9gag.com/gag/ajPWGG8)
- - 😝 [He made bending 220 pounds look easy](http://9gag.com/gag/a34bg6v)
- - 👉 [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)<!-- MEMES:END -->
+ - 😝 [Still rather tame compared to what 9gaggers are gonna experience in he//f1re later](http://9gag.com/gag/aPA1L4Q)
+ - 😝 [Somebody is getting fired\u2026.](http://9gag.com/gag/aW4DynK)
+ - 💣 [Some designs are just timelessly perfect.](http://9gag.com/gag/aAyOLXE)
+ - 😝 [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)
+ - 👉 [Just finished it and about to ask my wife.](http://9gag.com/gag/ae97EBp)<!-- MEMES:END -->
 
 ---
 

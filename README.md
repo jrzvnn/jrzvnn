@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump’s ‘big beautiful bill’ could mean slower Wi-Fi for you](https://www.theverge.com/news/694479/senate-bill-reduce-capacity-6ghz-wifi-band)
  - [Eufy’s Omni C20 mopping robovac is $300 off for a limited time](https://www.theverge.com/tech/694442/eufy-omni-c20-mopping-robovac-biolite-super-mario-odyssey-deal-sale)
  - [UK retailers are building an arsenal of anti-theft tech powered by AI, computer vision, and facial recognition, as organized crime fuels a shoplifting epidemic &lpar;Laura Onita/Financial Times&rpar;](http://www.techmeme.com/250627/p21#a250627p21)
  - [&#39;Persona 5: The Phantom X&#39; Brings The Series To Your Phone—and It&#39;s Shockingly Good](https://www.wired.com/story/persona-5-the-phantom-x-brings-the-series-to-your-phone-and-its-shockingly-good/)
- - [Google&amp;#8217;s carbon emissions just went up again](https://www.theverge.com/news/694475/google-carbon-emissions-ai-environmental-report-2025)
- - [Here’s where you can buy microSD Express cards for the Switch 2](https://www.theverge.com/tech/676075/switch-2-microsd-express-cards-where-to-buy)<!-- TECH:END -->
+ - [Google&amp;#8217;s carbon emissions just went up again](https://www.theverge.com/news/694475/google-carbon-emissions-ai-environmental-report-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

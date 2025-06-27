@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your false claim backfires spectacularly](http://9gag.com/gag/amopOg2)
- - 😝 [A little kindness goes a long way, especially in the MasterChef kitchen.](http://9gag.com/gag/a9yOwwK)
- - 💣 [The world needs more bosses like him](http://9gag.com/gag/a1mEnj6)
- - 😝 [Argentine women&#39;s hockey team](http://9gag.com/gag/awyY9nr)
- - 👉 [Somebody is getting fired\u2026.](http://9gag.com/gag/aW4DynK)<!-- MEMES:END -->
+ - 😝 [Still rather tame compared to what 9gaggers are gonna experience in he//f1re later](http://9gag.com/gag/aPA1L4Q)
+ - 😝 [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)
+ - 💣 [Somebody is getting fired\u2026.](http://9gag.com/gag/aW4DynK)
+ - 😝 [Almost](http://9gag.com/gag/a4PW8vm)
+ - 👉 [Just finished it and about to ask my wife.](http://9gag.com/gag/ae97EBp)<!-- MEMES:END -->
 
 ---
 

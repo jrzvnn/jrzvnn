@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The lawyer must be glad her client is doing a life sentence in prison](http://9gag.com/gag/a87Kv3O)
- - 😝 [No denture adventure](http://9gag.com/gag/aVvV5Gv)
- - 💣 [Just some numbers..](http://9gag.com/gag/azxYyVB)
- - 😝 [When WW3 starts, but it&#39;s leg day](http://9gag.com/gag/a5Qq3gr)
+ - 😝 [Somebody is getting fired\u2026.](http://9gag.com/gag/aW4DynK)
+ - 😝 [Just some numbers..](http://9gag.com/gag/azxYyVB)
+ - 💣 [Taking mosquito defense to a whole new level.](http://9gag.com/gag/ayNYmbY)
+ - 😝 [She does it all!!!](http://9gag.com/gag/amopQX2)
  - 👉 [Just finished it and about to ask my wife.](http://9gag.com/gag/ae97EBp)<!-- MEMES:END -->
 
 ---

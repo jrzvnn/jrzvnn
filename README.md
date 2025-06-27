@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Always the same ending](http://9gag.com/gag/a7op6Ym)
- - 😝 [On street parking](http://9gag.com/gag/aD2O9dN)
- - 💣 [Time comes for everyone, eventually.](http://9gag.com/gag/a1mEq46)
- - 😝 [The world needs more bosses like him](http://9gag.com/gag/a1mEnj6)
- - 👉 [Quick reflexes save the day in a close call on the road](http://9gag.com/gag/a34bpy3)<!-- MEMES:END -->
+ - 😝 [Considering the paradox of progress and work.](http://9gag.com/gag/aMVO6qA)
+ - 😝 [Prank the Boss](http://9gag.com/gag/aqyYO2Y)
+ - 💣 [Well then? We are waiting!](http://9gag.com/gag/aZZzK9W)
+ - 😝 [She does it all!!!](http://9gag.com/gag/amopQX2)
+ - 👉 [Burn the witch](http://9gag.com/gag/aE0OjGG)<!-- MEMES:END -->
 
 ---
 

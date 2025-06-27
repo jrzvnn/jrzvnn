@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me every time](https://www.reddit.com/r/memes/comments/1llv74d/me_every_time/)
- - 😝 [POV: You POS](https://www.reddit.com/r/memes/comments/1llv24v/pov_you_pos/)
- - 💣 [Sir Butter of Fridge](https://www.reddit.com/r/funny/comments/1llu8je/sir_butter_of_fridge/)
- - 😝 [Imagine seeing this inside your school classroom.](https://www.reddit.com/r/memes/comments/1llu728/imagine_seeing_this_inside_your_school_classroom/)
- - 👉 [Grandma is a hacker!](https://www.reddit.com/r/funny/comments/1lltwr7/grandma_is_a_hacker/)<!-- MEMES:END -->
+ - 😝 [When your false claim backfires spectacularly](http://9gag.com/gag/amopOg2)
+ - 😝 [A little kindness goes a long way, especially in the MasterChef kitchen.](http://9gag.com/gag/a9yOwwK)
+ - 💣 [The world needs more bosses like him](http://9gag.com/gag/a1mEnj6)
+ - 😝 [Argentine women&#39;s hockey team](http://9gag.com/gag/awyY9nr)
+ - 👉 [Somebody is getting fired\u2026.](http://9gag.com/gag/aW4DynK)<!-- MEMES:END -->
 
 ---
 

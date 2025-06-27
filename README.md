@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I grew up on these streets](http://9gag.com/gag/aXPKzXz)
- - 😝 [Somebody is getting fired\u2026.](http://9gag.com/gag/aW4DynK)
- - 💣 [Just some numbers..](http://9gag.com/gag/azxYyVB)
- - 😝 [Lol no worries](http://9gag.com/gag/awyY2zR)
- - 👉 [She does it all!!!](http://9gag.com/gag/amopQX2)<!-- MEMES:END -->
+ - 😝 [On street parking](http://9gag.com/gag/aD2O9dN)
+ - 😝 [Watching this artwork emerge is captivating](http://9gag.com/gag/awyY2M8)
+ - 💣 [It\u2019s amazing how the girls don\u2019t realize they look just as silly](http://9gag.com/gag/axyYwMY)
+ - 😝 [That looks like ...](http://9gag.com/gag/a9yOw8o)
+ - 👉 [Pilot License? Never Heard of Her](http://9gag.com/gag/aMVO7BX)<!-- MEMES:END -->
 
 ---
 

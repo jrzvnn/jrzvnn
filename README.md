@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Watching this artwork emerge is captivating](http://9gag.com/gag/awyY2M8)
- - 😝 [It\u2019s amazing how the girls don\u2019t realize they look just as silly](http://9gag.com/gag/axyYwMY)
- - 💣 [That looks like ...](http://9gag.com/gag/a9yOw8o)
- - 😝 [Unofficial](http://9gag.com/gag/aByOeNQ)
- - 👉 [Pilot License? Never Heard of Her](http://9gag.com/gag/aMVO7BX)<!-- MEMES:END -->
+ - 😝 [This could have gone wrong in so many ways. Too bad](http://9gag.com/gag/abAQD5O)
+ - 😝 [Somebody is getting fired\u2026.](http://9gag.com/gag/aW4DynK)
+ - 💣 [What 9gagger will do if they&#39;re approached by a woman](http://9gag.com/gag/amopy3d)
+ - 😝 [So white its using a subaru...](http://9gag.com/gag/amopwQ6)
+ - 👉 [Still rather tame compared to what 9gaggers are gonna experience in he//f1re later](http://9gag.com/gag/aPA1L4Q)<!-- MEMES:END -->
 
 ---
 

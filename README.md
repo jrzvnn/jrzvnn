@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Still rather tame compared to what 9gaggers are gonna experience in he//f1re later](http://9gag.com/gag/aPA1L4Q)
- - 😝 [Somebody is getting fired\u2026.](http://9gag.com/gag/aW4DynK)
- - 💣 [Some designs are just timelessly perfect.](http://9gag.com/gag/aAyOLXE)
- - 😝 [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)
- - 👉 [Just finished it and about to ask my wife.](http://9gag.com/gag/ae97EBp)<!-- MEMES:END -->
+ - 😝 [Sheeeeesh](http://9gag.com/gag/azxYy5b)
+ - 😝 [Taking mosquito defense to a whole new level.](http://9gag.com/gag/ayNYmbY)
+ - 💣 [It\u2019s amazing how the girls don\u2019t realize they look just as silly](http://9gag.com/gag/axyYwMY)
+ - 😝 [On street parking](http://9gag.com/gag/aD2O9dN)
+ - 👉 [Gentleman - president of Czech republic](http://9gag.com/gag/amopwwy)<!-- MEMES:END -->
 
 ---
 

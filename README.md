@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Runway is going to let people generate video games with AI](https://www.theverge.com/ai-artificial-intelligence/694531/runway-ai-video-games-generate)
  - [OpenAI’s Unreleased AGI Paper Could Complicate Microsoft Negotiations](https://www.wired.com/story/openai-five-levels-agi-paper-microsoft-negotiations/)
  - [Trump’s ‘big beautiful bill’ could mean slower Wi-Fi for you](https://www.theverge.com/news/694479/senate-bill-reduce-capacity-6ghz-wifi-band)
  - [Eufy’s Omni C20 mopping robovac is $300 off for a limited time](https://www.theverge.com/tech/694442/eufy-omni-c20-mopping-robovac-biolite-super-mario-odyssey-deal-sale)
- - [UK retailers are building an arsenal of anti-theft tech powered by AI, computer vision, and facial recognition, as organized crime fuels a shoplifting epidemic &lpar;Laura Onita/Financial Times&rpar;](http://www.techmeme.com/250627/p21#a250627p21)
- - [&#39;Persona 5: The Phantom X&#39; Brings The Series To Your Phone—and It&#39;s Shockingly Good](https://www.wired.com/story/persona-5-the-phantom-x-brings-the-series-to-your-phone-and-its-shockingly-good/)<!-- TECH:END -->
+ - [A New Threads Feature Saves You From Seeing and Posting Spoilers: Here&#39;s How It Works](https://www.cnet.com/news/social-media/a-new-threads-feature-saves-you-from-seeing-and-posting-spoilers-heres-how-it-works/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

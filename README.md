@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Short circuit explained](http://9gag.com/gag/a87Kg5Y)
- - 😝 [Watching this artwork emerge is captivating](http://9gag.com/gag/awyY2M8)
- - 💣 [It\u2019s amazing how the girls don\u2019t realize they look just as silly](http://9gag.com/gag/axyYwMY)
- - 😝 [Pilot License? Never Heard of Her](http://9gag.com/gag/aMVO7BX)
- - 👉 [That looks like ...](http://9gag.com/gag/a9yOw8o)<!-- MEMES:END -->
+ - 😝 [She does it all!!!](http://9gag.com/gag/amopQX2)
+ - 😝 [Just finished it and about to ask my wife.](http://9gag.com/gag/ae97EBp)
+ - 💣 [Lol no worries](http://9gag.com/gag/awyY2zR)
+ - 😝 [Some designs are just timelessly perfect.](http://9gag.com/gag/aAyOLXE)
+ - 👉 [Taking mosquito defense to a whole new level.](http://9gag.com/gag/ayNYmbY)<!-- MEMES:END -->
 
 ---
 

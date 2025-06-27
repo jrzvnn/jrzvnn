@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [This could have gone wrong in so many ways. Too bad](http://9gag.com/gag/abAQD5O)
- - 😝 [Somebody is getting fired\u2026.](http://9gag.com/gag/aW4DynK)
- - 💣 [What 9gagger will do if they&#39;re approached by a woman](http://9gag.com/gag/amopy3d)
+ - 😝 [Just some numbers..](http://9gag.com/gag/azxYyVB)
+ - 💣 [I grew up on these streets](http://9gag.com/gag/aXPKzXz)
  - 😝 [So white its using a subaru...](http://9gag.com/gag/amopwQ6)
- - 👉 [Still rather tame compared to what 9gaggers are gonna experience in he//f1re later](http://9gag.com/gag/aPA1L4Q)<!-- MEMES:END -->
+ - 👉 [Saving a woman by grabbing on her hair](http://9gag.com/gag/a6Zj6ve)<!-- MEMES:END -->
 
 ---
 

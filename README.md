@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They should have tried confidence](http://9gag.com/gag/aE0Oyeo)
- - 😝 [Funny but Sad](http://9gag.com/gag/abAQLqb)
- - 💣 [When your false claim backfires spectacularly](http://9gag.com/gag/amopOg2)
- - 😝 [Women rank themselves vs men rank them.](http://9gag.com/gag/aO8RnKy)
- - 👉 [Somebody is getting fired\u2026.](http://9gag.com/gag/aW4DynK)<!-- MEMES:END -->
+ - 😝 [Marvel...or not Marvel](http://9gag.com/gag/aVvV822)
+ - 😝 [WTF, Donal Trump just posted this video with this song](http://9gag.com/gag/aMVODEP)
+ - 💣 [Red Flags Already](http://9gag.com/gag/axyYQ6W)
+ - 😝 [Some designs are just timelessly perfect.](http://9gag.com/gag/aAyOLXE)
+ - 👉 [A little kindness goes a long way, especially in the MasterChef kitchen.](http://9gag.com/gag/a9yOwwK)<!-- MEMES:END -->
 
 ---
 

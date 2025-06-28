@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Always find that someone](http://9gag.com/gag/aO8RW7N)
- - 😝 [The generational gap in financial stability is quite the reality check.](http://9gag.com/gag/aNDOELb)
- - 💣 [Gentleman - president of Czech republic](http://9gag.com/gag/amopwwy)
- - 😝 [A little emotional damage.](http://9gag.com/gag/a34bOq3)
- - 👉 [Saluting true love](http://9gag.com/gag/a87KO3V)<!-- MEMES:END -->
+ - 😝 [It&#39;s happening](http://9gag.com/gag/aMVO7GR)
+ - 😝 [Consumer mentality](http://9gag.com/gag/ayNYw1W)
+ - 💣 [This could have gone wrong in so many ways. Too bad](http://9gag.com/gag/abAQD5O)
+ - 😝 [Popcorn factory?](http://9gag.com/gag/aqyYMRp)
+ - 👉 [He made bending 220 pounds look easy](http://9gag.com/gag/a34bg6v)<!-- MEMES:END -->
 
 ---
 

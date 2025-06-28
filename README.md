@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Did AI companies win a fight with authors? Technically](https://www.theverge.com/analysis/694657/ai-copyright-rulings-anthropic-meta)
- - [Mattress Buying: In-Store or Online?](https://www.wired.com/story/online-vs-store-mattress-shopping/)
- - [Lamborghini Revuelto review: perfect harmony](https://www.theverge.com/electric-cars/689437/lamborghini-revuelto-review-phev-specs-price)
- - [Breville Luxe Brewer Review &lpar;2025&rpar;: Good Drip, Real Cold Brew](https://www.wired.com/review/breville-luxe-brewer-drip-coffeemaker/)
- - [Protect Yourself From Sketchy Calls: Unknown Caller vs. No Caller ID](https://www.cnet.com/tech/mobile/protect-yourself-from-sketchy-calls-unknown-caller-vs-no-caller-id/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Kobo’s Libra Colour and Elipsa 2E e-readers have dropped to some of their best prices](https://www.theverge.com/tech/694492/kobo-elipsa-2e-libra-color-yeedi-cube-deal-sale)
+ - [Reddit turns 20, and it’s going big on AI](https://www.theverge.com/reddit/692481/reddit-20th-anniversary-cto-ai-future)
+ - [How extreme heat disproportionately affects Latino neighborhoods](https://www.theverge.com/climate-change/694711/heatwave-latino-neighborhoods-data-dashboard-ucla)
+ - [Atlantic Council: US cyber power is hampered by an inefficient supply chain for zero days, with too few providers and &quot;levels of middlemen&quot; driving up costs &lpar;Patrick Howell O&#39;Neill/Bloomberg&rpar;](http://www.techmeme.com/250628/p7#a250628p7)
+ - [Did AI companies win a fight with authors? Technically](https://www.theverge.com/analysis/694657/ai-copyright-rulings-anthropic-meta)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

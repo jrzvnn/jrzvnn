@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla says it delivered its first car autonomously from factory to customer](https://www.theverge.com/news/694801/tesla-autonomous-delivery-factory-customer-robotaxi)
  - [A look at AIFF 2025, Runway&#39;s third annual AI Film Festival featuring 10 shorts, as the film and TV industry remains divided over the role of AI in its future &lpar;Samuel Axon/Ars Technica&rpar;](http://www.techmeme.com/250628/p8#a250628p8)
  - [Kobo’s Libra Colour and Elipsa 2E e-readers have dropped to some of their best prices](https://www.theverge.com/tech/694492/kobo-elipsa-2e-libra-color-yeedi-cube-deal-sale)
  - [Staples Union &amp; Scale FlexFit Desk Converter Review: Reliable Riser](https://www.wired.com/review/staples-union-and-scale-flexfit-manual-desk-converter/)
- - [Reddit turns 20, and it’s going big on AI](https://www.theverge.com/reddit/692481/reddit-20th-anniversary-cto-ai-future)
- - [How extreme heat disproportionately affects Latino neighborhoods](https://www.theverge.com/climate-change/694711/heatwave-latino-neighborhoods-data-dashboard-ucla)<!-- TECH:END -->
+ - [Reddit turns 20, and it’s going big on AI](https://www.theverge.com/reddit/692481/reddit-20th-anniversary-cto-ai-future)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

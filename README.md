@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s happening](http://9gag.com/gag/aMVO7GR)
  - 😝 [Let&#39;s remember when this girl throws a coin into a fountain in Florence, and suddenly this guy takes it.](http://9gag.com/gag/aGyOq8K)
- - 💣 [Saving a woman by grabbing on her hair](http://9gag.com/gag/a6Zj6ve)
- - 😝 [Almost](http://9gag.com/gag/a4PW8vm)
- - 👉 [Uber&#39;s latest service offering.](http://9gag.com/gag/ae97zyq)<!-- MEMES:END -->
+ - 😝 [The ultimate financial freedom has been achieved.](http://9gag.com/gag/ae97q8v)
+ - 💣 [What 9gagger will do if they&#39;re approached by a woman](http://9gag.com/gag/amopy3d)
+ - 😝 [Uber&#39;s latest service offering.](http://9gag.com/gag/ae97zyq)
+ - 👉 [When WW3 starts, but it&#39;s leg day](http://9gag.com/gag/a5Qq3gr)<!-- MEMES:END -->
 
 ---
 

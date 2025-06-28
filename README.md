@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That escape plan was smooth until it wasn&#39;t](http://9gag.com/gag/a5Qq3or)
- - 😝 [She does it all!!!](http://9gag.com/gag/amopQX2)
- - 💣 [Lol no worries](http://9gag.com/gag/awyY2zR)
- - 😝 [What 9gagger will do if they&#39;re approached by a woman](http://9gag.com/gag/amopy3d)
- - 👉 [Uber&#39;s latest service offering.](http://9gag.com/gag/ae97zyq)<!-- MEMES:END -->
+ - 😝 [Let&#39;s remember when this girl throws a coin into a fountain in Florence, and suddenly this guy takes it.](http://9gag.com/gag/aGyOq8K)
+ - 😝 [Sophia Loren&#39;s legendary side-eye at Jayne Mansfield in 1957.](http://9gag.com/gag/aAyOAoL)
+ - 💣 [Still rather tame compared to what 9gaggers are gonna experience in he//f1re later](http://9gag.com/gag/aPA1L4Q)
+ - 😝 [Lol no worries](http://9gag.com/gag/awyY2zR)
+ - 👉 [That escape plan was smooth until it wasn&#39;t](http://9gag.com/gag/a5Qq3or)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s happening](http://9gag.com/gag/aMVO7GR)
- - 😝 [Consumer mentality](http://9gag.com/gag/ayNYw1W)
- - 💣 [This could have gone wrong in so many ways. Too bad](http://9gag.com/gag/abAQD5O)
  - 😝 [Popcorn factory?](http://9gag.com/gag/aqyYMRp)
- - 👉 [He made bending 220 pounds look easy](http://9gag.com/gag/a34bg6v)<!-- MEMES:END -->
+ - 😝 [Lol no worries](http://9gag.com/gag/awyY2zR)
+ - 💣 [Title](http://9gag.com/gag/aZZzXM6)
+ - 😝 [Shhh](http://9gag.com/gag/a5QqYOO)
+ - 👉 [Consumer mentality](http://9gag.com/gag/ayNYw1W)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 24 Best Movies on Amazon Prime Right Now &lpar;July 2025&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
+ - [The World Is Producing More Food than Ever—but Not for Long](https://www.wired.com/story/the-world-is-producing-more-food-than-ever-before-but-not-for-long/)
+ - [Fancy Airplane Seats Have Nowhere Left to Go—So What Now?](https://www.wired.com/story/fancy-airplane-seats-have-nowhere-left-to-go-so-what-now/)
  - [An in-depth look at how foreign scammers use US banks to facilitate large-scale transfers of funds stolen from victims of &quot;pig butchering&quot; scams overseas &lpar;Cezary Podkul/ProPublica&rpar;](http://www.techmeme.com/250628/p6#a250628p6)
- - [ICE Rolls Facial Recognition Tools Out to Officers&#39; Phones](https://www.wired.com/story/ice-rolls-facial-recognition-tools-out-to-officers-phones/)
- - [The AI Backlash Keeps Growing Stronger](https://www.wired.com/story/generative-ai-backlash/)
- - [Gear News This Week: The Repairable Fairphone 6 Arrives and Samsung&#39;s Galaxy Unpacked Is Up Next](https://www.wired.com/story/gear-news-this-week-the-repairable-fairphone-6-arrives-and-samsungs-galaxy-unpacked-is-up-next/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 28, #278](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-28-278/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [ICE Rolls Facial Recognition Tools Out to Officers&#39; Phones](https://www.wired.com/story/ice-rolls-facial-recognition-tools-out-to-officers-phones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Source: Meta hired four more OpenAI researchers, including key contributors to o1-mini and o3-mini, as Zuckerberg continues an unprecedented recruiting effort &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/250628/p12#a250628p12)
  - [A profile of London-based CloudNC, a leading provider of AI-powered CNC software that is helping US manufacturers overcome a shortage of trained operators &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/250628/p11#a250628p11)
- - [&#39;F1&#39; is Apple&#39;s biggest hit with $55M+ opening weekend](https://appleinsider.com/articles/25/06/28/f1-is-apples-biggest-hit-with-55m-opening-weekend?utm_medium=rss)
- - [The DOJ settles its lawsuit challenging HPE&#39;s $14B acquisition of Juniper; HPE must divest Instant On and license the source code for Juniper&#39;s Mist AI software &lpar;Rishabh Jaiswal/Reuters&rpar;](http://www.techmeme.com/250628/p10#a250628p10)
- - [6 Best Mesh Wi-Fi Systems &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-mesh-wifi-routers/)<!-- TECH:END -->
+ - [How to Watch Benfica vs. Chelsea Anywhere Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-benfica-vs-chelsea-anywhere-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)
+ - [Waiting for Mortgage Rates to Drop in a Recession? This Realtor Has a Hot Take](https://www.cnet.com/personal-finance/mortgages/waiting-for-mortgage-rates-to-drop-in-a-recession-this-realtor-has-a-hot-take/#ftag=CAD590a51e)
+ - [This Is How Much Interest You&#39;ll Earn by Depositing $10,000 Into a CD Now](https://www.cnet.com/personal-finance/banking/this-is-how-much-interest-youll-earn-by-depositing-10000-into-a-cd-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

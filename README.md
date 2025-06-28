@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remembering this iconic look from the early 2000s](http://9gag.com/gag/a4PWO5y)
- - 😝 [Grandpa&#39;s stomach coating advice had explosive results](http://9gag.com/gag/ae97zzj)
- - 💣 [Who&#39;s walking who now?](http://9gag.com/gag/amop4VX)
+ - 😝 [He made bending 220 pounds look easy](http://9gag.com/gag/a34bg6v)
+ - 😝 [Who&#39;s walking who now?](http://9gag.com/gag/amop4VX)
+ - 💣 [Grandpa&#39;s stomach coating advice had explosive results](http://9gag.com/gag/ae97zzj)
  - 😝 [The arm game is strong with the Roborock robot vacuum.](http://9gag.com/gag/aO8R5V2)
- - 👉 [What happen inside your washing machine](http://9gag.com/gag/a2vL6L9)<!-- MEMES:END -->
+ - 👉 [So we all cousins](http://9gag.com/gag/a7opYre)<!-- MEMES:END -->
 
 ---
 

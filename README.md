@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [It&#39;s happening](http://9gag.com/gag/aMVO7GR)
  - 😝 [Let&#39;s remember when this girl throws a coin into a fountain in Florence, and suddenly this guy takes it.](http://9gag.com/gag/aGyOq8K)
- - 😝 [Sophia Loren&#39;s legendary side-eye at Jayne Mansfield in 1957.](http://9gag.com/gag/aAyOAoL)
- - 💣 [Still rather tame compared to what 9gaggers are gonna experience in he//f1re later](http://9gag.com/gag/aPA1L4Q)
- - 😝 [Lol no worries](http://9gag.com/gag/awyY2zR)
- - 👉 [That escape plan was smooth until it wasn&#39;t](http://9gag.com/gag/a5Qq3or)<!-- MEMES:END -->
+ - 💣 [That escape plan was smooth until it wasn&#39;t](http://9gag.com/gag/a5Qq3or)
+ - 😝 [An entire garden, without a single grain of soil, sand or compost](http://9gag.com/gag/aGyOq5X)
+ - 👉 [This could have gone wrong in so many ways. Too bad](http://9gag.com/gag/abAQD5O)<!-- MEMES:END -->
 
 ---
 

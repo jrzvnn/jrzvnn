@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let&#39;s remember when this girl throws a coin into a fountain in Florence, and suddenly this guy takes it.](http://9gag.com/gag/aGyOq8K)
- - 😝 [The ultimate financial freedom has been achieved.](http://9gag.com/gag/ae97q8v)
- - 💣 [What 9gagger will do if they&#39;re approached by a woman](http://9gag.com/gag/amopy3d)
- - 😝 [Uber&#39;s latest service offering.](http://9gag.com/gag/ae97zyq)
- - 👉 [When WW3 starts, but it&#39;s leg day](http://9gag.com/gag/a5Qq3gr)<!-- MEMES:END -->
+ - 😝 [The claws of an eagle.](http://9gag.com/gag/aNDOXNr)
+ - 😝 [Sophia Loren&#39;s legendary side-eye at Jayne Mansfield in 1957.](http://9gag.com/gag/aAyOAoL)
+ - 💣 [When the prank is so good, you just roll with it](http://9gag.com/gag/amopy0v)
+ - 😝 [Title](http://9gag.com/gag/aZZzXM6)
+ - 👉 [Just some numbers..](http://9gag.com/gag/azxYyVB)<!-- MEMES:END -->
 
 ---
 

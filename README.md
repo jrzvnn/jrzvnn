@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This could have gone wrong in so many ways. Too bad](http://9gag.com/gag/abAQD5O)
- - 😝 [Just some numbers..](http://9gag.com/gag/azxYyVB)
- - 💣 [I grew up on these streets](http://9gag.com/gag/aXPKzXz)
- - 😝 [So white its using a subaru...](http://9gag.com/gag/amopwQ6)
- - 👉 [Saving a woman by grabbing on her hair](http://9gag.com/gag/a6Zj6ve)<!-- MEMES:END -->
+ - 😝 [Still rather tame compared to what 9gaggers are gonna experience in he//f1re later](http://9gag.com/gag/aPA1L4Q)
+ - 😝 [Lol no worries](http://9gag.com/gag/awyY2zR)
+ - 💣 [The endless quest for the perfect pasta shape continues](http://9gag.com/gag/agmEbQx)
+ - 😝 [Consumer mentality](http://9gag.com/gag/ayNYw1W)
+ - 👉 [Just some numbers..](http://9gag.com/gag/azxYyVB)<!-- MEMES:END -->
 
 ---
 

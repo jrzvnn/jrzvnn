@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The generational gap in financial stability is quite the reality check.](http://9gag.com/gag/aNDOELb)
- - 😝 [B*tchslap](http://9gag.com/gag/adBoDoM)
- - 💣 [A little kindness goes a long way, especially in the MasterChef kitchen.](http://9gag.com/gag/a9yOwwK)
+ - 😝 [When WW3 starts, but it&#39;s leg day](http://9gag.com/gag/a5Qq3gr)
+ - 😝 [Remembering this iconic look from the early 2000s](http://9gag.com/gag/a4PWO5y)
+ - 💣 [Consumer mentality](http://9gag.com/gag/ayNYw1W)
  - 😝 [The arm game is strong with the Roborock robot vacuum.](http://9gag.com/gag/aO8R5V2)
- - 👉 [Oh....shieeee...](http://9gag.com/gag/apRY4p8)<!-- MEMES:END -->
+ - 👉 [Nope. why?](http://9gag.com/gag/aoyYQ7x)<!-- MEMES:END -->
 
 ---
 

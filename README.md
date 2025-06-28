@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just some numbers..](http://9gag.com/gag/azxYyVB)
- - 😝 [He made bending 220 pounds look easy](http://9gag.com/gag/a34bg6v)
- - 💣 [Almost](http://9gag.com/gag/a4PW8vm)
- - 😝 [Uber&#39;s latest service offering.](http://9gag.com/gag/ae97zyq)
- - 👉 [When WW3 starts, but it&#39;s leg day](http://9gag.com/gag/a5Qq3gr)<!-- MEMES:END -->
+ - 😝 [When WW3 starts, but it&#39;s leg day](http://9gag.com/gag/a5Qq3gr)
+ - 😝 [It\u2019s amazing how the girls don\u2019t realize they look just as silly](http://9gag.com/gag/axyYwMY)
+ - 💣 [Uber&#39;s latest service offering.](http://9gag.com/gag/ae97zyq)
+ - 😝 [She does it all!!!](http://9gag.com/gag/amopQX2)
+ - 👉 [Still rather tame compared to what 9gaggers are gonna experience in he//f1re later](http://9gag.com/gag/aPA1L4Q)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EQT agrees to sell Japanese automotive electronics manufacturer Pioneer for $1.1B to CarUX, a unit of Taiwan-listed Innolux specializing in smart cockpit tech &lpar;Cathy Chan/Bloomberg&rpar;](http://www.techmeme.com/250628/p1#a250628p1)
  - [Sources: Applied Compute, a pre-launch reinforcement learning startup founded by three former OpenAI staffers, raised $20M at a $100M valuation led by Benchmark &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/250627/p31#a250627p31)
  - [Canada orders Chinese video surveillance tech provider Hikvision to cease all operations and close its business in the country over national security concerns &lpar;Yi Wei Wong/Bloomberg&rpar;](http://www.techmeme.com/250627/p30#a250627p30)
  - [The term &quot;context engineering&quot; is gaining traction over &quot;prompt engineering&quot; as it better describes the skill of providing LLMs with the necessary information &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250627/p29#a250627p29)
- - [Indian digital payments company Pine Labs files for an IPO in India to raise up to ~$304M; source: Pine Labs is seeking a valuation of between $5B and $6B &lpar;Vivek Kumar M/Reuters&rpar;](http://www.techmeme.com/250627/p28#a250627p28)
- - [Facebook is starting to feed its AI with private, unpublished photos](https://www.theverge.com/meta/694685/meta-ai-camera-roll)<!-- TECH:END -->
+ - [Indian digital payments company Pine Labs files for an IPO in India to raise up to ~$304M; source: Pine Labs is seeking a valuation of between $5B and $6B &lpar;Vivek Kumar M/Reuters&rpar;](http://www.techmeme.com/250627/p28#a250627p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The DOJ settles its lawsuit challenging HPE&#39;s $14B acquisition of Juniper; HPE must divest Instant On and license the source code for Juniper&#39;s Mist AI software &lpar;Rishabh Jaiswal/Reuters&rpar;](http://www.techmeme.com/250628/p10#a250628p10)
+ - [6 Best Mesh Wi-Fi Systems &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-mesh-wifi-routers/)
+ - [The Supreme Court just upended internet law, and I have questions](https://www.theverge.com/analysis/694710/supreme-court-fsc-paxton-age-verification-questions)
  - [Tesla says a Model Y drove itself from Gigafactory Texas to a buyer&#39;s home 30 minutes away, marking its first fully autonomous vehicle delivery &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250628/p9#a250628p9)
- - [Best Kindle Accessories &lpar;2025&rpar;: Kindle Cases, Straps, Charms](https://www.wired.com/gallery/best-kindle-accessories/)
- - [The Best 3-in-1 Apple Charging Stations &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/)
- - [Squid Game&amp;#8217;s uneven season 3 leaves the door wide open](https://www.theverge.com/tv-reviews/694353/squid-game-season-3-review-netflix)
- - [Tesla says it delivered its first car autonomously from factory to customer](https://www.theverge.com/news/694801/tesla-autonomous-delivery-factory-customer-robotaxi)<!-- TECH:END -->
+ - [Best Kindle Accessories &lpar;2025&rpar;: Kindle Cases, Straps, Charms](https://www.wired.com/gallery/best-kindle-accessories/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

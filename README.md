@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s happening](http://9gag.com/gag/aMVO7GR)
- - 😝 [Let&#39;s remember when this girl throws a coin into a fountain in Florence, and suddenly this guy takes it.](http://9gag.com/gag/aGyOq8K)
- - 💣 [That escape plan was smooth until it wasn&#39;t](http://9gag.com/gag/a5Qq3or)
- - 😝 [An entire garden, without a single grain of soil, sand or compost](http://9gag.com/gag/aGyOq5X)
- - 👉 [This could have gone wrong in so many ways. Too bad](http://9gag.com/gag/abAQD5O)<!-- MEMES:END -->
+ - 😝 [Just some numbers..](http://9gag.com/gag/azxYyVB)
+ - 😝 [He made bending 220 pounds look easy](http://9gag.com/gag/a34bg6v)
+ - 💣 [Almost](http://9gag.com/gag/a4PW8vm)
+ - 😝 [Uber&#39;s latest service offering.](http://9gag.com/gag/ae97zyq)
+ - 👉 [When WW3 starts, but it&#39;s leg day](http://9gag.com/gag/a5Qq3gr)<!-- MEMES:END -->
 
 ---
 

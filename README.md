@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He made bending 220 pounds look easy](http://9gag.com/gag/a34bg6v)
- - 😝 [This could have gone wrong in so many ways. Too bad](http://9gag.com/gag/abAQD5O)
- - 💣 [Still rather tame compared to what 9gaggers are gonna experience in he//f1re later](http://9gag.com/gag/aPA1L4Q)
- - 😝 [That escape plan was smooth until it wasn&#39;t](http://9gag.com/gag/a5Qq3or)
- - 👉 [Consumer mentality](http://9gag.com/gag/ayNYw1W)<!-- MEMES:END -->
+ - 😝 [When WW3 starts, but it&#39;s leg day](http://9gag.com/gag/a5Qq3gr)
+ - 😝 [What 9gagger will do if they&#39;re approached by a woman](http://9gag.com/gag/amopy3d)
+ - 💣 [Uber&#39;s latest service offering.](http://9gag.com/gag/ae97zyq)
+ - 😝 [It\u2019s amazing how the girls don\u2019t realize they look just as silly](http://9gag.com/gag/axyYwMY)
+ - 👉 [Almost](http://9gag.com/gag/a4PW8vm)<!-- MEMES:END -->
 
 ---
 

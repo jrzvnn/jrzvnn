@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When WW3 starts, but it&#39;s leg day](http://9gag.com/gag/a5Qq3gr)
- - 😝 [So white its using a subaru...](http://9gag.com/gag/amopwQ6)
- - 💣 [She does it all!!!](http://9gag.com/gag/amopQX2)
- - 😝 [Consumer mentality](http://9gag.com/gag/ayNYw1W)
- - 👉 [Just some numbers..](http://9gag.com/gag/azxYyVB)<!-- MEMES:END -->
+ - 😝 [Popcorn factory?](http://9gag.com/gag/aqyYMRp)
+ - 😝 [Who&#39;s walking who now?](http://9gag.com/gag/amop4VX)
+ - 💣 [It&#39;s happening](http://9gag.com/gag/aMVO7GR)
+ - 😝 [Saturated market](http://9gag.com/gag/aYQA0Bx)
+ - 👉 [That escape plan was smooth until it wasn&#39;t](http://9gag.com/gag/a5Qq3or)<!-- MEMES:END -->
 
 ---
 

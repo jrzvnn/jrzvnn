@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tell us weird knowledge. Let&#39;s be enriched together.](http://9gag.com/gag/aqyYEbv)
- - 😝 [No denture adventure](http://9gag.com/gag/aVvV5Gv)
- - 💣 [He made bending 220 pounds look easy](http://9gag.com/gag/a34bg6v)
+ - 😝 [Saluting true love](http://9gag.com/gag/a87KO3V)
+ - 😝 [A little emotional damage.](http://9gag.com/gag/a34bOq3)
+ - 💣 [A bunch of good boys inspect a suspicious pizza delivery guy](http://9gag.com/gag/a34bO55)
  - 😝 [The arm game is strong with the Roborock robot vacuum.](http://9gag.com/gag/aO8R5V2)
- - 👉 [Shhh](http://9gag.com/gag/a5QqYOO)<!-- MEMES:END -->
+ - 👉 [B*tchslap](http://9gag.com/gag/adBoDoM)<!-- MEMES:END -->
 
 ---
 

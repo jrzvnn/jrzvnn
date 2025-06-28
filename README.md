@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Still rather tame compared to what 9gaggers are gonna experience in he//f1re later](http://9gag.com/gag/aPA1L4Q)
- - 😝 [Lol no worries](http://9gag.com/gag/awyY2zR)
- - 💣 [The endless quest for the perfect pasta shape continues](http://9gag.com/gag/agmEbQx)
- - 😝 [Consumer mentality](http://9gag.com/gag/ayNYw1W)
- - 👉 [Just some numbers..](http://9gag.com/gag/azxYyVB)<!-- MEMES:END -->
+ - 😝 [It&#39;s happening](http://9gag.com/gag/aMVO7GR)
+ - 😝 [Let&#39;s remember when this girl throws a coin into a fountain in Florence, and suddenly this guy takes it.](http://9gag.com/gag/aGyOq8K)
+ - 💣 [Saving a woman by grabbing on her hair](http://9gag.com/gag/a6Zj6ve)
+ - 😝 [Almost](http://9gag.com/gag/a4PW8vm)
+ - 👉 [Uber&#39;s latest service offering.](http://9gag.com/gag/ae97zyq)<!-- MEMES:END -->
 
 ---
 

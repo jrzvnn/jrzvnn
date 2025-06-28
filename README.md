@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Did AI companies win a fight with authors? Technically](https://www.theverge.com/analysis/694657/ai-copyright-rulings-anthropic-meta)
+ - [Mattress Buying: In-Store or Online?](https://www.wired.com/story/online-vs-store-mattress-shopping/)
+ - [Lamborghini Revuelto review: perfect harmony](https://www.theverge.com/electric-cars/689437/lamborghini-revuelto-review-phev-specs-price)
  - [Breville Luxe Brewer Review &lpar;2025&rpar;: Good Drip, Real Cold Brew](https://www.wired.com/review/breville-luxe-brewer-drip-coffeemaker/)
- - [The 24 Best Movies on Amazon Prime Right Now &lpar;July 2025&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
- - [The World Is Producing More Food than Ever—but Not for Long](https://www.wired.com/story/the-world-is-producing-more-food-than-ever-before-but-not-for-long/)
- - [Fancy Airplane Seats Have Nowhere Left to Go—So What Now?](https://www.wired.com/story/fancy-airplane-seats-have-nowhere-left-to-go-so-what-now/)
- - [An in-depth look at how foreign scammers use US banks to facilitate large-scale transfers of funds stolen from victims of &quot;pig butchering&quot; scams overseas &lpar;Cezary Podkul/ProPublica&rpar;](http://www.techmeme.com/250628/p6#a250628p6)<!-- TECH:END -->
+ - [Protect Yourself From Sketchy Calls: Unknown Caller vs. No Caller ID](https://www.cnet.com/tech/mobile/protect-yourself-from-sketchy-calls-unknown-caller-vs-no-caller-id/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

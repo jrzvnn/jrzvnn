@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [B*tchslap](http://9gag.com/gag/adBoDoM)
  - 😝 [Gentleman - president of Czech republic](http://9gag.com/gag/amopwwy)
+ - 😝 [B*tchslap](http://9gag.com/gag/adBoDoM)
  - 💣 [Saluting true love](http://9gag.com/gag/a87KO3V)
- - 😝 [A little emotional damage.](http://9gag.com/gag/a34bOq3)
- - 👉 [A bunch of good boys inspect a suspicious pizza delivery guy](http://9gag.com/gag/a34bO55)<!-- MEMES:END -->
+ - 😝 [The arm game is strong with the Roborock robot vacuum.](http://9gag.com/gag/aO8R5V2)
+ - 👉 [A little emotional damage.](http://9gag.com/gag/a34bOq3)<!-- MEMES:END -->
 
 ---
 

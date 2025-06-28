@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Consumer mentality](http://9gag.com/gag/ayNYw1W)
- - 😝 [Don&#39;t threaten me with a good time...](http://9gag.com/gag/aD2Ov2O)
- - 💣 [Tell us weird knowledge. Let&#39;s be enriched together.](http://9gag.com/gag/aqyYEbv)
+ - 😝 [Saluting true love](http://9gag.com/gag/a87KO3V)
+ - 😝 [He was acting so strange, then I realized why](http://9gag.com/gag/ayNYj4b)
+ - 💣 [A bunch of good boys inspect a suspicious pizza delivery guy](http://9gag.com/gag/a34bO55)
  - 😝 [The arm game is strong with the Roborock robot vacuum.](http://9gag.com/gag/aO8R5V2)
- - 👉 [Popcorn factory?](http://9gag.com/gag/aqyYMRp)<!-- MEMES:END -->
+ - 👉 [The generational gap in financial stability is quite the reality check.](http://9gag.com/gag/aNDOELb)<!-- MEMES:END -->
 
 ---
 

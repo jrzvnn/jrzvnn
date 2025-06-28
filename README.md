@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Redesigned iPhone 17 Pro camera may lead Apple to reposition its logo](https://appleinsider.com/articles/25/06/28/redesigned-iphone-17-pro-camera-may-lead-apple-to-reposition-its-logo?utm_medium=rss)
  - [Amazon&#39;s early Prime Day Apple Watch sale drives prices down to as low as $169](https://appleinsider.com/articles/25/06/28/amazons-early-prime-day-apple-watch-sale-drives-prices-down-to-as-low-as-169?utm_medium=rss)
  - [[Thread] Cluely unveils a desktop AI assistant that it says can help users cheat on meetings, sales, lectures, interviews, learning new software, and more &lpar;Roy/@im_roy_lee&rpar;](http://www.techmeme.com/250628/p16#a250628p16)
  - [As Reddit turns 20, a look at its AI efforts, including the Reddit Answers chatbot, while it battles unauthorized scraping of user data for AI training &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250628/p15#a250628p15)
- - [How to Watch the &#39;Secret Lives of Mormon Wives&#39; Reunion](https://www.cnet.com/tech/services-and-software/how-to-watch-the-secret-lives-of-mormon-wives-reunion/#ftag=CAD590a51e)
- - [OpenAI Loses 4 Key Researchers to Meta](https://www.wired.com/story/four-openai-researchers-leave-meta/)<!-- TECH:END -->
+ - [How to Watch the &#39;Secret Lives of Mormon Wives&#39; Reunion](https://www.cnet.com/tech/services-and-software/how-to-watch-the-secret-lives-of-mormon-wives-reunion/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hands-on with seven coding agents tasked with building a website: Claude Code performed best, OpenAI&#39;s Codex lacked polish, and Replit failed to build the site &lpar;Timothy B. Lee/Understanding AI&rpar;](http://www.techmeme.com/250628/p14#a250628p14)
+ - [Charli XCX at Glastonbury 2025: Livestream Her Headline Festival Set Free From Anywhere](https://www.cnet.com/tech/services-and-software/charlie-xcx-at-glastonbury-2024-livestream-her-headline-festival-set-from-anywhere-for-free/#ftag=CAD590a51e)
  - [Meta and Anthropic prevailed in copyright suits against them, but the rulings have major caveats and don&#39;t address when AI output might infringe copyright &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/250628/p13#a250628p13)
  - [Tesla says it delivered its first car autonomously from factory to customer](https://www.theverge.com/news/694801/tesla-autonomous-delivery-factory-customer-robotaxi)
- - [38 Best Early Amazon Prime Day Deals On Products We&#39;ve Tested &lpar;2025&rpar;](https://www.wired.com/story/best-early-amazon-prime-day-deals-2025-1/)
- - [Source: Meta hired four more OpenAI researchers, including key contributors to o1-mini and o3-mini, as Zuckerberg continues an unprecedented recruiting effort &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/250628/p12#a250628p12)
- - [Get Up to $300 in Gift Cards When You Pre-Order a Samsung Smart Monitor](https://www.cnet.com/deals/get-up-to-300-in-gift-cards-when-you-pre-order-a-samsung-smart-monitor/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Neil Young at Glastonbury 2025: Livestream His Headline Festival Set Free From Anywhere](https://www.cnet.com/tech/services-and-software/neil-young-at-glastonbury-2025-livestream-his-headline-festival-set-from-anywhere-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

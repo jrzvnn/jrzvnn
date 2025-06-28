@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Popcorn factory?](http://9gag.com/gag/aqyYMRp)
- - 😝 [Lol no worries](http://9gag.com/gag/awyY2zR)
- - 💣 [Title](http://9gag.com/gag/aZZzXM6)
  - 😝 [Shhh](http://9gag.com/gag/a5QqYOO)
- - 👉 [Consumer mentality](http://9gag.com/gag/ayNYw1W)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/aZZzXM6)
+ - 💣 [That escape plan was smooth until it wasn&#39;t](http://9gag.com/gag/a5Qq3or)
+ - 😝 [Popcorn factory?](http://9gag.com/gag/aqyYMRp)
+ - 👉 [It&#39;s happening](http://9gag.com/gag/aMVO7GR)<!-- MEMES:END -->
 
 ---
 

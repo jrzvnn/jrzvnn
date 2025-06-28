@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It\u2019s amazing how the girls don\u2019t realize they look just as silly](http://9gag.com/gag/axyYwMY)
- - 😝 [A little emotional damage.](http://9gag.com/gag/a34bOq3)
- - 💣 [Gentleman - president of Czech republic](http://9gag.com/gag/amopwwy)
- - 😝 [Saluting true love](http://9gag.com/gag/a87KO3V)
- - 👉 [A bunch of good boys inspect a suspicious pizza delivery guy](http://9gag.com/gag/a34bO55)<!-- MEMES:END -->
+ - 😝 [When WW3 starts, but it&#39;s leg day](http://9gag.com/gag/a5Qq3gr)
+ - 😝 [So white its using a subaru...](http://9gag.com/gag/amopwQ6)
+ - 💣 [She does it all!!!](http://9gag.com/gag/amopQX2)
+ - 😝 [Consumer mentality](http://9gag.com/gag/ayNYw1W)
+ - 👉 [Just some numbers..](http://9gag.com/gag/azxYyVB)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Saluting true love](http://9gag.com/gag/a87KO3V)
- - 😝 [He was acting so strange, then I realized why](http://9gag.com/gag/ayNYj4b)
- - 💣 [A bunch of good boys inspect a suspicious pizza delivery guy](http://9gag.com/gag/a34bO55)
+ - 😝 [Remembering this iconic look from the early 2000s](http://9gag.com/gag/a4PWO5y)
+ - 😝 [Grandpa&#39;s stomach coating advice had explosive results](http://9gag.com/gag/ae97zzj)
+ - 💣 [Who&#39;s walking who now?](http://9gag.com/gag/amop4VX)
  - 😝 [The arm game is strong with the Roborock robot vacuum.](http://9gag.com/gag/aO8R5V2)
- - 👉 [The generational gap in financial stability is quite the reality check.](http://9gag.com/gag/aNDOELb)<!-- MEMES:END -->
+ - 👉 [What happen inside your washing machine](http://9gag.com/gag/a2vL6L9)<!-- MEMES:END -->
 
 ---
 

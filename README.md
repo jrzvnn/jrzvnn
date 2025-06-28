@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Big Fund III, China&#39;s main chip fund that has secured only a part of its $48B goal, plans to focus on key shortcomings in lithography and EDA software &lpar;Bloomberg&rpar;](http://www.techmeme.com/250628/p5#a250628p5)
  - [Today&#39;s NYT Mini Crossword Answers for Saturday, June 28](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-june-28/#ftag=CAD590a51e)
  - [A look at &quot;The List&quot;, a compilation of the most talented AI engineers and researchers that Mark Zuckerberg has put together in an effort to recruit them to Meta &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250628/p4#a250628p4)
  - [Experts detail how the Trump administration has seriously weakened the public-private partnerships that protect US critical infrastructure from cyberattacks &lpar;Eric Geller/Cybersecurity Dive&rpar;](http://www.techmeme.com/250628/p3#a250628p3)
- - [NetChoice sues Arkansas over two laws that would put limits on social media content and let parents of children who died by suicide sue over platform content &lpar;Andrew Demillo/Associated Press&rpar;](http://www.techmeme.com/250628/p2#a250628p2)
- - [EQT agrees to sell Japanese automotive electronics manufacturer Pioneer for $1.1B to CarUX, a unit of Taiwan-listed Innolux specializing in smart cockpit tech &lpar;Cathy Chan/Bloomberg&rpar;](http://www.techmeme.com/250628/p1#a250628p1)<!-- TECH:END -->
+ - [NetChoice sues Arkansas over two laws that would put limits on social media content and let parents of children who died by suicide sue over platform content &lpar;Andrew Demillo/Associated Press&rpar;](http://www.techmeme.com/250628/p2#a250628p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

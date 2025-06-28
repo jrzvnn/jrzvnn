@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ICE Rolls Facial Recognition Tools Out to Officers&#39; Phones](https://www.wired.com/story/ice-rolls-facial-recognition-tools-out-to-officers-phones/)
+ - [The AI Backlash Keeps Growing Stronger](https://www.wired.com/story/generative-ai-backlash/)
  - [Gear News This Week: The Repairable Fairphone 6 Arrives and Samsung&#39;s Galaxy Unpacked Is Up Next](https://www.wired.com/story/gear-news-this-week-the-repairable-fairphone-6-arrives-and-samsungs-galaxy-unpacked-is-up-next/)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 28, #278](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-28-278/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 28, #482](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-28-482/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for June 28, #748](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-28-748/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for June 28, #1470](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-28-1470/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 28, #482](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-28-482/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

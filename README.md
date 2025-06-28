@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shhh](http://9gag.com/gag/a5QqYOO)
- - 😝 [Title](http://9gag.com/gag/aZZzXM6)
- - 💣 [Just some numbers..](http://9gag.com/gag/azxYyVB)
+ - 😝 [Tell us weird knowledge. Let&#39;s be enriched together.](http://9gag.com/gag/aqyYEbv)
+ - 😝 [No denture adventure](http://9gag.com/gag/aVvV5Gv)
+ - 💣 [He made bending 220 pounds look easy](http://9gag.com/gag/a34bg6v)
  - 😝 [The arm game is strong with the Roborock robot vacuum.](http://9gag.com/gag/aO8R5V2)
- - 👉 [Consumer mentality](http://9gag.com/gag/ayNYw1W)<!-- MEMES:END -->
+ - 👉 [Shhh](http://9gag.com/gag/a5QqYOO)<!-- MEMES:END -->
 
 ---
 

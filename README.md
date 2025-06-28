@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As Reddit turns 20, a look at its AI efforts, including the Reddit Answers chatbot, while it battles unauthorized scraping of user data for AI training &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250628/p15#a250628p15)
  - [OpenAI Loses Four Key Researchers to Meta](https://www.wired.com/story/four-openai-researchers-leave-meta/)
  - [Easter egg image uncovered in Power Mac G3 ROM after 27 years](https://appleinsider.com/articles/25/06/28/easter-egg-image-uncovered-in-power-mac-g3-rom-after-27-years?utm_medium=rss)
  - [Hands-on with seven coding agents tasked with building a website: Claude Code performed best, OpenAI&#39;s Codex lacked polish, and Replit failed to build the site &lpar;Timothy B. Lee/Understanding AI&rpar;](http://www.techmeme.com/250628/p14#a250628p14)
- - [I Used AI to Track My Blood Sugar With My Oura Ring. These 3 Takeaways Surprised Me](https://www.cnet.com/health/medical/oura-dexcom-stelo-ai-glucose-tracking/#ftag=CAD590a51e)
- - [Charli XCX at Glastonbury 2025: Livestream Her Headline Festival Set Free From Anywhere](https://www.cnet.com/tech/services-and-software/charlie-xcx-at-glastonbury-2024-livestream-her-headline-festival-set-from-anywhere-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I Used AI to Track My Blood Sugar With My Oura Ring. These 3 Takeaways Surprised Me](https://www.cnet.com/health/medical/oura-dexcom-stelo-ai-glucose-tracking/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

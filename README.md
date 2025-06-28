@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Indian digital payments company Pine Labs files for an IPO in India to raise up to ~$304M; source: Pine Labs is seeking a valuation of between $5B and $6B &lpar;Vivek Kumar M/Reuters&rpar;](http://www.techmeme.com/250627/p28#a250627p28)
  - [Facebook is starting to feed its AI with private, unpublished photos](https://www.theverge.com/meta/694685/meta-ai-camera-roll)
  - [Anthropic tested Claude&#39;s ability to manage a physical &quot;storefront&quot; to mixed results, as the AI struggled with pricing strategy and inventory management &lpar;Ryan Daws/AI News&rpar;](http://www.techmeme.com/250627/p27#a250627p27)
  - [How vulnerable is critical infrastructure to cyberattack in the US?](https://www.theverge.com/cyber-security/693588/cybersecurity-cyberattack-critical-infrastructure-war-expert-iran)
- - [AlgoLaser Pixi Smart Laser Engraver review: Compact engraving for small workshops](https://appleinsider.com/articles/25/06/27/algolaser-pixi-smart-laser-engraver-review-compact-engraving-for-small-workshops?utm_medium=rss)
- - [Look Up on Friday Night and You Just Might See the Bootids Meteor Shower](https://www.cnet.com/science/space/look-up-on-friday-night-and-you-just-might-see-the-bootids-meteor-shower/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AlgoLaser Pixi Smart Laser Engraver review: Compact engraving for small workshops](https://appleinsider.com/articles/25/06/27/algolaser-pixi-smart-laser-engraver-review-compact-engraving-for-small-workshops?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

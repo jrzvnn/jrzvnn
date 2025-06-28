@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Kobo’s Libra Colour and Elipsa 2E e-readers have dropped to some of their best prices](https://www.theverge.com/tech/694492/kobo-elipsa-2e-libra-color-yeedi-cube-deal-sale)
+ - [Staples Union &amp; Scale FlexFit Desk Converter Review: Reliable Riser](https://www.wired.com/review/staples-union-and-scale-flexfit-manual-desk-converter/)
  - [Reddit turns 20, and it’s going big on AI](https://www.theverge.com/reddit/692481/reddit-20th-anniversary-cto-ai-future)
  - [How extreme heat disproportionately affects Latino neighborhoods](https://www.theverge.com/climate-change/694711/heatwave-latino-neighborhoods-data-dashboard-ucla)
- - [Atlantic Council: US cyber power is hampered by an inefficient supply chain for zero days, with too few providers and &quot;levels of middlemen&quot; driving up costs &lpar;Patrick Howell O&#39;Neill/Bloomberg&rpar;](http://www.techmeme.com/250628/p7#a250628p7)
- - [Did AI companies win a fight with authors? Technically](https://www.theverge.com/analysis/694657/ai-copyright-rulings-anthropic-meta)<!-- TECH:END -->
+ - [Atlantic Council: US cyber power is hampered by an inefficient supply chain for zero days, with too few providers and &quot;levels of middlemen&quot; driving up costs &lpar;Patrick Howell O&#39;Neill/Bloomberg&rpar;](http://www.techmeme.com/250628/p7#a250628p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

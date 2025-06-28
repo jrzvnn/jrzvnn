@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The generational gap in financial stability is quite the reality check.](http://9gag.com/gag/aNDOELb)
  - 😝 [It&#39;s science](http://9gag.com/gag/an7rw6o)
- - 💣 [A little kindness goes a long way, especially in the MasterChef kitchen.](http://9gag.com/gag/a9yOwwK)
+ - 😝 [The generational gap in financial stability is quite the reality check.](http://9gag.com/gag/aNDOELb)
+ - 💣 [B*tchslap](http://9gag.com/gag/adBoDoM)
  - 😝 [The arm game is strong with the Roborock robot vacuum.](http://9gag.com/gag/aO8R5V2)
- - 👉 [B*tchslap](http://9gag.com/gag/adBoDoM)<!-- MEMES:END -->
+ - 👉 [A little kindness goes a long way, especially in the MasterChef kitchen.](http://9gag.com/gag/a9yOwwK)<!-- MEMES:END -->
 
 ---
 

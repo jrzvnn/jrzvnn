@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When WW3 starts, but it&#39;s leg day](http://9gag.com/gag/a5Qq3gr)
- - 😝 [Consumer mentality](http://9gag.com/gag/ayNYw1W)
- - 💣 [Title](http://9gag.com/gag/aZZzXM6)
+ - 😝 [Shhh](http://9gag.com/gag/a5QqYOO)
+ - 😝 [Title](http://9gag.com/gag/aZZzXM6)
+ - 💣 [Just some numbers..](http://9gag.com/gag/azxYyVB)
  - 😝 [The arm game is strong with the Roborock robot vacuum.](http://9gag.com/gag/aO8R5V2)
- - 👉 [Shhh](http://9gag.com/gag/a5QqYOO)<!-- MEMES:END -->
+ - 👉 [Consumer mentality](http://9gag.com/gag/ayNYw1W)<!-- MEMES:END -->
 
 ---
 

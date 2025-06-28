@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When WW3 starts, but it&#39;s leg day](http://9gag.com/gag/a5Qq3gr)
- - 😝 [What 9gagger will do if they&#39;re approached by a woman](http://9gag.com/gag/amopy3d)
- - 💣 [Uber&#39;s latest service offering.](http://9gag.com/gag/ae97zyq)
+ - 😝 [Consumer mentality](http://9gag.com/gag/ayNYw1W)
  - 😝 [It\u2019s amazing how the girls don\u2019t realize they look just as silly](http://9gag.com/gag/axyYwMY)
- - 👉 [Almost](http://9gag.com/gag/a4PW8vm)<!-- MEMES:END -->
+ - 💣 [What 9gagger will do if they&#39;re approached by a woman](http://9gag.com/gag/amopy3d)
+ - 😝 [Who&#39;s walking who now?](http://9gag.com/gag/amop4VX)
+ - 👉 [He made bending 220 pounds look easy](http://9gag.com/gag/a34bg6v)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Title](http://9gag.com/gag/aZZzXM6)
- - 😝 [Who&#39;s walking who now?](http://9gag.com/gag/amop4VX)
- - 💣 [He made bending 220 pounds look easy](http://9gag.com/gag/a34bg6v)
+ - 😝 [He made bending 220 pounds look easy](http://9gag.com/gag/a34bg6v)
+ - 💣 [It&#39;s happening](http://9gag.com/gag/aMVO7GR)
  - 😝 [Popcorn factory?](http://9gag.com/gag/aqyYMRp)
- - 👉 [Consumer mentality](http://9gag.com/gag/ayNYw1W)<!-- MEMES:END -->
+ - 👉 [Who&#39;s walking who now?](http://9gag.com/gag/amop4VX)<!-- MEMES:END -->
 
 ---
 

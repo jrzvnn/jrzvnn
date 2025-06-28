@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nope. why?](http://9gag.com/gag/aoyYQ7x)
- - 😝 [When WW3 starts, but it&#39;s leg day](http://9gag.com/gag/a5Qq3gr)
+ - 😝 [Tell us weird knowledge. Let&#39;s be enriched together.](http://9gag.com/gag/aqyYEbv)
+ - 😝 [Don&#39;t threaten me with a good time...](http://9gag.com/gag/aD2Ov2O)
  - 💣 [Consumer mentality](http://9gag.com/gag/ayNYw1W)
  - 😝 [The arm game is strong with the Roborock robot vacuum.](http://9gag.com/gag/aO8R5V2)
- - 👉 [Tell us weird knowledge. Let&#39;s be enriched together.](http://9gag.com/gag/aqyYEbv)<!-- MEMES:END -->
+ - 👉 [Nope. why?](http://9gag.com/gag/aoyYQ7x)<!-- MEMES:END -->
 
 ---
 

@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [38 Best Early Amazon Prime Day Deals On Products We&#39;ve Tested &lpar;2025&rpar;](https://www.wired.com/story/best-early-amazon-prime-day-deals-2025-1/)
  - [Source: Meta hired four more OpenAI researchers, including key contributors to o1-mini and o3-mini, as Zuckerberg continues an unprecedented recruiting effort &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/250628/p12#a250628p12)
+ - [Get Up to $300 in Gift Cards When You Pre-Order a Samsung Smart Monitor](https://www.cnet.com/deals/get-up-to-300-in-gift-cards-when-you-pre-order-a-samsung-smart-monitor/#ftag=CAD590a51e)
  - [A profile of London-based CloudNC, a leading provider of AI-powered CNC software that is helping US manufacturers overcome a shortage of trained operators &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/250628/p11#a250628p11)
- - [How to Watch Benfica vs. Chelsea Anywhere Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-benfica-vs-chelsea-anywhere-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)
- - [Waiting for Mortgage Rates to Drop in a Recession? This Realtor Has a Hot Take](https://www.cnet.com/personal-finance/mortgages/waiting-for-mortgage-rates-to-drop-in-a-recession-this-realtor-has-a-hot-take/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Watch Benfica vs. Chelsea Anywhere Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-benfica-vs-chelsea-anywhere-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

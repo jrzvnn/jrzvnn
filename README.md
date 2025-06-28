@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla says a Model Y drove itself from Gigafactory Texas to a buyer&#39;s home 30 minutes away, marking its first fully autonomous vehicle delivery &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250628/p9#a250628p9)
  - [Best Kindle Accessories &lpar;2025&rpar;: Kindle Cases, Straps, Charms](https://www.wired.com/gallery/best-kindle-accessories/)
  - [The Best 3-in-1 Apple Charging Stations &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/)
  - [Squid Game&amp;#8217;s uneven season 3 leaves the door wide open](https://www.theverge.com/tv-reviews/694353/squid-game-season-3-review-netflix)
- - [Tesla says it delivered its first car autonomously from factory to customer](https://www.theverge.com/news/694801/tesla-autonomous-delivery-factory-customer-robotaxi)
- - [A look at AIFF 2025, Runway&#39;s third annual AI Film Festival featuring 10 shorts, as the film and TV industry remains divided over the role of AI in its future &lpar;Samuel Axon/Ars Technica&rpar;](http://www.techmeme.com/250628/p8#a250628p8)<!-- TECH:END -->
+ - [Tesla says it delivered its first car autonomously from factory to customer](https://www.theverge.com/news/694801/tesla-autonomous-delivery-factory-customer-robotaxi)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

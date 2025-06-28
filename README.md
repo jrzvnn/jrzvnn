@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;F1&#39; is Apple&#39;s biggest hit with $55M+ opening weekend](https://appleinsider.com/articles/25/06/28/f1-is-apples-biggest-hit-with-55m-opening-weekend?utm_medium=rss)
  - [The DOJ settles its lawsuit challenging HPE&#39;s $14B acquisition of Juniper; HPE must divest Instant On and license the source code for Juniper&#39;s Mist AI software &lpar;Rishabh Jaiswal/Reuters&rpar;](http://www.techmeme.com/250628/p10#a250628p10)
  - [6 Best Mesh Wi-Fi Systems &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-mesh-wifi-routers/)
  - [The Supreme Court just upended internet law, and I have questions](https://www.theverge.com/analysis/694710/supreme-court-fsc-paxton-age-verification-questions)
- - [Tesla says a Model Y drove itself from Gigafactory Texas to a buyer&#39;s home 30 minutes away, marking its first fully autonomous vehicle delivery &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250628/p9#a250628p9)
- - [Best Kindle Accessories &lpar;2025&rpar;: Kindle Cases, Straps, Charms](https://www.wired.com/gallery/best-kindle-accessories/)<!-- TECH:END -->
+ - [Tesla says a Model Y drove itself from Gigafactory Texas to a buyer&#39;s home 30 minutes away, marking its first fully autonomous vehicle delivery &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250628/p9#a250628p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

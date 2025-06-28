@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shhh](http://9gag.com/gag/a5QqYOO)
- - 😝 [Title](http://9gag.com/gag/aZZzXM6)
- - 💣 [That escape plan was smooth until it wasn&#39;t](http://9gag.com/gag/a5Qq3or)
- - 😝 [Popcorn factory?](http://9gag.com/gag/aqyYMRp)
- - 👉 [It&#39;s happening](http://9gag.com/gag/aMVO7GR)<!-- MEMES:END -->
+ - 😝 [Cutie pie](https://www.reddit.com/r/funny/comments/1lmoet7/cutie_pie/)
+ - 😝 [B*tchslap](http://9gag.com/gag/adBoDoM)
+ - 💣 [Gentleman - president of Czech republic](http://9gag.com/gag/amopwwy)
+ - 😝 [Saluting true love](http://9gag.com/gag/a87KO3V)
+ - 👉 [A little emotional damage.](http://9gag.com/gag/a34bOq3)<!-- MEMES:END -->
 
 ---
 

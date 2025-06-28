@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you need to make a quick exit](http://9gag.com/gag/aGyO55G)
- - 😝 [Consumer mentality](http://9gag.com/gag/ayNYw1W)
- - 💣 [Saturated market](http://9gag.com/gag/aYQA0Bx)
+ - 😝 [The generational gap in financial stability is quite the reality check.](http://9gag.com/gag/aNDOELb)
+ - 😝 [It&#39;s science](http://9gag.com/gag/an7rw6o)
+ - 💣 [A little kindness goes a long way, especially in the MasterChef kitchen.](http://9gag.com/gag/a9yOwwK)
  - 😝 [The arm game is strong with the Roborock robot vacuum.](http://9gag.com/gag/aO8R5V2)
- - 👉 [So we all cousins](http://9gag.com/gag/a7opYre)<!-- MEMES:END -->
+ - 👉 [B*tchslap](http://9gag.com/gag/adBoDoM)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/aZZzXM6)
- - 😝 [Just some numbers..](http://9gag.com/gag/azxYyVB)
- - 💣 [What 9gagger will do if they&#39;re approached by a woman](http://9gag.com/gag/amopy3d)
- - 😝 [He made bending 220 pounds look easy](http://9gag.com/gag/a34bg6v)
- - 👉 [It&#39;s happening](http://9gag.com/gag/aMVO7GR)<!-- MEMES:END -->
+ - 😝 [It\u2019s amazing how the girls don\u2019t realize they look just as silly](http://9gag.com/gag/axyYwMY)
+ - 😝 [A little emotional damage.](http://9gag.com/gag/a34bOq3)
+ - 💣 [Gentleman - president of Czech republic](http://9gag.com/gag/amopwwy)
+ - 😝 [Saluting true love](http://9gag.com/gag/a87KO3V)
+ - 👉 [A bunch of good boys inspect a suspicious pizza delivery guy](http://9gag.com/gag/a34bO55)<!-- MEMES:END -->
 
 ---
 

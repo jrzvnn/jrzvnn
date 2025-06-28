@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Saluting true love](http://9gag.com/gag/a87KO3V)
- - 😝 [A little emotional damage.](http://9gag.com/gag/a34bOq3)
- - 💣 [A bunch of good boys inspect a suspicious pizza delivery guy](http://9gag.com/gag/a34bO55)
+ - 😝 [Nope. why?](http://9gag.com/gag/aoyYQ7x)
+ - 😝 [When WW3 starts, but it&#39;s leg day](http://9gag.com/gag/a5Qq3gr)
+ - 💣 [Consumer mentality](http://9gag.com/gag/ayNYw1W)
  - 😝 [The arm game is strong with the Roborock robot vacuum.](http://9gag.com/gag/aO8R5V2)
- - 👉 [B*tchslap](http://9gag.com/gag/adBoDoM)<!-- MEMES:END -->
+ - 👉 [Tell us weird knowledge. Let&#39;s be enriched together.](http://9gag.com/gag/aqyYEbv)<!-- MEMES:END -->
 
 ---
 

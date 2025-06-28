@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Big Fund III, China&#39;s main chip fund that has secured only a part of its $48B goal, plans to focus on key shortcomings in lithography and EDA software &lpar;Bloomberg&rpar;](http://www.techmeme.com/250628/p5#a250628p5)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, June 28](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-june-28/#ftag=CAD590a51e)
- - [A look at &quot;The List&quot;, a compilation of the most talented AI engineers and researchers that Mark Zuckerberg has put together in an effort to recruit them to Meta &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250628/p4#a250628p4)
- - [Experts detail how the Trump administration has seriously weakened the public-private partnerships that protect US critical infrastructure from cyberattacks &lpar;Eric Geller/Cybersecurity Dive&rpar;](http://www.techmeme.com/250628/p3#a250628p3)
- - [NetChoice sues Arkansas over two laws that would put limits on social media content and let parents of children who died by suicide sue over platform content &lpar;Andrew Demillo/Associated Press&rpar;](http://www.techmeme.com/250628/p2#a250628p2)<!-- TECH:END -->
+ - [Gear News This Week: The Repairable Fairphone 6 Arrives and Samsung&#39;s Galaxy Unpacked Is Up Next](https://www.wired.com/story/gear-news-this-week-the-repairable-fairphone-6-arrives-and-samsungs-galaxy-unpacked-is-up-next/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 28, #278](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-28-278/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 28, #482](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-28-482/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 28, #748](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-28-748/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for June 28, #1470](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-28-1470/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

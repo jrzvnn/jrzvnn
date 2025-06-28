@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A little kindness goes a long way, especially in the MasterChef kitchen.](http://9gag.com/gag/a9yOwwK)
- - 😝 [When WW3 starts, but it&#39;s leg day](http://9gag.com/gag/a5Qq3gr)
- - 💣 [Clearly somebody is mad](http://9gag.com/gag/aXPKzr9)
- - 😝 [Uber&#39;s latest service offering.](http://9gag.com/gag/ae97zyq)
- - 👉 [Let&#39;s remember when this girl throws a coin into a fountain in Florence, and suddenly this guy takes it.](http://9gag.com/gag/aGyOq8K)<!-- MEMES:END -->
+ - 😝 [That escape plan was smooth until it wasn&#39;t](http://9gag.com/gag/a5Qq3or)
+ - 😝 [She does it all!!!](http://9gag.com/gag/amopQX2)
+ - 💣 [Lol no worries](http://9gag.com/gag/awyY2zR)
+ - 😝 [What 9gagger will do if they&#39;re approached by a woman](http://9gag.com/gag/amopy3d)
+ - 👉 [Uber&#39;s latest service offering.](http://9gag.com/gag/ae97zyq)<!-- MEMES:END -->
 
 ---
 

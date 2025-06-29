@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s all about the ego of sending a message](http://9gag.com/gag/aVvVyNK)
- - 😝 [When you need to make a quick exit](http://9gag.com/gag/aGyO55G)
- - 💣 [When WW3 starts, but it&#39;s leg day](http://9gag.com/gag/a5Qq3gr)
+ - 😝 [Tell us weird knowledge. Let&#39;s be enriched together.](http://9gag.com/gag/aqyYEbv)
+ - 😝 [Saturated market](http://9gag.com/gag/aYQA0Bx)
+ - 💣 [Shhh](http://9gag.com/gag/a5QqYOO)
  - 😝 [The arm game is strong with the Roborock robot vacuum.](http://9gag.com/gag/aO8R5V2)
- - 👉 [Shhh](http://9gag.com/gag/a5QqYOO)<!-- MEMES:END -->
+ - 👉 [He was acting so strange, then I realized why](http://9gag.com/gag/ayNYj4b)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [20 years of Apple Ring rumors continue with leaker&#39;s lament](https://appleinsider.com/articles/25/06/29/20-years-of-apple-ring-rumors-continue-with-leakers-lament?utm_medium=rss)
  - [Report: Swiss deep tech startups have created over $100B in total enterprise value, with 60% of VC funding in Switzerland from 2019 to 2025 going to deep tech &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/250629/p12#a250629p12)
  - [13 Best MagSafe Power Banks for iPhones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-power-banks/)
  - [10 Best Dash Kitchen Appliances &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-dash-kitchen-appliances/)
- - [Pipistrello and the Cursed Yoyo would feel right at home on your GBA](https://www.theverge.com/games-review/692172/pipistrello-and-the-cursed-yoyo-review)
- - [Best VPN for Mac for 2025: Tested and Reviewed](https://www.cnet.com/tech/services-and-software/best-vpn-for-mac/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pipistrello and the Cursed Yoyo would feel right at home on your GBA](https://www.theverge.com/games-review/692172/pipistrello-and-the-cursed-yoyo-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

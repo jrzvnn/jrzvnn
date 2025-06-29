@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He looks concerned](http://9gag.com/gag/aRBOqYj)
- - 😝 [Japan](http://9gag.com/gag/a2vLXg1)
- - 💣 [Shhh](http://9gag.com/gag/a5QqYOO)
- - 😝 [You still performing tomorrow](http://9gag.com/gag/ae9782j)
- - 👉 [So we all cousins](http://9gag.com/gag/a7opYre)<!-- MEMES:END -->
+ - 😝 [Nope. why?](http://9gag.com/gag/aoyYQ7x)
+ - 😝 [Shhh](http://9gag.com/gag/a5QqYOO)
+ - 💣 [So we all cousins](http://9gag.com/gag/a7opYre)
+ - 😝 [Thought y\u2019all might get a kick out of this one!](http://9gag.com/gag/aqyYP8v)
+ - 👉 [Working as planned...Pun intended.](http://9gag.com/gag/aYQA3rm)<!-- MEMES:END -->
 
 ---
 

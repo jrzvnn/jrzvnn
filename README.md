@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Japan](http://9gag.com/gag/a2vLXg1)
  - 😝 [Nothing is interrupting this dockside wine.](http://9gag.com/gag/azxYp8z)
- - 😝 [So we all cousins](http://9gag.com/gag/a7opYre)
- - 💣 [Japan](http://9gag.com/gag/a2vLXg1)
+ - 💣 [So we all cousins](http://9gag.com/gag/a7opYre)
  - 😝 [The arm game is strong with the Roborock robot vacuum.](http://9gag.com/gag/aO8R5V2)
  - 👉 [Painful, really painful](http://9gag.com/gag/aYQA07v)<!-- MEMES:END -->
 

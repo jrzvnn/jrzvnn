@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s your favorite?](http://9gag.com/gag/aYQA907)
- - 😝 [Working as planned...Pun intended.](http://9gag.com/gag/aYQA3rm)
- - 💣 [You still performing tomorrow](http://9gag.com/gag/ae9782j)
- - 😝 [Japan](http://9gag.com/gag/a2vLXg1)
- - 👉 [Nope. why?](http://9gag.com/gag/aoyYQ7x)<!-- MEMES:END -->
+ - 😝 [We will be dominated by plants](http://9gag.com/gag/awyYEL4)
+ - 😝 [Finally, a practical use for superpowers.](http://9gag.com/gag/an7r6y5)
+ - 💣 [Who&#39;s walking who now?](http://9gag.com/gag/amop4VX)
+ - 😝 [Matching the energy on the road at night](http://9gag.com/gag/aMVOgGV)
+ - 👉 [Filthy little hobbitses.](http://9gag.com/gag/aNDO783)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We will be dominated by plants](http://9gag.com/gag/awyYEL4)
- - 😝 [Finally, a practical use for superpowers.](http://9gag.com/gag/an7r6y5)
- - 💣 [Who&#39;s walking who now?](http://9gag.com/gag/amop4VX)
- - 😝 [Matching the energy on the road at night](http://9gag.com/gag/aMVOgGV)
- - 👉 [Filthy little hobbitses.](http://9gag.com/gag/aNDO783)<!-- MEMES:END -->
+ - 😝 [Saturated market](http://9gag.com/gag/aYQA0Bx)
+ - 😝 [Nothing is interrupting this dockside wine.](http://9gag.com/gag/azxYp8z)
+ - 💣 [A fantastic sunday](http://9gag.com/gag/aPA15On)
+ - 😝 [How to tame your dragon irl](http://9gag.com/gag/avydNY5)
+ - 👉 [You still performing tomorrow](http://9gag.com/gag/ae9782j)<!-- MEMES:END -->
 
 ---
 

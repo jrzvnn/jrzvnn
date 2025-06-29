@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Police break car window to rescue dog left inside on a hot day. Great job](http://9gag.com/gag/ary2YVy)
  - 😝 [The impact of killing off Glenn was significant for The Walking Dead viewership.](http://9gag.com/gag/ary2Q0d)
- - 😝 [You still performing tomorrow](http://9gag.com/gag/ae9782j)
- - 💣 [Police break car window to rescue dog left inside on a hot day. Great job](http://9gag.com/gag/ary2YVy)
- - 😝 [Working as planned...Pun intended.](http://9gag.com/gag/aYQA3rm)
- - 👉 [How to tame your dragon irl](http://9gag.com/gag/avydNY5)<!-- MEMES:END -->
+ - 💣 [You still performing tomorrow](http://9gag.com/gag/ae9782j)
+ - 😝 [Japan](http://9gag.com/gag/a2vLXg1)
+ - 👉 [Nope. why?](http://9gag.com/gag/aoyYQ7x)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Memo: OpenAI&#39;s Mark Chen responds to Meta offers, says it feels like &quot;someone has broken into our home and stolen something&quot; and OpenAI is &quot;recalibrating comp&quot; &lpar;Zoë Schiffer/Wired&rpar;](http://www.techmeme.com/250629/p19#a250629p19)
  - [OpenAI Leadership Responds to Meta Offers: &#39;Someone Has Broken Into Our Home&#39;](https://www.wired.com/story/openai-meta-leadership-talent-rivalry/)
  - [The F1 movie gives Apple its first box office hit, opening to $144M worldwide and $55.6M in the US; it was pushed on Apple Music, Podcasts, Fitness+, and Wallet &lpar;Anthony D&#39;Alessandro/Deadline&rpar;](http://www.techmeme.com/250629/p18#a250629p18)
  - [Elon Musk calls the Senate tax bill &quot;utterly insane&quot; as it raises taxes on nuclear and geothermal energy and battery storage, which are crucial for AI training &lpar;Noah Smith/Noahpinion&rpar;](http://www.techmeme.com/250629/p17#a250629p17)
- - [Must-Play Games of 2025 So Far: Death Stranding 2, Expedition 33, Assassin&#39;s Creed Shadows and More](https://www.cnet.com/tech/gaming/must-play-games-of-2025-so-far/#ftag=CAD590a51e)
- - [Baidu plans to open-source its Ernie LLM on June 30; some say this could cement China&#39;s AI leadership, while others doubt it will be a &quot;DeepSeek moment&quot; &lpar;Kevin Williams/CNBC&rpar;](http://www.techmeme.com/250629/p16#a250629p16)<!-- TECH:END -->
+ - [Must-Play Games of 2025 So Far: Death Stranding 2, Expedition 33, Assassin&#39;s Creed Shadows and More](https://www.cnet.com/tech/gaming/must-play-games-of-2025-so-far/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

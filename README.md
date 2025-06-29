@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI-generated images of fake, otherworldly-looking houseplants are proliferating online and misleading consumers, as AI slop extends to plant care advice &lpar;Nicole Froio/The Verge&rpar;](http://www.techmeme.com/250629/p9#a250629p9)
- - [A look at efforts by Coinbase, Kraken, Robinhood, and other crypto companies to tokenize stocks amid regulatory hurdles and questions about product demand &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/250629/p8#a250629p8)
- - [San Diego-based Clearspeed, which offers AI-driven voice-based risk assessment tech for 60+ languages, raised a $60M Series D, taking its total funding to $110M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250629/p7#a250629p7)
- - [South Korea becomes Asia&#39;s best-performing stock market in H1 2025, as shares rise following President Lee Jae-myung&#39;s pledge to allow won-based stablecoins &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/250629/p6#a250629p6)
- - [Niural, whose AI agents help companies automate payroll, benefits, vendor payments, and compliance, raised a $31M Series A led by Marathon Management Partners &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250629/p5#a250629p5)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, June 29](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-june-29/#ftag=CAD590a51e)
+ - [Redesigned iPhone 17 Pro camera may lead Apple to reposition its logo](https://appleinsider.com/articles/25/06/28/redesigned-iphone-17-pro-camera-may-lead-apple-to-reposition-its-logo?utm_medium=rss)
+ - [Amazon&#39;s early Prime Day Apple Watch sale drives prices down to as low as $169](https://appleinsider.com/articles/25/06/28/amazons-early-prime-day-apple-watch-sale-drives-prices-down-to-as-low-as-169?utm_medium=rss)
+ - [2025’s Best 3D Printers Are the Best I’ve Seen in a Decade](https://www.cnet.com/tech/computing/best-3d-printer/#ftag=CAD590a51e)
+ - [How to Watch the &#39;Secret Lives of Mormon Wives&#39; Reunion](https://www.cnet.com/tech/services-and-software/how-to-watch-the-secret-lives-of-mormon-wives-reunion/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Menlo Ventures targets ~$1.5B for new funds to invest in AI ventures, including $650M for early-stage startups, and $850M for later-stage companies &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/250629/p21#a250629p21)
  - [Winnipeg-based Conquest Planning, which uses AI to help financial advisors and other clients make decisions, raised an $80M Series B led by Goldman Sachs &lpar;Jon Fingas/BetaKit&rpar;](http://www.techmeme.com/250629/p20#a250629p20)
  - [12 New Summer Anime Releases to Add to Your Watch List Right Now](https://www.cnet.com/tech/services-and-software/12-new-summer-anime-releases-to-add-to-your-watch-list-right-now/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints, Answer and Help for June 30, #1472](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-30-1472/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 30, #484](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-30-484/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for June 30, #750](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-30-750/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 30, #484](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-30-484/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

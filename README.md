@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tell us weird knowledge. Let&#39;s be enriched together.](http://9gag.com/gag/aqyYEbv)
- - 😝 [Saturated market](http://9gag.com/gag/aYQA0Bx)
- - 💣 [Shhh](http://9gag.com/gag/a5QqYOO)
+ - 😝 [It&#39;s all about the ego of sending a message](http://9gag.com/gag/aVvVyNK)
+ - 😝 [Who&#39;s walking who now?](http://9gag.com/gag/amop4VX)
+ - 💣 [Nope. why?](http://9gag.com/gag/aoyYQ7x)
  - 😝 [The arm game is strong with the Roborock robot vacuum.](http://9gag.com/gag/aO8R5V2)
- - 👉 [He was acting so strange, then I realized why](http://9gag.com/gag/ayNYj4b)<!-- MEMES:END -->
+ - 👉 [Shhh](http://9gag.com/gag/a5QqYOO)<!-- MEMES:END -->
 
 ---
 

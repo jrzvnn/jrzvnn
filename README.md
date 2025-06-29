@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Matching the energy on the road at night](http://9gag.com/gag/aMVOgGV)
+ - 😝 [Nothing is interrupting this dockside wine.](http://9gag.com/gag/azxYp8z)
  - 😝 [Japan](http://9gag.com/gag/a2vLXg1)
- - 💣 [Shhh](http://9gag.com/gag/a5QqYOO)
- - 😝 [You still performing tomorrow](http://9gag.com/gag/ae9782j)
+ - 💣 [Remembering this iconic look from the early 2000s](http://9gag.com/gag/a4PWO5y)
+ - 😝 [Saturated market](http://9gag.com/gag/aYQA0Bx)
  - 👉 [The impact of killing off Glenn was significant for The Walking Dead viewership.](http://9gag.com/gag/ary2Q0d)<!-- MEMES:END -->
 
 ---

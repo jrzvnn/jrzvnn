@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Average Californian woman](http://9gag.com/gag/abAQNRL)
- - 😝 [Remembering this iconic look from the early 2000s](http://9gag.com/gag/a4PWO5y)
- - 💣 [Police break car window to rescue dog left inside on a hot day. Great job](http://9gag.com/gag/ary2YVy)
- - 😝 [You still performing tomorrow](http://9gag.com/gag/ae9782j)
- - 👉 [Saturated market](http://9gag.com/gag/aYQA0Bx)<!-- MEMES:END -->
+ - 😝 [`I&#39;m looking for the least possible amount of responsibility`](http://9gag.com/gag/aYQA32m)
+ - 😝 [What a handsome doggo.](http://9gag.com/gag/aoyYQvw)
+ - 💣 [Finally, a practical use for superpowers.](http://9gag.com/gag/an7r6y5)
+ - 😝 [Who&#39;s walking who now?](http://9gag.com/gag/amop4VX)
+ - 👉 [We will be dominated by plants](http://9gag.com/gag/awyYEL4)<!-- MEMES:END -->
 
 ---
 

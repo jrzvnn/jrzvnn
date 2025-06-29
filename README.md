@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tell us weird knowledge. Let&#39;s be enriched together.](http://9gag.com/gag/aqyYEbv)
- - 😝 [Shhh](http://9gag.com/gag/a5QqYOO)
- - 💣 [Consumer mentality](http://9gag.com/gag/ayNYw1W)
+ - 😝 [Oh....shieeee...](http://9gag.com/gag/apRY4p8)
+ - 😝 [Talk about a catch and release program](http://9gag.com/gag/avydKrM)
+ - 💣 [What a handsome doggo.](http://9gag.com/gag/aoyYQvw)
  - 😝 [The arm game is strong with the Roborock robot vacuum.](http://9gag.com/gag/aO8R5V2)
  - 👉 [Who&#39;s walking who now?](http://9gag.com/gag/amop4VX)<!-- MEMES:END -->
 

@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Must-Play Games of 2025 So Far: Death Stranding 2, Expedition 33, Assassin&#39;s Creed Shadows and More](https://www.cnet.com/tech/gaming/must-play-games-of-2025-so-far/#ftag=CAD590a51e)
+ - [Elon Musk calls the Senate tax bill &quot;utterly insane&quot; as it raises taxes on nuclear and geothermal energy and battery storage, which are crucial for AI training &lpar;Noah Smith/Noahpinion&rpar;](http://www.techmeme.com/250629/p17#a250629p17)
  - [Baidu plans to open-source its Ernie LLM on June 30; some say this could cement China&#39;s AI leadership, while others doubt it will be a &quot;DeepSeek moment&quot; &lpar;Kevin Williams/CNBC&rpar;](http://www.techmeme.com/250629/p16#a250629p16)
  - [MCP has promise beyond AI, and could serve as a &quot;universal plugin system&quot; that connects disparate data sources and tools together to enable new capabilities &lpar;Scott Werner/Works on My Machine&rpar;](http://www.techmeme.com/250629/p15#a250629p15)
  - [OpenAI is expanding its consulting-like service to refine its models and build bespoke apps for large enterprise and government clients spending at least $10M &lpar;The Information&rpar;](http://www.techmeme.com/250629/p14#a250629p14)

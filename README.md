@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The impact of killing off Glenn was significant for The Walking Dead viewership.](http://9gag.com/gag/ary2Q0d)
- - 😝 [Remembering this iconic look from the early 2000s](http://9gag.com/gag/a4PWO5y)
- - 💣 [Tell us weird knowledge. Let&#39;s be enriched together.](http://9gag.com/gag/aqyYEbv)
+ - 😝 [Nothing is interrupting this dockside wine.](http://9gag.com/gag/azxYp8z)
+ - 😝 [Tell us weird knowledge. Let&#39;s be enriched together.](http://9gag.com/gag/aqyYEbv)
+ - 💣 [Matching the energy on the road at night](http://9gag.com/gag/aMVOgGV)
  - 😝 [The arm game is strong with the Roborock robot vacuum.](http://9gag.com/gag/aO8R5V2)
- - 👉 [Saturated market](http://9gag.com/gag/aYQA0Bx)<!-- MEMES:END -->
+ - 👉 [Spicy fish](http://9gag.com/gag/aNDOb0b)<!-- MEMES:END -->
 
 ---
 

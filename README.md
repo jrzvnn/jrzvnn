@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Winnipeg-based Conquest Planning, which uses AI to help financial advisors and other clients make decisions, raised an $80M Series B led by Goldman Sachs &lpar;Jon Fingas/BetaKit&rpar;](http://www.techmeme.com/250629/p20#a250629p20)
  - [Memo: OpenAI&#39;s Mark Chen responds to Meta offers, says it feels like &quot;someone has broken into our home and stolen something&quot; and OpenAI is &quot;recalibrating comp&quot; &lpar;Zoë Schiffer/Wired&rpar;](http://www.techmeme.com/250629/p19#a250629p19)
  - [OpenAI Leadership Responds to Meta Offers: &#39;Someone Has Broken Into Our Home&#39;](https://www.wired.com/story/openai-meta-leadership-talent-rivalry/)
  - [The F1 movie gives Apple its first box office hit, opening to $144M worldwide and $55.6M in the US; it was pushed on Apple Music, Podcasts, Fitness+, and Wallet &lpar;Anthony D&#39;Alessandro/Deadline&rpar;](http://www.techmeme.com/250629/p18#a250629p18)
- - [Elon Musk calls the Senate tax bill &quot;utterly insane&quot; as it raises taxes on nuclear and geothermal energy and battery storage, which are crucial for AI training &lpar;Noah Smith/Noahpinion&rpar;](http://www.techmeme.com/250629/p17#a250629p17)
- - [Must-Play Games of 2025 So Far: Death Stranding 2, Expedition 33, Assassin&#39;s Creed Shadows and More](https://www.cnet.com/tech/gaming/must-play-games-of-2025-so-far/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk calls the Senate tax bill &quot;utterly insane&quot; as it raises taxes on nuclear and geothermal energy and battery storage, which are crucial for AI training &lpar;Noah Smith/Noahpinion&rpar;](http://www.techmeme.com/250629/p17#a250629p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

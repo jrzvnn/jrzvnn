@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Painful, really painful](http://9gag.com/gag/aYQA07v)
- - 😝 [Japan](http://9gag.com/gag/a2vLXg1)
- - 💣 [Saturated market](http://9gag.com/gag/aYQA0Bx)
+ - 😝 [The best guard dog](http://9gag.com/gag/avydM75)
+ - 😝 [`I&#39;m looking for the least possible amount of responsibility`](http://9gag.com/gag/aYQA32m)
+ - 💣 [Talk about a catch and release program](http://9gag.com/gag/avydKrM)
  - 😝 [The arm game is strong with the Roborock robot vacuum.](http://9gag.com/gag/aO8R5V2)
- - 👉 [It&#39;s all about the ego of sending a message](http://9gag.com/gag/aVvVyNK)<!-- MEMES:END -->
+ - 👉 [Filthy little hobbitses.](http://9gag.com/gag/aNDO783)<!-- MEMES:END -->
 
 ---
 

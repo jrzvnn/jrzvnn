@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As top reporters continue to flock to Substack, subscription fatigue and challenges with building a wide audience pose threats to its long-term success &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/250628/p19#a250628p19)
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, June 29](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-june-29/#ftag=CAD590a51e)
  - [How the Center for Investigative Reporting is handling the lawsuit against OpenAI as one of the few nonprofits with the resources to take on a yearslong suit &lpar;Andrew Deck/Nieman Lab&rpar;](http://www.techmeme.com/250628/p18#a250628p18)
  - [Meta offering $100M signing bonuses may be an exaggeration by Altman, but $100M overall compensation packages are plausible given Meta&#39;s need to catch up in AI &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/250628/p17#a250628p17)
- - [Redesigned iPhone 17 Pro camera may lead Apple to reposition its logo](https://appleinsider.com/articles/25/06/28/redesigned-iphone-17-pro-camera-may-lead-apple-to-reposition-its-logo?utm_medium=rss)
- - [Amazon&#39;s early Prime Day Apple Watch sale drives prices down to as low as $169](https://appleinsider.com/articles/25/06/28/amazons-early-prime-day-apple-watch-sale-drives-prices-down-to-as-low-as-169?utm_medium=rss)
- - [[Thread] Cluely unveils a desktop AI assistant that it says can help users cheat on meetings, sales, lectures, interviews, learning new software, and more &lpar;Roy/@im_roy_lee&rpar;](http://www.techmeme.com/250628/p16#a250628p16)<!-- TECH:END -->
+ - [Redesigned iPhone 17 Pro camera may lead Apple to reposition its logo](https://appleinsider.com/articles/25/06/28/redesigned-iphone-17-pro-camera-may-lead-apple-to-reposition-its-logo?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

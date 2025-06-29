@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh....shieeee...](http://9gag.com/gag/apRY4p8)
  - 😝 [Talk about a catch and release program](http://9gag.com/gag/avydKrM)
- - 💣 [What a handsome doggo.](http://9gag.com/gag/aoyYQvw)
+ - 😝 [What a handsome doggo.](http://9gag.com/gag/aoyYQvw)
+ - 💣 [Who&#39;s walking who now?](http://9gag.com/gag/amop4VX)
  - 😝 [The arm game is strong with the Roborock robot vacuum.](http://9gag.com/gag/aO8R5V2)
- - 👉 [Who&#39;s walking who now?](http://9gag.com/gag/amop4VX)<!-- MEMES:END -->
+ - 👉 [Cops acted before asking questions.](http://9gag.com/gag/aByOA4Z)<!-- MEMES:END -->
 
 ---
 

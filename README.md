@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Saturated market](http://9gag.com/gag/aYQA0Bx)
- - 😝 [So we all cousins](http://9gag.com/gag/a7opYre)
+ - 😝 [Remembering this iconic look from the early 2000s](http://9gag.com/gag/a4PWO5y)
+ - 😝 [And everything in it](http://9gag.com/gag/aqyYoZY)
  - 💣 [Japan](http://9gag.com/gag/a2vLXg1)
- - 😝 [The impact of killing off Glenn was significant for The Walking Dead viewership.](http://9gag.com/gag/ary2Q0d)
- - 👉 [You still performing tomorrow](http://9gag.com/gag/ae9782j)<!-- MEMES:END -->
+ - 😝 [Working as planned...Pun intended.](http://9gag.com/gag/aYQA3rm)
+ - 👉 [What happen inside your washing machine](http://9gag.com/gag/a2vL6L9)<!-- MEMES:END -->
 
 ---
 

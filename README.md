@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh....shieeee...](http://9gag.com/gag/apRY4p8)
- - 😝 [Talk about a catch and release program](http://9gag.com/gag/avydKrM)
- - 💣 [What a handsome doggo.](http://9gag.com/gag/aoyYQvw)
+ - 😝 [It&#39;s all about the ego of sending a message](http://9gag.com/gag/aVvVyNK)
+ - 😝 [When you need to make a quick exit](http://9gag.com/gag/aGyO55G)
+ - 💣 [Shhh](http://9gag.com/gag/a5QqYOO)
  - 😝 [The arm game is strong with the Roborock robot vacuum.](http://9gag.com/gag/aO8R5V2)
- - 👉 [Who&#39;s walking who now?](http://9gag.com/gag/amop4VX)<!-- MEMES:END -->
+ - 👉 [What happen inside your washing machine](http://9gag.com/gag/a2vL6L9)<!-- MEMES:END -->
 
 ---
 

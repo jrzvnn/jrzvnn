@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You still performing tomorrow](http://9gag.com/gag/ae9782j)
- - 😝 [It&#39;s all about the ego of sending a message](http://9gag.com/gag/aVvVyNK)
- - 💣 [Nope. why?](http://9gag.com/gag/aoyYQ7x)
+ - 😝 [Nothing is interrupting this dockside wine.](http://9gag.com/gag/azxYp8z)
+ - 😝 [So we all cousins](http://9gag.com/gag/a7opYre)
+ - 💣 [Japan](http://9gag.com/gag/a2vLXg1)
  - 😝 [The arm game is strong with the Roborock robot vacuum.](http://9gag.com/gag/aO8R5V2)
- - 👉 [Shhh](http://9gag.com/gag/a5QqYOO)<!-- MEMES:END -->
+ - 👉 [Painful, really painful](http://9gag.com/gag/aYQA07v)<!-- MEMES:END -->
 
 ---
 

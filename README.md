@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI Leadership Responds to Meta Offers: &#39;Someone Has Broken Into Our Home&#39;](https://www.wired.com/story/openai-meta-leadership-talent-rivalry/)
  - [The F1 movie gives Apple its first box office hit, opening to $144M worldwide and $55.6M in the US; it was pushed on Apple Music, Podcasts, Fitness+, and Wallet &lpar;Anthony D&#39;Alessandro/Deadline&rpar;](http://www.techmeme.com/250629/p18#a250629p18)
  - [Elon Musk calls the Senate tax bill &quot;utterly insane&quot; as it raises taxes on nuclear and geothermal energy and battery storage, which are crucial for AI training &lpar;Noah Smith/Noahpinion&rpar;](http://www.techmeme.com/250629/p17#a250629p17)
  - [Must-Play Games of 2025 So Far: Death Stranding 2, Expedition 33, Assassin&#39;s Creed Shadows and More](https://www.cnet.com/tech/gaming/must-play-games-of-2025-so-far/#ftag=CAD590a51e)
- - [Baidu plans to open-source its Ernie LLM on June 30; some say this could cement China&#39;s AI leadership, while others doubt it will be a &quot;DeepSeek moment&quot; &lpar;Kevin Williams/CNBC&rpar;](http://www.techmeme.com/250629/p16#a250629p16)
- - [MCP has promise beyond AI, and could serve as a &quot;universal plugin system&quot; that connects disparate data sources and tools together to enable new capabilities &lpar;Scott Werner/Works on My Machine&rpar;](http://www.techmeme.com/250629/p15#a250629p15)<!-- TECH:END -->
+ - [Baidu plans to open-source its Ernie LLM on June 30; some say this could cement China&#39;s AI leadership, while others doubt it will be a &quot;DeepSeek moment&quot; &lpar;Kevin Williams/CNBC&rpar;](http://www.techmeme.com/250629/p16#a250629p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

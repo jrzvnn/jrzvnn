@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Printers for Home and Office: Brother, HP, and More](https://www.wired.com/gallery/best-printers/)
+ - [Best Internet Providers in Greenville, South Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-greenville-sc/#ftag=CAD590a51e)
  - [Synthesia says it has over 65K customers and serves more than 70% of the Fortune 100, with its AI avatars mainly used for training and internal communications &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250629/p10#a250629p10)
- - [I Let AI Agents Plan My Vacation—and It Wasn&#39;t Terrible](https://www.wired.com/story/i-let-ai-agents-plan-my-vacation-and-it-wasnt-terrible/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 29, #483](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-29-483/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 29, #279](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-29-279/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for June 29, #1471](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-29-1471/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Are These 20 Kitchen Tools Absolutely Worthless? These Pros Think So](https://www.cnet.com/news/are-these-20-kitchen-tools-absolutely-worthless-these-pros-think-so/#ftag=CAD590a51e)
+ - [My Wife and I Are Never Splitting AirPods Again Thanks to This iPhone Trick](https://www.cnet.com/tech/services-and-software/my-wife-and-i-are-never-splitting-airpods-again-thanks-to-this-iphone-trick/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

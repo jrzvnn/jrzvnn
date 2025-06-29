@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No denture adventure](http://9gag.com/gag/aVvV5Gv)
  - 😝 [Tell us weird knowledge. Let&#39;s be enriched together.](http://9gag.com/gag/aqyYEbv)
- - 💣 [Spicy fish](http://9gag.com/gag/aNDOb0b)
+ - 😝 [Shhh](http://9gag.com/gag/a5QqYOO)
+ - 💣 [Consumer mentality](http://9gag.com/gag/ayNYw1W)
  - 😝 [The arm game is strong with the Roborock robot vacuum.](http://9gag.com/gag/aO8R5V2)
- - 👉 [Japan](http://9gag.com/gag/a2vLXg1)<!-- MEMES:END -->
+ - 👉 [Who&#39;s walking who now?](http://9gag.com/gag/amop4VX)<!-- MEMES:END -->
 
 ---
 

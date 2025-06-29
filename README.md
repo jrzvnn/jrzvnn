@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI is expanding its consulting-like service to refine its models and build bespoke apps for large enterprise and government clients spending at least $10M &lpar;The Information&rpar;](http://www.techmeme.com/250629/p14#a250629p14)
+ - [23 Best Power Banks &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
+ - [Hollywood&amp;#8217;s pivot to AI video has a prompting problem](https://www.theverge.com/ai-artificial-intelligence/694687/asteria-bryn-mooser-uncanny-valley-gen-ai)
  - [Call center agents in Australia, Canada, Greece, and the US say they&#39;ve been repeatedly mistaken for AI, as the industry rapidly integrates AI alongside humans &lpar;Morgan Meaker/Bloomberg&rpar;](http://www.techmeme.com/250629/p13#a250629p13)
- - [Plantaform Smart Indoor Garden Review: Rewarding but Risky](https://www.wired.com/review/plantaform-smart-indoor-garden/)
- - [The unbearable obviousness of AI fitness summaries](https://www.theverge.com/fitness-trackers/694140/ai-summaries-fitness-apps-strava-oura-whoop-wearables)
- - [20 years of Apple Ring rumors continue with leaker&#39;s lament](https://appleinsider.com/articles/25/06/29/20-years-of-apple-ring-rumors-continue-with-leakers-lament?utm_medium=rss)
- - [Report: Swiss deep tech startups have created over $100B in total enterprise value, with 60% of VC funding in Switzerland from 2019 to 2025 going to deep tech &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/250629/p12#a250629p12)<!-- TECH:END -->
+ - [Plantaform Smart Indoor Garden Review: Rewarding but Risky](https://www.wired.com/review/plantaform-smart-indoor-garden/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

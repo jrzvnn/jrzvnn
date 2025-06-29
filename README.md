@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pipistrello and the Cursed Yoyo would feel right at home on your GBA](https://www.theverge.com/games-review/692172/pipistrello-and-the-cursed-yoyo-review)
+ - [Best VPN for Mac for 2025: Tested and Reviewed](https://www.cnet.com/tech/services-and-software/best-vpn-for-mac/#ftag=CAD590a51e)
  - [‘We are the media now’: why Tesla’s robotaxis were dominated by Elon Musk superfans](https://www.theverge.com/tesla/694333/tesla-robotaxi-media-influencers-musk-fans)
  - [Crime blotter: Heist indictment, looting charges, and a movie star is robbed](https://appleinsider.com/articles/25/06/29/crime-blotter-heist-indictment-looting-charges-and-a-movie-star-is-robbed?utm_medium=rss)
- - [Investigation: California colleges and universities continue to renew Turnitin subscriptions despite the cost, faulty anti-plagiarism tech, and privacy issues &lpar;Tara García Mathewson/The Markup&rpar;](http://www.techmeme.com/250629/p11#a250629p11)
- - [Apple’s racing movie is finally here](https://www.theverge.com/installer-newsletter/694482/f1-movie-apple-fairphone-death-stranding-installer)
- - [Dell 14 Plus Review: Mainstream Laptop With Bountiful Options, Basic Looks](https://www.cnet.com/tech/computing/dell-14-plus-review-mainstream-laptop-with-bountiful-options-basic-looks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Investigation: California colleges and universities continue to renew Turnitin subscriptions despite the cost, faulty anti-plagiarism tech, and privacy issues &lpar;Tara García Mathewson/The Markup&rpar;](http://www.techmeme.com/250629/p11#a250629p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

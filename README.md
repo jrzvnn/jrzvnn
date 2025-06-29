@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MCP has promise beyond AI, and could serve as a &quot;universal plugin system&quot; that connects disparate data sources and tools together to enable new capabilities &lpar;Scott Werner/Works on My Machine&rpar;](http://www.techmeme.com/250629/p15#a250629p15)
  - [OpenAI is expanding its consulting-like service to refine its models and build bespoke apps for large enterprise and government clients spending at least $10M &lpar;The Information&rpar;](http://www.techmeme.com/250629/p14#a250629p14)
  - [23 Best Power Banks &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
  - [Hollywood&amp;#8217;s pivot to AI video has a prompting problem](https://www.theverge.com/ai-artificial-intelligence/694687/asteria-bryn-mooser-uncanny-valley-gen-ai)
- - [Call center agents in Australia, Canada, Greece, and the US say they&#39;ve been repeatedly mistaken for AI, as the industry rapidly integrates AI alongside humans &lpar;Morgan Meaker/Bloomberg&rpar;](http://www.techmeme.com/250629/p13#a250629p13)
- - [Plantaform Smart Indoor Garden Review: Rewarding but Risky](https://www.wired.com/review/plantaform-smart-indoor-garden/)<!-- TECH:END -->
+ - [Call center agents in Australia, Canada, Greece, and the US say they&#39;ve been repeatedly mistaken for AI, as the industry rapidly integrates AI alongside humans &lpar;Morgan Meaker/Bloomberg&rpar;](http://www.techmeme.com/250629/p13#a250629p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Silence, Toxic White Male Privilege, and Let Her Speak!!](http://9gag.com/gag/aZZzePX)
- - 😝 [You still performing tomorrow](http://9gag.com/gag/ae9782j)
- - 💣 [Tell us weird knowledge. Let&#39;s be enriched together.](http://9gag.com/gag/aqyYEbv)
+ - 😝 [Oh....shieeee...](http://9gag.com/gag/apRY4p8)
+ - 😝 [The best guard dog](http://9gag.com/gag/avydM75)
+ - 💣 [Finally, a practical use for superpowers.](http://9gag.com/gag/an7r6y5)
  - 😝 [The arm game is strong with the Roborock robot vacuum.](http://9gag.com/gag/aO8R5V2)
  - 👉 [Matching the energy on the road at night](http://9gag.com/gag/aMVOgGV)<!-- MEMES:END -->
 

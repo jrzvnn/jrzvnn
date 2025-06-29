@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The best guard dog](http://9gag.com/gag/avydM75)
- - 😝 [`I&#39;m looking for the least possible amount of responsibility`](http://9gag.com/gag/aYQA32m)
- - 💣 [Talk about a catch and release program](http://9gag.com/gag/avydKrM)
+ - 😝 [Tell us weird knowledge. Let&#39;s be enriched together.](http://9gag.com/gag/aqyYEbv)
+ - 😝 [It&#39;s all about the ego of sending a message](http://9gag.com/gag/aVvVyNK)
+ - 💣 [What happen inside your washing machine](http://9gag.com/gag/a2vL6L9)
  - 😝 [The arm game is strong with the Roborock robot vacuum.](http://9gag.com/gag/aO8R5V2)
- - 👉 [Filthy little hobbitses.](http://9gag.com/gag/aNDO783)<!-- MEMES:END -->
+ - 👉 [Saturated market](http://9gag.com/gag/aYQA0Bx)<!-- MEMES:END -->
 
 ---
 

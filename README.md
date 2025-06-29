@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When WW3 starts, but it&#39;s leg day](http://9gag.com/gag/a5Qq3gr)
- - 😝 [Remembering this iconic look from the early 2000s](http://9gag.com/gag/a4PWO5y)
- - 💣 [Consumer mentality](http://9gag.com/gag/ayNYw1W)
+ - 😝 [Oh....shieeee...](http://9gag.com/gag/apRY4p8)
+ - 😝 [Talk about a catch and release program](http://9gag.com/gag/avydKrM)
+ - 💣 [What a handsome doggo.](http://9gag.com/gag/aoyYQvw)
  - 😝 [The arm game is strong with the Roborock robot vacuum.](http://9gag.com/gag/aO8R5V2)
- - 👉 [Nope. why?](http://9gag.com/gag/aoyYQ7x)<!-- MEMES:END -->
+ - 👉 [Who&#39;s walking who now?](http://9gag.com/gag/amop4VX)<!-- MEMES:END -->
 
 ---
 

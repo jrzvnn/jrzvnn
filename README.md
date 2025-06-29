@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remembering this iconic look from the early 2000s](http://9gag.com/gag/a4PWO5y)
- - 😝 [You still performing tomorrow](http://9gag.com/gag/ae9782j)
- - 💣 [Saturated market](http://9gag.com/gag/aYQA0Bx)
- - 😝 [Who&#39;s walking who now?](http://9gag.com/gag/amop4VX)
- - 👉 [So we all cousins](http://9gag.com/gag/a7opYre)<!-- MEMES:END -->
+ - 😝 [What&#39;s your favorite?](http://9gag.com/gag/aYQA907)
+ - 😝 [Working as planned...Pun intended.](http://9gag.com/gag/aYQA3rm)
+ - 💣 [You still performing tomorrow](http://9gag.com/gag/ae9782j)
+ - 😝 [Japan](http://9gag.com/gag/a2vLXg1)
+ - 👉 [Nope. why?](http://9gag.com/gag/aoyYQ7x)<!-- MEMES:END -->
 
 ---
 

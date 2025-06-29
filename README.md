@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [It&#39;s all about the ego of sending a message](http://9gag.com/gag/aVvVyNK)
  - 😝 [When you need to make a quick exit](http://9gag.com/gag/aGyO55G)
- - 💣 [Shhh](http://9gag.com/gag/a5QqYOO)
+ - 💣 [Tell us weird knowledge. Let&#39;s be enriched together.](http://9gag.com/gag/aqyYEbv)
  - 😝 [The arm game is strong with the Roborock robot vacuum.](http://9gag.com/gag/aO8R5V2)
- - 👉 [What happen inside your washing machine](http://9gag.com/gag/a2vL6L9)<!-- MEMES:END -->
+ - 👉 [Shhh](http://9gag.com/gag/a5QqYOO)<!-- MEMES:END -->
 
 ---
 

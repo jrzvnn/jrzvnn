@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remembering this iconic look from the early 2000s](http://9gag.com/gag/a4PWO5y)
- - 😝 [And everything in it](http://9gag.com/gag/aqyYoZY)
- - 💣 [Japan](http://9gag.com/gag/a2vLXg1)
- - 😝 [Working as planned...Pun intended.](http://9gag.com/gag/aYQA3rm)
- - 👉 [What happen inside your washing machine](http://9gag.com/gag/a2vL6L9)<!-- MEMES:END -->
+ - 😝 [Police break car window to rescue dog left inside on a hot day. Great job](http://9gag.com/gag/ary2YVy)
+ - 😝 [The impact of killing off Glenn was significant for The Walking Dead viewership.](http://9gag.com/gag/ary2Q0d)
+ - 💣 [Remembering this iconic look from the early 2000s](http://9gag.com/gag/a4PWO5y)
+ - 😝 [Who&#39;s walking who now?](http://9gag.com/gag/amop4VX)
+ - 👉 [Shhh](http://9gag.com/gag/a5QqYOO)<!-- MEMES:END -->
 
 ---
 

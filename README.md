@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And everything in it](http://9gag.com/gag/aqyYoZY)
- - 😝 [Saturated market](http://9gag.com/gag/aYQA0Bx)
- - 💣 [Police break car window to rescue dog left inside on a hot day. Great job](http://9gag.com/gag/ary2YVy)
+ - 😝 [Remembering this iconic look from the early 2000s](http://9gag.com/gag/a4PWO5y)
+ - 😝 [You still performing tomorrow](http://9gag.com/gag/ae9782j)
+ - 💣 [Saturated market](http://9gag.com/gag/aYQA0Bx)
  - 😝 [Who&#39;s walking who now?](http://9gag.com/gag/amop4VX)
- - 👉 [Nope. why?](http://9gag.com/gag/aoyYQ7x)<!-- MEMES:END -->
+ - 👉 [So we all cousins](http://9gag.com/gag/a7opYre)<!-- MEMES:END -->
 
 ---
 

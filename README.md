@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [10 Best Dash Kitchen Appliances &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-dash-kitchen-appliances/)
  - [Pipistrello and the Cursed Yoyo would feel right at home on your GBA](https://www.theverge.com/games-review/692172/pipistrello-and-the-cursed-yoyo-review)
  - [Best VPN for Mac for 2025: Tested and Reviewed](https://www.cnet.com/tech/services-and-software/best-vpn-for-mac/#ftag=CAD590a51e)
  - [‘We are the media now’: why Tesla’s robotaxis were dominated by Elon Musk superfans](https://www.theverge.com/tesla/694333/tesla-robotaxi-media-influencers-musk-fans)
- - [Crime blotter: Heist indictment, looting charges, and a movie star is robbed](https://appleinsider.com/articles/25/06/29/crime-blotter-heist-indictment-looting-charges-and-a-movie-star-is-robbed?utm_medium=rss)
- - [Investigation: California colleges and universities continue to renew Turnitin subscriptions despite the cost, faulty anti-plagiarism tech, and privacy issues &lpar;Tara García Mathewson/The Markup&rpar;](http://www.techmeme.com/250629/p11#a250629p11)<!-- TECH:END -->
+ - [Crime blotter: Heist indictment, looting charges, and a movie star is robbed](https://appleinsider.com/articles/25/06/29/crime-blotter-heist-indictment-looting-charges-and-a-movie-star-is-robbed?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

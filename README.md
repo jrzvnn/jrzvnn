@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tell us weird knowledge. Let&#39;s be enriched together.](http://9gag.com/gag/aqyYEbv)
- - 😝 [It&#39;s all about the ego of sending a message](http://9gag.com/gag/aVvVyNK)
- - 💣 [What happen inside your washing machine](http://9gag.com/gag/a2vL6L9)
- - 😝 [The arm game is strong with the Roborock robot vacuum.](http://9gag.com/gag/aO8R5V2)
- - 👉 [Saturated market](http://9gag.com/gag/aYQA0Bx)<!-- MEMES:END -->
+ - 😝 [Matching the energy on the road at night](http://9gag.com/gag/aMVOgGV)
+ - 😝 [Japan](http://9gag.com/gag/a2vLXg1)
+ - 💣 [You still performing tomorrow](http://9gag.com/gag/ae9782j)
+ - 😝 [What happen inside your washing machine](http://9gag.com/gag/a2vL6L9)
+ - 👉 [Shhh](http://9gag.com/gag/a5QqYOO)<!-- MEMES:END -->
 
 ---
 

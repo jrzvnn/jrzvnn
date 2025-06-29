@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Saturated market](http://9gag.com/gag/aYQA0Bx)
- - 😝 [Nothing is interrupting this dockside wine.](http://9gag.com/gag/azxYp8z)
- - 💣 [A fantastic sunday](http://9gag.com/gag/aPA15On)
- - 😝 [How to tame your dragon irl](http://9gag.com/gag/avydNY5)
- - 👉 [You still performing tomorrow](http://9gag.com/gag/ae9782j)<!-- MEMES:END -->
+ - 😝 [The impact of killing off Glenn was significant for The Walking Dead viewership.](http://9gag.com/gag/ary2Q0d)
+ - 😝 [You still performing tomorrow](http://9gag.com/gag/ae9782j)
+ - 💣 [Police break car window to rescue dog left inside on a hot day. Great job](http://9gag.com/gag/ary2YVy)
+ - 😝 [Working as planned...Pun intended.](http://9gag.com/gag/aYQA3rm)
+ - 👉 [How to tame your dragon irl](http://9gag.com/gag/avydNY5)<!-- MEMES:END -->
 
 ---
 

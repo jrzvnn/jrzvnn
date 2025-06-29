@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Student Solves a Long-Standing Problem About the Limits of Addition](https://www.wired.com/story/graduate-student-solves-classic-problem-about-the-limits-of-addition/)
+ - [Fairphone Has a New Plan to Get You to Care](https://www.wired.com/story/fairphone-proves-you-really-dont-give-a-damn/)
  - [The Best Printers for Home and Office: Brother, HP, and More](https://www.wired.com/gallery/best-printers/)
- - [Synthesia says it has over 65K customers and serves more than 70% of the Fortune 100, with its AI avatars mainly used for training and internal communications &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250629/p10#a250629p10)
- - [I Let AI Agents Plan My Vacation—and It Wasn&#39;t Terrible](https://www.wired.com/story/i-let-ai-agents-plan-my-vacation-and-it-wasnt-terrible/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 29, #483](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-29-483/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 29, #279](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-29-279/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Greenville, South Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-greenville-sc/#ftag=CAD590a51e)
+ - [Synthesia says it has over 65K customers and serves more than 70% of the Fortune 100, with its AI avatars mainly used for training and internal communications &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250629/p10#a250629p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

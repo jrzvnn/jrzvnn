@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spinwheel, which helps fintech companies and banks authenticate users, automate data retrieval, and facilitate payments, raised a $30M Series A led by F-Prime &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250629/p23#a250629p23)
+ - [Kuo expects Apple to mass produce a Vision Pro with M5 in Q3 2025, a Vision Air in Q3 2027, a Vision Pro with a new design and XR glasses in H2 2028, and more &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/250629/p22#a250629p22)
+ - [Early Prime Day iPad deals roll in, offering prices as low as $299](https://appleinsider.com/articles/25/06/29/early-prime-day-ipad-deals-roll-in-offering-prices-as-low-as-299?utm_medium=rss)
  - [Sources: Menlo Ventures targets ~$1.5B for new funds to invest in AI ventures, including $650M for early-stage startups, and $850M for later-stage companies &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/250629/p21#a250629p21)
- - [Winnipeg-based Conquest Planning, which uses AI to help financial advisors and other clients make decisions, raised an $80M Series B led by Goldman Sachs &lpar;Jon Fingas/BetaKit&rpar;](http://www.techmeme.com/250629/p20#a250629p20)
- - [12 New Summer Anime Releases to Add to Your Watch List Right Now](https://www.cnet.com/tech/services-and-software/12-new-summer-anime-releases-to-add-to-your-watch-list-right-now/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for June 30, #1472](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-30-1472/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 30, #484](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-30-484/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Winnipeg-based Conquest Planning, which uses AI to help financial advisors and other clients make decisions, raised an $80M Series B led by Goldman Sachs &lpar;Jon Fingas/BetaKit&rpar;](http://www.techmeme.com/250629/p20#a250629p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

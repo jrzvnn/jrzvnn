@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Matching the energy on the road at night](http://9gag.com/gag/aMVOgGV)
  - 😝 [Japan](http://9gag.com/gag/a2vLXg1)
- - 💣 [You still performing tomorrow](http://9gag.com/gag/ae9782j)
- - 😝 [What happen inside your washing machine](http://9gag.com/gag/a2vL6L9)
- - 👉 [Shhh](http://9gag.com/gag/a5QqYOO)<!-- MEMES:END -->
+ - 💣 [Shhh](http://9gag.com/gag/a5QqYOO)
+ - 😝 [You still performing tomorrow](http://9gag.com/gag/ae9782j)
+ - 👉 [The impact of killing off Glenn was significant for The Walking Dead viewership.](http://9gag.com/gag/ary2Q0d)<!-- MEMES:END -->
 
 ---
 

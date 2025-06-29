@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Student Solves a Long-Standing Problem About the Limits of Addition](https://www.wired.com/story/graduate-student-solves-classic-problem-about-the-limits-of-addition/)
- - [Fairphone Has a New Plan to Get You to Care](https://www.wired.com/story/fairphone-proves-you-really-dont-give-a-damn/)
- - [The Best Printers for Home and Office: Brother, HP, and More](https://www.wired.com/gallery/best-printers/)
- - [Best Internet Providers in Greenville, South Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-greenville-sc/#ftag=CAD590a51e)
- - [Synthesia says it has over 65K customers and serves more than 70% of the Fortune 100, with its AI avatars mainly used for training and internal communications &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250629/p10#a250629p10)<!-- TECH:END -->
+ - [‘We are the media now’: why Tesla’s robotaxis were dominated by Elon Musk superfans](https://www.theverge.com/tesla/694333/tesla-robotaxi-media-influencers-musk-fans)
+ - [Crime blotter: Heist indictment, looting charges, and a movie star is robbed](https://appleinsider.com/articles/25/06/29/crime-blotter-heist-indictment-looting-charges-and-a-movie-star-is-robbed?utm_medium=rss)
+ - [Investigation: California colleges and universities continue to renew Turnitin subscriptions despite the cost, faulty anti-plagiarism tech, and privacy issues &lpar;Tara García Mathewson/The Markup&rpar;](http://www.techmeme.com/250629/p11#a250629p11)
+ - [Apple’s racing movie is finally here](https://www.theverge.com/installer-newsletter/694482/f1-movie-apple-fairphone-death-stranding-installer)
+ - [Dell 14 Plus Review: Mainstream Laptop With Bountiful Options, Basic Looks](https://www.cnet.com/tech/computing/dell-14-plus-review-mainstream-laptop-with-bountiful-options-basic-looks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

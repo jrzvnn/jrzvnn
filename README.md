@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nothing is interrupting this dockside wine.](http://9gag.com/gag/azxYp8z)
- - 😝 [Tell us weird knowledge. Let&#39;s be enriched together.](http://9gag.com/gag/aqyYEbv)
- - 💣 [Matching the energy on the road at night](http://9gag.com/gag/aMVOgGV)
+ - 😝 [Silence, Toxic White Male Privilege, and Let Her Speak!!](http://9gag.com/gag/aZZzePX)
+ - 😝 [You still performing tomorrow](http://9gag.com/gag/ae9782j)
+ - 💣 [Tell us weird knowledge. Let&#39;s be enriched together.](http://9gag.com/gag/aqyYEbv)
  - 😝 [The arm game is strong with the Roborock robot vacuum.](http://9gag.com/gag/aO8R5V2)
- - 👉 [Spicy fish](http://9gag.com/gag/aNDOb0b)<!-- MEMES:END -->
+ - 👉 [Matching the energy on the road at night](http://9gag.com/gag/aMVOgGV)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`I&#39;m looking for the least possible amount of responsibility`](http://9gag.com/gag/aYQA32m)
- - 😝 [What a handsome doggo.](http://9gag.com/gag/aoyYQvw)
- - 💣 [Finally, a practical use for superpowers.](http://9gag.com/gag/an7r6y5)
+ - 😝 [And everything in it](http://9gag.com/gag/aqyYoZY)
+ - 😝 [Saturated market](http://9gag.com/gag/aYQA0Bx)
+ - 💣 [Police break car window to rescue dog left inside on a hot day. Great job](http://9gag.com/gag/ary2YVy)
  - 😝 [Who&#39;s walking who now?](http://9gag.com/gag/amop4VX)
- - 👉 [We will be dominated by plants](http://9gag.com/gag/awyYEL4)<!-- MEMES:END -->
+ - 👉 [Nope. why?](http://9gag.com/gag/aoyYQ7x)<!-- MEMES:END -->
 
 ---
 

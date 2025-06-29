@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [San Diego-based Clearspeed, which offers AI-driven voice-based risk assessment tech for 60+ languages, raised a $60M Series D, taking its total funding to $110M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250629/p7#a250629p7)
+ - [South Korea becomes Asia&#39;s best-performing stock market in H1 2025, as shares rise following President Lee Jae-myung&#39;s pledge to allow won-based stablecoins &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/250629/p6#a250629p6)
+ - [Niural, whose AI agents help companies automate payroll, benefits, vendor payments, and compliance, raised a $31M Series A led by Marathon Management Partners &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250629/p5#a250629p5)
  - [Nvidia executives, including Jensen Huang, have sold $1B+ worth of company stock in the past 12 months, with $500M+ in share sales occurring in June 2025 alone &lpar;Financial Times&rpar;](http://www.techmeme.com/250629/p4#a250629p4)
- - [Bengaluru-based ShopOS, whose AI agents help automate content creation, marketing, and site management for e-commerce brands, raised $20M from 3State Ventures &lpar;Moneycontrol&rpar;](http://www.techmeme.com/250629/p3#a250629p3)
- - [Walmart&#39;s Flipkart says about 200M Indian users engaged with social videos and livestreams promoting products on the platform in H1 2025, up from 75M a year ago &lpar;Satviki Sanjay/Bloomberg&rpar;](http://www.techmeme.com/250629/p2#a250629p2)
- - [Nordic Semiconductor acquires US startup Memfault, a cloud-based IoT lifecycle management and observability service that supports secure OTA updates, for $120M &lpar;Nick Flaherty/eeNews Europe&rpar;](http://www.techmeme.com/250629/p1#a250629p1)
- - [As top reporters continue to flock to Substack, subscription fatigue and challenges with building a wide audience pose threats to its long-term success &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/250628/p19#a250628p19)<!-- TECH:END -->
+ - [Bengaluru-based ShopOS, whose AI agents help automate content creation, marketing, and site management for e-commerce brands, raised $20M from 3State Ventures &lpar;Moneycontrol&rpar;](http://www.techmeme.com/250629/p3#a250629p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

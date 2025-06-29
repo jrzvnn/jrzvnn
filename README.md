@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Talk about a catch and release program](http://9gag.com/gag/avydKrM)
- - 😝 [What a handsome doggo.](http://9gag.com/gag/aoyYQvw)
- - 💣 [Who&#39;s walking who now?](http://9gag.com/gag/amop4VX)
+ - 😝 [No denture adventure](http://9gag.com/gag/aVvV5Gv)
+ - 😝 [Tell us weird knowledge. Let&#39;s be enriched together.](http://9gag.com/gag/aqyYEbv)
+ - 💣 [Spicy fish](http://9gag.com/gag/aNDOb0b)
  - 😝 [The arm game is strong with the Roborock robot vacuum.](http://9gag.com/gag/aO8R5V2)
- - 👉 [Cops acted before asking questions.](http://9gag.com/gag/aByOA4Z)<!-- MEMES:END -->
+ - 👉 [Japan](http://9gag.com/gag/a2vLXg1)<!-- MEMES:END -->
 
 ---
 

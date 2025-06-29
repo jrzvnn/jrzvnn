@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who&#39;s walking who now?](http://9gag.com/gag/amop4VX)
  - 😝 [Saturated market](http://9gag.com/gag/aYQA0Bx)
- - 💣 [What happen inside your washing machine](http://9gag.com/gag/a2vL6L9)
- - 😝 [Remembering this iconic look from the early 2000s](http://9gag.com/gag/a4PWO5y)
- - 👉 [Japan](http://9gag.com/gag/a2vLXg1)<!-- MEMES:END -->
+ - 😝 [So we all cousins](http://9gag.com/gag/a7opYre)
+ - 💣 [Japan](http://9gag.com/gag/a2vLXg1)
+ - 😝 [The impact of killing off Glenn was significant for The Walking Dead viewership.](http://9gag.com/gag/ary2Q0d)
+ - 👉 [You still performing tomorrow](http://9gag.com/gag/ae9782j)<!-- MEMES:END -->
 
 ---
 

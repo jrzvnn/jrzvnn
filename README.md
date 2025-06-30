@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rapid7 finds eight vulnerabilities, including one remotely-exploitable flaw that cannot be fixed via firmware patch, affecting 689 models of Brother printers &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250630/p32#a250630p32)
  - [Apple loses bid to dismiss wide-ranging DOJ antitrust case](https://appleinsider.com/articles/25/06/30/apple-loses-bid-to-dismiss-wide-ranging-doj-antitrust-case?utm_medium=rss)
  - [Canada-based Clio, which makes cloud tools for law firms, agrees to acquire vLex, which offers a legal and regulatory database and an AI assistant, for $1B &lpar;Alex Riehl/BetaKit&rpar;](http://www.techmeme.com/250630/p31#a250630p31)
  - [New UPS text scam targets iPhone users with fake package redelivery info](https://appleinsider.com/articles/25/06/30/new-ups-text-scam-targets-iphone-users-with-fake-package-redelivery-info?utm_medium=rss)
- - [Apple’s AI Siri might be powered by OpenAI](https://www.theverge.com/news/695461/apple-ai-siri-openai-chatgpt-powered)
- - [Mexico City-based digital bank Klar raised a $190M Series C led by General Atlantic, including $170M in equity and $20M in debt, valuing the company at $800M+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/250630/p30#a250630p30)<!-- TECH:END -->
+ - [Apple’s AI Siri might be powered by OpenAI](https://www.theverge.com/news/695461/apple-ai-siri-openai-chatgpt-powered)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is reportedly working on a bunch of new XR devices](https://www.theverge.com/news/694953/apple-xr-devices-vision-pro-smart-glasses)
- - [How to get Apple Music to show you your most-played songs of all time](https://appleinsider.com/inside/apple-music/tips/how-to-get-apple-music-to-show-you-your-most-played-songs-of-all-time?utm_medium=rss)
- - [Europol says it has dismantled a crypto investment fraud ring in Spain that laundered €460M using a global network of accomplices, and five people were arrested &lpar;Sudip Kar-Gupta/Reuters&rpar;](http://www.techmeme.com/250630/p13#a250630p13)
- - [Apple celebrates 10 years of Apple Music with new studio for artists](https://appleinsider.com/articles/25/06/30/apple-celebrates-10-years-of-apple-music-with-new-studio-for-artists?utm_medium=rss)
- - [Tinder is mandating new users in California verify their profiles using facial recognition technology starting June 30 in a bid to reduce impersonation &lpar;Kerry Flynn/Axios&rpar;](http://www.techmeme.com/250630/p12#a250630p12)<!-- TECH:END -->
+ - [My Friends Always Ask Me What MacBook to Buy. Here&#39;s What I Tell Them](https://www.wired.com/story/you-probably-dont-need-a-macbook-pro/)
+ - [Why Automattic CEO Matt Mullenweg went to war over WordPress](https://www.theverge.com/decoder-podcast-with-nilay-patel/693052/automattic-ceo-matt-mullenweg-wordpress-drama-wp-engine-open-source)
+ - [Google is opening its NotebookLM AI tools to students under 18](https://www.theverge.com/news/694917/google-classroom-gemini-ai-notebooklm-education-chromeos-updates)
+ - [Apple Music&#39;s birthday specials include a 500 most-streamed songs countdown](https://appleinsider.com/articles/25/06/30/apple-musics-birthday-specials-include-a-500-most-streamed-songs-countdown?utm_medium=rss)
+ - [Apple is reportedly working on a bunch of new XR devices](https://www.theverge.com/news/694953/apple-xr-devices-vision-pro-smart-glasses)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

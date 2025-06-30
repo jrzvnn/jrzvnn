@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finally, a practical use for superpowers.](http://9gag.com/gag/an7r6y5)
- - 😝 [Finally some senses.](http://9gag.com/gag/aW4DzV3)
- - 💣 [Matching the energy on the road at night](http://9gag.com/gag/aMVOgGV)
- - 😝 [Based minister](http://9gag.com/gag/ary2YD7)
- - 👉 [Filthy little hobbitses.](http://9gag.com/gag/aNDO783)<!-- MEMES:END -->
+ - 😝 [6 people jump on car to escape pit bull but it doesn&#39;t give up](http://9gag.com/gag/a0eM2pB)
+ - 😝 [Working as planned...Pun intended.](http://9gag.com/gag/aYQA3rm)
+ - 💣 [Average Californian woman](http://9gag.com/gag/abAQNRL)
+ - 😝 [He looks concerned](http://9gag.com/gag/aRBOqYj)
+ - 👉 [The impact of killing off Glenn was significant for The Walking Dead viewership.](http://9gag.com/gag/ary2Q0d)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Experts raise concerns that Malta&#39;s expedited MiCA licensing process may lack sufficient enforcement and oversight; OKX received a MiCA license in four days &lpar;CoinDesk&rpar;](http://www.techmeme.com/250630/p20#a250630p20)
+ - [MacBook with A18 Pro first appeared in macOS 15 code](https://appleinsider.com/articles/25/06/30/macbook-with-a18-pro-first-appeared-in-macos-15-code?utm_medium=rss)
  - [Apple tells EU to forget about getting all the new iOS 26 features](https://appleinsider.com/articles/25/06/30/apple-tells-eu-to-forget-about-getting-all-the-new-ios-26-features?utm_medium=rss)
  - [Tumblr’s move to WordPress and fediverse integration is ‘on hold’](https://www.theverge.com/news/695124/tumblr-wordpress-automattic-fediverse-integration-on-hold-decoder)
- - [The best fitness trackers and watches we’ve tested](https://www.theverge.com/22985108/best-fitness-tracker)
- - [Save $240 on Apple&#39;s M4 MacBook Pro with 24GB RAM, 1TB SSD in early Prime Day price war](https://appleinsider.com/articles/25/06/30/save-240-on-apples-m4-macbook-pro-with-24gb-ram-1tb-ssd-in-early-prime-day-price-war?utm_medium=rss)
- - [Will Mortgage Rates Drop in a Recession? This Realtor Has a Hot Take](https://www.cnet.com/personal-finance/mortgages/will-mortgage-rates-drop-in-a-recession-this-realtor-has-a-hot-take/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best fitness trackers and watches we’ve tested](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

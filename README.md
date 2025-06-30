@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Termites incredible defense system. Scary!](http://9gag.com/gag/a9yO9Ao)
- - 😝 [90s kids.](http://9gag.com/gag/aQzOwrr)
- - 💣 [Peak male content](http://9gag.com/gag/aGyOWQK)
- - 😝 [If its geh, all 9gaggers are geh](http://9gag.com/gag/aXPKDwg)
- - 👉 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)<!-- MEMES:END -->
+ - 😝 [Average Californian woman](http://9gag.com/gag/abAQNRL)
+ - 😝 [How to tame your dragon irl](http://9gag.com/gag/avydNY5)
+ - 💣 [A reunion nobody expected](http://9gag.com/gag/azxY00B)
+ - 😝 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)
+ - 👉 [Honest invisible dude](http://9gag.com/gag/a2vLnZe)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a memo, Mark Zuckerberg announces Meta Superintelligence Labs and 11 new hires; Nat Friedman &quot;will partner with Alexandr Wang&quot; to lead the new group &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/250630/p24#a250630p24)
+ - [iOS 18.6, macOS 15.6, watchOS 11.6, tvOS 18.6 and visionOS 2.6 get second betas](https://appleinsider.com/articles/25/06/30/ios-186-macos-156-watchos-116-tvos-186-and-visionos-26-get-second-betas?utm_medium=rss)
+ - [Pixelmator Pro gains better RAW images, Accessibility -- and Apple Intelligence](https://appleinsider.com/articles/25/06/30/pixelmator-pro-gains-better-raw-images-accessibility----and-apple-intelligence?utm_medium=rss)
  - [Google announces 30+ Gemini AI tools for educators, like &quot;Gems&quot; which help students on specific subjects, included with Google Workspace for Education accounts &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250630/p23#a250630p23)
- - [A look at the rise of $5B+ unicorns, which make up 13% of ~1,600 unicorns but hold $3.5T of $6T total valuation; 17 startups joined the $5B+ club in H1 2025 &lpar;Gené Teare/Crunchbase News&rpar;](http://www.techmeme.com/250630/p22#a250630p22)
- - [Campfire, which offers AI-powered ERP and accounting services, raised a $35M Series A led by Accel &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250630/p21#a250630p21)
- - [Google Calendar now has an Apple Watch app](https://www.theverge.com/news/695165/google-calendar-apple-watch-app-watchos)
- - [Experts raise concerns that Malta&#39;s expedited MiCA licensing process may lack sufficient enforcement and oversight; OKX received a MiCA license in four days &lpar;CoinDesk&rpar;](http://www.techmeme.com/250630/p20#a250630p20)<!-- TECH:END -->
+ - [A look at the rise of $5B+ unicorns, which make up 13% of ~1,600 unicorns but hold $3.5T of $6T total valuation; 17 startups joined the $5B+ club in H1 2025 &lpar;Gené Teare/Crunchbase News&rpar;](http://www.techmeme.com/250630/p22#a250630p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s over fellow men... should we show our chocolate starfish too instead working 9 to 5?...](http://9gag.com/gag/a2vLB5D)
+ - 😝 [The impact of killing off Glenn was significant for The Walking Dead viewership.](http://9gag.com/gag/ary2Q0d)
  - 😝 [Never start a food fight with the pizza guy](http://9gag.com/gag/aKGOre6)
- - 💣 [Moments before death](http://9gag.com/gag/a1mE9xw)
+ - 💣 [A reunion nobody expected](http://9gag.com/gag/azxY00B)
  - 😝 [Sundress season rules.](http://9gag.com/gag/aQzO0jd)
  - 👉 [Average Californian woman](http://9gag.com/gag/abAQNRL)<!-- MEMES:END -->
 

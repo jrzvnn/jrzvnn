@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finally, a practical use for superpowers.](http://9gag.com/gag/an7r6y5)
- - 😝 [Who&#39;s walking who now?](http://9gag.com/gag/amop4VX)
- - 💣 [Matching the energy on the road at night](http://9gag.com/gag/aMVOgGV)
- - 😝 [Based minister](http://9gag.com/gag/ary2YD7)
- - 👉 [Filthy little hobbitses.](http://9gag.com/gag/aNDO783)<!-- MEMES:END -->
+ - 😝 [What happen inside your washing machine](http://9gag.com/gag/a2vL6L9)
+ - 😝 [He looks concerned](http://9gag.com/gag/aRBOqYj)
+ - 💣 [Would you blame him?](http://9gag.com/gag/aNDOEXv)
+ - 😝 [Matching the energy on the road at night](http://9gag.com/gag/aMVOgGV)
+ - 👉 [Working as planned...Pun intended.](http://9gag.com/gag/aYQA3rm)<!-- MEMES:END -->
 
 ---
 

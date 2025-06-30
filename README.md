@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Unpacking Our Conversation With a Former DOGE Staffer](https://www.wired.com/story/uncanny-valley-podcast-unpacking-our-conversation-with-a-former-doge-staffer/)
+ - [Sources: Mike Rockwell and Craig Federighi have led efforts to assess external models to power Siri; after testing, Anthropic&#39;s tech seemed most promising &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250630/p26#a250630p26)
  - [The US takes down a North Korean operation that, from 2021 to 2024, impersonated 80+ people to get remote jobs at 100+ US firms, using &quot;laptop farms&quot; in the US &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250630/p25#a250630p25)
  - [Analyst Says Apple Has Big Vision Pro Plans For 2027, Including Smart Glasses](https://www.cnet.com/tech/computing/analyst-says-apple-has-big-vision-pro-plans-for-2027-including-smart-glasses/#ftag=CAD590a51e)
- - [Jackery&amp;#8217;s capable, solar-powered generator is nearly half off](https://www.theverge.com/tech/695228/jackery-explorer-1000-tp-link-x75-router-deal-sale)
- - [Microsoft Authenticator is ending support for passwords](https://www.theverge.com/news/695288/microsoft-authenticator-autofill-store-passwords)
- - [When to Stream the &#39;Secret Lives of Mormon Wives&#39; Reunion](https://www.cnet.com/tech/services-and-software/when-to-stream-the-secret-lives-of-mormon-wives-reunion/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Jackery&amp;#8217;s capable, solar-powered generator is nearly half off](https://www.theverge.com/tech/695228/jackery-explorer-1000-tp-link-x75-router-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

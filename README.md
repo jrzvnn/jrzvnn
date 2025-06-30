@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [You still performing tomorrow](http://9gag.com/gag/ae9782j)
- - 😝 [What happen inside your washing machine](http://9gag.com/gag/a2vL6L9)
- - 💣 [Matching the energy on the road at night](http://9gag.com/gag/aMVOgGV)
- - 😝 [Average Californian woman](http://9gag.com/gag/abAQNRL)
- - 👉 [Working as planned...Pun intended.](http://9gag.com/gag/aYQA3rm)<!-- MEMES:END -->
+ - 😝 [It&#39;s all about the ego of sending a message](http://9gag.com/gag/aVvVyNK)
+ - 💣 [Average Californian woman](http://9gag.com/gag/abAQNRL)
+ - 😝 [The impact of killing off Glenn was significant for The Walking Dead viewership.](http://9gag.com/gag/ary2Q0d)
+ - 👉 [How to tame your dragon irl](http://9gag.com/gag/avydNY5)<!-- MEMES:END -->
 
 ---
 

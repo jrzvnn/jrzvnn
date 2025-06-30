@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GOP Senators agree to change a provision in the tax bill from a 10-year ban on state AI regulation to a 5-year ban with carve outs for issues such as copyrights &lpar;Bloomberg&rpar;](http://www.techmeme.com/250629/p28#a250629p28)
+ - [Sources: the US DHS, in partnership with DOGE, has built the first-ever searchable national citizenship data system, pulling from SSA and immigration databases &lpar;NPR&rpar;](http://www.techmeme.com/250629/p27#a250629p27)
  - [Canada rescinds its Digital Services Tax &quot;in anticipation of&quot; a trade deal with the US, with trade talks resuming; the tax was set to go into effect on Monday &lpar;Associated Press&rpar;](http://www.techmeme.com/250629/p26#a250629p26)
  - [A profile of OnlyFans&#39; secretive founder Leo Radvinsky, as the platform&#39;s parent company is considering a sale for as much as $8B, according to sources &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250629/p25#a250629p25)
- - [China&#39;s tech giants are ramping up M&amp;A and investment deals as the government shifts its stance to support the tech industry, particularly in areas like AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250629/p24#a250629p24)
- - [Spinwheel, which helps fintech companies and banks authenticate users, automate data retrieval, and facilitate payments, raised a $30M Series A led by F-Prime &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250629/p23#a250629p23)
- - [Kuo expects Apple to mass produce a Vision Pro with M5 in Q3 2025, a Vision Air in Q3 2027, a Vision Pro with a new design and XR glasses in H2 2028, and more &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/250629/p22#a250629p22)<!-- TECH:END -->
+ - [China&#39;s tech giants are ramping up M&amp;A and investment deals as the government shifts its stance to support the tech industry, particularly in areas like AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250629/p24#a250629p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A reunion nobody expected](http://9gag.com/gag/azxY00B)
- - 😝 [The cat is safe, the cabinet is not.](http://9gag.com/gag/a5QqmMN)
- - 💣 [The impact of killing off Glenn was significant for The Walking Dead viewership.](http://9gag.com/gag/ary2Q0d)
- - 😝 [Guys.... the dwarf is chasing you..](http://9gag.com/gag/aRBO5w2)
- - 👉 [How to tame your dragon irl](http://9gag.com/gag/avydNY5)<!-- MEMES:END -->
+ - 😝 [Hero K9 Rocky being rushed to safety by his team.](http://9gag.com/gag/a7opQyb)
+ - 😝 [Police break car window to rescue dog left inside on a hot day. Great job](http://9gag.com/gag/ary2YVy)
+ - 💣 [An incredibly close encounter with a mother bear and her cubs on the beach](http://9gag.com/gag/aE0O30K)
+ - 😝 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)
+ - 👉 [Finger crossed](http://9gag.com/gag/a5Qqm8q)<!-- MEMES:END -->
 
 ---
 

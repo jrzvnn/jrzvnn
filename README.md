@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SEC filing: Oracle signed multiple large cloud agreements, including one that is expected to contribute $30B+ in annual revenue starting in FY28; ORCL jumps 5%+ &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250630/p16#a250630p16)
- - [Apple will delay rolling out some iOS 26 features in the EU later this year, including &quot;visited places&quot;, citing the difficulty of complying with the DMA &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/250630/p15#a250630p15)
- - [Apple CarPlay Ultra hands-on: more continuity, less disruption](https://www.theverge.com/hands-on/694633/apple-carplay-ultra-hands-on-more-continuity-less-disruption)
- - [Verizon denies 61 million customer records for sale online are legitimate](https://appleinsider.com/articles/25/06/30/verizon-denies-61-million-customer-records-for-sale-online-are-legitimate?utm_medium=rss)
- - [Microsoft says its new AI tool diagnoses diseases with 80% accuracy vs. doctors&#39; 20%; Mustafa Suleyman calls it a &quot;step toward medical superintelligence&quot; &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250630/p14#a250630p14)<!-- TECH:END -->
+ - [Apple Music marks 10 years of streaming with a new all-time Replay list](https://www.theverge.com/news/695058/apple-music-10th-anniversary-replay-all-time)
+ - [Robinhood announces an expanded offering of tokenized US stocks across Europe, crypto staking in US, a Layer 2 blockchain for real-world asset settlement, more &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250630/p19#a250630p19)
+ - [How Do Pimple Patches Work? Here’s Everything You Need to Know](https://www.wired.com/story/how-do-pimple-patches-work/)
+ - [Cursor launches a web app and Slack integration for managing AI coding agents from mobile and desktop &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250630/p18#a250630p18)
+ - [Canada drops Big Tech tax to appease Trump](https://www.theverge.com/news/695083/canada-digital-services-tax-rescinded-trump)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

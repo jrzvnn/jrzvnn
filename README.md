@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US takes down a North Korean operation that, from 2021 to 2024, impersonated 80+ people to get remote jobs at 100+ US firms, using &quot;laptop farms&quot; in the US &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250630/p25#a250630p25)
+ - [Analyst Says Apple Has Big Vision Pro Plans For 2027, Including Smart Glasses](https://www.cnet.com/tech/computing/analyst-says-apple-has-big-vision-pro-plans-for-2027-including-smart-glasses/#ftag=CAD590a51e)
  - [Jackery&amp;#8217;s capable, solar-powered generator is nearly half off](https://www.theverge.com/tech/695228/jackery-explorer-1000-tp-link-x75-router-deal-sale)
  - [Microsoft Authenticator is ending support for passwords](https://www.theverge.com/news/695288/microsoft-authenticator-autofill-store-passwords)
- - [Epic antisteering court order is &#39;constitutionally offensive&#39; to Apple&#39;s free speech rights](https://appleinsider.com/articles/25/06/30/epic-antisteering-court-order-is-constitutionally-offensive-to-apples-free-speech-rights?utm_medium=rss)
- - [Here Is Everyone Mark Zuckerberg Has Hired So Far for Meta’s ‘Superintelligence’ Team](https://www.wired.com/story/mark-zuckerberg-welcomes-superintelligence-team/)
- - [Proton lawsuit targets Apple&#39;s grip on iPhone apps &amp; payments](https://appleinsider.com/articles/25/06/30/proton-lawsuit-targets-apples-grip-on-iphone-apps-payments?utm_medium=rss)<!-- TECH:END -->
+ - [When to Stream the &#39;Secret Lives of Mormon Wives&#39; Reunion](https://www.cnet.com/tech/services-and-software/when-to-stream-the-secret-lives-of-mormon-wives-reunion/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

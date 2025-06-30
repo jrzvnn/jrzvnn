@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An incredibly close encounter with a mother bear and her cubs on the beach](http://9gag.com/gag/aE0O30K)
- - 😝 [Thought y\u2019all might get a kick out of this one!](http://9gag.com/gag/aqyYP8v)
- - 💣 [Peak male content](http://9gag.com/gag/aGyOWQK)
+ - 😝 [Gotta love the Ramones:](http://9gag.com/gag/avydNEn)
+ - 😝 [The impact of killing off Glenn was significant for The Walking Dead viewership.](http://9gag.com/gag/ary2Q0d)
+ - 💣 [Police break car window to rescue dog left inside on a hot day. Great job](http://9gag.com/gag/ary2YVy)
  - 😝 [6 people jump on car to escape pit bull but it doesn&#39;t give up](http://9gag.com/gag/a0eM2pB)
- - 👉 [Police break car window to rescue dog left inside on a hot day. Great job](http://9gag.com/gag/ary2YVy)<!-- MEMES:END -->
+ - 👉 [He looks concerned](http://9gag.com/gag/aRBOqYj)<!-- MEMES:END -->
 
 ---
 

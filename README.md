@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stockholm-based Tandem Health, which has developed an AI medical copilot for clinicians to record patient consultations, raised a $50M Series A led by Kinnevik &lpar;Maya Dharampal-Hornby/Sifted&rpar;](http://www.techmeme.com/250630/p8#a250630p8)
  - [Tel Aviv-based Cato Networks, whose tools help protect remote workforces, raised a $359M Series G at a $4.8B+ valuation, taking its total funding to $1B+ &lpar;James Rundle/Wall Street Journal&rpar;](http://www.techmeme.com/250630/p7#a250630p7)
  - [Home Office Setup Guide &lpar;2025&rpar;: Webcams, Desks, Chairs, and More](https://www.wired.com/story/work-from-home-home-office-gear-guide/)
  - [PitchBook: Australian startups raised $3.4B in 2024, down from 2021&#39;s $6.5B peak; 39% of early-stage capital in Australia came from overseas vs. 21% in the US &lpar;Benicia Tan/Bloomberg&rpar;](http://www.techmeme.com/250630/p6#a250630p6)
- - [13 Best French Presses &lpar;2025&rpar;: Plastic, Glass, Stainless Steel, Travel](https://www.wired.com/gallery/best-french-press/)
- - [Hundreds of Brother printer models have an unpatchable security flaw](https://www.theverge.com/news/694877/brother-printers-security-flaw-password-vulnerability)<!-- TECH:END -->
+ - [13 Best French Presses &lpar;2025&rpar;: Plastic, Glass, Stainless Steel, Travel](https://www.wired.com/gallery/best-french-press/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The government’s Apple antitrust lawsuit is still on](https://www.theverge.com/news/695350/apple-loses-dismissal-of-doj-antitrust-lawsuit)
  - [Apple rumored to be in talks with Anthropic and OpenAI about powering new Siri](https://appleinsider.com/articles/25/06/30/apple-rumored-to-be-in-talks-with-anthropic-and-openai-about-powering-new-siri?utm_medium=rss)
  - [X hires Nikita Bier, the serial entrepreneur who was behind polling startup TBH and teen-focused social network Gas, as its new head of product &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/250630/p28#a250630p28)
  - [Netflix teams up with NASA to show live rocket launches and spacewalks](https://www.theverge.com/news/695342/nasa-plus-netflix-partnership)
- - [A US judge denies Apple&#39;s motion to dismiss the DOJ antitrust lawsuit, filed in March 2024, accusing Apple of unlawfully dominating the US smartphone market &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/250630/p27#a250630p27)
- - [Mark Zuckerberg announces his AI ‘superintelligence’ super-group](https://www.theverge.com/news/695355/mark-zuckerberg-meta-ai-superintelligence-labs)<!-- TECH:END -->
+ - [A US judge denies Apple&#39;s motion to dismiss the DOJ antitrust lawsuit, filed in March 2024, accusing Apple of unlawfully dominating the US smartphone market &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/250630/p27#a250630p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

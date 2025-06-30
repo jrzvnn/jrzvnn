@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Calendar now has an Apple Watch app](https://www.theverge.com/news/695165/google-calendar-apple-watch-app-watchos)
  - [Experts raise concerns that Malta&#39;s expedited MiCA licensing process may lack sufficient enforcement and oversight; OKX received a MiCA license in four days &lpar;CoinDesk&rpar;](http://www.techmeme.com/250630/p20#a250630p20)
  - [MacBook with A18 Pro first appeared in macOS 15 code](https://appleinsider.com/articles/25/06/30/macbook-with-a18-pro-first-appeared-in-macos-15-code?utm_medium=rss)
- - [Apple tells EU to forget about getting all the new iOS 26 features](https://appleinsider.com/articles/25/06/30/apple-tells-eu-to-forget-about-getting-all-the-new-ios-26-features?utm_medium=rss)
- - [Tumblr’s move to WordPress and fediverse integration is ‘on hold’](https://www.theverge.com/news/695124/tumblr-wordpress-automattic-fediverse-integration-on-hold-decoder)
- - [The best fitness trackers and watches we’ve tested](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
+ - [How to Watch Inter Milan vs. Fluminense From Anywhere for Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-inter-milan-vs-fluminense-from-anywhere-for-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)
+ - [How and Where to Recycle Your Old Computers and Printers](https://www.cnet.com/tech/computing/how-and-where-to-recycle-your-old-computers-and-printers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

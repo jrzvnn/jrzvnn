@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mexico City-based digital bank Klar raised a $190M Series C led by General Atlantic, including $170M in equity and $20M in debt, valuing the company at $800M+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/250630/p30#a250630p30)
  - [The 36 Best Deals From REI&#39;s July 4 Outdoor Gear Sale &lpar;2025&rpar;](https://www.wired.com/story/rei-4th-of-july-sale-2025/)
  - [The Nintendo Switch 2 will be available in-store at Best Buy on July 1st](https://www.theverge.com/tech/695273/nintendo-switch-2-in-store-restock-best-buy)
  - [I tested a bunch of Switch 2 screen protectors, and these are the best](https://www.theverge.com/reviews/694948/best-switch-2-glass-screen-protector-glossy-matte)
- - [Apple faces AI talent turmoil as senior Siri researcher departs](https://appleinsider.com/articles/25/06/30/apple-faces-ai-talent-turmoil-as-senior-siri-researcher-departs?utm_medium=rss)
- - [The latest version of the Senate&#39;s OBBB has a provision removing the 6 GHz band&#39;s protection from spectrum auctions; Wi-Fi 6E and Wi-FI 7 utilize the 6 GHz band &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/250630/p29#a250630p29)<!-- TECH:END -->
+ - [Apple faces AI talent turmoil as senior Siri researcher departs](https://appleinsider.com/articles/25/06/30/apple-faces-ai-talent-turmoil-as-senior-siri-researcher-departs?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tumblr’s move to WordPress and fediverse integration is ‘on hold’](https://www.theverge.com/news/695124/tumblr-wordpress-automattic-fediverse-integration-on-hold-decoder)
+ - [The best fitness trackers and watches we’ve tested](https://www.theverge.com/22985108/best-fitness-tracker)
  - [Save $240 on Apple&#39;s M4 MacBook Pro with 24GB RAM, 1TB SSD in early Prime Day price war](https://appleinsider.com/articles/25/06/30/save-240-on-apples-m4-macbook-pro-with-24gb-ram-1tb-ssd-in-early-prime-day-price-war?utm_medium=rss)
- - [Will Mortgage Rates Drop in a Recession? This Realtor Has a Hot Take](https://www.cnet.com/personal-finance/mortgages/will-mortgage-rates-drop-in-a-recession-this-realtor-has-a-hot-take/#ftag=CAD590a51e)
  - [Apple Music marks 10 years of streaming with a new all-time Replay list](https://www.theverge.com/news/695058/apple-music-10th-anniversary-replay-all-time)
- - [Robinhood announces an expanded offering of tokenized US stocks across Europe, crypto staking in US, a Layer 2 blockchain for real-world asset settlement, more &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250630/p19#a250630p19)
- - [How Do Pimple Patches Work? Here’s Everything You Need to Know](https://www.wired.com/story/how-do-pimple-patches-work/)<!-- TECH:END -->
+ - [Robinhood announces an expanded offering of tokenized US stocks across Europe, crypto staking in US, a Layer 2 blockchain for real-world asset settlement, more &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250630/p19#a250630p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

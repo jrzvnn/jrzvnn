@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F&amp;*k you!!](http://9gag.com/gag/aMVOggP)
+ - 😝 [It&#39;s over fellow men... should we show our chocolate starfish too instead working 9 to 5?...](http://9gag.com/gag/a2vLB5D)
+ - 😝 [Never start a food fight with the pizza guy](http://9gag.com/gag/aKGOre6)
+ - 💣 [Moments before death](http://9gag.com/gag/a1mE9xw)
  - 😝 [Sundress season rules.](http://9gag.com/gag/aQzO0jd)
- - 💣 [Nobody expects the Spanish inquisition!](http://9gag.com/gag/a9yOo46)
- - 😝 [If its geh, all 9gaggers are geh](http://9gag.com/gag/aXPKDwg)
- - 👉 [Termites incredible defense system. Scary!](http://9gag.com/gag/a9yO9Ao)<!-- MEMES:END -->
+ - 👉 [Average Californian woman](http://9gag.com/gag/abAQNRL)<!-- MEMES:END -->
 
 ---
 

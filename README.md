@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gotta love the Ramones:](http://9gag.com/gag/avydNEn)
- - 😝 [The impact of killing off Glenn was significant for The Walking Dead viewership.](http://9gag.com/gag/ary2Q0d)
- - 💣 [Police break car window to rescue dog left inside on a hot day. Great job](http://9gag.com/gag/ary2YVy)
+ - 😝 [If its geh, all 9gaggers are geh](http://9gag.com/gag/aXPKDwg)
+ - 😝 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)
+ - 💣 [Gotta love the Ramones:](http://9gag.com/gag/avydNEn)
  - 😝 [6 people jump on car to escape pit bull but it doesn&#39;t give up](http://9gag.com/gag/a0eM2pB)
  - 👉 [He looks concerned](http://9gag.com/gag/aRBOqYj)<!-- MEMES:END -->
 

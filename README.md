@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [6 people jump on car to escape pit bull but it doesn&#39;t give up](http://9gag.com/gag/a0eM2pB)
- - 😝 [It&#39;s all about the ego of sending a message](http://9gag.com/gag/aVvVyNK)
- - 💣 [Police break car window to rescue dog left inside on a hot day. Great job](http://9gag.com/gag/ary2YVy)
- - 😝 [Guys.... the dwarf is chasing you..](http://9gag.com/gag/aRBO5w2)
- - 👉 [The impact of killing off Glenn was significant for The Walking Dead viewership.](http://9gag.com/gag/ary2Q0d)<!-- MEMES:END -->
+ - 😝 [Finally some senses.](http://9gag.com/gag/aW4DzV3)
+ - 😝 [Matching the energy on the road at night](http://9gag.com/gag/aMVOgGV)
+ - 💣 [Based minister](http://9gag.com/gag/ary2YD7)
+ - 😝 [What do you think](http://9gag.com/gag/aXPKBV2)
+ - 👉 [Filthy little hobbitses.](http://9gag.com/gag/aNDO783)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a memo, Mark Zuckerberg announces Meta Superintelligence Labs and 11 new hires; Nat Friedman &quot;will partner with Alexandr Wang&quot; to lead the new group &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/250630/p24#a250630p24)
- - [iOS 18.6, macOS 15.6, watchOS 11.6, tvOS 18.6 and visionOS 2.6 get second betas](https://appleinsider.com/articles/25/06/30/ios-186-macos-156-watchos-116-tvos-186-and-visionos-26-get-second-betas?utm_medium=rss)
- - [Pixelmator Pro gains better RAW images, Accessibility -- and Apple Intelligence](https://appleinsider.com/articles/25/06/30/pixelmator-pro-gains-better-raw-images-accessibility----and-apple-intelligence?utm_medium=rss)
- - [Google announces 30+ Gemini AI tools for educators, like &quot;Gems&quot; which help students on specific subjects, included with Google Workspace for Education accounts &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250630/p23#a250630p23)
- - [A look at the rise of $5B+ unicorns, which make up 13% of ~1,600 unicorns but hold $3.5T of $6T total valuation; 17 startups joined the $5B+ club in H1 2025 &lpar;Gené Teare/Crunchbase News&rpar;](http://www.techmeme.com/250630/p22#a250630p22)<!-- TECH:END -->
+ - [Here Is Everyone Mark Zuckerberg Has Hired So Far for Meta&#39;s ‘Superintelligence’ Team](https://www.wired.com/story/mark-zuckerberg-welcomes-superintelligence-team/)
+ - [Proton lawsuit targets Apple&#39;s grip on iPhone apps &amp; payments](https://appleinsider.com/articles/25/06/30/proton-lawsuit-targets-apples-grip-on-iphone-apps-payments?utm_medium=rss)
+ - [Date Everything will make you see your favorite household objects in a sexy new light](https://www.theverge.com/games/695123/date-everything-review-sassy-chap-games)
+ - [What&amp;#8217;s on your desk, Kallie Plagge?](https://www.theverge.com/tech/693207/home-office-desk-keychron-logitech-pikachu)
+ - [Insta360’s face-tracking Link 2 webcam is more affordable than ever](https://www.theverge.com/tech/695204/insta360-link-2-4k-webcam-amazon-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

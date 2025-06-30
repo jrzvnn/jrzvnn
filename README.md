@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If its geh, all 9gaggers are geh](http://9gag.com/gag/aXPKDwg)
- - 😝 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)
- - 💣 [Gotta love the Ramones:](http://9gag.com/gag/avydNEn)
+ - 😝 [Never start a food fight with the pizza guy](http://9gag.com/gag/aKGOre6)
+ - 😝 [Gotta love the Ramones:](http://9gag.com/gag/avydNEn)
+ - 💣 [Police break car window to rescue dog left inside on a hot day. Great job](http://9gag.com/gag/ary2YVy)
  - 😝 [6 people jump on car to escape pit bull but it doesn&#39;t give up](http://9gag.com/gag/a0eM2pB)
- - 👉 [He looks concerned](http://9gag.com/gag/aRBOqYj)<!-- MEMES:END -->
+ - 👉 [Average Californian woman](http://9gag.com/gag/abAQNRL)<!-- MEMES:END -->
 
 ---
 

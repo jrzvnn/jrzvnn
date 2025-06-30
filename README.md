@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)
- - 😝 [Hypocritical thinking](http://9gag.com/gag/aAyOWdR)
- - 💣 [Never start a food fight with the pizza guy](http://9gag.com/gag/aKGOre6)
- - 😝 [A reunion nobody expected](http://9gag.com/gag/azxY00B)
- - 👉 [Guys.... the dwarf is chasing you..](http://9gag.com/gag/aRBO5w2)<!-- MEMES:END -->
+ - 😝 [Termites incredible defense system. Scary!](http://9gag.com/gag/a9yO9Ao)
+ - 😝 [90s kids.](http://9gag.com/gag/aQzOwrr)
+ - 💣 [Peak male content](http://9gag.com/gag/aGyOWQK)
+ - 😝 [If its geh, all 9gaggers are geh](http://9gag.com/gag/aXPKDwg)
+ - 👉 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)<!-- MEMES:END -->
 
 ---
 

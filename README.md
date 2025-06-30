@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mexico City-based digital bank Klar raised a $190M Series C led by General Atlantic, including $170M in equity and $20M in debt, valuing the company at $800M+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/250630/p30#a250630p30)
- - [&#39;Buy Now, Pay Later&#39; Plans Will Start to Impact Your Credit Score Later This Year. Here&#39;s How](https://www.cnet.com/personal-finance/buy-now-pay-later-plans-will-start-to-impact-your-credit-score-later-this-year-heres-how/#ftag=CAD590a51e)
- - [The 36 Best Deals From REI&#39;s July 4 Outdoor Gear Sale &lpar;2025&rpar;](https://www.wired.com/story/rei-4th-of-july-sale-2025/)
- - [The Nintendo Switch 2 will be available in-store at Best Buy on July 1st](https://www.theverge.com/tech/695273/nintendo-switch-2-in-store-restock-best-buy)
- - [I tested a bunch of Switch 2 screen protectors, and these are the best](https://www.theverge.com/reviews/694948/best-switch-2-glass-screen-protector-glossy-matte)<!-- TECH:END -->
+ - [Apple loses bid to dismiss wide-ranging DOJ antitrust case](https://appleinsider.com/articles/25/06/30/apple-loses-bid-to-dismiss-wide-ranging-doj-antitrust-case?utm_medium=rss)
+ - [Canada-based Clio, which makes cloud tools for law firms, agrees to acquire vLex, which offers a legal and regulatory database and an AI assistant, for $1B &lpar;Alex Riehl/BetaKit&rpar;](http://www.techmeme.com/250630/p31#a250630p31)
+ - [New UPS text scam targets iPhone users with fake package redelivery info](https://appleinsider.com/articles/25/06/30/new-ups-text-scam-targets-iphone-users-with-fake-package-redelivery-info?utm_medium=rss)
+ - [Apple’s AI Siri might be powered by OpenAI](https://www.theverge.com/news/695461/apple-ai-siri-openai-chatgpt-powered)
+ - [Mexico City-based digital bank Klar raised a $190M Series C led by General Atlantic, including $170M in equity and $20M in debt, valuing the company at $800M+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/250630/p30#a250630p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

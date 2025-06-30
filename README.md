@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here Is Everyone Mark Zuckerberg Has Hired So Far for Meta&#39;s ‘Superintelligence’ Team](https://www.wired.com/story/mark-zuckerberg-welcomes-superintelligence-team/)
- - [Proton lawsuit targets Apple&#39;s grip on iPhone apps &amp; payments](https://appleinsider.com/articles/25/06/30/proton-lawsuit-targets-apples-grip-on-iphone-apps-payments?utm_medium=rss)
- - [Date Everything will make you see your favorite household objects in a sexy new light](https://www.theverge.com/games/695123/date-everything-review-sassy-chap-games)
- - [What&amp;#8217;s on your desk, Kallie Plagge?](https://www.theverge.com/tech/693207/home-office-desk-keychron-logitech-pikachu)
- - [Insta360’s face-tracking Link 2 webcam is more affordable than ever](https://www.theverge.com/tech/695204/insta360-link-2-4k-webcam-amazon-deal-sale)<!-- TECH:END -->
+ - [Jackery&amp;#8217;s capable, solar-powered generator is nearly half off](https://www.theverge.com/tech/695228/jackery-explorer-1000-tp-link-x75-router-deal-sale)
+ - [Microsoft Authenticator is ending support for passwords](https://www.theverge.com/news/695288/microsoft-authenticator-autofill-store-passwords)
+ - [Epic antisteering court order is &#39;constitutionally offensive&#39; to Apple&#39;s free speech rights](https://appleinsider.com/articles/25/06/30/epic-antisteering-court-order-is-constitutionally-offensive-to-apples-free-speech-rights?utm_medium=rss)
+ - [Here Is Everyone Mark Zuckerberg Has Hired So Far for Meta’s ‘Superintelligence’ Team](https://www.wired.com/story/mark-zuckerberg-welcomes-superintelligence-team/)
+ - [Proton lawsuit targets Apple&#39;s grip on iPhone apps &amp; payments](https://appleinsider.com/articles/25/06/30/proton-lawsuit-targets-apples-grip-on-iphone-apps-payments?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

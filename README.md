@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)
- - 😝 [A reunion nobody expected](http://9gag.com/gag/azxY00B)
- - 💣 [The impact of killing off Glenn was significant for The Walking Dead viewership.](http://9gag.com/gag/ary2Q0d)
- - 😝 [It&#39;s over fellow men... should we show our chocolate starfish too instead working 9 to 5?...](http://9gag.com/gag/a2vLB5D)
- - 👉 [Honest invisible dude](http://9gag.com/gag/a2vLnZe)<!-- MEMES:END -->
+ - 😝 [These guys sure enjoy their jobs](http://9gag.com/gag/ajPWb6R)
+ - 😝 [How to tame your dragon irl](http://9gag.com/gag/avydNY5)
+ - 💣 [It&#39;s over fellow men... should we show our chocolate starfish too instead working 9 to 5?...](http://9gag.com/gag/a2vLB5D)
+ - 😝 [Honest invisible dude](http://9gag.com/gag/a2vLnZe)
+ - 👉 [A reunion nobody expected](http://9gag.com/gag/azxY00B)<!-- MEMES:END -->
 
 ---
 

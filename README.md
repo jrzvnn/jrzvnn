@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Working as planned...Pun intended.](http://9gag.com/gag/aYQA3rm)
  - 😝 [Nope. why?](http://9gag.com/gag/aoyYQ7x)
+ - 💣 [He was acting so strange, then I realized why](http://9gag.com/gag/ayNYj4b)
  - 😝 [Shhh](http://9gag.com/gag/a5QqYOO)
- - 💣 [So we all cousins](http://9gag.com/gag/a7opYre)
- - 😝 [Thought y\u2019all might get a kick out of this one!](http://9gag.com/gag/aqyYP8v)
- - 👉 [Working as planned...Pun intended.](http://9gag.com/gag/aYQA3rm)<!-- MEMES:END -->
+ - 👉 [What happen inside your washing machine](http://9gag.com/gag/a2vL6L9)<!-- MEMES:END -->
 
 ---
 

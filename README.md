@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)
  - 😝 [Hypocritical thinking](http://9gag.com/gag/aAyOWdR)
- - 😝 [How to tame your dragon irl](http://9gag.com/gag/avydNY5)
  - 💣 [Never start a food fight with the pizza guy](http://9gag.com/gag/aKGOre6)
- - 😝 [Moments before death](http://9gag.com/gag/a1mE9xw)
- - 👉 [A reunion nobody expected](http://9gag.com/gag/azxY00B)<!-- MEMES:END -->
+ - 😝 [A reunion nobody expected](http://9gag.com/gag/azxY00B)
+ - 👉 [Guys.... the dwarf is chasing you..](http://9gag.com/gag/aRBO5w2)<!-- MEMES:END -->
 
 ---
 

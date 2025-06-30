@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PitchBook: Australian startups raised $3.4B in 2024, down from 2021&#39;s $6.5B peak; 39% of early-stage capital in Australia came from overseas vs. 21% in the US &lpar;Benicia Tan/Bloomberg&rpar;](http://www.techmeme.com/250630/p6#a250630p6)
+ - [13 Best French Presses &lpar;2025&rpar;: Plastic, Glass, Stainless Steel, Travel](https://www.wired.com/gallery/best-french-press/)
  - [Hundreds of Brother printer models have an unpatchable security flaw](https://www.theverge.com/news/694877/brother-printers-security-flaw-password-vulnerability)
  - [Apple plans low-cost MacBook based on iPhone processor](https://appleinsider.com/articles/25/06/30/apple-plans-low-cost-macbook-based-on-iphone-processor?utm_medium=rss)
- - [Spotify will let users personalize the genre of Discover Weekly playlists](https://www.theverge.com/tech/694212/spotify-discover-weekly-playlist-listening-controls-personalization-genres)
- - [The White House announces an AI Education Pledge with commitments from 60+ companies to provide AI education materials to K-12 students over the next four years &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/250630/p5#a250630p5)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 30, #484](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-30-484/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Spotify will let users personalize the genre of Discover Weekly playlists](https://www.theverge.com/tech/694212/spotify-discover-weekly-playlist-listening-controls-personalization-genres)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

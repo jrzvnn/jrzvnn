@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He was acting so strange, then I realized why](http://9gag.com/gag/ayNYj4b)
  - 😝 [You still performing tomorrow](http://9gag.com/gag/ae9782j)
- - 💣 [So we all cousins](http://9gag.com/gag/a7opYre)
- - 😝 [Working as planned...Pun intended.](http://9gag.com/gag/aYQA3rm)
- - 👉 [What happen inside your washing machine](http://9gag.com/gag/a2vL6L9)<!-- MEMES:END -->
+ - 😝 [He looks concerned](http://9gag.com/gag/aRBOqYj)
+ - 💣 [The look of disappointment on his face](http://9gag.com/gag/a7opRQx)
+ - 😝 [Thought y\u2019all might get a kick out of this one!](http://9gag.com/gag/aqyYP8v)
+ - 👉 [Would you blame him?](http://9gag.com/gag/aNDOEXv)<!-- MEMES:END -->
 
 ---
 

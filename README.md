@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [BOE wants to return to Apple&#39;s good graces with OLED factory expansion](https://appleinsider.com/articles/25/06/30/boe-wants-to-return-to-apples-good-graces-with-oled-factory-expansion?utm_medium=rss)
  - [My Friends Always Ask Me What MacBook to Buy. Here&#39;s What I Tell Them](https://www.wired.com/story/you-probably-dont-need-a-macbook-pro/)
  - [Why Automattic CEO Matt Mullenweg went to war over WordPress](https://www.theverge.com/decoder-podcast-with-nilay-patel/693052/automattic-ceo-matt-mullenweg-wordpress-drama-wp-engine-open-source)
  - [Google is opening its NotebookLM AI tools to students under 18](https://www.theverge.com/news/694917/google-classroom-gemini-ai-notebooklm-education-chromeos-updates)
- - [Apple Music&#39;s birthday specials include a 500 most-streamed songs countdown](https://appleinsider.com/articles/25/06/30/apple-musics-birthday-specials-include-a-500-most-streamed-songs-countdown?utm_medium=rss)
- - [Apple is reportedly working on a bunch of new XR devices](https://www.theverge.com/news/694953/apple-xr-devices-vision-pro-smart-glasses)<!-- TECH:END -->
+ - [Apple Music&#39;s birthday specials include a 500 most-streamed songs countdown](https://appleinsider.com/articles/25/06/30/apple-musics-birthday-specials-include-a-500-most-streamed-songs-countdown?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never start a food fight with the pizza guy](http://9gag.com/gag/aKGOre6)
- - 😝 [Gotta love the Ramones:](http://9gag.com/gag/avydNEn)
- - 💣 [Police break car window to rescue dog left inside on a hot day. Great job](http://9gag.com/gag/ary2YVy)
+ - 😝 [A reunion nobody expected](http://9gag.com/gag/azxY00B)
+ - 😝 [Police break car window to rescue dog left inside on a hot day. Great job](http://9gag.com/gag/ary2YVy)
+ - 💣 [Peak male content](http://9gag.com/gag/aGyOWQK)
  - 😝 [6 people jump on car to escape pit bull but it doesn&#39;t give up](http://9gag.com/gag/a0eM2pB)
- - 👉 [Average Californian woman](http://9gag.com/gag/abAQNRL)<!-- MEMES:END -->
+ - 👉 [Never start a food fight with the pizza guy](http://9gag.com/gag/aKGOre6)<!-- MEMES:END -->
 
 ---
 

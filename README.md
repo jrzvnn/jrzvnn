@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says its new AI tool diagnoses diseases with 80% accuracy vs. doctors&#39; 20%; Mustafa Suleyman calls it a &quot;step toward medical superintelligence&quot; &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250630/p14#a250630p14)
- - [Nomad MagSafe wallet, Hue price hikes, &amp; Brilliant comeback on HomeKit Insider](https://appleinsider.com/articles/25/06/30/nomad-magsafe-wallet-hue-price-hikes-brilliant-comeback-on-homekit-insider?utm_medium=rss)
- - [BOE wants to return to Apple&#39;s good graces with OLED factory expansion](https://appleinsider.com/articles/25/06/30/boe-wants-to-return-to-apples-good-graces-with-oled-factory-expansion?utm_medium=rss)
- - [My Friends Always Ask Me What MacBook to Buy. Here&#39;s What I Tell Them](https://www.wired.com/story/you-probably-dont-need-a-macbook-pro/)
- - [We Found the Best Facial Sunscreens of 2025 After Testing 87 Products](https://www.cnet.com/health/personal-care/best-sunscreen-for-face/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [SEC filing: Oracle signed multiple large cloud agreements, including one that is expected to contribute $30B+ in annual revenue starting in FY28; ORCL jumps 5%+ &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250630/p16#a250630p16)
+ - [Apple will delay rolling out some iOS 26 features in the EU later this year, including &quot;visited places&quot;, citing the difficulty of complying with the DMA &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/250630/p15#a250630p15)
+ - [Apple CarPlay Ultra hands-on: more continuity, less disruption](https://www.theverge.com/hands-on/694633/apple-carplay-ultra-hands-on-more-continuity-less-disruption)
+ - [Verizon denies 61 million customer records for sale online are legitimate](https://appleinsider.com/articles/25/06/30/verizon-denies-61-million-customer-records-for-sale-online-are-legitimate?utm_medium=rss)
+ - [Microsoft says its new AI tool diagnoses diseases with 80% accuracy vs. doctors&#39; 20%; Mustafa Suleyman calls it a &quot;step toward medical superintelligence&quot; &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250630/p14#a250630p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

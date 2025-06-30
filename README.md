@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guys.... the dwarf is chasing you..](http://9gag.com/gag/aRBO5w2)
- - 😝 [Never start a food fight with the pizza guy](http://9gag.com/gag/aKGOre6)
- - 💣 [Honest invisible dude](http://9gag.com/gag/a2vLnZe)
- - 😝 [Friends just being themselves](http://9gag.com/gag/aXPKDEz)
- - 👉 [Average Californian woman](http://9gag.com/gag/abAQNRL)<!-- MEMES:END -->
+ - 😝 [F&amp;*k you!!](http://9gag.com/gag/aMVOggP)
+ - 😝 [Sundress season rules.](http://9gag.com/gag/aQzO0jd)
+ - 💣 [Nobody expects the Spanish inquisition!](http://9gag.com/gag/a9yOo46)
+ - 😝 [If its geh, all 9gaggers are geh](http://9gag.com/gag/aXPKDwg)
+ - 👉 [Termites incredible defense system. Scary!](http://9gag.com/gag/a9yO9Ao)<!-- MEMES:END -->
 
 ---
 

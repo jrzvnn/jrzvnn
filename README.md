@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What happen inside your washing machine](http://9gag.com/gag/a2vL6L9)
- - 😝 [He looks concerned](http://9gag.com/gag/aRBOqYj)
- - 💣 [Would you blame him?](http://9gag.com/gag/aNDOEXv)
+ - 😝 [Gotta love the Ramones:](http://9gag.com/gag/avydNEn)
  - 😝 [Matching the energy on the road at night](http://9gag.com/gag/aMVOgGV)
+ - 💣 [The 30s plan is coming together](http://9gag.com/gag/a4PWOzA)
+ - 😝 [How to tame your dragon irl](http://9gag.com/gag/avydNY5)
  - 👉 [Working as planned...Pun intended.](http://9gag.com/gag/aYQA3rm)<!-- MEMES:END -->
 
 ---

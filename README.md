@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s take on smart glasses may finally start shipping in late 2027](https://appleinsider.com/articles/25/06/30/apples-take-on-smart-glasses-may-finally-start-shipping-in-late-2027?utm_medium=rss)
- - [Anker is recalling another five power banks over fire risks](https://www.theverge.com/news/694891/anker-power-bank-global-recall-fire-risk-battery)
- - [The 9 Best Dyson Vacuums &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-dyson-vacuums/)
- - [Apple Music&#39;s ten years, billions of dollars in fines, and one failure](https://appleinsider.com/articles/25/06/30/apple-musics-ten-years-billions-of-dollars-in-fines-and-one-failure?utm_medium=rss)
- - [LLMs are optimizing the adult industry](https://www.theverge.com/ai-artificial-intelligence/692286/ai-bots-llm-onlyfans)<!-- TECH:END -->
+ - [Lenovo Chromebook Plus 14 Review: A Game-Changer](https://www.wired.com/review/lenovo-chromebook-plus-14/)
+ - [Microsoft Says Its New AI System Diagnosed Patients 4 Times More Accurately Than Human Doctors](https://www.wired.com/story/microsoft-medical-superintelligence-diagnosis/)
+ - [Google bets on fusion power as its greenhouse gas emissions grow](https://www.theverge.com/news/694682/google-nuclear-fusion-deal-cfs)
+ - [Ryan Gosling is not an astronaut in Project Hail Mary&amp;#8217;s first trailer](https://www.theverge.com/news/694319/project-hail-mary-trailer-ryan-gosling-phil-lord-christopher-miller)
+ - [Source: Nintendo pulled its products from Amazon&#39;s US site after noticing third-party merchants were selling games in the US at prices below Nintendo&#39;s rates &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/250630/p11#a250630p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

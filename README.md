@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [These guys sure enjoy their jobs](http://9gag.com/gag/ajPWb6R)
  - 😝 [That&#39;s one way to get method acting results.](http://9gag.com/gag/aW4Dwv3)
- - 💣 [How to tame your dragon irl](http://9gag.com/gag/avydNY5)
- - 😝 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)
+ - 💣 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)
+ - 😝 [The cat is safe, the cabinet is not.](http://9gag.com/gag/a5QqmMN)
  - 👉 [A reunion nobody expected](http://9gag.com/gag/azxY00B)<!-- MEMES:END -->
 
 ---

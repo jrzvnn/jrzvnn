@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The government’s Apple antitrust lawsuit is still on](https://www.theverge.com/news/695350/apple-loses-dismissal-of-doj-antitrust-lawsuit)
- - [Apple rumored to be in talks with Anthropic and OpenAI about powering new Siri](https://appleinsider.com/articles/25/06/30/apple-rumored-to-be-in-talks-with-anthropic-and-openai-about-powering-new-siri?utm_medium=rss)
- - [X hires Nikita Bier, the serial entrepreneur who was behind polling startup TBH and teen-focused social network Gas, as its new head of product &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/250630/p28#a250630p28)
- - [Netflix teams up with NASA to show live rocket launches and spacewalks](https://www.theverge.com/news/695342/nasa-plus-netflix-partnership)
- - [A US judge denies Apple&#39;s motion to dismiss the DOJ antitrust lawsuit, filed in March 2024, accusing Apple of unlawfully dominating the US smartphone market &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/250630/p27#a250630p27)<!-- TECH:END -->
+ - [The 36 Best Deals From REI&#39;s July 4 Outdoor Gear Sale &lpar;2025&rpar;](https://www.wired.com/story/rei-4th-of-july-sale-2025/)
+ - [The Nintendo Switch 2 will be available in-store at Best Buy on July 1st](https://www.theverge.com/tech/695273/nintendo-switch-2-in-store-restock-best-buy)
+ - [I tested a bunch of Switch 2 screen protectors, and these are the best](https://www.theverge.com/reviews/694948/best-switch-2-glass-screen-protector-glossy-matte)
+ - [Apple faces AI talent turmoil as senior Siri researcher departs](https://appleinsider.com/articles/25/06/30/apple-faces-ai-talent-turmoil-as-senior-siri-researcher-departs?utm_medium=rss)
+ - [The latest version of the Senate&#39;s OBBB has a provision removing the 6 GHz band&#39;s protection from spectrum auctions; Wi-Fi 6E and Wi-FI 7 utilize the 6 GHz band &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/250630/p29#a250630p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

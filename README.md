@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple is reportedly working on a bunch of new XR devices](https://www.theverge.com/news/694953/apple-xr-devices-vision-pro-smart-glasses)
+ - [How to get Apple Music to show you your most-played songs of all time](https://appleinsider.com/inside/apple-music/tips/how-to-get-apple-music-to-show-you-your-most-played-songs-of-all-time?utm_medium=rss)
+ - [Europol says it has dismantled a crypto investment fraud ring in Spain that laundered €460M using a global network of accomplices, and five people were arrested &lpar;Sudip Kar-Gupta/Reuters&rpar;](http://www.techmeme.com/250630/p13#a250630p13)
  - [Apple celebrates 10 years of Apple Music with new studio for artists](https://appleinsider.com/articles/25/06/30/apple-celebrates-10-years-of-apple-music-with-new-studio-for-artists?utm_medium=rss)
- - [Tinder is mandating new users in California verify their profiles using facial recognition technology starting June 30 in a bid to reduce impersonation &lpar;Kerry Flynn/Axios&rpar;](http://www.techmeme.com/250630/p12#a250630p12)
- - [Lenovo Chromebook Plus 14 Review: A Game-Changer](https://www.wired.com/review/lenovo-chromebook-plus-14/)
- - [Microsoft Says Its New AI System Diagnosed Patients 4 Times More Accurately Than Human Doctors](https://www.wired.com/story/microsoft-medical-superintelligence-diagnosis/)
- - [Google bets on fusion power as its greenhouse gas emissions grow](https://www.theverge.com/news/694682/google-nuclear-fusion-deal-cfs)<!-- TECH:END -->
+ - [Tinder is mandating new users in California verify their profiles using facial recognition technology starting June 30 in a bid to reduce impersonation &lpar;Kerry Flynn/Axios&rpar;](http://www.techmeme.com/250630/p12#a250630p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

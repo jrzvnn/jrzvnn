@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AT&amp;#038;T says &amp;#8216;our network&amp;#8217; wasn&amp;#8217;t to blame for Trump&amp;#8217;s troubled conference call](https://www.theverge.com/news/695536/att-trump-network-conference-call)
  - [Levelpath, which provides AI-powered enterprise procurement services, raised a $55M Series B led by Battery Ventures, bringing its total funding to $100M &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250630/p35#a250630p35)
  - [Best Internet Providers in Orange, California](https://www.cnet.com/home/internet/best-internet-providers-in-orange-ca/#ftag=CAD590a51e)
  - [US chipmaker Wolfspeed files for Chapter 11 to enact a creditor-backed plan to slash $4.6B in debt; it expects to emerge out of bankruptcy by the end of Q3 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250630/p34#a250630p34)
- - [T-Mobile Is Bringing Starlink to Your Phone. Check If You’ll Get It For Free](https://www.cnet.com/tech/mobile/t-mobile-is-bringing-starlink-to-your-phone-check-if-youll-get-it-for-free/#ftag=CAD590a51e)
- - [Proton lawsuit targets Apple&#39;s grip on iPhone apps &amp; payments](https://appleinsider.com/articles/25/06/30/proton-lawsuit-targets-apples-grip-on-iphone-apps-payments?utm_medium=rss)<!-- TECH:END -->
+ - [T-Mobile Is Bringing Starlink to Your Phone. Check If You’ll Get It For Free](https://www.cnet.com/tech/mobile/t-mobile-is-bringing-starlink-to-your-phone-check-if-youll-get-it-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

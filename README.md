@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lens paralax, allowing us to see through objects](http://9gag.com/gag/agmEP5w)
- - 😝 [A stark reminder of the long fight for justice and the power of DNA evidence.](http://9gag.com/gag/ayNYjxW)
- - 💣 [Average Californian woman](http://9gag.com/gag/abAQNRL)
- - 😝 [What happen inside your washing machine](http://9gag.com/gag/a2vL6L9)
- - 👉 [That&#39;s a unique way to put it](http://9gag.com/gag/ae978Ob)<!-- MEMES:END -->
+ - 😝 [He was acting so strange, then I realized why](http://9gag.com/gag/ayNYj4b)
+ - 😝 [You still performing tomorrow](http://9gag.com/gag/ae9782j)
+ - 💣 [So we all cousins](http://9gag.com/gag/a7opYre)
+ - 😝 [Working as planned...Pun intended.](http://9gag.com/gag/aYQA3rm)
+ - 👉 [What happen inside your washing machine](http://9gag.com/gag/a2vL6L9)<!-- MEMES:END -->
 
 ---
 

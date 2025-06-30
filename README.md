@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just trying to help out in the snow](http://9gag.com/gag/aE0OLLe)
+ - 😝 [Peak male content](http://9gag.com/gag/aGyOWQK)
+ - 😝 [If its geh, all 9gaggers are geh](http://9gag.com/gag/aXPKDwg)
+ - 💣 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)
  - 😝 [How to tame your dragon irl](http://9gag.com/gag/avydNY5)
- - 💣 [Honest invisible dude](http://9gag.com/gag/a2vLnZe)
- - 😝 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)
- - 👉 [Sore loser](http://9gag.com/gag/a4PWv6v)<!-- MEMES:END -->
+ - 👉 [Making memories on the console.](http://9gag.com/gag/ae97vwv)<!-- MEMES:END -->
 
 ---
 

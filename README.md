@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US chipmaker Wolfspeed files for Chapter 11 to enact a creditor-backed plan to slash $4.6B in debt; it expects to emerge out of bankruptcy by the end of Q3 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250630/p34#a250630p34)
  - [Proton lawsuit targets Apple&#39;s grip on iPhone apps &amp; payments](https://appleinsider.com/articles/25/06/30/proton-lawsuit-targets-apples-grip-on-iphone-apps-payments?utm_medium=rss)
  - [Circle applies for a US national trust bank license, which would let it act as a custodian for its own reserves and hold crypto for its institutional clients &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/250630/p33#a250630p33)
  - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)
- - [The best foldable phone you can buy](https://www.theverge.com/tech/635839/best-foldable-phone)
- - [Rapid7 finds eight vulnerabilities, including one remotely-exploitable flaw that cannot be fixed via firmware patch, affecting 689 models of Brother printers &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250630/p32#a250630p32)<!-- TECH:END -->
+ - [The best foldable phone you can buy](https://www.theverge.com/tech/635839/best-foldable-phone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

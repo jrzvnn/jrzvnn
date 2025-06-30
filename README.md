@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lens paralax, allowing us to see through objects](http://9gag.com/gag/agmEP5w)
- - 😝 [Movie is `Split` by M. Night Ramalam Ding Dong](http://9gag.com/gag/aRBO535)
- - 💣 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)
- - 😝 [A reunion nobody expected](http://9gag.com/gag/azxY00B)
- - 👉 [Honest invisible dude](http://9gag.com/gag/a2vLnZe)<!-- MEMES:END -->
+ - 😝 [That&#39;s one way to get method acting results.](http://9gag.com/gag/aW4Dwv3)
+ - 😝 [Honest invisible dude](http://9gag.com/gag/a2vLnZe)
+ - 💣 [How to tame your dragon irl](http://9gag.com/gag/avydNY5)
+ - 😝 [Iranian woman waving their babies to show they are willing to sacrifies tham. this is a death cult](http://9gag.com/gag/aKGOrPQ)
+ - 👉 [A reunion nobody expected](http://9gag.com/gag/azxY00B)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An incredibly close encounter with a mother bear and her cubs on the beach](http://9gag.com/gag/aE0O30K)
- - 😝 [How to tame your dragon irl](http://9gag.com/gag/avydNY5)
- - 💣 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)
- - 😝 [Friends just being themselves](http://9gag.com/gag/aXPKDEz)
- - 👉 [Sundress season rules.](http://9gag.com/gag/aQzO0jd)<!-- MEMES:END -->
+ - 😝 [A reunion nobody expected](http://9gag.com/gag/azxY00B)
+ - 😝 [The cat is safe, the cabinet is not.](http://9gag.com/gag/a5QqmMN)
+ - 💣 [The impact of killing off Glenn was significant for The Walking Dead viewership.](http://9gag.com/gag/ary2Q0d)
+ - 😝 [Guys.... the dwarf is chasing you..](http://9gag.com/gag/aRBO5w2)
+ - 👉 [How to tame your dragon irl](http://9gag.com/gag/avydNY5)<!-- MEMES:END -->
 
 ---
 

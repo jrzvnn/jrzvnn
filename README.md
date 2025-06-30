@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The White House announces an AI Education Pledge with commitments from 60+ companies to provide AI education materials to K-12 students over the next four years &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/250630/p5#a250630p5)
  - [Kuo: Apple plans a cheaper MacBook powered by iPhone 16 Pro&#39;s A18 Pro chip and with a ~13&quot; display, expected to enter mass production in late 2025 or early 2026 &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/250630/p4#a250630p4)
  - [Jim Chanos, who famously shorted Enron, calls Michael Saylor&#39;s bitcoin strategy &quot;financial gibberish&quot;, as Saylor inspires several copycats like Trump Media &lpar;Peter Whoriskey/Washington Post&rpar;](http://www.techmeme.com/250630/p3#a250630p3)
  - [How India is carving out space for high-end manufacturing, including a $2.5B Foxconn iPhone factory in Devanahalli, near Bengaluru, aiming to create 40K jobs &lpar;New York Times&rpar;](http://www.techmeme.com/250630/p2#a250630p2)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, June 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-june-30/#ftag=CAD590a51e)
- - [Sensor Tower: Temu&#39;s US MAU fell 51% to 40.2M from March to June, while Shein&#39;s dropped 12% to 41.4M, amid the US&#39; China tariffs and &quot;de minimis&quot; closure &lpar;Financial Times&rpar;](http://www.techmeme.com/250630/p1#a250630p1)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, June 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-june-30/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

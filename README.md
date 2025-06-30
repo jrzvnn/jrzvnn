@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You still performing tomorrow](http://9gag.com/gag/ae9782j)
- - 😝 [It&#39;s all about the ego of sending a message](http://9gag.com/gag/aVvVyNK)
- - 💣 [Average Californian woman](http://9gag.com/gag/abAQNRL)
- - 😝 [The impact of killing off Glenn was significant for The Walking Dead viewership.](http://9gag.com/gag/ary2Q0d)
- - 👉 [How to tame your dragon irl](http://9gag.com/gag/avydNY5)<!-- MEMES:END -->
+ - 😝 [Gotta love the Ramones:](http://9gag.com/gag/avydNEn)
+ - 😝 [Working as planned...Pun intended.](http://9gag.com/gag/aYQA3rm)
+ - 💣 [Police break car window to rescue dog left inside on a hot day. Great job](http://9gag.com/gag/ary2YVy)
+ - 😝 [How to tame your dragon irl](http://9gag.com/gag/avydNY5)
+ - 👉 [Matching the energy on the road at night](http://9gag.com/gag/aMVOgGV)<!-- MEMES:END -->
 
 ---
 

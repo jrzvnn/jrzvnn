@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hundreds of Brother printer models have an unpatchable security flaw](https://www.theverge.com/news/694877/brother-printers-security-flaw-password-vulnerability)
+ - [Apple plans low-cost MacBook based on iPhone processor](https://appleinsider.com/articles/25/06/30/apple-plans-low-cost-macbook-based-on-iphone-processor?utm_medium=rss)
  - [Spotify will let users personalize the genre of Discover Weekly playlists](https://www.theverge.com/tech/694212/spotify-discover-weekly-playlist-listening-controls-personalization-genres)
  - [The White House announces an AI Education Pledge with commitments from 60+ companies to provide AI education materials to K-12 students over the next four years &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/250630/p5#a250630p5)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 30, #484](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-30-484/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for June 30, #280](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-june-30-280/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for June 30, #750](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-30-750/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 30, #484](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-30-484/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

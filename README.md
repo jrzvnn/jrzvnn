@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Working as planned...Pun intended.](http://9gag.com/gag/aYQA3rm)
  - 😝 [Police break car window to rescue dog left inside on a hot day. Great job](http://9gag.com/gag/ary2YVy)
- - 😝 [Peak male content](http://9gag.com/gag/aGyOWQK)
  - 💣 [Thought y\u2019all might get a kick out of this one!](http://9gag.com/gag/aqyYP8v)
  - 😝 [A reunion nobody expected](http://9gag.com/gag/azxY00B)
  - 👉 [6 people jump on car to escape pit bull but it doesn&#39;t give up](http://9gag.com/gag/a0eM2pB)<!-- MEMES:END -->

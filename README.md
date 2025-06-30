@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro with M5 may arrive before the end of 2025](https://appleinsider.com/articles/25/06/30/apple-vision-pro-with-m5-may-arrive-before-the-end-of-2025?utm_medium=rss)
- - [Stockholm-based Tandem Health, which has developed an AI medical copilot for clinicians to record patient consultations, raised a $50M Series A led by Kinnevik &lpar;Maya Dharampal-Hornby/Sifted&rpar;](http://www.techmeme.com/250630/p8#a250630p8)
- - [25 Best Wireless Chargers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-wireless-chargers/)
- - [Tel Aviv-based Cato Networks, whose tools help protect remote workforces, raised a $359M Series G at a $4.8B+ valuation, taking its total funding to $1B+ &lpar;James Rundle/Wall Street Journal&rpar;](http://www.techmeme.com/250630/p7#a250630p7)
- - [Home Office Setup Guide &lpar;2025&rpar;: Webcams, Desks, Chairs, and More](https://www.wired.com/story/work-from-home-home-office-gear-guide/)<!-- TECH:END -->
+ - [Apple&#39;s take on smart glasses may finally start shipping in late 2027](https://appleinsider.com/articles/25/06/30/apples-take-on-smart-glasses-may-finally-start-shipping-in-late-2027?utm_medium=rss)
+ - [Anker is recalling another five power banks over fire risks](https://www.theverge.com/news/694891/anker-power-bank-global-recall-fire-risk-battery)
+ - [The 9 Best Dyson Vacuums &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-dyson-vacuums/)
+ - [Apple Music&#39;s ten years, billions of dollars in fines, and one failure](https://appleinsider.com/articles/25/06/30/apple-musics-ten-years-billions-of-dollars-in-fines-and-one-failure?utm_medium=rss)
+ - [LLMs are optimizing the adult industry](https://www.theverge.com/ai-artificial-intelligence/692286/ai-bots-llm-onlyfans)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

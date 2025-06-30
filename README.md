@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [These guys sure enjoy their jobs](http://9gag.com/gag/ajPWb6R)
- - 😝 [That&#39;s one way to get method acting results.](http://9gag.com/gag/aW4Dwv3)
+ - 😝 [An incredibly close encounter with a mother bear and her cubs on the beach](http://9gag.com/gag/aE0O30K)
+ - 😝 [How to tame your dragon irl](http://9gag.com/gag/avydNY5)
  - 💣 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)
- - 😝 [The cat is safe, the cabinet is not.](http://9gag.com/gag/a5QqmMN)
- - 👉 [A reunion nobody expected](http://9gag.com/gag/azxY00B)<!-- MEMES:END -->
+ - 😝 [Friends just being themselves](http://9gag.com/gag/aXPKDEz)
+ - 👉 [Sundress season rules.](http://9gag.com/gag/aQzO0jd)<!-- MEMES:END -->
 
 ---
 

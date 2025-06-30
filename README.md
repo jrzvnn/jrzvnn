@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple celebrates 10 years of Apple Music with new studio for artists](https://appleinsider.com/articles/25/06/30/apple-celebrates-10-years-of-apple-music-with-new-studio-for-artists?utm_medium=rss)
+ - [Tinder is mandating new users in California verify their profiles using facial recognition technology starting June 30 in a bid to reduce impersonation &lpar;Kerry Flynn/Axios&rpar;](http://www.techmeme.com/250630/p12#a250630p12)
  - [Lenovo Chromebook Plus 14 Review: A Game-Changer](https://www.wired.com/review/lenovo-chromebook-plus-14/)
  - [Microsoft Says Its New AI System Diagnosed Patients 4 Times More Accurately Than Human Doctors](https://www.wired.com/story/microsoft-medical-superintelligence-diagnosis/)
- - [Google bets on fusion power as its greenhouse gas emissions grow](https://www.theverge.com/news/694682/google-nuclear-fusion-deal-cfs)
- - [Ryan Gosling is not an astronaut in Project Hail Mary&amp;#8217;s first trailer](https://www.theverge.com/news/694319/project-hail-mary-trailer-ryan-gosling-phil-lord-christopher-miller)
- - [Source: Nintendo pulled its products from Amazon&#39;s US site after noticing third-party merchants were selling games in the US at prices below Nintendo&#39;s rates &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/250630/p11#a250630p11)<!-- TECH:END -->
+ - [Google bets on fusion power as its greenhouse gas emissions grow](https://www.theverge.com/news/694682/google-nuclear-fusion-deal-cfs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

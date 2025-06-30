@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X hires Nikita Bier, the serial entrepreneur who was behind polling startup TBH and teen-focused social network Gas, as its new head of product &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/250630/p28#a250630p28)
+ - [Apple rumored to be in talks with Anthropic and OpenAI about powering new Siri](https://appleinsider.com/articles/25/06/30/apple-rumored-to-be-in-talks-with-anthropic-and-openai-about-powering-new-siri?utm_medium=rss)
+ - [Netflix teams up with NASA to show live rocket launches and spacewalks](https://www.theverge.com/news/695342/nasa-plus-netflix-partnership)
  - [A US judge denies Apple&#39;s motion to dismiss the DOJ antitrust lawsuit, filed in March 2024, accusing Apple of unlawfully dominating the US smartphone market &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/250630/p27#a250630p27)
- - [Mark Zuckerberg announces his AI ‘superintelligence’ super-group](https://www.theverge.com/news/695355/mark-zuckerberg-meta-ai-superintelligence-labs)
- - [Unpacking Our Conversation With a Former DOGE Staffer](https://www.wired.com/story/uncanny-valley-podcast-unpacking-our-conversation-with-a-former-doge-staffer/)
- - [Sources: Mike Rockwell and Craig Federighi have led efforts to assess external models to power Siri; after testing, Anthropic&#39;s tech seemed most promising &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250630/p26#a250630p26)
- - [The US takes down a North Korean operation that, from 2021 to 2024, impersonated 80+ people to get remote jobs at 100+ US firms, using &quot;laptop farms&quot; in the US &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250630/p25#a250630p25)<!-- TECH:END -->
+ - [Mark Zuckerberg announces his AI ‘superintelligence’ super-group](https://www.theverge.com/news/695355/mark-zuckerberg-meta-ai-superintelligence-labs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

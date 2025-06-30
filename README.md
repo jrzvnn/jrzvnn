@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China&#39;s tech giants are ramping up M&amp;A and investment deals as the government shifts its stance to support the tech industry, particularly in areas like AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250629/p24#a250629p24)
  - [Spinwheel, which helps fintech companies and banks authenticate users, automate data retrieval, and facilitate payments, raised a $30M Series A led by F-Prime &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250629/p23#a250629p23)
  - [Kuo expects Apple to mass produce a Vision Pro with M5 in Q3 2025, a Vision Air in Q3 2027, a Vision Pro with a new design and XR glasses in H2 2028, and more &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/250629/p22#a250629p22)
  - [Early Prime Day iPad deals roll in, offering prices as low as $299](https://appleinsider.com/articles/25/06/29/early-prime-day-ipad-deals-roll-in-offering-prices-as-low-as-299?utm_medium=rss)
- - [Sources: Menlo Ventures targets ~$1.5B for new funds to invest in AI ventures, including $650M for early-stage startups, and $850M for later-stage companies &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/250629/p21#a250629p21)
- - [Winnipeg-based Conquest Planning, which uses AI to help financial advisors and other clients make decisions, raised an $80M Series B led by Goldman Sachs &lpar;Jon Fingas/BetaKit&rpar;](http://www.techmeme.com/250629/p20#a250629p20)<!-- TECH:END -->
+ - [Sources: Menlo Ventures targets ~$1.5B for new funds to invest in AI ventures, including $650M for early-stage startups, and $850M for later-stage companies &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/250629/p21#a250629p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

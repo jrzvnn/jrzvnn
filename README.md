@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [These guys sure enjoy their jobs](http://9gag.com/gag/ajPWb6R)
- - 😝 [How to tame your dragon irl](http://9gag.com/gag/avydNY5)
- - 💣 [It&#39;s over fellow men... should we show our chocolate starfish too instead working 9 to 5?...](http://9gag.com/gag/a2vLB5D)
- - 😝 [Honest invisible dude](http://9gag.com/gag/a2vLnZe)
+ - 😝 [You mean Kojima won’t play hit character Kojima anymore 🥺](https://www.reddit.com/r/funny/comments/1loiiji/you_mean_kojima_wont_play_hit_character_kojima/)
+ - 😝 [Lens paralax, allowing us to see through objects](http://9gag.com/gag/agmEP5w)
+ - 💣 [Movie is `Split` by M. Night Ramalam Ding Dong](http://9gag.com/gag/aRBO535)
+ - 😝 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)
  - 👉 [A reunion nobody expected](http://9gag.com/gag/azxY00B)<!-- MEMES:END -->
 
 ---

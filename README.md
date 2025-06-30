@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How India is carving out space for high-end manufacturing, including a $2.5B Foxconn iPhone factory in Devanahalli, near Bengaluru, aiming to create 40K jobs &lpar;New York Times&rpar;](http://www.techmeme.com/250630/p2#a250630p2)
  - [Sensor Tower: Temu&#39;s US MAU fell 51% to 40.2M from March to June, while Shein&#39;s dropped 12% to 41.4M, amid the US&#39; China tariffs and &quot;de minimis&quot; closure &lpar;Financial Times&rpar;](http://www.techmeme.com/250630/p1#a250630p1)
  - [GOP Senators agree to change a provision in the tax bill from a 10-year ban on state AI regulation to a 5-year ban with carve outs for issues such as copyrights &lpar;Bloomberg&rpar;](http://www.techmeme.com/250629/p28#a250629p28)
  - [Sources: the US DHS, in partnership with DOGE, has built the first-ever searchable national citizenship data system, pulling from SSA and immigration databases &lpar;NPR&rpar;](http://www.techmeme.com/250629/p27#a250629p27)
- - [Canada rescinds its Digital Services Tax &quot;in anticipation of&quot; a trade deal with the US, with trade talks resuming; the tax was set to go into effect on Monday &lpar;Associated Press&rpar;](http://www.techmeme.com/250629/p26#a250629p26)
- - [A profile of OnlyFans&#39; secretive founder Leo Radvinsky, as the platform&#39;s parent company is considering a sale for as much as $8B, according to sources &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250629/p25#a250629p25)<!-- TECH:END -->
+ - [Canada rescinds its Digital Services Tax &quot;in anticipation of&quot; a trade deal with the US, with trade talks resuming; the tax was set to go into effect on Monday &lpar;Associated Press&rpar;](http://www.techmeme.com/250629/p26#a250629p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

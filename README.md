@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Average Californian woman](http://9gag.com/gag/abAQNRL)
+ - 😝 [Just trying to help out in the snow](http://9gag.com/gag/aE0OLLe)
  - 😝 [How to tame your dragon irl](http://9gag.com/gag/avydNY5)
- - 💣 [A reunion nobody expected](http://9gag.com/gag/azxY00B)
+ - 💣 [Honest invisible dude](http://9gag.com/gag/a2vLnZe)
  - 😝 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)
- - 👉 [Honest invisible dude](http://9gag.com/gag/a2vLnZe)<!-- MEMES:END -->
+ - 👉 [Sore loser](http://9gag.com/gag/a4PWv6v)<!-- MEMES:END -->
 
 ---
 

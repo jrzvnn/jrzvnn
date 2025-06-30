@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google announces 30+ Gemini AI tools for educators, like &quot;Gems&quot; which help students on specific subjects, included with Google Workspace for Education accounts &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250630/p23#a250630p23)
+ - [A look at the rise of $5B+ unicorns, which make up 13% of ~1,600 unicorns but hold $3.5T of $6T total valuation; 17 startups joined the $5B+ club in H1 2025 &lpar;Gené Teare/Crunchbase News&rpar;](http://www.techmeme.com/250630/p22#a250630p22)
+ - [Campfire, which offers AI-powered ERP and accounting services, raised a $35M Series A led by Accel &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250630/p21#a250630p21)
  - [Google Calendar now has an Apple Watch app](https://www.theverge.com/news/695165/google-calendar-apple-watch-app-watchos)
- - [Experts raise concerns that Malta&#39;s expedited MiCA licensing process may lack sufficient enforcement and oversight; OKX received a MiCA license in four days &lpar;CoinDesk&rpar;](http://www.techmeme.com/250630/p20#a250630p20)
- - [MacBook with A18 Pro first appeared in macOS 15 code](https://appleinsider.com/articles/25/06/30/macbook-with-a18-pro-first-appeared-in-macos-15-code?utm_medium=rss)
- - [How to Watch Inter Milan vs. Fluminense From Anywhere for Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-inter-milan-vs-fluminense-from-anywhere-for-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)
- - [How and Where to Recycle Your Old Computers and Printers](https://www.cnet.com/tech/computing/how-and-where-to-recycle-your-old-computers-and-printers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Experts raise concerns that Malta&#39;s expedited MiCA licensing process may lack sufficient enforcement and oversight; OKX received a MiCA license in four days &lpar;CoinDesk&rpar;](http://www.techmeme.com/250630/p20#a250630p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

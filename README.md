@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finally some senses.](http://9gag.com/gag/aW4DzV3)
- - 😝 [Matching the energy on the road at night](http://9gag.com/gag/aMVOgGV)
- - 💣 [Based minister](http://9gag.com/gag/ary2YD7)
- - 😝 [What do you think](http://9gag.com/gag/aXPKBV2)
- - 👉 [Filthy little hobbitses.](http://9gag.com/gag/aNDO783)<!-- MEMES:END -->
+ - 😝 [An incredibly close encounter with a mother bear and her cubs on the beach](http://9gag.com/gag/aE0O30K)
+ - 😝 [Thought y\u2019all might get a kick out of this one!](http://9gag.com/gag/aqyYP8v)
+ - 💣 [Peak male content](http://9gag.com/gag/aGyOWQK)
+ - 😝 [6 people jump on car to escape pit bull but it doesn&#39;t give up](http://9gag.com/gag/a0eM2pB)
+ - 👉 [Police break car window to rescue dog left inside on a hot day. Great job](http://9gag.com/gag/ary2YVy)<!-- MEMES:END -->
 
 ---
 

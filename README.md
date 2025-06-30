@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Proton lawsuit targets Apple&#39;s grip on iPhone apps &amp; payments](https://appleinsider.com/articles/25/06/30/proton-lawsuit-targets-apples-grip-on-iphone-apps-payments?utm_medium=rss)
+ - [Circle applies for a US national trust bank license, which would let it act as a custodian for its own reserves and hold crypto for its institutional clients &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/250630/p33#a250630p33)
  - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)
  - [The best foldable phone you can buy](https://www.theverge.com/tech/635839/best-foldable-phone)
- - [Rapid7 finds eight vulnerabilities, including one remotely-exploitable flaw that cannot be fixed via firmware patch, affecting 689 models of Brother printers &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250630/p32#a250630p32)
- - [Apple loses bid to dismiss wide-ranging DOJ antitrust case](https://appleinsider.com/articles/25/06/30/apple-loses-bid-to-dismiss-wide-ranging-doj-antitrust-case?utm_medium=rss)
- - [Canada-based Clio, which makes cloud tools for law firms, agrees to acquire vLex, which offers a legal and regulatory database and an AI assistant, for $1B &lpar;Alex Riehl/BetaKit&rpar;](http://www.techmeme.com/250630/p31#a250630p31)<!-- TECH:END -->
+ - [Rapid7 finds eight vulnerabilities, including one remotely-exploitable flaw that cannot be fixed via firmware patch, affecting 689 models of Brother printers &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250630/p32#a250630p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

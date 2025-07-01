@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Never start a food fight with the pizza guy](http://9gag.com/gag/aKGOre6)
+ - 😝 [An incredibly close encounter with a mother bear and her cubs on the beach](http://9gag.com/gag/aE0O30K)
+ - 💣 [These guys sure enjoy their jobs](http://9gag.com/gag/ajPWb6R)
  - 😝 [That&#39;s one way to get method acting results.](http://9gag.com/gag/aW4Dwv3)
- - 😝 [Sundress season rules.](http://9gag.com/gag/aQzO0jd)
- - 💣 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)
- - 😝 [When you wanted equal treatment](http://9gag.com/gag/aNDOxzG)
- - 👉 [The cat is safe, the cabinet is not.](http://9gag.com/gag/a5QqmMN)<!-- MEMES:END -->
+ - 👉 [Friends just being themselves](http://9gag.com/gag/aXPKDEz)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s one way to get method acting results.](http://9gag.com/gag/aW4Dwv3)
- - 😝 [Live from Belgrade](http://9gag.com/gag/a7op4qb)
- - 💣 [How to tame your dragon irl](http://9gag.com/gag/avydNY5)
- - 😝 [The cat is safe, the cabinet is not.](http://9gag.com/gag/a5QqmMN)
+ - 😝 [Wait, is that what&#39;s happening?](http://9gag.com/gag/ary81vp)
+ - 😝 [Not all heroes wear capes.](http://9gag.com/gag/apRYeEM)
+ - 💣 [Real friends](http://9gag.com/gag/aLndYmg)
+ - 😝 [What in the cotton-picking heII](http://9gag.com/gag/aAyOW9g)
  - 👉 [Back in 2008, Facebook used to look like this.](http://9gag.com/gag/aBy49Y1)<!-- MEMES:END -->
 
 ---

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait, is that what&#39;s happening?](http://9gag.com/gag/ary81vp)
- - 😝 [Not all heroes wear capes.](http://9gag.com/gag/apRYeEM)
- - 💣 [Real friends](http://9gag.com/gag/aLndYmg)
- - 😝 [What in the cotton-picking heII](http://9gag.com/gag/aAyOW9g)
+ - 😝 [The ongoing debate about tipping culture and fair wages in the service industry.](http://9gag.com/gag/apRVKBb)
+ - 😝 [HIGHLIGHTS: Luzern Under-15 boys beat Switzerland women&#39;s national team 7-1. \ud83e\udd2f \ud83c\udde8\ud83c\udded](http://9gag.com/gag/a87KrXZ)
+ - 💣 [Jeff Bezos wedding in Venice, Italy](http://9gag.com/gag/a2vLBrp)
+ - 😝 [A legendary final meal](http://9gag.com/gag/aRBO5jy)
  - 👉 [Back in 2008, Facebook used to look like this.](http://9gag.com/gag/aBy49Y1)<!-- MEMES:END -->
 
 ---

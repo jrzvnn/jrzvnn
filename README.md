@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The surprisingly small contact point between a train wheel and the rail.](http://9gag.com/gag/aW4DVr6)
- - 😝 [He sustained a serious injury. But now he qualifies for the Super Paralympics!](http://9gag.com/gag/amopE7j)
- - 💣 [Poor girl lol](http://9gag.com/gag/a1mEz28)
  - 😝 [Kids toys used to be absolutely wild, can you imagine this today?](http://9gag.com/gag/agmERD1)
+ - 😝 [Bad scientist doing bad science](http://9gag.com/gag/aqyY3wp)
+ - 💣 [Not all heroes wear capes.](http://9gag.com/gag/apRYeEM)
+ - 😝 [The surprisingly small contact point between a train wheel and the rail.](http://9gag.com/gag/aW4DVr6)
  - 👉 [Back in 2008, Facebook used to look like this.](http://9gag.com/gag/aBy49Y1)<!-- MEMES:END -->
 
 ---

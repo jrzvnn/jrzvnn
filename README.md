@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [How to tame your dragon irl](http://9gag.com/gag/avydNY5)
- - 😝 [The cat is safe, the cabinet is not.](http://9gag.com/gag/a5QqmMN)
- - 💣 [Honest invisible dude](http://9gag.com/gag/a2vLnZe)
- - 😝 [First date with a plus one security detail](http://9gag.com/gag/ayNYy1Y)
+ - 😝 [Jeff Bezos wedding in Venice, Italy](http://9gag.com/gag/a2vLBrp)
+ - 💣 [Live from Belgrade](http://9gag.com/gag/a7op4qb)
+ - 😝 [A legendary final meal](http://9gag.com/gag/aRBO5jy)
  - 👉 [Back in 2008, Facebook used to look like this.](http://9gag.com/gag/aBy49Y1)<!-- MEMES:END -->
 
 ---

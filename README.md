@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A legendary final meal](http://9gag.com/gag/aRBO5jy)
- - 😝 [It&#39;s over fellow men... should we show our chocolate starfish too instead working 9 to 5?...](http://9gag.com/gag/a2vLB5D)
- - 💣 [Hypocritical thinking](http://9gag.com/gag/aAyOWdR)
+ - 😝 [Live from Belgrade](http://9gag.com/gag/a7op4qb)
+ - 😝 [These guys sure enjoy their jobs](http://9gag.com/gag/ajPWb6R)
+ - 💣 [The cat is safe, the cabinet is not.](http://9gag.com/gag/a5QqmMN)
  - 😝 [Back in 2008, Facebook used to look like this.](http://9gag.com/gag/aBy49Y1)
- - 👉 [Sundress season rules.](http://9gag.com/gag/aQzO0jd)<!-- MEMES:END -->
+ - 👉 [A reunion nobody expected](http://9gag.com/gag/azxY00B)<!-- MEMES:END -->
 
 ---
 

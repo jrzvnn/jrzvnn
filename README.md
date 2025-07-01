@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Maybe stick to regular basketball for now](http://9gag.com/gag/an7rLAo)
- - 😝 [Guys.... the dwarf is chasing you..](http://9gag.com/gag/aRBO5w2)
- - 💣 [Good](http://9gag.com/gag/a6ZjWpA)
  - 😝 [Honest invisible dude](http://9gag.com/gag/a2vLnZe)
+ - 💣 [Fastball with dirt](http://9gag.com/gag/aGyOP0w)
+ - 😝 [The surprisingly small contact point between a train wheel and the rail.](http://9gag.com/gag/aW4DVr6)
  - 👉 [Back in 2008, Facebook used to look like this.](http://9gag.com/gag/aBy49Y1)<!-- MEMES:END -->
 
 ---

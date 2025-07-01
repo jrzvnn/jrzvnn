@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kids toys used to be absolutely wild, can you imagine this today?](http://9gag.com/gag/agmERD1)
+ - 😝 [Fellow horse herder...](http://9gag.com/gag/aRBR6Xq)
  - 😝 [The cat is safe, the cabinet is not.](http://9gag.com/gag/a5QqmMN)
- - 💣 [Poor girl lol](http://9gag.com/gag/a1mEz28)
- - 😝 [The surprisingly small contact point between a train wheel and the rail.](http://9gag.com/gag/aW4DVr6)
+ - 💣 [Live from Belgrade](http://9gag.com/gag/a7op4qb)
+ - 😝 [A reunion nobody expected](http://9gag.com/gag/azxY00B)
  - 👉 [Back in 2008, Facebook used to look like this.](http://9gag.com/gag/aBy49Y1)<!-- MEMES:END -->
 
 ---

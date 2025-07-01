@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple satellite texting saves injured climber on Colorado peak](https://appleinsider.com/articles/25/07/01/apple-satellite-texting-saves-injured-climber-on-colorado-peak?utm_medium=rss)
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
+ - [The 37 Best Shows on Apple TV+ Right Now &lpar;June 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
  - [Grammarly wants to become an ‘AI productivity platform’](https://www.theverge.com/news/696056/grammarly-acquires-superhuman-email-app-ai-platform)
- - [Sonos is offering a refurbished Era 100 for just $119](https://www.theverge.com/tech/696045/sonos-era-100-refurbished-google-pixel-fold-deal-sale)
- - [Here’s What Mark Zuckerberg Is Offering Top AI Talent](https://www.wired.com/story/mark-zuckerberg-meta-offer-top-ai-talent-300-million/)
- - [Sources: Anthropic&#39;s revenue hit a pace of $4B/year, up almost 4x from the beginning of 2025; Cursor maker Anysphere has poached two of Claude Code&#39;s leaders &lpar;The Information&rpar;](http://www.techmeme.com/250701/p20#a250701p20)
- - [The MLS Season Pass is 50 percent off ahead of the All-Star game and Leagues Cup](https://www.theverge.com/tech/696026/mls-season-pass-apple-tv-plus-all-star-game-league-cup-deal-sale)<!-- TECH:END -->
+ - [Sonos is offering a refurbished Era 100 for just $119](https://www.theverge.com/tech/696045/sonos-era-100-refurbished-google-pixel-fold-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

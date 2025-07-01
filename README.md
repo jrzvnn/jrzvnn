@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: data labeling company Surge AI aims to raise up to $1B, targeting a valuation of $15B; Surge AI had $1B+ in 2024 revenue, vs. Scale AI&#39;s reported $870M &lpar;Reuters&rpar;](http://www.techmeme.com/250701/p15#a250701p15)
+ - [Sources: data labeling company Surge AI aims to raise up to $1B, targeting a $15B+ valuation; Surge AI had $1B+ in 2024 revenue, vs. Scale AI&#39;s reported $870M &lpar;Reuters&rpar;](http://www.techmeme.com/250701/p15#a250701p15)
  - [Trump says he’ll look into deporting Elon as fight over bill escalates](https://www.theverge.com/news/695703/trump-elon-musk-deport-threat-doge-subsidies-spending-bill)
- - [CoinMarketCap: bitcoin&#39;s share of crypto market value grew to 64% this year, highest since January 2021, and altcoins lost $300B+, as big investors flock to BTC &lpar;Bloomberg&rpar;](http://www.techmeme.com/250701/p14#a250701p14)
+ - [CoinMarketCap: bitcoin&#39;s share of crypto market value grew to 64% in 2025, the highest since January 2021, and altcoins lost $300B+, as investors buy BTC ETFs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250701/p14#a250701p14)
  - [Anker extends recall to five more Power Banks worldwide](https://appleinsider.com/articles/25/07/01/anker-extends-recall-to-five-more-power-banks-worldwide?utm_medium=rss)
- - [American Bitcoin, a bitcoin mining and holding company backed by Eric Trump and Donald Trump Jr. and a subsidiary of publicly-traded Hut 8, raised $220M &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250701/p13#a250701p13)<!-- TECH:END -->
+ - [American Bitcoin, a bitcoin mining and holding company backed by Eric Trump and Donald Trump Jr. that is a subsidiary of publicly traded Hut 8, raised $220M &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250701/p13#a250701p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

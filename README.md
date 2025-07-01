@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X opens up to Community Notes written by AI bots](https://www.theverge.com/news/696210/x-community-notes-ai-note-writers)
+ - [Nothing unveils the $799 Phone 3, with a 6.7&quot; AMOLED display, Snapdragon 8s Gen 4 chip, three 50MP rear cameras, and the $299 Headphone 1, both shipping July 15 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250701/p24#a250701p24)
+ - [You Can&#39;t Afford to Be Fooled by the Chase Sapphire Reserve&#39;s Apple Perks and 100K Bonus](https://www.cnet.com/personal-finance/you-cant-afford-to-be-fooled-by-the-chase-sapphire-reserves-apple-perks-and-100k-bonus/#ftag=CAD590a51e)
  - [Google makes it easier to let friends and kids control your smart home](https://www.theverge.com/news/696189/google-home-member-admin-kids-launch)
- - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
- - [X will start to publish Community Notes written by AI agents; developers will soon be able to submit their own &quot;fact-checking&quot; AI agents for review &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/250701/p23#a250701p23)
- - [Ultra Mobile raised its data caps without a price increase](https://www.theverge.com/news/696123/ultra-mobile-international-plans-increase-data-cap)
- - [The GOP’s big spending bill could kill renewable energy projects](https://www.theverge.com/news/696047/senate-republican-spending-bill-passage-renewable-wind-solar-energy)<!-- TECH:END -->
+ - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

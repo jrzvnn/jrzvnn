@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The ongoing debate about tipping culture and fair wages in the service industry.](http://9gag.com/gag/apRVKBb)
- - 😝 [HIGHLIGHTS: Luzern Under-15 boys beat Switzerland women&#39;s national team 7-1. \ud83e\udd2f \ud83c\udde8\ud83c\udded](http://9gag.com/gag/a87KrXZ)
- - 💣 [Jeff Bezos wedding in Venice, Italy](http://9gag.com/gag/a2vLBrp)
- - 😝 [A legendary final meal](http://9gag.com/gag/aRBO5jy)
+ - 😝 [Fastball with dirt](http://9gag.com/gag/aGyOP0w)
+ - 😝 [Honest invisible dude](http://9gag.com/gag/a2vLnZe)
+ - 💣 [The ongoing debate about tipping culture and fair wages in the service industry.](http://9gag.com/gag/apRVKBb)
+ - 😝 [Never start a food fight with the pizza guy](http://9gag.com/gag/aKGOre6)
  - 👉 [Back in 2008, Facebook used to look like this.](http://9gag.com/gag/aBy49Y1)<!-- MEMES:END -->
 
 ---

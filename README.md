@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Friend of the year.](http://9gag.com/gag/aRBR602)
- - 😝 [Fellow horse herder...](http://9gag.com/gag/aRBR6Xq)
- - 💣 [Good](http://9gag.com/gag/a6ZjWpA)
- - 😝 [First date with a plus one security detail](http://9gag.com/gag/ayNYy1Y)
+ - 😝 [Sundress season rules.](http://9gag.com/gag/aQzO0jd)
+ - 😝 [When you wanted equal treatment](http://9gag.com/gag/aNDOxzG)
+ - 💣 [Never start a food fight with the pizza guy](http://9gag.com/gag/aKGOre6)
+ - 😝 [The cat is safe, the cabinet is not.](http://9gag.com/gag/a5QqmMN)
  - 👉 [Back in 2008, Facebook used to look like this.](http://9gag.com/gag/aBy49Y1)<!-- MEMES:END -->
 
 ---

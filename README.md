@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [How to tame your dragon irl](http://9gag.com/gag/avydNY5)
  - 😝 [The cat is safe, the cabinet is not.](http://9gag.com/gag/a5QqmMN)
- - 😝 [Hypocritical thinking](http://9gag.com/gag/aAyOWdR)
- - 💣 [An incredibly close encounter with a mother bear and her cubs on the beach](http://9gag.com/gag/aE0O30K)
- - 😝 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)
- - 👉 [Never start a food fight with the pizza guy](http://9gag.com/gag/aKGOre6)<!-- MEMES:END -->
+ - 💣 [Police break car window to rescue dog left inside on a hot day. Great job](http://9gag.com/gag/ary2YVy)
+ - 😝 [Sundress season rules.](http://9gag.com/gag/aQzO0jd)
+ - 👉 [Honest invisible dude](http://9gag.com/gag/a2vLnZe)<!-- MEMES:END -->
 
 ---
 

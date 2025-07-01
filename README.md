@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Apple sues Di Liu, a former senior product designer who worked on the Vision Pro, for allegedly stealing trade secrets and taking them to Snap &lpar;Ethan Baron/SiliconValley.com&rpar;](http://www.techmeme.com/250701/p8#a250701p8)
- - [Brazil wants its piece of the App Store anti-competition fines Apple faces worldwide](https://appleinsider.com/articles/25/07/01/brazil-wants-its-piece-of-the-app-store-anti-competition-fines-apple-faces-worldwide?utm_medium=rss)
- - [Newark’s air traffic outages were just the tip of the iceberg](https://www.theverge.com/planes/693562/newark-air-traffic-outages-faa-obsolete-tech)
- - [Amazon Busted Down My Gate and Refused to Pay. The Device Would Have Saved Me $500](https://www.cnet.com/news/amazon-busted-down-my-gate-and-refused-to-pay-this-device-could-have-saved-me-500/#ftag=CAD590a51e)
- - [Apple Should Steal These Galaxy S25 Edge Features for a Thin iPhone](https://www.cnet.com/tech/mobile/apple-should-steal-these-galaxy-s25-edge-features-for-a-thin-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [‘Donkey Kong Bananza’ Could be the Next Killer Game the Switch 2 Needs](https://www.wired.com/story/donkey-kong-bananza-could-be-the-next-killer-game-switch-2-needs/)
+ - [Donkey Kong Bananza unearths the franchise’s roots and rips them out](https://www.theverge.com/games/694183/donkey-kong-bananza-preview-switch-2)
+ - [Google kills its Keep app on Apple Watch](https://www.theverge.com/news/695590/google-keep-apple-watch-watchos-removed)
+ - [Xiaomi’s YU7 Is an SUV-Sized Middle Finger to Tesla&#39;s Model Y](https://www.wired.com/story/xiaomis-yu7-is-an-suv-sized-middle-finger-to-teslas-model-y/)
+ - [Can the music industry make AI the next Napster?](https://www.theverge.com/ai-artificial-intelligence/695290/suno-udio-ai-music-legal-copyright-riaa)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

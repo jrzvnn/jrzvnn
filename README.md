@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s note-taking app Keep is dead on Apple Watch](https://appleinsider.com/articles/25/07/01/googles-note-taking-app-keep-is-dead-on-apple-watch?utm_medium=rss)
- - [Trump says &quot;We might have to put DOGE on Elon&quot;, &quot;DOGE is the monster that might have to go back and eat Elon&quot;, and &quot;We&#39;ll have to take a look&quot; at deporting Musk &lpar;Avery Lotz/Axios&rpar;](http://www.techmeme.com/250701/p11#a250701p11)
- - [The FCC won&amp;#8217;t enforce a ban on ‘exorbitant’ prison phone call prices](https://www.theverge.com/news/695674/fcc-halts-martha-wright-reed-prison-phone-call-price-ban)
- - [12 Best Cheap Laptops &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-cheap-laptops/)
- - [Sharp pencils for hard times](https://www.theverge.com/tech/695081/blackwing-pencil-sharpener-favorite)<!-- TECH:END -->
+ - [How to safely maintain, use, and dispose of your power banks](https://www.theverge.com/tech/692218/power-banks-safety-disposal-how-to)
+ - [AI researcher salaries are steadily rising, with total pay packages of $500K to $2M at Big Tech for mid to senior level staffers, up from $400K to $900K in 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/250701/p12#a250701p12)
+ - [Future Apple Vision Pro headsets may use software trick to protect users from motion sickness](https://appleinsider.com/articles/25/07/01/future-apple-vision-pro-headsets-may-use-software-trick-to-protect-users-from-motion-sickness?utm_medium=rss)
+ - [5 Best Food Dehydrators, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-food-dehydrator/)
+ - [Google&#39;s note-taking app Keep is dead on Apple Watch](https://appleinsider.com/articles/25/07/01/googles-note-taking-app-keep-is-dead-on-apple-watch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

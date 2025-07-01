@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peak male content](http://9gag.com/gag/aGyOWQK)
- - 😝 [How to tame your dragon irl](http://9gag.com/gag/avydNY5)
- - 💣 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)
- - 😝 [Making memories on the console.](http://9gag.com/gag/ae97vwv)
- - 👉 [Real friends](http://9gag.com/gag/aLndYmg)<!-- MEMES:END -->
+ - 😝 [Police break car window to rescue dog left inside on a hot day. Great job](http://9gag.com/gag/ary2YVy)
+ - 😝 [That&#39;s one way to get method acting results.](http://9gag.com/gag/aW4Dwv3)
+ - 💣 [Hypocritical thinking](http://9gag.com/gag/aAyOWdR)
+ - 😝 [If its geh, all 9gaggers are geh](http://9gag.com/gag/aXPKDwg)
+ - 👉 [Guys.... the dwarf is chasing you..](http://9gag.com/gag/aRBO5w2)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Donkey Kong Bananza’ Could be the Next Killer Game the Switch 2 Needs](https://www.wired.com/story/donkey-kong-bananza-could-be-the-next-killer-game-switch-2-needs/)
- - [Donkey Kong Bananza unearths the franchise’s roots and rips them out](https://www.theverge.com/games/694183/donkey-kong-bananza-preview-switch-2)
- - [Google kills its Keep app on Apple Watch](https://www.theverge.com/news/695590/google-keep-apple-watch-watchos-removed)
- - [Xiaomi’s YU7 Is an SUV-Sized Middle Finger to Tesla&#39;s Model Y](https://www.wired.com/story/xiaomis-yu7-is-an-suv-sized-middle-finger-to-teslas-model-y/)
- - [Can the music industry make AI the next Napster?](https://www.theverge.com/ai-artificial-intelligence/695290/suno-udio-ai-music-legal-copyright-riaa)<!-- TECH:END -->
+ - [Grammarly acquires email startup Superhuman as part of a push to build an AI-powered productivity suite; Superhuman was last valued at $825M in 2021 &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/250701/p10#a250701p10)
+ - [10 Best Chromebooks of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-chromebooks/)
+ - [Senate drops plan to ban state AI laws](https://www.theverge.com/politics/695495/senate-drops-ai-moratorium-budget-bill)
+ - [Genesis AI, which generates its own synthetic data for training an AI model for robots, emerges from stealth with a $105M seed co-led by Eclipse and Khosla &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250701/p9#a250701p9)
+ - [The Running Man mixes mayhem and humor in first trailer](https://www.theverge.com/news/695608/the-running-man-trailer-edgar-wright)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

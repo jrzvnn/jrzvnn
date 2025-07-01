@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)
- - 😝 [When you wanted equal treatment](http://9gag.com/gag/aNDOxzG)
- - 💣 [Honest invisible dude](http://9gag.com/gag/a2vLnZe)
+ - 😝 [Honest invisible dude](http://9gag.com/gag/a2vLnZe)
+ - 😝 [Never start a food fight with the pizza guy](http://9gag.com/gag/aKGOre6)
+ - 💣 [Jeff Bezos wedding in Venice, Italy](http://9gag.com/gag/a2vLBrp)
  - 😝 [Back in 2008, Facebook used to look like this.](http://9gag.com/gag/aBy49Y1)
- - 👉 [Jeff Bezos wedding in Venice, Italy](http://9gag.com/gag/a2vLBrp)<!-- MEMES:END -->
+ - 👉 [Hypocritical thinking](http://9gag.com/gag/aAyOWdR)<!-- MEMES:END -->
 
 ---
 

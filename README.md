@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google&#39;s note-taking app Keep is dead on Apple Watch](https://appleinsider.com/articles/25/07/01/googles-note-taking-app-keep-is-dead-on-apple-watch?utm_medium=rss)
+ - [Trump says &quot;We might have to put DOGE on Elon&quot;, &quot;DOGE is the monster that might have to go back and eat Elon&quot;, and &quot;We&#39;ll have to take a look&quot; at deporting Musk &lpar;Avery Lotz/Axios&rpar;](http://www.techmeme.com/250701/p11#a250701p11)
+ - [The FCC won&amp;#8217;t enforce a ban on ‘exorbitant’ prison phone call prices](https://www.theverge.com/news/695674/fcc-halts-martha-wright-reed-prison-phone-call-price-ban)
  - [12 Best Cheap Laptops &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-cheap-laptops/)
- - [Sharp pencils for hard times](https://www.theverge.com/tech/695081/blackwing-pencil-sharpener-favorite)
- - [AMC now warns moviegoers to expect &amp;#8217;25-30 minutes&amp;#8217; of ads](https://www.theverge.com/news/695611/amc-theatres-movie-preshow-ads-warning)
- - [Grammarly Adds Superhuman Email App to Build an AI Suite for Users, Report Says](https://www.cnet.com/tech/services-and-software/grammarly-adds-superhuman-email-app-to-build-an-ai-suite-for-users-report-says/#ftag=CAD590a51e)
- - [The Best Laptops I&#39;ve Tested and Reviewed &lpar;July 2025&rpar;](https://www.cnet.com/tech/computing/best-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sharp pencils for hard times](https://www.theverge.com/tech/695081/blackwing-pencil-sharpener-favorite)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

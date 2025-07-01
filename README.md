@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Always stay sober in Thailand boys](http://9gag.com/gag/aW4RBbK)
- - 😝 [Totally safe roller coaster](http://9gag.com/gag/an7GeV0)
- - 💣 [My ring is working overtime absorbing negative energy](http://9gag.com/gag/aE0OerO)
- - 😝 [Fellow horse herder...](http://9gag.com/gag/aRBR6Xq)
+ - 😝 [Kids toys used to be absolutely wild, can you imagine this today?](http://9gag.com/gag/agmERD1)
+ - 😝 [Hypocritical thinking](http://9gag.com/gag/aAyOWdR)
+ - 💣 [Sundress season rules.](http://9gag.com/gag/aQzO0jd)
+ - 😝 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)
  - 👉 [Back in 2008, Facebook used to look like this.](http://9gag.com/gag/aBy49Y1)<!-- MEMES:END -->
 
 ---

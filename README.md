@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Grammarly wants to become an ‘AI productivity platform’](https://www.theverge.com/news/696056/grammarly-acquires-superhuman-email-app-ai-platform)
+ - [Sonos is offering a refurbished Era 100 for just $119](https://www.theverge.com/tech/696045/sonos-era-100-refurbished-google-pixel-fold-deal-sale)
+ - [Here’s What Mark Zuckerberg Is Offering Top AI Talent](https://www.wired.com/story/mark-zuckerberg-meta-offer-top-ai-talent-300-million/)
  - [Sources: Anthropic&#39;s revenue hit a pace of $4B/year, up almost 4x from the beginning of 2025; Cursor maker Anysphere has poached two of Claude Code&#39;s leaders &lpar;The Information&rpar;](http://www.techmeme.com/250701/p20#a250701p20)
- - [The MLS Season Pass is 50 percent off ahead of the All-Star game and Leagues Cup](https://www.theverge.com/tech/696026/mls-season-pass-apple-tv-plus-all-star-game-league-cup-deal-sale)
- - [Sam Altman said in a memo to staff, &quot;missionaries will beat mercenaries&quot; and &quot;I believe there is much, much more upside to OpenAI stock than Meta stock&quot; &lpar;Zoë Schiffer/Wired&rpar;](http://www.techmeme.com/250701/p19#a250701p19)
- - [Photos iOS 26 vs iOS 18: Small changes, huge impact](https://appleinsider.com/inside/ios-26/vs/photos-ios-26-vs-ios-18-small-changes-huge-impact?utm_medium=rss)
- - [Sam Altman Slams Meta’s AI Talent Poaching Spree: &#39;Missionaries Will Beat Mercenaries&#39;](https://www.wired.com/story/sam-altman-meta-ai-talent-poaching-spree-leaked-messages/)<!-- TECH:END -->
+ - [The MLS Season Pass is 50 percent off ahead of the All-Star game and Leagues Cup](https://www.theverge.com/tech/696026/mls-season-pass-apple-tv-plus-all-star-game-league-cup-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

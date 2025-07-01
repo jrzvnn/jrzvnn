@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Police break car window to rescue dog left inside on a hot day. Great job](http://9gag.com/gag/ary2YVy)
- - 😝 [That&#39;s one way to get method acting results.](http://9gag.com/gag/aW4Dwv3)
- - 💣 [Hypocritical thinking](http://9gag.com/gag/aAyOWdR)
- - 😝 [If its geh, all 9gaggers are geh](http://9gag.com/gag/aXPKDwg)
- - 👉 [Guys.... the dwarf is chasing you..](http://9gag.com/gag/aRBO5w2)<!-- MEMES:END -->
+ - 😝 [Guys.... the dwarf is chasing you..](http://9gag.com/gag/aRBO5w2)
+ - 😝 [Hypocritical thinking](http://9gag.com/gag/aAyOWdR)
+ - 💣 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)
+ - 😝 [Moments before death](http://9gag.com/gag/a1mE9xw)
+ - 👉 [That&#39;s one way to get method acting results.](http://9gag.com/gag/aW4Dwv3)<!-- MEMES:END -->
 
 ---
 

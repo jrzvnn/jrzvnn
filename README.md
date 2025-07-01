@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Google warns that the DMA is hampering innovation for EU users, asks regulators for more detailed guidance and critics to provide evidence to prove their case &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250701/p5#a250701p5)
- - [Microsoft Offers Free Windows 10 Extended Security Updates, but There&#39;s a Catch](https://www.cnet.com/tech/computing/microsoft-offers-free-windows-10-extended-security-updates-under-one-condition/#ftag=CAD590a51e)
- - [Yes, Microsoft Is Deleting Your Passwords in 5 Weeks. Here&#39;s What You Need to Do ASAP](https://www.cnet.com/tech/yes-microsoft-is-deleting-your-passwords-in-5-weeks-heres-what-you-need-to-do-asap/#ftag=CAD590a51e)
- - [Best Internet Providers in Little Rock, Arkansas](https://www.cnet.com/home/internet/best-internet-providers-in-little-rock-ar/#ftag=CAD590a51e)
- - [Tinder’s mandatory facial recognition check comes to the US](https://www.theverge.com/news/695582/tinder-facial-recognition-us-california-test)<!-- TECH:END -->
+ - [Tinder’s mandatory facial recognition check comes to the US](https://www.theverge.com/news/695582/tinder-facial-recognition-us-california-test)
+ - [Morgan Stanley says xAI raised $5B of equity in addition to $5B in debt; the company raised $6B in December from a16z and others &lpar;Miles Kruppa/The Information&rpar;](http://www.techmeme.com/250701/p4#a250701p4)
+ - [The Senate votes 99-1 to remove a Trump tax bill provision that would have barred states from regulating AI if they got funding from a $500M broadband program &lpar;Bloomberg&rpar;](http://www.techmeme.com/250701/p3#a250701p3)
+ - [An interview with Claude AI product lead Scott White on Claude Code writing 90% of its own code, MCP, coding being accessible to non-technical workers, and more &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/250701/p2#a250701p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

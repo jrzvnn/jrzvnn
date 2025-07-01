@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fastball with dirt](http://9gag.com/gag/aGyOP0w)
- - 😝 [Poor girl lol](http://9gag.com/gag/a1mEz28)
- - 💣 [Live from Belgrade](http://9gag.com/gag/a7op4qb)
- - 😝 [A reunion nobody expected](http://9gag.com/gag/azxY00B)
+ - 😝 [Maybe stick to regular basketball for now](http://9gag.com/gag/an7rLAo)
+ - 😝 [Guys.... the dwarf is chasing you..](http://9gag.com/gag/aRBO5w2)
+ - 💣 [Good](http://9gag.com/gag/a6ZjWpA)
+ - 😝 [Honest invisible dude](http://9gag.com/gag/a2vLnZe)
  - 👉 [Back in 2008, Facebook used to look like this.](http://9gag.com/gag/aBy49Y1)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Casio’s Ring Watch is available online after being sold out for months](https://www.theverge.com/tech/695312/casio-ring-watch-restock)
- - [Nintendo revealed the Super Mario Odyssey team made Donkey Kong Bananza](https://www.theverge.com/news/695726/donkey-kong-bananza-developers-super-mario-odyssey)
- - [The Best Hot Dog Cookers for All-American Hot Dogging &lpar;2025&rpar;](https://www.wired.com/gallery/best-hot-dog-cookers/)
- - [How to safely maintain, use, and dispose of your power banks](https://www.theverge.com/tech/692218/power-banks-safety-disposal-how-to)
- - [AI researcher salaries are steadily rising, with total pay packages of $500K to $2M at Big Tech for mid to senior level staffers, up from $400K to $900K in 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/250701/p12#a250701p12)<!-- TECH:END -->
+ - [Trump says he’ll look into deporting Elon as fight over bill escalates](https://www.theverge.com/news/695703/trump-elon-musk-deport-threat-doge-subsidies-spending-bill)
+ - [CoinMarketCap: bitcoin&#39;s share of crypto market value grew to 64% this year, highest since January 2021, and altcoins lost $300B+, as big investors flock to BTC &lpar;Bloomberg&rpar;](http://www.techmeme.com/250701/p14#a250701p14)
+ - [Anker extends recall to five more Power Banks worldwide](https://appleinsider.com/articles/25/07/01/anker-extends-recall-to-five-more-power-banks-worldwide?utm_medium=rss)
+ - [American Bitcoin, a bitcoin mining and holding company backed by Eric Trump and Donald Trump Jr. and a subsidiary of publicly-traded Hut 8, raised $220M &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250701/p13#a250701p13)
+ - [Casio’s Ring Watch is available online after being sold out for months](https://www.theverge.com/tech/695312/casio-ring-watch-restock)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

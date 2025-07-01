@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Casio’s Ring Watch is available online after being sold out for months](https://www.theverge.com/tech/695312/casio-ring-watch-restock)
+ - [Nintendo revealed the Super Mario Odyssey team made Donkey Kong Bananza](https://www.theverge.com/news/695726/donkey-kong-bananza-developers-super-mario-odyssey)
+ - [The Best Hot Dog Cookers for All-American Hot Dogging &lpar;2025&rpar;](https://www.wired.com/gallery/best-hot-dog-cookers/)
  - [How to safely maintain, use, and dispose of your power banks](https://www.theverge.com/tech/692218/power-banks-safety-disposal-how-to)
- - [AI researcher salaries are steadily rising, with total pay packages of $500K to $2M at Big Tech for mid to senior level staffers, up from $400K to $900K in 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/250701/p12#a250701p12)
- - [Future Apple Vision Pro headsets may use software trick to protect users from motion sickness](https://appleinsider.com/articles/25/07/01/future-apple-vision-pro-headsets-may-use-software-trick-to-protect-users-from-motion-sickness?utm_medium=rss)
- - [5 Best Food Dehydrators, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-food-dehydrator/)
- - [Google&#39;s note-taking app Keep is dead on Apple Watch](https://appleinsider.com/articles/25/07/01/googles-note-taking-app-keep-is-dead-on-apple-watch?utm_medium=rss)<!-- TECH:END -->
+ - [AI researcher salaries are steadily rising, with total pay packages of $500K to $2M at Big Tech for mid to senior level staffers, up from $400K to $900K in 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/250701/p12#a250701p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

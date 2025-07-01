@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple accuses former Vision Pro engineer of stealing trade secrets](https://www.theverge.com/news/695929/apple-lawsuit-vision-pro-secrets-snap)
+ - [The Senate Just Put Clean Energy for AI in the Crosshairs](https://www.wired.com/story/the-senate-just-put-clean-energy-for-ai-in-the-crosshairs/)
+ - [Anker Recalls More Power Banks for Fire, Explosion Risk: How to Get a Free Replacement or Gift Card](https://www.cnet.com/tech/mobile/anker-recalls-more-power-banks-for-fire-explosion-risk-how-to-get-a-free-replacement-or-gift-card/#ftag=CAD590a51e)
  - [AT&amp;#038;T now lets you lock down your account to prevent SIM swapping attacks](https://www.theverge.com/news/695916/att-account-lock-sim-swapping-attack)
- - [Apple imported a lot of Macs in Q1, but don&#39;t believe marketshare increase claims yet](https://appleinsider.com/articles/25/07/01/apple-imported-a-lot-of-macs-in-q1-but-dont-believe-marketshare-increase-claims-yet?utm_medium=rss)
- - [Threads launches DMs for users aged 18 and older, without support for E2EE, and announces a &quot;highlighter&quot; feature to emphasize trending topics &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250701/p16#a250701p16)
- - [Apple&#39;s M4 MacBook Air dips to $849 during Amazon&#39;s early Prime Day sale](https://appleinsider.com/articles/25/07/01/apples-m4-macbook-air-dips-to-849-during-amazons-early-prime-day-sale?utm_medium=rss)
- - [Threads now has DMs](https://www.theverge.com/news/695743/threads-dms-direct-messaging-launch)<!-- TECH:END -->
+ - [Apple imported a lot of Macs in Q1, but don&#39;t believe marketshare increase claims yet](https://appleinsider.com/articles/25/07/01/apple-imported-a-lot-of-macs-in-q1-but-dont-believe-marketshare-increase-claims-yet?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Honest invisible dude](http://9gag.com/gag/a2vLnZe)
- - 😝 [Never start a food fight with the pizza guy](http://9gag.com/gag/aKGOre6)
- - 💣 [Jeff Bezos wedding in Venice, Italy](http://9gag.com/gag/a2vLBrp)
+ - 😝 [A legendary final meal](http://9gag.com/gag/aRBO5jy)
+ - 😝 [It&#39;s over fellow men... should we show our chocolate starfish too instead working 9 to 5?...](http://9gag.com/gag/a2vLB5D)
+ - 💣 [Hypocritical thinking](http://9gag.com/gag/aAyOWdR)
  - 😝 [Back in 2008, Facebook used to look like this.](http://9gag.com/gag/aBy49Y1)
- - 👉 [Hypocritical thinking](http://9gag.com/gag/aAyOWdR)<!-- MEMES:END -->
+ - 👉 [Sundress season rules.](http://9gag.com/gag/aQzO0jd)<!-- MEMES:END -->
 
 ---
 

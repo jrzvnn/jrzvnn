@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poor girl lol](http://9gag.com/gag/a1mEz28)
- - 😝 [Good](http://9gag.com/gag/a6ZjWpA)
- - 💣 [The cat is safe, the cabinet is not.](http://9gag.com/gag/a5QqmMN)
- - 😝 [Kids toys used to be absolutely wild, can you imagine this today?](http://9gag.com/gag/agmERD1)
+ - 😝 [Always stay sober in Thailand boys](http://9gag.com/gag/aW4RBbK)
+ - 😝 [Totally safe roller coaster](http://9gag.com/gag/an7GeV0)
+ - 💣 [My ring is working overtime absorbing negative energy](http://9gag.com/gag/aE0OerO)
+ - 😝 [Fellow horse herder...](http://9gag.com/gag/aRBR6Xq)
  - 👉 [Back in 2008, Facebook used to look like this.](http://9gag.com/gag/aBy49Y1)<!-- MEMES:END -->
 
 ---

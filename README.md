@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Figma files for an IPO, plans to trade on the NYSE under FIG, and reports Q1 revenue increased 46% YoY to $228.2M and net income grew from $13.5M to $44.9M YoY &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250701/p22#a250701p22)
- - [Source: Mark Zuckerberg has, on 10+ occasions, offered to pay AI research talent up to $300M over four years, with $100M+ in compensation for the first year &lpar;Zoë Schiffer/Wired&rpar;](http://www.techmeme.com/250701/p21#a250701p21)
- - [A Pro-Russia Disinformation Campaign Is Using Free AI Tools to Fuel a ‘Content Explosion’](https://www.wired.com/story/pro-russia-disinformation-campaign-free-ai-tools/)
- - [Apple hit with $110M damages after losing 3G wireless patents lawsuit](https://appleinsider.com/articles/25/07/01/apple-hit-with-110m-damages-after-losing-3g-wireless-patents-lawsuit?utm_medium=rss)
- - [Apple satellite texting saves injured climber on Colorado peak](https://appleinsider.com/articles/25/07/01/apple-satellite-texting-saves-injured-climber-on-colorado-peak?utm_medium=rss)<!-- TECH:END -->
+ - [Ultra Mobile raised its data caps without a price increase](https://www.theverge.com/news/696123/ultra-mobile-international-plans-increase-data-cap)
+ - [The GOP’s big spending bill could kill renewable energy projects](https://www.theverge.com/news/696047/senate-republican-spending-bill-passage-renewable-wind-solar-energy)
+ - [Next Apple TV+ dramedy will be &#39;I&#39;m Glad My Mom Died&#39; starring Jennifer Aniston](https://appleinsider.com/articles/25/07/01/next-apple-tv-dramedy-will-be-im-glad-my-mom-died-starring-jennifer-aniston?utm_medium=rss)
+ - [Figma files for an IPO, plans to trade on the NYSE under FIG, and reports Q1 revenue increased 46% YoY to $228.2M and net income grew from $13.5M to $44.9M YoY &lpar;CNBC&rpar;](http://www.techmeme.com/250701/p22#a250701p22)
+ - [Source: Mark Zuckerberg has, on 10+ occasions, offered to pay AI research talent up to $300M over four years, with $100M+ in compensation for the first year &lpar;Zoë Schiffer/Wired&rpar;](http://www.techmeme.com/250701/p21#a250701p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

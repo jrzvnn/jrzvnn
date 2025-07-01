@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [12 Best Cheap Laptops &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-cheap-laptops/)
+ - [Sharp pencils for hard times](https://www.theverge.com/tech/695081/blackwing-pencil-sharpener-favorite)
  - [AMC now warns moviegoers to expect &amp;#8217;25-30 minutes&amp;#8217; of ads](https://www.theverge.com/news/695611/amc-theatres-movie-preshow-ads-warning)
- - [Grammarly acquires email startup Superhuman as part of a push to build an AI-powered productivity suite; Superhuman was last valued at $825M in 2021 &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/250701/p10#a250701p10)
- - [10 Best Chromebooks of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-chromebooks/)
- - [Senate drops plan to ban state AI laws](https://www.theverge.com/politics/695495/senate-drops-ai-moratorium-budget-bill)
- - [Genesis AI, which generates its own synthetic data for training an AI model for robots, emerges from stealth with a $105M seed co-led by Eclipse and Khosla &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250701/p9#a250701p9)<!-- TECH:END -->
+ - [Grammarly Adds Superhuman Email App to Build an AI Suite for Users, Report Says](https://www.cnet.com/tech/services-and-software/grammarly-adds-superhuman-email-app-to-build-an-ai-suite-for-users-report-says/#ftag=CAD590a51e)
+ - [The Best Laptops I&#39;ve Tested and Reviewed &lpar;July 2025&rpar;](https://www.cnet.com/tech/computing/best-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

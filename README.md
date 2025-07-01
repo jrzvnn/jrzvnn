@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple accuses ex-engineer of stealing details of unreleased Apple Vision Pro features](https://appleinsider.com/articles/25/07/01/apple-accuses-ex-engineer-of-stealing-details-of-unreleased-apple-vision-pro-features?utm_medium=rss)
+ - [Huawei open sources its 7B and 72B Pangu AI models, and some of its model reasoning tech, to incentivize the use of Huawei products like its Ascend AI chips &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250701/p7#a250701p7)
+ - [How to Use Markdown](https://www.wired.com/story/how-to-use-markdown/)
  - [7 Best Streaming Devices for TVs &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-4k-streaming-devices/)
- - [Cloudflare launches Pay per Crawl, a marketplace letting sites charge AI crawlers per crawl; new sites set up with Cloudflare will block AI crawlers by default &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250701/p6#a250701p6)
- - [Amazon Busted Down My Gate and Refused to Pay. This Device Would Have Saved Me $500](https://www.cnet.com/news/amazon-busted-down-my-gate-and-refused-to-pay-this-device-could-have-saved-me-500/#ftag=CAD590a51e)
- - [Cloudflare Is Blocking AI Crawlers by Default](https://www.wired.com/story/cloudflare-blocks-ai-crawlers-default/)
- - [Best Yoga Mats for 2025](https://www.cnet.com/health/fitness/best-yoga-mat/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cloudflare launches Pay per Crawl, a marketplace letting sites charge AI crawlers per crawl; new sites set up with Cloudflare will block AI crawlers by default &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250701/p6#a250701p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

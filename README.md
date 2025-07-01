@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [20% VistaPrint Coupon &amp; Promo Codes | July 2025](https://www.wired.com/story/vistaprint-coupon-code/)
  - [Q&amp;A with Matt Mullenweg on licensing deals with AI companies, putting Tumblr&#39;s backend migration to WordPress &quot;on hold&quot;, fediverse, content moderation, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250701/p1#a250701p1)
  - [How to use a spare keyboard or numpad as a macropad in macOS](https://appleinsider.com/inside/macos/tips/how-to-use-a-spare-keyboard-or-numpad-as-a-macropad-in-macos?utm_medium=rss)
  - [Amazon says it has deployed over 1M robots in its warehouses, its most ever and close to its human workforce, with 75% of global deliveries aided by robotics &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/250630/p38#a250630p38)
- - [After criticism, Sen. Blackburn backs off her own AI compromise for the tax bill, saying &quot;we can&#39;t block states from making laws that protect their citizens&quot; &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/250630/p37#a250630p37)
- - [Senator Blackburn Pulls Support for AI Moratorium in Trump’s ‘Big Beautiful Bill’ Amid Backlash](https://www.wired.com/story/ai-moratorium-trump-megabill-blackburn/)<!-- TECH:END -->
+ - [After criticism, Sen. Blackburn backs off her own AI compromise for the tax bill, saying &quot;we can&#39;t block states from making laws that protect their citizens&quot; &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/250630/p37#a250630p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

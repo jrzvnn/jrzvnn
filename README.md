@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to tame your dragon irl](http://9gag.com/gag/avydNY5)
- - 😝 [Jeff Bezos wedding in Venice, Italy](http://9gag.com/gag/a2vLBrp)
- - 💣 [Live from Belgrade](http://9gag.com/gag/a7op4qb)
- - 😝 [A legendary final meal](http://9gag.com/gag/aRBO5jy)
+ - 😝 [Friend of the year.](http://9gag.com/gag/aRBR602)
+ - 😝 [Fellow horse herder...](http://9gag.com/gag/aRBR6Xq)
+ - 💣 [Good](http://9gag.com/gag/a6ZjWpA)
+ - 😝 [First date with a plus one security detail](http://9gag.com/gag/ayNYy1Y)
  - 👉 [Back in 2008, Facebook used to look like this.](http://9gag.com/gag/aBy49Y1)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Making memories on the console.](http://9gag.com/gag/ae97vwv)
- - 😝 [How to tame your dragon irl](http://9gag.com/gag/avydNY5)
- - 💣 [Not all heroes wear capes.](http://9gag.com/gag/apRYeEM)
- - 😝 [I am going to hail for this..](http://9gag.com/gag/ajPW29q)
- - 👉 [Before the table cat meme, we had the spaghetti cat meme 17 years ago.](http://9gag.com/gag/a1mOpYG)<!-- MEMES:END -->
+ - 😝 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)
+ - 😝 [When you wanted equal treatment](http://9gag.com/gag/aNDOxzG)
+ - 💣 [Honest invisible dude](http://9gag.com/gag/a2vLnZe)
+ - 😝 [Back in 2008, Facebook used to look like this.](http://9gag.com/gag/aBy49Y1)
+ - 👉 [Jeff Bezos wedding in Venice, Italy](http://9gag.com/gag/a2vLBrp)<!-- MEMES:END -->
 
 ---
 

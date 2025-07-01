@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nineties summer](https://www.reddit.com/r/funny/comments/1loygpx/nineties_summer/)
  - 😝 [It&#39;s over fellow men... should we show our chocolate starfish too instead working 9 to 5?...](http://9gag.com/gag/a2vLB5D)
- - 💣 [These guys sure enjoy their jobs](http://9gag.com/gag/ajPWb6R)
- - 😝 [The cat is safe, the cabinet is not.](http://9gag.com/gag/a5QqmMN)
- - 👉 [Back in 2008, Facebook used to look like this.](http://9gag.com/gag/aBy49Y1)<!-- MEMES:END -->
+ - 😝 [These guys sure enjoy their jobs](http://9gag.com/gag/ajPWb6R)
+ - 💣 [The cat is safe, the cabinet is not.](http://9gag.com/gag/a5QqmMN)
+ - 😝 [Back in 2008, Facebook used to look like this.](http://9gag.com/gag/aBy49Y1)
+ - 👉 [Honest invisible dude](http://9gag.com/gag/a2vLnZe)<!-- MEMES:END -->
 
 ---
 

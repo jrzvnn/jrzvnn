@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [7 Best Streaming Devices for TVs &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-4k-streaming-devices/)
  - [Cloudflare launches Pay per Crawl, a marketplace letting sites charge AI crawlers per crawl; new sites set up with Cloudflare will block AI crawlers by default &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250701/p6#a250701p6)
+ - [Amazon Busted Down My Gate and Refused to Pay. This Device Would Have Saved Me $500](https://www.cnet.com/news/amazon-busted-down-my-gate-and-refused-to-pay-this-device-could-have-saved-me-500/#ftag=CAD590a51e)
  - [Cloudflare Is Blocking AI Crawlers by Default](https://www.wired.com/story/cloudflare-blocks-ai-crawlers-default/)
- - [Cloudflare will now block AI crawlers by default](https://www.theverge.com/news/695501/cloudflare-block-ai-crawlers-default)
- - [Google warns that the DMA is hampering innovation for EU users, asks regulators for more detailed guidance and critics to provide evidence to prove their case &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250701/p5#a250701p5)<!-- TECH:END -->
+ - [Best Yoga Mats for 2025](https://www.cnet.com/health/fitness/best-yoga-mat/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

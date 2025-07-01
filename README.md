@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Anthropic&#39;s revenue hit a pace of $4B/year, up almost 4x from the beginning of 2025; Cursor maker Anysphere has poached two of Claude Code&#39;s leaders &lpar;The Information&rpar;](http://www.techmeme.com/250701/p20#a250701p20)
+ - [The MLS Season Pass is 50 percent off ahead of the All-Star game and Leagues Cup](https://www.theverge.com/tech/696026/mls-season-pass-apple-tv-plus-all-star-game-league-cup-deal-sale)
  - [Sam Altman said in a memo to staff, &quot;missionaries will beat mercenaries&quot; and &quot;I believe there is much, much more upside to OpenAI stock than Meta stock&quot; &lpar;Zoë Schiffer/Wired&rpar;](http://www.techmeme.com/250701/p19#a250701p19)
  - [Photos iOS 26 vs iOS 18: Small changes, huge impact](https://appleinsider.com/inside/ios-26/vs/photos-ios-26-vs-ios-18-small-changes-huge-impact?utm_medium=rss)
- - [Sam Altman Slams Meta’s AI Talent Poaching Spree: &#39;Missionaries Will Beat Mercenaries&#39;](https://www.wired.com/story/sam-altman-meta-ai-talent-poaching-spree-leaked-messages/)
- - [Laptop Mag is shutting down](https://www.theverge.com/news/695969/laptop-mag-shutdown-future-plc)
- - [AI Videos of Black Women Depicted as ‘Bigfoot’ Are Going Viral](https://www.wired.com/story/ai-videos-black-women-depicted-as-primates-viral/)<!-- TECH:END -->
+ - [Sam Altman Slams Meta’s AI Talent Poaching Spree: &#39;Missionaries Will Beat Mercenaries&#39;](https://www.wired.com/story/sam-altman-meta-ai-talent-poaching-spree-leaked-messages/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

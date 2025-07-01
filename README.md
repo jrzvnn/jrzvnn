@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never start a food fight with the pizza guy](http://9gag.com/gag/aKGOre6)
- - 😝 [An incredibly close encounter with a mother bear and her cubs on the beach](http://9gag.com/gag/aE0O30K)
- - 💣 [These guys sure enjoy their jobs](http://9gag.com/gag/ajPWb6R)
- - 😝 [That&#39;s one way to get method acting results.](http://9gag.com/gag/aW4Dwv3)
- - 👉 [Friends just being themselves](http://9gag.com/gag/aXPKDEz)<!-- MEMES:END -->
+ - 😝 [Making memories on the console.](http://9gag.com/gag/ae97vwv)
+ - 😝 [How to tame your dragon irl](http://9gag.com/gag/avydNY5)
+ - 💣 [Not all heroes wear capes.](http://9gag.com/gag/apRYeEM)
+ - 😝 [I am going to hail for this..](http://9gag.com/gag/ajPW29q)
+ - 👉 [Before the table cat meme, we had the spaghetti cat meme 17 years ago.](http://9gag.com/gag/a1mOpYG)<!-- MEMES:END -->
 
 ---
 

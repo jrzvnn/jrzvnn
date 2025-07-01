@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing Headphone 1 review: head-turning](https://www.theverge.com/headphone-review/695609/nothing-headphone-1-review)
- - [Nothing’s over-ear headphones are all about the buttons](https://www.theverge.com/news/695787/nothing-headphone-1-launch-news-specs-price)
- - [Nothing’s ‘first true flagship’ phone plays it a little safe](https://www.theverge.com/news/695788/nothing-phone-3-launch-news-specs-price)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [AT&amp;T launches Account Lock to protect wireless users against SIM swapping attacks, following similar features from T-Mobile, Verizon, and Google Fi &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250701/p18#a250701p18)<!-- TECH:END -->
+ - [Sam Altman Slams Meta’s AI Talent Poaching Spree: &#39;Missionaries Will Beat Mercenaries&#39;](https://www.wired.com/story/sam-altman-meta-ai-talent-poaching-spree-leaked-messages/)
+ - [Laptop Mag is shutting down](https://www.theverge.com/news/695969/laptop-mag-shutdown-future-plc)
+ - [AI Videos of Black Women Depicted as Primates Are Going Viral](https://www.wired.com/story/ai-videos-black-women-depicted-as-primates-viral/)
+ - [Nothing&#39;s New Phone &lpar;3&rpar; and Headphone &lpar;1&rpar; Look Nothing Like You&#39;ve Seen Before](https://www.wired.com/story/nothing-phone-3-headphones-1-news/)
+ - [Nothing Headphone 1 review: head-turning](https://www.theverge.com/headphone-review/695609/nothing-headphone-1-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

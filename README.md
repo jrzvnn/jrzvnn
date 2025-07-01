@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Kids toys used to be absolutely wild, can you imagine this today?](http://9gag.com/gag/agmERD1)
- - 😝 [Bad scientist doing bad science](http://9gag.com/gag/aqyY3wp)
- - 💣 [Not all heroes wear capes.](http://9gag.com/gag/apRYeEM)
+ - 😝 [The cat is safe, the cabinet is not.](http://9gag.com/gag/a5QqmMN)
+ - 💣 [Poor girl lol](http://9gag.com/gag/a1mEz28)
  - 😝 [The surprisingly small contact point between a train wheel and the rail.](http://9gag.com/gag/aW4DVr6)
  - 👉 [Back in 2008, Facebook used to look like this.](http://9gag.com/gag/aBy49Y1)<!-- MEMES:END -->
 

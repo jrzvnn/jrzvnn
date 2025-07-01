@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Photos iOS 26 vs iOS 18: Small changes, huge impact](https://appleinsider.com/inside/ios-26/vs/photos-ios-26-vs-ios-18-small-changes-huge-impact?utm_medium=rss)
  - [Sam Altman Slams Meta’s AI Talent Poaching Spree: &#39;Missionaries Will Beat Mercenaries&#39;](https://www.wired.com/story/sam-altman-meta-ai-talent-poaching-spree-leaked-messages/)
  - [Laptop Mag is shutting down](https://www.theverge.com/news/695969/laptop-mag-shutdown-future-plc)
  - [AI Videos of Black Women Depicted as Primates Are Going Viral](https://www.wired.com/story/ai-videos-black-women-depicted-as-primates-viral/)
- - [Nothing&#39;s New Phone &lpar;3&rpar; and Headphone &lpar;1&rpar; Look Nothing Like You&#39;ve Seen Before](https://www.wired.com/story/nothing-phone-3-headphones-1-news/)
- - [Nothing Headphone 1 review: head-turning](https://www.theverge.com/headphone-review/695609/nothing-headphone-1-review)<!-- TECH:END -->
+ - [Nothing&#39;s New Phone &lpar;3&rpar; and Headphone &lpar;1&rpar; Look Nothing Like You&#39;ve Seen Before](https://www.wired.com/story/nothing-phone-3-headphones-1-news/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

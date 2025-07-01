@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hypocritical thinking](http://9gag.com/gag/aAyOWdR)
+ - 😝 [How to tame your dragon irl](http://9gag.com/gag/avydNY5)
  - 😝 [The cat is safe, the cabinet is not.](http://9gag.com/gag/a5QqmMN)
- - 💣 [When you wanted equal treatment](http://9gag.com/gag/aNDOxzG)
- - 😝 [The ongoing debate about tipping culture and fair wages in the service industry.](http://9gag.com/gag/apRVKBb)
+ - 💣 [Honest invisible dude](http://9gag.com/gag/a2vLnZe)
+ - 😝 [First date with a plus one security detail](http://9gag.com/gag/ayNYy1Y)
  - 👉 [Back in 2008, Facebook used to look like this.](http://9gag.com/gag/aBy49Y1)<!-- MEMES:END -->
 
 ---

@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Fastball with dirt](http://9gag.com/gag/aGyOP0w)
- - 😝 [Jeff Bezos wedding in Venice, Italy](http://9gag.com/gag/a2vLBrp)
- - 💣 [These guys sure enjoy their jobs](http://9gag.com/gag/ajPWb6R)
+ - 😝 [How to tame your dragon irl](http://9gag.com/gag/avydNY5)
+ - 💣 [Jeff Bezos wedding in Venice, Italy](http://9gag.com/gag/a2vLBrp)
  - 😝 [Back in 2008, Facebook used to look like this.](http://9gag.com/gag/aBy49Y1)
  - 👉 [A legendary final meal](http://9gag.com/gag/aRBO5jy)<!-- MEMES:END -->
 

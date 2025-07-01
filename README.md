@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ambrook, a startup providing specialized accounting software for US farmers and ranchers, raised a $26.1M Series A led by Thrive Capital and Figma&#39;s Dylan Field &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250701/p27#a250701p27)
+ - [The best robot vacuums we&amp;#8217;ve tested for 2025](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
+ - [Spotify Celebrates 10 Years of Discover Weekly With a Fresh New Look](https://www.cnet.com/tech/services-and-software/spotify-celebrates-10-years-of-discover-weekly-with-a-fresh-new-look/#ftag=CAD590a51e)
  - [Sources: Palmer Luckey is preparing to launch Erebor, a US bank backed by Joe Lonsdale and other tech investors to serve startups, including crypto businesses &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/250701/p26#a250701p26)
- - [A California jury rules Google is liable in a 2019 class action lawsuit over collecting information from users&#39; devices without permission and must pay $314.6M+ &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/250701/p25#a250701p25)
- - [Figma is going public](https://www.theverge.com/news/696253/figma-ipo-public-filing)
- - [X opens up to Community Notes written by AI bots](https://www.theverge.com/news/696210/x-community-notes-ai-note-writers)
- - [Nothing unveils the $799 Phone 3, with a 6.7&quot; AMOLED display, Snapdragon 8s Gen 4 chip, three 50MP rear cameras, and the $299 Headphone 1, both shipping July 15 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250701/p24#a250701p24)<!-- TECH:END -->
+ - [A California jury rules Google is liable in a 2019 class action lawsuit over collecting information from users&#39; devices without permission and must pay $314.6M+ &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/250701/p25#a250701p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

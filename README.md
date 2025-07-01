@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fastball with dirt](http://9gag.com/gag/aGyOP0w)
- - 😝 [Honest invisible dude](http://9gag.com/gag/a2vLnZe)
- - 💣 [The ongoing debate about tipping culture and fair wages in the service industry.](http://9gag.com/gag/apRVKBb)
- - 😝 [Never start a food fight with the pizza guy](http://9gag.com/gag/aKGOre6)
+ - 😝 [Hypocritical thinking](http://9gag.com/gag/aAyOWdR)
+ - 😝 [The cat is safe, the cabinet is not.](http://9gag.com/gag/a5QqmMN)
+ - 💣 [When you wanted equal treatment](http://9gag.com/gag/aNDOxzG)
+ - 😝 [The ongoing debate about tipping culture and fair wages in the service industry.](http://9gag.com/gag/apRVKBb)
  - 👉 [Back in 2008, Facebook used to look like this.](http://9gag.com/gag/aBy49Y1)<!-- MEMES:END -->
 
 ---

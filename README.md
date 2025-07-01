@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Huawei open sources its 7B and 72B Pangu AI models, and some of its model reasoning tech, to incentivize the use of Huawei products like its Ascend AI chips &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250701/p7#a250701p7)
  - [How to Use Markdown](https://www.wired.com/story/how-to-use-markdown/)
  - [7 Best Streaming Devices for TVs &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-4k-streaming-devices/)
- - [Cloudflare launches Pay per Crawl, a marketplace letting sites charge AI crawlers per crawl; new sites set up with Cloudflare will block AI crawlers by default &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250701/p6#a250701p6)<!-- TECH:END -->
+ - [Cloudflare debuts &quot;Pay per Crawl&quot;, a marketplace that lets sites charge AI crawlers per crawl; new sites using Cloudflare will now block AI crawlers by default &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250701/p6#a250701p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

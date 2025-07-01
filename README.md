@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guys.... the dwarf is chasing you..](http://9gag.com/gag/aRBO5w2)
+ - 😝 [The cat is safe, the cabinet is not.](http://9gag.com/gag/a5QqmMN)
  - 😝 [Hypocritical thinking](http://9gag.com/gag/aAyOWdR)
- - 💣 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)
- - 😝 [Moments before death](http://9gag.com/gag/a1mE9xw)
- - 👉 [That&#39;s one way to get method acting results.](http://9gag.com/gag/aW4Dwv3)<!-- MEMES:END -->
+ - 💣 [An incredibly close encounter with a mother bear and her cubs on the beach](http://9gag.com/gag/aE0O30K)
+ - 😝 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)
+ - 👉 [Never start a food fight with the pizza guy](http://9gag.com/gag/aKGOre6)<!-- MEMES:END -->
 
 ---
 

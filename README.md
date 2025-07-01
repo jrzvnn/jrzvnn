@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Mark Zuckerberg has, on 10+ occasions, offered to pay AI research talent up to $300M over four years, with $100M+ in compensation for the first year &lpar;Zoë Schiffer/Wired&rpar;](http://www.techmeme.com/250701/p21#a250701p21)
  - [A Pro-Russia Disinformation Campaign Is Using Free AI Tools to Fuel a ‘Content Explosion’](https://www.wired.com/story/pro-russia-disinformation-campaign-free-ai-tools/)
  - [Apple hit with $110M damages after losing 3G wireless patents lawsuit](https://appleinsider.com/articles/25/07/01/apple-hit-with-110m-damages-after-losing-3g-wireless-patents-lawsuit?utm_medium=rss)
  - [Apple satellite texting saves injured climber on Colorado peak](https://appleinsider.com/articles/25/07/01/apple-satellite-texting-saves-injured-climber-on-colorado-peak?utm_medium=rss)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [The 37 Best Shows on Apple TV+ Right Now &lpar;June 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)<!-- TECH:END -->
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

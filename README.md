@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Live from Belgrade](http://9gag.com/gag/a7op4qb)
+ - 😝 [That&#39;s one way to get method acting results.](http://9gag.com/gag/aW4Dwv3)
  - 😝 [Sundress season rules.](http://9gag.com/gag/aQzO0jd)
- - 💣 [The state of World of Warcraft](http://9gag.com/gag/awyYRMB)
- - 😝 [Well that was unexpected](http://9gag.com/gag/a87KBwQ)
- - 👉 [Jeff Bezos wedding in Venice, Italy](http://9gag.com/gag/a2vLBrp)<!-- MEMES:END -->
+ - 💣 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)
+ - 😝 [When you wanted equal treatment](http://9gag.com/gag/aNDOxzG)
+ - 👉 [The cat is safe, the cabinet is not.](http://9gag.com/gag/a5QqmMN)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Senate votes 99-1 to remove a Trump tax bill provision that would have barred states from regulating AI if they got funding from a $500M broadband program &lpar;Bloomberg&rpar;](http://www.techmeme.com/250701/p3#a250701p3)
  - [An interview with Claude AI product lead Scott White on Claude Code writing 90% of its own code, MCP, coding being accessible to non-technical workers, and more &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/250701/p2#a250701p2)
  - [Today&#39;s NYT Mini Crossword Answers for Tuesday, July 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-july-1/#ftag=CAD590a51e)
  - [20% VistaPrint Coupon &amp; Promo Codes | July 2025](https://www.wired.com/story/vistaprint-coupon-code/)
- - [Q&amp;A with Matt Mullenweg on licensing deals with AI companies, putting Tumblr&#39;s backend migration to WordPress &quot;on hold&quot;, fediverse, content moderation, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250701/p1#a250701p1)
- - [How to use a spare keyboard or numpad as a macropad in macOS](https://appleinsider.com/inside/macos/tips/how-to-use-a-spare-keyboard-or-numpad-as-a-macropad-in-macos?utm_medium=rss)<!-- TECH:END -->
+ - [Q&amp;A with Matt Mullenweg on licensing deals with AI companies, putting Tumblr&#39;s backend migration to WordPress &quot;on hold&quot;, fediverse, content moderation, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/250701/p1#a250701p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

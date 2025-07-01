@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [These guys sure enjoy their jobs](http://9gag.com/gag/ajPWb6R)
- - 😝 [Preparation is keyes](http://9gag.com/gag/avydYXM)
- - 💣 [That forbidden frequency hits different.](http://9gag.com/gag/a6ZjPN9)
- - 😝 [An incredibly close encounter with a mother bear and her cubs on the beach](http://9gag.com/gag/aE0O30K)
- - 👉 [The cat is safe, the cabinet is not.](http://9gag.com/gag/a5QqmMN)<!-- MEMES:END -->
+ - 😝 [Peak male content](http://9gag.com/gag/aGyOWQK)
+ - 😝 [How to tame your dragon irl](http://9gag.com/gag/avydNY5)
+ - 💣 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)
+ - 😝 [Making memories on the console.](http://9gag.com/gag/ae97vwv)
+ - 👉 [Real friends](http://9gag.com/gag/aLndYmg)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple accuses ex-engineer of stealing details of unreleased Apple Vision Pro features](https://appleinsider.com/articles/25/07/01/apple-accuses-ex-engineer-of-stealing-details-of-unreleased-apple-vision-pro-features?utm_medium=rss)
- - [Huawei open sources its 7B and 72B Pangu AI models, and some of its model reasoning tech, to incentivize the use of Huawei products like its Ascend AI chips &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250701/p7#a250701p7)
- - [How to Use Markdown](https://www.wired.com/story/how-to-use-markdown/)
- - [7 Best Streaming Devices for TVs &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-4k-streaming-devices/)
- - [Cloudflare debuts &quot;Pay per Crawl&quot;, a marketplace that lets sites charge AI crawlers per crawl; new sites using Cloudflare will now block AI crawlers by default &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250701/p6#a250701p6)<!-- TECH:END -->
+ - [Filing: Apple sues Di Liu, a former senior product designer who worked on the Vision Pro, for allegedly stealing trade secrets and taking them to Snap &lpar;Ethan Baron/SiliconValley.com&rpar;](http://www.techmeme.com/250701/p8#a250701p8)
+ - [Brazil wants its piece of the App Store anti-competition fines Apple faces worldwide](https://appleinsider.com/articles/25/07/01/brazil-wants-its-piece-of-the-app-store-anti-competition-fines-apple-faces-worldwide?utm_medium=rss)
+ - [Newark’s air traffic outages were just the tip of the iceberg](https://www.theverge.com/planes/693562/newark-air-traffic-outages-faa-obsolete-tech)
+ - [Amazon Busted Down My Gate and Refused to Pay. The Device Would Have Saved Me $500](https://www.cnet.com/news/amazon-busted-down-my-gate-and-refused-to-pay-this-device-could-have-saved-me-500/#ftag=CAD590a51e)
+ - [Apple Should Steal These Galaxy S25 Edge Features for a Thin iPhone](https://www.cnet.com/tech/mobile/apple-should-steal-these-galaxy-s25-edge-features-for-a-thin-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

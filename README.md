@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [10 mins with no engines and made safe landing in Jakarta](http://9gag.com/gag/a1mEGe6)
- - 😝 [The ongoing debate about tipping culture and fair wages in the service industry.](http://9gag.com/gag/apRVKBb)
- - 💣 [You didn&#39;t asked for this](http://9gag.com/gag/aO8RX52)
+ - 😝 [Fastball with dirt](http://9gag.com/gag/aGyOP0w)
+ - 😝 [Jeff Bezos wedding in Venice, Italy](http://9gag.com/gag/a2vLBrp)
+ - 💣 [These guys sure enjoy their jobs](http://9gag.com/gag/ajPWb6R)
  - 😝 [Back in 2008, Facebook used to look like this.](http://9gag.com/gag/aBy49Y1)
- - 👉 [First date with a plus one security detail](http://9gag.com/gag/ayNYy1Y)<!-- MEMES:END -->
+ - 👉 [A legendary final meal](http://9gag.com/gag/aRBO5jy)<!-- MEMES:END -->
 
 ---
 

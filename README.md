@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe stick to regular basketball for now](http://9gag.com/gag/an7rLAo)
- - 😝 [Good](http://9gag.com/gag/a6ZjWpA)
- - 💣 [The cat is safe, the cabinet is not.](http://9gag.com/gag/a5QqmMN)
+ - 😝 [Fastball with dirt](http://9gag.com/gag/aGyOP0w)
+ - 😝 [Poor girl lol](http://9gag.com/gag/a1mEz28)
+ - 💣 [Live from Belgrade](http://9gag.com/gag/a7op4qb)
  - 😝 [A reunion nobody expected](http://9gag.com/gag/azxY00B)
  - 👉 [Back in 2008, Facebook used to look like this.](http://9gag.com/gag/aBy49Y1)<!-- MEMES:END -->
 

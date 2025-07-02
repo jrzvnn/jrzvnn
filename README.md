@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google ends its Recipe Quick View pilot, which showed full recipes directly in search results, after some bloggers feared it would reduce traffic to their sites &lpar;Bloomberg&rpar;](http://www.techmeme.com/250702/p1#a250702p1)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, July 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-july-2/#ftag=CAD590a51e)
  - [Sources: Intel is considering ending marketing of its 18A process to new clients and writing off investments, focusing instead on 14A to compete with TSMC &lpar;Reuters&rpar;](http://www.techmeme.com/250701/p30#a250701p30)
  - [How to use search and other features in the iOS 18 Journal app](https://appleinsider.com/inside/ios-18/tips/how-to-use-search-and-other-new-features-in-the-ios-18-journal-app?utm_medium=rss)
- - [Computer science programs at Carnegie Mellon and other US universities are rethinking how to incorporate AI into curricula, including a focus on AI literacy &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/250701/p29#a250701p29)
- - [Sources: the FTC has opened an in-depth investigation of SoftBank&#39;s $6.5B acquisition of Ampere, which could take a year or more to conclude &lpar;Bloomberg Law&rpar;](http://www.techmeme.com/250701/p28#a250701p28)
- - [What Happens to Your Brain When You Use ChatGPT? Scientists Took a Look](https://www.cnet.com/tech/services-and-software/what-happens-to-your-brain-when-you-use-chatgpt-scientists-took-a-look/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Computer science programs at Carnegie Mellon and other US universities are rethinking how to incorporate AI into curricula, including a focus on AI literacy &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/250701/p29#a250701p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

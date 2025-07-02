@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Impossi-bruh\u2026](http://9gag.com/gag/a4Pw4nA)
  - 😝 [Listen up](http://9gag.com/gag/azx4gQb)
- - 💣 [The surprisingly small contact point between a train wheel and the rail.](http://9gag.com/gag/aW4DVr6)
- - 😝 [Definitely saw her somewhere else](http://9gag.com/gag/aGyOPD5)
- - 👉 [Now you are gey](http://9gag.com/gag/amopDDo)<!-- MEMES:END -->
+ - 😝 [McDonald&#39;s management has had enough.](http://9gag.com/gag/aNDjr4v)
+ - 💣 [So talented actress they didn&#39;t even use the stunt double](http://9gag.com/gag/aAyvB2g)
+ - 😝 [Upgrades, people, upgrades](http://9gag.com/gag/aVvRz5O)
+ - 👉 [Unexpected apology for a past road incident](http://9gag.com/gag/a4Pw4K1)<!-- MEMES:END -->
 
 ---
 

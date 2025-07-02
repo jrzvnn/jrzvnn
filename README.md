@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [These bulbs are very dim](http://9gag.com/gag/aGyO3A5)
- - 😝 [\ud83c\uddf0\ud83c\uddf5 North Korea through a hidden lens. Watch closely](http://9gag.com/gag/aGyO3dn)
- - 💣 [The cat is safe, the cabinet is not.](http://9gag.com/gag/a5QqmMN)
+ - 😝 [Live from Belgrade](http://9gag.com/gag/a7op4qb)
  - 😝 [First date with a plus one security detail](http://9gag.com/gag/ayNYy1Y)
+ - 💣 [A reunion nobody expected](http://9gag.com/gag/azxY00B)
+ - 😝 [Fastball with dirt](http://9gag.com/gag/aGyOP0w)
  - 👉 [Back in 2008, Facebook used to look like this.](http://9gag.com/gag/aBy49Y1)<!-- MEMES:END -->
 
 ---

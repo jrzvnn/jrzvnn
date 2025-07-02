@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lorde’s new CD is so transparent that stereos can’t even read it](https://www.theverge.com/news/696805/lorde-virgin-album-transparent-cd-wont-play)
- - [TikTok users are posting AI-generated videos, seemingly made with Google&#39;s Veo 3, depicting racist and antisemitic tropes that have garnered millions of views &lpar;Abbie Richards/Media Matters for America&rpar;](http://www.techmeme.com/250702/p20#a250702p20)
- - [ICEBlock, an app for reporting sightings of ICE officials, was the top free app in the US App Store on Tuesday; the app claims to collect no personal data &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250702/p19#a250702p19)
- - [Qantas Breach Comprises Data of Up to 6 Million Customers](https://www.cnet.com/tech/services-and-software/qantas-breach-comprises-data-of-up-to-6-million-customers/#ftag=CAD590a51e)
- - [Jurassic World Rebirth needs some more time in the incubator](https://www.theverge.com/movie-reviews/695918/jurassic-world-rebirth-review)<!-- TECH:END -->
+ - [New Vietnam trade deal means Apple will pay at least five times more in tariffs](https://appleinsider.com/articles/25/07/02/new-vietnam-trade-deal-means-apple-will-pay-at-least-five-times-more-in-tariffs?utm_medium=rss)
+ - [North Korean hackers use Mac malware to target crypto firms](https://appleinsider.com/articles/25/07/02/north-korean-hackers-use-mac-malware-to-target-crypto-firms?utm_medium=rss)
+ - [Microsoft cancels its Perfect Dark and Everwild Xbox games](https://www.theverge.com/news/696877/xbox-perfect-dark-everwild-cancelled-the-initiative-layoffs)
+ - [Microsoft&amp;#8217;s Forza Motorsport developer hit hard by Xbox cuts](https://www.theverge.com/news/696676/microsoft-forza-motorsport-turn-10-studios-layoffs-xbox-cuts)
+ - [OLED MacBook Pro still expected for 2026, possibly with Samsung&#39;s help](https://appleinsider.com/articles/25/07/02/oled-macbook-pro-still-expected-for-2026-possibly-with-samsungs-help?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

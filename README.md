@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [These bulbs are very dim](http://9gag.com/gag/aGyO3A5)
- - 😝 [Now you are gey](http://9gag.com/gag/amopDDo)
- - 💣 [All kinds of music you say?](http://9gag.com/gag/aoyYBOA)
- - 😝 [Kids toys used to be absolutely wild, can you imagine this today?](http://9gag.com/gag/agmERD1)
- - 👉 [First date with a plus one security detail](http://9gag.com/gag/ayNYy1Y)<!-- MEMES:END -->
+ - 😝 [Get woke, go broke.](http://9gag.com/gag/awyYqyr)
+ - 😝 [Peak bathroom design](http://9gag.com/gag/aBy499O)
+ - 💣 [Riding through the parade with style](http://9gag.com/gag/a34bo18)
+ - 😝 [Definitely saw her somewhere else](http://9gag.com/gag/aGyOPD5)
+ - 👉 [Good](http://9gag.com/gag/a6ZjWpA)<!-- MEMES:END -->
 
 ---
 

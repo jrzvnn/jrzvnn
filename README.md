@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Messages iOS 26 vs iOS 18: Playful, useful changes](https://appleinsider.com/inside/ios-26/vs/messages-ios-26-vs-ios-18-playful-useful-changes?utm_medium=rss)
  - [Insurers Aren’t Saying Whether They’ll Cover Vaccines for Kids if Government Stops Recommending Them](https://www.wired.com/story/insurers-wont-say-if-theyll-pay-for-childhood-vaccines-dropped-from-recommended-schedule/)
  - [ICE-tracking app tops App Store](https://www.theverge.com/news/696584/iceblock-tracking-app-white-house-criticism)
  - [Tax credits for Intel, TSMC, and other chip companies under the Big Beautiful Bill rise from 25% to 35% if they expand their manufacturing in the US before 2026 &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250702/p16#a250702p16)
- - [Jabra Enhance Select 50R Review: Palatable Price](https://www.wired.com/review/jabra-enhance-select-50r/)
- - [Nuki’s Smart Lock is a better retrofit door lock](https://www.theverge.com/smart-home-review/695965/nuki-smart-lock-review)<!-- TECH:END -->
+ - [Jabra Enhance Select 50R Review: Palatable Price](https://www.wired.com/review/jabra-enhance-select-50r/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Get woke, go broke.](http://9gag.com/gag/awyYqyr)
  - 😝 [Peak bathroom design](http://9gag.com/gag/aBy499O)
- - 💣 [Riding through the parade with style](http://9gag.com/gag/a34bo18)
- - 😝 [Definitely saw her somewhere else](http://9gag.com/gag/aGyOPD5)
- - 👉 [Good](http://9gag.com/gag/a6ZjWpA)<!-- MEMES:END -->
+ - 😝 [This is EXACTLY how it happened.](http://9gag.com/gag/aZZzAOX)
+ - 💣 [Definitely saw her somewhere else](http://9gag.com/gag/aGyOPD5)
+ - 😝 [Fellow pupil](http://9gag.com/gag/aAyvR1g)
+ - 👉 [Get woke, go broke.](http://9gag.com/gag/awyYqyr)<!-- MEMES:END -->
 
 ---
 

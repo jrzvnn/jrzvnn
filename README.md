@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All kinds of music you say?](http://9gag.com/gag/aoyYBOA)
- - 😝 [AI won&#39;t take this job](http://9gag.com/gag/aVvRzmv)
- - 💣 [Definitely saw her somewhere else](http://9gag.com/gag/aGyOPD5)
  - 😝 [Fellow pupil](http://9gag.com/gag/aAyvR1g)
- - 👉 [Bro will spend the rest of his life trying to find that taste again](http://9gag.com/gag/aXPRboP)<!-- MEMES:END -->
+ - 😝 [Fastball with dirt](http://9gag.com/gag/aGyOP0w)
+ - 💣 [Kids toys used to be absolutely wild, can you imagine this today?](http://9gag.com/gag/agmERD1)
+ - 😝 [Riding through the parade with style](http://9gag.com/gag/a34bo18)
+ - 👉 [Geez, another woman who doesn\u2019t know any better. What are the odds ?](http://9gag.com/gag/aBy4RdN)<!-- MEMES:END -->
 
 ---
 

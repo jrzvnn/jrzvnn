@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [These bulbs are very dim](http://9gag.com/gag/aGyO3A5)
- - 😝 [The state of World of Warcraft](http://9gag.com/gag/awyYRMB)
+ - 😝 [Fastball with dirt](http://9gag.com/gag/aGyOP0w)
  - 💣 [Get woke, go broke.](http://9gag.com/gag/awyYqyr)
  - 😝 [\u201cIs that a movie\u2026? No, it\u2019s Royal Kingdom\u201d.](http://9gag.com/gag/awyeNZQ)
- - 👉 [Bad scientist doing bad science](http://9gag.com/gag/aqyY3wp)<!-- MEMES:END -->
+ - 👉 [Live from Belgrade](http://9gag.com/gag/a7op4qb)<!-- MEMES:END -->
 
 ---
 

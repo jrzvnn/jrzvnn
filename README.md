@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok lays off workers from the US division of TikTok Shop, the third round of layoffs for the team since April, after a year of missing internal sales targets &lpar;Bloomberg&rpar;](http://www.techmeme.com/250702/p21#a250702p21)
  - [New Vietnam trade deal means Apple will pay at least five times more in tariffs](https://appleinsider.com/articles/25/07/02/new-vietnam-trade-deal-means-apple-will-pay-at-least-five-times-more-in-tariffs?utm_medium=rss)
+ - [Xbox Hit With Layoffs and Game Cancelations as Microsoft Cuts 9,000 Jobs](https://www.wired.com/story/layoffs-game-cancelations-hit-xbox-as-microsoft-cuts-9000-jobs/)
  - [North Korean hackers use Mac malware to target crypto firms](https://appleinsider.com/articles/25/07/02/north-korean-hackers-use-mac-malware-to-target-crypto-firms?utm_medium=rss)
- - [Microsoft cancels its Perfect Dark and Everwild Xbox games](https://www.theverge.com/news/696877/xbox-perfect-dark-everwild-cancelled-the-initiative-layoffs)
- - [Microsoft&amp;#8217;s Forza Motorsport developer hit hard by Xbox cuts](https://www.theverge.com/news/696676/microsoft-forza-motorsport-turn-10-studios-layoffs-xbox-cuts)
- - [OLED MacBook Pro still expected for 2026, possibly with Samsung&#39;s help](https://appleinsider.com/articles/25/07/02/oled-macbook-pro-still-expected-for-2026-possibly-with-samsungs-help?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft cancels its Perfect Dark and Everwild Xbox games](https://www.theverge.com/news/696877/xbox-perfect-dark-everwild-cancelled-the-initiative-layoffs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

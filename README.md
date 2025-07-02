@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Always stay sober in Thailand boys](http://9gag.com/gag/aW4RBbK)
- - 😝 [Fellow horse herder...](http://9gag.com/gag/aRBR6Xq)
- - 💣 [My ring is working overtime absorbing negative energy](http://9gag.com/gag/aE0OerO)
+ - 😝 [Poor girl lol](http://9gag.com/gag/a1mEz28)
+ - 😝 [Bad scientist doing bad science](http://9gag.com/gag/aqyY3wp)
+ - 💣 [A legendary final meal](http://9gag.com/gag/aRBO5jy)
  - 😝 [\u201cIs that a movie\u2026? No, it\u2019s Royal Kingdom\u201d.](http://9gag.com/gag/awyeNZQ)
- - 👉 [Totally safe roller coaster](http://9gag.com/gag/an7GeV0)<!-- MEMES:END -->
+ - 👉 [Fastball with dirt](http://9gag.com/gag/aGyOP0w)<!-- MEMES:END -->
 
 ---
 

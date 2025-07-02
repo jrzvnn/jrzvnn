@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Photos sees several app improvements](https://www.theverge.com/news/696480/google-photos-sees-several-app-improvements)
  - [iPhone owners emailed to apply for Siri privacy lawsuit&#39;s $95M settlement](https://appleinsider.com/articles/25/05/04/iphone-owners-emailed-to-apply-for-siri-privacy-lawsuits-95m-settlement?utm_medium=rss)
  - [Foxconn mysteriously tells Chinese workers to quit India and return to China](https://appleinsider.com/articles/25/07/02/foxconn-mysteriously-tells-chinese-workers-to-quit-india-and-return-to-china?utm_medium=rss)
  - [Sources: Apple supplier Luxshare is working with Goldman Sachs and others on a Hong Kong IPO that could happen as soon as this year, aiming to raise over $1B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250702/p12#a250702p12)
- - [These Transcribing Eyeglasses Put Subtitles on the World](https://www.wired.com/story/these-translating-ai-glasses-put-subtitles-on-the-world/)
- - [Livestream Replay: Beginner Advice for Claude, a ChatGPT Alternative](https://www.wired.com/story/subscriber-only-livestream-replay-chatbot-basics-beginner-advice-for-claude/)<!-- TECH:END -->
+ - [How to Watch England vs. India From Anywhere for Free: Livestream 2nd Test Cricket](https://www.cnet.com/tech/services-and-software/how-to-watch-england-vs-india-from-anywhere-for-free-livestream-2nd-test-cricket/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

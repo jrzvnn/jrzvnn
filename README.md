@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peak bathroom design](http://9gag.com/gag/aBy499O)
- - 😝 [This is EXACTLY how it happened.](http://9gag.com/gag/aZZzAOX)
- - 💣 [Definitely saw her somewhere else](http://9gag.com/gag/aGyOPD5)
- - 😝 [Fellow pupil](http://9gag.com/gag/aAyvR1g)
- - 👉 [Get woke, go broke.](http://9gag.com/gag/awyYqyr)<!-- MEMES:END -->
+ - 😝 [Fellow horse herder...](http://9gag.com/gag/aRBR6Xq)
+ - 😝 [The ongoing debate about tipping culture and fair wages in the service industry.](http://9gag.com/gag/apRVKBb)
+ - 💣 [Your favorite demon pastor](http://9gag.com/gag/a4PwK9Z)
+ - 😝 [Now you are gey](http://9gag.com/gag/amopDDo)
+ - 👉 [Can relate](http://9gag.com/gag/aBy49yP)<!-- MEMES:END -->
 
 ---
 

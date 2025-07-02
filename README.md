@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [For Today&#39;s Business Traveler, It&#39;s All About Work-Life Integration](https://www.wired.com/story/business-travel-work-life-balance-integration/)
+ - [Berlin-based Talon.One, which provides software for brands to run personalized promotions and loyalty schemes, raised $135M &lpar;Freya Pratty/Sifted&rpar;](http://www.techmeme.com/250702/p17#a250702p17)
  - [Affluent Travelers Are Ditching Business Class for Business Jets](https://www.wired.com/story/business-travelers-private-jet-boom/)
+ - [For Today&#39;s Business Traveler, It&#39;s All About Work-Life Integration](https://www.wired.com/story/business-travel-work-life-balance-integration/)
  - [Airport Lounges Are Sexy Again—if You Can Get In](https://www.wired.com/story/the-evolution-of-the-airport-lounge/)
- - [Microsoft is laying off as many as 9,000 employees](https://www.theverge.com/news/693535/microsoft-layoffs-july-2025-xbox)
- - [Messages iOS 26 vs iOS 18: Playful, useful changes](https://appleinsider.com/inside/ios-26/vs/messages-ios-26-vs-ios-18-playful-useful-changes?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft is laying off as many as 9,000 employees](https://www.theverge.com/news/693535/microsoft-layoffs-july-2025-xbox)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

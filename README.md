@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [First date with a plus one security detail](http://9gag.com/gag/ayNYy1Y)
- - 😝 [That 80s energy is unmatched](http://9gag.com/gag/awye0OQ)
- - 💣 [Bro will spend the rest of his life trying to find that taste again](http://9gag.com/gag/aXPRboP)
- - 😝 [Fellow pupil](http://9gag.com/gag/aAyvR1g)
- - 👉 [AI won&#39;t take this job](http://9gag.com/gag/aVvRzmv)<!-- MEMES:END -->
+ - 😝 [Bro will spend the rest of his life trying to find that taste again](http://9gag.com/gag/aXPRboP)
+ - 😝 [So dumb and stupid...who would design a revolving door like that?!](http://9gag.com/gag/aRBR68Q)
+ - 💣 [Recycling](http://9gag.com/gag/a34NYBQ)
+ - 😝 [All kinds of music you say?](http://9gag.com/gag/aoyYBOA)
+ - 👉 [Good riddance. As an owner this pissed me off completely. Like they spat in my face.](http://9gag.com/gag/a6ZGmYA)<!-- MEMES:END -->
 
 ---
 

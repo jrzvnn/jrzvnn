@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro will spend the rest of his life trying to find that taste again](http://9gag.com/gag/aXPRboP)
- - 😝 [So dumb and stupid...who would design a revolving door like that?!](http://9gag.com/gag/aRBR68Q)
- - 💣 [Recycling](http://9gag.com/gag/a34NYBQ)
- - 😝 [All kinds of music you say?](http://9gag.com/gag/aoyYBOA)
- - 👉 [Good riddance. As an owner this pissed me off completely. Like they spat in my face.](http://9gag.com/gag/a6ZGmYA)<!-- MEMES:END -->
+ - 😝 [Doraemon live action](http://9gag.com/gag/ary8pbX)
+ - 😝 [BANGER!](http://9gag.com/gag/ayNv568)
+ - 💣 [Unexpected apology for a past road incident](http://9gag.com/gag/a4Pw4K1)
+ - 😝 [The ongoing debate about tipping culture and fair wages in the service industry.](http://9gag.com/gag/apRVKBb)
+ - 👉 [Can relate](http://9gag.com/gag/aBy49yP)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Definitely saw her somewhere else](http://9gag.com/gag/aGyOPD5)
- - 😝 [Jeff Bezos wedding in Venice, Italy](http://9gag.com/gag/a2vLBrp)
- - 💣 [Delusion](http://9gag.com/gag/aByOD3N)
- - 😝 [Kids toys used to be absolutely wild, can you imagine this today?](http://9gag.com/gag/agmERD1)
+ - 😝 [Delusion](http://9gag.com/gag/aByOD3N)
+ - 😝 [Michael VS Jackson](http://9gag.com/gag/aXPKDB9)
+ - 💣 [\ud83c\uddf0\ud83c\uddf5 North Korea through a hidden lens. Watch closely](http://9gag.com/gag/aGyO3dn)
+ - 😝 [Someone please build this website immediately.](http://9gag.com/gag/aO8RXw6)
  - 👉 [Back in 2008, Facebook used to look like this.](http://9gag.com/gag/aBy49Y1)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Recycling](http://9gag.com/gag/a34NYBQ)
- - 😝 [Good](http://9gag.com/gag/a6ZjWpA)
- - 💣 [THIS IS SPARTA](http://9gag.com/gag/ayNv728)
- - 😝 [AI won&#39;t take this job](http://9gag.com/gag/aVvRzmv)
- - 👉 [Fastball with dirt](http://9gag.com/gag/aGyOP0w)<!-- MEMES:END -->
+ - 😝 [Fellow horse herder...](http://9gag.com/gag/aRBR6Xq)
+ - 😝 [Riding through the parade with style](http://9gag.com/gag/a34bo18)
+ - 💣 [First date with a plus one security detail](http://9gag.com/gag/ayNYy1Y)
+ - 😝 [Any math professor here?](http://9gag.com/gag/aAyOnpo)
+ - 👉 [Now you are gey](http://9gag.com/gag/amopDDo)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft cuts hundreds of Xbox jobs across studios, sources say including Halo Studios and King, and cancels games like Perfect Dark and Everwild &lpar;Eddie Makuch/GameSpot&rpar;](http://www.techmeme.com/250702/p26#a250702p26)
- - [Sources: Netflix has held talks with Spotify about partnering on projects such as a music awards show, as it adds content that was core to the cable bundle &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/250702/p25#a250702p25)
- - [Reminders iOS 26 vs iOS 18: Liquid Glass, Apple Intelligence, and new Lists](https://appleinsider.com/inside/ios-26/vs/reminders-ios-26-vs-ios-18-liquid-glass-apple-intelligence-and-new-lists?utm_medium=rss)
- - [How Nintendo locked down the Switch 2’s USB-C port and broke third-party docking](https://www.theverge.com/report/695915/switch-2-usb-c-third-party-docks-dont-work-authentication-encryption)
- - [You Can Still See the Aurora Borealis Tonight. Here&#39;s Where the Brightest Lights Will Glow](https://www.cnet.com/science/space/you-can-still-see-the-aurora-borealis-tonight-heres-where-the-brightest-lights-will-glow/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Prepare to Share All Your Pics With Meta If You Turn On Facebook&#39;s New AI Photo Tool](https://www.cnet.com/tech/services-and-software/prepare-to-share-all-your-pics-with-meta-if-you-turn-on-facebooks-new-ai-photo-tool/#ftag=CAD590a51e)
+ - [Google’s fix for Pixel 6A battery overheating issues arrives next week](https://www.theverge.com/news/697103/google-android16-update-pixel-6a-battery-overheating-fix-july-8)
+ - [Ripple has applied for a national banking license, which would place Ripple&#39;s dollar-backed stablecoin, RLUSD, under the US OCC&#39;s regulatory remit &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/250702/p27#a250702p27)
+ - [Here&#39;s When to See July&#39;s Spectacular Buck Moon, Along With Mars and Venus](https://www.cnet.com/science/space/heres-when-to-see-julys-buck-moon-along-with-mars-and-venus/#ftag=CAD590a51e)
+ - [Xbox hit hard with layoffs: from cancelled games to a shuttered studio](https://www.theverge.com/news/697125/microsoft-xbox-layoffs-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

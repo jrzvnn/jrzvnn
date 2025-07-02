@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Netflix has held talks with Spotify about partnering on projects such as a music awards show, as it adds content that was core to the cable bundle &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/250702/p25#a250702p25)
+ - [Reminders iOS 26 vs iOS 18: Liquid Glass, Apple Intelligence, and new Lists](https://appleinsider.com/inside/ios-26/vs/reminders-ios-26-vs-ios-18-liquid-glass-apple-intelligence-and-new-lists?utm_medium=rss)
  - [How Nintendo locked down the Switch 2’s USB-C port and broke third-party docking](https://www.theverge.com/report/695915/switch-2-usb-c-third-party-docks-dont-work-authentication-encryption)
  - [You Can Still See the Aurora Borealis Tonight. Here&#39;s Where the Brightest Lights Will Glow](https://www.cnet.com/science/space/you-can-still-see-the-aurora-borealis-tonight-heres-where-the-brightest-lights-will-glow/#ftag=CAD590a51e)
- - [Phil Spencer isn’t retiring as the chief of Xbox ‘anytime soon’](https://www.theverge.com/news/696922/phil-spencer-xbox-microsoft-gaming-retiring)
- - [Zelle needs to fix &amp;#8216;significant scams and fraud,&amp;#8217; lawmakers say](https://www.theverge.com/news/696786/lawmakers-warren-blumenthal-zelle-scams-bank-letters)
- - [Early Prime Day sale: Save up to $300 on M4 iPad Pro, get Beats Solo 4 for $129](https://appleinsider.com/articles/25/07/02/early-prime-day-sale-save-up-to-300-on-m4-ipad-pro-get-beats-solo-4-for-129?utm_medium=rss)<!-- TECH:END -->
+ - [Phil Spencer isn’t retiring as the chief of Xbox ‘anytime soon’](https://www.theverge.com/news/696922/phil-spencer-xbox-microsoft-gaming-retiring)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

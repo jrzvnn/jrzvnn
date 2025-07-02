@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Doraemon live action](http://9gag.com/gag/ary8pbX)
- - 😝 [BANGER!](http://9gag.com/gag/ayNv568)
- - 💣 [Unexpected apology for a past road incident](http://9gag.com/gag/a4Pw4K1)
- - 😝 [The ongoing debate about tipping culture and fair wages in the service industry.](http://9gag.com/gag/apRVKBb)
- - 👉 [Can relate](http://9gag.com/gag/aBy49yP)<!-- MEMES:END -->
+ - 😝 [Just a normal day swimming in the Pokemon world](http://9gag.com/gag/amoRNOd)
+ - 😝 [AI won&#39;t take this job](http://9gag.com/gag/aVvRzmv)
+ - 💣 [Bro will spend the rest of his life trying to find that taste again](http://9gag.com/gag/aXPRboP)
+ - 😝 [Good riddance. As an owner this pissed me off completely. Like they spat in my face.](http://9gag.com/gag/a6ZGmYA)
+ - 👉 [Fellow pupil](http://9gag.com/gag/aAyvR1g)<!-- MEMES:END -->
 
 ---
 

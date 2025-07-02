@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Vietnam trade deal means Apple will pay at least five times more in tariffs](https://appleinsider.com/articles/25/07/02/new-vietnam-trade-deal-means-apple-will-pay-at-least-five-times-more-in-tariffs?utm_medium=rss)
- - [TikTok lays off workers from the US division of TikTok Shop, the third round of layoffs for the team since April, after a year of missing internal sales targets &lpar;Bloomberg&rpar;](http://www.techmeme.com/250702/p21#a250702p21)
- - [Xbox Hit With Layoffs and Game Cancelations as Microsoft Cuts 9,000 Jobs](https://www.wired.com/story/layoffs-game-cancelations-hit-xbox-as-microsoft-cuts-9000-jobs/)
- - [Microsoft Is Erasing Your Passwords Next Month. Do This ASAP](https://www.cnet.com/tech/microsoft-is-erasing-your-passwords-next-month-do-this-asap/#ftag=CAD590a51e)
- - [Turn Off This Facebook Setting Now to Avoid Sharing Your Entire Camera Roll With Meta AI](https://www.cnet.com/tech/services-and-software/turn-off-this-facebook-setting-now-to-avoid-sharing-your-entire-camera-roll-with-meta-ai/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Last of Us co-creator Neil Druckmann is stepping back from the HBO show](https://www.theverge.com/news/696939/the-last-of-us-co-creator-neil-druckmann-is-stepping-back)
+ - [MacBook with A18 Pro first appeared in macOS 15 code](https://appleinsider.com/articles/25/06/30/macbook-with-a18-pro-first-appeared-in-macos-15-code?utm_medium=rss)
+ - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [A Group of Young Cybercriminals Poses the ‘Most Imminent Threat’ of Cyberattacks Right Now](https://www.wired.com/story/scattered-spider-most-imminent-threat/)
+ - [51 Best Early Amazon Prime Day Deals on Products We&#39;ve Tested &lpar;2025&rpar;](https://www.wired.com/story/best-early-amazon-prime-day-deals-2025-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Delusion](http://9gag.com/gag/aByOD3N)
- - 😝 [Michael VS Jackson](http://9gag.com/gag/aXPKDB9)
- - 💣 [\ud83c\uddf0\ud83c\uddf5 North Korea through a hidden lens. Watch closely](http://9gag.com/gag/aGyO3dn)
- - 😝 [Someone please build this website immediately.](http://9gag.com/gag/aO8RXw6)
+ - 😝 [Fellow horse herder...](http://9gag.com/gag/aRBR6Xq)
+ - 😝 [Always stay sober in Thailand boys](http://9gag.com/gag/aW4RBbK)
+ - 💣 [My ring is working overtime absorbing negative energy](http://9gag.com/gag/aE0OerO)
+ - 😝 [Totally safe roller coaster](http://9gag.com/gag/an7GeV0)
  - 👉 [Back in 2008, Facebook used to look like this.](http://9gag.com/gag/aBy49Y1)<!-- MEMES:END -->
 
 ---

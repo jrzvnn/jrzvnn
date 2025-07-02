@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Listen up](http://9gag.com/gag/azx4gQb)
- - 😝 [Why is everything new a ripoff](http://9gag.com/gag/aqyD9WL)
- - 💣 [Unexpected apology for a past road incident](http://9gag.com/gag/a4Pw4K1)
- - 😝 [McDonald&#39;s management has had enough.](http://9gag.com/gag/aNDjr4v)
- - 👉 [Legend.](http://9gag.com/gag/aGy7KjG)<!-- MEMES:END -->
+ - 😝 [Recycling](http://9gag.com/gag/a34NYBQ)
+ - 😝 [Good](http://9gag.com/gag/a6ZjWpA)
+ - 💣 [THIS IS SPARTA](http://9gag.com/gag/ayNv728)
+ - 😝 [AI won&#39;t take this job](http://9gag.com/gag/aVvRzmv)
+ - 👉 [Fastball with dirt](http://9gag.com/gag/aGyOP0w)<!-- MEMES:END -->
 
 ---
 

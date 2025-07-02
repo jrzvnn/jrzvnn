@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use an iPad as a screen for the Nintendo Switch 2](https://appleinsider.com/inside/ipad/tips/how-to-use-an-ipad-as-a-screen-for-the-nintendo-switch-2?utm_medium=rss)
+ - [Blizzard is winding down support for its Warcraft mobile game](https://www.theverge.com/news/697128/warcraft-rumble-maintenance-mode-microsoft-layoffs)
+ - [OpenAI says the tokenized OpenAI shares Robinhood has started offering are not equity: &quot;We did not partner with Robinhood...and do not endorse it&quot; &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250702/p28#a250702p28)
  - [Prepare to Share All Your Pics With Meta If You Turn On Facebook&#39;s New AI Photo Tool](https://www.cnet.com/tech/services-and-software/prepare-to-share-all-your-pics-with-meta-if-you-turn-on-facebooks-new-ai-photo-tool/#ftag=CAD590a51e)
- - [Google’s fix for Pixel 6A battery overheating issues arrives next week](https://www.theverge.com/news/697103/google-android16-update-pixel-6a-battery-overheating-fix-july-8)
- - [Ripple has applied for a national banking license, which would place Ripple&#39;s dollar-backed stablecoin, RLUSD, under the US OCC&#39;s regulatory remit &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/250702/p27#a250702p27)
- - [Here&#39;s When to See July&#39;s Spectacular Buck Moon, Along With Mars and Venus](https://www.cnet.com/science/space/heres-when-to-see-julys-buck-moon-along-with-mars-and-venus/#ftag=CAD590a51e)
- - [Xbox hit hard with layoffs: from cancelled games to a shuttered studio](https://www.theverge.com/news/697125/microsoft-xbox-layoffs-2025)<!-- TECH:END -->
+ - [Google’s fix for Pixel 6A battery overheating issues arrives next week](https://www.theverge.com/news/697103/google-android16-update-pixel-6a-battery-overheating-fix-july-8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

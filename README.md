@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Michael VS Jackson](http://9gag.com/gag/aXPKDB9)
+ - 😝 [Definitely saw her somewhere else](http://9gag.com/gag/aGyOPD5)
+ - 💣 [Now you are gey](http://9gag.com/gag/amopDDo)
  - 😝 [THIS IS SPARTA](http://9gag.com/gag/ayNv728)
- - 😝 [All kinds of music you say?](http://9gag.com/gag/aoyYBOA)
- - 💣 [Peak bathroom design](http://9gag.com/gag/aBy499O)
- - 😝 [First date with a plus one security detail](http://9gag.com/gag/ayNYy1Y)
- - 👉 [Definitely saw her somewhere else](http://9gag.com/gag/aGyOPD5)<!-- MEMES:END -->
+ - 👉 [Recycling](http://9gag.com/gag/a34NYBQ)<!-- MEMES:END -->
 
 ---
 

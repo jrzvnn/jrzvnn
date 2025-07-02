@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft cuts hundreds of Xbox jobs across studios, sources say including Halo Studios and King, and cancels games like Perfect Dark and Everwild &lpar;Eddie Makuch/GameSpot&rpar;](http://www.techmeme.com/250702/p26#a250702p26)
  - [Sources: Netflix has held talks with Spotify about partnering on projects such as a music awards show, as it adds content that was core to the cable bundle &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/250702/p25#a250702p25)
  - [Reminders iOS 26 vs iOS 18: Liquid Glass, Apple Intelligence, and new Lists](https://appleinsider.com/inside/ios-26/vs/reminders-ios-26-vs-ios-18-liquid-glass-apple-intelligence-and-new-lists?utm_medium=rss)
  - [How Nintendo locked down the Switch 2’s USB-C port and broke third-party docking](https://www.theverge.com/report/695915/switch-2-usb-c-third-party-docks-dont-work-authentication-encryption)
- - [You Can Still See the Aurora Borealis Tonight. Here&#39;s Where the Brightest Lights Will Glow](https://www.cnet.com/science/space/you-can-still-see-the-aurora-borealis-tonight-heres-where-the-brightest-lights-will-glow/#ftag=CAD590a51e)
- - [Phil Spencer isn’t retiring as the chief of Xbox ‘anytime soon’](https://www.theverge.com/news/696922/phil-spencer-xbox-microsoft-gaming-retiring)<!-- TECH:END -->
+ - [You Can Still See the Aurora Borealis Tonight. Here&#39;s Where the Brightest Lights Will Glow](https://www.cnet.com/science/space/you-can-still-see-the-aurora-borealis-tonight-heres-where-the-brightest-lights-will-glow/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

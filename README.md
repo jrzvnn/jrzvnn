@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Intel is considering ending marketing of its 18A process to new clients and writing off investments, focusing instead on 14A to compete with TSMC &lpar;Reuters&rpar;](http://www.techmeme.com/250701/p30#a250701p30)
+ - [How to use search and other features in the iOS 18 Journal app](https://appleinsider.com/inside/ios-18/tips/how-to-use-search-and-other-new-features-in-the-ios-18-journal-app?utm_medium=rss)
  - [Computer science programs at Carnegie Mellon and other US universities are rethinking how to incorporate AI into curricula, including a focus on AI literacy &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/250701/p29#a250701p29)
  - [Sources: the FTC has opened an in-depth investigation of SoftBank&#39;s $6.5B acquisition of Ampere, which could take a year or more to conclude &lpar;Bloomberg Law&rpar;](http://www.techmeme.com/250701/p28#a250701p28)
- - [What Happens to Your Brain When You Use ChatGPT? Scientists Took a Look](https://www.cnet.com/tech/services-and-software/what-happens-to-your-brain-when-you-use-chatgpt-scientists-took-a-look/#ftag=CAD590a51e)
- - [Ambrook, a startup providing specialized accounting software for US farmers and ranchers, raised a $26.1M Series A led by Thrive Capital and Figma&#39;s Dylan Field &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250701/p27#a250701p27)
- - [The best robot vacuums we&amp;#8217;ve tested for 2025](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)<!-- TECH:END -->
+ - [What Happens to Your Brain When You Use ChatGPT? Scientists Took a Look](https://www.cnet.com/tech/services-and-software/what-happens-to-your-brain-when-you-use-chatgpt-scientists-took-a-look/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

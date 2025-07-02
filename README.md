@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [8 Best Pet Cameras &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-pet-cameras/)
- - [DJI Power 2000 review: Solid power delivery, not really what you&#39;d call portable](https://appleinsider.com/articles/25/07/02/dji-power-2000-review-solid-power-heavy-weight?utm_medium=rss)
- - [A report finds Google undercounted its carbon emissions, which rose 65% from 2019 to 2024, not 51% as claimed; biggest yearly jump was 26% between 2023 and 2024 &lpar;Johana Bhuiyan/The Guardian&rpar;](http://www.techmeme.com/250702/p13#a250702p13)
- - [Wooting 80HE Review: Pinnacle of Hall Effect Keyboards](https://www.wired.com/review/wooting-80he/)
- - [DJI gets serious about portable power](https://www.theverge.com/news/691111/dji-power-2000-station-price-date)<!-- TECH:END -->
+ - [Tesla reports 14 percent drop in second-quarter vehicle deliveries](https://www.theverge.com/news/696473/tesla-q2-2025-sales-report-decrease-elon-musk-robotaxi)
+ - [Microsoft is laying off as many as 9,000 employees](https://www.theverge.com/news/693535/microsoft-layoffs-july-2025-xbox)
+ - [Source: Microsoft plans to lay off ~9,000 employees, or less than 4% of its global workforce, across teams and role types, after cutting ~6,000 jobs in May &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250702/p15#a250702p15)
+ - [Business Class Ain’t What It Used to Be. Don’t Tell First Class](https://www.wired.com/story/business-class-gets-upgrade/)
+ - [Airplane Wi-Fi Is Now … Good?](https://www.wired.com/story/airplane-wifi-good-now/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

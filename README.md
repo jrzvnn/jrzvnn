@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Always stay sober in Thailand boys](http://9gag.com/gag/aW4RBbK)
- - 😝 [Fellow horse herder...](http://9gag.com/gag/aRBR6Xq)
- - 💣 [My ring is working overtime absorbing negative energy](http://9gag.com/gag/aE0OerO)
- - 😝 [I am going to hail for this..](http://9gag.com/gag/ajPW29q)
+ - 😝 [Poor girl lol](http://9gag.com/gag/a1mEz28)
+ - 😝 [The surprisingly small contact point between a train wheel and the rail.](http://9gag.com/gag/aW4DVr6)
+ - 💣 [Guys.... the dwarf is chasing you..](http://9gag.com/gag/aRBO5w2)
+ - 😝 [The cat is safe, the cabinet is not.](http://9gag.com/gag/a5QqmMN)
  - 👉 [Back in 2008, Facebook used to look like this.](http://9gag.com/gag/aBy49Y1)<!-- MEMES:END -->
 
 ---

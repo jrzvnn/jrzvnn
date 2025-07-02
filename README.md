@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Now you are gey](http://9gag.com/gag/amopDDo)
+ - 😝 [That 80s energy is unmatched](http://9gag.com/gag/awye0OQ)
+ - 💣 [Your favorite demon pastor](http://9gag.com/gag/a4PwK9Z)
  - 😝 [Just a normal day swimming in the Pokemon world](http://9gag.com/gag/amoRNOd)
- - 😝 [AI won&#39;t take this job](http://9gag.com/gag/aVvRzmv)
- - 💣 [Bro will spend the rest of his life trying to find that taste again](http://9gag.com/gag/aXPRboP)
- - 😝 [Good riddance. As an owner this pissed me off completely. Like they spat in my face.](http://9gag.com/gag/a6ZGmYA)
- - 👉 [Fellow pupil](http://9gag.com/gag/aAyvR1g)<!-- MEMES:END -->
+ - 👉 [Good riddance. As an owner this pissed me off completely. Like they spat in my face.](http://9gag.com/gag/a6ZGmYA)<!-- MEMES:END -->
 
 ---
 

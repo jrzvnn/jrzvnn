@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon is offering a like-new Kindle Paperwhite 2024 for just $107](https://www.theverge.com/tech/696906/kindle-paperwhite-refurbished-deal-sale)
+ - [Perplexity launches a $200/month Max plan with unlimited Labs access, early access to features like Comet browser, and priority use of models like o3-pro &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250702/p22#a250702p22)
+ - [Crunchyroll ran embarrassingly bad ChatGPT subtitles on its new anime series](https://www.theverge.com/ai-artificial-intelligence/696819/crunchyroll-ran-embarrassingly-bad-chatgpt-subtitles-on-its-new-anime-series)
  - [The Last of Us co-creator Neil Druckmann is stepping back from the HBO show](https://www.theverge.com/news/696939/the-last-of-us-co-creator-neil-druckmann-is-stepping-back)
- - [MacBook with A18 Pro first appeared in macOS 15 code](https://appleinsider.com/articles/25/06/30/macbook-with-a18-pro-first-appeared-in-macos-15-code?utm_medium=rss)
- - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [A Group of Young Cybercriminals Poses the ‘Most Imminent Threat’ of Cyberattacks Right Now](https://www.wired.com/story/scattered-spider-most-imminent-threat/)
- - [51 Best Early Amazon Prime Day Deals on Products We&#39;ve Tested &lpar;2025&rpar;](https://www.wired.com/story/best-early-amazon-prime-day-deals-2025-1/)<!-- TECH:END -->
+ - [MacBook with A18 Pro first appeared in macOS 15 code](https://appleinsider.com/articles/25/06/30/macbook-with-a18-pro-first-appeared-in-macos-15-code?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

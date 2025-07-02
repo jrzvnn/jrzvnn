@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Always stay sober in Thailand boys](http://9gag.com/gag/aW4RBbK)
- - 😝 [Fellow horse herder...](http://9gag.com/gag/aRBR6Xq)
- - 💣 [My ring is working overtime absorbing negative energy](http://9gag.com/gag/aE0OerO)
+ - 😝 [Fastball with dirt](http://9gag.com/gag/aGyOP0w)
+ - 😝 [First date with a plus one security detail](http://9gag.com/gag/ayNYy1Y)
+ - 💣 [Kids toys used to be absolutely wild, can you imagine this today?](http://9gag.com/gag/agmERD1)
  - 😝 [\u201cIs that a movie\u2026? No, it\u2019s Royal Kingdom\u201d.](http://9gag.com/gag/awyeNZQ)
- - 👉 [Totally safe roller coaster](http://9gag.com/gag/an7GeV0)<!-- MEMES:END -->
+ - 👉 [The surprisingly small contact point between a train wheel and the rail.](http://9gag.com/gag/aW4DVr6)<!-- MEMES:END -->
 
 ---
 

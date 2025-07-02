@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Listen up](http://9gag.com/gag/azx4gQb)
- - 😝 [Get woke, go broke.](http://9gag.com/gag/awyYqyr)
- - 💣 [Fastball with dirt](http://9gag.com/gag/aGyOP0w)
+ - 😝 [My ring is working overtime absorbing negative energy](http://9gag.com/gag/aE0OerO)
+ - 😝 [I am going to hail for this..](http://9gag.com/gag/ajPW29q)
+ - 💣 [Totally safe roller coaster](http://9gag.com/gag/an7GeV0)
  - 😝 [\u201cIs that a movie\u2026? No, it\u2019s Royal Kingdom\u201d.](http://9gag.com/gag/awyeNZQ)
- - 👉 [Good](http://9gag.com/gag/a6ZjWpA)<!-- MEMES:END -->
+ - 👉 [Upgrades, people, upgrades](http://9gag.com/gag/aVvRz5O)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone owners emailed to apply for Siri privacy lawsuit&#39;s $95M settlement](https://appleinsider.com/articles/25/05/04/iphone-owners-emailed-to-apply-for-siri-privacy-lawsuits-95m-settlement?utm_medium=rss)
+ - [Foxconn mysteriously tells Chinese workers to quit India and return to China](https://appleinsider.com/articles/25/07/02/foxconn-mysteriously-tells-chinese-workers-to-quit-india-and-return-to-china?utm_medium=rss)
  - [Sources: Apple supplier Luxshare is working with Goldman Sachs and others on a Hong Kong IPO that could happen as soon as this year, aiming to raise over $1B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250702/p12#a250702p12)
  - [These Transcribing Eyeglasses Put Subtitles on the World](https://www.wired.com/story/these-translating-ai-glasses-put-subtitles-on-the-world/)
- - [Livestream Replay: Beginner Advice for Claude, a ChatGPT Alternative](https://www.wired.com/story/subscriber-only-livestream-replay-chatbot-basics-beginner-advice-for-claude/)
- - [Sources: Foxconn recalled 300+ Chinese engineers from its Indian iPhone factories over the past two months, a blow for Apple as it ramps up iPhone 17 production &lpar;Bloomberg&rpar;](http://www.techmeme.com/250702/p11#a250702p11)
- - [AirTag 2 Rumors: New Leaks on Upcoming Features and Release Date](https://www.cnet.com/tech/mobile/airtag-2-rumors-leaks-news/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Livestream Replay: Beginner Advice for Claude, a ChatGPT Alternative](https://www.wired.com/story/subscriber-only-livestream-replay-chatbot-basics-beginner-advice-for-claude/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

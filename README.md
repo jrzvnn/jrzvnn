@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal emails and audits warn the Schengen Information System II, the system used by EU border forces, is rife with software and security vulnerabilities &lpar;Bloomberg&rpar;](http://www.techmeme.com/250702/p4#a250702p4)
+ - [VC firms Thrive Capital and General Catalyst are adopting the &quot;roll-up&quot; strategy from the PE playbook, as Khosla Ventures, 8VC, and others explore similar moves &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/250702/p5#a250702p5)
+ - [Internal emails and audit reports warn that the Schengen Information System II, used by EU border forces, is rife with software and security vulnerabilities &lpar;Bloomberg&rpar;](http://www.techmeme.com/250702/p4#a250702p4)
  - [20% Off HP Coupon Code | July 2025](https://www.wired.com/story/hp-coupon-code/)
  - [TikTok launches its e-commerce platform, TikTok Shop, in Japan, marking its 17th market, following launches in the US, the UK, Malaysia, Thailand, and others &lpar;Danielle Popov/South China Morning Post&rpar;](http://www.techmeme.com/250702/p3#a250702p3)
- - [Qantas discloses a data breach after hackers gained access to a third-party platform with personal data of 6M customers, but says no financial info was exposed &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250702/p2#a250702p2)
- - [Google ends its Recipe Quick View pilot, which showed full recipes directly in search results, after some bloggers feared it would reduce traffic to their sites &lpar;Bloomberg&rpar;](http://www.techmeme.com/250702/p1#a250702p1)<!-- TECH:END -->
+ - [Qantas discloses a data breach after hackers gained access to a third-party platform with personal data of 6M customers, but says no financial info was exposed &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250702/p2#a250702p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

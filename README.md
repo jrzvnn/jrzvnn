@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Listen up](http://9gag.com/gag/azx4gQb)
  - 😝 [Get woke, go broke.](http://9gag.com/gag/awyYqyr)
- - 😝 [Fastball with dirt](http://9gag.com/gag/aGyOP0w)
- - 💣 [All kinds of music you say?](http://9gag.com/gag/aoyYBOA)
+ - 💣 [Fastball with dirt](http://9gag.com/gag/aGyOP0w)
  - 😝 [\u201cIs that a movie\u2026? No, it\u2019s Royal Kingdom\u201d.](http://9gag.com/gag/awyeNZQ)
- - 👉 [Now you are gey](http://9gag.com/gag/amopDDo)<!-- MEMES:END -->
+ - 👉 [Good](http://9gag.com/gag/a6ZjWpA)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [23 Best MagSafe Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-accessories/)
- - [After years of rumors, Apple now has a production prototype iPhone fold](https://appleinsider.com/articles/25/07/02/after-years-of-rumors-apple-now-has-a-prototype-iphone-fold?utm_medium=rss)
- - [Qantas data breach exposes personal details of millions of customers](https://appleinsider.com/articles/25/07/02/qantas-data-breach-exposes-personal-details-of-millions-of-customers?utm_medium=rss)
- - [Tesla reports 14 percent drop in second-quarter vehicle deliveries](https://www.theverge.com/news/696473/tesla-q2-2025-sales-report-decrease-elon-musk-robotaxi)
- - [Microsoft is laying off as many as 9,000 employees](https://www.theverge.com/news/693535/microsoft-layoffs-july-2025-xbox)<!-- TECH:END -->
+ - [ICE-tracking app tops App Store](https://www.theverge.com/news/696584/iceblock-tracking-app-white-house-criticism)
+ - [Tax credits for Intel, TSMC, and other chip companies under the Big Beautiful Bill rise from 25% to 35% if they expand their manufacturing in the US before 2026 &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250702/p16#a250702p16)
+ - [Jabra Enhance Select 50R Review: Palatable Price](https://www.wired.com/review/jabra-enhance-select-50r/)
+ - [Nuki’s Smart Lock is a better retrofit door lock](https://www.theverge.com/smart-home-review/695965/nuki-smart-lock-review)
+ - [Apple&amp;#8217;s alien thriller Invasion is back for season 3 in August](https://www.theverge.com/news/696505/invasion-season-3-streaming-date-apple-tv-plus)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

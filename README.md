@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [These bulbs are very dim](http://9gag.com/gag/aGyO3A5)
- - 😝 [Fastball with dirt](http://9gag.com/gag/aGyOP0w)
- - 💣 [Get woke, go broke.](http://9gag.com/gag/awyYqyr)
+ - 😝 [Live from Belgrade](http://9gag.com/gag/a7op4qb)
+ - 💣 [Fastball with dirt](http://9gag.com/gag/aGyOP0w)
  - 😝 [\u201cIs that a movie\u2026? No, it\u2019s Royal Kingdom\u201d.](http://9gag.com/gag/awyeNZQ)
- - 👉 [Live from Belgrade](http://9gag.com/gag/a7op4qb)<!-- MEMES:END -->
+ - 👉 [A spicy take from a pro player and the internet&#39;s reaction](http://9gag.com/gag/a6ZGmNA)<!-- MEMES:END -->
 
 ---
 

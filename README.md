@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Computer science programs at Carnegie Mellon and other US universities are rethinking how to incorporate AI into curricula, including a focus on AI literacy &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/250701/p29#a250701p29)
+ - [Sources: the FTC has opened an in-depth investigation of SoftBank&#39;s $6.5B acquisition of Ampere, which could take a year or more to conclude &lpar;Bloomberg Law&rpar;](http://www.techmeme.com/250701/p28#a250701p28)
  - [What Happens to Your Brain When You Use ChatGPT? Scientists Took a Look](https://www.cnet.com/tech/services-and-software/what-happens-to-your-brain-when-you-use-chatgpt-scientists-took-a-look/#ftag=CAD590a51e)
  - [Ambrook, a startup providing specialized accounting software for US farmers and ranchers, raised a $26.1M Series A led by Thrive Capital and Figma&#39;s Dylan Field &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250701/p27#a250701p27)
- - [The best robot vacuums we&amp;#8217;ve tested for 2025](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
- - [Spotify Celebrates 10 Years of Discover Weekly With a Fresh New Look](https://www.cnet.com/tech/services-and-software/spotify-celebrates-10-years-of-discover-weekly-with-a-fresh-new-look/#ftag=CAD590a51e)
- - [Sources: Palmer Luckey is preparing to launch Erebor, a US bank backed by Joe Lonsdale and other tech investors to serve startups, including crypto businesses &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/250701/p26#a250701p26)<!-- TECH:END -->
+ - [The best robot vacuums we&amp;#8217;ve tested for 2025](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

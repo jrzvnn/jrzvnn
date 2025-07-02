@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Live from Belgrade](http://9gag.com/gag/a7op4qb)
- - 😝 [First date with a plus one security detail](http://9gag.com/gag/ayNYy1Y)
- - 💣 [A reunion nobody expected](http://9gag.com/gag/azxY00B)
- - 😝 [Fastball with dirt](http://9gag.com/gag/aGyOP0w)
+ - 😝 [Always stay sober in Thailand boys](http://9gag.com/gag/aW4RBbK)
+ - 😝 [Fellow horse herder...](http://9gag.com/gag/aRBR6Xq)
+ - 💣 [My ring is working overtime absorbing negative energy](http://9gag.com/gag/aE0OerO)
+ - 😝 [I am going to hail for this..](http://9gag.com/gag/ajPW29q)
  - 👉 [Back in 2008, Facebook used to look like this.](http://9gag.com/gag/aBy49Y1)<!-- MEMES:END -->
 
 ---

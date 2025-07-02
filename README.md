@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [23 Best MagSafe Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-accessories/)
+ - [After years of rumors, Apple now has a production prototype iPhone fold](https://appleinsider.com/articles/25/07/02/after-years-of-rumors-apple-now-has-a-prototype-iphone-fold?utm_medium=rss)
+ - [Qantas data breach exposes personal details of millions of customers](https://appleinsider.com/articles/25/07/02/qantas-data-breach-exposes-personal-details-of-millions-of-customers?utm_medium=rss)
  - [Tesla reports 14 percent drop in second-quarter vehicle deliveries](https://www.theverge.com/news/696473/tesla-q2-2025-sales-report-decrease-elon-musk-robotaxi)
- - [Microsoft is laying off as many as 9,000 employees](https://www.theverge.com/news/693535/microsoft-layoffs-july-2025-xbox)
- - [Source: Microsoft plans to lay off ~9,000 employees, or less than 4% of its global workforce, across teams and role types, after cutting ~6,000 jobs in May &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250702/p15#a250702p15)
- - [Business Class Ain’t What It Used to Be. Don’t Tell First Class](https://www.wired.com/story/business-class-gets-upgrade/)
- - [Airplane Wi-Fi Is Now … Good?](https://www.wired.com/story/airplane-wifi-good-now/)<!-- TECH:END -->
+ - [Microsoft is laying off as many as 9,000 employees](https://www.theverge.com/news/693535/microsoft-layoffs-july-2025-xbox)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

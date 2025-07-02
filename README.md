@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fellow horse herder...](http://9gag.com/gag/aRBR6Xq)
- - 😝 [Riding through the parade with style](http://9gag.com/gag/a34bo18)
- - 💣 [First date with a plus one security detail](http://9gag.com/gag/ayNYy1Y)
- - 😝 [Any math professor here?](http://9gag.com/gag/aAyOnpo)
+ - 😝 [Impossi-bruh\u2026](http://9gag.com/gag/a4Pw4nA)
+ - 😝 [Listen up](http://9gag.com/gag/azx4gQb)
+ - 💣 [The surprisingly small contact point between a train wheel and the rail.](http://9gag.com/gag/aW4DVr6)
+ - 😝 [Definitely saw her somewhere else](http://9gag.com/gag/aGyOPD5)
  - 👉 [Now you are gey](http://9gag.com/gag/amopDDo)<!-- MEMES:END -->
 
 ---

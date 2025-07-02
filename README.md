@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now you are gey](http://9gag.com/gag/amopDDo)
- - 😝 [That 80s energy is unmatched](http://9gag.com/gag/awye0OQ)
- - 💣 [Your favorite demon pastor](http://9gag.com/gag/a4PwK9Z)
- - 😝 [Just a normal day swimming in the Pokemon world](http://9gag.com/gag/amoRNOd)
- - 👉 [Good riddance. As an owner this pissed me off completely. Like they spat in my face.](http://9gag.com/gag/a6ZGmYA)<!-- MEMES:END -->
+ - 😝 [Kids toys used to be absolutely wild, can you imagine this today?](http://9gag.com/gag/agmERD1)
+ - 😝 [Listen up](http://9gag.com/gag/azx4gQb)
+ - 💣 [Bro will spend the rest of his life trying to find that taste again](http://9gag.com/gag/aXPRboP)
+ - 😝 [Not guilty in 3 main charges..guilty in 2 &lpar;less important&rpar; and lawyer asking for 1 mil bail.. i guess if you are rich, everything is possible](http://9gag.com/gag/aW4RZP6)
+ - 👉 [Now you are gey](http://9gag.com/gag/amopDDo)<!-- MEMES:END -->
 
 ---
 

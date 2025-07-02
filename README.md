@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Despite Protests, Elon Musk Secures Air Permit for xAI](https://www.wired.com/story/xai-data-center-air-pollution-permit/)
  - [The best Apple deals you can shop ahead of Amazon Prime Day](https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals)
  - [Racist videos made with AI are going viral on TikTok](https://www.theverge.com/news/697188/racist-ai-generated-videos-google-veo-3-tiktok)
  - [Microsoft&#39;s &#39;Blue Screen of Death&#39; Dies After 40 Years: Meet Its Replacement](https://www.cnet.com/tech/services-and-software/microsofts-blue-screen-of-death-dies-after-40-years-of-memes-jokes-t-shirts/#ftag=CAD590a51e)
- - [How to use an iPad as a screen for the Nintendo Switch 2](https://appleinsider.com/inside/ipad/tips/how-to-use-an-ipad-as-a-screen-for-the-nintendo-switch-2?utm_medium=rss)
- - [Zone 2 Cardio: Pros, Cons and Tips From Experts](https://www.cnet.com/health/fitness/zone-2-cardio-pros-cons-and-tips-from-experts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to use an iPad as a screen for the Nintendo Switch 2](https://appleinsider.com/inside/ipad/tips/how-to-use-an-ipad-as-a-screen-for-the-nintendo-switch-2?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

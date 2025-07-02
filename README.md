@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Listen up](http://9gag.com/gag/azx4gQb)
- - 😝 [Good](http://9gag.com/gag/a6ZjWpA)
+ - 😝 [Fellow pupil](http://9gag.com/gag/aAyvR1g)
+ - 😝 [So dumb and stupid...who would design a revolving door like that?!](http://9gag.com/gag/aRBR68Q)
  - 💣 [AI won&#39;t take this job](http://9gag.com/gag/aVvRzmv)
- - 😝 [The surprisingly small contact point between a train wheel and the rail.](http://9gag.com/gag/aW4DVr6)
- - 👉 [All kinds of music you say?](http://9gag.com/gag/aoyYBOA)<!-- MEMES:END -->
+ - 😝 [Impossi-bruh\u2026](http://9gag.com/gag/a4Pw4nA)
+ - 👉 [Definitely saw her somewhere else](http://9gag.com/gag/aGyOPD5)<!-- MEMES:END -->
 
 ---
 

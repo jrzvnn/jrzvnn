@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [First date with a plus one security detail](http://9gag.com/gag/ayNYy1Y)
+ - 😝 [That 80s energy is unmatched](http://9gag.com/gag/awye0OQ)
+ - 💣 [Bro will spend the rest of his life trying to find that taste again](http://9gag.com/gag/aXPRboP)
  - 😝 [Fellow pupil](http://9gag.com/gag/aAyvR1g)
- - 😝 [Fastball with dirt](http://9gag.com/gag/aGyOP0w)
- - 💣 [Kids toys used to be absolutely wild, can you imagine this today?](http://9gag.com/gag/agmERD1)
- - 😝 [Riding through the parade with style](http://9gag.com/gag/a34bo18)
- - 👉 [Geez, another woman who doesn\u2019t know any better. What are the odds ?](http://9gag.com/gag/aBy4RdN)<!-- MEMES:END -->
+ - 👉 [AI won&#39;t take this job](http://9gag.com/gag/aVvRzmv)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Racist videos made with AI are going viral on TikTok](https://www.theverge.com/news/697188/racist-ai-generated-videos-google-veo-3-tiktok)
  - [How to use an iPad as a screen for the Nintendo Switch 2](https://appleinsider.com/inside/ipad/tips/how-to-use-an-ipad-as-a-screen-for-the-nintendo-switch-2?utm_medium=rss)
+ - [Zone 2 Cardio: Pros, Cons and Tips From Experts](https://www.cnet.com/health/fitness/zone-2-cardio-pros-cons-and-tips-from-experts/#ftag=CAD590a51e)
  - [Blizzard is winding down support for its Warcraft mobile game](https://www.theverge.com/news/697128/warcraft-rumble-maintenance-mode-microsoft-layoffs)
- - [OpenAI says the tokenized OpenAI shares Robinhood has started offering are not equity: &quot;We did not partner with Robinhood...and do not endorse it&quot; &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250702/p28#a250702p28)
- - [Prepare to Share All Your Pics With Meta If You Turn On Facebook&#39;s New AI Photo Tool](https://www.cnet.com/tech/services-and-software/prepare-to-share-all-your-pics-with-meta-if-you-turn-on-facebooks-new-ai-photo-tool/#ftag=CAD590a51e)
- - [Google’s fix for Pixel 6A battery overheating issues arrives next week](https://www.theverge.com/news/697103/google-android16-update-pixel-6a-battery-overheating-fix-july-8)<!-- TECH:END -->
+ - [Nearly 500 Starlink Satellites Have Incinerated in Earth&#39;s Atmosphere So Far This Year](https://www.cnet.com/home/internet/nearly-500-starlink-satellites-were-recently-incinerated-in-earths-atmosphere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [First date with a plus one security detail](http://9gag.com/gag/ayNYy1Y)
- - 😝 [Bad scientist doing bad science](http://9gag.com/gag/aqyY3wp)
- - 💣 [Good](http://9gag.com/gag/a6ZjWpA)
+ - 😝 [These bulbs are very dim](http://9gag.com/gag/aGyO3A5)
+ - 😝 [The state of World of Warcraft](http://9gag.com/gag/awyYRMB)
+ - 💣 [Get woke, go broke.](http://9gag.com/gag/awyYqyr)
  - 😝 [\u201cIs that a movie\u2026? No, it\u2019s Royal Kingdom\u201d.](http://9gag.com/gag/awyeNZQ)
- - 👉 [Geez, another woman who doesn\u2019t know any better. What are the odds ?](http://9gag.com/gag/aBy4RdN)<!-- MEMES:END -->
+ - 👉 [Bad scientist doing bad science](http://9gag.com/gag/aqyY3wp)<!-- MEMES:END -->
 
 ---
 

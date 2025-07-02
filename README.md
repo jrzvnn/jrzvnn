@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok users are posting AI-generated videos, seemingly made with Google&#39;s Veo 3, depicting racist and antisemitic tropes that have garnered millions of views &lpar;Abbie Richards/Media Matters for America&rpar;](http://www.techmeme.com/250702/p20#a250702p20)
+ - [ICEBlock, an app for reporting sightings of ICE officials, was the top free app in the US App Store on Tuesday; the app claims to collect no personal data &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250702/p19#a250702p19)
  - [Jurassic World Rebirth needs some more time in the incubator](https://www.theverge.com/movie-reviews/695918/jurassic-world-rebirth-review)
  - [Amazon’s Echo Hub has plunged to a new low price ahead of Prime Day](https://www.theverge.com/tech/696656/amazon-echo-hub-prime-day-apple-pencil-pro-deal-sale)
- - [The 10 Best Carry-On Luggage for Business Travelers](https://www.wired.com/story/best-carry-on-luggage-for-business-travelers/)
- - [What Could a Healthy AI Companion Look Like?](https://www.wired.com/story/tolan-chatbot-ai-companion/)
- - [Apple may need to lower MagSafe in iPhone 17 to fit hugely larger camera bumps](https://appleinsider.com/articles/25/07/02/apple-may-need-to-lower-magsafe-in-iphone-17-to-fit-hugely-larger-camera-bumps?utm_medium=rss)<!-- TECH:END -->
+ - [The 10 Best Carry-On Luggage for Business Travelers](https://www.wired.com/story/best-carry-on-luggage-for-business-travelers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

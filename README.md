@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Zelle needs to fix &amp;#8216;significant scams and fraud,&amp;#8217; lawmakers say](https://www.theverge.com/news/696786/lawmakers-warren-blumenthal-zelle-scams-bank-letters)
  - [Early Prime Day sale: Save up to $300 on M4 iPad Pro, get Beats Solo 4 for $129](https://appleinsider.com/articles/25/07/02/early-prime-day-sale-save-up-to-300-on-m4-ipad-pro-get-beats-solo-4-for-129?utm_medium=rss)
  - [Sources: OpenAI will rent additional computing power from Oracle, totaling about 4.5 gigawatts of US data center power, as part of its Stargate initiative &lpar;Bloomberg&rpar;](http://www.techmeme.com/250702/p24#a250702p24)
  - [The 46 Best Deals From REI&#39;s July 4 Outdoor Gear Sale &lpar;2025&rpar;](https://www.wired.com/story/rei-4th-of-july-sale-2025/)
- - [Here are 25 of our favorite deals from Amazon’s early Prime Day sale](https://www.theverge.com/tech/692002/amazon-prime-day-best-early-deals-2025)
- - [Analysis: crypto ventures have added at least $620M to President Trump&#39;s fortune in months, overshadowing traditional real estate licensing deals &lpar;Bloomberg&rpar;](http://www.techmeme.com/250702/p23#a250702p23)<!-- TECH:END -->
+ - [Here are 25 of our favorite deals from Amazon’s early Prime Day sale](https://www.theverge.com/tech/692002/amazon-prime-day-best-early-deals-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

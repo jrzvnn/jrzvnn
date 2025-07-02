@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Reno, Nevada](https://www.cnet.com/home/internet/best-internet-providers-in-reno-nv/#ftag=CAD590a51e)
  - [Best Internet Providers in Utah](https://www.cnet.com/home/internet/best-internet-providers-in-utah/#ftag=CAD590a51e)
  - [A deep dive into Oracle&#39;s data center strategy and its emergence as an AI computing powerhouse, amid questions about the sustainability of the GPU business &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/250702/p8#a250702p8)
  - [Sources: Sweden-based AI-powered app builder Lovable is set to raise $150M+ led by Accel at a ~$1.8B valuation, as investors rush to back &quot;vibe coding&quot; startups &lpar;Financial Times&rpar;](http://www.techmeme.com/250702/p7#a250702p7)
- - [Chinese AI models from DeepSeek and others are becoming more popular worldwide; Sensor Tower: ChatGPT has 910M global downloads compared with DeepSeek&#39;s 125M &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250702/p6#a250702p6)
- - [VC firms Thrive Capital and General Catalyst are adopting the &quot;roll-up&quot; strategy from the PE playbook, as Khosla Ventures, 8VC, and others explore similar moves &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/250702/p5#a250702p5)<!-- TECH:END -->
+ - [Chinese AI models from DeepSeek and others are becoming more popular worldwide; Sensor Tower: ChatGPT has 910M global downloads compared with DeepSeek&#39;s 125M &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250702/p6#a250702p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [These bulbs are very dim](http://9gag.com/gag/aGyO3A5)
- - 😝 [Now you are gey](http://9gag.com/gag/amopDDo)
- - 💣 [The surprisingly small contact point between a train wheel and the rail.](http://9gag.com/gag/aW4DVr6)
+ - 😝 [Get woke, go broke.](http://9gag.com/gag/awyYqyr)
+ - 😝 [Fastball with dirt](http://9gag.com/gag/aGyOP0w)
+ - 💣 [All kinds of music you say?](http://9gag.com/gag/aoyYBOA)
  - 😝 [\u201cIs that a movie\u2026? No, it\u2019s Royal Kingdom\u201d.](http://9gag.com/gag/awyeNZQ)
- - 👉 [Kids toys used to be absolutely wild, can you imagine this today?](http://9gag.com/gag/agmERD1)<!-- MEMES:END -->
+ - 👉 [Now you are gey](http://9gag.com/gag/amopDDo)<!-- MEMES:END -->
 
 ---
 

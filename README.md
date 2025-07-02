@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fellow horse herder...](http://9gag.com/gag/aRBR6Xq)
- - 😝 [The ongoing debate about tipping culture and fair wages in the service industry.](http://9gag.com/gag/apRVKBb)
- - 💣 [Your favorite demon pastor](http://9gag.com/gag/a4PwK9Z)
- - 😝 [Now you are gey](http://9gag.com/gag/amopDDo)
- - 👉 [Can relate](http://9gag.com/gag/aBy49yP)<!-- MEMES:END -->
+ - 😝 [THIS IS SPARTA](http://9gag.com/gag/ayNv728)
+ - 😝 [All kinds of music you say?](http://9gag.com/gag/aoyYBOA)
+ - 💣 [Peak bathroom design](http://9gag.com/gag/aBy499O)
+ - 😝 [First date with a plus one security detail](http://9gag.com/gag/ayNYy1Y)
+ - 👉 [Definitely saw her somewhere else](http://9gag.com/gag/aGyOPD5)<!-- MEMES:END -->
 
 ---
 

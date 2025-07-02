@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple supplier Luxshare is working with Goldman Sachs and others on a Hong Kong IPO that could happen as soon as this year, aiming to raise over $1B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250702/p12#a250702p12)
  - [These Transcribing Eyeglasses Put Subtitles on the World](https://www.wired.com/story/these-translating-ai-glasses-put-subtitles-on-the-world/)
  - [Livestream Replay: Beginner Advice for Claude, a ChatGPT Alternative](https://www.wired.com/story/subscriber-only-livestream-replay-chatbot-basics-beginner-advice-for-claude/)
  - [Sources: Foxconn recalled 300+ Chinese engineers from its Indian iPhone factories over the past two months, a blow for Apple as it ramps up iPhone 17 production &lpar;Bloomberg&rpar;](http://www.techmeme.com/250702/p11#a250702p11)
- - [A Trans Pilot Was Falsely Blamed for a Plane Crash. Now She’s Fighting the Right-Wing Disinfo Machine](https://www.wired.com/story/a-trans-pilot-was-falsely-blamed-for-a-plane-crash-now-shes-fighting-the-right-wing-disinfo-machine/)
- - [Paramount agrees to pay Trump $16 million, clearing way for multibillion-dollar merger](https://www.theverge.com/news/696422/paramount-settlement-trump-cbs-lawsuit)<!-- TECH:END -->
+ - [AirTag 2 Rumors: New Leaks on Upcoming Features and Release Date](https://www.cnet.com/tech/mobile/airtag-2-rumors-leaks-news/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

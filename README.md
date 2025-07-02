@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Geez, another woman who doesn\u2019t know any better. What are the odds ?](http://9gag.com/gag/aBy4RdN)
  - 😝 [Poor girl lol](http://9gag.com/gag/a1mEz28)
- - 😝 [Bad scientist doing bad science](http://9gag.com/gag/aqyY3wp)
- - 💣 [A legendary final meal](http://9gag.com/gag/aRBO5jy)
+ - 💣 [Kids toys used to be absolutely wild, can you imagine this today?](http://9gag.com/gag/agmERD1)
  - 😝 [\u201cIs that a movie\u2026? No, it\u2019s Royal Kingdom\u201d.](http://9gag.com/gag/awyeNZQ)
- - 👉 [Fastball with dirt](http://9gag.com/gag/aGyOP0w)<!-- MEMES:END -->
+ - 👉 [The surprisingly small contact point between a train wheel and the rail.](http://9gag.com/gag/aW4DVr6)<!-- MEMES:END -->
 
 ---
 

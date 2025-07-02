@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are 25 of our favorite deals from Amazon’s early Prime Day sale](https://www.theverge.com/tech/692002/amazon-prime-day-best-early-deals-2025)
+ - [The New Era of Work Travel](https://www.wired.com/new-era-business-travel/)
  - [Analysis: crypto ventures have added at least $620M to President Trump&#39;s fortune in months, overshadowing traditional real estate licensing deals &lpar;Bloomberg&rpar;](http://www.techmeme.com/250702/p23#a250702p23)
  - [Three former Ubisoft executives are convicted of sexual and psychological harassment](https://www.theverge.com/games/696996/ubisoft-me-too-former-executive-convictions)
- - [Amazon is offering a like-new Kindle Paperwhite 2024 for just $107](https://www.theverge.com/tech/696906/kindle-paperwhite-refurbished-deal-sale)
- - [Perplexity launches a $200/month Max plan with unlimited Labs access, early access to features like Comet browser, and priority use of models like o3-pro &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250702/p22#a250702p22)
- - [Crunchyroll ran embarrassingly bad ChatGPT subtitles on its new anime series](https://www.theverge.com/ai-artificial-intelligence/696819/crunchyroll-ran-embarrassingly-bad-chatgpt-subtitles-on-its-new-anime-series)<!-- TECH:END -->
+ - [When an Amazon Driver Broke Down My Gate, This Device Would Have Saved Me $500](https://www.cnet.com/news/when-an-amazon-driver-broke-down-my-gate-this-device-would-have-saved-me-500/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

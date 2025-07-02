@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My ring is working overtime absorbing negative energy](http://9gag.com/gag/aE0OerO)
- - 😝 [I am going to hail for this..](http://9gag.com/gag/ajPW29q)
- - 💣 [Totally safe roller coaster](http://9gag.com/gag/an7GeV0)
- - 😝 [\u201cIs that a movie\u2026? No, it\u2019s Royal Kingdom\u201d.](http://9gag.com/gag/awyeNZQ)
- - 👉 [Upgrades, people, upgrades](http://9gag.com/gag/aVvRz5O)<!-- MEMES:END -->
+ - 😝 [These bulbs are very dim](http://9gag.com/gag/aGyO3A5)
+ - 😝 [Now you are gey](http://9gag.com/gag/amopDDo)
+ - 💣 [All kinds of music you say?](http://9gag.com/gag/aoyYBOA)
+ - 😝 [Kids toys used to be absolutely wild, can you imagine this today?](http://9gag.com/gag/agmERD1)
+ - 👉 [First date with a plus one security detail](http://9gag.com/gag/ayNYy1Y)<!-- MEMES:END -->
 
 ---
 

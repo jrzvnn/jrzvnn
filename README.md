@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Michael VS Jackson](http://9gag.com/gag/aXPKDB9)
- - 😝 [Definitely saw her somewhere else](http://9gag.com/gag/aGyOPD5)
- - 💣 [Now you are gey](http://9gag.com/gag/amopDDo)
- - 😝 [THIS IS SPARTA](http://9gag.com/gag/ayNv728)
- - 👉 [Recycling](http://9gag.com/gag/a34NYBQ)<!-- MEMES:END -->
+ - 😝 [Listen up](http://9gag.com/gag/azx4gQb)
+ - 😝 [Why is everything new a ripoff](http://9gag.com/gag/aqyD9WL)
+ - 💣 [Unexpected apology for a past road incident](http://9gag.com/gag/a4Pw4K1)
+ - 😝 [McDonald&#39;s management has had enough.](http://9gag.com/gag/aNDjr4v)
+ - 👉 [Legend.](http://9gag.com/gag/aGy7KjG)<!-- MEMES:END -->
 
 ---
 

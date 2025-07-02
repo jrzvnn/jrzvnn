@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Early Prime Day sale: Save up to $300 on M4 iPad Pro, get Beats Solo 4 for $129](https://appleinsider.com/articles/25/07/02/early-prime-day-sale-save-up-to-300-on-m4-ipad-pro-get-beats-solo-4-for-129?utm_medium=rss)
+ - [Sources: OpenAI will rent additional computing power from Oracle, totaling about 4.5 gigawatts of US data center power, as part of its Stargate initiative &lpar;Bloomberg&rpar;](http://www.techmeme.com/250702/p24#a250702p24)
+ - [The 46 Best Deals From REI&#39;s July 4 Outdoor Gear Sale &lpar;2025&rpar;](https://www.wired.com/story/rei-4th-of-july-sale-2025/)
  - [Here are 25 of our favorite deals from Amazon’s early Prime Day sale](https://www.theverge.com/tech/692002/amazon-prime-day-best-early-deals-2025)
- - [The New Era of Work Travel](https://www.wired.com/new-era-business-travel/)
- - [Analysis: crypto ventures have added at least $620M to President Trump&#39;s fortune in months, overshadowing traditional real estate licensing deals &lpar;Bloomberg&rpar;](http://www.techmeme.com/250702/p23#a250702p23)
- - [Three former Ubisoft executives are convicted of sexual and psychological harassment](https://www.theverge.com/games/696996/ubisoft-me-too-former-executive-convictions)
- - [When an Amazon Driver Broke Down My Gate, This Device Would Have Saved Me $500](https://www.cnet.com/news/when-an-amazon-driver-broke-down-my-gate-this-device-would-have-saved-me-500/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Analysis: crypto ventures have added at least $620M to President Trump&#39;s fortune in months, overshadowing traditional real estate licensing deals &lpar;Bloomberg&rpar;](http://www.techmeme.com/250702/p23#a250702p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

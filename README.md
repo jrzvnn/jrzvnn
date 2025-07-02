@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Livestream Replay: Beginner Advice for Claude, a ChatGPT Alternative](https://www.wired.com/story/subscriber-only-livestream-replay-chatbot-basics-beginner-advice-for-claude/)
  - [Sources: Foxconn recalled 300+ Chinese engineers from its Indian iPhone factories over the past two months, a blow for Apple as it ramps up iPhone 17 production &lpar;Bloomberg&rpar;](http://www.techmeme.com/250702/p11#a250702p11)
  - [A Trans Pilot Was Falsely Blamed for a Plane Crash. Now She’s Fighting the Right-Wing Disinfo Machine](https://www.wired.com/story/a-trans-pilot-was-falsely-blamed-for-a-plane-crash-now-shes-fighting-the-right-wing-disinfo-machine/)
  - [Paramount agrees to pay Trump $16 million, clearing way for multibillion-dollar merger](https://www.theverge.com/news/696422/paramount-settlement-trump-cbs-lawsuit)
- - [A US judge rules that Huawei must face criminal charges in an indictment alleging racketeering, stealing trade secrets, and bank fraud tied to Iran sanctions &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250702/p10#a250702p10)
- - [Feeling Hoarse? You Might Have the New ‘Stratus’ Covid Variant](https://www.wired.com/story/feeling-hoarse-you-might-have-the-new-stratus-covid-variant/)<!-- TECH:END -->
+ - [A US judge rules that Huawei must face criminal charges in an indictment alleging racketeering, stealing trade secrets, and bank fraud tied to Iran sanctions &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250702/p10#a250702p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple may need to lower MagSafe in iPhone 17 to fit hugely larger camera bumps](https://appleinsider.com/articles/25/07/02/apple-may-need-to-lower-magsafe-in-iphone-17-to-fit-hugely-larger-camera-bumps?utm_medium=rss)
+ - [A French court finds three ex-Ubisoft executives, including the chief creative officer, guilty of enabling a culture of sexual and psychological harassment &lpar;Angelique Chrisafis/The Guardian&rpar;](http://www.techmeme.com/250702/p18#a250702p18)
  - [4 Best Smart Displays &lpar;2025&rpar;: Tested By a Smart Home Addict](https://www.wired.com/gallery/best-smart-displays/)
  - [Berlin-based Talon.One, which provides software for brands to run personalized promotions and loyalty schemes, raised $135M &lpar;Freya Pratty/Sifted&rpar;](http://www.techmeme.com/250702/p17#a250702p17)
- - [Affluent Travelers Are Ditching Business Class for Business Jets](https://www.wired.com/story/business-travelers-private-jet-boom/)
- - [For Today&#39;s Business Traveler, It&#39;s All About Work-Life Integration](https://www.wired.com/story/business-travel-work-life-balance-integration/)
- - [Airport Lounges Are Sexy Again—if You Can Get In](https://www.wired.com/story/the-evolution-of-the-airport-lounge/)<!-- TECH:END -->
+ - [Affluent Travelers Are Ditching Business Class for Business Jets](https://www.wired.com/story/business-travelers-private-jet-boom/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [These bulbs are very dim](http://9gag.com/gag/aGyO3A5)
- - 😝 [Live from Belgrade](http://9gag.com/gag/a7op4qb)
- - 💣 [Fastball with dirt](http://9gag.com/gag/aGyOP0w)
+ - 😝 [Now you are gey](http://9gag.com/gag/amopDDo)
+ - 💣 [The surprisingly small contact point between a train wheel and the rail.](http://9gag.com/gag/aW4DVr6)
  - 😝 [\u201cIs that a movie\u2026? No, it\u2019s Royal Kingdom\u201d.](http://9gag.com/gag/awyeNZQ)
- - 👉 [A spicy take from a pro player and the internet&#39;s reaction](http://9gag.com/gag/a6ZGmNA)<!-- MEMES:END -->
+ - 👉 [Kids toys used to be absolutely wild, can you imagine this today?](http://9gag.com/gag/agmERD1)<!-- MEMES:END -->
 
 ---
 

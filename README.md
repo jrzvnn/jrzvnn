@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple may need to lower MagSafe in iPhone 17 to fit hugely larger camera bumps](https://appleinsider.com/articles/25/07/02/apple-may-need-to-lower-magsafe-in-iphone-17-to-fit-hugely-larger-camera-bumps?utm_medium=rss)
- - [A French court finds three ex-Ubisoft executives, including the chief creative officer, guilty of enabling a culture of sexual and psychological harassment &lpar;Angelique Chrisafis/The Guardian&rpar;](http://www.techmeme.com/250702/p18#a250702p18)
- - [4 Best Smart Displays &lpar;2025&rpar;: Tested By a Smart Home Addict](https://www.wired.com/gallery/best-smart-displays/)
- - [Berlin-based Talon.One, which provides software for brands to run personalized promotions and loyalty schemes, raised $135M &lpar;Freya Pratty/Sifted&rpar;](http://www.techmeme.com/250702/p17#a250702p17)
- - [Affluent Travelers Are Ditching Business Class for Business Jets](https://www.wired.com/story/business-travelers-private-jet-boom/)<!-- TECH:END -->
+ - [Jurassic World Rebirth needs some more time in the incubator](https://www.theverge.com/movie-reviews/695918/jurassic-world-rebirth-review)
+ - [Amazon’s Echo Hub has plunged to a new low price ahead of Prime Day](https://www.theverge.com/tech/696656/amazon-echo-hub-prime-day-apple-pencil-pro-deal-sale)
+ - [The 10 Best Carry-On Luggage for Business Travelers](https://www.wired.com/story/best-carry-on-luggage-for-business-travelers/)
+ - [What Could a Healthy AI Companion Look Like?](https://www.wired.com/story/tolan-chatbot-ai-companion/)
+ - [Apple may need to lower MagSafe in iPhone 17 to fit hugely larger camera bumps](https://appleinsider.com/articles/25/07/02/apple-may-need-to-lower-magsafe-in-iphone-17-to-fit-hugely-larger-camera-bumps?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

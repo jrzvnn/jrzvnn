@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Your favorite demon pastor](http://9gag.com/gag/a4PwK9Z)
- - 😝 [Japan&#39;s defense is simply unreal, pulling off impossible saves.](http://9gag.com/gag/aRBRgV2)
- - 💣 [RA RAH !!!](http://9gag.com/gag/aQzypqW)
- - 😝 [Listen up](http://9gag.com/gag/azx4gQb)
- - 👉 [Squirrel woke up and chose VIOLENCE on the whole family](http://9gag.com/gag/azx4bBK)<!-- MEMES:END -->
+ - 😝 [That&#39;ll buff out](http://9gag.com/gag/aD2QRgK)
+ - 😝 [Bro\u2019s genetics kicked in](http://9gag.com/gag/agmKrbv)
+ - 💣 [Marriage](http://9gag.com/gag/amoRN6V)
+ - 😝 [That feeling of sudden restriction](http://9gag.com/gag/aGy7VwG)
+ - 👉 [Just a normal day swimming in the Pokemon world](http://9gag.com/gag/amoRNOd)<!-- MEMES:END -->
 
 ---
 

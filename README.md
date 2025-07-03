@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A rollable iPad won&#39;t break at the hinge, and Apple keeps working on one](https://appleinsider.com/articles/20/03/24/a-rollable-iphone-wont-break-at-the-hinge-and-apple-is-working-on-one?utm_medium=rss)
- - [Samsung seems to have leaked its own trifold phone design](https://www.theverge.com/news/697395/samsung-galaxy-trifold-foldable-leaks-one-ui-8)
- - [RFK Jr.’s plan to put ‘AI’ in everything is a disaster](https://www.theverge.com/ai-artificial-intelligence/697129/rfk-jr-ai)
- - [The 7 Best Kitchen Scales Reviewed by a Former Chocolatier &lpar;2025&rpar;](https://www.wired.com/gallery/best-kitchen-scale/)
- - [Sources: Microsoft cut hundreds of Xbox jobs across studios, including King, ZeniMax, and Halo Studios, and cancels games like the new Perfect Dark and Everwild &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250703/p17#a250703p17)<!-- TECH:END -->
+ - [Sources detail EA&#39;s issues developing the next Battlefield, which now has a $400M+ budget; some staff were skeptical of the EA leadership&#39;s 100M player target &lpar;Samuel Axon/Ars Technica&rpar;](http://www.techmeme.com/250703/p19#a250703p19)
+ - [Samsung&#39;s One UI 8 build animation files show its future tri-fold phone, with three rear panels and two inward-folding hinges, rumored to be the Galaxy G Fold &lpar;Aamir Siddiqui/Android Authority&rpar;](http://www.techmeme.com/250703/p18#a250703p18)
+ - [What Is Apple One? A Breakdown of Plans, Pricing, and Included Services](https://www.wired.com/story/what-is-apple-one/)
+ - [Best MacBooks &lpar;2025&rpar;: Which Apple Laptop Should You Buy?](https://www.wired.com/story/which-macbook-should-you-buy/)
+ - [Adding calendar events with a screenshot is AI at its finest](https://www.theverge.com/tech/696885/ios-26-visual-intelligence-calendar-screenshot-gemini-assistant)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

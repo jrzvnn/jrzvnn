@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The universal language of career approval: a high salary.](http://9gag.com/gag/a9yDMxL)
- - 😝 [AI won&#39;t take this job](http://9gag.com/gag/aVvRzmv)
- - 💣 [Your favorite demon pastor](http://9gag.com/gag/a4PwK9Z)
- - 😝 [Marriage](http://9gag.com/gag/amoRN6V)
- - 👉 [Fellow pupil](http://9gag.com/gag/aAyvR1g)<!-- MEMES:END -->
+ - 😝 [Again?!!!](http://9gag.com/gag/awyebrx)
+ - 😝 [Doraemon live action](http://9gag.com/gag/ary8pbX)
+ - 💣 [Can relate](http://9gag.com/gag/aBy49yP)
+ - 😝 [Found them](http://9gag.com/gag/ary8pW7)
+ - 👉 [Recycling](http://9gag.com/gag/a34NYBQ)<!-- MEMES:END -->
 
 ---
 

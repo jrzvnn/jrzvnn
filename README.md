@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not guilty in 3 main charges..guilty in 2 &lpar;less important&rpar; and lawyer asking for 1 mil bail.. i guess if you are rich, everything is possible](http://9gag.com/gag/aW4RZP6)
- - 😝 [Squirrel woke up and chose VIOLENCE on the whole family](http://9gag.com/gag/azx4bBK)
- - 💣 [Marriage](http://9gag.com/gag/amoRN6V)
- - 😝 [That&#39;ll buff out](http://9gag.com/gag/aD2QRgK)
- - 👉 [Fellow pupil](http://9gag.com/gag/aAyvR1g)<!-- MEMES:END -->
+ - 😝 [Temu version](http://9gag.com/gag/ajPR660)
+ - 😝 [Bro\u2019s genetics kicked in](http://9gag.com/gag/agmKrbv)
+ - 💣 [THIS IS SPARTA](http://9gag.com/gag/ayNv728)
+ - 😝 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)
+ - 👉 [Marriage](http://9gag.com/gag/amoRN6V)<!-- MEMES:END -->
 
 ---
 

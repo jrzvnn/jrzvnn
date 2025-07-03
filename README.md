@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Will you eat that...?](http://9gag.com/gag/ajPRrEG)
- - 😝 [Bro\u2019s genetics kicked in](http://9gag.com/gag/agmKrbv)
- - 💣 [American Dream](http://9gag.com/gag/aBy4QpQ)
  - 😝 [Marriage](http://9gag.com/gag/amoRN6V)
- - 👉 [AI won&#39;t take this job](http://9gag.com/gag/aVvRzmv)<!-- MEMES:END -->
+ - 😝 [Bro\u2019s genetics kicked in](http://9gag.com/gag/agmKrbv)
+ - 💣 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)
+ - 😝 [Who doesn&#39;t like windy days?](http://9gag.com/gag/aVvRWbd)
+ - 👉 [American Dream](http://9gag.com/gag/aBy4QpQ)<!-- MEMES:END -->
 
 ---
 

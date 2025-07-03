@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Congress passes budget to expand mass deportations, cut social services, and stall clean energy](https://www.theverge.com/policy/697879/congress-house-senate-pass-trump-obbb)
+ - [The best laptops you can get](https://www.theverge.com/21250695/best-laptops)
+ - [How Trump&#39;s One Big, Beautiful Bill, which was approved by Congress, could cost the US the AI race by handicapping efforts to meet data center power demands &lpar;Jordan Blum/Fortune&rpar;](http://www.techmeme.com/250703/p30#a250703p30)
  - [Google rolls out its Veo 3 video generation model to Google&#39;s AI Pro subscribers in more than 159 countries, with a cap of three videos per day &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250703/p29#a250703p29)
- - [The 27 Best Movies on Apple TV+ Right Now &lpar;July 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
- - [Founders Fund-backed Ondo Finance and Pantera Capital launch a $250M fund to invest in real-world asset tokenization projects via equity stakes and tokens &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/250703/p28#a250703p28)
- - [What&#39;s Free on the Epic Games Store This Week?](https://www.cnet.com/tech/gaming/list-of-free-games-on-the-epic-games-store-this-week/#ftag=CAD590a51e)
- - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)<!-- TECH:END -->
+ - [The 27 Best Movies on Apple TV+ Right Now &lpar;July 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

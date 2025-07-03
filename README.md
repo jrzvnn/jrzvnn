@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers detail Centaur, a modified version of Llama trained on 10M+ responses from 160 psychological experiments, in an attempt to mimic human cognition &lpar;Carl Zimmer/New York Times&rpar;](http://www.techmeme.com/250703/p12#a250703p12)
  - [Google’s customizable Gemini chatbots are now in Docs, Sheets, and Gmail](https://www.theverge.com/news/697352/google-gemini-gems-workspace-apps-docs-gmail)
  - [The Promise and Peril of Digital Security in the Age of Dictatorship](https://www.wired.com/story/the-promise-and-peril-of-digital-security-in-the-age-of-dictatorship/)
  - [Leaked documents: Meta is training custom AI chatbots to message users unprompted, following up on past chats to boost engagement on its AI Studio platform &lpar;Business Insider&rpar;](http://www.techmeme.com/250703/p11#a250703p11)
- - [An analysis of 15M+ biomedical abstracts from 2010 to 2024 finds researchers using AI to write abstracts use certain words far more often than those who don&#39;t &lpar;Gina Kolata/New York Times&rpar;](http://www.techmeme.com/250703/p10#a250703p10)
- - [Bitcoin&#39;s implied volatility declined to the lowest level in two years, showing decreased price swings and trading between $93K to $111K in the past two months &lpar;Kirk Ogunrinde/Bloomberg&rpar;](http://www.techmeme.com/250703/p9#a250703p9)<!-- TECH:END -->
+ - [An analysis of 15M+ biomedical abstracts from 2010 to 2024 finds researchers using AI to write abstracts use certain words far more often than those who don&#39;t &lpar;Gina Kolata/New York Times&rpar;](http://www.techmeme.com/250703/p10#a250703p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Will you eat that...?](http://9gag.com/gag/ajPRrEG)
- - 😝 [Fellow pupil](http://9gag.com/gag/aAyvR1g)
- - 💣 [One piece](http://9gag.com/gag/aKGKw6j)
- - 😝 [Bro\u2019s genetics kicked in](http://9gag.com/gag/agmKrbv)
- - 👉 [Your favorite demon pastor](http://9gag.com/gag/a4PwK9Z)<!-- MEMES:END -->
+ - 😝 [Instant Trigger](http://9gag.com/gag/aAyvVMp)
+ - 😝 [Again?!!!](http://9gag.com/gag/awyebrx)
+ - 💣 [Employee of the month energy.](http://9gag.com/gag/ary8eq7)
+ - 😝 [Recycling](http://9gag.com/gag/a34NYBQ)
+ - 👉 [Impossi-bruh\u2026](http://9gag.com/gag/a4Pw4nA)<!-- MEMES:END -->
 
 ---
 

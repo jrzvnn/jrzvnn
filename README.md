@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;ll buff out](http://9gag.com/gag/aD2QRgK)
- - 😝 [Bro\u2019s genetics kicked in](http://9gag.com/gag/agmKrbv)
- - 💣 [Marriage](http://9gag.com/gag/amoRN6V)
- - 😝 [That feeling of sudden restriction](http://9gag.com/gag/aGy7VwG)
- - 👉 [Just a normal day swimming in the Pokemon world](http://9gag.com/gag/amoRNOd)<!-- MEMES:END -->
+ - 😝 [The universal language of career approval: a high salary.](http://9gag.com/gag/a9yDMxL)
+ - 😝 [AI won&#39;t take this job](http://9gag.com/gag/aVvRzmv)
+ - 💣 [Your favorite demon pastor](http://9gag.com/gag/a4PwK9Z)
+ - 😝 [Marriage](http://9gag.com/gag/amoRN6V)
+ - 👉 [Fellow pupil](http://9gag.com/gag/aAyvR1g)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I did that once](http://9gag.com/gag/a4PwKx6)
- - 😝 [Good riddance. As an owner this pissed me off completely. Like they spat in my face.](http://9gag.com/gag/a6ZGmYA)
- - 💣 [Look what he can do! He is very brave and adventurous.](http://9gag.com/gag/a2vONeO)
- - 😝 [Suicidal fish](http://9gag.com/gag/azx4LQB)
- - 👉 [Such a confident walk](http://9gag.com/gag/ayNv7Lp)<!-- MEMES:END -->
+ - 😝 [The universal language of career approval: a high salary.](http://9gag.com/gag/a9yDMxL)
+ - 😝 [Fellow weeb, your wife is waiting...](http://9gag.com/gag/aXPRpnb)
+ - 💣 [Fellow beer enthusiast](http://9gag.com/gag/a2vOY1Z)
+ - 😝 [Still raising my hand for cartoons, age is just a number.](http://9gag.com/gag/aKGKw5b)
+ - 👉 [Bro believes in gender equality.](http://9gag.com/gag/ae9RNBW)<!-- MEMES:END -->
 
 ---
 

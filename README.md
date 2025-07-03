@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The universal language of career approval: a high salary.](http://9gag.com/gag/a9yDMxL)
- - 😝 [Fellow weeb, your wife is waiting...](http://9gag.com/gag/aXPRpnb)
- - 💣 [Fellow beer enthusiast](http://9gag.com/gag/a2vOY1Z)
- - 😝 [Still raising my hand for cartoons, age is just a number.](http://9gag.com/gag/aKGKw5b)
- - 👉 [Bro believes in gender equality.](http://9gag.com/gag/ae9RNBW)<!-- MEMES:END -->
+ - 😝 [Ups, they did it again.](http://9gag.com/gag/aYQRbrO)
+ - 😝 [Just some standard file organization, nothing to see here.](http://9gag.com/gag/aVvRQGK)
+ - 💣 [Marriage](http://9gag.com/gag/amoRN6V)
+ - 😝 [Not guilty in 3 main charges..guilty in 2 &lpar;less important&rpar; and lawyer asking for 1 mil bail.. i guess if you are rich, everything is possible](http://9gag.com/gag/aW4RZP6)
+ - 👉 [Such a confident walk](http://9gag.com/gag/ayNv7Lp)<!-- MEMES:END -->
 
 ---
 

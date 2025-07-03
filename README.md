@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Recycling](http://9gag.com/gag/a34NYBQ)
- - 😝 [Impossi-bruh\u2026](http://9gag.com/gag/a4Pw4nA)
- - 💣 [Found them](http://9gag.com/gag/ary8pW7)
- - 😝 [The universal language of career approval: a high salary.](http://9gag.com/gag/a9yDMxL)
- - 👉 [Employee of the month energy.](http://9gag.com/gag/ary8eq7)<!-- MEMES:END -->
+ - 😝 [Will you eat that...?](http://9gag.com/gag/ajPRrEG)
+ - 😝 [Bro\u2019s genetics kicked in](http://9gag.com/gag/agmKrbv)
+ - 💣 [American Dream](http://9gag.com/gag/aBy4QpQ)
+ - 😝 [Marriage](http://9gag.com/gag/amoRN6V)
+ - 👉 [AI won&#39;t take this job](http://9gag.com/gag/aVvRzmv)<!-- MEMES:END -->
 
 ---
 

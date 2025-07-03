@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Open Platform, a key TON developer that is behind Telegram&#39;s Wallet, raised a $28.5M Series A at a $1B valuation, bringing its total funding to $70M+ &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250703/p22#a250703p22)
  - [Thoma Bravo strikes a $2B deal to acquire restaurant software maker Olo, representing a 65% premium over Olo&#39;s share price on April 30 &lpar;Ryan Gould/Bloomberg&rpar;](http://www.techmeme.com/250703/p21#a250703p21)
  - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)
  - [How to Choose the Right TV: Quantum Dots, HDR, RGB, and More in 2025](https://www.wired.com/story/how-to-buy-the-right-tv/)
- - [Xbox says Arrowhead&#39;s Helldivers 2 will arrive on the Xbox Series X and S on August 26 for $40, the first PlayStation-published title to launch on Xbox &lpar;Cameron Faulkner/The Verge&rpar;](http://www.techmeme.com/250703/p20#a250703p20)
- - [Whoop MG review: a big whoop for a small crowd](https://www.theverge.com/fitness-tracker-review/696156/whoop-mg-review-wearables-fitness-tracker-health)<!-- TECH:END -->
+ - [Xbox says Arrowhead&#39;s Helldivers 2 will arrive on the Xbox Series X and S on August 26 for $40, the first PlayStation-published title to launch on Xbox &lpar;Cameron Faulkner/The Verge&rpar;](http://www.techmeme.com/250703/p20#a250703p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

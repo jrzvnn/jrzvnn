@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: CEO Whitney Wolfe Herd said Bumble&#39;s &quot;centre of gravity&quot; would move to the US where the &quot;talent pool is right now&quot;; 70% of Bumble&#39;s staff are UK-based &lpar;Financial Times&rpar;](http://www.techmeme.com/250703/p2#a250703p2)
+ - [Hydrow Discount Code: Save Up to $150 in July](https://www.wired.com/story/hydrow-discount-code/)
  - [Visible Promo Code: Save Up to $300 in July 2025](https://www.wired.com/story/visible-promo-code/)
  - [Baidu overhauls its search engine with AI features and a voice function in its most sweeping revamp in years, and rolls out its first image-to-video model &lpar;Bloomberg&rpar;](http://www.techmeme.com/250703/p1#a250703p1)
- - [Some Chinese universities are using AI detection tools to screen papers, but false positives force students to &quot;dumb down&quot; content or pay for rewriting services &lpar;Peiyue Wu/Rest of World&rpar;](http://www.techmeme.com/250702/p32#a250702p32)
- - [Siemens says it has restored full access to its chip design software for its Chinese clients after the Trump admin lifted export curbs, initially imposed in May &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250702/p31#a250702p31)
- - [Datadog is joining the S&amp;P 500, replacing Juniper Networks after HPE acquired Juniper, before trading on July 9; DDOG jumps 10%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250702/p30#a250702p30)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, July 3](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-july-3/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

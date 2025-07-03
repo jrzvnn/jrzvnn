@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [London-based Hived, which offers an AI-based logistics and parcel delivery service, raised a $42M Series B led by NordicNinja &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250703/p31#a250703p31)
+ - [Apple to reveal tariff-stricken Q3 results on July 31](https://appleinsider.com/articles/25/07/03/apple-to-reveal-tariff-stricken-q3-results-on-july-31?utm_medium=rss)
  - [Congress passes budget to expand mass deportations, cut social services, and stall clean energy](https://www.theverge.com/policy/697879/congress-house-senate-pass-trump-obbb)
  - [The best laptops you can get](https://www.theverge.com/21250695/best-laptops)
- - [How Trump&#39;s One Big, Beautiful Bill, which was approved by Congress, could cost the US the AI race by handicapping efforts to meet data center power demands &lpar;Jordan Blum/Fortune&rpar;](http://www.techmeme.com/250703/p30#a250703p30)
- - [Google rolls out its Veo 3 video generation model to Google&#39;s AI Pro subscribers in more than 159 countries, with a cap of three videos per day &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250703/p29#a250703p29)
- - [The 27 Best Movies on Apple TV+ Right Now &lpar;July 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)<!-- TECH:END -->
+ - [How Trump&#39;s One Big, Beautiful Bill, which was approved by Congress, could cost the US the AI race by handicapping efforts to meet data center power demands &lpar;Jordan Blum/Fortune&rpar;](http://www.techmeme.com/250703/p30#a250703p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

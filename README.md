@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [ASML, Mistral, SAP, and 110+ European companies urge the EU to delay the implementation of its AI Act, saying it puts the bloc&#39;s AI ambitions at risk &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/250703/p14#a250703p14)
  - [12 Best Coffee Subscriptions &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-coffee-subscriptions/)
  - [Ford CEO Jim Farley, Andy Jassy, and other CEOs are now predicting AI will significantly cut white collar jobs, a shift from a reluctance to acknowledge losses &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250703/p13#a250703p13)
- - [Researchers detail Centaur, a modified version of Llama trained on 10M+ responses from 160 psychological experiments, in an attempt to mimic human cognition &lpar;Carl Zimmer/New York Times&rpar;](http://www.techmeme.com/250703/p12#a250703p12)<!-- TECH:END -->
+ - [How to Bring Apple Intelligence and More to Your iPhone&#39;s Control Center](https://www.cnet.com/tech/services-and-software/how-to-bring-apple-intelligence-and-more-to-your-iphones-control-center/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ASML, Mistral, SAP, and 110+ European companies urge the EU to delay the implementation of its AI Act, saying it puts the bloc&#39;s AI ambitions at risk &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/250703/p14#a250703p14)
+ - [12 Best Coffee Subscriptions &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-coffee-subscriptions/)
  - [Ford CEO Jim Farley, Andy Jassy, and other CEOs are now predicting AI will significantly cut white collar jobs, a shift from a reluctance to acknowledge losses &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250703/p13#a250703p13)
  - [Researchers detail Centaur, a modified version of Llama trained on 10M+ responses from 160 psychological experiments, in an attempt to mimic human cognition &lpar;Carl Zimmer/New York Times&rpar;](http://www.techmeme.com/250703/p12#a250703p12)
- - [Google’s customizable Gemini chatbots are now in Docs, Sheets, and Gmail](https://www.theverge.com/news/697352/google-gemini-gems-workspace-apps-docs-gmail)
- - [The Promise and Peril of Digital Security in the Age of Dictatorship](https://www.wired.com/story/the-promise-and-peril-of-digital-security-in-the-age-of-dictatorship/)
- - [Leaked documents: Meta is training custom AI chatbots to message users unprompted, following up on past chats to boost engagement on its AI Studio platform &lpar;Business Insider&rpar;](http://www.techmeme.com/250703/p11#a250703p11)<!-- TECH:END -->
+ - [I&#39;m Rethinking My Upgrade Based on These 5 iPhone 17 Pro Max Rumors](https://www.cnet.com/tech/mobile/im-rethinking-my-upgrade-based-on-these-5-iphone-17-pro-max-rumors/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

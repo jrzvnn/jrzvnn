@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I did that once](http://9gag.com/gag/a4PwKx6)
- - 😝 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)
- - 💣 [Such a confident walk](http://9gag.com/gag/ayNv7Lp)
- - 😝 [Marriage](http://9gag.com/gag/amoRN6V)
- - 👉 [That feeling of sudden restriction](http://9gag.com/gag/aGy7VwG)<!-- MEMES:END -->
+ - 😝 [Good riddance. As an owner this pissed me off completely. Like they spat in my face.](http://9gag.com/gag/a6ZGmYA)
+ - 💣 [Look what he can do! He is very brave and adventurous.](http://9gag.com/gag/a2vONeO)
+ - 😝 [Suicidal fish](http://9gag.com/gag/azx4LQB)
+ - 👉 [Such a confident walk](http://9gag.com/gag/ayNv7Lp)<!-- MEMES:END -->
 
 ---
 

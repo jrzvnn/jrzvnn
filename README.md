@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One piece](http://9gag.com/gag/aKGKw6j)
- - 😝 [Your favorite demon pastor](http://9gag.com/gag/a4PwK9Z)
- - 💣 [Kids toys used to be absolutely wild, can you imagine this today?](http://9gag.com/gag/agmERD1)
- - 😝 [Marriage](http://9gag.com/gag/amoRN6V)
- - 👉 [Impossi-bruh\u2026](http://9gag.com/gag/a4Pw4nA)<!-- MEMES:END -->
+ - 😝 [Kids toys used to be absolutely wild, can you imagine this today?](http://9gag.com/gag/agmERD1)
+ - 😝 [Just a normal day swimming in the Pokemon world](http://9gag.com/gag/amoRNOd)
+ - 💣 [Your favorite demon pastor](http://9gag.com/gag/a4PwK9Z)
+ - 😝 [Impossi-bruh\u2026](http://9gag.com/gag/a4Pw4nA)
+ - 👉 [Marriage](http://9gag.com/gag/amoRN6V)<!-- MEMES:END -->
 
 ---
 

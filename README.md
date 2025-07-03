@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;ll buff out](http://9gag.com/gag/aD2QRgK)
- - 😝 [Just a normal day swimming in the Pokemon world](http://9gag.com/gag/amoRNOd)
- - 💣 [THIS IS SPARTA](http://9gag.com/gag/ayNv728)
+ - 😝 [THIS IS SPARTA](http://9gag.com/gag/ayNv728)
  - 😝 [Your favorite demon pastor](http://9gag.com/gag/a4PwK9Z)
- - 👉 [Look what he can do! He is very brave and adventurous.](http://9gag.com/gag/a2vONeO)<!-- MEMES:END -->
+ - 💣 [Squirrel woke up and chose VIOLENCE on the whole family](http://9gag.com/gag/azx4bBK)
+ - 😝 [Bro\u2019s genetics kicked in](http://9gag.com/gag/agmKrbv)
+ - 👉 [That&#39;ll buff out](http://9gag.com/gag/aD2QRgK)<!-- MEMES:END -->
 
 ---
 

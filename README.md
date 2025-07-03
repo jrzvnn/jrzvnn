@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI is making it easier to create VTubers and faceless voiceover channels, fueling a flood of virtual creators on YouTube and TikTok amid concerns over AI slop &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/250703/p6#a250703p6)
  - [A whistleblower details Clothoff, an AI-powered nudify app that owns 10 similar services; Clothoff had 27M visitors in H1 2024 and produced 200K images daily &lpar;Spiegel Online&rpar;](http://www.techmeme.com/250703/p5#a250703p5)
  - [A look at the ~$377 TranscribeGlass smart glasses that use AI to subtitle conversations in nearly real time, built for the deaf or hard-of-hearing &lpar;Boone Ashworth/Wired&rpar;](http://www.techmeme.com/250703/p4#a250703p4)
  - [Uber drivers in British Columbia joined a union, seeking to negotiate Canada&#39;s first bargaining agreement for rideshare drivers; Uber has agreed to meet &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/250703/p3#a250703p3)
- - [Sources: CEO Whitney Wolfe Herd said Bumble&#39;s &quot;centre of gravity&quot; would move to the US where the &quot;talent pool is right now&quot;; 70% of Bumble&#39;s staff are UK-based &lpar;Financial Times&rpar;](http://www.techmeme.com/250703/p2#a250703p2)
- - [Hydrow Discount Code: Save Up to $150 in July](https://www.wired.com/story/hydrow-discount-code/)<!-- TECH:END -->
+ - [Sources: CEO Whitney Wolfe Herd said Bumble&#39;s &quot;centre of gravity&quot; would move to the US where the &quot;talent pool is right now&quot;; 70% of Bumble&#39;s staff are UK-based &lpar;Financial Times&rpar;](http://www.techmeme.com/250703/p2#a250703p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Temu version](http://9gag.com/gag/ajPR660)
- - 😝 [Bro\u2019s genetics kicked in](http://9gag.com/gag/agmKrbv)
- - 💣 [THIS IS SPARTA](http://9gag.com/gag/ayNv728)
- - 😝 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)
- - 👉 [Marriage](http://9gag.com/gag/amoRN6V)<!-- MEMES:END -->
+ - 😝 [Your favorite demon pastor](http://9gag.com/gag/a4PwK9Z)
+ - 😝 [Japan&#39;s defense is simply unreal, pulling off impossible saves.](http://9gag.com/gag/aRBRgV2)
+ - 💣 [RA RAH !!!](http://9gag.com/gag/aQzypqW)
+ - 😝 [Listen up](http://9gag.com/gag/azx4gQb)
+ - 👉 [Squirrel woke up and chose VIOLENCE on the whole family](http://9gag.com/gag/azx4bBK)<!-- MEMES:END -->
 
 ---
 

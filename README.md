@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The commitment was real](http://9gag.com/gag/aqyDZnR)
- - 😝 [Your favorite demon pastor](http://9gag.com/gag/a4PwK9Z)
- - 💣 [American Dream](http://9gag.com/gag/aBy4QpQ)
- - 😝 [Bro\u2019s genetics kicked in](http://9gag.com/gag/agmKrbv)
- - 👉 [That feeling of sudden restriction](http://9gag.com/gag/aGy7VwG)<!-- MEMES:END -->
+ - 😝 [One piece](http://9gag.com/gag/aKGKw6j)
+ - 💣 [AI won&#39;t take this job](http://9gag.com/gag/aVvRzmv)
+ - 😝 [Just some standard file organization, nothing to see here.](http://9gag.com/gag/aVvRQGK)
+ - 👉 [American Dream](http://9gag.com/gag/aBy4QpQ)<!-- MEMES:END -->
 
 ---
 

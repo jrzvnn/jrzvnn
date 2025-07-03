@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 27 Best Movies on Apple TV+ Right Now &lpar;July 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
  - [Founders Fund-backed Ondo Finance and Pantera Capital launch a $250M fund to invest in real-world asset tokenization projects via equity stakes and tokens &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/250703/p28#a250703p28)
  - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
  - [AWS showdown: Apple once considered providing cloud services to developers](https://appleinsider.com/articles/25/07/03/aws-showdown-apple-once-considered-providing-cloud-services-to-developers?utm_medium=rss)
- - [Apple is right to ditch folding iPad plans in favor of the iPhone Fold](https://appleinsider.com/articles/25/07/03/apple-is-right-to-ditch-folding-ipad-plans-in-favor-of-the-iphone-fold?utm_medium=rss)
- - [Sources: In 2024, Apple explored a cloud service renting its own chips to developers; it spends ~$7B per year on renting Nvidia chips from AWS and Google &lpar;Aaron Tilley/The Information&rpar;](http://www.techmeme.com/250703/p27#a250703p27)<!-- TECH:END -->
+ - [Apple is right to ditch folding iPad plans in favor of the iPhone Fold](https://appleinsider.com/articles/25/07/03/apple-is-right-to-ditch-folding-ipad-plans-in-favor-of-the-iphone-fold?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

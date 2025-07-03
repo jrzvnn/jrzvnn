@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Doraemon live action](http://9gag.com/gag/ary8pbX)
- - 😝 [Unexpected apology for a past road incident](http://9gag.com/gag/a4Pw4K1)
- - 💣 [BANGER!](http://9gag.com/gag/ayNv568)
- - 😝 [The ongoing debate about tipping culture and fair wages in the service industry.](http://9gag.com/gag/apRVKBb)
- - 👉 [Can relate](http://9gag.com/gag/aBy49yP)<!-- MEMES:END -->
+ - 😝 [The surprisingly small contact point between a train wheel and the rail.](http://9gag.com/gag/aW4DVr6)
+ - 😝 [Impossi-bruh\u2026](http://9gag.com/gag/a4Pw4nA)
+ - 💣 [Fellow pupil](http://9gag.com/gag/aAyvR1g)
+ - 😝 [Squirrel woke up and chose VIOLENCE on the whole family](http://9gag.com/gag/azx4bBK)
+ - 👉 [Just a normal day swimming in the Pokemon world](http://9gag.com/gag/amoRNOd)<!-- MEMES:END -->
 
 ---
 

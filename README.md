@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best AI app for Mac to enhance, denoise &amp; upscale videos to 4K clarity [Giveaway]](https://appleinsider.com/articles/25/07/03/best-ai-app-for-mac-to-enhance-denoise-upscale-videos-to-4k-clarity-giveaway?utm_medium=rss)
+ - [Helldivers 2 is the first PlayStation-published Xbox game](https://www.theverge.com/news/697430/helldivers-2-xbox-playstation-published-release-date)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
  - [iPhone 17 Pro Max rumored to get a larger battery, but don&#39;t expect longer life](https://appleinsider.com/articles/25/07/03/iphone-17-pro-max-rumored-to-get-a-larger-battery-but-dont-expect-longer-life?utm_medium=rss)
- - [Lego’s latest buildable arcade machine is packed full of fun hidden details](https://www.theverge.com/news/697411/lego-arcade-machine-price-release-date)
- - [Sources detail EA&#39;s issues developing the next Battlefield, which now has a $400M+ budget; some staff were skeptical of the EA leadership&#39;s 100M player target &lpar;Samuel Axon/Ars Technica&rpar;](http://www.techmeme.com/250703/p19#a250703p19)
- - [Samsung&#39;s One UI 8 build animation files show its future tri-fold phone, with three rear panels and two inward-folding hinges, rumored to be the Galaxy G Fold &lpar;Aamir Siddiqui/Android Authority&rpar;](http://www.techmeme.com/250703/p18#a250703p18)
- - [What Is Apple One? A Breakdown of Plans, Pricing, and Included Services](https://www.wired.com/story/what-is-apple-one/)<!-- TECH:END -->
+ - [Lego’s latest buildable arcade machine is packed full of fun hidden details](https://www.theverge.com/news/697411/lego-arcade-machine-price-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

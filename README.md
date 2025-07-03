@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kids toys used to be absolutely wild, can you imagine this today?](http://9gag.com/gag/agmERD1)
- - 😝 [Listen up](http://9gag.com/gag/azx4gQb)
- - 💣 [Bro will spend the rest of his life trying to find that taste again](http://9gag.com/gag/aXPRboP)
- - 😝 [Not guilty in 3 main charges..guilty in 2 &lpar;less important&rpar; and lawyer asking for 1 mil bail.. i guess if you are rich, everything is possible](http://9gag.com/gag/aW4RZP6)
- - 👉 [Now you are gey](http://9gag.com/gag/amopDDo)<!-- MEMES:END -->
+ - 😝 [Doraemon live action](http://9gag.com/gag/ary8pbX)
+ - 😝 [Unexpected apology for a past road incident](http://9gag.com/gag/a4Pw4K1)
+ - 💣 [BANGER!](http://9gag.com/gag/ayNv568)
+ - 😝 [The ongoing debate about tipping culture and fair wages in the service industry.](http://9gag.com/gag/apRVKBb)
+ - 👉 [Can relate](http://9gag.com/gag/aBy49yP)<!-- MEMES:END -->
 
 ---
 

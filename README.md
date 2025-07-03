@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now you are gey](http://9gag.com/gag/amopDDo)
- - 😝 [Bro won a jackpot](http://9gag.com/gag/abARX3b)
- - 💣 [Marriage](http://9gag.com/gag/amoRN6V)
- - 😝 [Just a normal day swimming in the Pokemon world](http://9gag.com/gag/amoRNOd)
- - 👉 [So dumb and stupid...who would design a revolving door like that?!](http://9gag.com/gag/aRBR68Q)<!-- MEMES:END -->
+ - 😝 [The Last Rizz Bender](http://9gag.com/gag/aAyvBnL)
+ - 😝 [So dumb and stupid...who would design a revolving door like that?!](http://9gag.com/gag/aRBR68Q)
+ - 💣 [THIS IS SPARTA](http://9gag.com/gag/ayNv728)
+ - 😝 [That&#39;ll buff out](http://9gag.com/gag/aD2QRgK)
+ - 👉 [Suddenly moral after all that](http://9gag.com/gag/axyYpwD)<!-- MEMES:END -->
 
 ---
 

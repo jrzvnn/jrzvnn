@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Again?!!!](http://9gag.com/gag/awyebrx)
- - 😝 [Doraemon live action](http://9gag.com/gag/ary8pbX)
- - 💣 [Can relate](http://9gag.com/gag/aBy49yP)
- - 😝 [Found them](http://9gag.com/gag/ary8pW7)
- - 👉 [Recycling](http://9gag.com/gag/a34NYBQ)<!-- MEMES:END -->
+ - 😝 [Look what he can do! He is very brave and adventurous.](http://9gag.com/gag/a2vONeO)
+ - 😝 [Your favorite demon pastor](http://9gag.com/gag/a4PwK9Z)
+ - 💣 [Just a normal day swimming in the Pokemon world](http://9gag.com/gag/amoRNOd)
+ - 😝 [AI won&#39;t take this job](http://9gag.com/gag/aVvRzmv)
+ - 👉 [American Dream](http://9gag.com/gag/aBy4QpQ)<!-- MEMES:END -->
 
 ---
 

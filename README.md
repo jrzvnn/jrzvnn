@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look what he can do! He is very brave and adventurous.](http://9gag.com/gag/a2vONeO)
- - 😝 [Your favorite demon pastor](http://9gag.com/gag/a4PwK9Z)
- - 💣 [Just a normal day swimming in the Pokemon world](http://9gag.com/gag/amoRNOd)
- - 😝 [AI won&#39;t take this job](http://9gag.com/gag/aVvRzmv)
- - 👉 [American Dream](http://9gag.com/gag/aBy4QpQ)<!-- MEMES:END -->
+ - 😝 [Just a normal day swimming in the Pokemon world](http://9gag.com/gag/amoRNOd)
+ - 😝 [Squirrel woke up and chose VIOLENCE on the whole family](http://9gag.com/gag/azx4bBK)
+ - 💣 [Look what he can do! He is very brave and adventurous.](http://9gag.com/gag/a2vONeO)
+ - 😝 [Bro\u2019s genetics kicked in](http://9gag.com/gag/agmKrbv)
+ - 👉 [Your favorite demon pastor](http://9gag.com/gag/a4PwK9Z)<!-- MEMES:END -->
 
 ---
 

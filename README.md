@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Product identifiers have leaked every Mac release through 2026](https://appleinsider.com/articles/25/07/03/apple-product-identifiers-have-leaked-every-mac-release-through-2026?utm_medium=rss)
  - [Sources: JD.com and Ant are lobbying the People&#39;s Bank of China to authorize yuan-based, Hong Kong-issued stablecoins to promote the yuan and counter USD coins &lpar;Reuters&rpar;](http://www.techmeme.com/250703/p16#a250703p16)
  - [Mixpanel founder Suhail Doshi calls out Soham Parekh, who he says &quot;works at 3-4 startups at the same time&quot; and has &quot;been preying on YC companies and more&quot; &lpar;Bhavya Sukheja/NDTV&rpar;](http://www.techmeme.com/250703/p15#a250703p15)
  - [ASML, Mistral, SAP, and 110+ European companies urge the EU to delay the implementation of its AI Act, saying it puts the bloc&#39;s AI ambitions at risk &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/250703/p14#a250703p14)
- - [12 Best Coffee Subscriptions &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-coffee-subscriptions/)
- - [Ford CEO Jim Farley, Andy Jassy, and other CEOs are now predicting AI will significantly cut white collar jobs, a shift from a reluctance to acknowledge losses &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250703/p13#a250703p13)<!-- TECH:END -->
+ - [12 Best Coffee Subscriptions &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-coffee-subscriptions/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

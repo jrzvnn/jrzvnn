@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s colorful Watch Solo Loop bands are up to 70 percent off now](https://www.theverge.com/tech/697526/apple-watch-band-solo-loop-prime-day-deal-sale)
+ - [Apple Music iOS 26 vs iOS 18: AutoMix, Liquid Glass, and lyrics in your language](https://appleinsider.com/inside/apple-music/vs/apple-music-ios-26-vs-ios-18-automix-liquid-glass-and-lyrics-in-your-language?utm_medium=rss)
  - [An interview with X VP of Product Keith Coleman about plans to let developers program AI agents to propose Community Notes notes, the old system, and more &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/250703/p23#a250703p23)
  - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
- - [How to Pick the Best Roku Device &lpar;2025&rpar;: A Guide to Each Model](https://www.wired.com/gallery/how-to-pick-the-right-roku/)
- - [Deerhoof did not want its music ‘funding AI battle tech’ — so it ditched Spotify](https://www.theverge.com/ai-artificial-intelligence/697337/deerhoof-greg-saunier-spotify-ai)
- - [The Open Platform, a key TON developer that is behind Telegram&#39;s crypto Wallet, raised a $28.5M Series A at a $1B valuation, bringing its total funding to $70M+ &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250703/p22#a250703p22)<!-- TECH:END -->
+ - [How to Pick the Best Roku Device &lpar;2025&rpar;: A Guide to Each Model](https://www.wired.com/gallery/how-to-pick-the-right-roku/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

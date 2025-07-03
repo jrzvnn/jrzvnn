@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [61 Best Early Amazon Prime Day Deals on Products We&#39;ve Tested &lpar;2025&rpar;](https://www.wired.com/story/best-early-amazon-prime-day-deals-2025-2/)
+ - [Sources: Meta offers to buy ~49% of Nat Friedman and Daniel Gross&#39;s VC fund NFDG; about half of NFDG&#39;s first fund of ~$1.1B, raised in 2023, has been invested &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/250703/p32#a250703p32)
+ - [Meet Soham Parekh, the engineer burning through tech by working at three to four startups simultaneously](https://www.theverge.com/news/697846/soham-parekh-startups-multiple-jobs-founders)
  - [The Person in Charge of Testing Tech for US Spies Has Resigned](https://www.wired.com/story/iarpa-director-resigns-odni/)
- - [London-based Hived, which offers an AI-based logistics and parcel delivery service, raised a $42M Series B led by NordicNinja &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250703/p31#a250703p31)
- - [Apple to reveal tariff-stricken Q3 results on July 31](https://appleinsider.com/articles/25/07/03/apple-to-reveal-tariff-stricken-q3-results-on-july-31?utm_medium=rss)
- - [Congress passes budget to expand mass deportations, cut social services, and stall clean energy](https://www.theverge.com/policy/697879/congress-house-senate-pass-trump-obbb)
- - [The best laptops you can get](https://www.theverge.com/21250695/best-laptops)<!-- TECH:END -->
+ - [London-based Hived, which offers an AI-based logistics and parcel delivery service, raised a $42M Series B led by NordicNinja &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250703/p31#a250703p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

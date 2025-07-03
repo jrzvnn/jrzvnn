@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just some standard file organization, nothing to see here.](http://9gag.com/gag/aVvRQGK)
- - 😝 [Marriage](http://9gag.com/gag/amoRN6V)
- - 💣 [I did that once](http://9gag.com/gag/a4PwKx6)
- - 😝 [Ups, they did it again.](http://9gag.com/gag/aYQRbrO)
- - 👉 [That feeling of sudden restriction](http://9gag.com/gag/aGy7VwG)<!-- MEMES:END -->
+ - 😝 [The universal language of career approval: a high salary.](http://9gag.com/gag/a9yDMxL)
+ - 😝 [Fellow beer enthusiast](http://9gag.com/gag/a2vOY1Z)
+ - 💣 [What rhymes with weatherman?](http://9gag.com/gag/aZZRxv0)
+ - 😝 [Still raising my hand for cartoons, age is just a number.](http://9gag.com/gag/aKGKw5b)
+ - 👉 [That escalated quickly](http://9gag.com/gag/aLnWQAz)<!-- MEMES:END -->
 
 ---
 

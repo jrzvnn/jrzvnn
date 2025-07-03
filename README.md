@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The surprisingly small contact point between a train wheel and the rail.](http://9gag.com/gag/aW4DVr6)
- - 😝 [Impossi-bruh\u2026](http://9gag.com/gag/a4Pw4nA)
- - 💣 [Fellow pupil](http://9gag.com/gag/aAyvR1g)
- - 😝 [Squirrel woke up and chose VIOLENCE on the whole family](http://9gag.com/gag/azx4bBK)
- - 👉 [Just a normal day swimming in the Pokemon world](http://9gag.com/gag/amoRNOd)<!-- MEMES:END -->
+ - 😝 [Now you are gey](http://9gag.com/gag/amopDDo)
+ - 😝 [Bro won a jackpot](http://9gag.com/gag/abARX3b)
+ - 💣 [Marriage](http://9gag.com/gag/amoRN6V)
+ - 😝 [Just a normal day swimming in the Pokemon world](http://9gag.com/gag/amoRNOd)
+ - 👉 [So dumb and stupid...who would design a revolving door like that?!](http://9gag.com/gag/aRBR68Q)<!-- MEMES:END -->
 
 ---
 

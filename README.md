@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Impossi-bruh\u2026](http://9gag.com/gag/a4Pw4nA)
+ - 😝 [That&#39;ll buff out](http://9gag.com/gag/aD2QRgK)
+ - 😝 [Just a normal day swimming in the Pokemon world](http://9gag.com/gag/amoRNOd)
+ - 💣 [THIS IS SPARTA](http://9gag.com/gag/ayNv728)
  - 😝 [Your favorite demon pastor](http://9gag.com/gag/a4PwK9Z)
- - 💣 [Bro\u2019s genetics kicked in](http://9gag.com/gag/agmKrbv)
- - 😝 [Now you are gey](http://9gag.com/gag/amopDDo)
- - 👉 [Marriage](http://9gag.com/gag/amoRN6V)<!-- MEMES:END -->
+ - 👉 [Look what he can do! He is very brave and adventurous.](http://9gag.com/gag/a2vONeO)<!-- MEMES:END -->
 
 ---
 

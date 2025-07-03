@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bitcoin&#39;s implied volatility declined to the lowest level in two years, showing decreased price swings and trading between $93K to $111K in the past two months &lpar;Kirk Ogunrinde/Bloomberg&rpar;](http://www.techmeme.com/250703/p9#a250703p9)
  - [Similarweb: since the launch of Google&#39;s AI Overviews, the number of news searches that result in no click-throughs grew from 56% in May 2024 to 69% in May 2025 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250703/p8#a250703p8)
  - [White collar workers are increasingly using AI note-taking apps to assist them during Zoom meetings or fully represent them when they choose not to attend &lpar;Washington Post&rpar;](http://www.techmeme.com/250703/p7#a250703p7)
  - [AI is making it easier to create VTubers and faceless voiceover channels, fueling a flood of virtual creators on YouTube and TikTok amid concerns over AI slop &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/250703/p6#a250703p6)
- - [Best Cellphone Plans of 2025: Our Top Picks](https://www.cnet.com/tech/mobile/best-phone-plans/#ftag=CAD590a51e)
- - [A whistleblower details Clothoff, an AI-powered nudify app that owns 10 similar services; Clothoff had 27M visitors in H1 2024 and produced 200K images daily &lpar;Spiegel Online&rpar;](http://www.techmeme.com/250703/p5#a250703p5)<!-- TECH:END -->
+ - [Best Cellphone Plans of 2025: Our Top Picks](https://www.cnet.com/tech/mobile/best-phone-plans/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

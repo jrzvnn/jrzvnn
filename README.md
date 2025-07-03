@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [We confirmed Nintendo’s Switch 2 TV dock supports VRR — so why doesn’t it work with Switch 2?](https://www.theverge.com/report/697937/nintendo-switch-2-vrr-steam-deck-rog-x-ally-120hz)
  - [Daniel Gross is leaving Safe Superintelligence, the AI startup he co-founded with Ilya Sutskever, to join Meta&#39;s new superintelligence lab &lpar;Bloomberg&rpar;](http://www.techmeme.com/250703/p33#a250703p33)
  - [Trump’s Defiance of TikTok Ban Prompted Immunity Promises to 10 Tech Companies](https://www.wired.com/story/pam-bondi-trump-tiktok-letters-google-apple-microsoft/)
  - [Paramount Plus Is Basically Free for 2 Months With This July 4th Deal](https://www.cnet.com/deals/paramount-is-basically-free-for-2-months-with-this-july-4th-deal/#ftag=CAD590a51e)
- - [Here are the letters that convinced Google and Apple to keep TikTok online](https://www.theverge.com/tiktok/697982/trump-tiktok-ban-apple-google-letters-pam-bondi)
- - [61 Best Early Amazon Prime Day Deals on Products We&#39;ve Tested &lpar;2025&rpar;](https://www.wired.com/story/best-early-amazon-prime-day-deals-2025-2/)<!-- TECH:END -->
+ - [Here are the letters that convinced Google and Apple to keep TikTok online](https://www.theverge.com/tiktok/697982/trump-tiktok-ban-apple-google-letters-pam-bondi)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

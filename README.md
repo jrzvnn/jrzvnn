@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Again?!!!](http://9gag.com/gag/awyebrx)
- - 😝 [Employee of the month energy.](http://9gag.com/gag/ary8eq7)
- - 💣 [Live for the walk!!](http://9gag.com/gag/avy90zb)
- - 😝 [Bro believes in gender equality.](http://9gag.com/gag/ae9RNBW)
- - 👉 [The universal language of career approval: a high salary.](http://9gag.com/gag/a9yDMxL)<!-- MEMES:END -->
+ - 😝 [Suicidal fish](http://9gag.com/gag/azx4LQB)
+ - 😝 [American Dream](http://9gag.com/gag/aBy4QpQ)
+ - 💣 [Who doesn&#39;t like windy days?](http://9gag.com/gag/aVvRWbd)
+ - 😝 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)
+ - 👉 [Such a confident walk](http://9gag.com/gag/ayNv7Lp)<!-- MEMES:END -->
 
 ---
 

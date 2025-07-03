@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Choose the Right TV: Quantum Dots, HDR, RGB, and More in 2025](https://www.wired.com/story/how-to-buy-the-right-tv/)
+ - [Xbox says Arrowhead&#39;s Helldivers 2 will arrive on the Xbox Series X and S on August 26 for $40, the first PlayStation-published title to launch on Xbox &lpar;Cameron Faulkner/The Verge&rpar;](http://www.techmeme.com/250703/p20#a250703p20)
+ - [Whoop MG review: a big whoop for a small crowd](https://www.theverge.com/fitness-tracker-review/696156/whoop-mg-review-wearables-fitness-tracker-health)
  - [Best AI app for Mac to enhance, denoise &amp; upscale videos to 4K clarity [Giveaway]](https://appleinsider.com/articles/25/07/03/best-ai-app-for-mac-to-enhance-denoise-upscale-videos-to-4k-clarity-giveaway?utm_medium=rss)
- - [Helldivers 2 is the first PlayStation-published Xbox game](https://www.theverge.com/news/697430/helldivers-2-xbox-playstation-published-release-date)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [iPhone 17 Pro Max rumored to get a larger battery, but don&#39;t expect longer life](https://appleinsider.com/articles/25/07/03/iphone-17-pro-max-rumored-to-get-a-larger-battery-but-dont-expect-longer-life?utm_medium=rss)
- - [Lego’s latest buildable arcade machine is packed full of fun hidden details](https://www.theverge.com/news/697411/lego-arcade-machine-price-release-date)<!-- TECH:END -->
+ - [Helldivers 2 is the first PlayStation-published Xbox game](https://www.theverge.com/news/697430/helldivers-2-xbox-playstation-published-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

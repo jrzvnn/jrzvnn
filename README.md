@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Marriage](http://9gag.com/gag/amoRN6V)
- - 😝 [Bro\u2019s genetics kicked in](http://9gag.com/gag/agmKrbv)
+ - 😝 [Fellow pupil](http://9gag.com/gag/aAyvR1g)
+ - 😝 [That feeling of sudden restriction](http://9gag.com/gag/aGy7VwG)
  - 💣 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)
- - 😝 [Who doesn&#39;t like windy days?](http://9gag.com/gag/aVvRWbd)
- - 👉 [American Dream](http://9gag.com/gag/aBy4QpQ)<!-- MEMES:END -->
+ - 😝 [Just some standard file organization, nothing to see here.](http://9gag.com/gag/aVvRQGK)
+ - 👉 [Bro\u2019s genetics kicked in](http://9gag.com/gag/agmKrbv)<!-- MEMES:END -->
 
 ---
 

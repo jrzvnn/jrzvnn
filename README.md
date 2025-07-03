@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I did that once](http://9gag.com/gag/a4PwKx6)
- - 😝 [Just some standard file organization, nothing to see here.](http://9gag.com/gag/aVvRQGK)
- - 💣 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)
- - 😝 [AI won&#39;t take this job](http://9gag.com/gag/aVvRzmv)
- - 👉 [Such a confident walk](http://9gag.com/gag/ayNv7Lp)<!-- MEMES:END -->
+ - 😝 [The universal language of career approval: a high salary.](http://9gag.com/gag/a9yDMxL)
+ - 😝 [My dog ran away and ended up having a better Friday night than me](http://9gag.com/gag/aMVqb86)
+ - 💣 [Still raising my hand for cartoons, age is just a number.](http://9gag.com/gag/aKGKw5b)
+ - 😝 [What rhymes with weatherman?](http://9gag.com/gag/aZZRxv0)
+ - 👉 [That escalated quickly](http://9gag.com/gag/aLnWQAz)<!-- MEMES:END -->
 
 ---
 

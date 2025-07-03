@@ -157,9 +157,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The White House’s favorite source of pro-Trump news is … the White House’s YouTube channel](https://www.theverge.com/politics/698148/white-house-wire-youtube)
  - [Counterpoint Research: Apple&#39;s iPhone sales in China grew 8% YoY in Q2 2025, the first time Apple has recorded growth in China since Q2 2023 &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250703/p34#a250703p34)
  - [We confirmed Nintendo’s Switch 2 TV dock supports VRR — so why doesn’t it work with Switch 2?](https://www.theverge.com/report/697937/nintendo-switch-2-vrr-steam-deck-rog-x-ally-120hz)
- - [&#39;Sinners&#39; Is Streaming on Max This Weekend. Here&#39;s When to Watch](https://www.cnet.com/culture/entertainment/sinners-is-streaming-max-this-weekend-heres-when-to-watch/#ftag=CAD590a51e)
  - [Daniel Gross is leaving Safe Superintelligence, the AI startup he co-founded with Ilya Sutskever, to join Meta&#39;s new superintelligence lab &lpar;Bloomberg&rpar;](http://www.techmeme.com/250703/p33#a250703p33)
  - [Trump’s Defiance of TikTok Ban Prompted Immunity Promises to 10 Tech Companies](https://www.wired.com/story/pam-bondi-trump-tiktok-letters-google-apple-microsoft/)<!-- TECH:END -->
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fellow pupil](http://9gag.com/gag/aAyvR1g)
- - 😝 [That feeling of sudden restriction](http://9gag.com/gag/aGy7VwG)
- - 💣 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)
- - 😝 [Just some standard file organization, nothing to see here.](http://9gag.com/gag/aVvRQGK)
- - 👉 [Bro\u2019s genetics kicked in](http://9gag.com/gag/agmKrbv)<!-- MEMES:END -->
+ - 😝 [Again?!!!](http://9gag.com/gag/awyebrx)
+ - 😝 [Employee of the month energy.](http://9gag.com/gag/ary8eq7)
+ - 💣 [Live for the walk!!](http://9gag.com/gag/avy90zb)
+ - 😝 [Bro believes in gender equality.](http://9gag.com/gag/ae9RNBW)
+ - 👉 [The universal language of career approval: a high salary.](http://9gag.com/gag/a9yDMxL)<!-- MEMES:END -->
 
 ---
 

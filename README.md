@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MacBook with A18 Pro first appeared in macOS 15 code](https://appleinsider.com/articles/25/06/30/macbook-with-a18-pro-first-appeared-in-macos-15-code?utm_medium=rss)
+ - [CoreWeave receives Nvidia&#39;s Blackwell Ultra servers built by Dell, becoming the first cloud provider to install systems based on Nvidia&#39;s latest AI chips &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250703/p25#a250703p25)
+ - [A Game Called &#39;Date Everything&#39; Literally Lets You Date Everything—Except People](https://www.wired.com/story/a-game-called-date-everything-literally-lets-you-date-everything-except-people/)
  - [Pre-Prime Day deals: Mac mini $199, AirTag $23, Dio Node AirPlay speaker $67, Ugreen dock $64](https://appleinsider.com/articles/25/07/03/pre-prime-day-deals-mac-mini-199-airtag-23-dio-node-airplay-speaker-67-ugreen-dock-64?utm_medium=rss)
- - [Austin-based Ambiq Micro, which makes ultra-low power chips, files for an IPO and reports an $8.3M net loss on $15.7M in revenue in the three months to March 31 &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/250703/p24#a250703p24)
- - [Apple rolls out new wallpapers in celebration of Apple Umeda opening](https://appleinsider.com/articles/25/07/03/apple-rolls-out-new-wallpapers-in-celebration-of-apple-umeda-opening?utm_medium=rss)
- - [Paramount Plus slashes prices to $2 for two months](https://www.theverge.com/tech/697560/paramount-plus-star-trek-strange-new-worlds-deal-sale)
- - [Apple’s colorful Watch Solo Loop bands are up to 70 percent off now](https://www.theverge.com/tech/697526/apple-watch-band-solo-loop-prime-day-deal-sale)<!-- TECH:END -->
+ - [Austin-based Ambiq Micro, which makes ultra-low power chips, files for an IPO and reports an $8.3M net loss on $15.7M in revenue in the three months to March 31 &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/250703/p24#a250703p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

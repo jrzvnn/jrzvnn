@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Last Rizz Bender](http://9gag.com/gag/aAyvBnL)
- - 😝 [So dumb and stupid...who would design a revolving door like that?!](http://9gag.com/gag/aRBR68Q)
- - 💣 [THIS IS SPARTA](http://9gag.com/gag/ayNv728)
- - 😝 [That&#39;ll buff out](http://9gag.com/gag/aD2QRgK)
- - 👉 [Suddenly moral after all that](http://9gag.com/gag/axyYpwD)<!-- MEMES:END -->
+ - 😝 [Companies need to stop shoehorning AI where it doesn&#39;t belong.](http://9gag.com/gag/aRBRQeB)
+ - 😝 [Your favorite demon pastor](http://9gag.com/gag/a4PwK9Z)
+ - 💣 [Always when he win](http://9gag.com/gag/adBR0qB)
+ - 😝 [Suddenly moral after all that](http://9gag.com/gag/axyYpwD)
+ - 👉 [Now you are gey](http://9gag.com/gag/amopDDo)<!-- MEMES:END -->
 
 ---
 

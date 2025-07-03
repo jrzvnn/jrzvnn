@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Product identifiers have leaked every Mac release through 2026](https://appleinsider.com/articles/25/07/03/apple-product-identifiers-have-leaked-every-mac-release-through-2026?utm_medium=rss)
- - [Sources: JD.com and Ant are lobbying the People&#39;s Bank of China to authorize yuan-based, Hong Kong-issued stablecoins to promote the yuan and counter USD coins &lpar;Reuters&rpar;](http://www.techmeme.com/250703/p16#a250703p16)
- - [Mixpanel founder Suhail Doshi calls out Soham Parekh, who he says &quot;works at 3-4 startups at the same time&quot; and has &quot;been preying on YC companies and more&quot; &lpar;Bhavya Sukheja/NDTV&rpar;](http://www.techmeme.com/250703/p15#a250703p15)
- - [ASML, Mistral, SAP, and 110+ European companies urge the EU to delay the implementation of its AI Act, saying it puts the bloc&#39;s AI ambitions at risk &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/250703/p14#a250703p14)
- - [12 Best Coffee Subscriptions &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-coffee-subscriptions/)<!-- TECH:END -->
+ - [A rollable iPad won&#39;t break at the hinge, and Apple keeps working on one](https://appleinsider.com/articles/20/03/24/a-rollable-iphone-wont-break-at-the-hinge-and-apple-is-working-on-one?utm_medium=rss)
+ - [Samsung seems to have leaked its own trifold phone design](https://www.theverge.com/news/697395/samsung-galaxy-trifold-foldable-leaks-one-ui-8)
+ - [RFK Jr.’s plan to put ‘AI’ in everything is a disaster](https://www.theverge.com/ai-artificial-intelligence/697129/rfk-jr-ai)
+ - [The 7 Best Kitchen Scales Reviewed by a Former Chocolatier &lpar;2025&rpar;](https://www.wired.com/gallery/best-kitchen-scale/)
+ - [Sources: Microsoft cut hundreds of Xbox jobs across studios, including King, ZeniMax, and Halo Studios, and cancels games like the new Perfect Dark and Everwild &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250703/p17#a250703p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

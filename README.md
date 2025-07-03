@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [THIS IS SPARTA](http://9gag.com/gag/ayNv728)
- - 😝 [Your favorite demon pastor](http://9gag.com/gag/a4PwK9Z)
- - 💣 [Squirrel woke up and chose VIOLENCE on the whole family](http://9gag.com/gag/azx4bBK)
- - 😝 [Bro\u2019s genetics kicked in](http://9gag.com/gag/agmKrbv)
- - 👉 [That&#39;ll buff out](http://9gag.com/gag/aD2QRgK)<!-- MEMES:END -->
+ - 😝 [Dyce loves his plushie](http://9gag.com/gag/aO8pqEM)
+ - 😝 [Unexpected apology for a past road incident](http://9gag.com/gag/a4Pw4K1)
+ - 💣 [Doraemon live action](http://9gag.com/gag/ary8pbX)
+ - 😝 [The ongoing debate about tipping culture and fair wages in the service industry.](http://9gag.com/gag/apRVKBb)
+ - 👉 [Can relate](http://9gag.com/gag/aBy49yP)<!-- MEMES:END -->
 
 ---
 

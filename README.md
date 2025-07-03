@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Suicidal fish](http://9gag.com/gag/azx4LQB)
- - 😝 [American Dream](http://9gag.com/gag/aBy4QpQ)
- - 💣 [Who doesn&#39;t like windy days?](http://9gag.com/gag/aVvRWbd)
+ - 😝 [Bro will spend the rest of his life trying to find that taste again](http://9gag.com/gag/aXPRboP)
  - 😝 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)
- - 👉 [Such a confident walk](http://9gag.com/gag/ayNv7Lp)<!-- MEMES:END -->
+ - 💣 [That feeling of sudden restriction](http://9gag.com/gag/aGy7VwG)
+ - 😝 [AI won&#39;t take this job](http://9gag.com/gag/aVvRzmv)
+ - 👉 [Will you eat that...?](http://9gag.com/gag/ajPRrEG)<!-- MEMES:END -->
 
 ---
 

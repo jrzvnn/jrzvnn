@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iPhone 16 push delivers rare growth in China&#39;s cooling market](https://appleinsider.com/articles/25/07/03/apples-iphone-16-push-delivers-rare-growth-in-chinas-cooling-market?utm_medium=rss)
- - [Ilya Sutskever becomes the CEO of Safe Superintelligence, the AI startup he co-founded after leaving OpenAI; Meta reportedly poached previous CEO Daniel Gross &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250703/p26#a250703p26)
- - [E Ink is turning the laptop touchpad into an e-reader for AI apps](https://www.theverge.com/news/697688/eink-epaper-touchpad-laptop-intel-ai-pcs)
- - [CBP Wants New Tech to Search for Hidden Data on Seized Phones](https://www.wired.com/story/cbp-wants-new-tech-to-search-for-hidden-data-on-seized-phones/)
- - [iPhone 17 Pro Max rumored to get a larger battery, but don&#39;t expect longer life](https://appleinsider.com/articles/25/07/03/iphone-17-pro-max-rumored-to-get-a-larger-battery-but-dont-expect-longer-life?utm_medium=rss)<!-- TECH:END -->
+ - [AWS showdown: Apple once considered providing cloud services to developers](https://appleinsider.com/articles/25/07/03/aws-showdown-apple-once-considered-providing-cloud-services-to-developers?utm_medium=rss)
+ - [Apple is right to ditch folding iPad plans in favor of the iPhone Fold](https://appleinsider.com/articles/25/07/03/apple-is-right-to-ditch-folding-ipad-plans-in-favor-of-the-iphone-fold?utm_medium=rss)
+ - [Sources: In 2024, Apple explored a cloud service renting its own chips to developers; it spends ~$7B per year on renting Nvidia chips from AWS and Google &lpar;Aaron Tilley/The Information&rpar;](http://www.techmeme.com/250703/p27#a250703p27)
+ - [Trump Officials Want to Prosecute Over the ICEBlock App. Lawyers Say That’s Unconstitutional](https://www.wired.com/story/trump-officials-want-to-prosecute-over-the-iceblock-app-lawyers-say-thats-unconstitutional/)
+ - [Apple&#39;s iPhone 16 push delivers rare growth in China&#39;s cooling market](https://appleinsider.com/articles/25/07/03/apples-iphone-16-push-delivers-rare-growth-in-chinas-cooling-market?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

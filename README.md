@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Again?!!!](http://9gag.com/gag/awyebrx)
- - 😝 [The universal language of career approval: a high salary.](http://9gag.com/gag/a9yDMxL)
- - 💣 [Fellow weeb, your wife is waiting...](http://9gag.com/gag/aXPRpnb)
- - 😝 [Fellow beer enthusiast](http://9gag.com/gag/a2vOY1Z)
- - 👉 [Bro believes in gender equality.](http://9gag.com/gag/ae9RNBW)<!-- MEMES:END -->
+ - 😝 [I did that once](http://9gag.com/gag/a4PwKx6)
+ - 😝 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)
+ - 💣 [Such a confident walk](http://9gag.com/gag/ayNv7Lp)
+ - 😝 [Marriage](http://9gag.com/gag/amoRN6V)
+ - 👉 [That feeling of sudden restriction](http://9gag.com/gag/aGy7VwG)<!-- MEMES:END -->
 
 ---
 

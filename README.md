@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Instant Trigger](http://9gag.com/gag/aAyvVMp)
- - 😝 [Again?!!!](http://9gag.com/gag/awyebrx)
- - 💣 [Employee of the month energy.](http://9gag.com/gag/ary8eq7)
- - 😝 [Recycling](http://9gag.com/gag/a34NYBQ)
- - 👉 [Impossi-bruh\u2026](http://9gag.com/gag/a4Pw4nA)<!-- MEMES:END -->
+ - 😝 [The commitment was real](http://9gag.com/gag/aqyDZnR)
+ - 😝 [Your favorite demon pastor](http://9gag.com/gag/a4PwK9Z)
+ - 💣 [American Dream](http://9gag.com/gag/aBy4QpQ)
+ - 😝 [Bro\u2019s genetics kicked in](http://9gag.com/gag/agmKrbv)
+ - 👉 [That feeling of sudden restriction](http://9gag.com/gag/aGy7VwG)<!-- MEMES:END -->
 
 ---
 

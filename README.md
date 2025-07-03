@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [xAI has been granted a permit to operate 15 gas turbines at its Memphis campus until 2027, despite protests and a potential NAACP lawsuit over air pollution &lpar;Molly Taft/Wired&rpar;](http://www.techmeme.com/250702/p29#a250702p29)
- - [Nintendo Switch 2 Joy-Con Issues? It Might Just Be Your HDMI Cable](https://www.cnet.com/tech/gaming/nintendo-switch-2-joy-con-issues-it-might-just-be-your-hdmi-cable/#ftag=CAD590a51e)
- - [Starlink Plans to Send 42K Satellites Into Space. That Could Be Bad News for the Ozone](https://www.cnet.com/home/internet/starlink-plans-to-send-42k-satellites-into-space-that-could-be-bad-news-for-the-ozone/#ftag=CAD590a51e)
- - [Despite Protests, Elon Musk Secures Air Permit for xAI](https://www.wired.com/story/xai-data-center-air-pollution-permit/)
- - [The best Apple deals you can shop ahead of Amazon Prime Day](https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals)<!-- TECH:END -->
+ - [Some Chinese universities are using AI detection tools to screen papers, but false positives force students to &quot;dumb down&quot; content or pay for rewriting services &lpar;Peiyue Wu/Rest of World&rpar;](http://www.techmeme.com/250702/p32#a250702p32)
+ - [Siemens says it has restored full access to its chip design software for its Chinese clients after the Trump admin lifted export curbs, initially imposed in May &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250702/p31#a250702p31)
+ - [Datadog is joining the S&amp;P 500, replacing Juniper Networks after HPE acquired Juniper, before trading on July 9; DDOG jumps 10%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250702/p30#a250702p30)
+ - [Best Wireless Earbuds of 2025](https://www.cnet.com/tech/mobile/best-wireless-earbuds/#ftag=CAD590a51e)
+ - [xAI has been granted a permit to operate 15 gas turbines at its Memphis campus until 2027, despite protests and a potential NAACP lawsuit over air pollution &lpar;Molly Taft/Wired&rpar;](http://www.techmeme.com/250702/p29#a250702p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

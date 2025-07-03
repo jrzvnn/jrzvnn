@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Austin-based Ambiq Micro, which makes ultra-low power chips, files for an IPO and reports an $8.3M net loss on $15.7M in revenue in the three months to March 31 &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/250703/p24#a250703p24)
+ - [Apple rolls out new wallpapers in celebration of Apple Umeda opening](https://appleinsider.com/articles/25/07/03/apple-rolls-out-new-wallpapers-in-celebration-of-apple-umeda-opening?utm_medium=rss)
+ - [Paramount Plus slashes prices to $2 for two months](https://www.theverge.com/tech/697560/paramount-plus-star-trek-strange-new-worlds-deal-sale)
  - [Apple’s colorful Watch Solo Loop bands are up to 70 percent off now](https://www.theverge.com/tech/697526/apple-watch-band-solo-loop-prime-day-deal-sale)
- - [Apple Music iOS 26 vs iOS 18: AutoMix, Liquid Glass, and lyrics in your language](https://appleinsider.com/inside/apple-music/vs/apple-music-ios-26-vs-ios-18-automix-liquid-glass-and-lyrics-in-your-language?utm_medium=rss)
- - [An interview with X VP of Product Keith Coleman about plans to let developers program AI agents to propose Community Notes notes, the old system, and more &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/250703/p23#a250703p23)
- - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
- - [How to Pick the Best Roku Device &lpar;2025&rpar;: A Guide to Each Model](https://www.wired.com/gallery/how-to-pick-the-right-roku/)<!-- TECH:END -->
+ - [Apple Music iOS 26 vs iOS 18: AutoMix, Liquid Glass, and lyrics in your language](https://appleinsider.com/inside/apple-music/vs/apple-music-ios-26-vs-ios-18-automix-liquid-glass-and-lyrics-in-your-language?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

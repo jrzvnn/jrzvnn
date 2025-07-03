@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Companies need to stop shoehorning AI where it doesn&#39;t belong.](http://9gag.com/gag/aRBRQeB)
+ - 😝 [One piece](http://9gag.com/gag/aKGKw6j)
  - 😝 [Your favorite demon pastor](http://9gag.com/gag/a4PwK9Z)
- - 💣 [Always when he win](http://9gag.com/gag/adBR0qB)
- - 😝 [Suddenly moral after all that](http://9gag.com/gag/axyYpwD)
- - 👉 [Now you are gey](http://9gag.com/gag/amopDDo)<!-- MEMES:END -->
+ - 💣 [Kids toys used to be absolutely wild, can you imagine this today?](http://9gag.com/gag/agmERD1)
+ - 😝 [Marriage](http://9gag.com/gag/amoRN6V)
+ - 👉 [Impossi-bruh\u2026](http://9gag.com/gag/a4Pw4nA)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Uber drivers in British Columbia joined a union, seeking to negotiate Canada&#39;s first bargaining agreement for rideshare drivers; Uber has agreed to meet &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/250703/p3#a250703p3)
  - [Sources: CEO Whitney Wolfe Herd said Bumble&#39;s &quot;centre of gravity&quot; would move to the US where the &quot;talent pool is right now&quot;; 70% of Bumble&#39;s staff are UK-based &lpar;Financial Times&rpar;](http://www.techmeme.com/250703/p2#a250703p2)
  - [Hydrow Discount Code: Save Up to $150 in July](https://www.wired.com/story/hydrow-discount-code/)
  - [Visible Promo Code: Save Up to $300 in July 2025](https://www.wired.com/story/visible-promo-code/)
- - [Baidu overhauls its search engine with AI features and a voice function in its most sweeping revamp in years, and rolls out its first image-to-video model &lpar;Bloomberg&rpar;](http://www.techmeme.com/250703/p1#a250703p1)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, July 3](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-july-3/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Baidu overhauls its search engine with AI features and a voice function in its most sweeping revamp in years, and rolls out its first image-to-video model &lpar;Bloomberg&rpar;](http://www.techmeme.com/250703/p1#a250703p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

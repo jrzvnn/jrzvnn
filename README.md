@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [E Ink is turning the laptop touchpad into an e-reader for AI apps](https://www.theverge.com/news/697688/eink-epaper-touchpad-laptop-intel-ai-pcs)
  - [CBP Wants New Tech to Search for Hidden Data on Seized Phones](https://www.wired.com/story/cbp-wants-new-tech-to-search-for-hidden-data-on-seized-phones/)
  - [iPhone 17 Pro Max rumored to get a larger battery, but don&#39;t expect longer life](https://appleinsider.com/articles/25/07/03/iphone-17-pro-max-rumored-to-get-a-larger-battery-but-dont-expect-longer-life?utm_medium=rss)
  - [MacBook with A18 Pro first appeared in macOS 15 code](https://appleinsider.com/articles/25/06/30/macbook-with-a18-pro-first-appeared-in-macos-15-code?utm_medium=rss)
- - [Trump’s ‘Big Beautiful Bill’ Would Leave Millions Without Health Insurance](https://www.wired.com/story/trumps-big-beautiful-bill-would-leave-millions-without-health-insurance/)
- - [CoreWeave receives Nvidia&#39;s Blackwell Ultra servers built by Dell, becoming the first cloud provider to install systems based on Nvidia&#39;s latest AI chips &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250703/p25#a250703p25)<!-- TECH:END -->
+ - [Trump’s ‘Big Beautiful Bill’ Would Leave Millions Without Health Insurance](https://www.wired.com/story/trumps-big-beautiful-bill-would-leave-millions-without-health-insurance/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

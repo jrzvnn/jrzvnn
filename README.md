@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [xAI has been granted a permit to operate 15 gas turbines at its Memphis campus until 2027, despite protests and a potential NAACP lawsuit over air pollution &lpar;Molly Taft/Wired&rpar;](http://www.techmeme.com/250702/p29#a250702p29)
+ - [Nintendo Switch 2 Joy-Con Issues? It Might Just Be Your HDMI Cable](https://www.cnet.com/tech/gaming/nintendo-switch-2-joy-con-issues-it-might-just-be-your-hdmi-cable/#ftag=CAD590a51e)
+ - [Starlink Plans to Send 42K Satellites Into Space. That Could Be Bad News for the Ozone](https://www.cnet.com/home/internet/starlink-plans-to-send-42k-satellites-into-space-that-could-be-bad-news-for-the-ozone/#ftag=CAD590a51e)
  - [Despite Protests, Elon Musk Secures Air Permit for xAI](https://www.wired.com/story/xai-data-center-air-pollution-permit/)
- - [The best Apple deals you can shop ahead of Amazon Prime Day](https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals)
- - [Racist videos made with AI are going viral on TikTok](https://www.theverge.com/news/697188/racist-ai-generated-videos-google-veo-3-tiktok)
- - [Microsoft&#39;s &#39;Blue Screen of Death&#39; Dies After 40 Years: Meet Its Replacement](https://www.cnet.com/tech/services-and-software/microsofts-blue-screen-of-death-dies-after-40-years-of-memes-jokes-t-shirts/#ftag=CAD590a51e)
- - [How to use an iPad as a screen for the Nintendo Switch 2](https://appleinsider.com/inside/ipad/tips/how-to-use-an-ipad-as-a-screen-for-the-nintendo-switch-2?utm_medium=rss)<!-- TECH:END -->
+ - [The best Apple deals you can shop ahead of Amazon Prime Day](https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

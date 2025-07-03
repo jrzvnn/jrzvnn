@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro will spend the rest of his life trying to find that taste again](http://9gag.com/gag/aXPRboP)
- - 😝 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)
- - 💣 [That feeling of sudden restriction](http://9gag.com/gag/aGy7VwG)
- - 😝 [AI won&#39;t take this job](http://9gag.com/gag/aVvRzmv)
- - 👉 [Will you eat that...?](http://9gag.com/gag/ajPRrEG)<!-- MEMES:END -->
+ - 😝 [Again?!!!](http://9gag.com/gag/awyebrx)
+ - 😝 [The universal language of career approval: a high salary.](http://9gag.com/gag/a9yDMxL)
+ - 💣 [Fellow weeb, your wife is waiting...](http://9gag.com/gag/aXPRpnb)
+ - 😝 [Fellow beer enthusiast](http://9gag.com/gag/a2vOY1Z)
+ - 👉 [Bro believes in gender equality.](http://9gag.com/gag/ae9RNBW)<!-- MEMES:END -->
 
 ---
 

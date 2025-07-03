@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s iPhone 16 push delivers rare growth in China&#39;s cooling market](https://appleinsider.com/articles/25/07/03/apples-iphone-16-push-delivers-rare-growth-in-chinas-cooling-market?utm_medium=rss)
  - [Ilya Sutskever becomes the CEO of Safe Superintelligence, the AI startup he co-founded after leaving OpenAI; Meta reportedly poached previous CEO Daniel Gross &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250703/p26#a250703p26)
  - [E Ink is turning the laptop touchpad into an e-reader for AI apps](https://www.theverge.com/news/697688/eink-epaper-touchpad-laptop-intel-ai-pcs)
  - [CBP Wants New Tech to Search for Hidden Data on Seized Phones](https://www.wired.com/story/cbp-wants-new-tech-to-search-for-hidden-data-on-seized-phones/)
- - [iPhone 17 Pro Max rumored to get a larger battery, but don&#39;t expect longer life](https://appleinsider.com/articles/25/07/03/iphone-17-pro-max-rumored-to-get-a-larger-battery-but-dont-expect-longer-life?utm_medium=rss)
- - [MacBook with A18 Pro first appeared in macOS 15 code](https://appleinsider.com/articles/25/06/30/macbook-with-a18-pro-first-appeared-in-macos-15-code?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 17 Pro Max rumored to get a larger battery, but don&#39;t expect longer life](https://appleinsider.com/articles/25/07/03/iphone-17-pro-max-rumored-to-get-a-larger-battery-but-dont-expect-longer-life?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

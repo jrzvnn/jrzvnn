@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Choose the Right Soundbar &lpar;2025&rpar;: Size, Price, Surround Sound, and Subwoofers](https://www.wired.com/story/how-to-buy-the-right-soundbar/)
+ - [The best Bluetooth trackers for Apple and Android phones](https://www.theverge.com/23769840/best-bluetooth-trackers)
  - [15 Best MagSafe Wireless Chargers &lpar;2025&rpar;: Power Banks, Stands, Pads, and Travel Chargers](https://www.wired.com/gallery/best-magsafe-wireless-chargers/)
  - [Sources: Google plans to propose a price comparison box at the top of search results in EU, featuring ranked options from competitors, to avoid DMA fines &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/250704/p6#a250704p6)
- - [Siri&#39;s future, the original iPhone&#39;s past, and Apple Music&#39;s birthday on the AppleInsider Podcast](https://appleinsider.com/articles/25/07/04/siris-future-the-original-iphones-past-and-apple-musics-birthday-on-the-appleinsider-podcast?utm_medium=rss)
- - [We Found the 8 Most Common Foods With Microplastics](https://www.cnet.com/health/nutrition/8-common-foods-that-contain-microplastics-and-how-to-avoid-them/#ftag=CAD590a51e)
- - [The American system of democracy has crashed](https://www.theverge.com/policy/697301/trump-supreme-court-founding-fathers-july-4)<!-- TECH:END -->
+ - [Siri&#39;s future, the original iPhone&#39;s past, and Apple Music&#39;s birthday on the AppleInsider Podcast](https://appleinsider.com/articles/25/07/04/siris-future-the-original-iphones-past-and-apple-musics-birthday-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

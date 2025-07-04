@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The hunt for the legendary Moose Boy microchip Easter egg is finally over.](http://9gag.com/gag/a87VbGd)
- - 😝 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)
- - 💣 [Just some standard file organization, nothing to see here.](http://9gag.com/gag/aVvRQGK)
- - 😝 [A legal outcome that raises questions](http://9gag.com/gag/a34Nd53)
- - 👉 [Japan&#39;s defense is simply unreal, pulling off impossible saves.](http://9gag.com/gag/aRBRgV2)<!-- MEMES:END -->
+ - 😝 [Guys...](http://9gag.com/gag/aKGKB31)
+ - 😝 [In South Africa people install security gates inside their homes to protect their bedrooms](http://9gag.com/gag/ayNv0Rp)
+ - 💣 [How well does this work on atms? Asking for a friend](http://9gag.com/gag/axymNwp)
+ - 😝 [Suicidal fish](http://9gag.com/gag/azx4LQB)
+ - 👉 [Will you eat that...?](http://9gag.com/gag/ajPRrEG)<!-- MEMES:END -->
 
 ---
 

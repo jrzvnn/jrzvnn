@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That feeling of sudden restriction](http://9gag.com/gag/aGy7VwG)
- - 😝 [A legal outcome that raises questions](http://9gag.com/gag/a34Nd53)
- - 💣 [Press f](http://9gag.com/gag/agmKvPq)
- - 😝 [Will you eat that...?](http://9gag.com/gag/ajPRrEG)
+ - 😝 [Bro believes in gender equality.](http://9gag.com/gag/ae9RNBW)
+ - 😝 [Stand your ground for the seat you paid for.](http://9gag.com/gag/aBy4rpN)
+ - 💣 [Dedication to the front row parking spot](http://9gag.com/gag/aQzynKq)
+ - 😝 [Who doesn&#39;t like windy days?](http://9gag.com/gag/aVvRWbd)
  - 👉 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)<!-- MEMES:END -->
 
 ---

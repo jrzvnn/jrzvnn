@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ups, they did it again.](http://9gag.com/gag/aYQRbrO)
- - 😝 [What about PH?](http://9gag.com/gag/a6ZGLdR)
- - 💣 [A legal outcome that raises questions](http://9gag.com/gag/a34Nd53)
- - 😝 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)
- - 👉 [Bro believes in gender equality.](http://9gag.com/gag/ae9RNBW)<!-- MEMES:END -->
+ - 😝 [What rhymes with weatherman?](http://9gag.com/gag/aZZRxv0)
+ - 😝 [Bro believes in gender equality.](http://9gag.com/gag/ae9RNBW)
+ - 💣 [Stand your ground for the seat you paid for.](http://9gag.com/gag/aBy4rpN)
+ - 😝 [Who doesn&#39;t like windy days?](http://9gag.com/gag/aVvRWbd)
+ - 👉 [Dedication to the front row parking spot](http://9gag.com/gag/aQzynKq)<!-- MEMES:END -->
 
 ---
 

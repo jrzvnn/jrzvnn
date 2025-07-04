@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tel Aviv-based Wonderful, which develops customer support AI agents for businesses in non-English speaking countries, raised a $34M seed led by Index Ventures &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/250703/p37#a250703p37)
+ - [DOJ lack of TikTok ban enforcement appears to be due to broad Article II interpretation](https://appleinsider.com/articles/25/07/04/doj-lack-of-tiktok-ban-enforcement-appears-to-be-due-to-broad-article-ii-interpretation?utm_medium=rss)
+ - [Sources: Samsung is delaying completion of its Texas fab due to a lack of customers; the plant was meant to come online in 2024 before being pushed to 2026 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250703/p36#a250703p36)
  - [FOIA docs: the Trump administration claimed broad authority to nullify laws in letters to tech firms releasing them of legal liability related to the TikTok ban &lpar;Charlie Savage/New York Times&rpar;](http://www.techmeme.com/250703/p35#a250703p35)
- - [The White House’s favorite source of pro-Trump news is … the White House’s YouTube channel](https://www.theverge.com/politics/698148/white-house-wire-youtube)
- - [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)
- - [Counterpoint Research: Apple&#39;s iPhone sales in China grew 8% YoY in Q2 2025, the first time Apple has recorded growth in China since Q2 2023 &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250703/p34#a250703p34)
- - [We confirmed Nintendo’s Switch 2 TV dock supports VRR — so why doesn’t it work with Switch 2?](https://www.theverge.com/report/697937/nintendo-switch-2-vrr-steam-deck-rog-x-ally-120hz)<!-- TECH:END -->
+ - [The White House’s favorite source of pro-Trump news is … the White House’s YouTube channel](https://www.theverge.com/politics/698148/white-house-wire-youtube)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

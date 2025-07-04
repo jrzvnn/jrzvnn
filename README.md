@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German dishwasher 1959](http://9gag.com/gag/a87VbgQ)
- - 😝 [Not all delivery drivers are the same, especially UPS](http://9gag.com/gag/a7onKrm)
- - 💣 [Bro believes in gender equality.](http://9gag.com/gag/ae9RNBW)
+ - 😝 [It\u2019s a lie they said..It\u2019s a myth they said\u2026](http://9gag.com/gag/aPAr4OK)
  - 😝 [Press f](http://9gag.com/gag/agmKvPq)
- - 👉 [Suicidal fish](http://9gag.com/gag/azx4LQB)<!-- MEMES:END -->
+ - 💣 [A legal outcome that raises questions](http://9gag.com/gag/a34Nd53)
+ - 😝 [The healthcare system is wild. Always check GoodRx.](http://9gag.com/gag/aAyvp8Z)
+ - 👉 [Bro believes in gender equality.](http://9gag.com/gag/ae9RNBW)<!-- MEMES:END -->
 
 ---
 

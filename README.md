@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Siri&#39;s future, the original iPhone&#39;s past, and Apple Music&#39;s birthday on the AppleInsider Podcast](https://appleinsider.com/articles/25/07/04/siris-future-the-original-iphones-past-and-apple-musics-birthday-on-the-appleinsider-podcast?utm_medium=rss)
+ - [The American system of democracy has crashed](https://www.theverge.com/policy/697301/trump-supreme-court-founding-fathers-july-4)
  - [Tim Cook isn&#39;t going to get fired, and Steve Jobs isn&#39;t rolling over in his grave](https://appleinsider.com/articles/25/07/04/tim-cook-isnt-going-to-get-fired-and-steve-jobs-isnt-rolling-over-in-his-grave?utm_medium=rss)
  - [Lack of DOJ TikTok ban enforcement is about not interfering with foreign policy](https://appleinsider.com/articles/25/07/04/doj-lack-of-tiktok-ban-enforcement-appears-to-be-due-to-broad-article-ii-interpretation?utm_medium=rss)
- - [The EU says it has no plans to pause the implementation of the AI Act, after Meta, Google, Mistral, ASML, and others urged it to delay the rules by years &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250704/p5#a250704p5)
- - [This is not a tattoo robot](https://www.theverge.com/robot/697890/tattoo-robot)
- - [New Galaxy Z Fold 7 leaks may give first real look at Samsung’s slimmer foldable](https://www.theverge.com/news/698372/samsung-galaxy-z-fold-7-photo-leaks)<!-- TECH:END -->
+ - [The EU says it has no plans to pause the implementation of the AI Act, after Meta, Google, Mistral, ASML, and others urged it to delay the rules by years &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250704/p5#a250704p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

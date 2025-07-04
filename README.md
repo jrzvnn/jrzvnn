@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Sam Altman says he believes in &quot;techno-capitalism&quot; and is &quot;politically homeless&quot; as Democrats no longer encourage a &quot;culture of innovation and entrepreneurship&quot; &lpar;Salvador Rodriguez/CNBC&rpar;](http://www.techmeme.com/250704/p8#a250704p8)
  - [The best earbuds we’ve tested for 2025](https://www.theverge.com/21309820/best-wireless-earbuds)
+ - [Microsoft Is Eliminating Passwords in August: Here&#39;s What You Need to Do to Prepare](https://www.cnet.com/tech/microsoft-is-erasing-your-passwords-next-month-do-this-asap/#ftag=CAD590a51e)
  - [Tim Cook isn&#39;t going to get fired, and Steve Jobs isn&#39;t rolling over in his grave](https://appleinsider.com/articles/25/07/04/tim-cook-isnt-going-to-get-fired-and-steve-jobs-isnt-rolling-over-in-his-grave?utm_medium=rss)
- - [Laid-off workers should use AI to manage their emotions, says Xbox exec](https://www.theverge.com/news/698468/xbox-exec-reccommends-ai-to-laid-off-staff)
- - [GM’s Cruise Cars Are Back on the Road in Three US States—But Not for Ride-Hailing](https://www.wired.com/story/gms-cruise-cars-are-back-on-the-road-in-three-us-states-but-not-for-ride-hailing/)<!-- TECH:END -->
+ - [Laid-off workers should use AI to manage their emotions, says Xbox exec](https://www.theverge.com/news/698468/xbox-exec-reccommends-ai-to-laid-off-staff)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

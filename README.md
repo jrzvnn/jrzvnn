@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cyberpunk Edgerunners 2 will be even sadder and bloodier](https://www.theverge.com/news/698579/cyberpunk-edgerunners-2-anime-netflix-cd-projekt-red)
  - [President Trump signs the One Big Beautiful Bill, which allows immediate deduction of US software labor; foreign R&amp;D still must be amortized over 15 years &lpar;KBKG&rpar;](http://www.techmeme.com/250704/p12#a250704p12)
  - [4th of July Apple sale: Save up to $800 on hardware, monitors &amp; more](https://appleinsider.com/articles/25/07/04/4th-of-july-apple-sale-save-up-to-800-on-hardware-monitors-more?utm_medium=rss)
  - [UK minister instructs the Turing AI institute, which has lately focused on responsible AI and ethics, to prioritize national security and defense instead &lpar;Joshua Nevett/BBC&rpar;](http://www.techmeme.com/250704/p11#a250704p11)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 5, #489](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-5-489/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for July 5, #1477](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-5-1477/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 5, #489](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-5-489/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

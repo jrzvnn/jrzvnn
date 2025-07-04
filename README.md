@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Great Epic Finish](http://9gag.com/gag/aAyvrKg)
- - 😝 [German dishwasher 1959](http://9gag.com/gag/a87VbgQ)
- - 💣 [Watch the cognitive dissonance kick in](http://9gag.com/gag/a1mOYyb)
+ - 😝 [Agent M reporting for duty](http://9gag.com/gag/aE0ZGNx)
  - 😝 [Good News Everyone!!!!](http://9gag.com/gag/agmKNYw)
- - 👉 [Agent M reporting for duty](http://9gag.com/gag/aE0ZGNx)<!-- MEMES:END -->
+ - 💣 [Not all delivery drivers are the same, especially UPS](http://9gag.com/gag/a7onKrm)
+ - 😝 [ZERO!](http://9gag.com/gag/a5Q57wV)
+ - 👉 [Watch the cognitive dissonance kick in](http://9gag.com/gag/a1mOYyb)<!-- MEMES:END -->
 
 ---
 

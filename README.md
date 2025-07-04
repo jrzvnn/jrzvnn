@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Watch the cognitive dissonance kick in](http://9gag.com/gag/a1mOYyb)
- - 😝 [Squirrel woke up and chose VIOLENCE on the whole family](http://9gag.com/gag/azx4bBK)
+ - 😝 [Dedication to the front row parking spot](http://9gag.com/gag/aQzynKq)
  - 💣 [Good News Everyone!!!!](http://9gag.com/gag/agmKNYw)
- - 😝 [Temu version](http://9gag.com/gag/ajPR660)
- - 👉 [Suicidal fish](http://9gag.com/gag/azx4LQB)<!-- MEMES:END -->
+ - 😝 [Agent M reporting for duty](http://9gag.com/gag/aE0ZGNx)
+ - 👉 [Great Epic Finish](http://9gag.com/gag/aAyvrKg)<!-- MEMES:END -->
 
 ---
 

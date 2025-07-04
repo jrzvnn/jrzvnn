@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sam Altman says he believes in &quot;techno-capitalism&quot; and is &quot;politically homeless&quot; as Democrats no longer encourage a &quot;culture of innovation and entrepreneurship&quot; &lpar;Salvador Rodriguez/CNBC&rpar;](http://www.techmeme.com/250704/p8#a250704p8)
+ - [The best earbuds we’ve tested for 2025](https://www.theverge.com/21309820/best-wireless-earbuds)
  - [Tim Cook isn&#39;t going to get fired, and Steve Jobs isn&#39;t rolling over in his grave](https://appleinsider.com/articles/25/07/04/tim-cook-isnt-going-to-get-fired-and-steve-jobs-isnt-rolling-over-in-his-grave?utm_medium=rss)
  - [Laid-off workers should use AI to manage their emotions, says Xbox exec](https://www.theverge.com/news/698468/xbox-exec-reccommends-ai-to-laid-off-staff)
- - [GM’s Cruise Cars Are Back on the Road in Three US States—But Not for Ride-Hailing](https://www.wired.com/story/gms-cruise-cars-are-back-on-the-road-in-three-us-states-but-not-for-ride-hailing/)
- - [Sources: the US plans to restrict shipments of AI chips to Malaysia and Thailand, as part of an effort to crack down on suspected chip smuggling into China &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250704/p7#a250704p7)
- - [The Ploopy Knob is an open-source control dial for your PC](https://www.theverge.com/news/698443/ploopy-knob-dial-peripheral-controller-open-source-qmk)<!-- TECH:END -->
+ - [GM’s Cruise Cars Are Back on the Road in Three US States—But Not for Ride-Hailing](https://www.wired.com/story/gms-cruise-cars-are-back-on-the-road-in-three-us-states-but-not-for-ride-hailing/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

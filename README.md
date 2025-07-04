@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I did that once](http://9gag.com/gag/a4PwKx6)
- - 😝 [Japan&#39;s defense is simply unreal, pulling off impossible saves.](http://9gag.com/gag/aRBRgV2)
- - 💣 [Just a normal day swimming in the Pokemon world](http://9gag.com/gag/amoRNOd)
- - 😝 [Desert fatigue](http://9gag.com/gag/ary84Qd)
- - 👉 [A legal outcome that raises questions](http://9gag.com/gag/a34Nd53)<!-- MEMES:END -->
+ - 😝 [This couldn&#39;t be staged](http://9gag.com/gag/aLnWK8W)
+ - 😝 [The hunt for the legendary Moose Boy microchip Easter egg is finally over.](http://9gag.com/gag/a87VbGd)
+ - 💣 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)
+ - 😝 [Bro believes in gender equality.](http://9gag.com/gag/ae9RNBW)
+ - 👉 [The first bottle definitely had style](http://9gag.com/gag/ary8ppd)<!-- MEMES:END -->
 
 ---
 

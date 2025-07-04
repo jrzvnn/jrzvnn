@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The scale of this ant city is mind-blowing](http://9gag.com/gag/a4PwYK1)
- - 😝 [You won&#39;t believe the ingredients in your favorite snacks.](http://9gag.com/gag/aLnWBbx)
- - 💣 [This guy will die in valor](http://9gag.com/gag/aD2Qo6O)
- - 😝 [Suicidal fish](http://9gag.com/gag/azx4LQB)
- - 👉 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)<!-- MEMES:END -->
+ - 😝 [Last photo &lpar;top&rpar; of an Italian tourist in Romania who was attacked by a bear he was photographing &lpar;photo below&rpar;. He approached within a meter of the bear before it attacked and killed him. The bear was shot dead. It was a female with cubs.](http://9gag.com/gag/azx4jdx)
+ - 😝 [This guy will die in valor](http://9gag.com/gag/aD2Qo6O)
+ - 💣 [Guys...](http://9gag.com/gag/aKGKB31)
+ - 😝 [Periodic reminder that Perseus, the first heterosexual man to challenge Medusa, could not keep his eyes off of her enormous yams and therefore was not turned to stone. There\u2019s a lesson in that.](http://9gag.com/gag/aKGKq53)
+ - 👉 [Suicidal fish](http://9gag.com/gag/azx4LQB)<!-- MEMES:END -->
 
 ---
 

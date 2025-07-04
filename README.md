@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Great Epic Finish](http://9gag.com/gag/aAyvrKg)
+ - 😝 [Why mathematics is being taken out of schools, so this stuff wouldn\u2019t raise questions](http://9gag.com/gag/aPArDzB)
  - 😝 [Guys...](http://9gag.com/gag/aKGKB31)
- - 💣 [It\u2019s a lie they said..It\u2019s a myth they said\u2026](http://9gag.com/gag/aPAr4OK)
+ - 💣 [ZERO!](http://9gag.com/gag/a5Q57wV)
  - 😝 [Suicidal fish](http://9gag.com/gag/azx4LQB)
- - 👉 [ZERO!](http://9gag.com/gag/a5Q57wV)<!-- MEMES:END -->
+ - 👉 [Periodic reminder that Perseus, the first heterosexual man to challenge Medusa, could not keep his eyes off of her enormous yams and therefore was not turned to stone. There\u2019s a lesson in that.](http://9gag.com/gag/aKGKq53)<!-- MEMES:END -->
 
 ---
 

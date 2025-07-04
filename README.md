@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)
- - 😝 [Stand your ground for the seat you paid for.](http://9gag.com/gag/aBy4rpN)
- - 💣 [It\u2019s a lie they said..It\u2019s a myth they said\u2026](http://9gag.com/gag/aPAr4OK)
- - 😝 [German dishwasher 1959](http://9gag.com/gag/a87VbgQ)
- - 👉 [Good News Everyone!!!!](http://9gag.com/gag/agmKNYw)<!-- MEMES:END -->
+ - 😝 [Watch the cognitive dissonance kick in](http://9gag.com/gag/a1mOYyb)
+ - 😝 [Squirrel woke up and chose VIOLENCE on the whole family](http://9gag.com/gag/azx4bBK)
+ - 💣 [Good News Everyone!!!!](http://9gag.com/gag/agmKNYw)
+ - 😝 [Temu version](http://9gag.com/gag/ajPR660)
+ - 👉 [Suicidal fish](http://9gag.com/gag/azx4LQB)<!-- MEMES:END -->
 
 ---
 

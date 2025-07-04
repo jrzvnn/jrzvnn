@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stand your ground for the seat you paid for.](http://9gag.com/gag/aBy4rpN)
- - 😝 [That feeling of sudden restriction](http://9gag.com/gag/aGy7VwG)
- - 💣 [Suicidal fish](http://9gag.com/gag/azx4LQB)
- - 😝 [Good News Everyone!!!!](http://9gag.com/gag/agmKNYw)
- - 👉 [Agent M reporting for duty](http://9gag.com/gag/aE0ZGNx)<!-- MEMES:END -->
+ - 😝 [Suicidal fish](http://9gag.com/gag/azx4LQB)
+ - 😝 [German dishwasher 1959](http://9gag.com/gag/a87VbgQ)
+ - 💣 [Good News Everyone!!!!](http://9gag.com/gag/agmKNYw)
+ - 😝 [This guy will die in valor](http://9gag.com/gag/aD2Qo6O)
+ - 👉 [Great Epic Finish](http://9gag.com/gag/aAyvrKg)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Watch the cognitive dissonance kick in](http://9gag.com/gag/a1mOYyb)
- - 😝 [Dedication to the front row parking spot](http://9gag.com/gag/aQzynKq)
- - 💣 [Good News Everyone!!!!](http://9gag.com/gag/agmKNYw)
- - 😝 [Agent M reporting for duty](http://9gag.com/gag/aE0ZGNx)
- - 👉 [Great Epic Finish](http://9gag.com/gag/aAyvrKg)<!-- MEMES:END -->
+ - 😝 [Stand your ground for the seat you paid for.](http://9gag.com/gag/aBy4rpN)
+ - 😝 [That feeling of sudden restriction](http://9gag.com/gag/aGy7VwG)
+ - 💣 [Suicidal fish](http://9gag.com/gag/azx4LQB)
+ - 😝 [Good News Everyone!!!!](http://9gag.com/gag/agmKNYw)
+ - 👉 [Agent M reporting for duty](http://9gag.com/gag/aE0ZGNx)<!-- MEMES:END -->
 
 ---
 

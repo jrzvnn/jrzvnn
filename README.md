@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EU Proposes New Rules to Govern the European Space Race](https://www.wired.com/story/europe-prepares-for-the-space-race-with-a-new-legal-and-financial-framework/)
  - [As companies like SpaceX, Stripe, and OpenAI stay private longer, tokenized stocks on blockchains offer a way for the public to access lucrative private markets &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/250704/p3#a250704p3)
  - [The Loop Micro is my new favorite bicycle phone mount](https://www.theverge.com/reviews/697356/loop-micro-best-bike-mount-review)
  - [A look at Scattered Spider, a group of mainly young UK and US hackers using targeted social engineering to gain access to company systems and install ransomware &lpar;Wired&rpar;](http://www.techmeme.com/250704/p2#a250704p2)
- - [Slate Auto’s electric pickup is no longer ‘under $20,000’ — thanks, Donald](https://www.theverge.com/news/698315/slate-autos-electric-pickup-is-no-longer-under-20000-thanks-donald)
- - [Best Internet Providers in Glendale, California](https://www.cnet.com/home/internet/best-internet-providers-in-glendale-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Slate Auto’s electric pickup is no longer ‘under $20,000’ — thanks, Donald](https://www.theverge.com/news/698315/slate-autos-electric-pickup-is-no-longer-under-20000-thanks-donald)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

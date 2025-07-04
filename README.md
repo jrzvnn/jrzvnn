@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Doc: UK&#39;s Independent Publishers Alliance files an antitrust complaint with EU and the UK CMA against Google, alleging misuse of web content for AI Overviews &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250704/p9#a250704p9)
  - [Ten best Mac games to buy during the Steam Summer Sale](https://appleinsider.com/articles/25/07/04/ten-best-mac-games-to-buy-during-the-steam-summer-sale?utm_medium=rss)
+ - [Can Whole Body Vibration Plates Actually Help You Lose Weight? We Asked Fitness Experts](https://www.cnet.com/health/fitness/can-whole-body-vibration-plates-actually-help-you-lose-weight-we-asked-fitness-experts/#ftag=CAD590a51e)
  - [Sam Altman says he believes in &quot;techno-capitalism&quot; and is &quot;politically homeless&quot; as Democrats no longer encourage a &quot;culture of innovation and entrepreneurship&quot; &lpar;Salvador Rodriguez/CNBC&rpar;](http://www.techmeme.com/250704/p8#a250704p8)
- - [The best earbuds we’ve tested for 2025](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [The AI Chatbots We Use Most, and How We Use Them](https://www.cnet.com/tech/services-and-software/the-ai-chatbots-we-use-most-and-how-were-using-them-according-to-a-new-survey/#ftag=CAD590a51e)
- - [Microsoft Is Eliminating Passwords in August: Here&#39;s What You Need to Do to Prepare](https://www.cnet.com/tech/microsoft-is-erasing-your-passwords-next-month-do-this-asap/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best earbuds we’ve tested for 2025](https://www.theverge.com/21309820/best-wireless-earbuds)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

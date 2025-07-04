@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s sweet](http://9gag.com/gag/ae9RG9O)
- - 😝 [Hmm this is make sense](http://9gag.com/gag/axymjRL)
- - 💣 [Dedication to the front row parking spot](http://9gag.com/gag/aQzynKq)
- - 😝 [On my way to Mordor](http://9gag.com/gag/a87VM61)
- - 👉 [The perfect response](http://9gag.com/gag/axymG4p)<!-- MEMES:END -->
+ - 😝 [Suicidal fish](http://9gag.com/gag/azx4LQB)
+ - 😝 [Great Epic Finish](http://9gag.com/gag/aAyvrKg)
+ - 💣 [The girl from the Wednesday series could play the role of Spider-Gwen](http://9gag.com/gag/ae9R31W)
+ - 😝 [Mark is a ruthless man?](http://9gag.com/gag/avy9gQd)
+ - 👉 [Choosing a bathroom just got complicated.](http://9gag.com/gag/aBy4Q3N)<!-- MEMES:END -->
 
 ---
 

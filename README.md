@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dog bite](http://9gag.com/gag/aO8pbp2)
- - 😝 [What rhymes with weatherman?](http://9gag.com/gag/aZZRxv0)
- - 💣 [Bro believes in gender equality.](http://9gag.com/gag/ae9RNBW)
- - 😝 [Bro was taught not to start shit but to finish it](http://9gag.com/gag/ae9RpdW)
- - 👉 [Who doesn&#39;t like windy days?](http://9gag.com/gag/aVvRWbd)<!-- MEMES:END -->
+ - 😝 [The healthcare system is wild. Always check GoodRx.](http://9gag.com/gag/aAyvp8Z)
+ - 😝 [Not all delivery drivers are the same, especially UPS](http://9gag.com/gag/a7onKrm)
+ - 💣 [A legal outcome that raises questions](http://9gag.com/gag/a34Nd53)
+ - 😝 [Good News Everyone!!!!](http://9gag.com/gag/agmKNYw)
+ - 👉 [Bro was taught not to start shit but to finish it](http://9gag.com/gag/ae9RpdW)<!-- MEMES:END -->
 
 ---
 

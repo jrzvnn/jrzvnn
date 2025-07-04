@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guys...](http://9gag.com/gag/aKGKB31)
- - 😝 [In South Africa people install security gates inside their homes to protect their bedrooms](http://9gag.com/gag/ayNv0Rp)
- - 💣 [How well does this work on atms? Asking for a friend](http://9gag.com/gag/axymNwp)
- - 😝 [Suicidal fish](http://9gag.com/gag/azx4LQB)
- - 👉 [Will you eat that...?](http://9gag.com/gag/ajPRrEG)<!-- MEMES:END -->
+ - 😝 [Stand your ground for the seat you paid for.](http://9gag.com/gag/aBy4rpN)
+ - 😝 [Not guilty in 3 main charges..guilty in 2 &lpar;less important&rpar; and lawyer asking for 1 mil bail.. i guess if you are rich, everything is possible](http://9gag.com/gag/aW4RZP6)
+ - 💣 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)
+ - 😝 [A legal outcome that raises questions](http://9gag.com/gag/a34Nd53)
+ - 👉 [Bro believes in gender equality.](http://9gag.com/gag/ae9RNBW)<!-- MEMES:END -->
 
 ---
 

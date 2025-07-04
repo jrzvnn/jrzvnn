@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: Nvidia&#39;s deal to buy CentML, which offers tools to optimize the running of AI models on chips, could exceed $400M; CentML raised a $27M seed in 2023 &lpar;Murad Hemmadi/The Logic&rpar;](http://www.techmeme.com/250704/p10#a250704p10)
- - [Your July 4th Weekend Streaming Watch List: &#39;Sinners,&#39; &#39;The Old Guard 2&#39; and &#39;Heads of State&#39;](https://www.cnet.com/tech/services-and-software/your-july-4th-weekend-streaming-watch-list-sinners-the-old-guard-2-and-heads-of-state/#ftag=CAD590a51e)
  - [Doc: UK&#39;s Independent Publishers Alliance files an antitrust complaint with EU and the UK CMA against Google, alleging misuse of web content for AI Overviews &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250704/p9#a250704p9)
  - [Ten best Mac games to buy during the Steam Summer Sale](https://appleinsider.com/articles/25/07/04/ten-best-mac-games-to-buy-during-the-steam-summer-sale?utm_medium=rss)
- - [Can Whole Body Vibration Plates Actually Help You Lose Weight? We Asked Fitness Experts](https://www.cnet.com/health/fitness/can-whole-body-vibration-plates-actually-help-you-lose-weight-we-asked-fitness-experts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Can Whole Body Vibration Plates Actually Help You Lose Weight? We Asked Fitness Experts](https://www.cnet.com/health/fitness/can-whole-body-vibration-plates-actually-help-you-lose-weight-we-asked-fitness-experts/#ftag=CAD590a51e)
+ - [Sam Altman says he believes in &quot;techno-capitalism&quot; and is &quot;politically homeless&quot; as Democrats no longer encourage a &quot;culture of innovation and entrepreneurship&quot; &lpar;Salvador Rodriguez/CNBC&rpar;](http://www.techmeme.com/250704/p8#a250704p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

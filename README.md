@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What rhymes with weatherman?](http://9gag.com/gag/aZZRxv0)
- - 😝 [Bro believes in gender equality.](http://9gag.com/gag/ae9RNBW)
- - 💣 [Stand your ground for the seat you paid for.](http://9gag.com/gag/aBy4rpN)
- - 😝 [Who doesn&#39;t like windy days?](http://9gag.com/gag/aVvRWbd)
- - 👉 [Dedication to the front row parking spot](http://9gag.com/gag/aQzynKq)<!-- MEMES:END -->
+ - 😝 [It\u2019s a lie they said..It\u2019s a myth they said\u2026](http://9gag.com/gag/aPAr4OK)
+ - 😝 [Not all delivery drivers are the same, especially UPS](http://9gag.com/gag/a7onKrm)
+ - 💣 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)
+ - 😝 [The healthcare system is wild. Always check GoodRx.](http://9gag.com/gag/aAyvp8Z)
+ - 👉 [That feeling of sudden restriction](http://9gag.com/gag/aGy7VwG)<!-- MEMES:END -->
 
 ---
 

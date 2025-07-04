@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Agent M reporting for duty](http://9gag.com/gag/aE0ZGNx)
- - 😝 [Good News Everyone!!!!](http://9gag.com/gag/agmKNYw)
- - 💣 [Not all delivery drivers are the same, especially UPS](http://9gag.com/gag/a7onKrm)
- - 😝 [ZERO!](http://9gag.com/gag/a5Q57wV)
- - 👉 [Watch the cognitive dissonance kick in](http://9gag.com/gag/a1mOYyb)<!-- MEMES:END -->
+ - 😝 [The scale of this ant city is mind-blowing](http://9gag.com/gag/a4PwYK1)
+ - 😝 [You won&#39;t believe the ingredients in your favorite snacks.](http://9gag.com/gag/aLnWBbx)
+ - 💣 [This guy will die in valor](http://9gag.com/gag/aD2Qo6O)
+ - 😝 [Suicidal fish](http://9gag.com/gag/azx4LQB)
+ - 👉 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)<!-- MEMES:END -->
 
 ---
 

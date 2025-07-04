@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Suicidal fish](http://9gag.com/gag/azx4LQB)
- - 😝 [Great Epic Finish](http://9gag.com/gag/aAyvrKg)
- - 💣 [The girl from the Wednesday series could play the role of Spider-Gwen](http://9gag.com/gag/ae9R31W)
  - 😝 [Mark is a ruthless man?](http://9gag.com/gag/avy9gQd)
+ - 😝 [Suicidal fish](http://9gag.com/gag/azx4LQB)
+ - 💣 [Why mathematics is being taken out of schools, so this stuff wouldn\u2019t raise questions](http://9gag.com/gag/aPArDzB)
+ - 😝 [ZERO!](http://9gag.com/gag/a5Q57wV)
  - 👉 [Choosing a bathroom just got complicated.](http://9gag.com/gag/aBy4Q3N)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stand your ground for the seat you paid for.](http://9gag.com/gag/aBy4rpN)
- - 😝 [Not guilty in 3 main charges..guilty in 2 &lpar;less important&rpar; and lawyer asking for 1 mil bail.. i guess if you are rich, everything is possible](http://9gag.com/gag/aW4RZP6)
- - 💣 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)
- - 😝 [A legal outcome that raises questions](http://9gag.com/gag/a34Nd53)
- - 👉 [Bro believes in gender equality.](http://9gag.com/gag/ae9RNBW)<!-- MEMES:END -->
+ - 😝 [Dog bite](http://9gag.com/gag/aO8pbp2)
+ - 😝 [What rhymes with weatherman?](http://9gag.com/gag/aZZRxv0)
+ - 💣 [Bro believes in gender equality.](http://9gag.com/gag/ae9RNBW)
+ - 😝 [Bro was taught not to start shit but to finish it](http://9gag.com/gag/ae9RpdW)
+ - 👉 [Who doesn&#39;t like windy days?](http://9gag.com/gag/aVvRWbd)<!-- MEMES:END -->
 
 ---
 

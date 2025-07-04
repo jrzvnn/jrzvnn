@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The universal language of career approval: a high salary.](http://9gag.com/gag/a9yDMxL)
- - 😝 [My dog ran away and ended up having a better Friday night than me](http://9gag.com/gag/aMVqb86)
- - 💣 [Still raising my hand for cartoons, age is just a number.](http://9gag.com/gag/aKGKw5b)
- - 😝 [What rhymes with weatherman?](http://9gag.com/gag/aZZRxv0)
- - 👉 [That escalated quickly](http://9gag.com/gag/aLnWQAz)<!-- MEMES:END -->
+ - 😝 [Luck and bad luck](http://9gag.com/gag/aNDjeO6)
+ - 😝 [Just some standard file organization, nothing to see here.](http://9gag.com/gag/aVvRQGK)
+ - 💣 [This couldn&#39;t be staged](http://9gag.com/gag/aLnWK8W)
+ - 😝 [Suicidal fish](http://9gag.com/gag/azx4LQB)
+ - 👉 [Marriage](http://9gag.com/gag/amoRN6V)<!-- MEMES:END -->
 
 ---
 

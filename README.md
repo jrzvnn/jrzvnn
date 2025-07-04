@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Luck and bad luck](http://9gag.com/gag/aNDjeO6)
- - 😝 [Just some standard file organization, nothing to see here.](http://9gag.com/gag/aVvRQGK)
- - 💣 [This couldn&#39;t be staged](http://9gag.com/gag/aLnWK8W)
- - 😝 [Suicidal fish](http://9gag.com/gag/azx4LQB)
- - 👉 [Marriage](http://9gag.com/gag/amoRN6V)<!-- MEMES:END -->
+ - 😝 [Look what he can do! He is very brave and adventurous.](http://9gag.com/gag/a2vONeO)
+ - 😝 [Not all delivery drivers are the same, especially UPS](http://9gag.com/gag/a7onKrm)
+ - 💣 [I did that once](http://9gag.com/gag/a4PwKx6)
+ - 😝 [Desert fatigue](http://9gag.com/gag/ary84Qd)
+ - 👉 [The first bottle definitely had style](http://9gag.com/gag/ary8ppd)<!-- MEMES:END -->
 
 ---
 

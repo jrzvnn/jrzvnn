@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Five best iOS 26 features that will help you be more creative](https://appleinsider.com/articles/25/07/04/five-best-ios-26-features-that-will-help-you-be-more-creative?utm_medium=rss)
+ - [Fairphone 6 gets a 10/10 on repairability](https://www.theverge.com/news/698363/fairphone-6-ifixit-teardown-repairability-perfect-score)
+ - [The 13 Best Fans for the Coolest Summer &lpar;2025&rpar;](https://www.wired.com/gallery/best-fans/)
  - [Sources: TSMC delays construction of its second plant in Japan, originally planned for early 2025, to invest in US expansion ahead of potential Trump tariffs &lpar;Yang Jie/Wall Street Journal&rpar;](http://www.techmeme.com/250704/p4#a250704p4)
- - [This Is Why Tesla’s Robotaxi Launch Needed Human Babysitters](https://www.wired.com/story/this-is-why-teslas-robotaxi-launch-needed-human-babysitters/)
- - [Best Fourth of July Mattress Deals From Helix, Birch, and More &lpar;2025&rpar;](https://www.wired.com/story/best-july-fourth-mattress-deals-2025/)
- - [The EU Proposes New Rules to Govern the European Space Race](https://www.wired.com/story/europe-prepares-for-the-space-race-with-a-new-legal-and-financial-framework/)
- - [As companies like SpaceX, Stripe, and OpenAI stay private longer, tokenized stocks on blockchains offer a way for the public to access lucrative private markets &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/250704/p3#a250704p3)<!-- TECH:END -->
+ - [This Is Why Tesla’s Robotaxi Launch Needed Human Babysitters](https://www.wired.com/story/this-is-why-teslas-robotaxi-launch-needed-human-babysitters/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

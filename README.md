@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why mathematics is being taken out of schools, so this stuff wouldn\u2019t raise questions](http://9gag.com/gag/aPArDzB)
- - 😝 [Guys...](http://9gag.com/gag/aKGKB31)
- - 💣 [ZERO!](http://9gag.com/gag/a5Q57wV)
- - 😝 [Suicidal fish](http://9gag.com/gag/azx4LQB)
- - 👉 [Periodic reminder that Perseus, the first heterosexual man to challenge Medusa, could not keep his eyes off of her enormous yams and therefore was not turned to stone. There\u2019s a lesson in that.](http://9gag.com/gag/aKGKq53)<!-- MEMES:END -->
+ - 😝 [That&#39;s sweet](http://9gag.com/gag/ae9RG9O)
+ - 😝 [Hmm this is make sense](http://9gag.com/gag/axymjRL)
+ - 💣 [Dedication to the front row parking spot](http://9gag.com/gag/aQzynKq)
+ - 😝 [On my way to Mordor](http://9gag.com/gag/a87VM61)
+ - 👉 [The perfect response](http://9gag.com/gag/axymG4p)<!-- MEMES:END -->
 
 ---
 

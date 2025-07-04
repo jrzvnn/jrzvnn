@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Suicidal fish](http://9gag.com/gag/azx4LQB)
+ - 😝 [Great Epic Finish](http://9gag.com/gag/aAyvrKg)
  - 😝 [German dishwasher 1959](http://9gag.com/gag/a87VbgQ)
- - 💣 [Good News Everyone!!!!](http://9gag.com/gag/agmKNYw)
- - 😝 [This guy will die in valor](http://9gag.com/gag/aD2Qo6O)
- - 👉 [Great Epic Finish](http://9gag.com/gag/aAyvrKg)<!-- MEMES:END -->
+ - 💣 [Watch the cognitive dissonance kick in](http://9gag.com/gag/a1mOYyb)
+ - 😝 [Good News Everyone!!!!](http://9gag.com/gag/agmKNYw)
+ - 👉 [Agent M reporting for duty](http://9gag.com/gag/aE0ZGNx)<!-- MEMES:END -->
 
 ---
 

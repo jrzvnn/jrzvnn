@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [4th of July Apple sale: Save up to $800 on hardware, monitors &amp; more](https://appleinsider.com/articles/25/07/04/4th-of-july-apple-sale-save-up-to-800-on-hardware-monitors-more?utm_medium=rss)
  - [UK minister instructs the Turing AI institute, which has lately focused on responsible AI and ethics, to prioritize national security and defense instead &lpar;Joshua Nevett/BBC&rpar;](http://www.techmeme.com/250704/p11#a250704p11)
- - [Best Pillows for Back Sleepers, Tested by a Sleep Expert](https://www.cnet.com/health/sleep/best-pillows-for-back-sleepers/#ftag=CAD590a51e)
- - [Sources: Nvidia&#39;s deal to buy CentML, which offers tools to optimize the running of AI models on chips, could exceed $400M; CentML raised a $27M seed in 2023 &lpar;Murad Hemmadi/The Logic&rpar;](http://www.techmeme.com/250704/p10#a250704p10)
- - [Your July 4th Weekend Streaming Watch List: &#39;Sinners,&#39; &#39;The Old Guard 2&#39; and &#39;Heads of State&#39;](https://www.cnet.com/tech/services-and-software/your-july-4th-weekend-streaming-watch-list-sinners-the-old-guard-2-and-heads-of-state/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 5, #489](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-5-489/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for July 5, #1477](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-5-1477/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 5, #755](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-5-755/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

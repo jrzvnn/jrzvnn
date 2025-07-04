@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [15 Best Heat Protectant Sprays for Wet and Dry Hair &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-heat-protectants-for-hair/)
  - [Five best iOS 26 features that will help you be more creative](https://appleinsider.com/articles/25/07/04/five-best-ios-26-features-that-will-help-you-be-more-creative?utm_medium=rss)
  - [Fairphone 6 gets a 10/10 on repairability](https://www.theverge.com/news/698363/fairphone-6-ifixit-teardown-repairability-perfect-score)
  - [The 13 Best Fans for the Coolest Summer &lpar;2025&rpar;](https://www.wired.com/gallery/best-fans/)
- - [Sources: TSMC delays construction of its second plant in Japan, originally planned for early 2025, to invest in US expansion ahead of potential Trump tariffs &lpar;Yang Jie/Wall Street Journal&rpar;](http://www.techmeme.com/250704/p4#a250704p4)
- - [This Is Why Tesla’s Robotaxi Launch Needed Human Babysitters](https://www.wired.com/story/this-is-why-teslas-robotaxi-launch-needed-human-babysitters/)<!-- TECH:END -->
+ - [Sources: TSMC delays construction of its second plant in Japan, originally planned for early 2025, to invest in US expansion ahead of potential Trump tariffs &lpar;Yang Jie/Wall Street Journal&rpar;](http://www.techmeme.com/250704/p4#a250704p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

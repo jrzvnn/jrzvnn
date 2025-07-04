@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Last photo &lpar;top&rpar; of an Italian tourist in Romania who was attacked by a bear he was photographing &lpar;photo below&rpar;. He approached within a meter of the bear before it attacked and killed him. The bear was shot dead. It was a female with cubs.](http://9gag.com/gag/azx4jdx)
- - 😝 [Guys...](http://9gag.com/gag/aKGKB31)
- - 💣 [Suicidal fish](http://9gag.com/gag/azx4LQB)
  - 😝 [Last photo of an italian roadtripping Romania. Don\u2019t feed the bears should be known by everyone, right?](http://9gag.com/gag/an7GNEB)
- - 👉 [Okay then !](http://9gag.com/gag/avy9PXM)<!-- MEMES:END -->
+ - 😝 [This guy will die in valor](http://9gag.com/gag/aD2Qo6O)
+ - 💣 [Guys...](http://9gag.com/gag/aKGKB31)
+ - 😝 [Choosing a bathroom just got complicated.](http://9gag.com/gag/aBy4Q3N)
+ - 👉 [ZERO!](http://9gag.com/gag/a5Q57wV)<!-- MEMES:END -->
 
 ---
 

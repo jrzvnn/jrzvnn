@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)
  - 😝 [Stand your ground for the seat you paid for.](http://9gag.com/gag/aBy4rpN)
- - 😝 [America, United States of America and USA don&#39;t count](http://9gag.com/gag/abAR03B)
- - 💣 [Who doesn&#39;t like windy days?](http://9gag.com/gag/aVvRWbd)
- - 😝 [STOMP](http://9gag.com/gag/aRBRVAj)
- - 👉 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)<!-- MEMES:END -->
+ - 💣 [It\u2019s a lie they said..It\u2019s a myth they said\u2026](http://9gag.com/gag/aPAr4OK)
+ - 😝 [German dishwasher 1959](http://9gag.com/gag/a87VbgQ)
+ - 👉 [Good News Everyone!!!!](http://9gag.com/gag/agmKNYw)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It\u2019s a lie they said..It\u2019s a myth they said\u2026](http://9gag.com/gag/aPAr4OK)
- - 😝 [Press f](http://9gag.com/gag/agmKvPq)
- - 💣 [A legal outcome that raises questions](http://9gag.com/gag/a34Nd53)
- - 😝 [The healthcare system is wild. Always check GoodRx.](http://9gag.com/gag/aAyvp8Z)
- - 👉 [Bro believes in gender equality.](http://9gag.com/gag/ae9RNBW)<!-- MEMES:END -->
+ - 😝 [Stand your ground for the seat you paid for.](http://9gag.com/gag/aBy4rpN)
+ - 😝 [Who doesn&#39;t like windy days?](http://9gag.com/gag/aVvRWbd)
+ - 💣 [STOMP](http://9gag.com/gag/aRBRVAj)
+ - 😝 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)
+ - 👉 [She cracked the code](http://9gag.com/gag/aD2Qod9)<!-- MEMES:END -->
 
 ---
 

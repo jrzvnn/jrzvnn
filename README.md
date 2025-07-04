@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The healthcare system is wild. Always check GoodRx.](http://9gag.com/gag/aAyvp8Z)
- - 😝 [Not all delivery drivers are the same, especially UPS](http://9gag.com/gag/a7onKrm)
- - 💣 [A legal outcome that raises questions](http://9gag.com/gag/a34Nd53)
- - 😝 [Good News Everyone!!!!](http://9gag.com/gag/agmKNYw)
- - 👉 [Bro was taught not to start shit but to finish it](http://9gag.com/gag/ae9RpdW)<!-- MEMES:END -->
+ - 😝 [That feeling of sudden restriction](http://9gag.com/gag/aGy7VwG)
+ - 😝 [A legal outcome that raises questions](http://9gag.com/gag/a34Nd53)
+ - 💣 [Press f](http://9gag.com/gag/agmKvPq)
+ - 😝 [Will you eat that...?](http://9gag.com/gag/ajPRrEG)
+ - 👉 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)<!-- MEMES:END -->
 
 ---
 

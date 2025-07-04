@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look what he can do! He is very brave and adventurous.](http://9gag.com/gag/a2vONeO)
- - 😝 [Not all delivery drivers are the same, especially UPS](http://9gag.com/gag/a7onKrm)
- - 💣 [I did that once](http://9gag.com/gag/a4PwKx6)
+ - 😝 [I did that once](http://9gag.com/gag/a4PwKx6)
+ - 😝 [Japan&#39;s defense is simply unreal, pulling off impossible saves.](http://9gag.com/gag/aRBRgV2)
+ - 💣 [Just a normal day swimming in the Pokemon world](http://9gag.com/gag/amoRNOd)
  - 😝 [Desert fatigue](http://9gag.com/gag/ary84Qd)
- - 👉 [The first bottle definitely had style](http://9gag.com/gag/ary8ppd)<!-- MEMES:END -->
+ - 👉 [A legal outcome that raises questions](http://9gag.com/gag/a34Nd53)<!-- MEMES:END -->
 
 ---
 

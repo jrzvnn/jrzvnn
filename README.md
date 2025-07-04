@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Instant Trigger](http://9gag.com/gag/aAyvVMp)
- - 😝 [Suicidal fish](http://9gag.com/gag/azx4LQB)
- - 💣 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)
- - 😝 [Look what he can do! He is very brave and adventurous.](http://9gag.com/gag/a2vONeO)
- - 👉 [Just some standard file organization, nothing to see here.](http://9gag.com/gag/aVvRQGK)<!-- MEMES:END -->
+ - 😝 [The hunt for the legendary Moose Boy microchip Easter egg is finally over.](http://9gag.com/gag/a87VbGd)
+ - 😝 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)
+ - 💣 [Just some standard file organization, nothing to see here.](http://9gag.com/gag/aVvRQGK)
+ - 😝 [A legal outcome that raises questions](http://9gag.com/gag/a34Nd53)
+ - 👉 [Japan&#39;s defense is simply unreal, pulling off impossible saves.](http://9gag.com/gag/aRBRgV2)<!-- MEMES:END -->
 
 ---
 

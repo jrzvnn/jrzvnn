@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: TSMC delays construction of its second plant in Japan, originally planned for early 2025, to invest in US expansion ahead of potential Trump tariffs &lpar;Yang Jie/Wall Street Journal&rpar;](http://www.techmeme.com/250704/p4#a250704p4)
+ - [This Is Why Tesla’s Robotaxi Launch Needed Human Babysitters](https://www.wired.com/story/this-is-why-teslas-robotaxi-launch-needed-human-babysitters/)
  - [Best Fourth of July Mattress Deals From Helix, Birch, and More &lpar;2025&rpar;](https://www.wired.com/story/best-july-fourth-mattress-deals-2025/)
  - [The EU Proposes New Rules to Govern the European Space Race](https://www.wired.com/story/europe-prepares-for-the-space-race-with-a-new-legal-and-financial-framework/)
- - [As companies like SpaceX, Stripe, and OpenAI stay private longer, tokenized stocks on blockchains offer a way for the public to access lucrative private markets &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/250704/p3#a250704p3)
- - [Tariff Impacts Are Real: These 13 Companies Have Confirmed Price Hikes](https://www.cnet.com/personal-finance/tariff-impacts-are-real-these-13-companies-have-confirmed-price-hikes/#ftag=CAD590a51e)
- - [The Loop Micro is my new favorite bicycle phone mount](https://www.theverge.com/reviews/697356/loop-micro-best-bike-mount-review)<!-- TECH:END -->
+ - [As companies like SpaceX, Stripe, and OpenAI stay private longer, tokenized stocks on blockchains offer a way for the public to access lucrative private markets &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/250704/p3#a250704p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dog bite](http://9gag.com/gag/aO8pbp2)
- - 😝 [Still raising my hand for cartoons, age is just a number.](http://9gag.com/gag/aKGKw5b)
- - 💣 [That escalated quickly](http://9gag.com/gag/aLnWQAz)
- - 😝 [What rhymes with weatherman?](http://9gag.com/gag/aZZRxv0)
- - 👉 [Bro believes in gender equality.](http://9gag.com/gag/ae9RNBW)<!-- MEMES:END -->
+ - 😝 [Instant Trigger](http://9gag.com/gag/aAyvVMp)
+ - 😝 [Suicidal fish](http://9gag.com/gag/azx4LQB)
+ - 💣 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)
+ - 😝 [Look what he can do! He is very brave and adventurous.](http://9gag.com/gag/a2vONeO)
+ - 👉 [Just some standard file organization, nothing to see here.](http://9gag.com/gag/aVvRQGK)<!-- MEMES:END -->
 
 ---
 

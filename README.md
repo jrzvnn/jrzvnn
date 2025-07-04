@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)
- - 😝 [Good riddance. As an owner this pissed me off completely. Like they spat in my face.](http://9gag.com/gag/a6ZGmYA)
- - 💣 [Just some standard file organization, nothing to see here.](http://9gag.com/gag/aVvRQGK)
+ - 😝 [In South Africa people install security gates inside their homes to protect their bedrooms](http://9gag.com/gag/ayNv0Rp)
+ - 😝 [A legal outcome that raises questions](http://9gag.com/gag/a34Nd53)
+ - 💣 [Good riddance. As an owner this pissed me off completely. Like they spat in my face.](http://9gag.com/gag/a6ZGmYA)
  - 😝 [Will you eat that...?](http://9gag.com/gag/ajPRrEG)
- - 👉 [Bro believes in gender equality.](http://9gag.com/gag/ae9RNBW)<!-- MEMES:END -->
+ - 👉 [Just some standard file organization, nothing to see here.](http://9gag.com/gag/aVvRQGK)<!-- MEMES:END -->
 
 ---
 

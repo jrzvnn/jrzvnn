@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look what he can do! He is very brave and adventurous.](http://9gag.com/gag/a2vONeO)
- - 😝 [Guys...](http://9gag.com/gag/aKGKB31)
- - 💣 [ZERO!](http://9gag.com/gag/a5Q57wV)
- - 😝 [Last photo of an italian roadtripping Romania. Don\u2019t feed the bears should be known by everyone, right?](http://9gag.com/gag/an7GNEB)
- - 👉 [Periodic reminder that Perseus, the first heterosexual man to challenge Medusa, could not keep his eyes off of her enormous yams and therefore was not turned to stone. There\u2019s a lesson in that.](http://9gag.com/gag/aKGKq53)<!-- MEMES:END -->
+ - 😝 [It\u2019s a lie they said..It\u2019s a myth they said\u2026](http://9gag.com/gag/aPAr4OK)
+ - 😝 [Suicidal fish](http://9gag.com/gag/azx4LQB)
+ - 💣 [Press f](http://9gag.com/gag/agmKvPq)
+ - 😝 [Periodic reminder that Perseus, the first heterosexual man to challenge Medusa, could not keep his eyes off of her enormous yams and therefore was not turned to stone. There\u2019s a lesson in that.](http://9gag.com/gag/aKGKq53)
+ - 👉 [Last photo of an italian roadtripping Romania. Don\u2019t feed the bears should be known by everyone, right?](http://9gag.com/gag/an7GNEB)<!-- MEMES:END -->
 
 ---
 

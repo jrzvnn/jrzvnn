@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Stand your ground for the seat you paid for.](http://9gag.com/gag/aBy4rpN)
- - 😝 [Who doesn&#39;t like windy days?](http://9gag.com/gag/aVvRWbd)
- - 💣 [STOMP](http://9gag.com/gag/aRBRVAj)
- - 😝 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)
- - 👉 [She cracked the code](http://9gag.com/gag/aD2Qod9)<!-- MEMES:END -->
+ - 😝 [America, United States of America and USA don&#39;t count](http://9gag.com/gag/abAR03B)
+ - 💣 [Who doesn&#39;t like windy days?](http://9gag.com/gag/aVvRWbd)
+ - 😝 [STOMP](http://9gag.com/gag/aRBRVAj)
+ - 👉 [Japanese and their humbleness.](http://9gag.com/gag/a4Pw9vZ)<!-- MEMES:END -->
 
 ---
 

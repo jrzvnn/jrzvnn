@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta said it supports proposals for an EU-wide age of digital adulthood, below which minors would need parental consent to use social media &lpar;Brian O&#39;Donovan/RTÉ&rpar;](http://www.techmeme.com/250704/p1#a250704p1)
  - [Tel Aviv-based Wonderful, which develops customer support AI agents for businesses in non-English speaking countries, raised a $34M seed led by Index Ventures &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/250703/p37#a250703p37)
  - [DOJ lack of TikTok ban enforcement appears to be due to broad Article II interpretation](https://appleinsider.com/articles/25/07/04/doj-lack-of-tiktok-ban-enforcement-appears-to-be-due-to-broad-article-ii-interpretation?utm_medium=rss)
  - [Sources: Samsung is delaying completion of its Texas fab due to a lack of customers; the plant was meant to come online in 2024 before being pushed to 2026 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250703/p36#a250703p36)
- - [FOIA docs: the Trump administration claimed broad authority to nullify laws in letters to tech firms releasing them of legal liability related to the TikTok ban &lpar;Charlie Savage/New York Times&rpar;](http://www.techmeme.com/250703/p35#a250703p35)
- - [The White House’s favorite source of pro-Trump news is … the White House’s YouTube channel](https://www.theverge.com/politics/698148/white-house-wire-youtube)<!-- TECH:END -->
+ - [FOIA docs: the Trump administration claimed broad authority to nullify laws in letters to tech firms releasing them of legal liability related to the TikTok ban &lpar;Charlie Savage/New York Times&rpar;](http://www.techmeme.com/250703/p35#a250703p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

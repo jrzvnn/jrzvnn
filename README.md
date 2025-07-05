@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bose Soundlink Plus Review: Compromise Never Sounded So Good](https://www.wired.com/review/bose-soundlink-plus/)
+ - [Mercedes-Benz electric G-Wagen review: king of the off-road](https://www.theverge.com/mercedes-benz/689487/mercedes-benz-g580-gwagen-ev-specs-price-review)
  - [Everything You Can Do in the Photoshop Mobile App](https://www.wired.com/story/everything-you-can-do-in-the-photoshop-mobile-app/)
- - [Is It Time to Stop Protecting the Grizzly Bear?](https://www.wired.com/story/is-it-time-to-stop-protecting-the-grizzly-bear-endangered-species-act-list/)
- - [Best Air Mattresses of 2025, Tested by CNET Experts](https://www.cnet.com/health/sleep/best-air-mattress/#ftag=CAD590a51e)
- - [AI Essentials: 29 Ways You Can Make Gen AI Work for You, According to Our Experts](https://www.cnet.com/tech/services-and-software/features/ai-essentials-29-ways-to-make-gen-ai-work-for-you-according-to-our-experts/#ftag=CAD590a51e)
- - [Android May Soon Warn You About Fake Cell Towers](https://www.wired.com/story/android-may-soon-warn-you-about-fake-cell-towers/)<!-- TECH:END -->
+ - [This Incredible Lens Let Me Take Amazing Star Photos](https://www.cnet.com/deals/sigma-art-14mm-f1-8-review-this-incredible-lens-let-me-take-some-amazing-star-photos/#ftag=CAD590a51e)
+ - [12 of the Best Movies Peacock Has to Offer](https://www.cnet.com/culture/entertainment/peacock-best-movies-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

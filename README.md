@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hmm this is make sense](http://9gag.com/gag/axymjRL)
- - 😝 [Dedication to the front row parking spot](http://9gag.com/gag/aQzynKq)
- - 💣 [She cracked the code](http://9gag.com/gag/aD2Qod9)
- - 😝 [Football fans chants](http://9gag.com/gag/a34NBVN)
- - 👉 [Playing with my sticky balls at night](http://9gag.com/gag/a0eOLyq)<!-- MEMES:END -->
+ - 😝 [Mark is a ruthless man?](http://9gag.com/gag/avy9gQd)
+ - 😝 [Need to make sure she feels something](http://9gag.com/gag/aGy7xAw)
+ - 💣 [You won&#39;t believe the ingredients in your favorite snacks.](http://9gag.com/gag/aLnWBbx)
+ - 😝 [Why mathematics is being taken out of schools, so this stuff wouldn\u2019t raise questions](http://9gag.com/gag/aPArDzB)
+ - 👉 [Last photo &lpar;top&rpar; of an Italian tourist in Romania who was attacked by a bear he was photographing &lpar;photo below&rpar;. He approached within a meter of the bear before it attacked and killed him. The bear was shot dead. It was a female with cubs.](http://9gag.com/gag/azx4jdx)<!-- MEMES:END -->
 
 ---
 

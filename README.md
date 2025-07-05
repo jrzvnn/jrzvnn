@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to stop your LG or Samsung smart TV from tracking you](https://appleinsider.com/inside/mac/tips/how-to-stop-your-lg-or-samsung-smart-tv-from-tracking-you?utm_medium=rss)
+ - [Meteorologists Say the National Weather Service Did Its Job in Texas](https://www.wired.com/story/meteorologists-say-the-national-weather-service-did-its-job-in-texas/)
  - [Sources: Google told publishers it is hiring new staff to market its ad tech to big advertisers and ad agencies, signaling a renewed focus on publisher ad tech &lpar;Catherine Perloff/The Information&rpar;](http://www.techmeme.com/250705/p17#a250705p17)
- - [Cyberpunk: Edgerunners 2 will be even sadder and bloodier](https://www.theverge.com/news/698579/cyberpunk-edgerunners-2-anime-netflix-cd-projekt-red)
- - [A look at India&#39;s push to compete in the global AI race, as the country&#39;s vast linguistic diversity poses a core challenge to building foundational AI models &lpar;Shadma Shaikh/MIT Technology Review&rpar;](http://www.techmeme.com/250705/p16#a250705p16)
- - [Investigation: preprint research papers on arXiv from 14 academic institutions in eight countries had hidden prompts telling AI tools to give positive reviews &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250705/p15#a250705p15)
- - [Cluely says its ARR hit $7M after signing a public company; a startup called Pickle says it built Glass, an open source, free product similar to Cluely &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250705/p14#a250705p14)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for July 6, #286](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-6-286/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 6, #756](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-6-756/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

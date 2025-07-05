@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mark is a ruthless man?](http://9gag.com/gag/avy9gQd)
- - 😝 [What would you do?](http://9gag.com/gag/a4PwdX1)
- - 💣 [Great Epic Finish](http://9gag.com/gag/aAyvrKg)
- - 😝 [What about PH?](http://9gag.com/gag/a6ZGLdR)
- - 👉 [You won&#39;t believe the ingredients in your favorite snacks.](http://9gag.com/gag/aLnWBbx)<!-- MEMES:END -->
+ - 😝 [Hmm this is make sense](http://9gag.com/gag/axymjRL)
+ - 😝 [Dedication to the front row parking spot](http://9gag.com/gag/aQzynKq)
+ - 💣 [She cracked the code](http://9gag.com/gag/aD2Qod9)
+ - 😝 [Football fans chants](http://9gag.com/gag/a34NBVN)
+ - 👉 [Playing with my sticky balls at night](http://9gag.com/gag/a0eOLyq)<!-- MEMES:END -->
 
 ---
 

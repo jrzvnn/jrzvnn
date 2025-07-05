@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Last photo &lpar;top&rpar; of an Italian tourist in Romania who was attacked by a bear he was photographing &lpar;photo below&rpar;. He approached within a meter of the bear before it attacked and killed him. The bear was shot dead. It was a female with cubs.](http://9gag.com/gag/azx4jdx)
+ - 😝 [Guys...](http://9gag.com/gag/aKGKB31)
  - 😝 [Prioritizing literature over lungs.](http://9gag.com/gag/aVvRe6d)
- - 💣 [Guys...](http://9gag.com/gag/aKGKB31)
- - 😝 [Hello kitty](http://9gag.com/gag/aD2QmPZ)
- - 👉 [Why mathematics is being taken out of schools, so this stuff wouldn\u2019t raise questions](http://9gag.com/gag/aPArDzB)<!-- MEMES:END -->
+ - 💣 [Why mathematics is being taken out of schools, so this stuff wouldn\u2019t raise questions](http://9gag.com/gag/aPArDzB)
+ - 😝 [This is what true love looks like.](http://9gag.com/gag/aMVqwZP)
+ - 👉 [Hello kitty](http://9gag.com/gag/aD2QmPZ)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Prioritizing literature over lungs.](http://9gag.com/gag/aVvRe6d)
+ - 😝 [The healthcare system is wild. Always check GoodRx.](http://9gag.com/gag/aAyvp8Z)
+ - 😝 [Why mathematics is being taken out of schools, so this stuff wouldn\u2019t raise questions](http://9gag.com/gag/aPArDzB)
+ - 💣 [You won&#39;t believe the ingredients in your favorite snacks.](http://9gag.com/gag/aLnWBbx)
  - 😝 [ZERO!](http://9gag.com/gag/a5Q57wV)
- - 💣 [Why mathematics is being taken out of schools, so this stuff wouldn\u2019t raise questions](http://9gag.com/gag/aPArDzB)
- - 😝 [What would you do?](http://9gag.com/gag/a4PwdX1)
  - 👉 [Rest in piss !](http://9gag.com/gag/ae9RGPB)<!-- MEMES:END -->
 
 ---

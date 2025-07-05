@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Slow down my friend](http://9gag.com/gag/adBRqEV)
+ - 😝 [The perfect response](http://9gag.com/gag/axymG4p)
+ - 💣 [Football fans chants](http://9gag.com/gag/a34NBVN)
  - 😝 [Damn the memories...](http://9gag.com/gag/aGy704w)
- - 😝 [Playing with my sticky balls at night](http://9gag.com/gag/a0eOLyq)
- - 💣 [The perfect response](http://9gag.com/gag/axymG4p)
- - 😝 [Football fans chants](http://9gag.com/gag/a34NBVN)
  - 👉 [Hearing a voice from the past](http://9gag.com/gag/aVvRe2w)<!-- MEMES:END -->
 
 ---

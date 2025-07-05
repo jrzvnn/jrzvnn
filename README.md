@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Foxconn reports Q1 revenue up 15.8% YoY to ~$62B, driven by strong demand for iPhones and AI servers powered by Nvidia chips, meeting analysts&#39; expectations &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250705/p11#a250705p11)
+ - [The 55 Best Deals From REI’s July 4 Outdoor Gear Sale &lpar;2025&rpar;](https://www.wired.com/story/rei-4th-of-july-sale-2025-1/)
  - [House GOP leaders announce a regulatory Crypto Week from July 14 to July 18 to consider three key crypto bills, including the Senate-led GENIUS Act &lpar;Jesse Coghlan/Cointelegraph&rpar;](http://www.techmeme.com/250705/p10#a250705p10)
  - [Samsung is about to find out if Ultra is enough](https://www.theverge.com/samsung/697322/samsung-galaxy-unpacked-2025-z-fold-7-ultra)
- - [Prime Video: The 29 Absolute Best Shows to Watch](https://www.cnet.com/tech/services-and-software/best-series-on-prime-video-july-2025/#ftag=CAD590a51e)
- - [A look at Meta&#39;s recent hires for its nascent superintelligence unit, including Pei Sun, who developed two generations of Waymo&#39;s perception models &lpar;Rachyl Jones/Semafor&rpar;](http://www.techmeme.com/250705/p9#a250705p9)
- - [Congress Won&#39;t Block State AI Regulations. Here&#39;s What That Means for Consumers](https://www.cnet.com/tech/services-and-software/congress-wont-block-state-ai-regulations-heres-what-that-means-for-consumers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Prime Video: The 29 Absolute Best Shows to Watch](https://www.cnet.com/tech/services-and-software/best-series-on-prime-video-july-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

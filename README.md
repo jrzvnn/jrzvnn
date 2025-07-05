@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Everything You Can Do in the Photoshop Mobile App](https://www.wired.com/story/everything-you-can-do-in-the-photoshop-mobile-app/)
  - [Is It Time to Stop Protecting the Grizzly Bear?](https://www.wired.com/story/is-it-time-to-stop-protecting-the-grizzly-bear-endangered-species-act-list/)
  - [Best Air Mattresses of 2025, Tested by CNET Experts](https://www.cnet.com/health/sleep/best-air-mattress/#ftag=CAD590a51e)
  - [AI Essentials: 29 Ways You Can Make Gen AI Work for You, According to Our Experts](https://www.cnet.com/tech/services-and-software/features/ai-essentials-29-ways-to-make-gen-ai-work-for-you-according-to-our-experts/#ftag=CAD590a51e)
- - [Android May Soon Warn You About Fake Cell Towers](https://www.wired.com/story/android-may-soon-warn-you-about-fake-cell-towers/)
- - [What Is a Heat Dome? All About the Weather Phenomenon Making Things Hotter](https://www.cnet.com/news/what-is-a-heat-dome-all-about-the-weather-phenomenon-making-things-hotter/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Android May Soon Warn You About Fake Cell Towers](https://www.wired.com/story/android-may-soon-warn-you-about-fake-cell-towers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In South Africa people install security gates inside their homes to protect their bedrooms](http://9gag.com/gag/ayNv0Rp)
- - 😝 [Periodic reminder that Perseus, the first heterosexual man to challenge Medusa, could not keep his eyes off of her enormous yams and therefore was not turned to stone. There\u2019s a lesson in that.](http://9gag.com/gag/aKGKq53)
- - 💣 [Guys...](http://9gag.com/gag/aKGKB31)
- - 😝 [ZERO!](http://9gag.com/gag/a5Q57wV)
- - 👉 [My kind of comedy](http://9gag.com/gag/adBRYOD)<!-- MEMES:END -->
+ - 😝 [Advertisements are always way louder too.](http://9gag.com/gag/a0eOjbL)
+ - 😝 [On my way to Mordor](http://9gag.com/gag/a87VM61)
+ - 💣 [Football fans chants](http://9gag.com/gag/a34NBVN)
+ - 😝 [Dedication to the front row parking spot](http://9gag.com/gag/aQzynKq)
+ - 👉 [She cracked the code](http://9gag.com/gag/aD2Qod9)<!-- MEMES:END -->
 
 ---
 

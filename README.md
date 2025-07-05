@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Prioritizing literature over lungs.](http://9gag.com/gag/aVvRe6d)
- - 😝 [Good News Everyone!!!!](http://9gag.com/gag/agmKNYw)
- - 💣 [Last photo &lpar;top&rpar; of an Italian tourist in Romania who was attacked by a bear he was photographing &lpar;photo below&rpar;. He approached within a meter of the bear before it attacked and killed him. The bear was shot dead. It was a female with cubs.](http://9gag.com/gag/azx4jdx)
- - 😝 [The healthcare system is wild. Always check GoodRx.](http://9gag.com/gag/aAyvp8Z)
- - 👉 [ZERO!](http://9gag.com/gag/a5Q57wV)<!-- MEMES:END -->
+ - 😝 [Damn the memories...](http://9gag.com/gag/aGy704w)
+ - 😝 [Playing with my sticky balls at night](http://9gag.com/gag/a0eOLyq)
+ - 💣 [The perfect response](http://9gag.com/gag/axymG4p)
+ - 😝 [Football fans chants](http://9gag.com/gag/a34NBVN)
+ - 👉 [Hearing a voice from the past](http://9gag.com/gag/aVvRe2w)<!-- MEMES:END -->
 
 ---
 

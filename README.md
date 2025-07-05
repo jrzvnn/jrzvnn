@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tailor, which offers a headless ERP system for retail businesses that separates the frontend and backend, raised a $22M Series A from ANRI, NEA, YC, and others &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/250705/p4#a250705p4)
+ - [Blackstone acquires Vista Equity Partners&#39; minority stake in event software company Cvent, sources say for $1.3B; Blackstone acquired Cvent for $4.6B in 2023 &lpar;Ryan Gould/Bloomberg&rpar;](http://www.techmeme.com/250705/p3#a250705p3)
+ - [Emerald AI, whose software lets AI data centers flexibly adjust power consumption, raised a $24.5M seed led by Radical Ventures, with NVentures participating &lpar;Ben Geman/Axios&rpar;](http://www.techmeme.com/250705/p2#a250705p2)
  - [Tel Aviv-based Qedma, which is developing an error mitigation software called QESEM for quantum computers, raised a $26M Series A led by Glilot Capital Partners &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/250705/p1#a250705p1)
- - [LumApps, which makes intranet software, agrees to merge with frontline staff communication app Beekeeper in a deal valuing the combined entity at about $1.1B &lpar;Reuters&rpar;](http://www.techmeme.com/250704/p14#a250704p14)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for July 5, #285](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-5-285/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, July 5](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-july-5/#ftag=CAD590a51e)
- - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
+ - [LumApps, which makes intranet software, agrees to merge with frontline staff communication app Beekeeper in a deal valuing the combined entity at about $1.1B &lpar;Reuters&rpar;](http://www.techmeme.com/250704/p14#a250704p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

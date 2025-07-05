@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guys...](http://9gag.com/gag/aKGKB31)
- - 😝 [Prioritizing literature over lungs.](http://9gag.com/gag/aVvRe6d)
- - 💣 [Why mathematics is being taken out of schools, so this stuff wouldn\u2019t raise questions](http://9gag.com/gag/aPArDzB)
- - 😝 [This is what true love looks like.](http://9gag.com/gag/aMVqwZP)
- - 👉 [Hello kitty](http://9gag.com/gag/aD2QmPZ)<!-- MEMES:END -->
+ - 😝 [39 Years old and my first own House. Its not the newest by its my House.](http://9gag.com/gag/aMVqGpW)
+ - 😝 [Autism can be cool as well](http://9gag.com/gag/aKGKVg3)
+ - 💣 [It must have been love..](http://9gag.com/gag/aW4R88Z)
+ - 😝 [Hearing a voice from the past](http://9gag.com/gag/aVvRe2w)
+ - 👉 [Men only want one thing...](http://9gag.com/gag/aNDjn6b)<!-- MEMES:END -->
 
 ---
 

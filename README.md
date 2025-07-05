@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Android May Soon Warn You About Fake Cell Towers](https://www.wired.com/story/android-may-soon-warn-you-about-fake-cell-towers/)
  - [Two dormant Bitcoin wallets, each holding 10,000 &quot;Satoshi era&quot; BTC since 2011, transferred the coins to new wallets using a modern, lower-fee address format &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/250705/p7#a250705p7)
  - [Today&#39;s NYT Strands Hints, Answers and Help for July 5, #489](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-5-489/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for July 5, #755](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-5-755/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for July 5, #1477](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-5-1477/#ftag=CAD590a51e)
- - [The 11 Best Healthy Beverages for Staying Hydrated in the Heat](https://www.cnet.com/health/nutrition/best-healthy-beverages/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for July 5, #1477](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-5-1477/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

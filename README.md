@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for July 5, #285](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-5-285/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, July 5](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-july-5/#ftag=CAD590a51e)
  - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
  - [PitchBook: AI startups received 53% of all global VC dollars invested in H1 2025, rising to 64% in the US, and accounted for 29% of all global startups funded &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250704/p13#a250704p13)
- - [Cyberpunk Edgerunners 2 will be even sadder and bloodier](https://www.theverge.com/news/698579/cyberpunk-edgerunners-2-anime-netflix-cd-projekt-red)
- - [11 Great Horror Movies to Watch on Prime Video This Weekend](https://www.cnet.com/tech/services-and-software/11-great-horror-movies-to-watch-on-prime-video-this-weekend/#ftag=CAD590a51e)
- - [President Trump signs the One Big Beautiful Bill, which allows immediate deduction of US software labor; foreign R&amp;D still must be amortized over 15 years &lpar;KBKG&rpar;](http://www.techmeme.com/250704/p12#a250704p12)<!-- TECH:END -->
+ - [Cyberpunk Edgerunners 2 will be even sadder and bloodier](https://www.theverge.com/news/698579/cyberpunk-edgerunners-2-anime-netflix-cd-projekt-red)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

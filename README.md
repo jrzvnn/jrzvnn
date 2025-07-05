@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Prioritizing literature over lungs.](http://9gag.com/gag/aVvRe6d)
- - 😝 [Rest in piss !](http://9gag.com/gag/ae9RGPB)
- - 💣 [Shit it&#39;s Briana.](http://9gag.com/gag/ae9RGvb)
- - 😝 [You won&#39;t believe the ingredients in your favorite snacks.](http://9gag.com/gag/aLnWBbx)
- - 👉 [Genius move, student](http://9gag.com/gag/aW4R8yx)<!-- MEMES:END -->
+ - 😝 [Genius move, student](http://9gag.com/gag/aW4R8yx)
+ - 😝 [Shit it&#39;s Briana.](http://9gag.com/gag/ae9RGvb)
+ - 💣 [Why mathematics is being taken out of schools, so this stuff wouldn\u2019t raise questions](http://9gag.com/gag/aPArDzB)
+ - 😝 [It\u2019s a lie they said..It\u2019s a myth they said\u2026](http://9gag.com/gag/aPAr4OK)
+ - 👉 [Last photo &lpar;top&rpar; of an Italian tourist in Romania who was attacked by a bear he was photographing &lpar;photo below&rpar;. He approached within a meter of the bear before it attacked and killed him. The bear was shot dead. It was a female with cubs.](http://9gag.com/gag/azx4jdx)<!-- MEMES:END -->
 
 ---
 

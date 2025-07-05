@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Air Mattresses of 2025, Tested by CNET Experts](https://www.cnet.com/health/sleep/best-air-mattress/#ftag=CAD590a51e)
+ - [AI Essentials: 29 Ways You Can Make Gen AI Work for You, According to Our Experts](https://www.cnet.com/tech/services-and-software/features/ai-essentials-29-ways-to-make-gen-ai-work-for-you-according-to-our-experts/#ftag=CAD590a51e)
  - [Android May Soon Warn You About Fake Cell Towers](https://www.wired.com/story/android-may-soon-warn-you-about-fake-cell-towers/)
- - [Two dormant Bitcoin wallets, each holding 10,000 &quot;Satoshi era&quot; BTC since 2011, transferred the coins to new wallets using a modern, lower-fee address format &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/250705/p7#a250705p7)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 5, #489](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-5-489/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 5, #755](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-5-755/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for July 5, #1477](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-5-1477/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What Is a Heat Dome? All About the Weather Phenomenon Making Things Hotter](https://www.cnet.com/news/what-is-a-heat-dome-all-about-the-weather-phenomenon-making-things-hotter/#ftag=CAD590a51e)
+ - [You Probably Own These 20 Kitchen Tools -- And Pros Think They&#39;re Useless](https://www.cnet.com/news/you-probably-own-these-20-kitchen-tools-and-pros-think-theyre-useless/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

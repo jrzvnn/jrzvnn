@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Deltarune is halfway done, but it feels like a full game](https://www.theverge.com/games-review/697019/deltarune-chapters-1-2-3-4-review-pc-playstation-switch)
  - [Over the past year, long-time Bitcoin whales have been selling off their holdings, leading to a reshaping of the market as institutions increase their buying &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/250705/p8#a250705p8)
  - [Bose Soundlink Plus Review: Compromise Never Sounded So Good](https://www.wired.com/review/bose-soundlink-plus/)
- - [Mercedes-Benz electric G-Wagen review: king of the off-road](https://www.theverge.com/mercedes-benz/689487/mercedes-benz-g580-gwagen-ev-specs-price-review)<!-- TECH:END -->
+ - [How to Share Games on Nintendo Switch 2 &lpar;Spoiler: It&#39;s Easier Than You Think&rpar;](https://www.cnet.com/tech/gaming/how-to-share-games-on-nintendo-switch-2/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

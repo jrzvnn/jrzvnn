@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why mathematics is being taken out of schools, so this stuff wouldn\u2019t raise questions](http://9gag.com/gag/aPArDzB)
- - 😝 [You won&#39;t believe the ingredients in your favorite snacks.](http://9gag.com/gag/aLnWBbx)
- - 💣 [Last photo &lpar;top&rpar; of an Italian tourist in Romania who was attacked by a bear he was photographing &lpar;photo below&rpar;. He approached within a meter of the bear before it attacked and killed him. The bear was shot dead. It was a female with cubs.](http://9gag.com/gag/azx4jdx)
- - 😝 [Rest in piss !](http://9gag.com/gag/ae9RGPB)
- - 👉 [Guys...](http://9gag.com/gag/aKGKB31)<!-- MEMES:END -->
+ - 😝 [Mark is a ruthless man?](http://9gag.com/gag/avy9gQd)
+ - 😝 [What would you do?](http://9gag.com/gag/a4PwdX1)
+ - 💣 [Great Epic Finish](http://9gag.com/gag/aAyvrKg)
+ - 😝 [What about PH?](http://9gag.com/gag/a6ZGLdR)
+ - 👉 [You won&#39;t believe the ingredients in your favorite snacks.](http://9gag.com/gag/aLnWBbx)<!-- MEMES:END -->
 
 ---
 

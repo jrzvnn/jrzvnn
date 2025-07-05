@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Laptop Stands &lpar;2025&rpar;: 25+ Models Tested and Reviewed](https://www.wired.com/gallery/best-laptop-stands/)
+ - [Deltarune is halfway done, but it feels like a full game](https://www.theverge.com/games-review/697019/deltarune-chapters-1-2-3-4-review-pc-playstation-switch)
+ - [Over the past year, long-time Bitcoin whales have been selling off their holdings, leading to a reshaping of the market as institutions increase their buying &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/250705/p8#a250705p8)
  - [Bose Soundlink Plus Review: Compromise Never Sounded So Good](https://www.wired.com/review/bose-soundlink-plus/)
- - [Mercedes-Benz electric G-Wagen review: king of the off-road](https://www.theverge.com/mercedes-benz/689487/mercedes-benz-g580-gwagen-ev-specs-price-review)
- - [Everything You Can Do in the Photoshop Mobile App](https://www.wired.com/story/everything-you-can-do-in-the-photoshop-mobile-app/)
- - [This Incredible Lens Let Me Take Amazing Star Photos](https://www.cnet.com/deals/sigma-art-14mm-f1-8-review-this-incredible-lens-let-me-take-some-amazing-star-photos/#ftag=CAD590a51e)
- - [12 of the Best Movies Peacock Has to Offer](https://www.cnet.com/culture/entertainment/peacock-best-movies-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mercedes-Benz electric G-Wagen review: king of the off-road](https://www.theverge.com/mercedes-benz/689487/mercedes-benz-g580-gwagen-ev-specs-price-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

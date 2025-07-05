@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Meta&#39;s recent hires for its nascent superintelligence unit, including Pei Sun, who developed two generations of Waymo&#39;s perception models &lpar;Rachyl Jones/Semafor&rpar;](http://www.techmeme.com/250705/p9#a250705p9)
  - [Best Laptop Stands &lpar;2025&rpar;: 25+ Models Tested and Reviewed](https://www.wired.com/gallery/best-laptop-stands/)
  - [Deltarune is halfway done, but it feels like a full game](https://www.theverge.com/games-review/697019/deltarune-chapters-1-2-3-4-review-pc-playstation-switch)
  - [Over the past year, long-time Bitcoin whales have been selling off their holdings, leading to a reshaping of the market as institutions increase their buying &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/250705/p8#a250705p8)
- - [Bose Soundlink Plus Review: Compromise Never Sounded So Good](https://www.wired.com/review/bose-soundlink-plus/)
- - [How to Share Games on Nintendo Switch 2 &lpar;Spoiler: It&#39;s Easier Than You Think&rpar;](https://www.cnet.com/tech/gaming/how-to-share-games-on-nintendo-switch-2/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bose Soundlink Plus Review: Compromise Never Sounded So Good](https://www.wired.com/review/bose-soundlink-plus/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -169,7 +169,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Football fans chants](http://9gag.com/gag/a34NBVN)
  - 😝 [Hearing a voice from the past](http://9gag.com/gag/aVvRe2w)
  - 💣 [39 Years old and my first own House. Its not the newest by its my House.](http://9gag.com/gag/aMVqGpW)
- - 😝 [Me: I\u2019ll just build a toy. The toy: Starts a revolution.](http://9gag.com/gag/a4PwZvw)
+ - 😝 [Slow down my friend](http://9gag.com/gag/adBRqEV)
  - 👉 [Men only want one thing...](http://9gag.com/gag/aNDjn6b)<!-- MEMES:END -->
 
 ---

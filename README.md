@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Colombian navy says it has seized an unmanned narco-submarine that was equipped with a Starlink terminal, enabling the sub to be controlled remotely &lpar;France 24&rpar;](http://www.techmeme.com/250705/p19#a250705p19)
  - [Apple pulls the curtain back on durability testing of iPhone, iPad, and more](https://appleinsider.com/articles/25/07/05/apple-pulls-the-curtain-back-on-durability-testing-of-iphone-ipad-and-more?utm_medium=rss)
  - [A developer details how he shipped Context, a native macOS app that was almost 100% built using Claude Code &lpar;Indragie Karunaratne/My Portfolio&rpar;](http://www.techmeme.com/250705/p18#a250705p18)
  - [How to stop your LG or Samsung smart TV from tracking you](https://appleinsider.com/inside/mac/tips/how-to-stop-your-lg-or-samsung-smart-tv-from-tracking-you?utm_medium=rss)
- - [Meteorologists Say the National Weather Service Did Its Job in Texas](https://www.wired.com/story/meteorologists-say-the-national-weather-service-did-its-job-in-texas/)
- - [Sources: Google told publishers it is hiring new staff to market its ad tech to big advertisers and ad agencies, signaling a renewed focus on publisher ad tech &lpar;Catherine Perloff/The Information&rpar;](http://www.techmeme.com/250705/p17#a250705p17)<!-- TECH:END -->
+ - [Meteorologists Say the National Weather Service Did Its Job in Texas](https://www.wired.com/story/meteorologists-say-the-national-weather-service-did-its-job-in-texas/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mark is a ruthless man?](http://9gag.com/gag/avy9gQd)
- - 😝 [Why mathematics is being taken out of schools, so this stuff wouldn\u2019t raise questions](http://9gag.com/gag/aPArDzB)
- - 💣 [Periodic reminder that Perseus, the first heterosexual man to challenge Medusa, could not keep his eyes off of her enormous yams and therefore was not turned to stone. There\u2019s a lesson in that.](http://9gag.com/gag/aKGKq53)
- - 😝 [My kind of comedy](http://9gag.com/gag/adBRYOD)
- - 👉 [German dishwasher 1959](http://9gag.com/gag/a87VbgQ)<!-- MEMES:END -->
+ - 😝 [In South Africa people install security gates inside their homes to protect their bedrooms](http://9gag.com/gag/ayNv0Rp)
+ - 😝 [Periodic reminder that Perseus, the first heterosexual man to challenge Medusa, could not keep his eyes off of her enormous yams and therefore was not turned to stone. There\u2019s a lesson in that.](http://9gag.com/gag/aKGKq53)
+ - 💣 [Guys...](http://9gag.com/gag/aKGKB31)
+ - 😝 [ZERO!](http://9gag.com/gag/a5Q57wV)
+ - 👉 [My kind of comedy](http://9gag.com/gag/adBRYOD)<!-- MEMES:END -->
 
 ---
 

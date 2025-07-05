@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good News Everyone!!!!](http://9gag.com/gag/agmKNYw)
- - 😝 [What about PH?](http://9gag.com/gag/a6ZGLdR)
- - 💣 [Rest in piss !](http://9gag.com/gag/ae9RGPB)
- - 😝 [The healthcare system is wild. Always check GoodRx.](http://9gag.com/gag/aAyvp8Z)
- - 👉 [You won&#39;t believe the ingredients in your favorite snacks.](http://9gag.com/gag/aLnWBbx)<!-- MEMES:END -->
+ - 😝 [She cracked the code](http://9gag.com/gag/aD2Qod9)
+ - 😝 [Hmm this is make sense](http://9gag.com/gag/axymjRL)
+ - 💣 [Hearing a voice from the past](http://9gag.com/gag/aVvRe2w)
+ - 😝 [Playing with my sticky balls at night](http://9gag.com/gag/a0eOLyq)
+ - 👉 [The perfect response](http://9gag.com/gag/axymG4p)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Investigation: preprint research papers on arXiv from 14 academic institutions in eight countries had hidden prompts telling AI tools to give positive reviews &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250705/p15#a250705p15)
  - [Cluely says its ARR hit $7M after signing a public company; a startup called Pickle says it built Glass, an open source, free product similar to Cluely &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250705/p14#a250705p14)
  - [Source: an ongoing outage at IT giant Ingram Micro is caused by a ransomware attack from SafePay, which has become one of the more active operations of 2025 &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250705/p13#a250705p13)
  - [How to Watch Real Madrid vs. Borussia Dortmund From Anywhere Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-real-madrid-vs-borussia-dortmund-from-anywhere-for-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)
- - [A look at the annual Ethereum Community Conference, or EthCC, Ethereum&#39;s flagship European event, held in Cannes this year to showcase the network&#39;s growth &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250705/p12#a250705p12)
- - [How to Watch PSG vs. Bayern Munich From Anywhere Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-psg-vs-bayern-munich-from-anywhere-for-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the annual Ethereum Community Conference, or EthCC, Ethereum&#39;s flagship European event, held in Cannes this year to showcase the network&#39;s growth &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250705/p12#a250705p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

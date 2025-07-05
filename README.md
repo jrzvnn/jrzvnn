@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Source: an ongoing outage at IT giant Ingram Micro is caused by a ransomware attack from SafePay, which has become one of the more active operations of 2025 &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250705/p13#a250705p13)
+ - [How to Watch Real Madrid vs. Borussia Dortmund From Anywhere Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-real-madrid-vs-borussia-dortmund-from-anywhere-for-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)
  - [A look at the annual Ethereum Community Conference, or EthCC, Ethereum&#39;s flagship European event, held in Cannes this year to showcase the network&#39;s growth &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250705/p12#a250705p12)
  - [How to Watch PSG vs. Bayern Munich From Anywhere Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-psg-vs-bayern-munich-from-anywhere-for-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)
- - [Foxconn reports Q1 revenue up 15.8% YoY to ~$62B, driven by strong demand for iPhones and AI servers powered by Nvidia chips, meeting analysts&#39; expectations &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250705/p11#a250705p11)
- - [The 55 Best Deals From REI’s July 4 Outdoor Gear Sale &lpar;2025&rpar;](https://www.wired.com/story/rei-4th-of-july-sale-2025-1/)<!-- TECH:END -->
+ - [Foxconn reports Q1 revenue up 15.8% YoY to ~$62B, driven by strong demand for iPhones and AI servers powered by Nvidia chips, meeting analysts&#39; expectations &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250705/p11#a250705p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

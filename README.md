@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shit it&#39;s Briana.](http://9gag.com/gag/ae9RGvb)
- - 😝 [Need to make sure she feels something](http://9gag.com/gag/aGy7xAw)
- - 💣 [You won&#39;t believe the ingredients in your favorite snacks.](http://9gag.com/gag/aLnWBbx)
- - 😝 [Genius move, student](http://9gag.com/gag/aW4R8yx)
- - 👉 [Prioritizing literature over lungs.](http://9gag.com/gag/aVvRe6d)<!-- MEMES:END -->
+ - 😝 [Periodic reminder that Perseus, the first heterosexual man to challenge Medusa, could not keep his eyes off of her enormous yams and therefore was not turned to stone. There\u2019s a lesson in that.](http://9gag.com/gag/aKGKq53)
+ - 😝 [Why mathematics is being taken out of schools, so this stuff wouldn\u2019t raise questions](http://9gag.com/gag/aPArDzB)
+ - 💣 [Prioritizing literature over lungs.](http://9gag.com/gag/aVvRe6d)
+ - 😝 [Guys...](http://9gag.com/gag/aKGKB31)
+ - 👉 [The healthcare system is wild. Always check GoodRx.](http://9gag.com/gag/aAyvp8Z)<!-- MEMES:END -->
 
 ---
 

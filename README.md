@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: an ongoing outage at IT giant Ingram Micro is caused by a ransomware attack from SafePay, which has become one of the more active operations in 2025 &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250705/p13#a250705p13)
  - [A look at the annual Ethereum Community Conference, or EthCC, Ethereum&#39;s flagship European event, held in Cannes this year to showcase the network&#39;s growth &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250705/p12#a250705p12)
  - [Foxconn reports Q1 revenue up 15.8% YoY to ~$62B, driven by strong demand for iPhones and AI servers powered by Nvidia chips, meeting analysts&#39; expectations &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250705/p11#a250705p11)
  - [The 55 Best Deals From REI’s July 4 Outdoor Gear Sale &lpar;2025&rpar;](https://www.wired.com/story/rei-4th-of-july-sale-2025-1/)
- - [House GOP leaders announce a regulatory Crypto Week from July 14 to July 18 to consider three key crypto bills, including the Senate-led GENIUS Act &lpar;Jesse Coghlan/Cointelegraph&rpar;](http://www.techmeme.com/250705/p10#a250705p10)
- - [Samsung is about to find out if Ultra is enough](https://www.theverge.com/samsung/697322/samsung-galaxy-unpacked-2025-z-fold-7-ultra)<!-- TECH:END -->
+ - [House GOP leaders announce a regulatory Crypto Week from July 14 to July 18 to consider three key crypto bills, including the Senate-led GENIUS Act &lpar;Jesse Coghlan/Cointelegraph&rpar;](http://www.techmeme.com/250705/p10#a250705p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

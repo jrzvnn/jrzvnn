@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Football fans chants](http://9gag.com/gag/a34NBVN)
- - 😝 [Hearing a voice from the past](http://9gag.com/gag/aVvRe2w)
- - 💣 [39 Years old and my first own House. Its not the newest by its my House.](http://9gag.com/gag/aMVqGpW)
- - 😝 [Slow down my friend](http://9gag.com/gag/adBRqEV)
- - 👉 [Men only want one thing...](http://9gag.com/gag/aNDjn6b)<!-- MEMES:END -->
+ - 😝 [Rest in piss !](http://9gag.com/gag/ae9RGPB)
+ - 😝 [ZERO!](http://9gag.com/gag/a5Q57wV)
+ - 💣 [It\u2019s a lie they said..It\u2019s a myth they said\u2026](http://9gag.com/gag/aPAr4OK)
+ - 😝 [What would you do?](http://9gag.com/gag/a4PwdX1)
+ - 👉 [Why mathematics is being taken out of schools, so this stuff wouldn\u2019t raise questions](http://9gag.com/gag/aPArDzB)<!-- MEMES:END -->
 
 ---
 

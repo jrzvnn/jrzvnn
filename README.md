@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Mark is a ruthless man?](http://9gag.com/gag/avy9gQd)
- - 😝 [Need to make sure she feels something](http://9gag.com/gag/aGy7xAw)
- - 💣 [You won&#39;t believe the ingredients in your favorite snacks.](http://9gag.com/gag/aLnWBbx)
- - 😝 [Why mathematics is being taken out of schools, so this stuff wouldn\u2019t raise questions](http://9gag.com/gag/aPArDzB)
- - 👉 [Last photo &lpar;top&rpar; of an Italian tourist in Romania who was attacked by a bear he was photographing &lpar;photo below&rpar;. He approached within a meter of the bear before it attacked and killed him. The bear was shot dead. It was a female with cubs.](http://9gag.com/gag/azx4jdx)<!-- MEMES:END -->
+ - 😝 [ZERO!](http://9gag.com/gag/a5Q57wV)
+ - 💣 [Need to make sure she feels something](http://9gag.com/gag/aGy7xAw)
+ - 😝 [Last photo &lpar;top&rpar; of an Italian tourist in Romania who was attacked by a bear he was photographing &lpar;photo below&rpar;. He approached within a meter of the bear before it attacked and killed him. The bear was shot dead. It was a female with cubs.](http://9gag.com/gag/azx4jdx)
+ - 👉 [Shit it&#39;s Briana.](http://9gag.com/gag/ae9RGvb)<!-- MEMES:END -->
 
 ---
 

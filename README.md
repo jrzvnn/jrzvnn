@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [ZERO!](http://9gag.com/gag/a5Q57wV)
- - 😝 [Why mathematics is being taken out of schools, so this stuff wouldn\u2019t raise questions](http://9gag.com/gag/aPArDzB)
- - 💣 [Good News Everyone!!!!](http://9gag.com/gag/agmKNYw)
- - 😝 [What would you do?](http://9gag.com/gag/a4PwdX1)
- - 👉 [I always liked Betty](http://9gag.com/gag/aVvRe7M)<!-- MEMES:END -->
+ - 😝 [Dedication to the front row parking spot](http://9gag.com/gag/aQzynKq)
+ - 😝 [Hmm this is make sense](http://9gag.com/gag/axymjRL)
+ - 💣 [She cracked the code](http://9gag.com/gag/aD2Qod9)
+ - 😝 [Football fans chants](http://9gag.com/gag/a34NBVN)
+ - 👉 [Playing with my sticky balls at night](http://9gag.com/gag/a0eOLyq)<!-- MEMES:END -->
 
 ---
 

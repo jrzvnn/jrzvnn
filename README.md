@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dedication to the front row parking spot](http://9gag.com/gag/aQzynKq)
- - 😝 [Hmm this is make sense](http://9gag.com/gag/axymjRL)
- - 💣 [She cracked the code](http://9gag.com/gag/aD2Qod9)
- - 😝 [Playing with my sticky balls at night](http://9gag.com/gag/a0eOLyq)
- - 👉 [Football fans chants](http://9gag.com/gag/a34NBVN)<!-- MEMES:END -->
+ - 😝 [In South Africa people install security gates inside their homes to protect their bedrooms](http://9gag.com/gag/ayNv0Rp)
+ - 😝 [Shit it&#39;s Briana.](http://9gag.com/gag/ae9RGvb)
+ - 💣 [Rest in piss !](http://9gag.com/gag/ae9RGPB)
+ - 😝 [Good News Everyone!!!!](http://9gag.com/gag/agmKNYw)
+ - 👉 [You won&#39;t believe the ingredients in your favorite snacks.](http://9gag.com/gag/aLnWBbx)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It\u2019s a lie they said..It\u2019s a myth they said\u2026](http://9gag.com/gag/aPAr4OK)
+ - 😝 [Rest in piss !](http://9gag.com/gag/ae9RGPB)
  - 😝 [Great Epic Finish](http://9gag.com/gag/aAyvrKg)
- - 💣 [Mark is a ruthless man?](http://9gag.com/gag/avy9gQd)
- - 😝 [Last photo &lpar;top&rpar; of an Italian tourist in Romania who was attacked by a bear he was photographing &lpar;photo below&rpar;. He approached within a meter of the bear before it attacked and killed him. The bear was shot dead. It was a female with cubs.](http://9gag.com/gag/azx4jdx)
- - 👉 [ZERO!](http://9gag.com/gag/a5Q57wV)<!-- MEMES:END -->
+ - 💣 [The healthcare system is wild. Always check GoodRx.](http://9gag.com/gag/aAyvp8Z)
+ - 😝 [Good News Everyone!!!!](http://9gag.com/gag/agmKNYw)
+ - 👉 [You won&#39;t believe the ingredients in your favorite snacks.](http://9gag.com/gag/aLnWBbx)<!-- MEMES:END -->
 
 ---
 

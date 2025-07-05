@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Prioritizing literature over lungs.](http://9gag.com/gag/aVvRe6d)
- - 😝 [I always liked Betty](http://9gag.com/gag/aVvRe7M)
- - 💣 [The healthcare system is wild. Always check GoodRx.](http://9gag.com/gag/aAyvp8Z)
- - 😝 [Last photo &lpar;top&rpar; of an Italian tourist in Romania who was attacked by a bear he was photographing &lpar;photo below&rpar;. He approached within a meter of the bear before it attacked and killed him. The bear was shot dead. It was a female with cubs.](http://9gag.com/gag/azx4jdx)
- - 👉 [What would you do?](http://9gag.com/gag/a4PwdX1)<!-- MEMES:END -->
+ - 😝 [Good News Everyone!!!!](http://9gag.com/gag/agmKNYw)
+ - 💣 [Last photo &lpar;top&rpar; of an Italian tourist in Romania who was attacked by a bear he was photographing &lpar;photo below&rpar;. He approached within a meter of the bear before it attacked and killed him. The bear was shot dead. It was a female with cubs.](http://9gag.com/gag/azx4jdx)
+ - 😝 [The healthcare system is wild. Always check GoodRx.](http://9gag.com/gag/aAyvp8Z)
+ - 👉 [ZERO!](http://9gag.com/gag/a5Q57wV)<!-- MEMES:END -->
 
 ---
 

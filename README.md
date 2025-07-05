@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She cracked the code](http://9gag.com/gag/aD2Qod9)
- - 😝 [Hmm this is make sense](http://9gag.com/gag/axymjRL)
- - 💣 [Hearing a voice from the past](http://9gag.com/gag/aVvRe2w)
- - 😝 [Playing with my sticky balls at night](http://9gag.com/gag/a0eOLyq)
- - 👉 [The perfect response](http://9gag.com/gag/axymG4p)<!-- MEMES:END -->
+ - 😝 [Prioritizing literature over lungs.](http://9gag.com/gag/aVvRe6d)
+ - 😝 [I always liked Betty](http://9gag.com/gag/aVvRe7M)
+ - 💣 [The healthcare system is wild. Always check GoodRx.](http://9gag.com/gag/aAyvp8Z)
+ - 😝 [Last photo &lpar;top&rpar; of an Italian tourist in Romania who was attacked by a bear he was photographing &lpar;photo below&rpar;. He approached within a meter of the bear before it attacked and killed him. The bear was shot dead. It was a female with cubs.](http://9gag.com/gag/azx4jdx)
+ - 👉 [What would you do?](http://9gag.com/gag/a4PwdX1)<!-- MEMES:END -->
 
 ---
 

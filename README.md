@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Periodic reminder that Perseus, the first heterosexual man to challenge Medusa, could not keep his eyes off of her enormous yams and therefore was not turned to stone. There\u2019s a lesson in that.](http://9gag.com/gag/aKGKq53)
  - 😝 [ZERO!](http://9gag.com/gag/a5Q57wV)
- - 💣 [What would you do?](http://9gag.com/gag/a4PwdX1)
- - 😝 [Mark is a ruthless man?](http://9gag.com/gag/avy9gQd)
+ - 😝 [Why mathematics is being taken out of schools, so this stuff wouldn\u2019t raise questions](http://9gag.com/gag/aPArDzB)
+ - 💣 [Good News Everyone!!!!](http://9gag.com/gag/agmKNYw)
+ - 😝 [What would you do?](http://9gag.com/gag/a4PwdX1)
  - 👉 [I always liked Betty](http://9gag.com/gag/aVvRe7M)<!-- MEMES:END -->
 
 ---

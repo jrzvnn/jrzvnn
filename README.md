@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Football fans chants](http://9gag.com/gag/a34NBVN)
- - 😝 [Hmm this is make sense](http://9gag.com/gag/axymjRL)
- - 💣 [On my way to Mordor](http://9gag.com/gag/a87VM61)
- - 😝 [Dedication to the front row parking spot](http://9gag.com/gag/aQzynKq)
- - 👉 [She cracked the code](http://9gag.com/gag/aD2Qod9)<!-- MEMES:END -->
+ - 😝 [Mark is a ruthless man?](http://9gag.com/gag/avy9gQd)
+ - 😝 [Why mathematics is being taken out of schools, so this stuff wouldn\u2019t raise questions](http://9gag.com/gag/aPArDzB)
+ - 💣 [Periodic reminder that Perseus, the first heterosexual man to challenge Medusa, could not keep his eyes off of her enormous yams and therefore was not turned to stone. There\u2019s a lesson in that.](http://9gag.com/gag/aKGKq53)
+ - 😝 [My kind of comedy](http://9gag.com/gag/adBRYOD)
+ - 👉 [German dishwasher 1959](http://9gag.com/gag/a87VbgQ)<!-- MEMES:END -->
 
 ---
 

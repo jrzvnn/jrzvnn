@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Two dormant Bitcoin wallets, each holding 10,000 &quot;Satoshi era&quot; BTC since 2011, transferred the coins to new wallets using a modern, lower-fee address format &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/250705/p7#a250705p7)
- - [The term &quot;superintelligence&quot; is becoming increasingly popular among AI leaders, even as many in the industry question whether it is ill-defined and overhyped &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250705/p6#a250705p6)
- - [Distinct Possibility, a gaming studio launched by EverQuest co-creator to build a web3 shooter on Etherlink, a Layer 2 network built on Tezos, raised $30.5M &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/250705/p5#a250705p5)
- - [Tailor, which offers a headless ERP system for retail businesses that separates the frontend and backend, raised a $22M Series A from ANRI, NEA, YC, and others &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/250705/p4#a250705p4)
- - [Blackstone acquires Vista Equity Partners&#39; minority stake in event software company Cvent, sources say for $1.3B; Blackstone acquired Cvent for $4.6B in 2023 &lpar;Ryan Gould/Bloomberg&rpar;](http://www.techmeme.com/250705/p3#a250705p3)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 5, #489](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-5-489/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 5, #755](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-5-755/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for July 5, #1477](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-5-1477/#ftag=CAD590a51e)
+ - [The 11 Best Healthy Beverages for Staying Hydrated in the Heat](https://www.cnet.com/health/nutrition/best-healthy-beverages/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

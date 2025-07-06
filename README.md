@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Welcome to London.](http://9gag.com/gag/a87V8A1)
- - 😝 [That kid needs to be put on a leash, not the dog.](http://9gag.com/gag/aW4Rqo2)
- - 💣 [Count of hole dipping](http://9gag.com/gag/aAyvddp)
+ - 😝 [Casual Health and Safety practice](http://9gag.com/gag/a9yDrM1)
  - 😝 [Jamal out for 7 months](http://9gag.com/gag/agmKLgK)
+ - 💣 [Tom Cruise&#39;s stunt insurance premiums can be up to 20% of a movie&#39;s budget.](http://9gag.com/gag/aRBReNq)
+ - 😝 [Type of girl you meet on vacation and never meet again](http://9gag.com/gag/ae9Rbeb)
  - 👉 [No longer afraid of sharks. Now I\u2019m afraid of whatever did this to this shark.](http://9gag.com/gag/aPArBNG)<!-- MEMES:END -->
 
 ---

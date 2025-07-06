@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It must have been love..](http://9gag.com/gag/aW4R88Z)
  - 😝 [Learning about Johatsu, the people who choose to disappear in Japan.](http://9gag.com/gag/ae9RpPW)
- - 💣 [Why mathematics is being taken out of schools, so this stuff wouldn\u2019t raise questions](http://9gag.com/gag/aPArDzB)
- - 😝 [I always liked Betty](http://9gag.com/gag/aVvRe7M)
- - 👉 [This is what true love looks like.](http://9gag.com/gag/aMVqwZP)<!-- MEMES:END -->
+ - 😝 [Bracing for the weekend rush.](http://9gag.com/gag/abAR0M9)
+ - 💣 [Prehistoric creatures are blooming from the ice](http://9gag.com/gag/ae9RG8v)
+ - 😝 [For God Sake](http://9gag.com/gag/aW4RMRZ)
+ - 👉 [What is your answer](http://9gag.com/gag/amoR9Gy)<!-- MEMES:END -->
 
 ---
 

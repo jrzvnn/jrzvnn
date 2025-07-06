@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [TikTok builds new US app version ahead of planned sale](https://appleinsider.com/articles/25/07/06/tiktok-builds-new-us-app-version-ahead-of-planned-sale?utm_medium=rss)
  - [TikTok’s ‘ban’ problem could end soon with a new app and a sale](https://www.theverge.com/news/698999/tiktok-ban-sale-rumor-new-app-oracle)
  - [Gemini referencing real-life moments when prompted to write a birthday letter shows how effectively Google is leveraging user data to craft personalized content &lpar;Lila Shroff/The Atlantic&rpar;](http://www.techmeme.com/250706/p13#a250706p13)
- - [Former Google staffers and others detail why Google&#39;s 2013 effort to build Motorola smartphones in Texas failed, as Trump pushes Apple to make iPhones in the US &lpar;Verne Kopytoff/Fortune&rpar;](http://www.techmeme.com/250706/p12#a250706p12)
- - [Sources: TikTok plans to launch a new version of its app in the US on September 5, ahead of the Sept. 17 deadline for the US to enforce the divest-or-ban law &lpar;The Information&rpar;](http://www.techmeme.com/250706/p11#a250706p11)<!-- TECH:END -->
+ - [How to Stream &#39;It&#39;s Always Sunny in Philadelphia&#39; Season 17](https://www.cnet.com/tech/services-and-software/how-to-stream-its-always-sunny-in-philadelphia-season-17/#ftag=CAD590a51e)
+ - [Former Google staffers and others detail why Google&#39;s 2013 effort to build Motorola smartphones in Texas failed, as Trump pushes Apple to make iPhones in the US &lpar;Verne Kopytoff/Fortune&rpar;](http://www.techmeme.com/250706/p12#a250706p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

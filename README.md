@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me trying not to read AL as AI and wondering why AI is trying to get so freaky](http://9gag.com/gag/an7GMYo)
- - 😝 [I always liked Betty](http://9gag.com/gag/aVvRe7M)
- - 💣 [It must have been love..](http://9gag.com/gag/aW4R88Z)
- - 😝 [No longer afraid of sharks. Now I\u2019m afraid of whatever did this to this shark.](http://9gag.com/gag/aPArBNG)
+ - 😝 [Welcome to London.](http://9gag.com/gag/a87V8A1)
+ - 😝 [Showtime](http://9gag.com/gag/abARzdb)
+ - 💣 [Ryan&#39;s flights](http://9gag.com/gag/a0eOd4Z)
+ - 😝 [Unironically, the greatest moment in acting history.](http://9gag.com/gag/adBR71N)
  - 👉 [Jamal out for 7 months](http://9gag.com/gag/agmKLgK)<!-- MEMES:END -->
 
 ---

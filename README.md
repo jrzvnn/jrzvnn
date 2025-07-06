@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A profile of Steam developer Valve, which has a flat corporate structure and high profit per head; Ampere: Steam hit 170M MAUs in May, versus 153M a year prior &lpar;Louis Ashworth/Financial Times&rpar;](http://www.techmeme.com/250706/p6#a250706p6)
+ - [Do You Really Learn When You Use AI? What MIT Researchers Found](https://www.cnet.com/tech/services-and-software/do-you-really-learn-when-you-use-ai-what-mit-researchers-found/#ftag=CAD590a51e)
+ - [Watch TikTok Sensations Savannah Bananas Free on Your Roku Screen](https://www.cnet.com/tech/services-and-software/tiktok-sensations-savannah-bananas-are-bringing-baseball-to-your-roku-screen/#ftag=CAD590a51e)
  - [How to Use Voice Typing on Your Phone](https://www.wired.com/story/how-to-use-voice-typing-on-your-phone/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 6, #490](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-6-490/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for July 6, #286](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-6-286/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 6, #756](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-6-756/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [GameStop Might&#39;ve Sold Your Purchase Data to Facebook: How to Claim a Piece of the Settlement](https://www.cnet.com/personal-finance/gamestop-mightve-sold-your-purchase-data-to-facebook-how-to-claim-a-piece-of-the-settlement/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

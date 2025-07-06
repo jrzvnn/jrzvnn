@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Somewhere in china](http://9gag.com/gag/an7GyAV)
  - 😝 [Prioritizing literature over lungs.](http://9gag.com/gag/aVvRe6d)
- - 💣 [Last photo &lpar;top&rpar; of an Italian tourist in Romania who was attacked by a bear he was photographing &lpar;photo below&rpar;. He approached within a meter of the bear before it attacked and killed him. The bear was shot dead. It was a female with cubs.](http://9gag.com/gag/azx4jdx)
- - 😝 [Turn over](http://9gag.com/gag/aqyDrnP)
- - 👉 [They thought it was over](http://9gag.com/gag/aO8pV0v)<!-- MEMES:END -->
+ - 💣 [For God Sake](http://9gag.com/gag/aW4RMRZ)
+ - 😝 [Jamal out for 7 months](http://9gag.com/gag/agmKLgK)
+ - 👉 [Last photo &lpar;top&rpar; of an Italian tourist in Romania who was attacked by a bear he was photographing &lpar;photo below&rpar;. He approached within a meter of the bear before it attacked and killed him. The bear was shot dead. It was a female with cubs.](http://9gag.com/gag/azx4jdx)<!-- MEMES:END -->
 
 ---
 

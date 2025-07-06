@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That kid needs to be put on a leash, not the dog.](http://9gag.com/gag/aW4Rqo2)
- - 😝 [A reasonable response](http://9gag.com/gag/axymVNp)
- - 💣 [Jamal out for 7 months](http://9gag.com/gag/agmKLgK)
- - 😝 [Me trying not to read AL as AI and wondering why AI is trying to get so freaky](http://9gag.com/gag/an7GMYo)
- - 👉 [Unironically, the greatest moment in acting history.](http://9gag.com/gag/adBR71N)<!-- MEMES:END -->
+ - 😝 [Can someone help me pick with examples?](http://9gag.com/gag/aXPRAed)
+ - 😝 [Found this in quora and i cant disagree with this...](http://9gag.com/gag/ae9RbNp)
+ - 💣 [Autism can be cool as well](http://9gag.com/gag/aKGKVg3)
+ - 😝 [Flawless Victory](http://9gag.com/gag/abARzoE)
+ - 👉 [Welcome to London.](http://9gag.com/gag/a87V8A1)<!-- MEMES:END -->
 
 ---
 

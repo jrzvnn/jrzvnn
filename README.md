@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Velvet Sundown, an AI‑created band with ~850,000 monthly Spotify listeners and two recent albums, shows how some listeners are turning to anodyne AI music &lpar;Ian Bogost/The Atlantic&rpar;](http://www.techmeme.com/250706/p8#a250706p8)
  - [Best Indoor TV Antenna &lpar;2025&rpar;: Mohu, Clearstream, One for All](https://www.wired.com/gallery/best-tv-antennas/)
  - [The Verge’s summer ‘in’ and ‘out’ list](https://www.theverge.com/695286/the-verge-2025-summer-in-out-list)
  - [Best VPN for Mac for 2025: Stay Private While Streaming, Torrenting, Browsing the Web and More](https://www.cnet.com/tech/services-and-software/best-vpn-for-mac/#ftag=CAD590a51e)
- - [DefiLlama: monthly DeFi fees have risen to $577M from an April low of $366M, with major protocols generating $275M through automated market-making services &lpar;The Block&rpar;](http://www.techmeme.com/250706/p7#a250706p7)
- - [12 Best Kids Headphones &lpar;2025&rpar;, Hearing Protection and More](https://www.wired.com/gallery/the-best-kids-headphones/)<!-- TECH:END -->
+ - [DefiLlama: monthly DeFi fees have risen to $577M from an April low of $366M, with major protocols generating $275M through automated market-making services &lpar;The Block&rpar;](http://www.techmeme.com/250706/p7#a250706p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

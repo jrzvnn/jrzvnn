@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Learning about Johatsu, the people who choose to disappear in Japan.](http://9gag.com/gag/ae9RpPW)
- - 😝 [Bracing for the weekend rush.](http://9gag.com/gag/abAR0M9)
- - 💣 [Prehistoric creatures are blooming from the ice](http://9gag.com/gag/ae9RG8v)
- - 😝 [For God Sake](http://9gag.com/gag/aW4RMRZ)
- - 👉 [What is your answer](http://9gag.com/gag/amoR9Gy)<!-- MEMES:END -->
+ - 😝 [Found this in quora and i cant disagree with this...](http://9gag.com/gag/ae9RbNp)
+ - 😝 [It must have been love..](http://9gag.com/gag/aW4R88Z)
+ - 💣 [Men only want one thing...](http://9gag.com/gag/aNDjn6b)
+ - 😝 [Hearing a voice from the past](http://9gag.com/gag/aVvRe2w)
+ - 👉 [Advertisements are always way louder too.](http://9gag.com/gag/a0eOjbL)<!-- MEMES:END -->
 
 ---
 

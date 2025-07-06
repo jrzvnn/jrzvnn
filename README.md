@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Need to make sure she feels something](http://9gag.com/gag/aGy7xAw)
- - 😝 [Genius move, student](http://9gag.com/gag/aW4R8yx)
- - 💣 [There&#39;s a raccoon in the front seat](http://9gag.com/gag/a2vOdjd)
- - 😝 [This is what true love looks like.](http://9gag.com/gag/aMVqwZP)
- - 👉 [They thought it was over](http://9gag.com/gag/aO8pV0v)<!-- MEMES:END -->
+ - 😝 [It must have been love..](http://9gag.com/gag/aW4R88Z)
+ - 😝 [Hearing a voice from the past](http://9gag.com/gag/aVvRe2w)
+ - 💣 [Men only want one thing...](http://9gag.com/gag/aNDjn6b)
+ - 😝 [Advertisements are always way louder too.](http://9gag.com/gag/a0eOjbL)
+ - 👉 [Found this in quora and i cant disagree with this...](http://9gag.com/gag/ae9RbNp)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Steam developer Valve, which has a flat corporate structure and high profit per head; Ampere: Steam hit 170M MAUs in May, versus 153M a year prior &lpar;Louis Ashworth/Financial Times&rpar;](http://www.techmeme.com/250706/p6#a250706p6)
- - [Do You Really Learn When You Use AI? What MIT Researchers Found](https://www.cnet.com/tech/services-and-software/do-you-really-learn-when-you-use-ai-what-mit-researchers-found/#ftag=CAD590a51e)
- - [Watch TikTok Sensations Savannah Bananas Free on Your Roku Screen](https://www.cnet.com/tech/services-and-software/tiktok-sensations-savannah-bananas-are-bringing-baseball-to-your-roku-screen/#ftag=CAD590a51e)
- - [How to Use Voice Typing on Your Phone](https://www.wired.com/story/how-to-use-voice-typing-on-your-phone/)
- - [GameStop Might&#39;ve Sold Your Purchase Data to Facebook: How to Claim a Piece of the Settlement](https://www.cnet.com/personal-finance/gamestop-mightve-sold-your-purchase-data-to-facebook-how-to-claim-a-piece-of-the-settlement/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DefiLlama: monthly DeFi fees have risen to $577M from an April low of $366M, with major protocols generating $275M through automated market-making services &lpar;The Block&rpar;](http://www.techmeme.com/250706/p7#a250706p7)
+ - [12 Best Kids Headphones &lpar;2025&rpar;, Hearing Protection and More](https://www.wired.com/gallery/the-best-kids-headphones/)
+ - [Lenovo Chromebook Plus 14 review: the new king of Chromebooks](https://www.theverge.com/reviews/697878/lenovo-chromebook-plus-14-laptop-google-chromeos-review)
+ - [Best Cheap Internet Providers for July 2025](https://www.cnet.com/home/internet/best-cheap-internet/#ftag=CAD590a51e)
+ - [A profile of Steam developer Valve, which has a flat corporate structure and high profit per head; Ampere: Steam hit 170M MAUs in May, versus 153M a year prior &lpar;Louis Ashworth/Financial Times&rpar;](http://www.techmeme.com/250706/p6#a250706p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

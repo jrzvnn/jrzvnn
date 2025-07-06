@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Momma raised no simp!](http://9gag.com/gag/a0eObZn)
- - 😝 [Jamal out for 7 months](http://9gag.com/gag/agmKLgK)
- - 💣 [Welcome to London.](http://9gag.com/gag/a87V8A1)
+ - 😝 [Unironically, the greatest moment in acting history.](http://9gag.com/gag/adBR71N)
+ - 😝 [That kid needs to be put on a leash, not the dog.](http://9gag.com/gag/aW4Rqo2)
+ - 💣 [For God Sake](http://9gag.com/gag/aW4RMRZ)
  - 😝 [No longer afraid of sharks. Now I\u2019m afraid of whatever did this to this shark.](http://9gag.com/gag/aPArBNG)
- - 👉 [Unironically, the greatest moment in acting history.](http://9gag.com/gag/adBR71N)<!-- MEMES:END -->
+ - 👉 [Jamal out for 7 months](http://9gag.com/gag/agmKLgK)<!-- MEMES:END -->
 
 ---
 

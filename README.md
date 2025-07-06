@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Somewhere in china](http://9gag.com/gag/an7GyAV)
- - 😝 [Prioritizing literature over lungs.](http://9gag.com/gag/aVvRe6d)
+ - 😝 [Genius move, student](http://9gag.com/gag/aW4R8yx)
+ - 😝 [ZERO!](http://9gag.com/gag/a5Q57wV)
  - 💣 [For God Sake](http://9gag.com/gag/aW4RMRZ)
- - 😝 [Jamal out for 7 months](http://9gag.com/gag/agmKLgK)
- - 👉 [Last photo &lpar;top&rpar; of an Italian tourist in Romania who was attacked by a bear he was photographing &lpar;photo below&rpar;. He approached within a meter of the bear before it attacked and killed him. The bear was shot dead. It was a female with cubs.](http://9gag.com/gag/azx4jdx)<!-- MEMES:END -->
+ - 😝 [Somewhere in china](http://9gag.com/gag/an7GyAV)
+ - 👉 [Momma raised no simp!](http://9gag.com/gag/a0eObZn)<!-- MEMES:END -->
 
 ---
 

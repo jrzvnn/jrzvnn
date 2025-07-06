@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Indoor TV Antenna &lpar;2025&rpar;: Mohu, Clearstream, One for All](https://www.wired.com/gallery/best-tv-antennas/)
+ - [The Verge’s summer ‘in’ and ‘out’ list](https://www.theverge.com/695286/the-verge-2025-summer-in-out-list)
+ - [Best VPN for Mac for 2025: Stay Private While Streaming, Torrenting, Browsing the Web and More](https://www.cnet.com/tech/services-and-software/best-vpn-for-mac/#ftag=CAD590a51e)
  - [DefiLlama: monthly DeFi fees have risen to $577M from an April low of $366M, with major protocols generating $275M through automated market-making services &lpar;The Block&rpar;](http://www.techmeme.com/250706/p7#a250706p7)
- - [12 Best Kids Headphones &lpar;2025&rpar;, Hearing Protection and More](https://www.wired.com/gallery/the-best-kids-headphones/)
- - [Lenovo Chromebook Plus 14 review: the new king of Chromebooks](https://www.theverge.com/reviews/697878/lenovo-chromebook-plus-14-laptop-google-chromeos-review)
- - [Best Cheap Internet Providers for July 2025](https://www.cnet.com/home/internet/best-cheap-internet/#ftag=CAD590a51e)
- - [A profile of Steam developer Valve, which has a flat corporate structure and high profit per head; Ampere: Steam hit 170M MAUs in May, versus 153M a year prior &lpar;Louis Ashworth/Financial Times&rpar;](http://www.techmeme.com/250706/p6#a250706p6)<!-- TECH:END -->
+ - [12 Best Kids Headphones &lpar;2025&rpar;, Hearing Protection and More](https://www.wired.com/gallery/the-best-kids-headphones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

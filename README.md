@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It must have been love..](http://9gag.com/gag/aW4R88Z)
- - 😝 [Hearing a voice from the past](http://9gag.com/gag/aVvRe2w)
- - 💣 [Men only want one thing...](http://9gag.com/gag/aNDjn6b)
- - 😝 [Advertisements are always way louder too.](http://9gag.com/gag/a0eOjbL)
- - 👉 [Found this in quora and i cant disagree with this...](http://9gag.com/gag/ae9RbNp)<!-- MEMES:END -->
+ - 😝 [Somewhere in china](http://9gag.com/gag/an7GyAV)
+ - 😝 [Genius move, student](http://9gag.com/gag/aW4R8yx)
+ - 💣 [Bracing for the weekend rush.](http://9gag.com/gag/abAR0M9)
+ - 😝 [I always liked Betty](http://9gag.com/gag/aVvRe7M)
+ - 👉 [This is what true love looks like.](http://9gag.com/gag/aMVqwZP)<!-- MEMES:END -->
 
 ---
 

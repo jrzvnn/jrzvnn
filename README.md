@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jamal out for 7 months](http://9gag.com/gag/agmKLgK)
- - 😝 [Welcome to London.](http://9gag.com/gag/a87V8A1)
- - 💣 [No longer afraid of sharks. Now I\u2019m afraid of whatever did this to this shark.](http://9gag.com/gag/aPArBNG)
- - 😝 [Tom Cruise&#39;s stunt insurance premiums can be up to 20% of a movie&#39;s budget.](http://9gag.com/gag/aRBReNq)
- - 👉 [Count of hole dipping](http://9gag.com/gag/aAyvddp)<!-- MEMES:END -->
+ - 😝 [Unironically, the greatest moment in acting history.](http://9gag.com/gag/adBR71N)
+ - 😝 [It must have been love..](http://9gag.com/gag/aW4R88Z)
+ - 💣 [Me trying not to read AL as AI and wondering why AI is trying to get so freaky](http://9gag.com/gag/an7GMYo)
+ - 😝 [No longer afraid of sharks. Now I\u2019m afraid of whatever did this to this shark.](http://9gag.com/gag/aPArBNG)
+ - 👉 [Somewhere in china](http://9gag.com/gag/an7GyAV)<!-- MEMES:END -->
 
 ---
 

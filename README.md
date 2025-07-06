@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can someone help me pick with examples?](http://9gag.com/gag/aXPRAed)
- - 😝 [Found this in quora and i cant disagree with this...](http://9gag.com/gag/ae9RbNp)
- - 💣 [Autism can be cool as well](http://9gag.com/gag/aKGKVg3)
- - 😝 [Flawless Victory](http://9gag.com/gag/abARzoE)
- - 👉 [Welcome to London.](http://9gag.com/gag/a87V8A1)<!-- MEMES:END -->
+ - 😝 [Welcome to London.](http://9gag.com/gag/a87V8A1)
+ - 😝 [That kid needs to be put on a leash, not the dog.](http://9gag.com/gag/aW4Rqo2)
+ - 💣 [Count of hole dipping](http://9gag.com/gag/aAyvddp)
+ - 😝 [Jamal out for 7 months](http://9gag.com/gag/agmKLgK)
+ - 👉 [No longer afraid of sharks. Now I\u2019m afraid of whatever did this to this shark.](http://9gag.com/gag/aPArBNG)<!-- MEMES:END -->
 
 ---
 

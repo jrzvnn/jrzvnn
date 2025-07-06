@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Genius move, student](http://9gag.com/gag/aW4R8yx)
- - 😝 [ZERO!](http://9gag.com/gag/a5Q57wV)
- - 💣 [For God Sake](http://9gag.com/gag/aW4RMRZ)
  - 😝 [Somewhere in china](http://9gag.com/gag/an7GyAV)
+ - 😝 [Ryan&#39;s flights](http://9gag.com/gag/a0eOd4Z)
+ - 💣 [Prehistoric creatures are blooming from the ice](http://9gag.com/gag/ae9RG8v)
+ - 😝 [That kid needs to be put on a leash, not the dog.](http://9gag.com/gag/aW4Rqo2)
  - 👉 [Momma raised no simp!](http://9gag.com/gag/a0eObZn)<!-- MEMES:END -->
 
 ---

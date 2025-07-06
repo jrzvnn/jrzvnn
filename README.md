@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Turn over](http://9gag.com/gag/aqyDrnP)
  - 😝 [Unironically, the greatest moment in acting history.](http://9gag.com/gag/adBR71N)
- - 😝 [It must have been love..](http://9gag.com/gag/aW4R88Z)
- - 💣 [Me trying not to read AL as AI and wondering why AI is trying to get so freaky](http://9gag.com/gag/an7GMYo)
- - 😝 [No longer afraid of sharks. Now I\u2019m afraid of whatever did this to this shark.](http://9gag.com/gag/aPArBNG)
- - 👉 [Somewhere in china](http://9gag.com/gag/an7GyAV)<!-- MEMES:END -->
+ - 💣 [Jamal out for 7 months](http://9gag.com/gag/agmKLgK)
+ - 😝 [Me trying not to read AL as AI and wondering why AI is trying to get so freaky](http://9gag.com/gag/an7GMYo)
+ - 👉 [No longer afraid of sharks. Now I\u2019m afraid of whatever did this to this shark.](http://9gag.com/gag/aPArBNG)<!-- MEMES:END -->
 
 ---
 

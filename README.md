@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are 33 of our favorite deals from Amazon’s early Prime Day sale](https://www.theverge.com/tech/692002/amazon-prime-day-best-early-deals-2025)
+ - [The GSA says Oracle is giving the US government a 75% discount on its license-based software and a &quot;substantial&quot; discount on its cloud service through November &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250706/p10#a250706p10)
+ - [How to watch Summer Games Done Quick 2025](https://www.theverge.com/games/697538/how-to-watch-summer-games-done-quick-2025-twitch)
  - [Amazon slashes AirPods 4 to $99, AirPods Pro 2 to $169 leading up to Prime Day 2025](https://appleinsider.com/articles/25/07/06/amazon-slashes-airpods-4-to-99-airpods-pro-2-to-169-leading-up-to-prime-day-2025?utm_medium=rss)
- - [Adalytics finds 9,000+ pirated movies, including summer blockbusters, TV shows, and live sports on YouTube, amassing a collective 250M+ views from July to May &lpar;New York Times&rpar;](http://www.techmeme.com/250706/p9#a250706p9)
- - [Apple&#39;s &#39;F1&#39; movie tops box office, expects to earn over $300 million](https://appleinsider.com/articles/25/07/06/apples-f1-movie-tops-box-office-expects-to-earn-over-300-million?utm_medium=rss)
- - [Velvet Sundown, an AI‑created band with ~850,000 monthly Spotify listeners and two recent albums, shows how some listeners are turning to anodyne AI music &lpar;Ian Bogost/The Atlantic&rpar;](http://www.techmeme.com/250706/p8#a250706p8)
- - [Best Indoor TV Antenna &lpar;2025&rpar;: Mohu, Clearstream, One for All](https://www.wired.com/gallery/best-tv-antennas/)<!-- TECH:END -->
+ - [Adalytics finds 9,000+ pirated movies, including summer blockbusters, TV shows, and live sports on YouTube, amassing a collective 250M+ views from July to May &lpar;New York Times&rpar;](http://www.techmeme.com/250706/p9#a250706p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

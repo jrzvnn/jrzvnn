@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Prioritizing literature over lungs.](http://9gag.com/gag/aVvRe6d)
- - 😝 [Momma raised no simp!](http://9gag.com/gag/a0eObZn)
- - 💣 [This is what true love looks like.](http://9gag.com/gag/aMVqwZP)
- - 😝 [Somewhere in china](http://9gag.com/gag/an7GyAV)
- - 👉 [Ryan&#39;s flights](http://9gag.com/gag/a0eOd4Z)<!-- MEMES:END -->
+ - 😝 [Lol... Oops..](http://9gag.com/gag/aZZRpNp)
+ - 😝 [I wonder how this kid ended up](http://9gag.com/gag/adBR7pB)
+ - 💣 [For God Sake](http://9gag.com/gag/aW4RMRZ)
+ - 😝 [Ryan&#39;s flights](http://9gag.com/gag/a0eOd4Z)
+ - 👉 [Momma raised no simp!](http://9gag.com/gag/a0eObZn)<!-- MEMES:END -->
 
 ---
 

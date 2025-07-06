@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Welcome to London.](http://9gag.com/gag/a87V8A1)
- - 😝 [Can someone help me pick with examples?](http://9gag.com/gag/aXPRAed)
- - 💣 [Oy](http://9gag.com/gag/awye5dB)
- - 😝 [Found this in quora and i cant disagree with this...](http://9gag.com/gag/ae9RbNp)
- - 👉 [Autism can be cool as well](http://9gag.com/gag/aKGKVg3)<!-- MEMES:END -->
+ - 😝 [Momma raised no simp!](http://9gag.com/gag/a0eObZn)
+ - 😝 [Jamal out for 7 months](http://9gag.com/gag/agmKLgK)
+ - 💣 [Welcome to London.](http://9gag.com/gag/a87V8A1)
+ - 😝 [No longer afraid of sharks. Now I\u2019m afraid of whatever did this to this shark.](http://9gag.com/gag/aPArBNG)
+ - 👉 [Unironically, the greatest moment in acting history.](http://9gag.com/gag/adBR71N)<!-- MEMES:END -->
 
 ---
 

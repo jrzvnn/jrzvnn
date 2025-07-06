@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Prehistoric creatures are blooming from the ice](http://9gag.com/gag/ae9RG8v)
- - 😝 [For God Sake](http://9gag.com/gag/aW4RMRZ)
- - 💣 [Momma raised no simp!](http://9gag.com/gag/a0eObZn)
- - 😝 [When the Sphere of Death goes very wrong, but the show must go on.](http://9gag.com/gag/a87V8Xd)
- - 👉 [Ryan&#39;s flights](http://9gag.com/gag/a0eOd4Z)<!-- MEMES:END -->
+ - 😝 [Momma raised no simp!](http://9gag.com/gag/a0eObZn)
+ - 😝 [Showtime](http://9gag.com/gag/abARzdb)
+ - 💣 [It must have been love..](http://9gag.com/gag/aW4R88Z)
+ - 😝 [Vantage point.. Part 2](http://9gag.com/gag/aBy48zO)
+ - 👉 [Jamal out for 7 months](http://9gag.com/gag/agmKLgK)<!-- MEMES:END -->
 
 ---
 

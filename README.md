@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [That kid needs to be put on a leash, not the dog.](http://9gag.com/gag/aW4Rqo2)
+ - 😝 [A reasonable response](http://9gag.com/gag/axymVNp)
+ - 💣 [Jamal out for 7 months](http://9gag.com/gag/agmKLgK)
  - 😝 [Me trying not to read AL as AI and wondering why AI is trying to get so freaky](http://9gag.com/gag/an7GMYo)
- - 😝 [Casual Health and Safety practice](http://9gag.com/gag/a9yDrM1)
- - 💣 [It must have been love..](http://9gag.com/gag/aW4R88Z)
- - 😝 [No longer afraid of sharks. Now I\u2019m afraid of whatever did this to this shark.](http://9gag.com/gag/aPArBNG)
- - 👉 [Jamal out for 7 months](http://9gag.com/gag/agmKLgK)<!-- MEMES:END -->
+ - 👉 [Unironically, the greatest moment in acting history.](http://9gag.com/gag/adBR71N)<!-- MEMES:END -->
 
 ---
 

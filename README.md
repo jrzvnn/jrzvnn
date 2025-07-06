@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Casual Health and Safety practice](http://9gag.com/gag/a9yDrM1)
- - 😝 [Jamal out for 7 months](http://9gag.com/gag/agmKLgK)
- - 💣 [Tom Cruise&#39;s stunt insurance premiums can be up to 20% of a movie&#39;s budget.](http://9gag.com/gag/aRBReNq)
- - 😝 [Type of girl you meet on vacation and never meet again](http://9gag.com/gag/ae9Rbeb)
- - 👉 [No longer afraid of sharks. Now I\u2019m afraid of whatever did this to this shark.](http://9gag.com/gag/aPArBNG)<!-- MEMES:END -->
+ - 😝 [That kid needs to be put on a leash, not the dog.](http://9gag.com/gag/aW4Rqo2)
+ - 😝 [Unironically, the greatest moment in acting history.](http://9gag.com/gag/adBR71N)
+ - 💣 [No longer afraid of sharks. Now I\u2019m afraid of whatever did this to this shark.](http://9gag.com/gag/aPArBNG)
+ - 😝 [Me trying not to read AL as AI and wondering why AI is trying to get so freaky](http://9gag.com/gag/an7GMYo)
+ - 👉 [Count of hole dipping](http://9gag.com/gag/aAyvddp)<!-- MEMES:END -->
 
 ---
 

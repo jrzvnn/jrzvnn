@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Prioritizing literature over lungs.](http://9gag.com/gag/aVvRe6d)
+ - 😝 [Momma raised no simp!](http://9gag.com/gag/a0eObZn)
+ - 💣 [This is what true love looks like.](http://9gag.com/gag/aMVqwZP)
  - 😝 [Somewhere in china](http://9gag.com/gag/an7GyAV)
- - 😝 [Ryan&#39;s flights](http://9gag.com/gag/a0eOd4Z)
- - 💣 [Prehistoric creatures are blooming from the ice](http://9gag.com/gag/ae9RG8v)
- - 😝 [That kid needs to be put on a leash, not the dog.](http://9gag.com/gag/aW4Rqo2)
- - 👉 [Momma raised no simp!](http://9gag.com/gag/a0eObZn)<!-- MEMES:END -->
+ - 👉 [Ryan&#39;s flights](http://9gag.com/gag/a0eOd4Z)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Shein is leveraging its Reliance Retail partnership in its return to India, as fashion now accounts for 27% of India&#39;s online sales, up from 16% in 2020 &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/250706/p5#a250706p5)
- - [A look at DeepSeek&#39;s impact on the AI model race and market share landscape, roughly 150 days after DeepSeek R1 shook stock markets and the Western AI world &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/250706/p4#a250706p4)
- - [How the Binding of Two Brain Molecules Creates Memories That Last a Lifetime](https://www.wired.com/story/the-molecular-bond-that-helps-secure-your-memories/)
- - [PitchBook: VC exits through public listings, acquisitions, and buyouts reached $67.7B in Q2 2025, up from $38.5B a year ago and the strongest showing since 2021 &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/250706/p3#a250706p3)
- - [The One Big Beautiful Bill Act expands Qualified Small Business Stock benefits for VCs, founders, and startup staff, raising tax-free gains from $10M to $15M &lpar;Robert Frank/CNBC&rpar;](http://www.techmeme.com/250706/p2#a250706p2)<!-- TECH:END -->
+ - [A profile of Steam developer Valve, which has a flat corporate structure and high profit per head; Ampere: Steam hit 170M MAUs in May, versus 153M a year prior &lpar;Louis Ashworth/Financial Times&rpar;](http://www.techmeme.com/250706/p6#a250706p6)
+ - [How to Use Voice Typing on Your Phone](https://www.wired.com/story/how-to-use-voice-typing-on-your-phone/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 6, #490](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-6-490/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for July 6, #286](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-6-286/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 6, #756](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-6-756/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

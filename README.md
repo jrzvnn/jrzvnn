@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysts estimate AI services within Microsoft Azure generated $11.5B in revenue in the just-ended fiscal year, up 100%+ YoY but only ~4% of Microsoft&#39;s revenue &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250706/p1#a250706p1)
  - [Savvy Wealth, a digital wealth management service for financial advisors, raised a $72M Series B led by Industry Ventures, taking its total funding to $100M+ &lpar;Davis Janowski/Wealth Management&rpar;](http://www.techmeme.com/250705/p22#a250705p22)
  - [An interview with Autodesk CEO Andrew Anagnost on settling the proxy fight with Starboard Value, serving the &quot;design and make&quot; workforce, US reshoring, and more &lpar;Andrew Edgecliffe-Johnson/Semafor&rpar;](http://www.techmeme.com/250705/p21#a250705p21)
  - [How Clorox is using generative AI for ad creation, brainstorming new products, and analyzing consumer reviews, as part of a five-year, $580M digital overhaul &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/250705/p20#a250705p20)
- - [How to Watch Palmeiras vs. Chelsea From Anywhere for Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-palmeiras-vs-chelsea-from-anywhere-for-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)
- - [The Colombian navy says it has seized an unmanned narco-submarine that was equipped with a Starlink terminal, enabling the sub to be controlled remotely &lpar;France 24&rpar;](http://www.techmeme.com/250705/p19#a250705p19)<!-- TECH:END -->
+ - [How to Watch Palmeiras vs. Chelsea From Anywhere for Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-palmeiras-vs-chelsea-from-anywhere-for-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

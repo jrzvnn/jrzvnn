@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Shein is leveraging its Reliance Retail partnership in its return to India, as fashion now accounts for 27% of India&#39;s online sales, up from 16% in 2020 &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/250706/p5#a250706p5)
  - [A look at DeepSeek&#39;s impact on the AI model race and market share landscape, roughly 150 days after DeepSeek R1 shook stock markets and the Western AI world &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/250706/p4#a250706p4)
  - [How the Binding of Two Brain Molecules Creates Memories That Last a Lifetime](https://www.wired.com/story/the-molecular-bond-that-helps-secure-your-memories/)
  - [PitchBook: VC exits through public listings, acquisitions, and buyouts reached $67.7B in Q2 2025, up from $38.5B a year ago and the strongest showing since 2021 &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/250706/p3#a250706p3)
- - [The One Big Beautiful Bill Act expands Qualified Small Business Stock benefits for VCs, founders, and startup staff, raising tax-free gains from $10M to $15M &lpar;Robert Frank/CNBC&rpar;](http://www.techmeme.com/250706/p2#a250706p2)
- - [Analysts estimate AI services within Microsoft Azure generated $11.5B in revenue in the just-ended fiscal year, up 100%+ YoY but only ~4% of Microsoft&#39;s revenue &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250706/p1#a250706p1)<!-- TECH:END -->
+ - [The One Big Beautiful Bill Act expands Qualified Small Business Stock benefits for VCs, founders, and startup staff, raising tax-free gains from $10M to $15M &lpar;Robert Frank/CNBC&rpar;](http://www.techmeme.com/250706/p2#a250706p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

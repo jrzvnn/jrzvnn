@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For God Sake](http://9gag.com/gag/aW4RMRZ)
+ - 😝 [This is what true love looks like.](http://9gag.com/gag/aMVqwZP)
  - 😝 [It must have been love..](http://9gag.com/gag/aW4R88Z)
- - 💣 [Momma raised no simp!](http://9gag.com/gag/a0eObZn)
- - 😝 [Ryan&#39;s flights](http://9gag.com/gag/a0eOd4Z)
- - 👉 [Jamal out for 7 months](http://9gag.com/gag/agmKLgK)<!-- MEMES:END -->
+ - 💣 [Jamal out for 7 months](http://9gag.com/gag/agmKLgK)
+ - 😝 [Momma raised no simp!](http://9gag.com/gag/a0eObZn)
+ - 👉 [For God Sake](http://9gag.com/gag/aW4RMRZ)<!-- MEMES:END -->
 
 ---
 

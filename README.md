@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I always liked Betty](http://9gag.com/gag/aVvRe7M)
- - 😝 [I wonder how this kid ended up](http://9gag.com/gag/adBR7pB)
- - 💣 [Bracing for the weekend rush.](http://9gag.com/gag/abAR0M9)
- - 😝 [Prehistoric creatures are blooming from the ice](http://9gag.com/gag/ae9RG8v)
+ - 😝 [Genius move, student](http://9gag.com/gag/aW4R8yx)
+ - 😝 [Why mathematics is being taken out of schools, so this stuff wouldn\u2019t raise questions](http://9gag.com/gag/aPArDzB)
+ - 💣 [Ha ha ha... It&#39;s Funny Cause It&#39;s True...](http://9gag.com/gag/aBy411x)
+ - 😝 [Last photo &lpar;top&rpar; of an Italian tourist in Romania who was attacked by a bear he was photographing &lpar;photo below&rpar;. He approached within a meter of the bear before it attacked and killed him. The bear was shot dead. It was a female with cubs.](http://9gag.com/gag/azx4jdx)
  - 👉 [Need to make sure she feels something](http://9gag.com/gag/aGy7xAw)<!-- MEMES:END -->
 
 ---

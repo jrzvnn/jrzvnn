@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Former Google staffers and others detail why Google&#39;s 2013 effort to build Motorola smartphones in Texas failed, as Trump pushes Apple to make iPhones in the US &lpar;Verne Kopytoff/Fortune&rpar;](http://www.techmeme.com/250706/p12#a250706p12)
  - [Sources: TikTok plans to launch a new version of its app in the US on September 5, ahead of the Sept. 17 deadline for the US to enforce the divest-or-ban law &lpar;The Information&rpar;](http://www.techmeme.com/250706/p11#a250706p11)
  - [Here are 33 of our favorite deals from Amazon’s early Prime Day sale](https://www.theverge.com/tech/692002/amazon-prime-day-best-early-deals-2025)
  - [The GSA says Oracle is giving the US government a 75% discount on its license-based software and a &quot;substantial&quot; discount on its cloud service through November &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250706/p10#a250706p10)
- - [How to watch Summer Games Done Quick 2025](https://www.theverge.com/games/697538/how-to-watch-summer-games-done-quick-2025-twitch)
- - [Amazon slashes AirPods 4 to $99, AirPods Pro 2 to $169 leading up to Prime Day 2025](https://appleinsider.com/articles/25/07/06/amazon-slashes-airpods-4-to-99-airpods-pro-2-to-169-leading-up-to-prime-day-2025?utm_medium=rss)<!-- TECH:END -->
+ - [How to watch Summer Games Done Quick 2025](https://www.theverge.com/games/697538/how-to-watch-summer-games-done-quick-2025-twitch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

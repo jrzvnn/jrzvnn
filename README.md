@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Savvy Wealth, a digital wealth management service for financial advisors, raised a $72M Series B led by Industry Ventures, taking its total funding to $100M+ &lpar;Davis Janowski/Wealth Management&rpar;](http://www.techmeme.com/250705/p22#a250705p22)
+ - [An interview with Autodesk CEO Andrew Anagnost on settling the proxy fight with Starboard Value, serving the &quot;design and make&quot; workforce, US reshoring, and more &lpar;Andrew Edgecliffe-Johnson/Semafor&rpar;](http://www.techmeme.com/250705/p21#a250705p21)
  - [How Clorox is using generative AI for ad creation, brainstorming new products, and analyzing consumer reviews, as part of a five-year, $580M digital overhaul &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/250705/p20#a250705p20)
  - [How to Watch Palmeiras vs. Chelsea From Anywhere for Free: Stream FIFA Club World Cup Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-palmeiras-vs-chelsea-from-anywhere-for-free-stream-fifa-club-world-cup-soccer/#ftag=CAD590a51e)
- - [The Colombian navy says it has seized an unmanned narco-submarine that was equipped with a Starlink terminal, enabling the sub to be controlled remotely &lpar;France 24&rpar;](http://www.techmeme.com/250705/p19#a250705p19)
- - [Apple pulls the curtain back on durability testing of iPhone, iPad, and more](https://appleinsider.com/articles/25/07/05/apple-pulls-the-curtain-back-on-durability-testing-of-iphone-ipad-and-more?utm_medium=rss)
- - [A developer details how he shipped Context, a native macOS app that was almost 100% built using Claude Code &lpar;Indragie Karunaratne/My Portfolio&rpar;](http://www.techmeme.com/250705/p18#a250705p18)<!-- TECH:END -->
+ - [The Colombian navy says it has seized an unmanned narco-submarine that was equipped with a Starlink terminal, enabling the sub to be controlled remotely &lpar;France 24&rpar;](http://www.techmeme.com/250705/p19#a250705p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

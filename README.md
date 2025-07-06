@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is what true love looks like.](http://9gag.com/gag/aMVqwZP)
- - 😝 [It must have been love..](http://9gag.com/gag/aW4R88Z)
- - 💣 [Jamal out for 7 months](http://9gag.com/gag/agmKLgK)
- - 😝 [Momma raised no simp!](http://9gag.com/gag/a0eObZn)
- - 👉 [For God Sake](http://9gag.com/gag/aW4RMRZ)<!-- MEMES:END -->
+ - 😝 [Welcome to London.](http://9gag.com/gag/a87V8A1)
+ - 😝 [Can someone help me pick with examples?](http://9gag.com/gag/aXPRAed)
+ - 💣 [Oy](http://9gag.com/gag/awye5dB)
+ - 😝 [Found this in quora and i cant disagree with this...](http://9gag.com/gag/ae9RbNp)
+ - 👉 [Autism can be cool as well](http://9gag.com/gag/aKGKVg3)<!-- MEMES:END -->
 
 ---
 

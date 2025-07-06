@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It must have been love..](http://9gag.com/gag/aW4R88Z)
- - 😝 [Hearing a voice from the past](http://9gag.com/gag/aVvRe2w)
- - 💣 [Men only want one thing...](http://9gag.com/gag/aNDjn6b)
- - 😝 [Found this in quora and i cant disagree with this...](http://9gag.com/gag/ae9RbNp)
- - 👉 [Advertisements are always way louder too.](http://9gag.com/gag/a0eOjbL)<!-- MEMES:END -->
+ - 😝 [I always liked Betty](http://9gag.com/gag/aVvRe7M)
+ - 😝 [I wonder how this kid ended up](http://9gag.com/gag/adBR7pB)
+ - 💣 [Bracing for the weekend rush.](http://9gag.com/gag/abAR0M9)
+ - 😝 [Prehistoric creatures are blooming from the ice](http://9gag.com/gag/ae9RG8v)
+ - 👉 [Need to make sure she feels something](http://9gag.com/gag/aGy7xAw)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lol... Oops..](http://9gag.com/gag/aZZRpNp)
- - 😝 [I wonder how this kid ended up](http://9gag.com/gag/adBR7pB)
- - 💣 [For God Sake](http://9gag.com/gag/aW4RMRZ)
- - 😝 [Ryan&#39;s flights](http://9gag.com/gag/a0eOd4Z)
- - 👉 [Momma raised no simp!](http://9gag.com/gag/a0eObZn)<!-- MEMES:END -->
+ - 😝 [Prehistoric creatures are blooming from the ice](http://9gag.com/gag/ae9RG8v)
+ - 😝 [For God Sake](http://9gag.com/gag/aW4RMRZ)
+ - 💣 [Momma raised no simp!](http://9gag.com/gag/a0eObZn)
+ - 😝 [When the Sphere of Death goes very wrong, but the show must go on.](http://9gag.com/gag/a87V8Xd)
+ - 👉 [Ryan&#39;s flights](http://9gag.com/gag/a0eOd4Z)<!-- MEMES:END -->
 
 ---
 

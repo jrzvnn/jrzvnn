@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok builds new US app version ahead of planned sale](https://appleinsider.com/articles/25/07/06/tiktok-builds-new-us-app-version-ahead-of-planned-sale?utm_medium=rss)
+ - [TikTok’s ‘ban’ problem could end soon with a new app and a sale](https://www.theverge.com/news/698999/tiktok-ban-sale-rumor-new-app-oracle)
  - [Gemini referencing real-life moments when prompted to write a birthday letter shows how effectively Google is leveraging user data to craft personalized content &lpar;Lila Shroff/The Atlantic&rpar;](http://www.techmeme.com/250706/p13#a250706p13)
  - [Former Google staffers and others detail why Google&#39;s 2013 effort to build Motorola smartphones in Texas failed, as Trump pushes Apple to make iPhones in the US &lpar;Verne Kopytoff/Fortune&rpar;](http://www.techmeme.com/250706/p12#a250706p12)
- - [Sources: TikTok plans to launch a new version of its app in the US on September 5, ahead of the Sept. 17 deadline for the US to enforce the divest-or-ban law &lpar;The Information&rpar;](http://www.techmeme.com/250706/p11#a250706p11)
- - [Here are 33 of our favorite deals from Amazon’s early Prime Day sale](https://www.theverge.com/tech/692002/amazon-prime-day-best-early-deals-2025)
- - [The GSA says Oracle is giving the US government a 75% discount on its license-based software and a &quot;substantial&quot; discount on its cloud service through November &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250706/p10#a250706p10)<!-- TECH:END -->
+ - [Sources: TikTok plans to launch a new version of its app in the US on September 5, ahead of the Sept. 17 deadline for the US to enforce the divest-or-ban law &lpar;The Information&rpar;](http://www.techmeme.com/250706/p11#a250706p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

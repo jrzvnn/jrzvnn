@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Found this in quora and i cant disagree with this...](http://9gag.com/gag/ae9RbNp)
- - 😝 [It must have been love..](http://9gag.com/gag/aW4R88Z)
- - 💣 [Men only want one thing...](http://9gag.com/gag/aNDjn6b)
- - 😝 [Hearing a voice from the past](http://9gag.com/gag/aVvRe2w)
- - 👉 [Advertisements are always way louder too.](http://9gag.com/gag/a0eOjbL)<!-- MEMES:END -->
+ - 😝 [Why mathematics is being taken out of schools, so this stuff wouldn\u2019t raise questions](http://9gag.com/gag/aPArDzB)
+ - 😝 [For God Sake](http://9gag.com/gag/aW4RMRZ)
+ - 💣 [This is what true love looks like.](http://9gag.com/gag/aMVqwZP)
+ - 😝 [An important job in the White House.](http://9gag.com/gag/ajPRAox)
+ - 👉 [What is your answer](http://9gag.com/gag/amoR9Gy)<!-- MEMES:END -->
 
 ---
 

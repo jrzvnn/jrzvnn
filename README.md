@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Vantage point.. Part 2](http://9gag.com/gag/aBy48zO)
- - 😝 [Ryan&#39;s flights](http://9gag.com/gag/a0eOd4Z)
- - 💣 [Momma raised no simp!](http://9gag.com/gag/a0eObZn)
- - 😝 [Jamal out for 7 months](http://9gag.com/gag/agmKLgK)
- - 👉 [It must have been love..](http://9gag.com/gag/aW4R88Z)<!-- MEMES:END -->
+ - 😝 [Glad to see these guys are still around, keep it up boys!](http://9gag.com/gag/awyenz8)
+ - 😝 [Snitch](http://9gag.com/gag/axymg5D)
+ - 💣 [Can someone help me pick with examples?](http://9gag.com/gag/aXPRAed)
+ - 😝 [Found this in quora and i cant disagree with this...](http://9gag.com/gag/ae9RbNp)
+ - 👉 [Oy](http://9gag.com/gag/awye5dB)<!-- MEMES:END -->
 
 ---
 

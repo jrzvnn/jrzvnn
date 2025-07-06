@@ -157,10 +157,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with British Library CEO Rebecca Lawrence on dealing with the aftermath of a major October 2023 cyberattack, AI scraping, AI for text analysis, and more &lpar;Mishal Husain/Bloomberg&rpar;](http://www.techmeme.com/250706/p14#a250706p14)
  - [TikTok builds new US app version ahead of planned sale](https://appleinsider.com/articles/25/07/06/tiktok-builds-new-us-app-version-ahead-of-planned-sale?utm_medium=rss)
  - [TikTok’s ‘ban’ problem could end soon with a new app and a sale](https://www.theverge.com/news/698999/tiktok-ban-sale-rumor-new-app-oracle)
  - [Gemini referencing real-life moments when prompted to write a birthday letter shows how effectively Google is leveraging user data to craft personalized content &lpar;Lila Shroff/The Atlantic&rpar;](http://www.techmeme.com/250706/p13#a250706p13)
- - [How to Stream &#39;It&#39;s Always Sunny in Philadelphia&#39; Season 17](https://www.cnet.com/tech/services-and-software/how-to-stream-its-always-sunny-in-philadelphia-season-17/#ftag=CAD590a51e)
  - [Former Google staffers and others detail why Google&#39;s 2013 effort to build Motorola smartphones in Texas failed, as Trump pushes Apple to make iPhones in the US &lpar;Verne Kopytoff/Fortune&rpar;](http://www.techmeme.com/250706/p12#a250706p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

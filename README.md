@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jamal out for 7 months](http://9gag.com/gag/agmKLgK)
- - 😝 [Count of hole dipping](http://9gag.com/gag/aAyvddp)
- - 💣 [Welcome to London.](http://9gag.com/gag/a87V8A1)
- - 😝 [I&#39;m tired of this franchise](http://9gag.com/gag/an7GMVo)
- - 👉 [I am the weapon](http://9gag.com/gag/aAyvx7E)<!-- MEMES:END -->
+ - 😝 [No longer afraid of sharks. Now I\u2019m afraid of whatever did this to this shark.](http://9gag.com/gag/aPArBNG)
+ - 😝 [I wonder how this kid ended up](http://9gag.com/gag/adBR7pB)
+ - 💣 [Count of hole dipping](http://9gag.com/gag/aAyvddp)
+ - 😝 [I am the weapon](http://9gag.com/gag/aAyvx7E)
+ - 👉 [That kid needs to be put on a leash, not the dog.](http://9gag.com/gag/aW4Rqo2)<!-- MEMES:END -->
 
 ---
 

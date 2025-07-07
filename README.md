@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What are you supposed to be?](http://9gag.com/gag/amoR2Oo)
- - 😝 [Vantage point.. Part 2](http://9gag.com/gag/aBy48zO)
- - 💣 [Service chicken](http://9gag.com/gag/agmKqeW)
- - 😝 [I&#39;m tired of this franchise](http://9gag.com/gag/an7GMVo)
- - 👉 [No longer afraid of sharks. Now I\u2019m afraid of whatever did this to this shark.](http://9gag.com/gag/aPArBNG)<!-- MEMES:END -->
+ - 😝 [Poland - Hold the Fort!](http://9gag.com/gag/avy9O8n)
+ - 😝 [Cool bike man](http://9gag.com/gag/aQzy3d7)
+ - 💣 [What a creative way to repurpose old toys.](http://9gag.com/gag/a5Q5bDN)
+ - 😝 [This deaf dog&#39;s pure joy watching fireworks is the most wholesome thing you&#39;ll see today.](http://9gag.com/gag/an7G97L)
+ - 👉 [I am the weapon](http://9gag.com/gag/aAyvx7E)<!-- MEMES:END -->
 
 ---
 

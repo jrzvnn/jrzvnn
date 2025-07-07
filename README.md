@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump trade admin calls Apple&#39;s China ties a &#39;Silicon Valley soap opera&#39;](https://appleinsider.com/articles/25/07/07/trump-trade-admin-calls-apples-china-ties-a-silicon-valley-soap-opera?utm_medium=rss)
+ - [Why Jolly Ranchers Are Banned in the UK but Not the US](https://www.wired.com/story/why-jolly-ranchers-are-banned-in-the-uk-but-not-the-us-moah-mosh-gras/)
  - [Nuki Smart Lock, new Govee floor lamps, &amp; more on HomeKit Insider](https://appleinsider.com/articles/25/07/07/nuki-smart-lock-new-govee-floor-lamps-more-on-homekit-insider?utm_medium=rss)
  - [Amazon slashes AirPods Pro 2 to $159.99 for Prime Day](https://appleinsider.com/articles/25/07/07/amazon-slashes-airpods-pro-2-to-15999-for-prime-day?utm_medium=rss)
- - [Apple’s 5th Ave store spray-painted to protest ‘climate hypocrisy’](https://www.theverge.com/news/699245/apple-climate-hypocrisy-5th-ave-nyc-store-extinction-rebellion)
- - [You Could Be Getting a US-Only Replacement TikTok App Ahead of Possible September Sale](https://www.cnet.com/tech/services-and-software/you-could-be-getting-a-replacement-tiktok-app-ahead-of-possible-september-sale/#ftag=CAD590a51e)
- - [Best TV Antennas of 2025](https://www.cnet.com/tech/home-entertainment/best-indoor-tv-antenna/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple’s 5th Ave store spray-painted to protest ‘climate hypocrisy’](https://www.theverge.com/news/699245/apple-climate-hypocrisy-5th-ave-nyc-store-extinction-rebellion)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo wants to keep ‘traditional approach&amp;#8217; to development as costs skyrocket](https://www.theverge.com/news/699429/nintendo-switch-2-game-development-costs)
+ - [Wicked’s Jon M. Chu will direct Mattel’s live-action Hot Wheels movie](https://www.theverge.com/news/699463/mattel-hot-wheels-live-action-movie-jon-m-chu-director)
  - [President Trump announces 25% tariffs on Japan and South Korea, starting August 1 &lpar;Kevin Breuninger/CNBC&rpar;](http://www.techmeme.com/250707/p14#a250707p14)
  - [Trump trade admin calls Apple&#39;s China ties a &#39;Silicon Valley soap opera&#39;](https://appleinsider.com/articles/25/07/07/trump-trade-admin-calls-apples-china-ties-a-silicon-valley-soap-opera?utm_medium=rss)
- - [OpenAI told investors stock compensation jumped over 5x last year to $4.4B, or 119% of total revenue for that period but expects it to drop to under 10% by 2030 &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250707/p13#a250707p13)
- - [PE firm TPG completes its $7.6B acquisition of the remaining 70% stake in DirecTV from AT&amp;T, marking AT&amp;T&#39;s exit from media &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250707/p12#a250707p12)
- - [Why Jolly Ranchers Are Banned in the UK but Not the US](https://www.wired.com/story/why-jolly-ranchers-are-banned-in-the-uk-but-not-the-us-moah-mosh-gras/)<!-- TECH:END -->
+ - [OpenAI told investors stock compensation jumped over 5x last year to $4.4B, or 119% of total revenue for that period but expects it to drop to under 10% by 2030 &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250707/p13#a250707p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

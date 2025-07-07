@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this heresy?](http://9gag.com/gag/avy9ORq)
- - 😝 [That kid needs to be put on a leash, not the dog.](http://9gag.com/gag/aW4Rqo2)
- - 💣 [Welcome to London.](http://9gag.com/gag/a87V8A1)
- - 😝 [Cool bike man](http://9gag.com/gag/aQzy3d7)
- - 👉 [Poland - Hold the Fort!](http://9gag.com/gag/avy9O8n)<!-- MEMES:END -->
+ - 😝 [I&#39;m tired of this franchise](http://9gag.com/gag/an7GMVo)
+ - 😝 [Momma raised no simp!](http://9gag.com/gag/a0eObZn)
+ - 💣 [I am the weapon](http://9gag.com/gag/aAyvx7E)
+ - 😝 [Disney was already lazy back then](http://9gag.com/gag/aVvR3By)
+ - 👉 [What the nani!](http://9gag.com/gag/aNDj1q6)<!-- MEMES:END -->
 
 ---
 

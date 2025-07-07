@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Window Air Conditioners 2025: 10 Picks to Cool You for Years](https://www.wired.com/gallery/best-window-air-conditioners/)
- - [Dynamic Island again rumored to change with iPhone 17](https://appleinsider.com/articles/25/07/07/dynamic-island-again-rumored-to-change-with-iphone-17?utm_medium=rss)
- - [15 Best Air Purifiers &lpar;2025&rpar;: Coway, AirDoctor, IQAir](https://www.wired.com/gallery/best-air-purifiers/)
- - [Apple AirTag 4-pack plunges to $67.99 for Prime Day 2025](https://appleinsider.com/articles/25/07/07/apple-airtag-4-pack-plunges-to-6799-for-prime-day-2025?utm_medium=rss)
- - [Apple’s latest AirPods are already on sale for $99 before Prime Day](https://www.theverge.com/tech/699397/apple-airpods-4-anc-kindle-scribe-prime-day-deal-sale)<!-- TECH:END -->
+ - [Tesla’s real struggles have only just begun](https://www.theverge.com/tesla/699431/tesla-musk-trump-ev-regulatory-credit-loss)
+ - [Get an AirTag for $19.99 or 4 for $67.99 with Prime Day deals](https://appleinsider.com/articles/25/07/07/apple-airtag-4-pack-plunges-to-6799-for-prime-day-2025?utm_medium=rss)
+ - [The 8 Best Travel Pillows &lpar;2025&rpar;, Tested on Planes](https://www.wired.com/gallery/best-travel-pillows/)
+ - [Epic reaches mystery settlement with Samsung days before new Galaxy phones](https://www.theverge.com/analysis/699541/epic-games-settle-samsung-auto-blocker-lawsuit)
+ - [Apple Watch blood oxygen ban should never have been put in place, and Apple wants it overturned](https://appleinsider.com/articles/25/07/07/apple-watch-blood-oxygen-ban-should-never-have-been-put-in-place-and-apple-wants-it-overturned?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

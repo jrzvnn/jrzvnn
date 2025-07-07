@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Nuki Smart Lock, new Govee floor lamps, &amp; more on HomeKit Insider](https://appleinsider.com/articles/25/07/07/nuki-smart-lock-new-govee-floor-lamps-more-on-homekit-insider?utm_medium=rss)
  - [Amazon slashes AirPods Pro 2 to $159.99 for Prime Day](https://appleinsider.com/articles/25/07/07/amazon-slashes-airpods-pro-2-to-15999-for-prime-day?utm_medium=rss)
  - [Apple’s 5th Ave store spray-painted to protest ‘climate hypocrisy’](https://www.theverge.com/news/699245/apple-climate-hypocrisy-5th-ave-nyc-store-extinction-rebellion)
- - [How SharkNinja took over the home, with CEO Mark Barrocas](https://www.theverge.com/decoder-podcast-with-nilay-patel/695613/sharkninja-ceo-mark-barrocas-interview-flexflame-grill-home-appliance)
- - [DOJ goes after US citizen for developing anti-ICE app](https://appleinsider.com/articles/25/07/07/doj-goes-after-us-citizen-for-developing-anti-ice-app?utm_medium=rss)<!-- TECH:END -->
+ - [You Could Be Getting a US-Only Replacement TikTok App Ahead of Possible September Sale](https://www.cnet.com/tech/services-and-software/you-could-be-getting-a-replacement-tiktok-app-ahead-of-possible-september-sale/#ftag=CAD590a51e)
+ - [Best TV Antennas of 2025](https://www.cnet.com/tech/home-entertainment/best-indoor-tv-antenna/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

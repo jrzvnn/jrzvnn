@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a creative way to repurpose old toys.](http://9gag.com/gag/a5Q5bDN)
- - 😝 [Cool bike man](http://9gag.com/gag/aQzy3d7)
- - 💣 [When the holistic health advice meets real-world trauma.](http://9gag.com/gag/avy98NM)
- - 😝 [This deaf dog&#39;s pure joy watching fireworks is the most wholesome thing you&#39;ll see today.](http://9gag.com/gag/an7G97L)
- - 👉 [Working efficiently to optimize leisure time sounds like a genius move, not a flaw.](http://9gag.com/gag/aBy4gRQ)<!-- MEMES:END -->
+ - 😝 [Unironically, the greatest moment in acting history.](http://9gag.com/gag/adBR71N)
+ - 😝 [I&#39;m tired of this franchise](http://9gag.com/gag/an7GMVo)
+ - 💣 [I wonder how this kid ended up](http://9gag.com/gag/adBR7pB)
+ - 😝 [Damn... Lightning struck a field, and more than 25 cows were electrocuted.](http://9gag.com/gag/aZZRmLz)
+ - 👉 [Type of girl you meet on vacation and never meet again](http://9gag.com/gag/ae9Rbeb)<!-- MEMES:END -->
 
 ---
 

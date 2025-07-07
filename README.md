@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This Robot Vacuum Surprised Me With Its Ingenious Arms and Navigation Ability, and It&#39;s $400 Off for Prime Day](https://www.cnet.com/deals/this-robot-vacuum-surprised-me-with-its-ingenious-arms-and-navigation-ability-and-its-400-off-for-prime-day/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 7 #491](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-7-491/#ftag=CAD590a51e)
+ - [Prime Day 2025: The Deals Are Here, but Beware of Looming Tariffs](https://www.cnet.com/tech/prime-day-2025-the-deals-are-here-but-beware-of-looming-tariffs/#ftag=CAD590a51e)
  - [A look at various responses to AI firms&#39; scraping, like open source Anubis that uses cryptographic JavaScript challenges, Cloudflare&#39;s &quot;link mazes&quot;, and more &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250707/p18#a250707p18)
- - [9 Best Robot Vacuums &lpar;2025&rpar;: Tested and Reviewed in Real Homes](https://www.wired.com/gallery/best-robot-vacuums/)
- - [Microsoft’s Edge browser now loads sites even faster](https://www.theverge.com/news/699783/microsoft-edge-browser-speed-rendering)
- - [Squid Game Creator Reveals Alternate Ending That Fans Say Should&#39;ve Been the Real One](https://www.cnet.com/tech/services-and-software/squid-game-creator-reveals-alternate-ending-that-fans-say-shouldve-been-the-real-one/#ftag=CAD590a51e)
- - [Get $200 to Spend on Tomorrow&#39;s Prime Day Sale With the Prime Visa](https://www.cnet.com/personal-finance/credit-cards/get-200-to-spend-on-tomorrows-prime-day-sale-with-the-prime-visa/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Unpacked Live Reveals: New Galaxy Fold Phones Appear Imminent](https://www.cnet.com/tech/mobile/samsung-unpacked-live-reveals-new-galaxy-fold-phones-appear-imminent/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

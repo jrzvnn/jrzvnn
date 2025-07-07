@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A dead twig](http://9gag.com/gag/apRV235)
- - 😝 [No longer afraid of sharks. Now I\u2019m afraid of whatever did this to this shark.](http://9gag.com/gag/aPArBNG)
- - 💣 [Me trying not to read AL as AI and wondering why AI is trying to get so freaky](http://9gag.com/gag/an7GMYo)
- - 😝 [Type of girl you meet on vacation and never meet again](http://9gag.com/gag/ae9Rbeb)
- - 👉 [Count of hole dipping](http://9gag.com/gag/aAyvddp)<!-- MEMES:END -->
+ - 😝 [Is this heresy?](http://9gag.com/gag/avy9ORq)
+ - 😝 [That kid needs to be put on a leash, not the dog.](http://9gag.com/gag/aW4Rqo2)
+ - 💣 [Welcome to London.](http://9gag.com/gag/a87V8A1)
+ - 😝 [Cool bike man](http://9gag.com/gag/aQzy3d7)
+ - 👉 [Poland - Hold the Fort!](http://9gag.com/gag/avy9O8n)<!-- MEMES:END -->
 
 ---
 

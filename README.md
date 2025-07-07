@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Hope the kids like it, glad they made this](http://9gag.com/gag/a7onM3w)
+ - 😝 [Vantage point.. Part 2](http://9gag.com/gag/aBy48zO)
+ - 💣 [I&#39;m tired of this franchise](http://9gag.com/gag/an7GMVo)
  - 😝 [Somewhere in china](http://9gag.com/gag/an7GyAV)
- - 😝 [One of Honda&#39;s chief engineers.](http://9gag.com/gag/ajPREmG)
- - 💣 [Service chicken](http://9gag.com/gag/agmKqeW)
- - 😝 [What the nani!](http://9gag.com/gag/aNDj1q6)
- - 👉 [No longer afraid of sharks. Now I\u2019m afraid of whatever did this to this shark.](http://9gag.com/gag/aPArBNG)<!-- MEMES:END -->
+ - 👉 [What the nani!](http://9gag.com/gag/aNDj1q6)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fifth Avenue Apple Store hit with Trump environmental protest graffiti](https://appleinsider.com/articles/25/07/07/fifth-avenue-apple-store-hit-with-trump-environmental-protest-graffiti?utm_medium=rss)
+ - [Apple buys two firms to improve Apple Intelligence, Apple Vision Pro](https://appleinsider.com/articles/25/07/07/apple-buys-two-eu-firms-to-improve-apple-intelligence-apple-vision-pro?utm_medium=rss)
+ - [13 Best Wi-Fi Routers of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-wifi-routers/)
  - [What the iPhone 17 Pro looks like with moved MagSafe &amp; Apple logo](https://appleinsider.com/articles/25/07/07/what-the-iphone-17-pro-looks-like-with-moved-magsafe-apple-logo?utm_medium=rss)
- - [Stat Counter: Windows 11 had a 50.9% share of the Windows market on July 4, ahead of Windows 10&#39;s 46.2%; the OS, released in 2021, only had a &lt;10% share in 2022 &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/250707/p10#a250707p10)
- - [Destiny&amp;#8217;s mobile spinoff will arrive in August](https://www.theverge.com/news/699184/destiny-rising-mobile-game-ios-android-release-date)
- - [Huawei&#39;s AI lab refutes accusations that its Pangu Pro MoE model source code used uncredited material from rivals, after a GitHub group accused it of copying &lpar;Bloomberg&rpar;](http://www.techmeme.com/250707/p9#a250707p9)
- - [People Are Using AI Chatbots to Guide Their Psychedelic Trips](https://www.wired.com/story/people-are-using-ai-chatbots-to-guide-their-psychedelic-trips/)<!-- TECH:END -->
+ - [Stat Counter: Windows 11 had a 50.9% share of the Windows market on July 4, ahead of Windows 10&#39;s 46.2%; the OS, released in 2021, only had a &lt;10% share in 2022 &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/250707/p10#a250707p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

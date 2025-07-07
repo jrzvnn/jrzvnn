@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poland - Hold the Fort!](http://9gag.com/gag/avy9O8n)
- - 😝 [Cool bike man](http://9gag.com/gag/aQzy3d7)
- - 💣 [What a creative way to repurpose old toys.](http://9gag.com/gag/a5Q5bDN)
- - 😝 [This deaf dog&#39;s pure joy watching fireworks is the most wholesome thing you&#39;ll see today.](http://9gag.com/gag/an7G97L)
- - 👉 [I am the weapon](http://9gag.com/gag/aAyvx7E)<!-- MEMES:END -->
+ - 😝 [Somewhere in china](http://9gag.com/gag/an7GyAV)
+ - 😝 [One of Honda&#39;s chief engineers.](http://9gag.com/gag/ajPREmG)
+ - 💣 [I am the weapon](http://9gag.com/gag/aAyvx7E)
+ - 😝 [Service chicken](http://9gag.com/gag/agmKqeW)
+ - 👉 [What the nani!](http://9gag.com/gag/aNDj1q6)<!-- MEMES:END -->
 
 ---
 

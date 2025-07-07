@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jamal out for 7 months](http://9gag.com/gag/agmKLgK)
- - 😝 [Disney was already lazy back then](http://9gag.com/gag/aVvR3By)
- - 💣 [Me trying not to read AL as AI and wondering why AI is trying to get so freaky](http://9gag.com/gag/an7GMYo)
- - 😝 [Ulala](http://9gag.com/gag/azx414Z)
- - 👉 [Mya Lesnar, daughter of Brock Lesnar, dominates the NCAA Shot Put Championships with her first throw. She&#39;s a force to be reckoned with](http://9gag.com/gag/ary8bqX)<!-- MEMES:END -->
+ - 😝 [Me trying not to read AL as AI and wondering why AI is trying to get so freaky](http://9gag.com/gag/an7GMYo)
+ - 😝 [Yesterday, two men saved the lives of an entire family during a building fire in Paris.](http://9gag.com/gag/aW4RqEq)
+ - 💣 [Ulala](http://9gag.com/gag/azx414Z)
+ - 😝 [Mya Lesnar, daughter of Brock Lesnar, dominates the NCAA Shot Put Championships with her first throw. She&#39;s a force to be reckoned with](http://9gag.com/gag/ary8bqX)
+ - 👉 [No longer afraid of sharks. Now I\u2019m afraid of whatever did this to this shark.](http://9gag.com/gag/aPArBNG)<!-- MEMES:END -->
 
 ---
 

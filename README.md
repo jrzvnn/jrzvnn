@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me trying not to read AL as AI and wondering why AI is trying to get so freaky](http://9gag.com/gag/an7GMYo)
- - 😝 [Yesterday, two men saved the lives of an entire family during a building fire in Paris.](http://9gag.com/gag/aW4RqEq)
- - 💣 [Ulala](http://9gag.com/gag/azx414Z)
- - 😝 [Mya Lesnar, daughter of Brock Lesnar, dominates the NCAA Shot Put Championships with her first throw. She&#39;s a force to be reckoned with](http://9gag.com/gag/ary8bqX)
- - 👉 [No longer afraid of sharks. Now I\u2019m afraid of whatever did this to this shark.](http://9gag.com/gag/aPArBNG)<!-- MEMES:END -->
+ - 😝 [When road rage driver meets road calm driver.](http://9gag.com/gag/aXPRgX2)
+ - 😝 [No longer afraid of sharks. Now I\u2019m afraid of whatever did this to this shark.](http://9gag.com/gag/aPArBNG)
+ - 💣 [Me trying not to read AL as AI and wondering why AI is trying to get so freaky](http://9gag.com/gag/an7GMYo)
+ - 😝 [Unironically, the greatest moment in acting history.](http://9gag.com/gag/adBR71N)
+ - 👉 [Valve is one of the few companies that keep an access to their `dead` games. Even games like Artifact and CS:GO are still playable. So, it&#39;s no wonder that they are not against the petition.](http://9gag.com/gag/a9yDRQj)<!-- MEMES:END -->
 
 ---
 

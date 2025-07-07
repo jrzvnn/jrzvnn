@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Showtime](http://9gag.com/gag/abARzdb)
- - 😝 [Male Privilege](http://9gag.com/gag/a34NQnm)
- - 💣 [Scary Movie &lpar;2000&rpar; was released 25 years ago today.](http://9gag.com/gag/awyeoEy)
- - 😝 [Hehe](http://9gag.com/gag/agmK5Zx)
- - 👉 [Working efficiently to optimize leisure time sounds like a genius move, not a flaw.](http://9gag.com/gag/aBy4gRQ)<!-- MEMES:END -->
+ - 😝 [Hope the kids like it, glad they made this](http://9gag.com/gag/a7onM3w)
+ - 😝 [Dispicable.](http://9gag.com/gag/aAyvx20)
+ - 💣 [Jamal out for 7 months](http://9gag.com/gag/agmKLgK)
+ - 😝 [Insert title](http://9gag.com/gag/a87Voqe)
+ - 👉 [I&#39;m tired of this franchise](http://9gag.com/gag/an7GMVo)<!-- MEMES:END -->
 
 ---
 

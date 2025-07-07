@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Quantum computing company IonQ raised $1B via a sale of stock and warrants to Heights Capital Management, an affiliate of Susquehanna International Group &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/250707/p20#a250707p20)
  - [‘Anthem’ Is the Latest Video Game Casualty. What Should End-of-Life Care Look Like for Games?](https://www.wired.com/story/bioware-anthem-shuttered-stop-killing-games/)
  - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
  - [Apple just added more frost to its Liquid Glass design](https://www.theverge.com/news/700066/apple-liquid-glass-frosted-ios-26-developer-beta)
- - [xAI updated Grok to be more &amp;#8216;politically incorrect&amp;#8217;](https://www.theverge.com/ai-artificial-intelligence/699788/xai-updated-grok-to-be-more-politically-incorrect)
- - [Sources: Ruoming Pang, head of the foundation models team at Apple, is leaving to join Meta, which offered a package worth tens of millions of dollars per year &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250707/p19#a250707p19)<!-- TECH:END -->
+ - [xAI updated Grok to be more &amp;#8216;politically incorrect&amp;#8217;](https://www.theverge.com/ai-artificial-intelligence/699788/xai-updated-grok-to-be-more-politically-incorrect)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

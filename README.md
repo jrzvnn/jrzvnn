@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon slashes AirPods Pro 2 to $159.99 for Prime Day](https://appleinsider.com/articles/25/07/07/amazon-slashes-airpods-pro-2-to-15999-for-prime-day?utm_medium=rss)
  - [Apple’s 5th Ave store spray-painted to protest ‘climate hypocrisy’](https://www.theverge.com/news/699245/apple-climate-hypocrisy-5th-ave-nyc-store-extinction-rebellion)
  - [How SharkNinja took over the home, with CEO Mark Barrocas](https://www.theverge.com/decoder-podcast-with-nilay-patel/695613/sharkninja-ceo-mark-barrocas-interview-flexflame-grill-home-appliance)
  - [DOJ goes after US citizen for developing anti-ICE app](https://appleinsider.com/articles/25/07/07/doj-goes-after-us-citizen-for-developing-anti-ice-app?utm_medium=rss)
- - [Samsung boosts SmartThings with AI routines &amp; expanded Apple support](https://appleinsider.com/articles/25/07/07/samsung-boosts-smartthings-with-ai-routines-expanded-apple-support?utm_medium=rss)
- - [CoreWeave says it has agreed to acquire bitcoin miner Core Scientific in a ~$9B all-stock deal, set to close in Q4 2025, to expand its AI data center capacity &lpar;Dana Wollman/Bloomberg&rpar;](http://www.techmeme.com/250707/p11#a250707p11)<!-- TECH:END -->
+ - [Samsung boosts SmartThings with AI routines &amp; expanded Apple support](https://appleinsider.com/articles/25/07/07/samsung-boosts-smartthings-with-ai-routines-expanded-apple-support?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [On Mexico’s Caribbean Coast, There’s Lobster for the Tourists and Microplastics for Everyone Else](https://www.wired.com/story/on-mexicos-caribbean-coast-theres-lobster-for-the-tourists-and-microplastics-for-everyone-else/)
+ - [Experts say ransomware group DragonForce, which targeted M&amp;S, Harrods, and the Co-op, started a turf war with rival RansomHub, potentially bringing more hacks &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/250707/p8#a250707p8)
+ - [Windows 11 has finally overtaken Windows 10 as the most used desktop OS](https://www.theverge.com/news/699161/microsoft-windows-11-usage-milestone-windows-10)
  - [Specs leak for three Samsung foldables ahead of Wednesday’s Unpacked](https://www.theverge.com/news/699152/samsung-galaxy-z-fold-flip-7-fe-specs-leak-battery-storage-camera)
- - [Thanks to Zillow, Your Friends Know How Much Your House Costs—or if You’re Secretly Rich](https://www.wired.com/story/people-are-using-zillow-to-search-their-friends-homes-prices-and-find-out-whos-secretly-rich/)
- - [An analysis of Crunchbase and PitchBook data shows that in 2025 so far at least 36 tech startups hit a $1B+ valuation, including seven in June and six in May &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/250707/p7#a250707p7)
- - [Apple says it is appealing the EU&#39;s €500M DMA fine, levied in April 2025 over App Store steering rules, and claims it goes &quot;far beyond what the law requires&quot; &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/250707/p6#a250707p6)
- - [France&#39;s Capgemini plans to acquire US-listed IT outsourcing company WNS for $3.3B in cash, seeking to boost its agentic AI services; WNS serves 600+ clients &lpar;Bloomberg&rpar;](http://www.techmeme.com/250707/p5#a250707p5)<!-- TECH:END -->
+ - [Thanks to Zillow, Your Friends Know How Much Your House Costs—or if You’re Secretly Rich](https://www.wired.com/story/people-are-using-zillow-to-search-their-friends-homes-prices-and-find-out-whos-secretly-rich/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

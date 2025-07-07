@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Turn over](http://9gag.com/gag/aqyDrnP)
- - 😝 [Unironically, the greatest moment in acting history.](http://9gag.com/gag/adBR71N)
- - 💣 [Jamal out for 7 months](http://9gag.com/gag/agmKLgK)
- - 😝 [Me trying not to read AL as AI and wondering why AI is trying to get so freaky](http://9gag.com/gag/an7GMYo)
- - 👉 [No longer afraid of sharks. Now I\u2019m afraid of whatever did this to this shark.](http://9gag.com/gag/aPArBNG)<!-- MEMES:END -->
+ - 😝 [For God Sake](http://9gag.com/gag/aW4RMRZ)
+ - 😝 [No longer afraid of sharks. Now I\u2019m afraid of whatever did this to this shark.](http://9gag.com/gag/aPArBNG)
+ - 💣 [That sounded expensive](http://9gag.com/gag/abARZNv)
+ - 😝 [Momma raised no simp!](http://9gag.com/gag/a0eObZn)
+ - 👉 [Type of girl you meet on vacation and never meet again](http://9gag.com/gag/ae9Rbeb)<!-- MEMES:END -->
 
 ---
 

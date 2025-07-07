@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nuki Smart Lock, new Govee floor lamps, &amp; more on HomeKit Insider](https://appleinsider.com/articles/25/07/07/nuki-smart-lock-new-govee-floor-lamps-more-on-homekit-insider?utm_medium=rss)
  - [Amazon slashes AirPods Pro 2 to $159.99 for Prime Day](https://appleinsider.com/articles/25/07/07/amazon-slashes-airpods-pro-2-to-15999-for-prime-day?utm_medium=rss)
  - [Apple’s 5th Ave store spray-painted to protest ‘climate hypocrisy’](https://www.theverge.com/news/699245/apple-climate-hypocrisy-5th-ave-nyc-store-extinction-rebellion)
  - [How SharkNinja took over the home, with CEO Mark Barrocas](https://www.theverge.com/decoder-podcast-with-nilay-patel/695613/sharkninja-ceo-mark-barrocas-interview-flexflame-grill-home-appliance)
- - [DOJ goes after US citizen for developing anti-ICE app](https://appleinsider.com/articles/25/07/07/doj-goes-after-us-citizen-for-developing-anti-ice-app?utm_medium=rss)
- - [Samsung boosts SmartThings with AI routines &amp; expanded Apple support](https://appleinsider.com/articles/25/07/07/samsung-boosts-smartthings-with-ai-routines-expanded-apple-support?utm_medium=rss)<!-- TECH:END -->
+ - [DOJ goes after US citizen for developing anti-ICE app](https://appleinsider.com/articles/25/07/07/doj-goes-after-us-citizen-for-developing-anti-ice-app?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

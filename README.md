@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A reasonable response](http://9gag.com/gag/axymVNp)
- - 😝 [What the nani!](http://9gag.com/gag/aNDj1q6)
- - 💣 [Unironically, the greatest moment in acting history.](http://9gag.com/gag/adBR71N)
- - 😝 [Somewhere in china](http://9gag.com/gag/an7GyAV)
- - 👉 [No longer afraid of sharks. Now I\u2019m afraid of whatever did this to this shark.](http://9gag.com/gag/aPArBNG)<!-- MEMES:END -->
+ - 😝 [What a creative way to repurpose old toys.](http://9gag.com/gag/a5Q5bDN)
+ - 😝 [Cool bike man](http://9gag.com/gag/aQzy3d7)
+ - 💣 [When the holistic health advice meets real-world trauma.](http://9gag.com/gag/avy98NM)
+ - 😝 [This deaf dog&#39;s pure joy watching fireworks is the most wholesome thing you&#39;ll see today.](http://9gag.com/gag/an7G97L)
+ - 👉 [Working efficiently to optimize leisure time sounds like a genius move, not a flaw.](http://9gag.com/gag/aBy4gRQ)<!-- MEMES:END -->
 
 ---
 

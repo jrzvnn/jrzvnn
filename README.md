@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DOJ goes after US citizen for developing anti-ICE app](https://appleinsider.com/articles/25/07/07/doj-goes-after-us-citizen-for-developing-anti-ice-app?utm_medium=rss)
  - [Samsung boosts SmartThings with AI routines &amp; expanded Apple support](https://appleinsider.com/articles/25/07/07/samsung-boosts-smartthings-with-ai-routines-expanded-apple-support?utm_medium=rss)
- - [CoreWeave says it agreed to acquire bitcoin miner Core Scientific in a ~$9B all-stock deal, set to close in Q4 2025, to expand its AI data center capacity &lpar;Dana Wollman/Bloomberg&rpar;](http://www.techmeme.com/250707/p11#a250707p11)
+ - [CoreWeave says it has agreed to acquire bitcoin miner Core Scientific in a ~$9B all-stock deal, set to close in Q4 2025, to expand its AI data center capacity &lpar;Dana Wollman/Bloomberg&rpar;](http://www.techmeme.com/250707/p11#a250707p11)
  - [Now you can just tell SmartThings how to automate your home](https://www.theverge.com/news/699165/samsung-smartthings-update-adds-natural-language-routines)
- - [Fifth Avenue Apple Store hit with Trump environmental protest graffiti](https://appleinsider.com/articles/25/07/07/fifth-avenue-apple-store-hit-with-trump-environmental-protest-graffiti?utm_medium=rss)
- - [Apple buys two firms to improve Apple Intelligence, Apple Vision Pro](https://appleinsider.com/articles/25/07/07/apple-buys-two-eu-firms-to-improve-apple-intelligence-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Fifth Avenue Apple Store hit with Trump environmental protest graffiti](https://appleinsider.com/articles/25/07/07/fifth-avenue-apple-store-hit-with-trump-environmental-protest-graffiti?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

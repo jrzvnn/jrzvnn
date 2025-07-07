@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I am the weapon](http://9gag.com/gag/aAyvx7E)
- - 😝 [One of Honda&#39;s chief engineers.](http://9gag.com/gag/ajPREmG)
- - 💣 [Me trying not to read AL as AI and wondering why AI is trying to get so freaky](http://9gag.com/gag/an7GMYo)
- - 😝 [Dispicable.](http://9gag.com/gag/aAyvx20)
- - 👉 [Count of hole dipping](http://9gag.com/gag/aAyvddp)<!-- MEMES:END -->
+ - 😝 [Me trying not to read AL as AI and wondering why AI is trying to get so freaky](http://9gag.com/gag/an7GMYo)
+ - 💣 [Somewhere in china](http://9gag.com/gag/an7GyAV)
+ - 😝 [Count of hole dipping](http://9gag.com/gag/aAyvddp)
+ - 👉 [Type of girl you meet on vacation and never meet again](http://9gag.com/gag/ae9Rbeb)<!-- MEMES:END -->
 
 ---
 

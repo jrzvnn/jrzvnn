@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Destiny&amp;#8217;s mobile spinoff will arrive in August](https://www.theverge.com/news/699184/destiny-rising-mobile-game-ios-android-release-date)
  - [Huawei&#39;s AI lab refutes accusations that its Pangu Pro MoE model source code used uncredited material from rivals, after a GitHub group accused it of copying &lpar;Bloomberg&rpar;](http://www.techmeme.com/250707/p9#a250707p9)
  - [People Are Using AI Chatbots to Guide Their Psychedelic Trips](https://www.wired.com/story/people-are-using-ai-chatbots-to-guide-their-psychedelic-trips/)
  - [On Mexico’s Caribbean Coast, There’s Lobster for the Tourists and Microplastics for Everyone Else](https://www.wired.com/story/on-mexicos-caribbean-coast-theres-lobster-for-the-tourists-and-microplastics-for-everyone-else/)
- - [Experts say ransomware group DragonForce, which targeted M&amp;S, Harrods, and the Co-op, started a turf war with rival RansomHub, potentially bringing more hacks &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/250707/p8#a250707p8)
- - [Windows 11 has finally overtaken Windows 10 as the most used desktop OS](https://www.theverge.com/news/699161/microsoft-windows-11-usage-milestone-windows-10)<!-- TECH:END -->
+ - [Experts say ransomware group DragonForce, which targeted M&amp;S, Harrods, and the Co-op, started a turf war with rival RansomHub, potentially bringing more hacks &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/250707/p8#a250707p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

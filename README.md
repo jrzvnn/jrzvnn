@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Service chicken](http://9gag.com/gag/agmKqeW)
- - 😝 [Talk about an unexpected landing strip. Incredible piloting skills on display.](http://9gag.com/gag/ae9R6wB)
- - 💣 [Momma raised no simp!](http://9gag.com/gag/a0eObZn)
- - 😝 [No longer afraid of sharks. Now I\u2019m afraid of whatever did this to this shark.](http://9gag.com/gag/aPArBNG)
- - 👉 [That sounded expensive](http://9gag.com/gag/abARZNv)<!-- MEMES:END -->
+ - 😝 [Ryan&#39;s flights](http://9gag.com/gag/a0eOd4Z)
+ - 😝 [Count of hole dipping](http://9gag.com/gag/aAyvddp)
+ - 💣 [Me trying not to read AL as AI and wondering why AI is trying to get so freaky](http://9gag.com/gag/an7GMYo)
+ - 😝 [Somewhere in china](http://9gag.com/gag/an7GyAV)
+ - 👉 [No longer afraid of sharks. Now I\u2019m afraid of whatever did this to this shark.](http://9gag.com/gag/aPArBNG)<!-- MEMES:END -->
 
 ---
 

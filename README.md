@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Specs leak for three Samsung foldables ahead of Wednesday’s Unpacked](https://www.theverge.com/news/699152/samsung-galaxy-z-fold-flip-7-fe-specs-leak-battery-storage-camera)
+ - [Thanks to Zillow, Your Friends Know How Much Your House Costs—or if You’re Secretly Rich](https://www.wired.com/story/people-are-using-zillow-to-search-their-friends-homes-prices-and-find-out-whos-secretly-rich/)
  - [An analysis of Crunchbase and PitchBook data shows that in 2025 so far at least 36 tech startups hit a $1B+ valuation, including seven in June and six in May &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/250707/p7#a250707p7)
  - [Apple says it is appealing the EU&#39;s €500M DMA fine, levied in April 2025 over App Store steering rules, and claims it goes &quot;far beyond what the law requires&quot; &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/250707/p6#a250707p6)
- - [France&#39;s Capgemini plans to acquire US-listed IT outsourcing company WNS for $3.3B in cash, seeking to boost its agentic AI services; WNS serves 600+ clients &lpar;Bloomberg&rpar;](http://www.techmeme.com/250707/p5#a250707p5)
- - [Apple has had enough of the EU, says its demands are now illegal](https://appleinsider.com/articles/25/07/07/apple-has-had-enough-of-the-eu-says-its-demands-are-now-illegal?utm_medium=rss)
- - [On-the-job learning in fields like law and banking faces a dual threat as hybrid work limits juniors&#39; exposure to seniors and gen AI replaces key routine tasks &lpar;Emma Jacobs/Financial Times&rpar;](http://www.techmeme.com/250707/p4#a250707p4)<!-- TECH:END -->
+ - [France&#39;s Capgemini plans to acquire US-listed IT outsourcing company WNS for $3.3B in cash, seeking to boost its agentic AI services; WNS serves 600+ clients &lpar;Bloomberg&rpar;](http://www.techmeme.com/250707/p5#a250707p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

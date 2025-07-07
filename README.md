@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Momma raised no simp!](http://9gag.com/gag/a0eObZn)
- - 😝 [Somewhere in china](http://9gag.com/gag/an7GyAV)
- - 💣 [There&#39;s a raccoon in the front seat](http://9gag.com/gag/a2vOdjd)
- - 😝 [Turn over](http://9gag.com/gag/aqyDrnP)
- - 👉 [No longer afraid of sharks. Now I\u2019m afraid of whatever did this to this shark.](http://9gag.com/gag/aPArBNG)<!-- MEMES:END -->
+ - 😝 [Service chicken](http://9gag.com/gag/agmKqeW)
+ - 😝 [Talk about an unexpected landing strip. Incredible piloting skills on display.](http://9gag.com/gag/ae9R6wB)
+ - 💣 [Momma raised no simp!](http://9gag.com/gag/a0eObZn)
+ - 😝 [No longer afraid of sharks. Now I\u2019m afraid of whatever did this to this shark.](http://9gag.com/gag/aPArBNG)
+ - 👉 [That sounded expensive](http://9gag.com/gag/abARZNv)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I am the weapon](http://9gag.com/gag/aAyvx7E)
- - 😝 [Me trying not to read AL as AI and wondering why AI is trying to get so freaky](http://9gag.com/gag/an7GMYo)
- - 💣 [Somewhere in china](http://9gag.com/gag/an7GyAV)
  - 😝 [Count of hole dipping](http://9gag.com/gag/aAyvddp)
- - 👉 [Type of girl you meet on vacation and never meet again](http://9gag.com/gag/ae9Rbeb)<!-- MEMES:END -->
+ - 😝 [Welcome to London.](http://9gag.com/gag/a87V8A1)
+ - 💣 [That kid needs to be put on a leash, not the dog.](http://9gag.com/gag/aW4Rqo2)
+ - 😝 [Medusa trying to petrify a djinn](http://9gag.com/gag/ary8gzy)
+ - 👉 [I&#39;m tired of this franchise](http://9gag.com/gag/an7GMVo)<!-- MEMES:END -->
 
 ---
 

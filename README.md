@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung boosts SmartThings with AI routines &amp; expanded Apple support](https://appleinsider.com/articles/25/07/07/samsung-boosts-smartthings-with-ai-routines-expanded-apple-support?utm_medium=rss)
+ - [CoreWeave says it agreed to acquire bitcoin miner Core Scientific in a ~$9B all-stock deal, set to close in Q4 2025, to expand its AI data center capacity &lpar;Dana Wollman/Bloomberg&rpar;](http://www.techmeme.com/250707/p11#a250707p11)
+ - [Now you can just tell SmartThings how to automate your home](https://www.theverge.com/news/699165/samsung-smartthings-update-adds-natural-language-routines)
  - [Fifth Avenue Apple Store hit with Trump environmental protest graffiti](https://appleinsider.com/articles/25/07/07/fifth-avenue-apple-store-hit-with-trump-environmental-protest-graffiti?utm_medium=rss)
- - [Apple buys two firms to improve Apple Intelligence, Apple Vision Pro](https://appleinsider.com/articles/25/07/07/apple-buys-two-eu-firms-to-improve-apple-intelligence-apple-vision-pro?utm_medium=rss)
- - [13 Best Wi-Fi Routers of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-wifi-routers/)
- - [What the iPhone 17 Pro looks like with moved MagSafe &amp; Apple logo](https://appleinsider.com/articles/25/07/07/what-the-iphone-17-pro-looks-like-with-moved-magsafe-apple-logo?utm_medium=rss)
- - [Stat Counter: Windows 11 had a 50.9% share of the Windows market on July 4, ahead of Windows 10&#39;s 46.2%; the OS, released in 2021, only had a &lt;10% share in 2022 &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/250707/p10#a250707p10)<!-- TECH:END -->
+ - [Apple buys two firms to improve Apple Intelligence, Apple Vision Pro](https://appleinsider.com/articles/25/07/07/apple-buys-two-eu-firms-to-improve-apple-intelligence-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When road rage driver meets road calm driver.](http://9gag.com/gag/aXPRgX2)
- - 😝 [No longer afraid of sharks. Now I\u2019m afraid of whatever did this to this shark.](http://9gag.com/gag/aPArBNG)
- - 💣 [Me trying not to read AL as AI and wondering why AI is trying to get so freaky](http://9gag.com/gag/an7GMYo)
- - 😝 [Unironically, the greatest moment in acting history.](http://9gag.com/gag/adBR71N)
- - 👉 [Valve is one of the few companies that keep an access to their `dead` games. Even games like Artifact and CS:GO are still playable. So, it&#39;s no wonder that they are not against the petition.](http://9gag.com/gag/a9yDRQj)<!-- MEMES:END -->
+ - 😝 [Hehe](http://9gag.com/gag/agmK5Zx)
+ - 😝 [2025 is looking like a wild ride, where the irony of ad-free piracy becomes our new normal.](http://9gag.com/gag/aLnWgzW)
+ - 💣 [Working efficiently to optimize leisure time sounds like a genius move, not a flaw.](http://9gag.com/gag/aBy4gRQ)
+ - 😝 [I cast!](http://9gag.com/gag/a4Pw3pw)
+ - 👉 [Scary Movie &lpar;2000&rpar; was released 25 years ago today.](http://9gag.com/gag/awyeoEy)<!-- MEMES:END -->
 
 ---
 

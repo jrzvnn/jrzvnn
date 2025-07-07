@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stat Counter: Windows 11 had a 50.9% share of the Windows market on July 4, ahead of Windows 10&#39;s 46.2%; the OS, released in 2021, only had a &lt;10% share in 2022 &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/250707/p10#a250707p10)
  - [Destiny&amp;#8217;s mobile spinoff will arrive in August](https://www.theverge.com/news/699184/destiny-rising-mobile-game-ios-android-release-date)
  - [Huawei&#39;s AI lab refutes accusations that its Pangu Pro MoE model source code used uncredited material from rivals, after a GitHub group accused it of copying &lpar;Bloomberg&rpar;](http://www.techmeme.com/250707/p9#a250707p9)
  - [People Are Using AI Chatbots to Guide Their Psychedelic Trips](https://www.wired.com/story/people-are-using-ai-chatbots-to-guide-their-psychedelic-trips/)
- - [On Mexico’s Caribbean Coast, There’s Lobster for the Tourists and Microplastics for Everyone Else](https://www.wired.com/story/on-mexicos-caribbean-coast-theres-lobster-for-the-tourists-and-microplastics-for-everyone-else/)
- - [Experts say ransomware group DragonForce, which targeted M&amp;S, Harrods, and the Co-op, started a turf war with rival RansomHub, potentially bringing more hacks &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/250707/p8#a250707p8)<!-- TECH:END -->
+ - [On Mexico’s Caribbean Coast, There’s Lobster for the Tourists and Microplastics for Everyone Else](https://www.wired.com/story/on-mexicos-caribbean-coast-theres-lobster-for-the-tourists-and-microplastics-for-everyone-else/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump’s next tariffs will target South Korea and Japan](https://www.theverge.com/news/699681/trump-south-korea-japan-tariff-25-percent)
+ - [Epic reaches a settlement with Samsung, which it sued over allegedly conspiring with Google to undermine third party app stores &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250707/p16#a250707p16)
+ - [Bluesky can really keep up with the news now that it has activity notifications](https://www.theverge.com/news/699671/bluesky-push-notifications-activity-controls-reposts)
  - [Tesla’s real struggles have only just begun](https://www.theverge.com/tesla/699431/tesla-musk-trump-ev-regulatory-credit-loss)
- - [Get an AirTag for $19.99 or 4 for $67.99 with Prime Day deals](https://appleinsider.com/articles/25/07/07/apple-airtag-4-pack-plunges-to-6799-for-prime-day-2025?utm_medium=rss)
- - [The 8 Best Travel Pillows &lpar;2025&rpar;, Tested on Planes](https://www.wired.com/gallery/best-travel-pillows/)
- - [Epic reaches mystery settlement with Samsung days before new Galaxy phones](https://www.theverge.com/analysis/699541/epic-games-settle-samsung-auto-blocker-lawsuit)
- - [Apple Watch blood oxygen ban should never have been put in place, and Apple wants it overturned](https://appleinsider.com/articles/25/07/07/apple-watch-blood-oxygen-ban-should-never-have-been-put-in-place-and-apple-wants-it-overturned?utm_medium=rss)<!-- TECH:END -->
+ - [Get an AirTag for $19.99 or 4 for $67.99 with Prime Day deals](https://appleinsider.com/articles/25/07/07/apple-airtag-4-pack-plunges-to-6799-for-prime-day-2025?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

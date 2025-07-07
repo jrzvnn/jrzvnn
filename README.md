@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That kid needs to be put on a leash, not the dog.](http://9gag.com/gag/aW4Rqo2)
+ - 😝 [Welcome to London.](http://9gag.com/gag/a87V8A1)
  - 😝 [How dare you to touch my hooman?](http://9gag.com/gag/aKGKjej)
  - 💣 [Cool bike man](http://9gag.com/gag/aQzy3d7)
  - 😝 [Is this heresy?](http://9gag.com/gag/avy9ORq)

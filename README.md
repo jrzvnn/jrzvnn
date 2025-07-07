@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Jamal out for 7 months](http://9gag.com/gag/agmKLgK)
  - 😝 [Count of hole dipping](http://9gag.com/gag/aAyvddp)
- - 😝 [Welcome to London.](http://9gag.com/gag/a87V8A1)
- - 💣 [That kid needs to be put on a leash, not the dog.](http://9gag.com/gag/aW4Rqo2)
- - 😝 [Medusa trying to petrify a djinn](http://9gag.com/gag/ary8gzy)
- - 👉 [I&#39;m tired of this franchise](http://9gag.com/gag/an7GMVo)<!-- MEMES:END -->
+ - 💣 [Welcome to London.](http://9gag.com/gag/a87V8A1)
+ - 😝 [I&#39;m tired of this franchise](http://9gag.com/gag/an7GMVo)
+ - 👉 [I am the weapon](http://9gag.com/gag/aAyvx7E)<!-- MEMES:END -->
 
 ---
 

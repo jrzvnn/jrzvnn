@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [People Are Using AI Chatbots to Guide Their Psychedelic Trips](https://www.wired.com/story/people-are-using-ai-chatbots-to-guide-their-psychedelic-trips/)
  - [On Mexico’s Caribbean Coast, There’s Lobster for the Tourists and Microplastics for Everyone Else](https://www.wired.com/story/on-mexicos-caribbean-coast-theres-lobster-for-the-tourists-and-microplastics-for-everyone-else/)
  - [Experts say ransomware group DragonForce, which targeted M&amp;S, Harrods, and the Co-op, started a turf war with rival RansomHub, potentially bringing more hacks &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/250707/p8#a250707p8)
  - [Windows 11 has finally overtaken Windows 10 as the most used desktop OS](https://www.theverge.com/news/699161/microsoft-windows-11-usage-milestone-windows-10)
- - [Specs leak for three Samsung foldables ahead of Wednesday’s Unpacked](https://www.theverge.com/news/699152/samsung-galaxy-z-fold-flip-7-fe-specs-leak-battery-storage-camera)
- - [Thanks to Zillow, Your Friends Know How Much Your House Costs—or if You’re Secretly Rich](https://www.wired.com/story/people-are-using-zillow-to-search-their-friends-homes-prices-and-find-out-whos-secretly-rich/)<!-- TECH:END -->
+ - [Specs leak for three Samsung foldables ahead of Wednesday’s Unpacked](https://www.theverge.com/news/699152/samsung-galaxy-z-fold-flip-7-fe-specs-leak-battery-storage-camera)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

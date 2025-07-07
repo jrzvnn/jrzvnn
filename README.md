@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hehe](http://9gag.com/gag/agmK5Zx)
- - 😝 [2025 is looking like a wild ride, where the irony of ad-free piracy becomes our new normal.](http://9gag.com/gag/aLnWgzW)
- - 💣 [Working efficiently to optimize leisure time sounds like a genius move, not a flaw.](http://9gag.com/gag/aBy4gRQ)
- - 😝 [I cast!](http://9gag.com/gag/a4Pw3pw)
- - 👉 [Scary Movie &lpar;2000&rpar; was released 25 years ago today.](http://9gag.com/gag/awyeoEy)<!-- MEMES:END -->
+ - 😝 [When road rage driver meets road calm driver.](http://9gag.com/gag/aXPRgX2)
+ - 😝 [I&#39;m tired of this franchise](http://9gag.com/gag/an7GMVo)
+ - 💣 [Disney was already lazy back then](http://9gag.com/gag/aVvR3By)
+ - 😝 [As a semi-feral southerner, that wet spot is from where he was feeding it beer...](http://9gag.com/gag/azx4m8m)
+ - 👉 [Medusa trying to petrify a djinn](http://9gag.com/gag/ary8gzy)<!-- MEMES:END -->
 
 ---
 

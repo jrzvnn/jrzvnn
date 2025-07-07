@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Window Air Conditioners 2025: 10 Picks to Cool You for Years](https://www.wired.com/gallery/best-window-air-conditioners/)
+ - [Dynamic Island again rumored to change with iPhone 17](https://appleinsider.com/articles/25/07/07/dynamic-island-again-rumored-to-change-with-iphone-17?utm_medium=rss)
+ - [15 Best Air Purifiers &lpar;2025&rpar;: Coway, AirDoctor, IQAir](https://www.wired.com/gallery/best-air-purifiers/)
  - [Apple AirTag 4-pack plunges to $67.99 for Prime Day 2025](https://appleinsider.com/articles/25/07/07/apple-airtag-4-pack-plunges-to-6799-for-prime-day-2025?utm_medium=rss)
- - [Apple’s latest AirPods are already on sale for $99 before Prime Day](https://www.theverge.com/tech/699397/apple-airpods-4-anc-kindle-scribe-prime-day-deal-sale)
- - [Jack Dorsey shares TestFlight and GitHub links to his &quot;weekend project&quot;, Bitchat, a decentralized P2P messaging iOS app that relies on Bluetooth mesh networks &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250707/p15#a250707p15)
- - [Apple seedsthird developer betas for iOS 26, iPadOS 26, macOS 26](https://appleinsider.com/articles/25/07/07/apple-seeds-the-third-developer-betas-for-ios-26-ipados-26-macos-26?utm_medium=rss)
- - [Apple researching AI agent that can describe Street View scenes to the blind](https://appleinsider.com/articles/25/07/07/apple-researching-ai-agent-that-can-describe-street-view-scenes-to-the-blind?utm_medium=rss)<!-- TECH:END -->
+ - [Apple’s latest AirPods are already on sale for $99 before Prime Day](https://www.theverge.com/tech/699397/apple-airpods-4-anc-kindle-scribe-prime-day-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

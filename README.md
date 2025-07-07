@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [When the holistic health advice meets real-world trauma.](http://9gag.com/gag/avy98NM)
  - 😝 [Showtime](http://9gag.com/gag/abARzdb)
- - 💣 [Hehe](http://9gag.com/gag/agmK5Zx)
- - 😝 [Male Privilege](http://9gag.com/gag/a34NQnm)
+ - 💣 [Male Privilege](http://9gag.com/gag/a34NQnm)
+ - 😝 [Hehe](http://9gag.com/gag/agmK5Zx)
  - 👉 [Working efficiently to optimize leisure time sounds like a genius move, not a flaw.](http://9gag.com/gag/aBy4gRQ)<!-- MEMES:END -->
 
 ---

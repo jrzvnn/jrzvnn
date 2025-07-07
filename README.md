@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this heresy?](http://9gag.com/gag/avy9ORq)
- - 😝 [Vantage point.. Part 2](http://9gag.com/gag/aBy48zO)
- - 💣 [Cool bike man](http://9gag.com/gag/aQzy3d7)
- - 😝 [Poland - Hold the Fort!](http://9gag.com/gag/avy9O8n)
- - 👉 [Male Privilege](http://9gag.com/gag/a34NQnm)<!-- MEMES:END -->
+ - 😝 [One of Honda&#39;s chief engineers.](http://9gag.com/gag/ajPREmG)
+ - 😝 [Dispicable.](http://9gag.com/gag/aAyvx20)
+ - 💣 [I am the weapon](http://9gag.com/gag/aAyvx7E)
+ - 😝 [Momma raised no simp!](http://9gag.com/gag/a0eObZn)
+ - 👉 [Somewhere in china](http://9gag.com/gag/an7GyAV)<!-- MEMES:END -->
 
 ---
 

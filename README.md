@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hope the kids like it, glad they made this](http://9gag.com/gag/a7onM3w)
- - 😝 [Dispicable.](http://9gag.com/gag/aAyvx20)
- - 💣 [Jamal out for 7 months](http://9gag.com/gag/agmKLgK)
- - 😝 [Insert title](http://9gag.com/gag/a87Voqe)
- - 👉 [I&#39;m tired of this franchise](http://9gag.com/gag/an7GMVo)<!-- MEMES:END -->
+ - 😝 [That&#39;s kinda cool](http://9gag.com/gag/a9yDpw0)
+ - 😝 [Unironically, the greatest moment in acting history.](http://9gag.com/gag/adBR71N)
+ - 💣 [Insert title](http://9gag.com/gag/a87Voqe)
+ - 😝 [Jamal out for 7 months](http://9gag.com/gag/agmKLgK)
+ - 👉 [Valve is one of the few companies that keep an access to their `dead` games. Even games like Artifact and CS:GO are still playable. So, it&#39;s no wonder that they are not against the petition.](http://9gag.com/gag/a9yDRQj)<!-- MEMES:END -->
 
 ---
 

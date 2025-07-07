@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
+ - [Apple just added more frost to its Liquid Glass design](https://www.theverge.com/news/700066/apple-liquid-glass-frosted-ios-26-developer-beta)
  - [xAI updated Grok to be more &amp;#8216;politically incorrect&amp;#8217;](https://www.theverge.com/ai-artificial-intelligence/699788/xai-updated-grok-to-be-more-politically-incorrect)
  - [Sources: Ruoming Pang, head of the foundation models team at Apple, is leaving to join Meta, which offered a package worth tens of millions of dollars per year &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250707/p19#a250707p19)
- - [This Robot Vacuum Surprised Me With Its Ingenious Arms and Navigation Ability, and It&#39;s $400 Off for Prime Day](https://www.cnet.com/deals/this-robot-vacuum-surprised-me-with-its-ingenious-arms-and-navigation-ability-and-its-400-off-for-prime-day/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 7 #491](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-7-491/#ftag=CAD590a51e)
- - [Prime Day 2025: The Deals Are Here, but Beware of Looming Tariffs](https://www.cnet.com/tech/prime-day-2025-the-deals-are-here-but-beware-of-looming-tariffs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This Robot Vacuum Surprised Me With Its Ingenious Arms and Navigation Ability, and It&#39;s $400 Off for Prime Day](https://www.cnet.com/deals/this-robot-vacuum-surprised-me-with-its-ingenious-arms-and-navigation-ability-and-its-400-off-for-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This dad&#39;s reaction to his child being anemic is both hilarious and terrifying. The sardine threat is next level parenting.](http://9gag.com/gag/aLnWD3z)
- - 😝 [Jamal out for 7 months](http://9gag.com/gag/agmKLgK)
+ - 😝 [I am the weapon](http://9gag.com/gag/aAyvx7E)
+ - 😝 [One of Honda&#39;s chief engineers.](http://9gag.com/gag/ajPREmG)
  - 💣 [Me trying not to read AL as AI and wondering why AI is trying to get so freaky](http://9gag.com/gag/an7GMYo)
- - 😝 [That kid needs to be put on a leash, not the dog.](http://9gag.com/gag/aW4Rqo2)
- - 👉 [No longer afraid of sharks. Now I\u2019m afraid of whatever did this to this shark.](http://9gag.com/gag/aPArBNG)<!-- MEMES:END -->
+ - 😝 [Dispicable.](http://9gag.com/gag/aAyvx20)
+ - 👉 [Count of hole dipping](http://9gag.com/gag/aAyvddp)<!-- MEMES:END -->
 
 ---
 

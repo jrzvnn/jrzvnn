@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple says it is appealing the EU&#39;s €500M DMA fine, levied in April 2025 over App Store steering rules, and claims it goes &quot;far beyond what the law requires&quot; &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/250707/p6#a250707p6)
+ - [France&#39;s Capgemini plans to acquire US-listed IT outsourcing company WNS for $3.3B in cash, seeking to boost its agentic AI services; WNS serves 600+ clients &lpar;Bloomberg&rpar;](http://www.techmeme.com/250707/p5#a250707p5)
+ - [Apple has had enough of the EU, says its demands are now illegal](https://appleinsider.com/articles/25/07/07/apple-has-had-enough-of-the-eu-says-its-demands-are-now-illegal?utm_medium=rss)
  - [On-the-job learning in fields like law and banking faces a dual threat as hybrid work limits juniors&#39; exposure to seniors and gen AI replaces key routine tasks &lpar;Emma Jacobs/Financial Times&rpar;](http://www.techmeme.com/250707/p4#a250707p4)
- - [Meituan says daily orders on its instant delivery service surpassed 120M on July 5, setting an all-time high, with food orders accounting for 100M of them &lpar;Ann Cao/South China Morning Post&rpar;](http://www.techmeme.com/250707/p3#a250707p3)
- - [Save up to $150 with the best early Prime Day Apple Watch deals](https://appleinsider.com/articles/25/07/07/save-up-to-150-with-the-best-early-prime-day-apple-watch-deals?utm_medium=rss)
- - [US industrial companies, like Gates Industrial, are seeking to capitalize on the AI boom by ramping up efforts to supply specialized data center equipment &lpar;Financial Times&rpar;](http://www.techmeme.com/250707/p2#a250707p2)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for July 7, #287](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-7-287/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meituan says daily orders on its instant delivery service surpassed 120M on July 5, setting an all-time high, with food orders accounting for 100M of them &lpar;Ann Cao/South China Morning Post&rpar;](http://www.techmeme.com/250707/p3#a250707p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

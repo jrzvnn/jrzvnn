@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How the US government launched a revamped online system in September 2024 to simplify passport renewal, which is already handling nearly 50% of all renewals &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/250706/p18#a250706p18)
  - [After Elon Musk announced a US political party called the America Party, Donald Trump called Musk a &quot;TRAIN WRECK&quot; fueled by discontent over EV subsidies ending &lpar;The Guardian&rpar;](http://www.techmeme.com/250706/p17#a250706p17)
  - [Tokyo-based Sakana AI details a new Monte Carlo tree search-based technique that lets multiple LLMs cooperate on a single task, outperforming individual models &lpar;Ben Dickson/VentureBeat&rpar;](http://www.techmeme.com/250706/p16#a250706p16)
  - [USA vs. Mexico Livestream: How to Watch CONCACAF Gold Cup 2025 Final Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/usa-vs-mexico-livestream-how-to-watch-concacaf-gold-cup-2025-final-soccer-from-anywhere/#ftag=CAD590a51e)
- - [A look at the US Secret Service&#39;s GIOC, which sources say helped seize ~$400M in digital assets over the past decade through crypto scam investigations globally &lpar;Myles Miller/Bloomberg&rpar;](http://www.techmeme.com/250706/p15#a250706p15)
- - [Today&#39;s Wordle Hints, Answer and Help for July 7, #1479](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-7-1479/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the US Secret Service&#39;s GIOC, which sources say helped seize ~$400M in digital assets over the past decade through crypto scam investigations globally &lpar;Myles Miller/Bloomberg&rpar;](http://www.techmeme.com/250706/p15#a250706p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

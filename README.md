@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No longer afraid of sharks. Now I\u2019m afraid of whatever did this to this shark.](http://9gag.com/gag/aPArBNG)
- - 😝 [I wonder how this kid ended up](http://9gag.com/gag/adBR7pB)
- - 💣 [Count of hole dipping](http://9gag.com/gag/aAyvddp)
- - 😝 [I am the weapon](http://9gag.com/gag/aAyvx7E)
- - 👉 [That kid needs to be put on a leash, not the dog.](http://9gag.com/gag/aW4Rqo2)<!-- MEMES:END -->
+ - 😝 [Is this heresy?](http://9gag.com/gag/avy9ORq)
+ - 😝 [Vantage point.. Part 2](http://9gag.com/gag/aBy48zO)
+ - 💣 [Cool bike man](http://9gag.com/gag/aQzy3d7)
+ - 😝 [Poland - Hold the Fort!](http://9gag.com/gag/avy9O8n)
+ - 👉 [Male Privilege](http://9gag.com/gag/a34NQnm)<!-- MEMES:END -->
 
 ---
 

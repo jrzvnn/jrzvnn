@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple&#39;s tariff woes continue in Trump&#39;s letters to world leaders](https://appleinsider.com/articles/25/07/07/apples-tariff-woes-continue-in-trumps-letters-to-world-leaders?utm_medium=rss)
- - [In iOS 26 beta 3, Apple dials back the degree of translucency in many UI elements, following user complaints about Liquid Glass &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250707/p17#a250707p17)
+ - [In iOS 26 beta 3, Apple dials back the degree of transparency in many UI elements, following user complaints about Liquid Glass &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250707/p17#a250707p17)
  - [What&#39;s new in iOS 26 beta 3: Wallpaper color options, stronger blur effects, and more](https://appleinsider.com/articles/25/07/07/whats-new-in-ios-26-beta-3-wallpaper-color-options-stronger-blur-effects-and-more?utm_medium=rss)
  - [Trump’s next tariffs will target South Korea and Japan](https://www.theverge.com/news/699681/trump-south-korea-japan-tariff-25-percent)
  - [Epic reaches a settlement with Samsung, which it sued over allegedly conspiring with Google to undermine third party app stores &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250707/p16#a250707p16)<!-- TECH:END -->

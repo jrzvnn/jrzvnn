@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Damn... Lightning struck a field, and more than 25 cows were electrocuted.](http://9gag.com/gag/aZZRmLz)
- - 😝 [Unironically, the greatest moment in acting history.](http://9gag.com/gag/adBR71N)
- - 💣 [Lol](http://9gag.com/gag/a6ZGobm)
  - 😝 [What are you supposed to be?](http://9gag.com/gag/amoR2Oo)
- - 👉 [Medusa trying to petrify a djinn](http://9gag.com/gag/ary8gzy)<!-- MEMES:END -->
+ - 😝 [Lol](http://9gag.com/gag/a6ZGobm)
+ - 💣 [I wonder how this kid ended up](http://9gag.com/gag/adBR7pB)
+ - 😝 [Damn... Lightning struck a field, and more than 25 cows were electrocuted.](http://9gag.com/gag/aZZRmLz)
+ - 👉 [Vantage point.. Part 2](http://9gag.com/gag/aBy48zO)<!-- MEMES:END -->
 
 ---
 

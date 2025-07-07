@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For God Sake](http://9gag.com/gag/aW4RMRZ)
- - 😝 [No longer afraid of sharks. Now I\u2019m afraid of whatever did this to this shark.](http://9gag.com/gag/aPArBNG)
- - 💣 [That sounded expensive](http://9gag.com/gag/abARZNv)
  - 😝 [Momma raised no simp!](http://9gag.com/gag/a0eObZn)
- - 👉 [Type of girl you meet on vacation and never meet again](http://9gag.com/gag/ae9Rbeb)<!-- MEMES:END -->
+ - 😝 [Somewhere in china](http://9gag.com/gag/an7GyAV)
+ - 💣 [There&#39;s a raccoon in the front seat](http://9gag.com/gag/a2vOdjd)
+ - 😝 [Turn over](http://9gag.com/gag/aqyDrnP)
+ - 👉 [No longer afraid of sharks. Now I\u2019m afraid of whatever did this to this shark.](http://9gag.com/gag/aPArBNG)<!-- MEMES:END -->
 
 ---
 

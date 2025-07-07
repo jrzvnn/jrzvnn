@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The next Switch 2 restock kicks off at 7PM ET online at Walmart](https://www.theverge.com/games/685578/nintendo-switch-2-restock-walmart-availability)
- - [Get Apple&#39;s M4 Mac mini for less with Prime Day deals starting at $499](https://appleinsider.com/articles/25/07/07/get-apples-m4-mac-mini-for-less-with-prime-day-deals-starting-at-499?utm_medium=rss)
- - [Apple&#39;s tariff woes continue in Trump&#39;s letters to world leaders](https://appleinsider.com/articles/25/07/07/apples-tariff-woes-continue-in-trumps-letters-to-world-leaders?utm_medium=rss)
- - [In iOS 26 beta 3, Apple dials back the degree of transparency in many UI elements, following user complaints about Liquid Glass &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250707/p17#a250707p17)
- - [What&#39;s new in iOS 26 beta 3: Wallpaper color options, stronger blur effects, and more](https://appleinsider.com/articles/25/07/07/whats-new-in-ios-26-beta-3-wallpaper-color-options-stronger-blur-effects-and-more?utm_medium=rss)<!-- TECH:END -->
+ - [A look at various responses to AI firms&#39; scraping, like open source Anubis that uses cryptographic JavaScript challenges, Cloudflare&#39;s &quot;link mazes&quot;, and more &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250707/p18#a250707p18)
+ - [9 Best Robot Vacuums &lpar;2025&rpar;: Tested and Reviewed in Real Homes](https://www.wired.com/gallery/best-robot-vacuums/)
+ - [Microsoft’s Edge browser now loads sites even faster](https://www.theverge.com/news/699783/microsoft-edge-browser-speed-rendering)
+ - [Squid Game Creator Reveals Alternate Ending That Fans Say Should&#39;ve Been the Real One](https://www.cnet.com/tech/services-and-software/squid-game-creator-reveals-alternate-ending-that-fans-say-shouldve-been-the-real-one/#ftag=CAD590a51e)
+ - [Get $200 to Spend on Tomorrow&#39;s Prime Day Sale With the Prime Visa](https://www.cnet.com/personal-finance/credit-cards/get-200-to-spend-on-tomorrows-prime-day-sale-with-the-prime-visa/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

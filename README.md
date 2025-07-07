@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Somewhere in china](http://9gag.com/gag/an7GyAV)
  - 😝 [One of Honda&#39;s chief engineers.](http://9gag.com/gag/ajPREmG)
- - 💣 [I am the weapon](http://9gag.com/gag/aAyvx7E)
- - 😝 [Service chicken](http://9gag.com/gag/agmKqeW)
- - 👉 [What the nani!](http://9gag.com/gag/aNDj1q6)<!-- MEMES:END -->
+ - 💣 [Service chicken](http://9gag.com/gag/agmKqeW)
+ - 😝 [What the nani!](http://9gag.com/gag/aNDj1q6)
+ - 👉 [No longer afraid of sharks. Now I\u2019m afraid of whatever did this to this shark.](http://9gag.com/gag/aPArBNG)<!-- MEMES:END -->
 
 ---
 

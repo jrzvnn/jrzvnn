@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Hard reality.](http://9gag.com/gag/azx4X3b)
+ - 😝 [+ Skylar + the pizza on the roof](http://9gag.com/gag/awyeByx)
+ - 💣 [Ulala](http://9gag.com/gag/azx414Z)
  - 😝 [Kinda embarrassing to ask but I\u2019ve been trying to figure out how they built those old stone lighthouses in the middle of the ocean. I\u2019ve watched a few videos but I still haven\u2019t found one that really explains it in a satisfying way.](http://9gag.com/gag/aD2QdwK)
- - 😝 [What the nani!](http://9gag.com/gag/aNDj1q6)
- - 💣 [+ Skylar + the pizza on the roof](http://9gag.com/gag/awyeByx)
- - 😝 [Who drop it](http://9gag.com/gag/aVvRYoM)
- - 👉 [Hard reality.](http://9gag.com/gag/azx4X3b)<!-- MEMES:END -->
+ - 👉 [Don&#39;t Skip Leg Day](http://9gag.com/gag/a1mOW4b)<!-- MEMES:END -->
 
 ---
 

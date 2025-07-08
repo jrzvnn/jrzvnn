@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Working efficiently to optimize leisure time sounds like a genius move, not a flaw.](http://9gag.com/gag/aBy4gRQ)
- - 😝 [The Geh effect is real](http://9gag.com/gag/aBy4mrQ)
- - 💣 [Scary Movie &lpar;2000&rpar; was released 25 years ago today.](http://9gag.com/gag/awyeoEy)
- - 😝 [Cosplay on point](http://9gag.com/gag/ae9RD9O)
- - 👉 [One of the best apps to be ever created](http://9gag.com/gag/ayNvXvq)<!-- MEMES:END -->
+ - 😝 [Me, when I have been eating street food in India:](http://9gag.com/gag/aYQRoq7)
+ - 😝 [+ Skylar + the pizza on the roof](http://9gag.com/gag/awyeByx)
+ - 💣 [Who drop it](http://9gag.com/gag/aVvRYoM)
+ - 😝 [Don&#39;t Skip Leg Day](http://9gag.com/gag/a1mOW4b)
+ - 👉 [Great... Very professional....](http://9gag.com/gag/aKGKdyb)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Who drop it](http://9gag.com/gag/aVvRYoM)
  - 😝 [Me, when I have been eating street food in India:](http://9gag.com/gag/aYQRoq7)
- - 😝 [Well.well.well](http://9gag.com/gag/azx41Pz)
- - 💣 [Who drop it](http://9gag.com/gag/aVvRYoM)
+ - 💣 [Well.well.well](http://9gag.com/gag/azx41Pz)
  - 😝 [Great... Very professional....](http://9gag.com/gag/aKGKdyb)
- - 👉 [When the bottle is made of vibranium.](http://9gag.com/gag/a4PwQNm)<!-- MEMES:END -->
+ - 👉 [25 years ago Alizee broke our minds with `Moi...Lolita`](http://9gag.com/gag/ae9RAPm)<!-- MEMES:END -->
 
 ---
 

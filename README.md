@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s S90D OLED TV is at its lowest price ever for Prime Day and it’s great for gaming](https://www.theverge.com/tech/701376/amazon-prime-day-samsung-s90d-oled-tv)
- - [Sources: Mistral AI is in talks to raise as much as $1B in equity from several investors including Abu Dhabi&#39;s MGX; it has raised €1B+ since its 2023 founding &lpar;Bloomberg&rpar;](http://www.techmeme.com/250708/p23#a250708p23)
- - [James Gunn&amp;#8217;s Superman is exactly what DC&amp;#8217;s movies have been missing](https://www.theverge.com/movie-reviews/701362/superman-dc-studios-james-gunn-review)
- - [10 Best Prime Day Pet Deals on Amazon &lpar;2025&rpar;](https://www.wired.com/story/prime-day-pet-deals-2025/)
- - [Best Prime Day Apple Deals on iPads, AirPods, and MacBooks &lpar;2025&rpar;](https://www.wired.com/story/prime-day-apple-deals-2025/)<!-- TECH:END -->
+ - [The best Prime Day deals on charging accessories](https://www.theverge.com/tech/698933/amazon-prime-day-2025-chargers-power-banks-batteries-deal-sale)
+ - [8 Prime Day Kindle Deals &lpar;Plus Amazon Echo Devices&rpar;](https://www.wired.com/story/prime-kindle-amazon-device-deals-2025/)
+ - [Apple’s AirPods Pro 2 are $100 off for Prime Day](https://www.theverge.com/tech/698199/airpods-pro-2-amazon-prime-day-walmart-deal-sale)
+ - [Volodymyr Zelensky’s Clothing Has Sparked a Polymarket Rebellion](https://www.wired.com/story/volodymyr-zelensky-suit-polymarket-rebellion/)
+ - [I love Microsoft’s new 12-inch Surface Pro and it’s $685 for Prime Day](https://www.theverge.com/tech/701522/amazon-prime-day-microsoft-surface-pro-12-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Disney was already lazy back then](http://9gag.com/gag/aVvR3By)
- - 😝 [The more you know. Shooting star](http://9gag.com/gag/a1mOoO8)
- - 💣 [Medusa trying to petrify a djinn](http://9gag.com/gag/ary8gzy)
+ - 😝 [Dispicable.](http://9gag.com/gag/aAyvx20)
+ - 😝 [Medusa trying to petrify a djinn](http://9gag.com/gag/ary8gzy)
+ - 💣 [Insert title](http://9gag.com/gag/a87Voqe)
  - 😝 [Great... Very professional....](http://9gag.com/gag/aKGKdyb)
- - 👉 [Valve is one of the few companies that keep an access to their `dead` games. Even games like Artifact and CS:GO are still playable. So, it&#39;s no wonder that they are not against the petition.](http://9gag.com/gag/a9yDRQj)<!-- MEMES:END -->
+ - 👉 [Disney was already lazy back then](http://9gag.com/gag/aVvR3By)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Doorbuster deals live: up to 65% off this Prime Day -- and Bluetti&#39;s 1kWh star steals the show](https://appleinsider.com/articles/25/07/08/doorbuster-deals-live-up-to-65-off-this-prime-day----and-bluettis-1kwh-star-steals-the-show?utm_medium=rss)
- - [The 182 best Prime Day 2025 deals that we found](https://www.theverge.com/tech/696641/amazon-prime-day-best-tech-deals-2025)
- - [Dubai-based Xpanceo, which is developing smart contact lenses with night vision, health monitoring, and more, raised a $250M Series A at a $1.35B valuation &lpar;Alexander Sazonov/Bloomberg&rpar;](http://www.techmeme.com/250708/p19#a250708p19)
- - [The Teens Are Taking Waymos Now](https://www.wired.com/story/the-teens-are-taking-waymos-now/)
- - [Waymo introduces teen accounts for the first time in Phoenix](https://www.theverge.com/news/699580/waymo-teen-account-phoenix)<!-- TECH:END -->
+ - [How to watch Samsung’s foldable-filled Unpacked event](https://www.theverge.com/news/700392/samsung-galaxy-unpacked-2025-event-livestream)
+ - [You can use sous vide to help iPhone repairs, but please don&#39;t](https://appleinsider.com/articles/25/07/08/you-can-use-sous-vide-to-help-iphone-repairs-but-please-dont?utm_medium=rss)
+ - [How The New York Times is &lpar;still&rpar; getting gamed by the right](https://www.theverge.com/culture/700082/nyt-mamdani-news-judgment)
+ - [Parvati Shallow Says RIP to the ‘Black Widow’ and All That](https://www.wired.com/story/parvati-shallow-survivor-book-black-widow/)
+ - [Doorbuster deals live: up to 65% off this Prime Day -- and Bluetti&#39;s 1kWh star steals the show](https://appleinsider.com/articles/25/07/08/doorbuster-deals-live-up-to-65-off-this-prime-day----and-bluettis-1kwh-star-steals-the-show?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

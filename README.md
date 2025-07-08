@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Disney was already lazy back then](http://9gag.com/gag/aVvR3By)
- - 😝 [This Fake series are getting exotic.](http://9gag.com/gag/aBy4g7D)
- - 💣 [A 300-year-old tree finally falls, captured in its dramatic final moments.](http://9gag.com/gag/a4PwG5d)
  - 😝 [Did you know ...](http://9gag.com/gag/aZZRygX)
- - 👉 [No shots needed](http://9gag.com/gag/amoR5Rd)<!-- MEMES:END -->
+ - 😝 [Ulala](http://9gag.com/gag/azx414Z)
+ - 💣 [Loris Hezemans\u2019 start at the Le Mans race](http://9gag.com/gag/awyeXb8)
+ - 😝 [Great... Very professional....](http://9gag.com/gag/aKGKdyb)
+ - 👉 [We need more badass confident women who don&#39;t shrink and freak out when men notice it.](http://9gag.com/gag/a4PwQ9Q)<!-- MEMES:END -->
 
 ---
 

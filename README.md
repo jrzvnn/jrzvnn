@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who drop it](http://9gag.com/gag/aVvRYoM)
- - 😝 [Me, when I have been eating street food in India:](http://9gag.com/gag/aYQRoq7)
- - 💣 [Well.well.well](http://9gag.com/gag/azx41Pz)
  - 😝 [Great... Very professional....](http://9gag.com/gag/aKGKdyb)
+ - 😝 [Who drop it](http://9gag.com/gag/aVvRYoM)
+ - 💣 [Well.well.well](http://9gag.com/gag/azx41Pz)
+ - 😝 [It is a dangerous combination, tall woman and short skirts...](http://9gag.com/gag/ae9RAEB)
  - 👉 [25 years ago Alizee broke our minds with `Moi...Lolita`](http://9gag.com/gag/ae9RAPm)<!-- MEMES:END -->
 
 ---

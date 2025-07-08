@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tested a bunch of gaming laptops and these are the best](https://www.theverge.com/22295181/best-gaming-laptop)
- - [The best laptops you can get](https://www.theverge.com/21250695/best-laptops)
- - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
- - [LIVE Amazon Prime Day 2025: We&#39;re Tracking Deals &amp; Trends All Day](https://www.wired.com/live/amazon-prime-day-deals-live-in-25/)
- - [The best fitness trackers and watches we’ve tested](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
+ - [The 911 Calls Inside ICE Detention Centers](https://www.wired.com/story/uncanny-valley-podcast-the-911-calls-inside-ice-detention-centers/)
+ - [Mastodon is improving profiles and getting ready for quote posts](https://www.theverge.com/news/700991/mastodon-4-4-profiles-lists-quote-posts)
+ - [El Salvador-based Tether says it holds nearly 80 tons of gold, worth ~$8B, in a vault in Switzerland; precious metals made up nearly 5% of its reserves in March &lpar;Jack Ryan/Bloomberg&rpar;](http://www.techmeme.com/250708/p18#a250708p18)
+ - [The best earbuds we’ve tested for 2025](https://www.theverge.com/21309820/best-wireless-earbuds)
+ - [Microsoft Teams now has threaded conversations](https://www.theverge.com/news/700917/microsoft-teams-threads-conversations-emoji)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

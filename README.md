@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In times of war, every hole is a trench](http://9gag.com/gag/aO8prB3)
- - 😝 [Valve is one of the few companies that keep an access to their `dead` games. Even games like Artifact and CS:GO are still playable. So, it&#39;s no wonder that they are not against the petition.](http://9gag.com/gag/a9yDRQj)
- - 💣 [Hard reality.](http://9gag.com/gag/azx4X3b)
  - 😝 [When the bottle is made of vibranium.](http://9gag.com/gag/a4PwQNm)
- - 👉 [Medusa trying to petrify a djinn](http://9gag.com/gag/ary8gzy)<!-- MEMES:END -->
+ - 😝 [Ulala](http://9gag.com/gag/azx414Z)
+ - 💣 [Vantage point.. Part 2](http://9gag.com/gag/aBy48zO)
+ - 😝 [Million miles away](http://9gag.com/gag/aYQRYzm)
+ - 👉 [A 300-year-old tree finally falls, captured in its dramatic final moments.](http://9gag.com/gag/a4PwG5d)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple says COO Jeff Williams will retire later this year, and Sabih Khan, Apple&#39;s SVP of Operations, will take over much of his role later this month &lpar;CNBC&rpar;](http://www.techmeme.com/250708/p25#a250708p25)
+ - [The best laptop deals we’ve found for Prime Day &lpar;so far&rpar;](https://www.theverge.com/tech/699521/amazon-prime-day-laptops-notebooks-gaming-apple-lenovo-hp)
+ - [6 Best Prime Day Fitness Tracker Deals and Smart Ring Sales &lpar;2025&rpar;](https://www.wired.com/story/prime-day-tracker-and-ring-2025/)
  - [The best Prime Day deals on charging accessories](https://www.theverge.com/tech/698933/amazon-prime-day-2025-chargers-power-banks-batteries-deal-sale)
- - [8 Prime Day Kindle Deals &lpar;Plus Amazon Echo Devices&rpar;](https://www.wired.com/story/prime-kindle-amazon-device-deals-2025/)
- - [Apple’s AirPods Pro 2 are $100 off for Prime Day](https://www.theverge.com/tech/698199/airpods-pro-2-amazon-prime-day-walmart-deal-sale)
- - [Volodymyr Zelensky’s Clothing Has Sparked a Polymarket Rebellion](https://www.wired.com/story/volodymyr-zelensky-suit-polymarket-rebellion/)
- - [I love Microsoft’s new 12-inch Surface Pro and it’s $685 for Prime Day](https://www.theverge.com/tech/701522/amazon-prime-day-microsoft-surface-pro-12-sale)<!-- TECH:END -->
+ - [8 Prime Day Kindle Deals &lpar;Plus Amazon Echo Devices&rpar;](https://www.wired.com/story/prime-kindle-amazon-device-deals-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

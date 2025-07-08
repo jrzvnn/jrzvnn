@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I tested a bunch of gaming laptops and these are the best](https://www.theverge.com/22295181/best-gaming-laptop)
+ - [The best laptops you can get](https://www.theverge.com/21250695/best-laptops)
  - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
  - [LIVE Amazon Prime Day 2025: We&#39;re Tracking Deals &amp; Trends All Day](https://www.wired.com/live/amazon-prime-day-deals-live-in-25/)
- - [The best fitness trackers and watches we’ve tested](https://www.theverge.com/22985108/best-fitness-tracker)
- - [The Oura Ring 4 just got its first discount for Prime Day](https://www.theverge.com/tech/699305/oura-ring-4-amazon-prime-day-deal-sale)
- - [The 181 best Prime Day 2025 deals that we found](https://www.theverge.com/tech/696641/amazon-prime-day-best-tech-deals-2025)<!-- TECH:END -->
+ - [The best fitness trackers and watches we’ve tested](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

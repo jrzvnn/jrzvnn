@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple says COO Jeff Williams will retire later this year, and Sabih Khan, Apple&#39;s SVP of Operations, will take over much of his role later this month &lpar;CNBC&rpar;](http://www.techmeme.com/250708/p25#a250708p25)
- - [The best laptop deals we’ve found for Prime Day &lpar;so far&rpar;](https://www.theverge.com/tech/699521/amazon-prime-day-laptops-notebooks-gaming-apple-lenovo-hp)
- - [6 Best Prime Day Fitness Tracker Deals and Smart Ring Sales &lpar;2025&rpar;](https://www.wired.com/story/prime-day-tracker-and-ring-2025/)
- - [The best Prime Day deals on charging accessories](https://www.theverge.com/tech/698933/amazon-prime-day-2025-chargers-power-banks-batteries-deal-sale)
- - [8 Prime Day Kindle Deals &lpar;Plus Amazon Echo Devices&rpar;](https://www.wired.com/story/prime-kindle-amazon-device-deals-2025/)<!-- TECH:END -->
+ - [Waymo introduces teen accounts in Phoenix, allowing teenagers aged 14-17 to use its Waymo One ridehailing service alone with parental approval &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250708/p26#a250708p26)
+ - [AirPods Max drop to record low $399 with Amazon Prime Day deal](https://appleinsider.com/articles/25/07/08/airpods-max-drop-to-record-low-399-with-amazon-prime-day-deal?utm_medium=rss)
+ - [Best Amazon Prime Day deals on Thunderbolt docks &amp; storage enclosures for Mac](https://appleinsider.com/articles/25/07/08/best-amazon-prime-day-deals-on-thunderbolt-docks-storage-enclosures-for-mac?utm_medium=rss)
+ - [One of Tim Cook’s possible successors is leaving Apple](https://www.theverge.com/news/701576/apple-coo-jeff-williams-retiring-sabih-khan)
+ - [It&#39;s Nearly Time for Samsung&#39;s Galaxy Z Fold 7 and Z Flip 7 Debut: How to Watch the Unpacked Event](https://www.cnet.com/tech/mobile/its-nearly-time-for-samsungs-galaxy-z-fold-7-and-z-flip-7-debut-how-to-watch-the-unpacked-event/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

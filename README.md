@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Last of Us Part II&amp;#8217;s new mode puts the story in chronological order](https://www.theverge.com/news/701060/the-last-of-us-part-ii-chronological-mode-season-three-hbo)
- - [The Meta Quest 3S is down to its lowest price ever for Prime Day](https://www.theverge.com/tech/700611/meta-quest-3s-prime-day-deal-sale)
- - [The 911 Calls Inside ICE Detention Centers](https://www.wired.com/story/uncanny-valley-podcast-the-911-calls-inside-ice-detention-centers/)
- - [Mastodon is improving profiles and getting ready for quote posts](https://www.theverge.com/news/700991/mastodon-4-4-profiles-lists-quote-posts)
- - [El Salvador-based Tether says it holds nearly 80 tons of gold, worth ~$8B, in a vault in Switzerland; precious metals made up nearly 5% of its reserves in March &lpar;Jack Ryan/Bloomberg&rpar;](http://www.techmeme.com/250708/p18#a250708p18)<!-- TECH:END -->
+ - [Waymo introduces teen accounts for the first time in Phoenix](https://www.theverge.com/news/699580/waymo-teen-account-phoenix)
+ - [Amazon&#39;s iPad Prime Day sale drops prices to as low as $279 &amp; saves you up to $300](https://appleinsider.com/articles/25/07/08/amazons-ipad-prime-day-sale-drops-prices-to-as-low-as-279-saves-you-up-to-300?utm_medium=rss)
+ - [Google Maps is now available on Garmin’s smartwatches](https://www.theverge.com/news/700892/garmin-smartwatches-google-maps-venu-forerunner-vivoactive-fenix)
+ - [Future Apple Pencil could write on iPhone, MacBook Pro, or even Apple Watch](https://appleinsider.com/articles/25/07/08/future-apple-pencil-could-write-on-iphone-macbook-pro-or-even-apple-watch?utm_medium=rss)
+ - [26 Best Prime Day Tech Deals on iPads, Kindles, and Phones &lpar;2025&rpar;](https://www.wired.com/story/prime-day-tech-deals-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

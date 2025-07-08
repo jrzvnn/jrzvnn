@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple COO Jeff Williams retiring later in 2025, replaced by SVP Sabih Khan](https://appleinsider.com/articles/25/07/08/apple-coo-jeff-williams-retiring-later-in-2025-replaced-by-svp-sabih-khan?utm_medium=rss)
+ - [8 Best Amazon Prime Day Vacuum Deals for Dust and Dirt in 2025](https://www.wired.com/story/prime-day-vacuum-deals-july-2025/)
  - [Waymo introduces teen accounts in Phoenix, allowing teenagers aged 14-17 to use its Waymo One ridehailing service alone with parental approval &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250708/p26#a250708p26)
  - [AirPods Max drop to record low $399 with Amazon Prime Day deal](https://appleinsider.com/articles/25/07/08/airpods-max-drop-to-record-low-399-with-amazon-prime-day-deal?utm_medium=rss)
- - [Best Amazon Prime Day deals on Thunderbolt docks &amp; storage enclosures for Mac](https://appleinsider.com/articles/25/07/08/best-amazon-prime-day-deals-on-thunderbolt-docks-storage-enclosures-for-mac?utm_medium=rss)
- - [One of Tim Cook’s possible successors is leaving Apple](https://www.theverge.com/news/701576/apple-coo-jeff-williams-retiring-sabih-khan)
- - [It&#39;s Nearly Time for Samsung&#39;s Galaxy Z Fold 7 and Z Flip 7 Debut: How to Watch the Unpacked Event](https://www.cnet.com/tech/mobile/its-nearly-time-for-samsungs-galaxy-z-fold-7-and-z-flip-7-debut-how-to-watch-the-unpacked-event/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Amazon Prime Day deals on Thunderbolt docks &amp; storage enclosures for Mac](https://appleinsider.com/articles/25/07/08/best-amazon-prime-day-deals-on-thunderbolt-docks-storage-enclosures-for-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When road rage driver meets road calm driver.](http://9gag.com/gag/aXPRgX2)
- - 😝 [I&#39;m tired of this franchise](http://9gag.com/gag/an7GMVo)
- - 💣 [Disney was already lazy back then](http://9gag.com/gag/aVvR3By)
- - 😝 [As a semi-feral southerner, that wet spot is from where he was feeding it beer...](http://9gag.com/gag/azx4m8m)
- - 👉 [Medusa trying to petrify a djinn](http://9gag.com/gag/ary8gzy)<!-- MEMES:END -->
+ - 😝 [Disney was already lazy back then](http://9gag.com/gag/aVvR3By)
+ - 😝 [This Fake series are getting exotic.](http://9gag.com/gag/aBy4g7D)
+ - 💣 [A 300-year-old tree finally falls, captured in its dramatic final moments.](http://9gag.com/gag/a4PwG5d)
+ - 😝 [Did you know ...](http://9gag.com/gag/aZZRygX)
+ - 👉 [No shots needed](http://9gag.com/gag/amoR5Rd)<!-- MEMES:END -->
 
 ---
 

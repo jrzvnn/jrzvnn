@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Geh effect is real](http://9gag.com/gag/aBy4mrQ)
- - 😝 [Cosplay on point](http://9gag.com/gag/ae9RD9O)
- - 💣 [Scary Movie &lpar;2000&rpar; was released 25 years ago today.](http://9gag.com/gag/awyeoEy)
- - 😝 [Gravity just entered the chat](http://9gag.com/gag/a87VEYp)
- - 👉 [One of the best apps to be ever created](http://9gag.com/gag/ayNvXvq)<!-- MEMES:END -->
+ - 😝 [Who drop it](http://9gag.com/gag/aVvRYoM)
+ - 😝 [Damn you mom](http://9gag.com/gag/axym7Qb)
+ - 💣 [+ Skylar + the pizza on the roof](http://9gag.com/gag/awyeByx)
+ - 😝 [Time flies when you&#39;re not on Miller&#39;s Planet.](http://9gag.com/gag/amoRPr4)
+ - 👉 [One of Honda&#39;s chief engineers.](http://9gag.com/gag/ajPREmG)<!-- MEMES:END -->
 
 ---
 

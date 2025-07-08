@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AirGarage, whose platform collects and analyzes parking facilities&#39; data to improve efficiency, raised a $23M Series B, bringing its total funding to $41M &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250708/p15#a250708p15)
  - [Atomic macOS Stealer malware is now more dangerous](https://appleinsider.com/articles/25/07/08/atomic-macos-stealer-malware-is-now-more-dangerous?utm_medium=rss)
  - [15 Best Tablets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-tablets/)
  - [Best 5 Prime Day Kitchen Deals &lpar;2025&rpar;: Breville, Ooni, Oxo](https://www.wired.com/story/prime-day-kitchen-deals-july-2025/)
- - [The 180 best Prime Day 2025 deals that we found](https://www.theverge.com/tech/696641/amazon-prime-day-best-tech-deals-2025)
- - [Samsung&amp;#8217;s event spoiled by massive last-minute leak](https://www.theverge.com/news/700584/samsung-galaxy-unpacked-2025-leak)<!-- TECH:END -->
+ - [The 180 best Prime Day 2025 deals that we found](https://www.theverge.com/tech/696641/amazon-prime-day-best-tech-deals-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

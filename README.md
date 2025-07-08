@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Working efficiently to optimize leisure time sounds like a genius move, not a flaw.](http://9gag.com/gag/aBy4gRQ)
- - 😝 [The Geh effect is real](http://9gag.com/gag/aBy4mrQ)
- - 💣 [Scary Movie &lpar;2000&rpar; was released 25 years ago today.](http://9gag.com/gag/awyeoEy)
- - 😝 [Gravity just entered the chat](http://9gag.com/gag/a87VEYp)
- - 👉 [One of the best apps to be ever created](http://9gag.com/gag/ayNvXvq)<!-- MEMES:END -->
+ - 😝 [The moment she realized why kids made fun of her name](http://9gag.com/gag/aVvRw9M)
+ - 😝 [Medusa trying to petrify a djinn](http://9gag.com/gag/ary8gzy)
+ - 💣 [Don&#39;t Skip Leg Day](http://9gag.com/gag/a1mOW4b)
+ - 😝 [New engineer showing skills in London](http://9gag.com/gag/amoRv1y)
+ - 👉 [Insert title](http://9gag.com/gag/a87Voqe)<!-- MEMES:END -->
 
 ---
 

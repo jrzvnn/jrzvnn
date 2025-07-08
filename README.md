@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LIVE Amazon Prime Day 2025: We&#39;re Tracking Deals &amp; Trends All Day](https://www.wired.com/live/amazon-prime-day-deals-live-in-25/)
+ - [Some Verge-favorite gadgets are cheaper during Prime Day 2025](https://www.theverge.com/tech/699230/best-prime-day-deals-verge-favorites)
+ - [The American Federation of Teachers, the US&#39; second-largest teachers&#39; union, plans to start an AI training hub with $23M from Microsoft, OpenAI, and Anthropic &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/250708/p6#a250708p6)
  - [Prime Day deals: AirPods 4 plunge to $89, AirPods Pro 2 hit record low $149](https://appleinsider.com/articles/25/07/08/prime-day-deals-airpods-4-plunge-to-89-airpods-pro-2-hit-record-low-149?utm_medium=rss)
- - [Aqara Prime Day deals get you up to 38% off Apple Home cameras, locks, sensors](https://appleinsider.com/articles/25/07/08/aqara-prime-day-deals-get-you-up-to-38-off-apple-home-cameras-locks-sensors?utm_medium=rss)
- - [OnePlus launches five products: the midrange €449 Nord 5 smartphone, the €349 Nord CE 5, a smaller €299 Watch 3 wearable, the €119 Buds 4, and the €229 Pad Lite &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250708/p5#a250708p5)
- - [The Verge’s guide to Amazon Prime Day 2025](https://www.theverge.com/tech/689359/amazon-prime-day-tech-deals-guide-2025)
- - [The New Chase Sapphire Reserve Is an Expensive Waste of Time. Here’s Why I’m Skipping It](https://www.cnet.com/personal-finance/the-new-chase-sapphire-reserve-is-an-expensive-waste-of-time-heres-why-im-skipping-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 4 Best Prime Day Action Camera Deals for Thrill Seekers &lpar;2025&rpar;](https://www.wired.com/gallery/prime-day-deals-on-action-cameras-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

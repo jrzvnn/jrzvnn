@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US appeals court blocks FTC&#39;s &quot;click-to-cancel&quot; rule, which was set to take effect on July 14, saying it failed to conduct a preliminary cost-benefit analysis &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/250708/p28#a250708p28)
  - [GlobalFoundries agrees to acquire MIPS, a developer of RISC-V-based solutions and IP, with the deal expected to close in H2 2025 &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250708/p27#a250708p27)
  - [Apple COO Jeff Williams retiring later in 2025, replaced by SVP Sabih Khan](https://appleinsider.com/articles/25/07/08/apple-coo-jeff-williams-retiring-later-in-2025-replaced-by-svp-sabih-khan?utm_medium=rss)
  - [8 Best Amazon Prime Day Vacuum Deals for Dust and Dirt in 2025](https://www.wired.com/story/prime-day-vacuum-deals-july-2025/)
- - [Waymo introduces teen accounts in Phoenix, allowing teenagers aged 14-17 to use its Waymo One ridehailing service alone with parental approval &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250708/p26#a250708p26)
- - [AirPods Max drop to record low $399 with Amazon Prime Day deal](https://appleinsider.com/articles/25/07/08/airpods-max-drop-to-record-low-399-with-amazon-prime-day-deal?utm_medium=rss)<!-- TECH:END -->
+ - [Waymo introduces teen accounts in Phoenix, allowing teenagers aged 14-17 to use its Waymo One ridehailing service alone with parental approval &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250708/p26#a250708p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

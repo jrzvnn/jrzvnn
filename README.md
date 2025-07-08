@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 4 Best Prime Day Action Camera Deals for Thrill Seekers &lpar;2025&rpar;](https://www.wired.com/gallery/prime-day-deals-on-action-cameras-2025/)
- - [5 Best Prime Day Pet Deals on Amazon &lpar;2025&rpar;](https://www.wired.com/story/prime-day-pet-deals-2025/)
- - [What Apple products will get hit the hardest by Trump&#39;s new tariff orders](https://appleinsider.com/articles/25/07/07/apples-tariff-woes-continue-in-trumps-letters-to-world-leaders?utm_medium=rss)
- - [9 Best Smartwatches &lpar;2025&rpar;: Apple, Wear OS, Hybrid &amp; Kids&#39; Watches](https://www.wired.com/gallery/best-smartwatches/)
- - [5 Prime Day Kindle Deals &lpar;Plus Amazon Echo Devices&rpar;](https://www.wired.com/story/prime-kindle-amazon-device-deals-2025/)<!-- TECH:END -->
+ - [French chipmaker SiPearl raised a €130M Series A from Taiwan&#39;s Cathay Venture and others to develop its Arm-based Rhea1 AI chip, set to feature 80 cores &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/250708/p11#a250708p11)
+ - [A quest for the best headphone mics](https://www.theverge.com/the-vergecast/697623/vergecast-headphone-mic-test-ladder-ceo-sony-nothing-apple-bose)
+ - [The best Prime Day deals on our favorite robot vacuums](https://www.theverge.com/tech/698188/robot-vacuum-mop-deals-amazon-prime-day)
+ - [Beyerdynamic updated its ’70s-inspired headphones with a big battery boost](https://www.theverge.com/news/699595/beyerdynamic-aventho-100-wireless-headphones-anc-bluetooth)
+ - [IBM unveils Power11 chips, its first major Power line update since 2020, available July 25, and says they can detect and respond to ransomware within a minute &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250708/p10#a250708p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

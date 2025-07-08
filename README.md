@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The German national football team 20 years ago.](http://9gag.com/gag/an7GgjB)
  - 😝 [Imagine her face when she realized](http://9gag.com/gag/abARrxv)
+ - 💣 [25 years ago Alizee broke our minds with `Moi...Lolita`](http://9gag.com/gag/ae9RAPm)
  - 😝 [Removing a beaver dam is a tough job, but someone&#39;s gotta do it](http://9gag.com/gag/aE0Z2wM)
- - 💣 [When the bottle is made of vibranium.](http://9gag.com/gag/a4PwQNm)
- - 😝 [Duck Hunt. How this worked still is a mystery to me](http://9gag.com/gag/a87V14V)
- - 👉 [Well.well.well](http://9gag.com/gag/azx41Pz)<!-- MEMES:END -->
+ - 👉 [When the bottle is made of vibranium.](http://9gag.com/gag/a4PwQNm)<!-- MEMES:END -->
 
 ---
 

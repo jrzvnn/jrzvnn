@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Prime Day Kindle Deals &lpar;Plus Amazon Echo Devices&rpar;](https://www.wired.com/story/prime-kindle-amazon-device-deals-2025/)
- - [New sky blue color rumored to arrive with iPhone 17 Air](https://appleinsider.com/articles/25/07/08/new-sky-blue-color-rumored-to-arrive-with-iphone-17-air?utm_medium=rss)
- - [M&amp;S Chair Archie Norman tells UK parliament that it used the FBI and UK agencies to combat the May cyberattack and confirms DragonForce was behind the attack &lpar;Laura Onita/Financial Times&rpar;](http://www.techmeme.com/250708/p9#a250708p9)
- - [Microsoft, OpenAI, and a US Teachers’ Union Are Hatching a Plan to ‘Bring AI into the Classroom’](https://www.wired.com/story/microsoft-openai-and-a-us-teachers-union-are-hatching-a-plan-to-bring-ai-into-the-classroom/)
- - [Apple A19, C2, M5 chip identifiers all leaked in early iOS 18 code](https://appleinsider.com/articles/25/07/08/apple-a19-c2-m5-chip-identifiers-all-leaked-in-early-ios-18-code?utm_medium=rss)<!-- TECH:END -->
+ - [The 4 Best Prime Day Action Camera Deals for Thrill Seekers &lpar;2025&rpar;](https://www.wired.com/gallery/prime-day-deals-on-action-cameras-2025/)
+ - [5 Best Prime Day Pet Deals on Amazon &lpar;2025&rpar;](https://www.wired.com/story/prime-day-pet-deals-2025/)
+ - [What Apple products will get hit the hardest by Trump&#39;s new tariff orders](https://appleinsider.com/articles/25/07/07/apples-tariff-woes-continue-in-trumps-letters-to-world-leaders?utm_medium=rss)
+ - [9 Best Smartwatches &lpar;2025&rpar;: Apple, Wear OS, Hybrid &amp; Kids&#39; Watches](https://www.wired.com/gallery/best-smartwatches/)
+ - [5 Prime Day Kindle Deals &lpar;Plus Amazon Echo Devices&rpar;](https://www.wired.com/story/prime-kindle-amazon-device-deals-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirGarage, whose platform collects and analyzes parking facilities&#39; data to improve efficiency, raised a $23M Series B, bringing its total funding to $41M &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250708/p15#a250708p15)
- - [Atomic macOS Stealer malware is now more dangerous](https://appleinsider.com/articles/25/07/08/atomic-macos-stealer-malware-is-now-more-dangerous?utm_medium=rss)
- - [15 Best Tablets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-tablets/)
- - [Best 5 Prime Day Kitchen Deals &lpar;2025&rpar;: Breville, Ooni, Oxo](https://www.wired.com/story/prime-day-kitchen-deals-july-2025/)
- - [The 180 best Prime Day 2025 deals that we found](https://www.theverge.com/tech/696641/amazon-prime-day-best-tech-deals-2025)<!-- TECH:END -->
+ - [Maxon puts the Forger sculpting app for iPad on life support](https://www.theverge.com/news/700688/maxon-ends-forger-support-padzbrush)
+ - [Sources: an impostor used AI to mimic Marco Rubio&#39;s voice and writing style and contacted foreign ministers, a US governor, and a member of Congress &lpar;Washington Post&rpar;](http://www.techmeme.com/250708/p17#a250708p17)
+ - [&#39;Play-Doh World,&#39; &#39;Worms Across Worlds,&#39; and more land on Apple Arcade in August](https://appleinsider.com/articles/25/07/08/play-doh-world-worms-across-worlds-and-more-land-on-apple-arcade-in-august?utm_medium=rss)
+ - [You can get four AirTags for the price of three for Prime Day](https://www.theverge.com/tech/698693/apple-airtags-best-buy-amazon-prime-day-deal-sale)
+ - [Brilliant: How the smart home company navigated a tumultuous bankruptcy](https://appleinsider.com/articles/25/07/08/brilliant-how-the-smart-home-company-navigated-a-tumultuous-bankruptcy?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

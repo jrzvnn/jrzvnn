@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The moment she realized why kids made fun of her name](http://9gag.com/gag/aVvRw9M)
- - 😝 [Million miles away](http://9gag.com/gag/aYQRYzm)
- - 💣 [Ulala](http://9gag.com/gag/azx414Z)
  - 😝 [It is a dangerous combination, tall woman and short skirts...](http://9gag.com/gag/ae9RAEB)
- - 👉 [Me, when I have been eating street food in India:](http://9gag.com/gag/aYQRoq7)<!-- MEMES:END -->
+ - 😝 [Million miles away](http://9gag.com/gag/aYQRYzm)
+ - 💣 [Great... Very professional....](http://9gag.com/gag/aKGKdyb)
+ - 😝 [Kinda embarrassing to ask but I\u2019ve been trying to figure out how they built those old stone lighthouses in the middle of the ocean. I\u2019ve watched a few videos but I still haven\u2019t found one that really explains it in a satisfying way.](http://9gag.com/gag/aD2QdwK)
+ - 👉 [Who drop it](http://9gag.com/gag/aVvRYoM)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Great... Very professional....](http://9gag.com/gag/aKGKdyb)
+ - 😝 [Removing a beaver dam is a tough job, but someone&#39;s gotta do it](http://9gag.com/gag/aE0Z2wM)
  - 😝 [Who drop it](http://9gag.com/gag/aVvRYoM)
  - 💣 [Well.well.well](http://9gag.com/gag/azx41Pz)
- - 😝 [It is a dangerous combination, tall woman and short skirts...](http://9gag.com/gag/ae9RAEB)
- - 👉 [25 years ago Alizee broke our minds with `Moi...Lolita`](http://9gag.com/gag/ae9RAPm)<!-- MEMES:END -->
+ - 😝 [This dude patience is admirable and should be bottled up because ....](http://9gag.com/gag/ae9RgM5)
+ - 👉 [It is a dangerous combination, tall woman and short skirts...](http://9gag.com/gag/ae9RAEB)<!-- MEMES:END -->
 
 ---
 

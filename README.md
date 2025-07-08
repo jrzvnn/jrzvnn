@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The data industry is consolidating, with Databricks&#39; $1B Neon purchase, Salesforce&#39;s $8B Informatica deal, and more, fueled by the need for quality data for AI &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250708/p2#a250708p2)
  - [10% Home Depot Promo Codes &amp; Coupons | July 2025](https://www.wired.com/story/home-depot-promo-code/)
  - [Sources: OpenAI tightened security, adding biometric checks in offices and isolating sensitive systems, to protect model weights and other IP from espionage &lpar;Financial Times&rpar;](http://www.techmeme.com/250708/p1#a250708p1)
  - [How to change the background in Messages for iOS 26 and iPadOS 26](https://appleinsider.com/inside/ipados-26/tips/how-to-change-the-background-in-messages-for-ios-26-and-ipados-26?utm_medium=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, July 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-july-8/#ftag=CAD590a51e)
- - [Kingston IronKey Vault Privacy 80 Encrypted SSD review: Ultra-secure SSD with hard drive speed](https://appleinsider.com/articles/25/07/08/kingston-ironkey-vault-privacy-80-encrypted-ssd-review-ultra-secure-ssd-with-hard-drive-speed?utm_medium=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, July 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-july-8/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

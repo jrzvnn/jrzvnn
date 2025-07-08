@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Ever seen the movie The blob?](http://9gag.com/gag/awyeBMW)
- - 😝 [No shots needed](http://9gag.com/gag/amoR5Rd)
- - 💣 [Ulala](http://9gag.com/gag/azx414Z)
- - 😝 [+ Skylar + the pizza on the roof](http://9gag.com/gag/awyeByx)
- - 👉 [Did you know ...](http://9gag.com/gag/aZZRygX)<!-- MEMES:END -->
+ - 😝 [Did you know ...](http://9gag.com/gag/aZZRygX)
+ - 💣 [Insert title](http://9gag.com/gag/a87Voqe)
+ - 😝 [Go sports](http://9gag.com/gag/aQzy39w)
+ - 👉 [+ Skylar + the pizza on the roof](http://9gag.com/gag/awyeByx)<!-- MEMES:END -->
 
 ---
 

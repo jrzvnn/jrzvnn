@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bluesky rolls out Activity Notifications, letting users receive notifications of new posts and replies from selected accounts, as it expands its sports presence &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/250708/p8#a250708p8)
+ - [5 Best Prime Day TV Deals for All Budgets &lpar;2025&rpar;](https://www.wired.com/story/prime-day-tv-deals-july-2025/)
+ - [As Amazon Prime Day begins, some merchants say they can&#39;t afford to offer discounts due to Trump&#39;s tariffs; Adobe expects $23.8B in sales across the four days &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/250708/p7#a250708p7)
  - [LIVE Amazon Prime Day 2025: We&#39;re Tracking Deals &amp; Trends All Day](https://www.wired.com/live/amazon-prime-day-deals-live-in-25/)
- - [Some Verge-favorite gadgets are cheaper during Prime Day 2025](https://www.theverge.com/tech/699230/best-prime-day-deals-verge-favorites)
- - [The American Federation of Teachers, the US&#39; second-largest teachers&#39; union, plans to start an AI training hub with $23M from Microsoft, OpenAI, and Anthropic &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/250708/p6#a250708p6)
- - [Prime Day deals: AirPods 4 plunge to $89, AirPods Pro 2 hit record low $149](https://appleinsider.com/articles/25/07/08/prime-day-deals-airpods-4-plunge-to-89-airpods-pro-2-hit-record-low-149?utm_medium=rss)
- - [The 4 Best Prime Day Action Camera Deals for Thrill Seekers &lpar;2025&rpar;](https://www.wired.com/gallery/prime-day-deals-on-action-cameras-2025/)<!-- TECH:END -->
+ - [Some Verge-favorite gadgets are cheaper during Prime Day 2025](https://www.theverge.com/tech/699230/best-prime-day-deals-verge-favorites)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

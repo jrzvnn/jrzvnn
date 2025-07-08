@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Conspiracy Theories About the Texas Floods Lead to Death Threats](https://www.wired.com/story/texas-floods-conspiracy-theories-geoengineering-weather-weapon/)
- - [OpenAI Poaches 4 High-Ranking Engineers From Tesla, xAI, and Meta](https://www.wired.com/story/openai-new-hires-scaling/)
- - [The 42 best Prime Day deals on games, hardware, and accessories](https://www.theverge.com/tech/698696/amazon-prime-day-best-gaming-deals-controllers-headsets-accessories-2025)
- - [A US appeals court blocks FTC&#39;s &quot;click-to-cancel&quot; rule, which was set to take effect on July 14, saying it failed to conduct a preliminary cost-benefit analysis &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/250708/p28#a250708p28)
- - [GlobalFoundries agrees to acquire MIPS, a developer of RISC-V-based solutions and IP, with the deal expected to close in H2 2025 &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250708/p27#a250708p27)<!-- TECH:END -->
+ - [Best Prime Day Deals Under $100 &lpar;2025&rpar;: LifeStraws, Tech, and More](https://www.wired.com/story/prime-day-under-100-july-2025/)
+ - [Replit announces a partnership with Microsoft to make its platform available in the Azure Marketplace and integrate its tech with some Microsoft cloud services &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250708/p30#a250708p30)
+ - [Internal Slack message: OpenAI has hired four high-profile engineers from Tesla, xAI, and Meta, including David Lau, former VP of software engineering at Tesla &lpar;Wired&rpar;](http://www.techmeme.com/250708/p29#a250708p29)
+ - [Apple&#39;s design team leadership in flux once again with Jeff Williams retirement](https://appleinsider.com/articles/25/07/08/apples-design-team-leadership-in-flux-once-again-with-jeff-williams-retirement?utm_medium=rss)
+ - [Conspiracy Theories About the Texas Floods Lead to Death Threats](https://www.wired.com/story/texas-floods-conspiracy-theories-geoengineering-weather-weapon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

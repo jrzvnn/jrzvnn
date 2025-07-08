@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Moonvalley releases Marey, its fully licensed AI video model, available for $14.99, $34.99, or $149.99/month; 80% of its footage is from independent filmmakers &lpar;Andrew R. Chow/Time&rpar;](http://www.techmeme.com/250708/p13#a250708p13)
+ - [The 180 best Prime Day 2025 deals that we found](https://www.theverge.com/tech/696641/amazon-prime-day-best-tech-deals-2025)
+ - [Samsung&amp;#8217;s event spoiled by massive last-minute leak](https://www.theverge.com/news/700584/samsung-galaxy-unpacked-2025-leak)
  - [LIVE Amazon Prime Day 2025: We&#39;re Tracking Deals &amp; Trends All Day](https://www.wired.com/live/amazon-prime-day-deals-live-in-25/)
- - [In Q2 2025, global VC funding reached $91B, up from $82B in Q2 2024, driven largely by AI investments, but down from $114B in Q1 2025, the highest since Q3 2022 &lpar;Gené Teare/Crunchbase News&rpar;](http://www.techmeme.com/250708/p12#a250708p12)
- - [141 Best Prime Day Deals of 2025—Every Gadget Has Been Tested By Us](https://www.wired.com/story/absolute-best-amazon-prime-day-deals-2025/)
- - [The M3 11-inch iPad Air is cheaper than ever on Prime Day](https://www.theverge.com/tech/700446/m3-ipad-air-applecare-deal-sale-prime-day)<!-- TECH:END -->
+ - [X says the Indian government ordered it to block two Reuters accounts on July 3 and demanded immediate action, then told X to unblock them after &quot;public outcry&quot; &lpar;Swati Gupta/Bloomberg&rpar;](http://www.techmeme.com/250708/p14#a250708p14)
+ - [The best Prime Day deals on charging accessories](https://www.theverge.com/tech/698933/amazon-prime-day-2025-chargers-power-banks-batteries-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

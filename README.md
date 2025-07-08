@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It is a dangerous combination, tall woman and short skirts...](http://9gag.com/gag/ae9RAEB)
- - 😝 [Million miles away](http://9gag.com/gag/aYQRYzm)
- - 💣 [Great... Very professional....](http://9gag.com/gag/aKGKdyb)
+ - 😝 [Great... Very professional....](http://9gag.com/gag/aKGKdyb)
+ - 😝 [Me, when I have been eating street food in India:](http://9gag.com/gag/aYQRoq7)
+ - 💣 [Ulala](http://9gag.com/gag/azx414Z)
  - 😝 [Kinda embarrassing to ask but I\u2019ve been trying to figure out how they built those old stone lighthouses in the middle of the ocean. I\u2019ve watched a few videos but I still haven\u2019t found one that really explains it in a satisfying way.](http://9gag.com/gag/aD2QdwK)
- - 👉 [Who drop it](http://9gag.com/gag/aVvRYoM)<!-- MEMES:END -->
+ - 👉 [What exactly are we supposed to ask in a job interview if not about salary, responsibilities, or work culture? This email is a masterclass in corporate absurdity.](http://9gag.com/gag/aQzyoXK)<!-- MEMES:END -->
 
 ---
 

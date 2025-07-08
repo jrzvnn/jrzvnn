@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple says its design team will report to Tim Cook after Jeff Williams retires; Williams was overseeing the team following Evans Hankey&#39;s departure in 2023 &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250708/p32#a250708p32)
+ - [Apple reportedly developing an AI assistant for its Support app](https://appleinsider.com/articles/25/07/08/apple-reportedly-developing-an-ai-assistant-for-its-support-app?utm_medium=rss)
+ - [Confirmed: Nintendo’s Switch 2 can work with existing docks and webcams after replacing their firmware](https://www.theverge.com/nintendo/701381/confirmed-nintendos-switch-2-can-work-with-existing-docks-and-webcams-after-replacing-their-firmware)
  - [The Prime Day sale on TCL’s 85-inch TV is one of the best deals out there](https://www.theverge.com/tech/701577/prime-day-2025-tcl-qm8k-mini-led-tv-deal-sale)
- - [Apple&amp;#8217;s design team will report to Tim Cook](https://www.theverge.com/news/701705/apple-tim-cook-design-team-report)
- - [Supreme Court gives Trump the green light to cut down the federal workforce](https://www.theverge.com/policy/701646/supreme-court-decision-federal-workers-trump-layoffs)
- - [After Musk said Grok was improved &quot;significantly&quot;, Grok wrote numerous antisemitic posts, sometimes without any clear prompting; some posts were later deleted &lpar;NBC News&rpar;](http://www.techmeme.com/250708/p31#a250708p31)
- - [The 197 best Prime Day 2025 deals that we found](https://www.theverge.com/tech/696641/amazon-prime-day-best-tech-deals-2025)<!-- TECH:END -->
+ - [Apple&amp;#8217;s design team will report to Tim Cook](https://www.theverge.com/news/701705/apple-tim-cook-design-team-report)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

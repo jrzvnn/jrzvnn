@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Maxon puts the Forger sculpting app for iPad on life support](https://www.theverge.com/news/700688/maxon-ends-forger-support-padzbrush)
- - [Sources: an impostor used AI to mimic Marco Rubio&#39;s voice and writing style and contacted foreign ministers, a US governor, and a member of Congress &lpar;Washington Post&rpar;](http://www.techmeme.com/250708/p17#a250708p17)
- - [&#39;Play-Doh World,&#39; &#39;Worms Across Worlds,&#39; and more land on Apple Arcade in August](https://appleinsider.com/articles/25/07/08/play-doh-world-worms-across-worlds-and-more-land-on-apple-arcade-in-august?utm_medium=rss)
- - [You can get four AirTags for the price of three for Prime Day](https://www.theverge.com/tech/698693/apple-airtags-best-buy-amazon-prime-day-deal-sale)
- - [Brilliant: How the smart home company navigated a tumultuous bankruptcy](https://appleinsider.com/articles/25/07/08/brilliant-how-the-smart-home-company-navigated-a-tumultuous-bankruptcy?utm_medium=rss)<!-- TECH:END -->
+ - [The Oura Ring 4 just got its first discount for Prime Day](https://www.theverge.com/tech/699305/oura-ring-4-amazon-prime-day-deal-sale)
+ - [The 181 best Prime Day 2025 deals that we found](https://www.theverge.com/tech/696641/amazon-prime-day-best-tech-deals-2025)
+ - [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)
+ - [Details on AirPods with cameras revealed by new research](https://appleinsider.com/articles/25/07/08/details-on-airpods-with-cameras-revealed-by-new-research?utm_medium=rss)
+ - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

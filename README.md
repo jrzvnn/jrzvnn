@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The data industry is consolidating, with Databricks&#39; $1B Neon purchase, Salesforce&#39;s $8B Informatica deal, and more, fueled by the need for quality data for AI &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250708/p2#a250708p2)
- - [10% Home Depot Promo Codes &amp; Coupons | July 2025](https://www.wired.com/story/home-depot-promo-code/)
- - [Sources: OpenAI tightened security, adding biometric checks in offices and isolating sensitive systems, to protect model weights and other IP from espionage &lpar;Financial Times&rpar;](http://www.techmeme.com/250708/p1#a250708p1)
- - [How to change the background in Messages for iOS 26 and iPadOS 26](https://appleinsider.com/inside/ipados-26/tips/how-to-change-the-background-in-messages-for-ios-26-and-ipados-26?utm_medium=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, July 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-july-8/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Prime Day Apple Deals on iPads, AirPods, and MacBooks &lpar;2025&rpar;](https://www.wired.com/story/prime-day-apple-deals-2025/)
+ - [170 Best Prime Day Deals of 2025, Vetted by Our Amazon Experts](https://www.wired.com/story/best-amazon-prime-day-deals-2025/)
+ - [KEF Xio Review: So Good, So Expensive](https://www.wired.com/review/kef-xio/)
+ - [Don&#39;t Buy a New iPhone Right Now. Here&#39;s Why You Should Wait](https://www.cnet.com/tech/mobile/dont-buy-a-new-iphone-right-now-heres-why-you-should-wait/#ftag=CAD590a51e)
+ - [The data industry is consolidating, with Databricks&#39; $1B Neon purchase, Salesforce&#39;s $8B Informatica deal, and more, fueled by the need for quality data for AI &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250708/p2#a250708p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

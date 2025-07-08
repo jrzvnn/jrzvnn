@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No shots needed](http://9gag.com/gag/amoR5Rd)
- - 😝 [Great... Very professional....](http://9gag.com/gag/aKGKdyb)
- - 💣 [The ultimate test of patience and quick thinking](http://9gag.com/gag/aVvR77K)
- - 😝 [Who drop it](http://9gag.com/gag/aVvRYoM)
- - 👉 [Ulala](http://9gag.com/gag/azx414Z)<!-- MEMES:END -->
+ - 😝 [+ Skylar + the pizza on the roof](http://9gag.com/gag/awyeByx)
+ - 😝 [Million miles away](http://9gag.com/gag/aYQRYzm)
+ - 💣 [When the bottle is made of vibranium.](http://9gag.com/gag/a4PwQNm)
+ - 😝 [Me, when I have been eating street food in India:](http://9gag.com/gag/aYQRoq7)
+ - 👉 [Nobody was prepared for this](http://9gag.com/gag/aNDj0jr)<!-- MEMES:END -->
 
 ---
 

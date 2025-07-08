@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New sky blue color rumored to arrive with iPhone 17 Air](https://appleinsider.com/articles/25/07/08/new-sky-blue-color-rumored-to-arrive-with-iphone-17-air?utm_medium=rss)
+ - [M&amp;S Chair Archie Norman tells UK parliament that it used the FBI and UK agencies to combat the May cyberattack and confirms DragonForce was behind the attack &lpar;Laura Onita/Financial Times&rpar;](http://www.techmeme.com/250708/p9#a250708p9)
+ - [Microsoft, OpenAI, and a US Teachers’ Union Are Hatching a Plan to ‘Bring AI into the Classroom’](https://www.wired.com/story/microsoft-openai-and-a-us-teachers-union-are-hatching-a-plan-to-bring-ai-into-the-classroom/)
  - [Apple A19, C2, M5 chip identifiers all leaked in early iOS 18 code](https://appleinsider.com/articles/25/07/08/apple-a19-c2-m5-chip-identifiers-all-leaked-in-early-ios-18-code?utm_medium=rss)
- - [5 Best Prime Day Fitness Tracker Deals and Smart Ring Sales &lpar;2025&rpar;](https://www.wired.com/story/prime-day-tracker-and-ring-2025/)
- - [iPad mini 7 with A17 chip and Apple Intelligence is $120 off for Prime Day](https://appleinsider.com/articles/25/07/08/ipad-mini-7-with-a17-chip-and-apple-intelligence-is-120-off-for-prime-day?utm_medium=rss)
- - [‘Yearners’ Are Sick of Playing It Cool on Dating Apps](https://www.wired.com/story/yearners-are-sick-of-playing-it-cool-on-dating-apps/)
- - [Best Prime Day Laptop Deals 2025: MacBooks, Chromebooks, and More](https://www.wired.com/story/best-prime-day-laptop-deals-2025/)<!-- TECH:END -->
+ - [5 Best Prime Day Fitness Tracker Deals and Smart Ring Sales &lpar;2025&rpar;](https://www.wired.com/story/prime-day-tracker-and-ring-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New engineer showing skills in London](http://9gag.com/gag/amoRv1y)
- - 😝 [Vantage point.. Part 2](http://9gag.com/gag/aBy48zO)
- - 💣 [Valve is one of the few companies that keep an access to their `dead` games. Even games like Artifact and CS:GO are still playable. So, it&#39;s no wonder that they are not against the petition.](http://9gag.com/gag/a9yDRQj)
- - 😝 [Great... Very professional....](http://9gag.com/gag/aKGKdyb)
- - 👉 [In times of war, every hole is a trench](http://9gag.com/gag/aO8prB3)<!-- MEMES:END -->
+ - 😝 [Working efficiently to optimize leisure time sounds like a genius move, not a flaw.](http://9gag.com/gag/aBy4gRQ)
+ - 😝 [The Geh effect is real](http://9gag.com/gag/aBy4mrQ)
+ - 💣 [Scary Movie &lpar;2000&rpar; was released 25 years ago today.](http://9gag.com/gag/awyeoEy)
+ - 😝 [Gravity just entered the chat](http://9gag.com/gag/a87VEYp)
+ - 👉 [One of the best apps to be ever created](http://9gag.com/gag/ayNvXvq)<!-- MEMES:END -->
 
 ---
 

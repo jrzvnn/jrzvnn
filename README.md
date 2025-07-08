@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Prime Day sale on TCL’s 85-inch TV is one of the best deals out there](https://www.theverge.com/tech/701577/prime-day-2025-tcl-qm8k-mini-led-tv-deal-sale)
+ - [Apple&amp;#8217;s design team will report to Tim Cook](https://www.theverge.com/news/701705/apple-tim-cook-design-team-report)
  - [Supreme Court gives Trump the green light to cut down the federal workforce](https://www.theverge.com/policy/701646/supreme-court-decision-federal-workers-trump-layoffs)
  - [After Musk said Grok was improved &quot;significantly&quot;, Grok wrote numerous antisemitic posts, sometimes without any clear prompting; some posts were later deleted &lpar;NBC News&rpar;](http://www.techmeme.com/250708/p31#a250708p31)
- - [The 197 best Prime Day 2025 deals that we found](https://www.theverge.com/tech/696641/amazon-prime-day-best-tech-deals-2025)
- - [Best Prime Day Deals Under $100 &lpar;2025&rpar;: LifeStraws, Tech, and More](https://www.wired.com/story/prime-day-under-100-july-2025/)
- - [Replit announces a partnership with Microsoft to make its platform available in the Azure Marketplace and integrate its tech with some Microsoft cloud services &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250708/p30#a250708p30)<!-- TECH:END -->
+ - [The 197 best Prime Day 2025 deals that we found](https://www.theverge.com/tech/696641/amazon-prime-day-best-tech-deals-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

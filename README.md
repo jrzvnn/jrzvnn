@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every day at the office.](http://9gag.com/gag/aVvR73n)
- - 😝 [Did you know ...](http://9gag.com/gag/aZZRygX)
- - 💣 [+ Skylar + the pizza on the roof](http://9gag.com/gag/awyeByx)
- - 😝 [Great... Very professional....](http://9gag.com/gag/aKGKdyb)
- - 👉 [When the bottle is made of vibranium.](http://9gag.com/gag/a4PwQNm)<!-- MEMES:END -->
+ - 😝 [No shots needed](http://9gag.com/gag/amoR5Rd)
+ - 😝 [The moment she realized why kids made fun of her name](http://9gag.com/gag/aVvRw9M)
+ - 💣 [Great... Very professional....](http://9gag.com/gag/aKGKdyb)
+ - 😝 [Me, when I have been eating street food in India:](http://9gag.com/gag/aYQRoq7)
+ - 👉 [Who drop it](http://9gag.com/gag/aVvRYoM)<!-- MEMES:END -->
 
 ---
 

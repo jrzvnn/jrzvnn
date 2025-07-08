@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dispicable.](http://9gag.com/gag/aAyvx20)
- - 😝 [Medusa trying to petrify a djinn](http://9gag.com/gag/ary8gzy)
- - 💣 [Insert title](http://9gag.com/gag/a87Voqe)
+ - 😝 [New engineer showing skills in London](http://9gag.com/gag/amoRv1y)
+ - 😝 [Vantage point.. Part 2](http://9gag.com/gag/aBy48zO)
+ - 💣 [Valve is one of the few companies that keep an access to their `dead` games. Even games like Artifact and CS:GO are still playable. So, it&#39;s no wonder that they are not against the petition.](http://9gag.com/gag/a9yDRQj)
  - 😝 [Great... Very professional....](http://9gag.com/gag/aKGKdyb)
- - 👉 [Disney was already lazy back then](http://9gag.com/gag/aVvR3By)<!-- MEMES:END -->
+ - 👉 [In times of war, every hole is a trench](http://9gag.com/gag/aO8prB3)<!-- MEMES:END -->
 
 ---
 

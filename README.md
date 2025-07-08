@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dubai-based Huspy, which offers proptech tools to home buyers, agents, and brokers, raised a $59M Series B led by Balderton, after a $40M+ Series A in June 2022 &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/250708/p4#a250708p4)
- - [Amazon slashes Apple Watch Series 10 to $279 for Prime Day](https://appleinsider.com/articles/25/07/08/amazon-slashes-apple-watch-series-10-to-279-for-prime-day?utm_medium=rss)
- - [The 177 best Prime Day 2025 deals that we found](https://www.theverge.com/tech/696641/amazon-prime-day-best-tech-deals-2025)
- - [Best Prime Day Deals Under $100 &lpar;2025&rpar;: Lifestraws, Tech, and More](https://www.wired.com/story/prime-day-under-100-july-2025/)
- - [Italy arrests Chinese citizen Xu Zewei; a source says Xu is linked to hacking group Hafnium that breached Microsoft in 2021 to steal COVID-19 vaccine secrets &lpar;Financial Times&rpar;](http://www.techmeme.com/250708/p3#a250708p3)<!-- TECH:END -->
+ - [Aqara Prime Day deals get you up to 38% off Apple Home cameras, locks, sensors](https://appleinsider.com/articles/25/07/08/aqara-prime-day-deals-get-you-up-to-38-off-apple-home-cameras-locks-sensors?utm_medium=rss)
+ - [OnePlus launches five products: the midrange €449 Nord 5 smartphone, the €349 Nord CE 5, a smaller €299 Watch 3 wearable, the €119 Buds 4, and the €229 Pad Lite &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250708/p5#a250708p5)
+ - [The Verge’s guide to Amazon Prime Day 2025](https://www.theverge.com/tech/689359/amazon-prime-day-tech-deals-guide-2025)
+ - [5 Best Prime Day Beauty Deals 2025: Hair, Skin, and Dental Care](https://www.wired.com/story/prime-day-beauty-deals-july-2025/)
+ - [The best Apple deals available for Amazon Prime Day 2025](https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

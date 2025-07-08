@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nobody was prepared for this](http://9gag.com/gag/aNDj0jr)
- - 😝 [Me, when I have been eating street food in India:](http://9gag.com/gag/aYQRoq7)
- - 💣 [Million miles away](http://9gag.com/gag/aYQRYzm)
- - 😝 [Who drop it](http://9gag.com/gag/aVvRYoM)
- - 👉 [Ulala](http://9gag.com/gag/azx414Z)<!-- MEMES:END -->
+ - 😝 [German efficiency at its peak](http://9gag.com/gag/aRBR0q7)
+ - 😝 [What exactly are we supposed to ask in a job interview if not about salary, responsibilities, or work culture? This email is a masterclass in corporate absurdity.](http://9gag.com/gag/aQzyoXK)
+ - 💣 [Remembering the good old days of napping anywhere but where you&#39;re supposed to.](http://9gag.com/gag/aKGK6YW)
+ - 😝 [Wait, you guys get invited to parties?](http://9gag.com/gag/a34NEgQ)
+ - 👉 [Valve is one of the few companies that keep an access to their `dead` games. Even games like Artifact and CS:GO are still playable. So, it&#39;s no wonder that they are not against the petition.](http://9gag.com/gag/a9yDRQj)<!-- MEMES:END -->
 
 ---
 

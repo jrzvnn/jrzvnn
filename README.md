@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [‘Yearners’ Are Sick of Playing It Cool on Dating Apps](https://www.wired.com/story/yearners-are-sick-of-playing-it-cool-on-dating-apps/)
+ - [Best Prime Day Laptop Deals 2025: MacBooks, Chromebooks, and More](https://www.wired.com/story/best-prime-day-laptop-deals-2025/)
+ - [A Samsung Tri-Fold Phone Could Be Coming, According to a Leak](https://www.cnet.com/tech/mobile/a-samsung-tri-fold-phone-could-be-coming-according-to-a-leak/#ftag=CAD590a51e)
  - [Bluesky rolls out Activity Notifications, letting users receive notifications of new posts and replies from selected accounts, as it expands its sports presence &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/250708/p8#a250708p8)
- - [5 Best Prime Day TV Deals for All Budgets &lpar;2025&rpar;](https://www.wired.com/story/prime-day-tv-deals-july-2025/)
- - [As Amazon Prime Day begins, some merchants say they can&#39;t afford to offer discounts due to Trump&#39;s tariffs; Adobe expects $23.8B in sales across the four days &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/250708/p7#a250708p7)
- - [LIVE Amazon Prime Day 2025: We&#39;re Tracking Deals &amp; Trends All Day](https://www.wired.com/live/amazon-prime-day-deals-live-in-25/)
- - [Some Verge-favorite gadgets are cheaper during Prime Day 2025](https://www.theverge.com/tech/699230/best-prime-day-deals-verge-favorites)<!-- TECH:END -->
+ - [5 Best Prime Day TV Deals for All Budgets &lpar;2025&rpar;](https://www.wired.com/story/prime-day-tv-deals-july-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

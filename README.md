@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Last of Us Part II&amp;#8217;s new mode puts the story in chronological order](https://www.theverge.com/news/701060/the-last-of-us-part-ii-chronological-mode-season-three-hbo)
+ - [The Meta Quest 3S is down to its lowest price ever for Prime Day](https://www.theverge.com/tech/700611/meta-quest-3s-prime-day-deal-sale)
  - [The 911 Calls Inside ICE Detention Centers](https://www.wired.com/story/uncanny-valley-podcast-the-911-calls-inside-ice-detention-centers/)
  - [Mastodon is improving profiles and getting ready for quote posts](https://www.theverge.com/news/700991/mastodon-4-4-profiles-lists-quote-posts)
- - [El Salvador-based Tether says it holds nearly 80 tons of gold, worth ~$8B, in a vault in Switzerland; precious metals made up nearly 5% of its reserves in March &lpar;Jack Ryan/Bloomberg&rpar;](http://www.techmeme.com/250708/p18#a250708p18)
- - [The best earbuds we’ve tested for 2025](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [Microsoft Teams now has threaded conversations](https://www.theverge.com/news/700917/microsoft-teams-threads-conversations-emoji)<!-- TECH:END -->
+ - [El Salvador-based Tether says it holds nearly 80 tons of gold, worth ~$8B, in a vault in Switzerland; precious metals made up nearly 5% of its reserves in March &lpar;Jack Ryan/Bloomberg&rpar;](http://www.techmeme.com/250708/p18#a250708p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

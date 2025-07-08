@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft’s Copilot Plus features might arrive on desktop PCs later this year](https://www.theverge.com/news/700294/intel-arrow-lake-refresh-npu-microsoft-copilot-plus-pc-features)
+ - [5 Best Amazon Prime Day Vacuum Deals for Dust and Dirt in 2025](https://www.wired.com/story/prime-day-vacuum-deals-july-2025/)
+ - [LIVE Amazon Prime Day 2025: We&#39;re Tracking Deals &amp; Trends All Day](https://www.wired.com/live/amazon-prime-day-deals-live-in-25/)
  - [Best Prime Day Apple Deals on iPads, AirPods, and MacBooks &lpar;2025&rpar;](https://www.wired.com/story/prime-day-apple-deals-2025/)
- - [170 Best Prime Day Deals of 2025, Vetted by Our Amazon Experts](https://www.wired.com/story/best-amazon-prime-day-deals-2025/)
- - [KEF Xio Review: So Good, So Expensive](https://www.wired.com/review/kef-xio/)
- - [Don&#39;t Buy a New iPhone Right Now. Here&#39;s Why You Should Wait](https://www.cnet.com/tech/mobile/dont-buy-a-new-iphone-right-now-heres-why-you-should-wait/#ftag=CAD590a51e)
- - [The data industry is consolidating, with Databricks&#39; $1B Neon purchase, Salesforce&#39;s $8B Informatica deal, and more, fueled by the need for quality data for AI &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250708/p2#a250708p2)<!-- TECH:END -->
+ - [170 Best Prime Day Deals of 2025, Vetted by Our Amazon Experts](https://www.wired.com/story/best-amazon-prime-day-deals-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

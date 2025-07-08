@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSA to finally end its dumb shoe removal policy for airport security](https://www.theverge.com/news/701279/tsa-shoe-removal-end-airport-security)
- - [LIVE Amazon Prime Day 2025: We&#39;re Tracking Deals &amp; Trends All Day](https://www.wired.com/live/amazon-prime-day-deals-live-in-25/)
- - [The best Prime Day deals on our favorite robot vacuums](https://www.theverge.com/tech/698188/robot-vacuum-mop-deals-amazon-prime-day)
- - [The best Apple deals available for Amazon Prime Day 2025](https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals)
- - [Jack Dorsey made an encrypted Bluetooth messaging app](https://www.theverge.com/news/701272/jack-dorsey-bitchat-bluetooth-messaging-app)<!-- TECH:END -->
+ - [Best Prime Day Apple Deals on iPads, AirPods, and MacBooks &lpar;2025&rpar;](https://www.wired.com/story/prime-day-apple-deals-2025/)
+ - [Sources: Meta has bought under 3% of Ray-Ban maker EssilorLuxottica, a stake worth ~€3B, and is considering further investment that could build the stake to ~5% &lpar;Bloomberg&rpar;](http://www.techmeme.com/250708/p22#a250708p22)
+ - [Zoom&amp;#8217;s new Meta Quest app encourages taking video calls in VR](https://www.theverge.com/news/701447/zoom-meta-quest-app-video-calls-vr)
+ - [Why it’s so hard to warn people about flash floods](https://www.theverge.com/climate-change/701077/flash-flood-forecast-texas-disaster)
+ - [5 Best Prime Day TV Deals for All Budgets &lpar;2025&rpar;](https://www.wired.com/story/prime-day-tv-deals-july-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

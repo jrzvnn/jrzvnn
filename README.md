@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Prime Day deals: AirPods 4 plunge to $89, AirPods Pro 2 hit record low $149](https://appleinsider.com/articles/25/07/08/prime-day-deals-airpods-4-plunge-to-89-airpods-pro-2-hit-record-low-149?utm_medium=rss)
  - [Aqara Prime Day deals get you up to 38% off Apple Home cameras, locks, sensors](https://appleinsider.com/articles/25/07/08/aqara-prime-day-deals-get-you-up-to-38-off-apple-home-cameras-locks-sensors?utm_medium=rss)
  - [OnePlus launches five products: the midrange €449 Nord 5 smartphone, the €349 Nord CE 5, a smaller €299 Watch 3 wearable, the €119 Buds 4, and the €229 Pad Lite &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250708/p5#a250708p5)
  - [The Verge’s guide to Amazon Prime Day 2025](https://www.theverge.com/tech/689359/amazon-prime-day-tech-deals-guide-2025)
- - [5 Best Prime Day Beauty Deals 2025: Hair, Skin, and Dental Care](https://www.wired.com/story/prime-day-beauty-deals-july-2025/)
- - [The best Apple deals available for Amazon Prime Day 2025](https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals)<!-- TECH:END -->
+ - [The New Chase Sapphire Reserve Is an Expensive Waste of Time. Here’s Why I’m Skipping It](https://www.cnet.com/personal-finance/the-new-chase-sapphire-reserve-is-an-expensive-waste-of-time-heres-why-im-skipping-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

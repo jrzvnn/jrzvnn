@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung projects Q2 operating profit down 56% YoY to $3.3B, vs. $4.5B est., due to struggles in its chip business stemming from US export controls for China &lpar;Reuters&rpar;](http://www.techmeme.com/250707/p22#a250707p22)
- - [An open letter signed by 602 founders, VCs, and more urges Sequoia act after Shaun Maguire said Zohran Mamdani &quot;comes from a culture that lies about everything&quot; &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250707/p21#a250707p21)
- - [Meta poaches Apple Intelligence executive amid larger leadership restructure](https://appleinsider.com/articles/25/07/07/meta-poaches-apple-intelligence-executive-amid-larger-leadership-restructure?utm_medium=rss)
- - [The Best Way to Stop Mosquitos Isn&#39;t a Spray or Candle, and It&#39;s 13% Off for Amazon Prime Day](https://www.cnet.com/news/the-best-way-to-stop-mosquitos-isnt-a-spray-or-candle-and-its-13-off-for-amazon-prime-day/#ftag=CAD590a51e)
- - [Quantum computing company IonQ raised $1B via a sale of stock and warrants to Heights Capital Management, an affiliate of Susquehanna International Group &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/250707/p20#a250707p20)<!-- TECH:END -->
+ - [Kingston IronKey Vault Privacy 80 Encrypted SSD review: Ultra-secure SSD with hard drive speed](https://appleinsider.com/articles/25/07/08/kingston-ironkey-vault-privacy-80-encrypted-ssd-review-ultra-secure-ssd-with-hard-drive-speed?utm_medium=rss)
+ - [Fifth Circuit agrees with Apple over NLRB in World Trade Center store union busting case](https://appleinsider.com/articles/25/07/08/fifth-circuit-agrees-with-apple-over-nlrb-in-world-trade-center-store-union-busting-case?utm_medium=rss)
+ - [Prime Day deals: AirPods 4 plunge to $89, AirPods Pro 2 hit record low $149](https://appleinsider.com/articles/25/07/08/prime-day-deals-airpods-4-plunge-to-89-airpods-pro-2-hit-record-low-149?utm_medium=rss)
+ - [Meta&#39;s WhatsApp Pay has struggled to gain traction in India in part due to regulators delaying its full launch as well as minimal product upgrades and marketing &lpar;Ananya Bhattacharya/Rest of World&rpar;](http://www.techmeme.com/250707/p23#a250707p23)
+ - [Here&#39;s How to Marvel at Mars, Venus and July&#39;s Spectacular Buck Moon](https://www.cnet.com/science/space/heres-when-to-see-julys-buck-moon-along-with-mars-and-venus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

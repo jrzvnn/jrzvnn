@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Third tvOS 26 developer beta arrives one day late](https://appleinsider.com/articles/25/07/08/third-tvos-26-developer-beta-arrives-one-day-late?utm_medium=rss)
- - [How to watch Samsung’s foldable-filled Unpacked event](https://www.theverge.com/news/700392/samsung-galaxy-unpacked-2025-event-livestream)
- - [You can use sous vide to help iPhone repairs, but please don&#39;t](https://appleinsider.com/articles/25/07/08/you-can-use-sous-vide-to-help-iphone-repairs-but-please-dont?utm_medium=rss)
- - [How The New York Times is &lpar;still&rpar; getting gamed by the right](https://www.theverge.com/culture/700082/nyt-mamdani-news-judgment)
- - [Parvati Shallow Says RIP to the ‘Black Widow’ and All That](https://www.wired.com/story/parvati-shallow-survivor-book-black-widow/)<!-- TECH:END -->
+ - [Some Verge-favorite gadgets are cheaper during Prime Day 2025](https://www.theverge.com/tech/699230/best-prime-day-deals-verge-favorites)
+ - [Arago, which is developing a photonic chip, codenamed JEF, that is designed to cut AI energy use by ten times at a comparable cost, raised a $26M seed &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/250708/p20#a250708p20)
+ - [99 Best Prime Day Deals of 2025—All Personally Tested By Us](https://www.wired.com/story/best-amazon-prime-deals-july-2025/)
+ - [The best Prime Day smart home deals we found](https://www.theverge.com/amazon-prime-day-deals-tech/699919/best-smart-home-deals-amazon-prime-day)
+ - [You can use sous vide to help iPhone repairs, but please don&#39;t](https://appleinsider.com/articles/25/07/08/you-can-use-sous-vide-to-help-iphone-repairs-but-please-dont?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

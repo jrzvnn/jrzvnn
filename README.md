@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung projects Q2 operating profit down 56% YoY to $3.3B, vs. $4.5B est., due to struggles in its chip business stemming from US export controls for China &lpar;Reuters&rpar;](http://www.techmeme.com/250707/p22#a250707p22)
+ - [An open letter signed by 602 founders, VCs, and more urges Sequoia act after Shaun Maguire said Zohran Mamdani &quot;comes from a culture that lies about everything&quot; &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250707/p21#a250707p21)
  - [Meta poaches Apple Intelligence executive amid larger leadership restructure](https://appleinsider.com/articles/25/07/07/meta-poaches-apple-intelligence-executive-amid-larger-leadership-restructure?utm_medium=rss)
- - [Quantum computing company IonQ raised $1B via a sale of stock and warrants to Heights Capital Management, an affiliate of Susquehanna International Group &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/250707/p20#a250707p20)
- - [‘Anthem’ Is the Latest Video Game Casualty. What Should End-of-Life Care Look Like for Games?](https://www.wired.com/story/bioware-anthem-shuttered-stop-killing-games/)
- - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
- - [Apple just added more frost to its Liquid Glass design](https://www.theverge.com/news/700066/apple-liquid-glass-frosted-ios-26-developer-beta)<!-- TECH:END -->
+ - [The Best Way to Stop Mosquitos Isn&#39;t a Spray or Candle, and It&#39;s 13% Off for Amazon Prime Day](https://www.cnet.com/news/the-best-way-to-stop-mosquitos-isnt-a-spray-or-candle-and-its-13-off-for-amazon-prime-day/#ftag=CAD590a51e)
+ - [Quantum computing company IonQ raised $1B via a sale of stock and warrants to Heights Capital Management, an affiliate of Susquehanna International Group &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/250707/p20#a250707p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

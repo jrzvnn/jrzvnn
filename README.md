@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hard reality.](http://9gag.com/gag/azx4X3b)
- - 😝 [+ Skylar + the pizza on the roof](http://9gag.com/gag/awyeByx)
- - 💣 [Ulala](http://9gag.com/gag/azx414Z)
- - 😝 [Kinda embarrassing to ask but I\u2019ve been trying to figure out how they built those old stone lighthouses in the middle of the ocean. I\u2019ve watched a few videos but I still haven\u2019t found one that really explains it in a satisfying way.](http://9gag.com/gag/aD2QdwK)
- - 👉 [Don&#39;t Skip Leg Day](http://9gag.com/gag/a1mOW4b)<!-- MEMES:END -->
+ - 😝 [The Geh effect is real](http://9gag.com/gag/aBy4mrQ)
+ - 😝 [Cosplay on point](http://9gag.com/gag/ae9RD9O)
+ - 💣 [Scary Movie &lpar;2000&rpar; was released 25 years ago today.](http://9gag.com/gag/awyeoEy)
+ - 😝 [Gravity just entered the chat](http://9gag.com/gag/a87VEYp)
+ - 👉 [One of the best apps to be ever created](http://9gag.com/gag/ayNvXvq)<!-- MEMES:END -->
 
 ---
 

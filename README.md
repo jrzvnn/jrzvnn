@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Third tvOS 26 developer beta arrives one day late](https://appleinsider.com/articles/25/07/08/third-tvos-26-developer-beta-arrives-one-day-late?utm_medium=rss)
  - [How to watch Samsung’s foldable-filled Unpacked event](https://www.theverge.com/news/700392/samsung-galaxy-unpacked-2025-event-livestream)
  - [You can use sous vide to help iPhone repairs, but please don&#39;t](https://appleinsider.com/articles/25/07/08/you-can-use-sous-vide-to-help-iphone-repairs-but-please-dont?utm_medium=rss)
  - [How The New York Times is &lpar;still&rpar; getting gamed by the right](https://www.theverge.com/culture/700082/nyt-mamdani-news-judgment)
- - [Parvati Shallow Says RIP to the ‘Black Widow’ and All That](https://www.wired.com/story/parvati-shallow-survivor-book-black-widow/)
- - [Doorbuster deals live: up to 65% off this Prime Day -- and Bluetti&#39;s 1kWh star steals the show](https://appleinsider.com/articles/25/07/08/doorbuster-deals-live-up-to-65-off-this-prime-day----and-bluettis-1kwh-star-steals-the-show?utm_medium=rss)<!-- TECH:END -->
+ - [Parvati Shallow Says RIP to the ‘Black Widow’ and All That](https://www.wired.com/story/parvati-shallow-survivor-book-black-widow/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

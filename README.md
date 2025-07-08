@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who drop it](http://9gag.com/gag/aVvRYoM)
+ - 😝 [Ulala](http://9gag.com/gag/azx414Z)
  - 😝 [Damn you mom](http://9gag.com/gag/axym7Qb)
- - 💣 [+ Skylar + the pizza on the roof](http://9gag.com/gag/awyeByx)
- - 😝 [Time flies when you&#39;re not on Miller&#39;s Planet.](http://9gag.com/gag/amoRPr4)
- - 👉 [One of Honda&#39;s chief engineers.](http://9gag.com/gag/ajPREmG)<!-- MEMES:END -->
+ - 💣 [What the nani!](http://9gag.com/gag/aNDj1q6)
+ - 😝 [Who drop it](http://9gag.com/gag/aVvRYoM)
+ - 👉 [What exactly are we supposed to ask in a job interview if not about salary, responsibilities, or work culture? This email is a masterclass in corporate absurdity.](http://9gag.com/gag/aQzyoXK)<!-- MEMES:END -->
 
 ---
 

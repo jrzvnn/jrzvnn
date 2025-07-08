@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo introduces teen accounts for the first time in Phoenix](https://www.theverge.com/news/699580/waymo-teen-account-phoenix)
- - [Amazon&#39;s iPad Prime Day sale drops prices to as low as $279 &amp; saves you up to $300](https://appleinsider.com/articles/25/07/08/amazons-ipad-prime-day-sale-drops-prices-to-as-low-as-279-saves-you-up-to-300?utm_medium=rss)
- - [Google Maps is now available on Garmin’s smartwatches](https://www.theverge.com/news/700892/garmin-smartwatches-google-maps-venu-forerunner-vivoactive-fenix)
- - [Future Apple Pencil could write on iPhone, MacBook Pro, or even Apple Watch](https://appleinsider.com/articles/25/07/08/future-apple-pencil-could-write-on-iphone-macbook-pro-or-even-apple-watch?utm_medium=rss)
- - [26 Best Prime Day Tech Deals on iPads, Kindles, and Phones &lpar;2025&rpar;](https://www.wired.com/story/prime-day-tech-deals-2025/)<!-- TECH:END -->
+ - [Doorbuster deals live: up to 65% off this Prime Day -- and Bluetti&#39;s 1kWh star steals the show](https://appleinsider.com/articles/25/07/08/doorbuster-deals-live-up-to-65-off-this-prime-day----and-bluettis-1kwh-star-steals-the-show?utm_medium=rss)
+ - [The 182 best Prime Day 2025 deals that we found](https://www.theverge.com/tech/696641/amazon-prime-day-best-tech-deals-2025)
+ - [Dubai-based Xpanceo, which is developing smart contact lenses with night vision, health monitoring, and more, raised a $250M Series A at a $1.35B valuation &lpar;Alexander Sazonov/Bloomberg&rpar;](http://www.techmeme.com/250708/p19#a250708p19)
+ - [The Teens Are Taking Waymos Now](https://www.wired.com/story/the-teens-are-taking-waymos-now/)
+ - [Waymo introduces teen accounts for the first time in Phoenix](https://www.theverge.com/news/699580/waymo-teen-account-phoenix)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

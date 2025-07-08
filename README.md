@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Me, when I have been eating street food in India:](http://9gag.com/gag/aYQRoq7)
- - 😝 [Million miles away](http://9gag.com/gag/aYQRYzm)
- - 💣 [Great... Very professional....](http://9gag.com/gag/aKGKdyb)
- - 😝 [Who drop it](http://9gag.com/gag/aVvRYoM)
+ - 😝 [Well.well.well](http://9gag.com/gag/azx41Pz)
+ - 💣 [Who drop it](http://9gag.com/gag/aVvRYoM)
+ - 😝 [Great... Very professional....](http://9gag.com/gag/aKGKdyb)
  - 👉 [When the bottle is made of vibranium.](http://9gag.com/gag/a4PwQNm)<!-- MEMES:END -->
 
 ---

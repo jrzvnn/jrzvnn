@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The moment she realized why kids made fun of her name](http://9gag.com/gag/aVvRw9M)
- - 😝 [Medusa trying to petrify a djinn](http://9gag.com/gag/ary8gzy)
- - 💣 [Don&#39;t Skip Leg Day](http://9gag.com/gag/a1mOW4b)
- - 😝 [New engineer showing skills in London](http://9gag.com/gag/amoRv1y)
- - 👉 [Insert title](http://9gag.com/gag/a87Voqe)<!-- MEMES:END -->
+ - 😝 [Insert title](http://9gag.com/gag/a87Voqe)
+ - 😝 [Did you know ...](http://9gag.com/gag/aZZRygX)
+ - 💣 [I&#39;m tired of this franchise](http://9gag.com/gag/an7GMVo)
+ - 😝 [+ Skylar + the pizza on the roof](http://9gag.com/gag/awyeByx)
+ - 👉 [Medusa trying to petrify a djinn](http://9gag.com/gag/ary8gzy)<!-- MEMES:END -->
 
 ---
 

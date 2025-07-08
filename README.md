@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ulala](http://9gag.com/gag/azx414Z)
- - 😝 [Damn you mom](http://9gag.com/gag/axym7Qb)
- - 💣 [What the nani!](http://9gag.com/gag/aNDj1q6)
- - 😝 [Who drop it](http://9gag.com/gag/aVvRYoM)
- - 👉 [What exactly are we supposed to ask in a job interview if not about salary, responsibilities, or work culture? This email is a masterclass in corporate absurdity.](http://9gag.com/gag/aQzyoXK)<!-- MEMES:END -->
+ - 😝 [Working efficiently to optimize leisure time sounds like a genius move, not a flaw.](http://9gag.com/gag/aBy4gRQ)
+ - 😝 [The Geh effect is real](http://9gag.com/gag/aBy4mrQ)
+ - 💣 [Scary Movie &lpar;2000&rpar; was released 25 years ago today.](http://9gag.com/gag/awyeoEy)
+ - 😝 [Cosplay on point](http://9gag.com/gag/ae9RD9O)
+ - 👉 [One of the best apps to be ever created](http://9gag.com/gag/ayNvXvq)<!-- MEMES:END -->
 
 ---
 

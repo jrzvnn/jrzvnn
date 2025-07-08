@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When the bottle is made of vibranium.](http://9gag.com/gag/a4PwQNm)
  - 😝 [Removing a beaver dam is a tough job, but someone&#39;s gotta do it](http://9gag.com/gag/aE0Z2wM)
- - 💣 [Great... Very professional....](http://9gag.com/gag/aKGKdyb)
+ - 😝 [It is a dangerous combination, tall woman and short skirts...](http://9gag.com/gag/ae9RAEB)
+ - 💣 [Imagine her face when she realized](http://9gag.com/gag/abARrxv)
  - 😝 [25 years ago Alizee broke our minds with `Moi...Lolita`](http://9gag.com/gag/ae9RAPm)
- - 👉 [Imagine her face when she realized](http://9gag.com/gag/abARrxv)<!-- MEMES:END -->
+ - 👉 [When the bottle is made of vibranium.](http://9gag.com/gag/a4PwQNm)<!-- MEMES:END -->
 
 ---
 

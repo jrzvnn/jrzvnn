@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Imagine her face when she realized](http://9gag.com/gag/abARrxv)
  - 😝 [Removing a beaver dam is a tough job, but someone&#39;s gotta do it](http://9gag.com/gag/aE0Z2wM)
- - 😝 [Who drop it](http://9gag.com/gag/aVvRYoM)
- - 💣 [Well.well.well](http://9gag.com/gag/azx41Pz)
- - 😝 [This dude patience is admirable and should be bottled up because ....](http://9gag.com/gag/ae9RgM5)
- - 👉 [It is a dangerous combination, tall woman and short skirts...](http://9gag.com/gag/ae9RAEB)<!-- MEMES:END -->
+ - 💣 [When the bottle is made of vibranium.](http://9gag.com/gag/a4PwQNm)
+ - 😝 [Duck Hunt. How this worked still is a mystery to me](http://9gag.com/gag/a87V14V)
+ - 👉 [Well.well.well](http://9gag.com/gag/azx41Pz)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple A19, C2, M5 chip identifiers all leaked in early iOS 18 code](https://appleinsider.com/articles/25/07/08/apple-a19-c2-m5-chip-identifiers-all-leaked-in-early-ios-18-code?utm_medium=rss)
+ - [5 Best Prime Day Fitness Tracker Deals and Smart Ring Sales &lpar;2025&rpar;](https://www.wired.com/story/prime-day-tracker-and-ring-2025/)
+ - [iPad mini 7 with A17 chip and Apple Intelligence is $120 off for Prime Day](https://appleinsider.com/articles/25/07/08/ipad-mini-7-with-a17-chip-and-apple-intelligence-is-120-off-for-prime-day?utm_medium=rss)
  - [‘Yearners’ Are Sick of Playing It Cool on Dating Apps](https://www.wired.com/story/yearners-are-sick-of-playing-it-cool-on-dating-apps/)
- - [Best Prime Day Laptop Deals 2025: MacBooks, Chromebooks, and More](https://www.wired.com/story/best-prime-day-laptop-deals-2025/)
- - [A Samsung Tri-Fold Phone Could Be Coming, According to a Leak](https://www.cnet.com/tech/mobile/a-samsung-tri-fold-phone-could-be-coming-according-to-a-leak/#ftag=CAD590a51e)
- - [Bluesky rolls out Activity Notifications, letting users receive notifications of new posts and replies from selected accounts, as it expands its sports presence &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/250708/p8#a250708p8)
- - [5 Best Prime Day TV Deals for All Budgets &lpar;2025&rpar;](https://www.wired.com/story/prime-day-tv-deals-july-2025/)<!-- TECH:END -->
+ - [Best Prime Day Laptop Deals 2025: MacBooks, Chromebooks, and More](https://www.wired.com/story/best-prime-day-laptop-deals-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

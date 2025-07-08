@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No shots needed](http://9gag.com/gag/amoR5Rd)
  - 😝 [The moment she realized why kids made fun of her name](http://9gag.com/gag/aVvRw9M)
- - 💣 [Great... Very professional....](http://9gag.com/gag/aKGKdyb)
- - 😝 [Me, when I have been eating street food in India:](http://9gag.com/gag/aYQRoq7)
- - 👉 [Who drop it](http://9gag.com/gag/aVvRYoM)<!-- MEMES:END -->
+ - 😝 [Million miles away](http://9gag.com/gag/aYQRYzm)
+ - 💣 [Ulala](http://9gag.com/gag/azx414Z)
+ - 😝 [It is a dangerous combination, tall woman and short skirts...](http://9gag.com/gag/ae9RAEB)
+ - 👉 [Me, when I have been eating street food in India:](http://9gag.com/gag/aYQRoq7)<!-- MEMES:END -->
 
 ---
 

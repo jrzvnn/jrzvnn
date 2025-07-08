@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [French chipmaker SiPearl raised a €130M Series A from Taiwan&#39;s Cathay Venture and others to develop its Arm-based Rhea1 AI chip, set to feature 80 cores &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/250708/p11#a250708p11)
- - [A quest for the best headphone mics](https://www.theverge.com/the-vergecast/697623/vergecast-headphone-mic-test-ladder-ceo-sony-nothing-apple-bose)
- - [The best Prime Day deals on our favorite robot vacuums](https://www.theverge.com/tech/698188/robot-vacuum-mop-deals-amazon-prime-day)
- - [Beyerdynamic updated its ’70s-inspired headphones with a big battery boost](https://www.theverge.com/news/699595/beyerdynamic-aventho-100-wireless-headphones-anc-bluetooth)
- - [IBM unveils Power11 chips, its first major Power line update since 2020, available July 25, and says they can detect and respond to ransomware within a minute &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250708/p10#a250708p10)<!-- TECH:END -->
+ - [141 Best Prime Day Deals of 2025—Every Gadget Has Been Tested By Us](https://www.wired.com/story/absolute-best-amazon-prime-day-deals-2025/)
+ - [The M3 11-inch iPad Air is cheaper than ever on Prime Day](https://www.theverge.com/tech/700446/m3-ipad-air-applecare-deal-sale-prime-day)
+ - [Live Prime Day deals: Best Apple Watch, iPad, AirPods, Mac discounts up to 51% off](https://appleinsider.com/articles/25/07/08/live-prime-day-deals-best-apple-watch-ipad-airpods-mac-discounts-up-to-51-off?utm_medium=rss)
+ - [France-based chipmaker SiPearl raised a €130M Series A from Taiwan&#39;s Cathay Venture and others to develop its ARM-based Rhea1 AI chip, set to feature 80 cores &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/250708/p11#a250708p11)
+ - [22 Best MacBook Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-macbook-accessories/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

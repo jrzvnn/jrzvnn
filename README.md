@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Italy arrests Chinese citizen Xu Zewei; a source says Xu is linked to hacking group Hafnium that breached Microsoft in 2021 to steal COVID-19 vaccine secrets &lpar;Financial Times&rpar;](http://www.techmeme.com/250708/p3#a250708p3)
+ - [OnePlus launches five new products, including Buds 4 and smaller Watch 3 for the US](https://www.theverge.com/news/700339/oneplus-watch-3-43mm-buds-4-nord-5-ce-5-pad-lite)
+ - [How to Spot Fake Reviews on Amazon: Tools and Advice](https://www.wired.com/story/how-to-spot-fake-reviews-amazon/)
  - [Microsoft’s Copilot Plus features might arrive on desktop PCs later this year](https://www.theverge.com/news/700294/intel-arrow-lake-refresh-npu-microsoft-copilot-plus-pc-features)
- - [5 Best Amazon Prime Day Vacuum Deals for Dust and Dirt in 2025](https://www.wired.com/story/prime-day-vacuum-deals-july-2025/)
- - [LIVE Amazon Prime Day 2025: We&#39;re Tracking Deals &amp; Trends All Day](https://www.wired.com/live/amazon-prime-day-deals-live-in-25/)
- - [Best Prime Day Apple Deals on iPads, AirPods, and MacBooks &lpar;2025&rpar;](https://www.wired.com/story/prime-day-apple-deals-2025/)
- - [170 Best Prime Day Deals of 2025, Vetted by Our Amazon Experts](https://www.wired.com/story/best-amazon-prime-day-deals-2025/)<!-- TECH:END -->
+ - [5 Best Amazon Prime Day Vacuum Deals for Dust and Dirt in 2025](https://www.wired.com/story/prime-day-vacuum-deals-july-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

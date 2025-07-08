@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Insert title](http://9gag.com/gag/a87Voqe)
- - 😝 [Did you know ...](http://9gag.com/gag/aZZRygX)
- - 💣 [I&#39;m tired of this franchise](http://9gag.com/gag/an7GMVo)
+ - 😝 [Ever seen the movie The blob?](http://9gag.com/gag/awyeBMW)
+ - 😝 [No shots needed](http://9gag.com/gag/amoR5Rd)
+ - 💣 [Ulala](http://9gag.com/gag/azx414Z)
  - 😝 [+ Skylar + the pizza on the roof](http://9gag.com/gag/awyeByx)
- - 👉 [Medusa trying to petrify a djinn](http://9gag.com/gag/ary8gzy)<!-- MEMES:END -->
+ - 👉 [Did you know ...](http://9gag.com/gag/aZZRygX)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Did you know ...](http://9gag.com/gag/aZZRygX)
- - 😝 [Ulala](http://9gag.com/gag/azx414Z)
- - 💣 [Loris Hezemans\u2019 start at the Le Mans race](http://9gag.com/gag/awyeXb8)
- - 😝 [Great... Very professional....](http://9gag.com/gag/aKGKdyb)
- - 👉 [We need more badass confident women who don&#39;t shrink and freak out when men notice it.](http://9gag.com/gag/a4PwQ9Q)<!-- MEMES:END -->
+ - 😝 [Hard reality.](http://9gag.com/gag/azx4X3b)
+ - 😝 [Disney was already lazy back then](http://9gag.com/gag/aVvR3By)
+ - 💣 [Vantage point.. Part 2](http://9gag.com/gag/aBy48zO)
+ - 😝 [When the bottle is made of vibranium.](http://9gag.com/gag/a4PwQNm)
+ - 👉 [Medusa trying to petrify a djinn](http://9gag.com/gag/ary8gzy)<!-- MEMES:END -->
 
 ---
 

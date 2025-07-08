@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung’s S90D OLED TV is at its lowest price ever for Prime Day and it’s great for gaming](https://www.theverge.com/tech/701376/amazon-prime-day-samsung-s90d-oled-tv)
  - [Sources: Mistral AI is in talks to raise as much as $1B in equity from several investors including Abu Dhabi&#39;s MGX; it has raised €1B+ since its 2023 founding &lpar;Bloomberg&rpar;](http://www.techmeme.com/250708/p23#a250708p23)
  - [James Gunn&amp;#8217;s Superman is exactly what DC&amp;#8217;s movies have been missing](https://www.theverge.com/movie-reviews/701362/superman-dc-studios-james-gunn-review)
  - [10 Best Prime Day Pet Deals on Amazon &lpar;2025&rpar;](https://www.wired.com/story/prime-day-pet-deals-2025/)
- - [Best Prime Day Apple Deals on iPads, AirPods, and MacBooks &lpar;2025&rpar;](https://www.wired.com/story/prime-day-apple-deals-2025/)
- - [Sources: Meta has bought under 3% of Ray-Ban maker EssilorLuxottica, a stake worth ~€3B, and is considering further investment that could build the stake to ~5% &lpar;Bloomberg&rpar;](http://www.techmeme.com/250708/p22#a250708p22)<!-- TECH:END -->
+ - [Best Prime Day Apple Deals on iPads, AirPods, and MacBooks &lpar;2025&rpar;](https://www.wired.com/story/prime-day-apple-deals-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

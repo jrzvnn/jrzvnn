@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/aD2QDmO)
- - 😝 [What exactly are we supposed to ask in a job interview if not about salary, responsibilities, or work culture? This email is a masterclass in corporate absurdity.](http://9gag.com/gag/aQzyoXK)
- - 💣 [Duck Hunt. How this worked still is a mystery to me](http://9gag.com/gag/a87V14V)
+ - 😝 [I think its great](http://9gag.com/gag/a6ZGE98)
  - 😝 [25 years ago Alizee broke our minds with `Moi...Lolita`](http://9gag.com/gag/ae9RAPm)
- - 👉 [Tell me this isn&#39;t true .](http://9gag.com/gag/a2vOKRw)<!-- MEMES:END -->
+ - 💣 [Duck Hunt. How this worked still is a mystery to me](http://9gag.com/gag/a87V14V)
+ - 😝 [It is a dangerous combination, tall woman and short skirts...](http://9gag.com/gag/ae9RAEB)
+ - 👉 [When you try to show off but end up showing out](http://9gag.com/gag/azx4Mrz)<!-- MEMES:END -->
 
 ---
 

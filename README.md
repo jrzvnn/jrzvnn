@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The German national football team 20 years ago.](http://9gag.com/gag/an7GgjB)
- - 😝 [Time flies when you&#39;re not on Miller&#39;s Planet.](http://9gag.com/gag/amoRPr4)
- - 💣 [Every day at the office.](http://9gag.com/gag/aVvR73n)
- - 😝 [Well.well.well](http://9gag.com/gag/azx41Pz)
- - 👉 [Duck Hunt. How this worked still is a mystery to me](http://9gag.com/gag/a87V14V)<!-- MEMES:END -->
+ - 😝 [More nonsence for your limited brain capacity](http://9gag.com/gag/aPArZRn)
+ - 😝 [Me, when I have been eating street food in India:](http://9gag.com/gag/aYQRoq7)
+ - 💣 [Kinda embarrassing to ask but I\u2019ve been trying to figure out how they built those old stone lighthouses in the middle of the ocean. I\u2019ve watched a few videos but I still haven\u2019t found one that really explains it in a satisfying way.](http://9gag.com/gag/aD2QdwK)
+ - 😝 [Imagine her face when she realized](http://9gag.com/gag/abARrxv)
+ - 👉 [Every day at the office.](http://9gag.com/gag/aVvR73n)<!-- MEMES:END -->
 
 ---
 

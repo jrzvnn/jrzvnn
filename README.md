@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best laptop deals we’ve found for Prime Day &lpar;so far&rpar;](https://www.theverge.com/tech/699521/amazon-prime-day-laptops-notebooks-gaming-apple-lenovo-hp)
  - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
  - [19 Best Prime Day Coffee Maker Deals on Machines, Grinders, and More](https://www.wired.com/story/the-best-prime-day-coffee-deals-1/)
  - [Hertz and other car rental agencies are increasingly relying on scanners that use high-res imaging and AI to flag even tiny blemishes, angering some customers &lpar;Gabe Castro-Root/New York Times&rpar;](http://www.techmeme.com/250709/p28#a250709p28)
- - [Apple TV+ sets September premiere for season four of &#39;The Morning Show&#39;](https://appleinsider.com/articles/25/07/09/apple-tv-sets-september-premiere-for-season-four-of-the-morning-show?utm_medium=rss)
- - [Some Verge-favorite gadgets are cheaper during Prime Day 2025](https://www.theverge.com/tech/699230/best-prime-day-deals-verge-favorites)<!-- TECH:END -->
+ - [Apple TV+ sets September premiere for season four of &#39;The Morning Show&#39;](https://appleinsider.com/articles/25/07/09/apple-tv-sets-september-premiere-for-season-four-of-the-morning-show?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

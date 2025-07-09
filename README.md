@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Not Just Any Prime Day Deals, 220 Obsessively Tested Picks—even $1,200 off an OLED TV](https://www.wired.com/story/best-amazon-prime-deals-july-2025-1/)
+ - [The best Prime Day deals on games, hardware, and accessories](https://www.theverge.com/tech/698696/amazon-prime-day-best-gaming-deals-controllers-headsets-accessories-2025)
  - [Sources: LangChain, which helps developers use off-the-shelf AI models to create new apps, raised $100M led by IVP at a $1.1B valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/250709/p42#a250709p42)
  - [New Prime Day Deals Updated Live—183 Handpicked &amp; Trusted Deals](https://www.wired.com/live/amazon-prime-day-deals-live-in-25-1/)
- - [Sources: Revolut is in talks to raise about $1B of funding via newly issued shares and the sale of some existing stock at a $65B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/250709/p41#a250709p41)
- - [Faster, more comfortable Apple Vision Pro rumored to arrive in 2025](https://appleinsider.com/articles/25/07/09/faster-more-comfortable-apple-vision-pro-rumored-to-arrive-in-2025?utm_medium=rss)
- - [Prime Day Soundbar Deal Alert: Sony Bravia Theater System 6](https://www.wired.com/story/sony-bravia-theater-system-6-prime-day-deal/)<!-- TECH:END -->
+ - [Sources: Revolut is in talks to raise about $1B of funding via newly issued shares and the sale of some existing stock at a $65B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/250709/p41#a250709p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

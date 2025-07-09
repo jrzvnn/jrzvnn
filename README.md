@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple is in talks to acquire US streaming rights for Formula 1 following the success of F1 the Movie, which has grossed ~$300M at the box office &lpar;Financial Times&rpar;](http://www.techmeme.com/250709/p1#a250709p1)
+ - [The 203 best Prime Day 2025 deals that we found](https://www.theverge.com/tech/696641/amazon-prime-day-best-tech-deals-2025)
  - [Millions of China&#39;s gig workers are having to endure record heat waves without legally mandated &quot;heat wave allowances&quot;, cooling breaks, or adequate insurance &lpar;Karoline Kan/Bloomberg&rpar;](http://www.techmeme.com/250708/p35#a250708p35)
  - [How to stop accidentally making audio recordings in Messages](https://appleinsider.com/inside/imessage/tips/how-to-stop-accidentally-making-audio-recordings-in-messages?utm_medium=rss)
- - [Here are 60 Prime Day deals you can nab for $50 or less](https://www.theverge.com/tech/699123/amazon-prime-day-best-cheap-tech-deals-under-50-2025)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, July 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-july-9/#ftag=CAD590a51e)
- - [The best Prime Day deals on charging accessories](https://www.theverge.com/tech/698933/amazon-prime-day-2025-chargers-power-banks-batteries-deal-sale)<!-- TECH:END -->
+ - [Here are 60 Prime Day deals you can nab for $50 or less](https://www.theverge.com/tech/699123/amazon-prime-day-best-cheap-tech-deals-under-50-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

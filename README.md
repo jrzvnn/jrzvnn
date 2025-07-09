@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What exactly are we supposed to ask in a job interview if not about salary, responsibilities, or work culture? This email is a masterclass in corporate absurdity.](http://9gag.com/gag/aQzyoXK)
- - 😝 [+ Skylar + the pizza on the roof](http://9gag.com/gag/awyeByx)
- - 💣 [Meanwhile in Great Britain](http://9gag.com/gag/aD2QDmO)
- - 😝 [More nonsence for your limited brain capacity](http://9gag.com/gag/aPArZRn)
- - 👉 [Me, when I have been eating street food in India:](http://9gag.com/gag/aYQRoq7)<!-- MEMES:END -->
+ - 😝 [Well.well.well](http://9gag.com/gag/azx41Pz)
+ - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/aD2QDmO)
+ - 💣 [God is Deaf](http://9gag.com/gag/an7GgX5)
+ - 😝 [No good deed goes unpunished.](http://9gag.com/gag/aXPRr9v)
+ - 👉 [Every day at the office.](http://9gag.com/gag/aVvR73n)<!-- MEMES:END -->
 
 ---
 

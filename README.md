@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI officially closes its ~$6.5B acquisition of Jony Ive&#39;s startup, which it refers to as io Products, after a trademark suit from hearing device startup Iyo &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250709/p36#a250709p36)
- - [Anker’s new wireless car charger sticks a big flexible tongue to your dashboard](https://www.theverge.com/news/703087/anker-nano-wireless-car-charger-qi2-magsafe)
- - [OpenAI closes its deal to buy Jony Ive’s io and build AI hardware](https://www.theverge.com/news/703114/openai-io-jony-ive-sam-altman-ai-hardware)
- - [OpenAI officially closes its ~$6.5B acquisition of Jony Ive&#39;s startup, which it refers to as io Products, after a trademark suit from hearing device startup Iyo &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250709/p35#a250709p35)
- - [Apple approves &#39;SaruTobi&#39; game for iOS with cryptocurrency in-app purchases](https://appleinsider.com/articles/25/07/09/apple-approves-sarutobi-game-for-ios-with-cryptocurrency-in-app-purchases?utm_medium=rss)<!-- TECH:END -->
+ - [Faster, more comfortable Apple Vision Pro rumored to arrive in 2025](https://appleinsider.com/articles/25/07/09/faster-more-comfortable-apple-vision-pro-rumored-to-arrive-in-2025?utm_medium=rss)
+ - [MaintainX, which makes maintenance and operations software, raised a $150M Series D at a $2.5B valuation, bringing its total funding to $254M &lpar;Ateev Bhandari/Reuters&rpar;](http://www.techmeme.com/250709/p38#a250709p38)
+ - [The 205 Prime Day 2025 deals you can still get](https://www.theverge.com/tech/697594/amazon-prime-day-sale-best-tech-deals-2025)
+ - [The Bezos-funded climate satellite is lost in space](https://www.theverge.com/news/703091/methane-satellite-methanesat-lost-bezos-edf)
+ - [YouTube is updating its monetization guidelines on July 15, defining &quot;inauthentic&quot; content as &quot;mass-produced and repetitious&quot; amid concerns over AI slop &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250709/p37#a250709p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

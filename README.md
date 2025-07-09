@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Appeals court strikes down ‘click-to-cancel’ rule](https://www.theverge.com/news/702398/ftc-click-to-cancel-rule-struck-down-appeals-court)
+ - [Some of our favorite headphones are steeply discounted for Prime Day](https://www.theverge.com/tech/700846/amazon-prime-day-best-noise-canceling-headphone-earbud-deals-2025)
  - [Samsung Galaxy Unpacked 2025: Everything announced at the July event](https://www.theverge.com/news/701144/samsung-galaxy-unpacked-everything-announced-july-event)
  - [The best Prime Day deals on games, hardware, and accessories](https://www.theverge.com/tech/698696/amazon-prime-day-best-gaming-deals-controllers-headsets-accessories-2025)
- - [ServiceUp, a vehicle repair process automation startup, raised a $55M Series B led by PeakSpan Capital, taking its total funding to nearly $70M &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/250709/p16#a250709p16)
- - [Here are 60 Prime Day deals you can nab for $50 or less](https://www.theverge.com/tech/699123/amazon-prime-day-best-cheap-tech-deals-under-50-2025)
- - [Ikea&#39;s new Matter-over-Thread smart home gear will work with HomeKit](https://appleinsider.com/articles/25/07/09/ikeas-new-matter-over-thread-smart-home-gear-will-work-with-homekit?utm_medium=rss)<!-- TECH:END -->
+ - [ServiceUp, a vehicle repair process automation startup, raised a $55M Series B led by PeakSpan Capital, taking its total funding to nearly $70M &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/250709/p16#a250709p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

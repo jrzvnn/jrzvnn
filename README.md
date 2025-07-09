@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple approves &#39;SaruTobi&#39; game for iOS with cryptocurrency in-app purchases](https://appleinsider.com/articles/25/07/09/apple-approves-sarutobi-game-for-ios-with-cryptocurrency-in-app-purchases?utm_medium=rss)
+ - [Sources: Apple is planning the first Vision Pro upgrade later in 2025, with an M4 chip and a new strap, and a lighter, redesigned version for 2027 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250709/p34#a250709p34)
+ - [Prime Day MacBook Air deals deliver prices as low as $599](https://appleinsider.com/articles/25/07/09/prime-day-macbook-air-deals-deliver-prices-as-low-as-599?utm_medium=rss)
  - [Microsoft announces a $4B commitment in cash and tech to support AI education in schools and more, and starts Elevate Academy, an AI training program for adults &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/250709/p33#a250709p33)
- - [Perplexity just launched an AI web browser](https://www.theverge.com/news/703037/perplexity-ai-web-browser-comet-launch)
- - [Turkey blocks Grok over offensive responses about President Erdogan and Ataturk; Poland plans to report Grok to the EU for offensive posts about Donald Tusk &lpar;Elçin Poyrazlar/Politico&rpar;](http://www.techmeme.com/250709/p32#a250709p32)
- - [The best fitness tracker and smartwatch Prime Day deals](https://www.theverge.com/tech/702080/amazon-prime-day-best-fitness-tracker-smartwatch-deals-2025)
- - [Elon Musk addresses Grok&#39;s antisemitic posts, says it was &quot;too compliant to user prompts&quot; and &quot;too eager to please and be manipulated, essentially&quot; &lpar;Herb Scribner/Axios&rpar;](http://www.techmeme.com/250709/p31#a250709p31)<!-- TECH:END -->
+ - [Perplexity just launched an AI web browser](https://www.theverge.com/news/703037/perplexity-ai-web-browser-comet-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

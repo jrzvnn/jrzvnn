@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remembering the good old days of napping anywhere but where you&#39;re supposed to.](http://9gag.com/gag/aKGK6YW)
- - 😝 [Wait, you guys get invited to parties?](http://9gag.com/gag/a34NEgQ)
- - 💣 [Valve is one of the few companies that keep an access to their `dead` games. Even games like Artifact and CS:GO are still playable. So, it&#39;s no wonder that they are not against the petition.](http://9gag.com/gag/a9yDRQj)
- - 😝 [Oh no...anyway](http://9gag.com/gag/aD2QDg7)
- - 👉 [Don&#39;t worry, it&#39;ll sort itself out](http://9gag.com/gag/aBy42bz)<!-- MEMES:END -->
+ - 😝 [More nonsence for your limited brain capacity](http://9gag.com/gag/aPArZRn)
+ - 😝 [Great... Very professional....](http://9gag.com/gag/aKGKdyb)
+ - 💣 [Well.well.well](http://9gag.com/gag/azx41Pz)
+ - 😝 [Every day at the office.](http://9gag.com/gag/aVvR73n)
+ - 👉 [Why is there a hole in the glass?](http://9gag.com/gag/aYQRy3v)<!-- MEMES:END -->
 
 ---
 

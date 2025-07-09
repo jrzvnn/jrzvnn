@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Duck Hunt. How this worked still is a mystery to me](http://9gag.com/gag/a87V14V)
- - 😝 [Tell me this isn&#39;t true .](http://9gag.com/gag/a2vOKRw)
- - 💣 [I think it was worth a try](http://9gag.com/gag/aVvR70M)
  - 😝 [I think its great](http://9gag.com/gag/a6ZGE98)
+ - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/aD2QDmO)
+ - 💣 [Test? And take](http://9gag.com/gag/ae9Rg5m)
+ - 😝 [Tell me this isn&#39;t true .](http://9gag.com/gag/a2vOKRw)
  - 👉 [25 years ago Alizee broke our minds with `Moi...Lolita`](http://9gag.com/gag/ae9RAPm)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 35 best Prime Day deals you can get for under $25](https://www.theverge.com/tech/701774/amazon-prime-day-best-cheap-tech-deals-under-25-2025)
+ - [The ‘Click-to-Cancel’ Rule Was Killed, but Consumer Advocates Could Revive It](https://www.wired.com/story/ftc-click-to-cancel-rule-killed-consumer-advocates-could-revive-it/)
  - [Israeli VC firm Cyberstarts has raised a $300M fund to allow long-time employees at some of its portfolio companies to cash out their vested shares &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250709/p46#a250709p46)
  - [a16z moves its state of incorporation to Nevada, saying Delaware&#39;s Court of Chancery &quot;can at times appear biased against technology startup founders&quot; &lpar;Andreessen Horowitz&rpar;](http://www.techmeme.com/250709/p45#a250709p45)
- - [How to Marvel at the Spectacular Buck Moon This Week, Along With Mars and Venus](https://www.cnet.com/science/space/how-to-marvel-at-the-spectacular-buck-moon-this-week-along-with-mars-and-venus/#ftag=CAD590a51e)
- - [An OpenAI Web Browser Is Imminent, Report Says. That Would Really Shake Up the Web](https://www.cnet.com/tech/services-and-software/an-openai-web-browser-is-imminent-report-says-that-would-really-shake-up-the-web/#ftag=CAD590a51e)
- - [The Columbia hack is a much bigger deal than Mamdani’s college application](https://www.theverge.com/analysis/703232/columbia-hack-admissions-data-mamdani)<!-- TECH:END -->
+ - [How to Marvel at the Spectacular Buck Moon This Week, Along With Mars and Venus](https://www.cnet.com/science/space/how-to-marvel-at-the-spectacular-buck-moon-this-week-along-with-mars-and-venus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

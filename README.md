@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The famous sample from Linkin Park&#39;s Faint](http://9gag.com/gag/aD2QYKK)
- - 😝 [We can have functional solar panels in our cities or immigrants - we cannot have both.](http://9gag.com/gag/aNDjp60)
- - 💣 [Don&#39;t Skip Leg Day](http://9gag.com/gag/a1mOW4b)
- - 😝 [Telling normal women they look like trans women, look how offended they get](http://9gag.com/gag/avy9yOb)
- - 👉 [Hi\u2026 Bye\u2026](http://9gag.com/gag/a5Q5WnE)<!-- MEMES:END -->
+ - 😝 [When you try to show off but end up showing out](http://9gag.com/gag/azx4Mrz)
+ - 😝 [Tell me this isn&#39;t true .](http://9gag.com/gag/a2vOKRw)
+ - 💣 [Test? And take](http://9gag.com/gag/ae9Rg5m)
+ - 😝 [25 years ago Alizee broke our minds with `Moi...Lolita`](http://9gag.com/gag/ae9RAPm)
+ - 👉 [Meanwhile in Great Britain](http://9gag.com/gag/aD2QDmO)<!-- MEMES:END -->
 
 ---
 

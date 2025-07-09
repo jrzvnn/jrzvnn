@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [One of My Favorite Gaming Laptops Gets a Serious Prime Day Cut](https://www.wired.com/story/best-prime-day-gaming-laptop-deal/)
+ - [The Petkit Purobox Ultra is $250 off for Prime Day](https://www.wired.com/story/petkit-purobot-ultra-prime-day-sale/)
  - [16 Best Prime Day Fitness Tracker Deals and Smart Ring Sales &lpar;2025&rpar;](https://www.wired.com/story/prime-day-tracker-and-ring-2025-1/)
  - [OpenAI &amp; Jony Ive&#39;s io Products merger is done](https://appleinsider.com/articles/25/07/09/openai-jony-ives-io-products-merger-is-done?utm_medium=rss)
- - [The best Prime Day smart home deals we found](https://www.theverge.com/amazon-prime-day-deals-tech/699919/best-smart-home-deals-amazon-prime-day)
- - [Prime Day Alert: TCL&#39;s Brilliant QM6K Is at Its Lowest Price Ever](https://www.wired.com/story/tcl-qm6k-prime-day-tv-deal/)
- - [Amazon’s best Kindles are cheaper than ever during Prime Day](https://www.theverge.com/tech/697975/amazon-prime-day-kindle-deal-paperwhite-colorsoft-sale-2025)<!-- TECH:END -->
+ - [Anti-Prime Day Laptop Deal: My Go-to Acer Aspire 14 AI Is $200 Off at Costco Today](https://www.cnet.com/deals/anti-prime-day-laptop-deal-my-go-to-acer-aspire-14-ai-is-200-off-at-costco-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

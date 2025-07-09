@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t worry, it&#39;ll sort itself out](http://9gag.com/gag/aBy42bz)
- - 😝 [We can have functional solar panels in our cities or immigrants - we cannot have both.](http://9gag.com/gag/aNDjp60)
- - 💣 [Don&#39;t Skip Leg Day](http://9gag.com/gag/a1mOW4b)
- - 😝 [A Gift from Terry](http://9gag.com/gag/aRBREo5)
- - 👉 [The famous sample from Linkin Park&#39;s Faint](http://9gag.com/gag/aD2QYKK)<!-- MEMES:END -->
+ - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/aD2QDmO)
+ - 😝 [Seven engineers in India have lost their jobs for building a highway bridge with a 90-degree turn. And the construction company has been blacklisted. Authorities spent $2.3 million on the bridge. Now everything needs to be rebuilt.](http://9gag.com/gag/aD2QD1G)
+ - 💣 [Why are you still talking about Epstein?](http://9gag.com/gag/aVvRxey)
+ - 😝 [God is Deaf](http://9gag.com/gag/an7GgX5)
+ - 👉 [Test? And take](http://9gag.com/gag/ae9Rg5m)<!-- MEMES:END -->
 
 ---
 

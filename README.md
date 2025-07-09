@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The homeowner association rules are truly wild. Imagine being fined for a frog figurine.](http://9gag.com/gag/agmKBOw)
+ - 😝 [No good deed goes unpunished.](http://9gag.com/gag/aXPRr9v)
+ - 😝 [London in one video](http://9gag.com/gag/ajPR53x)
+ - 💣 [More nonsence for your limited brain capacity](http://9gag.com/gag/aPArZRn)
  - 😝 [This dude patience is admirable and should be bottled up because ....](http://9gag.com/gag/ae9RgM5)
- - 💣 [Imagine her face when she realized](http://9gag.com/gag/abARrxv)
- - 😝 [God is Deaf](http://9gag.com/gag/an7GgX5)
- - 👉 [Duck Hunt. How this worked still is a mystery to me](http://9gag.com/gag/a87V14V)<!-- MEMES:END -->
+ - 👉 [Kinda embarrassing to ask but I\u2019ve been trying to figure out how they built those old stone lighthouses in the middle of the ocean. I\u2019ve watched a few videos but I still haven\u2019t found one that really explains it in a satisfying way.](http://9gag.com/gag/aD2QdwK)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One of My Favorite Gaming Laptops Gets a Serious Prime Day Cut](https://www.wired.com/story/best-prime-day-gaming-laptop-deal/)
- - [The Petkit Purobox Ultra is $250 off for Prime Day](https://www.wired.com/story/petkit-purobot-ultra-prime-day-sale/)
- - [16 Best Prime Day Fitness Tracker Deals and Smart Ring Sales &lpar;2025&rpar;](https://www.wired.com/story/prime-day-tracker-and-ring-2025-1/)
- - [OpenAI &amp; Jony Ive&#39;s io Products merger is done](https://appleinsider.com/articles/25/07/09/openai-jony-ives-io-products-merger-is-done?utm_medium=rss)
- - [Anti-Prime Day Laptop Deal: My Go-to Acer Aspire 14 AI Is $200 Off at Costco Today](https://www.cnet.com/deals/anti-prime-day-laptop-deal-my-go-to-acer-aspire-14-ai-is-200-off-at-costco-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Columbia hack is a much bigger deal than Mamdani’s college application](https://www.theverge.com/analysis/703232/columbia-hack-admissions-data-mamdani)
+ - [Some of our favorite headphones are steeply discounted for Prime Day](https://www.theverge.com/tech/700846/amazon-prime-day-best-noise-canceling-headphone-earbud-deals-2025)
+ - [The best Apple deals available for Amazon Prime Day 2025](https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals)
+ - [Apple’s second-generation Vision Pro might launch this year](https://www.theverge.com/news/703364/apple-vision-pro-second-gen-release-rumor)
+ - [In an internal Meta essay, an outgoing AI researcher says a &quot;culture of fear&quot;, with performance reviews and layoffs, is spreading like &quot;a metastatic cancer&quot; &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/250709/p44#a250709p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers: the Anatsa banking trojan snuck into Google Play once again via an app disguised as a PDF viewer, which had 50K+ downloads before Google removed it &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250709/p9#a250709p9)
  - [Researchers detail All-Topographic Neural Networks, claiming they better mimic human spatial biases and consume less energy than other machine vision networks &lpar;Matthew S. Smith/IEEE Spectrum&rpar;](http://www.techmeme.com/250709/p8#a250709p8)
+ - [I Will Text You the Best Prime Day Deals Directly to Your Phone -- for Free](https://www.cnet.com/tech/services-and-software/i-will-text-you-the-best-prime-day-deals-directly-to-your-phone-for-free/#ftag=CAD590a51e)
  - [ThinkBroadband: 78% of UK properties have access to full-fiber broadband, up from 12% in January 2020, which experts credit to Ofcom&#39;s 2021 pro-competition push &lpar;Financial Times&rpar;](http://www.techmeme.com/250709/p7#a250709p7)
- - [Beats headphones &amp; earbuds on sale with Prime Day savings up to 53% off](https://appleinsider.com/articles/25/07/09/beats-headphones-earbuds-on-sale-with-prime-day-savings-up-to-53-off?utm_medium=rss)
- - [A look at Yahoo Creators, launched in March 2024, offering creators a 50/50 ad revenue split for posting original written content, with 135 creators signed up &lpar;Digiday&rpar;](http://www.techmeme.com/250709/p6#a250709p6)
- - [CA State Senator Scott Wiener releases amendments to SB 53, which has transparency requirements for AI companies but omits SB 1047&#39;s provision on liability &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250709/p5#a250709p5)<!-- TECH:END -->
+ - [Beats headphones &amp; earbuds on sale with Prime Day savings up to 53% off](https://appleinsider.com/articles/25/07/09/beats-headphones-earbuds-on-sale-with-prime-day-savings-up-to-53-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

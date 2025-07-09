@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [25 years ago Alizee broke our minds with `Moi...Lolita`](http://9gag.com/gag/ae9RAPm)
- - 😝 [Imagine her face when she realized](http://9gag.com/gag/abARrxv)
- - 💣 [The moment she realized why kids made fun of her name](http://9gag.com/gag/aVvRw9M)
- - 😝 [Nobody was prepared for this](http://9gag.com/gag/aNDj0jr)
- - 👉 [Duck Hunt. How this worked still is a mystery to me](http://9gag.com/gag/a87V14V)<!-- MEMES:END -->
+ - 😝 [Wait, you guys get invited to parties?](http://9gag.com/gag/a34NEgQ)
+ - 😝 [Remembering the good old days of napping anywhere but where you&#39;re supposed to.](http://9gag.com/gag/aKGK6YW)
+ - 💣 [Oh no...anyway](http://9gag.com/gag/aD2QDg7)
+ - 😝 [Valve is one of the few companies that keep an access to their `dead` games. Even games like Artifact and CS:GO are still playable. So, it&#39;s no wonder that they are not against the petition.](http://9gag.com/gag/a9yDRQj)
+ - 👉 [Don&#39;t worry, it&#39;ll sort itself out](http://9gag.com/gag/aBy42bz)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I think its great](http://9gag.com/gag/a6ZGE98)
- - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/aD2QDmO)
- - 💣 [Test? And take](http://9gag.com/gag/ae9Rg5m)
- - 😝 [Tell me this isn&#39;t true .](http://9gag.com/gag/a2vOKRw)
- - 👉 [25 years ago Alizee broke our minds with `Moi...Lolita`](http://9gag.com/gag/ae9RAPm)<!-- MEMES:END -->
+ - 😝 [Oh no...anyway](http://9gag.com/gag/aD2QDg7)
+ - 😝 [Don&#39;t worry, it&#39;ll sort itself out](http://9gag.com/gag/aBy42bz)
+ - 💣 [We can have functional solar panels in our cities or immigrants - we cannot have both.](http://9gag.com/gag/aNDjp60)
+ - 😝 [Don&#39;t Skip Leg Day](http://9gag.com/gag/a1mOW4b)
+ - 👉 [A Gift from Terry](http://9gag.com/gag/aRBREo5)<!-- MEMES:END -->
 
 ---
 

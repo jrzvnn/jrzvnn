@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple says COO Jeff Williams will retire later this year, and Sabih Khan, Apple&#39;s SVP of Operations, will take over much of his role later this month &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250708/p33#a250708p33)
- - [Grok Is Spewing Antisemitic Garbage on X](https://www.wired.com/story/grok-antisemitic-posts-x-xai/)
- - [Apple says its design team will report to Tim Cook after Jeff Williams retires; Williams was overseeing the team following Evans Hankey&#39;s departure in 2023 &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250708/p32#a250708p32)
- - [Apple reportedly developing an AI assistant for its Support app](https://appleinsider.com/articles/25/07/08/apple-reportedly-developing-an-ai-assistant-for-its-support-app?utm_medium=rss)
- - [Confirmed: Nintendo’s Switch 2 can work with existing docks and webcams after replacing their firmware](https://www.theverge.com/nintendo/701381/confirmed-nintendos-switch-2-can-work-with-existing-docks-and-webcams-after-replacing-their-firmware)<!-- TECH:END -->
+ - [Eero 7 Max mesh router review: The best kind of Wi-Fi overkill](https://appleinsider.com/articles/25/07/09/eero-7-max-mesh-router-review-the-best-kind-of-wi-fi-overkill?utm_medium=rss)
+ - [Grok stops posting text after flood of antisemitism and Hitler praise](https://www.theverge.com/news/701884/grok-antisemitic-hitler-posts-elon-musk-x-xai)
+ - [Some of our favorite headphones are steeply discounted for Prime Day](https://www.theverge.com/tech/700846/amazon-prime-day-best-noise-canceling-headphone-earbud-deals-2025)
+ - [LIVE Amazon Prime Day 2025: We&#39;re Tracking Deals &amp; Trends All Day](https://www.wired.com/live/amazon-prime-day-deals-live-in-25/)
+ - [Apple says COO Jeff Williams will retire later this year, and Sabih Khan, Apple&#39;s SVP of Operations, will take over much of his role later this month &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250708/p33#a250708p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh no...anyway](http://9gag.com/gag/aD2QDg7)
- - 😝 [Wait, you guys get invited to parties?](http://9gag.com/gag/a34NEgQ)
- - 💣 [Valve is one of the few companies that keep an access to their `dead` games. Even games like Artifact and CS:GO are still playable. So, it&#39;s no wonder that they are not against the petition.](http://9gag.com/gag/a9yDRQj)
- - 😝 [Playing with my sticky balls at night](http://9gag.com/gag/aRBRrXB)
- - 👉 [Don&#39;t worry, it&#39;ll sort itself out](http://9gag.com/gag/aBy42bz)<!-- MEMES:END -->
+ - 😝 [When the police are just as confused as you are about the missing people and the sudden wealth.](http://9gag.com/gag/awyeoND)
+ - 😝 [When the bottle is made of vibranium.](http://9gag.com/gag/a4PwQNm)
+ - 💣 [Nobody was prepared for this](http://9gag.com/gag/aNDj0jr)
+ - 😝 [Who drop it](http://9gag.com/gag/aVvRYoM)
+ - 👉 [Why is there a hole in the glass?](http://9gag.com/gag/aYQRy3v)<!-- MEMES:END -->
 
 ---
 

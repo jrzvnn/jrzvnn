@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Prime Day deals on games, hardware, and accessories](https://www.theverge.com/tech/698696/amazon-prime-day-best-gaming-deals-controllers-headsets-accessories-2025)
+ - [The Powerbeats Pro 2 are down to their best price yet for Prime Day](https://www.theverge.com/tech/703235/amazon-prime-day-beats-powerbeats-pro-2-earbuds-deal-sale-2025)
+ - [Sources: Groq has talked with investors about raising $300M to $500M at a $6B post-investment valuation, which would double its $2.8B valuation from August 2024 &lpar;The Information&rpar;](http://www.techmeme.com/250709/p49#a250709p49)
  - [Sources: Meta offered Ruoming Pang a $200M+ pay package over a several-year period in line with Meta&#39;s other major AI hires; Apple didn&#39;t try to match the offer &lpar;Bloomberg&rpar;](http://www.techmeme.com/250709/p48#a250709p48)
- - [The best Apple deals available for Amazon Prime Day 2025](https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals)
- - [iCloud Passwords autofill now available in Firefox for Windows](https://appleinsider.com/articles/25/07/09/icloud-passwords-autofill-now-available-in-firefox-for-windows?utm_medium=rss)
- - [A German court ruled Meta&#39;s tracking pixels embedded in third-party websites and apps violate the EU&#39;s GDPR, ordering it to pay €5,000 to a German Facebook user &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/250709/p47#a250709p47)
- - [Sony’s Brand New Flagship Headphones Are on Sale for Prime Day](https://www.wired.com/story/sony-wh-1000xm6-prime-day-sale/)<!-- TECH:END -->
+ - [The best Apple deals available for Amazon Prime Day 2025](https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

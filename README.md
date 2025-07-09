@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [a16z moves its state of incorporation to Nevada, saying Delaware&#39;s Court of Chancery &quot;can at times appear biased against technology startup founders&quot; &lpar;Andreessen Horowitz&rpar;](http://www.techmeme.com/250709/p45#a250709p45)
  - [The Columbia hack is a much bigger deal than Mamdani’s college application](https://www.theverge.com/analysis/703232/columbia-hack-admissions-data-mamdani)
  - [Some of our favorite headphones are steeply discounted for Prime Day](https://www.theverge.com/tech/700846/amazon-prime-day-best-noise-canceling-headphone-earbud-deals-2025)
  - [The best Apple deals available for Amazon Prime Day 2025](https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals)
- - [Apple’s second-generation Vision Pro might launch this year](https://www.theverge.com/news/703364/apple-vision-pro-second-gen-release-rumor)
- - [In an internal Meta essay, an outgoing AI researcher says a &quot;culture of fear&quot;, with performance reviews and layoffs, is spreading like &quot;a metastatic cancer&quot; &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/250709/p44#a250709p44)<!-- TECH:END -->
+ - [Apple’s second-generation Vision Pro might launch this year](https://www.theverge.com/news/703364/apple-vision-pro-second-gen-release-rumor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No good deed goes unpunished.](http://9gag.com/gag/aXPRr9v)
- - 😝 [London in one video](http://9gag.com/gag/ajPR53x)
- - 💣 [More nonsence for your limited brain capacity](http://9gag.com/gag/aPArZRn)
- - 😝 [This dude patience is admirable and should be bottled up because ....](http://9gag.com/gag/ae9RgM5)
- - 👉 [Kinda embarrassing to ask but I\u2019ve been trying to figure out how they built those old stone lighthouses in the middle of the ocean. I\u2019ve watched a few videos but I still haven\u2019t found one that really explains it in a satisfying way.](http://9gag.com/gag/aD2QdwK)<!-- MEMES:END -->
+ - 😝 [Remembering the good old days of napping anywhere but where you&#39;re supposed to.](http://9gag.com/gag/aKGK6YW)
+ - 😝 [Wait, you guys get invited to parties?](http://9gag.com/gag/a34NEgQ)
+ - 💣 [Valve is one of the few companies that keep an access to their `dead` games. Even games like Artifact and CS:GO are still playable. So, it&#39;s no wonder that they are not against the petition.](http://9gag.com/gag/a9yDRQj)
+ - 😝 [Oh no...anyway](http://9gag.com/gag/aD2QDg7)
+ - 👉 [Don&#39;t worry, it&#39;ll sort itself out](http://9gag.com/gag/aBy42bz)<!-- MEMES:END -->
 
 ---
 

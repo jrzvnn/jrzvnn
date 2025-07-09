@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [9 Best Prime Day Fitness Tracker Deals and Smart Ring Sales &lpar;2025&rpar;](https://www.wired.com/story/prime-day-tracker-and-ring-2025-1/)
- - [Prime Day Picks From People Who Obsessively Test Gear &amp; Track Prices](https://www.wired.com/story/best-amazon-prime-deals-july-2025-1/)
- - [Thread count: Ikea is stitching together a smarter home](https://www.theverge.com/smart-home/701697/ikea-matter-thread-new-products-new-smart-home-strategy)
- - [Ikea’s latest speaker lamp ditches Sonos for Spotify and inexpensive Bluetooth](https://www.theverge.com/news/702104/ikeas-latest-speaker-lamp-ditches-sonos-for-spotify-and-inexpensive-bluetooth)
- - [Researchers: the Anatsa banking trojan snuck into Google Play once again via an app disguised as a PDF viewer, which had 50K+ downloads before Google removed it &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250709/p9#a250709p9)<!-- TECH:END -->
+ - [Apple supplier Lens Technology, one of the top smartphone part makers, raised ~$608M in its Hong Kong IPO, as the Chinese company looks to expand overseas &lpar;Peggy Ye/Nikkei Asia&rpar;](http://www.techmeme.com/250709/p10#a250709p10)
+ - [Amazon Prime Day 2025 LIVE: We&#39;re Tracking Deals &amp; Trends Today](https://www.wired.com/live/amazon-prime-day-deals-live-in-25/)
+ - [Activision pulls Call of Duty game after PC players are hacked](https://www.theverge.com/news/702255/call-of-duty-wwii-pc-game-pass-hacking-activision)
+ - [Best Prime Day Laptop Deals 2025: MacBooks, Chromebooks, and More](https://www.wired.com/story/best-prime-day-laptop-deals-2025-1/)
+ - [9 Best Prime Day Fitness Tracker Deals and Smart Ring Sales &lpar;2025&rpar;](https://www.wired.com/story/prime-day-tracker-and-ring-2025-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

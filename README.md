@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No good deed goes unpunished.](http://9gag.com/gag/aXPRr9v)
- - 😝 [Every day at the office.](http://9gag.com/gag/aVvR73n)
- - 💣 [More nonsence for your limited brain capacity](http://9gag.com/gag/aPArZRn)
- - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/aD2QDmO)
- - 👉 [Seven engineers in India have lost their jobs for building a highway bridge with a 90-degree turn. And the construction company has been blacklisted. Authorities spent $2.3 million on the bridge. Now everything needs to be rebuilt.](http://9gag.com/gag/aD2QD1G)<!-- MEMES:END -->
+ - 😝 [Should be at every corner](http://9gag.com/gag/awyeye1)
+ - 😝 [We can have functional solar panels in our cities or immigrants - we cannot have both.](http://9gag.com/gag/aNDjp60)
+ - 💣 [Don&#39;t Skip Leg Day](http://9gag.com/gag/a1mOW4b)
+ - 😝 [A Gift from Terry](http://9gag.com/gag/aRBREo5)
+ - 👉 [Our boy looking Good and HEALTHY again!!! Who&#39;s ready for the Mummy 4.](http://9gag.com/gag/an7GQp0)<!-- MEMES:END -->
 
 ---
 

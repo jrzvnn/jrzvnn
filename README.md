@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Yahoo Creators, launched in March 2024, offering creators a 50/50 ad revenue split for posting original written content and has signed up 135 creators &lpar;Digiday&rpar;](http://www.techmeme.com/250709/p6#a250709p6)
  - [CA state Senator Scott Wiener releases amendments to SB 53, which has transparency requirements for AI companies but omits SB 1047&#39;s provision on liability &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250709/p5#a250709p5)
  - [Federal prosecutors accuse two US men of operating and promoting OmegaPro, a crypto multi-level marketing scheme that allegedly defrauded victims of $650M+ &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250709/p4#a250709p4)
  - [An over $242M Polymarket bet on whether President Zelenskyy would wear a suit before July closed as &quot;No&quot; despite claims he did, raising governance concerns &lpar;Sebastian Sinclair/Decrypt&rpar;](http://www.techmeme.com/250709/p3#a250709p3)
- - [Qantas confirms personal info of 5.7M customers were held on the system compromised in a recent cyberattack, including names, email addresses, and phone numbers &lpar;Stephanie Chalmers/ABC&rpar;](http://www.techmeme.com/250709/p2#a250709p2)
- - [The best laptop deals we’ve found for Prime Day &lpar;so far&rpar;](https://www.theverge.com/tech/699521/amazon-prime-day-laptops-notebooks-gaming-apple-lenovo-hp)<!-- TECH:END -->
+ - [Qantas confirms personal info of 5.7M customers were held on the system compromised in a recent cyberattack, including names, email addresses, and phone numbers &lpar;Stephanie Chalmers/ABC&rpar;](http://www.techmeme.com/250709/p2#a250709p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

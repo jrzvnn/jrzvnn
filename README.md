@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are 58 Prime Day deals you can nab for $50 or less](https://www.theverge.com/tech/699123/amazon-prime-day-best-cheap-tech-deals-under-50-2025)
+ - [Source: Microsoft&#39;s Chief Commercial Officer said during a presentation that AI saved Microsoft $500M+ last year in its call centers and increased satisfaction &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250709/p43#a250709p43)
+ - [Dyson&#39;s V15 Detect Is $200 Off for Prime Day &lpar;2025&rpar;](https://www.wired.com/story/dyson-v15-detect-prime-day-sale/)
  - [Not Just Any Prime Day Deals, 220 Obsessively Tested Picks—even $1,200 off an OLED TV](https://www.wired.com/story/best-amazon-prime-deals-july-2025-1/)
- - [The best Prime Day deals on games, hardware, and accessories](https://www.theverge.com/tech/698696/amazon-prime-day-best-gaming-deals-controllers-headsets-accessories-2025)
- - [Sources: LangChain, which helps developers use off-the-shelf AI models to create new apps, raised $100M led by IVP at a $1.1B valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/250709/p42#a250709p42)
- - [New Prime Day Deals Updated Live—183 Handpicked &amp; Trusted Deals](https://www.wired.com/live/amazon-prime-day-deals-live-in-25-1/)
- - [Sources: Revolut is in talks to raise about $1B of funding via newly issued shares and the sale of some existing stock at a $65B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/250709/p41#a250709p41)<!-- TECH:END -->
+ - [The best Prime Day deals on games, hardware, and accessories](https://www.theverge.com/tech/698696/amazon-prime-day-best-gaming-deals-controllers-headsets-accessories-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

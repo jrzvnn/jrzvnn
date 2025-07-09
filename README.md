@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [13 Best Prime Day Pet Deals on Amazon &lpar;2025&rpar;](https://www.wired.com/story/prime-day-pet-deals-2025/)
- - [X CEO Linda Yaccarino says that &quot;after two incredible years, I&#39;ve decided to step down&quot;; X hired Yaccarino in 2023 after running NBCUniversal&#39;s ad business &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250709/p26#a250709p26)
- - [Apple wants to update boxed Macs in store like it does for iPhone](https://appleinsider.com/articles/25/07/09/apple-wants-to-update-boxed-macs-in-store-like-it-does-for-iphone?utm_medium=rss)
- - [Best 10 Prime Day Kitchen Deals &lpar;2025&rpar;: Breville, Ooni, Oxo](https://www.wired.com/story/prime-day-kitchen-deals-july-2025/)
- - [Samsung&#39;s new Galaxy Z Fold7 and Z Flip7 will be the first smartphones to ship with Android 16, and the Watch 8 Series will be the first to ship with Wear OS 6 &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/250709/p25#a250709p25)<!-- TECH:END -->
+ - [Samsung Galaxy Unpacked 2025: the 7 biggest announcements](https://www.theverge.com/news/702428/samsung-galaxy-unpacked-2025-biggest-announcements-fold-flip)
+ - [Unsurprisingly, iPhone 17 rumored to come in four colors including blue](https://appleinsider.com/articles/25/07/09/unsurprisingly-iphone-17-rumored-to-come-in-four-colors-including-blue?utm_medium=rss)
+ - [Samsung cuts price of its foldables with the Z Flip 7 FE](https://www.theverge.com/news/702499/samsung-galaxy-z-flip-7-fe-price-availability)
+ - [Battle of the leakers: iPhone 17 Air may get binned A19 Pro chip, it may not](https://appleinsider.com/articles/25/07/09/battle-of-the-leakers-iphone-17-air-may-get-binned-a19-pro-chip-it-may-not?utm_medium=rss)
+ - [X CEO Linda Yaccarino is stepping down after two years](https://www.theverge.com/news/702653/x-ceo-linda-yaccarino-elon-musk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

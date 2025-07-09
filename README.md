@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We can have functional solar panels in our cities or immigrants - we cannot have both.](http://9gag.com/gag/aNDjp60)
- - 😝 [Don&#39;t Skip Leg Day](http://9gag.com/gag/a1mOW4b)
- - 💣 [Just as I pirated this meme.](http://9gag.com/gag/aVvRvdn)
- - 😝 [A Gift from Terry](http://9gag.com/gag/aRBREo5)
- - 👉 [The famous sample from Linkin Park&#39;s Faint](http://9gag.com/gag/aD2QYKK)<!-- MEMES:END -->
+ - 😝 [Should be at every corner](http://9gag.com/gag/awyeye1)
+ - 😝 [Test? And take](http://9gag.com/gag/ae9Rg5m)
+ - 💣 [God is Deaf](http://9gag.com/gag/an7GgX5)
+ - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/aD2QDmO)
+ - 👉 [The German national football team 20 years ago.](http://9gag.com/gag/an7GgjB)<!-- MEMES:END -->
 
 ---
 

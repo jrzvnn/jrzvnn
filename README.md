@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh no...anyway](http://9gag.com/gag/aD2QDg7)
- - 😝 [Don&#39;t worry, it&#39;ll sort itself out](http://9gag.com/gag/aBy42bz)
- - 💣 [We can have functional solar panels in our cities or immigrants - we cannot have both.](http://9gag.com/gag/aNDjp60)
- - 😝 [Don&#39;t Skip Leg Day](http://9gag.com/gag/a1mOW4b)
- - 👉 [A Gift from Terry](http://9gag.com/gag/aRBREo5)<!-- MEMES:END -->
+ - 😝 [Seven engineers in India have lost their jobs for building a highway bridge with a 90-degree turn. And the construction company has been blacklisted. Authorities spent $2.3 million on the bridge. Now everything needs to be rebuilt.](http://9gag.com/gag/aD2QD1G)
+ - 😝 [When you try to show off but end up showing out](http://9gag.com/gag/azx4Mrz)
+ - 💣 [Test? And take](http://9gag.com/gag/ae9Rg5m)
+ - 😝 [It is a dangerous combination, tall woman and short skirts...](http://9gag.com/gag/ae9RAEB)
+ - 👉 [Duck Hunt. How this worked still is a mystery to me](http://9gag.com/gag/a87V14V)<!-- MEMES:END -->
 
 ---
 

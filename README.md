@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Que bueno que lo que nos gusta es ver hombres ricos.](http://9gag.com/gag/a0eO79n)
- - 😝 [More nonsence for your limited brain capacity](http://9gag.com/gag/aPArZRn)
- - 💣 [I think it was worth a try](http://9gag.com/gag/aVvR70M)
- - 😝 [God is Deaf](http://9gag.com/gag/an7GgX5)
- - 👉 [Seven engineers in India have lost their jobs for building a highway bridge with a 90-degree turn. And the construction company has been blacklisted. Authorities spent $2.3 million on the bridge. Now everything needs to be rebuilt.](http://9gag.com/gag/aD2QD1G)<!-- MEMES:END -->
+ - 😝 [We can have functional solar panels in our cities or immigrants - we cannot have both.](http://9gag.com/gag/aNDjp60)
+ - 😝 [Don&#39;t Skip Leg Day](http://9gag.com/gag/a1mOW4b)
+ - 💣 [Just as I pirated this meme.](http://9gag.com/gag/aVvRvdn)
+ - 😝 [A Gift from Terry](http://9gag.com/gag/aRBREo5)
+ - 👉 [The famous sample from Linkin Park&#39;s Faint](http://9gag.com/gag/aD2QYKK)<!-- MEMES:END -->
 
 ---
 

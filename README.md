@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [More nonsence for your limited brain capacity](http://9gag.com/gag/aPArZRn)
- - 😝 [Great... Very professional....](http://9gag.com/gag/aKGKdyb)
- - 💣 [Well.well.well](http://9gag.com/gag/azx41Pz)
  - 😝 [Every day at the office.](http://9gag.com/gag/aVvR73n)
- - 👉 [Why is there a hole in the glass?](http://9gag.com/gag/aYQRy3v)<!-- MEMES:END -->
+ - 😝 [Me, when I have been eating street food in India:](http://9gag.com/gag/aYQRoq7)
+ - 💣 [Imagine her face when she realized](http://9gag.com/gag/abARrxv)
+ - 😝 [More nonsence for your limited brain capacity](http://9gag.com/gag/aPArZRn)
+ - 👉 [25 years ago Alizee broke our minds with `Moi...Lolita`](http://9gag.com/gag/ae9RAPm)<!-- MEMES:END -->
 
 ---
 

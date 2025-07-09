@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Removing a beaver dam is a tough job, but someone&#39;s gotta do it](http://9gag.com/gag/aE0Z2wM)
- - 😝 [It is a dangerous combination, tall woman and short skirts...](http://9gag.com/gag/ae9RAEB)
- - 💣 [When the bottle is made of vibranium.](http://9gag.com/gag/a4PwQNm)
- - 😝 [25 years ago Alizee broke our minds with `Moi...Lolita`](http://9gag.com/gag/ae9RAPm)
- - 👉 [Imagine her face when she realized](http://9gag.com/gag/abARrxv)<!-- MEMES:END -->
+ - 😝 [Oh no...anyway](http://9gag.com/gag/aD2QDg7)
+ - 😝 [Wait, you guys get invited to parties?](http://9gag.com/gag/a34NEgQ)
+ - 💣 [Valve is one of the few companies that keep an access to their `dead` games. Even games like Artifact and CS:GO are still playable. So, it&#39;s no wonder that they are not against the petition.](http://9gag.com/gag/a9yDRQj)
+ - 😝 [Playing with my sticky balls at night](http://9gag.com/gag/aRBRrXB)
+ - 👉 [Don&#39;t worry, it&#39;ll sort itself out](http://9gag.com/gag/aBy42bz)<!-- MEMES:END -->
 
 ---
 

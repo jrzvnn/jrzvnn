@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It is a dangerous combination, tall woman and short skirts...](http://9gag.com/gag/ae9RAEB)
- - 😝 [Test? And take](http://9gag.com/gag/ae9Rg5m)
- - 💣 [I think its great](http://9gag.com/gag/a6ZGE98)
- - 😝 [Seven engineers in India have lost their jobs for building a highway bridge with a 90-degree turn. And the construction company has been blacklisted. Authorities spent $2.3 million on the bridge. Now everything needs to be rebuilt.](http://9gag.com/gag/aD2QD1G)
- - 👉 [When you try to show off but end up showing out](http://9gag.com/gag/azx4Mrz)<!-- MEMES:END -->
+ - 😝 [Duck Hunt. How this worked still is a mystery to me](http://9gag.com/gag/a87V14V)
+ - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/aD2QDmO)
+ - 💣 [Test? And take](http://9gag.com/gag/ae9Rg5m)
+ - 😝 [25 years ago Alizee broke our minds with `Moi...Lolita`](http://9gag.com/gag/ae9RAPm)
+ - 👉 [Telling normal women they look like trans women, look how offended they get](http://9gag.com/gag/avy9yOb)<!-- MEMES:END -->
 
 ---
 

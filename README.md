@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [More nonsence for your limited brain capacity](http://9gag.com/gag/aPArZRn)
  - 😝 [Que bueno que lo que nos gusta es ver hombres ricos.](http://9gag.com/gag/a0eO79n)
- - 💣 [25 years ago Alizee broke our minds with `Moi...Lolita`](http://9gag.com/gag/ae9RAPm)
- - 😝 [No good deed goes unpunished.](http://9gag.com/gag/aXPRr9v)
- - 👉 [God is Deaf](http://9gag.com/gag/an7GgX5)<!-- MEMES:END -->
+ - 😝 [More nonsence for your limited brain capacity](http://9gag.com/gag/aPArZRn)
+ - 💣 [I think it was worth a try](http://9gag.com/gag/aVvR70M)
+ - 😝 [God is Deaf](http://9gag.com/gag/an7GgX5)
+ - 👉 [Seven engineers in India have lost their jobs for building a highway bridge with a 90-degree turn. And the construction company has been blacklisted. Authorities spent $2.3 million on the bridge. Now everything needs to be rebuilt.](http://9gag.com/gag/aD2QD1G)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ever seen the movie The blob?](http://9gag.com/gag/awyeBMW)
- - 😝 [God is Deaf](http://9gag.com/gag/an7GgX5)
- - 💣 [Kinda embarrassing to ask but I\u2019ve been trying to figure out how they built those old stone lighthouses in the middle of the ocean. I\u2019ve watched a few videos but I still haven\u2019t found one that really explains it in a satisfying way.](http://9gag.com/gag/aD2QdwK)
+ - 😝 [London in one video](http://9gag.com/gag/ajPR53x)
  - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/aD2QDmO)
- - 👉 [What exactly are we supposed to ask in a job interview if not about salary, responsibilities, or work culture? This email is a masterclass in corporate absurdity.](http://9gag.com/gag/aQzyoXK)<!-- MEMES:END -->
+ - 💣 [British \ud83c\uddec\ud83c\udde7 MAN standing up against Police](http://9gag.com/gag/ary8mP6)
+ - 😝 [What exactly are we supposed to ask in a job interview if not about salary, responsibilities, or work culture? This email is a masterclass in corporate absurdity.](http://9gag.com/gag/aQzyoXK)
+ - 👉 [More nonsence for your limited brain capacity](http://9gag.com/gag/aPArZRn)<!-- MEMES:END -->
 
 ---
 

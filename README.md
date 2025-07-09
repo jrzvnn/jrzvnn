@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Giant Planet and a Small Star Are Shaking Up Conventional Cosmological Theory](https://www.wired.com/story/a-giant-planet-and-a-small-star-are-shaking-up-conventional-cosmological-theory/)
  - [Apple wants to screen real F1 races after its film&#39;s success](https://appleinsider.com/articles/25/07/09/apple-wants-to-screen-real-f1-races-after-its-films-success?utm_medium=rss)
  - [How crypto executives, lobbyists, campaign operatives, and Trump business partners successfully turned Trump from an outspoken bitcoin skeptic into a supporter &lpar;New York Times&rpar;](http://www.techmeme.com/250709/p14#a250709p14)
  - [The Verge’s guide to Amazon Prime Day 2025](https://www.theverge.com/tech/689359/amazon-prime-day-tech-deals-guide-2025)
- - [The 198 Prime Day 2025 deals you can still get](https://www.theverge.com/tech/697594/amazon-prime-day-sale-best-tech-deals-2025)
- - [Ikea plans to relaunch its smart home line with 20+ new Matter-over-Thread devices, set to release in January 2026, and updates its Dirigera smart home hub &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250709/p13#a250709p13)<!-- TECH:END -->
+ - [The 198 Prime Day 2025 deals you can still get](https://www.theverge.com/tech/697594/amazon-prime-day-sale-best-tech-deals-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

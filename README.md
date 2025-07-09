@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [9 Best Prime Day Fitness Tracker Deals and Smart Ring Sales &lpar;2025&rpar;](https://www.wired.com/story/prime-day-tracker-and-ring-2025-1/)
+ - [Prime Day Picks From People Who Obsessively Test Gear &amp; Track Prices](https://www.wired.com/story/best-amazon-prime-deals-july-2025-1/)
+ - [Thread count: Ikea is stitching together a smarter home](https://www.theverge.com/smart-home/701697/ikea-matter-thread-new-products-new-smart-home-strategy)
  - [Ikea’s latest speaker lamp ditches Sonos for Spotify and inexpensive Bluetooth](https://www.theverge.com/news/702104/ikeas-latest-speaker-lamp-ditches-sonos-for-spotify-and-inexpensive-bluetooth)
- - [Researchers: the Anatsa banking trojan snuck into Google Play once again via an app disguised as a PDF viewer, which had 50K+ downloads before Google removed it &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250709/p9#a250709p9)
- - [Researchers detail All-Topographic Neural Networks, claiming they better mimic human spatial biases and consume less energy than other machine vision networks &lpar;Matthew S. Smith/IEEE Spectrum&rpar;](http://www.techmeme.com/250709/p8#a250709p8)
- - [I Will Text You the Best Prime Day Deals Directly to Your Phone -- for Free](https://www.cnet.com/tech/services-and-software/i-will-text-you-the-best-prime-day-deals-directly-to-your-phone-for-free/#ftag=CAD590a51e)
- - [ThinkBroadband: 78% of UK properties have access to full-fiber broadband, up from 12% in January 2020, which experts credit to Ofcom&#39;s 2021 pro-competition push &lpar;Financial Times&rpar;](http://www.techmeme.com/250709/p7#a250709p7)<!-- TECH:END -->
+ - [Researchers: the Anatsa banking trojan snuck into Google Play once again via an app disguised as a PDF viewer, which had 50K+ downloads before Google removed it &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250709/p9#a250709p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

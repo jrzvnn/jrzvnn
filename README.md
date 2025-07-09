@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HBO Max is officially HBO Max again](https://www.theverge.com/news/702261/hbo-max-rebrand-official-warner-bros)
- - [The Nintendo Switch OLED is $100 off during Prime Day](https://www.theverge.com/tech/698710/amazon-prime-day-nintendo-switch-oled-deal-sale-2025)
- - [Best Prime Day Deals Under $100 &lpar;2025&rpar;: LifeStraws, Tech, and More](https://www.wired.com/story/prime-day-under-100-july-2025-1/)
- - [The US Treasury&#39;s OFAC sanctions individuals and companies linked to North Korea&#39;s fake tech worker scheme, including &quot;malicious cyber actor&quot; Song Kum Hyok &lpar;Magdalena Del Valle/Bloomberg&rpar;](http://www.techmeme.com/250709/p12#a250709p12)
- - [‘People Are Going to Die’: A Malnutrition Crisis Looms in the Wake of USAID Cuts](https://www.wired.com/story/usaid-rutf-state-department-supplies-warehouses/)<!-- TECH:END -->
+ - [The Verge’s guide to Amazon Prime Day 2025](https://www.theverge.com/tech/689359/amazon-prime-day-tech-deals-guide-2025)
+ - [The 198 Prime Day 2025 deals you can still get](https://www.theverge.com/tech/697594/amazon-prime-day-sale-best-tech-deals-2025)
+ - [Ikea plans to relaunch its smart home line with 20+ new Matter-over-Thread devices, set to release in January 2026, and updates its Dirigera smart home hub &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250709/p13#a250709p13)
+ - [13 Best Prime Day Board Game Deals for Kids of All Ages &lpar;2025&rpar;](https://www.wired.com/story/prime-day-toy-deals-july-2025/)
+ - [6 Amazon Prime Day Mattress  and Bedding Deals on Our Favorite Gear &lpar;2025&rpar;](https://www.wired.com/story/amazon-prime-day-mattress-deals-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

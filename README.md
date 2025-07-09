@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every day at the office.](http://9gag.com/gag/aVvR73n)
- - 😝 [Me, when I have been eating street food in India:](http://9gag.com/gag/aYQRoq7)
- - 💣 [Imagine her face when she realized](http://9gag.com/gag/abARrxv)
+ - 😝 [What exactly are we supposed to ask in a job interview if not about salary, responsibilities, or work culture? This email is a masterclass in corporate absurdity.](http://9gag.com/gag/aQzyoXK)
+ - 😝 [+ Skylar + the pizza on the roof](http://9gag.com/gag/awyeByx)
+ - 💣 [Meanwhile in Great Britain](http://9gag.com/gag/aD2QDmO)
  - 😝 [More nonsence for your limited brain capacity](http://9gag.com/gag/aPArZRn)
- - 👉 [25 years ago Alizee broke our minds with `Moi...Lolita`](http://9gag.com/gag/ae9RAPm)<!-- MEMES:END -->
+ - 👉 [Me, when I have been eating street food in India:](http://9gag.com/gag/aYQRoq7)<!-- MEMES:END -->
 
 ---
 

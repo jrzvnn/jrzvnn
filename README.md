@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [13 Best Prime Day Pet Deals on Amazon &lpar;2025&rpar;](https://www.wired.com/story/prime-day-pet-deals-2025/)
+ - [X CEO Linda Yaccarino says that &quot;after two incredible years, I&#39;ve decided to step down&quot;; X hired Yaccarino in 2023 after running NBCUniversal&#39;s ad business &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250709/p26#a250709p26)
  - [Apple wants to update boxed Macs in store like it does for iPhone](https://appleinsider.com/articles/25/07/09/apple-wants-to-update-boxed-macs-in-store-like-it-does-for-iphone?utm_medium=rss)
- - [Samsung&#39;s new Galaxy Z Fold7 and Z Flip7 are the first smartphones to ship loaded with Android 16, and the Watch 8 Series are the first to get Wear OS 6 &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/250709/p25#a250709p25)
- - [Google says it will roll out Gemini for Wear OS &quot;over the coming weeks&quot; to Wear OS 4+ on Pixel, Samsung, OnePlus, OPPO, Xiaomi, and more, replacing Assistant &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250709/p24#a250709p24)
- - [The best Prime Day deals on charging accessories](https://www.theverge.com/tech/698933/amazon-prime-day-2025-chargers-power-banks-batteries-deal-sale)
- - [Samsung unveils the $899+ Galaxy Z Flip7 FE, with a smaller cover screen than the Z Flip7&#39;s, a smaller battery, no telephoto, and Android 16, in two colors &lpar;Andrew Romero/9to5Google&rpar;](http://www.techmeme.com/250709/p23#a250709p23)<!-- TECH:END -->
+ - [Best 10 Prime Day Kitchen Deals &lpar;2025&rpar;: Breville, Ooni, Oxo](https://www.wired.com/story/prime-day-kitchen-deals-july-2025/)
+ - [Samsung&#39;s new Galaxy Z Fold7 and Z Flip7 will be the first smartphones to ship with Android 16, and the Watch 8 Series will be the first to ship with Wear OS 6 &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/250709/p25#a250709p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Account Card expected to hit seven more countries](https://appleinsider.com/articles/25/07/09/apple-account-card-expected-to-hit-seven-more-countries?utm_medium=rss)
- - [The 5 Best Prime Day Action Camera Deals for Thrill Seekers &lpar;2025&rpar;](https://www.wired.com/gallery/prime-day-deals-on-action-cameras-2025/)
- - [The best Prime Day deals on charging accessories](https://www.theverge.com/tech/698933/amazon-prime-day-2025-chargers-power-banks-batteries-deal-sale)
+ - [Best Prime Day Apple Deals on iPads, AirPods, and MacBooks &lpar;2025&rpar;](https://www.wired.com/story/prime-day-apple-deals-2025-1/)
  - [Returning Steve Jobs took over Apple 28 years ago](https://appleinsider.com/articles/18/07/10/gil-amelio-resigned-at-apple-ceo-21-years-ago-paving-the-way-for-steve-jobs-ascension-as-ceo?utm_medium=rss)
- - [The best Prime Day deals on our favorite robot vacuums](https://www.theverge.com/tech/698188/robot-vacuum-mop-deals-amazon-prime-day)<!-- TECH:END -->
+ - [China Has Attempted What Might Be the First-Ever Orbital Refueling of a Satellite](https://www.wired.com/story/china-jumps-ahead-in-the-race-to-achieve-a-new-kind-of-reuse-in-space/)
+ - [Apple Account Card expected to hit seven more countries](https://appleinsider.com/articles/25/07/09/apple-account-card-expected-to-hit-seven-more-countries?utm_medium=rss)
+ - [The 5 Best Prime Day Action Camera Deals for Thrill Seekers &lpar;2025&rpar;](https://www.wired.com/gallery/prime-day-deals-on-action-cameras-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

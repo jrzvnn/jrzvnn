@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hugging Face begins taking orders for its $449 Reachy Mini Wireless and $299 Reachy Mini Lite open source robots, which come as kits for developers to build &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250709/p15#a250709p15)
- - [The best Prime Day smart home deals we found](https://www.theverge.com/amazon-prime-day-deals-tech/699919/best-smart-home-deals-amazon-prime-day)
- - [Best Prime Day Apple Deals on iPads, AirPods, and MacBooks &lpar;2025&rpar;](https://www.wired.com/story/prime-day-apple-deals-2025-1/)
- - [Returning Steve Jobs took over Apple 28 years ago](https://appleinsider.com/articles/18/07/10/gil-amelio-resigned-at-apple-ceo-21-years-ago-paving-the-way-for-steve-jobs-ascension-as-ceo?utm_medium=rss)
- - [China Has Attempted What Might Be the First-Ever Orbital Refueling of a Satellite](https://www.wired.com/story/china-jumps-ahead-in-the-race-to-achieve-a-new-kind-of-reuse-in-space/)<!-- TECH:END -->
+ - [Samsung Galaxy Unpacked 2025: Everything announced at the July event](https://www.theverge.com/news/701144/samsung-galaxy-unpacked-everything-announced-july-event)
+ - [The best Prime Day deals on games, hardware, and accessories](https://www.theverge.com/tech/698696/amazon-prime-day-best-gaming-deals-controllers-headsets-accessories-2025)
+ - [ServiceUp, a vehicle repair process automation startup, raised a $55M Series B led by PeakSpan Capital, taking its total funding to nearly $70M &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/250709/p16#a250709p16)
+ - [Here are 60 Prime Day deals you can nab for $50 or less](https://www.theverge.com/tech/699123/amazon-prime-day-best-cheap-tech-deals-under-50-2025)
+ - [Ikea&#39;s new Matter-over-Thread smart home gear will work with HomeKit](https://appleinsider.com/articles/25/07/09/ikeas-new-matter-over-thread-smart-home-gear-will-work-with-homekit?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

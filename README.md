@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait, you guys get invited to parties?](http://9gag.com/gag/a34NEgQ)
- - 😝 [Remembering the good old days of napping anywhere but where you&#39;re supposed to.](http://9gag.com/gag/aKGK6YW)
- - 💣 [Oh no...anyway](http://9gag.com/gag/aD2QDg7)
- - 😝 [Valve is one of the few companies that keep an access to their `dead` games. Even games like Artifact and CS:GO are still playable. So, it&#39;s no wonder that they are not against the petition.](http://9gag.com/gag/a9yDRQj)
- - 👉 [Don&#39;t worry, it&#39;ll sort itself out](http://9gag.com/gag/aBy42bz)<!-- MEMES:END -->
+ - 😝 [The German national football team 20 years ago.](http://9gag.com/gag/an7GgjB)
+ - 😝 [Time flies when you&#39;re not on Miller&#39;s Planet.](http://9gag.com/gag/amoRPr4)
+ - 💣 [Every day at the office.](http://9gag.com/gag/aVvR73n)
+ - 😝 [Well.well.well](http://9gag.com/gag/azx41Pz)
+ - 👉 [Duck Hunt. How this worked still is a mystery to me](http://9gag.com/gag/a87V14V)<!-- MEMES:END -->
 
 ---
 

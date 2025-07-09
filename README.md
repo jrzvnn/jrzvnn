@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Eero 7 Max mesh router review: The best kind of Wi-Fi overkill](https://appleinsider.com/articles/25/07/09/eero-7-max-mesh-router-review-the-best-kind-of-wi-fi-overkill?utm_medium=rss)
- - [Grok stops posting text after flood of antisemitism and Hitler praise](https://www.theverge.com/news/701884/grok-antisemitic-hitler-posts-elon-musk-x-xai)
- - [Some of our favorite headphones are steeply discounted for Prime Day](https://www.theverge.com/tech/700846/amazon-prime-day-best-noise-canceling-headphone-earbud-deals-2025)
- - [LIVE Amazon Prime Day 2025: We&#39;re Tracking Deals &amp; Trends All Day](https://www.wired.com/live/amazon-prime-day-deals-live-in-25/)
- - [Apple says COO Jeff Williams will retire later this year, and Sabih Khan, Apple&#39;s SVP of Operations, will take over much of his role later this month &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250708/p33#a250708p33)<!-- TECH:END -->
+ - [The best Prime Day deals on charging accessories](https://www.theverge.com/tech/698933/amazon-prime-day-2025-chargers-power-banks-batteries-deal-sale)
+ - [Best Prime Day Beauty Deals 2025: Hair, Skin, and Dental Care](https://www.wired.com/story/prime-day-beauty-deals-july-2025/)
+ - [Some Verge-favorite gadgets are cheaper during Prime Day 2025](https://www.theverge.com/tech/699230/best-prime-day-deals-verge-favorites)
+ - [An analysis finds Chinese firms aim to buy 115K+ US-sanctioned Nvidia H100 and H200 chips for 39 data centers across China&#39;s western deserts, mostly in Xinjiang &lpar;Bloomberg&rpar;](http://www.techmeme.com/250708/p34#a250708p34)
+ - [Prime Day Picks From People Who Obsessively Test Gear &amp; Track Prices](https://www.wired.com/story/best-amazon-prime-deals-july-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

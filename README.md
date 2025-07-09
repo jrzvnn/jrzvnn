@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A German court ruled Meta&#39;s tracking pixels embedded in third-party websites and apps violate the EU&#39;s GDPR, ordering it to pay €5,000 to a German Facebook user &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/250709/p47#a250709p47)
+ - [Sony’s Brand New Flagship Headphones Are on Sale for Prime Day](https://www.wired.com/story/sony-wh-1000xm6-prime-day-sale/)
  - [The Best Prime Day Deals on Our Staff&#39;s Favorite Dyson Tools &lpar;2025&rpar;](https://www.wired.com/story/best-dyson-prime-day-deals-july-2025/)
  - [The best 4K TV deals during Prime Day 2025](https://www.theverge.com/tech/699516/4k-tv-soundbar-streaming-deal-sale-amazon-prime-day)
- - [The best Prime Day deals on our favorite robot vacuums](https://www.theverge.com/tech/698188/robot-vacuum-mop-deals-amazon-prime-day)
- - [Some Verge-favorite gadgets are cheaper during Prime Day 2025](https://www.theverge.com/tech/699230/best-prime-day-deals-verge-favorites)
- - [Not Just Any Prime Day Deals, 242 Obsessively Tested Picks—even $1,200 off an OLED TV](https://www.wired.com/story/best-amazon-prime-deals-july-2025-1/)<!-- TECH:END -->
+ - [The best Prime Day deals on our favorite robot vacuums](https://www.theverge.com/tech/698188/robot-vacuum-mop-deals-amazon-prime-day)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

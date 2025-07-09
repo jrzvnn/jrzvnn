@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When the police are just as confused as you are about the missing people and the sudden wealth.](http://9gag.com/gag/awyeoND)
- - 😝 [When the bottle is made of vibranium.](http://9gag.com/gag/a4PwQNm)
- - 💣 [Nobody was prepared for this](http://9gag.com/gag/aNDj0jr)
- - 😝 [Who drop it](http://9gag.com/gag/aVvRYoM)
- - 👉 [Why is there a hole in the glass?](http://9gag.com/gag/aYQRy3v)<!-- MEMES:END -->
+ - 😝 [Well.well.well](http://9gag.com/gag/azx41Pz)
+ - 😝 [Great... Very professional....](http://9gag.com/gag/aKGKdyb)
+ - 💣 [The rogue we deserves!](http://9gag.com/gag/aVvRwAO)
+ - 😝 [Imagine her face when she realized](http://9gag.com/gag/abARrxv)
+ - 👉 [Kinda embarrassing to ask but I\u2019ve been trying to figure out how they built those old stone lighthouses in the middle of the ocean. I\u2019ve watched a few videos but I still haven\u2019t found one that really explains it in a satisfying way.](http://9gag.com/gag/aD2QdwK)<!-- MEMES:END -->
 
 ---
 

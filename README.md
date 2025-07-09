@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Seven engineers in India have lost their jobs for building a highway bridge with a 90-degree turn. And the construction company has been blacklisted. Authorities spent $2.3 million on the bridge. Now everything needs to be rebuilt.](http://9gag.com/gag/aD2QD1G)
- - 😝 [When you try to show off but end up showing out](http://9gag.com/gag/azx4Mrz)
- - 💣 [Test? And take](http://9gag.com/gag/ae9Rg5m)
- - 😝 [It is a dangerous combination, tall woman and short skirts...](http://9gag.com/gag/ae9RAEB)
- - 👉 [Duck Hunt. How this worked still is a mystery to me](http://9gag.com/gag/a87V14V)<!-- MEMES:END -->
+ - 😝 [More nonsence for your limited brain capacity](http://9gag.com/gag/aPArZRn)
+ - 😝 [I think its great](http://9gag.com/gag/a6ZGE98)
+ - 💣 [I think it was worth a try](http://9gag.com/gag/aVvR70M)
+ - 😝 [Test? And take](http://9gag.com/gag/ae9Rg5m)
+ - 👉 [When you try to show off but end up showing out](http://9gag.com/gag/azx4Mrz)<!-- MEMES:END -->
 
 ---
 

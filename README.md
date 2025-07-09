@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
+ - [19 Best Prime Day Coffee Maker Deals on Machines, Grinders, and More](https://www.wired.com/story/the-best-prime-day-coffee-deals-1/)
+ - [Hertz and other car rental agencies are increasingly relying on scanners that use high-res imaging and AI to flag even tiny blemishes, angering some customers &lpar;Gabe Castro-Root/New York Times&rpar;](http://www.techmeme.com/250709/p28#a250709p28)
  - [Apple TV+ sets September premiere for season four of &#39;The Morning Show&#39;](https://appleinsider.com/articles/25/07/09/apple-tv-sets-september-premiere-for-season-four-of-the-morning-show?utm_medium=rss)
- - [Some Verge-favorite gadgets are cheaper during Prime Day 2025](https://www.theverge.com/tech/699230/best-prime-day-deals-verge-favorites)
- - [Perplexity launches Comet, its first AI web browser, initially available on its $200 per month Max plan and via a waitlist, in a bid to compete with Chrome &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250709/p27#a250709p27)
- - [The 10 Prime Day deals that are most popular with Verge readers](https://www.theverge.com/tech/701278/amazon-prime-day-2025-popular-products-verge-readers)
- - [Samsung Galaxy Unpacked 2025: the 7 biggest announcements](https://www.theverge.com/news/702428/samsung-galaxy-unpacked-2025-biggest-announcements-fold-flip)<!-- TECH:END -->
+ - [Some Verge-favorite gadgets are cheaper during Prime Day 2025](https://www.theverge.com/tech/699230/best-prime-day-deals-verge-favorites)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

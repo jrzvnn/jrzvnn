@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [London in one video](http://9gag.com/gag/ajPR53x)
  - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/aD2QDmO)
- - 💣 [British \ud83c\uddec\ud83c\udde7 MAN standing up against Police](http://9gag.com/gag/ary8mP6)
  - 😝 [What exactly are we supposed to ask in a job interview if not about salary, responsibilities, or work culture? This email is a masterclass in corporate absurdity.](http://9gag.com/gag/aQzyoXK)
- - 👉 [More nonsence for your limited brain capacity](http://9gag.com/gag/aPArZRn)<!-- MEMES:END -->
+ - 💣 [Duck Hunt. How this worked still is a mystery to me](http://9gag.com/gag/a87V14V)
+ - 😝 [25 years ago Alizee broke our minds with `Moi...Lolita`](http://9gag.com/gag/ae9RAPm)
+ - 👉 [Tell me this isn&#39;t true .](http://9gag.com/gag/a2vOKRw)<!-- MEMES:END -->
 
 ---
 

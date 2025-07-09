@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tell me this isn&#39;t true .](http://9gag.com/gag/a2vOKRw)
- - 😝 [I think it was worth a try](http://9gag.com/gag/aVvR70M)
- - 💣 [Test? And take](http://9gag.com/gag/ae9Rg5m)
- - 😝 [Seven engineers in India have lost their jobs for building a highway bridge with a 90-degree turn. And the construction company has been blacklisted. Authorities spent $2.3 million on the bridge. Now everything needs to be rebuilt.](http://9gag.com/gag/aD2QD1G)
- - 👉 [Meanwhile in Great Britain](http://9gag.com/gag/aD2QDmO)<!-- MEMES:END -->
+ - 😝 [More nonsence for your limited brain capacity](http://9gag.com/gag/aPArZRn)
+ - 😝 [Que bueno que lo que nos gusta es ver hombres ricos.](http://9gag.com/gag/a0eO79n)
+ - 💣 [25 years ago Alizee broke our minds with `Moi...Lolita`](http://9gag.com/gag/ae9RAPm)
+ - 😝 [No good deed goes unpunished.](http://9gag.com/gag/aXPRr9v)
+ - 👉 [God is Deaf](http://9gag.com/gag/an7GgX5)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hugging Face begins taking orders for its $449 Reachy Mini Wireless and $299 Reachy Mini Lite open source robots, which come as kits for developers to build &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250709/p15#a250709p15)
+ - [The best Prime Day smart home deals we found](https://www.theverge.com/amazon-prime-day-deals-tech/699919/best-smart-home-deals-amazon-prime-day)
  - [Best Prime Day Apple Deals on iPads, AirPods, and MacBooks &lpar;2025&rpar;](https://www.wired.com/story/prime-day-apple-deals-2025-1/)
  - [Returning Steve Jobs took over Apple 28 years ago](https://appleinsider.com/articles/18/07/10/gil-amelio-resigned-at-apple-ceo-21-years-ago-paving-the-way-for-steve-jobs-ascension-as-ceo?utm_medium=rss)
- - [China Has Attempted What Might Be the First-Ever Orbital Refueling of a Satellite](https://www.wired.com/story/china-jumps-ahead-in-the-race-to-achieve-a-new-kind-of-reuse-in-space/)
- - [Apple Account Card expected to hit seven more countries](https://appleinsider.com/articles/25/07/09/apple-account-card-expected-to-hit-seven-more-countries?utm_medium=rss)
- - [The 5 Best Prime Day Action Camera Deals for Thrill Seekers &lpar;2025&rpar;](https://www.wired.com/gallery/prime-day-deals-on-action-cameras-2025/)<!-- TECH:END -->
+ - [China Has Attempted What Might Be the First-Ever Orbital Refueling of a Satellite](https://www.wired.com/story/china-jumps-ahead-in-the-race-to-achieve-a-new-kind-of-reuse-in-space/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

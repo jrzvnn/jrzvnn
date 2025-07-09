@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Prime Day smart home deals we found](https://www.theverge.com/amazon-prime-day-deals-tech/699919/best-smart-home-deals-amazon-prime-day)
- - [Some of our favorite headphones are steeply discounted for Prime Day](https://www.theverge.com/tech/700846/amazon-prime-day-best-noise-canceling-headphone-earbud-deals-2025)
- - [Samsung unveils the $1,100+ Galaxy Z Flip 7 with a 4.1-inch external and 6.9-inch internal display, 13.7mm body, a more durable folding hinge, and more &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/250709/p20#a250709p20)
- - [Samsung unveils $349 Galaxy Watch 8 in 40mm and 44mm sizes and $499 Watch 8 Classic in 46mm, with Gemini and an Antioxidant Index to measure carotenoid levels &lpar;Andrew Romero/9to5Google&rpar;](http://www.techmeme.com/250709/p21#a250709p21)
- - [Here are 60 Prime Day deals you can nab for $50 or less](https://www.theverge.com/tech/699123/amazon-prime-day-best-cheap-tech-deals-under-50-2025)<!-- TECH:END -->
+ - [Apple wants to update boxed Macs in store like it does for iPhone](https://appleinsider.com/articles/25/07/09/apple-wants-to-update-boxed-macs-in-store-like-it-does-for-iphone?utm_medium=rss)
+ - [Samsung&#39;s new Galaxy Z Fold7 and Z Flip7 are the first smartphones to ship loaded with Android 16, and the Watch 8 Series are the first to get Wear OS 6 &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/250709/p25#a250709p25)
+ - [Google says it will roll out Gemini for Wear OS &quot;over the coming weeks&quot; to Wear OS 4+ on Pixel, Samsung, OnePlus, OPPO, Xiaomi, and more, replacing Assistant &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250709/p24#a250709p24)
+ - [The best Prime Day deals on charging accessories](https://www.theverge.com/tech/698933/amazon-prime-day-2025-chargers-power-banks-batteries-deal-sale)
+ - [Samsung unveils the $899+ Galaxy Z Flip7 FE, with a smaller cover screen than the Z Flip7&#39;s, a smaller battery, no telephoto, and Android 16, in two colors &lpar;Andrew Romero/9to5Google&rpar;](http://www.techmeme.com/250709/p23#a250709p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls out a new Gmail feature to manage subscriptions, showing a list of emails delivered via active subscriptions, sorted by the most frequent senders &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/250709/p11#a250709p11)
- - [Prime Day Picks From People Who Obsessively Test Gear &amp; Track Prices](https://www.wired.com/story/best-amazon-prime-deals-july-2025-1/)
- - [Apple supplier Lens Technology, one of the top smartphone part makers, raised ~$608M in its Hong Kong IPO, as the Chinese company looks to expand overseas &lpar;Peggy Ye/Nikkei Asia&rpar;](http://www.techmeme.com/250709/p10#a250709p10)
- - [Amazon Prime Day 2025 LIVE: We&#39;re Tracking Deals &amp; Trends Today](https://www.wired.com/live/amazon-prime-day-deals-live-in-25/)
- - [Activision pulls Call of Duty game after PC players are hacked](https://www.theverge.com/news/702255/call-of-duty-wwii-pc-game-pass-hacking-activision)<!-- TECH:END -->
+ - [HBO Max is officially HBO Max again](https://www.theverge.com/news/702261/hbo-max-rebrand-official-warner-bros)
+ - [The Nintendo Switch OLED is $100 off during Prime Day](https://www.theverge.com/tech/698710/amazon-prime-day-nintendo-switch-oled-deal-sale-2025)
+ - [Best Prime Day Deals Under $100 &lpar;2025&rpar;: LifeStraws, Tech, and More](https://www.wired.com/story/prime-day-under-100-july-2025-1/)
+ - [The US Treasury&#39;s OFAC sanctions individuals and companies linked to North Korea&#39;s fake tech worker scheme, including &quot;malicious cyber actor&quot; Song Kum Hyok &lpar;Magdalena Del Valle/Bloomberg&rpar;](http://www.techmeme.com/250709/p12#a250709p12)
+ - [‘People Are Going to Die’: A Malnutrition Crisis Looms in the Wake of USAID Cuts](https://www.wired.com/story/usaid-rutf-state-department-supplies-warehouses/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

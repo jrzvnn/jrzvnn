@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: LangChain, which helps developers use off-the-shelf AI models to create new apps, raised $100M led by IVP at a $1.1B valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/250709/p42#a250709p42)
+ - [New Prime Day Deals Updated Live—183 Handpicked &amp; Trusted Deals](https://www.wired.com/live/amazon-prime-day-deals-live-in-25-1/)
+ - [Sources: Revolut is in talks to raise about $1B of funding via newly issued shares and the sale of some existing stock at a $65B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/250709/p41#a250709p41)
  - [Faster, more comfortable Apple Vision Pro rumored to arrive in 2025](https://appleinsider.com/articles/25/07/09/faster-more-comfortable-apple-vision-pro-rumored-to-arrive-in-2025?utm_medium=rss)
- - [MaintainX, which makes maintenance and operations software, raised a $150M Series D at a $2.5B valuation, bringing its total funding to $254M &lpar;Ateev Bhandari/Reuters&rpar;](http://www.techmeme.com/250709/p38#a250709p38)
- - [The 205 Prime Day 2025 deals you can still get](https://www.theverge.com/tech/697594/amazon-prime-day-sale-best-tech-deals-2025)
- - [The Bezos-funded climate satellite is lost in space](https://www.theverge.com/news/703091/methane-satellite-methanesat-lost-bezos-edf)
- - [YouTube is updating its monetization guidelines on July 15, defining &quot;inauthentic&quot; content as &quot;mass-produced and repetitious&quot; amid concerns over AI slop &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250709/p37#a250709p37)<!-- TECH:END -->
+ - [Prime Day Soundbar Deal Alert: Sony Bravia Theater System 6](https://www.wired.com/story/sony-bravia-theater-system-6-prime-day-deal/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

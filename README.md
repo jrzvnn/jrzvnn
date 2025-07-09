@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Giant Planet and a Small Star Are Shaking Up Conventional Cosmological Theory](https://www.wired.com/story/a-giant-planet-and-a-small-star-are-shaking-up-conventional-cosmological-theory/)
- - [Apple wants to screen real F1 races after its film&#39;s success](https://appleinsider.com/articles/25/07/09/apple-wants-to-screen-real-f1-races-after-its-films-success?utm_medium=rss)
- - [How crypto executives, lobbyists, campaign operatives, and Trump business partners successfully turned Trump from an outspoken bitcoin skeptic into a supporter &lpar;New York Times&rpar;](http://www.techmeme.com/250709/p14#a250709p14)
- - [The Verge’s guide to Amazon Prime Day 2025](https://www.theverge.com/tech/689359/amazon-prime-day-tech-deals-guide-2025)
- - [The 198 Prime Day 2025 deals you can still get](https://www.theverge.com/tech/697594/amazon-prime-day-sale-best-tech-deals-2025)<!-- TECH:END -->
+ - [Apple Account Card expected to hit seven more countries](https://appleinsider.com/articles/25/07/09/apple-account-card-expected-to-hit-seven-more-countries?utm_medium=rss)
+ - [The 5 Best Prime Day Action Camera Deals for Thrill Seekers &lpar;2025&rpar;](https://www.wired.com/gallery/prime-day-deals-on-action-cameras-2025/)
+ - [The best Prime Day deals on charging accessories](https://www.theverge.com/tech/698933/amazon-prime-day-2025-chargers-power-banks-batteries-deal-sale)
+ - [Returning Steve Jobs took over Apple 28 years ago](https://appleinsider.com/articles/18/07/10/gil-amelio-resigned-at-apple-ceo-21-years-ago-paving-the-way-for-steve-jobs-ascension-as-ceo?utm_medium=rss)
+ - [The best Prime Day deals on our favorite robot vacuums](https://www.theverge.com/tech/698188/robot-vacuum-mop-deals-amazon-prime-day)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

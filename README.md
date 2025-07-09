@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well.well.well](http://9gag.com/gag/azx41Pz)
- - 😝 [Great... Very professional....](http://9gag.com/gag/aKGKdyb)
- - 💣 [The rogue we deserves!](http://9gag.com/gag/aVvRwAO)
- - 😝 [Imagine her face when she realized](http://9gag.com/gag/abARrxv)
- - 👉 [Kinda embarrassing to ask but I\u2019ve been trying to figure out how they built those old stone lighthouses in the middle of the ocean. I\u2019ve watched a few videos but I still haven\u2019t found one that really explains it in a satisfying way.](http://9gag.com/gag/aD2QdwK)<!-- MEMES:END -->
+ - 😝 [Sounds like a plan](http://9gag.com/gag/aKGK6wW)
+ - 😝 [Ever seen the movie The blob?](http://9gag.com/gag/awyeBMW)
+ - 💣 [The moment she realized why kids made fun of her name](http://9gag.com/gag/aVvRw9M)
+ - 😝 [25 years ago Alizee broke our minds with `Moi...Lolita`](http://9gag.com/gag/ae9RAPm)
+ - 👉 [Imagine her face when she realized](http://9gag.com/gag/abARrxv)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best laptop deals we’ve found for Prime Day &lpar;so far&rpar;](https://www.theverge.com/tech/699521/amazon-prime-day-laptops-notebooks-gaming-apple-lenovo-hp)
- - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
- - [19 Best Prime Day Coffee Maker Deals on Machines, Grinders, and More](https://www.wired.com/story/the-best-prime-day-coffee-deals-1/)
- - [Hertz and other car rental agencies are increasingly relying on scanners that use high-res imaging and AI to flag even tiny blemishes, angering some customers &lpar;Gabe Castro-Root/New York Times&rpar;](http://www.techmeme.com/250709/p28#a250709p28)
- - [Apple TV+ sets September premiere for season four of &#39;The Morning Show&#39;](https://appleinsider.com/articles/25/07/09/apple-tv-sets-september-premiere-for-season-four-of-the-morning-show?utm_medium=rss)<!-- TECH:END -->
+ - [Elon Musk addresses Grok&#39;s antisemitic posts, says it was &quot;too compliant to user prompts&quot; and &quot;too eager to please and be manipulated, essentially&quot; &lpar;Herb Scribner/Axios&rpar;](http://www.techmeme.com/250709/p31#a250709p31)
+ - [Sources: OpenAI plans to launch an open-weight model as soon as next week on Hugging Face and other platforms, its first open-weight release since GPT-2 in 2019 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250709/p30#a250709p30)
+ - [Samsung 32-inch smart monitors fall to as low as $299 for Prime Day](https://appleinsider.com/articles/25/07/09/samsung-32-inch-smart-monitors-fall-to-as-low-as-299-for-prime-day?utm_medium=rss)
+ - [Best Prime Day Beauty Deals 2025: Hair, Skin, and Dental Care](https://www.wired.com/story/prime-day-beauty-deals-july-2025-1/)
+ - [The best Prime Day deals on our favorite robot vacuums](https://www.theverge.com/tech/698188/robot-vacuum-mop-deals-amazon-prime-day)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

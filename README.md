@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Israeli VC firm Cyberstarts has raised a $300M fund to allow long-time employees at some of its portfolio companies to cash out their vested shares &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250709/p46#a250709p46)
  - [a16z moves its state of incorporation to Nevada, saying Delaware&#39;s Court of Chancery &quot;can at times appear biased against technology startup founders&quot; &lpar;Andreessen Horowitz&rpar;](http://www.techmeme.com/250709/p45#a250709p45)
- - [The Columbia hack is a much bigger deal than Mamdani’s college application](https://www.theverge.com/analysis/703232/columbia-hack-admissions-data-mamdani)
- - [Some of our favorite headphones are steeply discounted for Prime Day](https://www.theverge.com/tech/700846/amazon-prime-day-best-noise-canceling-headphone-earbud-deals-2025)
- - [The best Apple deals available for Amazon Prime Day 2025](https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals)
- - [Apple’s second-generation Vision Pro might launch this year](https://www.theverge.com/news/703364/apple-vision-pro-second-gen-release-rumor)<!-- TECH:END -->
+ - [How to Marvel at the Spectacular Buck Moon This Week, Along With Mars and Venus](https://www.cnet.com/science/space/how-to-marvel-at-the-spectacular-buck-moon-this-week-along-with-mars-and-venus/#ftag=CAD590a51e)
+ - [An OpenAI Web Browser Is Imminent, Report Says. That Would Really Shake Up the Web](https://www.cnet.com/tech/services-and-software/an-openai-web-browser-is-imminent-report-says-that-would-really-shake-up-the-web/#ftag=CAD590a51e)
+ - [The Columbia hack is a much bigger deal than Mamdani’s college application](https://www.theverge.com/analysis/703232/columbia-hack-admissions-data-mamdani)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

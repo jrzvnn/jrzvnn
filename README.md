@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well.well.well](http://9gag.com/gag/azx41Pz)
- - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/aD2QDmO)
- - 💣 [God is Deaf](http://9gag.com/gag/an7GgX5)
  - 😝 [No good deed goes unpunished.](http://9gag.com/gag/aXPRr9v)
- - 👉 [Every day at the office.](http://9gag.com/gag/aVvR73n)<!-- MEMES:END -->
+ - 😝 [25 years ago Alizee broke our minds with `Moi...Lolita`](http://9gag.com/gag/ae9RAPm)
+ - 💣 [Meanwhile in Great Britain](http://9gag.com/gag/aD2QDmO)
+ - 😝 [Neutral good](http://9gag.com/gag/aBy4dEQ)
+ - 👉 [Kinda embarrassing to ask but I\u2019ve been trying to figure out how they built those old stone lighthouses in the middle of the ocean. I\u2019ve watched a few videos but I still haven\u2019t found one that really explains it in a satisfying way.](http://9gag.com/gag/aD2QdwK)<!-- MEMES:END -->
 
 ---
 

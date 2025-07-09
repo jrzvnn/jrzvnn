@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI &amp; Jony Ive&#39;s io Products merger is done](https://appleinsider.com/articles/25/07/09/openai-jony-ives-io-products-merger-is-done?utm_medium=rss)
  - [The best Prime Day smart home deals we found](https://www.theverge.com/amazon-prime-day-deals-tech/699919/best-smart-home-deals-amazon-prime-day)
  - [Prime Day Alert: TCL&#39;s Brilliant QM6K Is at Its Lowest Price Ever](https://www.wired.com/story/tcl-qm6k-prime-day-tv-deal/)
  - [Amazon’s best Kindles are cheaper than ever during Prime Day](https://www.theverge.com/tech/697975/amazon-prime-day-kindle-deal-paperwhite-colorsoft-sale-2025)
- - [McDonald’s AI Hiring Bot Exposed Millions of Applicants&#39; Data to Hackers Using the Password ‘123456’](https://www.wired.com/story/mcdonalds-ai-hiring-chat-bot-paradoxai/)
- - [Here are 58 Prime Day deals you can nab for $50 or less](https://www.theverge.com/tech/699123/amazon-prime-day-best-cheap-tech-deals-under-50-2025)<!-- TECH:END -->
+ - [McDonald’s AI Hiring Bot Exposed Millions of Applicants&#39; Data to Hackers Using the Password ‘123456’](https://www.wired.com/story/mcdonalds-ai-hiring-chat-bot-paradoxai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sounds like a plan](http://9gag.com/gag/aKGK6wW)
- - 😝 [Ever seen the movie The blob?](http://9gag.com/gag/awyeBMW)
- - 💣 [The moment she realized why kids made fun of her name](http://9gag.com/gag/aVvRw9M)
  - 😝 [25 years ago Alizee broke our minds with `Moi...Lolita`](http://9gag.com/gag/ae9RAPm)
- - 👉 [Imagine her face when she realized](http://9gag.com/gag/abARrxv)<!-- MEMES:END -->
+ - 😝 [Imagine her face when she realized](http://9gag.com/gag/abARrxv)
+ - 💣 [The moment she realized why kids made fun of her name](http://9gag.com/gag/aVvRw9M)
+ - 😝 [Nobody was prepared for this](http://9gag.com/gag/aNDj0jr)
+ - 👉 [Duck Hunt. How this worked still is a mystery to me](http://9gag.com/gag/a87V14V)<!-- MEMES:END -->
 
 ---
 

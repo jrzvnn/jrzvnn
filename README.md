@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 209 best Prime Day 2025 deals you can still get](https://www.theverge.com/tech/697594/amazon-prime-day-sale-best-tech-deals-2025)
- - [13 Prime Day Kindle Deals &lpar;Plus Amazon Echo Devices&rpar;](https://www.wired.com/story/prime-kindle-amazon-device-deals-2025-1/)
- - [3 Best Amazon Prime Day Peloton Deals &lpar;2025&rpar;: Bike, Row, Tread](https://www.wired.com/story/prime-day-peloton-deal-2025/)
- - [The 35 best Prime Day deals you can get for under $25](https://www.theverge.com/tech/701774/amazon-prime-day-best-cheap-tech-deals-under-25-2025)
- - [The ‘Click-to-Cancel’ Rule Was Killed, but Consumer Advocates Could Revive It](https://www.wired.com/story/ftc-click-to-cancel-rule-killed-consumer-advocates-could-revive-it/)<!-- TECH:END -->
+ - [The Best Prime Day Deals on Our Staff&#39;s Favorite Dyson Tools &lpar;2025&rpar;](https://www.wired.com/story/best-dyson-prime-day-deals-july-2025/)
+ - [The best 4K TV deals during Prime Day 2025](https://www.theverge.com/tech/699516/4k-tv-soundbar-streaming-deal-sale-amazon-prime-day)
+ - [The best Prime Day deals on our favorite robot vacuums](https://www.theverge.com/tech/698188/robot-vacuum-mop-deals-amazon-prime-day)
+ - [Some Verge-favorite gadgets are cheaper during Prime Day 2025](https://www.theverge.com/tech/699230/best-prime-day-deals-verge-favorites)
+ - [Not Just Any Prime Day Deals, 242 Obsessively Tested Picks—even $1,200 off an OLED TV](https://www.wired.com/story/best-amazon-prime-deals-july-2025-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

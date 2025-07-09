@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No good deed goes unpunished.](http://9gag.com/gag/aXPRr9v)
- - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/aD2QDmO)
- - 💣 [Kinda embarrassing to ask but I\u2019ve been trying to figure out how they built those old stone lighthouses in the middle of the ocean. I\u2019ve watched a few videos but I still haven\u2019t found one that really explains it in a satisfying way.](http://9gag.com/gag/aD2QdwK)
+ - 😝 [The homeowner association rules are truly wild. Imagine being fined for a frog figurine.](http://9gag.com/gag/agmKBOw)
+ - 😝 [This dude patience is admirable and should be bottled up because ....](http://9gag.com/gag/ae9RgM5)
+ - 💣 [Imagine her face when she realized](http://9gag.com/gag/abARrxv)
  - 😝 [God is Deaf](http://9gag.com/gag/an7GgX5)
- - 👉 [Why is there a hole in the glass?](http://9gag.com/gag/aYQRy3v)<!-- MEMES:END -->
+ - 👉 [Duck Hunt. How this worked still is a mystery to me](http://9gag.com/gag/a87V14V)<!-- MEMES:END -->
 
 ---
 

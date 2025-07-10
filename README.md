@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon expands its Now service in India to New Delhi, offering deliveries in as little as 10 minutes, after launching the service in Bengaluru in December 2024 &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/250710/p12#a250710p12)
- - [Not Just Any Prime Day Deals, 255 Obsessively Tested Picks—Even $1,200 Off an OLED TV](https://www.wired.com/story/best-amazon-prime-deals-july-2025-2/)
- - [A researcher says 245 extensions on nearly 1M devices are overriding security protections to turn browsers into engines that scrape websites for a paid service &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/250710/p11#a250710p11)
- - [The Allen Institute for AI launches FlexOlmo, an LLM architecture that lets data owners control and remove their training data from a model even after training &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250710/p10#a250710p10)
- - [Riyadh-based food delivery service Jahez agrees to acquire a 76.56% stake in Qatari e-commerce platform Snoonu for $245M in cash and stock &lpar;Yassmin Jabri/Bloomberg&rpar;](http://www.techmeme.com/250710/p8#a250710p8)<!-- TECH:END -->
+ - [SAG-AFTRA says Hollywood video game voice and motion capture actors signed a new contract with game studios, including AI protections like consent requirements &lpar;Danielle Broadway/Reuters&rpar;](http://www.techmeme.com/250710/p14#a250710p14)
+ - [Aqara’s feature-packed G410 video doorbell is now available](https://www.theverge.com/news/703741/aqaras-feature-packed-g410-video-doorbell-is-now-available)
+ - [Google launches its AI-powered ad tools in India; the country repealing its so-called &quot;Google Tax&quot; boosts its appeal to global tech companies selling online ads &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250710/p13#a250710p13)
+ - [New Prime Day Deals Updated Live—Tracked By Our Veteran Team](https://www.wired.com/live/amazon-prime-day-deals-live-in-25-1/)
+ - [Amazon expands its Now service in India to New Delhi, offering deliveries in as little as 10 minutes, after launching the service in Bengaluru in December 2024 &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/250710/p12#a250710p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

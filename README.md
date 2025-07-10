@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube’s ‘Trending’ section is about to disappear](https://www.theverge.com/news/704222/youtube-trending-page-removal-charts)
+ - [Google Fiber Aims to Take It&#39;s Fiber Internet Game to a New Level Via Partnership With Nokia](https://www.cnet.com/home/internet/google-fiber-aims-to-take-its-fiber-internet-game-to-a-new-level-via-partnership-with-nokia/#ftag=CAD590a51e)
+ - [Samsung Unpacked 2025 Live: Galaxy Z Fold 7, Galaxy Z Flip 7 and Galaxy Watch 8](https://www.cnet.com/tech/mobile/samsung-unpacked-2025-live-galaxy-z-fold-7-galaxy-z-flip-7-and-galaxy-watch-8/#ftag=CAD590a51e)
  - [Apple, Mastercard, Visa fend off high merchant fee lawsuit](https://appleinsider.com/articles/25/07/10/apple-mastercard-visa-fend-off-high-merchant-fee-lawsuit?utm_medium=rss)
- - [The Best Prime Day MacBook Deal Is Not the One You Think](https://www.wired.com/story/new-macbooks-low-price-prime-day-2025/)
- - [Hulu&amp;#8217;s King of the Hill revival reveals a whole new Texas in first trailer](https://www.theverge.com/tv/704127/hulu-king-of-the-hill-trailer)
- - [You Asked, We Answered: All of Your AI Angst](https://www.wired.com/story/uncanny-valley-podcast-you-asked-we-answered-all-of-your-ai-angst/)
- - [Jason Momoa&#39;s &#39;Chief of War&#39; brings Hawaiian history to Apple TV+](https://appleinsider.com/articles/25/07/10/jason-momoas-chief-of-war-brings-hawaiian-history-to-apple-tv?utm_medium=rss)<!-- TECH:END -->
+ - [The Best Prime Day MacBook Deal Is Not the One You Think](https://www.wired.com/story/new-macbooks-low-price-prime-day-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

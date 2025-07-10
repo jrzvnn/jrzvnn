@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [DHS Tells Police That Common Protest Activities Are ‘Violent Tactics’](https://www.wired.com/story/dhs-tells-police-that-common-protest-activities-are-violent-tactics/)
  - [The best Prime Day 2025 deals you can still get](https://www.theverge.com/tech/697599/amazon-prime-day-sale-best-tech-deals-2025-day-3)
  - [M4 Max Mac Studio vs M1 Ultra Mac Studio compared: A multi-generational shootout](https://appleinsider.com/inside/mac-studio/vs/m4-max-mac-studio-vs-m1-ultra-mac-studio-compared-a-multi-generational-shootout?utm_medium=rss)
- - [Ghost of Yōtei&amp;#8217;s gameplay deep dive shows the open world, combat, and chill beats](https://www.theverge.com/news/704597/ghost-of-yotei-ps5-gameplay-trailer)
- - [Some Switch 2 accessories and upgraded games are on sale for Prime Day](https://www.theverge.com/tech/704317/amazon-prime-day-best-nintendo-switch-2-accessories-game-deals-2025)<!-- TECH:END -->
+ - [You May See Less AI Slop After YouTube Enacts New Video Policies](https://www.cnet.com/tech/services-and-software/you-may-see-less-ai-slop-after-youtube-enacts-new-video-policies/#ftag=CAD590a51e)
+ - [Best Carpet Cleaners: I Used Real Life Messes as the Ultimate Test](https://www.cnet.com/news/best-carpet-cleaners/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

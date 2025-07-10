@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is not a list](http://9gag.com/gag/aAyv6V0)
- - 😝 [Silenced Ruger 22 in action, a classic for a reason](http://9gag.com/gag/a6ZGDNR)
- - 💣 [Self sustained Bed and Breakfast](http://9gag.com/gag/avy9yBW)
- - 😝 [Oh how the tables have turned](http://9gag.com/gag/adBROYd)
- - 👉 [Still looks the same...](http://9gag.com/gag/aBy4Zrx)<!-- MEMES:END -->
+ - 😝 [Never relax](http://9gag.com/gag/azx4eGZ)
+ - 😝 [When you try to be a hero and the universe has other plans](http://9gag.com/gag/aNDjwq4)
+ - 💣 [Women would be like \u201c a real man would marry her\u201d. Men know better](http://9gag.com/gag/awyeyY1)
+ - 😝 [This is why i&#39;m still single](http://9gag.com/gag/aGy7np7)
+ - 👉 [Silenced Ruger 22 in action, a classic for a reason](http://9gag.com/gag/a6ZGDNR)<!-- MEMES:END -->
 
 ---
 

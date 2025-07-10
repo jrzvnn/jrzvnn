@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Self sustained Bed and Breakfast](http://9gag.com/gag/avy9yBW)
- - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/aD2QDmO)
- - 💣 [Finally a good new policy by tech company](http://9gag.com/gag/aO8p2GE)
+ - 😝 [Australian Tarantula Hawk Wasp dragging off a huntsman spider to lay her egg on its paralyzed body. When the egg hatches, the larva consumes the paralyzed spider from the inside out, leaving the vital organs until last to keep their paralyzed meal alive as long as possible](http://9gag.com/gag/abARVdB)
  - 😝 [Lack of innovation](http://9gag.com/gag/ae9RAqm)
+ - 💣 [Duck Hunt. How this worked still is a mystery to me](http://9gag.com/gag/a87V14V)
+ - 😝 [Test? And take](http://9gag.com/gag/ae9Rg5m)
  - 👉 [Omg is this true](http://9gag.com/gag/a9yD1bW)<!-- MEMES:END -->
 
 ---

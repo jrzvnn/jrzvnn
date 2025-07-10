@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you try to be a hero and the universe has other plans](http://9gag.com/gag/aNDjwq4)
- - 😝 [Woman takes on big log](http://9gag.com/gag/aVvRgL2)
- - 💣 [Still looks the same...](http://9gag.com/gag/aBy4Zrx)
  - 😝 [Women would be like \u201c a real man would marry her\u201d. Men know better](http://9gag.com/gag/awyeyY1)
- - 👉 [This is not a list](http://9gag.com/gag/aAyv6V0)<!-- MEMES:END -->
+ - 😝 [Self sustained Bed and Breakfast](http://9gag.com/gag/avy9yBW)
+ - 💣 [When you try to be a hero and the universe has other plans](http://9gag.com/gag/aNDjwq4)
+ - 😝 [This is not a list](http://9gag.com/gag/aAyv6V0)
+ - 👉 [This ride almost became a runaway. Good thing people were quick to react and hold it down. That&#39;s some quick thinking and teamwork right there](http://9gag.com/gag/a2vO1Qp)<!-- MEMES:END -->
 
 ---
 

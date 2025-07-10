@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I think its great](http://9gag.com/gag/a6ZGE98)
- - 😝 [I think it was worth a try](http://9gag.com/gag/aVvR70M)
- - 💣 [More nonsence for your limited brain capacity](http://9gag.com/gag/aPArZRn)
  - 😝 [Unluko](http://9gag.com/gag/aZZR0K9)
- - 👉 [Test? And take](http://9gag.com/gag/ae9Rg5m)<!-- MEMES:END -->
+ - 😝 [Welp](http://9gag.com/gag/a6ZG1nL)
+ - 💣 [Que bueno que lo que nos gusta es ver hombres ricos.](http://9gag.com/gag/a0eO79n)
+ - 😝 [This ride almost became a runaway. Good thing people were quick to react and hold it down. That&#39;s some quick thinking and teamwork right there](http://9gag.com/gag/a2vO1Qp)
+ - 👉 [God is Deaf](http://9gag.com/gag/an7GgX5)<!-- MEMES:END -->
 
 ---
 

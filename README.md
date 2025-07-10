@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [19 Best Prime Day Coffee Maker Deals on Machines, Grinders, and More](https://www.wired.com/story/the-best-prime-day-coffee-deals-2/)
  - [The best Prime Day deals on games, hardware, and accessories](https://www.theverge.com/tech/698696/amazon-prime-day-best-gaming-deals-controllers-headsets-accessories-2025)
  - [Bluesky rolls out age verification in the UK to comply with the Online Safety Act; users under 18 or those opting out of verification will get limited access &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250710/p38#a250710p38)
  - [The 12 Best Prime Day Purchases Our Gear Team Made](https://www.wired.com/story/what-we-bought-prime-day-july-2025/)
- - [The best laptop deals we’ve found for Prime Day &lpar;so far&rpar;](https://www.theverge.com/tech/699521/amazon-prime-day-laptops-notebooks-gaming-apple-lenovo-hp)
- - [Apple&#39;s early 2026 product lineup to include iPhone 17e, Studio Display, iPads](https://appleinsider.com/articles/25/07/10/apples-early-2026-product-lineup-to-include-iphone-17e-studio-display-ipads?utm_medium=rss)<!-- TECH:END -->
+ - [The best laptop deals we’ve found for Prime Day &lpar;so far&rpar;](https://www.theverge.com/tech/699521/amazon-prime-day-laptops-notebooks-gaming-apple-lenovo-hp)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

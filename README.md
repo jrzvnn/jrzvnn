@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [19 Best Prime Day Coffee Maker Deals on Machines, Grinders, and More](https://www.wired.com/story/the-best-prime-day-coffee-deals-2/)
- - [The best Prime Day deals on games, hardware, and accessories](https://www.theverge.com/tech/698696/amazon-prime-day-best-gaming-deals-controllers-headsets-accessories-2025)
- - [Bluesky rolls out age verification in the UK to comply with the Online Safety Act; users under 18 or those opting out of verification will get limited access &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250710/p38#a250710p38)
- - [The 12 Best Prime Day Purchases Our Gear Team Made](https://www.wired.com/story/what-we-bought-prime-day-july-2025/)
- - [The best laptop deals we’ve found for Prime Day &lpar;so far&rpar;](https://www.theverge.com/tech/699521/amazon-prime-day-laptops-notebooks-gaming-apple-lenovo-hp)<!-- TECH:END -->
+ - [The best fitness tracker and smartwatch Prime Day deals](https://www.theverge.com/tech/702080/amazon-prime-day-best-fitness-tracker-smartwatch-deals-2025)
+ - [The best 4K TV deals during Prime Day 2025](https://www.theverge.com/tech/699516/4k-tv-soundbar-streaming-deal-sale-amazon-prime-day)
+ - [Razer&amp;#8217;s got a new version of its popular DeathAdder Pro gaming mouse](https://www.theverge.com/news/704581/razer-deathadder-v4-pro-wireless-gaming-mouse-specs)
+ - [13 Best Amazon Prime Day Vacuum Deals for Dust and Dirt in 2025](https://www.wired.com/story/prime-day-vacuum-deals-july-2025-1/)
+ - [23 Best Prime Day Coffee Maker Deals on Machines, Grinders, and More](https://www.wired.com/story/the-best-prime-day-coffee-deals-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

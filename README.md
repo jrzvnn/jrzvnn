@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unluko](http://9gag.com/gag/aZZR0K9)
- - 😝 [Welp](http://9gag.com/gag/a6ZG1nL)
- - 💣 [Que bueno que lo que nos gusta es ver hombres ricos.](http://9gag.com/gag/a0eO79n)
- - 😝 [This ride almost became a runaway. Good thing people were quick to react and hold it down. That&#39;s some quick thinking and teamwork right there](http://9gag.com/gag/a2vO1Qp)
- - 👉 [God is Deaf](http://9gag.com/gag/an7GgX5)<!-- MEMES:END -->
+ - 😝 [Omg is this true](http://9gag.com/gag/a9yD1bW)
+ - 😝 [Duck Hunt. How this worked still is a mystery to me](http://9gag.com/gag/a87V14V)
+ - 💣 [Power of proper nutrition I guess.](http://9gag.com/gag/aW4Rj3d)
+ - 😝 [And in the end, the copper is stolen](http://9gag.com/gag/aD2QD17)
+ - 👉 [No good deed goes unpunished.](http://9gag.com/gag/aXPRr9v)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This ride almost became a runaway. Good thing people were quick to react and hold it down. That&#39;s some quick thinking and teamwork right there](http://9gag.com/gag/a2vO1Qp)
- - 😝 [And the card driver a new pants...](http://9gag.com/gag/a34NGBv)
- - 💣 [Still looks the same...](http://9gag.com/gag/aBy4Zrx)
- - 😝 [Never relax](http://9gag.com/gag/azx4eGZ)
- - 👉 [No good deed goes unpunished.](http://9gag.com/gag/aXPRr9v)<!-- MEMES:END -->
+ - 😝 [Telling normal women they look like trans women, look how offended they get](http://9gag.com/gag/avy9yOb)
+ - 😝 [More nonsence for your limited brain capacity](http://9gag.com/gag/aPArZRn)
+ - 💣 [Phone caused this but wtf #9 doing?](http://9gag.com/gag/ajPRgG0)
+ - 😝 [Women would be like \u201c a real man would marry her\u201d. Men know better](http://9gag.com/gag/awyeyY1)
+ - 👉 [Still looks the same...](http://9gag.com/gag/aBy4Zrx)<!-- MEMES:END -->
 
 ---
 

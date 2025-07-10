@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jason Momoa&#39;s &#39;Chief of War&#39; brings Hawaiian history to Apple TV+](https://appleinsider.com/articles/25/07/10/jason-momoas-chief-of-war-brings-hawaiian-history-to-apple-tv?utm_medium=rss)
- - [Sources: some AI researchers rejected Meta&#39;s offers to stay at jobs that align with their values; far fewer defected from Anthropic and DeepMind than OpenAI &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250710/p29#a250710p29)
- - [The ModRetro Chromatic Is a Game Boy Fit for Your Apocalypse Bunker](https://www.wired.com/story/the-modretro-chromatic-is-a-game-boy-fit-for-your-apocalypse-bunker/)
- - [Our favorite desk accessories for Prime Day](https://www.theverge.com/tech/699494/verge-favorite-desk-accessories-prime-day-deals)
- - [Netflix keeps Squid Game going with more of its reality show](https://www.theverge.com/news/704199/netflix-squid-game-the-challenge-reality-show-season-2-3)<!-- TECH:END -->
+ - [Apple, Mastercard, Visa fend off high merchant fee lawsuit](https://appleinsider.com/articles/25/07/10/apple-mastercard-visa-fend-off-high-merchant-fee-lawsuit?utm_medium=rss)
+ - [The Best Prime Day MacBook Deal Is Not the One You Think](https://www.wired.com/story/new-macbooks-low-price-prime-day-2025/)
+ - [Hulu&amp;#8217;s King of the Hill revival reveals a whole new Texas in first trailer](https://www.theverge.com/tv/704127/hulu-king-of-the-hill-trailer)
+ - [You Asked, We Answered: All of Your AI Angst](https://www.wired.com/story/uncanny-valley-podcast-you-asked-we-answered-all-of-your-ai-angst/)
+ - [Jason Momoa&#39;s &#39;Chief of War&#39; brings Hawaiian history to Apple TV+](https://appleinsider.com/articles/25/07/10/jason-momoas-chief-of-war-brings-hawaiian-history-to-apple-tv?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

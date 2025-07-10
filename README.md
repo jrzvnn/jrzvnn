@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Linda Yaccarino told close contacts that the return of some advertisers and X&#39;s merger with xAI, which reduced her role, made it a good time to depart &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250710/p4#a250710p4)
- - [Musk makes grand promises about Grok 4 in the wake of a Nazi chatbot meltdown](https://www.theverge.com/x-ai/703721/grok-4-x-ai-elon-musk-live-demo)
- - [xAI launches Grok 4 Heavy, a &quot;multi-agent version&quot; of Grok 4 offering increased performance, and unveils a new $300/month AI subscription plan, SuperGrok Heavy &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250710/p3#a250710p3)
- - [xAI introduces Grok 4, trained on its Colossus supercomputer, featuring multimodal tools, faster reasoning, Grok 4 Voice, Grok 4 Code, a new interface, and more &lpar;Amanda Caswell/Tom&#39;s Guide&rpar;](http://www.techmeme.com/250710/p2#a250710p2)
- - [The best Prime Day 2025 deals you can still get](https://www.theverge.com/tech/697594/amazon-prime-day-sale-best-tech-deals-2025)<!-- TECH:END -->
+ - [PowerLines: US power providers have sought regulatory approval for $29B in rate increases in H1 2025, up 142% YoY, following booming data center demand &lpar;Martha Muir/Financial Times&rpar;](http://www.techmeme.com/250710/p7#a250710p7)
+ - [Electricity bills may rise 20%+ in parts of PJM Interconnection&#39;s 13-state territory as the largest US power grid struggles to meet AI and data center demand &lpar;Laila Kearney/Reuters&rpar;](http://www.techmeme.com/250710/p6#a250710p6)
+ - [Elon Musk Unveils Grok 4 Amid Controversy Over Chatbot’s Antisemitic Posts](https://www.wired.com/story/grok-4-elon-musk-xai-antisemitic-posts/)
+ - [TSMC reports Q2 revenue up 39% YoY to ~$32B, beating estimates and boosting expectations for a sustained post-ChatGPT boom in AI spending &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250710/p5#a250710p5)
+ - [Sources: Linda Yaccarino told close contacts that the return of some advertisers and X&#39;s merger with xAI, which reduced her role, made it a good time to depart &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250710/p4#a250710p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never relax](http://9gag.com/gag/azx4eGZ)
- - 😝 [Once upon a time, in heaven](http://9gag.com/gag/aMVqBEx)
- - 💣 [Duck Hunt. How this worked still is a mystery to me](http://9gag.com/gag/a87V14V)
- - 😝 [The moment you realize your flight plan needs a serious revision](http://9gag.com/gag/aO8p2LM)
- - 👉 [Women would be like \u201c a real man would marry her\u201d. Men know better](http://9gag.com/gag/awyeyY1)<!-- MEMES:END -->
+ - 😝 [British \ud83c\uddec\ud83c\udde7 MAN standing up against Police](http://9gag.com/gag/ary8mP6)
+ - 😝 [Just as I pirated this meme.](http://9gag.com/gag/aVvRvdn)
+ - 💣 [Finally a good new policy by tech company](http://9gag.com/gag/aO8p2GE)
+ - 😝 [The pure joy of finding the perfect stick, a true treasure.](http://9gag.com/gag/a9yDz1o)
+ - 👉 [The real edge of tomorrow](http://9gag.com/gag/aQzyvQK)<!-- MEMES:END -->
 
 ---
 

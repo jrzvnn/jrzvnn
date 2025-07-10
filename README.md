@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [British \ud83c\uddec\ud83c\udde7 MAN standing up against Police](http://9gag.com/gag/ary8mP6)
  - 😝 [Just as I pirated this meme.](http://9gag.com/gag/aVvRvdn)
- - 💣 [Finally a good new policy by tech company](http://9gag.com/gag/aO8p2GE)
- - 😝 [The pure joy of finding the perfect stick, a true treasure.](http://9gag.com/gag/a9yDz1o)
- - 👉 [The real edge of tomorrow](http://9gag.com/gag/aQzyvQK)<!-- MEMES:END -->
+ - 😝 [Finally a good new policy by tech company](http://9gag.com/gag/aO8p2GE)
+ - 💣 [The pure joy of finding the perfect stick, a true treasure.](http://9gag.com/gag/a9yDz1o)
+ - 😝 [It&#39;s my biggest regret in life. So much money burned away, I can&#39;t quit because it&#39;s too hard.](http://9gag.com/gag/avy91Eb)
+ - 👉 [Roman aqueducts: an ancient engineering marvel that still impresses today.](http://9gag.com/gag/a1mO7o6)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Condé Nast and Hearst sign multi-year agreements with Amazon to license their content for use in Amazon&#39;s AI shopping assistant Rufus &lpar;Jessica Davies/Digiday&rpar;](http://www.techmeme.com/250710/p21#a250710p21)
  - [Hyundai Reveals the ‘Lightspeed’ Ioniq 6 N](https://www.wired.com/story/hyundai-reveals-the-ioniq-6-n/)
  - [Samsung may have built a new factory just for folding iPhone displays](https://appleinsider.com/articles/25/07/10/samsung-may-have-built-a-new-factory-just-for-folding-iphone-displays?utm_medium=rss)
  - [Apple&#39;s App Store changed the software world 17 years ago](https://appleinsider.com/articles/23/01/15/apples-app-store-changed-the-software-world-15-years-ago?utm_medium=rss)
- - [UK police arrest four people, a 20-year-old woman and three men age 17 to 19, in relation to the M&amp;S and Co-op hacks, which started in April and caused havoc &lpar;Joe Tidy/BBC&rpar;](http://www.techmeme.com/250710/p20#a250710p20)
- - [Some Verge-favorite gadgets are cheaper during Prime Day 2025](https://www.theverge.com/tech/699230/best-prime-day-deals-verge-favorites)<!-- TECH:END -->
+ - [UK police arrest four people, a 20-year-old woman and three men age 17 to 19, in relation to the M&amp;S and Co-op hacks, which started in April and caused havoc &lpar;Joe Tidy/BBC&rpar;](http://www.techmeme.com/250710/p20#a250710p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Should be at every corner](http://9gag.com/gag/awyeye1)
  - 😝 [A Gift from Terry](http://9gag.com/gag/aRBREo5)
- - 💣 [Woman takes on big log](http://9gag.com/gag/aVvRgL2)
- - 😝 [Our boy looking Good and HEALTHY again!!! Who&#39;s ready for the Mummy 4.](http://9gag.com/gag/an7GQp0)
+ - 💣 [Our boy looking Good and HEALTHY again!!! Who&#39;s ready for the Mummy 4.](http://9gag.com/gag/an7GQp0)
+ - 😝 [Woman takes on big log](http://9gag.com/gag/aVvRgL2)
  - 👉 [Telling normal women they look like trans women, look how offended they get](http://9gag.com/gag/avy9yOb)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M4 Max Mac Studio vs M1 Ultra Mac Studio compared: A multi-generational shootout](https://appleinsider.com/inside/mac-studio/vs/m4-max-mac-studio-vs-m1-ultra-mac-studio-compared-a-multi-generational-shootout?utm_medium=rss)
  - [Ghost of Yōtei&amp;#8217;s gameplay deep dive shows the open world, combat, and chill beats](https://www.theverge.com/news/704597/ghost-of-yotei-ps5-gameplay-trailer)
  - [Some Switch 2 accessories and upgraded games are on sale for Prime Day](https://www.theverge.com/tech/704317/amazon-prime-day-best-nintendo-switch-2-accessories-game-deals-2025)
  - [Florida AG&#39;s office launches an investigation into Robinhood for &quot;falsely promoting&quot; its trading platform as the &quot;least expensive way to purchase crypto&quot; &lpar;Kirk Ogunrinde/Bloomberg&rpar;](http://www.techmeme.com/250710/p39#a250710p39)
- - [Final hours: Save $200 on Apple&#39;s M4 Mac mini &lpar;24GB, 512GB&rpar;, now $799](https://appleinsider.com/articles/25/07/10/final-hours-save-200-on-apples-m4-mac-mini-24gb-512gb-now-799?utm_medium=rss)
- - [The best fitness tracker and smartwatch Prime Day deals](https://www.theverge.com/tech/702080/amazon-prime-day-best-fitness-tracker-smartwatch-deals-2025)<!-- TECH:END -->
+ - [Final hours: Save $200 on Apple&#39;s M4 Mac mini &lpar;24GB, 512GB&rpar;, now $799](https://appleinsider.com/articles/25/07/10/final-hours-save-200-on-apples-m4-mac-mini-24gb-512gb-now-799?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

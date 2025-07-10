@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You know the rules](http://9gag.com/gag/aW4R7X3)
- - 😝 [Legends assemble!!](http://9gag.com/gag/aKGKAnZ)
- - 💣 [Still looks the same...](http://9gag.com/gag/aBy4Zrx)
  - 😝 [When you try to be a hero and the universe has other plans](http://9gag.com/gag/aNDjwq4)
- - 👉 [Never relax](http://9gag.com/gag/azx4eGZ)<!-- MEMES:END -->
+ - 😝 [Woman takes on big log](http://9gag.com/gag/aVvRgL2)
+ - 💣 [Still looks the same...](http://9gag.com/gag/aBy4Zrx)
+ - 😝 [Women would be like \u201c a real man would marry her\u201d. Men know better](http://9gag.com/gag/awyeyY1)
+ - 👉 [This is not a list](http://9gag.com/gag/aAyv6V0)<!-- MEMES:END -->
 
 ---
 

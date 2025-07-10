@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Condé Nast and Hearst sign multi-year agreements with Amazon to license their content for use in Amazon&#39;s AI shopping assistant Rufus &lpar;Jessica Davies/Digiday&rpar;](http://www.techmeme.com/250710/p21#a250710p21)
- - [Hyundai Reveals the ‘Lightspeed’ Ioniq 6 N](https://www.wired.com/story/hyundai-reveals-the-ioniq-6-n/)
- - [Samsung may have built a new factory just for folding iPhone displays](https://appleinsider.com/articles/25/07/10/samsung-may-have-built-a-new-factory-just-for-folding-iphone-displays?utm_medium=rss)
- - [Apple&#39;s App Store changed the software world 17 years ago](https://appleinsider.com/articles/23/01/15/apples-app-store-changed-the-software-world-15-years-ago?utm_medium=rss)
- - [UK police arrest four people, a 20-year-old woman and three men age 17 to 19, in relation to the M&amp;S and Co-op hacks, which started in April and caused havoc &lpar;Joe Tidy/BBC&rpar;](http://www.techmeme.com/250710/p20#a250710p20)<!-- TECH:END -->
+ - [Some of our favorite headphones are steeply discounted for Prime Day](https://www.theverge.com/tech/700846/amazon-prime-day-best-noise-canceling-headphone-earbud-deals-2025)
+ - [Substack co-founder Hamish McKenzie is launching a biweekly column on Lachlan Cartwright&#39;s Breaker, a publication hosted on Substack rival beehiiv &lpar;Emily Sundberg/Feed Me&rpar;](http://www.techmeme.com/250710/p24#a250710p24)
+ - [The Internet Watch Foundation identified 1,286 AI-generated videos of child sexual abuse so far in 2025 globally, up from just two in the first half of 2024 &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/250710/p23#a250710p23)
+ - [The best Prime Day deals on charging accessories](https://www.theverge.com/tech/698933/amazon-prime-day-2025-chargers-power-banks-batteries-deal-sale)
+ - [The best 4K TV deals during Prime Day 2025](https://www.theverge.com/tech/699516/4k-tv-soundbar-streaming-deal-sale-amazon-prime-day)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

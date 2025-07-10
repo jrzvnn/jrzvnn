@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I love this Hoto mini electric screwdriver, and it&amp;#8217;s cheaper than ever for Prime Day](https://www.theverge.com/tech/704368/amazon-prime-day-hoto-electric-screwdriver-air-pump-deal-sale-2025)
+ - [Dbrand says its new Switch 2 Joy-Con grips fix the detachment issue](https://www.theverge.com/news/704767/dbrand-switch-2-killswitch-joy-con-lock-grip-detachment-fixed)
  - [Not Just Any Prime Day Deals, 279 Obsessively Tested Picks—Even $1,200 Off an OLED TV](https://www.wired.com/story/best-amazon-prime-deals-july-2025-2/)
  - [Belkin announces it is ending support for its Wemo devices and app on January 31, 2026; a limited number of devices will continue to function via HomeKit &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250710/p40#a250710p40)
- - [Best Printer for Your Home or Office in 2025: Tested by Our Experts](https://www.cnet.com/tech/computing/best-printer/#ftag=CAD590a51e)
- - [Best Soundbar of 2025: Top Picks From Roku, Yamaha and More](https://www.cnet.com/tech/home-entertainment/best-soundbar/#ftag=CAD590a51e)
- - [Prime Day Deal: Get the Lisen MagSafe Power Bank at 20% Off and Score a Free Battery Pack](https://www.cnet.com/deals/prime-day-deal-get-the-lisen-magsafe-power-bank-at-20-off-and-score-a-free-battery-pack/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Printer for Your Home or Office in 2025: Tested by Our Experts](https://www.cnet.com/tech/computing/best-printer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Telling normal women they look like trans women, look how offended they get](http://9gag.com/gag/avy9yOb)
- - 😝 [More nonsence for your limited brain capacity](http://9gag.com/gag/aPArZRn)
- - 💣 [Phone caused this but wtf #9 doing?](http://9gag.com/gag/ajPRgG0)
- - 😝 [Women would be like \u201c a real man would marry her\u201d. Men know better](http://9gag.com/gag/awyeyY1)
- - 👉 [Still looks the same...](http://9gag.com/gag/aBy4Zrx)<!-- MEMES:END -->
+ - 😝 [Finally a good new policy by tech company](http://9gag.com/gag/aO8p2GE)
+ - 😝 [The famous sample from Linkin Park&#39;s Faint](http://9gag.com/gag/aD2QYKK)
+ - 💣 [Telling normal women they look like trans women, look how offended they get](http://9gag.com/gag/avy9yOb)
+ - 😝 [Our boy looking Good and HEALTHY again!!! Who&#39;s ready for the Mummy 4.](http://9gag.com/gag/an7GQp0)
+ - 👉 [British \ud83c\uddec\ud83c\udde7 MAN standing up against Police](http://9gag.com/gag/ary8mP6)<!-- MEMES:END -->
 
 ---
 

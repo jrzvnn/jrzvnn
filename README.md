@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Still looks the same...](http://9gag.com/gag/aBy4Zrx)
- - 😝 [When you try to be a hero and the universe has other plans](http://9gag.com/gag/aNDjwq4)
- - 💣 [Wow, that is pretty impressive!!](http://9gag.com/gag/awyez7x)
- - 😝 [More nonsence for your limited brain capacity](http://9gag.com/gag/aPArZRn)
- - 👉 [Test? And take](http://9gag.com/gag/ae9Rg5m)<!-- MEMES:END -->
+ - 😝 [Never relax](http://9gag.com/gag/azx4eGZ)
+ - 😝 [Once upon a time, in heaven](http://9gag.com/gag/aMVqBEx)
+ - 💣 [Duck Hunt. How this worked still is a mystery to me](http://9gag.com/gag/a87V14V)
+ - 😝 [The moment you realize your flight plan needs a serious revision](http://9gag.com/gag/aO8p2LM)
+ - 👉 [Women would be like \u201c a real man would marry her\u201d. Men know better](http://9gag.com/gag/awyeyY1)<!-- MEMES:END -->
 
 ---
 

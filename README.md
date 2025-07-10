@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best 13 Prime Day Kitchen Deals &lpar;2025&rpar;: Breville, Ooni, Oxo](https://www.wired.com/story/prime-day-kitchen-deals-july-2025-2/)
+ - [Harmonic, a startup co-founded by Robinhood CEO Vlad Tenev that aims to build AI better at math than humans, raised a $100M Series B at a $875M valuation &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250710/p33#a250710p33)
  - [Some of our favorite headphones are steeply discounted for Prime Day](https://www.theverge.com/tech/700846/amazon-prime-day-best-noise-canceling-headphone-earbud-deals-2025)
  - [The best Prime Day smart home deals we found](https://www.theverge.com/amazon-prime-day-deals-tech/699919/best-smart-home-deals-amazon-prime-day)
- - [Elon Musk wants to bring Tesla’s robotaxis to SF — good luck](https://www.theverge.com/tesla/704249/elon-musk-tesla-robotaxi-sf-california-dmv-permits)
- - [The 22 Best Non-Prime Day Deals From Retailers That Are Not Amazon](https://www.wired.com/story/best-prime-day-deals-from-other-retailers/)
- - [The best Prime Day deals on our favorite robot vacuums](https://www.theverge.com/tech/698188/robot-vacuum-mop-deals-amazon-prime-day)<!-- TECH:END -->
+ - [Elon Musk wants to bring Tesla’s robotaxis to SF — good luck](https://www.theverge.com/tesla/704249/elon-musk-tesla-robotaxi-sf-california-dmv-permits)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

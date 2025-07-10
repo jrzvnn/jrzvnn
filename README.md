@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Omg is this true](http://9gag.com/gag/a9yD1bW)
  - 😝 [Duck Hunt. How this worked still is a mystery to me](http://9gag.com/gag/a87V14V)
- - 💣 [Power of proper nutrition I guess.](http://9gag.com/gag/aW4Rj3d)
  - 😝 [And in the end, the copper is stolen](http://9gag.com/gag/aD2QD17)
+ - 💣 [Australian Tarantula Hawk Wasp dragging off a huntsman spider to lay her egg on its paralyzed body. When the egg hatches, the larva consumes the paralyzed spider from the inside out, leaving the vital organs until last to keep their paralyzed meal alive as long as possible](http://9gag.com/gag/abARVdB)
+ - 😝 [God is Deaf](http://9gag.com/gag/an7GgX5)
  - 👉 [No good deed goes unpunished.](http://9gag.com/gag/aXPRr9v)<!-- MEMES:END -->
 
 ---

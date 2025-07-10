@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Not Just Any Prime Day Deals, 279 Obsessively Tested Picks—Even $1,200 Off an OLED TV](https://www.wired.com/story/best-amazon-prime-deals-july-2025-2/)
  - [Belkin announces it is ending support for its Wemo devices and app on January 31, 2026; a limited number of devices will continue to function via HomeKit &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250710/p40#a250710p40)
- - [DHS Tells Police That Common Protest Activities Are ‘Violent Tactics’](https://www.wired.com/story/dhs-tells-police-that-common-protest-activities-are-violent-tactics/)
- - [The best Prime Day 2025 deals you can still get](https://www.theverge.com/tech/697599/amazon-prime-day-sale-best-tech-deals-2025-day-3)
- - [M4 Max Mac Studio vs M1 Ultra Mac Studio compared: A multi-generational shootout](https://appleinsider.com/inside/mac-studio/vs/m4-max-mac-studio-vs-m1-ultra-mac-studio-compared-a-multi-generational-shootout?utm_medium=rss)
- - [You May See Less AI Slop After YouTube Enacts New Video Policies](https://www.cnet.com/tech/services-and-software/you-may-see-less-ai-slop-after-youtube-enacts-new-video-policies/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Printer for Your Home or Office in 2025: Tested by Our Experts](https://www.cnet.com/tech/computing/best-printer/#ftag=CAD590a51e)
+ - [Best Soundbar of 2025: Top Picks From Roku, Yamaha and More](https://www.cnet.com/tech/home-entertainment/best-soundbar/#ftag=CAD590a51e)
+ - [Prime Day Deal: Get the Lisen MagSafe Power Bank at 20% Off and Score a Free Battery Pack](https://www.cnet.com/deals/prime-day-deal-get-the-lisen-magsafe-power-bank-at-20-off-and-score-a-free-battery-pack/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

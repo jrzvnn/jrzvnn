@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Should be at every corner](http://9gag.com/gag/awyeye1)
- - 😝 [Never relax](http://9gag.com/gag/azx4eGZ)
- - 💣 [When you try to be a hero and the universe has other plans](http://9gag.com/gag/aNDjwq4)
- - 😝 [`Be vewwy, vewwy quiet. I&#39;m hunting seawife. Hehehehehehe...`](http://9gag.com/gag/aO8p2Pr)
- - 👉 [Still looks the same...](http://9gag.com/gag/aBy4Zrx)<!-- MEMES:END -->
+ - 😝 [You know the rules](http://9gag.com/gag/aW4R7X3)
+ - 😝 [Legends assemble!!](http://9gag.com/gag/aKGKAnZ)
+ - 💣 [Still looks the same...](http://9gag.com/gag/aBy4Zrx)
+ - 😝 [When you try to be a hero and the universe has other plans](http://9gag.com/gag/aNDjwq4)
+ - 👉 [Never relax](http://9gag.com/gag/azx4eGZ)<!-- MEMES:END -->
 
 ---
 

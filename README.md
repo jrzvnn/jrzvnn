@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now we finally know!](http://9gag.com/gag/aLnWvex)
+ - 😝 [How many police officers are required to enforce diversity?](http://9gag.com/gag/a1mONd8)
+ - 😝 [`Be vewwy, vewwy quiet. I&#39;m hunting seawife. Hehehehehehe...`](http://9gag.com/gag/aO8p2Pr)
+ - 💣 [Women would be like \u201c a real man would marry her\u201d. Men know better](http://9gag.com/gag/awyeyY1)
  - 😝 [Never relax](http://9gag.com/gag/azx4eGZ)
- - 💣 [Should be at every corner](http://9gag.com/gag/awyeye1)
- - 😝 [The German national football team 20 years ago.](http://9gag.com/gag/an7GgjB)
- - 👉 [Women would be like \u201c a real man would marry her\u201d. Men know better](http://9gag.com/gag/awyeyY1)<!-- MEMES:END -->
+ - 👉 [This ride almost became a runaway. Good thing people were quick to react and hold it down. That&#39;s some quick thinking and teamwork right there](http://9gag.com/gag/a2vO1Qp)<!-- MEMES:END -->
 
 ---
 

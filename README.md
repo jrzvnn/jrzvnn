@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Prime Day deals on charging accessories](https://www.theverge.com/tech/698933/amazon-prime-day-2025-chargers-power-banks-batteries-deal-sale)
+ - [Here are 58 Prime Day deals you can nab for $50 or less](https://www.theverge.com/tech/699123/amazon-prime-day-best-cheap-tech-deals-under-50-2025)
+ - [Hyundai’s Ioniq 6 N looks like a fake-shifting, drift-happy good time](https://www.theverge.com/news/704059/hyundai-ioniq-6-n-performance-photos-specs)
  - [Some Verge-favorite gadgets are cheaper during Prime Day 2025](https://www.theverge.com/tech/699230/best-prime-day-deals-verge-favorites)
- - [Anker’s fast power bank with two built-in USB-C cables is 30 percent off for Prime Day](https://www.theverge.com/tech/703789/amazon-prime-day-anker-laptop-power-bank-usb-charger-deal-sale-2025)
- - [Our favorite desk accessories for Prime Day](https://www.theverge.com/tech/699494/verge-favorite-desk-accessories-prime-day-deals)
- - [How Video Games Became the New Battleground for Actors and AI Protections](https://www.wired.com/story/video-games-voice-actors-strike-over-artificial-intelligence/)
- - [Murderbot is getting a season 2 on Apple TV Plus](https://www.theverge.com/news/704047/murderbot-season-2-apple-tv-plus)<!-- TECH:END -->
+ - [Anker’s fast power bank with two built-in USB-C cables is 30 percent off for Prime Day](https://www.theverge.com/tech/703789/amazon-prime-day-anker-laptop-power-bank-usb-charger-deal-sale-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

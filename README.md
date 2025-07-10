@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Omg is this true](http://9gag.com/gag/a9yD1bW)
- - 😝 [Duck Hunt. How this worked still is a mystery to me](http://9gag.com/gag/a87V14V)
- - 💣 [Meanwhile in Great Britain](http://9gag.com/gag/aD2QDmO)
+ - 😝 [A brave dog stands its ground against a pack of wolves, defending its home with unwavering courage. The wolves, initially confident, are eventually deterred by the dog&#39;s fierce determination, showcasing a remarkable display of bravery.](http://9gag.com/gag/aW4Rp4q)
  - 😝 [Self sustained Bed and Breakfast](http://9gag.com/gag/avy9yBW)
- - 👉 [Sasha knows what&#39;s up](http://9gag.com/gag/ajPRmOx)<!-- MEMES:END -->
+ - 💣 [Wow, that is pretty impressive!!](http://9gag.com/gag/awyez7x)
+ - 😝 [No good deed goes unpunished.](http://9gag.com/gag/aXPRr9v)
+ - 👉 [Omg is this true](http://9gag.com/gag/a9yD1bW)<!-- MEMES:END -->
 
 ---
 

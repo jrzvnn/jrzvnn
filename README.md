@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finally a good new policy by tech company](http://9gag.com/gag/aO8p2GE)
- - 😝 [The famous sample from Linkin Park&#39;s Faint](http://9gag.com/gag/aD2QYKK)
- - 💣 [Telling normal women they look like trans women, look how offended they get](http://9gag.com/gag/avy9yOb)
- - 😝 [Our boy looking Good and HEALTHY again!!! Who&#39;s ready for the Mummy 4.](http://9gag.com/gag/an7GQp0)
- - 👉 [British \ud83c\uddec\ud83c\udde7 MAN standing up against Police](http://9gag.com/gag/ary8mP6)<!-- MEMES:END -->
+ - 😝 [Never relax](http://9gag.com/gag/azx4eGZ)
+ - 😝 [And the card driver a new pants...](http://9gag.com/gag/a34NGBv)
+ - 💣 [This ride almost became a runaway. Good thing people were quick to react and hold it down. That&#39;s some quick thinking and teamwork right there](http://9gag.com/gag/a2vO1Qp)
+ - 😝 [Women would be like \u201c a real man would marry her\u201d. Men know better](http://9gag.com/gag/awyeyY1)
+ - 👉 [Telling normal women they look like trans women, look how offended they get](http://9gag.com/gag/avy9yOb)<!-- MEMES:END -->
 
 ---
 

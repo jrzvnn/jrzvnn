@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is why i&#39;m still single](http://9gag.com/gag/aGy7np7)
- - 😝 [Still looks the same...](http://9gag.com/gag/aBy4Zrx)
+ - 😝 [Silenced Ruger 22 in action, a classic for a reason](http://9gag.com/gag/a6ZGDNR)
+ - 😝 [It&#39;s my biggest regret in life. So much money burned away, I can&#39;t quit because it&#39;s too hard.](http://9gag.com/gag/avy91Eb)
  - 💣 [When you try to be a hero and the universe has other plans](http://9gag.com/gag/aNDjwq4)
  - 😝 [Women would be like \u201c a real man would marry her\u201d. Men know better](http://9gag.com/gag/awyeyY1)
- - 👉 [Silenced Ruger 22 in action, a classic for a reason](http://9gag.com/gag/a6ZGDNR)<!-- MEMES:END -->
+ - 👉 [This is not a list](http://9gag.com/gag/aAyv6V0)<!-- MEMES:END -->
 
 ---
 

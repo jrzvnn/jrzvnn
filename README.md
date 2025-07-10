@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Rotterdam court sentences a Russian to three years in prison for breaching international sanctions by sharing sensitive ASML info with someone in Russia &lpar;Mike Corder/Associated Press&rpar;](http://www.techmeme.com/250710/p26#a250710p26)
  - [19 Best Prime Day Fitness Tracker Deals and Smart Ring Sales &lpar;2025&rpar;](https://www.wired.com/story/prime-day-tracker-and-ring-2025-2/)
  - [Agora, which offers a white-labeling service that lets companies launch self-branded versions of its stablecoin, AUSD, raised a $50M Series A led by Paradigm &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/250710/p25#a250710p25)
  - [The 35 best Prime Day deals you can get for under $25](https://www.theverge.com/tech/701774/amazon-prime-day-best-cheap-tech-deals-under-25-2025)
- - [Nintendo is ending its cost-saving Switch game vouchers](https://www.theverge.com/news/703993/nintendo-switch-game-voucher-discontinued)
- - [Inside the AI startup frenzy: ‘Everyone’s pivoting, then pivoting again’](https://www.theverge.com/decoder-podcast-with-nilay-patel/699840/ellis-hamburger-meaning-ai-startup-consulting-snap-browser-company)<!-- TECH:END -->
+ - [Nintendo is ending its cost-saving Switch game vouchers](https://www.theverge.com/news/703993/nintendo-switch-game-voucher-discontinued)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

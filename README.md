@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tried to post this in r/assholedesigns but they told me to post here](https://www.reddit.com/r/funny/comments/1lwnv59/tried_to_post_this_in_rassholedesigns_but_they/)
- - 😝 [Women would be like \u201c a real man would marry her\u201d. Men know better](http://9gag.com/gag/awyeyY1)
+ - 😝 [This is not a list](http://9gag.com/gag/aAyv6V0)
+ - 😝 [Silenced Ruger 22 in action, a classic for a reason](http://9gag.com/gag/a6ZGDNR)
  - 💣 [Self sustained Bed and Breakfast](http://9gag.com/gag/avy9yBW)
- - 😝 [When you try to be a hero and the universe has other plans](http://9gag.com/gag/aNDjwq4)
- - 👉 [This is not a list](http://9gag.com/gag/aAyv6V0)<!-- MEMES:END -->
+ - 😝 [Oh how the tables have turned](http://9gag.com/gag/adBROYd)
+ - 👉 [Still looks the same...](http://9gag.com/gag/aBy4Zrx)<!-- MEMES:END -->
 
 ---
 

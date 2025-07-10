@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some of our favorite headphones are steeply discounted for Prime Day](https://www.theverge.com/tech/700846/amazon-prime-day-best-noise-canceling-headphone-earbud-deals-2025)
- - [Substack co-founder Hamish McKenzie is launching a biweekly column on Lachlan Cartwright&#39;s Breaker, a publication hosted on Substack rival beehiiv &lpar;Emily Sundberg/Feed Me&rpar;](http://www.techmeme.com/250710/p24#a250710p24)
- - [The Internet Watch Foundation identified 1,286 AI-generated videos of child sexual abuse so far in 2025 globally, up from just two in the first half of 2024 &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/250710/p23#a250710p23)
- - [The best Prime Day deals on charging accessories](https://www.theverge.com/tech/698933/amazon-prime-day-2025-chargers-power-banks-batteries-deal-sale)
- - [The best 4K TV deals during Prime Day 2025](https://www.theverge.com/tech/699516/4k-tv-soundbar-streaming-deal-sale-amazon-prime-day)<!-- TECH:END -->
+ - [Here are 58 Prime Day deals you can nab for $50 or less](https://www.theverge.com/tech/699123/amazon-prime-day-best-cheap-tech-deals-under-50-2025)
+ - [100 Best Prime Day Deals Under $100 &lpar;2025&rpar;: LifeStraws, Tech, and More](https://www.wired.com/story/prime-day-under-100-july-2025-2/)
+ - [The best Prime Day deals on games, hardware, and accessories](https://www.theverge.com/tech/698696/amazon-prime-day-best-gaming-deals-controllers-headsets-accessories-2025)
+ - [Dissident Hunters](https://www.theverge.com/cs/features/700411/iran-defector-bounty-hunter-dissident-cia)
+ - [Lego’s first buildable Decepticon Transformer is a talking Soundwave](https://www.theverge.com/news/701498/lego-transformers-decepticon-soundwave)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

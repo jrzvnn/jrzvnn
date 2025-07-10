@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Omg is this true](http://9gag.com/gag/a9yD1bW)
+ - 😝 [Wow, that is pretty impressive!!](http://9gag.com/gag/awyez7x)
  - 😝 [Never relax](http://9gag.com/gag/azx4eGZ)
- - 💣 [More nonsence for your limited brain capacity](http://9gag.com/gag/aPArZRn)
- - 😝 [Self sustained Bed and Breakfast](http://9gag.com/gag/avy9yBW)
- - 👉 [This ride almost became a runaway. Good thing people were quick to react and hold it down. That&#39;s some quick thinking and teamwork right there](http://9gag.com/gag/a2vO1Qp)<!-- MEMES:END -->
+ - 💣 [Women would be like \u201c a real man would marry her\u201d. Men know better](http://9gag.com/gag/awyeyY1)
+ - 😝 [More nonsence for your limited brain capacity](http://9gag.com/gag/aPArZRn)
+ - 👉 [Self sustained Bed and Breakfast](http://9gag.com/gag/avy9yBW)<!-- MEMES:END -->
 
 ---
 

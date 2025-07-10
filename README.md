@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows 11’s new Black Screen of Death is now rolling out](https://www.theverge.com/news/704536/microsoft-windows-11-black-screen-of-death-bsod-now-available)
- - [Outlook Down: Microsoft Confirms Email Outage, Working on Fix](https://www.cnet.com/tech/services-and-software/outlook-down-microsoft-confirms-email-outage-working-on-fix/#ftag=CAD590a51e)
- - [Best 13 Prime Day Kitchen Deals &lpar;2025&rpar;: Breville, Ooni, Oxo](https://www.wired.com/story/prime-day-kitchen-deals-july-2025-2/)
- - [Harmonic, a startup co-founded by Robinhood CEO Vlad Tenev that aims to build AI better at math than humans, raised a $100M Series B at a $875M valuation &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250710/p33#a250710p33)
- - [Student Loan Update: Here&#39;s What SAVE Borrowers Should Do by August 1](https://www.cnet.com/personal-finance/loans/student-loan-update-heres-what-save-borrowers-should-do-by-august-1/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iCapital, which makes tools for wealth managers to invest in alternative assets, raised $820M+ at a $7.5B+ valuation, bringing its total funding to $1.5B+ &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/250710/p36#a250710p36)
+ - [The 15 Prime Day deals that are most popular with Verge readers](https://www.theverge.com/tech/701278/amazon-prime-day-2025-popular-products-verge-readers)
+ - [Sources: Apple plans M5 MacBook Pros and MacBook Airs, a new Mac external monitor, new low-end iPads and M4 iPad Airs, and an iPhone 17e in H1 2026 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250710/p35#a250710p35)
+ - [The 27 Best Deals at Walmart&#39;s Competing Prime Day Sale](https://www.wired.com/story/best-deals-at-walmarts-prime-day-sale/)
+ - [M4 Max Mac Studio vs M1 Ultra Mac Studio compared: A multi-generational shootout](https://appleinsider.com/inside/mac-studio/vs/m4-max-mac-studio-vs-m1-ultra-mac-studio-compared-a-multi-generational-shootout?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

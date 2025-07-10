@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nomad iPhone cases, Apple Watch bands, chargers are on sale from just $9](https://appleinsider.com/articles/25/07/10/nomad-iphone-cases-apple-watch-bands-chargers-are-on-sale-from-just-9?utm_medium=rss)
- - [Google adds an image-to-video generation feature to Veo 3 in its Gemini app, says users created 40M+ videos with Veo 3 since its May launch &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250710/p27#a250710p27)
- - [Gemini AI can now turn photos into videos](https://www.theverge.com/news/703885/google-gemini-ai-photo-video-feature-availability)
- - [A Rotterdam court sentences a Russian to three years in prison for breaching international sanctions by sharing sensitive ASML info with someone in Russia &lpar;Mike Corder/Associated Press&rpar;](http://www.techmeme.com/250710/p26#a250710p26)
- - [19 Best Prime Day Fitness Tracker Deals and Smart Ring Sales &lpar;2025&rpar;](https://www.wired.com/story/prime-day-tracker-and-ring-2025-2/)<!-- TECH:END -->
+ - [AverMedia GC553Pro review: Not a great Mac streaming option](https://appleinsider.com/articles/25/07/10/avermedia-gc553pro-review-not-a-great-mac-streaming-option?utm_medium=rss)
+ - [The ModRetro Chromatic Game Boy is now permanently back in stock](https://www.theverge.com/news/700725/modretro-chromatic-game-boy-color-handheld-now-available)
+ - [OpenAI&amp;#8217;s next big launch could be an AI web browser](https://www.theverge.com/news/704162/opeani-ai-web-browser-chatgpt)
+ - [Meta is trying to win the AI race with money — but not everyone can be bought](https://www.theverge.com/ai-artificial-intelligence/703929/meta-openai-anthropic-superintelligence-lab-ai-poaching-money)
+ - [7 Best Prime Day TV Deals for All Budgets &lpar;2025&rpar;](https://www.wired.com/story/prime-day-tv-deals-july-2025-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

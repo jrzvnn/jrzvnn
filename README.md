@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Boom 4 Bluetooth Speaker Is Cheaper Than Ever for Prime Day](https://www.wired.com/story/ultimate-ears-boom-4-prime-day-deal/)
- - [The best Prime Day deals on games, hardware, and accessories](https://www.theverge.com/tech/698696/amazon-prime-day-best-gaming-deals-controllers-headsets-accessories-2025)
- - [The Powerbeats Pro 2 are down to their best price yet for Prime Day](https://www.theverge.com/tech/703235/amazon-prime-day-beats-powerbeats-pro-2-earbuds-deal-sale-2025)
- - [Sources: Groq has talked with investors about raising $300M to $500M at a $6B post-investment valuation, which would double its $2.8B valuation from August 2024 &lpar;The Information&rpar;](http://www.techmeme.com/250709/p49#a250709p49)
- - [Sources: Meta offered Ruoming Pang a $200M+ pay package over a several-year period in line with Meta&#39;s other major AI hires; Apple didn&#39;t try to match the offer &lpar;Bloomberg&rpar;](http://www.techmeme.com/250709/p48#a250709p48)<!-- TECH:END -->
+ - [Nominal, which develops AI agents for ERP systems to automate tasks for finance teams, raised a $20M Series A led by Next47, bringing its total funding to ~$30M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250709/p51#a250709p51)
+ - [Best Prime Day Laptop Deals 2025: MacBooks, Chromebooks, and More](https://www.wired.com/story/best-prime-day-laptop-deals-2025-1/)
+ - [AverMedia GC553Pro review: Not a great Mac streaming option](https://appleinsider.com/articles/25/07/10/avermedia-gc553pro-review-not-a-great-mac-streaming-option?utm_medium=rss)
+ - [The best Prime Day 2025 deals you can still get](https://www.theverge.com/tech/697594/amazon-prime-day-sale-best-tech-deals-2025)
+ - [Singapore-based Augmentus, which is developing a no-code interface for factory engineers to deploy autonomous robotic surface finishing systems, raised $11M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250709/p50#a250709p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

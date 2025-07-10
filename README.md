@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just as I pirated this meme.](http://9gag.com/gag/aVvRvdn)
- - 😝 [Finally a good new policy by tech company](http://9gag.com/gag/aO8p2GE)
- - 💣 [The pure joy of finding the perfect stick, a true treasure.](http://9gag.com/gag/a9yDz1o)
- - 😝 [It&#39;s my biggest regret in life. So much money burned away, I can&#39;t quit because it&#39;s too hard.](http://9gag.com/gag/avy91Eb)
- - 👉 [Roman aqueducts: an ancient engineering marvel that still impresses today.](http://9gag.com/gag/a1mO7o6)<!-- MEMES:END -->
+ - 😝 [Now we finally know!](http://9gag.com/gag/aLnWvex)
+ - 😝 [Never relax](http://9gag.com/gag/azx4eGZ)
+ - 💣 [Should be at every corner](http://9gag.com/gag/awyeye1)
+ - 😝 [The German national football team 20 years ago.](http://9gag.com/gag/an7GgjB)
+ - 👉 [Women would be like \u201c a real man would marry her\u201d. Men know better](http://9gag.com/gag/awyeyY1)<!-- MEMES:END -->
 
 ---
 

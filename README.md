@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Musk makes grand promises about Grok 4 in the wake of a Nazi chatbot meltdown](https://www.theverge.com/x-ai/703721/grok-4-x-ai-elon-musk-live-demo)
+ - [xAI launches Grok 4 Heavy, a &quot;multi-agent version&quot; of Grok 4 offering increased performance, and unveils a new $300/month AI subscription plan, SuperGrok Heavy &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250710/p3#a250710p3)
  - [xAI introduces Grok 4, trained on its Colossus supercomputer, featuring multimodal tools, faster reasoning, Grok 4 Voice, Grok 4 Code, a new interface, and more &lpar;Amanda Caswell/Tom&#39;s Guide&rpar;](http://www.techmeme.com/250710/p2#a250710p2)
  - [The best Prime Day 2025 deals you can still get](https://www.theverge.com/tech/697594/amazon-prime-day-sale-best-tech-deals-2025)
- - [$180 Off KitchenAid Promo Code | July 2025](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [Tempur-Pedic Promo Codes: Up to 50% Off](https://www.wired.com/story/tempur-pedic-promo-code/)
- - [Sources: Amazon weighs another multibillion-dollar investment in Anthropic, as it seeks to position itself ahead of Google, which has invested $3B+ in Anthropic &lpar;Financial Times&rpar;](http://www.techmeme.com/250710/p1#a250710p1)<!-- TECH:END -->
+ - [$180 Off KitchenAid Promo Code | July 2025](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

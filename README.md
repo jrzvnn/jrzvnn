@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Republican state attorney general is formally investigating why AI chatbots don&amp;#8217;t like Donald Trump](https://www.theverge.com/news/704851/missouri-ag-andrew-bailey-investigation-ai-chatbots-trump-ranking)
  - [Sources: AWS is launching a marketplace for AI agents, with Anthropic as one of its partners, at the AWS Summit in NYC next week &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250710/p41#a250710p41)
  - [I love this Hoto mini electric screwdriver, and it&amp;#8217;s cheaper than ever for Prime Day](https://www.theverge.com/tech/704368/amazon-prime-day-hoto-electric-screwdriver-air-pump-deal-sale-2025)
  - [Dbrand says its new Switch 2 Joy-Con grips fix the detachment issue](https://www.theverge.com/news/704767/dbrand-switch-2-killswitch-joy-con-lock-grip-detachment-fixed)
- - [Not Just Any Prime Day Deals, 279 Obsessively Tested Picks—Even $1,200 Off an OLED TV](https://www.wired.com/story/best-amazon-prime-deals-july-2025-2/)
- - [Belkin announces it is ending support for its Wemo devices and app on January 31, 2026; a limited number of devices will continue to function via HomeKit &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250710/p40#a250710p40)<!-- TECH:END -->
+ - [Not Just Any Prime Day Deals, 279 Obsessively Tested Picks—Even $1,200 Off an OLED TV](https://www.wired.com/story/best-amazon-prime-deals-july-2025-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This ride almost became a runaway. Good thing people were quick to react and hold it down. That&#39;s some quick thinking and teamwork right there](http://9gag.com/gag/a2vO1Qp)
- - 😝 [I think its great](http://9gag.com/gag/a6ZGE98)
- - 💣 [Duck Hunt. How this worked still is a mystery to me](http://9gag.com/gag/a87V14V)
- - 😝 [Omg is this true](http://9gag.com/gag/a9yD1bW)
- - 👉 [Childhood scars are badges of honor, telling tales of adventures and misadventures.](http://9gag.com/gag/aGy7pzn)<!-- MEMES:END -->
+ - 😝 [Chemistry vid for a few fellow geeks.](http://9gag.com/gag/a7ono62)
+ - 😝 [We can have functional solar panels in our cities or immigrants - we cannot have both.](http://9gag.com/gag/aNDjp60)
+ - 💣 [Should be at every corner](http://9gag.com/gag/awyeye1)
+ - 😝 [A Gift from Terry](http://9gag.com/gag/aRBREo5)
+ - 👉 [Our boy looking Good and HEALTHY again!!! Who&#39;s ready for the Mummy 4.](http://9gag.com/gag/an7GQp0)<!-- MEMES:END -->
 
 ---
 

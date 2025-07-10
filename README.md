@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung says its trifold phone should launch ‘this year’](https://www.theverge.com/news/703753/samsung-trifold-phone-release-date-tm-roh)
- - [Trump&#39;s One Big Beautiful Bill Act mandates all new US border surveillance towers are &quot;autonomous&quot;, effectively granting Anduril a monopoly on new contracts &lpar;Sam Biddle/The Intercept&rpar;](http://www.techmeme.com/250710/p15#a250710p15)
- - [SAG-AFTRA says Hollywood video game voice and motion capture actors signed a new contract with game studios, including AI protections like consent requirements &lpar;Danielle Broadway/Reuters&rpar;](http://www.techmeme.com/250710/p14#a250710p14)
- - [Aqara’s feature-packed G410 video doorbell is now available](https://www.theverge.com/news/703741/aqaras-feature-packed-g410-video-doorbell-is-now-available)
- - [Google launches its AI-powered ad tools in India; the country repealing its so-called &quot;Google Tax&quot; boosts its appeal to global tech companies selling online ads &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250710/p13#a250710p13)<!-- TECH:END -->
+ - [Despite continued technological advances, US emergency alerts often fail to reach those in danger, as alert fatigue leads many people to disable notifications &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250710/p17#a250710p17)
+ - [Mark Zuckerberg&#39;s hiring blitz for top AI talent is spurring other leading AI scientists to join Meta in the race to build &quot;superintelligent&quot; AI &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/250710/p16#a250710p16)
+ - [Cloning Came to Polo. Then Things Got Truly Uncivilized](https://www.wired.com/story/cloning-came-to-polo-things-got-uncivilized-cambiaso/)
+ - [Netgear&#39;s Excellent Wi-Fi 7 Mesh Is on Sale for Prime Day](https://www.wired.com/story/netgear-orbi-770-series-prime-day-sale-july-2025/)
+ - [Samsung says its trifold phone should launch ‘this year’](https://www.theverge.com/news/703753/samsung-trifold-phone-release-date-tm-roh)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

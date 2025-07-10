@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon expands its Now service in India to New Delhi, offering deliveries in as little as 10 minutes, after launching the service in Bengaluru in December 2024 &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/250710/p12#a250710p12)
+ - [Not Just Any Prime Day Deals, 255 Obsessively Tested Picks—Even $1,200 Off an OLED TV](https://www.wired.com/story/best-amazon-prime-deals-july-2025-2/)
+ - [A researcher says 245 extensions on nearly 1M devices are overriding security protections to turn browsers into engines that scrape websites for a paid service &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/250710/p11#a250710p11)
  - [The Allen Institute for AI launches FlexOlmo, an LLM architecture that lets data owners control and remove their training data from a model even after training &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250710/p10#a250710p10)
- - [Riyadh-based food delivery service Jahez agrees to acquire a 76.56% stake in Qatari e-commerce platform Snoonu for $245M in cash and stock &lpar;Yassmin Jabri/Bloomberg&rpar;](http://www.techmeme.com/250710/p8#a250710p8)
- - [PowerLines: US power providers have sought regulatory approval for $29B in rate increases in H1 2025, up 142% YoY, following booming data center demand &lpar;Martha Muir/Financial Times&rpar;](http://www.techmeme.com/250710/p7#a250710p7)
- - [Electricity bills may rise 20%+ in parts of PJM Interconnection&#39;s 13-state territory, as the largest US power grid struggles to meet AI and data center demand &lpar;Laila Kearney/Reuters&rpar;](http://www.techmeme.com/250710/p6#a250710p6)
- - [Elon Musk Unveils Grok 4 Amid Controversy Over Chatbot’s Antisemitic Posts](https://www.wired.com/story/grok-4-elon-musk-xai-antisemitic-posts/)<!-- TECH:END -->
+ - [Riyadh-based food delivery service Jahez agrees to acquire a 76.56% stake in Qatari e-commerce platform Snoonu for $245M in cash and stock &lpar;Yassmin Jabri/Bloomberg&rpar;](http://www.techmeme.com/250710/p8#a250710p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

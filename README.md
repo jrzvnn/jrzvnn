@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube will remove its Trending page and Trending Now list in favor of category-specific charts, says it better aligns with the way content is discovered now &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250710/p31#a250710p31)
  - [The best Prime Day deals on charging accessories](https://www.theverge.com/tech/698933/amazon-prime-day-2025-chargers-power-banks-batteries-deal-sale)
- - [Here are 58 Prime Day deals you can nab for $50 or less](https://www.theverge.com/tech/699123/amazon-prime-day-best-cheap-tech-deals-under-50-2025)
- - [Hyundai’s Ioniq 6 N looks like a fake-shifting, drift-happy good time](https://www.theverge.com/news/704059/hyundai-ioniq-6-n-performance-photos-specs)
- - [Some Verge-favorite gadgets are cheaper during Prime Day 2025](https://www.theverge.com/tech/699230/best-prime-day-deals-verge-favorites)
- - [Anker’s fast power bank with two built-in USB-C cables is 30 percent off for Prime Day](https://www.theverge.com/tech/703789/amazon-prime-day-anker-laptop-power-bank-usb-charger-deal-sale-2025)<!-- TECH:END -->
+ - [Best Prime Day Laptop Deals 2025: MacBooks, Chromebooks, and More](https://www.wired.com/story/best-prime-day-laptop-deals-2025-2/)
+ - [Here are 57 Prime Day deals you can nab for $50 or less](https://www.theverge.com/tech/699123/amazon-prime-day-best-cheap-tech-deals-under-50-2025)
+ - [Hyundai’s Ioniq 6 N looks like a fake-shifting, drift-happy good time](https://www.theverge.com/news/704059/hyundai-ioniq-6-n-performance-photos-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

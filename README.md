@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some Verge-favorite gadgets are cheaper during Prime Day 2025](https://www.theverge.com/tech/699230/best-prime-day-deals-verge-favorites)
+ - [20 Best Prime Day Apple Deals on iPads, AirPods, and MacBooks &lpar;2025&rpar;](https://www.wired.com/story/prime-day-apple-deals-2025-2/)
+ - [AI Is a Lousy Chef](https://www.wired.com/story/dishgen-ai-recipes-tested/)
  - [Dr. ChatGPT Will See You Now](https://www.wired.com/story/dr-chatgpt-will-see-you-now-artificial-intelligence-llms-openai-health-diagnoses/)
- - [YouTube &amp;#8216;clarifies&amp;#8217; its plan to demonetize spammy AI slop](https://www.theverge.com/news/703772/youtube-monetization-policy-update-ai-spam)
- - [Disney and ITV agree a deal to stream hit shows like The Bear and Love Island on each other&#39;s platforms for the first time, starting July 16; both can sell ads &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/250710/p19#a250710p19)
- - [Scientists Succeed in Reversing Parkinson’s Symptoms in Mice](https://www.wired.com/story/scientists-succeed-in-reversing-parkinsons-symptoms-in-mice-can-they-do-it-in-humans/)
- - [This Is DOGE 2.0](https://www.wired.com/story/next-stage-doge-elon-musk/)<!-- TECH:END -->
+ - [YouTube &amp;#8216;clarifies&amp;#8217; its plan to demonetize spammy AI slop](https://www.theverge.com/news/703772/youtube-monetization-policy-update-ai-spam)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

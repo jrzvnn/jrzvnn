@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You May See Less AI Slop After YouTube Enacts New Video Policies](https://www.cnet.com/tech/services-and-software/you-may-see-less-ai-slop-after-youtube-enacts-new-video-policies/#ftag=CAD590a51e)
+ - [Foundation EGI, an &quot;engineering general intelligence&quot; startup that builds custom LLMs for engineering tasks, raised a $23M Series A led by Translink Capital &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250710/p28#a250710p28)
  - [AverMedia GC553Pro review: Not a great Mac streaming option](https://appleinsider.com/articles/25/07/10/avermedia-gc553pro-review-not-a-great-mac-streaming-option?utm_medium=rss)
  - [The ModRetro Chromatic Game Boy is now permanently back in stock](https://www.theverge.com/news/700725/modretro-chromatic-game-boy-color-handheld-now-available)
- - [OpenAI&amp;#8217;s next big launch could be an AI web browser](https://www.theverge.com/news/704162/opeani-ai-web-browser-chatgpt)
- - [Meta is trying to win the AI race with money — but not everyone can be bought](https://www.theverge.com/ai-artificial-intelligence/703929/meta-openai-anthropic-superintelligence-lab-ai-poaching-money)
- - [7 Best Prime Day TV Deals for All Budgets &lpar;2025&rpar;](https://www.wired.com/story/prime-day-tv-deals-july-2025-2/)<!-- TECH:END -->
+ - [OpenAI&amp;#8217;s next big launch could be an AI web browser](https://www.theverge.com/news/704162/opeani-ai-web-browser-chatgpt)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

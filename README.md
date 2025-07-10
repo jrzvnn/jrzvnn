@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women would be like \u201c a real man would marry her\u201d. Men know better](http://9gag.com/gag/awyeyY1)
- - 😝 [Lack of innovation](http://9gag.com/gag/ae9RAqm)
+ - 😝 [Never relax](http://9gag.com/gag/azx4eGZ)
+ - 😝 [And in the end, the copper is stolen](http://9gag.com/gag/aD2QD17)
  - 💣 [Omg is this true](http://9gag.com/gag/a9yD1bW)
- - 😝 [Duck Hunt. How this worked still is a mystery to me](http://9gag.com/gag/a87V14V)
- - 👉 [Self sustained Bed and Breakfast](http://9gag.com/gag/avy9yBW)<!-- MEMES:END -->
+ - 😝 [Telling normal women they look like trans women, look how offended they get](http://9gag.com/gag/avy9yOb)
+ - 👉 [And the card driver a new pants...](http://9gag.com/gag/a34NGBv)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube’s ‘Trending’ section is about to disappear](https://www.theverge.com/news/704222/youtube-trending-page-removal-charts)
- - [Google Fiber Aims to Take It&#39;s Fiber Internet Game to a New Level Via Partnership With Nokia](https://www.cnet.com/home/internet/google-fiber-aims-to-take-its-fiber-internet-game-to-a-new-level-via-partnership-with-nokia/#ftag=CAD590a51e)
- - [Samsung Unpacked 2025 Live: Galaxy Z Fold 7, Galaxy Z Flip 7 and Galaxy Watch 8](https://www.cnet.com/tech/mobile/samsung-unpacked-2025-live-galaxy-z-fold-7-galaxy-z-flip-7-and-galaxy-watch-8/#ftag=CAD590a51e)
- - [Apple, Mastercard, Visa fend off high merchant fee lawsuit](https://appleinsider.com/articles/25/07/10/apple-mastercard-visa-fend-off-high-merchant-fee-lawsuit?utm_medium=rss)
- - [The Best Prime Day MacBook Deal Is Not the One You Think](https://www.wired.com/story/new-macbooks-low-price-prime-day-2025/)<!-- TECH:END -->
+ - [Some Verge-favorite gadgets are cheaper during Prime Day 2025](https://www.theverge.com/tech/699230/best-prime-day-deals-verge-favorites)
+ - [Anker’s fast power bank with two built-in USB-C cables is 30 percent off for Prime Day](https://www.theverge.com/tech/703789/amazon-prime-day-anker-laptop-power-bank-usb-charger-deal-sale-2025)
+ - [Our favorite desk accessories for Prime Day](https://www.theverge.com/tech/699494/verge-favorite-desk-accessories-prime-day-deals)
+ - [How Video Games Became the New Battleground for Actors and AI Protections](https://www.wired.com/story/video-games-voice-actors-strike-over-artificial-intelligence/)
+ - [Murderbot is getting a season 2 on Apple TV Plus](https://www.theverge.com/news/704047/murderbot-season-2-apple-tv-plus)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

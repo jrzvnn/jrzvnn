@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M5 MacBook Pro now expected in the first half of 2026](https://appleinsider.com/articles/25/07/10/m5-macbook-pro-now-expected-in-the-first-half-of-2026?utm_medium=rss)
  - [The best Prime Day 2025 deals you can still get](https://www.theverge.com/tech/697599/amazon-prime-day-sale-best-tech-deals-2025-day-3)
  - [Amazon Prime Day Live: We&#39;re Dropping Deals and Takes Every 15 Minutes](https://www.wired.com/live/amazon-prime-day-deals-live-in-25-2/)
  - [Save up to $100 on OWC docks for Mac during Deal Days sale](https://appleinsider.com/articles/25/07/10/save-up-to-100-on-owc-docks-for-mac-during-deal-days-sale?utm_medium=rss)
- - [iCapital, which makes tools for wealth managers to invest in alternative assets, raised $820M+ at a $7.5B+ valuation, bringing its total funding to $1.5B+ &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/250710/p36#a250710p36)
- - [The 15 Prime Day deals that are most popular with Verge readers](https://www.theverge.com/tech/701278/amazon-prime-day-2025-popular-products-verge-readers)<!-- TECH:END -->
+ - [iCapital, which makes tools for wealth managers to invest in alternative assets, raised $820M+ at a $7.5B+ valuation, bringing its total funding to $1.5B+ &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/250710/p36#a250710p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

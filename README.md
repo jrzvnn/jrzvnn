@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung may have built a new factory just for folding iPhone displays](https://appleinsider.com/articles/25/07/10/samsung-may-have-built-a-new-factory-just-for-folding-iphone-displays?utm_medium=rss)
+ - [UK police arrest four people, a 20-year-old woman and three men age 17 to 19, in relation to the M&amp;S and Co-op hacks, which started in April and caused havoc &lpar;Joe Tidy/BBC&rpar;](http://www.techmeme.com/250710/p20#a250710p20)
  - [Some Verge-favorite gadgets are cheaper during Prime Day 2025](https://www.theverge.com/tech/699230/best-prime-day-deals-verge-favorites)
  - [20 Best Prime Day Apple Deals on iPads, AirPods, and MacBooks &lpar;2025&rpar;](https://www.wired.com/story/prime-day-apple-deals-2025-2/)
- - [AI Is a Lousy Chef](https://www.wired.com/story/dishgen-ai-recipes-tested/)
- - [Dr. ChatGPT Will See You Now](https://www.wired.com/story/dr-chatgpt-will-see-you-now-artificial-intelligence-llms-openai-health-diagnoses/)
- - [YouTube &amp;#8216;clarifies&amp;#8217; its plan to demonetize spammy AI slop](https://www.theverge.com/news/703772/youtube-monetization-policy-update-ai-spam)<!-- TECH:END -->
+ - [AI Is a Lousy Chef](https://www.wired.com/story/dishgen-ai-recipes-tested/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube will remove its Trending page and Trending Now list in favor of category-specific charts, says it better aligns with the way content is discovered now &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250710/p31#a250710p31)
- - [The best Prime Day deals on charging accessories](https://www.theverge.com/tech/698933/amazon-prime-day-2025-chargers-power-banks-batteries-deal-sale)
- - [Best Prime Day Laptop Deals 2025: MacBooks, Chromebooks, and More](https://www.wired.com/story/best-prime-day-laptop-deals-2025-2/)
- - [Here are 57 Prime Day deals you can nab for $50 or less](https://www.theverge.com/tech/699123/amazon-prime-day-best-cheap-tech-deals-under-50-2025)
- - [Hyundai’s Ioniq 6 N looks like a fake-shifting, drift-happy good time](https://www.theverge.com/news/704059/hyundai-ioniq-6-n-performance-photos-specs)<!-- TECH:END -->
+ - [Some of our favorite headphones are steeply discounted for Prime Day](https://www.theverge.com/tech/700846/amazon-prime-day-best-noise-canceling-headphone-earbud-deals-2025)
+ - [The best Prime Day smart home deals we found](https://www.theverge.com/amazon-prime-day-deals-tech/699919/best-smart-home-deals-amazon-prime-day)
+ - [Elon Musk wants to bring Tesla’s robotaxis to SF — good luck](https://www.theverge.com/tesla/704249/elon-musk-tesla-robotaxi-sf-california-dmv-permits)
+ - [The 22 Best Non-Prime Day Deals From Retailers That Are Not Amazon](https://www.wired.com/story/best-prime-day-deals-from-other-retailers/)
+ - [The best Prime Day deals on our favorite robot vacuums](https://www.theverge.com/tech/698188/robot-vacuum-mop-deals-amazon-prime-day)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

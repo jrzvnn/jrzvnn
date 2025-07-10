@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No good deed goes unpunished.](http://9gag.com/gag/aXPRr9v)
- - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/aD2QDmO)
- - 💣 [25 years ago Alizee broke our minds with `Moi...Lolita`](http://9gag.com/gag/ae9RAPm)
- - 😝 [Sasha knows what&#39;s up](http://9gag.com/gag/ajPRmOx)
- - 👉 [Omg is this true](http://9gag.com/gag/a9yD1bW)<!-- MEMES:END -->
+ - 😝 [This ride almost became a runaway. Good thing people were quick to react and hold it down. That&#39;s some quick thinking and teamwork right there](http://9gag.com/gag/a2vO1Qp)
+ - 😝 [I think its great](http://9gag.com/gag/a6ZGE98)
+ - 💣 [Duck Hunt. How this worked still is a mystery to me](http://9gag.com/gag/a87V14V)
+ - 😝 [Omg is this true](http://9gag.com/gag/a9yD1bW)
+ - 👉 [Childhood scars are badges of honor, telling tales of adventures and misadventures.](http://9gag.com/gag/aGy7pzn)<!-- MEMES:END -->
 
 ---
 

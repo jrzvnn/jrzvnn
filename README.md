@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Prime Day Beauty Deals 2025: Hair, Skin, and Dental Care](https://www.wired.com/story/prime-day-beauty-deals-july-2025-2/)
- - [M5 MacBook Pro now expected in the first half of 2026](https://appleinsider.com/articles/25/07/10/m5-macbook-pro-now-expected-in-the-first-half-of-2026?utm_medium=rss)
- - [The best Prime Day 2025 deals you can still get](https://www.theverge.com/tech/697599/amazon-prime-day-sale-best-tech-deals-2025-day-3)
- - [Amazon Prime Day Live: We&#39;re Dropping Deals and Takes Every 15 Minutes](https://www.wired.com/live/amazon-prime-day-deals-live-in-25-2/)
- - [Save up to $100 on OWC docks for Mac during Deal Days sale](https://appleinsider.com/articles/25/07/10/save-up-to-100-on-owc-docks-for-mac-during-deal-days-sale?utm_medium=rss)<!-- TECH:END -->
+ - [The best laptop deals we’ve found for Prime Day &lpar;so far&rpar;](https://www.theverge.com/tech/699521/amazon-prime-day-laptops-notebooks-gaming-apple-lenovo-hp)
+ - [Apple&#39;s early 2026 product lineup to include iPhone 17e, Studio Display, iPads](https://appleinsider.com/articles/25/07/10/apples-early-2026-product-lineup-to-include-iphone-17e-studio-display-ipads?utm_medium=rss)
+ - [HomeKit may keep some Wemo devices alive after shutdown in 2026](https://appleinsider.com/articles/25/07/10/homekit-may-keep-some-wemo-devices-alive-after-shutdown-in-2026?utm_medium=rss)
+ - [Kindle&amp;#8217;s new ad-filtering setting keeps NSFW promos off your lockscreen](https://www.theverge.com/news/704604/amazon-kindle-lockscreen-ads-filter-inappropriate-content)
+ - [M5 MacBook Pro now expected in the first half of 2026](https://appleinsider.com/articles/25/07/10/m5-macbook-pro-now-expected-in-the-first-half-of-2026?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

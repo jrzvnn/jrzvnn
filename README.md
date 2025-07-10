@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nomad iPhone cases, Apple Watch bands, chargers are on sale from just $9](https://appleinsider.com/articles/25/07/10/nomad-iphone-cases-apple-watch-bands-chargers-are-on-sale-from-just-9?utm_medium=rss)
+ - [Google adds an image-to-video generation feature to Veo 3 in its Gemini app, says users created 40M+ videos with Veo 3 since its May launch &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250710/p27#a250710p27)
+ - [Gemini AI can now turn photos into videos](https://www.theverge.com/news/703885/google-gemini-ai-photo-video-feature-availability)
  - [A Rotterdam court sentences a Russian to three years in prison for breaching international sanctions by sharing sensitive ASML info with someone in Russia &lpar;Mike Corder/Associated Press&rpar;](http://www.techmeme.com/250710/p26#a250710p26)
- - [19 Best Prime Day Fitness Tracker Deals and Smart Ring Sales &lpar;2025&rpar;](https://www.wired.com/story/prime-day-tracker-and-ring-2025-2/)
- - [Agora, which offers a white-labeling service that lets companies launch self-branded versions of its stablecoin, AUSD, raised a $50M Series A led by Paradigm &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/250710/p25#a250710p25)
- - [The 35 best Prime Day deals you can get for under $25](https://www.theverge.com/tech/701774/amazon-prime-day-best-cheap-tech-deals-under-25-2025)
- - [Nintendo is ending its cost-saving Switch game vouchers](https://www.theverge.com/news/703993/nintendo-switch-game-voucher-discontinued)<!-- TECH:END -->
+ - [19 Best Prime Day Fitness Tracker Deals and Smart Ring Sales &lpar;2025&rpar;](https://www.wired.com/story/prime-day-tracker-and-ring-2025-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

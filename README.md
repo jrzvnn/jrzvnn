@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You May See Less AI Slop After YouTube Enacts New Video Policies](https://www.cnet.com/tech/services-and-software/you-may-see-less-ai-slop-after-youtube-enacts-new-video-policies/#ftag=CAD590a51e)
- - [Foundation EGI, an &quot;engineering general intelligence&quot; startup that builds custom LLMs for engineering tasks, raised a $23M Series A led by Translink Capital &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250710/p28#a250710p28)
- - [AverMedia GC553Pro review: Not a great Mac streaming option](https://appleinsider.com/articles/25/07/10/avermedia-gc553pro-review-not-a-great-mac-streaming-option?utm_medium=rss)
- - [The ModRetro Chromatic Game Boy is now permanently back in stock](https://www.theverge.com/news/700725/modretro-chromatic-game-boy-color-handheld-now-available)
- - [OpenAI&amp;#8217;s next big launch could be an AI web browser](https://www.theverge.com/news/704162/opeani-ai-web-browser-chatgpt)<!-- TECH:END -->
+ - [Jason Momoa&#39;s &#39;Chief of War&#39; brings Hawaiian history to Apple TV+](https://appleinsider.com/articles/25/07/10/jason-momoas-chief-of-war-brings-hawaiian-history-to-apple-tv?utm_medium=rss)
+ - [Sources: some AI researchers rejected Meta&#39;s offers to stay at jobs that align with their values; far fewer defected from Anthropic and DeepMind than OpenAI &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250710/p29#a250710p29)
+ - [The ModRetro Chromatic Is a Game Boy Fit for Your Apocalypse Bunker](https://www.wired.com/story/the-modretro-chromatic-is-a-game-boy-fit-for-your-apocalypse-bunker/)
+ - [Our favorite desk accessories for Prime Day](https://www.theverge.com/tech/699494/verge-favorite-desk-accessories-prime-day-deals)
+ - [Netflix keeps Squid Game going with more of its reality show](https://www.theverge.com/news/704199/netflix-squid-game-the-challenge-reality-show-season-2-3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

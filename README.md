@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Despite continued technological advances, US emergency alerts often fail to reach those in danger, as alert fatigue leads many people to disable notifications &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250710/p17#a250710p17)
- - [Mark Zuckerberg&#39;s hiring blitz for top AI talent is spurring other leading AI scientists to join Meta in the race to build &quot;superintelligent&quot; AI &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/250710/p16#a250710p16)
- - [Cloning Came to Polo. Then Things Got Truly Uncivilized](https://www.wired.com/story/cloning-came-to-polo-things-got-uncivilized-cambiaso/)
- - [Netgear&#39;s Excellent Wi-Fi 7 Mesh Is on Sale for Prime Day](https://www.wired.com/story/netgear-orbi-770-series-prime-day-sale-july-2025/)
- - [Samsung says its trifold phone should launch ‘this year’](https://www.theverge.com/news/703753/samsung-trifold-phone-release-date-tm-roh)<!-- TECH:END -->
+ - [Disney and ITV agree a deal to stream hit shows like The Bear and Love Island on each other&#39;s platforms for the first time, starting July 16; both can sell ads &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/250710/p19#a250710p19)
+ - [Scientists Succeed in Reversing Parkinson’s Symptoms in Mice](https://www.wired.com/story/scientists-succeed-in-reversing-parkinsons-symptoms-in-mice-can-they-do-it-in-humans/)
+ - [This Is DOGE 2.0](https://www.wired.com/story/next-stage-doge-elon-musk/)
+ - [The best Prime Day 2025 deals you can still get](https://www.theverge.com/tech/697599/amazon-prime-day-sale-best-tech-deals-2025-day-3)
+ - [The EU publishes a voluntary code of practice to help companies follow its AI Act, including requiring developers to provide up-to-date AI feature documentation &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/250710/p18#a250710p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

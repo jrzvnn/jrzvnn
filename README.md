@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The defender&#39;s clearance was more impressive than the goal itself](http://9gag.com/gag/amoR1Yv)
+ - 😝 [A small price to pay for peace and quiet on a long flight.](http://9gag.com/gag/apRVg78)
+ - 😝 [When you try to be a hero and the universe has other plans](http://9gag.com/gag/aNDjwq4)
+ - 💣 [The defender&#39;s clearance was more impressive than the goal itself](http://9gag.com/gag/amoR1Yv)
  - 😝 [This is not a list](http://9gag.com/gag/aAyv6V0)
- - 💣 [Women would be like \u201c a real man would marry her\u201d. Men know better](http://9gag.com/gag/awyeyY1)
- - 😝 [And the card driver a new pants...](http://9gag.com/gag/a34NGBv)
  - 👉 [This is why i&#39;m still single](http://9gag.com/gag/aGy7np7)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A brave dog stands its ground against a pack of wolves, defending its home with unwavering courage. The wolves, initially confident, are eventually deterred by the dog&#39;s fierce determination, showcasing a remarkable display of bravery.](http://9gag.com/gag/aW4Rp4q)
- - 😝 [Self sustained Bed and Breakfast](http://9gag.com/gag/avy9yBW)
- - 💣 [Wow, that is pretty impressive!!](http://9gag.com/gag/awyez7x)
- - 😝 [No good deed goes unpunished.](http://9gag.com/gag/aXPRr9v)
- - 👉 [Omg is this true](http://9gag.com/gag/a9yD1bW)<!-- MEMES:END -->
+ - 😝 [Still looks the same...](http://9gag.com/gag/aBy4Zrx)
+ - 😝 [25 years ago Alizee broke our minds with `Moi...Lolita`](http://9gag.com/gag/ae9RAPm)
+ - 💣 [This ride almost became a runaway. Good thing people were quick to react and hold it down. That&#39;s some quick thinking and teamwork right there](http://9gag.com/gag/a2vO1Qp)
+ - 😝 [Omg is this true](http://9gag.com/gag/a9yD1bW)
+ - 👉 [No good deed goes unpunished.](http://9gag.com/gag/aXPRr9v)<!-- MEMES:END -->
 
 ---
 

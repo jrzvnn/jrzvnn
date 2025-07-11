@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Prime Day deals on charging accessories](https://www.theverge.com/tech/698933/amazon-prime-day-2025-chargers-power-banks-batteries-deal-sale)
- - [The best laptop deals we’ve found for Prime Day &lpar;so far&rpar;](https://www.theverge.com/tech/699521/amazon-prime-day-laptops-notebooks-gaming-apple-lenovo-hp)
- - [Virtru, which offers data security services to clients like the US DOD and Salesforce, raised a $50M Series D led by Iconiq Capital at a $500M valuation &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250711/p15#a250711p15)
- - [Apple Vision Pro rumors: More speed, more comfortable, and eventually cheaper](https://appleinsider.com/articles/25/07/11/apple-vision-pro-rumors-more-speed-more-comfortable-and-eventually-cheaper?utm_medium=rss)
- - [Best 16 Prime Day Kitchen Deals &lpar;2025&rpar;: Breville, Ooni, Oxo](https://www.wired.com/story/prime-day-kitchen-deals-july-2025-3/)<!-- TECH:END -->
+ - [HMD says it will &quot;scale back&quot; US operations, citing &quot;a challenging geopolitical and economic environment&quot;, and appears to have stopped US sales of Nokia devices &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250711/p17#a250711p17)
+ - [iFixit: the Switch 2 Pro is a &amp;#8216;piss-poor excuse for a controller&amp;#8217;](https://www.theverge.com/news/705383/ifixit-teardown-nintendo-switch-2-pro-controller-repairability)
+ - [The best Apple deals during Prime Day won’t last much longer](https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals)
+ - [The great EV pullback has begun](https://www.theverge.com/electric-cars/700767/ev-cancel-delay-tax-credit-nissan-honda-tesla)
+ - [Prime Day is almost over, but our favorite deals are still live](https://www.theverge.com/tech/697602/amazon-prime-day-sale-best-tech-deals-2025-day-4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

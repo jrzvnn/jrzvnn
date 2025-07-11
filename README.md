@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Prime Day ends tonight, grab these top Apple deals before midnight](https://appleinsider.com/articles/25/07/11/prime-day-ends-tonight-grab-these-top-apple-deals-before-midnight?utm_medium=rss)
  - [Recording: Intel&#39;s new CEO Lip-Bu Tan told staff that Intel is no longer &quot;in the top 10 semiconductor companies&quot; and it is &quot;too late&quot; to catch up to Nvidia &lpar;Mike Rogoway/Oregonian&rpar;](http://www.techmeme.com/250711/p11#a250711p11)
  - [The Verge&amp;#8217;s favorite travel gear for 2025](https://www.theverge.com/tech/697960/favorite-travel-gear-2025)
  - [The Amazfit Active 2, one of our favorite fitness trackers, is just $79.99 right now](https://www.theverge.com/tech/700959/amazon-prime-day-amazfit-active-2-fitness-tracker-deal-sale-2025)
- - [Sources: Meta won&#39;t propose additional changes to its pay-or-consent model in the EU, and could face fresh antitrust charges and hefty daily fines &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250711/p10#a250711p10)
- - [The original Pixel Fold is over $1,000 off on the last day of Prime Day](https://www.theverge.com/tech/705211/google-pixel-fold-prime-day-deal-sale-foldable)<!-- TECH:END -->
+ - [Sources: Meta won&#39;t propose additional changes to its pay-or-consent model in the EU, and could face fresh antitrust charges and hefty daily fines &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250711/p10#a250711p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

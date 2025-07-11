@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: xAI prepares a new fundraising round, its third in two months, targeting a valuation of $170B to $200B, up 10x from its May 2024 valuation of $18B &lpar;Financial Times&rpar;](http://www.techmeme.com/250711/p24#a250711p24)
  - [Justin Sun says he is buying another $100M worth of $TRUMP, doubling his total known stake of digital coins tied to President Trump &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250711/p23#a250711p23)
  - [Even crypto execs fall for crypto scams](https://www.theverge.com/news/705801/moonpay-crypto-execs-scam-doj-trump-administration)
  - [DOJ paves the way for a legal war on fact-checking](https://www.theverge.com/news/705802/doj-antitrust-childrens-health-defense-covid-fact-checking-misinformation)
- - [15 Best Amazon Prime Day Vacuum Deals for Dust and Dirt in 2025](https://www.wired.com/story/prime-day-vacuum-deals-july-2025-1/)
- - [Prime Day is almost over, but our favorite deals are still live](https://www.theverge.com/tech/697602/amazon-prime-day-sale-best-tech-deals-2025-day-4)<!-- TECH:END -->
+ - [15 Best Amazon Prime Day Vacuum Deals for Dust and Dirt in 2025](https://www.wired.com/story/prime-day-vacuum-deals-july-2025-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

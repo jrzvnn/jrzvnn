@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The European Commission drops plans to impose a digital tax on tech giants in its upcoming 2028-2034 budget proposal, amid ongoing EU-US trade negotiations &lpar;Gregorio Sorgi/Politico&rpar;](http://www.techmeme.com/250711/p25#a250711p25)
  - [Sources: xAI prepares a new fundraising round, its third in two months, targeting a valuation of $170B to $200B, up 10x from its May 2024 valuation of $18B &lpar;Financial Times&rpar;](http://www.techmeme.com/250711/p24#a250711p24)
  - [Justin Sun says he is buying another $100M worth of $TRUMP, doubling his total known stake of digital coins tied to President Trump &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250711/p23#a250711p23)
  - [Even crypto execs fall for crypto scams](https://www.theverge.com/news/705801/moonpay-crypto-execs-scam-doj-trump-administration)
- - [DOJ paves the way for a legal war on fact-checking](https://www.theverge.com/news/705802/doj-antitrust-childrens-health-defense-covid-fact-checking-misinformation)
- - [15 Best Amazon Prime Day Vacuum Deals for Dust and Dirt in 2025](https://www.wired.com/story/prime-day-vacuum-deals-july-2025-1/)<!-- TECH:END -->
+ - [DOJ paves the way for a legal war on fact-checking](https://www.theverge.com/news/705802/doj-antitrust-childrens-health-defense-covid-fact-checking-misinformation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

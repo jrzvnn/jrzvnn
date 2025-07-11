@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The original Pixel Fold is over $1,000 off on the last day of Prime Day](https://www.theverge.com/tech/705211/google-pixel-fold-prime-day-deal-sale-foldable)
+ - [Goldman Sachs CTO Marco Argenti says the bank is &quot;going to start augmenting our workforce with Devin&quot;, Cognition&#39;s AI coding assistant, as Wall Street adopts AI &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/250711/p9#a250711p9)
+ - [The 32 Best Deals at Walmart’s Competing Prime Day Sale](https://www.wired.com/story/best-deals-at-walmarts-prime-day-sale-1/)
  - [All eyes on Samsung’s thin new foldable](https://www.theverge.com/the-vergecast/704736/samsung-foldables-smartwatches-apple-coo-grok-ai-vergecast)
- - [Sources on key Microsoft-OpenAI clause: OpenAI decides when AGI and &quot;sufficient AGI&quot;, capable of $100B+ in profits, are reached, and Microsoft can&#39;t build AGI &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/250711/p8#a250711p8)
- - [The best Prime Day deals on charging accessories](https://www.theverge.com/tech/698933/amazon-prime-day-2025-chargers-power-banks-batteries-deal-sale)
- - [Apple approves BOE display panel production for iPhone 17 Pro in China](https://appleinsider.com/articles/25/07/11/apple-approves-boe-display-panel-production-for-iphone-17-pro-in-china?utm_medium=rss)
- - [The new Tony Hawk remaster is a good sign for Switch 2 ports](https://www.theverge.com/games/704560/tony-hawks-pro-skater-3-4-nintendo-switch-2-comparison)<!-- TECH:END -->
+ - [Sources on key Microsoft-OpenAI clause: OpenAI decides when AGI and &quot;sufficient AGI&quot;, capable of $100B+ in profits, are reached, and Microsoft can&#39;t build AGI &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/250711/p8#a250711p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

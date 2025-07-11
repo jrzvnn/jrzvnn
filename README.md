@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Australia: Large Group of Muslims Encircle Melbourne\u2019s Cathedral](http://9gag.com/gag/abARA38)
  - 😝 [Women would be like \u201c a real man would marry her\u201d. Men know better](http://9gag.com/gag/awyeyY1)
- - 💣 [Still looks the same...](http://9gag.com/gag/aBy4Zrx)
- - 😝 [There\u2019s truth here](http://9gag.com/gag/an7GOWz)
- - 👉 [Akon&#39;s $6 billion futuristic `Wakanda` mega-city in Senegal, Africa, has reportedly been abandoned.](http://9gag.com/gag/aoynV00)<!-- MEMES:END -->
+ - 😝 [`Be vewwy, vewwy quiet. I&#39;m hunting seawife. Hehehehehehe...`](http://9gag.com/gag/aO8p2Pr)
+ - 💣 [There\u2019s truth here](http://9gag.com/gag/an7GOWz)
+ - 😝 [US situation](http://9gag.com/gag/a1mONLG)
+ - 👉 [If she only knew.](http://9gag.com/gag/a87V6XV)<!-- MEMES:END -->
 
 ---
 

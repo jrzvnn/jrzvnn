@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Akon&#39;s $6 billion futuristic `Wakanda` mega-city in Senegal, Africa, has reportedly been abandoned.](http://9gag.com/gag/aoynV00)
- - 😝 [US situation](http://9gag.com/gag/a1mONLG)
- - 💣 [`Be vewwy, vewwy quiet. I&#39;m hunting seawife. Hehehehehehe...`](http://9gag.com/gag/aO8p2Pr)
- - 😝 [Rabbits are good](http://9gag.com/gag/an7G2Q5)
- - 👉 [When Hank goes rogue on Twitter, someone needs to intervene immediately. This is not the search bar you are looking for.](http://9gag.com/gag/a1mONMD)<!-- MEMES:END -->
+ - 😝 [Finally, the moment we&#39;ve all been waiting for](http://9gag.com/gag/a4PwzOd)
+ - 😝 [Legends assemble!!](http://9gag.com/gag/aKGKAnZ)
+ - 💣 [Gentlemen, I inform you, today I burned a CD again. For DOS games and utils. For a retro PC. And used a couple cable from the box](http://9gag.com/gag/a7on0dx)
+ - 😝 [Women want men to see what they really are. However...](http://9gag.com/gag/ae9RO3v)
+ - 👉 [Man want only one thing....and its.....amazing!](http://9gag.com/gag/a1mONQR)<!-- MEMES:END -->
 
 ---
 

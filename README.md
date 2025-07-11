@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When Hank goes rogue on Twitter, someone needs to intervene immediately. This is not the search bar you are looking for.](http://9gag.com/gag/a1mONMD)
- - 😝 [Bear and lollipop](http://9gag.com/gag/a7onebb)
- - 💣 [If she only knew.](http://9gag.com/gag/a87V6XV)
+ - 😝 [US situation](http://9gag.com/gag/a1mONLG)
  - 😝 [There\u2019s truth here](http://9gag.com/gag/an7GOWz)
- - 👉 [The defender&#39;s clearance was more impressive than the goal itself](http://9gag.com/gag/amoR1Yv)<!-- MEMES:END -->
+ - 💣 [This is why i&#39;m still single](http://9gag.com/gag/aGy7np7)
+ - 😝 [One cup of bullshit please](http://9gag.com/gag/agmKOGw)
+ - 👉 [Oh wow sht](http://9gag.com/gag/an7GO8V)<!-- MEMES:END -->
 
 ---
 

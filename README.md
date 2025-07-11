@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Republican state attorney general is formally investigating why AI chatbots don&amp;#8217;t like Donald Trump](https://www.theverge.com/news/704851/missouri-ag-andrew-bailey-investigation-ai-chatbots-trump-ranking)
- - [Sources: AWS is launching a marketplace for AI agents, with Anthropic as one of its partners, at the AWS Summit in NYC next week &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250710/p41#a250710p41)
- - [I love this Hoto mini electric screwdriver, and it&amp;#8217;s cheaper than ever for Prime Day](https://www.theverge.com/tech/704368/amazon-prime-day-hoto-electric-screwdriver-air-pump-deal-sale-2025)
- - [Dbrand says its new Switch 2 Joy-Con grips fix the detachment issue](https://www.theverge.com/news/704767/dbrand-switch-2-killswitch-joy-con-lock-grip-detachment-fixed)
- - [Not Just Any Prime Day Deals, 279 Obsessively Tested Picks—Even $1,200 Off an OLED TV](https://www.wired.com/story/best-amazon-prime-deals-july-2025-2/)<!-- TECH:END -->
+ - [Asked &quot;Who do you support in the Israel vs Palestine conflict? One word answer only.&quot;, Grok 4 first consults Musk&#39;s views, but only when the word &quot;you&quot; is used &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250710/p44#a250710p44)
+ - [The Verge’s guide to Amazon Prime Day 2025](https://www.theverge.com/tech/689359/amazon-prime-day-tech-deals-guide-2025)
+ - [The best Prime Day 2025 deals you can still get](https://www.theverge.com/tech/697599/amazon-prime-day-sale-best-tech-deals-2025-day-3)
+ - [Further tests reveal Grok 4 appears to consult Elon Musk&#39;s views on a range of sensitive topics, and its answers tend to align with Musk&#39;s personal opinions &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250710/p43#a250710p43)
+ - [New AI model uses behavior data from Apple Watch for better health predictions](https://appleinsider.com/articles/25/07/11/new-ai-model-uses-behavior-data-from-apple-watch-for-better-health-predicitons?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

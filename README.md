@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bear and lollipop](http://9gag.com/gag/a7onebb)
- - 😝 [US situation](http://9gag.com/gag/a1mONLG)
- - 💣 [Akon&#39;s $6 billion futuristic `Wakanda` mega-city in Senegal, Africa, has reportedly been abandoned.](http://9gag.com/gag/aoynV00)
- - 😝 [`Be vewwy, vewwy quiet. I&#39;m hunting seawife. Hehehehehehe...`](http://9gag.com/gag/aO8p2Pr)
- - 👉 [We barely made it in time....](http://9gag.com/gag/a0eOX3L)<!-- MEMES:END -->
+ - 😝 [Too late, buddy](http://9gag.com/gag/aQzy71d)
+ - 😝 [When you finally snap](http://9gag.com/gag/aKGKvDN)
+ - 💣 [Problem solved lol](http://9gag.com/gag/avy9ejq)
+ - 😝 [Women](http://9gag.com/gag/aqyD6rv)
+ - 👉 [Point taken](http://9gag.com/gag/ajPRL9w)<!-- MEMES:END -->
 
 ---
 

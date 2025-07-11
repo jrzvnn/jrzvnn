@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [It&#39;s my biggest regret in life. So much money burned away, I can&#39;t quit because it&#39;s too hard.](http://9gag.com/gag/avy91Eb)
- - 😝 [Akon&#39;s $6 billion futuristic `Wakanda` mega-city in Senegal, Africa, has reportedly been abandoned.](http://9gag.com/gag/aoynV00)
- - 💣 [The real edge of tomorrow](http://9gag.com/gag/aQzyvQK)
+ - 😝 [The real edge of tomorrow](http://9gag.com/gag/aQzyvQK)
+ - 💣 [Akon&#39;s $6 billion futuristic `Wakanda` mega-city in Senegal, Africa, has reportedly been abandoned.](http://9gag.com/gag/aoynV00)
  - 😝 [Woman takes on big log](http://9gag.com/gag/aVvRgL2)
  - 👉 [Even want tipped for free stuff.](http://9gag.com/gag/aoyn3A2)<!-- MEMES:END -->
 

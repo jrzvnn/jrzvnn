@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 Best Laptop Docking Stations &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-laptop-docking-stations/)
- - [How the Finder is the real power macOS Tahoe feature](https://appleinsider.com/inside/macos-26/tips/how-the-finder-is-the-real-power-macos-tahoe-feature?utm_medium=rss)
- - [Here are 58 Prime Day deals you can still nab for $50 or less](https://www.theverge.com/tech/699123/amazon-prime-day-best-cheap-tech-deals-under-50-2025)
- - [Eufy’s Floodlight Security Camera Is Cheaper Than Ever This Prime Day &lpar;2025&rpar;](https://www.wired.com/story/eufy-e340-floodlight-security-camera-prime-day-deal-july-2025/)
- - [Apple&#39;s upcoming low-cost MacBook: Colorful and affordable](https://appleinsider.com/articles/25/07/11/apples-upcoming-low-cost-macbook-colorful-and-affordable?utm_medium=rss)<!-- TECH:END -->
+ - [All eyes on Samsung’s thin new foldable](https://www.theverge.com/the-vergecast/704736/samsung-foldables-smartwatches-apple-coo-grok-ai-vergecast)
+ - [Sources on key Microsoft-OpenAI clause: OpenAI decides when AGI and &quot;sufficient AGI&quot;, capable of $100B+ in profits, are reached, and Microsoft can&#39;t build AGI &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/250711/p8#a250711p8)
+ - [The best Prime Day deals on charging accessories](https://www.theverge.com/tech/698933/amazon-prime-day-2025-chargers-power-banks-batteries-deal-sale)
+ - [Apple approves BOE display panel production for iPhone 17 Pro in China](https://appleinsider.com/articles/25/07/11/apple-approves-boe-display-panel-production-for-iphone-17-pro-in-china?utm_medium=rss)
+ - [The new Tony Hawk remaster is a good sign for Switch 2 ports](https://www.theverge.com/games/704560/tony-hawks-pro-skater-3-4-nintendo-switch-2-comparison)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [13 Best Prime Day Mattress Deals Plus Top Bedding Sales &lpar;2025&rpar;](https://www.wired.com/story/amazon-prime-day-mattress-deals-2025-3/)
- - [Google hires Windsurf CEO Varun Mohan, co-founder Douglas Chen, and some of Windsurf&#39;s R&amp;D employees to focus on agentic coding efforts at DeepMind &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250711/p28#a250711p28)
- - [Google’s latest Nest Learning Thermostat is more than $60 off for Prime Day](https://www.theverge.com/tech/705321/amazon-prime-day-google-nest-learning-thermostat-4th-generation-deal-sale-2025)
- - [The 100+ best Prime Day deals under $100](https://www.theverge.com/tech/697310/amazon-prime-day-best-cheap-tech-deals-under-100-2025)
- - [22 Best Prime Day Apple Deals—Including 40% Off AirPods](https://www.wired.com/story/prime-day-apple-deals-2025-3/)<!-- TECH:END -->
+ - [The Nex Playground will wear out your energetic kids, and it’s $60 off during Prime Day](https://www.theverge.com/tech/705269/nex-playground-kid-friendly-gaming-console-amazon-prime-day-deal)
+ - [100 Best Prime Day Deals Under $100 &lpar;2025&rpar;: LifeStraws, Tech, and More](https://www.wired.com/story/prime-day-under-100-july-2025-3/)
+ - [Download All of Netflix in One Second? Researchers in Japan Just Broke the Internet Speed Record](https://www.cnet.com/home/internet/download-all-of-netflix-in-one-second-researchers-in-japan-just-broke-the-internet-speed-record/#ftag=CAD590a51e)
+ - [A Sneak Peek at Samsung&#39;s Plan to Help Us Defy Aging With the Galaxy Watch](https://www.cnet.com/tech/mobile/samsung-gave-me-an-inside-look-at-its-plan-to-help-us-age-better-one-galaxy-watch-at-a-time/#ftag=CAD590a51e)
+ - [13 Best Prime Day Mattress Deals Plus Top Bedding Sales &lpar;2025&rpar;](https://www.wired.com/story/amazon-prime-day-mattress-deals-2025-3/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

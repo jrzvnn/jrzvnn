@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Prime Day Live: We&#39;re Dropping Deals Every 15 Minutes](https://www.wired.com/live/amazon-prime-day-deals-live-in-25-2/)
- - [METR study: experienced open-source developers using Cursor and other AI tools took 19% longer to complete tasks, despite thinking AI had sped them up by 20% &lpar;Steve Newman/Second Thoughts&rpar;](http://www.techmeme.com/250711/p3#a250711p3)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for July 11, #291](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-11-291/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 11 #495](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-11-495/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 11, #761](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-11-761/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [HMD is ‘scaling back’ in the US, killing Nokia all over again](https://www.theverge.com/news/705046/hmd-global-nokia-scaling-back-us-market)
+ - [The best Prime Day 2025 deals you can still get](https://www.theverge.com/tech/697602/amazon-prime-day-sale-best-tech-deals-2025-day-4)
+ - [Tornado Cash Made Crypto Anonymous. Now One of Its Creators Faces Trial](https://www.wired.com/story/roman-storm-tornado-cash-crypto-trial/)
+ - [100 Best Prime Day Deals Under $100 &lpar;2025&rpar;: LifeStraws, Tech, and More](https://www.wired.com/story/prime-day-under-100-july-2025-3/)
+ - [Amazon Prime Day Live: We&#39;re Dropping Deals Every 15 Minutes](https://www.wired.com/live/amazon-prime-day-deals-live-in-25-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

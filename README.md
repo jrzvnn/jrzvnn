@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Too late, buddy](http://9gag.com/gag/aQzy71d)
- - 😝 [When you finally snap](http://9gag.com/gag/aKGKvDN)
- - 💣 [Problem solved lol](http://9gag.com/gag/avy9ejq)
- - 😝 [A real-life Minecraft compass?](http://9gag.com/gag/aGy7BL5)
- - 👉 [Point taken](http://9gag.com/gag/ajPRL9w)<!-- MEMES:END -->
+ - 😝 [`Be vewwy, vewwy quiet. I&#39;m hunting seawife. Hehehehehehe...`](http://9gag.com/gag/aO8p2Pr)
+ - 😝 [Mouthful](http://9gag.com/gag/aBy4LR2)
+ - 💣 [We barely made it in time....](http://9gag.com/gag/a0eOX3L)
+ - 😝 [Trust fail](http://9gag.com/gag/a6ZG9Dm)
+ - 👉 [Akon&#39;s $6 billion futuristic `Wakanda` mega-city in Senegal, Africa, has reportedly been abandoned.](http://9gag.com/gag/aoynV00)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The pure joy of finding the perfect stick, a true treasure.](http://9gag.com/gag/a9yDz1o)
- - 😝 [Roman aqueducts: an ancient engineering marvel that still impresses today.](http://9gag.com/gag/a1mO7o6)
- - 💣 [The real edge of tomorrow](http://9gag.com/gag/aQzyvQK)
- - 😝 [It&#39;s my biggest regret in life. So much money burned away, I can&#39;t quit because it&#39;s too hard.](http://9gag.com/gag/avy91Eb)
- - 👉 [Woman takes on big log](http://9gag.com/gag/aVvRgL2)<!-- MEMES:END -->
+ - 😝 [Oh how the tables have turned](http://9gag.com/gag/adBROYd)
+ - 😝 [Oh wow sht](http://9gag.com/gag/an7GO8V)
+ - 💣 [Lookaoal](http://9gag.com/gag/amoR1by)
+ - 😝 [Mouthful](http://9gag.com/gag/aBy4LR2)
+ - 👉 [`Be vewwy, vewwy quiet. I&#39;m hunting seawife. Hehehehehehe...`](http://9gag.com/gag/aO8p2Pr)<!-- MEMES:END -->
 
 ---
 

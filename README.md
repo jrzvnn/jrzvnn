@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The exclusivity period on OpenAI&#39;s $3B offer to acquire coding startup Windsurf has expired, which means that Windsurf is free to explore other options &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250711/p27#a250711p27)
  - [The 40 best Prime Day deals you can get for under $25](https://www.theverge.com/tech/701774/amazon-prime-day-best-cheap-tech-deals-under-25-2025)
  - [Samsung&#39;s New Phones Show How Far Ahead China Is on Innovation](https://www.wired.com/story/samsungs-new-phones-show-how-far-ahead-china-is-on-innovation/)
  - [The best fitness tracker and smartwatch Prime Day deals](https://www.theverge.com/tech/702080/amazon-prime-day-best-fitness-tracker-smartwatch-deals-2025)
- - [Some Switch 2 accessories and upgraded games are on sale for Prime Day](https://www.theverge.com/tech/704317/amazon-prime-day-best-nintendo-switch-2-accessories-game-deals-2025)
- - [The 20 Prime Day deals that are most popular with Verge readers](https://www.theverge.com/tech/701278/amazon-prime-day-2025-popular-products-verge-readers)<!-- TECH:END -->
+ - [Some Switch 2 accessories and upgraded games are on sale for Prime Day](https://www.theverge.com/tech/704317/amazon-prime-day-best-nintendo-switch-2-accessories-game-deals-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

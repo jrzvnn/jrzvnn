@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Prime Day deals on our favorite robot vacuums](https://www.theverge.com/tech/698188/robot-vacuum-mop-deals-amazon-prime-day)
- - [T-Mobile Is Bringing Starlink Satellite Access to Your Phone, Even if You’re on a Different Carrier](https://www.cnet.com/tech/mobile/t-mobile-is-bringing-starlink-satellite-access-to-your-phone-even-if-youre-on-a-different-carrier/#ftag=CAD590a51e)
- - [The best fitness tracker and smartwatch Prime Day deals](https://www.theverge.com/tech/702080/amazon-prime-day-best-fitness-tracker-smartwatch-deals-2025)
- - [5 iPhone 17 Pro Max Rumors Are Making Me Rethink My Next Upgrade](https://www.cnet.com/tech/mobile/5-iphone-17-pro-max-rumors-are-making-me-rethink-my-next-upgrade/#ftag=CAD590a51e)
- - [The best Apple deals during Prime Day won’t last much longer](https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals)<!-- TECH:END -->
+ - [The best Prime Day deals on Verge-favorite 4K Blu-rays](https://www.theverge.com/tech/701526/amazon-prime-day-best-4k-blu-ray-deals-target-sale-2025)
+ - [RealSense spins out from Intel after 14 years as the chipmaker&#39;s robotics camera unit, and raises a $50M Series A with participation of Intel Capital and others &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250711/p5#a250711p5)
+ - [iPhone 17 and iPhone 17 Air colors revealed in accessories leak](https://appleinsider.com/articles/25/07/11/iphone-17-and-iphone-17-air-colors-revealed-in-accessories-leak?utm_medium=rss)
+ - [The 40 best Prime Day deals you can get for under $25](https://www.theverge.com/tech/701774/amazon-prime-day-best-cheap-tech-deals-under-25-2025)
+ - [The best Prime Day deals on our favorite robot vacuums](https://www.theverge.com/tech/698188/robot-vacuum-mop-deals-amazon-prime-day)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

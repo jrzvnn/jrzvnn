@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Akon&#39;s $6 billion futuristic `Wakanda` mega-city in Senegal, Africa, has reportedly been abandoned.](http://9gag.com/gag/aoynV00)
- - 😝 [Woman takes on big log](http://9gag.com/gag/aVvRgL2)
- - 💣 [Even want tipped for free stuff.](http://9gag.com/gag/aoyn3A2)
- - 😝 [A real-life Minecraft compass?](http://9gag.com/gag/aGy7BL5)
- - 👉 [Legends assemble!!](http://9gag.com/gag/aKGKAnZ)<!-- MEMES:END -->
+ - 😝 [`Be vewwy, vewwy quiet. I&#39;m hunting seawife. Hehehehehehe...`](http://9gag.com/gag/aO8p2Pr)
+ - 😝 [This is not a list](http://9gag.com/gag/aAyv6V0)
+ - 💣 [There\u2019s truth here](http://9gag.com/gag/an7GOWz)
+ - 😝 [The ultimate showdown for the fate of gaming. Gamers assemble](http://9gag.com/gag/aKGK9nb)
+ - 👉 [This is why i&#39;m still single](http://9gag.com/gag/aGy7np7)<!-- MEMES:END -->
 
 ---
 

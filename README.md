@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh how the tables have turned](http://9gag.com/gag/adBROYd)
- - 😝 [Oh wow sht](http://9gag.com/gag/an7GO8V)
- - 💣 [Lookaoal](http://9gag.com/gag/amoR1by)
- - 😝 [Mouthful](http://9gag.com/gag/aBy4LR2)
- - 👉 [`Be vewwy, vewwy quiet. I&#39;m hunting seawife. Hehehehehehe...`](http://9gag.com/gag/aO8p2Pr)<!-- MEMES:END -->
+ - 😝 [This is why i&#39;m still single](http://9gag.com/gag/aGy7np7)
+ - 😝 [Akon&#39;s $6 billion futuristic `Wakanda` mega-city in Senegal, Africa, has reportedly been abandoned.](http://9gag.com/gag/aoynV00)
+ - 💣 [Perception is everything ....](http://9gag.com/gag/aD2Q24w)
+ - 😝 [`Be vewwy, vewwy quiet. I&#39;m hunting seawife. Hehehehehehe...`](http://9gag.com/gag/aO8p2Pr)
+ - 👉 [Women would be like \u201c a real man would marry her\u201d. Men know better](http://9gag.com/gag/awyeyY1)<!-- MEMES:END -->
 
 ---
 

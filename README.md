@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: OpenAI and Windsurf talks ended after Windsurf raised concerns over how its tech would fit into OpenAI&#39;s agreement to share tech with Microsoft &lpar;The Information&rpar;](http://www.techmeme.com/250711/p29#a250711p29)
+ - [The 22 Best Non–Prime Day Deals From Retailers That Are Not Amazon](https://www.wired.com/story/best-prime-day-deals-from-other-retailers-1/)
  - [Best Prime Day Beauty Deals 2025: Hair, Skin, and Dental Care](https://www.wired.com/story/prime-day-beauty-deals-july-2025-3/)
  - [Prime Day is almost over, but our favorite deals are still live](https://www.theverge.com/tech/697602/amazon-prime-day-sale-best-tech-deals-2025-day-4)
- - [The Nex Playground will wear out your energetic kids, and it’s $60 off during Prime Day](https://www.theverge.com/tech/705269/nex-playground-kid-friendly-gaming-console-amazon-prime-day-deal)
- - [100 Best Prime Day Deals Under $100 &lpar;2025&rpar;: LifeStraws, Tech, and More](https://www.wired.com/story/prime-day-under-100-july-2025-3/)
- - [Download All of Netflix in One Second? Researchers in Japan Just Broke the Internet Speed Record](https://www.cnet.com/home/internet/download-all-of-netflix-in-one-second-researchers-in-japan-just-broke-the-internet-speed-record/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Nex Playground will wear out your energetic kids, and it’s $60 off during Prime Day](https://www.theverge.com/tech/705269/nex-playground-kid-friendly-gaming-console-amazon-prime-day-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

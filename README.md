@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [US situation](http://9gag.com/gag/a1mONLG)
- - 😝 [Still looks the same...](http://9gag.com/gag/aBy4Zrx)
- - 💣 [When Hank goes rogue on Twitter, someone needs to intervene immediately. This is not the search bar you are looking for.](http://9gag.com/gag/a1mONMD)
- - 😝 [If she only knew.](http://9gag.com/gag/a87V6XV)
- - 👉 [Ice ice, baby!](http://9gag.com/gag/ajPR76R)<!-- MEMES:END -->
+ - 😝 [Trust fail](http://9gag.com/gag/a6ZG9Dm)
+ - 😝 [The ultimate showdown for the fate of gaming. Gamers assemble](http://9gag.com/gag/aKGK9nb)
+ - 💣 [`Be vewwy, vewwy quiet. I&#39;m hunting seawife. Hehehehehehe...`](http://9gag.com/gag/aO8p2Pr)
+ - 😝 [Wtf is wrong with people](http://9gag.com/gag/awyemDx)
+ - 👉 [Akon&#39;s $6 billion futuristic `Wakanda` mega-city in Senegal, Africa, has reportedly been abandoned.](http://9gag.com/gag/aoynV00)<!-- MEMES:END -->
 
 ---
 

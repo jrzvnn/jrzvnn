@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here&#39;s What We Know About DOGE 2.0](https://www.wired.com/story/uncanny-valley-podcast-heres-what-we-know-about-doge-20/)
+ - [Source: Butterfly Effect, the startup behind Manus, has shut down its entire China-based team to minimize geopolitical risks associated with its ties to China &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/250711/p18#a250711p18)
+ - [Apple leaders join Sun Valley billionaires&#39; summer camp for 2025](https://appleinsider.com/articles/25/07/11/apple-leaders-join-sun-valley-billionaires-summer-camp-for-2025?utm_medium=rss)
  - [BYD will accept liability if one of its self-parking cars crashes](https://www.theverge.com/news/705470/byd-self-parking-crash-liability)
- - [The smartphone-sized Boox Palma 2 is cheaper than ever for Prime Day](https://www.theverge.com/tech/705234/amazon-prime-day-boox-palma-2-ebook-reader-deal-sale-2025)
- - [Some Verge-favorite gadgets are cheaper during Prime Day 2025](https://www.theverge.com/tech/699230/best-prime-day-deals-verge-favorites)
- - [HMD says it will &quot;scale back&quot; US operations, citing &quot;a challenging geopolitical and economic environment&quot;, and appears to have stopped US sales of Nokia devices &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250711/p17#a250711p17)
- - [iFixit: the Switch 2 Pro is a &amp;#8216;piss-poor excuse for a controller&amp;#8217;](https://www.theverge.com/news/705383/ifixit-teardown-nintendo-switch-2-pro-controller-repairability)<!-- TECH:END -->
+ - [The smartphone-sized Boox Palma 2 is cheaper than ever for Prime Day](https://www.theverge.com/tech/705234/amazon-prime-day-boox-palma-2-ebook-reader-deal-sale-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

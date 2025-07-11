@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How AI is being used by patients and doctors alike to recommend diagnoses and treatments, as experts warn of answers that seem confident but lack nuance &lpar;Ryan Flinn/Wired&rpar;](http://www.techmeme.com/250711/p1#a250711p1)
  - [The best Apple deals available for Amazon Prime Day 2025](https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals)
  - [The best Prime Day 2025 deals you can still get](https://www.theverge.com/tech/697599/amazon-prime-day-sale-best-tech-deals-2025-day-3)
  - [The best Prime Day deals on charging accessories](https://www.theverge.com/tech/698933/amazon-prime-day-2025-chargers-power-banks-batteries-deal-sale)
- - [Krafton slams ex-Subnautica 2 execs — who now say they’re suing](https://www.theverge.com/news/704606/subnautica-2-delay-krafton-unknown-worlds-bonus)
- - [Tel Aviv- and NYC-based Datafy, which offers an autonomous cloud storage optimization service, raised a $20M seed led by Bessemer Venture Partners &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250710/p47#a250710p47)<!-- TECH:END -->
+ - [Krafton slams ex-Subnautica 2 execs — who now say they’re suing](https://www.theverge.com/news/704606/subnautica-2-delay-krafton-unknown-worlds-bonus)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The only correct answer to this question](http://9gag.com/gag/axymvvW)
  - 😝 [Akon&#39;s $6 billion futuristic `Wakanda` mega-city in Senegal, Africa, has reportedly been abandoned.](http://9gag.com/gag/aoynV00)
- - 💣 [Woman takes on big log](http://9gag.com/gag/aVvRgL2)
- - 😝 [Even want tipped for free stuff.](http://9gag.com/gag/aoyn3A2)
+ - 😝 [Woman takes on big log](http://9gag.com/gag/aVvRgL2)
+ - 💣 [Even want tipped for free stuff.](http://9gag.com/gag/aoyn3A2)
+ - 😝 [A real-life Minecraft compass?](http://9gag.com/gag/aGy7BL5)
  - 👉 [Legends assemble!!](http://9gag.com/gag/aKGKAnZ)<!-- MEMES:END -->
 
 ---

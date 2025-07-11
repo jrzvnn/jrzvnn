@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HMD is ‘scaling back’ in the US, killing Nokia all over again](https://www.theverge.com/news/705046/hmd-global-nokia-scaling-back-us-market)
- - [The best Prime Day 2025 deals you can still get](https://www.theverge.com/tech/697602/amazon-prime-day-sale-best-tech-deals-2025-day-4)
- - [Tornado Cash Made Crypto Anonymous. Now One of Its Creators Faces Trial](https://www.wired.com/story/roman-storm-tornado-cash-crypto-trial/)
- - [100 Best Prime Day Deals Under $100 &lpar;2025&rpar;: LifeStraws, Tech, and More](https://www.wired.com/story/prime-day-under-100-july-2025-3/)
- - [Amazon Prime Day Live: We&#39;re Dropping Deals Every 15 Minutes](https://www.wired.com/live/amazon-prime-day-deals-live-in-25-2/)<!-- TECH:END -->
+ - [The best Apple deals during Prime Day won’t last much longer](https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals)
+ - [Our favorite desk accessories for Prime Day](https://www.theverge.com/tech/699494/verge-favorite-desk-accessories-prime-day-deals)
+ - [Sources: Alibaba-backed Chinese AI startup Zhipu plans to raise ~$300M in an IPO in Hong Kong, after previously considering listing in mainland China &lpar;Bloomberg&rpar;](http://www.techmeme.com/250711/p4#a250711p4)
+ - [5 Big EV Takeaways From Trump’s ‘One Big Beautiful Bill’](https://www.wired.com/story/5-big-ev-takeaways-one-big-beautiful-bill/)
+ - [Some Verge-favorite gadgets are cheaper during Prime Day 2025](https://www.theverge.com/tech/699230/best-prime-day-deals-verge-favorites)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

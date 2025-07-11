@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A small price to pay for peace and quiet on a long flight.](http://9gag.com/gag/apRVg78)
- - 😝 [When you try to be a hero and the universe has other plans](http://9gag.com/gag/aNDjwq4)
- - 💣 [The defender&#39;s clearance was more impressive than the goal itself](http://9gag.com/gag/amoR1Yv)
- - 😝 [This is not a list](http://9gag.com/gag/aAyv6V0)
- - 👉 [This is why i&#39;m still single](http://9gag.com/gag/aGy7np7)<!-- MEMES:END -->
+ - 😝 [The pure joy of finding the perfect stick, a true treasure.](http://9gag.com/gag/a9yDz1o)
+ - 😝 [Roman aqueducts: an ancient engineering marvel that still impresses today.](http://9gag.com/gag/a1mO7o6)
+ - 💣 [The real edge of tomorrow](http://9gag.com/gag/aQzyvQK)
+ - 😝 [Woman takes on big log](http://9gag.com/gag/aVvRgL2)
+ - 👉 [It&#39;s my biggest regret in life. So much money burned away, I can&#39;t quit because it&#39;s too hard.](http://9gag.com/gag/avy91Eb)<!-- MEMES:END -->
 
 ---
 

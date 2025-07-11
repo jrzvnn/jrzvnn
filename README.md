@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The moment you realize your flight plan needs a serious revision](http://9gag.com/gag/aO8p2LM)
- - 😝 [Angry Panda](http://9gag.com/gag/aPArxWK)
- - 💣 [Women would be like \u201c a real man would marry her\u201d. Men know better](http://9gag.com/gag/awyeyY1)
+ - 😝 [When Hank goes rogue on Twitter, someone needs to intervene immediately. This is not the search bar you are looking for.](http://9gag.com/gag/a1mONMD)
+ - 😝 [Bear and lollipop](http://9gag.com/gag/a7onebb)
+ - 💣 [If she only knew.](http://9gag.com/gag/a87V6XV)
  - 😝 [There\u2019s truth here](http://9gag.com/gag/an7GOWz)
- - 👉 [If she only knew.](http://9gag.com/gag/a87V6XV)<!-- MEMES:END -->
+ - 👉 [The defender&#39;s clearance was more impressive than the goal itself](http://9gag.com/gag/amoR1Yv)<!-- MEMES:END -->
 
 ---
 

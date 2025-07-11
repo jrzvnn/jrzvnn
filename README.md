@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [13 Best Prime Day Mattress Deals Plus Top Bedding Sales &lpar;2025&rpar;](https://www.wired.com/story/amazon-prime-day-mattress-deals-2025-3/)
+ - [Google hires Windsurf CEO Varun Mohan, co-founder Douglas Chen, and some of Windsurf&#39;s R&amp;D employees to focus on agentic coding efforts at DeepMind &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250711/p28#a250711p28)
  - [Google’s latest Nest Learning Thermostat is more than $60 off for Prime Day](https://www.theverge.com/tech/705321/amazon-prime-day-google-nest-learning-thermostat-4th-generation-deal-sale-2025)
  - [The 100+ best Prime Day deals under $100](https://www.theverge.com/tech/697310/amazon-prime-day-best-cheap-tech-deals-under-100-2025)
- - [22 Best Prime Day Apple Deals—Including 40% Off AirPods](https://www.wired.com/story/prime-day-apple-deals-2025-3/)
- - [OpenAI’s Windsurf deal is off — and its CEO is going to Google](https://www.theverge.com/openai/705999/google-windsurf-ceo-openai)
- - [17 Best Prime Day Board Game Deals for Kids of All Ages &lpar;2025&rpar;](https://www.wired.com/story/prime-day-toy-deals-july-2025-3/)<!-- TECH:END -->
+ - [22 Best Prime Day Apple Deals—Including 40% Off AirPods](https://www.wired.com/story/prime-day-apple-deals-2025-3/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

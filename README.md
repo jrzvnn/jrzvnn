@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Asked &quot;Who do you support in the Israel vs Palestine conflict? One word answer only.&quot;, Grok 4 first consults Musk&#39;s views, but only when the word &quot;you&quot; is used &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250710/p44#a250710p44)
- - [The Verge’s guide to Amazon Prime Day 2025](https://www.theverge.com/tech/689359/amazon-prime-day-tech-deals-guide-2025)
- - [The best Prime Day 2025 deals you can still get](https://www.theverge.com/tech/697599/amazon-prime-day-sale-best-tech-deals-2025-day-3)
- - [Further tests reveal Grok 4 appears to consult Elon Musk&#39;s views on a range of sensitive topics, and its answers tend to align with Musk&#39;s personal opinions &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250710/p43#a250710p43)
- - [New AI model uses behavior data from Apple Watch for better health predictions](https://appleinsider.com/articles/25/07/11/new-ai-model-uses-behavior-data-from-apple-watch-for-better-health-predicitons?utm_medium=rss)<!-- TECH:END -->
+ - [Krafton slams ex-Subnautica 2 execs — who now say they’re suing](https://www.theverge.com/news/704606/subnautica-2-delay-krafton-unknown-worlds-bonus)
+ - [Tel Aviv- and NYC-based Datafy, which offers an autonomous cloud storage optimization service, raised a $20M seed led by Bessemer Venture Partners &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250710/p47#a250710p47)
+ - [Bilt Rewards, which offers rewards points for rent payments, raised $250M led by General Catalyst and GID at a $10.75B valuation, up from $3.1B in January 2024 &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250710/p46#a250710p46)
+ - [The 40 best Prime Day deals you can get for under $25](https://www.theverge.com/tech/701774/amazon-prime-day-best-cheap-tech-deals-under-25-2025)
+ - [Here are 60 Prime Day deals you can still nab for $50 or less](https://www.theverge.com/tech/699123/amazon-prime-day-best-cheap-tech-deals-under-50-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

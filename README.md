@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Iconic &#39;Trash Can&#39; Mac Pro is now on Apple&#39;s vintage products list](https://appleinsider.com/articles/25/07/11/the-iconic-trash-can-mac-pro-is-now-on-apples-vintage-products-list?utm_medium=rss)
+ - [Slumber Cloud&#39;s Sale Is One Not to Miss Before Prime Day Ends](https://www.wired.com/story/slumber-cloud-sale-july-2025/)
  - [Sources: JPMorgan Chase told fintech companies it will start charging fees for access to customers&#39; account data, which could drastically reshape the industry &lpar;Bloomberg&rpar;](http://www.techmeme.com/250711/p22#a250711p22)
  - [Sources: Zerohash, which provides crypto and stablecoin infrastructure, is raising ~$100M at a ~$1B valuation, up from $340M when it raised a Series D in 2022 &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250711/p21#a250711p21)
- - [Here are 58 Prime Day deals you can still nab for $50 or less](https://www.theverge.com/tech/699123/amazon-prime-day-best-cheap-tech-deals-under-50-2025)
- - [Insta360 infringed on a GoPro Hero camera patent, US judge rules](https://www.theverge.com/news/705645/gopro-insta360-us-itc-judge-infringe-patents)
- - [Some of our favorite headphones are steeply discounted for Prime Day](https://www.theverge.com/tech/700846/amazon-prime-day-best-noise-canceling-headphone-earbud-deals-2025)<!-- TECH:END -->
+ - [Here are 58 Prime Day deals you can still nab for $50 or less](https://www.theverge.com/tech/699123/amazon-prime-day-best-cheap-tech-deals-under-50-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

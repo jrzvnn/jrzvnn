@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Medium CEO says the company has been profitable since August 2024 and details its financial turnaround after losing $2.6M per month in 2022 &lpar;Tony Stubblebine/The Coach Life&rpar;](http://www.techmeme.com/250711/p19#a250711p19)
+ - [Join Our Next Livestream: Inside the AI Copyright Battles with WIRED Reporters](https://www.wired.com/story/livestream-ai-copyright-battles/)
  - [Here&#39;s What We Know About DOGE 2.0](https://www.wired.com/story/uncanny-valley-podcast-heres-what-we-know-about-doge-20/)
  - [Source: Butterfly Effect, the startup behind Manus, has shut down its entire China-based team to minimize geopolitical risks associated with its ties to China &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/250711/p18#a250711p18)
- - [Apple leaders join Sun Valley billionaires&#39; summer camp for 2025](https://appleinsider.com/articles/25/07/11/apple-leaders-join-sun-valley-billionaires-summer-camp-for-2025?utm_medium=rss)
- - [BYD will accept liability if one of its self-parking cars crashes](https://www.theverge.com/news/705470/byd-self-parking-crash-liability)
- - [The smartphone-sized Boox Palma 2 is cheaper than ever for Prime Day](https://www.theverge.com/tech/705234/amazon-prime-day-boox-palma-2-ebook-reader-deal-sale-2025)<!-- TECH:END -->
+ - [Apple leaders join Sun Valley billionaires&#39; summer camp for 2025](https://appleinsider.com/articles/25/07/11/apple-leaders-join-sun-valley-billionaires-summer-camp-for-2025?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

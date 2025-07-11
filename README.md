@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lookaoal](http://9gag.com/gag/amoR1by)
- - 😝 [Oh wow sht](http://9gag.com/gag/an7GO8V)
- - 💣 [If she only knew.](http://9gag.com/gag/a87V6XV)
- - 😝 [US situation](http://9gag.com/gag/a1mONLG)
- - 👉 [Akon&#39;s $6 billion futuristic `Wakanda` mega-city in Senegal, Africa, has reportedly been abandoned.](http://9gag.com/gag/aoynV00)<!-- MEMES:END -->
+ - 😝 [It&#39;s my biggest regret in life. So much money burned away, I can&#39;t quit because it&#39;s too hard.](http://9gag.com/gag/avy91Eb)
+ - 😝 [Akon&#39;s $6 billion futuristic `Wakanda` mega-city in Senegal, Africa, has reportedly been abandoned.](http://9gag.com/gag/aoynV00)
+ - 💣 [The real edge of tomorrow](http://9gag.com/gag/aQzyvQK)
+ - 😝 [Woman takes on big log](http://9gag.com/gag/aVvRgL2)
+ - 👉 [Even want tipped for free stuff.](http://9gag.com/gag/aoyn3A2)<!-- MEMES:END -->
 
 ---
 

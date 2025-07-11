@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Prime Day Beauty Deals 2025: Hair, Skin, and Dental Care](https://www.wired.com/story/prime-day-beauty-deals-july-2025-3/)
+ - [Prime Day is almost over, but our favorite deals are still live](https://www.theverge.com/tech/697602/amazon-prime-day-sale-best-tech-deals-2025-day-4)
  - [The Nex Playground will wear out your energetic kids, and it’s $60 off during Prime Day](https://www.theverge.com/tech/705269/nex-playground-kid-friendly-gaming-console-amazon-prime-day-deal)
  - [100 Best Prime Day Deals Under $100 &lpar;2025&rpar;: LifeStraws, Tech, and More](https://www.wired.com/story/prime-day-under-100-july-2025-3/)
- - [Download All of Netflix in One Second? Researchers in Japan Just Broke the Internet Speed Record](https://www.cnet.com/home/internet/download-all-of-netflix-in-one-second-researchers-in-japan-just-broke-the-internet-speed-record/#ftag=CAD590a51e)
- - [A Sneak Peek at Samsung&#39;s Plan to Help Us Defy Aging With the Galaxy Watch](https://www.cnet.com/tech/mobile/samsung-gave-me-an-inside-look-at-its-plan-to-help-us-age-better-one-galaxy-watch-at-a-time/#ftag=CAD590a51e)
- - [13 Best Prime Day Mattress Deals Plus Top Bedding Sales &lpar;2025&rpar;](https://www.wired.com/story/amazon-prime-day-mattress-deals-2025-3/)<!-- TECH:END -->
+ - [Download All of Netflix in One Second? Researchers in Japan Just Broke the Internet Speed Record](https://www.cnet.com/home/internet/download-all-of-netflix-in-one-second-researchers-in-japan-just-broke-the-internet-speed-record/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

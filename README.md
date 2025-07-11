@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women would be like \u201c a real man would marry her\u201d. Men know better](http://9gag.com/gag/awyeyY1)
- - 😝 [`Be vewwy, vewwy quiet. I&#39;m hunting seawife. Hehehehehehe...`](http://9gag.com/gag/aO8p2Pr)
- - 💣 [There\u2019s truth here](http://9gag.com/gag/an7GOWz)
- - 😝 [US situation](http://9gag.com/gag/a1mONLG)
- - 👉 [If she only knew.](http://9gag.com/gag/a87V6XV)<!-- MEMES:END -->
+ - 😝 [And on this farm, he had a......E I E I O](http://9gag.com/gag/aVvRoAd)
+ - 😝 [Roman aqueducts: an ancient engineering marvel that still impresses today.](http://9gag.com/gag/a1mO7o6)
+ - 💣 [It&#39;s my biggest regret in life. So much money burned away, I can&#39;t quit because it&#39;s too hard.](http://9gag.com/gag/avy91Eb)
+ - 😝 [The real edge of tomorrow](http://9gag.com/gag/aQzyvQK)
+ - 👉 [Even want tipped for free stuff.](http://9gag.com/gag/aoyn3A2)<!-- MEMES:END -->
 
 ---
 

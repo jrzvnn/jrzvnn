@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anker&#39;s Laptop Power Bank Is on Sale Right Now for Prime Day &lpar;2025&rpar;](https://www.wired.com/story/anker-laptop-power-bank-prime-day-deal-july-2025/)
+ - [The unholy alliance that killed the AI moratorium](https://www.theverge.com/politics/704424/ai-moratorium-ted-cruz-steve-bannon-trump)
+ - [French media: French police detained Russian professional basketball player Daniil Kasatkin at the US&#39; request due to his alleged links to a ransomware group &lpar;Daryna Antoniuk/The Record&rpar;](http://www.techmeme.com/250711/p12#a250711p12)
  - [Some of the stuff we actually bought during Prime Day](https://www.theverge.com/tech/704073/prime-day-deal-sales-purchase)
- - [Prime Day ends tonight, grab these top Apple deals before midnight](https://appleinsider.com/articles/25/07/11/prime-day-ends-tonight-grab-these-top-apple-deals-before-midnight?utm_medium=rss)
- - [Recording: Intel&#39;s new CEO Lip-Bu Tan told staff that Intel is no longer &quot;in the top 10 semiconductor companies&quot; and it is &quot;too late&quot; to catch up to Nvidia &lpar;Mike Rogoway/Oregonian&rpar;](http://www.techmeme.com/250711/p11#a250711p11)
- - [The Verge&amp;#8217;s favorite travel gear for 2025](https://www.theverge.com/tech/697960/favorite-travel-gear-2025)
- - [The Amazfit Active 2, one of our favorite fitness trackers, is just $79.99 right now](https://www.theverge.com/tech/700959/amazon-prime-day-amazfit-active-2-fitness-tracker-deal-sale-2025)<!-- TECH:END -->
+ - [Prime Day ends tonight, grab these top Apple deals before midnight](https://appleinsider.com/articles/25/07/11/prime-day-ends-tonight-grab-these-top-apple-deals-before-midnight?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

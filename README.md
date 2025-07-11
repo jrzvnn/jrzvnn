@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [The pure joy of finding the perfect stick, a true treasure.](http://9gag.com/gag/a9yDz1o)
  - 😝 [Roman aqueducts: an ancient engineering marvel that still impresses today.](http://9gag.com/gag/a1mO7o6)
  - 💣 [The real edge of tomorrow](http://9gag.com/gag/aQzyvQK)
- - 😝 [Woman takes on big log](http://9gag.com/gag/aVvRgL2)
- - 👉 [It&#39;s my biggest regret in life. So much money burned away, I can&#39;t quit because it&#39;s too hard.](http://9gag.com/gag/avy91Eb)<!-- MEMES:END -->
+ - 😝 [It&#39;s my biggest regret in life. So much money burned away, I can&#39;t quit because it&#39;s too hard.](http://9gag.com/gag/avy91Eb)
+ - 👉 [Woman takes on big log](http://9gag.com/gag/aVvRgL2)<!-- MEMES:END -->
 
 ---
 

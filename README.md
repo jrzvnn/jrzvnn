@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Belkin is ending support for nearly all its Wemo smart home devices](https://www.theverge.com/news/705136/belkin-wemo-smart-home-support-ending-homekit-thread)
+ - [Sources: Binance wrote the smart contract for USD1, a stablecoin launched by Trump&#39;s World Liberty, and promoted it to its 275M users, before CZ sought a pardon &lpar;Bloomberg&rpar;](http://www.techmeme.com/250711/p6#a250711p6)
+ - [Some of our favorite headphones are steeply discounted for Prime Day](https://www.theverge.com/tech/700846/amazon-prime-day-best-noise-canceling-headphone-earbud-deals-2025)
  - [The best 4K TV deals during Prime Day 2025](https://www.theverge.com/tech/699516/4k-tv-soundbar-streaming-deal-sale-amazon-prime-day)
- - [How the Finder is the real power macOS Tahoe feature](https://appleinsider.com/inside/macos-26/tips/how-the-finder-is-the-real-power-macos-tahoe-feature?utm_medium=rss)
- - [This Is the Best iPad Deal on Prime Day &lpar;2025&rpar;](https://www.wired.com/story/apple-ipad-prime-day-deal-july-2025/)
- - [The best Prime Day deals on Verge-favorite 4K Blu-rays](https://www.theverge.com/tech/701526/amazon-prime-day-best-4k-blu-ray-deals-target-sale-2025)
- - [RealSense spins out from Intel after 14 years as the chipmaker&#39;s robotics camera unit, and raises a $50M Series A with participation of Intel Capital and others &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250711/p5#a250711p5)<!-- TECH:END -->
+ - [How the Finder is the real power macOS Tahoe feature](https://appleinsider.com/inside/macos-26/tips/how-the-finder-is-the-real-power-macos-tahoe-feature?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

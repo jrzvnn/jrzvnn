@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ice ice, baby!](http://9gag.com/gag/ajPR76R)
- - 😝 [`Be vewwy, vewwy quiet. I&#39;m hunting seawife. Hehehehehehe...`](http://9gag.com/gag/aO8p2Pr)
- - 💣 [If she only knew.](http://9gag.com/gag/a87V6XV)
- - 😝 [Invisible shield??](http://9gag.com/gag/aKGKvAZ)
- - 👉 [The ultimate showdown for the fate of gaming. Gamers assemble](http://9gag.com/gag/aKGK9nb)<!-- MEMES:END -->
+ - 😝 [Finally, the moment we&#39;ve all been waiting for](http://9gag.com/gag/a4PwzOd)
+ - 😝 [Women want men to see what they really are. However...](http://9gag.com/gag/ae9RO3v)
+ - 💣 [Gentlemen, I inform you, today I burned a CD again. For DOS games and utils. For a retro PC. And used a couple cable from the box](http://9gag.com/gag/a7on0dx)
+ - 😝 [Man want only one thing....and its.....amazing!](http://9gag.com/gag/a1mONQR)
+ - 👉 [A Twitter screenshot isn&#39;t A meme](http://9gag.com/gag/a87V66e)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [French prosecutors open a criminal investigation into X over allegations that the company manipulated its algorithms for the purposes of &quot;foreign interference&quot; &lpar;Politico&rpar;](http://www.techmeme.com/250711/p14#a250711p14)
  - [25 Best Prime Day Coffee Maker Deals on Machines, Grinders, and More](https://www.wired.com/story/the-best-prime-day-coffee-deals-3/)
  - [Moment, which offers fixed income portfolio management software to financial institutions, raised a $36M Series B led by Index, taking its total funding to $56M &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/250711/p13#a250711p13)
  - [Anker&#39;s Laptop Power Bank Is on Sale Right Now for Prime Day &lpar;2025&rpar;](https://www.wired.com/story/anker-laptop-power-bank-prime-day-deal-july-2025/)
- - [The unholy alliance that killed the AI moratorium](https://www.theverge.com/politics/704424/ai-moratorium-ted-cruz-steve-bannon-trump)
- - [French media: French police detained Russian professional basketball player Daniil Kasatkin at the US&#39; request due to his alleged links to a ransomware group &lpar;Daryna Antoniuk/The Record&rpar;](http://www.techmeme.com/250711/p12#a250711p12)<!-- TECH:END -->
+ - [The unholy alliance that killed the AI moratorium](https://www.theverge.com/politics/704424/ai-moratorium-ted-cruz-steve-bannon-trump)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

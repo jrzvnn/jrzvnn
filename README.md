@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Meta won&#39;t propose additional changes to its pay-or-consent model in the EU, and could face fresh antitrust charges and hefty daily fines &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250711/p10#a250711p10)
  - [The original Pixel Fold is over $1,000 off on the last day of Prime Day](https://www.theverge.com/tech/705211/google-pixel-fold-prime-day-deal-sale-foldable)
  - [Goldman Sachs CTO Marco Argenti says the bank is &quot;going to start augmenting our workforce with Devin&quot;, Cognition&#39;s AI coding assistant, as Wall Street adopts AI &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/250711/p9#a250711p9)
- - [The 32 Best Deals at Walmart’s Competing Prime Day Sale](https://www.wired.com/story/best-deals-at-walmarts-prime-day-sale-1/)
- - [All eyes on Samsung’s thin new foldable](https://www.theverge.com/the-vergecast/704736/samsung-foldables-smartwatches-apple-coo-grok-ai-vergecast)
- - [Sources on key Microsoft-OpenAI clause: OpenAI decides when AGI and &quot;sufficient AGI&quot;, capable of $100B+ in profits, are reached, and Microsoft can&#39;t build AGI &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/250711/p8#a250711p8)<!-- TECH:END -->
+ - [Best Carpet Cleaners: I Used Real Life Messes as the Ultimate Test](https://www.cnet.com/news/best-carpet-cleaners/#ftag=CAD590a51e)
+ - [The 32 Best Deals at Walmart’s Competing Prime Day Sale](https://www.wired.com/story/best-deals-at-walmarts-prime-day-sale-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

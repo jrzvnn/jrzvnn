@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Women would be like \u201c a real man would marry her\u201d. Men know better](http://9gag.com/gag/awyeyY1)
  - 😝 [US situation](http://9gag.com/gag/a1mONLG)
- - 😝 [There\u2019s truth here](http://9gag.com/gag/an7GOWz)
  - 💣 [This is why i&#39;m still single](http://9gag.com/gag/aGy7np7)
- - 😝 [One cup of bullshit please](http://9gag.com/gag/agmKOGw)
- - 👉 [Oh wow sht](http://9gag.com/gag/an7GO8V)<!-- MEMES:END -->
+ - 😝 [`Be vewwy, vewwy quiet. I&#39;m hunting seawife. Hehehehehehe...`](http://9gag.com/gag/aO8p2Pr)
+ - 👉 [If she only knew.](http://9gag.com/gag/a87V6XV)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hey, that&#39;s my bike](http://9gag.com/gag/aPAroZq)
- - 😝 [Still looks the same...](http://9gag.com/gag/aBy4Zrx)
- - 💣 [`Be vewwy, vewwy quiet. I&#39;m hunting seawife. Hehehehehehe...`](http://9gag.com/gag/aO8p2Pr)
  - 😝 [We barely made it in time....](http://9gag.com/gag/a0eOX3L)
+ - 😝 [Akon&#39;s $6 billion futuristic `Wakanda` mega-city in Senegal, Africa, has reportedly been abandoned.](http://9gag.com/gag/aoynV00)
+ - 💣 [`Be vewwy, vewwy quiet. I&#39;m hunting seawife. Hehehehehehe...`](http://9gag.com/gag/aO8p2Pr)
+ - 😝 [Wtf is wrong with people](http://9gag.com/gag/awyemDx)
  - 👉 [US situation](http://9gag.com/gag/a1mONLG)<!-- MEMES:END -->
 
 ---

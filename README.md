@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [French prosecutors open a criminal investigation into X over allegations that the company manipulated its algorithms for the purposes of &quot;foreign interference&quot; &lpar;Politico&rpar;](http://www.techmeme.com/250711/p14#a250711p14)
- - [25 Best Prime Day Coffee Maker Deals on Machines, Grinders, and More](https://www.wired.com/story/the-best-prime-day-coffee-deals-3/)
- - [Moment, which offers fixed income portfolio management software to financial institutions, raised a $36M Series B led by Index, taking its total funding to $56M &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/250711/p13#a250711p13)
- - [Anker&#39;s Laptop Power Bank Is on Sale Right Now for Prime Day &lpar;2025&rpar;](https://www.wired.com/story/anker-laptop-power-bank-prime-day-deal-july-2025/)
- - [The unholy alliance that killed the AI moratorium](https://www.theverge.com/politics/704424/ai-moratorium-ted-cruz-steve-bannon-trump)<!-- TECH:END -->
+ - [The best Prime Day deals on charging accessories](https://www.theverge.com/tech/698933/amazon-prime-day-2025-chargers-power-banks-batteries-deal-sale)
+ - [The best laptop deals we’ve found for Prime Day &lpar;so far&rpar;](https://www.theverge.com/tech/699521/amazon-prime-day-laptops-notebooks-gaming-apple-lenovo-hp)
+ - [Virtru, which offers data security services to clients like the US DOD and Salesforce, raised a $50M Series D led by Iconiq Capital at a $500M valuation &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250711/p15#a250711p15)
+ - [Apple Vision Pro rumors: More speed, more comfortable, and eventually cheaper](https://appleinsider.com/articles/25/07/11/apple-vision-pro-rumors-more-speed-more-comfortable-and-eventually-cheaper?utm_medium=rss)
+ - [Best 16 Prime Day Kitchen Deals &lpar;2025&rpar;: Breville, Ooni, Oxo](https://www.wired.com/story/prime-day-kitchen-deals-july-2025-3/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

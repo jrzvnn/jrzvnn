@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [At the end of June, Australia quietly introduced rules forcing search engine companies such as Google and Microsoft to check the ages of logged-in users &lpar;Ange Lavoipierre/ABC&rpar;](http://www.techmeme.com/250711/p20#a250711p20)
- - [The best 4K TV deals during Prime Day 2025](https://www.theverge.com/tech/699516/4k-tv-soundbar-streaming-deal-sale-amazon-prime-day)
- - [The best Prime Day deals on Verge-favorite 4K Blu-rays](https://www.theverge.com/tech/701526/amazon-prime-day-best-4k-blu-ray-deals-target-sale-2025)
- - [Last-Chance Prime Day Deals, 313 Obsessively Tested Picks—Even $1,200 Off an OLED TV](https://www.wired.com/story/best-amazon-prime-deals-july-2025-3/)
- - [Why are liberals cozying up to race scientists?](https://www.theverge.com/policy/705387/liberals-race-scientists-cremieux-abundance-richard-hanania)<!-- TECH:END -->
+ - [Sources: JPMorgan Chase told fintech companies it will start charging fees for access to customers&#39; account data, which could drastically reshape the industry &lpar;Bloomberg&rpar;](http://www.techmeme.com/250711/p22#a250711p22)
+ - [Sources: Zerohash, which provides crypto and stablecoin infrastructure, is raising ~$100M at a ~$1B valuation, up from $340M when it raised a Series D in 2022 &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250711/p21#a250711p21)
+ - [Here are 58 Prime Day deals you can still nab for $50 or less](https://www.theverge.com/tech/699123/amazon-prime-day-best-cheap-tech-deals-under-50-2025)
+ - [Insta360 infringed on a GoPro Hero camera patent, US judge rules](https://www.theverge.com/news/705645/gopro-insta360-us-itc-judge-infringe-patents)
+ - [Some of our favorite headphones are steeply discounted for Prime Day](https://www.theverge.com/tech/700846/amazon-prime-day-best-noise-canceling-headphone-earbud-deals-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

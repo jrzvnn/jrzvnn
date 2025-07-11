@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Justin Sun says he is buying another $100M worth of $TRUMP, doubling his total known stake of digital coins tied to President Trump &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250711/p23#a250711p23)
+ - [Even crypto execs fall for crypto scams](https://www.theverge.com/news/705801/moonpay-crypto-execs-scam-doj-trump-administration)
  - [DOJ paves the way for a legal war on fact-checking](https://www.theverge.com/news/705802/doj-antitrust-childrens-health-defense-covid-fact-checking-misinformation)
  - [15 Best Amazon Prime Day Vacuum Deals for Dust and Dirt in 2025](https://www.wired.com/story/prime-day-vacuum-deals-july-2025-1/)
- - [Prime Day is almost over, but our favorite deals are still live](https://www.theverge.com/tech/697602/amazon-prime-day-sale-best-tech-deals-2025-day-4)
- - [You can buy Tapo’s terrific RV30 Max robovac for just $200 right now](https://www.theverge.com/tech/703496/amazon-prime-day-tapo-rv30-max-plus-chearobot-vacuum-deal-sale-2025)
- - [15 Prime Day Kindle Deals &lpar;Plus Amazon Echo Devices&rpar;](https://www.wired.com/story/prime-kindle-amazon-device-deals-2025-3/)<!-- TECH:END -->
+ - [Prime Day is almost over, but our favorite deals are still live](https://www.theverge.com/tech/697602/amazon-prime-day-sale-best-tech-deals-2025-day-4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

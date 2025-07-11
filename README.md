@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women would be like \u201c a real man would marry her\u201d. Men know better](http://9gag.com/gag/awyeyY1)
- - 😝 [US situation](http://9gag.com/gag/a1mONLG)
- - 💣 [This is why i&#39;m still single](http://9gag.com/gag/aGy7np7)
- - 😝 [`Be vewwy, vewwy quiet. I&#39;m hunting seawife. Hehehehehehe...`](http://9gag.com/gag/aO8p2Pr)
+ - 😝 [Futurama transportation](http://9gag.com/gag/amoRoVV)
+ - 😝 [One cup of bullshit please](http://9gag.com/gag/agmKOGw)
+ - 💣 [When Hank goes rogue on Twitter, someone needs to intervene immediately. This is not the search bar you are looking for.](http://9gag.com/gag/a1mONMD)
+ - 😝 [When your son knows how to pick his New Year&#39;s Eve party, surrounded by his sister and her friends.](http://9gag.com/gag/ayNv44X)
  - 👉 [If she only knew.](http://9gag.com/gag/a87V6XV)<!-- MEMES:END -->
 
 ---

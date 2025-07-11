@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There\u2019s truth here](http://9gag.com/gag/an7GOWz)
- - 😝 [This is why i&#39;m still single](http://9gag.com/gag/aGy7np7)
- - 💣 [Akon&#39;s $6 billion futuristic `Wakanda` mega-city in Senegal, Africa, has reportedly been abandoned.](http://9gag.com/gag/aoynV00)
+ - 😝 [We barely made it in time....](http://9gag.com/gag/a0eOX3L)
  - 😝 [US situation](http://9gag.com/gag/a1mONLG)
- - 👉 [The ultimate showdown for the fate of gaming. Gamers assemble](http://9gag.com/gag/aKGK9nb)<!-- MEMES:END -->
+ - 💣 [Women would be like \u201c a real man would marry her\u201d. Men know better](http://9gag.com/gag/awyeyY1)
+ - 😝 [There\u2019s truth here](http://9gag.com/gag/an7GOWz)
+ - 👉 [So this boycott is starting and I wanted to share this info.](http://9gag.com/gag/aVvRKDK)<!-- MEMES:END -->
 
 ---
 

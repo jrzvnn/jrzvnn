@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DOJ paves the way for a legal war on fact-checking](https://www.theverge.com/news/705802/doj-antitrust-childrens-health-defense-covid-fact-checking-misinformation)
+ - [15 Best Amazon Prime Day Vacuum Deals for Dust and Dirt in 2025](https://www.wired.com/story/prime-day-vacuum-deals-july-2025-1/)
  - [Prime Day is almost over, but our favorite deals are still live](https://www.theverge.com/tech/697602/amazon-prime-day-sale-best-tech-deals-2025-day-4)
- - [You can buy Tapo’s terrific robot vacuum for just $200 right now](https://www.theverge.com/tech/703496/amazon-prime-day-tapo-rv30-max-plus-chearobot-vacuum-deal-sale-2025)
- - [15 Prime Day Kindle Deals &lpar;Plus Amazon Echo Devices&rpar;](https://www.wired.com/story/prime-kindle-amazon-device-deals-2025-3/)
- - [Iconic &#39;Trash Can&#39; Mac Pro is now on Apple&#39;s vintage products list](https://appleinsider.com/articles/25/07/11/the-iconic-trash-can-mac-pro-is-now-on-apples-vintage-products-list?utm_medium=rss)
- - [Slumber Cloud&#39;s Sale Is One Not to Miss Before Prime Day Ends](https://www.wired.com/story/slumber-cloud-sale-july-2025/)<!-- TECH:END -->
+ - [You can buy Tapo’s terrific RV30 Max robovac for just $200 right now](https://www.theverge.com/tech/703496/amazon-prime-day-tapo-rv30-max-plus-chearobot-vacuum-deal-sale-2025)
+ - [15 Prime Day Kindle Deals &lpar;Plus Amazon Echo Devices&rpar;](https://www.wired.com/story/prime-kindle-amazon-device-deals-2025-3/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

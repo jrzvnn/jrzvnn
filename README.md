@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Prime Day deals on games, hardware, and accessories](https://www.theverge.com/tech/698696/amazon-prime-day-best-gaming-deals-controllers-headsets-accessories-2025)
- - [Jio Platforms debuts JioPC, a cloud PC service offered via its set-top box; Counterpoint: 70% of Indian households have a TV, but only 15% of them own a PC &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250711/p26#a250711p26)
- - [The Best Anti-Prime Day Sales to Shop Before They&#39;re Over](https://www.wired.com/story/anti-prime-day-small-business-sales-july-2025/)
- - [The best last-minute Apple deals you can still grab for Prime Day](https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals)
- - [It’s a great time to pick up a Kindle, Echo speaker, and other Amazon devices](https://www.theverge.com/tech/705486/amazon-prime-day-device-deals-kindles-fire-tv-echo-speakers-sale-2025)<!-- TECH:END -->
+ - [The 40 best Prime Day deals you can get for under $25](https://www.theverge.com/tech/701774/amazon-prime-day-best-cheap-tech-deals-under-25-2025)
+ - [Samsung&#39;s New Phones Show How Far Ahead China Is on Innovation](https://www.wired.com/story/samsungs-new-phones-show-how-far-ahead-china-is-on-innovation/)
+ - [The best fitness tracker and smartwatch Prime Day deals](https://www.theverge.com/tech/702080/amazon-prime-day-best-fitness-tracker-smartwatch-deals-2025)
+ - [Some Switch 2 accessories and upgraded games are on sale for Prime Day](https://www.theverge.com/tech/704317/amazon-prime-day-best-nintendo-switch-2-accessories-game-deals-2025)
+ - [The 20 Prime Day deals that are most popular with Verge readers](https://www.theverge.com/tech/701278/amazon-prime-day-2025-popular-products-verge-readers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

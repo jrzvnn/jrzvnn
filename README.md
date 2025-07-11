@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [BYD will accept liability if one of its self-parking cars crashes](https://www.theverge.com/news/705470/byd-self-parking-crash-liability)
+ - [The smartphone-sized Boox Palma 2 is cheaper than ever for Prime Day](https://www.theverge.com/tech/705234/amazon-prime-day-boox-palma-2-ebook-reader-deal-sale-2025)
+ - [Some Verge-favorite gadgets are cheaper during Prime Day 2025](https://www.theverge.com/tech/699230/best-prime-day-deals-verge-favorites)
  - [HMD says it will &quot;scale back&quot; US operations, citing &quot;a challenging geopolitical and economic environment&quot;, and appears to have stopped US sales of Nokia devices &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250711/p17#a250711p17)
- - [iFixit: the Switch 2 Pro is a &amp;#8216;piss-poor excuse for a controller&amp;#8217;](https://www.theverge.com/news/705383/ifixit-teardown-nintendo-switch-2-pro-controller-repairability)
- - [The best Apple deals during Prime Day won’t last much longer](https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals)
- - [The great EV pullback has begun](https://www.theverge.com/electric-cars/700767/ev-cancel-delay-tax-credit-nissan-honda-tesla)
- - [Prime Day is almost over, but our favorite deals are still live](https://www.theverge.com/tech/697602/amazon-prime-day-sale-best-tech-deals-2025-day-4)<!-- TECH:END -->
+ - [iFixit: the Switch 2 Pro is a &amp;#8216;piss-poor excuse for a controller&amp;#8217;](https://www.theverge.com/news/705383/ifixit-teardown-nintendo-switch-2-pro-controller-repairability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

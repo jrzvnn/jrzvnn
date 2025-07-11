@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Amazon Prime Day Live: We&#39;re Dropping Deals Every 15 Minutes](https://www.wired.com/live/amazon-prime-day-deals-live-in-25-2/)
  - [METR study: experienced open-source developers using Cursor and other AI tools took 19% longer to complete tasks, despite thinking AI had sped them up by 20% &lpar;Steve Newman/Second Thoughts&rpar;](http://www.techmeme.com/250711/p3#a250711p3)
- - [Last-Chance Prime Day Deals, 293 Obsessively Tested Picks—Even $1,200 Off an OLED TV](https://www.wired.com/story/best-amazon-prime-deals-july-2025-3/)
- - [Grok searches for Elon Musk&amp;#8217;s opinion before answering tough questions](https://www.theverge.com/news/705015/grok-ai-uses-elon-musks-opinions-for-controversial-questions)
- - [Say Adieu to Adieu: Pick One of These Best Wordle Starter Words to Help You Win](https://www.cnet.com/tech/gaming/wordle-best-starter-words-strategies-tips-and-tricks-to-help-you-win/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for July 11, #291](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-11-291/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 11 #495](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-11-495/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 11, #761](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-11-761/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

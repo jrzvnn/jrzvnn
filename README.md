@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Developer betas, Apple Intelligence, and a lighter Apple Vision Pro on the AppleInsider Podcast](https://appleinsider.com/articles/25/07/11/developer-betas-apple-intelligence-and-a-lighter-apple-vision-pro-on-the-appleinsider-podcast?utm_medium=rss)
- - [The 15 Prime Day deals that are most popular with Verge readers](https://www.theverge.com/tech/701278/amazon-prime-day-2025-popular-products-verge-readers)
- - [Belkin is ending support for nearly all its Wemo smart home devices](https://www.theverge.com/news/705136/belkin-wemo-smart-home-support-ending-homekit-thread)
- - [Sources: Binance wrote the smart contract for USD1, a stablecoin launched by Trump&#39;s World Liberty, and promoted it to its 275M users, before CZ sought a pardon &lpar;Bloomberg&rpar;](http://www.techmeme.com/250711/p6#a250711p6)
- - [Some of our favorite headphones are steeply discounted for Prime Day](https://www.theverge.com/tech/700846/amazon-prime-day-best-noise-canceling-headphone-earbud-deals-2025)<!-- TECH:END -->
+ - [10 Best Laptop Docking Stations &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-laptop-docking-stations/)
+ - [How the Finder is the real power macOS Tahoe feature](https://appleinsider.com/inside/macos-26/tips/how-the-finder-is-the-real-power-macos-tahoe-feature?utm_medium=rss)
+ - [Here are 58 Prime Day deals you can still nab for $50 or less](https://www.theverge.com/tech/699123/amazon-prime-day-best-cheap-tech-deals-under-50-2025)
+ - [Eufy’s Floodlight Security Camera Is Cheaper Than Ever This Prime Day &lpar;2025&rpar;](https://www.wired.com/story/eufy-e340-floodlight-security-camera-prime-day-deal-july-2025/)
+ - [Apple&#39;s upcoming low-cost MacBook: Colorful and affordable](https://appleinsider.com/articles/25/07/11/apples-upcoming-low-cost-macbook-colorful-and-affordable?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

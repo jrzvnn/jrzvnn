@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Apple deals during Prime Day won’t last much longer](https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals)
- - [Our favorite desk accessories for Prime Day](https://www.theverge.com/tech/699494/verge-favorite-desk-accessories-prime-day-deals)
- - [Sources: Alibaba-backed Chinese AI startup Zhipu plans to raise ~$300M in an IPO in Hong Kong, after previously considering listing in mainland China &lpar;Bloomberg&rpar;](http://www.techmeme.com/250711/p4#a250711p4)
- - [5 Big EV Takeaways From Trump’s ‘One Big Beautiful Bill’](https://www.wired.com/story/5-big-ev-takeaways-one-big-beautiful-bill/)
- - [Some Verge-favorite gadgets are cheaper during Prime Day 2025](https://www.theverge.com/tech/699230/best-prime-day-deals-verge-favorites)<!-- TECH:END -->
+ - [The best Prime Day deals on our favorite robot vacuums](https://www.theverge.com/tech/698188/robot-vacuum-mop-deals-amazon-prime-day)
+ - [T-Mobile Is Bringing Starlink Satellite Access to Your Phone, Even if You’re on a Different Carrier](https://www.cnet.com/tech/mobile/t-mobile-is-bringing-starlink-satellite-access-to-your-phone-even-if-youre-on-a-different-carrier/#ftag=CAD590a51e)
+ - [The best fitness tracker and smartwatch Prime Day deals](https://www.theverge.com/tech/702080/amazon-prime-day-best-fitness-tracker-smartwatch-deals-2025)
+ - [5 iPhone 17 Pro Max Rumors Are Making Me Rethink My Next Upgrade](https://www.cnet.com/tech/mobile/5-iphone-17-pro-max-rumors-are-making-me-rethink-my-next-upgrade/#ftag=CAD590a51e)
+ - [The best Apple deals during Prime Day won’t last much longer](https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

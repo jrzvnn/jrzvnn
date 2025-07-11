@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [18 Best Prime Day Pet Deals on Amazon &lpar;2025&rpar;](https://www.wired.com/story/prime-day-pet-deals-2025-2/)
- - [The exclusivity period on OpenAI&#39;s $3B offer to acquire coding startup Windsurf has expired, which means that Windsurf is free to explore other options &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250711/p27#a250711p27)
- - [The 40 best Prime Day deals you can get for under $25](https://www.theverge.com/tech/701774/amazon-prime-day-best-cheap-tech-deals-under-25-2025)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 11, #761](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-11-761/#ftag=CAD590a51e)
- - [Samsung&#39;s New Phones Show How Far Ahead China Is on Innovation](https://www.wired.com/story/samsungs-new-phones-show-how-far-ahead-china-is-on-innovation/)<!-- TECH:END -->
+ - [Google’s latest Nest Learning Thermostat is more than $60 off for Prime Day](https://www.theverge.com/tech/705321/amazon-prime-day-google-nest-learning-thermostat-4th-generation-deal-sale-2025)
+ - [The 100+ best Prime Day deals under $100](https://www.theverge.com/tech/697310/amazon-prime-day-best-cheap-tech-deals-under-100-2025)
+ - [22 Best Prime Day Apple Deals—Including 40% Off AirPods](https://www.wired.com/story/prime-day-apple-deals-2025-3/)
+ - [OpenAI’s Windsurf deal is off — and its CEO is going to Google](https://www.theverge.com/openai/705999/google-windsurf-ceo-openai)
+ - [17 Best Prime Day Board Game Deals for Kids of All Ages &lpar;2025&rpar;](https://www.wired.com/story/prime-day-toy-deals-july-2025-3/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

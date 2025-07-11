@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [METR study: experienced open-source developers using Cursor and other AI tools took 19% longer to complete tasks, despite thinking AI had sped them up by 20% &lpar;Steve Newman/Second Thoughts&rpar;](http://www.techmeme.com/250711/p3#a250711p3)
+ - [Last-Chance Prime Day Deals, 293 Obsessively Tested Picks—Even $1,200 Off an OLED TV](https://www.wired.com/story/best-amazon-prime-deals-july-2025-3/)
  - [Grok searches for Elon Musk&amp;#8217;s opinion before answering tough questions](https://www.theverge.com/news/705015/grok-ai-uses-elon-musks-opinions-for-controversial-questions)
  - [Say Adieu to Adieu: Pick One of These Best Wordle Starter Words to Help You Win](https://www.cnet.com/tech/gaming/wordle-best-starter-words-strategies-tips-and-tricks-to-help-you-win/#ftag=CAD590a51e)
- - [An Apple-backed study finds combining Apple Watch&#39;s heart rate sensor with a new Wearable Behavior Model gives 92% accuracy for pregnancy detection, and more &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/250711/p2#a250711p2)
- - [How AI is being used by patients and doctors alike to recommend diagnoses and treatments, as experts warn of answers that seem confident but lack nuance &lpar;Ryan Flinn/Wired&rpar;](http://www.techmeme.com/250711/p1#a250711p1)
- - [The best Apple deals available for Amazon Prime Day 2025](https://www.theverge.com/tech/689813/best-amazon-prime-day-apple-deals)<!-- TECH:END -->
+ - [An Apple-backed study finds combining Apple Watch&#39;s heart rate sensor with a new Wearable Behavior Model gives 92% accuracy for pregnancy detection, and more &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/250711/p2#a250711p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

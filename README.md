@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rabbits are good](http://9gag.com/gag/an7G2Q5)
  - 😝 [Eliot Page looks like the type guy that would pull Ellen Page into a van.](http://9gag.com/gag/a7on9Ox)
- - 💣 [Tetten of all sizes](http://9gag.com/gag/ary8X0p)
- - 😝 [The ultimate barber shop challenge, these guys are really committed to the bit](http://9gag.com/gag/aVvRErw)
- - 👉 [With such friends and enemies are not needed](http://9gag.com/gag/a6ZGnnb)<!-- MEMES:END -->
+ - 😝 [How healthy relationships looks like](http://9gag.com/gag/aD2Q8dd)
+ - 💣 [With such friends and enemies are not needed](http://9gag.com/gag/a6ZGnnb)
+ - 😝 [When you smack me, I don&#39;t stop sucking.](http://9gag.com/gag/aRBRzQq)
+ - 👉 [And no one was surprised](http://9gag.com/gag/aMVqP5G)<!-- MEMES:END -->
 
 ---
 

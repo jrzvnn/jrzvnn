@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hey, that&#39;s my bike](http://9gag.com/gag/aPAroZq)
- - 😝 [Relatable](http://9gag.com/gag/ae9R19p)
- - 💣 [Wtf is wrong with people](http://9gag.com/gag/awyemDx)
- - 😝 [Flood sirens sounding in Tokyo now... &lpar;July 10,2025&rpar;](http://9gag.com/gag/aAyv649)
- - 👉 [US situation](http://9gag.com/gag/a1mONLG)<!-- MEMES:END -->
+ - 😝 [More frens, I guess](http://9gag.com/gag/agmK1pK)
+ - 😝 [Do you see a bird or camel?](http://9gag.com/gag/ajPROmR)
+ - 💣 [US situation](http://9gag.com/gag/a1mONLG)
+ - 😝 [When Hank goes rogue on Twitter, someone needs to intervene immediately. This is not the search bar you are looking for.](http://9gag.com/gag/a1mONMD)
+ - 👉 [You a nice nga?](http://9gag.com/gag/aNDjvrr)<!-- MEMES:END -->
 
 ---
 

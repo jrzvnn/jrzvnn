@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Tetten of all sizes](http://9gag.com/gag/ary8X0p)
+ - 😝 [Victim card](http://9gag.com/gag/a5Q5Gey)
+ - 💣 [Rabbits are good](http://9gag.com/gag/an7G2Q5)
  - 😝 [You can say what you want, but that is an 50% increase in size](http://9gag.com/gag/aqyD85Q)
- - 😝 [Sumimasen, nani the f**k?](http://9gag.com/gag/azx4PPz)
- - 💣 [Yeet from this plane of existence](http://9gag.com/gag/a1mO528)
- - 😝 [Bear and lollipop](http://9gag.com/gag/a7onebb)
- - 👉 [With such friends and enemies are not needed](http://9gag.com/gag/a6ZGnnb)<!-- MEMES:END -->
+ - 👉 [The ultimate showdown for the fate of gaming. Gamers assemble](http://9gag.com/gag/aKGK9nb)<!-- MEMES:END -->
 
 ---
 

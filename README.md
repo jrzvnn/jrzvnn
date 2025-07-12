@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tetten of all sizes](http://9gag.com/gag/ary8X0p)
- - 😝 [Victim card](http://9gag.com/gag/a5Q5Gey)
- - 💣 [Rabbits are good](http://9gag.com/gag/an7G2Q5)
- - 😝 [You can say what you want, but that is an 50% increase in size](http://9gag.com/gag/aqyD85Q)
- - 👉 [The ultimate showdown for the fate of gaming. Gamers assemble](http://9gag.com/gag/aKGK9nb)<!-- MEMES:END -->
+ - 😝 [The ultimate barber shop challenge, these guys are really committed to the bit](http://9gag.com/gag/aVvRErw)
+ - 😝 [Nice shot](http://9gag.com/gag/a7on0zz)
+ - 💣 [Victim card](http://9gag.com/gag/a5Q5Gey)
+ - 😝 [When you only have eyes for one person, the rest of the world just blurs away.](http://9gag.com/gag/ae9RZjB)
+ - 👉 [Yeet from this plane of existence](http://9gag.com/gag/a1mO528)<!-- MEMES:END -->
 
 ---
 

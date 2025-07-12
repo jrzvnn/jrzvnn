@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you only have eyes for one person, the rest of the world just blurs away.](http://9gag.com/gag/ae9RZjB)
- - 😝 [US situation](http://9gag.com/gag/a1mONLG)
- - 💣 [You a nice nga?](http://9gag.com/gag/aNDjvrr)
- - 😝 [Hey, that&#39;s my bike](http://9gag.com/gag/aPAroZq)
+ - 😝 [When your son knows how to pick his New Year&#39;s Eve party, surrounded by his sister and her friends.](http://9gag.com/gag/ayNv44X)
+ - 😝 [This should be illegal](http://9gag.com/gag/awye3ZD)
+ - 💣 [Lookaoal](http://9gag.com/gag/amoR1by)
+ - 😝 [When you smack me, I don&#39;t stop sucking.](http://9gag.com/gag/aRBRzQq)
  - 👉 [Wow.. Wow..](http://9gag.com/gag/a9yD65o)<!-- MEMES:END -->
 
 ---

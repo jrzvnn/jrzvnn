@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Point taken](http://9gag.com/gag/ajPRL9w)
- - 😝 [When you finally snap](http://9gag.com/gag/aKGKvDN)
- - 💣 [How we treated AI in 2023 and 2025](http://9gag.com/gag/azx4K5N)
- - 😝 [American also Learn metric system in school](http://9gag.com/gag/aGy7B27)
- - 👉 [Mama husky and puppies howling](http://9gag.com/gag/a9yD8W0)<!-- MEMES:END -->
+ - 😝 [We barely made it in time....](http://9gag.com/gag/a0eOX3L)
+ - 😝 [You a nice nga?](http://9gag.com/gag/aNDjvrr)
+ - 💣 [Relatable](http://9gag.com/gag/ae9R19p)
+ - 😝 [With such friends and enemies are not needed](http://9gag.com/gag/a6ZGnnb)
+ - 👉 [The ultimate showdown for the fate of gaming. Gamers assemble](http://9gag.com/gag/aKGK9nb)<!-- MEMES:END -->
 
 ---
 

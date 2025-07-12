@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at US-backed NVD, as its parent org NIST scrambles to hire contractors to help clear a backlog of 25K+ vulnerabilities, ~10x the previous high in 2017 &lpar;Matthew King/MIT Technology Review&rpar;](http://www.techmeme.com/250712/p14#a250712p14)
  - [Amazon extends AirTag, AirPods, iPad, Apple Watch Prime Day deals from $19](https://appleinsider.com/articles/25/07/12/amazon-extends-airtag-airpods-ipad-apple-watch-prime-day-deals-from-19?utm_medium=rss)
  - [OpenAI&#39;s failed Windsurf deal signals broader M&amp;A challenges for OpenAI until it renegotiates its deal with Microsoft &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/250712/p13#a250712p13)
  - [Today&#39;s NYT Strands Hints, Answers and Help for July 13 #497](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-13-497/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for July 13, #1485](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-13-1485/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 13, #763](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-13-763/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for July 13, #1485](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-13-1485/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

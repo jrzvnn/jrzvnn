@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile has received FCC and DOJ approval for its $4.4B acquisition of US Cellular, after agreeing to phase out DEI programs to comply with FCC policy &lpar;Kelcee Griffis/Bloomberg&rpar;](http://www.techmeme.com/250711/p32#a250711p32)
- - [Best Prime Day Laptop Deals 2025: MacBooks, Chromebooks, and More](https://www.wired.com/story/best-prime-day-laptop-deals-2025-3/)
- - [Prime Day is almost over, but our favorite deals are still live](https://www.theverge.com/tech/697602/amazon-prime-day-sale-best-tech-deals-2025-day-4)
- - [The 6 Best Prime Day Action Camera Deals for Thrill Seekers &lpar;2025&rpar;](https://www.wired.com/gallery/prime-day-deals-on-action-cameras-2025-2/)
- - [20 Best Prime Day Fitness Tracker Deals and Smart Ring Sales &lpar;2025&rpar;](https://www.wired.com/story/prime-day-tracker-and-ring-2025-3/)<!-- TECH:END -->
+ - [Sam Altman announces another delay for OpenAI&#39;s open-weight model, for further safety testing; the model was slated to be released next week &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250711/p34#a250711p34)
+ - [Sources: Google is paying $2.4B for a nonexclusive license to certain Windsurf tech and hire some of its employees, but won&#39;t be taking a stake in the company &lpar;Bloomberg&rpar;](http://www.techmeme.com/250711/p33#a250711p33)
+ - [Some Verge-favorite gadgets are still on sale as Prime Day winds down](https://www.theverge.com/tech/699230/best-prime-day-deals-verge-favorites)
+ - [The best Prime Day deals you can still grab on Verge-favorite 4K Blu-rays](https://www.theverge.com/tech/701526/amazon-prime-day-best-4k-blu-ray-deals-target-sale-2025)
+ - [The 55-inch Hisense U7 is a great 4K TV under $600 for Prime Day](https://www.theverge.com/tech/705171/amazon-prime-day-hisense-u7-4k-u7qg-tv-deal-sale-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

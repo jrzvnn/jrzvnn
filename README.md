@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [4 Arrested Over Scattered Spider Hacking Spree](https://www.wired.com/story/4-arrested-over-scattered-spider-hacking-spree/)
+ - [Gear News of the Week: Samsung’s Trifold Promise, Ikea’s Sonos Split, and Hugging Face’s New Robot](https://www.wired.com/story/gear-news-of-the-week-samsung-teases-a-trifold-ikea-ditches-sonos-and-theres-a-hugging-face-robot/)
  - [How to Watch the Southern Delta Aquariids and Perseids Meteor Showers](https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/)
  - [Today&#39;s NYT Strands Hints, Answers and Help for July 12 #496](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-12-496/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 12, #762](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-12-762/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for July 12, #1484](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-12-1484/#ftag=CAD590a51e)
- - [Worse Than a Recession? Trump&#39;s Tariffs Risk &#39;Self-Inflicted&#39; Stagflation](https://www.cnet.com/personal-finance/banking/worse-than-a-recession-trumps-tariffs-risk-self-inflicted-stagflation/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 12, #762](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-12-762/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

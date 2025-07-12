@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The best Amazon Prime Day deals you can still shop](https://www.theverge.com/tech/705786/amazon-prime-day-best-tech-deals-still-available-2025)
  - [The 20 Best Movies on Amazon Prime Right Now &lpar;July 2025&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
  - [The 41 Best Movies on Netflix Right Now &lpar;July 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [How to Use Clean Energy Tax Credits Before They Disappear](https://www.wired.com/story/congress-is-killing-clean-energy-tax-credits-heres-how-to-use-them-before-they-disappear/)<!-- TECH:END -->
+ - [The 23 Best Shows on Amazon Prime Right Now &lpar;July 2025&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your son knows how to pick his New Year&#39;s Eve party, surrounded by his sister and her friends.](http://9gag.com/gag/ayNv44X)
- - 😝 [This should be illegal](http://9gag.com/gag/awye3ZD)
- - 💣 [Lookaoal](http://9gag.com/gag/amoR1by)
- - 😝 [When you smack me, I don&#39;t stop sucking.](http://9gag.com/gag/aRBRzQq)
- - 👉 [Wow.. Wow..](http://9gag.com/gag/a9yD65o)<!-- MEMES:END -->
+ - 😝 [Point taken](http://9gag.com/gag/ajPRL9w)
+ - 😝 [When you finally snap](http://9gag.com/gag/aKGKvDN)
+ - 💣 [How we treated AI in 2023 and 2025](http://9gag.com/gag/azx4K5N)
+ - 😝 [American also Learn metric system in school](http://9gag.com/gag/aGy7B27)
+ - 👉 [Mama husky and puppies howling](http://9gag.com/gag/a9yD8W0)<!-- MEMES:END -->
 
 ---
 

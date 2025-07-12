@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [14 Best Prime Day TV Deals for All Budgets &lpar;2025&rpar;](https://www.wired.com/story/prime-day-tv-deals-july-2025-3/)
- - [Google will have a nonexclusive license to certain Windsurf technology, but will not be taking a stake in the company &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250711/p30#a250711p30)
- - [Sources: OpenAI and Windsurf talks ended after Windsurf raised concerns over how its tech would fit into OpenAI&#39;s agreement to share tech with Microsoft &lpar;The Information&rpar;](http://www.techmeme.com/250711/p29#a250711p29)
- - [The 22 Best Non–Prime Day Deals From Retailers That Are Not Amazon](https://www.wired.com/story/best-prime-day-deals-from-other-retailers-1/)
- - [Best Prime Day Beauty Deals 2025: Hair, Skin, and Dental Care](https://www.wired.com/story/prime-day-beauty-deals-july-2025-3/)<!-- TECH:END -->
+ - [T-Mobile has received FCC and DOJ approval for its $4.4B acquisition of US Cellular, after agreeing to phase out DEI programs to comply with FCC policy &lpar;Kelcee Griffis/Bloomberg&rpar;](http://www.techmeme.com/250711/p32#a250711p32)
+ - [Best Prime Day Laptop Deals 2025: MacBooks, Chromebooks, and More](https://www.wired.com/story/best-prime-day-laptop-deals-2025-3/)
+ - [Prime Day is almost over, but our favorite deals are still live](https://www.theverge.com/tech/697602/amazon-prime-day-sale-best-tech-deals-2025-day-4)
+ - [The 6 Best Prime Day Action Camera Deals for Thrill Seekers &lpar;2025&rpar;](https://www.wired.com/gallery/prime-day-deals-on-action-cameras-2025-2/)
+ - [20 Best Prime Day Fitness Tracker Deals and Smart Ring Sales &lpar;2025&rpar;](https://www.wired.com/story/prime-day-tracker-and-ring-2025-3/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

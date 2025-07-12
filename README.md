@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How healthy relationships looks like](http://9gag.com/gag/aD2Q8dd)
+ - 😝 [Rabbits are good](http://9gag.com/gag/an7G2Q5)
+ - 😝 [Eliot Page looks like the type guy that would pull Ellen Page into a van.](http://9gag.com/gag/a7on9Ox)
+ - 💣 [Tetten of all sizes](http://9gag.com/gag/ary8X0p)
  - 😝 [The ultimate barber shop challenge, these guys are really committed to the bit](http://9gag.com/gag/aVvRErw)
- - 💣 [So this boycott is starting and I wanted to share this info.](http://9gag.com/gag/aVvRKDK)
- - 😝 [Doped man on a stolen bike with fake ID and two active warrants runs a red light right in front of a police car.](http://9gag.com/gag/aYQROg7)
- - 👉 [Rabbits are good](http://9gag.com/gag/an7G2Q5)<!-- MEMES:END -->
+ - 👉 [With such friends and enemies are not needed](http://9gag.com/gag/a6ZGnnb)<!-- MEMES:END -->
 
 ---
 

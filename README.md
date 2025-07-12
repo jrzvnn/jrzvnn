@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [US situation](http://9gag.com/gag/a1mONLG)
  - 😝 [Rabbits are good](http://9gag.com/gag/an7G2Q5)
- - 💣 [Victim card](http://9gag.com/gag/a5Q5Gey)
- - 😝 [Lookaoal](http://9gag.com/gag/amoR1by)
- - 👉 [We barely made it in time....](http://9gag.com/gag/a0eOX3L)<!-- MEMES:END -->
+ - 😝 [We barely made it in time....](http://9gag.com/gag/a0eOX3L)
+ - 💣 [Lookaoal](http://9gag.com/gag/amoR1by)
+ - 😝 [Bear and lollipop](http://9gag.com/gag/a7onebb)
+ - 👉 [The ultimate showdown for the fate of gaming. Gamers assemble](http://9gag.com/gag/aKGK9nb)<!-- MEMES:END -->
 
 ---
 

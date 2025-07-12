@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple in pole position for F1 racing streaming rights in US](https://appleinsider.com/articles/25/07/12/apple-in-pole-position-for-f1-racing-streaming-rights-in-us?utm_medium=rss)
  - [Belkin&#39;s move to brick Wemo devices highlights how little accountability IoT companies face when abandoning connected products customers paid for &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/250712/p8#a250712p8)
  - [The best Amazon Prime Day deals you can still shop](https://www.theverge.com/tech/705786/amazon-prime-day-best-tech-deals-still-available-2025)
  - [The 28 Absolute Best Movies to Watch on HBO Max](https://www.cnet.com/tech/services-and-software/best-movies-on-hbo-max-july-2025/#ftag=CAD590a51e)
- - [The Best Co-op Games for Every Situation](https://www.cnet.com/tech/gaming/the-best-co-op-games-for-every-situation/#ftag=CAD590a51e)
- - [24 hours with Alexa Plus: we cooked, we chatted, and it kinda lied to me](https://www.theverge.com/hands-on/705808/amazon-alexa-plus-first-look)<!-- TECH:END -->
+ - [The Best Co-op Games for Every Situation](https://www.cnet.com/tech/gaming/the-best-co-op-games-for-every-situation/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

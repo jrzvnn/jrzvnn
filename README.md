@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meowuch](http://9gag.com/gag/aPArmzG)
- - 😝 [We barely made it in time....](http://9gag.com/gag/a0eOX3L)
- - 💣 [Doped man on a stolen bike with fake ID and two active warrants runs a red light right in front of a police car.](http://9gag.com/gag/aYQROg7)
+ - 😝 [You can say what you want, but that is an 50% increase in size](http://9gag.com/gag/aqyD85Q)
+ - 😝 [Life story of Russell Bonner Bentley](http://9gag.com/gag/a1mO02R)
+ - 💣 [Hey, that&#39;s my bike](http://9gag.com/gag/aPAroZq)
  - 😝 [With such friends and enemies are not needed](http://9gag.com/gag/a6ZGnnb)
- - 👉 [EP01](http://9gag.com/gag/aBy46bD)<!-- MEMES:END -->
+ - 👉 [How healthy relationships looks like](http://9gag.com/gag/aD2Q8dd)<!-- MEMES:END -->
 
 ---
 

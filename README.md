@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla rolls out Grok to some vehicles with an AMD infotainment chip; Grok comes pre-installed on new vehicles and cannot issue commands to the vehicle itself &lpar;Simon Alvarez/TESLARATI&rpar;](http://www.techmeme.com/250712/p12#a250712p12)
  - [Moonshot&#39;s Kimi K2 uses a 1T-parameter MoE architecture with 32B active parameters and outperforms models like GPT-4.1 and DeepSeek-V3 on key benchmarks &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/250712/p11#a250712p11)
  - [xAI apologizes for Grok&#39;s &quot;horrific behavior&quot; when it wrote antisemitic posts on July 8, and blames &quot;an update to a code path upstream of the Grok bot&quot; &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250712/p10#a250712p10)
  - [I Accidentally Learned Just How Durable the Galaxy Z Flip 7 Is](https://www.cnet.com/tech/mobile/i-accidentally-learned-just-how-durable-the-galaxy-z-flip-7-is/#ftag=CAD590a51e)
- - [Pump.fun raised $500M via a sale of PUMP tokens, which sold out in 12 minutes; it offered 12.5% of its total token supply at a fully diluted valuation of $4B &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/250712/p9#a250712p9)
- - [Grab This Epson EcoTank Wireless Printer for $100 Off With This Lingering Prime Day Deal](https://www.cnet.com/tech/computing/grab-this-epson-ecotank-wireless-printer-for-100-off-with-this-lingering-prime-day-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pump.fun raised $500M via a sale of PUMP tokens, which sold out in 12 minutes; it offered 12.5% of its total token supply at a fully diluted valuation of $4B &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/250712/p9#a250712p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

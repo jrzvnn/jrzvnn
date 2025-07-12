@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Victim card](http://9gag.com/gag/a5Q5Gey)
- - 😝 [When you smack me, I don&#39;t stop sucking.](http://9gag.com/gag/aRBRzQq)
- - 💣 [No sacred cows. Arrest everyone involved.](http://9gag.com/gag/amoRm12)
- - 😝 [Hot Wheels from 80&#39;s](http://9gag.com/gag/ajPRLR1)
- - 👉 [Tetten of all sizes](http://9gag.com/gag/ary8X0p)<!-- MEMES:END -->
+ - 😝 [Yeet from this plane of existence](http://9gag.com/gag/a1mO528)
+ - 😝 [The ultimate showdown for the fate of gaming. Gamers assemble](http://9gag.com/gag/aKGK9nb)
+ - 💣 [Ping !](http://9gag.com/gag/avy963q)
+ - 😝 [Akon&#39;s $6 Billion Futuristic `Wakanda` Mega-City in Senegal, Africa, has Reportedly been Abandoned](http://9gag.com/gag/a1mOVKv)
+ - 👉 [Nice shot](http://9gag.com/gag/a7on0zz)<!-- MEMES:END -->
 
 ---
 

@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The Verge’s guide to Amazon Prime Day 2025](https://www.theverge.com/tech/689359/amazon-prime-day-tech-deals-guide-2025)
  - [The best robot vacuum deals to pick up before Prime Day ends](https://www.theverge.com/tech/698188/robot-vacuum-mop-deals-amazon-prime-day)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for July 12, #292](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-12-292/#ftag=CAD590a51e)
  - [Prime Day is almost over, but our favorite deals are still live](https://www.theverge.com/tech/697602/amazon-prime-day-sale-best-tech-deals-2025-day-4)
- - [Sam Altman announces another delay for OpenAI&#39;s open-weight model, for further safety testing; the model was slated to be released next week &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250711/p34#a250711p34)
- - [Sources: Google is paying $2.4B for a nonexclusive license to certain Windsurf tech and hire some of its employees, but won&#39;t be taking a stake in the company &lpar;Bloomberg&rpar;](http://www.techmeme.com/250711/p33#a250711p33)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, July 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-july-12/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Eliot Page looks like the type guy that would pull Ellen Page into a van.](http://9gag.com/gag/a7on9Ox)
- - 😝 [How healthy relationships looks like](http://9gag.com/gag/aD2Q8dd)
- - 💣 [With such friends and enemies are not needed](http://9gag.com/gag/a6ZGnnb)
+ - 😝 [Victim card](http://9gag.com/gag/a5Q5Gey)
  - 😝 [When you smack me, I don&#39;t stop sucking.](http://9gag.com/gag/aRBRzQq)
- - 👉 [And no one was surprised](http://9gag.com/gag/aMVqP5G)<!-- MEMES:END -->
+ - 💣 [No sacred cows. Arrest everyone involved.](http://9gag.com/gag/amoRm12)
+ - 😝 [Hot Wheels from 80&#39;s](http://9gag.com/gag/ajPRLR1)
+ - 👉 [Tetten of all sizes](http://9gag.com/gag/ary8X0p)<!-- MEMES:END -->
 
 ---
 

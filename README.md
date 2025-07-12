@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [EP01](http://9gag.com/gag/aBy46bD)
- - 😝 [With such friends and enemies are not needed](http://9gag.com/gag/a6ZGnnb)
- - 💣 [US situation](http://9gag.com/gag/a1mONLG)
- - 😝 [Bear and lollipop](http://9gag.com/gag/a7onebb)
- - 👉 [We barely made it in time....](http://9gag.com/gag/a0eOX3L)<!-- MEMES:END -->
+ - 😝 [Rabbits are good](http://9gag.com/gag/an7G2Q5)
+ - 😝 [Life story of Russell Bonner Bentley](http://9gag.com/gag/a1mO02R)
+ - 💣 [Even if I daydream, my max is like 50 million dollars.](http://9gag.com/gag/a9yD6o0)
+ - 😝 [Lookaoal](http://9gag.com/gag/amoR1by)
+ - 👉 [With such friends and enemies are not needed](http://9gag.com/gag/a6ZGnnb)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rabbits are good](http://9gag.com/gag/an7G2Q5)
- - 😝 [Life story of Russell Bonner Bentley](http://9gag.com/gag/a1mO02R)
- - 💣 [Even if I daydream, my max is like 50 million dollars.](http://9gag.com/gag/a9yD6o0)
+ - 😝 [We barely made it in time....](http://9gag.com/gag/a0eOX3L)
  - 😝 [Lookaoal](http://9gag.com/gag/amoR1by)
- - 👉 [With such friends and enemies are not needed](http://9gag.com/gag/a6ZGnnb)<!-- MEMES:END -->
+ - 💣 [Doped man on a stolen bike with fake ID and two active warrants runs a red light right in front of a police car.](http://9gag.com/gag/aYQROg7)
+ - 😝 [With such friends and enemies are not needed](http://9gag.com/gag/a6ZGnnb)
+ - 👉 [Rabbits are good](http://9gag.com/gag/an7G2Q5)<!-- MEMES:END -->
 
 ---
 

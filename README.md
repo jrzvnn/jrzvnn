@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 41 Best Movies on Netflix Right Now &lpar;July 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [Studios like Do Big are buying Roblox games for $1M+ in a thriving secondary market; Naavik: seven of the 15 highest-earning games in June have been acquired &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250712/p6#a250712p6)
+ - [The best Amazon Prime Day deals you can still shop](https://www.theverge.com/tech/705786/amazon-prime-day-best-tech-deals-still-available-2025)
  - [The 20 Best Movies on Amazon Prime Right Now &lpar;July 2025&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
- - [How to Use Clean Energy Tax Credits Before They Disappear](https://www.wired.com/story/congress-is-killing-clean-energy-tax-credits-heres-how-to-use-them-before-they-disappear/)
- - [The 41 Best Shows on Netflix Right Now &lpar;July 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [The 23 Best Shows on Amazon Prime Right Now &lpar;July 2025&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)<!-- TECH:END -->
+ - [The 41 Best Movies on Netflix Right Now &lpar;July 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [How to Use Clean Energy Tax Credits Before They Disappear](https://www.wired.com/story/congress-is-killing-clean-energy-tax-credits-heres-how-to-use-them-before-they-disappear/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

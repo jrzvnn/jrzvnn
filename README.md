@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Meowuch](http://9gag.com/gag/aPArmzG)
  - 😝 [We barely made it in time....](http://9gag.com/gag/a0eOX3L)
- - 😝 [Lookaoal](http://9gag.com/gag/amoR1by)
  - 💣 [Doped man on a stolen bike with fake ID and two active warrants runs a red light right in front of a police car.](http://9gag.com/gag/aYQROg7)
  - 😝 [With such friends and enemies are not needed](http://9gag.com/gag/a6ZGnnb)
- - 👉 [Rabbits are good](http://9gag.com/gag/an7G2Q5)<!-- MEMES:END -->
+ - 👉 [EP01](http://9gag.com/gag/aBy46bD)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Verge’s guide to Amazon Prime Day 2025](https://www.theverge.com/tech/689359/amazon-prime-day-tech-deals-guide-2025)
+ - [The best robot vacuum deals to pick up before Prime Day ends](https://www.theverge.com/tech/698188/robot-vacuum-mop-deals-amazon-prime-day)
+ - [Prime Day is almost over, but our favorite deals are still live](https://www.theverge.com/tech/697602/amazon-prime-day-sale-best-tech-deals-2025-day-4)
  - [Sam Altman announces another delay for OpenAI&#39;s open-weight model, for further safety testing; the model was slated to be released next week &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250711/p34#a250711p34)
- - [Sources: Google is paying $2.4B for a nonexclusive license to certain Windsurf tech and hire some of its employees, but won&#39;t be taking a stake in the company &lpar;Bloomberg&rpar;](http://www.techmeme.com/250711/p33#a250711p33)
- - [Some Verge-favorite gadgets are still on sale as Prime Day winds down](https://www.theverge.com/tech/699230/best-prime-day-deals-verge-favorites)
- - [The best Prime Day deals you can still grab on Verge-favorite 4K Blu-rays](https://www.theverge.com/tech/701526/amazon-prime-day-best-4k-blu-ray-deals-target-sale-2025)
- - [The 55-inch Hisense U7 is a great 4K TV under $600 for Prime Day](https://www.theverge.com/tech/705171/amazon-prime-day-hisense-u7-4k-u7qg-tv-deal-sale-2025)<!-- TECH:END -->
+ - [Sources: Google is paying $2.4B for a nonexclusive license to certain Windsurf tech and hire some of its employees, but won&#39;t be taking a stake in the company &lpar;Bloomberg&rpar;](http://www.techmeme.com/250711/p33#a250711p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

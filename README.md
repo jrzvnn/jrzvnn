@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia&#39;s rise after ChatGPT&#39;s release is reminiscent of dot-com era titans like Cisco and Juniper; Cisco&#39;s share price grew over 1000x between 1990 and 2000 &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/250712/p2#a250712p2)
+ - [Prime Day is almost over, but our favorite deals are still live](https://www.theverge.com/tech/697602/amazon-prime-day-sale-best-tech-deals-2025-day-4)
  - [PitchBook: 27 VC-backed companies went public in the US in the first half of 2025, the smallest number in at least 10 years, raising a total of $44.4B &lpar;Natalia Kniazhevich/Bloomberg&rpar;](http://www.techmeme.com/250712/p1#a250712p1)
  - [The Verge’s guide to Amazon Prime Day 2025](https://www.theverge.com/tech/689359/amazon-prime-day-tech-deals-guide-2025)
- - [The best robot vacuum deals to pick up before Prime Day ends](https://www.theverge.com/tech/698188/robot-vacuum-mop-deals-amazon-prime-day)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for July 12, #292](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-12-292/#ftag=CAD590a51e)
- - [Prime Day is almost over, but our favorite deals are still live](https://www.theverge.com/tech/697602/amazon-prime-day-sale-best-tech-deals-2025-day-4)<!-- TECH:END -->
+ - [The best robot vacuum deals to pick up before Prime Day ends](https://www.theverge.com/tech/698188/robot-vacuum-mop-deals-amazon-prime-day)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

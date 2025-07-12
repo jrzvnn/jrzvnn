@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yeet from this plane of existence](http://9gag.com/gag/a1mO528)
- - 😝 [The ultimate showdown for the fate of gaming. Gamers assemble](http://9gag.com/gag/aKGK9nb)
- - 💣 [Ping !](http://9gag.com/gag/avy963q)
- - 😝 [Akon&#39;s $6 Billion Futuristic `Wakanda` Mega-City in Senegal, Africa, has Reportedly been Abandoned](http://9gag.com/gag/a1mOVKv)
- - 👉 [Nice shot](http://9gag.com/gag/a7on0zz)<!-- MEMES:END -->
+ - 😝 [How healthy relationships looks like](http://9gag.com/gag/aD2Q8dd)
+ - 😝 [Tetten of all sizes](http://9gag.com/gag/ary8X0p)
+ - 💣 [Akon&#39;s $6 Billion Futuristic `Wakanda` Mega-City in Senegal, Africa, has Reportedly been Abandoned](http://9gag.com/gag/a1mOVKv)
+ - 😝 [Skill](http://9gag.com/gag/apRVDnM)
+ - 👉 [And no one was surprised](http://9gag.com/gag/aMVqP5G)<!-- MEMES:END -->
 
 ---
 

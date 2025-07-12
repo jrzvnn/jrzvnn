@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You can say what you want, but that is an 50% increase in size](http://9gag.com/gag/aqyD85Q)
- - 😝 [Life story of Russell Bonner Bentley](http://9gag.com/gag/a1mO02R)
- - 💣 [Hey, that&#39;s my bike](http://9gag.com/gag/aPAroZq)
- - 😝 [With such friends and enemies are not needed](http://9gag.com/gag/a6ZGnnb)
- - 👉 [How healthy relationships looks like](http://9gag.com/gag/aD2Q8dd)<!-- MEMES:END -->
+ - 😝 [No sacred cows. Arrest everyone involved.](http://9gag.com/gag/amoRm12)
+ - 😝 [Victim card](http://9gag.com/gag/a5Q5Gey)
+ - 💣 [When you smack me, I don&#39;t stop sucking.](http://9gag.com/gag/aRBRzQq)
+ - 😝 [About 2000 years difference.](http://9gag.com/gag/a34N0G5)
+ - 👉 [American also Learn metric system in school](http://9gag.com/gag/aGy7B27)<!-- MEMES:END -->
 
 ---
 

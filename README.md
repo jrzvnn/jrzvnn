@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rabbits are good](http://9gag.com/gag/an7G2Q5)
- - 😝 [US situation](http://9gag.com/gag/a1mONLG)
- - 💣 [\ud835\ude43\ud835\ude64\ud835\ude6c \ud835\ude69\ud835\ude64 \ud835\ude5c\ud835\ude56\ud835\ude5e\ud835\ude63 \ud835\ude56 \ud835\ude5d\ud835\ude64\ud835\ude67\ud835\ude68\ud835\ude5a&#39;\ud835\ude68 \ud835\ude69\ud835\ude67\ud835\ude6a\ud835\ude68\ud835\ude69 ...](http://9gag.com/gag/aRBR4Yy)
- - 😝 [Wow.. Wow..](http://9gag.com/gag/a9yD65o)
- - 👉 [This should be illegal](http://9gag.com/gag/awye3ZD)<!-- MEMES:END -->
+ - 😝 [Problem solved lol](http://9gag.com/gag/avy9ejq)
+ - 😝 [When you finally snap](http://9gag.com/gag/aKGKvDN)
+ - 💣 [How we treated AI in 2023 and 2025](http://9gag.com/gag/azx4K5N)
+ - 😝 [Mama husky and puppies howling](http://9gag.com/gag/a9yD8W0)
+ - 👉 [Tetten of all sizes](http://9gag.com/gag/ary8X0p)<!-- MEMES:END -->
 
 ---
 

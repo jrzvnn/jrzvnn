@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [US situation](http://9gag.com/gag/a1mONLG)
- - 😝 [Victim card](http://9gag.com/gag/a5Q5Gey)
- - 💣 [Akon&#39;s $6 billion futuristic `Wakanda` mega-city in Senegal, Africa, has reportedly been abandoned.](http://9gag.com/gag/aoynV00)
+ - 😝 [Rabbits are good](http://9gag.com/gag/an7G2Q5)
+ - 💣 [Victim card](http://9gag.com/gag/a5Q5Gey)
  - 😝 [Lookaoal](http://9gag.com/gag/amoR1by)
  - 👉 [We barely made it in time....](http://9gag.com/gag/a0eOX3L)<!-- MEMES:END -->
 

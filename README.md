@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The ultimate barber shop challenge, these guys are really committed to the bit](http://9gag.com/gag/aVvRErw)
- - 😝 [Nice shot](http://9gag.com/gag/a7on0zz)
- - 💣 [Victim card](http://9gag.com/gag/a5Q5Gey)
- - 😝 [When you only have eyes for one person, the rest of the world just blurs away.](http://9gag.com/gag/ae9RZjB)
- - 👉 [Yeet from this plane of existence](http://9gag.com/gag/a1mO528)<!-- MEMES:END -->
+ - 😝 [40Y Japanese lady](http://9gag.com/gag/a4Pwzqm)
+ - 😝 [With such friends and enemies are not needed](http://9gag.com/gag/a6ZGnnb)
+ - 💣 [Life story of Russell Bonner Bentley](http://9gag.com/gag/a1mO02R)
+ - 😝 [Yeet from this plane of existence](http://9gag.com/gag/a1mO528)
+ - 👉 [Nice shot](http://9gag.com/gag/a7on0zz)<!-- MEMES:END -->
 
 ---
 

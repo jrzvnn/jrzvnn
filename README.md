@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bear and lollipop](http://9gag.com/gag/a7onebb)
+ - 😝 [With such friends and enemies are not needed](http://9gag.com/gag/a6ZGnnb)
+ - 😝 [Doped man on a stolen bike with fake ID and two active warrants runs a red light right in front of a police car.](http://9gag.com/gag/aYQROg7)
+ - 💣 [How healthy relationships looks like](http://9gag.com/gag/aD2Q8dd)
  - 😝 [Nice shot](http://9gag.com/gag/a7on0zz)
- - 💣 [Hey, that&#39;s my bike](http://9gag.com/gag/aPAroZq)
- - 😝 [The ultimate showdown for the fate of gaming. Gamers assemble](http://9gag.com/gag/aKGK9nb)
- - 👉 [Victim card](http://9gag.com/gag/a5Q5Gey)<!-- MEMES:END -->
+ - 👉 [The ultimate barber shop challenge, these guys are really committed to the bit](http://9gag.com/gag/aVvRErw)<!-- MEMES:END -->
 
 ---
 

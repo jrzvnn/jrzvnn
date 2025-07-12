@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [More frens, I guess](http://9gag.com/gag/agmK1pK)
- - 😝 [Do you see a bird or camel?](http://9gag.com/gag/ajPROmR)
- - 💣 [US situation](http://9gag.com/gag/a1mONLG)
- - 😝 [When Hank goes rogue on Twitter, someone needs to intervene immediately. This is not the search bar you are looking for.](http://9gag.com/gag/a1mONMD)
- - 👉 [You a nice nga?](http://9gag.com/gag/aNDjvrr)<!-- MEMES:END -->
+ - 😝 [Problem solved lol](http://9gag.com/gag/avy9ejq)
+ - 😝 [Point taken](http://9gag.com/gag/ajPRL9w)
+ - 💣 [When you finally snap](http://9gag.com/gag/aKGKvDN)
+ - 😝 [Tetten of all sizes](http://9gag.com/gag/ary8X0p)
+ - 👉 [How we treated AI in 2023 and 2025](http://9gag.com/gag/azx4K5N)<!-- MEMES:END -->
 
 ---
 

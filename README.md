@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you only have eyes for one person, the rest of the world just blurs away.](http://9gag.com/gag/ae9RZjB)
- - 😝 [The ultimate barber shop challenge, these guys are really committed to the bit](http://9gag.com/gag/aVvRErw)
+ - 😝 [Bear and lollipop](http://9gag.com/gag/a7onebb)
+ - 😝 [Nice shot](http://9gag.com/gag/a7on0zz)
  - 💣 [Hey, that&#39;s my bike](http://9gag.com/gag/aPAroZq)
  - 😝 [The ultimate showdown for the fate of gaming. Gamers assemble](http://9gag.com/gag/aKGK9nb)
- - 👉 [Even if I daydream, my max is like 50 million dollars.](http://9gag.com/gag/a9yD6o0)<!-- MEMES:END -->
+ - 👉 [Victim card](http://9gag.com/gag/a5Q5Gey)<!-- MEMES:END -->
 
 ---
 

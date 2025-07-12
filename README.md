@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [10 Best Android Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
+ - [Rivian R1S review: second time’s the charm](https://www.theverge.com/electric-cars/689400/rivian-r1s-review-second-times-the-charm)
  - [Studios like Do Big are buying Roblox games for $1M+ in a thriving secondary market; Naavik: seven of the 15 highest-earning games in June have been acquired &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250712/p6#a250712p6)
  - [The best Amazon Prime Day deals you can still shop](https://www.theverge.com/tech/705786/amazon-prime-day-best-tech-deals-still-available-2025)
- - [The 20 Best Movies on Amazon Prime Right Now &lpar;July 2025&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
- - [The 41 Best Movies on Netflix Right Now &lpar;July 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 23 Best Shows on Amazon Prime Right Now &lpar;July 2025&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)<!-- TECH:END -->
+ - [Your iPhone Has Sudoku, and Here&#39;s Where to Find It](https://www.cnet.com/tech/services-and-software/your-iphone-has-sudoku-and-heres-where-to-find-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

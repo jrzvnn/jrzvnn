@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf is wrong with people](http://9gag.com/gag/awyemDx)
- - 😝 [You can say what you want, but that is an 50% increase in size](http://9gag.com/gag/aqyD85Q)
- - 💣 [When Hank goes rogue on Twitter, someone needs to intervene immediately. This is not the search bar you are looking for.](http://9gag.com/gag/a1mONMD)
  - 😝 [Rabbits are good](http://9gag.com/gag/an7G2Q5)
- - 👉 [Hey, that&#39;s my bike](http://9gag.com/gag/aPAroZq)<!-- MEMES:END -->
+ - 😝 [Akon&#39;s $6 billion futuristic `Wakanda` mega-city in Senegal, Africa, has reportedly been abandoned.](http://9gag.com/gag/aoynV00)
+ - 💣 [Flying software glitches](http://9gag.com/gag/aAyvEBg)
+ - 😝 [Wtf is wrong with people](http://9gag.com/gag/awyemDx)
+ - 👉 [If she only knew.](http://9gag.com/gag/a87V6XV)<!-- MEMES:END -->
 
 ---
 

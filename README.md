@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I Tried MyFitnessPal&#39;s New Meal Planner Feature and Was Pleasantly Surprised by the Healthy Recipes](https://www.cnet.com/health/nutrition/tried-myfitnesspal-new-meal-planner-feature-pleasantly-surprised-healthy-recipes/#ftag=CAD590a51e)
+ - [A US-Only TikTok Replacement App Could Be Coming. What We Know So Far](https://www.cnet.com/tech/services-and-software/a-us-only-tiktok-replacement-app-could-be-coming-what-we-know-so-far/#ftag=CAD590a51e)
  - [Prime Day is Finally Over But These 142 Deals Are Still Available](https://www.wired.com/story/leftover-prime-day-deals-july-2025/)
  - [A look at Meta&#39;s revamped GenAI strategy, as Mark Zuckerberg poaches top AI talent for the Superintelligence team with a typical offer of $200M over four years &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/250712/p5#a250712p5)
- - [A New Hampshire court rejected TikTok&#39;s request to dismiss the state AG&#39;s suit accusing the company of using manipulative design features aimed at kids &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/250712/p4#a250712p4)
- - [Best Internet Providers in Madison, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-madison-wi/#ftag=CAD590a51e)
- - [Analysis: YC picked just four Indian startups in 2024 vs. 66 in 2021, amid a growing trend of startups shifting their parent entities to India for domestic IPOs &lpar;The Economic Times&rpar;](http://www.techmeme.com/250712/p3#a250712p3)<!-- TECH:END -->
+ - [A New Hampshire court rejected TikTok&#39;s request to dismiss the state AG&#39;s suit accusing the company of using manipulative design features aimed at kids &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/250712/p4#a250712p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

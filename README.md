@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Apple in pole position for F1 racing streaming rights in US](https://appleinsider.com/articles/25/07/12/apple-in-pole-position-for-f1-racing-streaming-rights-in-us?utm_medium=rss)
  - [Belkin&#39;s move to brick Wemo devices highlights how little accountability IoT companies face when abandoning connected products customers paid for &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/250712/p8#a250712p8)
- - [The best Amazon Prime Day deals you can still shop](https://www.theverge.com/tech/705786/amazon-prime-day-best-tech-deals-still-available-2025)
- - [The 28 Absolute Best Movies to Watch on HBO Max](https://www.cnet.com/tech/services-and-software/best-movies-on-hbo-max-july-2025/#ftag=CAD590a51e)
- - [The Best Co-op Games for Every Situation](https://www.cnet.com/tech/gaming/the-best-co-op-games-for-every-situation/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Prime Day Has Ended, But You Can Still Snag My Favorite All-in-One Kitchen Appliance for 25% Off](https://www.cnet.com/deals/prime-day-has-ended-but-you-can-still-snag-my-favorite-all-in-one-kitchen-appliance-for-25-off/#ftag=CAD590a51e)
+ - [8 Foods With Microplastics Hidden in Them and How to Limit Your Consumption](https://www.cnet.com/health/nutrition/8-foods-with-microplastics-hidden-in-them-and-how-to-limit-consumption/#ftag=CAD590a51e)
+ - [The best Amazon Prime Day deals you can still shop](https://www.theverge.com/tech/705786/amazon-prime-day-best-tech-deals-still-available-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

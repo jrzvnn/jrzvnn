@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [xAI apologizes for Grok&#39;s &quot;horrific behavior&quot; when it wrote antisemitic posts on July 8, and blames &quot;an update to a code path upstream of the Grok bot&quot; &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250712/p10#a250712p10)
+ - [I Accidentally Learned Just How Durable the Galaxy Z Flip 7 Is](https://www.cnet.com/tech/mobile/i-accidentally-learned-just-how-durable-the-galaxy-z-flip-7-is/#ftag=CAD590a51e)
  - [Pump.fun raised $500M via a sale of PUMP tokens, which sold out in 12 minutes; it offered 12.5% of its total token supply at a fully diluted valuation of $4B &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/250712/p9#a250712p9)
  - [Grab This Epson EcoTank Wireless Printer for $100 Off With This Lingering Prime Day Deal](https://www.cnet.com/tech/computing/grab-this-epson-ecotank-wireless-printer-for-100-off-with-this-lingering-prime-day-deal/#ftag=CAD590a51e)
- - [Apple in pole position for F1 racing streaming rights in US](https://appleinsider.com/articles/25/07/12/apple-in-pole-position-for-f1-racing-streaming-rights-in-us?utm_medium=rss)
- - [Belkin&#39;s move to brick Wemo devices highlights how little accountability IoT companies face when abandoning connected products customers paid for &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/250712/p8#a250712p8)<!-- TECH:END -->
+ - [Apple in pole position for F1 racing streaming rights in US](https://appleinsider.com/articles/25/07/12/apple-in-pole-position-for-f1-racing-streaming-rights-in-us?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

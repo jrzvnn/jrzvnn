@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\ud835\ude43\ud835\ude64\ud835\ude6c \ud835\ude69\ud835\ude64 \ud835\ude5c\ud835\ude56\ud835\ude5e\ud835\ude63 \ud835\ude56 \ud835\ude5d\ud835\ude64\ud835\ude67\ud835\ude68\ud835\ude5a&#39;\ud835\ude68 \ud835\ude69\ud835\ude67\ud835\ude6a\ud835\ude68\ud835\ude69 ...](http://9gag.com/gag/aRBR4Yy)
- - 😝 [The ultimate showdown for the fate of gaming. Gamers assemble](http://9gag.com/gag/aKGK9nb)
- - 💣 [Rabbits are good](http://9gag.com/gag/an7G2Q5)
- - 😝 [This should be illegal](http://9gag.com/gag/awye3ZD)
- - 👉 [`Be vewwy, vewwy quiet. I&#39;m hunting seawife. Hehehehehehe...`](http://9gag.com/gag/aO8p2Pr)<!-- MEMES:END -->
+ - 😝 [Hey, that&#39;s my bike](http://9gag.com/gag/aPAroZq)
+ - 😝 [Relatable](http://9gag.com/gag/ae9R19p)
+ - 💣 [Wtf is wrong with people](http://9gag.com/gag/awyemDx)
+ - 😝 [Flood sirens sounding in Tokyo now... &lpar;July 10,2025&rpar;](http://9gag.com/gag/aAyv649)
+ - 👉 [US situation](http://9gag.com/gag/a1mONLG)<!-- MEMES:END -->
 
 ---
 

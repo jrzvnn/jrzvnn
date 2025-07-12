@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [24 hours with Alexa Plus: we cooked, we chatted, and it kinda lied to me](https://www.theverge.com/hands-on/705808/amazon-alexa-plus-first-look)
  - [Stanford study: LLMs struggle to respond appropriately to questions about delusions, suicide, and OCD, but AI could play valuable supportive roles to therapists &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/250712/p7#a250712p7)
+ - [War for Westeros, Coming in 2026, Will Let Fans Make Their Own Game of Thrones Ending](https://www.cnet.com/tech/gaming/war-for-westeros-coming-in-2026-will-let-fans-make-their-own-game-of-thrones-ending/#ftag=CAD590a51e)
  - [Timekettle T1 Handheld Translator Review: Global Offline Translation](https://www.wired.com/review/timekettle-t1-handheld-translator/)
- - [Playdate’s second season sucked me back into the little yellow handheld](https://www.theverge.com/games-review/705348/playdate-season-2-review)
- - [A Wildlife Expert Reveals the Best Placement for Your Bird Feeder](https://www.cnet.com/news/wildlife-expert-reveals-the-best-placement-for-your-bird-feeder/#ftag=CAD590a51e)
- - [I Will Text You the Best Daily Deals for Free Every Day, Here’s How to Join](https://www.cnet.com/tech/services-and-software/i-will-text-you-the-best-daily-deals-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Playdate’s second season sucked me back into the little yellow handheld](https://www.theverge.com/games-review/705348/playdate-season-2-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

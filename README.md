@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Problem solved lol](http://9gag.com/gag/avy9ejq)
- - 😝 [When you finally snap](http://9gag.com/gag/aKGKvDN)
- - 💣 [How we treated AI in 2023 and 2025](http://9gag.com/gag/azx4K5N)
- - 😝 [Mama husky and puppies howling](http://9gag.com/gag/a9yD8W0)
- - 👉 [Tetten of all sizes](http://9gag.com/gag/ary8X0p)<!-- MEMES:END -->
+ - 😝 [When you only have eyes for one person, the rest of the world just blurs away.](http://9gag.com/gag/ae9RZjB)
+ - 😝 [US situation](http://9gag.com/gag/a1mONLG)
+ - 💣 [You a nice nga?](http://9gag.com/gag/aNDjvrr)
+ - 😝 [Hey, that&#39;s my bike](http://9gag.com/gag/aPAroZq)
+ - 👉 [Wow.. Wow..](http://9gag.com/gag/a9yD65o)<!-- MEMES:END -->
 
 ---
 

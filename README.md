@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Stanford study: LLMs struggle to respond appropriately to questions about delusions, suicide, and OCD, but AI could play valuable supportive roles to therapists &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/250712/p7#a250712p7)
  - [Timekettle T1 Handheld Translator Review: Global Offline Translation](https://www.wired.com/review/timekettle-t1-handheld-translator/)
  - [Playdate’s second season sucked me back into the little yellow handheld](https://www.theverge.com/games-review/705348/playdate-season-2-review)
- - [10 Best Android Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
- - [Rivian R1S review: second time’s the charm](https://www.theverge.com/electric-cars/689400/rivian-r1s-review-second-times-the-charm)<!-- TECH:END -->
+ - [A Wildlife Expert Reveals the Best Placement for Your Bird Feeder](https://www.cnet.com/news/wildlife-expert-reveals-the-best-placement-for-your-bird-feeder/#ftag=CAD590a51e)
+ - [I Will Text You the Best Daily Deals for Free Every Day, Here’s How to Join](https://www.cnet.com/tech/services-and-software/i-will-text-you-the-best-daily-deals-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

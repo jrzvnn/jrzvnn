@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How we treated AI in 2023 and 2025](http://9gag.com/gag/azx4K5N)
- - 😝 [Mama husky and puppies howling](http://9gag.com/gag/a9yD8W0)
- - 💣 [American also Learn metric system in school](http://9gag.com/gag/aGy7B27)
- - 😝 [About 2000 years difference.](http://9gag.com/gag/a34N0G5)
- - 👉 [Tetten of all sizes](http://9gag.com/gag/ary8X0p)<!-- MEMES:END -->
+ - 😝 [The ultimate showdown for the fate of gaming. Gamers assemble](http://9gag.com/gag/aKGK9nb)
+ - 😝 [Wow.. Wow..](http://9gag.com/gag/a9yD65o)
+ - 💣 [\ud835\ude43\ud835\ude64\ud835\ude6c \ud835\ude69\ud835\ude64 \ud835\ude5c\ud835\ude56\ud835\ude5e\ud835\ude63 \ud835\ude56 \ud835\ude5d\ud835\ude64\ud835\ude67\ud835\ude68\ud835\ude5a&#39;\ud835\ude68 \ud835\ude69\ud835\ude67\ud835\ude6a\ud835\ude68\ud835\ude69 ...](http://9gag.com/gag/aRBR4Yy)
+ - 😝 [Relatable](http://9gag.com/gag/ae9R19p)
+ - 👉 [Victim card](http://9gag.com/gag/a5Q5Gey)<!-- MEMES:END -->
 
 ---
 

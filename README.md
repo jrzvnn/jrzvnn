@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [With such friends and enemies are not needed](http://9gag.com/gag/a6ZGnnb)
- - 😝 [Life story of Russell Bonner Bentley](http://9gag.com/gag/a1mO02R)
- - 💣 [Akon&#39;s $6 billion futuristic `Wakanda` mega-city in Senegal, Africa, has reportedly been abandoned.](http://9gag.com/gag/aoynV00)
+ - 😝 [Even if I daydream, my max is like 50 million dollars.](http://9gag.com/gag/a9yD6o0)
+ - 😝 [Hey, that&#39;s my bike](http://9gag.com/gag/aPAroZq)
+ - 💣 [The ultimate showdown for the fate of gaming. Gamers assemble](http://9gag.com/gag/aKGK9nb)
  - 😝 [How healthy relationships looks like](http://9gag.com/gag/aD2Q8dd)
- - 👉 [Rabbits are good](http://9gag.com/gag/an7G2Q5)<!-- MEMES:END -->
+ - 👉 [Life story of Russell Bonner Bentley](http://9gag.com/gag/a1mO02R)<!-- MEMES:END -->
 
 ---
 

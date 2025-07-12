@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [4 Arrested Over Scattered Spider Hacking Spree](https://www.wired.com/story/4-arrested-over-scattered-spider-hacking-spree/)
- - [Gear News of the Week: Samsung’s Trifold Promise, Ikea’s Sonos Split, and Hugging Face’s New Robot](https://www.wired.com/story/gear-news-of-the-week-samsung-teases-a-trifold-ikea-ditches-sonos-and-theres-a-hugging-face-robot/)
- - [How to Watch the Southern Delta Aquariids and Perseids Meteor Showers](https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 12 #496](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-12-496/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 12, #762](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-12-762/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 41 Best Movies on Netflix Right Now &lpar;July 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 20 Best Movies on Amazon Prime Right Now &lpar;July 2025&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
+ - [How to Use Clean Energy Tax Credits Before They Disappear](https://www.wired.com/story/congress-is-killing-clean-energy-tax-credits-heres-how-to-use-them-before-they-disappear/)
+ - [The 41 Best Shows on Netflix Right Now &lpar;July 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
+ - [The 23 Best Shows on Amazon Prime Right Now &lpar;July 2025&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

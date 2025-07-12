@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Even if I daydream, my max is like 50 million dollars.](http://9gag.com/gag/a9yD6o0)
- - 😝 [Hey, that&#39;s my bike](http://9gag.com/gag/aPAroZq)
- - 💣 [The ultimate showdown for the fate of gaming. Gamers assemble](http://9gag.com/gag/aKGK9nb)
- - 😝 [How healthy relationships looks like](http://9gag.com/gag/aD2Q8dd)
- - 👉 [Life story of Russell Bonner Bentley](http://9gag.com/gag/a1mO02R)<!-- MEMES:END -->
+ - 😝 [When you only have eyes for one person, the rest of the world just blurs away.](http://9gag.com/gag/ae9RZjB)
+ - 😝 [The ultimate barber shop challenge, these guys are really committed to the bit](http://9gag.com/gag/aVvRErw)
+ - 💣 [Hey, that&#39;s my bike](http://9gag.com/gag/aPAroZq)
+ - 😝 [The ultimate showdown for the fate of gaming. Gamers assemble](http://9gag.com/gag/aKGK9nb)
+ - 👉 [Even if I daydream, my max is like 50 million dollars.](http://9gag.com/gag/a9yD6o0)<!-- MEMES:END -->
 
 ---
 

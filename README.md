@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No sacred cows. Arrest everyone involved.](http://9gag.com/gag/amoRm12)
- - 😝 [Victim card](http://9gag.com/gag/a5Q5Gey)
- - 💣 [When you smack me, I don&#39;t stop sucking.](http://9gag.com/gag/aRBRzQq)
- - 😝 [About 2000 years difference.](http://9gag.com/gag/a34N0G5)
- - 👉 [American also Learn metric system in school](http://9gag.com/gag/aGy7B27)<!-- MEMES:END -->
+ - 😝 [With such friends and enemies are not needed](http://9gag.com/gag/a6ZGnnb)
+ - 😝 [Life story of Russell Bonner Bentley](http://9gag.com/gag/a1mO02R)
+ - 💣 [Akon&#39;s $6 billion futuristic `Wakanda` mega-city in Senegal, Africa, has reportedly been abandoned.](http://9gag.com/gag/aoynV00)
+ - 😝 [How healthy relationships looks like](http://9gag.com/gag/aD2Q8dd)
+ - 👉 [Rabbits are good](http://9gag.com/gag/an7G2Q5)<!-- MEMES:END -->
 
 ---
 

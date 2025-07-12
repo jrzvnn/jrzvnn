@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Tried MyFitnessPal&#39;s New Meal Planner Feature and Was Pleasantly Surprised by the Healthy Recipes](https://www.cnet.com/health/nutrition/tried-myfitnesspal-new-meal-planner-feature-pleasantly-surprised-healthy-recipes/#ftag=CAD590a51e)
- - [A US-Only TikTok Replacement App Could Be Coming. What We Know So Far](https://www.cnet.com/tech/services-and-software/a-us-only-tiktok-replacement-app-could-be-coming-what-we-know-so-far/#ftag=CAD590a51e)
- - [Prime Day is Finally Over But These 142 Deals Are Still Available](https://www.wired.com/story/leftover-prime-day-deals-july-2025/)
- - [A look at Meta&#39;s revamped GenAI strategy, as Mark Zuckerberg poaches top AI talent for the Superintelligence team with a typical offer of $200M over four years &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/250712/p5#a250712p5)
- - [A New Hampshire court rejected TikTok&#39;s request to dismiss the state AG&#39;s suit accusing the company of using manipulative design features aimed at kids &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/250712/p4#a250712p4)<!-- TECH:END -->
+ - [How to Watch the Southern Delta Aquariids and Perseids Meteor Showers](https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 12 #496](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-12-496/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 12, #762](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-12-762/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for July 12, #1484](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-12-1484/#ftag=CAD590a51e)
+ - [Worse Than a Recession? Trump&#39;s Tariffs Risk &#39;Self-Inflicted&#39; Stagflation](https://www.cnet.com/personal-finance/banking/worse-than-a-recession-trumps-tariffs-risk-self-inflicted-stagflation/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

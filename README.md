@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Akon&#39;s $6 billion futuristic `Wakanda` mega-city in Senegal, Africa, has reportedly been abandoned.](http://9gag.com/gag/aoynV00)
  - 😝 [We barely made it in time....](http://9gag.com/gag/a0eOX3L)
- - 😝 [You a nice nga?](http://9gag.com/gag/aNDjvrr)
- - 💣 [Relatable](http://9gag.com/gag/ae9R19p)
- - 😝 [With such friends and enemies are not needed](http://9gag.com/gag/a6ZGnnb)
- - 👉 [The ultimate showdown for the fate of gaming. Gamers assemble](http://9gag.com/gag/aKGK9nb)<!-- MEMES:END -->
+ - 💣 [When you smack me, I don&#39;t stop sucking.](http://9gag.com/gag/aRBRzQq)
+ - 😝 [Victim card](http://9gag.com/gag/a5Q5Gey)
+ - 👉 [Rabbits are good](http://9gag.com/gag/an7G2Q5)<!-- MEMES:END -->
 
 ---
 

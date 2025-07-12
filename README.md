@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Akon&#39;s $6 billion futuristic `Wakanda` mega-city in Senegal, Africa, has reportedly been abandoned.](http://9gag.com/gag/aoynV00)
- - 😝 [We barely made it in time....](http://9gag.com/gag/a0eOX3L)
- - 💣 [When you smack me, I don&#39;t stop sucking.](http://9gag.com/gag/aRBRzQq)
- - 😝 [Victim card](http://9gag.com/gag/a5Q5Gey)
- - 👉 [Rabbits are good](http://9gag.com/gag/an7G2Q5)<!-- MEMES:END -->
+ - 😝 [How we treated AI in 2023 and 2025](http://9gag.com/gag/azx4K5N)
+ - 😝 [Mama husky and puppies howling](http://9gag.com/gag/a9yD8W0)
+ - 💣 [American also Learn metric system in school](http://9gag.com/gag/aGy7B27)
+ - 😝 [About 2000 years difference.](http://9gag.com/gag/a34N0G5)
+ - 👉 [Tetten of all sizes](http://9gag.com/gag/ary8X0p)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Amazon Prime Day deals you can still shop](https://www.theverge.com/tech/705786/amazon-prime-day-best-tech-deals-still-available-2025)
  - [24 hours with Alexa Plus: we cooked, we chatted, and it kinda lied to me](https://www.theverge.com/hands-on/705808/amazon-alexa-plus-first-look)
  - [Stanford study: LLMs struggle to respond appropriately to questions about delusions, suicide, and OCD, but AI could play valuable supportive roles to therapists &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/250712/p7#a250712p7)
  - [War for Westeros, Coming in 2026, Will Let Fans Make Their Own Game of Thrones Ending](https://www.cnet.com/tech/gaming/war-for-westeros-coming-in-2026-will-let-fans-make-their-own-game-of-thrones-ending/#ftag=CAD590a51e)
- - [Timekettle T1 Handheld Translator Review: Global Offline Translation](https://www.wired.com/review/timekettle-t1-handheld-translator/)
- - [Playdate’s second season sucked me back into the little yellow handheld](https://www.theverge.com/games-review/705348/playdate-season-2-review)<!-- TECH:END -->
+ - [Timekettle T1 Handheld Translator Review: Global Offline Translation](https://www.wired.com/review/timekettle-t1-handheld-translator/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

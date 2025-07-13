@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guy is asked what he&#39;d do if his sister... Left the city...](http://9gag.com/gag/a2vO27E)
- - 😝 [Archive video #3](http://9gag.com/gag/aqyDQgv)
- - 💣 [Job hopping is the fastest way to increase your salary, especially early in your career.](http://9gag.com/gag/aLnWGwx)
+ - 😝 [When your colleagues are living large on the same salary, and you&#39;re just trying to keep yourself afloat.](http://9gag.com/gag/a6ZG2dq)
  - 😝 [Nice shot](http://9gag.com/gag/a7on0zz)
- - 👉 [Kick a Man when he is down](http://9gag.com/gag/aNDjBYA)<!-- MEMES:END -->
+ - 💣 [When you smack me, I don&#39;t stop sucking.](http://9gag.com/gag/aRBRzQq)
+ - 😝 [Meanwhile in Indonesia](http://9gag.com/gag/ary8xRK)
+ - 👉 [Guy is asked what he&#39;d do if his sister... Left the city...](http://9gag.com/gag/a2vO27E)<!-- MEMES:END -->
 
 ---
 

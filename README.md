@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hot Wheels from 80&#39;s](http://9gag.com/gag/ajPRLR1)
- - 😝 [When you smack me, I don&#39;t stop sucking.](http://9gag.com/gag/aRBRzQq)
- - 💣 [No sacred cows. Arrest everyone involved.](http://9gag.com/gag/amoRm12)
- - 😝 [Tetten of all sizes](http://9gag.com/gag/ary8X0p)
- - 👉 [Rabbits are good](http://9gag.com/gag/an7G2Q5)<!-- MEMES:END -->
+ - 😝 [Kick a Man when he is down](http://9gag.com/gag/aNDjBYA)
+ - 😝 [Jimmy Carr destroys a heckler: \u201cYou\u2019re not that attractive\u201d](http://9gag.com/gag/a6ZG5d2)
+ - 💣 [Nice shot](http://9gag.com/gag/a7on0zz)
+ - 😝 [This is how the Browning M2 .50 caliber machine guns were mounted in the left wing of an F4U-1 Corsair fighter. The Corsair carried six .50 caliber machine guns, three in each wing, giving it immense firepower. Pic of the plane in comments](http://9gag.com/gag/abARxdX)
+ - 👉 [When you smack me, I don&#39;t stop sucking.](http://9gag.com/gag/aRBRzQq)<!-- MEMES:END -->
 
 ---
 

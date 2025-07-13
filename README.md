@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Radioactive tan](http://9gag.com/gag/a0eO1wX)
- - 😝 [The power of hand](http://9gag.com/gag/aMVqvR6)
- - 💣 [Learning Japanese with strangers makes a grandpa&#39;s day](http://9gag.com/gag/aMVqvLA)
- - 😝 [Meanwhile in Indonesia](http://9gag.com/gag/ary8xRK)
- - 👉 [He said he had work for them, that\u2019s why the ran away. It wasn\u2019t the gun](http://9gag.com/gag/axymOAM)<!-- MEMES:END -->
+ - 😝 [Fake life](http://9gag.com/gag/aQzyZwr)
+ - 😝 [They are still alive.](http://9gag.com/gag/awye4N1)
+ - 💣 [Have a nice and clean day y`all](http://9gag.com/gag/aZZREr3)
+ - 😝 [With such friends and enemies are not needed](http://9gag.com/gag/a6ZGnnb)
+ - 👉 [Car Noises](http://9gag.com/gag/azx4O2b)<!-- MEMES:END -->
 
 ---
 

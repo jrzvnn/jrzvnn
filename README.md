@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What Makes a Car Lovable? It&#39;s Not the Tech, It&#39;s the Cup Holders](https://www.wired.com/story/cup-holders-not-tech-makes-cars-lovable/)
  - [These LGBTQ+ Archives Defy Erasure, One Memory at a Time](https://www.wired.com/story/lgbtq-archives-defy-erasure-one-memory-at-a-time/)
- - [Everything We Know About the Interstellar Object 3I/ATLAS](https://www.wired.com/story/heres-what-we-know-about-the-third-interstellar-object-in-history/)
- - [Should You Skip the Iced Coffee This Summer Because of Dehydration?](https://www.cnet.com/health/medical/should-skip-iced-coffee-summer-dehydration/#ftag=CAD590a51e)
- - [There&#39;s little evidence that UAE-based Aqua 1 Foundation, the largest investor in Trump&#39;s World Liberty Financial after buying tokens worth $100M, exists at all &lpar;Jacob Silverman/The Nation&rpar;](http://www.techmeme.com/250713/p6#a250713p6)
- - [Honor Education, an e-learning service for individuals and enterprises founded by former Dean of Apple University Joel Podolny, raised a $38M Series A &lpar;Derek Newton/Forbes&rpar;](http://www.techmeme.com/250713/p5#a250713p5)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 13 #497](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-13-497/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 13, #763](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-13-763/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for July 13, #1485](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-13-1485/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

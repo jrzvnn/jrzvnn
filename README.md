@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Radioactive tan](http://9gag.com/gag/a0eO1wX)
+ - 😝 [The power of hand](http://9gag.com/gag/aMVqvR6)
+ - 💣 [Learning Japanese with strangers makes a grandpa&#39;s day](http://9gag.com/gag/aMVqvLA)
  - 😝 [Meanwhile in Indonesia](http://9gag.com/gag/ary8xRK)
- - 💣 [Job hopping is the fastest way to increase your salary, especially early in your career.](http://9gag.com/gag/aLnWGwx)
- - 😝 [When you smack me, I don&#39;t stop sucking.](http://9gag.com/gag/aRBRzQq)
- - 👉 [When you use the male filter and your friend can&#39;t believe it](http://9gag.com/gag/ajPRZN0)<!-- MEMES:END -->
+ - 👉 [He said he had work for them, that\u2019s why the ran away. It wasn\u2019t the gun](http://9gag.com/gag/axymOAM)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Smart Home Hub release pushed back to 2026](https://appleinsider.com/articles/25/07/13/apple-smart-home-hub-release-pushed-back-to-2026?utm_medium=rss)
+ - [Portola, which develops the Tolan app featuring AI companions, raised a $20M Series A led by Khosla Ventures; the app has 3M+ downloads and 100K+ paid users &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/250713/p8#a250713p8)
  - [How Jeff Williams&#39; departure from Apple will shuffle exec responsibilities](https://appleinsider.com/articles/25/07/13/how-jeff-williams-departure-from-apple-will-shuffle-exec-responsibilities?utm_medium=rss)
  - [Garmin Forerunner 970 Review: A Very Extra Running Watch](https://www.wired.com/review/garmin-forerunner-970/)
- - [iPhone 17 launch expected for week of September 8](https://appleinsider.com/articles/25/07/13/iphone-17-launch-expected-for-week-of-september-8?utm_medium=rss)
- - [Tim Cook won&#39;t get fired by Apple&#39;s board of directors -- and is likely to be chairman soon](https://appleinsider.com/articles/25/07/13/tim-cook-wont-get-fired-by-apples-board-of-directors----and-is-likely-to-be-chairman-soon?utm_medium=rss)
- - [Best VPN for Mac for 2025: Hide Your Browsing, Privately Torrent and Unblock Streaming Services Like Netflix](https://www.cnet.com/tech/services-and-software/best-vpn-for-mac/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 17 launch expected for week of September 8](https://appleinsider.com/articles/25/07/13/iphone-17-launch-expected-for-week-of-september-8?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

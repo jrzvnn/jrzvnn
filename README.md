@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG Gram Pro 16 &lpar;2025&rpar; Review: Thin Is Still In](https://www.wired.com/review/lg-gram-pro-16-2025/)
- - [Foldables are in and suddenly really thin](https://www.theverge.com/installer-newsletter/705979/samsung-galaxy-z-fold-flip-7-nothing-phone-headphone-installer)
- - [A look at Xiaomi AI Glasses, launched in China on June 26 with a starting price of ~$278, featuring a 12MP ultra-wide camera and powered by Qualcomm&#39;s AR1 chip &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/250713/p7#a250713p7)
- - [HP OmniBook X Flip 14 Review: Midrange 2-in-1 Offers Style and Value](https://www.cnet.com/tech/computing/hp-omnibook-x-flip-14-review-midrange-2-in-1-offers-style-and-value/#ftag=CAD590a51e)
- - [For Algorithms, Memory Is a Far More Powerful Resource Than Time](https://www.wired.com/story/for-algorithms-a-little-memory-outweighs-a-lot-of-time/)<!-- TECH:END -->
+ - [How Jeff Williams&#39; departure from Apple will shuffle exec responsibilities](https://appleinsider.com/articles/25/07/13/how-jeff-williams-departure-from-apple-will-shuffle-exec-responsibilities?utm_medium=rss)
+ - [Garmin Forerunner 970 Review: A Very Extra Running Watch](https://www.wired.com/review/garmin-forerunner-970/)
+ - [iPhone 17 launch expected for week of September 8](https://appleinsider.com/articles/25/07/13/iphone-17-launch-expected-for-week-of-september-8?utm_medium=rss)
+ - [Tim Cook won&#39;t get fired by Apple&#39;s board of directors -- and is likely to be chairman soon](https://appleinsider.com/articles/25/07/13/tim-cook-wont-get-fired-by-apples-board-of-directors----and-is-likely-to-be-chairman-soon?utm_medium=rss)
+ - [LG Gram Pro 16 &lpar;2025&rpar; Review: Thin Is Still In](https://www.wired.com/review/lg-gram-pro-16-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

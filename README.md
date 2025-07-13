@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Life story of Russell Bonner Bentley](http://9gag.com/gag/a1mO02R)
  - 😝 [Nice shot](http://9gag.com/gag/a7on0zz)
- - 💣 [Guy is asked what he&#39;d do if his sister... Left the city...](http://9gag.com/gag/a2vO27E)
- - 😝 [Akon&#39;s $6 Billion Futuristic `Wakanda` Mega-City in Senegal, Africa, has Reportedly been Abandoned](http://9gag.com/gag/a1mOVKv)
+ - 😝 [Guy is asked what he&#39;d do if his sister... Left the city...](http://9gag.com/gag/a2vO27E)
+ - 💣 [Meanwhile in Indonesia](http://9gag.com/gag/ary8xRK)
+ - 😝 [Kick a Man when he is down](http://9gag.com/gag/aNDjBYA)
  - 👉 [Victim card declined!](http://9gag.com/gag/ayNvR7p)<!-- MEMES:END -->
 
 ---

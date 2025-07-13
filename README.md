@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yeet from this plane of existence](http://9gag.com/gag/a1mO528)
+ - 😝 [Life story of Russell Bonner Bentley](http://9gag.com/gag/a1mO02R)
  - 😝 [Nice shot](http://9gag.com/gag/a7on0zz)
  - 💣 [Guy is asked what he&#39;d do if his sister... Left the city...](http://9gag.com/gag/a2vO27E)
- - 😝 [This is how the Browning M2 .50 caliber machine guns were mounted in the left wing of an F4U-1 Corsair fighter. The Corsair carried six .50 caliber machine guns, three in each wing, giving it immense firepower. Pic of the plane in comments](http://9gag.com/gag/abARxdX)
- - 👉 [He said he had work for them, that\u2019s why the ran away. It wasn\u2019t the gun](http://9gag.com/gag/axymOAM)<!-- MEMES:END -->
+ - 😝 [Akon&#39;s $6 Billion Futuristic `Wakanda` Mega-City in Senegal, Africa, has Reportedly been Abandoned](http://9gag.com/gag/a1mOVKv)
+ - 👉 [Victim card declined!](http://9gag.com/gag/ayNvR7p)<!-- MEMES:END -->
 
 ---
 

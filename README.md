@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: SpaceX has agreed to invest $2B in xAI, as part of xAI&#39;s $5B equity fundraise announced by Morgan Stanley last month &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250712/p15#a250712p15)
- - [A look at US-backed NVD, as its parent org NIST scrambles to hire contractors to help clear a backlog of 25K+ vulnerabilities, ~10x the previous high in 2017 &lpar;Matthew King/MIT Technology Review&rpar;](http://www.techmeme.com/250712/p14#a250712p14)
- - [Amazon extends AirTag, AirPods, iPad, Apple Watch Prime Day deals from $19](https://appleinsider.com/articles/25/07/12/amazon-extends-airtag-airpods-ipad-apple-watch-prime-day-deals-from-19?utm_medium=rss)
- - [OpenAI&#39;s failed Windsurf deal signals broader M&amp;A challenges for OpenAI until it renegotiates its deal with Microsoft &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/250712/p13#a250712p13)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 13 #497](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-13-497/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [With Trump set to speak at an energy and AI summit at Carnegie Mellon, a look at plans to turn some shuttered mill sites in Pittsburgh into AI data centers &lpar;Kris Maher/Wall Street Journal&rpar;](http://www.techmeme.com/250712/p16#a250712p16)
+ - [How to Watch the Wimbledon Men&#39;s Singles Final for Free: Carlos Alcaraz vs. Jannik Sinner](https://www.cnet.com/tech/services-and-software/how-to-watch-the-wimbledon-mens-singles-finals-for-free-carlos-alcaraz-vs-jannik-sinner/#ftag=CAD590a51e)
+ - [xAI explains the Grok Nazi meltdown as Tesla puts Elon’s bot in its cars](https://www.theverge.com/news/706498/xai-grok-hitler-antisemitism-tesla-ai-bot)
+ - [Should Student Loans Borrowers in SAVE Switch to Another Repayment Plan? It&#39;s Complicated](https://www.cnet.com/personal-finance/loans/should-student-loans-borrowers-in-save-switch-to-another-repayment-plan-its-complicated/#ftag=CAD590a51e)
+ - [Sources: SpaceX has agreed to invest $2B in xAI, as part of xAI&#39;s $5B equity fundraise announced by Morgan Stanley last month &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250712/p15#a250712p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

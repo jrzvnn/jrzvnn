@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [When you smack me, I don&#39;t stop sucking.](http://9gag.com/gag/aRBRzQq)
- - 😝 [No sacred cows. Arrest everyone involved.](http://9gag.com/gag/amoRm12)
- - 💣 [Hot Wheels from 80&#39;s](http://9gag.com/gag/ajPRLR1)
+ - 😝 [Hot Wheels from 80&#39;s](http://9gag.com/gag/ajPRLR1)
+ - 💣 [No sacred cows. Arrest everyone involved.](http://9gag.com/gag/amoRm12)
  - 😝 [Tetten of all sizes](http://9gag.com/gag/ary8X0p)
  - 👉 [Rabbits are good](http://9gag.com/gag/an7G2Q5)<!-- MEMES:END -->
 

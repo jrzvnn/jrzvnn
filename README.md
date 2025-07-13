@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Parspec, whose AI-powered workflow tool automates procurement processes in the construction supply chain, raised a $20M Series A led by Threshold Ventures &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/250713/p3#a250713p3)
+ - [20% Off HP Coupon Code | July 2025](https://www.wired.com/story/hp-coupon-code/)
  - [Insiders describe Linda Yaccarino&#39;s tumultuous partnership with Elon Musk and say the two failed to gel as Musk&#39;s blunt style clashed with Yaccarino&#39;s polish &lpar;Financial Times&rpar;](http://www.techmeme.com/250713/p2#a250713p2)
  - [Berlin-based CarOnSale, a B2B marketplace for used car trading across Europe offering vehicle inspections and more, raised a €70M Series C led by Northzone &lpar;David Cendon Garcia/EU-Startups&rpar;](http://www.techmeme.com/250713/p1#a250713p1)
- - [Samsung agrees to acquire Seattle-based Xealth, which helps healthcare providers manage digital health tools and has raised over $50M, for an undisclosed sum &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250712/p18#a250712p18)
- - [Analysis of 1.76M Community Notes received by X from January 2021 to March 2025: 90%+ of submitted notes are never published, with many notes &quot;stuck in limbo&quot; &lpar;DDIA&rpar;](http://www.techmeme.com/250712/p17#a250712p17)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for July 13, #293](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-13-293/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung agrees to acquire Seattle-based Xealth, which helps healthcare providers manage digital health tools and has raised over $50M, for an undisclosed sum &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250712/p18#a250712p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

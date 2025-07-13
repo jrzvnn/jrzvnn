@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fake life](http://9gag.com/gag/aQzyZwr)
- - 😝 [They are still alive.](http://9gag.com/gag/awye4N1)
- - 💣 [Have a nice and clean day y`all](http://9gag.com/gag/aZZREr3)
- - 😝 [With such friends and enemies are not needed](http://9gag.com/gag/a6ZGnnb)
- - 👉 [Car Noises](http://9gag.com/gag/azx4O2b)<!-- MEMES:END -->
+ - 😝 [The moment you realize it&#39;s feeding time](http://9gag.com/gag/a4Pw2Qd)
+ - 😝 [Knee injuries are inevitable, it seems.](http://9gag.com/gag/a2vO2dd)
+ - 💣 [Learning Japanese with strangers makes a grandpa&#39;s day](http://9gag.com/gag/aMVqvLA)
+ - 😝 [When your colleagues are living large on the same salary, and you&#39;re just trying to keep yourself afloat.](http://9gag.com/gag/a6ZG2dq)
+ - 👉 [Guy is asked what he&#39;d do if his sister... Left the city...](http://9gag.com/gag/a2vO27E)<!-- MEMES:END -->
 
 ---
 

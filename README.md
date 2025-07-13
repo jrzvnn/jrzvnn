@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Xiaomi AI Glasses, launched in China on June 26 with a starting price of ~$278, featuring a 12MP ultra-wide camera and powered by Qualcomm&#39;s AR1 chip &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/250713/p7#a250713p7)
+ - [For Algorithms, Memory Is a Far More Powerful Resource Than Time](https://www.wired.com/story/for-algorithms-a-little-memory-outweighs-a-lot-of-time/)
+ - [Why GM’s CEO is still betting on electric vehicles &lpar;and racing&rpar;](https://www.theverge.com/gm-general-motors/705320/gm-ceo-mary-barra-interview-ev-cadillac-dei-trump)
  - [What Makes a Car Lovable? It&#39;s Not the Tech, It&#39;s the Cup Holders](https://www.wired.com/story/cup-holders-not-tech-makes-cars-lovable/)
- - [These LGBTQ+ Archives Defy Erasure, One Memory at a Time](https://www.wired.com/story/lgbtq-archives-defy-erasure-one-memory-at-a-time/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 13 #497](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-13-497/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 13, #763](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-13-763/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for July 13, #1485](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-13-1485/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These LGBTQ+ Archives Defy Erasure, One Memory at a Time](https://www.wired.com/story/lgbtq-archives-defy-erasure-one-memory-at-a-time/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

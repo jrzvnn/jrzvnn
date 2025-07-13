@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Berlin-based CarOnSale, a B2B marketplace for used car trading across Europe offering vehicle inspections and more, raised a €70M Series C led by Northzone &lpar;David Cendon Garcia/EU-Startups&rpar;](http://www.techmeme.com/250713/p1#a250713p1)
  - [Samsung agrees to acquire Seattle-based Xealth, which helps healthcare providers manage digital health tools and has raised over $50M, for an undisclosed sum &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250712/p18#a250712p18)
  - [Analysis of 1.76M Community Notes received by X from January 2021 to March 2025: 90%+ of submitted notes are never published, with many notes &quot;stuck in limbo&quot; &lpar;DDIA&rpar;](http://www.techmeme.com/250712/p17#a250712p17)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for July 13, #293](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-13-293/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, July 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-july-13/#ftag=CAD590a51e)
- - [With Trump set to speak at an energy and AI summit at Carnegie Mellon, a look at plans to turn some shuttered mill sites in Pittsburgh into AI data centers &lpar;Kris Maher/Wall Street Journal&rpar;](http://www.techmeme.com/250712/p16#a250712p16)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, July 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-july-13/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

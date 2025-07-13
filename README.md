@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [We Will Watch Your Career With Great Interest](http://9gag.com/gag/axymON2)
- - 😝 [Remember this legend of a phone](http://9gag.com/gag/azx4Kmx)
- - 💣 [When the boss asks if you can go one day without messing up, but you&#39;ve already penciled in today&#39;s mess-ups.](http://9gag.com/gag/aLnWGgW)
- - 😝 [Life story of Russell Bonner Bentley](http://9gag.com/gag/a1mO02R)
- - 👉 [Yeet from this plane of existence](http://9gag.com/gag/a1mO528)<!-- MEMES:END -->
+ - 😝 [Nice shot](http://9gag.com/gag/a7on0zz)
+ - 💣 [This is how the Browning M2 .50 caliber machine guns were mounted in the left wing of an F4U-1 Corsair fighter. The Corsair carried six .50 caliber machine guns, three in each wing, giving it immense firepower. Pic of the plane in comments](http://9gag.com/gag/abARxdX)
+ - 😝 [Victim card declined!](http://9gag.com/gag/ayNvR7p)
+ - 👉 [How healthy relationships looks like](http://9gag.com/gag/aD2Q8dd)<!-- MEMES:END -->
 
 ---
 

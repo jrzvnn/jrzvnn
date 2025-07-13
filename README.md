@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kick a Man when he is down](http://9gag.com/gag/aNDjBYA)
- - 😝 [Jimmy Carr destroys a heckler: \u201cYou\u2019re not that attractive\u201d](http://9gag.com/gag/a6ZG5d2)
- - 💣 [Nice shot](http://9gag.com/gag/a7on0zz)
  - 😝 [This is how the Browning M2 .50 caliber machine guns were mounted in the left wing of an F4U-1 Corsair fighter. The Corsair carried six .50 caliber machine guns, three in each wing, giving it immense firepower. Pic of the plane in comments](http://9gag.com/gag/abARxdX)
- - 👉 [When you smack me, I don&#39;t stop sucking.](http://9gag.com/gag/aRBRzQq)<!-- MEMES:END -->
+ - 😝 [Akon&#39;s $6 Billion Futuristic `Wakanda` Mega-City in Senegal, Africa, has Reportedly been Abandoned](http://9gag.com/gag/a1mOVKv)
+ - 💣 [Victim card](http://9gag.com/gag/a5Q5Gey)
+ - 😝 [Yeet from this plane of existence](http://9gag.com/gag/a1mO528)
+ - 👉 [Nice shot](http://9gag.com/gag/a7on0zz)<!-- MEMES:END -->
 
 ---
 

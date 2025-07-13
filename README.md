@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The moment you realize it&#39;s feeding time](http://9gag.com/gag/a4Pw2Qd)
  - 😝 [Nice shot](http://9gag.com/gag/a7on0zz)
- - 😝 [Yeet from this plane of existence](http://9gag.com/gag/a1mO528)
- - 💣 [Meanwhile in Indonesia](http://9gag.com/gag/ary8xRK)
- - 😝 [Life story of Russell Bonner Bentley](http://9gag.com/gag/a1mO02R)
+ - 💣 [When you smack me, I don&#39;t stop sucking.](http://9gag.com/gag/aRBRzQq)
+ - 😝 [When you use the male filter and your friend can&#39;t believe it](http://9gag.com/gag/ajPRZN0)
  - 👉 [This is how the Browning M2 .50 caliber machine guns were mounted in the left wing of an F4U-1 Corsair fighter. The Corsair carried six .50 caliber machine guns, three in each wing, giving it immense firepower. Pic of the plane in comments](http://9gag.com/gag/abARxdX)<!-- MEMES:END -->
 
 ---

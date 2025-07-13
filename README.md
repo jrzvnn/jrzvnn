@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LG Gram Pro 16 &lpar;2025&rpar; Review: Thin Is Still In](https://www.wired.com/review/lg-gram-pro-16-2025/)
+ - [Foldables are in and suddenly really thin](https://www.theverge.com/installer-newsletter/705979/samsung-galaxy-z-fold-flip-7-nothing-phone-headphone-installer)
  - [A look at Xiaomi AI Glasses, launched in China on June 26 with a starting price of ~$278, featuring a 12MP ultra-wide camera and powered by Qualcomm&#39;s AR1 chip &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/250713/p7#a250713p7)
- - [For Algorithms, Memory Is a Far More Powerful Resource Than Time](https://www.wired.com/story/for-algorithms-a-little-memory-outweighs-a-lot-of-time/)
- - [Why GM’s CEO is still betting on electric vehicles &lpar;and racing&rpar;](https://www.theverge.com/gm-general-motors/705320/gm-ceo-mary-barra-interview-ev-cadillac-dei-trump)
- - [Best Satellite Internet Providers for July 2025](https://www.cnet.com/home/internet/best-satellite-internet/#ftag=CAD590a51e)
- - [Microsoft Plans to Purge Passwords—Here&#39;s How to Protect Yours](https://www.cnet.com/tech/microsoft-plans-to-purge-passwords-heres-how-to-protect-yours/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [HP OmniBook X Flip 14 Review: Midrange 2-in-1 Offers Style and Value](https://www.cnet.com/tech/computing/hp-omnibook-x-flip-14-review-midrange-2-in-1-offers-style-and-value/#ftag=CAD590a51e)
+ - [For Algorithms, Memory Is a Far More Powerful Resource Than Time](https://www.wired.com/story/for-algorithms-a-little-memory-outweighs-a-lot-of-time/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

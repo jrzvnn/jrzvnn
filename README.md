@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Victim card declined!](http://9gag.com/gag/ayNvR7p)
- - 😝 [When you use the male filter and your friend can&#39;t believe it](http://9gag.com/gag/ajPRZN0)
- - 💣 [Indians being Indians in the US](http://9gag.com/gag/axymOwD)
- - 😝 [At least tag them as RIP or something so I can block the tag instead of blocking every single one of you](http://9gag.com/gag/a2vO2ow)
- - 👉 [Have a nice and clean day y`all](http://9gag.com/gag/aZZREr3)<!-- MEMES:END -->
+ - 😝 [Best i can do is $800](http://9gag.com/gag/a7on2vx)
+ - 😝 [When you smack me, I don&#39;t stop sucking.](http://9gag.com/gag/aRBRzQq)
+ - 💣 [When you use the male filter and your friend can&#39;t believe it](http://9gag.com/gag/ajPRZN0)
+ - 😝 [Kick a Man when he is down](http://9gag.com/gag/aNDjBYA)
+ - 👉 [Nice shot](http://9gag.com/gag/a7on0zz)<!-- MEMES:END -->
 
 ---
 

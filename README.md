@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you smack me, I don&#39;t stop sucking.](http://9gag.com/gag/aRBRzQq)
- - 😝 [Tetten of all sizes](http://9gag.com/gag/ary8X0p)
- - 💣 [Rabbits are good](http://9gag.com/gag/an7G2Q5)
- - 😝 [Don&#39;t do the dog.](http://9gag.com/gag/a87Ve2Y)
- - 👉 [Eliot Page looks like the type guy that would pull Ellen Page into a van.](http://9gag.com/gag/a7on9Ox)<!-- MEMES:END -->
+ - 😝 [Akon&#39;s $6 Billion Futuristic `Wakanda` Mega-City in Senegal, Africa, has Reportedly been Abandoned](http://9gag.com/gag/a1mOVKv)
+ - 😝 [Victim card declined!](http://9gag.com/gag/ayNvR7p)
+ - 💣 [When the boss asks if you can go one day without messing up, but you&#39;ve already penciled in today&#39;s mess-ups.](http://9gag.com/gag/aLnWGgW)
+ - 😝 [We Will Watch Your Career With Great Interest](http://9gag.com/gag/axymON2)
+ - 👉 [Yeet from this plane of existence](http://9gag.com/gag/a1mO528)<!-- MEMES:END -->
 
 ---
 

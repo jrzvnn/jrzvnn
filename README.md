@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [There&#39;s little evidence that UAE-based Aqua 1 Foundation, the largest investor in Trump&#39;s World Liberty Financial after buying tokens worth $100M, exists at all &lpar;Jacob Silverman/The Nation&rpar;](http://www.techmeme.com/250713/p6#a250713p6)
+ - [Honor Education, an e-learning service for individuals and enterprises that was founded by former Dean of Apple University Joel Podolny, raised a $38M Series A &lpar;Derek Newton/Forbes&rpar;](http://www.techmeme.com/250713/p5#a250713p5)
  - [NYC-based Vellum, which develops enterprise development tools for building, testing, and deploying AI-powered apps, raised a $20M Series A led by Leaders Fund &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250713/p4#a250713p4)
  - [Parspec, whose AI-powered workflow tool automates procurement processes in the construction supply chain, raised a $20M Series A led by Threshold Ventures &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/250713/p3#a250713p3)
- - [20% Off HP Coupon Code | July 2025](https://www.wired.com/story/hp-coupon-code/)
- - [Insiders describe Linda Yaccarino&#39;s tumultuous partnership with Elon Musk and say the two failed to gel as Musk&#39;s blunt style clashed with Yaccarino&#39;s polish &lpar;Financial Times&rpar;](http://www.techmeme.com/250713/p2#a250713p2)
- - [Berlin-based CarOnSale, a B2B marketplace for used car trading across Europe offering vehicle inspections and more, raised a €70M Series C led by Northzone &lpar;David Cendon Garcia/EU-Startups&rpar;](http://www.techmeme.com/250713/p1#a250713p1)<!-- TECH:END -->
+ - [20% Off HP Coupon Code | July 2025](https://www.wired.com/story/hp-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

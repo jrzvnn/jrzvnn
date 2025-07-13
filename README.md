@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Victim card declined!](http://9gag.com/gag/ayNvR7p)
- - 😝 [When you use the male filter and your friend can&#39;t believe it](http://9gag.com/gag/ajPRZN0)
- - 💣 [Put Adam\u2019s family music](http://9gag.com/gag/ary8qXX)
- - 😝 [This is how the Browning M2 .50 caliber machine guns were mounted in the left wing of an F4U-1 Corsair fighter. The Corsair carried six .50 caliber machine guns, three in each wing, giving it immense firepower. Pic of the plane in comments](http://9gag.com/gag/abARxdX)
+ - 😝 [Akon&#39;s $6 Billion Futuristic `Wakanda` Mega-City in Senegal, Africa, has Reportedly been Abandoned](http://9gag.com/gag/a1mOVKv)
+ - 😝 [Put Adam\u2019s family music](http://9gag.com/gag/ary8qXX)
+ - 💣 [This is how the Browning M2 .50 caliber machine guns were mounted in the left wing of an F4U-1 Corsair fighter. The Corsair carried six .50 caliber machine guns, three in each wing, giving it immense firepower. Pic of the plane in comments](http://9gag.com/gag/abARxdX)
+ - 😝 [Nice shot](http://9gag.com/gag/a7on0zz)
  - 👉 [He said he had work for them, that\u2019s why the ran away. It wasn\u2019t the gun](http://9gag.com/gag/axymOAM)<!-- MEMES:END -->
 
 ---

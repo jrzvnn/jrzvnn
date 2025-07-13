@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Meanwhile in Indonesia](http://9gag.com/gag/ary8xRK)
- - 😝 [When you smack me, I don&#39;t stop sucking.](http://9gag.com/gag/aRBRzQq)
- - 💣 [How healthy relationships looks like](http://9gag.com/gag/aD2Q8dd)
  - 😝 [Principles are important](http://9gag.com/gag/axym6qK)
- - 👉 [Remember this legend of a phone](http://9gag.com/gag/azx4Kmx)<!-- MEMES:END -->
+ - 💣 [Victim card declined!](http://9gag.com/gag/ayNvR7p)
+ - 😝 [This is how the Browning M2 .50 caliber machine guns were mounted in the left wing of an F4U-1 Corsair fighter. The Corsair carried six .50 caliber machine guns, three in each wing, giving it immense firepower. Pic of the plane in comments](http://9gag.com/gag/abARxdX)
+ - 👉 [Rabbits are good](http://9gag.com/gag/an7G2Q5)<!-- MEMES:END -->
 
 ---
 

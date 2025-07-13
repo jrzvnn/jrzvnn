@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube and Netflix are increasingly locked in a battle over TV in the US; Nielsen: YouTube accounted for 12.5% of all TV viewing time in May and Netflix 7.5% &lpar;John Koblin/New York Times&rpar;](http://www.techmeme.com/250713/p10#a250713p10)
  - [With Tim Cook likely to lead Apple through this decade, a look at Apple&#39;s executive succession challenges as many of Cook&#39;s direct reports near retirement age &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250713/p9#a250713p9)
  - [9 Best Electric Scooters &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-electric-scooters/)
  - [Foods That Naturally Relieve Headaches, Backed by Health Pros](https://www.cnet.com/health/nutrition/foods-that-naturally-relieve-headaches-back-by-health-pros/#ftag=CAD590a51e)
- - [Apple Smart Home Hub release pushed back to 2026](https://appleinsider.com/articles/25/07/13/apple-smart-home-hub-release-pushed-back-to-2026?utm_medium=rss)
- - [Portola, which develops the Tolan app featuring AI companions, raised a $20M Series A led by Khosla Ventures; the app has 3M+ downloads and 100K+ paid users &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/250713/p8#a250713p8)<!-- TECH:END -->
+ - [Apple Smart Home Hub release pushed back to 2026](https://appleinsider.com/articles/25/07/13/apple-smart-home-hub-release-pushed-back-to-2026?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

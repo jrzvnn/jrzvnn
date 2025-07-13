@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NYC-based Vellum, which develops enterprise development tools for building, testing, and deploying AI-powered apps, raised a $20M Series A led by Leaders Fund &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250713/p4#a250713p4)
  - [Parspec, whose AI-powered workflow tool automates procurement processes in the construction supply chain, raised a $20M Series A led by Threshold Ventures &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/250713/p3#a250713p3)
  - [20% Off HP Coupon Code | July 2025](https://www.wired.com/story/hp-coupon-code/)
  - [Insiders describe Linda Yaccarino&#39;s tumultuous partnership with Elon Musk and say the two failed to gel as Musk&#39;s blunt style clashed with Yaccarino&#39;s polish &lpar;Financial Times&rpar;](http://www.techmeme.com/250713/p2#a250713p2)
- - [Berlin-based CarOnSale, a B2B marketplace for used car trading across Europe offering vehicle inspections and more, raised a €70M Series C led by Northzone &lpar;David Cendon Garcia/EU-Startups&rpar;](http://www.techmeme.com/250713/p1#a250713p1)
- - [Samsung agrees to acquire Seattle-based Xealth, which helps healthcare providers manage digital health tools and has raised over $50M, for an undisclosed sum &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250712/p18#a250712p18)<!-- TECH:END -->
+ - [Berlin-based CarOnSale, a B2B marketplace for used car trading across Europe offering vehicle inspections and more, raised a €70M Series C led by Northzone &lpar;David Cendon Garcia/EU-Startups&rpar;](http://www.techmeme.com/250713/p1#a250713p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

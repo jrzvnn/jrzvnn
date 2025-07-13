@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [A look at Xiaomi AI Glasses, launched in China on June 26 with a starting price of ~$278, featuring a 12MP ultra-wide camera and powered by Qualcomm&#39;s AR1 chip &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/250713/p7#a250713p7)
  - [For Algorithms, Memory Is a Far More Powerful Resource Than Time](https://www.wired.com/story/for-algorithms-a-little-memory-outweighs-a-lot-of-time/)
  - [Why GM’s CEO is still betting on electric vehicles &lpar;and racing&rpar;](https://www.theverge.com/gm-general-motors/705320/gm-ceo-mary-barra-interview-ev-cadillac-dei-trump)
- - [What Makes a Car Lovable? It&#39;s Not the Tech, It&#39;s the Cup Holders](https://www.wired.com/story/cup-holders-not-tech-makes-cars-lovable/)
- - [These LGBTQ+ Archives Defy Erasure, One Memory at a Time](https://www.wired.com/story/lgbtq-archives-defy-erasure-one-memory-at-a-time/)<!-- TECH:END -->
+ - [Best Satellite Internet Providers for July 2025](https://www.cnet.com/home/internet/best-satellite-internet/#ftag=CAD590a51e)
+ - [Microsoft Plans to Purge Passwords—Here&#39;s How to Protect Yours](https://www.cnet.com/tech/microsoft-plans-to-purge-passwords-heres-how-to-protect-yours/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

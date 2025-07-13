@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Indians being Indians in the US](http://9gag.com/gag/axymOwD)
- - 😝 [Nice shot](http://9gag.com/gag/a7on0zz)
- - 💣 [Finally, the moment we&#39;ve all been waiting for](http://9gag.com/gag/a4PwzOd)
+ - 😝 [Meanwhile in Indonesia](http://9gag.com/gag/ary8xRK)
+ - 😝 [When the boss asks if you can go one day without messing up, but you&#39;ve already penciled in today&#39;s mess-ups.](http://9gag.com/gag/aLnWGgW)
+ - 💣 [Akon&#39;s $6 Billion Futuristic `Wakanda` Mega-City in Senegal, Africa, has Reportedly been Abandoned](http://9gag.com/gag/a1mOVKv)
  - 😝 [This is how the Browning M2 .50 caliber machine guns were mounted in the left wing of an F4U-1 Corsair fighter. The Corsair carried six .50 caliber machine guns, three in each wing, giving it immense firepower. Pic of the plane in comments](http://9gag.com/gag/abARxdX)
- - 👉 [Japan&#39;s invisible demolition is a fascinating and efficient way to take down buildings without disturbing the peace. It&#39;s truly a marvel of engineering.](http://9gag.com/gag/awyeLBB)<!-- MEMES:END -->
+ - 👉 [Finally, the moment we&#39;ve all been waiting for](http://9gag.com/gag/a4PwzOd)<!-- MEMES:END -->
 
 ---
 

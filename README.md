@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Should You Skip the Iced Coffee This Summer Because of Dehydration?](https://www.cnet.com/health/medical/should-skip-iced-coffee-summer-dehydration/#ftag=CAD590a51e)
  - [There&#39;s little evidence that UAE-based Aqua 1 Foundation, the largest investor in Trump&#39;s World Liberty Financial after buying tokens worth $100M, exists at all &lpar;Jacob Silverman/The Nation&rpar;](http://www.techmeme.com/250713/p6#a250713p6)
  - [Honor Education, an e-learning service for individuals and enterprises founded by former Dean of Apple University Joel Podolny, raised a $38M Series A &lpar;Derek Newton/Forbes&rpar;](http://www.techmeme.com/250713/p5#a250713p5)
  - [NYC-based Vellum, which develops enterprise development tools for building, testing, and deploying AI-powered apps, raised a $20M Series A led by Leaders Fund &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250713/p4#a250713p4)
- - [Parspec, whose AI-powered workflow tool automates procurement processes in the construction supply chain, raised a $20M Series A led by Threshold Ventures &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/250713/p3#a250713p3)
- - [20% Off HP Coupon Code | July 2025](https://www.wired.com/story/hp-coupon-code/)<!-- TECH:END -->
+ - [Parspec, whose AI-powered workflow tool automates procurement processes in the construction supply chain, raised a $20M Series A led by Threshold Ventures &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/250713/p3#a250713p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

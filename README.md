@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at how Big Tech is faring in the Trump administration in terms of their executives&#39; ties with Trump, contracts, antitrust cases, tariffs, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250713/p12#a250713p12)
  - [Satellite imagery and eyewitness testimony reveal that online scam centers are proliferating rapidly in Myanmar despite a large-scale crackdown in February &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250713/p11#a250713p11)
  - [&#39;Alien: Earth&#39; immersive environment coming to Disney+ for Apple Vision Pro](https://appleinsider.com/articles/25/07/13/alien-earth-immersive-environment-coming-to-disney-for-apple-vision-pro?utm_medium=rss)
  - [Today&#39;s NYT Connections Hints, Answers and Help for July 14, #764](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-14-764/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 14 #498](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-14-498/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for July 14, #1486](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-14-1486/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 14 #498](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-14-498/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

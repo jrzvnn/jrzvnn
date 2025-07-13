@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best i can do is $800](http://9gag.com/gag/a7on2vx)
- - 😝 [When you smack me, I don&#39;t stop sucking.](http://9gag.com/gag/aRBRzQq)
- - 💣 [When you use the male filter and your friend can&#39;t believe it](http://9gag.com/gag/ajPRZN0)
- - 😝 [Kick a Man when he is down](http://9gag.com/gag/aNDjBYA)
- - 👉 [Nice shot](http://9gag.com/gag/a7on0zz)<!-- MEMES:END -->
+ - 😝 [Guy is asked what he&#39;d do if his sister... Left the city...](http://9gag.com/gag/a2vO27E)
+ - 😝 [Archive video #3](http://9gag.com/gag/aqyDQgv)
+ - 💣 [Job hopping is the fastest way to increase your salary, especially early in your career.](http://9gag.com/gag/aLnWGwx)
+ - 😝 [Nice shot](http://9gag.com/gag/a7on0zz)
+ - 👉 [Kick a Man when he is down](http://9gag.com/gag/aNDjBYA)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice shot](http://9gag.com/gag/a7on0zz)
+ - 😝 [Eliot Page looks like the type guy that would pull Ellen Page into a van.](http://9gag.com/gag/a7on9Ox)
+ - 😝 [He said he had work for them, that\u2019s why the ran away. It wasn\u2019t the gun](http://9gag.com/gag/axymOAM)
+ - 💣 [Meanwhile in Indonesia](http://9gag.com/gag/ary8xRK)
  - 😝 [Guy is asked what he&#39;d do if his sister... Left the city...](http://9gag.com/gag/a2vO27E)
- - 💣 [When you use the male filter and your friend can&#39;t believe it](http://9gag.com/gag/ajPRZN0)
- - 😝 [Meanwhile in Indonesia](http://9gag.com/gag/ary8xRK)
- - 👉 [He said he had work for them, that\u2019s why the ran away. It wasn\u2019t the gun](http://9gag.com/gag/axymOAM)<!-- MEMES:END -->
+ - 👉 [When you smack me, I don&#39;t stop sucking.](http://9gag.com/gag/aRBRzQq)<!-- MEMES:END -->
 
 ---
 

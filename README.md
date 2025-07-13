@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meanwhile in Indonesia](http://9gag.com/gag/ary8xRK)
- - 😝 [When the boss asks if you can go one day without messing up, but you&#39;ve already penciled in today&#39;s mess-ups.](http://9gag.com/gag/aLnWGgW)
- - 💣 [Akon&#39;s $6 Billion Futuristic `Wakanda` Mega-City in Senegal, Africa, has Reportedly been Abandoned](http://9gag.com/gag/a1mOVKv)
- - 😝 [This is how the Browning M2 .50 caliber machine guns were mounted in the left wing of an F4U-1 Corsair fighter. The Corsair carried six .50 caliber machine guns, three in each wing, giving it immense firepower. Pic of the plane in comments](http://9gag.com/gag/abARxdX)
- - 👉 [Finally, the moment we&#39;ve all been waiting for](http://9gag.com/gag/a4PwzOd)<!-- MEMES:END -->
+ - 😝 [When you smack me, I don&#39;t stop sucking.](http://9gag.com/gag/aRBRzQq)
+ - 😝 [Hot Wheels from 80&#39;s](http://9gag.com/gag/ajPRLR1)
+ - 💣 [No sacred cows. Arrest everyone involved.](http://9gag.com/gag/amoRm12)
+ - 😝 [Tetten of all sizes](http://9gag.com/gag/ary8X0p)
+ - 👉 [Rabbits are good](http://9gag.com/gag/an7G2Q5)<!-- MEMES:END -->
 
 ---
 

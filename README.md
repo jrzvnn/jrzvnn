@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Garmin Forerunner 970 Review: A Very Extra Running Watch](https://www.wired.com/review/garmin-forerunner-970/)
  - [iPhone 17 launch expected for week of September 8](https://appleinsider.com/articles/25/07/13/iphone-17-launch-expected-for-week-of-september-8?utm_medium=rss)
  - [Tim Cook won&#39;t get fired by Apple&#39;s board of directors -- and is likely to be chairman soon](https://appleinsider.com/articles/25/07/13/tim-cook-wont-get-fired-by-apples-board-of-directors----and-is-likely-to-be-chairman-soon?utm_medium=rss)
- - [LG Gram Pro 16 &lpar;2025&rpar; Review: Thin Is Still In](https://www.wired.com/review/lg-gram-pro-16-2025/)<!-- TECH:END -->
+ - [Best VPN for Mac for 2025: Hide Your Browsing, Privately Torrent and Unblock Streaming Services Like Netflix](https://www.cnet.com/tech/services-and-software/best-vpn-for-mac/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

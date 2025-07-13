@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How healthy relationships looks like](http://9gag.com/gag/aD2Q8dd)
+ - 😝 [When you smack me, I don&#39;t stop sucking.](http://9gag.com/gag/aRBRzQq)
+ - 😝 [No sacred cows. Arrest everyone involved.](http://9gag.com/gag/amoRm12)
+ - 💣 [Hot Wheels from 80&#39;s](http://9gag.com/gag/ajPRLR1)
  - 😝 [Tetten of all sizes](http://9gag.com/gag/ary8X0p)
- - 💣 [Akon&#39;s $6 Billion Futuristic `Wakanda` Mega-City in Senegal, Africa, has Reportedly been Abandoned](http://9gag.com/gag/a1mOVKv)
- - 😝 [Skill](http://9gag.com/gag/apRVDnM)
- - 👉 [And no one was surprised](http://9gag.com/gag/aMVqP5G)<!-- MEMES:END -->
+ - 👉 [Rabbits are good](http://9gag.com/gag/an7G2Q5)<!-- MEMES:END -->
 
 ---
 

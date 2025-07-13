@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kick a Man when he is down](http://9gag.com/gag/aNDjBYA)
- - 😝 [When your colleagues are living large on the same salary, and you&#39;re just trying to keep yourself afloat.](http://9gag.com/gag/a6ZG2dq)
- - 💣 [Guy is asked what he&#39;d do if his sister... Left the city...](http://9gag.com/gag/a2vO27E)
- - 😝 [Do you have the courage to shit !](http://9gag.com/gag/agmK4Zw)
- - 👉 [Eliot Page looks like the type guy that would pull Ellen Page into a van.](http://9gag.com/gag/a7on9Ox)<!-- MEMES:END -->
+ - 😝 [Nice shot](http://9gag.com/gag/a7on0zz)
+ - 😝 [Guy is asked what he&#39;d do if his sister... Left the city...](http://9gag.com/gag/a2vO27E)
+ - 💣 [When you use the male filter and your friend can&#39;t believe it](http://9gag.com/gag/ajPRZN0)
+ - 😝 [Meanwhile in Indonesia](http://9gag.com/gag/ary8xRK)
+ - 👉 [He said he had work for them, that\u2019s why the ran away. It wasn\u2019t the gun](http://9gag.com/gag/axymOAM)<!-- MEMES:END -->
 
 ---
 

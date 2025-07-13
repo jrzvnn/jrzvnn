@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [We Will Watch Your Career With Great Interest](http://9gag.com/gag/axymON2)
- - 😝 [Victim card declined!](http://9gag.com/gag/ayNvR7p)
- - 💣 [Yeet from this plane of existence](http://9gag.com/gag/a1mO528)
- - 😝 [How healthy relationships looks like](http://9gag.com/gag/aD2Q8dd)
- - 👉 [Akon&#39;s $6 Billion Futuristic `Wakanda` Mega-City in Senegal, Africa, has Reportedly been Abandoned](http://9gag.com/gag/a1mOVKv)<!-- MEMES:END -->
+ - 😝 [Remember this legend of a phone](http://9gag.com/gag/azx4Kmx)
+ - 💣 [When the boss asks if you can go one day without messing up, but you&#39;ve already penciled in today&#39;s mess-ups.](http://9gag.com/gag/aLnWGgW)
+ - 😝 [Life story of Russell Bonner Bentley](http://9gag.com/gag/a1mO02R)
+ - 👉 [Yeet from this plane of existence](http://9gag.com/gag/a1mO528)<!-- MEMES:END -->
 
 ---
 

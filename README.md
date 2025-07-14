@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to Open a Bottle of Wine Without a Corkscrew](http://9gag.com/gag/aW4R24x)
- - 😝 [Put Adam\u2019s family music](http://9gag.com/gag/ary8qXX)
- - 💣 [He said he had work for them, that\u2019s why the ran away. It wasn\u2019t the gun](http://9gag.com/gag/axymOAM)
- - 😝 [Oh no. He\u2019s hanging himself](http://9gag.com/gag/a34N8bm)
- - 👉 [When your colleagues are living large on the same salary, and you&#39;re just trying to keep yourself afloat.](http://9gag.com/gag/a6ZG2dq)<!-- MEMES:END -->
+ - 😝 [Do you have the courage to shit !](http://9gag.com/gag/agmK4Zw)
+ - 😝 [The ultimate language test for a seat at the table.](http://9gag.com/gag/aXPR7Ob)
+ - 💣 [Oh no. He\u2019s hanging himself](http://9gag.com/gag/a34N8bm)
+ - 😝 [Knee injuries are inevitable, it seems.](http://9gag.com/gag/a2vO2dd)
+ - 👉 [It&#39;s genetics](http://9gag.com/gag/axymPEW)<!-- MEMES:END -->
 
 ---
 

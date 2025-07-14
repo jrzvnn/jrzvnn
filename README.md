@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Where are the iPhone’s WebKit-less browsers?](https://www.theverge.com/news/706569/apple-ios-iphone-alternative-browser-webkit-owa)
  - [How the Finder is the real power macOS Tahoe feature](https://appleinsider.com/inside/macos-26/tips/how-the-finder-is-the-real-power-macos-tahoe-feature?utm_medium=rss)
  - [Now Jack Dorsey has built an app to track your vitamin D](https://www.theverge.com/news/706571/jack-dorsey-sun-day-vitamin-d-exposure-tracking-app)
  - [An interview with Google President of Android Ecosystem Sameer Samat, who says Google is going to combine &quot;ChromeOS and Android into a single platform&quot; &lpar;Lance Ulanoff/TechRadar&rpar;](http://www.techmeme.com/250714/p6#a250714p6)
- - [AI &#39;Nudify&#39; Websites Are Raking in Millions of Dollars](https://www.wired.com/story/ai-nudify-websites-are-raking-in-millions-of-dollars/)
- - [iPhone 17 enters trial production in India](https://appleinsider.com/articles/25/07/14/iphone-17-enters-trial-production-in-india?utm_medium=rss)<!-- TECH:END -->
+ - [AI &#39;Nudify&#39; Websites Are Raking in Millions of Dollars](https://www.wired.com/story/ai-nudify-websites-are-raking-in-millions-of-dollars/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

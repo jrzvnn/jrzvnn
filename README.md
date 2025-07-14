@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best i can do is $800](http://9gag.com/gag/a7on2vx)
- - 😝 [\u201cWait... is this Pepechu for real?](http://9gag.com/gag/a87VwE1)
- - 💣 [Someone did this on the street!](http://9gag.com/gag/aBy4XQQ)
- - 😝 [Why so British???](http://9gag.com/gag/aQzyV82)
- - 👉 [Orks!](http://9gag.com/gag/aBy4XbO)<!-- MEMES:END -->
+ - 😝 [What a holiday.](http://9gag.com/gag/aO8ppGr)
+ - 😝 [Indians being Indians in the US](http://9gag.com/gag/axymOwD)
+ - 💣 [This is how the Browning M2 .50 caliber machine guns were mounted in the left wing of an F4U-1 Corsair fighter. The Corsair carried six .50 caliber machine guns, three in each wing, giving it immense firepower. Pic of the plane in comments](http://9gag.com/gag/abARxdX)
+ - 😝 [When God sends you metaphore](http://9gag.com/gag/aVvRLyy)
+ - 👉 [Fumble of the century](http://9gag.com/gag/aQzymKz)<!-- MEMES:END -->
 
 ---
 

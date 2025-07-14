@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [It&#39;s genetics](http://9gag.com/gag/axymPEW)
- - 😝 [He said he had work for them, that\u2019s why the ran away. It wasn\u2019t the gun](http://9gag.com/gag/axymOAM)
- - 💣 [Have a nice and clean day y`all](http://9gag.com/gag/aZZREr3)
- - 😝 [Meanwhile in Indonesia](http://9gag.com/gag/ary8xRK)
+ - 😝 [Kick a Man when he is down](http://9gag.com/gag/aNDjBYA)
+ - 💣 [If video games have taught me one thing.](http://9gag.com/gag/ae9RVLW)
+ - 😝 [Knee injuries are inevitable, it seems.](http://9gag.com/gag/a2vO2dd)
  - 👉 [Oh no. He\u2019s hanging himself](http://9gag.com/gag/a34N8bm)<!-- MEMES:END -->
 
 ---

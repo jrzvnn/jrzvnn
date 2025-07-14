@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Third developer betas are out for iOS 18.6, iPadOS 18.6, macOS Sequoia 15.6](https://appleinsider.com/articles/25/07/14/third-developer-betas-are-out-for-ios-186-ipados-186-macos-sequoia-156?utm_medium=rss)
- - [Anthropic now uses Canva&#39;s MCP server, letting Canva users manage designs via Claude&#39;s UI, following similar integrations with Figma, Notion, Stripe, and Prisma &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250714/p19#a250714p19)
- - [The US DOD announces OpenAI, Google, Anthropic, and xAI have each won contracts with a $200M ceiling, aimed at enabling agentic AI national security workflows &lpar;Deborah Sophia/Reuters&rpar;](http://www.techmeme.com/250714/p18#a250714p18)
- - [Adobe Analytics: Prime Day&#39;s four-day event drove over $24B in US e-commerce sales, up 30.3% YoY; traffic from generative AI sources was up 3,300% YoY &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250714/p17#a250714p17)
- - [Anthropic&amp;#8217;s Claude chatbot can now make and edit your Canva designs](https://www.theverge.com/news/706637/canva-anthropic-claude-ai-mcp-support)<!-- TECH:END -->
+ - [Cognition acquires Windsurf, saying Windsurf employees will have vesting cliffs waived and receive fully accelerated vesting for their work to date &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/250714/p22#a250714p22)
+ - [Tesla’s Autopilot is under scrutiny in a rare jury trial](https://www.theverge.com/news/706634/tesla-autopilot-jury-trial-wrongful-death-florida)
+ - [Sources: ByteDance is working on a lightweight MR device that resembles goggles, tethered to a compute puck, and has a team working on the device&#39;s custom chips &lpar;The Information&rpar;](http://www.techmeme.com/250714/p21#a250714p21)
+ - [Google&amp;#8217;s curated AI &amp;#8216;notebooks&amp;#8217; talk you through topics from parenting to Shakespeare](https://www.theverge.com/news/706854/google-notebooklm-featured-notebook-ai-topics)
+ - [US government announces $200 million Grok contract a week after ‘MechaHitler’ incident](https://www.theverge.com/news/706855/grok-mechahitler-xai-defense-department-contract)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

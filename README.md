@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Car Noises](http://9gag.com/gag/azx4O2b)
- - 😝 [The internet knows too much about relationships](http://9gag.com/gag/amoRp94)
- - 💣 [Kids in supermarket when parents say No](http://9gag.com/gag/aO8p1o3)
- - 😝 [Orks!](http://9gag.com/gag/aBy4XbO)
- - 👉 [King Kong climbing the Empire State Building again, but this time with drones](http://9gag.com/gag/a7onp7L)<!-- MEMES:END -->
+ - 😝 [When your colleagues are living large on the same salary, and you&#39;re just trying to keep yourself afloat.](http://9gag.com/gag/a6ZG2dq)
+ - 😝 [Calming the Hulk down is a team effort, but Tony&#39;s approach is definitely unique.](http://9gag.com/gag/a87V2yV)
+ - 💣 [Knee injuries are inevitable, it seems.](http://9gag.com/gag/a2vO2dd)
+ - 😝 [He said he had work for them, that\u2019s why the ran away. It wasn\u2019t the gun](http://9gag.com/gag/axymOAM)
+ - 👉 [Oh no. He\u2019s hanging himself](http://9gag.com/gag/a34N8bm)<!-- MEMES:END -->
 
 ---
 

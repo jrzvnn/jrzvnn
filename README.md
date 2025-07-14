@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Google President of Android Ecosystem Sameer Samat, who says Google is going to combine &quot;ChromeOS and Android into a single platform&quot; &lpar;Lance Ulanoff/TechRadar&rpar;](http://www.techmeme.com/250714/p6#a250714p6)
+ - [AI &#39;Nudify&#39; Websites Are Raking in Millions of Dollars](https://www.wired.com/story/ai-nudify-websites-are-raking-in-millions-of-dollars/)
+ - [iPhone 17 enters trial production in India](https://appleinsider.com/articles/25/07/14/iphone-17-enters-trial-production-in-india?utm_medium=rss)
  - [Republican House leaders anticipate passing the GENIUS Act along with considering two other crypto bills, as the House kicks off a regulatory Crypto Week &lpar;Yash Roy/Bloomberg&rpar;](http://www.techmeme.com/250714/p5#a250714p5)
- - [Jensen Huang says Chinese military is unlikely to use Nvidia&#39;s AI chips, citing the risk of the chips being &quot;limited at any time&quot; due to US export restrictions &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250714/p4#a250714p4)
- - [Google exec: ‘We’re going to be combining ChromeOS and Android’](https://www.theverge.com/news/706558/google-android-chromeos-combining-sameer-samat)
- - [Can You Lose Weight and Gain Strength on a Vibration Plate? We Consulted Fitness Experts](https://www.cnet.com/health/fitness/can-lose-weight-gain-strength-vibration-plate-consulted-fitness-experts/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 14, #764](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-14-764/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Ridiculously Thin Galaxy Z Flip 7 Is Sturdy AF. Ask Me How I Know](https://www.cnet.com/tech/mobile/the-ridiculously-thin-galaxy-z-flip-7-is-sturdy-af-ask-me-how-i-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

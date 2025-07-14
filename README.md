@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bitcoin reached a new all-time high of over $121K, up about 30% since December 2024, after more than doubling in value in 2024 &lpar;Kirk Ogunrinde/Bloomberg&rpar;](http://www.techmeme.com/250714/p1#a250714p1)
  - [A look at WindBorne, which uses weather balloons and AI to improve forecasting, as potential budget cuts to NOAA threaten its access to public weather data &lpar;Tim Fernholz/New York Times&rpar;](http://www.techmeme.com/250713/p14#a250713p14)
  - [Dyson Reveals Futuristic Farming Vision](https://www.cnet.com/science/biology/dyson-reveals-futuristic-farming-vision/#ftag=CAD590a51e)
  - [Nielsen: Netflix&#39;s share of most-watched shows has dropped from 80%+ in 2021 to ~50%; Amazon, Apple, HBO Max, Hulu, and Paramount+ have shows in 2025&#39;s Top 10 &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250713/p13#a250713p13)
- - [A look at how Big Tech is faring in the Trump administration in terms of their executives&#39; ties with Trump, contracts, antitrust cases, tariffs, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250713/p12#a250713p12)
- - [Satellite imagery and eyewitness testimony reveal that online scam centers are proliferating rapidly in Myanmar despite a large-scale crackdown in February &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250713/p11#a250713p11)<!-- TECH:END -->
+ - [A look at how Big Tech is faring in the Trump administration in terms of their executives&#39; ties with Trump, contracts, antitrust cases, tariffs, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250713/p12#a250713p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

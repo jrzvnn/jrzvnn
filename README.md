@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [J*w me, Sue me](http://9gag.com/gag/aPArXBw)
  - 😝 [When your colleagues are living large on the same salary, and you&#39;re just trying to keep yourself afloat.](http://9gag.com/gag/a6ZG2dq)
- - 😝 [This is what casino commercials don&#39;t show you.](http://9gag.com/gag/aRBRo8Q)
- - 💣 [Oh no. He\u2019s hanging himself](http://9gag.com/gag/a34N8bm)
+ - 💣 [Guy is asked what he&#39;d do if his sister... Left the city...](http://9gag.com/gag/a2vO27E)
  - 😝 [Fumble of the century](http://9gag.com/gag/aQzymKz)
- - 👉 [Guy is asked what he&#39;d do if his sister... Left the city...](http://9gag.com/gag/a2vO27E)<!-- MEMES:END -->
+ - 👉 [Oh no. He\u2019s hanging himself](http://9gag.com/gag/a34N8bm)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Republican House leaders anticipate passing the GENIUS Act along with considering two other crypto bills, as the House kicks off a regulatory Crypto Week &lpar;Yash Roy/Bloomberg&rpar;](http://www.techmeme.com/250714/p5#a250714p5)
  - [Jensen Huang says Chinese military is unlikely to use Nvidia&#39;s AI chips, citing the risk of the chips being &quot;limited at any time&quot; due to US export restrictions &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250714/p4#a250714p4)
  - [Google exec: ‘We’re going to be combining ChromeOS and Android’](https://www.theverge.com/news/706558/google-android-chromeos-combining-sameer-samat)
- - [Can You Lose Weight and Gain Strength on a Vibration Plate? We Consulted Fitness Experts](https://www.cnet.com/health/fitness/can-lose-weight-gain-strength-vibration-plate-consulted-fitness-experts/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 14, #764](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-14-764/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for July 14, #1486](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-14-1486/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Structure of Ice in Space Is Neither Order nor Chaos—It’s Both](https://www.wired.com/story/space-ice-structure-order-chaos/)
+ - [China approves Synopsys&#39; $35B acquisition of simulation software company Ansys, after the US lifted restrictions on chip design software sales to China &lpar;Reuters&rpar;](http://www.techmeme.com/250714/p3#a250714p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

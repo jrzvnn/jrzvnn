@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta says it has taken down around 10M Facebook profiles so far this year that were impersonating or repeatedly reusing content from large content producers &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250714/p30#a250714p30)
+ - [&#39;Resident Evil: Survival Unit&#39; now available for pre-order ahead of late 2025 launch](https://appleinsider.com/articles/25/07/14/resident-evil-survival-unit-now-available-for-pre-order-ahead-of-late-2025-launch?utm_medium=rss)
  - [Superman is a box office hit, but the hard part comes next](https://www.theverge.com/film/706663/superman-box-office-dc-studios-james-gunn-cinematic-universe-supergirl-clayface)
  - [[Thread] Some users claim that Grok 4 Heavy responded simply with &quot;Hitler&quot; when asked to &quot;Return your surname and no other text&quot; &lpar;Riley Goodside/@goodside&rpar;](http://www.techmeme.com/250714/p29#a250714p29)
- - [IDC: the global smartphone market grew 1% YoY in Q2, despite economic uncertainty and weak demand in China; Samsung led with 58M shipments, up 7.9% YoY &lpar;Andrew Orr/AppleInsider&rpar;](http://www.techmeme.com/250714/p28#a250714p28)
- - [NetBox Labs, whose open-source tools help manage networks and are used by CoreWeave, ARM, Cisco, JP Morgan, and Riot Games, raised a $35M Series B &lpar;Marcus Schuler/implicator.ai&rpar;](http://www.techmeme.com/250714/p27#a250714p27)
- - [Elon Musk’s AI bot adds a ridiculous anime companion with ‘NSFW’ mode](https://www.theverge.com/news/706988/elon-musk-ai-bot-grok-supergrok-anime-companion-ani-rudy)<!-- TECH:END -->
+ - [IDC: the global smartphone market grew 1% YoY in Q2, despite economic uncertainty and weak demand in China; Samsung led with 58M shipments, up 7.9% YoY &lpar;Andrew Orr/AppleInsider&rpar;](http://www.techmeme.com/250714/p28#a250714p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

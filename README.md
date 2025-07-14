@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you use the male filter and your friend can&#39;t believe it](http://9gag.com/gag/ajPRZN0)
- - 😝 [Akon&#39;s $6 Billion Futuristic `Wakanda` Mega-City in Senegal, Africa, has Reportedly been Abandoned](http://9gag.com/gag/a1mOVKv)
- - 💣 [Oh no. He\u2019s hanging himself](http://9gag.com/gag/a34N8bm)
- - 😝 [When your colleagues are living large on the same salary, and you&#39;re just trying to keep yourself afloat.](http://9gag.com/gag/a6ZG2dq)
- - 👉 [Guy is asked what he&#39;d do if his sister... Left the city...](http://9gag.com/gag/a2vO27E)<!-- MEMES:END -->
+ - 😝 [The internet knows too much about relationships](http://9gag.com/gag/amoRp94)
+ - 😝 [Car Noises](http://9gag.com/gag/azx4O2b)
+ - 💣 [King Kong climbing the Empire State Building again, but this time with drones](http://9gag.com/gag/a7onp7L)
+ - 😝 [Kids in supermarket when parents say No](http://9gag.com/gag/aO8p1o3)
+ - 👉 [Orks!](http://9gag.com/gag/aBy4XbO)<!-- MEMES:END -->
 
 ---
 

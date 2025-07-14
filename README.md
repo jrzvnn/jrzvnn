@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best i can do is $800](http://9gag.com/gag/a7on2vx)
- - 😝 [King Kong climbing the Empire State Building again, but this time with drones](http://9gag.com/gag/a7onp7L)
- - 💣 [Someone did this on the street!](http://9gag.com/gag/aBy4XQQ)
- - 😝 [Orks!](http://9gag.com/gag/aBy4XbO)
- - 👉 [Possibly a repost](http://9gag.com/gag/aZZRzGW)<!-- MEMES:END -->
+ - 😝 [After two years of being together, I opened a caf\u00e9 with my goth girlfriend :&rpar;](http://9gag.com/gag/a87VKN3)
+ - 😝 [J*w me, Sue me](http://9gag.com/gag/aPArXBw)
+ - 💣 [When God sends you metaphore](http://9gag.com/gag/aVvRLyy)
+ - 😝 [The ultimate language test for a seat at the table.](http://9gag.com/gag/aXPR7Ob)
+ - 👉 [This is what casino commercials don&#39;t show you.](http://9gag.com/gag/aRBRo8Q)<!-- MEMES:END -->
 
 ---
 

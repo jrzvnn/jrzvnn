@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s genetics](http://9gag.com/gag/axymPEW)
- - 😝 [Kick a Man when he is down](http://9gag.com/gag/aNDjBYA)
- - 💣 [If video games have taught me one thing.](http://9gag.com/gag/ae9RVLW)
+ - 😝 [Guy is asked what he&#39;d do if his sister... Left the city...](http://9gag.com/gag/a2vO27E)
+ - 😝 [Actual size of bears](http://9gag.com/gag/aPAr8Nw)
+ - 💣 [Victim card declined!](http://9gag.com/gag/ayNvR7p)
  - 😝 [Knee injuries are inevitable, it seems.](http://9gag.com/gag/a2vO2dd)
- - 👉 [Oh no. He\u2019s hanging himself](http://9gag.com/gag/a34N8bm)<!-- MEMES:END -->
+ - 👉 [When your colleagues are living large on the same salary, and you&#39;re just trying to keep yourself afloat.](http://9gag.com/gag/a6ZG2dq)<!-- MEMES:END -->
 
 ---
 

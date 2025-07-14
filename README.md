@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Every Best Buy store will have Nintendo Switch 2 consoles on July 17th](https://www.theverge.com/tech/706677/nintendo-switch-2-restock-best-buy-in-store)
+ - [Microsoft has a new trick to improve laptop battery life on Windows](https://www.theverge.com/news/706682/microsoft-windows-11-adaptive-energy-saver-feature)
  - [Amazon&#39;s top $279 iPad 11 deal is back, but supply is limited](https://appleinsider.com/articles/25/07/14/amazons-top-279-ipad-11-deal-is-back-but-supply-is-limited?utm_medium=rss)
  - [Hype drop: Sketchy leaker risks reputation to cash in with iPhone 17 cases](https://appleinsider.com/articles/25/07/14/hype-drop-sketchy-leaker-risks-reputation-to-cash-in-with-iphone-17-cases?utm_medium=rss)
- - [Mark Zuckerberg says Meta is building multi-gigawatt datacenter &quot;clusters&quot;, starting with a massive datacenter called Prometheus that will come online in 2026 &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/250714/p16#a250714p16)
- - [Google’s Pixel 8 Pro is $599, and includes a free Pixel Watch 2](https://www.theverge.com/tech/706611/google-pixel-8-pro-watch-2-free-steam-pc-deal-sale)
- - [iPhone 17 colors include a new orange-like Pro model](https://appleinsider.com/articles/25/07/14/iphone-17-colors-include-a-new-orange-like-pro-model?utm_medium=rss)<!-- TECH:END -->
+ - [Mark Zuckerberg says Meta is building multi-gigawatt datacenter &quot;clusters&quot;, starting with a massive datacenter called Prometheus that will come online in 2026 &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/250714/p16#a250714p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for July 14, #294](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-14-294/#ftag=CAD590a51e)
  - [Internet Matters survey of 1,000 UK kids aged 9 to 17: 67% say they use AI chatbots regularly; of that group, 35% say it feels like talking to a friend &lpar;Noor Al-Sibai/Futurism&rpar;](http://www.techmeme.com/250714/p2#a250714p2)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, July 14](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-july-14/#ftag=CAD590a51e)
  - [Bitcoin reached a new all-time high of over $121K, up about 30% since December 2024, after more than doubling in value in 2024 &lpar;Kirk Ogunrinde/Bloomberg&rpar;](http://www.techmeme.com/250714/p1#a250714p1)
- - [A look at WindBorne, which uses weather balloons and AI to improve forecasting, as potential budget cuts to NOAA threaten its access to public weather data &lpar;Tim Fernholz/New York Times&rpar;](http://www.techmeme.com/250713/p14#a250713p14)
- - [Dyson Reveals Futuristic Farming Vision](https://www.cnet.com/science/biology/dyson-reveals-futuristic-farming-vision/#ftag=CAD590a51e)
- - [Nielsen: Netflix&#39;s share of most-watched shows has dropped from 80%+ in 2021 to ~50%; Amazon, Apple, HBO Max, Hulu, and Paramount+ have shows in 2025&#39;s Top 10 &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250713/p13#a250713p13)<!-- TECH:END -->
+ - [A look at WindBorne, which uses weather balloons and AI to improve forecasting, as potential budget cuts to NOAA threaten its access to public weather data &lpar;Tim Fernholz/New York Times&rpar;](http://www.techmeme.com/250713/p14#a250713p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

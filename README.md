@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NetBox Labs, whose open-source tools help manage networks and are used by CoreWeave, ARM, Cisco, JP Morgan, and Riot Games, raised a $35M Series B &lpar;Marcus Schuler/implicator.ai&rpar;](http://www.techmeme.com/250714/p27#a250714p27)
+ - [Elon Musk’s AI bot adds a ridiculous anime companion with ‘NSFW’ mode](https://www.theverge.com/news/706988/elon-musk-ai-bot-grok-supergrok-anime-companion-ani-rudy)
  - [Bose is offering an extra 25% off refurbished headphones, earbuds, and portable speakers](https://www.theverge.com/tech/706887/bose-refurbished-quietcomfort-headphones-earbuds-deal-sale)
  - [Google adds featured notebooks to NotebookLM from publications, including The Economist and The Atlantic, as well as professors, authors, and select works &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250714/p26#a250714p26)
- - [Apple gains in emerging markets while China demand slows](https://appleinsider.com/articles/25/07/14/apple-gains-in-emerging-markets-while-china-demand-slows?utm_medium=rss)
- - [Analysis of 10 crypto exchanges: on average they took four days to list $TRUMP, whereas the other top four meme coins since 2022 took 129 days to be listed &lpar;Reuters&rpar;](http://www.techmeme.com/250714/p25#a250714p25)
- - [Sources: Meta&#39;s new superintelligence lab led by Alexandr Wang discussed abandoning its top open-source model, Behemoth, in favor of developing a closed model &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/250714/p24#a250714p24)<!-- TECH:END -->
+ - [Apple gains in emerging markets while China demand slows](https://appleinsider.com/articles/25/07/14/apple-gains-in-emerging-markets-while-china-demand-slows?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

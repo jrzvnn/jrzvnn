@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 colors include a new orange-like Pro model](https://appleinsider.com/articles/25/07/14/iphone-17-colors-include-a-new-orange-like-pro-model?utm_medium=rss)
- - [Amazon launches Kiro, an IDE that aims to bridge the gap between rapidly vibe-coded prototypes and production-ready systems &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250714/p15#a250714p15)
- - [Apple still effectively blocks rival browser engines on iOS despite EU order](https://appleinsider.com/articles/25/07/14/apple-still-effectively-blocks-rival-browser-engines-on-ios-despite-eu-order?utm_medium=rss)
- - [Moonvalley, which is developing &quot;ethical&quot; AI video models trained on licensed content, raised $84M led by General Catalyst, bringing its total funding to $154M &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250714/p14#a250714p14)
- - [Hype drop: Sketchy leaker risks reputation to cash in with iPhone 17 cases](https://appleinsider.com/articles/25/07/14/hype-drop-sketchy-leaker-risks-reputation-to-cash-in-with-iphone-17-cases?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon&#39;s top $279 iPad 11 deal is back, but supply is limited](https://appleinsider.com/articles/25/07/14/amazons-top-279-ipad-11-deal-is-back-but-supply-is-limited?utm_medium=rss)
+ - [Hype drop: Sketchy leaker risks reputation to cash in with iPhone 17 cases](https://appleinsider.com/articles/25/07/14/hype-drop-sketchy-leaker-risks-reputation-to-cash-in-with-iphone-17-cases?utm_medium=rss)
+ - [Mark Zuckerberg says Meta is building multi-gigawatt datacenter &quot;clusters&quot;, starting with a massive datacenter called Prometheus that will come online in 2026 &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/250714/p16#a250714p16)
+ - [Google’s Pixel 8 Pro is $599, and includes a free Pixel Watch 2](https://www.theverge.com/tech/706611/google-pixel-8-pro-watch-2-free-steam-pc-deal-sale)
+ - [iPhone 17 colors include a new orange-like Pro model](https://appleinsider.com/articles/25/07/14/iphone-17-colors-include-a-new-orange-like-pro-model?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

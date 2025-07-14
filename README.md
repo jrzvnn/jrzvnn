@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My favourite castle &lpar;because of reasons&rpar; - San Francisco Armory](http://9gag.com/gag/a6ZGpZ9)
- - 😝 [Meanwhile in Indonesia](http://9gag.com/gag/ary8xRK)
- - 💣 [Oh no. He\u2019s hanging himself](http://9gag.com/gag/a34N8bm)
- - 😝 [This is how the Browning M2 .50 caliber machine guns were mounted in the left wing of an F4U-1 Corsair fighter. The Corsair carried six .50 caliber machine guns, three in each wing, giving it immense firepower. Pic of the plane in comments](http://9gag.com/gag/abARxdX)
- - 👉 [If video games have taught me one thing.](http://9gag.com/gag/ae9RVLW)<!-- MEMES:END -->
+ - 😝 [Orks!](http://9gag.com/gag/aBy4XbO)
+ - 😝 [Fake life](http://9gag.com/gag/aQzyZwr)
+ - 💣 [Have a nice and clean day y`all](http://9gag.com/gag/aZZREr3)
+ - 😝 [J*w me, Sue me](http://9gag.com/gag/aPArXBw)
+ - 👉 [Car Noises](http://9gag.com/gag/azx4O2b)<!-- MEMES:END -->
 
 ---
 

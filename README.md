@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Google exec: ‘We’re going to be combining ChromeOS and Android’](https://www.theverge.com/news/706558/google-android-chromeos-combining-sameer-samat)
  - [The Structure of Ice in Space Is Neither Order nor Chaos—It’s Both](https://www.wired.com/story/space-ice-structure-order-chaos/)
- - [China approves Synopsys&#39; acquisition of simulation software company Ansys, after the US lifted restrictions on chip design software sales to China &lpar;Reuters&rpar;](http://www.techmeme.com/250714/p3#a250714p3)
+ - [China approves Synopsysâ€™ $35B acquisition of simulation software company Ansys, after the US lifted restrictions on chip design software sales to China &lpar;Reuters&rpar;](http://www.techmeme.com/250714/p3#a250714p3)
  - [Le Wand Dive Review: A Waterproof Wand Vibrator](https://www.wired.com/review/le-wand-dive/)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for July 14, #294](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-14-294/#ftag=CAD590a51e)<!-- TECH:END -->
 

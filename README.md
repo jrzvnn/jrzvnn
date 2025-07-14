@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Moonvalley, which is developing &quot;ethical&quot; AI video models trained on licensed content, raised $84M led by General Catalyst, bringing its total funding to $154M &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250714/p14#a250714p14)
+ - [Hype drop: Sketchy leaker risks reputation to cash in with iPhone 17 cases](https://appleinsider.com/articles/25/07/14/hype-drop-sketchy-leaker-risks-reputation-to-cash-in-with-iphone-17-cases?utm_medium=rss)
  - [Connect four 4K screens to any Apple Silicon Mac with OWC&#39;s new Quad HDMI adapter](https://appleinsider.com/articles/25/07/14/connect-four-4k-screens-to-any-apple-silicon-mac-with-owcs-new-quad-hdmi-adapter?utm_medium=rss)
  - [Texas governor says his emails with Elon Musk are too ‘intimate or embarrassing’ to release](https://www.theverge.com/news/706635/texas-governor-greg-abbott-elon-musk-emails-refusal)
- - [Crypto asset manager Grayscale confidentially files draft IPO paperwork with the US SEC, offering few details; the DCG subsidiary manages $30B+ &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/250714/p13#a250714p13)
- - [How AI can make us better decision-makers, with Cassie Kozyrkov](https://www.theverge.com/decoder-podcast-with-nilay-patel/703269/cassie-kozyrkov-interview-ai-google-decision-scientist)
- - [A Donkey Kong movie is a safe bet for Nintendo&amp;#8217;s growing entertainment empire](https://www.theverge.com/analysis/706610/donkey-kong-movie-copyright-notice-nintendo-strategy)<!-- TECH:END -->
+ - [Crypto asset manager Grayscale confidentially files draft IPO paperwork with the US SEC, offering few details; the DCG subsidiary manages $30B+ &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/250714/p13#a250714p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

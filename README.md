@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic now uses Canva&#39;s MCP server, letting Canva users manage designs via Claude&#39;s UI, following similar integrations with Figma, Notion, Stripe, and Prisma &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250714/p19#a250714p19)
  - [The US DOD announces OpenAI, Google, Anthropic, and xAI have won DOD contracts, each with a $200M ceiling, aimed at enabling agentic AI workflows and more &lpar;Deborah Sophia/Reuters&rpar;](http://www.techmeme.com/250714/p18#a250714p18)
  - [Adobe Analytics: Prime Day&#39;s four-day event drove over $24B in US e-commerce sales, up 30.3% YoY; traffic from generative AI sources was up 3,300% YoY &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250714/p17#a250714p17)
  - [Anthropic&amp;#8217;s Claude chatbot can now make and edit your Canva designs](https://www.theverge.com/news/706637/canva-anthropic-claude-ai-mcp-support)
- - [Lose yourself in an astoundingly beautiful and absorbing history of macOS settings](https://appleinsider.com/articles/25/07/14/lose-yourself-in-an-astoundingly-beautiful-and-absorbing-history-of-macos-settings?utm_medium=rss)
- - [Google Will Merge Android and ChromeOS, Exec Says. That&#39;s Taking a Page out of the Apple Playbook](https://www.cnet.com/tech/services-and-software/google-will-merge-android-and-chromeos-exec-says-thats-taking-a-page-out-of-the-apple-playbook/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lose yourself in an astoundingly beautiful and absorbing history of macOS settings](https://appleinsider.com/articles/25/07/14/lose-yourself-in-an-astoundingly-beautiful-and-absorbing-history-of-macos-settings?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

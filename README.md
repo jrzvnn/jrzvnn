@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guy is asked what he&#39;d do if his sister... Left the city...](http://9gag.com/gag/a2vO27E)
- - 😝 [Actual size of bears](http://9gag.com/gag/aPAr8Nw)
- - 💣 [Victim card declined!](http://9gag.com/gag/ayNvR7p)
- - 😝 [Knee injuries are inevitable, it seems.](http://9gag.com/gag/a2vO2dd)
- - 👉 [When your colleagues are living large on the same salary, and you&#39;re just trying to keep yourself afloat.](http://9gag.com/gag/a6ZG2dq)<!-- MEMES:END -->
+ - 😝 [When your colleagues are living large on the same salary, and you&#39;re just trying to keep yourself afloat.](http://9gag.com/gag/a6ZG2dq)
+ - 😝 [Meanwhile in Indonesia](http://9gag.com/gag/ary8xRK)
+ - 💣 [The moment you realize it&#39;s feeding time](http://9gag.com/gag/a4Pw2Qd)
+ - 😝 [Kick a Man when he is down](http://9gag.com/gag/aNDjBYA)
+ - 👉 [This is how the Browning M2 .50 caliber machine guns were mounted in the left wing of an F4U-1 Corsair fighter. The Corsair carried six .50 caliber machine guns, three in each wing, giving it immense firepower. Pic of the plane in comments](http://9gag.com/gag/abARxdX)<!-- MEMES:END -->
 
 ---
 

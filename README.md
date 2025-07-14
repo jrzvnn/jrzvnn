@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Meta&#39;s new superintelligence lab led by Alexandr Wang has mulled abandoning its top open-source model, Behemoth, in favor of developing a closed model &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/250714/p24#a250714p24)
  - [Google Cloud has competed well against AWS in AI, attracting business from The Browser Company, Safe Superintelligence, Thinking Machines Lab, and OpenAI &lpar;Kevin McLaughlin/The Information&rpar;](http://www.techmeme.com/250714/p23#a250714p23)
- - [It&#39;s Not Just Epstein. MAGA Is Angry About a Lot of Things](https://www.wired.com/story/jeffrey-epstein-list-maga-angry-trump/)
- - [Cognition acquires Windsurf, saying Windsurf employees will have vesting cliffs waived and receive fully accelerated vesting for their work to date &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/250714/p22#a250714p22)
- - [Tesla’s Autopilot is under scrutiny in a rare jury trial](https://www.theverge.com/news/706634/tesla-autopilot-jury-trial-wrongful-death-florida)
- - [Sources: ByteDance is working on a lightweight MR device that resembles goggles, tethered to a compute puck, and has a team working on the device&#39;s custom chips &lpar;The Information&rpar;](http://www.techmeme.com/250714/p21#a250714p21)<!-- TECH:END -->
+ - [Xbox Ally Gaming Handheld Price Could Be Higher Than Expected, Leak Suggests](https://www.cnet.com/tech/gaming/xbox-ally-gaming-handheld-price-could-be-higher-than-expected-leak-suggests/#ftag=CAD590a51e)
+ - [Best Internet Providers in Anaheim, California](https://www.cnet.com/home/internet/best-internet-providers-in-anaheim-ca/#ftag=CAD590a51e)
+ - [It&#39;s Not Just Epstein. MAGA Is Angry About a Lot of Things](https://www.wired.com/story/jeffrey-epstein-list-maga-angry-trump/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Donkey Kong movie is a safe bet for Nintendo&amp;#8217;s growing entertainment empire](https://www.theverge.com/analysis/706610/donkey-kong-movie-copyright-notice-nintendo-strategy)
+ - [CSET researchers: China&#39;s SMEE has only a 4% market share in older-generation chip lithography, far below ASML and Nikon, a &quot;chokepoint&quot; for China&#39;s chip plans &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250714/p12#a250714p12)
+ - [Discord launches Orbs, a virtual reward system that incentivizes users to interact with ads by completing Quests to earn digital items, after a seven week beta &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250714/p11#a250714p11)
  - [Tesla is set to face a Florida federal jury to defend allegations that Autopilot was at fault in a fatal 2019 crash, as it tests autonomous robotaxis in Austin &lpar;Trisha Thadani/Washington Post&rpar;](http://www.techmeme.com/250714/p10#a250714p10)
- - [Ikea&#39;s smart home master plan, Aqara G410, and more on the HomeKit Insider Podcast](https://appleinsider.com/articles/25/07/14/ikeas-smart-home-master-plan-aqara-g410-and-more-on-the-homekit-insider-podcast?utm_medium=rss)
- - [Microsoft will halt new Office features for Windows 10 in 2026](https://www.theverge.com/news/706586/microsoft-365-office-app-features-windows-10-end-of-life-2026)
- - [An Indicator analysis of 85 AI &quot;nudify&quot; websites: the sites averaged 18.5M monthly visitors, may generate up to $36M annually, and rely on Big Tech services &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/250714/p9#a250714p9)
- - [A four-day US military drone exercise in Alaska exposed significant technological and operational gaps compared to Chinese and Russian drone capabilities &lpar;Farah Stockman/New York Times&rpar;](http://www.techmeme.com/250714/p8#a250714p8)<!-- TECH:END -->
+ - [Ikea&#39;s smart home master plan, Aqara G410, and more on the HomeKit Insider Podcast](https://appleinsider.com/articles/25/07/14/ikeas-smart-home-master-plan-aqara-g410-and-more-on-the-homekit-insider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

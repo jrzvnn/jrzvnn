@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Superman is a box office hit, but the hard part comes next](https://www.theverge.com/film/706663/superman-box-office-dc-studios-james-gunn-cinematic-universe-supergirl-clayface)
  - [[Thread] Some users claim that Grok 4 Heavy responded simply with &quot;Hitler&quot; when asked to &quot;Return your surname and no other text&quot; &lpar;Riley Goodside/@goodside&rpar;](http://www.techmeme.com/250714/p29#a250714p29)
  - [IDC: the global smartphone market grew 1% YoY in Q2, despite economic uncertainty and weak demand in China; Samsung led with 58M shipments, up 7.9% YoY &lpar;Andrew Orr/AppleInsider&rpar;](http://www.techmeme.com/250714/p28#a250714p28)
  - [NetBox Labs, whose open-source tools help manage networks and are used by CoreWeave, ARM, Cisco, JP Morgan, and Riot Games, raised a $35M Series B &lpar;Marcus Schuler/implicator.ai&rpar;](http://www.techmeme.com/250714/p27#a250714p27)
- - [Elon Musk’s AI bot adds a ridiculous anime companion with ‘NSFW’ mode](https://www.theverge.com/news/706988/elon-musk-ai-bot-grok-supergrok-anime-companion-ani-rudy)
- - [iPhone 17 Colors: Rumor Has It This Familiar Hue Could Be Limited to Just One iPhone Model](https://www.cnet.com/tech/mobile/iphone-17-colors-rumor-has-it-this-familiar-hue-could-be-limited-to-just-one-iphone-model/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk’s AI bot adds a ridiculous anime companion with ‘NSFW’ mode](https://www.theverge.com/news/706988/elon-musk-ai-bot-grok-supergrok-anime-companion-ani-rudy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

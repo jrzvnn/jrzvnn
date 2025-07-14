@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guy is asked what he&#39;d do if his sister... Left the city...](http://9gag.com/gag/a2vO27E)
- - 😝 [Doppler effect](http://9gag.com/gag/aE0ZDVp)
- - 💣 [Knee injuries are inevitable, it seems.](http://9gag.com/gag/a2vO2dd)
- - 😝 [Akon&#39;s $6 Billion Futuristic `Wakanda` Mega-City in Senegal, Africa, has Reportedly been Abandoned](http://9gag.com/gag/a1mOVKv)
- - 👉 [Calming the Hulk down is a team effort, but Tony&#39;s approach is definitely unique.](http://9gag.com/gag/a87V2yV)<!-- MEMES:END -->
+ - 😝 [This is how the Browning M2 .50 caliber machine guns were mounted in the left wing of an F4U-1 Corsair fighter. The Corsair carried six .50 caliber machine guns, three in each wing, giving it immense firepower. Pic of the plane in comments](http://9gag.com/gag/abARxdX)
+ - 😝 [Knee injuries are inevitable, it seems.](http://9gag.com/gag/a2vO2dd)
+ - 💣 [A man spends 72 hours in a cage with most venomous species of snakes](http://9gag.com/gag/apRVx0B)
+ - 😝 [Calming the Hulk down is a team effort, but Tony&#39;s approach is definitely unique.](http://9gag.com/gag/a87V2yV)
+ - 👉 [Guy is asked what he&#39;d do if his sister... Left the city...](http://9gag.com/gag/a2vO27E)<!-- MEMES:END -->
 
 ---
 

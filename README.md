@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guy is asked what he&#39;d do if his sister... Left the city...](http://9gag.com/gag/a2vO27E)
- - 😝 [Kick a Man when he is down](http://9gag.com/gag/aNDjBYA)
- - 💣 [Akon&#39;s $6 Billion Futuristic `Wakanda` Mega-City in Senegal, Africa, has Reportedly been Abandoned](http://9gag.com/gag/a1mOVKv)
- - 😝 [Oh no. He\u2019s hanging himself](http://9gag.com/gag/a34N8bm)
- - 👉 [He said he had work for them, that\u2019s why the ran away. It wasn\u2019t the gun](http://9gag.com/gag/axymOAM)<!-- MEMES:END -->
+ - 😝 [Fake life](http://9gag.com/gag/aQzyZwr)
+ - 😝 [Have a nice and clean day y`all](http://9gag.com/gag/aZZREr3)
+ - 💣 [J*w me, Sue me](http://9gag.com/gag/aPArXBw)
+ - 😝 [Orks!](http://9gag.com/gag/aBy4XbO)
+ - 👉 [Car Noises](http://9gag.com/gag/azx4O2b)<!-- MEMES:END -->
 
 ---
 

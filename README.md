@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why so British???](http://9gag.com/gag/aQzyV82)
- - 😝 [When God sends you metaphore](http://9gag.com/gag/aVvRLyy)
- - 💣 [Fumble of the century](http://9gag.com/gag/aQzymKz)
- - 😝 [Do your job anonymous or whoever](http://9gag.com/gag/aoynnXe)
- - 👉 [A gas station ?!](http://9gag.com/gag/aQzyZYw)<!-- MEMES:END -->
+ - 😝 [Best i can do is $800](http://9gag.com/gag/a7on2vx)
+ - 😝 [King Kong climbing the Empire State Building again, but this time with drones](http://9gag.com/gag/a7onp7L)
+ - 💣 [Someone did this on the street!](http://9gag.com/gag/aBy4XQQ)
+ - 😝 [Orks!](http://9gag.com/gag/aBy4XbO)
+ - 👉 [Possibly a repost](http://9gag.com/gag/aZZRzGW)<!-- MEMES:END -->
 
 ---
 

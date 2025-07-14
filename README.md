@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lose yourself in an astoundingly beautiful and absorbing history of macOS settings](https://appleinsider.com/articles/25/07/14/lose-yourself-in-an-astoundingly-beautiful-and-absorbing-history-of-macos-settings?utm_medium=rss)
  - [GM’s Final EV Battery Strategy Copies China’s Playbook: Super Cheap Cells](https://www.wired.com/story/gms-final-ev-battery-strategy-copies-chinas-playbook-super-cheap-cells/)
  - [HBO’s new Harry Potter series will premiere in 2027](https://www.theverge.com/news/706736/hbo-max-harry-potter-series-premiere-warner-bros-discovery)
  - [iPhone 17 Pro rumored to get a new orange color](https://appleinsider.com/articles/25/07/14/iphone-17-colors-include-a-new-orange-like-pro-model?utm_medium=rss)
- - [These are Sony’s new noise-canceling headphones for NFL coaches](https://www.theverge.com/news/705283/sony-nfl-technology-partner-anc-headset-coach)
- - [Pebblebee’s AirTag alternative now doubles as a panic alarm](https://www.theverge.com/news/706631/pebblebee-clip-tracker-android-ios-alert-safety-panic-alarm)<!-- TECH:END -->
+ - [These are Sony’s new noise-canceling headphones for NFL coaches](https://www.theverge.com/news/705283/sony-nfl-technology-partner-anc-headset-coach)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

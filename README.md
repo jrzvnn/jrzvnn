@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The internet knows too much about relationships](http://9gag.com/gag/amoRp94)
- - 😝 [Car Noises](http://9gag.com/gag/azx4O2b)
- - 💣 [King Kong climbing the Empire State Building again, but this time with drones](http://9gag.com/gag/a7onp7L)
- - 😝 [Kids in supermarket when parents say No](http://9gag.com/gag/aO8p1o3)
- - 👉 [Orks!](http://9gag.com/gag/aBy4XbO)<!-- MEMES:END -->
+ - 😝 [Outstanding move](http://9gag.com/gag/aQzy2oW)
+ - 😝 [Victim card declined!](http://9gag.com/gag/ayNvR7p)
+ - 💣 [Oh no. He\u2019s hanging himself](http://9gag.com/gag/a34N8bm)
+ - 😝 [He said he had work for them, that\u2019s why the ran away. It wasn\u2019t the gun](http://9gag.com/gag/axymOAM)
+ - 👉 [Akon&#39;s $6 Billion Futuristic `Wakanda` Mega-City in Senegal, Africa, has Reportedly been Abandoned](http://9gag.com/gag/a1mOVKv)<!-- MEMES:END -->
 
 ---
 

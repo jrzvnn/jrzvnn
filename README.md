@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how the Browning M2 .50 caliber machine guns were mounted in the left wing of an F4U-1 Corsair fighter. The Corsair carried six .50 caliber machine guns, three in each wing, giving it immense firepower. Pic of the plane in comments](http://9gag.com/gag/abARxdX)
  - 😝 [Knee injuries are inevitable, it seems.](http://9gag.com/gag/a2vO2dd)
- - 💣 [A man spends 72 hours in a cage with most venomous species of snakes](http://9gag.com/gag/apRVx0B)
- - 😝 [Calming the Hulk down is a team effort, but Tony&#39;s approach is definitely unique.](http://9gag.com/gag/a87V2yV)
- - 👉 [Guy is asked what he&#39;d do if his sister... Left the city...](http://9gag.com/gag/a2vO27E)<!-- MEMES:END -->
+ - 😝 [Guy is asked what he&#39;d do if his sister... Left the city...](http://9gag.com/gag/a2vO27E)
+ - 💣 [Meanwhile in Indonesia](http://9gag.com/gag/ary8xRK)
+ - 😝 [Oh no. He\u2019s hanging himself](http://9gag.com/gag/a34N8bm)
+ - 👉 [Calming the Hulk down is a team effort, but Tony&#39;s approach is definitely unique.](http://9gag.com/gag/a87V2yV)<!-- MEMES:END -->
 
 ---
 

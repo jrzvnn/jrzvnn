@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why so British???](http://9gag.com/gag/aQzyV82)
- - 😝 [Indians being Indians in the US](http://9gag.com/gag/axymOwD)
- - 💣 [When your colleagues are living large on the same salary, and you&#39;re just trying to keep yourself afloat.](http://9gag.com/gag/a6ZG2dq)
- - 😝 [This is how the Browning M2 .50 caliber machine guns were mounted in the left wing of an F4U-1 Corsair fighter. The Corsair carried six .50 caliber machine guns, three in each wing, giving it immense firepower. Pic of the plane in comments](http://9gag.com/gag/abARxdX)
- - 👉 [Fumble of the century](http://9gag.com/gag/aQzymKz)<!-- MEMES:END -->
+ - 😝 [When your colleagues are living large on the same salary, and you&#39;re just trying to keep yourself afloat.](http://9gag.com/gag/a6ZG2dq)
+ - 😝 [A gas station ?!](http://9gag.com/gag/aQzyZYw)
+ - 💣 [J*w me, Sue me](http://9gag.com/gag/aPArXBw)
+ - 😝 [Fumble of the century](http://9gag.com/gag/aQzymKz)
+ - 👉 [What a holiday.](http://9gag.com/gag/aO8ppGr)<!-- MEMES:END -->
 
 ---
 

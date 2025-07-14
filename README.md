@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Third developer betas are out for iOS 18.6, iPadOS 18.6, macOS Sequoia 15.6](https://appleinsider.com/articles/25/07/14/third-developer-betas-are-out-for-ios-186-ipados-186-macos-sequoia-156?utm_medium=rss)
  - [Anthropic now uses Canva&#39;s MCP server, letting Canva users manage designs via Claude&#39;s UI, following similar integrations with Figma, Notion, Stripe, and Prisma &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250714/p19#a250714p19)
- - [The US DOD announces OpenAI, Google, Anthropic, and xAI have won DOD contracts, each with a $200M ceiling, aimed at enabling agentic AI workflows and more &lpar;Deborah Sophia/Reuters&rpar;](http://www.techmeme.com/250714/p18#a250714p18)
+ - [The US DOD announces OpenAI, Google, Anthropic, and xAI have each won contracts with a $200M ceiling, aimed at enabling agentic AI national security workflows &lpar;Deborah Sophia/Reuters&rpar;](http://www.techmeme.com/250714/p18#a250714p18)
  - [Adobe Analytics: Prime Day&#39;s four-day event drove over $24B in US e-commerce sales, up 30.3% YoY; traffic from generative AI sources was up 3,300% YoY &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250714/p17#a250714p17)
- - [Anthropic&amp;#8217;s Claude chatbot can now make and edit your Canva designs](https://www.theverge.com/news/706637/canva-anthropic-claude-ai-mcp-support)
- - [Lose yourself in an astoundingly beautiful and absorbing history of macOS settings](https://appleinsider.com/articles/25/07/14/lose-yourself-in-an-astoundingly-beautiful-and-absorbing-history-of-macos-settings?utm_medium=rss)<!-- TECH:END -->
+ - [Anthropic&amp;#8217;s Claude chatbot can now make and edit your Canva designs](https://www.theverge.com/news/706637/canva-anthropic-claude-ai-mcp-support)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [When your colleagues are living large on the same salary, and you&#39;re just trying to keep yourself afloat.](http://9gag.com/gag/a6ZG2dq)
- - 😝 [Was she wrong for doing this](http://9gag.com/gag/a5Q5jXV)
- - 💣 [This is what casino commercials don&#39;t show you.](http://9gag.com/gag/aRBRo8Q)
- - 😝 [Oh no. He\u2019s hanging himself](http://9gag.com/gag/a34N8bm)
- - 👉 [Fumble of the century](http://9gag.com/gag/aQzymKz)<!-- MEMES:END -->
+ - 😝 [This is what casino commercials don&#39;t show you.](http://9gag.com/gag/aRBRo8Q)
+ - 💣 [Oh no. He\u2019s hanging himself](http://9gag.com/gag/a34N8bm)
+ - 😝 [Fumble of the century](http://9gag.com/gag/aQzymKz)
+ - 👉 [Guy is asked what he&#39;d do if his sister... Left the city...](http://9gag.com/gag/a2vO27E)<!-- MEMES:END -->
 
 ---
 

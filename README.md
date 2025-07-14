@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GM’s Final EV Battery Strategy Copies China’s Playbook: Super Cheap Cells](https://www.wired.com/story/gms-final-ev-battery-strategy-copies-chinas-playbook-super-cheap-cells/)
+ - [HBO’s new Harry Potter series will premiere in 2027](https://www.theverge.com/news/706736/hbo-max-harry-potter-series-premiere-warner-bros-discovery)
+ - [iPhone 17 Pro rumored to get a new orange color](https://appleinsider.com/articles/25/07/14/iphone-17-colors-include-a-new-orange-like-pro-model?utm_medium=rss)
  - [These are Sony’s new noise-canceling headphones for NFL coaches](https://www.theverge.com/news/705283/sony-nfl-technology-partner-anc-headset-coach)
- - [Pebblebee’s AirTag alternative now doubles as a panic alarm](https://www.theverge.com/news/706631/pebblebee-clip-tracker-android-ios-alert-safety-panic-alarm)
- - [Every Best Buy store will have Nintendo Switch 2 consoles on July 17th](https://www.theverge.com/tech/706677/nintendo-switch-2-restock-best-buy-in-store)
- - [Microsoft has a new trick to improve laptop battery life on Windows](https://www.theverge.com/news/706682/microsoft-windows-11-adaptive-energy-saver-feature)
- - [Amazon&#39;s top $279 iPad 11 deal is back, but supply is limited](https://appleinsider.com/articles/25/07/14/amazons-top-279-ipad-11-deal-is-back-but-supply-is-limited?utm_medium=rss)<!-- TECH:END -->
+ - [Pebblebee’s AirTag alternative now doubles as a panic alarm](https://www.theverge.com/news/706631/pebblebee-clip-tracker-android-ios-alert-safety-panic-alarm)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

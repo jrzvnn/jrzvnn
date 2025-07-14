@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Corn](http://9gag.com/gag/aAyvXBL)
- - 😝 [Meanwhile in Indonesia](http://9gag.com/gag/ary8xRK)
- - 💣 [Knee injuries are inevitable, it seems.](http://9gag.com/gag/a2vO2dd)
- - 😝 [Do you have the courage to shit !](http://9gag.com/gag/agmK4Zw)
- - 👉 [J*w me, Sue me](http://9gag.com/gag/aPArXBw)<!-- MEMES:END -->
+ - 😝 [J*w me, Sue me](http://9gag.com/gag/aPArXBw)
+ - 😝 [Fake life](http://9gag.com/gag/aQzyZwr)
+ - 💣 [Have a nice and clean day y`all](http://9gag.com/gag/aZZREr3)
+ - 😝 [Car Noises](http://9gag.com/gag/azx4O2b)
+ - 👉 [With such friends and enemies are not needed](http://9gag.com/gag/a6ZGnnb)<!-- MEMES:END -->
 
 ---
 

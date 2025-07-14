@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Where are the iPhone’s WebKit-less browsers?](https://www.theverge.com/news/706569/apple-ios-iphone-alternative-browser-webkit-owa)
- - [How the Finder is the real power macOS Tahoe feature](https://appleinsider.com/inside/macos-26/tips/how-the-finder-is-the-real-power-macos-tahoe-feature?utm_medium=rss)
- - [Now Jack Dorsey has built an app to track your vitamin D](https://www.theverge.com/news/706571/jack-dorsey-sun-day-vitamin-d-exposure-tracking-app)
- - [An interview with Google President of Android Ecosystem Sameer Samat, who says Google is going to combine &quot;ChromeOS and Android into a single platform&quot; &lpar;Lance Ulanoff/TechRadar&rpar;](http://www.techmeme.com/250714/p6#a250714p6)
- - [AI &#39;Nudify&#39; Websites Are Raking in Millions of Dollars](https://www.wired.com/story/ai-nudify-websites-are-raking-in-millions-of-dollars/)<!-- TECH:END -->
+ - [How to upgrade the SSD in your M4 Mac mini](https://appleinsider.com/inside/mac-mini/tips/how-to-upgrade-the-ssd-in-your-m4-mac-mini?utm_medium=rss)
+ - [Malaysia says individuals and companies must get a permit 30+ days before exporting AI chips, effective now, signaling it is clamping down on China chip exports &lpar;Bloomberg&rpar;](http://www.techmeme.com/250714/p7#a250714p7)
+ - [Best AirPods Pro Alternatives: AirPods for Android and More](https://www.wired.com/gallery/best-airpods-alternatives/)
+ - [Wordpilled slangmaxxing: how incel language infected the mainstream internet — and brought its toxicity with it](https://www.theverge.com/internet-culture/697406/algospeak-adam-aleksic-excerpt)
+ - [Where are the iPhone’s WebKit-less browsers?](https://www.theverge.com/news/706569/apple-ios-iphone-alternative-browser-webkit-owa)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

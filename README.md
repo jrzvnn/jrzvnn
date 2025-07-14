@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fumble of the century](http://9gag.com/gag/aQzymKz)
- - 😝 [Knee injuries are inevitable, it seems.](http://9gag.com/gag/a2vO2dd)
- - 💣 [Why so British???](http://9gag.com/gag/aQzyV82)
- - 😝 [J*w me, Sue me](http://9gag.com/gag/aPArXBw)
- - 👉 [What a holiday.](http://9gag.com/gag/aO8ppGr)<!-- MEMES:END -->
+ - 😝 [Why so British???](http://9gag.com/gag/aQzyV82)
+ - 😝 [When God sends you metaphore](http://9gag.com/gag/aVvRLyy)
+ - 💣 [Fumble of the century](http://9gag.com/gag/aQzymKz)
+ - 😝 [Do your job anonymous or whoever](http://9gag.com/gag/aoynnXe)
+ - 👉 [A gas station ?!](http://9gag.com/gag/aQzyZYw)<!-- MEMES:END -->
 
 ---
 

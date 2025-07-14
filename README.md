@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guy is asked what he&#39;d do if his sister... Left the city...](http://9gag.com/gag/a2vO27E)
  - 😝 [When your colleagues are living large on the same salary, and you&#39;re just trying to keep yourself afloat.](http://9gag.com/gag/a6ZG2dq)
- - 💣 [Oh no. He\u2019s hanging himself](http://9gag.com/gag/a34N8bm)
- - 😝 [The ultimate language test for a seat at the table.](http://9gag.com/gag/aXPR7Ob)
- - 👉 [He said he had work for them, that\u2019s why the ran away. It wasn\u2019t the gun](http://9gag.com/gag/axymOAM)<!-- MEMES:END -->
+ - 😝 [Knee injuries are inevitable, it seems.](http://9gag.com/gag/a2vO2dd)
+ - 💣 [This is what casino commercials don&#39;t show you.](http://9gag.com/gag/aRBRo8Q)
+ - 😝 [Oh no. He\u2019s hanging himself](http://9gag.com/gag/a34N8bm)
+ - 👉 [It&#39;s genetics](http://9gag.com/gag/axymPEW)<!-- MEMES:END -->
 
 ---
 

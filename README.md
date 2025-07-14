@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to upgrade the SSD in your M4 Mac mini](https://appleinsider.com/inside/mac-mini/tips/how-to-upgrade-the-ssd-in-your-m4-mac-mini?utm_medium=rss)
- - [Malaysia says individuals and companies must get a permit 30+ days before exporting AI chips, effective now, signaling it is clamping down on China chip exports &lpar;Bloomberg&rpar;](http://www.techmeme.com/250714/p7#a250714p7)
- - [Best AirPods Pro Alternatives: AirPods for Android and More](https://www.wired.com/gallery/best-airpods-alternatives/)
- - [Wordpilled slangmaxxing: how incel language infected the mainstream internet — and brought its toxicity with it](https://www.theverge.com/internet-culture/697406/algospeak-adam-aleksic-excerpt)
- - [Where are the iPhone’s WebKit-less browsers?](https://www.theverge.com/news/706569/apple-ios-iphone-alternative-browser-webkit-owa)<!-- TECH:END -->
+ - [Tesla is set to face a Florida federal jury to defend allegations that Autopilot was at fault in a fatal 2019 crash, as it tests autonomous robotaxis in Austin &lpar;Trisha Thadani/Washington Post&rpar;](http://www.techmeme.com/250714/p10#a250714p10)
+ - [Ikea&#39;s smart home master plan, Aqara G410, and more on the HomeKit Insider Podcast](https://appleinsider.com/articles/25/07/14/ikeas-smart-home-master-plan-aqara-g410-and-more-on-the-homekit-insider-podcast?utm_medium=rss)
+ - [Microsoft will halt new Office features for Windows 10 in 2026](https://www.theverge.com/news/706586/microsoft-365-office-app-features-windows-10-end-of-life-2026)
+ - [An Indicator analysis of 85 AI &quot;nudify&quot; websites: the sites averaged 18.5M monthly visitors, may generate up to $36M annually, and rely on Big Tech services &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/250714/p9#a250714p9)
+ - [A four-day US military drone exercise in Alaska exposed significant technological and operational gaps compared to Chinese and Russian drone capabilities &lpar;Farah Stockman/New York Times&rpar;](http://www.techmeme.com/250714/p8#a250714p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

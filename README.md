@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fake life](http://9gag.com/gag/aQzyZwr)
- - 😝 [Have a nice and clean day y`all](http://9gag.com/gag/aZZREr3)
- - 💣 [J*w me, Sue me](http://9gag.com/gag/aPArXBw)
- - 😝 [Orks!](http://9gag.com/gag/aBy4XbO)
- - 👉 [Car Noises](http://9gag.com/gag/azx4O2b)<!-- MEMES:END -->
+ - 😝 [Calming the Hulk down is a team effort, but Tony&#39;s approach is definitely unique.](http://9gag.com/gag/a87V2yV)
+ - 😝 [When you use the male filter and your friend can&#39;t believe it](http://9gag.com/gag/ajPRZN0)
+ - 💣 [Meanwhile in Indonesia](http://9gag.com/gag/ary8xRK)
+ - 😝 [Knee injuries are inevitable, it seems.](http://9gag.com/gag/a2vO2dd)
+ - 👉 [Guy is asked what he&#39;d do if his sister... Left the city...](http://9gag.com/gag/a2vO27E)<!-- MEMES:END -->
 
 ---
 

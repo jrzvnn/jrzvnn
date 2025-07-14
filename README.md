@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [J*w me, Sue me](http://9gag.com/gag/aPArXBw)
- - 😝 [Fake life](http://9gag.com/gag/aQzyZwr)
+ - 😝 [It&#39;s genetics](http://9gag.com/gag/axymPEW)
+ - 😝 [He said he had work for them, that\u2019s why the ran away. It wasn\u2019t the gun](http://9gag.com/gag/axymOAM)
  - 💣 [Have a nice and clean day y`all](http://9gag.com/gag/aZZREr3)
- - 😝 [Car Noises](http://9gag.com/gag/azx4O2b)
- - 👉 [With such friends and enemies are not needed](http://9gag.com/gag/a6ZGnnb)<!-- MEMES:END -->
+ - 😝 [Meanwhile in Indonesia](http://9gag.com/gag/ary8xRK)
+ - 👉 [Oh no. He\u2019s hanging himself](http://9gag.com/gag/a34N8bm)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Guy is asked what he&#39;d do if his sister... Left the city...](http://9gag.com/gag/a2vO27E)
+ - 😝 [Doppler effect](http://9gag.com/gag/aE0ZDVp)
+ - 💣 [Knee injuries are inevitable, it seems.](http://9gag.com/gag/a2vO2dd)
  - 😝 [Akon&#39;s $6 Billion Futuristic `Wakanda` Mega-City in Senegal, Africa, has Reportedly been Abandoned](http://9gag.com/gag/a1mOVKv)
- - 😝 [When your colleagues are living large on the same salary, and you&#39;re just trying to keep yourself afloat.](http://9gag.com/gag/a6ZG2dq)
- - 💣 [Guy is asked what he&#39;d do if his sister... Left the city...](http://9gag.com/gag/a2vO27E)
- - 😝 [Meanwhile in Indonesia](http://9gag.com/gag/ary8xRK)
- - 👉 [Indians being Indians in the US](http://9gag.com/gag/axymOwD)<!-- MEMES:END -->
+ - 👉 [Calming the Hulk down is a team effort, but Tony&#39;s approach is definitely unique.](http://9gag.com/gag/a87V2yV)<!-- MEMES:END -->
 
 ---
 

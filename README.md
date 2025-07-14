@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crypto asset manager Grayscale confidentially files draft IPO paperwork with the US SEC, offering few details; the DCG subsidiary manages $30B+ &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/250714/p13#a250714p13)
+ - [How AI can make us better decision-makers, with Cassie Kozyrkov](https://www.theverge.com/decoder-podcast-with-nilay-patel/703269/cassie-kozyrkov-interview-ai-google-decision-scientist)
  - [A Donkey Kong movie is a safe bet for Nintendo&amp;#8217;s growing entertainment empire](https://www.theverge.com/analysis/706610/donkey-kong-movie-copyright-notice-nintendo-strategy)
  - [CSET researchers: China&#39;s SMEE has only a 4% market share in older-generation chip lithography, far below ASML and Nikon, a &quot;chokepoint&quot; for China&#39;s chip plans &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250714/p12#a250714p12)
- - [Discord launches Orbs, a virtual reward system that incentivizes users to interact with ads by completing Quests to earn digital items, after a seven week beta &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250714/p11#a250714p11)
- - [Tesla is set to face a Florida federal jury to defend allegations that Autopilot was at fault in a fatal 2019 crash, as it tests autonomous robotaxis in Austin &lpar;Trisha Thadani/Washington Post&rpar;](http://www.techmeme.com/250714/p10#a250714p10)
- - [Ikea&#39;s smart home master plan, Aqara G410, and more on the HomeKit Insider Podcast](https://appleinsider.com/articles/25/07/14/ikeas-smart-home-master-plan-aqara-g410-and-more-on-the-homekit-insider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Mortgage Rate Predictions: Here&#39;s Why Rates Are Staying High in July](https://www.cnet.com/personal-finance/mortgages/mortgage-rate-predictions-heres-why-rates-are-staying-high-in-july/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

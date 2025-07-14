@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Reddit says it has started verifying UK users&#39; ages before letting them &quot;view certain mature content&quot;, in order to comply with the country&#39;s Online Safety Act &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/250714/p31#a250714p31)
- - [The FDA Just Approved a New Blue Food Dye. Is It an Allergen?](https://www.cnet.com/health/nutrition/fda-just-approved-new-blue-food-dye-is-it-allergen/#ftag=CAD590a51e)
- - [Which Foldable Will You Flip For? Comparing Samsung&#39;s Galaxy Z Flip 7 and Z Flip 7 FE](https://www.cnet.com/tech/mobile/which-foldable-will-you-flip-for-comparing-samsungs-galaxy-z-flip-7-and-z-flip-7-fe/#ftag=CAD590a51e)
  - [Meta says it has taken down around 10M Facebook profiles so far this year that were impersonating or repeatedly reusing content from large content producers &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250714/p30#a250714p30)
- - [&#39;Resident Evil: Survival Unit&#39; now available for pre-order ahead of late 2025 launch](https://appleinsider.com/articles/25/07/14/resident-evil-survival-unit-now-available-for-pre-order-ahead-of-late-2025-launch?utm_medium=rss)<!-- TECH:END -->
+ - [&#39;Resident Evil: Survival Unit&#39; now available for pre-order ahead of late 2025 launch](https://appleinsider.com/articles/25/07/14/resident-evil-survival-unit-now-available-for-pre-order-ahead-of-late-2025-launch?utm_medium=rss)
+ - [Galaxy Z Fold 7 vs. Z Fold 6: Slimmer Body, Bigger Screens and Slightly Higher Price](https://www.cnet.com/tech/mobile/galaxy-z-fold-7-vs-z-fold-6-slimmer-body-bigger-screens-and-slightly-higher-price/#ftag=CAD590a51e)
+ - [Superman is a box office hit, but the hard part comes next](https://www.theverge.com/film/706663/superman-box-office-dc-studios-james-gunn-cinematic-universe-supergirl-clayface)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

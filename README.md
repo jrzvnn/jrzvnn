@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your colleagues are living large on the same salary, and you&#39;re just trying to keep yourself afloat.](http://9gag.com/gag/a6ZG2dq)
- - 😝 [A gas station ?!](http://9gag.com/gag/aQzyZYw)
- - 💣 [J*w me, Sue me](http://9gag.com/gag/aPArXBw)
  - 😝 [Fumble of the century](http://9gag.com/gag/aQzymKz)
+ - 😝 [Knee injuries are inevitable, it seems.](http://9gag.com/gag/a2vO2dd)
+ - 💣 [Why so British???](http://9gag.com/gag/aQzyV82)
+ - 😝 [J*w me, Sue me](http://9gag.com/gag/aPArXBw)
  - 👉 [What a holiday.](http://9gag.com/gag/aO8ppGr)<!-- MEMES:END -->
 
 ---

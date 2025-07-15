@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers: during the 12-day Iran-Israel war, both sides engaged in unprecedented psychological warfare using AI content and social media to spread propaganda &lpar;New York Times&rpar;](http://www.techmeme.com/250715/p5#a250715p5)
+ - [The Enshittification of American Power](https://www.wired.com/story/enshittification-of-american-power/)
+ - [Researcher: a DOGE staffer inadvertently published a private API key for xAI on GitHub on July 13, exposing access to 52+ LLMs, including &quot;grok-4-0709&quot; &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/250715/p4#a250715p4)
  - [The US Commerce Department opens national security probes into imports of unmanned aircraft systems and polysilicon supply chains, used in chip manufacturing &lpar;Financial Times&rpar;](http://www.techmeme.com/250715/p3#a250715p3)
- - [Reddit is rolling out age verification in the UK](https://www.theverge.com/news/707125/reddit-age-verification-uk-online-safety)
- - [Can Nextdoor overhaul itself to be useful?](https://www.theverge.com/news/706618/nextdoor-redesign-ai-recommendations-local-news-emergency-alerts)
- - [Best Debit Cards for Kids and Teens: Greenlight, BusyKid, Capital One and More](https://www.cnet.com/personal-finance/credit-cards/best-debit-cards-for-kids-and-teens/#ftag=CAD590a51e)
- - [PitchBook: US startup funding surged 75.6% YoY in H1 2025 to $162.8B, the strongest since H1 2021, driven by AI and on track for the second-best year ever &lpar;Reuters&rpar;](http://www.techmeme.com/250715/p2#a250715p2)<!-- TECH:END -->
+ - [Reddit is rolling out age verification in the UK](https://www.theverge.com/news/707125/reddit-age-verification-uk-online-safety)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

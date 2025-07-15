@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Now Microsoft&amp;#8217;s Copilot Vision AI can scan everything on your screen](https://www.theverge.com/news/707995/microsoft-copilot-vision-ai-windows-scan-screen-desktop)
  - [Rome-based Exein, which provides cybersecurity tools for connected devices, raised a €70M Series C led by Balderton, valuing it at €250M+, after a €14M Series B &lpar;Resilience Media&rpar;](http://www.techmeme.com/250715/p33#a250715p33)
  - [I Tried Grok’s Built-In Anime Companion and It Called Me a Twat](https://www.wired.com/story/elon-musk-xai-ai-companion-ani/)
  - [In a paper, AI researchers from OpenAI, Google DeepMind, Anthropic, and others recommend further research into chain-of-thought monitorability for AI safety &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250715/p32#a250715p32)
- - [Data Centers Are &#39;AI Factories.&#39; Google and Meta Are Spending Big Bucks to Build Them](https://www.cnet.com/news/data-centers-are-ai-factories-google-and-meta-are-spending-big-bucks-to-build-them/#ftag=CAD590a51e)
- - [A former OpenAI engineer details his experience working at the company, including its culture, engineering practices, rapid growth, and the launch of Codex &lpar;Calvin French-Owen&rpar;](http://www.techmeme.com/250715/p31#a250715p31)<!-- TECH:END -->
+ - [Data Centers Are &#39;AI Factories.&#39; Google and Meta Are Spending Big Bucks to Build Them](https://www.cnet.com/news/data-centers-are-ai-factories-google-and-meta-are-spending-big-bucks-to-build-them/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

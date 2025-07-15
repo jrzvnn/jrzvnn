@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Here... i fixed it...](http://9gag.com/gag/aBy4oP2)
- - 😝 [Someone did this on the street!](http://9gag.com/gag/aBy4XQQ)
- - 💣 [Possibly a repost](http://9gag.com/gag/aZZRzGW)
- - 😝 [What friends are for](http://9gag.com/gag/aXPRenb)
- - 👉 [Orks!](http://9gag.com/gag/aBy4XbO)<!-- MEMES:END -->
+ - 😝 [Another hero](http://9gag.com/gag/a34NNgv)
+ - 😝 [When God sends you metaphore](http://9gag.com/gag/aVvRLyy)
+ - 💣 [This is what casino commercials don&#39;t show you.](http://9gag.com/gag/aRBRo8Q)
+ - 😝 [How to Open a Bottle of Wine Without a Corkscrew](http://9gag.com/gag/aW4R24x)
+ - 👉 [Kitties are fun to play with](http://9gag.com/gag/a7onpoq)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple seems to be working on adding CUDA support to open-source ML framework MLX, which may mean that code developed using MLX would work with CUDA &lpar;Malcolm Owen/AppleInsider&rpar;](http://www.techmeme.com/250715/p16#a250715p16)
- - [Fitbit’s Charge 6 fitness tracker is at its lowest price ever at Walmart](https://www.theverge.com/tech/707400/fitbit-charge-6-kindle-paperwhite-refurbished-deal-sale)
- - [How the Games app works in iOS 26, and how it can get even better](https://appleinsider.com/articles/25/07/15/how-the-games-app-works-in-ios-26-and-how-it-can-get-even-better?utm_source=rss)
- - [Mistral releases Voxtral, its first open source AI audio model family, and says its API transcription offerings are cheaper than models from OpenAI and Google &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250715/p15#a250715p15)
- - [Future Apple Watch or iPhone may gain a camera that&#39;s completely hidden when not in use](https://appleinsider.com/articles/20/12/15/future-apple-watch-or-iphone-may-gain-a-camera-thats-completely-hidden-when-not-in-use?utm_source=rss)<!-- TECH:END -->
+ - [Uber is close to completing its quest to become the ultimate robotaxi app](https://www.theverge.com/news/707347/uber-baidu-robotaxi-deal-autonomous-ridehail)
+ - [ICEBlock isn&amp;#8217;t &amp;#8216;completely anonymous&amp;#8217;](https://www.theverge.com/cyber-security/707116/iceblock-data-privacy-security-android-version)
+ - [Beats is throwing a weekend party with themed drinks and prizes](https://appleinsider.com/articles/25/07/15/beats-is-throwing-a-weekend-party-with-themed-drinks-and-prizes?utm_source=rss)
+ - [Faster Qi2.2 wireless power banks are on the way](https://www.theverge.com/news/707382/ugreen-magflow-magnetic-power-bank-wireless-charging-qi)
+ - [Apple seems to be working on adding CUDA support to open-source ML framework MLX, which may mean that code developed using MLX would work with CUDA &lpar;Malcolm Owen/AppleInsider&rpar;](http://www.techmeme.com/250715/p16#a250715p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

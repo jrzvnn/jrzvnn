@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Knee injuries are inevitable, it seems.](http://9gag.com/gag/a2vO2dd)
  - 😝 [Kitties are fun to play with](http://9gag.com/gag/a7onpoq)
- - 💣 [Star Wars](http://9gag.com/gag/aE0ZXLe)
- - 😝 [He is clearly asking to get his, GODDAMN SNOOT BOOPED!!!](http://9gag.com/gag/a4PwWNy)
+ - 😝 [What a holiday.](http://9gag.com/gag/aO8ppGr)
+ - 💣 [The moment you realize it&#39;s feeding time](http://9gag.com/gag/a4Pw2Qd)
+ - 😝 [Put Adam\u2019s family music](http://9gag.com/gag/ary8qXX)
  - 👉 [It&#39;s genetics](http://9gag.com/gag/axymPEW)<!-- MEMES:END -->
 
 ---

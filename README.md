@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Roblox launches a licensing platform to help IP rights holders collaborate with creators, with Lionsgate, Netflix, Sega, and Kodansha as founding partners &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/250715/p29#a250715p29)
  - [Mark Zuckerberg Q&amp;A: Meta&#39;s focus on &quot;personal super intelligence&quot;, how large compensation packages pale in comparison to AI infra investments, AI glasses, more &lpar;The Information on YouTube&rpar;](http://www.techmeme.com/250715/p28#a250715p28)
  - [Unify, which offers AI-powered tools to boost revenue pipelines, raised a $40M Series B led by Battery Ventures, valuing it at $260M, following a $12M Series A &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/250715/p27#a250715p27)
  - [To make Ironheart feel tactile, the show&amp;#8217;s creative team had to get on the same page](https://www.theverge.com/tv/707329/ironheart-alison-kelly-interview)
- - [Sources: Cantor Equity Partners 1, a SPAC backed by Cantor Fitzgerald, is in late-stage talks with Blockstream Capital founder Adam Back to buy $3B+ in bitcoin &lpar;Financial Times&rpar;](http://www.techmeme.com/250715/p26#a250715p26)
- - [Trump announces billions in investments to make Pennsylvania an AI hub](https://www.theverge.com/news/707369/trump-ai-energy-investments-pennsylvania-billions)<!-- TECH:END -->
+ - [Sources: Cantor Equity Partners 1, a SPAC backed by Cantor Fitzgerald, is in late-stage talks with Blockstream Capital founder Adam Back to buy $3B+ in bitcoin &lpar;Financial Times&rpar;](http://www.techmeme.com/250715/p26#a250715p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

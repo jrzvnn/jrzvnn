@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Future Apple keyboard could have one key that can pop out and be used as a mouse](https://appleinsider.com/articles/21/08/19/future-apple-keyboard-could-have-one-key-that-can-pop-out-and-be-used-as-a-mouse?utm_medium=rss)
  - [Uber and Baidu announce a multi-year partnership to launch robotaxis in markets outside the US and mainland China, starting in Asia and the Middle East in 2025 &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250715/p13#a250715p13)
  - [Amazon&#39;s best $89 AirPods 4 deal is back after Prime Day](https://appleinsider.com/articles/25/07/15/amazons-best-89-airpods-4-deal-is-back-after-prime-day?utm_medium=rss)
  - [New Transcend MagSafe SSD expands iPhone file storage options](https://appleinsider.com/articles/25/07/15/new-transcend-magsafe-ssd-expands-iphone-file-storage-options?utm_medium=rss)
- - [Form’s Smart Swim 2 goggles add heart rate tracking](https://www.theverge.com/news/707287/form-smart-swim-2-goggles-heart-rate-compass)
- - [Apple Watch sensors are so good, it could provide the first pregnancy indicators](https://appleinsider.com/articles/25/07/15/apple-watch-sensors-are-so-good-it-could-provide-the-first-pregnancy-indicators?utm_medium=rss)<!-- TECH:END -->
+ - [Form’s Smart Swim 2 goggles add heart rate tracking](https://www.theverge.com/news/707287/form-smart-swim-2-goggles-heart-rate-compass)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

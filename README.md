@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
  - [Crypto PAC Fairshake says it has raised $109M since the US elections in November 2024, and $52M in H1 2025, as it prepares for the 2026 US midterm elections &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/250715/p22#a250715p22)
  - [On stablecoins, JP Morgan&#39;s Jamie Dimon says, &quot;We&#39;re going to be involved in both JPMorgan deposit coin and stablecoins to understand it, to be good at it&quot; &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/250715/p21#a250715p21)
  - [&#39;Severance&#39; dominates 2025 Emmy Awards nominations list](https://appleinsider.com/articles/25/07/15/severance-dominates-2025-emmy-awards-nominations-list?utm_source=rss)
- - [Your OnePlus 13 Will Get a Dedicated AI &#39;Mind Space&#39; in Update Rolling Out Now](https://www.cnet.com/tech/services-and-software/your-oneplus-13-will-get-a-dedicated-ai-mind-space-in-update-rolling-out-now/#ftag=CAD590a51e)
- - [The Perseids Meteor Shower Brings Bright Fireballs to the Skies, Starting This Week](https://www.cnet.com/science/space/the-perseids-meteor-shower-brings-bright-fireballs-to-the-skies-starting-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Your OnePlus 13 Will Get a Dedicated AI &#39;Mind Space&#39; in Update Rolling Out Now](https://www.cnet.com/tech/services-and-software/your-oneplus-13-will-get-a-dedicated-ai-mind-space-in-update-rolling-out-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

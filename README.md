@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD says it will restart shipments of its MI308 AI chips to China after the US Commerce Department said it would approve the sales, following Nvidia &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250715/p10#a250715p10)
- - [6 Best Android Tablets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-android-tablets/)
- - [Anthropic launches Claude for Financial Services, aiming to help analysts conduct market research and handle due diligence, with data from FactSet and others &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250715/p9#a250715p9)
- - [EU backs down on Big Tech tax ahead of US trade deal](https://appleinsider.com/articles/25/07/15/eu-backs-down-on-big-tech-tax-ahead-of-us-trade-deal?utm_medium=rss)
- - [Our Favorite Bottle Washers for Keeping Your Baby Bottles Safe and Clean &lpar;2025&rpar;](https://www.wired.com/gallery/best-bottle-washers/)<!-- TECH:END -->
+ - [&#39;Cyberpunk 2077: Ultimate Edition&#39; coming to Apple Silicon Macs on July 17](https://appleinsider.com/articles/25/07/15/cyberpunk-2077-ultimate-edition-coming-to-apple-silicon-macs-on-july-17?utm_medium=rss)
+ - [How the low-vision community embraced AI smart glasses](https://www.theverge.com/the-vergecast/701018/ray-ban-meta-smart-glasses-be-my-eyes-ceo-accessibility-tech)
+ - [Cyberpunk 2077 is launching for Mac on July 17th](https://www.theverge.com/news/707106/cyberpunk-2077-mac-release-date)
+ - [Apple backs US rare earth magnets supply chain with $500 million deal](https://appleinsider.com/articles/25/07/15/apple-backs-us-rare-earth-magnets-supply-chain-with-500-million-deal?utm_medium=rss)
+ - [Apple Silicon machine learning code may become more easily portable to Nvidia hardware](https://appleinsider.com/articles/25/07/15/apple-silicon-machine-learning-code-may-become-more-easily-portable-to-nvidia-hardware?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

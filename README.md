@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [After two years of being together, I opened a caf\u00e9 with my goth girlfriend :&rpar;](http://9gag.com/gag/a87VKN3)
+ - 😝 [Do your job anonymous or whoever](http://9gag.com/gag/aoynnXe)
+ - 💣 [It&#39;s genetics](http://9gag.com/gag/axymPEW)
  - 😝 [Another hero](http://9gag.com/gag/a34NNgv)
- - 😝 [A gas station ?!](http://9gag.com/gag/aQzyZYw)
- - 💣 [Why so British???](http://9gag.com/gag/aQzyV82)
- - 😝 [It&#39;s genetics](http://9gag.com/gag/axymPEW)
- - 👉 [Fixie fixie on the job](http://9gag.com/gag/aBy4o0D)<!-- MEMES:END -->
+ - 👉 [How to Open a Bottle of Wine Without a Corkscrew](http://9gag.com/gag/aW4R24x)<!-- MEMES:END -->
 
 ---
 

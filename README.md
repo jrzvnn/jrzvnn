@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [After two years of being together, I opened a caf\u00e9 with my goth girlfriend :&rpar;](http://9gag.com/gag/a87VKN3)
- - 😝 [This is what casino commercials don&#39;t show you.](http://9gag.com/gag/aRBRo8Q)
- - 💣 [When God sends you metaphore](http://9gag.com/gag/aVvRLyy)
+ - 😝 [Fixie fixie on the job](http://9gag.com/gag/aBy4o0D)
+ - 😝 [How to Open a Bottle of Wine Without a Corkscrew](http://9gag.com/gag/aW4R24x)
+ - 💣 [What a holiday.](http://9gag.com/gag/aO8ppGr)
  - 😝 [Another hero](http://9gag.com/gag/a34NNgv)
- - 👉 [A gas station ?!](http://9gag.com/gag/aQzyZYw)<!-- MEMES:END -->
+ - 👉 [After two years of being together, I opened a caf\u00e9 with my goth girlfriend :&rpar;](http://9gag.com/gag/a87VKN3)<!-- MEMES:END -->
 
 ---
 

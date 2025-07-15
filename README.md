@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alibaba is putting $7B in Taobao promotions as JD.com invests $1.4B to grow food delivery, with both offering discounts to become China&#39;s leading &quot;everyday app&quot; &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/250715/p1#a250715p1)
  - [NZXT Discount Codes: 50% Off](https://www.wired.com/story/nzxt-discount-code/)
  - [Peacock Promo Code &amp; Deals: 16% Off July 2025](https://www.wired.com/story/peacock-promo-code/)
  - [Berlin-based Motor Ai, which develops neuroscience-driven Level 4 autonomous driving tech and plans to deploy it on German roads in 2025, raised a $20M seed &lpar;Dean Takahashi/GamesBeat&rpar;](http://www.techmeme.com/250714/p36#a250714p36)
- - [Nvidia plans to resume H20 AI chip sales to China after Washington assured shipments will be approved, reversing an earlier Trump administration stance in April &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250714/p35#a250714p35)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, July 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-july-15/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nvidia plans to resume H20 AI chip sales to China after Washington assured shipments will be approved, reversing an earlier Trump administration stance in April &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250714/p35#a250714p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

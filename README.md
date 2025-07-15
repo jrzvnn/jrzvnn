@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fixie fixie on the job](http://9gag.com/gag/aBy4o0D)
+ - 😝 [He is clearly asking to get his, GODDAMN SNOOT BOOPED!!!](http://9gag.com/gag/a4PwWNy)
  - 😝 [Japan what are you doing?](http://9gag.com/gag/amoRnz6)
  - 💣 [What a holiday.](http://9gag.com/gag/aO8ppGr)
- - 😝 [Sums it up](http://9gag.com/gag/apRVjK8)
- - 👉 [For ever 100 likes I&#39;ll make Marks hair longer.](http://9gag.com/gag/aE0ZNYO)<!-- MEMES:END -->
+ - 😝 [For ever 100 likes I&#39;ll make Marks hair longer.](http://9gag.com/gag/aE0ZNYO)
+ - 👉 [Sums it up](http://9gag.com/gag/apRVjK8)<!-- MEMES:END -->
 
 ---
 

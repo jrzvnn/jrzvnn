@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good job Man.? -100kg](http://9gag.com/gag/a6ZGxv9)
- - 😝 [Are you sure about that ?](http://9gag.com/gag/aBy4o2P)
- - 💣 [Mix up.](http://9gag.com/gag/aoynnnX)
- - 😝 [That day i slipped](http://9gag.com/gag/aKGKNg6)
- - 👉 [That&#39;s some serious dedication to not losing bags. Other airports need to take notes.](http://9gag.com/gag/aAyvmQd)<!-- MEMES:END -->
+ - 😝 [Dexter&#39;s mom alone makes it worth it](http://9gag.com/gag/aBy4oRO)
+ - 😝 [Perfect form](http://9gag.com/gag/adBRdQV)
+ - 💣 [On of the oldest I think,](http://9gag.com/gag/ary8rVV)
+ - 😝 [Not on my Bingo card](http://9gag.com/gag/aRBRDEA)
+ - 👉 [Jules: This was Divine Intervention! You know what `divine intervention` is?](http://9gag.com/gag/ae9R2xm)<!-- MEMES:END -->
 
 ---
 

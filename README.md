@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a holiday.](http://9gag.com/gag/aO8ppGr)
  - 😝 [Fixie fixie on the job](http://9gag.com/gag/aBy4o0D)
- - 💣 [This is what casino commercials don&#39;t show you.](http://9gag.com/gag/aRBRo8Q)
+ - 😝 [He is the expert...](http://9gag.com/gag/abARB29)
+ - 💣 [Jockeys without horses, this is a fun race for charity, and it&#39;s quite competitive](http://9gag.com/gag/azx4Ydx)
  - 😝 [Another hero](http://9gag.com/gag/a34NNgv)
- - 👉 [A gas station ?!](http://9gag.com/gag/aQzyZYw)<!-- MEMES:END -->
+ - 👉 [This is what casino commercials don&#39;t show you.](http://9gag.com/gag/aRBRo8Q)<!-- MEMES:END -->
 
 ---
 

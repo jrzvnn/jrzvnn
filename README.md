@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He is clearly asking to get his, GODDAMN SNOOT BOOPED!!!](http://9gag.com/gag/a4PwWNy)
- - 😝 [Japan what are you doing?](http://9gag.com/gag/amoRnz6)
- - 💣 [What a holiday.](http://9gag.com/gag/aO8ppGr)
+ - 😝 [That day i slipped](http://9gag.com/gag/aKGKNg6)
  - 😝 [For ever 100 likes I&#39;ll make Marks hair longer.](http://9gag.com/gag/aE0ZNYO)
- - 👉 [Sums it up](http://9gag.com/gag/apRVjK8)<!-- MEMES:END -->
+ - 💣 [My dad died watching your special!](http://9gag.com/gag/aPArdQg)
+ - 😝 [Black Hole physics is differ](http://9gag.com/gag/amoRbnV)
+ - 👉 [Why so British???](http://9gag.com/gag/aQzyV82)<!-- MEMES:END -->
 
 ---
 

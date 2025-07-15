@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EU is testing a prototype age verification app](https://www.theverge.com/news/699151/eu-age-verification-app-dsa-enforcement)
+ - [Do You Need a Box Spring for Your Modern-Day Mattress? &lpar;2025&rpar;](https://www.wired.com/story/do-you-need-a-box-spring/)
+ - [CoreWeave says it plans to invest up to $6B to set up a 100MW data center in Lancaster, PA, creating 175 jobs and potentially expanding to 300MW in the future &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250715/p6#a250715p6)
  - [Researchers: during the 12-day Iran-Israel war, both sides engaged in unprecedented psychological warfare using AI content and social media to spread propaganda &lpar;New York Times&rpar;](http://www.techmeme.com/250715/p5#a250715p5)
- - [The Enshittification of American Power](https://www.wired.com/story/enshittification-of-american-power/)
- - [Researcher: a DOGE staffer inadvertently published a private API key for xAI on GitHub on July 13, exposing access to 52+ LLMs, including &quot;grok-4-0709&quot; &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/250715/p4#a250715p4)
- - [The US Commerce Department opens national security probes into imports of unmanned aircraft systems and polysilicon supply chains, used in chip manufacturing &lpar;Financial Times&rpar;](http://www.techmeme.com/250715/p3#a250715p3)
- - [Reddit is rolling out age verification in the UK](https://www.theverge.com/news/707125/reddit-age-verification-uk-online-safety)<!-- TECH:END -->
+ - [The Enshittification of American Power](https://www.wired.com/story/enshittification-of-american-power/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

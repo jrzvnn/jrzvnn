@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s next Pixel Fold might be completely dust-proof](https://www.theverge.com/news/707353/google-pixel-10-pro-fold-10-water-dust-resistance-rumor)
- - [The Pro 3 is 8BitDo’s first controller with swappable buttons](https://www.theverge.com/news/706967/8bitdo-pro-3-wireless-bluetooth-controller-tmr-swappable-buttons)
- - [Future Apple keyboard could have one key that can pop out and be used as a mouse](https://appleinsider.com/articles/21/08/19/future-apple-keyboard-could-have-one-key-that-can-pop-out-and-be-used-as-a-mouse?utm_medium=rss)
- - [Uber and Baidu announce a multi-year partnership to launch robotaxis in markets outside the US and mainland China, starting in Asia and the Middle East in 2025 &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250715/p13#a250715p13)
- - [Amazon&#39;s best $89 AirPods 4 deal is back after Prime Day](https://appleinsider.com/articles/25/07/15/amazons-best-89-airpods-4-deal-is-back-after-prime-day?utm_medium=rss)<!-- TECH:END -->
+ - [Mistral releases Voxtral, its first open source AI audio model family, and says its API transcription offerings are cheaper than models from OpenAI and Google &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250715/p15#a250715p15)
+ - [Roblox creators can now make their own Stranger Things and Twilight games](https://www.theverge.com/news/707075/roblox-creators-licensing-netflix-stranger-things-lionsgate-twilight)
+ - [Swiss tax probe sparks legal battle over Apple Account data](https://appleinsider.com/articles/25/07/15/swiss-tax-probe-sparks-legal-battle-over-apple-account-data?utm_medium=rss)
+ - [Sources: the US DOJ and CFTC ended a pair of investigations into crypto betting platform Polymarket that started under the Biden administration &lpar;Bloomberg&rpar;](http://www.techmeme.com/250715/p14#a250715p14)
+ - [The MAGA backlash over Epstein isn’t dying down](https://www.theverge.com/politics/707098/maga-jeffrey-epstein-influencer-trump-bondi)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

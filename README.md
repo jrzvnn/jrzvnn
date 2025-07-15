@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mark Zuckerberg Q&amp;A: Meta&#39;s focus on &quot;personal super intelligence&quot;, how large compensation packages pale in comparison to AI infra investments, AI glasses, more &lpar;The Information on YouTube&rpar;](http://www.techmeme.com/250715/p28#a250715p28)
+ - [Unify, which offers AI-powered tools to boost revenue pipelines, raised a $40M Series B led by Battery Ventures, valuing it at $260M, following a $12M Series A &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/250715/p27#a250715p27)
+ - [To make Ironheart feel tactile, the show&amp;#8217;s creative team had to get on the same page](https://www.theverge.com/tv/707329/ironheart-alison-kelly-interview)
  - [Sources: Cantor Equity Partners 1, a SPAC backed by Cantor Fitzgerald, is in late-stage talks with Blockstream Capital founder Adam Back to buy $3B+ in bitcoin &lpar;Financial Times&rpar;](http://www.techmeme.com/250715/p26#a250715p26)
- - [Trump announces billions in investments to make Pennsylvania an AI hub](https://www.theverge.com/news/707369/trump-ai-energy-investments-pennsylvania-billions)
- - [Users have uploaded 5,000 AI models, previously banned from Civitai for generating nonconsensual sexual content of real people, to Hugging Face &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250715/p25#a250715p25)
- - [Xbox tests letting you stream your own games on PC](https://www.theverge.com/news/707739/xbox-stream-your-own-game-pc-app)
- - [Before iOS 26, Apple Will Release at Least One More iOS 18 Update Soon](https://www.cnet.com/tech/services-and-software/before-ios-26-apple-will-release-at-least-one-more-ios-18-update-soon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Trump announces billions in investments to make Pennsylvania an AI hub](https://www.theverge.com/news/707369/trump-ai-energy-investments-pennsylvania-billions)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

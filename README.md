@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Auf der Heide bl\u00fcht, ein kleines Bl\u00fcmelein, Und das hei\u00dft: Erika](http://9gag.com/gag/amoRdR9)
+ - 😝 [Gary Oldman. His sisters little Mo in EastEnders](http://9gag.com/gag/ajPRdwx)
+ - 😝 [BREAKING NEWS!!!](http://9gag.com/gag/aXPRdmP)
+ - 💣 [Are you sure about that ?](http://9gag.com/gag/aBy4o2P)
  - 😝 [Look what they took from us](http://9gag.com/gag/apRVdWB)
- - 💣 [How to Open a Bottle of Wine Without a Corkscrew](http://9gag.com/gag/aW4R24x)
- - 😝 [Silence, ladies. Men contemplating](http://9gag.com/gag/a87Vwbd)
- - 👉 [Do your job anonymous or whoever](http://9gag.com/gag/aoynnXe)<!-- MEMES:END -->
+ - 👉 [Mix up.](http://9gag.com/gag/aoynnnX)<!-- MEMES:END -->
 
 ---
 

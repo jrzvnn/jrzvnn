@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple and Ireland tax saga finally ends with $15 billion escrow withdrawal](https://appleinsider.com/articles/25/07/15/apple-and-ireland-tax-saga-finally-ends-with-15-billion-escrow-withdrawal?utm_source=rss)
- - [Analogue’s 4K N64 has been delayed again, but only by a month](https://www.theverge.com/news/707586/analogue-3d-4k-n64-delay-august-2025)
- - [Sony’s pocket-sized RX1R camera returns with its first update in 10 years](https://www.theverge.com/news/707589/sony-rx1r-iii-digital-compact-pocket-camera)
- - [Researchers demonstrate a Rowhammer-style attack on Nvidia&#39;s RTX A6000, widely used in cloud services, and say it would likely work against other Nvidia GPUs &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/250715/p19#a250715p19)
- - [Our biggest questions about ChromeOS and Android merging](https://www.theverge.com/google/707041/google-chromeos-android-os-merger-questions-phones-chromebooks-laptops-tablets)<!-- TECH:END -->
+ - [On stablecoins, JP Morgan&#39;s Jamie Dimon says, &quot;We&#39;re going to be involved in both JPMorgan deposit coin and stablecoins to understand it, to be good at it&quot; &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/250715/p21#a250715p21)
+ - [&#39;Severance&#39; dominates 2025 Emmy Awards nominations list](https://appleinsider.com/articles/25/07/15/severance-dominates-2025-emmy-awards-nominations-list?utm_source=rss)
+ - [Your OnePlus 13 Will Get a Dedicated AI &#39;Mind Space&#39; in Update Rolling Out Now](https://www.cnet.com/tech/services-and-software/your-oneplus-13-will-get-a-dedicated-ai-mind-space-in-update-rolling-out-now/#ftag=CAD590a51e)
+ - [The Perseids Meteor Shower Brings Bright Fireballs to the Skies, Starting This Week](https://www.cnet.com/science/space/the-perseids-meteor-shower-brings-bright-fireballs-to-the-skies-starting-this-week/#ftag=CAD590a51e)
+ - [Mark Zuckerberg Q&amp;A: Meta&#39;s focus on &quot;personal super intelligence&quot;, how large compensation packages pale in comparison to AI infra investments, AI glasses, more &lpar;Jessica E. Lessin/The Information&rpar;](http://www.techmeme.com/250715/p20#a250715p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

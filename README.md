@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s some serious dedication to not losing bags. Other airports need to take notes.](http://9gag.com/gag/aAyvmQd)
+ - 😝 [What friends are for](http://9gag.com/gag/aXPRenb)
  - 😝 [Good job Man.? -100kg](http://9gag.com/gag/a6ZGxv9)
- - 💣 [What friends are for](http://9gag.com/gag/aXPRenb)
- - 😝 [Look what they took from us](http://9gag.com/gag/apRVdWB)
- - 👉 [That day i slipped](http://9gag.com/gag/aKGKNg6)<!-- MEMES:END -->
+ - 💣 [Look what they took from us](http://9gag.com/gag/apRVdWB)
+ - 😝 [That day i slipped](http://9gag.com/gag/aKGKNg6)
+ - 👉 [Christian bale is building a village for foster kids, he is bruce wayne](http://9gag.com/gag/aMVqWqX)<!-- MEMES:END -->
 
 ---
 

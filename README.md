@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Our biggest questions about ChromeOS and Android merging](https://www.theverge.com/google/707041/google-chromeos-android-os-merger-questions-phones-chromebooks-laptops-tablets)
  - [Tech Billionaires Back Erebor in the Wake of Silicon Valley Bank Collapse](https://www.wired.com/story/palmer-luckey-joe-lonsdale-bank-erebor/)
  - [Developer angry that App Store is removing game that hasn&#39;t been updated in 7 years](https://appleinsider.com/articles/25/07/15/developer-angry-that-app-store-is-removing-game-that-hasnt-been-updated-in-7-years?utm_source=rss)
  - [Grok will no longer call itself Hitler or base its opinions on Elon Musk&amp;#8217;s, promises xAI](https://www.theverge.com/x-ai/707442/grok-antisemitic-hitler-elon-musk-opinion-reprogrammed)
- - [Thinking Machines Lab, Mira Murati&#39;s AI startup that launched only in February, raised $2B led by a16z; Nvidia, Accel, ServiceNow, Cisco, and AMD also invested &lpar;Aditya Soni/Reuters&rpar;](http://www.techmeme.com/250715/p18#a250715p18)
- - [OpenEvidence, whose free AI search tool has signed up 40% of doctors in the US, raised $210M led by GV at a $3.5B valuation, up from $1B in February &lpar;Amy Feldman/Forbes&rpar;](http://www.techmeme.com/250715/p17#a250715p17)<!-- TECH:END -->
+ - [Thinking Machines Lab, Mira Murati&#39;s AI startup that launched only in February, raised $2B led by a16z; Nvidia, Accel, ServiceNow, Cisco, and AMD also invested &lpar;Aditya Soni/Reuters&rpar;](http://www.techmeme.com/250715/p18#a250715p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

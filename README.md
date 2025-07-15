@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That day i slipped](http://9gag.com/gag/aKGKNg6)
+ - 😝 [He is clearly asking to get his, GODDAMN SNOOT BOOPED!!!](http://9gag.com/gag/a4PwWNy)
+ - 😝 [Are you sure about that ?](http://9gag.com/gag/aBy4o2P)
+ - 💣 [This is too real. Why do naps hit different with the skin marks?](http://9gag.com/gag/aGy7OnZ)
  - 😝 [For ever 100 likes I&#39;ll make Marks hair longer.](http://9gag.com/gag/aE0ZNYO)
- - 💣 [My dad died watching your special!](http://9gag.com/gag/aPArdQg)
- - 😝 [Black Hole physics is differ](http://9gag.com/gag/amoRbnV)
- - 👉 [Why so British???](http://9gag.com/gag/aQzyV82)<!-- MEMES:END -->
+ - 👉 [I wonder why](http://9gag.com/gag/a87Vzv1)<!-- MEMES:END -->
 
 ---
 

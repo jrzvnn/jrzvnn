@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japan what are you doing?](http://9gag.com/gag/amoRnz6)
- - 😝 [Are you sure about that ?](http://9gag.com/gag/aBy4o2P)
- - 💣 [110K lumen&#39;s discipline](http://9gag.com/gag/aE0ZQ1O)
- - 😝 [He is clearly asking to get his, GODDAMN SNOOT BOOPED!!!](http://9gag.com/gag/a4PwWNy)
- - 👉 [Sums it up](http://9gag.com/gag/apRVjK8)<!-- MEMES:END -->
+ - 😝 [Jules: This was Divine Intervention! You know what `divine intervention` is?](http://9gag.com/gag/ae9R2xm)
+ - 😝 [Quality](http://9gag.com/gag/aBy4NRx)
+ - 💣 [Sums it up](http://9gag.com/gag/apRVjK8)
+ - 😝 [For ever 100 likes I&#39;ll make Marks hair longer.](http://9gag.com/gag/aE0ZNYO)
+ - 👉 [Little brother keeping it real](http://9gag.com/gag/aZZRdOz)<!-- MEMES:END -->
 
 ---
 

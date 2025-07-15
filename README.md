@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kitties are fun to play with](http://9gag.com/gag/a7onpoq)
- - 😝 [What a holiday.](http://9gag.com/gag/aO8ppGr)
- - 💣 [The moment you realize it&#39;s feeding time](http://9gag.com/gag/a4Pw2Qd)
- - 😝 [Put Adam\u2019s family music](http://9gag.com/gag/ary8qXX)
- - 👉 [It&#39;s genetics](http://9gag.com/gag/axymPEW)<!-- MEMES:END -->
+ - 😝 [Here... i fixed it...](http://9gag.com/gag/aBy4oP2)
+ - 😝 [Someone did this on the street!](http://9gag.com/gag/aBy4XQQ)
+ - 💣 [Possibly a repost](http://9gag.com/gag/aZZRzGW)
+ - 😝 [What friends are for](http://9gag.com/gag/aXPRenb)
+ - 👉 [Orks!](http://9gag.com/gag/aBy4XbO)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Silence, ladies. Men contemplating](http://9gag.com/gag/a87Vwbd)
- - 😝 [Are you sure about that ?](http://9gag.com/gag/aBy4o2P)
+ - 😝 [Auf der Heide bl\u00fcht, ein kleines Bl\u00fcmelein, Und das hei\u00dft: Erika](http://9gag.com/gag/amoRdR9)
+ - 😝 [Look what they took from us](http://9gag.com/gag/apRVdWB)
  - 💣 [How to Open a Bottle of Wine Without a Corkscrew](http://9gag.com/gag/aW4R24x)
- - 😝 [Do your job anonymous or whoever](http://9gag.com/gag/aoynnXe)
- - 👉 [It&#39;s genetics](http://9gag.com/gag/axymPEW)<!-- MEMES:END -->
+ - 😝 [Silence, ladies. Men contemplating](http://9gag.com/gag/a87Vwbd)
+ - 👉 [Do your job anonymous or whoever](http://9gag.com/gag/aoynnXe)<!-- MEMES:END -->
 
 ---
 

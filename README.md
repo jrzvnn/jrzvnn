@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump announces billions in investments to make Pennsylvania an AI hub](https://www.theverge.com/news/707369/trump-ai-energy-investments-pennsylvania-billions)
+ - [Users have uploaded 5,000 AI models, previously banned from Civitai for generating nonconsensual sexual content of real people, to Hugging Face &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250715/p25#a250715p25)
  - [Xbox tests letting you stream your own games on PC](https://www.theverge.com/news/707739/xbox-stream-your-own-game-pc-app)
  - [Before iOS 26, Apple Will Release at Least One More iOS 18 Update Soon](https://www.cnet.com/tech/services-and-software/before-ios-26-apple-will-release-at-least-one-more-ios-18-update-soon/#ftag=CAD590a51e)
- - [How to Watch Pokemon Presents 2025 for Legends: Z-A, TCG Pocket and More](https://www.cnet.com/tech/gaming/how-to-watch-pokemon-presents-2025-for-legends-z-a-tcg-pocket-and-more/#ftag=CAD590a51e)
- - [Cloudflare starts blocking access to pirate sites in the UK; previously, blocking was almost entirely done by local ISPs &lpar;Andy Maxwell/TorrentFreak&rpar;](http://www.techmeme.com/250715/p24#a250715p24)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for July 16, #296](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-16-296/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Watch Pokemon Presents 2025 for Legends: Z-A, TCG Pocket and More](https://www.cnet.com/tech/gaming/how-to-watch-pokemon-presents-2025-for-legends-z-a-tcg-pocket-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

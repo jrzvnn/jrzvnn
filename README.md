@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Cyberpunk 2077: Ultimate Edition&#39; coming to Apple Silicon Macs on July 17](https://appleinsider.com/articles/25/07/15/cyberpunk-2077-ultimate-edition-coming-to-apple-silicon-macs-on-july-17?utm_medium=rss)
- - [How the low-vision community embraced AI smart glasses](https://www.theverge.com/the-vergecast/701018/ray-ban-meta-smart-glasses-be-my-eyes-ceo-accessibility-tech)
- - [Cyberpunk 2077 is launching for Mac on July 17th](https://www.theverge.com/news/707106/cyberpunk-2077-mac-release-date)
- - [Apple backs US rare earth magnets supply chain with $500 million deal](https://appleinsider.com/articles/25/07/15/apple-backs-us-rare-earth-magnets-supply-chain-with-500-million-deal?utm_medium=rss)
- - [Apple Silicon machine learning code may become more easily portable to Nvidia hardware](https://appleinsider.com/articles/25/07/15/apple-silicon-machine-learning-code-may-become-more-easily-portable-to-nvidia-hardware?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Watch sensors are so good, it could provide the first pregnancy indicators](https://appleinsider.com/articles/25/07/15/apple-watch-sensors-are-so-good-it-could-provide-the-first-pregnancy-indicators?utm_medium=rss)
+ - [Remove your personal information from the internet before it becomes a threat](https://appleinsider.com/articles/25/07/15/remove-your-personal-information-from-the-internet-before-it-becomes-a-threat?utm_medium=rss)
+ - [Facebook creators who steal and repost videos could lose their monetization](https://www.theverge.com/news/707244/facebook-meta-stolen-reposted-content)
+ - [Analyst who claimed iPhone 17 would use A18 backtracks](https://appleinsider.com/articles/25/07/15/analyst-who-claimed-iphone-17-would-use-a18-backtracks?utm_medium=rss)
+ - [Apple cuts a deal for recycling rare earth magnets in the US](https://www.theverge.com/news/707249/apple-rare-earth-magnet-mp-materials-recycling)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

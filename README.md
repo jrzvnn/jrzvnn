@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why so British???](http://9gag.com/gag/aQzyV82)
- - 😝 [Another hero](http://9gag.com/gag/a34NNgv)
- - 💣 [After two years of being together, I opened a caf\u00e9 with my goth girlfriend :&rpar;](http://9gag.com/gag/a87VKN3)
- - 😝 [It&#39;s genetics](http://9gag.com/gag/axymPEW)
- - 👉 [How to Open a Bottle of Wine Without a Corkscrew](http://9gag.com/gag/aW4R24x)<!-- MEMES:END -->
+ - 😝 [The human language is truly a marvel of specificity](http://9gag.com/gag/aGy7O1X)
+ - 😝 [After two years of being together, I opened a caf\u00e9 with my goth girlfriend :&rpar;](http://9gag.com/gag/a87VKN3)
+ - 💣 [Here... i fixed it...](http://9gag.com/gag/aBy4oP2)
+ - 😝 [Are you sure about that ?](http://9gag.com/gag/aBy4o2P)
+ - 👉 [That&#39;s some serious dedication to not losing bags. Other airports need to take notes.](http://9gag.com/gag/aAyvmQd)<!-- MEMES:END -->
 
 ---
 

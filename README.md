@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grok&#39;s iOS app now features two AI &quot;Companions&quot;, or 3D animated avatars that interact with users via voice, including Ani, an anime character with an NSFW mode &lpar;Alexey Shabanov/TestingCatalog&rpar;](http://www.techmeme.com/250714/p33#a250714p33)
- - [A look at SpaceX&#39;s investment and Tesla&#39;s potential cash infusion in xAI and the idea that investing in Tesla is betting on the &quot;Musk Mars Conglomerate&quot; &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/250714/p32#a250714p32)
- - [Reddit says it has started verifying UK users&#39; ages before letting them &quot;view certain mature content&quot;, in order to comply with the country&#39;s Online Safety Act &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/250714/p31#a250714p31)
- - [The FDA Just Approved a New Blue Food Dye. Is It an Allergen?](https://www.cnet.com/health/nutrition/fda-just-approved-new-blue-food-dye-is-it-allergen/#ftag=CAD590a51e)
- - [Which Foldable Will You Flip For? Comparing Samsung&#39;s Galaxy Z Flip 7 and Z Flip 7 FE](https://www.cnet.com/tech/mobile/which-foldable-will-you-flip-for-comparing-samsungs-galaxy-z-flip-7-and-z-flip-7-fe/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nvidia plans to resume H20 AI chip sales to China after Washington assured shipments will be approved, reversing an earlier Trump administration stance in April &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250714/p35#a250714p35)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, July 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-july-15/#ftag=CAD590a51e)
+ - [Apple Hornsby closing as revamped Chatswood Chase location reopens](https://appleinsider.com/articles/25/07/15/apple-hornsby-closing-as-revamped-chatswood-chase-location-reopens?utm_medium=rss)
+ - [How Benchmark&#39;s investment in Chinese startup Manus has highlighted a philosophical divide in Silicon Valley over China, patriotism, and the pursuit of profit &lpar;Bloomberg&rpar;](http://www.techmeme.com/250714/p34#a250714p34)
+ - [My Secret Weapon for Camping Is This Portable Projector That&#39;s 22% Off](https://www.cnet.com/deals/my-secret-weapon-for-camping-is-this-portable-projector-thats-22-off/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

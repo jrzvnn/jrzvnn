@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple seems to be working on adding CUDA support to open-source ML framework MLX, which may mean that code developed using MLX would work with CUDA &lpar;Malcolm Owen/AppleInsider&rpar;](http://www.techmeme.com/250715/p16#a250715p16)
+ - [Fitbit’s Charge 6 fitness tracker is at its lowest price ever at Walmart](https://www.theverge.com/tech/707400/fitbit-charge-6-kindle-paperwhite-refurbished-deal-sale)
+ - [How the Games app works in iOS 26, and how it can get even better](https://appleinsider.com/articles/25/07/15/how-the-games-app-works-in-ios-26-and-how-it-can-get-even-better?utm_source=rss)
  - [Mistral releases Voxtral, its first open source AI audio model family, and says its API transcription offerings are cheaper than models from OpenAI and Google &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250715/p15#a250715p15)
- - [Roblox creators can now make their own Stranger Things and Twilight games](https://www.theverge.com/news/707075/roblox-creators-licensing-netflix-stranger-things-lionsgate-twilight)
- - [Swiss tax probe sparks legal battle over Apple Account data](https://appleinsider.com/articles/25/07/15/swiss-tax-probe-sparks-legal-battle-over-apple-account-data?utm_medium=rss)
- - [Sources: the US DOJ and CFTC ended a pair of investigations into crypto betting platform Polymarket that started under the Biden administration &lpar;Bloomberg&rpar;](http://www.techmeme.com/250715/p14#a250715p14)
- - [The MAGA backlash over Epstein isn’t dying down](https://www.theverge.com/politics/707098/maga-jeffrey-epstein-influencer-trump-bondi)<!-- TECH:END -->
+ - [Future Apple Watch or iPhone may gain a camera that&#39;s completely hidden when not in use](https://appleinsider.com/articles/20/12/15/future-apple-watch-or-iphone-may-gain-a-camera-thats-completely-hidden-when-not-in-use?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

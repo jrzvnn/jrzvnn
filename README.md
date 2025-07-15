@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What friends are for](http://9gag.com/gag/aXPRenb)
- - 😝 [Good job Man.? -100kg](http://9gag.com/gag/a6ZGxv9)
- - 💣 [Look what they took from us](http://9gag.com/gag/apRVdWB)
- - 😝 [That day i slipped](http://9gag.com/gag/aKGKNg6)
- - 👉 [Christian bale is building a village for foster kids, he is bruce wayne](http://9gag.com/gag/aMVqWqX)<!-- MEMES:END -->
+ - 😝 [Japan what are you doing?](http://9gag.com/gag/amoRnz6)
+ - 😝 [Are you sure about that ?](http://9gag.com/gag/aBy4o2P)
+ - 💣 [110K lumen&#39;s discipline](http://9gag.com/gag/aE0ZQ1O)
+ - 😝 [He is clearly asking to get his, GODDAMN SNOOT BOOPED!!!](http://9gag.com/gag/a4PwWNy)
+ - 👉 [Sums it up](http://9gag.com/gag/apRVjK8)<!-- MEMES:END -->
 
 ---
 

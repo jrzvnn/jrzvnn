@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fixie fixie on the job](http://9gag.com/gag/aBy4o0D)
- - 😝 [He is the expert...](http://9gag.com/gag/abARB29)
- - 💣 [Jockeys without horses, this is a fun race for charity, and it&#39;s quite competitive](http://9gag.com/gag/azx4Ydx)
- - 😝 [Another hero](http://9gag.com/gag/a34NNgv)
- - 👉 [This is what casino commercials don&#39;t show you.](http://9gag.com/gag/aRBRo8Q)<!-- MEMES:END -->
+ - 😝 [Possibly a repost](http://9gag.com/gag/aZZRzGW)
+ - 😝 [Orks!](http://9gag.com/gag/aBy4XbO)
+ - 💣 [After two years of being together, I opened a caf\u00e9 with my goth girlfriend :&rpar;](http://9gag.com/gag/a87VKN3)
+ - 😝 [The human language is truly a marvel of specificity](http://9gag.com/gag/aGy7O1X)
+ - 👉 [An Honor indeed](http://9gag.com/gag/aMVqqQA)<!-- MEMES:END -->
 
 ---
 

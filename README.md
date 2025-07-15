@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why so British???](http://9gag.com/gag/aQzyV82)
- - 😝 [Kitties are fun to play with](http://9gag.com/gag/a7onpoq)
- - 💣 [How to Open a Bottle of Wine Without a Corkscrew](http://9gag.com/gag/aW4R24x)
+ - 😝 [When God sends you metaphore](http://9gag.com/gag/aVvRLyy)
+ - 😝 [Let&#39;s go... Spawn transformation](http://9gag.com/gag/aMVqqXW)
+ - 💣 [Kitties are fun to play with](http://9gag.com/gag/a7onpoq)
  - 😝 [Another hero](http://9gag.com/gag/a34NNgv)
- - 👉 [He is clearly asking to get his, GODDAMN SNOOT BOOPED!!!](http://9gag.com/gag/a4PwWNy)<!-- MEMES:END -->
+ - 👉 [A gas station ?!](http://9gag.com/gag/aQzyZYw)<!-- MEMES:END -->
 
 ---
 

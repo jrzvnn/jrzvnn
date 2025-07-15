@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He is clearly asking to get his, GODDAMN SNOOT BOOPED!!!](http://9gag.com/gag/a4PwWNy)
- - 😝 [Not on my Bingo card](http://9gag.com/gag/aRBRDEA)
- - 💣 [Japan what are you doing?](http://9gag.com/gag/amoRnz6)
- - 😝 [Sums it up](http://9gag.com/gag/apRVjK8)
- - 👉 [What a holiday.](http://9gag.com/gag/aO8ppGr)<!-- MEMES:END -->
+ - 😝 [That&#39;s some serious dedication to not losing bags. Other airports need to take notes.](http://9gag.com/gag/aAyvmQd)
+ - 😝 [Good job Man.? -100kg](http://9gag.com/gag/a6ZGxv9)
+ - 💣 [What friends are for](http://9gag.com/gag/aXPRenb)
+ - 😝 [Look what they took from us](http://9gag.com/gag/apRVdWB)
+ - 👉 [That day i slipped](http://9gag.com/gag/aKGKNg6)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Another hero](http://9gag.com/gag/a34NNgv)
- - 😝 [When God sends you metaphore](http://9gag.com/gag/aVvRLyy)
- - 💣 [This is what casino commercials don&#39;t show you.](http://9gag.com/gag/aRBRo8Q)
- - 😝 [How to Open a Bottle of Wine Without a Corkscrew](http://9gag.com/gag/aW4R24x)
- - 👉 [Kitties are fun to play with](http://9gag.com/gag/a7onpoq)<!-- MEMES:END -->
+ - 😝 [Why so British???](http://9gag.com/gag/aQzyV82)
+ - 💣 [A gas station ?!](http://9gag.com/gag/aQzyZYw)
+ - 😝 [After two years of being together, I opened a caf\u00e9 with my goth girlfriend :&rpar;](http://9gag.com/gag/a87VKN3)
+ - 👉 [How to Open a Bottle of Wine Without a Corkscrew](http://9gag.com/gag/aW4R24x)<!-- MEMES:END -->
 
 ---
 

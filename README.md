@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Debit Cards for Kids and Teens: Greenlight, BusyKid, Capital One and More](https://www.cnet.com/personal-finance/credit-cards/best-debit-cards-for-kids-and-teens/#ftag=CAD590a51e)
  - [PitchBook: US startup funding surged 75.6% YoY in H1 2025 to $162.8B, the strongest since H1 2021, driven by AI and on track for the second-best year ever &lpar;Reuters&rpar;](http://www.techmeme.com/250715/p2#a250715p2)
+ - [Don&#39;t Want to Upgrade to Windows 11? Microsoft Offers Free Windows 10 Security Updates](https://www.cnet.com/tech/computing/dont-want-to-upgrade-to-windows-11-microsoft-offers-free-windows-10-security-updates/#ftag=CAD590a51e)
  - [Is Nano-Hydroxyapatite Toothpaste an Effective Fluoride Alternative? Dentists Weigh In](https://www.cnet.com/health/personal-care/is-nano-hydroxyapatite-toothpaste-effective-fluoride-alternative-dentists-weigh-in/#ftag=CAD590a51e)
- - [Alibaba is putting $7B in Taobao promotions as JD.com invests $1.4B to grow food delivery, with both offering discounts to become China&#39;s leading &quot;everyday app&quot; &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/250715/p1#a250715p1)
- - [NZXT Discount Codes: 50% Off](https://www.wired.com/story/nzxt-discount-code/)
- - [Peacock Promo Code &amp; Deals: 16% Off July 2025](https://www.wired.com/story/peacock-promo-code/)<!-- TECH:END -->
+ - [Alibaba is putting $7B in Taobao promotions as JD.com invests $1.4B to grow food delivery, with both offering discounts to become China&#39;s leading &quot;everyday app&quot; &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/250715/p1#a250715p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

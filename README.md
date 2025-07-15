@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods Pro 2 hearing support goes global with wider rollout](https://appleinsider.com/articles/25/07/15/airpods-pro-2-hearing-support-goes-global-with-wider-rollout?utm_source=rss)
- - [Adidas now offers a laced version of its 3D-printed shoes](https://www.theverge.com/news/707699/adidas-laces-climacool-shoe-3d-printed)
- - [The FBI&#39;s Jeffrey Epstein Prison Video Had Nearly 3 Minutes Cut Out](https://www.wired.com/story/the-fbis-jeffrey-epstein-prison-video-had-nearly-3-minutes-cut-out/)
- - [Claude Code, Gemini CLI, and CLI Codex, terminal-based AI tools launched since February, have surprisingly gained ground on AI code editors with traditional UIs &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/250715/p23#a250715p23)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
+ - [Xbox tests letting you stream your own games on PC](https://www.theverge.com/news/707739/xbox-stream-your-own-game-pc-app)
+ - [Before iOS 26, Apple Will Release at Least One More iOS 18 Update Soon](https://www.cnet.com/tech/services-and-software/before-ios-26-apple-will-release-at-least-one-more-ios-18-update-soon/#ftag=CAD590a51e)
+ - [How to Watch Pokemon Presents 2025 for Legends: Z-A, TCG Pocket and More](https://www.cnet.com/tech/gaming/how-to-watch-pokemon-presents-2025-for-legends-z-a-tcg-pocket-and-more/#ftag=CAD590a51e)
+ - [Cloudflare starts blocking access to pirate sites in the UK; previously, blocking was almost entirely done by local ISPs &lpar;Andy Maxwell/TorrentFreak&rpar;](http://www.techmeme.com/250715/p24#a250715p24)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for July 16, #296](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-16-296/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

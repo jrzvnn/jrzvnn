@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gary Oldman. His sisters little Mo in EastEnders](http://9gag.com/gag/ajPRdwx)
- - 😝 [BREAKING NEWS!!!](http://9gag.com/gag/aXPRdmP)
+ - 😝 [How to Open a Bottle of Wine Without a Corkscrew](http://9gag.com/gag/aW4R24x)
+ - 😝 [If you want to visit London, learn Pakistani.](http://9gag.com/gag/aBy44zP)
  - 💣 [Are you sure about that ?](http://9gag.com/gag/aBy4o2P)
- - 😝 [Look what they took from us](http://9gag.com/gag/apRVdWB)
- - 👉 [Mix up.](http://9gag.com/gag/aoynnnX)<!-- MEMES:END -->
+ - 😝 [Sums it up](http://9gag.com/gag/apRVjK8)
+ - 👉 [After two years of being together, I opened a caf\u00e9 with my goth girlfriend :&rpar;](http://9gag.com/gag/a87VKN3)<!-- MEMES:END -->
 
 ---
 

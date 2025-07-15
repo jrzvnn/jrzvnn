@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD says it will restart shipments of its MI308 AI chips to China after the US Commerce Department said it would approve the sales, following Nvidia &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250715/p10#a250715p10)
+ - [6 Best Android Tablets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-android-tablets/)
+ - [Anthropic launches Claude for Financial Services, aiming to help analysts conduct market research and handle due diligence, with data from FactSet and others &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250715/p9#a250715p9)
  - [EU backs down on Big Tech tax ahead of US trade deal](https://appleinsider.com/articles/25/07/15/eu-backs-down-on-big-tech-tax-ahead-of-us-trade-deal?utm_medium=rss)
- - [Our Favorite Bottle Washers for Keeping Your Baby Bottles Safe and Clean &lpar;2025&rpar;](https://www.wired.com/gallery/best-bottle-washers/)
- - [PlayStation Plus Subscribers Can Play Cyberpunk 2077 and More Games Now](https://www.cnet.com/tech/gaming/playstation-plus-subscribers-can-play-cyberpunk-2077-and-more-games-now/#ftag=CAD590a51e)
- - [Drop Into Tony Hawk&#39;s Pro Skater 3 and 4, Now on Xbox Game Pass](https://www.cnet.com/tech/gaming/drop-into-tony-hawks-pro-skater-3-4-now-on-xbox-game-pass/#ftag=CAD590a51e)
- - [This Guy Attached 21 Chef’s Knives to a Slicing Robot Arm to Determine Which One Is Best](https://www.wired.com/story/quantified-knife-project/)<!-- TECH:END -->
+ - [Our Favorite Bottle Washers for Keeping Your Baby Bottles Safe and Clean &lpar;2025&rpar;](https://www.wired.com/gallery/best-bottle-washers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

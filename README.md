@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A gas station ?!](http://9gag.com/gag/aQzyZYw)
- - 😝 [Jockeys without horses, this is a fun race for charity, and it&#39;s quite competitive](http://9gag.com/gag/azx4Ydx)
+ - 😝 [Silence, ladies. Men contemplating](http://9gag.com/gag/a87Vwbd)
+ - 😝 [They caught me watching cat videos](https://www.reddit.com/r/funny/comments/1m0kzv4/they_caught_me_watching_cat_videos/)
  - 💣 [Are you sure about that ?](http://9gag.com/gag/aBy4o2P)
- - 😝 [Look what they took from us](http://9gag.com/gag/apRVdWB)
- - 👉 [Another hero](http://9gag.com/gag/a34NNgv)<!-- MEMES:END -->
+ - 😝 [How to Open a Bottle of Wine Without a Corkscrew](http://9gag.com/gag/aW4R24x)
+ - 👉 [Do your job anonymous or whoever](http://9gag.com/gag/aoynnXe)<!-- MEMES:END -->
 
 ---
 

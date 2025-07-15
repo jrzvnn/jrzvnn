@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Silence, ladies. Men contemplating](http://9gag.com/gag/a87Vwbd)
- - 😝 [They caught me watching cat videos](https://www.reddit.com/r/funny/comments/1m0kzv4/they_caught_me_watching_cat_videos/)
- - 💣 [Are you sure about that ?](http://9gag.com/gag/aBy4o2P)
- - 😝 [How to Open a Bottle of Wine Without a Corkscrew](http://9gag.com/gag/aW4R24x)
- - 👉 [Do your job anonymous or whoever](http://9gag.com/gag/aoynnXe)<!-- MEMES:END -->
+ - 😝 [Are you sure about that ?](http://9gag.com/gag/aBy4o2P)
+ - 💣 [How to Open a Bottle of Wine Without a Corkscrew](http://9gag.com/gag/aW4R24x)
+ - 😝 [Do your job anonymous or whoever](http://9gag.com/gag/aoynnXe)
+ - 👉 [It&#39;s genetics](http://9gag.com/gag/axymPEW)<!-- MEMES:END -->
 
 ---
 

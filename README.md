@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AirPods Pro 2 hearing support goes global with wider rollout](https://appleinsider.com/articles/25/07/15/airpods-pro-2-hearing-support-goes-global-with-wider-rollout?utm_source=rss)
  - [Adidas now offers a laced version of its 3D-printed shoes](https://www.theverge.com/news/707699/adidas-laces-climacool-shoe-3d-printed)
  - [The FBI&#39;s Jeffrey Epstein Prison Video Had Nearly 3 Minutes Cut Out](https://www.wired.com/story/the-fbis-jeffrey-epstein-prison-video-had-nearly-3-minutes-cut-out/)
  - [Claude Code, Gemini CLI, and CLI Codex, terminal-based AI tools launched since February, have surprisingly gained ground on AI code editors with traditional UIs &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/250715/p23#a250715p23)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Crypto PAC Fairshake says it has raised $109M since the US elections in November 2024, and $52M in H1 2025, as it prepares for the 2026 US midterm elections &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/250715/p22#a250715p22)<!-- TECH:END -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

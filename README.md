@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to Open a Bottle of Wine Without a Corkscrew](http://9gag.com/gag/aW4R24x)
- - 😝 [If you want to visit London, learn Pakistani.](http://9gag.com/gag/aBy44zP)
- - 💣 [Are you sure about that ?](http://9gag.com/gag/aBy4o2P)
- - 😝 [Sums it up](http://9gag.com/gag/apRVjK8)
- - 👉 [After two years of being together, I opened a caf\u00e9 with my goth girlfriend :&rpar;](http://9gag.com/gag/a87VKN3)<!-- MEMES:END -->
+ - 😝 [Good job Man.? -100kg](http://9gag.com/gag/a6ZGxv9)
+ - 😝 [Are you sure about that ?](http://9gag.com/gag/aBy4o2P)
+ - 💣 [Mix up.](http://9gag.com/gag/aoynnnX)
+ - 😝 [That day i slipped](http://9gag.com/gag/aKGKNg6)
+ - 👉 [That&#39;s some serious dedication to not losing bags. Other airports need to take notes.](http://9gag.com/gag/aAyvmQd)<!-- MEMES:END -->
 
 ---
 

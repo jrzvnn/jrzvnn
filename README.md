@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Thinking Machines Lab, Mira Murati&#39;s AI startup that launched only in February, raised $2B led by a16z; Nvidia, Accel, ServiceNow, Cisco, and AMD also invested &lpar;Aditya Soni/Reuters&rpar;](http://www.techmeme.com/250715/p18#a250715p18)
+ - [OpenEvidence, whose free AI search tool has signed up 40% of doctors in the US, raised $210M led by GV at a $3.5B valuation, up from $1B in February &lpar;Amy Feldman/Forbes&rpar;](http://www.techmeme.com/250715/p17#a250715p17)
  - [Uber is close to completing its quest to become the ultimate robotaxi app](https://www.theverge.com/news/707347/uber-baidu-robotaxi-deal-autonomous-ridehail)
  - [ICEBlock isn&amp;#8217;t &amp;#8216;completely anonymous&amp;#8217;](https://www.theverge.com/cyber-security/707116/iceblock-data-privacy-security-android-version)
- - [Beats is throwing a weekend party with themed drinks and prizes](https://appleinsider.com/articles/25/07/15/beats-is-throwing-a-weekend-party-with-themed-drinks-and-prizes?utm_source=rss)
- - [Faster Qi2.2 wireless power banks are on the way](https://www.theverge.com/news/707382/ugreen-magflow-magnetic-power-bank-wireless-charging-qi)
- - [Apple seems to be working on adding CUDA support to open-source ML framework MLX, which may mean that code developed using MLX would work with CUDA &lpar;Malcolm Owen/AppleInsider&rpar;](http://www.techmeme.com/250715/p16#a250715p16)<!-- TECH:END -->
+ - [Beats is throwing a weekend party with themed drinks and prizes](https://appleinsider.com/articles/25/07/15/beats-is-throwing-a-weekend-party-with-themed-drinks-and-prizes?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

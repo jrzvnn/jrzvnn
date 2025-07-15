@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why so British???](http://9gag.com/gag/aQzyV82)
+ - 😝 [Knee injuries are inevitable, it seems.](http://9gag.com/gag/a2vO2dd)
  - 😝 [Kitties are fun to play with](http://9gag.com/gag/a7onpoq)
- - 💣 [Knee injuries are inevitable, it seems.](http://9gag.com/gag/a2vO2dd)
- - 😝 [This is what casino commercials don&#39;t show you.](http://9gag.com/gag/aRBRo8Q)
+ - 💣 [Star Wars](http://9gag.com/gag/aE0ZXLe)
+ - 😝 [He is clearly asking to get his, GODDAMN SNOOT BOOPED!!!](http://9gag.com/gag/a4PwWNy)
  - 👉 [It&#39;s genetics](http://9gag.com/gag/axymPEW)<!-- MEMES:END -->
 
 ---

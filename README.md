@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A former OpenAI engineer details his experience working at the company, including its culture, engineering practices, rapid growth, and the launch of Codex &lpar;Calvin French-Owen&rpar;](http://www.techmeme.com/250715/p31#a250715p31)
  - [Several crypto regulation bills backed by Trump fail to clear a key hurdle in the US House after 13 Republicans voted with Democrats to block the legislation &lpar;Erin Doherty/CNBC&rpar;](http://www.techmeme.com/250715/p30#a250715p30)
  - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)
  - [Thinking Machines Lab Raises a Record $2 Billion, Announces Cofounders](https://www.wired.com/story/thinking-machines-lab-mira-murati-funding/)
- - [Roblox launches a licensing platform to help IP rights holders collaborate with creators, with Lionsgate, Netflix, Sega, and Kodansha as founding partners &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/250715/p29#a250715p29)
- - [Mark Zuckerberg Q&amp;A: Meta&#39;s focus on &quot;personal super intelligence&quot;, how large compensation packages pale in comparison to AI infra investments, AI glasses, more &lpar;The Information on YouTube&rpar;](http://www.techmeme.com/250715/p28#a250715p28)<!-- TECH:END -->
+ - [Roblox launches a licensing platform to help IP rights holders collaborate with creators, with Lionsgate, Netflix, Sega, and Kodansha as founding partners &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/250715/p29#a250715p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

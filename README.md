@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Cantor Equity Partners 1, a SPAC backed by Cantor Fitzgerald, is in late-stage talks with Blockstream Capital founder Adam Back to buy $3B+ in bitcoin &lpar;Financial Times&rpar;](http://www.techmeme.com/250715/p26#a250715p26)
  - [Trump announces billions in investments to make Pennsylvania an AI hub](https://www.theverge.com/news/707369/trump-ai-energy-investments-pennsylvania-billions)
  - [Users have uploaded 5,000 AI models, previously banned from Civitai for generating nonconsensual sexual content of real people, to Hugging Face &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250715/p25#a250715p25)
  - [Xbox tests letting you stream your own games on PC](https://www.theverge.com/news/707739/xbox-stream-your-own-game-pc-app)
- - [Before iOS 26, Apple Will Release at Least One More iOS 18 Update Soon](https://www.cnet.com/tech/services-and-software/before-ios-26-apple-will-release-at-least-one-more-ios-18-update-soon/#ftag=CAD590a51e)
- - [How to Watch Pokemon Presents 2025 for Legends: Z-A, TCG Pocket and More](https://www.cnet.com/tech/gaming/how-to-watch-pokemon-presents-2025-for-legends-z-a-tcg-pocket-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Before iOS 26, Apple Will Release at Least One More iOS 18 Update Soon](https://www.cnet.com/tech/services-and-software/before-ios-26-apple-will-release-at-least-one-more-ios-18-update-soon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

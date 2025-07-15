@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Grok&#39;s iOS app now features two AI &quot;Companions&quot;, or 3D animated avatars that interact with users via voice, including Ani, an anime character with an NSFW mode &lpar;Alexey Shabanov/TestingCatalog&rpar;](http://www.techmeme.com/250714/p33#a250714p33)
  - [A look at SpaceX&#39;s investment and Tesla&#39;s potential cash infusion in xAI and the idea that investing in Tesla is betting on the &quot;Musk Mars Conglomerate&quot; &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/250714/p32#a250714p32)
  - [Reddit says it has started verifying UK users&#39; ages before letting them &quot;view certain mature content&quot;, in order to comply with the country&#39;s Online Safety Act &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/250714/p31#a250714p31)
  - [The FDA Just Approved a New Blue Food Dye. Is It an Allergen?](https://www.cnet.com/health/nutrition/fda-just-approved-new-blue-food-dye-is-it-allergen/#ftag=CAD590a51e)
- - [Which Foldable Will You Flip For? Comparing Samsung&#39;s Galaxy Z Flip 7 and Z Flip 7 FE](https://www.cnet.com/tech/mobile/which-foldable-will-you-flip-for-comparing-samsungs-galaxy-z-flip-7-and-z-flip-7-fe/#ftag=CAD590a51e)
- - [Meta says it has taken down around 10M Facebook profiles so far this year that were impersonating or repeatedly reusing content from large content producers &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250714/p30#a250714p30)<!-- TECH:END -->
+ - [Which Foldable Will You Flip For? Comparing Samsung&#39;s Galaxy Z Flip 7 and Z Flip 7 FE](https://www.cnet.com/tech/mobile/which-foldable-will-you-flip-for-comparing-samsungs-galaxy-z-flip-7-and-z-flip-7-fe/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

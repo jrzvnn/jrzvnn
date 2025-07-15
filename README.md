@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tech Billionaires Back Erebor in the Wake of Silicon Valley Bank Collapse](https://www.wired.com/story/palmer-luckey-joe-lonsdale-bank-erebor/)
+ - [Developer angry that App Store is removing game that hasn&#39;t been updated in 7 years](https://appleinsider.com/articles/25/07/15/developer-angry-that-app-store-is-removing-game-that-hasnt-been-updated-in-7-years?utm_source=rss)
+ - [Grok will no longer call itself Hitler or base its opinions on Elon Musk&amp;#8217;s, promises xAI](https://www.theverge.com/x-ai/707442/grok-antisemitic-hitler-elon-musk-opinion-reprogrammed)
  - [Thinking Machines Lab, Mira Murati&#39;s AI startup that launched only in February, raised $2B led by a16z; Nvidia, Accel, ServiceNow, Cisco, and AMD also invested &lpar;Aditya Soni/Reuters&rpar;](http://www.techmeme.com/250715/p18#a250715p18)
- - [OpenEvidence, whose free AI search tool has signed up 40% of doctors in the US, raised $210M led by GV at a $3.5B valuation, up from $1B in February &lpar;Amy Feldman/Forbes&rpar;](http://www.techmeme.com/250715/p17#a250715p17)
- - [Uber is close to completing its quest to become the ultimate robotaxi app](https://www.theverge.com/news/707347/uber-baidu-robotaxi-deal-autonomous-ridehail)
- - [ICEBlock isn&amp;#8217;t &amp;#8216;completely anonymous&amp;#8217;](https://www.theverge.com/cyber-security/707116/iceblock-data-privacy-security-android-version)
- - [Beats is throwing a weekend party with themed drinks and prizes](https://appleinsider.com/articles/25/07/15/beats-is-throwing-a-weekend-party-with-themed-drinks-and-prizes?utm_source=rss)<!-- TECH:END -->
+ - [OpenEvidence, whose free AI search tool has signed up 40% of doctors in the US, raised $210M led by GV at a $3.5B valuation, up from $1B in February &lpar;Amy Feldman/Forbes&rpar;](http://www.techmeme.com/250715/p17#a250715p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

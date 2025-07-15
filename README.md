@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I bet barbers were tired of explaining that not everyone can pull off the Peaky Blinders cut. Some looks are just for the screen, not real life.](http://9gag.com/gag/aO8pj2E)
+ - 😝 [Fixie fixie on the job](http://9gag.com/gag/aBy4o0D)
  - 😝 [Japan what are you doing?](http://9gag.com/gag/amoRnz6)
- - 💣 [Fixie fixie on the job](http://9gag.com/gag/aBy4o0D)
- - 😝 [He is clearly asking to get his, GODDAMN SNOOT BOOPED!!!](http://9gag.com/gag/a4PwWNy)
- - 👉 [Little brother keeping it real](http://9gag.com/gag/aZZRdOz)<!-- MEMES:END -->
+ - 💣 [What a holiday.](http://9gag.com/gag/aO8ppGr)
+ - 😝 [Sums it up](http://9gag.com/gag/apRVjK8)
+ - 👉 [For ever 100 likes I&#39;ll make Marks hair longer.](http://9gag.com/gag/aE0ZNYO)<!-- MEMES:END -->
 
 ---
 

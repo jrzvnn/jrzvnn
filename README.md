@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nextdoor unveils new features like an interactive neighborhood map called Alerts, partners with 3,500+ local news outlets, and more, to revitalize its app &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/250715/p7#a250715p7)
  - [The EU is testing a prototype age verification app](https://www.theverge.com/news/699151/eu-age-verification-app-dsa-enforcement)
  - [Do You Need a Box Spring for Your Modern-Day Mattress? &lpar;2025&rpar;](https://www.wired.com/story/do-you-need-a-box-spring/)
  - [CoreWeave says it plans to invest up to $6B to set up a 100MW data center in Lancaster, PA, creating 175 jobs and potentially expanding to 300MW in the future &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250715/p6#a250715p6)
- - [Researchers: during the 12-day Iran-Israel war, both sides engaged in unprecedented psychological warfare using AI content and social media to spread propaganda &lpar;New York Times&rpar;](http://www.techmeme.com/250715/p5#a250715p5)
- - [The Enshittification of American Power](https://www.wired.com/story/enshittification-of-american-power/)<!-- TECH:END -->
+ - [Researchers: during the 12-day Iran-Israel war, both sides engaged in unprecedented psychological warfare using AI content and social media to spread propaganda &lpar;New York Times&rpar;](http://www.techmeme.com/250715/p5#a250715p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

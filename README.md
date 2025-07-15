@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Our biggest questions about ChromeOS and Android merging](https://www.theverge.com/google/707041/google-chromeos-android-os-merger-questions-phones-chromebooks-laptops-tablets)
- - [Tech Billionaires Back Erebor in the Wake of Silicon Valley Bank Collapse](https://www.wired.com/story/palmer-luckey-joe-lonsdale-bank-erebor/)
- - [Developer angry that App Store is removing game that hasn&#39;t been updated in 7 years](https://appleinsider.com/articles/25/07/15/developer-angry-that-app-store-is-removing-game-that-hasnt-been-updated-in-7-years?utm_source=rss)
- - [Grok will no longer call itself Hitler or base its opinions on Elon Musk&amp;#8217;s, promises xAI](https://www.theverge.com/x-ai/707442/grok-antisemitic-hitler-elon-musk-opinion-reprogrammed)
- - [Thinking Machines Lab, Mira Murati&#39;s AI startup that launched only in February, raised $2B led by a16z; Nvidia, Accel, ServiceNow, Cisco, and AMD also invested &lpar;Aditya Soni/Reuters&rpar;](http://www.techmeme.com/250715/p18#a250715p18)<!-- TECH:END -->
+ - [Apple and Ireland tax saga finally ends with $15 billion escrow withdrawal](https://appleinsider.com/articles/25/07/15/apple-and-ireland-tax-saga-finally-ends-with-15-billion-escrow-withdrawal?utm_source=rss)
+ - [Analogue’s 4K N64 has been delayed again, but only by a month](https://www.theverge.com/news/707586/analogue-3d-4k-n64-delay-august-2025)
+ - [Sony’s pocket-sized RX1R camera returns with its first update in 10 years](https://www.theverge.com/news/707589/sony-rx1r-iii-digital-compact-pocket-camera)
+ - [Researchers demonstrate a Rowhammer-style attack on Nvidia&#39;s RTX A6000, widely used in cloud services, and say it would likely work against other Nvidia GPUs &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/250715/p19#a250715p19)
+ - [Our biggest questions about ChromeOS and Android merging](https://www.theverge.com/google/707041/google-chromeos-android-os-merger-questions-phones-chromebooks-laptops-tablets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

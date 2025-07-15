@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What a holiday.](http://9gag.com/gag/aO8ppGr)
  - 😝 [Dexter&#39;s mom alone makes it worth it](http://9gag.com/gag/aBy4oRO)
- - 😝 [Perfect form](http://9gag.com/gag/adBRdQV)
- - 💣 [On of the oldest I think,](http://9gag.com/gag/ary8rVV)
- - 😝 [Not on my Bingo card](http://9gag.com/gag/aRBRDEA)
- - 👉 [Jules: This was Divine Intervention! You know what `divine intervention` is?](http://9gag.com/gag/ae9R2xm)<!-- MEMES:END -->
+ - 💣 [Not on my Bingo card](http://9gag.com/gag/aRBRDEA)
+ - 😝 [If you want to visit London, learn Pakistani.](http://9gag.com/gag/aBy44zP)
+ - 👉 [Sums it up](http://9gag.com/gag/apRVjK8)<!-- MEMES:END -->
 
 ---
 

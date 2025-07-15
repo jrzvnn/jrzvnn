@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your colleagues are living large on the same salary, and you&#39;re just trying to keep yourself afloat.](http://9gag.com/gag/a6ZG2dq)
  - 😝 [Why so British???](http://9gag.com/gag/aQzyV82)
- - 💣 [This is what casino commercials don&#39;t show you.](http://9gag.com/gag/aRBRo8Q)
- - 😝 [When God sends you metaphore](http://9gag.com/gag/aVvRLyy)
- - 👉 [Knee injuries are inevitable, it seems.](http://9gag.com/gag/a2vO2dd)<!-- MEMES:END -->
+ - 😝 [Kitties are fun to play with](http://9gag.com/gag/a7onpoq)
+ - 💣 [Knee injuries are inevitable, it seems.](http://9gag.com/gag/a2vO2dd)
+ - 😝 [This is what casino commercials don&#39;t show you.](http://9gag.com/gag/aRBRo8Q)
+ - 👉 [It&#39;s genetics](http://9gag.com/gag/axymPEW)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Another hero](http://9gag.com/gag/a34NNgv)
  - 😝 [Why so British???](http://9gag.com/gag/aQzyV82)
- - 💣 [A gas station ?!](http://9gag.com/gag/aQzyZYw)
- - 😝 [After two years of being together, I opened a caf\u00e9 with my goth girlfriend :&rpar;](http://9gag.com/gag/a87VKN3)
- - 👉 [How to Open a Bottle of Wine Without a Corkscrew](http://9gag.com/gag/aW4R24x)<!-- MEMES:END -->
+ - 😝 [Kitties are fun to play with](http://9gag.com/gag/a7onpoq)
+ - 💣 [How to Open a Bottle of Wine Without a Corkscrew](http://9gag.com/gag/aW4R24x)
+ - 😝 [Another hero](http://9gag.com/gag/a34NNgv)
+ - 👉 [He is clearly asking to get his, GODDAMN SNOOT BOOPED!!!](http://9gag.com/gag/a4PwWNy)<!-- MEMES:END -->
 
 ---
 

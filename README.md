@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Now Is a Very Good Time to Buy a Used EV. Here&#39;s Why](https://www.wired.com/story/now-is-a-very-good-time-to-buy-a-used-ev-heres-why/)
+ - [CrowdStrike: Chinese hacking attacks on US targets were up 2x from 2024 to 330+ incidents in 2025; US officials say China has shifted to &quot;hacking-for-hire&quot; &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/250716/p13#a250716p13)
  - [Chinese-made iPhones could be banned in US over theft of trade secrets](https://appleinsider.com/articles/25/07/16/chinese-made-iphones-could-be-banned-in-us-over-theft-of-trade-secrets?utm_source=rss)
  - [Which King Mattress Size Rules Your Sleep Style? &lpar;2025&rpar;](https://www.wired.com/story/king-mattress-sizes/)
- - [Join Our Livestream: Inside the AI Copyright Battles](https://www.wired.com/story/livestream-ai-copyright-battles/)
- - [The deluge of faster Qi2.2 wireless chargers is here](https://www.theverge.com/news/708060/qi-2-2-certification-25w-wpc-belkin-anker-ugreen-aukey)
- - [Analysis: 7,818 titles on Steam disclose generative AI usage, or 7% of Steam&#39;s total library of 114,126 games, up from ~1,000 titles in April 2024 &lpar;Ichiro Lambe/Totally Human Media&rpar;](http://www.techmeme.com/250716/p12#a250716p12)<!-- TECH:END -->
+ - [Join Our Livestream: Inside the AI Copyright Battles](https://www.wired.com/story/livestream-ai-copyright-battles/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Another hero](http://9gag.com/gag/a34NNgv)
- - 😝 [Gotcha b*tch](http://9gag.com/gag/agmK6Kg)
- - 💣 [Little brother keeping it real](http://9gag.com/gag/aZZRdOz)
- - 😝 [I bet barbers were tired of explaining that not everyone can pull off the Peaky Blinders cut. Some looks are just for the screen, not real life.](http://9gag.com/gag/aO8pj2E)
+ - 😝 [Do your job anonymous or whoever](http://9gag.com/gag/aoynnXe)
+ - 😝 [A classic is what it is.](http://9gag.com/gag/aXPReXd)
+ - 💣 [He really thought he had it in the bag](http://9gag.com/gag/a9yDVm0)
+ - 😝 [I wonder why](http://9gag.com/gag/a87Vzv1)
  - 👉 [Wife swap S12E02](http://9gag.com/gag/aD2QNeZ)<!-- MEMES:END -->
 
 ---

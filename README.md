@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft begins testing a Windows 11 feature for sharing the entire desktop with Copilot Vision; it requires first entering a special mode in the Copilot app &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/250716/p22#a250716p22)
+ - [Amazon&#39;s best $89 AirPods 4 deal is back after Prime Day](https://appleinsider.com/articles/25/07/15/amazons-best-89-airpods-4-deal-is-back-after-prime-day?utm_source=rss)
+ - [Jensen Huang says &quot;I don&#39;t think I changed&quot; Trump&#39;s mind on the US&#39; China export rules, and &quot;it&#39;s my job to inform the president about what I know very well&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/250716/p21#a250716p21)
  - [Sources: OpenAI is aiming to add a checkout system into ChatGPT, to ensure users complete transactions within the platform, with merchants paying a commission &lpar;Financial Times&rpar;](http://www.techmeme.com/250716/p20#a250716p20)
- - [Saudi startup Lucidya, which develops customer experience software, raised a $30M Series B led by Impact46, marking the largest AI funding round in the kingdom &lpar;Yassmin Jabri/Bloomberg&rpar;](http://www.techmeme.com/250716/p19#a250716p19)
- - [Stranger Things 5&amp;#8217;s first trailer promises an epic showdown](https://www.theverge.com/news/707540/stranger-things-5-teaser-trailer-netflix)
- - [ASML CEO Christophe Fouquet says &quot;while we still prepare for growth in 2026, we cannot confirm it&quot;, after Trump threatened 30% EU tariffs; ASML falls 10%+ &lpar;Mauro Orru/Wall Street Journal&rpar;](http://www.techmeme.com/250716/p18#a250716p18)
- - [OnePlus’ 2-in-1 USB cable charges your phone and smartwatch at the same time](https://www.theverge.com/news/708231/one-plus-2-in-1-supervooc-usb-cable-charger-smartphone-smartwatch)<!-- TECH:END -->
+ - [Saudi startup Lucidya, which develops customer experience software, raised a $30M Series B led by Impact46, marking the largest AI funding round in the kingdom &lpar;Yassmin Jabri/Bloomberg&rpar;](http://www.techmeme.com/250716/p19#a250716p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What do you think](http://9gag.com/gag/aE0ZNnp)
+ - 😝 [Do your job anonymous or whoever](http://9gag.com/gag/aoynnXe)
+ - 💣 [I bet barbers were tired of explaining that not everyone can pull off the Peaky Blinders cut. Some looks are just for the screen, not real life.](http://9gag.com/gag/aO8pj2E)
  - 😝 [Little brother keeping it real](http://9gag.com/gag/aZZRdOz)
- - 😝 [Sums it up](http://9gag.com/gag/apRVjK8)
- - 💣 [State of the UK](http://9gag.com/gag/a4PwWrv)
- - 😝 [I wonder why](http://9gag.com/gag/a87Vzv1)
- - 👉 [Japan what are you doing?](http://9gag.com/gag/amoRnz6)<!-- MEMES:END -->
+ - 👉 [Dexter&#39;s mom alone makes it worth it](http://9gag.com/gag/aBy4oRO)<!-- MEMES:END -->
 
 ---
 

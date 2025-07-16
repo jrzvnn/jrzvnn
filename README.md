@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York-based Talos, which develops digital asset trading infrastructure, says it acquired blockchain data provider Coin Metrics, a source says for over $100M &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/250716/p31#a250716p31)
- - [Faster, Apple Intelligence, and more: All the rumors about the 2025 Apple TV 4K](https://appleinsider.com/articles/25/07/16/faster-apple-intelligence-and-more-all-the-rumors-about-the-2025-apple-tv-4k?utm_source=rss)
- - [ElliQ Review: An AI Companion Bot for Lonely Elders](https://www.wired.com/review/elliq-ai-companion-robot/)
- - [DHS Faces New Pressure Over DNA Taken From Immigrant Children](https://www.wired.com/story/dhs-and-doj-face-new-pressure-over-collecting-childrens-dna/)
- - [Over Half of Teens Regularly Use AI Companions. Here&#39;s Why That&#39;s Not Ideal](https://www.cnet.com/tech/services-and-software/over-half-of-teens-regularly-use-ai-companions-heres-why-thats-not-ideal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I spent 24 hours flirting with Elon Musk&amp;#8217;s AI girlfriend](https://www.theverge.com/ai-artificial-intelligence/708482/i-spent-24-hours-flirting-with-elon-musks-ai-girlfriend)
+ - [Sources: Anthropic has rehired Boris Cherny and Cat Wu, who developed Claude Code, just two weeks after they left for Cursor developer Anysphere &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/250716/p33#a250716p33)
+ - [Razer&#39;s new Thunderbolt 5 Dock promises faster speeds &amp; a RGB desktop](https://appleinsider.com/articles/25/07/16/razers-new-thunderbolt-5-dock-promises-faster-speeds-a-rgb-desktop?utm_source=rss)
+ - [The US House clears a key procedural hurdle on cryptocurrency legislation after Trump intervened, setting the stage for likely passage of several crypto bills &lpar;Chris Prentice/Reuters&rpar;](http://www.techmeme.com/250716/p32#a250716p32)
+ - [GM and Redwood teaming up to make batteries for energy storage](https://www.theverge.com/news/708236/gm-redwood-battery-energy-storage-ev)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

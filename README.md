@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo&amp;#8217;s Zelda movie has found its princess and hero of time](https://www.theverge.com/nintendo/708143/nintendo-zelda-movie-casting-bo-bragason-benjamin-evan-ainsworth)
+ - [Bedsure&#39;s Bamboo Cooling Sheets Are Silky Soft, Durable, and Cheap](https://www.wired.com/review/bedsure-gentlesoft-cooling-sheets/)
+ - [Get the macOS Finder to Do Just About Anything by Typing Natural Language Commands](https://www.wired.com/story/substage-macos-finder-natural-language-commands/)
  - [Intel&#39;s former CEO backs President Trump&#39;s proposed sovereign wealth fund to secure US leadership in quantum, AI, and chips and combat China&#39;s tech advances &lpar;Pat Gelsinger/Wall Street Journal&rpar;](http://www.techmeme.com/250716/p14#a250716p14)
- - [Google&amp;#8217;s Discover page now summarizes news with AI](https://www.theverge.com/news/708089/google-discover-ai-summaries-ios-android)
- - [How Social Media Is Fueling Gen Z’s Sex Recession](https://www.wired.com/story/carter-sherman-the-second-coming-interview/)
- - [Here’s what Mac you need for Cyberpunk 2077](https://www.theverge.com/news/708100/cyberpunk-2077-mac-system-requirements-modes-ray-tracing)
- - [Now Is a Very Good Time to Buy a Used EV. Here&#39;s Why](https://www.wired.com/story/now-is-a-very-good-time-to-buy-a-used-ev-heres-why/)<!-- TECH:END -->
+ - [Google&amp;#8217;s Discover page now summarizes news with AI](https://www.theverge.com/news/708089/google-discover-ai-summaries-ios-android)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

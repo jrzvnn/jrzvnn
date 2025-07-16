@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Little brother keeping it real](http://9gag.com/gag/aZZRdOz)
+ - 😝 [Wife swap S12E02](http://9gag.com/gag/aD2QNeZ)
+ - 💣 [He really thought he had it in the bag](http://9gag.com/gag/a9yDVm0)
  - 😝 [I wonder why](http://9gag.com/gag/a87Vzv1)
- - 😝 [Strong independent woman](http://9gag.com/gag/aPArz7B)
- - 💣 [110K lumen&#39;s discipline](http://9gag.com/gag/aE0ZQ1O)
- - 😝 [I bet barbers were tired of explaining that not everyone can pull off the Peaky Blinders cut. Some looks are just for the screen, not real life.](http://9gag.com/gag/aO8pj2E)
  - 👉 [Poor choice of words](http://9gag.com/gag/avy94RE)<!-- MEMES:END -->
 
 ---

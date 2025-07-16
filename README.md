@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Study: in the past year, ~75% of S&amp;P 500-listed firms have updated their official risk disclosures to detail or expand upon mentions of AI-related risk factors &lpar;Dan Robinson/The Register&rpar;](http://www.techmeme.com/250715/p37#a250715p37)
- - [Wallpaper Engine doesn&#39;t exist on Mac, but there are alternatives](https://appleinsider.com/inside/macos/best/wallpaper-engine-doesnt-exist-on-mac-but-there-are-alternatives?utm_source=rss)
- - [Another High-Profile OpenAI Researcher Departs for Meta](https://www.wired.com/story/jason-wei-open-ai-meta/)
- - [Best Internet Providers in Berkeley, California](https://www.cnet.com/home/internet/best-internet-providers-in-berkeley-ca/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, July 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-july-16/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US Commerce Secretary Howard Lutnick says Nvidia&#39;s planned resumption of its H20 AI chip sales to China is part of US negotiations over rare earths and magnets &lpar;Reuters&rpar;](http://www.techmeme.com/250716/p3#a250716p3)
+ - [Sources: OpenAI researcher Jason Wei, who worked on o3 and deep research models, and his colleague Hyung Won Chung are joining Meta&#39;s new superintelligence lab &lpar;Kylie Robison/Wired&rpar;](http://www.techmeme.com/250716/p2#a250716p2)
+ - [Chewy Promo Codes: $20 Off | July 2025](https://www.wired.com/story/chewy-promo-code/)
+ - [Jensen Huang hailed AI models from DeepSeek, Alibaba, and Tencent as &quot;world class&quot; at a Beijing expo and said US licenses for H20 chips &quot;will come very fast&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/250716/p1#a250716p1)
+ - [Study: in the past year, ~75% of S&amp;P 500-listed firms have updated their official risk disclosures to detail or expand upon mentions of AI-related risk factors &lpar;Dan Robinson/The Register&rpar;](http://www.techmeme.com/250715/p37#a250715p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

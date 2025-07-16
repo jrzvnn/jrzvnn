@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel&#39;s former CEO backs President Trump&#39;s proposed sovereign wealth fund to secure US leadership in quantum, AI, and chips and combat China&#39;s tech advances &lpar;Pat Gelsinger/Wall Street Journal&rpar;](http://www.techmeme.com/250716/p14#a250716p14)
  - [Google&amp;#8217;s Discover page now summarizes news with AI](https://www.theverge.com/news/708089/google-discover-ai-summaries-ios-android)
  - [How Social Media Is Fueling Gen Z’s Sex Recession](https://www.wired.com/story/carter-sherman-the-second-coming-interview/)
  - [Here’s what Mac you need for Cyberpunk 2077](https://www.theverge.com/news/708100/cyberpunk-2077-mac-system-requirements-modes-ray-tracing)
- - [Now Is a Very Good Time to Buy a Used EV. Here&#39;s Why](https://www.wired.com/story/now-is-a-very-good-time-to-buy-a-used-ev-heres-why/)
- - [CrowdStrike: Chinese hacking attacks on US targets were up 2x from 2024 to 330+ incidents in 2025; US officials say China has shifted to &quot;hacking-for-hire&quot; &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/250716/p13#a250716p13)<!-- TECH:END -->
+ - [Now Is a Very Good Time to Buy a Used EV. Here&#39;s Why](https://www.wired.com/story/now-is-a-very-good-time-to-buy-a-used-ev-heres-why/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

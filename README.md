@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A classic is what it is.](http://9gag.com/gag/aXPReXd)
- - 😝 [What do you think](http://9gag.com/gag/aE0ZNnp)
- - 💣 [Wife swap S12E02](http://9gag.com/gag/aD2QNeZ)
- - 😝 [He really thought he had it in the bag](http://9gag.com/gag/a9yDVm0)
- - 👉 [Another hero](http://9gag.com/gag/a34NNgv)<!-- MEMES:END -->
+ - 😝 [For ever 100 likes I&#39;ll make Marks hair longer.](http://9gag.com/gag/aE0ZNYO)
+ - 😝 [My dad died watching your special!](http://9gag.com/gag/aPArdQg)
+ - 💣 [Auf der Heide bl\u00fcht, ein kleines Bl\u00fcmelein, Und das hei\u00dft: Erika](http://9gag.com/gag/amoRdR9)
+ - 😝 [Black Hole physics is differ](http://9gag.com/gag/amoRbnV)
+ - 👉 [Why so British???](http://9gag.com/gag/aQzyV82)<!-- MEMES:END -->
 
 ---
 

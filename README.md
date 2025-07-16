@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto exchange BigONE confirms a $27M hack from a hot wallet exploit, plans to pay back users and is working with security firm SlowMist to trace stolen assets &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/250716/p35#a250716p35)
- - [Here&#39;s How to Watch All the &#39;Jurassic Park&#39; and &#39;Jurassic World&#39; Movies Streaming at Home](https://www.cnet.com/tech/services-and-software/how-to-watch-jurassic-park-world-series/#ftag=CAD590a51e)
- - [I tested 30 smart locks, and these are the best](https://www.theverge.com/23393163/best-smart-door-lock)
- - [iPhone Fold could be thinner than an iPad Pro when opened](https://appleinsider.com/articles/25/07/16/iphone-fold-could-be-thinner-than-an-ipad-pro-when-opened?utm_source=rss)
- - [Chinese-made iPhones won&#39;t be banned in US over supplier trade theft allegations](https://appleinsider.com/articles/25/07/16/chinese-made-iphones-could-be-banned-in-us-over-theft-of-trade-secrets?utm_source=rss)<!-- TECH:END -->
+ - [Reflection, co-founded by ex-Google researchers, unveils Asimov, an AI agent that reads a company&#39;s codebase, docs, and more to help software engineering teams &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250716/p37#a250716p37)
+ - [Google is raising the price of Nest Aware subscriptions again](https://www.theverge.com/news/708538/google-nest-aware-plus-price-increase-subscription)
+ - [Elon Musk teases AI anime boyfriend based on Edward Cullen](https://www.theverge.com/ai-artificial-intelligence/708536/elon-musk-grok-xai-ai-boyfriend)
+ - [What the iPhone 17 Pro and IPhone 17 Pro Max will look like](https://appleinsider.com/articles/25/07/16/what-the-iphone-17-pro-and-iphone-17-pro-max-will-look-like?utm_source=rss)
+ - [OpenAI says it will use the Google Cloud Platform for ChatGPT and its API, adding it to a list of suppliers that also includes Microsoft, CoreWeave, and Oracle &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250716/p36#a250716p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

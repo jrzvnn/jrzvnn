@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla reveals Model 3 Plus and Model YL in China as price war heats up](https://www.theverge.com/news/708279/tesla-model-3-plus-model-yl-china-price-war)
  - [AirPods face slowing growth as Apple eyes ways to expand sales](https://appleinsider.com/articles/25/07/16/airpods-face-slowing-growth-as-apple-eyes-ways-to-expand-sales?utm_source=rss)
  - [Airbus&#39; Acubed and Google spinout SandboxAQ test MagNav, a quantum-sensing navigation device and potential GPS alternative, for 150+ flight hours across the US &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250716/p24#a250716p24)
  - [Our 11 Favorite Air Quality Monitors We’ve Tried &lpar;2025&rpar;](https://www.wired.com/gallery/best-indoor-air-quality-monitors/)
- - [Apple wants to avoid another three-year wait for more &#39;Severance&#39;](https://appleinsider.com/articles/25/07/16/apple-wants-to-avoid-another-three-year-wait-for-more-severance?utm_source=rss)
- - [Europol and Eurojust disrupt pro-Russian hacktivist group NoName057&lpar;16&rpar;, which claimed responsibility for 1,000+ DDoS attacks since 2022, and arrest two people &lpar;Jordan Robertson/Bloomberg&rpar;](http://www.techmeme.com/250716/p23#a250716p23)<!-- TECH:END -->
+ - [Apple wants to avoid another three-year wait for more &#39;Severance&#39;](https://appleinsider.com/articles/25/07/16/apple-wants-to-avoid-another-three-year-wait-for-more-severance?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

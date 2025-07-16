@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A wholesome post.](http://9gag.com/gag/aRBR9D2)
- - 😝 [Kill them all](http://9gag.com/gag/adBRrPj)
- - 💣 [Aqua man ? Why ?](http://9gag.com/gag/aD2QN8K)
+ - 😝 [A classic is what it is.](http://9gag.com/gag/aXPReXd)
+ - 😝 [He really thought he had it in the bag](http://9gag.com/gag/a9yDVm0)
+ - 💣 [A wholesome post.](http://9gag.com/gag/aRBR9D2)
  - 😝 [Little brother keeping it real](http://9gag.com/gag/aZZRdOz)
- - 👉 [I wonder why](http://9gag.com/gag/a87Vzv1)<!-- MEMES:END -->
+ - 👉 [Sorry, I don\u2019t make the rules.](http://9gag.com/gag/aZZRo39)<!-- MEMES:END -->
 
 ---
 

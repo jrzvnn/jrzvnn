@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bang &amp; Olufsen Beoplay A1 &lpar;Gen 3&rpar; Review: Perpetually Great](https://www.wired.com/review/bang-and-olufsen-beosound-a1/)
+ - [Donkey Kong Bananza turns destruction into joy](https://www.theverge.com/games-review/707704/donkey-kong-bananza-review-nintendo-switch-2)
  - [Nintendo&amp;#8217;s Zelda movie has found its princess and hero of time](https://www.theverge.com/nintendo/708143/nintendo-zelda-movie-casting-bo-bragason-benjamin-evan-ainsworth)
  - [Bedsure&#39;s Bamboo Cooling Sheets Are Silky Soft, Durable, and Cheap](https://www.wired.com/review/bedsure-gentlesoft-cooling-sheets/)
- - [Get the macOS Finder to Do Just About Anything by Typing Natural Language Commands](https://www.wired.com/story/substage-macos-finder-natural-language-commands/)
- - [Intel&#39;s former CEO backs President Trump&#39;s proposed sovereign wealth fund to secure US leadership in quantum, AI, and chips and combat China&#39;s tech advances &lpar;Pat Gelsinger/Wall Street Journal&rpar;](http://www.techmeme.com/250716/p14#a250716p14)
- - [Google&amp;#8217;s Discover page now summarizes news with AI](https://www.theverge.com/news/708089/google-discover-ai-summaries-ios-android)<!-- TECH:END -->
+ - [Get the macOS Finder to Do Just About Anything by Typing Natural Language Commands](https://www.wired.com/story/substage-macos-finder-natural-language-commands/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

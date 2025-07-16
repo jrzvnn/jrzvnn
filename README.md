@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do you like Trains too?](http://9gag.com/gag/ajPRG0g)
- - 😝 [Why so British???](http://9gag.com/gag/aQzyV82)
- - 💣 [Gotcha b*tch](http://9gag.com/gag/agmK6Kg)
- - 😝 [Good practical effects are on another level](http://9gag.com/gag/a5Q5y5o)
- - 👉 [Driven](http://9gag.com/gag/aD2QNxx)<!-- MEMES:END -->
+ - 😝 [I bet barbers were tired of explaining that not everyone can pull off the Peaky Blinders cut. Some looks are just for the screen, not real life.](http://9gag.com/gag/aO8pj2E)
+ - 😝 [I wonder why](http://9gag.com/gag/a87Vzv1)
+ - 💣 [Do your job anonymous or whoever](http://9gag.com/gag/aoynnXe)
+ - 😝 [Sorry, I don\u2019t make the rules.](http://9gag.com/gag/aZZRo39)
+ - 👉 [Kill them all](http://9gag.com/gag/adBRrPj)<!-- MEMES:END -->
 
 ---
 

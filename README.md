@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Scale AI lays off 200 employees, &amp;#8216;We ramped up our GenAI capacity too quickly&amp;#8217;](https://www.theverge.com/news/708377/scale-ai-layoffs-14-percent)
+ - [xAI&#39;s Grok is rated for kids age 12 and up in the iOS App Store, despite adding &quot;companions&quot;; one includes an NSFW &quot;Bad Rudy&quot; mode and the other becomes NSFW &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/250716/p30#a250716p30)
+ - [Dyneema’s New Fiber Composite Is Lighter, Stronger, and More Durable Than Ever](https://www.wired.com/story/dyneema-hyperlite-mountain-gear-new-ultralight-fabric/)
  - [The 13-inch M2 MacBook Air is a great back-to-school deal at just $699](https://www.theverge.com/tech/708267/apple-macbook-air-m2-one-plus-buds-4-deal-sale)
- - [Cyberpunk 2077&amp;#8217;s next update adds &amp;#8216;AutoDrive’ and VRR for consoles](https://www.theverge.com/news/708381/cyberpunk-2077-update-2-3-autodrive-vrr-consoles-patch)
- - [Google announces a Pixel event on August 20 in New York, with four new smartphones and a new watch expected &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/250716/p29#a250716p29)
- - [Faster, Apple Intelligence, and more: All the rumors about the 2025 Apple TV 4K](https://appleinsider.com/articles/25/07/16/faster-apple-intelligence-and-more-all-the-rumors-about-the-2025-apple-tv-4k?utm_source=rss)
- - [Join Our Livestream: Inside the AI Copyright Battles](https://www.wired.com/story/livestream-ai-copyright-battles/)<!-- TECH:END -->
+ - [Cyberpunk 2077&amp;#8217;s next update adds &amp;#8216;AutoDrive’ and VRR for consoles](https://www.theverge.com/news/708381/cyberpunk-2077-update-2-3-autodrive-vrr-consoles-patch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

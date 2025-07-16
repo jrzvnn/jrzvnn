@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Little brother keeping it real](http://9gag.com/gag/aZZRdOz)
  - 😝 [He really thought he had it in the bag](http://9gag.com/gag/a9yDVm0)
- - 💣 [OPs confession](http://9gag.com/gag/ary89Nd)
- - 😝 [The forbidden question..](http://9gag.com/gag/ary8rjB)
- - 👉 [9th century Female torso.](http://9gag.com/gag/an7G0q0)<!-- MEMES:END -->
+ - 😝 [I bet barbers were tired of explaining that not everyone can pull off the Peaky Blinders cut. Some looks are just for the screen, not real life.](http://9gag.com/gag/aO8pj2E)
+ - 💣 [Little brother keeping it real](http://9gag.com/gag/aZZRdOz)
+ - 😝 [OPs confession](http://9gag.com/gag/ary89Nd)
+ - 👉 [Strong independent woman](http://9gag.com/gag/aPArz7B)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A wholesome post.](http://9gag.com/gag/aRBR9D2)
- - 😝 [A classic is what it is.](http://9gag.com/gag/aXPReXd)
+ - 😝 [9th century Female torso.](http://9gag.com/gag/an7G0q0)
+ - 😝 [I wonder why](http://9gag.com/gag/a87Vzv1)
  - 💣 [He really thought he had it in the bag](http://9gag.com/gag/a9yDVm0)
- - 😝 [Japan what are you doing?](http://9gag.com/gag/amoRnz6)
- - 👉 [9th century Female torso.](http://9gag.com/gag/an7G0q0)<!-- MEMES:END -->
+ - 😝 [A wholesome post.](http://9gag.com/gag/aRBR9D2)
+ - 👉 [OPs confession](http://9gag.com/gag/ary89Nd)<!-- MEMES:END -->
 
 ---
 

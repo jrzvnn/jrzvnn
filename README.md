@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New York-based Talos, which develops digital asset trading infrastructure, says it acquired blockchain data provider Coin Metrics, a source says for over $100M &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/250716/p31#a250716p31)
  - [Faster, Apple Intelligence, and more: All the rumors about the 2025 Apple TV 4K](https://appleinsider.com/articles/25/07/16/faster-apple-intelligence-and-more-all-the-rumors-about-the-2025-apple-tv-4k?utm_source=rss)
  - [ElliQ Review: An AI Companion Bot for Lonely Elders](https://www.wired.com/review/elliq-ai-companion-robot/)
  - [DHS Faces New Pressure Over DNA Taken From Immigrant Children](https://www.wired.com/story/dhs-and-doj-face-new-pressure-over-collecting-childrens-dna/)
- - [Over Half of Teens Regularly Use AI Companions. Here&#39;s Why That&#39;s Not Ideal](https://www.cnet.com/tech/services-and-software/over-half-of-teens-regularly-use-ai-companions-heres-why-thats-not-ideal/#ftag=CAD590a51e)
- - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)<!-- TECH:END -->
+ - [Over Half of Teens Regularly Use AI Companions. Here&#39;s Why That&#39;s Not Ideal](https://www.cnet.com/tech/services-and-software/over-half-of-teens-regularly-use-ai-companions-heres-why-thats-not-ideal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

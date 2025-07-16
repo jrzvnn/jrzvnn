@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a plot twist](http://9gag.com/gag/a9yDDX6)
- - 😝 [He really thought he had it in the bag](http://9gag.com/gag/a9yDVm0)
- - 💣 [Sums it up](http://9gag.com/gag/apRVjK8)
+ - 😝 [Little brother keeping it real](http://9gag.com/gag/aZZRdOz)
+ - 😝 [Sums it up](http://9gag.com/gag/apRVjK8)
+ - 💣 [State of the UK](http://9gag.com/gag/a4PwWrv)
  - 😝 [I wonder why](http://9gag.com/gag/a87Vzv1)
- - 👉 [State of the UK](http://9gag.com/gag/a4PwWrv)<!-- MEMES:END -->
+ - 👉 [Japan what are you doing?](http://9gag.com/gag/amoRnz6)<!-- MEMES:END -->
 
 ---
 

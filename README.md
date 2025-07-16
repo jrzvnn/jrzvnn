@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Resume Builder survey of 1,342 managers in the US: 60% say they rely on AI to make personnel decisions, 78% of which use the tech in deciding raises &lpar;Radhika Rajkumar/ZDNET&rpar;](http://www.techmeme.com/250715/p36#a250715p36)
- - [Best Internet Providers in Bakersfield, California](https://www.cnet.com/home/internet/best-internet-providers-in-bakersfield-ca/#ftag=CAD590a51e)
- - [Source: OpenAI is preparing ChatGPT agents to let users create files compatible with PowerPoint and Excel, generate reports, and handle tasks involving websites &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/250715/p35#a250715p35)
- - [The DOJ says ex-Army soldier Cameron John Wagenius pleaded guilty to hacking over 10 telcos and to extortion; in February, he admitted hacking AT&amp;T and Verizon &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250715/p34#a250715p34)
- - [Now Microsoft&amp;#8217;s Copilot Vision AI can scan everything on your screen](https://www.theverge.com/news/707995/microsoft-copilot-vision-ai-windows-scan-screen-desktop)<!-- TECH:END -->
+ - [Study: in the past year, ~75% of S&amp;P 500-listed firms have updated their official risk disclosures to detail or expand upon mentions of AI-related risk factors &lpar;Dan Robinson/The Register&rpar;](http://www.techmeme.com/250715/p37#a250715p37)
+ - [Wallpaper Engine doesn&#39;t exist on Mac, but there are alternatives](https://appleinsider.com/inside/macos/best/wallpaper-engine-doesnt-exist-on-mac-but-there-are-alternatives?utm_source=rss)
+ - [Another High-Profile OpenAI Researcher Departs for Meta](https://www.wired.com/story/jason-wei-open-ai-meta/)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, July 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-july-16/#ftag=CAD590a51e)
+ - [Resume Builder survey of 1,342 managers in the US: 60% say they rely on AI to make personnel decisions, 78% of which use the tech in deciding raises &lpar;Radhika Rajkumar/ZDNET&rpar;](http://www.techmeme.com/250715/p36#a250715p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good luck storming the castle](http://9gag.com/gag/ayNvVDr)
- - 😝 [Little brother keeping it real](http://9gag.com/gag/aZZRdOz)
- - 💣 [Fast and furious](http://9gag.com/gag/axymQVD)
- - 😝 [Sorry, I don\u2019t make the rules.](http://9gag.com/gag/aZZRo39)
- - 👉 [A wholesome post.](http://9gag.com/gag/aRBR9D2)<!-- MEMES:END -->
+ - 😝 [Japan what are you doing?](http://9gag.com/gag/amoRnz6)
+ - 😝 [A wholesome post.](http://9gag.com/gag/aRBR9D2)
+ - 💣 [Another hero](http://9gag.com/gag/a34NNgv)
+ - 😝 [The forbidden question..](http://9gag.com/gag/ary8rjB)
+ - 👉 [He really thought he had it in the bag](http://9gag.com/gag/a9yDVm0)<!-- MEMES:END -->
 
 ---
 

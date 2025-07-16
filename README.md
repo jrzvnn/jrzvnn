@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ChatGPT adds audio transcription feature for desktop users](https://appleinsider.com/articles/25/07/16/chatgpt-adds-audio-transcription-feature-for-desktop-users?utm_source=rss)
  - [Reflection, co-founded by ex-Google researchers, unveils Asimov, an AI agent that reads a company&#39;s codebase, docs, and more to help software engineering teams &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250716/p37#a250716p37)
  - [Google is raising the price of Nest Aware subscriptions again](https://www.theverge.com/news/708538/google-nest-aware-plus-price-increase-subscription)
  - [Elon Musk teases AI anime boyfriend based on Edward Cullen](https://www.theverge.com/ai-artificial-intelligence/708536/elon-musk-grok-xai-ai-boyfriend)
- - [What the iPhone 17 Pro and IPhone 17 Pro Max will look like](https://appleinsider.com/articles/25/07/16/what-the-iphone-17-pro-and-iphone-17-pro-max-will-look-like?utm_source=rss)
- - [OpenAI says it will use the Google Cloud Platform for ChatGPT and its API, adding it to a list of suppliers that also includes Microsoft, CoreWeave, and Oracle &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250716/p36#a250716p36)<!-- TECH:END -->
+ - [What the iPhone 17 Pro and IPhone 17 Pro Max will look like](https://appleinsider.com/articles/25/07/16/what-the-iphone-17-pro-and-iphone-17-pro-max-will-look-like?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

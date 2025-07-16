@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bang &amp; Olufsen Beoplay A1 &lpar;Gen 3&rpar; Review: Perpetually Great](https://www.wired.com/review/bang-and-olufsen-beosound-a1/)
- - [Donkey Kong Bananza turns destruction into joy](https://www.theverge.com/games-review/707704/donkey-kong-bananza-review-nintendo-switch-2)
- - [Nintendo&amp;#8217;s Zelda movie has found its princess and hero of time](https://www.theverge.com/nintendo/708143/nintendo-zelda-movie-casting-bo-bragason-benjamin-evan-ainsworth)
- - [Bedsure&#39;s Bamboo Cooling Sheets Are Silky Soft, Durable, and Cheap](https://www.wired.com/review/bedsure-gentlesoft-cooling-sheets/)
- - [Get the macOS Finder to Do Just About Anything by Typing Natural Language Commands](https://www.wired.com/story/substage-macos-finder-natural-language-commands/)<!-- TECH:END -->
+ - [Former Top Google Researchers Have Made A New Kind of AI Agent](https://www.wired.com/story/former-top-google-researchers-have-made-a-new-kind-of-ai-agent/)
+ - [How Knox Morris went from TikToker to rock star](https://www.theverge.com/music/701539/how-knox-morris-turned-tiktok-virality-into-a-national-tour)
+ - [Why I love my Apple EarPods](https://www.theverge.com/tech/704616/apple-earpods-favorites)
+ - [HPE unveils several business changes, including forming a strategy committee and appointing a new board member, as it agrees to work with Elliott to boost value &lpar;Molly Schuetz/Bloomberg&rpar;](http://www.techmeme.com/250716/p17#a250716p17)
+ - [Firefox will be the only browser still supporting macOS Big Sur soon](https://appleinsider.com/articles/25/07/16/firefox-will-be-the-only-browser-still-supporting-macos-big-sur-soon?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

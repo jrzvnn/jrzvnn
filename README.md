@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Warner Bros logo transforming into a police blimp was a core childhood memory, truly iconic](http://9gag.com/gag/aKGKOqO)
- - 😝 [He is clearly asking to get his, GODDAMN SNOOT BOOPED!!!](http://9gag.com/gag/a4PwWNy)
+ - 😝 [Do your job anonymous or whoever](http://9gag.com/gag/aoynnXe)
+ - 😝 [If you want to visit London, learn Pakistani.](http://9gag.com/gag/aBy44zP)
  - 💣 [This is too real. Why do naps hit different with the skin marks?](http://9gag.com/gag/aGy7OnZ)
- - 😝 [Even Kevin wants to see](http://9gag.com/gag/a0eOWGB)
- - 👉 [Dexter&#39;s mom alone makes it worth it](http://9gag.com/gag/aBy4oRO)<!-- MEMES:END -->
+ - 😝 [He is clearly asking to get his, GODDAMN SNOOT BOOPED!!!](http://9gag.com/gag/a4PwWNy)
+ - 👉 [State of the UK](http://9gag.com/gag/a4PwWrv)<!-- MEMES:END -->
 
 ---
 

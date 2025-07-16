@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Another hero](http://9gag.com/gag/a34NNgv)
- - 😝 [Traffic maniac](http://9gag.com/gag/a0eOONO)
- - 💣 [I wonder why](http://9gag.com/gag/a87Vzv1)
- - 😝 [Sums it up](http://9gag.com/gag/apRVjK8)
+ - 😝 [What a plot twist](http://9gag.com/gag/a9yDDX6)
+ - 😝 [He really thought he had it in the bag](http://9gag.com/gag/a9yDVm0)
+ - 💣 [Sums it up](http://9gag.com/gag/apRVjK8)
+ - 😝 [I wonder why](http://9gag.com/gag/a87Vzv1)
  - 👉 [State of the UK](http://9gag.com/gag/a4PwWrv)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tokopedia sellers say Tokopedia&#39;s strengths have eroded since its TikTok Shop merger in Indonesia, driving thousands of sellers to join rivals, including Toco &lpar;Michelle Anindya/Rest of World&rpar;](http://www.techmeme.com/250716/p7#a250716p7)
+ - [&#39;The Summer I Turned Pretty&#39; Is Back: How to Watch Belly, Conrad and Jeremiah&#39;s Final Season](https://www.cnet.com/tech/services-and-software/the-summer-i-turned-pretty-is-back-how-to-watch-belly-conrad-and-jeremiahs-final-season/#ftag=CAD590a51e)
  - [Google says its Big Sleep AI agent for finding unknown software vulnerabilities recently discovered a critical SQLite flaw that &quot;was at risk of being exploited&quot; &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/250716/p6#a250716p6)
- - [ASML reports Q2 net sales of €7.7B, net income of €2.29B, and net bookings of €5.5B vs. €4.19B est., with tariffs having a &quot;less negative&quot; impact than expected &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250716/p5#a250716p5)
- - [SharpLink Gaming, a Nasdaq-listed online gambling marketing company, becomes the largest corporate ether holder with 280,706 ETH, surpassing Ethereum Foundation &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/250716/p4#a250716p4)
- - [US Commerce Secretary Howard Lutnick says Nvidia&#39;s planned resumption of its H20 AI chip sales to China is part of US negotiations over rare earths and magnets &lpar;Reuters&rpar;](http://www.techmeme.com/250716/p3#a250716p3)
- - [Sources: OpenAI researcher Jason Wei, who worked on o3 and deep research models, and his colleague Hyung Won Chung are joining Meta&#39;s new superintelligence lab &lpar;Kylie Robison/Wired&rpar;](http://www.techmeme.com/250716/p2#a250716p2)<!-- TECH:END -->
+ - [ASML reports Q2 net sales of €7.7B, net income of €2.29B, and net bookings of €5.5B, above €4.19B est., as tariffs have a &quot;less negative&quot; impact than expected &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250716/p5#a250716p5)
+ - [SharpLink Gaming, a Nasdaq-listed online gambling marketing company, becomes the largest corporate ether holder with 280,706, surpassing the Ethereum Foundation &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/250716/p4#a250716p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

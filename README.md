@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Christian bale is building a village for foster kids, he is bruce wayne](http://9gag.com/gag/aMVqWqX)
- - 😝 [For ever 100 likes I&#39;ll make Marks hair longer.](http://9gag.com/gag/aE0ZNYO)
- - 💣 [My dad died watching your special!](http://9gag.com/gag/aPArdQg)
- - 😝 [Black Hole physics is differ](http://9gag.com/gag/amoRbnV)
- - 👉 [Why so British???](http://9gag.com/gag/aQzyV82)<!-- MEMES:END -->
+ - 😝 [I wonder why](http://9gag.com/gag/a87Vzv1)
+ - 😝 [What a holiday.](http://9gag.com/gag/aO8ppGr)
+ - 💣 [Almost](http://9gag.com/gag/azx4Dzm)
+ - 😝 [State of the UK](http://9gag.com/gag/a4PwWrv)
+ - 👉 [Dexter&#39;s mom alone makes it worth it](http://9gag.com/gag/aBy4oRO)<!-- MEMES:END -->
 
 ---
 

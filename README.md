@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [OPs confession](http://9gag.com/gag/ary89Nd)
- - 😝 [Sums it up](http://9gag.com/gag/apRVjK8)
- - 💣 [Kill them all](http://9gag.com/gag/adBRrPj)
  - 😝 [Little brother keeping it real](http://9gag.com/gag/aZZRdOz)
- - 👉 [Fast and furious](http://9gag.com/gag/axymQVD)<!-- MEMES:END -->
+ - 😝 [Fast and furious](http://9gag.com/gag/axymQVD)
+ - 💣 [Sums it up](http://9gag.com/gag/apRVjK8)
+ - 😝 [OPs confession](http://9gag.com/gag/ary89Nd)
+ - 👉 [He really thought he had it in the bag](http://9gag.com/gag/a9yDVm0)<!-- MEMES:END -->
 
 ---
 

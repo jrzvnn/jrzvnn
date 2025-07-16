@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I spent 24 hours flirting with Elon Musk&amp;#8217;s AI girlfriend](https://www.theverge.com/ai-artificial-intelligence/708482/i-spent-24-hours-flirting-with-elon-musks-ai-girlfriend)
- - [Sources: Anthropic has rehired Boris Cherny and Cat Wu, who developed Claude Code, just two weeks after they left for Cursor developer Anysphere &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/250716/p33#a250716p33)
- - [Razer&#39;s new Thunderbolt 5 Dock promises faster speeds &amp; a RGB desktop](https://appleinsider.com/articles/25/07/16/razers-new-thunderbolt-5-dock-promises-faster-speeds-a-rgb-desktop?utm_source=rss)
- - [The US House clears a key procedural hurdle on cryptocurrency legislation after Trump intervened, setting the stage for likely passage of several crypto bills &lpar;Chris Prentice/Reuters&rpar;](http://www.techmeme.com/250716/p32#a250716p32)
- - [GM and Redwood teaming up to make batteries for energy storage](https://www.theverge.com/news/708236/gm-redwood-battery-energy-storage-ev)<!-- TECH:END -->
+ - [Mercedes-Benz will let you use an in-car camera in Microsoft Teams while driving](https://www.theverge.com/news/708481/microsoft-teams-mercedes-benz-integration-in-car-camera-support)
+ - [Can US Measles Outbreaks Be Stopped?](https://www.wired.com/story/can-us-measles-outbreaks-be-stopped/)
+ - [Watch Our Livestream Replay: Inside the AI Copyright Battles](https://www.wired.com/story/livestream-ai-copyright-battles/)
+ - [Zelda’s new live-action stars could be around for a long time](https://www.theverge.com/nintendo/708494/nintendo-the-legend-of-zelda-movie-leads-stars-long-time)
+ - [I spent 24 hours flirting with Elon Musk&amp;#8217;s AI girlfriend](https://www.theverge.com/ai-artificial-intelligence/708482/i-spent-24-hours-flirting-with-elon-musks-ai-girlfriend)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Subnautica 2&amp;#8217;s creators sue their publisher for ‘severely’ damaging the game’s release](https://www.theverge.com/entertainment/708676/subnautica-2-former-ceo-lawsuit-krafton-sabotage)
+ - [Pro Chefs Call Out 20 Kitchen Tools They Find Absolutely Useless](https://www.cnet.com/news/pro-chefs-call-out-20-kitchen-tools-they-find-absolutely-useless/#ftag=CAD590a51e)
  - [The trial for an $8B lawsuit by Meta investors against Mark Zuckerberg and other leaders opens over claims tied to the 2018 Cambridge Analytica privacy scandal &lpar;Associated Press&rpar;](http://www.techmeme.com/250716/p39#a250716p39)
  - [Filing: Intel is laying off 5,000+ employees across California, Oregon, Texas, and Arizona; California cuts affect 1,935, more than double the initial estimates &lpar;Nathan Owens/Manufacturing Dive&rpar;](http://www.techmeme.com/250716/p38#a250716p38)
- - [I Finally Held a Foldable That Doesn&#39;t Feel Like Two Stacked Phones: the Galaxy Z Fold 7](https://www.cnet.com/tech/mobile/i-finally-held-a-foldable-that-doesnt-feel-like-two-stacked-phones-the-galaxy-z-fold-7/#ftag=CAD590a51e)
- - [Beeper Relaunch Lets You Link Your Chat Apps Without the Cloud, but Still No iMessage](https://www.cnet.com/tech/mobile/beeper-relaunch-lets-you-link-your-chat-apps-without-the-cloud-but-still-no-imessage/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I Finally Held a Foldable That Doesn&#39;t Feel Like Two Stacked Phones: The Galaxy Z Fold 7](https://www.cnet.com/tech/mobile/i-finally-held-a-foldable-that-doesnt-feel-like-two-stacked-phones-the-galaxy-z-fold-7/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

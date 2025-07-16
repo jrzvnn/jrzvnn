@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good practical effects are on another level](http://9gag.com/gag/a5Q5y5o)
- - 😝 [Repost #3 Cartoonist: Selcuk Erdem](http://9gag.com/gag/azx4oNm)
- - 💣 [Driven](http://9gag.com/gag/aD2QNxx)
- - 😝 [Do you like Trains too?](http://9gag.com/gag/ajPRG0g)
- - 👉 [DNA Test](http://9gag.com/gag/a1mOqLv)<!-- MEMES:END -->
+ - 😝 [Little brother keeping it real](http://9gag.com/gag/aZZRdOz)
+ - 😝 [He really thought he had it in the bag](http://9gag.com/gag/a9yDVm0)
+ - 💣 [OPs confession](http://9gag.com/gag/ary89Nd)
+ - 😝 [The forbidden question..](http://9gag.com/gag/ary8rjB)
+ - 👉 [9th century Female torso.](http://9gag.com/gag/an7G0q0)<!-- MEMES:END -->
 
 ---
 

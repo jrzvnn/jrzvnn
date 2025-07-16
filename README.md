@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Filing: Intel is laying off 5,000+ employees across California, Oregon, Texas, and Arizona; California cuts affect 1,935, more than double the initial estimates &lpar;Nathan Owens/Manufacturing Dive&rpar;](http://www.techmeme.com/250716/p38#a250716p38)
+ - [I Finally Held a Foldable That Doesn&#39;t Feel Like Two Stacked Phones: the Galaxy Z Fold 7](https://www.cnet.com/tech/mobile/i-finally-held-a-foldable-that-doesnt-feel-like-two-stacked-phones-the-galaxy-z-fold-7/#ftag=CAD590a51e)
+ - [Beeper Relaunch Lets You Link Your Chat Apps Without the Cloud, but Still No iMessage](https://www.cnet.com/tech/mobile/beeper-relaunch-lets-you-link-your-chat-apps-without-the-cloud-but-still-no-imessage/#ftag=CAD590a51e)
  - [iPhone 17 Pro may get display upgrade Apple reportedly scrapped](https://appleinsider.com/articles/25/07/16/iphone-17-pro-may-get-display-upgrade-apple-reportedly-scrapped?utm_source=rss)
- - [This &#39;90s Movie Is a Sci-Fi Techno-Noir Gem, and It&#39;s Streaming Free on Tubi](https://www.cnet.com/culture/entertainment/this-90s-movie-is-a-sci-fi-techno-noir-gem-and-its-streaming-free-on-tubi/#ftag=CAD590a51e)
- - [Price war: Save $250 on Apple&#39;s M4 MacBook Pro with 24GB RAM, 1TB SSD](https://appleinsider.com/articles/25/07/16/price-war-save-250-on-apples-m4-macbook-pro-with-24gb-ram-1tb-ssd?utm_source=rss)
- - [Best Internet Providers in Fort Worth, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-fort-worth-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This &#39;90s Movie Is a Sci-Fi Techno-Noir Gem, and It&#39;s Streaming Free on Tubi](https://www.cnet.com/culture/entertainment/this-90s-movie-is-a-sci-fi-techno-noir-gem-and-its-streaming-free-on-tubi/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

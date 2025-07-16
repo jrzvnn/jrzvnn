@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft begins testing a Windows 11 feature for sharing the entire desktop with Copilot Vision; it requires first entering a special mode in the Copilot app &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/250716/p22#a250716p22)
- - [Amazon&#39;s best $89 AirPods 4 deal is back after Prime Day](https://appleinsider.com/articles/25/07/15/amazons-best-89-airpods-4-deal-is-back-after-prime-day?utm_source=rss)
- - [Jensen Huang says &quot;I don&#39;t think I changed&quot; Trump&#39;s mind on the US&#39; China export rules, and &quot;it&#39;s my job to inform the president about what I know very well&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/250716/p21#a250716p21)
- - [Sources: OpenAI is aiming to add a checkout system into ChatGPT, to ensure users complete transactions within the platform, with merchants paying a commission &lpar;Financial Times&rpar;](http://www.techmeme.com/250716/p20#a250716p20)
- - [Saudi startup Lucidya, which develops customer experience software, raised a $30M Series B led by Impact46, marking the largest AI funding round in the kingdom &lpar;Yassmin Jabri/Bloomberg&rpar;](http://www.techmeme.com/250716/p19#a250716p19)<!-- TECH:END -->
+ - [AirPods face slowing growth as Apple eyes ways to expand sales](https://appleinsider.com/articles/25/07/16/airpods-face-slowing-growth-as-apple-eyes-ways-to-expand-sales?utm_source=rss)
+ - [Airbus&#39; Acubed and Google spinout SandboxAQ test MagNav, a quantum-sensing navigation device and potential GPS alternative, for 150+ flight hours across the US &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250716/p24#a250716p24)
+ - [Our 11 Favorite Air Quality Monitors We’ve Tried &lpar;2025&rpar;](https://www.wired.com/gallery/best-indoor-air-quality-monitors/)
+ - [Apple wants to avoid another three-year wait for more &#39;Severance&#39;](https://appleinsider.com/articles/25/07/16/apple-wants-to-avoid-another-three-year-wait-for-more-severance?utm_source=rss)
+ - [Europol and Eurojust disrupt pro-Russian hacktivist group NoName057&lpar;16&rpar;, which claimed responsibility for 1,000+ DDoS attacks since 2022, and arrest two people &lpar;Jordan Robertson/Bloomberg&rpar;](http://www.techmeme.com/250716/p23#a250716p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

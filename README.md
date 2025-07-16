@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crypto exchange BigONE confirms a $27M hack from a hot wallet exploit, plans to pay back users and is working with security firm SlowMist to trace stolen assets &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/250716/p35#a250716p35)
+ - [Here&#39;s How to Watch All the &#39;Jurassic Park&#39; and &#39;Jurassic World&#39; Movies Streaming at Home](https://www.cnet.com/tech/services-and-software/how-to-watch-jurassic-park-world-series/#ftag=CAD590a51e)
  - [I tested 30 smart locks, and these are the best](https://www.theverge.com/23393163/best-smart-door-lock)
  - [iPhone Fold could be thinner than an iPad Pro when opened](https://appleinsider.com/articles/25/07/16/iphone-fold-could-be-thinner-than-an-ipad-pro-when-opened?utm_source=rss)
- - [Chinese-made iPhones won&#39;t be banned in US over supplier trade theft allegations](https://appleinsider.com/articles/25/07/16/chinese-made-iphones-could-be-banned-in-us-over-theft-of-trade-secrets?utm_source=rss)
- - [Sources: Anthropic&#39;s financial performance has prompted some investors to indicate interest in funding the company at a valuation of $100B+ if it pursues a deal &lpar;The Information&rpar;](http://www.techmeme.com/250716/p34#a250716p34)
- - [Mercedes-Benz will let you use an in-car camera in Microsoft Teams while driving](https://www.theverge.com/news/708481/microsoft-teams-mercedes-benz-integration-in-car-camera-support)<!-- TECH:END -->
+ - [Chinese-made iPhones won&#39;t be banned in US over supplier trade theft allegations](https://appleinsider.com/articles/25/07/16/chinese-made-iphones-could-be-banned-in-us-over-theft-of-trade-secrets?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

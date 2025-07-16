@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Insta360 now offers lens filters and a larger battery for its 360-degree action cam](https://www.theverge.com/news/708272/insta360-x5-action-camera-lens-filters-firmware-update)
- - [Google Search&#39;s AI Mode gets Gemini 2.5 Pro and new deep research capabilities; Google also expands an AI-powered business calling feature to all users in US &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250716/p27#a250716p27)
- - [Google’s AI can now make phone calls for you](https://www.theverge.com/news/708210/google-ai-phone-calls-ai-mode-gemini-upgrade)
- - [Bedrock Robotics raised $80M from Eclipse and 8VC to develop retrofit self-driving kits for construction and worksite vehicles, in testing with five companies &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/250716/p26#a250716p26)
- - [Scale AI says it is laying off 200 full-time employees, or ~14% of its global workforce, and will stop working with 500 contractors, after Meta invested $14.3B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250716/p25#a250716p25)<!-- TECH:END -->
+ - [The 13-inch M2 MacBook Air is a great back-to-school deal at just $699](https://www.theverge.com/tech/708267/apple-macbook-air-m2-one-plus-buds-4-deal-sale)
+ - [Cyberpunk 2077&amp;#8217;s next update adds &amp;#8216;AutoDrive’ and VRR for consoles](https://www.theverge.com/news/708381/cyberpunk-2077-update-2-3-autodrive-vrr-consoles-patch)
+ - [Google announces a Pixel event on August 20 in New York, with four new smartphones and a new watch expected &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/250716/p29#a250716p29)
+ - [Faster, Apple Intelligence, and more: All the rumors about the 2025 Apple TV 4K](https://appleinsider.com/articles/25/07/16/faster-apple-intelligence-and-more-all-the-rumors-about-the-2025-apple-tv-4k?utm_source=rss)
+ - [Join Our Livestream: Inside the AI Copyright Battles](https://www.wired.com/story/livestream-ai-copyright-battles/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

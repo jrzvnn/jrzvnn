@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For ever 100 likes I&#39;ll make Marks hair longer.](http://9gag.com/gag/aE0ZNYO)
- - 😝 [My dad died watching your special!](http://9gag.com/gag/aPArdQg)
- - 💣 [Auf der Heide bl\u00fcht, ein kleines Bl\u00fcmelein, Und das hei\u00dft: Erika](http://9gag.com/gag/amoRdR9)
- - 😝 [Black Hole physics is differ](http://9gag.com/gag/amoRbnV)
- - 👉 [Why so British???](http://9gag.com/gag/aQzyV82)<!-- MEMES:END -->
+ - 😝 [Another hero](http://9gag.com/gag/a34NNgv)
+ - 😝 [Gotcha b*tch](http://9gag.com/gag/agmK6Kg)
+ - 💣 [Little brother keeping it real](http://9gag.com/gag/aZZRdOz)
+ - 😝 [I bet barbers were tired of explaining that not everyone can pull off the Peaky Blinders cut. Some looks are just for the screen, not real life.](http://9gag.com/gag/aO8pj2E)
+ - 👉 [Wife swap S12E02](http://9gag.com/gag/aD2QNeZ)<!-- MEMES:END -->
 
 ---
 

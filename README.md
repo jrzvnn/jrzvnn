@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A wholesome post.](http://9gag.com/gag/aRBR9D2)
  - 😝 [Kill them all](http://9gag.com/gag/adBRrPj)
- - 😝 [I bet barbers were tired of explaining that not everyone can pull off the Peaky Blinders cut. Some looks are just for the screen, not real life.](http://9gag.com/gag/aO8pj2E)
- - 💣 [Little brother keeping it real](http://9gag.com/gag/aZZRdOz)
- - 😝 [Strong independent woman](http://9gag.com/gag/aPArz7B)
- - 👉 [Japan what are you doing?](http://9gag.com/gag/amoRnz6)<!-- MEMES:END -->
+ - 💣 [Aqua man ? Why ?](http://9gag.com/gag/aD2QN8K)
+ - 😝 [Little brother keeping it real](http://9gag.com/gag/aZZRdOz)
+ - 👉 [I wonder why](http://9gag.com/gag/a87Vzv1)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Price war: Save $250 on Apple&#39;s M4 MacBook Pro with 24GB RAM, 1TB SSD](https://appleinsider.com/articles/25/07/16/price-war-save-250-on-apples-m4-macbook-pro-with-24gb-ram-1tb-ssd?utm_source=rss)
  - [ChatGPT adds audio transcription feature for desktop users](https://appleinsider.com/articles/25/07/16/chatgpt-adds-audio-transcription-feature-for-desktop-users?utm_source=rss)
  - [Reflection, co-founded by ex-Google researchers, unveils Asimov, an AI agent that reads a company&#39;s codebase, docs, and more to help software engineering teams &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250716/p37#a250716p37)
  - [Google is raising the price of Nest Aware subscriptions again](https://www.theverge.com/news/708538/google-nest-aware-plus-price-increase-subscription)
- - [Elon Musk teases AI anime boyfriend based on Edward Cullen](https://www.theverge.com/ai-artificial-intelligence/708536/elon-musk-grok-xai-ai-boyfriend)
- - [What the iPhone 17 Pro and IPhone 17 Pro Max will look like](https://appleinsider.com/articles/25/07/16/what-the-iphone-17-pro-and-iphone-17-pro-max-will-look-like?utm_source=rss)<!-- TECH:END -->
+ - [Elon Musk teases AI anime boyfriend based on Edward Cullen](https://www.theverge.com/ai-artificial-intelligence/708536/elon-musk-grok-xai-ai-boyfriend)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

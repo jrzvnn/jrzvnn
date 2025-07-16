@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Razer&amp;#8217;s $350 eGPU chassis only comes with a Thunderbolt 5 cable](https://www.theverge.com/news/708202/razer-core-x-v2-egpu-price-thunderbolt-5)
  - [Former Top Google Researchers Have Made A New Kind of AI Agent](https://www.wired.com/story/former-top-google-researchers-have-made-a-new-kind-of-ai-agent/)
  - [How Knox Morris went from TikToker to rock star](https://www.theverge.com/music/701539/how-knox-morris-turned-tiktok-virality-into-a-national-tour)
  - [Why I love my Apple EarPods](https://www.theverge.com/tech/704616/apple-earpods-favorites)
- - [HPE unveils several business changes, including forming a strategy committee and appointing a new board member, as it agrees to work with Elliott to boost value &lpar;Molly Schuetz/Bloomberg&rpar;](http://www.techmeme.com/250716/p17#a250716p17)
- - [Firefox will be the only browser still supporting macOS Big Sur soon](https://appleinsider.com/articles/25/07/16/firefox-will-be-the-only-browser-still-supporting-macos-big-sur-soon?utm_source=rss)<!-- TECH:END -->
+ - [HPE unveils several business changes, including forming a strategy committee and appointing a new board member, as it agrees to work with Elliott to boost value &lpar;Molly Schuetz/Bloomberg&rpar;](http://www.techmeme.com/250716/p17#a250716p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

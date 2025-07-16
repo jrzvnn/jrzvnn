@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japan what are you doing?](http://9gag.com/gag/amoRnz6)
- - 😝 [A wholesome post.](http://9gag.com/gag/aRBR9D2)
- - 💣 [Another hero](http://9gag.com/gag/a34NNgv)
- - 😝 [The forbidden question..](http://9gag.com/gag/ary8rjB)
- - 👉 [He really thought he had it in the bag](http://9gag.com/gag/a9yDVm0)<!-- MEMES:END -->
+ - 😝 [Do you like Trains too?](http://9gag.com/gag/ajPRG0g)
+ - 😝 [Why so British???](http://9gag.com/gag/aQzyV82)
+ - 💣 [Gotcha b*tch](http://9gag.com/gag/agmK6Kg)
+ - 😝 [Good practical effects are on another level](http://9gag.com/gag/a5Q5y5o)
+ - 👉 [Driven](http://9gag.com/gag/aD2QNxx)<!-- MEMES:END -->
 
 ---
 

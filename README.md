@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Subnautica 2&amp;#8217;s creators sue their publisher for ‘severely’ damaging the game’s release](https://www.theverge.com/entertainment/708676/subnautica-2-former-ceo-lawsuit-krafton-sabotage)
  - [The trial for an $8B lawsuit by Meta investors against Mark Zuckerberg and other leaders opens over claims tied to the 2018 Cambridge Analytica privacy scandal &lpar;Associated Press&rpar;](http://www.techmeme.com/250716/p39#a250716p39)
  - [Filing: Intel is laying off 5,000+ employees across California, Oregon, Texas, and Arizona; California cuts affect 1,935, more than double the initial estimates &lpar;Nathan Owens/Manufacturing Dive&rpar;](http://www.techmeme.com/250716/p38#a250716p38)
  - [I Finally Held a Foldable That Doesn&#39;t Feel Like Two Stacked Phones: the Galaxy Z Fold 7](https://www.cnet.com/tech/mobile/i-finally-held-a-foldable-that-doesnt-feel-like-two-stacked-phones-the-galaxy-z-fold-7/#ftag=CAD590a51e)
- - [Beeper Relaunch Lets You Link Your Chat Apps Without the Cloud, but Still No iMessage](https://www.cnet.com/tech/mobile/beeper-relaunch-lets-you-link-your-chat-apps-without-the-cloud-but-still-no-imessage/#ftag=CAD590a51e)
- - [iPhone 17 Pro may get display upgrade Apple reportedly scrapped](https://appleinsider.com/articles/25/07/16/iphone-17-pro-may-get-display-upgrade-apple-reportedly-scrapped?utm_source=rss)<!-- TECH:END -->
+ - [Beeper Relaunch Lets You Link Your Chat Apps Without the Cloud, but Still No iMessage](https://www.cnet.com/tech/mobile/beeper-relaunch-lets-you-link-your-chat-apps-without-the-cloud-but-still-no-imessage/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

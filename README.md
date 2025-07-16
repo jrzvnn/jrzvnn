@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [C: cant tell](http://9gag.com/gag/aVvR1Qv)
  - 😝 [Strong independent woman](http://9gag.com/gag/aPArz7B)
- - 💣 [OPs confession](http://9gag.com/gag/ary89Nd)
- - 😝 [Poor choice of words](http://9gag.com/gag/avy94RE)
- - 👉 [Sorry, I don\u2019t make the rules.](http://9gag.com/gag/aZZRo39)<!-- MEMES:END -->
+ - 😝 [OPs confession](http://9gag.com/gag/ary89Nd)
+ - 💣 [C: cant tell](http://9gag.com/gag/aVvR1Qv)
+ - 😝 [Little brother keeping it real](http://9gag.com/gag/aZZRdOz)
+ - 👉 [At a pedestrian crossing...](http://9gag.com/gag/ayNvVZW)<!-- MEMES:END -->
 
 ---
 

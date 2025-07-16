@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Little brother keeping it real](http://9gag.com/gag/aZZRdOz)
- - 😝 [Look what they took from us](http://9gag.com/gag/apRVdWB)
- - 💣 [He really thought he had it in the bag](http://9gag.com/gag/a9yDVm0)
- - 😝 [For ever 100 likes I&#39;ll make Marks hair longer.](http://9gag.com/gag/aE0ZNYO)
+ - 😝 [A classic is what it is.](http://9gag.com/gag/aXPReXd)
+ - 😝 [What do you think](http://9gag.com/gag/aE0ZNnp)
+ - 💣 [Wife swap S12E02](http://9gag.com/gag/aD2QNeZ)
+ - 😝 [He really thought he had it in the bag](http://9gag.com/gag/a9yDVm0)
  - 👉 [Another hero](http://9gag.com/gag/a34NNgv)<!-- MEMES:END -->
 
 ---

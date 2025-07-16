@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scale AI says it is laying off 200 full-time employees, or ~14% of its global workforce, and will stop working with 500 contractors, after Meta invested $14.3B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250716/p25#a250716p25)
- - [Tesla reveals Model 3 Plus and Model YL in China as price war heats up](https://www.theverge.com/news/708279/tesla-model-3-plus-model-yl-china-price-war)
- - [AirPods face slowing growth as Apple eyes ways to expand sales](https://appleinsider.com/articles/25/07/16/airpods-face-slowing-growth-as-apple-eyes-ways-to-expand-sales?utm_source=rss)
- - [Airbus&#39; Acubed and Google spinout SandboxAQ test MagNav, a quantum-sensing navigation device and potential GPS alternative, for 150+ flight hours across the US &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250716/p24#a250716p24)
- - [Our 11 Favorite Air Quality Monitors We’ve Tried &lpar;2025&rpar;](https://www.wired.com/gallery/best-indoor-air-quality-monitors/)<!-- TECH:END -->
+ - [Insta360 now offers lens filters and a larger battery for its 360-degree action cam](https://www.theverge.com/news/708272/insta360-x5-action-camera-lens-filters-firmware-update)
+ - [Google Search&#39;s AI Mode gets Gemini 2.5 Pro and new deep research capabilities; Google also expands an AI-powered business calling feature to all users in US &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250716/p27#a250716p27)
+ - [Google’s AI can now make phone calls for you](https://www.theverge.com/news/708210/google-ai-phone-calls-ai-mode-gemini-upgrade)
+ - [Bedrock Robotics raised $80M from Eclipse and 8VC to develop retrofit self-driving kits for construction and worksite vehicles, in testing with five companies &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/250716/p26#a250716p26)
+ - [Scale AI says it is laying off 200 full-time employees, or ~14% of its global workforce, and will stop working with 500 contractors, after Meta invested $14.3B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250716/p25#a250716p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

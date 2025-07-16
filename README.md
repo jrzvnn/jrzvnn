@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do your job anonymous or whoever](http://9gag.com/gag/aoynnXe)
- - 😝 [A classic is what it is.](http://9gag.com/gag/aXPReXd)
- - 💣 [He really thought he had it in the bag](http://9gag.com/gag/a9yDVm0)
- - 😝 [I wonder why](http://9gag.com/gag/a87Vzv1)
- - 👉 [Wife swap S12E02](http://9gag.com/gag/aD2QNeZ)<!-- MEMES:END -->
+ - 😝 [Good luck storming the castle](http://9gag.com/gag/ayNvVDr)
+ - 😝 [Little brother keeping it real](http://9gag.com/gag/aZZRdOz)
+ - 💣 [Fast and furious](http://9gag.com/gag/axymQVD)
+ - 😝 [Sorry, I don\u2019t make the rules.](http://9gag.com/gag/aZZRo39)
+ - 👉 [A wholesome post.](http://9gag.com/gag/aRBR9D2)<!-- MEMES:END -->
 
 ---
 

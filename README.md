@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Christian bale is building a village for foster kids, he is bruce wayne](http://9gag.com/gag/aMVqWqX)
- - 😝 [For ever 100 likes I&#39;ll make Marks hair longer.](http://9gag.com/gag/aE0ZNYO)
- - 💣 [My dad died watching your special!](http://9gag.com/gag/aPArdQg)
- - 😝 [Why so British???](http://9gag.com/gag/aQzyV82)
- - 👉 [Auf der Heide bl\u00fcht, ein kleines Bl\u00fcmelein, Und das hei\u00dft: Erika](http://9gag.com/gag/amoRdR9)<!-- MEMES:END -->
+ - 😝 [Another hero](http://9gag.com/gag/a34NNgv)
+ - 😝 [Traffic maniac](http://9gag.com/gag/a0eOONO)
+ - 💣 [I wonder why](http://9gag.com/gag/a87Vzv1)
+ - 😝 [Sums it up](http://9gag.com/gag/apRVjK8)
+ - 👉 [State of the UK](http://9gag.com/gag/a4PwWrv)<!-- MEMES:END -->
 
 ---
 

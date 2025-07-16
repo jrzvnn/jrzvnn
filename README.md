@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Strong independent woman](http://9gag.com/gag/aPArz7B)
- - 😝 [OPs confession](http://9gag.com/gag/ary89Nd)
- - 💣 [C: cant tell](http://9gag.com/gag/aVvR1Qv)
+ - 😝 [He really thought he had it in the bag](http://9gag.com/gag/a9yDVm0)
  - 😝 [Little brother keeping it real](http://9gag.com/gag/aZZRdOz)
- - 👉 [At a pedestrian crossing...](http://9gag.com/gag/ayNvVZW)<!-- MEMES:END -->
+ - 💣 [The forbidden question..](http://9gag.com/gag/ary8rjB)
+ - 😝 [OPs confession](http://9gag.com/gag/ary89Nd)
+ - 👉 [Poor choice of words](http://9gag.com/gag/avy94RE)<!-- MEMES:END -->
 
 ---
 

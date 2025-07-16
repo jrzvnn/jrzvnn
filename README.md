@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9th century Female torso.](http://9gag.com/gag/an7G0q0)
- - 😝 [I wonder why](http://9gag.com/gag/a87Vzv1)
- - 💣 [He really thought he had it in the bag](http://9gag.com/gag/a9yDVm0)
- - 😝 [A wholesome post.](http://9gag.com/gag/aRBR9D2)
- - 👉 [OPs confession](http://9gag.com/gag/ary89Nd)<!-- MEMES:END -->
+ - 😝 [He really thought he had it in the bag](http://9gag.com/gag/a9yDVm0)
+ - 😝 [OPs confession](http://9gag.com/gag/ary89Nd)
+ - 💣 [Poor choice of words](http://9gag.com/gag/avy94RE)
+ - 😝 [Little brother keeping it real](http://9gag.com/gag/aZZRdOz)
+ - 👉 [Sorry, I don\u2019t make the rules.](http://9gag.com/gag/aZZRo39)<!-- MEMES:END -->
 
 ---
 

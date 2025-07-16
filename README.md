@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In Beijing, Jensen Huang says Nvidia would &quot;accelerate the recovery&quot; of its China chip sales and he expects US export licences &quot;to come through very shortly&quot; &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/250716/p11#a250716p11)
  - [China, which pledged $8.5B for young AI startups in April, is taking an industrial policy approach to help its AI companies close the gap with those in the US &lpar;Meaghan Tobin/New York Times&rpar;](http://www.techmeme.com/250716/p10#a250716p10)
  - [A look at the Chile-led Latam-GPT project, which involves 30+ Latin American and Caribbean institutions collaborating to release an open-source LLM in September &lpar;Cristián Vera-Cruz/Rest of World&rpar;](http://www.techmeme.com/250716/p9#a250716p9)
  - [In Q2 2025, smartphone shipments in China fell 4% YoY to 69M units; Huawei returned to the top spot for the first time in over four years with an 18% share &lpar;IDC&rpar;](http://www.techmeme.com/250716/p8#a250716p8)
- - [Tokopedia sellers say Tokopedia&#39;s strengths have eroded since its TikTok Shop merger in Indonesia, driving thousands of sellers to join rivals, including Toco &lpar;Michelle Anindya/Rest of World&rpar;](http://www.techmeme.com/250716/p7#a250716p7)
- - [Enabling This One iPhone Feature Has Helped Me Get More Precious, Quality Sleep](https://www.cnet.com/health/sleep/enabling-one-iphone-feature-helped-me-get-more-precious-quality-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tokopedia sellers say Tokopedia&#39;s strengths have eroded since its TikTok Shop merger in Indonesia, driving thousands of sellers to join rivals, including Toco &lpar;Michelle Anindya/Rest of World&rpar;](http://www.techmeme.com/250716/p7#a250716p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

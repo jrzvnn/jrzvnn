@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do your job anonymous or whoever](http://9gag.com/gag/aoynnXe)
- - 😝 [If you want to visit London, learn Pakistani.](http://9gag.com/gag/aBy44zP)
- - 💣 [This is too real. Why do naps hit different with the skin marks?](http://9gag.com/gag/aGy7OnZ)
- - 😝 [He is clearly asking to get his, GODDAMN SNOOT BOOPED!!!](http://9gag.com/gag/a4PwWNy)
- - 👉 [State of the UK](http://9gag.com/gag/a4PwWrv)<!-- MEMES:END -->
+ - 😝 [Christian bale is building a village for foster kids, he is bruce wayne](http://9gag.com/gag/aMVqWqX)
+ - 😝 [For ever 100 likes I&#39;ll make Marks hair longer.](http://9gag.com/gag/aE0ZNYO)
+ - 💣 [My dad died watching your special!](http://9gag.com/gag/aPArdQg)
+ - 😝 [Black Hole physics is differ](http://9gag.com/gag/amoRbnV)
+ - 👉 [Why so British???](http://9gag.com/gag/aQzyV82)<!-- MEMES:END -->
 
 ---
 

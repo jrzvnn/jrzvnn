@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The Warner Bros logo transforming into a police blimp was a core childhood memory, truly iconic](http://9gag.com/gag/aKGKOqO)
  - 😝 [He is clearly asking to get his, GODDAMN SNOOT BOOPED!!!](http://9gag.com/gag/a4PwWNy)
- - 😝 [Are you sure about that ?](http://9gag.com/gag/aBy4o2P)
  - 💣 [This is too real. Why do naps hit different with the skin marks?](http://9gag.com/gag/aGy7OnZ)
- - 😝 [For ever 100 likes I&#39;ll make Marks hair longer.](http://9gag.com/gag/aE0ZNYO)
- - 👉 [I wonder why](http://9gag.com/gag/a87Vzv1)<!-- MEMES:END -->
+ - 😝 [Even Kevin wants to see](http://9gag.com/gag/a0eOWGB)
+ - 👉 [Dexter&#39;s mom alone makes it worth it](http://9gag.com/gag/aBy4oRO)<!-- MEMES:END -->
 
 ---
 

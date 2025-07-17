@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix reports Q2 revenue up 16% YoY to $11.08B, vs. $11.07B est., net income of $3.13B, and forecasts 2025 revenue of $44.8B-$45.2B, up from $43.5B-$44.5B &lpar;Sarah Whitten/CNBC&rpar;](http://www.techmeme.com/250717/p47#a250717p47)
+ - [The House passes the GENIUS Act, sending the first-ever regulatory framework for issuers of stablecoins to President Trump for his signature &lpar;Axios&rpar;](http://www.techmeme.com/250717/p46#a250717p46)
+ - [Anker’s new charging station battles desktop clutter with two retractable USB-C cables](https://www.theverge.com/news/709301/anker-nano-charging-station-usb-retractable)
  - [This AI Warps Live Video in Real Time](https://www.wired.com/story/decart-artificial-intelligence-model-live-stream/)
- - [Roblox’s New Age Verification Feature Uses AI to Scan Teens’ Video Selfies](https://www.wired.com/story/robloxs-new-age-verification-feature-uses-ai-to-scan-teens-video-selfies/)
- - [Google&#39;s Veo 3 video generation model launches on the Gemini API, with an eight-second video costing $6, making it one of the most expensive AI video options &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/250717/p45#a250717p45)
- - [Peacock is raising its prices by $3](https://www.theverge.com/news/709315/peacock-price-hike-nbcuniversal)
- - [Sources: Perplexity jumped to a $18B valuation two months after it raised at $14B; its annualized revenues jumped from $35M in August 2024 to $150M this month &lpar;Financial Times&rpar;](http://www.techmeme.com/250717/p44#a250717p44)<!-- TECH:END -->
+ - [Roblox’s New Age Verification Feature Uses AI to Scan Teens’ Video Selfies](https://www.wired.com/story/robloxs-new-age-verification-feature-uses-ai-to-scan-teens-video-selfies/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

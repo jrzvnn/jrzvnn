@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Electronics Chair Jay Y. Lee wins a full reprieval from South Korea&#39;s Supreme Court in a protracted fight over fraud and stock manipulation allegations &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250717/p15#a250717p15)
- - [The US FCC aims to introduce a ban on companies that use certain Chinese tech and equipment from building submarine communication cables connecting to the US &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/250717/p14#a250717p14)
- - [Best Internet Providers in Buffalo, New York](https://www.cnet.com/home/internet/best-internet-providers-in-buffalo-ny/#ftag=CAD590a51e)
- - [I Got a Cortisol Blood Test. What I Learned About My Stress Was Important, but Not Fun](https://www.cnet.com/health/medical/after-cortisol-blood-test-what-learned-about-stress-important-not-fun/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 17 #501](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-17-501/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: some Trump administration officials are holding up finalizing a deal for the UAE to buy Nvidia AI chips over concerns that China could access the chips &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250717/p17#a250717p17)
+ - [Amazon&#39;s 2024 sustainability report says it emitted 68.25M metric tons of carbon dioxide equivalent, up 6% from 2023 and the first rise in three years &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/250717/p16#a250717p16)
+ - [Where Are All the AI Drugs?](https://www.wired.com/story/artificial-intelligence-drug-discovery/)
+ - [4 Best Music Streaming Services &lpar;2024&rpar;: Spotify, Apple Music, and More Compared](https://www.wired.com/gallery/best-music-streaming-apps/)
+ - [Samsung Electronics Chair Jay Y. Lee wins a full reprieval from South Korea&#39;s Supreme Court in a protracted fight over fraud and stock manipulation allegations &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250717/p15#a250717p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

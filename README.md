@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
- - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)
- - [The News/Media Alliance says the webhost of 12ft.io, which helped users bypass paywalls, took down the site on July 14 following the trade association&#39;s efforts &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250717/p42#a250717p42)
- - [Apple CarPlay Ultra hands-on: currently exclusive to Aston Martin, enhances center console integration, works smoothly with driver assist systems, and more &lpar;Michael Teo Van Runkle/Ars Technica&rpar;](http://www.techmeme.com/250717/p41#a250717p41)
- - [What Big Tech got out of Trump’s Big Beautiful Bill](https://www.theverge.com/politics/709172/big-tech-trump-big-beautiful-bill)<!-- TECH:END -->
+ - [Judge blocks class suit claiming iOS 13 ignored data settings](https://appleinsider.com/articles/25/07/17/judge-blocks-class-suit-claiming-ios-13-ignored-data-settings?utm_source=rss)
+ - [Hadrian, which is building largely automated factories to produce space and defense parts, raised a $260M Series C, bringing its total funding to ~$500M &lpar;Aria Alamalhodaei/TechCrunch&rpar;](http://www.techmeme.com/250717/p43#a250717p43)
+ - [HBO Max: The 28 Absolute Best TV Shows to Watch](https://www.cnet.com/culture/entertainment/best-tv-shows-on-hbo-max-july-2025/#ftag=CAD590a51e)
+ - [Uber Announces Global Robotaxi Plan With Lucid and Nuro](https://www.cnet.com/roadshow/news/uber-announces-global-robotaxi-plan-with-lucid-and-nuro/#ftag=CAD590a51e)
+ - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

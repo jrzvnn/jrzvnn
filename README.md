@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some Cities in China Are Advertising Exclusive Subsidies for Huawei-Powered Cars](https://www.wired.com/story/huawei-car-china-local-government-subsidies/)
+ - [The Best Meal Replacement Shakes for Total Life Optimization &lpar;2025&rpar;](https://www.wired.com/gallery/best-liquid-meal-replacements/)
+ - [iPhone 17 Pro may get display upgrade Apple reportedly scrapped](https://appleinsider.com/articles/25/07/16/iphone-17-pro-may-get-display-upgrade-apple-reportedly-scrapped?utm_source=rss)
  - [Congress Passes GENIUS Act in Major Win for US Crypto Industry](https://www.wired.com/story/genius-act-congress-crypto-law-passes/)
- - [Netflix reports Q2 revenue up 16% YoY to $11.08B, vs. $11.07B est., net income of $3.13B, and forecasts 2025 revenue of $44.8B-$45.2B, up from $43.5B-$44.5B &lpar;Sarah Whitten/CNBC&rpar;](http://www.techmeme.com/250717/p47#a250717p47)
- - [This Emoji Won Most Popular New Emoji, but It Was Never Really a Contest](https://www.cnet.com/tech/services-and-software/this-emoji-won-most-popular-new-emoji-but-it-was-never-really-a-contest/#ftag=CAD590a51e)
- - [The House passes the GENIUS Act, sending the first-ever regulatory framework for issuers of stablecoins to President Trump for his signature &lpar;Axios&rpar;](http://www.techmeme.com/250717/p46#a250717p46)
- - [AI-Powered Smart Devices Help Older Adults Age at Home, Survey Finds](https://www.cnet.com/tech/services-and-software/ai-powered-smart-devices-help-older-adults-age-at-home-survey-finds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix reports Q2 revenue up 16% YoY to $11.08B, vs. $11.07B est., net income of $3.13B, and forecasts 2025 revenue of $44.8B-$45.2B, up from $43.5B-$44.5B &lpar;Sarah Whitten/CNBC&rpar;](http://www.techmeme.com/250717/p47#a250717p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For ever 100 likes I&#39;ll make Marks hair longer.](http://9gag.com/gag/aE0ZNYO)
+ - 😝 [A burger shop in the UK gave free burgers on their grand opening](http://9gag.com/gag/a1mOn7v)
  - 😝 [So there is an upcoming live action film of the Legend of Zelda coming out in 2027 and here are the two leads.](http://9gag.com/gag/aLnWORM)
  - 💣 [Uploading old stuff](http://9gag.com/gag/avy9BDE)
  - 😝 [Strong independent woman](http://9gag.com/gag/aPArz7B)
- - 👉 [At a pedestrian crossing...](http://9gag.com/gag/ayNvVZW)<!-- MEMES:END -->
+ - 👉 [Sorry, I don\u2019t make the rules.](http://9gag.com/gag/aZZRo39)<!-- MEMES:END -->
 
 ---
 

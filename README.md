@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meanwhile in US](http://9gag.com/gag/aW4Re74)
- - 😝 [Send in the Clones......](http://9gag.com/gag/ary89QX)
- - 💣 [Having fun with the office open space](http://9gag.com/gag/aVvR4vK)
- - 😝 [Uploading old stuff](http://9gag.com/gag/avy9BDE)
- - 👉 [The clone wars](http://9gag.com/gag/aNDjGM3)<!-- MEMES:END -->
+ - 😝 [I wouldn&#39;t fight him](http://9gag.com/gag/a4Pw8Dd)
+ - 😝 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)
+ - 💣 [I&#39;m this old](http://9gag.com/gag/ae9RqLm)
+ - 😝 [Pedo Hunter arrested for raping his own daughter.](http://9gag.com/gag/a4PwBrA)
+ - 👉 [A Passionate Fan](http://9gag.com/gag/aBy4MPz)<!-- MEMES:END -->
 
 ---
 

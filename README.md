@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [With friends like these, who needs enemies?](http://9gag.com/gag/aO8pnj6)
- - 😝 [So there is an upcoming live action film of the Legend of Zelda coming out in 2027 and here are the two leads.](http://9gag.com/gag/aLnWORM)
- - 💣 [Is everyone happy now?](http://9gag.com/gag/a6ZGepq)
+ - 😝 [Poor choice of words](http://9gag.com/gag/avy94RE)
+ - 😝 [Sorry, I don\u2019t make the rules.](http://9gag.com/gag/aZZRo39)
+ - 💣 [Pedo Hunter arrested for raping his own daughter.](http://9gag.com/gag/a4PwBrA)
  - 😝 [Great achievement! Also people with down syndrome do not live as long as long as a healthy person.](http://9gag.com/gag/agmKboK)
- - 👉 [Pedo Hunter arrested for raping his own daughter.](http://9gag.com/gag/a4PwBrA)<!-- MEMES:END -->
+ - 👉 [Kill them all](http://9gag.com/gag/adBRrPj)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands-on with ChatGPT Agent: combines OpenAI&#39;s Operator and deep research tools and is incredibly simple to use, but less customizable than Claude Code &lpar;Dan Shipper/Every&rpar;](http://www.techmeme.com/250717/p40#a250717p40)
- - [ChatGPT Agent uses a virtual browser to do tasks such as filling online forms and calling public APIs, and generates downloadable PowerPoint and Excel files &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/250717/p39#a250717p39)
- - [This Killer Dell 14 Plus Deal Changed My Opinion of the Laptop](https://www.wired.com/story/dell-14-plus-deal-july-2025/)
- - [OpenAI debuts ChatGPT Agent, which can control an entire computer and perform multi-step tasks, powered by a new dedicated model, rolling out to paid users &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250717/p38#a250717p38)
- - [OpenAI’s New ChatGPT Agent Tries to Do It All](https://www.wired.com/story/openai-chatgpt-agent-launch/)<!-- TECH:END -->
+ - [Apple CarPlay Ultra hands-on: currently exclusive to Aston Martin, enhances center console integration, works smoothly with driver assist systems, and more &lpar;Michael Teo Van Runkle/Ars Technica&rpar;](http://www.techmeme.com/250717/p41#a250717p41)
+ - [What Big Tech got out of Trump’s Big Beautiful Bill](https://www.theverge.com/politics/709172/big-tech-trump-big-beautiful-bill)
+ - [News publishers take paywall-blocker 12ft.io offline](https://www.theverge.com/news/709209/news-media-alliance-12ft-io-takedown-paywall)
+ - [Get a Free Storm Skin, Hawkeye Skin and More in Marvel Rivals Season 3](https://www.cnet.com/tech/gaming/get-a-free-storm-skin-hawkeye-skin-and-more-in-marvel-rivals-season-3/#ftag=CAD590a51e)
+ - [Hands-on with ChatGPT Agent: combines OpenAI&#39;s Operator and deep research tools and is incredibly simple to use, but less customizable than Claude Code &lpar;Dan Shipper/Every&rpar;](http://www.techmeme.com/250717/p40#a250717p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

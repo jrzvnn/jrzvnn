@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [OPs confession](http://9gag.com/gag/ary89Nd)
- - 😝 [Kill them all](http://9gag.com/gag/adBRrPj)
- - 💣 [Strong independent woman](http://9gag.com/gag/aPArz7B)
- - 😝 [At a pedestrian crossing...](http://9gag.com/gag/ayNvVZW)
- - 👉 [C: cant tell](http://9gag.com/gag/aVvR1Qv)<!-- MEMES:END -->
+ - 😝 [Uploading old stuff](http://9gag.com/gag/avy9BDE)
+ - 😝 [Sums it up](http://9gag.com/gag/apRVjK8)
+ - 💣 [Kill them all](http://9gag.com/gag/adBRrPj)
+ - 😝 [C: cant tell](http://9gag.com/gag/aVvR1Qv)
+ - 👉 [Strong independent woman](http://9gag.com/gag/aPArz7B)<!-- MEMES:END -->
 
 ---
 

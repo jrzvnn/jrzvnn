@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: in a Trump meeting, Jensen Huang argued US chips should be the global standard and leveraged support from David Sacks, who disliked Biden&#39;s chip rules &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/250717/p19#a250717p19)
+ - [The Novo Nordisk Foundation and the Danish government plan to invest €80M to acquire and run a Microsoft-powered quantum computer, set to operate in early 2027 &lpar;Sanne Wass/Bloomberg&rpar;](http://www.techmeme.com/250717/p18#a250717p18)
+ - [Bring On the MAGA Revolt](https://www.wired.com/story/trump-epstein-maga-revolt/)
  - [Sources: some Trump administration officials are holding up finalizing a deal for the UAE to buy Nvidia AI chips over concerns that China could access the chips &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250717/p17#a250717p17)
- - [Amazon&#39;s 2024 sustainability report says it emitted 68.25M metric tons of carbon dioxide equivalent, up 6% from 2023 and the first rise in three years &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/250717/p16#a250717p16)
- - [Where Are All the AI Drugs?](https://www.wired.com/story/artificial-intelligence-drug-discovery/)
- - [4 Best Music Streaming Services &lpar;2024&rpar;: Spotify, Apple Music, and More Compared](https://www.wired.com/gallery/best-music-streaming-apps/)
- - [Samsung Electronics Chair Jay Y. Lee wins a full reprieval from South Korea&#39;s Supreme Court in a protracted fight over fraud and stock manipulation allegations &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250717/p15#a250717p15)<!-- TECH:END -->
+ - [Amazon&#39;s 2024 sustainability report says it emitted 68.25M metric tons of carbon dioxide equivalent, up 6% from 2023 and the first rise in three years &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/250717/p16#a250717p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

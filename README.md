@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The MacBook that starts at just $33.28 per month - thanks to this program](https://appleinsider.com/articles/25/07/17/the-macbook-that-starts-at-just-3328-per-month---thanks-to-this-program?utm_source=rss)
+ - [Boulevard, which provides business management software for the self-care sector, raised an $80M Series D led by JMI Equity at an ~$800M post-money valuation &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/250717/p33#a250717p33)
+ - [I tested 12 Switch 2 cases and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases)
  - [Netflix&amp;#8217;s Assassin&amp;#8217;s Creed series is finally coming together](https://www.theverge.com/netflix/708989/netflix-assassins-creed-roberto-patino)
- - [Mistral adds new features to its Le Chat chatbot, including a new &quot;deep research&quot; mode, native multilingual reasoning, and advanced image editing &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250717/p32#a250717p32)
- - [Firestorm Labs, which has contracts with the US DOD for its 3D printed drones, raised a $47M Series A and plans to grow its fleet of airliftable xCell factories &lpar;Colin Demarest/Axios&rpar;](http://www.techmeme.com/250717/p31#a250717p31)
- - [Future Macs with Face ID could have gesture detection too](https://appleinsider.com/articles/25/07/17/future-macs-with-face-id-could-have-gesture-detection-too?utm_source=rss)
- - [AMD&amp;#8217;s new 96-core Threadripper CPU will set you back $11,699](https://www.theverge.com/news/709005/amd-threadripper-9000-pro-wx-series-pricing-availability)<!-- TECH:END -->
+ - [Mistral adds new features to its Le Chat chatbot, including a new &quot;deep research&quot; mode, native multilingual reasoning, and advanced image editing &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250717/p32#a250717p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

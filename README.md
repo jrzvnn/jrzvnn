@@ -157,9 +157,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Roblox’s New Age Verification Feature Uses AI to Scan Teens’ Video Selfies](https://www.wired.com/story/robloxs-new-age-verification-feature-uses-ai-to-scan-teens-video-selfies/)
  - [Google&#39;s Veo 3 video generation model launches on the Gemini API, with an eight-second video costing $6, making it one of the most expensive AI video options &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/250717/p45#a250717p45)
  - [Peacock is raising its prices by $3](https://www.theverge.com/news/709315/peacock-price-hike-nbcuniversal)
- - [Peacock Streaming Price Hike to Arrive This Month](https://www.cnet.com/tech/services-and-software/peacock-streaming-price-hike-to-arrive-this-month/#ftag=CAD590a51e)
  - [Sources: Perplexity jumped to a $18B valuation two months after it raised at $14B; its annualized revenues jumped from $35M in August 2024 to $150M this month &lpar;Financial Times&rpar;](http://www.techmeme.com/250717/p44#a250717p44)
  - [Razer’s new Pokémon collab is not very effective](https://www.theverge.com/tech/709193/razer-pokemon-pc-gaming-accessories-keyboard-mouse-headset)<!-- TECH:END -->
 

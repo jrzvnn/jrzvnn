@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A gritty Pac-Man reboot makes for surprisingly solid Metroid-style action](https://www.theverge.com/games-review/708833/shadow-labyrinth-review-gritty-pac-man)
  - [Meta shareholders suing Mark Zuckerberg and Meta leaders over Facebook&#39;s Cambridge Analytica privacy violations reach a settlement deal, ending an $8B trial &lpar;Reuters&rpar;](http://www.techmeme.com/250717/p26#a250717p26)
  - [Sony is still stubborn about the size of its cameras](https://www.theverge.com/cameras/708846/sony-rx1riii-full-frame-camera-size-issue-articulating-screen)
  - [TSMC US chip production may soon only be three years behind Taiwan](https://appleinsider.com/articles/25/07/17/tsmc-us-chip-production-may-soon-only-be-three-years-behind-taiwan?utm_source=rss)
- - [Eddington gets the pandemic right but still isn’t a great movie](https://www.theverge.com/film/708542/eddington-review-ari-aster-joaquin-phoenix-pandemic)
- - [Adobe&amp;#8217;s new AI tool turns silly noises into realistic audio effects](https://www.theverge.com/news/708798/adobe-firefly-ai-generate-sound-effects-video-composition)<!-- TECH:END -->
+ - [Eddington gets the pandemic right but still isn’t a great movie](https://www.theverge.com/film/708542/eddington-review-ari-aster-joaquin-phoenix-pandemic)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

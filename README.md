@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber to invest in Lucid and Nuro in massive robotaxi deal](https://www.theverge.com/news/708479/uber-lucid-nuro-robotaxi-deal-investment)
- - [Bigfoot, Orca, and a Trombone, are among new emoji coming to iOS 26](https://appleinsider.com/articles/25/07/17/bigfoot-orca-and-a-trombone-are-among-new-emoji-coming-to-ios-26?utm_source=rss)
- - [Remagine Ventures: 342 Israeli startups are focused on generative AI in 2025, up by 198 since May 2024, and they have collectively raised $20B+ to date &lpar;Elihay Vidal/CTech&rpar;](http://www.techmeme.com/250717/p23#a250717p23)
- - [Shark Steam Pickup 3-in-1 Hard Floor Cleaner Review: A Do-It-All Cleaning Gadget](https://www.wired.com/review/shark-steam-pickup-3-in-1-hard-floor-cleaner-sd201/)
- - [Slack says its AI can make sense of your company&amp;#8217;s jargon](https://www.theverge.com/news/708820/slack-ai-message-context-canvas-writing-assistant)<!-- TECH:END -->
+ - [TSMC US chip production may soon only be three years behind Taiwan](https://appleinsider.com/articles/25/07/17/tsmc-us-chip-production-may-soon-only-be-three-years-behind-taiwan?utm_source=rss)
+ - [Eddington gets the pandemic right but still isn’t a great movie](https://www.theverge.com/film/708542/eddington-review-ari-aster-joaquin-phoenix-pandemic)
+ - [Adobe&amp;#8217;s new AI tool turns silly noises into realistic audio effects](https://www.theverge.com/news/708798/adobe-firefly-ai-generate-sound-effects-video-composition)
+ - [Dyson&amp;#8217;s $500 headphones come in even more colors](https://www.theverge.com/news/708819/dyson-ontrac-headphones-new-colors-sky-blue-oyster-pink-caramel-chalk-white)
+ - [In H1 2025, hackers stole $2.17B+ from crypto services, including the DPRK&#39;s record $1.5B Bybit hack, surpassing all of 2024 and up 17% on H1 2022 &lpar;Chainalysis&rpar;](http://www.techmeme.com/250717/p25#a250717p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

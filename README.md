@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify expands audiobook access to family plan members with new plans, including Audiobooks+, offering more listening hours, in the UK and 10+ countries &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250717/p29#a250717p29)
+ - [Apple launches new emoji word game to take on Wordle and the NYT](https://www.theverge.com/games/708935/apple-news-plus-emoji-game-wordle)
  - [Q&amp;A with Perplexity CEO Aravind Srinivas on the browser as AI&#39;s killer app, AI talent wars, why users will eventually pay thousands for a single AI prompt, more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250717/p28#a250717p28)
  - [What the new colors coming to iPhone 17 will look like](https://appleinsider.com/articles/25/07/17/what-the-new-colors-coming-to-iphone-17-will-look-like?utm_source=rss)
- - [Surfshark VPN drops to as low as $1.99 per month after 87% discount](https://appleinsider.com/articles/25/07/17/surfshark-vpn-drops-to-as-low-as-199-per-month-after-87-discount?utm_source=rss)
- - [Future Apple Watch may have Digital Crown with touch and light sensors](https://appleinsider.com/articles/20/02/06/future-apple-watches-may-have-digital-crown-with-touch-and-light-sensors?utm_source=rss)
- - [Substack raised $100M Series C from Chernin Group, a16z, and others, sources say at a $1.1B valuation, as it builds a social network and focuses on advertising &lpar;New York Times&rpar;](http://www.techmeme.com/250717/p27#a250717p27)<!-- TECH:END -->
+ - [Surfshark VPN drops to as low as $1.99 per month after 87% discount](https://appleinsider.com/articles/25/07/17/surfshark-vpn-drops-to-as-low-as-199-per-month-after-87-discount?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

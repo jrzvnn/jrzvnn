@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [With friends like these, who needs enemies?](http://9gag.com/gag/aO8pnj6)
- - 😝 [Epstein](http://9gag.com/gag/a87Vvxp)
- - 💣 [Strong independent woman](http://9gag.com/gag/aPArz7B)
- - 😝 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)
- - 👉 [Poor choice of words](http://9gag.com/gag/avy94RE)<!-- MEMES:END -->
+ - 😝 [That&#39;s awesome...](http://9gag.com/gag/amoRO96)
+ - 😝 [I do believe](http://9gag.com/gag/amoRO3V)
+ - 💣 [Gotcha b*tch](http://9gag.com/gag/agmK6Kg)
+ - 😝 [Uploading old stuff](http://9gag.com/gag/avy9BDE)
+ - 👉 [A wholesome post.](http://9gag.com/gag/aRBR9D2)<!-- MEMES:END -->
 
 ---
 

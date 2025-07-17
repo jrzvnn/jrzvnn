@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I do believe](http://9gag.com/gag/amoRO3V)
- - 😝 [Meanwhile in US](http://9gag.com/gag/aW4Re74)
- - 💣 [Send in the Clones......](http://9gag.com/gag/ary89QX)
- - 😝 [Uploading old stuff](http://9gag.com/gag/avy9BDE)
- - 👉 [Having fun with the office open space](http://9gag.com/gag/aVvR4vK)<!-- MEMES:END -->
+ - 😝 [OPs confession](http://9gag.com/gag/ary89Nd)
+ - 😝 [Poor choice of words](http://9gag.com/gag/avy94RE)
+ - 💣 [Great achievement! Also people with down syndrome do not live as long as long as a healthy person.](http://9gag.com/gag/agmKboK)
+ - 😝 [Epstein](http://9gag.com/gag/a87Vvxp)
+ - 👉 [Biggest downgrade](http://9gag.com/gag/aZZRoX9)<!-- MEMES:END -->
 
 ---
 

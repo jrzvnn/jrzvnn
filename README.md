@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
+ - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)
  - [The News/Media Alliance says the webhost of 12ft.io, which helped users bypass paywalls, took down the site on July 14 following the trade association&#39;s efforts &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250717/p42#a250717p42)
  - [Apple CarPlay Ultra hands-on: currently exclusive to Aston Martin, enhances center console integration, works smoothly with driver assist systems, and more &lpar;Michael Teo Van Runkle/Ars Technica&rpar;](http://www.techmeme.com/250717/p41#a250717p41)
- - [What Big Tech got out of Trump’s Big Beautiful Bill](https://www.theverge.com/politics/709172/big-tech-trump-big-beautiful-bill)
- - [News publishers take paywall-blocker 12ft.io offline](https://www.theverge.com/news/709209/news-media-alliance-12ft-io-takedown-paywall)
- - [Get a Free Storm Skin, Hawkeye Skin and More in Marvel Rivals Season 3](https://www.cnet.com/tech/gaming/get-a-free-storm-skin-hawkeye-skin-and-more-in-marvel-rivals-season-3/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What Big Tech got out of Trump’s Big Beautiful Bill](https://www.theverge.com/politics/709172/big-tech-trump-big-beautiful-bill)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

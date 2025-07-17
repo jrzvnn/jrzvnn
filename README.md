@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An advisory board convened by OpenAI recommends that the company remain a nonprofit because AI is &quot;too consequential&quot; to be governed by a corporation alone &lpar;Thalia Beaty/Associated Press&rpar;](http://www.techmeme.com/250717/p52#a250717p52)
+ - [Subaru’s new Uncharted EV looks like an undercover Toyota C-HR](https://www.theverge.com/news/709117/subaru-uncharted-ev-specs-toyota)
  - [The US House passes the GENIUS Act, sending the stablecoin bill to Trump for his signature, and advances two other crypto bills to the Senate for consideration &lpar;Reuters&rpar;](http://www.techmeme.com/250717/p51#a250717p51)
  - [A federal judge reinstates FTC Commissioner Rebecca Kelly Slaughter, months after President Trump sought to fire her and Democratic colleague Alvaro Bedoya &lpar;Bloomberg Law&rpar;](http://www.techmeme.com/250717/p50#a250717p50)
- - [The crypto industry got what it paid for](https://www.theverge.com/politics/709483/crypto-week-genius-clarity-act-trump)
- - [Netflix says it&#39;s on track to double its advertising revenue this year and that it will roll out interactive ads in the second half of 2025 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250717/p49#a250717p49)
- - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
+ - [The crypto industry got what it paid for](https://www.theverge.com/politics/709483/crypto-week-genius-clarity-act-trump)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

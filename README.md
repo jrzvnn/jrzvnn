@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [With friends like these, who needs enemies?](http://9gag.com/gag/aO8pnj6)
- - 😝 [Sorry, I don\u2019t make the rules.](http://9gag.com/gag/aZZRo39)
- - 💣 [So there is an upcoming live action film of the Legend of Zelda coming out in 2027 and here are the two leads.](http://9gag.com/gag/aLnWORM)
- - 😝 [Strong independent woman](http://9gag.com/gag/aPArz7B)
- - 👉 [At a pedestrian crossing...](http://9gag.com/gag/ayNvVZW)<!-- MEMES:END -->
+ - 😝 [Epstein](http://9gag.com/gag/a87Vvxp)
+ - 💣 [Strong independent woman](http://9gag.com/gag/aPArz7B)
+ - 😝 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)
+ - 👉 [Poor choice of words](http://9gag.com/gag/avy94RE)<!-- MEMES:END -->
 
 ---
 

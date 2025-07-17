@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A gritty Pac-Man reboot makes for surprisingly solid Metroid-style action](https://www.theverge.com/games-review/708833/shadow-labyrinth-review-gritty-pac-man)
- - [Meta shareholders suing Mark Zuckerberg and Meta leaders over Facebook&#39;s Cambridge Analytica privacy violations reach a settlement deal, ending an $8B trial &lpar;Reuters&rpar;](http://www.techmeme.com/250717/p26#a250717p26)
- - [Sony is still stubborn about the size of its cameras](https://www.theverge.com/cameras/708846/sony-rx1riii-full-frame-camera-size-issue-articulating-screen)
- - [TSMC US chip production may soon only be three years behind Taiwan](https://appleinsider.com/articles/25/07/17/tsmc-us-chip-production-may-soon-only-be-three-years-behind-taiwan?utm_source=rss)
- - [Eddington gets the pandemic right but still isn’t a great movie](https://www.theverge.com/film/708542/eddington-review-ari-aster-joaquin-phoenix-pandemic)<!-- TECH:END -->
+ - [Surfshark VPN drops to as low as $1.99 per month after 87% discount](https://appleinsider.com/articles/25/07/17/surfshark-vpn-drops-to-as-low-as-199-per-month-after-87-discount?utm_source=rss)
+ - [Future Apple Watch may have Digital Crown with touch and light sensors](https://appleinsider.com/articles/20/02/06/future-apple-watches-may-have-digital-crown-with-touch-and-light-sensors?utm_source=rss)
+ - [Substack raised $100M from the Chernin Group, a16z, and others, sources say at a $1.1B valuation, as it builds a social network and focuses on advertising &lpar;New York Times&rpar;](http://www.techmeme.com/250717/p27#a250717p27)
+ - [3 Best Hall Effect Keyboards for Gamers and Serious Typists &lpar;2025&rpar;](https://www.wired.com/gallery/best-hall-effect-keyboards/)
+ - [Perplexity’s CEO on why the browser is AI&amp;#8217;s killer app](https://www.theverge.com/decoder-podcast-with-nilay-patel/708256/perplexity-ceo-decoder-aravind-srinivas-comet-browser-ai-search)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

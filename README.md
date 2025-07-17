@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple celebrates World Emoji Day with early release of &#39;Emoji Game&#39;](https://appleinsider.com/articles/25/07/17/apple-celebrates-world-emoji-day-with-early-release-of-emoji-game?utm_source=rss)
+ - [Apple Partridge Creek closing, as downtown Detroit store nears its opening](https://appleinsider.com/articles/25/07/17/apple-partridge-creek-closing-as-downtown-detroit-store-nears-its-opening?utm_source=rss)
+ - [Swedish AI coding startup Lovable raised a $200M Series A led by Accel at a $1.8B valuation, making it Europe&#39;s newest unicorn &lpar;Jake Rudnitsky/Bloomberg&rpar;](http://www.techmeme.com/250717/p22#a250717p22)
  - [9 Best MagSafe Wallets, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-magsafe-wallets/)
- - [Roblox partners with Persona to estimate user ages and verify they are 13+, renames Friends to Connections, and says 13+ users can message Trusted Connections &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250717/p21#a250717p21)
- - [Hackers Are Finding New Ways to Hide Malware in DNS Records](https://www.wired.com/story/dns-records-hidden-malicious-code/)
- - [Big Tech acquihiring AI startups, like Meta&#39;s Scale AI deal, gives VCs only modest returns compared to traditional exits and may entrench Big Tech&#39;s dominance &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/250717/p20#a250717p20)
- - [DOGE Put Free Tax Filing Tool on Chopping Block After One Meeting With Lobbyists](https://www.wired.com/story/doge-direct-file-chopping-block/)<!-- TECH:END -->
+ - [Roblox partners with Persona to estimate user ages and verify they are 13+, renames Friends to Connections, and says 13+ users can message Trusted Connections &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250717/p21#a250717p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

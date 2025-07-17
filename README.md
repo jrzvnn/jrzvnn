@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Sources: the White House is preparing an EO requiring AI companies with federal contracts to be neutral and unbiased, to combat what officials see as &quot;woke AI&quot; &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250717/p53#a250717p53)
  - [An advisory board convened by OpenAI recommends that the company remain a nonprofit because AI is &quot;too consequential&quot; to be governed by a corporation alone &lpar;Thalia Beaty/Associated Press&rpar;](http://www.techmeme.com/250717/p52#a250717p52)
  - [Subaru’s new Uncharted EV looks like an undercover Toyota C-HR](https://www.theverge.com/news/709117/subaru-uncharted-ev-specs-toyota)
- - [The US House passes the GENIUS Act, sending the stablecoin bill to Trump for his signature, and advances two other crypto bills to the Senate for consideration &lpar;Reuters&rpar;](http://www.techmeme.com/250717/p51#a250717p51)
- - [A federal judge reinstates FTC Commissioner Rebecca Kelly Slaughter, months after President Trump sought to fire her and Democratic colleague Alvaro Bedoya &lpar;Bloomberg Law&rpar;](http://www.techmeme.com/250717/p50#a250717p50)<!-- TECH:END -->
+ - [Key Home Energy Tax Credits End This Year. Act Quickly if You&#39;re Considering Solar Panels, Experts Say](https://www.cnet.com/home/energy-and-utilities/key-home-energy-tax-credits-end-this-year-act-quickly-if-youre-considering-solar-panels-experts-say/#ftag=CAD590a51e)
+ - [The US House passes the GENIUS Act, sending the stablecoin bill to Trump for his signature, and advances two other crypto bills to the Senate for consideration &lpar;Reuters&rpar;](http://www.techmeme.com/250717/p51#a250717p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

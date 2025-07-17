@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bring on the trifolds](https://www.theverge.com/mobile/708487/trifold-huawei-tecno-samsung-z-fold-7)
  - [Judge blocks class suit claiming iOS 13 ignored data settings](https://appleinsider.com/articles/25/07/17/judge-blocks-class-suit-claiming-ios-13-ignored-data-settings?utm_source=rss)
  - [Hadrian, which is building largely automated factories to produce space and defense parts, raised a $260M Series C, bringing its total funding to ~$500M &lpar;Aria Alamalhodaei/TechCrunch&rpar;](http://www.techmeme.com/250717/p43#a250717p43)
  - [HBO Max: The 28 Absolute Best TV Shows to Watch](https://www.cnet.com/culture/entertainment/best-tv-shows-on-hbo-max-july-2025/#ftag=CAD590a51e)
- - [Uber Announces Global Robotaxi Plan With Lucid and Nuro](https://www.cnet.com/roadshow/news/uber-announces-global-robotaxi-plan-with-lucid-and-nuro/#ftag=CAD590a51e)
- - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)<!-- TECH:END -->
+ - [Uber Announces Global Robotaxi Plan With Lucid and Nuro](https://www.cnet.com/roadshow/news/uber-announces-global-robotaxi-plan-with-lucid-and-nuro/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

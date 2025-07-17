@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do you like Trains too?](http://9gag.com/gag/ajPRG0g)
- - 😝 [Biggest downgrade](http://9gag.com/gag/aZZRoX9)
- - 💣 [That&#39;s awesome...](http://9gag.com/gag/amoRO96)
- - 😝 [Gotcha b*tch](http://9gag.com/gag/agmK6Kg)
- - 👉 [A wholesome post.](http://9gag.com/gag/aRBR9D2)<!-- MEMES:END -->
+ - 😝 [So there is an upcoming live action film of the Legend of Zelda coming out in 2027 and here are the two leads.](http://9gag.com/gag/aLnWORM)
+ - 😝 [Strong independent woman](http://9gag.com/gag/aPArz7B)
+ - 💣 [Epstein](http://9gag.com/gag/a87Vvxp)
+ - 😝 [Poor choice of words](http://9gag.com/gag/avy94RE)
+ - 👉 [Pedo Hunter arrested for raping his own daughter.](http://9gag.com/gag/a4PwBrA)<!-- MEMES:END -->
 
 ---
 

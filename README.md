@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Asia?](http://9gag.com/gag/aNDjGyv)
- - 😝 [Strong independent woman](http://9gag.com/gag/aPArz7B)
- - 💣 [Pedo Hunter arrested for raping his own daughter.](http://9gag.com/gag/a4PwBrA)
- - 😝 [Poor choice of words](http://9gag.com/gag/avy94RE)
- - 👉 [Sorry, I don\u2019t make the rules.](http://9gag.com/gag/aZZRo39)<!-- MEMES:END -->
+ - 😝 [So there is an upcoming live action film of the Legend of Zelda coming out in 2027 and here are the two leads.](http://9gag.com/gag/aLnWORM)
+ - 💣 [Biggest downgrade](http://9gag.com/gag/aZZRoX9)
+ - 😝 [A guy got lassoed like in RDR2](http://9gag.com/gag/adBRMQV)
+ - 👉 [I&#39;m this old](http://9gag.com/gag/ae9RqLm)<!-- MEMES:END -->
 
 ---
 

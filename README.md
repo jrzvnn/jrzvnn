@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pedo Hunter arrested for raping his own daughter.](http://9gag.com/gag/a4PwBrA)
- - 😝 [Uploading old stuff](http://9gag.com/gag/avy9BDE)
- - 💣 [C: cant tell](http://9gag.com/gag/aVvR1Qv)
+ - 😝 [Asia?](http://9gag.com/gag/aNDjGyv)
  - 😝 [Strong independent woman](http://9gag.com/gag/aPArz7B)
- - 👉 [Little brother keeping it real](http://9gag.com/gag/aZZRdOz)<!-- MEMES:END -->
+ - 💣 [Pedo Hunter arrested for raping his own daughter.](http://9gag.com/gag/a4PwBrA)
+ - 😝 [Poor choice of words](http://9gag.com/gag/avy94RE)
+ - 👉 [Sorry, I don\u2019t make the rules.](http://9gag.com/gag/aZZRo39)<!-- MEMES:END -->
 
 ---
 

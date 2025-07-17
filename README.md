@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How AI and automation are transforming agriculture, enabling autonomous tractors and fruit-picking robots, and improving crop management via data and analytics &lpar;William Boston/Wall Street Journal&rpar;](http://www.techmeme.com/250717/p11#a250717p11)
+ - [TSMC CEO C.C. Wei says the company is speeding up construction of its second and third plants in Arizona &quot;by several quarters&quot; to meet robust US chip demand &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250717/p10#a250717p10)
+ - [TSMC reports Q2 net profit up ~60% YoY to ~$13.53B, beating estimates, and forecasts ~30% sales growth in USD terms in 2025, up from mid-20% previously &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250717/p9#a250717p9)
  - [TikTok is putting the spotlight on songwriters](https://www.theverge.com/news/708611/tiktok-songwriter-features-music-tab)
- - [AI is already transforming Hollywood, as studios and production companies experiment with AI tools and labor groups warn of job losses and other consequences &lpar;Steven Zeitchik/The Hollywood Reporter&rpar;](http://www.techmeme.com/250717/p8#a250717p8)
- - [Location sharing apps like Find My, Snap Map, and Life360 remain popular among Gen Z users, despite concerns about their impact on real-world relationships &lpar;Summer Maxwell/SFGATE&rpar;](http://www.techmeme.com/250717/p7#a250717p7)
- - [A look at Chinese firm Hailanyun&#39;s $223M undersea data center, about six miles offshore from Shanghai, which uses tech pioneered by Microsoft&#39;s Project Natick &lpar;You Xiaoying/Scientific American&rpar;](http://www.techmeme.com/250717/p6#a250717p6)
- - [Elliptic estimates cross-chain criminal and high-risk activity has topped $21.8B in 2025, up from $7B in 2023; North Korea is responsible for ~12% of the total &lpar;Yohan Yun/Cointelegraph&rpar;](http://www.techmeme.com/250717/p5#a250717p5)<!-- TECH:END -->
+ - [AI is already transforming Hollywood, as studios and production companies experiment with AI tools and labor groups warn of job losses and other consequences &lpar;Steven Zeitchik/The Hollywood Reporter&rpar;](http://www.techmeme.com/250717/p8#a250717p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These overpriced airport battery chargers have been recalled for a fire risk](https://www.theverge.com/news/709334/istore-recall-uscpsc-magnetic-wireless-power-bank)
  - [You can once again buy the AirPods 4 for less than $90](https://www.theverge.com/tech/709338/apple-airpods-4-active-noise-cancellation-deal-sale)
  - [Sources: Trump is expected to sign an executive order as soon as this week that would open up 401&lpar;k&rpar; plans to cryptocurrency and other alternative investments &lpar;Financial Times&rpar;](http://www.techmeme.com/250717/p48#a250717p48)
  - [Some Cities in China Are Advertising Exclusive Subsidies for Huawei-Powered Cars](https://www.wired.com/story/huawei-car-china-local-government-subsidies/)
- - [The Best Meal Replacement Shakes for Total Life Optimization &lpar;2025&rpar;](https://www.wired.com/gallery/best-liquid-meal-replacements/)
- - [iPhone 17 Pro may get display upgrade Apple reportedly scrapped](https://appleinsider.com/articles/25/07/16/iphone-17-pro-may-get-display-upgrade-apple-reportedly-scrapped?utm_source=rss)<!-- TECH:END -->
+ - [The Best Meal Replacement Shakes for Total Life Optimization &lpar;2025&rpar;](https://www.wired.com/gallery/best-liquid-meal-replacements/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

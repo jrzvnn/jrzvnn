@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Asia?](http://9gag.com/gag/aNDjGyv)
- - 😝 [So there is an upcoming live action film of the Legend of Zelda coming out in 2027 and here are the two leads.](http://9gag.com/gag/aLnWORM)
- - 💣 [Biggest downgrade](http://9gag.com/gag/aZZRoX9)
- - 😝 [A guy got lassoed like in RDR2](http://9gag.com/gag/adBRMQV)
- - 👉 [I&#39;m this old](http://9gag.com/gag/ae9RqLm)<!-- MEMES:END -->
+ - 😝 [Do you like Trains too?](http://9gag.com/gag/ajPRG0g)
+ - 😝 [Biggest downgrade](http://9gag.com/gag/aZZRoX9)
+ - 💣 [That&#39;s awesome...](http://9gag.com/gag/amoRO96)
+ - 😝 [Gotcha b*tch](http://9gag.com/gag/agmK6Kg)
+ - 👉 [A wholesome post.](http://9gag.com/gag/aRBR9D2)<!-- MEMES:END -->
 
 ---
 

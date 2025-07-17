@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [9 Best MagSafe Wallets, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-magsafe-wallets/)
  - [Roblox partners with Persona to estimate user ages and verify they are 13+, renames Friends to Connections, and says 13+ users can message Trusted Connections &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250717/p21#a250717p21)
  - [Hackers Are Finding New Ways to Hide Malware in DNS Records](https://www.wired.com/story/dns-records-hidden-malicious-code/)
  - [Big Tech acquihiring AI startups, like Meta&#39;s Scale AI deal, gives VCs only modest returns compared to traditional exits and may entrench Big Tech&#39;s dominance &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/250717/p20#a250717p20)
- - [DOGE Put Free Tax Filing Tool on Chopping Block After One Meeting With Lobbyists](https://www.wired.com/story/doge-direct-file-chopping-block/)
- - [Roblox will require a facial scan or government ID to have unfiltered chats](https://www.theverge.com/news/708670/roblox-trusted-connections-age-estimation-privacy)<!-- TECH:END -->
+ - [DOGE Put Free Tax Filing Tool on Chopping Block After One Meeting With Lobbyists](https://www.wired.com/story/doge-direct-file-chopping-block/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

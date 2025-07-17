@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What do you think](http://9gag.com/gag/aE0ZNnp)
  - 😝 [So there is an upcoming live action film of the Legend of Zelda coming out in 2027 and here are the two leads.](http://9gag.com/gag/aLnWORM)
- - 😝 [Strong independent woman](http://9gag.com/gag/aPArz7B)
- - 💣 [Epstein](http://9gag.com/gag/a87Vvxp)
- - 😝 [Poor choice of words](http://9gag.com/gag/avy94RE)
- - 👉 [Pedo Hunter arrested for raping his own daughter.](http://9gag.com/gag/a4PwBrA)<!-- MEMES:END -->
+ - 💣 [Strong independent woman](http://9gag.com/gag/aPArz7B)
+ - 😝 [Pedo Hunter arrested for raping his own daughter.](http://9gag.com/gag/a4PwBrA)
+ - 👉 [At a pedestrian crossing...](http://9gag.com/gag/ayNvVZW)<!-- MEMES:END -->
 
 ---
 

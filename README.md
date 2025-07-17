@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [OPs confession](http://9gag.com/gag/ary89Nd)
+ - 😝 [Great achievement! Also people with down syndrome do not live as long as long as a healthy person.](http://9gag.com/gag/agmKboK)
  - 😝 [Poor choice of words](http://9gag.com/gag/avy94RE)
- - 💣 [Great achievement! Also people with down syndrome do not live as long as long as a healthy person.](http://9gag.com/gag/agmKboK)
- - 😝 [Epstein](http://9gag.com/gag/a87Vvxp)
- - 👉 [Biggest downgrade](http://9gag.com/gag/aZZRoX9)<!-- MEMES:END -->
+ - 💣 [Biggest downgrade](http://9gag.com/gag/aZZRoX9)
+ - 😝 [OPs confession](http://9gag.com/gag/ary89Nd)
+ - 👉 [Sorry, I don\u2019t make the rules.](http://9gag.com/gag/aZZRo39)<!-- MEMES:END -->
 
 ---
 

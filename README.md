@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The Novo Nordisk Foundation and the Danish government plan to invest €80M to acquire and run a Microsoft-powered quantum computer, set to operate in early 2027 &lpar;Sanne Wass/Bloomberg&rpar;](http://www.techmeme.com/250717/p18#a250717p18)
  - [Bring On the MAGA Revolt](https://www.wired.com/story/trump-epstein-maga-revolt/)
  - [Sources: some Trump administration officials are holding up finalizing a deal for the UAE to buy Nvidia AI chips over concerns that China could access the chips &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250717/p17#a250717p17)
- - [Amazon&#39;s 2024 sustainability report says it emitted 68.25M metric tons of carbon dioxide equivalent, up 6% from 2023 and the first rise in three years &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/250717/p16#a250717p16)<!-- TECH:END -->
+ - [11 of the Best Sci-Fi Movies on Prime Video](https://www.cnet.com/tech/services-and-software/best-sci-fi-movies-on-prime-video-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

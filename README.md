@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple celebrates World Emoji Day with early release of &#39;Emoji Game&#39;](https://appleinsider.com/articles/25/07/17/apple-celebrates-world-emoji-day-with-early-release-of-emoji-game?utm_source=rss)
- - [Apple Partridge Creek closing, as downtown Detroit store nears its opening](https://appleinsider.com/articles/25/07/17/apple-partridge-creek-closing-as-downtown-detroit-store-nears-its-opening?utm_source=rss)
- - [Swedish AI coding startup Lovable raised a $200M Series A led by Accel at a $1.8B valuation, making it Europe&#39;s newest unicorn &lpar;Jake Rudnitsky/Bloomberg&rpar;](http://www.techmeme.com/250717/p22#a250717p22)
- - [9 Best MagSafe Wallets, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-magsafe-wallets/)
- - [Roblox partners with Persona to estimate user ages and verify they are 13+, renames Friends to Connections, and says 13+ users can message Trusted Connections &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250717/p21#a250717p21)<!-- TECH:END -->
+ - [Uber to invest in Lucid and Nuro in massive robotaxi deal](https://www.theverge.com/news/708479/uber-lucid-nuro-robotaxi-deal-investment)
+ - [Bigfoot, Orca, and a Trombone, are among new emoji coming to iOS 26](https://appleinsider.com/articles/25/07/17/bigfoot-orca-and-a-trombone-are-among-new-emoji-coming-to-ios-26?utm_source=rss)
+ - [Remagine Ventures: 342 Israeli startups are focused on generative AI in 2025, up by 198 since May 2024, and they have collectively raised $20B+ to date &lpar;Elihay Vidal/CTech&rpar;](http://www.techmeme.com/250717/p23#a250717p23)
+ - [Shark Steam Pickup 3-in-1 Hard Floor Cleaner Review: A Do-It-All Cleaning Gadget](https://www.wired.com/review/shark-steam-pickup-3-in-1-hard-floor-cleaner-sd201/)
+ - [Slack says its AI can make sense of your company&amp;#8217;s jargon](https://www.theverge.com/news/708820/slack-ai-message-context-canvas-writing-assistant)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

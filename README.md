@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify expands audiobook access to family plan members with new plans, including Audiobooks+, offering more listening hours, in the UK and 10+ countries &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250717/p29#a250717p29)
- - [Apple launches new emoji word game to take on Wordle and the NYT](https://www.theverge.com/games/708935/apple-news-plus-emoji-game-wordle)
- - [Q&amp;A with Perplexity CEO Aravind Srinivas on the browser as AI&#39;s killer app, AI talent wars, why users will eventually pay thousands for a single AI prompt, more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250717/p28#a250717p28)
- - [What the new colors coming to iPhone 17 will look like](https://appleinsider.com/articles/25/07/17/what-the-new-colors-coming-to-iphone-17-will-look-like?utm_source=rss)
- - [Surfshark VPN drops to as low as $1.99 per month after 87% discount](https://appleinsider.com/articles/25/07/17/surfshark-vpn-drops-to-as-low-as-199-per-month-after-87-discount?utm_source=rss)<!-- TECH:END -->
+ - [AMD&amp;#8217;s new 96-core Threadripper CPU will set you back $11,699](https://www.theverge.com/news/709005/amd-threadripper-9000-pro-wx-series-pricing-availability)
+ - [Elgato brightens up its Stream Deck and mics with four new colors](https://www.theverge.com/news/709011/elgato-stream-deck-wave-microphone-dreamscape-colors)
+ - [A US judge rules that three authors suing Anthropic can bring a class action on behalf of all US writers whose books Anthropic allegedly pirated to train its AI &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/250717/p30#a250717p30)
+ - [Lenovo Legion Go S review part two: you were the chosen one!](https://www.theverge.com/reviews/704903/lenovo-legion-go-s-steam-os-review-z2-go-z1-extreme)
+ - [Waymo responds to Tesla’s dick joke with a bigger Austin robotaxi map](https://www.theverge.com/news/708885/waymo-austin-map-expand-tesla-robotaxi)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the European Commission has stalled one of its X investigations for breaking its digital transparency rules, as it negotiates a trade deal with the US &lpar;Financial Times&rpar;](http://www.techmeme.com/250717/p2#a250717p2)
+ - [Google says threat actors are stealing sensitive data from organizations by targeting fully patched, end-of-life appliances from cybersecurity company SonicWall &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/250717/p1#a250717p1)
  - [What the iPhone 17 Pro and IPhone 17 Pro Max will look like](https://appleinsider.com/articles/25/07/16/what-the-iphone-17-pro-and-iphone-17-pro-max-will-look-like?utm_source=rss)
  - [&#39;Cyberpunk 2077: Ultimate Edition&#39; coming to Apple Silicon Macs on July 17](https://appleinsider.com/articles/25/07/15/cyberpunk-2077-ultimate-edition-coming-to-apple-silicon-macs-on-july-17?utm_source=rss)
- - [Delta plans for 20% of its fares to be individually determined using AI by the end of 2025, up from 3% now, with the goal of eliminating static pricing entirely &lpar;Irina Ivanova/Fortune&rpar;](http://www.techmeme.com/250716/p45#a250716p45)
- - [Microsoft&#39;s Copilot struggles to make headway against other AI assistants; Sensor Tower: Copilot&#39;s mobile app has ~79M downloads vs. ChatGPT&#39;s 900M+ downloads &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/250716/p44#a250716p44)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, July 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-july-17/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Delta plans for 20% of its fares to be individually determined using AI by the end of 2025, up from 3% now, with the goal of eliminating static pricing entirely &lpar;Irina Ivanova/Fortune&rpar;](http://www.techmeme.com/250716/p45#a250716p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

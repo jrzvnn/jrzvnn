@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix says it&#39;s on track to double its advertising revenue this year and that it will roll out interactive ads in the second half of 2025 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250717/p49#a250717p49)
+ - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
  - [Netflix says it&amp;#8217;s streamed 95 billion hours in 2025, and a lot of ads too](https://www.theverge.com/news/709288/netflix-q2-2025-earningsdouble-ad-revenue)
  - [ICE Is Getting Unprecedented Access to Medicaid Data](https://www.wired.com/story/ice-access-medicaid-data/)
- - [These overpriced airport battery chargers have been recalled for a fire risk](https://www.theverge.com/news/709334/istore-recall-uscpsc-magnetic-wireless-power-bank)
- - [Here&#39;s Your First Look at the Newest Emoji Coming Out This Fall](https://www.cnet.com/tech/services-and-software/heres-your-first-look-at-the-newest-emoji-coming-out-this-fall/#ftag=CAD590a51e)
- - [How to Get Free Marvel Rivals Skins With the College Perks Program](https://www.cnet.com/tech/gaming/how-to-get-free-marvel-rivals-skins-with-the-college-perks-program/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These overpriced airport battery chargers have been recalled for a fire risk](https://www.theverge.com/news/709334/istore-recall-uscpsc-magnetic-wireless-power-bank)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

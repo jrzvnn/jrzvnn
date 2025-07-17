@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [With friends like these, who needs enemies?](http://9gag.com/gag/aO8pnj6)
- - 😝 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)
- - 💣 [Poor choice of words](http://9gag.com/gag/avy94RE)
- - 😝 [Sorry, I don\u2019t make the rules.](http://9gag.com/gag/aZZRo39)
- - 👉 [A burger shop in the UK gave free burgers on their grand opening](http://9gag.com/gag/a1mOn7v)<!-- MEMES:END -->
+ - 😝 [Having fun with the office open space](http://9gag.com/gag/aVvR4vK)
+ - 😝 [Someone said it&#39;s a cigarette lighter.](http://9gag.com/gag/a9yDwbm)
+ - 💣 [Uploading old stuff](http://9gag.com/gag/avy9BDE)
+ - 😝 [Finally finished it after 5 years](http://9gag.com/gag/azx4znB)
+ - 👉 [The clone wars](http://9gag.com/gag/aNDjGM3)<!-- MEMES:END -->
 
 ---
 

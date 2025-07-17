@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [OPs confession](http://9gag.com/gag/ary89Nd)
- - 😝 [9th century Female torso.](http://9gag.com/gag/an7G0q0)
- - 💣 [Sorry, I don\u2019t make the rules.](http://9gag.com/gag/aZZRo39)
- - 😝 [Little brother keeping it real](http://9gag.com/gag/aZZRdOz)
- - 👉 [Poor choice of words](http://9gag.com/gag/avy94RE)<!-- MEMES:END -->
+ - 😝 [Uploading old stuff](http://9gag.com/gag/avy9BDE)
+ - 😝 [Poor choice of words](http://9gag.com/gag/avy94RE)
+ - 💣 [Little brother keeping it real](http://9gag.com/gag/aZZRdOz)
+ - 😝 [At a pedestrian crossing...](http://9gag.com/gag/ayNvVZW)
+ - 👉 [Kill them all](http://9gag.com/gag/adBRrPj)<!-- MEMES:END -->
 
 ---
 

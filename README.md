@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Razer’s new Pokémon collab is not very effective](https://www.theverge.com/tech/709193/razer-pokemon-pc-gaming-accessories-keyboard-mouse-headset)
+ - [Donkey Kong Bananza is already cheaper at Costco](https://www.theverge.com/tech/709274/donkey-kong-bananza-costco-sale-deal)
+ - [Right-wing orgs put pro-Palestinian students on an ICE ‘hit list’](https://www.theverge.com/policy/707729/ice-doxxing-canary-mission-columbia-mahmoud-khalil)
  - [Bring on the trifolds](https://www.theverge.com/mobile/708487/trifold-huawei-tecno-samsung-z-fold-7)
- - [Judge blocks class suit claiming iOS 13 ignored data settings](https://appleinsider.com/articles/25/07/17/judge-blocks-class-suit-claiming-ios-13-ignored-data-settings?utm_source=rss)
- - [Hadrian, which is building largely automated factories to produce space and defense parts, raised a $260M Series C, bringing its total funding to ~$500M &lpar;Aria Alamalhodaei/TechCrunch&rpar;](http://www.techmeme.com/250717/p43#a250717p43)
- - [HBO Max: The 28 Absolute Best TV Shows to Watch](https://www.cnet.com/culture/entertainment/best-tv-shows-on-hbo-max-july-2025/#ftag=CAD590a51e)
- - [Uber Announces Global Robotaxi Plan With Lucid and Nuro](https://www.cnet.com/roadshow/news/uber-announces-global-robotaxi-plan-with-lucid-and-nuro/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Judge blocks class suit claiming iOS 13 ignored data settings](https://appleinsider.com/articles/25/07/17/judge-blocks-class-suit-claiming-ios-13-ignored-data-settings?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

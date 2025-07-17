@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Decentralized messaging protocol XMTP developer Ephemera raised a $20M Series B at a $300M equity and $750M network valuation, following a $20M Series A in 2021 &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/250717/p36#a250717p36)
  - [Internal memo: Adam Mosseri says Meta has named long time executive Connor Hayes as head of Threads, starting in mid-September; Hayes joined Meta in 2011 &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250717/p35#a250717p35)
- - [SEC filing: Augmodo, which is developing wearable tech for retail store employees, including Smartbadges that collect inventory data, raised $37.5M &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250717/p34#a250717p34)
+ - [SEC filing: Seattle-based Augmodo, which is developing wearable tech for retail store employees, like a Smartbadge that collects inventory data, raised $37.5M &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250717/p34#a250717p34)
  - [The MacBook that starts at just $33.28 per month - thanks to this program](https://appleinsider.com/articles/25/07/17/the-macbook-that-starts-at-just-3328-per-month---thanks-to-this-program?utm_source=rss)
  - [Boulevard, which provides business management software for the self-care sector, raised an $80M Series D led by JMI Equity at an ~$800M post-money valuation &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/250717/p33#a250717p33)<!-- TECH:END -->
 

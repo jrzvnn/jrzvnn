@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Decentralized messaging protocol XMTP developer Ephemera raised a $20M Series B at a $300M equity and $750M network valuation, following a $20M Series A in 2021 &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/250717/p36#a250717p36)
+ - [Internal memo: Adam Mosseri says Meta has named long time executive Connor Hayes as head of Threads, starting in mid-September; Hayes joined Meta in 2011 &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250717/p35#a250717p35)
+ - [SEC filing: Augmodo, which is developing wearable tech for retail store employees, including Smartbadges that collect inventory data, raised $37.5M &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250717/p34#a250717p34)
  - [The MacBook that starts at just $33.28 per month - thanks to this program](https://appleinsider.com/articles/25/07/17/the-macbook-that-starts-at-just-3328-per-month---thanks-to-this-program?utm_source=rss)
- - [Boulevard, which provides business management software for the self-care sector, raised an $80M Series D led by JMI Equity at an ~$800M post-money valuation &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/250717/p33#a250717p33)
- - [I tested 12 Switch 2 cases and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases)
- - [Netflix&amp;#8217;s Assassin&amp;#8217;s Creed series is finally coming together](https://www.theverge.com/netflix/708989/netflix-assassins-creed-roberto-patino)
- - [Mistral adds new features to its Le Chat chatbot, including a new &quot;deep research&quot; mode, native multilingual reasoning, and advanced image editing &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250717/p32#a250717p32)<!-- TECH:END -->
+ - [Boulevard, which provides business management software for the self-care sector, raised an $80M Series D led by JMI Equity at an ~$800M post-money valuation &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/250717/p33#a250717p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

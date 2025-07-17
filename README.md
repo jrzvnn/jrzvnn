@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The forbidden question..](http://9gag.com/gag/ary8rjB)
  - 😝 [What do you think](http://9gag.com/gag/aE0ZNnp)
- - 💣 [Strong independent woman](http://9gag.com/gag/aPArz7B)
- - 😝 [At a pedestrian crossing...](http://9gag.com/gag/ayNvVZW)
- - 👉 [Sums it up](http://9gag.com/gag/apRVjK8)<!-- MEMES:END -->
+ - 😝 [Strong independent woman](http://9gag.com/gag/aPArz7B)
+ - 💣 [OPs confession](http://9gag.com/gag/ary89Nd)
+ - 😝 [C: cant tell](http://9gag.com/gag/aVvR1Qv)
+ - 👉 [At a pedestrian crossing...](http://9gag.com/gag/ayNvVZW)<!-- MEMES:END -->
 
 ---
 

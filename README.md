@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Pedo Hunter arrested for raping his own daughter.](http://9gag.com/gag/a4PwBrA)
- - 😝 [A wholesome post.](http://9gag.com/gag/aRBR9D2)
+ - 😝 [Uploading old stuff](http://9gag.com/gag/avy9BDE)
  - 💣 [C: cant tell](http://9gag.com/gag/aVvR1Qv)
- - 😝 [Gotcha b*tch](http://9gag.com/gag/agmK6Kg)
- - 👉 [Strong independent woman](http://9gag.com/gag/aPArz7B)<!-- MEMES:END -->
+ - 😝 [Strong independent woman](http://9gag.com/gag/aPArz7B)
+ - 👉 [Little brother keeping it real](http://9gag.com/gag/aZZRdOz)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 Pro rumored to get Liquid Glass color treatment](https://appleinsider.com/articles/25/07/17/iphone-17-pro-rumored-to-get-liquid-glass-color-treatment?utm_source=rss)
- - [AMD unveils the Zen 5-based Ryzen Threadripper Pro 9000 WX-Series CPUs, including the flagship $11,699 Threadripper Pro 9995WX with 96 cores, set for July 23 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250717/p37#a250717p37)
- - [Apple could take over Sunday Night Baseball after ESPN drops out](https://appleinsider.com/articles/25/07/17/apple-could-take-over-sunday-night-baseball-after-espn-drops-out?utm_source=rss)
- - [Anthropic will face a class-action lawsuit from US authors](https://www.theverge.com/anthropic/709183/anthropic-class-action-lawsuit-pirated-books-authors-downloads)
- - [The next batch of emoji includes Bigfoot](https://www.theverge.com/news/709179/emoji-17-0-bigfoot-apple-core-orca-treasure-chest-trombone-dancer)<!-- TECH:END -->
+ - [Hands-on with ChatGPT Agent: combines OpenAI&#39;s Operator and deep research tools and is incredibly simple to use, but less customizable than Claude Code &lpar;Dan Shipper/Every&rpar;](http://www.techmeme.com/250717/p40#a250717p40)
+ - [ChatGPT Agent uses a virtual browser to do tasks such as filling online forms and calling public APIs, and generates downloadable PowerPoint and Excel files &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/250717/p39#a250717p39)
+ - [This Killer Dell 14 Plus Deal Changed My Opinion of the Laptop](https://www.wired.com/story/dell-14-plus-deal-july-2025/)
+ - [OpenAI debuts ChatGPT Agent, which can control an entire computer and perform multi-step tasks, powered by a new dedicated model, rolling out to paid users &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250717/p38#a250717p38)
+ - [OpenAI’s New ChatGPT Agent Tries to Do It All](https://www.wired.com/story/openai-chatgpt-agent-launch/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

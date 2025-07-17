@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta shareholders suing Mark Zuckerberg and Meta leaders over Facebook&#39;s Cambridge Analytica privacy violations reach a settlement deal, ending an $8B trial &lpar;Reuters&rpar;](http://www.techmeme.com/250717/p26#a250717p26)
+ - [Sony is still stubborn about the size of its cameras](https://www.theverge.com/cameras/708846/sony-rx1riii-full-frame-camera-size-issue-articulating-screen)
  - [TSMC US chip production may soon only be three years behind Taiwan](https://appleinsider.com/articles/25/07/17/tsmc-us-chip-production-may-soon-only-be-three-years-behind-taiwan?utm_source=rss)
  - [Eddington gets the pandemic right but still isn’t a great movie](https://www.theverge.com/film/708542/eddington-review-ari-aster-joaquin-phoenix-pandemic)
- - [Adobe&amp;#8217;s new AI tool turns silly noises into realistic audio effects](https://www.theverge.com/news/708798/adobe-firefly-ai-generate-sound-effects-video-composition)
- - [Dyson&amp;#8217;s $500 headphones come in even more colors](https://www.theverge.com/news/708819/dyson-ontrac-headphones-new-colors-sky-blue-oyster-pink-caramel-chalk-white)
- - [In H1 2025, hackers stole $2.17B+ from crypto services, including the DPRK&#39;s record $1.5B Bybit hack, surpassing all of 2024 and up 17% on H1 2022 &lpar;Chainalysis&rpar;](http://www.techmeme.com/250717/p25#a250717p25)<!-- TECH:END -->
+ - [Adobe&amp;#8217;s new AI tool turns silly noises into realistic audio effects](https://www.theverge.com/news/708798/adobe-firefly-ai-generate-sound-effects-video-composition)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

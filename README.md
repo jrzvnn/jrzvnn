@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I wouldn&#39;t fight him](http://9gag.com/gag/a4Pw8Dd)
- - 😝 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)
- - 💣 [I&#39;m this old](http://9gag.com/gag/ae9RqLm)
- - 😝 [Pedo Hunter arrested for raping his own daughter.](http://9gag.com/gag/a4PwBrA)
- - 👉 [A Passionate Fan](http://9gag.com/gag/aBy4MPz)<!-- MEMES:END -->
+ - 😝 [Sorry, I don\u2019t make the rules.](http://9gag.com/gag/aZZRo39)
+ - 💣 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)
+ - 😝 [Epstein](http://9gag.com/gag/a87Vvxp)
+ - 👉 [A burger shop in the UK gave free burgers on their grand opening](http://9gag.com/gag/a1mOn7v)<!-- MEMES:END -->
 
 ---
 

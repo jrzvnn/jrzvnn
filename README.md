@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What do you think](http://9gag.com/gag/aE0ZNnp)
- - 😝 [Strong independent woman](http://9gag.com/gag/aPArz7B)
- - 💣 [OPs confession](http://9gag.com/gag/ary89Nd)
- - 😝 [C: cant tell](http://9gag.com/gag/aVvR1Qv)
- - 👉 [At a pedestrian crossing...](http://9gag.com/gag/ayNvVZW)<!-- MEMES:END -->
+ - 😝 [OPs confession](http://9gag.com/gag/ary89Nd)
+ - 😝 [9th century Female torso.](http://9gag.com/gag/an7G0q0)
+ - 💣 [Sorry, I don\u2019t make the rules.](http://9gag.com/gag/aZZRo39)
+ - 😝 [Little brother keeping it real](http://9gag.com/gag/aZZRdOz)
+ - 👉 [Poor choice of words](http://9gag.com/gag/avy94RE)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What do you think](http://9gag.com/gag/aE0ZNnp)
+ - 😝 [For ever 100 likes I&#39;ll make Marks hair longer.](http://9gag.com/gag/aE0ZNYO)
  - 😝 [So there is an upcoming live action film of the Legend of Zelda coming out in 2027 and here are the two leads.](http://9gag.com/gag/aLnWORM)
- - 💣 [Strong independent woman](http://9gag.com/gag/aPArz7B)
- - 😝 [Pedo Hunter arrested for raping his own daughter.](http://9gag.com/gag/a4PwBrA)
- - 👉 [At a pedestrian crossing...](http://9gag.com/gag/ayNvVZW)<!-- MEMES:END -->
+ - 💣 [Sorry, I don\u2019t make the rules.](http://9gag.com/gag/aZZRo39)
+ - 😝 [Strong independent woman](http://9gag.com/gag/aPArz7B)
+ - 👉 [Uploading old stuff](http://9gag.com/gag/avy9BDE)<!-- MEMES:END -->
 
 ---
 

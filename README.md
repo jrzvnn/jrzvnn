@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US House passes the GENIUS Act, sending the stablecoin bill to Trump for his signature, and advances two other crypto bills to the Senate for consideration &lpar;Reuters&rpar;](http://www.techmeme.com/250717/p51#a250717p51)
+ - [A federal judge reinstates FTC Commissioner Rebecca Kelly Slaughter, months after President Trump sought to fire her and Democratic colleague Alvaro Bedoya &lpar;Bloomberg Law&rpar;](http://www.techmeme.com/250717/p50#a250717p50)
  - [The crypto industry got what it paid for](https://www.theverge.com/politics/709483/crypto-week-genius-clarity-act-trump)
  - [Netflix says it&#39;s on track to double its advertising revenue this year and that it will roll out interactive ads in the second half of 2025 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250717/p49#a250717p49)
- - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Wi-Fi Experts Reveal How Trump’s Budget Bill Could Slow Down Your Wi-Fi](https://www.cnet.com/home/internet/wi-fi-experts-reveal-how-trumps-budget-bill-could-slow-down-your-wi-fi/#ftag=CAD590a51e)
- - [We Sure Watched a Lot of Old Netflix Hits in the First Half of the Year](https://www.cnet.com/tech/services-and-software/we-sure-watched-a-lot-of-old-netflix-hits-in-the-first-half-of-the-year/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wouldn&#39;t fight him](http://9gag.com/gag/a4Pw8Dd)
+ - 😝 [With friends like these, who needs enemies?](http://9gag.com/gag/aO8pnj6)
+ - 😝 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)
+ - 💣 [Poor choice of words](http://9gag.com/gag/avy94RE)
  - 😝 [Sorry, I don\u2019t make the rules.](http://9gag.com/gag/aZZRo39)
- - 💣 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)
- - 😝 [Epstein](http://9gag.com/gag/a87Vvxp)
  - 👉 [A burger shop in the UK gave free burgers on their grand opening](http://9gag.com/gag/a1mOn7v)<!-- MEMES:END -->
 
 ---

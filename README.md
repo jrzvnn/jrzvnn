@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pedo Hunter arrested for raping his own daughter.](http://9gag.com/gag/a4PwBrA)
+ - 😝 [Great achievement! Also people with down syndrome do not live as long as long as a healthy person.](http://9gag.com/gag/agmKboK)
  - 😝 [Epstein](http://9gag.com/gag/a87Vvxp)
- - 💣 [Sorry, I don\u2019t make the rules.](http://9gag.com/gag/aZZRo39)
- - 😝 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)
- - 👉 [Biggest downgrade](http://9gag.com/gag/aZZRoX9)<!-- MEMES:END -->
+ - 💣 [OPs confession](http://9gag.com/gag/ary89Nd)
+ - 😝 [Poor choice of words](http://9gag.com/gag/avy94RE)
+ - 👉 [Sorry, I don\u2019t make the rules.](http://9gag.com/gag/aZZRo39)<!-- MEMES:END -->
 
 ---
 

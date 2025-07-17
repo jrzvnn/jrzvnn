@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Big Tech acquihiring AI startups, like Meta&#39;s Scale AI deal, gives VCs only modest returns compared to traditional exits and may entrench Big Tech&#39;s dominance &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/250717/p20#a250717p20)
+ - [DOGE Put Free Tax Filing Tool on Chopping Block After One Meeting With Lobbyists](https://www.wired.com/story/doge-direct-file-chopping-block/)
+ - [Roblox will require a facial scan or government ID to have unfiltered chats](https://www.theverge.com/news/708670/roblox-trusted-connections-age-estimation-privacy)
  - [Sources: in a Trump meeting, Jensen Huang argued US chips should be the global standard and leveraged support from David Sacks, who disliked Biden&#39;s chip rules &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/250717/p19#a250717p19)
- - [The Novo Nordisk Foundation and the Danish government plan to invest €80M to acquire and run a Microsoft-powered quantum computer, set to operate in early 2027 &lpar;Sanne Wass/Bloomberg&rpar;](http://www.techmeme.com/250717/p18#a250717p18)
- - [Bring On the MAGA Revolt](https://www.wired.com/story/trump-epstein-maga-revolt/)
- - [Sources: some Trump administration officials are holding up finalizing a deal for the UAE to buy Nvidia AI chips over concerns that China could access the chips &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250717/p17#a250717p17)
- - [11 of the Best Sci-Fi Movies on Prime Video](https://www.cnet.com/tech/services-and-software/best-sci-fi-movies-on-prime-video-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Novo Nordisk Foundation and the Danish government plan to invest €80M to acquire and run a Microsoft-powered quantum computer, set to operate in early 2027 &lpar;Sanne Wass/Bloomberg&rpar;](http://www.techmeme.com/250717/p18#a250717p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

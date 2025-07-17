@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jack Dorsey invests $10M in &quot;and Other Stuff&quot;, a nonprofit focused on funding open-source projects and tools built on open protocols like Nostr and ActivityPub &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250717/p13#a250717p13)
+ - [Chinese game Revenge on Gold Diggers, one of the most popular and contentious video games in the country, sparks a debate over misogyny and male resentment &lpar;Li Yuan/New York Times&rpar;](http://www.techmeme.com/250717/p12#a250717p12)
  - [How AI and automation are transforming agriculture, enabling autonomous tractors and fruit-picking robots, and improving crop management via data and analytics &lpar;William Boston/Wall Street Journal&rpar;](http://www.techmeme.com/250717/p11#a250717p11)
  - [TSMC CEO C.C. Wei says the company is speeding up construction of its second and third plants in Arizona &quot;by several quarters&quot; to meet robust US chip demand &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250717/p10#a250717p10)
- - [TSMC reports Q2 net profit up ~60% YoY to ~$13.53B, beating estimates, and forecasts ~30% sales growth in USD terms in 2025, up from mid-20% previously &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250717/p9#a250717p9)
- - [TikTok is putting the spotlight on songwriters](https://www.theverge.com/news/708611/tiktok-songwriter-features-music-tab)
- - [AI is already transforming Hollywood, as studios and production companies experiment with AI tools and labor groups warn of job losses and other consequences &lpar;Steven Zeitchik/The Hollywood Reporter&rpar;](http://www.techmeme.com/250717/p8#a250717p8)<!-- TECH:END -->
+ - [TSMC reports Q2 net profit up ~60% YoY to ~$13.53B, beating estimates, and forecasts ~30% sales growth in USD terms in 2025, up from mid-20% previously &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250717/p9#a250717p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

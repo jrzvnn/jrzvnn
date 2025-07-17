@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Electronics Chair Jay Y. Lee wins a full reprieval from South Korea&#39;s Supreme Court in a protracted fight over fraud and stock manipulation allegations &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250717/p15#a250717p15)
  - [The US FCC aims to introduce a ban on companies that use certain Chinese tech and equipment from building submarine communication cables connecting to the US &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/250717/p14#a250717p14)
- - [Jack Dorsey invests $10M in &quot;and Other Stuff&quot;, a nonprofit focused on funding open-source projects and tools built on open protocols like Nostr and ActivityPub &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250717/p13#a250717p13)
- - [Chinese game Revenge on Gold Diggers, one of the most popular and contentious video games in the country, sparks a debate over misogyny and male resentment &lpar;Li Yuan/New York Times&rpar;](http://www.techmeme.com/250717/p12#a250717p12)
- - [How AI and automation are transforming agriculture, enabling autonomous tractors and fruit-picking robots, and improving crop management via data and analytics &lpar;William Boston/Wall Street Journal&rpar;](http://www.techmeme.com/250717/p11#a250717p11)
- - [TSMC CEO C.C. Wei says the company is speeding up construction of its second and third plants in Arizona &quot;by several quarters&quot; to meet robust US chip demand &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250717/p10#a250717p10)<!-- TECH:END -->
+ - [Best Internet Providers in Buffalo, New York](https://www.cnet.com/home/internet/best-internet-providers-in-buffalo-ny/#ftag=CAD590a51e)
+ - [I Got a Cortisol Blood Test. What I Learned About My Stress Was Important, but Not Fun](https://www.cnet.com/health/medical/after-cortisol-blood-test-what-learned-about-stress-important-not-fun/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 17 #501](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-17-501/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

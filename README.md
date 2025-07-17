@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never gonna get bored by it, cool guy still](http://9gag.com/gag/azx4oqz)
- - 😝 [He really thought he had it in the bag](http://9gag.com/gag/a9yDVm0)
- - 💣 [OPs confession](http://9gag.com/gag/ary89Nd)
- - 😝 [Sorry, I don\u2019t make the rules.](http://9gag.com/gag/aZZRo39)
- - 👉 [Poor choice of words](http://9gag.com/gag/avy94RE)<!-- MEMES:END -->
+ - 😝 [The forbidden question..](http://9gag.com/gag/ary8rjB)
+ - 😝 [What do you think](http://9gag.com/gag/aE0ZNnp)
+ - 💣 [Strong independent woman](http://9gag.com/gag/aPArz7B)
+ - 😝 [At a pedestrian crossing...](http://9gag.com/gag/ayNvVZW)
+ - 👉 [Sums it up](http://9gag.com/gag/apRVjK8)<!-- MEMES:END -->
 
 ---
 

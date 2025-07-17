@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD&amp;#8217;s new 96-core Threadripper CPU will set you back $11,699](https://www.theverge.com/news/709005/amd-threadripper-9000-pro-wx-series-pricing-availability)
- - [Elgato brightens up its Stream Deck and mics with four new colors](https://www.theverge.com/news/709011/elgato-stream-deck-wave-microphone-dreamscape-colors)
- - [A US judge rules that three authors suing Anthropic can bring a class action on behalf of all US writers whose books Anthropic allegedly pirated to train its AI &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/250717/p30#a250717p30)
- - [Lenovo Legion Go S review part two: you were the chosen one!](https://www.theverge.com/reviews/704903/lenovo-legion-go-s-steam-os-review-z2-go-z1-extreme)
- - [Waymo responds to Tesla’s dick joke with a bigger Austin robotaxi map](https://www.theverge.com/news/708885/waymo-austin-map-expand-tesla-robotaxi)<!-- TECH:END -->
+ - [Netflix&amp;#8217;s Assassin&amp;#8217;s Creed series is finally coming together](https://www.theverge.com/netflix/708989/netflix-assassins-creed-roberto-patino)
+ - [Mistral adds new features to its Le Chat chatbot, including a new &quot;deep research&quot; mode, native multilingual reasoning, and advanced image editing &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250717/p32#a250717p32)
+ - [Firestorm Labs, which has contracts with the US DOD for its 3D printed drones, raised a $47M Series A and plans to grow its fleet of airliftable xCell factories &lpar;Colin Demarest/Axios&rpar;](http://www.techmeme.com/250717/p31#a250717p31)
+ - [Future Macs with Face ID could have gesture detection too](https://appleinsider.com/articles/25/07/17/future-macs-with-face-id-could-have-gesture-detection-too?utm_source=rss)
+ - [AMD&amp;#8217;s new 96-core Threadripper CPU will set you back $11,699](https://www.theverge.com/news/709005/amd-threadripper-9000-pro-wx-series-pricing-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

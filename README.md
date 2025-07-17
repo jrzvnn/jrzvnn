@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Decentralized messaging protocol XMTP developer Ephemera raised a $20M Series B at a $300M equity and $750M network valuation, following a $20M Series A in 2021 &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/250717/p36#a250717p36)
- - [Internal memo: Adam Mosseri says Meta has named long time executive Connor Hayes as head of Threads, starting in mid-September; Hayes joined Meta in 2011 &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250717/p35#a250717p35)
- - [SEC filing: Seattle-based Augmodo, which is developing wearable tech for retail store employees, like a Smartbadge that collects inventory data, raised $37.5M &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250717/p34#a250717p34)
- - [The MacBook that starts at just $33.28 per month - thanks to this program](https://appleinsider.com/articles/25/07/17/the-macbook-that-starts-at-just-3328-per-month---thanks-to-this-program?utm_source=rss)
- - [Boulevard, which provides business management software for the self-care sector, raised an $80M Series D led by JMI Equity at an ~$800M post-money valuation &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/250717/p33#a250717p33)<!-- TECH:END -->
+ - [iPhone 17 Pro rumored to get Liquid Glass color treatment](https://appleinsider.com/articles/25/07/17/iphone-17-pro-rumored-to-get-liquid-glass-color-treatment?utm_source=rss)
+ - [AMD unveils the Zen 5-based Ryzen Threadripper Pro 9000 WX-Series CPUs, including the flagship $11,699 Threadripper Pro 9995WX with 96 cores, set for July 23 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250717/p37#a250717p37)
+ - [Apple could take over Sunday Night Baseball after ESPN drops out](https://appleinsider.com/articles/25/07/17/apple-could-take-over-sunday-night-baseball-after-espn-drops-out?utm_source=rss)
+ - [Anthropic will face a class-action lawsuit from US authors](https://www.theverge.com/anthropic/709183/anthropic-class-action-lawsuit-pirated-books-authors-downloads)
+ - [The next batch of emoji includes Bigfoot](https://www.theverge.com/news/709179/emoji-17-0-bigfoot-apple-core-orca-treasure-chest-trombone-dancer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

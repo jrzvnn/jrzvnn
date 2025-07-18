@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Back-to-School Tech Gear and Gadgets in 2025](https://www.cnet.com/tech/best-back-to-school-tech-gear/#ftag=CAD590a51e)
  - [Source: the CEO and the chief people officer of Astronomer were put on leave after a video of them cuddling on a kiss cam at a Coldplay concert went viral &lpar;Eleanor Hawkins/Axios&rpar;](http://www.techmeme.com/250718/p20#a250718p20)
+ - [It&#39;s the End of the Road for Microsoft Store Movies and TV Shows. What It Means for You](https://www.cnet.com/tech/services-and-software/its-the-end-of-the-road-for-microsoft-store-movies-and-tv-shows-what-it-means-for-you/#ftag=CAD590a51e)
  - [Adobe updates its Firefly video model and adds a beta Generate Sound Effects tool that can create custom sounds from text prompts and the user&#39;s voice &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/250718/p19#a250718p19)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [Twelve South’s travel-friendly 2-in-1 Qi2 charger is over 50 percent off right now](https://www.theverge.com/tech/710104/twelve-south-butterfly-se-charger-nothing-phone-3-deal-sale)
- - [Grab Apple&#39;s 14-inch MacBook Pro M4 for just $1,399 this weekend](https://appleinsider.com/articles/25/07/18/grab-apples-14-inch-macbook-pro-m4-for-just-1399-this-weekend?utm_source=rss)<!-- TECH:END -->
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

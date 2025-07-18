@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ring reinstated its mission to &quot;make neighborhoods safer&quot; and reintroduced video sharing with police in April, as its founder led an overhaul since his return &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/250718/p22#a250718p22)
  - [The best Sonos speakers to buy in 2025](https://www.theverge.com/tech/652171/best-sonos-speakers)
  - [Apple Sues the YouTuber Who Leaked iOS 26](https://www.wired.com/story/apple-sues-the-youtuber-who-leaked-ios-26/)
  - [S&amp;P Global says Block will join the S&amp;P 500 on July 23, after announcing Monday that ad tech firm The Trade Desk will also be added; XYZ jumps 9%+ after hours &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/250718/p21#a250718p21)
- - [Best Back-to-School Tech Gear and Gadgets in 2025](https://www.cnet.com/tech/best-back-to-school-tech-gear/#ftag=CAD590a51e)
- - [Source: the CEO and the chief people officer of Astronomer were put on leave after a video of them cuddling on a kiss cam at a Coldplay concert went viral &lpar;Eleanor Hawkins/Axios&rpar;](http://www.techmeme.com/250718/p20#a250718p20)<!-- TECH:END -->
+ - [Best Back-to-School Tech Gear and Gadgets in 2025](https://www.cnet.com/tech/best-back-to-school-tech-gear/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

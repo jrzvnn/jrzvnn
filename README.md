@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I dare you to vote against](http://9gag.com/gag/adBRAKB)
- - 😝 [Is everyone happy now?](http://9gag.com/gag/a6ZGepq)
- - 💣 [A Passionate Fan](http://9gag.com/gag/aBy4MPz)
+ - 😝 [Finally finished it after 5 years](http://9gag.com/gag/azx4znB)
+ - 😝 [Coldplay making singles again](http://9gag.com/gag/aZZRXOW)
+ - 💣 [Uploading old stuff](http://9gag.com/gag/avy9BDE)
  - 😝 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)
- - 👉 [Cut...](http://9gag.com/gag/a6ZGzWe)<!-- MEMES:END -->
+ - 👉 [If Tarantino lost all his teeth he would probably look the same.](http://9gag.com/gag/a4Pwg1Q)<!-- MEMES:END -->
 
 ---
 

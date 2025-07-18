@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple sues Jon Prosser and Michael Ramacciotti over iOS 26 leaks, alleging a plot to access Apple employee&#39;s iPhone for trade secrets; Prosser denies the claim &lpar;Eric Slivka/MacRumors&rpar;](http://www.techmeme.com/250718/p1#a250718p1)
+ - [Sources: the US State Department has effectively dismantled its three-year-old Bureau of Cyberspace and Digital Policy, firing between nine and 11 staffers &lpar;Eric Geller/Cybersecurity Dive&rpar;](http://www.techmeme.com/250717/p60#a250717p60)
  - [Samsung Galaxy Z Fold7 review: looks like a regular phone with an exquisitely thin design, has top-tier performance, but is very pricey and lacks S Pen support &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/250717/p59#a250717p59)
  - [Meta has poached two more heavyweights from Apple&#39;s AI team](https://appleinsider.com/articles/25/07/18/meta-has-poached-two-more-heavyweights-from-apples-ai-team?utm_source=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, July 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-july-18/#ftag=CAD590a51e)
- - [Neuralink filed on April 24 as a &quot;small disadvantaged business&quot; that could give it preferential access to federal opportunities, before being valued at $9B &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/250717/p58#a250717p58)
- - [Claude Code users, many on the $200-a-month Max plan, are unexpectedly facing restrictive usage limits; Anthropic says it&#39;s &quot;working to resolve these issues&quot; &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/250717/p57#a250717p57)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, July 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-july-18/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

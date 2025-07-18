@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I sent ChatGPT Agent out to shop for me](https://www.theverge.com/ai-artificial-intelligence/710020/openai-review-test-new-release-chatgpt-agent-operator-deep-research-pro-200-subscription)
  - [President Trump signs the GENIUS Act, and says the first federal bill to regulate stablecoins will &quot;secure the dollar&#39;s status as the world&#39;s reserve currency&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250718/p16#a250718p16)
  - [An electric scooter that accelerates faster than a Tesla Model 3? No thanks!](https://www.theverge.com/news/709934/bo-turbo-electric-scooter-100-mph-speed)
  - [RealPage goes from setting rent to collecting it](https://www.theverge.com/news/710036/realpage-livble-acquisition-rent-payments)
- - [One of the Democrats Trump unlawfully fired from the FTC is back](https://www.theverge.com/politics/710029/slaughter-trump-bedoya-ftc-democrats-removal-unlawful)
- - [The 5 Best Multivitamins for Men in 2025](https://www.cnet.com/health/nutrition/best-multivitamins-for-men/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [One of the Democrats Trump unlawfully fired from the FTC is back](https://www.theverge.com/politics/710029/slaughter-trump-bedoya-ftc-democrats-removal-unlawful)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

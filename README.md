@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [There is always an asian to stop a Karen](http://9gag.com/gag/avy9q7W)
+ - 😝 [Let&#39;s go](http://9gag.com/gag/aoynGVx)
+ - 💣 [The Epstein Files](http://9gag.com/gag/aBy4bPO)
  - 😝 [Im love bones now](http://9gag.com/gag/aE0Zjwn)
- - 😝 [Poor choice of words](http://9gag.com/gag/avy94RE)
- - 💣 [Sorry, I don\u2019t make the rules.](http://9gag.com/gag/aZZRo39)
- - 😝 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)
- - 👉 [Pedo Hunter arrested for raping his own daughter.](http://9gag.com/gag/a4PwBrA)<!-- MEMES:END -->
+ - 👉 [A burger shop in the UK gave free burgers on their grand opening](http://9gag.com/gag/a1mOn7v)<!-- MEMES:END -->
 
 ---
 

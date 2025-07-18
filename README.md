@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Delta Air Lines is using AI to set the maximum price you&amp;#8217;re willing to pay](https://www.theverge.com/news/709556/delta-air-lines-ai-ticket-price-rollout)
+ - [7 Best Coffee Concentrates for Instant Caffeine &lpar;2025&rpar;](https://www.wired.com/gallery/best-coffee-concentrates/)
  - [A Russian lawmaker regulating IT warns WhatsApp to &quot;prepare to leave the Russian market&quot;; Moscow recently approved development of a state-backed messaging app &lpar;Reuters&rpar;](http://www.techmeme.com/250718/p5#a250718p5)
  - [Apple sues Jon Prosser over iOS 26 leaks](https://appleinsider.com/articles/25/07/18/apple-sues-jon-prosser-over-ios-26-leaks?utm_source=rss)
- - [Apple sues leaker Jon Prosser for stealing iOS secrets](https://www.theverge.com/news/709550/apple-jon-prosser-lawsuit-michael-ramacciotti-ios-26-trade-secrets)
- - [Lenovo Legion Go S review: SteamOS is a huge improvement over Windows, but battery life falls behind Windows-based handhelds and its touchpad is nearly useless &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250718/p3#a250718p3)
- - [Today&#39;s Wordle Hints, Answer and Help for July 18, #1490](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-18-1490/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple sues leaker Jon Prosser for stealing iOS secrets](https://www.theverge.com/news/709550/apple-jon-prosser-lawsuit-michael-ramacciotti-ios-26-trade-secrets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

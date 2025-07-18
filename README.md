@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wilawan Emsawat, nicknamed \u201cGolf,\u201dblackmails 9 monks for more than 10 million euros with videos having sex with them](http://9gag.com/gag/a2vOgqD)
+ - 😝 [Coldplay exposing Astronomer CEO Andy Byron&#39;s affair with coworker Kristin Cabot HR!&rpar;. They are both married!](http://9gag.com/gag/apRV7Nb)
  - 😝 [Sometimes pause at the right moment](http://9gag.com/gag/aYQRBYN)
- - 💣 [25 years of waiting, finally free](http://9gag.com/gag/agmKbvr)
- - 😝 [If only a bear was there to save them](http://9gag.com/gag/aD2Q9rB)
- - 👉 [A burger shop in the UK gave free burgers on their grand opening](http://9gag.com/gag/a1mOn7v)<!-- MEMES:END -->
+ - 💣 [Saul Goodman](http://9gag.com/gag/a6ZGgA8)
+ - 😝 [Time flies](http://9gag.com/gag/a0eOqgZ)
+ - 👉 [Smartest decision ever](http://9gag.com/gag/a2vOg9p)<!-- MEMES:END -->
 
 ---
 

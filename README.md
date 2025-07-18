@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EU issues guidelines to help AI models with systemic risks comply with the AI Act, after criticism from some companies about lack of clarity &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250718/p6#a250718p6)
+ - [Italian YouTuber Faces Jail Time for Showing Android Handhelds With Emulated Games](https://www.wired.com/story/italian-youtuber-faces-jail-time-for-showing-android-gaming-handhelds/)
  - [Inside Apple Calendar - Creating events, setting reminders &amp; remembering birthdays](https://appleinsider.com/inside/ios-26/tips/inside-apple-calendar---creating-events-setting-reminders-remembering-birthdays?utm_source=rss)
  - [&#39;Eddington&#39; Director Ari Aster Couldn’t Stand ‘Living in the Internet.’ So He Made a Movie About It](https://www.wired.com/story/eddington-director-ari-aster-couldnt-stand-living-in-the-internet-so-he-made-a-movie-about-it/)
- - [Einstein Showed That Time Is Relative. But … Why Is It?](https://www.wired.com/story/why-time-is-relative/)
- - [Delta Air Lines is using AI to set the maximum price you&amp;#8217;re willing to pay](https://www.theverge.com/news/709556/delta-air-lines-ai-ticket-price-rollout)
- - [7 Best Coffee Concentrates for Instant Caffeine &lpar;2025&rpar;](https://www.wired.com/gallery/best-coffee-concentrates/)<!-- TECH:END -->
+ - [Einstein Showed That Time Is Relative. But … Why Is It?](https://www.wired.com/story/why-time-is-relative/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

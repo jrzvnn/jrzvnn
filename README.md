@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Coldplay looking out for everyone, even the side pieces](http://9gag.com/gag/avy9qBW)
+ - 😝 [I dare you to vote against](http://9gag.com/gag/adBRAKB)
+ - 💣 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)
  - 😝 [Smartest decision ever](http://9gag.com/gag/a2vOg9p)
- - 😝 [Epstein](http://9gag.com/gag/a87Vvxp)
- - 💣 [Cut...](http://9gag.com/gag/a6ZGzWe)
- - 😝 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)
- - 👉 [Pedo Hunter arrested for raping his own daughter.](http://9gag.com/gag/a4PwBrA)<!-- MEMES:END -->
+ - 👉 [You are getting paid for what?](http://9gag.com/gag/an7GZOE)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finally finished it after 5 years](http://9gag.com/gag/azx4znB)
- - 😝 [Coldplay making singles again](http://9gag.com/gag/aZZRXOW)
- - 💣 [Uploading old stuff](http://9gag.com/gag/avy9BDE)
- - 😝 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)
- - 👉 [If Tarantino lost all his teeth he would probably look the same.](http://9gag.com/gag/a4Pwg1Q)<!-- MEMES:END -->
+ - 😝 [Are we something](http://9gag.com/gag/aAyvA52)
+ - 😝 [A Passionate Fan](http://9gag.com/gag/aBy4MPz)
+ - 💣 [Cut...](http://9gag.com/gag/a6ZGzWe)
+ - 😝 [Obvious](http://9gag.com/gag/aD2Q99x)
+ - 👉 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)<!-- MEMES:END -->
 
 ---
 

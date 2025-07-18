@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple sues Jon Prosser over iOS 26 leaks](https://appleinsider.com/articles/25/07/18/apple-sues-jon-prosser-over-ios-26-leaks?utm_source=rss)
  - [SEC Chairman Paul Atkins says the GENIUS Act is a &quot;historic step&quot; and the SEC is weighing an &quot;innovation exemption&quot; from regulations to incentivize tokenization &lpar;Bloomberg&rpar;](http://www.techmeme.com/250718/p10#a250718p10)
  - [Thunderbolt 5 and USB-C - everything you need to know about every version of USB](https://appleinsider.com/articles/20/08/24/usb-3-usb-4-thunderbolt-usb-c----everything-you-need-to-know?utm_source=rss)
  - [Total crypto market value surpassed $4T for the first time, driven by altcoin rallies and US legislative momentum; Ether jumped 22% over the past five days &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/250718/p9#a250718p9)
- - [Nintendo&amp;#8217;s slow drip of Switch 2 games is a feature, not a bug](https://www.theverge.com/games/708909/nintendo-switch-2-donkey-kong-bananza-exclusive-release-schedule)
- - [Lettuce Grow Indoor Farmstand Review: Grow Your Own](https://www.wired.com/review/lettuce-grow-indoor-farmstand/)<!-- TECH:END -->
+ - [Nintendo&amp;#8217;s slow drip of Switch 2 games is a feature, not a bug](https://www.theverge.com/games/708909/nintendo-switch-2-donkey-kong-bananza-exclusive-release-schedule)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

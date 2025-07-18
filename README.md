@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Sometimes pause at the right moment](http://9gag.com/gag/aYQRBYN)
  - 😝 [American way to handle a tick:](http://9gag.com/gag/awye2b8)
- - 😝 [Saul Goodman](http://9gag.com/gag/a6ZGgA8)
- - 💣 [Motorcycle trip Slovenia-Portugal](http://9gag.com/gag/aYQR6Dq)
- - 😝 [If only a bear was there to save them](http://9gag.com/gag/aD2Q9rB)
- - 👉 [Smartest decision ever](http://9gag.com/gag/a2vOg9p)<!-- MEMES:END -->
+ - 💣 [If only a bear was there to save them](http://9gag.com/gag/aD2Q9rB)
+ - 😝 [Smartest decision ever](http://9gag.com/gag/a2vOg9p)
+ - 👉 [Saul Goodman](http://9gag.com/gag/a6ZGgA8)<!-- MEMES:END -->
 
 ---
 

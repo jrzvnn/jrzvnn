@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Obvious](http://9gag.com/gag/aD2Q99x)
  - 😝 [Saul Goodman](http://9gag.com/gag/a6ZGgA8)
- - 💣 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)
- - 😝 [You are getting paid for what?](http://9gag.com/gag/an7GZOE)
+ - 😝 [Motorcycle trip Slovenia-Portugal](http://9gag.com/gag/aYQR6Dq)
+ - 💣 [You are getting paid for what?](http://9gag.com/gag/an7GZOE)
+ - 😝 [Cut...](http://9gag.com/gag/a6ZGzWe)
  - 👉 [A burger shop in the UK gave free burgers on their grand opening](http://9gag.com/gag/a1mOn7v)<!-- MEMES:END -->
 
 ---

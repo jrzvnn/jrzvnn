@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple sues Jon Prosser over iOS 26 leaks](https://appleinsider.com/articles/25/07/18/apple-sues-jon-prosser-over-ios-26-leaks?utm_source=rss)
- - [Netflix used AI tools for the first time in one of its TV shows, for a VFX sequence; Ted Sarandos says the VFX costs would have been too high otherwise &lpar;Osmond Chia/BBC&rpar;](http://www.techmeme.com/250718/p8#a250718p8)
- - [Roborock Saros Z70 Review: OmniGrip Doesn’t Quite Work](https://www.wired.com/review/roborock-saros-z70/)
- - [The creepy AI era is here](https://www.theverge.com/the-vergecast/709389/alexa-plus-grok-waifu-sony-rx1riii-vergecast)
- - [Inside Apple Calendar - Creating events, setting reminders &amp; remembering birthdays](https://appleinsider.com/inside/ios-26/tips/inside-apple-calendar---creating-events-setting-reminders-remembering-birthdays?utm_source=rss)<!-- TECH:END -->
+ - [Thunderbolt 5 and USB-C - everything you need to know about every version of USB](https://appleinsider.com/articles/20/08/24/usb-3-usb-4-thunderbolt-usb-c----everything-you-need-to-know?utm_source=rss)
+ - [Total crypto market value surpassed $4T for the first time, driven by altcoin rallies and US legislative momentum; Ether jumped 22% over the past five days &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/250718/p9#a250718p9)
+ - [Nintendo&amp;#8217;s slow drip of Switch 2 games is a feature, not a bug](https://www.theverge.com/games/708909/nintendo-switch-2-donkey-kong-bananza-exclusive-release-schedule)
+ - [Lettuce Grow Indoor Farmstand Review: Grow Your Own](https://www.wired.com/review/lettuce-grow-indoor-farmstand/)
+ - [Microsoft&amp;#8217;s constant layoffs risk creating a culture of fear](https://www.theverge.com/notepad-microsoft-newsletter/709144/microsoft-layoffs-2025-ai-notepad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Are we something](http://9gag.com/gag/aAyvA52)
- - 😝 [A Passionate Fan](http://9gag.com/gag/aBy4MPz)
- - 💣 [Cut...](http://9gag.com/gag/a6ZGzWe)
+ - 😝 [Cut...](http://9gag.com/gag/a6ZGzWe)
+ - 😝 [Motorcycle trip Slovenia-Portugal](http://9gag.com/gag/aYQR6Dq)
+ - 💣 [A Passionate Fan](http://9gag.com/gag/aBy4MPz)
  - 😝 [Obvious](http://9gag.com/gag/aD2Q99x)
- - 👉 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)<!-- MEMES:END -->
+ - 👉 [You are getting paid for what?](http://9gag.com/gag/an7GZOE)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)
- - 😝 [You are getting paid for what?](http://9gag.com/gag/an7GZOE)
- - 💣 [Coldplay exposing Astronomer CEO Andy Byron&#39;s affair with coworker Kristin Cabot HR!&rpar;. They are both married!](http://9gag.com/gag/apRV7Nb)
- - 😝 [Epstein](http://9gag.com/gag/a87Vvxp)
- - 👉 [A burger shop in the UK gave free burgers on their grand opening](http://9gag.com/gag/a1mOn7v)<!-- MEMES:END -->
+ - 😝 [Obvious](http://9gag.com/gag/aD2Q99x)
+ - 💣 [A burger shop in the UK gave free burgers on their grand opening](http://9gag.com/gag/a1mOn7v)
+ - 😝 [Coldplay exposing Astronomer CEO Andy Byron&#39;s affair with coworker Kristin Cabot HR!&rpar;. They are both married!](http://9gag.com/gag/apRV7Nb)
+ - 👉 [You are getting paid for what?](http://9gag.com/gag/an7GZOE)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Are we something](http://9gag.com/gag/aAyvA52)
- - 😝 [Cut...](http://9gag.com/gag/a6ZGzWe)
- - 💣 [Obvious](http://9gag.com/gag/aD2Q99x)
- - 😝 [A Passionate Fan](http://9gag.com/gag/aBy4MPz)
- - 👉 [You are getting paid for what?](http://9gag.com/gag/an7GZOE)<!-- MEMES:END -->
+ - 😝 [He&#39;s okay](http://9gag.com/gag/ajPRw81)
+ - 😝 [Domp the dog](http://9gag.com/gag/a5Q59oy)
+ - 💣 [Is everyone happy now?](http://9gag.com/gag/a6ZGepq)
+ - 😝 [You are getting paid for what?](http://9gag.com/gag/an7GZOE)
+ - 👉 [A burger shop in the UK gave free burgers on their grand opening](http://9gag.com/gag/a1mOn7v)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Russian lawmaker regulating IT warns WhatsApp to &quot;prepare to leave the Russian market&quot;; Moscow recently approved development of a state-backed messaging app &lpar;Reuters&rpar;](http://www.techmeme.com/250718/p5#a250718p5)
+ - [Apple sues Jon Prosser over iOS 26 leaks](https://appleinsider.com/articles/25/07/18/apple-sues-jon-prosser-over-ios-26-leaks?utm_source=rss)
  - [Apple sues leaker Jon Prosser for stealing iOS secrets](https://www.theverge.com/news/709550/apple-jon-prosser-lawsuit-michael-ramacciotti-ios-26-trade-secrets)
  - [Lenovo Legion Go S review: SteamOS is a huge improvement over Windows, but battery life falls behind Windows-based handhelds and its touchpad is nearly useless &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250718/p3#a250718p3)
- - [Lelo Ora 3 Review: A Tongue Stimulator](https://www.wired.com/review/lelo-ora-3/)
- - [Analysis: nearly 70 Trump administration officials and nominees held crypto or investments in blockchain or digital-asset firms at the time of their selection &lpar;Washington Post&rpar;](http://www.techmeme.com/250718/p2#a250718p2)
- - [Apple sues Jon Prosser and Michael Ramacciotti over iOS 26 leaks, alleging a plot to access Apple employee&#39;s iPhone for trade secrets; Prosser denies the claim &lpar;Eric Slivka/MacRumors&rpar;](http://www.techmeme.com/250718/p1#a250718p1)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for July 18, #1490](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-18-1490/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

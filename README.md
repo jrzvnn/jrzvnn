@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pedo Hunter arrested for raping his own daughter.](http://9gag.com/gag/a4PwBrA)
- - 😝 [Cut...](http://9gag.com/gag/a6ZGzWe)
- - 💣 [With friends like these, who needs enemies?](http://9gag.com/gag/aO8pnj6)
+ - 😝 [Smartest decision ever](http://9gag.com/gag/a2vOg9p)
+ - 😝 [Epstein](http://9gag.com/gag/a87Vvxp)
+ - 💣 [Cut...](http://9gag.com/gag/a6ZGzWe)
  - 😝 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)
- - 👉 [Is everyone happy now?](http://9gag.com/gag/a6ZGepq)<!-- MEMES:END -->
+ - 👉 [Pedo Hunter arrested for raping his own daughter.](http://9gag.com/gag/a4PwBrA)<!-- MEMES:END -->
 
 ---
 

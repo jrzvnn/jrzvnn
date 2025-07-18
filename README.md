@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lost control on a turn](http://9gag.com/gag/agmKbVn)
- - 😝 [A burger shop in the UK gave free burgers on their grand opening](http://9gag.com/gag/a1mOn7v)
- - 💣 [A giant ice treat for polar bears, they are so happy](http://9gag.com/gag/agmKb36)
- - 😝 [A Passionate Fan](http://9gag.com/gag/aBy4MPz)
- - 👉 [Let&#39;s go](http://9gag.com/gag/aoynGVx)<!-- MEMES:END -->
+ - 😝 [Send in the Clones......](http://9gag.com/gag/ary89QX)
+ - 😝 [Finally finished it after 5 years](http://9gag.com/gag/azx4znB)
+ - 💣 [Uploading old stuff](http://9gag.com/gag/avy9BDE)
+ - 😝 [The clone wars](http://9gag.com/gag/aNDjGM3)
+ - 👉 [Looks like pain](http://9gag.com/gag/ae9RzDv)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple sues leaker Jon Prosser for stealing iOS secrets](https://www.theverge.com/news/709550/apple-jon-prosser-lawsuit-michael-ramacciotti-ios-26-trade-secrets)
  - [Lenovo Legion Go S review: SteamOS is a huge improvement over Windows, but battery life falls behind Windows-based handhelds and its touchpad is nearly useless &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250718/p3#a250718p3)
  - [Lelo Ora 3 Review: A Tongue Stimulator](https://www.wired.com/review/lelo-ora-3/)
  - [Analysis: nearly 70 Trump administration officials and nominees held crypto or investments in blockchain or digital-asset firms at the time of their selection &lpar;Washington Post&rpar;](http://www.techmeme.com/250718/p2#a250718p2)
- - [Apple sues Jon Prosser and Michael Ramacciotti over iOS 26 leaks, alleging a plot to access Apple employee&#39;s iPhone for trade secrets; Prosser denies the claim &lpar;Eric Slivka/MacRumors&rpar;](http://www.techmeme.com/250718/p1#a250718p1)
- - [Sources: the US State Department has effectively dismantled its three-year-old Bureau of Cyberspace and Digital Policy, firing between nine and 11 staffers &lpar;Eric Geller/Cybersecurity Dive&rpar;](http://www.techmeme.com/250717/p60#a250717p60)<!-- TECH:END -->
+ - [Apple sues Jon Prosser and Michael Ramacciotti over iOS 26 leaks, alleging a plot to access Apple employee&#39;s iPhone for trade secrets; Prosser denies the claim &lpar;Eric Slivka/MacRumors&rpar;](http://www.techmeme.com/250718/p1#a250718p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

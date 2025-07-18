@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Sonos speakers to buy in 2025](https://www.theverge.com/tech/652171/best-sonos-speakers)
+ - [Apple Sues the YouTuber Who Leaked iOS 26](https://www.wired.com/story/apple-sues-the-youtuber-who-leaked-ios-26/)
  - [S&amp;P Global says Block will join the S&amp;P 500 on July 23, after announcing Monday that ad tech firm The Trade Desk will also be added; XYZ jumps 9%+ after hours &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/250718/p21#a250718p21)
- - [Source: the CEO and the chief people officer of Astronomer were put on leave after a video of them cuddling on a kiss cam at a Coldplay concert went viral &lpar;Eleanor Hawkins/Axios&rpar;](http://www.techmeme.com/250718/p20#a250718p20)
- - [Adobe updates its Firefly video model and adds a beta Generate Sound Effects tool that can create custom sounds from text prompts and the user&#39;s voice &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/250718/p19#a250718p19)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [Twelve South’s travel-friendly 2-in-1 Qi2 charger is over 50 percent off right now](https://www.theverge.com/tech/710104/twelve-south-butterfly-se-charger-nothing-phone-3-deal-sale)<!-- TECH:END -->
+ - [Best Back-to-School Tech Gear and Gadgets in 2025](https://www.cnet.com/tech/best-back-to-school-tech-gear/#ftag=CAD590a51e)
+ - [Source: the CEO and the chief people officer of Astronomer were put on leave after a video of them cuddling on a kiss cam at a Coldplay concert went viral &lpar;Eleanor Hawkins/Axios&rpar;](http://www.techmeme.com/250718/p20#a250718p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

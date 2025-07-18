@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Cursor maker Anysphere acquired Koala, an AI-powered CRM startup that raised a $15M Series A five months ago; Koala plans to shut down in September &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250718/p18#a250718p18)
- - [Trump signs first major crypto bill, the GENIUS Act, into law](https://www.theverge.com/news/710100/trump-signs-genius-act-crypto-stablecoins-world-liberty-financial)
- - [Clothing inventory monetization startup CaaStle&#39;s ex-CEO Christine Hunsicker is charged with defrauding investors of more than $300M over the past six years &lpar;Larry Neumeister/Associated Press&rpar;](http://www.techmeme.com/250718/p17#a250718p17)
- - [iPhone 17 Air rumored to shrink battery &amp; lean on iOS 26 to keep up](https://appleinsider.com/articles/25/07/18/iphone-17-air-rumored-to-shrink-battery-lean-on-ios-26-to-keep-up?utm_source=rss)
- - [I sent ChatGPT Agent out to shop for me](https://www.theverge.com/ai-artificial-intelligence/710020/openai-review-test-new-release-chatgpt-agent-operator-deep-research-pro-200-subscription)<!-- TECH:END -->
+ - [Twelve South’s travel-friendly 2-in-1 Qi2 charger is over 50 percent off right now](https://www.theverge.com/tech/710104/twelve-south-butterfly-se-charger-nothing-phone-3-deal-sale)
+ - [Grab Apple&#39;s 14-inch MacBook Pro M4 for just $1,399 this weekend](https://appleinsider.com/articles/25/07/18/grab-apples-14-inch-macbook-pro-m4-for-just-1399-this-weekend?utm_source=rss)
+ - [The Economy Sucks Right Now. Take Your Revenge With This New Money Trend](https://www.cnet.com/personal-finance/banking/the-economy-sucks-right-now-take-your-revenge-with-this-new-money-trend/#ftag=CAD590a51e)
+ - [Samsung Galaxy Flip 7 FE vs. Motorola Razr 2025: Battle of the Budget Foldables](https://www.cnet.com/tech/mobile/samsung-galaxy-flip-7-fe-vs-motorola-razr-2025-battle-of-the-budget-foldables/#ftag=CAD590a51e)
+ - [Sources: Cursor maker Anysphere acquired Koala, an AI-powered CRM startup that raised a $15M Series A five months ago; Koala plans to shut down in September &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250718/p18#a250718p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

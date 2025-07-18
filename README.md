@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe updates its Firefly video model and adds a beta Generate Sound Effects tool that can create custom sounds from text prompts and the user&#39;s voice &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/250718/p19#a250718p19)
  - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
  - [Twelve South’s travel-friendly 2-in-1 Qi2 charger is over 50 percent off right now](https://www.theverge.com/tech/710104/twelve-south-butterfly-se-charger-nothing-phone-3-deal-sale)
  - [Grab Apple&#39;s 14-inch MacBook Pro M4 for just $1,399 this weekend](https://appleinsider.com/articles/25/07/18/grab-apples-14-inch-macbook-pro-m4-for-just-1399-this-weekend?utm_source=rss)
- - [The Economy Sucks Right Now. Take Your Revenge With This New Money Trend](https://www.cnet.com/personal-finance/banking/the-economy-sucks-right-now-take-your-revenge-with-this-new-money-trend/#ftag=CAD590a51e)
- - [Samsung Galaxy Flip 7 FE vs. Motorola Razr 2025: Battle of the Budget Foldables](https://www.cnet.com/tech/mobile/samsung-galaxy-flip-7-fe-vs-motorola-razr-2025-battle-of-the-budget-foldables/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Economy Sucks Right Now. Take Your Revenge With This New Money Trend](https://www.cnet.com/personal-finance/banking/the-economy-sucks-right-now-take-your-revenge-with-this-new-money-trend/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There is always an asian to stop a Karen](http://9gag.com/gag/avy9q7W)
- - 😝 [Let&#39;s go](http://9gag.com/gag/aoynGVx)
- - 💣 [The Epstein Files](http://9gag.com/gag/aBy4bPO)
- - 😝 [Im love bones now](http://9gag.com/gag/aE0Zjwn)
- - 👉 [A burger shop in the UK gave free burgers on their grand opening](http://9gag.com/gag/a1mOn7v)<!-- MEMES:END -->
+ - 😝 [Lost control on a turn](http://9gag.com/gag/agmKbVn)
+ - 😝 [A burger shop in the UK gave free burgers on their grand opening](http://9gag.com/gag/a1mOn7v)
+ - 💣 [A giant ice treat for polar bears, they are so happy](http://9gag.com/gag/agmKb36)
+ - 😝 [A Passionate Fan](http://9gag.com/gag/aBy4MPz)
+ - 👉 [Let&#39;s go](http://9gag.com/gag/aoynGVx)<!-- MEMES:END -->
 
 ---
 

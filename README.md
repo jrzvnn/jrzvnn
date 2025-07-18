@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Peter Thiel-backed crypto exchange Bullish files for an IPO, plans to trade on the NYSE, and reports a net loss of ~$349M on digital asset sales of $80M in Q1 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250718/p24#a250718p24)
  - [Source: Blackstone has withdrawn from the consortium led by Susquehanna and General Atlantic seeking to invest in TikTok US, after considering a minority stake &lpar;Reuters&rpar;](http://www.techmeme.com/250718/p23#a250718p23)
  - [Why AI is moving from chatbots to the browser](https://www.theverge.com/command-line-newsletter/710313/ai-moves-chatbots-to-web-browser-chatgpt-agent-perplexity-comet)
  - [Ring reinstated its mission to &quot;make neighborhoods safer&quot; and reintroduced video sharing with police in April, as its founder led an overhaul since his return &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/250718/p22#a250718p22)
- - [The best Sonos speakers to buy in 2025](https://www.theverge.com/tech/652171/best-sonos-speakers)
- - [Apple Sues the YouTuber Who Leaked iOS 26](https://www.wired.com/story/apple-sues-the-youtuber-who-leaked-ios-26/)<!-- TECH:END -->
+ - [The best Sonos speakers to buy in 2025](https://www.theverge.com/tech/652171/best-sonos-speakers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

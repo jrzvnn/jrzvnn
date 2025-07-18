@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)
+ - 😝 [Smallville was a show.](http://9gag.com/gag/aLnW5wW)
  - 😝 [A burger shop in the UK gave free burgers on their grand opening](http://9gag.com/gag/a1mOn7v)
- - 💣 [Obvious](http://9gag.com/gag/aD2Q99x)
- - 😝 [An expensive lesson](http://9gag.com/gag/a34Nr51)
- - 👉 [Saul Goodman](http://9gag.com/gag/a6ZGgA8)<!-- MEMES:END -->
+ - 💣 [Having preferences is bad now guys](http://9gag.com/gag/aGy7qpG)
+ - 😝 [`Excuse me buddy? How much will you pay me to take out your competition? Yea, that guy right in front, how much?`](http://9gag.com/gag/aPAr2mw)
+ - 👉 [You are getting paid for what?](http://9gag.com/gag/an7GZOE)<!-- MEMES:END -->
 
 ---
 

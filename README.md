@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [President Trump signs the GENIUS Act, and says the first federal bill to regulate stablecoins will &quot;secure the dollar&#39;s status as the world&#39;s reserve currency&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250718/p16#a250718p16)
+ - [An electric scooter that accelerates faster than a Tesla Model 3? No thanks!](https://www.theverge.com/news/709934/bo-turbo-electric-scooter-100-mph-speed)
  - [RealPage goes from setting rent to collecting it](https://www.theverge.com/news/710036/realpage-livble-acquisition-rent-payments)
  - [One of the Democrats Trump unlawfully fired from the FTC is back](https://www.theverge.com/politics/710029/slaughter-trump-bedoya-ftc-democrats-removal-unlawful)
- - [SPAC Insider: SPACs are booming in 2025, with 74 blank check companies going public so far in 2025, raising about $14.7B and beating 2022 total of $13.4B &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/250718/p15#a250718p15)
- - [Apple&#39;s &#39;F1: The Movie&#39; box office set to pass $400 million this weekend](https://appleinsider.com/articles/25/07/18/apples-f1-the-movie-box-office-set-to-pass-400-million-this-weekend?utm_source=rss)
- - [Two Meteor Showers Are Peaking on the Same Night in July. How to Catch a Glimpse](https://www.cnet.com/science/space/two-meteor-showers-are-peaking-on-the-same-night-in-july-how-to-catch-a-glimpse/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 5 Best Multivitamins for Men in 2025](https://www.cnet.com/health/nutrition/best-multivitamins-for-men/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

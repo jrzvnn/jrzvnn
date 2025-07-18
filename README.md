@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Smallville was a show.](http://9gag.com/gag/aLnW5wW)
- - 😝 [A Passionate Fan](http://9gag.com/gag/aBy4MPz)
- - 💣 [And stuff..](http://9gag.com/gag/a5Q5APN)
- - 😝 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)
- - 👉 [A burger shop in the UK gave free burgers on their grand opening](http://9gag.com/gag/a1mOn7v)<!-- MEMES:END -->
+ - 😝 [Never saw that cam coming..](http://9gag.com/gag/amoRQZj)
+ - 😝 [This bull is literally helping with the construction](http://9gag.com/gag/aAyvAW0)
+ - 💣 [Coldplay just released two new singles](http://9gag.com/gag/ae9Rznv)
+ - 😝 [Coldplay looking out for everyone, even the side pieces](http://9gag.com/gag/avy9qBW)
+ - 👉 [Looks like pain](http://9gag.com/gag/ae9RzDv)<!-- MEMES:END -->
 
 ---
 

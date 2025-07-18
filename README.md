@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Saul Goodman](http://9gag.com/gag/a6ZGgA8)
- - 😝 [Motorcycle trip Slovenia-Portugal](http://9gag.com/gag/aYQR6Dq)
- - 💣 [You are getting paid for what?](http://9gag.com/gag/an7GZOE)
- - 😝 [Cut...](http://9gag.com/gag/a6ZGzWe)
- - 👉 [A burger shop in the UK gave free burgers on their grand opening](http://9gag.com/gag/a1mOn7v)<!-- MEMES:END -->
+ - 😝 [Coldplay looking out for everyone, even the side pieces](http://9gag.com/gag/avy9qBW)
+ - 😝 [Looks like pain](http://9gag.com/gag/ae9RzDv)
+ - 💣 [Are we something](http://9gag.com/gag/aAyvA52)
+ - 😝 [This bull is literally helping with the construction](http://9gag.com/gag/aAyvAW0)
+ - 👉 [Obvious](http://9gag.com/gag/aD2Q99x)<!-- MEMES:END -->
 
 ---
 

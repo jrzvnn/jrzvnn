@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Torpedo](http://9gag.com/gag/aKGK5G1)
- - 😝 [How to get the protein straight into your blood stream?..... Schnapps!](http://9gag.com/gag/abARDvL)
- - 💣 [Pedo Hunter arrested for raping his own daughter.](http://9gag.com/gag/a4PwBrA)
- - 😝 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)
- - 👉 [A Passionate Fan](http://9gag.com/gag/aBy4MPz)<!-- MEMES:END -->
+ - 😝 [This bull is literally helping with the construction](http://9gag.com/gag/aAyvAW0)
+ - 😝 [Old gold](http://9gag.com/gag/aGy7v7z)
+ - 💣 [Are we something](http://9gag.com/gag/aAyvA52)
+ - 😝 [Woopsie Daisy!](http://9gag.com/gag/aZZRX00)
+ - 👉 [Obvious](http://9gag.com/gag/aD2Q99x)<!-- MEMES:END -->
 
 ---
 

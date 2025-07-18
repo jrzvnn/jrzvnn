@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Prosus offered to cut its 27% Delivery Hero stake to below 10% and give up its board seat to address EU concerns over its €4.1B Just Eat Takeaway deal &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250718/p25#a250718p25)
  - [Peter Thiel-backed crypto exchange Bullish files for an IPO, plans to trade on the NYSE, and reports a net loss of ~$349M on digital asset sales of $80M in Q1 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250718/p24#a250718p24)
  - [Source: Blackstone has withdrawn from the consortium led by Susquehanna and General Atlantic seeking to invest in TikTok US, after considering a minority stake &lpar;Reuters&rpar;](http://www.techmeme.com/250718/p23#a250718p23)
  - [Why AI is moving from chatbots to the browser](https://www.theverge.com/command-line-newsletter/710313/ai-moves-chatbots-to-web-browser-chatgpt-agent-perplexity-comet)
- - [Microsoft Will Erase Your Passwords in 2 Weeks: What to Do Now](https://www.cnet.com/tech/microsoft-will-erase-your-passwords-in-2-weeks-what-to-do-now/#ftag=CAD590a51e)
- - [Best Live TV Streaming Services of 2025](https://www.cnet.com/tech/services-and-software/best-live-tv-streaming-service-for-cord-cutters/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft Will Erase Your Passwords in 2 Weeks: What to Do Now](https://www.cnet.com/tech/microsoft-will-erase-your-passwords-in-2-weeks-what-to-do-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

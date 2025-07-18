@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cut...](http://9gag.com/gag/a6ZGzWe)
  - 😝 [Im love bones now](http://9gag.com/gag/aE0Zjwn)
- - 💣 [How powerful!](http://9gag.com/gag/azx4vrB)
+ - 😝 [How powerful!](http://9gag.com/gag/azx4vrB)
+ - 💣 [Cut...](http://9gag.com/gag/a6ZGzWe)
  - 😝 [Let&#39;s go](http://9gag.com/gag/aoynGVx)
- - 👉 [So there is an upcoming live action film of the Legend of Zelda coming out in 2027 and here are the two leads.](http://9gag.com/gag/aLnWORM)<!-- MEMES:END -->
+ - 👉 [Captain? Can anybody tell me what does this joke mean?](http://9gag.com/gag/axymQ8D)<!-- MEMES:END -->
 
 ---
 

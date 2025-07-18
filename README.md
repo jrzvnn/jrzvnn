@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [24,000 e-bike batteries recalled because the US can’t get its shit together](https://www.theverge.com/analysis/709727/e-bike-battery-recall-ul-certification-mandate)
+ - [Kingston XS2000 4TB External SSD review: Fast enough, but not the best for Apple owners](https://appleinsider.com/articles/25/07/18/kingston-xs2000-4tb-external-ssd-review-fast-enough-but-not-the-best-for-apple-owners?utm_source=rss)
  - [Germany-based Q.ANT, which is developing energy-efficient photonic processors for AI and high-performance computing, raised a €62M Series A &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/250718/p11#a250718p11)
  - [How China’s Patriotic ‘Honkers’ Became the Nation’s Elite Cyber Spies](https://www.wired.com/story/china-honkers-elite-cyber-spies/)
- - [Microsoft suddenly kills its movies and TV store on Xbox and Windows](https://www.theverge.com/news/709737/microsoft-movies-tv-store-closure-xbox-windows)
- - [Apple sues Jon Prosser over iOS 26 leaks](https://appleinsider.com/articles/25/07/18/apple-sues-jon-prosser-over-ios-26-leaks?utm_source=rss)
- - [SEC Chairman Paul Atkins says the GENIUS Act is a &quot;historic step&quot; and the SEC is weighing an &quot;innovation exemption&quot; from regulations to incentivize tokenization &lpar;Bloomberg&rpar;](http://www.techmeme.com/250718/p10#a250718p10)<!-- TECH:END -->
+ - [Microsoft suddenly kills its movies and TV store on Xbox and Windows](https://www.theverge.com/news/709737/microsoft-movies-tv-store-closure-xbox-windows)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

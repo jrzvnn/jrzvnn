@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This bull is literally helping with the construction](http://9gag.com/gag/aAyvAW0)
- - 😝 [Old gold](http://9gag.com/gag/aGy7v7z)
- - 💣 [Are we something](http://9gag.com/gag/aAyvA52)
- - 😝 [Woopsie Daisy!](http://9gag.com/gag/aZZRX00)
- - 👉 [Obvious](http://9gag.com/gag/aD2Q99x)<!-- MEMES:END -->
+ - 😝 [Saul Goodman](http://9gag.com/gag/a6ZGgA8)
+ - 😝 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)
+ - 💣 [Epstein](http://9gag.com/gag/a87Vvxp)
+ - 😝 [Proof that just because you can , doesn&#39;t mean you should. The Blohm und Voss BV141](http://9gag.com/gag/aBy45n2)
+ - 👉 [A burger shop in the UK gave free burgers on their grand opening](http://9gag.com/gag/a1mOn7v)<!-- MEMES:END -->
 
 ---
 

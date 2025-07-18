@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Send in the Clones......](http://9gag.com/gag/ary89QX)
- - 😝 [Finally finished it after 5 years](http://9gag.com/gag/azx4znB)
- - 💣 [The clone wars](http://9gag.com/gag/aNDjGM3)
- - 😝 [Uploading old stuff](http://9gag.com/gag/avy9BDE)
- - 👉 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)<!-- MEMES:END -->
+ - 😝 [Cut...](http://9gag.com/gag/a6ZGzWe)
+ - 😝 [Im love bones now](http://9gag.com/gag/aE0Zjwn)
+ - 💣 [How powerful!](http://9gag.com/gag/azx4vrB)
+ - 😝 [Let&#39;s go](http://9gag.com/gag/aoynGVx)
+ - 👉 [So there is an upcoming live action film of the Legend of Zelda coming out in 2027 and here are the two leads.](http://9gag.com/gag/aLnWORM)<!-- MEMES:END -->
 
 ---
 

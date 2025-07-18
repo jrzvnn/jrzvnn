@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Smallville was a show.](http://9gag.com/gag/aLnW5wW)
- - 😝 [And stuff..](http://9gag.com/gag/a5Q5APN)
- - 💣 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)
- - 😝 [Saul Goodman](http://9gag.com/gag/a6ZGgA8)
+ - 😝 [A Passionate Fan](http://9gag.com/gag/aBy4MPz)
+ - 💣 [And stuff..](http://9gag.com/gag/a5Q5APN)
+ - 😝 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)
  - 👉 [A burger shop in the UK gave free burgers on their grand opening](http://9gag.com/gag/a1mOn7v)<!-- MEMES:END -->
 
 ---

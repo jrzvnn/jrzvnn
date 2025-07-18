@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SPAC Insider: SPACs are booming in 2025, with 74 blank check companies going public so far in 2025, raising about $14.7B and beating 2022 total of $13.4B &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/250718/p15#a250718p15)
  - [Apple&#39;s &#39;F1: The Movie&#39; box office set to pass $400 million this weekend](https://appleinsider.com/articles/25/07/18/apples-f1-the-movie-box-office-set-to-pass-400-million-this-weekend?utm_source=rss)
+ - [Two Meteor Showers Are Peaking on the Same Night in July. How to Catch a Glimpse](https://www.cnet.com/science/space/two-meteor-showers-are-peaking-on-the-same-night-in-july-how-to-catch-a-glimpse/#ftag=CAD590a51e)
  - [Google files a lawsuit in the US against 25 unnamed individuals in China, accusing them of operating the BadBox 2.0 botnet, compromising 10M+ devices worldwide &lpar;Jessica Lyons/The Register&rpar;](http://www.techmeme.com/250718/p14#a250718p14)
- - [Netflix admits it used generative AI in a big sci-fi hit to cut costs](https://www.theverge.com/news/709863/netflix-generative-ai-the-eternaut)
- - [Ring reintroduces video sharing with police](https://www.theverge.com/news/709836/ring-police-video-sharing-police-axon-partnership)
- - [BrightAI, an AI-powered service using custom chips and devices to monitor critical infrastructure, raised a $51M Series A, source says at a $300M valuation &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250718/p13#a250718p13)<!-- TECH:END -->
+ - [It&#39;s the End of the Road for Microsoft Store Movies and TV Shows. What It Means for You](https://www.cnet.com/tech/services-and-software/its-the-end-of-the-road-for-microsoft-store-movies-and-tv-shows-what-it-means-for-you/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

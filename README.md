@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ring reintroduces video sharing with police](https://www.theverge.com/news/709836/ring-police-video-sharing-police-axon-partnership)
+ - [BrightAI, an AI-powered service using custom chips and devices to monitor critical infrastructure, raised a $51M Series A, source says at a $300M valuation &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250718/p13#a250718p13)
  - [The best Android phones](https://www.theverge.com/23674658/best-android-phone)
  - [Solihull UK store relocating across the hall to a hugely larger location](https://appleinsider.com/articles/25/07/18/solihull-uk-store-relocating-across-the-hall-to-a-hugely-larger-location?utm_source=rss)
- - [Spotify’s new 30-hour audiobook plans are too short to finish long books](https://www.theverge.com/news/709693/spotify-audiobook-15-hour-add-on)
- - [Microsoft shuts down the Movies &amp; TV storefront on the Microsoft Store on Windows and Xbox; users will continue to be able to access their past purchases &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/250718/p12#a250718p12)
- - [24,000 e-bike batteries recalled because the US can’t get its shit together](https://www.theverge.com/analysis/709727/e-bike-battery-recall-ul-certification-mandate)<!-- TECH:END -->
+ - [Spotify’s new 30-hour audiobook plans are too short to finish long books](https://www.theverge.com/news/709693/spotify-audiobook-15-hour-add-on)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

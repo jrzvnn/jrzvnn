@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Android phones](https://www.theverge.com/23674658/best-android-phone)
+ - [Solihull UK store relocating across the hall to a hugely larger location](https://appleinsider.com/articles/25/07/18/solihull-uk-store-relocating-across-the-hall-to-a-hugely-larger-location?utm_source=rss)
  - [Spotify’s new 30-hour audiobook plans are too short to finish long books](https://www.theverge.com/news/709693/spotify-audiobook-15-hour-add-on)
  - [Microsoft shuts down the Movies &amp; TV storefront on the Microsoft Store on Windows and Xbox; users will continue to be able to access their past purchases &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/250718/p12#a250718p12)
- - [24,000 e-bike batteries recalled because the US can’t get its shit together](https://www.theverge.com/analysis/709727/e-bike-battery-recall-ul-certification-mandate)
- - [Kingston XS2000 4TB External SSD review: Fast enough, but not the best for Apple owners](https://appleinsider.com/articles/25/07/18/kingston-xs2000-4tb-external-ssd-review-fast-enough-but-not-the-best-for-apple-owners?utm_source=rss)
- - [Germany-based Q.ANT, which is developing energy-efficient photonic processors for AI and high-performance computing, raised a €62M Series A &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/250718/p11#a250718p11)<!-- TECH:END -->
+ - [24,000 e-bike batteries recalled because the US can’t get its shit together](https://www.theverge.com/analysis/709727/e-bike-battery-recall-ul-certification-mandate)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

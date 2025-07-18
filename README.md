@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Coldplay looking out for everyone, even the side pieces](http://9gag.com/gag/avy9qBW)
  - 😝 [Obvious](http://9gag.com/gag/aD2Q99x)
- - 💣 [Coldplay exposing Astronomer CEO Andy Byron&#39;s affair with coworker Kristin Cabot HR!&rpar;. They are both married!](http://9gag.com/gag/apRV7Nb)
- - 😝 [Sometimes pause at the right moment](http://9gag.com/gag/aYQRBYN)
+ - 😝 [Coldplay exposing Astronomer CEO Andy Byron&#39;s affair with coworker Kristin Cabot HR!&rpar;. They are both married!](http://9gag.com/gag/apRV7Nb)
+ - 💣 [A burger shop in the UK gave free burgers on their grand opening](http://9gag.com/gag/a1mOn7v)
+ - 😝 [`Excuse me buddy? How much will you pay me to take out your competition? Yea, that guy right in front, how much?`](http://9gag.com/gag/aPAr2mw)
  - 👉 [Having preferences is bad now guys](http://9gag.com/gag/aGy7qpG)<!-- MEMES:END -->
 
 ---

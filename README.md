@@ -168,7 +168,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Cut...](http://9gag.com/gag/a6ZGzWe)
  - 😝 [Motorcycle trip Slovenia-Portugal](http://9gag.com/gag/aYQR6Dq)
- - 💣 [A Passionate Fan](http://9gag.com/gag/aBy4MPz)
+ - 💣 [Great achievement! Also people with down syndrome do not live as long as long as a healthy person.](http://9gag.com/gag/agmKboK)
  - 😝 [Obvious](http://9gag.com/gag/aD2Q99x)
  - 👉 [You are getting paid for what?](http://9gag.com/gag/an7GZOE)<!-- MEMES:END -->
 

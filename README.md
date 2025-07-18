@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I sent ChatGPT Agent out to shop for me](https://www.theverge.com/ai-artificial-intelligence/710020/openai-review-test-new-release-chatgpt-agent-operator-deep-research-pro-200-subscription)
- - [President Trump signs the GENIUS Act, and says the first federal bill to regulate stablecoins will &quot;secure the dollar&#39;s status as the world&#39;s reserve currency&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250718/p16#a250718p16)
- - [An electric scooter that accelerates faster than a Tesla Model 3? No thanks!](https://www.theverge.com/news/709934/bo-turbo-electric-scooter-100-mph-speed)
- - [RealPage goes from setting rent to collecting it](https://www.theverge.com/news/710036/realpage-livble-acquisition-rent-payments)
- - [One of the Democrats Trump unlawfully fired from the FTC is back](https://www.theverge.com/politics/710029/slaughter-trump-bedoya-ftc-democrats-removal-unlawful)<!-- TECH:END -->
+ - [Sources: Cursor maker Anysphere acquired Koala, an AI-powered CRM startup that raised a $15M Series A five months ago; Koala plans to shut down in September &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250718/p18#a250718p18)
+ - [Trump signs first major crypto bill, the GENIUS Act, into law](https://www.theverge.com/news/710100/trump-signs-genius-act-crypto-stablecoins-world-liberty-financial)
+ - [Clothing inventory monetization startup CaaStle&#39;s ex-CEO Christine Hunsicker is charged with defrauding investors of more than $300M over the past six years &lpar;Larry Neumeister/Associated Press&rpar;](http://www.techmeme.com/250718/p17#a250718p17)
+ - [iPhone 17 Air rumored to shrink battery &amp; lean on iOS 26 to keep up](https://appleinsider.com/articles/25/07/18/iphone-17-air-rumored-to-shrink-battery-lean-on-ios-26-to-keep-up?utm_source=rss)
+ - [I sent ChatGPT Agent out to shop for me](https://www.theverge.com/ai-artificial-intelligence/710020/openai-review-test-new-release-chatgpt-agent-operator-deep-research-pro-200-subscription)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

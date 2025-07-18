@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Joel Kaplan says Meta won&#39;t sign EU&#39;s AI code of practice, calling its guidelines overreach that will throttle development and deployment of AI models in Europe &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/250718/p7#a250718p7)
- - [This Turbo Escooter Wants to Set a Guinness World Record](https://www.wired.com/story/bo-turbo-e-scooter-guinness-world-record/)
- - [Perplexity&amp;#8217;s Comet is the AI browser Google wants](https://www.theverge.com/news/709025/perplexity-comet-ai-browser-chrome-competitor)
- - [Apple Watch health, iPhone 17 colors, and &#39;Severance&#39; on the AppleInsider Podcast](https://appleinsider.com/articles/25/07/18/apple-watch-health-iphone-17-colors-and-severance-on-the-appleinsider-podcast?utm_source=rss)
- - [The EU issues guidelines to help AI models with systemic risks comply with the AI Act, after criticism from some companies about lack of clarity &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250718/p6#a250718p6)<!-- TECH:END -->
+ - [Netflix used AI tools for the first time in one of its TV shows, for a VFX sequence; Ted Sarandos says the VFX costs would have been too high otherwise &lpar;Osmond Chia/BBC&rpar;](http://www.techmeme.com/250718/p8#a250718p8)
+ - [Roborock Saros Z70 Review: OmniGrip Doesn’t Quite Work](https://www.wired.com/review/roborock-saros-z70/)
+ - [The creepy AI era is here](https://www.theverge.com/the-vergecast/709389/alexa-plus-grok-waifu-sony-rx1riii-vergecast)
+ - [Inside Apple Calendar - Creating events, setting reminders &amp; remembering birthdays](https://appleinsider.com/inside/ios-26/tips/inside-apple-calendar---creating-events-setting-reminders-remembering-birthdays?utm_source=rss)
+ - [Joel Kaplan says Meta won&#39;t sign EU&#39;s AI code of practice, calling its guidelines overreach that will throttle development and deployment of AI models in Europe &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/250718/p7#a250718p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

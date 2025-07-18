@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Coldplay exposing Astronomer CEO Andy Byron&#39;s affair with coworker Kristin Cabot HR!&rpar;. They are both married!](http://9gag.com/gag/apRV7Nb)
- - 😝 [A Passionate Fan](http://9gag.com/gag/aBy4MPz)
- - 💣 [Obvious](http://9gag.com/gag/aD2Q99x)
+ - 😝 [Obvious](http://9gag.com/gag/aD2Q99x)
  - 😝 [Epstein](http://9gag.com/gag/a87Vvxp)
+ - 💣 [Coldplay exposing Astronomer CEO Andy Byron&#39;s affair with coworker Kristin Cabot HR!&rpar;. They are both married!](http://9gag.com/gag/apRV7Nb)
+ - 😝 [An expensive lesson](http://9gag.com/gag/a34Nr51)
  - 👉 [Torpedo](http://9gag.com/gag/aKGK5G1)<!-- MEMES:END -->
 
 ---

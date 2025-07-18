@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never saw that cam coming..](http://9gag.com/gag/amoRQZj)
- - 😝 [This bull is literally helping with the construction](http://9gag.com/gag/aAyvAW0)
- - 💣 [Coldplay just released two new singles](http://9gag.com/gag/ae9Rznv)
- - 😝 [Coldplay looking out for everyone, even the side pieces](http://9gag.com/gag/avy9qBW)
- - 👉 [Looks like pain](http://9gag.com/gag/ae9RzDv)<!-- MEMES:END -->
+ - 😝 [Coldplay exposing Astronomer CEO Andy Byron&#39;s affair with coworker Kristin Cabot HR!&rpar;. They are both married!](http://9gag.com/gag/apRV7Nb)
+ - 😝 [A Passionate Fan](http://9gag.com/gag/aBy4MPz)
+ - 💣 [Obvious](http://9gag.com/gag/aD2Q99x)
+ - 😝 [Epstein](http://9gag.com/gag/a87Vvxp)
+ - 👉 [Torpedo](http://9gag.com/gag/aKGK5G1)<!-- MEMES:END -->
 
 ---
 

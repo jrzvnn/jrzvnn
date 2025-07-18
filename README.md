@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Im love bones now](http://9gag.com/gag/aE0Zjwn)
- - 😝 [How powerful!](http://9gag.com/gag/azx4vrB)
- - 💣 [Cut...](http://9gag.com/gag/a6ZGzWe)
- - 😝 [Let&#39;s go](http://9gag.com/gag/aoynGVx)
- - 👉 [Captain? Can anybody tell me what does this joke mean?](http://9gag.com/gag/axymQ8D)<!-- MEMES:END -->
+ - 😝 [Pedo Hunter arrested for raping his own daughter.](http://9gag.com/gag/a4PwBrA)
+ - 😝 [Cut...](http://9gag.com/gag/a6ZGzWe)
+ - 💣 [With friends like these, who needs enemies?](http://9gag.com/gag/aO8pnj6)
+ - 😝 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)
+ - 👉 [Is everyone happy now?](http://9gag.com/gag/a6ZGepq)<!-- MEMES:END -->
 
 ---
 

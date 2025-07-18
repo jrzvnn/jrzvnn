@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s &#39;F1: The Movie&#39; box office set to pass $400 million this weekend](https://appleinsider.com/articles/25/07/18/apples-f1-the-movie-box-office-set-to-pass-400-million-this-weekend?utm_source=rss)
  - [Google files a lawsuit in the US against 25 unnamed individuals in China, accusing them of operating the BadBox 2.0 botnet, compromising 10M+ devices worldwide &lpar;Jessica Lyons/The Register&rpar;](http://www.techmeme.com/250718/p14#a250718p14)
  - [Netflix admits it used generative AI in a big sci-fi hit to cut costs](https://www.theverge.com/news/709863/netflix-generative-ai-the-eternaut)
  - [Ring reintroduces video sharing with police](https://www.theverge.com/news/709836/ring-police-video-sharing-police-axon-partnership)
- - [BrightAI, an AI-powered service using custom chips and devices to monitor critical infrastructure, raised a $51M Series A, source says at a $300M valuation &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250718/p13#a250718p13)
- - [The best Android phones](https://www.theverge.com/23674658/best-android-phone)<!-- TECH:END -->
+ - [BrightAI, an AI-powered service using custom chips and devices to monitor critical infrastructure, raised a $51M Series A, source says at a $300M valuation &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250718/p13#a250718p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

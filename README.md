@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the White House is preparing an EO requiring AI companies with federal contracts to be neutral and unbiased, to combat what officials see as &quot;woke AI&quot; &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250717/p53#a250717p53)
- - [An advisory board convened by OpenAI recommends that the company remain a nonprofit because AI is &quot;too consequential&quot; to be governed by a corporation alone &lpar;Thalia Beaty/Associated Press&rpar;](http://www.techmeme.com/250717/p52#a250717p52)
- - [Subaru’s new Uncharted EV looks like an undercover Toyota C-HR](https://www.theverge.com/news/709117/subaru-uncharted-ev-specs-toyota)
- - [Key Home Energy Tax Credits End This Year. Act Quickly if You&#39;re Considering Solar Panels, Experts Say](https://www.cnet.com/home/energy-and-utilities/key-home-energy-tax-credits-end-this-year-act-quickly-if-youre-considering-solar-panels-experts-say/#ftag=CAD590a51e)
- - [The US House passes the GENIUS Act, sending the stablecoin bill to Trump for his signature, and advances two other crypto bills to the Senate for consideration &lpar;Reuters&rpar;](http://www.techmeme.com/250717/p51#a250717p51)<!-- TECH:END -->
+ - [Neuralink filed on April 24 as a &quot;small disadvantaged business&quot; that could give it preferential access to federal opportunities, before being valued at $9B &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/250717/p58#a250717p58)
+ - [Claude Code users, many on the $200-a-month Max plan, are unexpectedly facing restrictive usage limits; Anthropic says it&#39;s &quot;working to resolve these issues&quot; &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/250717/p57#a250717p57)
+ - [Tech execs and others detail the behind-the-scenes relationship between President Trump and Sam Altman, including how Altman quietly maneuvered around Elon Musk &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250717/p56#a250717p56)
+ - [The Gates Foundation, Ballmer Group, and others form NextLadder to spend $1B over 15 years to develop AI tools for public defenders, parole officers, and more &lpar;Thalia Beaty/Associated Press&rpar;](http://www.techmeme.com/250717/p55#a250717p55)
+ - [My Favorite All-in-One Kitchen Appliance Is on Sale for 20% Off](https://www.cnet.com/deals/my-favorite-all-in-one-kitchen-appliance-is-on-sale-for-20-off/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China’s Salt Typhoon Hackers Breached the US National Guard for Nearly a Year](https://www.wired.com/story/chinas-salt-typhoon-hackers-breached-the-us-national-guard-for-nearly-a-year/)
+ - [Automakers Are Canceling Plans for New EVs. Here’s a List of What’s Been Killed So Far](https://www.wired.com/story/list-of-new-evs-canceled-by-automakers/)
  - [Gear News of the Week: Chrome OS Will Merge With Android and Sony Surprises With a New Camera](https://www.wired.com/story/chrome-os-will-merge-with-android-and-sony-surprises-with-a-new-camera/)
  - [Google researchers say Android&#39;s early-warning system detected and issued alerts for 1,200+ earthquakes since 2021, sometimes giving up to 15-60 seconds&#39; notice &lpar;Kasha Patel/Washington Post&rpar;](http://www.techmeme.com/250719/p5#a250719p5)
- - [NOBS Toothpaste Tablets: What Dentists Say About Its Main Ingredient](https://www.cnet.com/health/personal-care/nobs-toothpaste-tables-what-dentists-say-main-ingredient/#ftag=CAD590a51e)
- - [How to Watch Australia vs. British &amp; Irish Lions From Anywhere: Stream 1st Test Rugby Union for Free](https://www.cnet.com/tech/services-and-software/how-to-watch-australia-vs-british-irish-lions-from-anywhere-stream-1st-test-rugby-union-for-free/#ftag=CAD590a51e)
- - [Acquihire deals like Google&#39;s Windsurf deal are a wake-up call for AI startup employees left behind, creating new uncertainty over leadership and compensation &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250719/p4#a250719p4)<!-- TECH:END -->
+ - [NOBS Toothpaste Tablets: What Dentists Say About Its Main Ingredient](https://www.cnet.com/health/personal-care/nobs-toothpaste-tables-what-dentists-say-main-ingredient/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

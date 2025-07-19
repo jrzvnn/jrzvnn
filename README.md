@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Expect a bumpy landing](http://9gag.com/gag/a6ZG6jb)
- - 😝 [Coldplay making singles again](http://9gag.com/gag/aZZRXOW)
- - 💣 [Torpedo](http://9gag.com/gag/aKGK5G1)
- - 😝 [Nice AI Video..........LOL](http://9gag.com/gag/aXPR17D)
- - 👉 [In Japan the deeper the bow the bigger the sign of respect.](http://9gag.com/gag/a9yDGWZ)<!-- MEMES:END -->
+ - 😝 [American way to handle a tick:](http://9gag.com/gag/awye2b8)
+ - 😝 [Time flies](http://9gag.com/gag/a0eOqgZ)
+ - 💣 [You are getting paid for what?](http://9gag.com/gag/an7GZOE)
+ - 😝 [An expensive lesson](http://9gag.com/gag/a34Nr51)
+ - 👉 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Saul Goodman](http://9gag.com/gag/a6ZGgA8)
+ - 😝 [If only a bear was there to save them](http://9gag.com/gag/aD2Q9rB)
  - 😝 [It feels like yesterday](http://9gag.com/gag/azx4yvm)
- - 💣 [SURPRISE, MATHAFAKA!](http://9gag.com/gag/a1mOgKY)
- - 😝 [You are getting paid for what?](http://9gag.com/gag/an7GZOE)
- - 👉 [If only a bear was there to save them](http://9gag.com/gag/aD2Q9rB)<!-- MEMES:END -->
+ - 💣 [Wilawan Emsawat, nicknamed \u201cGolf,\u201dblackmails 9 monks for more than 10 million euros with videos having sex with them](http://9gag.com/gag/a2vOgqD)
+ - 😝 [Smartest decision ever](http://9gag.com/gag/a2vOg9p)
+ - 👉 [See ya](http://9gag.com/gag/a7ongWb)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Obvious](http://9gag.com/gag/aD2Q99x)
+ - 😝 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)
+ - 😝 [If only a bear was there to save them](http://9gag.com/gag/aD2Q9rB)
+ - 💣 [Smartest decision ever](http://9gag.com/gag/a2vOg9p)
  - 😝 [The adults get serious on the teacups at the amusement park](http://9gag.com/gag/aXPRz8z)
- - 💣 [If only a bear was there to save them](http://9gag.com/gag/aD2Q9rB)
- - 😝 [That ass](http://9gag.com/gag/a34NrgQ)
- - 👉 [Time flies](http://9gag.com/gag/a0eOqgZ)<!-- MEMES:END -->
+ - 👉 [Coldplay Kiss Cam...](http://9gag.com/gag/aW4RXE3)<!-- MEMES:END -->
 
 ---
 

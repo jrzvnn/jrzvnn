@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [`Excuse me buddy? How much will you pay me to take out your competition? Yea, that guy right in front, how much?`](http://9gag.com/gag/aPAr2mw)
- - 😝 [Time flies](http://9gag.com/gag/a0eOqgZ)
- - 💣 [Motorcycle trip Slovenia-Portugal](http://9gag.com/gag/aYQR6Dq)
+ - 😝 [It feels like yesterday](http://9gag.com/gag/azx4yvm)
+ - 💣 [If only a bear was there to save them](http://9gag.com/gag/aD2Q9rB)
  - 😝 [Archive video #37](http://9gag.com/gag/a6ZGYE9)
- - 👉 [If only a bear was there to save them](http://9gag.com/gag/aD2Q9rB)<!-- MEMES:END -->
+ - 👉 [Welp! Thats goodbye then](http://9gag.com/gag/aGy7QyX)<!-- MEMES:END -->
 
 ---
 

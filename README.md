@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Coldplay exposing Astronomer CEO Andy Byron&#39;s affair with coworker Kristin Cabot HR!&rpar;. They are both married!](http://9gag.com/gag/apRV7Nb)
- - 😝 [Sometimes pause at the right moment](http://9gag.com/gag/aYQRBYN)
- - 💣 [Saul Goodman](http://9gag.com/gag/a6ZGgA8)
- - 😝 [Time flies](http://9gag.com/gag/a0eOqgZ)
- - 👉 [Smartest decision ever](http://9gag.com/gag/a2vOg9p)<!-- MEMES:END -->
+ - 😝 [That ass](http://9gag.com/gag/a34NrgQ)
+ - 😝 [Torpedo](http://9gag.com/gag/aKGK5G1)
+ - 💣 [You are getting paid for what?](http://9gag.com/gag/an7GZOE)
+ - 😝 [Having preferences is bad now guys](http://9gag.com/gag/aGy7qpG)
+ - 👉 [SURPRISE, MATHAFAKA!](http://9gag.com/gag/a1mOgKY)<!-- MEMES:END -->
 
 ---
 

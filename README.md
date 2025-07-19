@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google researchers say Android&#39;s early-warning system detected and issued alerts for 1,200+ earthquakes since 2021, sometimes giving up to 15-60 seconds&#39; notice &lpar;Kasha Patel/Washington Post&rpar;](http://www.techmeme.com/250719/p5#a250719p5)
  - [How to Watch Australia vs. British &amp; Irish Lions From Anywhere: Stream 1st Test Rugby Union for Free](https://www.cnet.com/tech/services-and-software/how-to-watch-australia-vs-british-irish-lions-from-anywhere-stream-1st-test-rugby-union-for-free/#ftag=CAD590a51e)
  - [Acquihire deals like Google&#39;s Windsurf deal are a wake-up call for AI startup employees left behind, creating new uncertainty over leadership and compensation &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250719/p4#a250719p4)
  - [Reliance Retail launches Ajio Rush, a four-hour fashion delivery service live in six Indian cities, to take on Myntra and other fashion quick commerce startups &lpar;The Economic Times&rpar;](http://www.techmeme.com/250719/p3#a250719p3)
- - [Sources: at least six of China&#39;s biggest VC firms are targeting a combined $2B in new USD-denominated funds to allow overseas investment in Chinese startups &lpar;Bloomberg&rpar;](http://www.techmeme.com/250719/p2#a250719p2)
- - [Sources: Vy Capital, which has ~$15B of AUM and is a top backer of Elon Musk&#39;s companies, told external investors that it will not raise further outside money &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/250719/p1#a250719p1)<!-- TECH:END -->
+ - [Sources: at least six of China&#39;s biggest VC firms are targeting a combined $2B in new USD-denominated funds to allow overseas investment in Chinese startups &lpar;Bloomberg&rpar;](http://www.techmeme.com/250719/p2#a250719p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

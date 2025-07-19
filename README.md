@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [See ya](http://9gag.com/gag/a7ongWb)
+ - 😝 [It feels like yesterday](http://9gag.com/gag/azx4yvm)
  - 😝 [Wilawan Emsawat, nicknamed \u201cGolf,\u201dblackmails 9 monks for more than 10 million euros with videos having sex with them](http://9gag.com/gag/a2vOgqD)
- - 💣 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)
- - 😝 [You are getting paid for what?](http://9gag.com/gag/an7GZOE)
- - 👉 [Smartest decision ever](http://9gag.com/gag/a2vOg9p)<!-- MEMES:END -->
+ - 💣 [Time flies](http://9gag.com/gag/a0eOqgZ)
+ - 😝 [An expensive lesson](http://9gag.com/gag/a34Nr51)
+ - 👉 [If only a bear was there to save them](http://9gag.com/gag/aD2Q9rB)<!-- MEMES:END -->
 
 ---
 

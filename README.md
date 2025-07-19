@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Coldplay exposing Astronomer CEO Andy Byron&#39;s affair with coworker Kristin Cabot HR!&rpar;. They are both married!](http://9gag.com/gag/apRV7Nb)
- - 😝 [If only a bear was there to save them](http://9gag.com/gag/aD2Q9rB)
- - 💣 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)
- - 😝 [Wilawan Emsawat, nicknamed \u201cGolf,\u201dblackmails 9 monks for more than 10 million euros with videos having sex with them](http://9gag.com/gag/a2vOgqD)
- - 👉 [SURPRISE, MATHAFAKA!](http://9gag.com/gag/a1mOgKY)<!-- MEMES:END -->
+ - 😝 [Obvious](http://9gag.com/gag/aD2Q99x)
+ - 😝 [The adults get serious on the teacups at the amusement park](http://9gag.com/gag/aXPRz8z)
+ - 💣 [If only a bear was there to save them](http://9gag.com/gag/aD2Q9rB)
+ - 😝 [That ass](http://9gag.com/gag/a34NrgQ)
+ - 👉 [Time flies](http://9gag.com/gag/a0eOqgZ)<!-- MEMES:END -->
 
 ---
 

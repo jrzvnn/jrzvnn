@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Astronomer CEO Andy Byron resigns after a video of him cuddling with chief people officer Kristin Cabot at a Coldplay concert went viral &lpar;Eleanor Hawkins/Axios&rpar;](http://www.techmeme.com/250719/p14#a250719p14)
  - [Corning&#39;s EU compliance changes won&#39;t affect iPhones, iPads](https://appleinsider.com/articles/25/07/19/cornings-eu-compliance-changes-wont-affect-iphones-ipads?utm_source=rss)
+ - [Is the iPhone 17 Pro Going to Be Big and Orange? We Rounded Up the Rumors](https://www.cnet.com/tech/mobile/is-the-iphone-17-pro-going-to-be-big-and-orange-we-rounded-up-the-rumors/#ftag=CAD590a51e)
  - [Apple was exempted from the EU&#39;s Corning deal to end exclusivity terms with OEMs, after finding products designed exclusively for Apple fall outside the market &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/250719/p13#a250719p13)
- - [Sources: UK plans to designate Apple and Google as holding a &quot;strategic market advantage&quot; over rivals, subjecting them to new regulations and potential fines &lpar;Washington Examiner&rpar;](http://www.techmeme.com/250719/p12#a250719p12)
- - [Sources: after Trump let Nvidia resume H20 chip sales to China, Nvidia told Chinese customers it has limited stocks and doesn&#39;t plan to restart production &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/250719/p11#a250719p11)<!-- TECH:END -->
+ - [Best Internet Providers in Milwaukee, Wisconsin](https://www.cnet.com/home/internet/best-internet-providers-in-milwaukee-wi/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

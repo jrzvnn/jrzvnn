@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, July 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-july-19/#ftag=CAD590a51e)
  - [The European Commission accepts Corning&#39;s offer to end exclusivity terms in its supply contracts, ending an antitrust investigation opened in November 2024 &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/250718/p28#a250718p28)
  - [UFC 318: Holloway vs. Poirier 3 -- Everything to Know to Watch via Livestream](https://www.cnet.com/tech/services-and-software/ufc-318-holloway-vs-poirier-3-everything-to-know-to-watch-via-livestream/#ftag=CAD590a51e)
  - [Sources: Mark Zuckerberg has offered 10+ OpenAI researchers packages of $300M over four years, and asked OpenAI&#39;s Mark Chen if he would consider joining Meta &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250718/p27#a250718p27)
- - [When Will You See AI-Generated Content on Netflix? It&#39;s Possible You Already Have](https://www.cnet.com/tech/services-and-software/when-will-you-see-ai-generated-content-on-netflix-its-possible-you-already-have/#ftag=CAD590a51e)
- - [Microsoft says it will no longer use China-based engineers to provide technical support to the US military, after a ProPublica report raised security concerns &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250718/p26#a250718p26)<!-- TECH:END -->
+ - [When Will You See AI-Generated Content on Netflix? It&#39;s Possible You Already Have](https://www.cnet.com/tech/services-and-software/when-will-you-see-ai-generated-content-on-netflix-its-possible-you-already-have/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

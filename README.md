@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Here’s how to save on a Samsung Galaxy Z Fold 7 preorder](https://www.theverge.com/tech/706821/samsung-galaxy-z-fold-7-how-to-buy-preorder-price-deal-release-date)
  - [The tech that the US Post Office gave us](https://www.theverge.com/report/709749/usps-250th-anniversary-pioneer-modern-technology)
  - [A mushroom casket marks a first for ‘green burials’ in the US](https://www.theverge.com/science/710180/mushroom-casket-living-cocoon-mycelium-loop-biotech-green-burial)
- - [Nothing Phone 3 review: flagship-ish](https://www.theverge.com/mobile/709093/nothing-phone-3-review)<!-- TECH:END -->
+ - [You Shouldn&#39;t Be Using Q-Tips in Your Ears. Here&#39;s How to Clean Your Ears the Right Way](https://www.cnet.com/health/personal-care/you-shouldnt-be-using-q-tips-in-your-ears-heres-how-to-clean-your-ears-the-right-way/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

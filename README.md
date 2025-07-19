@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Acquihire deals like Google&#39;s Windsurf deal are a wake-up call for AI startup employees left behind, creating new uncertainty over leadership and compensation &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250719/p4#a250719p4)
  - [Reliance Retail launches Ajio Rush, a four-hour fashion delivery service live in six Indian cities, to take on Myntra and other fashion quick commerce startups &lpar;The Economic Times&rpar;](http://www.techmeme.com/250719/p3#a250719p3)
  - [Sources: at least six of China&#39;s biggest VC firms are targeting a combined $2B in new USD-denominated funds to allow overseas investment in Chinese startups &lpar;Bloomberg&rpar;](http://www.techmeme.com/250719/p2#a250719p2)
  - [Sources: Vy Capital, which has ~$15B of AUM and is a top backer of Elon Musk&#39;s companies, told external investors that it will not raise further outside money &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/250719/p1#a250719p1)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, July 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-july-19/#ftag=CAD590a51e)
- - [The European Commission accepts Corning&#39;s offer to end exclusivity terms in its supply contracts, ending an antitrust investigation opened in November 2024 &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/250718/p28#a250718p28)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, July 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-july-19/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

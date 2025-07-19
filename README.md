@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Time flies](http://9gag.com/gag/a0eOqgZ)
- - 😝 [Smartest decision ever](http://9gag.com/gag/a2vOg9p)
- - 💣 [The adults get serious on the teacups at the amusement park](http://9gag.com/gag/aXPRz8z)
- - 😝 [An expensive lesson](http://9gag.com/gag/a34Nr51)
- - 👉 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)<!-- MEMES:END -->
+ - 😝 [Saul Goodman](http://9gag.com/gag/a6ZGgA8)
+ - 😝 [It feels like yesterday](http://9gag.com/gag/azx4yvm)
+ - 💣 [SURPRISE, MATHAFAKA!](http://9gag.com/gag/a1mOgKY)
+ - 😝 [You are getting paid for what?](http://9gag.com/gag/an7GZOE)
+ - 👉 [If only a bear was there to save them](http://9gag.com/gag/aD2Q9rB)<!-- MEMES:END -->
 
 ---
 

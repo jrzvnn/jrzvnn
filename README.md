@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Abrupt Chaos](http://9gag.com/gag/amoRw62)
- - 😝 [It feels like yesterday](http://9gag.com/gag/azx4yvm)
- - 💣 [Welp! Thats goodbye then](http://9gag.com/gag/aGy7QyX)
- - 😝 [SURPRISE, MATHAFAKA!](http://9gag.com/gag/a1mOgKY)
- - 👉 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)<!-- MEMES:END -->
+ - 😝 [Who listens to Coldplay ?](http://9gag.com/gag/a7onxpq)
+ - 😝 [Bro&#39;s a legend for those school movies](http://9gag.com/gag/amoRZb6)
+ - 💣 [Well, well , well how the turn tables](http://9gag.com/gag/aRBRdvQ)
+ - 😝 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)
+ - 👉 [Awful name, but a spectacular movie](http://9gag.com/gag/azx43db)<!-- MEMES:END -->
 
 ---
 

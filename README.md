@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Time flies](http://9gag.com/gag/a0eOqgZ)
- - 😝 [If your kid gets lost on Shenzhen Beach, just make another one\u2014it&#39;s faster.](http://9gag.com/gag/aPAr00R)
- - 💣 [See ya](http://9gag.com/gag/a7ongWb)
- - 😝 [An expensive lesson](http://9gag.com/gag/a34Nr51)
- - 👉 [Wilawan Emsawat, nicknamed \u201cGolf,\u201dblackmails 9 monks for more than 10 million euros with videos having sex with them](http://9gag.com/gag/a2vOgqD)<!-- MEMES:END -->
+ - 😝 [Coldplay exposing Astronomer CEO Andy Byron&#39;s affair with coworker Kristin Cabot HR!&rpar;. They are both married!](http://9gag.com/gag/apRV7Nb)
+ - 😝 [If only a bear was there to save them](http://9gag.com/gag/aD2Q9rB)
+ - 💣 [The Girlfriend Look Of Death\u2122](http://9gag.com/gag/aYQRBMV)
+ - 😝 [Wilawan Emsawat, nicknamed \u201cGolf,\u201dblackmails 9 monks for more than 10 million euros with videos having sex with them](http://9gag.com/gag/a2vOgqD)
+ - 👉 [SURPRISE, MATHAFAKA!](http://9gag.com/gag/a1mOgKY)<!-- MEMES:END -->
 
 ---
 

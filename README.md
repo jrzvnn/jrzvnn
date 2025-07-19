@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Saul Goodman](http://9gag.com/gag/a6ZGgA8)
- - 😝 [Wilawan Emsawat, nicknamed \u201cGolf,\u201dblackmails 9 monks for more than 10 million euros with videos having sex with them](http://9gag.com/gag/a2vOgqD)
- - 💣 [An expensive lesson](http://9gag.com/gag/a34Nr51)
- - 😝 [Smartest decision ever](http://9gag.com/gag/a2vOg9p)
- - 👉 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)<!-- MEMES:END -->
+ - 😝 [Awful name, but a spectacular movie](http://9gag.com/gag/azx43db)
+ - 😝 [Torpedo](http://9gag.com/gag/aKGK5G1)
+ - 💣 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)
+ - 😝 [Nice AI Video..........LOL](http://9gag.com/gag/aXPR17D)
+ - 👉 [In Japan the deeper the bow the bigger the sign of respect.](http://9gag.com/gag/a9yDGWZ)<!-- MEMES:END -->
 
 ---
 

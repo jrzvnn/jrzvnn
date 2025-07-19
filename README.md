@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Smartest decision ever](http://9gag.com/gag/a2vOg9p)
+ - 😝 [Abrupt Chaos](http://9gag.com/gag/amoRw62)
  - 😝 [It feels like yesterday](http://9gag.com/gag/azx4yvm)
- - 💣 [You are getting paid for what?](http://9gag.com/gag/an7GZOE)
- - 😝 [Wilawan Emsawat, nicknamed \u201cGolf,\u201dblackmails 9 monks for more than 10 million euros with videos having sex with them](http://9gag.com/gag/a2vOgqD)
- - 👉 [SURPRISE, MATHAFAKA!](http://9gag.com/gag/a1mOgKY)<!-- MEMES:END -->
+ - 💣 [Welp! Thats goodbye then](http://9gag.com/gag/aGy7QyX)
+ - 😝 [SURPRISE, MATHAFAKA!](http://9gag.com/gag/a1mOgKY)
+ - 👉 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)<!-- MEMES:END -->
 
 ---
 

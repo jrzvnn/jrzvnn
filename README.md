@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It feels like yesterday](http://9gag.com/gag/azx4yvm)
- - 😝 [If only a bear was there to save them](http://9gag.com/gag/aD2Q9rB)
- - 💣 [The Champ !](http://9gag.com/gag/aoynwD2)
- - 😝 [You shouldn&#39;t have made him reach for his wallet...](http://9gag.com/gag/ae9R83W)
- - 👉 [You are getting paid for what?](http://9gag.com/gag/an7GZOE)<!-- MEMES:END -->
+ - 😝 [Well, well , well how the turn tables](http://9gag.com/gag/aRBRdvQ)
+ - 😝 [Who listens to Coldplay ?](http://9gag.com/gag/a7onxpq)
+ - 💣 [Awful name, but a spectacular movie](http://9gag.com/gag/azx43db)
+ - 😝 [Tracy Chapman - Fast Car &lpar;Wembley 1988&rpar; After Stevie Wonder was unable to perform, she was asked to play a couple of songs to fill in while they set up the main stage.](http://9gag.com/gag/aAyv5n9)
+ - 👉 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)<!-- MEMES:END -->
 
 ---
 

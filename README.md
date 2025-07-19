@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It feels like yesterday](http://9gag.com/gag/azx4yvm)
- - 😝 [Wilawan Emsawat, nicknamed \u201cGolf,\u201dblackmails 9 monks for more than 10 million euros with videos having sex with them](http://9gag.com/gag/a2vOgqD)
- - 💣 [Time flies](http://9gag.com/gag/a0eOqgZ)
- - 😝 [An expensive lesson](http://9gag.com/gag/a34Nr51)
- - 👉 [If only a bear was there to save them](http://9gag.com/gag/aD2Q9rB)<!-- MEMES:END -->
+ - 😝 [Expect a bumpy landing](http://9gag.com/gag/a6ZG6jb)
+ - 😝 [Coldplay making singles again](http://9gag.com/gag/aZZRXOW)
+ - 💣 [Nice AI Video..........LOL](http://9gag.com/gag/aXPR17D)
+ - 😝 [Torpedo](http://9gag.com/gag/aKGK5G1)
+ - 👉 [In Japan the deeper the bow the bigger the sign of respect.](http://9gag.com/gag/a9yDGWZ)<!-- MEMES:END -->
 
 ---
 

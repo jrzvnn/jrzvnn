@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An expensive lesson](http://9gag.com/gag/a34Nr51)
- - 😝 [Wilawan Emsawat, nicknamed \u201cGolf,\u201dblackmails 9 monks for more than 10 million euros with videos having sex with them](http://9gag.com/gag/a2vOgqD)
- - 💣 [See ya](http://9gag.com/gag/a7ongWb)
- - 😝 [Saul Goodman](http://9gag.com/gag/a6ZGgA8)
- - 👉 [Welp! Thats goodbye then](http://9gag.com/gag/aGy7QyX)<!-- MEMES:END -->
+ - 😝 [...](http://9gag.com/gag/aYQR5GO)
+ - 😝 [Welp! Thats goodbye then](http://9gag.com/gag/aGy7QyX)
+ - 💣 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)
+ - 😝 [See ya](http://9gag.com/gag/a7ongWb)
+ - 👉 [SURPRISE, MATHAFAKA!](http://9gag.com/gag/a1mOgKY)<!-- MEMES:END -->
 
 ---
 

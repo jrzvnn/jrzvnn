@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Time flies](http://9gag.com/gag/a0eOqgZ)
- - 😝 [`Excuse me buddy? How much will you pay me to take out your competition? Yea, that guy right in front, how much?`](http://9gag.com/gag/aPAr2mw)
- - 💣 [Saul Goodman](http://9gag.com/gag/a6ZGgA8)
+ - 😝 [It feels like yesterday](http://9gag.com/gag/azx4yvm)
+ - 😝 [Saul Goodman](http://9gag.com/gag/a6ZGgA8)
+ - 💣 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)
  - 😝 [Welp! Thats goodbye then](http://9gag.com/gag/aGy7QyX)
- - 👉 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)<!-- MEMES:END -->
+ - 👉 [She touches the Ball 4 times without it hitting the ground...](http://9gag.com/gag/aBy4B3O)<!-- MEMES:END -->
 
 ---
 

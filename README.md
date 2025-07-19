@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Expect a bumpy landing](http://9gag.com/gag/a6ZG6jb)
  - 😝 [Coldplay making singles again](http://9gag.com/gag/aZZRXOW)
- - 💣 [Nice AI Video..........LOL](http://9gag.com/gag/aXPR17D)
- - 😝 [Torpedo](http://9gag.com/gag/aKGK5G1)
+ - 💣 [Torpedo](http://9gag.com/gag/aKGK5G1)
+ - 😝 [Nice AI Video..........LOL](http://9gag.com/gag/aXPR17D)
  - 👉 [In Japan the deeper the bow the bigger the sign of respect.](http://9gag.com/gag/a9yDGWZ)<!-- MEMES:END -->
 
 ---

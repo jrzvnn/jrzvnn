@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Welp! Thats goodbye then](http://9gag.com/gag/aGy7QyX)
- - 😝 [Time flies](http://9gag.com/gag/a0eOqgZ)
- - 💣 [Saul Goodman](http://9gag.com/gag/a6ZGgA8)
  - 😝 [Smartest decision ever](http://9gag.com/gag/a2vOg9p)
- - 👉 [Abrupt Chaos](http://9gag.com/gag/amoRw62)<!-- MEMES:END -->
+ - 😝 [`Excuse me buddy? How much will you pay me to take out your competition? Yea, that guy right in front, how much?`](http://9gag.com/gag/aPAr2mw)
+ - 💣 [Abrupt Chaos](http://9gag.com/gag/amoRw62)
+ - 😝 [Welp! Thats goodbye then](http://9gag.com/gag/aGy7QyX)
+ - 👉 [Saul Goodman](http://9gag.com/gag/a6ZGgA8)<!-- MEMES:END -->
 
 ---
 

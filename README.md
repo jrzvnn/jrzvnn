@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [[Thread] An OpenAI researcher says the company&#39;s latest experimental reasoning LLM achieved gold medal-level performance on the 2025 International Math Olympiad &lpar;Alexander Wei/@alexwei_&rpar;](http://www.techmeme.com/250719/p10#a250719p10)
+ - [At Least 750 US Hospitals Faced Disruptions During Last Year’s CrowdStrike Outage, Study Finds](https://www.wired.com/story/at-least-750-us-hospitals-faced-disruptions-during-last-years-crowdstrike-outage-study-finds/)
  - [How Shaun Maguire dragged Sequoia into culture wars; emails show senior partner Doug Leone defended Maguire in distinguishing between &quot;Islamists&quot; and &quot;Muslims&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/250719/p9#a250719p9)
  - [How an open-source approach helped DeepSeek and other Chinese AI companies; Hugging Face: Alibaba&#39;s Qwen is now the world&#39;s largest open-source AI ecosystem &lpar;South China Morning Post&rpar;](http://www.techmeme.com/250719/p8#a250719p8)
- - [Here’s how to save on a Samsung Galaxy Z Fold 7 preorder](https://www.theverge.com/tech/706821/samsung-galaxy-z-fold-7-how-to-buy-preorder-price-deal-release-date)
- - [The tech that the US Post Office gave us](https://www.theverge.com/report/709749/usps-250th-anniversary-pioneer-modern-technology)
- - [A mushroom casket marks a first for ‘green burials’ in the US](https://www.theverge.com/science/710180/mushroom-casket-living-cocoon-mycelium-loop-biotech-green-burial)<!-- TECH:END -->
+ - [Here’s how to save on a Samsung Galaxy Z Fold 7 preorder](https://www.theverge.com/tech/706821/samsung-galaxy-z-fold-7-how-to-buy-preorder-price-deal-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

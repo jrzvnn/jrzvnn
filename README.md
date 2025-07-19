@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You are getting paid for what?](http://9gag.com/gag/an7GZOE)
- - 😝 [See ya](http://9gag.com/gag/a7ongWb)
- - 💣 [A burger shop in the UK gave free burgers on their grand opening](http://9gag.com/gag/a1mOn7v)
- - 😝 [It feels like yesterday](http://9gag.com/gag/azx4yvm)
- - 👉 [A Passionate Fan](http://9gag.com/gag/aBy4MPz)<!-- MEMES:END -->
+ - 😝 [Time flies](http://9gag.com/gag/a0eOqgZ)
+ - 😝 [If your kid gets lost on Shenzhen Beach, just make another one\u2014it&#39;s faster.](http://9gag.com/gag/aPAr00R)
+ - 💣 [See ya](http://9gag.com/gag/a7ongWb)
+ - 😝 [An expensive lesson](http://9gag.com/gag/a34Nr51)
+ - 👉 [Wilawan Emsawat, nicknamed \u201cGolf,\u201dblackmails 9 monks for more than 10 million euros with videos having sex with them](http://9gag.com/gag/a2vOgqD)<!-- MEMES:END -->
 
 ---
 

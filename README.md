@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Delete All of Your Social Media Accounts: Instagram, X, Facebook, TikTok, and More](https://www.wired.com/story/how-to-delete-your-facebook-instagram-twitter-snapchat/)
  - [The 43 Best Movies on Netflix Right Now &lpar;July 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
  - [Why It’s Taking LA So Long to Rebuild After the Wildfires](https://www.wired.com/story/why-its-taking-la-so-long-to-rebuild-after-the-wildfires-california-los-angeles/)
  - [The 43 Best Shows on Netflix Right Now &lpar;July 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [China’s Salt Typhoon Hackers Breached the US National Guard for Nearly a Year](https://www.wired.com/story/chinas-salt-typhoon-hackers-breached-the-us-national-guard-for-nearly-a-year/)
- - [Automakers Are Canceling Plans for New EVs. Here’s a List of What’s Been Killed So Far](https://www.wired.com/story/list-of-new-evs-canceled-by-automakers/)<!-- TECH:END -->
+ - [China’s Salt Typhoon Hackers Breached the US National Guard for Nearly a Year](https://www.wired.com/story/chinas-salt-typhoon-hackers-breached-the-us-national-guard-for-nearly-a-year/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You shouldn&#39;t have made him reach for his wallet...](http://9gag.com/gag/ae9R83W)
- - 😝 [If only a bear was there to save them](http://9gag.com/gag/aD2Q9rB)
- - 💣 [Time flies](http://9gag.com/gag/a0eOqgZ)
- - 😝 [It feels like yesterday](http://9gag.com/gag/azx4yvm)
- - 👉 [Welp! Thats goodbye then](http://9gag.com/gag/aGy7QyX)<!-- MEMES:END -->
+ - 😝 [Time flies](http://9gag.com/gag/a0eOqgZ)
+ - 😝 [`Excuse me buddy? How much will you pay me to take out your competition? Yea, that guy right in front, how much?`](http://9gag.com/gag/aPAr2mw)
+ - 💣 [Saul Goodman](http://9gag.com/gag/a6ZGgA8)
+ - 😝 [Welp! Thats goodbye then](http://9gag.com/gag/aGy7QyX)
+ - 👉 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)<!-- MEMES:END -->
 
 ---
 

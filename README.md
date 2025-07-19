@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Awful name, but a spectacular movie](http://9gag.com/gag/azx43db)
- - 😝 [Torpedo](http://9gag.com/gag/aKGK5G1)
- - 💣 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)
- - 😝 [Nice AI Video..........LOL](http://9gag.com/gag/aXPR17D)
- - 👉 [In Japan the deeper the bow the bigger the sign of respect.](http://9gag.com/gag/a9yDGWZ)<!-- MEMES:END -->
+ - 😝 [Time flies](http://9gag.com/gag/a0eOqgZ)
+ - 😝 [Smartest decision ever](http://9gag.com/gag/a2vOg9p)
+ - 💣 [The adults get serious on the teacups at the amusement park](http://9gag.com/gag/aXPRz8z)
+ - 😝 [An expensive lesson](http://9gag.com/gag/a34Nr51)
+ - 👉 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)<!-- MEMES:END -->
 
 ---
 

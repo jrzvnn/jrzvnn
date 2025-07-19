@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How an open-source approach helped DeepSeek and other Chinese AI companies; Hugging Face: Alibaba&#39;s Qwen is now the world&#39;s largest open-source AI ecosystem &lpar;South China Morning Post&rpar;](http://www.techmeme.com/250719/p8#a250719p8)
+ - [Here’s how to save on a Samsung Galaxy Z Fold 7 preorder](https://www.theverge.com/tech/706821/samsung-galaxy-z-fold-7-how-to-buy-preorder-price-deal-release-date)
+ - [The tech that the US Post Office gave us](https://www.theverge.com/report/709749/usps-250th-anniversary-pioneer-modern-technology)
  - [A mushroom casket marks a first for ‘green burials’ in the US](https://www.theverge.com/science/710180/mushroom-casket-living-cocoon-mycelium-loop-biotech-green-burial)
- - [You Shouldn&#39;t Be Using Q-Tips in Your Ears. Here&#39;s How to Clean Your Ears the Right Way](https://www.cnet.com/health/personal-care/you-shouldnt-be-using-q-tips-in-your-ears-heres-how-to-clean-your-ears-the-right-way/#ftag=CAD590a51e)
- - [Best TVs I&#39;ve Tested &lpar;July 2025&rpar;](https://www.cnet.com/tech/home-entertainment/best-tv/#ftag=CAD590a51e)
- - [Nothing Phone 3 review: flagship-ish](https://www.theverge.com/mobile/709093/nothing-phone-3-review)
- - [Windsurf CEO Jeff Wang on what happened after co-founders Varun Mohan and Douglas Chen left for Google, and how Cognition&#39;s deal to acquire Windsurf unfolded &lpar;Jeff Wang/@jeffwsurf&rpar;](http://www.techmeme.com/250719/p7#a250719p7)<!-- TECH:END -->
+ - [Nothing Phone 3 review: flagship-ish](https://www.theverge.com/mobile/709093/nothing-phone-3-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

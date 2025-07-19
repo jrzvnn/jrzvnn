@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [American way to handle a tick:](http://9gag.com/gag/awye2b8)
- - 😝 [Time flies](http://9gag.com/gag/a0eOqgZ)
- - 💣 [You are getting paid for what?](http://9gag.com/gag/an7GZOE)
  - 😝 [An expensive lesson](http://9gag.com/gag/a34Nr51)
- - 👉 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)<!-- MEMES:END -->
+ - 😝 [SURPRISE, MATHAFAKA!](http://9gag.com/gag/a1mOgKY)
+ - 💣 [Smartest decision ever](http://9gag.com/gag/a2vOg9p)
+ - 😝 [Olive oil skin, who knew](http://9gag.com/gag/aGy7Qn0)
+ - 👉 [Wilawan Emsawat, nicknamed \u201cGolf,\u201dblackmails 9 monks for more than 10 million euros with videos having sex with them](http://9gag.com/gag/a2vOgqD)<!-- MEMES:END -->
 
 ---
 

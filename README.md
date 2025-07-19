@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Windsurf CEO Jeff Wang on what happened after co-founders Varun Mohan and Douglas Chen left for Google, and how Cognition&#39;s deal to acquire Windsurf unfolded &lpar;Jeff Wang/@jeffwsurf&rpar;](http://www.techmeme.com/250719/p7#a250719p7)
  - [Robot Vacuum Tips to Help You Keep a Tidy Home &lpar;2025&rpar;](https://www.wired.com/story/surprising-tips-for-your-robot-vacuum/)
  - [How to Buy an Electric Bike &lpar;2025&rpar;: Classes, Range, Repairs](https://www.wired.com/story/how-to-buy-an-electric-bike/)
  - [Fast Fusion scratches the hyper fast F-Zero itch](https://www.theverge.com/games-review/705627/fast-fusion-review-f-zero-nintendo-switch-2)
- - [Samsung Galaxy Z Fold 7 review: stunning, bendy, and spendy](https://www.theverge.com/reviews/709990/samsung-galaxy-z-fold-7-review)
- - [How AI is reshaping higher education, as institutions grapple with the pace of change and technology companies move quickly to offer custom learning products &lpar;Financial Times&rpar;](http://www.techmeme.com/250719/p6#a250719p6)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold 7 review: stunning, bendy, and spendy](https://www.theverge.com/reviews/709990/samsung-galaxy-z-fold-7-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

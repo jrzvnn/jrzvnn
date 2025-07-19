@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This bull is literally helping with the construction](http://9gag.com/gag/aAyvAW0)
- - 😝 [Expect a bumpy landing](http://9gag.com/gag/a6ZG6jb)
- - 💣 [Obvious](http://9gag.com/gag/aD2Q99x)
- - 😝 [Nice AI Video..........LOL](http://9gag.com/gag/aXPR17D)
- - 👉 [When someone asks what parenting is like...](http://9gag.com/gag/aLnWEPV)<!-- MEMES:END -->
+ - 😝 [You are getting paid for what?](http://9gag.com/gag/an7GZOE)
+ - 😝 [See ya](http://9gag.com/gag/a7ongWb)
+ - 💣 [A burger shop in the UK gave free burgers on their grand opening](http://9gag.com/gag/a1mOn7v)
+ - 😝 [It feels like yesterday](http://9gag.com/gag/azx4yvm)
+ - 👉 [A Passionate Fan](http://9gag.com/gag/aBy4MPz)<!-- MEMES:END -->
 
 ---
 

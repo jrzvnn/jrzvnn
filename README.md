@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A mushroom casket marks a first for ‘green burials’ in the US](https://www.theverge.com/science/710180/mushroom-casket-living-cocoon-mycelium-loop-biotech-green-burial)
+ - [You Shouldn&#39;t Be Using Q-Tips in Your Ears. Here&#39;s How to Clean Your Ears the Right Way](https://www.cnet.com/health/personal-care/you-shouldnt-be-using-q-tips-in-your-ears-heres-how-to-clean-your-ears-the-right-way/#ftag=CAD590a51e)
+ - [Best TVs I&#39;ve Tested &lpar;July 2025&rpar;](https://www.cnet.com/tech/home-entertainment/best-tv/#ftag=CAD590a51e)
  - [Nothing Phone 3 review: flagship-ish](https://www.theverge.com/mobile/709093/nothing-phone-3-review)
- - [Windsurf CEO Jeff Wang on what happened after co-founders Varun Mohan and Douglas Chen left for Google, and how Cognition&#39;s deal to acquire Windsurf unfolded &lpar;Jeff Wang/@jeffwsurf&rpar;](http://www.techmeme.com/250719/p7#a250719p7)
- - [Robot Vacuum Tips to Help You Keep a Tidy Home &lpar;2025&rpar;](https://www.wired.com/story/surprising-tips-for-your-robot-vacuum/)
- - [How to Buy an Electric Bike &lpar;2025&rpar;: Classes, Range, Repairs](https://www.wired.com/story/how-to-buy-an-electric-bike/)<!-- TECH:END -->
+ - [Windsurf CEO Jeff Wang on what happened after co-founders Varun Mohan and Douglas Chen left for Google, and how Cognition&#39;s deal to acquire Windsurf unfolded &lpar;Jeff Wang/@jeffwsurf&rpar;](http://www.techmeme.com/250719/p7#a250719p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

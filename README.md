@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An expensive lesson](http://9gag.com/gag/a34Nr51)
- - 😝 [SURPRISE, MATHAFAKA!](http://9gag.com/gag/a1mOgKY)
- - 💣 [Smartest decision ever](http://9gag.com/gag/a2vOg9p)
- - 😝 [Olive oil skin, who knew](http://9gag.com/gag/aGy7Qn0)
- - 👉 [Wilawan Emsawat, nicknamed \u201cGolf,\u201dblackmails 9 monks for more than 10 million euros with videos having sex with them](http://9gag.com/gag/a2vOgqD)<!-- MEMES:END -->
+ - 😝 [If only a bear was there to save them](http://9gag.com/gag/aD2Q9rB)
+ - 😝 [Saul Goodman](http://9gag.com/gag/a6ZGgA8)
+ - 💣 [Wilawan Emsawat, nicknamed \u201cGolf,\u201dblackmails 9 monks for more than 10 million euros with videos having sex with them](http://9gag.com/gag/a2vOgqD)
+ - 😝 [...](http://9gag.com/gag/aD2QvV9)
+ - 👉 [An expensive lesson](http://9gag.com/gag/a34Nr51)<!-- MEMES:END -->
 
 ---
 

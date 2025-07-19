@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Graphics Cards for PC: Nvidia, AMD, Intel](https://www.wired.com/gallery/best-graphics-cards-gpu/)
- - [Coway Airmega 50 Review: Effective and Affordable &lpar;2025&rpar;](https://www.wired.com/review/coway-airmega-50/)
- - [BMW M5 review: a PHEV worth its weight](https://www.theverge.com/bmw/689434/bmw-m5-review-phev-specs-price)
- - [How to design an actually good flash flood alert system](https://www.theverge.com/science/709362/flash-flood-warning-system-experts-texas-sirens-blue-alert)
- - [My Early Time Testing the Galaxy Z Flip 7 Brought a Smashing Surprise](https://www.cnet.com/tech/mobile/my-early-time-testing-the-galaxy-z-flip-7-brought-a-smashing-surprise/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Buy an Electric Bike &lpar;2025&rpar;: Classes, Range, Repairs](https://www.wired.com/story/how-to-buy-an-electric-bike/)
+ - [Fast Fusion scratches the hyper fast F-Zero itch](https://www.theverge.com/games-review/705627/fast-fusion-review-f-zero-nintendo-switch-2)
+ - [Samsung Galaxy Z Fold 7 review: stunning, bendy, and spendy](https://www.theverge.com/reviews/709990/samsung-galaxy-z-fold-7-review)
+ - [How AI is reshaping higher education, as institutions grapple with the pace of change and technology companies move quickly to offer custom learning products &lpar;Financial Times&rpar;](http://www.techmeme.com/250719/p6#a250719p6)
+ - [Best Graphics Cards for PC: Nvidia, AMD, Intel](https://www.wired.com/gallery/best-graphics-cards-gpu/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

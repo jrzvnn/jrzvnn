@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Got the shoreline up.](https://www.reddit.com/r/funny/comments/1m47v5h/got_the_shoreline_up/)
  - 😝 [`Excuse me buddy? How much will you pay me to take out your competition? Yea, that guy right in front, how much?`](http://9gag.com/gag/aPAr2mw)
- - 💣 [Time flies](http://9gag.com/gag/a0eOqgZ)
- - 😝 [Motorcycle trip Slovenia-Portugal](http://9gag.com/gag/aYQR6Dq)
- - 👉 [Archive video #37](http://9gag.com/gag/a6ZGYE9)<!-- MEMES:END -->
+ - 😝 [Time flies](http://9gag.com/gag/a0eOqgZ)
+ - 💣 [Motorcycle trip Slovenia-Portugal](http://9gag.com/gag/aYQR6Dq)
+ - 😝 [Archive video #37](http://9gag.com/gag/a6ZGYE9)
+ - 👉 [If only a bear was there to save them](http://9gag.com/gag/aD2Q9rB)<!-- MEMES:END -->
 
 ---
 

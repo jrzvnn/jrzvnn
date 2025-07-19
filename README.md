@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [[Thread] An OpenAI researcher says the company&#39;s latest experimental reasoning LLM achieved gold medal-level performance on the 2025 International Math Olympiad &lpar;Alexander Wei/@alexwei_&rpar;](http://www.techmeme.com/250719/p10#a250719p10)
+ - [How to Watch France vs. Germany From Anywhere for Free: Stream UEFA Women&#39;s Euro 2025 Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-france-vs-germany-from-anywhere-for-free-stream-uefa-womens-euro-2025-soccer/#ftag=CAD590a51e)
  - [At Least 750 US Hospitals Faced Disruptions During Last Year’s CrowdStrike Outage, Study Finds](https://www.wired.com/story/at-least-750-us-hospitals-faced-disruptions-during-last-years-crowdstrike-outage-study-finds/)
  - [How Shaun Maguire dragged Sequoia into culture wars; emails show senior partner Doug Leone defended Maguire in distinguishing between &quot;Islamists&quot; and &quot;Muslims&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/250719/p9#a250719p9)
- - [How an open-source approach helped DeepSeek and other Chinese AI companies; Hugging Face: Alibaba&#39;s Qwen is now the world&#39;s largest open-source AI ecosystem &lpar;South China Morning Post&rpar;](http://www.techmeme.com/250719/p8#a250719p8)
- - [Here’s how to save on a Samsung Galaxy Z Fold 7 preorder](https://www.theverge.com/tech/706821/samsung-galaxy-z-fold-7-how-to-buy-preorder-price-deal-release-date)<!-- TECH:END -->
+ - [How an open-source approach helped DeepSeek and other Chinese AI companies; Hugging Face: Alibaba&#39;s Qwen is now the world&#39;s largest open-source AI ecosystem &lpar;South China Morning Post&rpar;](http://www.techmeme.com/250719/p8#a250719p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

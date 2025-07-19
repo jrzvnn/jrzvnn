@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Smartest decision ever](http://9gag.com/gag/a2vOg9p)
- - 😝 [`Excuse me buddy? How much will you pay me to take out your competition? Yea, that guy right in front, how much?`](http://9gag.com/gag/aPAr2mw)
- - 💣 [See ya](http://9gag.com/gag/a7ongWb)
+ - 😝 [It feels like yesterday](http://9gag.com/gag/azx4yvm)
  - 😝 [If only a bear was there to save them](http://9gag.com/gag/aD2Q9rB)
- - 👉 [SURPRISE, MATHAFAKA!](http://9gag.com/gag/a1mOgKY)<!-- MEMES:END -->
+ - 💣 [The Champ !](http://9gag.com/gag/aoynwD2)
+ - 😝 [You shouldn&#39;t have made him reach for his wallet...](http://9gag.com/gag/ae9R83W)
+ - 👉 [You are getting paid for what?](http://9gag.com/gag/an7GZOE)<!-- MEMES:END -->
 
 ---
 

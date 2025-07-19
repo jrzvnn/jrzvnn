@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Prosus offered to cut its 27% Delivery Hero stake to below 10% and give up its board seat to address EU concerns over its €4.1B Just Eat Takeaway deal &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250718/p25#a250718p25)
- - [Peter Thiel-backed crypto exchange Bullish files for an IPO, plans to trade on the NYSE, and reports a net loss of ~$349M on digital asset sales of $80M in Q1 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250718/p24#a250718p24)
- - [Source: Blackstone has withdrawn from the consortium led by Susquehanna and General Atlantic seeking to invest in TikTok US, after considering a minority stake &lpar;Reuters&rpar;](http://www.techmeme.com/250718/p23#a250718p23)
- - [Why AI is moving from chatbots to the browser](https://www.theverge.com/command-line-newsletter/710313/ai-moves-chatbots-to-web-browser-chatgpt-agent-perplexity-comet)
- - [Microsoft Will Erase Your Passwords in 2 Weeks: What to Do Now](https://www.cnet.com/tech/microsoft-will-erase-your-passwords-in-2-weeks-what-to-do-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The European Commission accepts Corning&#39;s offer to end exclusivity terms in its supply contracts, ending an antitrust investigation opened in November 2024 &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/250718/p28#a250718p28)
+ - [UFC 318: Holloway vs. Poirier 3 -- Everything to Know to Watch via Livestream](https://www.cnet.com/tech/services-and-software/ufc-318-holloway-vs-poirier-3-everything-to-know-to-watch-via-livestream/#ftag=CAD590a51e)
+ - [Sources: Mark Zuckerberg has offered 10+ OpenAI researchers packages of $300M over four years, and asked OpenAI&#39;s Mark Chen if he would consider joining Meta &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250718/p27#a250718p27)
+ - [When Will You See AI-Generated Content on Netflix? It&#39;s Possible You Already Have](https://www.cnet.com/tech/services-and-software/when-will-you-see-ai-generated-content-on-netflix-its-possible-you-already-have/#ftag=CAD590a51e)
+ - [Microsoft says it will no longer use China-based engineers to provide technical support to the US military, after a ProPublica report raised security concerns &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250718/p26#a250718p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

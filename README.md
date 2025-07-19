@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That ass](http://9gag.com/gag/a34NrgQ)
- - 😝 [Torpedo](http://9gag.com/gag/aKGK5G1)
- - 💣 [You are getting paid for what?](http://9gag.com/gag/an7GZOE)
- - 😝 [Having preferences is bad now guys](http://9gag.com/gag/aGy7qpG)
- - 👉 [SURPRISE, MATHAFAKA!](http://9gag.com/gag/a1mOgKY)<!-- MEMES:END -->
+ - 😝 [This bull is literally helping with the construction](http://9gag.com/gag/aAyvAW0)
+ - 😝 [Expect a bumpy landing](http://9gag.com/gag/a6ZG6jb)
+ - 💣 [Obvious](http://9gag.com/gag/aD2Q99x)
+ - 😝 [Nice AI Video..........LOL](http://9gag.com/gag/aXPR17D)
+ - 👉 [Jokes about Tourette&#39;s in a room full of people with Tourette&#39;s syndrome](http://9gag.com/gag/aVvR5eP)<!-- MEMES:END -->
 
 ---
 

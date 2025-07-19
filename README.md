@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Sources: after Trump let Nvidia resume H20 chip sales to China, Nvidia told Chinese customers it has limited stocks and doesn&#39;t plan to restart production &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/250719/p11#a250719p11)
  - [UK to target Apple, Google ahead of Trump visit](https://appleinsider.com/articles/25/07/19/uk-to-target-apple-google-ahead-of-trump-visit?utm_source=rss)
+ - [How to Play Soulframe Preludes. The Limited Alpha Period Starts Now](https://www.cnet.com/tech/gaming/how-to-play-soulframe-preludes-limited-alpha-period-starts-now/#ftag=CAD590a51e)
  - [[Thread] An OpenAI researcher says the company&#39;s latest experimental reasoning LLM achieved gold medal-level performance on the 2025 International Math Olympiad &lpar;Alexander Wei/@alexwei_&rpar;](http://www.techmeme.com/250719/p10#a250719p10)
- - [At Least 750 US Hospitals Faced Disruptions During Last Year’s CrowdStrike Outage, Study Finds](https://www.wired.com/story/at-least-750-us-hospitals-faced-disruptions-during-last-years-crowdstrike-outage-study-finds/)
- - [How Shaun Maguire dragged Sequoia into culture wars; emails show senior partner Doug Leone defended Maguire in distinguishing between &quot;Islamists&quot; and &quot;Muslims&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/250719/p9#a250719p9)<!-- TECH:END -->
+ - [How to Watch France vs. Germany From Anywhere for Free: Stream UEFA Women&#39;s Euro 2025 Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-france-vs-germany-from-anywhere-for-free-stream-uefa-womens-euro-2025-soccer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

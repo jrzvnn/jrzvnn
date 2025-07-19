@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, well , well how the turn tables](http://9gag.com/gag/aRBRdvQ)
- - 😝 [Awful name, but a spectacular movie](http://9gag.com/gag/azx43db)
- - 💣 [Who listens to Coldplay ?](http://9gag.com/gag/a7onxpq)
- - 😝 [Tracy Chapman - Fast Car &lpar;Wembley 1988&rpar; After Stevie Wonder was unable to perform, she was asked to play a couple of songs to fill in while they set up the main stage.](http://9gag.com/gag/aAyv5n9)
- - 👉 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)<!-- MEMES:END -->
+ - 😝 [Welp! Thats goodbye then](http://9gag.com/gag/aGy7QyX)
+ - 😝 [Time flies](http://9gag.com/gag/a0eOqgZ)
+ - 💣 [Saul Goodman](http://9gag.com/gag/a6ZGgA8)
+ - 😝 [Smartest decision ever](http://9gag.com/gag/a2vOg9p)
+ - 👉 [Abrupt Chaos](http://9gag.com/gag/amoRw62)<!-- MEMES:END -->
 
 ---
 

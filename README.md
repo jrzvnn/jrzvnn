@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [...](http://9gag.com/gag/aYQR5GO)
  - 😝 [Welp! Thats goodbye then](http://9gag.com/gag/aGy7QyX)
- - 💣 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)
- - 😝 [See ya](http://9gag.com/gag/a7ongWb)
- - 👉 [SURPRISE, MATHAFAKA!](http://9gag.com/gag/a1mOgKY)<!-- MEMES:END -->
+ - 😝 [An expensive lesson](http://9gag.com/gag/a34Nr51)
+ - 💣 [SURPRISE, MATHAFAKA!](http://9gag.com/gag/a1mOgKY)
+ - 😝 [`Excuse me buddy? How much will you pay me to take out your competition? Yea, that guy right in front, how much?`](http://9gag.com/gag/aPAr2mw)
+ - 👉 [If only a bear was there to save them](http://9gag.com/gag/aD2Q9rB)<!-- MEMES:END -->
 
 ---
 

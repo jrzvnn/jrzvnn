@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Shaun Maguire dragged Sequoia into culture wars; emails show senior partner Doug Leone defended Maguire in distinguishing between &quot;Islamists&quot; and &quot;Muslims&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/250719/p9#a250719p9)
  - [How an open-source approach helped DeepSeek and other Chinese AI companies; Hugging Face: Alibaba&#39;s Qwen is now the world&#39;s largest open-source AI ecosystem &lpar;South China Morning Post&rpar;](http://www.techmeme.com/250719/p8#a250719p8)
  - [Here’s how to save on a Samsung Galaxy Z Fold 7 preorder](https://www.theverge.com/tech/706821/samsung-galaxy-z-fold-7-how-to-buy-preorder-price-deal-release-date)
  - [The tech that the US Post Office gave us](https://www.theverge.com/report/709749/usps-250th-anniversary-pioneer-modern-technology)
- - [A mushroom casket marks a first for ‘green burials’ in the US](https://www.theverge.com/science/710180/mushroom-casket-living-cocoon-mycelium-loop-biotech-green-burial)
- - [You Shouldn&#39;t Be Using Q-Tips in Your Ears. Here&#39;s How to Clean Your Ears the Right Way](https://www.cnet.com/health/personal-care/you-shouldnt-be-using-q-tips-in-your-ears-heres-how-to-clean-your-ears-the-right-way/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A mushroom casket marks a first for ‘green burials’ in the US](https://www.theverge.com/science/710180/mushroom-casket-living-cocoon-mycelium-loop-biotech-green-burial)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

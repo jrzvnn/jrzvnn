@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Well, well , well how the turn tables](http://9gag.com/gag/aRBRdvQ)
- - 😝 [Who listens to Coldplay ?](http://9gag.com/gag/a7onxpq)
- - 💣 [Awful name, but a spectacular movie](http://9gag.com/gag/azx43db)
+ - 😝 [Awful name, but a spectacular movie](http://9gag.com/gag/azx43db)
+ - 💣 [Who listens to Coldplay ?](http://9gag.com/gag/a7onxpq)
  - 😝 [Tracy Chapman - Fast Car &lpar;Wembley 1988&rpar; After Stevie Wonder was unable to perform, she was asked to play a couple of songs to fill in while they set up the main stage.](http://9gag.com/gag/aAyv5n9)
  - 👉 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)<!-- MEMES:END -->
 

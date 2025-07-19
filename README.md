@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Delete All of Your Social Media Accounts: Instagram, X, Facebook, TikTok, and More](https://www.wired.com/story/how-to-delete-your-facebook-instagram-twitter-snapchat/)
- - [The 43 Best Movies on Netflix Right Now &lpar;July 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [Why It’s Taking LA So Long to Rebuild After the Wildfires](https://www.wired.com/story/why-its-taking-la-so-long-to-rebuild-after-the-wildfires-california-los-angeles/)
- - [The 43 Best Shows on Netflix Right Now &lpar;July 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [China’s Salt Typhoon Hackers Breached the US National Guard for Nearly a Year](https://www.wired.com/story/chinas-salt-typhoon-hackers-breached-the-us-national-guard-for-nearly-a-year/)<!-- TECH:END -->
+ - [Best Graphics Cards for PC: Nvidia, AMD, Intel](https://www.wired.com/gallery/best-graphics-cards-gpu/)
+ - [Coway Airmega 50 Review: Effective and Affordable &lpar;2025&rpar;](https://www.wired.com/review/coway-airmega-50/)
+ - [BMW M5 review: a PHEV worth its weight](https://www.theverge.com/bmw/689434/bmw-m5-review-phev-specs-price)
+ - [How to design an actually good flash flood alert system](https://www.theverge.com/science/709362/flash-flood-warning-system-experts-texas-sirens-blue-alert)
+ - [My Early Time Testing the Galaxy Z Flip 7 Brought a Smashing Surprise](https://www.cnet.com/tech/mobile/my-early-time-testing-the-galaxy-z-flip-7-brought-a-smashing-surprise/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

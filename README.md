@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who listens to Coldplay ?](http://9gag.com/gag/a7onxpq)
- - 😝 [Bro&#39;s a legend for those school movies](http://9gag.com/gag/amoRZb6)
- - 💣 [Well, well , well how the turn tables](http://9gag.com/gag/aRBRdvQ)
- - 😝 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)
- - 👉 [Awful name, but a spectacular movie](http://9gag.com/gag/azx43db)<!-- MEMES:END -->
+ - 😝 [Smartest decision ever](http://9gag.com/gag/a2vOg9p)
+ - 😝 [`Excuse me buddy? How much will you pay me to take out your competition? Yea, that guy right in front, how much?`](http://9gag.com/gag/aPAr2mw)
+ - 💣 [See ya](http://9gag.com/gag/a7ongWb)
+ - 😝 [If only a bear was there to save them](http://9gag.com/gag/aD2Q9rB)
+ - 👉 [SURPRISE, MATHAFAKA!](http://9gag.com/gag/a1mOgKY)<!-- MEMES:END -->
 
 ---
 

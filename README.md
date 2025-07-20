@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [...](http://9gag.com/gag/aD2QvV9)
- - 😝 [Pa zuzu](http://9gag.com/gag/ajPRzQp)
- - 💣 [Women](http://9gag.com/gag/a87Vg9Z)
- - 😝 [Piertotum Locomotor](http://9gag.com/gag/a7onYvm)
- - 👉 [A Dutch TV show investigated what kind of meat is in D\u00f6ner kebab](http://9gag.com/gag/avy9MOX)<!-- MEMES:END -->
+ - 😝 [Dang this is good](http://9gag.com/gag/aXPR6e9)
+ - 😝 [When someone asks what parenting is like...](http://9gag.com/gag/aLnWEPV)
+ - 💣 [Scary](http://9gag.com/gag/axymqyL)
+ - 😝 [Coldplay Kiss Cam...](http://9gag.com/gag/aW4RXE3)
+ - 👉 [I think these players wanted pay what they owed up NBA](http://9gag.com/gag/a34NX9e)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Time flies](http://9gag.com/gag/a0eOqgZ)
- - 😝 [Nothing happened](http://9gag.com/gag/awyeW7B)
- - 💣 [...](http://9gag.com/gag/aD2QvV9)
- - 😝 [Make it stop](http://9gag.com/gag/abAR8gb)
+ - 😝 [Abrupt Chaos](http://9gag.com/gag/amoRw62)
+ - 😝 [Wemen, am I right ?](http://9gag.com/gag/a5Q5YwN)
+ - 💣 [Time flies](http://9gag.com/gag/a0eOqgZ)
+ - 😝 [An expensive lesson](http://9gag.com/gag/a34Nr51)
  - 👉 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)<!-- MEMES:END -->
 
 ---

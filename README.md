@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anker Nebula X1 review: a terrific home theater that goes anywhere](https://www.theverge.com/reviews/707436/nebula-x1-review-best-portable-projector-price-specs)
+ - [How YouTube became the most-watched video provider on TVs in the US, with creator content tailored for family and group viewing and app features enhanced for TV &lpar;Ben Fritz/Wall Street Journal&rpar;](http://www.techmeme.com/250720/p4#a250720p4)
  - [North Carolina-based Eton Solutions, which offers wealth management ERP tools for single- and multifamily offices, raised a $58M Series C led by Navis Capital &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250720/p3#a250720p3)
  - [Calgary-based GeologicAI, which uses AI and sensors to help capture data in rock and core samples faster, raised a $44M Series B led by Blue Earth Capital &lpar;Alex Riehl/BetaKit&rpar;](http://www.techmeme.com/250720/p2#a250720p2)
- - [Austin-based CertifID, which develops tech to prevent wire fraud in real estate transactions, raised a $47.5M Series C led by Centana Growth Partners &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250720/p1#a250720p1)
- - [A look at the Dor Brothers, a video production studio that has gained over 100M views across platforms by creating viral subversive videos using only AI tools &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/250719/p18#a250719p18)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, July 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-july-20/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Austin-based CertifID, which develops tech to prevent wire fraud in real estate transactions, raised a $47.5M Series C led by Centana Growth Partners &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250720/p1#a250720p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Austin-based CertifID, which develops tech to prevent wire fraud in real estate transactions, raised a $47.5M Series C led by Centana Growth Partners &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250720/p1#a250720p1)
  - [A look at the Dor Brothers, a video production studio that has gained over 100M views across platforms by creating viral subversive videos using only AI tools &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/250719/p18#a250719p18)
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, July 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-july-20/#ftag=CAD590a51e)
  - [How to Play Soulframe Preludes. The Limited Alpha Period Starts Now](https://www.cnet.com/tech/gaming/how-to-play-soulframe-preludes-limited-alpha-period-starts-now/#ftag=CAD590a51e)
- - [How the Chinese hacking community Honkers, consisting of patriotic self-taught tech enthusiasts, became an integral part of China&#39;s cyberespionage apparatus &lpar;Kim Zetter/Wired&rpar;](http://www.techmeme.com/250719/p17#a250719p17)
- - [A look at Decart, which has developed video-to-video AI model Mirage that manipulates live video in real time and can potentially shake up livestreaming &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250719/p16#a250719p16)
- - [Warframe&#39;s The Old Peace Expansion Revealed: A Perilous Trip to Tau Unfolds Soon](https://www.cnet.com/tech/gaming/warframes-the-old-peace-expansion-revealed-a-perilous-trip-to-tau-unfolds-soon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How the Chinese hacking community Honkers, consisting of patriotic self-taught tech enthusiasts, became an integral part of China&#39;s cyberespionage apparatus &lpar;Kim Zetter/Wired&rpar;](http://www.techmeme.com/250719/p17#a250719p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

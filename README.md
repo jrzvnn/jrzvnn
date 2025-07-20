@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You shouldn&#39;t have made him reach for his wallet...](http://9gag.com/gag/ae9R83W)
- - 😝 [Old is GOLD](http://9gag.com/gag/adBRDK9)
- - 💣 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)
- - 😝 [Volvo on an Autobahn](http://9gag.com/gag/a87Vxo1)
- - 👉 [Antonela Romoleroux &lpar;a better angle&rpar;](http://9gag.com/gag/an7GPvV)<!-- MEMES:END -->
+ - 😝 [A very calm and measured response to a difficult situation](http://9gag.com/gag/aBy4egP)
+ - 😝 [Well, well , well how the turn tables](http://9gag.com/gag/aRBRdvQ)
+ - 💣 [Nothing happened](http://9gag.com/gag/awyeW7B)
+ - 😝 [Happy international BSOD day! 19.07.2024, never forget!](http://9gag.com/gag/a0eOqLn)
+ - 👉 [Found a green flag, then realized it&#39;s me now](http://9gag.com/gag/a4Pw0Q1)<!-- MEMES:END -->
 
 ---
 

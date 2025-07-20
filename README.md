@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whaaaa?](http://9gag.com/gag/avy9wEE)
- - 😝 [Nothing happened](http://9gag.com/gag/awyeW7B)
- - 💣 [...](http://9gag.com/gag/aD2QvV9)
- - 😝 [I think these players wanted pay what they owed up NBA](http://9gag.com/gag/a34NX9e)
- - 👉 [You spin me right round baby right round](http://9gag.com/gag/aGy75Pn)<!-- MEMES:END -->
+ - 😝 [Make it stop](http://9gag.com/gag/abAR8gb)
+ - 😝 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)
+ - 💣 [Women](http://9gag.com/gag/a87Vg9Z)
+ - 😝 [You spin me right round baby right round](http://9gag.com/gag/aGy75Pn)
+ - 👉 [Nothing happened](http://9gag.com/gag/awyeW7B)<!-- MEMES:END -->
 
 ---
 

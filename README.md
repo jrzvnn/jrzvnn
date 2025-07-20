@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wemen, am I right ?](http://9gag.com/gag/a5Q5YwN)
- - 😝 [...](http://9gag.com/gag/aD2QvV9)
- - 💣 [Nothing happened](http://9gag.com/gag/awyeW7B)
- - 😝 [Those damn Gen-Z twerps](http://9gag.com/gag/ayNvw4Y)
- - 👉 [Welp! Thats goodbye then](http://9gag.com/gag/aGy7QyX)<!-- MEMES:END -->
+ - 😝 [Old is GOLD](http://9gag.com/gag/adBRDK9)
+ - 😝 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)
+ - 💣 [Volvo on an Autobahn](http://9gag.com/gag/a87Vxo1)
+ - 😝 [In Japan the deeper the bow the bigger the sign of respect.](http://9gag.com/gag/a9yDGWZ)
+ - 👉 [Scary](http://9gag.com/gag/axymqyL)<!-- MEMES:END -->
 
 ---
 

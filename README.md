@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Make it stop](http://9gag.com/gag/abAR8gb)
- - 😝 [...](http://9gag.com/gag/aYQR5GO)
+ - 😝 [Wemen, am I right ?](http://9gag.com/gag/a5Q5YwN)
+ - 😝 [...](http://9gag.com/gag/aD2QvV9)
  - 💣 [Nothing happened](http://9gag.com/gag/awyeW7B)
- - 😝 [Think your country has inflation? Turkey\u2019s 15-year inflation: 5031%](http://9gag.com/gag/aZZRYp6)
- - 👉 [A red light cant stop a retard](http://9gag.com/gag/aBy4BmD)<!-- MEMES:END -->
+ - 😝 [Those damn Gen-Z twerps](http://9gag.com/gag/ayNvw4Y)
+ - 👉 [Welp! Thats goodbye then](http://9gag.com/gag/aGy7QyX)<!-- MEMES:END -->
 
 ---
 

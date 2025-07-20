@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)
- - 😝 [When you accidentally read a spoiler](http://9gag.com/gag/agmKDK1)
- - 💣 [Sunbath india](http://9gag.com/gag/adBRz2d)
- - 😝 [Nothing happened](http://9gag.com/gag/awyeW7B)
- - 👉 [`Leave her alone, creep!`](http://9gag.com/gag/a4Pw05m)<!-- MEMES:END -->
+ - 😝 [Antonela Romoleroux &lpar;a better angle&rpar;](http://9gag.com/gag/an7GPvV)
+ - 😝 [The reason i got in the Internet](http://9gag.com/gag/avy9Myq)
+ - 💣 [Fountain in Poland designed by M. Chodakowska](http://9gag.com/gag/a5Q50wG)
+ - 😝 [She touches the Ball 4 times without it hitting the ground...](http://9gag.com/gag/aBy4B3O)
+ - 👉 [Got you bro](http://9gag.com/gag/a9yDxyZ)<!-- MEMES:END -->
 
 ---
 

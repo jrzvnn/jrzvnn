@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Make it stop](http://9gag.com/gag/abAR8gb)
+ - 😝 [So delicious](http://9gag.com/gag/a34Nr6r)
+ - 😝 [The early days of livestreaming were fkin wild.](http://9gag.com/gag/aVvR5nK)
+ - 💣 [Piertotum Locomotor](http://9gag.com/gag/a7onYvm)
  - 😝 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)
- - 💣 [Women](http://9gag.com/gag/a87Vg9Z)
- - 😝 [You spin me right round baby right round](http://9gag.com/gag/aGy75Pn)
  - 👉 [Nothing happened](http://9gag.com/gag/awyeW7B)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who remembers? The spitting on his arm, stalling the engine, the friend losing it in the backseat, absolute cinema](http://9gag.com/gag/aE0ZmbM)
- - 😝 [Zenn Fappist](http://9gag.com/gag/aqyDoxR)
- - 💣 [I think these players wanted pay what they owed up NBA](http://9gag.com/gag/a34NX9e)
- - 😝 [Bryce Dallas Howard](http://9gag.com/gag/a0eO36d)
- - 👉 [Piertotum Locomotor](http://9gag.com/gag/a7onYvm)<!-- MEMES:END -->
+ - 😝 [...](http://9gag.com/gag/aD2QvV9)
+ - 😝 [Pa zuzu](http://9gag.com/gag/ajPRzQp)
+ - 💣 [Women](http://9gag.com/gag/a87Vg9Z)
+ - 😝 [Piertotum Locomotor](http://9gag.com/gag/a7onYvm)
+ - 👉 [A Dutch TV show investigated what kind of meat is in D\u00f6ner kebab](http://9gag.com/gag/avy9MOX)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How the Chinese hacking community Honkers, consisting of patriotic self-taught tech enthusiasts, became an integral part of China&#39;s cyberespionage apparatus &lpar;Kim Zetter/Wired&rpar;](http://www.techmeme.com/250719/p17#a250719p17)
  - [A look at Decart, which has developed video-to-video AI model Mirage that manipulates live video in real time and can potentially shake up livestreaming &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250719/p16#a250719p16)
  - [Warframe&#39;s The Old Peace Expansion Revealed: A Perilous Trip to Tau Unfolds Soon](https://www.cnet.com/tech/gaming/warframes-the-old-peace-expansion-revealed-a-perilous-trip-to-tau-unfolds-soon/#ftag=CAD590a51e)
  - [Amazon slashes up to $300 off M4 iPad Pros this weekend](https://appleinsider.com/articles/25/07/19/amazon-slashes-up-to-300-off-m4-ipad-pros-this-weekend?utm_source=rss)
- - [Vultron, which makes AI tools for federal contractors, raised $22M from investors including David Sacks&#39; Craft Ventures, raising ethical questions &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/250719/p15#a250719p15)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for July 20, #300](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-20-300/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Vultron, which makes AI tools for federal contractors, raised $22M from investors including David Sacks&#39; Craft Ventures, raising ethical questions &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/250719/p15#a250719p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

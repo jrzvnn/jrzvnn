@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dang this is good](http://9gag.com/gag/aXPR6e9)
- - 😝 [In Japan the deeper the bow the bigger the sign of respect.](http://9gag.com/gag/a9yDGWZ)
- - 💣 [I think these players wanted pay what they owed up NBA](http://9gag.com/gag/a34NX9e)
- - 😝 [When someone asks what parenting is like...](http://9gag.com/gag/aLnWEPV)
- - 👉 [Scary](http://9gag.com/gag/axymqyL)<!-- MEMES:END -->
+ - 😝 [Whaaaa?](http://9gag.com/gag/avy9wEE)
+ - 😝 [Nothing happened](http://9gag.com/gag/awyeW7B)
+ - 💣 [...](http://9gag.com/gag/aD2QvV9)
+ - 😝 [I think these players wanted pay what they owed up NBA](http://9gag.com/gag/a34NX9e)
+ - 👉 [You spin me right round baby right round](http://9gag.com/gag/aGy75Pn)<!-- MEMES:END -->
 
 ---
 

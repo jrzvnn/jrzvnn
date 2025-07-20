@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How UK Biobank, a government-backed cloud database of 1B+ medical images from 100,000+ participants, is fueling breakthroughs in AI-driven diagnostics &lpar;Bloomberg&rpar;](http://www.techmeme.com/250720/p9#a250720p9)
  - [Can Cortisol Supplements Really Lower Stress? I Asked the Experts](https://www.cnet.com/health/nutrition/best-cortisol-supplements/#ftag=CAD590a51e)
  - [M5 iPad Pro to gain dual front-facing cameras in late 2025](https://appleinsider.com/articles/25/07/20/m5-ipad-pro-to-gain-dual-front-facing-cameras-later-this-year?utm_source=rss)
- - [My 9 Favorite Pickleball Paddles From 3 Years of Testing &lpar;2025&rpar;](https://www.wired.com/gallery/best-pickleball-paddles/)
- - [Best Nintendo Switch 2 Controllers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-nintendo-switch-2-controllers/)
- - [Here&#39;s Where to Hang Your Bird Feeder for Maximum Visits](https://www.cnet.com/news/heres-where-to-hang-your-bird-feeder-for-maximum-visits/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Companies like Scale AI are replacing low-cost data labelers with highly paid experts in fields such as finance, driven by the rise of reasoning AI models &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250720/p8#a250720p8)
+ - [My 9 Favorite Pickleball Paddles From 3 Years of Testing &lpar;2025&rpar;](https://www.wired.com/gallery/best-pickleball-paddles/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

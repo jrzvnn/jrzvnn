@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nothing happened](http://9gag.com/gag/awyeW7B)
- - 😝 [Piertotum Locomotor](http://9gag.com/gag/a7onYvm)
- - 💣 [Make it stop](http://9gag.com/gag/abAR8gb)
- - 😝 [Death by HR](http://9gag.com/gag/a0eOq7B)
- - 👉 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)<!-- MEMES:END -->
+ - 😝 [Volvo on an Autobahn](http://9gag.com/gag/a87Vxo1)
+ - 😝 [Dang this is good](http://9gag.com/gag/aXPR6e9)
+ - 💣 [In Japan the deeper the bow the bigger the sign of respect.](http://9gag.com/gag/a9yDGWZ)
+ - 😝 [When someone asks what parenting is like...](http://9gag.com/gag/aLnWEPV)
+ - 👉 [Scary](http://9gag.com/gag/axymqyL)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Abrupt Chaos](http://9gag.com/gag/amoRw62)
- - 😝 [Those damn Gen-Z twerps](http://9gag.com/gag/ayNvw4Y)
- - 💣 [Wemen, am I right ?](http://9gag.com/gag/a5Q5YwN)
- - 😝 [Imma eat dis](http://9gag.com/gag/an7GPAB)
- - 👉 [...](http://9gag.com/gag/aD2QvV9)<!-- MEMES:END -->
+ - 😝 [The early days of livestreaming were fkin wild.](http://9gag.com/gag/aVvR5nK)
+ - 😝 [Wemen, am I right ?](http://9gag.com/gag/a5Q5YwN)
+ - 💣 [An expensive lesson](http://9gag.com/gag/a34Nr51)
+ - 😝 [Piertotum Locomotor](http://9gag.com/gag/a7onYvm)
+ - 👉 [Yes](http://9gag.com/gag/an7Go7L)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The early days of livestreaming were fkin wild.](http://9gag.com/gag/aVvR5nK)
  - 😝 [Wemen, am I right ?](http://9gag.com/gag/a5Q5YwN)
- - 💣 [An expensive lesson](http://9gag.com/gag/a34Nr51)
- - 😝 [Piertotum Locomotor](http://9gag.com/gag/a7onYvm)
- - 👉 [Yes](http://9gag.com/gag/an7Go7L)<!-- MEMES:END -->
+ - 😝 [The early days of livestreaming were fkin wild.](http://9gag.com/gag/aVvR5nK)
+ - 💣 [Make it stop](http://9gag.com/gag/abAR8gb)
+ - 😝 [I think these players wanted pay what they owed up NBA](http://9gag.com/gag/a34NX9e)
+ - 👉 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Abrupt Chaos](http://9gag.com/gag/amoRw62)
- - 😝 [Wemen, am I right ?](http://9gag.com/gag/a5Q5YwN)
- - 💣 [Time flies](http://9gag.com/gag/a0eOqgZ)
- - 😝 [An expensive lesson](http://9gag.com/gag/a34Nr51)
- - 👉 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)<!-- MEMES:END -->
+ - 😝 [Those damn Gen-Z twerps](http://9gag.com/gag/ayNvw4Y)
+ - 💣 [Wemen, am I right ?](http://9gag.com/gag/a5Q5YwN)
+ - 😝 [Imma eat dis](http://9gag.com/gag/an7GPAB)
+ - 👉 [...](http://9gag.com/gag/aD2QvV9)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [From my archive #1](http://9gag.com/gag/a87VRmZ)
  - 😝 [Here we go again](http://9gag.com/gag/abAR81E)
- - 😝 [Piertotum Locomotor](http://9gag.com/gag/a7onYvm)
  - 💣 [`Leave her alone, creep!`](http://9gag.com/gag/a4Pw05m)
- - 😝 [Macallan](http://9gag.com/gag/ajPR471)
- - 👉 [Thanks for the chair. I started getting tired looking at her cry](http://9gag.com/gag/a5Q5O6V)<!-- MEMES:END -->
+ - 😝 [Christina Applegate &amp; David Faustino on his birthday, 1992](http://9gag.com/gag/aqyDo3Y)
+ - 👉 [When you accidentally read a spoiler](http://9gag.com/gag/agmKDK1)<!-- MEMES:END -->
 
 ---
 

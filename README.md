@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The reason i got in the Internet](http://9gag.com/gag/avy9Myq)
- - 😝 [Coldplay Kiss Cam...](http://9gag.com/gag/aW4RXE3)
- - 💣 [I think these players wanted pay what they owed up NBA](http://9gag.com/gag/a34NX9e)
- - 😝 [Antonela Romoleroux &lpar;a better angle&rpar;](http://9gag.com/gag/an7GPvV)
- - 👉 [Got you bro](http://9gag.com/gag/a9yDxyZ)<!-- MEMES:END -->
+ - 😝 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)
+ - 😝 [Imma eat dis](http://9gag.com/gag/an7GPAB)
+ - 💣 [Here we go again](http://9gag.com/gag/abAR81E)
+ - 😝 [Who remembers? The spitting on his arm, stalling the engine, the friend losing it in the backseat, absolute cinema](http://9gag.com/gag/aE0ZmbM)
+ - 👉 [Nothing happened](http://9gag.com/gag/awyeW7B)<!-- MEMES:END -->
 
 ---
 

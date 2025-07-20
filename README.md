@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI&#39;s ChatGPT Agent System Card outlines how its red team helped implement key security features like &quot;Watch Mode Activation&quot; and &quot;Terminal Restrictions&quot; &lpar;Louis Columbus/VentureBeat&rpar;](http://www.techmeme.com/250720/p6#a250720p6)
+ - [iPhone Fold will dominate the market despite &#39;late&#39; 2026 arrival](https://appleinsider.com/articles/25/07/20/iphone-fold-will-dominate-the-market-despite-late-2026-arrival?utm_source=rss)
  - [9 Best Coolers WIRED Tested for Every Budget, Any Situation](https://www.wired.com/gallery/best-coolers/)
  - [The intolerable memes of Alligator Alcatraz](https://www.theverge.com/policy/710015/alligator-alcatraz-ice-detention-memes-social-media)
- - [The Ultimate Dolby Atmos Experience Might Be In Your Car](https://www.wired.com/story/dolby-atmos-audio-cadillac-akg/)
- - [Amazon’s Fire Tablets, Tested, So You Don’t Have To &lpar;2025&rpar;](https://www.wired.com/gallery/best-amazon-fire-tablet/)
- - [I asked Alexa Plus to tackle my to-do list — it mostly failed](https://www.theverge.com/hands-on/710035/amazon-alexa-plus-ai-agent-features-hands-on)<!-- TECH:END -->
+ - [The Ultimate Dolby Atmos Experience Might Be In Your Car](https://www.wired.com/story/dolby-atmos-audio-cadillac-akg/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

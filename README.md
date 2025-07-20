@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nothing happened](http://9gag.com/gag/awyeW7B)
- - 😝 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)
- - 💣 [So delicious](http://9gag.com/gag/a34Nr6r)
- - 😝 [I think these players wanted pay what they owed up NBA](http://9gag.com/gag/a34NX9e)
- - 👉 [...](http://9gag.com/gag/aD2QvV9)<!-- MEMES:END -->
+ - 😝 [Pa zuzu](http://9gag.com/gag/ajPRzQp)
+ - 😝 [Bryce Dallas Howard](http://9gag.com/gag/a0eO36d)
+ - 💣 [I think these players wanted pay what they owed up NBA](http://9gag.com/gag/a34NX9e)
+ - 😝 [You spin me right round baby right round](http://9gag.com/gag/aGy75Pn)
+ - 👉 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)<!-- MEMES:END -->
 
 ---
 

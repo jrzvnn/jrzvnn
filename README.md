@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So delicious](http://9gag.com/gag/a34Nr6r)
- - 😝 [The early days of livestreaming were fkin wild.](http://9gag.com/gag/aVvR5nK)
- - 💣 [Piertotum Locomotor](http://9gag.com/gag/a7onYvm)
- - 😝 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)
- - 👉 [Nothing happened](http://9gag.com/gag/awyeW7B)<!-- MEMES:END -->
+ - 😝 [Who remembers? The spitting on his arm, stalling the engine, the friend losing it in the backseat, absolute cinema](http://9gag.com/gag/aE0ZmbM)
+ - 😝 [Zenn Fappist](http://9gag.com/gag/aqyDoxR)
+ - 💣 [I think these players wanted pay what they owed up NBA](http://9gag.com/gag/a34NX9e)
+ - 😝 [Bryce Dallas Howard](http://9gag.com/gag/a0eO36d)
+ - 👉 [Piertotum Locomotor](http://9gag.com/gag/a7onYvm)<!-- MEMES:END -->
 
 ---
 

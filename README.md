@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Welcome to the jungle](http://9gag.com/gag/a0eOqPn)
- - 😝 [Time flies](http://9gag.com/gag/a0eOqgZ)
- - 💣 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)
- - 😝 [The early days of livestreaming were fkin wild.](http://9gag.com/gag/aVvR5nK)
- - 👉 [It feels like yesterday](http://9gag.com/gag/azx4yvm)<!-- MEMES:END -->
+ - 😝 [The ancient greek strategy](http://9gag.com/gag/aGy75jX)
+ - 😝 [Expect a bumpy landing](http://9gag.com/gag/a6ZG6jb)
+ - 💣 [Found a green flag, then realized it&#39;s me now](http://9gag.com/gag/a4Pw0Q1)
+ - 😝 [A very calm and measured response to a difficult situation](http://9gag.com/gag/aBy4egP)
+ - 👉 [When you&#39;re the side character but also the main character](http://9gag.com/gag/aoynoow)<!-- MEMES:END -->
 
 ---
 

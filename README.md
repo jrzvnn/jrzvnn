@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Make it stop](http://9gag.com/gag/abAR8gb)
  - 😝 [Welcome to the jungle](http://9gag.com/gag/a0eOqPn)
- - 💣 [Welp! Thats goodbye then](http://9gag.com/gag/aGy7QyX)
- - 😝 [A very calm and measured response to a difficult situation](http://9gag.com/gag/aBy4egP)
- - 👉 [Abrupt Chaos](http://9gag.com/gag/amoRw62)<!-- MEMES:END -->
+ - 😝 [Welp! Thats goodbye then](http://9gag.com/gag/aGy7QyX)
+ - 💣 [...](http://9gag.com/gag/aYQR5GO)
+ - 😝 [Those damn Gen-Z twerps](http://9gag.com/gag/ayNvw4Y)
+ - 👉 [Witnessing karma like...](http://9gag.com/gag/axymqz2)<!-- MEMES:END -->
 
 ---
 

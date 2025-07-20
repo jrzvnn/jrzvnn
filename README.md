@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)
- - 😝 [Imma eat dis](http://9gag.com/gag/an7GPAB)
- - 💣 [Here we go again](http://9gag.com/gag/abAR81E)
- - 😝 [Who remembers? The spitting on his arm, stalling the engine, the friend losing it in the backseat, absolute cinema](http://9gag.com/gag/aE0ZmbM)
- - 👉 [Nothing happened](http://9gag.com/gag/awyeW7B)<!-- MEMES:END -->
+ - 😝 [...](http://9gag.com/gag/aD2QvV9)
+ - 💣 [`Leave her alone, creep!`](http://9gag.com/gag/a4Pw05m)
+ - 😝 [Piertotum Locomotor](http://9gag.com/gag/a7onYvm)
+ - 👉 [Imma eat dis](http://9gag.com/gag/an7GPAB)<!-- MEMES:END -->
 
 ---
 

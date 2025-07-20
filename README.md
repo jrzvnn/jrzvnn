@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dang this is good](http://9gag.com/gag/aXPR6e9)
- - 😝 [When someone asks what parenting is like...](http://9gag.com/gag/aLnWEPV)
- - 💣 [Scary](http://9gag.com/gag/axymqyL)
- - 😝 [Coldplay Kiss Cam...](http://9gag.com/gag/aW4RXE3)
- - 👉 [I think these players wanted pay what they owed up NBA](http://9gag.com/gag/a34NX9e)<!-- MEMES:END -->
+ - 😝 [Nothing happened](http://9gag.com/gag/awyeW7B)
+ - 😝 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)
+ - 💣 [So delicious](http://9gag.com/gag/a34Nr6r)
+ - 😝 [I think these players wanted pay what they owed up NBA](http://9gag.com/gag/a34NX9e)
+ - 👉 [...](http://9gag.com/gag/aD2QvV9)<!-- MEMES:END -->
 
 ---
 

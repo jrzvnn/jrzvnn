@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you accidentally read a spoiler](http://9gag.com/gag/agmKDK1)
- - 😝 [You shouldn&#39;t have made him reach for his wallet...](http://9gag.com/gag/ae9R83W)
- - 💣 [I think these players wanted pay what they owed up NBA](http://9gag.com/gag/a34NX9e)
- - 😝 [The early days of livestreaming were fkin wild.](http://9gag.com/gag/aVvR5nK)
- - 👉 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)<!-- MEMES:END -->
+ - 😝 [Sales engineer making an appearance](http://9gag.com/gag/abARnjB)
+ - 😝 [Shady repair shop trying to take advantage of a naive Karen](http://9gag.com/gag/azx4W1p)
+ - 💣 [Nothing happened](http://9gag.com/gag/awyeW7B)
+ - 😝 [...](http://9gag.com/gag/aD2QvV9)
+ - 👉 [I think these players wanted pay what they owed up NBA](http://9gag.com/gag/a34NX9e)<!-- MEMES:END -->
 
 ---
 

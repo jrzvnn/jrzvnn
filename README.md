@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Limit Galaxy AI to On-Device Processing—or Turn It Off Altogether](https://www.wired.com/story/limit-galaxy-ai-to-on-device-processing-or-turn-it-off/)
  - [The Hunt for a Fundamental Theory of Quantum Gravity](https://www.wired.com/story/the-hunt-for-a-fundamental-theory-of-quantum-gravity/)
  - [Dallas-based iCounter, which uses AI to combat cyber risks, launches out of stealth from Apollo Information Systems with a $30M Series A led by SYN Ventures &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250720/p5#a250720p5)
  - [What Makes Cheap Earbuds a Real Value? Here&#39;s How I Find the Hidden Gems](https://www.cnet.com/tech/mobile/features/what-makes-cheap-earbuds-a-real-value-heres-how-i-find-the-hidden-gems/#ftag=CAD590a51e)
- - [Get Ready for These New Emoji, Which Are Coming Out This Fall](https://www.cnet.com/tech/services-and-software/get-ready-for-these-new-emoji-which-are-coming-out-this-fall/#ftag=CAD590a51e)
- - [This Is the Commodore Comeback Fans Have Waited for—but the Odds Are Still Against It](https://www.wired.com/story/the-risky-business-of-bringing-commodore-back-to-life/)<!-- TECH:END -->
+ - [Get Ready for These New Emoji, Which Are Coming Out This Fall](https://www.cnet.com/tech/services-and-software/get-ready-for-these-new-emoji-which-are-coming-out-this-fall/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

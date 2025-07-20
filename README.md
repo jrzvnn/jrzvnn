@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Companies like Scale AI are replacing low-cost data labelers with highly paid experts in fields such as finance, driven by the rise of reasoning AI models &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250720/p8#a250720p8)
+ - [My 9 Favorite Pickleball Paddles From 3 Years of Testing &lpar;2025&rpar;](https://www.wired.com/gallery/best-pickleball-paddles/)
  - [M5 iPad Pro to gain dual front-facing cameras later this year](https://appleinsider.com/articles/25/07/20/m5-ipad-pro-to-gain-dual-front-facing-cameras-later-this-year?utm_source=rss)
  - [Thoughts on the foldable iPhone&#39;s prospects ahead of next year&#39;s launch; sources: Apple will add a second, portrait-side front-facing camera to the M5 iPad Pro &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250720/p7#a250720p7)
- - [Best Nintendo Switch 2 Controllers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-nintendo-switch-2-controllers/)
- - [The frenzied, gamified chase for Labubus](https://www.theverge.com/analysis/710047/labubu-pop-mart-blind-boxes-scarcity-marketing)
- - [Tim Cook&#39;s successor could be one of many Apple executives](https://appleinsider.com/articles/25/07/20/tim-cooks-successor-could-be-one-of-many-apple-executives?utm_source=rss)<!-- TECH:END -->
+ - [Best Nintendo Switch 2 Controllers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-nintendo-switch-2-controllers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wemen, am I right ?](http://9gag.com/gag/a5Q5YwN)
- - 😝 [The early days of livestreaming were fkin wild.](http://9gag.com/gag/aVvR5nK)
+ - 😝 [Nothing happened](http://9gag.com/gag/awyeW7B)
+ - 😝 [Piertotum Locomotor](http://9gag.com/gag/a7onYvm)
  - 💣 [Make it stop](http://9gag.com/gag/abAR8gb)
- - 😝 [I think these players wanted pay what they owed up NBA](http://9gag.com/gag/a34NX9e)
+ - 😝 [Death by HR](http://9gag.com/gag/a0eOq7B)
  - 👉 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)<!-- MEMES:END -->
 
 ---

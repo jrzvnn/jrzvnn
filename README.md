@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the Dor Brothers, a video production studio that has gained over 100M views across platforms by creating viral subversive videos using only AI tools &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/250719/p18#a250719p18)
+ - [How to Play Soulframe Preludes. The Limited Alpha Period Starts Now](https://www.cnet.com/tech/gaming/how-to-play-soulframe-preludes-limited-alpha-period-starts-now/#ftag=CAD590a51e)
  - [How the Chinese hacking community Honkers, consisting of patriotic self-taught tech enthusiasts, became an integral part of China&#39;s cyberespionage apparatus &lpar;Kim Zetter/Wired&rpar;](http://www.techmeme.com/250719/p17#a250719p17)
  - [A look at Decart, which has developed video-to-video AI model Mirage that manipulates live video in real time and can potentially shake up livestreaming &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250719/p16#a250719p16)
- - [Warframe&#39;s The Old Peace Expansion Revealed: A Perilous Trip to Tau Unfolds Soon](https://www.cnet.com/tech/gaming/warframes-the-old-peace-expansion-revealed-a-perilous-trip-to-tau-unfolds-soon/#ftag=CAD590a51e)
- - [Amazon slashes up to $300 off M4 iPad Pros this weekend](https://appleinsider.com/articles/25/07/19/amazon-slashes-up-to-300-off-m4-ipad-pros-this-weekend?utm_source=rss)
- - [Vultron, which makes AI tools for federal contractors, raised $22M from investors including David Sacks&#39; Craft Ventures, raising ethical questions &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/250719/p15#a250719p15)<!-- TECH:END -->
+ - [Warframe&#39;s The Old Peace Expansion Revealed: A Perilous Trip to Tau Unfolds Soon](https://www.cnet.com/tech/gaming/warframes-the-old-peace-expansion-revealed-a-perilous-trip-to-tau-unfolds-soon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Hunt for a Fundamental Theory of Quantum Gravity](https://www.wired.com/story/the-hunt-for-a-fundamental-theory-of-quantum-gravity/)
  - [Dallas-based iCounter, which uses AI to combat cyber risks, launches out of stealth from Apollo Information Systems with a $30M Series A led by SYN Ventures &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250720/p5#a250720p5)
  - [This Is the Commodore Comeback Fans Have Waited for—but the Odds Are Still Against It](https://www.wired.com/story/the-risky-business-of-bringing-commodore-back-to-life/)
  - [Your Recession FAQs Answered: 5 Tips to Help You Prepare, Not Panic](https://www.cnet.com/personal-finance/banking/your-recession-faqs-answered-5-tips-to-help-you-prepare-not-panic/#ftag=CAD590a51e)
- - [Anker Nebula X1 review: a terrific home theater that goes anywhere](https://www.theverge.com/reviews/707436/nebula-x1-review-best-portable-projector-price-specs)
- - [How YouTube became the most-watched video provider on TVs in the US, with creator content tailored for family and group viewing and app features enhanced for TV &lpar;Ben Fritz/Wall Street Journal&rpar;](http://www.techmeme.com/250720/p4#a250720p4)<!-- TECH:END -->
+ - [Anker Nebula X1 review: a terrific home theater that goes anywhere](https://www.theverge.com/reviews/707436/nebula-x1-review-best-portable-projector-price-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

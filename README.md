@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bling Bling](http://9gag.com/gag/aoynw93)
- - 😝 [A red light cant stop a retard](http://9gag.com/gag/aBy4BmD)
- - 💣 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)
- - 😝 [Death by HR](http://9gag.com/gag/a0eOq7B)
- - 👉 [Welp! Thats goodbye then](http://9gag.com/gag/aGy7QyX)<!-- MEMES:END -->
+ - 😝 [Time flies](http://9gag.com/gag/a0eOqgZ)
+ - 😝 [Nothing happened](http://9gag.com/gag/awyeW7B)
+ - 💣 [...](http://9gag.com/gag/aD2QvV9)
+ - 😝 [Make it stop](http://9gag.com/gag/abAR8gb)
+ - 👉 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)<!-- MEMES:END -->
 
 ---
 

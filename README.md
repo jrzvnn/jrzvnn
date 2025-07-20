@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The ancient greek strategy](http://9gag.com/gag/aGy75jX)
- - 😝 [Expect a bumpy landing](http://9gag.com/gag/a6ZG6jb)
- - 💣 [Found a green flag, then realized it&#39;s me now](http://9gag.com/gag/a4Pw0Q1)
- - 😝 [A very calm and measured response to a difficult situation](http://9gag.com/gag/aBy4egP)
- - 👉 [When you&#39;re the side character but also the main character](http://9gag.com/gag/aoynoow)<!-- MEMES:END -->
+ - 😝 [You shouldn&#39;t have made him reach for his wallet...](http://9gag.com/gag/ae9R83W)
+ - 😝 [Old is GOLD](http://9gag.com/gag/adBRDK9)
+ - 💣 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)
+ - 😝 [Volvo on an Autobahn](http://9gag.com/gag/a87Vxo1)
+ - 👉 [Antonela Romoleroux &lpar;a better angle&rpar;](http://9gag.com/gag/an7GPvV)<!-- MEMES:END -->
 
 ---
 

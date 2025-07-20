@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Old is GOLD](http://9gag.com/gag/adBRDK9)
- - 😝 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)
- - 💣 [Volvo on an Autobahn](http://9gag.com/gag/a87Vxo1)
- - 😝 [In Japan the deeper the bow the bigger the sign of respect.](http://9gag.com/gag/a9yDGWZ)
- - 👉 [Scary](http://9gag.com/gag/axymqyL)<!-- MEMES:END -->
+ - 😝 [Bling Bling](http://9gag.com/gag/aoynw93)
+ - 😝 [A red light cant stop a retard](http://9gag.com/gag/aBy4BmD)
+ - 💣 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)
+ - 😝 [Death by HR](http://9gag.com/gag/a0eOq7B)
+ - 👉 [Welp! Thats goodbye then](http://9gag.com/gag/aGy7QyX)<!-- MEMES:END -->
 
 ---
 

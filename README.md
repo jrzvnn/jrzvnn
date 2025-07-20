@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Mustafa Suleyman, who is in charge of Microsoft&#39;s efforts to commercialize AI, says he is focused on &quot;humanist superintelligence&quot; to solve hard social problems &lpar;Tim Higgins/Wall Street Journal&rpar;](http://www.techmeme.com/250720/p10#a250720p10)
- - [Best Internet Providers in Gilbert, Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-gilbert-az/#ftag=CAD590a51e)
- - [How UK Biobank, a government-backed cloud database of 1B+ medical images from 100,000+ participants, is fueling breakthroughs in AI-driven diagnostics &lpar;Bloomberg&rpar;](http://www.techmeme.com/250720/p9#a250720p9)
- - [Can Cortisol Supplements Really Lower Stress? I Asked the Experts](https://www.cnet.com/health/nutrition/best-cortisol-supplements/#ftag=CAD590a51e)
- - [M5 iPad Pro to gain dual front-facing cameras in late 2025](https://appleinsider.com/articles/25/07/20/m5-ipad-pro-to-gain-dual-front-facing-cameras-later-this-year?utm_source=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for July 21, #301](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-21-301/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 21, #771](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-21-771/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 21 #505](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-21-505/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for July 21, #1493](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-21-1493/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

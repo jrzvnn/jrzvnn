@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Thoughts on the foldable iPhone&#39;s prospects ahead of next year&#39;s launch; sources: Apple will add a second, portrait-side front-facing camera to the M5 iPad Pro &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250720/p7#a250720p7)
+ - [Best Nintendo Switch 2 Controllers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-nintendo-switch-2-controllers/)
+ - [The frenzied, gamified chase for Labubus](https://www.theverge.com/analysis/710047/labubu-pop-mart-blind-boxes-scarcity-marketing)
  - [Tim Cook&#39;s successor could be one of many Apple executives](https://appleinsider.com/articles/25/07/20/tim-cooks-successor-could-be-one-of-many-apple-executives?utm_source=rss)
- - [OpenAI&#39;s ChatGPT Agent System Card outlines how its red team helped implement key security features like &quot;Watch Mode Activation&quot; and &quot;Terminal Restrictions&quot; &lpar;Louis Columbus/VentureBeat&rpar;](http://www.techmeme.com/250720/p6#a250720p6)
- - [iPhone Fold will dominate the market despite &#39;late&#39; 2026 arrival](https://appleinsider.com/articles/25/07/20/iphone-fold-will-dominate-the-market-despite-late-2026-arrival?utm_source=rss)
- - [9 Best Coolers WIRED Tested for Every Budget, Any Situation](https://www.wired.com/gallery/best-coolers/)
- - [The intolerable memes of Alligator Alcatraz](https://www.theverge.com/policy/710015/alligator-alcatraz-ice-detention-memes-social-media)<!-- TECH:END -->
+ - [OpenAI&#39;s ChatGPT Agent System Card outlines how its red team helped implement key security features like &quot;Watch Mode Activation&quot; and &quot;Terminal Restrictions&quot; &lpar;Louis Columbus/VentureBeat&rpar;](http://www.techmeme.com/250720/p6#a250720p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

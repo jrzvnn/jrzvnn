@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bling Bling](http://9gag.com/gag/aoynw93)
- - 😝 [Happy international BSOD day! 19.07.2024, never forget!](http://9gag.com/gag/a0eOqLn)
- - 💣 [Vietnamese Nail Salon](http://9gag.com/gag/a4Pwywd)
- - 😝 [Welp! Thats goodbye then](http://9gag.com/gag/aGy7QyX)
- - 👉 [Yes](http://9gag.com/gag/an7Go7L)<!-- MEMES:END -->
+ - 😝 [Make it stop](http://9gag.com/gag/abAR8gb)
+ - 😝 [...](http://9gag.com/gag/aYQR5GO)
+ - 💣 [Nothing happened](http://9gag.com/gag/awyeW7B)
+ - 😝 [Think your country has inflation? Turkey\u2019s 15-year inflation: 5031%](http://9gag.com/gag/aZZRYp6)
+ - 👉 [A red light cant stop a retard](http://9gag.com/gag/aBy4BmD)<!-- MEMES:END -->
 
 ---
 

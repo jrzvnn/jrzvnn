@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Christina Applegate &amp; David Faustino on his birthday, 1992](http://9gag.com/gag/aqyDo3Y)
- - 😝 [...](http://9gag.com/gag/aD2QvV9)
- - 💣 [Thanks for the chair. I started getting tired looking at her cry](http://9gag.com/gag/a5Q5O6V)
- - 😝 [When you accidentally read a spoiler](http://9gag.com/gag/agmKDK1)
- - 👉 [`Leave her alone, creep!`](http://9gag.com/gag/a4Pw05m)<!-- MEMES:END -->
+ - 😝 [We&#39;re a bunch of degenerates and we love it](http://9gag.com/gag/aGy7QEX)
+ - 😝 [Here we go again](http://9gag.com/gag/abAR81E)
+ - 💣 [Imma eat dis](http://9gag.com/gag/an7GPAB)
+ - 😝 [`Leave her alone, creep!`](http://9gag.com/gag/a4Pw05m)
+ - 👉 [...](http://9gag.com/gag/aD2QvV9)<!-- MEMES:END -->
 
 ---
 

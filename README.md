@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sales engineer making an appearance](http://9gag.com/gag/abARnjB)
- - 😝 [Shady repair shop trying to take advantage of a naive Karen](http://9gag.com/gag/azx4W1p)
- - 💣 [Nothing happened](http://9gag.com/gag/awyeW7B)
- - 😝 [...](http://9gag.com/gag/aD2QvV9)
- - 👉 [I think these players wanted pay what they owed up NBA](http://9gag.com/gag/a34NX9e)<!-- MEMES:END -->
+ - 😝 [The reason i got in the Internet](http://9gag.com/gag/avy9Myq)
+ - 😝 [Coldplay Kiss Cam...](http://9gag.com/gag/aW4RXE3)
+ - 💣 [I think these players wanted pay what they owed up NBA](http://9gag.com/gag/a34NX9e)
+ - 😝 [Antonela Romoleroux &lpar;a better angle&rpar;](http://9gag.com/gag/an7GPvV)
+ - 👉 [Got you bro](http://9gag.com/gag/a9yDxyZ)<!-- MEMES:END -->
 
 ---
 

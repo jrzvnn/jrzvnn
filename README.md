@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Welcome to the jungle](http://9gag.com/gag/a0eOqPn)
+ - 😝 [Bling Bling](http://9gag.com/gag/aoynw93)
+ - 😝 [Happy international BSOD day! 19.07.2024, never forget!](http://9gag.com/gag/a0eOqLn)
+ - 💣 [Vietnamese Nail Salon](http://9gag.com/gag/a4Pwywd)
  - 😝 [Welp! Thats goodbye then](http://9gag.com/gag/aGy7QyX)
- - 💣 [...](http://9gag.com/gag/aYQR5GO)
- - 😝 [Those damn Gen-Z twerps](http://9gag.com/gag/ayNvw4Y)
- - 👉 [Witnessing karma like...](http://9gag.com/gag/axymqz2)<!-- MEMES:END -->
+ - 👉 [Yes](http://9gag.com/gag/an7Go7L)<!-- MEMES:END -->
 
 ---
 

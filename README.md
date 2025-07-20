@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the UK may backtrack on its January order for Apple to create a backdoor for iCloud encrypted data after pressure from US officials, including JD Vance &lpar;Financial Times&rpar;](http://www.techmeme.com/250720/p12#a250720p12)
+ - [A 0-day flaw in Microsoft SharePoint is being exploited in RCE attacks on servers globally; no patch exists and tens of thousands of servers are at risk &lpar;Washington Post&rpar;](http://www.techmeme.com/250720/p11#a250720p11)
  - [Mustafa Suleyman, who is in charge of Microsoft&#39;s efforts to commercialize AI, says he is focused on &quot;humanist superintelligence&quot; to solve hard social problems &lpar;Tim Higgins/Wall Street Journal&rpar;](http://www.techmeme.com/250720/p10#a250720p10)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for July 21, #301](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-21-301/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 21, #771](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-21-771/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 21 #505](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-21-505/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for July 21, #1493](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-21-1493/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 21, #771](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-21-771/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

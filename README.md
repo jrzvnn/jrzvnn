@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Volvo on an Autobahn](http://9gag.com/gag/a87Vxo1)
- - 😝 [Dang this is good](http://9gag.com/gag/aXPR6e9)
- - 💣 [In Japan the deeper the bow the bigger the sign of respect.](http://9gag.com/gag/a9yDGWZ)
- - 😝 [When someone asks what parenting is like...](http://9gag.com/gag/aLnWEPV)
- - 👉 [Scary](http://9gag.com/gag/axymqyL)<!-- MEMES:END -->
+ - 😝 [Wemen, am I right ?](http://9gag.com/gag/a5Q5YwN)
+ - 😝 [I think these players wanted pay what they owed up NBA](http://9gag.com/gag/a34NX9e)
+ - 💣 [Time flies](http://9gag.com/gag/a0eOqgZ)
+ - 😝 [Make it stop](http://9gag.com/gag/abAR8gb)
+ - 👉 [An expensive lesson](http://9gag.com/gag/a34Nr51)<!-- MEMES:END -->
 
 ---
 

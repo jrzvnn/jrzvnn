@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon’s Fire Tablets, Tested, So You Don’t Have To &lpar;2025&rpar;](https://www.wired.com/gallery/best-amazon-fire-tablet/)
+ - [I asked Alexa Plus to tackle my to-do list — it mostly failed](https://www.theverge.com/hands-on/710035/amazon-alexa-plus-ai-agent-features-hands-on)
+ - [The Switch 2’s next killer app is already here](https://www.theverge.com/installer-newsletter/710157/donkey-kong-bananza-openai-chatgpt-agent-installer)
  - [How to Limit Galaxy AI to On-Device Processing—or Turn It Off Altogether](https://www.wired.com/story/limit-galaxy-ai-to-on-device-processing-or-turn-it-off/)
- - [The Hunt for a Fundamental Theory of Quantum Gravity](https://www.wired.com/story/the-hunt-for-a-fundamental-theory-of-quantum-gravity/)
- - [Dallas-based iCounter, which uses AI to combat cyber risks, launches out of stealth from Apollo Information Systems with a $30M Series A led by SYN Ventures &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250720/p5#a250720p5)
- - [What Makes Cheap Earbuds a Real Value? Here&#39;s How I Find the Hidden Gems](https://www.cnet.com/tech/mobile/features/what-makes-cheap-earbuds-a-real-value-heres-how-i-find-the-hidden-gems/#ftag=CAD590a51e)
- - [Get Ready for These New Emoji, Which Are Coming Out This Fall](https://www.cnet.com/tech/services-and-software/get-ready-for-these-new-emoji-which-are-coming-out-this-fall/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Xbox Game Pass Adds Grounded 2 and Others This Month](https://www.cnet.com/tech/gaming/xbox-game-pass-adds-ground-2-and-others-this-month/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [At the 2025 RISC-V Summit in China, Nvidia says CUDA will now be compatible with RISC-V&#39;s instruction set architecture, making RISC-V a viable x86 and Arm rival &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250721/p4#a250721p4)
- - [WhatsApp is dropping its native Windows app in favor of an uglier web version](https://www.theverge.com/news/710509/whatsapp-windows-app-web-wrapper-changes)
- - [X says France has launched a criminal investigation over &quot;the alleged manipulation of its algorithm&quot; and &quot;fraudulent&quot; data extraction; X denies the allegations &lpar;Financial Times&rpar;](http://www.techmeme.com/250721/p3#a250721p3)
- - [Microsoft SharePoint servers are under attack because of a major security flaw](https://www.theverge.com/news/710513/microsoft-sharepoint-server-attack-zero-day-exploit)
- - [UK wants to weasel out of demand for Apple encryption back door](https://www.theverge.com/news/710504/uk-apple-encryption-back-door-icloud-adp-backing-down)<!-- TECH:END -->
+ - [UK will back down over its demands on Apple for an encryption backdoor](https://appleinsider.com/articles/25/07/21/uk-will-back-down-over-its-demands-on-apple-for-an-encryption-backdoor?utm_source=rss)
+ - [TSMC closed above a $1T market cap in Taiwan on July 18, a first, up nearly 50% from an April low and the first Asian stock worth $1T+ since PetroChina in 2007 &lpar;Jeanny Yu/Bloomberg&rpar;](http://www.techmeme.com/250721/p5#a250721p5)
+ - [Beyond Wellness](https://www.wired.com/beyond-wellness/)
+ - [Bryan Johnson Is Going to Die](https://www.wired.com/story/big-interview-bryan-johnson/)
+ - [A Head-to-Toe Breakdown of Social Media’s Billion-Dollar Remedies](https://www.wired.com/story/head-to-toe-wellness-influencers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

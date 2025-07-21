@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In her first note to staff, OpenAI&#39;s incoming CEO of Applications, Fidji Simo, lays out an optimistic vision for how AI will change the world &lpar;Kylie Robison/Wired&rpar;](http://www.techmeme.com/250721/p21#a250721p21)
  - [Apple mistakingly sent out the macOS Tahoe public beta, now pulled](https://appleinsider.com/articles/25/07/21/apple-mistakingly-sent-out-the-macos-tahoe-public-beta-now-pulled?utm_source=rss)
  - [Sony’s gamer-friendly X90L TV is on sale for a new low price](https://www.theverge.com/tech/710727/sony-x90l-4k-tv-jbl-partybox-710-speaker-deal-sale)
  - [Google reveals the design of the Pixel 10 a few weeks ahead of the launch event; it strongly resembles the Pixel 9 but has a third back camera &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250721/p20#a250721p20)
- - [Faraday Future is back with another wild EV that probably will never get made](https://www.theverge.com/electric-cars/711000/faraday-future-fx-van-reveal-ai-face-grille)
- - [Google solves its Pixel 10 leaks by just showing us the phone](https://www.theverge.com/news/711033/google-pixel-10-design-tease-reveal)<!-- TECH:END -->
+ - [Faraday Future is back with another wild EV that probably will never get made](https://www.theverge.com/electric-cars/711000/faraday-future-fx-van-reveal-ai-face-grille)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

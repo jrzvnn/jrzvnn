@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jack Nicholson finding out his sister is his mom](http://9gag.com/gag/aRBRqpQ)
- - 😝 [Who remembers? The spitting on his arm, stalling the engine, the friend losing it in the backseat, absolute cinema](http://9gag.com/gag/aE0ZmbM)
- - 💣 [Made me chuckle](http://9gag.com/gag/an7G6Xo)
- - 😝 [It&#39;s secret](http://9gag.com/gag/aVvRAKO)
- - 👉 [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)<!-- MEMES:END -->
+ - 😝 [Thats how you handle it](http://9gag.com/gag/a7onQ3w)
+ - 😝 [Dumping my meme collection to celebrate 5000 days - 02](http://9gag.com/gag/a34NmgQ)
+ - 💣 [Another satisfied client](http://9gag.com/gag/a7onQMw)
+ - 😝 [Piertotum Locomotor](http://9gag.com/gag/a7onYvm)
+ - 👉 [She is doing some good work.. it seems like that](http://9gag.com/gag/aBy4pqO)<!-- MEMES:END -->
 
 ---
 

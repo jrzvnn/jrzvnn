@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Oracle is in talks with Skydance for a $100M/year deal for Paramount to use Oracle&#39;s cloud software if the Skydance-Paramount merger goes through &lpar;Bloomberg&rpar;](http://www.techmeme.com/250721/p26#a250721p26)
  - [Citizen will share crime videos with the NYPD](https://www.theverge.com/news/711146/citizen-app-nyc-verified-partners-alerts-surveillance)
  - [Sources: Stargate has struggled to get off the ground and sharply scaled back its near-term plans, as SoftBank and OpenAI disagree on crucial terms of the deal &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250721/p25#a250721p25)
  - [EPA Employees Still in the Dark as Agency Dismantles Scientific Research Office](https://www.wired.com/story/epa-employees-still-in-the-dark-as-agency-dismantles-scientific-research-office/)
- - [NXP Q2 revenue fell 6.4% YoY to $2.93B, vs $2.90B est.; revenue from its communication and infrastructure segment fell 27% YoY to $320M in the quarter &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/250721/p24#a250721p24)
- - [Researchers: at least 750 US hospitals faced disruptions on the day of last year&#39;s big CrowdStrike outage, and 200+ had outages related to patient care services &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/250721/p23#a250721p23)<!-- TECH:END -->
+ - [NXP Q2 revenue fell 6.4% YoY to $2.93B, vs $2.90B est.; revenue from its communication and infrastructure segment fell 27% YoY to $320M in the quarter &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/250721/p24#a250721p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

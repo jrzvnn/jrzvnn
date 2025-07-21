@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The mystery of life expectancy solved](http://9gag.com/gag/azx4njK)
  - 😝 [Le chef](http://9gag.com/gag/aD2QKBd)
+ - 😝 [The mystery of life expectancy solved](http://9gag.com/gag/azx4njK)
  - 💣 [Hell yeah, fly high free bird.](http://9gag.com/gag/aXPRyKb)
- - 😝 [Another satisfied client](http://9gag.com/gag/a7onQMw)
- - 👉 [Thanks for the chair. I started getting tired looking at her cry](http://9gag.com/gag/a5Q5O6V)<!-- MEMES:END -->
+ - 😝 [Thanks for the chair. I started getting tired looking at her cry](http://9gag.com/gag/a5Q5O6V)
+ - 👉 [Another satisfied client](http://9gag.com/gag/a7onQMw)<!-- MEMES:END -->
 
 ---
 

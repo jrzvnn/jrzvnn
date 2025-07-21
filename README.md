@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Zenn Fappist](http://9gag.com/gag/aqyDoxR)
- - 😝 [It happened again. Humanoid robot went rogue, caught on camera.](http://9gag.com/gag/aoynvvg)
- - 💣 [Nietzsche wrote about this](http://9gag.com/gag/ajPRzbw)
- - 😝 [That was a close call](http://9gag.com/gag/a87VZ01)
+ - 😝 [Old is GOLD](http://9gag.com/gag/adBRDK9)
+ - 😝 [Thanks for the chair. I started getting tired looking at her cry](http://9gag.com/gag/a5Q5O6V)
+ - 💣 [That\u2019s a weird looking sti\u2026](http://9gag.com/gag/a7onRPb)
+ - 😝 [Stick into...](http://9gag.com/gag/aGy7m1n)
  - 👉 [Never donate clothes or money](http://9gag.com/gag/a2vOeN9)<!-- MEMES:END -->
 
 ---

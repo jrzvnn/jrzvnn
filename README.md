@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Antonela Romoleroux &lpar;a better angle&rpar;](http://9gag.com/gag/an7GPvV)
- - 😝 [The reason i got in the Internet](http://9gag.com/gag/avy9Myq)
- - 💣 [Fountain in Poland designed by M. Chodakowska](http://9gag.com/gag/a5Q50wG)
- - 😝 [She touches the Ball 4 times without it hitting the ground...](http://9gag.com/gag/aBy4B3O)
- - 👉 [Got you bro](http://9gag.com/gag/a9yDxyZ)<!-- MEMES:END -->
+ - 😝 [Nothing happened](http://9gag.com/gag/awyeW7B)
+ - 😝 [`Leave her alone, creep!`](http://9gag.com/gag/a4Pw05m)
+ - 💣 [Macallan](http://9gag.com/gag/ajPR471)
+ - 😝 [It happened again. Humanoid robot went rogue, caught on camera.](http://9gag.com/gag/aoynvvg)
+ - 👉 [Yes](http://9gag.com/gag/an7Go7L)<!-- MEMES:END -->
 
 ---
 

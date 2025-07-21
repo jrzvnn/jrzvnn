@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Le chef](http://9gag.com/gag/aD2QKBd)
- - 😝 [The mystery of life expectancy solved](http://9gag.com/gag/azx4njK)
- - 💣 [Hell yeah, fly high free bird.](http://9gag.com/gag/aXPRyKb)
- - 😝 [Thanks for the chair. I started getting tired looking at her cry](http://9gag.com/gag/a5Q5O6V)
- - 👉 [Another satisfied client](http://9gag.com/gag/a7onQMw)<!-- MEMES:END -->
+ - 😝 [In 1985, an austrian man already told us how to deal with airplane karens](http://9gag.com/gag/a87VZdV)
+ - 😝 [Mom said no playing outside for you](http://9gag.com/gag/aVvRpPn)
+ - 💣 [Jack Nicholson finding out his sister is his mom](http://9gag.com/gag/aRBRqpQ)
+ - 😝 [Nothing happened](http://9gag.com/gag/awyeW7B)
+ - 👉 [Nietzsche wrote about this](http://9gag.com/gag/ajPRzbw)<!-- MEMES:END -->
 
 ---
 

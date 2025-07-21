@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never donate clothes or money](http://9gag.com/gag/a2vOeN9)
+ - 😝 [That\u2019s a weird looking sti\u2026](http://9gag.com/gag/a7onRPb)
  - 😝 [It happened again. Humanoid robot went rogue, caught on camera.](http://9gag.com/gag/aoynvvg)
- - 💣 [Stick into...](http://9gag.com/gag/aGy7m1n)
- - 😝 [That was a close call](http://9gag.com/gag/a87VZ01)
- - 👉 [Thanks for the chair. I started getting tired looking at her cry](http://9gag.com/gag/a5Q5O6V)<!-- MEMES:END -->
+ - 💣 [Thanks for the chair. I started getting tired looking at her cry](http://9gag.com/gag/a5Q5O6V)
+ - 😝 [Realistic Disney Moments](https://www.reddit.com/r/funny/comments/1m5o0mb/realistic_disney_moments/)
+ - 👉 [Made me chuckle](http://9gag.com/gag/an7G6Xo)<!-- MEMES:END -->
 
 ---
 

@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Nietzsche wrote about this](http://9gag.com/gag/ajPRzbw)
- - 😝 [From my archive #1](http://9gag.com/gag/a87VRmZ)
- - 💣 [Step.hanie](http://9gag.com/gag/aBy4B9Q)
- - 😝 [Stick into...](http://9gag.com/gag/aGy7m1n)
+ - 😝 [Never donate clothes or money](http://9gag.com/gag/a2vOeN9)
+ - 💣 [`Leave her alone, creep!`](http://9gag.com/gag/a4Pw05m)
+ - 😝 [It happened again. Humanoid robot went rogue, caught on camera.](http://9gag.com/gag/aoynvvg)
  - 👉 [Bryce Dallas Howard](http://9gag.com/gag/a0eO36d)<!-- MEMES:END -->
 
 ---

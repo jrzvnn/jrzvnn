@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nietzsche wrote about this](http://9gag.com/gag/ajPRzbw)
- - 😝 [Never donate clothes or money](http://9gag.com/gag/a2vOeN9)
- - 💣 [`Leave her alone, creep!`](http://9gag.com/gag/a4Pw05m)
- - 😝 [It happened again. Humanoid robot went rogue, caught on camera.](http://9gag.com/gag/aoynvvg)
- - 👉 [Bryce Dallas Howard](http://9gag.com/gag/a0eO36d)<!-- MEMES:END -->
+ - 😝 [It&#39;s become an acquired skill at this point](http://9gag.com/gag/a7onYgx)
+ - 😝 [Fountain in Poland designed by M. Chodakowska](http://9gag.com/gag/a5Q50wG)
+ - 💣 [She touches the Ball 4 times without it hitting the ground...](http://9gag.com/gag/aBy4B3O)
+ - 😝 [Got you bro](http://9gag.com/gag/a9yDxyZ)
+ - 👉 [Never donate clothes or money](http://9gag.com/gag/a2vOeN9)<!-- MEMES:END -->
 
 ---
 

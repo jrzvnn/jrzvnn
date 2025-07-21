@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jack Nicholson finding out his sister is his mom](http://9gag.com/gag/aRBRqpQ)
- - 😝 [I love japan](http://9gag.com/gag/aQzyWYz)
- - 💣 [Who remembers? The spitting on his arm, stalling the engine, the friend losing it in the backseat, absolute cinema](http://9gag.com/gag/aE0ZmbM)
- - 😝 [Thanks for the chair. I started getting tired looking at her cry](http://9gag.com/gag/a5Q5O6V)
- - 👉 [It happened again. Humanoid robot went rogue, caught on camera.](http://9gag.com/gag/aoynvvg)<!-- MEMES:END -->
+ - 😝 [Zenn Fappist](http://9gag.com/gag/aqyDoxR)
+ - 😝 [It happened again. Humanoid robot went rogue, caught on camera.](http://9gag.com/gag/aoynvvg)
+ - 💣 [Nietzsche wrote about this](http://9gag.com/gag/ajPRzbw)
+ - 😝 [That was a close call](http://9gag.com/gag/a87VZ01)
+ - 👉 [Never donate clothes or money](http://9gag.com/gag/a2vOeN9)<!-- MEMES:END -->
 
 ---
 

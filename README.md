@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dating apps are encouraging users to meet in person to address concerns about &quot;dating fatigue&quot; among Gen Z and reverse a post-pandemic slowdown in growth &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/250720/p14#a250720p14)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, July 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-july-21/#ftag=CAD590a51e)
  - [A look at the video podcasting surge; study: ~75% of podcast consumers play video episodes and ~30% play video episodes minimized or in background mode &lpar;Joseph Bernstein/New York Times&rpar;](http://www.techmeme.com/250720/p13#a250720p13)
  - [Price war: Save up to $480 on M4 16-inch MacBook Pro, prices from $2,209](https://appleinsider.com/articles/25/07/20/price-war-save-up-to-480-on-m4-16-inch-macbook-pro-prices-from-2209?utm_source=rss)
- - [Sources: the UK may backtrack on its January order for Apple to create a backdoor for iCloud encrypted data after pressure from US officials, including JD Vance &lpar;Financial Times&rpar;](http://www.techmeme.com/250720/p12#a250720p12)
- - [A 0-day flaw in Microsoft SharePoint is being exploited in RCE attacks on servers globally; no patch exists and tens of thousands of servers are at risk &lpar;Washington Post&rpar;](http://www.techmeme.com/250720/p11#a250720p11)
- - [Mustafa Suleyman, who is in charge of Microsoft&#39;s efforts to commercialize AI, says he is focused on &quot;humanist superintelligence&quot; to solve hard social problems &lpar;Tim Higgins/Wall Street Journal&rpar;](http://www.techmeme.com/250720/p10#a250720p10)<!-- TECH:END -->
+ - [Sources: the UK may backtrack on its January order for Apple to create a backdoor for iCloud encrypted data after pressure from US officials, including JD Vance &lpar;Financial Times&rpar;](http://www.techmeme.com/250720/p12#a250720p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

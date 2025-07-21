@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nothing happened](http://9gag.com/gag/awyeW7B)
+ - 😝 [Jack Nicholson finding out his sister is his mom](http://9gag.com/gag/aRBRqpQ)
  - 😝 [`Leave her alone, creep!`](http://9gag.com/gag/a4Pw05m)
- - 💣 [Macallan](http://9gag.com/gag/ajPR471)
- - 😝 [It happened again. Humanoid robot went rogue, caught on camera.](http://9gag.com/gag/aoynvvg)
- - 👉 [Yes](http://9gag.com/gag/an7Go7L)<!-- MEMES:END -->
+ - 💣 [Compassionate therapist tries his best to help a young woman in trouble](http://9gag.com/gag/avy9MVX)
+ - 😝 [That\u2019s a weird looking sti\u2026](http://9gag.com/gag/a7onRPb)
+ - 👉 [Bryce Dallas Howard](http://9gag.com/gag/a0eO36d)<!-- MEMES:END -->
 
 ---
 

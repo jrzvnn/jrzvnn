@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple seeds release candidates for iOS 18.6, iPadOS 18.6, macOS Sequoia 15.6](https://appleinsider.com/articles/25/07/21/apple-seeds-release-candidates-for-ios-186-ipados-186-macos-sequoia-156?utm_source=rss)
+ - [Instacart’s former CEO is taking the reins of a big chunk of OpenAI](https://www.theverge.com/openai/710836/instacarts-former-ceo-is-taking-the-reins-of-a-big-chunk-of-openai)
  - [Morgan Stanley upbeat about Apple&#39;s Q3 fortunes in spite of tariff troubles](https://appleinsider.com/articles/25/07/21/morgan-stanley-upbeat-about-apples-q3-fortunes-in-spite-of-tariff-troubles?utm_source=rss)
- - [Chrome will let you switch between personal and work accounts on iOS](https://www.theverge.com/news/710582/chrome-ios-personal-work-profile-account-switching-google)
- - [Google&amp;#8217;s leaked Pixel 10 images confirm a third camera](https://www.theverge.com/news/710809/google-pixel-10-leaked-official-renders-third-telephoto-camera)
- - [What’s Behind Gen Z’s Sex Recession?](https://www.wired.com/story/uncanny-valley-podcast-whats-behind-gen-zs-sex-recession/)
- - [How WIRED Analyzed the Epstein Video](https://www.wired.com/story/uncanny-valley-podcast-how-wired-analyzed-the-epstein-video/)<!-- TECH:END -->
+ - [OpenAI&#39;s New CEO of Applications Strikes Hyper-Optimistic Tone in First Memo to Staff](https://www.wired.com/story/openai-fidji-simo-note-employees/)
+ - [Chrome will let you switch between personal and work accounts on iOS](https://www.theverge.com/news/710582/chrome-ios-personal-work-profile-account-switching-google)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

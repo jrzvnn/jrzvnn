@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers: at least 750 US hospitals faced disruptions on the day of last year&#39;s big CrowdStrike outage, and 200+ had outages related to patient care services &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/250721/p23#a250721p23)
+ - [Tesla&amp;#8217;s long-delayed 1950s-inspired diner and charging location is finally opening](https://www.theverge.com/news/711131/tesla-diner-charging-elon-musk)
  - [Source: Netflix is using Runway AI&#39;s video generation tools for production; Disney is testing out the tools and talked with Runway about possible uses for them &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250721/p22#a250721p22)
- - [In her first note to staff, OpenAI&#39;s incoming CEO of Applications, Fidji Simo, lays out an optimistic vision for how AI will change the world &lpar;Kylie Robison/Wired&rpar;](http://www.techmeme.com/250721/p21#a250721p21)
- - [Apple mistakingly sent out the macOS Tahoe public beta, now pulled](https://appleinsider.com/articles/25/07/21/apple-mistakingly-sent-out-the-macos-tahoe-public-beta-now-pulled?utm_source=rss)
- - [Sony’s gamer-friendly X90L TV is on sale for a new low price](https://www.theverge.com/tech/710727/sony-x90l-4k-tv-jbl-partybox-710-speaker-deal-sale)
- - [Google reveals the design of the Pixel 10 a few weeks ahead of the launch event; it strongly resembles the Pixel 9 but has a third back camera &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250721/p20#a250721p20)<!-- TECH:END -->
+ - [Google Teases Pixel 10 Ahead of August Reveal](https://www.cnet.com/tech/mobile/google-teases-pixel-10-ahead-of-august-reveal/#ftag=CAD590a51e)
+ - [In her first note to staff, OpenAI&#39;s incoming CEO of Applications, Fidji Simo, lays out an optimistic vision for how AI will change the world &lpar;Kylie Robison/Wired&rpar;](http://www.techmeme.com/250721/p21#a250721p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

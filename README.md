@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thats how you handle it](http://9gag.com/gag/a7onQ3w)
- - 😝 [Dumping my meme collection to celebrate 5000 days - 02](http://9gag.com/gag/a34NmgQ)
- - 💣 [Another satisfied client](http://9gag.com/gag/a7onQMw)
- - 😝 [Piertotum Locomotor](http://9gag.com/gag/a7onYvm)
- - 👉 [She is doing some good work.. it seems like that](http://9gag.com/gag/aBy4pqO)<!-- MEMES:END -->
+ - 😝 [Made me chuckle](http://9gag.com/gag/an7G6Xo)
+ - 😝 [It happened again. Humanoid robot went rogue, caught on camera.](http://9gag.com/gag/aoynvvg)
+ - 💣 [That was a close call](http://9gag.com/gag/a87VZ01)
+ - 😝 [Bro singlehandedly saved his gene pool](http://9gag.com/gag/aQzyGA2)
+ - 👉 [Who remembers? The spitting on his arm, stalling the engine, the friend losing it in the backseat, absolute cinema](http://9gag.com/gag/aE0ZmbM)<!-- MEMES:END -->
 
 ---
 

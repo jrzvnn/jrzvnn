@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI says ChatGPT users send over 2.5 billion prompts every day](https://www.theverge.com/news/710867/openai-chatgpt-daily-prompts-2-billion)
  - [Apple seeds release candidates for iOS 18.6, iPadOS 18.6, macOS Sequoia 15.6](https://appleinsider.com/articles/25/07/21/apple-seeds-release-candidates-for-ios-186-ipados-186-macos-sequoia-156?utm_source=rss)
  - [Instacart’s former CEO is taking the reins of a big chunk of OpenAI](https://www.theverge.com/openai/710836/instacarts-former-ceo-is-taking-the-reins-of-a-big-chunk-of-openai)
  - [Morgan Stanley upbeat about Apple&#39;s Q3 fortunes in spite of tariff troubles](https://appleinsider.com/articles/25/07/21/morgan-stanley-upbeat-about-apples-q3-fortunes-in-spite-of-tariff-troubles?utm_source=rss)
- - [OpenAI&#39;s New CEO of Applications Strikes Hyper-Optimistic Tone in First Memo to Staff](https://www.wired.com/story/openai-fidji-simo-note-employees/)
- - [Chrome will let you switch between personal and work accounts on iOS](https://www.theverge.com/news/710582/chrome-ios-personal-work-profile-account-switching-google)<!-- TECH:END -->
+ - [OpenAI&#39;s New CEO of Applications Strikes Hyper-Optimistic Tone in First Memo to Staff](https://www.wired.com/story/openai-fidji-simo-note-employees/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

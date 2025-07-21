@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who remembers? The spitting on his arm, stalling the engine, the friend losing it in the backseat, absolute cinema](http://9gag.com/gag/aE0ZmbM)
- - 😝 [I think these players wanted pay what they owed up NBA](http://9gag.com/gag/a34NX9e)
- - 💣 [Step.hanie](http://9gag.com/gag/aBy4B9Q)
- - 😝 [Nietzsche wrote about this](http://9gag.com/gag/ajPRzbw)
- - 👉 [Sunbath india](http://9gag.com/gag/adBRz2d)<!-- MEMES:END -->
+ - 😝 [Fountain in Poland designed by M. Chodakowska](http://9gag.com/gag/a5Q50wG)
+ - 😝 [It&#39;s become an acquired skill at this point](http://9gag.com/gag/a7onYgx)
+ - 💣 [She touches the Ball 4 times without it hitting the ground...](http://9gag.com/gag/aBy4B3O)
+ - 😝 [Got you bro](http://9gag.com/gag/a9yDxyZ)
+ - 👉 [Hell yeah, fly high free bird.](http://9gag.com/gag/aXPRyKb)<!-- MEMES:END -->
 
 ---
 

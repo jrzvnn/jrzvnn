@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [At the 2025 RISC-V Summit in China, Nvidia says CUDA will now be compatible with RISC-V&#39;s instruction set architecture, making RISC-V a viable x86 and Arm rival &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250721/p4#a250721p4)
+ - [WhatsApp is dropping its native Windows app in favor of an uglier web version](https://www.theverge.com/news/710509/whatsapp-windows-app-web-wrapper-changes)
  - [X says France has launched a criminal investigation over &quot;the alleged manipulation of its algorithm&quot; and &quot;fraudulent&quot; data extraction; X denies the allegations &lpar;Financial Times&rpar;](http://www.techmeme.com/250721/p3#a250721p3)
  - [Microsoft SharePoint servers are under attack because of a major security flaw](https://www.theverge.com/news/710513/microsoft-sharepoint-server-attack-zero-day-exploit)
- - [UK wants to weasel out of demand for Apple encryption back door](https://www.theverge.com/news/710504/uk-apple-encryption-back-door-icloud-adp-backing-down)
- - [Survey: when asked about using AI as a companion to seek advice, flirt, or share deep conversations, ~75% of US teens say they&#39;ve used AI this way at least once &lpar;Neda Ulaby/NPR&rpar;](http://www.techmeme.com/250721/p2#a250721p2)
- - [Microsoft releases a patch for a SharePoint 0-day RCE flaw exploited globally on thousands of on-prem servers and says SharePoint 2016 updates are in the works &lpar;Bloomberg&rpar;](http://www.techmeme.com/250721/p1#a250721p1)<!-- TECH:END -->
+ - [UK wants to weasel out of demand for Apple encryption back door](https://www.theverge.com/news/710504/uk-apple-encryption-back-door-icloud-adp-backing-down)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

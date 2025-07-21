@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Figma prices its shares at $25 and $28 each and plans to sell nearly 37M shares to raise up to $1.03B, giving it an up to $16.4B valuation in its NYSE debut &lpar;Niket Nishant/Reuters&rpar;](http://www.techmeme.com/250721/p11#a250721p11)
- - [Hisense U8QG TV Review: Beautifully Bright, Tough to Tame](https://www.wired.com/review/hisense-u8qg/)
- - [T-Mobile is bringing low-latency tech to 5G for the first time](https://www.theverge.com/news/710312/t-mobile-low-latency-l4s-5g)
- - [Apple Sports arrives in Mexico, adds UK&#39;s FA Cup](https://appleinsider.com/articles/25/07/21/apple-sports-arrives-in-mexico-adds-uks-fa-cup?utm_source=rss)
- - [Sony’s 30th Anniversary DualSense Controller is back in stock online at 10AM ET](https://www.theverge.com/tech/710545/playstation-30th-anniversary-dualsense-controller-restock)<!-- TECH:END -->
+ - [Microsoft SharePoint hacks a major problem for corporate networks, not Mac hardware](https://appleinsider.com/articles/25/07/21/microsoft-sharepoint-hacks-a-major-problem-for-corporate-networks-not-mac-hardware?utm_source=rss)
+ - [Our 9 Favorite Pizza Ovens: Wood, Gas, Electric, and Grill &lpar;2025&rpar;](https://www.wired.com/gallery/best-backyard-pizza-oven/)
+ - [Apple’s new iPad Pro could get another front-facing camera](https://www.theverge.com/news/710679/apple-ipad-pro-portrait-landscape-cameras-rumor)
+ - [Why tech billionaires want a ‘corporate dictatorship’](https://www.theverge.com/decoder-podcast-with-nilay-patel/707010/gil-duran-the-nerd-reich-tech-billionaires-authoritarianism-dictator)
+ - [Figma prices its shares at $25 and $28 each and plans to sell nearly 37M shares to raise up to $1.03B, giving it an up to $16.4B valuation in its NYSE debut &lpar;Niket Nishant/Reuters&rpar;](http://www.techmeme.com/250721/p11#a250721p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

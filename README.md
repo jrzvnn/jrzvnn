@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Deals: Apple&#39;s M4 Mac mini with 24GB RAM, 512GB SSD falls to $869](https://appleinsider.com/articles/25/07/21/deals-apples-m4-mac-mini-with-24gb-ram-512gb-ssd-falls-to-869?utm_source=rss)
+ - [Appfigures: xAI debuted Grok 4 late on July 9 and by July 11, Grok&#39;s gross revenue on iOS had risen 325% to $419K, up from $99K the day before Grok 4&#39;s launch &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250721/p18#a250721p18)
  - [Critics say tokenization, led by Robinhood, could undermine securities law and investor protections that have made the US financial system the envy of the world &lpar;Alan Suderman/Associated Press&rpar;](http://www.techmeme.com/250721/p17#a250721p17)
  - [Apple quietly adding video playback to CarPlay in iOS 26](https://appleinsider.com/articles/25/07/21/apple-quietly-adding-video-playback-to-carplay-in-ios-26?utm_source=rss)
- - [OpenAI says ChatGPT users send more than 2.5B prompts globally each day, more than 330M of those are in US, and the platform has 500M weekly active users &lpar;Mike Allen/Axios&rpar;](http://www.techmeme.com/250721/p16#a250721p16)
- - [Xbox cloud games will soon follow you across Xbox, PC, and Windows handhelds](https://www.theverge.com/news/710764/xbox-cloud-gaming-roaming-pc-console-play-history-feature)
- - [Apple insists its AI training is ethical and respects publishers](https://appleinsider.com/articles/25/07/21/apple-insists-its-ai-training-is-ethical-and-respects-publishers?utm_source=rss)<!-- TECH:END -->
+ - [OpenAI says ChatGPT users send more than 2.5B prompts globally each day, more than 330M of those are in US, and the platform has 500M weekly active users &lpar;Mike Allen/Axios&rpar;](http://www.techmeme.com/250721/p16#a250721p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

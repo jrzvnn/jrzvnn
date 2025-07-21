@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jack Nicholson finding out his sister is his mom](http://9gag.com/gag/aRBRqpQ)
- - 😝 [It happened again. Humanoid robot went rogue, caught on camera.](http://9gag.com/gag/aoynvvg)
- - 💣 [When you accidentally read a spoiler](http://9gag.com/gag/agmKDK1)
+ - 😝 [Compassionate therapist tries his best to help a young woman in trouble](http://9gag.com/gag/avy9MVX)
  - 😝 [From my archive #1](http://9gag.com/gag/a87VRmZ)
- - 👉 [Stick into...](http://9gag.com/gag/aGy7m1n)<!-- MEMES:END -->
+ - 💣 [Jack Nicholson finding out his sister is his mom](http://9gag.com/gag/aRBRqpQ)
+ - 😝 [Golf trick shot or magic](http://9gag.com/gag/an7G65b)
+ - 👉 [It happened again. Humanoid robot went rogue, caught on camera.](http://9gag.com/gag/aoynvvg)<!-- MEMES:END -->
 
 ---
 

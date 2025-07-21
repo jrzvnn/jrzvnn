@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That\u2019s a weird looking sti\u2026](http://9gag.com/gag/a7onRPb)
- - 😝 [It happened again. Humanoid robot went rogue, caught on camera.](http://9gag.com/gag/aoynvvg)
- - 💣 [Thanks for the chair. I started getting tired looking at her cry](http://9gag.com/gag/a5Q5O6V)
- - 😝 [Realistic Disney Moments](https://www.reddit.com/r/funny/comments/1m5o0mb/realistic_disney_moments/)
- - 👉 [Made me chuckle](http://9gag.com/gag/an7G6Xo)<!-- MEMES:END -->
+ - 😝 [Jack Nicholson finding out his sister is his mom](http://9gag.com/gag/aRBRqpQ)
+ - 😝 [Christina Applegate &amp; David Faustino on his birthday, 1992](http://9gag.com/gag/aqyDo3Y)
+ - 💣 [Who remembers? The spitting on his arm, stalling the engine, the friend losing it in the backseat, absolute cinema](http://9gag.com/gag/aE0ZmbM)
+ - 😝 [See comment section for the name of the dino](http://9gag.com/gag/aE0Z9Ax)
+ - 👉 [Imma eat dis](http://9gag.com/gag/an7GPAB)<!-- MEMES:END -->
 
 ---
 

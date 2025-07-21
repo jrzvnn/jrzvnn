@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Stargate has struggled to get off the ground and sharply scaled back its near-term plans, as SoftBank and OpenAI disagree on crucial terms of the deal &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250721/p25#a250721p25)
  - [EPA Employees Still in the Dark as Agency Dismantles Scientific Research Office](https://www.wired.com/story/epa-employees-still-in-the-dark-as-agency-dismantles-scientific-research-office/)
  - [NXP Q2 revenue fell 6.4% YoY to $2.93B, vs $2.90B est.; revenue from its communication and infrastructure segment fell 27% YoY to $320M in the quarter &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/250721/p24#a250721p24)
  - [Researchers: at least 750 US hospitals faced disruptions on the day of last year&#39;s big CrowdStrike outage, and 200+ had outages related to patient care services &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/250721/p23#a250721p23)
- - [Tesla&amp;#8217;s long-delayed 1950s-inspired diner and charging location is finally opening](https://www.theverge.com/news/711131/tesla-diner-charging-elon-musk)
- - [Source: Netflix is using Runway AI&#39;s video generation tools for production; Disney is testing out the tools and talked with Runway about possible uses for them &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250721/p22#a250721p22)<!-- TECH:END -->
+ - [Tesla&amp;#8217;s long-delayed 1950s-inspired diner and charging location is finally opening](https://www.theverge.com/news/711131/tesla-diner-charging-elon-musk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

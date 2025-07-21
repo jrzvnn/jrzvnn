@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says an advanced version of Gemini with Deep Think won gold at the International Mathematical Olympiad, solving 5 of 6 &quot;exceptionally difficult&quot; problems &lpar;Google DeepMind&rpar;](http://www.techmeme.com/250721/p19#a250721p19)
- - [Deals: Apple&#39;s M4 Mac mini with 24GB RAM, 512GB SSD falls to $869](https://appleinsider.com/articles/25/07/21/deals-apples-m4-mac-mini-with-24gb-ram-512gb-ssd-falls-to-869?utm_source=rss)
- - [Appfigures: xAI debuted Grok 4 late on July 9 and by July 11, Grok&#39;s gross revenue on iOS had risen 325% to $419K, up from $99K the day before Grok 4&#39;s launch &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250721/p18#a250721p18)
- - [Critics say tokenization, led by Robinhood, could undermine securities law and investor protections that have made the US financial system the envy of the world &lpar;Alan Suderman/Associated Press&rpar;](http://www.techmeme.com/250721/p17#a250721p17)
- - [Apple quietly adding video playback to CarPlay in iOS 26](https://appleinsider.com/articles/25/07/21/apple-quietly-adding-video-playback-to-carplay-in-ios-26?utm_source=rss)<!-- TECH:END -->
+ - [Morgan Stanley upbeat about Apple&#39;s Q3 fortunes in spite of tariff troubles](https://appleinsider.com/articles/25/07/21/morgan-stanley-upbeat-about-apples-q3-fortunes-in-spite-of-tariff-troubles?utm_source=rss)
+ - [Chrome will let you switch between personal and work accounts on iOS](https://www.theverge.com/news/710582/chrome-ios-personal-work-profile-account-switching-google)
+ - [Google&amp;#8217;s leaked Pixel 10 images confirm a third camera](https://www.theverge.com/news/710809/google-pixel-10-leaked-official-renders-third-telephoto-camera)
+ - [What’s Behind Gen Z’s Sex Recession?](https://www.wired.com/story/uncanny-valley-podcast-whats-behind-gen-zs-sex-recession/)
+ - [How WIRED Analyzed the Epstein Video](https://www.wired.com/story/uncanny-valley-podcast-how-wired-analyzed-the-epstein-video/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

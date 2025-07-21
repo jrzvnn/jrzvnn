@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft SharePoint hacks a major problem for corporate networks, not Mac hardware](https://appleinsider.com/articles/25/07/21/microsoft-sharepoint-hacks-a-major-problem-for-corporate-networks-not-mac-hardware?utm_source=rss)
- - [Our 9 Favorite Pizza Ovens: Wood, Gas, Electric, and Grill &lpar;2025&rpar;](https://www.wired.com/gallery/best-backyard-pizza-oven/)
- - [Apple’s new iPad Pro could get another front-facing camera](https://www.theverge.com/news/710679/apple-ipad-pro-portrait-landscape-cameras-rumor)
- - [Why tech billionaires want a ‘corporate dictatorship’](https://www.theverge.com/decoder-podcast-with-nilay-patel/707010/gil-duran-the-nerd-reich-tech-billionaires-authoritarianism-dictator)
- - [Figma prices its shares at $25 and $28 each and plans to sell nearly 37M shares to raise up to $1.03B, giving it an up to $16.4B valuation in its NYSE debut &lpar;Niket Nishant/Reuters&rpar;](http://www.techmeme.com/250721/p11#a250721p11)<!-- TECH:END -->
+ - [Polymarket says it is buying little-known derivatives exchange QCX, in a move to legally re-enter the US market; a source says Polymarket will pay $112M &lpar;Bloomberg&rpar;](http://www.techmeme.com/250721/p14#a250721p14)
+ - [How Apple made AI in iOS 26 more helpful &amp; more private](https://appleinsider.com/articles/25/07/21/how-apple-made-ai-in-ios-26-more-helpful-more-private?utm_source=rss)
+ - [T-Mobile plans to expand support for the L4S network standard in the coming weeks, helping high-priority internet packets move fast, a first for a US network &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250721/p13#a250721p13)
+ - [Tesla’s response to cratering sales? A deals blitz](https://www.theverge.com/news/710627/tesla-deal-discount-incentive-financing-fsd-free-trial)
+ - [This ‘violently racist’ hacker claims to be the source of The New York Times’ Mamdani scoop](https://www.theverge.com/cyber-security/710480/columbia-hacker-nazi-nyt-affirmative-action)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

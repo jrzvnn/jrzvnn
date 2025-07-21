@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dell confirms extortion group World Leaks breached its Solution Centers platform, used for demos, earlier in July, stealing mostly synthetic or public data &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250721/p9#a250721p9)
- - [Meta snubs the EU’s voluntary AI guidelines](https://www.theverge.com/news/710576/meta-eu-ai-act-code-of-practice-agreement)
- - [Blank check company Dynamix says it plans to merge with another entity to create Ether Machine, holding $1.5B in ether, backed by $800M+ from Kraken and others &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250721/p8#a250721p8)
- - [I Just Discovered a Travel Hack That Can Save You Time and Money on International Trips -- And It&#39;s Completely Free](https://www.cnet.com/tech/mobile/i-just-discovered-a-travel-hack-that-can-save-you-time-and-money-on-international-trips-and-its-completely-free/#ftag=CAD590a51e)
- - [Mark Zuckerberg Is Expanding His Secretive Hawaii Compound. Part of It Sits Atop a Burial Ground](https://www.wired.com/story/mark-zuckerberg-secretive-hawaii-compound-burial-ground/)<!-- TECH:END -->
+ - [Apple Sports arrives in Mexico, adds UK&#39;s FA Cup](https://appleinsider.com/articles/25/07/21/apple-sports-arrives-in-mexico-adds-uks-fa-cup?utm_source=rss)
+ - [Sony’s 30th Anniversary DualSense Controller is back in stock online at 10AM ET](https://www.theverge.com/tech/710545/playstation-30th-anniversary-dualsense-controller-restock)
+ - [iPhone Fold will dominate the market despite 2026 arrival](https://appleinsider.com/articles/25/07/20/iphone-fold-will-dominate-the-market-despite-late-2026-arrival?utm_source=rss)
+ - [Wemo&#39;s demise, Aqara G100 camera, &amp; smart chicken coop follow-up on HomeKit Insider](https://appleinsider.com/articles/25/07/21/wemos-demise-aqara-g100-camera-smart-chicken-coop-follow-up-on-homekit-insider?utm_source=rss)
+ - [One of these three Apple executives will probably be Tim Cook&#39;s replacement](https://appleinsider.com/articles/25/07/20/tim-cooks-successor-could-be-one-of-many-apple-executives?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

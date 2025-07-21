@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump&#39;s Commerce Secretary Loves Tariffs. His Former Investment Bank Is Taking Bets Against Them](https://www.wired.com/story/cantor-fitzgerald-trump-tariff-refunds/)
  - [&#39;Ted Lasso&#39; season 4 production commences in Kansas City](https://appleinsider.com/articles/25/07/21/ted-lasso-season-4-production-commences-in-kansas-city?utm_source=rss)
  - [OpenAI says ChatGPT users send over 2.5 billion prompts every day](https://www.theverge.com/news/710867/openai-chatgpt-daily-prompts-2-billion)
  - [Apple seeds release candidates for iOS 18.6, iPadOS 18.6, macOS Sequoia 15.6](https://appleinsider.com/articles/25/07/21/apple-seeds-release-candidates-for-ios-186-ipados-186-macos-sequoia-156?utm_source=rss)
- - [Instacart’s former CEO is taking the reins of a big chunk of OpenAI](https://www.theverge.com/openai/710836/instacarts-former-ceo-is-taking-the-reins-of-a-big-chunk-of-openai)
- - [Morgan Stanley upbeat about Apple&#39;s Q3 fortunes in spite of tariff troubles](https://appleinsider.com/articles/25/07/21/morgan-stanley-upbeat-about-apples-q3-fortunes-in-spite-of-tariff-troubles?utm_source=rss)<!-- TECH:END -->
+ - [Instacart’s CEO is about to take the reins of a big chunk of OpenAI](https://www.theverge.com/openai/710836/instacarts-former-ceo-is-taking-the-reins-of-a-big-chunk-of-openai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Denzel](http://9gag.com/gag/a4PwD9A)
  - 😝 [Jack Nicholson finding out his sister is his mom](http://9gag.com/gag/aRBRqpQ)
- - 😝 [That was a close call](http://9gag.com/gag/a87VZ01)
  - 💣 [Made me chuckle](http://9gag.com/gag/an7G6Xo)
- - 😝 [Title](http://9gag.com/gag/aE0Z9pM)
- - 👉 [See comment section for the name of the dino](http://9gag.com/gag/aE0Z9Ax)<!-- MEMES:END -->
+ - 😝 [Which Machine is this any one know???](http://9gag.com/gag/aZZRevn)
+ - 👉 [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)<!-- MEMES:END -->
 
 ---
 

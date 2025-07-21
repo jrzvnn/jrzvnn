@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Figma prices its shares at $25 and $28 each and plans to sell nearly 37M shares to raise up to $1.03B, giving it an up to $16.4B valuation in its NYSE debut &lpar;Niket Nishant/Reuters&rpar;](http://www.techmeme.com/250721/p11#a250721p11)
+ - [Hisense U8QG TV Review: Beautifully Bright, Tough to Tame](https://www.wired.com/review/hisense-u8qg/)
+ - [T-Mobile is bringing low-latency tech to 5G for the first time](https://www.theverge.com/news/710312/t-mobile-low-latency-l4s-5g)
  - [Apple Sports arrives in Mexico, adds UK&#39;s FA Cup](https://appleinsider.com/articles/25/07/21/apple-sports-arrives-in-mexico-adds-uks-fa-cup?utm_source=rss)
- - [Sony’s 30th Anniversary DualSense Controller is back in stock online at 10AM ET](https://www.theverge.com/tech/710545/playstation-30th-anniversary-dualsense-controller-restock)
- - [iPhone Fold will dominate the market despite 2026 arrival](https://appleinsider.com/articles/25/07/20/iphone-fold-will-dominate-the-market-despite-late-2026-arrival?utm_source=rss)
- - [Wemo&#39;s demise, Aqara G100 camera, &amp; smart chicken coop follow-up on HomeKit Insider](https://appleinsider.com/articles/25/07/21/wemos-demise-aqara-g100-camera-smart-chicken-coop-follow-up-on-homekit-insider?utm_source=rss)
- - [One of these three Apple executives will probably be Tim Cook&#39;s replacement](https://appleinsider.com/articles/25/07/20/tim-cooks-successor-could-be-one-of-many-apple-executives?utm_source=rss)<!-- TECH:END -->
+ - [Sony’s 30th Anniversary DualSense Controller is back in stock online at 10AM ET](https://www.theverge.com/tech/710545/playstation-30th-anniversary-dualsense-controller-restock)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

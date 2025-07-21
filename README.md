@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nietzsche wrote about this](http://9gag.com/gag/ajPRzbw)
  - 😝 [Stick into...](http://9gag.com/gag/aGy7m1n)
- - 💣 [Who remembers? The spitting on his arm, stalling the engine, the friend losing it in the backseat, absolute cinema](http://9gag.com/gag/aE0ZmbM)
- - 😝 [Bro singlehandedly saved his gene pool](http://9gag.com/gag/aQzyGA2)
- - 👉 [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)<!-- MEMES:END -->
+ - 😝 [Who remembers? The spitting on his arm, stalling the engine, the friend losing it in the backseat, absolute cinema](http://9gag.com/gag/aE0ZmbM)
+ - 💣 [It happened again. Humanoid robot went rogue, caught on camera.](http://9gag.com/gag/aoynvvg)
+ - 😝 [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)
+ - 👉 [Made me chuckle](http://9gag.com/gag/an7G6Xo)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft wants to fix &amp;#8216;slow or sluggish&amp;#8217; performance in Windows 11](https://www.theverge.com/news/710535/microsoft-windows-11-performance-improvements-25h2-version)
+ - [The Demise of China’s Hottest Online Shopping Craze](https://www.wired.com/story/chinese-group-buying-startups-meituan-pinduoduo/)
+ - [How Europe is seeking US tech alternatives, as lawmakers consider adding &quot;Buy European&quot; to future laws; Microsoft, Google, and Amazon have unveiled local clouds &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/250721/p6#a250721p6)
  - [UK will back down over its demands on Apple for an encryption backdoor](https://appleinsider.com/articles/25/07/21/uk-will-back-down-over-its-demands-on-apple-for-an-encryption-backdoor?utm_source=rss)
- - [TSMC closed above a $1T market cap in Taiwan on July 18, a first, up nearly 50% from an April low and the first Asian stock worth $1T+ since PetroChina in 2007 &lpar;Jeanny Yu/Bloomberg&rpar;](http://www.techmeme.com/250721/p5#a250721p5)
- - [Beyond Wellness](https://www.wired.com/beyond-wellness/)
- - [Bryan Johnson Is Going to Die](https://www.wired.com/story/big-interview-bryan-johnson/)
- - [A Head-to-Toe Breakdown of Social Media’s Billion-Dollar Remedies](https://www.wired.com/story/head-to-toe-wellness-influencers/)<!-- TECH:END -->
+ - [TSMC closed above a $1T market cap in Taiwan on July 18, a first, up nearly 50% from an April low and the first Asian stock worth $1T+ since PetroChina in 2007 &lpar;Jeanny Yu/Bloomberg&rpar;](http://www.techmeme.com/250721/p5#a250721p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

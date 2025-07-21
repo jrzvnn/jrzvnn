@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Made me chuckle](http://9gag.com/gag/an7G6Xo)
  - 😝 [Bro singlehandedly saved his gene pool](http://9gag.com/gag/aQzyGA2)
- - 💣 [Denzel](http://9gag.com/gag/a4PwD9A)
- - 😝 [It happened again. Humanoid robot went rogue, caught on camera.](http://9gag.com/gag/aoynvvg)
+ - 😝 [Made me chuckle](http://9gag.com/gag/an7G6Xo)
+ - 💣 [It happened again. Humanoid robot went rogue, caught on camera.](http://9gag.com/gag/aoynvvg)
+ - 😝 [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)
  - 👉 [Title](http://9gag.com/gag/aE0Z9pM)<!-- MEMES:END -->
 
 ---

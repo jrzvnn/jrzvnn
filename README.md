@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nietzsche wrote about this](http://9gag.com/gag/ajPRzbw)
- - 😝 [Imma eat dis](http://9gag.com/gag/an7GPAB)
- - 💣 [WNBA players wants lower pay](http://9gag.com/gag/aW4R3zx)
- - 😝 [The elite that rule the world from muricastan](http://9gag.com/gag/aRBRbxQ)
- - 👉 [Jack Nicholson finding out his sister is his mom](http://9gag.com/gag/aRBRqpQ)<!-- MEMES:END -->
+ - 😝 [The mystery of life expectancy solved](http://9gag.com/gag/azx4njK)
+ - 😝 [Le chef](http://9gag.com/gag/aD2QKBd)
+ - 💣 [Hell yeah, fly high free bird.](http://9gag.com/gag/aXPRyKb)
+ - 😝 [Another satisfied client](http://9gag.com/gag/a7onQMw)
+ - 👉 [Thanks for the chair. I started getting tired looking at her cry](http://9gag.com/gag/a5Q5O6V)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Who remembers? The spitting on his arm, stalling the engine, the friend losing it in the backseat, absolute cinema](http://9gag.com/gag/aE0ZmbM)
+ - 😝 [The elite that rule the world from muricastan](http://9gag.com/gag/aRBRbxQ)
+ - 💣 [It happened again. Humanoid robot went rogue, caught on camera.](http://9gag.com/gag/aoynvvg)
  - 😝 [In 1985, an austrian man already told us how to deal with airplane karens](http://9gag.com/gag/a87VZdV)
- - 😝 [Mom said no playing outside for you](http://9gag.com/gag/aVvRpPn)
- - 💣 [Jack Nicholson finding out his sister is his mom](http://9gag.com/gag/aRBRqpQ)
- - 😝 [Nothing happened](http://9gag.com/gag/awyeW7B)
- - 👉 [Nietzsche wrote about this](http://9gag.com/gag/ajPRzbw)<!-- MEMES:END -->
+ - 👉 [Jack Nicholson finding out his sister is his mom](http://9gag.com/gag/aRBRqpQ)<!-- MEMES:END -->
 
 ---
 

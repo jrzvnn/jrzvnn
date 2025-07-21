@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple insists its AI training is ethical and respects publishers](https://appleinsider.com/articles/25/07/21/apple-insists-its-ai-training-is-ethical-and-respects-publishers?utm_source=rss)
  - [Tesla is set to face off with the California DMV over claims it exaggerated Autopilot&#39;s and FSD&#39;s capabilities and misled consumers, in a five-day Oakland trial &lpar;Madlin Mekelburg/Bloomberg&rpar;](http://www.techmeme.com/250721/p15#a250721p15)
  - [Polymarket says it is buying little-known derivatives exchange QCX, in a move to legally re-enter the US market; a source says Polymarket will pay $112M &lpar;Bloomberg&rpar;](http://www.techmeme.com/250721/p14#a250721p14)
  - [How Apple made AI in iOS 26 more helpful &amp; more private](https://appleinsider.com/articles/25/07/21/how-apple-made-ai-in-ios-26-more-helpful-more-private?utm_source=rss)
- - [T-Mobile plans to expand support for the L4S network standard in the coming weeks, helping high-priority internet packets move fast, a first for a US network &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250721/p13#a250721p13)
- - [Tesla’s response to cratering sales? A deals blitz](https://www.theverge.com/news/710627/tesla-deal-discount-incentive-financing-fsd-free-trial)<!-- TECH:END -->
+ - [T-Mobile plans to expand support for the L4S network standard in the coming weeks, helping high-priority internet packets move fast, a first for a US network &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250721/p13#a250721p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple fans in Saudi Arabia can now shop directly from Apple](https://appleinsider.com/articles/25/07/21/apple-fans-in-saudi-arabia-can-now-shop-directly-from-apple?utm_source=rss)
+ - [Seattle-based tax compliance software maker Avalara, acquired by Vista Equity Partners in a 2022 deal valuing it at $8.4B, confidentially files for a US IPO &lpar;Prakhar Srivastava/Reuters&rpar;](http://www.techmeme.com/250721/p27#a250721p27)
  - [What to Expect at Pokemon Presents July 2025: DJ Pikachu and Z-A Legends](https://www.cnet.com/tech/gaming/how-to-watch-pokemon-presents-2025-for-legends-z-a-tcg-pocket-and-more/#ftag=CAD590a51e)
  - [Sources: Oracle is in talks with Skydance for a $100M/year deal for Paramount to use Oracle&#39;s cloud software if the Skydance-Paramount merger goes through &lpar;Bloomberg&rpar;](http://www.techmeme.com/250721/p26#a250721p26)
- - [Citizen will share crime videos with the NYPD](https://www.theverge.com/news/711146/citizen-app-nyc-verified-partners-alerts-surveillance)
- - [Sources: Stargate has struggled to get off the ground and sharply scaled back its near-term plans, as SoftBank and OpenAI disagree on crucial terms of the deal &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250721/p25#a250721p25)
- - [12 of the Best Horror Movies to Stream on HBO Max](https://www.cnet.com/tech/services-and-software/12-of-the-best-horror-movies-on-hbo-max-july-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Citizen will share crime videos with the NYPD](https://www.theverge.com/news/711146/citizen-app-nyc-verified-partners-alerts-surveillance)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

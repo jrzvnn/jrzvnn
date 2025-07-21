@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Dell confirms extortion group World Leaks breached its Solution Centers platform, used for demos, earlier in July, stealing mostly synthetic or public data &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250721/p9#a250721p9)
  - [Meta snubs the EU’s voluntary AI guidelines](https://www.theverge.com/news/710576/meta-eu-ai-act-code-of-practice-agreement)
  - [Blank check company Dynamix says it plans to merge with another entity to create Ether Machine, holding $1.5B in ether, backed by $800M+ from Kraken and others &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250721/p8#a250721p8)
- - [Mark Zuckerberg Is Expanding His Secretive Hawaii Compound. Part of It Sits Atop a Burial Ground](https://www.wired.com/story/mark-zuckerberg-secretive-hawaii-compound-burial-ground/)
- - [KKR acquires a significant minority in Swedish travel tech firm Etraveli, sources say valuing it at ~€2.7B; Etraveli sells plane tickets to ~50M users per year &lpar;Swetha Gopinath/Bloomberg&rpar;](http://www.techmeme.com/250721/p7#a250721p7)<!-- TECH:END -->
+ - [I Just Discovered a Travel Hack That Can Save You Time and Money on International Trips -- And It&#39;s Completely Free](https://www.cnet.com/tech/mobile/i-just-discovered-a-travel-hack-that-can-save-you-time-and-money-on-international-trips-and-its-completely-free/#ftag=CAD590a51e)
+ - [Mark Zuckerberg Is Expanding His Secretive Hawaii Compound. Part of It Sits Atop a Burial Ground](https://www.wired.com/story/mark-zuckerberg-secretive-hawaii-compound-burial-ground/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

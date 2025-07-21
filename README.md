@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fountain in Poland designed by M. Chodakowska](http://9gag.com/gag/a5Q50wG)
- - 😝 [It&#39;s become an acquired skill at this point](http://9gag.com/gag/a7onYgx)
- - 💣 [She touches the Ball 4 times without it hitting the ground...](http://9gag.com/gag/aBy4B3O)
- - 😝 [Got you bro](http://9gag.com/gag/a9yDxyZ)
- - 👉 [Hell yeah, fly high free bird.](http://9gag.com/gag/aXPRyKb)<!-- MEMES:END -->
+ - 😝 [Jack Nicholson finding out his sister is his mom](http://9gag.com/gag/aRBRqpQ)
+ - 😝 [It happened again. Humanoid robot went rogue, caught on camera.](http://9gag.com/gag/aoynvvg)
+ - 💣 [When you accidentally read a spoiler](http://9gag.com/gag/agmKDK1)
+ - 😝 [From my archive #1](http://9gag.com/gag/a87VRmZ)
+ - 👉 [Stick into...](http://9gag.com/gag/aGy7m1n)<!-- MEMES:END -->
 
 ---
 

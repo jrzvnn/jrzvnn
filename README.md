@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pa zuzu](http://9gag.com/gag/ajPRzQp)
- - 😝 [Jack Nicholson finding out his sister is his mom](http://9gag.com/gag/aRBRqpQ)
- - 💣 [In 1985, an austrian man already told us how to deal with airplane karens](http://9gag.com/gag/a87VZdV)
- - 😝 [Who remembers? The spitting on his arm, stalling the engine, the friend losing it in the backseat, absolute cinema](http://9gag.com/gag/aE0ZmbM)
- - 👉 [Nothing happened](http://9gag.com/gag/awyeW7B)<!-- MEMES:END -->
+ - 😝 [It&#39;s secret](http://9gag.com/gag/aVvRAKO)
+ - 😝 [From my archive #1](http://9gag.com/gag/a87VRmZ)
+ - 💣 [That\u2019s a weird looking sti\u2026](http://9gag.com/gag/a7onRPb)
+ - 😝 [In 1985, an austrian man already told us how to deal with airplane karens](http://9gag.com/gag/a87VZdV)
+ - 👉 [It happened again. Humanoid robot went rogue, caught on camera.](http://9gag.com/gag/aoynvvg)<!-- MEMES:END -->
 
 ---
 

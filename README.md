@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X says France has launched a criminal investigation over &quot;the alleged manipulation of its algorithm&quot; and &quot;fraudulent&quot; data extraction; X denies the allegations &lpar;Financial Times&rpar;](http://www.techmeme.com/250721/p3#a250721p3)
+ - [Microsoft SharePoint servers are under attack because of a major security flaw](https://www.theverge.com/news/710513/microsoft-sharepoint-server-attack-zero-day-exploit)
  - [UK wants to weasel out of demand for Apple encryption back door](https://www.theverge.com/news/710504/uk-apple-encryption-back-door-icloud-adp-backing-down)
  - [Survey: when asked about using AI as a companion to seek advice, flirt, or share deep conversations, ~75% of US teens say they&#39;ve used AI this way at least once &lpar;Neda Ulaby/NPR&rpar;](http://www.techmeme.com/250721/p2#a250721p2)
- - [Microsoft releases a patch for a SharePoint 0-day RCE flaw exploited globally on thousands of on-prem servers and says SharePoint 2016 updates are in the works &lpar;Bloomberg&rpar;](http://www.techmeme.com/250721/p1#a250721p1)
- - [Dating apps are encouraging users to meet in person to address concerns about &quot;dating fatigue&quot; among Gen Z and reverse a post-pandemic slowdown in growth &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/250720/p14#a250720p14)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, July 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-july-21/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft releases a patch for a SharePoint 0-day RCE flaw exploited globally on thousands of on-prem servers and says SharePoint 2016 updates are in the works &lpar;Bloomberg&rpar;](http://www.techmeme.com/250721/p1#a250721p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

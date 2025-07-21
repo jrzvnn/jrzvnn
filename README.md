@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Nietzsche wrote about this](http://9gag.com/gag/ajPRzbw)
- - 😝 [My interest in the new MK movie took a nose dive when I saw the new Jade. The minute I saw that bald head I remembered this.](http://9gag.com/gag/aQzyjjz)
- - 💣 [WNBA players wants lower pay](http://9gag.com/gag/aW4R3zx)
- - 😝 [Jack Nicholson finding out his sister is his mom](http://9gag.com/gag/aRBRqpQ)
- - 👉 [That\u2019s a weird looking sti\u2026](http://9gag.com/gag/a7onRPb)<!-- MEMES:END -->
+ - 😝 [From my archive #1](http://9gag.com/gag/a87VRmZ)
+ - 💣 [Step.hanie](http://9gag.com/gag/aBy4B9Q)
+ - 😝 [Stick into...](http://9gag.com/gag/aGy7m1n)
+ - 👉 [Bryce Dallas Howard](http://9gag.com/gag/a0eO36d)<!-- MEMES:END -->
 
 ---
 

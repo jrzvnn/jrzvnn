@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the video podcasting surge; study: ~75% of podcast consumers play video episodes and ~30% play video episodes minimized or in background mode &lpar;Joseph Bernstein/New York Times&rpar;](http://www.techmeme.com/250720/p13#a250720p13)
+ - [Price war: Save up to $480 on M4 16-inch MacBook Pro, prices from $2,209](https://appleinsider.com/articles/25/07/20/price-war-save-up-to-480-on-m4-16-inch-macbook-pro-prices-from-2209?utm_source=rss)
  - [Sources: the UK may backtrack on its January order for Apple to create a backdoor for iCloud encrypted data after pressure from US officials, including JD Vance &lpar;Financial Times&rpar;](http://www.techmeme.com/250720/p12#a250720p12)
  - [A 0-day flaw in Microsoft SharePoint is being exploited in RCE attacks on servers globally; no patch exists and tens of thousands of servers are at risk &lpar;Washington Post&rpar;](http://www.techmeme.com/250720/p11#a250720p11)
- - [Mustafa Suleyman, who is in charge of Microsoft&#39;s efforts to commercialize AI, says he is focused on &quot;humanist superintelligence&quot; to solve hard social problems &lpar;Tim Higgins/Wall Street Journal&rpar;](http://www.techmeme.com/250720/p10#a250720p10)
- - [Best Internet Providers in Raleigh, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-raleigh-nc/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for July 21, #301](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-21-301/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mustafa Suleyman, who is in charge of Microsoft&#39;s efforts to commercialize AI, says he is focused on &quot;humanist superintelligence&quot; to solve hard social problems &lpar;Tim Higgins/Wall Street Journal&rpar;](http://www.techmeme.com/250720/p10#a250720p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

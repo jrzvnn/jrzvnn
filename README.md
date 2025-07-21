@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Faraday Future is back with another wild EV that probably will never get made](https://www.theverge.com/electric-cars/711000/faraday-future-fx-van-reveal-ai-face-grille)
  - [Google solves its Pixel 10 leaks by just showing us the phone](https://www.theverge.com/news/711033/google-pixel-10-design-tease-reveal)
  - [Trump&#39;s Commerce Secretary Loves Tariffs. His Former Investment Bank Is Taking Bets Against Them](https://www.wired.com/story/cantor-fitzgerald-trump-tariff-refunds/)
  - [&#39;Ted Lasso&#39; season 4 production commences in Kansas City](https://appleinsider.com/articles/25/07/21/ted-lasso-season-4-production-commences-in-kansas-city?utm_source=rss)
- - [OpenAI says ChatGPT users send over 2.5 billion prompts every day](https://www.theverge.com/news/710867/openai-chatgpt-daily-prompts-2-billion)
- - [Apple seeds release candidates for iOS 18.6, iPadOS 18.6, macOS Sequoia 15.6](https://appleinsider.com/articles/25/07/21/apple-seeds-release-candidates-for-ios-186-ipados-186-macos-sequoia-156?utm_source=rss)<!-- TECH:END -->
+ - [Microsoft Will Erase Your Passwords on Aug.1: Do This ASAP](https://www.cnet.com/tech/microsoft-will-erase-your-passwords-on-aug-1-do-this-asap/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

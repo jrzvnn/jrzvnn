@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best AirPods to buy](https://www.theverge.com/tech/645217/best-apple-airpods-pro)
+ - [Everything Is a ‘False Flag’ Now](https://www.wired.com/story/false-flag-conspiracy-theory-trump/)
  - [Honda and Acura EV owners can now use Tesla Superchargers](https://www.theverge.com/news/711472/honda-acura-ev-tesla-supercharger-access-adapter)
  - [Sources: Apple&#39;s team working on AI models wanted to release several as open source, Craig Federighi disagreed, largely concerned about public perception issues &lpar;The Information&rpar;](http://www.techmeme.com/250722/p19#a250722p19)
- - [The Verge Launches New Site Features Aimed at Deepening Audience Engagement and Announces New Editorial Newsletters](https://www.theverge.com/press-room/710921/verge-site-features-launch-newsletters)
- - [The Verge is getting way more personal with following feeds](https://www.theverge.com/bulletin/710925/the-verge-is-getting-way-more-personal-with-following-feeds)
- - [Pokémon Legends: Z-A has a detailed new trailer and Switch 2 bundle](https://www.theverge.com/games/711445/pokemon-legends-z-a-nintendo-switch-2-bundle-trailer)<!-- TECH:END -->
+ - [The Verge Launches New Site Features Aimed at Deepening Audience Engagement and Announces New Editorial Newsletters](https://www.theverge.com/press-room/710921/verge-site-features-launch-newsletters)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

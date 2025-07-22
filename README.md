@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google, Amazon, Cohere, and Mistral are intensifying efforts to reduce AI hallucinations via technical fixes, data quality improvements, and fact-checking &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250722/p5#a250722p5)
  - [Seoul-based chip designer FuriosaAI signs a deal with LG to use its AI chip RNGD, its first major contract, after rejecting Meta&#39;s $800M buyout offer in March &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250722/p4#a250722p4)
  - [Newly Discovered ‘Infinity Galaxy’ Could Prove How Ancient Supermassive Black Holes Formed](https://www.wired.com/story/newly-discovered-infinity-galaxy-could-prove-how-ancient-supermassive-black-holes-formed/)
  - [How to Recycle Your Old Computers and Printers for Free](https://www.cnet.com/tech/computing/how-to-recycle-your-old-computers-and-printers-for-free/#ftag=CAD590a51e)
- - [SAVE Student Loan Borrowers Have Less Than 2 Weeks Before Interest Restarts. Here&#39;s What to Do](https://www.cnet.com/personal-finance/loans/save-student-loan-borrowers-have-less-than-2-weeks-before-interest-restarts-heres-what-to-do/#ftag=CAD590a51e)
- - [While AI hasn&#39;t yet led to new physics discoveries, the tech is proving powerful in the field, aiding in experiment design and spotting patterns in complex data &lpar;Anil Ananthaswamy/Quanta Magazine&rpar;](http://www.techmeme.com/250722/p3#a250722p3)<!-- TECH:END -->
+ - [SAVE Student Loan Borrowers Have Less Than 2 Weeks Before Interest Restarts. Here&#39;s What to Do](https://www.cnet.com/personal-finance/loans/save-student-loan-borrowers-have-less-than-2-weeks-before-interest-restarts-heres-what-to-do/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

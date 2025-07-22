@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Still the best video on the internet](http://9gag.com/gag/awye6O4)
- - 😝 [Hello darkness, my old friend](http://9gag.com/gag/a34N9Pr)
- - 💣 [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)
- - 😝 [Backshot and pulling her hair](http://9gag.com/gag/a9yDoyo)
- - 👉 [That was a close call](http://9gag.com/gag/a87VZ01)<!-- MEMES:END -->
+ - 😝 [It&#39;s secret](http://9gag.com/gag/aVvRAKO)
+ - 😝 [That was a close call](http://9gag.com/gag/a87VZ01)
+ - 💣 [Still the best video on the internet](http://9gag.com/gag/awye6O4)
+ - 😝 [Denzel](http://9gag.com/gag/a4PwD9A)
+ - 👉 [Backshot and pulling her hair](http://9gag.com/gag/a9yDoyo)<!-- MEMES:END -->
 
 ---
 

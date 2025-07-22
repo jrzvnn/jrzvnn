@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Telegram expands access to its TON crypto wallet, integrated into the Telegram app, for its 87M users in the US &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250722/p18#a250722p18)
+ - [Apple warns Iranians of iPhone spyware attacks ahead of Israel conflict](https://appleinsider.com/articles/25/07/22/apple-warns-iranians-of-iphone-spyware-attacks-ahead-of-israel-conflict?utm_source=rss)
  - [A daily Pokémon puzzle game is out now as part of a busy lineup](https://www.theverge.com/news/710734/pokemon-presents-july-2025-trailer-roundup)
  - [Microsoft says it &quot;has observed two named Chinese nation-state actors, Linen Typhoon and Violet Typhoon exploiting&quot; the SharePoint zero-day vulnerabilities &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250722/p17#a250722p17)
- - [This Is the Best Sleeping Bag](https://www.wired.com/story/rumpl-wrap-sack-perfect-sleeping-bag/)
- - [Elgato’s new capture card lowers the price for 4K 60fps gameplay recording](https://www.theverge.com/news/710547/elgato-game-capture-4k-price-release-date-features)
- - [A-lister antics and Schedule A shenanigans](https://www.theverge.com/news/711130/celebrity-press-tour-new-media-podcasts-schedule-a-ip-law)<!-- TECH:END -->
+ - [This Is the Best Sleeping Bag](https://www.wired.com/story/rumpl-wrap-sack-perfect-sleeping-bag/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

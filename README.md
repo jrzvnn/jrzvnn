@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s secret](http://9gag.com/gag/aVvRAKO)
- - 😝 [That was a close call](http://9gag.com/gag/a87VZ01)
- - 💣 [Still the best video on the internet](http://9gag.com/gag/awye6O4)
+ - 😝 [Goodbye Legend](http://9gag.com/gag/amoRjnd)
  - 😝 [Denzel](http://9gag.com/gag/a4PwD9A)
- - 👉 [Backshot and pulling her hair](http://9gag.com/gag/a9yDoyo)<!-- MEMES:END -->
+ - 💣 [Virtual girlfriends getting more realistic](http://9gag.com/gag/a6ZGPvL)
+ - 😝 [Still the best video on the internet](http://9gag.com/gag/awye6O4)
+ - 👉 [Hmm. Is the US of A full of paedos? I see pattern here...](http://9gag.com/gag/apRVWmW)<!-- MEMES:END -->
 
 ---
 

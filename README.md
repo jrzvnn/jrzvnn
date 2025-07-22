@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is the reason for this?](http://9gag.com/gag/aPArKoV)
- - 😝 [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)
- - 💣 [Hmm. Is the US of A full of paedos? I see pattern here...](http://9gag.com/gag/apRVWmW)
- - 😝 [Denzel](http://9gag.com/gag/a4PwD9A)
- - 👉 [#life goals](http://9gag.com/gag/aZZRGjW)<!-- MEMES:END -->
+ - 😝 [Your salary](http://9gag.com/gag/aNDj6xG)
+ - 😝 [Ozzy Passed Away](http://9gag.com/gag/ayNvgzM)
+ - 💣 [Grandpa picking up a cat](http://9gag.com/gag/aRBR5VM)
+ - 😝 [This guy explains how Roman soldiers would carry their items.](http://9gag.com/gag/awye698)
+ - 👉 [What if I&#39;m not the smartest peanut in the turd?](http://9gag.com/gag/aZZRAw9)<!-- MEMES:END -->
 
 ---
 

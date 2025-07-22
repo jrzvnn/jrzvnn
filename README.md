@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI Seeks Additional Capital From Investors as Part of Its $40 Billion Round](https://www.wired.com/story/openai-fundraising-round-softbank-sam-altman/)
+ - [GoPro&amp;#8217;s refreshed Max 360 action camera is down to an all-time low price](https://www.theverge.com/tech/711629/gopro-max-2025-twelve-south-hirise-3-deluxe-deal-sale)
+ - [Apple&#39;s free cash flow could surge under new IRS rules](https://appleinsider.com/articles/25/07/22/apples-free-cash-flow-could-surge-under-new-irs-rules?utm_source=rss)
  - [Amazon buys Bee AI wearable that listens to everything you say](https://www.theverge.com/news/711621/amazon-bee-ai-wearable-acquisition)
- - [Poseidon, an AI-focused decentralized data layer built on the Story protocol, raised a $15M seed led by a16z &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250722/p26#a250722p26)
- - [Apple releasing six new iPhones in 2027 shouldn&#39;t be a surprise](https://appleinsider.com/articles/25/07/22/apple-releasing-six-new-iphones-in-2027-shouldnt-be-a-surprise?utm_source=rss)
- - [OneXSugar: Playing with the first dual-screen transforming handheld](https://www.theverge.com/report/711116/onexsugar-sugar-1-hands-on-preview-transforming-dual-screen)
- - [Doom and gloom reporting on Apple Intelligence continues to ignore Apple&#39;s playbook](https://appleinsider.com/articles/25/07/22/doom-and-gloom-reporting-on-apple-intelligence-continues-to-ignore-apples-playbook?utm_source=rss)<!-- TECH:END -->
+ - [Poseidon, an AI-focused decentralized data layer built on the Story protocol, raised a $15M seed led by a16z &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250722/p26#a250722p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

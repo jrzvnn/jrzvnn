@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rove’s R2-4K dash cam is an extra set of eyes on the road and $48 off at Amazon](https://www.theverge.com/tech/711754/rove-r2-4k-dash-cam-deal-sale)
  - [Windows 11&amp;#8217;s new update will add a bunch of AI features](https://www.theverge.com/news/711797/windows-11-microsoft-ai-features-copilot-vision-launch)
  - [Rumored HomePod with screen gets an indirect nod in iOS 26](https://appleinsider.com/articles/25/07/22/rumored-homepod-with-screen-gets-an-indirect-nod-in-ios-26?utm_source=rss)
  - [Blowout deal: Save $2,144 on M3 Max 16-inch MacBook Pro with 128GB RAM, 2TB SSD](https://appleinsider.com/articles/25/07/22/blowout-deal-save-2144-on-m3-max-16-inch-macbook-pro-with-128gb-ram-2tb-ssd?utm_source=rss)
- - [iOS 26 beta 4 adds more &quot;liquid&quot; back to Liquid Glass design, after dialing it back in beta 3 &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/250722/p32#a250722p32)
- - [Democrats are desperately trying to revive the click-to-cancel rule](https://www.theverge.com/politics/711707/click-to-cancel-democrats-ftc)<!-- TECH:END -->
+ - [iOS 26 beta 4 adds more &quot;liquid&quot; back to Liquid Glass design, after dialing it back in beta 3 &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/250722/p32#a250722p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

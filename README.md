@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s new Intel-powered Surface Laptop 5G arrives in August](https://www.theverge.com/news/711278/microsoft-surface-laptop-5g-specs-release-date-pricing)
- - [Pixel 10 Pro looks a lot like the base model in leaked renders](https://www.theverge.com/news/711580/google-pixel-10-pro-design-leak-colors-temperature-sensor)
- - [App Store changes should avoid further EU fines](https://appleinsider.com/articles/25/07/22/app-store-changes-should-avoid-further-eu-fines?utm_source=rss)
- - [&#39;Pokemon&#39; joins the daily puzzle craze with new iPhone game](https://appleinsider.com/articles/25/07/22/pokemon-joins-the-daily-puzzle-craze-with-new-iphone-game?utm_source=rss)
- - [Sources: Microsoft has poached 24+ employees from Google DeepMind in the past six months; Gemini engineering head Amar Subramanya confirms the move to Microsoft &lpar;Financial Times&rpar;](http://www.techmeme.com/250722/p24#a250722p24)<!-- TECH:END -->
+ - [OneXSugar: Playing with the first dual-screen transforming handheld](https://www.theverge.com/report/711116/onexsugar-sugar-1-hands-on-preview-transforming-dual-screen)
+ - [Doom and gloom reporting on Apple Intelligence continues to ignore Apple&#39;s playbook](https://appleinsider.com/articles/25/07/22/doom-and-gloom-reporting-on-apple-intelligence-continues-to-ignore-apples-playbook?utm_source=rss)
+ - [Fantastic Four: First Steps’ greatest superpower is its gorgeous visuals](https://www.theverge.com/movie-reviews/711370/fantastic-four-first-steps-review-marvel)
+ - [Apple trials fourth developer betas of iOS 26, iPadOS 26](https://appleinsider.com/articles/25/07/22/apple-trials-fourth-developer-betas-of-ios-26-ipados-26?utm_source=rss)
+ - [Nvidia rival Hailo announced the general availability of its second-generation AI accelerator chip, the Hailo-10H, with HP among its early adopters &lpar;Dylan Martin/CRN&rpar;](http://www.techmeme.com/250722/p25#a250722p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

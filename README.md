@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In 1985, an austrian man already told us how to deal with airplane karens](http://9gag.com/gag/a87VZdV)
  - 😝 [Stick into...](http://9gag.com/gag/aGy7m1n)
- - 💣 [It happened again. Humanoid robot went rogue, caught on camera.](http://9gag.com/gag/aoynvvg)
- - 😝 [From my archive #1](http://9gag.com/gag/a87VRmZ)
- - 👉 [Made me chuckle](http://9gag.com/gag/an7G6Xo)<!-- MEMES:END -->
+ - 😝 [Mom said no playing outside for you](http://9gag.com/gag/aVvRpPn)
+ - 💣 [I love japan](http://9gag.com/gag/aQzyWYz)
+ - 😝 [It happened again. Humanoid robot went rogue, caught on camera.](http://9gag.com/gag/aoynvvg)
+ - 👉 [It&#39;s secret](http://9gag.com/gag/aVvRAKO)<!-- MEMES:END -->
 
 ---
 

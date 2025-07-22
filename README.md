@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Survey of 900 US Google users: of ~69K searches, 18% gave AI Overviews; on those searches users clicked a result link 8% of the time, vs. 15% with no AI summary &lpar;Pew Research Center&rpar;](http://www.techmeme.com/250722/p29#a250722p29)
  - [Amazon is acquiring Bee, which sells a $50 device that resembles a Fitbit, is always listening, transcribes conversations, and serves up daily AI summaries &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250722/p28#a250722p28)
  - [Apple brings back notification summaries for news in iOS 26](https://appleinsider.com/articles/25/07/22/apple-brings-back-notification-summaries-for-news-in-ios-26?utm_source=rss)
  - [The 47 Best Shows on Hulu Right Now &lpar;August 2025&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
- - [Why I love my little round Dell USB-C mobile adapter](https://www.theverge.com/tech/711096/adapter-dell-mobile-adapter-favorites)
- - [Apple brings its online retail store to Saudi Arabia](https://www.theverge.com/news/711672/apple-saudi-arabia-online-store-launch)<!-- TECH:END -->
+ - [Why I love my little round Dell USB-C mobile adapter](https://www.theverge.com/tech/711096/adapter-dell-mobile-adapter-favorites)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nietzsche wrote about this](http://9gag.com/gag/ajPRzbw)
- - 😝 [Bro singlehandedly saved his gene pool](http://9gag.com/gag/aQzyGA2)
- - 💣 [When you accidentally read a spoiler](http://9gag.com/gag/agmKDK1)
  - 😝 [That was a close call](http://9gag.com/gag/a87VZ01)
- - 👉 [Hmm. Is the US of A full of paedos? I see pattern here...](http://9gag.com/gag/apRVWmW)<!-- MEMES:END -->
+ - 😝 [Bro singlehandedly saved his gene pool](http://9gag.com/gag/aQzyGA2)
+ - 💣 [It&#39;s secret](http://9gag.com/gag/aVvRAKO)
+ - 😝 [Hmm. Is the US of A full of paedos? I see pattern here...](http://9gag.com/gag/apRVWmW)
+ - 👉 [You will never win](http://9gag.com/gag/a9yD98o)<!-- MEMES:END -->
 
 ---
 
